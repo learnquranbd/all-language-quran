@@ -463,6 +463,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "Second of Four Clauses",
+          "bn": "চার বাক্যের দ্বিতীয়টি"
+        },
+        "p": [
+          {
+            "en": "Wa idha dhukkiru la yadhkurun: and when they are reminded, they do not remember. Four words in Arabic, and a whole portrait. The verse belongs to a short run, 37:12 to 37:15, in which the surah describes from the outside the people who deny the resurrection, one clause at a time. The Prophet ﷺ wonders while they mock. When they are reminded, they do not remember. When they see a sign, they ridicule. And they say this is nothing but plain magic. This verse is the second link in that chain.",
+            "bn": "ওয়া ইযা যুক্কিরূ লা ইয়াযকুরূন: তাদের যখন মনে করিয়ে দেওয়া হয়, তারা মনে রাখে না। আরবিতে মাত্র চারটি শব্দ, অথচ পুরো একটা ছবি। আয়াতটি ৩৭:১২ থেকে ৩৭:১৫ পর্যন্ত ছোট এক ধারার অংশ। সেখানে সূরাটি পুনরুত্থান অস্বীকারকারীদের বাইরে থেকে দেখায়, এক এক বাক্যে এক এক রূপ। নবী ﷺ বিস্মিত হন, আর তারা বিদ্রূপ করে। মনে করিয়ে দিলে তারা মনে রাখে না। নিদর্শন দেখলে ঠাট্টা করে। আর বলে, এ তো স্পষ্ট যাদু ছাড়া কিছু নয়। এ আয়াত সেই শিকলের দ্বিতীয় কড়া।"
+          },
+          {
+            "en": "The run sits between two verses already treated in this collection. Before it, 37:11 put a question to these people: are they harder to create, or what Allah has already created? After it, at 37:16, they finally speak for themselves. This article stays inside the description, and inside its second clause. Ibn Kathir's English abridgement reads 37:11 to 37:19 as a single passage, but it moves from 37:12 straight to 37:14 and gives this verse no comment of its own. So the reading here rests on the other commentators.",
+            "bn": "এই ধারার দুই পাশে এমন দুটি আয়াত, যেগুলো এ সংকলনে আগেই আলোচিত হয়েছে। আগে ৩৭:১১ আয়াতে এদের কাছে প্রশ্ন রাখা হয়েছিল: সৃষ্টি হিসেবে কি তারাই বেশি কঠিন, নাকি আল্লাহ এর আগে যা সৃষ্টি করেছেন তা? আর পরে ৩৭:১৬ আয়াতে তারা অবশেষে নিজের মুখে কথা বলে। এ প্রবন্ধ থাকবে বর্ণনাটির ভেতরে, তার দ্বিতীয় বাক্যে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৩৭:১১ থেকে ৩৭:১৯ এক টানা অংশ হিসেবে পড়ে, কিন্তু ৩৭:১২ থেকে সোজা চলে যায় ৩৭:১৪-এ। এ আয়াতের জন্য আলাদা কোনো ব্যাখ্যা সেখানে নেই। তাই এখানকার পাঠ দাঁড়িয়ে আছে অন্য তাফসীরকারদের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Wonder Opens the Run",
+          "bn": "শুরুর বিস্ময়টি কার"
+        },
+        "p": [
+          {
+            "en": "The chain opens with a wonder, and the commentators record two ways of reading its verb. Al-Qurtubi gives 'ajibta, with the last letter voweled a, as the reading of the people of Medina, of Abu 'Amr and of 'Asim. It addresses the Prophet ﷺ: you wondered at the Qur'an sent down to you while they mocked it, or, in a second explanation he reports, you wondered at their denial of the resurrection. Al-Baghawi reads it the same way: you wondered at their calling you a liar, and they mock your wonder.",
+            "bn": "শিকলের শুরু এক বিস্ময় দিয়ে, আর তার ক্রিয়াটি পড়ার দুটি রীতি তাফসীরকারেরা উল্লেখ করেন। কুরতুবী বলেন, শেষ অক্ষরে যবর দিয়ে 'আজিবতা' মদীনার কারীদের, আবু আমরের ও আসিমের কিরাআত। এতে সম্বোধন নবী ﷺ-কে: আপনার উপর যে কুরআন নাযিল হয়েছে তাতে আপনি বিস্মিত হলেন, আর তারা তা নিয়ে বিদ্রূপ করল। তাঁর উল্লেখ করা আরেক ব্যাখ্যায়: পুনরুত্থান নিয়ে তাদের অস্বীকার দেখে আপনি বিস্মিত হলেন। বাগাভীও একই রীতিতে পড়েন: তারা আপনাকে মিথ্যাবাদী বলায় আপনি বিস্মিত হলেন, আর আপনার বিস্ময় নিয়ে তারা বিদ্রূপ করে।"
+          },
+          {
+            "en": "The other reading is 'ajibtu, with the last letter voweled u, so that the speaker is Allah. Al-Baghawi names Hamzah and al-Kisa'i as its readers and reports it as the reading of Ibn Mas'ud and Ibn 'Abbas. Al-Qurtubi gives it to the Kufan readers other than 'Asim, reports it from 'Ali, Ibn Mas'ud and Ibn 'Abbas, and relays al-Farra' saying that people read the word both ways. Al-Baghawi adds one sentence of caution on this reading: wonder from Allah is not like the wonder of human beings.",
+            "bn": "অন্য রীতি হলো শেষ অক্ষরে পেশ দিয়ে 'আজিবতু', তখন বক্তা স্বয়ং আল্লাহ। বাগাভী এর কারী হিসেবে হামযা ও কিসাঈর নাম বলেন, আর জানান এটি ইবন মাসউদ (রাঃ) ও ইবন আব্বাস (রাঃ)-এর কিরাআত। কুরতুবী একে আসিম ছাড়া কুফার অন্য কারীদের কিরাআত বলেন, আর আলী (রাঃ), ইবন মাসউদ (রাঃ) ও ইবন আব্বাস (রাঃ) থেকে তা বর্ণনা করেন। ফাররার কথাও তিনি উদ্ধৃত করেন: মানুষ শব্দটি দুইভাবেই পড়েছে। এ রীতির বেলায় বাগাভী সাবধান করে একটি বাক্য যোগ করেন: আল্লাহর বিস্ময় মানুষের বিস্ময়ের মতো নয়।"
+          },
+          {
+            "en": "On the first reading, al-Baghawi reports from Qatadah that the Prophet ﷺ wondered at this Qur'an when it came down, and at the straying of the children of Adam. His text then explains the wonder. The Prophet ﷺ used to think that everyone who heard the Qur'an would believe in it; when the idolaters heard it, they mocked it and did not believe, and he wondered at that. Keep that expectation in view. A message so clear that hearing it should be enough is exactly what 37:13 shows failing to take hold.",
+            "bn": "প্রথম রীতির ব্যাখ্যায় বাগাভী কাতাদা থেকে বর্ণনা করেন: নাযিলের সময় এই কুরআন দেখে, আর আদম সন্তানদের পথভ্রষ্টতা দেখে নবী ﷺ বিস্মিত হয়েছিলেন। এরপর বাগাভীর লেখায় বিস্ময়ের কারণটা খুলে বলা আছে। নবী ﷺ ভাবতেন, কুরআন যে-ই শুনবে সে-ই ঈমান আনবে। কিন্তু মুশরিকরা শুনে তা নিয়ে বিদ্রূপ করল, ঈমান আনল না। এতেই তিনি বিস্মিত হলেন। এই প্রত্যাশাটা মনে রাখুন। বার্তা এত স্পষ্ট যে শুনলেই যথেষ্ট হওয়ার কথা, অথচ ৩৭:১৩ দেখায় সেই বার্তাই কোথাও গিয়ে আঁকড়ে ধরতে পারছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reminded, Yet Not Remembering",
+          "bn": "মনে করানো হলো, মনে রইল না"
+        },
+        "p": [
+          {
+            "en": "The verse is built from one root, dh-k-r, used twice. Dhukkiru is passive, from the doubled form dhakkara, to remind: they were reminded, and the verse does not say by whom. Yadhkurun is the plain active verb, they remember, here negated with la. The reminding comes from outside them and is complete; the remembering would have to come from inside them, and it does not come. The sentence also has no object. It never names what they were reminded of, and that gap is where the commentators step in.",
+            "bn": "আয়াতটি গড়া একটিমাত্র ধাতু দিয়ে, য-ক-র, যা এসেছে দুবার। যুক্কিরূ কর্মবাচ্য, এসেছে যাক্কারা থেকে, যার অর্থ মনে করিয়ে দেওয়া। তাদের মনে করিয়ে দেওয়া হয়েছিল, কিন্তু কে দিয়েছিল আয়াত তা বলে না। ইয়াযকুরূন সাধারণ সক্রিয় ক্রিয়া, তারা মনে রাখে, এখানে 'লা' দিয়ে না-বাচক। মনে করানোর কাজটা আসে বাইরে থেকে, আর তা পুরোপুরি হয়েও যায়। মনে রাখাটা আসার কথা ছিল তাদের ভেতর থেকে, সেটা আর আসে না। বাক্যে কর্মও নেই। কী মনে করানো হয়েছিল, আয়াত তা বলে না। এই ফাঁকটুকুতেই তাফসীরকারেরা কথা বলেন।"
+          },
+          {
+            "en": "The same frame, wa idha and then a reaction, returns in the next verse: wa idha ra'aw ayatan yastaskhirun, and when they see a sign, they ridicule. One verse concerns what reaches the ear, the next what reaches the eye. Al-Qurtubi glosses the sign of 37:14 as a miracle, and al-Baghawi reports from Ibn 'Abbas and Muqatil that it means the splitting of the moon. That verse carries its own weight. For this one the point is the pairing: they were given words, then sights, and neither took hold.",
+            "bn": "ঠিক একই কাঠামো, 'ওয়া ইযা' আর তারপর তাদের প্রতিক্রিয়া, ফিরে আসে পরের আয়াতে: ওয়া ইযা রাআও আয়াতান ইয়াসতাসখিরূন, তারা কোনো নিদর্শন দেখলে ঠাট্টা করে। এক আয়াত কানে পৌঁছানো কথার, পরেরটি চোখে পড়া দৃশ্যের। কুরতুবী ৩৭:১৪-এর নিদর্শনকে মুজিযা বলে ব্যাখ্যা করেন। বাগাভী ইবন আব্বাস (রাঃ) ও মুকাতিল থেকে বর্ণনা করেন, এর অর্থ চাঁদ দ্বিখণ্ডিত হওয়া। সে আয়াতের আলোচনা আলাদা। এখানে আসল কথা জোড়টা: তাদের দেওয়া হয়েছিল কথা, তারপর দৃশ্য, কোনোটাই মনে গেঁথে বসেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Reminder Carried",
+          "bn": "উপদেশে কী ছিল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the first answer from Qatadah: wa idha dhukkiru means wu'izu bi-l-Qur'an, they were admonished with the Qur'an; he then glosses la yadhkurun as they do not benefit from it. Al-Baghawi says the same in his own words: when they are admonished with the Qur'an, they do not take the admonition. On this reading the reminder is the revelation itself, the same Qur'an whose coming down the Prophet ﷺ wondered at in the verse before, according to the report from Qatadah that al-Baghawi gives there.",
+            "bn": "প্রথম উত্তরটি কুরতুবী দেন কাতাদা থেকে: 'ওয়া ইযা যুক্কিরূ' মানে কুরআন দিয়ে তাদের উপদেশ দেওয়া হলো। এরপর 'লা ইয়াযকুরূন'-এর ব্যাখ্যা তিনি দেন এভাবে: তারা তা থেকে উপকৃত হয় না। বাগাভী নিজের ভাষায় একই কথা বলেন: কুরআন দিয়ে উপদেশ দেওয়া হলে তারা উপদেশ নেয় না। এ ব্যাখ্যায় উপদেশ হলো স্বয়ং ওহী। আগের আয়াতে বাগাভী কাতাদার যে বর্ণনা আনেন, সে অনুযায়ী এই কুরআনের নাযিল হওয়া দেখেই নবী ﷺ বিস্মিত হয়েছিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi then gives a second answer, from Sa'id ibn Jubayr: when what befell the deniers before them was mentioned to them, they turned away from it and did not reflect. Here the reminder is history, the record of earlier peoples who rejected their messengers and what came of it. The Muyassar widens the frame: they are reminded of what they had forgotten or been heedless of, and they neither benefit from the reminder nor reflect on it. A reminder, on this wording, returns something a person once had.",
+            "bn": "এরপর কুরতুবী দ্বিতীয় উত্তর দেন সাঈদ ইবন জুবাইর থেকে: তাদের আগের মিথ্যারোপকারীদের উপর যা নেমে এসেছিল, তা তাদের কাছে উল্লেখ করা হলে তারা মুখ ফিরিয়ে নিত, ভেবে দেখত না। এখানে উপদেশ মানে ইতিহাস। আগের যেসব জাতি নিজেদের রাসূলদের প্রত্যাখ্যান করেছিল, তাদের কথা আর তাদের পরিণতি। মুয়াসসার পরিসরটা আরও বড় করে: যা তারা ভুলে গিয়েছিল কিংবা যে বিষয়ে গাফেল ছিল, তা মনে করিয়ে দেওয়া হয়, অথচ তারা এ উপদেশ থেকে উপকারও নেয় না, এ নিয়ে ভাবেও না। এ ভাষ্যে উপদেশ মানুষের কাছে এমন কিছু ফিরিয়ে আনে, যা একসময় তার কাছেই ছিল।"
+          },
+          {
+            "en": "As-Sa'di goes furthest inward. They are reminded of what they know in their fitra, their created nature, and in their minds: something they had grasped and to which their attention had been drawn. That gives four answers: the Qur'an, the fate of earlier deniers, what they had forgotten, and what their own nature already knew. None of these commentators argues against another here. Each names a different thing a reminder can carry, and the verse, by leaving its object unspoken, has room for all of them.",
+            "bn": "সবচেয়ে ভেতরের দিকে যান সা'দী। তাঁর মতে তাদের মনে করানো হয় এমন জিনিস, যা তারা নিজেদের ফিতরাত, অর্থাৎ সৃষ্টিগত স্বভাবে আর নিজেদের বুদ্ধিতে জানে। বিষয়টা তারা ধরতেও পেরেছিল, আর সেদিকে তাদের দৃষ্টিও আকর্ষণ করা হয়েছিল। তাহলে উত্তর দাঁড়াল চারটি: কুরআন, আগের অস্বীকারকারীদের পরিণতি, যা তারা ভুলে গিয়েছিল, আর যা তাদের স্বভাব আগে থেকেই জানত। এখানে এই তাফসীরকারদের কেউ অন্য কারও বিরুদ্ধে যুক্তি দেন না। প্রত্যেকে উপদেশের আলাদা একেকটা বিষয়ের নাম বলেন। আয়াতও কর্মটা উল্লেখ না করে সবগুলোর জন্য জায়গা রেখে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard, Then Left Unused",
+          "bn": "শোনা হলো, কাজে লাগল না"
+        },
+        "p": [
+          {
+            "en": "What, then, does they do not remember mean, if the words plainly reached them? Not one of the commentators consulted takes it as a failure of memory. Al-Qurtubi: la yantafi'una bihi, they do not benefit from it. Al-Baghawi: la yatta'izun, they take no admonition. The Muyassar: la yantafi'una bi-hadha al-dhikr wa la yatadabbarun, they draw no benefit from this reminder and do not reflect. Sa'id ibn Jubayr: a'radu 'anhu wa lam yatadabbaru, they turned away from it and did not reflect.",
+            "bn": "কথাগুলো যদি স্পষ্টতই তাদের কানে পৌঁছে থাকে, তাহলে 'তারা মনে রাখে না' কথাটার মানে কী? যেসব তাফসীর দেখা হয়েছে, তার একটিও একে স্মৃতিশক্তির দুর্বলতা বলে না। কুরতুবী বলেন: লা ইয়ানতাফিঊনা বিহি, তারা তা থেকে উপকৃত হয় না। বাগাভী বলেন: লা ইয়াত্তাইযূন, তারা উপদেশ নেয় না। মুয়াসসার বলে: তারা এ উপদেশ থেকে উপকার নেয় না, এ নিয়ে চিন্তাও করে না। সাঈদ ইবন জুবাইর বলেন: তারা মুখ ফিরিয়ে নিয়েছিল, চিন্তা করেনি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, reading 37:12 and 37:13 together, puts the same thing in plain modern terms: no amount of advice and counsel given to them works; they are simply averse to any understanding. Taken together, the glosses turn the second verb from memory into response. To remember, in this verse, is to let a reminder do its work: to reflect on it, benefit from it and be changed by it. The people described could have recited back every word they heard and still be the ones who do not remember.",
+            "bn": "মাআরিফুল কুরআন ৩৭:১২ ও ৩৭:১৩ একসঙ্গে পড়ে একই কথা সহজ ভাষায় বলে: যত উপদেশ, যত নসীহতই তাদের দেওয়া হোক, কাজ হয় না। বোঝার ব্যাপারেই তাদের অনীহা। ব্যাখ্যাগুলো পাশাপাশি রাখলে দ্বিতীয় ক্রিয়াটার মানে স্মৃতি থেকে সরে আসে সাড়ার দিকে। এ আয়াতে মনে রাখা মানে উপদেশকে তার কাজ করতে দেওয়া: তা নিয়ে ভাবা, তা থেকে উপকার নেওয়া, তাতে বদলে যাওয়া। আয়াতে যাদের কথা বলা হয়েছে, তারা শোনা প্রতিটি শব্দ মুখস্থ বলে দিতে পারলেও 'মনে রাখে না' দলেরই থেকে যেত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dullness, or a Pretended Blank",
+          "bn": "জড়তা, নাকি না-জানার ভান"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di opens his comment with wa min al-'ajab aydan, and among the astonishing things too, tying the verse back to the wonder of 37:12. On that verse he addresses the wonder to two hearers at once: ya ayyuha al-rasul wa ayyuha al-insan, O Messenger, and O human being. The wonder is not kept for the Prophet ﷺ alone. Every reader is invited to stand where he stood and find it strange that a clear reminder can be heard and leave nothing behind.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শুরু করেন 'ওয়া মিনাল আজাবি আইদান' দিয়ে, অর্থাৎ বিস্ময়ের আরেকটি বিষয় হলো। এতে আয়াতটি গিয়ে জুড়ে যায় ৩৭:১২-এর বিস্ময়ের সঙ্গে। ওই আয়াতে তিনি বিস্ময়ের সম্বোধন করেন একসঙ্গে দুজনকে: ইয়া আইয়ুহার রাসূল ওয়া আইয়ুহাল ইনসান, হে রাসূল, আর হে মানুষ। বিস্ময়টা তাই শুধু নবী ﷺ-এর জন্য তোলা থাকে না। প্রত্যেক পাঠককে ডাকা হয় তাঁর জায়গায় এসে দাঁড়াতে, আর অবাক হতে যে স্পষ্ট উপদেশ কানে আসার পরও কীভাবে কোনো চিহ্ন না রেখে চলে যায়।"
+          },
+          {
+            "en": "He then weighs two explanations for their not remembering. If it is jahl, real ignorance, it is among the clearest signs of how deeply dull they are, since they were reminded of what is settled in human nature, known by reason, and open to no confusion. If it is tajahul wa 'inad, feigned ignorance and stubbornness, that is more astonishing still, and stranger. He leaves both possibilities standing. Either way the fault does not lie in the reminder, which as-Sa'di describes as plain beyond doubt.",
+            "bn": "এরপর তিনি তাদের মনে না রাখার দুটি সম্ভাব্য কারণ পাশাপাশি রাখেন। যদি এটা জাহল হয়, সত্যিকারের অজ্ঞতা, তবে তাদের ভয়ংকর জড়বুদ্ধির এর চেয়ে বড় প্রমাণ খুব কমই আছে। কারণ তাদের মনে করানো হয়েছিল এমন কিছু, যা মানুষের স্বভাবে স্থির হয়ে আছে, বুদ্ধি দিয়ে জানা যায়, যাতে কোনো সংশয়ের অবকাশ নেই। আর যদি এটা তাজাহুল ও ইনাদ হয়, জেনেও না জানার ভান আর জেদ, তবে তা আরও বিস্ময়কর, আরও অদ্ভুত। দুটো সম্ভাবনাই তিনি খোলা রাখেন। যেটাই হোক, দোষ উপদেশের নয়। সা'দীর ভাষায় সে উপদেশ এমন স্পষ্ট যে তাতে সন্দেহের জায়গা নেই।"
+          },
+          {
+            "en": "The second case is the sharper mirror. Feigned ignorance does not need disbelief to survive; it needs only a truth that would be costly to admit. A person reminded of a debt, of a prayer left undone or of a wrong done to someone can answer with a blank face, as though hearing it for the first time. Nothing in that is forgetfulness. It is knowing, and choosing to act as if one did not know. As-Sa'di calls this more astonishing than real ignorance, and one way to see why: ignorance can be taught, but a pretence has to be dropped.",
+            "bn": "দ্বিতীয় সম্ভাবনাটা আয়নার মতো আরও তীক্ষ্ণ। না-জানার ভান টিকে থাকতে কুফরির দরকার হয় না। দরকার শুধু এমন একটা সত্য, যা স্বীকার করলে কিছু হারাতে হয়। ঋণের কথা, ছুটে যাওয়া নামাযের কথা, কারও উপর করা অন্যায়ের কথা কেউ মনে করিয়ে দিলে মানুষ এমন ভাবলেশহীন মুখে তাকাতে পারে, যেন প্রথমবার শুনছে। এর মধ্যে ভুলে যাওয়া বলে কিছু নেই। এ হলো জেনে-বুঝে না জানার মতো চলা। সা'দী একে আসল অজ্ঞতার চেয়ে বেশি বিস্ময়কর বলেন। কেন, তার একটা ব্যাখ্যা এমন: অজ্ঞকে শেখানো যায়, কিন্তু ভান যে করে, ভানটা তাকেই ছাড়তে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Narration, and No Label",
+          "bn": "হাদীস নেই, তকমাও নয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it, and none is quoted here. At-Tabari's commentary on this stretch of the surah could not be retrieved from the source this collection uses, so nothing in this article is attributed to him. The verse needs no story behind it to be understood. It is a description, placed between a wonder and a mockery, of how one group of hearers met the message that came to them.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি। সূরার এই অংশে তাবারীর তাফসীর এ সংকলনের ব্যবহৃত উৎস থেকে পাওয়া যায়নি। তাই এ প্রবন্ধে তাঁর নামে কোনো কথা বলা হয়নি। আয়াতটি বুঝতে পেছনের কোনো ঘটনার দরকার পড়ে না। এক বিস্ময় আর এক বিদ্রূপের মাঝখানে রাখা এ আয়াত একটি বর্ণনা: একদল শ্রোতা তাদের কাছে আসা বার্তাকে কীভাবে গ্রহণ করেছিল।"
+          },
+          {
+            "en": "That description has limits, and they should be said plainly. The verse describes what it describes: people in the Prophet's ﷺ time who were reminded, would not take the reminder, and mocked. It licenses nothing against any living person or community. It gives no one the right to call a neighbour, a relative or a congregation those who are reminded and do not remember, and it is no excuse to stop reminding, or to remind harshly. Its proper use runs inward, toward the one reading it.",
+            "bn": "এ বর্ণনার একটা সীমা আছে, আর তা সোজাসুজি বলা দরকার। আয়াতটি শুধু সেটুকুই বলে, যা সে বলে: নবী ﷺ-এর যুগের কিছু মানুষ, যাদের মনে করিয়ে দেওয়া হয়েছিল, যারা উপদেশ নেয়নি, উল্টো বিদ্রূপ করেছিল। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশী, আত্মীয় বা কোনো মসজিদের মুসল্লিদের 'যাদের মনে করালে মনে রাখে না' বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। উপদেশ দেওয়া বন্ধ করার বা কড়া ভাষায় উপদেশ দেওয়ার অজুহাতও এটা নয়। এর সঠিক ব্যবহার ভেতরের দিকে, যিনি পড়ছেন তাঁর নিজের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Reminder Reaches You",
+          "bn": "উপদেশ যখন আপনার কাছে আসে"
+        },
+        "p": [
+          {
+            "en": "The Qur'an describes the other outcome in its own words. At 51:55: wa dhakkir fa-inna al-dhikra tanfa'u al-mu'minin, and remind, for the reminder benefits the believers. At 87:9 and 87:10: so remind, if the reminder benefits; the one who fears will take heed. The word the commentators used for what the deniers lacked was benefit, intifa', and these verses speak of a reminder that benefits, from the same root. The reminder is the same in both places. What differs is the one who receives it.",
+            "bn": "অন্য পরিণতিটা কুরআন নিজের ভাষায় বলে দিয়েছে। ৫১:৫৫ আয়াতে: ওয়া যাক্কির ফাইন্নায যিকরা তানফাউল মুমিনীন, আর উপদেশ দিতে থাকুন, কেননা উপদেশ মুমিনদের উপকার করে। ৮৭:৯ ও ৮৭:১০ আয়াতে: উপদেশ উপকারী হলে উপদেশ দিন; যে ভয় করে, সে উপদেশ গ্রহণ করবে। অস্বীকারকারীদের যা ছিল না, তাফসীরকারেরা তাকে বলেছেন উপকার, ইনতিফা। আর এই আয়াতগুলো বলে এমন উপদেশের কথা, যা উপকার করে, একই ধাতু থেকে। উপদেশ দুই জায়গাতেই এক। পার্থক্য শুধু গ্রহণকারীর মধ্যে।"
+          },
+          {
+            "en": "Another verse names what that receiver brings. At 50:37 the Qur'an says there is a reminder in this for whoever has a heart, or lends an ear while fully present. A heart that is alive, and attention that is actually in the room: those are the conditions under which a reminder becomes remembering. Without them, words arrive and pass through. That is exactly the picture 37:13 paints, and it is worth asking how often a sermon, a verse at prayer or a friend's quiet word has reached your ears with neither condition met.",
+            "bn": "গ্রহণকারী কী নিয়ে আসে, তা বলে দেয় আরেকটি আয়াত। ৫০:৩৭ আয়াতে কুরআন বলে, এতে উপদেশ আছে তার জন্য, যার অন্তর আছে, অথবা যে মন দিয়ে, পুরোপুরি হাজির থেকে কান পাতে। জীবিত অন্তর আর সত্যিকারের মনোযোগ, এ দুটো থাকলেই উপদেশ মনে রাখায় রূপ নেয়। না থাকলে কথা আসে আর বেরিয়ে যায়। ৩৭:১৩ ঠিক এই ছবিটাই আঁকে। তাই নিজেকে জিজ্ঞেস করা দরকার, কত বার কোনো বয়ান, নামাযে শোনা কোনো আয়াত বা বন্ধুর নিচু স্বরের কোনো কথা কানে এসেছে, অথচ এ দুটোর কোনোটাই তখন ছিল না।"
+          },
+          {
+            "en": "A few small habits follow. When reminded of something true, pause before replying, and let the first move be to weigh it rather than to defend yourself. Ask whether you have heard this reminder before, and what you did with it last time. Treat the person who reminds you with thanks, since in 37:12 and 37:13 the reminder met mockery, and mockery is the easiest way to make a reminder leave. Then act on it, however slightly. A reminder that changes one deed has been remembered.",
+            "bn": "এ থেকে কয়েকটা ছোট অভ্যাস বেরিয়ে আসে। সত্য কোনো কথা কেউ মনে করিয়ে দিলে জবাব দেওয়ার আগে একটু থামুন। প্রথম কাজ হোক কথাটা ভেবে দেখা, নিজের পক্ষে সাফাই গাওয়া নয়। নিজেকে জিজ্ঞেস করুন, এ উপদেশ আগেও শুনেছেন কি না, আর গতবার এ নিয়ে কী করেছিলেন। যিনি মনে করিয়ে দেন, তাঁর প্রতি কৃতজ্ঞ থাকুন। ৩৭:১২ ও ৩৭:১৩ আয়াতে উপদেশের জবাব এসেছিল বিদ্রূপে, আর বিদ্রূপই উপদেশকে তাড়িয়ে দেওয়ার সবচেয়ে সহজ পথ। তারপর তা অনুযায়ী কাজ করুন, যত অল্পই হোক। যে উপদেশে একটা আমলও বদলায়, সে উপদেশ মনে রাখা হয়েছে।"
+          }
+        ]
+      }
+    ]
+  },
   "37:16": {
     "sections": [
       {

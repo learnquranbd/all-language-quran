@@ -25689,6 +25689,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The sun cannot overtake the moon, nor the night outrun the day; each keeps the bounds He measured. Let that order humble you, and keep within the limits He has set for you.",
     "lessonBn": "সূর্য চাঁদকে ধরতে পারে না, রাতও দিনকে ছাড়িয়ে যেতে পারে না; প্রত্যেকে তাঁর মেপে দেওয়া সীমায় চলে। এই শৃঙ্খলা আপনাকে বিনয়ী করুক, আর তিনি আপনার জন্য যে সীমা বেঁধে দিয়েছেন তার ভেতরে থাকুন।"
+  },
+  "37:13": {
+    "reflectionEn": "Four short clauses describe the people around the Prophet ﷺ. He wonders, and they mock. When they are reminded, they do not remember. When they see a sign, they ridicule. And they call it plain magic. This verse is the second clause, and the quietest. Nobody shouts in it. The reminder arrives, the words are heard, and nothing follows. The reminding and the remembering come from one root, so the sentence shows a reminder landing and leaving no trace. It describes particular people in the Prophet's ﷺ time and is no label for anyone else. For me it is a question. When a verse, a talk or a friend reminds me of what I already know, does anything I do change?",
+    "reflectionBn": "চারটি ছোট বাক্যে নবী ﷺ-এর চারপাশের কিছু মানুষের ছবি। তিনি বিস্মিত হন, আর তারা বিদ্রূপ করে। তাদের মনে করিয়ে দিলে তারা মনে রাখে না। কোনো নিদর্শন দেখলে ঠাট্টা করে। আর বলে, এ তো স্পষ্ট যাদু। এ আয়াত দ্বিতীয় বাক্যটি, চারটির মধ্যে সবচেয়ে নিঃশব্দ। এখানে কেউ চিৎকার করে না। উপদেশ আসে, কথাগুলো কানেও পৌঁছায়, তারপর আর কিছুই ঘটে না। মনে করিয়ে দেওয়া আর মনে রাখা, দুটোই একই ধাতু থেকে। তাই বাক্যটা দেখায়, উপদেশ এসে পড়ল অথচ কোনো দাগ রেখে গেল না। আয়াতটি নবী ﷺ-এর যুগের নির্দিষ্ট কিছু মানুষের বর্ণনা, অন্য কারও গায়ে লাগানোর তকমা নয়। আমার কাছে এ এক প্রশ্ন। কোনো আয়াত, কোনো বয়ান বা কোনো বন্ধু যখন আমাকে এমন কিছু মনে করিয়ে দেয় যা আমি আগে থেকেই জানি, তাতে কি আমার কোনো কাজ বদলায়?",
+    "pointsEn": [
+      "Which reminder have I heard so often that it now passes through me without reaching anywhere?",
+      "When someone reminds me of something true, is my first move to weigh it, or to find a reason it does not apply to me?",
+      "What do I already know to be right that I have been acting as if I did not know?",
+      "When did a reminder last change what I did, and not only what I felt for an hour?",
+      "How do I treat the people who remind me: with thanks, or with a joke at their expense?"
+    ],
+    "pointsBn": [
+      "কোন উপদেশ আমি এত বার শুনেছি যে এখন তা কানে ঢোকে, কিন্তু কোথাও গিয়ে পৌঁছায় না?",
+      "কেউ আমাকে সত্য কোনো কথা মনে করিয়ে দিলে আমার প্রথম কাজ কী হয়: কথাটা ভেবে দেখা, নাকি এ কথা আমার বেলায় খাটে না বলে কোনো অজুহাত খোঁজা?",
+      "কোন জিনিস আমি ঠিক বলে জানি, অথচ এমনভাবে চলছি যেন জানিই না?",
+      "শেষ কবে কোনো উপদেশে আমার কাজ বদলেছে, শুধু ঘণ্টাখানেকের অনুভূতি নয়?",
+      "যারা আমাকে মনে করিয়ে দেয়, তাদের সঙ্গে আমার আচরণ কেমন: কৃতজ্ঞতার, নাকি তাদের নিয়ে ঠাট্টার?"
+    ],
+    "lessonEn": "A reminder heard is not yet a reminder taken. When you are reminded of what you already know, let it change what you do instead of letting it pass.",
+    "lessonBn": "উপদেশ শোনা আর উপদেশ নেওয়া এক কথা নয়। যা আগে থেকেই জানেন, তা কেউ মনে করিয়ে দিলে সেটাকে পাশ কাটিয়ে যেতে দেবেন না, বরং তা দিয়ে নিজের কাজ বদলান।"
   }
 };
 
