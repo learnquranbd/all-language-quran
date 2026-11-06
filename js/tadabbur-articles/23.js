@@ -447,6 +447,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:18": {
+    "sections": [
+      {
+        "h": {
+          "en": "Down From the Seven Paths",
+          "bn": "সাত স্তরের ওপার থেকে নেমে আসা"
+        },
+        "p": [
+          {
+            "en": "The passage has turned from the making of a human being to the sky. 23:17 speaks of seven tara'iq above you and adds that Allah has never been heedless of His creation. 23:18 brings something down from that sky. Wa-anzalna mina-s-sama'i ma'an bi-qadar: and We sent down water from the sky in measure. Fa-askannahu fi-l-ard: and We lodged it in the earth. Wa-inna 'ala dhahabin bihi la-qadirun: and We are surely able to take it away. Thirteen Arabic words, three clauses.",
+            "bn": "অংশটি মানুষ সৃষ্টির বর্ণনা থেকে সবে মাথার উপরের আকাশের দিকে ফিরেছে। ২৩:১৭ আয়াত বলছে তোমাদের উপরে সাতটি তারাইকের কথা, সঙ্গে জানিয়ে দিচ্ছে, আল্লাহ তাঁর সৃষ্টি সম্পর্কে কখনো উদাসীন নন। ২৩:১৮ আয়াত সেই আকাশ থেকে কিছু একটা নামিয়ে আনে। ওয়া আনযালনা মিনাস সামায়ি মাআম বিকাদার: আমি আকাশ থেকে পানি নামিয়েছি পরিমাণমতো। ফা-আসকান্নাহু ফিল আরদ: তারপর তা মাটিতে থিতু করে রেখেছি। ওয়া ইন্না আলা যাহাবিম বিহী লাকাদিরূন: আর তা সরিয়ে নিতেও আমি অবশ্যই সক্ষম। আরবিতে তেরোটি শব্দ, তিনটি বাক্যাংশ।"
+          },
+          {
+            "en": "The commentators read it first as a favour. Ibn Kathir opens by saying that Allah is naming His blessings on His servants, blessings that cannot be counted or reckoned. Al-Qurtubi, who sets out his discussion as four questions, begins the first by calling the verse one of the favours Allah reminds His creation of, and among the greatest of them, he says, is water: the life of bodies and the growth of animals.",
+            "bn": "তাফসীরকারেরা প্রথমে আয়াতটিকে পড়েন নিয়ামত হিসেবে। ইবন কাসীর শুরুতেই বলেন, আল্লাহ এখানে বান্দাদের উপর তাঁর এমন নিয়ামতের কথা বলছেন, যা গুনে বা হিসাব করে শেষ করা যায় না। কুরতুবী তাঁর আলোচনা সাজান চারটি মাসআলায়। প্রথমটিতেই বলেন, এ আয়াত সেইসব নিয়ামতের একটি, যা আল্লাহ তাঁর সৃষ্টিকে মনে করিয়ে দেন। আর সবচেয়ে বড় নিয়ামতগুলোর একটি পানি, যা দেহের জীবন আর প্রাণীর বেড়ে ওঠা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Ruin Nor Shortfall",
+          "bn": "না সর্বনাশ, না ঘাটতি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains bi-qadar as according to need: not so much that it ruins the land and its settlements, and not so little that it fails the crops and fruits, but as much as is needed for watering, drinking and use. As-Sa'di says the same from the side of those who receive it. The water is provision for you and your livestock, sent in a measure that suffices: never cut short until land and trees go without, and never increased past bearing until it wrecks homes and plants cannot live with it.",
+            "bn": "ইবন কাসীর বিকাদারের ব্যাখ্যা দেন প্রয়োজন অনুযায়ী বলে। এত বেশি নয় যে জমি আর জনবসতি নষ্ট করে দেয়, আবার এত কম নয় যে ফসল আর ফলের জন্য কুলায় না। বরং সেচ, পান আর কাজে লাগানোর জন্য যতটুকু দরকার, ঠিক ততটুকু। সা'দী একই কথা বলেন যারা পানি পায় তাদের দিক থেকে। এ পানি আপনাদের আর আপনাদের গবাদি পশুর রিযিক, নামে যথেষ্ট পরিমাণে। কখনো এত কমানো হয় না যে জমি আর গাছ অভাবে পড়ে, আবার এত বাড়ানো হয় না যে সহ্যের বাইরে গিয়ে ঘরবাড়ি ভাসিয়ে দেয় আর গাছপালা বাঁচতে পারে না।"
+          },
+          {
+            "en": "As-Sa'di adds that the measure lies in timing as well as amount: Allah sends it down when it is needed, and turns it away when its going on would do harm. Al-Qurtubi is brief: a measure that sets things right, since more would destroy. He links the word to 15:21, where nothing exists but that its stores are with Allah, and it is sent down only in a known measure. Al-Baghawi reads bi-qadar as a measure Allah knows, and quotes Muqatil: as much as suffices them for their living. The Muyassar says: as creatures need.",
+            "bn": "সা'দী আরও বলেন, এই মাপ শুধু পরিমাণের নয়, সময়েরও। দরকারের সময় আল্লাহ পানি নামান, আর টানা চলতে থাকলে যখন ক্ষতি হবে তখন তা ফিরিয়ে নেন। কুরতুবী সংক্ষেপে বলেন, এমন মাপ যাতে কল্যাণ হয়, কারণ বেশি হলে তা ধ্বংস করে দিত। শব্দটিকে তিনি মিলিয়ে দেন ১৫:২১ আয়াতের সঙ্গে, যেখানে বলা হয়েছে, প্রতিটি জিনিসের ভাণ্ডার আল্লাহর কাছে, আর তিনি তা নামান কেবল নির্দিষ্ট পরিমাণে। বাগাভীর কাছে বিকাদার মানে আল্লাহর জানা এক পরিমাণ। তিনি মুকাতিলের কথা আনেন: জীবন চালাতে তাদের যতটুকু যথেষ্ট। মুয়াসসার বলে: সৃষ্টিকুলের প্রয়োজন অনুযায়ী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measure Across Distance and Season",
+          "bn": "দূরত্ব আর ঋতু জুড়ে মাপ"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws from the word a lesson in human weakness: the very things without which no life can exist turn into causes of death once they pass a limit, and rain that becomes a flood is its example. It then imagines two other arrangements. If each day's water came by each day's rain, living and trading would become a hardship. If a year's supply, or even three months', fell in one downpour and people were told to store it, they would lack the room, and the water would go foul.",
+            "bn": "মাআরিফুল কুরআন এই শব্দ থেকে মানুষের দুর্বলতার শিক্ষা টানে। যেসব জিনিস ছাড়া কোনো প্রাণ টেকে না, সীমা ছাড়ালে সেগুলোই মৃত্যুর কারণ হয়ে দাঁড়ায়। বন্যায় রূপ নেওয়া বৃষ্টি তার উদাহরণ। এরপর সে আরও দুটি ব্যবস্থার কথা কল্পনা করে। প্রতিদিনের পানি যদি প্রতিদিনের বৃষ্টিতে আসত, তবে বেঁচে থাকা আর কাজকারবার দুটোই কষ্টের হয়ে যেত। আর যদি গোটা বছরের, এমনকি তিনটি মাসের পানিও একটা পশলায় নেমে আসত আর মানুষকে বলা হতো জমিয়ে রাখতে, তবে রাখার জায়গা কুলাত না, আর পানিও পচে যেত।"
+          },
+          {
+            "en": "Ibn Kathir gives an example of measure working across distance. Some lands need much water for their crops, yet their soil could not bear rain falling on it, so Allah drives water to them from other countries. He names Egypt, which, he says, is called al-ard al-juruz, the barren land. The Nile carries red silt from Abyssinia in its rainy season, waters Egypt and leaves the silt behind for sowing, because the land there is salty and mostly sand.",
+            "bn": "দূর থেকে কীভাবে মাপমতো পানি পৌঁছায়, ইবন কাসীর তার একটি উদাহরণ দেন। কিছু জমির ফসলে অনেক পানি লাগে, অথচ সেই মাটি নিজের উপর বৃষ্টি সইতে পারে না। তাই আল্লাহ অন্য দেশ থেকে সেখানে পানি পাঠিয়ে দেন। তিনি মিসরের নাম নেন, যাকে তাঁর ভাষায় বলা হয় আল-আরদুল জুরুয, অর্থাৎ অনুর্বর ভূমি। বর্ষার মৌসুমে হাবশার দেশ থেকে নীলনদ লাল পলি বয়ে আনে, মিসরে সেচ দেয়, আর চাষের জন্য সেই পলি রেখে যায়। কারণ সেখানকার মাটি লোনা, বেশির ভাগই বালু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Given a Dwelling in the Ground",
+          "bn": "মাটির ভেতরে পানির ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "Fa-askannahu: We made it dwell. As-Sa'di explains it with the verb of the same root, sakana, together with istaqarra: the water fell, came to rest and settled. Ibn Kathir says: when water comes down from the clouds We make it stay in the earth, and We gave the earth a capacity to receive it, so that it drinks it in and the grains and kernels within are fed by it. As-Sa'di adds a second layer. Allah also lodged it, held ready, in the stores of the earth, so that it did not keep sinking until no one could reach it.",
+            "bn": "ফা-আসকান্নাহু: আমি তাকে বসবাস করালাম। সা'দী এর ব্যাখ্যা দেন একই ধাতুর ক্রিয়া সাকানা দিয়ে, সঙ্গে ইসতাকাররা: পানি নামল, থামল, থিতু হলো। ইবন কাসীর বলেন, মেঘ থেকে পানি নামলে আমি তাকে মাটিতে থাকতে দিই। আর মাটিকে দিয়েছি তা গ্রহণ করার ক্ষমতা, ফলে মাটি তা শুষে নেয়, আর ভেতরের দানা ও বিচি তা থেকে খাবার পায়। সা'দী আরেকটি স্তর যোগ করেন। আল্লাহ পানিকে মাটির ভাণ্ডারে প্রস্তুত করে জমাও রেখেছেন, যাতে তা নামতে নামতে এমন গভীরে চলে না যায় যেখানে কেউ পৌঁছাতে পারে না।"
+          },
+          {
+            "en": "Al-Baghawi, in his first reading, takes the clause to mean what stays behind in pools and marshes, which people use in summer once the rain has stopped. Al-Qurtubi widens it. Allah deposited this water in the earth and made it a store there for people's drinking and watering, so that they find it when they need it, and he names it: the water of rivers and springs, and what is drawn up from wells. The Muyassar is plainest: We made the earth a resting place for this water.",
+            "bn": "বাগাভী তাঁর প্রথম ব্যাখ্যায় বলেন, এখানে উদ্দেশ্য সেই পানি, যা ডোবা আর জলাভূমিতে থেকে যায়, আর বৃষ্টি থেমে গেলে গরমের দিনে মানুষ তা ব্যবহার করে। কুরতুবী অর্থটা আরও ছড়িয়ে দেন। আল্লাহ এ পানি মাটিতে আমানত রেখেছেন, মানুষের পান আর সেচের জন্য সেখানে জমা করেছেন, যাতে দরকারের সময় তারা তা পায়। কোন পানি, সেটাও তিনি বলে দেন: নদী আর ঝরনার পানি, আর কুয়া থেকে যা তোলা হয়। মুয়াসসারের ভাষ্য সবচেয়ে সরল: আমি মাটিকে এই পানির থাকার জায়গা বানিয়েছি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an traces a longer route for the same two words. Rain soaks the ground and the plants and gathers in lakes, ponds and hollows, but such stores last only a while. So, it says, Allah turns great quantities into ice and snow on the mountains, which melt slowly, seep into channels under the ground and come out as springs and streams, while another part sinks deep and is drawn from wells. Ma'arif presents all of this as what fa-askannahu fi-l-ard covers; it is that commentary's reading.",
+            "bn": "মাআরিফুল কুরআন এই দুই শব্দের পেছনে আরও লম্বা এক পথ দেখায়। বৃষ্টি মাটি আর গাছপালা ভিজিয়ে হ্রদ, পুকুর আর নিচু জায়গায় জমে। কিন্তু এমন মজুত বেশিদিন টেকে না। তাই, তার ভাষায়, আল্লাহ বিপুল পানিকে পাহাড়ের চূড়ায় বরফ আর তুষার বানিয়ে রাখেন। তা ধীরে ধীরে গলে, মাটির নিচের নালায় চুইয়ে ঢোকে, তারপর ঝরনা আর স্রোত হয়ে বেরিয়ে আসে। আরেক অংশ আরও গভীরে নেমে যায়, যা কুয়া থেকে তোলা হয়। মাআরিফ বলে, ফা-আসকান্নাহু ফিল আরদ কথাটির ভেতরে এই পুরো ব্যবস্থা ধরা আছে। এটি ওই তাফসীরের নিজস্ব ব্যাখ্যা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Is Every Spring Fed From Above?",
+          "bn": "সব ঝরনাই কি আকাশের পানি?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's paraphrase widens the claim: and We sent down from the sky whatever water is in the earth, and lodged it there. He supports it with Ibn Jurayj, who says of the verse only: water that is from the sky. Al-Baghawi reports a second reading, under 'it was said': Allah lodged it in the earth and then brought it out as springs, so all the water of the earth is from the sky. Al-Qurtubi quotes Mujahid to the same effect: there is no water in the earth but that it is from the sky.",
+            "bn": "তাবারীর ভাষ্যে দাবিটা আরও বড় হয়ে যায়: মাটিতে যত পানি আছে, তা আমি আকাশ থেকে নামিয়েছি, তারপর সেখানে রেখে দিয়েছি। এর সমর্থনে তিনি আনেন ইবন জুরাইজকে, যিনি আয়াতটি সম্পর্কে শুধু বলেন: এ পানি আকাশ থেকেই আসা। বাগাভী 'বলা হয়েছে' দিয়ে দ্বিতীয় একটি ব্যাখ্যা আনেন। আল্লাহ পানিকে মাটিতে রেখেছেন, তারপর সেখান থেকে ঝরনা করে বের করেছেন, কাজেই পৃথিবীর সব পানিই আকাশের। কুরতুবী একই মর্মে মুজাহিদের কথা উদ্ধৃত করেন: পৃথিবীতে এমন কোনো পানি নেই, যা আকাশ থেকে আসেনি।"
+          },
+          {
+            "en": "Al-Qurtubi does not let Mujahid's statement stand without limit. Salt water, he says, is fixed in the earth, so the statement may be restricted to fresh water; Allah has certainly placed water in the earth and also sent water down from the sky. He then records, again under 'it was said', that the water sent down is the fresh water, whose origin is the sea: Allah raised it from the sea to the sky until the rising made it good, then sent it down for use, since the sea's water would be of no use for its saltiness.",
+            "bn": "মুজাহিদের কথাটিকে কুরতুবী শর্তহীন থাকতে দেন না। তাঁর মতে লোনা পানি তো মাটিতেই স্থির হয়ে আছে, তাই কথাটিকে মিঠা পানির মধ্যে সীমাবদ্ধ ধরা যায়। আল্লাহ নিশ্চয়ই মাটিতে পানি রেখেছেন, আবার আকাশ থেকেও পানি নামিয়েছেন। এরপর তিনি আবার 'বলা হয়েছে' দিয়ে আরেকটি মত আনেন। নামানো পানি হলো মিঠা পানি, আর তার উৎস সাগর। আল্লাহ তা সাগর থেকে আকাশে তুলেছেন, উপরে ওঠার ফলে তা ভালো হয়েছে। তারপর কাজে লাগার জন্য নামিয়েছেন, কারণ লবণের জন্য সাগরের পানি কোনো কাজে আসত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Ways It Could Be Lost",
+          "bn": "পানি হারানোর পাঁচ পথ"
+        },
+        "p": [
+          {
+            "en": "On the third clause at-Tabari says: We are able to take away the water We lodged in the earth, so that you would perish of thirst, people, your lands would be ruined and grow neither crop nor tree, and your livestock would die. Then he turns it round: so it is of My blessing upon you that I have left it in the earth for you, flowing. Al-Baghawi names the same three losses: thirst, the death of livestock and the ruin of the land.",
+            "bn": "তৃতীয় বাক্যাংশ সম্পর্কে তাবারী বলেন, মাটিতে যে পানি আমি রেখেছি, তা সরিয়ে নিতে আমি সক্ষম। তখন হে মানুষ, তোমরা পিপাসায় মারা যেতে, তোমাদের জমি নষ্ট হয়ে যেত, তাতে না ফসল গজাত, না গাছ। তোমাদের গবাদি পশুও মরে যেত। তারপর তিনি কথাটা উল্টে বলেন: কাজেই মাটিতে তোমাদের জন্য পানি বইয়ে রাখা আমার এক নিয়ামত। বাগাভীও একই তিনটি ক্ষতির কথা বলেন: পিপাসা, পশুর মৃত্যু আর জমির বিনাশ।"
+          },
+          {
+            "en": "Ibn Kathir opens the clause into five possibilities, each closing with 'We would have done so'. Had We willed, it would not rain. Had We willed, We would turn it away from you to salt flats, wildernesses, seas and empty wastes. Had We willed, We would make it bitter and salt, useless for drinking or watering. Had We willed, it would not go down into the ground but run off its face. And had We willed, once in the ground it would sink so far that you could neither reach it nor benefit from it.",
+            "bn": "ইবন কাসীর এই বাক্যাংশকে খুলে পাঁচটি সম্ভাবনায় সাজান, আর প্রতিটির শেষে বলেন: আমি তা করতে পারতাম। চাইলে বৃষ্টিই হতো না। চাইলে পানিকে তোমাদের কাছ থেকে সরিয়ে লোনা জমি, বিরান প্রান্তর, সাগর আর ধু ধু মরুর দিকে পাঠিয়ে দিতাম। চাইলে পানিকে এমন তেতো আর লোনা বানাতাম যে তা পান বা সেচ কোনো কাজেই লাগত না। চাইলে পানি মাটিতে ঢুকত না, উপর দিয়ে গড়িয়ে চলে যেত। আর চাইলে মাটিতে ঢোকার পর তা এত গভীরে নেমে যেত যে তোমরা তার নাগাল পেতে না, কোনো উপকারও পেতে না।"
+          },
+          {
+            "en": "Then what in fact happens: By His kindness and mercy He sends it down from the clouds sweet and fresh, lodges it in the earth and runs it out as springs and rivers. With it He waters crops and fruits, and you drink from it, you and your animals, and bathe, purify and clean yourselves with it: to Him belong the praise and the favour. As-Sa'di's list is shorter. Allah could withhold it, or send it and let it sink out of reach, or let it come without its purpose being met.",
+            "bn": "তারপর তিনি বলেন বাস্তবে কী ঘটে। নিজের অনুগ্রহ আর রহমতে আল্লাহ মেঘ থেকে মিঠা, সুপেয় পানি নামান। তা মাটিতে রেখে দেন, তারপর ঝরনা আর নদী হিসেবে বইয়ে দেন। তা দিয়ে ফসল আর ফলের বাগানে সেচ দেন। তোমরা আর তোমাদের পশুরা তা পান করো, তা দিয়ে গোসল করো, পবিত্র হও, পরিষ্কার হও। কাজেই সব প্রশংসা আর অনুগ্রহ তাঁরই। সা'দীর তালিকা ছোট। আল্লাহ পানি না নামাতে পারেন, অথবা নামিয়ে এমন গভীরে নামিয়ে দিতে পারেন যেখানে নাগাল মেলে না, অথবা নামালেও যে উদ্দেশ্যে নামে তা পূরণ না-ও হতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Threat, or a Spur to Thanks",
+          "bn": "হুমকি, নাকি শোকরের তাগিদ"
+        },
+        "p": [
+          {
+            "en": "The commentators weigh this clause differently. Al-Qurtubi says it refers to the stored water and calls it tahdid wa-wa'id, a threat and a warning: it is within Our power to take it away and sink it, so that people perish of thirst and their livestock perish. He sets it beside 67:30: say, have you considered, if your water were to sink away, who then would bring you flowing water? The Muyassar uses the same two words and names their target: in this is a threat and a warning for the wrongdoers.",
+            "bn": "এই বাক্যাংশের ভার তাফসীরকারেরা ভিন্নভাবে মাপেন। কুরতুবী বলেন, এখানে কথা হচ্ছে জমা রাখা পানি নিয়ে, আর একে তিনি বলেন তাহদীদ ওয়া ওয়াঈদ, অর্থাৎ হুমকি ও সতর্কবাণী। পানি সরিয়ে নেওয়া আর মাটির গভীরে নামিয়ে দেওয়া আমার ক্ষমতার মধ্যে, তখন মানুষ পিপাসায় মরবে, তাদের পশুও মরবে। তিনি এর পাশে রাখেন ৬৭:৩০ আয়াত: বলো, ভেবে দেখেছ কি, তোমাদের পানি যদি মাটির নিচে হারিয়ে যায়, তবে কে তোমাদের এনে দেবে বহমান পানি? মুয়াসসারও একই দুই শব্দ ব্যবহার করে, আর বলে দেয় কাদের জন্য: এতে জালিমদের জন্য রয়েছে হুমকি ও সতর্কবাণী।"
+          },
+          {
+            "en": "As-Sa'di cites the same verse, 67:30, but reads the clause in another key: Allah is alerting His servants to thank Him for His favour, and to picture its absence and the harm that absence would bring. At-Tabari's paraphrase, ending on My blessing upon you, leans the same way. Ma'arif al-Qur'an reads the clause against wells: water by its nature runs downward and could have gone to a depth from which it could never be drawn, and a merciful Allah has placed it where it can be reached.",
+            "bn": "সা'দীও একই আয়াত ৬৭:৩০ উল্লেখ করেন, তবে বাক্যাংশটি পড়েন অন্য সুরে। এখানে আল্লাহ বান্দাদের সজাগ করছেন, যেন তারা তাঁর নিয়ামতের শোকর করে। আর যেন ভেবে দেখে, নিয়ামতটা না থাকলে কী ক্ষতি নেমে আসত। তাবারীর ভাষ্যও শেষ হয় 'তোমাদের উপর আমার নিয়ামত' কথায়, ঝোঁকটা সেদিকেই। মাআরিফুল কুরআন বাক্যাংশটি পড়ে কুয়ার পানির প্রসঙ্গে। পানির স্বভাবই নিচের দিকে নামা, তা এমন গভীরে চলে যেতে পারত যেখান থেকে কখনো তোলা যেত না। দয়াময় আল্লাহ তা রেখেছেন নাগালের মধ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rivers Said to Flow From Paradise",
+          "bn": "জান্নাত থেকে নামা নদীর বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records that Ibn 'Abbas and others held the verse to mean four rivers in particular: Sayhan, Jayhan, the Nile of Egypt and the Euphrates. In his third question he quotes, from an-Nahhas, a report whose chain runs through Muqatil ibn Hayyan, from 'Ikrima, from Ibn 'Abbas, from the Prophet ﷺ. In it Allah sent down from Paradise five rivers, Sayhun, Jayhun, the Tigris, the Euphrates and the Nile, from one of its springs, on the two wings of Jibril (AS), lodged them in the mountains and set them running in the earth.",
+            "bn": "কুরতুবী জানান, ইবন আব্বাস (রাঃ) ও অন্যরা মনে করতেন আয়াতে বিশেষভাবে চারটি নদীর কথা বলা হয়েছে: সাইহান, জাইহান, মিসরের নীল আর ফোরাত। তৃতীয় মাসআলায় তিনি নাহহাসের সূত্রে একটি বর্ণনা আনেন। তার সনদ মুকাতিল ইবন হাইয়ান থেকে ইকরিমা হয়ে ইবন আব্বাস (রাঃ) পর্যন্ত, তিনি নবী ﷺ থেকে। বর্ণনাটি বলে, আল্লাহ জান্নাত থেকে পাঁচটি নদী নামিয়েছেন: সাইহুন, জাইহুন, দজলা, ফোরাত আর নীল। সবগুলো এসেছে জান্নাতের একটি ঝরনা থেকে, জিবরীল (আঃ)-এর দুই ডানায় ভর করে। আল্লাহ সেগুলো পাহাড়ে আমানত রেখেছেন, তারপর মাটির উপর দিয়ে বইয়ে দিয়েছেন।"
+          },
+          {
+            "en": "The same report reads the verse's last clause as a prophecy: when Gog and Magog come out, Jibril (AS) is sent to lift the Qur'an, knowledge and the five rivers from the earth, and that is 'We are able to take it away'. Al-Baghawi relays it through Muqatil ibn Hayyan too, with more lifted, among them the Black Stone and the Station of Ibrahim, and separately cites a khabar naming four rivers. Neither gives the report a grading, the river lists differ, and at-Tabari, Ibn Kathir and as-Sa'di do not mention it, so this article rests nothing on it.",
+            "bn": "একই বর্ণনা আয়াতের শেষ বাক্যাংশকে ভবিষ্যদ্বাণী হিসেবে পড়ে। ইয়াজুজ-মাজুজ যখন বের হবে, তখন জিবরীল (আঃ)-কে পাঠানো হবে পৃথিবী থেকে কুরআন, ইলম আর ওই পাঁচ নদী তুলে নিতে, আর সেটাই 'তা সরিয়ে নিতে আমি সক্ষম'। বাগাভীও মুকাতিল ইবন হাইয়ানের সূত্রে বর্ণনাটি আনেন, তাতে তুলে নেওয়া জিনিসের তালিকা আরও লম্বা, যেমন হাজরে আসওয়াদ আর মাকামে ইবরাহীম। আলাদাভাবে তিনি চারটি নদীর কথা বলা একটি খবরও উল্লেখ করেন। দুজনের কেউই বর্ণনাটির মান জানাননি, নদীর তালিকাও এক নয়। তাবারী, ইবন কাসীর আর সা'দী এর উল্লেখই করেননি। তাই এই লেখা এর উপর কিছু দাঁড় করাচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pure Water, Praise Owed",
+          "bn": "পবিত্র পানি, প্রাপ্য প্রশংসা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's fourth question is a ruling. Everything that comes down from the sky, whether stored in the earth or not, is pure and purifying: one may bathe with it and make wudu from it, and he defers the detail to his commentary on Surat al-Furqan. So this rain is also the water a worshipper uses to make ready for prayer. None of the tafsirs fetched for this verse attaches a sound hadith to it.",
+            "bn": "কুরতুবীর চতুর্থ মাসআলা একটি বিধান। আকাশ থেকে যা কিছু নামে, মাটিতে জমা থাকুক বা না থাকুক, তা নিজে পবিত্র এবং অন্যকে পবিত্র করে। তা দিয়ে গোসল করা যায়, অজু করা যায়। বিস্তারিত আলোচনা তিনি রেখে দেন সূরা ফুরকানের তাফসীরের জন্য। তাই এই বৃষ্টি সেই পানিও, যা হাতে নিয়ে ইবাদতকারী নামাযের জন্য তৈরি হন। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "The verse can be carried through an ordinary day. Water arrives in a measure no one asked for, rests in ground no one prepared, and stays within reach by the will of the One who could take it away. At-Tabari places the favour in His leaving it flowing, and Ibn Kathir ends his account of the verse with praise: to Him belong the praise and the favour. On their reading, a glass of water is owed the same response.",
+            "bn": "আয়াতটি রোজকার দিনেও সঙ্গে রাখা যায়। পানি আসে এমন মাপে, যা কেউ চেয়ে নেয়নি। থিতু হয় এমন মাটিতে, যা কেউ তৈরি করেনি। আর নাগালের মধ্যে থাকে তাঁরই ইচ্ছায়, যিনি চাইলে তা তুলে নিতে পারেন। তাবারী নিয়ামতটা খুঁজে পান পানিকে বইয়ে রাখার মধ্যে। আর ইবন কাসীর আয়াতের আলোচনা শেষ করেন প্রশংসা দিয়ে: সব প্রশংসা আর অনুগ্রহ তাঁরই। তাঁদের পাঠে এক গ্লাস পানিরও প্রাপ্য সেই একই জবাব।"
+          }
+        ]
+      }
+    ]
+  },
   "23:20": {
     "sections": [
       {

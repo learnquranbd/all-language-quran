@@ -23771,6 +23771,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a dispute becomes a quarrel, keep inviting, stop contending, and leave the final verdict to Allah, who knows what each side does.",
     "lessonBn": "বিতর্ক যখন ঝগড়ায় পরিণত হয়, তখন দাওয়াত চালিয়ে যান, লড়াই থামান, আর শেষ রায় ছেড়ে দিন আল্লাহর হাতে, যিনি দুই পক্ষের কাজই জানেন।"
+  },
+  "23:18": {
+    "reflectionEn": "Rain falls, and most of it does not run off and vanish. It sinks into the ground and waits: in pools that last into the dry months, in springs, in wells dug down to reach it. The verse says three things about it. It comes in measure, not so much that it ruins homes and fields, not so little that the crops fail. It is lodged in the earth, kept for the day it is needed. And the One who sent it is able to take it away. That last clause turns a glass of water into a question. I drink without thinking and wash without counting, and I rarely picture the source running dry. What would I say about this water if I knew it could be withdrawn tomorrow?",
+    "reflectionBn": "বৃষ্টি নামে, কিন্তু তার বেশির ভাগ গড়িয়ে গিয়ে হারিয়ে যায় না। মাটির ভেতরে ঢুকে অপেক্ষা করে। কোথাও খরার মৌসুম পর্যন্ত টিকে থাকা ডোবায়, কোথাও ঝরনায়, কোথাও এমন কুয়ায়, যা খুঁড়ে তার কাছে পৌঁছাতে হয়। আয়াতটি এই পানি সম্পর্কে তিনটি কথা বলে। পানি নামে মেপে, এত বেশি নয় যে ঘরবাড়ি আর খেত নষ্ট হয়ে যায়, আবার এত কম নয় যে ফসল মরে যায়। পানি রাখা থাকে মাটির ভেতরে, যেদিন দরকার হবে সেদিনের জন্য। আর যিনি পাঠিয়েছেন, তিনি তা সরিয়ে নিতেও পুরোপুরি সক্ষম। শেষ কথাটাই এক গ্লাস পানিকে একটা প্রশ্ন বানিয়ে দেয়। আমি না ভেবে পান করি, না গুনে ধুই, আর উৎসটা শুকিয়ে যাওয়ার ছবি কদাচিৎ মনে আনি। যদি জানতাম কালই এ পানি তুলে নেওয়া হতে পারে, তবে আজ এ নিয়ে আমি কী বলতাম?",
+    "pointsEn": [
+      "When did I last thank Allah for water itself, and not only for the meal or the harvest it made possible?",
+      "Where in my life has 'enough, and not more' been a mercy that I mistook for a shortage?",
+      "How much water do I waste in a day, as if what is stored in the earth were mine to spend without account?",
+      "If my well or tap ran dry tomorrow, what would I wish I had said and done while it still flowed?",
+      "Which other gifts do I treat as permanent, though the One who gave them is able to take them away?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আমি শুধু পানির জন্য আল্লাহর শোকর করেছি, পানি দিয়ে যে খাবার বা ফসল হয়েছে শুধু তার জন্য নয়?",
+      "জীবনের কোথায় 'যতটুকু দরকার, তার বেশি নয়' ছিল রহমত, অথচ আমি তাকে টানাটানি ভেবেছি?",
+      "দিনে আমি কতটা পানি নষ্ট করি, যেন মাটিতে রাখা এ পানি আমার নিজের, হিসাব ছাড়াই খরচ করা যায়?",
+      "কাল যদি আমার কুয়া বা কল শুকিয়ে যায়, পানি থাকতে থাকতে কী বলা আর কী করা উচিত ছিল বলে আফসোস হবে?",
+      "আর কোন কোন নিয়ামতকে আমি চিরস্থায়ী ধরে নিয়েছি, অথচ যিনি দিয়েছেন তিনি তা ফিরিয়ে নিতেও সক্ষম?"
+    ],
+    "lessonEn": "Rain comes in measure and is stored in the earth for you, and the One who sent it can take it away. Thank Him for water before its loss teaches you its worth.",
+    "lessonBn": "বৃষ্টি নামে মেপে, আর তা আপনার জন্য মাটিতে জমা রাখা হয়। যিনি পাঠিয়েছেন তিনি তা তুলে নিতেও পারেন। হারিয়ে মূল্য বোঝার আগেই পানির জন্য তাঁর শোকর করুন।"
   }
 };
 
