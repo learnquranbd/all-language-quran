@@ -3063,6 +3063,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:82": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Doubt in Eight Words",
+          "bn": "আট শব্দের এক সন্দেহ"
+        },
+        "p": [
+          {
+            "en": "Qalu a-idha mitna wa-kunna turaban wa-'izaman a-inna la-mab'uthun: they said, when we have died and become dust and bones, are we indeed to be raised? The verse is eight words in Arabic, and after the first, all of them belong to the deniers. It reports a speech; it does not endorse it. And it arrives at a pointed moment, straight after three verses on Allah, who gives the senses, spreads people across the earth and gives life and death (23:78 to 23:80).",
+            "bn": "কালূ আ-ইযা মিতনা ওয়া কুন্না তুরাবান ওয়া ইযামান আ-ইন্না লা-মাবঊসূন: তারা বলল, আমরা মরে গিয়ে মাটি আর হাড় হয়ে গেলে সত্যিই কি আমাদের আবার ওঠানো হবে? আরবিতে আয়াতটি আটটি শব্দের। প্রথম শব্দটি বাদ দিলে বাকি সবই অস্বীকারকারীদের মুখের কথা। আয়াত তাদের কথা উদ্ধৃত করছে, সমর্থন করছে না। আর কথাটা আসছে ঠিক এমন এক জায়গায়, যার আগের তিনটি আয়াতে বলা হয়েছে তাঁর কথা, যিনি ইন্দ্রিয় দিয়েছেন, মানুষকে পৃথিবীতে ছড়িয়ে দিয়েছেন, জীবন দেন আর মৃত্যু ঘটান (২৩:৭৮ থেকে ২৩:৮০)।"
+          },
+          {
+            "en": "Then 23:81 turns with bal, rather: they said what the former peoples said. At-Tabari reads the turn as a verdict on how the proofs were received. These idolaters, he writes, took no lesson from Allah's signs and did not reflect on the arguments set before them for His power to do whatever He wills; they said instead what their forebears had said, nations that denied their messengers before them. Ibn Kathir opens the passage the same way: deniers of the resurrection who resembled the deniers before them.",
+            "bn": "তারপর ২৩:৮১ আয়াত মোড় নেয় 'বাল' শব্দে, মানে বরং: তারা তা-ই বলল, যা আগের লোকেরা বলেছিল। তাবারীর চোখে এই মোড়টাই বলে দেয়, প্রমাণগুলো তারা কীভাবে গ্রহণ করেছিল। তাঁর ব্যাখ্যায়, এই মুশরিকরা আল্লাহর নিদর্শন থেকে শিক্ষা নেয়নি। আল্লাহ যা চান তা-ই করার যে ক্ষমতা তাঁর আছে, তার পক্ষে যেসব যুক্তি তাদের সামনে রাখা হয়েছিল, সেগুলো নিয়ে তারা ভাবেনি। বরং তারা বলেছে তাদের পূর্বসূরিদের কথা, সেই জাতিগুলোর কথা, যারা নিজেদের রাসূলদের মিথ্যা বলেছিল। ইবন কাসীরও অংশটি শুরু করেন একইভাবে: এরা পুনরুত্থান অস্বীকারকারী, যারা আগের অস্বীকারকারীদের মতোই।"
+          },
+          {
+            "en": "So 23:82 gives the content of that inherited saying, and 23:83 completes it. Who is speaking is read two ways. Al-Jalalayn makes the subject of qalu, they said, the ancients themselves; as-Sa'di makes it the present deniers, and at-Tabari, on 23:83, has them address Muhammad ﷺ directly. Either way, the doubt follows a list of things these listeners saw daily: life given, life taken, night giving way to day.",
+            "bn": "তাহলে উত্তরাধিকার সূত্রে পাওয়া সেই কথার ভেতরের অংশটাই ২৩:৮২, আর ২৩:৮৩ তা শেষ করে। কথাটা কার মুখের, তা দুইভাবে পড়া হয়েছে। জালালাইনের মতে 'কালূ', অর্থাৎ তারা বলল, এর কর্তা আগের লোকেরাই। সা'দীর মতে কর্তা বর্তমানের অস্বীকারকারীরা, আর তাবারী ২৩:৮৩-এর আলোচনায় দেখান, তারা সরাসরি মুহাম্মাদ ﷺ-কে সম্বোধন করছে। যেভাবেই পড়া হোক, সন্দেহটা এসেছে এমন কিছু জিনিসের তালিকার পরে, যা শ্রোতারা রোজ দেখত: জীবন দেওয়া, জীবন নিয়ে নেওয়া, রাতের পর দিনের আসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Flesh to Dust",
+          "bn": "মাংস থেকে মাটি"
+        },
+        "p": [
+          {
+            "en": "The deniers describe their own end in three steps: mitna, we have died; kunna turaban, we have become dust; and 'izaman, bones. At-Tabari fills in what lies behind each step. His paraphrase runs: when we have died and returned to dust, our bodies having decayed and our bones stripped of their flesh. On his reading the pair covers the whole body, the flesh gone to dust and the bones left bare.",
+            "bn": "অস্বীকারকারীরা নিজেদের পরিণতি বলছে তিনটি ধাপে: মিতনা, আমরা মরে গেছি; কুন্না তুরাবান, মাটি হয়ে গেছি; আর ইযামান, হাড়। প্রতিটি ধাপের পেছনের ছবিটা তাবারী পূর্ণ করে দেন। তাঁর ব্যাখ্যামূলক ভাষ্য এমন: আমরা যখন মরে মাটিতে ফিরে গেছি, শরীর পচে গলে গেছে, আর হাড়গুলো মাংস থেকে আলাদা হয়ে গেছে। তাঁর পাঠে এ দুটি শব্দ মিলে গোটা শরীরটাই ধরা পড়ে। মাংস মিশে গেছে মাটিতে, পড়ে আছে খালি হাড়।"
+          },
+          {
+            "en": "Al-Muyassar gives it in a single line: shall we, when we have died and our bodies and bones have dissolved into the soil of the earth, live a second time? Ibn Kathir's word for the same process is al-bila, decay. They thought the resurrection far-fetched, he says, once they had passed into decay, as though nothing were left to bring back.",
+            "bn": "মুয়াসসার পুরো কথাটা বলেন এক লাইনে: আমরা মরে গেলে, আমাদের শরীর আর হাড় জমিনের মাটিতে মিশে গলে গেলে, আমরা কি আবার বেঁচে উঠব? এই ক্ষয়ের জন্য ইবন কাসীরের শব্দ 'আল-বিলা', মানে পচে ক্ষয়ে যাওয়া। তিনি বলেন, পচে ক্ষয়ে যাওয়ার পর আবার ওঠার কথাটা তাদের কাছে খুব দূরের ব্যাপার মনে হয়েছিল। যেন ফিরিয়ে আনার মতো কিছুই আর বাকি নেই।"
+          },
+          {
+            "en": "The picture is not drawn to make the deniers look foolish. It is what anyone sees of death, and the verse lets them say it in their own words. Earlier in this same surah, the chiefs of a generation raised after the people of Nuh (AS) said almost the same of their own messenger: \"Does he promise you that when you have died and become dust and bones you will be brought forth?\" (23:35). Turaban wa-'izaman, dust and bones, returns word for word.",
+            "bn": "ছবিটা অস্বীকারকারীদের বোকা দেখানোর জন্য আঁকা হয়নি। মৃত্যুর যে চেহারা সবাই দেখে, এটা সেটাই। আয়াত তাদের মুখে, তাদেরই ভাষায় কথাটা বলতে দিয়েছে। এই সূরাতেই আগে, নূহ (আঃ)-এর কওমের পরে যে প্রজন্ম এসেছিল, তাদের সর্দাররা নিজেদের রাসূল সম্পর্কে প্রায় একই কথা বলেছিল: 'সে কি তোমাদের এই ওয়াদা দেয় যে তোমরা মরে মাটি আর হাড় হয়ে গেলে তোমাদের আবার বের করে আনা হবে?' (২৩:৩৫)। তুরাবান ওয়া ইযামান, মাটি আর হাড়, শব্দ দুটি হুবহু ফিরে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Opened Twice",
+          "bn": "দুবার খোলা এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The grammar carries the disbelief. The question is opened twice, with a-idha, when, at the start, and again with a-inna, are we, before the verb, and the la- of la-mab'uthun adds a further stress: indeed raised. A plain question needs one marker. This one presses at both ends of the sentence, as if the speakers had to ask again to be sure they had heard it right.",
+            "bn": "অবিশ্বাসটা ধরা আছে বাক্যের গঠনেই। প্রশ্নটা খোলা হয়েছে দুবার। শুরুতে আ-ইযা, অর্থাৎ যখন, আর ক্রিয়ার আগে আবার আ-ইন্না, অর্থাৎ আমরা কি। তার উপর লা-মাবঊসূন শব্দের 'লা' আরও জোর যোগ করে: সত্যিই ওঠানো হবে? সাধারণ প্রশ্নে একটা চিহ্নই যথেষ্ট। এখানে বাক্যের দুই মাথাতেই চাপ, যেন বক্তারা ঠিক শুনেছে কিনা নিশ্চিত হতে আবার জিজ্ঞেস করছে।"
+          },
+          {
+            "en": "Al-Baghawi names the tone. They said it, he writes, by way of inkar and ta'ajjub, denial and astonishment. He also glosses la-mab'uthun, raised, with la-mahshurun, gathered. The gloss sits close to the wording of 23:79, two verses back, where the same listeners were told: \"and to Him you will be gathered.\" What they find astonishing is what they had just heard announced.",
+            "bn": "সুরটা কেমন, বাগাভী তার নাম দেন। তাঁর ভাষায়, তারা কথাটা বলেছিল ইনকার আর তাআজ্জুবের ভঙ্গিতে, মানে অস্বীকার আর বিস্ময় নিয়ে। লা-মাবঊসূন, অর্থাৎ ওঠানো হবে, শব্দটির ব্যাখ্যায় তিনি বলেন লা-মাহশূরূন, অর্থাৎ একত্র করা হবে। ব্যাখ্যাটি দুই আয়াত আগের ২৩:৭৯-এর শব্দের খুব কাছাকাছি, যেখানে এই শ্রোতাদেরই বলা হয়েছিল: 'আর তাঁর কাছেই তোমাদের একত্র করা হবে।' যে কথা তারা এইমাত্র শুনেছে, সেটাই তাদের কাছে বিস্ময়ের।"
+          },
+          {
+            "en": "The recitation of the two questions has its own detail. Al-Jalalayn, on this verse, notes that in each of the two places the two hamzas, the question's and the word's own, are either both pronounced in full, or the second is lightened, and that an alif may be inserted between the two. The note concerns how the hamzas are voiced in recitation, not what the deniers are asking or what the verse means.",
+            "bn": "দুটি প্রশ্নের তিলাওয়াতেও আলাদা একটা খুঁটিনাটি আছে। এ আয়াতের আলোচনায় জালালাইন জানান, দুই জায়গাতেই দুটি হামযা আছে, একটি প্রশ্নের, অন্যটি শব্দের নিজের। হয় দুটিই পুরোপুরি উচ্চারণ করা হয়, নয়তো দ্বিতীয়টিকে হালকা করে পড়া হয়। আর দুইয়ের মাঝখানে একটি আলিফ যোগ করেও পড়া যায়। এ মন্তব্য কেবল তিলাওয়াতে হামযা কীভাবে উচ্চারিত হবে তা নিয়ে। অস্বীকারকারীরা কী জিজ্ঞেস করছে, কিংবা আয়াতের অর্থ কী, তাতে এর কোনো প্রভাব নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Far-Fetched or Unthinkable",
+          "bn": "দূরের কথা, নাকি অকল্পনীয়"
+        },
+        "p": [
+          {
+            "en": "The commentators agree on what the deniers meant, but they hear the claim at different strengths. Ibn Kathir uses the language of improbability: yastab'idun, they considered it remote that this could happen once they had passed into decay. As-Sa'di raises the same word to its limit. They deemed it far-fetched, he says, ghayat al-istib'ad, to the utmost degree, walking the road the earlier deniers of resurrection had walked.",
+            "bn": "অস্বীকারকারীরা কী বোঝাতে চেয়েছিল, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ নেই। তবে দাবিটার জোর তাঁরা শোনেন ভিন্ন ভিন্ন মাত্রায়। ইবন কাসীর কথা বলেন অসম্ভাব্যতার ভাষায়: ইয়াসতাবইদূন, পচে ক্ষয়ে যাওয়ার পর এমনটা ঘটবে, তা তারা অনেক দূরের ব্যাপার ভাবত। সা'দী একই শব্দকে তুলে নেন শেষ সীমায়। তিনি বলেন, তারা এটিকে গায়াতুল ইসতিবআদ, অর্থাৎ চরম মাত্রায় অসম্ভব ভেবেছিল। পুনরুত্থান অস্বীকারকারী আগের লোকেরা যে পথে হেঁটেছিল, এরাও হেঁটেছে সে পথেই।"
+          },
+          {
+            "en": "At-Tabari, al-Muyassar and al-Qurtubi put it as a flat negation. At-Tabari spells out what was doubted: being raised from the graves alive, in the very form they had before death. Then he gives their conclusion: this is a thing that will not be. Al-Muyassar and al-Qurtubi use one short formula, hadha la yakunu wa-la yutasawwar: this will not happen and cannot even be conceived. On this reading their claim is not doubt at all, but certainty pointed the other way.",
+            "bn": "তাবারী, মুয়াসসার আর কুরতুবী কথাটাকে রাখেন সরাসরি নাকচের আকারে। কোন জিনিসে সন্দেহ, তাবারী তা স্পষ্ট করেন: কবর থেকে জীবিত অবস্থায় ওঠানো, ঠিক মৃত্যুর আগের চেহারায়। তারপর দেন তাদের সিদ্ধান্ত: এমন কিছু হবার নয়। মুয়াসসার আর কুরতুবী ব্যবহার করেন একটি ছোট সূত্র, হাযা লা ইয়াকূনু ওয়া লা ইউতাসাওয়ার: এটা ঘটবে না, কল্পনাও করা যায় না। এই পাঠে তাদের দাবি আসলে সন্দেহই নয়। এ এক নিশ্চিত বিশ্বাস, শুধু উল্টো দিকে।"
+          },
+          {
+            "en": "As-Sa'di adds one small qualifier that matters for anyone who has to answer this doubt. They held, he writes, that it is inconceivable and does not enter the mind, bi-za'mihim, by their claim. The deniers offered their position as the verdict of reason itself. As-Sa'di records it as a claim, not a finding, and that leaves room for reason to answer it on the very ground it chose.",
+            "bn": "যাঁকে এ সন্দেহের জবাব দিতে হয়, তাঁর জন্য সা'দী ছোট্ট একটি জরুরি কথা যোগ করেন। তিনি লেখেন, তাদের মতে এটা অকল্পনীয়, বুদ্ধিতে ঢোকে না, বি-যা'মিহিম, অর্থাৎ তাদের দাবি অনুযায়ী। অস্বীকারকারীরা নিজেদের অবস্থানকে পেশ করেছিল খোদ বুদ্ধির রায় হিসেবে। সা'দী সেটাকে লিখে রাখেন দাবি হিসেবে, প্রমাণিত সিদ্ধান্ত হিসেবে নয়। তাতে বুদ্ধির জন্যই সুযোগ থাকে, তারা যে জমিতে দাঁড়িয়েছিল, সেই জমিতেই তার জবাব দেওয়ার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Promised, and Never Seen",
+          "bn": "ওয়াদা আছে, দেখা নেই"
+        },
+        "p": [
+          {
+            "en": "The next verse, 23:83, finishes their speech, and the commentators read it as the reason behind the doubt. At-Tabari has them say: we were promised this promise you make to us, O Muhammad, and our fathers before us were promised it by people who said they were Allah's messengers before you, and we never saw it come true. Al-Baghawi gives nearly the same words, and al-Qurtubi places the earlier promise before the coming of Muhammad ﷺ.",
+            "bn": "পরের আয়াত, ২৩:৮৩, তাদের কথা শেষ করে। তাফসীরকারেরা একে পড়েন সন্দেহের পেছনের কারণ হিসেবে। তাবারীর ভাষ্যে তারা বলছে: হে মুহাম্মাদ, তুমি আমাদের যে ওয়াদা দিচ্ছ, সেটা আমাদের আগেও দেওয়া হয়েছে। আমাদের বাপ-দাদাদেরও দিয়েছিল কিছু লোক, যারা নিজেদের তোমার আগের আল্লাহর রাসূল বলে দাবি করত। অথচ আমরা তা কখনো বাস্তবে ঘটতে দেখিনি। বাগাভী প্রায় একই কথা বলেন। আর কুরতুবী জানান, আগের সেই ওয়াদা ছিল মুহাম্মাদ ﷺ-এর আগমনের আগে।"
+          },
+          {
+            "en": "Their last word is asatir al-awwalin, legends of the ancients, and here the glosses differ in colour. At-Tabari: what the ancients wrote down in their books, reports with no soundness or reality to them. As-Sa'di: their tales and evening talk, told to pass the time. Al-Baghawi: the lies of the ancients. Al-Qurtubi: their falsehoods and idle nonsense. Ibn Kathir has them mean that the return is impossible, passed on only by those who took it from the books of the ancients and their inventions.",
+            "bn": "তাদের শেষ কথা আসাতীরুল আওয়ালীন, আগের লোকদের উপকথা। এখানে ব্যাখ্যাগুলোর রং আলাদা। তাবারী বলেন, আগের লোকেরা নিজেদের বইয়ে যা লিখে রেখেছে, এমন সব খবর যার কোনো সত্যতা বা বাস্তবতা নেই। সা'দীর মতে, তাদের কিসসা আর রাতের আড্ডার গল্প, যা সময় কাটাতে বলা হয়। বাগাভীর কথায়, আগের লোকদের মিথ্যা। কুরতুবীর কথায়, তাদের বাজে আর অসার কথা। ইবন কাসীরের ব্যাখ্যায় তারা বোঝাতে চেয়েছে, ফিরে আসা অসম্ভব, কথাটা ছড়ায় কেবল তারাই, যারা আগের লোকদের বই আর বানানো গল্প থেকে তা নিয়েছে।"
+          },
+          {
+            "en": "The argument deserves attention because it is still heard. A promise repeated for generations without being seen fulfilled is taken as proof that it is empty. Yet a promise about what happens after death is, by its nature, not seen before death. The fathers who were promised it have gone themselves to the dust and bones of 23:82, and the time set for it has simply not yet come.",
+            "bn": "যুক্তিটা মনোযোগ দাবি করে, কারণ আজও তা শোনা যায়। প্রজন্মের পর প্রজন্ম যে ওয়াদা শোনা গেছে অথচ পূরণ হতে দেখা যায়নি, সেটাকে ফাঁকা ওয়াদার প্রমাণ ধরা হয়। কিন্তু মৃত্যুর পরে কী হবে, সে ওয়াদা তো স্বভাবতই মৃত্যুর আগে দেখা যায় না। যে বাপ-দাদাদের এ ওয়াদা দেওয়া হয়েছিল, তারা নিজেরাই এখন ২৩:৮২-এর সেই মাটি আর হাড়। তার নির্ধারিত সময় শুধু এখনো আসেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answers Set Beside It",
+          "bn": "পাশে রাখা জবাব"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the passage beside two others where the same denial is voiced. In 79:11 to 79:14 the deniers ask about becoming crumbled bones and call such a return a losing one; the reply is that it will be a single cry, and they will be on the face of the earth. In 36:77 to 36:79 a man strikes a likeness for Allah and forgets his own creation, asking who will give life to bones once they have rotted. The reply: \"He will give them life who produced them the first time.\"",
+            "bn": "ইবন কাসীর অংশটিকে আরও দুটি জায়গার পাশে রাখেন, যেখানে একই অস্বীকার উচ্চারিত হয়েছে। ৭৯:১১ থেকে ৭৯:১৪ আয়াতে অস্বীকারকারীরা জিজ্ঞেস করে, পচা-গলা হাড় হয়ে গেলেও কি? তারপর বলে, তাহলে তো সে ফেরা হবে লোকসানের ফেরা। জবাব আসে: সে তো কেবল এক প্রচণ্ড ধমক, আর অমনি তারা জমিনের উপর। ৩৬:৭৭ থেকে ৩৬:৭৯ আয়াতে এক লোক আল্লাহর জন্য উপমা টানে আর নিজের সৃষ্টির কথা ভুলে যায়। সে জিজ্ঞেস করে, হাড় পচে গেলে কে তাকে জীবন দেবে? জবাব: 'তিনিই জীবন দেবেন, যিনি প্রথমবার তা সৃষ্টি করেছেন।'"
+          },
+          {
+            "en": "As-Sa'di, writing on 23:83, meets the deniers' \"we never saw it\" head on. Allah, he says, showed them signs greater than the resurrection, and signs like it. He then cites three: the creation of the heavens and the earth is greater than the creation of mankind (40:57); the man who strikes a likeness and forgets his own creation (36:78); and the earth you see lifeless, which stirs and swells when water is sent down on it (22:5).",
+            "bn": "২৩:৮৩-এর আলোচনায় সা'দী অস্বীকারকারীদের 'আমরা তো দেখিনি' কথাটার মুখোমুখি জবাব দেন। তিনি বলেন, আল্লাহ তাদের এমন নিদর্শন দেখিয়েছেন, যা পুনরুত্থানের চেয়েও বড়, আবার এমন নিদর্শনও, যা ঠিক তার মতো। তারপর তিনি তিনটি আয়াত আনেন। আসমান ও জমিনের সৃষ্টি মানুষ সৃষ্টির চেয়ে বড় (৪০:৫৭)। যে লোক উপমা টানে আর নিজের সৃষ্টির কথা ভুলে যায় (৩৬:৭৮)। আর তুমি জমিনকে দেখো শুকনো, মরা, তারপর তার উপর পানি নামালেই তা নড়ে ওঠে, ফুলে ওঠে (২২:৫)।"
+          },
+          {
+            "en": "The two sets of references make the same move. Neither treats the question as unanswerable or the questioner as beneath a reply. Each sets the thing doubted beside a thing already granted: a first creation nobody denies, heavens far vaster than a human frame, a field that was dead last month and is green today. The deniers' premise, that dust cannot live, is met by dust that visibly does.",
+            "bn": "দুই দফা উদ্ধৃতি আসলে একই কাজ করে। কোনোটাই প্রশ্নটাকে জবাবের অযোগ্য ভাবে না, প্রশ্নকারীকেও জবাব পাওয়ার অযোগ্য ভাবে না। দুটিই সন্দেহের বিষয়টিকে রাখে এমন কিছুর পাশে, যা আগেই মেনে নেওয়া: প্রথমবারের সৃষ্টি, যা কেউ অস্বীকার করে না; মানুষের শরীরের চেয়ে বহু গুণ বিশাল আসমান; গত মাসে মরে থাকা যে মাঠ আজ সবুজ। মাটি জীবিত হতে পারে না, অস্বীকারকারীদের এই ধারণার জবাব দেয় সেই মাটিই, যা চোখের সামনে জীবিত হয়ে ওঠে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Bone That Remains",
+          "bn": "যে একটি হাড় থেকে যায়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. One sound narration in Sahih al-Bukhari speaks to the very image the deniers chose, and it is given here as a general report about the resurrection, not as an explanation tied to 23:82. Abu Hurayra (RA) reports that the Messenger of Allah ﷺ said: \"Between the two sounds of the trumpet, there will be forty.\" Asked whether he meant forty days, months or years, Abu Hurayra declined each time to say.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস জোড়েনি। তবে সহীহ বুখারীর একটি বিশুদ্ধ বর্ণনা ঠিক সেই ছবিটার কথা বলে, যা অস্বীকারকারীরা বেছে নিয়েছিল। বর্ণনাটি এখানে আনা হচ্ছে পুনরুত্থান সম্পর্কে একটি সাধারণ বর্ণনা হিসেবে, ২৩:৮২-এর ব্যাখ্যা হিসেবে নয়। আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: 'শিঙার দুই ফুঁকের মাঝে থাকবে চল্লিশ।' চল্লিশ দিন, মাস, না বছর, এ প্রশ্ন করা হলে প্রতিবারই আবু হুরায়রা বলতে অস্বীকার করেন।"
+          },
+          {
+            "en": "The narration goes on: \"Then (after this period) Allah will send water from the sky and then the dead bodies will grow like vegetation grows, There is nothing of the human body that does not decay except one bone; that is the little bone at the end of the coccyx of which the human body will be recreated on the Day of Resurrection\" (al-Bukhari 4935). Al-Bukhari placed it in his Sahih.",
+            "bn": "বর্ণনাটি এরপর বলে: 'তারপর আল্লাহ আকাশ থেকে পানি নামাবেন। তখন মৃতরা গজিয়ে উঠবে, যেমন শাকসবজি গজায়। মানুষের শরীরের সবকিছুই পচে যায়, কেবল একটি হাড় ছাড়া। সেটি মেরুদণ্ডের একেবারে শেষ প্রান্তের ছোট্ট হাড়, যা থেকে কিয়ামতের দিন মানুষকে আবার জুড়ে গড়া হবে' (বুখারী ৪৯৩৫)। ইমাম বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন।"
+          },
+          {
+            "en": "The report does not argue with the deniers; it describes. Their picture was a body gone to dust and bones, with nothing left to raise. The hadith answers with rain and growth, the same image as-Sa'di drew from 22:5, and with the detail that something of each person is kept back from decay. What the deniers took as the end of the matter is, in this report, the place the second creation begins.",
+            "bn": "বর্ণনাটি অস্বীকারকারীদের সঙ্গে তর্ক করে না, শুধু ছবি আঁকে। তাদের ছবিতে ছিল মাটি আর হাড়ে পরিণত এক শরীর, ওঠানোর মতো কিছুই আর বাকি নেই। হাদীস জবাব দেয় বৃষ্টি আর গজিয়ে ওঠার ছবি দিয়ে, যে ছবি সা'দী ২২:৫ থেকে টেনেছিলেন। সঙ্গে আছে এই খুঁটিনাটি যে, প্রতিটি মানুষের কিছু একটা পচন থেকে রক্ষা পায়। অস্বীকারকারীরা যেখানে সব শেষ ধরে নিয়েছিল, এ বর্ণনায় দ্বিতীয় সৃষ্টি শুরু হয় ঠিক সেখান থেকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Doubt, Not the Doubter",
+          "bn": "জবাব সন্দেহের, অপমান নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what particular deniers said, the Makkans who answered the Prophet ﷺ or the earlier peoples whose words they repeated, and it describes them in the past. It licenses nothing against any living person or community, and it gives no warrant to mock, shame or harm anyone who voices this doubt today. The Qur'an's own response in these passages is an argument, offered to people who had not yet accepted it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করছে নির্দিষ্ট কিছু অস্বীকারকারীর কথা। তারা হয় মক্কার সেই লোকেরা, যারা নবী ﷺ-কে জবাব দিয়েছিল, নয়তো আগের সেই জাতিগুলো, যাদের কথা এরা আওড়েছে। আর বর্ণনাটা অতীতের। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কেউ এ সন্দেহের কথা মুখে আনলে তাকে ঠাট্টা করার, লজ্জা দেওয়ার বা কষ্ট দেওয়ার কোনো ছাড়পত্রও এতে নেই। এই অংশগুলোতে কুরআনের নিজের জবাবটা হলো যুক্তি, যা দেওয়া হয়েছিল এমন মানুষদের, যারা তখনো তা মেনে নেয়নি।"
+          },
+          {
+            "en": "The question in 23:82 also lives in believers, in quieter forms: at a funeral, in a long illness, awake late at night. The verse does not shame it out of anyone. It shows where the deniers' version came from, a saying inherited and repeated without being weighed, and the surrounding verses show what weighs against it: the One who gives life and causes death, and a first creation nobody disputes.",
+            "bn": "২৩:৮২-এর প্রশ্নটা মুমিনের মনেও বাস করে, তবে চুপিচুপি। জানাজায় দাঁড়িয়ে, দীর্ঘ অসুখের দিনে, গভীর রাতে ঘুম না এলে। আয়াত কাউকে লজ্জা দিয়ে প্রশ্নটা তাড়ায় না। বরং দেখায়, অস্বীকারকারীদের প্রশ্নটা এসেছিল কোথা থেকে: উত্তরাধিকারে পাওয়া একটা কথা, যা যাচাই না করেই আওড়ানো হয়েছে। আর আশপাশের আয়াতগুলো দেখায়, এর বিপরীতে পাল্লায় কী আছে: যিনি জীবন দেন আর মৃত্যু ঘটান, তিনি, আর প্রথমবারের সেই সৃষ্টি, যা নিয়ে কারও আপত্তি নেই।"
+          },
+          {
+            "en": "The practical lesson is twofold. When the doubt rises in oneself, it is to be brought to the evidence rather than buried. When it is voiced by someone else, it is to be met as the commentators met it, with reasons, patience and a reminder of what the listener already knows, and the rest left to Allah, to whom, as 23:79 says, each of us will be gathered.",
+            "bn": "এখান থেকে কাজের শিক্ষা দুটি। সন্দেহটা যখন নিজের মনে জাগে, তখন তাকে চাপা না দিয়ে প্রমাণের সামনে নিয়ে যেতে হবে। আর অন্য কেউ যখন তা মুখে আনে, তখন তার জবাব দিতে হবে সেভাবে, যেভাবে তাফসীরকারেরা দিয়েছেন: যুক্তি দিয়ে, ধৈর্য নিয়ে, আর শ্রোতা আগে থেকেই যা জানে তা মনে করিয়ে দিয়ে। বাকিটা ছেড়ে দিতে হবে আল্লাহর হাতে, ২৩:৭৯ যেমন বলে, যাঁর কাছে আমাদের প্রত্যেককে একত্র করা হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "23:84": {
     "sections": [
       {

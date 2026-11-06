@@ -23931,6 +23931,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not only hear the Qur'an; ponder it. And never let a truth's newness to you, or your elders' habits, become your reason for turning it away.",
     "lessonBn": "কুরআন শুধু শুনে যাবেন না, তা নিয়ে ভাবুন। আর কোনো সত্য আপনার কাছে নতুন বলে, কিংবা মুরব্বিদের অভ্যাসের দোহাই দিয়ে, তাকে ফিরিয়ে দেবেন না।"
+  },
+  "23:82": {
+    "reflectionEn": "Some questions are asked in mockery and some in fear, and the words can be exactly the same. When we have died and become dust and bones, will we really be raised? The people who said it had just been reminded of the One who gives life and causes death, and they answered with what earlier deniers had said. Yet the question itself is not a strange one. Anyone who has stood beside a grave has felt it. The Qur'an does not hush it; it records it in full and answers it, pointing to the first creation and to dead earth that stirs after rain. When this question rises in me, do I bury it, or bring it to the One who made me from nothing?",
+    "reflectionBn": "কিছু প্রশ্ন আসে ঠাট্টা থেকে, কিছু আসে ভয় থেকে, অথচ কথাগুলো হুবহু এক হতে পারে। মরে মাটি আর হাড় হয়ে যাওয়ার পর সত্যিই কি আমাদের আবার ওঠানো হবে? যারা এ কথা বলেছিল, তাদের এইমাত্র মনে করিয়ে দেওয়া হয়েছিল যে জীবন দেন আর মৃত্যু ঘটান একজনই। জবাবে তারা সেটাই বলল, যা আগের অস্বীকারকারীরা বলে গেছে। তবু প্রশ্নটা অদ্ভুত কিছু নয়। কবরের পাশে যে কখনো দাঁড়িয়েছে, সে-ই এর টান টের পেয়েছে। কুরআন প্রশ্নটাকে চাপা দেয় না। পুরোটা তুলে ধরে, তারপর জবাব দেয়: প্রথমবারের সৃষ্টির দিকে তাকাও, বৃষ্টির পর নড়ে ওঠা মরা মাটির দিকে তাকাও। এ প্রশ্ন যখন আমার মনে জাগে, আমি কি একে চাপা দিই, নাকি নিয়ে যাই তাঁর কাছে, যিনি আমাকে শূন্য থেকে বানিয়েছেন?",
+    "pointsEn": [
+      "When the thought of my own death comes, do I push it away, or let it lead me to a question I am willing to answer?",
+      "Have I ever repeated a doubt only because people before me said it, without weighing it for myself?",
+      "If my body was made once from nothing, what exactly makes making it again seem harder to me?",
+      "When someone near me voices this doubt, do I answer with patience and reasons, or with scorn?",
+      "What would I do differently this week if I truly expected to rise again from the dust?"
+    ],
+    "pointsBn": [
+      "নিজের মৃত্যুর কথা মনে এলে আমি কি তা ঠেলে সরিয়ে দিই, নাকি তাকে এমন এক প্রশ্নের কাছে নিয়ে যেতে দিই, যার উত্তর খুঁজতে আমি রাজি?",
+      "শুধু আগের লোকেরা বলেছে বলে, নিজে যাচাই না করে, কোনো সন্দেহের কথা কি আমি কখনো আওড়েছি?",
+      "আমার শরীর একবার শূন্য থেকে বানানো হয়েছে। তাহলে আবার বানানোটা আমার কাছে কঠিন মনে হয় ঠিক কোন কারণে?",
+      "কাছের কেউ যখন এ সন্দেহের কথা বলে, আমি কি ধৈর্য আর যুক্তি নিয়ে জবাব দিই, নাকি তাচ্ছিল্য করে?",
+      "মাটি থেকে আবার উঠে দাঁড়াব, এ কথা সত্যিই বিশ্বাস করলে এ সপ্তাহে আমি কোন কাজটা অন্যভাবে করতাম?"
+    ],
+    "lessonEn": "The One who made you from nothing can raise you from dust; meet this doubt, in yourself or in others, with reflection and patient answers, not with scorn or silence.",
+    "lessonBn": "যিনি আপনাকে শূন্য থেকে বানিয়েছেন, তিনি মাটি থেকেও আবার ওঠাতে পারেন। নিজের মনে হোক বা অন্যের মুখে, এ সন্দেহের জবাব দিন চিন্তা আর ধৈর্য দিয়ে, তাচ্ছিল্য বা নীরবতা দিয়ে নয়।"
   }
 };
 
