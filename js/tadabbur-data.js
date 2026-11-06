@@ -24689,6 +24689,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Call a good thing by its right name even when it comes from someone you may oppose, and make your own words worthy of that name: brief, gentle and begun with Allah's name.",
     "lessonBn": "ভালো জিনিস যার কাছ থেকেই আসুক, এমনকি যার বিরোধিতা আপনি করেন, তাকে তার ন্যায্য নামে ডাকুন। আর নিজের কথাকেও সেই নামের যোগ্য করুন: সংক্ষিপ্ত, কোমল, আর আল্লাহর নামে শুরু।"
+  },
+  "27:60": {
+    "reflectionEn": "Stand in a garden after rain. The trees are heavy with leaves, the ground is green, and the whole place is bright to look at. Who raised the sky the rain fell from? Who sent the water down, and who made those trees climb out of the soil? You can dig, plant and water, but you cannot make one tree grow. The verse then asks the question all of this leads to: is there a god with Allah? Its first listeners would have said that Allah made it all, and still they gave others a share of their worship. Before I judge them, I put the question to myself. Whom do I thank for what grows in my life, and whom do I trust to keep it growing?",
+    "reflectionBn": "বৃষ্টির পর একটা বাগানে গিয়ে দাঁড়ান। গাছগুলো পাতায় ভারী, মাটি সবুজ, চারদিক দেখতে ঝলমলে। যে আকাশ থেকে বৃষ্টি নামল, সেটা কে তুলেছেন? পানি কে পাঠালেন, আর মাটি ফুঁড়ে গাছগুলোকে কে দাঁড় করালেন? আপনি খুঁড়তে পারেন, চারা লাগাতে পারেন, পানি দিতে পারেন। কিন্তু একটা গাছও নিজে গজাতে পারেন না। এসব দেখিয়ে আয়াতটি সেই প্রশ্নে পৌঁছায়: আল্লাহর সঙ্গে কি আর কোনো ইলাহ আছে? প্রথম শ্রোতারা মেনে নিত যে সবকিছুর স্রষ্টা আল্লাহ। তবু তারা নিজেদের ইবাদতের ভাগ অন্যদের দিত। তাদের বিচার করার আগে প্রশ্নটা নিজেকেই করি। আমার জীবনে যা ফলে, তার জন্য আমি কার শুকরিয়া করি? আর সেটা টিকিয়ে রাখার জন্য ভরসা করি কার উপর?",
+    "pointsEn": [
+      "The last time something in creation struck me as beautiful, did my thoughts travel on to the One who made it?",
+      "Which part of my provision do I quietly credit to my own effort, my employer or my luck, as if they had made it grow?",
+      "I know that Allah alone creates and provides; do I still hope in, fear or love anything as if it stood level with Him?",
+      "When I turn away from something I know is true, is it because I do not know better, or because it is what those before me did?",
+      "What would change in my day if I let each rainfall and each meal put the verse's question to me again?"
+    ],
+    "pointsBn": [
+      "শেষ যখন সৃষ্টির কোনো কিছু দেখে মুগ্ধ হয়েছি, আমার ভাবনা কি তার স্রষ্টা পর্যন্ত পৌঁছেছিল?",
+      "আমার রিজিকের কোন অংশের কৃতিত্ব আমি চুপচাপ নিজের খাটুনি, মালিক বা ভাগ্যকে দিয়ে দিই, যেন তারাই ওটা ফলিয়েছে?",
+      "আমি জানি সৃষ্টি আর রিজিক কেবল আল্লাহর হাতে। তবু কি আমি কোনো কিছুর কাছে এমনভাবে আশা রাখি, তাকে এমনভাবে ভয় করি বা ভালোবাসি, যেন সে তাঁর সমান?",
+      "সত্য জেনেও যখন মুখ ফিরিয়ে নিই, তা কি না জানার কারণে, নাকি আগের লোকেরা এমনই করত বলে?",
+      "প্রতিটি বৃষ্টি আর প্রতিটি খাবার যদি আয়াতের প্রশ্নটা আমাকে আবার করে, আমার দিনটা কীভাবে বদলাবে?"
+    ],
+    "lessonEn": "You can plant, but only Allah makes the tree grow; let every garden you see turn your worship to Him alone, with no equal set beside Him.",
+    "lessonBn": "চারা আপনি লাগাতে পারেন, কিন্তু গাছ গজান কেবল আল্লাহ। প্রতিটি বাগান যেন আপনার ইবাদত তাঁর দিকেই ফেরায়, তাঁর পাশে কাউকে সমান না দাঁড় করিয়ে।"
   }
 };
 

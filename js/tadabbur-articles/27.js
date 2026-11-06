@@ -2015,6 +2015,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:60": {
+    "sections": [
+      {
+        "h": {
+          "en": "Rain That Brings Gardens",
+          "bn": "যে বৃষ্টিতে বাগান জাগে"
+        },
+        "p": [
+          {
+            "en": "The account of Lut (AS) closes at 27:58 with a rain sent down on those who had been warned. Then 27:59 tells the Prophet ﷺ to praise Allah, send peace on the servants He chose, and ask: is Allah better, or what they associate with Him? Our verse is the first of five that answer, each opening with amman. Its evidence is the widest of the series: the heavens and the earth, water sent down from the sky, and gardens raised by it. Two verses earlier, what fell from the sky was punishment; here, it is life.",
+            "bn": "লূত (আঃ)-এর কাহিনি শেষ হয় ২৭:৫৮-এ, সতর্ক করা হয়েছিল যাদের, তাদের উপর নেমে আসা এক বর্ষণ দিয়ে। এরপর ২৭:৫৯ নবী ﷺ-কে বলে আল্লাহর প্রশংসা করতে, তাঁর বেছে নেওয়া বান্দাদের উপর সালাম পাঠাতে, আর জিজ্ঞেস করতে: আল্লাহ শ্রেষ্ঠ, নাকি তারা যাকে শরীক করে? যে পাঁচটি আয়াত এর জবাব দেয়, প্রতিটির শুরু 'আম্মান' দিয়ে, আমাদের আয়াতটি তাদের প্রথম। এর প্রমাণের পরিসর গোটা সিরিজে সবচেয়ে বড়: আসমান ও জমিন, আকাশ থেকে নামা পানি, আর সেই পানিতে গজানো বাগান। দুই আয়াত আগে আকাশ থেকে যা নেমেছিল তা ছিল শাস্তি। এখানে তা জীবন।"
+          },
+          {
+            "en": "Ibn Kathir opens his comment in one line: Allah now begins to show that He alone creates, provides and governs, with no one besides Him. The verse is twenty-seven words in Arabic and moves in three steps. It names what Allah has done, it asks whether any god stands with Him, and it describes those who answer wrongly: bal hum qawmun ya'dilun, rather they are a people who ya'dilun. That last word carries two meanings in the commentaries, and this article comes back to both after following the gardens down to their roots.",
+            "bn": "ইবন কাসীর তাঁর ব্যাখ্যা শুরু করেন একটি বাক্যে: এবার আল্লাহ দেখাতে শুরু করছেন যে সৃষ্টি, রিজিক আর পরিচালনা একা তাঁরই, অন্য কারও নয়। আরবিতে আয়াতটি সাতাশ শব্দের, আর এগোয় তিনটি ধাপে। প্রথমে আল্লাহ কী করেছেন তার বিবরণ। তারপর প্রশ্ন, তাঁর সঙ্গে কি আর কোনো ইলাহ আছে। শেষে যারা ভুল জবাব দেয় তাদের পরিচয়: 'বাল হুম কাওমুঁই ইয়া'দিলূন', বরং তারা এমন এক সম্প্রদায় যারা 'ইয়া'দিলূন'। এই শেষ শব্দের দুটি অর্থ তাফসীরে পাওয়া যায়। বাগানগুলোর শিকড় পর্যন্ত দেখে নেওয়ার পর এ লেখা দুটোতেই ফিরে আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measured Against the Powerless",
+          "bn": "অক্ষমের পাশে রেখে মাপা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the opening against the question of 27:59 and spells out the comparison for the idolaters of Quraysh: is the worship of the idols you worship, which neither harm nor benefit, better, or the worship of Him who created the heavens and the earth? Al-Baghawi gives it shorter: are your gods better, or He who created the heavens and the earth? Al-Qurtubi reports the first form from Abu Hatim and the worship-for-worship form under 'it is said', and adds that the verse carries both a rebuke and a pointer to Allah's power and their gods' helplessness.",
+            "bn": "তাবারী আয়াতের শুরুটা ২৭:৫৯-এর প্রশ্নের সঙ্গে মিলিয়ে পড়েন, আর কুরাইশের মূর্তিপূজকদের সামনে তুলনাটা খুলে ধরেন: যে মূর্তিগুলোর তোমরা পূজা কর, যারা না ক্ষতি করতে পারে না উপকার, তাদের ইবাদত শ্রেষ্ঠ, নাকি আসমান ও জমিন যিনি সৃষ্টি করেছেন তাঁর ইবাদত? বাগাভী আরও ছোট করে বলেন: তোমাদের উপাস্যরা শ্রেষ্ঠ, নাকি যিনি আসমান ও জমিন সৃষ্টি করেছেন? কুরতুবী প্রথম রূপটি আনেন আবু হাতিম থেকে, আর ইবাদতের সঙ্গে ইবাদতের তুলনাটি আনেন 'বলা হয়' বলে। তাঁর মতে আয়াতে একসঙ্গে আছে ধমক, আর আল্লাহর ক্ষমতা ও তাদের উপাস্যদের অক্ষমতার দিকে ইশারা।"
+          },
+          {
+            "en": "Ibn Kathir frames the particle another way. Amman, in all of these verses, he says, stands for: is the One who does these things like one who can do none of them? The other half is left unspoken, but the force of the words guides the hearer to it, and Allah has already said, is Allah better, or what they associate? He sets beside it 16:17, is the One who creates like one who does not create? and 13:33, which he explains as the One who witnesses every soul set against idols that neither know nor hear nor see.",
+            "bn": "ইবন কাসীর শব্দটিকে দেখেন অন্যভাবে। তাঁর মতে এই আয়াতগুলোর প্রতিটিতে 'আম্মান'-এর অর্থ: যিনি এসব করেন, তিনি কি এমন একজনের মতো, যে এর কিছুই পারে না? তুলনার অন্য অর্ধেকটা মুখে বলা হয়নি। কিন্তু কথার জোরই শ্রোতাকে সেদিকে নিয়ে যায়, আর আল্লাহ আগেই বলে রেখেছেন: আল্লাহ শ্রেষ্ঠ, নাকি তারা যাকে শরীক করে? এর পাশে তিনি রাখেন ১৬:১৭: যিনি সৃষ্টি করেন, তিনি কি তার মতো, যে সৃষ্টি করে না? আরও রাখেন ১৩:৩৩। তাঁর ব্যাখ্যায় সেখানে প্রতিটি প্রাণের উপর সাক্ষী আল্লাহর তুলনা হয়েছে এমন মূর্তির সঙ্গে, যারা জানে না, শোনে না, দেখে না।"
+          },
+          {
+            "en": "The two framings end in the same place. Whether the question weighs better against worse or the able against the unable, the hearer is asked to stand the gods of Quraysh beside the Maker of the sky and see how they measure. Neither framing needs an answer spoken aloud. The question is left hanging, and anyone who has followed the list of what Allah has done already knows what the answer must be.",
+            "bn": "দুই ব্যাখ্যা একই জায়গায় গিয়ে থামে। প্রশ্নটা ভালো-মন্দের তুলনা হোক, কিংবা সক্ষম-অক্ষমের, শ্রোতাকে বলা হচ্ছে কুরাইশের উপাস্যদের আকাশের স্রষ্টার পাশে দাঁড় করিয়ে মেপে দেখতে। কোনো ব্যাখ্যাতেই জবাব মুখে উচ্চারণ করতে হয় না। প্রশ্নটা ঝুলে থাকে। আল্লাহ কী কী করেছেন, সেই তালিকা যে মন দিয়ে শুনেছে, জবাবটা কী হতে হবে তা সে আগেই জানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sky Raised, Earth Spread",
+          "bn": "উঁচু আকাশ, বিছানো মাটি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir unfolds the first clause. The heavens, in their height and clearness, with the shining planets, the bright stars and the turning spheres set in them. The earth, in its lowness and density, with its mountains, rough ground and plains, its deserts and wastes, its trees and crops, its fruits, its seas, and animals of every kind, shape and colour. As-Sa'di gives a similar list, adding to the heavens the sun, the moon and the angels, and to the earth its rivers.",
+            "bn": "প্রথম অংশটি ইবন কাসীর খুলে বলেন। আসমান, তার উচ্চতা আর স্বচ্ছতা নিয়ে, তাতে বসানো উজ্জ্বল গ্রহ, ঝলমলে তারা আর ঘূর্ণমান কক্ষপথ সমেত। জমিন, তার নিচুতা আর ঘনত্ব নিয়ে। তাতে আছে পাহাড়, এবড়োখেবড়ো ভূমি আর সমতল, মরু আর বিরান প্রান্তর, গাছপালা আর ফসল, ফলমূল, সাগর, আর নানা জাত, নানা গড়ন, নানা রঙের প্রাণী। সা'দী প্রায় একই তালিকা দেন। আসমানের সঙ্গে তিনি যোগ করেন সূর্য, চাঁদ আর ফেরেশতাদের, আর জমিনের সঙ্গে নদীনালা।"
+          },
+          {
+            "en": "Wa anzala lakum mina-s-sama'i ma'an: and He sent down for you water from the sky. At-Tabari says this means rain, and allows that it may also mean the springs Allah made gush out of the earth, since all of that is His creation. Al-Baghawi and as-Sa'di both call it rain. The small word lakum, for you, draws comment too: as-Sa'di renders it 'for your sake', and Ibn Kathir says Allah made the water a provision for His servants. The heavens and earth are named for what they are; the water is named for whom it is meant.",
+            "bn": "'ওয়া আনযালা লাকুম মিনাস সামা-ই মা-আন': আর তিনি তোমাদের জন্য আকাশ থেকে পানি নামিয়েছেন। তাবারী বলেন, এর মানে বৃষ্টি। সঙ্গে এ সম্ভাবনাও রাখেন যে এতে জমিন ফুঁড়ে আল্লাহর বইয়ে দেওয়া ঝরনাও বোঝানো হতে পারে, কারণ সবই তাঁর সৃষ্টি। বাগাভী ও সা'দী দুজনেই একে বৃষ্টি বলেন। ছোট্ট শব্দ 'লাকুম', তোমাদের জন্য, তারও ব্যাখ্যা আছে। সা'দী এর অর্থ করেন 'তোমাদেরই কারণে', আর ইবন কাসীর বলেন, আল্লাহ এ পানিকে বান্দাদের রিজিক বানিয়েছেন। আসমান-জমিনের কথা এসেছে তারা যা, সেই পরিচয়ে। পানির কথা এসেছে সে কার জন্য, সেই পরিচয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walled Orchards, Bright to See",
+          "bn": "দেয়ালঘেরা বাগান, চোখজুড়ানো"
+        },
+        "p": [
+          {
+            "en": "Fa-anbatna bihi hada'iqa: then We caused to grow by it hada'iq. At-Tabari defines a hadiqa as an orchard with a wall built around it; without a wall, he says, it is not a hadiqa. Al-Qurtubi and al-Baghawi report the same from al-Farra', who adds that the unwalled kind is simply a bustan, an orchard. Al-Qurtubi also cites Qatada and 'Ikrima: the hada'iq are date palms. Ibn Kathir and as-Sa'di gloss the word as orchards. The picture is of cultivated land, bounded and tended, the kind of garden people enclose and are proud of.",
+            "bn": "'ফা আমবাতনা বিহী হাদা-ইকা': অতঃপর তা দিয়ে আমি গজিয়েছি 'হাদায়িক'। তাবারীর সংজ্ঞায় 'হাদীকা' এমন বাগান, যার চারপাশে দেয়াল তোলা। দেয়াল না থাকলে, তিনি বলেন, তা হাদীকা নয়। কুরতুবী ও বাগাভী একই কথা আনেন ফাররা থেকে। ফাররা যোগ করেন, দেয়ালহীন বাগানকে বলে শুধু 'বুস্তান'। কুরতুবী কাতাদা ও ইকরিমার মতও আনেন: হাদায়িক মানে খেজুর গাছ। ইবন কাসীর ও সা'দী শব্দটির অর্থ করেন বাগান। ছবিটা তাই চাষ করা জমির, সীমানা টানা, যত্নে রাখা। এমন বাগান, যা মানুষ ঘিরে রাখে আর যা নিয়ে গর্ব করে।"
+          },
+          {
+            "en": "Dhata bahjatin: possessed of bahja. At-Tabari, al-Qurtubi, al-Baghawi and al-Muyassar all render it a fine sight. In the passage citing Qatada and 'Ikrima, al-Qurtubi adds adornment and beauty, by which whoever sees it is gladdened, and al-Baghawi has the same thought: beauty in which the one who sees it delights. As-Sa'di places the beauty in the number and variety of the trees and the goodness of their fruit. Ibn Kathir joins the two words: a fine sight and a radiant shape. Each gloss starts from the eye, from what it is like to stand and look.",
+            "bn": "'যা-তা বাহজাহ': বাহজা-সম্পন্ন। তাবারী, কুরতুবী, বাগাভী ও মুয়াসসার সবাই এর অর্থ করেন সুন্দর দৃশ্য। কাতাদা ও ইকরিমার মত উদ্ধৃত করার জায়গায় কুরতুবী যোগ করেন সাজ আর সৌন্দর্য, যা দেখে দর্শকের মন খুশিতে ভরে যায়। বাগাভীর কথাও একই রকম: এমন সৌন্দর্য, যা দেখে দর্শক আনন্দ পায়। সা'দী সৌন্দর্যটা খোঁজেন গাছের প্রাচুর্য আর বৈচিত্র্যে, আর ফলের উৎকর্ষে। ইবন কাসীর দুটি শব্দ পাশাপাশি রাখেন: সুন্দর দৃশ্য, উজ্জ্বল গড়ন। প্রতিটি ব্যাখ্যার শুরু চোখ থেকে, দাঁড়িয়ে তাকিয়ে থাকলে যেমন লাগে, সেখান থেকে।"
+          },
+          {
+            "en": "At-Tabari then reports Mujahid through two chains, and Mujahid reads the word with the stomach as well as the eye. In one, bahja is the blossom of what people and cattle eat; in the other, it is everything people and cattle eat. On his reading the gardens are not only lovely to look at but laden with food for human beings and their animals alike. Beauty and provision come up from the same water, and the verse does not ask the listener to choose between them.",
+            "bn": "এরপর তাবারী দুই সনদে মুজাহিদের মত আনেন। মুজাহিদ শব্দটি পড়েন চোখের সঙ্গে পেটের দিক থেকেও। এক বর্ণনায় বাহজা হলো মানুষ আর গবাদিপশু যা খায় তার ফুল। আরেক বর্ণনায় মানুষ আর গবাদিপশু যা কিছু খায়, সবই। তাঁর পাঠে বাগানগুলো শুধু দেখতে সুন্দর নয়, মানুষ আর তাদের পশুর খাবারেও ভরা। সৌন্দর্য আর রিজিক উঠে আসে একই পানি থেকে। আয়াতটি শ্রোতাকে এ দুইয়ের মধ্যে কোনো একটা বেছে নিতে বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Trees No Hand Can Raise",
+          "bn": "হাতে গজানো যায় না যে গাছ"
+        },
+        "p": [
+          {
+            "en": "Ma kana lakum an tunbitu shajaraha: it was not for you to make their trees grow. Al-Qurtubi says the ma is a negation carrying the sense of barring: it is not for human beings, not open to them, not within their power, to grow those trees, since they cannot produce the like, for that is bringing a thing out of non-existence into existence. Al-Baghawi: it is not fitting for you, because you are not able to. Ibn Kathir: you could not grow their trees; only the Creator and Provider can, alone, without idols or rivals.",
+            "bn": "'মা কা-না লাকুম আন তুমবিতূ শাজারাহা': তার গাছ গজানো তোমাদের কাজ ছিল না। কুরতুবী বলেন, এখানে 'মা' না-বাচক, আর তাতে আছে নিষেধ ও বাধার অর্থ। মানুষের পক্ষে তা নয়, তাদের হাতে তা আসে না, তাদের সাধ্যেও পড়ে না। কারণ এমন কিছু বানানোর ক্ষমতা তাদের নেই। এ তো অস্তিত্বহীন থেকে কোনো কিছুকে অস্তিত্বে আনা। বাগাভী বলেন: তোমাদের পক্ষে তা শোভা পায় না, কারণ তোমরা তা পারো না। ইবন কাসীর বলেন: তোমরা এর গাছ গজাতে পারতে না। তা পারেন কেবল স্রষ্টা ও রিজিকদাতা, একা, কোনো মূর্তি বা প্রতিদ্বন্দ্বী ছাড়াই।"
+          },
+          {
+            "en": "At-Tabari, as-Sa'di and al-Muyassar tie the inability to the water. At-Tabari: had He not sent the water down on you from the sky, you would have had no power to grow the trees of these gardens, because none of it comes right without water. As-Sa'di: but for Allah's favour to you in sending down the rain; al-Muyassar says the same of the water. So two emphases sit side by side, one on the gift a garden depends on, the other on an act of creation no one else performs. A farmer's digging and sowing is real work; what no farmer supplies is the rain, or the life of the tree.",
+            "bn": "তাবারী, সা'দী ও মুয়াসসার এই অক্ষমতাকে জুড়ে দেন পানির সঙ্গে। তাবারীর ভাষায়: তিনি যদি আকাশ থেকে তোমাদের উপর পানি না নামাতেন, এসব বাগানের গাছ গজানোর শক্তি তোমাদের থাকত না, কারণ পানি ছাড়া এর কিছুই ঠিকঠাক হয় না। সা'দী বলেন: বৃষ্টি নামিয়ে আল্লাহ যদি তোমাদের উপর দয়া না করতেন। মুয়াসসারও পানির ব্যাপারে একই কথা বলে। তাহলে দুটি জোর পাশাপাশি দাঁড়ায়। একটির নজর সেই দানের উপর, যার উপর বাগান টিকে থাকে। অন্যটির নজর সৃষ্টির সেই কাজে, যা আর কেউ করে না। কৃষকের খোঁড়া আর বোনা সত্যিকারের পরিশ্রম। কিন্তু বৃষ্টি, কিংবা গাছের প্রাণ, কোনো কৃষক জোগাতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Let Them Create a Grain",
+          "bn": "পারলে একটা দানা বানাক"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi, speaking in his own voice, says the clause may be taken as evidence against depicting anything at all, with a soul or without, and that this is the view of Mujahid. In support he cites a report that Muslim records in his Sahih (2111) from Abu Hurayra, who saw images in the house of Marwan and said: I heard the Messenger of Allah ﷺ say: Allah, the Mighty and Majestic, said: Who does greater wrong than one who sets out to create a creation like Mine? Let them create an atom, or let them create a grain, or let them create a barley-corn.",
+            "bn": "কুরতুবী নিজের মত হিসেবে বলেন, এ অংশ থেকে যেকোনো কিছুর ছবি আঁকা নিষেধ হওয়ার দলিল নেওয়া যায়, তাতে প্রাণ থাকুক বা না থাকুক। আর এটা মুজাহিদের মত। সমর্থনে তিনি আনেন একটি হাদীস, যা মুসলিম তাঁর সহীহ গ্রন্থে (২১১১) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন। আবু হুরায়রা (রাঃ) মারওয়ানের বাড়িতে ছবি দেখে বললেন, আমি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছি: মহান ও পরাক্রমশালী আল্লাহ বলেন, তার চেয়ে বড় জালিম কে, যে আমার সৃষ্টির মতো সৃষ্টি বানাতে যায়? তারা পারলে একটা অণু বানাক, কিংবা একটা দানা বানাক, কিংবা একটা যবের দানা বানাক।"
+          },
+          {
+            "en": "The report concerns image-makers and is not attached to this verse; al-Qurtubi brings it to support his inference, and no file read here gives a narration on the verse itself. He then sets out the other side. The majority, he reports, permit depicting what has no soul and earning a living by it, and he relays that Ibn 'Abbas told a man who asked about making images: if you must, make trees and whatever has no soul. Al-Qurtubi himself judges the prohibition the better course. His reasoning rests on what the clause says: creating and originating are Allah's alone.",
+            "bn": "হাদীসটি ছবি নির্মাতাদের নিয়ে, এ আয়াতের সঙ্গে যুক্ত নয়। কুরতুবী একে এনেছেন নিজের সিদ্ধান্তের সমর্থনে। আর এখানে পড়া কোনো তাফসীরে এ আয়াত সম্পর্কে সরাসরি কোনো বর্ণনা নেই। এরপর তিনি অন্য পক্ষের মতও তুলে ধরেন। তাঁর বর্ণনায় অধিকাংশ আলিমের মতে প্রাণহীন জিনিসের ছবি আঁকা এবং তা দিয়ে উপার্জন করা জায়েজ। তিনি আরও জানান, ছবি বানানো নিয়ে এক লোক ইবন আব্বাস (রাঃ)-কে জিজ্ঞেস করলে তিনি বলেছিলেন: করতেই যদি হয়, গাছ আঁকো, আর এমন কিছু যার প্রাণ নেই। কুরতুবী নিজে নিষেধের দিকটাকেই উত্তম মনে করেন। তাঁর যুক্তির ভিত্তি আয়াতের এ অংশের কথাটাই: সৃষ্টি করা আর নতুন করে অস্তিত্বে আনা কেবল আল্লাহর কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rivals Set Up, Truth Abandoned",
+          "bn": "সমকক্ষ দাঁড় করানো, সত্য ছেড়ে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "A-ilahun ma'a-llah: is there a god with Allah? Al-Baghawi calls it a question of denial and answers it: there is no god with Him. The closing words, bal hum qawmun ya'dilun, are read two ways. The first takes the verb as making equal. Ibn Kathir: they set up for Allah an equal, an 'adl, and a match. As-Sa'di: they equate others with Him and level something else with Him. Al-Qurtubi gives this sense first, and al-Baghawi reduces it to one word, yushrikun, they associate partners. The English translation printed with the verse follows this reading; the Bengali one, nyay-bichyuta, gone astray from what is right, leans toward the second.",
+            "bn": "'আ-ইলাহুম মা'আল্লাহ': আল্লাহর সঙ্গে কি আর কোনো ইলাহ আছে? বাগাভী একে বলেন অস্বীকারসূচক প্রশ্ন, আর নিজেই জবাব দেন: তাঁর সঙ্গে কোনো ইলাহ নেই। তারপর আসে শেষ কথাগুলো, 'বাল হুম কাওমুঁই ইয়া'দিলূন'। তাফসীরকারেরা এটি দুইভাবে পড়েন। প্রথম পাঠে ক্রিয়াটির অর্থ সমান বানানো। ইবন কাসীর বলেন: তারা আল্লাহর জন্য 'আদল', মানে সমকক্ষ ও জুড়ি দাঁড় করায়। সা'দী বলেন: তারা অন্যকে তাঁর সমান করে, অন্য কিছুকে তাঁর সমান্তরালে বসায়। কুরতুবী এ অর্থটিই আগে আনেন, আর বাগাভী একে একটি শব্দে বলেন: 'ইউশরিকূন', তারা শরীক করে। আয়াতের সঙ্গে ছাপা ইংরেজি অনুবাদ এই পাঠই অনুসরণ করেছে। বাংলা অনুবাদের 'ন্যায়-বিচ্যুত' শব্দটি অবশ্য ঝুঁকেছে দ্বিতীয় পাঠের দিকে।"
+          },
+          {
+            "en": "The second reading takes the verb as turning aside from something. At-Tabari reads it so: these idolaters are a people astray who swerve from the truth and wrong it. Al-Qurtubi records it under 'it is said': they swerve from the truth and the right course, that is, they disbelieve. Al-Muyassar holds the two together in one sentence: they turn aside from the path of truth and faith, and so make others level with Allah in worship and reverence. On al-Muyassar's sentence the two meanings become cause and result: leaving the straight road is how one comes to set a rival beside the Creator.",
+            "bn": "দ্বিতীয় পাঠে ক্রিয়াটির অর্থ কোনো কিছু থেকে সরে যাওয়া। তাবারী এভাবেই পড়েন: এই মুশরিকরা পথভ্রষ্ট এক সম্প্রদায়, যারা সত্য থেকে সরে যায় আর সত্যের উপর অবিচার করে। কুরতুবী এ অর্থ আনেন 'বলা হয়' বলে: তারা সত্য আর সঠিক পথ থেকে সরে যায়, মানে কুফরি করে। মুয়াসসার দুটোকে একটি বাক্যে বেঁধে দেয়: তারা সত্য ও ঈমানের পথ থেকে বেঁকে যায়, ফলে ইবাদত আর সম্মানে আল্লাহর সমান করে অন্যকে। মুয়াসসারের এ বাক্যে দুই অর্থ হয়ে যায় কারণ আর ফল। সোজা পথ ছেড়ে দেওয়াই মানুষকে স্রষ্টার পাশে প্রতিদ্বন্দ্বী দাঁড় করানো পর্যন্ত নিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swerving With Open Eyes",
+          "bn": "জেনেশুনে পথ ছাড়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari sharpens the swerving. They did not turn from the truth out of ignorance, he says, as if they thought that what can neither benefit nor harm was better than the Creator of the heavens and the earth. They turned knowingly, aware they were in error, following the way of their forefathers. Ibn Kathir makes the same point from the Qur'an: asked who created them, they say Allah (43:87); asked who sends down water and revives the earth, they say Allah (29:63). As-Sa'di: they level others with Him, knowing that He alone created the world above and below.",
+            "bn": "তাবারী এই সরে যাওয়ার কথাটা আরও তীক্ষ্ণ করেন। তাঁর মতে তারা না জেনে সত্য থেকে সরেনি, যেন তারা ভাবত, যে উপকারও করতে পারে না ক্ষতিও না, সে আসমান-জমিনের স্রষ্টার চেয়ে ভালো। তারা সরেছিল জেনেশুনে, নিজেরা ভুলের উপর আছে জেনেও, বাপ-দাদার পথ ধরে। ইবন কাসীর একই কথা দেখান কুরআন থেকে। তাদের জিজ্ঞেস করলে কে তাদের সৃষ্টি করেছেন, তারা বলবে আল্লাহ (৪৩:৮৭)। জিজ্ঞেস করলে কে আকাশ থেকে পানি নামিয়ে মৃত জমিনকে জীবিত করেন, তারা বলবে আল্লাহ (২৯:৬৩)। সা'দী বলেন: তারা অন্যকে তাঁর সমান করে, অথচ জানে উপরের ও নিচের জগতের স্রষ্টা তিনি একাই।"
+          },
+          {
+            "en": "Ibn Kathir draws the conclusion: only the One who alone creates and provides deserves to be singled out in worship. The next verses keep pressing; 27:61 ends that most of them do not know, and 27:64 asks for their proof. The verse describes particular people, whom at-Tabari names as the idolaters of Quraysh and al-Baghawi as the disbelievers of Makkah. It records what the text records of them and licenses nothing against any living person or community. Its question is better turned inward, for a believer can know every word of it and still give hope or gratitude elsewhere as if to an equal.",
+            "bn": "ইবন কাসীর সিদ্ধান্ত টানেন: যিনি একা সৃষ্টি করেন আর রিজিক দেন, ইবাদতের জন্য একা তিনিই যোগ্য। পরের আয়াতগুলো চাপ বাড়িয়েই চলে। ২৭:৬১ শেষ হয় এই বলে যে তাদের অধিকাংশই জানে না, আর ২৭:৬৪ তাদের কাছে প্রমাণ চায়। আয়াতটি নির্দিষ্ট কিছু মানুষের বর্ণনা দেয়। তাবারী তাদের বলেন কুরাইশের মুশরিক, বাগাভী বলেন মক্কার কাফির। আয়াত তাদের সম্পর্কে যা বলেছে, এখানে শুধু সেটুকুরই বর্ণনা। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। প্রশ্নটা বরং নিজের দিকে ফেরানোই ভালো। একজন মুমিন এর প্রতিটি শব্দ জেনেও নিজের আশা বা কৃতজ্ঞতা এমন কিছুকে দিয়ে ফেলতে পারে, যেন সেটা আল্লাহর সমান।"
+          }
+        ]
+      }
+    ]
+  },
   "27:62": {
     "sections": [
       {
