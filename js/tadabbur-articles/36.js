@@ -723,6 +723,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eight Words to Close a Town",
+          "bn": "আট শব্দে এক জনপদের ইতি"
+        },
+        "p": [
+          {
+            "en": "The story of the town in Ya Sin has moved quickly. Messengers came and were denied; a man ran in from the far end of the city to plead for them; his people killed him, and he was told to enter Paradise, wishing only that they could know (36:20 to 36:27). Now the Qur'an turns to the people themselves. In 36:28 Allah says He sent down no army against them from the sky after him, and was not one to send one. This verse says what was sent instead.",
+            "bn": "ইয়াসীনের এই জনপদের কাহিনি দ্রুত এগিয়েছে। রাসূলরা এলেন, তাঁদের মিথ্যা বলা হলো। শহরের দূর প্রান্ত থেকে এক লোক দৌড়ে এসে তাঁদের পক্ষে মিনতি করল। তার জাতি তাকে মেরে ফেলল, আর তাকে বলা হলো জান্নাতে প্রবেশ করো। তখনও তার একটাই আকাঙ্ক্ষা: হায়, আমার জাতি যদি জানত (৩৬:২০ থেকে ৩৬:২৭)। এবার কুরআন ফেরে সেই জাতির দিকে। ৩৬:২৮ আয়াতে আল্লাহ বলেন, তার পরে তিনি তাদের উপর আকাশ থেকে কোনো বাহিনী নামাননি, নামানোর প্রয়োজনও তাঁর ছিল না। এ আয়াত জানায়, বাহিনীর বদলে কী এসেছিল।"
+          },
+          {
+            "en": "In kanat illa sayhatan wahidatan fa-idha hum khamidun: it was nothing but one shout, and at once they were extinguished. Eight words in the Arabic, and a whole people is gone. At-Tabari glosses the opening as ma kanat, it was not, so the in here is a denial, and illa then narrows everything to a single thing. Ma'arif al-Qur'an renders the close as in no time they were extinguished. There is no siege, no duel, no long account of the dying; the sentence ends almost as soon as it begins, and so do they.",
+            "bn": "ইন কানাত ইল্লা সাইহাতাওঁ ওয়াহিদাতান ফা-ইযা হুম খামিদূন: সেটা ছিল কেবল একটি বিকট আওয়াজ, আর সঙ্গে সঙ্গে তারা নিভে গেল। আরবিতে মাত্র আটটি শব্দ, আর গোটা এক জাতি শেষ। তাবারী শুরুর অংশটির ব্যাখ্যা দেন মা কানাত দিয়ে, অর্থাৎ ছিল না। তাই এখানে ইন মানে না-বোধক, আর ইল্লা সবকিছুকে একটিমাত্র জিনিসে সীমিত করে দেয়। মাআরিফুল কুরআন শেষাংশের অর্থ করে: চোখের পলকে তারা নিভে গেল। কোনো অবরোধ নেই, কোনো লড়াই নেই, মৃত্যুর লম্বা বিবরণ নেই। বাক্যটা শুরু হতে না হতেই শেষ, তাদের জীবনও তাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Ruin, Their Penalty",
+          "bn": "তাদের ধ্বংস, তাদের শাস্তি"
+        },
+        "p": [
+          {
+            "en": "The verb kanat, it was, is feminine, and the verse never says what the it is. The commentators supply it, and their choices differ a little. At-Tabari: their destruction, halakatuhum, was nothing but one shout that Allah sent down on them from the sky. Al-Qurtubi and as-Sa'di both supply their punishment, 'uqubatuhum. The Muyassar keeps to destruction: their ruin came only through one shout, and then they were dead, with not one of them left. The word changes from one commentator to the next; the picture does not.",
+            "bn": "কানাত, অর্থাৎ ছিল, ক্রিয়াটি স্ত্রীলিঙ্গ। কিন্তু কী ছিল, আয়াত তা বলে না। তাফসীরকারেরা শূন্যস্থানটা পূরণ করেন, আর তাঁদের বাছাই সামান্য আলাদা। তাবারী বলেন: তাদের ধ্বংস, হালাকাতুহুম, ছিল কেবল একটি আওয়াজ, যা আল্লাহ আকাশ থেকে তাদের উপর নামিয়েছিলেন। কুরতুবী ও সা'দী দুজনেই বসান তাদের শাস্তি, উকূবাতুহুম। মুয়াসসার ধ্বংসের কথাতেই থাকে: একটি আওয়াজেই তাদের বিনাশ হলো, তারপর তারা মৃত, একজনও বাকি রইল না। শব্দ বদলায় এক তাফসীর থেকে আরেক তাফসীরে, ছবিটা বদলায় না।"
+          },
+          {
+            "en": "Still, each choice carries its own weight. Destruction names what happened to them; punishment names why it happened. Al-Baghawi frames the verse the second way, introducing it with the words: then He made their punishment plain. As-Sa'di ties the penalty to what came before it, the insolence and the arrogance, and the ugly speech with which they met the noblest of creation, and their high-handedness towards them. A people who had answered the messengers with loud words and threats were answered in turn by a single sound.",
+            "bn": "তবু প্রতিটি বাছাইয়ের নিজস্ব ওজন আছে। ধ্বংস বলে তাদের কী হয়েছিল, শাস্তি বলে কেন হয়েছিল। বাগাভী আয়াতটিকে দ্বিতীয় অর্থেই পড়েন। তিনি এর ভূমিকা টানেন এই কথায়: তারপর আল্লাহ তাদের শাস্তি স্পষ্ট করে দিলেন। সা'দী শাস্তিটাকে জুড়ে দেন আগের ঘটনার সঙ্গে: তাদের ঔদ্ধত্য আর অহংকার, সৃষ্টির শ্রেষ্ঠ মানুষদের সঙ্গে তাদের কুৎসিত কথাবার্তা, আর তাঁদের উপর তাদের দাপট। যে জাতি রাসূলদের জবাব দিয়েছিল চড়া গলায় আর হুমকিতে, তাদের জবাব এল একটিমাত্র আওয়াজে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sayhatan or Sayhatun",
+          "bn": "সাইহাতান, না সাইহাতুন"
+        },
+        "p": [
+          {
+            "en": "The commentators also record a difference in how the word was read. The readers of the great cities, at-Tabari says, recited sayhatan, in the accusative, on the meaning he has just given, with a subject left hidden inside kanat. Abu Ja'far al-Madani is reported to have read sayhatun, in the nominative, so that the shout itself becomes the subject and nothing is hidden. At-Tabari's own judgement is for the accusative, because the authorities of reading are agreed on it, and on the hidden subject.",
+            "bn": "শব্দটি কীভাবে পড়া হয়েছে, তা নিয়েও তাফসীরকারেরা একটি পার্থক্য উল্লেখ করেন। তাবারী বলেন, বড় বড় শহরের কারীরা পড়েছেন সাইহাতান, যবর দিয়ে। এর অর্থ তিনি আগেই বলেছেন, আর তাতে কানাত ক্রিয়ার কর্তা উহ্য থাকে। আবু জা'ফর আল-মাদানী সম্পর্কে বর্ণিত আছে, তিনি পড়েছেন সাইহাতুন, পেশ দিয়ে। তখন আওয়াজটাই হয়ে যায় কর্তা, কিছুই উহ্য থাকে না। তাবারীর নিজের রায় যবরের পক্ষে, কারণ কিরাআতের প্রামাণ্য ইমামগণ এ পাঠে এবং উহ্য কর্তার ব্যাপারে একমত।"
+          },
+          {
+            "en": "Al-Qurtubi names Shaybah and al-A'raj alongside Abu Ja'far ibn al-Qa'qa' for the nominative, here and in the later verse in kanat illa sayhatan wahidatan fa-idha hum jami'un (36:53). On that reading kana means to happen: nothing befell them but one shout. Al-Baghawi explains Abu Ja'far's reading the same way. Abu Hatim and many grammarians rejected it because of the feminine verb, Abu Hatim saying it would then have been in kana. An-Nahhas replied that nothing forbids it: one says ma ja'atni illa jariyatuk, none came to me but your maid.",
+            "bn": "পেশের পাঠে কুরতুবী আবু জা'ফর ইবনুল কা'কা'র সঙ্গে শাইবা ও আ'রাজের নামও আনেন। এখানে যেমন, তেমনি পরের আয়াতেও: ইন কানাত ইল্লা সাইহাতাওঁ ওয়াহিদাতান ফা-ইযা হুম জামী'উন (৩৬:৫৩)। এ পাঠে কানা মানে ঘটা: তাদের উপর একটি আওয়াজ ছাড়া আর কিছু ঘটেনি। বাগাভীও আবু জা'ফরের পাঠ এভাবেই ব্যাখ্যা করেন। আবু হাতিম ও বহু ব্যাকরণবিদ স্ত্রীলিঙ্গ ক্রিয়ার কারণে পাঠটি মেনে নেননি। আবু হাতিমের কথা, তাহলে তো বলা হতো ইন কানা। নাহহাস জবাব দেন, এতে বাধা নেই। আরবরা বলে মা জাআতনী ইল্লা জারিয়াতুক: তোমার দাসী ছাড়া আমার কাছে কেউ আসেনি।"
+          },
+          {
+            "en": "One more variant is kept, and al-Qurtubi handles it with care. 'Abd ar-Rahman ibn al-Aswad read illa zaqyatan wahidatan, and it is said to be so in the reading of 'Abdullah. An-Nahhas, as al-Qurtubi reports, objected that this departs from the mushaf, and that the known verb is zaqa, yazqu, so the noun ought to be zaqwah. Al-Qurtubi answers the language point from al-Jawhari: every crier is a zaqi, and zaqyah is the shout, so zaqwah and zaqyah are two dialect forms. The mushaf itself reads sayhah, and every reading agrees on one cry.",
+            "bn": "আরেকটি ভিন্ন পাঠও সংরক্ষিত আছে, আর কুরতুবী সেটি সাবধানে সামলান। আবদুর রহমান ইবনুল আসওয়াদ পড়েছেন ইল্লা যাকইয়াতাওঁ ওয়াহিদাতান। বলা হয়, আবদুল্লাহর পাঠেও এমনই আছে। কুরতুবীর বর্ণনায় নাহহাস আপত্তি তোলেন: এটি মুসহাফের সঙ্গে মেলে না। তা ছাড়া প্রচলিত ক্রিয়া হলো যাকা, ইয়াযকু, তাই বিশেষ্যটা হওয়া উচিত যাকওয়া। ভাষার প্রশ্নে কুরতুবী জবাব দেন জাওহারী থেকে: যে-ই চিৎকার করে সে যাকী, আর যাকইয়া মানে চিৎকার। অতএব যাকওয়া ও যাকইয়া দুই আঞ্চলিক রূপ। মুসহাফে অবশ্য শব্দটি সাইহা, আর সব পাঠই একমত যে চিৎকার ছিল একটিই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Was the Cry",
+          "bn": "চিৎকারটা ছিল কার"
+        },
+        "p": [
+          {
+            "en": "The verse does not say who gave the shout. At-Tabari says only that Allah sent it down on them from the sky. As-Sa'di is a step more specific: a single sound, spoken by one of Allah's angels, and he gives no name. The Qur'an keeps the eye on what the shout did rather than on whose throat it came from. Two things it does make certain: it came from Allah's side and not from any army of men, and there was only one of it.",
+            "bn": "আওয়াজটা কে দিয়েছিল, আয়াত তা বলে না। তাবারী শুধু এটুকু বলেন যে আল্লাহ আকাশ থেকে তা তাদের উপর নামিয়েছিলেন। সা'দী এক ধাপ এগিয়ে বলেন, এটি ছিল একটিমাত্র শব্দ, যা আল্লাহর ফেরেশতাদের কোনো একজন উচ্চারণ করেছিলেন। কোনো নাম তিনি বলেন না। কুরআনের দৃষ্টি আওয়াজের কাজের উপর, কার কণ্ঠ থেকে এল তার উপর নয়। তবে দুটি বিষয় আয়াত নিশ্চিত করে দেয়। আওয়াজটা এসেছিল আল্লাহর পক্ষ থেকে, মানুষের কোনো বাহিনী থেকে নয়। আর তা ছিল কেবল একবার।"
+          },
+          {
+            "en": "Al-Baghawi and Ibn Kathir go further, and both open what they say with the same formula, qala al-mufassirun, the exegetes said. Allah sent Jibril (AS) to them; he took hold of the two doorposts of the gate of their city, and then gave a single shout, and they were extinguished. Ibn Kathir's wording carries it to the end: to the very last of them, with no spirit left stirring in any body. Both present this as the exegetes' account, and neither gives it a chain reaching back to the Prophet ﷺ.",
+            "bn": "বাগাভী ও ইবন কাসীর আরও খানিকটা বলেন, আর দুজনেই কথাটা শুরু করেন একই সূত্রবাক্যে: কালাল মুফাসসিরূন, তাফসীরকারেরা বলেছেন। আল্লাহ তাদের কাছে জিবরীল (আঃ)-কে পাঠালেন। তিনি তাদের শহরের ফটকের দুই চৌকাঠ ধরে একবার চিৎকার দিলেন, আর তারা নিভে গেল। ইবন কাসীরের ভাষ্যে কথাটা শেষ পর্যন্ত যায়: তাদের শেষ মানুষটি পর্যন্ত, কোনো দেহে একটি প্রাণও আর নড়াচড়া করছিল না। দুজনেই এটিকে তাফসীরকারদের বিবরণ হিসেবে পেশ করেন। নবী ﷺ পর্যন্ত পৌঁছানো কোনো সনদ তাঁদের কেউ উল্লেখ করেন না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an tells the same scene and says it appears in hadith narrations. No commentary fetched for this verse quotes such a hadith, names a collection for it, or reports a grading, so it is best held as al-Baghawi and Ibn Kathir hold it: a report of the exegetes, not a confirmed saying of the Prophet ﷺ. None of these commentaries attaches a sound hadith to this verse at all. What the verse itself states is enough to carry its meaning: one cry, and a whole town fell still.",
+            "bn": "মাআরিফুল কুরআনও একই দৃশ্যের বর্ণনা দেয় এবং বলে, হাদীসের বর্ণনায় এটি এসেছে। কিন্তু এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এমন কোনো হাদীস উদ্ধৃত করে না, কোনো সংকলনের নাম বলে না, কোনো মানও জানায় না। তাই বাগাভী ও ইবন কাসীর যেভাবে ধরেছেন, সেভাবে ধরাই ভালো: এটি তাফসীরকারদের বর্ণনা, নবী ﷺ-এর নিশ্চিত বাণী নয়। এ আয়াতের সঙ্গে কোনো সহীহ হাদীস এই তাফসীরগুলোর কোনোটি যুক্ত করে না। আয়াত নিজে যা বলে, অর্থ বোঝার জন্য তা-ই যথেষ্ট: একটি চিৎকার, আর গোটা জনপদ নিথর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ash With No Ember Left",
+          "bn": "অঙ্গারহীন ছাই"
+        },
+        "p": [
+          {
+            "en": "Then the last word, khamidun. Al-Qurtubi defines it as dead and still, hamidun, and names the image the word carries: it likens them to ash that has gone out, ar-ramad al-khamid. Qatadah, in the report he gives, says simply perished, and al-Qurtubi adds that the meaning is one. At-Tabari glosses it the same way, halikun, those who perished. The Muyassar has dead, with not one of them remaining. Across all of them the sense is death, yet the word the Qur'an chose for it is a word from the hearth.",
+            "bn": "তারপর শেষ শব্দ, খামিদূন। কুরতুবী এর অর্থ বলেন মৃত ও নিস্তব্ধ, হামিদূন। শব্দটির ভেতরের ছবিটাও তিনি ধরিয়ে দেন: তাদের তুলনা করা হয়েছে নিভে যাওয়া ছাইয়ের সঙ্গে, আর-রামাদুল খামিদ। কুরতুবীর উদ্ধৃত বর্ণনায় কাতাদা সোজা বলেন, ধ্বংসপ্রাপ্ত। কুরতুবী যোগ করেন, অর্থ একই। তাবারীও একই ব্যাখ্যা দেন: হালিকূন, যারা ধ্বংস হয়ে গেছে। মুয়াসসার বলে, মৃত, তাদের একজনও অবশিষ্ট নেই। সবার কথাতেই অর্থ মৃত্যু। কিন্তু মৃত্যু বোঝাতে কুরআন যে শব্দটা বেছে নিয়েছে, তা চুলার আগুনের শব্দ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an opens the image further. Khamada and khumud, it explains, are used of a fire dying down and going out. The life of the living depends on an energy, it says, and when that energy is no longer there, what remains is death; so khamidun means put out, gone extinct. A fire is hot and bright and moving one moment, and the next it is grey and cold, and nothing in the ash recalls the flame. The single word lets the reader see a whole town go that way at once.",
+            "bn": "মাআরিফুল কুরআন ছবিটা আরও খুলে দেয়। খামাদা ও খুমূদ শব্দ ব্যবহৃত হয় আগুন ঝিমিয়ে পড়ে নিভে যাওয়া বোঝাতে। জীবিতের জীবন নির্ভর করে একধরনের শক্তির উপর। সেই শক্তি না থাকলে যা পড়ে থাকে তা মৃত্যু। তাই খামিদূন মানে নিভিয়ে দেওয়া, বিলুপ্ত। আগুন এক মুহূর্তে উত্তপ্ত, উজ্জ্বল, নড়ছে। পরের মুহূর্তে ধূসর আর ঠান্ডা, ছাইয়ের কোথাও শিখার কোনো চিহ্ন নেই। এই একটি শব্দে পাঠক দেখতে পান, গোটা একটা জনপদ একসঙ্গে ঠিক এভাবেই নিভে গেল।"
+          },
+          {
+            "en": "As-Sa'di describes the moment from within. Their hearts were torn apart inside their chests, they were thrown into panic by that shout, and they became khamidin: no voice, no movement, no life, after all that defiance and pride. Set this beside what the sura reports of them before. We see an evil omen in you, they told the messengers, and if you do not stop we will surely stone you, and a painful punishment from us will touch you (36:18). The town that had so much to say ended without a voice.",
+            "bn": "সা'দী মুহূর্তটার বর্ণনা দেন ভেতর থেকে। তাদের হৃৎপিণ্ড বুকের ভেতরেই ছিঁড়ে গেল, সেই আওয়াজে তারা আতঙ্কে কেঁপে উঠল, তারপর হয়ে গেল খামিদীন। না কোনো শব্দ, না কোনো নড়াচড়া, না কোনো প্রাণ। অথচ এর আগে কত ঔদ্ধত্য আর অহংকার! সূরাটি আগে তাদের যে কথা উদ্ধৃত করেছে, তার পাশে এটা রাখুন। তারা রাসূলদের বলেছিল, আমরা তোমাদের অশুভ লক্ষণ মনে করি। তোমরা বিরত না হলে অবশ্যই তোমাদের পাথর মেরে হত্যা করব, আর আমাদের পক্ষ থেকে তোমাদের যন্ত্রণাদায়ক শাস্তি ছোঁবে (৩৬:১৮)। যে জনপদের মুখে এত কথা ছিল, তার শেষ হলো একেবারে নিঃশব্দে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Host From the Sky",
+          "bn": "আকাশ থেকে বাহিনী নামেনি"
+        },
+        "p": [
+          {
+            "en": "The verse is the second half of a pair, and 36:28 sets it up. Ibn Kathir, following a report from Ibn Mas'ud (RA) that Ibn Ishaq relays from some of his companions, explains that Allah did not seek to overwhelm them with numbers; the matter was simpler than that. Ma'arif al-Qur'an says it in its own way: Allah had no need to send an army of angels, nor was that His way, since a single angel of His is enough to destroy the mightiest of nations.",
+            "bn": "আয়াতটি এক জোড়ার দ্বিতীয় অংশ, আর প্রথম অংশ ৩৬:২৮। ইবন কাসীর ইবন মাসঊদ (রাঃ)-এর একটি বর্ণনা অনুসরণ করেন, যা ইবন ইসহাক তাঁর কয়েকজন সঙ্গীর সূত্রে এনেছেন। তাতে বলা হয়, আল্লাহ সংখ্যার জোরে তাদের কাবু করতে চাননি, ব্যাপারটা এর চেয়ে অনেক সহজ ছিল। মাআরিফুল কুরআন নিজের ভাষায় একই কথা বলে। ফেরেশতাদের বাহিনী পাঠানোর কোনো দরকার আল্লাহর ছিল না, এটা তাঁর রীতিও নয়। তাঁর একজন ফেরেশতাই সবচেয়ে শক্তিধর জাতিকে ধ্বংস করে দিতে যথেষ্ট।"
+          },
+          {
+            "en": "Ibn Kathir also records a second reading of 36:28. Mujahid and Qatadah took the army to mean another message: nothing more was sent to call them back. Qatadah puts it bluntly: by Allah, after they killed him Allah did not so much as reproach his people; it was but one shout. Ibn Kathir reports Ibn Jarir, that is at-Tabari, preferring the first reading, because a message is not called an army. On either reading, what followed the killing was no fresh warning and no long campaign, only the cry.",
+            "bn": "ইবন কাসীর ৩৬:২৮ আয়াতের আরেকটি ব্যাখ্যাও উল্লেখ করেন। মুজাহিদ ও কাতাদা বাহিনী বলতে বুঝেছেন আরেকটি বার্তা, অর্থাৎ তাদের ফিরিয়ে আনতে আর কিছুই পাঠানো হয়নি। কাতাদা কথাটা বলেন খোলাখুলি: আল্লাহর কসম, তাকে হত্যার পর আল্লাহ তার জাতিকে তিরস্কার পর্যন্ত করেননি, ছিল কেবল একটি আওয়াজ। ইবন কাসীর জানান, ইবন জারীর অর্থাৎ তাবারী প্রথম ব্যাখ্যাটিকেই অগ্রাধিকার দেন, কারণ বার্তাকে বাহিনী বলা হয় না। যে ব্যাখ্যাই ধরা হোক, হত্যার পর নতুন কোনো সতর্কবাণী আসেনি, দীর্ঘ কোনো অভিযানও হয়নি। এসেছিল শুধু সেই চিৎকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Shout Ends, One Gathers",
+          "bn": "এক আওয়াজে বিনাশ, এক আওয়াজে সমাবেশ"
+        },
+        "p": [
+          {
+            "en": "The sura does not leave the phrase in the town. In 36:49 it says of those who deny the Hour that they wait for nothing but one shout, sayhatan wahidatan, which will seize them while they are still disputing. In 36:53 the opening words of this verse return exactly: in kanat illa sayhatan wahidatan, it will be nothing but one shout, and then they are all brought before Us. Al-Qurtubi treats the two together, recording Abu Ja'far's nominative in both places. The town's end is told in the words of the world's end.",
+            "bn": "সূরাটি এই বাক্যাংশকে শুধু জনপদের কাহিনিতে আটকে রাখে না। ৩৬:৪৯ আয়াতে কিয়ামত অস্বীকারকারীদের সম্পর্কে বলা হয়েছে, তারা অপেক্ষা করছে কেবল একটি বিকট আওয়াজের, সাইহাতাওঁ ওয়াহিদাতান, যা তাদের পাকড়াও করবে তারা বিতর্কে মেতে থাকা অবস্থায়। ৩৬:৫৩ আয়াতে এ আয়াতের শুরুর শব্দগুলো হুবহু ফিরে আসে: ইন কানাত ইল্লা সাইহাতাওঁ ওয়াহিদাতান, তা হবে কেবল একটি আওয়াজ, আর তখনই তাদের সবাইকে আমার সামনে হাজির করা হবে। কুরতুবীও দুটিকে একসঙ্গে আলোচনা করেন, দুই জায়গাতেই আবু জা'ফরের পেশের পাঠ উল্লেখ করে। জনপদের সমাপ্তির কথা বলা হয়েছে দুনিয়ার সমাপ্তির ভাষাতেই।"
+          },
+          {
+            "en": "Between the two stands 36:30: alas for the servants, no messenger ever came to them but they mocked him. One shout put out a town that mocked; one shout will bring every soul to stand before Him. The One for whom a single cry was enough to end a town needs no more to gather all of mankind. Read this way, the verse is more than a report about a people long gone. It shows how short the distance is between a full, loud life and a silent one.",
+            "bn": "এ দুইয়ের মাঝে আছে ৩৬:৩০: বান্দাদের জন্য আফসোস! তাদের কাছে এমন কোনো রাসূল আসেননি, যাঁকে নিয়ে তারা ঠাট্টা করেনি। একটি আওয়াজ নিভিয়ে দিয়েছিল ঠাট্টাকারী এক জনপদকে। আরেকটি আওয়াজ প্রতিটি প্রাণকে দাঁড় করাবে তাঁর সামনে। যাঁর কাছে একটি চিৎকারই একটি জনপদ শেষ করার জন্য যথেষ্ট ছিল, গোটা মানবজাতিকে একত্র করতেও তাঁর এর বেশি কিছু লাগে না। এভাবে পড়লে আয়াতটি বহু আগে হারিয়ে যাওয়া এক জাতির খবরের চেয়ে বেশি কিছু। এটি দেখিয়ে দেয়, সরব ভরপুর জীবন আর নিঃশব্দ জীবনের মাঝে দূরত্ব কত সামান্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Stillness Permits",
+          "bn": "এই নিস্তব্ধতা যা বলে না"
+        },
+        "p": [
+          {
+            "en": "Say it plainly. The verse describes what befell one people who rejected their messengers and killed a man for believing; it licenses nothing against any living person or community. The Qur'an does not name their town. Many early reports did give it a name, and Ibn Kathir himself argues at length that the town of the Qur'an cannot be the well-known city of that name, since that city is not known ever to have been destroyed. No reader should pin this verse on any place or people alive today.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে একটি জাতির পরিণতি, যারা রাসূলদের অস্বীকার করেছিল আর ঈমান আনার অপরাধে একজন মানুষকে হত্যা করেছিল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কুরআন তাদের জনপদের নাম বলেনি। পূর্বসূরিদের অনেক বর্ণনায় একটা নাম এসেছে ঠিকই, কিন্তু ইবন কাসীর নিজেই বিস্তারিত যুক্তি দিয়ে দেখান, কুরআনের জনপদটি ওই নামের সুপরিচিত শহর হতে পারে না, কারণ সে শহর কখনো ধ্বংস হয়েছে বলে জানা যায় না। আজকের কোনো জায়গা বা জনগোষ্ঠীর উপর এ আয়াত চাপিয়ে দেওয়ার অধিকার কোনো পাঠকের নেই।"
+          },
+          {
+            "en": "Nor does the story invite satisfaction at their end. The man they killed wished only that they could know what he now knew (36:26 and 36:27). The verse after ours opens with grief, not triumph: ya hasratan 'ala l-'ibad, alas for the servants. It is a warning about a road and where it ends, not a verdict on anyone the reader knows.",
+            "bn": "তাদের পরিণতিতে খুশি হওয়ার আমন্ত্রণও এ কাহিনিতে নেই। যাকে তারা হত্যা করেছিল, তার একমাত্র আকাঙ্ক্ষা ছিল, সে এখন যা জানে তা যদি তারাও জানত (৩৬:২৬ ও ৩৬:২৭)। আমাদের আয়াতের পরের আয়াত শুরু হয় বিজয়ের উল্লাসে নয়, আফসোসে: ইয়া হাসরাতান আলাল ইবাদ, বান্দাদের জন্য আফসোস! এটি একটি পথ আর তার শেষ গন্তব্য নিয়ে সতর্কবাণী। পাঠকের চেনা কারও উপর রায় নয়।"
+          },
+          {
+            "en": "What the verse asks of its reader is turned inward. Every loud certainty set against Allah's messengers is a fire that feels as if it will burn for ever. The shout that ended this town took no time and needed no army, and each reader's own life hangs by a thread no thicker. Take the warning while the voice is still yours. Listen to the messengers as the man from the city's edge begged his people to, before the stillness comes that leaves no chance to answer.",
+            "bn": "আয়াতটি পাঠকের কাছে যা চায়, তা তার নিজের দিকেই ফেরানো। আল্লাহর রাসূলদের বিরুদ্ধে দাঁড় করানো প্রতিটি সরব নিশ্চয়তা এমন আগুন, যা জ্বলার সময় মনে হয় চিরকাল জ্বলবে। যে আওয়াজ এই জনপদকে শেষ করেছিল, তাতে কোনো সময় লাগেনি, কোনো বাহিনীরও দরকার পড়েনি। আর প্রত্যেক পাঠকের জীবনও এর চেয়ে মজবুত কিছুর উপর দাঁড়িয়ে নেই। কণ্ঠ যতক্ষণ নিজের আছে, সতর্কবাণীটা গ্রহণ করুন। শহরের প্রান্ত থেকে আসা সেই মানুষটি যেভাবে তার জাতিকে মিনতি করেছিল, সেভাবে রাসূলদের কথা শুনুন, সেই নিস্তব্ধতা নেমে আসার আগে, যার পরে জবাব দেওয়ার আর কোনো সুযোগ থাকে না।"
+          }
+        ]
+      }
+    ]
+  },
   "36:34": {
     "sections": [
       {

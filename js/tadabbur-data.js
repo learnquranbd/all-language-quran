@@ -25529,6 +25529,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Heedlessness grows wherever reminding stops. Welcome the warning that wakes you, and do not let your own silence leave others asleep.",
     "lessonBn": "যেখানে মনে করিয়ে দেওয়া থেমে যায়, সেখানেই গাফলত বাড়ে। যে সতর্কবাণী আপনাকে জাগিয়ে তোলে তাকে স্বাগত জানান, আর আপনার নিজের নীরবতা যেন অন্যদের ঘুমিয়ে না রাখে।"
+  },
+  "36:29": {
+    "reflectionEn": "A town had spent its strength on noise: threats to stone the messengers, mockery, and then the killing of the one man who begged them to listen. The Qur'an does not answer with a battle. No army came down from the sky, and none was needed. There was one shout, and at once they were still, like a fire that has gone out. After all that noise came silence. The verse tells what befell one people who rejected their messengers; it gives me no verdict on anyone alive today. It turns the question back on me. What am I loud about now that will be cold ash soon? And do I live as though my own life could not be stilled in a single breath?",
+    "reflectionBn": "একটা জনপদ তার সব শক্তি খরচ করেছিল শোরগোলে। রাসূলদের পাথর মারার হুমকি দিয়েছিল, ঠাট্টা করেছিল, শেষে মেরে ফেলেছিল সেই মানুষটিকে, যে শুধু অনুরোধ করেছিল একটু কান দিতে। কুরআন এর জবাবে কোনো যুদ্ধের কথা বলে না। আকাশ থেকে কোনো বাহিনী নামেনি, নামানোর দরকারও ছিল না। একটিমাত্র বিকট আওয়াজ, আর সঙ্গে সঙ্গে তারা নিথর হয়ে গেল, যেন নিভে যাওয়া আগুন। এত শোরগোলের পর নেমে এল নীরবতা। আয়াতটি রাসূলদের অস্বীকারকারী একটি জাতির পরিণতির কথা বলে। আজকের কোনো জীবিত মানুষের বিরুদ্ধে রায় দেওয়ার অধিকার এ আয়াত আমাকে দেয় না। প্রশ্নটা বরং ফিরে আসে আমার দিকেই। আজ কোন জিনিস নিয়ে আমি এত সরব, যা কদিন পরেই ঠান্ডা ছাই হয়ে যাবে? আর আমি কি এমনভাবে বাঁচি, যেন আমার জীবন এক নিঃশ্বাসে থেমে যেতে পারে না?",
+    "pointsEn": [
+      "Which of my loud certainties would fall silent first if I stood before Allah today?",
+      "When I see someone wronged for speaking the truth, do I trust that Allah needs no army to set things right, or do I lose heart?",
+      "Have I taken a delay in consequences to mean there will be none?",
+      "If my life ended as suddenly as theirs, with no warning and no time left, what would I wish I had already done?",
+      "Do I hear the Qur'an's accounts of ruined towns as stories about other people, or as words aimed at me?"
+    ],
+    "pointsBn": [
+      "আজই যদি আল্লাহর সামনে দাঁড়াতে হয়, আমার কোন জোরালো নিশ্চয়তাগুলো সবার আগে চুপ হয়ে যাবে?",
+      "সত্য বলার কারণে কাউকে জুলুমের শিকার হতে দেখলে আমি কি ভরসা রাখি যে সব ঠিক করে দিতে আল্লাহর কোনো বাহিনীর দরকার নেই, নাকি হতাশ হয়ে পড়ি?",
+      "পরিণতি আসতে দেরি হচ্ছে বলে কি আমি ধরে নিয়েছি যে তা কখনো আসবেই না?",
+      "তাদের মতো আমার জীবনও যদি হঠাৎ শেষ হয়ে যায়, কোনো সতর্কতা ছাড়া, হাতে একটুও সময় না রেখে, তখন কোন কাজটা আগেই করে রাখিনি বলে আফসোস হবে?",
+      "ধ্বংস হয়ে যাওয়া জনপদের যে বিবরণ কুরআনে আসে, তা কি আমি অন্যদের গল্প হিসেবে শুনি, নাকি আমার দিকেই ছোড়া কথা হিসেবে?"
+    ],
+    "lessonEn": "Allah needs no army to end what defies Him; one shout was enough. Do not mistake His patience for weakness, and turn to Him before your own sudden stillness comes.",
+    "lessonBn": "যা তাঁর অবাধ্য হয়, তা শেষ করতে আল্লাহর কোনো বাহিনীর দরকার হয় না, একটি আওয়াজই যথেষ্ট ছিল। তাঁর সহনশীলতাকে দুর্বলতা ভাববেন না, আর নিজের হঠাৎ থেমে যাওয়ার দিন আসার আগেই তাঁর দিকে ফিরে আসুন।"
   }
 };
 
