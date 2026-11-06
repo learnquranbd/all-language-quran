@@ -26909,6 +26909,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every matter of your year is settled by Allah with wisdom, so plan and work, but hold your plans humbly and meet what comes as His wise decree.",
     "lessonBn": "আপনার বছরের প্রতিটি বিষয় আল্লাহ হিকমতের সঙ্গে স্থির করেন। তাই পরিকল্পনা করুন, চেষ্টা করুন, তবে পরিকল্পনা ধরে রাখুন বিনয়ের সঙ্গে, আর যা আসে তাকে তাঁর প্রজ্ঞাপূর্ণ ফয়সালা হিসেবে গ্রহণ করুন।"
+  },
+  "44:13": {
+    "reflectionEn": "The smoke has come down, and with it the cry: Our Lord, lift this from us; we believe now. The reply is a question. How can remembering come to them now, when a messenger who made everything plain had already come? They had not lacked a reminder. They had a man among them who spoke clearly, and they turned their backs on him and called him tutored and mad. Remembering that only wakes under pressure is late remembering. The verse is not here so that I can feel safe watching others. It asks what reminders I am living beside today: a verse I know by heart, a warning I keep putting off. Will I take heed while it is still mine to take, or wait for the smoke?",
+    "reflectionBn": "ধোঁয়া নেমে এসেছে, সঙ্গে সঙ্গে আর্তনাদ: হে আমাদের রব, এটা সরিয়ে নিন, এবার আমরা ঈমান আনলাম। জবাব আসে একটা প্রশ্ন হয়ে। এখন তারা উপদেশ নেবে কোথা থেকে? সব কিছু স্পষ্ট করে বলার মতো একজন রসূল তো আগেই এসে গিয়েছিলেন। তাদের কাছে নসিহতের অভাব ছিল না। তাদের মাঝেই ছিলেন এমন একজন, যাঁর কথা ছিল একদম পরিষ্কার। তারা তাঁর দিক থেকে মুখ ফিরিয়ে নিয়েছিল, বলেছিল, কেউ তাকে শিখিয়ে দেয়, সে তো পাগল। যে স্মরণ শুধু চাপে পড়ে জাগে, তা দেরিতে জাগা স্মরণ। অন্যদের দিকে তাকিয়ে নিজেকে নিরাপদ ভাবার জন্য আয়াতটি আসেনি। সে জানতে চায়, কোন কোন নসিহতের পাশে আমি আজ বেঁচে আছি। মুখস্থ কোনো আয়াত, কিংবা এমন কোনো সতর্কবাণী যা আমি বারবার পিছিয়ে দিই। উপদেশ নেওয়ার সুযোগ হাতে থাকতেই কি আমি তা নেব, নাকি ধোঁয়ার অপেক্ষায় থাকব?",
+    "pointsEn": [
+      "Which reminder have I heard many times without letting it change a single thing I do?",
+      "Do my promises to Allah grow loud only when I am in trouble, and go quiet again once the trouble lifts?",
+      "When a plain truth is put to me, do I reach for a label to dismiss the speaker instead of answering what was said?",
+      "When ease comes back after a hard season, what habits do I quietly return to?",
+      "What would it look like to take heed this week, before any hardship forces me to?"
+    ],
+    "pointsBn": [
+      "কোন নসিহতটা আমি বহুবার শুনেছি, অথচ আমার একটা কাজও তাতে বদলায়নি?",
+      "আল্লাহর কাছে আমার ওয়াদাগুলো কি কেবল বিপদে পড়লেই জোরালো হয়, আর বিপদ কেটে গেলে আবার চুপ হয়ে যায়?",
+      "কেউ যখন আমার সামনে স্পষ্ট কোনো সত্য তুলে ধরে, আমি কি তার কথার জবাব দিই, নাকি বক্তার গায়ে একটা তকমা লাগিয়ে তাকে উড়িয়ে দিই?",
+      "কঠিন সময় পেরিয়ে স্বস্তি ফিরে এলে আমি চুপিসারে কোন পুরোনো অভ্যাসে ফিরে যাই?",
+      "কোনো বিপদ আমাকে বাধ্য করার আগেই এ সপ্তাহে উপদেশ নেওয়াটা আমার জীবনে কেমন দেখাবে?"
+    ],
+    "lessonEn": "Take the reminder while it is plain before you and still yours to heed, rather than waiting for hardship to wring out promises you may not keep.",
+    "lessonBn": "উপদেশ যখন সামনে স্পষ্ট আর তা গ্রহণের সুযোগ হাতে আছে, তখনই তা গ্রহণ করুন। বিপদ এসে এমন ওয়াদা আদায় করে নেবে, যা হয়তো রাখতে পারবেন না, সে অপেক্ষায় থাকবেন না।"
   }
 };
 

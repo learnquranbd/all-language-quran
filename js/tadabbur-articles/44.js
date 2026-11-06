@@ -455,6 +455,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Plea Met With a Question",
+          "bn": "আকুতির জবাবে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse is seven Arabic words: anna lahumu adh-dhikra wa-qad ja'ahum rasulun mubin. It comes straight after a plea. The verses before it tell the Prophet ﷺ to watch for a day when the sky brings a visible smoke that covers the people, a painful torment (44:10 and 44:11), and then give the words of those it covers: Our Lord, remove the torment from us; we are believers (44:12). This verse does not answer the plea with a yes or a no. It answers with a question about where their remembering could come from now.",
+            "bn": "আয়াতটি আরবিতে মাত্র সাতটি শব্দ: আন্না লাহুমুয যিকরা ওয়া কাদ জাআহুম রাসূলুম মুবীন। এটি আসে একটা আকুতির ঠিক পরে। আগের আয়াতগুলোতে নবী ﷺ-কে বলা হয়েছে সেই দিনের অপেক্ষা করতে, যেদিন আকাশ নিয়ে আসবে স্পষ্ট ধোঁয়া। সে ধোঁয়া মানুষকে ঢেকে ফেলবে, আর সেটাই যন্ত্রণাদায়ক আযাব (৪৪:১০ ও ৪৪:১১)। তারপর ধোঁয়ায় ঢাকা মানুষের মুখের কথা: হে আমাদের রব, আমাদের উপর থেকে আযাব সরিয়ে দিন, আমরা ঈমান আনছি (৪৪:১২)। এ আয়াত আকুতির জবাবে হ্যাঁ বা না কিছুই বলে না। জবাব দেয় একটা প্রশ্ন দিয়ে: এখন তাদের স্মরণ আসবে কোথা থেকে?"
+          },
+          {
+            "en": "The question has two halves. The first, anna lahumu adh-dhikra, asks how heeding can be theirs. The second, opened by wa-qad, 'when already', gives the reason the question cuts: a clear messenger had already come to them. The next verse finishes the thought: then they turned away from him and said, tutored, a madman (44:14). Read together, the three verses set a promise made late beside a refusal made early, and leave the reader to weigh them against each other.",
+            "bn": "প্রশ্নটার দুটি অংশ। প্রথম অংশ, আন্না লাহুমুয যিকরা, জানতে চায় উপদেশ নেওয়া তাদের ভাগ্যে জুটবে কীভাবে। দ্বিতীয় অংশ শুরু হয় ওয়া কাদ দিয়ে, মানে অথচ আগেই। প্রশ্নটা কেন এত তীক্ষ্ণ, সে কারণ এখানেই: স্পষ্ট এক রসূল তো তাদের কাছে আগেই এসেছিলেন। পরের আয়াত কথাটা শেষ করে: তারপর তারা তাঁর দিক থেকে মুখ ফিরিয়ে নিল আর বলল, শেখানো লোক, পাগল (৪৪:১৪)। তিনটি আয়াত একসঙ্গে পড়লে দেখা যায়, দেরিতে দেওয়া এক ওয়াদা পাশাপাশি রাখা আছে আগেভাগে করা এক প্রত্যাখ্যানের সঙ্গে। কোনটার ওজন কত, তা মাপার ভার পাঠকের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Where Would Heeding Come",
+          "bn": "উপদেশ আসবে কোন পথে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses anna as 'from what direction': from what direction can these polytheists have remembrance after the affliction has come down on them, when they had turned their backs on Our messenger when he came to them? He then cites Ibn 'Abbas giving the word as kayfa lahum, 'how can they have it', and Mujahid adding the time: after this affliction has fallen. At-Tabari says the people of interpretation read the phrase as he does.",
+            "bn": "তাবারী আন্না শব্দের ব্যাখ্যা দেন 'কোন দিক থেকে' বলে। অর্থাৎ বিপদ মাথার উপর নেমে আসার পর এই মুশরিকরা স্মরণের পথ পাবে কোন দিক থেকে? আমার রসূল যখন তাদের কাছে এসেছিলেন, তখন তো তারা তাঁর দিকে পিঠ ফিরিয়ে চলে গিয়েছিল। এরপর তিনি ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনেন: কাইফা লাহুম, তারা তা পাবে কীভাবে। মুজাহিদ জুড়ে দেন সময়টা: এই বিপদ ঘটে যাওয়ার পরে। তাবারী জানান, তাফসীরের আলেমরা আয়াতটি তাঁর মতোই বুঝেছেন।"
+          },
+          {
+            "en": "Al-Baghawi joins the two glosses: from where will they have remembering and taking admonition, meaning, how will they remember and be admonished? Al-Qurtubi gives the same pair, tadhakkur and itti'az, and places it at the arrival of the torment. He adds a note on the word itself, citing al-Bukhari, that adh-dhikra and adh-dhikr are one. So the dhikra here is not a new book or a fresh sermon. It is the act of remembering what one already knew and being moved by it.",
+            "bn": "বাগাভী দুটি ব্যাখ্যাকে এক করে দেন: কোথা থেকে তারা স্মরণ করবে আর উপদেশ নেবে? মানে, তারা কীভাবে স্মরণ করবে, কীভাবে নসিহত গ্রহণ করবে? কুরতুবীও একই জোড়া শব্দ ব্যবহার করেন, তাযাক্কুর আর ইত্তিআয, আর সময়টা ধরেন আযাব নেমে আসার মুহূর্তে। শব্দটি নিয়ে তিনি বুখারীর বরাতে একটি টীকাও দেন: যিকরা আর যিকর একই জিনিস। তাই এখানে যিকরা মানে নতুন কোনো কিতাব বা নতুন কোনো ওয়াজ নয়। আগে থেকেই জানা কথা মনে পড়া, আর সে কথায় নড়ে ওঠা, এটাই যিকরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clear in Message, Clear in Truth",
+          "bn": "বার্তায় স্পষ্ট, সত্যে স্পষ্ট"
+        },
+        "p": [
+          {
+            "en": "The second half names what they had already been given: rasulun mubin. Ibn Kathir paraphrases the verse as how can they remember, when We sent them a messenger clear in his message and his warning. Al-Qurtubi reads mubin as one who makes the truth plain to them. Al-Baghawi reads it as one whose truthfulness is evident, and names him: Muhammad ﷺ. The Muyassar names him too. The readings lean different ways, one on what the messenger makes clear and one on how clearly true he is, but they do not contradict.",
+            "bn": "দ্বিতীয় অংশে বলা হয়েছে তারা আগেই কী পেয়েছিল: রাসূলুম মুবীন। ইবন কাসীর আয়াতটির মর্ম বলেন এভাবে: তারা স্মরণ করবে কীভাবে, আমি তো তাদের কাছে এমন রসূল পাঠিয়েছিলাম, যাঁর রিসালাত আর সতর্কবাণী ছিল সুস্পষ্ট। কুরতুবীর কাছে মুবীন মানে যিনি তাদের সামনে সত্যকে খুলে দেখান। বাগাভীর কাছে মুবীন মানে যাঁর সত্যবাদিতা প্রকাশ্য, আর তিনি নামও বলে দেন: মুহাম্মদ ﷺ। মুয়াসসারও তাঁর নাম উল্লেখ করে। একজনের ঝোঁক রসূল কী স্পষ্ট করেন তার দিকে, আরেকজনের ঝোঁক তিনি নিজে কতটা স্পষ্টভাবে সত্য তার দিকে। তবে দুই পাঠে কোনো বিরোধ নেই।"
+          },
+          {
+            "en": "The word mubin is threaded through this passage. The surah swears by the Book that is mubin (44:2). The smoke of 44:10 is mubin, plain to see. The messenger of 44:13 is mubin. Something plainly visible in the sky frightens them into a promise; someone plainly truthful standing among them had not moved them at all. The verse lets the repeated word make its own point: the clearness they ignored in a man is the clearness that later overwhelms them in the sky.",
+            "bn": "এ অংশ জুড়ে মুবীন শব্দটা বারবার ফিরে আসে। সূরার শুরুতেই শপথ মুবীন কিতাবের নামে (৪৪:২)। ৪৪:১০-এর ধোঁয়াও মুবীন, চোখে স্পষ্ট দেখা যায়। আর ৪৪:১৩-এর রসূলও মুবীন। আকাশে স্পষ্ট দেখা যায় এমন কিছু তাদের ভয় দেখিয়ে ওয়াদা আদায় করে নেয়। অথচ তাদেরই মাঝে দাঁড়ানো স্পষ্ট সত্যবাদী মানুষটি তাদের একটুও নাড়াতে পারেননি। আয়াত এ শব্দের পুনরাবৃত্তিকেই কথা বলতে দেয়। যে স্পষ্টতাকে তারা একজন মানুষের মধ্যে উপেক্ষা করেছিল, পরে সেই স্পষ্টতাই আকাশ থেকে তাদের ঘিরে ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembering Under the Blow",
+          "bn": "আঘাতের নিচে স্মরণ"
+        },
+        "p": [
+          {
+            "en": "When is the question asked? At-Tabari and Mujahid tie it to the moment after the affliction has fallen. Al-Qurtubi says at the arrival of the torment, and the Muyassar says after the torment has come down on them. They agree on the logic. The remembering they now offer comes under the blow, and the remembering that was asked of them was meant to come before it, when a clear messenger stood in front of them and the choice was still free.",
+            "bn": "প্রশ্নটা কখন করা হচ্ছে? তাবারী ও মুজাহিদ একে বেঁধে দেন বিপদ নেমে আসার পরের মুহূর্তের সঙ্গে। কুরতুবী বলেন আযাব এসে পড়ার সময়, আর মুয়াসসার বলে তাদের উপর আযাব নেমে আসার পর। যুক্তির জায়গায় সবাই একমত। এখন তারা যে স্মরণের কথা দিচ্ছে, তা আসছে আঘাত খেয়ে। অথচ তাদের কাছে যে স্মরণ চাওয়া হয়েছিল, তার সময় ছিল আঘাতের আগে। তখন স্পষ্ট এক রসূল তাদের সামনে দাঁড়িয়ে ছিলেন, আর বেছে নেওয়ার স্বাধীনতাও ছিল পুরোপুরি।"
+          },
+          {
+            "en": "As-Sa'di places the words at a later hour. In his first reading, this is said to the disbelievers on the Day of Resurrection, when they ask to be sent back to the world, and the answer is that the time for returning has gone. Ibn Kathir sets the verse beside two others that use the same anna: on that Day man will remember, but how will the remembrance avail him (89:23), and they will say, we believe in it, but how can they reach it from a place far off (34:52).",
+            "bn": "সা'দী কথাটার সময় ধরেন আরও পরে। তাঁর প্রথম ব্যাখ্যায় কিয়ামতের দিন কাফিররা যখন দুনিয়ায় ফেরত যেতে চাইবে, তখন তাদের এ কথা বলা হবে। জবাব হবে: ফেরার সময় পেরিয়ে গেছে। ইবন কাসীর আয়াতটিকে এমন আরও দুটি আয়াতের পাশে রাখেন, যেখানে একই আন্না এসেছে। সেদিন মানুষ স্মরণ করবে, কিন্তু সে স্মরণ তার কী কাজে আসবে (৮৯:২৩)। আর তারা বলবে, আমরা এতে ঈমান আনলাম, কিন্তু এত দূর থেকে তারা তা নাগাল পাবে কীভাবে (৩৪:৫২)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Haze Over a Starving Makkah",
+          "bn": "ক্ষুধার্ত মক্কার আকাশে ধোঁয়াশা"
+        },
+        "p": [
+          {
+            "en": "Which smoke is meant? The answer decides whether the plea of 44:12 and the question of 44:13 belong to Makkah in the Prophet's lifetime or to the end of time, and the Companions differed. No sound hadith in the sources fetched attaches to 44:13 itself; the reports below concern the smoke of 44:10. Ibn Kathir opens with Masruq's account. In the mosque at Kufa a man said the smoke would come on the Day of Resurrection. Told of it, Ibn Mas'ud sat up, recited 38:86, and said that part of knowledge is to say 'Allah knows best' about what a person does not know.",
+            "bn": "কোন ধোঁয়ার কথা বলা হচ্ছে? এর উত্তরেই ঠিক হয়, ৪৪:১২-এর আকুতি আর ৪৪:১৩-এর প্রশ্ন নবীজির জীবদ্দশার মক্কার ঘটনা, নাকি শেষ জমানার। এ নিয়ে সাহাবিরা ভিন্নমত পোষণ করেছেন। যেসব সূত্র দেখা হয়েছে, তাতে সরাসরি ৪৪:১৩-এর সঙ্গে যুক্ত কোনো সহীহ হাদীস নেই। নিচের বর্ণনাগুলো ৪৪:১০-এর ধোঁয়া নিয়ে। ইবন কাসীর শুরু করেন মাসরূকের বিবরণ দিয়ে। কুফার মসজিদে এক লোক বলছিল, এ ধোঁয়া আসবে কিয়ামতের দিন। খবর শুনে ইবন মাসউদ (রাঃ) উঠে বসলেন, ৩৮:৮৬ পড়লেন, তারপর বললেন: যা জানা নেই, সে ব্যাপারে 'আল্লাহই ভালো জানেন' বলাও ইলমের অংশ।"
+          },
+          {
+            "en": "Sahih al-Bukhari (4821) gives his explanation, through Masruq, in these words. 'Abdullah said: This was only because when Quraysh resisted the Prophet ﷺ, he prayed against them for years like the years of Yusuf (AS). Drought and hardship struck them until they ate bones, and a man would look at the sky and see between himself and it something like smoke, from exhaustion. So Allah the Exalted revealed: Then watch for the Day when the sky brings a visible smoke, covering the people; this is a painful torment.",
+            "bn": "সহীহ বুখারীতে (৪৮২১) মাসরূকের সূত্রে তাঁর ব্যাখ্যা এসেছে এই ভাষায়। আবদুল্লাহ বলেন: ব্যাপারটা ছিল এই। কুরাইশ যখন নবী ﷺ-এর অবাধ্য হয়ে জেদ ধরল, তিনি তাদের বিরুদ্ধে দুআ করলেন, যেন তাদের উপর ইউসুফ (আঃ)-এর যুগের মতো কয়েক বছর নেমে আসে। দুর্ভিক্ষ আর কষ্ট তাদের এমনভাবে পেয়ে বসল যে তারা হাড় পর্যন্ত খেতে লাগল। কেউ আকাশের দিকে তাকালে ক্লান্তির চোটে নিজের আর আকাশের মাঝে ধোঁয়ার মতো কিছু দেখত। তখন আল্লাহ তাআলা নাযিল করলেন: অতএব অপেক্ষা করো সেদিনের, যেদিন আকাশ নিয়ে আসবে স্পষ্ট ধোঁয়া, যা মানুষকে ঢেকে ফেলবে। এ এক যন্ত্রণাদায়ক আযাব।"
+          },
+          {
+            "en": "He said: Then the Messenger of Allah ﷺ was approached and told: Messenger of Allah, ask Allah for rain for Mudar, for they are perishing. He said: For Mudar? You are surely bold. He asked for rain, and they were given rain. Then was revealed: indeed you will return. When ease reached them, they went back to their former state, and Allah revealed: The Day We strike with the greatest strike; indeed We take retribution. He said: meaning the day of Badr. The report stands in al-Bukhari's Sahih.",
+            "bn": "তিনি বলেন: তারপর রাসূলুল্লাহ ﷺ-এর কাছে এসে বলা হলো, হে আল্লাহর রসূল, মুদার গোত্রের জন্য আল্লাহর কাছে বৃষ্টি চেয়ে দুআ করুন, তারা তো ধ্বংস হয়ে যাচ্ছে। তিনি বললেন: মুদারের জন্য? তোমার তো বড় সাহস! তারপর তিনি বৃষ্টির দুআ করলেন, আর তারা বৃষ্টি পেল। তখন নাযিল হলো: তোমরা তো আবার ফিরে যাবে। স্বস্তি ফিরে পেতেই তারা আগের অবস্থায় ফিরে গেল। তখন আল্লাহ নাযিল করলেন: যেদিন আমি প্রচণ্ডতম আঘাতে পাকড়াও করব, সেদিন আমি অবশ্যই প্রতিশোধ নেব। তিনি বলেন: অর্থাৎ বদরের দিন। বর্ণনাটি বুখারীর সহীহ গ্রন্থে আছে।"
+          },
+          {
+            "en": "Ibn Kathir names Mujahid, Abu al-'Aliyah, Ibrahim an-Nakha'i, ad-Dahhak and 'Atiyyah al-'Awfi as agreeing with Ibn Mas'ud that the smoke has already happened, and says this was also the view of Ibn Jarir, that is, at-Tabari. As-Sa'di records the reading as well. On it, the smoke was smoke only to their eyes, a haze born of hunger, and the famine lasted until they begged the Prophet ﷺ to pray for its lifting, and he did. As-Sa'di himself says this reading is plainly open to objection.",
+            "bn": "ইবন কাসীর জানান, মুজাহিদ, আবুল আলিয়া, ইবরাহীম নাখঈ, দাহহাক ও আতিয়্যা আল-আওফী ইবন মাসউদ (রাঃ)-এর সঙ্গে একমত যে ধোঁয়ার ঘটনা ঘটে গেছে। তিনি এও বলেন, ইবন জারীর তথা তাবারীর মতও এটাই। সা'দীও এ ব্যাখ্যাটি উল্লেখ করেছেন। এ ব্যাখ্যা অনুযায়ী ধোঁয়াটা ছিল কেবল তাদের চোখের দেখা, ক্ষুধা থেকে জন্মানো এক ধোঁয়াশা। দুর্ভিক্ষ চলতেই থাকল, শেষে তারা নবী ﷺ-এর কাছে অনুনয় করল যেন তিনি এটা তুলে নেওয়ার দুআ করেন, আর তিনি দুআ করলেন। তবে সা'দী নিজে বলেন, এ ব্যাখ্যায় স্পষ্ট আপত্তির জায়গা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sign Still Awaited",
+          "bn": "এখনো অপেক্ষমাণ এক নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "The other reading holds that the smoke is a sign still to come, close to the Hour. Ma'arif al-Qur'an, which counts three opinions among the Companions and their students, lists this view first and gives as its holders 'Ali, Ibn 'Abbas, Ibn 'Umar, Abu Hurairah, Zaid ibn 'Ali, al-Hasan al-Basri and Ibn Abi Mulaikah, among others. It sets Ibn Mas'ud's reading second, and calls these two the most widely held; a third, from 'Abd ar-Rahman al-A'raj, takes the smoke as dust raised over Makkah on the day of its conquest.",
+            "bn": "অন্য ব্যাখ্যা বলে, ধোঁয়া এমন এক নিদর্শন যা এখনো আসেনি, আসবে কিয়ামতের কাছাকাছি সময়ে। মাআরিফুল কুরআন সাহাবি ও তাঁদের শিষ্যদের মধ্যে তিনটি মত গণনা করে। এ মতটিকে রাখে প্রথমে, আর এর ধারক হিসেবে নাম দেয় আলী, ইবন আব্বাস, ইবন উমর, আবু হুরায়রা (রাঃ), যায়দ ইবন আলী, হাসান বসরী ও ইবন আবী মুলাইকা প্রমুখের। ইবন মাসউদ (রাঃ)-এর ব্যাখ্যা আসে দ্বিতীয়তে, আর এ দুটিকেই সে সবচেয়ে প্রচলিত বলে। তৃতীয় মতটি আবদুর রহমান আল-আরাজের। তাঁর মতে ধোঁয়া মানে মক্কা বিজয়ের দিন মক্কার আকাশে ওড়া ধুলা।"
+          },
+          {
+            "en": "Sahih Muslim (2901) carries the report of Hudhayfah ibn Asid al-Ghifari: The Prophet ﷺ looked in on us while we were discussing, and said: What are you discussing? They said: We are speaking of the Hour. He said: It will not come until you see ten signs before it. And he mentioned the smoke, the Dajjal, the beast, the rising of the sun from its west, the descent of 'Isa son of Maryam (AS), Gog and Magog, and three landslides, in the east, in the west and in the Arabian Peninsula, and last of all a fire that comes out of Yemen and drives people to their gathering place.",
+            "bn": "সহীহ মুসলিমে (২৯০১) হুযাইফা ইবন আসীদ আল-গিফারী (রাঃ)-এর বর্ণনা আছে: আমরা আলোচনা করছিলাম, এমন সময় নবী ﷺ আমাদের দিকে উঁকি দিয়ে বললেন, তোমরা কী নিয়ে আলোচনা করছ? তাঁরা বললেন, আমরা কিয়ামতের কথা বলছি। তিনি বললেন, তার আগে দশটি নিদর্শন না দেখা পর্যন্ত কিয়ামত হবে না। তারপর তিনি উল্লেখ করলেন ধোঁয়া, দাজ্জাল, দাব্বা, পশ্চিম দিক থেকে সূর্যোদয়, ঈসা ইবন মারইয়াম (আঃ)-এর অবতরণ, ইয়াজুজ-মাজুজ, আর তিনটি ভূমিধস: একটি পূর্বে, একটি পশ্চিমে, একটি আরব উপদ্বীপে। সবশেষে ইয়েমেন থেকে এক আগুন বের হবে, যা মানুষকে তাড়িয়ে নিয়ে যাবে তাদের সমবেত হওয়ার জায়গায়।"
+          },
+          {
+            "en": "Ibn Kathir leans this way. He says many reports, from the Prophet ﷺ and from Companions, point to the smoke as one of the awaited signs, and that this is the apparent sense of the Qur'an: yaghsha an-nas, covering the people, would not be said of an illusion that touched only Makkah's idolaters. Ma'arif al-Qur'an notes the cost on this side too, since 44:15 speaks of the torment being lifted, and Ibn Kathir reads that as a conditional: if We lifted it and sent you back, you would return (23:75, 6:28).",
+            "bn": "ইবন কাসীরের ঝোঁক এ মতের দিকে। তিনি বলেন, নবী ﷺ ও সাহাবিদের থেকে আসা বহু বর্ণনা ধোঁয়াকে কিয়ামতের অপেক্ষমাণ নিদর্শনগুলোর একটি হিসেবে দেখায়। কুরআনের বাহ্যিক অর্থও তাই। ইয়াগশান নাস, অর্থাৎ মানুষকে ঢেকে ফেলবে, এ কথা এমন এক দৃষ্টিভ্রম সম্পর্কে বলা হতো না, যা কেবল মক্কার মুশরিকদের ছুঁয়েছিল। মাআরিফুল কুরআন এ মতের দুর্বল দিকটাও দেখায়। ৪৪:১৫ আয়াতে আযাব সরিয়ে নেওয়ার কথা আছে, অথচ কিয়ামতের দিন কাফিরদের আযাব সরানো হবে না। ইবন কাসীর একে শর্তের বাক্য হিসেবে পড়েন: আযাব সরিয়ে তোমাদের ফেরত পাঠালেও তোমরা আবার আগের পথে ফিরতে (২৩:৭৫, ৬:২৮)।"
+          },
+          {
+            "en": "As-Sa'di, as seen above, prefers neither of these two: he lists both and takes the words as spoken on the Day of Resurrection, allowing that all of 44:10 to 44:14 may describe that Day. This article does not settle the question. Both sides go back to Companions and cite a Sahih report, though Muslim's names the smoke without quoting the verse. What holds on every reading is the question of 44:13 itself: heeding offered under the blow, by people who had turned from a clear messenger when heeding was free.",
+            "bn": "সা'দী, আগেই যেমন দেখা গেছে, এ দুটির কোনোটিকেই প্রাধান্য দেন না। দুটোই উল্লেখ করে তিনি কথাগুলোকে কিয়ামতের দিনের কথা হিসেবে ধরেন, আর বলেন ৪৪:১০ থেকে ৪৪:১৪ পর্যন্ত পুরোটাই সেদিনের বর্ণনা হতে পারে। এ লেখা প্রশ্নটির মীমাংসা করছে না। দুই মতই সাহাবিদের পর্যন্ত পৌঁছায়, আর দুই পক্ষই সহীহ বর্ণনা পেশ করে। তবে মুসলিমের বর্ণনায় ধোঁয়ার উল্লেখ আছে, আয়াতটির উদ্ধৃতি নেই। তবে যে ব্যাখ্যাই ধরা হোক, ৪৪:১৩-এর প্রশ্ন একই থাকে। উপদেশ নেওয়ার কথা আসছে আঘাত খাওয়ার পর, এমন লোকদের মুখ থেকে, যারা উপদেশ নেওয়ার সুযোগ খোলা থাকার সময় স্পষ্ট এক রসূল থেকে মুখ ফিরিয়ে নিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Labels for One Man",
+          "bn": "এক মানুষের গায়ে দুই তকমা"
+        },
+        "p": [
+          {
+            "en": "The next verse, 44:14, shows how the clear messenger was received, and at-Tabari folds it into his explanation of 44:13: they turned their backs on him, took no reminder from what was recited to them of Our Book, took no admonition from Our proofs, and said he is only a madman who has been taught this speech. The Muyassar spells out the charge of being taught: a human taught him, or the soothsayers, or the devils; he is mad and no messenger. Ibn Kathir says they turned away from him, opposed him and rejected him.",
+            "bn": "স্পষ্ট রসূলকে তারা কীভাবে গ্রহণ করেছিল, তা দেখায় পরের আয়াত, ৪৪:১৪। তাবারী ৪৪:১৩-এর ব্যাখ্যাতেই কথাটা জুড়ে দেন। তারা তাঁর দিকে পিঠ ফিরিয়েছিল। আমার কিতাবের যা তাদের পড়ে শোনানো হতো, তা থেকে স্মরণ নেয়নি। আমার দলিল-প্রমাণ থেকে নসিহত নেয়নি। উল্টো বলেছে, সে তো এক পাগল, এ কথাগুলো তাকে কেউ শিখিয়ে দিয়েছে। শিখিয়ে দেওয়ার অভিযোগটা মুয়াসসার খুলে বলে: কোনো মানুষ, কিংবা গণকেরা, কিংবা শয়তানেরা তাকে শিখিয়েছে। সে পাগল, রসূল নয়। ইবন কাসীর বলেন, তারা তাঁর থেকে মুখ ফিরিয়ে নিল, তাঁর বিরোধিতা করল, তাঁকে প্রত্যাখ্যান করল।"
+          },
+          {
+            "en": "These verses describe what the Quraysh who refused the Prophet ﷺ did and said, as the commentators read them, and what the text says befell or will befall those it addresses. They license nothing against any living person or community, and they give no one the right to call another 'taught' or 'mad', or to read a famine or a disaster as proof that a people has been rejected by Allah. What the verses hold up is a pattern, and the reader is the one asked to check it in himself.",
+            "bn": "এই আয়াতগুলো বর্ণনা করে, নবী ﷺ-কে প্রত্যাখ্যানকারী কুরাইশরা কী করেছিল আর কী বলেছিল, তাফসীরকারেরা যেভাবে বুঝেছেন। আর যাদের উদ্দেশে কথা, তাদের উপর কী নেমেছিল বা নামবে, সে কথাও আয়াতে আছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে 'শেখানো লোক' বা 'পাগল' বলার অধিকারও কাউকে দেয় না। কোনো দুর্ভিক্ষ বা দুর্যোগ দেখে কোনো জাতিকে আল্লাহর প্রত্যাখ্যাত বলে রায় দেওয়ার অনুমতিও দেয় না। আয়াত একটা ধরন সামনে তুলে ধরে, আর তা যাচাই করার দায় পাঠকের নিজের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heeding Before Any Smoke",
+          "bn": "ধোঁয়া আসার আগেই নসিহত"
+        },
+        "p": [
+          {
+            "en": "The plea of 44:12 sounds like faith: we are believers. The verse does not mock it, but it asks what such a sentence is worth when spoken under a darkened sky. The commentators' pair of words helps here. Heard plainly, tadhakkur is remembering what a person already knew, and itti'az is letting it change what that person does. Under the blow the first can be forced out of anyone. The second is what the clear messenger asked for, while the choice was still open.",
+            "bn": "৪৪:১২-এর আকুতি শুনতে ঈমানের মতোই: আমরা মুমিন। আয়াত একে ঠাট্টা করে না, কিন্তু প্রশ্ন তোলে: অন্ধকার আকাশের নিচে দাঁড়িয়ে বলা এমন কথার দাম কত? তাফসীরকারদের ব্যবহার করা জোড়া শব্দ এখানে কাজে আসে। এভাবে শোনা যায়: তাযাক্কুর মানে আগে থেকে জানা কথা মনে পড়া, আর ইত্তিআয মানে সে কথাকে নিজের কাজ বদলাতে দেওয়া। আঘাতের নিচে প্রথমটা যে কারও মুখ থেকে বের করে আনা যায়। দ্বিতীয়টাই চেয়েছিলেন স্পষ্ট রসূল, যখন বেছে নেওয়ার পথ খোলা ছিল।"
+          },
+          {
+            "en": "For a reader today the clear messenger has already come, and his message sits in a Book the surah calls mubin. So the question of 44:13 can be asked now, quietly, before anything forces it: where will my remembering come from, and when? A promise made only in a crisis tends to fade once the crisis lifts, as 44:15 foretells of those it addresses. Heeding that begins while life is easy has nothing to take back when ease returns.",
+            "bn": "আজকের পাঠকের কাছেও স্পষ্ট রসূল এসে গেছেন, আর তাঁর বার্তা আছে এমন এক কিতাবে, যাকে এ সূরা মুবীন বলেছে। তাই ৪৪:১৩-এর প্রশ্নটা এখনই করা যায়, নিঃশব্দে, কোনো কিছু বাধ্য করার আগেই: আমার স্মরণ আসবে কোথা থেকে, আর কখন? শুধু সংকটে পড়ে দেওয়া ওয়াদা সংকট কাটলেই ফিকে হয়ে যেতে চায়। যাদের উদ্দেশে ৪৪:১৫ কথা বলেছে, তাদের বেলায় আয়াতটি সে কথাই আগে থেকে জানিয়ে দিয়েছে। স্বস্তির দিনে যে উপদেশ নেওয়া শুরু হয়, স্বস্তি ফিরে এলে তার কিছুই ফেরত নেওয়ার থাকে না।"
+          }
+        ]
+      }
+    ]
+  },
   "44:17-18": {
     "sections": [
       {
