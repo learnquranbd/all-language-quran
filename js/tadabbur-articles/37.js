@@ -7006,5 +7006,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "37:182": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Surah's Last Four Words",
+          "bn": "সূরার শেষ চারটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa-l-hamdu lillahi rabbi l-'alamin: and praise belongs to Allah, Lord of the worlds. In Arabic it is four words, and it is the last verse of as-Saffat. It does not stand alone. Two verses earlier the surah says that your Lord, the Lord of might, is exalted above what they describe (37:180); in the verse just before, it says: and peace upon the messengers (37:181). The wa that opens this verse ties it to both. Glory, then peace, then praise: the surah closes on a triad, and this is its third line.",
+            "bn": "ওয়াল হামদু লিল্লাহি রাব্বিল আলামীন: আর সব প্রশংসা আল্লাহর, যিনি সৃষ্টিজগতের রব। আরবিতে মাত্র চারটি শব্দ, আর এটিই সূরা আস-সাফফাতের শেষ আয়াত। তবে আয়াতটি একা দাঁড়িয়ে নেই। দুই আয়াত আগে সূরা বলেছে, তারা যা বর্ণনা করে তা থেকে তোমার রব, সকল ক্ষমতার রব, পবিত্র (৩৭:১৮০)। ঠিক আগের আয়াতে বলেছে, রাসূলদের প্রতি সালাম (৩৭:১৮১)। এ আয়াতের শুরুর 'ওয়া' অব্যয়টি দুটোর সঙ্গেই একে জুড়ে দেয়। প্রথমে পবিত্রতা ঘোষণা, তারপর সালাম, তারপর প্রশংসা। তিন বাক্যে সূরার ইতি, আর এটি তার তৃতীয় বাক্য।"
+          },
+          {
+            "en": "The wording is familiar to anyone who has opened the mushaf. The same four words, without the opening wa, form the second verse of al-Fatiha (1:2), the first sentence a reader meets after the basmala. That echo is this article's observation; none of the commentaries fetched for this verse draws it. What they discuss is the bond between this praise and the glorification two verses earlier, what exactly the praise is for, and a set of reports about saying these three verses at the end of a sitting.",
+            "bn": "কুরআন যিনি খুলেছেন, তাঁর কাছে শব্দগুলো চেনা। শুরুর 'ওয়া' বাদ দিলে হুবহু এই চারটি শব্দই সূরা ফাতিহার দ্বিতীয় আয়াত (১:২)। বিসমিল্লাহর পর পাঠক প্রথম যে বাক্যের দেখা পান, সেটিই। এই মিলটা এ লেখার নিজের পর্যবেক্ষণ। এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এ কথা বলেনি। সেগুলো কথা বলে এসব নিয়ে: দুই আয়াত আগের পবিত্রতা ঘোষণার সঙ্গে এই প্রশংসার সম্পর্ক, প্রশংসাটা ঠিক কীসের জন্য, আর মজলিসের শেষে এই তিনটি আয়াত পড়া নিয়ে কিছু বর্ণনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denial and Affirmation Paired",
+          "bn": "নাকচ আর স্বীকৃতি পাশাপাশি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens with a short gloss: to Him belongs praise in the first life and the last, in every state. Then he explains why this verse stands where it does. Tasbih, the glorification of 37:180, means by its direct sense declaring Allah free and clear of every deficiency, and by entailment it requires affirming His perfection. Hamd works from the other side: its direct sense affirms His attributes of perfection, and by entailment it clears Him of deficiency. Because each holds the other, he says, they are paired here and in many places in the Qur'an.",
+            "bn": "ইবন কাসীর শুরু করেন ছোট্ট এক ব্যাখ্যায়: দুনিয়া ও আখিরাতে, প্রতিটি অবস্থায় প্রশংসা তাঁরই। তারপর বোঝান, আয়াতটি কেন ঠিক এখানে। তাসবীহ, অর্থাৎ ৩৭:১৮০ আয়াতের পবিত্রতা ঘোষণা, সরাসরি অর্থে আল্লাহকে সব ত্রুটি থেকে মুক্ত ও পবিত্র বলা। আর এর অনিবার্য দাবি হলো তাঁর পূর্ণতা স্বীকার করা। হামদ কাজ করে উল্টো দিক থেকে। এর সরাসরি অর্থ তাঁর পূর্ণতার গুণাবলি স্বীকার করা, আর অনিবার্য দাবি হলো তাঁকে ত্রুটিমুক্ত ঘোষণা। একটির ভেতরে অন্যটি আছে বলেই, তিনি বলেন, এখানে এবং কুরআনের আরও বহু জায়গায় দুটিকে পাশাপাশি রাখা হয়েছে।"
+          },
+          {
+            "en": "Read this way, 37:180 and 37:182 are two halves of one statement. The surah has spent long passages answering what people ascribed to Allah, daughters among the angels and a kinship with the jinn. Denial clears the ground, but a faith that only says what Allah is not stays thin. Praise fills in what He is. Between the two halves stands the greeting of peace on the messengers, and Ibn Kathir's English abridgement gives the reason for it: what they say about their Lord is sound, correct and true.",
+            "bn": "এভাবে পড়লে ৩৭:১৮০ আর ৩৭:১৮২ একই কথার দুই অর্ধেক। মানুষ আল্লাহর প্রতি যা আরোপ করেছিল, ফেরেশতাদের তাঁর কন্যা বলা আর জিনদের সঙ্গে তাঁর আত্মীয়তা জুড়ে দেওয়া, সূরা লম্বা অংশ জুড়ে তার জবাব দিয়েছে। নাকচ করা জমিন পরিষ্কার করে। কিন্তু যে ঈমান শুধু বলে আল্লাহ কী নন, তা অপূর্ণ থেকে যায়। প্রশংসা জানিয়ে দেয় তিনি কী। দুই অর্ধেকের মাঝখানে আছে রাসূলদের প্রতি সালাম। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এর কারণও বলে দেয়: তাঁরা নিজেদের রব সম্পর্কে যা বলেন, তা নির্ভুল, সঠিক ও সত্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise for Which Favour?",
+          "bn": "কোন অনুগ্রহের প্রশংসা?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets out three readings of what the praise is for. First, for sending the messengers as bringers of good news and as warners. Second, introduced with it is said, for all the blessings Allah has given to the whole of creation. Third, also with it is said, for the destruction of the polytheists, and for this he cites 6:45: so the people who did wrong were cut off at the root, and praise belongs to Allah, Lord of the worlds. Then he gives his own verdict in a few words: all of it is meant, and praise is general.",
+            "bn": "প্রশংসাটা কীসের জন্য, কুরতুবী এর তিনটি ব্যাখ্যা দেন। প্রথমটি, সুসংবাদদাতা ও সতর্ককারী হিসেবে রাসূলদের পাঠানোর জন্য। দ্বিতীয়টি তিনি আনেন 'বলা হয়' দিয়ে: আল্লাহ গোটা সৃষ্টিকে যত নিয়ামত দিয়েছেন, সব কিছুর জন্য। তৃতীয়টিও 'বলা হয়' দিয়ে: মুশরিকদের ধ্বংসের জন্য। এর দলিল হিসেবে তিনি ৬:৪৫ আয়াত আনেন: অতঃপর যারা জুলুম করেছিল, তাদের মূলোচ্ছেদ করা হলো, আর সব প্রশংসা আল্লাহর, যিনি সৃষ্টিজগতের রব। তারপর অল্প কথায় নিজের মত জানান: সবগুলোই উদ্দেশ্য, আর প্রশংসা সবকিছুকেই শামিল করে।"
+          },
+          {
+            "en": "Al-Baghawi takes a single line: praise for the destruction of the enemies and for the support given to the prophets. At-Tabari reads it more widely. Praise belongs to Allah purely, to the exclusion of everything besides Him, because every blessing His servants have is from Him; so the praise is His alone without a partner, just as He has no partner in the blessings they hold. The Muyassar keeps it brief: in the first life and the last, for He alone deserves it, without a partner.",
+            "bn": "বাগাভী একটি ব্যাখ্যাই নেন: শত্রুদের ধ্বংস আর নবীদের সাহায্যের জন্য প্রশংসা। তাবারী একে আরও প্রশস্ত করে পড়েন। প্রশংসা খাঁটিভাবে আল্লাহর, তিনি ছাড়া আর কারও নয়। কারণ বান্দাদের কাছে যত নিয়ামত আছে, সবই তাঁর কাছ থেকে। তাই প্রশংসাও শুধু তাঁর, এতে কোনো শরিক নেই। যেমন বান্দাদের নিয়ামতেও তাঁর কোনো শরিক নেই। মুয়াসসার কথাটা সংক্ষেপে বলে: দুনিয়া ও আখিরাতে প্রশংসা তাঁরই, কারণ একমাত্র তিনিই এর হকদার, তাঁর কোনো শরিক নেই।"
+          },
+          {
+            "en": "As-Sa'di begins from the grammar. The al- of al-hamd is for comprehensiveness, so every kind of praise belongs to Allah: for His perfect and great attributes, and for the acts by which He nurtured the worlds, poured blessings on them, turned harms away from them and directed them in their movement and rest and in all their states. He is held free of every deficiency, praised for every perfection, loved and revered. So the commentators foreground different things, a particular outcome or the whole of His favour, and al-Qurtubi's verdict holds them together.",
+            "bn": "সা'দী শুরু করেন ব্যাকরণ থেকে। 'আল-হামদ' শব্দের 'আল' সবকিছুকে শামিল করার জন্য। তাই সব ধরনের প্রশংসাই আল্লাহর। তাঁর পরিপূর্ণ ও মহান গুণাবলির জন্য প্রশংসা। আর সেসব কাজের জন্যও, যা দিয়ে তিনি জগৎসমূহকে লালন করেছেন, তাদের উপর নিয়ামত ঢেলে দিয়েছেন, বিপদ সরিয়ে দিয়েছেন, তাদের চলা ও থামা আর সব অবস্থা পরিচালনা করেছেন। তিনি সব ত্রুটি থেকে পবিত্র, প্রতিটি পূর্ণতার জন্য প্রশংসিত, প্রিয় ও মহিমান্বিত। মুফাসসিরগণ তাই ভিন্ন ভিন্ন দিককে সামনে আনেন। কেউ নির্দিষ্ট এক পরিণতি, কেউ তাঁর সব অনুগ্রহ। কুরতুবীর মত সবগুলোকে একসঙ্গে ধরে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Worlds, and Whose Ruin",
+          "bn": "কোন জগৎ, কার ধ্বংস"
+        },
+        "p": [
+          {
+            "en": "The commentators also gloss rabb al-'alamin differently. At-Tabari explains it as the Lord of the two weighty ones, the jinn and humankind. Ibn Kathir's English abridgement renders it as Lord of all that exists, and reads the praise as belonging to Him at the beginning and end of all things. Neither rules the other out, and the verse carries both.",
+            "bn": "'রাব্বুল আলামীন' কথাটির ব্যাখ্যাতেও মুফাসসিরদের ভাষা আলাদা। তাবারী একে বলেন দুই ভারী সৃষ্টির রব, অর্থাৎ জিন ও মানুষ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এর অনুবাদ করে 'যা কিছু আছে, সবকিছুর রব'। আর প্রশংসাকে পড়ে এভাবে: সবকিছুর শুরুতে ও শেষে প্রশংসা তাঁরই। একটি অন্যটিকে বাতিল করে না, আয়াত দুটোই ধারণ করে।"
+          },
+          {
+            "en": "Two readings in the last section speak of an enemy destroyed: al-Baghawi's, and the one al-Qurtubi supports with 6:45. As-Sa'di ends the same way, saying the messengers are safe and greeted with peace, whoever follows them has safety in this world and the next, and Allah's enemies meet ruin in both. These describe what the surah itself describes, past peoples who rejected their messengers and a judgement that is Allah's. The verse licenses nothing against any living person or community, and praise here is a servant's word, never a sentence he passes on others.",
+            "bn": "আগের অংশের দুটি ব্যাখ্যায় শত্রুর ধ্বংসের কথা আছে: বাগাভীর ব্যাখ্যা, আর কুরতুবী যেটিকে ৬:৪৫ দিয়ে সমর্থন করেন। সা'দীও একই সুরে শেষ করেন। রাসূলগণ নিরাপদ, তাঁদের প্রতি সালাম। যারা তাঁদের অনুসরণ করে, দুনিয়া ও আখিরাতে তাদের জন্য নিরাপত্তা। আর আল্লাহর শত্রুদের জন্য দুই জগতেই ধ্বংস। সূরা নিজে যা বর্ণনা করে, এসব কথা তারই বর্ণনা: অতীতের যেসব জাতি রাসূলদের প্রত্যাখ্যান করেছিল, আর এমন বিচার, যা কেবল আল্লাহর। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। এখানে প্রশংসা বান্দার মুখের কথা, অন্যের উপর রায় ঘোষণা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Surah Folded Into Three",
+          "bn": "তিন আয়াতে ভাঁজ করা সূরা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an reads the closing triad as the whole surah compressed. As-Saffat began with the oneness of Allah, whose essence is that He is free of everything the polytheists attribute to Him, and 37:180 points back to that. Then came the accounts of the noble prophets, and 37:181 points to them. Then the beliefs, doubts and objections of the deniers were answered, by report and by reason, and the final supremacy of the people of truth was declared. Whoever hears all this with sense and insight, it says, is bound to end in praise.",
+            "bn": "মাআরিফুল কুরআন শেষের তিনটি আয়াতকে পড়ে গোটা সূরার সংক্ষিপ্ত রূপ হিসেবে। আস-সাফফাত শুরু হয়েছিল তাওহীদ দিয়ে, যার মূল কথা হলো, মুশরিকরা আল্লাহর প্রতি যা কিছু আরোপ করে, তিনি সে সব থেকে মুক্ত। ৩৭:১৮০ সেদিকেই ইঙ্গিত করে। এরপর এসেছিল মহান নবীদের ঘটনাবলি, আর ৩৭:১৮১ সেগুলোর দিকে ইশারা করে। তারপর অবিশ্বাসীদের আকীদা, সন্দেহ ও আপত্তির জবাব দেওয়া হয়েছে বর্ণনা ও যুক্তি দুই দিক থেকেই। ঘোষণা করা হয়েছে, শেষ বিজয় সত্যপন্থীদের। মাআরিফুল কুরআন বলে, বুদ্ধি ও অন্তর্দৃষ্টি নিয়ে যে এসব শোনে, তার শেষ কথা হবেই আল্লাহর প্রশংসা।"
+          },
+          {
+            "en": "It adds two further points. In these verses the basic beliefs of Islam, the oneness of Allah and prophethood, are stated clearly, and the Hereafter comes in as a corollary; confirming these was the real purpose of the surah. And it draws a teaching from the placement: a true Muslim is naturally expected to close every piece of writing, every address and every sitting by acknowledging the greatness of Allah and speaking words of praise for Him.",
+            "bn": "মাআরিফুল কুরআন আরও দুটি কথা যোগ করে। এই আয়াতগুলোতে ইসলামের মৌলিক আকীদা, তাওহীদ ও রিসালাত, স্পষ্ট ভাষায় এসেছে। আর আখিরাতের কথা এসেছে প্রসঙ্গক্রমে। এগুলো প্রতিষ্ঠা করাই ছিল সূরার আসল উদ্দেশ্য। দ্বিতীয় কথাটি আয়াতগুলোর অবস্থান থেকে নেওয়া শিক্ষা। একজন খাঁটি মুসলিমের কাছে স্বাভাবিকভাবেই আশা করা হয়, তিনি প্রতিটি লেখা, প্রতিটি বক্তৃতা আর প্রতিটি মজলিস শেষ করবেন আল্লাহর বড়ত্ব স্বীকার করে এবং তাঁর প্রশংসার কথা বলে।"
+          },
+          {
+            "en": "The surah's own text bears out the middle line. A refrain of peace has run through it, greeting one prophet at a time: Nuh (AS) among the worlds (37:79), then Ibrahim (AS) (37:109), Musa and Harun (AS) (37:120), and Ilyas (AS) (37:130). Here, at the close, that greeting widens to take in all the messengers at once, and the next words are praise. That reading of the refrain is the article's own, not the commentaries'.",
+            "bn": "সূরার নিজের পাঠও মাঝের আয়াতটির সাক্ষ্য দেয়। সালামের একটি ধুয়া পুরো সূরা জুড়ে ফিরে ফিরে এসেছে, একেকবার একেকজন নবীর প্রতি: বিশ্বজগতে নূহ (আঃ)-এর প্রতি সালাম (৩৭:৭৯), তারপর ইবরাহীম (আঃ)-এর প্রতি (৩৭:১০৯), মূসা ও হারূন (আঃ)-এর প্রতি (৩৭:১২০), আর ইলিয়াস (আঃ)-এর প্রতি (৩৭:১৩০)। আর এখানে, শেষ প্রান্তে এসে, সেই সালাম প্রশস্ত হয়ে সব রাসূলকে একসঙ্গে ঘিরে নেয়। তার পরের কথাটিই প্রশংসা। ধুয়াটিকে এভাবে পড়া এ লেখার নিজের পর্যবেক্ষণ, তাফসীরগুলোর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports of the Fullest Measure",
+          "bn": "পূর্ণ মাপের প্রতিদানের বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gathers reports about saying the three closing verses at the end of a sitting. Ibn Abi Hatim records from ash-Sha'bi that the Messenger of Allah ﷺ said: whoever would be pleased to have his reward measured with the fullest measure on the Day of Resurrection, let him say at the end of his gathering, when he means to rise, these three verses. In the wording quoted, ash-Sha'bi names no Companion between himself and the Prophet ﷺ. Ibn Kathir adds that it was also narrated by another, connected route that stops at 'Ali (RA).",
+            "bn": "শেষের তিনটি আয়াত মজলিসের শেষে পড়া নিয়ে ইবন কাসীর কয়েকটি বর্ণনা জড়ো করেছেন। ইবন আবী হাতিম শা'বী থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: কিয়ামতের দিন যে চায় তার প্রতিদান সবচেয়ে পূর্ণ মাপে মেপে দেওয়া হোক, সে যেন মজলিসের শেষে, ওঠার সময় এই তিনটি আয়াত পড়ে। উদ্ধৃত ভাষ্যে শা'বী নিজের ও নবী ﷺ-এর মাঝে কোনো সাহাবীর নাম বলেননি। ইবন কাসীর আরও জানান, এটি আরেকটি অবিচ্ছিন্ন সূত্রেও বর্ণিত হয়েছে, যা গিয়ে থেমেছে আলী (রাঃ)-এর কথায়।"
+          },
+          {
+            "en": "Al-Baghawi gives that report from 'Ali with a full chain of his own: whoever loves to have his reward measured with the fullest measure on the Day of Resurrection, let the last of his words in his gathering be these verses. Ma'arif al-Qur'an notes that several commentaries carry it on al-Baghawi's authority. Ibn Kathir then cites at-Tabarani, through Zayd ibn Arqam (RA), that the Prophet ﷺ said: whoever says them after every prayer three times has received the fullest measure of reward. Ibn Kathir passes no grading on any of these three.",
+            "bn": "আলী (রাঃ)-এর সেই বর্ণনা বাগাভী নিজের পূর্ণ সনদে এনেছেন: কিয়ামতের দিন যে ভালোবাসে তার প্রতিদান সবচেয়ে পূর্ণ মাপে মেপে দেওয়া হোক, মজলিসে তার শেষ কথা যেন হয় এই আয়াতগুলো। মাআরিফুল কুরআন জানায়, বেশ কয়েকটি তাফসীর বাগাভীর বরাতে এটি এনেছে। এরপর ইবন কাসীর তাবারানীর বর্ণনা আনেন, যায়দ ইবন আরকাম (রাঃ)-এর সূত্রে, নবী ﷺ বলেছেন: যে প্রতিটি নামাজের পর তিনবার এগুলো পড়ে, সে প্রতিদানের সবচেয়ে পূর্ণ মাপ পেয়ে গেল। এই তিনটি বর্ণনার কোনোটির মান সম্পর্কে ইবন কাসীর কিছু বলেননি।"
+          },
+          {
+            "en": "The one report he does grade concerns prayer. Abu Ya'la records from Abu Sa'id (RA) that at the close of his prayer the Prophet ﷺ would say these three verses and then give the salam, and Ibn Kathir's verdict is that its chain is weak. Ma'arif al-Qur'an, citing al-Qurtubi, relays from Abu Sa'id al-Khudri that he often heard the Prophet ﷺ recite these verses after the prayer, and gives it no grading. The tafsirs carry them as attributed: one called weak, the rest ungraded.",
+            "bn": "ইবন কাসীর যে একটি বর্ণনার মান বলেছেন, সেটি নামাজ নিয়ে। আবূ ইয়া'লা আবূ সাঈদ (রাঃ) থেকে বর্ণনা করেন, নামাজের শেষে নবী ﷺ এই তিনটি আয়াত পড়তেন, তারপর সালাম ফেরাতেন। ইবন কাসীরের রায়: এর সনদ দুর্বল। মাআরিফুল কুরআন কুরতুবীর বরাতে আবূ সাঈদ খুদরী (রাঃ)-এর কথা আনে যে, তিনি বহুবার নবী ﷺ-কে নামাজের পর এই আয়াতগুলো পড়তে শুনেছেন। এর মান সম্পর্কে মাআরিফুল কুরআন কিছু বলে না। তাফসীরগুলো এসব বর্ণনা এনেছে বর্ণনাকারীর নামে: একটিকে বলা হয়েছে দুর্বল, বাকিগুলোর মান বলা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words That Expiate a Sitting",
+          "bn": "মজলিসের ভুলের কাফফারা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his commentary on the surah by noting that hadiths have come on the expiation of a gathering, and that he wrote a separate treatise on them. He quotes none in full. At-Tirmidhi (3433) records one from Abu Hurayra (RA), that the Prophet ﷺ said: \"Whoever sits in a sitting and engages in much empty, meaningless speech and then says before getting up from that sitting of his: 'Glory is to You, O Allah, and praise, I bear witness that there is none worthy of worship except You, I seek Your forgiveness, and I repent to You,' whatever occurred in that sitting would be forgiven to him.\"",
+            "bn": "ইবন কাসীর সূরার তাফসীর শেষ করেন এই কথা বলে যে, মজলিসের কাফফারা নিয়ে কয়েকটি হাদীস এসেছে, আর এ বিষয়ে তিনি আলাদা একটি পুস্তিকাও লিখেছেন। তবে কোনো হাদীস তিনি পুরো উদ্ধৃত করেননি। তিরমিযী (৩৪৩৩) আবূ হুরায়রা (রাঃ) থেকে এমন একটি হাদীস বর্ণনা করেছেন। নবী ﷺ বলেছেন: \"যে কোনো মজলিসে বসল এবং সেখানে তার বেহুদা কথা বেশি হয়ে গেল, তারপর মজলিস থেকে ওঠার আগে বলল: 'হে আল্লাহ, তোমার প্রশংসাসহ তোমার পবিত্রতা ঘোষণা করছি। আমি সাক্ষ্য দিচ্ছি, তুমি ছাড়া কোনো ইলাহ নেই। তোমার কাছে ক্ষমা চাই এবং তোমার কাছে তওবা করি', তবে ওই মজলিসে তার যা কিছু হয়েছে, তা মাফ করে দেওয়া হয়।\""
+          },
+          {
+            "en": "At-Tirmidhi grades it hasan gharib sahih from this route, adding that there are reports on the subject from Abu Barza and 'A'isha. Abu Dawud (4859) records the report of Abu Barza al-Aslami (RA): towards the end, when the Prophet ﷺ meant to rise from a gathering, he would say these words. A man said he was now saying something he had not said before, and he replied: an expiation for what takes place in the assembly. Abu Dawud adds no grading of his own.",
+            "bn": "তিরমিযী হাদীসটিকে এই সূত্রে হাসান গারীব সহীহ বলেছেন। তিনি আরও বলেছেন, এ বিষয়ে আবূ বারযা ও আয়েশা (রাঃ) থেকেও বর্ণনা আছে। আবূ দাউদ (৪৮৫৯) আবূ বারযা আসলামী (রাঃ)-এর বর্ণনা এনেছেন: শেষের দিকে নবী ﷺ মজলিস থেকে ওঠার সময় এই কথাগুলো বলতেন। এক ব্যক্তি বলল, আপনি এখন এমন কথা বলছেন, যা আগে বলতেন না। তিনি জবাব দিলেন: মজলিসে যা ঘটে, এটি তার কাফফারা। আবূ দাউদ নিজে এর কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "Both narrations are general, about any gathering, and neither is attached to this verse. Their words also differ from the closing triad, though both open with glorification joined to praise, as 37:180 and this verse do; that shared order is the article's observation. No tafsir fetched for this verse attaches a sound, graded hadith to reciting the three closing verses at the end of a sitting. What carries a collector's grading is the expiation formula itself.",
+            "bn": "দুটি বর্ণনাই সাধারণ, যেকোনো মজলিস নিয়ে। কোনোটিই এ আয়াতের সঙ্গে যুক্ত নয়। এদের শব্দও শেষের তিনটি আয়াত থেকে আলাদা। তবে দুটোই শুরু হয় প্রশংসার সঙ্গে পবিত্রতা ঘোষণা দিয়ে, যেমন ৩৭:১৮০ ও এই আয়াত। ক্রমের এই মিল এ লেখার নিজের পর্যবেক্ষণ। এ আয়াতের জন্য পড়া কোনো তাফসীর মজলিসের শেষে এই তিনটি আয়াত পড়ার সঙ্গে মান নির্ধারিত কোনো সহীহ হাদীস যুক্ত করেনি। সংকলকের দেওয়া মান যার পেছনে আছে, তা হলো কাফফারার দোয়াটি নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Praise Comes Last",
+          "bn": "যেখানে প্রশংসাই শেষ কথা"
+        },
+        "p": [
+          {
+            "en": "The Qur'an sets these same words at other endings. In 10:10 the people of Paradise are described: their call there is, exalted are You, O Allah; their greeting there is, peace; and the last of their call is, praise to Allah, Lord of the worlds. Glory, peace, praise, in the order of this surah's close. In 39:75 the judgement between creation is concluded in truth, and it is said: praise to Allah, Lord of the worlds. These links are the article's own; the only such link drawn in the commentaries fetched here is al-Qurtubi's to 6:45.",
+            "bn": "কুরআন আরও কয়েকটি সমাপ্তিতে এই একই কথা রেখেছে। ১০:১০ আয়াতে জান্নাতবাসীদের বর্ণনা: সেখানে তাদের দোয়া হবে, পবিত্র তুমি হে আল্লাহ। সেখানে তাদের অভিবাদন হবে, সালাম। আর তাদের দোয়ার শেষ কথা হবে, সব প্রশংসা আল্লাহর, যিনি সৃষ্টিজগতের রব। পবিত্রতা, সালাম, প্রশংসা: এ সূরার সমাপ্তির হুবহু ক্রম। ৩৯:৭৫ আয়াতে সৃষ্টির মাঝে ন্যায়ের সঙ্গে বিচার শেষ হয়, আর বলা হয়: সব প্রশংসা আল্লাহর, যিনি সৃষ্টিজগতের রব। এই সংযোগগুলো এ লেখার নিজের। এখানে পড়া তাফসীরগুলোর মধ্যে এমন সংযোগ টেনেছেন কেবল কুরতুবী, ৬:৪৫ আয়াতের সঙ্গে।"
+          },
+          {
+            "en": "The commentators end their own work on the surah in the same key. As-Sa'di records that he finished it on 6 Shawwal 1343 AH, and signs off: praise belongs to Allah, by whose favour good deeds are completed. A reader can do the same on a smaller scale, ending a sitting, a task or a day with praise. Where the talk ran loose, the words of expiation are there as well, with a collector's grading behind them.",
+            "bn": "এই সূরার তাফসীর মুফাসসিররাও শেষ করেছেন একই সুরে। সা'দী লিখে রেখেছেন, তিনি এর তাফসীর শেষ করেছেন ১৩৪৩ হিজরির ৬ শাওয়াল। তারপর লিখেছেন: সব প্রশংসা আল্লাহর, যাঁর অনুগ্রহে সব নেক কাজ পূর্ণ হয়। পাঠকও ছোট পরিসরে একই কাজ করতে পারেন। মজলিস, কাজ কিংবা দিন শেষ করুন প্রশংসা দিয়ে। আর যেখানে কথা লাগামছাড়া হয়ে গেছে, সেখানে কাফফারার দোয়াটিও আছে, যার পেছনে আছে সংকলকের দেওয়া মান।"
+          }
+        ]
+      }
+    ]
   }
 });

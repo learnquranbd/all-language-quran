@@ -26029,6 +26029,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Speak of Allah only with what befits Him, and ask Him to make you one of His sincere servants: sincerity is His gift to guard, not a title to claim.",
     "lessonBn": "আল্লাহর ব্যাপারে কেবল তা-ই বলুন যা তাঁর মর্যাদার উপযুক্ত, আর তাঁর কাছে চান যেন তিনি আপনাকে তাঁর একনিষ্ঠ বান্দাদের একজন করেন। একনিষ্ঠতা দাবি করার পদবি নয়, তাঁর দেওয়া এক দান, যা আগলে রাখতে হয়।"
+  },
+  "37:182": {
+    "reflectionEn": "The surah has walked through Nuh, Ibrahim, Musa and Harun, Ilyas, Lut and Yunus, and through every claim people made about Allah. Now it stops on three short lines. Exalted is your Lord above what they describe. Peace upon the messengers. And praise belongs to Allah, Lord of the worlds. The last word is not a threat or a verdict. It is praise. Whatever the stories held, rescue or ruin, argument or patience, they close on the One to whom thanks for all of it is due. Most of my days close differently: on a screen, a complaint, a list of what went wrong. What would change if my last words in a room, or in a day, were words of praise?",
+    "reflectionBn": "এই সূরা একে একে নূহ, ইবরাহীম, মূসা ও হারূন, ইলিয়াস, লূত আর ইউনুসের কাহিনি পার হয়ে এসেছে। আল্লাহর ব্যাপারে মানুষের যত দাবি, সেগুলোরও জবাব দিয়েছে। এবার সে থামে তিনটি ছোট্ট বাক্যে। তারা যা বলে, তা থেকে তোমার রব পবিত্র। রাসূলদের প্রতি সালাম। আর সব প্রশংসা আল্লাহর, যিনি সৃষ্টিজগতের রব। শেষ কথাটা হুমকি নয়, রায়ও নয়। শেষ কথাটা প্রশংসা। কাহিনিগুলোতে উদ্ধার ছিল, ধ্বংসও ছিল। তর্ক ছিল, সবরও ছিল। তবু সবকিছু গিয়ে থামে তাঁর কাছে, যিনি এর সবকিছুর জন্য শুকরিয়ার হকদার। আমার দিনগুলো কিন্তু অন্যভাবে শেষ হয়। ফোনের পর্দায়, কোনো অভিযোগে, কী কী ভুল হলো তার হিসাবে। কোনো মজলিস থেকে ওঠার সময়, কিংবা দিনের শেষে, আমার শেষ কথাগুলো যদি প্রশংসার কথা হতো, তাহলে কী বদলাত?",
+    "pointsEn": [
+      "When I get up to leave a gathering, what are usually my last words, and would I be glad to have them written down as my record?",
+      "Beyond the obvious, which three things from today can I name for which praise belongs to Allah alone?",
+      "Do I praise Allah only when things go my way, or also when a chapter of my life closes in a way I did not choose?",
+      "When I declare Allah free of what is false, do I go on to affirm what is true of Him, or does my faith stop at denial?",
+      "Which conversation this week drifted into idle talk, and how will I close the next one differently?"
+    ],
+    "pointsBn": [
+      "কোনো মজলিস ছেড়ে ওঠার সময় সাধারণত আমার শেষ কথা কী থাকে? সেগুলো যদি আমার আমলনামায় লেখা হয়ে যায়, আমি কি খুশি হব?",
+      "চোখের সামনের নিয়ামতগুলো বাদ দিয়ে আজকের এমন তিনটি জিনিসের নাম কি বলতে পারি, যার প্রশংসা কেবল আল্লাহরই প্রাপ্য?",
+      "আমি কি শুধু তখনই আল্লাহর প্রশংসা করি যখন সব আমার মনমতো হয়? নাকি জীবনের কোনো অধ্যায় আমার অপছন্দের পথে শেষ হলেও করি?",
+      "আল্লাহকে মিথ্যা ধারণা থেকে পবিত্র ঘোষণা করার পর তাঁর সম্পর্কে যা সত্য, তা কি আমি স্বীকার করি? নাকি আমার ঈমান শুধু অস্বীকারেই থেমে থাকে?",
+      "এ সপ্তাহে কোন আলাপটা বেহুদা কথায় গড়িয়ে গিয়েছিল? পরের আলাপটা আমি কীভাবে অন্যভাবে শেষ করব?"
+    ],
+    "lessonEn": "Close your gatherings, your work and your days with praise of Allah, Lord of the worlds, for every blessing in them came from Him alone.",
+    "lessonBn": "আপনার মজলিস, কাজ আর দিনের ইতি টানুন সৃষ্টিজগতের রব আল্লাহর প্রশংসা দিয়ে, কারণ এগুলোর প্রতিটি নিয়ামত এসেছে কেবল তাঁরই কাছ থেকে।"
   }
 };
 
