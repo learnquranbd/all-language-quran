@@ -27609,6 +27609,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Everything belongs to Allah, who repays evil only by its measure and good with the best; be fair, do good generously, and leave your reward with Him.",
     "lessonBn": "সবকিছু আল্লাহর। মন্দের প্রতিফল তিনি দেন তার মাপেই, আর ভালোর প্রতিফল দেন সবচেয়ে উত্তমটা দিয়ে। তাই ন্যায্য থাকুন, উদার হাতে ভালো করুন, আর প্রতিদান তাঁর কাছেই রেখে দিন।"
+  },
+  "53:2": {
+    "reflectionEn": "The surah swears by the star when it descends, and the first thing the oath settles is a statement about a man: your companion has not strayed, nor has he erred. Two different failures are denied here. One goes wrong because it never knew the way; the other knows the way and turns from it on purpose. Neither touched him. And the listeners are not told about a stranger. He is their companion, a man whose truthfulness they had watched for years, so the verse sends them back to their own memory of him. It sends me somewhere too. When I go wrong, is it because I never learned, or because I learned and looked away? Each has its own cure.",
+    "reflectionBn": "সূরাটি শপথ করে অস্তগামী তারকার, আর সেই শপথ প্রথমেই যে কথাটি পাকা করে তা একজন মানুষকে নিয়ে: তোমাদের সঙ্গী পথ হারায়নি, বিপথেও যায়নি। এখানে দুই রকম ব্যর্থতা নাকচ করা হয়েছে। একজন ভুল করে, কারণ সে পথটাই চেনে না। আরেকজন পথ চেনে, তবু জেনেশুনে মুখ ফিরিয়ে নেয়। এর কোনোটিই তাঁকে ছোঁয়নি। শ্রোতাদের কাছে কোনো অচেনা লোকের কথা বলা হচ্ছে না। তিনি তাদেরই সঙ্গী, বছরের পর বছর যাঁর সত্যবাদিতা তারা নিজের চোখে দেখেছে। আয়াতটি তাই তাদের ফিরিয়ে দেয় তাদের নিজেদের স্মৃতির কাছে। আমাকেও কোথাও ফিরিয়ে দেয়। আমি যখন ভুল পথে যাই, তা কি না জানার কারণে, নাকি জেনেও চোখ ফিরিয়ে নেওয়ার কারণে? দুটোর চিকিৎসা আলাদা।",
+    "pointsEn": [
+      "The last time I went wrong in my religion, was it a gap in what I knew, or a choice against what I knew?",
+      "What do I already know to be right that I am still walking away from?",
+      "Which question about my faith have I left unasked, because the answer might oblige me to change?",
+      "When I hear a charge against someone I have known well for years, do I let what I have seen of them speak first?",
+      "If the people who live closest to me were asked about my honesty, what would they say?"
+    ],
+    "pointsBn": [
+      "দীনের ব্যাপারে শেষবার যখন ভুল পথে গেছি, তা কি আমার জানার ঘাটতি ছিল, নাকি জানা কথার বিরুদ্ধে নিজের বেছে নেওয়া?",
+      "কোন জিনিসটা সঠিক বলে আমি আগে থেকেই জানি, অথচ এখনো তা থেকে দূরে সরে যাচ্ছি?",
+      "ঈমানের কোন প্রশ্নটা আমি এখনো কাউকে করিনি, কারণ উত্তর পেলে হয়তো নিজেকে বদলাতে হবে?",
+      "বহু বছর ধরে যাকে কাছ থেকে চিনি, তার বিরুদ্ধে কোনো অভিযোগ শুনলে আমি কি আগে নিজের দেখা অভিজ্ঞতাকে কথা বলতে দিই?",
+      "আমার সবচেয়ে কাছের মানুষদের যদি আমার সততা নিয়ে জিজ্ঞেস করা হয়, তারা কী বলবে?"
+    ],
+    "lessonEn": "He was free of both failures, not knowing the way and leaving it knowingly; guard yourself against both, by learning what is right and by following what you have learned.",
+    "lessonBn": "তিনি দুই ব্যর্থতা থেকেই মুক্ত ছিলেন: পথ না চেনা, আর চিনেও জেনেশুনে ছেড়ে যাওয়া। আপনিও দুটো থেকেই নিজেকে বাঁচান। যা সঠিক তা শিখুন, আর যা শিখেছেন তা মেনে চলুন।"
   }
 };
 

@@ -11,6 +11,158 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "53:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "What the Star Was Sworn For",
+          "bn": "তারকার শপথ কিসের জন্য"
+        },
+        "p": [
+          {
+            "en": "Ma dalla sahibukum wa-ma ghawa: your companion has not strayed, nor has he erred. The verse is five Arabic words, two verbs each turned back by a negative ma. The surah opened with an oath by the star when it descends (53:1), and this is what the oath was sworn for. At-Tabari says so in a closing clause: ma dalla sahibukum is the answer to the oath wa-n-najm. Al-Qurtubi and al-Baghawi call it the answer to the oath in nearly the same words.",
+            "bn": "মা দাল্লা সাহিবুকুম ওয়ামা গাওয়া: তোমাদের সঙ্গী পথ হারাননি, বিপথেও যাননি। আরবিতে আয়াতটি পাঁচ শব্দের। দুটি ক্রিয়া, আর প্রতিটির আগে না-বোধক 'মা'। সূরা শুরু হয়েছিল অস্ত যাওয়া তারকার শপথ দিয়ে (৫৩:১)। সেই শপথ যে কথার জন্য, তা এই আয়াত। তাবারী তাঁর আলোচনার শেষ বাক্যে কথাটা বলে দেন: মা দাল্লা সাহিবুকুম হলো ওয়ান-নাজম শপথের জবাব। কুরতুবী আর বাগাভীও প্রায় একই ভাষায় একে শপথের জবাব বলেন।"
+          },
+          {
+            "en": "Ibn Kathir calls it al-muqsam 'alayh, the thing sworn to, and says what it amounts to: a testimony for the Messenger ﷺ that he is righteous, rightly guided and following the truth. Ma'arif al-Qur'an puts the same structure plainly: the first verse is the oath, the second is what the oath is sworn for. The oath ends, then, not in a claim about the sky but about a person, and the following verses (53:3, 53:4) carry that claim on to his speech and its source.",
+            "bn": "ইবন কাসীর অন্য পরিভাষাটি ব্যবহার করেন: আল-মুকসাম আলাইহি, যে বিষয়ের উপর শপথ করা হয়েছে। তিনি এর অর্থও বলে দেন। এটি রাসূল ﷺ-এর পক্ষে এক সাক্ষ্য যে তিনি সৎ, সঠিক পথে চলা মানুষ, সত্যের অনুসারী। মাআরিফুল কুরআন গড়নটা সোজাসুজি বলে: প্রথম আয়াত শপথ, দ্বিতীয় আয়াত শপথের বিষয়। তাহলে শপথটি আকাশ নিয়ে কোনো দাবিতে গিয়ে থামে না। থামে একজন মানুষকে নিয়ে দাবিতে। পরের আয়াতগুলো (৫৩:৩, ৫৩:৪) সেই দাবিকে নিয়ে যায় তাঁর কথা আর সে কথার উৎসের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Knowing, or Knowing and Leaving",
+          "bn": "না জানা, আর জেনেও ছেড়ে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "Why two verbs, if both mean going wrong? Ibn Kathir answers by defining each. The dall, the one who strays, is the ignorant man who walks a road other than the right one, without knowledge. The ghawi, the one who errs, is the man who knows the truth and turns away from it deliberately, towards something else. One fails for want of knowledge, the other in spite of it. The verse denies both of the Prophet ﷺ, so neither kind of failure is left open.",
+            "bn": "দুটি ক্রিয়াই যদি ভুল পথে যাওয়া বোঝায়, তবে দুটি কেন? ইবন কাসীর প্রতিটির সংজ্ঞা দিয়ে উত্তর দেন। 'দাল্ল', অর্থাৎ যে পথ হারায়, সে অজ্ঞ মানুষ। না জেনে সে সঠিক পথ ছেড়ে অন্য পথে হাঁটে। 'গাভী', অর্থাৎ যে বিপথে যায়, সে সত্য জানে, তবু ইচ্ছা করে তা থেকে মুখ ফিরিয়ে অন্য কিছুর দিকে যায়। একজনের ব্যর্থতা জ্ঞানের অভাবে, অন্যজনের জ্ঞান থাকা সত্ত্বেও। আয়াতটি নবী ﷺ-এর ক্ষেত্রে দুটোকেই নাকচ করে। ফলে কোনো রকম ব্যর্থতার জায়গাই আর খোলা থাকে না।"
+          },
+          {
+            "en": "As-Sa'di draws the same line in fewer words: the verse clears the Messenger ﷺ of dalal in his knowledge and of ghayy in his intention. What follows, he says, is that the Prophet ﷺ is rightly guided in what he knows and a guide to others, sound in his intention and sincere in his counsel to the community. That, he says, is the reverse of the people of misguidance, whose knowledge is corrupt and whose intention is corrupt. Knowledge and intention are the two places a person can fail.",
+            "bn": "সা'দী একই পার্থক্য টানেন আরও কম কথায়। তাঁর মতে আয়াতটি রাসূল ﷺ-কে মুক্ত ঘোষণা করে জ্ঞানের ক্ষেত্রে 'দালাল' থেকে, আর উদ্দেশ্যের ক্ষেত্রে 'গাই' থেকে। তারপর তিনি এর ফল বলেন। নবী ﷺ নিজের জ্ঞানে হিদায়াতপ্রাপ্ত, অন্যদের জন্যও পথপ্রদর্শক। তাঁর নিয়ত ভালো, আর উম্মাহর প্রতি তিনি আন্তরিক কল্যাণকামী। সা'দী বলেন, এটা গোমরাহ লোকদের ঠিক উল্টো, যাদের জ্ঞানও নষ্ট, নিয়তও নষ্ট। মানুষ ব্যর্থ হতে পারে দুই জায়গায়: জ্ঞানে আর নিয়তে।"
+          },
+          {
+            "en": "Ibn Kathir gives each failure a face. Allah, he says, cleared His Messenger and his law of resembling those who go astray without knowledge, and of knowing a thing, concealing it and acting against it. What he sets against both is positive: the Prophet ﷺ and the law he brought are at the utmost of uprightness, balance and soundness. The Muyassar uses exactly that phrase in its paraphrase.",
+            "bn": "ইবন কাসীর দুই ব্যর্থতার দুটো চেহারাও দেখান। তিনি বলেন, আল্লাহ তাঁর রাসূল ও তাঁর শরীয়তকে মুক্ত রেখেছেন না জেনে পথ হারানো লোকদের সঙ্গে সাদৃশ্য থেকে, আর কোনো বিষয় জেনে তা লুকিয়ে রেখে তার উল্টো কাজ করা থেকেও। দুটোর বিপরীতে তিনি যা রাখেন তা ইতিবাচক। নবী ﷺ আর তাঁর আনা শরীয়ত সরলতা, ভারসাম্য আর যথার্থতার চূড়ায়। মুয়াসসারের সারকথাতেও হুবহু এই কথাটি আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ghayy Against Rushd",
+          "bn": "গাই আর রুশদ মুখোমুখি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses each verb by what it denies and what it leaves in place. Ma dalla: your companion, O people, has not swerved from the truth or slipped away from it; he is upright and sound. Wa-ma ghawa: he has not become a man of ghayy; he is rashid and sadid, rightly directed and on target. He then separates two verbs that look alike. Ghawa, yaghwi comes from al-ghayy, and its doer is ghawin. Ghawiya, yaghwa, with a different vowel, is said of being surfeited with milk.",
+            "bn": "তাবারী প্রতিটি ক্রিয়ার ব্যাখ্যা দেন দুই দিক থেকে: সে কী নাকচ করে, আর কী রেখে দেয়। মা দাল্লা মানে, হে লোকেরা, তোমাদের সঙ্গী সত্য থেকে সরে যাননি, তা থেকে বিচ্যুতও হননি। তিনি সোজা পথে, ঠিক জায়গায় আছেন। ওয়ামা গাওয়া মানে, তিনি গাই-এর লোক হয়ে যাননি। তিনি রাশীদ ও সাদীদ, অর্থাৎ সঠিক দিশায় চলা, লক্ষ্যভেদী। এরপর তিনি দেখতে প্রায় এক রকম দুটি ক্রিয়াকে আলাদা করেন। গাওয়া ইয়াগভী এসেছে 'আল-গাই' থেকে, আর যে এটা করে সে 'গাভিন'। ভিন্ন স্বরচিহ্নে গাভিয়া ইয়াগওয়া বলা হয় দুধ খেয়ে পেট ভারী হয়ে যাওয়াকে।"
+          },
+          {
+            "en": "So the verb in this verse is the one from ghayy, and al-Qurtubi defines that noun by its opposite: al-ghayy is the opposite of ar-rushd, and ma ghawa means he did not become ghawi. The pairing is the Qur'an's own. In 2:256 the same two nouns stand side by side: qad tabayyana r-rushdu mina l-ghayy, the right course has become distinct from the wrong. At-Tabari's rashid and al-Qurtubi's rushd describe the Prophet ﷺ by the very quality that ghayy lacks.",
+            "bn": "তাহলে এ আয়াতের ক্রিয়াটি এসেছে 'গাই' থেকে। কুরতুবী শব্দটির সংজ্ঞা দেন তার বিপরীত দিয়ে: গাই হলো রুশদের উল্টো। আর মা গাওয়া মানে তিনি গাভী হয়ে যাননি। এই জোড়া কুরআনেরই। ২:২৫৬ আয়াতে একই দুটি শব্দ পাশাপাশি এসেছে: কাদ তাবাইয়ানার রুশদু মিনাল গাই, সঠিক পথ ভুল পথ থেকে আলাদা হয়ে স্পষ্ট হয়ে গেছে। তাবারীর 'রাশীদ' আর কুরতুবীর 'রুশদ' নবী ﷺ-এর পরিচয় দেয় ঠিক সেই গুণ দিয়ে, যা গাই-এর মধ্যে নেই।"
+          },
+          {
+            "en": "Al-Qurtubi adds two further readings, each introduced with wa-qila, and it was said, without a name. In one, ma ghawa means he did not speak falsehood. In the other, ghayy means khaybah, failure, so the verse says he was not disappointed in what he sought. For that sense he quotes a line of poetry: whoever meets with good, people praise his affair, and whoever fails will not lack someone to blame him for failing. He gives his own gloss first and reports the other two without weighing them; this article does not weigh them either.",
+            "bn": "কুরতুবী আরও দুটি ব্যাখ্যা আনেন, প্রতিটি 'ওয়া কীলা', অর্থাৎ 'বলা হয়েছে' দিয়ে, কারও নাম না নিয়ে। একটিতে মা গাওয়া মানে তিনি বাতিল কথা বলেননি। অন্যটিতে গাই মানে খাইবা, ব্যর্থতা। তখন আয়াতের অর্থ দাঁড়ায়, তিনি যা চেয়েছেন তাতে ব্যর্থ হননি। এ অর্থের পক্ষে তিনি একটি কবিতার চরণ উদ্ধৃত করেন: যে ভালো কিছু পায়, লোকে তার কাজের প্রশংসা করে। আর যে ব্যর্থ হয়, তার ব্যর্থতার জন্য দোষ দেওয়ার লোকের অভাব হয় না। কুরতুবী নিজের ব্যাখ্যা আগে দেন, বাকি দুটি শুধু উল্লেখ করেন, পাল্লায় তোলেন না। এ লেখাও তোলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Always, Not Only Afterwards",
+          "bn": "শুধু পরে নয়, সবসময়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi raises a question of time that the others read here do not. The verse, he says, may be a report about the Prophet ﷺ after revelation came to him. Or it may be a report about all of his states in general, meaning that he was always a believer in the oneness of Allah, muwahhid. He then gives his judgement between the two: the second is the sound view. The denial, on his reading, is not limited to the years of prophethood but covers the whole of the life.",
+            "bn": "কুরতুবী এখানে সময় নিয়ে একটি প্রশ্ন তোলেন, এখানে পড়া অন্য তাফসীরগুলো যা তোলে না। তিনি বলেন, আয়াতটি হতে পারে ওহি আসার পরের সময়ের খবর। আবার হতে পারে তাঁর সব অবস্থা নিয়ে সাধারণ খবর, অর্থাৎ তিনি সবসময়ই আল্লাহর একত্বে বিশ্বাসী, মুওয়াহহিদ ছিলেন। তারপর দুটির মধ্যে তিনি রায় দেন: দ্বিতীয়টিই সঠিক মত। তাঁর ব্যাখ্যায় এ অস্বীকার শুধু নবুওয়াতের বছরগুলোতে সীমিত নয়, পুরো জীবনকেই ঘিরে রাখে।"
+          },
+          {
+            "en": "He points the reader back to his own discussion of 42:52, quoting its words: ma kunta tadri ma l-kitabu wa-la l-iman, you did not know what the Book was, nor faith. How he reads that verse is set out there, and that discussion was not read for this article, so nothing from it is reported here beyond his conclusion on 53:2. In his judgement, then, there was no time, before revelation or after it, when the Prophet ﷺ was not a monotheist.",
+            "bn": "তিনি পাঠককে ফিরিয়ে দেন ৪২:৫২ আয়াতে তাঁর নিজের আলোচনার দিকে, আর সে আয়াতের কথাগুলো উদ্ধৃত করেন: মা কুনতা তাদরী মাল কিতাবু ওয়ালাল ঈমান, তুমি জানতে না কিতাব কী, ঈমানও না। সে আয়াত তিনি কীভাবে বোঝেন, তা সেখানেই বলা আছে। সেই আলোচনা এ লেখার জন্য পড়া হয়নি। তাই ৫৩:২ নিয়ে তাঁর সিদ্ধান্তটুকুর বাইরে সেখান থেকে কিছু এখানে আনা হলো না। তাঁর সিদ্ধান্তের অর্থ অবশ্য পরিষ্কার। কুরতুবীর বিচারে ওহির আগে হোক বা পরে, এমন কোনো সময় ছিল না যখন নবী ﷺ তাওহীদে বিশ্বাসী ছিলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Companion, Not a Stranger",
+          "bn": "অচেনা কেউ নন, তাদেরই সঙ্গী"
+        },
+        "p": [
+          {
+            "en": "The verse does not say Muhammad, or the Messenger. It says sahibukum, your companion, and two of the commentators read here stop on the word. As-Sa'di says Allah called him your companion to alert them to what they already knew of him, his truthfulness and his guidance, and to remind them that his affair was not hidden from them. On that reading the noun itself is an argument, sending the listeners back to their own long acquaintance with the man.",
+            "bn": "আয়াতটি 'মুহাম্মাদ' বলে না, 'রাসূল'ও বলে না। বলে সাহিবুকুম, তোমাদের সঙ্গী। এখানে পড়া দুটি তাফসীর শব্দটিতে এসে থামে। সা'দী বলেন, আল্লাহ তাঁকে 'তোমাদের সঙ্গী' বলেছেন, যাতে তাঁর সম্পর্কে তারা যা আগে থেকেই জানে, তাঁর সত্যবাদিতা আর সঠিক পথে চলা, সেদিকে তাদের মনোযোগ যায়। আর মনে পড়ে যে তাঁর জীবন তাদের কাছে লুকানো কিছু নয়। এ ব্যাখ্যায় শব্দটিই একটা যুক্তি। শ্রোতাদের ফিরিয়ে দেওয়া হয় মানুষটির সঙ্গে তাদের নিজেদের দীর্ঘ পরিচয়ের কাছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an hears a quiet rebuke in it. He was no outsider to them, it says: born among them, a child among them, a young man among them, with a whole lifetime spent in their company, and they had called him al-Amin, the Honest One. Only after he claimed prophethood did they accuse him of forging lies against Allah. Ma'arif then asks how a man who had kept himself from lying about people could forge lies against Allah, and calls their attitude inconsistent.",
+            "bn": "মাআরিফুল কুরআন এখানে একটা নরম তিরস্কার শুনতে পায়। সেখানে বলা হয়েছে, তিনি তাদের কাছে বাইরের কেউ ছিলেন না। তাদের মাঝেই জন্ম, তাদের মাঝেই শৈশব, তাদের মাঝেই যৌবন। গোটা জীবন কেটেছে তাদের সঙ্গে। তারা নিজেরাই তাঁকে ডাকত আল-আমীন, সৎ মানুষ। নবুওয়াতের দাবি করার পরেই কেবল তারা তাঁর বিরুদ্ধে আল্লাহর নামে মিথ্যা রচনার অভিযোগ আনল। মাআরিফ প্রশ্ন করে, যে মানুষ মানুষের ব্যাপারেও মিথ্যা বলা থেকে নিজেকে দূরে রেখেছেন, তিনি আল্লাহর নামে মিথ্যা বানাবেন কী করে? তাদের এ আচরণকে সেখানে স্ববিরোধী বলা হয়েছে।"
+          },
+          {
+            "en": "The Qur'an uses the same word in other answers to the same charge. And your companion is not mad (81:22). There is no madness in your companion (34:46), and in their companion (7:184), each time after a call to think. In 10:16 the Prophet ﷺ is told to argue from the very fact the word recalls: I had remained among you a lifetime before it; will you not reason? Setting these verses beside 53:2 is this article's own reading, not the commentators'.",
+            "bn": "একই অভিযোগের অন্য জবাবেও কুরআন এই শব্দটিই ব্যবহার করে। তোমাদের সঙ্গী পাগল নন (৮১:২২)। তোমাদের সঙ্গীর মধ্যে কোনো উন্মাদনা নেই (৩৪:৪৬), তাদের সঙ্গীর মধ্যেও নেই (৭:১৮৪), আর দুবারই তার আগে চিন্তা করার আহ্বান। ১০:১৬ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে ঠিক সেই সত্যটি দিয়ে যুক্তি দিতে, শব্দটি যার কথা মনে করিয়ে দেয়: এর আগে আমি তো তোমাদের মাঝে জীবনের দীর্ঘ সময় কাটিয়েছি, তবু কি তোমরা বুঝবে না? এ আয়াতগুলোকে ৫৩:২-এর পাশে রাখা এ লেখার নিজের পাঠ, তাফসীরকারদের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Said at as-Safa",
+          "bn": "সাফা পাহাড়ে তারা যা বলেছিল"
+        },
+        "p": [
+          {
+            "en": "No tafsir read for this verse attaches a hadith to 53:2 itself; Ibn Kathir's narrations here belong to the following verses and to the surah as a whole. One report in al-Bukhari, not attached to this verse, records the Quraysh's own testimony about their companion. In Sahih al-Bukhari (4770), Ibn 'Abbas narrates that when the verse and warn your tribe of near kindred (26:214) was revealed, the Prophet ﷺ climbed as-Safa and called out to the clans of Quraysh until they gathered.",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীর ৫৩:২-এর সঙ্গে সরাসরি কোনো হাদিস জুড়ে দেয়নি। এখানে ইবন কাসীরের বর্ণনাগুলো পরের আয়াতগুলোর আর পুরো সূরার। বুখারীর একটি বর্ণনা এ আয়াতের সঙ্গে জোড়া নয়, তবে তাতে কুরাইশরা নিজেরাই তাদের সঙ্গীর ব্যাপারে সাক্ষ্য দিয়েছে। সহীহ বুখারীতে (৪৭৭০) ইবন আব্বাস (রাঃ) বলেন, যখন নাজিল হলো 'আর তোমার নিকটাত্মীয়দের সতর্ক করো' (২৬:২১৪), নবী ﷺ সাফা পাহাড়ে উঠে কুরাইশের গোত্রগুলোকে ডাকতে লাগলেন, যতক্ষণ না তারা জড়ো হলো।"
+          },
+          {
+            "en": "In the report's translation on the page checked, he said: \"Suppose I told you that there is an (enemy) cavalry in the valley intending to attack you, would you believe me?\" They said, \"Yes, for we have not found you telling anything other than the truth.\" He then said, \"I am a warner to you in face of a terrific punishment.\" The report goes on to Abu Lahab's reply and the revelation of surah 111. The page shows no grading beyond its place in al-Bukhari's Sahih.",
+            "bn": "যে পৃষ্ঠাটি মিলিয়ে দেখা হয়েছে, সেখানকার ভাষ্যে তিনি বললেন: আমি যদি তোমাদের বলি, উপত্যকায় একদল অশ্বারোহী তোমাদের উপর হামলা করতে চায়, তোমরা কি আমাকে বিশ্বাস করবে? তারা বলল: হ্যাঁ, আমরা তো তোমার কাছ থেকে সত্য ছাড়া কিছু পাইনি। তখন তিনি বললেন: তাহলে আমি তোমাদের জন্য এক কঠিন শাস্তির আগে সতর্ককারী। বর্ণনাটি এরপর আবু লাহাবের জবাব আর সূরা ১১১ নাজিল হওয়ার কথায় যায়। বুখারীর সহীহ গ্রন্থে স্থান পাওয়ার বাইরে পৃষ্ঠাটিতে আলাদা কোনো মান উল্লেখ নেই।"
+          },
+          {
+            "en": "The link to our verse is this article's, not a commentator's. The report shows the same people giving, before they had heard his warning, the testimony that the word sahibukum later calls back. A detail ties it further to the Qur'an's own wording. His sentence in Arabic, nadhirun lakum bayna yaday 'adhabin shadid, is word for word the close of 34:46, the verse that also says there is no madness in your companion. What they had once affirmed, the verse asks them to remember.",
+            "bn": "এ আয়াতের সঙ্গে বর্ণনাটির যোগসূত্র এ লেখার নিজের টানা, কোনো তাফসীরকারের নয়। বর্ণনাটি দেখায়, তাঁর সতর্কবাণী শোনার আগেই এই লোকেরা সেই সাক্ষ্য দিয়েছিল, পরে 'সাহিবুকুম' শব্দটি যা মনে করিয়ে দেয়। আরেকটি খুঁটিনাটি একে কুরআনের ভাষার সঙ্গে আরও কাছে বাঁধে। আরবিতে তাঁর বাক্যটি, নাযীরুন লাকুম বাইনা ইয়াদাই আযাবিন শাদীদ, হুবহু ৩৪:৪৬ আয়াতের শেষাংশ। সেই আয়াতেই বলা হয়েছে, তোমাদের সঙ্গীর মধ্যে কোনো উন্মাদনা নেই। একদিন তারা নিজেরাই যা স্বীকার করেছিল, আয়াতটি তাদের সেটাই মনে করতে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Those Who Denied",
+          "bn": "যারা অস্বীকার করেছিল, তাদের উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "The kum in sahibukum, your, has a first audience. At-Tabari spells it out in his gloss, ayyuha n-nas, O people, and Ma'arif al-Qur'an names them as the pagans of Makkah, who knew the Prophet ﷺ all his life and accused him once he claimed prophethood. The verse answers their charge. It describes what it describes, a people in Makkah who denied a man they knew, and it licenses nothing against any living person or community, nor any label for anyone today.",
+            "bn": "সাহিবুকুম শব্দের 'কুম', অর্থাৎ 'তোমাদের', এর প্রথম শ্রোতা আছে। তাবারী তাঁর ব্যাখ্যায় তা খুলে বলেন: আইয়ুহান নাস, হে লোকেরা। মাআরিফুল কুরআন তাদের পরিচয় দেয় মক্কার মুশরিক হিসেবে, যারা সারা জীবন নবী ﷺ-কে চিনত, আর তিনি নবুওয়াতের দাবি করতেই অভিযোগ আনল। আয়াতটি তাদের অভিযোগের জবাব দেয়। আয়াত যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে: মক্কার একদল লোক, যারা নিজেদের চেনা মানুষকে অস্বীকার করেছিল। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না, কাউকে কোনো তকমা দেওয়ারও না।"
+          },
+          {
+            "en": "The same holds for Ibn Kathir's illustration in the second section. It reports how he pictured two failures, not knowing and knowing then turning away, and this article quotes it as his. It is not a verdict on any person or community living now, and none is drawn from it here. The same is true of Abu Lahab in the Bukhari report: he is named by the Qur'an itself in surah 111, and the report is given here for the testimony of the gathering, not to judge anyone.",
+            "bn": "দ্বিতীয় অংশে ইবন কাসীরের দৃষ্টান্তের বেলাতেও একই কথা। দুই ব্যর্থতাকে, না জানা আর জেনেও মুখ ফেরানো, তিনি কীভাবে দেখেছেন, দৃষ্টান্তটি তা-ই জানায়। এ লেখা সেটি তাঁর কথা হিসেবেই উদ্ধৃত করেছে। আজকের কোনো ব্যক্তি বা জনগোষ্ঠী সম্পর্কে এটি কোনো রায় নয়, আর এখানে তা থেকে কোনো রায় টানাও হয়নি। বুখারীর বর্ণনায় আবু লাহাবের প্রসঙ্গেও তাই। তাঁর নাম কুরআন নিজেই নিয়েছে সূরা ১১১-তে। বর্ণনাটি এখানে আনা হয়েছে সমবেত লোকদের সাক্ষ্যের জন্য, কাউকে বিচার করার জন্য নয়।"
+          },
+          {
+            "en": "A further point, in plain words. The verse is a testimony from Allah for His Messenger ﷺ, and it denies straying and error outright. Nothing in it hints that he ever strayed or erred, and none of the commentators read here takes it so; al-Qurtubi, as shown above, judges the denial to cover every stage of his life. This article reads it the same way: it clears him, and it says nothing against him.",
+            "bn": "আরেকটি কথা সোজাসুজি বলা দরকার। আয়াতটি আল্লাহর পক্ষ থেকে তাঁর রাসূল ﷺ-এর পক্ষে সাক্ষ্য। পথ হারানো আর বিপথে যাওয়া, দুটোকেই তা সরাসরি নাকচ করে। এতে এমন কোনো ইঙ্গিত নেই যে তিনি কখনো পথ হারিয়েছিলেন বা বিপথে গিয়েছিলেন। এখানে পড়া কোনো তাফসীরকারও আয়াতটিকে সেভাবে বোঝেননি। আগেই দেখা গেছে, কুরতুবীর বিচারে এ অস্বীকার তাঁর জীবনের প্রতিটি পর্বকে ঘিরে রাখে। এ লেখাও আয়াতটিকে সেভাবেই পড়ে: আয়াতটি তাঁকে নির্দোষ ঘোষণা করে, তাঁর বিরুদ্ধে কিছুই বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Failures, Two Remedies",
+          "bn": "দুই ব্যর্থতা, দুই প্রতিকার"
+        },
+        "p": [
+          {
+            "en": "The verse describes the Prophet ﷺ, but as-Sa'di's pair, knowledge and intention, lets any reader examine their own wrong turns. Some come from not knowing: a ruling never learned, a question never asked, a guess taken for a fact. The remedy for those is study and the humility to ask. Others come from knowing and turning away: the prayer known to be due and delayed, the debt remembered and left unpaid. No amount of information cures that kind.",
+            "bn": "আয়াতটি নবী ﷺ-এর বর্ণনা। তবু সা'দীর জোড়া, জ্ঞান আর নিয়ত, প্রত্যেক পাঠকের হাতে নিজের ভুল পথগুলো যাচাই করার একটা উপায় তুলে দেয়। কিছু ভুল আসে না জানা থেকে: যে বিধান কখনো শেখা হয়নি, যে প্রশ্ন কখনো করা হয়নি, যে অনুমানকে সত্য বলে ধরে নেওয়া হয়েছে। এর প্রতিকার শেখা, আর জিজ্ঞেস করার বিনয়। কিছু ভুল আসে জেনেও মুখ ফেরানো থেকে: জানি নামাযের সময় হয়েছে, তবু পিছিয়ে দিই। ঋণের কথা মনে আছে, তবু শোধ করি না। শুধু তথ্য বাড়িয়ে এ রোগ সারে না।"
+          },
+          {
+            "en": "For the second kind the remedy is in the intention: honesty with oneself about why the known thing is being avoided, and a small act today in its direction. The verse's other word carries a lesson too. The Quraysh were sent back to what they had seen of their companion over a lifetime. Each of us also lives in view of companions, and what they have watched over years says more about our truthfulness than anything we claim. A question to carry: which of my failures is ignorance, and which is a choice?",
+            "bn": "দ্বিতীয় ধরনের প্রতিকার নিয়তে। জানা কাজটা কেন এড়িয়ে যাচ্ছি, সে ব্যাপারে নিজের কাছে সৎ থাকা, আর আজই সেদিকে ছোট একটা পদক্ষেপ নেওয়া। আয়াতের অন্য শব্দটিও একটা শিক্ষা দেয়। কুরাইশদের ফিরিয়ে দেওয়া হয়েছিল তাদের সঙ্গী সম্পর্কে সারা জীবনের দেখা অভিজ্ঞতার কাছে। আমরাও প্রত্যেকে সঙ্গীদের চোখের সামনে বাস করি। বছরের পর বছর তারা যা দেখেছে, আমাদের সত্যবাদিতা নিয়ে তা আমাদের যেকোনো দাবির চেয়ে বেশি কথা বলে। মনে রাখার মতো একটি প্রশ্ন: আমার কোন ব্যর্থতা অজ্ঞতা, আর কোনটা নিজের বেছে নেওয়া?"
+          }
+        ]
+      }
+    ]
+  },
   "53:4": {
     "sections": [
       {
