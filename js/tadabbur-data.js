@@ -26209,6 +26209,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep your worship for Allah alone, unmixed with any wish for others' praise, and leave to Him the judgment on what people differ over.",
     "lessonBn": "আপনার ইবাদত কেবল আল্লাহর জন্য রাখুন, অন্যের প্রশংসা পাওয়ার ইচ্ছা তাতে মিশতে দেবেন না। আর মানুষের মতভেদের ফয়সালা তাঁর হাতেই ছেড়ে দিন।"
+  },
+  "38:82": {
+    "reflectionEn": "He has only just been granted time, and he spends his first words on a threat: by Your might, I will surely mislead them all. Even in defiance he swears by a might that is not his. He has none of his own to swear by. In the very next breath he admits where his reach ends: at the sincere servants of Allah. So the verse is no reason for dread. It lays out the enemy's plan and its limit in one sentence. The might he invoked is the same might I can take refuge in. The real question is not how strong he is, but whose servant I am. Where am I still leaving him an opening?",
+    "reflectionBn": "সবে মাত্র সে অবকাশ পেয়েছে, আর প্রথম কথাতেই হুমকি: আপনার ইজ্জতের কসম, আমি অবশ্যই তাদের সবাইকে পথভ্রষ্ট করব। বিদ্রোহের মুহূর্তেও সে কসম খায় এমন এক ক্ষমতার নামে, যা তার নিজের নয়। নিজের বলতে তার কিছুই নেই, যার নামে কসম খাওয়া যায়। পরের নিঃশ্বাসেই সে মেনে নেয়, তার নাগাল কোথায় গিয়ে থামে: আল্লাহর একনিষ্ঠ বান্দাদের সামনে। তাই এ আয়াত ভয়ে কুঁকড়ে যাওয়ার কারণ নয়। শত্রুর পরিকল্পনা আর তার সীমা, দুটোই এক বাক্যে খুলে দেখানো হয়েছে। যে ইজ্জতের দোহাই সে দিল, সেই ইজ্জতেই আমি আশ্রয় নিতে পারি। আসল প্রশ্ন তার শক্তি কতটা, তা নয়। প্রশ্ন হলো, আমি কার বান্দা। কোথায় আমি এখনো তার জন্য দরজা খোলা রেখেছি?",
+    "pointsEn": [
+      "When something wrong starts to look attractive, do I recognise whose invitation it is before I answer it?",
+      "Is there a doubt I have let settle in my heart instead of taking it to someone who knows?",
+      "Which of my good deeds this week was for Allah alone, and which was partly for an audience?",
+      "When temptation feels stronger than me, do I give up on myself, or turn to the One whose might the tempter cannot match?",
+      "Do I ask Allah for sincerity as often as I ask Him for provision?"
+    ],
+    "pointsBn": [
+      "কোনো অন্যায় যখন আকর্ষণীয় মনে হতে শুরু করে, সাড়া দেওয়ার আগে কি আমি চিনতে পারি, ডাকটা আসছে কার কাছ থেকে?",
+      "এমন কোনো সংশয় কি আছে, যা জানেন এমন কারও কাছে না নিয়ে গিয়ে মনের ভেতরেই জমতে দিয়েছি?",
+      "এ সপ্তাহের কোন নেক আমলটা শুধু আল্লাহর জন্য ছিল, আর কোনটায় খানিকটা লোক দেখানোর ভাবও মিশে ছিল?",
+      "প্রলোভন যখন আমার চেয়ে শক্তিশালী মনে হয়, তখন কি নিজের উপর হাল ছেড়ে দিই, নাকি সেই সত্তার দিকে ফিরি, যাঁর ক্ষমতার সামনে প্ররোচনাদাতা কিছুই নয়?",
+      "রিজিক যত বার চাই, আল্লাহর কাছে ইখলাস কি তত বার চাই?"
+    ],
+    "lessonEn": "Iblis swore by a might that was never his, and his reach stops at the sincere. Guard your sincerity, seek refuge in Allah's might, and do not despair.",
+    "lessonBn": "ইবলিস কসম খেয়েছিল এমন এক ইজ্জতের নামে, যা কখনো তার ছিল না, আর তার নাগাল থেমে যায় একনিষ্ঠদের সামনে। নিজের ইখলাস আগলে রাখুন, আল্লাহর ইজ্জতে আশ্রয় চান, আর নিরাশ হবেন না।"
   }
 };
 

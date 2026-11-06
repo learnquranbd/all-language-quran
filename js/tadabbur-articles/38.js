@@ -2959,6 +2959,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:82": {
+    "sections": [
+      {
+        "h": {
+          "en": "Reprieved, Then Sworn",
+          "bn": "অবকাশ পেয়েই কসম"
+        },
+        "p": [
+          {
+            "en": "Qala fa-bi-'izzatika la-ughwiyannahum ajma'in: he said, then by Your might, I will surely mislead them all. In Arabic the verse is four words, and it follows straight on from the reprieve. In 38:79 Iblis asked for time until the Day the dead are raised, and in 38:80 and 38:81 he was granted respite until the day of the time well-known. The scene that led here, his refusal to bow and his expulsion, is treated in the articles on 38:76 and 38:78. This verse is about the vow alone.",
+            "bn": "কালা ফাবিইজ্জাতিকা লাউগবিয়ান্নাহুম আজমাঈন: সে বলল, তাহলে আপনার ইজ্জতের কসম, আমি অবশ্যই তাদের সবাইকে পথভ্রষ্ট করব। আরবিতে আয়াতটিতে চারটি শব্দ, আর এটি এসেছে অবকাশ মঞ্জুর হওয়ার ঠিক পরে। ৩৮:৭৯ আয়াতে ইবলিস সময় চেয়েছিল সেদিন পর্যন্ত, যেদিন মৃতদের ওঠানো হবে। ৩৮:৮০ ও ৩৮:৮১ আয়াতে তাকে নির্ধারিত সময়ের দিন পর্যন্ত অবকাশ দেওয়া হলো। যে দৃশ্য থেকে এ পর্যন্ত আসা, অর্থাৎ সিজদায় তার অস্বীকৃতি আর বিতাড়ন, তার আলোচনা আছে ৩৮:৭৬ ও ৩৮:৭৮ আয়াতের প্রবন্ধে। এ আয়াতের বিষয় শুধু তার শপথ।"
+          },
+          {
+            "en": "As-Sa'di's note ties the opening fa, then, to what had just been granted. Once Iblis knew that he had been reprieved, he says, he declared openly to his Lord, out of his own malice, a fierce enmity towards his Lord and towards Adam (AS) and his offspring. Ibn Kathir describes the same turn. Allah, al-Halim, who does not hasten against the one who disobeys Him, granted the respite; and once Iblis felt safe from destruction until the Day of Resurrection, tamarrada wa tagha: he rebelled and overstepped all bounds.",
+            "bn": "শুরুর 'ফা', অর্থাৎ 'তাহলে' শব্দটিকে সা'দী জুড়ে দেন সদ্য মঞ্জুর হওয়া অবকাশের সঙ্গে। তাঁর কথায়, ইবলিস যখন জানল যে তাকে অবকাশ দেওয়া হয়েছে, তখন নিজের খবিস স্বভাব থেকে সে প্রকাশ্যে রবের সামনে তীব্র শত্রুতা ঘোষণা করল: তার রবের বিরুদ্ধে, আদম (আঃ) ও তাঁর বংশধরদের বিরুদ্ধে। ইবন কাসীরও একই মোড়ের কথা বলেন। আল্লাহ হালীম, অবাধ্যকে শাস্তি দিতে তাড়াহুড়া করেন না, তাই অবকাশ দিলেন। আর কিয়ামত পর্যন্ত ধ্বংস থেকে নিরাপদ বোধ করতেই ইবলিস 'তামাররাদা ওয়া তাগা': সে বিদ্রোহী হলো, সীমা ছাড়িয়ে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Oath, or Asking for Help",
+          "bn": "কসম, নাকি সাহায্য চাওয়া"
+        },
+        "p": [
+          {
+            "en": "Bi-'izzatika joins bi, by, to 'izza, might, and the suffix for You. Al-Qurtubi reads it as an oath. When Allah had driven Iblis out because of Adam, he says, Iblis halafa bi-'izzati Allah, swore by the might of Allah, that he would lead the children of Adam astray. The Muyassar takes it the same way and widens the oath with a second word: by Your might, O Lord, and Your greatness, I will surely lead the children of Adam astray, all of them.",
+            "bn": "বিইজ্জাতিকা শব্দে আছে 'বি' অব্যয়, অর্থাৎ দ্বারা বা নামে, তার সঙ্গে 'ইজ্জা' অর্থাৎ ক্ষমতা ও মর্যাদা, আর শেষে 'আপনার'। কুরতুবী একে কসম হিসেবে পড়েন। তাঁর ভাষায়, আদম (আঃ)-এর কারণে আল্লাহ যখন ইবলিসকে তাড়িয়ে দিলেন, তখন সে 'হালাফা বিইজ্জাতিল্লাহ', আল্লাহর ইজ্জতের কসম খেল যে আদম সন্তানদের সে পথভ্রষ্ট করবে। মুয়াসসারও একই অর্থ নেয়, আর কসমের সঙ্গে জুড়ে দেয় আরেকটি শব্দ: হে রব, আপনার ইজ্জত ও আপনার মহত্ত্বের কসম, আমি আদম সন্তানদের সবাইকে অবশ্যই পথভ্রষ্ট করব।"
+          },
+          {
+            "en": "As-Sa'di keeps two readings open. On this verse he says the bi may be the bi of an oath: Iblis swore by Allah's might to mislead them all. In his note on 38:83 he offers a second possibility, the bi of isti'ana, seeking help. On that reading Iblis knew he was helpless in every respect, and that he leads no one astray except by the will of Allah, so he appealed to Allah's might for help in misleading Adam's offspring. As-Sa'di adds one plain line: and he is truly the enemy of Allah.",
+            "bn": "সা'দী দুটি পাঠই খোলা রাখেন। এ আয়াতে তিনি বলেন, এই 'বি' কসমের 'বি' হতে পারে: ইবলিস আল্লাহর ইজ্জতের কসম খেয়েছে যে সবাইকে সে পথভ্রষ্ট করবে। ৩৮:৮৩ আয়াতের আলোচনায় তিনি দ্বিতীয় সম্ভাবনা তোলেন: এটা ইসতিআনার 'বি', অর্থাৎ সাহায্য চাওয়ার। এ পাঠে ইবলিস জানত, সে সব দিক থেকেই অক্ষম, আর আল্লাহর ইচ্ছা ছাড়া একজনকেও সে পথভ্রষ্ট করতে পারে না। তাই আদম (আঃ)-এর বংশধরদের বিপথে নিতে সে আল্লাহর ইজ্জতের কাছেই সাহায্য চাইল। সা'দী জুড়ে দেন এক সোজা বাক্য: আর সে সত্যিই আল্লাহর দুশমন।"
+          },
+          {
+            "en": "The difference is kept here as a difference. Al-Qurtubi and the Muyassar read an oath; as-Sa'di allows both an oath and an appeal for help, and does not choose. Ibn Kathir quotes the words without glossing the bi, and al-Baghawi gives only the text of the verse. Yet the two readings meet at a single point. Whether Iblis is swearing or asking, the might he names is Allah's. Neither reading leaves him any strength of his own to put behind his vow.",
+            "bn": "মতভেদটা এখানে মতভেদ হিসেবেই রাখা হলো। কুরতুবী ও মুয়াসসার পড়েন কসম। সা'দী কসম ও সাহায্য প্রার্থনা, দুটিরই সুযোগ রাখেন, কোনোটিকে বেছে নেন না। ইবন কাসীর শব্দগুলো উদ্ধৃত করেন, 'বি'-এর ব্যাখ্যা দেন না। বাগাভী শুধু আয়াতের পাঠটুকু দেন। তবু দুই পাঠ একই বিন্দুতে এসে মেলে। ইবলিস কসম খাক বা সাহায্য চাক, যে ইজ্জতের নাম সে নিচ্ছে তা আল্লাহর। কোনো পাঠেই তার নিজের এমন কোনো শক্তি থাকে না, যার উপর ভর দিয়ে সে শপথ করতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Might He Did Not Own",
+          "bn": "যে ইজ্জত তার নিজের নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's entry on this verse is a single report. Through his chain he relays Qatada on the words by Your might: 'alima 'aduwwu Allahi annahu laysat lahu 'izza. The enemy of Allah knew that he had no might. Qatada says no more, and nothing is added for him here. Read plainly, his remark explains the choice of oath. A being with might of his own might have sworn by it. Iblis reached for the only might there is.",
+            "bn": "এ আয়াতে তাবারীর আলোচনা মাত্র একটি বর্ণনা। নিজের সূত্রে তিনি 'আপনার ইজ্জতের কসম' কথাটির উপর কাতাদার মন্তব্য উদ্ধৃত করেন: 'আলিমা আদুওউল্লাহি আন্নাহু লাইসাত লাহু ইজ্জা'। আল্লাহর দুশমন জানত, তার নিজের কোনো ইজ্জত নেই। কাতাদা এর বেশি কিছু বলেননি, এখানেও তাঁর হয়ে কিছু যোগ করা হচ্ছে না। সোজাভাবে পড়লে মন্তব্যটি বুঝিয়ে দেয়, কসমের জন্য সে এ শব্দই কেন বেছে নিল। যার নিজের ক্ষমতা আছে, সে হয়তো নিজের ক্ষমতারই কসম খেত। ইবলিস হাত বাড়াল সেই একমাত্র ইজ্জতের দিকে, যা সত্যিই আছে।"
+          },
+          {
+            "en": "The Qur'an says the same thing in its own voice in 35:10: whoever wants might, then to Allah belongs all might. The vow in Surah Sad is phrased differently from its parallels. In 7:16 and 15:39 Iblis ties his threat to bima aghwaytani, because You have put me in error, and the article on 7:17 takes up those words. Here he ties it to Allah's might instead. Each telling records his defiance, and in this one the defiance has to borrow its strength from the One it defies.",
+            "bn": "কুরআন নিজের ভাষায় একই কথা বলে ৩৫:১০ আয়াতে: যে ইজ্জত চায়, সে জেনে রাখুক, সমস্ত ইজ্জত আল্লাহরই। সূরা সাদে শপথের ভাষা অন্য জায়গার চেয়ে আলাদা। ৭:১৬ ও ১৫:৩৯ আয়াতে ইবলিস তার হুমকি জুড়েছে 'বিমা আগওয়াইতানী' কথার সঙ্গে, অর্থাৎ যেহেতু আপনি আমাকে বিপথে ফেলেছেন। এ শব্দগুলোর আলোচনা আছে ৭:১৭ আয়াতের প্রবন্ধে। এখানে সে হুমকি জুড়েছে আল্লাহর ইজ্জতের সঙ্গে। প্রতিটি বর্ণনাতেই তার বিদ্রোহ লেখা আছে। কিন্তু এখানে বিদ্রোহকে শক্তি ধার করতে হয় তাঁরই কাছ থেকে, যাঁর বিরুদ্ধে সে বিদ্রোহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Desires Adorned, Doubts Sown",
+          "bn": "সাজানো কামনা, ছড়ানো সংশয়"
+        },
+        "p": [
+          {
+            "en": "La-ughwiyannahum, I will surely mislead them, is the vow itself. Al-Qurtubi glosses it in two steps. First its meaning: la-astad'iyannahum ila al-ma'asi, I will surely call them to acts of disobedience. Then its method: Iblis swore to lead the children of Adam astray bi-tazyini al-shahawat wa idkhali al-shubha 'alayhim, by making their desires look beautiful and by bringing doubt in upon them. The Muyassar's paraphrase uses a plainer verb, la-udillanna, I will surely lead astray, and names the object as the children of Adam.",
+            "bn": "লাউগবিয়ান্নাহুম, আমি অবশ্যই তাদের পথভ্রষ্ট করব, এটাই আসল শপথ। কুরতুবী এর ব্যাখ্যা দেন দুই ধাপে। প্রথমে অর্থ: 'লাআসতাদইয়ান্নাহুম ইলাল মাআসী', আমি অবশ্যই তাদের গুনাহের দিকে ডাকব। তারপর পদ্ধতি: ইবলিস কসম খেয়েছিল আদম সন্তানদের বিপথে নেবে 'বিতাযয়ীনিশ শাহাওয়াত ওয়া ইদখালিশ শুবহা আলাইহিম', অর্থাৎ তাদের কামনাগুলোকে সুন্দর করে দেখিয়ে আর তাদের মনে সংশয় ঢুকিয়ে দিয়ে। মুয়াসসার আরও সহজ ক্রিয়া ব্যবহার করে, 'লাউদিল্লান্না', আমি অবশ্যই পথভ্রষ্ট করব, আর কাদের, তা-ও বলে দেয়: আদম সন্তানদের।"
+          },
+          {
+            "en": "Al-Qurtubi's two means work on two different parts of a person. A desire made beautiful works on what someone wants; a doubt brought in works on what someone believes. On 15:39, where Iblis vows to make things look attractive to them on the earth, al-Qurtubi adds that this adorning comes either through the doing of sins or through keeping people busy with the world's adornment until they neglect obedience. The second is the quieter: nothing forbidden need be done, only the good left undone.",
+            "bn": "কুরতুবীর বলা দুটি উপায় মানুষের দুই জায়গায় কাজ করে। সুন্দর করে দেখানো কামনা কাজ করে মানুষ যা চায় তার উপর। ঢুকিয়ে দেওয়া সংশয় কাজ করে মানুষ যা বিশ্বাস করে তার উপর। ১৫:৩৯ আয়াতে ইবলিস শপথ করে, পৃথিবীতে সে তাদের সামনে সবকিছু চাকচিক্যময় করে তুলবে। সেখানে কুরতুবী যোগ করেন, এই সাজানো হয় গুনাহের কাজ করিয়ে, নয়তো দুনিয়ার চাকচিক্যে এমন ব্যস্ত রেখে যে আনুগত্যের কাজ পড়ে থাকে। দ্বিতীয়টা বেশি নিঃশব্দ। কোনো হারাম কাজ করার দরকার পড়ে না, নেক কাজটা শুধু না-করা থেকে যায়।"
+          },
+          {
+            "en": "Knowing the routes is a kind of protection, because it tells the reader where to keep watch. When something Allah has forbidden begins to look lovely, or a good deed keeps being put off for something shinier, the first means is at work. When a doubt about the faith arrives and is left to settle in silence, the second is. Neither is a reason for alarm; both are a reason to notice early, while turning away is still easy.",
+            "bn": "পথগুলো চেনা থাকাও এক রকম সুরক্ষা, কারণ তাতে জানা যায় পাহারা কোথায় দিতে হবে। আল্লাহ যা নিষেধ করেছেন, তা যখন মনোরম লাগতে শুরু করে, কিংবা আরও চকচকে কিছুর জন্য কোনো নেক কাজ বারবার পিছিয়ে যায়, তখন কাজ করছে প্রথম উপায়। দ্বীন নিয়ে কোনো সংশয় এসে যখন চুপচাপ মনে জমতে থাকে, তখন দ্বিতীয়টা। কোনোটাই আতঙ্কের কারণ নয়। দুটোই আগেভাগে টের পাওয়ার কারণ, যখন মুখ ফিরিয়ে নেওয়া এখনো সহজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Further Than a Whisper",
+          "bn": "কুমন্ত্রণার বেশি নয়"
+        },
+        "p": [
+          {
+            "en": "The vow ends on ajma'in, all of them, and on its face it leaves no one out. The commentators do not let the word stand alone. Al-Qurtubi follows his gloss with a limit drawn from Iblis's own knowledge: wa qad 'alima annahu la yasilu illa ila al-waswasa. He knew he could reach no further than whispering. And he corrupts, al-Qurtubi adds, only the one who would not have been upright even without the whisper. On this account the whisper is an invitation, never a grip.",
+            "bn": "শপথ শেষ হয় 'আজমাঈন' শব্দে, অর্থাৎ তাদের সবাই। বাহ্যত কেউই বাদ পড়ে না। কিন্তু তাফসীরকারেরা শব্দটাকে একা দাঁড়াতে দেন না। কুরতুবী তাঁর ব্যাখ্যার পরপরই ইবলিসের নিজের জানা থেকে একটা সীমা টেনে দেন: 'ওয়া কাদ আলিমা আন্নাহু লা ইয়াসিলু ইল্লা ইলাল ওয়াসওয়াসা'। সে জানত, ওয়াসওয়াসা বা কুমন্ত্রণার বেশি সে পৌঁছাতে পারবে না। কুরতুবী আরও বলেন, সে কেবল তাকেই নষ্ট করে, যে কুমন্ত্রণা না পেলেও সৎ পথে থাকত না। এ ব্যাখ্যায় কুমন্ত্রণা কেবল ডাক, কখনো কারও উপর জোর খাটানো নয়।"
+          },
+          {
+            "en": "The next verse says the same from Iblis's side. At-Tabari, on 38:83, puts the exception in his mouth: except whoever You have made sincere for Your worship and protected from my misleading, so that You gave me no way to him, for I am not able to lead him astray. As-Sa'di says that Iblis knew Allah would guard them from his scheming. So the ajma'in of the vow is a boast his own next words take back; the article on 38:85 follows the word into Allah's oath.",
+            "bn": "পরের আয়াত একই কথা বলে ইবলিসের দিক থেকে। ৩৮:৮৩ আয়াতে তাবারী ব্যতিক্রমটা তার মুখেই তুলে দেন: তবে যাদের আপনি আপনার ইবাদতের জন্য খাঁটি করে নিয়েছেন আর আমার বিপথে নেওয়া থেকে রক্ষা করেছেন, তারা বাদ। তাদের কাছে পৌঁছানোর কোনো পথ আপনি আমাকে দেননি, তাদের পথভ্রষ্ট করার সাধ্য আমার নেই। সা'দী বলেন, ইবলিস জানত আল্লাহ তাদের তার চক্রান্ত থেকে হেফাজত করবেন। ফলে শপথের 'আজমাঈন' এক বড়াই, যা তার নিজের পরের কথাই ফিরিয়ে নেয়। আল্লাহর শপথে শব্দটির ফিরে আসা নিয়ে আলোচনা আছে ৩৮:৮৫ আয়াতের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept Out of His Reach",
+          "bn": "যাদের নাগাল সে পায় না"
+        },
+        "p": [
+          {
+            "en": "The exception in 38:83, illa 'ibadaka minhumu al-mukhlasin, except Your sincere servants among them, belongs to the next verse, and the two readings of its last word are set out in the article on 15:40. Here it matters for what it says about the vow. Al-Qurtubi glosses it: those whom You have made sincere for Your worship, wa 'asamtahum minni, and kept safe from me. The Muyassar, reading the two verses as a single sentence, says the same, and adds: so that You gave me no way to them.",
+            "bn": "৩৮:৮৩ আয়াতের ব্যতিক্রম, 'ইল্লা ইবাদাকা মিনহুমুল মুখলাসীন', অর্থাৎ তাদের মধ্যে আপনার একনিষ্ঠ বান্দারা ছাড়া, পরের আয়াতের অংশ। এর শেষ শব্দের দুই রকম পাঠের আলোচনা আছে ১৫:৪০ আয়াতের প্রবন্ধে। এখানে দেখার বিষয়, শপথ সম্পর্কে এটা কী বলে। কুরতুবীর ব্যাখ্যা: যাদের আপনি আপনার ইবাদতের জন্য খাঁটি করে নিয়েছেন, 'ওয়া আসামতাহুম মিন্নী', আর আমার কাছ থেকে রক্ষা করেছেন। মুয়াসসার দুই আয়াতকে একটি বাক্য ধরে একই কথা বলে, আর যোগ করে: তাদের কাছে পৌঁছানোর কোনো পথ আপনি আমাকে দেননি।"
+          },
+          {
+            "en": "Ibn Kathir sets the vow beside 17:62, where Iblis says he will bring Adam's descendants under his sway except a few. Those few, he says, are the ones excepted in another verse, 17:65: as for My servants, you have no authority over them, and your Lord suffices as a Guardian. Akhlastahum, You made them sincere; 'asamtahum, You kept them safe. On these readings sincerity is the protection, and the One who gives it is Allah. So it is something to ask Him for, and not only something to work at.",
+            "bn": "ইবন কাসীর শপথটিকে রাখেন ১৭:৬২ আয়াতের পাশে। সেখানে ইবলিস বলে, অল্প কয়েকজন ছাড়া আদম (আঃ)-এর বংশধরদের সে বশে নিয়ে নেবে। তাঁর মতে এই অল্প কয়েকজনই তারা, যাদের বাদ রাখা হয়েছে আরেক আয়াতে, ১৭:৬৫: আমার বান্দাদের উপর তোমার কোনো আধিপত্য নেই, আর অভিভাবক হিসেবে তোমার রবই যথেষ্ট। 'আখলাসতাহুম', আপনি তাদের খাঁটি করেছেন। 'আসামতাহুম', আপনি তাদের রক্ষা করেছেন। এ ব্যাখ্যায় ইখলাসই সুরক্ষা, আর সেটা দেন একমাত্র আল্লাহ। তাই ইখলাস শুধু চেষ্টা করে অর্জনের জিনিস নয়, তাঁর কাছে চেয়ে নেওয়ারও জিনিস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Refuge the Prophet Sought",
+          "bn": "নবী ﷺ যে আশ্রয় চাইতেন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for 38:82 and 38:83 attaches a sound hadith to them, and none gives an occasion of revelation. Al-Qurtubi's note on 38:83 refers back to Surah al-Hijr. There, on 15:39, he relays through Ibn Lahi'a and Darraj Abu as-Samh a report from Abu Sa'id al-Khudri: Iblis swears by Allah's might and majesty to keep misleading the children of Adam while their souls are in their bodies, and the Lord swears to keep forgiving them while they ask His forgiveness. Al-Qurtubi gives it no grading, it was not confirmed here in a hadith collection, and nothing in this article rests on it.",
+            "bn": "৩৮:৮২ ও ৩৮:৮৩ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি, শানে নুযূলও বলেনি। ৩৮:৮৩ আয়াতে কুরতুবী পাঠককে ফিরিয়ে দেন সূরা হিজরের দিকে। সেখানে ১৫:৩৯ আয়াতে তিনি ইবন লাহিআ ও দাররাজ আবুস সামহের সূত্রে আবু সাঈদ খুদরী (রাঃ)-এর একটি বর্ণনা আনেন। তাতে ইবলিস আল্লাহর ইজ্জত ও জালালের কসম খায়, আদম সন্তানদের দেহে যতক্ষণ প্রাণ থাকবে ততক্ষণ সে তাদের বিপথে নিতে থাকবে। আর রব কসম খেয়ে বলেন, যতক্ষণ তারা ক্ষমা চাইবে ততক্ষণ তিনি ক্ষমা করতে থাকবেন। কুরতুবী এর কোনো মান উল্লেখ করেননি, কোনো হাদীস সংকলনে এখানে এটি যাচাই করা যায়নি, তাই এ প্রবন্ধের কোনো কথা এর উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "One sound narration, not attached to this verse, places the same word 'izza in the opposite prayer. Sahih Muslim (2717) records from Ibn 'Abbas that the Messenger of Allah ﷺ used to say: O Allah, to You I have submitted, in You I have believed, upon You I have relied, to You I have turned, and by You I have contended. O Allah, I seek refuge in Your might, there is no god but You, from Your leading me astray. You are the Ever-Living who does not die, while jinn and men die. Al-Bukhari (7383) records a shorter wording from the same Companion.",
+            "bn": "একটি সহীহ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, ঠিক উল্টো এক দোয়ায় এই 'ইজ্জা' শব্দটিই ব্যবহার করে। সহীহ মুসলিম (২৭১৭) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করে, আল্লাহর রাসূল ﷺ বলতেন: হে আল্লাহ, আপনার কাছেই আমি আত্মসমর্পণ করেছি, আপনার উপরই ঈমান এনেছি, আপনার উপরই ভরসা করেছি, আপনার দিকেই ফিরেছি, আর আপনার সাহায্যেই বিরোধীদের মোকাবিলা করেছি। হে আল্লাহ, আমি আপনার ইজ্জতের আশ্রয় চাই, আপনি ছাড়া কোনো ইলাহ নেই, আপনি যেন আমাকে পথভ্রষ্ট না করেন। আপনি চিরঞ্জীব, যিনি মরেন না, আর জিন ও মানুষ মরে যায়। বুখারী (৭৩৮৩) একই সাহাবী থেকে এর সংক্ষিপ্ত রূপ বর্ণনা করেছেন।"
+          },
+          {
+            "en": "Set beside the vow, the prayer answers it closely. Iblis named Allah's might to mislead; the Prophet ﷺ named the same might to be kept from being misled, an tudillani, from the root the Muyassar uses for Iblis's la-udillanna. The prayer asks Allah, not anyone else, to keep guidance safe, which fits as-Sa'di's remark that Iblis leads no one astray except by the will of Allah. The refuge is placed exactly where the threat claimed its strength.",
+            "bn": "শপথের পাশে রাখলে দোয়াটিকে তার খুব কাছের জবাব বলে মনে হয়। ইবলিস আল্লাহর ইজ্জতের নাম নিয়েছিল পথভ্রষ্ট করার জন্য। নবী ﷺ সেই ইজ্জতেরই নাম নিলেন পথভ্রষ্ট হওয়া থেকে বাঁচতে: 'আন তুদিল্লানী'। এ শব্দের মূল আর মুয়াসসার ইবলিসের শপথ বোঝাতে যে 'লাউদিল্লান্না' ব্যবহার করে, তার মূল একই। দোয়াটি হেদায়েত টিকিয়ে রাখার আবেদন জানায় আল্লাহর কাছেই, আর কারও কাছে নয়। এটা সা'দীর সেই কথার সঙ্গে মেলে যে আল্লাহর ইচ্ছা ছাড়া ইবলিস কাউকে বিপথে নিতে পারে না। হুমকি যেখান থেকে শক্তি দাবি করেছিল, আশ্রয়টাও ঠিক সেখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sincerity, Asked For Daily",
+          "bn": "প্রতিদিন চেয়ে নেওয়া ইখলাস"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di does not end his note on Iblis. Having said that Iblis may have sought help from Allah's might to mislead, he turns the same words into a prayer. We, our Lord, he writes, are the helpless and the falling short, the offspring of the one You honoured. So we seek help by Your great might, Your power and Your mercy that reaches every creature, that You help us in fighting him and keep us safe from his evil. We think well of You, that You will answer, and we believe Your promise in 40:60: call upon Me, I will answer you.",
+            "bn": "সা'দী তাঁর আলোচনা ইবলিসে এসে থামান না। ইবলিস হয়তো বিপথে নেওয়ার জন্য আল্লাহর ইজ্জতের সাহায্য চেয়েছিল, এ কথা বলার পর তিনি একই শব্দগুলোকে দোয়ায় বদলে দেন। তিনি লেখেন: হে আমাদের রব, আমরা অক্ষম, ত্রুটিতে ভরা। আপনি যাকে সম্মান দিয়েছেন, আমরা তাঁরই বংশধর। তাই আপনার মহান ইজ্জত, আপনার কুদরত আর প্রতিটি সৃষ্টিকে ঘিরে থাকা আপনার রহমতের উসিলায় সাহায্য চাই: তার বিরুদ্ধে লড়াইয়ে আমাদের সাহায্য করুন, তার অনিষ্ট থেকে নিরাপদ রাখুন। আমরা আপনার প্রতি সুধারণা রাখি যে আপনি সাড়া দেবেন, আর ৪০:৬০ আয়াতে দেওয়া আপনার ওয়াদায় ঈমান রাখি: আমাকে ডাকো, আমি তোমাদের ডাকে সাড়া দেব।"
+          },
+          {
+            "en": "This needs saying plainly. The verse reports a vow made by Iblis about the children of Adam. It describes what it describes and licenses nothing against any living person or community. It hands no reader the right to point at a neighbour and say, there is one he has misled, or to count anyone among the sincere servants and others outside them. Al-Qurtubi's gloss on the exception puts the making sincere and the keeping safe in Allah's hands, and the knowledge of who is kept belongs there too.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি আদম সন্তানদের নিয়ে ইবলিসের একটি শপথের বর্ণনা দেয়। যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। প্রতিবেশীর দিকে আঙুল তুলে 'ওকে সে বিপথে নিয়েছে' বলার অধিকার এটা কোনো পাঠককে দেয় না। কে একনিষ্ঠ বান্দাদের মধ্যে আছে আর কে নেই, সে হিসাব করার অধিকারও দেয় না। ব্যতিক্রমের ব্যাখ্যায় কুরতুবী খাঁটি করা আর রক্ষা করা, দুটোই রেখেছেন আল্লাহর হাতে। কে রক্ষা পেল, সে জ্ঞানও তাঁরই।"
+          },
+          {
+            "en": "What the verse leaves the reader is hope with its eyes open. The threat is real, but on al-Qurtubi's reading it reaches no further than a whisper, and on every gloss of the next verse it stops at sincerity. So the work is close at hand: to ask before a deed whom it is for, to take a doubt to someone who knows, and to say the Prophet's words of refuge in Allah's might. And when a whisper has had its way, the door of return is still open.",
+            "bn": "এ আয়াত পাঠকের হাতে তুলে দেয় চোখ খোলা রাখা এক আশা। হুমকিটা সত্যি, কিন্তু কুরতুবীর ব্যাখ্যায় তা কুমন্ত্রণার বেশি পৌঁছায় না। আর পরের আয়াতের প্রতিটি ব্যাখ্যায় তা থেমে যায় ইখলাসের সামনে। তাই কাজটা হাতের কাছেই। কোনো আমলের আগে নিজেকে জিজ্ঞেস করা, এটা কার জন্য। কোনো সংশয় এলে জানেন এমন কারও কাছে নিয়ে যাওয়া। আর আল্লাহর ইজ্জতে আশ্রয় চেয়ে নবী ﷺ যে কথাগুলো বলতেন, সেগুলো বলা। কোনো কুমন্ত্রণা যদি জিতেও যায়, ফিরে আসার দরজা তখনো খোলা।"
+          }
+        ]
+      }
+    ]
+  },
   "38:85": {
     "sections": [
       {
