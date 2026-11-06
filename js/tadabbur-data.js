@@ -27269,6 +27269,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Help comes from Allah alone, and holding back when He wills it is not weakness; trust His wisdom when restraint costs you a win you could already see.",
     "lessonBn": "সাহায্য আসে কেবল আল্লাহর কাছ থেকে। তিনি চাইলে থেমে থাকা দুর্বলতা নয়। যে জয় চোখের সামনে দেখছেন, সংযমের কারণে তা হাতছাড়া হলেও তাঁর হিকমতের উপর ভরসা রাখুন।"
+  },
+  "49:15": {
+    "reflectionEn": "Some words cost nothing to say, and \"we believe\" is one of them. The verse before this one answers people who said it too quickly. Here the Qur'an describes what the word looks like when it is true: belief in Allah and His Messenger, then no wavering after it, then wealth and self spent in His way. Only after all that comes the name: those are the truthful. The verse does not hand me a scale for anyone else's heart; that stays with Allah. It hands me a mirror. When I say I believe, what in my week would back the claim? Where have I let doubt settle without seeking what would answer it? And what have I actually given, of money or of myself, for His sake?",
+    "reflectionBn": "কিছু কথা বলতে কোনো দাম লাগে না। \"আমরা ঈমান এনেছি\" তেমনই এক কথা। এর আগের আয়াত এমন কিছু লোককে জবাব দিয়েছে, যারা কথাটা বড় তাড়াতাড়ি বলে ফেলেছিল। এখানে কুরআন দেখায়, কথাটা সত্য হলে তার চেহারা কেমন হয়: আল্লাহ ও তাঁর রসূলের উপর ঈমান, তারপর আর কোনো দোলাচল নয়, তারপর তাঁর পথে মাল ও জান খরচ। এত কিছুর পরেই নামটা আসে: তারাই সত্যবাদী। অন্যের অন্তর মাপার কোনো দাঁড়িপাল্লা এ আয়াত আমার হাতে তুলে দেয় না, সে হিসাব আল্লাহর কাছে। আমার হাতে দেয় একটা আয়না। আমি যখন বলি আমি ঈমান এনেছি, আমার এই সপ্তাহের কোন কাজ সে দাবির পক্ষে সাক্ষী দেবে? কোন সন্দেহকে আমি জবাব না খুঁজে মনের ভেতর জমে থাকতে দিয়েছি? আর তাঁর জন্য টাকা-পয়সা থেকে বা নিজের সময় ও শ্রম থেকে আসলে কী দিয়েছি?",
+    "pointsEn": [
+      "If my \"I believe\" had to be backed by something I did this week, what would I point to?",
+      "Is there a doubt I have left sitting in me, when I could have sought the knowledge that answers it?",
+      "Which is harder for me to give for Allah's sake, my money or my time and effort, and what does that tell me?",
+      "When I find myself measuring someone else's faith, am I reaching for a scale that only Allah holds?",
+      "Does my faith hold steady when it costs me something, or only when it is cheap?"
+    ],
+    "pointsBn": [
+      "আমার \"আমি ঈমান এনেছি\" কথার পক্ষে যদি এ সপ্তাহের কোনো কাজ দেখাতে হয়, আমি কোনটা দেখাব?",
+      "এমন কোনো সন্দেহ কি মনের ভেতর পড়ে আছে, যার জবাব দেওয়ার মতো জ্ঞান আমি খুঁজতে পারতাম, কিন্তু খুঁজিনি?",
+      "আল্লাহর জন্য কোনটা দেওয়া আমার কাছে বেশি কঠিন, টাকা-পয়সা নাকি সময় ও শ্রম? এ থেকে নিজের সম্পর্কে কী বুঝি?",
+      "অন্যের ঈমান মাপতে বসলে আমি কি এমন দাঁড়িপাল্লা হাতে নিচ্ছি, যা কেবল আল্লাহর হাতে?",
+      "ঈমানের দাম দিতে হলে কি আমি স্থির থাকি, নাকি শুধু সস্তা থাকা পর্যন্ত?"
+    ],
+    "lessonEn": "Let your claim of faith rest on steady conviction and on giving of your wealth and yourself for Allah, and leave the hearts of others to Him.",
+    "lessonBn": "ঈমানের দাবিকে দাঁড় করান অটল বিশ্বাস আর আল্লাহর জন্য নিজের মাল ও জান খরচ করার উপর, আর অন্যের অন্তরের হিসাব তাঁর হাতেই ছেড়ে দিন।"
   }
 };
 

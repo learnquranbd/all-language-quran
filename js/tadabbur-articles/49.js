@@ -614,5 +614,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "49:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Word That Narrows",
+          "bn": "যে শব্দ সীমা টেনে দেয়"
+        },
+        "p": [
+          {
+            "en": "Innama al-mu'minun: the believers are only those. The verse opens with the same two words as 49:10, where the believers are called brothers, but here the restricting innama does a different job. It comes straight after the bedouins' claim in 49:14 has been answered with \"you have not believed\", and al-Baghawi marks the turn in one clause: then He explained the reality of faith. Where the previous verse refused a word to people who had used it, this one describes the people to whom the word belongs.",
+            "bn": "ইন্নামাল মু'মিনূন: মু'মিন কেবল তারাই। ৪৯:১০ আয়াতও এই দুই শব্দ দিয়ে শুরু, সেখানে মু'মিনদের ভাই বলা হয়েছে। কিন্তু এখানে সীমা টানা 'ইন্নামা' শব্দটি অন্য কাজ করছে। ৪৯:১৪ আয়াতে বেদুঈনদের দাবির জবাব এসেছে, 'তোমরা ঈমান আননি'। তার ঠিক পরেই এ আয়াত। বাগাভী এক বাক্যে মোড়টা চিনিয়ে দেন: এরপর আল্লাহ ঈমানের হাকীকত বুঝিয়ে দিলেন। আগের আয়াত একটি শব্দ তাদের মুখ থেকে ফিরিয়ে দিয়েছিল, যারা শব্দটি ব্যবহার করেছিল। এ আয়াত দেখায়, শব্দটি আসলে কাদের প্রাপ্য।"
+          },
+          {
+            "en": "The commentators read the \"only\" as describing faith at its fullness. Ibn Kathir glosses it as the complete believers, al-kummal. As-Sa'di says: the believers in reality. At-Tabari keeps the address in view and reads the whole verse as spoken to the bedouins who said \"we believe\" while faith had not yet entered their hearts: the believers, O people, are those who... The verse works as a definition offered to people who had claimed the name, and the description that follows has four parts: belief, no doubt after it, striving, and the name truthful.",
+            "bn": "তাফসীরকারেরা এই 'কেবল' শব্দকে পূর্ণাঙ্গ ঈমানের বর্ণনা হিসেবে পড়েন। ইবন কাসীর ব্যাখ্যা করেন: পরিপূর্ণ মু'মিনেরা, আল-কুম্মাল। সা'দী বলেন: প্রকৃত অর্থে মু'মিন। তাবারী সম্বোধনটা চোখের সামনে রাখেন। তাঁর মতে গোটা আয়াত সেই বেদুঈনদের উদ্দেশে, যারা বলেছিল 'আমরা ঈমান এনেছি' অথচ ঈমান তখনো তাদের অন্তরে ঢোকেনি: হে লোকসকল, মু'মিন তো তারা, যারা... তাই আয়াতটা এক সংজ্ঞার মতো, দেওয়া হয়েছে তাদের সামনে যারা নামটা দাবি করেছিল। এরপর যে বর্ণনা আসে তার চারটি অংশ: ঈমান, তারপর সন্দেহহীনতা, জিহাদ, আর সত্যবাদী নাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief That Carries Duties",
+          "bn": "যে বিশ্বাস দায়িত্ব বয়ে আনে"
+        },
+        "p": [
+          {
+            "en": "Alladhina amanu bi-llahi wa-rasulihi: those who have believed in Allah and His Messenger. At-Tabari renders amanu as saddaqu, they affirmed the truth of Allah and His Messenger. The Muyassar uses the same verb and adds a clause of its own: and they acted by His law. Al-Qurtubi's gloss also begins with affirmation and then sets beside it what made the affirmation real, which the verse names a few words later: they made it true through jihad and righteous deeds. In each reading, the belief is the start of a description, not the whole of it.",
+            "bn": "আল্লাযীনা আমানূ বিল্লাহি ওয়া রসূলিহী: যারা আল্লাহ ও তাঁর রসূলের উপর ঈমান এনেছে। তাবারী 'আমানূ' শব্দের অর্থ করেন 'সাদ্দাকূ', অর্থাৎ তারা আল্লাহ ও তাঁর রসূলকে সত্য বলে মেনে নিয়েছে। মুয়াসসারও একই ক্রিয়া ব্যবহার করে, সঙ্গে নিজের একটি কথা জোড়ে: আর তারা তাঁর শরীয়ত মোতাবেক আমল করেছে। কুরতুবীর ব্যাখ্যাও শুরু হয় সত্য বলে মেনে নেওয়া দিয়ে। তারপর তিনি পাশে রাখেন সেই জিনিস, যা এই মেনে নেওয়াকে বাস্তব করে তোলে, আর আয়াত কয়েক শব্দ পরে তার নাম নেয়: জিহাদ ও নেক আমলের মাধ্যমে তারা একে সত্যে পরিণত করেছে। প্রতিটি পাঠেই ঈমান বর্ণনার শুরু, পুরোটা নয়।"
+          },
+          {
+            "en": "At-Tabari's explanation of the next clause shows how much he folds into the word belief. Whoever does not doubt, he says, has bound himself to obedience to Allah and obedience to His Messenger, and to acting on the obligations Allah made binding on him, without doubting that they are binding on him. Belief on this reading is not an opinion held at a distance. It is an affirmation that places duties on the person who makes it, and it accepts them as duties.",
+            "bn": "পরের অংশের ব্যাখ্যায় তাবারী দেখিয়ে দেন, ঈমান শব্দের ভেতরে তিনি কত কিছু রাখেন। যে সন্দেহ করে না, তিনি বলেন, সে নিজের উপর আল্লাহর আনুগত্য ও তাঁর রসূলের আনুগত্য অপরিহার্য করে নিয়েছে। আল্লাহ তার উপর যেসব ফরজ চাপিয়েছেন, সেগুলোর উপর আমল করাকেও অপরিহার্য করে নিয়েছে, আর সেগুলো যে তার উপর ফরজ, তাতে তার কোনো সন্দেহ নেই। এ পাঠে ঈমান দূর থেকে পোষণ করা কোনো মতামত নয়। ঈমান এমন এক স্বীকৃতি, যা স্বীকারকারীর কাঁধে দায়িত্ব তুলে দেয়, আর সে দায়িত্বকে দায়িত্ব বলেই মেনে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then No Wavering",
+          "bn": "তারপর আর দোলাচল নয়"
+        },
+        "p": [
+          {
+            "en": "Thumma lam yartabu: then they did not doubt. The verb comes from rayb, and as-Sa'di defines it plainly: ar-rayb, and it is doubt. Ibn Kathir's gloss goes beyond the absence of doubt. They did not doubt, he says, and did not waver, la tazalzalu, but held firm on a single state, which is pure affirmation. His verb for wavering shares its root with zulzilat in 99:1, where the earth is shaken with its shaking. His picture is of faith that keeps one condition over time rather than rising and falling with what happens to its owner.",
+            "bn": "সুম্মা লাম ইয়ারতাবূ: তারপর তারা সন্দেহ করেনি। ক্রিয়াটি এসেছে 'রাইব' থেকে, আর সা'দী সোজা ভাষায় এর সংজ্ঞা দেন: রাইব মানে সন্দেহ। ইবন কাসীরের ব্যাখ্যা শুধু সন্দেহ না থাকার কথায় থামে না। তিনি বলেন, তারা সন্দেহ করেনি, টলেও যায়নি, লা তাযালযালূ। বরং তারা এক অবস্থায় অটল থেকেছে, আর তা হলো খাঁটি বিশ্বাস। টলে যাওয়া বোঝাতে তিনি যে ক্রিয়া আনেন, তার মূল আর ৯৯:১ আয়াতের 'যুলযিলাত' শব্দের মূল একই, যেখানে পৃথিবীকে তার প্রবল কম্পনে কাঁপিয়ে দেওয়া হয়। তাঁর আঁকা ছবিতে ঈমান সময়ের সঙ্গে একই অবস্থায় টিকে থাকে। মালিকের জীবনে যা-ই ঘটুক, তার সঙ্গে ওঠানামা করে না।"
+          },
+          {
+            "en": "What they did not doubt is named in different ways. At-Tabari spells it out: they did not doubt the oneness of Allah, nor the prophethood of His Prophet ﷺ, nor that the obligations laid on them were binding. The Muyassar says: they did not doubt in their faith. Al-Baghawi says: they did not doubt in their religion. As-Sa'di then explains why the verse makes this a condition at all. Allah set the absence of doubt as a condition of faith, he says, because the faith that benefits is certain, settled conviction in what Allah commanded belief in, which no doubt touches in any respect.",
+            "bn": "কোন বিষয়ে তারা সন্দেহ করেনি, তা একেকজন একেকভাবে বলেন। তাবারী খুলে বলেন: তারা আল্লাহর একত্বে সন্দেহ করেনি, তাঁর নবী ﷺ-এর নবুওয়াতে সন্দেহ করেনি, আর তাদের উপর চাপানো ফরজগুলো যে আবশ্যক, তাতেও সন্দেহ করেনি। মুয়াসসার বলে: তারা নিজেদের ঈমানে সন্দেহ করেনি। বাগাভী বলেন: নিজেদের দ্বীনে সন্দেহ করেনি। এরপর সা'দী ব্যাখ্যা করেন, আয়াত কেন একে শর্ত বানাল। তাঁর কথায়, আল্লাহ সন্দেহ না থাকাকে ঈমানের শর্ত করেছেন। কারণ যে ঈমান কাজে আসে, তা হলো আল্লাহ যেসব বিষয়ে ঈমান আনতে বলেছেন, সেগুলোর উপর নিশ্চিত ও দৃঢ় বিশ্বাস, যাকে কোনো দিক থেকেই সন্দেহ ছুঁতে পারে না।"
+          },
+          {
+            "en": "The small word thumma, then, shapes how the clause is heard. The verse does not stop at \"believed\"; it sets \"did not doubt\" after it, as something that follows belief and stays with it. Ibn Kathir's \"held firm on a single state\" reads it that way, as steadfastness. The question the clause puts to a reader is less about the first moment of belief than about the years after it: whether what was affirmed on the first day is still affirmed, unshaken, on the last.",
+            "bn": "তাই 'সুম্মা', অর্থাৎ 'তারপর', ছোট্ট এই শব্দটিই ঠিক করে দেয় অংশটা কীভাবে শোনা হবে। আয়াত 'ঈমান এনেছে' বলে থেমে যায়নি। এর পরে বসিয়েছে 'সন্দেহ করেনি', যা ঈমানের পরে আসে আর তার সঙ্গেই থেকে যায়। ইবন কাসীরের 'এক অবস্থায় অটল থেকেছে' কথাটিও একে এভাবেই পড়ে, অবিচলতা হিসেবে। পাঠকের সামনে এ অংশ যে প্রশ্ন রাখে, তা ঈমানের প্রথম মুহূর্ত নিয়ে ততটা নয়, যতটা তার পরের বছরগুলো নিয়ে। প্রথম দিন যা মেনে নেওয়া হয়েছিল, শেষ দিনেও কি তা অটলভাবে মানা হচ্ছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wealth First, Then Selves",
+          "bn": "আগে মাল, তারপর জান"
+        },
+        "p": [
+          {
+            "en": "Wa-jahadu bi-amwalihim wa-anfusihim fi sabili llah: and strove with their wealth and their selves in the way of Allah. The commentators draw the scope of this striving differently. At-Tabari reads it as the jihad of fighting: they strove against the polytheists by spending their wealth and giving their lifeblood in that striving, as Allah had commanded them, and that is His way, so that the word of Allah is highest and the word of those who disbelieved is lowest. Al-Qurtubi's gloss is wider: they made their belief real through jihad and righteous deeds.",
+            "bn": "ওয়া জাহাদূ বিআমওয়ালিহিম ওয়া আনফুসিহিম ফী সাবীলিল্লাহ: আর তারা নিজেদের মাল ও জান দিয়ে আল্লাহর পথে জিহাদ করেছে। এই জিহাদের পরিসর তাফসীরকারেরা ভিন্ন ভিন্নভাবে আঁকেন। তাবারী একে যুদ্ধের জিহাদ হিসেবে পড়েন: আল্লাহ যেমন আদেশ দিয়েছিলেন, সে অনুযায়ী তারা মুশরিকদের বিরুদ্ধে জিহাদ করেছে, তাতে নিজেদের মাল খরচ করেছে আর প্রাণ বিলিয়ে দিয়েছে। তাঁর কথায় এটাই আল্লাহর পথ, যাতে আল্লাহর বাণী সমুন্নত থাকে আর কাফেরদের কথা নিচু হয়ে যায়। কুরতুবীর ব্যাখ্যা আরও প্রশস্ত: জিহাদ ও নেক আমলের মাধ্যমে তারা নিজেদের ঈমানকে বাস্তব করে তুলেছে।"
+          },
+          {
+            "en": "Ibn Kathir names no opponent at all. They gave their lifeblood and the most precious of their wealth, he says, in obedience to Allah and for His pleasure. The Muyassar joins the two readings: they gave the most precious of their wealth and their lives in jihad in the way of Allah, and in His obedience and His pleasure. As-Sa'di speaks of striving against the disbelievers, and then draws an inference that turns inward: whoever strives against others for Islam and for upholding its laws strives against his own self for it all the more.",
+            "bn": "ইবন কাসীর কোনো প্রতিপক্ষের নামই নেন না। তাঁর কথায়, তারা আল্লাহর আনুগত্যে ও তাঁর সন্তুষ্টির জন্য নিজেদের প্রাণ আর সবচেয়ে মূল্যবান সম্পদ বিলিয়ে দিয়েছে। মুয়াসসার দুটি পাঠকে এক করে: তারা নিজেদের সবচেয়ে মূল্যবান সম্পদ আর প্রাণ খরচ করেছে আল্লাহর পথে জিহাদে, তাঁর আনুগত্যে আর তাঁর সন্তুষ্টির খোঁজে। সা'দী কাফেরদের বিরুদ্ধে জিহাদের কথা বলেন। তারপর এমন এক সিদ্ধান্ত টানেন, যা ভেতরের দিকে ফেরে: যে ইসলাম ও তার বিধান কায়েমের জন্য অন্যের বিরুদ্ধে জিহাদ করে, সে এর জন্য নিজের নফসের বিরুদ্ধে জিহাদ করবে আরও বেশি করে।"
+          },
+          {
+            "en": "The order in the verse is worth noticing: wealth first, then selves, giving at two levels, what a person owns and what a person is. At-Tabari reads the verse as addressed to people of the Prophet's ﷺ own time, and none of these commentators is speaking of any conflict of a later age. This article does not read the verse as a verdict on any present-day war, side or cause. What it does ask of a reader is contained in each of these glosses: what of my wealth and my self have I actually given for Allah's sake, in His obedience and for His pleasure?",
+            "bn": "আয়াতের ক্রমটাও লক্ষ করার মতো: আগে মাল, তারপর জান। দেওয়ার দুই স্তর, মানুষের যা আছে, আর মানুষ নিজে যা। তাবারীর পাঠে আয়াতের সম্বোধন নবী ﷺ-এর নিজের যুগের লোকদের প্রতি। পরবর্তী কোনো যুগের কোনো সংঘাত নিয়ে এই তাফসীরকারদের কেউ কথা বলছেন না। এ লেখা আয়াতটিকে আজকের কোনো যুদ্ধ, পক্ষ বা আন্দোলন সম্পর্কে রায় হিসেবে পড়ে না। পাঠকের কাছে আয়াত যা চায়, তা এসব ব্যাখ্যার প্রতিটিতেই আছে: আল্লাহর জন্য, তাঁর আনুগত্যে ও তাঁর সন্তুষ্টির খোঁজে, আমি আমার মাল আর নিজের জান থেকে আসলে কী দিয়েছি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truthful in What They Said",
+          "bn": "নিজেদের কথায় সত্যবাদী"
+        },
+        "p": [
+          {
+            "en": "Ula'ika humu s-sadiqun: those, they are the truthful. Truthful in what? Ibn Kathir answers: in their saying, when they say that they are believers, unlike some of the bedouins who had nothing of the religion with them but the outward word. At-Tabari gives the same object, truthful in their saying \"we are believers\", and sets a contrast: not one who entered the religion out of fear of the sword, to keep his blood and his wealth safe. Al-Qurtubi's contrast adds a second motive: not one who submitted out of fear of being killed and hope of gain.",
+            "bn": "উলাইকা হুমুস সাদিকূন: তারাই সত্যবাদী। কিসে সত্যবাদী? ইবন কাসীর জবাব দেন: নিজেদের কথায়, যখন তারা বলে যে তারা মু'মিন। কিছু বেদুঈনের মতো নয়, যাদের কাছে দ্বীনের বাইরের শব্দটুকু ছাড়া আর কিছু ছিল না। তাবারীও একই কথা বলেন, 'আমরা মু'মিন' দাবিতে তারা সত্যবাদী। সঙ্গে একটি তুলনা টানেন: সে নয়, যে তলোয়ারের ভয়ে নিজের রক্ত ও সম্পদ বাঁচাতে দ্বীনে ঢুকেছে। কুরতুবীর তুলনায় যোগ হয় আরেকটি উদ্দেশ্য: সে নয়, যে নিহত হওয়ার ভয়ে আর লাভের আশায় ইসলাম গ্রহণ করেছে।"
+          },
+          {
+            "en": "At-Tabari closes with the reading of Ibn Zayd: they made their faith true by their deeds, saddaqu imanahum bi-a'malihim. As-Sa'di uses nearly the same words and then gives the reason. Truthfulness, he says, is a large claim in everything a person claims, and whoever makes it needs proof and evidence. The greatest of all claims is the claim of faith, on which happiness and lasting success turn. Whoever claims it and carries out its duties and what it requires is the truthful believer in truth; whoever does not is known not to be truthful in his claim.",
+            "bn": "তাবারী শেষ করেন ইবন যায়দের পাঠ দিয়ে: তারা নিজেদের আমল দিয়ে নিজেদের ঈমানকে সত্য প্রমাণ করেছে, সাদ্দাকূ ঈমানাহুম বিআ'মালিহিম। সা'দী প্রায় একই শব্দ ব্যবহার করেন, তারপর কারণটা বলেন। তাঁর কথায়, মানুষ যে বিষয়েই দাবি করুক, সত্যবাদিতা এক বড় দাবি, আর দাবিদারের দলিল-প্রমাণ লাগে। সবচেয়ে বড় দাবি হলো ঈমানের দাবি, কারণ সৌভাগ্য আর চিরস্থায়ী সাফল্য এর উপরই নির্ভর করে। যে এ দাবি করে আর এর কর্তব্য ও দাবিগুলো পূরণ করে, সে-ই প্রকৃত সত্যবাদী মু'মিন। যে তা করে না, বোঝা যায় নিজের দাবিতে সে সত্যবাদী নয়।"
+          },
+          {
+            "en": "The word returns two verses later. 49:17 ends: if you are truthful, in kuntum sadiqin, and Ibn Kathir explains it as: in your claim that you are believers. Between the two stands 49:16, asking whether they would inform Allah of their religion when He knows what is in the heavens and the earth. Al-Qurtubi and al-Baghawi report that once these verses came down, the bedouins came swearing by Allah that they were believers, and that revelation came again in answer. The name truthful is given by the description; an oath does not earn it.",
+            "bn": "দুই আয়াত পরে শব্দটি আবার ফিরে আসে। ৪৯:১৭ আয়াত শেষ হয় এভাবে: যদি তোমরা সত্যবাদী হও, ইন কুনতুম সাদিকীন। ইবন কাসীর ব্যাখ্যা করেন: তোমরা যে মু'মিন, সেই দাবিতে। এ দুইয়ের মাঝে ৪৯:১৬ আয়াত, যা প্রশ্ন করে: তোমরা কি আল্লাহকে তোমাদের দ্বীনের খবর দিতে চাও, অথচ আসমান-যমীনে যা আছে সবই তিনি জানেন? কুরতুবী ও বাগাভী বর্ণনা করেন, এই আয়াতগুলো নাযিল হওয়ার পর বেদুঈনরা এসে আল্লাহর নামে কসম খেয়ে বলল যে তারা মু'মিন। তার জবাবে আবার ওহী নাযিল হলো। সত্যবাদী নামটি আসে বর্ণনা পূরণ করে, কসম খেয়ে তা পাওয়া যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Submission and Faith, Weighed",
+          "bn": "ইসলাম আর ঈমান, পাশাপাশি"
+        },
+        "p": [
+          {
+            "en": "Who were the people being answered, and what did they lack? Here the commentators differ, and the difference should be left standing. Ibn Kathir holds that the bedouins of 49:14 were not hypocrites. They were Muslims in whose hearts faith had not yet settled firmly, who claimed a higher grade than the grade they had reached and were taught a lesson for it. He says this agrees with what is reported from Ibn Abbas, Ibrahim an-Nakha'i and Qatada, and is the view Ibn Jarir preferred, and he takes the verse as proof that faith is a higher grade than islam.",
+            "bn": "যাদের জবাব দেওয়া হচ্ছে, তারা কারা ছিল, আর তাদের কী ঘাটতি ছিল? এখানে তাফসীরকারদের মত আলাদা, আর এ মতভেদ মতভেদ হিসেবেই থাকা উচিত। ইবন কাসীরের মতে ৪৯:১৪ আয়াতের বেদুঈনরা মুনাফিক ছিল না। তারা ছিল মুসলিম, তবে ঈমান তখনো তাদের অন্তরে মজবুতভাবে বসেনি। তারা যে স্তরে পৌঁছেছিল, তার চেয়ে উঁচু স্তর দাবি করেছিল, আর সেজন্য তাদের শিক্ষা দেওয়া হয়েছে। তিনি বলেন, ইবন আব্বাস (রাঃ), ইবরাহীম নাখঈ ও কাতাদা থেকে বর্ণিত অর্থের সঙ্গে এটা মেলে, আর ইবন জারীরও এ মতকেই প্রাধান্য দিয়েছেন। এ আয়াতকে তিনি প্রমাণ হিসেবে নেন যে ঈমান ইসলামের চেয়ে উঁচু স্তর।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an describes them more harshly: not sincere believers, who professed Islam to draw on the charity funds. It also reads aslamna in 49:14 in its literal sense of outward surrender, not the technical one, so that in its view the verse does not itself settle the technical difference between islam and iman. In the Shari'ah, it says, the two differ in meaning but complete each other, so that a person cannot be a Muslim without being a believer, or the reverse; a split between them is possible only in the lexical sense, as with the hypocrites.",
+            "bn": "মাআরিফুল কুরআন তাদের বর্ণনা দেয় আরও কঠোরভাবে: তারা খাঁটি মু'মিন ছিল না, সদকার তহবিল থেকে সাহায্য নিতেই ইসলাম প্রকাশ করেছিল। ৪৯:১৪ আয়াতের 'আসলামনা' শব্দকেও এ তাফসীর পড়ে আভিধানিক অর্থে, বাহ্যিক আত্মসমর্পণ হিসেবে, পারিভাষিক অর্থে নয়। তাই তার মতে ইসলাম ও ঈমানের পারিভাষিক পার্থক্য এ আয়াত নিজে মীমাংসা করে না। শরীয়তে, তার ভাষায়, দুটির অর্থ আলাদা হলেও একটি অন্যটিকে পূর্ণ করে। তাই কেউ মু'মিন না হয়ে মুসলিম হতে পারে না, উল্টোটাও না। দুটো আলাদা হওয়া সম্ভব কেবল আভিধানিক অর্থে, যেমন মুনাফিকদের বেলায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Kinds of Believer",
+          "bn": "মু'মিনের তিন রকম"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches one narration to this verse. He relays it from the Musnad of Imam Ahmad, through Abu Sa'id, as words of the Prophet ﷺ that divide the believers of this world into three kinds, the first described in the very terms of this verse. Ibn Kathir gives it no grading, and it could not be checked against a hadith collection for this article, so its wording is not quoted here and nothing rests on it.",
+            "bn": "ইবন কাসীর এ আয়াতের সঙ্গে একটি বর্ণনা যুক্ত করেন। তিনি ইমাম আহমাদের মুসনাদ থেকে, আবু সাঈদ (রাঃ)-এর সূত্রে, নবী ﷺ-এর বাণী হিসেবে এমন একটি বর্ণনা আনেন, যা দুনিয়ার মু'মিনদের তিনটি ভাগে ভাগ করে, আর প্রথম ভাগের বর্ণনা ঠিক এ আয়াতের ভাষাতেই। ইবন কাসীর এর কোনো মান উল্লেখ করেননি, আর এই লেখার জন্য কোনো হাদীস সংকলনে তা মিলিয়ে দেখা যায়নি। তাই এর শব্দ এখানে উদ্ধৃত করা হলো না, কোনো কিছুর ভিত্তিও এর উপর রাখা হলো না।"
+          },
+          {
+            "en": "Ibn Kathir gives no grading for this report, and none of the other commentators read for this verse cites it, so it is given here as the narration he places under the verse, not as an established hadith. No tafsir read for this verse attaches a hadith graded sound to it. What the verse says does not depend on the report. Its own words already name the marks of the people it describes, and its last word, the truthful, names them.",
+            "bn": "ইবন কাসীর এ বর্ণনার কোনো মান উল্লেখ করেননি। এ আয়াতের জন্য পড়া অন্য তাফসীরগুলোর কোনোটিতেও এটি নেই। তাই এখানে এটি দেওয়া হলো তিনি আয়াতের নিচে যে বর্ণনা রেখেছেন সেভাবে, প্রতিষ্ঠিত হাদীস হিসেবে নয়। এ আয়াতের জন্য পড়া কোনো তাফসীর সহীহ বলে মান দেওয়া কোনো হাদীস এর সঙ্গে যুক্ত করেনি। আয়াতের বক্তব্য এ বর্ণনার উপর নির্ভর করে না। যাদের কথা আয়াত বলছে, তাদের চিহ্নগুলো আয়াতের নিজের শব্দেই আছে, আর শেষ শব্দ 'সত্যবাদী' তাদের নাম জানিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Scale Kept by Allah",
+          "bn": "যে দাঁড়িপাল্লা আল্লাহর হাতে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends his comment with a caution. Faith in the heart, he says, is something no one sees but Allah, so asserting it or denying it amounts to informing Allah of what is in the heart, which is poor manners and a poor thought of Allah; the next verse asks exactly that question. This verse holds up a description beside a group, the bedouins answered in 49:14. It describes what the text describes. It gives no licence to declare any living person not a believer, nor to judge desert people or any community by it.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন একটি সতর্কবাণী দিয়ে। তিনি বলেন, অন্তরের ঈমান আল্লাহ ছাড়া কেউ দেখে না। তাই একে প্রতিষ্ঠা করা বা অস্বীকার করা মানে অন্তরে কী আছে সে খবর আল্লাহকে জানাতে যাওয়া, যা বেয়াদবি এবং আল্লাহ সম্পর্কে মন্দ ধারণা। পরের আয়াত ঠিক এই প্রশ্নটাই তোলে। এ আয়াত একটি দলের পাশে, অর্থাৎ ৪৯:১৪ আয়াতে জবাব পাওয়া বেদুঈনদের পাশে, একটি বর্ণনা দাঁড় করায়। আয়াত শুধু তা-ই বর্ণনা করে, যা তার শব্দে আছে। কোনো জীবিত মানুষকে বেঈমান ঘোষণা করার, কিংবা এর ভিত্তিতে গ্রামের বা মরুর মানুষদের অথবা কোনো সম্প্রদায়কে বিচার করার অনুমতি এ আয়াত দেয় না।"
+          },
+          {
+            "en": "So the verse is a mirror held up to its reader. Its measures are not hard to name: belief in Allah and His Messenger, kept without wavering; wealth and self given in His way, in His obedience and for His pleasure; and a claim of faith that deeds have made true, as Ibn Zayd put it. The question it leaves is not whether others are truthful. It is whether \"I believe\", said by me, would be found true when Allah, who knows the unseen of the heavens and the earth, weighs it.",
+            "bn": "তাই আয়াতটি এক আয়না, ধরা হয়েছে পাঠকের নিজের সামনে। এর মাপকাঠিগুলো চিনতে কষ্ট হয় না: আল্লাহ ও তাঁর রসূলের উপর ঈমান, যা টলে না; তাঁর পথে, তাঁর আনুগত্যে ও তাঁর সন্তুষ্টির জন্য মাল ও জান খরচ; আর এমন ঈমানের দাবি, যাকে আমল সত্য প্রমাণ করেছে, যেমনটা ইবন যায়দ বলেছেন। আয়াত যে প্রশ্ন রেখে যায়, তা অন্যরা সত্যবাদী কি না, সেটা নয়। প্রশ্নটা হলো, আসমান ও যমীনের অদৃশ্য যিনি জানেন, সেই আল্লাহ যখন আমার মুখের 'আমি ঈমান এনেছি' কথাটি মাপবেন, তখন কি তা সত্য বলে পাওয়া যাবে?"
+          }
+        ]
+      }
+    ]
   }
 });
