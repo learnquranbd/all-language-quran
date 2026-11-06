@@ -28767,6 +28767,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not stop your ears or cover your face against good counsel; the call you shut out may be the call to your own forgiveness.",
     "lessonBn": "ভালো উপদেশের সামনে কানে আঙুল দেবেন না, মুখও ঢাকবেন না। যে ডাক ঠেকিয়ে রাখছেন, হয়তো সেটাই আপনার নিজের ক্ষমার ডাক।"
+  },
+  "71:18": {
+    "reflectionEn": "Nuh (AS) had just reminded his people that Allah made them grow from the earth. Then he carried the thought one step further: He will return you into it, and bring you out of it again. The ground that gave them their beginning is the ground they would be laid in, and the ground they would rise from. Nothing beyond His first work is needed for the second; the One who began them once will bring them back. The verse makes the grave a passage, not a full stop. Every grave I have stood beside is earth holding what it will one day give back. Do I walk on this earth as someone who expects to be brought out of it, and to answer for how I walked?",
+    "reflectionBn": "নূহ (আঃ) একটু আগেই তাঁর লোকদের মনে করিয়ে দিয়েছেন, আল্লাহ তাদের মাটি থেকে উদগত করেছেন। এবার কথাটাকে তিনি আরেক ধাপ এগিয়ে নিলেন: তিনি তোমাদের আবার এই মাটিতেই ফিরিয়ে দেবেন, তারপর সেখান থেকেই বের করে আনবেন। যে মাটি থেকে তাদের শুরু, সেই মাটিতেই তাদের শোয়ানো হবে, আর সেখান থেকেই তারা উঠবে। দ্বিতীয়বারের জন্য নতুন কিছু লাগে না। যিনি একবার শুরু করেছেন, তিনিই আবার ফিরিয়ে আনবেন। আয়াতটি কবরকে বানায় একটি পথ, শেষ বিন্দু নয়। যত কবরের পাশে আমি দাঁড়িয়েছি, প্রতিটিই এমন মাটি, যা একদিন তার আমানত ফেরত দেবে। আমি কি এই মাটির উপর এমনভাবে হাঁটি, যেন একদিন এখান থেকে আমাকে বের করে আনা হবে, আর কীভাবে হেঁটেছি তার জবাব দিতে হবে?",
+    "pointsEn": [
+      "When I pass a graveyard, do I see only an ending, or ground that will one day be emptied of everyone it holds?",
+      "If I truly expected to be brought out of the earth, what would I stop doing on top of it this week?",
+      "Nuh (AS) reasoned from what his people already saw to what they denied. What do I see every day that should make the return easier for me to believe?",
+      "Who around me never hears this certainty from me, and how could I speak of it with patience rather than scorn?",
+      "When I bury someone I love, do I remember that the One who returned them to the earth has promised to bring them out of it?"
+    ],
+    "pointsBn": [
+      "কবরস্থানের পাশ দিয়ে যাওয়ার সময় আমি কি শুধু সমাপ্তি দেখি, নাকি এমন মাটি দেখি, যা একদিন তার ভেতরের সবাইকে বের করে দেবে?",
+      "সত্যিই যদি বিশ্বাস করতাম যে মাটি থেকে আমাকে বের করে আনা হবে, তাহলে এ সপ্তাহে এই মাটির উপর কোন কাজটা আমি ছেড়ে দিতাম?",
+      "নূহ (আঃ) তাঁর লোকেরা যা চোখে দেখত, তা থেকেই যুক্তি দিয়ে পৌঁছেছেন তারা যা অস্বীকার করত সেখানে। আমি রোজ কী দেখি, যা পুনরুত্থানে বিশ্বাস আমার জন্য সহজ করে দেওয়ার কথা?",
+      "আমার আশপাশে কে আছে, যে আমার মুখে এই দৃঢ় বিশ্বাসের কথা কখনো শোনে না? তাচ্ছিল্য নয়, ধৈর্য নিয়ে কীভাবে তাকে কথাটা বলতে পারি?",
+      "প্রিয় কাউকে দাফন করার সময় কি মনে রাখি, যিনি তাকে মাটিতে ফিরিয়ে দিলেন, তিনিই কথা দিয়েছেন সেখান থেকে তাকে বের করে আনবেন?"
+    ],
+    "lessonEn": "The earth that gave you your beginning will hold you at death and give you back on the Day of Raising; walk on it as one who will be brought out.",
+    "lessonBn": "যে মাটি থেকে আপনার শুরু, মৃত্যুর পর সে-ই আপনাকে ধরে রাখবে, আর পুনরুত্থানের দিন ফিরিয়ে দেবে; তাই এর উপর এমনভাবে চলুন, যেন একদিন এখান থেকে আপনাকে বের করে আনা হবে।"
   }
 };
 

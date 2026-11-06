@@ -591,6 +591,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "71:18": {
+    "sections": [
+      {
+        "h": {
+          "en": "Laid Down, Then Raised",
+          "bn": "শোয়ানো, তারপর ওঠানো"
+        },
+        "p": [
+          {
+            "en": "Thumma yu'idukum fiha wa-yukhrijukum ikhrajan: then He will return you into it, and bring you out with a bringing out. The verse is five Arabic words. Its two verbs are both imperfect, both have Allah as their subject, and both fall on the same you, the people of Nuh (AS) whom he is addressing. The pronoun in fiha, into it, looks back to the earth named in the verse before. At-Tabari and the Muyassar spell it out in their paraphrase: He returns you into the earth.",
+            "bn": "সুম্মা ইউঈদুকুম ফীহা ওয়া ইউখরিজুকুম ইখরাজা: তারপর তিনি তোমাদের তাতেই ফিরিয়ে দেবেন, আর তোমাদের বের করে আনবেন, সত্যিকারের বের করে আনা। আয়াতটি আরবিতে পাঁচ শব্দের। দুটি ক্রিয়াই বর্তমান-ভবিষ্যৎ কালের, দুটিরই কর্তা আল্লাহ, আর দুটিরই লক্ষ্য একই মানুষগুলো: নূহ (আঃ)-এর সেই কওম, যাদের তিনি সম্বোধন করছেন। ফীহা, অর্থাৎ তাতে, শব্দের সর্বনামটি ফিরে যায় আগের আয়াতে উল্লেখিত মাটির দিকে। তাবারী আর মুয়াসসার তাদের ব্যাখ্যায় কথাটা খুলেই বলেছেন: তিনি তোমাদের মাটিতে ফিরিয়ে দেবেন।"
+          },
+          {
+            "en": "The opening thumma, then, ties the verse to 71:17, where Nuh (AS) told them that Allah had caused them to grow from the earth. The Muyassar reads the two verses as one movement of thought: Allah brought your origin into being from the earth, then He returns you into the earth after death, and brings you out on the Day of Raising. Read together, the two verses name three moments of one human story on one ground: a beginning from the earth, a return into it, and a bringing out of it.",
+            "bn": "শুরুর সুম্মা শব্দটি, অর্থাৎ তারপর, আয়াতটিকে বেঁধে দেয় ৭১:১৭-এর সঙ্গে। সেখানে নূহ (আঃ) বলেছিলেন, আল্লাহ তোমাদের মাটি থেকে উদগত করেছেন। মুয়াসসার দুই আয়াতকে পড়েন একটানা এক চিন্তা হিসেবে: আল্লাহ তোমাদের মূলকে মাটি থেকে সৃষ্টি করেছেন, তারপর মৃত্যুর পর তোমাদের মাটিতেই ফিরিয়ে দেন, আর পুনরুত্থানের দিন বের করে আনেন। দুই আয়াত একসঙ্গে পড়লে একই মাটির উপর মানুষের একটি গল্পের তিনটি মুহূর্ত চোখে পড়ে। মাটি থেকে শুরু, মাটিতে ফেরা, আর মাটি থেকে বেরিয়ে আসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Seen to the Unseen",
+          "bn": "দেখা থেকে না-দেখায়"
+        },
+        "p": [
+          {
+            "en": "The verse sits inside a long speech. From 71:13 Nuh (AS) asks his people why they do not hold Allah in due grandeur, and then he lays out the evidence: they were created in stages, the heavens were raised in layers, the moon and the sun were set among them, and they themselves were made to grow from the earth. Ma'arif al-Qur'an, on the verses about the heavens, calls them proof of Divine Oneness and of His power. After 71:18 the speech turns back to the earth, spread out for them with wide roads to travel.",
+            "bn": "আয়াতটি একটি দীর্ঘ বক্তব্যের ভেতরে বসানো। ৭১:১৩ থেকে নূহ (আঃ) তাঁর কওমকে জিজ্ঞেস করেন, আল্লাহর মহিমা তোমরা মানো না কেন? তারপর একে একে প্রমাণ সাজান। তাদের সৃষ্টি হয়েছে স্তরে স্তরে। আসমান উঠেছে একের উপর আরেক। তার মাঝে চাঁদ আর সূর্য বসানো হয়েছে। আর তাদের নিজেদেরকেও মাটি থেকে উদগত করা হয়েছে। মাআরিফুল কুরআন আসমানের আয়াতগুলো নিয়ে বলে, এগুলো আল্লাহর একত্ব আর তাঁর কুদরতের অকাট্য প্রমাণ। ৭১:১৮-এর পর বক্তব্য আবার মাটিতে ফেরে: তোমাদের জন্য তা বিছিয়ে দেওয়া হয়েছে, যাতে তার প্রশস্ত পথে তোমরা চলতে পারো।"
+          },
+          {
+            "en": "What follows is this article's own reading of the order. Nearly every item in the list was something his people could check for themselves. They had seen the sky, the moon and the sun; they knew they had once been small and had grown; they had laid their own dead in the ground. Only the last clause of this verse, the bringing out, lay beyond anything they had watched happen. Nuh (AS) set it among the visible things, under the same Actor. As-Sa'di draws the conclusion in a single line: He is the One who owns life, death and the raising.",
+            "bn": "এরপরের কথাটি এই প্রবন্ধের নিজস্ব পাঠ। তালিকার প্রায় প্রতিটি বিষয় তাঁর কওম নিজেরাই যাচাই করতে পারত। আসমান, চাঁদ, সূর্য তারা দেখেছে। তারা জানত, একদিন তারা ছোট ছিল, তারপর বড় হয়েছে। নিজেদের মৃতদের তারা নিজ হাতে মাটিতে রেখেছে। শুধু এ আয়াতের শেষ অংশ, অর্থাৎ বের করে আনা, এমন কিছু যা তারা কখনো ঘটতে দেখেনি। নূহ (আঃ) সেটাকে দেখা জিনিসগুলোর মাঝেই রাখলেন, একই কর্তার কাজ হিসেবে। সা'দী উপসংহারটা এক বাক্যে টানেন: তিনিই জীবন, মৃত্যু আর পুনরুত্থানের মালিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Returned When You Die",
+          "bn": "মৃত্যুতে মাটির কাছে ফেরা"
+        },
+        "p": [
+          {
+            "en": "On the first verb, yu'idukum fiha, the commentators agree on the moment and differ only in how much they say about it. Ibn Kathir glosses it: when you die. As-Sa'di: at death. Al-Baghawi and the Muyassar: after death. Al-Qurtubi names the means as well: at your death, by burial. None of them reads the return as anything other than the ordinary end of a human life, the body going into the ground. The verse speaks of what every listener in Nuh's audience had already seen happen to someone they knew.",
+            "bn": "প্রথম ক্রিয়া ইউঈদুকুম ফীহা নিয়ে মুফাসসিরগণ মুহূর্তটির ব্যাপারে একমত। পার্থক্য শুধু কে কতটা বলেছেন তাতে। ইবন কাসীর ব্যাখ্যা করেন: যখন তোমরা মারা যাবে। সা'দী বলেন: মৃত্যুর সময়। বাগাভী আর মুয়াসসার বলেন: মৃত্যুর পর। কুরতুবী মাধ্যমটাও উল্লেখ করেন: তোমাদের মৃত্যুর সময়, দাফনের মাধ্যমে। তাঁদের কেউই এই ফেরাকে মানুষের জীবনের স্বাভাবিক সমাপ্তি ছাড়া অন্য কিছু হিসেবে পড়েননি, অর্থাৎ দেহ মাটির ভেতরে যাওয়া। নূহ (আঃ)-এর শ্রোতাদের প্রত্যেকে কোনো না কোনো পরিচিত মানুষের বেলায় এটা ঘটতে দেখেছে।"
+          },
+          {
+            "en": "At-Tabari reads a fuller sense into the return. His paraphrase: then He returns you into the earth as you were dust, and makes you as you were before He created you. For him the return is more than a body placed in a grave; it is a person going back to the state of the earth from which he was taken. His gloss on the previous verse prepares the ground for this, since there he says Allah originated them from the dust of the earth. What came out of dust is made dust again.",
+            "bn": "তাবারী এই ফেরার মধ্যে আরও গভীর অর্থ দেখেন। তাঁর ব্যাখ্যা: তারপর তিনি তোমাদের মাটিতে ফিরিয়ে দেবেন, যেমন তোমরা মাটি ছিলে, আর তোমাদের সৃষ্টির আগে যেমন ছিলে তেমনই বানিয়ে দেবেন। তাঁর কাছে এই ফেরা শুধু কবরে একটা দেহ রাখা নয়। মানুষ ফিরে যায় সেই মাটির অবস্থায়, যেখান থেকে তাকে নেওয়া হয়েছিল। আগের আয়াতে তাঁর ব্যাখ্যা এর জমি তৈরি করে রেখেছে। সেখানে তিনি বলেন, আল্লাহ তোমাদের মাটির ধুলা থেকে সৃষ্টি করেছেন। যা ধুলা থেকে এসেছিল, তাকে আবার ধুলা বানানো হয়।"
+          },
+          {
+            "en": "Al-Qurtubi's word, burial, and at-Tabari's word, dust, are not rival readings. The first describes the return as the living see it from the graveside; the second describes what the return finally makes of the one returned. Neither commentator sets his gloss against another's, and this article takes them as two views of one event. Together they keep the verse honest about death: it is a going down into the ground, and then a becoming part of it.",
+            "bn": "কুরতুবীর শব্দ দাফন আর তাবারীর শব্দ মাটি, এ দুটি পরস্পরবিরোধী পাঠ নয়। প্রথমটি ফেরাকে দেখায় কবরের পাশে দাঁড়ানো জীবিত মানুষের চোখে। দ্বিতীয়টি বলে, যাকে ফেরানো হলো, শেষ পর্যন্ত তার কী দশা হয়। কোনো মুফাসসির নিজের ব্যাখ্যাকে অন্যের বিপরীতে দাঁড় করাননি। এই প্রবন্ধ দুটিকে একই ঘটনার দুই দিক হিসেবে নিচ্ছে। দুটি মিলে মৃত্যুর ব্যাপারে আয়াতটিকে সৎ রাখে: প্রথমে মাটির ভেতরে নেমে যাওয়া, তারপর মাটিরই অংশ হয়ে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Bringing Out Made Certain",
+          "bn": "নিশ্চিত এক বের করে আনা"
+        },
+        "p": [
+          {
+            "en": "The second clause follows its verb with a noun from the verb's own root: wa-yukhrijukum ikhrajan, and He will bring you out, a bringing out. The grammarians call such a noun a masdar, a verbal noun, and placed after its verb it adds weight. The Muyassar shows what weight it carries here. Its paraphrase reads: and He brings you out on the Day of Raising ikhrajan muhaqqaqan, a bringing out made real and certain. On that reading the repeated root is a seal on the promise: this will happen, not merely might.",
+            "bn": "দ্বিতীয় অংশে ক্রিয়ার পরে এসেছে একই ধাতুর একটি বিশেষ্য: ওয়া ইউখরিজুকুম ইখরাজা, আর তিনি তোমাদের বের করে আনবেন, বের করে আনার মতো করে। ব্যাকরণবিদেরা এমন শব্দকে মাসদার বলেন, অর্থাৎ ক্রিয়াবাচক বিশেষ্য। ক্রিয়ার পরে বসলে তা কথায় জোর যোগ করে। এখানে জোরটা কতখানি, মুয়াসসার তা দেখিয়ে দেয়। তার ব্যাখ্যা: আর তিনি পুনরুত্থানের দিন তোমাদের বের করে আনবেন ইখরাজান মুহাক্কাকান, অর্থাৎ বাস্তব ও নিশ্চিতভাবে বের করে আনা। এই পাঠে একই ধাতুর পুনরাবৃত্তি প্রতিশ্রুতির উপর সিলমোহর। এটা ঘটবেই, শুধু ঘটতে পারে এমন নয়।"
+          },
+          {
+            "en": "The other commentators say what the bringing out is, when it comes and in what state. Al-Qurtubi: by the nushur, the rising up, for the raising on the Day of Resurrection. As-Sa'di: for the ba'th and the nushur, the raising and the rising. Al-Baghawi: out of it, on the Day of Raising, alive. Ibn Kathir: on the Day of Resurrection He will bring you back as He began you the first time. At-Tabari: He brings you out of it alive, when He wills, as you were human beings before He returned you into it and made you dust.",
+            "bn": "অন্য মুফাসসিরগণ বলেন, এই বের করে আনা কী, কখন, আর কোন অবস্থায়। কুরতুবী বলেন: নুশূরের মাধ্যমে, অর্থাৎ উঠে দাঁড়ানো, কিয়ামতের দিন পুনরুত্থানের জন্য। সা'দী বলেন: বা'স আর নুশূরের জন্য, অর্থাৎ পুনরুত্থান আর উঠে দাঁড়ানো। বাগাভী বলেন: সেখান থেকে, পুনরুত্থানের দিন, জীবিত অবস্থায়। ইবন কাসীর বলেন: কিয়ামতের দিন তিনি তোমাদের আবার সৃষ্টি করবেন, যেমন প্রথমবার শুরু করেছিলেন। তাবারী বলেন: তিনি যখন চাইবেন, তোমাদের জীবিত বের করে আনবেন, যেমন তোমরা মাটিতে ফেরার আগে, ধুলা হয়ে যাওয়ার আগে মানুষ ছিলে।"
+          },
+          {
+            "en": "Al-Baghawi and at-Tabari both supply the word alive, ahya'an, and at-Tabari adds the word human beings, bashar. The ones brought out are not remains, and not a shadow of the people who went in; they are the same people, living, made again what they were. Ibn Kathir's phrase carries the same weight: the second making repeats the first. The noun ikhrajan, read with these glosses, does not soften the promise into a figure of speech. It insists on it.",
+            "bn": "বাগাভী আর তাবারী দুজনেই আহইয়া, অর্থাৎ জীবিত, শব্দটি যোগ করেছেন। তাবারী আরও যোগ করেছেন বাশার, অর্থাৎ মানুষ। যাদের বের করে আনা হবে, তারা দেহাবশেষ নয়, যারা মাটিতে গিয়েছিল তাদের ছায়াও নয়। তারা সেই একই মানুষ, জীবিত, আবার আগের মতো বানানো। ইবন কাসীরের কথাতেও একই ভার: দ্বিতীয় সৃষ্টি প্রথমটিরই পুনরাবৃত্তি। এই ব্যাখ্যাগুলোর আলোয় পড়লে ইখরাজা শব্দটি প্রতিশ্রুতিকে নিছক উপমায় নামিয়ে আনে না। বরং তার উপর জোর দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nabatan Beside Ikhrajan",
+          "bn": "নাবাতা আর ইখরাজা পাশাপাশি"
+        },
+        "p": [
+          {
+            "en": "Set beside the verse before it, the masdar here stands out for being regular. In 71:17 the verb is anbatakum, He made you grow, but the noun after it is nabatan rather than the expected inbatan. Al-Qurtubi and al-Baghawi both note this, and both relay al-Khalil's explanation that the sense is: He made you grow, so you grew, a growing. Ibn Kathir calls nabatan a noun standing in for the masdar and says its use there is most fitting. In 71:18 the noun ikhrajan is the verb's own masdar, matched exactly.",
+            "bn": "আগের আয়াতের পাশে রাখলে এখানকার মাসদারটি চোখে পড়ে তার নিয়মমাফিক গঠনের জন্য। ৭১:১৭-এ ক্রিয়া আনবাতাকুম, অর্থাৎ তিনি তোমাদের উদগত করেছেন। কিন্তু তার পরের বিশেষ্যটি প্রত্যাশিত ইনবাতা নয়, নাবাতা। কুরতুবী আর বাগাভী দুজনেই এটা লক্ষ করেছেন, আর দুজনেই খলীলের ব্যাখ্যা উদ্ধৃত করেছেন। তার অর্থ: তিনি তোমাদের উদগত করলেন, ফলে তোমরা উদগত হলে। ইবন কাসীর নাবাতাকে বলেন মাসদারের জায়গায় বসানো বিশেষ্য, আর বলেন সেখানে এর ব্যবহারই সবচেয়ে সুন্দর। ৭১:১৮-এ ইখরাজা হুবহু ক্রিয়াটিরই নিজস্ব মাসদার।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse remarks on the contrast, so what follows is this article's own observation. In al-Khalil's paraphrase of the first verse, the people take part in what happens: He made them grow, so they grew. The second verse describes no such part. They do not come out; they are brought out, and the noun that seals the clause belongs to the verb of His act alone. Between the two verses the people move from growing, under His making, to being raised by Him with nothing of their own to add.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এই পার্থক্য নিয়ে কিছু বলেনি। তাই নিচের কথাটি এই প্রবন্ধের নিজস্ব পর্যবেক্ষণ। প্রথম আয়াতের যে ব্যাখ্যা খলীল দিয়েছেন, তাতে মানুষগুলোর নিজেদেরও একটা ভূমিকা আছে। তিনি উদগত করলেন, আর তারা উদগত হলো। দ্বিতীয় আয়াতে এমন কোনো ভূমিকা নেই। তারা নিজেরা বেরিয়ে আসে না, তাদের বের করে আনা হয়। অংশটির শেষে যে বিশেষ্য, তা কেবল তাঁর কাজের ক্রিয়া থেকেই এসেছে। দুই আয়াতের মাঝে মানুষ তাঁর সৃষ্টিতে বেড়ে ওঠা থেকে পৌঁছে যায় এমন উত্থানে, যাতে তাদের নিজেদের যোগ করার কিছু নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Three Steps Elsewhere",
+          "bn": "অন্য সূরায় একই তিন ধাপ"
+        },
+        "p": [
+          {
+            "en": "The Qur'an gathers the same three moments in a single verse at 20:55: from it We created you, and into it We will return you, and from it We will bring you out another time. None of the commentaries fetched on 71:18 cites that verse, so setting the two side by side is this article's own cross-reference. The match is close. The same earth stands at the centre, the return uses the same verb, nu'idukum beside yu'idukum, and the bringing out uses the same verb again, nukhrijukum beside yukhrijukum, placed last in both.",
+            "bn": "কুরআন একই তিনটি মুহূর্ত এক আয়াতে একসঙ্গে এনেছে ২০:৫৫-এ: মাটি থেকেই আমি তোমাদের সৃষ্টি করেছি, তাতেই তোমাদের ফিরিয়ে নেব, আর তা থেকেই তোমাদের আবার বের করব। ৭১:১৮-এর জন্য দেখা কোনো তাফসীর ওই আয়াতের উল্লেখ করেনি। তাই দুটিকে পাশাপাশি রাখা এই প্রবন্ধের নিজস্ব সংযোগ। মিলটা খুবই কাছাকাছি। কেন্দ্রে একই মাটি। ফেরানোর জন্য একই ক্রিয়া, সেখানে নুঈদুকুম, এখানে ইউঈদুকুম। বের করে আনার জন্যও একই ক্রিয়া, সেখানে নুখরিজুকুম, এখানে ইউখরিজুকুম, আর দুই জায়গাতেই সেটি সবার শেষে।"
+          },
+          {
+            "en": "One difference, again this article's own observation, is how each verse marks the second life. In 20:55 the phrase taratan ukhra, another time, says it outright. In 71:18 the work is done by the masdar ikhrajan, which the Muyassar reads as a bringing out made certain. The two verses arrive at the same assurance by different words. Ibn Kathir's gloss on 71:18 names the logic underneath both: He will bring you back as He began you the first time. The beginning is the pledge of the return.",
+            "bn": "একটা পার্থক্যও আছে, আর এটাও এই প্রবন্ধের নিজস্ব পর্যবেক্ষণ। দ্বিতীয় জীবনকে দুই আয়াত চিহ্নিত করেছে দুইভাবে। ২০:৫৫-এ তারাতান উখরা, অর্থাৎ আরেকবার, কথাটা সোজাসুজি বলে দেয়। ৭১:১৮-এ সেই কাজ করে মাসদার ইখরাজা, যাকে মুয়াসসার পড়েছে নিশ্চিত বের করে আনা হিসেবে। ভিন্ন শব্দে দুই আয়াত একই আশ্বাসে পৌঁছায়। দুটির ভেতরের যুক্তিটা ইবন কাসীর ৭১:১৮-এর ব্যাখ্যায় নাম ধরে বলেছেন: তিনি তোমাদের আবার সৃষ্টি করবেন, যেমন প্রথমবার শুরু করেছিলেন। প্রথম শুরুটাই ফিরে আসার জামানত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain, Then Bodies Growing",
+          "bn": "বৃষ্টি, তারপর দেহের উদগম"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it. There is a general narration about the bringing out of the dead, which none of these commentators ties to 71:18. Al-Bukhari records it in his Sahih from Abu Hurayrah (RA): the Messenger of Allah ﷺ said, between the two blasts is forty. Someone asked: forty days? He said: I decline to say. Forty months? I decline. Forty years? I decline. Then Allah sends down water from the sky, and they grow as green herbs grow.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। মৃতদের বের করে আনা নিয়ে একটি সাধারণ বর্ণনা আছে, যা এই মুফাসসিরদের কেউ ৭১:১৮-এর সঙ্গে জোড়েননি। বুখারী তাঁর সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে এটি বর্ণনা করেছেন: রাসূলুল্লাহ ﷺ বলেছেন, দুই ফুঁৎকারের মাঝে চল্লিশ। কেউ জিজ্ঞেস করল: চল্লিশ দিন? তিনি বললেন: আমি বলতে অস্বীকার করছি। চল্লিশ মাস? আমি অস্বীকার করছি। চল্লিশ বছর? আমি অস্বীকার করছি। তারপর আল্লাহ আকাশ থেকে পানি নামাবেন, আর তারা উদগত হবে, যেমন শাকসবজি উদগত হয়।"
+          },
+          {
+            "en": "The narration continues: there is nothing of a human being that does not decay except one bone, the base of the tailbone, and from it the creation will be assembled on the Day of Resurrection (Sahih al-Bukhari 4935). The one who declines in the exchange is Abu Hurayrah, who would not specify the forty. This article notes, as its own observation, that the narration's verb for the rising, yanbutun, comes from the same root as nabatan in 71:17. It claims no more from the wording than the wording says.",
+            "bn": "বর্ণনাটি এগিয়ে চলে: মানুষের দেহের একটি হাড় ছাড়া সবকিছুই পচে যায়। সেটি মেরুদণ্ডের একেবারে নিচের ছোট্ট হাড়, আর কিয়ামতের দিন তা থেকেই সৃষ্টিকে আবার জোড়া লাগানো হবে (সহীহ বুখারী ৪৯৩৫)। প্রশ্নোত্তরে যিনি বলতে অস্বীকার করছিলেন, তিনি আবু হুরায়রা (রাঃ)। চল্লিশ কিসের, তা তিনি নির্দিষ্ট করে বলেননি। এই প্রবন্ধ নিজস্ব পর্যবেক্ষণ হিসেবে শুধু এটুকু লক্ষ করে: উত্থান বোঝাতে বর্ণনাটি যে ক্রিয়া ব্যবহার করেছে, ইয়ানবুতূন, তা ৭১:১৭-এর নাবাতা শব্দেরই ধাতু থেকে এসেছে। শব্দগুলো যা বলে, তার বেশি কিছু এখান থেকে দাবি করা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to a Drowned People",
+          "bn": "ডুবে যাওয়া এক কওমের প্রতি"
+        },
+        "p": [
+          {
+            "en": "These words were first addressed to Nuh's own people, who, as the surah goes on to say at 71:25, were drowned because of their sins. The verse describes what the text describes: a prophet reasoning with his people about where they came from and where they would go. It licenses nothing against any living person or community. It gives no one a warrant to treat those who doubt the resurrection today as that people, or to speak to them with anything but the patience of a man still reasoning with his own.",
+            "bn": "এই কথাগুলো প্রথমে বলা হয়েছিল নূহ (আঃ)-এর নিজের কওমকে। সূরাটি সামনে ৭১:২৫-এ জানায়, তাদের গুনাহের কারণে তাদের ডুবিয়ে দেওয়া হয়েছিল। আয়াতটি শুধু তা-ই বর্ণনা করে, যা পাঠে আছে: একজন নবী তাঁর কওমকে যুক্তি দিয়ে বোঝাচ্ছেন, তারা কোথা থেকে এসেছে আর কোথায় যাবে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে আয়াতটি কিছুরই অনুমতি দেয় না। আজ যারা পুনরুত্থানে সন্দেহ করে, তাদের ওই কওমের মতো গণ্য করার অধিকারও কাউকে দেয় না। তাদের সঙ্গে কথা বলতে হবে সেই ধৈর্য নিয়েই, যে ধৈর্য নিয়ে একজন মানুষ নিজের লোকদের বোঝাতে থাকেন।"
+          },
+          {
+            "en": "The next verse, 71:19, turns to the earth as a spread carpet with roads for travel. Placed after this one, it gives the reader a thought to carry, which is this article's own: the ground we walk on each day is the ground that grew us, the ground we will be laid in, and the ground we will be brought out of. The same surface is road, grave and place of rising. Nothing about a walk across it is spiritually neutral once the verse has been heard.",
+            "bn": "পরের আয়াত ৭১:১৯ মাটির কথা বলে বিছানো বিছানার মতো, যাতে চলার পথ আছে। এই আয়াতের পরে সেটি বসায় পাঠকের মনে একটা ভাবনা জাগে, যা এই প্রবন্ধের নিজস্ব। যে মাটির উপর রোজ আমরা হাঁটি, সেই মাটি থেকেই আমাদের উদগম, তাতেই আমাদের শোয়ানো হবে, আর সেখান থেকেই বের করে আনা হবে। একই জমিন একাধারে রাস্তা, কবর আর উত্থানের জায়গা। আয়াতটি শোনার পর এর উপর দিয়ে হাঁটা আর কোনো সাধারণ ব্যাপার থাকে না।"
+          },
+          {
+            "en": "That is the reflection the verse leaves. Burying someone becomes an act of entrusting rather than of losing, since al-Baghawi and at-Tabari both say that the one returned into the earth is brought out of it alive. Passing a graveyard becomes a reminder that the ground is holding people until the day of their bringing out. And living becomes a matter of walking well, since the walker will stand up again from the same soil and be asked about the walk.",
+            "bn": "আয়াতটি যে ভাবনা রেখে যায়, তা এই। কাউকে দাফন করা তখন হারানো নয়, আমানত রাখা। কারণ বাগাভী আর তাবারী দুজনেই বলেন, যাকে মাটিতে ফেরানো হয় তাকে সেখান থেকে জীবিত বের করে আনা হবে। কবরস্থানের পাশ দিয়ে যাওয়া তখন মনে করিয়ে দেয়, মাটি মানুষগুলোকে ধরে রেখেছে তাদের বের করে আনার দিন পর্যন্ত। আর বেঁচে থাকা মানে তখন ভালোভাবে হাঁটা। কারণ যে হাঁটছে, সে একই মাটি থেকে আবার উঠে দাঁড়াবে, আর তার হাঁটার হিসাব দেবে।"
+          }
+        ]
+      }
+    ]
+  },
   "71:21": {
     "sections": [
       {
