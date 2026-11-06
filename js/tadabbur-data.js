@@ -27649,6 +27649,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Measure everything you rely on by whether it can truly help or harm, and give your worship and your oaths to Allah alone, who alone answers.",
     "lessonBn": "যার উপর ভরসা করেন, তা সত্যিই উপকার বা ক্ষতি করতে পারে কি না, সেই মাপকাঠিতে যাচাই করুন। ইবাদত আর কসম শুধু আল্লাহর জন্য রাখুন, কারণ সাড়া দেন একমাত্র তিনিই।"
+  },
+  "53:10": {
+    "reflectionEn": "Five Arabic words, and one verb said twice: so he revealed to His servant what he revealed. The verses before it bring the angel near, two bow lengths or nearer. Then, at the closest point, the verse names who received and leaves the gift itself unnamed. It does not list what was given; it points at it and lets its weight stand. Not everything great is spelled out. And at that moment of nearness, the Prophet ﷺ is called by one title only: His servant. Can I accept what Allah has chosen not to explain, without filling the silence with guesses of my own? And do I carry the name of His servant as an honour, or only as a burden?",
+    "reflectionBn": "আরবিতে মাত্র পাঁচটি শব্দ, তার মধ্যে একটি ক্রিয়া দুবার: অতঃপর তিনি তাঁর বান্দার প্রতি ওয়াহী করলেন, যা ওয়াহী করার ছিল। আগের আয়াতগুলো ফেরেশতাকে কাছে নিয়ে আসে, দুই ধনুকের ব্যবধান কিংবা তারও কম। ঠিক সেই সবচেয়ে কাছের মুহূর্তে আয়াতটি বলে দেয় কে পেলেন, কিন্তু কী পেলেন তা বলে না। দানের তালিকা নেই। শুধু ইশারা করে, আর তার ভারটুকু রেখে দেয়। সব বড় জিনিস খুলে বলা হয় না। আর নৈকট্যের সেই মুহূর্তে নবী ﷺ-কে ডাকা হয় একটিমাত্র পরিচয়ে: তাঁর বান্দা। আল্লাহ যা ব্যাখ্যা না করে রেখেছেন, নিজের আন্দাজ দিয়ে সেই নীরবতা না ভরিয়ে আমি কি তা মেনে নিতে পারি? আর তাঁর বান্দা পরিচয়টাকে আমি কি সম্মান হিসেবে বহন করি, নাকি শুধু বোঝা হিসেবে?",
+    "pointsEn": [
+      "When the Qur'an leaves a detail unexplained, do I rest with that, or do I reach for stories to fill the gap?",
+      "Which of Allah's past kindnesses to me could I name today if I sat down and counted them one by one?",
+      "Do I hear the word servant, said of me before Allah, as a lowering or as the highest title I could carry?",
+      "When I pass on something about revelation, do I keep apart what the text says and what people have added around it?",
+      "What part of what reached me through the Prophet ﷺ have I received and believed, but not yet acted on?"
+    ],
+    "pointsBn": [
+      "কুরআন যখন কোনো খুঁটিনাটি ব্যাখ্যা না করে রেখে দেয়, আমি কি তাতেই স্থির থাকি, নাকি ফাঁকটা ভরাতে নানা কাহিনি টেনে আনি?",
+      "আজ বসে এক এক করে গুনলে আমার প্রতি আল্লাহর আগের কোন কোন অনুগ্রহের নাম আমি বলতে পারব?",
+      "আল্লাহর সামনে নিজেকে বান্দা বলা হলে আমি কি একে ছোট হওয়া মনে করি, নাকি আমার বহনযোগ্য সবচেয়ে বড় উপাধি?",
+      "ওয়াহী সম্পর্কে কিছু অন্যকে জানানোর সময় মূল পাঠ কী বলে আর মানুষ তার চারপাশে কী জুড়ে দিয়েছে, এ দুটো কি আমি আলাদা রাখি?",
+      "নবী ﷺ-এর মাধ্যমে যা আমার কাছে পৌঁছেছে, তার কোন অংশ আমি গ্রহণ করেছি, বিশ্বাসও করেছি, কিন্তু এখনো আমলে আনিনি?"
+    ],
+    "lessonEn": "Receive revelation as a gift too great to be fully described, accept what Allah leaves unexplained without inventing detail, and carry the name of His servant as an honour.",
+    "lessonBn": "ওয়াহীকে গ্রহণ করুন এমন এক দান হিসেবে, যা পুরোপুরি বর্ণনা করা যায় না। আল্লাহ যা ব্যাখ্যা না করে রেখেছেন, তাতে নিজের বানানো খুঁটিনাটি জুড়বেন না। আর তাঁর বান্দা পরিচয়কে সম্মান হিসেবে বহন করুন।"
   }
 };
 

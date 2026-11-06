@@ -455,6 +455,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "53:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Approach Arrives",
+          "bn": "কাছে আসার শেষ বিন্দু"
+        },
+        "p": [
+          {
+            "en": "Fa-awha ila 'abdihi ma awha: so he revealed to His servant what he revealed. Five Arabic words, and the verb awha, he revealed, stands at both ends. The verses before it close a distance step by step. He who is intense in strength rose while on the higher horizon (53:6, 53:7), then drew near and came down (53:8), until he was two bow lengths away or nearer (53:9). The particle fa joins this verse to that approach: the nearness led somewhere, and here is where.",
+            "bn": "ফাআওহা ইলা আবদিহী মা আওহা: অতঃপর তিনি তাঁর বান্দার প্রতি ওয়াহী করলেন, যা ওয়াহী করার ছিল। আরবিতে পাঁচটি শব্দ, আর আওহা ক্রিয়াটি দাঁড়িয়ে আছে দুই প্রান্তে। আগের আয়াতগুলো ধাপে ধাপে দূরত্ব কমিয়ে আনে। মহাশক্তিধর সেই সত্তা ঊর্ধ্ব দিগন্তে থাকা অবস্থায় স্থির হলেন (৫৩:৬ ও ৫৩:৭)। তারপর কাছে এলেন, আরও নেমে এলেন (৫৩:৮)। শেষে দূরত্ব দাঁড়াল দুই ধনুক, কিংবা তারও কম (৫৩:৯)। ফা অব্যয়টি এ আয়াতকে সেই কাছে আসার সঙ্গে জুড়ে দেয়। নৈকট্য অকারণে ছিল না, তা গিয়ে পৌঁছাল এখানে।"
+          },
+          {
+            "en": "After it the surah turns to the heart that did not lie about what it saw (53:11), and the question of what was seen opens there, not here. Earlier the surah has said that his speech is nothing but revelation revealed (53:4), and the reflection on that verse traces the chain from Lord to angel to Messenger. This article stays with the five words: who is the subject of awha, whom 'abdihi names, and why the object is left as ma, what. No tafsir consulted gives an occasion of revelation for the verse.",
+            "bn": "এরপর সূরাটি চলে যায় সেই অন্তরের কথায়, যা দেখেছে তা নিয়ে যে মিথ্যা বলেনি (৫৩:১১)। কী দেখা হয়েছিল, সে প্রশ্ন খোলে সেখানে, এখানে নয়। তার আগে সূরা বলেছে, তাঁর কথা ওয়াহী ছাড়া আর কিছু নয় (৫৩:৪)। রব থেকে ফেরেশতা হয়ে রাসূল পর্যন্ত ধারাটি সেই আয়াতের আলোচনায় দেখানো হয়েছে। এ লেখা থাকবে এই পাঁচ শব্দের ভেতরেই। আওহা ক্রিয়ার কর্তা কে, আবদিহী কাকে বোঝায়, আর কর্মটিকে কেন শুধু মা, অর্থাৎ যা, বলে রেখে দেওয়া হলো। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতে এ আয়াতের শানে নুযূল নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Cast Swiftly",
+          "bn": "দ্রুত পৌঁছে দেওয়া বাণী"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi defines wahy, pointing back to his earlier explanation of the word: it is the casting of a thing quickly, ilqa' ash-shay' bi-sur'a, and he cites the Arab cry al-waha al-waha, haste, haste. The word passes from giver to receiver without delay. Before he discusses who revealed, al-Qurtubi names the purpose of the verse in a single word: tafkhim, a magnifying of the revelation that was given to him. The repetition of awha is where that magnifying is heard.",
+            "bn": "কুরতুবী ওয়াহীর সংজ্ঞা দেন, আর মনে করিয়ে দেন যে শব্দটির ব্যাখ্যা আগেও এসেছে। ওয়াহী মানে কোনো কিছু দ্রুত পৌঁছে দেওয়া, ইলকাউশ শাই বিসুরআ। প্রমাণ হিসেবে তিনি আরবদের একটি ডাক উল্লেখ করেন: আল-ওয়াহা আল-ওয়াহা, অর্থাৎ জলদি, জলদি। কথাটা দাতার কাছ থেকে গ্রহীতার কাছে যায় কোনো দেরি না করে। কে ওয়াহী করলেন, সে আলোচনায় যাওয়ার আগেই কুরতুবী আয়াতের উদ্দেশ্য বলে দেন এক শব্দে: তাফখীম। মানে, তাঁর প্রতি যে ওয়াহী এসেছিল তার মহিমা বড় করে তোলা। আওহা শব্দের পুনরাবৃত্তিতেই সেই মহিমা শোনা যায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an calls the phrase ma awha obscure or vague, and explains that ma is sometimes used for honour, wonder or grandeur, or for emphasis; here, it says, it marks the majestic status of revelation. At-Tabari, within the reading that has Allah revealing, allows ma two senses. It may mean alladhi, that which: he revealed to His servant that which his Lord revealed to him. Or it may stand for the verbal noun, so that the sense is His revealing itself. As-Sa'di names the content only in general: the great law and the upright news.",
+            "bn": "মাআরিফুল কুরআন মা আওহা কথাটিকে বলে অস্পষ্ট বা অনির্দিষ্ট। সেখানে ব্যাখ্যা আছে, মা কখনো আসে সম্মান, বিস্ময় বা বিশালতা বোঝাতে, কখনো জোর দিতে। এখানে, মাআরিফের ভাষায়, তা ওয়াহীর মহিমান্বিত মর্যাদার দিকে ইশারা করে। তাবারী যে পাঠে আল্লাহকে ওয়াহীদাতা ধরা হয়, তার ভেতরে মা শব্দের দুই রকম অর্থ মেনে নেন। এক, তা আল্লাযী, অর্থাৎ যা: তিনি তাঁর বান্দার প্রতি ওয়াহী করলেন, যা তার রব তার প্রতি ওয়াহী করেছিলেন। দুই, তা ক্রিয়াবাচক বিশেষ্যের অর্থে, তখন মানে দাঁড়ায় তাঁর ওয়াহী করাটাই। সা'দী বিষয়বস্তুর নাম দেন শুধু সাধারণভাবে: মহান শরীআত আর সঠিক সংবাদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Answers to Who Revealed",
+          "bn": "কে কার প্রতি: তিনটি উত্তর"
+        },
+        "p": [
+          {
+            "en": "The verb has no named subject, and here the commentators divide. At-Tabari opens with the words: the people of interpretation differed. Some read it as Allah revealing to His servant Muhammad ﷺ His revelation, and at-Tabari gives this through 'Ikrimah from Ibn 'Abbas: His servant is Muhammad ﷺ, what his Lord revealed to him. Al-Qurtubi gives the same as the meaning, Allah the Exalted revealed to His servant Muhammad ﷺ, and al-Baghawi opens with it too: he revealed, that is, Allah revealed.",
+            "bn": "ক্রিয়ার কর্তার নাম আয়াতে নেই, আর এখানেই তাফসীরকারদের পথ আলাদা হয়ে যায়। তাবারী শুরু করেন এই কথায়: ব্যাখ্যাকারেরা এতে মতভেদ করেছেন। একদলের পাঠে, আল্লাহ তাঁর বান্দা মুহাম্মাদ ﷺ-এর প্রতি তাঁর ওয়াহী পাঠালেন। তাবারী এ মত আনেন ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে: তাঁর বান্দা হলেন মুহাম্মাদ ﷺ, আর যা ওয়াহী হলো তা তাঁর রব তাঁর প্রতি পাঠিয়েছেন। কুরতুবীও অর্থ হিসেবে এটাই দেন: মহান আল্লাহ তাঁর বান্দা মুহাম্মাদ ﷺ-এর প্রতি ওয়াহী করলেন। বাগাভীও শুরু করেন এ দিয়েই: ওয়াহী করলেন, অর্থাৎ আল্লাহ।"
+          },
+          {
+            "en": "Several who make Allah the subject add the means. The Muyassar says Allah, glorified and exalted, revealed to His servant Muhammad ﷺ what He revealed through Jibril (AS). As-Sa'di puts it the same way: Allah revealed, by means of Jibril, to His servant Muhammad ﷺ. Ma'arif al-Qur'an says that the hidden subject of awha and the pronoun in 'abdihi both refer to Allah, and that the revelation came through the medium of Jibril. On this reading the angel of the previous verses is still present, as the carrier rather than the one who reveals.",
+            "bn": "আল্লাহকে কর্তা ধরেন এমন কয়েকজন মাধ্যমের কথাও যোগ করেন। মুয়াসসার বলে, মহান পবিত্র আল্লাহ জিবরাঈল (আঃ)-এর মাধ্যমে তাঁর বান্দা মুহাম্মাদ ﷺ-এর প্রতি যা ওয়াহী করার, তা ওয়াহী করলেন। সা'দীও একই কথা বলেন: আল্লাহ জিবরাঈলের মাধ্যমে তাঁর বান্দা মুহাম্মাদ ﷺ-এর প্রতি ওয়াহী করলেন। মাআরিফুল কুরআনের মতে আওহা ক্রিয়ার উহ্য কর্তা আর আবদিহী শব্দের সর্বনাম, দুটোই আল্লাহকে বোঝায়, আর ওয়াহী এসেছে জিবরাঈলের মাধ্যমে। এ পাঠে আগের আয়াতগুলোর ফেরেশতা দৃশ্য থেকে সরে যান না। তবে তিনি এখানে বাহক, ওয়াহীদাতা নন।"
+          },
+          {
+            "en": "The second reading makes Jibril the subject. At-Tabari reports through Qatada that al-Hasan said: Jibril. Ar-Rabi' said: on the tongue of Jibril. Ibn Zayd said: Jibril revealed to the Messenger of Allah ﷺ what Allah had revealed to him. Al-Qurtubi names ar-Rabi', al-Hasan, Ibn Zayd and Qatada for it, and al-Baghawi names Ibn 'Abbas in the narration of 'Ata', with al-Kalbi, al-Hasan, ar-Rabi' and Ibn Zayd. So Ibn 'Abbas is reported on both sides, by different narrators. Al-Qurtubi adds a third view with qila, it is said: Allah revealed to His servant Jibril.",
+            "bn": "দ্বিতীয় পাঠে কর্তা জিবরাঈল। তাবারী কাতাদার সূত্রে বর্ণনা করেন, হাসান বলেছেন: জিবরাঈল। রাবী বলেছেন: জিবরাঈলের মুখে। ইবন যায়দ বলেছেন: আল্লাহ তাঁর প্রতি যা ওয়াহী করেছিলেন, জিবরাঈল তা আল্লাহর রাসূল ﷺ-এর প্রতি ওয়াহী করলেন। কুরতুবী এ মতের পক্ষে রাবী, হাসান, ইবন যায়দ ও কাতাদার নাম নেন। বাগাভী নাম নেন আতার বর্ণনায় ইবন আব্বাস (রাঃ)-এর, সঙ্গে কালবী, হাসান, রাবী ও ইবন যায়দের। অর্থাৎ ভিন্ন ভিন্ন বর্ণনাকারীর সূত্রে ইবন আব্বাস (রাঃ)-কে দুই পক্ষেই পাওয়া যায়। কুরতুবী 'বলা হয়' কথাটি দিয়ে তৃতীয় একটি মতও আনেন: আল্লাহ তাঁর বান্দা জিবরাঈলের প্রতি ওয়াহী করলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reasons Given on Each Side",
+          "bn": "দুই পক্ষের যুক্তি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states his preference and his reason. The sounder of the two sayings, he writes, is that Jibril revealed to His servant Muhammad ﷺ what his Lord had revealed to him. The surah opened with a report about the Messenger of Allah ﷺ and about Jibril (AS), this verse runs within that context, and nothing has come to show that the report has turned away from the two of them. His argument is continuity: the subject of the preceding verbs carries on until something signals a change.",
+            "bn": "তাবারী নিজের পছন্দ আর তার কারণ দুটোই জানান। তাঁর ভাষায়, দুই মতের মধ্যে বেশি সঠিক হলো: জিবরাঈল তাঁর বান্দা মুহাম্মাদ ﷺ-এর প্রতি তা-ই ওয়াহী করলেন, যা তাঁর রব তাঁর প্রতি ওয়াহী করেছিলেন। কারণ সূরার শুরু থেকে কথা চলছে আল্লাহর রাসূল ﷺ আর জিবরাঈল (আঃ)-কে নিয়ে। এ আয়াত সেই ধারারই অংশ, আর কথাটা যে তাঁদের দুজনের দিক থেকে অন্য দিকে ঘুরে গেছে, এমন কোনো ইঙ্গিত আসেনি। তাঁর যুক্তি ধারাবাহিকতার। আগের ক্রিয়াগুলোর কর্তাই চলতে থাকবে, যতক্ষণ না বদলের কোনো চিহ্ন পাওয়া যায়।"
+          },
+          {
+            "en": "Ibn Kathir, having held that it was Jibril who drew near, gives both meanings: Jibril revealed to Allah's servant Muhammad what he revealed, or Allah revealed to His servant Muhammad what He revealed by means of Jibril. Both meanings, he says, are sound. Al-Qurtubi relays a line from Qatada that holds the two together: Allah revealed to Jibril, and Jibril revealed to Muhammad. On the Jibril reading, Ibn Kathir and al-Qurtubi both gloss 'abdihi as 'abd Allah, the servant of Allah, so whoever speaks, the servant belongs to Allah.",
+            "bn": "ইবন কাসীর আগেই বলেছেন, কাছে এসেছিলেন জিবরাঈল। এরপর তিনি দুটো অর্থই দেন। হয় জিবরাঈল আল্লাহর বান্দা মুহাম্মাদের প্রতি যা ওয়াহী করার করলেন, নয়তো আল্লাহ জিবরাঈলের মাধ্যমে তাঁর বান্দা মুহাম্মাদের প্রতি যা ওয়াহী করার করলেন। তাঁর মতে দুটো অর্থই সঠিক। কুরতুবী কাতাদার একটি কথা আনেন, যা দুটোকে এক সুতোয় বাঁধে: আল্লাহ ওয়াহী করলেন জিবরাঈলের প্রতি, আর জিবরাঈল ওয়াহী করলেন মুহাম্মাদের প্রতি। জিবরাঈলকে কর্তা ধরলেও ইবন কাসীর ও কুরতুবী দুজনেই আবদিহী শব্দের ব্যাখ্যা দেন আবদুল্লাহ, অর্থাৎ আল্লাহর বান্দা। কথা যিনিই বলুন, বান্দা আল্লাহরই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an states the difficulty from the other side. By a wide agreement of commentators and hadith scholars, it says, the pronouns from fa-stawa to qaba qawsayn refer to Jibril, so giving awha and 'abdihi to Allah seems to scatter the pronouns. It answers with its teacher Anwar Shah Kashmiri: 53:4 opens the theme of revelation, 53:5 to 53:9 describe its medium, and 53:10 completes the opening, so the antecedent can only be Allah. Both sides argue from the same context, and this article reports them and decides neither.",
+            "bn": "মাআরিফুল কুরআন সমস্যাটা তোলে অন্য দিক থেকে। তার ভাষ্যে, মুফাসসির ও মুহাদ্দিসদের ব্যাপক ঐকমত্য অনুযায়ী ফাসতাওয়া থেকে কাবা কাওসাইন পর্যন্ত সর্বনামগুলো জিবরাঈলকে বোঝায়। তাহলে আওহা আর আবদিহী আল্লাহর দিকে ফেরালে সর্বনামগুলো এলোমেলো হয়ে যায় বলে মনে হয়। জবাব আসে তার উস্তাদ আনোয়ার শাহ কাশ্মীরীর কাছ থেকে। ৫৩:৪ ওয়াহীর প্রসঙ্গ শুরু করে, ৫৩:৫ থেকে ৫৩:৯ তার মাধ্যমের বর্ণনা দেয়, আর ৫৩:১০ সেই শুরুটাকে পূর্ণ করে। তাই সর্বনামের উদ্দিষ্ট আল্লাহ ছাড়া আর কেউ হতে পারেন না। দুই পক্ষই একই প্রসঙ্গ থেকে যুক্তি দেন। এ লেখা দুটোই জানায়, কোনোটির পক্ষে রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left Veiled or Spelled Out",
+          "bn": "গোপন রইল, নাকি খুলে বলা হলো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then asks a second question. Is this revelation mubham, left unspecified, something we are not shown and are bidden to believe in as a whole? Or is it known and explained? He reports two sayings. The first sits easily with the verse's own wording, which says what without saying what. The second has a named holder, Sa'id ibn Jubayr, and al-Qurtubi, Ibn Kathir and al-Baghawi all quote him, though at different lengths.",
+            "bn": "কুরতুবী এরপর দ্বিতীয় একটি প্রশ্ন তোলেন। এই ওয়াহী কি মুবহাম, অর্থাৎ অনির্দিষ্ট? আমাদের তা জানানো হয়নি, শুধু সামগ্রিকভাবে তাতে ঈমান আনার দায়িত্ব দেওয়া হয়েছে? নাকি তা জানা, ব্যাখ্যা করা? তিনি দুটি মত বর্ণনা করেন। প্রথমটি আয়াতের নিজের ভাষার সঙ্গে সহজে মেলে, কারণ আয়াত বলে 'যা', কিন্তু কী তা বলে না। দ্বিতীয় মতের ধারকের নাম আছে, সাঈদ ইবন জুবাইর। কুরতুবী, ইবন কাসীর ও বাগাভী তিনজনই তাঁর কথা উদ্ধৃত করেন, যদিও ভিন্ন ভিন্ন দৈর্ঘ্যে।"
+          },
+          {
+            "en": "In al-Qurtubi's wording, Sa'id ibn Jubayr said that Allah revealed to Muhammad: Did I not find you an orphan and shelter you? Did I not find you unaware and guide you? Did I not find you in need and enrich you? Did We not expand your chest, and remove from you your burden which weighed upon your back, and raise high your mention? Ibn Kathir and al-Baghawi give the same saying more briefly, as running from 93:6 to 94:4. On this view, what was revealed at that moment recalled care already given.",
+            "bn": "কুরতুবীর ভাষায়, সাঈদ ইবন জুবাইর বলেছেন, আল্লাহ মুহাম্মাদ ﷺ-এর প্রতি ওয়াহী করেছিলেন: আমি কি তোমাকে ইয়াতীম পেয়ে আশ্রয় দিইনি? পথ না জানা অবস্থায় পেয়ে পথ দেখাইনি? অভাবী পেয়ে অভাবমুক্ত করিনি? আমি কি তোমার বুক খুলে দিইনি, আর নামিয়ে দিইনি সেই বোঝা, যা তোমার পিঠ ভেঙে দিচ্ছিল? আর তোমার আলোচনাকে কি উঁচু করিনি? ইবন কাসীর ও বাগাভী একই কথা আরও সংক্ষেপে আনেন, ৯৩:৬ থেকে ৯৪:৪ পর্যন্ত। এ মতে সেই মুহূর্তের ওয়াহী মনে করিয়ে দিয়েছিল আগে থেকে পাওয়া যত্নের কথা।"
+          },
+          {
+            "en": "A further saying is given by al-Qurtubi and al-Baghawi with qila, it is said, and by Ibn Kathir as the words of someone else: Allah revealed to him that Paradise is forbidden to the prophets until he enters it, and to the nations until his community enters it. None of the three names who said it or gives a chain, so it is reported here as an unattributed saying and not as a hadith. No narration attached to this verse that could be checked in a collection names its content.",
+            "bn": "আরেকটি কথা কুরতুবী ও বাগাভী আনেন 'বলা হয়' দিয়ে, আর ইবন কাসীর আনেন 'অন্য একজন বলেছেন' দিয়ে: আল্লাহ তাঁকে জানিয়েছিলেন, তিনি প্রবেশ না করা পর্যন্ত নবীদের জন্য জান্নাত নিষিদ্ধ, আর তাঁর উম্মত প্রবেশ না করা পর্যন্ত অন্য সব উম্মতের জন্য। তিনজনের কেউই বক্তার নাম বা সনদ দেননি। তাই এখানে কথাটি আনা হলো নামহীন একটি উক্তি হিসেবে, হাদীস হিসেবে নয়। এ আয়াতের সঙ্গে যুক্ত এমন কোনো বর্ণনা, যা কোনো হাদীসগ্রন্থে মিলিয়ে দেখা গেছে, ওয়াহীর বিষয়বস্তুর নাম বলে না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an takes a different route. Citing a hadith in the first chapter of al-Bukhari, it says the revelation sent down at this time was the opening of Surah al-Muddaththir, and closes: Allah knows best. That hadith, al-Bukhari 4 on the page checked, is Jabir's account of the angel of Hira seen seated between sky and earth, followed by the first verses of al-Muddaththir. It does not quote this verse, so the link to 53:10 is Ma'arif's own, offered with its own caution.",
+            "bn": "মাআরিফুল কুরআন যায় অন্য পথে। বুখারীর প্রথম অধ্যায়ের একটি হাদীসের উল্লেখ করে বলে, এ সময় যে ওয়াহী নেমেছিল তা সূরা মুদ্দাসসিরের শুরুর আয়াতগুলো। শেষে বলে, আল্লাহই ভালো জানেন। যাচাই করা পৃষ্ঠায় হাদীসটি বুখারী ৪। তাতে জাবির (রাঃ) বর্ণনা করেন, হেরার সেই ফেরেশতাকে আসমান ও জমিনের মাঝে আসনে বসা দেখা গিয়েছিল, তারপর মুদ্দাসসিরের প্রথম আয়াতগুলো নাজিল হয়। হাদীসটিতে এ আয়াতের উল্লেখ নেই। তাই ৫৩:১০-এর সঙ্গে সংযোগটা মাআরিফের নিজের, আর সেটি তার নিজের সতর্ক বাক্যসহই এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Hundred Wings Reported",
+          "bn": "ছয়শো ডানার বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "One report in al-Bukhari is tied to this verse by the question that prompts it. In his book of tafsir (4857), ash-Shaybani said: I asked Zirr about the words of Allah, \"And he was at a distance of two bow lengths or nearer. So he revealed to His servant what he revealed.\" He said: 'Abdullah informed us that Muhammad ﷺ saw Jibril, and he had 600 wings. It is in al-Bukhari's Sahih, and Ibn Kathir's abridged English edition quotes the same chain.",
+            "bn": "বুখারীর একটি বর্ণনা এ আয়াতের সঙ্গে যুক্ত হয়েছে প্রশ্নের সূত্রে। তাঁর তাফসীর অধ্যায়ে (৪৮৫৭) শাইবানী বলেন: আমি যির-কে আল্লাহর এই বাণী সম্পর্কে জিজ্ঞেস করলাম, \"ফলে দূরত্ব দাঁড়াল দুই ধনুক বা তার চেয়েও কম। অতঃপর তিনি তাঁর বান্দার প্রতি ওয়াহী করলেন, যা ওয়াহী করার ছিল।\" তিনি বললেন: আবদুল্লাহ (রাঃ) আমাদের জানিয়েছেন, মুহাম্মাদ ﷺ জিবরাঈলকে দেখেছিলেন, তাঁর ছিল ৬০০ ডানা। বর্ণনাটি সহীহ বুখারীতে আছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও একই সনদে এটি উদ্ধৃত করে।"
+          },
+          {
+            "en": "What the report settles is the identity of him who was seen in the approach: 'Abdullah ibn Mas'ud answers a question about 53:9 and 53:10 with a description of Jibril. It does not, in its own words, say who is the subject of awha, and it should not be pressed to decide the question above. The English translation on the page checked inserts bracketed glosses that take a side; the Arabic does not carry them, and they are left out here.",
+            "bn": "বর্ণনাটি যা নিশ্চিত করে, তা হলো কাছে আসা সেই সত্তার পরিচয়। ৫৩:৯ ও ৫৩:১০ নিয়ে প্রশ্নের জবাবে আবদুল্লাহ ইবন মাসঊদ (রাঃ) জিবরাঈলের বর্ণনা দেন। কিন্তু আওহা ক্রিয়ার কর্তা কে, সে কথা বর্ণনাটি নিজের ভাষায় বলে না। তাই ওপরের মতভেদের মীমাংসা এর ঘাড়ে চাপানো ঠিক হবে না। যাচাই করা পৃষ্ঠার ইংরেজি অনুবাদে বন্ধনীর ভেতরে কিছু ব্যাখ্যা ঢোকানো আছে, যা এক পক্ষ নেয়। আরবি পাঠে সেগুলো নেই, তাই এখানে বাদ রাখা হলো।"
+          },
+          {
+            "en": "A well-known difference lies in the verses that follow, over whether the Prophet ﷺ saw his Lord. Al-Bukhari (4855) records A'ishah (RA) denying it and saying he saw Jibril in his true form twice; Ibn Kathir reports from Muslim that Ibn 'Abbas said he saw Him twice with his heart. That difference concerns 53:11 to 53:13 and is set out in the reflection on 53:7. It is not taken further here, and this article takes no side in it.",
+            "bn": "পরের আয়াতগুলো ঘিরে একটি সুপরিচিত মতভেদ আছে: নবী ﷺ কি তাঁর রবকে দেখেছিলেন? বুখারী (৪৮৫৫) বর্ণনা করেন, আয়েশা (রাঃ) তা অস্বীকার করেছেন এবং বলেছেন, তিনি জিবরাঈলকে তাঁর আসল আকৃতিতে দুবার দেখেছিলেন। ইবন কাসীর মুসলিমের সূত্রে আনেন, ইবন আব্বাস (রাঃ) বলেছেন, তিনি তাঁকে অন্তর দিয়ে দুবার দেখেছিলেন। এ মতভেদ ৫৩:১১ থেকে ৫৩:১৩ নিয়ে, আর ৫৩:৭-এর আলোচনায় তা তুলে ধরা হয়েছে। এখানে এর বেশি এগোনো হলো না, আর এ লেখা কোনো পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Content With the Unnamed",
+          "bn": "নামহীন দানেও তুষ্টি"
+        },
+        "p": [
+          {
+            "en": "Read together, the commentators show two honest ways to meet a gap in the text. Al-Qurtubi's first saying leaves the content veiled and asks for belief in it as a whole. Sa'id ibn Jubayr's saying fills it, but under his own name, so a reader can weigh it as his. None of them fills the gap silently. A reader can keep that discipline: hold what the verse says, hold a named scholar's explanation as his, and leave unknown what nobody knows.",
+            "bn": "তাফসীরকারদের একসঙ্গে পড়লে পাঠের ফাঁক সামলানোর দুটি সৎ পথ চোখে পড়ে। কুরতুবীর বর্ণিত প্রথম মত বিষয়বস্তুকে গোপনই রাখে, আর সামগ্রিকভাবে তাতে ঈমান চায়। সাঈদ ইবন জুবাইরের মত ফাঁকটা ভরায়, তবে নিজের নামে, যাতে পাঠক বুঝে নিতে পারেন কথাটা তাঁর। চুপিচুপি ফাঁক ভরান না কেউই। পাঠকও এই নিয়ম মেনে চলতে পারেন। আয়াত যা বলে তা দৃঢ়ভাবে ধরুন, কোনো আলেমের ব্যাখ্যাকে তাঁর ব্যাখ্যা হিসেবেই রাখুন, আর যা কেউ জানে না তা অজানাই থাকুক।"
+          },
+          {
+            "en": "There is a quieter lesson in the vagueness itself. Al-Qurtubi and Ma'arif al-Qur'an both read ma awha as a mark of greatness, not of something lost. A believer also meets things Allah has not explained, in scripture and in life. The verse does not speak to those questions directly, but it shows a gift that is real and great while its contents stay unspoken. A reader may find in that a way to trust what has been given before understanding all of it.",
+            "bn": "অস্পষ্টতার ভেতরেই একটা নীরব শিক্ষা আছে। কুরতুবী ও মাআরিফুল কুরআন দুজনেই মা আওহা কথাটিকে পড়েন মহিমার চিহ্ন হিসেবে, কিছু হারিয়ে যাওয়ার চিহ্ন হিসেবে নয়। মুমিনের জীবনেও এমন অনেক কিছু আসে, যা আল্লাহ ব্যাখ্যা করেননি, কিতাবেও, জীবনেও। আয়াতটি সরাসরি সে প্রশ্নগুলোর কথা বলে না। তবে দেখায়, একটি দান সত্য এবং মহান হতে পারে, অথচ তার ভেতরের কথা অনুচ্চারিত থাকে। পাঠক হয়তো এখান থেকে শিখবেন, পুরোটা বোঝার আগেই যা দেওয়া হয়েছে তাতে আস্থা রাখতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Servant at the Nearest Point",
+          "bn": "সবচেয়ে কাছে, তবু বান্দা"
+        },
+        "p": [
+          {
+            "en": "At the closest point of the approach, the verse names the Prophet ﷺ only as 'abdihi, His servant. The surah opened by denying that he had strayed (53:2); here it names him by his bond with Allah, not by a rank. If Sa'id ibn Jubayr's reading is followed, what reached him at that height recalled shelter for an orphan, guidance, provision, an eased chest and a raised name.",
+            "bn": "কাছে আসার সবচেয়ে নিকট বিন্দুতে আয়াতটি নবী ﷺ-কে ডাকে কেবল আবদিহী নামে, তাঁর বান্দা। সূরার শুরুতে বলা হয়েছিল, তিনি পথ হারাননি (৫৩:২)। আর এখানে তাঁর পরিচয় দেওয়া হলো আল্লাহর সঙ্গে তাঁর সম্পর্ক দিয়ে, কোনো পদমর্যাদা দিয়ে নয়। সাঈদ ইবন জুবাইরের পাঠ মেনে নিলে, সেই উচ্চতায় তাঁর কাছে যা পৌঁছেছিল তা মনে করিয়ে দিয়েছিল আগের সব দানের কথা: ইয়াতীমের আশ্রয়, পথের দিশা, অভাব দূর হওয়া, প্রশস্ত বুক আর উঁচু করা আলোচনা।"
+          },
+          {
+            "en": "A small practice follows for an ordinary week. Before asking Allah for more, name to yourself some of the help He has already given, one kindness at a time. A supplication composed for this article, not a transmitted du'a: O Allah, make me Your servant in truth, content with what You have shown me and trusting in what You have kept from me.",
+            "bn": "সাধারণ একটা সপ্তাহের জন্য এখান থেকে ছোট্ট একটি অভ্যাস নেওয়া যায়। আল্লাহর কাছে আরও কিছু চাওয়ার আগে, তিনি আগে যা সাহায্য করেছেন তার কিছু নিজের কাছে নাম ধরে বলুন, এক এক করে। এ লেখার জন্য রচিত একটি দোয়া, বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, আমাকে সত্যিকারের বান্দা বানিয়ে দিন। আপনি যা দেখিয়েছেন তাতে আমাকে তুষ্ট রাখুন, আর যা গোপন রেখেছেন তাতে আস্থা দিন।"
+          }
+        ]
+      }
+    ]
+  },
   "53:15": {
     "sections": [
       {
