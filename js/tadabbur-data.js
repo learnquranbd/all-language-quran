@@ -23591,6 +23591,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are called to the truth, turn toward it, not away. Pride that will not listen first closes your own ears, then starts leading others astray.",
     "lessonBn": "সত্যের দিকে ডাকা হলে মুখ ফিরিয়ে নেবেন না, সেদিকে ফিরুন। যে অহংকার শুনতে চায় না, তা আগে নিজের কান বন্ধ করে, তারপর অন্যকেও পথ থেকে সরাতে শুরু করে।"
+  },
+  "22:48": {
+    "reflectionEn": "Twice in four verses the passage opens the same way: and how many a town. The first time, the town is already rubble, its well abandoned, its tall palace empty. The second time the verse steps back to the years before the fall, when the town was doing wrong and nothing seemed to happen. That quiet stretch is the part people misread. Those who mocked the Prophet ﷺ took it as proof that no punishment was coming, and asked for it to hurry. The verse names it a respite, given by the One who speaks as I: I gave it time, then I seized it, and to Me is the return. A delay is not a pardon. What in my own life have I filed under nothing happened?",
+    "reflectionBn": "চার আয়াতের ভেতরে দুবার একই কথা দিয়ে শুরু: কত জনপদ! প্রথমবার জনপদটা আগেই ধ্বংসস্তূপ। কূপ পরিত্যক্ত, উঁচু প্রাসাদ খাঁ খাঁ করছে। দ্বিতীয়বার আয়াত পিছিয়ে যায় পতনের আগের বছরগুলোতে। তখন জনপদটা অন্যায়ে ডুবে ছিল, অথচ কিছুই যেন ঘটছিল না। মানুষ ভুল বোঝে ঠিক এই নীরব সময়টাকে। যারা নবী ﷺ-কে নিয়ে ঠাট্টা করত, তারা একে ধরে নিয়েছিল প্রমাণ হিসেবে যে কোনো শাস্তি আসছে না, তাই তাড়াতাড়ি আনতে বলত। আয়াত এর নাম দেয় অবকাশ। দিচ্ছেন তিনি, যিনি নিজের কথা বলছেন 'আমি' বলে: আমি সময় দিয়েছি, তারপর পাকড়াও করেছি, আর ফিরে আসা আমারই কাছে। দেরি মানে মাফ নয়। আমার নিজের জীবনে কোন জিনিসগুলো আমি 'কিছুই তো হলো না' ভেবে নিশ্চিন্তে সরিয়ে রেখেছি?",
+    "pointsEn": [
+      "Is there a wrong I keep returning to mainly because nothing has come of it yet?",
+      "When I see someone prosper while doing wrong, do I read it as approval, or as a respite whose end I cannot see?",
+      "Have I ever demanded that something be settled now, as if a delay from Allah meant it would never be settled at all?",
+      "If the time I have today is a respite, what would I change in it before it runs out?",
+      "Knowing that every road ends in a return to Him, what should I do with this quiet stretch?"
+    ],
+    "pointsBn": [
+      "এমন কোনো অন্যায় কি আছে, যেটাতে আমি বারবার ফিরে যাই শুধু এজন্য যে এখনো তার কোনো ফল দেখা দেয়নি?",
+      "কাউকে অন্যায় করেও ফুলেফেঁপে উঠতে দেখলে আমি কি একে সমর্থন ভাবি, নাকি এমন এক অবকাশ, যার শেষটা আমার চোখে পড়ছে না?",
+      "আমি কি কখনো দাবি করেছি যে ব্যাপারটার মীমাংসা এখনই হোক, যেন আল্লাহ দেরি করছেন মানে আর কখনো মীমাংসা হবে না?",
+      "আজ যে সময়টা হাতে আছে তা যদি অবকাশই হয়, ফুরিয়ে যাওয়ার আগে এর ভেতরে আমি কী বদলাব?",
+      "প্রতিটি পথ শেষ হয় তাঁর কাছে ফিরে যাওয়ায়, এ কথা জেনে এই নীরব সময়টা নিয়ে আমার কী করা উচিত?"
+    ],
+    "lessonEn": "A long delay is not a pardon. Allah gives the wrongdoer time, then seizes, and every return is to Him, so use the respite before it ends.",
+    "lessonBn": "দীর্ঘ দেরি মানে মাফ নয়। আল্লাহ জালিমকে সময় দেন, তারপর পাকড়াও করেন, আর সবার ফিরে যাওয়া তাঁরই কাছে। তাই অবকাশ শেষ হওয়ার আগেই একে কাজে লাগান।"
   }
 };
 

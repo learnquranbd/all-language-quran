@@ -1339,6 +1339,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Opening, Two Verses",
+          "bn": "এক সূচনা, দুই আয়াত"
+        },
+        "p": [
+          {
+            "en": "Wa-ka-ayyin min qaryatin amlaytu laha wa-hiya zalimatun, thumma akhadhtuha, wa-ilayya al-masir: and how many a town I gave respite while it was doing wrong, then I seized it, and to Me is the final return. The passage behind it has named the peoples who denied their messengers, in 22:42 to 22:44, and closed that list with fa-amlaytu lil-kafirina thumma akhadhtuhum: so I gave the disbelievers respite, then I seized them. Verse 48 takes that same pair of verbs and spreads it over towns beyond counting.",
+            "bn": "ওয়া কাআইয়্যিন মিন কারইয়াতিন আমলাইতু লাহা ওয়া হিয়া যালিমাতুন, সুম্মা আখাযতুহা, ওয়া ইলাইয়্যাল মাসীর: কত জনপদকে আমি অবকাশ দিয়েছি, অথচ তারা তখন অন্যায়ে লিপ্ত ছিল, তারপর আমি তাকে পাকড়াও করেছি, আর শেষ প্রত্যাবর্তন আমারই কাছে। এর আগে ২২:৪২ থেকে ২২:৪৪ আয়াতে সেই জাতিগুলোর নাম এসেছে, যারা নিজেদের রাসূলদের অস্বীকার করেছিল। তালিকাটা শেষ হয়েছে এই কথায়: ফা আমলাইতু লিল কাফিরীনা সুম্মা আখাযতুহুম, আমি কাফিরদের অবকাশ দিয়েছিলাম, তারপর পাকড়াও করেছিলাম। ৪৮ নম্বর আয়াত ঠিক ওই দুটি ক্রিয়াকেই তুলে নিয়ে ছড়িয়ে দেয় অগণিত জনপদের উপর।"
+          },
+          {
+            "en": "The opening words have been heard before. Verse 22:45 began fa-ka-ayyin min qaryatin ahlaknaha wa-hiya zalimatun: and how many a town We destroyed while it was doing wrong, so that it lies fallen on its roofs, with an abandoned well and a lofty palace. Side by side, the two verses share their first words and their middle clause. Verse 45 looks at the town after the end, at what is left standing. Verse 48 looks at the time before the end, when the wrong was under way and no punishment had yet come.",
+            "bn": "শুরুর শব্দগুলো পাঠক আগেও শুনেছেন। ২২:৪৫ আয়াত শুরু হয়েছিল এভাবে: ফা কাআইয়্যিন মিন কারইয়াতিন আহলাকনাহা ওয়া হিয়া যালিমাতুন, কত জনপদ আমি ধ্বংস করেছি যখন তারা অন্যায় করছিল। ফলে সেগুলো ছাদসহ ধসে পড়ে আছে, পড়ে আছে পরিত্যক্ত কূপ আর সুউচ্চ প্রাসাদ। দুটি আয়াত পাশাপাশি রাখলে দেখা যায়, প্রথম শব্দগুলো আর মাঝের অংশটা একই। ৪৫ নম্বর আয়াত তাকায় শেষের পরের দিকে, যা টিকে আছে তার দিকে। ৪৮ নম্বর আয়াত তাকায় শেষের আগের সময়ে, যখন অন্যায় চলছিল, অথচ শাস্তি তখনো আসেনি।"
+          },
+          {
+            "en": "The wording shifts as well. In 22:45 the verb is ahlaknaha, We destroyed it; in 22:48 the speaker is singular throughout: amlaytu, akhadhtuha, ilayya, I gave respite, I seized, to Me. Al-Baghawi records that the people of Basra and Ya'qub read the earlier verb as ahlaktuha, in the singular, while the others read ahlaknaha in the plural of majesty. None of the commentators fetched for this verse stops to explain why the opening repeats. What they do explain is why verse 48 stands where it does, straight after 22:47.",
+            "bn": "শব্দেও একটা বদল আছে। ২২:৪৫ আয়াতে ক্রিয়া হলো আহলাকনাহা, আমরা ধ্বংস করেছি। ২২:৪৮ আয়াতে বক্তা আগাগোড়া একবচন: আমলাইতু, আখাযতুহা, ইলাইয়্যা। আমি অবকাশ দিয়েছি, আমি পাকড়াও করেছি, আমারই কাছে। বাগাভী জানান, বসরার কারীগণ ও ইয়াকূব আগের আয়াতের ক্রিয়াটি পড়েছেন আহলাকতুহা, অর্থাৎ একবচনে। বাকিরা পড়েছেন আহলাকনাহা, মর্যাদা বোঝানো বহুবচনে। এ আয়াতের জন্য সংগৃহীত তাফসীরগুলোর কেউই শুরুর কথাটা কেন ফিরে এল, তা নিয়ে থামেননি। তাঁরা ব্যাখ্যা করেছেন অন্য একটা জিনিস: ৪৮ নম্বর আয়াত ঠিক ২২:৪৭ আয়াতের পরেই কেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Answer to the Hurried",
+          "bn": "তাড়া দেওয়া লোকদের জবাব"
+        },
+        "p": [
+          {
+            "en": "Verse 22:47 reports the demand: and they urge you to hasten the punishment. Ibn Kathir identifies the speakers as disbelievers who deny Allah, His Book, His Messenger and the Last Day, and sets beside their demand two others the Qur'an records: O Allah, if this is the truth from You, rain stones on us from the sky (8:32), and our Lord, hasten our share to us before the Day of Reckoning (38:16). Allah will not fail His promise, he adds, meaning the Hour, vengeance on His enemies and honour for His friends.",
+            "bn": "২২:৪৭ আয়াত দাবিটা তুলে ধরে: তারা তোমাকে শাস্তি তাড়াতাড়ি আনতে বলে। ইবন কাসীরের মতে এরা সেই কাফির, যারা আল্লাহ, তাঁর কিতাব, তাঁর রাসূল ও আখিরাতকে অস্বীকার করে। তাদের এ দাবির পাশে তিনি কুরআনে উল্লেখিত আরও দুটি দাবি রাখেন। একটি: হে আল্লাহ, এটা যদি তোমার পক্ষ থেকে সত্য হয়, তবে আকাশ থেকে আমাদের উপর পাথর বর্ষণ করো (৮:৩২)। আরেকটি: হে আমাদের রব, হিসাবের দিনের আগেই আমাদের ভাগটা তাড়াতাড়ি দিয়ে দাও (৩৮:১৬)। তিনি আরও বলেন, আল্লাহ তাঁর ওয়াদা ভঙ্গ করেন না। সে ওয়াদা হলো কিয়ামত কায়েম করা, শত্রুদের থেকে প্রতিশোধ নেওয়া আর বন্ধুদের সম্মান দেওয়া।"
+          },
+          {
+            "en": "He then reads the clause about a day with your Lord being like a thousand years of your counting as a statement that Allah does not hurry: He knows He is able to exact His due and that nothing escapes Him, even if He postpones, waits and gives respite. The Arabic word he uses for that last is amla, the verb of 22:48. For this reason, he writes, He says after this: and how many a town I gave respite. In his reading the second count of towns is the reply to the hasty demand.",
+            "bn": "এরপর তিনি 'তোমার রবের কাছে একদিন তোমাদের গণনার হাজার বছরের মতো' কথাটিকে পড়েন এভাবে: আল্লাহ তাড়াহুড়া করেন না। তিনি জানেন, প্রতিশোধ নেওয়ার ক্ষমতা তাঁর আছে, কিছুই তাঁর হাত ফসকে যায় না, তিনি সময় পিছিয়ে দিলেও, অপেক্ষা করলেও, অবকাশ দিলেও। শেষ কথাটার জন্য তিনি যে আরবি শব্দ ব্যবহার করেন তা আমলা, অর্থাৎ ২২:৪৮ আয়াতেরই ক্রিয়া। তারপর লেখেন: এ কারণেই এর পরে তিনি বলেছেন, কত জনপদকে আমি অবকাশ দিয়েছি। তাঁর পাঠে জনপদের এই দ্বিতীয় হিসাব হলো তাড়াহুড়ার দাবির জবাব।"
+          },
+          {
+            "en": "At-Tabari draws the same line from the other end. After glossing the verse, he turns it toward the Prophet's ﷺ own time: so likewise is the state of those of your people, the idolaters, who hasten the punishment. Even if I give them respite until the terms I have fixed for them, I will seize them with punishment and kill them by the sword, and after that their destination is to Me. For him the verse is the history of earlier towns, told as an answer to the people who were asking for their own end.",
+            "bn": "তাবারী একই রেখা টানেন অন্য প্রান্ত থেকে। আয়াতের ব্যাখ্যা শেষে তিনি একে ফেরান নবী ﷺ-এর নিজের সময়ের দিকে: তোমার কওমের যে মুশরিকরা শাস্তি তাড়াতাড়ি চায়, তাদের অবস্থাও এমনই। তাদের জন্য যে মেয়াদ আমি ঠিক করে রেখেছি, সে পর্যন্ত অবকাশ দিলেও আমি তাদের শাস্তি দিয়ে পাকড়াও করব, তলোয়ারে তাদের হত্যা করব। তারপর তাদের ফিরে আসা আমারই কাছে। তাবারীর কাছে আয়াতটি তাই আগের জনপদগুলোর ইতিহাস, যা শোনানো হয়েছে সেই লোকদের জবাবে, যারা নিজেদের সর্বনাশই চেয়ে বসেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glosses on a Single Verb",
+          "bn": "একটি ক্রিয়ার নানা ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "The commentators gloss amlaytu almost with one voice. At-Tabari: amhaltuhum wa-akhkhartu 'adhabahum, I gave them time and put off their punishment, and then, so I did not hasten their punishment. Al-Baghawi says only amhaltuha, I granted it time. Al-Qurtubi has amhaltuha ma'a 'utuwwiha, I granted it time despite its insolence. As-Sa'di lengthens it: amhaltuha muddatan tawilah, I granted it time for a long while. The Muyassar puts it as I gave them time and did not rush them with the penalty.",
+            "bn": "আমলাইতু শব্দের ব্যাখ্যায় তাফসীরকারেরা প্রায় একই সুরে কথা বলেন। তাবারী বলেন: আমহালতুহুম ওয়া আখখারতু আযাবাহুম, আমি তাদের সময় দিয়েছি আর তাদের শাস্তি পিছিয়ে দিয়েছি। সঙ্গে যোগ করেন: তাই তাদের শাস্তিতে আমি তাড়াহুড়া করিনি। বাগাভী শুধু বলেন আমহালতুহা, আমি তাকে সময় দিয়েছি। কুরতুবীর ভাষায় আমহালতুহা মাআ উতুওয়্যিহা, তার ঔদ্ধত্য সত্ত্বেও তাকে সময় দিয়েছি। সা'দী একটু বাড়িয়ে বলেন: আমহালতুহা মুদ্দাতান তাওয়ীলাহ, দীর্ঘ সময় ধরে অবকাশ দিয়েছি। মুয়াসসারের ভাষায়: আমি তাদের সময় দিয়েছি, শাস্তি দিতে তাড়াহুড়া করিনি।"
+          },
+          {
+            "en": "Ibn Kathir, on the same verb in 22:44, glosses it as I delayed and postponed. The two verses use it in the same order: first the respite, then thumma, then the seizure. In 22:44 the respite was given to named peoples, the people of Nuh (AS), Ad, Thamud and the rest; in 22:48 it reaches how many a town, a count the verse leaves open. At-Tabari, as the previous section showed, sets the Prophet's ﷺ own people inside that open count.",
+            "bn": "২২:৪৪ আয়াতে একই ক্রিয়ার ব্যাখ্যায় ইবন কাসীর বলেন: আমি দেরি করেছি, পিছিয়ে দিয়েছি। দুটি আয়াতে ক্রিয়াটি আসে একই ক্রমে। প্রথমে অবকাশ, তারপর সুম্মা, তারপর পাকড়াও। ২২:৪৪ আয়াতে অবকাশ পেয়েছিল নাম ধরে বলা জাতিগুলো: নূহ (আঃ)-এর কওম, আদ, সামূদ ও অন্যরা। ২২:৪৮ আয়াতে তা পৌঁছায় 'কত জনপদ' পর্যন্ত, যার সংখ্যা আয়াত খোলা রেখে দিয়েছে। আগের অংশে দেখা গেছে, তাবারী এই খোলা হিসাবের ভেতরে নবী ﷺ-এর নিজের কওমকেও রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wrongdoing Inside the Respite",
+          "bn": "অবকাশের ভেতরেও জুলুম"
+        },
+        "p": [
+          {
+            "en": "Wa-hiya zalimah, while it was doing wrong: the respite and the wrongdoing ran together. As-Sa'di glosses the clause as ma'a zulmihim, along with their wrong, and al-Qurtubi's ma'a 'utuwwiha says the same. The commentators also name the wrong. At-Tabari: they associated others with Allah and opposed His command, and that was the wrong Allah described them with. The Muyassar: the towns did wrong through their people's persistence in disbelief. Ibn Kathir, on the identical phrase in 22:45, says they were rejecting their messengers.",
+            "bn": "ওয়া হিয়া যালিমাহ, অথচ সে জুলুমে লিপ্ত ছিল। অর্থাৎ অবকাশ আর অন্যায় একসঙ্গে চলছিল। সা'দী এ অংশের ব্যাখ্যা করেন মাআ যুলমিহিম, তাদের জুলুম থাকা অবস্থায়। কুরতুবীর মাআ উতুওয়্যিহা কথাটাও একই কথা বলে। তাফসীরকারেরা জুলুমটা কী, তাও বলে দেন। তাবারী বলেন: তারা আল্লাহর সঙ্গে শরীক করত, তাঁর আদেশের বিরোধিতা করত, আর এটাই সেই জুলুম যা দিয়ে আল্লাহ তাদের বর্ণনা করেছেন। মুয়াসসার বলে: জনপদগুলোর জুলুম ছিল তাদের অধিবাসীদের কুফরিতে অটল থাকা। ২২:৪৫ আয়াতের হুবহু একই কথার ব্যাখ্যায় ইবন কাসীর বলেন: তারা তাদের রাসূলদের অস্বীকার করছিল।"
+          },
+          {
+            "en": "As-Sa'di draws the sharpest line from this clause. Their hurrying into wrong, he writes, did not oblige Us to hurry into punishment: fa-lam yakun mubadaratuhum bil-zulmi mujiban li-mubadaratina bil-'uqubah. The wrongdoer moves fast, and the response does not match his pace. On this reading the town is not spared because its wrong went unseen. It is spared for a time because He who grants the respite is pressed neither by the wrongdoer's speed nor by the demand recorded in 22:47.",
+            "bn": "এ অংশ থেকে সবচেয়ে ধারালো কথাটা বের করেন সা'দী। তিনি লেখেন: ফা লাম ইয়াকুন মুবাদারাতুহুম বিয যুলমি মূজিবান লি মুবাদারাতিনা বিল উকূবাহ। তারা জুলুমে তাড়াহুড়া করেছে বলেই আমাদের শাস্তিতে তাড়াহুড়া করতে হবে, এমন নয়। জালিম দ্রুত ছোটে, কিন্তু জবাব তার গতির সঙ্গে তাল মেলায় না। এ পাঠে জনপদটা ছাড় পায় না এজন্য যে তার অন্যায় কারও চোখে পড়েনি। কিছুকাল ছাড় পায় কারণ যিনি অবকাশ দেন, তাঁকে জালিমের গতিও তাড়া দিতে পারে না, ২২:৪৭ আয়াতের দাবিও না।"
+          },
+          {
+            "en": "The town also stands for its people. At-Tabari glosses the verse's feminine it with them, and moves straight from the town to those who lived in it: I gave them time, they associated others with Allah. Al-Qurtubi says the same of the parallel verse, 22:45: We destroyed it means We destroyed its people, and the Muyassar's gloss there speaks of the towns' people too. The walls were never the subject. The fallen roofs, the well and the palace of verse 45 are what remained when the people were gone.",
+            "bn": "জনপদ বলতে এখানে তার মানুষ। আয়াতে সর্বনামটা স্ত্রীলিঙ্গ একবচন, জনপদকে বোঝায়। তাবারী তার ব্যাখ্যা করেন বহুবচনে, জনপদ থেকে সোজা চলে যান এর বাসিন্দাদের কাছে: আমি তাদের সময় দিয়েছি, তারা আল্লাহর সঙ্গে শরীক করত। ২২:৪৫ আয়াত সম্পর্কে কুরতুবীও একই কথা বলেন: 'আমরা তাকে ধ্বংস করেছি' মানে তার অধিবাসীদের ধ্বংস করেছি। সেখানে মুয়াসসারও জনপদের অধিবাসীদের কথাই বলে। দেয়াল কখনো আসল বিষয় ছিল না। ৪৫ নম্বর আয়াতের ধসে পড়া ছাদ, কূপ আর প্রাসাদ হলো মানুষগুলো চলে যাওয়ার পর যা পড়ে ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Delay Breeds Delusion",
+          "bn": "দেরি যখন ধোঁকা হয়ে ওঠে"
+        },
+        "p": [
+          {
+            "en": "The Muyassar adds a word the other glosses leave unsaid: fa-ghtarru. I gave them time and did not rush them with the penalty, so they were deceived. The respite itself became the occasion of their delusion, as if the absence of punishment were proof that none was coming. As-Sa'di ends his comment by turning this into a warning for the verse's own hearers: let these wrongdoers beware of Allah's punishment descending on them, wa-la yaghtarru bil-imhal, and let them not be deceived by the respite.",
+            "bn": "অন্যরা যে কথাটা মুখে আনেননি, মুয়াসসার সেটা একটি শব্দে বলে দেয়: ফাগতাররূ। আমি তাদের সময় দিয়েছি, শাস্তি দিতে তাড়াহুড়া করিনি, ফলে তারা ধোঁকায় পড়েছে। অবকাশটাই হয়ে দাঁড়াল তাদের আত্মপ্রবঞ্চনার উপলক্ষ। শাস্তি আসেনি, তাই ধরে নিল আর আসবেও না। সা'দী তাঁর ব্যাখ্যা শেষ করেন এ কথাকে আয়াতের তখনকার শ্রোতাদের জন্য সতর্কবাণী বানিয়ে: এই জালিমরা যেন আল্লাহর শাস্তি নেমে আসার ব্যাপারে সাবধান হয়, ওয়া লা ইয়াগতাররূ বিল ইমহাল, আর অবকাশ দেখে যেন ধোঁকা না খায়।"
+          },
+          {
+            "en": "The verb amlaytu echoes a saying of the Prophet ﷺ that Ibn Kathir cites on the same verb in 22:44; no fetched commentary attaches a hadith to 22:48 by name. Al-Bukhari records it in his Sahih (4686): \"Narrated Abu Musa: Allah's Messenger (ﷺ) said, 'Allah gives respite to the oppressor, but when He takes him over, He never releases him.' Then he recited: 'Such is the seizure of your Lord when He seizes (population of) towns in the midst of their wrong: Painful indeed, and severe is His seizure.' (11:102)\" Muslim records it as well. Its yumli is the verb of amlaytu, and 11:102 shares wa-hiya zalimah with 22:48.",
+            "bn": "আমলাইতু ক্রিয়াটির প্রতিধ্বনি আছে নবী ﷺ-এর একটি বাণীতে। ইবন কাসীর হাদীসটি এনেছেন ২২:৪৪ আয়াতে, যেখানে একই ক্রিয়া আছে। ২২:৪৮ আয়াতের নাম ধরে সংগৃহীত কোনো তাফসীর কোনো হাদীস জোড়েনি। বুখারী তাঁর সহীহ গ্রন্থে (৪৬৮৬) বর্ণনা করেছেন, আবূ মূসা (রাঃ) বলেন, রাসূলুল্লাহ ﷺ বলেছেন: \"আল্লাহ জালিমকে অবকাশ দেন, কিন্তু যখন তাকে পাকড়াও করেন, তখন আর ছাড়েন না।\" তারপর তিনি পড়লেন: \"এমনই তোমার রবের পাকড়াও, যখন তিনি জনপদগুলোকে পাকড়াও করেন, যখন সেগুলো জুলুমে লিপ্ত থাকে। নিশ্চয়ই তাঁর পাকড়াও যন্ত্রণাদায়ক, কঠোর।\" (১১:১০২) মুসলিমও হাদীসটি বর্ণনা করেছেন। হাদীসের ক্রিয়া ইউমলী আর আয়াতের আমলাইতু একই শব্দমূল থেকে। আর ১১:১০২ আয়াতেও আছে ২২:৪৮ আয়াতের সেই অংশ: ওয়া হিয়া যালিমাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then the Taking Came",
+          "bn": "তারপর এল পাকড়াও"
+        },
+        "p": [
+          {
+            "en": "Thumma akhadhtuha, then I seized it. Al-Qurtubi adds only bil-'adhab, with punishment. At-Tabari: I seized it with punishment and punished it in this world by bringing down Our penalty on them. The Muyassar: then I seized them with My punishment in this world. The commentators therefore place this seizure inside the world, before the return named in the verse's last clause. The verse does not say how long the respite ran before thumma; as-Sa'di's long while is as far as the commentators go.",
+            "bn": "সুম্মা আখাযতুহা, তারপর আমি তাকে পাকড়াও করেছি। কুরতুবী শুধু যোগ করেন বিল আযাব, শাস্তি দিয়ে। তাবারী বলেন: শাস্তি দিয়ে তাকে পাকড়াও করেছি, তাদের উপর আমাদের সাজা নামিয়ে দুনিয়াতেই তাকে শাস্তি দিয়েছি। মুয়াসসার বলে: তারপর দুনিয়াতে আমার শাস্তি দিয়ে তাদের পাকড়াও করেছি। কাজেই তাফসীরকারেরা এই পাকড়াওকে রাখেন দুনিয়ার ভেতরে, আয়াতের শেষ অংশে বলা প্রত্যাবর্তনের আগে। সুম্মা আসার আগে অবকাশ কতদিন চলেছিল, আয়াত তা বলে না। সা'দীর 'দীর্ঘ সময়' পর্যন্তই তাফসীরকারেরা যান।"
+          },
+          {
+            "en": "At-Tabari's application to the Prophet's ﷺ own people makes the worldly seizure concrete: I will seize them with punishment and kill them by the sword. He names no battle in the passage fetched here, and this article does not supply one. What his gloss shows is how he read the verse: as an assurance that the respite granted to the hasteners of 22:47 had a term, and that the term was fixed by Allah, not set by their demand.",
+            "bn": "নবী ﷺ-এর নিজের কওমের উপর আয়াতটি প্রয়োগ করতে গিয়ে তাবারী দুনিয়ার পাকড়াওকে স্পষ্ট করে দেন: আমি তাদের শাস্তি দিয়ে পাকড়াও করব, তলোয়ারে তাদের হত্যা করব। এখানে সংগৃহীত অংশে তিনি কোনো যুদ্ধের নাম বলেননি, এ লেখাও কোনো নাম বসাচ্ছে না। তাঁর ব্যাখ্যা থেকে বোঝা যায় তিনি আয়াতটি কীভাবে পড়েছেন। ২২:৪৭ আয়াতে যারা তাড়া দিচ্ছিল, তাদের অবকাশের একটা মেয়াদ ছিল। সে মেয়াদ ঠিক করেছিলেন আল্লাহ, তাদের দাবি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Every Road Ends",
+          "bn": "সব পথ যেখানে গিয়ে থামে"
+        },
+        "p": [
+          {
+            "en": "Wa-ilayya al-masir, and to Me is the return, is not a restatement of the seizure. At-Tabari: and to Me is their destination too, after their destruction, when they meet a punishment that does not cease. The Muyassar: to Me is their return after their destruction, and I will punish them as they deserve. As-Sa'di: along with its punishment in this world, it will return to Allah, who will punish it for its sins. All three read the clause as a second stage, beyond the worldly seizure.",
+            "bn": "ওয়া ইলাইয়্যাল মাসীর, আর ফিরে আসা আমারই কাছে। এ কথা পাকড়াওয়ের পুনরাবৃত্তি নয়। তাবারী বলেন: ধ্বংসের পরেও তাদের গন্তব্য আমারই কাছে, তখন তারা এমন শাস্তির মুখোমুখি হবে যা কখনো থামবে না। মুয়াসসার বলে: ধ্বংসের পর তাদের ফিরে আসা আমার কাছে, তখন তাদের প্রাপ্য শাস্তি দেব। সা'দী বলেন: দুনিয়ার শাস্তির পাশাপাশি সে আল্লাহর কাছে ফিরে যাবে, আর তিনি তার গুনাহের জন্য তাকে শাস্তি দেবেন। তিনজনই অংশটিকে পড়েন দ্বিতীয় ধাপ হিসেবে, দুনিয়ার পাকড়াওয়ের ওপারে।"
+          },
+          {
+            "en": "So the verse ends on the thing a respite most easily hides. A town given time sees only that the punishment has not come. The seizure ends that illusion in this world, and the closing clause says that even the seizure is not the end of the account. The passage then turns, in 22:49 to 22:51, to the Prophet ﷺ as a clear warner, with forgiveness and noble provision for those who believe and do good, and the Fire for those who strive against the verses.",
+            "bn": "অবকাশ যে জিনিসটা সবচেয়ে সহজে আড়াল করে, আয়াত শেষ হয় ঠিক সেটা দিয়েই। সময় পাওয়া জনপদ শুধু এটুকু দেখে যে শাস্তি আসেনি। দুনিয়াতে পাকড়াও এসে সে ভুল ভেঙে দেয়। আর শেষ অংশ জানিয়ে দেয়, পাকড়াওতেও হিসাব শেষ হয় না। এরপর ২২:৪৯ থেকে ২২:৫১ আয়াতে প্রসঙ্গ ফেরে নবী ﷺ-এর দিকে, যিনি সুস্পষ্ট সতর্ককারী। যারা ঈমান আনে ও সৎকাজ করে তাদের জন্য মাগফিরাত আর সম্মানজনক রিযিক। আর যারা আয়াতগুলোকে ব্যর্থ করতে চেষ্টা চালায়, তাদের জন্য জাহান্নাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Map of Today",
+          "bn": "আজকের মানচিত্র এটি নয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's Arabic commentary under 22:48 goes on to narrations about the measure of the day in 22:47, not about the respite. Among them is a report at-Tirmidhi records (2353): \"Abu Hurairah narrated that the Messenger of Allah (s.a.w) said: 'The poor are admitted into Paradise before the rich, by five hundred years, (i.e.) half a day.'\" At-Tirmidhi grades it hasan sahih. It explains the thousand years of the previous verse, and it is noted here only because the commentary sets it beside this one.",
+            "bn": "২২:৪৮ আয়াতের নিচে ইবন কাসীরের আরবি তাফসীর এরপর যে বর্ণনাগুলো আনে, সেগুলো অবকাশ নিয়ে নয়, ২২:৪৭ আয়াতের দিনের পরিমাপ নিয়ে। তার একটি তিরমিযী বর্ণনা করেছেন (২৩৫৩): আবূ হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"দরিদ্ররা ধনীদের পাঁচশো বছর আগে জান্নাতে প্রবেশ করবে, অর্থাৎ অর্ধেক দিন আগে।\" তিরমিযী একে হাসান সহীহ বলেছেন। হাদীসটি আগের আয়াতের হাজার বছরের ব্যাখ্যা। এখানে উল্লেখ করা হলো শুধু এজন্য যে তাফসীরে এটি এ আয়াতের পাশে রাখা।"
+          },
+          {
+            "en": "This needs saying plainly. The verse speaks of towns that the text describes as doing wrong, given respite and then seized by Allah. It names none of them, and the commentators fetched here name none either. It licenses nothing against any living person or community. It does not entitle anyone to point at a present-day city, a disaster or a people and declare it one of these towns, and it hands no human being the seizure that the verse keeps for the One who says I.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতে সেসব জনপদের কথা, যাদের আল্লাহর কালাম জালিম বলে বর্ণনা করেছে, যারা অবকাশ পেয়েছিল, তারপর আল্লাহ তাদের পাকড়াও করেছেন। আয়াত তাদের কারও নাম বলেনি, এখানে সংগৃহীত তাফসীরকারেরাও বলেননি। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজকের কোনো শহর, কোনো দুর্যোগ বা কোনো জাতির দিকে আঙুল তুলে 'এ সেই জনপদ' বলার অধিকার কাউকে দেয় না। আর যে পাকড়াও আয়াত রেখেছে 'আমি' বলা সেই একজনের হাতে, তা কোনো মানুষের হাতে তুলে দেয় না।"
+          },
+          {
+            "en": "What it does hand the reader is a way to read quiet. A wrong that has brought no consequence yet has not thereby been approved; in the verse's terms it may simply be running inside a respite. That cuts two ways for a believer. It leaves no room for gloating over another person's apparent escape, since the timing belongs to Allah alone, and no room for treating one's own unpunished faults as settled. The respite is real time, and the verse's last word says where all of it leads.",
+            "bn": "পাঠকের হাতে আয়াত বরং তুলে দেয় নীরবতাকে বোঝার একটা উপায়। কোনো অন্যায়ের ফল এখনো দেখা দেয়নি বলেই তা অনুমোদন পেয়ে যায় না। আয়াতের ভাষায়, হয়তো তা কেবল অবকাশের ভেতর দিয়ে চলছে। একজন মুমিনের জন্য এর দুই দিক। অন্যের আপাত বেঁচে যাওয়া দেখে উল্লাস করার সুযোগ নেই, কারণ সময়টা একমাত্র আল্লাহর হাতে। আবার নিজের যে ভুলের সাজা হয়নি, তাকে চুকে যাওয়া হিসাব ভাবারও সুযোগ নেই। অবকাশ সত্যিকারের সময়, আর আয়াতের শেষ কথাটাই বলে দেয়, এ সময় কোথায় গিয়ে শেষ হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "22:53": {
     "sections": [
       {
