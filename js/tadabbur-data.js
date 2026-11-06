@@ -25749,6 +25749,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Name the Day of Recompense truthfully while naming it can still change you; the regret that waits until the Day is seen changes nothing.",
     "lessonBn": "প্রতিফল দিবসকে তার সত্য নামে চিনে নিন এখনই, যখন সে চেনা আপনাকে বদলাতে পারে। দিনটি চোখে দেখার পর যে আফসোস আসে, তা কিছুই বদলায় না।"
+  },
+  "37:36": {
+    "reflectionEn": "When the call to there is no god but Allah reached them, they did not answer the call. They answered the man. A poet, they said, and a madman, and with those two words the question of whether he was right never had to be faced. They gave their reason for staying where they were as well: these are our gods. Leaving them meant leaving what the household had always done. The very next verse replies that he brought the truth and confirmed the messengers before him. A label is cheap, and it can feel like thinking. When something true reaches me from someone I would rather not hear, do I weigh what was said, or reach for a word that lets me stop listening?",
+    "reflectionBn": "লা ইলাহা ইল্লাল্লাহর ডাক যখন তাদের কাছে পৌঁছাল, তারা ডাকের জবাব দিল না। জবাব দিল মানুষটাকে। বলল, কবি, আর পাগল। এই দুই শব্দেই কাজ সেরে গেল, তিনি সত্য বলছেন কি না সে প্রশ্নের মুখোমুখি আর হতে হলো না। কেন যেখানে আছে সেখানেই থাকবে, তার কারণও তারা দিল: এরা আমাদের ইলাহ। এদের ছাড়া মানে ঘরে চিরকাল যা চলে এসেছে তা ছেড়ে দেওয়া। ঠিক পরের আয়াতই জবাব দেয়: তিনি সত্য নিয়ে এসেছেন, আর আগের রসূলদের সত্যায়ন করেছেন। তকমা লাগাতে কিছু লাগে না, অথচ মনে হয় যেন খুব ভেবেচিন্তে বলা হলো। যার কথা শুনতে মন চায় না, তার মুখ থেকে কোনো সত্য এলে আমি কি কথাটা মেপে দেখি, নাকি এমন একটা শব্দ খুঁজি, যা বললে আর শুনতে হয় না?",
+    "pointsEn": [
+      "What label have I put on someone that spares me from answering what they actually said?",
+      "Which of my habits could I defend only by saying it is what my family has always done?",
+      "Have I repeated a mocking description of someone without ever having listened to them myself?",
+      "What would I have to leave behind if I followed a truth I already know, and is that what really keeps me where I am?",
+      "When others mock what I believe, do I answer with the truth, as the next verse does, or with a label of my own?"
+    ],
+    "pointsBn": [
+      "কারও গায়ে কোন তকমা আমি লাগিয়ে রেখেছি, যাতে তার আসল কথার জবাব আর দিতে না হয়?",
+      "আমার এমন কোন অভ্যাস আছে, যার পক্ষে একমাত্র যুক্তি এই যে, আমাদের পরিবারে বরাবর এমনই চলে এসেছে?",
+      "নিজে কখনো যার কথা কান পেতে শুনিনি, তার সম্পর্কে কোনো বিদ্রূপের কথা কি অন্যের মুখে শুনে আমি ছড়িয়েছি?",
+      "যে সত্য আমি আগেই জানি, তা মানলে আমাকে কী ছাড়তে হবে? আসলে কি সেটাই আমাকে আটকে রেখেছে?",
+      "কেউ আমার বিশ্বাস নিয়ে ঠাট্টা করলে আমি কি পরের আয়াতের মতো সত্য দিয়ে জবাব দিই, নাকি পাল্টা একটা তকমা লাগিয়ে দিই?"
+    ],
+    "lessonEn": "Do not answer a truth by labelling the one who brings it. Weigh what is said, even when it asks you to leave what your elders held.",
+    "lessonBn": "সত্যের জবাব তার বাহকের গায়ে তকমা লাগিয়ে দেবেন না। যা বলা হলো তা মেপে দেখুন, বাপদাদার ধরে রাখা জিনিস ছাড়তে বললেও।"
   }
 };
 

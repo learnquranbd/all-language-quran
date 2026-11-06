@@ -1487,6 +1487,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Reply Set Against the Call",
+          "bn": "ডাকের বিপরীতে দাঁড় করানো জবাব"
+        },
+        "p": [
+          {
+            "en": "Wa-yaquluna: and they say. The verse continues the description of the people whose verdict the passage has just given, those who in 37:35 were too proud when told there is no god but Allah. As-Sa'di names what kind of speech follows: mu'aradatan laha, set up in opposition to it, the sentence itself. This is not a new topic. It is their counter-statement, the reply they made to the call, and it comes as a question of six Arabic words: a-inna la-tariku alihatina li-sha'irin majnun, are we to leave our gods for a mad poet?",
+            "bn": "ওয়া ইয়াকূলূন: আর তারা বলে। আগের আয়াতে যাদের রায় শোনানো হলো, এ আয়াত তাদেরই বিবরণ এগিয়ে নেয়। ৩৭:৩৫-এ এরাই লা ইলাহা ইল্লাল্লাহ শুনে অহংকার করেছিল। এরপর তারা যা বলত, সা'দী তার ধরন চিনিয়ে দেন: মু'আরাদাতান লাহা, অর্থাৎ ওই বাক্যের বিরুদ্ধে দাঁড় করানো কথা। তাই এখানে নতুন কোনো প্রসঙ্গ শুরু হয়নি। ডাকের জবাবে এটাই ছিল তাদের পাল্টা বক্তব্য। আরবিতে মাত্র ছয়টি শব্দের একটি প্রশ্ন: আ-ইন্না লাতারিকূ আলিহাতিনা লিশা'ইরিম মাজনূন, আমরা কি এক পাগল কবির জন্য আমাদের ইলাহদের ছেড়ে দেব?"
+          },
+          {
+            "en": "Who said it, and of whom? At-Tabari names the speakers as these polytheists of Quraysh, and says that by the mad poet they meant the Prophet of Allah ﷺ. He gives the same identification from Qatada through his own chain: they meant Muhammad ﷺ. Ibn Kathir and the Muyassar say they meant the Messenger of Allah ﷺ, al-Baghawi says the Prophet ﷺ, and as-Sa'di names Muhammad ﷺ. On this point every commentary fetched for the verse agrees, and none of them spends more than a clause on it.",
+            "bn": "কথাটা কারা বলেছিল, আর কাকে নিয়ে? তাবারী বলেন, বক্তা কুরাইশের এই মুশরিকরা, আর পাগল কবি বলে তারা বোঝাত আল্লাহর নবী ﷺ-কে। নিজের সনদে কাতাদা থেকেও তিনি একই কথা আনেন: তারা মুহাম্মাদ ﷺ-কে বোঝাত। ইবন কাসীর আর মুয়াসসার বলেন, তারা আল্লাহর রসূল ﷺ-কে বোঝাত। বাগাভী বলেন নবী ﷺ, আর সা'দী নাম ধরেই বলেন মুহাম্মাদ ﷺ। এ আয়াতের জন্য যত তাফসীর আনা হয়েছে, এ ব্যাপারে সবাই একমত। কেউই এ নিয়ে এক বাক্যাংশের বেশি খরচ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leavers of Our Gods",
+          "bn": "ইলাহদের ত্যাগকারী হব?"
+        },
+        "p": [
+          {
+            "en": "The question is weighted from every side. It opens with the questioning a-, adds inna, indeed, and fixes the emphatic la- to the next word. That word is not a verb but a noun of the doer, tariku, leavers: are we, indeed, to be leavers of our gods? Put that way, the leaving sounds less like a single step than like becoming a different kind of people. Al-Jalalayn's only remark on the wording concerns recitation: the two hamzas of a-inna are handled, he says, as he explained at an earlier verse.",
+            "bn": "প্রশ্নটার প্রতিটি দিকেই জোর দেওয়া। শুরুতে প্রশ্নবোধক আ-, তারপর ইন্না, নিশ্চয়ই, আর পরের শব্দে জোর দেওয়ার লা-। সেই শব্দটা ক্রিয়া নয়, কর্তাবাচক বিশেষ্য: তারিকূ, ত্যাগকারীরা। অর্থাৎ, আমরা কি সত্যিই আমাদের ইলাহদের ত্যাগকারী হয়ে যাব? এভাবে বললে ছেড়ে দেওয়াটা আর একটা পদক্ষেপ থাকে না। মনে হয় যেন পুরো একটা অন্য রকম মানুষ হয়ে যাওয়া। শব্দগঠন নিয়ে জালালাইনের একটাই মন্তব্য, আর তা তিলাওয়াত নিয়ে: আ-ইন্নার দুই হামযা কীভাবে পড়া হবে, তা আগের এক আয়াতে তিনি যেভাবে বলেছেন সেভাবেই।"
+          },
+          {
+            "en": "Read with the verse before it, the question shows how they heard the call. They were asked to affirm one sentence, and they heard a demand to give something up. At-Tabari makes the link explicit in his paraphrase: shall we abandon the worship of our gods for a mad poet, and say there is no god but Allah? In his wording the two halves arrive together. To say the sentence was to leave the gods, and they understood that perfectly well. That is exactly why they would not say it.",
+            "bn": "আগের আয়াতের সঙ্গে মিলিয়ে পড়লে বোঝা যায় ডাকটা তারা কীভাবে শুনেছিল। তাদের কাছে চাওয়া হয়েছিল একটা বাক্যের স্বীকৃতি। তারা শুনল, কিছু একটা ছেড়ে দিতে বলা হচ্ছে। তাবারী তাঁর ব্যাখ্যায় যোগসূত্রটা খুলে দেন: আমরা কি এক পাগল কবির জন্য আমাদের ইলাহদের ইবাদত ছেড়ে দেব, আর বলব লা ইলাহা ইল্লাল্লাহ? তাঁর ভাষায় দুটি অংশ একসঙ্গে আসে। কালেমা বলা মানেই ইলাহদের ছেড়ে দেওয়া, আর এটা তারা ভালো করেই বুঝত। ঠিক এ কারণেই তারা তা বলত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Our Fathers Worshipped",
+          "bn": "বাপদাদারা যার ইবাদত করত"
+        },
+        "p": [
+          {
+            "en": "The possessive in alihatina, our gods, carries much of the verse. Ibn Kathir widens it in his paraphrase: are we to give up the worship of our gods and the gods of our fathers on the word of this mad poet? As-Sa'di does the same in his own words: our gods, which we and our fathers have never ceased to worship. Both read the word as an inheritance. What was being defended was not only a set of idols but a line of practice handed down from one generation to the next.",
+            "bn": "আলিহাতিনা, আমাদের ইলাহ। এই 'আমাদের' শব্দটার উপরেই আয়াতের অনেকখানি ভার। ইবন কাসীর ব্যাখ্যায় তা আরও বড় করে বলেন: এই পাগল কবির কথায় আমরা কি আমাদের ইলাহদের আর আমাদের বাপদাদার ইলাহদের ইবাদত ছেড়ে দেব? সা'দীও নিজের ভাষায় একই কথা বলেন: আমাদের সেই ইলাহ, আমরা আর আমাদের বাপদাদারা যাদের ইবাদত কখনো ছাড়িনি। দুজনেই শব্দটাকে পড়েন উত্তরাধিকার হিসেবে। তারা কেবল কয়েকটা মূর্তি আগলে রাখছিল না। আগলে রাখছিল এক পুরুষ থেকে আরেক পুরুষে হাতবদল হয়ে আসা এক রীতি।"
+          },
+          {
+            "en": "The Qur'an records this reasoning more than once. In 2:170, told to follow what Allah has revealed, they answer that they will follow what they found their fathers doing, and the verse asks: even though their fathers understood nothing and were not guided? In 43:22 they say they found their fathers upon a religion and are guided in their footsteps. In 34:43, when the verses are recited to them, they say of the Prophet ﷺ that he is only a man who wishes to turn them from what their fathers used to worship.",
+            "bn": "কুরআনে এই যুক্তি একাধিকবার উঠে এসেছে। ২:১৭০-এ আল্লাহর নাযিল করা বিধান মানতে বলা হলে তারা বলে, আমরা তা-ই মানব যার উপর বাপদাদাদের পেয়েছি। আয়াতটি পাল্টা প্রশ্ন করে: তাদের বাপদাদারা কিছু না বুঝলেও, সঠিক পথে না থাকলেও? ৪৩:২২-এ তারা বলে, আমরা বাপদাদাদের এক ধর্মের উপর পেয়েছি, আর তাদের পদচিহ্ন ধরেই আমরা পথ পেয়েছি। ৩৪:৪৩-এ আয়াত তিলাওয়াত শুনে তারা নবী ﷺ সম্পর্কে বলে, এ তো এমন এক লোক, যে তোমাদের বাপদাদার ইবাদত থেকে তোমাদের ফিরিয়ে নিতে চায়।"
+          },
+          {
+            "en": "Set beside these, 37:36 gives the same defence in its barest form. Nothing in it argues that the gods are true. The case rests on two things only: they are ours, and the man who calls us away from them is not to be trusted. Neither half touches the question the call actually raised, which is whether anything besides Allah deserves worship. A defence can be loud and still never meet the point it was raised against.",
+            "bn": "এগুলোর পাশে রাখলে ৩৭:৩৬-এ একই আত্মপক্ষ সমর্থন দেখা যায় সবচেয়ে খোলামেলা চেহারায়। ইলাহগুলো যে সত্য, এ নিয়ে এখানে কোনো যুক্তি নেই। পুরো দাবি দাঁড়িয়ে আছে মাত্র দুটি কথার উপর: এরা আমাদের, আর যে লোক এদের ছাড়তে ডাকছে সে ভরসার যোগ্য নয়। ডাকটা যে আসল প্রশ্ন তুলেছিল, দুটোর কোনোটাই তা ছুঁয়েও যায় না। প্রশ্নটা ছিল, আল্লাহ ছাড়া আর কেউ কি ইবাদতের যোগ্য? গলার জোর অনেক থাকলেও আত্মপক্ষ সমর্থন আসল কথার ধারেকাছে না-ও পৌঁছাতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Speech or His Following",
+          "bn": "তাঁর কথা, নাকি তাঁর অনুসরণ"
+        },
+        "p": [
+          {
+            "en": "The small preposition li-, for, in li-sha'irin leaves a word unspoken, and the commentators supply it in slightly different ways. Al-Qurtubi writes li-qawli sha'ir, for the saying of a poet. The Muyassar has: for the saying of a man, a poet, mad. As-Sa'di inserts the same word qawl into the verse itself, and Ibn Kathir's paraphrase has 'an qawli hadha al-sha'ir, on the word of this poet. On this reading, what they refused to act on was his speech: should we change our worship because of what this man says?",
+            "bn": "লিশা'ইরিন শব্দের ছোট্ট লি-, অর্থাৎ 'জন্য', একটা শব্দ উহ্য রেখে দেয়। তাফসীরকারেরা সেটা পূরণ করেন সামান্য ভিন্ন ভিন্নভাবে। কুরতুবী লেখেন লিকাওলি শা'ইর, এক কবির কথার জন্য। মুয়াসসার বলে: এক কবি, পাগল লোকের কথার জন্য। সা'দী আয়াতের ভেতরেই কাওল শব্দটা বসিয়ে দেন। ইবন কাসীরের ব্যাখ্যায় আছে 'আন কাওলি হাযাশ শা'ইর, এই কবির কথায়। এ পাঠে তারা যা মানতে রাজি ছিল না তা হলো তাঁর বক্তব্য। অর্থাৎ, এই লোক কী বলল, সেজন্য আমরা আমাদের ইবাদত বদলে ফেলব?"
+          },
+          {
+            "en": "At-Tabari supplies a different word. Li-sha'irin, he explains, means li-ittiba'i sha'ir, for following a poet. The weight moves from the words to the man: should we leave our gods to become his followers? Al-Jalalayn stays nearer the first reading, glossing it as for the sake of what Muhammad ﷺ says. The two glosses do not clash, and none of these commentators argues against the other. Between them they show two sides of one refusal: they would not take his message, and they would not take him as someone to follow.",
+            "bn": "তাবারী পূরণ করেন অন্য শব্দ দিয়ে। তাঁর ব্যাখ্যায় লিশা'ইরিন মানে লিইত্তিবা'ই শা'ইর, এক কবির অনুসরণের জন্য। এবার ভারটা কথা থেকে সরে মানুষটার উপর পড়ে: আমরা কি ইলাহদের ছেড়ে তার অনুসারী হয়ে যাব? জালালাইন প্রথম পাঠের কাছাকাছি থাকেন। তাঁর ব্যাখ্যা: মুহাম্মাদ ﷺ যা বলেন তার খাতিরে। দুই ব্যাখ্যায় কোনো বিরোধ নেই, আর এঁদের কেউ অন্যজনের বিরুদ্ধে যুক্তিও দেননি। দুটো মিলে একই প্রত্যাখ্যানের দুই দিক দেখায়। তারা তাঁর বার্তাও নেবে না, তাঁকে অনুসরণযোগ্য মানুষ বলেও মানবে না।"
+          },
+          {
+            "en": "Tanwir al-Miqbas, the commentary that circulates under the name of Ibn 'Abbas, glosses the poet as someone who invents lies. On that gloss the label was a way of saying his words were made up, however well they sounded. To call the Prophet ﷺ a poet was to say that what he recited was his own composition, and so had no claim on anyone. The charge was aimed less at his person than at the source of what he brought.",
+            "bn": "তানভীরুল মিকবাস, যে তাফসীর ইবন আব্বাসের নামে প্রচলিত, কবি শব্দের ব্যাখ্যা দেয়: যে মিথ্যা বানায়। এ ব্যাখ্যা অনুযায়ী তকমাটার মানে দাঁড়ায়, তাঁর কথাগুলো বানানো, শুনতে যত সুন্দরই লাগুক। নবী ﷺ-কে কবি বলা মানে এ দাবি করা যে তিনি যা তিলাওয়াত করেন তা তাঁর নিজের রচনা। তাহলে কারও উপর এর কোনো দাবিও থাকে না। তাই অভিযোগের নিশানা তাঁর ব্যক্তিত্ব যতটা, তার চেয়ে বেশি তিনি যা এনেছেন তার উৎস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said Against Their Own Knowledge",
+          "bn": "নিজেদের জানার বিরুদ্ধে রায়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse as a step beyond refusal. Turning away from the Prophet ﷺ did not satisfy them, he says, and neither did merely calling him a liar. They went on to pass against him the most unjust of verdicts and made him a mad poet. Then he adds the detail that gives the charge its weight: they did this knowing that he did not know poetry or poets, that his qualities were not the qualities of poets, and that he was the most intelligent of Allah's creation and the greatest of them in judgement.",
+            "bn": "সা'দীর পাঠে আয়াতটা প্রত্যাখ্যানের চেয়েও এক ধাপ বেশি। তিনি বলেন, নবী ﷺ থেকে মুখ ফিরিয়ে নিয়ে তাদের মন ভরেনি, শুধু মিথ্যাবাদী বলেও না। তারা আরও এগিয়ে তাঁর বিরুদ্ধে সবচেয়ে অন্যায় রায় দিল, বানিয়ে দিল পাগল কবি। এরপর সা'দী এমন একটা কথা যোগ করেন, যাতে অভিযোগটার ভার বোঝা যায়। তারা এটা করেছিল জেনেশুনে। তারা জানত, তিনি কবিতা বা কবিদের চিনতেন না, কবিদের গুণ তাঁর গুণ ছিল না। তারা এটাও জানত যে, আল্লাহর সৃষ্টির মধ্যে তিনিই সবচেয়ে বুদ্ধিমান, বিচারবুদ্ধিতে সবার সেরা।"
+          },
+          {
+            "en": "As-Sa'di answers each word on its own. Against poet he sets what they knew of the man: he had no part in the craft, and nothing in his character resembled those who practised it. Against mad he sets the opposite quality at its height, the soundest mind in Allah's creation. His point is not that Quraysh misjudged the Prophet ﷺ through ignorance. It is that the verdict was given against what they themselves knew, which is why he calls it the most unjust of verdicts.",
+            "bn": "সা'দী প্রতিটি শব্দের জবাব দেন আলাদা করে। 'কবি' কথার বিপরীতে তিনি রাখেন মানুষটাকে নিয়ে তাদের নিজেদের জানা কথা: কাব্যচর্চায় তাঁর কোনো ভাগ ছিল না, স্বভাবেও কবিদের সঙ্গে তাঁর কোনো মিল ছিল না। 'পাগল' কথার বিপরীতে রাখেন ঠিক উল্টো গুণটা, তাও তার সর্বোচ্চ মাত্রায়: আল্লাহর সৃষ্টির মধ্যে সবচেয়ে সুস্থ বুদ্ধি। তাঁর বক্তব্য এই নয় যে কুরাইশ না জেনে নবী ﷺ সম্পর্কে ভুল ধারণা করেছিল। বক্তব্য হলো, রায়টা দেওয়া হয়েছিল তাদের নিজেদের জানার বিরুদ্ধে। এজন্যই তিনি একে বলেন সবচেয়ে অন্যায় রায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Label Answered Elsewhere",
+          "bn": "প্রতিটি তকমার আলাদা জবাব"
+        },
+        "p": [
+          {
+            "en": "The two words of this verse appear elsewhere in the Qur'an as separate charges, and the Qur'an answers each in its own place. Of poet: 21:5 records them saying, rather, he is a poet, and 52:30 has, a poet for whom we await some misfortune of time. Allah replies in 36:69 that He did not teach him poetry, nor is it fitting for him, and in 69:41 that the Qur'an is not the word of a poet. Of mad: 15:6 has them say, indeed you are mad, and 44:14, taught by others and mad. The answer comes in 68:2: by the favour of your Lord, you are not a madman.",
+            "bn": "এ আয়াতের দুটি শব্দ কুরআনের অন্য জায়গায় আলাদা আলাদা অভিযোগ হিসেবেও এসেছে, আর কুরআন প্রতিটির জবাব দিয়েছে তার নিজের জায়গায়। কবি প্রসঙ্গে: ২১:৫-এ তারা বলে, বরং সে একজন কবি। ৫২:৩০-এ বলে, এক কবি, যার উপর কালের বিপদ নেমে আসার অপেক্ষায় আছি। আল্লাহ ৩৬:৬৯-এ জবাব দেন, তিনি তাঁকে কবিতা শেখাননি, আর তা তাঁর জন্য শোভাও পায় না। ৬৯:৪১-এ বলেন, এ কোনো কবির কথা নয়। পাগল প্রসঙ্গে: ১৫:৬-এ তারা বলে, তুমি তো নিশ্চয়ই পাগল। ৪৪:১৪-এ বলে, অন্যের শেখানো এক পাগল। জবাব আসে ৬৮:২-এ: তোমার রবের অনুগ্রহে তুমি পাগল নও।"
+          },
+          {
+            "en": "In 52:29 the two replies stand side by side: by the favour of your Lord you are neither a soothsayer nor a madman. The Qur'an also places the charge in a longer history. In 51:52 it says that no messenger came to those before them without their saying, a magician or a madman. Read with that verse, the insult in 37:36 is no discovery about the Prophet ﷺ in particular. It is the familiar answer that peoples gave to the messengers whose call asked them to leave what they worshipped.",
+            "bn": "৫২:২৯-এ দুটি জবাব পাশাপাশি এসেছে: তোমার রবের অনুগ্রহে তুমি গণকও নও, পাগলও নও। কুরআন অভিযোগটাকে আরও লম্বা ইতিহাসের ভেতরেও বসায়। ৫১:৫২ বলে, তাদের আগের লোকদের কাছে যে রসূলই এসেছেন, তারা বলেছে: জাদুকর, নয়তো পাগল। এই আয়াতের সঙ্গে মিলিয়ে পড়লে ৩৭:৩৬-এর অপমানটা কেবল নবী ﷺ-কে নিয়ে নতুন কোনো আবিষ্কার থাকে না। যে রসূলদের ডাক মানুষকে তাদের উপাস্য ছাড়তে বলেছে, তাঁদের সবার কপালে এই চেনা জবাবই জুটেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bal: The Reply That Follows",
+          "bn": "বাল: পরের আয়াতের জবাব"
+        },
+        "p": [
+          {
+            "en": "The answer to their question is the next verse, and it opens with bal, rather, which sets aside what they said. Bal ja'a bi-l-haqqi wa-saddaqa al-mursalin: rather, he has come with the truth and confirmed the messengers. At-Tabari calls it a report from Allah giving the lie to the polytheists who called the Prophet ﷺ a mad poet. Muhammad is not as they described him, he writes; he is a prophet of Allah who came with the truth from Him, and that truth is the Qur'an. Qatada, in at-Tabari's chain, also explains the truth as the Qur'an.",
+            "bn": "তাদের প্রশ্নের জবাব পরের আয়াত। শুরু হয় বাল দিয়ে, অর্থাৎ 'বরং', যা তাদের কথাকে সরিয়ে রাখে। বাল জা'আ বিলহাক্কি ওয়া সাদ্দাকাল মুরসালীন: বরং তিনি সত্য নিয়ে এসেছেন এবং রসূলদের সত্যায়ন করেছেন। তাবারী বলেন, এটা আল্লাহর পক্ষ থেকে এক খবর, যা নবী ﷺ-কে পাগল কবি বলা মুশরিকদের মিথ্যাবাদী সাব্যস্ত করে। তাঁর ভাষায়, মুহাম্মাদ তেমন নন যেমন তারা বলেছে। তিনি আল্লাহর নবী, তাঁর কাছ থেকে সত্য নিয়ে এসেছেন, আর সেই সত্য হলো কুরআন। তাবারীর সনদে কাতাদাও সত্য বলতে কুরআনই বুঝিয়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi reads the truth as the Qur'an and tawhid, and the confirming as agreement with the messengers in the tawhid they brought. Al-Baghawi puts it in a line: he brought what the messengers before him brought. As-Sa'di adds a second sense. The coming of the Prophet ﷺ itself confirmed them, because they had foretold him, and Allah had taken their covenant that if he came they would believe in him and support him, in words close to 3:81. Had he never come, as-Sa'di says, that would have counted against their truthfulness.",
+            "bn": "কুরতুবী সত্য বলতে বোঝেন কুরআন ও তাওহীদ। আর সত্যায়ন মানে, রসূলরা যে তাওহীদ এনেছিলেন তাতে তাঁদের সঙ্গে একমত হওয়া। বাগাভী এক লাইনে বলেন: আগের রসূলরা যা এনেছিলেন, তিনিও তা-ই এনেছেন। সা'দী দ্বিতীয় একটা অর্থ যোগ করেন। নবী ﷺ-এর আগমনই তাঁদের সত্যায়ন। কারণ তাঁরা তাঁর আগমনের খবর দিয়েছিলেন, আর আল্লাহ তাঁদের কাছ থেকে অঙ্গীকার নিয়েছিলেন যে তিনি এলে তাঁরা তাঁর প্রতি ঈমান আনবেন ও তাঁকে সাহায্য করবেন। কথাটা ৩:৮১-এর খুব কাছাকাছি। সা'দী বলেন, তিনি না এলে সেটা তাঁদের সত্যবাদিতায় দাগ ফেলত।"
+          },
+          {
+            "en": "Ibn Kathir joins both senses. He confirmed them in the praiseworthy qualities and sound ways they had foretold of him, and told of Allah's law and command as they had told of it. Ibn Kathir then brings 41:43: nothing is said to you except what was already said to the messengers before you. The reply is worth noticing for what it leaves out. It does not answer one label with another. It answers the charge by stating what he brought and whose company he stands in.",
+            "bn": "ইবন কাসীর দুই অর্থ এক করেন। রসূলরা তাঁর যে প্রশংসনীয় গুণ আর সঠিক পথের কথা আগেই বলে গিয়েছিলেন, তিনি তাতে তাঁদের সত্য প্রমাণ করেছেন। আর আল্লাহর বিধান ও আদেশের খবর তিনি দিয়েছেন সেভাবেই, যেভাবে তাঁরা দিয়েছিলেন। এরপর ইবন কাসীর আনেন ৪১:৪৩: তোমাকে তা-ই বলা হচ্ছে, যা তোমার আগের রসূলদের বলা হয়েছিল। জবাবটা কী বাদ দেয়, সেটা লক্ষ করার মতো। একটা তকমার জবাবে এটা আরেক তকমা দেয় না। অভিযোগের জবাব দেয় এটুকু বলে: তিনি কী এনেছেন, আর কাদের কাতারে দাঁড়িয়ে আছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Habits Worth Watching",
+          "bn": "নিজের ভেতরে দুই অভ্যাস"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it, and none gives an occasion of revelation, so it is read here in its place in the passage. The verse describes the polytheists of Quraysh, as at-Tabari identifies them, who said these words of the Prophet ﷺ, and the punishment the passage sets out is Allah's judgement on those people. It describes what the text describes and licenses nothing against any living person or community, nor does it give anyone the right to brand another as among them.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীরই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও দেয়নি। তাই আয়াতটা এখানে পড়া হলো প্রসঙ্গের ভেতরে তার নিজের জায়গায়। তাবারীর চিহ্নিত করা অনুযায়ী, আয়াতটি কুরাইশের সেই মুশরিকদের কথা বলে, যারা নবী ﷺ সম্পর্কে এ কথা বলেছিল। আর এ অংশে যে শাস্তির কথা এসেছে, তা ওই লোকদের ব্যাপারে আল্লাহর ফয়সালা। আয়াতটি কেবল ততটুকুই বর্ণনা করে যতটুকু তার ভাষায় আছে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। কাউকে তাদের দলভুক্ত বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না।"
+          },
+          {
+            "en": "For a reader, the verse holds up two habits worth watching in oneself. One is the inherited defence: this is ours, our elders did it, offered as though that settled whether a thing is true. The other is the label that closes a conversation, a single word that makes it unnecessary to hear what is actually being said. Neither belongs only to the people of this verse. Both can settle in any heart, a believer's included, and both feel like conviction from the inside.",
+            "bn": "পাঠকের জন্য আয়াতটা নিজের ভেতরের দুটি অভ্যাস চোখের সামনে তুলে ধরে। একটা হলো উত্তরাধিকারের দোহাই: এটা আমাদের, আমাদের মুরুব্বিরা এভাবেই করে গেছেন। যেন এটুকু বললেই ঠিক হয়ে যায় জিনিসটা সত্য কি না। অন্যটা হলো এমন তকমা, যা আলাপ সেখানেই থামিয়ে দেয়। একটা মাত্র শব্দ, যা বললে আসলে কী বলা হচ্ছে তা আর শোনার দরকার পড়ে না। এ দুটো শুধু এ আয়াতের লোকদের ব্যাপার নয়। যেকোনো মনে, মুমিনের মনেও, এরা বাসা বাঁধতে পারে। আর ভেতর থেকে দুটোকেই দৃঢ় বিশ্বাস বলে মনে হয়।"
+          },
+          {
+            "en": "The verse that follows shows the other way. When the truth is mocked, it does not answer with mockery; it says what was brought and whom it agrees with. And when a call reaches us that asks us to leave something familiar, the question worth asking is exactly what the deniers here never asked: not who said it, or what our fathers did, but whether what was said is true.",
+            "bn": "পরের আয়াত অন্য পথটা দেখায়। সত্যকে নিয়ে ঠাট্টা হলে সে ঠাট্টা দিয়ে জবাব দেয় না। সে বলে, কী আনা হয়েছে, আর তা কাদের সঙ্গে মেলে। আর চেনা কিছু ছাড়তে বলা কোনো ডাক যখন আমাদের কাছে আসে, তখন যে প্রশ্নটা করা দরকার, এ আয়াতের অস্বীকারকারীরা তা কখনো করেনি। প্রশ্নটা এই নয় যে কে বলল, বা বাপদাদারা কী করতেন। প্রশ্ন হলো, যা বলা হলো তা সত্য কি না।"
+          }
+        ]
+      }
+    ]
+  },
   "37:41": {
     "sections": [
       {
