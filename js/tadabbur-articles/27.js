@@ -3051,6 +3051,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:88": {
+    "sections": [
+      {
+        "h": {
+          "en": "Mountains After the Horn",
+          "bn": "শিঙ্গার পরে পাহাড়"
+        },
+        "p": [
+          {
+            "en": "Wa-tara al-jibala tahsabuha jamidatan wa-hiya tamurru marra as-sahab: and you see the mountains, thinking them fixed, while they pass as the clouds pass. The verse comes straight after 27:87, where the Horn is blown and all in the heavens and on the earth are struck with terror. As-Sa'di opens his comment with the words wa-min hawlihi, of its terror: the moving mountains are another part of that Day's horror, set beside the fright of 27:87.",
+            "bn": "ওয়া তারাল জিবালা তাহসাবুহা জামিদাতাঁও ওয়া হিয়া তামুররু মাররাস সাহাব: তুমি পাহাড়গুলো দেখছ আর ভাবছ সেগুলো স্থির, অথচ সেগুলো চলে যাচ্ছে মেঘের চলার মতো। আয়াতটি এসেছে ঠিক ২৭:৮৭-এর পরে। সেখানে শিঙ্গায় ফুঁ দেওয়া হয়, আর আসমান ও যমীনের সবাই আতঙ্কে কেঁপে ওঠে। সা'দী তাঁর ব্যাখ্যা শুরু করেন 'ওয়া মিন হাওলিহি' কথা দিয়ে, অর্থাৎ সেদিনের ভয়াবহতার মধ্যে এটাও আছে। চলমান পাহাড় সেদিনের আতঙ্কেরই আরেকটি অংশ, ২৭:৮৭-এর ভীতির পাশে রাখা।"
+          },
+          {
+            "en": "The two verses around it are context here, not the subject. Verse 27:87 carries its own question about whom Allah exempts from the terror, and 27:89 and 27:90 then divide those who arrive into the bearers of good and of evil. Between the Horn and that sorting stands this single picture of the earth's heaviest things losing their place. It ends in two short phrases: a statement about Allah's craft, and a reminder that He knows what people do.",
+            "bn": "আশপাশের দুই আয়াত এখানে শুধু প্রেক্ষাপট, আলোচনার বিষয় নয়। আল্লাহ কাদেরকে সেই আতঙ্ক থেকে বাদ রাখবেন, সে প্রশ্ন ২৭:৮৭-এর নিজস্ব আলোচনা। আর ২৭:৮৯ ও ২৭:৯০ আয়াত যারা উপস্থিত হবে তাদের ভাগ করে নেক আমলওয়ালা আর বদ আমলওয়ালায়। শিঙ্গার ফুঁ আর সেই ভাগাভাগির মাঝখানে দাঁড়িয়ে আছে এই একটি দৃশ্য: পৃথিবীর সবচেয়ে ভারী জিনিসগুলো নিজের জায়গা হারাচ্ছে। দৃশ্যটি শেষ হয় দুটি ছোট বাক্যে। একটি আল্লাহর কারিগরির কথা, অন্যটি মনে করিয়ে দেয়, মানুষ যা করে তিনি তা জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing Still to the Eye",
+          "bn": "চোখে স্থির, আসলে চলমান"
+        },
+        "p": [
+          {
+            "en": "What does jamida mean here? At-Tabari reports from Ibn Abbas (RA) the one-word gloss qa'imah, standing, al-Qurtubi quotes him the same way, and al-Baghawi gives qa'imah waqifah, standing and halted. The Muyassar puts it as waqifah mustaqirrah, halted and settled. Al-Qurtubi adds that tara here is seeing with the eye: had it been a judgement of the mind, the verb would have taken two objects. The verse is describing a sight, and a sight that misleads.",
+            "bn": "এখানে জামিদা শব্দের অর্থ কী? তাবারী ইবন আব্বাস (রাঃ) থেকে এক শব্দের ব্যাখ্যা আনেন: কায়িমা, দাঁড়িয়ে থাকা। কুরতুবীও তাঁর থেকে একই কথা উদ্ধৃত করেন। বাগাভী বলেন কায়িমা ওয়াকিফা, দাঁড়ানো ও থেমে থাকা। মুয়াসসার বলে ওয়াকিফা মুসতাকিররা, থেমে থাকা ও স্থিত। কুরতুবী আরও বলেন, এখানে 'তারা' মানে চোখে দেখা। মনের বিচার বোঝালে ক্রিয়াটি দুটি কর্ম নিত। অর্থাৎ আয়াত একটি দৃশ্যের বর্ণনা দিচ্ছে, আর দৃশ্যটি চোখকে ধোঁকা দেয়।"
+          },
+          {
+            "en": "At-Tabari explains why the eye is fooled. The mountains are gathered together and then set moving, and whoever watches thinks, because of how much of them there is, that they are standing, while they move at a fast pace. He supports this with a line of poetry describing an army so vast it seems halted while its mounts are trotting. At-Tabari attributes the line to al-Ja'di; al-Qurtubi quotes the same line and attributes it to an-Nabigha.",
+            "bn": "চোখ কেন ভুল দেখে, তাবারী তা খুলে বলেন। পাহাড়গুলোকে একত্র করা হয়, তারপর চালানো হয়। যে দেখে, সে পরিমাণের বিশালতার কারণে মনে করে সেগুলো দাঁড়িয়ে আছে, অথচ সেগুলো দ্রুত চলছে। এর সমর্থনে তিনি কবিতার একটি চরণ আনেন। তাতে এক বিশাল বাহিনীর বর্ণনা, যাকে থেমে থাকা মনে হয়, অথচ তার বাহনগুলো দুলকি চালে ছুটছে। তাবারী চরণটি জা'দীর বলে উল্লেখ করেন। কুরতুবী একই চরণ উদ্ধৃত করেন নাবিগার নামে।"
+          },
+          {
+            "en": "Al-Qurtubi, quoting al-Qutabi, and al-Baghawi in nearly the same words, turn this into a general rule. Anything huge, and any great mass, outruns the eye because of its size and the distance between its edges, so the onlooker reckons it standing while it is moving. Al-Baghawi draws the parallel himself: the movement of the mountains will not be seen on the Day of Resurrection because of their greatness, just as the movement of clouds is not seen because of theirs.",
+            "bn": "কুরতুবী কুতাইবীর কথা উদ্ধৃত করে, আর বাগাভী প্রায় একই ভাষায়, বিষয়টিকে একটি সাধারণ নিয়মে পরিণত করেন। বিশাল কোনো জিনিস বা বিরাট কোনো সমষ্টির পুরোটা চোখ ধরতে পারে না। তার আকার বড়, এক প্রান্ত থেকে অন্য প্রান্তের দূরত্বও অনেক। তাই দর্শক তাকে থেমে আছে ভাবে, অথচ সেটি চলছে। তুলনাটা বাগাভী নিজেই টানেন: কিয়ামতের দিন পাহাড়ের চলা চোখে পড়বে না তার বিশালতার কারণে, যেমন মেঘের চলাও বিশালতার কারণে চোখে পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Placed on the Last Day",
+          "bn": "দৃশ্যটি শেষ দিনের"
+        },
+        "p": [
+          {
+            "en": "On when this happens, the commentaries that name a time agree. Al-Baghawi names the Day of Resurrection outright. Al-Qurtubi quotes al-Qushayri: wa-hadha yawm al-qiyamah, and this is the Day of Resurrection. As-Sa'di, as seen, files the scene under the Day's terror and describes the mountains as having suffered every hardship, crumbling and then fading away into scattered dust. Al-Baghawi and al-Qurtubi both report that they travel as clouds travel until they fall onto the earth and are levelled with it.",
+            "bn": "এ ঘটনা কখন ঘটবে, যেসব তাফসীর সময়ের কথা বলে, তারা সে প্রশ্নে একমত। বাগাভী সরাসরি কিয়ামতের দিনের নাম নেন। কুরতুবী কুশাইরীর কথা উদ্ধৃত করেন: ওয়া হাযা ইয়াওমুল কিয়ামাহ, এটা কিয়ামতের দিন। সা'দী, আগেই দেখা গেছে, দৃশ্যটিকে রাখেন সেদিনের আতঙ্কের মধ্যে। তাঁর বর্ণনায় পাহাড়ের উপর দিয়ে সব রকম কঠিন অবস্থা বয়ে যায়, সেগুলো চূর্ণ হয়, তারপর মিলিয়ে গিয়ে ছড়ানো ধুলো হয়ে যায়। বাগাভী ও কুরতুবী দুজনেই বলেন, পাহাড় মেঘের মতো চলতে চলতে মাটিতে পড়ে যায় আর মাটির সঙ্গে সমান হয়ে যায়।"
+          },
+          {
+            "en": "Ibn Kathir reads tamurru as tazulu 'an amakiniha, they leave their places, and lets the Qur'an explain itself. He sets beside the verse 52:9 and 52:10, the Day the sky sways and the mountains move off; 20:105 to 20:107, where they are blasted to dust and the ground is left a level plain with no dip or rise; and 18:47, the Day We set the mountains moving and you see the earth laid bare.",
+            "bn": "ইবন কাসীর 'তামুররু' শব্দের অর্থ করেন 'তাযূলু আন আমাকিনিহা', সেগুলো নিজের জায়গা ছেড়ে সরে যায়। তারপর কুরআন দিয়েই কুরআনের ব্যাখ্যা দেন। আয়াতের পাশে তিনি রাখেন ৫২:৯ ও ৫২:১০, যেদিন আকাশ থরথর করে কাঁপবে আর পাহাড় চলতে থাকবে। রাখেন ২০:১০৫ থেকে ২০:১০৭, যেখানে পাহাড় উড়িয়ে ধুলো করে দেওয়া হবে আর জমি হবে সমতল মাঠ, কোথাও উঁচু-নিচু থাকবে না। আরও রাখেন ১৮:৪৭, যেদিন পাহাড়কে চালিয়ে দেওয়া হবে আর তুমি দেখবে পৃথিবী খোলা পড়ে আছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notes that tara can mean you see or you will see. Read as future, the verse describes the mountains on the Day, seeming fixed while they move, and Ma'arif says most commentators take it this way. Read as present, the preference of Maulana Thanawi, it means you see the mountains now and think they will stand forever, though on the Day they will float like clouds. Either way the passing belongs to the Day of Resurrection.",
+            "bn": "মাআরিফুল কুরআন বলে, 'তারা' শব্দের অর্থ 'তুমি দেখছ' হতে পারে, 'তুমি দেখবে'ও হতে পারে। ভবিষ্যৎ অর্থে নিলে আয়াত কিয়ামতের দিনের পাহাড়ের বর্ণনা: সেগুলো স্থির মনে হবে, অথচ চলতে থাকবে। মাআরিফের ভাষ্যমতে অধিকাংশ মুফাসসির এভাবেই বুঝেছেন। বর্তমান অর্থে নিলে, যেটি মাওলানা থানভী গ্রহণ করেছেন, কথাটা দাঁড়ায় এই: তুমি এখন পাহাড় দেখছ আর ভাবছ এগুলো চিরকাল দাঁড়িয়ে থাকবে, অথচ কিয়ামতের দিন এগুলো মেঘের মতো ভেসে চলবে। দুই পাঠেই পাহাড়ের চলে যাওয়া কিয়ামতের দিনের ঘটনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning, Not an Orbit",
+          "bn": "সতর্কবাণী, কক্ষপথের কথা নয়"
+        },
+        "p": [
+          {
+            "en": "A reading common in modern times takes this verse as a description of the earth's motion, with the mountains carried along unseen. None of the seven commentaries consulted for this verse says so. Al-Baghawi, al-Qurtubi, Ibn Kathir, as-Sa'di and Ma'arif al-Qur'an place the scene on the Day, Thanawi's present-tense reading included. At-Tabari and the Muyassar explain the sight without naming a time, and neither mentions the earth's motion. This article stays with what they say.",
+            "bn": "আধুনিক কালে একটি ব্যাখ্যা বেশ প্রচলিত: এই আয়াত নাকি পৃথিবীর গতির বর্ণনা, যার সঙ্গে পাহাড়ও অলক্ষ্যে ঘুরছে। এই আয়াতের জন্য যে সাতটি তাফসীর দেখা হয়েছে, তার কোনোটিতে এ কথা নেই। বাগাভী, কুরতুবী, ইবন কাসীর, সা'দী ও মাআরিফুল কুরআন দৃশ্যটিকে রাখেন কিয়ামতের দিনে। থানভীর বর্তমান-কালের পাঠও তার বাইরে নয়। তাবারী ও মুয়াসসার দৃশ্যটির ব্যাখ্যা দেন, সময়ের নাম নেন না, তবে পৃথিবীর গতির কথা তাঁদের কারও লেখায় নেই। এ লেখা তাঁদের কথার মধ্যেই থাকছে।"
+          },
+          {
+            "en": "This is not a small point of method. The verse sits between the Horn and the Reckoning, and its last words turn to what you do. Read as a lesson in astronomy, it becomes something to admire from a distance. Read as the commentators read it, it addresses the reader directly: the ground you count on and the heights you measure yourself against will not stay, and you will stand before Him who knows your deeds.",
+            "bn": "পদ্ধতির দিক থেকে এটা ছোট কথা নয়। আয়াতটি আছে শিঙ্গার ফুঁ আর হিসাব-নিকাশের মাঝখানে, আর এর শেষ কথাটা মানুষের আমলের দিকে ফেরে। জ্যোতির্বিদ্যার পাঠ বানিয়ে পড়লে আয়াতটি দূর থেকে মুগ্ধ হয়ে দেখার জিনিস হয়ে যায়। তাফসীরকারেরা যেভাবে পড়েছেন সেভাবে পড়লে আয়াত সরাসরি পাঠকের সঙ্গে কথা বলে। যে মাটির উপর আপনি ভরসা করেন, যে উচ্চতার সঙ্গে নিজেকে মাপেন, তা টিকবে না। আর আপনাকে দাঁড়াতে হবে তাঁর সামনে, যিনি আপনার আমল জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Rock to Mirage",
+          "bn": "পাথর থেকে মরীচিকা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays, introduced with yuqal, it is said, a scheme that gathers the Qur'an's different descriptions of the mountains into six stages, all ending in the earth emptied of them. First they are crushed, before the great quake; then they become like carded wool, when the sky becomes like molten metal, as 70:8 and 70:9 join the two; then like scattered dust; then they are blasted away by winds, so that the ground beneath is laid bare.",
+            "bn": "কুরতুবী 'ইউকালু', অর্থাৎ 'বলা হয়' কথাটি দিয়ে একটি বিন্যাস তুলে ধরেন। পাহাড় সম্পর্কে কুরআনের ভিন্ন ভিন্ন বর্ণনাকে তাতে ছয়টি ধাপে সাজানো হয়েছে, আর সব ধাপের শেষ এক জায়গায়: পৃথিবী পাহাড়শূন্য হয়ে যাওয়া। প্রথমে পাহাড় চূর্ণ হয়, বড় ভূকম্পনের আগে। তারপর হয় ধোনা পশমের মতো, যখন আকাশ হবে গলিত ধাতুর মতো। ৭০:৮ ও ৭০:৯ আয়াত এই দুটিকে একসঙ্গে বলেছে। তারপর হয় ছড়ানো ধুলোর মতো। তারপর বাতাস এসে সেগুলো উড়িয়ে নেয়, যাতে নিচের জমি বেরিয়ে পড়ে।"
+          },
+          {
+            "en": "The fifth stage is this verse. The winds lift the dust above the earth, spread through the air, and whoever looks from far off takes it, for its density, to be solid bodies, though in truth it is passing. The sixth is the mirage: whoever looks at where the mountains stood finds nothing of them. Ma'arif al-Qur'an gives a similar ladder, citing al-Qurtubi and Ruh al-Ma'ani, and says some stages come with the first blowing of the Horn, some after the second.",
+            "bn": "পঞ্চম ধাপটিই এই আয়াত। বাতাস ধুলোকে পৃথিবীর উপরে তুলে ছড়িয়ে দেয়। দূর থেকে যে দেখে, ঘনত্বের কারণে সে ভাবে এগুলো নিরেট দেহ, অথচ আসলে তা চলে যাচ্ছে। ষষ্ঠ ধাপ মরীচিকা: যেখানে পাহাড় ছিল, সেদিকে তাকালে তার কিছুই আর পাওয়া যায় না। মাআরিফুল কুরআন কুরতুবী ও রূহুল মাআনীর বরাতে প্রায় একই রকম ধাপ বর্ণনা করে। তার ভাষ্যমতে কিছু ধাপ আসবে শিঙ্গার প্রথম ফুঁয়ের সঙ্গে, কিছু আসবে দ্বিতীয় ফুঁয়ের পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Parables in the Margin",
+          "bn": "পাশে রাখা তিন উপমা"
+        },
+        "p": [
+          {
+            "en": "After the plain reading, al-Qurtubi adds that it has also been said the verse is a mathal, a parable, and relays from al-Mawardi three such readings. In the first, attributed to Sahl ibn Abdullah, it is a parable of this world: the onlooker thinks it standing like the mountains, while it is taking its share of passing away, like the clouds. In the second, it is a parable of faith, which you think fixed in the heart while its deeds rise towards the heavens.",
+            "bn": "সরল অর্থের পরে কুরতুবী যোগ করেন, এ কথাও বলা হয়েছে যে আয়াতটি একটি মাসাল, উপমা। এ ধরনের তিনটি ব্যাখ্যা তিনি মাওয়ারদী থেকে আনেন। প্রথমটি সাহল ইবন আবদুল্লাহর নামে: এটা দুনিয়ার উপমা। দর্শক দুনিয়াকে পাহাড়ের মতো দাঁড়িয়ে থাকা ভাবে, অথচ মেঘের মতো সে নিজের ভাগের বিলয়ের দিকে এগিয়ে চলেছে। দ্বিতীয়টিতে এটা ঈমানের উপমা। আপনি ভাবেন ঈমান হৃদয়ে স্থির বসে আছে, অথচ তার আমল উপরে আসমানের দিকে উঠে যাচ্ছে।"
+          },
+          {
+            "en": "In the third, it is a parable of a person at the moment the soul leaves, when the soul sets out towards the Throne. Al-Qurtubi gives these after the literal account and does not set them against it. They are best held that way, as lessons drawn alongside the plain meaning rather than in place of it. The first comes close to what the verse asks of any reader: not to mistake what looks settled for what will last.",
+            "bn": "তৃতীয়টিতে এটা রূহ বেরিয়ে যাওয়ার মুহূর্তে মানুষের উপমা, যখন রূহ আরশের দিকে যাত্রা করে। কুরতুবী এগুলো এনেছেন আক্ষরিক ব্যাখ্যার পরে, তার বিপরীতে দাঁড় করাননি। এগুলোকে সেভাবেই রাখা ভালো: সরল অর্থের জায়গা দখল করে নয়, তার পাশে টানা শিক্ষা হিসেবে। প্রথম উপমাটি আয়াতের সেই দাবির খুব কাছে, যা যেকোনো পাঠকের কাছে আয়াত রাখে: যা স্থির দেখায়, তাকে চিরস্থায়ী ভেবে বসবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sun'a Allah, Read as Grammar",
+          "bn": "সুনআল্লাহ: ব্যাকরণের চোখে"
+        },
+        "p": [
+          {
+            "en": "Then comes sun'a Llahi alladhi atqana kulla shay': the work of Allah, who perfected all things. Why is sun'a in the accusative? Al-Qurtubi reports that for al-Khalil and Sibawayh it is a masdar, a verbal noun: once Allah has said they pass as the clouds pass, that statement already implies He has made this happen, a making. Al-Baghawi states the same in two words, nasb 'ala al-masdar. On this reading the phrase seals what came before it.",
+            "bn": "এরপর আসে: সুনআল্লাহিল্লাযী আতকানা কুল্লা শাইয়িন, আল্লাহর কারিগরি, যিনি প্রতিটি জিনিস নিখুঁত করেছেন। 'সুনআ' শব্দে যবর কেন? কুরতুবী জানান, খলীল ও সীবাওয়াইহের মতে এটি মাসদার, ক্রিয়াবাচক বিশেষ্য। আল্লাহ যখন বললেন 'সেগুলো মেঘের চলার মতো চলে', তখন সে কথার ভেতরেই আছে যে তিনিই তা ঘটিয়েছেন, এক রকম গড়ে তুলেছেন। বাগাভী একই কথা বলেন দুই শব্দে: নাসব আলাল মাসদার, মাসদার হিসেবে যবরযুক্ত। এই পাঠে বাক্যাংশটি আগের কথার উপর সিলমোহর।"
+          },
+          {
+            "en": "Al-Qurtubi gives two other possibilities. The accusative may express urging, unzuru sun'a Allah, look at the work of Allah; on that reading the reciter may pause at as-sahab, which the first reading does not allow. Or it may be read in the nominative, as dhalika sun'u Allah, that is the work of Allah, which is how the Muyassar and as-Sa'di paraphrase it. All three keep the same sense: what happens to the mountains is Allah's doing.",
+            "bn": "কুরতুবী আরও দুটি সম্ভাবনা দেখান। যবরটি উদ্বুদ্ধ করার অর্থেও হতে পারে, উনযুরূ সুনআল্লাহ, আল্লাহর কারিগরি দেখো। সেই পাঠে 'আস-সাহাব' শব্দে থামা যায়, প্রথম পাঠে যেখানে থামা হয় না। আবার পেশ দিয়েও পড়া যায়, যাতে অর্থ হয় যালিকা সুনউল্লাহ, এটা আল্লাহর কারিগরি। মুয়াসসার ও সা'দী এভাবেই অর্থ করেছেন। তিনটি পাঠেই মূল কথা এক: পাহাড়ের যা ঘটছে, তা আল্লাহরই কাজ।"
+          },
+          {
+            "en": "Atqana is glossed by at-Tabari's sources: Ibn Abbas (RA), by one chain, ahkama kulla shay', He made everything sound, and by another, ahsana kulla shay'in khalaqahu wa-awthaqahu, He made fine and firm all He created; Mujahid, awthaqa kulla shay'in wa-sawwa, He made everything firm and proportioned. Al-Qurtubi defines itqan as ihkam and adds az-Zuhri's note that it goes back to Ibn Taqin, an archer of 'Ad whose arrow never missed.",
+            "bn": "আতকানা শব্দের অর্থ তাবারী তাঁর বর্ণনাকারীদের সূত্রে দেন। এক সনদে ইবন আব্বাস (রাঃ) বলেন: আহকামা কুল্লা শাইয়িন, তিনি প্রতিটি জিনিস মজবুত করেছেন। আরেক সনদে বলেন: যা কিছু সৃষ্টি করেছেন, সুন্দর ও দৃঢ় করে গড়েছেন। মুজাহিদ বলেন: আওসাকা কুল্লা শাইয়িন ওয়া সাওয়া, সবকিছু দৃঢ় ও সুসমঞ্জস করেছেন। কুরতুবী ইতকানের সংজ্ঞা দেন ইহকাম, মজবুত করা। সঙ্গে যুহরীর একটি কথা আনেন: শব্দটির মূল ইবন তাকিন, আদ জাতির এক তীরন্দাজ, যার তীর কখনো লক্ষ্যভ্রষ্ট হতো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Maker Who Unmakes",
+          "bn": "যিনি গড়েন, তিনিই ভাঙেন"
+        },
+        "p": [
+          {
+            "en": "How far back does the phrase reach? Ma'arif al-Qur'an offers two answers. It may cover everything in the passage that shows Allah's power, the alternation of night and day in 27:86, the Horn and what follows it, so that none of it should astonish anyone, since its Maker is the Lord of the worlds. Or it may belong only to the mountains, so that their seeming still while moving is no wonder for Him who is all-powerful.",
+            "bn": "বাক্যাংশটির টান কতদূর পর্যন্ত? মাআরিফুল কুরআন দুটি উত্তর দেয়। হতে পারে এটি পুরো অংশে আল্লাহর ক্ষমতার যত নিদর্শন এসেছে, সবকিছুর সঙ্গে যুক্ত: ২৭:৮৬ আয়াতে রাত-দিনের পালাবদল, শিঙ্গার ফুঁ আর তার পরের ঘটনা। তাহলে এর কোনোটিতেই কারও অবাক হওয়ার কিছু নেই, কারণ এসবের স্রষ্টা জগতসমূহের রব। আবার হতে পারে এটি শুধু পাহাড়ের সঙ্গে যুক্ত। তাহলে অর্থ দাঁড়ায়, চলমান পাহাড় স্থির দেখানো সর্বশক্তিমানের কাছে বিস্ময়ের কিছু নয়।"
+          },
+          {
+            "en": "Ibn Kathir joins the two halves: He does that by His great power, He who perfected all He created and placed in it the wisdom He placed. The thought is worth sitting with. The same skill that once made the mountains firm is the skill that now moves them. Their firmness was never their own. It was a made thing, held in place for a term, and He who perfected it is He who ends it.",
+            "bn": "ইবন কাসীর দুই অংশকে জুড়ে দেন: তিনি তা করেন নিজের মহান ক্ষমতায়, তিনিই তো যা কিছু সৃষ্টি করেছেন সব নিখুঁত করেছেন এবং তাতে যতটা হিকমত রাখার রেখেছেন। কথাটা নিয়ে একটু থামা দরকার। যে নৈপুণ্যে পাহাড় একদিন মজবুত হয়েছিল, সেই নৈপুণ্যেই আজ তা সরে যাচ্ছে। পাহাড়ের অটলতা কখনো তার নিজের ছিল না। ওটা ছিল গড়ে দেওয়া জিনিস, নির্দিষ্ট সময়ের জন্য জায়গায় ধরে রাখা। যিনি তা নিখুঁত করেছিলেন, তিনিই তার ইতি টানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aware of Every Deed",
+          "bn": "প্রতিটি আমলের খবর রাখেন"
+        },
+        "p": [
+          {
+            "en": "The verse closes on innahu khabirun bima taf'alun: indeed He is well aware of what you do. At-Tabari, through Qatada, explains it as Allah possessing knowledge and experience of what His servants do, good and evil, obedience and disobedience, and repaying all of them for all of it, good with good and evil with its like. Ibn Kathir and as-Sa'di say the same more briefly: He knows, and He will repay. The verses that follow, 27:89 and 27:90, are that repayment.",
+            "bn": "আয়াতের শেষ বাক্য: ইন্নাহু খাবীরুম বিমা তাফআলূন, তোমরা যা করো, তিনি সে বিষয়ে পূর্ণ খবর রাখেন। তাবারী কাতাদার সূত্রে এর ব্যাখ্যা দেন এভাবে: বান্দারা যা করে, ভালো-মন্দ, আনুগত্য ও নাফরমানি, সবকিছুর জ্ঞান ও খবর আল্লাহর আছে। আর তিনি সবাইকে সবকিছুর প্রতিদান দেবেন, ভালোর বদলে ভালো, মন্দের বদলে তারই মতো। ইবন কাসীর ও সা'দী একই কথা বলেন আরও সংক্ষেপে: তিনি জানেন, আর তিনি প্রতিদান দেবেন। পরের দুই আয়াত, ২৭:৮৯ ও ২৭:৯০, সেই প্রতিদানেরই বর্ণনা।"
+          },
+          {
+            "en": "There are two readings of the final verb. Al-Qurtubi reports that the majority read taf'alun, you do, addressing the listener, while Ibn Kathir the reciter, Abu 'Amr and Hisham read yaf'alun, they do. Al-Baghawi names Ibn Kathir and the people of Basra for the second. Read either way, the line turns the scene of vanishing mountains into a reckoning: when the landmarks are gone, what remains in view is what people did.",
+            "bn": "শেষ ক্রিয়াটির দুটি কিরাআত আছে। কুরতুবী জানান, অধিকাংশ কারী পড়েন 'তাফআলূন', তোমরা করো, শ্রোতাকে সম্বোধন করে। আর কারী ইবন কাসীর, আবু আমর ও হিশাম পড়েন 'ইয়াফআলূন', তারা করে। বাগাভী দ্বিতীয় পাঠের জন্য ইবন কাসীর ও বসরার কারীদের নাম নেন। যেভাবেই পড়া হোক, বাক্যটি পাহাড় মিলিয়ে যাওয়ার দৃশ্যকে হিসাবের দৃশ্যে পরিণত করে। সব চিহ্ন যখন হারিয়ে যায়, চোখের সামনে থাকে শুধু মানুষের আমল।"
+          },
+          {
+            "en": "None of the commentaries read here attaches a hadith to this verse. Al-Qurtubi cites a saying of the Prophet ﷺ on doing work with itqan without naming a source, so it is left aside here. A general narration, not attached to this verse, pictures the ground once the mountains are gone. Muslim records in his Sahih (2790) from Sahl ibn Sa'd (RA) that the Messenger of Allah ﷺ said: The people will be assembled on the Day of Resurrection on a white plain with a reddish tinge like the loaf of white bread with no marks set up for anyone.",
+            "bn": "এখানে পড়া কোনো তাফসীর এই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। কাজ ইতকানের সঙ্গে করা নিয়ে নবী ﷺ-এর একটি বাণী কুরতুবী উল্লেখ করেছেন, কিন্তু উৎসের নাম দেননি, তাই এখানে তা রাখা হলো না। একটি সাধারণ বর্ণনা, যা এই আয়াতের সঙ্গে যুক্ত নয়, পাহাড় চলে যাওয়ার পরের জমির ছবি দেয়। মুসলিম তাঁর সহীহ গ্রন্থে (২৭৯০) সাহল ইবন সা'দ (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: কিয়ামতের দিন মানুষকে সমবেত করা হবে লালচে আভাযুক্ত সাদা এক সমতল ভূমিতে, যেন মিহি আটার রুটি, সেখানে কারও জন্য কোনো চিহ্ন থাকবে না।"
+          }
+        ]
+      }
+    ]
+  },
   "27:92": {
     "sections": [
       {

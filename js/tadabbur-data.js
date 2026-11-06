@@ -24769,6 +24769,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Know your limits honestly, recognise the gifts in others without envy, and ask Allah for the help you need to carry what He has given you.",
     "lessonBn": "নিজের সীমা সৎভাবে জানুন, হিংসা ছাড়া অন্যের গুণ স্বীকার করুন, আর আল্লাহ যে দায়িত্ব দিয়েছেন তা বইতে যে সাহায্য দরকার তা তাঁর কাছেই চান।"
+  },
+  "27:88": {
+    "reflectionEn": "Nothing on earth looks surer than a mountain. People steer by it, build in its shelter, and use it as their word for whatever cannot be moved. Then the Horn of 27:87 is blown, and the verse turns to the mountains: you look and think them standing still, yet they are passing as clouds pass. What seemed the fixed back of the world turns out to be moving under the One who made it, and who perfected everything He made. The verse closes on a short line: He is well aware of what you do. If even the mountains will not stay, what am I leaning on as though it never will?",
+    "reflectionBn": "পাহাড়ের চেয়ে অটল কিছু পৃথিবীতে চোখে পড়ে না। মানুষ পাহাড় দেখে পথ চেনে, তার আড়ালে ঘর বাঁধে। যা নড়ানো যায় না, তার উপমাও দেয় পাহাড় দিয়ে। তারপর ২৭:৮৭ আয়াতে শিঙ্গায় ফুঁ দেওয়া হয়, আর এই আয়াত চোখ ফেরায় পাহাড়ের দিকে। আপনি দেখছেন আর ভাবছেন সেগুলো স্থির দাঁড়িয়ে আছে, অথচ সেগুলো চলে যাচ্ছে মেঘের মতো। পৃথিবীর যে মেরুদণ্ডকে অচল ভাবা হতো, দেখা যায় তা চলছে তাঁরই হুকুমে, যিনি তা বানিয়েছেন এবং প্রতিটি জিনিস নিখুঁত করে গড়েছেন। আয়াতের শেষ বাক্যটি ছোট: তোমরা যা করো, তিনি সে বিষয়ে পূর্ণ খবর রাখেন। পাহাড়ও যদি টিকে না থাকে, তবে আমি কিসের উপর এমনভাবে ভর দিয়ে আছি, যেন তা কোনোদিন সরবে না?",
+    "pointsEn": [
+      "What in my life do I treat as a mountain, so settled that I never imagine it moving?",
+      "If the firmest thing I can see is already on its way to passing, how should that change what I chase this year?",
+      "The verse calls the mountains' passing the work of the One who perfected everything. Do I see His skill in what He unmakes as well as in what He makes?",
+      "It ends with He is well aware of what you do. Which of my deeds would I want Him to find when everything else has gone?",
+      "Where am I mistaking stillness for permanence, in my health, my plans or the people around me?"
+    ],
+    "pointsBn": [
+      "আমার জীবনে কোন জিনিসকে আমি পাহাড় বানিয়ে রেখেছি, এতটাই স্থির যে তা কখনো সরতে পারে বলে কল্পনাও করি না?",
+      "যা কিছু চোখে দেখি, তার মধ্যে সবচেয়ে মজবুতটাও যদি বিদায়ের পথে থাকে, তবে এ বছর আমি কিসের পেছনে ছুটব?",
+      "আয়াত পাহাড়ের চলে যাওয়াকে বলছে তাঁর কারিগরি, যিনি সবকিছু নিখুঁত করেছেন। তিনি যা ভেঙে দেন, তাতেও কি আমি তাঁর নৈপুণ্য দেখতে পাই, নাকি শুধু গড়ার মধ্যে দেখি?",
+      "আয়াত শেষ হয়েছে এই কথায়: তোমরা যা করো তিনি তার খবর রাখেন। সবকিছু চলে যাওয়ার দিন আমার কোন আমলটা তাঁর সামনে থাকুক বলে আমি চাই?",
+      "স্বাস্থ্য, পরিকল্পনা বা কাছের মানুষ, কোথায় আমি স্থির দেখেই চিরস্থায়ী ভেবে বসে আছি?"
+    ],
+    "lessonEn": "Even the mountains that look fixed will pass like clouds on the Day. Lean on the One who perfected all things, and on the deeds He sees, not on what only seems permanent.",
+    "lessonBn": "যে পাহাড় অটল দেখায়, সেদিন তাও মেঘের মতো চলে যাবে। যা শুধু চিরস্থায়ী দেখায়, তার উপর নয়, ভরসা রাখুন সবকিছু নিখুঁতভাবে গড়া সেই আল্লাহর উপর আর সেই আমলের উপর, যা তিনি দেখছেন।"
   }
 };
 
