@@ -26149,6 +26149,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Fire's drink is described now so that it never has to be tasted; hear the warning as an open door and turn back to Allah while there is time.",
     "lessonBn": "জাহান্নামের পানীয়ের বর্ণনা এখনই দেওয়া হলো, যাতে কখনো তার স্বাদ নিতে না হয়। সতর্কবাণীকে খোলা দরজা ভেবে শুনুন, আর সময় থাকতে আল্লাহর দিকে ফিরে আসুন।"
+  },
+  "38:71": {
+    "reflectionEn": "The Prophet ﷺ has just said that he had no knowledge of the exalted assembly when they disputed, and that all he was given is that he is a clear warner. Then the scene opens, told to him by his Lord. Before any human being exists, Allah tells the angels He is about to make one, and names the material plainly: clay. Nothing grand is claimed for it. Whatever will raise this creature comes afterwards, from Allah's making and His command. The one who refuses to bow will later throw that same word back as an insult. I am made of that same clay. When I weigh people, or myself, do I weigh the material, or what Allah has given?",
+    "reflectionBn": "নবী ﷺ এইমাত্র বলেছেন, ঊর্ধ্বজগতের সভায় যখন বাদানুবাদ চলছিল, তার কোনো জ্ঞান তাঁর ছিল না। তাঁকে শুধু জানানো হয়েছে যে তিনি একজন স্পষ্ট সতর্ককারী। এরপরই দৃশ্যটা খোলে, তাঁর রব নিজে তাঁকে শোনান। কোনো মানুষ তখনো নেই। আল্লাহ ফেরেশতাদের জানাচ্ছেন, তিনি একজনকে বানাতে যাচ্ছেন, আর উপাদানের নামটাও সোজাসুজি বলে দিচ্ছেন: কাদামাটি। এ উপাদানের কোনো গৌরব দাবি করা হয়নি। এই সৃষ্টিকে যা উঁচু করবে, তা আসবে পরে, আল্লাহর গড়ন আর তাঁর আদেশ থেকে। যে সেজদা করতে অস্বীকার করবে, সে পরে এই শব্দটাই খোঁটা হিসেবে ফিরিয়ে দেবে। আমিও সেই মাটিরই তৈরি। মানুষকে, কিংবা নিজেকে, যখন মাপি, তখন কি উপাদান দিয়ে মাপি, নাকি আল্লাহ যা দিয়েছেন তা দিয়ে?",
+    "pointsEn": [
+      "What do I know about the unseen only because revelation told me, and do I hold it with the certainty it deserves?",
+      "Where have I let someone's origin, family or trade decide how much respect I give them?",
+      "When I feel small because of where I come from, do I remember that the first human being was announced to the angels as clay?",
+      "Is there a truth I keep resisting mainly because of who brought it to me?",
+      "What has my Lord given me that I could never have given myself, and have I thanked Him for it today?"
+    ],
+    "pointsBn": [
+      "গায়েবের কোন কথাগুলো আমি শুধু ওহীর কারণেই জানি? সেগুলোকে কি ততটা নিশ্চয়তা নিয়ে ধরে রাখি, যতটা তার প্রাপ্য?",
+      "কোথায় আমি কারও বংশ, পরিবার বা পেশা দেখে ঠিক করেছি তাকে কতটা সম্মান দেব?",
+      "নিজের জন্মস্থান বা পরিচয় নিয়ে যখন ছোট মনে হয়, তখন কি মনে পড়ে যে প্রথম মানুষের কথা ফেরেশতাদের কাছে কাদামাটি বলেই ঘোষণা হয়েছিল?",
+      "এমন কোনো সত্য কি আছে, যা আমি মেনে নিতে পারছি না মূলত কে সেটা এনেছে সে কারণে?",
+      "আমার রব আমাকে এমন কী দিয়েছেন যা আমি নিজে কখনো নিজেকে দিতে পারতাম না? আজ কি তার জন্য তাঁর শুকরিয়া আদায় করেছি?"
+    ],
+    "lessonEn": "You were named as clay before you were honoured. Let that keep you humble, measure no one by their origin, and take what you know of the unseen only from revelation.",
+    "lessonBn": "সম্মান পাওয়ার আগেই আপনাকে কাদামাটি বলে পরিচয় দেওয়া হয়েছে। এ কথা আপনাকে বিনয়ী রাখুক। কাউকে তার উৎস দিয়ে মাপবেন না, আর গায়েবের জ্ঞান নেবেন শুধু ওহী থেকে।"
   }
 };
 

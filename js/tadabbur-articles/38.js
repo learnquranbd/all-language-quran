@@ -2523,6 +2523,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:71": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Warner Turns to a Scene",
+          "bn": "সতর্ককারী এবার দৃশ্যে যান"
+        },
+        "p": [
+          {
+            "en": "Idh qala rabbuka lil-mala'ikati inni khaliqun basharan min tin: when your Lord said to the angels, I am creating a human being from clay. Nine words open the last story of Surah Sad. Just before them, in 38:65 to 38:70, the Prophet ﷺ is told to say that he is only a warner, that what he brings is great news from which his hearers turn away, and that he had no knowledge of the exalted assembly when they disputed. The verse that follows takes the listener into that assembly.",
+            "bn": "ইয ক্বালা রাব্বুকা লিল-মালাইকাতি ইন্নী খালিকুন বাশারাম মিন তীন: স্মরণ কর, যখন তোমার রব ফেরেশতাদের বললেন, আমি কাদামাটি থেকে মানুষ সৃষ্টি করতে যাচ্ছি। নয়টি শব্দে সূরা সোয়াদের শেষ কাহিনির শুরু। ঠিক আগে, ৩৮:৬৫ থেকে ৩৮:৭০ আয়াতে, নবী ﷺ-কে বলতে বলা হয়েছে: তিনি কেবল একজন সতর্ককারী। তিনি যা এনেছেন তা এক মহা সংবাদ, অথচ শ্রোতারা তা থেকে মুখ ফিরিয়ে নিচ্ছে। আর ঊর্ধ্বজগতের সভায় যখন বাদানুবাদ চলছিল, তার কোনো জ্ঞান তাঁর ছিল না। পরের এই আয়াত শ্রোতাকে নিয়ে যায় সেই সভার ভেতরে।"
+          },
+          {
+            "en": "The verse does not name the human being it announces. At-Tabari supplies the name in a clause, saying that by this Allah means the creation of Adam (AS), and al-Baghawi glosses the verse in two words: meaning Adam. Ibn Kathir places the passage among its tellings. Allah, he says, mentions this story in al-Baqara, at the opening of al-A'raf, in al-Hijr, al-Isra' and al-Kahf, and here. Each telling has its own neighbours, and in Sad the neighbour is a Prophet saying he had no knowledge of it.",
+            "bn": "যে মানুষের ঘোষণা দেওয়া হচ্ছে, আয়াত তাঁর নাম বলে না। তাবারী নামটা জুড়ে দেন ছোট্ট এক বাক্যে: এর দ্বারা আল্লাহ বোঝাচ্ছেন আদম (আঃ)-এর সৃষ্টি। বাগাভী পুরো আয়াতের ব্যাখ্যা সারেন দুই শব্দে: অর্থাৎ আদম। ইবন কাসীর মনে করিয়ে দেন, এ কাহিনি কুরআনে বারবার এসেছে। তাঁর তালিকায় আছে সূরা বাকারা, সূরা আ'রাফের শুরু, হিজর, ইসরা, কাহফ, আর এই সূরা। প্রতিবারই কাহিনির আশপাশে থাকে আলাদা প্রসঙ্গ। সোয়াদে সেই প্রসঙ্গ হলো এমন এক নবী, যিনি নিজেই বলছেন এ বিষয়ে তাঁর কোনো জ্ঞান ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hung on the Hour of Disputing",
+          "bn": "বাদানুবাদের মুহূর্তে বাঁধা"
+        },
+        "p": [
+          {
+            "en": "The first word, idh, when, needs something to hang on. At-Tabari hangs it on the idh of 38:69. Idh qala rabbuka, he writes, continues idh yakhtasimun, when they were disputing, and he rewrites the whole as a single sentence: I had no knowledge of the exalted assembly when they were disputing, at the time your Lord said, O Muhammad, to the angels: I am creating a human being from clay. On his reading, the announcement in this verse marks the moment of the dispute.",
+            "bn": "প্রথম শব্দ ইয, অর্থাৎ যখন। এ শব্দকে কোনো কিছুর সঙ্গে জুড়তে হয়। তাবারী একে জুড়েছেন ৩৮:৬৯ আয়াতের ইয-এর সঙ্গে। তাঁর মতে ইয ক্বালা রাব্বুকা হলো ইয ইয়াখতাসিমূন, অর্থাৎ যখন তারা বাদানুবাদ করছিল, তারই ধারাবাহিকতা। তিনি গোটা কথাটা একটিমাত্র বাক্যে সাজিয়ে দেন: ঊর্ধ্বজগতের সভা যখন বাদানুবাদ করছিল, তার কোনো জ্ঞান আমার ছিল না, সেই সময়, হে মুহাম্মাদ, যখন তোমার রব ফেরেশতাদের বললেন, আমি কাদামাটি থেকে মানুষ সৃষ্টি করতে যাচ্ছি। তাঁর পাঠে এ আয়াতের ঘোষণাই বাদানুবাদের মুহূর্ত চিহ্নিত করে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same connection first, in nearly the same words. Then he records a second parse, introduced with it is said. On that view idh qala stands in apposition to idh yakhtasimun, a badal that restates it, and the verb yakhtasimun attaches to a word left unspoken. The sense becomes: I had no knowledge of the speech of the exalted assembly at the time of their disputing. The two parses differ over how the grammar is built, and both tie the time of the dispute to this announcement.",
+            "bn": "কুরতুবীও প্রথমে প্রায় একই ভাষায় এই সংযোগের কথা বলেন। তারপর 'বলা হয়' বলে দ্বিতীয় এক ব্যাকরণগত বিশ্লেষণ আনেন। সে মতে ইয ক্বালা হলো ইয ইয়াখতাসিমূন-এর বদল, অর্থাৎ একই সময়কে নতুন করে বলা। আর ইয়াখতাসিমূন ক্রিয়াটি যুক্ত এমন এক শব্দের সঙ্গে, যা উহ্য রাখা হয়েছে। তখন অর্থ দাঁড়ায়: বাদানুবাদের সময় ঊর্ধ্বজগতের সভার কথাবার্তার কোনো জ্ঞান আমার ছিল না। দুই বিশ্লেষণের তফাত বাক্যের গঠন নিয়ে। তবে দুটোই বাদানুবাদের সময়কে এই ঘোষণার সঙ্গে বেঁধে দেয়।"
+          },
+          {
+            "en": "As-Sa'di keeps it short. Then, he says, Allah mentioned the dispute of the exalted assembly, and said: when your Lord said to the angels. For him this verse simply begins the account of that dispute. Al-Baghawi and Ibn Kathir, in the text read for this verse, do not discuss the link at all. What the dispute itself consisted of is a question for 38:69. The commentary read for this verse does not set it out beyond this link in time, and this article does not fill the gap from elsewhere.",
+            "bn": "সা'দী কথাটা সংক্ষেপে সারেন। তিনি বলেন, এরপর আল্লাহ ঊর্ধ্বজগতের সভার বাদানুবাদের কথা উল্লেখ করলেন এবং বললেন: যখন তোমার রব ফেরেশতাদের বললেন। তাঁর কাছে এ আয়াত সেই বাদানুবাদের বিবরণের সূচনা মাত্র। এ আয়াতে পড়া বাগাভী ও ইবন কাসীরের তাফসীরে এ সংযোগের কোনো আলোচনাই নেই। বাদানুবাদটা আসলে কী নিয়ে ছিল, সে প্রশ্ন ৩৮:৬৯ আয়াতের। এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, সেগুলো সময়ের এই সংযোগের বাইরে বিষয়টা খুলে বলে না। এ প্রবন্ধও অন্য কোথাও থেকে এনে সেই ফাঁক পূরণ করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Scene He Did Not Witness",
+          "bn": "যে দৃশ্য তিনি দেখেননি"
+        },
+        "p": [
+          {
+            "en": "Rabbuka, your Lord: the address is to the Prophet ﷺ. At-Tabari makes it explicit in his paraphrase, your Lord, O Muhammad, and the Muyassar opens its gloss with an instruction: mention to them, O Messenger, when your Lord said to the angels. The Prophet ﷺ is to tell his people the scene. Yet in 38:69 and 38:70 he has just said, in his own voice, that he had no knowledge of the exalted assembly, and that nothing is revealed to him except that he is a clear warner.",
+            "bn": "রাব্বুকা, তোমার রব: সম্বোধন নবী ﷺ-এর প্রতি। তাবারী তাঁর ব্যাখ্যায় তা খুলে বলেন: তোমার রব, হে মুহাম্মাদ। মুয়াসসার তার ব্যাখ্যা শুরু করে একটি নির্দেশ দিয়ে: হে রাসূল, তাদের কাছে সেই সময়ের কথা বলুন, যখন আপনার রব ফেরেশতাদের বলেছিলেন। অর্থাৎ নবী ﷺ নিজের কওমকে দৃশ্যটা শোনাবেন। অথচ ৩৮:৬৯ ও ৩৮:৭০ আয়াতে তিনি এইমাত্র নিজের মুখে বলেছেন, ঊর্ধ্বজগতের সভার কোনো জ্ঞান তাঁর ছিল না। তাঁর কাছে শুধু এটুকুই ওহী করা হয় যে তিনি একজন স্পষ্ট সতর্ককারী।"
+          },
+          {
+            "en": "Put side by side, the verses show how the account reaches him. He was not present in the assembly, and he claims no knowledge of it of his own. What he tells comes to him from his Lord, and he passes it on as a warner. That is the shape the surah itself gives to the story. It arrives inside a disclaimer, so that the listener receives it as revelation, and not as a report from someone who stood and watched. The commentaries read here keep to that shape: they explain the scene's grammar and address, and add no description of the assembly.",
+            "bn": "আয়াতগুলো পাশাপাশি রাখলে বোঝা যায় কাহিনিটা তাঁর কাছে কীভাবে পৌঁছেছে। সেই সভায় তিনি উপস্থিত ছিলেন না। নিজের পক্ষ থেকে এর কোনো জ্ঞানও তিনি দাবি করেন না। তিনি যা বলছেন, তা এসেছে তাঁর রবের কাছ থেকে, আর তিনি তা পৌঁছে দিচ্ছেন সতর্ককারী হিসেবে। সূরা নিজেই কাহিনিকে এই কাঠামো দিয়েছে। কাহিনি আসছে এক অস্বীকারোক্তির ভেতর দিয়ে, যাতে শ্রোতা একে ওহী হিসেবেই গ্রহণ করে। কেউ দাঁড়িয়ে দেখে এসে বর্ণনা দিচ্ছে, এভাবে নয়। এখানে পড়া তাফসীরগুলোও সেই কাঠামোর ভেতরে থাকে। তারা দৃশ্যের ব্যাকরণ আর সম্বোধন ব্যাখ্যা করে, সভার কোনো বিবরণ যোগ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Envy at Two Doors",
+          "bn": "দুই দরজায় একই হিংসা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, citing the Tafsir Kabir, reads one more purpose into the placement. The account, it says, does more than allude to the exchange between Allah and the angels mentioned just before. It turns attention to the way Iblis refused to prostrate to Adam (AS) out of envy and arrogance. In much the same way, it says, the idolaters of Arabia would not accept the Prophet's counsel, out of envy and arrogance, and so they were heading for the fate that Iblis met.",
+            "bn": "মাআরিফুল কুরআন তাফসীরে কাবীরের বরাতে কাহিনিটা এখানে আনার আরও একটি উদ্দেশ্য দেখায়। তার মতে, কাহিনিটা শুধু আগের আয়াতে উল্লিখিত আল্লাহ ও ফেরেশতাদের কথোপকথনের দিকেই ইঙ্গিত করে না। এটি দৃষ্টি টেনে নেয় সেই দিকে, যেভাবে ইবলীস হিংসা আর অহংকারের কারণে আদম (আঃ)-কে সেজদা করতে অস্বীকার করেছিল। মাআরিফুল কুরআন বলে, আরবের মুশরিকরাও ঠিক তেমনি হিংসা আর অহংকারের কারণে নবী ﷺ-এর উপদেশ মানতে রাজি ছিল না। তাই তারা এগোচ্ছিল সেই পরিণতির দিকে, যা ইবলীসের হয়েছিল।"
+          },
+          {
+            "en": "That reading needs a boundary drawn around it. The verses describe Iblis, and the commentary describes the Prophet's opponents in Mecca who rejected him. Neither licenses anything against any living person or community, and no reader is given the right to assign anyone Iblis's end. What the parallel offers is a test turned inward: whether a truth is ever refused because of who brought it, and whether pride, rather than doubt, is the real reason. The word the Qur'an uses for Iblis in 38:74 is istakbara, he grew arrogant, and that is what a reader is asked to look for in himself.",
+            "bn": "এ ব্যাখ্যার চারপাশে একটা সীমারেখা টেনে রাখা দরকার। আয়াতগুলো ইবলীসের বর্ণনা দেয়। আর তাফসীরটা বলে মক্কার সেই বিরোধীদের কথা, যারা নবী ﷺ-কে প্রত্যাখ্যান করেছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এর কোনোটিই কিছুর অনুমতি দেয় না। কারও জন্য ইবলীসের পরিণতি নির্ধারণ করার অধিকারও কোনো পাঠককে দেওয়া হয়নি। এই তুলনা বরং নিজের দিকে ফেরানো এক পরীক্ষা। কোনো সত্য কি কখনো শুধু এ কারণে ফিরিয়ে দিয়েছি যে কে সেটা এনেছে? আর আসল কারণটা কি সংশয়, নাকি অহংকার? ৩৮:৭৪ আয়াতে ইবলীস সম্পর্কে কুরআনের শব্দ ইসতাকবারা, সে অহংকার করল। পাঠককে খুঁজতে বলা হচ্ছে ঠিক এটাই, নিজের ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Informed First, Commanded Ahead",
+          "bn": "আগে জানানো, আদেশও আগেভাগে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di describes the words to the angels as spoken by way of informing, 'ala wajh al-ikhbar. Ibn Kathir says the same at more length. Allah let the angels know, before Adam (AS) was created, that He would create a human being, and He put the command to them in advance: when He had finished creating and proportioning him, they were to prostrate to him. The instruction comes before the creature exists, so the angels hear their part before the moment for it arrives.",
+            "bn": "সা'দী বলেন, ফেরেশতাদের উদ্দেশে এ কথা বলা হয়েছিল সংবাদ দেওয়ার ধরনে, আলা ওয়াজহিল ইখবার। ইবন কাসীর একই কথা আরেকটু বিস্তারে বলেন। আদম (আঃ)-কে সৃষ্টি করার আগেই আল্লাহ ফেরেশতাদের জানিয়ে দিলেন যে তিনি একজন মানুষ সৃষ্টি করবেন। আদেশটাও তিনি আগেভাগে দিয়ে রাখলেন: তাকে সৃষ্টি করা ও সুঠাম করে গড়া শেষ হলে তারা যেন তাকে সেজদা করে। সৃষ্টির অস্তিত্বের আগেই নির্দেশ এসে গেল। ফলে সময় আসার আগেই ফেরেশতারা জেনে গেল তাদের করণীয় কী।"
+          },
+          {
+            "en": "Ibn Kathir gives the prostration four aims: honour, esteem and respect for Adam, and obedience to the command of Allah. The Muyassar, whose gloss runs on into 38:72, is careful about its kind. It was a prostration of greeting and honour, it says, not a prostration of worship, because worship belongs to Allah alone, and it adds that the law of Islam has forbidden prostration as a greeting. The breathing of the spirit in 38:72 is treated at 32:9 and is not retold here.",
+            "bn": "ইবন কাসীর সেজদার চারটি উদ্দেশ্য বলেন: আদমের প্রতি সম্মান, মর্যাদা ও শ্রদ্ধা, আর আল্লাহর আদেশ পালন। মুয়াসসারের ব্যাখ্যা ৩৮:৭২ আয়াত পর্যন্ত গড়িয়েছে, আর সেজদার ধরন নিয়ে সে সতর্ক। তার ভাষায়, এ ছিল অভিবাদন ও সম্মানের সেজদা, ইবাদতের সেজদা নয়। কারণ ইবাদত কেবল আল্লাহর জন্যই। সঙ্গে সে যোগ করে, ইসলামের শরীয়তে অভিবাদনের সেজদা হারাম করা হয়েছে। ৩৮:৭২ আয়াতে রূহ ফুঁকে দেওয়ার যে কথা, তার আলোচনা আছে ৩২:৯ আয়াতে। এখানে তা আর বলা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tin Here, Other Words Elsewhere",
+          "bn": "এখানে তীন, অন্যত্র অন্য শব্দ"
+        },
+        "p": [
+          {
+            "en": "The material is named in one word, tin, clay. As-Sa'di's gloss is brief: that is, its material is from clay. Ibn Kathir, retelling this scene, does not repeat tin. He has Allah tell the angels that He would create a human being min salsalin min hama'in masnun, from ringing clay of altered mud, which is the wording of 15:28. He tells the announcement of this surah in the words of another, and so his retelling joins the two wordings in a single announcement.",
+            "bn": "উপাদানের নাম এসেছে একটি শব্দে: তীন, অর্থাৎ কাদামাটি। সা'দীর ব্যাখ্যা ছোট: অর্থাৎ তার উপাদান কাদামাটি থেকে। ইবন কাসীর দৃশ্যটা নতুন করে বলতে গিয়ে তীন শব্দটা আর বলেন না। তাঁর বর্ণনায় আল্লাহ ফেরেশতাদের জানান, তিনি মানুষ সৃষ্টি করবেন মিন সালসালিম মিন হামাইম মাসনূন থেকে, অর্থাৎ পরিবর্তিত কালো কাদার ঠনঠনে মাটি থেকে। এ ভাষা ১৫:২৮ আয়াতের। এই সূরার ঘোষণা তিনি শোনান আরেক সূরার শব্দে। ফলে তাঁর বর্ণনায় দুই ভাষ্য মিলে যায় একটিমাত্র ঘোষণায়।"
+          },
+          {
+            "en": "The Qur'an names the material with more than one word. Adam is created min turab, from dust, in 3:59; the human being from salsal like pottery in 55:14, and from an extract of clay in 23:12. Al-Qurtubi, on 15:26, sets several of these words in an order he credits to the majority: first dust, then wetted into clay, then left until it changed into altered mud, then dried into ringing clay. On that order, tin is one stage of a single material. The sequence is set out in full under 15:26.",
+            "bn": "কুরআন এই উপাদানকে একাধিক শব্দে উল্লেখ করেছে। ৩:৫৯ আয়াতে আদমকে সৃষ্টি করা হয়েছে মিন তুরাব, মাটি বা ধুলা থেকে। ৫৫:১৪ আয়াতে মানুষকে পোড়ামাটির মতো ঠনঠনে মাটি থেকে, আর ২৩:১২ আয়াতে কাদামাটির নির্যাস থেকে। কুরতুবী ১৫:২৬ আয়াতের আলোচনায় এর কয়েকটি শব্দকে ধারাবাহিক ক্রমে সাজান, আর এ ক্রমকে বলেন অধিকাংশের মত। প্রথমে ধুলা। তারপর পানিতে ভিজে কাদা। তারপর ফেলে রাখায় বদলে গিয়ে পরিবর্তিত কালো কাদা। শেষে শুকিয়ে ঠনঠনে মাটি। এ ক্রম ধরলে তীন একই উপাদানের একটি ধাপ। পুরো ক্রমের আলোচনা আছে ১৫:২৬ আয়াতে।"
+          },
+          {
+            "en": "One more thing in this passage is plain from the text itself. The word Allah uses in the announcement is the word Iblis uses in his refusal. You created me from fire, he says in 38:76, and created him min tin. He says the same in 7:12, and in 17:61 he asks whether he should prostrate to one You created as clay. The material named openly by the Creator becomes, in another mouth, a reason for contempt. The verse does not argue with him here; it simply names the clay first, in Allah's own words.",
+            "bn": "এ অংশে আরেকটি বিষয় আয়াতের শব্দ থেকেই স্পষ্ট। ঘোষণায় আল্লাহ যে শব্দ ব্যবহার করেছেন, অস্বীকারের সময় ইবলীসও সেই শব্দই ব্যবহার করে। ৩৮:৭৬ আয়াতে সে বলে: আপনি আমাকে আগুন থেকে সৃষ্টি করেছেন, আর তাকে সৃষ্টি করেছেন মিন তীন, কাদামাটি থেকে। ৭:১২ আয়াতেও সে একই কথা বলে। আর ১৭:৬১ আয়াতে সে প্রশ্ন তোলে, যাকে আপনি কাদামাটি দিয়ে বানিয়েছেন, আমি কি তাকে সেজদা করব? স্রষ্টা যে উপাদানের নাম খোলাখুলি বলেছেন, অন্য এক মুখে সেটাই হয়ে গেল তাচ্ছিল্যের কারণ। এখানে আয়াত তার সঙ্গে তর্কে যায় না। শুধু আল্লাহর নিজের কথায় আগেই মাটির নামটা বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Shape Left Standing",
+          "bn": "রেখে দেওয়া এক অবয়ব"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith to it. A general narration in Sahih Muslim (2611), which none of them ties to this verse, speaks of the shaped clay. Anas reports that the Messenger of Allah ﷺ said: When Allah gave Adam his form in the Garden, He left him for as long as Allah willed to leave him. Iblis began to go around him, looking at what he was, and when he saw that he was hollow, he knew that he had been created a creature without self-control.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। সহীহ মুসলিমে (২৬১১) একটি সাধারণ বর্ণনা আছে, যা তাঁদের কেউ এ আয়াতের সঙ্গে জোড়েননি। এতে গড়ে তোলা মাটির অবয়বের কথা আছে। আনাস (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আল্লাহ যখন জান্নাতে আদমকে আকৃতি দিলেন, তখন যতদিন আল্লাহ চাইলেন, ততদিন তাকে রেখে দিলেন। ইবলীস তার চারপাশে ঘুরে ঘুরে দেখতে লাগল সে কী। যখন দেখল সে ভেতরে ফাঁপা, তখন বুঝে নিল, তাকে এমন সৃষ্টি হিসেবে বানানো হয়েছে, যে নিজেকে সামলে রাখতে পারে না।"
+          },
+          {
+            "en": "Muslim records it in his Sahih with two chains. The hadith speaks of a form left for a time and of Iblis looking it over; it says nothing about the spirit or the prostration, and this article adds nothing to it. The Arabic word for the creature's state is la yatamalak, one who cannot hold himself in check. Set beside 38:71, the report shows the clay creature as needy from within, not self-sufficient, seen first by the one who would refuse to honour it.",
+            "bn": "মুসলিম তাঁর সহীহ গ্রন্থে দুটি সনদে হাদীসটি এনেছেন। হাদীসে আছে কিছুকাল রেখে দেওয়া এক অবয়বের কথা, আর ইবলীসের তা খুঁটিয়ে দেখার কথা। রূহ বা সেজদা নিয়ে এখানে কিছু বলা হয়নি, এ প্রবন্ধও তাতে কিছু যোগ করছে না। সৃষ্টির অবস্থা বোঝাতে আরবি শব্দ এসেছে লা ইয়াতামালাক, এমন একজন, যে নিজেকে সংযত রাখতে পারে না। ৩৮:৭১ আয়াতের পাশে রাখলে বর্ণনাটি দেখায়, মাটির এই সৃষ্টি ভেতর থেকেই মুখাপেক্ষী, নিজে নিজে স্বয়ংসম্পূর্ণ নয়। আর তাকে প্রথম খুঁটিয়ে দেখেছিল সেই, যে পরে তাকে সম্মান জানাতে অস্বীকার করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holding the Clay and the Honour",
+          "bn": "মাটি আর মর্যাদা একসঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Read whole, the verse holds two things together. The human being is announced by his material, and the material is ordinary: clay, earth wetted with water. Yet the announcement is made by Allah Himself to the angels, and in Ibn Kathir's account the command to honour this creature was given before he was made. Whatever rank the human being has does not come from the clay. It comes from Him who spoke of him before he existed.",
+            "bn": "পুরো আয়াত একসঙ্গে পড়লে দুটি সত্য পাশাপাশি দেখা যায়। মানুষের ঘোষণা এসেছে তার উপাদানের নাম দিয়ে, আর উপাদানটা অতি সাধারণ: কাদামাটি, পানিতে ভেজা মাটি। অথচ ঘোষণাটা দিচ্ছেন স্বয়ং আল্লাহ, ফেরেশতাদের সামনে। ইবন কাসীরের বর্ণনা অনুযায়ী, এই সৃষ্টিকে সম্মান জানানোর আদেশ এসেছিল তাকে বানানোর আগেই। মানুষের যে মর্যাদা, তা মাটি থেকে আসেনি। এসেছে তাঁর কাছ থেকে, যিনি তার অস্তিত্বের আগেই তার কথা বলেছিলেন।"
+          },
+          {
+            "en": "That double fact cuts against two errors. One is to despise a person for what he is made of, or where he comes from, which is the error Iblis voiced in 38:76. The other is to forget the clay in oneself and claim a worth that was given, not earned. The Prophet ﷺ in 38:69 and 38:70 shows a third thing in how he speaks: he says plainly what he does not know, and tells only what his Lord has told him.",
+            "bn": "এই দ্বিমুখী সত্য দুটি ভুলের বিরুদ্ধে দাঁড়ায়। একটি ভুল হলো কাউকে তার উপাদান বা উৎসের কারণে তুচ্ছ ভাবা। ৩৮:৭৬ আয়াতে ইবলীস ঠিক এ কথাই মুখে এনেছিল। আরেকটি ভুল হলো নিজের ভেতরের মাটিকে ভুলে যাওয়া, আর যে মর্যাদা দান হিসেবে পাওয়া, তাকে নিজের অর্জন বলে দাবি করা। ৩৮:৬৯ ও ৩৮:৭০ আয়াতে নবী ﷺ তাঁর কথার ধরনে তৃতীয় এক শিক্ষা দেন। যা জানেন না, তা তিনি সোজাসুজি বলে দেন। আর শোনান শুধু ততটুকু, যতটুকু তাঁর রব তাঁকে জানিয়েছেন।"
+          },
+          {
+            "en": "So the verse asks for a small, steady practice. Speak about the unseen only from what Allah has revealed. Measure no one by their material or their family. Clay is what we share with every other person; the honour is what Allah chose to give. And when pride rises, the kind that once refused a clear command because of a comparison, remember the first word said to the angels about you, before any honour was spoken: clay.",
+            "bn": "তাই আয়াতটি চায় ছোট কিন্তু নিয়মিত এক অভ্যাস। গায়েবের ব্যাপারে কথা বলুন শুধু আল্লাহ যা নাযিল করেছেন তা থেকে। কাউকে তার উপাদান বা বংশ দিয়ে মাপবেন না। মাটি আমাদের সবার মধ্যে সাধারণ, আর মর্যাদা হলো তা, যা আল্লাহ নিজে দান করেছেন। আর যখন ভেতরে অহংকার মাথা তোলে, সেই অহংকার যা একদিন এক তুলনার জোরে স্পষ্ট আদেশ ফিরিয়ে দিয়েছিল, তখন মনে করুন, কোনো সম্মানের কথা বলার আগে ফেরেশতাদের কাছে আপনার সম্পর্কে প্রথম কোন শব্দটি বলা হয়েছিল: কাদামাটি।"
+          }
+        ]
+      }
+    ]
+  },
   "38:76": {
     "sections": [
       {
