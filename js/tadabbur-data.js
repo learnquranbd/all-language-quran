@@ -27289,6 +27289,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let your claim of faith rest on steady conviction and on giving of your wealth and yourself for Allah, and leave the hearts of others to Him.",
     "lessonBn": "ঈমানের দাবিকে দাঁড় করান অটল বিশ্বাস আর আল্লাহর জন্য নিজের মাল ও জান খরচ করার উপর, আর অন্যের অন্তরের হিসাব তাঁর হাতেই ছেড়ে দিন।"
+  },
+  "50:27": {
+    "reflectionEn": "The sentence has been passed, and the man looks for someone to share it. The one who stayed beside him all his life speaks first, and speaks to Allah, not to him: our Lord, I did not make him transgress; he was himself far astray. Most commentators say this companion is the devil assigned to him, now disowning the one he used to call. The excuse the man was saving has been answered before he could finish it. The next verse ends the argument: do not dispute before Me. In this life the same habit is easy: a friend, a family, a mood, a culture, a voice that whispered. Some of them did call. The verse asks who answered.",
+    "reflectionBn": "রায় ঘোষণা হয়ে গেছে, আর লোকটা খুঁজছে দায়ের ভাগীদার। সারা জীবন যে তার পাশে ছিল, সে-ই আগে মুখ খোলে। কথা বলে আল্লাহর কাছে, লোকটার দিকে ফিরেও তাকায় না: হে আমাদের রব, আমি তাকে সীমালঙ্ঘনে ঠেলে দিইনি, সে নিজেই ছিল বহু দূরের গুমরাহিতে। বেশির ভাগ মুফাসসির বলেন, এই সঙ্গী হলো তার জন্য নিযুক্ত শয়তান। যাকে সে ডাকত, আজ তার থেকেই নিজেকে আলাদা করে নিচ্ছে। লোকটা যে অজুহাত জমিয়ে রেখেছিল, তা শেষ করার আগেই জবাব এসে গেছে। পরের আয়াতে তর্কের ইতি: আমার সামনে বিবাদ করো না। দুনিয়াতেও অভ্যাসটা সহজ। বন্ধু, পরিবার, মেজাজ, সমাজ, কানে কানে বলা কোনো কণ্ঠ। কেউ কেউ সত্যিই ডেকেছিল। আয়াতটা জানতে চায়, সাড়া দিয়েছিল কে?",
+    "pointsEn": [
+      "Which of my wrongs do I most often explain by pointing at someone else?",
+      "If the one I blame stood beside me and disowned me, what would be left of my excuse?",
+      "Where did someone call me to something wrong, and where was the moment I chose to answer?",
+      "What warning have I already heard that I keep treating as if it has not reached me yet?",
+      "Is there a fault I can own today, plainly, before Allah and before the person it touched?"
+    ],
+    "pointsBn": [
+      "আমার কোন ভুলগুলোর ব্যাখ্যা দিতে গিয়ে আমি সবচেয়ে বেশি অন্যের দিকে আঙুল তুলি?",
+      "যাকে আমি দোষ দিই, সে-ই যদি পাশে দাঁড়িয়ে আমাকে অস্বীকার করে, আমার অজুহাতের আর কী বাকি থাকে?",
+      "কোথায় কেউ আমাকে অন্যায়ের দিকে ডেকেছিল, আর কোন মুহূর্তে আমি নিজে সাড়া দেওয়ার সিদ্ধান্ত নিয়েছিলাম?",
+      "কোন সতর্কবাণী আমি আগেই শুনেছি, অথচ এমনভাবে চলি যেন তা এখনো আমার কাছে পৌঁছায়নি?",
+      "এমন কোনো দোষ কি আছে যা আজই সোজাসুজি নিজের বলে মেনে নিতে পারি, আল্লাহর সামনে আর যার ক্ষতি হয়েছে তার সামনে?"
+    ],
+    "lessonEn": "Others may call you toward wrong, but the answering is yours; own your choices now, while owning them can still change the record.",
+    "lessonBn": "অন্যরা অন্যায়ের দিকে ডাকতে পারে, কিন্তু সাড়া দেওয়াটা আপনার। দায় এখনই নিজের কাঁধে নিন, যখন তা মেনে নিলে আমলনামা এখনো বদলাতে পারে।"
   }
 };
 

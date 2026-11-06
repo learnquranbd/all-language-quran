@@ -759,6 +759,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "50:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Denial Before the Accusation",
+          "bn": "অভিযোগের আগেই অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "Qala qarinuhu rabbana ma atghaytuhu wa lakin kana fi dalalin ba'id: his companion will say, our Lord, I did not make him transgress, but he was himself in far error. The verse has ten Arabic words, and it comes at a fixed point in the hearing of Surah Qaf. In 50:21 every soul arrives with a driver and a witness. In 50:23 a companion says the record is ready. In 50:24 to 50:26 comes the command to throw into Hell the stubborn disbeliever who set up another god beside Allah. Now a companion speaks again, and this time he denies.",
+            "bn": "কালা কারীনুহু রব্বানা মা আতগাইতুহু ওয়ালাকিন কানা ফী দালালিম বাঈদ: তার সঙ্গী বলবে, হে আমাদের রব, আমি তাকে সীমালঙ্ঘনকারী বানাইনি, বরং সে নিজেই ছিল বহু দূরের গুমরাহিতে। আরবিতে আয়াতটি ১০ শব্দের। সূরা কাফের বিচারদৃশ্যে এর জায়গা নির্দিষ্ট। ৫০:২১ আয়াতে প্রত্যেক প্রাণ আসে একজন চালক আর একজন সাক্ষী নিয়ে। ৫০:২৩ আয়াতে এক সঙ্গী জানায়, আমলনামা প্রস্তুত। ৫০:২৪ থেকে ৫০:২৬ আয়াতে নির্দেশ আসে, আল্লাহর সঙ্গে অন্য ইলাহ দাঁড় করানো অবাধ্য কাফিরকে জাহান্নামে ফেলে দাও। এবার আবার এক সঙ্গী মুখ খোলে, তবে এবার অস্বীকার করতে।"
+          },
+          {
+            "en": "The verse records only the reply, and the commentators supply what it answers. Ma'arif al-Qur'an says that when the order is given to throw the person into Hell, it seems he will claim the devil led him astray, and that otherwise he would have done righteous deeds; the devil then disowns him. The English abridgement of Ibn Kathir gives the man's words: O Lord, this devil misguided me away from the Remembrance after it came to me. The articles on 50:23 and 50:29 take up the record and the closing verdict. This article stays with the denial.",
+            "bn": "আয়াতে আছে শুধু জবাবটা। কিসের জবাব, তা তাফসীরকারেরা পূরণ করে দেন। মাআরিফুল কুরআন বলে, যখন লোকটাকে জাহান্নামে ফেলার হুকুম হবে, মনে হয় সে দাবি করবে, শয়তানই তাকে বিপথে নিয়েছে, নইলে সে নেক আমল করত। তখন শয়তান তার থেকে নিজেকে আলাদা করে নেয়। ইবন কাসীরের ইংরেজি সংক্ষেপে লোকটার কথাও আছে: হে রব, উপদেশ আমার কাছে আসার পর এই শয়তানই আমাকে তা থেকে বিপথে নিয়ে গেছে। আমলনামা আর শেষ রায়ের আলোচনা আছে ৫০:২৩ ও ৫০:২৯ আয়াতের প্রবন্ধে। এই প্রবন্ধ থাকবে অস্বীকারটুকু নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Devil Allotted to Him",
+          "bn": "তার জন্য নিযুক্ত শয়তান"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators consulted identify this companion as a devil. At-Tabari says in his own voice that the companion of this disbeliever, the hinderer of good, is his devil who was assigned to him in the world, kana muwakkalan bihi fi d-dunya. He then gives the reports. From Ibn 'Abbas: his companion is his devil. From Mujahid: the devil allotted to him. From Qatadah, through two chains: his companion is the devil. From ad-Dahhak: his devil. From Ibn Zayd: his companion from the jinn. At-Tabari closes by saying that the people of interpretation spoke along the same lines.",
+            "bn": "যাঁদের তাফসীর দেখা হয়েছে, তাঁদের বেশির ভাগের মতে এই সঙ্গী এক শয়তান। তাবারী নিজের ভাষায় বলেন, কল্যাণে বাধা দেওয়া এই কাফিরের সঙ্গী হলো তার শয়তান, দুনিয়াতে যাকে তার সঙ্গে লাগিয়ে দেওয়া হয়েছিল: কানা মুওয়াক্কালান বিহী ফিদ দুনইয়া। তারপর তিনি বর্ণনাগুলো আনেন। ইবন আব্বাস (রাঃ) থেকে: তার সঙ্গী তার শয়তান। মুজাহিদ থেকে: যে শয়তানকে তার জন্য নির্ধারণ করা হয়েছিল। কাতাদা থেকে দুই সূত্রে: তার সঙ্গী শয়তান। দাহহাক থেকে: তার শয়তান। ইবন যায়দ থেকে: জিনদের মধ্য থেকে তার সঙ্গী। শেষে তাবারী বলেন, তাফসীরবিদেরাও এ রকমই বলেছেন।"
+          },
+          {
+            "en": "The other commentaries follow. Ibn Kathir names Ibn 'Abbas, Mujahid, Qatadah and others for the devil who was assigned to him, alladhi wukkila bihi. Al-Qurtubi and al-Baghawi both open with the devil allotted to this disbeliever. The Muyassar has his devil who was with him in the world, and as-Sa'di simply writes: the devil. Ma'arif al-Qur'an explains the word itself. Qarin means one who keeps company with another; in 50:23 it referred to the recording angels, and just as angels accompany a person, a devil is entrusted to every person to call him toward sins. Here, it says, the qarin is that devil.",
+            "bn": "অন্য তাফসীরগুলোও একই পথে। ইবন কাসীর ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা ও আরও কয়েকজনের নাম নিয়ে বলেন, এ সেই শয়তান যাকে তার উপর নিযুক্ত করা হয়েছিল: আল্লাযী উক্কিলা বিহী। কুরতুবী আর বাগাভী দুজনেই শুরু করেন এই কাফিরের জন্য নির্ধারিত শয়তান দিয়ে। মুয়াসসারে আছে: দুনিয়াতে যে শয়তান তার সঙ্গে ছিল। সা'দী লেখেন শুধু: শয়তান। মাআরিফুল কুরআন শব্দটাই খুলে বলে। কারীন মানে যে কারও সঙ্গে সঙ্গে থাকে। ৫০:২৩ আয়াতে শব্দটি বোঝাত আমল লেখার ফেরেশতাদের। ফেরেশতারা যেমন মানুষের সঙ্গে থাকে, তেমনি প্রত্যেক মানুষের উপর একটি শয়তান নিযুক্ত থাকে, যে তাকে গুনাহর দিকে ডাকে। মাআরিফ বলে, এখানে কারীন সেই শয়তান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or the Scribe Defending His Pen",
+          "bn": "নাকি কলমের পক্ষে লেখক ফেরেশতা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then writes that the companion here is his devil without disagreement, bi-ghayri khtilaf, and attributes that statement to al-Mahdawi. In the very next line he reports a disagreement. Ath-Tha'labi, he says, related from Ibn 'Abbas and Muqatil that the companion is the angel. He adds Sa'id ibn Jubayr's explanation: the disbeliever says, Lord, he added to what he wrote against me, and the angel answers, our Lord, I did not make him transgress, meaning I added nothing against him in the writing.",
+            "bn": "এরপর কুরতুবী লেখেন, এখানে সঙ্গী মানে তার শয়তান, এতে কোনো মতভেদ নেই: বিগাইরিখতিলাফ। কথাটা তিনি মাহদাভীর বলে উল্লেখ করেন। ঠিক পরের লাইনেই তিনি একটি ভিন্নমত আনেন। সা'লাবী, তাঁর ভাষ্যে, ইবন আব্বাস (রাঃ) ও মুকাতিল থেকে বর্ণনা করেছেন যে সঙ্গী হলেন ফেরেশতা। সাথে সাঈদ ইবন জুবায়রের ব্যাখ্যাও দেন। কাফির বলবে, হে রব, সে আমার বিরুদ্ধে লেখায় বাড়িয়ে দিয়েছে। ফেরেশতা জবাব দেবেন, হে আমাদের রব, আমি তাকে সীমালঙ্ঘনে ফেলিনি। অর্থাৎ লেখায় তার বিরুদ্ধে আমি কিছুই বাড়াইনি।"
+          },
+          {
+            "en": "Al-Baghawi records the same reading under the names of Ibn 'Abbas, Sa'id ibn Jubayr and Muqatil, with a fuller reply: I added nothing against him, and wrote only what he said and did. So Ibn 'Abbas is reported on both sides, for the devil in at-Tabari's chain and in Ibn Kathir, for the angel in al-Baghawi and in al-Qurtubi's relay. On the second reading the scene runs straight on from 50:23: the scribe presents the record, the man disputes it, and the scribe defends it. Most texts read here give the devil, two relay the angel, and this article leaves both side by side.",
+            "bn": "বাগাভীও একই মত আনেন ইবন আব্বাস (রাঃ), সাঈদ ইবন জুবায়র ও মুকাতিলের নামে। সেখানে ফেরেশতার জবাব আরও পূর্ণ: আমি তার বিরুদ্ধে কিছু বাড়াইনি, সে যা বলেছে আর যা করেছে, তা-ই শুধু লিখেছি। ফলে ইবন আব্বাস (রাঃ)-এর নাম দুই দিকেই পাওয়া যায়। তাবারীর সনদে আর ইবন কাসীরে তিনি শয়তানের পক্ষে, বাগাভীতে আর কুরতুবীর উদ্ধৃতিতে ফেরেশতার পক্ষে। দ্বিতীয় মত ধরলে দৃশ্যটা ৫০:২৩ থেকে সোজা এগিয়ে চলে। লেখক ফেরেশতা আমলনামা পেশ করেন, লোকটা আপত্তি তোলে, আর ফেরেশতা নিজের লেখার পক্ষে দাঁড়ান। এ আয়াতে পড়া বেশির ভাগ তাফসীর বলে শয়তান, দুটি তাফসীর ফেরেশতার মত উদ্ধৃত করে। এই প্রবন্ধ দুটো মতই পাশাপাশি রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Made Whom a Taghi",
+          "bn": "কে কাকে তাগী বানাল"
+        },
+        "p": [
+          {
+            "en": "Ma atghaytuhu is the heart of the denial. At-Tabari spells it out: I am not the one who made him a taghi, someone who oversteps toward what is not his, and he adds that the overstepping meant here is disbelief in Allah. Ibn Kathir and the Muyassar gloss the verb more simply as ma adlaltuhu, I did not lead him astray. Al-Baghawi doubles it: I did not lead him astray, and I did not seduce him. Ma'arif al-Qur'an renders it: I did not cause him to rebel. On the angel reading the same verb turns toward the page, and means I did not exceed against him in what I wrote.",
+            "bn": "অস্বীকারের মূল কথা মা আতগাইতুহু। তাবারী খুলে বলেন: আমি তাকে তাগী বানাইনি, অর্থাৎ এমন লোক যে নিজের সীমা পেরিয়ে যা তার নয় তার দিকে যায়। তিনি যোগ করেন, এখানে সীমা পেরোনো মানে আল্লাহর সঙ্গে কুফরি। ইবন কাসীর আর মুয়াসসার ক্রিয়াটির অর্থ দেন আরও সহজে: মা আদলালতুহু, আমি তাকে পথভ্রষ্ট করিনি। বাগাভী দুটো শব্দ পাশাপাশি রাখেন: আমি তাকে পথভ্রষ্ট করিনি, ফুসলিয়েও নিইনি। মাআরিফুল কুরআনের অনুবাদ: আমি তাকে বিদ্রোহী বানাইনি। ফেরেশতার মত ধরলে একই ক্রিয়া ঘুরে যায় খাতার দিকে। তখন অর্থ দাঁড়ায়: লেখায় আমি তার বিরুদ্ধে সীমা ছাড়াইনি।"
+          },
+          {
+            "en": "On the devil reading, the denial is not a claim of innocence in every sense. Al-Qurtubi's gloss carries the devil's own words further: he was a transgressor by his own choice, and I only called him and he answered me, innama da'awtuhu fa-stajaba li. As-Sa'di gives the reason behind it: I had no authority over him, no proof and no evidence. The devil admits to the calling and denies the making. In al-Qurtubi's phrase he disowned the man and gave him the lie, kadhdhabahu. The companion the man meant to blame answers him before he can press the charge, and answers before Allah.",
+            "bn": "শয়তানের মত ধরলে এই অস্বীকার মানে সব দিক থেকে নির্দোষ হওয়ার দাবি নয়। কুরতুবী তাঁর ব্যাখ্যায় শয়তানের মুখের কথাটা আরও খানিকটা এগিয়ে নেন: সে নিজের ইচ্ছাতেই সীমালঙ্ঘনকারী ছিল, আমি শুধু ডেকেছি আর সে আমার ডাকে সাড়া দিয়েছে। ইন্নামা দাআওতুহু ফাসতাজাবা লী। সা'দী এর কারণ বলেন: তার উপর আমার কোনো ক্ষমতা ছিল না, কোনো যুক্তি বা প্রমাণও না। শয়তান ডাকার কথা মানে, বানানোর কথা মানে না। কুরতুবীর ভাষায়, সে লোকটার দায় ঝেড়ে ফেলল আর তাকে মিথ্যা বলে উড়িয়ে দিল: কাযযাবাহু। লোকটা যাকে দোষ দিতে চেয়েছিল, অভিযোগ জোরালো হওয়ার আগেই জবাব আসে তার কাছ থেকে, আর আসে আল্লাহর সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Road That Bent Far Off",
+          "bn": "যে পথ বহু দূরে বেঁকে গেল"
+        },
+        "p": [
+          {
+            "en": "Wa lakin kana fi dalalin ba'id: but he was in far error. At-Tabari pictures a road: he was on a way that swerved from the path of guidance, and swerved far. The Muyassar keeps the same picture, a road far from the path of guidance. Ibn Kathir describes the man rather than the road: he was astray in himself, receptive to falsehood and stubborn against the truth. As-Sa'di puts the weight on the will: he is the one who went astray and went far from the truth by his own choice, bi-khtiyarih. Al-Qurtubi uses the same word, choice, for his transgression.",
+            "bn": "ওয়ালাকিন কানা ফী দালালিম বাঈদ: বরং সে নিজেই ছিল বহু দূরের গুমরাহিতে। তাবারী একটা পথের ছবি আঁকেন। সে চলছিল এমন রাস্তায়, যা হিদায়াতের পথ থেকে সরে গেছে, আর সরে গেছে অনেক দূর। মুয়াসসারও সেই ছবিই রাখে: হিদায়াতের পথ থেকে দূরের এক রাস্তা। ইবন কাসীর রাস্তার বদলে মানুষটার বর্ণনা দেন। সে নিজেই ছিল পথহারা, বাতিল কবুল করতে প্রস্তুত, হকের বিরুদ্ধে একগুঁয়ে। সা'দী জোর দেন ইচ্ছার উপর: সে নিজেই পথ হারিয়েছে আর হক থেকে দূরে সরে গেছে, নিজের ইচ্ছায়, বিখতিয়ারিহী। কুরতুবীও তার সীমালঙ্ঘনের বেলায় একই শব্দ ব্যবহার করেন: ইচ্ছা।"
+          },
+          {
+            "en": "On the angel reading the phrase is read as a road that lasts. Al-Baghawi glosses it as long, an error from which he does not come back to the truth. Ibn Kathir and as-Sa'di both set 14:22 beside the verse, where Satan, once the matter is decided, tells his followers that he had no authority over them except to call, and they answered, so blame yourselves. The article on 50:29 has already set that verse beside this hearing. What it adds here is that the devil's defence is the same in both places: he called, and the answering belonged to them.",
+            "bn": "ফেরেশতার মত ধরলে কথাটির অর্থ হয় দীর্ঘ এক পথ। বাগাভীর ব্যাখ্যা: লম্বা গুমরাহি, যেখান থেকে সে আর হকের দিকে ফেরে না। ইবন কাসীর আর সা'দী দুজনেই আয়াতটির পাশে ১৪:২২ রাখেন। সেখানে ফয়সালা হয়ে যাওয়ার পর শয়তান তার অনুসারীদের বলে, তোমাদের উপর আমার কোনো ক্ষমতা ছিল না, আমি শুধু ডেকেছি আর তোমরা সাড়া দিয়েছ, তাই নিজেদেরই দোষ দাও। ৫০:২৯ আয়াতের প্রবন্ধ এই বিচারদৃশ্যের পাশে আয়াতটি আগেই রেখেছে। এখানে তা যা যোগ করে তা হলো, দুই জায়গাতেই শয়তানের সাফাই এক। ডাক এসেছিল তার কাছ থেকে, সাড়া দেওয়াটা ছিল তাদের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told So That We Would Know",
+          "bn": "জানিয়ে রাখা হলো আগেভাগে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari asks why Allah reports this exchange at all, and answers: as a notice to His servants that on the Day of Resurrection they will disown one another. He supports it with two short reports. Ibn Zayd said of the words our Lord, I did not make him transgress: he disowned him. Abu 'Imran said the same in the same Arabic, tabarra'a minhu. As-Sa'di adds what the disowning does: the devil clears himself of the man while loading the man's sin back onto him, hamilan 'alayhi ithmahu. The bond that once worked so closely ends in a single sentence of separation.",
+            "bn": "আল্লাহ এই কথোপকথন জানালেন কেন, তাবারী নিজেই সে প্রশ্ন তোলেন। তাঁর উত্তর: বান্দাদের জানিয়ে রাখার জন্য যে কিয়ামতের দিন তারা একে অপরের দায় অস্বীকার করবে। সমর্থনে তিনি দুটি ছোট বর্ণনা আনেন। হে আমাদের রব, আমি তাকে সীমালঙ্ঘনকারী বানাইনি, এ কথা সম্পর্কে ইবন যায়দ বলেছেন: সে তার দায় ঝেড়ে ফেলল। আবু ইমরানের ভাষাও হুবহু এক: তাবাররাআ মিনহু। সা'দী যোগ করেন, এই দায় ঝাড়ার ফল কী। শয়তান নিজেকে মুক্ত করে, আর লোকটার গুনাহ ফিরিয়ে চাপিয়ে দেয় তারই ঘাড়ে: হামিলান আলাইহি ইসমাহু। এত ঘনিষ্ঠ সম্পর্ক শেষ হয় বিচ্ছেদের একটিমাত্র বাক্যে।"
+          },
+          {
+            "en": "Then 50:28: qala la takhtasimu ladayya, He will say, do not dispute before Me, when I had already sent you the warning ahead. The English abridgement of Ibn Kathir says this is addressed to the man and his devil companion together, who are arguing before Him. Al-Qurtubi's text, after the angel reading, leads into the same verse with the words: and then Allah the Exalted will say. On either identification, the next word belongs to Allah, and it closes the quarrel. What the warning was, and what follows it in 50:29, is treated in the article on that verse.",
+            "bn": "তারপর ৫০:২৮: কালা লা তাখতাসিমূ লাদাইয়া, তিনি বলবেন, আমার সামনে বিবাদ করো না, আমি তো আগেই তোমাদের কাছে সতর্কবাণী পাঠিয়েছিলাম। ইবন কাসীরের ইংরেজি সংক্ষেপ বলে, কথাটা বলা হবে লোকটা আর তার সঙ্গী শয়তান দুজনকেই, যারা তাঁর সামনে ঝগড়া করছে। কুরতুবীর লেখাতেও ফেরেশতার মত বলার পর এই আয়াতে যাওয়া হয় এ কথায়: তখন আল্লাহ তাআলা বলবেন। সঙ্গী যে-ই হোক, পরের কথাটা আল্লাহর, আর সে কথাতেই বিবাদ থেমে যায়। সতর্কবাণী কী ছিল আর ৫০:২৯ আয়াতে এরপর কী আসে, তা আছে সেই আয়াতের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Narration on the Word Qarin",
+          "bn": "কারীন শব্দ নিয়ে একটি হাদীস"
+        },
+        "p": [
+          {
+            "en": "Sahih Muslim (2814) records from 'Abdullah ibn Mas'ud that the Messenger of Allah ﷺ said: There is none amongst you with whom is not an attache from amongst the jinn (devil). They (the Companions) said: Allah's Messenger, with you too? Thereupon he said: Yes, but Allah helps me against him and so I am safe from his hand and he does not command me but for good. The Arabic word for that attache is qarinuhu, the same word as in this verse. Muslim included the hadith in his Sahih.",
+            "bn": "সহীহ মুসলিমে (২৮১৪) আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে বর্ণিত, আল্লাহর রাসূল ﷺ বলেছেন: তোমাদের প্রত্যেকের সঙ্গেই জিনদের মধ্য থেকে একজন সঙ্গী লাগিয়ে দেওয়া হয়েছে। সাহাবিরা বললেন, হে আল্লাহর রাসূল, আপনার সঙ্গেও? তিনি বললেন, হ্যাঁ, তবে আল্লাহ তার বিরুদ্ধে আমাকে সাহায্য করেন, তাই আমি তার হাত থেকে নিরাপদ, আর সে আমাকে কল্যাণ ছাড়া অন্য কিছুর আদেশ দেয় না। হাদীসে এই সঙ্গীর জন্য যে আরবি শব্দ এসেছে, তা কারীনুহু। এ আয়াতের শব্দও ঠিক তা-ই। ইমাম মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে রেখেছেন।"
+          },
+          {
+            "en": "None of the tafsirs read for this verse quotes this hadith on it, and none reports an occasion of revelation for it. The narration is general, about every person, and is not attached to 50:27. It shows that the word qarin was used for such a companion, nothing more. Muslim also notes that in Sufyan's transmission the wording adds: and his companion from the angels. That variant mentions both companions at once, so it does not settle which of the two speaks in this verse, and this article does not use it to settle the matter.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এখানে এই হাদীস উদ্ধৃত করেনি। কোনোটি আয়াতের শানে নুযূলও উল্লেখ করেনি। হাদীসটি সাধারণ, প্রত্যেক মানুষ সম্পর্কে, ৫০:২৭ আয়াতের সঙ্গে যুক্ত নয়। এ থেকে শুধু এটুকু বোঝা যায় যে এমন সঙ্গীর জন্য কারীন শব্দটি ব্যবহৃত হয়েছে। মুসলিম আরও জানান, সুফইয়ানের বর্ণনায় শব্দ একটু বেশি: এবং ফেরেশতাদের মধ্য থেকে তার সঙ্গী। এই বর্ণনায় দুই সঙ্গীর কথাই একসঙ্গে এসেছে। তাই এ আয়াতে কে কথা বলছে, তার মীমাংসা এটি দিয়ে হয় না, আর এই প্রবন্ধও এটি দিয়ে মীমাংসা করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept Within Its Scene",
+          "bn": "দৃশ্যের সীমার ভেতরেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a man condemned in 50:24 to 50:26 as a stubborn disbeliever who set up another god with Allah, and his companion, on the Day of Resurrection, before Allah's judgement. It licenses nothing against any living person or community. It names nobody in this world, and it gives no reader the standing to point at another person and declare whose companion is speaking for him, or which of the people around us will stand in that hearing.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে, যা এর শব্দে আছে। কিয়ামতের দিন, আল্লাহর বিচারের সামনে, একজন মানুষ, যাকে ৫০:২৪ থেকে ৫০:২৬ আয়াতে আল্লাহর সঙ্গে অন্য ইলাহ দাঁড় করানো অবাধ্য কাফির বলা হয়েছে, আর তার সঙ্গী। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। দুনিয়ার কারও নাম এতে নেই। কারও দিকে আঙুল তুলে কোন সঙ্গী তার হয়ে কথা বলছে, কিংবা আশপাশের কে সেই বিচারে দাঁড়াবে, তা ঘোষণা করার অধিকারও এটি কোনো পাঠককে দেয় না।"
+          },
+          {
+            "en": "The scene also belongs to the unseen. What the companion is, how he was assigned and how he will speak are known only through the verse and the explanations quoted here, and the article claims nothing beyond them. Nor does the verse tell a reader that wrongs done to him by other people do not count. It records one exchange, in which a condemned man and his companion each try to make the other carry the load. Its lesson is aimed at the one who reads it, about the load he carries himself.",
+            "bn": "এ দৃশ্য গায়েবেরও অংশ। সঙ্গী আসলে কী, কীভাবে তাকে নিযুক্ত করা হয়েছিল, কীভাবে সে কথা বলবে, তা জানা যায় শুধু আয়াত থেকে আর এখানে উদ্ধৃত ব্যাখ্যাগুলো থেকে। এই প্রবন্ধ এর বাইরে কিছু দাবি করে না। আবার অন্যরা কারও উপর যে অন্যায় করেছে, তা হিসাবে আসবে না, এমন কথাও আয়াতটি বলে না। এতে আছে একটিমাত্র কথোপকথন। দণ্ডিত এক মানুষ আর তার সঙ্গী, দুজনেই চায় বোঝাটা অন্যজনের ঘাড়ে যাক। এর শিক্ষা পাঠকের নিজের জন্য, তার নিজের কাঁধের বোঝা নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Answering Was Ours",
+          "bn": "সাড়াটা ছিল নিজেরই"
+        },
+        "p": [
+          {
+            "en": "Read from this side of the Day, the verse removes an excuse before it is needed. On the devil reading, the one who called will deny that he made anything happen, and al-Qurtubi and as-Sa'di name the man's part in one word: his own choice. On the angel reading, the record will be defended as exact, written from what he said and did. Either way, the defence that someone else is to blame does not survive the hearing. The time to give it up is now, while giving it up can still change what is written.",
+            "bn": "এ পাড়ের জীবন থেকে পড়লে আয়াতটি প্রয়োজন হওয়ার আগেই একটা অজুহাত সরিয়ে দেয়। শয়তানের মত ধরলে, যে ডেকেছিল সে-ই অস্বীকার করবে যে সে কিছু ঘটিয়েছে। আর লোকটার ভূমিকা কুরতুবী ও সা'দী বলেন এক শব্দে: তার নিজের ইচ্ছা। ফেরেশতার মত ধরলে, আমলনামাকে নির্ভুল বলে রক্ষা করা হবে, কারণ তা লেখা হয়েছে তার কথা আর কাজ থেকেই। যেভাবেই পড়ি, দোষ অন্য কারও, এই সাফাই বিচারে টেকে না। তা ছেড়ে দেওয়ার সময় এখনই, যখন ছেড়ে দিলে লেখাটা এখনো বদলাতে পারে।"
+          },
+          {
+            "en": "A practical habit follows. When a fault comes to light, notice the first sentence that forms, and whether it begins with someone else's name. Friends, family, a mood or a whisper may truly have called, and the narration in Muslim says every person has such a companion. Calling, in the devil's words as al-Qurtubi and as-Sa'di gloss them, is all he had. So name the call honestly, then own the answer: make tawbah to Allah, repair what can be repaired with the person it touched, and keep a distance from the voice that called.",
+            "bn": "এ থেকে একটা অভ্যাস দাঁড়ায়। কোনো ভুল ধরা পড়লে মনে প্রথম যে বাক্যটা তৈরি হয়, সেটা খেয়াল করুন। তা কি অন্য কারও নাম দিয়ে শুরু হচ্ছে? বন্ধু, পরিবার, মেজাজ বা কোনো কুমন্ত্রণা হয়তো সত্যিই ডেকেছিল। মুসলিমের হাদীস বলে, প্রত্যেক মানুষের সঙ্গেই এমন সঙ্গী আছে। কিন্তু কুরতুবী ও সা'দীর ব্যাখ্যায় শয়তান নিজেই বলছে, ডাকা ছাড়া তার হাতে আর কিছু ছিল না। তাই ডাকটাকে সৎভাবে চিনে নিন, তারপর সাড়ার দায় নিজের কাঁধে নিন। আল্লাহর কাছে তওবা করুন, যার ক্ষতি হয়েছে তার সঙ্গে যতটা পারা যায় মিটিয়ে নিন, আর যে কণ্ঠ ডেকেছিল তার থেকে দূরে থাকুন।"
+          }
+        ]
+      }
+    ]
+  },
   "50:29": {
     "sections": [
       {
