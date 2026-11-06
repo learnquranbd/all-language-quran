@@ -23711,6 +23711,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Rage against what Allah has decided changes nothing above and wears down only the one who holds it. His help comes at its time; wait for it, and never let despair speak for you.",
     "lessonBn": "আল্লাহর ফয়সালার বিরুদ্ধে রাগ উপরের কিছুই বদলায় না, ক্ষয় করে শুধু যে তা পুষে রাখে তাকেই। তাঁর সাহায্য আসে তার নির্ধারিত সময়ে। সে অপেক্ষায় থাকুন, আর হতাশাকে কখনো আপনার হয়ে কথা বলতে দেবেন না।"
+  },
+  "22:36": {
+    "reflectionEn": "The verse slows down a moment most of us would rather not watch. A great camel, brought a long way, stands in line. Before the blade, a name is spoken over it, and the name is Allah's. Then it falls on its side, and only when it lies still does the instruction come: eat from it, and feed the needy, the one who asks and the one who does not. Last comes the reason. These strong animals were made to yield to us so that we would give thanks. Much of what serves me was also made to yield. Do I say His name over it, wait with mercy, share it with the quiet poor and the asking poor, and remember to thank Him?",
+    "reflectionBn": "যে মুহূর্তের দিকে আমরা সাধারণত তাকাতে চাই না, আয়াতটি সেখানে ধীরে থামে। বহু দূর থেকে আনা বিশাল এক উট সারিতে দাঁড়িয়ে আছে। ছুরি চালানোর আগে তার উপর একটি নাম উচ্চারিত হয়, আর সে নাম আল্লাহর। তারপর সে কাত হয়ে পড়ে যায়। পুরোপুরি স্থির হলে তবেই নির্দেশ আসে: তা থেকে খাও, আর অভাবীদের খাওয়াও, যে চায় তাকেও, যে চায় না তাকেও। সবশেষে আসে কারণটি। এই শক্তিশালী পশুদের আমাদের বশ করে দেওয়া হয়েছে, যেন আমরা শোকর করি। আমার কাজে লাগে এমন অনেক কিছুই এভাবে বশ করে দেওয়া। আমি কি তার উপর তাঁর নাম নিই? দয়া নিয়ে অপেক্ষা করি? চুপ থাকা গরিব আর চেয়ে নেওয়া গরিব, দুজনের সঙ্গেই কি ভাগ করি? আর তাঁর শোকর আদায় করতে কি মনে থাকে?",
+    "pointsEn": [
+      "What has been made to yield to me, an animal, a tool, a skill, an income, and when did I last thank Allah for that yielding instead of only using it?",
+      "Do I say Allah's name at the start of what I take from His provision, or only at moments that already feel religious?",
+      "Who near me is in need but would never ask, and what would it take for me to notice them?",
+      "When someone comes to my door hoping, do I treat them as a nuisance or as one of the two people this verse names?",
+      "When I give or sacrifice something, do I pick the best I have, or what is left over?"
+    ],
+    "pointsBn": [
+      "পশু, যন্ত্র, দক্ষতা কিংবা উপার্জন, আমার জন্য কী কী বশ করে দেওয়া হয়েছে? শুধু ব্যবহার না করে শেষ কবে এর জন্য আল্লাহর শোকর করেছি?",
+      "আল্লাহর দেওয়া রিযক থেকে কিছু নেওয়ার শুরুতে কি আমি তাঁর নাম নিই, নাকি শুধু সেই মুহূর্তগুলোতে, যেগুলো এমনিতেই ইবাদতের মতো লাগে?",
+      "আমার আশেপাশে কে অভাবে আছে অথচ কখনো মুখ ফুটে চাইবে না? তাকে চোখে পড়তে আমার কী দরকার?",
+      "কেউ আশা নিয়ে দরজায় এলে আমি কি তাকে ঝামেলা ভাবি, নাকি মনে রাখি যে এ আয়াত এমন মানুষের কথাই বলেছে?",
+      "কিছু দান বা কুরবানি করার সময় আমি কি আমার সবচেয়ে ভালোটা বাছি, নাকি যা বেঁচে গেছে তা-ই দিই?"
+    ],
+    "lessonEn": "What Allah made to serve you is a reason for thanks: say His name over it, eat from it, and feed the needy, both those who ask and those who do not.",
+    "lessonBn": "আল্লাহ যা আপনার সেবায় লাগিয়েছেন, তা শোকরের কারণ। তার উপর তাঁর নাম নিন, তা থেকে খান, আর অভাবীদের খাওয়ান, যারা চায় তাদেরও, যারা চায় না তাদেরও।"
   }
 };
 

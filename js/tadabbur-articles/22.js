@@ -1483,6 +1483,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Camel Among the Rites",
+          "bn": "নিদর্শনের তালিকায় উট"
+        },
+        "p": [
+          {
+            "en": "The verse opens with wa-l-budna, the great sacrificial animals, and it follows 22:32, where honouring the rites of Allah is called a matter of the heart's piety. As-Sa'di draws the link: this verse shows that the sha'a'ir include every visible mark of the religion, and now Allah names the budn among them. So they are honoured, he says, by being fattened and chosen well. The Muyassar reads the rite as the slaughter itself, made a mark of the religion so that people draw near to Allah by it.",
+            "bn": "আয়াতের শুরু ওয়াল বুদনা দিয়ে, অর্থাৎ কুরবানির বড় পশুগুলো। এর আগে ২২:৩২ আয়াতে বলা হয়েছে, আল্লাহর নিদর্শনকে সম্মান করা অন্তরের তাকওয়ার অংশ। সা'দী দুই আয়াতকে জুড়ে দেন। তাঁর মতে এ আয়াত প্রমাণ করে যে শাআইর বলতে দ্বীনের সব প্রকাশ্য চিহ্নই বোঝায়, আর এখানে আল্লাহ বুদনকে সেগুলোর মধ্যে গণ্য করলেন। তাই এগুলোর সম্মান হলো মোটাতাজা করে রাখা আর সুন্দরটা বেছে নেওয়া। মুয়াসসার নিদর্শন বলতে জবাইকেই বোঝায়: আল্লাহর নৈকট্য পাওয়ার জন্য একে দ্বীনের চিহ্ন বানানো হয়েছে।"
+          },
+          {
+            "en": "The word itself carries size. Al-Baghawi explains budn as the plural of badana, named for its bulk: large camels with sound bodies. At-Tabari says al-badan is the huge of anything, so the phrase means the camels great of body. Why call them rites? Al-Baghawi answers from the custom of marking: an iron point was pressed into the hump so all would know the animal was an offering. At-Tabari adds garlanding and covering. Ibn Kathir calls them the best of what is sent to the Sacred House.",
+            "bn": "শব্দটির ভেতরেই আকারের কথা আছে। বাগাভী বলেন, বুদন হলো বাদানার বহুবচন। বিশাল দেহের কারণে এই নাম: সুস্থ সবল বড় উট। তাবারীর ব্যাখ্যায় আল-বাদান মানে যেকোনো কিছুর বিশালটি, তাই কথাটির মানে বড় দেহের উট। এগুলোকে নিদর্শন বলা হলো কেন? বাগাভী উত্তর দেন চিহ্ন দেওয়ার প্রথা থেকে। কুঁজে লোহার একটি ফলা বিঁধিয়ে দেওয়া হতো, যেন সবাই জানে এটি হাদি। তাবারী এর সঙ্গে গলায় মালা পরানো আর গায়ে চাদর জড়ানোর কথাও বলেন। ইবন কাসীরের মতে, পবিত্র ঘরে যা পাঠানো হয় তার মধ্যে এগুলোই শ্রেষ্ঠ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Camels Alone, or Cattle Too",
+          "bn": "শুধু উট, নাকি গরুও"
+        },
+        "p": [
+          {
+            "en": "The English translation shown with this verse says camels and cattle; the Bengali one says camels. Both follow a real disagreement. Al-Qurtubi reports that scholars differed over whether budn covers cattle as well as camels. Ibn Mas'ud, Ata' and ash-Shafi'i said no; Malik and Abu Hanifa said yes. He names the practical stake: a person vows a badana, cannot find or afford one, but can manage a cow. Does the cow fulfil the vow? On one side it does not, on the other it does.",
+            "bn": "এ আয়াতের সঙ্গে দেখানো ইংরেজি অনুবাদে আছে উট ও গরু, বাংলা অনুবাদে শুধু উট। দুটির পেছনেই আছে আলেমদের প্রকৃত মতভেদ। কুরতুবী জানান, বুদন শব্দে উটের পাশাপাশি গরুও পড়ে কি না, তা নিয়ে আলেমরা ভিন্নমত পোষণ করেছেন। ইবন মাসউদ (রাঃ), আতা আর শাফেয়ী বলেছেন, পড়ে না। মালেক আর আবু হানীফা বলেছেন, পড়ে। মতভেদের বাস্তব ফল কোথায়, তাও তিনি দেখান। কেউ একটি বাদানা মানত করল, কিন্তু উট পেল না বা কেনার সামর্থ্য হলো না, গরু জোগাড় করতে পারল। গরু দিলে কি মানত আদায় হবে? এক পক্ষের মতে হবে না, অন্য পক্ষের মতে হবে।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the arguments. For camels alone: in a hadith he cites on the Friday prayer, the Prophet ﷺ speaks of offering a badana and then of offering a cow, keeping the two apart; and the verse's own phrase, when their sides fall, fits camels, since cattle are laid down and slaughtered like sheep. For the wider view: the word is taken from al-badana, bulkiness, and bulk is found in both; and a cow stands in place of a camel when blood is shed to draw near to Allah, shared among seven as a camel is.",
+            "bn": "দুই পক্ষের যুক্তিও কুরতুবী তুলে ধরেন। শুধু উটের পক্ষে প্রথম যুক্তি: জুমআ নিয়ে তাঁর উদ্ধৃত এক হাদীসে নবী ﷺ বাদানা কুরবানিকারী আর গরু কুরবানিকারীর কথা আলাদা করে বলেছেন। দ্বিতীয় যুক্তি আয়াতের নিজের কথা: যখন তাদের পার্শ্ব পড়ে যায়। এ বর্ণনা উটের সঙ্গেই মেলে, কারণ গরুকে ছাগল-ভেড়ার মতো শুইয়ে জবাই করা হয়। অন্য পক্ষের যুক্তি: শব্দটি এসেছে আল-বাদানা থেকে, যার মানে দেহের বিশালতা, আর বিশালতা দুটোতেই আছে। তা ছাড়া রক্ত প্রবাহিত করে আল্লাহর নৈকট্য লাভে গরু উটের জায়গায় দাঁড়ায়, উটের মতো গরুও সাতটি ভাগে সাতজনের পক্ষ থেকে চলে।"
+          },
+          {
+            "en": "The names do not line up neatly. Al-Qurtubi counts Ata' on the camels-only side, yet at-Tabari and Ibn Kathir both report him, through Ibn Jurayj, saying the budn are the cow and the camel, and al-Baghawi gives Ata' and as-Suddi the same. Ibn Kathir reports the wider view also from Ibn Umar, Sa'id ibn al-Musayyib and al-Hasan al-Basri, and from Mujahid that budn are camels only. He calls it the sounder of two views that the word applies to a cow in the Shari'a. As-Sa'di says camels and cattle, on one of two views. This article settles nothing.",
+            "bn": "কোন নাম কোন পক্ষে, তা সব বর্ণনায় এক নয়। কুরতুবী আতাকে শুধু উটের পক্ষে গুনেছেন, অথচ তাবারী আর ইবন কাসীর দুজনেই ইবন জুরাইজের সূত্রে আতার উক্তি আনেন: বুদন হলো গরু আর উট। বাগাভীও আতা আর সুদ্দীর নামে একই কথা আনেন। ইবন কাসীর এই ব্যাপক মত ইবন উমর (রাঃ), সাঈদ ইবনুল মুসাইয়্যিব আর হাসান বসরীর নামেও বর্ণনা করেন। আবার মুজাহিদের নামে আনেন যে বুদন শুধু উট। ইবন কাসীরের নিজের বিচারে দুই মতের মধ্যে বেশি সঠিক হলো, শরীয়তে গরুকেও বাদানা বলা যায়। সা'দী বলেন উট ও গরু, তবে দুই মতের একটি অনুযায়ী। এ লেখা কোনো পক্ষে রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good Carried in the Animal",
+          "bn": "পশুর ভেতরে রাখা কল্যাণ"
+        },
+        "p": [
+          {
+            "en": "Lakum fiha khayr: for you in them is good. At-Tabari divides the good in two: reward in the Hereafter for slaughtering them and giving them in charity, and in this world, riding it when there is need. Ibrahim an-Nakha'i is concrete: if you are forced to it, ride your badana and drink its milk. Ibn Kathir reads the phrase as reward in the next life, and as-Sa'di lists eating, charity, use and reward together. Al-Qurtubi links it to the benefits named in 22:33 and judges the correct reading to be general, the good of both worlds.",
+            "bn": "লাকুম ফীহা খাইর: এগুলোতে তোমাদের জন্য কল্যাণ আছে। তাবারী কল্যাণকে দুই ভাগে দেখান। আখিরাতে আছে জবাই আর সদকার সওয়াব, আর দুনিয়াতে আছে প্রয়োজনে তার পিঠে চড়া। ইবরাহীম নাখঈ আরও সোজাসুজি বলেন, ঠেকায় পড়লে নিজের বাদানায় চড়ো আর তার দুধ পান করো। ইবন কাসীর কথাটিকে আখিরাতের সওয়াব হিসেবে পড়েন। সা'দী খাওয়া, সদকা, কাজে লাগানো আর সওয়াব, সব একসঙ্গে গোনেন। কুরতুবী একে ২২:৩৩ আয়াতে বলা উপকারের সঙ্গে জোড়েন, আর তাঁর বিচারে সঠিক অর্থ ব্যাপক: দুনিয়া ও আখিরাত দুটোরই কল্যাণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Ways to Say Sawaff",
+          "bn": "সাওয়াফ্ফ পড়ার তিন রূপ"
+        },
+        "p": [
+          {
+            "en": "Fa-dhkuru isma llahi 'alayha sawaffa: so mention Allah's name over them, sawaff. At-Tabari reports that most reciters of the cities read sawaffa, with the fa doubled, meaning lined up: the camel standing in line between its forelegs. He prefers that reading because the authoritative reciters agree on it, and Ma'arif al-Qur'an likewise explains the word as standing in a row.",
+            "bn": "ফাযকুরুসমাল্লাহি আলাইহা সাওয়াফ্ফা: সুতরাং সাওয়াফ্ফ অবস্থায় এগুলোর উপর আল্লাহর নাম নাও। তাবারী জানান, বিভিন্ন শহরের অধিকাংশ কারী পড়েছেন সাওয়াফ্ফা, ফা-তে তাশদীদ দিয়ে। অর্থ সারিবদ্ধ: উট তার সামনের পা দুটির মাঝে সারি বেঁধে দাঁড়ানো। তিনি এই কিরাআতকেই অগ্রাধিকার দেন, কারণ নির্ভরযোগ্য কারীগণ এতে একমত। মাআরিফুল কুরআনও শব্দটির ব্যাখ্যা দেয় সারি বেঁধে দাঁড়ানো।"
+          },
+          {
+            "en": "A second reading, sawafiya, with a ya, is reported by at-Tabari from al-Hasan, Mujahid, Zayd ibn Aslam and others; al-Qurtubi adds al-A'raj and Abu Musa al-Ash'ari, and al-Baghawi names Ubayy among its readers. It means pure for Allah, with no partner in it. Ibn Zayd, in at-Tabari, sharpens the contrast: no partner, as the idolaters used to do, setting aside a share for Allah and a share for their gods. Al-Qurtubi puts it as naming no one else with Allah when the animal is slaughtered.",
+            "bn": "দ্বিতীয় কিরাআত সাওয়াফিয়া, ইয়া দিয়ে। তাবারী এটি বর্ণনা করেন হাসান, মুজাহিদ, যাইদ ইবন আসলাম ও আরও কয়েকজনের নামে। কুরতুবী সঙ্গে যোগ করেন আ'রাজ আর আবু মূসা আশআরী (রাঃ)-কে, আর বাগাভী এর কারীদের মধ্যে উবাই (রাঃ)-এর নাম নেন। অর্থ: খাঁটিভাবে আল্লাহর জন্য, এতে কোনো শরীক নেই। তাবারীর উদ্ধৃতিতে ইবন যাইদ পার্থক্যটা আরও স্পষ্ট করেন। মুশরিকরা যেমন করত, এক ভাগ আল্লাহর আর এক ভাগ তাদের দেবতাদের জন্য রাখত, এখানে তেমন কোনো শরীক নেই। কুরতুবীর ভাষায়: জবাইয়ের সময় আল্লাহর নামের সঙ্গে আর কারও নাম না নেওয়া।"
+          },
+          {
+            "en": "A last reading, sawafina, with a nun, is reported from Ibn Mas'ud; Qatada, in at-Tabari, says that in Ibn Mas'ud's reading it meant hobbled and standing. Al-Qurtubi adds Ibn Abbas, Ibn Umar and Abu Ja'far Muhammad ibn Ali among its readers. He traces the word to horses: a horse is safin when it stands on three legs and bends the tip of the fourth hoof, as in as-safinat al-jiyad of 38:31. The text recited in the mushaf is sawaffa; the others are reported readings, given here as the tafsirs give them.",
+            "bn": "তৃতীয় কিরাআত সাওয়াফিনা, নূন দিয়ে, ইবন মাসউদ (রাঃ)-এর নামে বর্ণিত। তাবারীর উদ্ধৃতিতে কাতাদা বলেন, ইবন মাসউদের পাঠে এর অর্থ ছিল পা বাঁধা অবস্থায় দাঁড়ানো। কুরতুবী এর কারীদের মধ্যে ইবন আব্বাস (রাঃ), ইবন উমর (রাঃ) আর আবু জাফর মুহাম্মাদ ইবন আলীর নামও যোগ করেন। শব্দটির মূল তিনি খোঁজেন ঘোড়ার মধ্যে। ঘোড়া তিনটি পায়ে দাঁড়িয়ে চতুর্থ খুরের ডগা ভাঁজ করে রাখলে তাকে বলে সাফিন, যেমন ৩৮:৩১ আয়াতে আস-সাফিনাতুল জিয়াদ। মুসহাফে যা পড়া হয় তা সাওয়াফ্ফা। বাকিগুলো বর্ণিত কিরাআত, তাফসীরগুলো যেভাবে এনেছে সেভাবেই এখানে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing, One Foreleg Bound",
+          "bn": "দাঁড়িয়ে, এক পা বাঁধা"
+        },
+        "p": [
+          {
+            "en": "How was the camel to stand? Ibn Abbas, in reports at-Tabari and Ibn Kathir both carry, says: standing on three legs, its left foreleg tied. In Ibn Kathir's wording he adds what is said over it: in the name of Allah, Allah is greatest, O Allah, from You and to You. Mujahid's report in Ibn Kathir and al-Baghawi ties its left rijl, the word for a leg, where Ibn Abbas said yad, foreleg, and ad-Dahhak says simply that one leg is tied, so it stands on three.",
+            "bn": "উট কীভাবে দাঁড়াবে? তাবারী আর ইবন কাসীর দুজনেই ইবন আব্বাস (রাঃ)-এর বর্ণনা আনেন: তিনটি পায়ে দাঁড়ানো, বাঁ দিকের সামনের পা বাঁধা। ইবন কাসীরের শব্দে তিনি সেই সময়ের বাক্যটিও বলে দেন: বিসমিল্লাহ, আল্লাহু আকবার, আল্লাহুম্মা মিনকা ওয়া লাকা, অর্থাৎ হে আল্লাহ, তোমার কাছ থেকে, তোমারই জন্য। ইবন কাসীর আর বাগাভীতে মুজাহিদের বর্ণনায় বাঁধা হয় বাঁ দিকের রিজল, অর্থাৎ পা। ইবন আব্বাস (রাঃ) বলেছিলেন ইয়াদ, অর্থাৎ সামনের পা। দাহহাক শুধু বলেন, একটি পা বাঁধা থাকবে, ফলে পশুটি তিন পায়ে দাঁড়াবে।"
+          },
+          {
+            "en": "Ibn Umar's practice is the best documented. Al-Bukhari records it, hadith 1713 in the Darussalam numbering: \"Narrated Ziyad bin Jubair: I saw Ibn `Umar passing by a man who had made his Badana sit to slaughter it. Ibn `Umar said, 'Slaughter it while it is standing with one leg tied up as is the tradition of Muhammad.'\" Ibn Kathir places it in both Sahihs. It is a report about how the rite was done, not an account of why the verse came down.",
+            "bn": "এ বিষয়ে সবচেয়ে মজবুত বর্ণনা ইবন উমর (রাঃ)-এর আমল। বুখারী এটি এনেছেন, দারুস সালাম গণনায় হাদীস ১৭১৩: \"যিয়াদ ইবন জুবাইর বলেন, আমি দেখলাম, ইবন উমর (রাঃ) এক ব্যক্তির কাছে এলেন, যে তার বাদানাকে জবাই করার জন্য বসিয়ে দিয়েছিল। তিনি বললেন, একে দাঁড় করাও, একটি পা বাঁধা অবস্থায়। এটাই মুহাম্মাদ ﷺ-এর সুন্নাত।\" ইবন কাসীর বলেন, হাদীসটি দুই সহীহতেই আছে। এটি কুরবানি কীভাবে করা হতো তার বর্ণনা, আয়াত নাযিলের প্রেক্ষাপট নয়।"
+          },
+          {
+            "en": "Al-Qurtubi records the range of practice. Ibn Shihab, asked about sawaff, said: tie it, then line it up, and Malik said the same. Most scholars, he says, hold this to be preferred, while Abu Hanifa and ath-Thawri allowed kneeling or standing, and Ata' stood alone in preferring kneeling. Malik made room for weakness: if a man is frail or fears the camel will bolt, he saw no harm in slaughtering it hobbled. Ibn Umar himself, al-Qurtubi notes, wielded the spear in his own hand while strong, and slaughtered kneeling once age weakened him.",
+            "bn": "কুরতুবী আমলের বিভিন্ন রূপ লিপিবদ্ধ করেন। ইবন শিহাবকে সাওয়াফ্ফ সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন, আগে বাঁধো, তারপর সারি করে দাঁড় করাও। মালেকও একই কথা বলেছেন। কুরতুবীর ভাষ্যে অধিকাংশ আলেম এ পদ্ধতিকেই উত্তম মনে করেন। আবু হানীফা আর সাওরী বসানো ও দাঁড়ানো দুটোই জায়েয বলেছেন, আর বসিয়ে জবাইকে উত্তম বলায় আতা ছিলেন একা। দুর্বলতার জন্যও মালেক জায়গা রেখেছেন। কেউ দুর্বল হলে বা উট ছুটে যাওয়ার ভয় থাকলে পা বেঁধে জবাই করায় তিনি দোষ দেখেননি। কুরতুবী জানান, ইবন উমর (রাঃ) শক্তির দিনে নিজ হাতে বর্শা চালাতেন, আর বার্ধক্যে দুর্বল হয়ে পড়লে বসিয়ে জবাই করতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Flank Comes to Rest",
+          "bn": "যখন পাঁজর মাটিতে থামে"
+        },
+        "p": [
+          {
+            "en": "Fa-idha wajabat junubuha: and when their sides fall. At-Tabari explains it as falling, the sides coming to the ground after the slaughter, and draws on the Arab saying wajabat ash-shams, the sun has set. Al-Baghawi says the root sense of wujub is falling. Mujahid says it fell to the ground. Others in at-Tabari, among them Ibn Ishaq and a report from Ibn Abbas, gloss it as once it is slaughtered, while Ibn Zayd says once it has died. Ibn Kathir holds that dying is what Ibn Abbas and Mujahid meant.",
+            "bn": "ফাইযা ওয়াজাবাত জুনূবুহা: আর যখন তাদের পার্শ্ব পড়ে যায়। তাবারী এর ব্যাখ্যা দেন পড়ে যাওয়া দিয়ে: জবাইয়ের পর পাঁজর মাটিতে এসে ঠেকে। দলিল হিসেবে আনেন আরবদের কথা ওয়াজাবাতিশ শামস, সূর্য অস্ত গেছে। বাগাভী বলেন, উজূব শব্দের মূল অর্থই পড়ে যাওয়া। মুজাহিদের ভাষায়: মাটিতে পড়ে গেল। তাবারীতে অন্যরা, যেমন ইবন ইসহাক আর ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা, এর অর্থ করেন জবাই হয়ে গেলে। ইবন যাইদ বলেন, যখন মারা যায়। ইবন কাসীরের মতে ইবন আব্বাস আর মুজাহিদও মৃত্যুই বুঝিয়েছেন।"
+          },
+          {
+            "en": "His reason is a rule, which he backs with mercy: one may not eat from the animal until it has died and its movement has stilled. He cites Umar's saying, do not hurry the souls to leave, and supports it with a hadith in Sahih Muslim, number 1955, where Shaddad ibn Aws names two things he remembered from the Messenger ﷺ: \"Verily Allah has enjoined goodness to everything; so when you kill, kill in a good way and when you slaughter, slaughter in a good way. So every one of you should sharpen his knife, and let the slaughtered animal die comfortably.\" It is general, not tied to this verse.",
+            "bn": "ইবন কাসীরের কারণটি একটি বিধান, আর তার পেছনে দয়ার দলিল। পশুটি মারা গিয়ে নড়াচড়া থেমে না যাওয়া পর্যন্ত তা থেকে খাওয়া যায় না। তিনি উমর (রাঃ)-এর উক্তি আনেন: প্রাণ বের হওয়ার জন্য তাড়াহুড়া কোরো না। আর এর সমর্থনে আনেন সহীহ মুসলিমের হাদীস, নম্বর ১৯৫৫। শাদ্দাদ ইবন আওস (রাঃ) রাসূলুল্লাহ ﷺ থেকে মনে রাখা দুটি কথা বর্ণনা করেন: \"আল্লাহ সব কিছুর উপর ইহসান লিখে দিয়েছেন। তাই যখন হত্যা করবে, উত্তমভাবে হত্যা করবে। আর যখন জবাই করবে, উত্তমভাবে জবাই করবে। তোমাদের প্রত্যেকে যেন তার ছুরি ধার দিয়ে নেয় আর জবাইয়ের পশুকে আরাম দেয়।\" হাদীসটি সাধারণ, এ আয়াতের সঙ্গে বিশেষভাবে যুক্ত নয়।"
+          },
+          {
+            "en": "Al-Qurtubi reads the phrase as a gentle way of naming death, just as mentioning Allah's name over them gently names the slaughter. The fall on the side, he says, is the sign that the blood has drained and life has left, and the animal is not skinned until it has cooled, since that would be a form of torment. The verse that names the knife also makes the eater wait.",
+            "bn": "কুরতুবীর মতে কথাটি মৃত্যুর কোমল ইঙ্গিত, ঠিক যেমন এগুলোর উপর আল্লাহর নাম নেওয়ার কথা দিয়ে জবাইয়ের ইঙ্গিত করা হয়েছে। তিনি বলেন, কাত হয়ে পড়া হলো রক্ত ঝরে যাওয়া আর প্রাণ বেরিয়ে যাওয়ার আলামত। ঠান্ডা না হওয়া পর্যন্ত চামড়া ছাড়ানো হবে না, কারণ তা কষ্ট দেওয়ার শামিল। যে আয়াত ছুরির কথা বলে, সেই আয়াতই খাওয়ার আগে অপেক্ষা করতে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eat: Leave Given or Duty",
+          "bn": "খাওয়া: অনুমতি, নাকি দায়িত্ব"
+        },
+        "p": [
+          {
+            "en": "Fa-kulu minha: then eat from them. At-Tabari says the form is a command but the meaning is permission, not obligation, and Ibrahim an-Nakha'i gives the background: the idolaters did not eat from their own sacrifices, so the Muslims were given leave, and whoever wished ate. Al-Baghawi likewise calls it a command of permission. Al-Qurtubi calls it a recommendation, and reports ash-Shafi'i as holding that in a voluntary offering eating is recommended and feeding the poor obligatory. Ibn Kathir records Malik for recommendation, and others, with a view held among some Shafi'is, for obligation.",
+            "bn": "ফাকুলূ মিনহা: তারপর তা থেকে খাও। তাবারী বলেন, বাক্যের রূপ আদেশের, কিন্তু অর্থ অনুমতি, বাধ্যতামূলক নির্দেশ নয়। ইবরাহীম নাখঈর বর্ণনায় পেছনের প্রেক্ষাপটও আছে। মুশরিকরা নিজেদের কুরবানির গোশত খেত না, তাই মুসলিমদের অনুমতি দেওয়া হলো। যার ইচ্ছা, সে খেয়েছে। বাগাভীও একে অনুমতিসূচক আদেশ বলেন। কুরতুবীর মতে এটি মুস্তাহাব। তিনি শাফেয়ীর মত জানান: নফল কুরবানিতে নিজে খাওয়া মুস্তাহাব, আর গরিবদের খাওয়ানো ওয়াজিব। ইবন কাসীর জানান, মালেকের মতে খাওয়া মুস্তাহাব, আর অন্য কারও মতে ওয়াজিব, শাফেয়ী মাযহাবের কিছু আলেমেরও এমন একটি মত আছে।"
+          },
+          {
+            "en": "Ibn Kathir reports that some scholars took this verse as the basis for dividing a sacrifice in thirds: a third for the owner to eat, a third given as gifts to his companions, and a third in charity to the poor. A second view rests on the earlier 22:28, eat from them and feed the miserable and poor, and divides it in halves. Both are reported positions, and this article prefers neither.",
+            "bn": "ইবন কাসীর জানান, কিছু আলেম এ আয়াতকে কুরবানির গোশত তিন ভাগ করার দলিল হিসেবে নিয়েছেন। এক ভাগ মালিক নিজে খাবেন, এক ভাগ সঙ্গী-সাথীদের উপহার দেবেন, আর এক ভাগ গরিবদের সদকা করবেন। দ্বিতীয় মতটি দাঁড়িয়ে আছে আগের ২২:২৮ আয়াতের উপর: তা থেকে খাও আর দুর্দশাগ্রস্ত অভাবীকে খাওয়াও। এ মতে ভাগ দুটি, অর্ধেক অর্ধেক। দুটিই বর্ণিত মত, এ লেখা কোনোটিকে অগ্রাধিকার দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Who Asks, or Waits",
+          "bn": "যে চায়, আর যে চায় না"
+        },
+        "p": [
+          {
+            "en": "Wa-at'imu l-qani'a wa-l-mu'tarr: and feed the qani' and the mu'tarr. The definitions are many. Al-Qurtubi, citing al-Khalil, notes that the root pulls two ways: qana'a means to ask, and qani'a means to be content and refrain from asking. In one report Ibn Abbas makes the qani' the one content at home and the mu'tarr the one who hovers near, hoping for meat, without asking; Ibn Kathir gives the same from Mujahid and al-Qurazi. In another, the qani' refrains and the mu'tarr asks, the view of Qatada and an-Nakha'i, and the one the Muyassar and as-Sa'di give.",
+            "bn": "ওয়া আতইমুল কানিআ ওয়াল মু'তার্র: আর কানি' ও মু'তার্রকে খাওয়াও। এ দুটি শব্দের সংজ্ঞা অনেক। কুরতুবী খলীলের সূত্রে দেখান, ধাতুটি দুই দিকে যায়। কানাআ মানে চাওয়া, আর কানিআ মানে অল্পে তুষ্ট থাকা, হাত না পাতা। ইবন আব্বাস (রাঃ)-এর এক বর্ণনায় কানি' হলো যে ঘরে বসে যা পায় তাতেই তুষ্ট। আর মু'তার্র হলো যে গোশতের আশায় কাছে ঘোরাফেরা করে, কিন্তু মুখ ফুটে চায় না। ইবন কাসীর মুজাহিদ আর কুরাযীর নামেও একই কথা আনেন। আরেক বর্ণনায় কানি' হাত পাতে না, মু'তার্র চায়। এটি কাতাদা আর নাখঈর মত, মুয়াসসার আর সা'দীও এ অর্থই দেন।"
+          },
+          {
+            "en": "Al-Hasan reverses the pair: the qani' comes and asks, while the mu'tarr presents himself humbly and does not ask. Ibn Kathir names Ikrima and Malik among others with him, and Sa'id ibn Jubayr also took the qani' as the asker. At-Tabari prefers this view and argues from the wording: had the qani' meant someone who makes do with what he has, the verse would have said the qani' and the asker. Pairing it with the mu'tarr shows the qani' is the asker. The scholars differ; the verse feeds both.",
+            "bn": "হাসান জোড়াটিকে উল্টে দেন। তাঁর মতে কানি' এসে চায়, আর মু'তার্র বিনয়ের সঙ্গে সামনে আসে কিন্তু চায় না। ইবন কাসীর তাঁর সঙ্গে আরও কয়েকজনের মধ্যে ইকরিমা আর মালেকের নাম নেন। সাঈদ ইবন জুবাইরও কানি' বলতে প্রার্থীকে বুঝেছেন। তাবারী এই মতকেই অগ্রাধিকার দেন, আর যুক্তি আনেন শব্দ থেকে। কানি' মানে যদি হতো নিজের যা আছে তাতেই চলে যায় এমন কেউ, তবে আয়াতে বলা হতো কানি' আর প্রার্থী। মু'তার্রের সঙ্গে জোড়া বাঁধাই দেখায় যে কানি' হলো সে, যে চায়। আলেমদের মত ভিন্ন, তবে আয়াত দুজনকেই খাওয়াতে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made to Yield, Then Thanks",
+          "bn": "বশ করে দেওয়া, তাই শোকর"
+        },
+        "p": [
+          {
+            "en": "Kadhalika sakhkharnaha lakum: thus have We made them subject to you. Al-Baghawi takes thus to point back to the standing slaughter just described, a favour that lets you slaughter them. Ibn Kathir explains it as made submissive, so that you may ride, milk or slaughter as you wish. As-Sa'di says that had Allah not subjected them, you would have had no strength over them; He made them docile as a mercy, so praise Him. An animal far stronger than the man stands still for his blade. The next verse, 22:37, will say what of all this reaches Allah.",
+            "bn": "কাযালিকা সাখখারনাহা লাকুম: এভাবে আমি এগুলোকে তোমাদের বশ করে দিয়েছি। বাগাভীর মতে \"এভাবে\" কথাটি ফিরে যায় একটু আগে বলা দাঁড় করিয়ে জবাইয়ের দিকে। এটি এমন এক অনুগ্রহ, যার ফলে তোমরা এগুলো জবাই করতে পারো। ইবন কাসীর ব্যাখ্যা দেন: অনুগত করে দেওয়া হয়েছে, চাইলে চড়ো, চাইলে দুধ দোয়াও, চাইলে জবাই করো। সা'দী বলেন, আল্লাহ বশ না করলে এদের উপর তোমাদের কোনো ক্ষমতাই থাকত না। দয়া করেই তিনি এদের নরম করেছেন, তাই তাঁর প্রশংসা করো। মানুষের চেয়ে বহু গুণ শক্তিশালী একটি প্রাণী তার ছুরির সামনে স্থির দাঁড়িয়ে থাকে। এর মধ্যে কী আল্লাহর কাছে পৌঁছায়, পরের আয়াত ২২:৩৭ সে কথা বলবে।"
+          }
+        ]
+      }
+    ]
+  },
   "22:40": {
     "sections": [
       {
