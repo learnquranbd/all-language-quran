@@ -3006,5 +3006,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "40:85": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where Surah Ghafir Stops",
+          "bn": "সূরা গাফিরের শেষ কথা"
+        },
+        "p": [
+          {
+            "en": "Fa-lam yaku yanfa'uhum imanuhum lamma ra'aw ba'sana: but their faith did not benefit them once they saw Our punishment. These are the last words of Surat Ghafir, and Ibn Kathir, al-Qurtubi and as-Sa'di each close their commentary on the surah straight after them. The surah opened in 40:3 by naming Allah the Forgiver of sin and the Acceptor of repentance. It ends on a repentance that was not accepted. The two ends belong together: the door is real, and so is the hour after which it no longer opens.",
+            "bn": "ফালাম ইয়াকু ইয়ানফাউহুম ঈমানুহুম লাম্মা রাআও বা'সানা: আমার শাস্তি দেখার পর তাদের ঈমান তাদের কোনো কাজে আসেনি। এগুলোই সূরা গাফিরের শেষ শব্দ। ইবন কাসীর, কুরতুবী ও সা'দী তিনজনই এর ঠিক পরে সূরাটির তাফসীর শেষ করেছেন। সূরার শুরুতে ৪০:৩ আয়াত আল্লাহকে পরিচয় করিয়েছে গুনাহ মাফকারী ও তওবা কবুলকারী হিসেবে। আর সূরা শেষ হচ্ছে এমন এক তওবায়, যা কবুল হয়নি। দুই প্রান্ত একসঙ্গেই পড়ার মতো। দরজা সত্যিই খোলা, আবার এমন একটা সময়ও সত্যি, যার পরে সে দরজা আর খোলে না।"
+          },
+          {
+            "en": "The verse answers the ones before it. 40:82 sends the listener to look at how earlier nations ended, peoples more numerous and stronger than those now hearing it, whose earnings did not avail them. 40:83 says that when their messengers brought clear proofs, they rejoiced in the knowledge they already had. 40:84 records what they said when they saw Our might: we believe in Allah alone and disbelieve in what we used to associate with Him. Ibn Kathir, in the abridged English, reads this as a real affirmation that Allah is One and a real denial of the false gods, made when excuses were of no avail.",
+            "bn": "আয়াতটি আগের আয়াতগুলোর জবাব। ৪০:৮২ শ্রোতাকে ডেকে বলে, আগের জাতিগুলোর পরিণতি একবার দেখে এসো। তারা সংখ্যায় বেশি ছিল, শক্তিতে প্রবল ছিল, অথচ তাদের অর্জন তাদের কোনো কাজে আসেনি। ৪০:৮৩ বলে, রাসূলরা স্পষ্ট প্রমাণ নিয়ে এলে তারা নিজেদের কাছে থাকা জ্ঞান নিয়েই মেতে ছিল। ৪০:৮৪ জানায়, আমার শাস্তি দেখে তারা কী বলেছিল: আমরা এক আল্লাহর উপর ঈমান আনলাম, আর যাদের শরীক করতাম তাদের অস্বীকার করলাম। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে সত্যিকারের স্বীকৃতিই ধরে: তারা মেনেছিল আল্লাহই একমাত্র ইলাহ, মিথ্যা উপাস্যদের অস্বীকার করেছিল। কিন্তু তা এমন সময়ে, যখন আর কোনো অজুহাত কাজে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "True Words, Closed Hour",
+          "bn": "কথা সত্য, সময় পেরিয়ে গেছে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari puts the verse in plain terms. Their tasdiq, their affirming that Allah is One, did not help them when they saw His punishment already sent down and His torment already arrived, because they affirmed it at a time when affirming no longer benefits the one who affirms. He gives the reason as a decision made long before: Allah's ruling had already gone forth, in His prior knowledge, that whoever repents of his denial after the punishment has come down from Allah, his repentance will not benefit him.",
+            "bn": "তাবারী আয়াতটিকে সোজা ভাষায় খুলে বলেন। আল্লাহই একমাত্র ইলাহ, এ কথা তারা সত্য বলে মেনেছিল, কিন্তু তখন, যখন তাঁর শাস্তি নেমে এসেছে আর আযাব ঘাড়ের উপর এসে পড়েছে। তাই এই মেনে নেওয়া তাদের কোনো কাজে আসেনি। কারণ তারা এমন সময়ে মেনেছিল, যখন মেনে নেওয়া আর কাউকে উপকার দেয় না। এর কারণ তিনি দেখান অনেক আগের এক সিদ্ধান্তে। আল্লাহর পূর্বজ্ঞানে এ ফয়সালা আগেই হয়ে আছে: আল্লাহর শাস্তি নেমে আসার পর কেউ যদি নিজের অস্বীকারের জন্য তওবা করে, সে তওবা তার কোনো উপকারে আসবে না।"
+          },
+          {
+            "en": "He then says that the people of interpretation held the same view, and quotes Qatada through his own chain: when they saw Allah's punishment in this world, faith did not benefit them at that point. Notice what the verse does not fault. The sentence of 40:84 is the creed itself, with nothing missing from it. What changed was the hour. A true statement made too late remains true; it simply no longer does what it would have done the day before.",
+            "bn": "তারপর তিনি বলেন, তাফসীরকারেরাও একই কথা বলেছেন। নিজের সনদে তিনি কাতাদার কথা আনেন: দুনিয়াতেই যখন তারা আল্লাহর শাস্তি দেখল, তখন ঈমান আর তাদের কাজে আসেনি। খেয়াল করুন, আয়াত কোন জিনিসের দোষ ধরছে না। ৪০:৮৪ আয়াতের বাক্যটা তো খোদ আকীদা, তাতে কোনো কমতি নেই। বদলেছিল শুধু সময়। দেরিতে বলা সত্য কথা সত্যই থাকে। তবে আগের দিন বললে যে কাজ করত, এখন আর তা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief With No Choice Left",
+          "bn": "যখন বেছে নেওয়ার কিছু থাকে না"
+        },
+        "p": [
+          {
+            "en": "The Muyassar gives the reason in one clause: it was a faith they had been driven to, not a faith of choice and desire. As-Sa'di develops the same thought. When Allah's might and punishment come down on those who denied and they then believe, their faith is not valid and does not rescue them, because it is iman darura, a faith of necessity forced on them, and iman mushahada, a faith of eyewitness. The faith that benefits and saves its owner, he says, is chosen faith, faith in the unseen, held before the signs of punishment appear.",
+            "bn": "মুয়াসসার কারণটা এক কথায় বলে: এ ঈমান তারা এনেছিল বাধ্য হয়ে, নিজের পছন্দ আর আগ্রহে নয়। সা'দী একই ভাবনাকে আরও খুলে বলেন। যারা মিথ্যা বলেছিল, তাদের উপর আল্লাহর শাস্তি নেমে আসার পর তারা যদি ঈমান আনে, সে ঈমান সহীহ নয়, তাদের আযাব থেকে বাঁচাতেও পারে না। কারণ এটা ঈমানে দারুরা, ঠেকায় পড়ে আনা ঈমান। আবার এটা ঈমানে মুশাহাদা, চোখে দেখে আনা ঈমান। তাঁর মতে, যে ঈমান মানুষের উপকার করে আর তাকে বাঁচায়, তা নিজের ইচ্ছায় বেছে নেওয়া ঈমান। তা অদেখার উপর ঈমান, যা থাকে শাস্তির আলামত দেখা দেওয়ার আগে।"
+          },
+          {
+            "en": "Al-Qurtubi states the rule in terms of knowledge. Repentance is not accepted after the punishment has been seen and al-'ilm ad-daruri, compelled knowledge, has been reached: the kind of knowing that leaves no further room to weigh or decide. He adds that the matter has already been set out in Surat an-Nisa and Surat Yunus, and sends the reader back to those places. Read together, the three make one claim. What is asked of a person is belief while the matter can still be weighed, not assent once denial has become impossible.",
+            "bn": "কুরতুবী নিয়মটা বলেন জ্ঞানের ভাষায়। শাস্তি দেখে ফেলার পর, আর আল-ইলমুদ দারুরি, অর্থাৎ বাধ্য করা জ্ঞান এসে যাওয়ার পর, তওবা কবুল হয় না। এ জ্ঞান এমন, যার পরে ভেবে দেখার বা সিদ্ধান্ত নেওয়ার আর কোনো জায়গা থাকে না। তিনি আরও বলেন, বিষয়টা সূরা নিসা ও সূরা ইউনুসে আগেই বিস্তারিত বলা হয়েছে, আর পাঠককে সেখানে ফিরে যেতে বলেন। তিনজনের কথা মিলিয়ে পড়লে দাবি একটাই দাঁড়ায়। মানুষের কাছে চাওয়া হয় এমন ঈমান, যখন বিষয়টা এখনো বিবেচনা করা যায়। অস্বীকার করা অসম্ভব হয়ে যাওয়ার পরের স্বীকৃতি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Way That Has Gone Before",
+          "bn": "আগে থেকে চলে আসা নিয়ম"
+        },
+        "p": [
+          {
+            "en": "Sunnata llahi llati qad khalat fi 'ibadih: the way of Allah that has passed among His servants. At-Tabari explains the sunna concretely. Allah's leaving off any release for them, any acceptance of their repentance, any return of theirs to faith and to believing their messengers once they had seen His might: this is His way that had already gone forth in His creation. That, he says, is why He did not release them or accept their repentance in that state. As-Sa'di glosses sunna with 'ada, His set custom.",
+            "bn": "সুন্নাতাল্লাহিল্লাতি কাদ খালাত ফী ইবাদিহ: আল্লাহর সেই নিয়ম, যা তাঁর বান্দাদের মধ্যে আগে থেকেই চলে এসেছে। তাবারী সুন্নাহর ব্যাখ্যা দেন একেবারে নির্দিষ্ট করে। তাঁর শাস্তি দেখার পর আল্লাহ তাদের রেহাই দেননি, তাদের তওবা কবুল করেননি, ঈমানের দিকে আর রাসূলদের সত্য মানার দিকে তাদের ফেরাটাও গ্রহণ করেননি। এটাই তাঁর সৃষ্টির মধ্যে আগে থেকে চলে আসা নিয়ম। তাবারী বলেন, এ কারণেই ওই অবস্থায় তিনি তাদের ছাড়েননি, তওবাও কবুল করেননি। সা'দী সুন্নাহর অর্থ করেন আদা দিয়ে, মানে আল্লাহর বাঁধা রীতি।"
+          },
+          {
+            "en": "Qatada, again through at-Tabari, makes the history plain: so was Allah's way with those who passed away before; when they saw Allah's punishment with their own eyes, their faith did not benefit them at that point. The Muyassar widens it to every nation: His way and path, laid down among all the peoples, that faith does not benefit them once they have seen the punishment. Al-Baghawi names the sunna itself: when they see Allah's punishment they believe, and their faith does not benefit them at the sight of it.",
+            "bn": "কাতাদা, এখানেও তাবারীর সূত্রে, ইতিহাসটা পরিষ্কার করে দেন। আগে যারা গত হয়েছে, তাদের সঙ্গেও আল্লাহর নিয়ম এমনই ছিল। আল্লাহর শাস্তি নিজের চোখে দেখার পর তাদের ঈমান আর কাজে আসেনি। মুয়াসসার কথাটাকে সব জাতির উপর ছড়িয়ে দেয়। সব উম্মতের মধ্যে আল্লাহ এ পথ ঠিক করে রেখেছেন: শাস্তি দেখে ফেলার পর ঈমান আর কোনো উপকার দেয় না। বাগাভী নিয়মটার নামই বলে দেন। আল্লাহর আযাব দেখলে তারা ঈমান আনে, আর আযাব চোখে দেখার সময়ের সেই ঈমান তাদের কোনো কাজে আসে না।"
+          },
+          {
+            "en": "Why is sunnata in the accusative? Al-Baghawi lists three answers without choosing: by a dropped preposition, as the way of Allah; as a verbal noun; or as a warning, beware the way of Allah. Al-Qurtubi puts the verbal noun first, from the Arab usage sanna yasunnu, so that Allah laid it down among the disbelievers. He then reports the warning reading, addressed as beware, people of Makkah, Allah's way in destroying the disbelievers, and a third that rearranges the verse to mean as is Our way with all the disbelievers. He closes, and Allah knows best.",
+            "bn": "সুন্নাতা শব্দটা কেন যবর দিয়ে? বাগাভী তিনটি উত্তর দেন, কোনোটাকে বেছে নেন না। এক, এখানে একটা অব্যয় উহ্য, মানে আল্লাহর নিয়মের মতো। দুই, এটি ক্রিয়াবাচক বিশেষ্য। তিন, এটি সতর্কবাণী, মানে আল্লাহর নিয়ম থেকে সাবধান। কুরতুবী প্রথমে আনেন ক্রিয়াবাচক বিশেষ্যের কথা, আরবদের ব্যবহার সান্না ইয়াসুন্নু থেকে। তাহলে অর্থ দাঁড়ায়, আল্লাহ কাফিরদের মধ্যে এ নিয়ম স্থির করেছেন। তারপর তিনি আনেন সতর্কবাণীর পাঠ: হে মক্কাবাসী, কাফিরদের ধ্বংস করার ব্যাপারে আল্লাহর নিয়ম থেকে সাবধান হও। তৃতীয় পাঠে আয়াতের ক্রম আগে-পিছে করে অর্থ হয়, সব কাফিরের সঙ্গে আমার যে নিয়ম, তেমনই। তিনি শেষ করেন এ কথায়: আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pharaoh in the Sea",
+          "bn": "সাগরে ডুবন্ত ফেরাউন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in the abridged English, sets one scene beside this verse. The cry of 40:84 is like what Pharaoh said as he was drowning, in 10:90: I believe that there is no deity except the One in whom the Children of Israel believe, and I am of the Muslims. The reply came in 10:91: Now? And you had disobeyed before and were of the corrupters? Ibn Kathir explains that Allah did not accept it from him, because He had answered the prayer of Musa (AS) in 10:88, that their hearts be hardened so that they would not believe until they saw the painful punishment.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ আয়াতের পাশে একটা দৃশ্য রাখে। ৪০:৮৪ আয়াতের আর্তনাদ যেন ডুবতে থাকা ফেরাউনের কথার মতো, যা ১০:৯০ আয়াতে আছে: আমি ঈমান আনলাম, বনী ইসরাঈল যাঁর উপর ঈমান এনেছে তিনি ছাড়া কোনো ইলাহ নেই, আর আমি মুসলিমদের একজন। জবাব এসেছে ১০:৯১ আয়াতে: এখন? অথচ আগে তো তুমি নাফরমানি করেছ, আর ফাসাদকারীদের মধ্যে ছিলে। ইবন কাসীর বুঝিয়ে বলেন, আল্লাহ তার এ কথা কবুল করেননি। কারণ ১০:৮৮ আয়াতে মূসা (আঃ)-এর দোয়া তিনি কবুল করেছিলেন: তাদের অন্তর কঠিন করে দাও, যাতে যন্ত্রণাদায়ক শাস্তি না দেখা পর্যন্ত তারা ঈমান না আনে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: nations who mocked their messengers, the might that came upon them, and a faith declared only at the sight of that might. It licenses nothing against any living person or community. It gives no one the right to name a people today as one of these nations, to read a disaster that strikes others as proof against them, or to pronounce on the faith of someone who turned to Allah late in life. That judgment belongs to Allah alone, who knows each heart and each hour.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বর্ণনা করে, যতটুকু পাঠে আছে। রাসূলদের নিয়ে ঠাট্টা করা কিছু জাতি, তাদের উপর নেমে আসা শাস্তি, আর সেই শাস্তি দেখার পর ঘোষণা করা এক ঈমান। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো জাতিকে এদের একজন বলে চিহ্নিত করার অধিকার এতে নেই। অন্যের উপর নেমে আসা বিপদকে তাদের বিরুদ্ধে প্রমাণ বলে পড়ার অধিকারও নেই। জীবনের শেষ দিকে আল্লাহর দিকে ফিরেছে এমন কারও ঈমান নিয়ে রায় দেওয়ার অধিকারও কারও নেই। সে বিচার একমাত্র আল্লাহর, যিনি প্রতিটি অন্তর আর প্রতিটি মুহূর্ত জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Rattle in the Throat",
+          "bn": "গলায় ঘড়ঘড় ওঠার আগে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws the line down to each person. This, he says, is Allah's ruling on everyone who repents on seeing the punishment with his own eyes: it is not accepted. That is why the hadith says that Allah accepts the servant's repentance so long as he is not yet in the death-rattle. When the rattle has begun, the soul has reached the throat and the dying person sees the angel, there is no repentance then. Ibn Kathir does not name a collection, and none of the fetched commentators reports a cause of revelation for the verse.",
+            "bn": "ইবন কাসীর রেখাটাকে প্রত্যেক মানুষের জীবন পর্যন্ত টেনে আনেন। তিনি বলেন, শাস্তি নিজের চোখে দেখার পর যে-ই তওবা করে, তার ব্যাপারে আল্লাহর ফয়সালা এটাই: তা কবুল হয় না। এ জন্যই হাদীসে এসেছে, বান্দার গলায় মৃত্যুর ঘড়ঘড় শুরু না হওয়া পর্যন্ত আল্লাহ তার তওবা কবুল করেন। ঘড়ঘড় শুরু হলে রূহ গলা পর্যন্ত পৌঁছে যায়, মৃত্যুপথযাত্রী ফেরেশতাকে দেখে ফেলে। তখন আর তওবার সুযোগ থাকে না। ইবন কাসীর কোনো হাদীসগ্রন্থের নাম বলেননি। আর যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের শানে নুযূল উল্লেখ করেনি।"
+          },
+          {
+            "en": "The wording is found in Jami' at-Tirmidhi, number 3537, from Ibn 'Umar (RA), from the Prophet ﷺ: inna llaha yaqbalu tawbata l-'abdi ma lam yugharghir, \"Indeed Allah accepts the repentance of the servant as long as his soul has not reached his throat.\" At-Tirmidhi grades it hasan gharib, and records a second chain to the same meaning. It is a general narration and not attached to this verse by its own text. Ibn Kathir brings it here because it states for one person what the verse states for nations.",
+            "bn": "হাদীসটির শব্দ পাওয়া যায় জামি' তিরমিযীতে, নম্বর ৩৫৩৭। ইবন উমর (রাঃ) নবী ﷺ থেকে বর্ণনা করেন: ইন্নাল্লাহা ইয়াকবালু তাওবাতাল আবদি মা লাম ইউগারগির। \"নিশ্চয়ই আল্লাহ বান্দার তওবা কবুল করেন, যতক্ষণ না তার প্রাণ গলা পর্যন্ত পৌঁছে যায়।\" ইমাম তিরমিযী একে হাসান গরীব বলেছেন। একই অর্থে তিনি আরেকটি সনদও এনেছেন। এ হাদীস সাধারণ বর্ণনা, এর নিজের পাঠে এ আয়াতের কোনো উল্লেখ নেই। ইবন কাসীর একে এখানে আনেন, কারণ আয়াত জাতিগুলোর ব্যাপারে যা বলে, হাদীস একজন মানুষের ব্যাপারে ঠিক সেটাই বলে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an cites the same hadith through Ibn Kathir and adds that once Divine punishment has come face to face, no repentance and no declaration of faith made by anyone remains acceptable. Read the other way, the hadith is generous. It does not close the door at the first sin, nor at old age, nor at a long record of failure. It closes it at the rattle in the throat. Every hour before that is an hour in which Allah accepts repentance, and anyone reading this verse is, by that fact alone, still on the near side of the line.",
+            "bn": "মাআরিফুল কুরআন ইবন কাসীরের সূত্রে একই হাদীস উদ্ধৃত করে আর যোগ করে: আল্লাহর শাস্তি একবার সামনাসামনি এসে গেলে কারও তওবা বা ঈমানের ঘোষণা আর গ্রহণযোগ্য থাকে না। উল্টো দিক থেকে পড়লে হাদীসটা বড়ই উদার। প্রথম গুনাহতে দরজা বন্ধ হয় না, বুড়ো বয়সেও না, দীর্ঘ ব্যর্থতার পরেও না। বন্ধ হয় গলায় ঘড়ঘড় উঠলে। তার আগের প্রতিটি মুহূর্তে আল্লাহ তওবা কবুল করেন। আর যিনি এ আয়াত পড়ছেন, পড়তে পারছেন বলেই তিনি এখনো সেই রেখার এ পাশে আছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Losing Bargain Revealed",
+          "bn": "লোকসানের সওদা ধরা পড়ল"
+        },
+        "p": [
+          {
+            "en": "Wa-khasira hunalika l-kafirun: and there the disbelievers lost. At-Tabari reads khasira as a trade gone wrong. At the coming of Allah's might they perished; their bargain was cheated and they were the losers in their sale, having traded the Hereafter for this world, forgiveness for punishment and faith for disbelief. He names who they are: those who disbelieved in their Lord, denied the oneness of their Creator and took gods besides Him. As-Sa'di reads hunalika, there, as the time of destruction and of being made to taste Allah's might.",
+            "bn": "ওয়া খাসিরা হুনালিকাল কাফিরূন: আর সেখানেই কাফিররা ক্ষতিগ্রস্ত হলো। তাবারী খাসিরা শব্দটাকে পড়েন এমন এক ব্যবসা হিসেবে, যাতে ঠকে যাওয়া হয়েছে। আল্লাহর শাস্তি আসতেই তারা ধ্বংস হলো। তাদের সওদায় তারা ঠকেছে, বেচাকেনায় লোকসান গুনেছে। আখিরাত দিয়ে তারা দুনিয়া কিনেছে, মাগফিরাত দিয়ে আযাব, আর ঈমান দিয়ে কুফর। তারা কারা, তাও তিনি বলেন: যারা নিজেদের রবকে অস্বীকার করেছে, স্রষ্টার একত্ব মানেনি, তাঁকে ছেড়ে অন্য উপাস্য ধরেছে। সা'দী হুনালিকা, মানে সেখানে, শব্দের অর্থ করেন ধ্বংসের সময়, যখন আল্লাহর শাস্তির স্বাদ তাদের চাখানো হলো।"
+          },
+          {
+            "en": "As-Sa'di counts what was lost: their religion, their world and their Hereafter. Nor, he adds, is it bare loss in that abode; it is a loss that brings misery in severe punishment, lasting forever. Al-Baghawi says the loss was the going of both abodes. Both he and al-Qurtubi then quote az-Zajjaj, but the two reports differ on one point. In al-Qurtubi, they had been losers before that, but the loss was made clear to us when they saw the punishment. In al-Baghawi, the disbeliever is a loser at every moment, but their loss becomes clear to them when they see it.",
+            "bn": "সা'দী গুনে দেখান কী কী হারাল: তাদের দ্বীন, তাদের দুনিয়া, তাদের আখিরাত। তিনি আরও বলেন, সেখানে এটা শুধু লোকসান নয়। এ এমন লোকসান, যা কঠিন আযাবে দুর্ভাগা করে রাখে, চিরকাল, অনন্তকাল। বাগাভী বলেন, লোকসানটা হলো দুই জগৎই হাতছাড়া হয়ে যাওয়া। তারপর বাগাভী ও কুরতুবী দুজনেই যাজ্জাজের কথা আনেন, কিন্তু একটা জায়গায় দুই বর্ণনা আলাদা। কুরতুবীর বর্ণনায়: তারা এর আগে থেকেই ক্ষতিগ্রস্ত ছিল, তবে শাস্তি দেখার সময় সে ক্ষতি আমাদের কাছে স্পষ্ট করা হলো। বাগাভীর বর্ণনায়: কাফির সব সময়ই ক্ষতিগ্রস্ত, তবে শাস্তি দেখার সময় তাদের ক্ষতি তাদের নিজেদের কাছে স্পষ্ট হয়ে যায়।"
+          },
+          {
+            "en": "The two reports need not be forced into one; each leaves something worth keeping. On the first, the loss was already complete before the might arrived, and the punishment only displayed it to everyone watching. On the second, the loser himself was the last to know. Either way, the moment of seeing is not when the loss happened. It is when the loss could no longer be hidden, even from the one who had suffered it all along without noticing.",
+            "bn": "জোর করে দুই বর্ণনাকে একটা বানানোর দরকার নেই, দুটোতেই রাখার মতো কিছু আছে। প্রথমটা অনুযায়ী শাস্তি আসার আগেই লোকসান পুরো হয়ে গিয়েছিল, শাস্তি শুধু সবার চোখের সামনে তা খুলে দিয়েছে। দ্বিতীয়টা অনুযায়ী যে ঠকেছে, সে-ই সবার শেষে টের পেয়েছে। যেভাবেই পড়ি, দেখার মুহূর্তটা লোকসান ঘটার মুহূর্ত নয়। এ সেই মুহূর্ত, যখন লোকসান আর লুকিয়ে রাখা যায় না। এমনকি তার কাছ থেকেও না, যে না বুঝে এতদিন ধরে সেটাই বয়ে বেড়াচ্ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While the Unseen Still Asks",
+          "bn": "অদেখা যখন এখনো ডাকছে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's description of saving faith is also an invitation. Chosen faith, faith in the unseen, held before any sign of punishment appears: that is exactly the position of anyone reading this verse today. Nothing is forcing your hand. No sea is closing over you. The sentence that came too late for them, we believe in Allah alone and reject what we set beside Him, can be said by you now, freely, and here it is still faith. The surah that ends on this verse opened by calling Allah the Acceptor of repentance, and both ends remain true.",
+            "bn": "রক্ষাকারী ঈমানের যে বর্ণনা সা'দী দেন, তা একই সঙ্গে এক আমন্ত্রণও। নিজের ইচ্ছায় বেছে নেওয়া, অদেখার উপর আনা, শাস্তির কোনো আলামত দেখা দেওয়ার আগের ঈমান। আজ যিনি এ আয়াত পড়ছেন, তাঁর অবস্থান ঠিক এটাই। কেউ আপনাকে বাধ্য করছে না। কোনো সাগর আপনার মাথার উপর বন্ধ হয়ে আসছে না। যে কথা তাদের জন্য দেরিতে এসেছিল, আমরা এক আল্লাহর উপর ঈমান আনলাম আর যাদের শরীক করতাম তাদের অস্বীকার করলাম, তা আপনি এখনই নিজের ইচ্ছায় বলতে পারেন। আর এখানে তা এখনো ঈমান। যে সূরা এ আয়াতে শেষ হলো, তার শুরুতে আল্লাহকে বলা হয়েছে তওবা কবুলকারী। দুই প্রান্তই সত্য।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an ends its commentary on the surah with a supplication worth borrowing: O Allah, we ask You for pardon and well-being, for repentance before death, for ease and pardon at the time of death, and for forgiveness and mercy after death. The order is the lesson. Repentance belongs before death, while it is still a choice. So name one thing you have been postponing until you felt certain, a prayer, an apology, a sin you keep meaning to leave, and turn on it today, while turning still counts.",
+            "bn": "মাআরিফুল কুরআন সূরাটির তাফসীর শেষ করেছে এমন এক দোয়ায়, যা আমরাও নিজের করে নিতে পারি: হে আল্লাহ, আমরা তোমার কাছে চাই ক্ষমা ও সুস্থতা, মৃত্যুর আগে তওবা, মৃত্যুর সময় সহজতা ও মাফ, আর মৃত্যুর পরে মাগফিরাত ও রহমত। এই ক্রমটাই শিক্ষা। তওবার জায়গা মৃত্যুর আগে, যতক্ষণ তা বেছে নেওয়ার বিষয়। তাই এমন একটা জিনিসের কথা ভাবুন, যা নিশ্চিত হওয়ার অপেক্ষায় আপনি ফেলে রেখেছেন। হতে পারে একটা নামাজ, একটা ক্ষমা চাওয়া, কিংবা এমন কোনো গুনাহ, যা ছাড়ব ছাড়ব করেও ছাড়া হয়নি। আজই সেদিকে ফিরুন, যখন ফেরা এখনো গণ্য হয়।"
+          }
+        ]
+      }
+    ]
   }
 });

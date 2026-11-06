@@ -26489,6 +26489,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let your joy rest on Allah's favour and on what He permits, and never let good fortune turn into swagger or into overreach against other people.",
     "lessonBn": "আপনার আনন্দের ভিত হোক আল্লাহর অনুগ্রহ আর তাঁর অনুমোদিত বিষয়। সৌভাগ্যকে কখনো দম্ভে কিংবা অন্য মানুষের উপর বাড়াবাড়িতে পরিণত হতে দেবেন না।"
+  },
+  "40:85": {
+    "reflectionEn": "The words they finally said were true. We believe in Allah alone, and we reject what we used to set beside Him: that is the whole of tawhid in one breath. Yet the verse says it did not help them, because they said it only once the punishment was in front of their eyes. Belief that waits until nothing is left to doubt is no longer a choice; it is a reflex. The same sentence spoken a day earlier, unseen and freely given, would have been faith. So the question this verse leaves me is about time, not about words. What am I putting off until I am certain, and how sure am I that I will still have the day to say it?",
+    "reflectionBn": "শেষ পর্যন্ত তারা যে কথা বলল, তা সত্য কথাই। আমরা এক আল্লাহর উপর ঈমান আনলাম, আর যাদের তাঁর শরীক বানাতাম তাদের অস্বীকার করলাম। এক নিঃশ্বাসে পুরো তাওহীদ। তবু আয়াত বলছে, এতে তাদের কোনো লাভ হয়নি। কারণ কথাটা তারা বলেছে শাস্তি চোখের সামনে এসে দাঁড়ানোর পর। সন্দেহের আর কিছু বাকি না থাকা পর্যন্ত যে বিশ্বাস অপেক্ষা করে, তা আর বেছে নেওয়া থাকে না, হয়ে যায় নিছক প্রতিক্রিয়া। ঠিক এই কথাই একদিন আগে বললে, না দেখে, নিজের ইচ্ছায়, তা হতো ঈমান। তাই এ আয়াত আমার সামনে প্রশ্ন রাখে কথা নিয়ে নয়, সময় নিয়ে। নিশ্চিত হওয়ার অপেক্ষায় আমি কী ফেলে রাখছি? আর কথাটা বলার দিনটা আমার হাতে থাকবেই, এ ব্যাপারে আমি কতটা নিশ্চিত?",
+    "pointsEn": [
+      "What truth do I already accept in my head but keep postponing in my life, as if waiting for a clearer sign?",
+      "If my turning back to Allah came only after I was frightened or caught, would it be the same as one I chose freely today?",
+      "Which accounts of people before me have I read as old stories rather than as a pattern that still holds?",
+      "If I knew this week were my last chance to turn back, what would I want to have done already?",
+      "When I see someone turn to Allah late in life, do I make room for hope, or do I sit as their judge?"
+    ],
+    "pointsBn": [
+      "কোন সত্য আমি মনে মনে মেনে নিয়েছি, অথচ জীবনে তা পিছিয়ে রাখছি, যেন আরও স্পষ্ট কোনো নিদর্শনের অপেক্ষায় আছি?",
+      "ভয় পেয়ে বা ধরা পড়ে যদি আমি আল্লাহর দিকে ফিরি, তা কি আজ নিজের ইচ্ছায় ফেরার সমান হবে?",
+      "আগের মানুষদের কোন ঘটনাগুলো আমি পুরোনো গল্প হিসেবে পড়েছি, অথচ সেগুলো আজও খাটে এমন এক নিয়মের কথা বলে?",
+      "যদি জানতাম এ সপ্তাহই ফেরার শেষ সুযোগ, তাহলে কোন কাজটা আগেই সেরে রাখতে চাইতাম?",
+      "কাউকে জীবনের শেষ দিকে আল্লাহর দিকে ফিরতে দেখলে আমি কি আশার জায়গা রাখি, নাকি তার বিচারক হয়ে বসি?"
+    ],
+    "lessonEn": "Turn to Allah now, while belief is still a free choice made in the unseen; faith offered only once the punishment was in sight did not save those before us.",
+    "lessonBn": "এখনই আল্লাহর দিকে ফিরুন, যখন ঈমান এখনো না দেখে নিজের ইচ্ছায় বেছে নেওয়ার বিষয়। শাস্তি চোখে দেখার পর আনা ঈমান আগের লোকদের বাঁচাতে পারেনি।"
   }
 };
 
