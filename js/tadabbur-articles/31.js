@@ -11,6 +11,150 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "31:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "Pointing From a Distance",
+          "bn": "দূর থেকে ইশারা"
+        },
+        "p": [
+          {
+            "en": "Tilka āyātu'l-kitābi'l-ḥakīm: those are the verses of the wise Book. The verse is four words long in Arabic, and its first word is a demonstrative that points to something far off. Arabic would normally say hādhihi, these, of verses that are being recited at that very moment. As-Sa'di explains the choice in one line: Allah points here with a pointing that signals exaltation. The distance in the word is not distance in place; it is the distance of rank, the way a speaker lifts up something great before he describes it.",
+            "bn": "তিলকা আয়াতুল কিতাবিল হাকীম: ওগুলো হিকমাতপূর্ণ কিতাবের আয়াত। আরবিতে আয়াতটি মাত্র চারটি শব্দের, আর প্রথম শব্দটি এমন এক ইশারাবাচক শব্দ, যা দূরের জিনিস দেখায়। যে আয়াত ঠিক সেই মুহূর্তে তিলাওয়াত হচ্ছে, সাধারণ আরবিতে তার জন্য বলা হতো হাযিহি, অর্থাৎ এগুলো। সা'দী একটি বাক্যে এর কারণ বলেন: আল্লাহ এখানে এমনভাবে ইশারা করছেন, যা মর্যাদা বোঝায়। শব্দের এই দূরত্ব জায়গার দূরত্ব নয়, মর্যাদার দূরত্ব। বড় কিছু বর্ণনা করার আগে বক্তা যেভাবে তাকে উঁচুতে তুলে ধরেন, এ তেমনই।"
+          },
+          {
+            "en": "Al-Qurtubi looks at the grammar. Tilka, he says, stands in the nominative on an unspoken subject, as if the verse said: these are those verses. He adds that tīka, another form of the same far demonstrative, is also said in its place. Others simply read the far word as near. At-Tabari paraphrases it as these are the verses of the wise Book, and the Muyassar opens with the same gloss: these verses are the verses of the Qur'an. A similar question arises over dhālika al-kitāb at 2:2.",
+            "bn": "কুরতুবী নজর দেন ব্যাকরণের দিকে। তাঁর মতে তিলকা শব্দটি এক অনুচ্চারিত উদ্দেশ্যের বিধেয় হিসেবে পেশযুক্ত, যেন আয়াতটি বলছে: এগুলোই সেই আয়াত। তিনি আরও জানান, একই দূরবাচক ইশারার আরেক রূপ তীকা-ও এর জায়গায় বলা হয়। অন্যরা দূরবাচক শব্দটিকে সোজা কাছের অর্থেই পড়েন। তাবারী ব্যাখ্যা করেন: এগুলো হিকমাতপূর্ণ কিতাবের আয়াত। মুয়াসসারও শুরু করে একই কথায়: এই আয়াতগুলো কুরআনের আয়াত। ২:২ আয়াতে যালিকাল কিতাব নিয়েও এমন প্রশ্ন ওঠে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Letters, Then a Book",
+          "bn": "তিন হরফ, তারপর কিতাব"
+        },
+        "p": [
+          {
+            "en": "Sūrat Luqmān opens with alif lām mīm, and the verse under study follows it at once. Ibn Kathir heads the surah simply as Makkan. Al-Qurtubi is more precise and reports a difference. It is Makkan except for two verses, said Qatada, the first of them 31:27, on the trees of the earth as pens, running to the end of that pair. Ibn Abbas, he reports, said three verses, the first of them again 31:27. Al-Qurtubi gives the surah's length as thirty-four verses. On either report, the opening verses fall within the Makkan part.",
+            "bn": "সূরা লুকমান শুরু হয় আলিফ-লাম-মীম দিয়ে, আর আলোচ্য আয়াতটি আসে ঠিক তার পরেই। ইবন কাসীর সূরার শিরোনামে শুধু বলেন, এটি মাক্কী। কুরতুবী আরও খুঁটিয়ে বলেন এবং একটি মতভেদের কথা জানান। কাতাদার মতে দুটি আয়াত বাদে সূরাটি মাক্কী। সে দুটির প্রথমটি ৩১:২৭, যেখানে পৃথিবীর গাছগুলোকে কলম বানানোর কথা আছে, আর জোড়াটির শেষ পর্যন্ত। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন তিনটি আয়াত, যার প্রথমটিও ৩১:২৭। কুরতুবী সূরার আয়াতসংখ্যা বলেন চৌত্রিশ। যে মতই ধরা হোক, সূরার শুরুর আয়াতগুলো মাক্কী অংশের ভেতরেই পড়ে।"
+          },
+          {
+            "en": "The commentators say little here about the three letters themselves. At-Tabari says only that he has already explained alif lām mīm. Ibn Kathir notes that the general discussion of this surah's opening was given at the start of al-Baqarah. Al-Qurtubi sets out two camps. Ash-Sha'bi, Sufyan ath-Thawri and a group of hadith scholars held that the letters are Allah's secret in the Qur'an, to be believed in and recited as they came, a view also reported from Abu Bakr and Ali. A large group of scholars held instead that one must speak about them and seek the benefits beneath them.",
+            "bn": "এই তিনটি হরফ নিয়ে তাফসীরকারেরা এখানে খুব অল্প কথা বলেন। তাবারী শুধু জানান, আলিফ-লাম-মীমের ব্যাখ্যা তিনি আগেই দিয়েছেন। ইবন কাসীর বলেন, এ সূরার শুরু নিয়ে সাধারণ আলোচনা সূরা বাকারার শুরুতে হয়ে গেছে। কুরতুবী দুটি দলের কথা তুলে ধরেন। শা'বী, সুফিয়ান সাওরী এবং হাদীসবিশারদদের একটি দলের মতে এই হরফগুলো কুরআনে আল্লাহর এক গোপন রহস্য। যেভাবে এসেছে সেভাবেই এগুলোর প্রতি ঈমান আনতে হবে এবং পড়তে হবে। এ মত আবু বকর (রাঃ) ও আলী (রাঃ) থেকেও বর্ণিত। অন্যদিকে আলেমদের এক বড় দলের মত হলো, এগুলো নিয়ে কথা বলা জরুরি এবং এর নিচে লুকানো উপকারিতা খুঁজে বের করা দরকার।"
+          },
+          {
+            "en": "As-Sa'di takes the first course. The safest way, he writes, is to refrain from assigning the letters a meaning without a basis in revelation, while holding with certainty that Allah did not send them down in vain but for a wisdom we do not know. That is as far as this article will go with them. What matters for the verse is what comes after the letters: a pointing word, the noun Book, and one adjective. Whatever the letters mean, the verse moves at once from them to the Book, and it is the Book that the surah then describes.",
+            "bn": "সা'দী প্রথম পথটি বেছে নেন। তিনি লেখেন, সবচেয়ে নিরাপদ হলো শরীয়তের কোনো ভিত্তি ছাড়া এই হরফগুলোর অর্থ নির্ধারণ থেকে বিরত থাকা। সেই সঙ্গে দৃঢ়ভাবে বিশ্বাস রাখা যে আল্লাহ এগুলো অনর্থক নাযিল করেননি, বরং এমন এক হিকমাতে নাযিল করেছেন যা আমরা জানি না। হরফগুলো নিয়ে এই লেখা এর বেশি এগোবে না। আয়াতের জন্য আসল কথা হরফগুলোর পরে যা আসে: একটি ইশারাবাচক শব্দ, কিতাব শব্দটি, আর একটি বিশেষণ। হরফগুলোর অর্থ যা-ই হোক, আয়াত সেখান থেকে সঙ্গে সঙ্গে কিতাবের দিকে চলে যায়। আর সূরাটি এরপর সেই কিতাবেরই বর্ণনা দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Firm, Wise, or Judging",
+          "bn": "মজবুত, প্রজ্ঞাময়, ফয়সালাকারী"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi defines both nouns in a breath. Al-kitāb is the Qur'an. Al-ḥakīm he takes first as al-muḥkam, the firmly made, meaning that there is no flaw in it and no contradiction. Then, each introduced with it is said, he records two further meanings: dhū'l-ḥikma, the possessor of wisdom, and al-ḥākim, the one that judges. All three grow from the same root, ḥ-k-m, which gathers making firm, wisdom and judgment. Al-Qurtubi gives the first as his own gloss and the other two as reported views.",
+            "bn": "কুরতুবী দুটি শব্দেরই সংজ্ঞা দেন এক নিঃশ্বাসে। আল-কিতাব মানে কুরআন। আল-হাকীমের প্রথম অর্থ তিনি ধরেন আল-মুহকাম, অর্থাৎ মজবুত করে গাঁথা: এতে কোনো খুঁত নেই, কোনো স্ববিরোধ নেই। এরপর 'বলা হয়' কথাটি দিয়ে তিনি আরও দুটি অর্থ উল্লেখ করেন। একটি যুল-হিকমা, হিকমাতের অধিকারী। অন্যটি আল-হাকিম, ফয়সালাকারী। তিনটিই এসেছে একই ধাতু হা-কাফ-মীম থেকে, যার ভেতরে মজবুত করা, হিকমাত আর ফয়সালা তিনটিই আছে। প্রথম অর্থটি কুরতুবী দেন নিজের ব্যাখ্যা হিসেবে, বাকি দুটি বর্ণিত মত হিসেবে।"
+          },
+          {
+            "en": "The other commentators each lean towards one of these. The Muyassar takes the second: the Qur'an possessed of far-reaching wisdom, al-ḥikma al-bāligha. As-Sa'di takes the first and ties it to its Author. Its verses are muḥkama, made firm, he says, issuing from One who is Wise and All-Aware. His wording recalls 11:1, where the Book's verses were made firm and then set out in detail from One Wise and All-Aware. At-Tabari does not pause on the adjective at all. He paraphrases the verse and adds only that these verses come as clarification and detail.",
+            "bn": "বাকি তাফসীরকারেরা প্রত্যেকে এর একটি অর্থের দিকে ঝোঁকেন। মুয়াসসার নেয় দ্বিতীয়টি: এমন কুরআন যা পরিপূর্ণ হিকমাতের অধিকারী, আল-হিকমাতুল বালিগা। সা'দী নেন প্রথমটি, আর তাকে জুড়ে দেন এর রচয়িতার সঙ্গে। তিনি বলেন, এর আয়াতগুলো মুহকামা, মজবুত করে গাঁথা, কারণ এগুলো এসেছে এমন এক সত্তার কাছ থেকে যিনি প্রজ্ঞাময়, সর্বজ্ঞ। তাঁর এই ভাষা মনে করিয়ে দেয় ১১:১ আয়াতকে, যেখানে কিতাবের আয়াতগুলো মজবুত করা হয়েছে, তারপর বিশদ করা হয়েছে প্রজ্ঞাময় সর্বজ্ঞের পক্ষ থেকে। তাবারী বিশেষণটি নিয়ে মোটেই থামেন না। তিনি আয়াতের মর্ম বলে দিয়ে শুধু যোগ করেন, এই আয়াতগুলো এসেছে স্পষ্ট বর্ণনা ও বিশদ ব্যাখ্যা হিসেবে।"
+          },
+          {
+            "en": "The same adjective is given to the Qur'an elsewhere: wa'l-Qur'āni'l-ḥakīm, by the wise Qur'an, at 36:2, and the identical four words follow the opening letters of Sūrat Yūnus at 10:1. Here the word stands without an oath, as a plain description, and the description carries a demand. If the Book is made firm, a reader who meets an apparent tension in it is being asked to look again at his own reading. If it carries wisdom, its commands deserve trust before their reasons are seen. And if it judges, then it is the reader who is being weighed.",
+            "bn": "কুরআনকে এই বিশেষণ অন্য জায়গাতেও দেওয়া হয়েছে। ৩৬:২ আয়াতে আছে ওয়াল কুরআনিল হাকীম: হিকমাতপূর্ণ কুরআনের শপথ। আর সূরা ইউনুসের শুরুর হরফগুলোর পরে, ১০:১ আয়াতে, হুবহু এই চারটি শব্দই এসেছে। এখানে শব্দটি কোনো শপথ ছাড়াই সরল বর্ণনা হিসেবে এসেছে, আর এই বর্ণনার ভেতরেই একটি দাবি আছে। কিতাব যদি মজবুত হয়, তবে এতে আপাত কোনো টানাপোড়েন চোখে পড়লে পাঠককে নিজের বোঝাটাই আবার দেখতে হবে। কিতাব যদি হিকমাতে ভরা হয়, তবে এর হুকুমের কারণ চোখে পড়ার আগেই তাতে ভরসা রাখা যায়। আর কিতাব যদি ফয়সালাকারী হয়, তবে ওজন হচ্ছে পাঠকের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Chosen Words, Kept Intact",
+          "bn": "বাছাই করা শব্দ, অটুট পাঠ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di then lists the ways in which the Book is made firm, each item opening with the same phrase, min iḥkāmihā, among the marks of its firmness. The first lies in its language. Its verses came, he says, in the most majestic, the most eloquent and the clearest of words, and those words point to the most majestic and the finest of meanings. Firmness, on this account, begins at the surface, in the choice of each word, and reaches through the word to what it carries.",
+            "bn": "এরপর সা'দী একটি তালিকা দেন: কিতাবটি কোন কোন দিক থেকে মজবুত। প্রতিটি দফা শুরু হয় একই কথায়: মিন ইহকামিহা, এর মজবুতির একটি দিক হলো। প্রথম দিকটি এর ভাষায়। তিনি বলেন, এর আয়াতগুলো এসেছে সবচেয়ে মহিমাময়, সবচেয়ে বিশুদ্ধ ও সবচেয়ে স্পষ্ট শব্দে। আর সেই শব্দগুলো নির্দেশ করে সবচেয়ে মহিমাময় ও সবচেয়ে সুন্দর অর্থের দিকে। তাঁর কথামতো মজবুতি শুরু হয় একেবারে উপরিভাগে, প্রতিটি শব্দ বাছাইয়ে। তারপর শব্দ পেরিয়ে তা পৌঁছায় শব্দের বহন করা অর্থ পর্যন্ত।"
+          },
+          {
+            "en": "The second lies in its keeping. Among the marks of its firmness, as-Sa'di continues, is that it is guarded from alteration and substitution, from addition and loss, and from distortion. A building made firm does not crack with the years; a text made firm reaches the last generation as it reached the first. The reader who opens a muṣḥaf today holds, by this reasoning, the very verses to which tilka first pointed.",
+            "bn": "দ্বিতীয় দিকটি এর সংরক্ষণে। সা'দী বলে চলেন, এর মজবুতির আরেক দিক হলো, এটি সুরক্ষিত পরিবর্তন ও বদল থেকে, বাড়ানো ও কমানো থেকে, আর বিকৃতি থেকে। মজবুত দালান বছরের পর বছর গেলেও ফাটে না। মজবুত পাঠও তেমনি শেষ প্রজন্মের কাছে পৌঁছায় ঠিক সেভাবে, যেভাবে পৌঁছেছিল প্রথম প্রজন্মের কাছে। এই যুক্তিতে আজ যিনি মুসহাফ খোলেন, তাঁর হাতে সেই আয়াতগুলোই আছে, যেগুলোর দিকে তিলকা শব্দটি প্রথম ইশারা করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports That Match the World",
+          "bn": "বাস্তবের সঙ্গে মিলে যাওয়া খবর"
+        },
+        "p": [
+          {
+            "en": "The third mark concerns what the Book reports. All that it tells of things past and things to come, and of matters of the unseen, matches what is real, and what is real matches it, as-Sa'di writes. No divine scripture has contradicted it, no prophet has reported otherwise, and no sound knowledge, whether of the senses or of reason, has come or will come that contradicts what it indicates. His wording is careful: it is sound knowledge, ṣaḥīḥ, that he says will never conflict with it, not every opinion that presents itself as knowledge.",
+            "bn": "তৃতীয় দিকটি কিতাবের দেওয়া খবর নিয়ে। সা'দী লেখেন, অতীত ও ভবিষ্যতের যত খবর এতে আছে, গায়েবের যত বিষয় আছে, সবই বাস্তবের সঙ্গে মেলে, আর বাস্তবও মেলে তার সঙ্গে। আল্লাহর পাঠানো কোনো কিতাব এর বিরোধিতা করেনি, কোনো নবী এর উল্টো খবর দেননি। ইন্দ্রিয়ের হোক বা যুক্তির, এমন কোনো সঠিক জ্ঞান আসেনি এবং আসবেও না, যা এর বক্তব্যের বিপরীত। তাঁর শব্দচয়ন লক্ষ করার মতো। তিনি বলেন সহীহ জ্ঞানের কথা, যা কখনো এর সঙ্গে সংঘাতে যাবে না। জ্ঞানের দাবি নিয়ে হাজির হওয়া সব মতের কথা তিনি বলেননি।"
+          },
+          {
+            "en": "The fourth concerns what the Book commands. It has commanded nothing, he says, except what is purely beneficial or where benefit outweighs harm, and it has forbidden nothing except what is purely harmful or where harm outweighs benefit. He notes a habit of the text: it often joins a command to a mention of its wisdom and benefit, and a prohibition to a mention of its harm. Fifth, it combines encouragement with warning and with eloquent admonition, by which good souls are set straight and steadied, and so act with resolve.",
+            "bn": "চতুর্থ দিকটি কিতাবের হুকুম নিয়ে। সা'দী বলেন, এটি এমন কিছুরই আদেশ দিয়েছে যাতে হয় পুরোপুরি কল্যাণ, নয়তো কল্যাণের পাল্লা ভারী। আর এমন কিছুই নিষেধ করেছে যাতে হয় পুরোপুরি ক্ষতি, নয়তো ক্ষতির পাল্লা ভারী। কিতাবের একটি অভ্যাসও তাঁর চোখে পড়ে। অনেক সময় এটি আদেশের সঙ্গে তার হিকমাত ও উপকারের কথা জুড়ে দেয়, আর নিষেধের সঙ্গে তার ক্ষতির কথা। পঞ্চম দিকটি হলো, এতে উৎসাহ আর সতর্কবাণী একসঙ্গে আছে, সঙ্গে আছে মর্মস্পর্শী উপদেশ। এর দ্বারা ভালো মনগুলো সোজা হয়, স্থির হয়, তারপর দৃঢ়তার সঙ্গে আমল করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Repeated Stories Agree",
+          "bn": "বারবার আসা কাহিনির মিল"
+        },
+        "p": [
+          {
+            "en": "The last mark as-Sa'di names bears most directly on pondering. You find its repeated verses, he says, such as the stories and the rulings, all agreeing and in accord with one another, with no contradiction and no divergence among them. A story told in one surah returns in another; a ruling is approached from more than one side. On his reading, each return confirms what came before. The Qur'an makes the same claim about itself at 4:82: had it been from other than Allah, they would have found much contradiction in it.",
+            "bn": "সা'দী সবশেষে যে দিকটির কথা বলেন, তাদাব্বুরের সঙ্গে তার সম্পর্ক সবচেয়ে সরাসরি। তিনি বলেন, এর যেসব আয়াত বারবার এসেছে, যেমন কাহিনি ও বিধান, সেগুলো সব একে অন্যের সঙ্গে মেলে, পরস্পরের সমর্থন করে। এগুলোর মধ্যে কোনো স্ববিরোধ নেই, কোনো অমিল নেই। এক সূরায় বলা কাহিনি আরেক সূরায় ফিরে আসে। একই বিধান আসে একাধিক দিক থেকে। তাঁর পাঠে প্রতিবার ফিরে আসা আগের কথাকেই পাকা করে। কুরআন নিজের সম্পর্কে ৪:৮২ আয়াতে একই দাবি করে: এটি যদি আল্লাহ ছাড়া অন্য কারও কাছ থেকে আসত, তবে তারা এতে অনেক অসংগতি পেত।"
+          },
+          {
+            "en": "Then he describes what this agreement does to a reader. The more a person of insight ponders it, and the more he works his mind in reflection, the more his reason is dazzled and his innermost mind stunned at that agreement, until he is certain, with a certainty that admits no doubt, that it is a revelation from the Wise, the Praiseworthy, tanzīlun min ḥakīmin ḥamīd, the phrase that closes 41:42. The Book's firmness is announced in the second verse; on as-Sa'di's account, a patient reader also comes to see it for himself.",
+            "bn": "এরপর তিনি বলেন, এই মিল পাঠকের মনে কী ঘটায়। অন্তর্দৃষ্টিসম্পন্ন মানুষ যত বেশি এতে তাদাব্বুর করে, চিন্তায় যত বেশি বুদ্ধি খাটায়, এই মিল দেখে তার বুদ্ধি তত চমকে যায়, অন্তর তত অভিভূত হয়। শেষে সে সন্দেহের লেশহীন দৃঢ়তায় নিশ্চিত হয়ে যায় যে এটি প্রজ্ঞাময় ও প্রশংসিত সত্তার পক্ষ থেকে নাযিল হওয়া কিতাব: তানযীলুম মিন হাকীমিন হামীদ, ৪১:৪২ আয়াত যে কথায় শেষ হয়। কিতাবের মজবুতির ঘোষণা আসে দ্বিতীয় আয়াতেই। আর সা'দীর কথামতো ধৈর্যশীল পাঠক একসময় নিজের চোখেও তা দেখতে পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Book Being Recited",
+          "bn": "যে কিতাব তিলাওয়াত হচ্ছে"
+        },
+        "p": [
+          {
+            "en": "Which Book does the verse point to? Al-Qurtubi and the Muyassar say plainly: the Qur'an. The same four words follow alif lām rā at the opening of Sūrat Yūnus (10:1), and Ibn Kathir's comment there is just as plain: these are the verses of the Qur'an, al-muḥkam al-mubīn, firmly made and clear. He also records a view from Qatada, that the Book meant here is the scriptures that came before the Qur'an, and he answers it in his own voice: this is a saying whose angle and meaning I do not know.",
+            "bn": "আয়াতটি কোন কিতাবের দিকে ইশারা করছে? কুরতুবী ও মুয়াসসার স্পষ্ট বলেন: কুরআন। সূরা ইউনুসের শুরুতে, ১০:১ আয়াতে, আলিফ-লাম-রা-এর পরে হুবহু এই চারটি শব্দই এসেছে। সেখানে ইবন কাসীরের ব্যাখ্যাও সমান স্পষ্ট: এগুলো কুরআনের আয়াত, আল-মুহকামুল মুবীন, মজবুত ও সুস্পষ্ট। সেখানে তিনি কাতাদার একটি মতও উল্লেখ করেন: এখানে কিতাব মানে কুরআনের আগে আসা কিতাবগুলো। তারপর নিজের কণ্ঠে তার জবাব দেন: এ এমন এক কথা, যার দিক ও অর্থ আমি বুঝি না।"
+          },
+          {
+            "en": "In Sūrat Luqmān itself, Ibn Kathir speaks of this Qur'an: Allah, he says, made this Qur'an guidance, healing and mercy for the doers of good. The Qur'an gives itself the same adjective in other places as well: the wise reminder, adh-dhikr al-ḥakīm, recited to the Prophet ﷺ at 3:58, and a Book lofty and wise in the Mother of the Book at 43:4. On the reading of the commentators fetched here, then, the far demonstrative does not point to a book somewhere else. It points to the Book being recited, raised by the pointing to its rank.",
+            "bn": "সূরা লুকমানে এসে ইবন কাসীর বলেন এই কুরআনের কথাই: আল্লাহ এই কুরআনকে সৎকর্মশীলদের জন্য হিদায়াত, শিফা ও রহমত বানিয়েছেন। কুরআন অন্য জায়গাতেও নিজেকে এই বিশেষণে ডেকেছে। ৩:৫৮ আয়াতে নবী ﷺ-কে শোনানো হিকমাতপূর্ণ উপদেশ, আয-যিকরুল হাকীম। আর ৪৩:৪ আয়াতে উম্মুল কিতাবে রাখা সমুন্নত ও হিকমাতপূর্ণ কিতাব। তাই এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁদের পাঠে দূরবাচক ইশারাটি অন্য কোথাও রাখা কোনো কিতাবের দিকে নয়। ইশারা সেই কিতাবের দিকেই, যা তিলাওয়াত হচ্ছে, আর ইশারাই তাকে তার মর্যাদায় তুলে ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wise, Yet Passed By",
+          "bn": "হিকমাতে ভরা, তবু উপেক্ষিত"
+        },
+        "p": [
+          {
+            "en": "The sentence does not stop at 31:2. The next verse says what these verses are: guidance and mercy for the muḥsinīn. Most readers, at-Tabari reports, read the two nouns in the accusative, as a state of the verses, while Hamza read them in the nominative, as a fresh statement of praise; al-Qurtubi and al-Baghawi record the same difference. At-Tabari judges both correct, though he inclines to the accusative because more readers have it. On either reading, the wise Book is described at once by what it does for those who receive it.",
+            "bn": "বাক্যটি ৩১:২ আয়াতে থামে না। পরের আয়াত জানায় এই আয়াতগুলো কী: মুহসিনীনের জন্য হিদায়াত ও রহমত। তাবারী জানান, অধিকাংশ কারী এই দুটি শব্দ যবরযুক্ত পড়েছেন, আয়াতগুলোর অবস্থা হিসেবে। আর হামযা পড়েছেন পেশযুক্ত, প্রশংসার নতুন বাক্য হিসেবে। কুরতুবী ও বাগাভীও এই একই পার্থক্যের কথা লিখেছেন। তাবারীর মতে দুটি কিরাআতই সঠিক, তবে বেশি কারী যবর পড়েছেন বলে তাঁর ঝোঁক সেদিকেই। যে কিরাআতই ধরা হোক, হিকমাতপূর্ণ কিতাবের পরিচয় সঙ্গে সঙ্গেই দেওয়া হয় তার কাজ দিয়ে: যারা তাকে গ্রহণ করে, তাদের জন্য সে কী করে।"
+          },
+          {
+            "en": "As-Sa'di closes his list on a sober note. Though the Book is wise, calling to every noble trait and forbidding every base trait, most people are deprived of its guidance, turning away from faith in it and from acting on it, except those whom Allah grants success and protects. These, he says, are the muḥsinūn: good in their worship of their Lord and good to His creation. At-Tabari defines them as those who did well in acting on what Allah sent down in this Qur'an. Their portrait in 31:4 and 31:5 belongs to the verses that follow.",
+            "bn": "সা'দী তাঁর তালিকা শেষ করেন এক গম্ভীর কথায়। কিতাবটি হিকমাতে ভরা, প্রতিটি মহৎ চরিত্রের দিকে ডাকে, প্রতিটি হীন চরিত্র থেকে নিষেধ করে। তবু বেশির ভাগ মানুষ এর হিদায়াত থেকে বঞ্চিত। তারা এর প্রতি ঈমান আনা আর এর উপর আমল করা থেকে মুখ ফিরিয়ে রাখে। ব্যতিক্রম শুধু তারা, যাদের আল্লাহ তাওফীক দেন ও রক্ষা করেন। সা'দী বলেন, এরাই মুহসিন: রবের ইবাদতে উত্তম, আর তাঁর সৃষ্টির প্রতিও উত্তম। তাবারীর সংজ্ঞায় এরা তারা, যারা এই কুরআনে আল্লাহর নাযিল করা বিধান অনুযায়ী আমল করতে গিয়ে উত্তম কাজ করেছে। ৩১:৪ ও ৩১:৫ আয়াতে তাদের যে ছবি, তা পরের আয়াতগুলোর আলোচনা।"
+          },
+          {
+            "en": "Ibn Kathir's abridged English commentary sets this beside what follows: after the blessed who benefit from hearing the Book comes, from 31:6, one who turns away from it. That passage describes a stance, and it licenses no verdict against any living person or community. No commentary fetched for this verse attaches a hadith to it, and none is offered here. The word for wisdom itself returns soon, when Allah says He gave Luqman al-ḥikma (31:12). The Book called wise in the second verse goes on to tell of a wise man.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর এর পাশে রাখে পরের অংশটি। যারা কিতাব শুনে উপকৃত হয় সেই সৌভাগ্যবানদের পরে ৩১:৬ আয়াত থেকে আসে এমন একজনের কথা, যে কিতাব থেকে মুখ ফিরিয়ে নেয়। সেই অংশটি একটি আচরণের বর্ণনা দেয়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে রায় দেওয়ার কোনো অনুমতি তা দেয় না। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস আনা হলো না। হিকমাত শব্দটি নিজেই অল্প পরে ফিরে আসে, যখন আল্লাহ বলেন, তিনি লুকমানকে হিকমাত দিয়েছিলেন (৩১:১২)। দ্বিতীয় আয়াতে যে কিতাবকে হিকমাতপূর্ণ বলা হলো, সে এরপর শোনায় এক প্রজ্ঞাবান মানুষের কথা।"
+          }
+        ]
+      }
+    ]
+  },
   "31:4": {
     "sections": [
       {

@@ -25109,6 +25109,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let your joy at any good news rest on Allah's help rather than on its visible cause, for He helps whom He wills, mighty and merciful.",
     "lessonBn": "যেকোনো সুখবরে আপনার আনন্দ চোখে দেখা উপলক্ষে নয়, আল্লাহর সাহায্যে স্থির হোক। তিনি যাকে চান সাহায্য করেন, তিনি পরাক্রমশালী, পরম দয়ালু।"
+  },
+  "31:2": {
+    "reflectionEn": "Four Arabic words, and the first points from a distance: those are the verses of the Book. The pointing honours what it holds up, and the last word calls the Book wise. The commentators hear more than one thing in that word: a Book made firm, with no flaw and no contradiction in it; a Book that carries wisdom; a Book that judges. All three are easy to agree with, harder to live under. A firm Book means that when it and I disagree, my side is the one to examine. A wise Book means its commands serve my good where I cannot yet see how. A Book that judges means it will have the last word on me. Which of the three do I actually treat it as?",
+    "reflectionBn": "আরবিতে মাত্র চারটি শব্দ। প্রথম শব্দটি দূর থেকে ইশারা করে: ওগুলো সেই কিতাবের আয়াত। এই ইশারা যা তুলে ধরে তাকে সম্মান দেয়, আর শেষ শব্দটি কিতাবকে বলে হাকীম। তাফসীরকারেরা এই এক শব্দে একাধিক অর্থ শোনেন। এমন কিতাব যা মজবুত করে গাঁথা, যাতে কোনো খুঁত নেই, কোনো স্ববিরোধ নেই। এমন কিতাব যা হিকমাতে ভরা। আবার এমন কিতাব যা ফয়সালা করে। তিনটিই মেনে নেওয়া সহজ, কিন্তু সে অনুযায়ী চলা কঠিন। কিতাব মজবুত হলে, তার সঙ্গে আমার মত না মিললে আগে নিজের দিকটাই যাচাই করতে হয়। কিতাব হিকমাতপূর্ণ হলে, তার হুকুম আমার কল্যাণেই, যদিও কীভাবে তা এখনো বুঝি না। কিতাব ফয়সালাকারী হলে, আমার ব্যাপারে শেষ কথা তারই। এই তিনটির কোনটি হিসেবে আমি আসলে কিতাবটিকে দেখি?",
+    "pointsEn": [
+      "When a verse asks something of me that I do not understand, do I assume the gap is in the verse or in my understanding?",
+      "Which of the Qur'an's commands have I quietly decided are not really for my good?",
+      "When I recite, do I hold the words up as something to be honoured, or hurry through them as something familiar?",
+      "If this Book is the judge, which of my habits would I be uneasy to bring before it today?",
+      "Which passage could I return to this week, again and again, until its parts come together in my mind?"
+    ],
+    "pointsBn": [
+      "কোনো আয়াত যখন আমার কাছে এমন কিছু চায় যা আমি বুঝি না, তখন কি ধরে নিই ঘাটতিটা আয়াতে, নাকি আমার বোঝায়?",
+      "কুরআনের কোন হুকুমগুলোকে আমি মনে মনে ঠিক করে রেখেছি যে আসলে আমার ভালোর জন্য নয়?",
+      "তিলাওয়াতের সময় কি শব্দগুলোকে সম্মানের জিনিস হিসেবে তুলে ধরি, নাকি চেনা জিনিস ভেবে তাড়াহুড়ো করে পার হয়ে যাই?",
+      "এই কিতাবই যদি ফয়সালাকারী হয়, তবে আমার কোন অভ্যাসগুলো আজ তার সামনে হাজির করতে আমার অস্বস্তি হবে?",
+      "এ সপ্তাহে কোন অংশে আমি বারবার ফিরে যেতে পারি, যতক্ষণ না তার অংশগুলো আমার মনে এক সুতোয় গেঁথে যায়?"
+    ],
+    "lessonEn": "Treat the Qur'an as a Book made firm and full of wisdom: where it and your opinion part ways, let it judge you rather than you judging it.",
+    "lessonBn": "কুরআনকে মজবুত ও হিকমাতে ভরা কিতাব হিসেবে গ্রহণ করুন। যেখানে তার সঙ্গে আপনার মত মেলে না, সেখানে আপনি তার বিচার করবেন না, সে-ই আপনার বিচার করুক।"
   }
 };
 
