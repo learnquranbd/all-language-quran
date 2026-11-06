@@ -1347,6 +1347,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "What the Companion Does",
+          "bn": "সঙ্গীটি আসলে কী করে"
+        },
+        "p": [
+          {
+            "en": "The preceding verse ends on a companion: whoever turns dim-eyed from the remembrance of the Most Merciful, We assign him a devil, and he is his companion. That verse has its own article. This article takes the next step and says what the companion does. Wa-innahum la-yasuddunahum 'ani s-sabil, wa-yahsabuna annahum muhtadun: and they turn them from the way, while they think that they are guided. Seven Arabic words, two clauses, and the second clause carries the sting.",
+            "bn": "আগের আয়াত থেমেছে এক সঙ্গীর কথায়: যে দয়াময়ের স্মরণ থেকে চোখ ফিরিয়ে নেয়, আমি তার জন্য এক শয়তান নিয়োজিত করি, আর সে হয় তার সঙ্গী। সে আয়াতের আলাদা প্রবন্ধ আছে। এ আয়াত পরের ধাপে যায়, জানায় সেই সঙ্গী কী করে। ওয়া ইন্নাহুম লাইয়াসুদ্দূনাহুম আনিস সাবীল, ওয়া ইয়াহসাবূনা আন্নাহুম মুহতাদূন: তারা তাদেরকে পথ থেকে ফিরিয়ে রাখে, অথচ তারা মনে করে যে তারা হিদায়াতের উপর আছে। আরবিতে সাতটি শব্দ, দুটি বাক্যাংশ। আসল আঘাতটা লুকিয়ে আছে দ্বিতীয়টিতে।"
+          },
+          {
+            "en": "The sentence opens with two markers of emphasis, inna and the la- fixed to the verb, so the turning is stated as a certainty. The second clause is joined by a plain wa-, which the translations render as while. The two halves belong together: the turning is happening, and the person being turned does not know it. The next verse, 43:38, shows where that ends, with a wish for the distance of the two easts between him and his companion. This article stays with the middle step.",
+            "bn": "বাক্যের শুরুতে জোর দেওয়ার দুটি চিহ্ন: ইন্না, আর ক্রিয়ার গায়ে লাগানো লা-। ফলে ফিরিয়ে রাখার কথাটা এসেছে নিশ্চিত সত্য হিসেবে। দ্বিতীয় অংশ জুড়েছে সাধারণ ওয়া দিয়ে, অনুবাদে যা দাঁড়ায় ‘অথচ’। দুই অংশ একসাথেই অর্থ দেয়। ফিরিয়ে রাখা চলছে, আর যাকে ফেরানো হচ্ছে সে টেরই পাচ্ছে না। পরের আয়াত ৪৩:৩৮ দেখায় এর শেষ কোথায়: সে চাইবে তার আর সঙ্গীর মাঝে দুই পূর্বের দূরত্ব থাকুক। এ প্রবন্ধ থাকবে মাঝের ধাপটিতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From He to They",
+          "bn": "একবচন থেকে বহুবচনে"
+        },
+        "p": [
+          {
+            "en": "A reader coming straight from 43:36 meets a small puzzle. There the one who turns away is singular, man ya'shu, whoever turns dim-eyed, and the devil is singular too, shaytanan, a devil. Here everything is plural: innahum, they, the suffix -hum, them, and yahsabuna, they think. The commentators notice the shift and explain it. They agree that the plural is about meaning rather than wording, but they do not all place the plurality in the same word.",
+            "bn": "৪৩:৩৬ পড়ে সরাসরি এখানে এলে পাঠক একটা ছোট ধাঁধায় পড়েন। সেখানে যে মুখ ফিরিয়ে নেয় সে একবচন: মান ইয়াশু, যে চোখ ফিরিয়ে নেয়। শয়তানও একবচন: শাইতানান, এক শয়তান। এখানে সবকিছু বহুবচন। ইন্নাহুম মানে তারা, শেষে জোড়া -হুম মানে তাদেরকে, আর ইয়াহসাবূনা মানে তারা মনে করে। তাফসীরকারেরা এই বদল খেয়াল করেছেন এবং ব্যাখ্যাও দিয়েছেন। সবাই একমত যে বহুবচনটা অর্থের দিক থেকে, শব্দের দিক থেকে নয়। তবে বহুত্বটা কোন শব্দে, তা নিয়ে সবাই এক জায়গায় দাঁড়াননি।"
+          },
+          {
+            "en": "Al-Qurtubi says the plural is used because man, whoever, in the words wa-man ya'shu carries a plural meaning. Al-Baghawi frames it a little more widely: the pronoun is gathered into the plural because the statement whoever turns dim-eyed from the remembrance of the Most Merciful, We assign him a devil, runs on a plural sense, even though its wording is singular. On either account the whoever of 43:36 was never one particular man. It stands for anyone at all who turns away.",
+            "bn": "কুরতুবী বলেন, বহুবচন এসেছে কারণ ওয়া মান ইয়াশু কথাটির মান, অর্থাৎ ‘যে’, অর্থের দিক থেকে বহুবচন বহন করে। বাগাভী কথাটা একটু বড় পরিসরে বলেন। তাঁর মতে সর্বনামকে বহুবচনে আনা হয়েছে, কারণ ‘যে দয়াময়ের স্মরণ থেকে চোখ ফিরিয়ে নেয়, আমি তার জন্য এক শয়তান নিয়োজিত করি’ পুরো বাক্যটাই বহুবচনের অর্থে চলে, যদিও শব্দগুলো একবচনের। দুই ব্যাখ্যাতেই ৪৩:৩৬-এর ‘যে’ কোনো নির্দিষ্ট একজন মানুষ নয়। যে-ই মুখ ফিরিয়ে নেয়, সে-ই এর আওতায়।"
+          },
+          {
+            "en": "At-Tabari puts the plurality on the other side of the pair. The verse, he notes, speaks of them in the form used for many after it had mentioned one, nuqayyid lahu shaytanan, and he explains why: the devil, even if the word is singular, is plural in meaning. So for al-Qurtubi the many are the people who turn away, and for at-Tabari the many are the devils. Both readings make the verse describe a pattern rather than a single case, and this article leaves the difference where they left it.",
+            "bn": "তাবারী বহুত্বটা রাখেন জোড়ার অন্য পাশে। তিনি লক্ষ করেন, আয়াত আগে একজনের কথা বলেছিল, নুকাইয়িদ লাহু শাইতানান, তারপর তাদের কথা বলেছে বহুর রূপে। কারণ হিসেবে বলেন, শয়তান শব্দটা একবচন হলেও অর্থে বহুবচন। তাহলে কুরতুবীর কাছে ‘অনেক’ হলো মুখ ফিরিয়ে নেওয়া মানুষেরা, আর তাবারীর কাছে ‘অনেক’ হলো শয়তানেরা। দুই পাঠেই আয়াত একটা ধারা বর্ণনা করে, একটিমাত্র ঘটনা নয়। এ প্রবন্ধ মতভেদটা যেখানে ছিল সেখানেই রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Barred From Which Way",
+          "bn": "কোন পথ থেকে বাধা"
+        },
+        "p": [
+          {
+            "en": "'Ani s-sabil: from the way. The verse leaves the way unnamed, and the commentators supply it from the passage. Al-Qurtubi: the devils bar them from the way of guidance, sabil al-huda. At-Tabari and the Muyassar: from the way of truth, sabil al-haqq. Al-Baghawi glosses the verb itself, la-yasuddunahum as la-yamna'unahum, they hold them back, and names the object as guidance. The wording differs a little; the sense does not. Each fills the bare word the way with what the surah has been arguing about.",
+            "bn": "আনিস সাবীল: পথ থেকে। কোন পথ, আয়াত তা বলেনি। তাফসীরকারেরা প্রসঙ্গ থেকে তা পূরণ করেছেন। কুরতুবী: শয়তানেরা তাদের হিদায়াতের পথ, সাবীলুল হুদা, থেকে বাধা দেয়। তাবারী ও মুয়াসসার: সত্যের পথ, সাবীলুল হক, থেকে। বাগাভী ক্রিয়াটিরই ব্যাখ্যা দেন। তাঁর মতে লাইয়াসুদ্দূনাহুম মানে লাইয়ামনাঊনাহুম, তারা তাদের আটকে রাখে, আর যা থেকে আটকায় তা হিদায়াত। শব্দে সামান্য ফারাক, অর্থে নয়। সূরা যে বিষয় নিয়ে কথা বলছিল, প্রত্যেকে সেটা দিয়েই ‘পথ’ শব্দটি ভরেছেন।"
+          },
+          {
+            "en": "Ibn Kathir's short Arabic comment adds a turn of phrase worth slowing down for. The one who feigned heedlessness of guidance, he says, is assigned devils who lead him astray, yudilluhu, and guide him, yahdihi, to the path of Hell. The verb of guidance is kept; only its destination changes. The Qur'an uses the same pairing in 37:23, fahduhum ila sirati l-jahim, guide them to the path of Hellfire. In this verse, being led is not the problem. Where one is led is the problem.",
+            "bn": "ইবন কাসীরের ছোট আরবি মন্তব্যে একটা শব্দপ্রয়োগ আছে, যেখানে একটু থামা দরকার। তিনি বলেন, যে হিদায়াত থেকে জেনেশুনে গাফেল সাজে, তার জন্য এমন শয়তান নিয়োজিত হয় যে তাকে পথভ্রষ্ট করে, ইউদিল্লুহু, আর তাকে পথ দেখায়, ইয়াহদীহি, জাহান্নামের পথে। পথ দেখানোর ক্রিয়াটাই রয়ে গেছে, বদলেছে শুধু গন্তব্য। কুরআন ৩৭:২৩ আয়াতেও একই জোড় ব্যবহার করেছে: ফাহদূহুম ইলা সিরাতিল জাহীম, তাদের জাহান্নামের পথ দেখাও। এ আয়াতে সমস্যা পথ দেখানো নিয়ে নয়। সমস্যা হলো কোথায় নিয়ে যাওয়া হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made Lovely, Made Heavy",
+          "bn": "ভুলকে সুন্দর, ঈমানকে ভারী"
+        },
+        "p": [
+          {
+            "en": "How does a devil turn someone from a road he could have seen? Not by force, in the commentators' telling. At-Tabari explains the barring in two moves: they make misguidance look fair to them, yuzayyinuna lahum ad-dalala, and they make faith in Allah and acting in obedience to Him hateful to them. The Muyassar repeats both halves almost word for word. The blocking works on taste before it works on footsteps. What is wrong is made to feel lovely, and what is right is made to feel like a burden.",
+            "bn": "যে পথ মানুষ দেখতে পেত, শয়তান তাকে সেখান থেকে ফেরায় কীভাবে? তাফসীরকারদের বর্ণনায় জোর খাটিয়ে নয়। তাবারী বাধা দেওয়ার ব্যাখ্যা দেন দুই ধাপে। তারা গোমরাহিকে তাদের চোখে সুন্দর করে দেখায়, ইউযাইয়িনূনা লাহুমুদ দালালা। আর আল্লাহর প্রতি ঈমান এবং তাঁর আনুগত্যের আমলকে তাদের কাছে অপছন্দের করে তোলে। মুয়াসসার প্রায় হুবহু এই দুটি কথাই বলে। অর্থাৎ বাধাটা পায়ের আগে কাজ করে রুচির উপর। ভুলকে লাগে মনোরম, আর ঠিককে লাগে বোঝা।"
+          },
+          {
+            "en": "Ibn Kathir, in his comment on the passage, sets 41:25 beside it, where Allah says of other people that He assigned them companions who made attractive to them what was before them and what was behind them. Ma'arif al-Qur'an, relaying al-Qurtubi on 43:36 to 43:38, sums up the result in one line: such a person commits vices but thinks that he is doing very well. In neither account does the person feel himself being moved. He walks the wrong road content, and the contentment is part of what the companion supplies.",
+            "bn": "ইবন কাসীর এই অংশের আলোচনায় পাশে রাখেন ৪১:২৫, যেখানে আল্লাহ অন্য এক দলের কথা বলেন: তিনি তাদের জন্য এমন সঙ্গী জুটিয়ে দিয়েছিলেন, যারা তাদের সামনের ও পেছনের সবকিছু তাদের চোখে আকর্ষণীয় করে তুলেছিল। মাআরিফুল কুরআন ৪৩:৩৬ থেকে ৪৩:৩৮ আয়াতের আলোচনায় কুরতুবীর বরাতে ফলাফলটা একটি বাক্যে বলে: এমন লোক গুনাহ করে, অথচ ভাবে খুব ভালো কাজ করছে। কোনো বর্ণনাতেই মানুষটি টের পায় না যে তাকে সরানো হচ্ছে। সে ভুল পথে হাঁটে নিশ্চিন্ত মনে। আর এই নিশ্চিন্ত ভাবটাও সঙ্গীরই জোগান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sure of Themselves, or of Them",
+          "bn": "নিজের উপর ভরসা, না পথপ্রদর্শকের উপর"
+        },
+        "p": [
+          {
+            "en": "Wa-yahsabuna annahum muhtadun: and they think that they are guided. Two plurals now stand side by side, the devils and the people they turn, so the commentators must decide who does the thinking and about whom. Most read it as follows. Al-Baghawi: the disbelievers among the children of Adam think that they are on guidance. At-Tabari: those who associate partners with Allah think, because the devils have made their misguidance look fair to them, that they are on the truth and on what is right.",
+            "bn": "ওয়া ইয়াহসাবূনা আন্নাহুম মুহতাদূন: আর তারা মনে করে যে তারা হিদায়াতের উপর আছে। এখানে দুটি বহুবচন পাশাপাশি দাঁড়িয়ে: শয়তানেরা, আর যাদের তারা ফেরায়। তাই তাফসীরকারদের ঠিক করতে হয়, কে মনে করে আর কার সম্পর্কে। বেশিরভাগ একভাবে পড়েছেন। বাগাভী বলেন, আদম সন্তানদের মধ্যে যারা কাফির, তারা ভাবে তারা হিদায়াতের উপর। তাবারী বলেন, যারা আল্লাহর সাথে শরীক করে, শয়তানেরা তাদের গোমরাহিকে সুন্দর করে দেখিয়েছে বলে তারা ভাবে, তারা সত্য ও সঠিকের উপর আছে।"
+          },
+          {
+            "en": "Al-Qurtubi gives that reading first: the disbelievers think that they themselves are guided. Then he adds a second, introduced with qila, it is said: the disbelievers think that the devils are guided, and so they obey them. On the first reading the false confidence is about oneself. On the second it is about one's guides. The follower trusts the companion because the companion seems to know the road, and the obedience grows out of that trust. Al-Qurtubi records both and does not settle between them.",
+            "bn": "কুরতুবী প্রথমে এই পাঠটিই দেন: কাফিররা ভাবে তারা নিজেরা হিদায়াতপ্রাপ্ত। তারপর ‘কীলা’, অর্থাৎ ‘বলা হয়েছে’ বলে দ্বিতীয় একটি পাঠ আনেন। সেখানে কাফিররা ভাবে শয়তানেরাই হিদায়াতের উপর, তাই তারা তাদের কথা মানে। প্রথম পাঠে ভুল আস্থাটা নিজের সম্পর্কে। দ্বিতীয় পাঠে তা পথপ্রদর্শকের সম্পর্কে। অনুসারী সঙ্গীর উপর ভরসা রাখে, কারণ সঙ্গীকে মনে হয় পথ চেনে। আর সেই ভরসা থেকেই জন্মায় আনুগত্য। কুরতুবী দুটিই উল্লেখ করেন, কোনোটির পক্ষে রায় দেন না।"
+          },
+          {
+            "en": "The two readings also meet. Whether a man thinks he himself is rightly guided or thinks his guide is, he has stopped checking. The Muyassar ties the thought to its cause in the same way as at-Tabari: those who turn away think they are on truth and guidance because of the devils making what they are on look good to them. The confidence in the verse does not arise on its own. It is produced, and it is produced by the same companion who is doing the turning.",
+            "bn": "দুই পাঠ এক জায়গায় এসে মেলেও। কেউ নিজেকে সঠিক পথে ভাবুক বা নিজের পথপ্রদর্শককে, দুই অবস্থাতেই সে যাচাই করা ছেড়ে দিয়েছে। মুয়াসসার তাবারীর মতোই এই ভাবনাকে তার কারণের সাথে বেঁধে দেয়। যারা মুখ ফিরিয়ে নেয়, তারা নিজেদের সত্য ও হিদায়াতের উপর ভাবে, কারণ শয়তানেরা তাদের অবস্থাকে তাদের চোখে ভালো করে দেখিয়েছে। আয়াতের এই আস্থা আপনা থেকে জন্মায় না। একে তৈরি করা হয়। আর তৈরি করে সেই সঙ্গীই, যে পথ থেকে ফেরাচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Supposing Is Not Seeing",
+          "bn": "ধারণা আর দৃষ্টি এক নয়"
+        },
+        "p": [
+          {
+            "en": "The verb is hasiba, and at-Tabari glosses it with zanna, to suppose. Then he adds a sentence that changes how the whole clause reads. Allah, he says, is telling us about them that in the shirk they are on, they stand upon doubt and without insight, 'ala shakk wa-'ala ghayri basira. Their certainty is a supposing. From the inside it feels like knowledge, but the verse names it with hasiba, which at-Tabari renders as supposing, and he reads the state beneath it as doubt.",
+            "bn": "ক্রিয়াটি হাসিবা। তাবারী এর ব্যাখ্যা করেন যান্না দিয়ে, অর্থাৎ ধারণা করা। তারপর তিনি এমন একটি বাক্য যোগ করেন, যাতে পুরো অংশটার পাঠই বদলে যায়। তিনি বলেন, আল্লাহ তাদের সম্পর্কে জানাচ্ছেন যে তারা যে শিরকের উপর আছে, তাতে তারা আছে সন্দেহের উপর, অন্তর্দৃষ্টি ছাড়া: আলা শাক্কিন ওয়া আলা গাইরি বাসীরা। তাদের নিশ্চয়তা আসলে একটা ধারণা। ভেতর থেকে একে জ্ঞানের মতো লাগে। কিন্তু আয়াত একে বলেছে হাসিবা, তাবারী যার অর্থ করেছেন ধারণা, আর এর নিচের অবস্থাটাকে তিনি পড়েছেন সন্দেহ হিসেবে।"
+          },
+          {
+            "en": "Ibn Kathir describes the person meant here as the man who feigned heedlessness of guidance, taghafala 'ani l-huda, and his English abridgement speaks of someone who wilfully ignores and turns away. Set beside at-Tabari's sentence, the picture is uncomfortable. A person can look away from the reminder by choice and later feel guided, the moment of looking away long out of mind. Whether such a person still bears the blame is taken up in the article on 43:36. This verse simply shows the feeling at work.",
+            "bn": "ইবন কাসীর এখানে যার কথা বলা হচ্ছে তাকে বর্ণনা করেন এমন মানুষ হিসেবে, যে হিদায়াত থেকে গাফেল সেজেছে: তাগাফালা আনিল হুদা। তাঁর তাফসীরের ইংরেজি সংক্ষেপে আছে, সে জেনেশুনে উপেক্ষা করে আর মুখ ফিরিয়ে নেয়। তাবারীর বাক্যের পাশে রাখলে ছবিটা অস্বস্তিকর হয়ে ওঠে। মানুষ ইচ্ছে করে উপদেশ থেকে চোখ সরাতে পারে, তারপর একসময় নিজেকে হিদায়াতপ্রাপ্ত মনে করতে পারে, চোখ সরানোর মুহূর্তটা তখন আর মনেই নেই। এমন মানুষের দায় থাকে কি না, সে আলোচনা আছে ৪৩:৩৬ আয়াতের প্রবন্ধে। এ আয়াত শুধু দেখায় অনুভূতিটা কীভাবে কাজ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Clause in Al-A'raf",
+          "bn": "সূরা আরাফে একই বাক্যাংশ"
+        },
+        "p": [
+          {
+            "en": "The closing words of this verse occur, word for word, at the end of 7:30: wa-yahsabuna annahum muhtadun. There Allah says that one group He guided and another deserved error, because they had taken the devils as allies instead of Allah, while they thought that they were guided. The two verses look at the same bond from two sides. In 43:37 the devils bar the way. In 7:30 people choose the devils as allies. From either side, the people end in the same confidence.",
+            "bn": "এ আয়াতের শেষ শব্দগুলো হুবহু এসেছে ৭:৩০ আয়াতের শেষে: ওয়া ইয়াহসাবূনা আন্নাহুম মুহতাদূন। সেখানে আল্লাহ বলেন, একদলকে তিনি হিদায়াত দিয়েছেন, আর অন্য দলের উপর গোমরাহি সাব্যস্ত হয়েছে। কারণ তারা আল্লাহকে বাদ দিয়ে শয়তানদের অভিভাবক বানিয়েছিল, আর ভাবছিল তারা হিদায়াতের উপর আছে। দুই আয়াত একই সম্পর্ককে দেখে দুই দিক থেকে। ৪৩:৩৭-এ শয়তানেরা পথ আটকায়। ৭:৩০-এ মানুষ নিজেই শয়তানদের অভিভাবক বানায়। যেদিক থেকেই দেখা হোক, মানুষগুলো শেষে পৌঁছায় একই আস্থায়।"
+          },
+          {
+            "en": "18:103 and 18:104 take the picture beyond devils. Say: shall We tell you who are the greatest losers in their deeds? Those whose effort is lost in the life of this world while they think, yahsabuna again, that they are doing good work. The verb is the same; what is supposed is no longer guidance but excellence. The tafsir text fetched for this verse does not cite either passage. They are set here because the Qur'an's own wording links them, and the reader can weigh the link for himself.",
+            "bn": "১৮:১০৩ ও ১৮:১০৪ ছবিটাকে শয়তানের বাইরেও নিয়ে যায়। বলো, আমি কি তোমাদের জানাব, আমলের দিক থেকে সবচেয়ে ক্ষতিগ্রস্ত কারা? তারা, দুনিয়ার জীবনে যাদের চেষ্টা বৃথা গেছে, অথচ তারা মনে করে, আবারও সেই ইয়াহসাবূনা, যে তারা ভালো কাজই করছে। ক্রিয়া একই। শুধু ধারণার বিষয়টা বদলেছে: এখানে হিদায়াত নয়, উৎকৃষ্ট কাজ। এ আয়াতের জন্য যে তাফসীর পড়া হয়েছে, তাতে এ দুটির কোনোটিরই উল্লেখ নেই। এগুলো এখানে রাখা হলো, কারণ কুরআনের নিজের শব্দই এদের জুড়ে দেয়। যোগসূত্রটা পাঠক নিজেই বিচার করে দেখতে পারেন।"
+          },
+          {
+            "en": "As-Sa'di, on the verse that follows, points instead to 25:27 to 25:29, where the wrongdoer bites his hands and wishes he had never taken a certain someone as a friend, who led him astray from the reminder after it had come to him. None of the commentaries consulted here, at-Tabari, al-Qurtubi, al-Baghawi, Ibn Kathir, as-Sa'di, the Muyassar and Ma'arif al-Qur'an, attaches a hadith to this verse or reports a cause of revelation for it, so this article cites neither.",
+            "bn": "সা'দী পরের আয়াতের আলোচনায় বরং ইঙ্গিত করেন ২৫:২৭ থেকে ২৫:২৯ আয়াতের দিকে। সেখানে জালিম নিজের হাত কামড়ায় আর আফসোস করে, হায়, অমুককে যদি বন্ধু না বানাতাম! উপদেশ তার কাছে আসার পরও সে-ই তাকে তা থেকে বিভ্রান্ত করেছিল। এখানে যেসব তাফসীর দেখা হয়েছে, অর্থাৎ তাবারী, কুরতুবী, বাগাভী, ইবন কাসীর, সা'দী, মুয়াসসার ও মাআরিফুল কুরআন, তার কোনোটিই এ আয়াতের সাথে কোনো হাদীস জোড়েনি, কোনো শানে নুযূলও বর্ণনা করেনি। তাই এ প্রবন্ধে দুটির কোনোটিই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Checked Against What",
+          "bn": "কিসের সাথে মিলিয়ে দেখব"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: people who turned from the reminder, a companion who bars them, and a confidence that does not match their road. The commentators name those meant as the disbelievers and those who associate partners with Allah. The verse licenses nothing against any living person or community. No reader may point at a neighbour, a rival or a group and declare them the deceived of 43:37, or their teachers devils. That judgement is not handed to the reader, here or anywhere in the passage.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, ঠিক সেটুকুই করে: কিছু মানুষ উপদেশ থেকে মুখ ফিরিয়েছে, এক সঙ্গী তাদের পথ আটকায়, আর তাদের আস্থার সাথে তাদের পথের মিল নেই। তাফসীরকারেরা এদের চিহ্নিত করেছেন কাফির ও মুশরিক হিসেবে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কোনো পাঠক প্রতিবেশী, প্রতিপক্ষ বা কোনো দলের দিকে আঙুল তুলে বলতে পারেন না যে এরাই ৪৩:৩৭-এর প্রতারিত লোক, কিংবা এদের শিক্ষকেরা শয়তান। এই রায় পাঠকের হাতে দেওয়া হয়নি, এখানেও না, গোটা অংশের কোথাও না।"
+          },
+          {
+            "en": "The verse's use is inward, and it is a hard use, because the feeling it describes is the very feeling that passes for safety. If thinking oneself guided were proof, the people in this verse would be guided. So the question cannot be how sure I feel. It has to be what I am checking against. The passage itself points to the answer: the trouble began with turning dim-eyed from the remembrance of the Most Merciful, and Ma'arif al-Qur'an identifies that remembrance as the Qur'an and revelation.",
+            "bn": "আয়াতের কাজ ভেতরের দিকে, আর কাজটা কঠিন। কারণ যে অনুভূতির কথা এখানে, সেটাই সবচেয়ে বেশি নিরাপদ মনে হয়। নিজেকে হিদায়াতপ্রাপ্ত ভাবাই যদি প্রমাণ হতো, তবে এ আয়াতের মানুষগুলোও হিদায়াতপ্রাপ্ত হতো। তাই প্রশ্নটা হতে পারে না, আমি কতটা নিশ্চিত। প্রশ্ন হলো, আমি কিসের সাথে মিলিয়ে দেখছি। উত্তরের দিকে আয়াতের প্রসঙ্গই ইঙ্গিত করে। গোলমালের শুরু দয়াময়ের স্মরণ থেকে চোখ ফিরিয়ে নেওয়ায়। আর মাআরিফুল কুরআন সেই স্মরণকে চিহ্নিত করেছে কুরআন ও ওহী হিসেবে।"
+          },
+          {
+            "en": "At-Tabari's two phrases give a test anyone can put to himself. Is what I hold held with insight, basira, or only supposed? And has obedience begun to feel heavy while its opposite feels light, the very pairing he says the devils work by? Neither question is answered by a feeling of being in the right. Both are answered by returning to the reminder and letting it speak against me as readily as for me. A reader who uses the verse that way has kept it where it belongs.",
+            "bn": "তাবারীর দুটি কথা থেকে এমন পরীক্ষা পাওয়া যায়, যা যে কেউ নিজের উপর চালাতে পারে। আমি যা আঁকড়ে আছি, তা কি অন্তর্দৃষ্টি, বাসীরা, দিয়ে ধরা, নাকি শুধু ধারণা? আর আনুগত্য কি ভারী লাগতে শুরু করেছে, আর তার উল্টোটা হালকা? তাবারী তো বলেন, শয়তানেরা ঠিক এই জোড় দিয়েই কাজ করে। নিজেকে সঠিক মনে হওয়া দিয়ে এ দুই প্রশ্নের উত্তর মেলে না। উত্তর মেলে উপদেশের কাছে ফিরে গিয়ে, তাকে আমার পক্ষে যতটা, বিপক্ষেও ততটা বলতে দিয়ে। যে পাঠক আয়াতটি এভাবে কাজে লাগান, তিনি একে ঠিক জায়গাতেই রেখেছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "43:47": {
     "sections": [
       {

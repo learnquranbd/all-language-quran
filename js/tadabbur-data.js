@@ -26769,6 +26769,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not speak about the unseen without knowledge from Allah: every claim is a testimony that is recorded, and its speaker will be asked for its proof.",
     "lessonBn": "আল্লাহর দেওয়া জ্ঞান ছাড়া গায়েবের ব্যাপারে কথা বলবেন না। প্রতিটি দাবিই এক সাক্ষ্য, যা লিখে রাখা হয়, আর যে বলে তাকে এর প্রমাণ জিজ্ঞেস করা হবে।"
+  },
+  "43:37": {
+    "reflectionEn": "The verse before this one gives a companion to whoever turns dim-eyed from the remembrance of the Most Merciful. This verse says what the companion does, and the worst of it is quiet. They turn people from the way, and those people think they are guided. No one in the verse feels lost. The wrong road looks right because it has been made to look right. So the verse is no lens for spotting others who have gone astray. It is a question to put to myself. If feeling sure proves nothing, what do I measure my road against? When did I last let the reminder tell me I was wrong, and not only that I was right?",
+    "reflectionBn": "আগের আয়াত বলেছে, যে দয়াময়ের স্মরণ থেকে চোখ ফিরিয়ে নেয়, তার জন্য একজন সঙ্গী নিয়োজিত হয়। এ আয়াত জানায় সেই সঙ্গী কী করে। আর তার সবচেয়ে খারাপ কাজটা হয় নিঃশব্দে। তারা মানুষকে পথ থেকে সরিয়ে দেয়, অথচ সেই মানুষেরা ভাবে তারা হিদায়াতের উপরই আছে। আয়াতের কেউ নিজেকে হারানো মনে করে না। ভুল পথ ঠিক দেখায়, কারণ তাকে ঠিক দেখানো হয়েছে। তাই অন্য কে পথ হারিয়েছে, তা খোঁজার চশমা এ আয়াত নয়। এ প্রশ্ন আমার নিজের জন্য। নিশ্চিত বোধ করা যদি কিছুই প্রমাণ না করে, তবে আমার পথ আমি কিসের সাথে মিলিয়ে দেখি? শেষ কবে আমি উপদেশকে সুযোগ দিয়েছি আমাকে বলতে যে আমি ভুল, শুধু এটুকু নয় যে আমি ঠিক?",
+    "pointsEn": [
+      "Which of my settled habits have I never once measured against the Qur'an, only against how right it feels?",
+      "When a reminder unsettles me, do I stay with it, or go looking for someone who will tell me I am fine?",
+      "Who are the voices closest to me, and do they make what is wrong look easy and what is right look heavy?",
+      "Is there anything I defend more firmly the less I have actually looked into it?",
+      "Have I ever used a verse like this against someone else, calling them deceived, when its question was meant for me?"
+    ],
+    "pointsBn": [
+      "আমার কোন অভ্যাসগুলো আমি একবারও কুরআনের সাথে মিলিয়ে দেখিনি, শুধু দেখেছি মনে কতটা ঠিক লাগে?",
+      "কোনো উপদেশ মনে অস্বস্তি জাগালে আমি কি তার সামনে থামি? নাকি এমন কাউকে খুঁজতে বের হই, যে বলবে আমি ভালোই আছি?",
+      "আমার সবচেয়ে কাছের কণ্ঠগুলো কারা? তারা কি ভুলকে সহজ আর ঠিককে ভারী করে দেখায়?",
+      "এমন কিছু কি আছে, যা নিয়ে যত কম খোঁজ নিয়েছি, তত জোর দিয়ে তার পক্ষে লড়ি?",
+      "এমন কোনো আয়াত কি আমি কখনো অন্যের বিরুদ্ধে ব্যবহার করেছি, তাকে প্রতারিত বলে, অথচ আয়াতের প্রশ্নটা ছিল আমার নিজের জন্য?"
+    ],
+    "lessonEn": "Feeling guided is not proof of guidance: keep measuring your own road against Allah's reminder, and use this verse to examine yourself, never to brand others.",
+    "lessonBn": "হিদায়াতের উপর আছি, এই অনুভূতি হিদায়াতের প্রমাণ নয়। নিজের পথ বারবার আল্লাহর উপদেশের সাথে মিলিয়ে দেখুন, আর এ আয়াত দিয়ে নিজেকে যাচাই করুন, অন্যের গায়ে তকমা লাগাতে নয়।"
   }
 };
 
