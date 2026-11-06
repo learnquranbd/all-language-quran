@@ -4299,6 +4299,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:125": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words of Credential",
+          "bn": "চার শব্দের পরিচয়পত্র"
+        },
+        "p": [
+          {
+            "en": "The surah has already named the charge: ʿĀd denied the messengers (26:123). Then it goes back to the scene itself. Their brother Hūd (AS) asks them, will you not fear Allah? (26:124), and before he asks anything of them he tells them who he is. Innī lakum rasūlun amīn: indeed, I am to you a trustworthy messenger. Four Arabic words carry the whole claim. Innī makes it emphatic, lakum names to whom it is made, rasūl says that he has been sent, and amīn says what can be expected of him as a messenger.",
+            "bn": "অভিযোগটা সূরা আগেই জানিয়ে দিয়েছে: আদ জাতি রসূলদের মিথ্যাবাদী বলেছিল (২৬:১২৩)। এরপর সূরা ফিরে যায় ঘটনার মুহূর্তে। তাদের ভাই হূদ (আঃ) জিজ্ঞেস করেন, তোমরা কি আল্লাহকে ভয় করবে না? (২৬:১২৪) তাদের কাছে কিছু চাওয়ার আগে তিনি জানিয়ে দেন তিনি কে। ইন্নী লাকুম রসূলুন আমীন: নিশ্চয় আমি তোমাদের জন্য এক বিশ্বস্ত রসূল। পুরো দাবিটা ধরে আছে আরবি চারটি শব্দ। ইন্নী কথাটাকে জোরালো করে, লাকুম বলে কাদের উদ্দেশে বলা, রসূল বলে তাঁকে পাঠানো হয়েছে, আর আমীন বলে প্রেরিত হিসেবে তাঁর কাছে কী আশা করা যায়।"
+          },
+          {
+            "en": "Ibn Kathir sets the scene in one line. Allah sent Hūd to them, a man from among them, as a messenger, a bringer of good news and a warner. He called them to Allah alone and warned them of His vengeance and punishment for those who defied the call. The abridged English Ibn Kathir, on the group from 26:123 to 26:132, describes who heard him: a people physically strong, very tall and violent, given wealth, gardens, rivers, sons and crops, who with all of that worshipped others besides Allah. To such a people Hūd brings no force at all. He brings a claim about himself.",
+            "bn": "ইবন কাসীর এক বাক্যে প্রেক্ষাপটটা এঁকে দেন। আল্লাহ তাদের কাছে হূদকে পাঠালেন, তাদেরই একজন মানুষকে, রসূল করে, সুসংবাদদাতা ও সতর্ককারী করে। তিনি তাদের ডাকলেন এক আল্লাহর দিকে, আর আল্লাহর বিরোধিতা করলে তাঁর প্রতিশোধ ও আযাবের ভয় দেখালেন। ২৬:১২৩ থেকে ২৬:১৩২ পর্যন্ত আয়াতগুচ্ছের সংক্ষিপ্ত ইংরেজি ইবন কাসীর জানায়, শ্রোতারা কেমন ছিল। শরীরে শক্তিশালী, খুব লম্বা, হিংস্র। ধন-সম্পদ, বাগান, নদী, সন্তান আর ফসল সবই তারা পেয়েছিল। এত কিছুর পরও তারা আল্লাহর সঙ্গে অন্যদের ইবাদত করত। এমন জাতির সামনে হূদ (আঃ) কোনো শক্তি নিয়ে আসেননি। এনেছেন নিজের সম্পর্কে একটি দাবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent by Someone Else",
+          "bn": "পাঠিয়েছেন অন্য কেউ"
+        },
+        "p": [
+          {
+            "en": "A rasūl is, by the word itself, a person who has been sent, and at-Tabari reads the noun together with its sender. Innī lakum rasūl, he glosses, means a messenger from my Lord, who commands you to obey Him and warns you, for your disbelief, of His might. The first thing Hūd says about himself, then, is not really about himself. He did not appoint himself, and the message is not his invention. On at-Tabari's reading, even the obedience he is about to ask for is, at its root, obedience to his Sender.",
+            "bn": "রসূল শব্দের মানেই যাঁকে পাঠানো হয়েছে, আর তাবারী শব্দটি পড়েন তার প্রেরকসহ। তাঁর ব্যাখ্যায় ইন্নী লাকুম রসূল মানে: আমি আমার রবের পক্ষ থেকে এক রসূল। তিনি তোমাদের তাঁর আনুগত্যের আদেশ দেন, আর কুফরির কারণে তাঁর পাকড়াওয়ের ভয় দেখান। অর্থাৎ নিজের সম্পর্কে হূদ (আঃ) প্রথম যে কথা বলেন, তা আসলে নিজের সম্পর্কে নয়। তিনি নিজে নিজেকে নিয়োগ দেননি, বার্তাটাও তাঁর বানানো নয়। তাবারীর পাঠে, তিনি একটু পরে যে আনুগত্য চাইবেন, তার মূলেও আছে প্রেরকের আনুগত্য।"
+          },
+          {
+            "en": "This matters for how the people were meant to hear him. A man who speaks in his own name can be argued with as an equal, his opinion set against theirs. A man who says he was sent asks a different question of his hearers: not whether they like what he says, but whether the Lord he speaks for is real. Hūd does not ask ʿĀd to admire him. He asks them to look past him to his Lord, and he describes himself in terms that only make sense if that Lord exists.",
+            "bn": "মানুষ তাঁর কথা কীভাবে শুনবে, তার সঙ্গে এর সম্পর্ক আছে। যে নিজের নামে কথা বলে, তার সঙ্গে সমানে সমানে তর্ক চলে। তার মতের বিপরীতে নিজের মত দাঁড় করানো যায়। কিন্তু যে বলে আমাকে পাঠানো হয়েছে, সে শ্রোতাদের সামনে অন্য এক প্রশ্ন রাখে। প্রশ্নটা এই নয় যে তার কথা তাদের পছন্দ হলো কি না। প্রশ্ন হলো, যাঁর পক্ষ থেকে সে কথা বলছে, তিনি সত্যিই আছেন কি না। হূদ (আঃ) আদ জাতিকে নিজের ভক্ত হতে বলেননি। তিনি চেয়েছেন তারা তাঁকে ছাড়িয়ে তাঁর রবের দিকে তাকাক। নিজের যে পরিচয় তিনি দেন, সে রব না থাকলে তার কোনো অর্থই থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning Sent in Care",
+          "bn": "সতর্কবাণীতে মমতা"
+        },
+        "p": [
+          {
+            "en": "The word lakum, to you, gets its own weight in the commentaries. The Muyassar paraphrases: I am sent to you for your guidance and your direction. As-Saʿdī goes further and names the motive behind the sending: Allah sent me to you as a mercy to you and out of care for you. Set beside at-Tabari's gloss, which has the messenger warn them of their Lord's might, the two readings do not pull apart. Ibn Kathir's word for Hūd holds both at once, a bringer of good news and a warner. The warning is itself part of the care.",
+            "bn": "লাকুম, তোমাদের জন্য, শব্দটিও তাফসীরে আলাদা গুরুত্ব পায়। মুয়াসসারের ভাষায়: আমাকে তোমাদের কাছে পাঠানো হয়েছে তোমাদের হেদায়াত ও সঠিক পথ দেখানোর জন্য। সা'দী আরও এগিয়ে পাঠানোর পেছনের কারণটাই বলে দেন: আল্লাহ আমাকে তোমাদের কাছে পাঠিয়েছেন তোমাদের প্রতি রহমত হিসেবে, তোমাদের প্রতি যত্ন থেকে। তাবারীর ব্যাখ্যায় রসূল তাদের রবের পাকড়াওয়ের ভয় দেখান। দুটি পাঠ পাশাপাশি রাখলে পরস্পরবিরোধী মনে হয় না। ইবন কাসীর হূদ (আঃ)-কে একসঙ্গে বলেছেন সুসংবাদদাতা ও সতর্ককারী। সতর্ক করাটাও যত্নেরই অংশ।"
+          },
+          {
+            "en": "The next verse draws the consequence with a single letter, fa: so fear Allah and obey me (26:126). The Muyassar, whose paraphrase runs across 26:124 to 26:127, words that command carefully: fear Allah's punishment and obey me in what I have brought you from Allah. The obedience is bounded by the message. Hūd does not claim the people's loyalty for his own sake; he claims it for what he carries. That is why the word that follows rasūl in our verse is the one that matters most: if the message is what must be obeyed, everything depends on whether the carrier can be trusted with it.",
+            "bn": "পরের আয়াত একটিমাত্র হরফ ফা দিয়ে ফলাফল টানে: সুতরাং আল্লাহকে ভয় করো এবং আমার আনুগত্য করো (২৬:১২৬)। মুয়াসসার ২৬:১২৪ থেকে ২৬:১২৭ পর্যন্ত একসঙ্গে ব্যাখ্যা করেছে, আর এ আদেশটা সাজিয়েছে মেপে মেপে: আল্লাহর শাস্তিকে ভয় করো, আর আল্লাহর কাছ থেকে যা নিয়ে এসেছি তাতে আমার আনুগত্য করো। আনুগত্যের সীমা তাহলে বার্তা পর্যন্ত। হূদ (আঃ) নিজের জন্য মানুষের আনুগত্য চান না, চান তাঁর বয়ে আনা বার্তার জন্য। এ কারণেই আমাদের আয়াতে রসূলের পরের শব্দটিই সবচেয়ে গুরুত্বপূর্ণ। মানতে হবে যদি বার্তাকেই, তবে সব নির্ভর করে বাহককে সে বার্তার ব্যাপারে ভরসা করা যায় কি না তার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Lost in Delivery",
+          "bn": "পথে কিছুই হারায় না"
+        },
+        "p": [
+          {
+            "en": "So what does amīn mean for a messenger? The first reading, the one most of the commentators here give, ties the trust to the message. At-Tabari: amīn over His revelation and His message. Al-Baghawi says the same in two words: ʿalā al-risāla, over the message. Al-Qurtubi's own gloss is ṣādiq, truthful in what I convey to you from Allah the Exalted. The Muyassar makes it a keeper's word, ḥafīẓ: guarding Allah's message, conveying it to you as my Lord commanded me. On this reading amīn is a promise about transmission.",
+            "bn": "তাহলে একজন রসূলের বেলায় আমীন মানে কী? প্রথম পাঠ, যা বেশির ভাগ তাফসীরকার দেন, আমানতকে জুড়ে দেয় বার্তার সঙ্গে। তাবারী বলেন: তাঁর ওহি ও রিসালাতের ব্যাপারে আমানতদার। বাগাভী দুই শব্দে একই কথা বলেন: আলার রিসালাহ, বার্তার ব্যাপারে। কুরতুবীর নিজের ব্যাখ্যা সাদিক: আল্লাহর পক্ষ থেকে তোমাদের কাছে যা পৌঁছাই, তাতে আমি সত্যবাদী। মুয়াসসার শব্দটাকে করে তোলে পাহারাদারের শব্দ, হাফীয: আল্লাহর বার্তার হেফাজতকারী, রব যেভাবে আদেশ করেছেন ঠিক সেভাবেই তা তোমাদের কাছে পৌঁছাই। এ পাঠে আমীন হলো বার্তা পৌঁছানোর প্রতিশ্রুতি।"
+          },
+          {
+            "en": "The Muyassar's last clause sets the measure: as my Lord commanded me. The standard for the delivery is the sender's command, not the hearers' taste. A trustworthy messenger does not trim the warning because the audience is proud and strong, nor add to it to sound more impressive. Hūd's own words to ʿĀd in another surah put the two ideas side by side: I convey to you the messages of my Lord, and I am to you a trustworthy adviser (7:68). There the same word, amīn, stands right beside the conveying.",
+            "bn": "মুয়াসসারের শেষ কথাটাই মাপকাঠি ঠিক করে দেয়: রব যেভাবে আদেশ করেছেন। পৌঁছানোর মান ঠিক হয় প্রেরকের আদেশে, শ্রোতার রুচিতে নয়। বিশ্বস্ত রসূল শ্রোতারা অহংকারী ও শক্তিশালী বলে সতর্কবাণী ছেঁটে ফেলেন না। নিজেকে বড় দেখাতে তাতে কিছু জুড়েও দেন না। আরেক সূরায় আদ জাতির প্রতি হূদ (আঃ)-এর নিজের কথায় দুটি ভাবনা পাশাপাশি এসেছে: আমি তোমাদের কাছে আমার রবের বার্তাগুলো পৌঁছাই, আর আমি তোমাদের জন্য এক বিশ্বস্ত হিতাকাঙ্ক্ষী (৭:৬৮)। সেখানেও আমীন শব্দটি দাঁড়িয়ে আছে বার্তা পৌঁছানোর ঠিক পাশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Trusted Before the Message",
+          "bn": "নবুওয়াতের আগেই বিশ্বস্ত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then adds a second reading, introduced with wa-qīla, and it was said: amīn among you, for they had known his trustworthiness and his truthfulness before, as with Muhammad ﷺ among Quraysh. Al-Baghawi, after his own gloss, quotes al-Kalbī to the same effect: trustworthy among you before the message, so how do you accuse me today? On this reading the word looks backward. Hūd is not announcing a new quality; he is calling on a record his people already hold, and asking them to be consistent with their own experience of him.",
+            "bn": "এরপর কুরতুবী দ্বিতীয় একটি পাঠ আনেন, শুরু করেন ওয়া কীলা দিয়ে, অর্থাৎ বলা হয়েছে: তোমাদের মাঝে আমানতদার। কারণ তারা আগে থেকেই তাঁর আমানতদারি ও সত্যবাদিতা জানত, যেমন কুরাইশের মাঝে মুহাম্মাদ ﷺ। বাগাভী নিজের ব্যাখ্যার পর কালবীর একই রকম কথা উদ্ধৃত করেন: রিসালাতের আগে আমি তোমাদের মাঝে আমানতদার ছিলাম, তাহলে আজ কেন আমাকে দোষারোপ করছ? এ পাঠে শব্দটা তাকায় পেছনের দিকে। হূদ (আঃ) নতুন কোনো গুণের ঘোষণা দিচ্ছেন না। তাঁর সম্পর্কে জাতির হাতে যে হিসাব আগে থেকেই আছে, সেটাই তিনি সামনে আনছেন। তাদের বলছেন, নিজেদের অভিজ্ঞতার সঙ্গে সংগত থাকো।"
+          },
+          {
+            "en": "As-Saʿdī's short gloss leans the same way without choosing a label. After the sending as mercy, he has Hūd say: and I am trustworthy, you know that of me. Taʿrifūna dhālika minnī. The appeal is to their own knowledge. They are not asked to take his honesty on faith; they are reminded that they have already tested it. At-Tabari, for his part, gives only the first reading, the trust over revelation, and does not mention the second. The texts differ in emphasis, and this article reports them as they stand.",
+            "bn": "সা'দীর ছোট ব্যাখ্যাও একই দিকে ঝোঁকে, যদিও তিনি কোনো পাঠের নাম নেন না। রহমত হিসেবে পাঠানোর কথা বলার পর তিনি হূদ (আঃ)-এর মুখে বসান: আর আমি আমানতদার, তোমরা তা আমার কাছ থেকে জানো। তা'রিফূনা যালিকা মিন্নী। আবেদনটা তাদের নিজেদের জানার কাছে। তাঁর সততা অন্ধভাবে মেনে নিতে বলা হচ্ছে না, মনে করিয়ে দেওয়া হচ্ছে যে সে সততা তারা আগেই যাচাই করে দেখেছে। অন্যদিকে তাবারী শুধু প্রথম পাঠটি দেন, ওহির আমানত। দ্বিতীয়টির উল্লেখ করেন না। ব্যাখ্যাগুলোর জোর ভিন্ন জায়গায়, আর এ লেখা সেগুলো যেমন আছে তেমনই তুলে ধরছে।"
+          },
+          {
+            "en": "Neither reading is refuted in the texts fetched for this verse; al-Qurtubi and al-Baghawi each give the trust over the message first and then record the trust among the people. Read together, they describe a messenger trusted in two directions. He is faithful to his Sender, and he is known for honesty by those he is sent to. Al-Kalbī's question shows why the second matters for the first. A man who never betrayed them in their own affairs is a poor candidate for the charge that he has suddenly begun lying about God.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতেই কোনো পাঠ খণ্ডন করা হয়নি। কুরতুবী ও বাগাভী দুজনেই আগে দেন বার্তার আমানত, তারপর উল্লেখ করেন মানুষের মাঝে আমানতদারির কথা। দুটি পাঠ একসঙ্গে পড়লে ছবিটা হয় এমন এক রসূলের, যাঁর উপর ভরসা দুই দিক থেকে। যিনি পাঠিয়েছেন তাঁর প্রতি তিনি বিশ্বস্ত, আর যাদের কাছে পাঠানো হয়েছে তারা তাঁকে সৎ বলে চেনে। কালবীর প্রশ্নটা দেখিয়ে দেয় দ্বিতীয়টি কেন প্রথমটির জন্য জরুরি। যে মানুষ তাদের নিজেদের কোনো ব্যাপারে কখনো খেয়ানত করেনি, হঠাৎ আল্লাহর নামে মিথ্যা বলতে শুরু করেছে, এমন অভিযোগ তার গায়ে খাটে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A King's Question at Court",
+          "bn": "রাজদরবারে এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. The report that follows is not about Hūd or about this verse; it is brought only because al-Qurtubi's comparison points to it. In his Sahih (7), al-Bukhari records from ʿAbdullāh ibn ʿAbbās that Abu Sufyan, before he became Muslim, was questioned about the Prophet ﷺ by Heraclius. Among the questions, in the Darussalam English: Heraclius said, 'Have you ever accused him of telling lies before his claim (to be a Prophet)?' I replied, 'No.' Abu Sufyan admits that only the fear of his companions calling him a liar kept him truthful.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীরেই আয়াতটির সঙ্গে কোনো হাদীস জোড়া হয়নি। নিচের বর্ণনাটি হূদ (আঃ) বা এ আয়াত সম্পর্কে নয়। এটি আনা হচ্ছে শুধু এ কারণে যে কুরতুবীর তুলনাটি এর দিকে ইঙ্গিত করে। বুখারী তাঁর সহীহ গ্রন্থে (৭) আবদুল্লাহ ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: আবু সুফিয়ান তখনো মুসলিম হননি, সে সময় হিরাক্লিয়াস তাঁকে নবী ﷺ সম্পর্কে জেরা করেন। প্রশ্নগুলোর একটি ছিল: তিনি নবুওয়াতের দাবি করার আগে তোমরা কি কখনো তাঁকে মিথ্যার অভিযোগে অভিযুক্ত করেছ? আবু সুফিয়ান উত্তর দেন: না। আবু সুফিয়ান নিজেই স্বীকার করেন, সঙ্গীরা তাঁকে মিথ্যাবাদী বলবে, শুধু এই ভয়েই তিনি সেদিন সত্য বলেছিলেন।"
+          },
+          {
+            "en": "Then Heraclius draws the conclusion, in the same English: 'So I wondered how a person who does not tell a lie about others could ever tell a lie about Allah.' And later: 'I asked you whether he had ever betrayed. You replied in the negative and likewise the Apostles never betray.' These are the words of a foreign king reasoning aloud, reported in a collection al-Bukhari compiled as sound. They are the logic of al-Kalbī's question in plain form: a record of honesty among people is evidence about a man's honesty toward God. Even an opponent could not fault that record.",
+            "bn": "এরপর হিরাক্লিয়াস সিদ্ধান্ত টানেন: আমি ভাবলাম, যে মানুষ অন্যদের নিয়ে মিথ্যা বলে না, সে কী করে আল্লাহর নামে মিথ্যা বলবে? আরও পরে বলেন: আমি তোমাকে জিজ্ঞেস করেছিলাম তিনি কখনো বিশ্বাসঘাতকতা করেছেন কি না। তুমি বলেছ, না। রসূলেরা এমনই, তাঁরা বিশ্বাসঘাতকতা করেন না। এগুলো এক বিদেশি রাজার নিজের যুক্তি, বর্ণিত হয়েছে বুখারীর সেই সংকলনে যা তিনি সহীহ হাদীস নিয়ে সাজিয়েছেন। কালবীর প্রশ্নের যুক্তিই এখানে খোলা চেহারায়: মানুষের সঙ্গে সততার রেকর্ড আল্লাহর ব্যাপারে মানুষটির সততার প্রমাণ। একজন বিরোধীও সে রেকর্ডে খুঁত ধরতে পারেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nūḥ's Sentence on Hūd's Lips",
+          "bn": "নূহের বাক্য হূদের মুখে"
+        },
+        "p": [
+          {
+            "en": "The four words of this verse are not Hūd's alone. The surah gives them, letter for letter, to Nūḥ (26:107), to Hūd here, to Ṣāliḥ (26:143), to Lūṭ (26:162) and to Shuʿayb (26:178). On the repetition, the commentaries fetched for this verse say little. Ibn Kathir marks it in one clause: Hūd said to them as Nūḥ had said to his people. The abridged English Ibn Kathir repeats the same note. No commentator here goes on to give a reason for the refrain, and this article does not supply one of its own.",
+            "bn": "এ আয়াতের চারটি শব্দ শুধু হূদ (আঃ)-এর নয়। সূরা হুবহু একই শব্দ দিয়েছে নূহ (আঃ)-কে (২৬:১০৭), এখানে হূদ (আঃ)-কে, সালিহ (আঃ)-কে (২৬:১৪৩), লূত (আঃ)-কে (২৬:১৬২) এবং শুআইব (আঃ)-কে (২৬:১৭৮)। এ পুনরাবৃত্তি নিয়ে এ আয়াতের জন্য দেখা তাফসীরগুলো খুব কম কথা বলে। ইবন কাসীর এক বাক্যাংশে বিষয়টি চিহ্নিত করেন: নূহ (আঃ) তাঁর জাতিকে যেমন বলেছিলেন, হূদ (আঃ)-ও তাদের তেমনই বললেন। সংক্ষিপ্ত ইংরেজি ইবন কাসীরেও একই কথা আছে। এখানকার কোনো তাফসীরকার এ পুনরাবৃত্তির কারণ ব্যাখ্যা করেননি, আর এ লেখাও নিজের থেকে কোনো কারণ বানিয়ে দিচ্ছে না।"
+          },
+          {
+            "en": "What the text itself shows can still be noticed. ʿĀd came after the people of Nūḥ, as the Qur'an reminds them in 7:69, and the abridged Ibn Kathir cites that verse here. So a later people hears the very credential that was offered to an earlier one. The complaints the surah records against each people differ: for ʿĀd, the landmarks on every height, the fortresses, the tyrant's grip (26:128 to 26:130). The credential does not change. Whatever the people's particular wrong, the man sent to them stands on the same two claims, sent and trustworthy.",
+            "bn": "তবে লেখার ভেতরেই যা দেখা যায়, তা খেয়াল করা যায়। আদ জাতি এসেছিল নূহের জাতির পরে। কুরআন তাদের সে কথা মনে করিয়ে দেয় ৭:৬৯ আয়াতে, আর সংক্ষিপ্ত ইবন কাসীর এখানে সে আয়াতই উদ্ধৃত করে। অর্থাৎ পরের এক জাতি শুনছে সেই একই পরিচয়, যা আগের জাতিকে দেওয়া হয়েছিল। প্রত্যেক জাতির বিরুদ্ধে সূরা যে অভিযোগগুলো তুলে ধরে, সেগুলো আলাদা। আদের বেলায় প্রতিটি উঁচু জায়গায় স্মৃতিস্তম্ভ, মজবুত দুর্গ, আর জালিমের মতো পাকড়াও (২৬:১২৮ থেকে ২৬:১৩০)। কিন্তু পরিচয়টা বদলায় না। জাতির অন্যায় যা-ই হোক, তাদের কাছে পাঠানো মানুষটি দাঁড়ান একই দুই দাবির উপর: তিনি প্রেরিত, আর তিনি বিশ্বস্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Record That Speaks First",
+          "bn": "কথার আগে জীবনের সাক্ষ্য"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. ʿĀd are a people the Qur'an condemns, and their story in this surah ends in their destruction. The verse describes what the text describes: a messenger's claim to a particular people, and their refusal of it. It licenses nothing against any living person or community. It names no modern nation as ʿĀd and gives no one the right to pin that name on a neighbour, a tribe or a rival. What it offers the reader is a measure to hold up to oneself, not a verdict to hand down on others.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আদ জাতিকে কুরআন নিন্দা করেছে, আর এ সূরায় তাদের কাহিনি শেষ হয়েছে ধ্বংসে। আয়াতটি শুধু তা-ই বর্ণনা করে, যা লেখায় আছে: নির্দিষ্ট এক জাতির কাছে এক রসূলের দাবি, আর তাদের তা প্রত্যাখ্যান। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো জাতিকে এ আয়াত আদ বলে না, আর প্রতিবেশী, গোত্র বা প্রতিপক্ষের গায়ে সে নাম সেঁটে দেওয়ার অধিকারও কাউকে দেয় না। পাঠকের জন্য এখানে আছে নিজেকে মেপে দেখার মাপকাঠি, অন্যের উপর রায় দেওয়ার হাতিয়ার নয়।"
+          },
+          {
+            "en": "Held up to oneself, the two readings of amīn become two questions. The first asks about what we pass on: whether a teaching, an instruction or a report leaves our hands as it reached them, measured by what was given rather than by what will please. The second asks about what came before we spoke. Al-Kalbī's question, how do you accuse me today?, only works for a man whose yesterday was clean. Hūd could say it because ʿĀd had nothing against him. Most of us, urging others toward good, are weighed by that same yesterday.",
+            "bn": "নিজের দিকে ফেরালে আমীনের দুটি পাঠ হয়ে দাঁড়ায় দুটি প্রশ্ন। প্রথম প্রশ্ন, আমরা যা অন্যকে পৌঁছে দিই তা নিয়ে। কোনো শিক্ষা, কোনো নির্দেশ বা কোনো খবর কি আমাদের হাত থেকে ঠিক সেভাবেই বেরোয়, যেভাবে হাতে এসেছিল? মাপকাঠি কি যা দেওয়া হয়েছে তা, নাকি যা শুনে মানুষ খুশি হবে তা? দ্বিতীয় প্রশ্ন, মুখ খোলার আগের জীবন নিয়ে। কালবীর প্রশ্ন, আজ কেন আমাকে দোষারোপ করছ, কেবল তার মুখেই মানায় যার অতীত পরিষ্কার। হূদ (আঃ) বলতে পেরেছিলেন, কারণ আদ জাতির হাতে তাঁর বিরুদ্ধে কিছুই ছিল না। আমরা যখন কাউকে ভালোর দিকে ডাকি, আমাদেরও মাপা হয় সেই অতীত দিয়েই।"
+          },
+          {
+            "en": "There is also restraint in the way Hūd says it. Lakum, to you, and in as-Saʿdī's gloss, you know that of me: he names his trustworthiness and leaves his hearers to confirm it from what they have seen. He does not swear, threaten or demand to be believed on his word alone. A credential of this kind cannot be manufactured at the moment it is needed. It is built quietly, in dealings no one praises, long before anyone is asked to listen. The verse shows its worth by showing a man who had it.",
+            "bn": "হূদ (আঃ)-এর বলার ভঙ্গিতেও আছে সংযম। লাকুম, তোমাদের জন্য, আর সা'দীর ব্যাখ্যায়, তোমরা তা আমার কাছ থেকে জানো। তিনি নিজের আমানতদারির কথা বলেন, তারপর শ্রোতাদের ছেড়ে দেন নিজেদের দেখা থেকে তা মিলিয়ে নিতে। কসম খান না, হুমকি দেন না, শুধু মুখের কথায় বিশ্বাস করার দাবিও করেন না। এমন পরিচয় দরকারের মুহূর্তে বানিয়ে নেওয়া যায় না। কেউ কিছু শোনার অনেক আগেই তা গড়ে ওঠে নীরবে, এমন সব লেনদেনে যার প্রশংসা কেউ করে না। আয়াতটি এর মূল্য দেখায় এমন এক মানুষকে দেখিয়ে, যাঁর কাছে তা ছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "26:128": {
     "sections": [
       {

@@ -24411,6 +24411,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Build now the faith and the friendships that will count on the Last Day; whatever you lean on instead of Allah will have nothing to say for you there.",
     "lessonBn": "যে ঈমান আর যে বন্ধুত্ব শেষ দিনে কাজে আসবে, তা এখনই গড়ে তুলুন। আল্লাহকে ছেড়ে যার উপর ভর দেবেন, সেদিন আপনার হয়ে তার বলার কিছু থাকবে না।"
+  },
+  "26:125": {
+    "reflectionEn": "Hud stands before ʿAd, a people tall, strong and well supplied, and gives them four words: I am to you a trustworthy messenger. He brings no army and asks for no fee. His claim rests on two things: that someone sent him, and that he can be trusted with what he carries. Some read the trust as faithfulness to the message, others as the honesty his people had already seen in him before he was sent. Either way, the call reaches them through a man whose dealings they knew. The verse then turns toward the reader. If I spoke about God to the people who know me best, what would my record say before my words did?",
+    "reflectionBn": "হূদ (আঃ) দাঁড়িয়ে আছেন আদ জাতির সামনে। লম্বা-চওড়া, শক্তিশালী, প্রাচুর্যে ভরা এক জাতি। তিনি তাদের বললেন মাত্র চার শব্দ: আমি তোমাদের জন্য এক বিশ্বস্ত রসূল। সঙ্গে কোনো বাহিনী নেই, কোনো পারিশ্রমিকও চান না। তাঁর দাবির ভিত্তি দুটি: কেউ তাঁকে পাঠিয়েছেন, আর যা তিনি বয়ে এনেছেন তার ব্যাপারে তাঁকে ভরসা করা যায়। কেউ এ বিশ্বস্ততাকে বুঝেছেন বার্তার প্রতি আমানতদারি হিসেবে। কেউ বুঝেছেন সেই সততা হিসেবে, যা তাঁর জাতি নবুওয়াতের আগেই তাঁর মধ্যে দেখে এসেছে। যেভাবেই পড়ি, ডাকটা তাদের কাছে এসেছে এমন এক মানুষের মুখে, যাঁর লেনদেন তারা চিনত। আয়াতটি এবার পাঠকের দিকে ফেরে। যারা আমাকে সবচেয়ে ভালো চেনে, তাদের কাছে যদি আল্লাহর কথা বলি, আমার মুখ খোলার আগেই আমার জীবনের হিসাব কী বলবে?",
+    "pointsEn": [
+      "If I had to stake an important truth on my record, which of my dealings would the people around me remember first?",
+      "When I pass on something I was given to carry, a message, a ruling, a piece of news, do I deliver it as I received it, or bend it on the way?",
+      "Have I ever waved away a sound reminder because the person who gave it was too familiar to seem important?",
+      "Where am I asking people to trust my words while my conduct gives them reasons not to?"
+    ],
+    "pointsBn": [
+      "কোনো বড় সত্যের পক্ষে যদি নিজের জীবনের হিসাবকেই সাক্ষী রাখতে হয়, আশপাশের মানুষ আমার কোন লেনদেনের কথা আগে মনে করবে?",
+      "কোনো বার্তা, কোনো বিধান বা কোনো খবর পৌঁছে দেওয়ার দায়িত্ব পেলে আমি কি তা যেমন পেয়েছি তেমনই পৌঁছাই, নাকি পথে একটু বাঁকিয়ে দিই?",
+      "যে মানুষ আমার খুব চেনা, শুধু সে কারণে কি কখনো তার দেওয়া সঠিক উপদেশ উড়িয়ে দিয়েছি?",
+      "কোথায় আমি চাইছি মানুষ আমার কথায় ভরসা করুক, অথচ আমার আচরণই তাদের ভরসা না করার কারণ জোগাচ্ছে?"
+    ],
+    "lessonEn": "Trust is earned before it is claimed. Live so that those who know you already believe your word, and carry what is entrusted to you without bending it.",
+    "lessonBn": "বিশ্বস্ততা দাবি করার আগে অর্জন করতে হয়। এমনভাবে চলুন যাতে চেনা মানুষেরা আগে থেকেই আপনার কথায় ভরসা করে, আর যে আমানত আপনার হাতে আসে তা বিকৃত না করে পৌঁছে দিন।"
   }
 };
 
