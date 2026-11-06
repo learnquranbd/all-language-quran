@@ -11,6 +11,158 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "33:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Things Never Made",
+          "bn": "যা তিনি কখনো বানাননি"
+        },
+        "p": [
+          {
+            "en": "The surah opens by telling the Prophet ﷺ to fear Allah and not to obey the disbelievers and the hypocrites, in 33:1 to 33:3. Then come three sentences, each beginning ma ja'ala, He has not made. He has not made two hearts for a man inside him; He has not made your wives, whom you declare to be like your mothers, your mothers; and He has not made your adopted sons your sons.",
+            "bn": "সূরার শুরুতে ৩৩:১ থেকে ৩৩:৩ আয়াতে নবী ﷺ-কে বলা হয়: আল্লাহকে ভয় করুন, কাফির ও মুনাফিকদের কথা মানবেন না। এরপর আসে তিনটি বাক্য, প্রতিটির শুরু মা জাআলা দিয়ে, অর্থাৎ তিনি বানাননি। তিনি কোনো মানুষের ভেতরে দুটি অন্তর বানাননি। যে স্ত্রীদের তোমরা মায়ের মতো বলে ঘোষণা দাও, তাদের তিনি তোমাদের মা বানাননি। আর তোমাদের পালকপুত্রদের তিনি তোমাদের পুত্র বানাননি।"
+          },
+          {
+            "en": "Why begin with the heart? Ibn Kathir says Allah lays down a known, physical fact before the meaning He intends: just as one person cannot have two hearts in his chest, and a wife does not become a mother through zihar, so an adopted boy does not become a man's son by being called one. Of the third sentence he says, this is the negation that is intended. Ma'arif al-Qur'an agrees that the first claim, plainly false to everyone, most likely serves as a prologue to the other two.",
+            "bn": "অন্তরের কথা দিয়ে শুরু কেন? ইবন কাসীর বলেন, আল্লাহ উদ্দিষ্ট অর্থের আগে চোখে দেখা, সবার জানা একটি বাস্তবতা সামনে রাখেন। একজন মানুষের বুকে যেমন দুটি অন্তর থাকে না, জিহারের কারণে স্ত্রী যেমন মা হয়ে যায় না, তেমনি কাউকে ছেলে বলে ডাকলেই পালকপুত্র তার ছেলে হয়ে যায় না। তৃতীয় বাক্যটি সম্পর্কে তিনি বলেন, আসল নাকচ এটিই। মাআরিফুল কুরআনও মনে করে, প্রথম দাবিটির মিথ্যা হওয়া সবার কাছে স্পষ্ট ছিল, তাই খুব সম্ভব সেটি বাকি দুটির ভূমিকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Man Called Two-Hearted",
+          "bn": "যাকে বলা হত দুই অন্তরওয়ালা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says the interpreters differed over what the first sentence was aimed at, and he sets out three views with their chains. Some said it gives the lie to hypocrites who described the Prophet ﷺ as having two hearts. Others said it concerns a man of Quraysh called Dhu l-Qalbayn, the two-hearted, for his cleverness. Others again said it is a parable about Zayd ibn Harithah, whom the Prophet ﷺ had adopted, and at-Tabari gives az-Zuhri's words: the son of another man is not your son.",
+            "bn": "তাবারী বলেন, প্রথম বাক্যটি কাকে লক্ষ্য করে, তা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। সনদসহ তিনি তিনটি মত উল্লেখ করেন। কারও মতে এখানে সেই মুনাফিকদের মিথ্যা ধরিয়ে দেওয়া হয়েছে, যারা বলত নবী ﷺ-এর দুটি অন্তর। কারও মতে আয়াতটি কুরাইশের এক লোককে নিয়ে, বুদ্ধির জোরের কারণে যাকে ডাকা হত যুল কালবাইন, দুই অন্তরওয়ালা। আবার কারও মতে এটি যায়েদ ইবন হারিসা (রাঃ)-কে নিয়ে এক উপমা, যাঁকে নবী ﷺ পালকপুত্র করেছিলেন। তাবারী এখানে যুহরীর কথাটি আনেন: অন্য লোকের ছেলে তোমার ছেলে নয়।"
+          },
+          {
+            "en": "For the Qurashi, at-Tabari's chain runs to Ibn Abbas, and Mujahid supplies the boast: a man of Banu Fihr said, in my chest are two hearts, and with each I reason better than Muhammad reasons; and he lied, Mujahid adds. Al-Qurtubi and al-Baghawi name him Jamil ibn Ma'mar al-Fihri, a man who kept whatever he heard, so that Quraysh said only two hearts could hold it.",
+            "bn": "কুরাইশি লোকটির ব্যাপারে তাবারীর সনদ পৌঁছেছে ইবন আব্বাস (রাঃ) পর্যন্ত। আর তার অহংকারের কথাটি দিয়েছেন মুজাহিদ। বনু ফিহরের এক লোক বলেছিল, আমার বুকে দুটি অন্তর, প্রতিটি দিয়ে আমি মুহাম্মাদের চেয়ে ভালো বুঝি। মুজাহিদ যোগ করেন, সে মিথ্যা বলেছিল। কুরতুবী ও বাগাভী তার নাম বলেন জামীল ইবন মা'মার আল-ফিহরী। যা শুনত তা-ই সে মনে রাখত, তাই কুরাইশরা বলত, দুটি অন্তর ছাড়া এত কিছু ধরে রাখা যায় না।"
+          },
+          {
+            "en": "The Zayd reading draws a real disagreement. Ibn Kathir, after citing az-Zuhri, says it agrees with the explanation he gave first. Al-Baghawi reports that az-Zuhri and Muqatil took the heart as a parable for both the man who pronounces zihar and the man who adopts: as no man has two hearts, no wife becomes a second mother and no child becomes the son of two men. Al-Qurtubi, however, relays an-Nahhas: a weak view, unsound in the language, and one of az-Zuhri's interrupted reports.",
+            "bn": "যায়েদ (রাঃ)-কে নিয়ে উপমার মতটি নিয়ে সত্যিকারের মতভেদ আছে। যুহরীর কথা উদ্ধৃত করে ইবন কাসীর বলেন, এটি তাঁর আগে দেওয়া ব্যাখ্যার সঙ্গে মিলে যায়। বাগাভী জানান, যুহরী ও মুকাতিলের মতে অন্তরের কথাটি জিহারকারী ও পালকপুত্র গ্রহণকারী, দুজনের জন্যই উপমা। কোনো মানুষের যেমন দুটি অন্তর নেই, তেমনি কোনো স্ত্রী দ্বিতীয় মা হয়ে যায় না, আর কোনো সন্তান দুই পুরুষের ছেলে হয় না। অন্যদিকে কুরতুবী উল্লেখ করেন নাহহাসের মত: এটি দুর্বল কথা, ভাষার দিক থেকে টেকে না, আর এটি যুহরীর বিচ্ছিন্ন সনদের বর্ণনাগুলোর একটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Lapse in the Prayer",
+          "bn": "নামাজের মাঝে এক মুহূর্তের ভুল"
+        },
+        "p": [
+          {
+            "en": "The hypocrites' report comes with a chain at-Tabari and Ibn Kathir both carry, and at-Tirmidhi recorded it in his Jami' (3199): We said to Ibn Abbas: What is the meaning of the saying of Allah: Allah has not made for any man two hearts inside his body? He said: The Prophet of Allah ﷺ stood one day for prayer, then he was unsure. The hypocrites who prayed with him said: Don't you see that he has two hearts, a heart with you and another with them? So Allah revealed it. At-Tirmidhi graded it hasan.",
+            "bn": "মুনাফিকদের ঘটনাটি যে সনদে এসেছে, তাবারী ও ইবন কাসীর দুজনেই তা বর্ণনা করেছেন। তিরমিযী তাঁর জামি'তে (৩১৯৯) এটি সংকলন করেছেন: আমরা ইবন আব্বাস (রাঃ)-কে বললাম, আল্লাহর এ বাণীর অর্থ কী: আল্লাহ কোনো মানুষের ভেতরে দুটি অন্তর বানাননি? তিনি বললেন, একদিন আল্লাহর নবী ﷺ নামাজে দাঁড়ালেন, তারপর তাঁর একটু সংশয় হল। যে মুনাফিকরা তাঁর সঙ্গে নামাজ পড়ছিল, তারা বলল: দেখছ না, তার দুটি অন্তর, একটি তোমাদের সঙ্গে, আরেকটি ওদের সঙ্গে? তখন আল্লাহ এ আয়াত নাযিল করলেন। তিরমিযী একে হাসান বলেছেন।"
+          },
+          {
+            "en": "Which occasion is right? At-Tabari's own verdict is careful. The soundest view, he says, is that this is Allah's denial of the claim that a man has two hearts with which he reasons, as reported from Ibn Abbas. It may answer those who described the Messenger ﷺ that way, or those who called the Qurashi two-hearted; whichever it was, Allah denies that any of His creatures among men is so. Ibn Kathir, for his part, lists at-Tabari among those who chose the Qurashi report. The reports describe those particular men; they license no suspicion of anyone living.",
+            "bn": "কোন ঘটনাটি ঠিক? তাবারীর নিজের রায় খুব সাবধানী। তিনি বলেন, সবচেয়ে সঠিক কথা হল, যে দাবি করে কোনো মানুষের দুটি অন্তর আছে আর সে দুটি দিয়ে সে বোঝে, আল্লাহ এখানে তার দাবি মিথ্যা প্রমাণ করেছেন, যেমন ইবন আব্বাস (রাঃ) থেকে বর্ণিত। হতে পারে এ জবাব তাদের, যারা রাসূল ﷺ-কে এভাবে বর্ণনা করেছিল। আবার হতে পারে তাদের, যারা কুরাইশি লোকটিকে দুই অন্তরওয়ালা বলত। যেটাই হোক, আল্লাহ জানিয়ে দিলেন, তাঁর সৃষ্ট কোনো মানুষ এমন নয়। অন্যদিকে ইবন কাসীর তাবারীকে তাঁদের মধ্যে গণ্য করেন, যাঁরা কুরাইশি লোকটির বর্ণনাকেই বেছে নিয়েছেন। এসব বর্ণনা কেবল সেই নির্দিষ্ট লোকদের ছবি দেয়। আজকের কোনো মানুষকে সন্দেহ করার অনুমতি এ থেকে মেলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Room for Two Loyalties",
+          "bn": "দুই আনুগত্যের জায়গা নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari has Qatada recall al-Hasan: a man used to tell me, I have a self that commands me and a self that forbids me, and Allah revealed about him what you hear. Al-Qurtubi records two related readings. In one, a hypocrite would say, I have a heart that tells me this and a heart that tells me that, so the two-hearted man is the hypocrite and the aim is to refute hypocrisy. In the other, faith and disbelief cannot meet in one heart, as two hearts cannot meet in one body.",
+            "bn": "তাবারীর বর্ণনায় কাতাদা হাসানের কথা স্মরণ করেন: এক লোক আমাকে বলত, আমার একটা নফস আমাকে আদেশ দেয়, আরেকটা নিষেধ করে। আল্লাহ তার ব্যাপারেই নাযিল করলেন যা তোমরা শুনছ। কুরতুবী এর কাছাকাছি দুটি ব্যাখ্যা উল্লেখ করেন। একটিতে মুনাফিক বলত, আমার এক অন্তর আমাকে এটা বলে, আরেক অন্তর ওটা বলে। তাই দুই অন্তরওয়ালা আসলে মুনাফিক, আর আয়াতের উদ্দেশ্য নিফাকের খণ্ডন। অন্যটিতে, এক দেহে যেমন দুই অন্তর একসঙ্গে থাকে না, তেমনি এক অন্তরে ঈমান আর কুফর একসঙ্গে থাকে না।"
+          },
+          {
+            "en": "Al-Qurtubi then speaks in his own voice. There is only one heart, he says, holding either faith or disbelief, and hypocrisy, which poses as a middle station, is denied by the verse. The heart does not gather guidance and misguidance, or turning back to Allah and stubborn persistence. As-Sa'di keeps to the plain sense: this does not exist, so beware of saying of anyone that he has two hearts.",
+            "bn": "এরপর কুরতুবী নিজের কথা বলেন। অন্তর একটিই, তাতে হয় ঈমান থাকে, নয়তো কুফর। নিফাক নিজেকে মাঝামাঝি এক অবস্থান বলে দেখায়, আয়াত সেটিকেই নাকচ করে। এক অন্তরে হেদায়েত আর গোমরাহি একসঙ্গে জমে না, আল্লাহর দিকে ফেরা আর জেদ ধরে থাকাও না। সা'দী সরল অর্থেই থাকেন। এমন কিছুর অস্তিত্ব নেই, তাই সাবধান, কারও সম্পর্কে বলবেন না যে তার দুটি অন্তর আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Likened to a Mother's Back",
+          "bn": "মায়ের পিঠের সঙ্গে তুলনা"
+        },
+        "p": [
+          {
+            "en": "Zihar, as at-Tabari, al-Qurtubi and al-Baghawi define it, is a man's saying to his wife: you are to me like my mother's back. Al-Muyassar notes that in the age of ignorance this counted as a divorce, and Ma'arif al-Qur'an that they took it to make her unlawful forever. As-Sa'di shows why the comparison collapses: your mother is she who bore you, the most sacred of women to you, and your wife is the most lawful of women to you. How can one of two opposites be likened to the other?",
+            "bn": "তাবারী, কুরতুবী ও বাগাভীর সংজ্ঞায় জিহার হল স্ত্রীকে স্বামীর এ কথা বলা: তুমি আমার কাছে আমার মায়ের পিঠের মতো। মুয়াসসার জানায়, জাহিলিয়াতে এটাকে তালাক ধরা হত। মাআরিফুল কুরআন বলে, তারা মনে করত এতে স্ত্রী চিরকালের জন্য হারাম হয়ে যায়। তুলনাটা কেন টেকে না, সা'দী তা দেখান। আপনার মা তিনি, যিনি আপনাকে জন্ম দিয়েছেন, নারীদের মধ্যে আপনার কাছে সবচেয়ে সম্মানিত ও সবচেয়ে নিষিদ্ধ। আর আপনার স্ত্রী নারীদের মধ্যে আপনার জন্য সবচেয়ে হালাল। দুটি বিপরীত জিনিসের একটিকে অন্যটির সঙ্গে তুলনা করা যায় কীভাবে?"
+          },
+          {
+            "en": "At-Tabari puts the clause bluntly: Allah did not make such wives your mothers; He made the saying a lie on your part, and bound you to an expiation as a penalty. Qatada, in his report, says the same: Allah did not make her his mother, but He placed the expiation in it. Ibn Kathir and as-Sa'di set beside it 58:2, where their mothers are only those who gave birth to them, while al-Baghawi, al-Qurtubi and Ma'arif al-Qur'an leave the ruling's detail to Surah al-Mujadalah, 58:2 to 58:4.",
+            "bn": "তাবারী বাক্যটিকে সোজাসুজি ব্যাখ্যা করেন। আল্লাহ এমন স্ত্রীদের তোমাদের মা বানাননি। বরং কথাটিকে তিনি তোমাদের পক্ষ থেকে মিথ্যা সাব্যস্ত করেছেন, আর শাস্তি হিসেবে তোমাদের উপর কাফফারা চাপিয়ে দিয়েছেন। কাতাদার বর্ণনাতেও একই কথা: আল্লাহ তাকে তার মা বানাননি, তবে এতে কাফফারা রেখেছেন। ইবন কাসীর ও সা'দী এর পাশে রাখেন ৫৮:২ আয়াত, যেখানে বলা হয়েছে, তাদের মা কেবল তারাই, যারা তাদের জন্ম দিয়েছে। বিধানের খুঁটিনাটি বাগাভী, কুরতুবী ও মাআরিফুল কুরআন রেখে দিয়েছেন সূরা মুজাদালার ৫৮:২ থেকে ৫৮:৪ আয়াতের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Name Zayd ibn Muhammad",
+          "bn": "যায়েদ ইবন মুহাম্মাদ নামটি"
+        },
+        "p": [
+          {
+            "en": "On the third sentence the occasion is widely agreed. Al-Qurtubi reports that the people of tafsir agree it came down about Zayd ibn Harithah. Ibn Kathir explains: the Prophet ﷺ had adopted Zayd, his freed man, before prophethood, and he was called Zayd ibn Muhammad. Allah wished to cut off that attachment and that ascription, as He says later in the surah, at 33:40: Muhammad is not the father of any of your men.",
+            "bn": "তৃতীয় বাক্যটির প্রেক্ষাপট নিয়ে প্রায় সবাই একমত। কুরতুবী জানান, তাফসীরবিদরা একমত যে এটি নাযিল হয়েছে যায়েদ ইবন হারিসা (রাঃ)-কে নিয়ে। ইবন কাসীর ব্যাখ্যা করেন: নবুওয়াতের আগেই নবী ﷺ তাঁর মুক্ত করা গোলাম যায়েদকে পালকপুত্র করে নিয়েছিলেন, আর লোকে তাঁকে ডাকত যায়েদ ইবন মুহাম্মাদ। আল্লাহ চাইলেন এই জুড়ে দেওয়া সম্পর্ক আর এই পরিচয় কেটে দিতে, যেমন সূরার পরের দিকে ৩৩:৪০ আয়াতে তিনি বলেছেন: মুহাম্মাদ তোমাদের কোনো পুরুষের পিতা নন।"
+          },
+          {
+            "en": "Al-Qurtubi tells how the bond began, as reported from Anas ibn Malik and others. Zayd was taken captive from Syria, and came through Khadijah to the Prophet ﷺ, who freed and adopted him. When Zayd's father and uncle came to ransom him, the Prophet ﷺ, before his mission, said: let him choose. Zayd chose to stay with him over his freedom and his people, and the Prophet ﷺ called Quraysh to witness: he is my son.",
+            "bn": "সম্পর্কটি কীভাবে শুরু হয়েছিল, কুরতুবী তা বলেন আনাস ইবন মালিক (রাঃ) ও অন্যদের সূত্রে বর্ণিত বিবরণ থেকে। যায়েদ শাম থেকে বন্দী হয়ে আসেন। খাদীজা (রাঃ)-এর হাত হয়ে তিনি পৌঁছান নবী ﷺ-এর কাছে। নবী ﷺ তাঁকে মুক্ত করে পালকপুত্র করে নেন। পরে যায়েদের বাবা ও চাচা মুক্তিপণ নিয়ে এলেন। তখনো নবুওয়াত আসেনি। নবী ﷺ বললেন, ওকে বেছে নিতে দাও। নিজের স্বাধীনতা আর আপনজনদের চেয়ে যায়েদ তাঁর কাছে থাকাকেই বেছে নিলেন। তখন নবী ﷺ কুরাইশকে সাক্ষী রেখে বললেন: এ আমার ছেলে।"
+          },
+          {
+            "en": "Al-Qurtubi then cites a report the imams narrated from Abdullah ibn Umar, which al-Bukhari recorded (4782): We used not to call Zayd ibn Harithah, the freed slave of Allah's Messenger ﷺ, except Zayd ibn Muhammad, till the Qur'anic verse was revealed: Call them by the names of their fathers; that is more just in the sight of Allah. The words it names are from 33:5. Al-Baghawi says the clause abrogated adoption, under which an adopted man was called by the adopter's name and inherited from him.",
+            "bn": "এরপর কুরতুবী আবদুল্লাহ ইবন উমর (রাঃ)-এর একটি বর্ণনা আনেন, যা ইমামরা বর্ণনা করেছেন। বুখারী এটি সংকলন করেছেন (৪৭৮২): আল্লাহর রাসূল ﷺ-এর মুক্ত করা গোলাম যায়েদ ইবন হারিসাকে আমরা যায়েদ ইবন মুহাম্মাদ ছাড়া অন্য নামে ডাকতাম না, যতক্ষণ না কুরআনের এ আয়াত নাযিল হল: তাদের ডাকো তাদের পিতার নামে, আল্লাহর কাছে এটাই অধিক ন্যায়সংগত। বর্ণনায় উল্লিখিত বাণীটি ৩৩:৫ আয়াতের। বাগাভী বলেন, এ বাক্য পালকপুত্র প্রথাকে রহিত করেছে। সে প্রথায় পালকপুত্রকে ডাকা হত গ্রহণকারীর নামে, আর সে তার মিরাসও পেত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only Words in the Mouth",
+          "bn": "শুধুই মুখের বুলি"
+        },
+        "p": [
+          {
+            "en": "Dhalikum qawlukum bi-afwahikum: that is your saying, with your mouths. At-Tabari applies it to both customs: a man's telling his wife she is like his mother's back, and his calling someone who is not his son his son, are mere words with no reality behind them. No lineage is established by the claim, and no wife becomes a mother. Al-Qurtubi says the phrase with your mouths underlines the falsity: a saying that exists only on the tongue.",
+            "bn": "যালিকুম কাওলুকুম বিআফওয়াহিকুম: এগুলো তোমাদের মুখের কথা মাত্র। তাবারী কথাটি দুটি প্রথার উপরই খাটান। স্ত্রীকে মায়ের পিঠের মতো বলা, আর যে নিজের ছেলে নয় তাকে ছেলে বলে দাবি করা, দুটোই নিছক কথা, পেছনে কোনো বাস্তবতা নেই। এমন দাবিতে কারও বংশ প্রমাণিত হয় না, কোনো স্ত্রীও মা হয়ে যায় না। কুরতুবী বলেন, বিআফওয়াহিকুম, অর্থাৎ মুখ দিয়ে, শব্দটি কথাটির অসারতা আরও জোরালো করে। এ এমন কথা, যার অস্তিত্ব কেবল জিহ্বায়।"
+          },
+          {
+            "en": "Ibn Kathir ties the phrase back to the opening image. Your adoption of him is a word that does not make him a real son, for he was created from the loins of another man, and he cannot have two fathers, just as one human being cannot have two hearts. As-Sa'di widens it into a general rule: to speak of anything as existing or happening when Allah has not made it so is falsehood, and such speech brings in its wake things the law rejects.",
+            "bn": "ইবন কাসীর কথাটিকে আবার শুরুর উপমার সঙ্গে জুড়ে দেন। তোমার পালকপুত্র বানানো একটি কথা মাত্র, এতে সে আসল ছেলে হয়ে যায় না। কারণ তার জন্ম আরেক পুরুষের ঔরস থেকে। একজন মানুষের যেমন দুটি অন্তর হতে পারে না, তেমনি একজনের দুই পিতাও হতে পারে না। সা'দী একে একটি সাধারণ নীতিতে বিস্তৃত করেন। আল্লাহ যা বানাননি, তাকে আছে বা ঘটেছে বলে প্রচার করা মিথ্যা। এমন কথার পেছন পেছন আসে এমন সব বিষয়, যা শরীয়ত প্রত্যাখ্যান করে।"
+          },
+          {
+            "en": "Against those words stands another: wa-llahu yaqulu l-haqq, and Allah says the truth. Sa'id ibn Jubayr, in Ibn Kathir, takes the truth as justice; as-Sa'di as certainty and truthfulness, which is why Allah commands that it be followed. At-Tabari adds that it is by His word that a lineage is established. Then wa huwa yahdi s-sabil, and He guides to the way: the straight path, says Qatada, while at-Tabari has Him making plain to His servants the way of truth.",
+            "bn": "মানুষের এই কথার বিপরীতে আছে আরেক কথা: ওয়াল্লাহু ইয়াকূলুল হাক্ক, আর আল্লাহ বলেন সত্য কথা। ইবন কাসীরের বর্ণনায় সাঈদ ইবন জুবাইর হাক্ক অর্থ করেন ন্যায়। সা'দীর মতে এর অর্থ নিশ্চিত সত্য, আর সে কারণেই আল্লাহ তা অনুসরণের আদেশ দিয়েছেন। তাবারী যোগ করেন, কারও বংশ প্রমাণিত হয় আল্লাহর কথাতেই। এরপর ওয়া হুয়া ইয়াহদিস সাবীল, আর তিনিই পথ দেখান। কাতাদার মতে সে পথ সিরাতুল মুস্তাকীম। তাবারীর ব্যাখ্যায় আল্লাহ তাঁর বান্দাদের সামনে সত্যের পথ স্পষ্ট করে দেন।"
+          },
+          {
+            "en": "Qatada, in at-Tabari, closes the clause on adoption with a saying of the Prophet ﷺ that he says reached him. Al-Bukhari recorded it from Sa'd (6766): Whoever claims to be the son of a person other than his father, and he knows that person is not his father, then Paradise will be forbidden for him. Al-Bukhari does not attach it to this verse. Its warning falls on a knowing false claim of descent, and the next verse, 33:5, lifts the blame for an honest mistake.",
+            "bn": "তাবারীর বর্ণনায় কাতাদা পালকপুত্রের বাক্যটির আলোচনা শেষ করেন নবী ﷺ-এর একটি বাণী দিয়ে, যা তাঁর কাছে পৌঁছেছে বলে তিনি জানান। বুখারী সা'দ (রাঃ) থেকে এটি সংকলন করেছেন (৬৭৬৬): যে ব্যক্তি নিজের পিতা ছাড়া অন্য কারও সন্তান বলে নিজেকে দাবি করে, অথচ সে জানে লোকটি তার পিতা নয়, তার জন্য জান্নাত হারাম। বুখারী একে এ আয়াতের সঙ্গে যুক্ত করেননি। এর সতর্কবাণী জেনেবুঝে মিথ্যা বংশপরিচয় দাবি করার উপর। আর ঠিক পরের আয়াত, ৩৩:৫, অনিচ্ছাকৃত ভুলের দায় তুলে নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lineage Kept, Care Untouched",
+          "bn": "বংশ অটুট, মমতাও অটুট"
+        },
+        "p": [
+          {
+            "en": "What the verse denies is a name and a lineage, not affection. Ibn Kathir, treating 33:4 and 33:5 together, writes that calling someone son as a mark of honour and endearment is not what it forbids, and recalls the Prophet ﷺ addressing the young boys of Banu Abd al-Muttalib at the Jamarat as my little sons. Muslim recorded from Anas (2151): Allah's Messenger ﷺ addressed me: O my son. Ma'arif al-Qur'an is more cautious: such a word from plain affection is permissible, it says, but not the better choice, since it outwardly resembles what was forbidden.",
+            "bn": "আয়াতটি যা নাকচ করে তা হল নাম ও বংশপরিচয়, মমতা নয়। ৩৩:৪ ও ৩৩:৫ আয়াতের একসঙ্গে আলোচনায় ইবন কাসীর লেখেন, সম্মান ও স্নেহ বোঝাতে কাউকে ছেলে বলে ডাকা এ আয়াতের নিষেধের আওতায় পড়ে না। তিনি স্মরণ করিয়ে দেন, জামরাতে নবী ﷺ বনু আবদুল মুত্তালিবের ছোট ছেলেদের ডেকেছিলেন আমার বাছারা বলে। মুসলিম আনাস (রাঃ) থেকে সংকলন করেছেন (২১৫১): আল্লাহর রাসূল ﷺ আমাকে বললেন, হে আমার বাছা। মাআরিফুল কুরআন এখানে একটু বেশি সাবধানী। নিছক স্নেহ থেকে এমন ডাক জায়েয, তবে উত্তম নয়, কারণ বাহ্যিকভাবে তা নিষিদ্ধ বিষয়ের মতো দেখায়।"
+          },
+          {
+            "en": "Ibn Kathir adds that a foster son through nursing is, in the Shari'a, like a son of a man's own loins in what it makes unlawful, citing the saying in the two Sahihs that nursing makes unlawful what lineage makes unlawful. And Zayd lost nothing of his place. Al-Qurtubi records that the Prophet ﷺ made him commander at Mu'tah, where he was killed in the year 8, and that when news came of Zayd and Ja'far he wept and said: my two brothers, my companions, my companions in talk.",
+            "bn": "ইবন কাসীর আরও বলেন, দুধপানের মাধ্যমে যে দুধছেলে, হারামের বিধানে শরীয়ত তাকে ঔরসজাত ছেলের মতোই গণ্য করে। এর দলিল হিসেবে তিনি দুই সহীহ গ্রন্থের সেই বাণী আনেন: বংশের কারণে যা হারাম হয়, দুধপানের কারণেও তা হারাম হয়। আর যায়েদ (রাঃ)-এর মর্যাদা একটুও কমেনি। কুরতুবী জানান, নবী ﷺ তাঁকে মুতার যুদ্ধে সেনাপতি করেছিলেন, আর ৮ হিজরিতে সেখানেই তিনি শহীদ হন। যায়েদ ও জাফরের মৃত্যুসংবাদ এলে নবী ﷺ কেঁদে বলেছিলেন: আমার দুই ভাই, আমার দুই সঙ্গী, আমার দুই আলাপের সাথী।"
+          },
+          {
+            "en": "So the verse speaks to names and descent, and this article draws no ruling beyond it; how a particular family should arrange its affairs is a question for a scholar who knows them. Nothing in the tafsirs read here treats the care that adoptive and foster families give as blameworthy. The verse's own lesson is wider: no man has two hearts, a harsh word does not make a mother, and a name does not make a son. Allah says the truth, and He guides to the way.",
+            "bn": "তাই আয়াতটির কথা নাম ও বংশপরিচয় নিয়ে, আর এ লেখা এর বাইরে কোনো বিধান টানে না। কোনো নির্দিষ্ট পরিবার কীভাবে নিজেদের বিষয় সাজাবে, সে প্রশ্ন এমন আলেমের কাছে, যিনি তাদের অবস্থা জানেন। এখানে পড়া তাফসীরগুলোর কোথাও পালক বা দুধসম্পর্কের পরিবারের দেওয়া যত্ন ও লালনপালনকে দোষের বলা হয়নি। আয়াতটির নিজের শিক্ষা আরও বড়। কোনো মানুষের দুটি অন্তর নেই, কঠোর এক কথায় কেউ মা হয়ে যায় না, আর নাম দিলেই কেউ ছেলে হয়ে যায় না। আল্লাহ বলেন সত্য কথা, আর তিনিই পথ দেখান।"
+          }
+        ]
+      }
+    ]
+  },
   "33:6": {
     "sections": [
       {

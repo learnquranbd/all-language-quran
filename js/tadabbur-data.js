@@ -25229,6 +25229,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Join belief to righteous deeds and live as a guest who is expected, for the gardens of refuge are hospitality prepared for what you used to do.",
     "lessonBn": "ঈমানের সঙ্গে নেক আমল জুড়ে দিন, আর এমন মেহমানের মতো জীবন কাটান যার জন্য অপেক্ষা চলছে। কারণ আশ্রয়ের বাগানগুলো আপনার আমলের বিনিময়ে সাজানো মেহমানদারি।"
+  },
+  "33:4": {
+    "reflectionEn": "The verse begins with something nobody disputes: no man carries two hearts in his chest. On that same footing it sets two things people once held just as firmly: that a harsh oath could turn a wife into a mother, and that calling a boy your son made him one. All three get one answer. That is only your saying, with your mouths; Allah says the truth. Words can wound and names can bind, but they cannot rewrite what Allah has made. So the verse asks me where my own speech claims more than is real. And it asks which heart I am living from, since there is room in me for only one.",
+    "reflectionBn": "আয়াতটি শুরু হয় এমন এক কথা দিয়ে, যা নিয়ে কারও কোনো দ্বিমত নেই: কোনো মানুষের বুকে দুটি অন্তর নেই। তারপর ঠিক সেই ভিতের উপর রাখা হয় আরও দুটি ধারণা, যা মানুষ একসময় সমান দৃঢ়ভাবে বিশ্বাস করত। এক, রাগের মাথায় একটা কসম স্ত্রীকে মা বানিয়ে দেয়। দুই, কোনো ছেলেকে নিজের ছেলে বলে ডাকলেই সে সত্যিই ছেলে হয়ে যায়। তিনটিরই জবাব একটি: এগুলো তোমাদের মুখের কথা মাত্র, আর আল্লাহ বলেন সত্য কথা। কথা আঘাত দিতে পারে, নাম মানুষকে বাঁধতে পারে, কিন্তু আল্লাহ যা বানিয়েছেন তা বদলে দিতে পারে না। তাই আয়াতটি আমাকে জিজ্ঞেস করে, আমার কথা কোথায় বাস্তবের চেয়ে বেশি দাবি করছে? আর জিজ্ঞেস করে, আমি কোন অন্তর নিয়ে বাঁচছি, যখন আমার ভেতরে জায়গা আছে কেবল একটির?",
+    "pointsEn": [
+      "Where have I treated something as true only because I said it often, or said it loudly?",
+      "In anger, have I spoken to someone close to me in a way that turned what is lawful and dear into something cold and forbidden?",
+      "Is there a loyalty I show in one company and deny in another, as if I kept a second heart for the other room?",
+      "When I give someone a name or a label, does it tell the truth about them, or a story that suits me?",
+      "Who in my care needs both my affection and the truth of where they come from, and am I giving them both?"
+    ],
+    "pointsBn": [
+      "কোন কথাকে আমি সত্য ধরে নিয়েছি শুধু এ কারণে যে আমি তা বারবার বলেছি, কিংবা জোর গলায় বলেছি?",
+      "রাগের মাথায় কাছের কাউকে কি এমন কথা বলেছি, যাতে হালাল আর প্রিয় সম্পর্কটা ঠান্ডা ও নিষিদ্ধ কিছুতে পরিণত হয়?",
+      "এমন কোনো আনুগত্য কি আছে, যা এক মজলিসে দেখাই আর অন্য মজলিসে অস্বীকার করি, যেন অন্য ঘরের জন্য আমার আরেকটা অন্তর রাখা আছে?",
+      "কাউকে যখন কোনো নাম বা পরিচয় দিই, তা কি তার সম্পর্কে সত্য বলে, নাকি আমার সুবিধামতো একটা গল্প বলে?",
+      "আমার দায়িত্বে থাকা কার দরকার আমার মমতা আর তার আসল পরিচয়ের সত্য, দুটোই? আমি কি তাকে দুটোই দিচ্ছি?"
+    ],
+    "lessonEn": "Your words cannot remake what Allah has made: an oath does not turn a wife into a mother, a name does not make a son, and one heart holds one loyalty.",
+    "lessonBn": "আল্লাহ যা বানিয়েছেন, আপনার কথা তা নতুন করে বানাতে পারে না। কসম স্ত্রীকে মা বানায় না, নাম কাউকে ছেলে বানায় না, আর এক অন্তরে জায়গা কেবল এক আনুগত্যের।"
   }
 };
 
