@@ -26549,6 +26549,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Everything comes to Allah's command, willingly or not; heaven and earth chose to come willingly, so bring your own obedience gladly rather than by compulsion.",
     "lessonBn": "আল্লাহর হুকুমের কাছে সবকিছুই আসে, ইচ্ছায় বা অনিচ্ছায়। আকাশ আর পৃথিবী স্বেচ্ছায় আসাটাই বেছে নিয়েছিল। আপনিও নিজের আনুগত্য খুশিমনে নিয়ে আসুন, বাধ্য হয়ে নয়।"
+  },
+  "41:30": {
+    "reflectionEn": "Saying it takes a moment: our Lord is Allah. Many people have said it. The verse praises those who said it and then stood straight on it, not turning to anyone beside Him when another door opened, and not sliding as the years grew long. To them the angels come down with a message: do not fear what lies ahead, do not grieve over what you leave behind, and take the good news of the Garden you were promised. Asked for one complete word about Islam, the Prophet ﷺ answered in two steps: say you believe in Allah, then be upright. The first step is the quick one. Where am I standing straight today, and where have I quietly begun to bend?",
+    "reflectionBn": "কথাটা বলতে এক মুহূর্ত লাগে: আমাদের রব আল্লাহ। বহু মানুষই তা বলেছে। আয়াতটি প্রশংসা করছে তাদের, যারা কথাটা বলে তার উপর সোজা হয়ে দাঁড়িয়ে থেকেছে। অন্য কোনো দরজা খুলে গেলেও তারা তাঁকে ছেড়ে আর কারও দিকে ফেরেনি, বছর গড়ালেও পিছলে যায়নি। তাদের কাছে ফেরেশতারা নেমে আসেন এই বার্তা নিয়ে: সামনে যা আছে তার ভয় করো না, পেছনে যা রেখে যাচ্ছ তার জন্য দুঃখ করো না, আর যে জান্নাতের ওয়াদা তোমাদের দেওয়া হয়েছিল তার সুসংবাদ নাও। ইসলাম সম্পর্কে এমন এক পূর্ণ কথা চাওয়া হলে নবী ﷺ জবাব দিয়েছিলেন দুই ধাপে: বলো, আমি আল্লাহর উপর ঈমান আনলাম, তারপর অবিচল থাকো। প্রথম ধাপটা দ্রুত শেষ হয়। আজ আমি কোথায় সোজা দাঁড়িয়ে আছি, আর কোথায় চুপিসারে বেঁকে যেতে শুরু করেছি?",
+    "pointsEn": [
+      "If I truly lived by the sentence our Lord is Allah, which part of my week would look different?",
+      "Where do I keep the outward shape of obedience while slipping around the command itself?",
+      "Do I ask Allah to keep me upright, or do I assume I can stay straight on my own strength?",
+      "What do I fear most about what lies ahead, and what would I grieve most to leave behind?",
+      "If I carry on exactly as I am now, will the words I die on match the words I say today?"
+    ],
+    "pointsBn": [
+      "আমাদের রব আল্লাহ, এ কথা যদি সত্যিই মেনে চলতাম, তাহলে আমার সপ্তাহের কোন অংশটা বদলে যেত?",
+      "কোথায় আমি আনুগত্যের বাইরের চেহারাটা ধরে রাখি, অথচ হুকুমটাকে পাশ কাটিয়ে বেরিয়ে যাই?",
+      "আমি কি আল্লাহর কাছে চাই যেন তিনি আমাকে সোজা পথে অটল রাখেন, নাকি ধরে নিই নিজের জোরেই সোজা থাকতে পারব?",
+      "সামনে যা আসছে তার কোনটাকে আমি সবচেয়ে বেশি ভয় পাই, আর পেছনে কী রেখে যেতে সবচেয়ে বেশি কষ্ট হবে?",
+      "এখন যেভাবে চলছি সেভাবেই চলতে থাকলে, যে কথার উপর আমার মৃত্যু হবে তা কি আজকের মুখের কথার সঙ্গে মিলবে?"
+    ],
+    "lessonEn": "Saying 'our Lord is Allah' is the beginning; staying upright on it, in belief and in obedience, until the end is what the angels' good news is promised to.",
+    "lessonBn": "‘আমাদের রব আল্লাহ’ বলা শুরু মাত্র। বিশ্বাসে ও আনুগত্যে শেষ পর্যন্ত এর উপর অবিচল থাকা, ফেরেশতাদের সুসংবাদ তারই জন্য।"
   }
 };
 

@@ -1031,6 +1031,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:30": {
+    "sections": [
+      {
+        "h": {
+          "en": "When the Surah Turns",
+          "bn": "সূরার মোড় ঘোরে যেখানে"
+        },
+        "p": [
+          {
+            "en": "The verses just before belong to the deniers. In 41:26 they tell each other not to listen to this Qur'an and to drown it out with noise. 41:27 and 41:28 promise them a severe punishment and a lasting home in the Fire, and in 41:29 they ask to be shown the jinn and humans who misled them, to trample them underfoot. Then the address turns. Ma'arif al-Qur'an marks the shift: the text now takes up the condition of the believers and those of perfect faith, honoured in this world and the next.",
+            "bn": "ঠিক আগের আয়াতগুলো অস্বীকারকারীদের নিয়ে। ৪১:২৬ আয়াতে তারা একে অন্যকে বলে, এই কুরআন শুনো না, হট্টগোল করে ডুবিয়ে দাও। ৪১:২৭ ও ৪১:২৮ আয়াতে তাদের জন্য কঠিন শাস্তি আর আগুনে স্থায়ী ঠিকানার ঘোষণা। ৪১:২৯ আয়াতে তারা চায়, যে জিন ও মানুষ তাদের পথভ্রষ্ট করেছিল তাদের দেখিয়ে দেওয়া হোক, যাতে পায়ের নিচে পিষতে পারে। তারপরই কথার মুখ ঘুরে যায়। মাআরিফুল কুরআন এই মোড়টা চিহ্নিত করে বলে, এবার আলোচনা মুমিনদের আর পূর্ণ ঈমানের মানুষদের অবস্থা নিয়ে, দুনিয়া ও আখিরাতে যাদের সম্মানিত করা হবে।"
+          },
+          {
+            "en": "As-Sa'di frames the verse as Allah telling of His allies, and names the purpose: within the telling lies encouragement for them and an urging to follow their example. The verse moves in three steps. First two qualities, a word said and a course held: our Lord is Allah, then they remained upright. Then an event: the angels descend upon them. Then a message in three parts: do not fear, do not grieve, and receive good news of the Garden you were promised. The two verses after it, 41:31 and 41:32, carry the angels' speech further.",
+            "bn": "সা'দী আয়াতটিকে দেখেন আল্লাহর পক্ষ থেকে তাঁর বন্ধুদের পরিচয় হিসেবে। উদ্দেশ্যটাও তিনি বলে দেন: এই বর্ণনার ভেতরেই আছে তাদের উৎসাহ, আর অন্যদের প্রতি তাদের অনুসরণের তাগিদ। আয়াতটি এগোয় তিনটি ধাপে। প্রথমে দুটি গুণ, একটি মুখের কথা আর একটি ধরে রাখা পথ: আমাদের রব আল্লাহ, তারপর তারা অবিচল থাকল। তারপর একটি ঘটনা: তাদের উপর ফেরেশতারা নেমে আসেন। তারপর তিনটি অংশে সাজানো বার্তা: ভয় করো না, দুঃখ করো না, আর যে জান্নাতের ওয়াদা তোমাদের দেওয়া হয়েছিল তার সুসংবাদ নাও। পরের দুই আয়াত, ৪১:৩১ ও ৪১:৩২, ফেরেশতাদের সেই কথাকেই আরও এগিয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lord Alone, Then Held To",
+          "bn": "একক রব, তারপর অটল থাকা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss fills in what the short phrase leaves unsaid. They said our Lord is Allah of Him alone, without partner, and disowned the gods and rivals set up beside Him. Then they remained upright on His oneness, did not mix it with associating anyone else with Him, and came to obey Him in what He commanded and forbade. He adds that a report from the Prophet ﷺ came close to this, and that the people of interpretation said so too, while differing among themselves over the meaning of then they remained upright.",
+            "bn": "ছোট্ট বাক্যটি যা না বলে রেখে দেয়, তাবারী তা পূরণ করে দেন। তারা যখন বলেছে আমাদের রব আল্লাহ, তখন বুঝিয়েছে তিনি একা, তাঁর কোনো শরিক নেই। তাঁর পাশে দাঁড় করানো সব উপাস্য আর প্রতিদ্বন্দ্বী থেকে তারা সম্পর্ক ছিন্ন করেছে। তারপর তাঁর তাওহীদের উপর অটল থেকেছে, তার সঙ্গে আর কাউকে শরিক করার মিশাল দেয়নি, আর তাঁর আদেশ-নিষেধ মেনে চলেছে। তাবারী যোগ করেন, নবী ﷺ থেকেও এর কাছাকাছি একটি বর্ণনা এসেছে, আর তাফসীরকারেরাও এ কথাই বলেছেন। তবে ‘তারপর তারা অবিচল থাকল’ কথাটির অর্থ নিয়ে তাঁদের মধ্যে মতভেদ আছে।"
+          },
+          {
+            "en": "As-Sa'di spreads the first clause over four verbs: they acknowledged Allah's lordship, spoke it, were content with it, and surrendered to His command. Then they were upright on the straight path in knowledge and in action. Ma'arif al-Qur'an reads the pair as faith and deeds: affirming Allah as their Lord is their iman, and remaining steadfast is their good practice, so the verse describes people who combine the two. The Muyassar is the shortest of all: our Lord is Allah alone, then upright on His law.",
+            "bn": "সা'দী প্রথম অংশটিকে চারটি ক্রিয়ায় খুলে বলেন: তারা আল্লাহর রুবূবিয়্যাত স্বীকার করেছে, মুখে উচ্চারণ করেছে, তাতে সন্তুষ্ট থেকেছে, আর তাঁর হুকুমের কাছে নিজেকে সঁপে দিয়েছে। তারপর জ্ঞানে ও আমলে সিরাতুল মুস্তাকীমের উপর অবিচল থেকেছে। মাআরিফুল কুরআন জোড়াটিকে পড়ে ঈমান ও আমল হিসেবে। আল্লাহকে রব বলে মেনে নেওয়া তাদের ঈমান, আর অটল থাকা তাদের নেক আমল। তাই আয়াতটি এমন মানুষের ছবি আঁকে, যারা দুটিকেই একসঙ্গে ধরে রেখেছে। মুয়াসসার সবচেয়ে সংক্ষেপে বলে: একমাত্র আল্লাহই আমাদের রব, তারপর তাঁর শরীয়তের উপর অবিচল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abu Bakr Sets a Reading Right",
+          "bn": "আবু বকর (রাঃ) ভুল ধরলেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari sorts the readings of istaqamu under two headings. The first: they did not associate anything with Him, and held to His oneness to the end. Here at-Tabari, Ibn Kathir, al-Qurtubi and al-Baghawi all bring Abu Bakr. When the verse was recited in his presence, at-Tabari reports, he said: they are those who did not associate anything with Allah. Al-Baghawi gives it as an answer to a question about istiqamah itself: that you do not associate anything with Allah.",
+            "bn": "তাবারী ইস্তাকামূ শব্দের ব্যাখ্যাগুলোকে দুই শিরোনামে সাজান। প্রথম মত: তারা তাঁর সঙ্গে কিছুই শরিক করেনি, শেষ পর্যন্ত তাওহীদ আঁকড়ে থেকেছে। এখানে তাবারী, ইবন কাসীর, কুরতুবী ও বাগাভী সবাই আবু বকর (রাঃ)-এর কথা আনেন। তাবারীর বর্ণনায়, তাঁর সামনে আয়াতটি তিলাওয়াত করা হলে তিনি বলেন: এরা তারাই, যারা আল্লাহর সঙ্গে কিছুই শরিক করেনি। বাগাভী কথাটি এনেছেন ইস্তিকামাত সম্পর্কে এক প্রশ্নের জবাব হিসেবে: ইস্তিকামাত হল আল্লাহর সঙ্গে কোনো কিছু শরিক না করা।"
+          },
+          {
+            "en": "A fuller exchange comes through al-Aswad ibn Hilal. Abu Bakr asked his companions what they said about the verse. In at-Tabari's version they answered: our Lord is Allah, then they were upright, free of sin. He replied: you have taken it in the wrong sense; they said our Lord is Allah and then did not turn to any god besides Him. Al-Qurtubi's version pairs the verse with 6:82, those who did not mix their faith with wrong. The companions took both to mean that they committed no sin, and Abu Bakr read the second as not mixing faith with shirk.",
+            "bn": "আসওয়াদ ইবন হিলালের সূত্রে ঘটনাটি আরও বিস্তারিত আসে। আবু বকর (রাঃ) সঙ্গীদের জিজ্ঞেস করলেন, এ আয়াত সম্পর্কে তোমরা কী বলো? তাবারীর বর্ণনায় তাঁরা বললেন: আমাদের রব আল্লাহ, তারপর গুনাহ থেকে বেঁচে অবিচল থেকেছে। তিনি বললেন, তোমরা একে ভুল অর্থে নিয়েছ। তারা বলেছে আমাদের রব আল্লাহ, তারপর তিনি ছাড়া আর কোনো ইলাহের দিকে ফিরেও তাকায়নি। কুরতুবীর বর্ণনায় এই আয়াতের সঙ্গে ৬:৮২ আয়াতও আছে: যারা নিজেদের ঈমানকে জুলুমের সঙ্গে মেশায়নি। সঙ্গীরা দুটোরই অর্থ করেছিলেন, তারা কোনো গুনাহ করেনি। আবু বকর (রাঃ) দ্বিতীয়টির অর্থ করলেন, ঈমানের সঙ্গে শিরক না মেশানো।"
+          },
+          {
+            "en": "The same line runs through the Successors. At-Tabari reports Mujahid saying upright on there is no god but Allah, and, by another chain, that they accepted Islam and then did not associate anything with Him until they met Him. As-Suddi says they carried it through; 'Ikrimah, upright on the testimony that there is no god but Allah. Ibn Kathir adds a report through Ibn Abi Hatim: asked which verse in the Book of Allah was the most lenient, Ibn 'Abbas named this one, on that same testimony.",
+            "bn": "তাবিঈদের মধ্যেও একই ধারা চলেছে। তাবারী মুজাহিদ থেকে বর্ণনা করেন: লা ইলাহা ইল্লাল্লাহর উপর অবিচল। আরেক সূত্রে মুজাহিদ বলেন: তারা ইসলাম গ্রহণ করেছে, তারপর আল্লাহর সঙ্গে মিলিত হওয়া পর্যন্ত তাঁর সঙ্গে কিছু শরিক করেনি। সুদ্দী বলেন, তারা কথাটিকে পূর্ণ করেছে। ইকরিমা বলেন, লা ইলাহা ইল্লাল্লাহর সাক্ষ্যের উপর অবিচল থেকেছে। ইবন কাসীর ইবন আবী হাতিমের সূত্রে আরেকটি বর্ণনা যোগ করেন। ইবন আব্বাস (রাঃ)-কে জিজ্ঞেস করা হয়েছিল, আল্লাহর কিতাবের কোন আয়াত সবচেয়ে সহজ ছাড় দেয়? তিনি এ আয়াতটির নাম বলেন, সেই সাক্ষ্যের উপর অবিচল থাকার কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Dodging Like the Fox",
+          "bn": "শেয়ালের মতো পাশ কাটানো নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's second heading reads the uprightness as obedience. Az-Zuhri reports that 'Umar recited the verse from the pulpit and said: they were upright, by Allah, in obeying Him, and did not slip away as the fox slips away. Al-Baghawi gives 'Umar's words as a definition: istiqamah is that you stand straight on the command and the prohibition and do not dodge like the fox. Ma'arif al-Qur'an renders it: do not seek escape routes like foxes. The fox is the picture of someone who seems to be heading this way and is gone that.",
+            "bn": "তাবারীর দ্বিতীয় শিরোনামে অবিচলতা মানে আনুগত্য। যুহরী বর্ণনা করেন, উমর (রাঃ) মিম্বারে দাঁড়িয়ে আয়াতটি তিলাওয়াত করে বলেছিলেন: আল্লাহর কসম, তারা তাঁর আনুগত্যে অবিচল থেকেছে, শেয়াল যেভাবে ফাঁক গলে সরে পড়ে সেভাবে সরে পড়েনি। বাগাভী উমর (রাঃ)-এর কথাটি এনেছেন সংজ্ঞা হিসেবে: ইস্তিকামাত হল আদেশ ও নিষেধের উপর সোজা থাকা, শেয়ালের মতো এদিক-ওদিক পাশ না কাটানো। মাআরিফুল কুরআন এর অর্থ করে, শেয়ালের মতো পালানোর পথ খুঁজো না। শেয়াল এমন এক ছবি, যাকে দেখে মনে হয় এক দিকে যাচ্ছে, অথচ পরক্ষণে সে অন্য দিকে উধাও।"
+          },
+          {
+            "en": "Others stand with 'Umar here. Qatada said upright on obedience to Allah, and Ibn Zayd on worshipping Allah and obeying Him. Ibn 'Abbas, in 'Ali ibn Abi Talha's report, said on fulfilling His obligations. Al-Baghawi and al-Qurtubi add, without chains, 'Ali's they fulfilled the obligations and 'Uthman's they made their deeds sincere for Allah. Ibn Kathir gives the same words on sincerity from Abu l-'Aliya, and opens with them as his own gloss: they made their deeds sincere for Allah and obeyed Him as He prescribed.",
+            "bn": "এখানে আরও অনেকে উমর (রাঃ)-এর পাশে। কাতাদা বলেন, আল্লাহর আনুগত্যে অবিচল। ইবন যায়দ বলেন, আল্লাহর ইবাদত ও আনুগত্যে। আলী ইবন আবী তালহার বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, তাঁর ফরজগুলো আদায়ে। বাগাভী ও কুরতুবী সনদ ছাড়াই আলী (রাঃ)-এর কথা আনেন, তারা ফরজ আদায় করেছে। উসমান (রাঃ)-এর কথাও আনেন, তারা আমলকে আল্লাহর জন্য খাঁটি করেছে। ইখলাসের এই কথাটি ইবন কাসীর আবুল আলিয়া থেকে আনেন, আর নিজের ব্যাখ্যাও শুরু করেন এ দিয়েই: তারা আমলকে আল্লাহর জন্য খাঁটি করেছে, আর তিনি যেভাবে বিধান দিয়েছেন সেভাবে তাঁর আনুগত্য করেছে।"
+          },
+          {
+            "en": "How the two headings relate is itself read differently. At-Tabari's own gloss holds both: oneness unmixed, and obedience in command and prohibition. Ma'arif al-Qur'an, drawing on Tafsir Mazhari, judges 'Umar's description the most comprehensive and says Abu Bakr's and 'Uthman's lead to the same place. Al-Qurtubi says the sayings overlap and sums them up: they held level on obedience to Allah in belief, word and deed, and kept to it. Yet the report from Abu Bakr has him reject the no-sin reading in the form his companions gave it.",
+            "bn": "দুই শিরোনামের সম্পর্ক কী, তা নিয়েও ভিন্ন ভিন্ন পাঠ আছে। তাবারীর নিজের ব্যাখ্যায় দুটোই আছে: মিশালহীন তাওহীদ, আর আদেশ-নিষেধে আনুগত্য। মাআরিফুল কুরআন তাফসীরে মাযহারী থেকে নিয়ে বলে, উমর (রাঃ)-এর ব্যাখ্যাটিই সবচেয়ে ব্যাপক, আর আবু বকর (রাঃ) ও উসমান (রাঃ)-এর ব্যাখ্যাও শেষে সেখানেই পৌঁছে। কুরতুবী বলেন, কথাগুলো একটা আরেকটার ভেতরে ঢুকে যায়। তাঁর সারকথা: বিশ্বাসে, কথায় ও কাজে তারা আল্লাহর আনুগত্যে সোজা থেকেছে, আর তাতেই টিকে থেকেছে। তবু আবু বকর (রাঃ)-এর বর্ণনায় দেখা যায়, গুনাহ না করার যে অর্থ সঙ্গীরা করেছিলেন, সেই রূপে তিনি তা মেনে নেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Uprightness Asked For",
+          "bn": "অবিচলতা চেয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a reading built on the word's form. Ibn Furak held that the s in istaqamu is the s of seeking, as in istasqa, to ask for water; on this view they asked Allah to keep them firm in the religion. At-Tabari, Ibn Kathir, al-Qurtubi and al-Baghawi all record al-Hasan's habit: when he recited this verse he would say, O Allah, You are our Lord, so grant us uprightness. He takes the verse's first clause as his own and asks for the second.",
+            "bn": "কুরতুবী শব্দের গঠনের উপর দাঁড়ানো একটি ব্যাখ্যা উল্লেখ করেন। ইবন ফুরাকের মতে ইস্তাকামূ শব্দের ‘স’ হল চাওয়ার ‘স’, যেমন ইস্তাসকা মানে পানি চাওয়া। এ ব্যাখ্যায় অর্থ দাঁড়ায়, তারা আল্লাহর কাছে চেয়েছে যেন তিনি তাদের দ্বীনের উপর দৃঢ় রাখেন। তাবারী, ইবন কাসীর, কুরতুবী ও বাগাভী সবাই হাসানের একটি অভ্যাসের কথা লিখেছেন। এ আয়াত তিলাওয়াত করলে তিনি বলতেন: হে আল্লাহ, আপনিই আমাদের রব, তাই আমাদের ইস্তিকামাত দান করুন। আয়াতের প্রথম অংশ তিনি নিজের মুখে নেন, আর দ্বিতীয়টা চেয়ে নেন।"
+          },
+          {
+            "en": "Al-Qurtubi gathers a few more short glosses, each placing the uprightness somewhere new. Sufyan ath-Thawri: they acted in agreement with what they said. Ar-Rabi': they turned away from everything besides Allah. Al-Fudayl ibn 'Iyad: they renounced what passes and desired what lasts. Two more come under it was said: upright in what they kept secret as in what they declared, and in deed as in word. Some point to the hand, some to the heart, some to the private hour.",
+            "bn": "কুরতুবী আরও কয়েকটি ছোট ব্যাখ্যা জড়ো করেন, প্রতিটি অবিচলতাকে নতুন এক জায়গায় রাখে। সুফিয়ান সাওরী বলেন, তারা যা বলেছে সে অনুযায়ী আমল করেছে। রবী বলেন, আল্লাহ ছাড়া আর সব কিছু থেকে মুখ ফিরিয়েছে। ফুদাইল ইবন ইয়াদ বলেন, যা ফুরিয়ে যায় তা থেকে বিমুখ হয়েছে, আর যা টিকে থাকে তার প্রতি আগ্রহী হয়েছে। ‘বলা হয়’ বলে আরও দুটি কথা আসে: প্রকাশ্যে যেমন অবিচল, গোপনেও তেমনি; কথায় যেমন অবিচল, কাজেও তেমনি। কোনোটি হাতের দিকে ইশারা করে, কোনোটি অন্তরের দিকে, কোনোটি একান্ত মুহূর্তের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Say It, Then Stand Straight",
+          "bn": "বলো, তারপর সোজা থাকো"
+        },
+        "p": [
+          {
+            "en": "The hadith most often brought here does not mention the verse, though its words echo it. Muslim records it in his Sahih (no. 38) from Sufyan ibn 'Abd Allah ath-Thaqafi: I said, Messenger of Allah, tell me a saying about Islam that I will not need to ask anyone about after you (in Abu Usama's narration, other than you). He said: Say, I believe in Allah, then be upright. Ibn Kathir, al-Qurtubi and Ma'arif al-Qur'an place it here because its two steps mirror the verse's two clauses.",
+            "bn": "এখানে যে হাদীসটি সবচেয়ে বেশি আনা হয়, তাতে আয়াতের উল্লেখ নেই, যদিও তার শব্দে আয়াতেরই প্রতিধ্বনি। মুসলিম তাঁর সহীহ গ্রন্থে (নং ৩৮) সুফিয়ান ইবন আবদুল্লাহ সাকাফী (রাঃ) থেকে বর্ণনা করেন: আমি বললাম, হে আল্লাহর রাসূল, ইসলাম সম্পর্কে আমাকে এমন একটি কথা বলে দিন, যা নিয়ে আপনার পরে আর কাউকে জিজ্ঞেস করতে হবে না (আবু উসামার বর্ণনায়: আপনি ছাড়া আর কাউকে)। তিনি বললেন: বলো, আমি আল্লাহর উপর ঈমান আনলাম, তারপর অবিচল থাকো। ইবন কাসীর, কুরতুবী ও মাআরিফুল কুরআন হাদীসটি এখানে আনেন, কারণ তার দুই ধাপ আয়াতের দুই অংশের সঙ্গে মিলে যায়।"
+          },
+          {
+            "en": "One detail of wording: in Muslim's text the command is fa-staqim, joined with fa, while Ibn Kathir and al-Qurtubi quote it with thumma, matching the verse. Only one narration on the verse itself was found. At-Tirmidhi records (no. 3250) from Anas ibn Malik that the Messenger of Allah ﷺ recited this verse and said: People have said it, then most of them disbelieved; so whoever dies upon it is among those who remained upright. At-Tirmidhi calls it gharib, known to him only by this route, and grades it no higher.",
+            "bn": "শব্দের একটি খুঁটিনাটি লক্ষ করার মতো। মুসলিমের পাঠে আদেশটি ‘ফাসতাকিম’, ‘ফা’ দিয়ে জোড়া। অথচ ইবন কাসীর ও কুরতুবী একে উদ্ধৃত করেছেন ‘সুম্মা’ দিয়ে, আয়াতের সঙ্গে মিলিয়ে। আয়াতটির উপর সরাসরি একটিমাত্র বর্ণনাই পাওয়া গেছে। তিরমিযী (নং ৩২৫০) আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ এ আয়াত তিলাওয়াত করে বললেন: মানুষ কথাটা বলেছে, তারপর তাদের অধিকাংশই কুফরি করেছে। তাই যে এর উপর মৃত্যুবরণ করে, সে-ই অবিচলদের একজন। তিরমিযী নিজে একে গরীব বলেছেন, এই একটি সূত্র ছাড়া তাঁর জানা নেই। এর চেয়ে উঁচু কোনো মান তিনি দেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At Death, or at the Rising",
+          "bn": "মৃত্যুশয্যায়, নাকি কবর থেকে ওঠার দিন"
+        },
+        "p": [
+          {
+            "en": "Tatanazzalu 'alayhim al-mala'ikah: the angels descend upon them. When? At-Tabari's own gloss places it at death: the angels come down upon them when death comes down upon them, and he cites Mujahid and as-Suddi for it. Ibn Kathir names Mujahid, as-Suddi, Zayd ibn Aslam and his son for the same view, and the Muyassar adopts it. As-Sa'di says the form of the verb means their descent comes again and again, and places it at the deathbed, bringing good news.",
+            "bn": "তাতানাযযালু আলাইহিমুল মালাইকা: তাদের উপর ফেরেশতারা নেমে আসেন। কখন? তাবারীর নিজের ব্যাখ্যায় মৃত্যুর সময়: মৃত্যু যখন তাদের উপর নেমে আসে, ফেরেশতারাও তখন নামেন। এর পক্ষে তিনি মুজাহিদ ও সুদ্দীর কথা আনেন। ইবন কাসীর একই মতের জন্য মুজাহিদ, সুদ্দী, যায়দ ইবন আসলাম ও তাঁর ছেলের নাম বলেন, আর মুয়াসসারও এ মতই নেয়। সা'দী বলেন, ক্রিয়াটির গঠন বোঝায় তাঁদের নেমে আসা বারবার ঘটে। তিনি একে রাখেন মৃত্যুশয্যায়, যখন তাঁরা সুসংবাদ নিয়ে আসেন।"
+          },
+          {
+            "en": "A second view places it at the resurrection. Al-Qurtubi and al-Baghawi report Qatada and Muqatil: when they rise from their graves. Ibn 'Abbas is cited on both sides: at-Tabari's report from him says that is in the Hereafter, and al-Qurtubi has him call it good news from the angels in the Hereafter, while al-Baghawi and Ma'arif al-Qur'an have him say at death. Ibn Kathir adds Thabit al-Bunani, who said it had reached him that the two angels who were with the believer in the world meet him when Allah raises him from his grave. Thabit gives no chain for it.",
+            "bn": "দ্বিতীয় মত একে রাখে পুনরুত্থানের সময়। কুরতুবী ও বাগাভী কাতাদা ও মুকাতিল থেকে বর্ণনা করেন: যখন তারা কবর থেকে উঠবে। ইবন আব্বাস (রাঃ)-এর নাম দুই দিকেই আসে। তাবারীর বর্ণনায় তিনি বলেন, এটা আখিরাতে, আর কুরতুবীর বর্ণনায়, এটা আখিরাতে ফেরেশতাদের দেওয়া সুসংবাদ। অন্যদিকে বাগাভী ও মাআরিফুল কুরআনে তাঁর কথা, মৃত্যুর সময়। ইবন কাসীর সাবিত আল-বুনানীর কথাও আনেন। তিনি বলেছিলেন, তাঁর কাছে খবর পৌঁছেছে যে আল্লাহ যখন মুমিনকে কবর থেকে ওঠাবেন, দুনিয়াতে যে দুই ফেরেশতা তার সঙ্গে থাকতেন তাঁরাই তাকে অভ্যর্থনা জানাবেন। সাবিত এর কোনো সনদ উল্লেখ করেননি।"
+          },
+          {
+            "en": "A third view joins them. Al-Baghawi and al-Qurtubi report Waki' ibn al-Jarrah, with al-Qurtubi adding Ibn Zayd: the good news comes in three places, at death, in the grave and at the rising. Ibn Kathir gives the same from Zayd ibn Aslam, and judges that it gathers all the sayings, calling it very good and what actually happens. Ma'arif al-Qur'an cites Abu Hayyan's al-Bahr al-Muhit for a wider view still: the angels descend on believers all the time, even in this life, though they are heard only on those occasions.",
+            "bn": "তৃতীয় মত দুটোকে জোড়া লাগায়। বাগাভী ও কুরতুবী ওয়াকী ইবনুল জাররাহ থেকে বর্ণনা করেন, কুরতুবী এর সঙ্গে ইবন যায়দের নামও যোগ করেন: সুসংবাদ আসে তিনটি জায়গায়, মৃত্যুর সময়, কবরে, আর পুনরুত্থানের সময়। ইবন কাসীর একই কথা যায়দ ইবন আসলাম থেকে আনেন। তাঁর বিচারে এ মত সব কথাকে এক করে, খুব সুন্দর মত, আর বাস্তবে এমনটাই ঘটে। মাআরিফুল কুরআন আবু হাইয়ানের আল-বাহরুল মুহীত থেকে আরও বিস্তৃত একটি মত আনে: ফেরেশতারা মুমিনদের উপর সব সময়ই নামেন, এই দুনিয়াতেও। তবে তাঁদের কথা শোনা যায় কেবল ওই মুহূর্তগুলোতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Ahead, Nothing Behind",
+          "bn": "ভয় নেই সামনে, দুঃখ নেই পেছনে"
+        },
+        "p": [
+          {
+            "en": "The message opens with alla takhafu. At-Tabari and al-Qurtubi read it as bi-an la, with the word: do not fear, the preposition being dropped. At-Tabari takes the fear to be of what they are coming to after death, and the grief over what they leave behind. Mujahid, in at-Tabari's chain, spells it out: do not fear what you face of the Hereafter, nor grieve over the family and children you leave in this world, for we will take your place in all of it. As-Sa'di puts it as the future and the past: both kinds of harm are lifted.",
+            "bn": "বার্তাটি শুরু হয় আল্লা তাখাফূ দিয়ে। তাবারী ও কুরতুবী একে পড়েন বি-আন লা হিসেবে, অর্থাৎ ‘ভয় করো না’ এই কথা নিয়ে। মাঝের অব্যয়টি উহ্য। তাবারীর মতে ভয়টা মৃত্যুর পরে যার মুখোমুখি হবে তার, আর দুঃখটা পেছনে যা রেখে যাচ্ছে তার জন্য। তাবারীর সূত্রে মুজাহিদ খুলে বলেন: আখিরাতে যা সামনে আসছে তার ভয় করো না, দুনিয়ায় যে পরিবার আর সন্তান রেখে যাচ্ছ তাদের জন্য দুঃখ করো না, এসবে আমরাই তোমাদের স্থলাভিষিক্ত হব। সা'দী একে বলেন ভবিষ্যৎ আর অতীত: দুই দিকের অপ্রিয় জিনিসই সরিয়ে নেওয়া হল।"
+          },
+          {
+            "en": "Others give the two words a different object. Al-Qurtubi reports Mujahid as saying do not fear death, and 'Ata' ibn Abi Rabah: do not fear that your reward will be turned back, for it is accepted, and do not grieve over your sins, for I forgive them. Al-Baghawi has 'Ata' on the sins alone. Then the good news: receive glad tidings of the Garden you were promised. At-Tabari glosses it: rejoice that the Garden is yours in the Hereafter, promised in the world for your faith in Allah and your uprightness in obeying Him. As-Sa'di adds that it has become binding for them.",
+            "bn": "কেউ কেউ শব্দ দুটির বিষয় অন্যভাবে ধরেন। কুরতুবী মুজাহিদের আরেকটি কথা আনেন: মৃত্যুকে ভয় করো না। আতা ইবন আবী রাবাহ থেকেও তিনি আনেন: তোমাদের সওয়াব ফিরিয়ে দেওয়া হবে, এ ভয় করো না, তা কবুল হয়েছে। নিজেদের গুনাহের জন্য দুঃখ করো না, আমি তা মাফ করে দেব। বাগাভী আতা থেকে শুধু গুনাহের অংশটুকু আনেন। তারপর সুসংবাদ: যে জান্নাতের ওয়াদা তোমাদের দেওয়া হয়েছিল, তার সুখবর নাও। তাবারীর ব্যাখ্যা: খুশি হও, আখিরাতে জান্নাত তোমাদের, যার ওয়াদা দুনিয়াতে দেওয়া হয়েছিল আল্লাহর উপর ঈমান আর তাঁর আনুগত্যে অবিচলতার জন্য। সা'দী যোগ করেন, তা তাদের জন্য নিশ্চিত হয়ে গেছে।"
+          },
+          {
+            "en": "The angels' speech runs on into 41:31 and 41:32, where they call themselves the believers' allies in this life and the next and speak of a welcome from the Forgiving, the Merciful. The verse itself rests on two clauses that are quick to say together and long to live together, and the commentators keep returning to the second. Al-Hasan's prayer turns the verse into a request anyone can make: O Allah, You are our Lord, so grant us uprightness.",
+            "bn": "ফেরেশতাদের কথা গড়িয়ে যায় ৪১:৩১ ও ৪১:৩২ আয়াতে। সেখানে তাঁরা নিজেদের বলেন দুনিয়া ও আখিরাতে মুমিনদের বন্ধু, আর ক্ষমাশীল, দয়াময় রবের পক্ষ থেকে আপ্যায়নের কথা শোনান। এ আয়াত দাঁড়িয়ে আছে দুটি অংশের উপর। একসঙ্গে বলতে সময় লাগে না, কিন্তু একসঙ্গে বাঁচতে লাগে সারা জীবন। তাফসীরকারেরা বারবার ফিরে আসেন দ্বিতীয় অংশেই। হাসানের দোয়া আয়াতটিকে এমন এক প্রার্থনায় বদলে দেয়, যা যে কেউ করতে পারে: হে আল্লাহ, আপনিই আমাদের রব, তাই আমাদের ইস্তিকামাত দান করুন।"
+          }
+        ]
+      }
+    ]
+  },
   "41:33": {
     "sections": [
       {
