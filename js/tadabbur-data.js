@@ -26429,6 +26429,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The way to Allah is followed as He sent it, not climbed by our own construction. Beware when a wrong deed begins to look fair in your own eyes.",
     "lessonBn": "আল্লাহর কাছে পৌঁছানোর পথ নিজের বানানো সিঁড়ি বেয়ে ওঠার নয়, তিনি যেভাবে পাঠিয়েছেন সেভাবে চলার। কোনো মন্দ কাজ যখন নিজের চোখে সুন্দর লাগতে শুরু করে, তখন সাবধান হোন।"
+  },
+  "40:55": {
+    "reflectionEn": "Allah has just reminded His Messenger ﷺ that Musa was given guidance and his people were made heirs of the Book. Then come three short commands. Be patient, for the promise of Allah is true. Seek forgiveness. Glorify your Lord with His praise, at the day's two ends. Patience leans on the promise, so it is not a blind wait. Forgiveness is sought by the best of creation, and that teaches everyone after him that no one outgrows it. And praise is given a time, so it does not depend on mood. When the help I hope for is slow, do I keep only the first command and forget the other two? And do my evenings and mornings carry any praise at all?",
+    "reflectionBn": "আল্লাহ এইমাত্র তাঁর রাসূল ﷺ-কে মনে করিয়ে দিয়েছেন, মূসা (আঃ)-কে পথনির্দেশ দেওয়া হয়েছিল আর তাঁর জাতিকে করা হয়েছিল কিতাবের উত্তরাধিকারী। তারপর আসে তিনটি ছোট আদেশ। সবর করুন, আল্লাহর ওয়াদা সত্য। ইস্তিগফার করুন। দিনের দুই প্রান্তে রবের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করুন। সবর এখানে ওয়াদার উপর ভর দিয়ে দাঁড়ায়, তাই তা অন্ধ অপেক্ষা নয়। সৃষ্টির শ্রেষ্ঠ মানুষটিকে ইস্তিগফারের আদেশ দেওয়া হয়েছে, আর তাতে পরের সবাই শিখে নেয়, এ থেকে কেউ কখনো বড় হয়ে যায় না। প্রশংসার জন্যও সময় বেঁধে দেওয়া হয়েছে, যাতে তা মেজাজের উপর না ঝোলে। যে সাহায্যের আশায় আছি তা দেরিতে এলে আমি কি শুধু প্রথম আদেশটা ধরে বাকি দুটো ভুলে যাই? আর আমার সকাল-সন্ধ্যায় কি আদৌ কোনো প্রশংসা থাকে?",
+    "pointsEn": [
+      "What am I waiting on Allah for right now, and is my patience resting on His promise or only on my own stubbornness?",
+      "When did I last ask forgiveness without being pushed to it by a specific mistake?",
+      "If the best of creation was told to seek forgiveness, what makes me feel I have less need of it?",
+      "Is there a fixed moment in my morning and my evening that belongs to glorifying and praising my Lord?",
+      "When help is slow, do I fill the wait with complaint, or with remembrance?"
+    ],
+    "pointsBn": [
+      "এ মুহূর্তে আমি আল্লাহর কাছে কোন জিনিসের অপেক্ষায় আছি? আমার সবর কি তাঁর ওয়াদার উপর দাঁড়িয়ে, নাকি শুধু নিজের জেদের উপর?",
+      "নির্দিষ্ট কোনো ভুলের ধাক্কা ছাড়াই শেষ কবে ইস্তিগফার করেছি?",
+      "সৃষ্টির শ্রেষ্ঠ মানুষটিকে যদি ক্ষমা চাইতে বলা হয়ে থাকে, তবে কোন ভরসায় আমি নিজেকে এর কম মুখাপেক্ষী ভাবি?",
+      "আমার সকালে আর সন্ধ্যায় এমন কোনো বাঁধা সময় কি আছে, যা শুধু রবের তাসবীহ আর হামদের জন্য রাখা?",
+      "সাহায্য আসতে দেরি হলে অপেক্ষার সময়টা আমি কী দিয়ে ভরি, অভিযোগ দিয়ে, নাকি জিকির দিয়ে?"
+    ],
+    "lessonEn": "Wait for Allah's promise with patience, keep seeking His forgiveness, and give your mornings and evenings to glorifying Him with praise.",
+    "lessonBn": "আল্লাহর ওয়াদার অপেক্ষায় সবর করুন, তাঁর কাছে ক্ষমা চাইতে থাকুন, আর সকাল-সন্ধ্যা তাঁর প্রশংসাসহ পবিত্রতা ঘোষণায় কাটান।"
   }
 };
 

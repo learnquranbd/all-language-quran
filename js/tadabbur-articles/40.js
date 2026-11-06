@@ -1927,6 +1927,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "So, After Musa's Story",
+          "bn": "মূসার কাহিনির পরেই"
+        },
+        "p": [
+          {
+            "en": "The verse opens with fa-, so: a command drawn from what came before. The passage has just promised help to the messengers and the believers in 40:51, then turned in 40:53 and 40:54 to Musa (AS), who was given guidance, and to the Children of Israel, who were made heirs of the Book. Only then does the address turn to the Prophet ﷺ. Fa-sbir inna wa'da Allahi haqq: so be patient; the promise of Allah is true. The example is laid down first, and the instruction follows from it.",
+            "bn": "আয়াতের শুরু ফা দিয়ে, অর্থাৎ 'সুতরাং'। আগে যা বলা হয়েছে, আদেশটি তা থেকেই বেরিয়ে আসে। ৪০:৫১ আয়াতে রাসূলগণ ও মুমিনদের সাহায্যের ওয়াদা এসেছে। তারপর ৪০:৫৩ ও ৪০:৫৪ আয়াতে কথা ফিরেছে মূসা (আঃ)-এর দিকে, যাঁকে পথনির্দেশ দেওয়া হয়েছিল, আর বনী ইসরাঈলের দিকে, যাদের করা হয়েছিল কিতাবের উত্তরাধিকারী। এর পরেই সম্বোধন যায় নবী ﷺ-এর দিকে: ফাসবির ইন্না ওয়া'দাল্লাহি হাক্ক, সুতরাং সবর করুন, আল্লাহর ওয়াদা সত্য। আগে দৃষ্টান্ত সামনে রাখা হলো, তারপর এল নির্দেশ।"
+          },
+          {
+            "en": "The commentators read the link the same way. Al-Qurtubi: be patient, Muhammad, with the harm of the idolaters, as those before you were patient; the promise of Allah is true, of helping you and making you prevail, as I helped Musa and the Children of Israel. As-Sa'di names the model more closely: be patient as the resolute among the messengers before you were patient. Ibn Kathir, in the abridged English, says of the Children of Israel that they prevailed in the end because of their patience in obeying Allah and following Musa.",
+            "bn": "তাফসীরকারেরা যোগসূত্রটা একইভাবে পড়েন। কুরতুবী বলেন: হে মুহাম্মাদ, মুশরিকদের দেওয়া কষ্টে সবর করুন, যেমন আপনার আগের লোকেরা সবর করেছিলেন। আপনাকে সাহায্য করার আর বিজয়ী করার ব্যাপারে আল্লাহর ওয়াদা সত্য, যেমন আমি মূসা ও বনী ইসরাঈলকে সাহায্য করেছিলাম। সা'দী দৃষ্টান্তটা আরও নির্দিষ্ট করে বলেন: সবর করুন, যেমন আপনার আগের দৃঢ়প্রতিজ্ঞ রাসূলগণ সবর করেছিলেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বনী ইসরাঈল সম্পর্কে বলে, আল্লাহর আনুগত্যে আর মূসার অনুসরণে তাদের সবরের কারণেই শেষ পর্যন্ত তারা বিজয়ী হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience Resting on a Promise",
+          "bn": "ওয়াদার উপর ভর দেওয়া সবর"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the patience a task. Be patient for your Lord's command, he paraphrases; carry out the message He sent you with, and convey what was sent down to you to your people and to whomever you were ordered to reach. Then be certain of the truth of what Allah promised you: help for you, and for whoever believed you, against those who denied you. The promise, he adds, is true, with no breaking of it, and Allah will fulfil it. In his reading, patience here means staying at the work, not only bearing pain.",
+            "bn": "তাবারী সবরকে একটা দায়িত্বের সঙ্গে জুড়ে দেন। তাঁর ব্যাখ্যায়: রবের নির্দেশের উপর সবর করুন। যে রিসালাত দিয়ে আপনাকে পাঠানো হয়েছে, তা পালন করুন। আপনার উপর যা নাযিল হয়েছে, তা নিজের কওমকে আর যাদের কাছে পৌঁছাতে বলা হয়েছে তাদের কাছে পৌঁছে দিন। তারপর আল্লাহর ওয়াদার সত্যতায় দৃঢ় বিশ্বাস রাখুন: আপনাকে আর আপনার উপর ঈমান আনা লোকদের সাহায্য করা হবে, যারা মিথ্যা বলেছে তাদের বিরুদ্ধে। তিনি যোগ করেন, এ ওয়াদা সত্য, এর কোনো খেলাপ নেই, আল্লাহ তা পূর্ণ করবেনই। তাঁর পাঠে সবর মানে শুধু কষ্ট সহ্য করা নয়, কাজে লেগে থাকাও।"
+          },
+          {
+            "en": "Ibn Kathir voices the promise as Allah's own words: We have promised you that We will raise your word high and make the final outcome yours and your followers', and Allah does not break the appointment; what We have told you is true, with no doubt in it. Al-Muyassar keeps the same content in one line. As-Sa'di explains why the clause sits beside the command: the promise is not doubtful, so that patience would become hard for you; it is pure truth. He counts the sentence among the causes that urge patience in obeying Allah and in keeping from what He dislikes.",
+            "bn": "ইবন কাসীর ওয়াদাটি আল্লাহর নিজের ভাষায় তুলে ধরেন: আমি আপনাকে ওয়াদা দিয়েছি, আপনার বাণীকে উঁচু করব, আর শেষ পরিণাম আপনার ও আপনার অনুসারীদের পক্ষে রাখব। আল্লাহ নির্ধারিত ওয়াদা ভঙ্গ করেন না। যা জানিয়েছি তা সত্য, এতে কোনো সন্দেহ নেই। মুয়াসসার একই কথা এক লাইনে বলে। সা'দী ব্যাখ্যা করেন, কেন বাক্যটি আদেশের পাশে বসানো। ওয়াদাটি সন্দেহের নয় যে সবর আপনার জন্য কঠিন হয়ে উঠবে। এ খাঁটি সত্য। আল্লাহর আনুগত্যে আর তিনি যা অপছন্দ করেন তা থেকে দূরে থাকায় সবরের প্রেরণা যোগায়, এমন কারণগুলোর মধ্যে তিনি বাক্যটিকে গণ্য করেন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both relay a report from al-Kalbi that this command to patience was later abrogated, by the verse of the sword in al-Qurtubi's wording and by the verse of fighting in al-Baghawi's; neither discusses it further. The harm the commentators have in mind is that done to the Prophet ﷺ by the idolaters of his own time, and the promised outcome is Allah's to bring. The verse describes what it describes, and it licenses nothing against any living person or community. What it asks of the reader is the other part: patience at one's work while waiting on Allah.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই কালবী থেকে একটি বর্ণনা আনেন: সবরের এ আদেশ পরে রহিত হয়েছে। কুরতুবীর ভাষায় তরবারির আয়াত দিয়ে, বাগাভীর ভাষায় কিতালের আয়াত দিয়ে। দুজনের কেউই এ নিয়ে আর কিছু বলেননি। তাফসীরকারেরা যে কষ্টের কথা বলছেন, তা নবী ﷺ-কে তাঁর নিজের যুগের মুশরিকদের দেওয়া কষ্ট। আর প্রতিশ্রুত পরিণাম ঘটানোর মালিক আল্লাহ। আয়াতটি যা বর্ণনা করে, তা-ই বর্ণনা করে। বর্তমানের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। পাঠকের কাছে আয়াতের চাওয়া অন্য অংশটি: আল্লাহর উপর ভরসা রেখে অপেক্ষার সময়েও নিজের কাজে অবিচল থাকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Clause Li-Dhanbika",
+          "bn": "লিযাম্বিকা: কথাটির পাঠ"
+        },
+        "p": [
+          {
+            "en": "Wa-staghfir li-dhanbika: and seek forgiveness for your dhanb. The words are addressed to the Prophet ﷺ, and the commentators did not pass over them. This article does not speak in its own voice of any fault of his; it reports how the mufassirs explained the clause, and they give more than one explanation. The shortest is Ibn Kathir's: this is a stirring of the Ummah to seek forgiveness. The command is spoken to the Prophet ﷺ, and its purpose reaches those who follow him.",
+            "bn": "ওয়াসতাগফির লিযাম্বিকা: আর আপনার যাম্বের জন্য ক্ষমা চান। কথাটি নবী ﷺ-কে সম্বোধন করে বলা, আর তাফসীরকারেরা একে এড়িয়ে যাননি। এ লেখা নিজের ভাষায় তাঁর কোনো দোষের কথা বলে না। মুফাসসিরগণ বাক্যটির কী ব্যাখ্যা দিয়েছেন, শুধু সেটুকুই জানায়, আর তাঁদের ব্যাখ্যা একটি নয়। সবচেয়ে সংক্ষিপ্ত ব্যাখ্যা ইবন কাসীরের: এর উদ্দেশ্য উম্মাহকে ইস্তিগফারে উদ্বুদ্ধ করা। আদেশ এসেছে নবী ﷺ-এর প্রতি, কিন্তু এর লক্ষ্য পৌঁছে যায় তাঁর অনুসারীদের কাছে।"
+          },
+          {
+            "en": "At-Tabari restates the clause in the verse's own terms, ask Him to forgive your dhunub and to pardon you, and moves straight on to the praise without opening the question. Al-Baghawi gives a single explanation in one line: this is ta'abbud from Allah, an act of worship He assigns, so that He may raise him by it in rank, and so that it becomes a sunnah for those after him. As-Sa'di reads the clause by its effect, as seeking forgiveness for whatever would keep one from attaining success and happiness.",
+            "bn": "তাবারী বাক্যটি আয়াতের নিজের শব্দেই আবার বলেন: তাঁর কাছে আপনার যুনূবের মাগফিরাত আর মাফ চান। প্রশ্নটি না খুলেই তিনি সোজা চলে যান প্রশংসার অংশে। বাগাভী এক লাইনে একটিমাত্র ব্যাখ্যা দেন: এটি আল্লাহর পক্ষ থেকে তা'আব্বুদ, অর্থাৎ তাঁর নির্ধারিত এক ইবাদত। এর মাধ্যমে আল্লাহ তাঁর মর্যাদা বাড়িয়ে দেবেন, আর পরের লোকদের জন্য এটি সুন্নাত হয়ে থাকবে। সা'দী বাক্যটিকে পড়েন তার ফল দিয়ে: যা কিছু সফলতা ও সৌভাগ্য অর্জনে বাধা হয়ে দাঁড়ায়, তা থেকে ক্ষমা চাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Qurtubi's Several Answers",
+          "bn": "কুরতুবীর একাধিক উত্তর"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets out the answers one after another, each introduced by qila, it is said, without ranking them. The first: for the dhanb of your Ummah. On this reading a word has been dropped, li-dhanbi ummatika, and the second noun stands in the place of the first, an ellipsis Arabic uses often. The forgiveness sought would then be forgiveness for his community. The reading fits the verse's grammar without strain, and it sits close to Ibn Kathir's line about the Ummah, though al-Qurtubi gives it as one view among several.",
+            "bn": "কুরতুবী উত্তরগুলো একের পর এক সাজান। প্রতিটির শুরুতে কীলা, অর্থাৎ 'বলা হয়েছে', আর কোনোটিকে অন্যটির উপরে রাখেন না। প্রথম উত্তর: আপনার উম্মাহর যাম্বের জন্য। এ পাঠে একটি শব্দ উহ্য, লিযাম্বি উম্মাতিকা, আর দ্বিতীয় শব্দটি প্রথমটির জায়গা নিয়েছে। আরবিতে এমন উহ্য রাখা খুবই চেনা রীতি। তখন চাওয়া ক্ষমাটি হয় তাঁর উম্মাহর জন্য। ব্যাকরণের দিক থেকে পাঠটি সহজেই খাটে, আর উম্মাহ নিয়ে ইবন কাসীরের কথার কাছাকাছিও। তবে কুরতুবী একে কয়েকটি মতের একটি হিসেবেই আনেন।"
+          },
+          {
+            "en": "The next answers turn on a question the scholars differed over: whether minor slips are possible for prophets. Those who hold them possible, al-Qurtubi reports, refer the word to the Prophet himself. Those who do not hold them possible say the command is ta'abbud, worship assigned to the Prophet ﷺ in the form of a supplication, like the believers' words in 3:194, grant us what You promised us through Your messengers. They ask for what is already promised, so the asking is itself worship. The benefit, on this view, is raised rank, and a supplication left as sunnah for those after him.",
+            "bn": "পরের উত্তরগুলো ঘোরে এমন এক প্রশ্নে, যা নিয়ে আলেমদের মতভেদ আছে: নবীদের থেকে ছোটখাটো বিচ্যুতি ঘটা সম্ভব কি না। কুরতুবী জানান, যাঁরা তা সম্ভব মনে করেন, তাঁরা শব্দটিকে নবী ﷺ-এর নিজের দিকে ফেরান। আর যাঁরা সম্ভব মনে করেন না, তাঁরা বলেন, এ আদেশ তা'আব্বুদ: দু'আর আকারে নবী ﷺ-এর জন্য নির্ধারিত এক ইবাদত। যেমন ৩:১৯৪ আয়াতে মুমিনরা বলে, তোমার রাসূলদের মাধ্যমে আমাদের যা ওয়াদা দিয়েছ, তা আমাদের দাও। মিলটা এখানে: সেখানে তারা চাইছে এমন জিনিস, যার ওয়াদা আগেই হয়ে আছে, তাই চাওয়াটাই ইবাদত। এ মতে উপকার দুটি: মর্যাদা বৃদ্ধি, আর দু'আটি পরের লোকদের জন্য সুন্নাত হয়ে থাকা।"
+          },
+          {
+            "en": "A further answer comes under qila: forgiveness for something from before his prophethood. Al-Qurtubi leaves these side by side, and so does this article. Al-Baghawi's single line matches the worship reading; Ibn Kathir's matches the teaching purpose; at-Tabari does not choose. The article on 110:3 sets out the answers al-Qurtubi gives to the related command there, wa-staghfirhu, in Surat an-Nasr. For the reader, the plainer point stands whichever reading is taken: the command to seek forgiveness was given to the best of creation.",
+            "bn": "আরেকটি উত্তরও আসে কীলা দিয়ে: নবুওয়াতের আগের কোনো বিষয়ের জন্য ক্ষমা চাওয়া। কুরতুবী মতগুলো পাশাপাশি রেখে দেন, এ লেখাও তা-ই করে। বাগাভীর এক লাইনের ব্যাখ্যা মেলে ইবাদতের পাঠের সঙ্গে, ইবন কাসীরেরটা মেলে উম্মাহকে শেখানোর উদ্দেশ্যের সঙ্গে, আর তাবারী কোনোটি বেছে নেন না। সূরা নাসরে কাছাকাছি আদেশ ওয়াসতাগফিরহু-র বেলায় কুরতুবী কী কী উত্তর দেন, তা আছে ১১০:৩ আয়াতের লেখায়। যে পাঠই নেওয়া হোক, পাঠকের জন্য সরল কথাটি থেকে যায়: ক্ষমা চাওয়ার আদেশ দেওয়া হয়েছিল সৃষ্টির শ্রেষ্ঠ মানুষটিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seventy Times, Then a Hundred",
+          "bn": "সত্তর বার, তারপর এক শ বার"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. Two narrations in the Sahih collections speak to the practice the verse commands, though neither is narrated about this verse. In al-Bukhari (6307), Abu Hurayra says he heard Allah's Messenger ﷺ say: \"By Allah! I ask for forgiveness from Allah and turn to Him in repentance more than seventy times a day.\" The oath at its head, and the word more, leave no room to read it as an occasional act.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তবে সহীহ গ্রন্থে দুটি বর্ণনা আছে, যা আয়াতের আদেশ করা আমলটির কথাই বলে, যদিও কোনোটিই এ আয়াত প্রসঙ্গে বর্ণিত নয়। বুখারীতে (৬৩০৭) আবু হুরায়রা (রাঃ) বলেন, তিনি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছেন: \"আল্লাহর কসম! আমি দিনে সত্তর বারেরও বেশি আল্লাহর কাছে ইস্তিগফার করি এবং তাঁর দিকে তওবা করি।\" শুরুর কসম আর 'বেশি' শব্দটি একে মাঝেমধ্যের আমল হিসেবে পড়ার সুযোগ রাখে না।"
+          },
+          {
+            "en": "In Muslim (2702), the Companion al-Agharr al-Muzani reports the Prophet's ﷺ words in a form addressed to everyone: \"O people, seek repentance from Allah. Verily, I seek repentance from Him a hundred times a day.\" The Arabic verb is tubu, turn to Allah. Here the Prophet ﷺ names his own practice as the reason for the call to others. The link is drawn by this article, not by the commentators, but it matches what Ibn Kathir and al-Baghawi said of the verse: a command that stirs the Ummah, and a practice left as a sunnah for those after him.",
+            "bn": "মুসলিমে (২৭০২) সাহাবী আগার আল-মুযানী (রাঃ) নবী ﷺ-এর কথাটি বর্ণনা করেন সবাইকে সম্বোধনের ভঙ্গিতে: \"হে লোকসকল, তোমরা আল্লাহর কাছে তওবা করো। কেননা আমি দিনে এক শ বার তাঁর কাছে তওবা করি।\" আরবি ক্রিয়াটি তূবূ, অর্থাৎ আল্লাহর দিকে ফিরে এসো। এখানে নবী ﷺ নিজের আমলকেই অন্যদের ডাকার কারণ হিসেবে দেখান। যোগসূত্রটি এ লেখার, তাফসীরকারদের নয়। তবু তা মেলে আয়াত সম্পর্কে ইবন কাসীর ও বাগাভীর কথার সঙ্গে: আদেশটি উম্মাহকে উদ্বুদ্ধ করে, আর আমলটি পরের লোকদের জন্য সুন্নাত হয়ে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glorifying, Carried by Praise",
+          "bn": "প্রশংসায় মোড়া তাসবীহ"
+        },
+        "p": [
+          {
+            "en": "Wa-sabbih bi-hamdi rabbika: and glorify, with the praise of your Lord. At-Tabari takes sabbih here as the prayer: pray, with thanks from you to your Lord. Al-Baghawi says almost the same: pray, giving thanks to your Lord. Al-Qurtubi explains bi-hamdi rabbika as with thanks to Him and praise of Him. Al-Muyassar keeps tasbih in its root sense and adds a word for constancy: keep on declaring your Lord far above whatever does not befit Him. So the commentators already divide between a named act of worship and a constant remembrance.",
+            "bn": "ওয়া সাব্বিহ বিহামদি রাব্বিকা: আর রবের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করুন। তাবারী এখানে সাব্বিহ মানে নেন সালাত: রবের প্রতি আপনার শোকরসহ সালাত আদায় করুন। বাগাভীও প্রায় একই কথা বলেন: রবের শোকর আদায় করে সালাত পড়ুন। কুরতুবী বিহামদি রাব্বিকা-র ব্যাখ্যা দেন, তাঁর শোকর ও তাঁর গুণগান সহকারে। মুয়াসসার তাসবীহকে রাখে তার মূল অর্থে, আর সঙ্গে জুড়ে দেয় লেগে থাকার একটি শব্দ: যা কিছু রবের শানে মানায় না, তা থেকে তাঁর পবিত্রতা ঘোষণা করতে থাকুন। ফলে তাফসীরকারদের মধ্যেই দুটি পাঠ দেখা যায়: নির্দিষ্ট এক ইবাদত, আর নিরন্তর জিকির।"
+          },
+          {
+            "en": "Al-Qurtubi records a further reading under qila, and it ties the clause back to the start of the verse: keep up tasbih in the prayer and outside it, so that you are occupied by it and kept from hastening the victory. As-Sa'di sees the three commands as parts of a design: patience, through which what is loved is obtained; istighfar, through which what is feared is repelled; and tasbih with Allah's praise. The wait for the promise is not left empty. It is filled with forgiveness sought and praise given.",
+            "bn": "কুরতুবী কীলা দিয়ে আরেকটি পাঠ আনেন, যা বাক্যটিকে আয়াতের শুরুর সঙ্গে বেঁধে দেয়: সালাতের ভেতরে ও বাইরে তাসবীহে লেগে থাকুন, যাতে তাতে ব্যস্ত থেকে বিজয়ের জন্য তাড়াহুড়া না করেন। সা'দী তিনটি আদেশকে দেখেন একটি নকশার অংশ হিসেবে। সবর, যার মাধ্যমে প্রিয় জিনিস লাভ হয়। ইস্তিগফার, যার মাধ্যমে ভয়ের জিনিস দূর হয়। আর আল্লাহর প্রশংসাসহ তাসবীহ। ওয়াদার জন্য অপেক্ষার সময়টা তাই ফাঁকা থাকে না। তা ভরে ওঠে ক্ষমা চাওয়া আর প্রশংসা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Midday to Sunrise",
+          "bn": "দুপুর গড়ানো থেকে সূর্যোদয়"
+        },
+        "p": [
+          {
+            "en": "Bi-l-'ashiyyi wa-l-ibkar: in the evening and the early morning. At-Tabari gives precise bounds. Al-'ashiyy runs from the sun's decline past midday until night; al-ibkar from the rise of the second, true dawn until sunrise. He notes that some took al-ibkar to run from sunrise until the forenoon is high and its time has passed, and says the first meaning is what the Arabs know. Ibn Kathir gives broader edges: the last part of the day and the first of the night, then the first part of the day and the last of the night.",
+            "bn": "বিল-'আশিয়্যি ওয়াল-ইবকার: সন্ধ্যায় ও ভোরে। তাবারী নিখুঁত সীমা টেনে দেন। আল-'আশিয়্য শুরু হয় দুপুরে সূর্য হেলে পড়ার পর, চলে রাত পর্যন্ত। আল-ইবকার শুরু হয় দ্বিতীয় তথা প্রকৃত ফজর থেকে, শেষ হয় সূর্যোদয়ে। তিনি জানান, কেউ কেউ ইবকারকে ধরেছেন সূর্যোদয় থেকে চাশতের সময় উঁচু হয়ে তা পার হয়ে যাওয়া পর্যন্ত। তবে তাঁর মতে আরবদের কাছে পরিচিত অর্থ প্রথমটিই। ইবন কাসীর সীমা টানেন আরেকটু চওড়া করে: দিনের শেষ ভাগ ও রাতের প্রথম ভাগ, তারপর দিনের প্রথম ভাগ ও রাতের শেষ ভাগ।"
+          },
+          {
+            "en": "At-Tabari also records a question of grammar. The preposition bi- stands before al-'ashiyy, where it sits naturally, but not before al-ibkar, which is joined by and alone, and bi- would not sit well there. A Basran grammarian took the meaning as in the evening and in the morning, since bi- can mean in, as one says bi-d-dari Zayd, Zayd is in the house. Another said the sense is pray with praise at these two times and in them, so the one bi- serves both. Either way, the two times stand under one command.",
+            "bn": "তাবারী ব্যাকরণের একটি প্রশ্নও তুলে ধরেন। বি অব্যয়টি আল-'আশিয়্য শব্দের আগে আছে, সেখানে তা স্বাভাবিকভাবে বসে। কিন্তু আল-ইবকারের আগে নেই, সেটি যুক্ত হয়েছে শুধু 'ওয়া' দিয়ে, আর সেখানে বি ঠিক মানাত না। বসরার এক ব্যাকরণবিদের মতে অর্থ হলো সন্ধ্যায় ও ভোরে, কারণ বি কখনো 'মধ্যে' অর্থ দেয়। যেমন বলা হয়, বিদ-দারি যায়দ, অর্থাৎ যায়দ ঘরে আছে। আরেকজন বলেন, মর্মার্থ হলো এ দুই সময়ে ও এ দুই সময়ের ভেতরে প্রশংসাসহ সালাত পড়ুন, তাই একটি বি-ই দুটোর কাজ করে। যেভাবেই পড়া হোক, দুটি সময় এক আদেশের অধীনেই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Prayers, or All Five",
+          "bn": "দুই ওয়াক্ত, নাকি পাঁচ"
+        },
+        "p": [
+          {
+            "en": "Did the verse mean particular prayers? Al-Qurtubi reports from al-Hasan and Qatada that the two times are the Fajr prayer and the Asr prayer. Al-Baghawi gives the same from al-Hasan and adds from Ibn Abbas: the five prayers. Al-Qurtubi also cites al-Mawardi reporting, again from al-Hasan, that this was a prayer at Makka before the five were made obligatory: two rak'as in the morning and two in the evening. If so, al-Qurtubi comments, it would be among what was abrogated, and Allah knows best.",
+            "bn": "আয়াতে কি নির্দিষ্ট কোনো সালাত বোঝানো হয়েছে? কুরতুবী হাসান ও কাতাদা থেকে বর্ণনা করেন, দুটি সময় মানে ফজরের সালাত ও আসরের সালাত। বাগাভী হাসান থেকে একই কথা আনেন, আর ইবন আব্বাস (রাঃ) থেকে যোগ করেন: পাঁচ ওয়াক্ত সালাত। কুরতুবী মাওয়ারদীর সূত্রে আবারও হাসান থেকে আরেকটি বর্ণনা আনেন: পাঁচ ওয়াক্ত ফরয হওয়ার আগে মক্কায় একটি সালাত ছিল, সকালে দুই রাকআত আর সন্ধ্যায় দুই রাকআত। কুরতুবীর মন্তব্য, তা-ই হলে এটি রহিত বিষয়গুলোর মধ্যে পড়বে, আর আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "As-Sa'di names no single prayer. The evening and the early morning, he says, are the best of times, holding obligatory and recommended devotions and duties, and in them is help for every matter. These readings are kept here side by side: two prayers, all five, an early Makkan prayer, or the remembrance of the day's two ends. A similar pairing appears in 20:130, where patience is followed by glorifying with praise before sunrise and before sunset, and the opening words of this verse return in 40:77.",
+            "bn": "সা'দী নির্দিষ্ট কোনো সালাতের নাম নেন না। তাঁর মতে সন্ধ্যা আর ভোর সর্বোত্তম সময়। এ দুই সময়ে আছে ফরয ও মুস্তাহাব নানা ওযীফা ও দায়িত্ব, আর এতে রয়েছে সব কাজে সাহায্য। মতগুলো এখানে পাশাপাশি থাকছে: দুই ওয়াক্ত, পাঁচ ওয়াক্ত, মক্কার প্রথম যুগের এক সালাত, কিংবা দিনের দুই প্রান্তের জিকির। একই রকম জোড়া দেখা যায় ২০:১৩০ আয়াতে, যেখানে সবরের পরেই আসে সূর্যোদয়ের আগে ও সূর্যাস্তের আগে প্রশংসাসহ তাসবীহের আদেশ। আর এ আয়াতের শুরুর কথাগুলো আবার ফিরে আসে ৪০:৭৭ আয়াতে।"
+          },
+          {
+            "en": "Read whole, the verse gives the waiting believer a shape for the wait. Patience leans on a promise that will not be broken. Forgiveness is sought even by the one who needed it least, and in the narrations he made it a daily practice of seventy and a hundred times. Praise is given its hours, at the day's two edges. None of the three depends on seeing the help arrive. Each can be done today, by anyone, while the outcome stays with Allah.",
+            "bn": "পুরো আয়াতটি একসঙ্গে পড়লে অপেক্ষমাণ মুমিন তার অপেক্ষার একটা কাঠামো পায়। সবর ভর দেয় এমন ওয়াদার উপর, যা ভাঙবে না। ক্ষমা চান এমনকি তিনিও, যাঁর তা সবচেয়ে কম দরকার ছিল, আর বর্ণনাগুলোতে দেখা যায় তিনি একে দিনে সত্তর ও এক শ বারের নিয়মিত আমল বানিয়েছিলেন। প্রশংসার জন্য বাঁধা আছে দিনের দুই প্রান্তের সময়। তিনটির কোনোটিই সাহায্য আসতে দেখার উপর নির্ভর করে না। যে কেউ আজই প্রতিটি পালন করতে পারে, আর পরিণাম থাকে আল্লাহর হাতে।"
+          }
+        ]
+      }
+    ]
+  },
   "40:60": {
     "sections": [
       {
