@@ -599,6 +599,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "53:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Lote Tree to Idols",
+          "bn": "সিদরা থেকে মূর্তির দিকে"
+        },
+        "p": [
+          {
+            "en": "Afa-ra'aytumu l-Lata wa l-'Uzza: so have you considered al-Lat and al-'Uzza? Three Arabic words, and a sharp change of scene. The verses before it describe what the Prophet ﷺ saw at the Lote Tree, ending in 53:18 with the greatest signs of his Lord. Al-Qurtubi links the two. Having mentioned the revelation and the signs of His power, God argues with those who worshipped what has no understanding: these gods you worship, did they reveal anything to you as was revealed to Muhammad?",
+            "bn": "আফারাআইতুমুল লাতা ওয়াল উযযা: তোমরা কি লাত ও উযযাকে ভেবে দেখেছ? আরবিতে মাত্র তিনটি শব্দ, অথচ দৃশ্যটা এক ঝটকায় বদলে যায়। আগের আয়াতগুলোতে ছিল নবী ﷺ সিদরাতুল মুনতাহার কাছে কী দেখেছিলেন তার বর্ণনা, যা ৫৩:১৮-এ গিয়ে থামে তাঁর রবের সবচেয়ে বড় নিদর্শনগুলোতে। কুরতুবী দুই অংশকে সরাসরি জুড়ে দেন। নবী ﷺ-এর কাছে ওহি আর আল্লাহর কুদরতের নিদর্শনের কথা বলার পর আল্লাহ তর্কে নামেন তাদের সঙ্গে, যারা বোধহীন জিনিসের পূজা করত। যে উপাস্যদের তোমরা পূজা করো, মুহাম্মাদের কাছে যেমন ওহি এসেছে, তেমন কিছু কি তারা তোমাদের কাছে পাঠিয়েছে?"
+          },
+          {
+            "en": "The others frame the same turn in their own terms. Ibn Kathir calls the verse a rebuke to the idolaters for worshipping idols and for building them houses in imitation of the Ka'bah that Ibrahim (AS) had built. As-Sa'di says that after mentioning the guidance Muhammad ﷺ brought, God showed the falsehood of worshipping what has no attribute of perfection. The Muyassar puts it plainly: these gods you worship, did they ever benefit or harm, that they should be partners with God?",
+            "bn": "অন্য তাফসীরকারেরা একই মোড় নিজেদের ভাষায় ধরেন। ইবন কাসীরের মতে আয়াতটি মুশরিকদের প্রতি ধমক, কারণ তারা মূর্তিপূজা করত, আর ইবরাহীম (আঃ)-এর গড়া কাবার অনুকরণে সেগুলোর জন্য ঘর বানাত। সা'দী বলেন, মুহাম্মাদ ﷺ যে হেদায়াত নিয়ে এসেছেন তার কথা বলার পর আল্লাহ দেখিয়ে দিয়েছেন সেই পূজার অসারতা, যার উপাস্যের মধ্যে পূর্ণতার কোনো গুণই নেই। মুয়াসসার প্রশ্নটা সোজা করে বলে: যে উপাস্যদের তোমরা পূজা করো, তারা কি কখনো উপকার বা ক্ষতি করেছে যে আল্লাহর শরিক হবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rock Under a Roof",
+          "bn": "ছাদের নিচে এক পাথর"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir describes al-Lat as a white rock with engravings. Over it stood a house at at-Ta'if with curtains and custodians, and around it a courtyard honoured by Thaqif and those who followed them, who boasted of it over the other Arab clans, after Quraysh. From Ibn Ishaq he adds that its keepers were Banu Mu'attib. Al-Qurtubi's picture differs slightly: a square rock, with custodians from Thaqif, who had raised a building over it.",
+            "bn": "ইবন কাসীরের বর্ণনায় লাত ছিল খোদাই করা এক সাদা পাথর। তার উপর তায়েফে একটা ঘর, তাতে পর্দা ঝুলত, সেবায়েত থাকত। চারপাশের আঙিনাকে সাকীফ গোত্র ও তাদের অনুসারীরা খুব সম্মান করত, আর কুরাইশের পরে বাকি আরব গোত্রগুলোর সামনে এ নিয়ে গর্ব করত। ইবন ইসহাক থেকে তিনি আরও আনেন যে এর রক্ষক ছিল বনু মুআত্তিব। কুরতুবীর ছবি একটু আলাদা: চারকোনা এক পাথর, সেবায়েতরা সাকীফ গোত্রের, আর তারা পাথরটার উপর একটা ইমারত তুলেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi adds two details. Quraysh and all the Arabs honoured it, and by it the Arabs named their sons Zayd al-Lat and Taym al-Lat. And it stood where the left minaret of the mosque of at-Ta'if later stood, until Thaqif accepted Islam and the Prophet ﷺ sent al-Mughirah ibn Shu'bah, who demolished it and burned it. Ibn Kathir, in a note of his own, names al-Mughirah ibn Shu'bah and Abu Sufyan Sakhr ibn Harb as the two sent, and says they put the mosque of at-Ta'if in its place.",
+            "bn": "কুরতুবী আরও দুটি তথ্য যোগ করেন। কুরাইশসহ সব আরব একে সম্মান করত, আর এর নাম জুড়ে আরবরা ছেলেদের নাম রাখত যায়দুল লাত, তাইমুল লাত। আর যেখানে পরে তায়েফের মসজিদের বাঁ দিকের মিনার দাঁড়িয়েছে, সেখানেই ছিল এটি। সাকীফ গোত্র ইসলাম গ্রহণ করা পর্যন্ত এভাবেই ছিল, তারপর নবী ﷺ মুগীরা ইবন শু'বা (রাঃ)-কে পাঠান, তিনি একে ভেঙে আগুনে পুড়িয়ে দেন। ইবন কাসীর নিজের মন্তব্যে পাঠানো দুজনের নাম বলেন মুগীরা ইবন শু'বা ও আবু সুফিয়ান সাখর ইবন হারব। তাঁর ভাষ্যে তাঁরা এর জায়গায় তায়েফের মসজিদ বানান।"
+          },
+          {
+            "en": "Not every report puts al-Lat at at-Ta'if. At-Tabari records the difference with its chains. Qatada said: as for al-Lat, it was at at-Ta'if. Ibn Zayd said: al-Lat was a house at Nakhlah that Quraysh worshipped. At-Tabari opens the point with it is mentioned for the Nakhlah view and some said for at-Ta'if, and leaves both standing. Al-Baghawi repeats the same two names, Qatada for at-Ta'if and Ibn Zayd for a house at Nakhlah. The location is a matter of report, and the reports differ.",
+            "bn": "সব বর্ণনা লাতকে তায়েফে রাখে না। তাবারী সনদসহ মতভেদটা লিখে রাখেন। কাতাদা বলেছেন, লাত ছিল তায়েফে। ইবন যায়দ বলেছেন, লাত ছিল নাখলায় একটা ঘর, কুরাইশরা যার পূজা করত। নাখলার মতটি তাবারী আনেন 'উল্লেখ করা হয়' বলে, আর তায়েফের মতটি 'কেউ কেউ বলেছেন' বলে, এবং দুটিকেই রেখে দেন। বাগাভীও একই দুজনের নাম নেন: তায়েফের পক্ষে কাতাদা, নাখলার ঘরের পক্ষে ইবন যায়দ। জায়গাটা বর্ণনার বিষয়, আর বর্ণনাগুলো এক নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Lat or al-Latt",
+          "bn": "লাত, নাকি লাত্ত"
+        },
+        "p": [
+          {
+            "en": "A single letter carries a second reading. At-Tabari reports that the readers of the main cities generally read al-Lat with a light ta. Ibn 'Abbas, Mujahid and Abu Salih read al-Latt, with the ta doubled, and made it a description of the idol they worshipped. They said he was a man who used to mix sawiq, a barley meal, for the pilgrims; when he died, they kept to his grave and worshipped him. At-Tabari gives the Mujahid report through several chains, and one from Ibn 'Abbas through Abu l-Jawza'.",
+            "bn": "একটিমাত্র অক্ষরে লুকিয়ে আছে দ্বিতীয় এক পাঠ। তাবারী জানান, বড় বড় শহরের কারীগণ সাধারণত লাত পড়েছেন হালকা তা দিয়ে। ইবন আব্বাস (রাঃ), মুজাহিদ ও আবু সালিহ পড়েছেন লাত্ত, তা-তে তাশদীদ দিয়ে, আর একে ধরেছেন সেই মূর্তির বিশেষণ হিসেবে, যার পূজা হতো। তাঁদের ভাষ্যে সে ছিল এক লোক, যে হাজীদের জন্য ছাতু গুলে দিত। লোকটি মারা গেলে মানুষ তার কবর আঁকড়ে বসে থাকল, তারপর তারই পূজা শুরু করল। মুজাহিদের এ বর্ণনা তাবারী কয়েকটি সনদে আনেন, আর ইবন আব্বাস থেকে একটি আনেন আবুল জাওযার সূত্রে।"
+          },
+          {
+            "en": "That report from Ibn 'Abbas is also in Sahih al-Bukhari (4859), and Ibn Kathir cites it. Its whole wording reads: on His words al-Lat and al-'Uzza, al-Lat was a man who used to mix the sawiq of the pilgrim. It is Ibn 'Abbas's own explanation, not a saying of the Prophet ﷺ. Al-Qurtubi adds another report from Ibn 'Abbas: the man sold sawiq and ghee beside a rock, and after his death Thaqif worshipped the rock. Al-Kalbi named him Sirmah ibn Ghanm.",
+            "bn": "ইবন আব্বাস (রাঃ)-এর এই কথাটি সহীহ বুখারীতেও আছে (৪৮৫৯), আর ইবন কাসীর তা উদ্ধৃত করেন। পুরো ভাষ্যটি এই: আল্লাহর বাণী 'লাত ও উযযা' সম্পর্কে তিনি বলেন, লাত ছিল এক লোক, যে হাজীদের ছাতু গুলে দিত। এটি ইবন আব্বাস (রাঃ)-এর নিজের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনা আনেন: লোকটি এক পাথরের পাশে ছাতু আর ঘি বেচত, তার মৃত্যুর পর সাকীফ গোত্র পাথরটারই পূজা শুরু করে। কালবী লোকটির নাম বলেছেন সিরমা ইবন গানম।"
+          },
+          {
+            "en": "At-Tabari then states his preference. The sounder of the two readings, in his view, is the light ta, with the meaning he had given, because the authorities among the readers of the cities agree on it. Al-Qurtubi says the same in his own words: the correct reading is al-Lat with the light letter, the name of an idol, and he notes this was the choice of al-Farra'. Both keep the doubled reading and its story on record as reports, while reading the verse itself with the single ta.",
+            "bn": "এরপর তাবারী নিজের পছন্দের কথা বলেন। তাঁর মতে দুই পাঠের মধ্যে অধিক সঠিক হালকা তা-এর পাঠ, তিনি যে অর্থ বলেছেন সেই অর্থে, কারণ শহরগুলোর কারীদের মধ্যে যাঁদের কথা প্রমাণ, তাঁরা এতে একমত। কুরতুবীও নিজের ভাষায় একই কথা বলেন। সঠিক পাঠ হালকা অক্ষরের লাত, এক মূর্তির নাম, আর তিনি জানান এটাই ছিল ফাররার পছন্দ। দুজনেই তাশদীদের পাঠ আর তার কাহিনি বর্ণনা হিসেবে লিখে রাখেন, কিন্তু আয়াতটি নিজে পড়েন এক তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Trees in the Valley of Nakhlah",
+          "bn": "নাখলা উপত্যকার গাছের ঝাড়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir describes al-'Uzza as a tree with a building and curtains over it at Nakhlah, between Makkah and at-Ta'if, held in honour by Quraysh. He recalls Abu Sufyan's cry at Uhud, we have al-'Uzza and you have no 'Uzza, and the Prophet's ﷺ reply as he gives it: say, Allah is our Protector, and you have no protector. The answer does not trade one name for another. It sets the One who protects against a name that cannot.",
+            "bn": "উযযার বর্ণনা ইবন কাসীর দেন এভাবে: নাখলায়, মক্কা আর তায়েফের মাঝখানে, একটা গাছ, তার উপর ইমারত ও পর্দা, আর কুরাইশরা একে সম্মান করত। তিনি মনে করিয়ে দেন উহুদের দিনে আবু সুফিয়ানের হাঁক: আমাদের আছে উযযা, তোমাদের কোনো উযযা নেই। আর তাঁর ভাষ্যে নবী ﷺ-এর জবাব: বলো, আল্লাহ আমাদের অভিভাবক, তোমাদের কোনো অভিভাবক নেই। জবাবটা এক নামের বদলে আরেক নাম বসায় না। যিনি সত্যিই রক্ষা করেন, তাঁকে দাঁড় করায় এমন এক নামের সামনে, যার রক্ষা করার ক্ষমতা নেই।"
+          },
+          {
+            "en": "At-Tabari himself records that the people of interpretation differed over what al-'Uzza was. Mujahid said: small trees. Sa'id ibn Jubayr said: a white stone. Ibn Zayd said: a house at at-Ta'if that Thaqif worshipped. Others said it was at Batn Nakhlah. Al-Qurtubi adds Qatada's view, a plant at Batn Nakhlah, and al-Baghawi has Mujahid placing it as a tree among Ghatafan. So al-Lat and al-'Uzza are each placed at Nakhlah by one report and at at-Ta'if by another, and the commentators record the reports without settling them.",
+            "bn": "উযযা আসলে কী ছিল, তা নিয়ে তাফসীরবিদদের মতভেদ তাবারী নিজেই লিখে রাখেন। মুজাহিদ বলেছেন, ছোট ছোট কয়েকটি গাছ। সাঈদ ইবন জুবায়র বলেছেন, এক সাদা পাথর। ইবন যায়দ বলেছেন, তায়েফে একটা ঘর, সাকীফ গোত্র যার পূজা করত। আবার কেউ বলেছেন, তা ছিল বাতনে নাখলায়। কুরতুবী যোগ করেন কাতাদার মত, বাতনে নাখলার এক উদ্ভিদ। আর বাগাভীর বর্ণনায় মুজাহিদ একে গাতাফান গোত্রের এক গাছ বলেছেন। অর্থাৎ লাত আর উযযা দুটিকেই কোনো বর্ণনা রাখে নাখলায়, কোনো বর্ণনা তায়েফে। তাফসীরকারেরা বর্ণনাগুলো লিখে রাখেন, মীমাংসা করেন না।"
+          },
+          {
+            "en": "Ibn Kathir relays from an-Nasa'i a report from Abu t-Tufayl. When the Prophet ﷺ conquered Makkah he sent Khalid ibn al-Walid to Nakhlah, where al-'Uzza stood on three acacia trees. Khalid cut the trees down and demolished the house over them. The Prophet ﷺ told him to go back, for he had not yet done anything. On his return the custodians called out to al-'Uzza, Khalid struck down what he found there, and the Prophet ﷺ said: that was al-'Uzza. Al-Qurtubi and al-Baghawi carry other versions of the same event.",
+            "bn": "ইবন কাসীর নাসাঈ থেকে আবুত তুফায়লের একটি বর্ণনা আনেন। মক্কা বিজয়ের পর নবী ﷺ খালিদ ইবনুল ওয়ালীদ (রাঃ)-কে নাখলায় পাঠান, যেখানে তিনটি বাবলা জাতীয় গাছের উপর ছিল উযযা। খালিদ গাছগুলো কেটে ফেলেন, উপরের ঘরটাও ভেঙে দেন। নবী ﷺ তাঁকে বললেন, ফিরে যাও, তুমি আসলে কিছুই করোনি। দ্বিতীয়বার যেতেই সেবায়েতরা উযযাকে ডাকতে লাগল। খালিদ সেখানে যা পেলেন, তাকে আঘাত করে শেষ করে দিলেন। ফিরে এলে নবী ﷺ বললেন, ওটাই ছিল উযযা। কুরতুবী আর বাগাভী একই ঘটনার অন্য রূপ বর্ণনা করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Third, at Qudayd",
+          "bn": "তৃতীয়টি, কুদাইদে"
+        },
+        "p": [
+          {
+            "en": "Manat is named in the next verse, but Ibn Kathir describes it here with the other two. It stood at al-Mushallal near Qudayd, between Makkah and Madinah; Khuza'ah, al-Aws and al-Khazraj honoured it before Islam and began their talbiyah for Hajj from it. He notes a report from 'A'ishah in al-Bukhari to the same effect. In it (Bukhari 4861) Sufyan adds that Manat was at al-Mushallal in Qudayd, though the report explains a different verse, 2:158, not this one.",
+            "bn": "মানাতের নাম আসে পরের আয়াতে, তবে ইবন কাসীর অন্য দুটির সঙ্গে এখানেই এর বিবরণ দেন। এটা ছিল মক্কা আর মদিনার মাঝখানে, কুদাইদের কাছে মুশাল্লালে। ইসলামের আগে খুযাআ, আওস ও খাযরাজ গোত্র একে সম্মান করত, আর হজের তালবিয়া শুরু করত এখান থেকেই। তিনি জানান, বুখারীতে আয়েশা (রাঃ) থেকে এ অর্থের একটি বর্ণনা আছে। সেই বর্ণনায় (বুখারী ৪৮৬১) সুফিয়ান যোগ করেন, মানাত ছিল কুদাইদের মুশাল্লালে। তবে বর্ণনাটি ব্যাখ্যা করে অন্য আয়াত, ২:১৫৮, এই আয়াত নয়।"
+          },
+          {
+            "en": "Who held Manat, and who demolished it, the commentators report differently. Al-Qurtubi says first that it belonged to Banu Hilal, then quotes Hisham that it belonged to Hudhayl and Khuza'ah, and that the Prophet ﷺ sent 'Ali, who demolished it in the year of the conquest. Ibn Kathir, from Ibn Ishaq, says it belonged to al-Aws and al-Khazraj and the people of Yathrib, and that Abu Sufyan Sakhr ibn Harb was sent to demolish it, adding: it is said, 'Ali ibn Abi Talib. Both names are kept here as they reported them.",
+            "bn": "মানাত কাদের ছিল আর কে তা ভেঙেছিল, এ নিয়ে তাফসীরকারদের বর্ণনা ভিন্ন। কুরতুবী প্রথমে বলেন, এটা ছিল বনু হিলালের। তারপর হিশামের সূত্রে বলেন, এটা ছিল হুযায়ল ও খুযাআর, আর নবী ﷺ আলী (রাঃ)-কে পাঠান, তিনি মক্কা বিজয়ের বছর একে ভেঙে ফেলেন। ইবন কাসীর ইবন ইসহাকের সূত্রে বলেন, এটা ছিল আওস, খাযরাজ ও ইয়াসরিববাসীর। ভাঙতে পাঠানো হয়েছিল আবু সুফিয়ান সাখর ইবন হারবকে, সঙ্গে যোগ করেন: বলা হয়, আলী ইবন আবী তালিব। দুটি নামই এখানে রাখা হলো, তাঁরা যেভাবে বর্ণনা করেছেন।"
+          },
+          {
+            "en": "Why these three, when Arabia had many more? Ibn Kathir answers directly: other tawaghit stood in the peninsula and beyond, honoured as the Ka'bah was honoured, and these three were singled out because they were the best known. He quotes Ibn Ishaq that such houses had custodians and veils, received offerings, were circled and had animals slaughtered at them, while their worshippers knew the Ka'bah stood above them as the house of Ibrahim (AS). Ma'arif al-Qur'an likewise calls the three the most popular, held by strong and powerful tribes.",
+            "bn": "আরবে তো আরও অনেক মূর্তি ছিল, তবে এই তিনটিই কেন? ইবন কাসীর সরাসরি জবাব দেন। আরব উপদ্বীপে ও তার বাইরে আরও অনেক তাগূত ছিল, কাবার মতোই যাদের সম্মান করা হতো। এই তিনটিকে আলাদা করে বলা হয়েছে, কারণ এগুলোই ছিল সবচেয়ে প্রসিদ্ধ। তিনি ইবন ইসহাকের কথা আনেন: এসব ঘরের সেবায়েত ও পর্দারক্ষী থাকত, সেখানে হাদিয়া আসত, তাওয়াফ হতো, পশু জবাই হতো। অথচ পূজারিরা জানত, ইবরাহীম (আঃ)-এর ঘর হিসেবে কাবার মর্যাদা এগুলোর উপরে। মাআরিফুল কুরআনও তিনটিকে বলে সবচেয়ে জনপ্রিয়, শক্তিশালী ও প্রভাবশালী গোত্রগুলোর উপাস্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names Bent From His Names",
+          "bn": "তাঁর নাম বাঁকিয়ে গড়া নাম"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's explanation of the name is grammatical. Al-Lat is from Allah, with a ta attached to make it feminine, just as the Arabs say 'Amr for a man and 'Amrah for a woman, or 'Abbas and 'Abbasah. In the same way, he says, the idolaters named their idols from the names of God: from Allah al-Lat, and from al-'Aziz, the Mighty, al-'Uzza. And they claimed these were daughters of God. That claim is what 53:21 and 53:22 go on to answer, so it is only pointed to here.",
+            "bn": "নামটির ব্যাখ্যা তাবারী দেন ব্যাকরণ দিয়ে। লাত এসেছে আল্লাহ থেকে, শেষে একটা তা জুড়ে স্ত্রীলিঙ্গ বানানো হয়েছে। আরবরা যেমন পুরুষকে বলে আমর আর নারীকে আমরা, কিংবা আব্বাস আর আব্বাসা। তাবারী বলেন, ঠিক এভাবেই মুশরিকরা আল্লাহর নাম থেকে তাদের মূর্তির নাম রেখেছিল: আল্লাহ থেকে লাত, আর আল-আযীয, মহাপরাক্রমশালী, থেকে উযযা। তারা দাবি করত, এরা আল্লাহর কন্যা। এ দাবির জবাব দেয় ৫৩:২১ ও ৫৩:২২, তাই এখানে শুধু ইঙ্গিতটুকু রইল।"
+          },
+          {
+            "en": "As-Sa'di completes the set. They named al-Lat from al-Ilah, the God truly worthy of worship, al-'Uzza from al-'Aziz, and Manat from al-Mannan, the Bestower. He calls this ilhad in the names of God, a twisting of them, and boldness in shirk. The names, he says, are stripped of the meanings they pretend to. Al-Qurtubi, from some commentators, derives Manat instead from mana, said when God measures out a thing, and al-Baghawi notes that some took al-'Uzza as the feminine of al-A'azz. That the names are only names is the argument of 53:23.",
+            "bn": "সা'দী তালিকাটা পূর্ণ করেন। তাঁর ভাষ্যে, ইবাদতের প্রকৃত হকদার আল-ইলাহ থেকে তারা রেখেছিল লাত, আল-আযীয থেকে উযযা, আর মহাদাতা আল-মান্নান থেকে মানাত। তিনি একে বলেন আল্লাহর নামে ইলহাদ, অর্থাৎ নামগুলোকে বাঁকিয়ে ফেলা, আর শিরকের দুঃসাহস। তাঁর মতে এই নামগুলো যে অর্থের ভান করে, সে অর্থ থেকে একেবারে খালি। কুরতুবী কিছু তাফসীরকারের সূত্রে মানাতের উৎস বলেন অন্যভাবে: 'মানা', যা বলা হয় আল্লাহ যখন কোনো কিছুর পরিমাণ নির্ধারণ করেন। বাগাভী জানান, কেউ কেউ উযযাকে আল-আআয, অর্থাৎ অধিক পরাক্রমশালী, শব্দের স্ত্রীলিঙ্গ ধরেছেন। নামগুলো যে শুধুই নাম, সে যুক্তি ৫৩:২৩-এর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Old Oath Slips Out",
+          "bn": "পুরোনো কসম মুখ ফসকে গেলে"
+        },
+        "p": [
+          {
+            "en": "These names did not vanish from people's mouths the day they accepted Islam. Ibn Kathir cites, and al-Bukhari records in his Sahih (4860), from Abu Hurayrah, that the Messenger of Allah ﷺ said: whoever swears and says in his oath, by al-Lat and al-'Uzza, let him say: la ilaha illa Allah. And whoever says to his companion, come, let me gamble with you, let him give in charity. The English on the page consulted adds the word forgetfully in brackets, a translator's gloss that is not in the Arabic.",
+            "bn": "ইসলাম গ্রহণের দিনই মানুষের মুখ থেকে এ নামগুলো মুছে যায়নি। ইবন কাসীর উদ্ধৃত করেন, আর ইমাম বুখারী তাঁর সহীহ গ্রন্থে (৪৮৬০) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: যে কসম খেতে গিয়ে তার কসমে বলে, লাত ও উযযার কসম, সে যেন বলে, লা ইলাহা ইল্লাল্লাহ। আর যে তার সঙ্গীকে বলে, এসো, তোমার সঙ্গে জুয়া খেলি, সে যেন সদকা করে। যে পৃষ্ঠা দেখা হয়েছে, তার ইংরেজি অনুবাদে বন্ধনীর মধ্যে 'ভুলবশত' কথাটি যোগ করা আছে। এটা অনুবাদকের ব্যাখ্যা, আরবি মূলে নেই।"
+          },
+          {
+            "en": "Ibn Kathir reads it with care: it applies to someone whose tongue ran ahead of him, because their tongues had grown used to such oaths in the Jahiliyyah. He supports this with a report he cites from an-Nasa'i. Sa'd ibn Abi Waqqas swore by al-Lat and al-'Uzza, and his companions told him he had said an ugly thing. He went to the Prophet ﷺ, who told him to say la ilaha illa Allah, the One without partner, to spit lightly to his left three times, to seek refuge in Allah from Shaytan, and not to do it again.",
+            "bn": "ইবন কাসীর হাদীসটি সাবধানে পড়েন। তাঁর মতে এটা তার জন্য, যার জিভ অভ্যাসের বশে আগে চলে যায়, কারণ জাহিলিয়াতের যুগে এমন কসমে তাদের মুখ অভ্যস্ত হয়ে গিয়েছিল। সমর্থনে তিনি নাসাঈ থেকে একটি বর্ণনা আনেন। সা'দ ইবন আবী ওয়াক্কাস (রাঃ) লাত ও উযযার কসম খেয়ে ফেলেছিলেন। সঙ্গীরা বলল, খুব খারাপ কথা বলেছ। তিনি নবী ﷺ-এর কাছে গেলেন। নবী ﷺ তাঁকে বললেন, লা ইলাহা ইল্লাল্লাহ ওয়াহদাহু লা শারীকা লাহু বলো, বাঁ দিকে তিনবার হালকা থুথু ফেলো, শয়তান থেকে আল্লাহর আশ্রয় চাও, আর আর কখনো এমন কোরো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What a Stone Can Answer",
+          "bn": "পাথর কী জবাব দিতে পারে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse speaks of al-Lat, al-'Uzza and Manat and of those who worshipped them in the Prophet's ﷺ time; it describes what the text describes and licenses nothing against any living person or community. The reports of demolition in this article are reports of what was done at the Prophet's ﷺ command after the conquest, as the commentators relate them. They are history to be read, not instructions for any reader today, and the verse itself asks a question rather than issuing an order.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি লাত, উযযা ও মানাতের কথা বলে, আর নবী ﷺ-এর যুগে যারা এদের পূজা করত তাদের কথা। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে, আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। এ লেখায় মূর্তি ভাঙার যে বর্ণনাগুলো এসেছে, তাফসীরকারদের ভাষ্যে সেগুলো মক্কা বিজয়ের পর নবী ﷺ-এর নির্দেশে ঘটা ঘটনা। এগুলো পড়ার মতো ইতিহাস, আজকের কোনো পাঠকের জন্য নির্দেশ নয়। আর আয়াত নিজেও হুকুম দেয় না, প্রশ্ন করে।"
+          },
+          {
+            "en": "For a reader today the Muyassar's question, did it ever benefit or harm, turns inward. As-Sa'di calls such names empty of meaning, and the test he implies is simple: does the thing I rely on have, in truth, what its name or reputation promises? Wealth, standing, a person, a habit inherited without question can all take a place in the heart that only Allah should hold. The verse asks me to look at each of them as its first listeners were asked to look at al-Lat and al-'Uzza.",
+            "bn": "আজকের পাঠকের কাছে মুয়াসসারের প্রশ্নটা, এরা কি কখনো উপকার বা ক্ষতি করেছে, ঘুরে আসে নিজের দিকে। সা'দী এমন নামকে বলেন অর্থশূন্য। তাঁর কথার ভেতরে একটা সহজ পরীক্ষা আছে: যার উপর আমি ভরসা করি, তার নাম বা খ্যাতি যা প্রতিশ্রুতি দেয়, সত্যিই কি তা তার মধ্যে আছে? সম্পদ, পদমর্যাদা, কোনো মানুষ, কিংবা প্রশ্ন ছাড়া পাওয়া কোনো অভ্যাস, এগুলোর যেকোনোটি হৃদয়ের সেই জায়গা দখল করে নিতে পারে, যা শুধু আল্লাহর। প্রথম শ্রোতাদের যেমন লাত আর উযযার দিকে তাকাতে বলা হয়েছিল, আয়াতটি আমাকেও তেমনি এদের প্রত্যেকটির দিকে তাকাতে বলে।"
+          }
+        ]
+      }
+    ]
+  },
   "53:23": {
     "sections": [
       {

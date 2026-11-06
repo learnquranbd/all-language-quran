@@ -27629,6 +27629,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "He was free of both failures, not knowing the way and leaving it knowingly; guard yourself against both, by learning what is right and by following what you have learned.",
     "lessonBn": "তিনি দুই ব্যর্থতা থেকেই মুক্ত ছিলেন: পথ না চেনা, আর চিনেও জেনেশুনে ছেড়ে যাওয়া। আপনিও দুটো থেকেই নিজেকে বাঁচান। যা সঠিক তা শিখুন, আর যা শিখেছেন তা মেনে চলুন।"
+  },
+  "53:19": {
+    "reflectionEn": "After the verses on what the Prophet ﷺ saw at the Lote Tree, the surah turns to its listeners with a question: have you considered al-Lat and al-'Uzza? It asks them to look closely. One was a rock under a roof, another stood among trees hung with curtains, and the third, Manat, waited on the road to Madinah. People had given them names, built houses for them and sworn by them. Set beside the revelation just described, they had revealed nothing and could neither help nor harm. The verse speaks of the idols of its own time and passes no verdict on anyone living. Its question still reaches me. What do I lean on that has a name and a house, but cannot answer?",
+    "reflectionBn": "নবী ﷺ সিদরাতুল মুনতাহার কাছে যা দেখেছিলেন, সে কথা শেষ হতেই সূরাটি শ্রোতাদের দিকে ফিরে প্রশ্ন করে: তোমরা কি লাত ও উযযাকে ভেবে দেখেছ? প্রশ্নটা চোখ মেলে তাকাতে বলে। একটি ছিল ছাদের নিচে রাখা পাথর, আরেকটি পর্দা ঝোলানো গাছের ঝাড়ের মাঝে, আর তৃতীয়টি মানাত, মদিনার পথের ধারে। মানুষ এগুলোর নাম রেখেছিল, ঘর বানিয়েছিল, এগুলোর নামে কসম খেত। একটু আগে যে ওহির বর্ণনা এল, তার পাশে রাখলে দেখা যায় এরা কিছুই নাজিল করেনি, উপকারও করতে পারে না, ক্ষতিও না। আয়াতটি তার নিজের যুগের মূর্তিগুলোর কথা বলে, আজকের কোনো মানুষের উপর রায় দেয় না। তবু প্রশ্নটা আমার কাছেও পৌঁছায়। আমি এমন কিসের উপর ভর দিয়ে আছি, যার নাম আছে, ঘর আছে, কিন্তু ডাকলে সাড়া দিতে পারে না?",
+    "pointsEn": [
+      "When I am afraid or in need, where does my heart turn first, and could that thing answer me if I called on it?",
+      "What have I honoured only because the people around me honour it, without ever asking whether it can benefit or harm?",
+      "Which old habits of speech still slip out of me, and do I correct them the moment I notice?",
+      "Is there anything I treat as untouchable that has never given me guidance, only a feeling of safety?",
+      "How often do I set what I rely on beside what Allah has revealed, and let the comparison decide?"
+    ],
+    "pointsBn": [
+      "ভয় পেলে বা ঠেকায় পড়লে আমার মন প্রথমে কোন দিকে ছোটে? সেটাকে ডাকলে কি সত্যিই সাড়া দিতে পারবে?",
+      "আশপাশের মানুষ সম্মান করে বলেই আমি কোন জিনিসকে সম্মান করে চলেছি, অথচ কখনো ভেবে দেখিনি তা উপকার বা ক্ষতি করার ক্ষমতা রাখে কি না?",
+      "পুরোনো কোন কথার অভ্যাস এখনো আমার মুখ ফসকে বেরিয়ে যায়? টের পাওয়ামাত্র কি আমি তা শুধরে নিই?",
+      "এমন কিছু কি আছে যাকে আমি ছোঁয়ার বাইরে রেখেছি, অথচ তা আমাকে কোনো দিন পথ দেখায়নি, শুধু নিরাপদ থাকার একটা অনুভূতি দিয়েছে?",
+      "যার উপর আমি ভরসা করি, তাকে আল্লাহর নাজিল করা কথার পাশে রেখে কতবার মিলিয়ে দেখি, আর সেই তুলনাকেই কি রায় দিতে দিই?"
+    ],
+    "lessonEn": "Measure everything you rely on by whether it can truly help or harm, and give your worship and your oaths to Allah alone, who alone answers.",
+    "lessonBn": "যার উপর ভরসা করেন, তা সত্যিই উপকার বা ক্ষতি করতে পারে কি না, সেই মাপকাঠিতে যাচাই করুন। ইবাদত আর কসম শুধু আল্লাহর জন্য রাখুন, কারণ সাড়া দেন একমাত্র তিনিই।"
   }
 };
 
