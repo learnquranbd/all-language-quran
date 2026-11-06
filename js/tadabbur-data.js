@@ -28827,6 +28827,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Justice and injustice share one root and part by direction; when the truth reaches you, turn towards it, for those who swerve from it become fuel for the Fire.",
     "lessonBn": "ন্যায় আর অন্যায়ের ধাতু একই, তফাত শুধু মুখ ফেরানোর দিকে। সত্য আপনার কাছে পৌঁছালে তার দিকে ফিরুন, কারণ যারা তা থেকে সরে যায় তারা আগুনের জ্বালানি হয়।"
+  },
+  "70:25": {
+    "reflectionEn": "Two words finish the sentence about wealth: for the one who asks, and the one deprived. The first is easy to see. A hand is held out, a voice asks, and the giver can answer. The second is harder. The deprived may be someone whose harvest failed, whose savings vanished in one loss, or who would sooner go hungry than ask. Nobody brings that person to my door. The verse places both inside the wealth of the people of prayer, as a right already there, not a favour waiting to be granted. So the question is not only whether I give when asked. It is whether I go looking for the one who never will ask.",
+    "reflectionBn": "সম্পদের কথা যে বাক্যে শুরু, তা শেষ হয় দুটি শব্দে: যে চায় তার জন্য, আর যে বঞ্চিত তার জন্য। প্রথমজনকে দেখা সহজ। হাত বাড়ানো থাকে, মুখে চাওয়া থাকে, দাতা চাইলে সাড়া দিতে পারেন। দ্বিতীয়জনকে দেখা কঠিন। সে হয়তো এমন কেউ, যার ফসল মার খেয়েছে, এক ধাক্কায় যার জমানো টাকা উধাও হয়েছে, কিংবা যে না খেয়ে থাকবে তবু হাত পাতবে না। এমন মানুষকে কেউ আমার দরজায় এনে দাঁড় করায় না। আয়াতটি দুজনকেই নামাযি মানুষদের সম্পদের ভেতরে বসিয়ে দেয়। এ এমন হক, যা আগে থেকেই সেখানে আছে, কারও দয়ার অপেক্ষায় নেই। তাই প্রশ্ন শুধু এটুকু নয় যে চাইলে আমি দিই কি না। প্রশ্ন হলো, যে কোনো দিন চাইবে না, তাকে কি আমি খুঁজে বের করি?",
+    "pointsEn": [
+      "When someone asks me for help, is my first response patience or suspicion?",
+      "Who near me has lost something this year, a job, a crop, savings, and has said nothing about it?",
+      "Do I think of what I give as a right that already belongs to others, or as a favour I chose to do?",
+      "Whom do I know who would never ask, and how could I help them without wounding their dignity?",
+      "Before I plan what to buy next, have I set aside the share that is owed from what I hold?"
+    ],
+    "pointsBn": [
+      "কেউ আমার কাছে সাহায্য চাইলে আমার প্রথম প্রতিক্রিয়া কী হয়, ধৈর্য নাকি সন্দেহ?",
+      "আমার আশপাশে কে এ বছর কিছু হারিয়েছে, চাকরি, ফসল বা জমানো টাকা, অথচ মুখ ফুটে কিছু বলেনি?",
+      "যা দিই, তাকে কি আমি অন্যের প্রাপ্য হক মনে করি, নাকি নিজের ইচ্ছায় করা অনুগ্রহ?",
+      "এমন কাকে চিনি যে কখনো চাইবে না? তার সম্মানে আঘাত না দিয়ে কীভাবে তার পাশে দাঁড়াতে পারি?",
+      "এরপর কী কিনব তা ভাবার আগে, আমার হাতে যা আছে তা থেকে প্রাপ্য অংশটা কি আলাদা করে রেখেছি?"
+    ],
+    "lessonEn": "Your wealth holds a right for the one who asks and the one who stays silent; answer the hand held out, and go looking for the one who will not ask.",
+    "lessonBn": "আপনার সম্পদে হক আছে যে চায় তার, আর যে চুপ থাকে তারও; বাড়ানো হাতে সাড়া দিন, আর যে চাইবে না তাকে খুঁজে নিন।"
   }
 };
 

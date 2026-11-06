@@ -903,6 +903,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "70:25": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words That Close a Sentence",
+          "bn": "এক বাক্যের শেষ দুই শব্দ"
+        },
+        "p": [
+          {
+            "en": "Li-s-sa'ili wa-l-mahrum: for the one who asks and the one deprived. The verse is two Arabic words, and it cannot stand alone. It completes 70:24, wa-lladhina fi amwalihim haqqun ma'lum, and those in whose wealth is a known right. Surah al-Ma'arij has called the human being anxious when harm touches him and withholding when good does, and has then excepted the people of prayer (70:22). Wealth is the second mark of that exception, and these two words name the people it is owed to.",
+            "bn": "লিস-সাইলি ওয়াল-মাহরূম: যে চায় তার জন্য, আর যে বঞ্চিত তার জন্য। আয়াতটি মাত্র দুটি আরবি শব্দের, একা দাঁড়াতে পারে না। এটি ৭০:২৪ আয়াতের বাক্যকে পূর্ণ করে: ওয়াল্লাযীনা ফী আমওয়ালিহিম হাক্কুন মা'লূম, আর যাদের সম্পদে আছে একটি নির্ধারিত হক। সূরা মাআরিজ আগেই মানুষকে এঁকেছে এমনভাবে যে বিপদ ছুঁলে সে অস্থির, আর কল্যাণ ছুঁলে কৃপণ। তারপর নামাযিদের সেই ছবি থেকে আলাদা করেছে (৭০:২২)। সম্পদ সেই ব্যতিক্রমের দ্বিতীয় চিহ্ন। আর এই দুই শব্দ বলে দেয়, সে সম্পদে কাদের পাওনা।"
+          },
+          {
+            "en": "Ibn Kathir glosses the two verses together: in their wealth is a fixed portion for those in need, and the discussion of it, he says, has already come in Surah adh-Dhariyat. Al-Qurtubi says the same in a single line, and al-Baghawi sets down the words of the verse with no comment at all. The weight here falls on at-Tabari, who gives the clause a long entry of its own, and on as-Sa'di, who defines both words in one sentence.",
+            "bn": "ইবন কাসীর দুটি আয়াতের ব্যাখ্যা একসঙ্গে দেন: তাদের সম্পদে অভাবীদের জন্য একটি নির্ধারিত অংশ আছে। এ নিয়ে আলোচনা, তিনি বলেন, সূরা যারিয়াতে আগেই হয়ে গেছে। কুরতুবীও এক লাইনে একই কথা বলে থামেন। আর বাগাভী আয়াতের শব্দগুলো লিখে রাখেন, কোনো মন্তব্য ছাড়াই। তাই এখানে ভার পড়ে তাবারীর উপর, যিনি এই অংশের জন্য আলাদা দীর্ঘ আলোচনা রেখেছেন, আর সা'দীর উপর, যিনি এক বাক্যে দুটি শব্দেরই সংজ্ঞা দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hand Held Out",
+          "bn": "যে হাত বাড়িয়ে চায়"
+        },
+        "p": [
+          {
+            "en": "On the first word there is little dispute. At-Tabari, opening his reading of 70:24, glosses the pair as the asker who asks the giver from his wealth, and states that the commentators agreed the asker is the one so described. Qatada, in a report at-Tabari carries, says the sa'il is the one who asks with his palm. As-Sa'di calls him the one who puts himself forward to ask, and al-Muyassar the one who asks them for help. None of these glosses attaches a condition to him. With the first word settled so quickly, the commentators spend almost all their effort on the second: who is al-mahrum?",
+            "bn": "প্রথম শব্দটি নিয়ে মতভেদ সামান্য। তাবারী ৭০:২৪ আয়াতের ব্যাখ্যার শুরুতে বলেন, সাইল সেই ব্যক্তি, যে দাতার সম্পদ থেকে চায়। তারপর জানান, সাইল যে এমনই, এ ব্যাপারে তাফসীরকারেরা একই মত পোষণ করেন। তাবারীর আনা এক বর্ণনায় কাতাদা বলেন, সাইল হলো যে হাতের তালু মেলে চায়। সা'দী বলেন, যে নিজেকে চাওয়ার জন্য সামনে এনে দাঁড় করায়। আর মুয়াসসারের ভাষায়, যে তাদের কাছে সাহায্য চায়। এসব ব্যাখ্যার কোনোটিই সাইলের উপর কোনো শর্ত চাপায় না। প্রথম শব্দের মীমাংসা এত দ্রুত হয়ে যায় বলে তাফসীরকারদের প্রায় সব মনোযোগ গিয়ে পড়ে দ্বিতীয় শব্দে: মাহরূম কে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Mahrum as the Luckless",
+          "bn": "মাহরূম মানে ভাগ্যহত"
+        },
+        "p": [
+          {
+            "en": "The answer at-Tabari repeats most often is al-muharaf. Ibn Abbas, in several chains through Qays ibn Karkam, says al-mahrum is the muharaf who has no share in Islam. Sa'id ibn al-Musayyib says the muharaf; Ata adds the word mahdud; Nafi' says the muharaf. Al-Qurtubi, who at this verse only points back to adh-Dhariyat, explains the word there: a man is called muharaf when he is held back, the opposite of mubarak, blessed, and a man's earning is muharaf when his living is made hard, as if his provision were turned aside from him.",
+            "bn": "তাবারী যে উত্তর সবচেয়ে বেশিবার এনেছেন, তা হলো মুহারাফ। কায়স ইবন কারকামের একাধিক সূত্রে ইবন আব্বাস (রাঃ) বলেন, মাহরূম সেই মুহারাফ, ইসলামে যার কোনো অংশ নেই। সাঈদ ইবনুল মুসাইয়িবও বলেন মুহারাফ। আতা এর সঙ্গে যোগ করেন মাহদূদ শব্দটি, আর নাফি বলেন মুহারাফ। কুরতুবী এই আয়াতে শুধু সূরা যারিয়াতের দিকে ইঙ্গিত করেছেন, আর সেখানেই শব্দটির ব্যাখ্যা দিয়েছেন। কাউকে মুহারাফ বলা হয় যখন তাকে আটকে রাখা হয়েছে, মুবারক বা বরকতময়ের ঠিক উল্টো। কারও রোজগার মুহারাফ হয় যখন তার জীবিকা কঠিন করে দেওয়া হয়, যেন তার রিজিক তার কাছ থেকে সরিয়ে নেওয়া হয়েছে।"
+          },
+          {
+            "en": "The other reports shade the same figure differently. Mujahid says al-mahrum is the one to whom nothing is given as a gift, and he is a muharaf. Ibn Abbas, through Ali ibn Abi Talha, describes the muharaf who seeks the world while it turns its back on him, and who does not ask people. Ibrahim an-Nakha'i, in one report, says he is the muharaf who has no one to feel for him or give him anything, and in another, the one with no share of fay', public revenue, in Islam.",
+            "bn": "অন্য বর্ণনাগুলো একই মানুষের ছবিতে ভিন্ন ভিন্ন রং দেয়। মুজাহিদ বলেন, মাহরূম সে, যাকে কেউ কিছু উপহার দেয় না, আর সে মুহারাফ। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) এমন মুহারাফের কথা বলেন, যে দুনিয়ার পেছনে ছোটে আর দুনিয়া তার দিক থেকে মুখ ফিরিয়ে নেয়, তবু সে মানুষের কাছে হাত পাতে না। ইবরাহীম নাখঈ এক বর্ণনায় বলেন, সে এমন মুহারাফ, যার প্রতি মমতা দেখানোর বা যাকে কিছু দেওয়ার কেউ নেই। আরেক বর্ণনায় বলেন, ইসলামে যার ফাই বা রাষ্ট্রীয় আয়ের কোনো অংশ নেই।"
+          },
+          {
+            "en": "What does it mean to have no share in Islam? Ibn Kathir, who at this verse refers his reader to adh-Dhariyat, answers there: no share in the public treasury, no earnings, and no trade from which to feed himself. He also records from A'isha (RA) that the muharaf is the one whose earning barely comes easily to him. None of these glosses lays the poverty at his door; it is the door itself that keeps closing.",
+            "bn": "ইসলামে অংশ না থাকার মানে কী? ইবন কাসীর এই আয়াতে পাঠককে সূরা যারিয়াতের দিকে পাঠান, আর সেখানে উত্তর দেন: বায়তুল মালে তার কোনো অংশ নেই, রোজগার নেই, এমন কোনো পেশাও নেই যা দিয়ে নিজের পেট চালাবে। আয়েশা (রাঃ) থেকেও তিনি বর্ণনা করেন, মুহারাফ এমন একজন, যার রোজগার সহজে আসতেই চায় না। এসব ব্যাখ্যার কোনোটিই এ দারিদ্র্যের দায় তার ঘাড়ে চাপায় না। দরজাটাই যেন বারবার তার মুখের উপর বন্ধ হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arriving After the Spoils Were Shared",
+          "bn": "গনীমত ভাগ হয়ে যাওয়ার পরে"
+        },
+        "p": [
+          {
+            "en": "A second group of reports narrows al-mahrum to war spoils. Ibrahim, in another report at-Tabari carries, calls him the muharaf who has nothing in the ghanima. He also relates that people came to Ali (RA) in Kufa after the Battle of the Camel, and Ali said: give them a portion, and added, this is al-mahrum. The word here names a person who missed the division through no act of his own.",
+            "bn": "বর্ণনার আরেকটি দল মাহরূমকে যুদ্ধলব্ধ সম্পদের প্রসঙ্গে সীমিত করে। তাবারীর আনা আরেক বর্ণনায় ইবরাহীম বলেন, সে এমন মুহারাফ, গনীমতে যার কিছুই নেই। তিনি আরও জানান, জামালের যুদ্ধের পর কিছু লোক কূফায় আলী (রাঃ)-এর কাছে এল। আলী (রাঃ) বললেন, এদেরও ভাগ দাও। তারপর বললেন, এরাই মাহরূম। এখানে শব্দটি এমন মানুষকে বোঝায়, যে নিজের কোনো কাজের কারণে নয়, বরং অনুপস্থিত থাকায় ভাগ পায়নি।"
+          },
+          {
+            "en": "At-Tabari then gives, in four chains, a report from al-Hasan ibn Muhammad: the Prophet ﷺ sent out a raiding party, they took spoils, and people came who had not been present, and fi amwalihim haqqun ma'lum, li-s-sa'ili wa-l-mahrum was revealed about them. Every chain stops at al-Hasan ibn Muhammad, and none names a Companion who saw it. Ibn Kathir, meeting the same report at 51:19, objects that it would make that verse Medinan, which it is not. This article does not treat it as the verse's occasion.",
+            "bn": "এরপর তাবারী চারটি সূত্রে হাসান ইবন মুহাম্মাদের একটি বর্ণনা আনেন। নবী ﷺ একটি ছোট বাহিনী পাঠালেন, তারা গনীমত পেল। তারপর এমন কিছু লোক এল যারা অভিযানে ছিল না। তখন নাযিল হলো: ফী আমওয়ালিহিম হাক্কুন মা'লূম, লিস-সাইলি ওয়াল-মাহরূম, তাদের সম্পর্কেই। কিন্তু প্রতিটি সূত্র থেমে যায় হাসান ইবন মুহাম্মাদে এসে। কোনো সূত্রেই এমন কোনো সাহাবীর নাম নেই যিনি ঘটনাটি দেখেছেন। ইবন কাসীর ৫১:১৯ আয়াতে একই বর্ণনার মুখোমুখি হয়ে আপত্তি তোলেন: তাহলে তো সে আয়াত মাদানী হয়ে যায়, অথচ তা মাদানী নয়। তাই এ লেখা বর্ণনাটিকে আয়াতের শানে নুযূল হিসেবে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Struck by Flood or Blight",
+          "bn": "বন্যা বা ফসলহানির আঘাতে"
+        },
+        "p": [
+          {
+            "en": "A third group ties al-mahrum to sudden loss. Husayn asked Ikrima about the pair, and he answered: the asker is the one who asks you, and al-mahrum is the one whose wealth does not grow. Abu Qilaba tells of a flood at al-Yamama that carried off a man's wealth; one of the Companions of the Prophet ﷺ said, this is al-mahrum. In that report a single flood was enough to move a man from owning wealth to holding a right in the wealth of others.",
+            "bn": "তৃতীয় একদল বর্ণনা মাহরূমকে হঠাৎ ক্ষতির সঙ্গে যুক্ত করে। হুসাইন ইকরিমাকে এ দুজন সম্পর্কে জিজ্ঞেস করেছিলেন। তিনি বললেন, সাইল সে, যে তোমার কাছে চায়। আর মাহরূম সে, যার সম্পদ বাড়ে না। আবু কিলাবা বর্ণনা করেন, ইয়ামামায় একবার বন্যা এসে এক ব্যক্তির সম্পদ ভাসিয়ে নিয়ে যায়। নবী ﷺ-এর সাহাবীদের একজন বললেন, এ-ই মাহরূম। এই বর্ণনায় একটিমাত্র বন্যাই যথেষ্ট ছিল। যে লোকটি নিজে সম্পদের মালিক ছিল, সে-ই হয়ে গেল অন্যের সম্পদে হকদার।"
+          },
+          {
+            "en": "Ibn Zayd makes the same point from the Qur'an itself. Al-mahrum, he says, is the one whose fruit and crop have been struck, and he recited the passage of 56:63 to 56:67, where the farmers whose harvest is turned to debris say, bal nahnu mahrumun, rather, we are deprived. He then recited the words of the garden owners, inna la-dallun, bal nahnu mahrumun (68:26 and 68:27). Their story is told at 68:26 and is not retold here; those verses describe those owners alone and pass judgement on no one living.",
+            "bn": "ইবন যায়দ একই কথা বলেন কুরআনের ভেতর থেকেই। তাঁর মতে মাহরূম সে, যার ফল আর ফসল বিপদে পড়েছে। এরপর তিনি ৫৬:৬৩ থেকে ৫৬:৬৭ পর্যন্ত পড়েন, যেখানে ফসল খড়কুটো হয়ে যাওয়ার পর কৃষকেরা বলে: বাল নাহনু মাহরূমূন, বরং আমরা বঞ্চিত। তারপর পড়েন বাগানের মালিকদের কথা: ইন্না লাদাল্লূন, বাল নাহনু মাহরূমূন (৬৮:২৬ ও ৬৮:২৭)। তাদের কাহিনি ৬৮:২৬ আয়াতের আলোচনায় এসেছে, এখানে আবার বলা হবে না। সে আয়াতগুলো কেবল সেই মালিকদের বর্ণনা দেয়। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Who Will Not Ask",
+          "bn": "যে কখনো হাত পাতে না"
+        },
+        "p": [
+          {
+            "en": "The reading that sets the two words most sharply against each other comes from Qatada. The asker, he says, is the one who asks with his palm, and al-mahrum is al-muta'affif, the one who holds himself back from asking; and both of them, son of Adam, have a right upon you. Al-Muyassar keeps the same pair: the zakat is for whoever asks them for help and for whoever refrains from asking.",
+            "bn": "দুটি শব্দকে সবচেয়ে স্পষ্টভাবে মুখোমুখি দাঁড় করান কাতাদা। তিনি বলেন, সাইল সে, যে হাতের তালু মেলে চায়। আর মাহরূম হলো মুতাআফফিফ, যে নিজেকে চাওয়া থেকে বিরত রাখে। তারপর বলেন, হে আদম সন্তান, এ দুজনেরই তোমার উপর হক আছে। মুয়াসসারও একই জুটি ধরে রাখে। তার ভাষায় যাকাত তাদের জন্য, যারা সাহায্য চায়, আর তাদের জন্যও, যারা চাওয়া থেকে বিরত থাকে।"
+          },
+          {
+            "en": "As-Sa'di builds his whole gloss on this contrast. The sa'il is the one who puts himself forward to ask; al-mahrum is the miskin who does not ask people so that they would give him, and who is not noticed so that someone would give him charity. At-Tabari's own wording, at the head of 70:24, is close: al-mahrum is the one deprived of wealth, a poor man who does not ask.",
+            "bn": "সা'দী তাঁর পুরো ব্যাখ্যাই দাঁড় করান এই বৈপরীত্যের উপর। সাইল সে, যে চাওয়ার জন্য নিজেকে সামনে আনে। আর মাহরূম এমন একজন মিসকীন, যে মানুষের কাছে চায় না যাতে তারা তাকে দেয়, আবার কারও চোখেও পড়ে না যাতে কেউ তাকে সদকা দেয়। ৭০:২৪ আয়াতের শুরুতে তাবারীর নিজের ভাষাও কাছাকাছি: মাহরূম সে, যে সম্পদ থেকে বঞ্চিত, অভাবী, তবু চায় না।"
+          },
+          {
+            "en": "None of the commentaries fetched for 70:25 attaches a hadith to the verse. A narration in Sahih al-Bukhari (1479), not tied to this verse, uses words close to as-Sa'di's. Abu Hurayrah (RA) reports that the Messenger of Allah ﷺ said: The poor person is not the one who goes round the people and ask them for a mouthful or two (of meals) or a date or two but the poor is that who has not enough (money) to satisfy his needs and whose condition is not known to others, that others may give him something in charity, and who does not beg of people.",
+            "bn": "৭০:২৫ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে সহীহ বুখারীতে (১৪৭৯) একটি বর্ণনা আছে, যা এ আয়াতের সঙ্গে বাঁধা নয়, অথচ তার শব্দ সা'দীর শব্দের খুব কাছাকাছি। আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: মিসকীন সে নয়, যে মানুষের দ্বারে দ্বারে ঘোরে আর এক-দুই লোকমা বা এক-দুইটা খেজুর পেয়ে ফিরে যায়। বরং মিসকীন সে, যার এতটুকু সম্পদ নেই যা তাকে অভাবমুক্ত করে, যার অবস্থা কেউ টের পায় না যে তাকে সদকা দেবে, আর যে উঠে গিয়ে মানুষের কাছে চায়ও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seventy Years of Asking",
+          "bn": "সত্তর বছরের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Not every scholar asked gave an answer. Abu Bishr asked Sa'id ibn Jubayr about al-mahrum, and he said nothing about it. Al-Sha'bi said: it has worn me out to know what al-mahrum is. Al-Qurtubi, at 51:19, relays a longer form through Shu'ba: seventy years now since he came of age, al-Sha'bi said, he had been asking about al-mahrum, and he knew no more about it that day than on the first. The breadth of the word defeated men who spent their lives with the Qur'an.",
+            "bn": "যাঁকেই জিজ্ঞেস করা হয়েছে, সবাই উত্তর দেননি। আবু বিশর সাঈদ ইবন জুবাইরকে মাহরূম সম্পর্কে জিজ্ঞেস করেছিলেন, তিনি এ বিষয়ে কিছুই বলেননি। শা'বী বলেছেন, মাহরূম কে, তা জানতে গিয়ে আমি হয়রান হয়ে গেছি। কুরতুবী ৫১:১৯ আয়াতে শু'বার সূত্রে এর দীর্ঘতর রূপ আনেন। শা'বী বলেন, বালেগ হওয়ার পর আজ সত্তর বছর ধরে আমি মাহরূম সম্পর্কে জিজ্ঞেস করে আসছি, অথচ প্রথম দিনের চেয়ে আজ একটুও বেশি জানি না। যাঁরা সারা জীবন কুরআন নিয়ে কাটিয়েছেন, এই শব্দের বিস্তার তাঁদেরও হার মানিয়েছে।"
+          },
+          {
+            "en": "At-Tabari does not settle the question at 70:24. He says the commentators differ on al-mahrum here as they did at adh-Dhariyat, where he gave what he holds correct. There, at 51:19, he chose the general sense: the one deprived of provision and in need, whether through the loss of his wealth and fruit, through restraint and not asking, or through having no share in spoils because he was absent from the battle. No saying, he concludes, is more correct than letting it cover all of these.",
+            "bn": "তাবারী ৭০:২৪ আয়াতে প্রশ্নটির মীমাংসা করেন না। তিনি বলেন, এখানেও মাহরূম নিয়ে মতভেদ সূরা যারিয়াতের মতোই, আর সেখানেই তিনি নিজের কাছে যা সঠিক তা দেখিয়েছেন। সেখানে, ৫১:১৯ আয়াতে, তিনি ব্যাপক অর্থটি বেছে নেন। মাহরূম এমন একজন, যে রিজিক থেকে বঞ্চিত হয়ে অভাবে পড়েছে। তা হতে পারে সম্পদ আর ফল নষ্ট হওয়ায়, সংযম রেখে না চাওয়ায়, কিংবা যুদ্ধে অনুপস্থিত থাকায় গনীমতে অংশ না পাওয়ায়। তাঁর উপসংহার: সবগুলোকে শামিল করার চেয়ে সঠিক আর কোনো কথা নেই।"
+          },
+          {
+            "en": "Al-Qurtubi, at the same place, relays from Malik, through Ibn Wahb, that al-mahrum is the one deprived of provision, and he calls it a good saying because it takes in all the others. Others in at-Tabari's list kept to a single sense. The article records the general reading as at-Tabari's choice and al-Qurtubi's approval, and leaves the narrower readings beside it as their holders gave them.",
+            "bn": "একই জায়গায় কুরতুবী ইবন ওয়াহবের সূত্রে ইমাম মালিক থেকে বর্ণনা করেন: মাহরূম সে, যে রিজিক থেকে বঞ্চিত। কুরতুবী একে উত্তম মত বলেন, কারণ এটি বাকি সব মতকে ধারণ করে। তবে তাবারীর তালিকার অন্যরা একটিমাত্র অর্থেই স্থির ছিলেন। এ লেখা ব্যাপক অর্থটিকে তাবারীর পছন্দ আর কুরতুবীর সমর্থন হিসেবেই উল্লেখ করে। সংকীর্ণ অর্থগুলোও পাশে থাকে, যাঁরা যেভাবে বলেছেন সেভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Zakat, or a Right Beyond It",
+          "bn": "যাকাত, নাকি তার বাইরের হক"
+        },
+        "p": [
+          {
+            "en": "The two words name who is owed; 70:24 says what is owed, and here the commentators divide. At-Tabari's own gloss calls it haqqun mu'aqqat, a right fixed in time, and identifies it as the zakat. He then records both camps. Qatada: the known right is the zakat, the obligatory zakat. Others said it is a right besides the zakat. Ibn Abbas, through Ali ibn Abi Talha: besides sadaqa, by which one joins his kin, hosts a guest, carries another's burden or helps one deprived. Ibn Umar, asked whether it was the zakat, said: you owe rights besides that.",
+            "bn": "দুই শব্দ বলে দেয় পাওনা কার। আর কী পাওনা, তা বলে ৭০:২৪, সেখানেই তাফসীরকারেরা দুই ভাগ হয়ে যান। তাবারী নিজে একে বলেন হাক্কুন মুআক্কাত, সময়ে বাঁধা এক হক, আর তা হলো যাকাত। এরপর তিনি দুই পক্ষের কথাই লিপিবদ্ধ করেন। কাতাদা বলেন, নির্ধারিত হক মানে যাকাত, ফরয যাকাত। অন্যরা বলেন, এ যাকাতের বাইরের একটি হক। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন, এ সদকার বাইরের হক, যা দিয়ে মানুষ আত্মীয়তার বন্ধন রক্ষা করে, মেহমানদারি করে, অন্যের বোঝা বহন করে বা কোনো বঞ্চিতকে সাহায্য করে। ইবন উমর (রাঃ)-কে জিজ্ঞেস করা হলো, এ কি যাকাত? তিনি বললেন, তোমার উপর এর বাইরেও হক আছে।"
+          },
+          {
+            "en": "Al-Sha'bi and Ibrahim each say that in wealth there is a right besides the zakat, and Mujahid says the same of this verse. Al-Qurtubi gives the zakat view from Qatada and Ibn Sirin and the other from Mujahid and Ibn Abbas, then states his preference for the first: the right is described as known, and what lies beyond the zakat is not known, since it follows need and grows or shrinks with it. As-Sa'di does not choose; he glosses the known right as zakat and sadaqa together.",
+            "bn": "শা'বী আর ইবরাহীম দুজনেই বলেন, সম্পদে যাকাতের বাইরেও হক আছে। মুজাহিদও এ আয়াত সম্পর্কে একই কথা বলেন। কুরতুবী যাকাতের মতটি আনেন কাতাদা ও ইবন সীরীন থেকে, আর অন্য মতটি মুজাহিদ ও ইবন আব্বাস (রাঃ) থেকে। তারপর প্রথম মতটিকে তিনি অগ্রাধিকার দেন। তাঁর যুক্তি: হকটিকে বলা হয়েছে মা'লূম, নির্ধারিত। আর যাকাতের বাইরের দান নির্ধারিত নয়, তা প্রয়োজন অনুযায়ী কমে-বাড়ে। সা'দী কোনো পক্ষ বেছে নেন না। তাঁর ব্যাখ্যায় নির্ধারিত হক মানে যাকাত ও সদকা দুটোই।"
+          },
+          {
+            "en": "Al-Muyassar reads it as a set portion that Allah made obligatory upon them, the zakat. Ma'arif al-Qur'an takes the word ma'lum to show that the measures of zakat were fixed by Allah, with the details recorded in hadith. Both readings stand in the sources, each with its names, and this article does not choose between them. What any reader owes from their own wealth is a question of fiqh, for a qualified scholar to answer.",
+            "bn": "মুয়াসসার একে পড়ে আল্লাহর ফরয করা একটি নির্দিষ্ট অংশ হিসেবে, আর তা হলো যাকাত। মাআরিফুল কুরআনের মতে মা'লূম শব্দটি দেখায় যে যাকাতের পরিমাণ আল্লাহই ঠিক করে দিয়েছেন, আর তার বিস্তারিত বিবরণ আছে হাদীসে। দুটি মতই উৎসগুলোতে আছে, প্রত্যেকটির সঙ্গে তার বক্তাদের নাম। এ লেখা দুইয়ের মধ্যে কোনোটিকে বেছে নেয় না। কোনো পাঠকের নিজের সম্পদ থেকে কী দেওয়া ওয়াজিব, তা ফিকহের প্রশ্ন, এর উত্তর দেবেন যোগ্য আলিম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking for the Unseen Claimant",
+          "bn": "অদেখা হকদারের খোঁজে"
+        },
+        "p": [
+          {
+            "en": "Set side by side, the readings of al-mahrum make a gallery: the man whose trade never prospers, the latecomer who missed the shares, the farmer after a blight, the man whose wealth the flood carried off, the poor man too restrained to ask. What they share is that none of them stands at the door. The asker is found by the giver; al-mahrum has to be sought. The verse puts both in the giver's wealth before the giver has met either.",
+            "bn": "মাহরূমের ব্যাখ্যাগুলো পাশাপাশি রাখলে একটা চিত্রশালা তৈরি হয়। আছে সেই মানুষ, যার ব্যবসায় কখনো বরকত আসে না। আছে দেরিতে আসা লোকটি, যে ভাগ পায়নি। আছে ফসলহানির পরের কৃষক, বন্যায় সম্পদ ভেসে যাওয়া মানুষটি, আর সংকোচে চাইতে না পারা অভাবী। তাদের মিল একটাই: কেউই দরজায় এসে দাঁড়ায় না। সাইলকে দাতা সামনেই পান, মাহরূমকে খুঁজে নিতে হয়। দাতা কারও সঙ্গে দেখা হওয়ার আগেই আয়াত দুজনকে তাঁর সম্পদের ভেতরে বসিয়ে দেয়।"
+          },
+          {
+            "en": "The people of prayer in this surah are not only those who answer when asked. They are those who carry, inside what they own, a claim held by strangers, some of whom will never speak. The portrait then moves on to belief in the Day of Recompense at 70:26, a verse with its own place. Here the reader is left with a simpler task: to notice the hand held out, and to ask who else should have been counted in.",
+            "bn": "এ সূরার নামাযিরা শুধু চাইলে সাড়া দেওয়ার মানুষ নন। নিজেদের মালিকানার ভেতরেই তাঁরা বয়ে বেড়ান অচেনা মানুষের দাবি, যাদের কেউ কেউ কখনো মুখ খুলবে না। এরপর ছবিটি এগিয়ে যায় ৭০:২৬ আয়াতে, বিচার দিবসে বিশ্বাসের দিকে, যার আলোচনা তার নিজের জায়গায়। এখানে পাঠকের হাতে থাকে সহজ একটা কাজ। বাড়ানো হাতটি চোখে পড়া, আর নিজেকে জিজ্ঞেস করা: আর কাকে হিসাবে ধরা উচিত ছিল?"
+          }
+        ]
+      }
+    ]
+  },
   "70:30": {
     "sections": [
       {
