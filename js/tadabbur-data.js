@@ -27549,6 +27549,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep the fear of Allah alive at home, where nobody is watching, and when safety comes, credit it to His favour rather than to yourself.",
     "lessonBn": "ঘরে, যেখানে কেউ দেখছে না, সেখানেও আল্লাহর ভয় জাগিয়ে রাখুন। আর নিরাপত্তা যখন আসে, তার কৃতিত্ব নিজেকে না দিয়ে তাঁর অনুগ্রহকে দিন।"
+  },
+  "52:36": {
+    "reflectionEn": "Or did they create the heavens and the earth? No one has to answer aloud. The people questioned would never have claimed the sky as their own work; elsewhere the Qur'an reports that if asked who created it, they would say Allah. So the verse does not stop at the fact. It names what was missing: they have no certainty. Knowing who made the world and living as if He will call you to account are two different things, and the gap between them is where the verse points. I can recite the right answer about my Maker and still live as though no meeting with Him is coming. Does what I know about Allah reach my choices, or does it stay a sentence I can say?",
+    "reflectionBn": "নাকি আসমান ও যমীন তারাই সৃষ্টি করেছে? এর জবাব কাউকে জোরে বলতে হয় না। যাদের প্রশ্ন করা হচ্ছে, তারা কখনো আকাশকে নিজেদের হাতের কাজ বলে দাবি করেনি। কুরআনই অন্য জায়গায় জানায়, জিজ্ঞেস করলে তারা বলবে, আল্লাহ। তাই আয়াতটি তথ্যে থেমে থাকে না। কী ছিল না, সেটাই বলে দেয়: তাদের ইয়াকীন নেই। দুনিয়া কে বানিয়েছেন তা জানা এক কথা, আর তিনি হিসাব নেবেন এ কথা মেনে জীবন চালানো আরেক কথা। আয়াতের আঙুল এই দুইয়ের মাঝখানের ফাঁকটার দিকে। আমিও রবের ব্যাপারে সঠিক উত্তর মুখস্থ বলে যেতে পারি, অথচ এমনভাবে বাঁচতে পারি যেন তাঁর সামনে দাঁড়ানোর দিন আসবেই না। আল্লাহ সম্পর্কে যা জানি, তা কি আমার সিদ্ধান্ত পর্যন্ত পৌঁছায়, নাকি শুধু মুখে বলার একটা বাক্য হয়েই থাকে?",
+    "pointsEn": [
+      "Which truth about Allah can I state without hesitation that still changes nothing in how I spend an ordinary day?",
+      "If someone watched my week without hearing me speak, what would they conclude I am certain of?",
+      "Where do I treat the meeting with my Lord as a possibility rather than an appointment?",
+      "When did I last look at the sky or the ground and let it ask me a question, instead of passing by?",
+      "What is one act of obedience I keep postponing that a firmer certainty would settle today?"
+    ],
+    "pointsBn": [
+      "আল্লাহ সম্পর্কে কোন সত্যটা আমি নির্দ্বিধায় বলতে পারি, অথচ আমার সাধারণ একটা দিন কাটানোর ধরনে তা কিছুই বদলায় না?",
+      "আমার মুখের কথা না শুনে কেউ যদি শুধু আমার এক সপ্তাহের চলাফেরা দেখে, সে কী বুঝবে, কোন বিষয়ে আমি নিশ্চিত?",
+      "রবের সঙ্গে সাক্ষাৎকে আমি কোথায় নিশ্চিত ওয়াদা না ভেবে শুধু একটা সম্ভাবনা ভাবছি?",
+      "শেষ কবে আকাশ বা মাটির দিকে তাকিয়ে পাশ কাটিয়ে না গিয়ে তাকে আমার কাছে প্রশ্ন রাখতে দিয়েছি?",
+      "কোন আনুগত্যের কাজটা আমি বারবার পিছিয়ে দিচ্ছি, যা আরেকটু পাকা ইয়াকীন থাকলে আজই মিটে যেত?"
+    ],
+    "lessonEn": "Knowing that Allah made the heavens and the earth is not yet certainty; let what you know of Him reach your choices and your obedience.",
+    "lessonBn": "আসমান-যমীন আল্লাহ বানিয়েছেন, এ কথা জানা মানেই ইয়াকীন নয়। তাঁর সম্পর্কে যা জানেন, তা যেন আপনার সিদ্ধান্ত আর আনুগত্য পর্যন্ত পৌঁছায়।"
   }
 };
 

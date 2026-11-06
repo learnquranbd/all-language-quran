@@ -1471,6 +1471,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "52:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Themselves to the Sky",
+          "bn": "নিজেদের থেকে আকাশ পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "This verse sits in the middle of a long run of questions, each opening with am, or. The run begins at 52:30 with what the deniers said about the Prophet ﷺ and carries on to 52:43; counting every am, this is the seventh of fifteen. The verse just before it asked about their own beginning: were they created from nothing, or were they the creators? Now the question widens from the human self to the whole frame around it: am khalaqu as-samawati wal-ard, or did they create the heavens and the earth?",
+            "bn": "আয়াতটি দাঁড়িয়ে আছে প্রশ্নের এক লম্বা সারির মাঝখানে। প্রতিটি প্রশ্ন শুরু হয় 'আম' দিয়ে, অর্থাৎ 'নাকি'। সারিটা শুরু হয় ৫২:৩০ আয়াতে, নবী ﷺ-কে নিয়ে অস্বীকারকারীদের কথা দিয়ে, আর চলে ৫২:৪৩ পর্যন্ত। প্রতিটি 'আম' গুনলে এটি পনেরোটির মধ্যে সপ্তম। ঠিক আগের আয়াতে প্রশ্ন ছিল তাদের নিজেদের শুরু নিয়ে: তারা কি কিছু ছাড়াই সৃষ্টি হয়েছে, নাকি তারাই স্রষ্টা? এবার প্রশ্নটা মানুষের নিজের সত্তা ছাড়িয়ে তার চারপাশের পুরো কাঠামোয় ছড়িয়ে পড়ে: আম খালাকুস সামাওয়াতি ওয়াল আরদ, নাকি আসমান ও যমীন তারাই সৃষ্টি করেছে?"
+          },
+          {
+            "en": "The two verses use the same root, kh-l-q, in two voices. In 52:35 the verb is passive, khuliqu, were they created; here it is active, khalaqu, did they create. The first asks whether they were made without a maker; the second asks whether they are the maker of everything they see. Between the two, every possible answer that leaves Allah out has been put on the table and found empty. The next verse, 52:37, moves on to the treasuries of their Lord and whether they control them.",
+            "bn": "দুই আয়াতে একই ধাতু, খ-ল-ক, তবে দুই রূপে। ৫২:৩৫ আয়াতে ক্রিয়াটি কর্মবাচ্য, খুলিকূ, তাদের কি সৃষ্টি করা হয়েছে। এখানে কর্তৃবাচ্য, খালাকূ, তারা কি সৃষ্টি করেছে। প্রথম প্রশ্ন জানতে চায়, কোনো স্রষ্টা ছাড়াই কি তারা তৈরি হয়ে গেছে। দ্বিতীয়টি জানতে চায়, চোখের সামনে যা কিছু আছে তার স্রষ্টা কি তারাই। দুই আয়াত মিলে আল্লাহকে বাদ দিয়ে দেওয়া যায় এমন সব উত্তর সামনে রাখা হলো, আর প্রতিটিই ফাঁপা প্রমাণিত হলো। পরের আয়াত ৫২:৩৭ চলে যায় রবের ভাণ্ডার আর তার নিয়ন্ত্রণের প্রশ্নে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seven Words and a Turn",
+          "bn": "সাত শব্দ, একটি মোড়"
+        },
+        "p": [
+          {
+            "en": "The Arabic is seven words, and it falls into two halves. The first half is the question: am, khalaqu, as-samawati, wal-arda. The second begins with bal, a particle that turns away from what came before and puts something truer in its place. What follows is la yuqinun, they do not have certainty. The verb comes from the root y-q-n, the root of yaqin, settled knowledge that leaves no room for doubt. The question is not answered in words; the answer is assumed, and the verse moves straight to the cause.",
+            "bn": "আরবিতে সাতটি শব্দ, দুই ভাগে ভাগ হয়ে যায়। প্রথম ভাগে প্রশ্ন: আম, খালাকূ, আস-সামাওয়াতি, ওয়াল-আরদা। দ্বিতীয় ভাগ শুরু 'বাল' দিয়ে। এই অব্যয় আগের কথা থেকে মুখ ফিরিয়ে তার জায়গায় আরও সত্য একটা কথা বসায়। তারপর আসে লা ইউকিনূন, তাদের ইয়াকীন নেই। ক্রিয়াটি এসেছে ই-ক-ন ধাতু থেকে, যেখান থেকে ইয়াকীন শব্দ, অর্থাৎ এমন পাকা জ্ঞান যাতে সন্দেহের জায়গা থাকে না। প্রশ্নের জবাব মুখে দেওয়া হয় না। জবাবটা ধরে নেওয়া হয়েছে, আর আয়াত সোজা চলে যায় আসল কারণে।"
+          },
+          {
+            "en": "The same shape appears a little earlier. In 52:33 the deniers say the Prophet ﷺ made the Qur'an up, and the verse replies bal la yu'minun, rather, they do not believe. Here the reply is bal la yuqinun, rather, they have no certainty. Both answers stop asking about the claim and point at the people making it. The Qur'an records a related pattern about the idolaters elsewhere: in 31:25, asked who created the heavens and the earth, they say Allah, and the verse ends bal aktharuhum la ya'lamun, rather, most of them do not know.",
+            "bn": "একটু আগেও একই গড়ন দেখা যায়। ৫২:৩৩ আয়াতে অস্বীকারকারীরা বলে, নবী ﷺ কুরআন নিজে বানিয়ে বলেছেন। জবাব আসে: বাল লা ইউ'মিনূন, আসলে তারা ঈমানই আনেনি। এখানে জবাব: বাল লা ইউকিনূন, আসলে তাদের ইয়াকীন নেই। দুই জবাবই দাবিটা নিয়ে আর প্রশ্ন না তুলে দাবিদারদের দিকে আঙুল তোলে। মুশরিকদের সম্পর্কে কুরআনের অন্য জায়গাতেও কাছাকাছি একটা ধাঁচ আছে। ৩১:২৫ আয়াতে আসমান-যমীন কে বানিয়েছেন জিজ্ঞেস করলে তারা বলে, আল্লাহ। আর আয়াত শেষ হয় এভাবে: বাল আকসারুহুম লা ইয়া'লামূন, বরং তাদের অধিকাংশই জানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Carrying Its Answer",
+          "bn": "প্রশ্নের ভেতরেই উত্তর"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di names the device: this is a question that establishes a negation. Its meaning is that they did not create the heavens and the earth, and he adds that this is a matter very plain indeed. Al-Qurtubi states the negation outright: it is not so, for they have not created anything at all. Al-Baghawi supplies the consequence the question tests and then dismisses it in three words: had they done so, they would be the creators, and it is not so. All three treat the question as already answered by everyone hearing it.",
+            "bn": "সা'দী কৌশলটির নাম বলে দেন: এটি এমন প্রশ্ন যা না-বাচক কথাটিকে পাকা করে। অর্থ হলো, আসমান ও যমীন তারা সৃষ্টি করেনি। তিনি যোগ করেন, বিষয়টি একেবারেই স্পষ্ট। কুরতুবী না-টা সরাসরি বলে দেন: ব্যাপারটা এমন নয়, কারণ তারা কিছুই সৃষ্টি করেনি। বাগাভী প্রশ্নটা যে পরিণাম যাচাই করছে তা সামনে আনেন: তাহলে তো তারাই হতো স্রষ্টা। তারপর ছোট্ট এক কথায় তা নাকচ করেন: ব্যাপারটা এমন নয়। তিনজনের কাছেই প্রশ্নটির জবাব শ্রোতাদের প্রত্যেকের কাছে আগে থেকেই জানা।"
+          },
+          {
+            "en": "What would follow if the answer were yes? Two commentators spell it out, and they spell it differently. At-Tabari says that had they created the heavens and the earth, they would by that have been lords, arbab, and so would have had reason not to take orders from their Lord. As-Sa'di says they would then be partners of Allah, shuraka'. The first frames the point as authority to command; the second frames it as a share in divinity. Both readings make the same move: creation is what grounds the right to be obeyed and worshipped.",
+            "bn": "উত্তর যদি 'হ্যাঁ' হতো, তাহলে কী দাঁড়াত? দুজন মুফাসসির তা খুলে বলেন, তবে দুইভাবে। তাবারী বলেন, আসমান-যমীন যদি তারাই সৃষ্টি করত, তাহলে এর জোরে তারা নিজেরাই 'আরবাব', অর্থাৎ প্রভু হয়ে যেত। তখন রবের হুকুম না মানার একটা কারণ তাদের হাতে থাকত। সা'দী বলেন, তখন তারা আল্লাহর 'শুরাকা', অর্থাৎ শরিক হয়ে যেত। প্রথমজন বিষয়টি দেখেন হুকুম দেওয়ার অধিকার হিসেবে, দ্বিতীয়জন ইলাহিয়্যাতে ভাগ হিসেবে। তবে দুই পাঠের যুক্তি একই: সৃষ্টি করার মধ্যেই আনুগত্য আর ইবাদত পাওয়ার হক নিহিত।"
+          },
+          {
+            "en": "At-Tabari's reading of the previous verse uses the same reasoning. On 52:35 he says that if they were the creators of this creation, that would explain why they do not obey Allah's command or stop at His prohibition, because command and prohibition belong to the creator. Here the same argument is lifted from their own bodies to the sky over them. Since neither is their work, the command is not theirs either, and their refusal to obey has lost its last possible excuse.",
+            "bn": "আগের আয়াতে তাবারীর ব্যাখ্যাও একই যুক্তিতে চলে। ৫২:৩৫ আয়াতে তিনি বলেন, তারাই যদি এই সৃষ্টির স্রষ্টা হতো, তাহলে বোঝা যেত কেন তারা আল্লাহর হুকুম মানে না, তাঁর নিষেধে থামে না। কারণ হুকুম আর নিষেধ স্রষ্টারই অধিকার। এখানে একই যুক্তি তাদের নিজেদের দেহ থেকে উঠে যায় মাথার উপরের আকাশে। দুটোর কোনোটিই যখন তাদের বানানো নয়, হুকুমের অধিকারও তাদের নয়। ফলে আনুগত্য না করার শেষ সম্ভাব্য অজুহাতটুকুও আর টেকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "They Knew Who Made It",
+          "bn": "কে বানিয়েছেন, তারা জানত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the question as a rebuke aimed at their shirk, their association of partners with Allah. Then he adds the striking clause: and they know that He is the Creator, alone, with no partner. On his reading the people questioned did not hold a rival theory of where the sky came from. In his words, it is their lack of certainty that carries them to that, meaning to the shirk. The abridged English Ibn Kathir says the same: they fell into idolatry because they had no firm belief.",
+            "bn": "ইবন কাসীর প্রশ্নটিকে পড়েন তাদের শিরকের বিরুদ্ধে ভর্ৎসনা হিসেবে, অর্থাৎ আল্লাহর সঙ্গে শরিক করার বিরুদ্ধে। তারপর তিনি একটা চমকে দেওয়ার মতো কথা জোড়েন: অথচ তারা জানে, তিনিই একমাত্র স্রষ্টা, তাঁর কোনো শরিক নেই। তাঁর পাঠে প্রশ্নের মুখোমুখি লোকেরা আকাশ কোথা থেকে এল তা নিয়ে আলাদা কোনো তত্ত্ব ধরে রাখেনি। তাঁর ভাষায়, ইয়াকীনের অভাবই তাদের ওই শিরকের দিকে ঠেলে নিয়ে যায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও একই কথা বলে: দৃঢ় বিশ্বাস ছিল না বলেই তারা মূর্তিপূজায় পড়েছিল।"
+          },
+          {
+            "en": "The Qur'an itself confirms the first half of that picture in several places. In 43:9, if asked who created the heavens and the earth, they will surely say the Almighty, the All-Knowing created them. In 29:61 the same question adds the sun and moon made subservient, and the answer is again Allah, followed by fa-anna yu'fakun, so how are they turned away? An answer given when asked is not the same thing as certainty.",
+            "bn": "এই ছবির প্রথম অর্ধেক কুরআন নিজেই কয়েক জায়গায় নিশ্চিত করে। ৪৩:৯ আয়াতে, আসমান-যমীন কে বানিয়েছেন জিজ্ঞেস করলে তারা অবশ্যই বলবে, সেগুলো বানিয়েছেন মহাপরাক্রমশালী, সর্বজ্ঞ। ২৯:৬১ আয়াতে একই প্রশ্নের সঙ্গে যোগ হয় সূর্য ও চাঁদকে বশীভূত করার কথা। উত্তর আবারও আল্লাহ, তারপর আসে: ফা আন্না ইউ'ফাকূন, তাহলে তারা কোথায় ফিরে যাচ্ছে? জিজ্ঞেস করলে একটা উত্তর দিয়ে দেওয়া আর ইয়াকীন রাখা এক জিনিস নয়।"
+          },
+          {
+            "en": "As-Sa'di frames the gap from the other side. Those who deny, he says, have no complete knowledge and no certainty that would oblige them to benefit from the proofs, both those of revelation and those of reason. Ibn Kathir stresses what they knew; as-Sa'di stresses what their knowing lacked. One fact can sit in the mind as information without becoming the kind of knowledge that moves a person to act. The verse names the second kind, and says they did not have it.",
+            "bn": "সা'দী ফাঁকটা দেখেন অন্য দিক থেকে। তিনি বলেন, অস্বীকারকারীদের কাছে পূর্ণ জ্ঞান নেই, এমন ইয়াকীনও নেই যা তাদের দলিল থেকে উপকৃত হতে বাধ্য করত, শরীয়তের দলিল হোক বা যুক্তির দলিল। ইবন কাসীর জোর দেন তারা কী জানত তার উপর। সা'দী জোর দেন তাদের সেই জানায় কী ঘাটতি ছিল তার উপর। একটা তথ্য মাথায় নিছক খবর হয়ে পড়ে থাকতে পারে, এমন জ্ঞান না হয়েও যা মানুষকে কাজে নামায়। আয়াত এই দ্বিতীয় ধরনের জ্ঞানের কথা বলে, আর জানায়, সেটা তাদের ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Uncertain About What?",
+          "bn": "কোন বিষয়ে ইয়াকীন নেই?"
+        },
+        "p": [
+          {
+            "en": "The verse says they have no certainty and does not name its object. The commentators supply one, and they do not all supply the same one. At-Tabari reads the whole verse as an account of disobedience. They did not refrain from following their Lord's command and holding to His obedience in what He ordered and forbade because they had created the heavens and the earth and so were lords. They refrained, he says, because they have no certainty of Allah's threat, wa'id, and of the punishment He has prepared in the Hereafter for those who disbelieve in Him.",
+            "bn": "আয়াত বলে তাদের ইয়াকীন নেই, কিন্তু কোন বিষয়ে, তা বলে না। মুফাসসিররা বিষয়টা জুড়ে দেন, আর সবাই একই বিষয় জোড়েন না। তাবারী পুরো আয়াতটিকে পড়েন অবাধ্যতার বিবরণ হিসেবে। রবের আদেশ-নিষেধ মেনে চলা আর তাঁর আনুগত্যে লেগে থাকা তারা এ কারণে ছাড়েনি যে আসমান-যমীন তারা বানিয়েছে আর তাই নিজেরাই প্রভু। তিনি বলেন, তারা তা ছেড়েছে কারণ আল্লাহর 'ওয়াঈদ', অর্থাৎ শাস্তির হুঁশিয়ারির উপর তাদের ইয়াকীন নেই। আখিরাতে তাঁকে অস্বীকারকারীদের জন্য তিনি যে আযাব প্রস্তুত রেখেছেন, তার উপরও নেই।"
+          },
+          {
+            "en": "The Muyassar is close to at-Tabari: rather, they have no certainty of Allah's punishment, and so they are mushrikun, people who associate partners with Him. It also fills in the first half with a phrase of its own: did they create the heavens and the earth in this wondrous making? Al-Qurtubi gives a wider object: they have no certainty of the truth, al-haqq. Ibn Kathir ties it to their shirk rather than to the Hereafter.",
+            "bn": "মুয়াসসার তাবারীর কাছাকাছি: আসলে আল্লাহর আযাবের উপর তাদের ইয়াকীন নেই, তাই তারা মুশরিক, আল্লাহর সঙ্গে শরিককারী। প্রথম অংশেও মুয়াসসার নিজের একটা শব্দবন্ধ জোড়ে: এমন চমৎকার নির্মাণে আসমান-যমীন কি তারাই বানিয়েছে? কুরতুবী বিষয়টা আরও প্রশস্ত করে দেন: সত্যের উপর, 'আল-হাক্ক'-এর উপর তাদের ইয়াকীন নেই। ইবন কাসীর একে জুড়ে দেন তাদের শিরকের সঙ্গে, আখিরাতের সঙ্গে নয়।"
+          },
+          {
+            "en": "These readings sit side by side, and the article does not choose among them. They are different answers to a question the verse left open: certainty of what? At-Tabari and the Muyassar point to the coming punishment, al-Qurtubi to the truth as a whole, Ibn Kathir to the shirk that the lack led them into, as-Sa'di to the proofs. In every reading the missing piece is not information about who made the sky but a settled conviction that should have followed from it.",
+            "bn": "পাঠগুলো পাশাপাশি থাকুক, এই লেখা এদের মধ্যে কোনোটি বেছে নেয় না। আয়াত একটা প্রশ্ন খোলা রেখেছে, কোন বিষয়ে ইয়াকীন? এগুলো তার ভিন্ন ভিন্ন জবাব। তাবারী ও মুয়াসসার দেখান আসন্ন আযাবের দিকে, কুরতুবী গোটা সত্যের দিকে, ইবন কাসীর সেই শিরকের দিকে যেখানে এই ঘাটতি তাদের নিয়ে গেছে, আর সা'দী দলিলের দিকে। প্রতিটি পাঠে যা নেই তা আকাশ কে বানিয়েছেন সেই খবর নয়। নেই সেই পাকা প্রত্যয়, যা ওই খবর থেকেই আসার কথা ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Heart Close to Flying",
+          "bn": "উড়ে যেতে চাওয়া এক হৃদয়"
+        },
+        "p": [
+          {
+            "en": "One sound narration quotes this verse by name. Al-Bukhari records it in his Sahih, number 4854, from Jubayr ibn Mut'im: \"I heard the Prophet ﷺ reciting at-Tur in the Maghrib prayer, and when he reached this verse: Or were they created from nothing, or are they the creators? Or did they create the heavens and the earth? Rather, they have no certainty. Or do they hold the treasuries of your Lord, or are they the ones in control? my heart was about to fly.\"",
+            "bn": "একটি সহীহ বর্ণনায় এই আয়াত সরাসরি উদ্ধৃত হয়েছে। বুখারী তাঁর সহীহ গ্রন্থে ৪৮৫৪ নম্বরে জুবায়র ইবন মুত'ইম (রাঃ)-এর সূত্রে এটি এনেছেন: \"আমি নবী ﷺ-কে মাগরিবের নামাযে সূরা তূর পড়তে শুনলাম। যখন তিনি এই আয়াতে পৌঁছলেন: তারা কি কিছু ছাড়াই সৃষ্টি হয়েছে, নাকি তারাই স্রষ্টা? নাকি আসমান ও যমীন তারাই সৃষ্টি করেছে? আসলে তাদের ইয়াকীন নেই। নাকি তোমার রবের ভাণ্ডার তাদের কাছে, নাকি তারাই নিয়ন্ত্রক? তখন আমার হৃদয় যেন উড়ে যাওয়ার উপক্রম হলো।\""
+          },
+          {
+            "en": "Al-Bukhari's chain carries an honest note that belongs with it. The narrator Sufyan says that he himself heard az-Zuhri relate only that the Prophet ﷺ recited at-Tur in Maghrib; the part about the verses and the heart, he says, he did not hear az-Zuhri add, and others told it to him. The abridged English Ibn Kathir says the report is collected in both Sahihs through various chains. It also says that Jubayr came to the Prophet ﷺ after Badr to ransom captives while still an idolater, and that hearing this recitation was one of the reasons he later accepted Islam.",
+            "bn": "বুখারীর সনদের সঙ্গে একটা সৎ মন্তব্য আছে, যা এর সঙ্গেই থাকা উচিত। বর্ণনাকারী সুফয়ান বলেন, তিনি নিজে যুহরীকে শুধু এটুকু বলতে শুনেছেন যে নবী ﷺ মাগরিবে সূরা তূর পড়েছিলেন। আয়াতগুলো আর হৃদয়ের কথাটুকু যুহরীকে যোগ করতে তিনি শোনেননি, অন্যরা তাঁকে তা বলেছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ জানায়, বর্ণনাটি দুই সহীহ গ্রন্থেই বিভিন্ন সনদে এসেছে। সেখানে আরও আছে, জুবায়র বদরের পর বন্দিদের মুক্তিপণ দিতে নবী ﷺ-এর কাছে এসেছিলেন, তখনো তিনি মূর্তিপূজারী। আর এই তিলাওয়াত শোনা ছিল পরে তাঁর ইসলাম গ্রহণের কারণগুলোর একটি।"
+          },
+          {
+            "en": "This is not an occasion of revelation. The verse was already revealed and was being recited in prayer; none of the commentaries fetched for it gives an asbab report. What the narration preserves is the effect of the verse on a man who stood, at that moment, among those it questioned. He was not told anything new about who made the sky. He heard the question put plainly, in sequence, and something in him moved. The narration can be read as a record of the very certainty the verse says was missing, beginning to arrive.",
+            "bn": "এটি আয়াত নাযিলের প্রেক্ষাপট নয়। আয়াত আগেই নাযিল হয়েছিল, নামাযে তিলাওয়াত হচ্ছিল। এই আয়াতের জন্য সংগ্রহ করা কোনো তাফসীরেই শানে নুযূলের বর্ণনা নেই। বর্ণনাটি যা ধরে রেখেছে তা হলো এমন এক মানুষের উপর আয়াতের প্রভাব, যিনি সেই মুহূর্তে প্রশ্নের মুখোমুখি লোকদেরই একজন। আকাশ কে বানিয়েছেন, এ নিয়ে নতুন কিছু তাঁকে বলা হয়নি। তিনি প্রশ্নগুলো পরপর, সোজাসুজি শুনলেন, আর তাঁর ভেতরে কিছু একটা নড়ে উঠল। আয়াত যে ইয়াকীনের অভাবের কথা বলে, বর্ণনাটিকে পড়া যায় ঠিক সেই ইয়াকীনের আসতে শুরু করার দলিল হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those First Questioned",
+          "bn": "প্রথম যাদের প্রশ্ন করা হলো"
+        },
+        "p": [
+          {
+            "en": "The verse speaks of them in the third person and does not name them. The commentaries fetched for it identify them by what they did: Ibn Kathir by their shirk, the Muyassar by calling them mushrikun, as-Sa'di as those who deny. At 52:39, in the same run of questions, at-Tabari names the people addressed as the polytheists of Quraysh. The narration above adds a face to them: a man who, by the abridged Ibn Kathir's account, was still an idolater when he heard the Prophet ﷺ recite these words in the Maghrib prayer.",
+            "bn": "আয়াত তাদের কথা বলে নাম পুরুষে, নাম ধরে নয়। এই আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো তাদের চেনায় কাজ দিয়ে: ইবন কাসীর তাদের শিরক দিয়ে, মুয়াসসার তাদের মুশরিক বলে, সা'দী অস্বীকারকারী বলে। একই প্রশ্নমালার ৫২:৩৯ আয়াতে তাবারী সম্বোধিত লোকদের নাম বলে দেন: কুরাইশের মুশরিকরা। ওপরের বর্ণনাটি তাদের একটা চেহারাও দেয়। ইবন কাসীরের সংক্ষিপ্ত সংস্করণের বিবরণে, এই মানুষটি তখনো মূর্তিপূজারী, যখন তিনি মাগরিবের নামাযে নবী ﷺ-এর মুখে এই কথাগুলো শুনলেন।"
+          },
+          {
+            "en": "That face matters for how the verse is used. The verse describes what it describes: a particular people at a particular time, who admitted Allah as Creator and still associated partners with Him. It licenses nothing against any living person or community, and gives no reader the right to stand over a neighbour and declare him one of those who have no certainty. Jubayr himself was among those questioned and came to Islam. The question was put to bring hearers to certainty, not to fix them forever outside it.",
+            "bn": "আয়াতটি কীভাবে ব্যবহার করা হবে, তার জন্য এই চেহারাটা গুরুত্বপূর্ণ। আয়াত শুধু তা-ই বর্ণনা করে যা সে বর্ণনা করে: নির্দিষ্ট এক সময়ের নির্দিষ্ট একদল মানুষ, যারা আল্লাহকে স্রষ্টা মেনেও তাঁর সঙ্গে শরিক করত। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কোনো পাঠককে এ অধিকারও দেয় না যে সে প্রতিবেশীর মাথার উপর দাঁড়িয়ে ঘোষণা করবে, এ লোক ইয়াকীনহীনদের একজন। জুবায়র নিজেও প্রশ্নের মুখোমুখিদের মধ্যে ছিলেন, আর পরে ইসলামে এসেছেন। প্রশ্নটা রাখা হয়েছিল শ্রোতাকে ইয়াকীনের দিকে আনতে, চিরকালের জন্য বাইরে আটকে রাখতে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Knowing Is Not Enough",
+          "bn": "শুধু জানা যখন যথেষ্ট নয়"
+        },
+        "p": [
+          {
+            "en": "The verse turns a mirror on any reader. At-Tabari connects the missing certainty directly to obedience: they did not hold to their Lord's command because they were not certain of His threat. A believer can know, correctly, that Allah made the heavens and the earth, while the knowledge does little to the shape of the day. The verse does not ask whether one has the right answer. It asks whether that answer has become yaqin, the kind of knowledge that carries a person toward what Allah commands.",
+            "bn": "আয়াত প্রত্যেক পাঠকের সামনেই একটা আয়না ধরে। তাবারী ইয়াকীনের অভাবকে সরাসরি আনুগত্যের সঙ্গে জোড়েন: রবের হুকুমে তারা লেগে থাকেনি, কারণ তাঁর ওয়াঈদের উপর তাদের ইয়াকীন ছিল না। একজন মুমিন সঠিকভাবেই জানতে পারেন যে আসমান-যমীন আল্লাহ বানিয়েছেন। অথচ সেই জানা তাঁর দিনের চেহারায় তেমন কোনো ছাপ না-ও ফেলতে পারে। আয়াত জানতে চায় না সঠিক উত্তরটা আপনার কাছে আছে কি না। জানতে চায়, সেই উত্তর ইয়াকীন হয়েছে কি না, এমন জ্ঞান যা মানুষকে আল্লাহর হুকুমের দিকে টেনে নেয়।"
+          },
+          {
+            "en": "The verse also shows where such certainty is sought. It does not argue from a hidden text or a private experience; it points at the heavens and the earth, open to every eye, and asks who made them. The Muyassar's small addition, this wondrous making, keeps that sight in view. A reader who lets the question land, slowly, each time the verse is recited, gives it the chance to do what it did in that Maghrib prayer.",
+            "bn": "কোথায় এমন ইয়াকীন খুঁজতে হয়, আয়াত তাও দেখিয়ে দেয়। গোপন কোনো লেখা বা ব্যক্তিগত কোনো অভিজ্ঞতা থেকে সে যুক্তি দেয় না। সে আঙুল তোলে আসমান আর যমীনের দিকে, যা সবার চোখের সামনে খোলা, আর জিজ্ঞেস করে, এগুলো কে বানিয়েছেন? মুয়াসসারের ছোট্ট সংযোজন, 'এমন চমৎকার নির্মাণ', সেই দৃশ্যটা চোখের সামনে ধরে রাখে। যে পাঠক প্রতিবার তিলাওয়াতে প্রশ্নটাকে ধীরে ধীরে মনে বসতে দেন, তিনি আয়াতকে সেই সুযোগটা দেন, যা সে মাগরিবের সেই নামাযে পেয়েছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "52:39": {
     "sections": [
       {
