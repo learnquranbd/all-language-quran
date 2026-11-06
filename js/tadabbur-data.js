@@ -27669,6 +27669,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Receive revelation as a gift too great to be fully described, accept what Allah leaves unexplained without inventing detail, and carry the name of His servant as an honour.",
     "lessonBn": "ওয়াহীকে গ্রহণ করুন এমন এক দান হিসেবে, যা পুরোপুরি বর্ণনা করা যায় না। আল্লাহ যা ব্যাখ্যা না করে রেখেছেন, তাতে নিজের বানানো খুঁটিনাটি জুড়বেন না। আর তাঁর বান্দা পরিচয়কে সম্মান হিসেবে বহন করুন।"
+  },
+  "53:62": {
+    "reflectionEn": "The surah has carried me from a star as it sets, through what was seen by the farthest lote tree, past idols that are only names, to the ruins of peoples who would not listen. It does not end with one more argument. It ends with three words: so prostrate to Allah, and worship. The answer it wants is not a clever reply but a forehead on the ground. Wonder that turns to mockery, laughter where weeping belongs, a heart busy with its own amusement: all of it is met with one movement of the whole body. Prostration comes first, then worship of every kind. Do I let what I hear reach my body, or does it stop at my opinions? And when I bow, is it to Him alone?",
+    "reflectionBn": "সূরাটি আমাকে নিয়ে গেছে অস্ত যাওয়া তারা থেকে সিদরাতুল মুনতাহার কাছে দেখা দৃশ্য পর্যন্ত, শুধু নামসর্বস্ব মূর্তিগুলোর পাশ কাটিয়ে, যারা কথা শোনেনি তাদের ধ্বংসস্তূপের সামনে। কিন্তু শেষে আর কোনো যুক্তি নেই। আছে তিনটি শব্দ: তাই আল্লাহর জন্য সিজদা করো, আর ইবাদত করো। সূরা চায় না চতুর কোনো জবাব, চায় মাটিতে কপাল। বিস্ময় যখন ঠাট্টায় গড়ায়, যেখানে কান্না আসার কথা সেখানে হাসি, নিজের খেলাধুলায় ডুবে থাকা মন, সবকিছুর জবাব একটাই: পুরো শরীর নিয়ে নুয়ে পড়া। আগে সিজদা, তারপর সব রকমের ইবাদত। যা শুনি তা কি আমার শরীর পর্যন্ত পৌঁছায়, নাকি মতামতের ঘরেই আটকে থাকে? আর যখন মাথা নোয়াই, তা কি শুধু তাঁরই জন্য?",
+    "pointsEn": [
+      "When a verse moves me, what does my body do about it, and what does it leave undone?",
+      "What do I laugh off that should make me stop and weep, and why does it no longer reach me?",
+      "My forehead goes to the ground several times a day: when did I last notice what that means?",
+      "Is there anyone or anything, a person, a habit, an image of myself, before whom I bow in practice though never in prayer?",
+      "Outside the prayer mat, what in my words and dealings this week counts as worship that only Allah sees?"
+    ],
+    "pointsBn": [
+      "কোনো আয়াত মনে নাড়া দিলে আমার শরীর তা নিয়ে কী করে, আর কী না করেই থেকে যায়?",
+      "কোন কথা আমি হেসে উড়িয়ে দিই, যা শুনে আসলে থেমে কাঁদা উচিত ছিল? কেন তা আর আমার কাছে পৌঁছায় না?",
+      "দিনে কয়েকবার আমার কপাল মাটিতে নামে। শেষ কবে খেয়াল করেছি এর মানে কী?",
+      "কোনো মানুষ, কোনো অভ্যাস, নিজের সম্পর্কে কোনো ধারণা, এমন কিছু কি আছে যার সামনে নামাজে না হলেও কাজে আমি মাথা নুইয়ে থাকি?",
+      "জায়নামাজের বাইরে এ সপ্তাহে আমার কথা আর লেনদেনের কোনটা এমন ইবাদত, যা শুধু আল্লাহ দেখেন?"
+    ],
+    "lessonEn": "Answer the Qur'an with your whole self: bow to Allah alone, and let that prostration spread into every word and deed He loves.",
+    "lessonBn": "কুরআনের জবাব দিন পুরো নিজেকে দিয়ে: শুধু আল্লাহর সামনে মাথা নোয়ান, আর সেই সিজদা ছড়িয়ে দিন তাঁর পছন্দের প্রতিটি কথা ও কাজে।"
   }
 };
 

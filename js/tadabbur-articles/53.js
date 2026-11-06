@@ -2090,5 +2090,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "53:62": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words to Close the Star",
+          "bn": "তিন শব্দে সূরার সমাপ্তি"
+        },
+        "p": [
+          {
+            "en": "Fa-sjudu lillahi wa-'budu: so prostrate to Allah, and worship. In Arabic the verse is three words, two commands and the Name between them, and it is the last verse of Surat an-Najm. The mushaf marks it with the sign of prostration. The opening fa, so, ties it to what came just before. The Muyassar, which comments on 53:59 to 53:62 as one passage, reads it that way: you wonder at this Qur'an, laugh at it and do not weep, and turn from it in heedlessness, so prostrate to Allah.",
+            "bn": "ফাসজুদূ লিল্লাহি ওয়া'বুদূ: তাই আল্লাহর জন্য সিজদা করো, আর ইবাদত করো। আরবিতে আয়াতটি মাত্র তিনটি শব্দের। দুটি আদেশ, মাঝখানে আল্লাহর নাম। এটিই সূরা আন-নাজমের শেষ আয়াত, আর মুসহাফে এর গায়ে সিজদার চিহ্ন দেওয়া থাকে। শুরুর 'ফা', অর্থাৎ 'তাই', আয়াতটিকে ঠিক আগের কথাগুলোর সঙ্গে বেঁধে দেয়। মুয়াসসার ৫৩:৫৯ থেকে ৫৩:৬২ পর্যন্ত একটি অংশ ধরে ব্যাখ্যা করে, আর পড়েও সেভাবে: তোমরা এই কুরআনে বিস্মিত হও, একে নিয়ে হাসো, কাঁদো না, উদাসীন হয়ে মুখ ফিরিয়ে থাকো। তাই আল্লাহর জন্য সিজদা করো।"
+          },
+          {
+            "en": "The surah has made its case at length. It has described what the Prophet ﷺ saw, weighed the idols and found them names without power, and listed the peoples who were destroyed for turning away. At the very end it stops arguing. It does not ask the listener to reply, or even to agree in words. It asks for an act: the forehead on the ground. The movement of the whole surah, from the setting star to this last line, comes to rest in that posture.",
+            "bn": "সূরাটি লম্বা সময় ধরে নিজের কথা প্রমাণ করেছে। নবী ﷺ যা দেখেছিলেন তার বর্ণনা দিয়েছে। মূর্তিগুলোকে মেপে দেখিয়েছে, ওগুলো ক্ষমতাহীন কিছু নাম মাত্র। মুখ ফিরিয়ে নেওয়ার কারণে যেসব জাতি ধ্বংস হয়েছে, তাদের তালিকাও দিয়েছে। আর একেবারে শেষে এসে তর্ক থামিয়ে দেয়। শ্রোতার কাছে জবাব চায় না, মুখে একমত হওয়ার কথাও বলে না। চায় একটা কাজ: মাটিতে কপাল রাখা। অস্ত যাওয়া তারা থেকে এই শেষ লাইন পর্যন্ত গোটা সূরার চলা এসে থামে এই ভঙ্গিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Allah, Not the Rivals",
+          "bn": "শরিকদের নয়, আল্লাহর জন্য"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the small word lillah, to Allah, against everything else on offer. Prostrate to Allah, O people, he paraphrases, in your prayer, and not to the gods and rivals besides Him; and worship Him and no other, for worship is fitting for none but Him. So make your worship and your prostration sincerely His, and give Him no partner in it. The surah has spent many verses on al-Lat, al-'Uzza and Manat; its last word directs the bowed head to the One they were set beside.",
+            "bn": "লিল্লাহ, অর্থাৎ আল্লাহর জন্য, ছোট্ট এই শব্দটি তাবারী পড়েন অন্য সব বিকল্পের বিপরীতে রেখে। তাঁর ভাষ্যে কথাটা এমন: হে মানুষ, তোমাদের নামাজে আল্লাহকে সিজদা করো, তাঁকে বাদ দিয়ে যেসব উপাস্য আর শরিক বানানো হয়েছে তাদের নয়। আর ইবাদত করো শুধু তাঁরই, অন্য কারও নয়, কারণ ইবাদত তাঁকে ছাড়া আর কারও প্রাপ্য নয়। তাই ইবাদত আর সিজদা খাঁটিভাবে তাঁর জন্য করো, তাতে তাঁর কোনো শরিক রেখো না। লাত, উযযা আর মানাত নিয়ে সূরাটি অনেক আয়াত ব্যয় করেছে। শেষ কথায় নত মাথাকে ফিরিয়ে দেয় সেই একমাত্র সত্তার দিকে, যাঁর পাশে ওদের দাঁড় করানো হয়েছিল।"
+          },
+          {
+            "en": "Ibn Kathir describes the verse as Allah commanding His servants to prostrate to Him and to worship Him in the way that follows His Messenger ﷺ, with tawhid and sincerity. He glosses the two verbs in three: submit to Him, be sincere, and affirm His oneness. The Muyassar's paraphrase runs close to this: prostrate to Allah, make worship sincerely His alone, and hand your affairs over to Him. Each of them hears in lillah not a direction of the body only but a single address for the heart.",
+            "bn": "ইবন কাসীর আয়াতটিকে দেখেন বান্দাদের প্রতি আল্লাহর আদেশ হিসেবে: তাঁকে সিজদা করো, আর তাঁর ইবাদত করো রাসূল ﷺ-এর দেখানো পথ ধরে, তাওহীদ ও ইখলাসের সঙ্গে। দুটি ক্রিয়ার ব্যাখ্যা তিনি দেন তিনটি কথায়: তাঁর সামনে নত হও, খাঁটি হও, আর তাঁর একত্ব মেনে নাও। মুয়াসসারের ভাষ্যও কাছাকাছি: আল্লাহকে সিজদা করো, ইবাদত খাঁটিভাবে একমাত্র তাঁরই জন্য করো, আর নিজের সব বিষয় তাঁর হাতে সঁপে দাও। লিল্লাহ শব্দে তাঁরা কেউই শুধু শরীরের দিক দেখেন না। দেখেন অন্তরের একটিমাত্র ঠিকানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Core of Worship",
+          "bn": "ইবাদতের সারকথা"
+        },
+        "p": [
+          {
+            "en": "Why name prostration first and then worship, when prostration is already worship? As-Sa'di answers that the command singles out prostration to show its excellence, because it is the secret and the core of worship. The core of worship, he says, is humility before Allah and submission to Him, and prostration is the greatest state in which a servant submits. In it the heart submits and the body submits together, and the servant places the noblest of his limbs on the lowly ground, the place where feet tread.",
+            "bn": "সিজদা তো নিজেই ইবাদত। তবু আগে আলাদা করে সিজদার কথা, তারপর ইবাদতের কথা কেন? সা'দীর জবাব: আদেশটি বিশেষ করে সিজদার নাম নিয়েছে তার মর্যাদা বোঝাতে, কারণ সিজদাই ইবাদতের গোপন রহস্য আর সারবস্তু। তিনি বলেন, ইবাদতের সার হলো আল্লাহর সামনে বিনয় আর তাঁর কাছে নিজেকে সঁপে দেওয়া। আর বান্দা সবচেয়ে বেশি নত হয় সিজদার অবস্থায়। তখন অন্তরও নত হয়, শরীরও। শরীরের সবচেয়ে সম্মানিত অঙ্গটি সে রাখে সেই নিচু মাটিতে, যেখানে মানুষ পা ফেলে হাঁটে।"
+          },
+          {
+            "en": "Then, as-Sa'di continues, the verse commands worship in general: everything Allah loves and is pleased with, of deeds and words, outward and inward. Read this way, the verse moves from one concentrated act to the whole of a life. The head that touched the ground carries the same lowered posture into speech, dealings and the hidden movements of the heart. Al-Baghawi keeps the second command plain, wa-'budu meaning worship Him, and at-Tabari, as above, reads both commands as a call to give Him alone the worship that is His.",
+            "bn": "সা'দী এরপর বলেন, আয়াতটি সাধারণভাবে ইবাদতের আদেশ দিয়েছে। তার মধ্যে পড়ে আল্লাহ যা ভালোবাসেন আর যাতে খুশি হন এমন সব কাজ ও কথা, বাইরের হোক বা ভেতরের। এভাবে পড়লে আয়াতটি একটি ঘনীভূত কাজ থেকে ছড়িয়ে পড়ে পুরো জীবনে। যে মাথা মাটি ছুঁয়েছে, সে একই নত ভঙ্গি নিয়ে যায় কথাবার্তায়, লেনদেনে, অন্তরের গোপন নড়াচড়ায়। বাগাভী দ্বিতীয় আদেশটি সরলভাবেই ব্যাখ্যা করেন: ওয়া'বুদূ মানে তাঁর ইবাদত করো। আর তাবারী, আগেই যেমন দেখা গেল, দুটি আদেশকেই পড়েন একমাত্র তাঁকে তাঁর প্রাপ্য ইবাদত দেওয়ার ডাক হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Whole Gathering on the Ground",
+          "bn": "মাটিতে নুয়ে পড়া এক সমাবেশ"
+        },
+        "p": [
+          {
+            "en": "The command was first obeyed in a scene recorded by al-Bukhari in his Sahih (1071), from Ibn 'Abbas (RA): \"The Prophet ﷺ prostrated while reciting an-Najm, and with him prostrated the Muslims, the pagans, the jinn and all human beings.\" Ibn Kathir and al-Baghawi both cite this narration on this verse, each through al-Bukhari. Ibn Kathir adds that al-Bukhari is alone in recording it and that Muslim did not. Note who is in the sentence: not only the believers, but those who had been laughing a few verses earlier.",
+            "bn": "আদেশটি প্রথম যেভাবে পালিত হয়েছিল, সেই দৃশ্য ইমাম বুখারী তাঁর সহীহ গ্রন্থে (১০৭১) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন: \"নবী ﷺ আন-নাজম তিলাওয়াত করে সিজদা করলেন, আর তাঁর সঙ্গে সিজদা করল মুসলিমরা, মুশরিকরা, জিন ও সব মানুষ।\" ইবন কাসীর ও বাগাভী দুজনেই এই আয়াতের আলোচনায় বর্ণনাটি এনেছেন, দুজনেই বুখারীর সূত্রে। ইবন কাসীর যোগ করেন, এটি শুধু বুখারীই বর্ণনা করেছেন, মুসলিম করেননি। বাক্যে কারা আছে খেয়াল করুন। শুধু ঈমানদাররা নয়, কয়েক আয়াত আগেও যারা হাসছিল, তারাও।"
+          },
+          {
+            "en": "'Abdullah ibn Mas'ud (RA) gives a closer view, in another narration of al-Bukhari (4863), which al-Baghawi also cites through al-Bukhari's chain: \"The first surah revealed in which there was a prostration was an-Najm. The Messenger of Allah ﷺ prostrated, and those behind him prostrated, except a man whom I saw take a handful of dust and prostrate on it. Later I saw him killed as a disbeliever, and he was Umayya ibn Khalaf.\" By this report, an-Najm was the first surah revealed with a prostration in it, and this verse is where it falls.",
+            "bn": "আরও কাছ থেকে দেখা ছবি দেন আবদুল্লাহ ইবন মাসঊদ (রাঃ), বুখারীর আরেকটি বর্ণনায় (৪৮৬৩)। বাগাভীও বুখারীর সনদ ধরে এটি এনেছেন: \"সিজদা আছে এমন যে সূরা প্রথম নাযিল হয়েছিল, তা আন-নাজম। রাসূলুল্লাহ ﷺ সিজদা করলেন, তাঁর পেছনে যারা ছিল তারাও সিজদা করল। শুধু একজন লোক ছাড়া। আমি দেখলাম সে এক মুঠো মাটি তুলে তার উপর সিজদা করল। পরে আমি তাকে কাফির অবস্থায় নিহত হতে দেখেছি। সে ছিল উমাইয়া ইবন খালাফ।\" এই বর্ণনা অনুযায়ী আন-নাজমই সিজদাসহ নাযিল হওয়া প্রথম সূরা, আর সেই সিজদার জায়গা এই আয়াত।"
+          },
+          {
+            "en": "Ibn Kathir adds one more account, which he relays from Imam Ahmad and notes that an-Nasa'i also recorded; he gives no grading for it. Al-Muttalib ibn Abi Wada'a says that the Prophet ﷺ recited an-Najm in Makkah and prostrated, and those with him prostrated, but he raised his head and refused. The account notes that he had not yet accepted Islam that day, and that afterwards he never heard anyone recite this surah without prostrating along with him.",
+            "bn": "ইবন কাসীর আরও একটি বর্ণনা আনেন। এটি তিনি ইমাম আহমাদ থেকে উদ্ধৃত করেন, আর জানান যে নাসাঈও এটি বর্ণনা করেছেন। এর মান সম্পর্কে তিনি কিছু বলেননি। মুত্তালিব ইবন আবী ওয়াদাআ বলেন, নবী ﷺ মক্কায় সূরা আন-নাজম তিলাওয়াত করে সিজদা করলেন, সঙ্গে যারা ছিল তারাও সিজদা করল। কিন্তু তিনি মাথা তুলে রাখলেন, সিজদা করতে রাজি হলেন না। বর্ণনায় আছে, সেদিন পর্যন্ত মুত্তালিব ইসলাম গ্রহণ করেননি। আর এরপর থেকে তিনি যখনই কাউকে এই সূরা পড়তে শুনতেন, তার সঙ্গে সিজদা না করে থাকতেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Idolaters Bowed",
+          "bn": "মুশরিকরা কেন নুয়ে পড়েছিল"
+        },
+        "p": [
+          {
+            "en": "Why would people who worshipped idols go down with the Muslims? Ma'arif al-Qur'an suggests that they may have been profoundly impressed by the solemnity of the moment and overawed by the recitation and by the majesty of Allah, and so fell down too. It adds that a prostration made in a state of disbelief carried no reward, though it left a deep impression on them. On this reading the scene shows what the verse can do to a hearer before any argument has been accepted.",
+            "bn": "মূর্তিপূজারীরা মুসলিমদের সঙ্গে সিজদায় গেল কেন? মাআরিফুল কুরআনের ধারণা, মুহূর্তটির গাম্ভীর্য তাদের গভীরভাবে নাড়া দিয়েছিল। তিলাওয়াত আর আল্লাহর মহিমার সামনে তারা অভিভূত হয়ে পড়েছিল, তাই তারাও নুয়ে পড়ে। সেই সঙ্গে মাআরিফ বলে, কুফরের অবস্থায় করা সিজদার কোনো সওয়াব ছিল না, তবে তাদের মনে তা গভীর ছাপ রেখে গিয়েছিল। এই পাঠে দৃশ্যটি দেখায়, কোনো যুক্তি মেনে নেওয়ার আগেই আয়াত শ্রোতার উপর কী করতে পারে।"
+          },
+          {
+            "en": "Al-Qurtubi first recalls the narration of Ibn 'Abbas that the idolaters prostrated along with the Prophet ﷺ. He then records, under the words it is said, another explanation tied to a narration he says he has already discussed under Surat al-Hajj. This article does not retell it. The article on 22:53 in this collection sets out why the commentators it cites, al-Qurtubi among them, reject that narration, and nothing here rests on it. The sound narrations above describe the prostration; they give no other cause for it.",
+            "bn": "কুরতুবী প্রথমে ইবন আব্বাস (রাঃ)-এর বর্ণনাটি মনে করিয়ে দেন: মুশরিকরা নবী ﷺ-এর সঙ্গে সিজদা করেছিল। তারপর 'বলা হয়' শব্দ দিয়ে তিনি আরেকটি ব্যাখ্যা উল্লেখ করেন, যা এমন এক বর্ণনার সঙ্গে জড়ানো, যার আলোচনা তিনি সূরা আল-হাজ্জে আগেই করেছেন বলে জানান। এই লেখায় সেটি আবার বলা হবে না। এই সংকলনের ২২:৫৩ আয়াতের লেখায় দেখানো হয়েছে, সেখানে উদ্ধৃত তাফসীরকারেরা, কুরতুবীসহ, কেন সেই বর্ণনা প্রত্যাখ্যান করেন। এখানকার কোনো কথাই তার উপর দাঁড়িয়ে নেই। উপরের সহীহ বর্ণনাগুলো সিজদার বিবরণ দেয়, এর অন্য কোনো কারণ বলে না।"
+          },
+          {
+            "en": "One more thing needs saying plainly. The narration names a man who refused and was later killed a disbeliever. It reports what happened to him, in his time. It licenses nothing against any living person or community, and no one may use it to mark a neighbour as the man with the handful of dust. Al-Muttalib's own account shows the other ending: a man who refused that day and later prostrated every time he heard the surah.",
+            "bn": "আরও একটি কথা সোজাসুজি বলা দরকার। বর্ণনাটি এক ব্যক্তির নাম নেয়, যে সিজদা করতে অস্বীকার করেছিল আর পরে কাফির অবস্থায় নিহত হয়েছিল। এ শুধু তার সময়ে তার সঙ্গে যা ঘটেছিল, তার বিবরণ। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ বর্ণনা কিছুরই অনুমতি দেয় না। প্রতিবেশীকে মুঠোভর্তি মাটির সেই লোক বলে দাগিয়ে দেওয়ার কোনো সুযোগ এতে নেই। মুত্তালিবের নিজের বর্ণনাই দেখায় অন্য এক পরিণতি: সেদিন যিনি অস্বীকার করেছিলেন, পরে তিনিই এই সূরা শুনলেই প্রতিবার সিজদা করতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Recital Without Prostration",
+          "bn": "সিজদা ছাড়া একটি তিলাওয়াত"
+        },
+        "p": [
+          {
+            "en": "A second report shows the same surah recited with no prostration at all. Al-Bukhari records in his Sahih (1073) from Zayd ibn Thabit (RA): \"I recited an-Najm before the Prophet ﷺ, and he did not prostrate in it.\" In the narration just before it (1072), 'Ata' ibn Yasar says that he asked Zayd about prostration, and Zayd told him the same thing. Al-Baghawi cites the report on this verse through al-Bukhari, and Ma'arif al-Qur'an mentions it too, as recorded in both Sahihs.",
+            "bn": "দ্বিতীয় একটি বর্ণনায় দেখা যায়, একই সূরা তিলাওয়াত হয়েছে, অথচ কোনো সিজদা হয়নি। ইমাম বুখারী তাঁর সহীহ গ্রন্থে (১০৭৩) যায়দ ইবন সাবিত (রাঃ) থেকে বর্ণনা করেছেন: \"আমি নবী ﷺ-এর সামনে আন-নাজম পড়লাম, তিনি তাতে সিজদা করলেন না।\" ঠিক আগের বর্ণনায় (১০৭২) আতা ইবন ইয়াসার বলেন, তিনি যায়দকে সিজদা সম্পর্কে জিজ্ঞেস করেছিলেন, আর যায়দ তাঁকে একই কথা জানান। বাগাভী এই আয়াতের আলোচনায় বুখারীর সূত্রে বর্ণনাটি আনেন। মাআরিফুল কুরআনও এর উল্লেখ করে, দুই সহীহ গ্রন্থে বর্ণিত বলে।"
+          },
+          {
+            "en": "The two commentators draw different conclusions from it. Al-Baghawi says this is evidence that the prostration of recitation is not obligatory, and he quotes 'Umar ibn al-Khattab (RA): Allah did not prescribe it for us unless we wish. He names this as the view of ash-Shafi'i and Ahmad. Ma'arif al-Qur'an answers that the report does not necessarily show that the prostration is not obligatory. The Prophet ﷺ may not have been in wudu at that moment, or may have had another valid reason, and in such cases the prostration may be delayed until the reason has passed.",
+            "bn": "এই বর্ণনা থেকে দুই তাফসীরকার দুই রকম সিদ্ধান্ত টানেন। বাগাভীর মতে, এ থেকে প্রমাণ হয় তিলাওয়াতের সিজদা ওয়াজিব নয়। তিনি উমর ইবনুল খাত্তাব (রাঃ)-এর কথা উদ্ধৃত করেন: আল্লাহ এটা আমাদের উপর ফরজ করেননি, তবে আমরা চাইলে করি। এটাকে তিনি শাফেঈ ও আহমাদের মত বলে উল্লেখ করেন। মাআরিফুল কুরআন এর জবাবে বলে, এই বর্ণনা থেকে সিজদা ওয়াজিব নয়, এমন সিদ্ধান্ত অবধারিতভাবে আসে না। হতে পারে নবী ﷺ তখন অজু অবস্থায় ছিলেন না, কিংবা অন্য কোনো যথার্থ কারণ ছিল। এমন ক্ষেত্রে কারণ দূর না হওয়া পর্যন্ত সিজদা পিছিয়ে রাখা যায়।"
+          },
+          {
+            "en": "Al-Baghawi records the other side as well: a group held that the prostration of recitation is obligatory on the reciter and the listener alike, and he names Sufyan ath-Thawri and the jurists he calls ashab ar-ra'y. Both positions stand here as their holders gave them. This article does not decide between them, and anyone who needs a ruling for their own recitation should ask a scholar they trust.",
+            "bn": "বাগাভী অন্য পক্ষের কথাও লিখে রাখেন। একদল আলিমের মতে, তিলাওয়াতের সিজদা পাঠক ও শ্রোতা দুজনের উপরই ওয়াজিব। এ মতের ধারক হিসেবে তিনি সুফিয়ান সাওরী আর যাঁদের তিনি আসহাবুর রায় বলেন সেই ফকীহদের নাম নেন। দুটি মতই এখানে রাখা হলো যেভাবে তাঁদের ধারকেরা বলেছেন। এই লেখা কোনো পক্ষে রায় দেয় না। নিজের তিলাওয়াতের ক্ষেত্রে বিধান জানতে হলে আস্থাভাজন কোনো আলিমকে জিজ্ঞেস করুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recital Prostration or Prayer?",
+          "bn": "তিলাওয়াতের সিজদা, না নামাজের?"
+        },
+        "p": [
+          {
+            "en": "A separate question is what the command itself refers to. Al-Qurtubi gives two readings. On the first, it means the prostration of reciting the Qur'an; he gives this as the view of Ibn Mas'ud (RA), held by Abu Hanifa and ash-Shafi'i. On the second, it means the obligatory prostration within the prayer; he gives this as the view of Ibn 'Umar (RA), who did not count this place among the binding prostrations, and Malik held the same. Al-Qurtubi then states his own preference: the first is more correct.",
+            "bn": "আরেকটি আলাদা প্রশ্ন: আদেশটি আসলে কোন সিজদার কথা বলছে? কুরতুবী দুটি ব্যাখ্যা দেন। প্রথমটি অনুযায়ী এর মানে কুরআন তিলাওয়াতের সিজদা। তিনি এটাকে ইবন মাসঊদ (রাঃ)-এর মত বলে উল্লেখ করেন, আর জানান আবু হানীফা ও শাফেঈও এ মত নিয়েছেন। দ্বিতীয়টি অনুযায়ী এর মানে নামাজের ভেতরের ফরজ সিজদা। এটা তিনি ইবন উমর (রাঃ)-এর মত বলে উল্লেখ করেন। ইবন উমর এই জায়গাকে অবশ্যপালনীয় সিজদাগুলোর মধ্যে গণ্য করতেন না, আর মালিকও একই মত নিয়েছেন। তারপর কুরতুবী নিজের পছন্দ জানান: প্রথম মতটিই বেশি সঠিক।"
+          },
+          {
+            "en": "At-Tabari's paraphrase, as seen above, places the prostration in your prayer, while Ibn Kathir and as-Sa'di speak of prostration and worship without tying the command to either occasion. The disagreement is real and old, and it is kept here as a disagreement. What all the readings share is the direction of the act: whether at the end of a recitation or within the prayer, the forehead goes down to Allah and to no one beside Him.",
+            "bn": "তাবারীর ভাষ্যে, আগেই যেমন দেখা গেল, সিজদার জায়গা 'তোমাদের নামাজে'। অন্যদিকে ইবন কাসীর আর সা'দী সিজদা ও ইবাদতের কথা বলেন, আদেশটিকে কোনো একটি উপলক্ষের সঙ্গে বাঁধেন না। মতভেদটি সত্যিকারের এবং পুরোনো, আর এখানে তা মতভেদ হিসেবেই রাখা হলো। তবে সব ব্যাখ্যায় একটি জিনিস এক: কাজটির লক্ষ্য। তিলাওয়াতের শেষে হোক বা নামাজের ভেতরে, কপাল নামে আল্লাহর জন্য, তাঁর পাশে আর কারও জন্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Letting a Verse Reach the Body",
+          "bn": "আয়াত যখন শরীর পর্যন্ত পৌঁছায়"
+        },
+        "p": [
+          {
+            "en": "The verses before this one describe hearers who wonder, laugh and do not weep, absorbed in their own amusement. The last verse does not answer them with a counter-argument. It asks for a posture. A reader today can test himself by the same measure. Does what I hear in the Qur'an stay in my opinions, discussed and admired, or does it reach my body and change what I do with it? The surah's final instruction is not to understand more, but to bow.",
+            "bn": "এর আগের আয়াতগুলো এমন শ্রোতাদের কথা বলে, যারা বিস্মিত হয়, হাসে, কাঁদে না, নিজেদের খেলাধুলায় ডুবে থাকে। শেষ আয়াত তাদের পাল্টা যুক্তি দিয়ে জবাব দেয় না। চায় একটি ভঙ্গি। আজকের পাঠকও নিজেকে একই মাপকাঠিতে যাচাই করতে পারেন। কুরআনে যা শুনি, তা কি শুধু আমার মতামতের ঘরে থেকে যায়, আলোচনা আর প্রশংসার বিষয় হয়ে? নাকি শরীর পর্যন্ত পৌঁছে আমার কাজ বদলে দেয়? সূরার শেষ নির্দেশ আরও বেশি বোঝার নয়, মাথা নোয়ানোর।"
+          },
+          {
+            "en": "As-Sa'di's two steps give the shape of a day. First the concentrated act, the noblest part of the body placed where feet tread; then worship in general, every word and deed Allah loves, seen and unseen. And at-Tabari's lillah gives it its single direction. A Muslim may prostrate many times a day and still bow, in practice, to approval, habit or fear of people. The verse closes the surah by gathering all of that back to one address: so prostrate to Allah, and worship.",
+            "bn": "সা'দীর দুই ধাপ একটা দিনের কাঠামো দেখিয়ে দেয়। প্রথমে ঘনীভূত কাজটি: শরীরের সবচেয়ে সম্মানিত অংশ রাখা হয় সেখানে, যেখানে পা পড়ে। তারপর সাধারণ ইবাদত: আল্লাহ যা ভালোবাসেন এমন প্রতিটি কথা ও কাজ, প্রকাশ্য হোক বা গোপন। আর তাবারীর 'লিল্লাহ' এর দিকটা ঠিক করে দেয়, একটাই দিক। একজন মুসলিম দিনে বহুবার সিজদা করেও কাজে কর্মে নুয়ে থাকতে পারে মানুষের বাহবা, অভ্যাস কিংবা লোকভয়ের সামনে। আয়াতটি সূরা শেষ করে এসব কিছুকে এক ঠিকানায় ফিরিয়ে এনে: তাই আল্লাহর জন্য সিজদা করো, আর ইবাদত করো।"
+          }
+        ]
+      }
+    ]
   }
 });
