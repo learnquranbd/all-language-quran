@@ -751,6 +751,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "72:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Sentence That Opens With Except",
+          "bn": "যে বাক্যের শুরু 'ছাড়া' দিয়ে"
+        },
+        "p": [
+          {
+            "en": "Three times in a row the Prophet ﷺ is commanded to say something about himself. In 72:20: I call only on my Lord. In 72:21: I do not possess for you harm or right guidance. In 72:22: no one will protect me from Allah, and I will find no refuge apart from Him. Then 72:23 opens with illa, except, and which sentence it completes is not obvious. Except what, and from which of the denials before it? The commentators fetched for this verse give four answers.",
+            "bn": "পরপর তিনবার নবী ﷺ-কে নিজের সম্পর্কে কিছু বলার আদেশ দেওয়া হয়। ৭২:২০-এ: আমি কেবল আমার রবকেই ডাকি। ৭২:২১-এ: তোমাদের ক্ষতি বা হিদায়াত, কোনোটারই মালিক আমি নই। ৭২:২২-এ: আল্লাহর হাত থেকে কেউ আমাকে রক্ষা করতে পারবে না, আর তাঁকে ছাড়া কোনো আশ্রয়ও আমি পাব না। এরপর ৭২:২৩ শুরু হয় ইল্লা দিয়ে, মানে 'ছাড়া'। কিন্তু এই 'ছাড়া' কোন বাক্যের সঙ্গে জুড়ছে, তা সহজে ধরা যায় না। কী ছাড়া? আগের কোন অস্বীকৃতি থেকে বাদ দেওয়া হচ্ছে? এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, সেগুলোতে চারটি উত্তর পাওয়া যায়।"
+          },
+          {
+            "en": "At-Tabari frames the whole passage as a command to the Prophet ﷺ to address the idolaters among the Arabs: say to them, I do not possess harm or guidance for you. The second half of the verse then turns from the messenger to his hearers: whoever disobeys Allah and His Messenger, for him is the fire of Jahannam, abiding in it forever. What the commentators say about that sentence, and about the word forever, comes later and stays in their names. First comes the grammar of one small word.",
+            "bn": "তাবারী গোটা অংশটাকে দেখেন নবী ﷺ-এর প্রতি এক আদেশ হিসেবে: আরবের মুশরিকদের বলো, তোমাদের ক্ষতি বা হিদায়াত, কোনোটাই আমার হাতে নেই। আয়াতের দ্বিতীয় অংশে কথা রাসূল থেকে সরে যায় শ্রোতাদের দিকে: যে আল্লাহ ও তাঁর রাসূলের অবাধ্য হয়, তার জন্য আছে জাহান্নামের আগুন, তাতে তারা চিরকাল থাকবে। এই বাক্য নিয়ে আর 'চিরকাল' শব্দটা নিয়ে তাফসীরকারেরা কী বলেন, তা আসবে পরে, তাঁদের নিজেদের নামেই। তার আগে একটা ছোট্ট শব্দের ব্যাকরণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owning Nothing but the Delivery",
+          "bn": "হাতে শুধু পৌঁছে দেওয়ার কাজ"
+        },
+        "p": [
+          {
+            "en": "The first answer ties the exception to 72:21. At-Tabari reads: I do not possess for you harm or right guidance, except that I convey to you from Allah what He commanded me to convey, and His messages with which He sent me to you. He then gives the reason the exception is so narrow: right guidance and forsaking are in Allah's hand; He alone owns them, guiding whom He wills and forsaking whom He wills. He adds that the people of interpretation said the same, and cites Qatada: that is what I possess, a conveyance from Allah and His messages.",
+            "bn": "প্রথম উত্তরে 'ছাড়া'-কে জোড়া হয় ৭২:২১-এর সঙ্গে। তাবারীর পাঠে অর্থ দাঁড়ায়: তোমাদের ক্ষতি বা হিদায়াত আমার হাতে নেই। আছে শুধু এটুকু যে, আল্লাহ যা পৌঁছাতে আদেশ করেছেন তা তোমাদের কাছে পৌঁছে দিই, আর পৌঁছে দিই তাঁর সেই রিসালাত, যা দিয়ে তিনি আমাকে তোমাদের কাছে পাঠিয়েছেন। ব্যতিক্রমটা এত সরু কেন, তার কারণও তিনি বলেন। হিদায়াত দেওয়া আর পথে ছেড়ে দেওয়া, দুটোই আল্লাহর হাতে। তিনিই একমাত্র মালিক। যাকে চান হিদায়াত দেন, যাকে চান ছেড়ে দেন। তাবারী জানান, তাফসীরের আলেমরাও এমনই বলেছেন, আর কাতাদার কথা আনেন: আমার মালিকানায় আছে এটুকুই, আল্লাহর পক্ষ থেকে পৌঁছে দেওয়া আর তাঁর রিসালাত।"
+          },
+          {
+            "en": "Al-Qurtubi gives Qatada's words more fully: a conveyance from Allah is what I possess, by Allah's enabling; as for disbelief and faith, I do not possess them. On this reading, al-Qurtubi says, the exception goes back to I do not possess for you harm or right guidance, meaning I possess nothing for you except to convey. Al-Baghawi has Qatada as well, with the words by Allah's help and enabling. Even the one thing the Prophet ﷺ owns is described as given to him.",
+            "bn": "কুরতুবী কাতাদার কথা আরেকটু পূর্ণ আকারে আনেন: আল্লাহর পক্ষ থেকে পৌঁছে দেওয়া, এটুকুই আমার মালিকানায়, তাও আল্লাহর তাওফীকে। কুফর আর ঈমান আমার মালিকানায় নেই। কুরতুবী বলেন, এই পাঠে 'ছাড়া' ফিরে যায় 'তোমাদের ক্ষতি বা হিদায়াতের মালিক আমি নই' কথাটার দিকে। মানে, পৌঁছে দেওয়া ছাড়া তোমাদের জন্য আমার হাতে আর কিছু নেই। বাগাভীও কাতাদাকে আনেন, তবে শব্দ একটু ভিন্ন: আল্লাহর সাহায্য ও তাওফীকে। নবী ﷺ-এর হাতে যে একটিমাত্র জিনিস, সেটাও এখানে আল্লাহর দান হিসেবেই বর্ণিত।"
+          },
+          {
+            "en": "Al-Farra', as al-Qurtubi reports him, keeps the same link but calls the exception munqati', cut off: conveying is not one of the kinds of harm or guidance, so illa works here like lakin, but. I own neither, but I convey what I was sent with. Al-Muyassar's plain paraphrase runs the same way: I cannot avert harm from you or bring you benefit, but I am able to convey to you from Allah what He commanded me to convey. Ibn Kathir mentions this link too, as what some have said.",
+            "bn": "কুরতুবীর বর্ণনায় ফাররাও একই সংযোগ মানেন, তবে ব্যতিক্রমটাকে বলেন মুনকাতি', অর্থাৎ বিচ্ছিন্ন। পৌঁছে দেওয়া তো ক্ষতি বা হিদায়াতের কোনো প্রকার নয়। তাই এখানে ইল্লা কাজ করে লাকিন-এর মতো, যার মানে 'তবে'। দুটোর কোনোটাই আমার হাতে নেই, তবে যা দিয়ে আমাকে পাঠানো হয়েছে তা পৌঁছে দিই। মুয়াসসারের সহজ ব্যাখ্যাও এই পথেই চলে: তোমাদের থেকে ক্ষতি ঠেকানো বা তোমাদের উপকার এনে দেওয়ার ক্ষমতা আমার নেই। তবে আল্লাহ যা পৌঁছাতে আদেশ করেছেন, তা তোমাদের কাছে পৌঁছে দিতে পারি। ইবন কাসীরও এই সংযোগের কথা বলেন, 'কেউ কেউ বলেছেন' বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shelter Found in Delivering",
+          "bn": "পৌঁছে দেওয়াতেই আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "The second answer ties the exception to 72:22: no one will protect me from Allah. Al-Qurtubi reports al-Hasan: except a conveyance from Allah and His messages, for in it is safety and deliverance. Al-Baghawi gives al-Hasan in almost the same words, adding protection: in it is protection, safety and deliverance. He then cites Muqatil: that is what protects me from Allah's punishment, meaning the conveying. On this reading, the very task the Prophet ﷺ owes is what shelters him.",
+            "bn": "দ্বিতীয় উত্তরে 'ছাড়া'-কে জোড়া হয় ৭২:২২-এর সঙ্গে: আল্লাহর হাত থেকে কেউ আমাকে রক্ষা করতে পারবে না। কুরতুবী হাসানের কথা আনেন: আল্লাহর পক্ষ থেকে পৌঁছে দেওয়া আর তাঁর রিসালাত ছাড়া, কেননা নিরাপত্তা আর মুক্তি এর মধ্যেই। বাগাভী হাসানের কথা প্রায় একই শব্দে আনেন, শুধু আশ্রয় শব্দটা যোগ করে: এর মধ্যেই আশ্রয়, নিরাপত্তা আর মুক্তি। এরপর তিনি মুকাতিলের কথা আনেন: এটাই আমাকে আল্লাহর আযাব থেকে রক্ষা করবে, মানে পৌঁছে দেওয়ার কাজ। এই পাঠে নবী ﷺ-এর উপর যে দায়িত্ব, সেটাই তাঁর আশ্রয়।"
+          },
+          {
+            "en": "Ibn Kathir offers this as a possibility, with the word yahtamil, it may be: none protects me from Him and saves me except my conveying the message whose delivery He made binding on me. He pairs it with 5:67: O Messenger, convey what has been sent down to you from your Lord; if you do not, you will not have conveyed His message; and Allah will protect you from the people. In the Arabic this reading comes second, after the first link, as one possibility among two.",
+            "bn": "ইবন কাসীর এটাকে একটা সম্ভাবনা হিসেবে আনেন, 'ইয়াহতামিল' মানে 'এমনও হতে পারে' বলে: যে রিসালাত পৌঁছানো তিনি আমার উপর ফরয করেছেন, তা পৌঁছে দেওয়া ছাড়া আর কিছুই আমাকে তাঁর থেকে রক্ষা করবে না, বাঁচাবে না। সঙ্গে তিনি ৫:৬৭ আয়াত আনেন: হে রাসূল, তোমার রবের পক্ষ থেকে তোমার কাছে যা নাযিল হয়েছে তা পৌঁছে দাও। যদি না করো, তবে তুমি তাঁর রিসালাত পৌঁছালে না। আর আল্লাহ তোমাকে মানুষ থেকে রক্ষা করবেন। আরবি তাফসীরে এই পাঠ আসে দ্বিতীয় স্থানে, প্রথম সংযোগের পরে, দুটি সম্ভাবনার একটি হিসেবে।"
+          },
+          {
+            "en": "Az-Zajjaj, in al-Qurtubi, reaches 72:22 by another road. He makes the word an accusative substitute, badal, for multahadan, refuge, at the end of that verse: I will find no refuge besides Him except to convey what comes to me from Allah. Al-Qurtubi gives a second form of the idea: except that I convey from Allah and act on His message, holding myself to what I command others. On that wording, the refuge lies not only in speaking the message but in living under it.",
+            "bn": "কুরতুবীর বর্ণনায় যাজ্জাজ ৭২:২২-এ পৌঁছান অন্য পথে। তাঁর মতে শব্দটা ওই আয়াতের শেষ শব্দ মুলতাহাদা, মানে আশ্রয়স্থল, তার বদল বা স্থলাভিষিক্ত হয়ে মানসূব। তখন অর্থ: আল্লাহর কাছ থেকে যা আসে তা পৌঁছে দেওয়া ছাড়া তাঁকে বাদ দিয়ে কোনো আশ্রয় আমি পাব না। কুরতুবী একই ভাবনার আরেকটা রূপও দেন: আল্লাহর পক্ষ থেকে পৌঁছে দেওয়া আর তাঁর রিসালাত অনুযায়ী আমল করা, অন্যকে যা করতে বলি নিজেকেও তাতে বেঁধে রাখা। এই ভাষ্যে আশ্রয় শুধু বাণী মুখে বলায় নয়, বাণীর অধীনে জীবন কাটানোতেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If, Not: Two Particles",
+          "bn": "ইন আর লা: দুটি অব্যয়"
+        },
+        "p": [
+          {
+            "en": "A third answer reads the letters differently. At-Tabari says the phrase may carry another meaning: illa is two particles, in, if, and la, not. The sense becomes: say, no one will protect me from Allah if I do not convey His messages. The accusative of balagh is then explained by an understood verb in a conditional pattern, like the Arab saying in la qiyaman fa-qu'udan, if not standing, then sitting, or if not a gift, then a gracious refusal.",
+            "bn": "তৃতীয় উত্তর অক্ষরগুলোকেই অন্যভাবে পড়ে। তাবারী বলেন, এর আরেকটা অর্থও হতে পারে: ইল্লা আসলে দুটি অব্যয়, ইন মানে 'যদি', আর লা মানে 'না'। তখন অর্থ দাঁড়ায়: বলো, আমি যদি তাঁর রিসালাত না পৌঁছাই, তবে আল্লাহর হাত থেকে কেউ আমাকে রক্ষা করবে না। বালাগ শব্দটা মানসূব কেন, তার ব্যাখ্যা তখন একটা উহ্য ক্রিয়া, শর্তের এক পরিচিত ধাঁচে। আরবরা যেমন বলে: ইন লা কিয়ামান ফা-কু'ঊদান, দাঁড়াতে না পারলে অন্তত বসো। কিংবা দিতে না পারলে অন্তত সুন্দর করে ফিরিয়ে দাও।"
+          },
+          {
+            "en": "Al-Qurtubi records the same reading, introduced with it was said: the word is a verbal noun, la stands for lam, and in is conditional. The meaning, he writes, is: I will find no refuge besides Him if I do not convey my Lord's messages. At-Tabari gives his own reading first and this one only as a possibility. Here, as with al-Hasan, delivering the message is the condition of the Messenger's safety; with Qatada, it is the limit of his power. The commentators fetched here list these side by side.",
+            "bn": "কুরতুবীও এই পাঠ আনেন, 'বলা হয়েছে' দিয়ে শুরু করে: শব্দটা মাসদার, লা এখানে লাম-এর অর্থে, আর ইন শর্তবাচক। তিনি লেখেন, অর্থ হলো: আমি যদি আমার রবের রিসালাত না পৌঁছাই, তবে তাঁকে ছাড়া কোনো আশ্রয় পাব না। তাবারী নিজের পাঠটা দেন আগে, আর এটাকে রাখেন কেবল একটা সম্ভাবনা হিসেবে। এখানে, হাসানের পাঠের মতোই, বাণী পৌঁছানো রাসূলের নিরাপত্তার শর্ত। কাতাদার পাঠে সেটা তাঁর ক্ষমতার সীমা। যে তাফসীরগুলো দেখা হয়েছে, সেগুলো এসব পাঠ পাশাপাশি রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Allah, and His Messages",
+          "bn": "আল্লাহর পক্ষ থেকে, আর তাঁর রিসালাত"
+        },
+        "p": [
+          {
+            "en": "The second noun, risalatihi, His messages, raises a small question of its own: what is it joined to? At-Tabari joins it to the conveying: except that I convey what He commanded me, and except His messages with which He sent me to you. Az-Zajjaj, in al-Qurtubi, reads it with from: a conveyance from Allah and from His messages, which He commanded me to deliver. On either reading, the content is not the Messenger's own. He passes on what was passed to him.",
+            "bn": "দ্বিতীয় বিশেষ্য রিসালাতিহি, মানে তাঁর রিসালাতসমূহ, নিজেই একটা ছোট প্রশ্ন তোলে: এটা কিসের সঙ্গে জুড়ছে? তাবারী এটাকে জোড়েন পৌঁছে দেওয়ার সঙ্গে: তিনি যা আদেশ করেছেন তা পৌঁছে দেওয়া ছাড়া, আর যে রিসালাত দিয়ে তিনি আমাকে তোমাদের কাছে পাঠিয়েছেন তা ছাড়া। কুরতুবীর বর্ণনায় যাজ্জাজ এটাকে পড়েন 'থেকে' শব্দের সঙ্গে: আল্লাহর পক্ষ থেকে এবং তাঁর সেই রিসালাত থেকে পৌঁছে দেওয়া, যা পৌঁছানোর আদেশ তিনি আমাকে দিয়েছেন। যেভাবেই পড়া হোক, বিষয়বস্তু রাসূলের নিজের নয়। তাঁর হাতে যা দেওয়া হয়েছে, তিনি তা-ই অন্যের হাতে তুলে দেন।"
+          },
+          {
+            "en": "As-Sa'di draws the personal meaning: I have no distinction over people, except that Allah singled me out to convey His messages and to call creation to Allah, and by this the proof is established against people. Read this way, the verse lowers and raises at once. It denies the Messenger ﷺ any power over harm or guidance, and it names the one thing that sets him apart. And once the message has been delivered, the proof stands, and no hearer can later say it never came.",
+            "bn": "সা'দী এখান থেকে ব্যক্তিগত অর্থটা বের করেন: মানুষের উপর আমার কোনো বিশেষত্ব নেই, শুধু এটুকু ছাড়া যে আল্লাহ আমাকে তাঁর রিসালাত পৌঁছানো আর সৃষ্টিকে আল্লাহর দিকে ডাকার জন্য বেছে নিয়েছেন। আর এর মাধ্যমেই মানুষের বিরুদ্ধে হুজ্জত বা প্রমাণ কায়েম হয়। এভাবে পড়লে আয়াতটা একসঙ্গে নামায়ও, ওঠায়ও। ক্ষতি বা হিদায়াতের উপর রাসূল ﷺ-এর কোনো ক্ষমতা আয়াত অস্বীকার করে, আবার যে একটা জিনিস তাঁকে আলাদা করে, তার নামও বলে দেয়। বাণী একবার পৌঁছে গেলে প্রমাণ দাঁড়িয়ে যায়। কোনো শ্রোতা পরে বলতে পারবে না যে বাণী তার কাছে আসেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Who Disobeys, Many Who Remain",
+          "bn": "অবাধ্য একজন, চিরস্থায়ী অনেকে"
+        },
+        "p": [
+          {
+            "en": "The second half changes its subject, and al-Qurtubi notes three points of grammar. Inna after the fa' of the consequence takes kasra, fa-inna, because what follows that fa' is the opening of a new clause. Khalidina, abiding, is accusative as a circumstantial phrase, a hal. And it is plural, though the sentence began with the singular man, whoever, and lahu, for him. A sentence about one person ends with a crowd.",
+            "bn": "আয়াতের দ্বিতীয় অংশে কর্তা বদলে যায়, আর কুরতুবী এখানে ব্যাকরণের তিনটি দিক দেখান। শর্তের জবাবের ফা-এর পরে ইন্না পড়া হয় যের দিয়ে, ফা-ইন্না, কারণ ওই ফা-এর পরে নতুন বাক্য শুরু হয়। খালিদীন, মানে চিরস্থায়ী, শব্দটা হাল হিসেবে মানসূব। আর শব্দটা বহুবচন, যদিও বাক্য শুরু হয়েছিল একবচন দিয়ে: মান, মানে যে কেউ, আর লাহু, মানে তার জন্য। একজনকে নিয়ে শুরু হওয়া বাক্য শেষ হয় অনেককে নিয়ে।"
+          },
+          {
+            "en": "His explanation of the plural is that the meaning applies to everyone who does this. The pronoun first follows the singular form of man, then the plural sense it carries. So the verse begins with one person facing a choice and ends with a company sharing an outcome. Ibn Kathir glosses the closing words as no turning away from it and no way out of it; at-Tabari glosses them as remaining in it forever, without end.",
+            "bn": "বহুবচনের কারণ হিসেবে কুরতুবী বলেন, অর্থটা খাটে এমন কাজ যে-ই করে তাদের প্রত্যেকের উপর। সর্বনাম প্রথমে মান শব্দের একবচন রূপ অনুসরণ করে, তারপর অনুসরণ করে এর ভেতরে থাকা বহুবচনের অর্থ। ফলে আয়াতের শুরুতে একজন মানুষ, সামনে একটা বাছাই। শেষে একটা দল, যাদের পরিণতি এক। শেষ শব্দগুলোর ব্যাখ্যায় ইবন কাসীর বলেন, সেখান থেকে তাদের সরে যাওয়ার পথ নেই, বেরোনোরও উপায় নেই। তাবারী বলেন, তাতে তারা থাকবে চিরকাল, যার কোনো শেষ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Disobedience Is Meant",
+          "bn": "কোন অবাধ্যতার কথা"
+        },
+        "p": [
+          {
+            "en": "Who is meant by whoever disobeys Allah and His Messenger? The commentators fetched here read the clause within its setting, an address to people being called away from idols. At-Tabari: whoever disobeys Allah in what He commanded and forbade, and gives the lie to Him and His Messenger, rejecting His messages. Al-Baghawi adds a short clause: and did not believe. Al-Muyassar: whoever disobeys Allah and His Messenger and turns away from Allah's religion. Al-Qurtubi glosses the disobedience as being in tawhid and worship.",
+            "bn": "'যে আল্লাহ ও তাঁর রাসূলের অবাধ্য হয়', এখানে কার কথা বলা হচ্ছে? যে তাফসীরগুলো দেখা হয়েছে, সেগুলো বাক্যটা পড়ে তার প্রেক্ষাপটে রেখে। প্রেক্ষাপট হলো মূর্তিপূজা থেকে ফিরে আসার দাওয়াত পাওয়া মানুষদের প্রতি সম্বোধন। তাবারীর ব্যাখ্যা: যে আল্লাহর আদেশ-নিষেধে তাঁর অবাধ্য হয়, তাঁকে ও তাঁর রাসূলকে মিথ্যা বলে, তাঁর রিসালাত অস্বীকার করে। বাগাভী ছোট্ট একটা কথা জুড়ে দেন: আর ঈমান আনেনি। মুয়াসসার বলে: যে আল্লাহ ও তাঁর রাসূলের অবাধ্য হয় আর আল্লাহর দ্বীন থেকে মুখ ফিরিয়ে নেয়। কুরতুবীর মতে অবাধ্যতাটা তাওহীদ আর ইবাদতের ব্যাপারে।"
+          },
+          {
+            "en": "Al-Qurtubi then sets out two readings. In the first, stated in his own voice, the word abadan, forever, is evidence that the disobedience here is shirk. The second he introduces with it was said: the disobedience means sins other than shirk, and abiding forever carries an understood qualification, unless there is pardon or intercession reaches them; and those who leave the world upon faith, it adds, are inevitably reached by pardon. He refers the reader to his fuller treatment in Surat an-Nisa' and elsewhere.",
+            "bn": "এরপর কুরতুবী দুটি পাঠ সামনে রাখেন। প্রথমটা তিনি বলেন নিজের ভাষায়: আবাদান, মানে চিরকাল, শব্দটাই প্রমাণ যে এখানে অবাধ্যতা মানে শিরক। দ্বিতীয়টা আনেন 'বলা হয়েছে' দিয়ে: অবাধ্যতা মানে শিরক ছাড়া অন্য গুনাহ। তখন 'চিরকাল থাকবে' কথাটার সঙ্গে একটা উহ্য শর্ত আছে, যদি না ক্ষমা আসে বা শাফাআত তাদের কাছে পৌঁছায়। এই পাঠ আরও বলে, যারা ঈমান নিয়ে দুনিয়া ছাড়ে, ক্ষমা তাদের কাছে পৌঁছাবেই। বিস্তারিত আলোচনার জন্য কুরতুবী পাঠককে সূরা নিসা ও অন্যান্য জায়গার দিকে ফিরিয়ে দেন।"
+          },
+          {
+            "en": "As-Sa'di is direct: what is meant is disobedience that amounts to disbelief, as other decisive texts restrict it; mere disobedience does not require eternity in the Fire, as verses of the Qur'an and hadiths of the Prophet ﷺ show, and on this, he says, the early generations and the imams of this community agreed. Ibn Kathir frames the warning by its order in time: I convey to you Allah's message, so whoever disobeys after that has this recompense.",
+            "bn": "সা'দী সরাসরি বলেন: এখানে উদ্দেশ্য সেই অবাধ্যতা যা কুফরের পর্যায়ে পৌঁছায়, অন্যান্য সুস্পষ্ট নস যেভাবে একে সীমিত করেছে। শুধু গুনাহ জাহান্নামে চিরকাল থাকা অনিবার্য করে না। কুরআনের আয়াত আর নবী ﷺ-এর হাদীস তা দেখায়, আর তাঁর কথায়, এ বিষয়ে সালাফ ও এই উম্মতের ইমামরা একমত হয়েছেন। ইবন কাসীর সতর্কবাণীটা দেখেন সময়ের ক্রম ধরে: আমি তোমাদের কাছে আল্লাহর রিসালাত পৌঁছে দিচ্ছি। এরপরও যে অবাধ্য হয়, তার প্রতিদান এটাই।"
+          },
+          {
+            "en": "These are the commentators' readings, given in their names. The verse describes what the text describes, a warning in general terms about whoever disobeys after the message arrives, and it licenses nothing against any living person or community: it names no one, and it gives no reader the right to pass that sentence on a particular individual. In the commentators' framing its address is to whoever hears the message, and the person reading it now is among them.",
+            "bn": "এগুলো তাফসীরকারদের পাঠ, তাঁদের নামেই বলা হলো। আয়াতটি শুধু তা-ই বর্ণনা করে যা এর ভাষায় আছে: বাণী পৌঁছানোর পরে যে অবাধ্য হয়, তার ব্যাপারে এক সাধারণ সতর্কবাণী। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এখানে কারও নাম নেই। নির্দিষ্ট কোনো ব্যক্তির উপর এই রায় ঘোষণা করার অধিকারও কোনো পাঠককে দেওয়া হয়নি। তাফসীরকারদের পাঠে সম্বোধন তাদের প্রতি, যাদের কাছে বাণী পৌঁছেছে। এখন যিনি পড়ছেন, তিনিও তাদেরই একজন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Even a Single Verse",
+          "bn": "একটি আয়াত হলেও"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it. A narration about conveying in general, not tied to this verse, is in Sahih al-Bukhari (3461), from 'Abdullah ibn 'Amr: The Prophet (ﷺ) said, \"Convey (my teachings) to the people even if it were a single sentence, and tell others the stories of Bani Israel (which have been taught to you), for it is not sinful to do so. And whoever tells a lie on me intentionally, will surely take his place in the (Hell) Fire.\"",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীরে এর সঙ্গে কোনো হাদীস যুক্ত করা হয়নি। সাধারণভাবে পৌঁছে দেওয়া নিয়ে একটি বর্ণনা আছে সহীহ বুখারীতে (৩৪৬১), যা এ আয়াতের সঙ্গে সম্পর্কিত নয়। আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: \"আমার পক্ষ থেকে পৌঁছে দাও, একটি আয়াত হলেও। আর বনী ইসরাঈল থেকে বর্ণনা করো, তাতে দোষ নেই। আর যে ইচ্ছাকৃতভাবে আমার নামে মিথ্যা বলে, সে যেন জাহান্নামে তার ঠিকানা বানিয়ে নেয়।\""
+          },
+          {
+            "en": "The verse and the narration meet at one point. The Messenger's ﷺ duty in the verse is the whole message; the hearer's share in the hadith may be as small as a single verse, yet it must be passed on as it came, since the same narration closes by warning against lying about him. In both, conveying means faithfulness to what was received. Neither the verse nor the hadith makes the one who conveys answerable for what the hearer then decides.",
+            "bn": "আয়াত আর হাদীস এক জায়গায় এসে মেলে। আয়াতে রাসূল ﷺ-এর দায়িত্ব পুরো বাণী। হাদীসে শ্রোতার ভাগ একটি আয়াতের মতো ছোটও হতে পারে, কিন্তু তা পৌঁছাতে হবে যেমন এসেছে তেমনই। কারণ একই বর্ণনা শেষ হয় তাঁর নামে মিথ্যা বলার বিরুদ্ধে সতর্ক করে। দুই জায়গাতেই পৌঁছে দেওয়া মানে যা পাওয়া গেছে তার প্রতি বিশ্বস্ততা। শ্রোতা পরে কী সিদ্ধান্ত নেবে, তার দায় যে পৌঁছে দেয় তার উপর আয়াতও চাপায় না, হাদীসও না।"
+          },
+          {
+            "en": "For the reader, the two halves of 72:23 settle two burdens. The first is a burden we try to carry and cannot: the hearts of others, which at-Tabari places wholly in Allah's hand, guiding whom He wills. The second is a burden we try to set down and cannot: our own answer to a message that has already reached us. Delivered words, in as-Sa'di's phrase, establish the proof. Whether they become guidance lies between each hearer and his Lord.",
+            "bn": "পাঠকের জন্য ৭২:২৩-এর দুই অংশ দুটি বোঝার হিসাব মিটিয়ে দেয়। প্রথমটা সেই বোঝা, যা আমরা বইতে চাই অথচ পারি না: অন্যের অন্তর। তাবারী তা পুরোপুরি আল্লাহর হাতে রাখেন, তিনি যাকে চান হিদায়াত দেন। দ্বিতীয়টা সেই বোঝা, যা আমরা নামিয়ে রাখতে চাই অথচ পারি না: যে বাণী আমাদের কাছে আগেই পৌঁছে গেছে, তার জবাব। সা'দীর ভাষায়, পৌঁছে দেওয়া কথাই প্রমাণ কায়েম করে। সেই কথা হিদায়াত হয়ে উঠবে কি না, তা প্রত্যেক শ্রোতা আর তার রবের মাঝের ব্যাপার।"
+          }
+        ]
+      }
+    ]
+  },
   "72:26": {
     "sections": [
       {

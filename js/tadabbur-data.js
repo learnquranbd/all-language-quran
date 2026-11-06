@@ -28847,6 +28847,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your wealth holds a right for the one who asks and the one who stays silent; answer the hand held out, and go looking for the one who will not ask.",
     "lessonBn": "আপনার সম্পদে হক আছে যে চায় তার, আর যে চুপ থাকে তারও; বাড়ানো হাতে সাড়া দিন, আর যে চাইবে না তাকে খুঁজে নিন।"
+  },
+  "72:23": {
+    "reflectionEn": "The one who brought the Qur'an is told to say it plainly: I cannot harm you, I cannot guide you, and no one can shelter me from Allah. What remains in his hands is a single thing: to deliver what Allah sent, whole and unaltered. Then the verse turns to the listener. Once the message has arrived, what is done with it is no longer the messenger's burden, and the warning that follows is severe. Two lessons sit side by side. I do not own anyone's heart, so I need neither despair over people nor force them. And I fully own my own answer, so I cannot hide behind anyone else's. What have I already heard that I have not yet answered?",
+    "reflectionBn": "যিনি কুরআন নিয়ে এসেছেন, তাঁকেই বলতে বলা হচ্ছে খোলাখুলি: আমি তোমাদের ক্ষতি করতে পারি না, হিদায়াতও দিতে পারি না, আর আল্লাহর হাত থেকে কেউ আমাকে বাঁচাতে পারবে না। তাঁর হাতে বাকি থাকে শুধু একটা কাজ: আল্লাহ যা পাঠিয়েছেন, পুরোটা অবিকৃত পৌঁছে দেওয়া। তারপর আয়াত মুখ ফেরায় শ্রোতার দিকে। বাণী একবার পৌঁছে গেলে তা নিয়ে কে কী করল, সে বোঝা আর রাসূলের কাঁধে থাকে না। আর এর পরের সতর্কবাণীটা বড় কঠিন। পাশাপাশি দুটো শিক্ষা। কারও অন্তর আমার হাতে নেই, তাই মানুষকে নিয়ে হতাশ হওয়ারও দরকার নেই, জোর খাটানোরও না। আবার নিজের জবাবের দায় পুরোটাই আমার, তাই অন্য কারও আড়ালে লুকানোর উপায় নেই। যা শুনেছি অথচ এখনো যার জবাব দিইনি, তা কোনটা?",
+    "pointsEn": [
+      "Whom am I trying to guide as if their guidance were in my hands, and how would I treat them if I truly left it with Allah?",
+      "What part of the message have I heard clearly, yet still answer with delay or excuses?",
+      "When I pass on something of the religion, do I deliver it as it came, or shape it to please my listener?",
+      "Is there a verse or a teaching I know well that I have never passed on to anyone, not even one sentence of it?",
+      "Do I take comfort in the faults of others as if their failure would lighten my own account?"
+    ],
+    "pointsBn": [
+      "কাকে আমি এমনভাবে পথ দেখাতে চাইছি যেন তার হিদায়াত আমার হাতে? বিষয়টা সত্যিই আল্লাহর হাতে ছেড়ে দিলে তার সঙ্গে আমার আচরণ কেমন হতো?",
+      "বাণীর কোন অংশ আমি পরিষ্কার শুনেছি, অথচ এখনো তার জবাব দিচ্ছি দেরি করে বা অজুহাত দেখিয়ে?",
+      "দ্বীনের কোনো কথা অন্যকে বলার সময় কি যেমন এসেছে তেমনই পৌঁছে দিই, নাকি শ্রোতাকে খুশি করতে একটু ঘুরিয়ে নিই?",
+      "এমন কোনো আয়াত বা শিক্ষা কি আছে যা আমি ভালো করে জানি, অথচ কাউকে তার একটা বাক্যও কখনো পৌঁছে দিইনি?",
+      "অন্যের দোষ দেখে কি আমি মনে মনে স্বস্তি পাই, যেন তাদের ব্যর্থতায় আমার নিজের হিসাব হালকা হয়ে যাবে?"
+    ],
+    "lessonEn": "The Messenger owned only the delivery of Allah's message; hearts are in Allah's hand, and once the message reaches you, the answer to it is yours alone.",
+    "lessonBn": "রাসূলের হাতে ছিল শুধু আল্লাহর বাণী পৌঁছে দেওয়ার দায়িত্ব। অন্তর আল্লাহর হাতে। বাণী আপনার কাছে পৌঁছে গেলে তার জবাবের দায় একান্তই আপনার।"
   }
 };
 
