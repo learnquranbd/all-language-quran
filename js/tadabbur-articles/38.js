@@ -1475,6 +1475,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:50": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Good Return, Named",
+          "bn": "উত্তম প্রত্যাবর্তনের নাম"
+        },
+        "p": [
+          {
+            "en": "Surah Sad has spent its middle naming servants of Allah, from Dawud and Sulayman to Ayyub, then Ibrahim, Ishaq and Ya'qub, then Isma'il, al-Yasa' and Dhu l-Kifl. Then 38:49 closes the list: hadha dhikr, this is a reminder, and for the mindful there is a good place of return, husna ma'ab. The next verse says what that return is, in five Arabic words: jannati 'adnin mufattahatan lahumu l-abwab, Gardens of 'Adn, whose doors are opened for them.",
+            "bn": "সূরা সাদ তার মাঝের অংশজুড়ে আল্লাহর বান্দাদের নাম নিয়েছে। প্রথমে দাউদ ও সুলাইমান, তারপর আইয়ুব, তারপর ইবরাহীম, ইসহাক ও ইয়াকুব, শেষে ইসমাঈল, আল-ইয়াসা ও যুল-কিফল (আঃ)। তারপর ৩৮:৪৯ তালিকাটি শেষ করে: হাযা যিকর, এ এক উপদেশ। আর মুত্তাকীদের জন্য আছে উত্তম প্রত্যাবর্তনের স্থান, হুসনা মাআব। সেই প্রত্যাবর্তন আসলে কী, পরের আয়াত তা বলে দেয় আরবির মাত্র পাঁচ শব্দে: জান্নাতি আদনিন মুফাত্তাহাতান লাহুমুল আবওয়াব। আদনের জান্নাত, যার দরজাগুলো তাদের জন্য খোলা।"
+          },
+          {
+            "en": "The commentators agree on how the two verses join. Ibn Kathir glosses ma'ab as the place one goes back to and ends up at, then says Allah explained it with His words, Gardens of 'Adn. At-Tabari calls the phrase an explanation of the good return and a rendering of it. As-Sa'di says Allah explained it and set it out in detail. So 38:50 is not a new topic; it is the content of a promise just made, and 38:51 and 38:52 go on to fill it in.",
+            "bn": "দুই আয়াত কীভাবে জোড়া লাগে, সে ব্যাপারে তাফসীরকারেরা একমত। ইবন কাসীর মাআব শব্দের অর্থ করেন সেই জায়গা, যেখানে মানুষ ফিরে যায় আর শেষ পর্যন্ত গিয়ে ঠেকে। তারপর বলেন, আল্লাহ নিজেই তার ব্যাখ্যা দিয়েছেন আদনের জান্নাত বলে। তাবারীর ভাষায় কথাটি উত্তম প্রত্যাবর্তনের ব্যাখ্যা, তারই অনুবাদ। সাদীও বলেন, আল্লাহ বিষয়টি খুলে বলেছেন, বিস্তারিত করেছেন। কাজেই ৩৮:৫০ নতুন কোনো প্রসঙ্গ নয়। সদ্য দেওয়া একটি প্রতিশ্রুতির ভেতরের কথা এটি, আর ৩৮:৫১ ও ৩৮:৫২ তা আরও ভরিয়ে তোলে।"
+          },
+          {
+            "en": "Al-Muyassar reads 38:49 to 38:51 as a single sentence: this Qur'an is a reminder and an honour for you, O Messenger, and for your people, and for those who fear Allah and obey Him there is a good destination with Us, in Gardens of staying whose doors are opened for them, reclining, asking for fruit and drink. The reclining, the fruit and the companions of 38:51 and 38:52 are treated in this site's article on 38:53. This article stays with the five words.",
+            "bn": "মুয়াসসার ৩৮:৪৯ থেকে ৩৮:৫১ পর্যন্ত এক বাক্যে পড়ে। হে রাসূল, এ কুরআন আপনার ও আপনার কওমের জন্য উপদেশ ও মর্যাদা। আর যারা আল্লাহকে ভয় করে ও তাঁর আনুগত্য করে, তাদের জন্য আমার কাছে আছে উত্তম ঠিকানা। থাকার জন্য বানানো জান্নাত, যার দরজা তাদের জন্য খোলা, যেখানে তারা হেলান দিয়ে বসে ফলমূল আর পানীয় চাইবে। ৩৮:৫১ ও ৩৮:৫২ আয়াতের হেলান দেওয়া, ফলমূল আর সঙ্গিনীদের কথা এই সাইটের ৩৮:৫৩ আয়াতের প্রবন্ধে আলোচিত হয়েছে। এ প্রবন্ধ থাকবে ওই পাঁচ শব্দের সঙ্গেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "'Adn, Where One Stays",
+          "bn": "আদন, যেখানে থেকে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "The first word after Gardens is 'adn, and the commentators fetched here all give it one sense. Al-Qurtubi gives it from the language: al-'adn means staying, and the Arabs say 'adana bi-l-makan when someone settles in a place and remains. At-Tabari renders the phrase basatin iqama, orchards of staying, and says he has already set out the word's evidence and the differences over it earlier in his book, so he does not repeat them here. Ibn Kathir and al-Muyassar also say jannat iqama.",
+            "bn": "জান্নাত শব্দের পরের শব্দটি আদন। এখানে যেসব তাফসীর দেখা হয়েছে, সবগুলোই এর একটাই অর্থ দেয়। কুরতুবী অর্থটি আনেন ভাষা থেকে: আদন মানে থেকে যাওয়া। কেউ কোনো জায়গায় ঠাঁই নিয়ে স্থির হলে আরবরা বলে, আদানা বিল-মাকান। তাবারী কথাটির অনুবাদ করেন বাসাতীনু ইকামা, থাকার বাগান। তিনি জানান, শব্দটির প্রমাণ আর তা নিয়ে মতভেদ তিনি তাঁর গ্রন্থের আগের অংশে বলে এসেছেন, তাই এখানে আর পুনরাবৃত্তি করছেন না। ইবন কাসীর ও মুয়াসসারও বলেন জান্নাতু ইকামা, থাকার জান্নাত।"
+          },
+          {
+            "en": "As-Sa'di draws out what staying means for the one who stays. These are Gardens whose owner seeks no exchange for them, because of how complete they are and how full their bliss; and the people in them neither leave nor are made to leave. Two fears end there at once: the fear of growing tired of a place, and the fear of being sent away from it. The abridged English Ibn Kathir puts the word in one adjective: eternal gardens.",
+            "bn": "যে থাকবে, তার জন্য থেকে যাওয়ার মানে কী, সাদী তা খুলে বলেন। এ এমন জান্নাত, যার মালিক এর বদলে অন্য কিছু চাইবে না, কারণ তা পরিপূর্ণ আর এর নিয়ামত পুরোপুরি পূর্ণ। আর সেখানকার মানুষ নিজেরাও বেরিয়ে যাবে না, তাদের বের করেও দেওয়া হবে না। দুটি ভয় সেখানে একসঙ্গে শেষ হয়ে যায়। একটি হলো জায়গার প্রতি বিরক্ত হয়ে পড়ার ভয়, অন্যটি সেখান থেকে বিদায় করে দেওয়ার ভয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ শব্দটিকে ধরেছে একটি বিশেষণে: চিরস্থায়ী বাগান।"
+          },
+          {
+            "en": "That matters for the doors. A door opened on a house you will soon leave is a courtesy. A door opened on a home you will never leave, and never wish to, is a welcome without an end. The verse puts the two words side by side, staying and opened, so the reader hears both at once: the place is permanent, and the entry into it is already made easy.",
+            "bn": "দরজার প্রসঙ্গে এর গুরুত্ব আছে। যে ঘর থেকে শিগগিরই চলে যেতে হবে, তার খোলা দরজা কেবল ভদ্রতা। আর যে ঘর থেকে কখনো যেতে হবে না, যেতে মনও চাইবে না, তার খোলা দরজা এমন এক অভ্যর্থনা, যার শেষ নেই। আয়াতটি থাকা আর খোলা, এই দুই কথা পাশাপাশি রেখেছে। পাঠক তাই দুটো একসঙ্গে শোনে: জায়গাটি স্থায়ী, আর সেখানে ঢোকার পথ আগেই সহজ করে রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Palace Called 'Adn, Relayed",
+          "bn": "আদন নামের প্রাসাদের বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Three of the commentaries relay a report that 'Adn is also the name of a palace in the Garden, kept for the prophets, the truthful and the martyrs, and they relay it differently. Ibn Kathir carries it through Ibn Abi Hatim, with a chain to 'Abd Allah ibn 'Amr that raises it to the Prophet ﷺ. That chain could not be checked against a hadith collection for this article, so its wording is not quoted here. Al-Qurtubi gives a similar text as a saying of 'Abd Allah ibn 'Umar.",
+            "bn": "তিনটি তাফসীর একটি বর্ণনা উল্লেখ করে যে আদন জান্নাতের এক প্রাসাদেরও নাম, যা নবী, সিদ্দীক আর শহীদদের জন্য। তবে তিনজন তা আনেন তিনভাবে। ইবন কাসীর ইবন আবী হাতিমের সূত্রে বর্ণনাটি আনেন, যার সনদ আব্দুল্লাহ ইবন আমর (রাঃ) হয়ে নবী ﷺ পর্যন্ত পৌঁছানো হয়েছে। এই লেখার জন্য সেই সনদ কোনো হাদীস সংকলনে মিলিয়ে দেখা যায়নি, তাই এর শব্দ এখানে উদ্ধৃত করা হলো না। কুরতুবী প্রায় একই কথা আনেন আব্দুল্লাহ ইবন উমর (রাঃ)-এর উক্তি হিসেবে।"
+          },
+          {
+            "en": "At-Tabari has it through Qatada as a question and answer: 'Umar asked Ka'b what 'Adn is, and Ka'b said, Commander of the Believers, palaces of gold in the Garden where the prophets, the truthful, the martyrs and the just leaders live. So the same picture comes as a saying of the Prophet ﷺ in one book, a Companion's saying in another, and Ka'b's answer in a third. None of the three commentators grades it, so it is given here as what they relay, and nothing is built on it.",
+            "bn": "তাবারী কাতাদার সূত্রে এটি আনেন প্রশ্নোত্তরের আকারে। উমর (রাঃ) কাবকে জিজ্ঞেস করলেন, আদন কী? কাব বললেন, হে আমীরুল মুমিনীন, জান্নাতে সোনার তৈরি কিছু প্রাসাদ, যেখানে থাকবেন নবীগণ, সিদ্দীকগণ, শহীদগণ আর ন্যায়পরায়ণ নেতারা। একই ছবি তাহলে এক কিতাবে এসেছে নবী ﷺ-এর বাণী হিসেবে, আরেকটিতে সাহাবীর উক্তি হিসেবে, তৃতীয়টিতে কাবের জবাব হিসেবে। তিনজন তাফসীরকারের কেউই এর মান নির্ণয় করেননি। তাই এখানে এটি শুধু তাঁদের বর্ণনা হিসেবেই রাখা হলো, এর উপর কিছু দাঁড় করানো হলো না।"
+          },
+          {
+            "en": "What the verse itself says is plainer. Its pronoun, lahum, for them, points back to al-muttaqin in 38:49, the mindful, and al-Muyassar names them as the people of fear of Allah and obedience to Him. Whatever rank the palace report describes, the doors of this verse are promised to everyone the verse before calls mindful. That is the hope it hands the reader, and the commentators fetched here do not narrow it.",
+            "bn": "আয়াতটি নিজে যা বলে, তা আরও সরল। এর সর্বনাম লাহুম, তাদের জন্য, ফিরে যায় ৩৮:৪৯ আয়াতের আল-মুত্তাকীনের দিকে। মুয়াসসার তাদের পরিচয় দেয়: যারা আল্লাহকে ভয় করে আর তাঁর আনুগত্য করে। প্রাসাদের বর্ণনা যে মর্যাদার কথাই বলুক, এ আয়াতের দরজাগুলোর প্রতিশ্রুতি তাদের সবার জন্য, আগের আয়াত যাদের মুত্তাকী বলেছে। পাঠকের হাতে আয়াতটি এই আশাই তুলে দেয়, আর এখানে দেখা কোনো তাফসীর তা সংকুচিত করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Doors That Meet the Arrival",
+          "bn": "আগমনের সঙ্গে খোলা দরজা"
+        },
+        "p": [
+          {
+            "en": "On the plain sense the commentators speak with one voice. Ibn Kathir says that when they come to the Gardens, their doors are opened for them, and the abridged English keeps the same line: when they come to them, their gates will open for them. Al-Baghawi's whole comment on the verse is a single clause, its doors are opened for them, and al-Muyassar says the same. No one arriving is described standing outside a closed gate; the opening is part of the arrival itself.",
+            "bn": "সরল অর্থের ব্যাপারে তাফসীরকারেরা এক সুরে কথা বলেন। ইবন কাসীর বলেন, তারা যখন জান্নাতে আসবে, তখন তাদের জন্য এর দরজাগুলো খুলে দেওয়া হবে। সংক্ষিপ্ত ইংরেজি সংস্করণেও একই কথা: তারা যখন পৌঁছাবে, দরজা তাদের জন্য খুলে যাবে। আয়াতটির উপর বাগাভীর পুরো মন্তব্য মাত্র এক বাক্য: এর দরজাগুলো তাদের জন্য খোলা। মুয়াসসারও তা-ই বলে। কেউ পৌঁছে বন্ধ ফটকের বাইরে দাঁড়িয়ে আছে, এমন ছবি কোথাও নেই। দরজা খোলাটাই পৌঁছানোর অংশ।"
+          },
+          {
+            "en": "Al-Qurtubi adds the grammar. Mufattahatan is a hal, a word describing the state in which the Gardens are found, and al-abwab is in the nominative because it stands in place of a doer who is not named. The verb is passive: the verse says the doors are opened and does not say who opens them. That silence is where the commentators go next, and they fill it in different ways.",
+            "bn": "কুরতুবী এর সঙ্গে ব্যাকরণ যোগ করেন। মুফাত্তাহাতান শব্দটি হাল, অর্থাৎ এমন শব্দ যা বলে দেয় জান্নাতগুলো কোন অবস্থায় পাওয়া যাবে। আর আল-আবওয়াব পেশযুক্ত, কারণ তা এমন এক কর্তার জায়গায় বসেছে, যার নাম নেওয়া হয়নি। ক্রিয়াটি কর্মবাচ্যের: দরজাগুলো খোলা হয়েছে, এটুকুই আয়াত বলে, কে খুলেছে তা বলে না। এই নীরবতার দিকেই তাফসীরকারেরা এরপর যান, আর তাঁরা তা ভরেন একাধিক উপায়ে।"
+          },
+          {
+            "en": "As-Sa'di reads the small word lahum closely: the doors are opened li-ajlihim, for their sake. And he widens what is opened. They are the doors of its dwellings and homes, abwab manaziliha wa-masakiniha, not only an outer gate. On his reading the welcome does not end at the entrance; every door inside, to every home the believer is given, stands open on his account.",
+            "bn": "সাদী ছোট্ট শব্দ লাহুম খুঁটিয়ে পড়েন: দরজাগুলো খোলা হয় লি-আজলিহিম, তাদেরই খাতিরে। আর কী খোলা হয়, সেটাও তিনি বড় করে দেখেন। এ দরজা শুধু বাইরের ফটক নয়, জান্নাতের ঘরবাড়ি আর বাসস্থানের দরজা, আবওয়াবু মানাযিলিহা ওয়া মাসাকিনিহা। তাঁর পাঠে অভ্যর্থনা প্রবেশপথেই শেষ হয় না। ভেতরের প্রতিটি দরজা, মুমিনকে দেওয়া প্রতিটি ঘরের দরজা, তার জন্যই খোলা থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Opened by Command, Not Touch",
+          "bn": "হুকুমে খোলে, ছোঁয়ায় নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari raises the obvious objection himself: what information does mufattahatan lahumu l-abwab add, that it needed saying? His answer is that Allah is telling us its doors are opened for them without their dwellers opening them, with no effort of hand or limb, but by command. He supports it with a report from al-Hasan on this phrase: doors that are spoken to, open, close.",
+            "bn": "স্বাভাবিক প্রশ্নটা তাবারী নিজেই তোলেন: মুফাত্তাহাতান লাহুমুল আবওয়াব কথাটি নতুন কী খবর দেয় যে তা বলতে হলো? তাঁর জবাব: আল্লাহ জানাচ্ছেন, এর দরজাগুলো তাদের জন্য খোলা হবে বাসিন্দাদের নিজেদের খোলা ছাড়াই। হাত বা কোনো অঙ্গের পরিশ্রম লাগবে না, খুলবে হুকুমে। নিজের কথার সমর্থনে তিনি এই বাক্যাংশ নিয়ে হাসানের একটি উক্তি আনেন: এমন দরজা, যাদের সঙ্গে কথা বলা হয়: খুলে যাও, বন্ধ হও।"
+          },
+          {
+            "en": "Al-Qurtubi finds the same point in the shape of the word. Allah said mufattaha and not maftuha, he writes, because the doors are opened for them by command, not by touching, bi-l-amr la bi-l-mass, and he cites al-Hasan in fuller form: it is told, open, and it opens; close, and it closes. Then, under the word qila, it has been said, he records a second reading: the angels open the doors for them. He states both and does not choose between them.",
+            "bn": "কুরতুবী একই কথা খুঁজে পান শব্দের গড়নে। তিনি লেখেন, আল্লাহ মাফতূহা না বলে মুফাত্তাহা বলেছেন, কারণ দরজা তাদের জন্য খোলে হুকুমে, ছোঁয়ায় নয়, বিল-আমরি লা বিল-মাস্স। হাসানের উক্তিটি তিনি আনেন আরও পূর্ণ রূপে: দরজাকে বলা হয় খুলে যাও, অমনি খুলে যায়। বলা হয় বন্ধ হও, অমনি বন্ধ হয়। তারপর কীলা, বলা হয়েছে, শব্দ দিয়ে তিনি দ্বিতীয় একটি মত উল্লেখ করেন: ফেরেশতারা তাদের জন্য দরজা খুলে দেন। দুটো মতই তিনি রেখেছেন, কোনোটিকে বেছে নেননি।"
+          },
+          {
+            "en": "So two pictures stand side by side: doors that open at a word, and angels who open them. As-Sa'di's gloss sits comfortably with either. The dwellers, he says, do not need to open the doors themselves; rather they are makhdumun, people who are served. Whether the opening comes by command or by the hands of angels, the believer who once laboured in this world is now the one for whom things are done. That is honour, and it is given, not earned at the door.",
+            "bn": "দুটি ছবি তাহলে পাশাপাশি দাঁড়ায়। একটিতে দরজা এক কথায় খুলে যায়, অন্যটিতে ফেরেশতারা তা খুলে দেন। সাদীর ব্যাখ্যা দুটোর সঙ্গেই মিলে যায়। তিনি বলেন, বাসিন্দাদের নিজেদের দরজা খুলতে হবে না, বরং তারা মাখদূম, অন্যরা তাদের সেবা করবে। খোলা হুকুমেই হোক বা ফেরেশতাদের হাতে, দুনিয়ায় যে মুমিন খেটে খেয়েছে, সেখানে তার কাজ অন্যেরা করে দেবে। এ সম্মান দান হিসেবে আসে, দরজায় দাঁড়িয়ে উপার্জন করতে হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Article Meaning Its",
+          "bn": "আল- মানে তার"
+        },
+        "p": [
+          {
+            "en": "The verse says al-abwab, the doors, where one might expect abwabuha, its doors. Ibn Kathir explains that the article here carries the sense of the possessive, as if it said mufattahatan lahum abwabuha. At-Tabari says the same: the al was put in place of the possessive, as in fa-inna l-jannata hiya l-ma'wa, 79:41, meaning it is his refuge, and he adds lines of poetry that use the article that way. Al-Qurtubi reports al-Farra' glossing it as its doors, and az-Zajjaj as the doors of it.",
+            "bn": "আয়াতে আছে আল-আবওয়াব, দরজাগুলো। অথচ আশা করা যেত আবওয়াবুহা, এর দরজাগুলো। ইবন কাসীর ব্যাখ্যা করেন, এখানে আল- শব্দাংশটি সম্বন্ধের অর্থ বহন করছে, যেন বলা হয়েছে মুফাত্তাহাতান লাহুম আবওয়াবুহা। তাবারীও একই কথা বলেন: সম্বন্ধের বদলে আল- বসানো হয়েছে, যেমন ৭৯:৪১ আয়াতে ফাইন্নাল জান্নাতা হিয়াল মাওয়া, অর্থাৎ জান্নাতই তার আশ্রয়। এ ব্যবহারের সমর্থনে তিনি কয়েক পঙক্তি কবিতাও আনেন। কুরতুবী জানান, ফাররা এর অর্থ করেছেন এর দরজাগুলো, আর যাজ্জাজ বলেছেন তার দরজাগুলো।"
+          },
+          {
+            "en": "At-Tabari adds that had al-abwab come in the accusative it would not have been an error; mufattaha would then attach in form to the Gardens while meaning the doors. Al-Qurtubi likewise reports that al-Farra' allowed the accusative, citing with Sibawayh a line of an-Nabigha. Neither presents this as a recited reading; it is a statement of what the language permits. Both analyses keep the same picture: the doors belong to the Gardens, and they are opened for the mindful.",
+            "bn": "তাবারী আরও বলেন, আল-আবওয়াব যদি যবরযুক্ত হয়ে আসত, তাতেও ভুল হতো না। তখন মুফাত্তাহা শব্দটি গঠনে যুক্ত হতো জান্নাতের সঙ্গে, যদিও অর্থে বোঝাত দরজাগুলোকেই। কুরতুবীও জানান, ফাররা যবরের রূপটিকে বৈধ বলেছেন, আর সমর্থনে তিনি ও সীবাওয়াইহ নাবিগার একটি পঙক্তি এনেছেন। তাঁদের কেউই একে তিলাওয়াতের কোনো কিরাআত বলে উপস্থাপন করেননি। ভাষা কী অনুমতি দেয়, কথাটি শুধু সে বিষয়ে। দুই বিশ্লেষণেই ছবিটি এক থাকে: দরজাগুলো জান্নাতের, আর তা খোলা হয় মুত্তাকীদের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eight Gates in the Sahihs",
+          "bn": "দুই সহীহ গ্রন্থে আট দরজা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir ends his comment with one sentence: many hadiths have come, by numerous routes, on the eight gates of the Garden. He quotes none of them under this verse, so the two below are general narrations about the gates, not reports attached to 38:50. In Sahih al-Bukhari, 3257, Sahl ibn Sa'd reports that the Prophet ﷺ said: \"Paradise has eight gates, and one of them is called Ar-Raiyan through which none will enter but those who observe fasting.\"",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শেষ করেন এক বাক্যে: জান্নাতের আট দরজা নিয়ে বহু হাদীস এসেছে, নানা সূত্রে। এ আয়াতের অধীনে তিনি সেগুলোর কোনোটি উদ্ধৃত করেননি। তাই নিচের দুটি বর্ণনা দরজা নিয়ে সাধারণ হাদীস, ৩৮:৫০ আয়াতের সঙ্গে যুক্ত বর্ণনা নয়। সহীহ বুখারীতে (৩২৫৭) সাহল ইবন সাদ (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"জান্নাতে আটটি দরজা আছে। তার একটির নাম রাইয়ান, রোযাদার ছাড়া আর কেউ তা দিয়ে প্রবেশ করবে না।\""
+          },
+          {
+            "en": "In Sahih Muslim, 234, 'Uqba ibn 'Amir reports 'Umar relating the Prophet's words ﷺ: \"If anyone amongst you performs the ablution, and then completes the ablution well and then says: I testify that there is no god but Allah and that Muhammad is the servant of Allah and His Messenger, the eight gates of Paradise would be opened for him and he may enter by whichever of them he wishes.\" The verse says the doors are opened; this narration names a daily act after which they are opened.",
+            "bn": "সহীহ মুসলিমে (২৩৪) উকবা ইবন আমির (রাঃ) বর্ণনা করেন, উমর (রাঃ) নবী ﷺ-এর এই বাণী শোনালেন: \"তোমাদের মধ্যে যে কেউ অযু করে, আর অযু পূর্ণ ও সুন্দরভাবে সম্পন্ন করে, তারপর বলে: আমি সাক্ষ্য দিচ্ছি, আল্লাহ ছাড়া কোনো ইলাহ নেই, আর মুহাম্মাদ আল্লাহর বান্দা ও তাঁর রাসূল, তার জন্য জান্নাতের আটটি দরজাই খুলে দেওয়া হয়। যেটি দিয়ে ইচ্ছা সে প্রবেশ করবে।\" আয়াত বলে, দরজাগুলো খোলা। আর এ হাদীস এমন এক দৈনন্দিন আমলের কথা বলে, যার পরে সেগুলো খুলে দেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Home With Nothing to Lock",
+          "bn": "যে ঘরে তালার দরকার নেই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws one more meaning from the open doors: this, he says, is also a proof of complete security, al-aman at-tamm, for there is nothing in the Gardens of 'Adn on whose account their doors would need to be shut. In this world a door is closed against cold, against thieves, against someone unwelcome. A home whose doors never need closing is a home where none of those exist. The verse gives that security in a single word, and leaves the reader to feel its weight.",
+            "bn": "খোলা দরজা থেকে সাদী আরও একটি অর্থ বের করেন। তিনি বলেন, এ পূর্ণ নিরাপত্তারও প্রমাণ, আল-আমানুত তাম্ম। কারণ আদনের জান্নাতে এমন কিছুই নেই, যার জন্য এর দরজা বন্ধ করতে হবে। দুনিয়ায় দরজা বন্ধ করা হয় শীত ঠেকাতে, চোর ঠেকাতে, অনাহূত কাউকে দূরে রাখতে। যে ঘরের দরজা কখনো বন্ধ করতে হয় না, সেখানে এর কোনোটিই নেই। আয়াতটি সেই নিরাপত্তা দিয়েছে মাত্র এক শব্দে, আর তার ভার অনুভব করার দায়িত্ব রেখে দিয়েছে পাঠকের উপর।"
+          },
+          {
+            "en": "Notice who the doors are opened for. The verses just before praise servants who were tested: Ayyub, of whom 38:44 says, We found him patient, an excellent servant, one who kept turning back. The promise in 38:49 is to al-muttaqin, the mindful, not to the flawless. And the two narrations above name ordinary acts, a day of fasting, an ablution done well and a testimony spoken after it. The doors are not a reward kept for a distant few. They are held open for anyone who keeps walking toward them.",
+            "bn": "খেয়াল করুন, দরজা কাদের জন্য খোলা। ঠিক আগের আয়াতগুলো প্রশংসা করে পরীক্ষিত বান্দাদের। যেমন আইয়ুব (আঃ), যাঁর সম্পর্কে ৩৮:৪৪ বলে: আমি তাঁকে ধৈর্যশীল পেয়েছি, কত উত্তম বান্দা, বারবার ফিরে আসা মানুষ। ৩৮:৪৯ আয়াতের প্রতিশ্রুতি আল-মুত্তাকীনের জন্য, নিখুঁত মানুষদের জন্য নয়। আর উপরের দুটি হাদীস সাধারণ আমলের কথা বলে: রোযার একটি দিন, সুন্দর করে করা অযু, তার পরে উচ্চারিত সাক্ষ্য। এ দরজা দূরের অল্প কিছু মানুষের জন্য তুলে রাখা পুরস্কার নয়। যে তার দিকে হেঁটে চলে, তার জন্যই তা খুলে রাখা।"
+          },
+          {
+            "en": "So the verse is best read with hope and with steps. Hope, because the Gardens of staying have their doors opened, and whoever reaches them will not knock. Steps, because the narrations tie the opening to what a person does today, the next fast, the next ablution and the testimony after it, and the verses before add the turning back after a fault. A reader who closes this page can make wudu' with care, say the testimony, and walk on.",
+            "bn": "তাই আয়াতটি পড়ার সবচেয়ে ভালো উপায় আশা আর পদক্ষেপ দুটো একসঙ্গে নিয়ে। আশা, কারণ থাকার জান্নাতের দরজা খুলে রাখা, সেখানে যে পৌঁছাবে তাকে কড়া নাড়তে হবে না। পদক্ষেপ, কারণ হাদীসগুলো দরজা খোলাকে বেঁধে দেয় আজকের আমলের সঙ্গে: পরের রোযা, পরের অযু আর তার পরের সাক্ষ্য। আগের আয়াতগুলো এর সঙ্গে যোগ করে ভুলের পর আবার আল্লাহর দিকে ফিরে আসা। এ লেখা পড়া শেষ করে পাঠক এখনই যত্ন করে অযু করতে পারেন, সাক্ষ্যটি উচ্চারণ করতে পারেন, আর পথ চলতে পারেন।"
+          }
+        ]
+      }
+    ]
+  },
   "38:53": {
     "sections": [
       {

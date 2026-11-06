@@ -26089,6 +26089,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Judge a reminder by what it says, not by whether its bearer outranks you, and do not mistake a respite from consequences for proof that you are right.",
     "lessonBn": "উপদেশকে মাপুন তার কথা দিয়ে, যে আনল সে আপনার চেয়ে বড় কি না তা দিয়ে নয়। আর পরিণতি থেকে পাওয়া অবকাশকে নিজের সঠিক হওয়ার প্রমাণ ভেবে বসবেন না।"
+  },
+  "38:50": {
+    "reflectionEn": "Surah Sad has just named its prophets, servants who were tested and kept turning back. Then it says what waits for people like them: Gardens of 'Adn, Gardens of staying, whose doors are opened for them. Opened, not merely unlocked. No one arriving there has to knock, wait at the threshold or push against a heavy gate. Everything that once kept a door shut, fear of thieves, fear of loss, fear of being turned away, has no place inside. The doors are opened for them, and the welcome is theirs. That is an invitation to hope, not a reason to sit still. Which doors do I keep shut in my own life that I could open for Allah's sake? And am I walking toward the door He has opened?",
+    "reflectionBn": "সূরা সাদ এইমাত্র তার নবীদের নাম নিয়েছে। তাঁরা পরীক্ষিত বান্দা, বারবার আল্লাহর দিকে ফিরে আসা মানুষ। তারপর সূরাটি বলে, এমন মানুষদের জন্য কী অপেক্ষা করছে: আদন নামের জান্নাত, চিরকাল থাকার বাগান, যার দরজাগুলো তাদের জন্য খোলা। শুধু তালা খোলা নয়, একেবারে খুলে রাখা। সেখানে যে পৌঁছাবে, তাকে কড়া নাড়তে হবে না, চৌকাঠে দাঁড়িয়ে থাকতে হবে না, ভারী ফটক ঠেলতে হবে না। দুনিয়ায় যে ভয়ে দরজা বন্ধ রাখতে হয়, চোরের ভয়, হারানোর ভয়, ফিরিয়ে দেওয়ার ভয়, তার কোনোটাই ভেতরে নেই। দরজা তাদের জন্যই খোলা হয়, অভ্যর্থনাও তাদেরই। এ আশা জাগানোর ডাক, হাত গুটিয়ে বসে থাকার অজুহাত নয়। নিজের জীবনে কোন দরজাগুলো আমি বন্ধ করে রেখেছি, যা আল্লাহর জন্য খুলে দিতে পারি? আর তিনি যে দরজা খুলে রেখেছেন, আমি কি সেদিকে হাঁটছি?",
+    "pointsEn": [
+      "When I picture the end of my life, do I picture a closed door I must argue my way through, or an open one I must walk toward?",
+      "What do I lock away in this world out of fear, and what would it mean to live as someone headed for a home where nothing needs locking?",
+      "The verse follows a list of servants praised for patience and turning back; which of their qualities is the next step on my own path to that door?",
+      "Whose door, whose home or whose heart, could I open this week as a small likeness of the welcome I hope for?",
+      "Does my hope in the Garden move me to act today, or only comfort me while I stay where I am?"
+    ],
+    "pointsBn": [
+      "জীবনের শেষটা যখন কল্পনা করি, সামনে কি দেখি এক বন্ধ দরজা, যা তর্ক করে খোলাতে হবে? নাকি এক খোলা দরজা, যার দিকে শুধু হেঁটে যেতে হবে?",
+      "ভয়ে এই দুনিয়ায় আমি কী কী তালাবন্ধ করে রাখি? আর যে ঘরে কিছুই তালা দিতে হয় না, সেদিকে চলা মানুষের মতো বাঁচলে আমার জীবন কেমন হতো?",
+      "আয়াতটি এসেছে ধৈর্য আর বারবার ফিরে আসার জন্য প্রশংসিত বান্দাদের তালিকার পরে। তাঁদের কোন গুণটি ওই দরজার পথে আমার পরের পদক্ষেপ?",
+      "এ সপ্তাহে কার জন্য আমি দরজা খুলে দিতে পারি, ঘরের দরজা হোক বা মনের, যে অভ্যর্থনার আশা করি তার ছোট্ট এক ছায়া হিসেবে?",
+      "জান্নাতের আশা কি আমাকে আজ কাজে নামায়, নাকি যেখানে আছি সেখানে বসিয়ে রেখে শুধু সান্ত্বনা দেয়?"
+    ],
+    "lessonEn": "The doors of the lasting Garden stand open for the righteous, opened for their sake, so walk toward them in hope, with the patience and turning back that the verses before praise.",
+    "lessonBn": "চিরস্থায়ী জান্নাতের দরজা মুত্তাকীদের জন্যই খোলা, তাদের খাতিরেই খুলে রাখা। তাই আশা নিয়ে সেদিকে হাঁটুন, আগের আয়াতগুলোতে প্রশংসিত ধৈর্য আর বারবার ফিরে আসার পথ ধরে।"
   }
 };
 
