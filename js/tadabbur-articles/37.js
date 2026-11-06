@@ -899,6 +899,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "First Words on Waking",
+          "bn": "জেগে ওঠার পর প্রথম কথা"
+        },
+        "p": [
+          {
+            "en": "Wa-qalu ya waylana, hadha yawmu d-din: and they said, O woe to us, this is the Day of Recompense. In the Arabic it is five words, and they are the first words the risen deniers speak. The verse before ended with a single driving cry and eyes opening at once. This one gives what comes out of their mouths when they do. Ibn Kathir frames it plainly: Allah is telling of what the disbelievers will say on the Day of Resurrection, once they see its horrors with their own eyes.",
+            "bn": "ওয়া কালূ ইয়া ওয়াইলানা, হাযা ইয়াওমুদ্দীন: আর তারা বলল, হায় আমাদের দুর্ভোগ! এটাই তো প্রতিফলের দিন। আরবিতে মাত্র পাঁচটি শব্দ, আর পুনরুত্থিত অস্বীকারকারীদের মুখে এটাই প্রথম কথা। আগের আয়াত থেমেছিল একটিমাত্র তাড়া দেওয়া আওয়াজে, আর সঙ্গে সঙ্গে চোখ খুলে যাওয়ায়। চোখ খোলার পর মুখ থেকে কী বেরোয়, এ আয়াত তা শোনায়। ইবন কাসীর সোজা কথায় প্রেক্ষাপটটা বলে দেন: কিয়ামতের দিন কাফিররা কী বলবে, আল্লাহ তা জানাচ্ছেন, যখন তারা সেদিনের বিভীষিকা নিজের চোখে দেখবে।"
+          },
+          {
+            "en": "The verb is in the past tense, qalu, they said, though the event lies ahead; Ibn Kathir and al-Qurtubi both place the words on that Day. The sentence also answers an earlier one. A few verses back, in 37:16 and 37:17, the same people asked whether they and their forefathers would really be raised after becoming dust and bones. Those words were a scoff. These are their next words on the subject, and the scoff has gone. The verse then does two things in a row: it gives a cry, and then a recognition.",
+            "bn": "ক্রিয়াটি অতীত কালের, কালূ, তারা বলল, অথচ ঘটনাটা সামনে। ইবন কাসীর ও কুরতুবী দুজনেই কথাগুলোকে সেদিনের কথা বলে ধরেছেন। বাক্যটা আগের একটা বাক্যের জবাবও বটে। কয়েক আয়াত আগে, ৩৭:১৬ ও ৩৭:১৭ আয়াতে, এই লোকেরাই জিজ্ঞেস করেছিল, মাটি আর হাড় হয়ে যাওয়ার পরও কি তাদের এবং তাদের বাপ-দাদাদের সত্যিই উঠানো হবে? সেটা ছিল ঠাট্টা। এ বিষয়ে তাদের পরের কথা এগুলো, আর ঠাট্টাটা এখন উধাও। আয়াতটি পরপর দুটি কাজ করে: আগে এক আর্তনাদ, তারপর চিনে নেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Woe Turned on Themselves",
+          "bn": "নিজেদের উপরই আর্তনাদ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi explains the cry in one clause: nadaw 'ala anfusihim bi-l-wayl, they called out woe upon themselves, because on that Day they know what has come down upon them. The pronoun says the same thing. Waylana is woe to us, not woe to anyone else; no one outside the speakers is blamed in it. The Muyassar exchanges the word for a plainer one, ya halakana, O our ruin. Wayl, in this gloss, is not only sorrow. It is the sound people make when they see their own destruction close at hand.",
+            "bn": "কুরতুবী এক বাক্যে আর্তনাদটার ব্যাখ্যা দেন: নাদাও আলা আনফুসিহিম বিল-ওয়াইল, তারা নিজেদের উপরই দুর্ভোগ ডেকে চিৎকার করল, কারণ সেদিন তারা জানে তাদের উপর কী নেমে এসেছে। সর্বনামটিও একই কথা বলে। ওয়াইলানা মানে আমাদের দুর্ভোগ, অন্য কারও নয়। বক্তারা নিজেরা ছাড়া আর কাউকে এতে দোষ দেওয়া হয়নি। মুয়াসসার শব্দটা বদলে আরও সাদামাটা একটা শব্দ বসায়: ইয়া হালাকানা, হায় আমাদের ধ্বংস! এ ব্যাখ্যায় ওয়াইল কেবল দুঃখ নয়। নিজের ধ্বংস হাতের কাছে দেখলে মানুষের মুখ থেকে যে আওয়াজ বেরোয়, এ সেই আওয়াজ।"
+          },
+          {
+            "en": "Al-Jalalayn, in the English rendering carried on quranx, takes the words apart. Ya, it says, is a particle for calling attention, and waylana means our destruction. It adds a note on the word itself: wayl is a verbal noun that has no verb of its own conjugated from it. So the cry has the shape of a call. The speakers address it to no one but themselves, and the thing they call by name is their own ruin. In grammar and in meaning alike, the cry begins and ends with the speakers.",
+            "bn": "জালালাইন, কুরানএক্স-এ যার ইংরেজি অনুবাদ আছে, শব্দগুলো আলাদা করে দেখায়। তার মতে ইয়া মনোযোগ আকর্ষণের অব্যয়, আর ওয়াইলানা মানে আমাদের ধ্বংস। শব্দটির ব্যাপারে আরেকটি কথাও জুড়ে দেয়: ওয়াইল এমন এক ক্রিয়াবাচক বিশেষ্য, যার নিজস্ব কোনো ক্রিয়ারূপ নেই। তাহলে আর্তনাদটার গড়ন ডাকের মতো। বক্তারা ডাকটা পাঠায় নিজেদেরই দিকে, আর যার নাম ধরে ডাকে, তা তাদের নিজেদের সর্বনাশ। ব্যাকরণে আর অর্থে, দুই দিক থেকেই আর্তনাদটা বক্তাদের দিয়ে শুরু, তাদের দিয়েই শেষ।"
+          },
+          {
+            "en": "Ahsanul Bayaan, the Bengali commentary carried in this app, gives the same word a note under 37:21. Wayl, it says, is said at the time of destruction: once they see the punishment, they will see their own ruin clearly. Then it names the purpose of the words. They are an expression of the speakers' humiliation, and an admission of their own failings and neglect. That second point matters for what follows. The cry is not only fear. It already carries, in a single word, a confession of fault.",
+            "bn": "আহসানুল বায়ান, এ অ্যাপে থাকা বাংলা তাফসীর, ৩৭:২১ আয়াতের টীকায় এই শব্দটির ব্যাখ্যা দেয়। সেখানে বলা হয়েছে, ওয়াইল শব্দটি বলা হয় ধ্বংসের সময়। শাস্তি দেখার পর তারা নিজেদের ধ্বংস পরিষ্কার দেখতে পাবে। তারপর কথাগুলোর উদ্দেশ্যও বলে দেয়: নিজেদের লাঞ্ছনার প্রকাশ, আর নিজেদের ত্রুটি ও অবহেলার স্বীকারোক্তি। পরের আলোচনার জন্য দ্বিতীয় কথাটা গুরুত্বপূর্ণ। আর্তনাদটা শুধু ভয় নয়। একটিমাত্র শব্দের ভেতরেই তাতে দোষ স্বীকারের সুর মিশে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Joined in the Written Text",
+          "bn": "মুসহাফে জোড়া লেখা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi also records how the grammarians parsed the word, and they did not agree. For the Basrans, wayl stands in the accusative as a verbal noun, a masdar. Al-Farra' proposed a different division of the same letters, which al-Qurtubi introduces with za'ama, he claimed. On his reading the phrase is ya way lana: way is a word on its own, meaning grief, and lana, for us, stands apart from it. The cry would then be O grief, for us, two pieces rather than one word with a pronoun attached.",
+            "bn": "শব্দটির ব্যাকরণগত বিশ্লেষণ নিয়ে ব্যাকরণবিদেরা একমত হননি, কুরতুবী সেটাও লিখে রাখেন। বসরার ব্যাকরণবিদদের মতে ওয়াইল শব্দটি মাসদার, অর্থাৎ ক্রিয়াবাচক বিশেষ্য হিসেবে যবরযুক্ত। ফাররা একই অক্ষরগুলো ভাগ করেছেন অন্যভাবে, আর কুরতুবী তাঁর মত আনেন যাআমা শব্দ দিয়ে, যার মানে তিনি দাবি করেছেন। তাঁর পাঠে কথাটা ইয়া ওয়াই লানা। ওয়াই আলাদা একটা শব্দ, যার অর্থ দুঃখ, আর লানা আলাদাভাবে আমাদের জন্য। তাহলে আর্তনাদটা দাঁড়ায়, হায় দুঃখ, আমাদের জন্য। সর্বনাম লাগানো একটি শব্দ নয়, দুটি টুকরো।"
+          },
+          {
+            "en": "An-Nahhas answers al-Farra' from the written page. If it were as al-Farra' said, he argues, the word would be written apart; but in the mushaf it is joined, and we know of no one who writes it other than joined. Al-Qurtubi sets the claim and the reply side by side and adds no ruling of his own. Either way the meaning of the cry does not change much: it is a lament, and it falls on the speakers. What the exchange shows is how closely the early scholars read even the spelling of five words.",
+            "bn": "নাহহাস ফাররার জবাব দেন লেখা পাতা থেকে। তাঁর যুক্তি: ফাররার কথা ঠিক হলে শব্দটা আলাদা করে লেখা হতো। কিন্তু মুসহাফে তা জোড়া লেখা, আর জোড়া ছাড়া অন্যভাবে কেউ এটা লেখে বলে আমাদের জানা নেই। কুরতুবী দাবি আর জবাব পাশাপাশি রাখেন, নিজের কোনো রায় যোগ করেন না। যে পাঠই ধরা হোক, আর্তনাদের অর্থ খুব একটা বদলায় না। এ এক বিলাপ, আর তা পড়ে বক্তাদেরই উপর। এই তর্ক থেকে বোঝা যায়, পাঁচটি শব্দের বানানও প্রথম যুগের আলেমরা কত খুঁটিয়ে পড়তেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reckoning, Then Repayment",
+          "bn": "হিসাব, তারপর প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "The second half names the Day, and the commentators gloss its name in two ways. Al-Qurtubi first says yawm ad-din is yawm al-hisab, the Day of Reckoning, then adds, with wa-qila, it has been said, yawm al-jaza', the Day of Recompense. One is given first; the other is reported as a further view. Al-Baghawi does not choose between them and joins the two: the Day of Reckoning and the Day of Recompense. The Muyassar does the same in its own words: the day of reckoning and of repayment.",
+            "bn": "আয়াতের দ্বিতীয় অর্ধেকে দিনটির নাম, আর তাফসীরকারেরা নামটির ব্যাখ্যা দেন দুভাবে। কুরতুবী প্রথমে বলেন, ইয়াওমুদ্দীন মানে ইয়াওমুল হিসাব, হিসাবের দিন। তারপর ওয়া কীলা, বলা হয়েছে, এ কথা দিয়ে যোগ করেন: ইয়াওমুল জাযা, প্রতিদানের দিন। একটি অর্থ তিনি আগে দেন, অন্যটি আনেন আরেকটি মত হিসেবে। বাগাভী এ দুইয়ের মধ্যে বাছাই করেন না, দুটোকেই একসঙ্গে রাখেন: হিসাবের দিন এবং প্রতিদানের দিন। মুয়াসসারও নিজের ভাষায় তাই বলে: হিসাব ও প্রতিফলের দিন।"
+          },
+          {
+            "en": "The two glosses sit easily together, since an account is taken and then what it shows is paid out. The English rendering here chooses recompense, and the Bengali one karmafaler din, the day when deeds bear their fruit; both lean toward the second gloss. The name was not new to the first listeners. It stands in 1:4, maliki yawmi d-din, Master of the Day of Recompense, words a Muslim says in every prayer. On the deniers' lips in this verse, the same name comes out at last.",
+            "bn": "দুটি ব্যাখ্যা সহজেই পাশাপাশি চলে। আগে হিসাব নেওয়া হয়, তারপর হিসাবে যা ওঠে তার প্রতিদান দেওয়া হয়। এখানে ইংরেজি অনুবাদে বেছে নেওয়া হয়েছে রিকমপেন্স, আর বাংলা অনুবাদে কর্মফলের দিন, যেদিন আমল তার ফল দেয়। দুটোই ঝুঁকেছে দ্বিতীয় ব্যাখ্যার দিকে। প্রথম শ্রোতাদের কাছে নামটা নতুন ছিল না। ১:৪ আয়াতেই আছে, মালিকি ইয়াওমিদ্দীন, প্রতিফল দিবসের মালিক। প্রতিটি নামাযে একজন মুসলিম এ কথা বলেন। এ আয়াতে অস্বীকারকারীদের মুখেও শেষ পর্যন্ত সেই নামটাই বেরিয়ে আসে।"
+          },
+          {
+            "en": "Elsewhere the Qur'an joins this name to denial in so many words. At 83:11 it speaks of those who deny yawm ad-din, and at 74:46 people in the Fire say, we used to deny yawm ad-din. Within this surah, at 37:53, the old question of dust and bones returns with a different last word, la-madinun, are we really to be repaid? That word comes from the same root as din. The thing the deniers had doubted, repayment, is now the very name they give the Day.",
+            "bn": "কুরআনের অন্য জায়গায় এই নামটির সঙ্গে অস্বীকারের কথা সরাসরি জুড়ে আছে। ৮৩:১১ আয়াতে বলা হয়েছে তাদের কথা, যারা ইয়াওমুদ্দীনকে মিথ্যা বলে। ৭৪:৪৬ আয়াতে জাহান্নামের লোকেরা বলে, আমরা ইয়াওমুদ্দীনকে অস্বীকার করতাম। এই সূরাতেই, ৩৭:৫৩ আয়াতে, মাটি আর হাড়ের সেই পুরনো প্রশ্ন আবার ফিরে আসে, শুধু শেষ শব্দটা আলাদা: লামাদীনূন, সত্যিই কি আমাদের প্রতিদান দেওয়া হবে? এ শব্দ এসেছে দীন শব্দের ধাতু থেকেই। অস্বীকারকারীরা যে প্রতিদান নিয়ে সন্দেহ করত, এখন সেটাই হয়ে গেল দিনটির নাম, তাদের নিজেদের মুখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Once Laughed At",
+          "bn": "একদিন যা নিয়ে হাসত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the verse a single sentence: faqad aqarru bima kanu fi d-dunya bihi yastahzi'un, they have now acknowledged what they used to mock in the world. The word he chooses, mockery, takes the reader back to the start of this passage. In 37:14, when they see a sign, they ridicule it. In 37:15 they call it nothing but plain magic. In 37:16 and 37:17 they ask how dust and bones could ever stand again. The same mouths now name the Day themselves, with no one arguing against them.",
+            "bn": "সা'দী আয়াতটির জন্য একটিমাত্র বাক্য রাখেন: ফাকাদ আকাররূ বিমা কানূ ফিদ্দুনইয়া বিহী ইয়াসতাহযিঊন, দুনিয়ায় যা নিয়ে তারা ঠাট্টা করত, এখন তারা তা স্বীকার করে নিল। তাঁর বেছে নেওয়া শব্দ, ঠাট্টা, পাঠককে ফিরিয়ে নেয় এই অংশের শুরুতে। ৩৭:১৪ আয়াতে নিদর্শন দেখলে তারা বিদ্রূপ করে। ৩৭:১৫ আয়াতে তারা একে স্পষ্ট যাদু ছাড়া কিছু বলে না। ৩৭:১৬ ও ৩৭:১৭ আয়াতে তারা প্রশ্ন তোলে, মাটি আর হাড় আবার কী করে দাঁড়াবে? সেই মুখগুলোই এখন নিজেরাই দিনটির নাম বলছে, আর তাদের বিরুদ্ধে তর্ক করারও কেউ নেই।"
+          },
+          {
+            "en": "Ibn Kathir describes the moment from the inside. They turn back on themselves with blame, yarji'una 'ala anfusihim bi-l-malama, and admit that they were wronging themselves in the world. When they see the horrors of the Resurrection face to face, he says, they regret with the whole of regret, at a time when regret does not help them. His abridged English keeps both halves: they blame themselves and admit their wrong, and they are filled with regret when regret will avail them nothing.",
+            "bn": "ইবন কাসীর মুহূর্তটাকে দেখান ভেতর থেকে। তারা নিজেদের দিকেই দোষারোপ নিয়ে ফেরে, ইয়ারজিঊনা আলা আনফুসিহিম বিল-মালামা, আর স্বীকার করে যে দুনিয়ায় তারা নিজেদের উপরই জুলুম করছিল। কিয়ামতের বিভীষিকা যখন চোখের সামনে দেখে, তিনি বলেন, তখন তারা পুরোপুরি অনুতপ্ত হয়। কিন্তু সেটা এমন সময়, যখন অনুতাপে আর কোনো লাভ নেই। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণেও দুটো দিকই আছে: তারা নিজেদের দোষ দেয়, অন্যায় স্বীকার করে, আর আফসোসে ভরে যায় এমন সময়ে, যখন আফসোস কোনো কাজে আসে না।"
+          },
+          {
+            "en": "Ahsanul Bayaan reaches the same end by its own road. Neither the show of humiliation nor the admission of fault, it says, will be of any use at that time. Read together, as-Sa'di, Ibn Kathir and Ahsanul Bayaan say two things at once. The admission in this verse is real; these people are no longer denying anything. And the admission is useless, not because it is false but because of when it is made. The verse holds both facts in five words, and leaves the listener to feel how far apart they are.",
+            "bn": "আহসানুল বায়ানও নিজের পথে একই জায়গায় পৌঁছায়। সেখানে বলা হয়েছে, সেই সময় লাঞ্ছনা প্রকাশ বা দোষ স্বীকার কোনোটাতেই কোনো লাভ হবে না। সা'দী, ইবন কাসীর আর আহসানুল বায়ানের কথা একসঙ্গে পড়লে দুটি বিষয় দাঁড়ায়। এ আয়াতের স্বীকারোক্তি খাঁটি, এরা আর কিছুই অস্বীকার করছে না। আবার স্বীকারোক্তিটা নিষ্ফল। মিথ্যা বলে নয়, বরং কখন করা হলো সে কারণে। পাঁচটি শব্দে আয়াতটি দুটো সত্যই ধরে রাখে, আর দুইয়ের মাঝের দূরত্বটা শ্রোতাকে অনুভব করতে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Times the Same Cry",
+          "bn": "একই আর্তনাদ ছয়বার"
+        },
+        "p": [
+          {
+            "en": "The exact words ya waylana occur six times in the Qur'an: at 21:14, 21:46, 21:97, 36:52, 68:31 and here. In four of the six, the cry is followed straight away by a confession. At 21:14 and 21:46 it is inna kunna zalimin, we were indeed wrongdoers. At 21:97 they say they were heedless of this, and more, that they were wrongdoers. At 68:31 the companions of the garden say they were transgressors. At 36:52 a question follows instead: who has raised us from our place of sleep?",
+            "bn": "হুবহু ইয়া ওয়াইলানা কথাটি কুরআনে এসেছে ছয়বার: ২১:১৪, ২১:৪৬, ২১:৯৭, ৩৬:৫২, ৬৮:৩১ আয়াতে, আর এখানে। ছয়টির চারটিতে আর্তনাদের ঠিক পরেই আসে স্বীকারোক্তি। ২১:১৪ ও ২১:৪৬ আয়াতে কথাটা হলো ইন্না কুন্না যালিমীন, আমরা সত্যিই জালিম ছিলাম। ২১:৯৭ আয়াতে তারা বলে, তারা এ বিষয়ে উদাসীন ছিল, বরং তারা ছিল জালিম। ৬৮:৩১ আয়াতে বাগানের মালিকেরা বলে, তারা সীমালঙ্ঘনকারী ছিল। আর ৩৬:৫২ আয়াতে আসে এক প্রশ্ন: ঘুমের জায়গা থেকে কে আমাদের উঠাল?"
+          },
+          {
+            "en": "Only in 37:20 does the cry run directly into the name of the Day. Ibn Kathir does not cite those other verses here, yet his gloss, that they admit they wronged themselves, says in prose what the cry elsewhere says aloud. Al-Kahf has a related form, ya waylatana, at 18:49, when the record of deeds is set down and leaves nothing small or great. Across these places the words do not change much, and neither does the moment: the cry comes when what was long ignored is suddenly in plain view.",
+            "bn": "শুধু ৩৭:২০ আয়াতেই আর্তনাদটি সরাসরি গিয়ে মেশে দিনটির নামে। ইবন কাসীর এখানে ওই আয়াতগুলোর উল্লেখ করেন না। তবু তাঁর ব্যাখ্যা, তারা নিজেদের উপর জুলুমের কথা স্বীকার করে, গদ্যে সেটাই বলে, যা অন্য জায়গায় আর্তনাদ জোরে উচ্চারণ করে। সূরা কাহফের ১৮:৪৯ আয়াতে আছে কাছাকাছি একটি রূপ, ইয়া ওয়াইলাতানা, যখন আমলনামা সামনে রাখা হয় আর তা ছোট-বড় কিছুই বাদ দেয় না। এসব জায়গায় শব্দ খুব একটা বদলায় না, মুহূর্তটাও না। দীর্ঘদিন যা উপেক্ষা করা হয়েছে, তা হঠাৎ চোখের সামনে এসে দাঁড়ালেই আর্তনাদটা ওঠে।"
+          },
+          {
+            "en": "There is one more echo. At 36:52 the risen ask who raised them, and an answer comes in the same verse: this is what the Most Merciful promised, and the messengers told the truth. Here too the cry is followed by an answer, though in the next verse rather than this one: this is the Day of Decision which you used to deny. In both places those who cried out hear their own denial named back to them, in words they cannot dispute. That answer belongs to 37:21, and is only placed here.",
+            "bn": "আরেকটি প্রতিধ্বনি আছে। ৩৬:৫২ আয়াতে পুনরুত্থিতরা জানতে চায়, কে তাদের উঠাল, আর একই আয়াতে জবাব আসে: এ তো সেটাই, যার ওয়াদা দয়াময় দিয়েছিলেন, আর রাসূলগণ সত্যই বলেছিলেন। এখানেও আর্তনাদের পর জবাব আসে, তবে এই আয়াতে নয়, পরের আয়াতে: এটাই ফয়সালার দিন, যাকে তোমরা মিথ্যা বলতে। দুই জায়গাতেই যারা আর্তনাদ করেছিল, তারা নিজেদের অস্বীকারের কথা ফিরে শোনে এমন ভাষায়, যার প্রতিবাদ চলে না। সে জবাব ৩৭:২১ আয়াতের বিষয়, এখানে শুধু তার জায়গাটা দেখানো হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Their Words Stop",
+          "bn": "তাদের কথা থামে কোথায়"
+        },
+        "p": [
+          {
+            "en": "Where the deniers' speech ends is read in different ways. Ibn Kathir treats all of 37:20 as theirs and gives 37:21 to the angels and the believers, said to them by way of rebuke and reproof. Al-Jalalayn draws the line inside this verse instead: the cry is the disbelievers', and this is the Day of Retribution is what the angels say to them. On that reading the deniers manage only the cry, and the Day's name is spoken to them.",
+            "bn": "অস্বীকারকারীদের কথা কোথায় গিয়ে থামে, তা একাধিকভাবে পড়া হয়েছে। ইবন কাসীর পুরো ৩৭:২০ আয়াতকে তাদের কথা ধরেন, আর ৩৭:২১ আয়াত দেন ফেরেশতা ও মুমিনদের মুখে, ধমক আর তিরস্কার হিসেবে। জালালাইন সীমারেখাটা টানে এই আয়াতের ভেতরেই। আর্তনাদটা কাফিরদের, আর এটাই প্রতিফলের দিন, এ কথা ফেরেশতারা তাদের বলে। এ পাঠে অস্বীকারকারীরা কেবল আর্তনাদটুকুই করতে পারে, দিনটির নাম তাদের শুনিয়ে দেওয়া হয়।"
+          },
+          {
+            "en": "On 37:21 itself al-Qurtubi lists three speakers without choosing: some of them saying to others, this is the day we used to deny; Allah saying it to them; or the angels. Maududi names the believers or the angels, a voice of the whole scene, or the people saying it in their own hearts. As-Sa'di and the Muyassar say only that it will be said to them. The difference is kept here as it stands; its full weight belongs to 37:21.",
+            "bn": "৩৭:২১ আয়াতে কুরতুবী কোনোটি না বেছে তিনজন সম্ভাব্য বক্তার কথা বলেন: তারা একে অপরকে বলবে, এটাই সেই দিন যাকে আমরা মিথ্যা বলতাম; অথবা আল্লাহ তাদের বলবেন; অথবা ফেরেশতারা। মওদূদীর মতে বক্তা হতে পারে মুমিনরা বা ফেরেশতারা, কিংবা পুরো দৃশ্যের এক সাধারণ ভাষ্য, কিংবা লোকগুলো নিজেরাই মনে মনে কথাটা বলবে। সা'দী আর মুয়াসসার শুধু বলে, তাদের বলা হবে। মতভেদটা এখানে যেমন আছে তেমনই রাখা হলো। এর পুরো আলোচনা ৩৭:২১ আয়াতের জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Said in Time",
+          "bn": "সময় থাকতে বলা নাম"
+        },
+        "p": [
+          {
+            "en": "No tafsir consulted for this verse attaches a hadith to it, so none is quoted here. One more thing needs saying plainly. The verse describes what the text describes: people who denied the raising, speaking on the Day itself. It licenses nothing, and neither do the verses set beside it, against any living person or community. No one today may be pointed at as one of those who will cry this cry; who they are is for Allah alone to know.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত করা হলো না। আরেকটি কথা স্পষ্ট করে বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে, যা এর পাঠে আছে: পুনরুত্থান অস্বীকারকারী কিছু মানুষ, যারা সেই দিনেই কথা বলছে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না, পাশে রাখা অন্য আয়াতগুলোও দেয় না। আজ কাউকে আঙুল তুলে বলা যায় না যে সে এই আর্তনাদকারীদের একজন হবে। তারা কারা, তা কেবল আল্লাহই জানেন।"
+          },
+          {
+            "en": "What the verse leaves the reader is a matter of timing. The deniers' knowledge comes complete and their admission comes honest, and both arrive, in Ibn Kathir's words, when regret avails nothing. The same name is already on a believer's tongue in 1:4, long before that Day. The difference lies in when it is said: while there is time to live by it, or only when nothing is left but to cry out. A fault admitted today can still be mended.",
+            "bn": "আয়াতটি পাঠকের জন্য যা রেখে যায়, তা সময়ের প্রশ্ন। অস্বীকারকারীদের জ্ঞান আসে পূর্ণ হয়ে, স্বীকারোক্তিও আসে খাঁটি হয়ে। কিন্তু ইবন কাসীরের ভাষায়, দুটোই আসে এমন সময়ে, যখন অনুতাপে আর কোনো লাভ নেই। একই নাম মুমিনের মুখে আগে থেকেই আছে, ১:৪ আয়াতে, সেই দিনের অনেক আগে। তফাতটা কখন বলা হচ্ছে তাতে। এমন সময়, যখন নামটা মেনে চলার সুযোগ আছে? নাকি তখন, যখন আর্তনাদ ছাড়া আর কিছুই করার নেই? আজ স্বীকার করা দোষ এখনো শুধরে নেওয়া যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "37:25": {
     "sections": [
       {

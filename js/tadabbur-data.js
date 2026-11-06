@@ -25729,6 +25729,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not let power, oaths or a religious appearance stand in for proof. On that Day, blaming the ones you followed will not lift the responsibility for following them.",
     "lessonBn": "ক্ষমতা, কসম বা দীনদারির চেহারাকে প্রমাণের জায়গা নিতে দেবেন না। সেদিন যাদের অনুসরণ করেছেন তাদের দোষ দিলেও অনুসরণের দায় আপনার কাঁধ থেকে নামবে না।"
+  },
+  "37:20": {
+    "reflectionEn": "Their eyes have only just opened. Dust has become a body again, and the first sound out of their mouths is a cry: woe to us. Then comes a name, the name they used to laugh at: this is the Day of Recompense. Nobody had to argue with them this time. Seeing was enough. The same people who called every sign magic now say the truth in five words, and the words are right, and they come too late to change anything. The verse leaves me with a plain question. What am I willing to call by its real name only once it stands in front of me, when I could name it today and still act on it?",
+    "reflectionBn": "চোখ সবে খুলেছে। মাটি আবার দেহ হয়ে উঠেছে। আর মুখ থেকে বেরোনো প্রথম আওয়াজটা এক আর্তনাদ: হায় আমাদের দুর্ভোগ! তারপর আসে একটা নাম, যে নাম নিয়ে তারা একদিন হাসাহাসি করত: এটাই তো প্রতিফলের দিন। এবার কাউকে তাদের সঙ্গে তর্ক করতে হয়নি। চোখে দেখাই যথেষ্ট হয়েছে। যারা প্রতিটি নিদর্শনকে যাদু বলে উড়িয়ে দিত, তারাই এখন পাঁচটি শব্দে সত্যটা বলে ফেলে। কথাগুলো ঠিক, কিন্তু এত দেরিতে যে আর কিছুই বদলায় না। আয়াতটি আমার সামনে একটা সোজা প্রশ্ন রেখে যায়। কোন সত্যকে আমি তার আসল নামে ডাকতে রাজি হব কেবল চোখের সামনে এসে দাঁড়ালে, অথচ আজই তাকে চিনে নিয়ে সে অনুযায়ী চলতে পারতাম?",
+    "pointsEn": [
+      "Is there a truth I already accept in words but live as if it will never arrive?",
+      "When I recite Master of the Day of Recompense in my prayer, does the phrase change anything in how I spend the next hour?",
+      "What have I recently laughed off or called far-fetched only because I could not yet picture it?",
+      "Which fault of mine am I putting off admitting until admitting it will no longer help anyone?",
+      "If I had to choose now the first words I would want on my lips when I rise on that Day, what would they be?"
+    ],
+    "pointsBn": [
+      "এমন কোনো সত্য কি আছে, যা মুখে মেনে নিই, অথচ চলি এমনভাবে যেন তা কোনোদিন আসবেই না?",
+      "নামাযে যখন পড়ি, প্রতিফল দিবসের মালিক, তখন কথাটা কি পরের এক ঘণ্টা আমি কীভাবে কাটাব তাতে কিছু বদলায়?",
+      "সম্প্রতি কোন কথাকে আমি হেসে উড়িয়ে দিয়েছি বা অসম্ভব বলেছি, শুধু এ কারণে যে ব্যাপারটা তখনো কল্পনায় আনতে পারিনি?",
+      "আমার কোন দোষ স্বীকার করাটা আমি ফেলে রাখছি, যতক্ষণ না স্বীকার করায় আর কারও কোনো লাভ থাকবে না?",
+      "সেদিন উঠে দাঁড়ানোর মুহূর্তে কোন কথাগুলো মুখে থাকুক বলে চাই, তা যদি আজই বেছে নিতে হতো, কী বেছে নিতাম?"
+    ],
+    "lessonEn": "Name the Day of Recompense truthfully while naming it can still change you; the regret that waits until the Day is seen changes nothing.",
+    "lessonBn": "প্রতিফল দিবসকে তার সত্য নামে চিনে নিন এখনই, যখন সে চেনা আপনাকে বদলাতে পারে। দিনটি চোখে দেখার পর যে আফসোস আসে, তা কিছুই বদলায় না।"
   }
 };
 
