@@ -155,6 +155,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "63:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "Their Own Words Quoted",
+          "bn": "তাদের নিজেদের কথাই উদ্ধৃত"
+        },
+        "p": [
+          {
+            "en": "Surah al-Munafiqun builds its portrait of the hypocrites in stages. Verse 63:1 records their testimony, 63:2 their oaths used as a cover, 63:3 their sealed hearts, 63:4 their impressive appearance, and 63:5 and 63:6 their refusal of the Prophet's ﷺ prayer for forgiveness. Here the focus turns from how they look to what they say among themselves. Hum alladhina yaquluna: they are the ones who say. The pronoun points back at the people already described, and now the Qur'an quotes them in their own words.",
+            "bn": "সূরা মুনাফিকূন মুনাফিকদের ছবি আঁকে ধাপে ধাপে। ৬৩:১ আয়াতে তাদের সাক্ষ্যদান, ৬৩:২ আয়াতে ঢাল বানানো শপথ, ৬৩:৩ আয়াতে মোহর লাগানো অন্তর, ৬৩:৪ আয়াতে তাদের চোখধাঁধানো চেহারা। ৬৩:৫ ও ৬৩:৬ আয়াতে দেখা যায়, নবী ﷺ তাদের জন্য ইস্তিগফার করবেন শুনেও তারা মুখ ফিরিয়ে নেয়। তারপর নজর সরে যায় চেহারা থেকে কথায়, তারা নিজেদের মধ্যে কী বলে সেদিকে। হুমুল্লাযীনা ইয়াকূলূনা: এরাই তারা, যারা বলে। সর্বনামটা আগে বর্ণিত সেই লোকদের দিকেই ফিরে যায়। এবার কুরআন তাদের মুখের কথাই হুবহু তুলে আনে।"
+          },
+          {
+            "en": "At-Tabari reads it that way: the verse means the hypocrites, who say to their own companions what follows. The Muyassar has them say it to the people of Madinah. The speech is short: la tunfiqu 'ala man 'inda rasul Allah hatta yanfaddu, do not spend on those who are with the Messenger of Allah until they disperse. Allah answers in two clauses: to Allah belong the treasuries of the heavens and the earth, but the hypocrites do not understand.",
+            "bn": "তাবারী আয়াতটা এভাবেই পড়েন: এখানে উদ্দেশ্য মুনাফিকরা, যারা নিজেদের সঙ্গীদের কাছে পরের কথাগুলো বলে। মুয়াসসারের ভাষ্যে তারা কথাটা বলে মদীনাবাসীকে। কথাটা ছোট: লা তুনফিকূ আলা মান ইনদা রাসূলিল্লাহি হাত্তা ইয়ানফাদ্দূ, আল্লাহর রসূলের কাছে যারা আছে তাদের পেছনে খরচ কোরো না, যতক্ষণ না তারা ছড়িয়ে-ছিটিয়ে যায়। আল্লাহর জবাব দুই বাক্যে। আসমান ও জমিনের ভান্ডার আল্লাহরই, কিন্তু মুনাফিকরা বোঝে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Starving a Circle Into Scattering",
+          "bn": "অভাবে ফেলে দল ভাঙার ফন্দি"
+        },
+        "p": [
+          {
+            "en": "Who are 'those who are with the Messenger of Allah'? At-Tabari answers: his Companions from the Emigrants, the Muhajirun. The Muyassar says the same: the Messenger's Companions from the Muhajirun. The goal is in hatta yanfaddu, and here the commentators agree on the gloss. At-Tabari, al-Qurtubi, al-Baghawi and the Muyassar all explain it as yatafarraqu, until they scatter. The aim was not to win an argument with the believers but to dissolve the circle around the Prophet ﷺ.",
+            "bn": "'আল্লাহর রসূলের কাছে যারা আছে' বলতে কারা? তাবারীর জবাব: তাঁর সাহাবিদের মধ্যে যাঁরা মুহাজির। মুয়াসসারও একই কথা বলে: রসূলের মুহাজির সাহাবিরা। লক্ষ্যটা লুকিয়ে আছে হাত্তা ইয়ানফাদ্দূ কথায়, আর এর ব্যাখ্যায় তাফসীরকারেরা একমত। তাবারী, কুরতুবী, বাগাভী ও মুয়াসসার সবাই একে বলেন ইয়াতাফাররাকূ, অর্থাৎ যতক্ষণ না তারা বিচ্ছিন্ন হয়ে যায়। উদ্দেশ্য তাই মুমিনদের সঙ্গে তর্কে জেতা ছিল না। উদ্দেশ্য ছিল নবী ﷺ-এর চারপাশের জমায়েতটাই ভেঙে দেওয়া।"
+          },
+          {
+            "en": "At-Tabari's reports put it more bluntly. From Ibn 'Abbas he relays: do not feed Muhammad and his Companions until hunger strikes them and they abandon their Prophet. From Qatadah he relays that this was the saying of 'Abd Allah ibn Ubayy to his fellow hypocrites: do not spend on Muhammad and his Companions until they leave him, for were it not that you spend on them, they would have left him. The reasoning assumes that loyalty is bought with food, and lasts only as long as the food does.",
+            "bn": "তাবারীর বর্ণনাগুলো কথাটা আরও খোলাখুলি বলে। ইবন আব্বাস থেকে তিনি আনেন: মুহাম্মাদ ও তাঁর সাথিদের খেতে দিয়ো না, যতক্ষণ না তারা ক্ষুধায় পড়ে আর নিজেদের নবীকে ছেড়ে যায়। কাতাদা থেকে তিনি আনেন, এটা ছিল আবদুল্লাহ ইবন উবাইয়ের কথা, সে তার মুনাফিক সঙ্গীদের বলেছিল: মুহাম্মাদ ও তাঁর সাথিদের পেছনে খরচ কোরো না, তাহলে তারা তাঁকে ছেড়ে যাবে। তোমরা খরচ না করলে তারা অনেক আগেই তাঁকে ছেড়ে চলে যেত। এ যুক্তির ভিতটাই হলো, আনুগত্য কেনা যায় খাবার দিয়ে, আর খাবার যতদিন, আনুগত্যও ততদিন।"
+          },
+          {
+            "en": "Ad-Dahhak, in at-Tabari, says the spending meant is gifts and support, al-rifd wa al-ma'unah, and not the obligatory zakah. And Ibn Kathir cites a route from at-Tirmidhi, through Zayd ibn Arqam, that names a different group: the Bedouins who used to attend the Prophet ﷺ at mealtimes. In that telling Ibn Ubayy told his men that once they had scattered, food should be taken to Muhammad for him and those with him to eat. The two identifications stand side by side in the sources.",
+            "bn": "তাবারীর বর্ণনায় দাহহাক বলেন, এখানে খরচ মানে উপহার ও সহযোগিতা, আর-রিফদ ওয়াল-মাঊনা, ফরজ জাকাত নয়। আর ইবন কাসীর তিরমিযী থেকে যায়দ ইবন আরকাম (রাঃ)-এর সূত্রে এমন এক বর্ণনা আনেন, যেখানে উদ্দিষ্ট দলটা ভিন্ন। সেখানে তারা বেদুইন, যারা খাওয়ার সময় নবী ﷺ-এর কাছে হাজির হতো। সে বর্ণনায় ইবন উবাই তার লোকদের বলে, ওরা সরে পড়লে মুহাম্মাদের কাছে খাবার নিয়ে যেয়ো, তিনি আর তাঁর সঙ্গে যারা থাকে তারা খাবে। উৎসগুলোতে দুই ব্যাখ্যাই পাশাপাশি রয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Boy Whom Revelation Confirmed",
+          "bn": "যে কিশোরের কথা ওহি সত্য বলল"
+        },
+        "p": [
+          {
+            "en": "The occasion rests on a sound report from Zayd ibn Arqam (RA), which names this verse in Sahih al-Bukhari 4902: \"When 'Abdullah bin Ubai said, 'Do not spend on those who are with Allah's Messenger ﷺ,' and also said, 'If we return to Medina,' I informed the Prophet ﷺ of his saying. The Ansar blamed me for that, and 'Abdullah bin Ubai swore that he did not say [it]. I returned to my house and slept. Allah's Messenger ﷺ then called me and I went to him. He said, 'Allah has confirmed your statement.' The Verse: 'They are the ones who say: Spend nothing...' (63:7) was revealed.\"",
+            "bn": "আয়াতটির প্রেক্ষাপট দাঁড়িয়ে আছে যায়দ ইবন আরকাম (রাঃ)-এর একটি সহীহ বর্ণনার উপর। সহীহ বুখারী ৪৯০২-এ সে বর্ণনায় এই আয়াতের নামই উল্লেখ আছে। যায়দ বলেন: আবদুল্লাহ ইবন উবাই যখন বলল, 'আল্লাহর রসূলের কাছে যারা আছে তাদের পেছনে খরচ কোরো না', আর এ-ও বলল, 'আমরা যদি মদীনায় ফিরে যাই', আমি তার কথা নবী ﷺ-কে জানালাম। এজন্য আনসাররা আমাকে দোষারোপ করল, আর আবদুল্লাহ ইবন উবাই কসম খেয়ে বলল, সে এমন কথা বলেনি। আমি ঘরে ফিরে ঘুমিয়ে পড়লাম। তারপর আল্লাহর রসূল ﷺ আমাকে ডেকে পাঠালেন, আমি তাঁর কাছে গেলাম। তিনি বললেন, 'আল্লাহ তোমার কথা সত্য বলে ঘোষণা করেছেন।' আর নাযিল হলো: 'তারাই বলে, খরচ কোরো না...' (৬৩:৭)।"
+          },
+          {
+            "en": "Al-Bukhari closes the report with a note that Ibn Abi Za'idah narrated it from al-A'mash, through 'Abd al-Rahman ibn Abi Layla, from Zayd. At-Tabari carries that same route with fuller wording. After Ibn Ubayy came and swore, people began to say to Zayd: do you bring a lie to the Messenger of Allah? He kept to his house, afraid that whenever they saw him they would say, here is the man who lies, until hum alladhina yaquluna was sent down.",
+            "bn": "বর্ণনার শেষে বুখারী জানিয়ে দেন, ইবন আবী যায়িদা এটি আ'মাশ থেকে, আবদুর রহমান ইবন আবী লায়লার মাধ্যমে, যায়দ থেকে বর্ণনা করেছেন। তাবারী ঠিক এই সনদটাই আরও বিস্তারিত শব্দে আনেন। ইবন উবাই এসে কসম খাওয়ার পর লোকেরা যায়দকে বলতে লাগল, তুমি আল্লাহর রসূলের কাছে মিথ্যা কথা নিয়ে আস? তিনি ঘরে বসে রইলেন। ভয় ছিল, বাইরে বেরোলেই লোকে বলবে, এই সেই লোক যে মিথ্যা বলে। এভাবে চলল, যতক্ষণ না নাযিল হলো হুমুল্লাযীনা ইয়াকূলূনা।"
+          },
+          {
+            "en": "Al-Bukhari's other routes from Zayd, 4900, 4901 and 4904, record that Allah sent down 'When the hypocrites come to you', and 4901 marks the span revealed from 63:1 through this verse to the words of 63:8. Another route, 4903, sets the scene on a journey in which the people suffered hardship. Ibn Kathir's English abridgement adds from Ibn Ishaq that Zayd was a young boy then. The sworn denial here is exactly the cover that 63:2 describes.",
+            "bn": "যায়দ থেকে বুখারীর অন্য সনদগুলো, ৪৯০০, ৪৯০১ ও ৪৯০৪, জানায়, আল্লাহ নাযিল করলেন 'যখন মুনাফিকরা তোমার কাছে আসে'। ৪৯০১ নাযিল হওয়া অংশের পরিসরও চিহ্নিত করে দেয়: ৬৩:১ থেকে এই আয়াত হয়ে ৬৩:৮-এর কথাগুলো পর্যন্ত। আরেকটি সনদ, ৪৯০৩, ঘটনাটিকে এমন এক সফরে রাখে, যেখানে লোকেরা কষ্টে পড়েছিল। ইবন কাসীরের ইংরেজি সংক্ষেপ ইবন ইসহাক থেকে যোগ করে, যায়দ তখন কিশোর। এখানে কসম খেয়ে অস্বীকারই সেই ঢাল, যার কথা ৬৩:২ আয়াতে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Quarrel at the Water",
+          "bn": "পানির ঘাটে এক ঝগড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari's routes call the setting a campaign or a journey without naming it; fuller settings come from the biographers, relayed by Ibn Kathir without a grading. In his Arabic text he cites Ibn Abi Hatim, through 'Urwah ibn al-Zubayr and 'Amr ibn Thabit al-Ansari, that it was the campaign of al-Muraysi'. Two men fought there, one of the Emigrants and one of Bahz, allies of the Ansar. Each called on his own side, and men of both groups came to blows before being separated.",
+            "bn": "বুখারীর সনদগুলো প্রেক্ষাপটকে বলে একটি যুদ্ধাভিযান বা একটি সফর, নাম বলে না। বিস্তারিত ছবি আসে সীরাতকারদের কাছ থেকে। ইবন কাসীর সেগুলো আনেন, নিজে কোনো মান যাচাই না জুড়েই। তাঁর আরবি তাফসীরে তিনি ইবন আবী হাতিম থেকে উরওয়া ইবনুয যুবাইর ও আমর ইবন সাবিত আনসারীর সূত্রে আনেন, ঘটনাটা মুরাইসি অভিযানের। সেখানে দুজন লোক মারামারি করে। একজন মুহাজির, অন্যজন আনসারদের মিত্র বাহয গোত্রের। দুজনেই নিজ নিজ দলকে সাহায্যের জন্য ডাকল। শেষে দুই দলের কিছু লোকের মধ্যে হাতাহাতি বেধে গেল, তারপর তাদের থামানো হলো।"
+          },
+          {
+            "en": "Ibn Kathir's English abridgement relays from Ibn Ishaq that this happened during the campaign against Banu al-Mustaliq: Jahjah ibn Sa'id al-Ghifari, a hired hand of 'Umar, and Sinan ibn Wabr quarrelled over a watering place. In Ibn Ishaq's account Ibn Ubayy then turned to his own people: what have you done to yourselves? You let them settle in your land and shared your wealth with them. By Allah, if you abandon them, they will have to move elsewhere. That is this verse's plan in plain words.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষেপ ইবন ইসহাক থেকে জানায়, ঘটনাটা বনু মুস্তালিকের বিরুদ্ধে অভিযানের সময়কার। উমর (রাঃ)-এর মজুর জাহজাহ ইবন সাঈদ গিফারী আর সিনান ইবন ওয়াবার একটা পানির ঘাট নিয়ে ঝগড়ায় জড়ায়। ইবন ইসহাকের বর্ণনায় এরপর ইবন উবাই নিজের লোকদের দিকে ফিরে বলে: তোমরা নিজেদের কী দশা করেছ! ওদের তোমাদের দেশে জায়গা দিয়েছ, নিজেদের সম্পদ ভাগ করে দিয়েছ। আল্লাহর কসম, ওদের হাত ছেড়ে দিলে ওরা তোমাদের এলাকা ছেড়ে অন্য কোথাও চলে যেতে বাধ্য হবে। এ আয়াতের ফন্দিটাই এখানে খোলা ভাষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leave Him, Said the Prophet",
+          "bn": "ওকে ছেড়ে দাও, বললেন নবী ﷺ"
+        },
+        "p": [
+          {
+            "en": "Jabir ibn 'Abd Allah's report in Sahih al-Bukhari 4905 shows how the Prophet ﷺ met the man behind the plan. After a quarrel between an Emigrant and an Ansari, Ibn Ubayy said that if they returned to Madinah the more honourable would expel the meaner, the sentence that 63:8 answers. 'Umar (RA) stood and asked leave to strike the neck of this hypocrite. The Prophet ﷺ said: \"Leave him, lest the people say that Muhammad kills his companions.\" By its own words this report concerns the sentence in 63:8, not this verse's.",
+            "bn": "পরিকল্পনার পেছনের মানুষটির সঙ্গে নবী ﷺ কেমন আচরণ করেছিলেন, তা দেখা যায় সহীহ বুখারী ৪৯০৫-এ জাবির ইবন আবদুল্লাহ (রাঃ)-এর বর্ণনায়। এক মুহাজির আর এক আনসারীর ঝগড়ার পর ইবন উবাই বলল, মদীনায় ফিরলে সম্মানীরা হীনদের সেখান থেকে বের করে দেবে। এ সেই কথা, যার জবাব ৬৩:৮ আয়াতে। উমর (রাঃ) উঠে দাঁড়িয়ে এই মুনাফিকের গর্দান উড়িয়ে দেওয়ার অনুমতি চাইলেন। নবী ﷺ বললেন: 'ওকে ছেড়ে দাও, যেন লোকে বলাবলি না করে যে মুহাম্মাদ তাঁর সাথিদের হত্যা করেন।' লক্ষ রাখার বিষয়, এ বর্ণনার নিজের শব্দ ৬৩:৮-এর কথাটা নিয়ে, এ আয়াতের কথা নিয়ে নয়।"
+          },
+          {
+            "en": "Ibn Ishaq's account, in Ibn Kathir's abridgement, goes further. The Prophet ﷺ answered 'Umar with the same concern for what people would say, and then ordered the march at an unusual hour. He travelled through that day and night into the next morning, and the account gives his reason: he wanted to keep the people from talking about what had happened. When they halted, they fell asleep the moment they felt the ground beneath them.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষেপে ইবন ইসহাকের বর্ণনা এই সংযমকে আরও এগিয়ে নেয়। লোকে কী বলবে, সেই একই চিন্তা থেকে নবী ﷺ উমর (রাঃ)-কে জবাব দেন, তারপর অস্বাভাবিক সময়ে যাত্রার হুকুম দেন। সেদিন সারা দিন, সারা রাত, পরদিন সকাল পর্যন্ত চললেন। বর্ণনায় কারণটাও আছে: তিনি চাইছিলেন, ঘটনাটা নিয়ে লোকেরা যেন আলাপে মেতে না ওঠে। থামার পর মাটিতে পা রাখতেই সবাই ঘুমিয়ে পড়ল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keys Held in One Hand",
+          "bn": "সব চাবি এক হাতে"
+        },
+        "p": [
+          {
+            "en": "Wa lillahi khaza'in al-samawati wa al-ard: and to Allah belong the treasuries of the heavens and the earth. At-Tabari explains it as everything in the heavens and the earth belonging to Allah, with the keys of its treasuries in His hand, so that no one can give anyone anything except by His will. Al-Baghawi says it from both sides: no one gives anyone anything except by His leave, and no one withholds it except by His will.",
+            "bn": "ওয়া লিল্লাহি খাযাইনুস সামাওয়াতি ওয়াল আরদ: আর আসমান ও জমিনের ভান্ডার আল্লাহরই। তাবারী এর ব্যাখ্যায় বলেন, আসমান ও জমিনে যা কিছু আছে সবই আল্লাহর, আর সেসবের ভান্ডারের চাবি তাঁরই হাতে। তাই তাঁর ইচ্ছা ছাড়া কেউ কাউকে কিছুই দিতে পারে না। বাগাভী কথাটা দুই দিক থেকে বলেন: তাঁর অনুমতি ছাড়া কেউ কাউকে কিছু দেয় না, তাঁর ইচ্ছা ছাড়া কেউ কিছু আটকাতেও পারে না।"
+          },
+          {
+            "en": "The Muyassar adds the provisions within: to Allah alone belong the treasuries of the heavens and the earth and the provision in them, which He gives to whom He wills and withholds from whom He wills. As-Sa'di frames the clause as Allah's rebuttal of their words, and widens it to the means of living. He grants provision to whom He wills and withholds it from whom He wills, and He makes the means easy for whom He wills and hard for whom He wills.",
+            "bn": "মুয়াসসার এর সঙ্গে যোগ করে ভান্ডারের ভেতরের রিজিকের কথা। আসমান ও জমিনের ভান্ডার আর তাতে থাকা রিজিক একমাত্র আল্লাহর। যাকে চান দেন, যাকে চান দেন না। সা'দী এই বাক্যকে দেখেন তাদের কথার জবাব হিসেবে, আল্লাহ নিজেই যা খণ্ডন করেছেন। তিনি বিষয়টাকে জীবিকার উপায়-উপকরণ পর্যন্ত বিস্তৃত করেন। আল্লাহ যাকে চান রিজিক দেন, যাকে চান দেন না। যার জন্য চান উপায় সহজ করে দেন, যার জন্য চান কঠিন করে দেন।"
+          },
+          {
+            "en": "As-Sa'di also names the motive behind the plan. It came from the intensity of their enmity, when they saw the Companions gathered, united and hurrying to please the Messenger ﷺ. By their warped reckoning, the believers held together in support of Allah's religion only because the hypocrites' money was spent on them. He calls it the strangest of wonders that people most eager to let the religion down and to harm the Muslims should make such a claim.",
+            "bn": "ফন্দির পেছনের উদ্দেশ্যও সা'দী চিনিয়ে দেন। এর মূলে ছিল তাদের তীব্র শত্রুতা। তারা দেখছিল সাহাবিরা একজোট, পরস্পর ঘনিষ্ঠ, রসূল ﷺ-কে খুশি করতে ছুটে চলেছেন। তাদের বিকৃত হিসাবে মুমিনরা আল্লাহর দ্বীনের সাহায্যে একত্র আছে কেবল এ কারণে যে মুনাফিকদের টাকা তাদের পেছনে খরচ হচ্ছে। সা'দী বলেন, দ্বীনকে বিপদে ফেলে সরে দাঁড়াতে আর মুসলিমদের কষ্ট দিতে যারা সবচেয়ে বেশি উদগ্রীব, তারাই এমন দাবি করবে, এ এক বিস্ময়ের চেয়েও বড় বিস্ময়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Understanding They Lacked",
+          "bn": "যে বুঝটা তাদের ছিল না"
+        },
+        "p": [
+          {
+            "en": "Wa lakinna al-munafiqina la yafqahun: but the hypocrites do not understand. The commentators fill in what they failed to grasp. At-Tabari: that this is so, that the treasuries are Allah's, which is why they say what they say. Al-Qurtubi: that when He wills a matter, He makes it easy. Al-Baghawi: that His command, when He wills a thing, is only to say to it Be, and it is. The Muyassar: that provision comes from Allah, a failure it traces to their ignorance of Him.",
+            "bn": "ওয়া লাকিন্নাল মুনাফিকীনা লা ইয়াফকাহূন: কিন্তু মুনাফিকরা বোঝে না। কী বুঝতে তারা ব্যর্থ, তাফসীরকারেরা তা নিজ নিজ ভাষায় বলে দেন। তাবারী: ব্যাপারটা যে এমনই, ভান্ডার যে আল্লাহর, এটাই তারা বোঝে না, তাই এমন কথা বলে। কুরতুবী: আল্লাহ কোনো কিছু চাইলে তা সহজ করে দেন। বাগাভী: তিনি কোনো কিছু চাইলে তাঁর হুকুম শুধু এটুকু, 'হও', আর তা হয়ে যায়। মুয়াসসার: রিজিক যে আল্লাহর কাছ থেকে আসে, এটা তারা বোঝে না। এর কারণ হিসেবে মুয়াসসার দেখায় আল্লাহ সম্পর্কে তাদের অজ্ঞতা।"
+          },
+          {
+            "en": "As-Sa'di ties the failure back to the speech itself. Because they did not understand, they said a thing whose real content was a claim that the treasuries of provision lay in their own hands and under their own will. The phrase la yafqahun is not new to the surah: 63:3 closes with fa hum la yafqahun, they do not understand, after the sealing of their hearts. The next verse, 63:8, quotes their second sentence and closes differently, with la ya'lamun, they do not know. The change is noted here, not explained.",
+            "bn": "সা'দী এই না-বোঝাকে আবার তাদের কথার সঙ্গে জুড়ে দেন। বোঝেনি বলেই তারা এমন কথা বলেছে, যার ভেতরের দাবিটা হলো, রিজিকের ভান্ডার তাদেরই হাতে, তাদেরই ইচ্ছার অধীনে। লা ইয়াফকাহূন কথাটা এ সূরায় নতুন নয়। অন্তরে মোহর লাগার কথা বলার পর ৬৩:৩ আয়াতও শেষ হয় ফাহুম লা ইয়াফকাহূন দিয়ে, তারা বোঝে না। পরের আয়াত, ৬৩:৮, তাদের দ্বিতীয় কথাটা উদ্ধৃত করে, আর শেষ হয় ভিন্ন শব্দে: লা ইয়া'লামূন, তারা জানে না। পার্থক্যটা এখানে শুধু লক্ষ করা হলো, ব্যাখ্যা দেওয়া হলো না।"
+          },
+          {
+            "en": "Al-Qurtubi also gathers short sayings on the clause, reflections drawn from it rather than its plain meaning. A man asked Hatim al-Asamm, where do you eat from? He replied with the verse: and to Allah belong the treasuries of the heavens and the earth. Al-Junayd said the treasuries of the heavens are the unseen and the treasuries of the earth are the hearts, for He is the Knower of the unseen and the Turner of hearts.",
+            "bn": "কুরতুবী এই বাক্যের প্রসঙ্গে কয়েকটি ছোট উক্তিও জড়ো করেন। এগুলো আয়াতের সরল অর্থ নয়, আয়াত থেকে নেওয়া চিন্তার খোরাক। এক লোক হাতিম আল-আসামকে জিজ্ঞেস করল, আপনি খান কোথা থেকে? তিনি জবাবে আয়াতটাই পড়লেন: আর আসমান ও জমিনের ভান্ডার আল্লাহরই। জুনাইদ বলেন, আসমানের ভান্ডার হলো গায়েব, আর জমিনের ভান্ডার হলো অন্তরসমূহ। কেননা তিনিই গায়েবের জ্ঞানী, তিনিই অন্তরের পরিবর্তনকারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Giving Without a Leash",
+          "bn": "দড়িহীন দান"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what its text describes: a sentence spoken by hypocrites in the Prophet's ﷺ lifetime, which the sound report ties to 'Abd Allah ibn Ubayy and those who sat with him. It licenses nothing against any living person or community. No individual, group or nation today may be labelled a hypocrite on the strength of this verse. In Zayd's case the matter was settled by revelation itself, and no reader holds that knowledge about anyone alive.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কেবল সেটুকুই বর্ণনা করে, যা তার শব্দে আছে: নবী ﷺ-এর জীবদ্দশায় মুনাফিকদের মুখের একটি কথা। সহীহ বর্ণনা সে কথাকে জুড়ে দেয় আবদুল্লাহ ইবন উবাই আর তার সঙ্গে বসে থাকা লোকদের সঙ্গে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। এ আয়াতের জোরে আজ কোনো ব্যক্তি, দল বা জাতিকে মুনাফিক বলে দাগানো চলে না। যায়দের ঘটনায় মীমাংসা এসেছিল ওহির মাধ্যমে, আর কোনো জীবিত মানুষের ব্যাপারে সে জ্ঞান কোনো পাঠকের নেই।"
+          },
+          {
+            "en": "Held up to the self, the verse asks an uncomfortable question. The plan rested on a crude belief: those who receive will stay only while they are paid. Help is offered, and then quietly expected to buy agreement, gratitude or a voice in the other person's choices. The hypocrites said it aloud. The quieter version lives wherever giving becomes a leash, and the verse's reply reaches it too: the treasury was never the giver's.",
+            "bn": "নিজের দিকে তাক করলে আয়াতটা একটা অস্বস্তিকর প্রশ্ন তোলে। ফন্দিটার ভিত ছিল একটা স্থূল বিশ্বাস: যে পায়, সে টাকা পাওয়া পর্যন্তই থাকে। সাহায্য দেওয়া হয়, তারপর মনে মনে আশা করা হয়, এর বিনিময়ে মিলবে সম্মতি, কৃতজ্ঞতা, অন্যের সিদ্ধান্তে নিজের একটা কথা। মুনাফিকরা কথাটা মুখে বলেছিল। এর নীরব রূপটা বেঁচে থাকে সেখানেই, যেখানে দান হয়ে ওঠে গলার দড়ি। আয়াতের জবাব সেখানেও পৌঁছায়: ভান্ডারটা কখনোই দাতার ছিল না।"
+          },
+          {
+            "en": "The same reply speaks to the receiver. Whoever depends on a patron, an employer or a family purse may come to feel that the hand which gives is the source. The readings above answer that fear: no one gives and no one withholds except by Allah's will, and He makes the means easy or hard. The surah then turns to the believers in 63:10 and tells them to spend from what Allah has provided. The hypocrites said do not spend; the believers are told to spend, from a treasury that was never theirs either.",
+            "bn": "একই জবাব গ্রহীতাকেও কিছু বলে। যে মানুষ কোনো পৃষ্ঠপোষক, মালিক বা পরিবারের টাকার উপর নির্ভর করে, তার মনে হতে পারে, যে হাত দিচ্ছে সেটাই উৎস। তাফসীরকারদের ব্যাখ্যা এই ভয়ের জবাব দেয়। আল্লাহর ইচ্ছা ছাড়া কেউ দেয় না, কেউ আটকায়ও না, আর উপায়-উপকরণ সহজ বা কঠিন করেন তিনিই। এরপর ৬৩:১০ আয়াতে সূরাটি মুমিনদের দিকে ফেরে। আল্লাহর দেওয়া রিজিক থেকে খরচ করতে বলে। মুনাফিকরা বলেছিল খরচ কোরো না। মুমিনদের বলা হচ্ছে খরচ করো, এমন ভান্ডার থেকে, যা তাদেরও নিজের ছিল না।"
+          }
+        ]
+      }
+    ]
+  },
   "63:9": {
     "sections": [
       {

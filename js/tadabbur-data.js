@@ -28349,6 +28349,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read the news of past peoples as a warning to yourself, and weigh the truth by what it says, not by how ordinary its bearer seems.",
     "lessonBn": "আগের জাতিগুলোর খবর নিজের জন্য সতর্কবাণী হিসেবে পড়ুন, আর সত্যকে মাপুন তার কথা দিয়ে, বাহক কত সাধারণ তা দিয়ে নয়।"
+  },
+  "63:7": {
+    "reflectionEn": "Some people try to end a cause without ever arguing against it. They simply cut off its supplies. This verse records such a plan in one sentence: do not spend on those who are with the Messenger of Allah, until they drift away. The reply does not haggle over budgets. It says the treasuries of the heavens and the earth belong to Allah, and the hypocrites do not grasp it. Whoever withholds has only held back what was never his to begin with. The verse also turns on my own giving. When I help someone, do I quietly expect that help to keep them close, grateful or obedient to me? And when I fear losing a source of support, do I forget whose treasury it was drawn from?",
+    "reflectionBn": "কিছু মানুষ কোনো দাওয়াতকে থামাতে চায় তর্ক না করেই। তারা শুধু রসদ বন্ধ করে দেয়। এ আয়াত এমনই এক ফন্দি এক বাক্যে তুলে ধরে: আল্লাহর রসূলের কাছে যারা আছে, তাদের পেছনে খরচ কোরো না, তাহলেই তারা সরে পড়বে। জবাবে বাজেট নিয়ে কোনো দর-কষাকষি নেই। জবাব শুধু এটুকু: আসমান ও জমিনের ভান্ডার আল্লাহরই, কিন্তু মুনাফিকরা তা বোঝে না। যে আটকে রাখে, সে আসলে এমন জিনিস আটকায় যা কখনো তার নিজের ছিল না। আয়াতটা আমার নিজের দানের দিকেও আঙুল তোলে। কাউকে সাহায্য করলে আমি কি মনে মনে আশা করি, এই সাহায্যের জোরে সে আমার কাছেই থাকবে, কৃতজ্ঞ থাকবে, আমার কথা মেনে চলবে? আর কোনো সহায়তার উৎস হারানোর ভয় পেলে আমি কি ভুলে যাই, সেটা কার ভান্ডার থেকে আসছিল?",
+    "pointsEn": [
+      "Is there anyone whose loyalty I have tried to buy, or to keep, with what I give them?",
+      "When someone I support disagrees with me, does my generosity toward them begin to shrink?",
+      "Which job, patron or source of income do I treat as if it, and not Allah, were keeping me afloat?",
+      "Have I ever stayed close to what is right only while it paid, and how honestly can I answer that?",
+      "What would change in my giving this week if I truly believed that every treasury is His?"
+    ],
+    "pointsBn": [
+      "এমন কেউ কি আছে, যার আনুগত্য আমি দান দিয়ে কিনতে বা ধরে রাখতে চেয়েছি?",
+      "যাকে আমি সাহায্য করি, সে আমার সঙ্গে দ্বিমত করলে কি তার প্রতি আমার হাত ছোট হয়ে আসে?",
+      "কোন চাকরি, কোন পৃষ্ঠপোষক বা কোন আয়ের পথকে আমি এমনভাবে দেখি, যেন আল্লাহ নন, ওটাই আমাকে বাঁচিয়ে রেখেছে?",
+      "লাভ যতক্ষণ ছিল, ততক্ষণই কি আমি হকের পাশে থেকেছি? এ প্রশ্নের জবাব নিজের কাছে কতটা সৎভাবে দিতে পারি?",
+      "প্রতিটি ভান্ডার যে তাঁরই, এ কথা সত্যিই বিশ্বাস করলে এ সপ্তাহে আমার দানে কী বদলাত?"
+    ],
+    "lessonEn": "Give without turning your giving into a leash, and never fear that anyone who cuts off help can cut off what Allah provides.",
+    "lessonBn": "দানকে কারও গলার দড়ি বানাবেন না। আর ভয় পাবেন না যে কেউ সাহায্য বন্ধ করে দিলে আল্লাহর দেওয়া রিজিকও বন্ধ হয়ে যাবে।"
   }
 };
 
