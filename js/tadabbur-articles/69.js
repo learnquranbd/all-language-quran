@@ -1307,6 +1307,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "69:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Last Line of His Story",
+          "bn": "তার কাহিনির শেষ বাক্য"
+        },
+        "p": [
+          {
+            "en": "La ya'kuluhu illa al-khati'un: none will eat it except the sinners. The verse is four words long in Arabic, and it is the last line spoken about the man who is given his book in his left hand in 69:25. At 69:38 the surah turns to an oath by what you see and what you do not see. So this short sentence closes the scene: his lament, the command to seize him, the two reasons given in 69:33 and 69:34, and the two things he lacks in 69:35 and 69:36, a devoted friend and any food but ghislin.",
+            "bn": "লা ইয়া'কুলুহূ ইল্লাল খাতিঊন: অপরাধীরা ছাড়া কেউ তা খায় না। আরবিতে আয়াতটি মাত্র চারটি শব্দের। ৬৯:২৫ আয়াতে যার আমলনামা বাম হাতে দেওয়া হয়, তার সম্পর্কে এটাই শেষ কথা। ৬৯:৩৮ আয়াতে সূরা অন্য প্রসঙ্গে চলে যায়, শুরু হয় যা দেখা যায় আর যা দেখা যায় না তার কসম দিয়ে। কাজেই এ ছোট্ট বাক্যেই দৃশ্যটা শেষ হয়। আগে এসেছে তার আক্ষেপ, তাকে পাকড়াও করার হুকুম, ৬৯:৩৩ ও ৬৯:৩৪ আয়াতে বলা দুটি কারণ। তারপর ৬৯:৩৫ ও ৬৯:৩৬ আয়াতে দুটি জিনিসের অভাব: দরদি কোনো বন্ধু নেই, আর গিসলীন ছাড়া কোনো খাবার নেই।"
+          },
+          {
+            "en": "The pronoun in ya'kuluhu, eats it, reaches back one verse. At-Tabari spells the referent out in his paraphrase: la ya'kul at-ta'am alladhi min ghislin illa al-khati'un, none eats the food that is from ghislin except the khati'un. The sentence is built as a negation followed by an exception, la and then illa, so it does two things at once. It names the eaters of this food, and it says that no one else eats it. Ibn Kathir does not treat the verse on its own; he quotes 69:35 to 69:37 as one passage and explains them together.",
+            "bn": "ইয়া'কুলুহূ, অর্থাৎ 'তা খায়', এর 'তা' সর্বনামটি একটি আয়াত পেছনে ফিরে যায়। তাবারী তাঁর ব্যাখ্যায় কথাটা খুলে বলেন: গিসলীন থেকে যে খাবার, খাতিঊন ছাড়া কেউ তা খায় না। বাক্যের গড়ন হলো প্রথমে 'লা' দিয়ে না-বাচক কথা, তারপর 'ইল্লা' দিয়ে ব্যতিক্রম। ফলে এক বাক্যে দুটি কাজ হয়ে যায়। এ খাবার কারা খায়, তা বলা হয়, আর এটাও বলা হয় যে আর কেউ খায় না। ইবন কাসীর আয়াতটি আলাদা করে ব্যাখ্যা করেননি। তিনি ৬৯:৩৫ থেকে ৬৯:৩৭ পর্যন্ত একসঙ্গে উদ্ধৃত করে একসঙ্গেই ব্যাখ্যা দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Washings, a Tree, or Unknown",
+          "bn": "ক্ষতের পানি, গাছ, নাকি অজানা"
+        },
+        "p": [
+          {
+            "en": "What is ghislin? Ibn Kathir, in that combined passage, gathers several answers without choosing among them. Qatada: it is sharr ta'am ahl an-nar, the worst food of the people of the Fire. Ar-Rabi' and ad-Dahhak: shajaratun fi jahannam, a tree in Hell. Then come reports from Ibn Abbas. Through 'Ikrima he says it is the blood and water that flow from their flesh. Through 'Ali ibn Abi Talha he says it is sadid ahl an-nar, the pus of the people of the Fire.",
+            "bn": "গিসলীন কী? ওই সম্মিলিত ব্যাখ্যায় ইবন কাসীর কয়েকটি জবাব পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না। কাতাদা বলেন, এটা জাহান্নামবাসীদের সবচেয়ে নিকৃষ্ট খাবার। রবী' ও দাহহাক বলেন, জাহান্নামের একটি গাছ। এরপর আসে ইবন আব্বাস (রাঃ)-এর কয়েকটি বর্ণনা। ইকরিমার সূত্রে তিনি বলেন, তাদের গোশত থেকে যে রক্ত আর পানি গড়িয়ে পড়ে, সেটাই গিসলীন। আলী ইবন আবী তালহার সূত্রে বলেন, জাহান্নামবাসীদের পুঁজ।"
+          },
+          {
+            "en": "The remaining report is the most striking. Ibn Kathir quotes it from Ibn Abi Hatim, with its chain through Mujahid: ma adri ma al-ghislin, wa-lakinni azunnuhu az-zaqqum, I do not know what ghislin is, but I think it is zaqqum. At-Tabari, commenting on 69:36, records a similar caution from Ibn Zayd: al-ghislin wa-z-zaqqum la ya'lamu ahadun ma huwa, no one knows what ghislin and zaqqum are. These two remarks sit beside the definitions without cancelling them. They mark the edge of what the words can show us.",
+            "bn": "বাকি বর্ণনাটি সবচেয়ে চমকপ্রদ। ইবন কাসীর এটি ইবন আবী হাতিম থেকে মুজাহিদের সূত্রসহ উদ্ধৃত করেন। ইবন আব্বাস (রাঃ) বলেছেন: গিসলীন কী, আমি জানি না, তবে আমার ধারণা এটা যাক্কুম। ৬৯:৩৬ আয়াতের ব্যাখ্যায় তাবারীও ইবন যায়দ থেকে একই রকম সংযত কথা এনেছেন: গিসলীন আর যাক্কুম কী জিনিস, কেউ জানে না। এ দুটি কথা সংজ্ঞাগুলোকে বাতিল করে না, পাশে বসে থাকে। শব্দ দিয়ে আমরা কতদূর দেখতে পারি, তার সীমাটা এরা চিনিয়ে দেয়।"
+          },
+          {
+            "en": "The other glosses lean towards the wounds. At-Tabari, on 69:36, says it is what flows from the pus of the people of the Fire, and quotes a Basran grammarian: every wound you wash, and something comes out of it, is ghislin, on the pattern fi'lin from ghasl, washing. Ma'arif al-Qur'an describes the water with which the pus and blood of their wounds are washed. The Muyassar and as-Sa'di both say sadid ahl an-nar. As-Sa'di adds that it is extremely hot and foul-smelling, and, in his note on our verse, ugly and bitter in taste.",
+            "bn": "বাকি ব্যাখ্যাগুলো ক্ষতের দিকেই ঝুঁকেছে। ৬৯:৩৬ আয়াতে তাবারী বলেন, জাহান্নামবাসীদের পুঁজ থেকে যা গড়িয়ে পড়ে, তা-ই গিসলীন। সঙ্গে তিনি বসরার এক ভাষাবিদের কথা আনেন: যে ক্ষত ধোয়ার পর তা থেকে কিছু বের হয়, সেটাই গিসলীন। শব্দটি গাসল, অর্থাৎ ধোয়া থেকে 'ফি'লীন' ওজনে গঠিত। মাআরিফুল কুরআন বলে, এটা সেই পানি যা দিয়ে তাদের ক্ষতের পুঁজ ও রক্ত ধোয়া হয়। মুয়াসসার ও সা'দী দুজনেই বলেন জাহান্নামবাসীদের পুঁজ। সা'দী আরও বলেন, তা চরম গরম আর দুর্গন্ধময়। আমাদের আয়াতের ব্যাখ্যায় তিনি যোগ করেন, এর স্বাদ বিশ্রী ও তেতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Food That Is Not Food",
+          "bn": "খাবার, অথচ খাবার নয়"
+        },
+        "p": [
+          {
+            "en": "A reader may ask how this fits other verses. 69:36 says there is no food for him except from ghislin, yet the Qur'an elsewhere speaks of the people of the Fire eating zaqqum. Ma'arif al-Qur'an raises exactly this question. Its answer is that the words nor any food mean no delectable food. The statement does not deny things like ghislin, which are distasteful and repellent, and therefore, it says, it does not contradict the other verse, which states that the people of Hell will eat zaqqum.",
+            "bn": "পাঠকের মনে প্রশ্ন জাগতে পারে, অন্য আয়াতের সঙ্গে এর মিল কোথায়। ৬৯:৩৬ বলছে, গিসলীন ছাড়া তার কোনো খাবার নেই। অথচ কুরআনের অন্য জায়গায় আছে, জাহান্নামবাসীরা যাক্কুম খাবে। মাআরিফুল কুরআন ঠিক এ প্রশ্নটাই তোলে। তার জবাব হলো, 'কোনো খাবার নেই' মানে কোনো সুস্বাদু খাবার নেই। গিসলীনের মতো ঘৃণ্য, অরুচিকর জিনিস এ কথার বাইরে নয়। তাই যে আয়াতে যাক্কুম খাওয়ার কথা আছে, তার সঙ্গে এর কোনো বিরোধ নেই।"
+          },
+          {
+            "en": "The early reports approach the same point from another side. Ibn Abbas, in the report through Mujahid, thought that ghislin might be zaqqum itself, and ar-Rabi' and ad-Dahhak called it a tree in Hell. Ibn Zayd put the two names side by side as things no one knows. None of the sources consulted finds a real contradiction here. Those that do define the food speak of filth, heat, stench or bitterness, the opposite of what food is for. Our verse then names who eats it.",
+            "bn": "প্রাচীন বর্ণনাগুলো একই কথায় পৌঁছায় অন্য পথ ধরে। মুজাহিদের সূত্রে ইবন আব্বাস (রাঃ) ধারণা করেছিলেন, গিসলীন হয়তো যাক্কুমই। রবী' ও দাহহাক একে জাহান্নামের গাছ বলেছেন। ইবন যায়দ দুটি নাম একসঙ্গে উচ্চারণ করে বলেছেন, এগুলো কী, কেউ জানে না। যেসব সূত্র দেখা হয়েছে, তার কোনোটিই এখানে সত্যিকারের কোনো বিরোধ দেখে না। যাঁরা এ খাবারের সংজ্ঞা দিয়েছেন, তাঁরা একে বলেছেন নোংরা, গরম, দুর্গন্ধময় বা তেতো। খাবার যে কাজের জন্য, এ ঠিক তার উল্টো। আমাদের আয়াত এরপর বলে দেয়, কারা তা খাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who the Eaters Are",
+          "bn": "এ খাবার কাদের ভাগে"
+        },
+        "p": [
+          {
+            "en": "Al-khati'un is a plural participle, and the commentators gloss it at once. Read alone, it could cover anyone who sins, but they do not leave it so wide. At-Tabari: hum al-mudhnibun alladhina dhunubuhum kufrun billah, they are the sinners whose sins are disbelief in Allah. Al-Baghawi says it in one word: al-kafirun, the disbelievers, and the Jalalayn gives the same gloss. Al-Qurtubi first says al-mudhnibun, the sinners, then reports from Ibn Abbas: ya'ni al-mushrikin, meaning those who associate partners with Allah.",
+            "bn": "আল-খাতিঊন বহুবচন শব্দ, আর তাফসীরকারেরা সঙ্গে সঙ্গেই এর ব্যাখ্যা দেন। আলাদাভাবে পড়লে যে-কোনো গুনাহগারকেই এর মধ্যে ধরা যেত, কিন্তু তাঁরা অর্থটাকে এত ঢিলে রাখেন না। তাবারী বলেন: এরা সেই গুনাহগার, যাদের গুনাহ হলো আল্লাহর প্রতি কুফর। বাগাভী এক শব্দে বলেন: কাফিররা। জালালাইনও একই ব্যাখ্যা দেয়। কুরতুবী প্রথমে বলেন, গুনাহগাররা। তারপর ইবন আব্বাস (রাঃ) থেকে আনেন: অর্থাৎ মুশরিকরা, যারা আল্লাহর সঙ্গে শরীক করে।"
+          },
+          {
+            "en": "The Muyassar adds one word that shifts the weight: al-mudhnibun al-musirrun 'ala al-kufr billah, the sinners who persist in disbelief in Allah. Persistence is the mark it chooses. These glosses also match the first reason the passage itself gives, in 69:33: innahu kana la yu'minu billahi al-'azim, he did not believe in Allah, the Most Great. On these readings, the sinners of 69:37 are not every person who has ever done wrong. They are those whose sin was the denial that 69:33 names, held onto and not left.",
+            "bn": "মুয়াসসার একটি শব্দ যোগ করে, আর তাতেই কথার ভার বদলে যায়: এরা সেই গুনাহগার, যারা আল্লাহর প্রতি কুফরে অটল থাকে। তার বেছে নেওয়া চিহ্ন হলো অটল থাকা। এ ব্যাখ্যাগুলো ওই প্রসঙ্গের নিজের দেওয়া প্রথম কারণের সঙ্গেও মিলে যায়। ৬৯:৩৩ আয়াতে আছে: সে মহান আল্লাহর উপর ঈমান আনত না। এসব ব্যাখ্যা অনুযায়ী ৬৯:৩৭ আয়াতের অপরাধীরা জীবনে কখনো অন্যায় করেছে এমন সব মানুষ নয়। এরা তারা, যাদের গুনাহ ছিল ৬৯:৩৩ আয়াতে বলা ওই অস্বীকার, আর তারা তা আঁকড়ে ধরে ছিল, ছেড়ে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Missing the Path, Crossing Over",
+          "bn": "পথ হারানো, সীমা ডিঙানো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the word a picture rather than a category. Al-khati'un, he says, are alladhina akhta'u as-sirat al-mustaqim, those who missed the straight path, wa-salaku subul al-jahim, and walked the roads of Hell, fa-li-dhalika istahaqqu al-'adhab al-alim, and for that they deserved the painful punishment. His gloss reads the sin as a road taken: a direction chosen and followed until it arrived where it led. The punishment, in his last clause, is what that road earned.",
+            "bn": "সা'দী শব্দটিকে কোনো শ্রেণিতে ফেলেন না, বরং একটা ছবি আঁকেন। তাঁর ভাষায় আল-খাতিঊন হলো তারা, যারা সিরাতুল মুস্তাকীম হারিয়ে ফেলেছে আর জাহান্নামের রাস্তা ধরে হেঁটেছে। সেজন্যই তারা যন্ত্রণাদায়ক শাস্তির উপযুক্ত হয়েছে। তাঁর ব্যাখ্যায় গুনাহ মানে একটা রাস্তা বেছে নেওয়া। একটা দিক ঠিক করে সে পথে চলতে থাকা, যতক্ষণ না পথটা তার গন্তব্যে পৌঁছে দেয়। তাঁর শেষ বাক্যে শাস্তি হলো সেই রাস্তারই পাওনা।"
+          },
+          {
+            "en": "Al-Qurtubi offers a related picture at the end of his note, introduced with yajuzu, it is possible: an yurada alladhina yatakhattawna al-haqqa ila al-batil wa-yata'addawna hudud Allah, that it means those who step past the truth to falsehood and overstep the bounds of Allah. Here the image is a stride: a person who comes to the truth and walks over it. As-Sa'di's road and al-Qurtubi's stride do not dispute at-Tabari's category; they add movement to it. In both pictures the sinner is moving, by choice, away from the truth.",
+            "bn": "কুরতুবী তাঁর আলোচনার শেষে কাছাকাছি আরেকটি ছবি দেন, 'এমনও হতে পারে' বলে: এর অর্থ তারা, যারা সত্যকে ডিঙিয়ে মিথ্যার দিকে পা বাড়ায় আর আল্লাহর সীমা লঙ্ঘন করে। এখানে ছবিটা এক লম্বা পদক্ষেপের। মানুষটা সত্যের কাছে এসে তা মাড়িয়ে চলে যায়। সা'দীর রাস্তা আর কুরতুবীর পদক্ষেপ তাবারীর দেওয়া শ্রেণির সঙ্গে বিরোধ করে না। তারা তাতে গতি যোগ করে। দুই ছবিতেই অপরাধী নিজের ইচ্ছায় সত্য থেকে দূরে সরে যাচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hamza That Holds the Meaning",
+          "bn": "এক হামযায় অর্থের পাহারা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi also records two other ways the word was read: al-khatiyun, with the hamza changed to a ya', and al-khatun, with the hamza dropped altogether. He gives no verdict of his own on them in this note. Instead he quotes two reactions. From Ibn Abbas: ma al-khatun? kulluna nakhtu, what are al-khatun? All of us step. His retort hears in the hamza-less form the verb nakhtu, we step, and in that sense everyone who walks would be one of them.",
+            "bn": "কুরতুবী শব্দটির আরও দুটি পাঠের কথা উল্লেখ করেন। একটিতে হামযার জায়গায় ইয়া বসে: আল-খাতিয়ূন। অন্যটিতে হামযা পুরোপুরি বাদ পড়ে: আল-খাতূন। এ আলোচনায় তিনি নিজে এগুলো নিয়ে কোনো রায় দেননি। বরং দুজনের প্রতিক্রিয়া উদ্ধৃত করেছেন। ইবন আব্বাস (রাঃ) বলেছেন: খাতূন আবার কী? আমরা সবাই তো পা ফেলে হাঁটি। হামযা ছাড়া রূপটার মধ্যে তিনি শুনতে পান 'নাখতূ', অর্থাৎ আমরা পা ফেলি। সে অর্থে যে-ই হাঁটে, সে-ই এর মধ্যে পড়ে যেত।"
+          },
+          {
+            "en": "Abu al-Aswad ad-Du'ali, as al-Qurtubi relays, made the same point in a pair: ma al-khatun? innama huwa al-khati'un. ma as-sabun? innama huwa as-sabi'un. What are al-khatun? It is only al-khati'un. What are as-sabun? It is only as-sabi'un. He sets the word beside as-sabi'un, which carries the same hamza, to show that dropping it is not a harmless softening. The point both men make is small and exact: the verse is about sinners, not walkers, and one letter keeps the two apart.",
+            "bn": "কুরতুবীর বর্ণনায় আবুল আসওয়াদ দুআলীও একই কথা বলেছেন জোড়া বাক্যে: খাতূন আবার কী? ওটা তো খাতিঊন। সাবূন আবার কী? ওটা তো সাবিঊন। একই হামযাওয়ালা শব্দ সাবিঊনের পাশে রেখে তিনি দেখান, হামযা ফেলে দেওয়া নিছক উচ্চারণ নরম করা নয়। দুজনের কথা ছোট, কিন্তু নিখুঁত। আয়াতটি অপরাধীদের নিয়ে, পথচারীদের নিয়ে নয়। আর এ দুইয়ের মাঝে পার্থক্য ধরে রাখে একটিমাত্র হরফ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Food Withheld, Food Not Urged",
+          "bn": "যে খাওয়াতে বলেনি, তার খাবার"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, commenting on 69:36, joins the food to a reason given two verses earlier: wa-la lahu ta'amun kama kana la yahuddu fi ad-dunya 'ala ta'am al-miskin, and he has no food, just as in the world he did not urge the feeding of the poor. In his reading the verses answer each other. The man who would not speak up for a hungry person's meal finds no meal of his own. As-Sa'di's fa-li-dhalika, and for that, makes the same kind of link in general terms: the punishment follows the road that was chosen.",
+            "bn": "৬৯:৩৬ আয়াতের ব্যাখ্যায় তাবারী খাবারের কথাটা জুড়ে দেন দুই আয়াত আগের একটি কারণের সঙ্গে: তার কোনো খাবার নেই, যেমন দুনিয়ায় সে মিসকীনকে খাওয়াতে উৎসাহ দিত না। তাঁর পাঠে আয়াতগুলো একে অন্যের জবাব দেয়। ক্ষুধার্ত মানুষের এক বেলার খাবারের জন্য যে মুখ খোলেনি, নিজের জন্য সে কোনো খাবার পায় না। সা'দীর 'সেজন্যই' কথাটাও সাধারণভাবে একই রকম যোগসূত্র টানে। মানুষ যে রাস্তা বেছে নিয়েছিল, শাস্তি আসে তারই পিছু পিছু।"
+          },
+          {
+            "en": "No hadith is attached to this verse in the tafsirs consulted for it. The reports Ibn Kathir carries are sayings of Ibn Abbas, Qatada, ar-Rabi' and ad-Dahhak about the meaning of ghislin, not words of the Prophet ﷺ, and they are reported here as such. Nor does any of these sources connect the verse to a particular occasion of revelation. Its place in the passage is its context: the last line of a description that began at 69:25, which the surah follows with an oath that the Qur'an is the word of a noble messenger.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতে এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত নেই। ইবন কাসীর যে বর্ণনাগুলো এনেছেন, সেগুলো গিসলীনের অর্থ নিয়ে ইবন আব্বাস (রাঃ), কাতাদা, রবী' ও দাহহাকের কথা, নবী ﷺ-এর বাণী নয়। এখানেও সেগুলো সেভাবেই উল্লেখ করা হলো। কোনো সূত্র আয়াতটির নাজিলের কোনো বিশেষ উপলক্ষও বলে না। এর প্রেক্ষাপট হলো এর অবস্থান। ৬৯:২৫ আয়াতে শুরু হওয়া এক বর্ণনার এটাই শেষ বাক্য। এরপর সূরা কসম করে বলে, এ কুরআন এক সম্মানিত রাসূলের বাণী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nobody Living at This Table",
+          "bn": "এ দস্তরখানে কোনো জীবিতের নাম নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes the man of 69:25 to 69:36 on the Day of Resurrection, and the food that the text says is eaten by the khati'un. It licenses nothing against any living person or any community. It gives no one the right to call a neighbour, a relative, a rival or a people al-khati'un, or to say who will eat ghislin. The sources define the word by disbelief held onto, as the Muyassar puts it, and how any person's life will end is not something a reader can see.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা দেয় কিয়ামতের দিন ৬৯:২৫ থেকে ৬৯:৩৬ আয়াতের সেই লোকটির, আর সেই খাবারের, যা আয়াতের ভাষায় খাতিঊনরা খায়। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, আত্মীয়, প্রতিপক্ষ বা কোনো জাতিকে খাতিঊন বলার অধিকার এটি কাউকে দেয় না। কে গিসলীন খাবে, সে কথা বলারও না। মুয়াসসারের ভাষায় সূত্রগুলো শব্দটির সংজ্ঞা দেয় কুফরে অটল থাকা দিয়ে। আর কার জীবন কীভাবে শেষ হবে, কোনো পাঠক তা দেখতে পায় না।"
+          },
+          {
+            "en": "Nor does the verse make every sin a sign of that end. The glosses the commentators chose for the eaters of this food speak of disbelief and persistence, not of a single lapse. Ibn Abbas's retort, kulluna nakhtu, all of us step, was about a reading, not about people. Still, it is a fair picture of everyone: all of us walk, and some of our steps go wrong. The verse is a warning for each reader to hold up to their own steps, not a label to hang on anyone else.",
+            "bn": "আবার প্রতিটি গুনাহকে ওই পরিণতির আলামত বানানোও এ আয়াতের কাজ নয়। এ খাবারের খাদকদের জন্য তাফসীরকারেরা যে ব্যাখ্যা বেছে নিয়েছেন, তাতে আছে কুফর আর অটল থাকার কথা, একবারের পদস্খলনের কথা নয়। ইবন আব্বাস (রাঃ)-এর 'আমরা সবাই তো পা ফেলি' কথাটা ছিল একটা পাঠ নিয়ে, মানুষ নিয়ে নয়। তবু সবার জন্যই ছবিটা খাটে। আমরা সবাই হাঁটি, আর আমাদের কিছু পা ভুল জায়গায় পড়ে। আয়াতটি প্রত্যেক পাঠকের নিজের পদক্ষেপ মেপে দেখার সতর্কবাণী, অন্য কারও গায়ে লাগানোর তকমা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning Off the Road Today",
+          "bn": "আজই রাস্তা বদলানো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's picture of a road has a hopeful side for anyone reading it now. A road is walked one step at a time, and a person still walking can turn. The two reasons given in 69:33 and 69:34 are things a living reader can still attend to: belief in Allah, the Most Great, held and acted on, and the feeding of the poor, urged and done. At-Tabari's link between food withheld there and food not urged here makes the second especially concrete.",
+            "bn": "রাস্তার যে ছবি সা'দী আঁকেন, আজকের পাঠকের জন্য তার একটা আশার দিকও আছে। রাস্তা পার হতে হয় এক পা এক পা করে, আর যে এখনো হাঁটছে, সে মোড় ঘুরতে পারে। ৬৯:৩৩ ও ৬৯:৩৪ আয়াতের দুটি কারণ জীবিত পাঠক আজও শোধরাতে পারেন। মহান আল্লাহর উপর ঈমান, যা অন্তরে থাকবে আর আমলে দেখা যাবে। আর মিসকীনকে খাওয়ানো, নিজে খাইয়ে এবং অন্যকে উৎসাহ দিয়ে। সেখানে খাবার না পাওয়া আর এখানে খাওয়াতে না বলা, তাবারীর এই যোগসূত্র দ্বিতীয়টিকে আরও স্পষ্ট করে তোলে।"
+          },
+          {
+            "en": "So the verse can be carried out of the reading in two small acts. The first is to name, privately, a wrong you keep returning to, the kind of holding on that the Muyassar's word musirrun describes, and to stop it while stopping is still possible. The second is to see that someone hungry is fed this week, by your own hand or by urging someone else, which is exactly what 69:34 says the man never did. Four words describe a meal no one would choose. The choice in front of us is of another kind.",
+            "bn": "তাই পড়া শেষে আয়াতটিকে দুটি ছোট কাজে নিয়ে যাওয়া যায়। প্রথমটি হলো, যে অন্যায়ে বারবার ফিরে যাচ্ছেন, নিভৃতে নিজের কাছে তার নাম বলা। মুয়াসসারের 'মুসিররূন' শব্দটি এমন আঁকড়ে থাকার কথাই বলে। আর থামার সুযোগ থাকতে থাকতেই তা থামিয়ে দেওয়া। দ্বিতীয়টি হলো, এ সপ্তাহে কোনো ক্ষুধার্ত মানুষ যেন খেতে পায়, নিজের হাতে খাইয়ে বা অন্যকে বলে। ৬৯:৩৪ আয়াত বলছে, লোকটি ঠিক এ কাজটাই কখনো করেনি। চারটি শব্দে এমন এক খাবারের ছবি, যা কেউ বেছে নেবে না। আমাদের সামনে বাছাইটা অন্য রকম।"
+          }
+        ]
+      }
+    ]
+  },
   "69:41": {
     "sections": [
       {

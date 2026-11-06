@@ -28669,6 +28669,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "On that Day people will see their nearest and still not ask after them; ask after yours now, and prepare the deeds no one else can offer for you.",
     "lessonBn": "সেদিন মানুষ নিজের সবচেয়ে কাছের জনদের দেখবে, তবু তাদের খোঁজ নেবে না। আপনার কাছের মানুষদের খোঁজ এখনই নিন, আর এমন আমল জোগাড় করুন যা আপনার হয়ে আর কেউ দিতে পারবে না।"
+  },
+  "69:37": {
+    "reflectionEn": "Four words close the story of the man handed his book in his left hand. He has no friend there and no food but ghislin, the washings that run from wounds, and then the verse adds: none eat it except al-khati'un, the sinners. It names a food and those who eat it, and it stops there. It names no one living, and it gives no reader the right to point. What it gives is a mirror. His record listed two failures: he did not believe in Allah, the Most Great, and he did not urge the feeding of the poor. Both can still be mended today. Which of the two am I neglecting, and what will I do about it before my own book is handed over?",
+    "reflectionBn": "বাম হাতে যার আমলনামা দেওয়া হলো, তার কাহিনির শেষ কথা মাত্র চারটি শব্দ। সেখানে তার কোনো বন্ধু নেই, গিসলীন ছাড়া কোনো খাবারও নেই। গিসলীন মানে ক্ষত ধোয়া পানি, যা ঘা থেকে গড়িয়ে পড়ে। তারপর আয়াতটি বলে: আল-খাতিঊন, অর্থাৎ অপরাধীরা ছাড়া কেউ তা খায় না। আয়াত একটা খাবার আর তার খাদকদের কথা বলেই থেমে যায়। কোনো জীবিত মানুষের নাম সে নেয় না, কারও দিকে আঙুল তোলার অধিকারও কাউকে দেয় না। সে বরং আয়না ধরে। লোকটির আমলনামায় দুটি ব্যর্থতা লেখা ছিল: মহান আল্লাহর উপর সে ঈমান আনেনি, আর মিসকীনকে খাওয়াতে কাউকে উৎসাহ দেয়নি। দুটোই আজ শোধরানো যায়। এ দুটোর কোনটা আমি অবহেলা করছি? আমার নিজের আমলনামা হাতে আসার আগে তা নিয়ে আমি কী করব?",
+    "pointsEn": [
+      "When I read a verse about the people of the Fire, do I look for myself in it, or for someone else?",
+      "Which wrong have I kept doing long after I knew it was wrong?",
+      "Who near me went hungry this week, and did I feed them or urge anyone else to?",
+      "If my book were handed to me today, which line in it would I most want changed, and what stops me changing it now?"
+    ],
+    "pointsBn": [
+      "জাহান্নামবাসীদের নিয়ে কোনো আয়াত পড়লে আমি কি সেখানে নিজেকে খুঁজি, নাকি অন্য কাউকে?",
+      "কোন অন্যায়টা অন্যায় বলে জানার পরও আমি অনেক দিন ধরে করে চলেছি?",
+      "এ সপ্তাহে আমার আশপাশে কে না খেয়ে ছিল? আমি কি তাকে খাইয়েছি, বা অন্য কাউকে খাওয়াতে বলেছি?",
+      "আজই যদি আমলনামা আমার হাতে দেওয়া হতো, কোন লাইনটা আমি সবচেয়ে বেশি বদলাতে চাইতাম? এখনই বদলাতে আমাকে কী আটকাচ্ছে?"
+    ],
+    "lessonEn": "The verse names who eats this food and points at no one living; take it as your own warning, and leave the sin you keep repeating while you still can.",
+    "lessonBn": "কারা এ খাবার খাবে, আয়াত তা বলে দেয়, কিন্তু কোনো জীবিত মানুষের দিকে আঙুল তোলে না। একে নিজের জন্য সতর্কবাণী হিসেবে নিন, আর যে গুনাহ বারবার করছেন, সময় থাকতেই তা ছেড়ে দিন।"
   }
 };
 
