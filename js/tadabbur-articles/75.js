@@ -299,6 +299,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "75:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Third Sign in a Row",
+          "bn": "পরপর তিন আলামতের শেষটি"
+        },
+        "p": [
+          {
+            "en": "Wa-jumi'a ash-shamsu wal-qamaru: and the sun and the moon are joined. Three Arabic words, the last of three signs that answer the question of 75:6, when is the Day of Resurrection? The sight is dazzled in 75:7, the moon loses its light in 75:8, and here the two great lights of the sky are brought together. Only in 75:10 does the sentence reach its main clause: man will say on that Day, where is the escape? The joining belongs to a sentence that is still waiting for its end.",
+            "bn": "ওয়া জুমিআশ শামসু ওয়াল কামারু: আর সূর্য ও চাঁদকে একত্র করা হবে। আরবিতে মাত্র তিনটি শব্দ। ৭৫:৬ আয়াতে মানুষ জিজ্ঞেস করেছিল, কিয়ামতের দিন কবে? তার জবাবে পরপর তিনটি আলামত আসে, আর এটি তার শেষটি। ৭৫:৭ আয়াতে চোখ ধাঁধিয়ে যায়, ৭৫:৮ আয়াতে চাঁদ আলো হারায়, আর এখানে আকাশের বড় দুই আলোকে এক জায়গায় আনা হয়। বাক্যটি তবু শেষ হয়নি। তার মূল কথা আসে ৭৫:১০ আয়াতে: সেদিন মানুষ বলবে, পালানোর জায়গা কোথায়? এই একত্র হওয়া তাই এমন এক বাক্যের অংশ, যা নিজের সমাপ্তির অপেক্ষায় আছে।"
+          },
+          {
+            "en": "Al-Muyassar reads the four verses as one picture. When the sight is bewildered and stunned in terror at what it sees of the horrors of the Day of Resurrection, and the light of the moon is gone, and the sun and the moon are joined in the loss of light so that neither has any, man will say at that time: where is the place to flee from the punishment? The dazzled sight has its own article under 75:7, and the winding up of the sun its own under 81:1. Neither is retold here. This article stays with the joining, and with the several things the commentators say it means.",
+            "bn": "মুয়াসসার চারটি আয়াতকে একটিই দৃশ্য হিসেবে পড়ে। কিয়ামতের বিভীষিকা দেখে ভয়ে চোখ যখন দিশেহারা আর হতভম্ব হয়ে যাবে, চাঁদের আলো নিভে যাবে, আর আলো হারানোর বেলায় সূর্য ও চাঁদ এক হয়ে যাবে, কারও আর কোনো আলো থাকবে না, তখন মানুষ বলবে: আজাব থেকে পালানোর জায়গা কোথায়? ধাঁধানো চোখের আলোচনা আছে ৭৫:৭ আয়াতের প্রবন্ধে, আর সূর্য গুটিয়ে নেওয়ার আলোচনা ৮১:১ আয়াতের প্রবন্ধে। সেগুলো এখানে আবার বলা হবে না। এ প্রবন্ধ থাকবে কেবল এই একত্র হওয়া নিয়ে, আর তাফসীরকারেরা এর যে কয়েকটি অর্থ বলেছেন সেগুলো নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Darkness for Both Lights",
+          "bn": "দুই আলোর এক অন্ধকার"
+        },
+        "p": [
+          {
+            "en": "The plainest reading joins them in what they lose. At-Tabari says it in his own voice: Allah joins the sun and the moon in the going of their light, so that neither of them has any light. Al-Qurtubi says the same, jumi'a baynahuma fi dhahabi daw'ihima, joined in the going of their light, and adds a comparison that makes it vivid: there is no light for the sun, just as there is no light for the moon after its eclipse. He credits this reading to the grammarians al-Farra' and az-Zajjaj.",
+            "bn": "সবচেয়ে সরল পাঠে দুজনের মিল তাদের হারানোয়। তাবারী নিজের ভাষায় বলেন: আল্লাহ সূর্য ও চাঁদকে এক করবেন তাদের আলো চলে যাওয়ায়, ফলে কারও আর কোনো আলো থাকবে না। কুরতুবীও একই কথা বলেন, জুমিআ বাইনাহুমা ফী যাহাবি দাওয়িহিমা, অর্থাৎ আলো চলে যাওয়ার বেলায় দুজনকে এক করা হলো। সঙ্গে তিনি একটি তুলনা দেন, যাতে ছবিটা চোখে ভাসে: গ্রহণের পর চাঁদের যেমন আলো থাকে না, সূর্যেরও তেমনি থাকবে না। এই ব্যাখ্যা তিনি দুই ব্যাকরণবিদ ফাররা ও যাজ্জাজের নামে উল্লেখ করেন।"
+          },
+          {
+            "en": "Read this way, 75:9 completes 75:8. The previous verse took away the moon's light, and this one gives the sun the same fate, so that the sky keeps no lamp by day or by night. Al-Baghawi records the reading too, introducing it with qila, it has been said: the two are joined in the going of their radiance. Al-Muyassar's paraphrase, quoted above, builds the whole scene on it. So the reading runs from the early grammarians through at-Tabari to the modern simplified commentary.",
+            "bn": "এভাবে পড়লে ৭৫:৯ আয়াত ৭৫:৮ আয়াতের কথাটা পূর্ণ করে। আগের আয়াত চাঁদের আলো কেড়ে নিয়েছে, এ আয়াত সূর্যকেও একই পরিণতিতে নিয়ে আসে। দিনে বা রাতে আকাশে আর কোনো বাতি থাকে না। বাগাভীও এই ব্যাখ্যা এনেছেন, 'কীলা', অর্থাৎ 'বলা হয়েছে' দিয়ে শুরু করে: দুজনকে এক করা হবে তাদের দীপ্তি চলে যাওয়ায়। উপরে মুয়াসসারের যে সারকথা এসেছে, তার পুরো দৃশ্যটাই এর উপর দাঁড়িয়ে। এভাবে এ পাঠ প্রাচীন ব্যাকরণবিদদের থেকে তাবারী হয়ে আজকের সহজ তাফসীর পর্যন্ত এসেছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reasons along the same line from the order of the verses. The statement that the sun and the moon will be joined, it says, signifies that not only will the moon lose its light, but the sun too will be eclipsed. It adds that the moon's light is borrowed from the sun, and that on the Day the two will be fused together so that both lose their light. That point is Ma'arif's own. The classical commentaries consulted here make their case from the wording and the reports alone.",
+            "bn": "মাআরিফুল কুরআন আয়াতগুলোর ক্রম থেকে একই দিকে যুক্তি টানে। তার মতে সূর্য ও চাঁদকে এক করার কথার মানে হলো, শুধু চাঁদ নয়, সূর্যও সেদিন গ্রহণগ্রস্ত হবে। সে আরও বলে, চাঁদের আলো সূর্য থেকে ধার করা। সেদিন দুটিকে মিলিয়ে দেওয়া হবে, ফলে দুটিই আলো হারাবে। আলো ধার করার এ কথাটি মাআরিফের নিজস্ব সংযোজন। এখানে দেখা প্রাচীন তাফসীরগুলো নিজেদের ব্যাখ্যা দাঁড় করায় শুধু শব্দ আর বর্ণনার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wound Up and Cast Down",
+          "bn": "গুটিয়ে নিয়ে নিচে নিক্ষেপ"
+        },
+        "p": [
+          {
+            "en": "A second line of reports reads the joining as the start of a folding. Mujahid, in at-Tabari's report through Ibn Abi Najih, said: kuwwira yawma al-qiyamah, they will be wound up on the Day of Resurrection. Ibn Kathir gives the same word from Mujahid, kuwwira, without the time phrase. At-Tabari also lists the view, introduced with qila, that the two are joined and then wound up, and sets 81:1 beside it: idha ash-shamsu kuwwirat, when the sun is wound up.",
+            "bn": "বর্ণনার আরেকটি ধারা এই একত্র হওয়াকে দেখে গুটিয়ে নেওয়ার শুরু হিসেবে। তাবারী ইবন আবী নাজীহের সূত্রে মুজাহিদের কথা আনেন: কুউইরা ইয়াওমাল কিয়ামাহ, কিয়ামতের দিন দুটিকে গুটিয়ে নেওয়া হবে। ইবন কাসীরও মুজাহিদ থেকে একই শব্দ আনেন, কুউইরা, তবে দিনের উল্লেখ ছাড়া। তাবারী 'কীলা' দিয়ে আরেকটি মতও উল্লেখ করেন: দুটিকে প্রথমে এক করা হবে, তারপর গুটিয়ে নেওয়া হবে। পাশে তিনি ৮১:১ আয়াত রাখেন: ইযাশ শামসু কুউইরাত, যখন সূর্যকে গুটিয়ে নেওয়া হবে।"
+          },
+          {
+            "en": "Ibn Zayd ties the two surahs together most directly. At-Tabari records him saying of this verse: they were joined and then thrown into the earth; and of 81:1: wound up into the earth, and the moon with it. Ibn Kathir notes that Ibn Zayd, explaining this verse, recited 81:1 and 81:2, when the sun is wound up and when the stars fall. On this line, 75:9 and 81:1 show one event from two sides, the first naming the meeting and the second what follows it.",
+            "bn": "দুই সূরাকে সবচেয়ে সরাসরি জুড়ে দেন ইবন যায়দ। তাবারী তাঁর কথা আনেন: এ আয়াত সম্পর্কে তিনি বলেছেন, দুটিকে এক করে মাটিতে ছুড়ে ফেলা হলো। আর ৮১:১ আয়াত সম্পর্কে বলেছেন, সূর্যকে গুটিয়ে মাটিতে ফেলা হবে, চাঁদও থাকবে তার সঙ্গে। ইবন কাসীর জানান, এ আয়াতের ব্যাখ্যা দিতে গিয়ে ইবন যায়দ ৮১:১ ও ৮১:২ তিলাওয়াত করেছিলেন: যখন সূর্যকে গুটিয়ে নেওয়া হবে, আর যখন তারাগুলো খসে পড়বে। এ ধারায় ৭৫:৯ ও ৮১:১ একই ঘটনার দুই দিক। প্রথমটি বলে মিলনের কথা, দ্বিতীয়টি বলে তার পরে কী ঘটে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sea, the Veils, the Fire",
+          "bn": "সাগর, পর্দা, নাকি আগুন"
+        },
+        "p": [
+          {
+            "en": "A Successor's report goes further. 'Ata' ibn Yasar once recited this verse, at-Tabari reports through Zayd ibn Aslam, and said: they will be joined on the Day of Resurrection, then cast into the sea, and so become Allah's greatest fire. Al-Qurtubi and al-Baghawi both carry the same saying from 'Ata'. As-Sa'di, without naming anyone, gives a sequence of his own: Allah joins the two on the Day, the moon is eclipsed, the sun is wound up, and then both are cast into the Fire.",
+            "bn": "এক তাবিঈর বর্ণনা আরও এগিয়ে যায়। তাবারী যায়দ ইবন আসলামের সূত্রে জানান, আতা ইবন ইয়াসার একদিন এ আয়াত তিলাওয়াত করে বলেছিলেন: কিয়ামতের দিন দুটিকে এক করা হবে, তারপর সাগরে নিক্ষেপ করা হবে, আর সেগুলো হয়ে যাবে আল্লাহর সবচেয়ে বড় আগুন। কুরতুবী ও বাগাভী দুজনেই আতার এ কথাটি এনেছেন। সা'দী কারও নাম না নিয়ে নিজের মতো করে একটি ধারাবাহিকতা দেন: সেদিন আল্লাহ দুটিকে এক করবেন, চাঁদ আলো হারাবে, সূর্যকে গুটিয়ে নেওয়া হবে, তারপর দুটিকেই আগুনে ফেলা হবে।"
+          },
+          {
+            "en": "Al-Qurtubi records a different end from 'Ali and Ibn 'Abbas (RA): the two are placed in nur al-hujub, the light of the veils. He gives it as a report and explains it no further, and nothing is added to it here. Then, in his own words, he allows that they may be joined in the fire of Hell, and he gives his reason, which is taken up below. The reports differ on where the two lights end: the earth, the sea, the veils or the Fire. None of the commentators consulted here rules among them.",
+            "bn": "কুরতুবী আলী (রাঃ) ও ইবন আব্বাস (রাঃ) থেকে ভিন্ন এক পরিণতির কথা আনেন: দুটিকে রাখা হবে নূরুল হুজুবে, পর্দাগুলোর আলোয়। তিনি এটি বর্ণনা হিসেবে দেন, এর বেশি ব্যাখ্যা করেন না, আর এখানেও কিছু যোগ করা হলো না। এরপর নিজের ভাষায় তিনি বলেন, দুটিকে জাহান্নামের আগুনেও এক করা হতে পারে। এর কারণও তিনি দেন, সে আলোচনা আসছে নিচে। দুই আলো শেষে কোথায় যাবে, এ নিয়ে বর্ণনাগুলো আলাদা: মাটি, সাগর, পর্দা, নাকি আগুন। এখানে দেখা কোনো তাফসীরকার এদের মধ্যে একটিকে বেছে নেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rising Black From the West",
+          "bn": "পশ্চিমে কালো হয়ে উদয়"
+        },
+        "p": [
+          {
+            "en": "A third meaning places the joining at a sunrise. Al-Qurtubi reports from Ibn 'Abbas and Ibn Mas'ud (RA): jumi'a baynahuma means the two are coupled in their rising from the west, black, wound up, darkened and coupled together, as if they were two hamstrung bulls. He adds that a hadith with this meaning has already passed at the end of Surat al-An'am. Al-Baghawi gives the same picture without naming who said it: black and wound up, as though they were two hamstrung bulls.",
+            "bn": "তৃতীয় এক অর্থ এই মিলনকে রাখে এক সূর্যোদয়ের মুহূর্তে। কুরতুবী ইবন আব্বাস (রাঃ) ও ইবন মাসউদ (রাঃ) থেকে বর্ণনা করেন: জুমিআ বাইনাহুমা মানে, পশ্চিম দিক থেকে উদয়ের সময় দুটিকে জোড়া বেঁধে আনা হবে। দুটিই কালো, গুটানো, অন্ধকার, একসঙ্গে বাঁধা, যেন পা কেটে ফেলা দুটি ষাঁড়। তিনি আরও বলেন, এই অর্থের হাদীস সূরা আনআমের শেষে আগেই আলোচিত হয়েছে। বাগাভীও একই ছবি দেন, তবে কার কথা তা না বলে: কালো আর গুটানো, যেন পা কাটা দুটি ষাঁড়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an records a related view: some scholars take the verse to mean that on that Day the sun and the moon will rise from the same point, as some narratives report, and it closes with and Allah knows best. Al-Qurtubi adds two more readings, each with qila. In one, the two are joined and never parted, and brought near to people, so that sweat overtakes them from the intensity of the heat. In the other, sun and moon are joined so that night and day no longer follow one another.",
+            "bn": "মাআরিফুল কুরআন এর কাছাকাছি একটি মত উল্লেখ করে: কিছু আলিমের মতে আয়াতের অর্থ, সেদিন সূর্য ও চাঁদ একই জায়গা থেকে উদিত হবে, যেমনটা কিছু বর্ণনায় এসেছে। শেষে সে বলে, আল্লাহই ভালো জানেন। কুরতুবী 'কীলা' দিয়ে আরও দুটি পাঠ যোগ করেন। একটিতে দুটিকে এক করা হবে, আর কখনো আলাদা করা হবে না। মানুষের কাছাকাছি আনা হবে, ফলে প্রচণ্ড তাপে ঘাম তাদের পেয়ে বসবে। অন্যটিতে সূর্য ও চাঁদকে এক করা হবে, ফলে রাত আর দিনের পালাবদল থাকবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Masculine Verb for Two",
+          "bn": "পুংলিঙ্গ ক্রিয়া কেন"
+        },
+        "p": [
+          {
+            "en": "The verb is jumi'a, masculine, though ash-shams, the sun, is feminine in Arabic, and a reader might expect jumi'at. Al-Qurtubi gathers four grammarians' answers. Al-Farra' says the verb is not jumi'at because the meaning is that He joined between the two. Abu 'Ubayda says it follows the rule that the masculine is given precedence when the two are named together. Al-Kisa'i says it is carried on the meaning, as if the verse said the two lights. Al-Mubarrad says the sun's feminine is not a true feminine.",
+            "bn": "ক্রিয়াটি জুমিআ, পুংলিঙ্গে। অথচ আরবিতে আশ শামস, সূর্য, স্ত্রীলিঙ্গ, তাই পাঠকের মনে হতে পারে জুমিআত হওয়ার কথা ছিল। কুরতুবী এ প্রশ্নে চারজন ব্যাকরণবিদের জবাব একসঙ্গে এনেছেন। ফাররা বলেন, জুমিআত বলা হয়নি, কারণ অর্থটা হলো তিনি দুটির মাঝে মিলন ঘটালেন। আবু উবায়দার মতে, দুটি একসঙ্গে এলে পুংলিঙ্গকে প্রাধান্য দেওয়ার নিয়মে এমন হয়েছে। কিসাঈ বলেন, ক্রিয়াটি অর্থের দিকে তাকিয়ে এসেছে, যেন বলা হয়েছে দুই আলো। মুবাররাদ বলেন, সূর্যের স্ত্রীলিঙ্গ প্রকৃত স্ত্রীলিঙ্গ নয়।"
+          },
+          {
+            "en": "At-Tabari takes the first answer as his own: the verse says jumi'a because, as he has explained, its meaning is jumi'a baynahuma, joined between the two. He then relays a view of some Kufan grammarians and names it as al-Kisa'i's: the verb follows the sense of the two lights were joined, the two radiances were joined. The reading of 'Abd Allah ibn Mas'ud spells out the first answer: wa-jumi'a bayna ash-shamsi wal-qamar. At-Tabari mentions it with as it was mentioned to me, Ibn Kathir with it was reported, al-Qurtubi plainly.",
+            "bn": "তাবারী প্রথম জবাবটিকে নিজের মত হিসেবে নেন: আয়াতে জুমিআ এসেছে, কারণ তিনি আগেই যেমন বলেছেন, এর অর্থ জুমিআ বাইনাহুমা, দুটির মাঝে মিলন ঘটানো হলো। এরপর তিনি কুফার কিছু ব্যাকরণবিদের একটি মত আনেন এবং বলেন, এটি কিসাঈর মত: ক্রিয়াটি এসেছে 'দুই আলো এক হলো', 'দুই দীপ্তি এক হলো' অর্থের ধাঁচে। আবদুল্লাহ ইবন মাসউদ (রাঃ)-এর কিরাআত প্রথম জবাবটিকে খোলাখুলি দেখায়: ওয়া জুমিআ বাইনাশ শামসি ওয়াল কামার। তাবারী এটি আনেন 'আমাকে যেমন জানানো হয়েছে' বলে, ইবন কাসীর 'বর্ণিত আছে' বলে, আর কুরতুবী কোনো শর্ত ছাড়াই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Narrations Carry",
+          "bn": "বর্ণনাগুলো কী বহন করে"
+        },
+        "p": [
+          {
+            "en": "Of the commentaries fetched for this verse, only al-Qurtubi brings a narration from the Prophet ﷺ under it. He cites the Musnad of Abu Dawud at-Tayalisi, through Yazid ar-Raqashi from Anas ibn Malik (RA), raised to the Prophet ﷺ, about the end of the sun and the moon. Al-Qurtubi gives no grading for it, and none is supplied here. Without a grading from a collector or commentator in hand, its wording is not quoted, and this article builds no meaning on it.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার মধ্যে শুধু কুরতুবী এখানে নবী ﷺ থেকে একটি বর্ণনা এনেছেন। তিনি আবু দাউদ তায়ালিসীর মুসনাদ থেকে উদ্ধৃত করেন, ইয়াযীদ রাকাশীর সূত্রে আনাস ইবন মালিক (রাঃ) থেকে, যিনি কথাটি নবী ﷺ পর্যন্ত পৌঁছান। বর্ণনাটি সূর্য ও চাঁদের পরিণতি নিয়ে। কুরতুবী এর কোনো মান উল্লেখ করেননি, এখানেও কোনো মান জুড়ে দেওয়া হলো না। সংকলক বা তাফসীরকারের দেওয়া কোনো মান হাতে নেই। তাই এর শব্দ উদ্ধৃত করা হলো না, আর এ প্রবন্ধ এর উপর কোনো অর্থ দাঁড় করায় না।"
+          },
+          {
+            "en": "Al-Bukhari records a short narration on the end of the sun and the moon, though no commentary fetched for this verse attaches it here, so it is given only as general. Abu Hurayra (RA) reported that the Prophet ﷺ said: \"The sun and the moon will be folded up (deprived of their light) on the Day of Resurrection\" (Sahih al-Bukhari 3200). Its Arabic word, mukawwaran, comes from the same root as Mujahid's kuwwira, and the translator's bracket adds the loss of light. Its fuller treatment is in the article on 81:1.",
+            "bn": "সূর্য ও চাঁদের পরিণতি নিয়ে বুখারী একটি ছোট হাদীস এনেছেন। তবে এ আয়াতের জন্য দেখা কোনো তাফসীর এটিকে এখানে যুক্ত করেনি, তাই এটি শুধু সাধারণ বর্ণনা হিসেবে আসছে, এ আয়াতের সঙ্গে বাঁধা হিসেবে নয়। আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"কিয়ামতের দিন সূর্য ও চাঁদকে গুটিয়ে নেওয়া হবে (আলোহীন করে দেওয়া হবে)\" (সহীহ বুখারী ৩২০০)। এর আরবি শব্দ মুকাওয়ারান, মুজাহিদের কুউইরা শব্দের একই ধাতু থেকে। আলোহীন হওয়ার কথাটি অনুবাদকের বন্ধনীতে যোগ করা। হাদীসটির বিস্তারিত আলোচনা আছে ৮১:১ আয়াতের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Servants Once Worshipped",
+          "bn": "একদা পূজিত দুই বান্দা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di opens with an observation: the two have never met since Allah created them, and on the Day Allah brings them together. Then he gives the purpose of the casting: so that the servants see that the two are 'abdani musakhkharani, two servants held under command, and so that those who worshipped them see that they were liars. Al-Qurtubi, explaining why the two might be joined in Hell, gives a matching reason in his own words: because they were worshipped besides Allah.",
+            "bn": "সা'দী শুরু করেন একটি পর্যবেক্ষণ দিয়ে: আল্লাহ যেদিন এ দুটিকে সৃষ্টি করেছেন, সেদিন থেকে এরা কখনো মিলিত হয়নি। কিয়ামতের দিন আল্লাহ এদের এক করবেন। তারপর তিনি আগুনে ফেলার উদ্দেশ্য বলেন: যাতে বান্দারা দেখে যে এরা আবদানি মুসাখখারানি, হুকুমের অধীন দুই বান্দা। আর যারা এদের পূজা করত, তারা যেন দেখে নেয় যে তারা মিথ্যাবাদী ছিল। দুটিকে জাহান্নামে কেন এক করা হতে পারে, তার ব্যাখ্যায় কুরতুবীও নিজের ভাষায় একই ধরনের কারণ দেন: আল্লাহকে ছেড়ে এদের ইবাদত করা হয়েছিল।"
+          },
+          {
+            "en": "He adds at once that the fire is no punishment to them, since they are inanimate. It is done, he says, to deepen the rebuke and the regret of those who disbelieved. Nothing here blames the sun or the moon; they only did as they were commanded. The verse describes what it describes, an event of the Day and the regret of those who took created lights as gods. It licenses nothing against any living person or community, and it gives no one the right to name who will stand among them.",
+            "bn": "সঙ্গে সঙ্গেই কুরতুবী বলেন, এ আগুন ওদের জন্য শাস্তি নয়, কারণ ওরা জড় বস্তু। তাঁর ভাষায়, এটা করা হবে কাফিরদের ভর্ৎসনা আর আফসোস আরও বাড়িয়ে দিতে। এখানে সূর্য বা চাঁদের কোনো দোষ ধরা হচ্ছে না। ওরা কেবল হুকুম মেনে চলেছে। আয়াতটি শুধু তা-ই বর্ণনা করে যা সে বর্ণনা করে: কিয়ামতের একটি ঘটনা, আর সৃষ্ট আলোকে যারা উপাস্য বানিয়েছিল তাদের আফসোস। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কে সেদিন ওই দলে দাঁড়াবে, তা ঠিক করে দেওয়ার অধিকারও কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Lamp Left to Run By",
+          "bn": "পালানোর পথে কোনো বাতি নেই"
+        },
+        "p": [
+          {
+            "en": "The sentence that 75:7 opened closes in 75:10 with the cry ayna al-mafarr, where is the escape? Al-Muyassar adds: from the punishment. The two lights by which every human being has measured days, seasons, journeys and the times of prayer are gone or gathered up, and the man who asked in 75:6 when all this would happen is left asking a different question. The surah's reply follows in 75:11 and 75:12: there is no refuge, and to your Lord that Day is the place of settling.",
+            "bn": "যে বাক্য শুরু হয়েছিল ৭৫:৭ আয়াতে, তা শেষ হয় ৭৫:১০ আয়াতে এক আর্তনাদে: আইনাল মাফাররু, পালানোর জায়গা কোথায়? মুয়াসসার যোগ করে: আজাব থেকে। যে দুই আলো দিয়ে মানুষ চিরকাল দিন, ঋতু, সফর আর নামাজের সময় মেপেছে, সে দুটি হয় নিভে গেছে, নয়তো গুটিয়ে নেওয়া হয়েছে। ৭৫:৬ আয়াতে যে জানতে চেয়েছিল এসব কবে হবে, তার মুখে এখন অন্য প্রশ্ন। সূরার জবাব আসে ৭৫:১১ ও ৭৫:১২ আয়াতে: কোনো আশ্রয় নেই, সেদিন ঠাঁই শুধু তোমার রবের কাছে।"
+          },
+          {
+            "en": "For a reader now, the verse loosens a quiet trust. The things that seem as fixed as the sunrise, health, income, the steady shape of a week, are smaller and less certain than the sun itself, and the sun is a servant under command. When they go dark, the only direction left is the one 75:12 names. The time to turn that way is while the lights still rise in their turns, and while the question of 75:6 can still be put to oneself rather than about the Day.",
+            "bn": "আজকের পাঠকের জন্য আয়াতটি একটা চুপচাপ ভরসাকে আলগা করে দেয়। যা কিছু সূর্যোদয়ের মতো স্থির মনে হয়, যেমন সুস্থতা, আয়-রোজগার, সপ্তাহের বাঁধা ছক, সবই সূর্যের চেয়ে ছোট, সূর্যের চেয়ে অনিশ্চিত। আর সূর্য নিজেও হুকুমের অধীন এক বান্দা। এগুলো নিভে গেলে যাওয়ার দিক থাকে একটাই, যার কথা ৭৫:১২ আয়াত বলে। সেদিকে ফেরার সময় এখনই, যখন আলোগুলো এখনো পালা করে ওঠে। ৭৫:৬ আয়াতের প্রশ্নটাও এখনো নিজেকে করা যায়: দিনটা কবে, তা নয়, আমি তার জন্য কতটা প্রস্তুত।"
+          }
+        ]
+      }
+    ]
+  },
   "75:14": {
     "sections": [
       {

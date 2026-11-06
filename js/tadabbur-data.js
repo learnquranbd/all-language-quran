@@ -29027,6 +29027,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an already addresses you; stop waiting for a private proof, and live as one who fears the Day his own record is spread open.",
     "lessonBn": "কুরআন আগে থেকেই আপনাকে সম্বোধন করছে। ব্যক্তিগত প্রমাণের অপেক্ষা ছেড়ে এমনভাবে বাঁচুন, যেন সেই দিনকে ভয় করেন যেদিন আপনার আমলনামা খুলে ধরা হবে।"
+  },
+  "75:9": {
+    "reflectionEn": "From the first morning, the sun and the moon have each kept their own turn. Here they are brought together, and the commentators say that in the joining both lose their light, or both are wound up and thrown down. The man who asked when the Day would come now stands under a sky with no lamp left, asking only where to run. The verse does not ask me to fear the sky. It asks what I have been lighting my way by. The lights I lean on now, an income, a name, a plan, are all smaller than the sun. Where will I turn when they go out, and have I turned there already?",
+    "reflectionBn": "প্রথম সকাল থেকে সূর্য আর চাঁদ যার যার পালা মেনে চলেছে। এখানে দুজনকে একসঙ্গে জড়ো করা হচ্ছে। তাফসীরকারেরা বলেন, এই জড়ো হওয়ায় দুজনেরই আলো চলে যাবে, কিংবা দুজনকেই গুটিয়ে ছুড়ে ফেলা হবে। যে লোক জিজ্ঞেস করেছিল দিনটা কবে আসবে, সে এখন দাঁড়িয়ে আছে এমন আকাশের নিচে যেখানে একটা বাতিও আর জ্বলে না। তার মুখে এখন একটাই প্রশ্ন: পালাব কোথায়? আয়াতটি আমাকে আকাশকে ভয় পেতে বলে না। জানতে চায়, এতদিন আমি কোন আলোয় পথ চলেছি। আজ যেসব আলোর উপর ভর দিই, আয়-রোজগার, সুনাম, পরিকল্পনা, সবই সূর্যের চেয়ে ছোট। এগুলো নিভে গেলে আমি কার দিকে ফিরব? আর সেদিকে কি আজই ফিরেছি?",
+    "pointsEn": [
+      "Which of my daily certainties have I been treating as if it could never set?",
+      "If the question of when the Day will come sits quietly inside my postponing, what am I putting off right now?",
+      "When I feel there is nowhere left to run, is my first turn towards Allah or towards another distraction?",
+      "What would change in how I spend this evening if I remembered that even the sun is a servant under command?",
+      "What have I given a place in my heart that belongs to Allah alone?"
+    ],
+    "pointsBn": [
+      "রোজকার কোন নিশ্চয়তাকে আমি এমনভাবে ধরে রেখেছি যেন তা কখনো অস্ত যাবে না?",
+      "দিনটা কবে আসবে, এই প্রশ্ন যদি চুপচাপ আমার গড়িমসির ভেতরে বসে থাকে, তাহলে এই মুহূর্তে আমি কোন কাজটা পিছিয়ে রাখছি?",
+      "যখন মনে হয় পালানোর আর কোনো জায়গা নেই, তখন আমি প্রথমে আল্লাহর দিকে ফিরি, নাকি নতুন কোনো ব্যস্ততার দিকে?",
+      "সূর্যও যে হুকুমের অধীন এক বান্দা, এ কথা মনে থাকলে আজকের সন্ধ্যাটা আমি কীভাবে কাটাতাম?",
+      "যে জায়গা শুধু আল্লাহর, অন্তরের সেই জায়গায় আমি কাকে বা কী বসিয়ে রেখেছি?"
+    ],
+    "lessonEn": "Even the sun and the moon will be joined and darkened on that Day; turn now to the Lord who commands them, since then the only place to go is to Him.",
+    "lessonBn": "সেদিন সূর্য আর চাঁদও একত্র হয়ে আলো হারাবে। যিনি এদের পরিচালনা করেন, সেই রবের দিকে আজই ফিরুন, কারণ সেদিন যাওয়ার জায়গা শুধু তাঁরই কাছে।"
   }
 };
 
