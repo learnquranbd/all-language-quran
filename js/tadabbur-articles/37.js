@@ -4243,6 +4243,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:110": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words After the Peace",
+          "bn": "সালামের পরে তিনটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Kadhalika najzi al-muhsinin: thus do We reward the doers of good. Three words, and the last but one line of Ibrahim's (AS) sacrifice account, which runs from 37:99 to 37:111. They come after 37:108, and We left for him among later generations, and 37:109, peace upon Ibrahim, and just before 37:111, he was of Our believing servants. The same promise, in nearly the same words, has already sounded once in this story, at 37:105, when the call reached him in the middle of the act. So the account holds the refrain twice: once inside the trial, and once at its close.",
+            "bn": "কাযালিকা নাজযিল মুহসিনীন: এভাবেই আমি সৎকর্মশীলদের প্রতিদান দিই। মাত্র তিনটি শব্দ। ইবরাহীম (আঃ)-এর কুরবানির বিবরণ চলেছে ৩৭:৯৯ থেকে ৩৭:১১১ পর্যন্ত, আর এটি তার শেষের আগের লাইন। এর আগে আছে ৩৭:১০৮, আর আমি পরবর্তীদের মধ্যে তাঁর জন্য রেখে দিলাম, এবং ৩৭:১০৯, ইবরাহীমের উপর সালাম। ঠিক পরে আসে ৩৭:১১১, সে ছিল আমার মুমিন বান্দাদের একজন। প্রায় একই শব্দে একই প্রতিশ্রুতি এই কাহিনিতে আগেও একবার এসেছে, ৩৭:১০৫ আয়াতে, যখন কাজের মাঝখানেই তাঁর কাছে ডাক পৌঁছায়। তাই একই বিবরণে ধ্রুবপদটি দুবার আছে। একবার পরীক্ষার ভেতরে, আরেকবার তার সমাপ্তিতে।"
+          },
+          {
+            "en": "One textual detail should be noted, and it is this article's own observation, not a commentator's. Elsewhere in as-Saffat the sentence opens with inna, indeed: at 37:80 after Nuh, at 37:105 in this same story, at 37:121 after Musa and Harun, and at 37:131 after Ilyas. Here alone it begins with kadhalika. None of the commentaries fetched for this verse remarks on the difference, and as-Sa'di's gloss on 37:110, as fetched, even quotes the line with inna. Since no source offers a reason, none is offered here. The promise is the same; the wording is a point to hold carefully when memorising.",
+            "bn": "লেখার একটি খুঁটিনাটি খেয়াল করার মতো। তবে এটি এই প্রবন্ধের নিজের পর্যবেক্ষণ, কোনো মুফাসসিরের কথা নয়। সূরা আস-সাফফাতের অন্য সব জায়গায় বাক্যটি শুরু হয় ইন্না দিয়ে, যার অর্থ নিশ্চয়ই। নূহ (আঃ)-এর পরে ৩৭:৮০ আয়াতে, এই কাহিনিরই ৩৭:১০৫ আয়াতে, মূসা ও হারূন (আঃ)-এর পরে ৩৭:১২১ আয়াতে, আর ইলিয়াস (আঃ)-এর পরে ৩৭:১৩১ আয়াতে। শুধু এখানে শুরু কাযালিকা দিয়ে। এই আয়াতের জন্য সংগৃহীত কোনো তাফসীর এই পার্থক্য নিয়ে কিছু বলেনি। সাদী ৩৭:১১০ আয়াতের ব্যাখ্যায় লাইনটি বরং ইন্না সহই উদ্ধৃত করেছেন, অন্তত যে পাঠ হাতে এসেছে তাতে। কোনো সূত্র কারণ বলেনি, তাই এখানেও কারণ বানানো হচ্ছে না। প্রতিশ্রুতি একই। তবে হিফজের সময় শব্দের এই তফাতটা সাবধানে মনে রাখার মতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "All the Way to the Command",
+          "bn": "আদেশের শেষ সীমা পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss on this verse names the deed being rewarded. As We rewarded Ibrahim for his obedience to Us and his ihsan fi al-intiha' ila amrina, his doing good in going all the way to Our command, so We reward the doers of good. The Muyassar runs in parallel: as We rewarded Ibrahim for his obedience to Us and his compliance, imtithal, with Our command, We reward the doers of good among Our servants. Both read the refrain here as being about one man first, and only then about everyone who does what he did.",
+            "bn": "এই আয়াতের ব্যাখ্যায় তাবারী স্পষ্ট বলে দেন, কোন কাজের প্রতিদান দেওয়া হচ্ছে। আমার আনুগত্য আর ইহসান ফিল ইনতিহা ইলা আমরিনা, অর্থাৎ আমার আদেশের শেষ সীমা পর্যন্ত পৌঁছানোর সৎকাজের জন্য আমি যেভাবে ইবরাহীমকে প্রতিদান দিয়েছি, সৎকর্মশীলদেরও সেভাবেই প্রতিদান দিই। মুয়াসসারের কথাও একই ধারার। ইবরাহীম আমার আনুগত্য করেছে, আমার আদেশ মেনে চলেছে, তাকে যেমন প্রতিদান দিয়েছি, আমার বান্দাদের মধ্যে সৎকর্মশীলদেরও তেমনি দিই। দুজনের পাঠেই ধ্রুবপদটি আগে এক নির্দিষ্ট মানুষের কথা বলে। তারপর বলে তাদের সবার কথা, যারা তাঁর মতো কাজ করে।"
+          },
+          {
+            "en": "What all the way meant is spelled out a few verses earlier. Ibn Kathir, on 37:106, describes the clear trial: he was commanded to slaughter his son, and he hastened to it, surrendering to Allah's command and yielding to His obedience. For that reason, he says, Allah said elsewhere: and Ibrahim, who fulfilled (53:37). The Muyassar, on the same verse, calls the command a hard trial that made the truth of his faith plain. On these readings the ihsan of 37:110 is not good conduct in general. It is one command, the heaviest a father could receive, met without delay.",
+            "bn": "শেষ সীমা পর্যন্ত মানে কী, তা কয়েক আয়াত আগেই খুলে বলা আছে। ৩৭:১০৬ আয়াতের ব্যাখ্যায় ইবন কাসীর সেই সুস্পষ্ট পরীক্ষার বর্ণনা দেন। তাঁকে ছেলেকে জবাই করার আদেশ দেওয়া হয়েছিল, আর তিনি আল্লাহর আদেশের কাছে নিজেকে সঁপে দিয়ে, তাঁর আনুগত্যে মাথা নুইয়ে, দ্রুত সেদিকে এগিয়ে গেলেন। ইবন কাসীর বলেন, এ কারণেই আল্লাহ অন্যত্র বলেছেন: আর ইবরাহীম, যে পূর্ণ করেছিল (৫৩:৩৭)। একই আয়াতে মুয়াসসার আদেশটিকে বলে কঠিন পরীক্ষা, যা তাঁর ঈমানের সত্যতা স্পষ্ট করে দিল। এই পাঠ অনুযায়ী ৩৭:১১০ আয়াতের ইহসান সাধারণ কোনো ভালো আচরণ নয়। এ হলো একটিমাত্র আদেশ, একজন বাবার জন্য সবচেয়ে ভারী আদেশ, আর বিনা দেরিতে তা পালন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Verb for Two People",
+          "bn": "দুজনের জন্য একটি ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "The trial reaches its point at 37:103 with fa-lamma aslama: when the two of them had submitted. The verb is dual. At-Tabari glosses it: when they had surrendered their affair to Allah, entrusted it to Him, and agreed together on submitting to His command and being content with His decree. He relays Abu Salih: they agreed on one matter. From Qatada: this one surrendered himself to Allah, and that one surrendered his son to Allah. From Ibn Ishaq: Ibrahim surrendered to slaughtering him when commanded, and his son surrendered to bearing it patiently, once he knew Allah had commanded it.",
+            "bn": "পরীক্ষা চূড়ান্ত মুহূর্তে পৌঁছায় ৩৭:১০৩ আয়াতে: ফালাম্মা আসলামা, যখন দুজনেই আত্মসমর্পণ করল। ক্রিয়াটি দ্বিবচন। তাবারীর ব্যাখ্যা: তারা দুজন নিজেদের বিষয় আল্লাহর হাতে সঁপে দিল, তাঁর উপর ভরসা করে ছেড়ে দিল, আর তাঁর আদেশ মেনে নেওয়া ও তাঁর ফয়সালায় খুশি থাকার ব্যাপারে একমত হলো। তিনি আবূ সালিহের কথা আনেন: তারা এক বিষয়ে একমত হলো। কাতাদার বর্ণনা: একজন নিজেকে আল্লাহর কাছে সঁপে দিল, অন্যজন সঁপে দিল নিজের ছেলেকে। ইবন ইসহাকের বর্ণনা: আদেশ পেয়ে ইবরাহীম ছেলেকে জবাই করতে রাজি হলেন। আর ছেলে যখন জানল এ আল্লাহরই আদেশ, তখন সে ধৈর্য ধরে তা সয়ে নিতে রাজি হলো।"
+          },
+          {
+            "en": "Al-Qurtubi records a reading reported from Ibn Mas'ud, Ibn Abbas and Ali (RA), fa-lamma sallama, which he glosses as they consigned their affair to Allah. Al-Baghawi's gloss on aslama is inqada wa-khada'a: they yielded, and humbled themselves before Allah's command. Read beside these glosses, the doing of good that 37:110 rewards was not one man's alone. It was a joint act, a father's resolve and a son's consent arriving at the same place, held together in a single dual verb. That is the article's reading of the passage; the commentators supply the parts, each in his own words.",
+            "bn": "কুরতুবী একটি কিরাআত উল্লেখ করেন, যা ইবন মাসঊদ, ইবন আব্বাস ও আলী (রাঃ) থেকে বর্ণিত: ফালাম্মা সাল্লামা। তাঁর ব্যাখ্যায় এর অর্থ, তারা নিজেদের বিষয় আল্লাহর হাতে সোপর্দ করল। বাগাভী আসলামা শব্দের ব্যাখ্যা দেন ইনকাদা ওয়া খাদাআ দিয়ে: তারা মাথা নোয়াল, আল্লাহর আদেশের সামনে বিনীত হলো। এসব ব্যাখ্যা পাশাপাশি রাখলে বোঝা যায়, ৩৭:১১০ আয়াত যে সৎকাজের প্রতিদানের কথা বলছে, তা একজনের একার ছিল না। বাবার দৃঢ় সংকল্প আর ছেলের সম্মতি একই জায়গায় এসে মিলেছিল, আর একটি দ্বিবচন ক্রিয়া দুটোকে ধরে রেখেছে। এটি এই প্রবন্ধের পাঠ। মুফাসসিরগণ যার যার ভাষায় এর আলাদা আলাদা অংশ জোগান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Son's Share in the Good",
+          "bn": "সৎকাজে পুত্রের ভাগ"
+        },
+        "p": [
+          {
+            "en": "The Muyassar, on 37:102, gives the son's answer its motive. He spoke seeking his Lord's pleasure, dutiful to his father, helping him toward obeying Allah: carry out what Allah has commanded you about slaughtering me; you will find me, if Allah wills, patient, obedient and hoping for reward. As-Sa'di, on 37:103, says the son had steeled himself to patience, and his own life became light to him in obeying his Lord and pleasing his father. Ibn Kathir, on the same verse, relays from Mujahid, Ikrima, as-Suddi, Qatada, Ibn Ishaq and others that the father complied with Allah's command and the son obeyed Allah and his father.",
+            "bn": "৩৭:১০২ আয়াতের ব্যাখ্যায় মুয়াসসার ছেলের জবাবের পেছনের মনোভাবটা তুলে ধরে। সে রবের সন্তুষ্টি চেয়ে, বাবার প্রতি অনুগত থেকে, আল্লাহর আনুগত্যে বাবাকে সাহায্য করতে বলেছিল: আল্লাহ আমাকে জবাই করার যে আদেশ আপনাকে দিয়েছেন, তা পালন করুন। ইনশাআল্লাহ আপনি আমাকে ধৈর্যশীল, অনুগত আর সওয়াবের আশায় থাকা মানুষ হিসেবেই পাবেন। সাদী ৩৭:১০৩ আয়াতে বলেন, ছেলে নিজেকে ধৈর্যের জন্য প্রস্তুত করে নিয়েছিল। রবের আনুগত্য আর বাবার সন্তুষ্টির জন্য নিজের প্রাণও তার কাছে হালকা হয়ে গিয়েছিল। একই আয়াতে ইবন কাসীর মুজাহিদ, ইকরিমা, সুদ্দী, কাতাদা, ইবন ইসহাকসহ আরও অনেকের কথা আনেন: বাবা আল্লাহর আদেশ পালন করলেন, আর ছেলে আনুগত্য করল আল্লাহর ও বাবার।"
+          },
+          {
+            "en": "At-Tabari preserves a report from Ikrima, a Successor, and it is a report, not a hadith of the Prophet ﷺ. Both submitted, he says; the boy accepted being slaughtered and the father accepted slaughtering him. Then the boy said: father, lay me on my face, so that you do not look at me and pity me, and I do not look at the blade and lose my nerve; bring the blade in from beneath me, and carry out Allah's command. As-Sa'di, Ibn Kathir and the Muyassar name the son Isma'il here, while at-Tabari, on 37:106, names him Ishaq; that question is left to 37:100 and 37:112.",
+            "bn": "তাবারী তাবিঈ ইকরিমা থেকে একটি বর্ণনা রেখে গেছেন। এটি তাবিঈর বর্ণনা, নবী ﷺ-এর হাদীস নয়। ইকরিমা বলেন, দুজনেই আল্লাহর আদেশের কাছে আত্মসমর্পণ করল। ছেলে জবাই হতে রাজি হলো, বাবা রাজি হলেন জবাই করতে। তখন ছেলে বলল: আব্বা, আমাকে উপুড় করে শুইয়ে দিন। তাহলে আপনি আমার মুখ দেখে মায়ায় পড়বেন না, আর আমিও ছুরি দেখে ঘাবড়ে যাব না। ছুরিটা নিচ থেকে চালান, আর আল্লাহর আদেশ পালন করুন। সাদী, ইবন কাসীর ও মুয়াসসার এখানে ছেলের নাম বলেন ইসমাঈল (আঃ), আর তাবারী ৩৭:১০৬ আয়াতে বলেন ইসহাক (আঃ)। সেই প্রশ্ন ৩৭:১০০ ও ৩৭:১১২ আয়াতের আলোচনার জন্য রাখা থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Friendship Made Pure",
+          "bn": "খাঁটি হলো বন্ধুত্ব"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di, on 37:106, gives the trial an inner purpose. Ibrahim (AS) was the Friend of the Most Merciful, and khulla, he says, is the highest kind of love: a station that admits no sharing, and that asks for every part of the heart to be tied to the Beloved. When Allah gave him his son, he loved him intensely. Allah willed to make his love pure and to test his friendship, so He commanded him to slaughter the one whose love had come to press upon his love for his Lord.",
+            "bn": "৩৭:১০৬ আয়াতের ব্যাখ্যায় সাদী পরীক্ষাটির একটি ভেতরের উদ্দেশ্য দেখান। ইবরাহীম (আঃ) ছিলেন রহমানের খলীল, পরম দয়াময়ের বন্ধু। সাদী বলেন, খুল্লা হলো ভালোবাসার সর্বোচ্চ স্তর। এই মর্যাদায় কোনো ভাগীদার চলে না। এর দাবি হলো, অন্তরের প্রতিটি অংশ প্রিয়তমের সঙ্গে বাঁধা থাকবে। আল্লাহ যখন তাঁকে পুত্র দান করলেন, তিনি তাকে গভীরভাবে ভালোবাসলেন। আল্লাহ চাইলেন তাঁর ভালোবাসাকে খাঁটি করতে, তাঁর বন্ধুত্ব যাচাই করতে। তাই তাঁকে আদেশ দিলেন সেই সন্তানকে জবাই করতে, যার ভালোবাসা রবের ভালোবাসার জায়গায় চাপ দিতে শুরু করেছিল।"
+          },
+          {
+            "en": "Then, in as-Sa'di's words: when he put Allah's love first, preferred it over his own inclination and resolved to slaughter him, and what had pressed on the heart was gone, the slaughter remained with no benefit left in it. That, he says, is why the verse calls it the clear trial. On this reading the command reached its purpose before the knife moved. A father's love for his son is no fault, and as-Sa'di never calls it that. In this article's reading, the trial raised a prophet already chosen to the full height of his station, and 37:110 rewards what it showed.",
+            "bn": "এরপর সাদীর ভাষায়: তিনি যখন আল্লাহর ভালোবাসাকে আগে রাখলেন, নিজের মনের টানের উপর তাকে প্রাধান্য দিলেন, জবাই করার সংকল্প করলেন, আর অন্তরে যা চাপ দিচ্ছিল তা সরে গেল, তখন জবাইয়ের আর কোনো প্রয়োজন রইল না। তিনি বলেন, এ কারণেই আয়াতটি একে সুস্পষ্ট পরীক্ষা বলেছে। এই পাঠে ছুরি নড়ার আগেই আদেশ তার উদ্দেশ্যে পৌঁছে গিয়েছিল। ছেলের প্রতি বাবার ভালোবাসা কোনো দোষ নয়, আর সাদীও একে দোষ বলেননি। এই প্রবন্ধের পাঠে, পরীক্ষাটি আগে থেকেই মনোনীত এক নবীকে তাঁর মর্যাদার পূর্ণ উচ্চতায় তুলে দিল। আর পরীক্ষা যা প্রকাশ করল, ৩৭:১১০ আয়াত তারই প্রতিদানের কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Test, Hardship or Favour",
+          "bn": "পরীক্ষা, কষ্ট, নাকি অনুগ্রহ"
+        },
+        "p": [
+          {
+            "en": "The commentators do not agree on what kind of bala' 37:106 names. At-Tabari reads it as a test, one that shows anyone who reflects on it that it was a severe trial and a great ordeal. He reports that Ibn Zayd held otherwise: bala' in this place is the hard thing that befell him, the command to slaughter his son, and not a test at all. Al-Qurtubi puts a third sense first, the manifest favour, since the verb is used of Allah bestowing a blessing; al-Baghawi reports the same sense from Muqatil, the favour being that his son was ransomed with the ram.",
+            "bn": "৩৭:১০৬ আয়াতের বালা শব্দটি কোন ধরনের বালা বোঝায়, এ নিয়ে মুফাসসিরগণ একমত নন। তাবারী এর অর্থ নেন পরীক্ষা। যে-ই এ নিয়ে ভাবে, তার কাছেই স্পষ্ট হয় যে এটি ছিল কঠিন পরীক্ষা ও বড় মিহনত। তিনি জানান, ইবন যায়দের মত ভিন্ন ছিল। তাঁর মতে এখানে বালা মানে তাঁর উপর নেমে আসা কষ্ট, অর্থাৎ ছেলেকে জবাই করার আদেশ, পরীক্ষা নয়। কুরতুবী প্রথমে আনেন তৃতীয় অর্থ, প্রকাশ্য নিয়ামত। কারণ আল্লাহ যখন কাউকে নিয়ামত দেন, তখনও এই ক্রিয়া ব্যবহৃত হয়। বাগাভী মুকাতিল থেকে একই অর্থ আনেন। তাঁর মতে নিয়ামতটি হলো, দুম্বার বিনিময়ে ছেলেকে ছাড়িয়ে নেওয়া।"
+          },
+          {
+            "en": "The three senses are kept here as the commentators keep them, and none is preferred. For the refrain, each points to the same fact: the doing of good rewarded at 37:110 was shown inside something heavy. If bala' is a test, the reward answers what the test revealed. If it is a hardship, the reward answers what was endured. If it is a favour, the ransom is already part of the reward. The ransom itself, 37:107, and We ransomed him with a great sacrifice, and the reports about the ram are taken up with 37:105 and are not retold in this article.",
+            "bn": "মুফাসসিরগণ তিনটি অর্থ যেভাবে রেখেছেন, এখানেও সেভাবেই রাখা হলো, কোনোটিকে প্রাধান্য দেওয়া হয়নি। ধ্রুবপদের দিক থেকে তিনটিই একই সত্যের দিকে ইশারা করে। ৩৭:১১০ আয়াতে যে সৎকাজের প্রতিদান, তা প্রকাশ পেয়েছিল ভারী কিছুর ভেতর দিয়ে। বালা যদি পরীক্ষা হয়, তবে প্রতিদান সেই পরীক্ষায় যা প্রকাশ পেল তার জবাব। যদি কষ্ট হয়, তবে প্রতিদান সেই সহ্য করার জবাব। আর যদি নিয়ামত হয়, তবে মুক্তিপণটাই প্রতিদানের অংশ। ৩৭:১০৭ আয়াত, আর আমি তাকে ছাড়িয়ে নিলাম এক মহান কুরবানির বিনিময়ে, এবং দুম্বা নিয়ে বর্ণনাগুলো ৩৭:১০৫ আয়াতের আলোচনায় এসেছে, এখানে আবার বলা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Kept With Peace",
+          "bn": "সালামে ঘেরা এক নাম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's gloss on this verse gives the reward two readings. The first: We keep good praise for them, al-thana' al-hasan. The second: or We reward them with deliverance from hardships in this world and the Hereafter. Where 37:110 stands, the first reading points straight back to the two verses before it. At-Tabari explains 37:108, and We left for him among later generations, as: We kept for him good praise among those who came after him, until the Day of Resurrection. Al-Qurtubi, on the same verse, says there is no nation that does not invoke blessings on him and love him.",
+            "bn": "এই আয়াতের ব্যাখ্যায় কুরতুবী প্রতিদানের দুটি পাঠ দেন। প্রথমটি: আমি তাদের জন্য উত্তম প্রশংসা, আস-সানাউল হাসান, টিকিয়ে রাখি। দ্বিতীয়টি: অথবা আমি তাদের প্রতিদান দিই দুনিয়া ও আখিরাতের বিপদ থেকে মুক্তি দিয়ে। ৩৭:১১০ আয়াত যেখানে বসেছে, সেখানে প্রথম পাঠটি সোজা ঠিক আগের দুই আয়াতের দিকে ফিরে যায়। ৩৭:১০৮ আয়াত, আর আমি পরবর্তীদের মধ্যে তাঁর জন্য রেখে দিলাম, এর ব্যাখ্যায় তাবারী বলেন: তাঁর পরে কিয়ামত পর্যন্ত যারা আসবে, তাদের মধ্যে আমি তাঁর উত্তম প্রশংসা টিকিয়ে রাখলাম। একই আয়াতে কুরতুবী বলেন, এমন কোনো উম্মত নেই, যারা তাঁর উপর দরুদ পাঠায় না এবং তাঁকে ভালোবাসে না।"
+          },
+          {
+            "en": "At-Tabari relays from Ibn Zayd that Ibrahim (AS) had asked for exactly this: and grant me a truthful tongue among later generations (26:84). So Allah left good praise for him, Ibn Zayd says, as He left an evil tongue upon Pharaoh and those like him. On 37:109, at-Tabari reads peace upon Ibrahim as a safe-conduct from Allah on earth: that after him he would be mentioned only with beautiful mention. The Muyassar reads the greeting as a salutation from Allah and a prayer for his safety from every harm. As-Sa'di, on 37:108, adds that every age after Ibrahim has held him beloved, honoured and praised.",
+            "bn": "তাবারী ইবন যায়দ থেকে আনেন, ইবরাহীম (আঃ) ঠিক এটাই চেয়েছিলেন: আর পরবর্তীদের মধ্যে আমার সুনাম সত্যনিষ্ঠ রাখুন (২৬:৮৪)। ইবন যায়দ বলেন, তাই আল্লাহ তাঁর জন্য উত্তম প্রশংসা রেখে দিলেন, যেমন ফিরআউন ও তার মতো লোকদের উপর রেখে দিয়েছেন মন্দ চর্চা। ৩৭:১০৯ আয়াতে তাবারী ইবরাহীমের উপর সালামকে পড়েন জমিনে আল্লাহর পক্ষ থেকে এক নিরাপত্তার অঙ্গীকার হিসেবে, যেন তাঁর পরে তাঁকে শুধু সুন্দরভাবেই স্মরণ করা হয়। মুয়াসসারের পাঠে এই সালাম আল্লাহর পক্ষ থেকে অভিবাদন, আর সব বিপদ থেকে নিরাপদ থাকার দোয়া। সাদী ৩৭:১০৮ আয়াতে যোগ করেন, ইবরাহীমের পরের প্রতিটি যুগে তিনি প্রিয়, সম্মানিত ও প্রশংসিত।"
+          },
+          {
+            "en": "As-Sa'di's gloss on 37:110 itself gathers both of al-Qurtubi's readings into one list. The doers of good are those who do good in the worship of Allah and in dealing with His creation, and their reward is that We relieve them of hardships, give them the good outcome, and give them good praise. Two things in it go beyond his gloss at 37:105. The doing of good now reaches people as well as worship, and the reward now includes al-'aqiba, the end that turns out well. In Ibrahim's (AS) case both are visible in this passage: a son spared, and a name still greeted with peace.",
+            "bn": "৩৭:১১০ আয়াতের ব্যাখ্যায় সাদী কুরতুবীর দুটি পাঠকেই একটি তালিকায় জুড়ে দেন। সৎকর্মশীল তারা, যারা আল্লাহর ইবাদতে এবং তাঁর সৃষ্টির সঙ্গে আচরণে ইহসান করে। তাদের প্রতিদান হলো, আমি তাদের বিপদ দূর করি, শেষ পরিণাম তাদের পক্ষে রাখি, আর তাদের উত্তম প্রশংসা দিই। ৩৭:১০৫ আয়াতে সাদীর ব্যাখ্যার চেয়ে এখানে দুটি বিষয় বেশি আছে। ইহসান এখন শুধু ইবাদতে নয়, মানুষের সঙ্গে আচরণেও। আর প্রতিদানে এখন যুক্ত হয়েছে আল-আকিবা, ভালোয় গিয়ে শেষ হওয়া পরিণাম। ইবরাহীম (আঃ)-এর বেলায় দুটোই এই অংশে দেখা যায়। প্রাণে বেঁচে যাওয়া এক ছেলে, আর এমন এক নাম, যাকে আজও সালাম জানানো হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Closing Line Asks",
+          "bn": "শেষ লাইনটির দাবি"
+        },
+        "p": [
+          {
+            "en": "The next verse names the ground beneath the good: indeed, he was of Our believing servants (37:111). As-Sa'di reads the believers here as those whose faith reached the degree of certainty, and cites 6:75: thus did We show Ibrahim the dominion of the heavens and the earth, that he might be among the certain. Al-Qurtubi reads it as those who gave servitude its due until they deserved to be named as Allah's own. None of the commentaries fetched for 37:110 attaches a hadith to this verse, so none is cited here, and no account of its revelation was found to report.",
+            "bn": "পরের আয়াত এই সৎকাজের ভিত্তির নাম বলে দেয়: নিশ্চয়ই সে ছিল আমার মুমিন বান্দাদের একজন (৩৭:১১১)। সাদী এখানে মুমিন বলতে বোঝেন তাদের, যাদের ঈমান ইয়াকীনের স্তরে পৌঁছেছে। তিনি ৬:৭৫ আয়াত উদ্ধৃত করেন: এভাবেই আমি ইবরাহীমকে আসমান ও জমিনের রাজত্ব দেখাতাম, যাতে সে দৃঢ় বিশ্বাসীদের অন্তর্ভুক্ত হয়। কুরতুবীর পাঠে তারা সেই বান্দা, যারা বন্দেগির হক এমনভাবে আদায় করেছে যে আল্লাহর নিজের বান্দা বলে পরিচিত হওয়ার যোগ্য হয়েছে। ৩৭:১১০ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এই আয়াতের সঙ্গে কোনো হাদীস জোড়েনি, তাই এখানে কোনো হাদীস আনা হয়নি। আয়াত নাযিলের কোনো প্রেক্ষাপটও পাওয়া যায়নি।"
+          },
+          {
+            "en": "One thing needs saying plainly. This account licenses no one to treat a dream, or any private sense of being commanded, as grounds for harming a child or anyone else: the command came to a prophet by revelation, and Allah Himself stopped it. What the closing line asks of a reader is smaller, and still hard. Carry a known command through without halting where it begins to cost. Help those beside you obey, rather than only obeying alone. And leave your name with Allah: Ibrahim (AS) asked Him for a truthful tongue among later generations, and it was Allah who kept it.",
+            "bn": "একটি কথা সোজাসুজি বলা দরকার। এই কাহিনি কাউকে স্বপ্ন বা মনের ভেতর আদেশ পাওয়ার অনুভূতিকে শিশু বা অন্য কারও ক্ষতি করার যুক্তি বানানোর অনুমতি দেয় না। আদেশটি এসেছিল একজন নবীর কাছে ওহীর মাধ্যমে, আর আল্লাহ নিজেই তা থামিয়ে দিয়েছিলেন। পাঠকের কাছে শেষ লাইনটির দাবি এর চেয়ে ছোট, তবু কঠিন। জানা আদেশ শেষ পর্যন্ত পালন করুন, যেখানে কষ্ট শুরু হয় সেখানে থেমে যাবেন না। পাশের মানুষদের আনুগত্যে সাহায্য করুন, শুধু একা আনুগত্য করেই থামবেন না। আর নিজের নামের ভার আল্লাহর হাতে ছেড়ে দিন। ইবরাহীম (আঃ) পরবর্তীদের মধ্যে সত্যনিষ্ঠ সুনাম চেয়েছিলেন আল্লাহর কাছেই, আর তা রক্ষা করেছেন আল্লাহই।"
+          }
+        ]
+      }
+    ]
+  },
   "37:112": {
     "sections": [
       {

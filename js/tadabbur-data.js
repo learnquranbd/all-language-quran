@@ -25889,6 +25889,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Test what you rely on by asking it to answer. Whatever cannot hear, reply or help has no claim on your worship, fear or hope; give those to the One who answers.",
     "lessonBn": "যার উপর ভরসা করেন, তাকে জবাব দিতে বলে যাচাই করুন। যে শুনতে পায় না, সাড়া দেয় না, সাহায্যও করতে পারে না, আপনার ইবাদত, ভয় বা আশার উপর তার কোনো হক নেই। এগুলো দিন তাঁকে, যিনি সাড়া দেন।"
+  },
+  "37:110": {
+    "reflectionEn": "Three short words close the story of the father and the son: thus do We reward the doers of good. The same promise was heard a few verses earlier, when the call stopped the knife. Now it returns once the story is over, after the good name left for Ibrahim (AS) among later generations and the greeting of peace upon him. Between the two lies the good that was done. A command was carried all the way to its edge, and a son submitted beside his father, steadying him rather than holding him back. Neither kept back what was asked. What came back was a son spared and a name still spoken with peace. What have I carried only halfway?",
+    "reflectionBn": "বাবা আর ছেলের কাহিনি শেষ হয় ছোট্ট তিনটি শব্দে: এভাবেই আমি সৎকর্মশীলদের প্রতিদান দিই। এই একই প্রতিশ্রুতি কয়েক আয়াত আগেও এসেছিল, যখন আসমানি ডাক ছুরি থামিয়ে দিল। কাহিনি শেষ হওয়ার পর কথাটা আবার ফিরে আসে। পরবর্তী প্রজন্মের মধ্যে ইবরাহীম (আঃ)-এর সুনাম রেখে দেওয়া আর তাঁর উপর সালামের পরে। দুইবারের মাঝখানে আছে সেই সৎকাজ। একটা আদেশ শেষ সীমা পর্যন্ত পালন করা হয়েছিল। ছেলে বাবার পাশে থেকে নিজেকে সঁপে দিয়েছিল, বাবাকে পিছু টানেনি, বরং মনোবল জুগিয়েছিল। যা চাওয়া হয়েছিল, কেউ তার কিছুই আটকে রাখেননি। বদলে ফিরে এল প্রাণে বাঁচা এক ছেলে, আর এমন এক নাম, যা আজও সালামের সঙ্গে উচ্চারিত হয়। আমি কোন কাজটা অর্ধেক পথে ফেলে রেখেছি?",
+    "pointsEn": [
+      "Which command of Allah that I already know do I keep carrying only part of the way, stopping before it starts to cost me?",
+      "When someone close to me is trying to obey Allah in something hard, do I make it easier for them, or heavier?",
+      "Is there something I love so much that it crowds my love for Allah, and what would it look like to put Him first in it?",
+      "Do I want my good deeds remembered by people, or am I content to leave my name with Allah?",
+      "When a trial comes, do I measure it only by what it might take from me, or also by what it might show about me?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন আদেশ আমি জানি, অথচ কিছুটা পালন করেই থেমে যাই, ঠিক যেখান থেকে কষ্ট শুরু হয়?",
+      "কাছের কেউ যখন কঠিন কোনো বিষয়ে আল্লাহর আনুগত্য করতে চায়, আমি কি তার পথ সহজ করি, নাকি আরও ভারী করে তুলি?",
+      "এমন কিছু কি আছে, যাকে এত ভালোবাসি যে আল্লাহর ভালোবাসার জায়গায় ভাগ বসায়? সেখানে তাঁকে আগে রাখলে কেমন দেখাত?",
+      "আমি কি চাই মানুষ আমার নেক আমল মনে রাখুক, নাকি নামের ভার আল্লাহর হাতে ছেড়ে দিয়েই আমি খুশি?",
+      "পরীক্ষা এলে আমি কি শুধু হিসাব করি সেটা আমার কাছ থেকে কী কেড়ে নেবে, নাকি এটাও ভাবি যে সেটা আমার ভেতরের কী প্রকাশ করবে?"
+    ],
+    "lessonEn": "Doing good in a trial means carrying Allah's command all the way, and helping those beside you do the same. What He keeps for it outlasts what you feared to lose.",
+    "lessonBn": "পরীক্ষার মধ্যে সৎকাজ মানে আল্লাহর আদেশ শেষ পর্যন্ত পালন করা, আর পাশের মানুষকেও তা পালনে সাহায্য করা। এর বদলে তিনি যা রেখে দেন, তা হারানোর ভয়ে থাকা জিনিসের চেয়ে বেশি টেকে।"
   }
 };
 
