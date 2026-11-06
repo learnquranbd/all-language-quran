@@ -11,6 +11,142 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "69:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "Questions Answered With Two Names",
+          "bn": "প্রশ্নের জবাবে দুটি নাম"
+        },
+        "p": [
+          {
+            "en": "Kadhdhabat Thamudu wa-'Adun bil-qari'a: Thamud and 'Ad denied the Striking Calamity. Four Arabic words, and they arrive straight after three verses that do nothing but name and question. Al-haqqa, the Inevitable Reality; what is al-haqqa; and what can make you know what al-haqqa is. A listener waits for a description. Instead the surah turns to history and names two peoples who were told of this reality and called it false. The answer to the question, in other words, begins with what happened to those who did not believe the question was worth asking.",
+            "bn": "কাযযাবাত সামূদু ওয়া আদুম বিল-কারিআ: সামূদ ও আদ আঘাতকারী মহাবিপদকে মিথ্যা বলেছিল। আরবিতে চারটি শব্দ। এর ঠিক আগে তিনটি আয়াত, যেগুলো শুধু নাম নেয় আর প্রশ্ন করে: আল-হাক্কা, অবশ্যম্ভাবী সত্য; কী সেই আল-হাক্কা; আর তুমি কী করে জানবে আল-হাক্কা কী। শ্রোতা অপেক্ষা করে একটা বর্ণনার জন্য। কিন্তু সূরা তখন ইতিহাসের দিকে ফেরে। দুটি জাতির নাম আসে, যাদের এই সত্যের খবর দেওয়া হয়েছিল আর যারা তা মিথ্যা বলে উড়িয়ে দিয়েছিল। প্রশ্নের জবাব তাই শুরু হয় তাদের দিয়ে, যারা প্রশ্নটাকে গুরুত্ব দেওয়ার মতো মনেই করেনি।"
+          },
+          {
+            "en": "The commentators read the turn the same way. Ibn Kathir, in his Arabic text, gives the verse a single line: then He, exalted is He, mentioned His destruction of the nations that denied it. As-Sa'di explains why history belongs here at all. Having spoken of the Day, Allah mentions a sample of its states that exist in this world and can be seen in it, namely the severe punishments He brought on the defiant nations. On this reading, 69:4 is a hinge. It closes the opening questions and opens the account of 69:5 to 69:8, which tells what became of each people.",
+            "bn": "তাফসীরকারেরাও মোড়টাকে এভাবেই পড়েন। ইবন কাসীর তাঁর আরবি তাফসীরে আয়াতটির জন্য একটিমাত্র বাক্য রাখেন: তারপর মহান আল্লাহ উল্লেখ করলেন, যে জাতিগুলো একে মিথ্যা বলেছিল তাদের তিনি কীভাবে ধ্বংস করেছেন। এখানে ইতিহাস কেন আসে, সা'দী তা খুলে বলেন। কিয়ামতের কথা বলার পর আল্লাহ দুনিয়াতে বিদ্যমান ও চোখে দেখা যায় এমন তার কিছু অবস্থার নমুনা তুলে ধরেন। সেটা হলো অবাধ্য জাতিগুলোর উপর তাঁর নামানো কঠিন শাস্তি। এ পাঠে ৬৯:৪ যেন একটা কবজা। প্রথম প্রশ্নগুলো এখানে শেষ হয়, আর শুরু হয় ৬৯:৫ থেকে ৬৯:৮ পর্যন্ত বিবরণ, যেখানে বলা হয় প্রতিটি জাতির পরিণতি কী হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Blow That Lands on Hearts",
+          "bn": "যে আঘাত পড়ে হৃদয়ে"
+        },
+        "p": [
+          {
+            "en": "Al-qari'a comes from the root q-r-', to strike or knock. At-Tabari glosses the verse plainly: Thamud, the people of Salih (AS), and 'Ad, the people of Hud (AS), denied the Hour, which strikes the hearts of the servants through its sudden onset upon them. Al-qari'a, he adds, is also one of the names of the Resurrection, and he says the people of interpretation said the same. He gives two chains. Qatada said: bil-qari'a, that is, the Hour. Ibn 'Abbas, through the line of Muhammad ibn Sa'd, said: al-qari'a is the Day of Resurrection.",
+            "bn": "আল-কারিআ এসেছে ক-র-আ ধাতু থেকে, যার মানে আঘাত করা বা কড়া নাড়া। তাবারী আয়াতটির সোজা ব্যাখ্যা দেন: সালিহ (আঃ)-এর কওম সামূদ আর হূদ (আঃ)-এর কওম আদ কিয়ামতকে মিথ্যা বলেছিল। সেই সময়, যা হঠাৎ এসে পড়ে বান্দাদের হৃদয়ে আঘাত হানে। তিনি যোগ করেন, আল-কারিআ কিয়ামতের নামগুলোর একটিও বটে, আর তাফসীরবিদেরা এমনটাই বলেছেন। এর পক্ষে তিনি দুটি সনদ আনেন। কাতাদা বলেছেন: বিল-কারিআ মানে কিয়ামত। মুহাম্মাদ ইবন সা'দের সূত্রে ইবন আব্বাস (রাঃ) বলেছেন: আল-কারিআ হলো কিয়ামতের দিন।"
+          },
+          {
+            "en": "The others agree on the Day and differ only in what they say strikes. Al-Baghawi gives the reading to Ibn 'Abbas and Qatada and says it is called qari'a because it strikes the hearts of the servants with fear. Al-Muyassar: the Resurrection, which strikes the hearts with its terrors. Al-Qurtubi: it strikes people with its terrors. As-Sa'di: it strikes creation with its terrors. Ma'arif al-Qur'an renders the word as rumbling and says the Day is so called because of a rumbling sound that will cause agitation or terror in people's hearts and will scatter the heavenly and earthly bodies.",
+            "bn": "অন্যরাও একমত যে এটা কিয়ামতের দিন। পার্থক্য শুধু এটুকু যে আঘাতটা কীসের, তা তাঁরা ভিন্ন শব্দে বলেন। বাগাভী মতটি ইবন আব্বাস (রাঃ) ও কাতাদার বলে উল্লেখ করেন। তাঁর মতে একে কারিআ বলা হয়, কারণ তা ভয় দিয়ে বান্দাদের হৃদয়ে আঘাত করে। মুয়াসসার বলে, কিয়ামত তার বিভীষিকা দিয়ে হৃদয়ে আঘাত হানে। কুরতুবী বলেন, তা মানুষকে আঘাত করে তার বিভীষিকা দিয়ে। সা'দী বলেন, সৃষ্টিকে আঘাত করে তার বিভীষিকা দিয়ে। মাআরিফুল কুরআন শব্দটির অর্থ করে গর্জন। এ নামের কারণ, সেদিন এমন এক গর্জন উঠবে যা মানুষের হৃদয়ে অস্থিরতা ও আতঙ্ক জাগাবে, আর আকাশ ও পৃথিবীর বস্তুগুলোকে ছিন্নভিন্ন করে ছড়িয়ে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blows of Fortune and Tongue",
+          "bn": "কালের আঘাত, জিভের আঘাত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi shows the word at work in ordinary Arabic. People say: the qawari' of time struck them, meaning its terrors and hardships. And people say: we seek refuge with Allah from so-and-so's qawari', his stinging words and the nips of his tongue. The plural qawari' covers both, the blows that time deals out and the blows that a person deals with speech. The Day borrows a word the Arabs already used for whatever hits hard and without warning, whether it comes from events or from a tongue.",
+            "bn": "সাধারণ আরবি কথাবার্তায় শব্দটি কীভাবে চলে, কুরতুবী তা দেখান। লোকে বলে: কালের কাওয়ারি' তাদের উপর এসে পড়েছে। মানে কালের বিভীষিকা আর কঠিন বিপদ। আবার বলা হয়: অমুকের কাওয়ারি' থেকে আমরা আল্লাহর আশ্রয় চাই। মানে তার হুল ফোটানো কথা আর জিভের খোঁচা। বহুবচন কাওয়ারি' দুটোকেই ধরে: কালের দেওয়া আঘাত, আর মানুষের মুখের কথায় দেওয়া আঘাত। যা কিছু জোরে আর আচমকা এসে লাগে, ঘটনা থেকে হোক বা জিভ থেকে, তার জন্য আরবরা আগে থেকেই এ শব্দ ব্যবহার করত। কিয়ামতের নাম সেখান থেকেই এসেছে।"
+          },
+          {
+            "en": "He adds a third use that turns the word around. Qawari' al-Qur'an are the verses a person recites when frightened of jinn or of people, such as Ayat al-Kursi, called so, al-Qurtubi says, as though they strike the devil. Here the striking is protective rather than destructive. The same root that names the Day's terror also names the verses a frightened believer reaches for. It is a reminder that the Qur'an which warns of the blow is also where a believer finds shelter from the things he fears.",
+            "bn": "তিনি তৃতীয় এক ব্যবহারও আনেন, যেখানে শব্দটার দিক উল্টে যায়। কাওয়ারিউল কুরআন হলো সেই আয়াতগুলো, জিন বা মানুষের ভয়ে মানুষ যা তিলাওয়াত করে, যেমন আয়াতুল কুরসী। কুরতুবীর কথায়, এদের এই নাম এ জন্য যে এগুলো যেন শয়তানকে আঘাত করে। এখানে আঘাতটা ধ্বংসের জন্য নয়, রক্ষার জন্য। যে ধাতু কিয়ামতের আতঙ্কের নাম দেয়, সেই ধাতুই নাম দেয় সেই আয়াতগুলোর, ভীত মুমিন যেগুলোর আশ্রয় নেয়। মনে করিয়ে দেয়, যে কুরআন আঘাতের সতর্কবাণী শোনায়, ভয়ের জিনিস থেকে আশ্রয়ও মুমিন সেখানেই পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Day, or Its Foretaste?",
+          "bn": "কিয়ামত, নাকি তার পূর্বাভাস?"
+        },
+        "p": [
+          {
+            "en": "Not every commentator stops at the Day. Al-Qurtubi and al-Baghawi both record, under the words it is said, a second reading: al-qari'a here means the punishment that came down on them in this world. Al-Qurtubi adds that their prophet used to warn them of it, and they called him a liar. Al-Baghawi words it as the punishment their prophet threatened them with, which they denied until it came down on them and struck their hearts. On this reading the thing denied in 69:4 and the thing that struck in 69:5 and 69:6 are one and the same.",
+            "bn": "সব তাফসীরকার কিয়ামতে এসে থামেন না। কুরতুবী আর বাগাভী দুজনেই 'বলা হয়' কথাটি দিয়ে দ্বিতীয় একটি মত উল্লেখ করেন: এখানে আল-কারিআ মানে সেই আযাব, যা দুনিয়াতেই তাদের উপর নেমেছিল। কুরতুবী যোগ করেন, তাদের নবী তাদের এ আযাবের ভয় দেখাতেন, আর তারা তাঁকে মিথ্যাবাদী বলত। বাগাভীর ভাষায়, নবী যে আযাবের হুমকি দিয়েছিলেন, তারা তা মিথ্যা বলেছিল, শেষে সেটা নেমে এসে তাদের হৃদয়ে আঘাত হানল। এ পাঠে ৬৯:৪ আয়াতে যা অস্বীকার করা হয়েছিল আর ৬৯:৫ ও ৬৯:৬ আয়াতে যা আঘাত হেনেছিল, দুটো একই জিনিস।"
+          },
+          {
+            "en": "Al-Qurtubi also reports a linguistic suggestion from al-Mubarrad: that al-qari'a is taken from qur'a, the casting of lots, in the sense of raising some people and lowering others. At-Tabari gives the Day reading with chains, and al-Qurtubi and al-Baghawi set it first; the other two readings come under it is said, with no chain. This article leaves the difference as the sources leave it. The two main readings also sit close together in as-Sa'di, who calls the worldly punishment a sample of the Day's states, so that what struck Thamud and 'Ad becomes a small picture of what the Day will be.",
+            "bn": "কুরতুবী আল-মুবাররাদের একটি ভাষাগত মতও উল্লেখ করেন: আল-কারিআ এসেছে কুর'আ থেকে, মানে লটারি বা গুটি ফেলা, এই অর্থে যে তা কিছু মানুষকে ওপরে তোলে আর কিছু মানুষকে নিচে নামায়। তাবারী কিয়ামতের মতটি সনদসহ আনেন, আর কুরতুবী ও বাগাভী সেটাকেই আগে রাখেন। বাকি দুটি মত আসে 'বলা হয়' দিয়ে, কোনো সনদ ছাড়া। মতপার্থক্যটা সূত্রগুলো যেভাবে রেখেছে, এ লেখাও সেভাবেই রাখছে। তবে প্রধান দুটি মত সা'দীর কাছে খুব কাছাকাছি চলে আসে। তিনি দুনিয়ার আযাবকে বলেন কিয়ামতের অবস্থাগুলোর নমুনা। ফলে সামূদ ও আদের উপর যা নেমেছিল, তা হয়ে দাঁড়ায় সেই দিনের ছোট্ট এক ছবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Certain to Striking",
+          "bn": "নিশ্চিত থেকে আঘাতকারী"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an notes that this surah calls the Day of Judgment by three names: al-haqqa in 69:1, al-qari'a here, and al-waqi'a, the Occurrence, in 69:15. Of al-haqqa it says the word means an established fact or inevitable event, and also something that proves a thing true. Ibn Kathir explains the name by saying that in it the promise and the threat will inevitably come about. The opening three verses therefore dwell on what the Day is in itself: certain. Then 69:4 does not say they denied it. It gives the Day a new name.",
+            "bn": "মাআরিফুল কুরআন লক্ষ করে, এ সূরা কিয়ামতকে তিনটি নামে ডাকে: ৬৯:১ আয়াতে আল-হাক্কা, এখানে আল-কারিআ, আর ৬৯:১৫ আয়াতে আল-ওয়াকিআ, অর্থাৎ যা ঘটবেই। আল-হাক্কা সম্পর্কে সেখানে বলা হয়েছে, শব্দটির অর্থ প্রতিষ্ঠিত সত্য বা অবশ্যম্ভাবী ঘটনা, আবার এমন জিনিসও যা কোনো কিছুর সত্যতা প্রমাণ করে। ইবন কাসীর নামটির কারণ বলেন এভাবে: সেদিন প্রতিশ্রুতি আর সতর্কবাণী অবশ্যই বাস্তবে ঘটবে। প্রথম তিন আয়াত তাই থেমে থাকে কিয়ামতের নিজস্ব পরিচয়ে, অর্থাৎ তা নিশ্চিত। তারপর ৬৯:৪ বলে না যে তারা 'এটাকে' মিথ্যা বলেছিল। বরং কিয়ামতকে দেয় নতুন এক নাম।"
+          },
+          {
+            "en": "The shift is the text's own, and it is worth noticing without forcing a reason onto it. One name says the Day is true whatever anyone thinks of it. The other says how it will land on those who thought it was not. The same name heads another surah, which opens in the same three steps as this one: al-qari'a, what is al-qari'a, and what can make you know what al-qari'a is (101:1 to 101:3). The pattern of naming, asking and deepening the question is shared, and in al-Haqqa the second name arrives inside a report of denial.",
+            "bn": "নাম বদলের এই ব্যাপারটা পাঠেরই অংশ। জোর করে কোনো কারণ চাপিয়ে না দিয়েও তা লক্ষ করার মতো। একটি নাম বলে, কেউ যা-ই ভাবুক, কিয়ামত সত্য। অন্য নামটি বলে, যারা ভেবেছিল তা সত্য নয়, তাদের উপর তা কীভাবে এসে পড়বে। এই নামেই আরেকটি সূরা শুরু হয়, আর সেটিও খোলে ঠিক এই তিনটি ধাপে: আল-কারিআ, কী সেই আল-কারিআ, আর তুমি কী করে জানবে আল-কারিআ কী (১০১:১ থেকে ১০১:৩)। নাম নেওয়া, প্রশ্ন করা, প্রশ্নকে আরও গভীর করা, এ ধরন দুই সূরায় এক। তবে সূরা আল-হাক্কায় দ্বিতীয় নামটি আসে অস্বীকারের এক বিবরণের ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Prophets, Two Homelands",
+          "bn": "দুই নবী, দুই জনপদ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di describes Thamud as the well-known tribe who lived at al-Hijr, to whom Allah sent His messenger Salih (AS) to forbid them the shirk they were in and command them to tawhid. They rejected his call, called him a liar, and denied what he told them of the Day of Resurrection. 'Ad he calls the first 'Ad, dwellers of Hadramawt, to whom Allah sent Hud (AS) calling them to worship Allah alone. They called him a liar and denied what he told them of the raising of the dead. So, he says, Allah destroyed both groups with a hastened destruction.",
+            "bn": "সা'দী সামূদের পরিচয় দেন এভাবে: হিজরের বাসিন্দা সুপরিচিত এক গোত্র। আল্লাহ তাদের কাছে রাসূল সালিহ (আঃ)-কে পাঠান। তিনি তাদের শিরক থেকে নিষেধ করতেন আর তাওহীদের আদেশ দিতেন। তারা তাঁর দাওয়াত ফিরিয়ে দিল, তাঁকে মিথ্যাবাদী বলল, আর কিয়ামতের যে খবর তিনি দিয়েছিলেন তাও অস্বীকার করল। আদকে তিনি বলেন প্রথম আদ, হাদরামাওতের অধিবাসী। আল্লাহ তাদের কাছে হূদ (আঃ)-কে পাঠান, যিনি তাদের এক আল্লাহর ইবাদতের দিকে ডাকতেন। তারাও তাঁকে মিথ্যাবাদী বলল আর মৃত্যুর পর পুনরুত্থানের খবর অস্বীকার করল। সা'দী বলেন, তাই আল্লাহ দুই দলকেই ধ্বংস করলেন ত্বরিত ধ্বংস দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi adds the homelands, citing Muhammad ibn Ishaq. Thamud's dwellings were at al-Hijr, between Syria and the Hijaz; Ibn Ishaq said it is Wadi al-Qura, and they were Arabs. 'Ad lived at al-Ahqaf, the sands from Oman to Hadramawt and all of Yemen, and they too were Arabs, people of great build and stature. The verse names Thamud before 'Ad, though Salih reminds Thamud in 7:74 that they were made successors after 'Ad. The commentaries read here give no reason for the order, and the following verses keep it: Thamud in 69:5, 'Ad in 69:6.",
+            "bn": "কুরতুবী মুহাম্মাদ ইবন ইসহাকের সূত্রে তাদের আবাসভূমির কথা যোগ করেন। সামূদের বসতি ছিল হিজরে, শাম আর হিজাযের মাঝখানে। ইবন ইসহাক বলেছেন, সেটা ওয়াদিল কুরা, আর তারা ছিল আরব। আদ থাকত আহকাফে, অর্থাৎ ওমান থেকে হাদরামাওত আর পুরো ইয়েমেন পর্যন্ত বিস্তৃত বালুর অঞ্চলে। তারাও ছিল আরব, বিশাল দেহ আর শক্তির অধিকারী। আয়াতটি সামূদের নাম আদের আগে নেয়, যদিও ৭:৭৪ আয়াতে সালিহ (আঃ) সামূদকে মনে করিয়ে দেন যে আদের পরে তাদের স্থলাভিষিক্ত করা হয়েছিল। এখানে পড়া তাফসীরগুলো এ ক্রমের কোনো কারণ বলে না। পরের আয়াতগুলোও এ ক্রম বজায় রাখে: ৬৯:৫ আয়াতে সামূদ, ৬৯:৬ আয়াতে আদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denying What Has Not Yet Come",
+          "bn": "যা এখনো আসেনি, তার অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "The verb kadhdhabat, they denied or called false, takes its object with bi-: they gave the lie to al-qari'a. On the main reading, what they rejected was a report about something not yet seen, carried to them by their own prophet. As-Sa'di's wording draws the contrast. The Day is spoken of, while its sample in this world is mushahada, something witnessed. Thamud and 'Ad refused the report and were shown the sample. The surah's listeners, who had the report in their own time, are shown the sample through the account in 69:5 to 69:8.",
+            "bn": "কাযযাবাত ক্রিয়ার অর্থ মিথ্যা বলা, অস্বীকার করা, আর এর কর্ম আসে 'বি' দিয়ে: তারা আল-কারিআকে মিথ্যা সাব্যস্ত করল। প্রধান মত অনুযায়ী, তারা ফিরিয়ে দিয়েছিল এমন কিছুর খবর যা তখনো দেখা যায়নি, আর খবরটা তাদের কাছে এনেছিলেন তাদেরই নবী। সা'দীর শব্দচয়নে এ তফাতটা ধরা পড়ে। কিয়ামতের কথা বলা হয় খবর হিসেবে, অথচ দুনিয়াতে তার নমুনা মুশাহাদা, চোখে দেখা জিনিস। সামূদ ও আদ খবরটা মানেনি, তাই তাদের নমুনাটা দেখানো হলো। এ সূরার শ্রোতারা নিজেদের সময়ে সেই খবর পেয়েছেন, আর ৬৯:৫ থেকে ৬৯:৮ পর্যন্ত বিবরণের মাধ্যমে নমুনাটাও দেখছেন।"
+          },
+          {
+            "en": "As-Sa'di closes his comment with a phrase that carries the same contrast in time: Allah destroyed the two groups with al-halak al-mu'ajjal, the hastened destruction. The word mu'ajjal sets what came to Thamud and 'Ad in this world against the Day itself, which still lies ahead. Their end came early, inside history, while the reality they denied remains to come for everyone. Read this way, the verse does not close the matter with their destruction. What fell on them was the hastened part, and the Day they denied has not yet arrived.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন এমন এক শব্দবন্ধে, যাতে সময়ের সেই একই তফাত ধরা আছে: আল্লাহ দুই দলকে ধ্বংস করলেন আল-হালাকুল মুআজ্জাল দিয়ে, অর্থাৎ ত্বরিত ধ্বংস। মুআজ্জাল শব্দটি দুনিয়াতে সামূদ ও আদের উপর যা এসেছিল, তাকে আলাদা করে রাখে কিয়ামত থেকে, যা এখনো সামনে। তাদের পরিণতি এসেছিল আগেভাগে, ইতিহাসের ভেতরেই। আর যে সত্যকে তারা অস্বীকার করেছিল, তা সবার জন্য এখনো আসার অপেক্ষায়। এভাবে পড়লে তাদের ধ্বংসেই বিষয়টার শেষ নয়। তাদের উপর যা পড়েছিল তা ছিল ত্বরিত অংশটুকু। যে দিনকে তারা অস্বীকার করেছিল, তা এখনো আসেনি।"
+          },
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it. Ibn Kathir does bring a narration from the Two Sahihs on the wind that destroyed 'Ad, but he places it under 69:6 and 69:7, and it is taken up under 69:5 and 69:6 and under 41:16. No source read here gives an occasion of revelation for 69:4, so the verse is read in its place: the hinge between the surah's opening questions and the account of what befell the peoples who denied. The verse supplies one fact, that the denial came first, and the destruction that followed it is told afterwards.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। আদকে ধ্বংসকারী বাতাস নিয়ে ইবন কাসীর দুই সহীহ গ্রন্থ, বুখারী ও মুসলিম থেকে একটি বর্ণনা আনেন ঠিকই, তবে তা রাখেন ৬৯:৬ ও ৬৯:৭ আয়াতের আলোচনায়। সেটার আলোচনা হয়েছে ৬৯:৫ ও ৬৯:৬ এবং ৪১:১৬ আয়াতে। এখানে পড়া কোনো সূত্র ৬৯:৪ আয়াতের শানে নুযূলও উল্লেখ করে না। তাই আয়াতটি পড়া হচ্ছে তার নিজের জায়গায়: সূরার শুরুর প্রশ্নগুলো আর অস্বীকারকারী জাতিগুলোর পরিণতির বিবরণের মাঝের কবজা হিসেবে। আয়াতটি একটি কথা জানায়: আগে এসেছিল অস্বীকার। তারপরের ধ্বংসের কথা বলা হয় পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning, Not a Map",
+          "bn": "সতর্কবাণী, মানচিত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: two peoples of the past, named by Allah, who denied the Day of which their prophets warned them. It licenses nothing against any living person or community. The homelands the commentators record are history, not a charge sheet. Nobody may use this verse to name a tribe, nation or family of today as the heirs of Thamud or 'Ad, to treat the people now living in those lands as condemned, or to call a disaster that strikes anyone today a qari'a sent upon them. That judgment belongs to Allah alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে যা পাঠে আছে: অতীতের দুটি জাতি, আল্লাহ নিজে যাদের নাম নিয়েছেন, যারা নবীদের সতর্ক করা কিয়ামতকে মিথ্যা বলেছিল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। তাফসীরকারেরা যে আবাসভূমির কথা লিখেছেন, তা ইতিহাস, অভিযোগপত্র নয়। আজকের কোনো গোত্র, জাতি বা পরিবারকে সামূদ বা আদের উত্তরসূরি বলে দাগানো চলবে না। ওইসব অঞ্চলে এখন যারা থাকে, তাদের অভিশপ্ত ভাবাও চলবে না। আজ কারও উপর কোনো দুর্যোগ এলে সেটাকে তাদের উপর পাঠানো কারিআ বলারও অধিকার কারও নেই। সে বিচার কেবল আল্লাহর।"
+          },
+          {
+            "en": "What the verse leaves the reader is a question about himself. Al-qari'a, in most of the commentaries read here, strikes the heart, and both peoples first heard of it as words from a prophet they could see. Every reader is in that first position now, hearing of the Day as a report. The verse does not ask whether Thamud and 'Ad deserved what came. It asks the listener what he is doing with the report. A believer who reads these four words and then turns to the reminders he has been putting off has heard the knock while it is still only a knock.",
+            "bn": "আয়াতটি পাঠকের হাতে রেখে যায় নিজেকে নিয়েই একটি প্রশ্ন। এখানে পড়া বেশির ভাগ তাফসীরে আল-কারিআ আঘাত হানে হৃদয়ে। আর দুই জাতিই প্রথমে এর কথা শুনেছিল কথা হিসেবে, চোখের সামনে থাকা এক নবীর মুখে। প্রত্যেক পাঠক আজ সেই প্রথম অবস্থাতেই আছেন: কিয়ামতের কথা তাঁর কাছে এখনো খবর। সামূদ ও আদের যা প্রাপ্য ছিল তা-ই তারা পেয়েছিল কি না, আয়াতটি সে প্রশ্ন তোলে না। প্রশ্নটা শ্রোতার কাছে: খবরটা নিয়ে আপনি কী করছেন? এ চারটি শব্দ পড়ে যে মুমিন এতদিন ফেলে রাখা নসিহতগুলোর দিকে ফেরেন, তিনি কড়া নাড়ার শব্দ শুনে ফেলেছেন, আঘাত হয়ে আসার আগেই।"
+          }
+        ]
+      }
+    ]
+  },
   "69:5-6": {
     "sections": [
       {

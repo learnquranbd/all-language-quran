@@ -28569,6 +28569,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Mercy may not lift you out of the hard place you land in, but it can change the state you arrive in; keep turning to Allah, and never belittle His prophets.",
     "lessonBn": "রহমত সবসময় কঠিন জায়গা থেকে তুলে আনে না, কিন্তু সেখানে আপনি কোন অবস্থায় পৌঁছান তা বদলে দিতে পারে। তাই আল্লাহর দিকে ফিরতে থাকুন, আর তাঁর নবীদের কখনো ছোট করে দেখবেন না।"
+  },
+  "69:4": {
+    "reflectionEn": "Three times the surah has asked what al-Haqqa is, the reality that will surely come. Then, instead of an answer, it names two peoples: Thamud and 'Ad denied al-Qari'a, the Striking Calamity. The Day gets a second name here, one that knocks, the way a blow lands on a door or a heart. Both peoples were warned by a prophet of their own, and both called the warning untrue. The verses after this one tell what struck them. The point is not to look at others. Something is knocking at my own door now, gently, through verses and reminders. Do I open, or do I tell myself it is nothing until it knocks in a way that cannot be ignored?",
+    "reflectionBn": "সূরাটি তিনবার জিজ্ঞেস করেছে, আল-হাক্কা কী, সেই সত্য যা আসবেই। তারপর উত্তর না দিয়ে দুটি জাতির নাম আনে: সামূদ ও আদ আল-কারিআকে মিথ্যা বলেছিল, সেই আঘাতকারী মহাবিপদকে। কিয়ামত এখানে নতুন নাম পায়। এ নাম কড়া নাড়ে, যেভাবে আঘাত পড়ে দরজায় বা বুকের ভেতর। দুই জাতির কাছেই তাদের নিজেদের নবী সতর্কবাণী নিয়ে এসেছিলেন, আর দুই জাতিই সেটাকে মিথ্যা বলেছিল। কী তাদের আঘাত করেছিল, তা বলে পরের আয়াতগুলো। কিন্তু উদ্দেশ্য অন্যের দিকে তাকানো নয়। আমার নিজের দরজাতেও এখন কড়া নড়ছে, আস্তে আস্তে, আয়াত আর নসিহতের ভেতর দিয়ে। আমি কি দরজা খুলি? নাকি নিজেকে বলি কিছুই হয়নি, যতক্ষণ না এমনভাবে কড়া নড়ে যা আর উপেক্ষা করা যায় না?",
+    "pointsEn": [
+      "Which reminder has been knocking at me for a while, and what have I told myself so that I would not have to answer it?",
+      "Do I deny the Day in words, or only in the way I spend my hours, as if it were not coming?",
+      "When a warning comes from someone close and familiar, do I take it less seriously than if a stranger had said it?",
+      "What would change in my week if I believed that the Day will strike the heart, and not only the ears?",
+      "Do I read the stories of past peoples to judge others, or to find where my own denial hides?"
+    ],
+    "pointsBn": [
+      "কোন নসিহত অনেক দিন ধরে আমার দরজায় কড়া নাড়ছে? সেটার জবাব না দিতে আমি নিজেকে কী বুঝিয়ে রেখেছি?",
+      "আমি কি মুখে কিয়ামত অস্বীকার করি, নাকি কেবল সময় কাটানোর ধরনে, যেন সেদিন আসবেই না?",
+      "চেনা, কাছের কেউ সতর্ক করলে আমি কি তা কম গুরুত্ব দিই, অচেনা কেউ বললে যতটা দিতাম তার চেয়ে?",
+      "যদি সত্যিই বিশ্বাস করি যে সেদিন আঘাত পড়বে বুকের ভেতর, শুধু কানে নয়, তাহলে আমার এই সপ্তাহে কী বদলাত?",
+      "অতীতের জাতিগুলোর কাহিনি কি আমি পড়ি অন্যদের বিচার করতে, নাকি নিজের ভেতরের অস্বীকার কোথায় লুকিয়ে আছে তা খুঁজতে?"
+    ],
+    "lessonEn": "The Day is named the Striking Calamity because it strikes the heart. Answer its knock now, while it comes as a reminder and not yet as the blow.",
+    "lessonBn": "কিয়ামতের নাম আঘাতকারী মহাবিপদ, কারণ তা বুকে আঘাত হানে। এখনই তার কড়া নাড়ার জবাব দিন, যখন তা আসছে নসিহত হয়ে, আঘাত হয়ে নয়।"
   }
 };
 
