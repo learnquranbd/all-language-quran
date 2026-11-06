@@ -439,6 +439,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "81:14": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Whens Arrive",
+          "bn": "যখন-এর শেষ ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "'Alimat nafsun ma ahdarat: a soul will know what it has brought. Four Arabic words, and they are the point towards which the whole opening of the surah has been moving. At-Tabari, al-Qurtubi, al-Baghawi and Ibn Kathir all name this verse the jawab, the answer, to idha ash-shamsu kuwwirat and to every clause after it. At-Tabari makes the grammar plain with an ordinary sentence: as in saying, when 'Abdullah stands, 'Amr sits. The first half fixes the time, and the second says what happens in it.",
+            "bn": "আলিমাত নাফসুম মা আহদারাত: প্রত্যেকে জানবে সে কী নিয়ে এসেছে। আরবিতে মাত্র চারটি শব্দ, অথচ সূরার গোটা শুরুটা এগিয়েছে এদিকেই। তাবারী, কুরতুবী, বাগাভী ও ইবন কাসীর সবাই এ আয়াতকে বলেন জাওয়াব, অর্থাৎ ইযাশ শামসু কুউবিরাত এবং তার পরের প্রতিটি বাক্যাংশের জবাব। তাবারী ব্যাকরণটা বোঝান রোজকার এক বাক্য দিয়ে: যেমন বলা হয়, আবদুল্লাহ যখন দাঁড়াবে, আমর তখন বসবে। প্রথম অংশ সময় ঠিক করে দেয়। দ্বিতীয় অংশ বলে সেই সময়ে কী ঘটবে।"
+          },
+          {
+            "en": "The articles on 81:1 and 81:12 have already traced how the clauses pile up and how the Fire and the Garden stand side by side at the end of the run. This article starts where they stop, on the far side of the sentence. Everything the surah has shown, the sun, the stars, the mountains, the seas, the records and the sky, turns out to be the setting. What the twelve conditions were waiting for is not an event in the heavens at all. It is one soul, and what it comes to know.",
+            "bn": "বাক্যাংশগুলো কীভাবে একটার পর একটা জমে ওঠে, আর সারির শেষে জাহান্নাম ও জান্নাত কীভাবে পাশাপাশি দাঁড়ায়, তা ৮১:১ ও ৮১:১২ আয়াতের আলোচনায় দেখা হয়েছে। এ লেখা শুরু হচ্ছে সেখান থেকে, যেখানে ওরা থেমেছে, অর্থাৎ বাক্যের অপর পাশ থেকে। সূর্য, তারা, পাহাড়, সাগর, আমলনামা, আকাশ, সূরা যা কিছু দেখিয়েছে, সবই আসলে মঞ্চ। বারোটি শর্ত যার অপেক্ষায় ছিল, তা আকাশের কোনো ঘটনা নয়। তা একজন মানুষ, আর সে যা জানতে পারবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six in This World, Six After",
+          "bn": "ছয়টি দুনিয়ায়, ছয়টি পরকালে"
+        },
+        "p": [
+          {
+            "en": "How many conditions does the answer close? Al-Qurtubi relays, through Ibn Zayd, a count from Ibn 'Abbas: from idha ash-shamsu kuwwirat to wa-idha al-jannatu uzlifat there are twelve traits, six in this world and six in the Hereafter. Al-Qurtubi adds that he had already explained the first six by the words of Ubayy ibn Ka'b, and that explanation belongs to the opening verses, not to this one. What matters here is the total: two sets of six, and a single short sentence that answers both of them at once.",
+            "bn": "জবাবটা কয়টি শর্তের সমাপ্তি টানে? কুরতুবী ইবন যায়দের সূত্রে ইবন আব্বাস (রাঃ)-এর একটি হিসাব উল্লেখ করেন: ইযাশ শামসু কুউবিরাত থেকে ওয়া ইযাল জান্নাতু উযলিফাত পর্যন্ত বারোটি বৈশিষ্ট্য। ছয়টি দুনিয়ায়, ছয়টি আখিরাতে। কুরতুবী আরও জানান, প্রথম ছয়টির ব্যাখ্যা তিনি আগেই দিয়েছেন উবাই ইবন কা'ব (রাঃ)-এর কথা দিয়ে। সে ব্যাখ্যার জায়গা সূরার শুরুর আয়াতগুলো, এ আয়াত নয়। এখানে আসল কথা মোট সংখ্যাটা: ছয়ের দুটি দল, আর ছোট্ট একটি বাক্য, যা দুই দলেরই জবাব একসঙ্গে দিয়ে দেয়।"
+          },
+          {
+            "en": "The order is worth noticing. If the first six belong to this world, as al-Qurtubi's remark implies, they show a world coming apart: lights put out, mountains moved, seas changed. The second six then belong to what follows: souls paired, the buried girl asked, pages spread, the sky stripped away, the Fire kindled. The twelfth and last, just before the answer, is the Garden brought near. The list does not end on a flame. The final picture a listener holds when he hears that a soul will know what it has brought is the Garden, close enough to reach.",
+            "bn": "ক্রমটাও খেয়াল করার মতো। কুরতুবীর কথায় যেমন ইঙ্গিত আছে, প্রথম ছয়টি যদি দুনিয়ার হয়, তবে সেগুলোতে দেখা যায় এক ভেঙে পড়া জগৎ। আলো নিভে যায়, পাহাড় সরে যায়, সাগর বদলে যায়। তাহলে পরের ছয়টি তার পরের জগতের: আত্মাদের জোড়া মেলানো, জীবন্ত পুঁতে ফেলা মেয়েটিকে জিজ্ঞাসা, আমলনামা খুলে ধরা, আকাশের আবরণ সরানো, জাহান্নাম উসকে দেওয়া। বারো নম্বর, মানে শেষেরটি, জবাবের ঠিক আগে: জান্নাতকে কাছে আনা। তালিকা আগুনে গিয়ে শেষ হয়নি। প্রত্যেকে কী নিয়ে এসেছে তা জানবে, এ কথা কানে আসার মুহূর্তে শ্রোতার চোখে শেষ ছবিটা জান্নাতের, এতটা কাছে যে হাত বাড়ালেই ছোঁয়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Soul Standing for All",
+          "bn": "এক নাফসে সবাই"
+        },
+        "p": [
+          {
+            "en": "Nafsun is indefinite: a soul, not every soul. Yet the commentators read it as every soul. Al-Baghawi and Ibn Kathir gloss it simply as kull nafs, each soul. As-Sa'di gives the reason in a single clause: every soul, because the word comes in the setting of a condition. An indefinite noun answering a long string of whens is not pointing at one unnamed person. It reaches each person who hears it, one at a time. The verse speaks of a soul so that no reader can count himself outside it.",
+            "bn": "নাফসুন শব্দটি অনির্দিষ্ট। অর্থাৎ একজন, প্রত্যেকে নয়। তবু তাফসীরকারেরা পড়েছেন প্রত্যেকে অর্থে। বাগাভী ও ইবন কাসীর সোজাসুজি বলেছেন কুল্লু নাফস, প্রত্যেক প্রাণ। কারণটা সা'দী এক কথায় বলে দেন: শব্দটি শর্তের প্রসঙ্গে এসেছে, তাই এর অর্থ প্রত্যেকে। একের পর এক যখন-এর জবাবে আসা একটি অনির্দিষ্ট শব্দ কোনো অজ্ঞাত একজনকে দেখাচ্ছে না। যে শুনছে, তাদের প্রত্যেকের কাছে আলাদা করে পৌঁছে যাচ্ছে। আয়াত একজনের কথা বলে, যাতে কোনো পাঠক নিজেকে এর বাইরে ভাবতে না পারে।"
+          },
+          {
+            "en": "The Qur'an uses the same opening again in the next surah. Surah al-Infitar starts with its own run of whens, and its answer, at 82:5, begins with the same two words: 'alimat nafsun ma qaddamat wa-akhkharat, a soul will know what it sent ahead and what it held back. Here the object is one word, ahdarat, what it has brought. There the verse divides it into what went forward and what stayed behind. The pairing is in the text itself, and reading the two verses together lets each one sharpen the other.",
+            "bn": "পরের সূরাতেই কুরআন একই শুরু আবার ব্যবহার করে। সূরা ইনফিতারও শুরু হয় নিজের একসারি যখন দিয়ে। তার জবাব ৮২:৫ আয়াতে, আর সেটাও শুরু হয় একই দুই শব্দে: আলিমাত নাফসুম মা কাদ্দামাত ওয়া আখখারাত, প্রত্যেকে জানবে সে কী আগে পাঠিয়েছে আর কী পেছনে রেখে গেছে। এখানে বিষয়টা একটি শব্দে: আহদারাত, যা সে নিয়ে এসেছে। ওখানে আয়াত সেটাকে দুই ভাগ করে, যা আগে গেছে আর যা পেছনে রয়ে গেছে। এই জোড় কুরআনের নিজের পাঠেই আছে। দুটি আয়াত পাশাপাশি পড়লে একটি আরেকটির অর্থ আরও ধারালো করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brought by Its Own Hand",
+          "bn": "নিজের হাতেই আনা"
+        },
+        "p": [
+          {
+            "en": "Ahdarat is a past-tense verb from the root h-d-r, presence, in the form that means to bring something into presence. Its subject is the soul. The verse does not show the soul being handed something; it shows the soul doing the bringing. The glosses then describe what was brought. At-Tabari says it is what the soul brought of good, by which it goes on to the Garden, or of evil, by which it goes on to the Fire. Al-Qurtubi says it means what it did of good and evil.",
+            "bn": "আহদারাত অতীতকালের ক্রিয়া, ধাতু হা-দোয়াদ-রা, যার মূল অর্থ উপস্থিতি। ক্রিয়ার এই রূপের অর্থ কোনো কিছুকে হাজির করা। কর্তা এখানে মানুষটি নিজে। আয়াত দেখাচ্ছে না যে তার হাতে কিছু তুলে দেওয়া হলো। দেখাচ্ছে, আনার কাজটা সে নিজেই করেছে। এরপর তাফসীরগুলো বলে কী আনা হয়েছে। তাবারী বলেন, সে যে নেকি এনেছে, যার কারণে সে জান্নাতে যাবে, কিংবা যে মন্দ এনেছে, যার কারণে সে জাহান্নামে যাবে। কুরতুবী বলেন, এর অর্থ সে যা ভালো ও মন্দ আমল করেছে।"
+          },
+          {
+            "en": "Ibn Kathir's wording joins both sides: each soul knows what it did, and that was brought present for it. He sets beside it 3:30, a verse built on the same root: on the Day every soul finds whatever good it did muhdaran, made present, and as for whatever evil it did, it wishes there were a great distance between itself and that. As-Sa'di explains ma ahdarat as whatever has become present before it of the deeds it sent ahead, and he cites 18:49, where they find what they did present before them.",
+            "bn": "ইবন কাসীরের ভাষায় দুই দিক একসঙ্গে এসেছে: প্রত্যেকে জানবে সে কী আমল করেছে, আর সেটাকে তার সামনে হাজির করা হয়েছে। এর পাশে তিনি রাখেন ৩:৩০ আয়াত, যা একই ধাতু থেকে গড়া। সেদিন প্রত্যেকে নিজের করা প্রতিটি ভালো কাজ পাবে মুহদারান, অর্থাৎ হাজির করা অবস্থায়। আর যত মন্দ কাজ করেছে, তার বেলায় চাইবে, ইশ! তার আর ওই কাজের মাঝে যদি অনেক দূরত্ব থাকত। সা'দী মা আহদারাত-এর ব্যাখ্যা দেন এভাবে: আগে পাঠানো আমলের যা কিছু তার সামনে হাজির হয়েছে। সঙ্গে উল্লেখ করেন ১৮:৪৯ আয়াত, যেখানে তারা নিজেদের সব কাজ সামনে উপস্থিত পায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an adds how that presence may take shape: the deeds will be before a person either in the record of deeds placed in his hands, or in a bodily form the deeds take on, which it says is understood from certain narrations, and it closes with Allah knows best. It names no narration, and so this article names none either. What every gloss shares is the plain thing. Nothing new is made up on that Day. What appears is what was done, and the one who did it recognises it.",
+            "bn": "সেই উপস্থিতি কেমন রূপ নিতে পারে, মাআরিফুল কুরআন তা নিয়ে আরেকটু বলে। আমলগুলো মানুষের সামনে থাকবে দুইভাবের কোনো একভাবে: হয় তার হাতে দেওয়া আমলনামায়, নয়তো আমলগুলো নিজেরাই এক দেহরূপ ধারণ করবে। দ্বিতীয়টি কিছু বর্ণনা থেকে বোঝা যায় বলে উল্লেখ করে, তারপর বলে, আল্লাহই ভালো জানেন। কোনো বর্ণনার নাম সেখানে নেই, তাই এ লেখাতেও নেই। সব ব্যাখ্যার মিল একটা সোজা কথায়। সেদিন নতুন কিছু বানানো হবে না। যা করা হয়েছিল, তা-ই সামনে আসবে, আর যে করেছে সে তা চিনবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "For This the Account Ran",
+          "bn": "সব কথা এ কথার জন্যই"
+        },
+        "p": [
+          {
+            "en": "Three of the tafsirs read for this verse record a remark of 'Umar ibn al-Khattab (RA). Ibn Kathir gives it from Ibn Abi Hatim, through Zayd ibn Aslam from his father: when idha ash-shamsu kuwwirat was revealed, 'Umar, on reaching 'alimat nafsun ma ahdarat, said li-hadha ujriya al-hadith, it was for this that the account was told. At-Tabari relays it through Qatada in a slightly different form, wa-ila hadha jara al-hadith: and it was towards this that the account was running.",
+            "bn": "এ আয়াতের জন্য পড়া তিনটি তাফসীরে উমর ইবনুল খাত্তাব (রাঃ)-এর একটি মন্তব্য আছে। ইবন কাসীর তা এনেছেন ইবন আবী হাতিম থেকে, যায়দ ইবন আসলাম তাঁর পিতার সূত্রে বর্ণনা করেছেন: ইযাশ শামসু কুউবিরাত নাযিল হলে উমর (রাঃ) আলিমাত নাফসুম মা আহদারাত পর্যন্ত পৌঁছে বললেন, লিহাযা উজরিয়াল হাদীস, এ কথার জন্যই পুরো বিবরণ বলা হয়েছে। তাবারী কাতাদার সূত্রে একই কথা আনেন একটু ভিন্ন শব্দে, ওয়া ইলা হাযা জারাল হাদীস: আর এ কথার দিকেই বিবরণ বয়ে চলছিল।"
+          },
+          {
+            "en": "Al-Qurtubi gives 'Umar's sentence in the first form, and then adds, with the word ruwiya, it is narrated, that Ibn 'Abbas and 'Umar both recited the surah and, on reaching this verse, said li-hadha ujriyat al-qissa: it was for this that the story was told. None of the three tafsirs grades the report. It is a Companion's remark, not a saying of the Prophet ﷺ, and it is given here in the forms the commentators give it, with the chains they name and nothing added.",
+            "bn": "কুরতুবী উমর (রাঃ)-এর বাক্যটি আনেন প্রথম রূপেই। তারপর রুউইয়া, অর্থাৎ বর্ণিত আছে, এই শব্দ দিয়ে যোগ করেন: ইবন আব্বাস (রাঃ) ও উমর (রাঃ) দুজনেই সূরাটি পড়ছিলেন, আর এ আয়াতে পৌঁছে বলেছিলেন, লিহাযা উজরিয়াতিল কিসসাহ, এ কথার জন্যই কাহিনিটা বলা হয়েছে। তিনটি তাফসীরের কোনোটিই বর্ণনাটির মান নির্ধারণ করেনি। এটি সাহাবীর মন্তব্য, নবী ﷺ-এর বাণী নয়। তাফসীরকারেরা যে রূপে ও যে সূত্রে এনেছেন, এখানে সেভাবেই রাখা হলো, কিছু যোগ না করে।"
+          },
+          {
+            "en": "The remark reads like a listener's discovery. Twelve images pass, each of them enormous, and a reader can be carried along by them as if they were the subject. 'Umar's words stop that drift. The sun and the seas were never the point of the account. They were the frame around one sentence about what a person carries. Read that way, the opening of the surah is not a spectacle to admire from a distance but an approach, step by step, to a single question about oneself: what am I bringing, and is it what I would choose to bring?",
+            "bn": "মন্তব্যটা শুনলে মনে হয়, একজন শ্রোতা হঠাৎ আসল কথাটা ধরে ফেলেছেন। বারোটি দৃশ্য একে একে চলে যায়, প্রতিটিই বিশাল। পাঠক সহজেই ভেসে যেতে পারেন, যেন ওগুলোই মূল বিষয়। উমর (রাঃ)-এর কথা সেই ভেসে যাওয়া থামিয়ে দেয়। সূর্য আর সাগর বিবরণের লক্ষ্য ছিল না। ওগুলো ছিল একটি বাক্যের ফ্রেম, যে বাক্য বলে মানুষ কী বয়ে নিয়ে আসে। এভাবে পড়লে সূরার শুরুটা দূর থেকে উপভোগ করার মতো কোনো দৃশ্য নয়। ধাপে ধাপে এগিয়ে যাওয়া নিজের সম্পর্কে একটিমাত্র প্রশ্নের দিকে: আমি কী নিয়ে যাচ্ছি, আর বেছে নেওয়ার সুযোগ থাকলে কি এটাই নিতাম?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing Then, or Knowing Now",
+          "bn": "তখন জানা, নাকি এখন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari adds a line on the verb 'alimat, will know. It becomes clear to him then, he says, what he had been ignorant of, and what had been for his good and what had not. The knowledge in this verse is not news about the deeds. A person knew his deeds when he did them. It is knowledge of their worth, of which of them helped and which harmed, and it arrives at the moment when it can no longer change their direction. A traveller who first opens his bag at the border learns what is in it, but he can no longer repack it there.",
+            "bn": "আলিমাত, অর্থাৎ জানবে, ক্রিয়াটি নিয়ে তাবারী আরেকটি কথা যোগ করেন। তাঁর ভাষায়, যে বিষয়ে সে অজ্ঞ ছিল, তা তখন তার কাছে স্পষ্ট হয়ে যাবে। কোনটায় তার কল্যাণ ছিল আর কোনটায় ছিল না, তাও। এ আয়াতের জানা আমলগুলোর খবর জানা নয়। নিজের কাজ তো মানুষ করার সময়েই জানত। এ জানা হলো সেগুলোর মূল্য জানা, কোনটা উপকার করেছে আর কোনটা ক্ষতি। আর এ জ্ঞান আসে ঠিক তখন, যখন আর সেগুলোর গতিপথ বদলানোর উপায় থাকে না। যে মুসাফির সীমান্তে পৌঁছে প্রথম ব্যাগ খোলে, সে দেখে ভেতরে কী আছে। কিন্তু সেখানে দাঁড়িয়ে নতুন করে গোছানোর সুযোগ তার আর থাকে না।"
+          },
+          {
+            "en": "Ibn Kathir's second parallel, 75:13, says the same from another side: on that Day man will be told of what he sent ahead and what he held back. Against that, the surah offers a different timing. The verse is heard now. What the soul will know then can be asked about today, while deeds can still be added and others repented of. The two kinds of knowing need not differ in content. They differ only in the moment, and the moment of reading belongs to the reader.",
+            "bn": "ইবন কাসীরের দ্বিতীয় সমান্তরাল আয়াত ৭৫:১৩ একই কথা বলে অন্য দিক থেকে: সেদিন মানুষকে জানানো হবে সে কী আগে পাঠিয়েছে আর কী পেছনে রেখে গেছে। এর বিপরীতে সূরাটি সময়ের আরেকটা সুযোগ দেয়। আয়াতটা শোনা হচ্ছে এখন। সেদিন মানুষ যা জানবে, সে প্রশ্ন আজই নিজেকে করা যায়, যখন আমল যোগ করার সময় আছে, আর কিছু আমল থেকে তওবা করারও। দুই রকমের জানায় বিষয় এক হতে পারে। তফাত শুধু মুহূর্তে, আর পড়ার মুহূর্তটা পাঠকের হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Half a Date Ahead",
+          "bn": "আধখানা খেজুরের দাম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi places under this verse a hadith he cites from the two Sahihs, from 'Adi ibn Hatim (RA). The article on 78:40 quotes it whole from al-Bukhari (7512), and Muslim records it too (1016). In al-Bukhari's wording the Prophet ﷺ said that each person will be spoken to by his Lord with no interpreter between them; he will look right and left and see only what he sent forward, and in front of him the Fire; so guard against the Fire, even with half a date. Al-Bukhari adds, by another chain, even with a good word.",
+            "bn": "কুরতুবী এ আয়াতের নিচে একটি হাদীস আনেন, যা তিনি দুই সহীহ গ্রন্থ, বুখারী ও মুসলিম থেকে আদী ইবন হাতিম (রাঃ)-এর সূত্রে উল্লেখ করেছেন। ৭৮:৪০ আয়াতের আলোচনায় বুখারী (৭৫১২) থেকে হাদীসটি পুরো উদ্ধৃত আছে, আর মুসলিমও (১০১৬) তা বর্ণনা করেছেন। বুখারীর ভাষ্যে নবী ﷺ বলেছেন, প্রত্যেকের সঙ্গে তার রব কথা বলবেন, মাঝে কোনো দোভাষী থাকবে না। সে ডানে-বাঁয়ে তাকিয়ে নিজের আগে পাঠানো আমল ছাড়া কিছু দেখবে না, আর সামনে দেখবে আগুন। তাই আধখানা খেজুর দিয়ে হলেও আগুন থেকে বাঁচো। বুখারী আরেক সূত্রে যোগ করেন: একটি ভালো কথা দিয়ে হলেও।"
+          },
+          {
+            "en": "Under 78:40, none of the tafsirs read for that verse tied the hadith to it; here al-Qurtubi does, and the fit is close. What the man sees on either side is exactly what he has brought, nothing more and nothing less. Yet the same report that shows the Fire ahead names the remedy at the smallest price there is: half a date, or a good word. The hadith does not leave the listener frozen before the scene. It sends him back into his day with something cheap and immediate to do.",
+            "bn": "৭৮:৪০ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটি হাদীসটিকে সে আয়াতের সঙ্গে জোড়েনি। এখানে কুরতুবী জুড়েছেন, আর মিলটা খুবই ঘনিষ্ঠ। মানুষটি দুই পাশে যা দেখে, তা ঠিক সে যা নিয়ে এসেছে, এর বেশিও না, কমও না। অথচ যে হাদীস সামনে আগুন দেখায়, সেটাই প্রতিকারের কথা বলে সবচেয়ে কম দামে: আধখানা খেজুর, কিংবা একটি ভালো কথা। হাদীসটি শ্রোতাকে দৃশ্যের সামনে স্তব্ধ করে রেখে দেয় না। বরং তাকে ফিরিয়ে দেয় তার দিনের কাজে, হাতে একটা সহজ কাজ দিয়ে, যা এখনই করা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "And Allah Is Kind",
+          "bn": "আর আল্লাহ বান্দাদের প্রতি দয়ালু"
+        },
+        "p": [
+          {
+            "en": "The verse can be heard only as a threat, and the commentators do not lighten its weight. As-Sa'di says these descriptions of the Day are among those that unsettle hearts, deepen distress and spread fear, and that they urge people of understanding to make ready for that Day and hold them back from everything that earns blame. Fear has a task here. It is meant to move a person towards preparation, not to leave him in despair. A warning that left no room to act would have no reason to be spoken, and the surah's own order points the same way.",
+            "bn": "আয়াতটিকে কেবল হুঁশিয়ারি হিসেবেও শোনা যায়, আর তাফসীরকারেরা এর ভার একটুও হালকা করেন না। সা'দী বলেন, কিয়ামতের এই বর্ণনাগুলো এমন, যাতে হৃদয় কেঁপে ওঠে, দুশ্চিন্তা ঘনিয়ে আসে, ভয় ছড়িয়ে পড়ে। আর এগুলোই বুদ্ধিমানদের সেই দিনের জন্য প্রস্তুত হতে তাড়া দেয়, নিন্দার যোগ্য সব কাজ থেকে ফিরিয়ে রাখে। এখানে ভয়ের একটা কাজ আছে। সে মানুষকে ঠেলে দেয় প্রস্তুতির দিকে, হতাশায় ফেলে রাখে না। কিছু করার সুযোগই যদি না থাকত, তবে সতর্ক করার কোনো মানে থাকত না। সূরার নিজের সাজানোও সেদিকেই ইশারা করে।"
+          },
+          {
+            "en": "The Qur'an keeps the balance itself. The verse Ibn Kathir pairs with this one, 3:30, warns that Allah cautions you about Himself, and then closes with wa-Allahu ra'ufun bil-'ibad: and Allah is Kind to His servants. In this surah the Fire is kindled, and the very next sight is the Garden brought near. A soul will know what it has brought, and what it brings can still include a repentance made tonight, half a date given, a good word spoken today. The bag is not sealed while the reader is still reading.",
+            "bn": "ভারসাম্যটা কুরআন নিজেই রাখে। ইবন কাসীর এ আয়াতের পাশে যে ৩:৩০ আয়াত রাখেন, তাতে সতর্ক করা হয়েছে যে আল্লাহ তোমাদের নিজের ব্যাপারে সাবধান করছেন। আর আয়াতটি শেষ হয় এ কথায়: ওয়াল্লাহু রাউফুম বিল-ইবাদ, আর আল্লাহ বান্দাদের প্রতি অতি দয়ালু। এ সূরায় জাহান্নাম উসকে দেওয়ার ঠিক পরের দৃশ্যই জান্নাতকে কাছে আনা। প্রত্যেকে জানবে সে কী নিয়ে এসেছে। আর সে যা আনবে, তাতে এখনো যোগ হতে পারে আজ রাতের একটি তওবা, দান করা আধখানা খেজুর, আজ বলা একটি ভালো কথা। পাঠক যতক্ষণ পড়ছেন, পোঁটলার মুখ ততক্ষণ বাঁধা হয়নি।"
+          }
+        ]
+      }
+    ]
+  },
   "81:22": {
     "sections": [
       {

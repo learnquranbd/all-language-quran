@@ -29405,6 +29405,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "On that Day the Fire will stand in plain view of every eye; let its description reach you now, while you can still change what you strive for.",
     "lessonBn": "সেদিন জাহান্নাম প্রতিটি চোখের সামনে খোলা থাকবে। তার বিবরণ এখনই মনে পৌঁছাতে দিন, যখন কীসের জন্য খাটছেন তা বদলানোর সময় এখনো আছে।"
+  },
+  "81:14": {
+    "reflectionEn": "Twelve times the surah says when: the sun folded up, the stars scattered, the records spread open, the Fire set ablaze, the Garden brought near. Then four Arabic words answer all of it: a soul will know what it has brought. Not what it meant to do, nor what others said of it, but what it actually carried to that Day. The verb makes the soul the one who did the bringing, so every deed was packed by its own hand. That is sobering, and there is hope in it too. The last sight before the answer is the Garden drawn close, and what I will bring is still being packed today. What am I carrying, and what can I still add or set down?",
+    "reflectionBn": "বারোবার সূরাটি বলে, যখন। সূর্য গুটিয়ে নেওয়া হবে, তারা খসে পড়বে, আমলনামা খুলে ধরা হবে, জাহান্নাম উসকে দেওয়া হবে, জান্নাত কাছে আনা হবে। তারপর আরবির চারটি শব্দে সবকিছুর জবাব আসে: প্রত্যেকে জানবে সে কী নিয়ে এসেছে। কী করতে চেয়েছিল তা নয়, লোকে তার সম্পর্কে কী বলত তাও নয়, বরং আসলে কী বয়ে সে ওই দিনে পৌঁছেছে। ক্রিয়াটি বলছে, আনার কাজটা মানুষ নিজেই করেছে। প্রতিটি আমল তার নিজের হাতে গোছানো। কথাটা ভয় জাগায়, আবার আশাও দেয়। জবাবের ঠিক আগের দৃশ্য হলো জান্নাতকে কাছে আনা, আর আমার পোঁটলা এখনো গোছানো চলছে। আমি কী বয়ে চলেছি? আর কী এখনো যোগ করতে পারি, কী নামিয়ে রাখতে পারি?",
+    "pointsEn": [
+      "If I had to arrive today with only what I have done so far, what would I be glad to find there, and what would I wish were far away?",
+      "What have I kept meaning to bring, a repentance, a kindness, a debt repaid, and kept putting off for years?",
+      "Which small good do I dismiss as too little to count, when it may be exactly what I am relieved to find?",
+      "Is there something I have told myself is harmless that I would not want to see set down in front of me?",
+      "How would I spend tomorrow if I remembered that its hours go into what I carry?"
+    ],
+    "pointsBn": [
+      "আজ যদি এ পর্যন্ত করা আমলগুলো নিয়েই হাজির হতে হয়, সেখানে কী দেখে আমি খুশি হব? আর কোনটা দূরে থাকলে বাঁচতাম?",
+      "কোন জিনিসটা সঙ্গে নেব বলে বছরের পর বছর ভেবেছি, অথচ শুধু পিছিয়েছি? হয়তো একটা তওবা, একটা সদাচরণ, কিংবা শোধ না করা কোনো ঋণ।",
+      "কোন ছোট্ট নেকিকে আমি গোনার মতো নয় বলে উড়িয়ে দিই, অথচ সেদিন হয়তো ওটাই দেখে আমি স্বস্তি পাব?",
+      "এমন কিছু কি আছে যাকে আমি নিজেকে বুঝিয়েছি নিরীহ বলে, অথচ চোখের সামনে রাখা হলে দেখতে চাইব না?",
+      "কালকের প্রতিটি ঘণ্টাও আমার বোঝায় যোগ হবে, এ কথা মনে থাকলে কালকের দিনটা আমি কীভাবে কাটাতাম?"
+    ],
+    "lessonEn": "Every deed is something you are carrying toward a Day when you will see it plainly. Pack with care now, and never think a small good too small.",
+    "lessonBn": "প্রতিটি আমল আপনি বয়ে নিয়ে চলেছেন এমন এক দিনের দিকে, যেদিন তা স্পষ্ট চোখে দেখবেন। তাই এখনই যত্ন করে গুছিয়ে নিন, আর কোনো ছোট নেকিকে তুচ্ছ ভাববেন না।"
   }
 };
 
