@@ -2579,6 +2579,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:69": {
+    "sections": [
+      {
+        "h": {
+          "en": "What the Risen Look Upon",
+          "bn": "উঠে দাঁড়িয়ে যা চোখে পড়ে"
+        },
+        "p": [
+          {
+            "en": "The preceding verse blows the Horn twice. At the first blast whoever is in the heavens and on the earth falls dead, except whom Allah wills; at the second, they are standing, looking on. Verse 69 tells us what they are looking at. It runs in five short clauses joined by wa, and four of the five verbs are passive: the record is placed, the prophets and witnesses are brought, judgement is given, they are not wronged. The first four verbs are in the past tense, for an event still to come.",
+            "bn": "আগের আয়াতে শিঙ্গায় দুবার ফুঁ দেওয়া হয়। প্রথম ফুঁতে আসমান ও যমীনের সবাই মরে পড়ে যায়, তবে আল্লাহ যাকে চান সে ছাড়া। দ্বিতীয় ফুঁতে সবাই দাঁড়িয়ে তাকিয়ে থাকে। তারা কী দেখছে, ৬৯ নম্বর আয়াত সেটাই বলে। আয়াতটি ওয়া দিয়ে জোড়া পাঁচটি ছোট বাক্যে চলে, আর পাঁচটির চারটি ক্রিয়াই কর্মবাচ্যে: আমলনামা রাখা হলো, নবী ও সাক্ষীদের আনা হলো, ফয়সালা করা হলো, তাদের উপর যুলম করা হবে না। প্রথম চারটি ক্রিয়া অতীত কালের, অথচ ঘটনাটি এখনো আসেনি।"
+          },
+          {
+            "en": "Two verses earlier, in 39:67, the whole earth was in His grip on the Day of Resurrection; here the same earth is lit. The verse after completes the scene: every soul is paid in full for what it did, and He knows best what they do. Then 39:71 and 39:73 drive the two companies to their gates. This article stays with the moment in between, when the light falls, the book is set down, those who will speak are brought forward, and the verdict is given with truth.",
+            "bn": "দুই আয়াত আগে, ৩৯:৬৭-এ, কিয়ামতের দিন গোটা পৃথিবী ছিল তাঁর মুঠোয়। এখানে সেই পৃথিবীই আলোকিত হয়ে ওঠে। পরের আয়াত দৃশ্যটা পূর্ণ করে: প্রত্যেককে তার কাজের পুরো প্রতিদান দেওয়া হবে, আর তারা যা করে তিনি তা সবচেয়ে ভালো জানেন। এরপর ৩৯:৭১ ও ৩৯:৭৩ দুই দলকে তাদের নিজ নিজ দরজার দিকে নিয়ে যায়। এ লেখা থেমে থাকে মাঝের মুহূর্তটায়। আলো নেমে আসে, কিতাব রাখা হয়, যারা কথা বলবে তাদের সামনে আনা হয়, আর হকের সঙ্গে রায় দেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Light After the Lamps Go Out",
+          "bn": "সব বাতি নিভে যাওয়ার পর"
+        },
+        "p": [
+          {
+            "en": "Ashraqat means shone, gave light. At-Tabari notes that the verb is used of the sun when it clears and brightens, and places the moment: that is when ar-Rahman comes forth to settle judgement among His creation, which he says is how the people of interpretation explained it. Ibn Kathir and the Muyassar use nearly the same words: the earth shines on the Day of Resurrection when al-Haqq manifests Himself to creation for the deciding of judgement. Al-Baghawi reads bi-nuri rabbiha as by the light of its Creator, at the same moment.",
+            "bn": "আশরাকাত মানে ঝলমল করে উঠল, আলো ছড়াল। তাবারী বলেন, সূর্য যখন পরিষ্কার হয়ে উজ্জ্বল হয়, তখন এই ক্রিয়াই বলা হয়। মুহূর্তটাও তিনি চিনিয়ে দেন: যখন রহমান তাঁর সৃষ্টির মাঝে ফয়সালা করতে প্রকাশিত হবেন। তাঁর ভাষ্যে, তাফসীরের আলেমরা এভাবেই ব্যাখ্যা করেছেন। ইবন কাসীর ও মুয়াসসার প্রায় একই ভাষায় বলেন: কিয়ামতের দিন হক তাআলা যখন ফয়সালার জন্য সৃষ্টির সামনে তাজাল্লি দেবেন, তখন পৃথিবী আলোকিত হবে। বাগাভী বি-নূরি রাব্বিহা পড়েন এভাবে: তার স্রষ্টার নূরে, আর সময়টা সেই একই মুহূর্ত।"
+          },
+          {
+            "en": "As-Sa'di draws out what the verse implies about every other light. The lights that exist now will go and fade, he says, for Allah has told us that the sun will be wrapped, the moon eclipsed and the stars scattered, and people will be in darkness. Then the earth shines with the light of its Lord, when He manifests Himself and descends to judge between them. He adds that Allah gives creation a strength on that Day, so that His light does not burn them and they are able to see Him.",
+            "bn": "অন্য সব আলোর ব্যাপারে আয়াতটি কী ইঙ্গিত দেয়, সা'দী তা খুলে বলেন। তাঁর কথায়, এখন যত আলো আছে সব চলে যাবে, মিলিয়ে যাবে। কারণ আল্লাহ জানিয়েছেন, সূর্যকে গুটিয়ে নেওয়া হবে, চাঁদ আলোহীন হবে, তারাগুলো ছড়িয়ে পড়বে, আর মানুষ থাকবে অন্ধকারে। তখনই পৃথিবী ঝলমল করে উঠবে তার রবের নূরে, যখন তিনি তাজাল্লি দেবেন এবং তাদের মাঝে ফয়সালার জন্য নেমে আসবেন। সা'দী আরও বলেন, সেদিন আল্লাহ সৃষ্টিকে এমন শক্তি দেবেন যে তাঁর নূর তাদের পুড়িয়ে দেবে না, আর তারা তাঁকে দেখতেও পারবে।"
+          },
+          {
+            "en": "Al-Qurtubi records a second line. It is said that Allah creates a light on the Day of Resurrection and clothes the face of the earth with it, and Ibn 'Abbas is reported as saying that the light here is not the light of the sun or the moon but a light Allah creates and lights the earth with. On this reading, al-Qurtubi explains, the light is ascribed to Him the way a possession is ascribed to its owner. He also cautions against imagining Allah to be of the kind of light the senses perceive, since He is exalted above resembling such things.",
+            "bn": "কুরতুবী আরেকটি ধারা উল্লেখ করেন। বলা হয়, কিয়ামতের দিন আল্লাহ এক নূর সৃষ্টি করবেন এবং তা দিয়ে পৃথিবীর উপরিভাগ ঢেকে দেবেন। ইবন আব্বাস (রাঃ) থেকে বর্ণিত আছে যে, এখানে যে নূরের কথা, তা সূর্য বা চাঁদের আলো নয়। এ এমন আলো, যা আল্লাহ সৃষ্টি করবেন এবং তা দিয়ে পৃথিবী আলোকিত করবেন। কুরতুবীর ব্যাখ্যায়, এ পাঠ অনুযায়ী নূরকে আল্লাহর দিকে সম্বন্ধ করা হয়েছে, যেভাবে মালিকানার জিনিসকে মালিকের দিকে সম্বন্ধ করা হয়। তিনি সতর্কও করেন: ইন্দ্রিয়ে ধরা পড়া আলোর মতো কিছু বলে আল্লাহকে কল্পনা করা যাবে না, তিনি এমন সবকিছুর সাদৃশ্য থেকে বহু ঊর্ধ্বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Justice That Lights the Ground",
+          "bn": "যে ইনসাফ মাটিকে আলোকিত করে"
+        },
+        "p": [
+          {
+            "en": "A third reading takes the light as a figure. Al-Qurtubi reports from al-Hasan and others that bi-nuri rabbiha means by the justice of its Lord, and from ad-Dahhak that it means by the judgement of its Lord. The meaning is one, he says: the earth is lit and shines with Allah's justice and His judging with truth between His servants, for injustice is darknesses and justice is light. Al-Baghawi gives the same reading from al-Hasan and as-Suddi, and adds that the earth meant here is the open plains of the Resurrection.",
+            "bn": "তৃতীয় এক পাঠে নূরকে রূপক হিসেবে ধরা হয়। কুরতুবী হাসান ও আরও কয়েকজনের সূত্রে বলেন, বি-নূরি রাব্বিহা মানে তার রবের ইনসাফে। দাহহাকের সূত্রে বলেন, এর মানে তার রবের ফয়সালায়। কুরতুবীর মতে দুটোর অর্থ একই: আল্লাহর ইনসাফ আর বান্দাদের মাঝে তাঁর হক ফয়সালায় পৃথিবী আলোকিত হয়ে ওঠে। কারণ যুলম হলো অন্ধকারের পর অন্ধকার, আর ইনসাফ হলো আলো। বাগাভী একই পাঠ আনেন হাসান ও সুদ্দীর সূত্রে, আর যোগ করেন যে এখানে পৃথিবী বলতে কিয়ামতের খোলা ময়দান বোঝানো হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi also notes a reading by Ibn 'Abbas and 'Ubayd ibn 'Umayr, wa-ushriqat al-ardu, the earth was made to shine, which he describes as a reading by way of explanation. The sources fetched here keep these lines side by side: a light that comes with His manifestation, a light He creates and calls His own, and His justice spoken of as light. This article reports them and does not choose. What all three share is visible in the verse itself, which moves straight from the light to the record and the verdict.",
+            "bn": "কুরতুবী আরও উল্লেখ করেন, ইবন আব্বাস (রাঃ) ও উবায়দ ইবন উমায়র পড়েছেন ওয়া উশরিকাতিল আরদ, অর্থাৎ পৃথিবীকে আলোকিত করা হলো। কুরতুবী একে বলেন ব্যাখ্যামূলক কিরাআত। এখানে দেখা তাফসীরগুলো এই ধারাগুলো পাশাপাশিই রাখে। এক, তাঁর তাজাল্লির সঙ্গে আসা নূর। দুই, তাঁর সৃষ্টি করা নূর, যাকে তিনি নিজের বলে উল্লেখ করেছেন। তিন, তাঁর ইনসাফ, যাকে নূর বলা হয়েছে। এ লেখা এগুলোর কোনোটিকে বেছে নেয় না। তিনটির মিলের জায়গা আয়াতেই দেখা যায়: আলোর কথা বলেই আয়াত সোজা চলে যায় আমলনামা আর রায়ের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Crowding to See",
+          "bn": "দেখতে ঠেলাঠেলি নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari quotes Qatada on the light: they will no more jostle one another in His light than they jostle over the sun on a clear day without haze. Al-Baghawi has the same image without a name. Al-Qurtubi goes further and quotes Abu Ja'far an-Nahhas, who says this verse is made clear by the Prophet's narration that you will look at Allah and not be crowded in seeing Him, and lists four ways the key word is read: no injury, no harm, no pressing together, no disagreement.",
+            "bn": "নূরের ব্যাপারে তাবারী কাতাদার কথা আনেন: তাঁর নূরে তারা একে অপরকে ঠেলাঠেলি করবে না, ঠিক যেমন কুয়াশাহীন পরিষ্কার দিনে সূর্য দেখতে কেউ ঠেলাঠেলি করে না। বাগাভীও একই উপমা দেন, কারও নাম ছাড়া। কুরতুবী আরও এগিয়ে আবু জাফর নাহহাসকে উদ্ধৃত করেন। নাহহাসের কথায়, এ আয়াতের ব্যাখ্যা মেলে নবী ﷺ-এর সেই বাণীতে, যেখানে বলা হয়েছে তোমরা আল্লাহকে দেখবে আর তাঁকে দেখতে গিয়ে ভিড়ে কষ্ট পাবে না। মূল শব্দটি চারটি রূপে পড়া হয়, তিনি জানান: কোনো অবিচার নেই, কোনো ক্ষতি নেই, গায়ে গা ঘেঁষে চাপাচাপি নেই, কোনো মতভেদ নেই।"
+          },
+          {
+            "en": "One wording of that narration is in al-Bukhari's Sahih (554), from Jarir: we were with the Prophet ﷺ and he looked at the moon on the night it was full and said, You will see your Lord as you see this moon, and you will not be crowded in seeing Him; so if you are able not to be overcome in a prayer before the sun rises and before it sets, do so. Then he recited, and glorify the praise of your Lord before the rising of the sun and before its setting (50:39).",
+            "bn": "সেই বাণীর একটি ভাষ্য আছে বুখারীর সহীহ গ্রন্থে (৫৫৪), জারীর (রাঃ)-এর সূত্রে। তিনি বলেন, আমরা নবী ﷺ-এর কাছে ছিলাম। পূর্ণিমার রাতে তিনি চাঁদের দিকে তাকিয়ে বললেন: তোমরা তোমাদের রবকে দেখবে, যেমন এই চাঁদ দেখছ, তাঁকে দেখতে তোমাদের ভিড়ে কষ্ট হবে না। কাজেই সূর্য ওঠার আগের আর ডোবার আগের নামাযে যদি হেরে না যাওয়ার সামর্থ্য রাখো, তবে তা-ই করো। তারপর তিনি তিলাওয়াত করলেন: আর সূর্যোদয়ের আগে ও সূর্যাস্তের আগে তোমার রবের প্রশংসাসহ তাসবীহ পাঠ করো (৫০:৩৯)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Book Set in Place",
+          "bn": "কিতাব রাখা হলো"
+        },
+        "p": [
+          {
+            "en": "Wa-wudi'a al-kitab: and the book was placed. Qatada, quoted by both at-Tabari and Ibn Kathir, says it is the book of deeds, and at-Tabari explains it as their record, set down for their reckoning and recompense. He also gives as-Suddi's shorter gloss: the reckoning. Al-Qurtubi reports from Ibn 'Abbas that it means the Preserved Tablet, and from Qatada that it is the scrolls holding the deeds of the children of Adam, one taking his in the right hand, another in the left. The Muyassar says the angels spread out each person's scroll.",
+            "bn": "ওয়া উদিআল কিতাব: আর কিতাব রাখা হলো। কাতাদা বলেন, এ হলো আমলের কিতাব। তাবারী ও ইবন কাসীর দুজনেই তাঁর এ কথা এনেছেন। তাবারী আরও খুলে বলেন: তাদের আমলনামা, যা রাখা হবে হিসাব নেওয়া আর প্রতিদান দেওয়ার জন্য। সুদ্দীর আরও ছোট একটি ব্যাখ্যাও তিনি দেন: হিসাব। কুরতুবী ইবন আব্বাস (রাঃ)-এর সূত্রে বলেন, এর অর্থ লাওহে মাহফূয। আর কাতাদার সূত্রে বলেন, এ হলো সেই সব সহীফা, যাতে আদম সন্তানের আমল লেখা আছে। কেউ তা নেবে ডান হাতে, কেউ বাম হাতে। মুয়াসসারের ভাষ্যে, ফেরেশতারা প্রত্যেকের সহীফা খুলে মেলে ধরবে।"
+          },
+          {
+            "en": "As-Sa'di says the book of deeds and its register is placed and spread open so that the good and bad in it can be read. He points to 18:49, which opens with the same words, wa-wudi'a al-kitab, and shows the guilty afraid of what it holds: what is this book that leaves nothing small or great without counting it? And from complete justice and fairness, he adds, the doer is told: read your book; your own self suffices against you today as a reckoner (17:14). In that verse the reader of the record is the one who wrote it.",
+            "bn": "সা'দী বলেন, আমলের কিতাব ও তার খাতা রাখা হবে, খুলে মেলে ধরা হবে, যাতে তার ভেতরের নেকি আর গুনাহ পড়া যায়। তিনি দেখান ১৮:৪৯ আয়াত, যার শুরুও একই শব্দে, ওয়া উদিআল কিতাব। সেখানে অপরাধীরা কিতাবে যা আছে তা দেখে ভয়ে কাঁপে আর বলে: এ কেমন কিতাব, ছোট-বড় কিছুই বাদ দেয়নি, সব গুনে রেখেছে! সা'দী আরও বলেন, পূর্ণ ইনসাফ আর ন্যায্যতার দাবি থেকেই আমলকারীকে বলা হবে: তোমার কিতাব পড়ো, আজ তোমার হিসাব নেওয়ার জন্য তুমি নিজেই যথেষ্ট (১৭:১৪)। সে আয়াতে আমলনামা যে পড়ছে, সে-ই তা লিখেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Messengers Asked, Nations Answered",
+          "bn": "রাসূলদের প্রশ্ন, উম্মতের জবাব"
+        },
+        "p": [
+          {
+            "en": "Wa-ji'a bi-n-nabiyyina wa-sh-shuhada': and the prophets and the witnesses were brought. At-Tabari says the prophets are brought so that their Lord may ask them what their nations answered when Allah's message reached them; al-Qurtubi and the Muyassar say the same. Ibn Kathir, through Ibn 'Abbas, has the prophets themselves bear witness against the nations that they conveyed Allah's messages. As-Sa'di joins the two: they are brought to be asked about the conveying and about their nations, and to testify against them.",
+            "bn": "ওয়া জীআ বিন-নাবিয়্যীনা ওয়াশ-শুহাদা: আর নবী ও সাক্ষীদের আনা হলো। তাবারী বলেন, নবীদের আনা হবে যাতে তাঁদের রব জিজ্ঞেস করেন, আল্লাহর বার্তা পৌঁছানোর পর তাঁদের উম্মত কী জবাব দিয়েছিল। কুরতুবী ও মুয়াসসারও একই কথা বলেন। ইবন কাসীর ইবন আব্বাস (রাঃ)-এর সূত্রে বলেন, নবীরা নিজেরাই উম্মতের বিরুদ্ধে সাক্ষ্য দেবেন যে তাঁরা আল্লাহর বার্তা পৌঁছে দিয়েছিলেন। সা'দী দুটি কথা এক করেন: তাঁদের আনা হবে বার্তা পৌঁছানো আর উম্মতের ব্যাপারে জিজ্ঞাসার জন্য, আবার উম্মতের বিরুদ্ধে সাক্ষ্য দেওয়ার জন্যও।"
+          },
+          {
+            "en": "At-Tabari is firm on the witnesses. They are the Ummah of Muhammad ﷺ, whom their Lord calls to testify for the messengers that they conveyed His message when their nations deny it. He cites 2:143, that you may be witnesses over mankind and the Messenger a witness over you, and Ibn 'Abbas's report that they testify for the messengers to the conveying and to the nations' denial. Al-Qurtubi gives this reading first, al-Baghawi gives it from Ibn 'Abbas, and the Muyassar says their testimony establishes the proof against the nations.",
+            "bn": "সাক্ষীদের ব্যাপারে তাবারী দৃঢ়। তাঁর মতে এরা মুহাম্মাদ ﷺ-এর উম্মত। আগের উম্মতেরা যখন অস্বীকার করবে যে রাসূলেরা তাদের কাছে বার্তা পৌঁছেছিলেন, তখন রব এই উম্মতকে ডাকবেন রাসূলদের পক্ষে সাক্ষ্য দিতে। তিনি দলিল আনেন ২:১৪৩ থেকে: যাতে তোমরা মানুষের উপর সাক্ষী হও, আর রাসূল হন তোমাদের উপর সাক্ষী। সঙ্গে ইবন আব্বাস (রাঃ)-এর বর্ণনা: তারা রাসূলদের পক্ষে সাক্ষ্য দেবে যে বার্তা পৌঁছানো হয়েছিল, আর উম্মতেরা তাঁদের মিথ্যা বলেছিল। কুরতুবী এ পাঠটিই প্রথমে আনেন, বাগাভী আনেন ইবন আব্বাস (রাঃ)-এর সূত্রে। মুয়াসসার বলেন, তাদের সাক্ষ্যে উম্মতদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হবে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a narration to the witnesses. A general one, not tied to this verse by them, is in al-Bukhari's Sahih (4487), from Abu Sa'id al-Khudri: Noah will be called on the Day of Resurrection and say, Here I am at Your service, my Lord. Allah will ask, Did you convey? He will say, Yes. His nation will be asked, Did he convey to you? They will say, No warner came to us. He will be asked, Who testifies for you? He will say, Muhammad and his Ummah. So you will testify that he conveyed. It closes with 2:143.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর সাক্ষীদের প্রসঙ্গে কোনো হাদীস জুড়ে দেয়নি। তবে একটি সাধারণ বর্ণনা আছে, যাকে তাঁরা এ আয়াতের সঙ্গে যুক্ত করেননি। বুখারীর সহীহ গ্রন্থে (৪৪৮৭) আবু সাঈদ খুদরী (রাঃ)-এর সূত্রে: কিয়ামতের দিন নূহ (আঃ)-কে ডাকা হবে। তিনি বলবেন, হে আমার রব, আমি হাজির, আপনার খেদমতে। আল্লাহ জিজ্ঞেস করবেন, তুমি কি পৌঁছে দিয়েছ? তিনি বলবেন, হ্যাঁ। তাঁর উম্মতকে জিজ্ঞেস করা হবে, তিনি কি তোমাদের কাছে পৌঁছে দিয়েছেন? তারা বলবে, আমাদের কাছে কোনো সতর্ককারী আসেনি। তাঁকে বলা হবে, তোমার পক্ষে কে সাক্ষ্য দেবে? তিনি বলবেন, মুহাম্মাদ ও তাঁর উম্মত। তখন তোমরা সাক্ষ্য দেবে যে তিনি পৌঁছে দিয়েছিলেন। বর্ণনাটি শেষ হয় ২:১৪৩ আয়াত দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Martyrs, Angels, Limbs",
+          "bn": "শহীদ, ফেরেশতা, অঙ্গপ্রত্যঙ্গ"
+        },
+        "p": [
+          {
+            "en": "A second reading takes ash-shuhada' as the martyrs. At-Tabari gives it from as-Suddi, those martyred in obedience to Allah, and al-Qurtubi adds from him that they testify for whoever defended Allah's religion. At-Tabari sets it aside as carrying little meaning here, because the next words, and judgement was given between them, show the summons was for judging between prophets and their nations. A third reading names the recording angels: Ibn Kathir, Ibn Zayd in al-Qurtubi and 'Ata' in al-Baghawi, with 50:21 quoted alongside in the last two.",
+            "bn": "দ্বিতীয় এক পাঠে আশ-শুহাদা মানে শহীদগণ। তাবারী এ মত আনেন সুদ্দীর সূত্রে: যারা আল্লাহর আনুগত্যের পথে শহীদ হয়েছেন। কুরতুবী সুদ্দীর সূত্রেই যোগ করেন, তাঁরা সাক্ষ্য দেবেন তাদের পক্ষে, যারা আল্লাহর দ্বীন রক্ষায় লড়েছে। তাবারী এ মত সরিয়ে রাখেন। তাঁর মতে এখানে এর তেমন অর্থ নেই, কারণ পরের কথা, তাদের মাঝে ফয়সালা করা হলো, দেখায় যে ডাকা হয়েছিল নবী আর তাঁদের উম্মতের মাঝে ফয়সালার জন্য। তৃতীয় পাঠে সাক্ষী হলেন আমল লেখার দায়িত্বে থাকা ফেরেশতারা। এ মত ইবন কাসীরের, কুরতুবীতে ইবন যায়দের, বাগাভীতে আতার। শেষের দুই জায়গায় পাশে ৫০:২১ আয়াত উদ্ধৃত হয়েছে।"
+          },
+          {
+            "en": "As-Sa'di widens the list to the angels, the limbs and the earth. Ma'arif al-Qur'an gathers everyone: the prophets, with 4:41; the angels, with 50:21; the Prophet's followers, with 22:78; a person's own limbs, with 36:65. The disagreement stands as the sources leave it. What the verse does not do is hand anyone a verdict now. It speaks of witnesses on that Day about messages conveyed. It licenses nothing against any living person or community today, and makes no believer the judge of anyone's end.",
+            "bn": "সা'দী তালিকাটা আরও বড় করেন: ফেরেশতা, মানুষের অঙ্গপ্রত্যঙ্গ আর মাটি। মাআরিফুল কুরআন সবাইকে এক জায়গায় আনে: নবীগণ, ৪:৪১ দিয়ে; ফেরেশতারা, ৫০:২১ দিয়ে; নবী ﷺ-এর অনুসারীরা, ২২:৭৮ দিয়ে; আর মানুষের নিজের হাত-পা, ৩৬:৬৫ দিয়ে। তাফসীরগুলো মতভেদটা যেভাবে রেখেছে, এখানেও সেভাবেই থাকল। তবে একটা কাজ আয়াত করে না: আজ কারও হাতে রায় তুলে দেয় না। আয়াত বলছে সেদিনের সাক্ষীদের কথা, বার্তা পৌঁছানোর ব্যাপারে। আজ জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না, আর কোনো মুমিনকে অন্যের পরিণামের বিচারকও বানায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Shaved, Nothing Added",
+          "bn": "কমানো নেই, বাড়ানো নেই"
+        },
+        "p": [
+          {
+            "en": "Wa-qudiya baynahum bi-l-haqq: and judgement was given between them with truth. Who them refers to is read two ways. At-Tabari says between the prophets and their nations, and that judging with truth means no one is made to carry another's sin and no soul is punished except for what it earned. The Muyassar says between the servants, with complete justice. Ibn Kathir glosses bi-l-haqq as with justice; al-Qurtubi, as with truthfulness and justice.",
+            "bn": "ওয়া কুদিয়া বাইনাহুম বিল-হাক: আর তাদের মাঝে হকের সঙ্গে ফয়সালা করা হলো। তাদের বলতে কাদের বোঝানো হয়েছে, তা দুই ভাবে পড়া হয়। তাবারী বলেন, নবী আর তাঁদের উম্মতের মাঝে। তাঁর ব্যাখ্যায় হকের সঙ্গে ফয়সালা মানে একজনের গুনাহ আরেকজনের ঘাড়ে চাপানো হবে না, আর কাউকে তার নিজের কামাইয়ের বাইরে শাস্তি দেওয়া হবে না। মুয়াসসার বলেন, বান্দাদের মাঝে, পূর্ণ ইনসাফের সঙ্গে। ইবন কাসীর বিল-হাক অর্থ করেন ইনসাফের সঙ্গে, আর কুরতুবী করেন সত্য ও ইনসাফের সঙ্গে।"
+          },
+          {
+            "en": "Wa-hum la yuzlamun: and they will not be wronged. Al-Qurtubi quotes Sa'id ibn Jubayr: nothing is taken from their good deeds and nothing added to their bad ones; al-Baghawi and the Muyassar say the same. Ibn Kathir sets beside it 21:47, the just balances that bring even a mustard seed's weight, and 4:40, Allah does not wrong an atom's weight and multiplies a good deed. As-Sa'di gives the ground: this reckoning comes from One who encompasses everything and knows the measure of each deed and what it deserves.",
+            "bn": "ওয়া হুম লা ইউযলামূন: আর তাদের উপর যুলম করা হবে না। কুরতুবী সাঈদ ইবন জুবায়রের কথা আনেন: তাদের নেকি থেকে কিছু কমানো হবে না, গুনাহের সঙ্গে কিছু বাড়ানো হবে না। বাগাভী ও মুয়াসসারও একই কথা বলেন। ইবন কাসীর এর পাশে রাখেন ২১:৪৭, যেখানে ন্যায়ের দাঁড়িপাল্লা সরিষার দানা পরিমাণ আমলও হাজির করবে, আর ৪:৪০, যেখানে আল্লাহ অণু পরিমাণও যুলম করেন না এবং নেকিকে বহুগুণ করেন। সা'দী কারণটা বলেন: এ হিসাব আসছে এমন সত্তার কাছ থেকে, যিনি সবকিছু ঘিরে আছেন, প্রতিটি আমলের ওজন আর তার প্রাপ্য প্রতিদান জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pages Still Being Written",
+          "bn": "পাতাগুলো এখনো লেখা হচ্ছে"
+        },
+        "p": [
+          {
+            "en": "The verse speaks of that Day mostly in the past tense, as if it were already done, and it reaches the listener while it is not. The book that will be placed is still being written, and the hours it will read are still in hand. Two things stand out from the sources above. No good deed is too small to be counted, and no wrong will be laid on someone who did not do it. The fear the verse leaves is of a person's own pages, not of an unfair court.",
+            "bn": "আয়াত সেদিনের কথা বলে বেশিরভাগ অতীত কালের ক্রিয়ায়, যেন সব ঘটে গেছে। অথচ শ্রোতার কাছে আয়াতটি পৌঁছায় এমন সময়ে, যখন তা ঘটেনি। যে কিতাব রাখা হবে, তা এখনো লেখা হচ্ছে। যে সময়গুলো সেখানে পড়া হবে, সেগুলো এখনো হাতে আছে। উপরের তাফসীরগুলো থেকে দুটি কথা পরিষ্কার। কোনো নেক কাজই গোনার বাইরে থাকার মতো ছোট নয়। আর যে অন্যায় কেউ করেনি, তা তার ঘাড়ে চাপানো হবে না। আয়াত যে ভয় রেখে যায়, তা নিজের পাতাগুলোর ভয়, অন্যায় বিচারের ভয় নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "39:73": {
     "sections": [
       {

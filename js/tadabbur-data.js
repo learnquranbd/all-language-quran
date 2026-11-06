@@ -26309,6 +26309,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold on to Allah's wide mercy and turn back now, while your words can still change, before neglect and mockery become a regret that no longer helps.",
     "lessonBn": "আল্লাহর প্রশস্ত রহমত আঁকড়ে ধরুন আর এখনই ফিরে আসুন, যখন নিজের কথা বদলানোর সুযোগ আছে, অবহেলা আর ঠাট্টা এমন আফসোসে পরিণত হওয়ার আগে, যা আর কোনো কাজে আসবে না।"
+  },
+  "39:69": {
+    "reflectionEn": "The Horn has sounded a second time, and people are standing, looking. What they see first is light: the earth shining with the light of its Lord, after every lamp they knew is gone. Then the record is set down, the prophets are brought, the witnesses come forward, and judgement is given with truth. Before any sentence is read, the verse gives a promise: they will not be wronged. No good deed will be shaved off, and no wrong added that was never done. Comfort and warning, in one breath. Nothing will be hidden in that light, and nothing will be unfair. If my record were set down today, what would I want written in it, and what would I want erased by repentance while there is still time?",
+    "reflectionBn": "শিঙ্গায় দ্বিতীয়বার ফুঁ দেওয়া হয়েছে, মানুষ উঠে দাঁড়িয়ে তাকিয়ে আছে। প্রথমে তারা যা দেখে, তা আলো। চেনা সব বাতি নিভে যাওয়ার পর পৃথিবী ঝলমল করে উঠছে তার রবের নূরে। তারপর আমলনামা রাখা হয়, নবীদের আনা হয়, সাক্ষীরা সামনে আসে, আর ন্যায়ের সঙ্গে ফয়সালা হয়। কোনো রায় পড়ে শোনানোর আগেই আয়াত একটা কথা দিয়ে দেয়: তাদের উপর যুলম করা হবে না। কোনো নেকি কেটে নেওয়া হবে না, যে গুনাহ করা হয়নি তা জুড়েও দেওয়া হবে না। একই নিঃশ্বাসে এ সান্ত্বনাও, সতর্কবাণীও। ওই আলোয় কিছুই লুকানো থাকবে না, আর কিছুই অন্যায় হবে না। আজই যদি আমার আমলনামা সামনে রাখা হতো, তাতে কী লেখা থাকুক বলে আমি চাইতাম? আর সময় থাকতে তওবা দিয়ে কোন কথাগুলো মুছে ফেলতে চাইতাম?",
+    "pointsEn": [
+      "If the record of my deeds were set down today, which page would I least want read aloud, and what am I doing about it?",
+      "The prophets will be asked whether they conveyed the message. Have I passed on what I know to the people in my care?",
+      "Do I deal with people now in a way I would be content to have weighed by a Judge who wrongs no one?",
+      "Which good deed have I written off as too small to count, when the verse promises that nothing will be shaved off?",
+      "Witnesses will speak on that Day. What would the hours of my past week say about me if they could speak?"
+    ],
+    "pointsBn": [
+      "আজই যদি আমার আমলনামা সামনে রাখা হতো, কোন পাতাটা জোরে পড়ে শোনানো হোক, তা আমি সবচেয়ে কম চাইতাম? আর সে ব্যাপারে আমি কী করছি?",
+      "নবীদের জিজ্ঞেস করা হবে, তাঁরা বার্তা পৌঁছে দিয়েছিলেন কি না। আমি যা জানি, আমার দায়িত্বে থাকা মানুষদের কাছে কি তা পৌঁছে দিয়েছি?",
+      "মানুষের সঙ্গে আমার আজকের আচরণ কি এমন, যা এমন বিচারকের সামনে মাপা হলে আমি খুশি থাকব, যিনি কারও উপর যুলম করেন না?",
+      "কোন নেক কাজকে আমি গোনার মতো নয় বলে বাদ দিয়ে দিয়েছি, অথচ আয়াত কথা দিচ্ছে যে কিছুই কেটে নেওয়া হবে না?",
+      "সেদিন সাক্ষীরা কথা বলবে। গত সপ্তাহের সময়গুলো যদি কথা বলতে পারত, আমার সম্পর্কে তারা কী বলত?"
+    ],
+    "lessonEn": "Live as someone whose record will be set down in full light before a Judge who wrongs no one: add good, repent of wrong, and be fair to others.",
+    "lessonBn": "এমনভাবে চলুন যেন আপনার আমলনামা পূর্ণ আলোয় এমন বিচারকের সামনে রাখা হবে, যিনি কারও উপর যুলম করেন না: নেকি বাড়ান, গুনাহ থেকে তওবা করুন, আর মানুষের প্রতি ইনসাফ করুন।"
   }
 };
 
