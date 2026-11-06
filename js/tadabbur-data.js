@@ -25389,6 +25389,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let Allah, His Messenger and the Hereafter be what you truly want, and remember that the reward is tied to doing good, not to any name or rank.",
     "lessonBn": "আল্লাহ, তাঁর রাসূল আর আখিরাতকেই আপনার আসল চাওয়া বানান, আর মনে রাখুন, পুরস্কার বাঁধা সৎকর্মের সঙ্গে, কোনো নাম বা পদের সঙ্গে নয়।"
+  },
+  "34:16": {
+    "reflectionEn": "They had been told to eat from their Lord's provision and give thanks: a good land, and a forgiving Lord. Then comes one word: they turned away. What follows is swift. The flood is sent, and the two gardens on either hand are exchanged for two of another kind, bitter fruit, tamarisk and a little lote. The verse still calls them gardens, as if to make me hold the two pictures side by side. Nothing was brought in from outside; the water that had fed the orchards is the water that undid them. That is the warning. A gift enjoyed without thanks does not stay as it was. Which of my gardens am I eating from today without once turning to the One who planted it?",
+    "reflectionBn": "তাদের বলা হয়েছিল, রবের দেওয়া রিযক খাও আর তাঁর শোকর আদায় করো। দেশটা উত্তম, রব ক্ষমাশীল। তারপর একটিমাত্র শব্দ: তারা মুখ ফিরিয়ে নিল। এরপর সব ঘটে দ্রুত। বন্যা পাঠানো হয়, আর ডানে-বামের দুই বাগান বদলে যায় অন্য রকম দুই বাগানে। সেখানে তেতো ফল, ঝাউগাছ আর অল্প কিছু কুলগাছ। আয়াত তবুও সেগুলোকে বাগানই বলে, যেন আমি দুটো ছবি পাশাপাশি রেখে দেখি। বাইরে থেকে নতুন কিছু আনা হয়নি। যে পানি বাগান ভরিয়ে রাখত, সেই পানিই সব শেষ করে দিল। সতর্কবার্তা এখানেই। শোকর ছাড়া যে নিয়ামত ভোগ করা হয়, তা আগের মতো থাকে না। আজ আমার কোন বাগানের ফল আমি খাচ্ছি, অথচ যিনি তা লাগিয়েছেন তাঁর দিকে একবারও ফিরে তাকাইনি?",
+    "pointsEn": [
+      "Which blessing in my life has become so ordinary that I no longer notice it, let alone thank Allah for it?",
+      "When I am reminded of what I owe, do I listen, or do I turn my face the way they did?",
+      "Is there a strength I rely on, as they relied on their dam, that I have stopped seeing as a gift held on trust?",
+      "What would my thanks look like this week if it showed in what I do with the gift, not only in what I say?",
+      "When I read of a people punished, do I look for my own reflection in the story, or only for someone else to blame?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন নিয়ামত এত সাধারণ হয়ে গেছে যে তা আর চোখেই পড়ে না, শোকর তো দূরের কথা?",
+      "কেউ যখন মনে করিয়ে দেয় আমার উপর কার কী হক, আমি কি শুনি, নাকি তাদের মতোই মুখ ফিরিয়ে নিই?",
+      "তারা যেমন বাঁধের উপর ভরসা করত, তেমন কোন শক্তির উপর আমি ভরসা করি, যাকে আর আমানত হিসেবে দেখি না?",
+      "এ সপ্তাহে আমার শোকর যদি শুধু মুখে নয়, নিয়ামতটা কাজে লাগানোর ধরনে ফুটে ওঠে, তাহলে তা দেখতে কেমন হবে?",
+      "শাস্তি পাওয়া কোনো জাতির কথা পড়লে আমি কি গল্পের ভেতরে নিজের চেহারা খুঁজি, নাকি শুধু দোষ চাপানোর জন্য অন্য কাউকে খুঁজি?"
+    ],
+    "lessonEn": "Thank Allah for what you have, in your heart, on your tongue and in your deeds; a blessing met with turning away can become the very thing that undoes you.",
+    "lessonBn": "যা পেয়েছেন তার জন্য অন্তরে, মুখে আর আমলে আল্লাহর শোকর আদায় করুন। মুখ ফিরিয়ে নেওয়া নিয়ামতই একদিন আপনার সর্বনাশের কারণ হয়ে উঠতে পারে।"
   }
 };
 

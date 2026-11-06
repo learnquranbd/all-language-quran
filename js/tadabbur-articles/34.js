@@ -603,6 +603,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "34:16": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Word: They Turned Away",
+          "bn": "এক শব্দে মুখ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Fa-a'radu: so they turned away. The verse opens on a single verb, and the fa ties it to the verse before, where Saba' were shown two gardens on the right and the left and told to eat from their Lord's provision and be grateful to Him (34:15). Their reply is not given in words but as a turning of the face. At-Tabari glosses it as turning from obedience to their Lord and refusing to follow what their messengers called them to. The Muyassar names both halves: they turned from Allah's command and from thanking Him, and they denied the messengers.",
+            "bn": "ফাআ'রাদূ: তারা মুখ ফিরিয়ে নিল। আয়াত শুরু হয় একটিমাত্র ক্রিয়া দিয়ে, আর শুরুর 'ফা' অক্ষরটি একে বেঁধে দেয় ঠিক আগের আয়াতের সঙ্গে। সেখানে সাবাকে ডানে-বামে দুই বাগান দেখানো হয়েছিল, আর বলা হয়েছিল রবের রিযক খাও, তাঁর শোকর আদায় করো (৩৪:১৫)। সেই ডাকের জবাব তারা মুখে দেয়নি, দিয়েছে মুখ ঘুরিয়ে। তাবারী এর ব্যাখ্যা দেন এভাবে: তারা রবের আনুগত্য থেকে সরে গেল, আর রাসূলগণ যেদিকে ডেকেছিলেন সেদিকে যেতে অস্বীকার করল। মুয়াসসার দুটো দিকই উল্লেখ করে: তারা আল্লাহর আদেশ আর তাঁর শোকর থেকে মুখ ফেরাল, আর রাসূলদের মিথ্যা বলল।"
+          },
+          {
+            "en": "Ibn Kathir says what they turned from and what they turned to: away from Allah's oneness, His worship and thanks for what He had given them, and towards worship of the sun, and he cites the hoopoe's report in 27:22 to 27:24 as the witness. Al-Qurtubi adds that the turning came after they had been Muslims. As-Sa'di reads it as weariness with blessing: they turned from the Giver, grew insolent with the gift and tired of it, until they asked that their journeys be lengthened, the request the passage records in 34:19.",
+            "bn": "ইবন কাসীর বলেন তারা কী ছেড়ে কোন দিকে গেল। তারা আল্লাহর তাওহীদ, তাঁর ইবাদত আর দেওয়া নিয়ামতের শোকর ছেড়ে সূর্যপূজার দিকে ঝুঁকেছিল। সাক্ষী হিসেবে তিনি ২৭:২২ থেকে ২৭:২৪ আয়াতে হুদহুদের খবরটি উদ্ধৃত করেন। কুরতুবী যোগ করেন, এই মুখ ফেরানো ঘটেছিল তারা মুসলিম থাকার পরে। সা'দী একে দেখেন নিয়ামতের প্রতি বিরক্তি হিসেবে। যিনি দিয়েছেন তাঁর থেকে তারা মুখ ফেরাল, নিয়ামত পেয়ে অহংকারী হলো, তাতে ক্লান্ত হয়ে পড়ল। শেষে চেয়ে বসল তাদের সফরের দূরত্ব যেন বাড়িয়ে দেওয়া হয়, যে আবদারের কথা ৩৪:১৯ আয়াতে আছে।"
+          },
+          {
+            "en": "How many prophets came to them is a matter of report, and the reports differ. Al-Qurtubi gives thirteen prophets from as-Suddi and Wahb ibn Munabbih together; at-Tabari has thirteen from Wahb through Ibn Ishaq; Ibn Kathir has as-Suddi saying twelve thousand and closes with: and Allah knows best. Al-Baghawi carries Wahb's account of their answer: they knew of no favour Allah had done them, so let their Lord withhold these blessings if He could. The verse itself is spare. It records the turning and moves straight to what it brought.",
+            "bn": "তাদের কাছে কতজন নবী এসেছিলেন, তা বর্ণনার বিষয়, আর বর্ণনাগুলো এক নয়। কুরতুবী সুদ্দী ও ওয়াহব ইবন মুনাব্বিহ দুজনের সূত্রে তেরোজন নবীর কথা বলেন। তাবারী ইবন ইসহাকের মাধ্যমে ওয়াহব থেকে তেরোজনই আনেন। ইবন কাসীরের বর্ণনায় সুদ্দী বলেছেন ১২ হাজার, আর ইবন কাসীর শেষ করেন 'আল্লাহই ভালো জানেন' বলে। বাগাভী ওয়াহবের সূত্রে তাদের জবাবটিও আনেন: আল্লাহর কোনো অনুগ্রহ তারা নিজেদের উপর দেখে না, তাদের রব পারলে এসব নিয়ামত আটকে দিক। আয়াতটি নিজে কিন্তু সংক্ষিপ্ত। মুখ ফেরানোর কথা বলেই সে সোজা চলে যায় তার পরিণতিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Meanings of al-'Arim",
+          "bn": "আল-আরিমের চার অর্থ"
+        },
+        "p": [
+          {
+            "en": "Then: so We sent upon them sayl al-'arim, the flood of al-'Arim. The commentators give the word several senses, each with a name behind it. The first is the dam. At-Tabari, in his own voice, says al-'arim is the musannat, the embankment that holds back water, its singular 'arima, and he cites the poet al-A'sha, who says that al-'arim effaced Ma'rib. He relays from al-Mughira ibn Hakim that the word means the musannat in the speech of Himyar, and from Abu Maysara that it does so in the dialect of Yemen. Al-Qurtubi reports the dam from Ibn Abbas.",
+            "bn": "তারপর: আমি তাদের উপর পাঠালাম সাইলুল আরিম, আরিমের বন্যা। তাফসীরকারেরা শব্দটির কয়েকটি অর্থ দেন, আর প্রতিটি অর্থের পেছনে কারও না কারও নাম আছে। প্রথম অর্থ বাঁধ। তাবারী নিজের ভাষ্যে বলেন, আরিম হলো মুসান্নাত, অর্থাৎ যে বাঁধ পানি আটকে রাখে। এর একবচন আরিমা। প্রমাণ হিসেবে তিনি কবি আ'শার পঙক্তি আনেন, যেখানে বলা হয়েছে আরিম মা'রিবকে মুছে দিয়েছে। মুগীরা ইবন হাকীম থেকে তিনি বর্ণনা করেন, হিমইয়ারের ভাষায় এর অর্থ মুসান্নাত। আবু মাইসারা বলেছেন, ইয়ামানের বুলিতে এর অর্থ তা-ই। কুরতুবী ইবন আব্বাস (রাঃ) থেকে বাঁধ অর্থটি বর্ণনা করেন।"
+          },
+          {
+            "en": "The second is the valley. At-Tabari reports that Ibn Abbas called it a valley in Yemen, and that Qatada and ad-Dahhak described a valley into which the streams of many wadis gathered; al-Qurtubi gives 'Ata' for al-'Arim as the valley's name. The third makes the word an attribute rather than a name. Mujahid said: severe, and Ibn Abbas, by another chain, said the same; at-Tabari files this under those who held that al-'arim describes the embankment rather than naming it. Al-Qurtubi adds from Ibn Abbas that it was heavy rain, and from Mujahid that it was red water Allah sent into the dam, which split it.",
+            "bn": "দ্বিতীয় অর্থ উপত্যকা। তাবারী বর্ণনা করেন, ইবন আব্বাস (রাঃ) একে ইয়ামানের এক উপত্যকা বলেছেন। কাতাদা ও দাহহাক বলেছেন এমন এক উপত্যকার কথা, যেখানে নানা দিকের নালা এসে মিশত। কুরতুবী আতা থেকে আনেন, আরিম ওই উপত্যকারই নাম। তৃতীয় অর্থে শব্দটি নাম নয়, বিশেষণ। মুজাহিদ বলেছেন: প্রচণ্ড। অন্য এক সূত্রে ইবন আব্বাস (রাঃ)-ও তা-ই বলেছেন। তাবারী এ কথাকে রাখেন তাদের মতের মধ্যে, যারা বলেন আরিম বাঁধের নাম নয়, বাঁধের গুণ। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরও আনেন, এটি ছিল মুষলধারে বৃষ্টি। আর মুজাহিদ থেকে আনেন, এ ছিল লাল পানি, যা আল্লাহ বাঁধের ভেতর পাঠালেন আর তা বাঁধ চিরে ফেলল।"
+          },
+          {
+            "en": "The fourth is the rat. Al-Qurtubi reports az-Zajjaj saying that al-'Arim was the name of the rat that bored through the dam, the one called al-khuld, and that Qatada said so too; the flood was named after its cause. He adds that Ibn al-A'rabi counted it among the names of the mouse. Ibn Kathir lists the waters, the valley, the rat and abundant water, each introduced with 'it is said'. Al-Qurtubi and al-Baghawi trace the word to 'arama, fierceness and force, so that a man called 'arim is a hard one. Ma'arif al-Qur'an judges the dam the sense most in keeping with the context.",
+            "bn": "চতুর্থ অর্থ ইঁদুর। কুরতুবী যাজ্জাজের কথা আনেন: আরিম সেই ইঁদুরের নাম, যে বাঁধ ফুটো করেছিল, যাকে খুলদ বলা হয়। কাতাদাও এ কথা বলেছেন। বন্যাকে তার কারণের নামেই ডাকা হয়েছে। কুরতুবী আরও জানান, ইবনুল আরাবী আরিমকে ইঁদুরের নামগুলোর একটি বলে গণ্য করেছেন। ইবন কাসীর 'বলা হয়' দিয়ে চারটি মত সাজান: পানি, উপত্যকা, ইঁদুর আর প্রচুর পানি। কুরতুবী ও বাগাভী শব্দটির মূল খুঁজে পান 'আরামা'য়, যার অর্থ উগ্রতা ও শক্তি। তাই কঠোর মানুষকে বলা হয় আরিম। মাআরিফুল কুরআনের বিচারে প্রসঙ্গের সঙ্গে সবচেয়ে মানানসই অর্থ বাঁধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gates One Above Another",
+          "bn": "একটির উপর আরেকটি দরজা"
+        },
+        "p": [
+          {
+            "en": "The reports that describe the dam come from early narrators, and the commentators present them as reports. At-Tabari carries one from al-Mughira ibn Hakim: when Bilqis came to rule, her people were fighting over the water of their valley, so she had the valley closed with al-'arim between the two mountains. She gave it gates one above another, and below it a great pool with twelve outlets, one for each of their channels, and shared the water out among them. Qatada, in at-Tabari, says only that they closed the gap between the mountains with pitch and stone and set gates in it.",
+            "bn": "বাঁধের বিবরণ যেসব বর্ণনায় আছে, সেগুলো প্রথম যুগের বর্ণনাকারীদের কথা, আর তাফসীরকারেরাও এগুলোকে বর্ণনা হিসেবেই পেশ করেন। তাবারী মুগীরা ইবন হাকীম থেকে একটি বর্ণনা আনেন। বিলকীস যখন রাজত্বে বসলেন, তাঁর লোকেরা উপত্যকার পানি নিয়ে লড়াই করছিল। তাই তিনি দুই পাহাড়ের মাঝখানে আরিম দিয়ে উপত্যকাটি বন্ধ করিয়ে দিলেন। তাতে একটির উপর আরেকটি দরজা বসালেন। নিচে বানালেন বিশাল এক জলাধার, তাদের নালার সংখ্যা অনুযায়ী তাতে বারোটি মুখ। এভাবে পানি তাদের মধ্যে ভাগ করে দিতেন। তাবারীর বর্ণনায় কাতাদা শুধু এটুকু বলেন: তারা আলকাতরা আর পাথর দিয়ে দুই পাহাড়ের ফাঁক বন্ধ করে তাতে দরজা বসিয়েছিল।"
+          },
+          {
+            "en": "Al-Baghawi names Bilqis as the builder on the authority of Ibn Abbas, Wahb and others, and describes three gates: they drew water from the highest, then the second, then the lowest, and it lasted until the next year's water returned. Al-Qurtubi has the three gates from Qatada, and brings the attribution to Bilqis with 'it is narrated'. Ibn Kathir, in the abridged English, speaks only of their ancient kings. The verse names none of this. It says that a flood was sent, and leaves the stones, the gates and the builder to those who reported them.",
+            "bn": "বাগাভী ইবন আব্বাস (রাঃ), ওয়াহব ও অন্যদের সূত্রে বিলকীসকেই নির্মাতা বলেন, আর তিনটি দরজার বিবরণ দেন। লোকেরা প্রথমে সবচেয়ে উঁচু দরজা থেকে পানি নিত, তারপর দ্বিতীয়টি থেকে, তারপর সবচেয়ে নিচেরটি থেকে। পরের বছর নতুন পানি আসা পর্যন্ত তা ফুরাত না। কুরতুবী তিন দরজার কথা আনেন কাতাদা থেকে, আর বিলকীসের নির্মাণের কথা আনেন 'বর্ণিত আছে' বলে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে শুধু তাদের প্রাচীন রাজাদের কথা আছে। আয়াত এর কোনোটিই উল্লেখ করে না। সে শুধু বলে বন্যা পাঠানো হয়েছিল। পাথর, দরজা আর নির্মাতার বিবরণ সে ছেড়ে দেয় বর্ণনাকারীদের হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cats at Every Crack",
+          "bn": "প্রতিটি ফাটলে বিড়াল"
+        },
+        "p": [
+          {
+            "en": "How the dam failed is also reported. At-Tabari, al-Qurtubi and al-Baghawi carry Wahb ibn Munabbih's account with his framing: the people claimed to find in their lore and soothsaying that a mouse would ruin their dam, so they tied a cat beside every gap between two stones. When the time came, a red mouse, as they relate, fought one cat until it drew back, slipped into the gap and burrowed until the dam was weakened, while they knew nothing. Qatada, in at-Tabari, calls it a rat named al-khuld that bored the dam from beneath. In the texts fetched, none of it reaches the Prophet ﷺ.",
+            "bn": "বাঁধ কীভাবে ভাঙল, সেটাও বর্ণনার বিষয়। তাবারী, কুরতুবী ও বাগাভী তিনজনই ওয়াহব ইবন মুনাব্বিহের বর্ণনা আনেন, আর তাঁর কথার কাঠামোও রেখে দেন। লোকেরা দাবি করত, তাদের বিদ্যা আর গণকদের কথায় তারা পেয়েছে যে একটা ইঁদুর তাদের বাঁধ ধ্বংস করবে। তাই দুই পাথরের মাঝের প্রতিটি ফাঁকের পাশে তারা একটা করে বিড়াল বেঁধে রাখল। সময় এলে, তারা যেমন বর্ণনা করে, এক লাল ইঁদুর একটা বিড়ালের সঙ্গে লড়ে তাকে পিছু হটিয়ে দিল। তারপর ফাঁকে ঢুকে খুঁড়তে খুঁড়তে বাঁধ দুর্বল করে ফেলল, অথচ তারা কিছুই টের পেল না। তাবারীর বর্ণনায় কাতাদা বলেন, খুলদ নামের এক ইঁদুর নিচ থেকে বাঁধ ফুটো করেছিল। সংগৃহীত তাফসীরগুলোর কোথাও এসব খুঁটিনাটি নবী ﷺ পর্যন্ত পৌঁছায় না।"
+          },
+          {
+            "en": "At-Tabari then records a difference over what the breach did. One group, Wahb, Qatada and ad-Dahhak among them, say the water burst out over the gardens and drowned them. In a report from Ibn Abbas, a creature of the earth bored a hole and the water ran off to a place other than the one they used, so the gardens dried. At-Tabari prefers the first as closer to the outward wording: sending the flood upon them means making it flow over them or their land, not turning it away. Ibn Kathir's account holds both: the water swept the valley, then drained from the slopes, and the trees withered.",
+            "bn": "এরপর তাবারী একটি মতভেদ লিপিবদ্ধ করেন: ফাটলটা আসলে কী ঘটিয়েছিল? ওয়াহব, কাতাদা, দাহহাকসহ একদল বলেন, পানি উপচে বাগানের উপর পড়ে সব ডুবিয়ে দিয়েছিল। ইবন আব্বাস (রাঃ)-এর এক বর্ণনায় আছে, মাটির এক প্রাণী বাঁধে ফুটো করেছিল, ফলে পানি তাদের কাজে লাগার জায়গা ছেড়ে অন্য দিকে বয়ে গেল, আর বাগান শুকিয়ে গেল। তাবারী প্রথম মতটিকে আয়াতের বাহ্যিক শব্দের বেশি কাছের বলে পছন্দ করেন। তাদের উপর বন্যা পাঠানোর মানে পানি তাদের বা তাদের জমির উপর বইয়ে দেওয়া, তাদের থেকে সরিয়ে নেওয়া নয়। ইবন কাসীরের বর্ণনায় দুটোই আছে: পানি উপত্যকা ভাসিয়ে নিল, তারপর ঢাল থেকে সরে গেল, আর সেখানকার গাছ শুকিয়ে মরল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arak, Tamarisk and Wild Lote",
+          "bn": "আরাক, ঝাউ আর বুনো কুল"
+        },
+        "p": [
+          {
+            "en": "Then the exchange: and We replaced their two gardens with two gardens dhawatay ukulin khamt, bearing the fruit of khamt. Most of the named authorities make khamt the arak tree. At-Tabari reports it from Ibn Abbas, al-Hasan, Mujahid, Qatada, ad-Dahhak and Ibn Zayd, and Qatada adds that its fruit is called barir; al-Baghawi calls this the view of most commentators. Others define it by taste. Az-Zajjaj and al-Mubarrad, in al-Baghawi, call khamt any plant so bitter it cannot be eaten; Abu 'Ubayda, in al-Qurtubi, any thorny tree with bitterness in it. The Muyassar says simply: bitter fruit, foul to the taste.",
+            "bn": "তারপর বদলের কথা: আমি তাদের দুই বাগানের বদলে দিলাম এমন দুই বাগান, যাতে আছে 'উকুলিন খামত', খামতের ফল। নাম উল্লেখ করা অধিকাংশ আলেমের মতে খামত হলো আরাক গাছ। তাবারী এ মত আনেন ইবন আব্বাস (রাঃ), হাসান, মুজাহিদ, কাতাদা, দাহহাক ও ইবন যায়দ থেকে। কাতাদা যোগ করেন, এর ফলকে বলা হয় বারীর। বাগাভী একে অধিকাংশ তাফসীরকারের মত বলেন। কেউ কেউ আবার সংজ্ঞা দেন স্বাদ দিয়ে। বাগাভীর বর্ণনায় যাজ্জাজ ও মুবাররাদ বলেন, যে উদ্ভিদ এত তেতো যে খাওয়া যায় না, তাই খামত। কুরতুবীর বর্ণনায় আবু উবাইদা বলেন, তেতো স্বাদের যেকোনো কাঁটাওয়ালা গাছ। মুয়াসসার সোজা বলে দেয়: তেতো ফল, খেতে বিস্বাদ।"
+          },
+          {
+            "en": "Athl is tamarisk, as Ibn Abbas said in at-Tabari, or a tree like tamarisk but larger, or, it was said, samur; the Muyassar adds that it bears no fruit. Then wa-shay'in min sidrin qalil: and something of a little lote. Al-Qurtubi relays from al-Azhari that lote is of two kinds: a useless wild one with inedible fruit, and one by water that bears nabq. Al-Baghawi says the lote here was the wild kind. Ibn Kathir explains the 'little': lote was the best of the replacement trees, so only a little of it was left. Al-Qurtubi allows that 'little' may cover the whole list.",
+            "bn": "'আসল' শব্দের অর্থ ঝাউগাছ, তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ) এমনই বলেছেন। কারও মতে ঝাউয়ের মতো তবে তার চেয়ে বড় এক গাছ, আবার কারও মতে সামুর গাছ। মুয়াসসার যোগ করে, এতে কোনো ফল ধরে না। তারপর 'ওয়া শাইয়িম মিন সিদরিন কালীল': আর অল্প কিছু কুলগাছ। কুরতুবী আযহারী থেকে আনেন, কুলগাছ দুই রকম। একটা বুনো, কোনো কাজে আসে না, ফলও খাওয়া যায় না। আরেকটা জন্মায় পানির ধারে, তার ফলকে বলে নাবক। বাগাভী বলেন, এখানকার কুলগাছ ছিল বুনো জাতের। 'অল্প' শব্দের ব্যাখ্যা দেন ইবন কাসীর: বদলে পাওয়া গাছগুলোর মধ্যে কুলই ছিল সবচেয়ে ভালো, তাই তা রইল অল্পই। কুরতুবী সম্ভাবনা রাখেন যে 'অল্প' কথাটা গোটা তালিকার উপরই খাটে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gardens Only by Contrast",
+          "bn": "নামে বাগান, কাজে নয়"
+        },
+        "p": [
+          {
+            "en": "Why call these thickets gardens at all? Al-Qurtubi relays al-Qushayri: the trees of the open country are not called a jannah, a garden or orchard, but because the second stands opposite the first, the word is used of it, as in the verse, and the recompense of an evil is an evil like it (42:40). The second pair exists only as the shadow of the first. Qatada, in at-Tabari and al-Qurtubi, put the reversal in one line: the people's trees were among the best of trees, and Allah made them among the worst, because of their deeds.",
+            "bn": "এই ঝোপঝাড়কে বাগান বলা হলো কেন? কুরতুবী কুশাইরীর কথা আনেন। মরু-প্রান্তরের গাছপালাকে জান্নাত বা বাগান বলা হয় না। কিন্তু দ্বিতীয়টি প্রথমটির মুখোমুখি দাঁড়িয়েছে বলেই তার বেলায় একই শব্দ এসেছে। যেমন অন্য আয়াতে আছে, মন্দের প্রতিফল তারই মতো মন্দ (৪২:৪০)। দ্বিতীয় জোড়া বাগান তাই কেবল প্রথম জোড়ার ছায়া। কাতাদা, যাঁর কথা তাবারী ও কুরতুবী দুজনেই এনেছেন, উল্টে যাওয়াটা এক বাক্যে বলে দেন: লোকদের গাছ ছিল সেরা গাছের মধ্যে, আর তাদের আমলের কারণে আল্লাহ সেগুলোকে বানিয়ে দিলেন নিকৃষ্ট গাছ।"
+          },
+          {
+            "en": "As-Sa'di sees a closer fit still. Allah, he writes, punished them through the very blessing that had made them overstep, and wiped it out over them; the ukul left to them was a little food that did them no good. He ends: this is of the same kind as their deed. Ma'arif al-Qur'an makes the same point about the dam: the flood is tied to al-'arim because the thing that had been their security and prosperity was turned into their calamity. The next verse then names the reason plainly: that was how We repaid them, because they disbelieved (34:17).",
+            "bn": "সা'দী আরও নিবিড় একটা মিল দেখেন। তিনি লেখেন, যে নিয়ামত তাদের সীমালঙ্ঘনে ঠেলে দিয়েছিল, আল্লাহ সেই নিয়ামতের মধ্য দিয়েই তাদের শাস্তি দিলেন, আর তা তাদের উপর থেকে মুছে দিলেন। তাদের জন্য যে ফল বাকি রইল, তা সামান্য খাবার, কোনো কাজে আসে না। তাঁর শেষ কথা: এ তাদের কাজেরই জাতের প্রতিফল। মাআরিফুল কুরআন বাঁধ নিয়েও একই কথা বলে। বন্যাকে আরিমের নামে ডাকা হয়েছে, কারণ যে জিনিস ছিল তাদের নিরাপত্তা আর সমৃদ্ধির উৎস, তাকেই তাদের বিপদে পরিণত করা হলো। পরের আয়াত কারণটা সোজাসুজি বলে দেয়: তাদের কুফরির কারণে আমি তাদের এই প্রতিফল দিলাম (৩৪:১৭)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither a Land nor a Woman",
+          "bn": "দেশও নয়, নারীও নয়"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to the flood or the trees. The one prophetic narration Ibn Kathir brings concerns who Saba' was, and belongs to the passage, not to this verse. At-Tirmidhi records from Farwah ibn Musayk al-Muradi that when what was revealed about Saba' was revealed, a man asked: O Messenger of Allah, what is Saba', a land or a woman? He ﷺ said: 'It is neither a land nor a woman, but it is a man who had ten sons among the Arabs. Six of them went south and four of them went north.'",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর বন্যা বা গাছপালার প্রসঙ্গে কোনো সহীহ হাদীস আনেনি। ইবন কাসীর এ অংশের জন্য নবী ﷺ-এর যে একটি বর্ণনা আনেন, তা সাবা কে ছিল সে সম্পর্কে। তাই এটি গোটা অংশের সঙ্গে যুক্ত, বিশেষভাবে এ আয়াতের সঙ্গে নয়। তিরমিযী ফারওয়া ইবন মুসাইক আল-মুরাদী (রাঃ) থেকে বর্ণনা করেন: সাবা সম্পর্কে যা নাযিল হওয়ার তা নাযিল হলে এক ব্যক্তি জিজ্ঞেস করল, হে আল্লাহর রাসূল, সাবা কী, কোনো দেশ, নাকি কোনো নারী? তিনি ﷺ বললেন: 'সে দেশও নয়, নারীও নয়। সে ছিল আরবের এক পুরুষ, যার দশটি সন্তান হয়েছিল। তাদের ৬ জন দক্ষিণে গেল, ৪ জন উত্তরে।'"
+          },
+          {
+            "en": "The answer goes on: 'As for those who went north, they are Lakhm, Judham, Ghassan and 'Amilah. As for those who went south, they are Azd, al-Ash'ariyun, Himyar, Madhhij, Anmar and Kindah.' At-Tirmidhi grades the hadith hasan gharib. Ibn Kathir explains that the ten were of Saba''s line, not all sons of his own body, with generations between some of them, and he ties the six and the four to what followed the flood: some stayed in their homeland and others left for other lands.",
+            "bn": "জবাব চলতে থাকে: 'যারা উত্তরে গেল, তারা লাখম, জুযাম, গাসসান ও আমিলা। আর যারা দক্ষিণে গেল, তারা আযদ, আশআরীগণ, হিমইয়ার, মাযহিজ, আনমার ও কিন্দা।' তিরমিযী হাদীসটিকে হাসান গরীব বলেছেন। ইবন কাসীর ব্যাখ্যা করেন, এই ১০ জন সাবার বংশধারার মানুষ, সবাই তার ঔরসজাত সন্তান নয়। কারও কারও সঙ্গে তার মাঝে কয়েক প্রজন্মের ব্যবধান। ৬ আর ৪-এর এই ভাগকে তিনি বন্যার পরের ঘটনার সঙ্গে মেলান: কেউ কেউ নিজ দেশে থেকে গেল, আর অন্যরা চলে গেল অন্য দেশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saba's Heirs Are Not Accused",
+          "bn": "সাবার বংশধরেরা অভিযুক্ত নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: one people, in one land, in an age long past, who were given gardens and told to give thanks, and who turned away. It licenses nothing against any living person or community. It is no verdict on anyone living in that land today, and no warrant to call any tribe or nation cursed. The commentators point the other way. Ibn Kathir records that the Ansar of Madinah, both Aws and Khazraj, were from Ghassan, of the Arabs of Saba' who settled in Yathrib after the dispersal; al-Qurtubi mentions the same view with 'it is said'.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে, যা সে বর্ণনা করে। বহু আগের এক যুগে, এক দেশে, এক জাতি, যাদের বাগান দেওয়া হয়েছিল, শোকর করতে বলা হয়েছিল, আর তারা মুখ ফিরিয়ে নিয়েছিল। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ যারা ওই দেশে বাস করে, তাদের উপর এ কোনো রায় নয়। কোনো গোত্র বা জাতিকে অভিশপ্ত বলার সনদও নয়। তাফসীরকারেরা বরং উল্টো দিকেই ইঙ্গিত করেন। ইবন কাসীর লেখেন, মদীনার আনসার, আওস ও খাযরাজ দুই গোত্রই, ছিলেন গাসসানের লোক, সাবার সেই আরবদের অংশ, যারা ছড়িয়ে পড়ার পর ইয়াসরিবে বসতি গড়েছিলেন। কুরতুবীও 'বলা হয়' বলে একই মত উল্লেখ করেন।"
+          },
+          {
+            "en": "So among the descendants of the scattered were the very Helpers of the Prophet ﷺ. The story is addressed to the reader, not to anyone's lineage. The passage closes its account by saying that in this are signs for everyone patient and grateful (34:19), and the preceding verse had already set the measure: eat from your Lord's provision and be grateful to Him. The question the verse leaves is not who Saba' were, but what I do with the gardens on my own right and left, and whether my thanks reaches past the tongue into the way I use them.",
+            "bn": "অর্থাৎ ছড়িয়ে পড়া সেই মানুষদের বংশধরদের মধ্যেই ছিলেন নবী ﷺ-এর আনসার, তাঁর সাহায্যকারীরা। কাহিনিটা পাঠকের উদ্দেশে, কোনো জাতির বংশপরিচয়ের বিরুদ্ধে নয়। এ অংশ তার বর্ণনা শেষ করে এই বলে যে, এতে প্রত্যেক ধৈর্যশীল ও কৃতজ্ঞ মানুষের জন্য নিদর্শন আছে (৩৪:১৯)। আর এর আগের আয়াতই মাপকাঠি ঠিক করে দিয়েছিল: রবের রিযক খাও, তাঁর শোকর আদায় করো। আয়াতটি যে প্রশ্ন রেখে যায় তা এই নয় যে সাবা কারা ছিল। প্রশ্নটা হলো, আমার নিজের ডানে-বামে যে বাগান, তা নিয়ে আমি কী করছি। আমার শোকর কি মুখ পেরিয়ে সেই বাগান ব্যবহারের ধরনেও পৌঁছায়?"
+          }
+        ]
+      }
+    ]
+  },
   "34:21": {
     "sections": [
       {
