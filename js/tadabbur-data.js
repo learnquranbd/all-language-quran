@@ -23871,6 +23871,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The truth does not bend to anyone's desires, and the world holds because it does not; bend your wishes to it, and take the Qur'an as the honour it is.",
     "lessonBn": "সত্য কারও ইচ্ছার কাছে নোয়ায় না, আর নোয়ায় না বলেই পৃথিবী টিকে আছে। তাই নিজের চাওয়াকে সত্যের দিকে নোয়ান, আর কুরআনকে গ্রহণ করুন সেই সম্মান হিসেবে, যা সে সত্যিই।"
+  },
+  "23:11": {
+    "reflectionEn": "The surah opened with a verdict: the believers have succeeded. Then it listed them: humble in prayer, turning from idle talk, giving zakah, guarding their chastity, keeping trusts and promises, minding their prayers. Now it names the prize, and it names it as an inheritance. An heir does not buy what comes to him; it reaches him because of who he is to the one who left it. So the verse does not hand Firdaus to a name, a family or a group. It hands it to a description, and then promises that those who fit it will stay there for ever. The question it leaves is not whether I belong to the right people. It is whether the description fits me.",
+    "reflectionBn": "সূরাটি শুরু হয়েছিল এক রায় দিয়ে: মুমিনরা সফল হয়ে গেছে। তারপর এসেছে তাদের পরিচয়ের তালিকা। তারা নামাযে বিনয়ী, অনর্থক কথা থেকে দূরে থাকে, যাকাত দেয়, লজ্জাস্থান হেফাজত করে, আমানত আর ওয়াদা রক্ষা করে, নামাযের ব্যাপারে যত্নবান থাকে। এবার আয়াতটি পুরস্কারের নাম বলছে, আর বলছে উত্তরাধিকার হিসেবে। ওয়ারিস যা পায় তা কিনে পায় না। পায় মৃত ব্যক্তির সঙ্গে তার সম্পর্কের কারণে। তাই আয়াতটি ফিরদাউস কোনো নাম, বংশ বা দলের হাতে তুলে দেয় না। তুলে দেয় কিছু গুণের হাতে, আর কথা দেয়, যাদের মধ্যে সে গুণ আছে তারা সেখানে চিরকাল থাকবে। প্রশ্নটা তাই এই নয় যে আমি ঠিক দলের লোক কি না। প্রশ্ন হলো, এ বর্ণনা আমার সঙ্গে মেলে কি না।",
+    "pointsEn": [
+      "Of the qualities listed before this verse, which one would I least like to be measured by today?",
+      "Do I count on belonging to the right people for my place in the Garden, or on becoming the kind of person the verses describe?",
+      "When I ask Allah for Paradise, do I ask for its highest part, or have I settled for asking small?",
+      "What in my week is built only for a life that ends, and what is being built for a home I will never have to leave?",
+      "If everyone has a place prepared in the Garden, what am I doing to keep mine rather than leave it to someone else?"
+    ],
+    "pointsBn": [
+      "এ আয়াতের আগের গুণগুলোর মধ্যে কোনটি দিয়ে আজ আমাকে মাপা হলে আমি সবচেয়ে অস্বস্তিতে পড়ব?",
+      "জান্নাতে নিজের জায়গার জন্য আমি কি ঠিক দলের লোক হওয়ার উপর ভরসা করি, নাকি আয়াতগুলো যে মানুষের ছবি আঁকে তেমন মানুষ হয়ে ওঠার উপর?",
+      "আল্লাহর কাছে জান্নাত চাওয়ার সময় আমি কি তার সবচেয়ে উঁচু অংশটা চাই, নাকি অল্পতেই চাওয়া থামিয়ে দিই?",
+      "আমার এ সপ্তাহের কোন কাজ শুধু ফুরিয়ে যাওয়া জীবনের জন্য, আর কোনটা এমন ঘরের জন্য যেখান থেকে কখনো সরতে হবে না?",
+      "জান্নাতে যদি প্রত্যেকের জন্য একটি জায়গা তৈরি থাকে, তবে নিজেরটা ধরে রাখতে, অন্যের হাতে ছেড়ে না দিতে, আমি কী করছি?"
+    ],
+    "lessonEn": "Firdaus is promised to a description, not to a name. Grow into the qualities the verses list, and ask Allah for the highest Garden.",
+    "lessonBn": "ফিরদাউসের প্রতিশ্রুতি কোনো নামের জন্য নয়, কিছু গুণের জন্য। আয়াতগুলোতে বলা গুণগুলো নিজের মধ্যে গড়ে তুলুন, আর আল্লাহর কাছে সবচেয়ে উঁচু জান্নাত চান।"
   }
 };
 

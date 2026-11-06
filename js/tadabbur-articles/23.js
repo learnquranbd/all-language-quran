@@ -291,6 +291,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "Naming What the Heirs Receive",
+          "bn": "উত্তরাধিকারীরা কী পাবে"
+        },
+        "p": [
+          {
+            "en": "The verse before this one is three Arabic words: ula'ika humu l-warithun, those are the inheritors (23:10). It names the heirs and leaves the estate unsaid. This verse supplies it, al-ladhina yarithuna l-firdawsa, who will inherit al-Firdaws, and seals it with hum fiha khalidun, they will abide in it for ever. Ibn Kathir reads the two as one sentence: once Allah had described them by these praiseworthy qualities and sound deeds, He said: those are the inheritors who will inherit al-Firdaws.",
+            "bn": "এর আগের আয়াতটি আরবিতে মাত্র তিনটি শব্দ: উলাইকা হুমুল ওয়ারিসূন, তারাই উত্তরাধিকারী (২৩:১০)। উত্তরাধিকারীদের নাম বলা হলো, কিন্তু তারা কী পাবে তা বলা হয়নি। এ আয়াত সেটা জানিয়ে দেয়: আল্লাযীনা ইয়ারিসূনাল ফিরদাউস, যারা ফিরদাউসের উত্তরাধিকারী হবে। তারপর হুম ফীহা খালিদূন, তারা সেখানে চিরকাল থাকবে, বলে কথাটি শেষ করে। ইবন কাসীর দুই আয়াতকে একটি বাক্য হিসেবে পড়েন। তাঁর ভাষায়, এসব প্রশংসনীয় গুণ আর সঠিক কাজের বর্ণনা দেওয়ার পর আল্লাহ বললেন: তারাই উত্তরাধিকারী, যারা ফিরদাউসের উত্তরাধিকারী হবে।"
+          },
+          {
+            "en": "So this verse closes a passage, and the qualities matter here only as the description that earns the estate. Ma'arif al-Qur'an, treating 23:10 and 23:11 together, notes the frame they close. The people of these qualities were first called successful, in 23:1, and only now are they told that they will inherit Paradise. This indicates, it says, that complete success is reached only in Paradise.",
+            "bn": "তাই এ আয়াত এক অনুচ্ছেদের শেষ, নতুন কোনো শুরু নয়। গুণগুলোর গুরুত্ব এখানে কেবল এটুকু যে এ বর্ণনাই উত্তরাধিকারের যোগ্যতা। মাআরিফুল কুরআন ২৩:১০ ও ২৩:১১ একসঙ্গে আলোচনা করে এই কাঠামোর দিকে দৃষ্টি দেয়। এসব গুণের মানুষকে প্রথমে সফল বলা হয়েছিল ২৩:১ আয়াতে, আর এখন এসে তাদের বলা হলো যে তারা জান্নাতের উত্তরাধিকারী হবে। মাআরিফুল কুরআনের মতে এ থেকে বোঝা যায়, পূর্ণ সফলতা মেলে কেবল জান্নাতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Word Is Inherit",
+          "bn": "উত্তরাধিকার শব্দটি কেন"
+        },
+        "p": [
+          {
+            "en": "Why should a reward be called an inheritance? At-Tabari answers on 23:10: those whose qualities in this world were just described inherit, on the Day of Resurrection, the dwellings in the Garden that were meant for the people of the Fire. A report from the Messenger of Allah ﷺ says the same, he adds, and so the interpreters explained it. Al-Qurtubi's first reading agrees: whoever acts on what these verses mention inherits those dwellings.",
+            "bn": "পুরস্কারকে উত্তরাধিকার বলা হলো কেন? তাবারী ২৩:১০ আয়াতেই জবাব দেন। দুনিয়াতে যাদের গুণের বর্ণনা এইমাত্র দেওয়া হলো, কিয়ামতের দিন তারাই জান্নাতে জাহান্নামবাসীদের জন্য রাখা ঘরগুলোর উত্তরাধিকারী হবে। তিনি যোগ করেন, রাসূলুল্লাহ ﷺ থেকেও এ কথা বর্ণিত হয়েছে, আর তাফসীরবিদরাও এভাবেই ব্যাখ্যা করেছেন। কুরতুবীর প্রথম ব্যাখ্যাও একই: এ আয়াতগুলোতে যা বলা হয়েছে, যে তার উপর আমল করবে, সে ওই ঘরগুলোর উত্তরাধিকারী হবে।"
+          },
+          {
+            "en": "Al-Qurtubi then opens a second possibility. Gaining the Garden may be called inheritance simply because it comes to them and not to others, the way an estate passes to its heirs alone. On either reading, he says, the word is borrowed, a term carried over from the law of estates. Ma'arif al-Qur'an draws a different point from the same image: as the property of someone who has died must pass to his heirs, so those who have these qualities will, without doubt, enter Paradise. The word, on that reading, carries certainty.",
+            "bn": "এরপর কুরতুবী দ্বিতীয় একটি সম্ভাবনার কথা বলেন। জান্নাত পাওয়াকে উত্তরাধিকার বলা হতে পারে শুধু এ কারণে যে তা তাদের কাছেই আসে, অন্যদের কাছে নয়। যেমন মীরাস কেবল ওয়ারিসদের হাতেই যায়। তাঁর মতে দুই ব্যাখ্যাতেই শব্দটি ধার করা, মীরাসের বিধান থেকে এনে এখানে বসানো। মাআরিফুল কুরআন একই উপমা থেকে অন্য একটি কথা বের করে। মৃত ব্যক্তির সম্পদ যেমন অবশ্যই তার ওয়ারিসদের কাছে যায়, তেমনি এসব গুণের অধিকারীরা নিঃসন্দেহে জান্নাতে প্রবেশ করবে। এ ব্যাখ্যায় শব্দটির ভেতরে আছে নিশ্চয়তা।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside two others that use the same verb for the Garden: 19:63, that is the Garden which We give as an inheritance to those of Our servants who were mindful; and 43:72, that is the Garden you have been given to inherit for what you used to do. At-Tabari's report from Ibn Jurayj joins them too: al-warithun here and the Garden of those verses, he says, are all one.",
+            "bn": "ইবন কাসীর আয়াতটিকে আরও দুটি আয়াতের পাশে রাখেন, যেখানে জান্নাতের জন্য একই ক্রিয়া এসেছে। প্রথমটি ১৯:৬৩: এ সেই জান্নাত, যার উত্তরাধিকারী আমি করি আমার বান্দাদের মধ্যে যারা মুত্তাকী। অন্যটি ৪৩:৭২: এ সেই জান্নাত, তোমাদের কাজের বিনিময়ে যার উত্তরাধিকারী তোমাদের করা হয়েছে। ইবন জুরাইজ থেকে তাবারীর বর্ণনাও এগুলোকে এক সুতোয় বাঁধে। তাঁর কথায়, এখানকার আল-ওয়ারিসূন আর ওই আয়াতগুলোর জান্নাত, সবই এক কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Place Kept for Everyone",
+          "bn": "প্রত্যেকের জন্য রাখা ঘর"
+        },
+        "p": [
+          {
+            "en": "The report at-Tabari cites is in the Sunan of Ibn Majah (4341), from Abu Hurayrah (RA), that the Messenger of Allah ﷺ said: \"There is no one among you who does not have two abodes: an abode in Paradise and an abode in Hell. If he dies and enters Hell, the people of Paradise inherit his abode. This is what Allah says: 'These are indeed the inheritors.'\" At-Tabari narrates it with the same chain through Abu Mu'awiyah, al-A'mash and Abu Salih, and Ibn Kathir quotes it through Ibn Abi Hatim, also by that route.",
+            "bn": "তাবারী যে বর্ণনা উল্লেখ করেছেন, তা আছে ইবন মাজাহর সুনানে (৪৩৪১)। আবু হুরায়রা (রাঃ) বলেন, রাসূলুল্লাহ ﷺ বলেছেন: \"তোমাদের প্রত্যেকের জন্য দুটি ঘর আছে, একটি জান্নাতে আর একটি জাহান্নামে। কেউ মারা গিয়ে জাহান্নামে গেলে জান্নাতবাসীরা তার ঘরের উত্তরাধিকারী হয়। এটাই আল্লাহর এই বাণী: তারাই উত্তরাধিকারী।\" তাবারী একই সনদে, আবু মুআবিয়া, আমাশ ও আবু সালিহের সূত্রে, এটি বর্ণনা করেছেন। ইবন কাসীরও ইবন আবী হাতিমের মাধ্যমে একই পথে বর্ণনাটি উদ্ধৃত করেন।"
+          },
+          {
+            "en": "On grading, the page of Ibn Majah consulted for this article shows no grading, and Ibn Majah attaches none of his own. Al-Qurtubi, quoting the wording, adds his own verdict: its chain is sound. At-Tabari also gives Abu Hurayrah's own words on the verse: they inherit their own dwellings, and the dwellings that had been prepared for their brothers, had those brothers obeyed Allah.",
+            "bn": "সনদের মান নিয়ে বলতে হয়, এ প্রবন্ধের জন্য ইবন মাজাহর যে পৃষ্ঠা দেখা হয়েছে, তাতে কোনো মান উল্লেখ নেই। ইবন মাজাহ নিজেও কোনো মান দেননি। কুরতুবী বর্ণনাটি উদ্ধৃত করে নিজের মত যোগ করেন: এর সনদ সহীহ। তাবারী আয়াতটি নিয়ে আবু হুরায়রার (রাঃ) নিজের কথাও আনেন: তারা নিজেদের ঘর পাবে, আর পাবে তাদের সেই ভাইদের ঘর, যারা আল্লাহর আনুগত্য করলে ঘরগুলো তাদেরই হতো।"
+          },
+          {
+            "en": "Mujahid, in at-Tabari and Ibn Kathir, puts the picture as building: every servant has two houses; the believer's house in the Garden is built and his house in the Fire is torn down, and for the disbeliever it is the reverse. Ibn Kathir adds the reasoning. All of them were created to worship Allah. When the believers did what was required of them and the others abandoned what they were created for, the believers secured the share the others would have had, had they obeyed their Lord.",
+            "bn": "তাবারী ও ইবন কাসীরে মুজাহিদ ছবিটা আঁকেন ঘর তৈরির ভাষায়। প্রত্যেক বান্দার দুটি ঘর। মুমিনের জান্নাতের ঘরটি গড়ে ওঠে, আর জাহান্নামের ঘরটি ভেঙে দেওয়া হয়। কাফিরের বেলায় ঠিক উল্টো। ইবন কাসীর এর কারণও বলেন। সবাইকে সৃষ্টি করা হয়েছিল আল্লাহর ইবাদতের জন্য। মুমিনরা তাদের উপর যা ফরজ ছিল তা পালন করল, আর অন্যরা যে কাজের জন্য সৃষ্টি হয়েছিল তা ছেড়ে দিল। ফলে তারা রবের আনুগত্য করলে যে অংশ পেত, মুমিনরা সেটাও নিজেদের করে নিল।"
+          },
+          {
+            "en": "This needs saying plainly. The hadith describes what happens after death to whoever enters the Fire, and only Allah knows who that is. It licenses no one to point at a living person or community and call their place forfeit, or to count himself an heir already. In this report every soul has a place in the Garden prepared for it; the verse tells the reader how it is kept: by the qualities just listed, held until death.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। হাদীসটি বলছে, মৃত্যুর পর যে জাহান্নামে যাবে তার কী হবে। সে কে, তা কেবল আল্লাহই জানেন। কোনো জীবিত মানুষ বা সম্প্রদায়ের দিকে আঙুল তুলে তাদের ঘর হাতছাড়া হয়ে গেছে বলার অনুমতি এ বর্ণনা কাউকে দেয় না। নিজেকে আগেভাগে উত্তরাধিকারী ভেবে বসারও অনুমতি দেয় না। এ বর্ণনায় প্রত্যেক মানুষের জন্যই জান্নাতে একটি ঘর তৈরি আছে। সে ঘর কীভাবে ধরে রাখতে হয়, আয়াত তা বলে দেয়: এইমাত্র বলা গুণগুলো দিয়ে, মৃত্যু পর্যন্ত সেগুলো আঁকড়ে থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Garden Full of Vines",
+          "bn": "আঙুরলতায় ভরা বাগান"
+        },
+        "p": [
+          {
+            "en": "The noun al-firdaws appears twice in the Qur'an, here and in 18:107, where the gardens of al-Firdaws are the lodging of those who believe and do righteous deeds. At-Tabari glosses it as the garden with vines, al-bustan dha l-karm, and says that is what firdaws means among the Arabs. Then he reports that Mujahid used to say it is Roman, and gives his chain to Mujahid: al-firdaws is a garden, in the Roman tongue. At-Tabari thus gives both: the Arabs' own usage, and Mujahid's view that the word came from Roman speech.",
+            "bn": "আল-ফিরদাউস শব্দটি কুরআনে এসেছে দুবার। একবার এখানে, আরেকবার ১৮:১০৭ আয়াতে, যেখানে ঈমান এনে সৎকাজ করা মানুষের আপ্যায়নের জায়গা ফিরদাউসের বাগানগুলো। তাবারী এর অর্থ করেন আঙুরলতাওয়ালা বাগান, আল-বুসতান যাল-কারম। তিনি বলেন, আরবদের কাছে ফিরদাউস বলতে এটাই বোঝায়। তারপর তিনি জানান, মুজাহিদ বলতেন শব্দটি রোমান। নিজের সনদে মুজাহিদের কথাটি তিনি উদ্ধৃত করেন: ফিরদাউস মানে বাগান, রোমান ভাষায়। তাবারী তাই দুটোই আনেন: আরবদের নিজেদের ব্যবহার, আর মুজাহিদের মত যে শব্দটি রোমান ভাষা থেকে এসেছে।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the dispute over its origin and leaves it open. Mujahid says it is a Roman word taken into Arabic; others say Persian, others Abyssinian, and if that is established, he says, it is a case of languages agreeing. Ad-Dahhak holds that it is Arabic and means vines, since the Arabs call vineyards faradis. Ibn Kathir reports Mujahid and Sa'id ibn Jubayr saying that firdaws is the Roman word for the Garden, and some early scholars that an orchard is called firdaws only if it has grapes. He ends: and Allah knows best.",
+            "bn": "শব্দটির উৎস নিয়ে মতভেদ কুরতুবী সাজিয়ে বলেন, কোনো পক্ষ নেন না। মুজাহিদের মতে এটি রোমান শব্দ, আরবিতে এসে মিশেছে। কারও মতে ফারসি, কারও মতে হাবশি। তিনি বলেন, তা প্রমাণিত হলে এটি ভাষায় ভাষায় মিলে যাওয়ার দৃষ্টান্ত। দাহহাকের মতে শব্দটি আরবি, এর অর্থ আঙুরলতা, কারণ আরবরা আঙুরবাগানকে ফারাদীস বলে। ইবন কাসীর মুজাহিদ ও সাঈদ ইবন জুবাইরের কথা আনেন: রোমান ভাষায় জান্নাতকে বলা হয় ফিরদাউস। কয়েকজন পূর্বসূরির কথাও আনেন: আঙুর না থাকলে কোনো বাগানকে ফিরদাউস বলা হয় না। শেষে তিনি বলেন, আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Middle and the Summit",
+          "bn": "মাঝখান আর চূড়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir notes that the two Sahihs carry a hadith telling believers to ask for al-Firdaws. In al-Bukhari's wording (2790), from Abu Hurayrah (RA), the Prophet ﷺ first said that whoever believes in Allah and His Messenger, establishes the prayer and fasts Ramadan has a right upon Allah to be admitted to the Garden, whether he strives in Allah's path or stays in the land where he was born. Asked whether they should spread this good news, he said:",
+            "bn": "ইবন কাসীর জানান, দুই সহীহ গ্রন্থে, অর্থাৎ বুখারী ও মুসলিমে, এমন হাদীস আছে যেখানে মুমিনদের ফিরদাউস চাইতে বলা হয়েছে। বুখারীর বর্ণনায় (২৭৯০) আবু হুরায়রা (রাঃ) বলেন, নবী ﷺ প্রথমে বললেন: যে আল্লাহ ও তাঁর রাসূলের উপর ঈমান আনে, নামায কায়েম করে আর রমযানের রোযা রাখে, তাকে জান্নাতে প্রবেশ করানো আল্লাহর দায়িত্ব। সে আল্লাহর পথে জিহাদ করুক, কিংবা নিজের জন্মভূমিতে বসে থাকুক। লোকেরা জানতে চাইল, এ সুসংবাদ কি মানুষকে জানিয়ে দেবে? তখন তিনি বললেন:"
+          },
+          {
+            "en": "\"In the Garden are a hundred levels, which Allah has prepared for those who strive in the path of Allah; between every two levels is the distance between heaven and earth. So when you ask Allah, ask Him for al-Firdaws, for it is the middle of the Garden and the highest of the Garden.\" The narrator then adds that he thinks the Prophet ﷺ also said: above it is the Throne of the Most Merciful, and from it the rivers of the Garden gush forth. Muhammad ibn Fulayh, al-Bukhari notes, gives \"and above it is the Throne of the Most Merciful\" from his father without that doubt.",
+            "bn": "\"জান্নাতে একশোটি স্তর আছে। আল্লাহ সেগুলো তৈরি রেখেছেন তাঁর পথে জিহাদকারীদের জন্য। প্রতি দুই স্তরের মাঝে আসমান আর জমিনের সমান দূরত্ব। কাজেই তোমরা যখন আল্লাহর কাছে চাইবে, তাঁর কাছে ফিরদাউস চাইবে। কারণ তা জান্নাতের মাঝখানে, আর জান্নাতের সবচেয়ে উঁচুতে।\" বর্ণনাকারী এরপর যোগ করেন, তাঁর ধারণা নবী ﷺ এটাও বলেছিলেন: এর উপরে রহমানের আরশ, আর এখান থেকেই জান্নাতের নদীগুলো প্রবাহিত হয়। বুখারী জানান, মুহাম্মাদ ইবন ফুলাইহ তাঁর পিতা থেকে \"এর উপরে রহমানের আরশ\" কথাটি কোনো সংশয় ছাড়াই বর্ণনা করেছেন।"
+          },
+          {
+            "en": "How can one place be both the middle and the top? Al-Qurtubi quotes Ibn Hibban: by the middle he meant that al-Firdaws lies in the centre of the gardens in breadth, and by the highest, that it is the highest in elevation. This, al-Qurtubi says, bears out the saying of Abu Hurayrah that al-Firdaws is the mountain of the Garden, from which its rivers burst. The Muyassar gives the verse in that sense: they inherit the highest dwellings of the Garden and its middle, the finest of them in rank.",
+            "bn": "একই জায়গা কীভাবে মাঝখানেও, আবার সবার উপরেও? কুরতুবী ইবন হিব্বানের ব্যাখ্যা উদ্ধৃত করেন। মাঝখান বলতে বোঝানো হয়েছে, প্রস্থের দিক থেকে ফিরদাউস জান্নাতগুলোর কেন্দ্রে। আর সবচেয়ে উঁচু বলতে বোঝানো হয়েছে উচ্চতার দিক থেকে। কুরতুবী বলেন, এতে আবু হুরায়রার (রাঃ) সেই কথা সমর্থিত হয় যে ফিরদাউস জান্নাতের পাহাড়, যেখান থেকে জান্নাতের নদীগুলো বের হয়। মুয়াসসারও আয়াতটি এ অর্থেই বলে: তারা উত্তরাধিকারী হবে জান্নাতের সবচেয়ে উঁচু আর মাঝখানের ঘরগুলোর, মর্যাদায় যেগুলো সবচেয়ে উত্তম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mother Asks After Badr",
+          "bn": "বদরের পর এক মায়ের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, on this verse, brings a report through Qatadah about Harithah ibn Suraqah, killed at Badr. At-Tirmidhi records it through Anas ibn Malik (RA), in this wording (3174). Ar-Rubayyi' bint an-Nadr came to the Prophet ﷺ; her son Harithah had been struck at Badr by an arrow from an unknown archer. She said: tell me about Harithah. If he has reached good, I will hope for reward and be patient; if not, I will strive in supplication for him.",
+            "bn": "তাবারী এ আয়াতের আলোচনায় কাতাদার সূত্রে হারিসা ইবন সুরাকার একটি ঘটনা আনেন, যিনি বদরে শহীদ হয়েছিলেন। তিরমিযী আনাস ইবন মালিক (রাঃ)-এর সূত্রে ঘটনাটি বর্ণনা করেছেন, এই ভাষায় (৩১৭৪)। রুবাইয়ি বিনতে নাদর নবী ﷺ-এর কাছে এলেন। তাঁর ছেলে হারিসা বদরের দিন অজানা কারও ছোড়া তীরে আঘাতপ্রাপ্ত হয়েছিলেন। তিনি বললেন: আমাকে হারিসার খবর দিন। সে যদি কল্যাণ পেয়ে থাকে, আমি সওয়াবের আশা রেখে সবর করব। আর যদি না পেয়ে থাকে, তার জন্য প্রাণপণে দোয়া করব।"
+          },
+          {
+            "en": "The Prophet ﷺ said: \"O Umm Harithah, they are gardens within a Garden, and your son has reached al-Firdaws al-A'la, and al-Firdaws is the raised ground of the Garden, its middle and its best.\" At-Tirmidhi grades it hasan sahih gharib, from the narration of Anas. Al-Bukhari records the same event through Anas in his own wording (2809), also ending with her son reaching al-Firdaws al-A'la. Al-Qurtubi's definition of the word is taken from this narration.",
+            "bn": "নবী ﷺ বললেন: \"হে উম্মে হারিসা, এ তো জান্নাতের ভেতরে অনেক বাগান। আর তোমার ছেলে পৌঁছে গেছে ফিরদাউসুল আ'লায়। ফিরদাউস হলো জান্নাতের উঁচু ভূমি, তার মাঝখান আর তার সবচেয়ে উত্তম অংশ।\" তিরমিযী এটিকে আনাসের বর্ণনা হিসেবে হাসান সহীহ গরীব বলেছেন। বুখারীও আনাসের সূত্রে ঘটনাটি নিজের ভাষায় বর্ণনা করেছেন (২৮০৯), আর সেখানেও শেষ কথা হলো, তাঁর ছেলে ফিরদাউসুল আ'লায় পৌঁছে গেছে। কুরতুবী ফিরদাউসের যে সংজ্ঞা দেন, তা এই বর্ণনা থেকেই নেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Summit or the Whole",
+          "bn": "চূড়া, নাকি গোটা জান্নাত"
+        },
+        "p": [
+          {
+            "en": "Does the verse promise these people the summit alone, or the Garden as a whole? Al-Baghawi and the Muyassar take al-Firdaws as the highest part. As-Sa'di gives two readings and does not choose. It may mean the highest, middle and best of the Garden, because these people have taken on the highest and topmost of good qualities. Or it may mean the whole Garden, so that believers in general are included, each at his own degree and rank, according to his state.",
+            "bn": "আয়াতটি কি এদের শুধু চূড়ার প্রতিশ্রুতি দিচ্ছে, নাকি গোটা জান্নাতের? বাগাভী ও মুয়াসসার আল-ফিরদাউস বলতে সবচেয়ে উঁচু অংশই বোঝেন। সা'দী দুটি ব্যাখ্যা দেন, কোনোটি বেছে নেন না। এক, এর অর্থ জান্নাতের সবচেয়ে উঁচু, মাঝখানের আর উত্তম অংশ, কারণ এরা কল্যাণের গুণগুলোর সবচেয়ে উঁচু ও চূড়ান্ত স্তর অর্জন করেছে। দুই, এর অর্থ গোটা জান্নাত, যাতে সাধারণ মুমিনরাও এর মধ্যে পড়ে, প্রত্যেকে নিজের অবস্থা অনুযায়ী নিজের স্তর ও মর্যাদায়।"
+          },
+          {
+            "en": "Either way, the promise is attached to qualities, not to a name. The verse does not say that a particular family, school or nation will inherit al-Firdaws; it says those who are described by 23:1 to 23:9 will. Nobody alive can claim the summit for himself or for anyone else on the strength of a label. The reader can only ask, as the hadith instructs, and work at the description, leaving the outcome with Allah.",
+            "bn": "যে ব্যাখ্যাই নেওয়া হোক, প্রতিশ্রুতিটা জুড়ে আছে কিছু গুণের সঙ্গে, কোনো নামের সঙ্গে নয়। আয়াত বলে না যে বিশেষ কোনো পরিবার, দল বা জাতি ফিরদাউসের উত্তরাধিকারী হবে। বলে, ২৩:১ থেকে ২৩:৯ আয়াতে যাদের বর্ণনা, তারাই হবে। কোনো পরিচয়ের জোরে জীবিত কেউ নিজের জন্য বা অন্য কারও জন্য চূড়াটা দাবি করতে পারে না। পাঠকের কাজ শুধু হাদীসের নির্দেশমতো চাওয়া, আর সেই বর্ণনার মতো হয়ে ওঠার চেষ্টা করা। ফলাফল আল্লাহর হাতে।"
+          },
+          {
+            "en": "At-Tabari also gathers reports here from the generation after the Companions, not words of the Prophet ﷺ. Mujahid says 'Adn is a garden which Allah created with His hand; it is opened at every dawn, He looks into it and says: qad aflaha l-mu'minun, the believers have succeeded. That garden, he adds, is al-Firdaws too. Ka'b says Allah planted Jannat al-Firdaws with His hand and bade it speak, and it said those same words.",
+            "bn": "তাবারী এখানে সাহাবীদের পরবর্তী প্রজন্মের কিছু বর্ণনাও একত্র করেন। এগুলো নবী ﷺ-এর বাণী নয়। মুজাহিদ বলেন, আদন এমন এক বাগান, যা আল্লাহ নিজ হাতে সৃষ্টি করেছেন। প্রতি ভোরে তা খোলা হয়, তিনি তার দিকে তাকান আর বলেন: কাদ আফলাহাল মুমিনূন, মুমিনরা সফল হয়ে গেছে। মুজাহিদ যোগ করেন, ওই বাগানটিও ফিরদাউস। কা'ব বলেন, আল্লাহ জান্নাতুল ফিরদাউস নিজ হাতে রোপণ করে তাকে কথা বলতে বললেন, আর সে ওই কথাটিই বলল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Home Never Left",
+          "bn": "যে ঘর ছাড়তে হয় না"
+        },
+        "p": [
+          {
+            "en": "Hum fiha khalidun, they will abide in it. At-Tabari explains khalidun as staying, remaining in it for ever, and adds: they do not move away from it. Al-Baghawi puts it in two negatives: they do not die and they do not leave. The Muyassar turns to what they enjoy there: their bliss is not cut off and does not pass away. An inheritance in this world is kept for a lifetime and then passes to another heir. This inheritance, the verse says, never passes on.",
+            "bn": "হুম ফীহা খালিদূন, তারা সেখানে চিরকাল থাকবে। তাবারী খালিদূন-এর অর্থ করেন অবস্থানকারী, সেখানে চিরকাল থেকে যাওয়া। সঙ্গে বলেন, তারা সেখান থেকে অন্য কোথাও সরে যাবে না। বাগাভী কথাটা বলেন দুটি না দিয়ে: তারা মরবে না, বেরও হবে না। মুয়াসসারের দৃষ্টি সেখানকার নিয়ামতের দিকে: তাদের সুখ কখনো থামবে না, ফুরিয়েও যাবে না। দুনিয়ার মীরাস মানুষ ভোগ করে এক জীবন, তারপর তা চলে যায় আরেক ওয়ারিসের হাতে। আয়াত বলছে, এ মীরাস আর কারও হাতে যাবে না।"
+          },
+          {
+            "en": "As-Sa'di adds the inner side of permanence: they will not depart from it, nor wish to move away from it, because it holds the most complete, most excellent and most perfect bliss, with nothing to cloud or spoil it. His words echo 18:108, which follows the other verse naming al-Firdaws: abiding in it, they will not seek any change from it. To stay for ever without ever wishing to leave is where the passage was heading.",
+            "bn": "সা'দী চিরস্থায়িত্বের ভেতরের দিকটাও তুলে ধরেন। তিনি বলেন, তারা সেখান থেকে চলে যাবে না, অন্য কোথাও যেতে চাইবেও না। কারণ সেখানে আছে সবচেয়ে পূর্ণ, সবচেয়ে উত্তম আর সবচেয়ে নিখুঁত নিয়ামত, যাতে কোনো কালিমা নেই, কোনো বিরক্তি নেই। তাঁর কথায় ১৮:১০৮ আয়াতের প্রতিধ্বনি, যা ফিরদাউসের নাম নেওয়া অন্য আয়াতটির ঠিক পরে এসেছে: সেখানে তারা চিরকাল থাকবে, সেখান থেকে কোনো বদল চাইবে না। চিরকাল থাকা, আর কখনো চলে যেতে না চাওয়া, এ অনুচ্ছেদ এ পরিণতির দিকেই এগোচ্ছিল।"
+          },
+          {
+            "en": "So the passage ends where it began, on success, now given a place and no end. It opened with a verdict and a list; it closes with an estate that is not bought but inherited, by those who answer to a description. The hadith tells the believer what to ask for, and the verses before tell him what to become. The rest is with Allah.",
+            "bn": "অনুচ্ছেদটি তাই শেষ হলো যেখান থেকে শুরু হয়েছিল সেখানেই, সফলতায়। শুধু এবার সে সফলতার ঠিকানা আছে, আর তার কোনো শেষ নেই। শুরু হয়েছিল এক রায় আর এক তালিকা দিয়ে। শেষ হলো এমন এক মীরাসে, যা কেনা যায় না। উত্তরাধিকার হিসেবে তা পায় শুধু তারাই, যারা ওই বর্ণনার সঙ্গে মেলে। হাদীস মুমিনকে বলে দেয় কী চাইতে হবে, আর আগের আয়াতগুলো বলে দেয় কেমন হতে হবে। বাকিটা আল্লাহর হাতে।"
+          }
+        ]
+      }
+    ]
+  },
   "23:14": {
     "sections": [
       {
