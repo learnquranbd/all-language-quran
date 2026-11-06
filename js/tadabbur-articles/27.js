@@ -427,6 +427,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Pharaoh's Ruin to Two Kings",
+          "bn": "ফেরাউনের পরিণাম থেকে দুই বাদশাহ"
+        },
+        "p": [
+          {
+            "en": "The verse turns a page. Just before it, 27:13 and 27:14 close the account of Pharaoh and his people: they called the clear signs obvious magic and rejected them while their own selves were certain of them, out of wrongdoing and haughtiness, and the hearer is told to look at how the corrupters ended. Then, with the emphatic wa-laqad, and We certainly, the surah opens a second story about power. Two men of immense authority are given a gift, and the first thing recorded of them is that they thanked.",
+            "bn": "আয়াতটি যেন নতুন পাতা ওল্টায়। ঠিক আগে ২৭:১৩ ও ২৭:১৪ আয়াতে ফেরাউন ও তার কওমের কথা শেষ হয়েছে। স্পষ্ট নিদর্শনগুলোকে তারা বলেছিল প্রকাশ্য জাদু, আর অন্তরে সেগুলোর সত্যতায় নিশ্চিত থেকেও জুলুম ও অহংকারের বশে সেগুলো অস্বীকার করেছিল। শ্রোতাকে বলা হয়েছে, দেখো ফাসাদকারীদের পরিণাম কী হয়েছিল। এরপর জোর দিয়ে ওয়া লাকাদ, আর নিশ্চয়ই আমি, বলে সূরা শুরু করে ক্ষমতার আরেকটি কাহিনি। বিপুল ক্ষমতার অধিকারী দুজন মানুষকে একটি দান দেওয়া হয়, আর তাঁদের সম্পর্কে প্রথম যে কথাটি জানানো হয় তা হলো, তাঁরা শুকরিয়া আদায় করেছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir opens his commentary by naming the scale of what follows. Allah tells, he writes, of what He bestowed on His two servants and prophets, Dawud and his son Sulayman (AS): abundant favours, noble gifts and fine qualities, and the joining for them of happiness in this world and the next, kingship and full establishment in the world, and prophethood and messengership in religion. That is why, he says, Allah said this verse. In his reading the verse is the heading over a whole passage of gifts.",
+            "bn": "ইবন কাসীর তাঁর তাফসীরের শুরুতেই সামনে যা আসছে তার পরিসর জানিয়ে দেন। তিনি লেখেন, আল্লাহ এখানে তাঁর দুই বান্দা ও নবী দাঊদ (আঃ) এবং তাঁর পুত্র সুলাইমান (আঃ)-কে যা দিয়েছিলেন তার খবর দিচ্ছেন। প্রচুর নেয়ামত, মহৎ দান, সুন্দর গুণাবলি। দুনিয়া ও আখিরাতের সৌভাগ্য তাঁদের জন্য একত্র করা হয়েছিল। দুনিয়াতে ছিল রাজত্ব ও পূর্ণ প্রতিষ্ঠা, আর দ্বীনে নবুওয়ত ও রিসালাত। এ কারণেই, তাঁর ভাষায়, আল্লাহ এ আয়াত বলেছেন। তাঁর পাঠে আয়াতটি দানের পুরো এক অধ্যায়ের শিরোনাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Knowledge Left Undefined",
+          "bn": "সংজ্ঞাহীন রেখে দেওয়া জ্ঞান"
+        },
+        "p": [
+          {
+            "en": "The gift is a single word, 'ilman, knowledge, and it stands without the definite article and without any description. As-Sa'di reads the bare noun as telling in itself: Allah recalls His favour on Dawud and Sulayman with knowledge that was wide and abundant, by the evidence of the indefinite form. He then points to 21:78 and 21:79, where the two judged the case of the field and Allah says of both, each We gave judgement and knowledge. That episode has its own page. Here it serves as-Sa'di only as proof of how much they had been given.",
+            "bn": "দানটি একটিমাত্র শব্দ, ইলমান, অর্থাৎ জ্ঞান। শব্দটির আগে নির্দিষ্টবাচক আল নেই, পরে কোনো বিশেষণও নেই। সা'দী এই খালি বিশেষ্যকেই অর্থবহ মনে করেন। তাঁর ব্যাখ্যায়, আল্লাহ দাঊদ ও সুলাইমান (আঃ)-এর উপর বিস্তৃত ও প্রচুর জ্ঞানের অনুগ্রহের কথা স্মরণ করাচ্ছেন, আর তার প্রমাণ শব্দটির অনির্দিষ্ট রূপ। এরপর তিনি ২১:৭৮ ও ২১:৭৯ আয়াতের দিকে ইঙ্গিত করেন, যেখানে দুজনে শস্যক্ষেতের মামলার ফয়সালা করেছিলেন আর আল্লাহ উভয়ের সম্পর্কে বলেছেন, প্রত্যেককেই আমি দিয়েছিলাম প্রজ্ঞা ও জ্ঞান। সে ঘটনার আলোচনা আলাদা জায়গায় আছে। এখানে সা'দী তা আনেন কেবল এটুকু দেখাতে যে তাঁদের কতটা দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi begins with a one-word gloss: 'ilman means fahm, understanding, and he credits this to Qatada. Understanding is not the same as a store of information. It is the grasp that lets a person see what a matter requires and where a judgement should fall. On this reading the verse praises not only how much the two knew but how they knew it. Al-Qurtubi does not stop at Qatada, though, and the wider range he records comes next.",
+            "bn": "কুরতুবী শুরু করেন একটিমাত্র শব্দের ব্যাখ্যা দিয়ে: ইলমান মানে ফাহম, বোঝার ক্ষমতা। মতটি তিনি কাতাদার বলে উল্লেখ করেন। বোঝা আর তথ্যের ভাণ্ডার এক জিনিস নয়। বোঝা হলো সেই ধরার শক্তি, যা দিয়ে মানুষ দেখতে পায় কোনো বিষয় কী দাবি করছে আর ফয়সালা কোথায় গিয়ে পড়া উচিত। এভাবে পড়লে আয়াতটি শুধু তাঁরা দুজন কতটা জানতেন তার প্রশংসা করে না, কীভাবে জানতেন তারও প্রশংসা করে। তবে কুরতুবী কাতাদাতেই থামেন না। তিনি আরও যেসব মত উল্লেখ করেন, সেগুলো আসছে পরের অংশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Birds, Verdicts and Coats of Mail",
+          "bn": "পাখির ভাষা, ফয়সালা ও বর্ম"
+        },
+        "p": [
+          {
+            "en": "At-Tabari names the knowledge concretely: it is the knowledge of the speech of birds and beasts, and other things that Allah singled them out to know. Al-Baghawi gives a longer list in a single line: knowledge of judging, the speech of birds and beasts, the subjugation of the devils, and the glorification of the mountains. Their lists anticipate 27:16, where Sulayman announces that they were taught the speech of birds.",
+            "bn": "তাবারী জ্ঞানটির নাম দেন সুনির্দিষ্টভাবে: পাখি ও জীবজন্তুর ভাষার জ্ঞান, আর এমন আরও কিছু যা জানার জন্য আল্লাহ তাঁদের বিশেষভাবে বেছে নিয়েছিলেন। বাগাভী এক লাইনেই আরও লম্বা তালিকা দেন: বিচার-ফয়সালার জ্ঞান, পাখি ও জীবজন্তুর ভাষা, শয়তানদের বশীভূত করা আর পাহাড়ের তাসবীহ। দুজনের তালিকাই আগাম ইঙ্গিত দেয় ২৭:১৬ আয়াতের দিকে, যেখানে সুলাইমান (আঃ) ঘোষণা করেন যে তাঁদের পাখির ভাষা শেখানো হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi, after Qatada, records two further views under it is said. One holds that the knowledge was of religion, of judgement and of other things, as Allah says of Dawud in 21:80, and We taught him the making of coats of mail for you. The other holds that it was the craft of alchemy. Al-Qurtubi calls that view shadhdh, aberrant, and sets against it what he holds Allah actually gave them: prophethood, succession in the land, and the Zabur. A gift that comes in one word is not left open to any meaning a reader likes.",
+            "bn": "কাতাদার পর কুরতুবী 'বলা হয়েছে' বলে আরও দুটি মত আনেন। একটি মতে জ্ঞানটি ছিল দ্বীনের, বিচারের এবং আরও কিছু বিষয়ের। যেমন ২১:৮০ আয়াতে আল্লাহ দাঊদ (আঃ) সম্পর্কে বলেন, আর আমি তাঁকে তোমাদের জন্য বর্ম তৈরির কৌশল শিখিয়েছিলাম। অন্য মতে সেটা ছিল কিমিয়া বা আলকেমি। এ মতকে কুরতুবী বলেন শায, অর্থাৎ বিচ্ছিন্ন ও অগ্রহণযোগ্য। এর বিপরীতে তিনি বলেন, আল্লাহ তাঁদের যা দিয়েছিলেন তা হলো নবুওয়ত, পৃথিবীতে খিলাফত আর যাবুর। এক শব্দে দেওয়া দানকে তাই পাঠকের যেমন খুশি তেমন অর্থে ছেড়ে দেওয়া হয়নি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an takes the broad line. The knowledge was, it says, the special knowledge given to prophets about their functions and obligations as prophets, and it may also include other sciences and arts, as Dawud (AS) was given the art of making armour. Set side by side, these lists widen one another more than they compete. Understanding, judgement, the speech of birds, a craft of the hands, prophethood and a scripture: the single indefinite word holds all of them, and al-Qurtubi's one rejection marks where its edge lies.",
+            "bn": "মাআরিফুল কুরআন বিস্তৃত পথ ধরে। এর মতে, এ জ্ঞান ছিল নবীদের বিশেষ জ্ঞান, নবী হিসেবে তাঁদের দায়িত্ব ও কর্তব্য সম্পর্কে। সঙ্গে অন্য বিদ্যা ও শিল্পও এর মধ্যে পড়তে পারে, যেমন দাঊদ (আঃ)-কে বর্ম বানানোর শিল্প দেওয়া হয়েছিল। তালিকাগুলো পাশাপাশি রাখলে দেখা যায়, এরা একে অপরের সঙ্গে প্রতিযোগিতা করে না, বরং পরিসর বাড়ায়। বোঝার ক্ষমতা, বিচার, পাখির ভাষা, হাতের কারিগরি, নবুওয়ত আর আসমানি কিতাব, সবই ধরে আছে ওই একটি অনির্দিষ্ট শব্দ। আর কুরতুবীর একমাত্র নাকচ দেখিয়ে দেয় তার সীমা কোথায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise as the First Reply",
+          "bn": "প্রথম জবাব হামদ"
+        },
+        "p": [
+          {
+            "en": "Wa-qala: and the two of them said. The verb is dual, and the verse gives no gap between the gift and the words. As-Sa'di describes them speaking as men giving thanks to their Lord for His greatest favour, His teaching them. The Muyassar, in its plain paraphrase, adds one verb the verse leaves unspoken: We gave Dawud and Sulayman knowledge, and they acted on it, and they said, praise be to Allah who favoured us by this. In that paraphrase the praise follows practice, and the knowledge it thanks for is knowledge already put to work.",
+            "bn": "ওয়া কালা: আর তাঁরা দুজন বললেন। ক্রিয়াটি দ্বিবচন, আর দান ও কথার মাঝে আয়াত কোনো ফাঁক রাখে না। সা'দীর বর্ণনায় তাঁরা কথাটি বলছিলেন রবের সবচেয়ে বড় অনুগ্রহের শুকরিয়া হিসেবে, আর সে অনুগ্রহ হলো তাঁদের শিক্ষা দেওয়া। মুয়াসসার তার সহজ ব্যাখ্যায় এমন একটি ক্রিয়া যোগ করে, যা আয়াতে উচ্চারিত নেই: আমি দাঊদ ও সুলাইমানকে জ্ঞান দিয়েছিলাম, আর তাঁরা সে অনুযায়ী আমল করেছিলেন, এবং বলেছিলেন, সব প্রশংসা আল্লাহর, যিনি এর দ্বারা আমাদের মর্যাদা দিয়েছেন। এ ব্যাখ্যায় হামদ আসে আমলের পরে। যে জ্ঞানের জন্য শুকরিয়া, তা আগেই কাজে লাগানো হয়ে গেছে।"
+          },
+          {
+            "en": "Ibn Kathir then relays a report from Ibn Abi Hatim, who introduces it with the words it was mentioned from, through Ibrahim ibn Yahya ibn Tammam, his father and his grandfather. 'Umar ibn 'Abd al-'Aziz wrote that Allah never grants a servant a favour for which he praises Allah, except that his praise is better than the favour itself. Even if you knew that only from the revealed Book of Allah, he went on, and he quoted this verse.",
+            "bn": "এরপর ইবন কাসীর ইবন আবী হাতিমের সূত্রে একটি বর্ণনা আনেন। ইবন আবী হাতিম বর্ণনাটি শুরু করেন 'উল্লেখ করা হয়েছে' কথাটি দিয়ে, ইবরাহীম ইবন ইয়াহইয়া ইবন তাম্মাম থেকে, তিনি তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে। উমর ইবন আবদুল আযীয লিখেছিলেন, আল্লাহ কোনো বান্দাকে কোনো নেয়ামত দেন আর সে তার জন্য আল্লাহর হামদ করে, তাহলে তার সেই হামদ নেয়ামতের চেয়ে উত্তম হয়ে যায়। এ কথা যদি কেবল আল্লাহর নাযিল করা কিতাব থেকেও জানতে, তিনি লিখলেন, তারপর এ আয়াতটি উদ্ধৃত করলেন।"
+          },
+          {
+            "en": "'Umar ibn 'Abd al-'Aziz closed with a question: and what favour is better than what Dawud and Sulayman were given? The rest follows. If the knowledge given to two prophets is among the greatest of favours, and if the praise that answers a favour outranks the favour, then the sentence they spoke was worth more than all they had received. The verse, on this reading, records the gift in one word and the reply in a full sentence, and the reply is the greater of the two.",
+            "bn": "উমর ইবন আবদুল আযীয তাঁর কথা শেষ করেন একটি প্রশ্ন দিয়ে: দাঊদ ও সুলাইমান (আঃ)-কে যা দেওয়া হয়েছিল, তার চেয়ে উত্তম নেয়ামত আর কী আছে? বাকিটা এমনিই বেরিয়ে আসে। দুই নবীকে দেওয়া জ্ঞান যদি সবচেয়ে বড় নেয়ামতের একটি হয়, আর নেয়ামতের জবাবে করা হামদ যদি নেয়ামতের চেয়েও উঁচু হয়, তবে তাঁদের মুখের ওই বাক্যটির মূল্য তাঁদের পাওয়া সবকিছুর চেয়ে বেশি। এ পাঠে আয়াতটি দানের কথা বলে এক শব্দে, আর জবাবের কথা পুরো এক বাক্যে। দুটির মধ্যে জবাবটিই বড়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many, and Not Every One",
+          "bn": "বহুজনের উপর, সবার উপর নয়"
+        },
+        "p": [
+          {
+            "en": "Their words carry a restraint that is easy to read past: 'ala kathirin, over many. At-Tabari paraphrases the sentence with two limits. Dawud and Sulayman said, in his wording, praise be to Allah who favoured us by the knowledge He singled us out with, beyond the rest of His creation of the children of Adam in this time of ours, over many of His believing servants in our age. In at-Tabari's reading the comparison is bounded twice, once by the word many and once by their own generation.",
+            "bn": "তাঁদের কথায় এমন এক সংযম আছে, যা সহজেই চোখ এড়িয়ে যায়: আলা কাসীরিন, বহুজনের উপর। তাবারী বাক্যটির ব্যাখ্যায় দুটি সীমা টানেন। তাঁর ভাষায় দাঊদ ও সুলাইমান (আঃ) বলেছিলেন, সব প্রশংসা আল্লাহর, যিনি আমাদের বিশেষভাবে দেওয়া জ্ঞানের দ্বারা আমাদের এই যুগের সমস্ত আদমসন্তানের মধ্যে, আমাদের এই কালের বহু মুমিন বান্দার উপর মর্যাদা দিয়েছেন। তাবারীর পাঠে তুলনাটি দুবার বাঁধা। একবার 'বহু' শব্দ দিয়ে, আরেকবার তাঁদের নিজেদের প্রজন্ম দিয়ে।"
+          },
+          {
+            "en": "As-Sa'di explains the word many by a ladder. The believers, he writes, are of four ranks without doubt: the righteous, above them the martyrs, above them the truthful, and above them the prophets. Dawud and Sulayman are among the elite of the messengers, though below the rank of those of firm resolve, yet they are among the noble and excellent messengers whom Allah praised highly in His Book. On his reading the word many is simply accurate. There were messengers above them, those of firm resolve, and the two said as much in their own praise.",
+            "bn": "'বহু' শব্দটি সা'দী বোঝান একটি সিঁড়ি দিয়ে। তিনি লেখেন, মুমিনদের নিঃসন্দেহে চারটি স্তর: সালিহীন বা নেককার, তাঁদের উপরে শহীদগণ, তাঁদের উপরে সিদ্দীকগণ, আর সবার উপরে নবীগণ। দাঊদ ও সুলাইমান (আঃ) রাসূলদের বিশিষ্টজনদের অন্তর্ভুক্ত, যদিও উলুল আযম রাসূলদের স্তরের নিচে। তবু তাঁরা সেই সম্মানিত ও শ্রেষ্ঠ রাসূলদের একজন, যাঁদের কথা আল্লাহ তাঁর কিতাবে উঁচু প্রশংসার সঙ্গে উল্লেখ করেছেন। তাঁর পাঠে 'বহু' শব্দটি একেবারে যথাযথ। তাঁদের উপরেও রাসূল ছিলেন, উলুল আযম রাসূলগণ, আর নিজেদের হামদেই দুজন সে কথা স্বীকার করেছেন।"
+          },
+          {
+            "en": "Neither commentator draws a lesson in modesty from the word many itself, but the words carry that lesson anyway. Two prophets, with a kingdom, the speech of birds and hosts of jinn under command, chose a sentence that leaves room above them. They also named themselves by a modest title. As-Sa'di says they praised Allah for making them among the believers, the people of felicity, and among their elite. The phrase they used is 'ibadihi al-mu'minin, His believing servants. Whatever else they were, the first thing they called themselves was servants.",
+            "bn": "দুই মুফাসসিরের কেউই 'বহু' শব্দ থেকে সরাসরি বিনয়ের শিক্ষা টানেননি, তবু শব্দগুলো নিজেরাই সে উপদেশ বহন করে। দুজন নবী, যাঁদের ছিল রাজত্ব, পাখির ভাষার জ্ঞান আর জিনদের বাহিনী, তাঁরা বেছে নিলেন এমন এক বাক্য যা তাঁদের উপরে জায়গা খালি রাখে। নিজেদের পরিচয়ও দিলেন সাদামাটা এক নামে। সা'দী বলেন, আল্লাহ তাঁদের মুমিনদের অন্তর্ভুক্ত করেছেন, সৌভাগ্যবানদের দলে রেখেছেন, এমনকি তাঁদের বিশিষ্টজনদের মধ্যে রেখেছেন, এজন্য তাঁরা হামদ করেছেন। তাঁদের ব্যবহৃত শব্দ ইবাদিহিল মুমিনীন, তাঁর মুমিন বান্দারা। আর যা-ই হোন, নিজেদের প্রথম পরিচয় তাঁরা দিয়েছেন বান্দা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Gift Traced to Its Giver",
+          "bn": "প্রতিটি দানের উৎস দাতা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the general lesson himself. This, he writes, is the mark of a servant's felicity: that he be thankful to Allah for His favours in religion and in the world, and that he see every favour as coming from his Lord. Then he does not boast of them or grow pleased with himself because of them. Rather, he sees that they lay on him a debt of much gratitude. The sentence of the two prophets is that attitude spoken aloud.",
+            "bn": "সাধারণ শিক্ষাটি সা'দী নিজেই বের করে আনেন। তিনি লেখেন, বান্দার সৌভাগ্যের আলামত এই যে, সে দ্বীন ও দুনিয়ার নেয়ামতের জন্য আল্লাহর শুকরিয়া আদায় করবে, আর প্রতিটি নেয়ামতকে দেখবে তার রবের পক্ষ থেকে আসা দান হিসেবে। তখন সে এগুলো নিয়ে গর্ব করে না, নিজের উপর মুগ্ধও হয় না। বরং দেখে, এগুলো তার কাঁধে অনেক শুকরিয়ার ঋণ চাপিয়ে দিয়েছে। দুই নবীর বাক্যটি সেই মনোভাবেরই মুখে উচ্চারিত রূপ।"
+          },
+          {
+            "en": "The verse before held up the opposite picture. Pharaoh's people rejected the signs zulman wa-'uluwwan, out of wrongdoing and haughtiness, and 'uluww is the urge to rise above others. Dawud and Sulayman had far more power to rise above others, and they spent their words lowering themselves before their Lord. Verse 27:14 describes Pharaoh's people as the text describes them, and it licenses nothing against any living person or community. The contrast is held up for the hearer to examine in himself.",
+            "bn": "আগের আয়াতে ছিল এর উল্টো ছবি। ফেরাউনের কওম নিদর্শনগুলো অস্বীকার করেছিল জুলমান ওয়া উলুওয়ান, জুলুম ও অহংকারের বশে। উলুও মানে অন্যদের ছাড়িয়ে উপরে ওঠার তাড়না। অন্যদের উপরে ওঠার ক্ষমতা দাঊদ ও সুলাইমান (আঃ)-এর হাতে ছিল অনেক বেশি, অথচ তাঁরা নিজেদের কথা খরচ করলেন রবের সামনে নিজেদের নত করতে। ফেরাউনের কওম সম্পর্কে ২৭:১৪ আয়াত কেবল সেটুকুই বলে যা কুরআনের ভাষ্যে আছে। আজকের কোনো ব্যক্তি বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। তুলনাটি রাখা হয়েছে, যাতে শ্রোতা নিজের ভেতরে তা পরখ করে দেখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Learned Stand",
+          "bn": "জ্ঞানীদের আসন কোথায়"
+        },
+        "p": [
+          {
+            "en": "The Muyassar ends with a single sentence of comment: the verse contains evidence of the nobility of knowledge and the elevation of its people. Al-Qurtubi says the same at greater length. The verse is proof of the nobility of knowledge, the eminence of its place and the precedence of its bearers, and the favour of knowledge is among the greatest of favours and the most generous of portions. Whoever is given it, he adds, has been given a favour over many of Allah's believing servants, and he cites 58:11: Allah raises by degrees those of you who believe and those given knowledge.",
+            "bn": "মুয়াসসার শেষ করে একটিমাত্র মন্তব্যে: আয়াতটিতে জ্ঞানের মর্যাদা আর জ্ঞানীদের উচ্চ অবস্থানের প্রমাণ আছে। কুরতুবী একই কথা বলেন আরও বিস্তারে। তাঁর মতে আয়াতটি জ্ঞানের মর্যাদা, তার স্থানের উচ্চতা আর তার বাহকদের অগ্রাধিকারের প্রমাণ। জ্ঞানের নেয়ামত সবচেয়ে বড় নেয়ামতগুলোর একটি, সবচেয়ে উদার ভাগগুলোর একটি। তিনি যোগ করেন, যাকে তা দেওয়া হয়েছে, তাকে আল্লাহর বহু মুমিন বান্দার উপর মর্যাদা দেওয়া হয়েছে। এরপর তিনি ৫৮:১১ আয়াত উদ্ধৃত করেন: তোমাদের মধ্যে যারা ঈমান এনেছে আর যাদের জ্ঞান দেওয়া হয়েছে, আল্লাহ তাদের মর্যাদায় উন্নীত করেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing al-Qurtubi, notes that among all the graces of the two, knowledge is mentioned first, a clear hint that it stands above the rest. As-Sa'di observes that after praising the two together, Allah singled out Sulayman for his great kingdom, and so the next verse says Sulayman inherited Dawud. Ibn Kathir, in the abridged English, reads that inheritance as kingship and prophethood, not wealth, since an inheritance of wealth would not have singled Sulayman out from among Dawud's sons. That verse has its own page.",
+            "bn": "মাআরিফুল কুরআন কুরতুবীর বরাতে বলে, দুজনের সব নেয়ামতের মধ্যে জ্ঞানের কথা এসেছে সবার আগে। এ এক স্পষ্ট ইঙ্গিত যে জ্ঞানের স্থান বাকি সবকিছুর উপরে। সা'দী লক্ষ করেন, দুজনের একত্র প্রশংসার পর আল্লাহ সুলাইমান (আঃ)-কে আলাদা করে তাঁর বিশাল রাজত্বের কথা বলেছেন। তাই পরের আয়াতে আসে, সুলাইমান দাঊদের উত্তরাধিকারী হলেন। সংক্ষিপ্ত ইংরেজি ইবন কাসীরে এ উত্তরাধিকার মানে রাজত্ব ও নবুওয়ত, সম্পদ নয়। কারণ সম্পদের উত্তরাধিকার হলে দাঊদ (আঃ)-এর পুত্রদের মধ্যে কেবল সুলাইমানকে আলাদা করে বলা হতো না। সে আয়াতের আলোচনা আলাদা জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heirs Who Inherit No Coin",
+          "bn": "যে উত্তরাধিকারে দিনার নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A general narration, which none of them ties to it, speaks to its theme. Abu Dawud (3641) records that Kathir ibn Qays was sitting with Abu al-Darda' in the mosque of Damascus when a man arrived from the city of the Messenger ﷺ, saying he had come for one hadith alone. Abu al-Darda' said he heard the Messenger of Allah ﷺ say: \"If anyone travels on a road in search of knowledge, Allah will cause him to travel on one of the roads of Paradise.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা আয়াতের বিষয়ের সঙ্গে মেলে, যদিও কোনো মুফাসসির একে এ আয়াতের সঙ্গে জোড়েননি। আবু দাউদ (৩৬৪১) বর্ণনা করেন, কাসীর ইবন কায়স দামেশকের মসজিদে আবুদ দারদা (রাঃ)-এর সঙ্গে বসে ছিলেন। তখন রাসূল ﷺ-এর শহর থেকে এক লোক এসে বলল, সে কেবল একটি হাদীসের জন্য এসেছে, আর কোনো কাজে নয়। আবুদ দারদা (রাঃ) বললেন, তিনি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছেন: \"যে ব্যক্তি জ্ঞানের খোঁজে কোনো পথে চলে, আল্লাহ তাকে জান্নাতের পথগুলোর একটি পথে চালান।"
+          },
+          {
+            "en": "The angels will lower their wings in their great pleasure with one who seeks knowledge, the inhabitants of the heavens and the Earth and the fish in the deep waters will ask forgiveness for the learned man. The superiority of the learned man over the devout is like that of the moon, on the night when it is full, over the rest of the stars. The learned are the heirs of the Prophets, and the Prophets leave neither dinar nor dirham, leaving only knowledge, and he who takes it takes an abundant portion.\"",
+            "bn": "জ্ঞান অন্বেষণকারী একজনের প্রতি সন্তুষ্টিতে ফেরেশতারা তাদের ডানা বিছিয়ে দেন। আসমান ও জমিনে যারা আছে, এমনকি পানির গভীরে মাছেরাও, আলিমের জন্য মাগফিরাত চায়। আবিদের উপর আলিমের শ্রেষ্ঠত্ব যেমন পূর্ণিমার রাতে বাকি সব তারার উপর চাঁদের শ্রেষ্ঠত্ব। আলিমরা নবীদের উত্তরাধিকারী। নবীরা দিনার বা দিরহাম উত্তরাধিকার হিসেবে রেখে যাননি, রেখে গেছেন কেবল জ্ঞান। যে তা গ্রহণ করল, সে বিপুল অংশ লাভ করল।\""
+          },
+          {
+            "en": "Abu Dawud adds no comment after it. At-Tirmidhi records the same hadith (2682) by another chain and remarks that he knows it only through 'Asim ibn Raja' ibn Haywa, that this chain of his is not connected in his view, and that the version through al-Walid ibn Jamil from Kathir ibn Qays is more correct. It is held here with that caution. Its last line sits naturally beside a verse in which two prophet-kings give thanks for knowledge, and name no other part of their kingdom.",
+            "bn": "আবু দাউদ এর পরে নিজে কোনো মন্তব্য করেননি। তিরমিযী একই হাদীস (২৬৮২) অন্য সনদে বর্ণনা করেন। তিনি বলেন, আসিম ইবন রাজা ইবন হাইওয়ার সূত্র ছাড়া তিনি এটি জানেন না, তাঁর নিজের এ সনদটি তাঁর বিচারে মুত্তাসিল নয়, আর আল-ওয়ালীদ ইবন জামীল থেকে কাসীর ইবন কায়স হয়ে আসা বর্ণনাটি বেশি সঠিক। তাই হাদীসটি এখানে সেই সতর্কতা মাথায় রেখেই আনা হলো। এর শেষ বাক্যটি স্বাভাবিকভাবেই মেলে এমন এক আয়াতের সঙ্গে, যেখানে নবী ও বাদশাহ দুজন শুকরিয়া জানান কেবল জ্ঞানের জন্য, রাজত্বের আর কোনো অংশের নাম নেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "27:19": {
     "sections": [
       {

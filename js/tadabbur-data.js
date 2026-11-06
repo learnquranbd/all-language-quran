@@ -24629,6 +24629,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Measure every earthly greatness against Allah, the Lord of the Great Throne, and give the humility, love and worship due to Him to no one else.",
     "lessonBn": "দুনিয়ার যত বড়ত্বই চোখে পড়ুক, তা মাপুন মহান আরশের রব আল্লাহর সামনে রেখে। যে বিনয়, ভালোবাসা আর ইবাদত তাঁর পাওনা, তা আর কাউকে দেবেন না।"
+  },
+  "27:15": {
+    "reflectionEn": "Two men hold what most people only dream of: a kingdom, prophethood, and knowledge no one around them had been taught. The verse does not list their armies or their treasure. It names one gift, knowledge, and then records what they said: all praise is for Allah, who has favoured us over many of His believing servants. They did not say over everyone. They did not say we earned it. They counted themselves among the believing servants and handed the credit back before anyone could offer it to them. Whatever I know, a skill, a trade, a little of the religion, came to me from somewhere. When it is noticed, is my first word praise of the One who gave it, or a quiet comparison with those who have less?",
+    "reflectionBn": "দুজন মানুষের হাতে এমন সব জিনিস, যা বেশির ভাগ মানুষ কেবল স্বপ্নে দেখে: রাজত্ব, নবুওয়ত, আর এমন জ্ঞান যা আশপাশের কাউকে শেখানো হয়নি। আয়াতটি তাঁদের সেনাদল বা ধনভাণ্ডারের হিসাব দেয় না। একটিমাত্র দানের নাম নেয়, জ্ঞান। তারপর জানায় তাঁরা কী বলেছিলেন: সব প্রশংসা আল্লাহর, যিনি তাঁর বহু মুমিন বান্দার উপর আমাদের মর্যাদা দিয়েছেন। তাঁরা বলেননি, সবার উপর। বলেননি, আমরা নিজেরা অর্জন করেছি। নিজেদের তাঁরা মুমিন বান্দাদেরই একজন বলে গুনেছেন, আর কেউ বাহবা দেওয়ার আগেই কৃতিত্বটা ফিরিয়ে দিয়েছেন যাঁর প্রাপ্য তাঁকে। আমি যা কিছু জানি, কোনো দক্ষতা, কোনো পেশা, দ্বীনের সামান্য জ্ঞান, সবই কোথাও না কোথাও থেকে এসেছে। কেউ তা লক্ষ করলে আমার মুখের প্রথম কথা কি দাতার প্রশংসা, নাকি যাদের কম আছে তাদের সঙ্গে মনে মনে একটা তুলনা?",
+    "pointsEn": [
+      "What do I know today that someone once taught me, and when did I last thank Allah for it in so many words?",
+      "When my knowledge or skill is praised, do I pass the praise on to its Giver, or keep a little of it for myself?",
+      "Do I measure myself against those who know less than I do, or against those who know far more?",
+      "Is there something I have learned and understood but still not put into practice?",
+      "Which of my gifts have I slowly started to treat as mine rather than as given?"
+    ],
+    "pointsBn": [
+      "আজ আমি এমন কী জানি, যা একদিন কেউ আমাকে শিখিয়েছিল? শেষ কবে মুখে উচ্চারণ করে এর জন্য আল্লাহর শুকরিয়া আদায় করেছি?",
+      "কেউ আমার জ্ঞান বা দক্ষতার প্রশংসা করলে আমি কি প্রশংসাটা দাতার দিকে ফিরিয়ে দিই, নাকি একটু নিজের জন্য রেখে দিই?",
+      "নিজেকে আমি মাপি কাদের সঙ্গে: যারা আমার চেয়ে কম জানে, নাকি যারা অনেক বেশি জানে?",
+      "এমন কিছু কি আছে, যা শিখেছি, বুঝেছি, অথচ এখনো আমলে আনিনি?",
+      "আমার কোন নেয়ামতগুলোকে আমি ধীরে ধীরে দান হিসেবে না দেখে নিজের সম্পদ ভাবতে শুরু করেছি?"
+    ],
+    "lessonEn": "Count your knowledge as a gift, not an achievement: answer it with praise of the Giver, act on it, and never imagine it has lifted you above everyone.",
+    "lessonBn": "নিজের জ্ঞানকে কৃতিত্ব নয়, দান হিসেবে দেখুন: দাতার প্রশংসা দিয়ে এর জবাব দিন, সে অনুযায়ী আমল করুন, আর কখনো ভাববেন না যে এটি আপনাকে সবার উপরে তুলে দিয়েছে।"
   }
 };
 
