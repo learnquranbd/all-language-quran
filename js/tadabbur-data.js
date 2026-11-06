@@ -28329,6 +28329,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Carrying the Qur'an means acting on it; knowing its words without letting them shape your life leaves you holding only its weight.",
     "lessonBn": "কুরআন বহন করা মানে তার উপর আমল করা। শব্দগুলো জেনেও জীবনকে তা দিয়ে গড়তে না দিলে হাতে থাকে শুধু তার ওজন।"
+  },
+  "64:5": {
+    "reflectionEn": "Four verses describe Allah creating, shaping and knowing what is in every heart. Then a question turns to me: has the news not reached you of those who disbelieved before? They tasted the bad end of their own affair, and a painful punishment still waits for them. The next verse gives the reason. Messengers came to them with clear proofs, and they said: shall mere humans guide us? They had no answer to the proof, only an objection to the one who brought it. The news has reached me now, in this verse. Do I read these accounts as history about other people, or as a warning addressed to me? And when the truth comes through an ordinary person, do I weigh what is said, or who says it?",
+    "reflectionBn": "চারটি আয়াত জুড়ে আছে আল্লাহর সৃষ্টি, আকৃতি দান আর প্রতিটি অন্তরের খবর জানার কথা। তারপর একটা প্রশ্ন সোজা আমার দিকে আসে: আগে যারা কুফরী করেছিল, তাদের খবর কি তোমাদের কাছে পৌঁছায়নি? নিজেদের কাজের মন্দ পরিণাম তারা চেখে দেখেছে, আর তাদের জন্য সামনে অপেক্ষা করছে কষ্টদায়ক শাস্তি। পরের আয়াতে কারণটা বলা আছে। রাসূলগণ স্পষ্ট প্রমাণ নিয়ে এসেছিলেন। আর তারা বলেছিল, মানুষ এসে আমাদের পথ দেখাবে? প্রমাণের জবাব তাদের কাছে ছিল না। আপত্তি ছিল শুধু যিনি এনেছেন তাঁকে নিয়ে। খবরটা এই আয়াতেই এখন আমার কাছে পৌঁছে গেছে। এসব বিবরণ কি আমি অন্যদের ইতিহাস হিসেবে পড়ি, নাকি আমাকে লক্ষ্য করে দেওয়া সতর্কবাণী হিসেবে? আর সত্য যখন সাধারণ কোনো মানুষের মুখে আসে, তখন আমি কী বলা হলো তা ওজন করি, নাকি কে বলল তা?",
+    "pointsEn": [
+      "Which account of a past people in the Qur'an have I read most often, and what has it actually changed in the way I live?",
+      "When a reminder comes from someone I think of as ordinary or beneath me, do I set the message aside because of the messenger?",
+      "What am I choosing now whose bad end I would not want to taste later?",
+      "Do I read the Qur'an's accounts of destroyed peoples as warnings to myself, or as permission to point at others?",
+      "The verse speaks of what they tasted in this world and of a punishment after it. Which of the two do I think about less, and why?"
+    ],
+    "pointsBn": [
+      "কুরআনে আগের কোন জাতির বিবরণ আমি সবচেয়ে বেশি পড়েছি? আর তা আমার জীবনযাপনে আসলে কী বদলেছে?",
+      "যাকে আমি সাধারণ বা নিজের চেয়ে ছোট মনে করি, তার কাছ থেকে নসিহত এলে আমি কি বাহকের কারণে কথাটাই সরিয়ে রাখি?",
+      "এখন আমি এমন কী বেছে নিচ্ছি, যার মন্দ পরিণাম পরে চেখে দেখতে চাইব না?",
+      "ধ্বংস হয়ে যাওয়া জাতিগুলোর কাহিনি কি আমি নিজের জন্য সতর্কবাণী হিসেবে পড়ি, নাকি অন্যদের দিকে আঙুল তোলার ছাড়পত্র হিসেবে?",
+      "আয়াতটি বলে দুনিয়াতে তারা যা চেখেছে আর তার পরের শাস্তির কথা। এ দুটোর কোনটা নিয়ে আমি কম ভাবি, আর কেন?"
+    ],
+    "lessonEn": "Read the news of past peoples as a warning to yourself, and weigh the truth by what it says, not by how ordinary its bearer seems.",
+    "lessonBn": "আগের জাতিগুলোর খবর নিজের জন্য সতর্কবাণী হিসেবে পড়ুন, আর সত্যকে মাপুন তার কথা দিয়ে, বাহক কত সাধারণ তা দিয়ে নয়।"
   }
 };
 

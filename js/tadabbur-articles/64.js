@@ -159,6 +159,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "64:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Attributes, a Question",
+          "bn": "গুণাবলির পর একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Alam ya'tikum naba'u alladhina kafaru min qabl: has there not come to you the news of those who disbelieved before? The surah opens with four verses about Allah. They speak of His dominion, His creating and shaping, and His knowledge of what the breasts conceal. As-Sa'di explains the turn that follows. Having mentioned His perfect and tremendous attributes, by which He is known and worshipped, He now tells what He did with the earlier nations and the generations that have passed.",
+            "bn": "আলাম ইয়া'তিকুম নাবাউল্লাযীনা কাফারূ মিন কাবল: আগে যারা কুফরী করেছিল, তাদের খবর কি তোমাদের কাছে আসেনি? সূরার শুরুর চারটি আয়াত আল্লাহকে নিয়ে। সেখানে তাঁর রাজত্ব, তাঁর সৃষ্টি ও আকৃতি দান, আর অন্তরের গোপন কথা জানার বর্ণনা। এরপরের মোড়টা সা'দী ব্যাখ্যা করেন এভাবে: আল্লাহ প্রথমে নিজের পূর্ণ ও মহান গুণাবলির কথা বলেছেন, যা দিয়ে তাঁকে চেনা যায় এবং তাঁর ইবাদত করা হয়। তারপর জানাচ্ছেন, আগের জাতিগুলো আর অতীত প্রজন্মগুলোর সঙ্গে তিনি কী করেছেন।"
+          },
+          {
+            "en": "Who is being asked? At-Tabari says the words are spoken to the idolaters of Quraysh: has the news not reached you, O people, of those who disbelieved before you? Al-Qurtubi says the address is to Quraysh, and al-Baghawi that it speaks to the disbelievers of Makkah. The Muyassar writes the address into the question itself: O idolaters. The question asks for a conclusion rather than information: its listeners are expected to admit that the news has reached them, and to ask what it means for them.",
+            "bn": "প্রশ্নটা কাকে করা হচ্ছে? তাবারী বলেন, কথাটা কুরাইশের মুশরিকদের উদ্দেশে: হে লোকসকল, তোমাদের আগে যারা কুফরী করেছিল, তাদের খবর কি তোমাদের কাছে পৌঁছায়নি? কুরতুবীর মতে সম্বোধন কুরাইশকে। বাগাভী বলেন, এখানে মক্কার কাফিরদের সঙ্গে কথা বলা হচ্ছে। মুয়াসসার প্রশ্নের ভেতরেই সম্বোধনটা বসিয়ে দেয়: হে মুশরিকরা। প্রশ্নটা আসলে নতুন তথ্য চাইছে না, চাইছে একটা সিদ্ধান্ত। শ্রোতার কাছে আশা করা হচ্ছে, সে স্বীকার করবে যে খবর তার কাছে পৌঁছেছে। তারপর নিজেকে জিজ্ঞেস করবে, এর মানে তার জন্য কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "News Still Being Told",
+          "bn": "যে খবর আজও বলা হয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens the passage by saying that Allah is informing about the past nations, and the punishment and exemplary penalty that came upon them for opposing the messengers and denying the truth. He glosses naba' simply as their report and what became of their affair. As-Sa'di adds a phrase about how such news travels: these are nations whose reports later generations have never stopped talking about, and which truthful people pass on. The news is old, but it has never gone quiet.",
+            "bn": "ইবন কাসীর অংশটি শুরু করেন এই বলে যে, আল্লাহ অতীত জাতিগুলোর খবর দিচ্ছেন। রাসূলদের বিরোধিতা আর সত্যকে মিথ্যা বলার কারণে তাদের উপর যে শাস্তি ও দৃষ্টান্তমূলক সাজা নেমেছিল, সে খবর। নাবা' শব্দের ব্যাখ্যায় তিনি সোজা বলেন: তাদের খবর, আর তাদের ব্যাপারটা শেষে কোথায় গিয়ে দাঁড়িয়েছিল। এ খবর কীভাবে ছড়ায়, সা'দী সে কথা যোগ করেন। এরা এমন জাতি, যাদের কথা পরের প্রজন্মগুলো বলাবলি করা কখনো থামায়নি, আর সত্যবাদীরা তা পরের মানুষের কাছে পৌঁছে দিয়েছে। খবরটা পুরোনো, কিন্তু কখনো চুপ হয়ে যায়নি।"
+          },
+          {
+            "en": "At-Tabari gives examples of whom the verse means: the people of Nuh, 'Ad, Thamud, the people of Ibrahim and the people of Lut. The verse itself names none of them. Al-Qurtubi says the disbelievers of the past nations, and al-Baghawi the nations that have gone by. So the verse gathers many peoples under one description, those who disbelieved, and gives them one outcome.",
+            "bn": "আয়াতে কাদের কথা বলা হচ্ছে, তাবারী তার উদাহরণ দেন: নূহ (আঃ)-এর কওম, আদ, সামূদ, ইবরাহীম (আঃ)-এর কওম আর লূত (আঃ)-এর কওম। আয়াত নিজে কারও নাম নেয়নি। কুরতুবী বলেন, অতীত জাতিগুলোর কাফিররা। বাগাভী বলেন, যেসব জাতি চলে গেছে। অর্থাৎ অনেক জাতিকে আয়াতটি এক পরিচয়ে বেঁধেছে, যারা কুফরী করেছিল। আর সবার জন্য একটাই পরিণাম দেখিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Pasture That Sickens",
+          "bn": "যে চারণভূমি অসুখ আনে"
+        },
+        "p": [
+          {
+            "en": "Fa-dhaqu wabala amrihim: so they tasted the wabal of their affair. Al-Qurtubi does not define the word at this verse; he says only that they were punished, and that the matter has been discussed already. At 5:95, where the same phrase is used of a pilgrim who kills game, he defines it: al-wabal is an evil outcome. He gives the image behind the word. Al-mar'a al-wabil is a pasture whose grazing harms the animal after it has eaten, and food is called wabil when it lies heavy.",
+            "bn": "ফাযাকূ ওয়াবালা আমরিহিম: তারা নিজেদের কাজের ওয়াবাল চেখে দেখল। কুরতুবী এই আয়াতে শব্দটির সংজ্ঞা দেননি। শুধু বলেছেন, তাদের শাস্তি দেওয়া হয়েছে, আর বিষয়টি আগেই আলোচিত হয়েছে। ৫:৯৫ আয়াতে একই কথা এসেছে ইহরাম অবস্থায় শিকার করা ব্যক্তির ব্যাপারে। সেখানে তিনি সংজ্ঞা দেন: ওয়াবাল মানে মন্দ পরিণাম। শব্দের পেছনের ছবিটাও তিনি দেখান। আল-মারআল ওয়াবীল এমন চারণভূমি, যেখানে চরার পর পশুর কষ্ট শুরু হয়। আর খাবার পেটে ভারী হয়ে থাকলে তাকে বলা হয় ওয়াবীল।"
+          },
+          {
+            "en": "At this verse the others give the word in their own terms. Ibn Kathir calls it the unwholesome result of their denial and the vileness of their deeds, and says it is the punishment and disgrace that came upon them in this world. The Muyassar has the evil end of their disbelief and of their deeds. At-Tabari says Allah's punishment touched them for their disbelief, and al-Baghawi says it is the punishment that overtook them in this world.",
+            "bn": "এই আয়াতে বাকিরা শব্দটা নিজেদের ভাষায় বুঝিয়েছেন। ইবন কাসীর বলেন, তাদের মিথ্যা বলার অশুভ ফল আর তাদের কাজের নিকৃষ্টতা। তাঁর মতে এ হলো দুনিয়াতে তাদের উপর নেমে আসা শাস্তি ও লাঞ্ছনা। মুয়াসসারে আছে: তাদের কুফরী আর কর্মকাণ্ডের মন্দ পরিণাম। তাবারী বলেন, কুফরীর কারণে আল্লাহর শাস্তি তাদের স্পর্শ করেছিল। বাগাভী বলেন, এ সেই শাস্তি যা দুনিয়াতে তাদের পেয়ে বসেছিল।"
+          },
+          {
+            "en": "These glosses do not compete. Some name the thing that was tasted: punishment, as at-Tabari and al-Baghawi have it. Others name its quality: an outcome that turned bad, as in the Muyassar and in al-Qurtubi's definition at 5:95. The pasture image holds both together. The grazing looked like nourishment, and the sickness came afterwards from the same mouthful. The verse calls it the wabal of their affair, so the bitterness is tied to what they themselves chose, not described as something that arrived from nowhere.",
+            "bn": "এসব ব্যাখ্যা একে অন্যের বিপরীত নয়। কেউ বলেছেন কী চেখে দেখা হয়েছিল তার নাম: শাস্তি, যেমন তাবারী আর বাগাভী বলেছেন। কেউ বলেছেন তার স্বভাব: এমন পরিণাম যা শেষে মন্দ হয়ে দাঁড়ায়, যেমন মুয়াসসারে আর ৫:৯৫ আয়াতে কুরতুবীর সংজ্ঞায়। চারণভূমির ছবিটা দুটোকেই ধরে রাখে। চরার সময় মনে হয়েছিল খাদ্য। অসুখটা এসেছে পরে, সেই একই গ্রাস থেকে। আয়াতটি একে বলেছে তাদের নিজেদের কাজের ওয়াবাল। তাই এ তিক্ততা কোথাও থেকে হঠাৎ আসেনি, বাঁধা আছে তাদের নিজেদের বেছে নেওয়া পথের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Verb Is Taste",
+          "bn": "ক্রিয়াটি কেন চেখে দেখা"
+        },
+        "p": [
+          {
+            "en": "Why tasted, and not suffered or received? Al-Qurtubi, again at 5:95, says that tasting in such phrases is borrowed. Real tasting belongs to the sense in the tongue; in these uses it is extended to experience felt from within. He sets it beside two other verses: Taste! You are the mighty, the noble (44:49), and So Allah made it taste the garment of hunger and fear (16:112). In each, what is tasted is not food but a state, known from the inside as directly as a flavour.",
+            "bn": "চেখে দেখল কেন, ভোগ করল বা পেল কেন নয়? কুরতুবী ৫:৯৫ আয়াতেই বলেন, এ ধরনের কথায় চেখে দেখা শব্দটা ধার করা অর্থে এসেছে। আসল স্বাদ নেওয়া জিভের কাজ। এখানে তা বিস্তৃত হয়েছে ভেতর থেকে অনুভব করা অভিজ্ঞতা বোঝাতে। তিনি এর পাশে আরও দুটি আয়াত রাখেন: চেখে দেখ, তুমি তো ছিলে পরাক্রমশালী, সম্মানিত (৪৪:৪৯)। আর: আল্লাহ তাকে ক্ষুধা ও ভয়ের পোশাক চাখালেন (১৬:১১২)। প্রতিটিতে যা চাখা হচ্ছে তা খাবার নয়, একটা অবস্থা। আর সে অবস্থা ভেতর থেকে চেনা যায়, স্বাদ যেমন সরাসরি চেনা যায়।"
+          },
+          {
+            "en": "He then cites a hadith for the same use of the verb. Muslim records in his Sahih, from al-'Abbas ibn 'Abd al-Muttalib, that he heard the Messenger of Allah ﷺ say: He has found the taste of faith who is content with Allah as his Lord, with Islam as his religion and with Muhammad as his Messenger. This narration is not about 64:5, and none of the commentators consulted attaches a hadith to this verse. It shows only that the verb that names this bitterness also names the sweetness of faith.",
+            "bn": "ক্রিয়াটির এই ব্যবহার দেখাতে তিনি একটি হাদীসও আনেন। মুসলিম তাঁর সহীহ গ্রন্থে আব্বাস ইবন আব্দুল মুত্তালিব (রাঃ) থেকে বর্ণনা করেছেন, তিনি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছেন: সে ঈমানের স্বাদ পেয়েছে, যে আল্লাহকে রব হিসেবে, ইসলামকে দ্বীন হিসেবে আর মুহাম্মাদকে রাসূল হিসেবে পেয়ে সন্তুষ্ট। এই বর্ণনা ৬৪:৫ আয়াত সম্পর্কে নয়। আর যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। বর্ণনাটি শুধু এটুকু দেখায়: যে ক্রিয়া এখানে তিক্ততার নাম, সেই ক্রিয়াই ঈমানের মিষ্টতারও নাম।"
+          },
+          {
+            "en": "One more note from the same place concerns amr, affair. Al-Qurtubi says that by his affair the verse expresses the whole of a person's condition. Read that way here, wabala amrihim is not the result of a single act but of the whole course they took. Ibn Kathir's gloss points the same direction, since he speaks of both their denial and their deeds.",
+            "bn": "একই জায়গা থেকে আরেকটি কথা আমর শব্দ নিয়ে, অর্থাৎ ব্যাপার বা কাজ। কুরতুবী বলেন, তার ব্যাপার বলে মানুষের পুরো অবস্থাটাই বোঝানো হয়েছে। এখানে সেভাবে পড়লে ওয়াবালা আমরিহিম কোনো একটি কাজের ফল নয়। এ হলো তাদের গোটা চলার পথের ফল। ইবন কাসীরের ব্যাখ্যাও সেদিকেই ইঙ্গিত দেয়, কারণ তিনি তাদের মিথ্যা বলা আর কাজকর্ম দুটোর কথাই বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Taste, Then the Meal",
+          "bn": "আগে স্বাদ, পরে পুরো ভাগ"
+        },
+        "p": [
+          {
+            "en": "Wa-lahum 'adhabun alim: and for them is a painful punishment. Every commentator consulted places this second punishment in the Hereafter. Ibn Kathir says it is in the abode of the Hereafter, added to the punishment of this world. At-Tabari says it is a painful, aching punishment on the Day of Resurrection in the fire of Jahannam, together with the wabal of their disbelief that Allah made them taste in this world. Al-Qurtubi, al-Baghawi and the Muyassar also say in the Hereafter, and al-Qurtubi glosses alim as aching.",
+            "bn": "ওয়া লাহুম আযাবুন আলীম: আর তাদের জন্য আছে কষ্টদায়ক শাস্তি। যেসব তাফসীর দেখা হয়েছে, সবাই এই দ্বিতীয় শাস্তিকে আখিরাতে রেখেছেন। ইবন কাসীর বলেন, তা আখিরাতের ঘরে, দুনিয়ার শাস্তির সঙ্গে যোগ হয়ে। তাবারী বলেন, কিয়ামতের দিন জাহান্নামের আগুনে যন্ত্রণাদায়ক, ব্যথাভরা শাস্তি। আর তা আসবে দুনিয়াতে আল্লাহ তাদের যে কুফরীর ওয়াবাল চাখিয়েছেন, তার সঙ্গে মিলে। কুরতুবী, বাগাভী আর মুয়াসসারও বলেন, আখিরাতে। কুরতুবী আলীম শব্দের অর্থ করেন ব্যথাদায়ক।"
+          },
+          {
+            "en": "As-Sa'di separates them in the same way: Allah made them taste the wabal of their affair in this world and disgraced them in it, and for them in the Hereafter is a painful punishment. The verse marks the difference in its grammar as well. Dhaqu, they tasted, is a past verb: that part is finished. Lahum 'adhab, for them is a punishment, is a sentence with no past tense in it: that part still stands. The worldly ruin did not close their account. In the image of the verb, it was a taste.",
+            "bn": "সা'দীও এভাবেই এদের আলাদা রাখেন: আল্লাহ দুনিয়াতে তাদের কাজের ওয়াবাল চাখিয়েছেন, সেখানে লাঞ্ছিত করেছেন। আর আখিরাতে তাদের জন্য আছে কষ্টদায়ক শাস্তি। আয়াতের ব্যাকরণেও এ পার্থক্য চোখে পড়ে। যাকূ, তারা চেখেছে, অতীত কালের ক্রিয়া। সে অংশ শেষ হয়ে গেছে। লাহুম আযাব, তাদের জন্য আছে শাস্তি, এ বাক্যে কোনো অতীত কাল নেই। সে অংশ এখনো বাকি। দুনিয়ার ধ্বংসে তাদের হিসাব মিটে যায়নি। ক্রিয়াটির ছবি দিয়েই বললে, ওটা ছিল কেবল স্বাদ নেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Objection Was the Messenger",
+          "bn": "আপত্তি ছিল বাহককে নিয়ে"
+        },
+        "p": [
+          {
+            "en": "The next verse gives the cause, and the commentators read it as the cause of what this verse describes. At-Tabari spells the link out: what befell those who disbelieved before these idolaters, the wabal of their disbelief and what their Lord prepared for them on the Day of Resurrection, came because their messengers brought them clear proofs. Ibn Kathir explains those proofs as arguments, indications and demonstrations; the Muyassar as clear signs and evident miracles.",
+            "bn": "পরের আয়াতে কারণটা বলা হয়েছে, আর তাফসীরকারেরা তা পড়েন এই আয়াতে বর্ণিত পরিণামের কারণ হিসেবে। তাবারী যোগসূত্রটা খুলে বলেন। এই মুশরিকদের আগে যারা কুফরী করেছিল, তাদের উপর কুফরীর যে ওয়াবাল নেমেছিল, আর কিয়ামতের দিনের জন্য তাদের রব যে শাস্তি তৈরি রেখেছেন, তার কারণ হলো রাসূলগণ তাদের কাছে স্পষ্ট প্রমাণ নিয়ে এসেছিলেন। ইবন কাসীর সেসব প্রমাণের ব্যাখ্যা করেন যুক্তি, নিদর্শন আর অকাট্য দলিল বলে। মুয়াসসার বলে, সুস্পষ্ট আয়াত আর প্রকাশ্য মুজিযা।"
+          },
+          {
+            "en": "Their reply was a-basharun yahdunana: shall humans guide us? Ibn Kathir says they thought it unlikely that the message should come among humans, and that their guidance should come at the hand of a human like themselves. At-Tabari names the motive as arrogance: too proud to accept that Allah's messengers were humans like them, and too proud to follow the truth because a human like them called to it. At-Tabari, al-Qurtubi and al-Baghawi note that bashar is singular in form but plural in meaning, which is why the verb is plural.",
+            "bn": "তাদের জবাব ছিল আবাশারুন ইয়াহদূনানা: মানুষ আমাদের পথ দেখাবে? ইবন কাসীর বলেন, রিসালাত মানুষের মধ্যে আসবে, আর তাদের মতোই একজন মানুষের হাতে তাদের হেদায়েত আসবে, এটা তারা অসম্ভব মনে করেছিল। তাবারী এর পেছনের কারণকে বলেন অহংকার। আল্লাহর রাসূলরা তাদের মতোই মানুষ, এটা মানতে তাদের অহংকারে বেধেছিল। আর তাদের মতো একজন মানুষ ডাকছে বলে সত্যের অনুসরণেও তারা অহংকার দেখিয়েছিল। তাবারী, কুরতুবী আর বাগাভী লক্ষ করেন, বাশার শব্দটি দেখতে একবচন হলেও অর্থে বহুবচন। সে কারণেই ক্রিয়াটি বহুবচনে এসেছে।"
+          },
+          {
+            "en": "As-Sa'di puts words to the complaint: they have no merit over us, so why has Allah singled them out? He answers with the messengers' reply in another surah: we are only humans like you, but Allah confers favour on whom He wills of His servants (14:11). In his reading they tried to fence off Allah's favour from His prophets, and were too proud to follow them. Then he adds a consequence: they were afflicted with the worship of stones, trees and the like. They would not be guided by a human, and ended up bowing to what is less than one.",
+            "bn": "সা'দী তাদের অভিযোগটা ভাষায় তুলে ধরেন: আমাদের উপর তাদের কোনো শ্রেষ্ঠত্ব নেই, তাহলে আল্লাহ আমাদের বাদ দিয়ে তাদেরই বেছে নিলেন কেন? এর জবাব তিনি দেন অন্য সূরায় রাসূলদের কথা দিয়ে: আমরা তোমাদের মতোই মানুষ মাত্র, কিন্তু আল্লাহ তাঁর বান্দাদের মধ্যে যার প্রতি ইচ্ছা অনুগ্রহ করেন (১৪:১১)। তাঁর মতে তারা নবীদের উপর আল্লাহর অনুগ্রহকে আটকে দিতে চেয়েছিল, আর অহংকারে তাঁদের অনুসরণ করেনি। তারপর তিনি একটা পরিণাম যোগ করেন। তাদের পরীক্ষায় ফেলা হলো পাথর, গাছ আর এ জাতীয় জিনিসের পূজায়। মানুষের হাতে পথ পেতে তারা রাজি হয়নি। শেষে মাথা নোয়াল মানুষের চেয়েও নিচু জিনিসের সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Was Free of Them",
+          "bn": "তিনি তাদের মুখাপেক্ষী নন"
+        },
+        "p": [
+          {
+            "en": "Fa-kafaru wa-tawallaw: so they disbelieved and turned away. Al-Qurtubi gives two readings. In the first, they disbelieved by this very saying, which they spoke in belittlement, not knowing that Allah sends whom He wills to His servants. In the second, introduced with it is said, they disbelieved in the messengers, turned from the proof and turned away from faith and admonition. At-Tabari has them reject the messengers' mission out of arrogance and turn their backs on the truth.",
+            "bn": "ফাকাফারূ ওয়া তাওয়াল্লাও: তারা কুফরী করল আর মুখ ফিরিয়ে নিল। কুরতুবী দুটি ব্যাখ্যা দেন। প্রথমটিতে, ওই কথা বলাটাই ছিল তাদের কুফরী। তুচ্ছ করে তারা কথাটা বলেছিল, অথচ জানত না যে আল্লাহ তাঁর বান্দাদের কাছে যাকে ইচ্ছা পাঠান। দ্বিতীয়টি তিনি আনেন 'বলা হয়' দিয়ে: তারা রাসূলদের অস্বীকার করেছিল, প্রমাণ থেকে সরে গিয়েছিল, ঈমান আর নসিহত থেকে মুখ ফিরিয়েছিল। তাবারীর মতে অহংকারবশে তারা রাসূলদের রিসালাত অস্বীকার করেছিল, আর সত্যের দিকে পিঠ ফিরিয়েছিল।"
+          },
+          {
+            "en": "Wa-staghna Allah: and Allah was free of need. Of what? Al-Qurtubi again records two readings and does not choose. Muqatil said: free, by His sovereignty, of the obedience of His servants. Others said: free, through the proof He had shown them and the clarity He had given, of any further addition that would call them to guidance. At-Tabari reads it as free of them and of their faith in Him and His messengers, with no need of that from them.",
+            "bn": "ওয়াসতাগনাল্লাহ: আর আল্লাহ অমুখাপেক্ষী রইলেন। কিসের থেকে? কুরতুবী এখানেও দুটি মত উল্লেখ করেন, কোনোটিকে বেছে নেন না। মুকাতিল বলেন, নিজের রাজত্বের জোরে বান্দাদের আনুগত্য থেকে অমুখাপেক্ষী। অন্যরা বলেন, তাদের সামনে যে প্রমাণ তিনি প্রকাশ করেছিলেন আর যে স্পষ্ট বর্ণনা দিয়েছিলেন, তার পর হেদায়েতের দিকে ডাকার জন্য আর কোনো বাড়তি কিছুর দরকার তাঁর ছিল না। তাবারী অর্থ করেন, তাদের থেকে আর তাঁর ও তাঁর রাসূলদের প্রতি তাদের ঈমান থেকে তিনি অমুখাপেক্ষী, তাদের কাছে এর কোনো প্রয়োজন তাঁর ছিল না।"
+          },
+          {
+            "en": "The verse closes, wa-llahu ghaniyyun hamid: Allah is Free of need, Praiseworthy. At-Tabari says He is free of need of all His creation, and praised by all of them for His fine favours and generous dealings with them. As-Sa'di and the Muyassar say His independence is complete and absolute, that He pays them no heed, and that their going astray harms Him in nothing. Al-Qurtubi says no loss reaches Him by it. Read back into 64:5, the warning was never about what Allah stood to lose.",
+            "bn": "আয়াত শেষ হয় এভাবে, ওয়াল্লাহু গানিয়্যুন হামীদ: আল্লাহ অমুখাপেক্ষী, প্রশংসিত। তাবারী বলেন, তিনি তাঁর সব সৃষ্টি থেকে অমুখাপেক্ষী। আর তাদের প্রতি তাঁর সুন্দর অনুগ্রহ আর উদার আচরণের জন্য সবাই তাঁর প্রশংসা করে। সা'দী আর মুয়াসসার বলেন, তাঁর অমুখাপেক্ষিতা পূর্ণ ও শর্তহীন। তাদের নিয়ে তাঁর কোনো পরোয়া নেই, তাদের গোমরাহি তাঁর কোনো ক্ষতিই করে না। কুরতুবী বলেন, এতে তাঁর কোনো ঘাটতি হয় না। এ কথা ৬৪:৫ আয়াতে ফিরিয়ে পড়লে বোঝা যায়, সতর্কবাণীটা কখনো আল্লাহর কিছু হারানোর ভয় থেকে আসেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The News Has Now Arrived",
+          "bn": "খবর এখন পৌঁছে গেছে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: earlier peoples who rejected the messengers sent to them with clear proofs, and the outcome Allah gave them. The examples at-Tabari gives are peoples of the distant past. The verse licenses nothing against any living person or community. It does not identify any present-day nation, people or group with those peoples, and it gives no one the right to name a disaster that strikes others today as their wabal. That judgement belongs to Allah alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা তার ভাষায় আছে: আগের কিছু জাতি, যারা স্পষ্ট প্রমাণসহ পাঠানো রাসূলদের প্রত্যাখ্যান করেছিল, আর আল্লাহ তাদের যে পরিণাম দিয়েছেন। তাবারী যেসব উদাহরণ দেন, তারা বহু আগের জাতি। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো জাতি, গোষ্ঠী বা দলকে এ আয়াত ওই জাতিগুলোর সঙ্গে এক করে না। আজ অন্য কারও উপর বিপদ এলে তাকে তাদের ওয়াবাল বলে ঘোষণা করার অধিকারও কাউকে দেয় না। সে বিচার কেবল আল্লাহর।"
+          },
+          {
+            "en": "The question's first hearers were Quraysh, and it now reaches everyone who recites the surah. What the earlier peoples did, according to 64:6, was not to answer the proofs but to object to the person who brought them. That move is familiar. A reminder is set aside because the one who gives it seems too ordinary, too young, too close or too much like oneself. The verse places that refusal at the root of a ruin, and the reader is asked to look for it first in himself, not in others.",
+            "bn": "প্রশ্নটির প্রথম শ্রোতা ছিল কুরাইশ। আর এখন তা পৌঁছায় প্রত্যেক মানুষের কাছে, যে এই সূরা তিলাওয়াত করে। ৬৪:৬ আয়াত অনুযায়ী আগের জাতিগুলো প্রমাণের জবাব দেয়নি, আপত্তি তুলেছিল প্রমাণ যিনি এনেছেন তাঁকে নিয়ে। এই আচরণ আমাদের অচেনা নয়। নসিহত যিনি করছেন, তাঁকে খুব সাধারণ মনে হয়, বয়সে ছোট মনে হয়, খুব কাছের বা নিজেরই মতো মনে হয়। আর সেজন্য কথাটাই সরিয়ে রাখা হয়। আয়াতটি এই প্রত্যাখ্যানকে একটি ধ্বংসের মূলে রেখেছে। পাঠককে বলা হচ্ছে, এটা আগে নিজের মধ্যে খুঁজুন, অন্যের মধ্যে নয়।"
+          },
+          {
+            "en": "Alam ya'tikum expects the answer yes. For the reader, the news has arrived, and in this very verse. What follows in the surah is the call it was leading to: so believe in Allah and His Messenger and the light We have sent down (64:8). The past nations are not held up as a curiosity or as a weapon. They are held up as a report, and a report asks only one thing of the person who receives it: what will you now do with what you know?",
+            "bn": "আলাম ইয়া'তিকুম প্রশ্নটার উত্তর হওয়ার কথা: হ্যাঁ, পৌঁছেছে। পাঠকের কাছে খবরটা পৌঁছে গেছে, এই আয়াতেই। সূরায় এরপর আসে সেই ডাক, যার দিকে কথাটা এগোচ্ছিল: অতএব আল্লাহ, তাঁর রাসূল আর আমার নাযিল করা নূরের প্রতি ঈমান আনো (৬৪:৮)। অতীত জাতিগুলোকে কৌতূহলের বিষয় বা অস্ত্র হিসেবে সামনে আনা হয়নি। আনা হয়েছে একটা খবর হিসেবে। আর খবর যার কাছে পৌঁছায়, তার কাছে সে একটাই জিনিস চায়: যা জানলেন, এখন তা দিয়ে কী করবেন?"
+          }
+        ]
+      }
+    ]
+  },
   "64:11": {
     "sections": [
       {
