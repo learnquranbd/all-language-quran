@@ -24131,6 +24131,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "See the clouds, the rain and the hail as Allah's work, measured by His will and wisdom, and let every storm turn you back to Him in gratitude and awe.",
     "lessonBn": "মেঘ, বৃষ্টি আর শিলাকে আল্লাহর কাজ হিসেবে দেখুন, যা তাঁর ইচ্ছা ও প্রজ্ঞায় মাপা। প্রতিটি ঝড় যেন আপনাকে কৃতজ্ঞতা ও ভয়ভরা বিস্ময় নিয়ে তাঁর দিকে ফিরিয়ে নেয়।"
+  },
+  "25:29": {
+    "reflectionEn": "On that Day a man bites his own hands and points, without a name, at the friend who brought him there. His complaint is exact: he led me away from the reminder after it had come to me. It had come. He heard it and knew it, and still a companion's voice counted for more. Then the verse closes on a harder truth: Satan is ever a deserter of man. The one who urges you on is never there when the reckoning arrives. This is not a verse for judging other people's friends. It is a question about mine. Whose approval do I need so badly that I would set aside what I know is true to keep it?",
+    "reflectionBn": "সেদিন এক লোক নিজের দুই হাত কামড়াবে, আর নাম না নিয়ে আঙুল তুলবে সেই বন্ধুর দিকে, যে তাকে এ পর্যন্ত টেনে এনেছে। তার অভিযোগ একেবারে নির্দিষ্ট: উপদেশ আমার কাছে আসার পরও সে আমাকে তা থেকে সরিয়ে দিয়েছিল। উপদেশ তো এসেছিল। সে শুনেছিল, বুঝেছিল। তবু বন্ধুর কথার ওজন তার কাছে বেশি ছিল। আয়াতটি শেষ হয় আরও কঠিন এক সত্যে: শয়তান মানুষকে বরাবরই বিপদের মুখে ফেলে চলে যায়। যে আজ উসকে দেয়, হিসাবের দিনে তাকে পাশে পাওয়া যায় না। অন্যের বন্ধু বাছাই নিয়ে রায় দেওয়ার আয়াত এটা নয়। প্রশ্নটা আমার নিজের বন্ধুদের নিয়ে। কার সন্তুষ্টি আমার কাছে এত জরুরি যে তা ধরে রাখতে আমি জানা সত্যকেও পাশে সরিয়ে রাখতে রাজি?",
+    "pointsEn": [
+      "Whose good opinion would I find hardest to lose, and has it ever kept me from doing what I knew was right?",
+      "When the Qur'an reaches me with something I need to change, who around me helps me act on it, and who talks me out of it?",
+      "Am I, for anyone, the friend who draws them away from the reminder?",
+      "How can I keep a friendship without following it into what is wrong?",
+      "Which voice urging me on today would be nowhere to be found if I had to answer for where it led?"
+    ],
+    "pointsBn": [
+      "কার ভালো ধারণা হারানো আমার কাছে সবচেয়ে কঠিন? সেই ভয় কি কখনো আমাকে জানা সঠিক কাজটা থেকে আটকে রেখেছে?",
+      "কুরআন যখন আমাকে এমন কিছু বলে যা বদলানো দরকার, আমার আশপাশে কে আমাকে তা মানতে সাহায্য করে, আর কে বুঝিয়ে-সুঝিয়ে ফিরিয়ে আনে?",
+      "আমি নিজে কি কারও জন্য সেই বন্ধু, যে তাকে উপদেশ থেকে দূরে টেনে নেয়?",
+      "বন্ধুত্ব রেখেও তার পিছু পিছু অন্যায়ে না যাওয়া আমার পক্ষে কীভাবে সম্ভব?",
+      "আজ যে কণ্ঠ আমাকে উসকে দিচ্ছে, কাল তার পরিণামের জবাব দিতে হলে কি তাকে কোথাও খুঁজে পাওয়া যাবে?"
+    ],
+    "lessonEn": "Choose companions who bring you nearer to the reminder, not further from it; the one who leads you astray will not stand with you when it counts.",
+    "lessonBn": "এমন সঙ্গী বেছে নিন যে আপনাকে উপদেশের কাছে নিয়ে যায়, দূরে নয়। যে পথভ্রষ্ট করে, আসল সময়ে সে আপনার পাশে থাকবে না।"
   }
 };
 

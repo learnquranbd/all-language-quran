@@ -1023,6 +1023,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Bitten Hands Lead",
+          "bn": "হাত কামড়ানোর পরের কথা"
+        },
+        "p": [
+          {
+            "en": "Surah al-Furqan pauses here on a single scene from the Day of Judgment. In 25:27 the wrongdoer bites on his hands and says he wishes he had taken a way with the Messenger. In 25:28 he cries out in woe and wishes he had never taken so-and-so as a khalil, a close friend. This verse, 25:29, gives the reason behind both wishes. He says what the friend did to him, and then a final clause steps back to say something about Satan and man.",
+            "bn": "সূরা আল-ফুরকান এখানে বিচার দিবসের একটিমাত্র দৃশ্যে থেমে দাঁড়ায়। ২৫:২৭ আয়াতে জালিম নিজের হাত কামড়ায় আর বলে, হায়, যদি রাসূলের সঙ্গে একটা পথ ধরতাম! ২৫:২৮ আয়াতে সে আফসোসে চিৎকার করে ওঠে: হায়, অমুককে যদি খলিল, মানে অন্তরঙ্গ বন্ধু বানিয়ে না নিতাম! দুটো আফসোসের কারণ খুলে বলে এই আয়াত, ২৫:২৯। বন্ধুটি তার সঙ্গে কী করেছে, সে তা বলে। তারপর শেষ বাক্যটি একটু সরে দাঁড়িয়ে শয়তান আর মানুষের সম্পর্ক নিয়ে একটা কথা বলে।"
+          },
+          {
+            "en": "The three verses read as one confession. At-Tabari, on 25:27, glosses the wrongdoer as one who wronged himself by associating partners with his Lord, biting his hands in regret for ruining himself through obedience to the friend who barred him from his Lord's path. The Muyassar reads 25:27 to 25:29 together and closes them with a warning: these verses caution against keeping bad company, since a bad companion may be the cause of bringing his companion into the Fire.",
+            "bn": "তিনটি আয়াত মিলে একটাই স্বীকারোক্তি। ২৫:২৭ আয়াতের ব্যাখ্যায় তাবারী বলেন, এ জালিম রবের সঙ্গে শরিক করে নিজের উপর জুলুম করেছে। যে বন্ধু তাকে রবের পথ থেকে আটকে রেখেছিল, তার আনুগত্য করে সে নিজেকে ধ্বংস করেছে। সেই আফসোসেই সে হাত কামড়ায়। মুয়াসসার ২৫:২৭ থেকে ২৫:২৯ একসঙ্গে পড়ে, আর শেষে একটা সতর্কবাণী জুড়ে দেয়: এ আয়াতগুলো খারাপ সঙ্গ থেকে সাবধান করে, কেননা খারাপ সঙ্গী তার সঙ্গীকে জাহান্নামে নিয়ে যাওয়ার কারণ হতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Led Astray by a Friend",
+          "bn": "বন্ধুর হাতে বিপথে"
+        },
+        "p": [
+          {
+            "en": "The confession opens with la-qad adallani: he truly led me astray. At-Tabari explains it as the words of this man, regretful over what he did in the world, when he disobeyed his Lord in obedience to his friend: he led me astray from faith in the Qur'an after it came to me from Allah, and turned me away from it. Al-Qurtubi has the regretful man say that the friend he took in the world led him astray from the Qur'an and from believing in it.",
+            "bn": "স্বীকারোক্তির শুরু লাকাদ আদাল্লানী দিয়ে: সে-ই তো আমাকে পথভ্রষ্ট করেছিল। তাবারীর ব্যাখ্যায় এ সেই অনুতপ্ত লোকের কথা, যে দুনিয়ায় বন্ধুর আনুগত্য করতে গিয়ে রবের নাফরমানি করেছিল। সে বলছে: আল্লাহর কাছ থেকে কুরআন আমার কাছে আসার পরও সে আমাকে তার উপর ঈমান আনা থেকে বিপথে নিয়েছিল, ফিরিয়ে রেখেছিল। কুরতুবীর ব্যাখ্যায় অনুতপ্ত লোকটি বলে, দুনিয়ায় যাকে আমি বন্ধু বানিয়েছিলাম, সে-ই আমাকে কুরআন থেকে আর কুরআনে বিশ্বাস থেকে দূরে সরিয়ে দিয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di names the method. The friend led him astray by making his misguidance look attractive to him, through deception and through taswil, the dressing up of a wrong path as sensible. Nothing in that description is force. The friend did not drag him; he decorated. That is why the wish of 25:28 is aimed so precisely. The man does not say he was overpowered. He says he chose the friendship, and the friendship did the rest.",
+            "bn": "পথভ্রষ্ট করার কৌশলটা সা'দী স্পষ্ট করে বলেন। ধোঁকা আর তাসওয়ীলের মাধ্যমে বন্ধুটি তার গোমরাহিকে তার চোখে সুন্দর করে তুলেছিল। তাসওয়ীল মানে ভুল পথকে সাজিয়ে-গুছিয়ে যুক্তিসঙ্গত দেখানো। এ বর্ণনায় জোরজবরদস্তির কোনো কথা নেই। বন্ধু তাকে টেনে নেয়নি, সাজিয়ে দেখিয়েছে। এ কারণেই ২৫:২৮ আয়াতের আফসোস এত নির্দিষ্ট। লোকটি বলে না যে তাকে কেউ কাবু করে ফেলেছিল। সে বলে, বন্ধুত্বটা আমি নিজেই বেছে নিয়েছিলাম, বাকিটা সেই বন্ধুত্বই করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reminder Had Already Come",
+          "bn": "উপদেশ তো এসেই গিয়েছিল"
+        },
+        "p": [
+          {
+            "en": "The commentators largely agree on what adh-dhikr, the reminder, means here. Ibn Kathir and the Muyassar say it is the Qur'an. At-Tabari says faith in the Qur'an, adding that the Qur'an is the dhikr. Al-Baghawi gives faith and the Qur'an together. Al-Qurtubi takes the Qur'an and belief in it as his main reading, and then reports a second view with the words it is said: the reminder here is the Messenger himself.",
+            "bn": "আয-যিকর, অর্থাৎ উপদেশ, এখানে কী, এ নিয়ে তাফসীরকারেরা মোটামুটি একমত। ইবন কাসীর ও মুয়াসসার বলেন, এটি কুরআন। তাবারী বলেন কুরআনের উপর ঈমান, আর সোজাসুজি যোগ করেন যে কুরআনই সেই যিকর। বাগাভী ঈমান ও কুরআন দুটোকে একসঙ্গে ধরেন। কুরতুবীর মূল ব্যাখ্যা কুরআন ও তাতে বিশ্বাস। তারপর 'বলা হয়' শব্দে তিনি আরেকটি মত আনেন: এখানে উপদেশ মানে স্বয়ং রাসূল।"
+          },
+          {
+            "en": "The next phrase, ba'da idh ja'ani, after it had come to me, is where the regret cuts deepest. Ibn Kathir reads it as after it had reached me. At-Tabari specifies that it came to him from Allah. Al-Baghawi says the reminder came with the Messenger, which ties this verse back to the wish of 25:27 to have taken a way with him. The man is not pleading ignorance. He is admitting that the message was in his hands and that he let a friend take it from him.",
+            "bn": "পরের অংশ বা'দা ইয জাআনী, অর্থাৎ আমার কাছে আসার পর। আফসোসের সবচেয়ে গভীর খোঁচা এখানেই। ইবন কাসীর এর মানে করেন: আমার কাছে পৌঁছে যাওয়ার পর। তাবারী নির্দিষ্ট করে বলেন, তা এসেছিল আল্লাহর কাছ থেকে। বাগাভী বলেন, উপদেশ এসেছিল রাসূলের সঙ্গে। এতে আয়াতটি আবার জুড়ে যায় ২৫:২৭ আয়াতের সেই আফসোসের সঙ্গে, রাসূলের সঙ্গে পথ ধরার আফসোস। লোকটি না জানার অজুহাত দিচ্ছে না। সে মেনে নিচ্ছে, বার্তা তার হাতেই ছিল, আর সে এক বন্ধুকে তা কেড়ে নিতে দিয়েছে।"
+          },
+          {
+            "en": "The very next verse, 25:30, turns to the Messenger, who tells his Lord that his people have taken this Qur'an as something abandoned. Side by side stand one man's admission that he was turned from the reminder after it reached him, and the Messenger's complaint about a people who left it. That verse has its own lesson; the reminder is simply the thread that runs through both.",
+            "bn": "ঠিক পরের আয়াত, ২৫:৩০, জালিমের কথা থেকে চলে যায় রাসূলের কথায়। তিনি তাঁর রবকে বলেন, আমার জাতি এ কুরআনকে পরিত্যক্ত করে রেখেছিল। পাশাপাশি দুই কথা। একদিকে এক লোকের স্বীকারোক্তি, উপদেশ পৌঁছানোর পরও তাকে তা থেকে ফিরিয়ে রাখা হয়েছিল। অন্যদিকে রাসূলের অভিযোগ, এক জাতি তা ফেলে রেখেছিল। সে আয়াতের শিক্ষা আলাদা। দুটোকে একই সুতোয় বেঁধে রেখেছে উপদেশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Was So-and-So?",
+          "bn": "কে সেই অমুক?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, on 25:28, records that the interpreters differed over whom the wrongdoer and so-and-so refer to. Some said the wrongdoer was 'Uqbah ibn Abi Mu'ayt, who turned back after accepting Islam to win the approval of Ubayy ibn Khalaf, and that so-and-so is Ubayy. He relays this from Ibn 'Abbas (RA) and from Miqsam. From ash-Sha'bi he relays instead that 'Uqbah's close friend was Umayyah ibn Khalaf, who told him his face was forbidden to him if he followed Muhammad.",
+            "bn": "২৫:২৮ আয়াতের ব্যাখ্যায় তাবারী জানান, জালিম আর অমুক বলতে কাকে বোঝানো হয়েছে, তা নিয়ে তাফসীরকারদের মতভেদ আছে। কারও কারও মতে জালিম হলো উকবা ইবন আবী মুআইত। সে ইসলাম গ্রহণ করে উবাই ইবন খালাফের মন রাখতে আবার ফিরে গিয়েছিল। আর অমুক হলো উবাই। এ কথা তিনি বর্ণনা করেন ইবন আব্বাস (রাঃ) ও মিকসাম থেকে। শা'বী থেকে তিনি আনেন ভিন্ন নাম: উকবার অন্তরঙ্গ বন্ধু ছিল উমাইয়া ইবন খালাফ। সে উকবাকে বলেছিল, তুমি মুহাম্মাদের অনুসরণ করলে তোমার মুখ দেখা আমার জন্য হারাম।"
+          },
+          {
+            "en": "The fullest story runs through a meal. In Mujahid's report in at-Tabari and in al-Baghawi, 'Uqbah invited people to eat, the Prophet ﷺ would not eat until 'Uqbah bore witness to the testimony of faith, and he did. His friend rebuked him, and 'Uqbah answered that he had said it only for the meal's sake: in Mujahid's report, not from his heart; in al-Baghawi's, so that a guest would not leave his house unfed. The reports then part. In al-Baghawi the friend demanded that 'Uqbah spit in the Prophet's face, and he did; in Miqsam's report, Allah did not give him the power to.",
+            "bn": "সবচেয়ে বিস্তারিত কাহিনিটা এক দাওয়াতকে ঘিরে। তাবারীতে মুজাহিদের বর্ণনায় আর বাগাভীতে আছে: উকবা লোকজনকে খাওয়ার দাওয়াত দিল। নবী ﷺ বললেন, উকবা কালেমার সাক্ষ্য না দেওয়া পর্যন্ত তিনি খাবেন না। উকবা সাক্ষ্য দিল। এরপর তার বন্ধু তাকে তিরস্কার করল। উকবা জবাব দিল, কথাটা সে বলেছিল শুধু খাবারের খাতিরে। মুজাহিদের বর্ণনায়, মন থেকে বলেনি। বাগাভীর বর্ণনায়, মেহমান না খেয়ে ঘর থেকে চলে যাবেন, সেই লজ্জা এড়াতে। এখান থেকে বর্ণনাগুলো আলাদা হয়ে যায়। বাগাভীতে বন্ধুটি দাবি করে, উকবা যেন নবী ﷺ-এর মুখে থুথু দেয়, আর সে তা-ই করে। মিকসামের বর্ণনায় আছে, আল্লাহ তাকে সে ক্ষমতা দেননি।"
+          },
+          {
+            "en": "Mujahid also has a second view, which at-Tabari files under others said: so-and-so is Satan. Al-Qurtubi relays it from Mujahid and Abu Raja', with the wrongdoer taken as any wrongdoer at all, and notes that its holders point to what follows: and Satan is ever a deserter of man. Ibn Kathir leaves the identity open, writing that the friend may be Umayyah ibn Khalaf, his brother Ubayy, or someone else among those who call to misguidance.",
+            "bn": "মুজাহিদের আরেকটি মতও আছে, তাবারী যেটিকে রেখেছেন 'অন্যরা বলেছেন' শিরোনামে: অমুক হলো শয়তান। কুরতুবী এ মত আনেন মুজাহিদ ও আবু রাজা থেকে। তাঁদের মতে জালিম বলতে যেকোনো জালিমকেই বোঝায়। কুরতুবী আরও জানান, এ মতের পক্ষের লোকেরা পরের অংশকে দলিল হিসেবে আনেন: আর শয়তান মানুষকে বরাবরই অসহায় ফেলে চলে যায়। ইবন কাসীর পরিচয়টা খোলা রাখেন। তাঁর মতে বন্ধুটি উমাইয়া ইবন খালাফ হতে পারে, তার ভাই উবাই হতে পারে, কিংবা গোমরাহির দিকে ডাকা অন্য কেউ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Withheld on Purpose",
+          "bn": "নামটা ইচ্ছা করেই নেই"
+        },
+        "p": [
+          {
+            "en": "Why does the verse say so-and-so and not a name? Al-Qurtubi answers twice. On 25:27 he says the two men were not named because that carries the benefit further, so that it is known this is the way of every wrongdoer who accepts another's lead in disobeying Allah. On 25:28 he adds that the friend was alluded to rather than named so that the threat would not be confined to him, but would reach everyone who does what the two of them did.",
+            "bn": "আয়াতে নাম না বলে 'অমুক' বলা হলো কেন? কুরতুবী এর জবাব দেন দুই জায়গায়। ২৫:২৭ আয়াতে তিনি বলেন, দুজনের নাম না আসায় শিক্ষাটা আরও দূর পর্যন্ত পৌঁছায়। সবাই বুঝে নেয়, আল্লাহর নাফরমানিতে যে-ই অন্যের কথা মেনে নেয়, প্রত্যেক এমন জালিমের পরিণতি এটাই। ২৫:২৮ আয়াতে তিনি যোগ করেন, বন্ধুর নাম স্পষ্ট না বলে ইঙ্গিতে রাখা হয়েছে, যাতে এ হুমকি শুধু তার মধ্যেই আটকে না থাকে। ওই দুজনের মতো কাজ যে-ই করুক, হুমকি তার কাছেও পৌঁছায়।"
+          },
+          {
+            "en": "The others say the same in their own terms. Ibn Kathir writes that whether the verse came down about 'Uqbah or another of the wretched, it is general for every wrongdoer. Al-Baghawi, on this verse, says its ruling is general for any two who love each other and come together on disobeying Allah. Ma'arif al-Qur'an says the verse was revealed on a particular occasion but its implication is universal, and reads the word fulan, so-and-so, as the sign of that.",
+            "bn": "বাকিরাও নিজের ভাষায় একই কথা বলেন। ইবন কাসীর লেখেন, আয়াতটি উকবার ব্যাপারে নাজিল হোক বা অন্য কোনো হতভাগার ব্যাপারে, এর হুকুম প্রত্যেক জালিমের জন্য। বাগাভী এই আয়াতের ব্যাখ্যায় বলেন, আল্লাহর নাফরমানির উপর এক হওয়া যেকোনো দুই বন্ধুর ক্ষেত্রেই এ হুকুম খাটে। মাআরিফুল কুরআন বলে, আয়াতটি নাজিল হয়েছিল একটি নির্দিষ্ট উপলক্ষে, কিন্তু এর বার্তা সবার জন্য। আর ফুলান, মানে অমুক, শব্দটিকেই সে এর প্রমাণ হিসেবে দেখে।"
+          },
+          {
+            "en": "So the occasion is where the verse begins, not where it ends. And this needs saying plainly: the verse describes what the text describes, one wrongdoer's regret on the Day of Judgment and the friend he blames for it. It licenses nothing against any living person or community. It gives no one the standing to point at someone today and assign him the place of this friend. Its question points inward, at the friendships each reader keeps.",
+            "bn": "তাই উপলক্ষ হলো আয়াতের শুরু, সীমানা নয়। আর একটা কথা সোজাসুজি বলা দরকার। আয়াতটি কেবল ততটুকুই বর্ণনা করে যতটুকু এর পাঠে আছে: বিচার দিবসে এক জালিমের আফসোস, আর যে বন্ধুকে সে এর জন্য দায়ী করে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কাউকে দেখিয়ে তাকে ওই বন্ধুর জায়গায় বসানোর অধিকারও কাউকে দেয় না। এর প্রশ্ন ভেতরের দিকে, প্রত্যেক পাঠক নিজে যেসব বন্ধুত্ব রাখেন সেদিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Voice Ends the Verse",
+          "bn": "শেষ বাক্যটি কার মুখে"
+        },
+        "p": [
+          {
+            "en": "The final clause, wa kana ash-shaytanu lil-insani khadhula, raises a genuine question: is the wrongdoer still speaking, or has Allah taken up the word? At-Tabari and Ibn Kathir both introduce it with Allah says, which makes it Allah's comment on the scene. Al-Qurtubi reports that view with it is said: this is Allah's word and not the wrongdoer's, and on that reading the man's speech is complete at after it had come to me.",
+            "bn": "শেষ বাক্য ওয়া কানাশ শায়তানু লিল ইনসানি খাযূলা নিয়ে একটা সত্যিকারের প্রশ্ন ওঠে। জালিম কি তখনো কথা বলছে, নাকি এবার আল্লাহ নিজে বলছেন? তাবারী ও ইবন কাসীর দুজনেই বাক্যটির আগে লেখেন 'আল্লাহ বলেন'। তাতে এটি হয়ে যায় দৃশ্যটির উপর আল্লাহর মন্তব্য। কুরতুবী এ মতটি আনেন 'বলা হয়' দিয়ে: এটি আল্লাহর কথা, জালিমের নয়। এ পাঠে লোকটির কথা শেষ হয়ে যায় 'আমার কাছে আসার পর' পর্যন্ত গিয়ে।"
+          },
+          {
+            "en": "The other reading keeps the clause inside the lament. Al-Qurtubi's own gloss makes the regretful man the speaker of the first half and leaves the second unsettled; none of the commentators fetched here argues by name that the man speaks it. The English translation shown with this verse in the app reads it so, closing the quotation after deserter. Either way the meaning stands: from the man, a truth learned too late; from Allah, a warning given in time.",
+            "bn": "অন্য পাঠে বাক্যটি আফসোসের ভেতরেই থাকে। কুরতুবীর নিজের ব্যাখ্যায় আয়াতের প্রথম অংশের বক্তা অনুতপ্ত লোকটি, দ্বিতীয় অংশ নিয়ে তিনি কোনো ফয়সালা দেন না। এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই নাম ধরে বলে না যে শেষ বাক্যটিও লোকটির। এ অ্যাপে আয়াতটির সঙ্গে যে ইংরেজি অনুবাদ দেখানো হয়, তা এভাবেই পড়ে, উদ্ধৃতিচিহ্ন বন্ধ করে 'deserter' শব্দের পরে। যেভাবেই পড়া হোক, অর্থ টিকে থাকে। লোকটির মুখে এটি দেরিতে শেখা সত্য, আল্লাহর মুখে সময় থাকতে দেওয়া সতর্কবাণী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Khadhul, the One Who Withdraws",
+          "bn": "খাযূল, যে হাত গুটিয়ে নেয়"
+        },
+        "p": [
+          {
+            "en": "Khadhul comes from khadhl, which al-Qurtubi defines as leaving off help: withdrawing support at the moment it is needed. He gives an example from this life. Iblis, he says, deserted the idolaters when he appeared to them in the form of Suraqah ibn Malik, and when he saw the angels he disowned them. The Qur'an tells that scene in 8:48, where Satan assures the army he is their protector, then turns on his heels and says he is free of them.",
+            "bn": "খাযূল এসেছে খাযল থেকে। কুরতুবী এর সংজ্ঞা দেন: সাহায্য ছেড়ে দেওয়া, ঠিক যখন সাহায্য দরকার তখন হাত গুটিয়ে নেওয়া। এর একটা দৃষ্টান্তও তিনি দেন এই দুনিয়া থেকে। তাঁর বর্ণনায় ইবলিস সুরাকা ইবন মালিকের রূপ ধরে মুশরিকদের সামনে এসেছিল। তারপর ফেরেশতাদের দেখে সে তাদের ফেলে রেখে নিজেকে তাদের থেকে মুক্ত ঘোষণা করে। কুরআন ৮:৪৮ আয়াতে সেই দৃশ্যের কথা বলে। সেখানে শয়তান বাহিনীকে আশ্বাস দেয় যে সে তাদের রক্ষাকারী, তারপর পেছন ফিরে পালায় আর বলে, তোমাদের সঙ্গে আমার কোনো সম্পর্ক নেই।"
+          },
+          {
+            "en": "At-Tabari says Satan hands man over to the affliction that comes down on him, neither rescuing nor saving him. Ibn Kathir says he forsakes him where the truth is concerned, turns him away from it, uses him in falsehood and calls him to it. As-Sa'di traces the whole arc: Satan makes falsehood look fair and truth look ugly, holds out hopes, then leaves and disowns him, as he will tell all his followers once judgment is done, in the words of 14:22.",
+            "bn": "তাবারী বলেন, মানুষের উপর যে বিপদ নেমে আসে, শয়তান তাকে সেই বিপদের হাতেই তুলে দেয়। তাকে উদ্ধারও করে না, বাঁচায়ও না। ইবন কাসীর বলেন, সত্যের ব্যাপারে সে মানুষকে অসহায় ফেলে যায়, সত্য থেকে তাকে ফিরিয়ে দেয়, বাতিলের কাজে তাকে খাটায় আর বাতিলের দিকেই ডাকে। সা'দী পুরো ধারাটা দেখান। শয়তান বাতিলকে সুন্দর আর হককে কুৎসিত করে দেখায়, আশার পর আশা দেয়, তারপর তাকে ছেড়ে দিয়ে দায় অস্বীকার করে। বিচার শেষ হলে সে তার সব অনুসারীকে ১৪:২২ আয়াতের ভাষায় এ কথাই বলবে।"
+          },
+          {
+            "en": "Al-Baghawi widens the word Satan itself. It is, he says, every insolent rebel among humans and jinn, and whoever bars people from the path of Allah is a satan. Al-Qurtubi says much the same: whoever turns others from Allah's path and is obeyed in disobeying Him is a satan to man, and a deserter when punishment and trial come down. On their reading the friend of 25:28 and the Satan of 25:29 are not separate lessons. They are a single pattern, seen twice.",
+            "bn": "বাগাভী 'শয়তান' শব্দটিকেই আরও প্রশস্ত করেন। তাঁর মতে মানুষ ও জিনের মধ্যে প্রত্যেক উদ্ধত বিদ্রোহীই শয়তান। আল্লাহর পথ থেকে যে মানুষকে আটকায়, সে-ই শয়তান। কুরতুবীও প্রায় একই কথা বলেন। যে অন্যকে আল্লাহর পথ থেকে ফিরিয়ে রাখে আর আল্লাহর নাফরমানিতে যার কথা মানা হয়, সে মানুষের জন্য শয়তান। শাস্তি আর বিপদ নেমে এলে সে-ই ফেলে চলে যায়। তাঁদের এ ব্যাখ্যায় ২৫:২৮ আয়াতের বন্ধু আর ২৫:২৯ আয়াতের শয়তান আলাদা আলাদা শিক্ষা নয়। একই ছাঁচ, দুবার দেখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Musk Carrier and Bellows Blower",
+          "bn": "আতরওয়ালা আর হাপরওয়ালা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi and al-Qurtubi set beside this verse a hadith on companionship. Sahih al-Bukhari 5534 has, from Abu Musa (RA), that the Prophet ﷺ said: \"The example of a good pious companion and an evil one is that of a person carrying musk and another blowing a pair of bellows. The one who is carrying musk will either give you some perfume as a present, or you will buy some from him, or you will get a good smell from him, but the one who is blowing a pair of bellows will either burn your clothes or you will get a bad smell from him.\"",
+            "bn": "বাগাভী ও কুরতুবী এ আয়াতের পাশে সঙ্গ নিয়ে একটি হাদীস রাখেন। সহীহ বুখারী ৫৫৩৪-এ আবু মূসা (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: \"সৎ সঙ্গী আর অসৎ সঙ্গীর দৃষ্টান্ত হলো মেশক বহনকারী আর হাপরে ফুঁ দেওয়া লোকের মতো। মেশক বহনকারী হয় তোমাকে কিছু আতর উপহার দেবে, নয়তো তুমি তার কাছ থেকে কিনবে, নয়তো অন্তত তার কাছ থেকে সুঘ্রাণ পাবে। আর হাপরে ফুঁ দেওয়া লোক হয় তোমার কাপড় পুড়িয়ে দেবে, নয়তো তুমি তার কাছ থেকে দুর্গন্ধ পাবে।\""
+          },
+          {
+            "en": "Al-Baghawi also brings, with his own chain, a narration from Abu Hurayrah (RA) that Jami' at-Tirmidhi 2378 records: \"A man is upon the religion of his friend, so let one of you look at whom he befriends.\" At-Tirmidhi grades it hasan gharib, and Abu Dawud 4833 carries the same words. Neither hadith is a report about this verse. They are general teachings the commentators place beside it. None of the tafsirs fetched here attaches to 25:29 a graded hadith about the verse itself.",
+            "bn": "বাগাভী নিজের সনদে আবু হুরায়রা (রাঃ) থেকে আরেকটি বর্ণনাও আনেন, যা জামি' আত-তিরমিযী ২৩৭৮-এ আছে। রাসূলুল্লাহ ﷺ বলেছেন: \"মানুষ তার বন্ধুর দীনের উপর থাকে। তাই তোমাদের প্রত্যেকে যেন দেখে নেয়, সে কাকে বন্ধু বানাচ্ছে।\" তিরমিযী একে হাসান গরীব বলেছেন। আবু দাউদ ৪৮৩৩-এও একই শব্দে বর্ণনাটি আছে। দুটো হাদীসের কোনোটিই এ আয়াত সম্পর্কে বর্ণনা নয়। এগুলো সাধারণ শিক্ষা, তাফসীরকারেরা আয়াতের পাশে রেখেছেন। এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই খোদ ২৫:২৯ আয়াত সম্পর্কে বর্ণিত এমন কোনো হাদীস আনেনি, যার মান উল্লেখ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Choosing While Choice Remains",
+          "bn": "সুযোগ থাকতেই বেছে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends his comment on this verse with counsel rather than explanation. Let the servant look to himself while he still can, he writes, and make good what can be made good before that is no longer possible. Let him take as his ally the one whose friendship brings him happiness, and set himself against the one whose enmity does him good and whose friendship does him harm. That turns the verse from a scene into a choice.",
+            "bn": "সা'দী এ আয়াতের ব্যাখ্যা শেষ করেন ব্যাখ্যা দিয়ে নয়, নসিহত দিয়ে। তিনি লেখেন, বান্দা যেন সুযোগ থাকতেই নিজের দিকে তাকায়। যা এখনো শুধরে নেওয়া যায়, তা যেন শুধরে নেয়, সে সুযোগ ফুরিয়ে যাওয়ার আগেই। যার বন্ধুত্বে তার কল্যাণ, তাকে যেন বন্ধু বানায়। আর যার শত্রুতা তার উপকারে আসে, যার বন্ধুত্ব তার ক্ষতি করে, তার সঙ্গে যেন দূরত্ব রাখে। এতে আয়াতটি একটা দৃশ্য থেকে হয়ে ওঠে বেছে নেওয়ার প্রশ্ন।"
+          },
+          {
+            "en": "The wrongdoer of these verses had the reminder and he had a friend, and he chose the friend. The verse asks the reader to make that choice the other way while it is still a choice: to notice whose voice weighs more when the Qur'an asks for something, and to be, for others, the companion who carries musk. The day of bitten hands is described in such detail so that no one has to reach it.",
+            "bn": "এ আয়াতগুলোর জালিমের কাছে উপদেশও ছিল, বন্ধুও ছিল। সে বেছে নিয়েছিল বন্ধুকে। আয়াতটি পাঠককে বলে, বেছে নেওয়ার সুযোগ থাকতেই উল্টোটা বেছে নিন। কুরআন যখন কিছু চায়, তখন কার কথার ওজন আপনার কাছে বেশি হয়ে ওঠে, তা খেয়াল করুন। আর অন্যের জন্য আপনি নিজে হয়ে উঠুন সেই মেশক বহনকারী সঙ্গী। হাত কামড়ানোর দিনটির এত খুঁটিনাটি বর্ণনা এসেছে এজন্যই, যাতে কাউকে সে দিন পর্যন্ত পৌঁছাতে না হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "25:35": {
     "sections": [
       {
