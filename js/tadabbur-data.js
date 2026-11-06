@@ -27729,6 +27729,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Turn your attention to the call of truth while listening can still change you; on that Day every ear is opened, and the deniers can only say the Day is hard.",
     "lessonBn": "শুনে বদলে যাওয়ার সুযোগ এখনো আছে, তাই এখনই সত্যের ডাকের দিকে মনোযোগ ফেরান। সেদিন প্রতিটি কান খুলে যাবে, আর অস্বীকারকারীরা শুধু বলতে পারবে, দিনটি কঠিন।"
+  },
+  "54:37": {
+    "reflectionEn": "Night has fallen on a town, and a crowd is at a door. Behind it are guests who came to Lut that evening, and the people who had argued with his warnings now demand that he give them up. He does not. The verse spends no words on what the crowd wanted. It turns at once to what Allah did: We blotted out their eyes. Those who came to take what was not theirs could no longer see, and the words that follow are spoken to them: so taste My punishment and My warnings. The guests were never theirs to claim. Who is under my roof, my care or my word tonight? And when others press me to hand them over, quietly or cheaply, do I hold the door?",
+    "reflectionBn": "এক জনপদে রাত নেমেছে, আর একটা দরজার সামনে ভিড় জমেছে। দরজার ভেতরে সেই মেহমানরা, যারা সেদিন সন্ধ্যায় লূত (আঃ)-এর কাছে এসেছিলেন। যে লোকেরা তাঁর সতর্কবাণী নিয়ে তর্ক করেছিল, তারাই এখন দাবি করছে, মেহমানদের তাদের হাতে তুলে দিতে হবে। তিনি দেননি। ভিড় কী চেয়েছিল, আয়াত তা নিয়ে একটা শব্দও খরচ করে না। সোজা চলে যায় আল্লাহ কী করলেন সেখানে: আমি তাদের চোখ মুছে দিলাম। যা তাদের নয়, তা নিতে এসে তারা আর কিছুই দেখতে পেল না। তারপর তাদেরই বলা হলো: এবার আমার শাস্তি আর সতর্কবাণীর স্বাদ নাও। মেহমানরা কোনোদিনই তাদের দাবির বস্তু ছিলেন না। আজ রাতে আমার ঘরে, আমার দায়িত্বে, আমার কথার ভরসায় কে আছে? আর কেউ যখন চাপ দেয় তাকে চুপিচুপি বা সস্তায় ছেড়ে দিতে, আমি কি দরজাটা আগলে রাখি?",
+    "pointsEn": [
+      "Who is under my roof or in my care right now, and would they be safe if someone pressed me to give them up?",
+      "When the people around me want me to hand over someone's secret, name or privacy, what do I actually do?",
+      "This crowd had argued with the warning long before it came to the door. Which warning have I been arguing with instead of heeding?",
+      "Do I read this story as a mirror held up to myself, or do I reach for it as a stick to use on others?",
+      "Lut stood at his door alone. Who near me is guarding someone weaker, and how could I stand beside them this week?"
+    ],
+    "pointsBn": [
+      "এই মুহূর্তে কে আমার ঘরে বা আমার দায়িত্বে আছে? কেউ চাপ দিলে আমার কাছে কি সে নিরাপদ থাকবে?",
+      "চারপাশের লোকেরা যখন চায় আমি কারও গোপন কথা, সুনাম বা আড়াল তাদের হাতে তুলে দিই, তখন আমি আসলে কী করি?",
+      "দরজায় আসার অনেক আগেই এই ভিড় সতর্কবাণী নিয়ে তর্ক করেছিল। কোন সতর্কবাণী মেনে নেওয়ার বদলে আমি এখনো তর্ক করে যাচ্ছি?",
+      "এ কাহিনি কি আমি নিজের সামনে আয়না হিসেবে পড়ি, নাকি অন্যকে পেটানোর লাঠি বানাই?",
+      "লূত (আঃ) দরজায় একা দাঁড়িয়েছিলেন। আমার আশপাশে কে কোনো দুর্বল মানুষকে আগলে রাখছে, আর এ সপ্তাহে আমি কীভাবে তার পাশে দাঁড়াতে পারি?"
+    ],
+    "lessonEn": "Guard whoever comes under your roof and your care, even when a crowd presses; and take a warning to heart before it becomes something you taste.",
+    "lessonBn": "যে আপনার ঘরে ও দায়িত্বে আসে, ভিড় চাপ দিলেও তাকে আগলে রাখুন। আর সতর্কবাণী স্বাদ হয়ে আসার আগেই তা মনে গেঁথে নিন।"
   }
 };
 

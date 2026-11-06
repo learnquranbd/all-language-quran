@@ -1027,6 +1027,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "54:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between Warning and Morning",
+          "bn": "সতর্কবাণী আর ভোরের মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "Surah al-Qamar tells the story of Lut's people in a few short verses. 54:33 says they denied the warnings, and 54:34 and 54:35 give the storm and the rescue before dawn, read on their own pages. Then three verses in a row open with the same emphatic words, wa-laqad, and indeed. In 54:36 he had warned them of Our seizing, and they disputed the warnings. In 54:38 an abiding punishment came upon them in the morning. Our verse stands between the two: the night itself.",
+            "bn": "সূরা কামার লূত (আঃ)-এর জাতির কাহিনি বলে অল্প কয়েকটি ছোট আয়াতে। ৫৪:৩৩ জানায়, তারা সতর্কবাণী অস্বীকার করেছিল। ৫৪:৩৪ ও ৫৪:৩৫ আয়াতে আসে পাথরের ঝড় আর ভোরের আগে উদ্ধারের কথা, সেগুলো নিজ নিজ পাতায় পড়া হয়েছে। এরপর পরপর তিনটি আয়াত শুরু হয় একই জোরালো শব্দে: ওয়া লাকাদ, অবশ্যই। ৫৪:৩৬ আয়াতে তিনি তাদের আমার পাকড়াও সম্পর্কে সতর্ক করেছিলেন, আর তারা সতর্কবাণী নিয়ে তর্ক করল। ৫৪:৩৮ আয়াতে ভোরবেলা তাদের উপর স্থায়ী শাস্তি নেমে এলো। আমাদের আয়াতটি এই দুইয়ের মাঝখানে, অর্থাৎ সেই রাতটি।"
+          },
+          {
+            "en": "The verse runs to nine Arabic words in three movements, each joined to the last by a plain fa, and so. First what the people did: wa-laqad rawaduhu 'an dayfihi, they sought to take his guests from him. Then what Allah did: fa-tamasna a'yunahum, so We blotted out their eyes. Then what was said: fa-dhuqu 'adhabi wa nudhur, so taste My punishment and My warnings. The verse spends no words on what the crowd wanted, and this page follows it. Its centre is the guests and the man who sheltered them.",
+            "bn": "আয়াতে আরবি শব্দ নয়টি, আর তা এগোয় তিনটি ধাপে। প্রতিটি ধাপ আগেরটির সঙ্গে জুড়েছে ছোট্ট একটি ফা দিয়ে, যার মানে 'তখন'। প্রথমে লোকেরা যা করল: ওয়া লাকাদ রাওয়াদূহু আন দাইফিহি, তারা তাঁর কাছ থেকে তাঁর মেহমানদের ছিনিয়ে নিতে চাইল। তারপর আল্লাহ যা করলেন: ফা তামাসনা আ'ইউনাহুম, তখন আমি তাদের চোখ মুছে দিলাম। তারপর যা বলা হলো: ফা যূকূ আযাবী ওয়া নুযুর, এবার আমার শাস্তি ও সতর্কবাণীর স্বাদ নাও। ভিড় কী চেয়েছিল, আয়াত তা নিয়ে কিছু বলে না, এই লেখাও সে পথেই চলবে। এখানে মূল কথা মেহমানরা আর সেই মানুষটি, যিনি তাঁদের আশ্রয় দিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pressing for Those He Kept",
+          "bn": "যাঁরা তাঁর আশ্রয়ে ছিলেন"
+        },
+        "p": [
+          {
+            "en": "Rawaduhu comes from the root r-w-d. Al-Qurtubi glosses the clause: they wanted him to let them have those angels who had come to him in the form of guests. He then explains the word. Arabs say rawadtuhu 'ala kadha, meaning I wanted it of him, and the same root gives rada al-kala', to go looking for pasture. The verb carries seeking and pressing. Al-Baghawi puts it in five words: they demanded that he hand his guests over to them. The Muyassar names their aim in one clause, and that clause is enough.",
+            "bn": "রাওয়াদূহু শব্দটি র-ও-দ ধাতু থেকে এসেছে। কুরতুবী বাক্যাংশটির ব্যাখ্যা দেন এভাবে: যে ফেরেশতারা মেহমানের বেশে তাঁর কাছে এসেছিলেন, লোকেরা চাইছিল তিনি তাঁদের তাদের হাতে ছেড়ে দিন। তারপর তিনি শব্দটি খুলে বলেন। আরবরা বলে রাওয়াদতুহু আলা কাযা, অর্থাৎ আমি তার কাছে জিনিসটা চাইলাম। একই ধাতু থেকে আসে রাদাল কালা', চারণভূমির খোঁজে বের হওয়া। তাই ক্রিয়াটির ভেতরে আছে খোঁজা আর চাপ দেওয়া, দুটোই। বাগাভী কথাটা বলেন পাঁচ শব্দে: তারা দাবি করল, তিনি যেন মেহমানদের তাদের হাতে সঁপে দেন। মুয়াসসার তাদের উদ্দেশ্য এক বাক্যাংশে উল্লেখ করে, আর সেটুকুই যথেষ্ট।"
+          },
+          {
+            "en": "The shape of the phrase is worth a look, and what follows is an observation on the wording, not a point the commentators consulted make. Rawada with 'an appears in Surah Yusuf too. In 12:23 the woman of the house pressed Yusuf (AS) 'an nafsihi, for his own self. In 12:61 his brothers say sa-nurawidu 'anhu abahu: we will press his father to part with him. Here the object is 'an dayfihi. What the crowd pressed Lut (AS) for was not anything of his own but the people under his roof, those he had made himself answerable for.",
+            "bn": "বাক্যাংশটির গঠনও খেয়াল করার মতো। তবে এটি শব্দবিন্যাস থেকে নেওয়া একটি পর্যবেক্ষণ, যেসব তাফসীর দেখা হয়েছে সেগুলোর কোনোটি এ কথা বলেনি। 'আন' সহ রাওয়াদা ক্রিয়াটি সূরা ইউসুফেও আছে। ১২:২৩ আয়াতে গৃহকর্ত্রী ইউসুফ (আঃ)-এর কাছে চেয়েছিল 'আন নাফসিহি', তাঁর নিজেকেই। ১২:৬১ আয়াতে তাঁর ভাইয়েরা বলে, সানুরাওয়িদু আনহু আবাহু: আমরা তার ব্যাপারে তার বাবাকে রাজি করানোর চেষ্টা করব, যাতে তিনি তাকে ছাড়েন। এখানে আছে 'আন দাইফিহি'। লূত (আঃ)-এর কাছে ভিড় যা চাইছিল, তা তাঁর নিজের কিছু নয়। তা ছিল তাঁর ছাদের নিচের মানুষগুলো, যাঁদের দায় তিনি নিজের কাঁধে নিয়েছিলেন।"
+          },
+          {
+            "en": "How he answered the pressure is in the reports, not the verse. Ibn Kathir describes him shutting the door against them while they tried to break it, and pushing them back and holding them off from his guests, yudafi'uhum wa yumani'uhum duna adyafihi. In at-Tabari, Ibn Zayd adds that they had already told Lut not to let anyone stay with him or host anyone at all. If so, opening his door that evening was itself a stand. His plea at the door belongs to 11:78 and 15:68, whose pages read it.",
+            "bn": "চাপের মুখে তিনি কী করেছিলেন, তা আছে বর্ণনায়, আয়াতে নয়। ইবন কাসীর লেখেন, তিনি তাদের মুখের উপর দরজা বন্ধ করে দিলেন, আর তারা তা ভাঙার চেষ্টা করছিল। তিনি তাদের ঠেলে সরাচ্ছিলেন, মেহমানদের কাছ থেকে আটকে রাখছিলেন: ইউদাফিউহুম ওয়া ইউমানিউহুম দূনা আদইয়াফিহি। তাবারীর তাফসীরে ইবন যায়দ যোগ করেন, তারা আগেই লূত (আঃ)-কে বলে রেখেছিল, তিনি যেন কাউকে নিজের কাছে থাকতে না দেন, কাউকে মেহমান না বানান। তা-ই যদি হয়, সেই সন্ধ্যায় দরজা খোলাটাই ছিল এক অবস্থান। দরজায় দাঁড়িয়ে তাঁর মিনতির কথা ১১:৭৮ ও ১৫:৬৮ আয়াতের, সেগুলোর পাতায় তা পড়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guests Sent as Messengers",
+          "bn": "মেহমান, যাঁরা ছিলেন দূত"
+        },
+        "p": [
+          {
+            "en": "Who were the guests? Ibn Kathir names them: that night the angels Jibril, Mika'il and Israfil came to Lut in the form of handsome young men, a trial from Allah for the people through them. Ad-Dahhak, in at-Tabari, says the angels came in the form of men, as they used to come, and that Lut's people saw them as they entered the town. Al-Qurtubi and as-Sa'di both describe them as angels who came in the guise of guests, and the Muyassar calls them his guests from among the angels.",
+            "bn": "মেহমানরা কারা ছিলেন? ইবন কাসীর নাম বলেন: সেই রাতে জিবরীল, মীকাঈল ও ইসরাফীল (আঃ) সুদর্শন তরুণের বেশে লূত (আঃ)-এর কাছে এসেছিলেন। তাঁদের দিয়ে আল্লাহ সেই জাতিকে পরীক্ষায় ফেলেছিলেন। তাবারীর তাফসীরে দাহহাক বলেন, ফেরেশতারা এসেছিলেন মানুষের রূপে, যেমন তাঁরা আসতেন। জনপদে ঢোকার সময়ই লূত (আঃ)-এর জাতি তাঁদের দেখে ফেলেছিল। কুরতুবী ও সা'দী দুজনেই বলেন, তাঁরা ছিলেন মেহমানের বেশে আসা ফেরেশতা। মুয়াসসার তাঁদের বলে ফেরেশতাদের মধ্য থেকে আসা তাঁর মেহমান।"
+          },
+          {
+            "en": "So, on the commentators' account, the crowd at the door was pressing for the very messengers who carried its sentence. In Ibn Zayd's narration in at-Tabari, and again in al-Baghawi, the messengers tell Lut that they are messengers of his Lord and that the people will not reach him. That sentence is 11:81, read on its own page. What it shows here is a reversal: the host who stood in front of his guests was, all along, under their protection, and under the protection of the One who sent them.",
+            "bn": "তাফসীরকারদের বর্ণনা ধরলে, দরজার সামনের ভিড় যাঁদের চাইছিল, তাঁরাই ছিলেন তাদের শাস্তির ফয়সালা বয়ে আনা দূত। তাবারীতে ইবন যায়দের বর্ণনায় এবং বাগাভীতেও দূতেরা লূত (আঃ)-কে বলেন, আমরা আপনার রবের পাঠানো দূত, ওরা আপনার কাছে পৌঁছাতে পারবে না। কথাটি ১১:৮১ আয়াতের, সেটির পাতায় তা পড়া হয়েছে। এখানে তা দেখায় একটা উল্টো ছবি। যে মেজবান মেহমানদের সামনে ঢাল হয়ে দাঁড়িয়েছিলেন, তিনি নিজেই আগাগোড়া ছিলেন তাঁদের হেফাজতে, আর যিনি তাঁদের পাঠিয়েছিলেন, সেই আল্লাহর হেফাজতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wing, as Reported",
+          "bn": "ডানার কথা, বর্ণনা হিসেবে"
+        },
+        "p": [
+          {
+            "en": "The verse says only fa-tamasna, so We blotted out. The act and its agent are fixed in the text, and the agent is Allah. How it happened comes from reports, and none of those fetched here is a saying of the Prophet ﷺ. At-Tabari carries Qatada, who opens with dhukira lana, it was mentioned to us: Jibril (AS) asked his Lord's permission to punish them the night they came to Lut, and when they worked at the door to get in, he struck them with his wing and left them blind, wandering back and forth.",
+            "bn": "আয়াত শুধু বলে ফা তামাসনা, তখন আমি মুছে দিলাম। কাজটি আর তার কর্তা আয়াতেই নির্দিষ্ট, আর কর্তা আল্লাহ। ঘটনাটা কীভাবে ঘটল, তা এসেছে বর্ণনা থেকে। এখানে যেসব বর্ণনা দেখা হয়েছে, তার কোনোটি নবী ﷺ-এর বাণী নয়। তাবারী কাতাদার বর্ণনা আনেন, যা শুরু হয় 'যুকিরা লানা' দিয়ে, অর্থাৎ আমাদের কাছে উল্লেখ করা হয়েছে। লোকেরা যে রাতে লূত (আঃ)-এর কাছে এলো, জিবরীল (আঃ) তাদের শাস্তি দেওয়ার জন্য রবের অনুমতি চাইলেন। তারা যখন ভেতরে ঢুকতে দরজা নিয়ে টানাটানি করছিল, তিনি তাদের ডানা দিয়ে আঘাত করলেন। তারা অন্ধ হয়ে এদিক-ওদিক ঘুরতে লাগল।"
+          },
+          {
+            "en": "Ibn Zayd, also in at-Tabari, says Jibril spread one of his wings and snatched away their sight, and they began milling into one another. Al-Baghawi has the messengers tell Lut to let the crowd come in; they entered the house, Jibril struck them with his wing by Allah's leave, and they were left blind and bewildered, unable to find the door, until Lut led them out. Ibn Kathir has Jibril go out to them and strike their eyes with the tip of his wing. Al-Qurtubi introduces it with yurwa, it is narrated.",
+            "bn": "তাবারীতেই ইবন যায়দ বলেন, জিবরীল (আঃ) তাঁর একটি ডানা মেলে দিয়ে তাদের দৃষ্টি কেড়ে নিলেন, আর তারা একে অপরের গায়ে ধাক্কা খেয়ে ঘুরপাক খেতে লাগল। বাগাভীর বর্ণনায় দূতেরা লূত (আঃ)-কে বলেন, ওদের ঢুকতে দিন। তারা ঘরে ঢুকল, আর আল্লাহর অনুমতিতে জিবরীল (আঃ) ডানা দিয়ে তাদের আঘাত করলেন। তারা অন্ধ আর দিশেহারা হয়ে গেল, দরজাও খুঁজে পাচ্ছিল না। শেষে লূত (আঃ) তাদের বের করে দিলেন। ইবন কাসীরের বর্ণনায় জিবরীল (আঃ) বেরিয়ে এসে ডানার ডগা দিয়ে তাদের চোখে আঘাত করেন। কুরতুবী কথাটি আনেন 'ইউরওয়া' দিয়ে, অর্থাৎ বর্ণিত আছে।"
+          },
+          {
+            "en": "As-Sa'di keeps it brief: Allah commanded Jibril, and he blotted out their eyes with his wing. The tellings that name the wing agree on it and differ on the scene. Qatada places the crowd still at the door, al-Baghawi has them already inside, and Ibn Kathir has Jibril go out to meet them. These are reports, from early commentators or introduced as narrated, and they are held here as reports. The verse leaves the means unspoken and keeps the reader's eye on Who acted.",
+            "bn": "সা'দী কথাটা ছোট করে বলেন: আল্লাহ জিবরীল (আঃ)-কে আদেশ দিলেন, আর তিনি ডানা দিয়ে তাদের চোখ মুছে দিলেন। যে বর্ণনাগুলো ডানার কথা বলে, তারা এ বিষয়ে একমত, তফাত দৃশ্যের খুঁটিনাটিতে। কাতাদার বর্ণনায় ভিড় তখনো দরজায়, বাগাভীর বর্ণনায় তারা ভেতরে ঢুকে পড়েছে, আর ইবন কাসীরের বর্ণনায় জিবরীল (আঃ) বেরিয়ে তাদের মুখোমুখি হন। এগুলো প্রথম যুগের মুফাসসিরদের মুখে বা 'বর্ণিত আছে' বলে আসা বর্ণনা, এখানেও বর্ণনা হিসেবেই রাখা হলো। উপায়ের কথা আয়াত বলে না। পাঠকের চোখ সে ধরে রাখে কাজটি যিনি করেছেন, তাঁর দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sealed Over, or Unseeing",
+          "bn": "চোখ মিলিয়ে গেল, নাকি দৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "What did tams do to their eyes? Al-Baghawi gives the reading he calls the view of most commentators: We made them like the rest of the face, with no slit to be seen. Al-Qurtubi records the same and adds a picture: as the wind blots out waymarks with the dust it blows over them. Ibn Kathir carries two further sayings, each under it is said: that their eyes sank from their faces, and that no eyes were left to them at all. On these readings the eyes themselves were effaced.",
+            "bn": "তামস তাদের চোখের কী করেছিল? বাগাভী একটি ব্যাখ্যা দেন এবং বলেন, এটাই অধিকাংশ মুফাসসিরের মত: আমি সেগুলোকে মুখের বাকি অংশের মতো করে দিলাম, কোনো ফাটল আর দেখা যায় না। কুরতুবীও একই কথা লেখেন, সঙ্গে একটা ছবি জুড়ে দেন: বাতাস যেমন ধুলো উড়িয়ে পথের চিহ্ন ঢেকে মুছে দেয়। ইবন কাসীর আরও দুটি কথা আনেন, দুটোই 'বলা হয়' দিয়ে। একটি হলো, তাদের চোখ মুখের ভেতরে বসে গিয়েছিল। অন্যটি, তাদের চোখ বলতে আর কিছুই ছিল না। এসব ব্যাখ্যায় চোখ নিজেই মুছে গিয়েছিল।"
+          },
+          {
+            "en": "The other reading keeps the eyes and takes the sight. Ad-Dahhak, as al-Qurtubi and al-Baghawi carry him, with the same account in at-Tabari, says Allah blotted out their sight so that they did not see the messengers. They said: we saw them when they entered the house, so where have they gone? And they went back without seeing them. Al-Qurtubi adds, under it is said, that Allah blinded them while their eyes stayed sound. Ibn Abbas, through at-Tabari's chain, says Allah hid the angels from their sight when they came in to Lut.",
+            "bn": "অন্য ব্যাখ্যায় চোখ থেকে যায়, চলে যায় দৃষ্টি। কুরতুবী ও বাগাভী দাহহাকের কথা আনেন, তাবারীতেও একই বর্ণনা আছে: আল্লাহ তাদের দৃষ্টি মুছে দিলেন, ফলে তারা দূতদের দেখতে পেল না। তারা বলল, ওরা যখন ঘরে ঢুকল, আমরা তো দেখেছি, তাহলে গেল কোথায়? তারপর তাঁদের না দেখেই তারা ফিরে গেল। কুরতুবী 'বলা হয়' দিয়ে যোগ করেন, আল্লাহ তাদের অন্ধ করেছিলেন, অথচ চোখ ছিল অক্ষত। তাবারীর সনদে ইবন আব্বাস (রাঃ) বলেন, লূত (আঃ)-এর কাছে ঢোকার সময় আল্লাহ ফেরেশতাদের তাদের দৃষ্টি থেকে আড়াল করে দিয়েছিলেন।"
+          },
+          {
+            "en": "The Muyassar says simply that they saw nothing. The commentators leave the two readings side by side, effaced eyes or sight withheld, and so does this page. One more verse uses the same verb with the same noun. In 36:66 Allah says: had We willed, We would have blotted out their eyes, la-tamasna 'ala a'yunihim. There it is a possibility held back. Here, and this is an observation on the wording rather than a commentator's point, the same blotting is told as something that happened on one night.",
+            "bn": "মুয়াসসার সোজা বলে, তারা কিছুই দেখতে পায়নি। চোখ মুছে যাওয়া, নাকি দৃষ্টি আটকে যাওয়া, তাফসীরকারেরা দুটি ব্যাখ্যাই পাশাপাশি রেখে দেন, এই লেখাও তা-ই করছে। একই ক্রিয়া একই বিশেষ্যের সঙ্গে আরেকটি আয়াতে এসেছে। ৩৬:৬৬ আয়াতে আল্লাহ বলেন, আমি চাইলে তাদের চোখ মুছে দিতাম: লাতামাসনা আলা আ'ইউনিহিম। সেখানে এটি এক সম্ভাবনা, যা স্থগিত রাখা হয়েছে। আর এখানে একই মুছে দেওয়ার কথা আসে এক রাতে সত্যিই ঘটে যাওয়া ঘটনা হিসেবে। এটি শব্দ থেকে নেওয়া পর্যবেক্ষণ, কোনো মুফাসসিরের কথা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Taste Before Daybreak",
+          "bn": "ভোর হওয়ার আগেই স্বাদ"
+        },
+        "p": [
+          {
+            "en": "Fa-dhuqu 'adhabi wa nudhur: so taste My punishment and My warnings. Who is speaking, and when? Al-Qurtubi supplies the missing words, fa-qulna lahum, so We said to them, taste, and explains that the command here carries the force of a report: I made them taste My punishment, of which Lut had warned them. The Muyassar has it was said to them, and names the warning as the one Lut gave. Al-Baghawi glosses nudhur the same way, as the punishment Lut warned you of.",
+            "bn": "ফা যূকূ আযাবী ওয়া নুযুর: এবার আমার শাস্তি ও সতর্কবাণীর স্বাদ নাও। কে বলছেন, কখন বলছেন? কুরতুবী বাদ পড়া শব্দগুলো জুড়ে দেন: ফা কুলনা লাহুম, তখন আমি তাদের বললাম, স্বাদ নাও। তিনি বুঝিয়ে দেন, এখানে আদেশটির মানে আসলে একটি সংবাদ: আমি তাদের সেই শাস্তির স্বাদ দিলাম, যার ব্যাপারে লূত (আঃ) তাদের সতর্ক করেছিলেন। মুয়াসসার বলে, তাদের বলা হলো। সতর্কবাণী বলতে সেও লূত (আঃ)-এর দেওয়া সতর্কবাণীই বোঝায়। বাগাভীও নুযুরের অর্থ করেন একইভাবে: লূত তোমাদের যে শাস্তির ভয় দেখিয়েছিলেন।"
+          },
+          {
+            "en": "At-Tabari widens the address. Taste, O people of Lut from Sadum, he paraphrases, My punishment that has come down on you, and My warning, which I gave other nations of exemplary punishments. The phrase fa-dhuqu 'adhabi wa nudhur occurs in the whole Qur'an only here and in 54:39, two verses apart. Earlier in the surah, after Nuh, 'Ad and Thamud, the line was a question to the listener: fa-kayfa kana 'adhabi wa nudhur, so how were My punishment and My warnings? In Lut's story the words turn and speak to the people themselves.",
+            "bn": "তাবারী সম্বোধনটা আরও বড় করে দেখেন। তাঁর ভাষায়: হে সাদূমের লূত-জাতি, তোমাদের উপর যে শাস্তি নেমেছে তার স্বাদ নাও, আর আমার সেই সতর্কবাণীর, যা দিয়ে আমি অন্য জাতিগুলোকে দৃষ্টান্তমূলক শাস্তির ভয় দেখিয়েছিলাম। ফা যূকূ আযাবী ওয়া নুযুর কথাটি পুরো কুরআনে আছে কেবল এখানে আর ৫৪:৩৯ আয়াতে, দুই আয়াতের ব্যবধানে। সূরার আগের অংশে নূহ (আঃ), আদ ও সামূদের পর বাক্যটি ছিল শ্রোতার প্রতি প্রশ্ন: ফা কাইফা কানা আযাবী ওয়া নুযুর, তাহলে কেমন ছিল আমার শাস্তি ও সতর্কবাণী? লূত (আঃ)-এর কাহিনিতে কথাগুলো ঘুরে সরাসরি সেই জাতিকেই সম্বোধন করে।"
+          },
+          {
+            "en": "The order of the verses adds one more thing, offered as an observation on the sequence. The blinding comes in 54:37 and the morning in 54:38, so the night gave them a first taste before the last. Ibn Kathir's abridged English commentary describes them going back feeling along the walls, threatening Lut with what would befall him in the morning. The next verse answers: an abiding punishment came upon them in the morning. The morning they promised him was theirs, and the warning they had disputed in 54:36 arrived as something they could taste.",
+            "bn": "আয়াতগুলোর ক্রম আরেকটি কথা যোগ করে। এটি ক্রম থেকে নেওয়া একটি পর্যবেক্ষণ। অন্ধ করার কথা ৫৪:৩৭ আয়াতে, আর ভোরের কথা ৫৪:৩৮ আয়াতে। অর্থাৎ শেষ স্বাদের আগে রাতটাই তাদের প্রথম স্বাদ দিয়েছিল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বলে, তারা দেয়াল হাতড়ে হাতড়ে ফিরে গেল, আর লূত (আঃ)-কে শাসাচ্ছিল, সকালে তাঁর কী দশা হবে। পরের আয়াতেই জবাব: ভোরে তাদের উপর স্থায়ী শাস্তি নেমে এলো। যে সকালের ভয় তারা তাঁকে দেখিয়েছিল, সেটা এলো তাদেরই জন্য। ৫৪:৩৬ আয়াতে যে সতর্কবাণী নিয়ে তারা তর্ক করেছিল, তা এলো স্বাদ হয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Hadith on That Night",
+          "bn": "সেই রাত নিয়ে কোনো হাদীস নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted here attaches a hadith of the Prophet ﷺ to this verse. The accounts of how the blinding happened come from Ibn Abbas (RA), Qatada, Ibn Zayd and ad-Dahhak, or are told without a named source, and none of these texts gives an occasion of revelation. That is where the trail stops. A sound narration on another subject does name the duty that Lut's door stood for.",
+            "bn": "এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। অন্ধ করার ঘটনা কীভাবে ঘটেছিল, সে বর্ণনা এসেছে ইবন আব্বাস (রাঃ), কাতাদা, ইবন যায়দ ও দাহহাকের কাছ থেকে, অথবা কোনো সূত্রের নাম ছাড়াই। এসব তাফসীরের কোনোটি শানে নুযূলও বলেনি। সূত্রের খোঁজ এখানেই শেষ। তবে অন্য বিষয়ে একটি সহীহ বর্ণনা সেই দায়িত্বের নাম বলে দেয়, লূত (আঃ)-এর দরজা যার পক্ষে দাঁড়িয়েছিল।"
+          },
+          {
+            "en": "In Sahih al-Bukhari (6018), Abu Hurayrah (RA) reports that the Messenger of Allah ﷺ said: \"Anybody who believes in Allah and the Last Day should not harm his neighbor, and anybody who believes in Allah and the Last Day should entertain his guest generously and anybody who believes in Allah and the Last Day should talk what is good or keep quiet.\" The narration is general and is not attached to this verse. It sets honouring a guest beside faith in Allah and the Last Day.",
+            "bn": "সহীহ বুখারীতে (৬০১৮) আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"যে আল্লাহ ও শেষ দিনের প্রতি ঈমান রাখে, সে যেন প্রতিবেশীকে কষ্ট না দেয়। যে আল্লাহ ও শেষ দিনের প্রতি ঈমান রাখে, সে যেন মেহমানের সম্মান করে। আর যে আল্লাহ ও শেষ দিনের প্রতি ঈমান রাখে, সে যেন ভালো কথা বলে, নয়তো চুপ থাকে।\" হাদীসটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। তবে মেহমানের সম্মানকে এটি আল্লাহ ও শেষ দিনের প্রতি ঈমানের পাশে বসিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keeping the Door Tonight",
+          "bn": "আজ রাতে দরজা আগলে রাখা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a people who pressed a host for his guests, and what Allah did to them on one night. It licenses nothing against any living person or community. The blotting out was Allah's act, and it hands no reader a power to strike, shame or expose anyone. The tellings above keep the guests and their protector at the centre, and a reader who turns the story into a weapon has stood on the wrong side of the door.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত সেটুকুই বর্ণনা করে, যা তার শব্দে আছে: একটি জাতি এক মেজবানের কাছে তাঁর মেহমানদের দাবি করেছিল, আর এক রাতে আল্লাহ তাদের সঙ্গে যা করেছিলেন। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। চোখ মুছে দেওয়া ছিল আল্লাহর কাজ। কাউকে আঘাত, অপমান বা লোকসমক্ষে হেয় করার ক্ষমতা এটি কোনো পাঠকের হাতে তুলে দেয় না। ওপরের বর্ণনাগুলোর কেন্দ্রে আছেন মেহমানরা আর তাঁদের রক্ষাকারী। যে পাঠক এ কাহিনিকে অস্ত্র বানায়, সে দাঁড়িয়েছে দরজার ভুল পাশে।"
+          },
+          {
+            "en": "What the verse leaves is a question about one's own door. Guests, newcomers, a colleague with no one to speak for him, a child, anyone whose name or privacy has been placed in our keeping: pressure on them can come quietly. Lut (AS) stood at his door alone, and was not in fact alone. A prayer in the verse's spirit, not a transmitted du'a: O Allah, make me a faithful keeper of those entrusted to me, and let me heed Your warnings before I taste them.",
+            "bn": "আয়াতটি পাঠকের সামনে রেখে যায় তার নিজের দরজা নিয়ে একটি প্রশ্ন। মেহমান, নতুন আসা মানুষ, যে সহকর্মীর পক্ষে কথা বলার কেউ নেই, কোনো শিশু, কিংবা যার সুনাম বা গোপনীয়তা আমাদের জিম্মায় রাখা হয়েছে, তাদের উপর চাপ আসতে পারে নিঃশব্দে। লূত (আঃ) দরজায় একা দাঁড়িয়েছিলেন, অথচ আসলে তিনি একা ছিলেন না। আয়াতের ভাবনা থেকে একটি দোয়া, যা হাদীসে বর্ণিত নয়: হে আল্লাহ, যারা আমার জিম্মায় আছে, আমাকে তাদের বিশ্বস্ত রক্ষক বানাও। আর তোমার সতর্কবাণীর স্বাদ পাওয়ার আগেই তা মেনে চলার তাওফীক দাও।"
+          }
+        ]
+      }
+    ]
+  },
   "54:40": {
     "sections": [
       {
