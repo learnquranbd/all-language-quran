@@ -28687,6 +28687,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The verse names who eats this food and points at no one living; take it as your own warning, and leave the sin you keep repeating while you still can.",
     "lessonBn": "কারা এ খাবার খাবে, আয়াত তা বলে দেয়, কিন্তু কোনো জীবিত মানুষের দিকে আঙুল তোলে না। একে নিজের জন্য সতর্কবাণী হিসেবে নিন, আর যে গুনাহ বারবার করছেন, সময় থাকতেই তা ছেড়ে দিন।"
+  },
+  "70:34": {
+    "reflectionEn": "The portrait of those spared the restless, grasping self began with prayer, and after giving, fear of their Lord, chastity, trusts and testimony, it ends with prayer again: those who guard their prayer. Constancy came first; now comes guarding. One can be constant and still careless, arriving every time yet letting the washing, the stillness or the time itself slip. Guarding watches over all of that, and over the hours between, so that what the prayer builds is not undone. The next verse says such people will be in gardens, honoured. Which part of my prayer do I keep, and which part do I merely attend? And what do I do between prayers that the prayer would not recognise?",
+    "reflectionBn": "অস্থির, লোভী স্বভাব থেকে যারা রেহাই পায়, তাদের ছবি শুরু হয়েছিল নামাজ দিয়ে। তারপর এল দান, রবের শাস্তির ভয়, লজ্জাস্থানের হেফাজত, আমানত আর সাক্ষ্য। শেষে আবার নামাজ: যারা নিজেদের নামাজের হেফাজত করে। শুরুতে ছিল অবিচলতা, এবার হেফাজত। মানুষ প্রতি ওয়াক্তে হাজির থেকেও অযত্নে নামাজ পড়তে পারে। অজু, স্থিরতা, এমনকি ওয়াক্তটাই হাত ফসকে যায়। হেফাজত এর সবকিছুর খেয়াল রাখে, দুই নামাজের মাঝের সময়টারও, যাতে নামাজ যা গড়ে তোলে তা ভেঙে না যায়। পরের আয়াত বলে, এরাই থাকবে জান্নাতে, সম্মানিত হয়ে। আমার নামাজের কোন অংশ আমি সত্যিই আগলে রাখি, আর কোন অংশে শুধু হাজিরা দিই? দুই নামাজের মাঝে এমন কী করি, যা নামাজের সঙ্গে মেলে না?",
+    "pointsEn": [
+      "If I list what my prayer needs, its time, its washing, its stillness, its attention, which of these do I guard and which do I only hope will be there?",
+      "Have I ever prayed every prayer of a day and still not guarded a single one of them?",
+      "Which prayer of the day slips most often to the edge of its time, and what usually pushes it there?",
+      "What do I say or do in the hours between two prayers that quietly works against what the first one built?",
+      "If my week were judged only by how I kept the prayer, would the list in these verses still describe me?"
+    ],
+    "pointsBn": [
+      "নামাজের যা যা লাগে, তার ওয়াক্ত, অজু, স্থিরতা, মনোযোগ, এর কোনগুলো আমি আগলে রাখি, আর কোনগুলো শুধু আশা করি যে ঠিকই থাকবে?",
+      "কখনো কি এমন হয়েছে যে দিনের সব নামাজ পড়েছি, অথচ একটারও হেফাজত করিনি?",
+      "দিনের কোন নামাজটা সবচেয়ে বেশি ওয়াক্তের শেষ কিনারায় গিয়ে ঠেকে, আর সাধারণত কী তাকে সেখানে ঠেলে দেয়?",
+      "দুই নামাজের মাঝের সময়ে আমি এমন কী বলি বা করি, যা আগের নামাজের গড়ে তোলা জিনিসকে চুপচাপ ক্ষয় করে?",
+      "আমার সপ্তাহের বিচার যদি শুধু নামাজ আগলে রাখা দিয়ে হতো, এই আয়াতগুলোর তালিকা কি তখনও আমার কথা বলত?"
+    ],
+    "lessonEn": "Do not stop at praying every prayer: guard each one, its time, its washing, its stillness, and the hours after it, so nothing undoes what it builds.",
+    "lessonBn": "শুধু প্রতি ওয়াক্তে নামাজ পড়েই থেমে যাবেন না। প্রতিটি নামাজের হেফাজত করুন: তার ওয়াক্ত, অজু, স্থিরতা, আর তার পরের সময়টুকুও, যাতে নামাজ যা গড়ে তা ভেঙে না যায়।"
   }
 };
 

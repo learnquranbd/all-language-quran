@@ -1043,6 +1043,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "70:34": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the List Comes to Rest",
+          "bn": "যেখানে এসে তালিকা থামে"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina hum 'ala salatihim yuhafizun: and those who guard their prayer. Five Arabic words close the list that began at 70:22, where al-musallin, those who pray, are excepted from the restless, grasping self of 70:19 to 70:21. Between the two mentions of prayer the list has named a known right in wealth, belief in the Day of Recompense, fear of their Lord's punishment, chastity, trusts and covenants, and upright testimony. The very next verse, 70:35, gives the verdict on all of them together: they will be in gardens, honoured.",
+            "bn": "ওয়াল্লাযীনা হুম 'আলা সালাতিহিম ইউহাফিযূন: আর যারা নিজেদের নামাজের হেফাজত করে। আরবিতে মাত্র পাঁচটি শব্দ, আর তাতেই শেষ হয় সেই তালিকা, যার শুরু ৭০:২২ আয়াতে। সেখানে ৭০:১৯ থেকে ৭০:২১ আয়াতের অস্থির, লোভী স্বভাব থেকে আলাদা করে রাখা হয়েছিল 'আল-মুসাল্লীন', অর্থাৎ নামাজিদের। নামাজের এই দুই উল্লেখের মাঝে তালিকায় এসেছে সম্পদে নির্ধারিত হক, বিচার দিবসে বিশ্বাস, রবের শাস্তির ভয়, লজ্জাস্থানের হেফাজত, আমানত ও অঙ্গীকার, আর সত্য সাক্ষ্য। ঠিক পরের আয়াত, ৭০:৩৫, সবার ব্যাপারে একসঙ্গে রায় দেয়: তারা থাকবে জান্নাতে, সম্মানিত হয়ে।"
+          },
+          {
+            "en": "The opening of that list, constancy in prayer at 70:23, has its own reflection, and the shape the two prayer verses make together was traced there. This reflection stays with the closing verse and with the question its commentators put to it: if these people were already described as constant in their prayer, what does guarding it add? The answers in the tafsir fetched for this verse are short, sometimes a single line, but they do not all divide the work the same way, and that difference is what the sections below follow.",
+            "bn": "তালিকার শুরু, অর্থাৎ ৭০:২৩ আয়াতে নামাজে অবিচলতার কথা, নিয়ে আলাদা আলোচনা আছে। নামাজের দুই আয়াত মিলে যে কাঠামো তৈরি করে, সেটাও সেখানেই দেখানো হয়েছে। এখানে আমরা থাকব শেষ আয়াতটির সঙ্গে, আর মুফাসসিররা এর সামনে যে প্রশ্ন রাখেন তার সঙ্গে। এদের তো আগেই নামাজে অবিচল বলা হয়েছে, তাহলে হেফাজত নতুন কী যোগ করে? এই আয়াতের জন্য সংগ্রহ করা তাফসিরগুলোর জবাব ছোট, কোনোটা এক লাইনের। তবে দুই আয়াতের কাজ সবাই একভাবে ভাগ করেন না। পরের অংশগুলো সেই পার্থক্যটাই অনুসরণ করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Constancy Is Not Guarding",
+          "bn": "অবিচলতা আর হেফাজত এক নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi answers the question in a single sentence: fa-d-dawam khilaf al-muhafazah, constancy is something other than guarding. Their constancy over the prayer, he explains, is that they keep to performing it, never failing in it and never letting any of the things that occupy people draw them away from it. Their guarding of it is more particular: that they attend to completing the ablution for it and to its times, establish its pillars, complete it with its sunnahs and its manners, and protect it from being voided by drawing near to sin.",
+            "bn": "কুরতুবী প্রশ্নটার জবাব দেন এক বাক্যে: 'ফাদ-দাওয়ামু খিলাফুল মুহাফাজা', অবিচলতা আর হেফাজত আলাদা জিনিস। তাঁর ব্যাখ্যায়, নামাজে তাদের অবিচলতা মানে নামাজ আদায়ে লেগে থাকা। তাতে কোনো ত্রুটি করে না, আর মানুষকে যেসব ব্যস্ততা টেনে নেয়, তার কোনোটাই তাদের নামাজ থেকে সরাতে পারে না। হেফাজতের দাবি আরও সূক্ষ্ম। তারা পূর্ণভাবে অজু করার দিকে খেয়াল রাখে, ওয়াক্তের দিকেও। নামাজের রুকনগুলো ঠিকঠাক কায়েম করে, সুন্নত ও আদব দিয়ে তাকে পূর্ণ করে। আর গুনাহের কাছে ঘেঁষে নামাজকে নষ্ট হয়ে যেতে দেয় না, তা থেকে আগলে রাখে।"
+          },
+          {
+            "en": "He then compresses the distinction into two short phrases: constancy goes back to the prayers themselves, and guarding to their states, ahwaliha. Read this way, 70:23 asks whether the prayer takes place at all, day after day, and 70:34 asks in what condition it takes place: washed for, on time, complete in its parts, finished with its sunnahs, and kept safe afterwards. On this reading a person could satisfy the first and fall short in the second, which is why the list can name prayer twice without saying the same thing twice.",
+            "bn": "এরপর তিনি পুরো পার্থক্যটা দুটি ছোট কথায় গুটিয়ে আনেন: অবিচলতার সম্পর্ক নামাজের সঙ্গে, আর হেফাজতের সম্পর্ক নামাজের অবস্থার সঙ্গে, যাকে তিনি বলেন 'আহওয়ালুহা'। এভাবে পড়লে ৭০:২৩ আয়াতের প্রশ্ন হলো, দিনের পর দিন নামাজ আদৌ হচ্ছে কি না। আর ৭০:৩৪ আয়াতের প্রশ্ন, নামাজটা হচ্ছে কোন অবস্থায়। অজু করে, ওয়াক্তমতো, সব অংশ পূর্ণ করে, সুন্নতসহ, আর পরেও নিরাপদে রেখে? এই ব্যাখ্যায় কেউ প্রথম শর্ত পূরণ করেও দ্বিতীয়টিতে পিছিয়ে থাকতে পারে। তাই তালিকা দুবার নামাজের নাম নিলেও একই কথা দুবার বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Time, No Limit Let Go",
+          "bn": "কোনো ওয়াক্ত, কোনো সীমা ছাড়া নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss rests on two words. Those described guard the times of their prayer which Allah made obligatory on them, and its hudud, the limits He made binding on them. Then he says it again in the negative: they do not let slip of it a single time or a single limit. The negative form is worth noticing. Guarding, in his wording, is measured less by what is achieved on a good day than by what is never allowed to go, whether a time that runs out or a limit left unobserved.",
+            "bn": "তাবারীর ব্যাখ্যা দুটি শব্দের উপর দাঁড়িয়ে। আল্লাহ যে ওয়াক্তগুলো তাদের উপর ফরজ করেছেন, আর যে সীমাগুলো, অর্থাৎ 'হুদূদ', তাদের জন্য বাধ্যতামূলক করেছেন, তারা সেগুলোর হেফাজত করে। এরপর তিনি একই কথা না-বোধক রূপে আবার বলেন: তারা এর একটি ওয়াক্তও নষ্ট করে না, একটি সীমাও না। এই না-বোধক রূপটা লক্ষ করার মতো। তাঁর ভাষায় হেফাজতের মাপকাঠি ভালো দিনে কতটা অর্জন হলো তা নয়। মাপকাঠি হলো, কী কখনো হাতছাড়া হতে দেওয়া হয় না: ফুরিয়ে যাওয়া ওয়াক্ত, কিংবা মানা হয়নি এমন কোনো সীমা।"
+          },
+          {
+            "en": "Ibn Kathir's list is longer and graded. They guard its appointed times, its arkan, its wajibat and its mustahabbat: its pillars, its obligations and its recommended acts, named in descending order of obligation. Placing the recommended acts inside what is guarded is a notable step. It means the person praised here is not content with a prayer that merely counts, but keeps what could have been left out without blame. Al-Muyassar, more briefly, says they guard the performance of the prayer and do not fall short in anything obligatory in it.",
+            "bn": "ইবন কাসীরের তালিকা আরও লম্বা, আর ধাপে ধাপে সাজানো। তারা হেফাজত করে নামাজের নির্ধারিত ওয়াক্ত, তার রুকন, তার ওয়াজিব আর তার মুস্তাহাব আমলগুলো। বাধ্যবাধকতার মাত্রা অনুযায়ী উপর থেকে নিচে নামানো তালিকা। মুস্তাহাবকেও হেফাজতের মধ্যে রাখা উল্লেখযোগ্য ব্যাপার। এর মানে, যার প্রশংসা হচ্ছে সে কোনোমতে আদায় হয়ে যাওয়া নামাজে সন্তুষ্ট নয়। যা ছেড়ে দিলেও দোষ হতো না, সেটাও সে ধরে রাখে। মুয়াসসার আরও সংক্ষেপে বলে, তারা নামাজ আদায়ের হেফাজত করে, আর এর কোনো ওয়াজিবে ত্রুটি করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ablution, Bowing, Prostration",
+          "bn": "অজু, রুকু আর সিজদা"
+        },
+        "p": [
+          {
+            "en": "Before giving his own distinction, al-Qurtubi records two short earlier readings. Qatadah said the guarding is over its ablution, its bowing and its prostration. Here the verse is turned toward the body's share in the prayer: the water that prepares for it and the two postures in which the worshipper bends and then lies down before Allah. On this reading the guarding is visible. Someone watching could see it, or see it missing, in the way a person washes before the prayer and in whether he lets his bowing and prostration be hurried.",
+            "bn": "নিজের পার্থক্যটা বলার আগে কুরতুবী আগের যুগের দুটি সংক্ষিপ্ত মত উল্লেখ করেন। কাতাদা বলেছেন, হেফাজত হলো নামাজের অজু, রুকু আর সিজদার উপর। এই পাঠে আয়াতের নজর পড়ে নামাজে শরীরের অংশের দিকে। একদিকে পানি, যা দিয়ে নামাজের প্রস্তুতি। অন্যদিকে সেই দুই অবস্থা, যেখানে বান্দা আল্লাহর সামনে প্রথমে ঝুঁকে পড়ে, তারপর মাটিতে লুটিয়ে পড়ে। এই হেফাজত চোখে দেখা যায়। কেউ পাশে থাকলে বুঝতে পারবে তা আছে কি নেই: মানুষটা কীভাবে অজু করে, আর রুকু-সিজদায় তাড়াহুড়া করে কি না।"
+          },
+          {
+            "en": "Ibn Jurayj's reading is a single word: at-tatawwu', voluntary prayer. On this reading the guarding reaches past the obligatory prayers to those no one is required to pray, so the person praised keeps a share of prayer that rests on nothing but his own choice. Al-Qurtubi sets the two reports side by side, then notes that the verse has already been treated in Surah al-Mu'minun, where a near-identical clause appears at 23:9. He does not decide between Qatadah and Ibn Jurayj, and this reflection leaves them standing as two readings.",
+            "bn": "ইবন জুরাইজের ব্যাখ্যা মাত্র একটি শব্দ: 'আত-তাতাওউ', অর্থাৎ নফল নামাজ। এই পাঠে হেফাজত ফরজ নামাজ পেরিয়ে পৌঁছে যায় সেই নামাজগুলোতে, যা কারও উপর বাধ্যতামূলক নয়। যার প্রশংসা হচ্ছে, তার নামাজের একটা অংশ কেবল তার নিজের ইচ্ছার উপর দাঁড়িয়ে। কুরতুবী দুটি বর্ণনা পাশাপাশি রাখেন। তারপর জানান, সূরা আল-মুমিনূনে আয়াতটির আলোচনা আগেই হয়ে গেছে, কারণ সেখানে ২৩:৯ আয়াতে প্রায় হুবহু একই বাক্য এসেছে। কাতাদা আর ইবন জুরাইজের মধ্যে তিনি কোনো ফয়সালা দেন না। আমরাও দুটিকে দুই ব্যাখ্যা হিসেবেই রেখে দিচ্ছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As-Sa'di Joins the Two",
+          "bn": "সা'দী দুটিকে মিলিয়ে দেন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's whole comment on this verse is four Arabic words: bi-mudawamatiha 'ala akmal wujuhiha, by keeping to it constantly in its most complete form. The noun he reaches for, mudawamah, comes from the same root as da'imun in 70:23, the very word al-Qurtubi had set apart from guarding. Where al-Qurtubi says constancy is other than guarding, as-Sa'di explains guarding as constancy, carried to the prayer's fullest form. In substance they are close, since both include the prayer's completeness, but they divide the two verses' words differently.",
+            "bn": "এই আয়াতে সা'দীর পুরো মন্তব্য আরবিতে মাত্র চারটি শব্দ: 'বিমুদাওয়ামাতিহা 'আলা আকমালি উজূহিহা', সবচেয়ে পূর্ণ রূপে নিয়মিত তা আদায় করে। তিনি যে শব্দটি বেছে নেন, 'মুদাওয়ামা', তার ধাতু আর ৭০:২৩ আয়াতের 'দাইমূন'-এর ধাতু একই। অথচ কুরতুবী ঠিক এই শব্দটিকেই হেফাজত থেকে আলাদা করেছিলেন। কুরতুবী বলেন, অবিচলতা হেফাজত নয়। সা'দী হেফাজতের ব্যাখ্যাই করেন অবিচলতা দিয়ে, যা নামাজের পূর্ণতম রূপ পর্যন্ত পৌঁছেছে। সারকথায় দুজন কাছাকাছি, কারণ দুজনের কথাতেই নামাজের পূর্ণতা আছে। কিন্তু দুই আয়াতের শব্দ তাঁরা ভাগ করেন ভিন্নভাবে।"
+          },
+          {
+            "en": "That difference is worth keeping as it stands. On al-Qurtubi's reading the list names two virtues, regularity and care, and a reader can ask which of the two he lacks. On as-Sa'di's, the closing verse takes up the opening one and raises it: the same constancy, now brought to completion. Neither says the other is wrong, and the five words of 70:34 alone do not settle it. Al-Baghawi, in the text fetched for this verse, adds no gloss of his own at all; he simply repeats the verse.",
+            "bn": "পার্থক্যটা যেমন আছে তেমনই রাখা ভালো। কুরতুবীর পাঠে তালিকা দুটি আলাদা গুণের কথা বলে, নিয়মিততা আর যত্ন। পাঠক নিজেকে জিজ্ঞেস করতে পারেন, এ দুটির কোনটি তার মধ্যে কম। সা'দীর পাঠে শেষ আয়াত শুরুর আয়াতকে তুলে নিয়ে আরও উঁচুতে নিয়ে যায়: সেই একই অবিচলতা, এবার পূর্ণতায় পৌঁছানো। কেউ অন্যজনকে ভুল বলেন না। ৭০:৩৪ আয়াতের পাঁচটি শব্দও একা এর মীমাংসা করে না। এই আয়াতের জন্য সংগ্রহ করা বাগাভীর লেখায় নিজস্ব কোনো ব্যাখ্যা নেই, তিনি শুধু আয়াতটি উদ্ধৃত করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept From Its Own Undoing",
+          "bn": "নষ্ট হওয়া থেকে আগলে রাখা"
+        },
+        "p": [
+          {
+            "en": "One phrase in al-Qurtubi's list reaches beyond the prayer itself: wa-yahfazuha min al-ihbat bi-qtirab al-ma'tham, and they protect it from being voided by drawing near to sin. Every other item he names, the ablution, the times, the pillars, the sunnahs and manners, is attended to before the prayer or within it. This one concerns the hours around it. A prayer, on his wording, can be performed well and still be left exposed, and the one who guards it watches over the time when he is not praying as well as the minutes when he is.",
+            "bn": "কুরতুবীর তালিকার একটি কথা নামাজের গণ্ডি পেরিয়ে যায়: 'ওয়া ইয়াহফাজূহা মিনাল ইহবাতি বিকতিরাবিল মা'সাম', আর গুনাহের কাছে ঘেঁষে নামাজকে নিষ্ফল হতে দেয় না, তা থেকে আগলে রাখে। তাঁর বলা বাকি সব বিষয়, অজু, ওয়াক্ত, রুকন, সুন্নত ও আদব, নামাজের আগে বা নামাজের ভেতরে খেয়াল রাখার জিনিস। এটি অন্য রকম। এর সম্পর্ক নামাজের আশপাশের সময়ের সঙ্গে। তাঁর ভাষা অনুযায়ী, সুন্দরভাবে আদায় করা নামাজও অরক্ষিত পড়ে থাকতে পারে। যে নামাজের হেফাজত করে, সে শুধু নামাজের মিনিটগুলো নয়, নামাজের বাইরের সময়টাও পাহারা দেয়।"
+          },
+          {
+            "en": "He does not say which sins he means or how the voiding takes place, and this reflection will not supply a theory he did not give. What his phrase does make plain is the direction of the guarding: it protects the prayer against something outside it that could spoil it. Earlier in this same list, at 70:29, those praised are hafizun of their private parts, from the same root h-f-z. That the list uses the root for both is the article's own observation, not a commentator's, but it fits his picture of guarding as protection.",
+            "bn": "কোন গুনাহের কথা তিনি বলছেন, কিংবা নামাজ কীভাবে নিষ্ফল হয়, তা তিনি বলেননি। তিনি যে তত্ত্ব দেননি, আমরাও তা জুড়ে দেব না। তবে তাঁর কথায় হেফাজতের দিকটা পরিষ্কার: বাইরের যে জিনিস নামাজকে নষ্ট করতে পারে, তার হাত থেকে নামাজকে রক্ষা করা। এই তালিকাতেই আগে, ৭০:২৯ আয়াতে, প্রশংসিত মানুষদের বলা হয়েছে নিজেদের লজ্জাস্থানের 'হাফিযূন', একই হ-ফ-য ধাতু থেকে। তালিকা যে দুই জায়গাতেই এই ধাতু ব্যবহার করেছে, সেটা আমাদের নিজেদের পর্যবেক্ষণ, কোনো মুফাসসিরের কথা নয়। তবে হেফাজতকে সুরক্ষা হিসেবে দেখার যে ছবি কুরতুবী দেন, তার সঙ্গে এটা মেলে।"
+          },
+          {
+            "en": "Read for oneself, the phrase turns a question about the prayer into a question about the day. The person who prays the afternoon prayer with care and then spends the evening in what he knows to be wrong has kept the first half of guarding and left the second. Al-Qurtubi gives no such example; it is offered here only as a way of taking his words home. His list ends where most people's attention to prayer ends, at the final salam, and then quietly goes one step further.",
+            "bn": "নিজের জীবনের দিকে তাকিয়ে পড়লে কথাটা নামাজের প্রশ্নকে গোটা দিনের প্রশ্নে বদলে দেয়। কেউ যত্ন করে আসরের নামাজ পড়ল, তারপর সন্ধ্যাটা কাটাল এমন কাজে, যাকে সে নিজেই অন্যায় বলে জানে। হেফাজতের প্রথম অর্ধেক সে রাখল, দ্বিতীয় অর্ধেক ছেড়ে দিল। কুরতুবী এমন কোনো উদাহরণ দেননি। কথাগুলো নিজের জীবনে মিলিয়ে দেখার জন্যই এটি এখানে রাখা। বেশিরভাগ মানুষের মনোযোগ শেষ সালামের সঙ্গে নামাজ থেকে সরে যায়। কুরতুবীর তালিকা ঠিক সেখানে পৌঁছে চুপচাপ আরও একটা ধাপ এগিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Different Openings, One Close",
+          "bn": "শুরু আলাদা, শেষ একই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, after listing what is guarded, says that Allah opened this account with the mention of prayer and closed it with its mention, which shows the care given to prayer and the praise of its honour, as at the start of Surah al-Mu'minun; it is the same, he says. That parallel, with the verdicts of 23:10 to 23:11 and 70:35 set side by side, was laid out in the reflection on 70:22 to 70:23 and is not retold here. Al-Qurtubi, as seen above, also sends the reader back to al-Mu'minun.",
+            "bn": "কী কী হেফাজত করা হয়, তা বলার পর ইবন কাসীর জানান, আল্লাহ এই বর্ণনা শুরু করেছেন নামাজের কথা দিয়ে, শেষও করেছেন নামাজের কথা দিয়ে। এতে বোঝা যায় নামাজের প্রতি কতটা গুরুত্ব, আর ফুটে ওঠে তার মর্যাদার প্রশংসা, ঠিক যেমন সূরা আল-মুমিনূনের শুরুতে। তাঁর ভাষায়, দুটো একই রকম। ২৩:১০ ও ২৩:১১ আয়াতের রায় আর ৭০:৩৫ আয়াতের রায় পাশাপাশি রেখে এই মিলের আলোচনা ৭০:২২ ও ৭০:২৩ আয়াতের প্রসঙ্গে হয়ে গেছে, তাই এখানে আর বলা হলো না। আগেই দেখা গেছে, কুরতুবীও পাঠককে আল-মুমিনূনের দিকেই ফিরিয়ে দেন।"
+          },
+          {
+            "en": "One detail of the wording can be added, as the article's own reading of the text rather than any commentator's. The two lists open on different words: humility, khashi'un, in 23:2, and constancy, da'imun, in 70:23. Yet both close on the same verb, yuhafizun, in 23:9 and here. Whatever begins the portrait, guarding ends it. The clause also stands outside these two lists, at 6:92, describing those who believe in the Hereafter and in the Book: wa-hum 'ala salatihim yuhafizun, and they guard their prayer.",
+            "bn": "শব্দচয়নের একটা খুঁটিনাটি এখানে যোগ করা যায়। এটা আমাদের নিজেদের পাঠ, কোনো মুফাসসিরের কথা নয়। দুই তালিকা শুরু হয় ভিন্ন শব্দে: ২৩:২ আয়াতে বিনয়, 'খাশিঊন', আর ৭০:২৩ আয়াতে অবিচলতা, 'দাইমূন'। অথচ দুটোই শেষ হয় একই ক্রিয়ায়, 'ইউহাফিযূন', ২৩:৯ আয়াতে এবং এখানে। ছবির শুরু যেভাবেই হোক, শেষ হয় হেফাজতে। এই বাক্য এই দুই তালিকার বাইরেও আছে। ৬:৯২ আয়াতে, যারা আখিরাতে আর এই কিতাবে বিশ্বাস রাখে তাদের বর্ণনায় এসেছে: 'ওয়া হুম 'আলা সালাতিহিম ইউহাফিযূন', আর তারা নিজেদের নামাজের হেফাজত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions the Commentators Leave",
+          "bn": "মুফাসসিরদের রেখে যাওয়া প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "None of the tafsir fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. The narration of Ibn Mas'ud (RA) in al-Bukhari (527), naming the prayer at its time as the deed most beloved to Allah, is general: it is quoted whole in the reflection on 2:238, and no commentator here ties it to this verse. Al-Bukhari placed it in his Sahih. The reflection on 2:238 also treats the command to guard the prayers, and that is not repeated here.",
+            "bn": "এই আয়াতের জন্য সংগ্রহ করা কোনো তাফসিরই এর সঙ্গে কোনো হাদিস জোড়েনি, নাজিলের কোনো প্রেক্ষাপটও দেয়নি। সহীহ বুখারীতে (৫২৭) ইবন মাসউদ (রাঃ)-এর বর্ণনা আছে, যাতে আল্লাহর কাছে সবচেয়ে প্রিয় আমল বলা হয়েছে ওয়াক্তমতো নামাজকে। তবে বর্ণনাটি সাধারণ। ২:২৩৮ আয়াতের আলোচনায় এর পুরো ভাষ্য তুলে দেওয়া আছে। এখানকার কোনো মুফাসসির একে এই আয়াতের সঙ্গে যুক্ত করেননি। ইমাম বুখারী হাদিসটি তাঁর সহীহ গ্রন্থে এনেছেন। নামাজের হেফাজতের হুকুম নিয়েও ২:২৩৮ আয়াতের আলোচনায় কথা হয়েছে, এখানে তার পুনরাবৃত্তি করা হলো না।"
+          },
+          {
+            "en": "What the commentators leave, taken together, is a set of questions a reader can put to his own prayer. At-Tabari asks whether any time or limit has been let go. Ibn Kathir asks whether the recommended acts are kept along with the obligations. Qatadah looks at the ablution, the bowing and the prostration; Ibn Jurayj at the prayer that no one requires. Al-Qurtubi asks what happens to the prayer in the hours after it. As-Sa'di asks whether the constancy has reached its most complete form. They can be taken one at a time.",
+            "bn": "মুফাসসিরদের কথাগুলো একসঙ্গে রাখলে কয়েকটি প্রশ্ন দাঁড়ায়, যা পাঠক নিজের নামাজের সামনে রাখতে পারেন। তাবারী জানতে চান, কোনো ওয়াক্ত বা কোনো সীমা হাতছাড়া হয়েছে কি না। ইবন কাসীর জানতে চান, রুকন ও ওয়াজিবের পাশাপাশি মুস্তাহাবগুলোও ধরে রাখা হচ্ছে কি না। কাতাদার নজর অজু, রুকু আর সিজদার দিকে। ইবন জুরাইজের নজর সেই নামাজের দিকে, যা কেউ বাধ্য করেনি। কুরতুবী জানতে চান, নামাজের পরের সময়ে নামাজটার কী হয়। সা'দী জানতে চান, অবিচলতা তার পূর্ণতম রূপে পৌঁছেছে কি না। প্রশ্নগুলো একটা একটা করে ধরা যায়।"
+          },
+          {
+            "en": "The verse then hands the whole list to its verdict. Ula'ika fi jannatin mukramun: they will be in gardens, honoured, at 70:35, and al-Muyassar explains the honour as every kind of honouring. The people honoured are not described by a single high moment but by things kept: prayer kept constant, the right in wealth kept paid, desire kept to its place, trusts kept, testimony kept upright, and finally prayer kept guarded. The last trait sends the reader back to the first, and asks that it be done again, this time with care.",
+            "bn": "এরপর আয়াত পুরো তালিকাকে তার রায়ের হাতে তুলে দেয়। ৭০:৩৫ আয়াতে: 'উলাইকা ফী জান্নাতিম মুকরামূন', তারা থাকবে জান্নাতে, সম্মানিত হয়ে। মুয়াসসার বলে, সেখানে তাদের সম্মান করা হবে সব রকমের সম্মানে। যাদের সম্মান দেওয়া হচ্ছে, তাদের পরিচয় কোনো এক মুহূর্তের উচ্চতা দিয়ে নয়। পরিচয় হলো যা তারা ধরে রেখেছে, তা দিয়ে: নামাজে অবিচলতা, সম্পদের হক আদায়, কামনাকে তার জায়গায় রাখা, আমানত রক্ষা, সাক্ষ্যে সত্যে অটল থাকা, আর শেষে নামাজের হেফাজত। শেষ গুণ পাঠককে আবার প্রথম গুণের কাছে ফিরিয়ে নেয়, আর বলে, কাজটা আবার করুন, এবার যত্ন নিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "70:40": {
     "sections": [
       {
