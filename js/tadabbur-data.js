@@ -27709,6 +27709,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read the sun and moon's faithful reckoning as His mercy: keep your own hours in order, and thank Him for the time itself.",
     "lessonBn": "সূর্য ও চাঁদের নির্ভুল হিসাবকে তাঁর রহমত হিসেবে দেখুন: নিজের সময়গুলো শৃঙ্খলায় রাখুন, আর সময়ের জন্যই তাঁর শুকরিয়া আদায় করুন।"
+  },
+  "54:8": {
+    "reflectionEn": "Every head in the crowd is stretched towards one voice. Nobody hangs back, nobody looks elsewhere, every ear is open to the sound. Then, in all that rushing, one sentence is heard, and the verse gives it to the disbelievers by name: this is a hard Day. It is the most honest thing they say anywhere in the passage, and it comes when honesty can change nothing. The attention I hold back now, from a reminder or a recitation, will be given in full on that Day without anyone asking for it. So the verse turns the question back on me. What would I hear today if I listened to the call with my whole face turned towards it?",
+    "reflectionBn": "ভিড়ের প্রতিটি মাথা একটিমাত্র আওয়াজের দিকে বাড়ানো। কেউ পিছিয়ে নেই, কেউ অন্য দিকে তাকিয়ে নেই, প্রতিটি কান খোলা সেই ডাকের দিকে। এত ছুটোছুটির মধ্যে একটি কথা শোনা যায়, আর আয়াতটি সেটি নাম ধরে কাফিরদের মুখে তুলে দেয়: এ তো কঠিন দিন। পুরো আলোচনায় তাদের মুখে এর চেয়ে সত্য কথা আর নেই। অথচ কথাটা এল এমন সময়ে, যখন সত্য বলায় আর কিছুই বদলায় না। যে মনোযোগ আজ আমি কোনো নসিহত বা তিলাওয়াত থেকে আটকে রাখি, সেদিন তা পুরোটাই দিতে হবে, কেউ চাওয়ার আগেই। তাই প্রশ্নটা আয়াত আমার দিকেই ফিরিয়ে দেয়। পুরো মুখ ফিরিয়ে আজ যদি ডাকটা শুনতাম, কী শুনতে পেতাম?",
+    "pointsEn": [
+      "When a verse of the Qur'an is recited near me, how much of my attention actually turns towards it?",
+      "Which voice in my day do I rush to answer at once, and which call of Allah is left waiting behind it?",
+      "Is there a truth about my own life that I am putting off admitting until admitting it can no longer help?",
+      "What could I do this week so that I meet that Day as someone who listened, not someone who turned away?",
+      "Do I place anyone else in that hurrying crowd, when the verse asks only where my own steps are going?"
+    ],
+    "pointsBn": [
+      "আমার পাশে কুরআনের কোনো আয়াত তিলাওয়াত হলে আমার মনোযোগের কতটুকু সত্যিই সেদিকে ফেরে?",
+      "দিনের কোন ডাকে আমি সঙ্গে সঙ্গে সাড়া দিতে ছুটে যাই, আর তার পেছনে আল্লাহর কোন ডাক অপেক্ষায় পড়ে থাকে?",
+      "নিজের জীবনের এমন কোনো সত্য কি আছে, যা স্বীকার করা আমি ততদিন ঠেকিয়ে রাখছি যতদিন না স্বীকার করায় আর কোনো লাভ থাকে?",
+      "এ সপ্তাহে কী করলে আমি সেদিন এমন মানুষ হিসেবে হাজির হব, যে ডাক শুনেছিল, মুখ ফিরিয়ে নেয়নি?",
+      "আয়াত তো শুধু জানতে চায় আমার নিজের পা কোন দিকে যাচ্ছে। তবু কি আমি অন্য কাউকে সেই ছুটে চলা ভিড়ে বসিয়ে দিই?"
+    ],
+    "lessonEn": "Turn your attention to the call of truth while listening can still change you; on that Day every ear is opened, and the deniers can only say the Day is hard.",
+    "lessonBn": "শুনে বদলে যাওয়ার সুযোগ এখনো আছে, তাই এখনই সত্যের ডাকের দিকে মনোযোগ ফেরান। সেদিন প্রতিটি কান খুলে যাবে, আর অস্বীকারকারীরা শুধু বলতে পারবে, দিনটি কঠিন।"
   }
 };
 

@@ -303,6 +303,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "54:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eight Words, Two Halves",
+          "bn": "আট শব্দ, দুই ভাগ"
+        },
+        "p": [
+          {
+            "en": "Muhti'ina ila d-da'i, yaqulu l-kafiruna hadha yawmun 'asir: hastening towards the caller, the disbelievers say, this is a hard Day. Eight words, and they close a sentence that began in 54:6, where the Prophet ﷺ is told to turn away from the deniers on the day the caller calls to a terrible thing, and ran on through 54:7, where they come out of the graves with lowered eyes. The new verse keeps describing the same people, now in motion.",
+            "bn": "মুহতিঈনা ইলাদ দাঈ, ইয়াকূলুল কাফিরূনা হাযা ইয়াওমুন আসির: আহ্বানকারীর দিকে ছুটে চলেছে, কাফিররা বলে, এ তো কঠিন দিন। মাত্র আটটি শব্দ, অথচ এগুলো একটি বাক্যের সমাপ্তি টানে। বাক্যটির শুরু ৫৪:৬ আয়াতে। সেখানে নবী ﷺ-কে বলা হয় অস্বীকারকারীদের থেকে মুখ ফিরিয়ে নিতে, সেদিনের অপেক্ষায় যেদিন আহ্বানকারী এক ভয়ংকর জিনিসের দিকে ডাকবে। ৫৪:৭ আয়াতে তারা অবনত চোখে কবর থেকে বেরিয়ে আসে। নতুন আয়াতটি সেই একই মানুষদের কথা বলে চলে, এবার তারা চলমান।"
+          },
+          {
+            "en": "The verse has two halves, and they do different work. The first is motion: a crowd hurrying in one direction. The second is speech: one sentence, put in the mouths of a group the verse names. Al-Muyassar, whose comment covers 54:7 and 54:8 together, joins them in a single line: hastening to what they were called to, the disbelievers say, this is a hard day, severe in its terror. This article follows the same order: the word first, then the caller, then the words spoken.",
+            "bn": "আয়াতের দুটি ভাগ, আর দুই ভাগের কাজ আলাদা। প্রথম ভাগে চলা: একদল মানুষ একই দিকে তাড়াহুড়ো করে যাচ্ছে। দ্বিতীয় ভাগে কথা: একটিমাত্র বাক্য, যা আয়াত একটি নির্দিষ্ট দলের নাম ধরে তাদের মুখে দেয়। মুয়াসসার ৫৪:৭ ও ৫৪:৮ একসঙ্গে ব্যাখ্যা করেছে, আর দুটিকে জুড়েছে এক লাইনে: যেদিকে ডাকা হয়েছে সেদিকে তারা ছুটে যায়, আর কাফিররা বলে, এ তো কঠিন দিন, যার বিভীষিকা প্রচণ্ড। এই লেখাও সেই ক্রম মেনে চলবে। আগে শব্দটি, তারপর আহ্বানকারী, শেষে উচ্চারিত কথাটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Neck Stretched Forward",
+          "bn": "সামনে বাড়ানো ঘাড়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi begins with the plain sense. Muhti'in means hastening, he says, and he gives it as the view of Abu 'Ubayda, with a line of verse in support: by the Tigris is their home, and I have seen them by the Tigris, muhti'ina ila s-sama', hurrying towards the listening. The poet is not named. The line sets the same word beside the same preposition, ila, and uses it of people drawn eagerly towards something they hear.",
+            "bn": "কুরতুবী শুরু করেন সরল অর্থ দিয়ে। মুহতিঈন মানে দ্রুত ছুটে চলা, আর এই মত তিনি আবু উবায়দার বলে উল্লেখ করেন। সমর্থনে আনেন একটি কবিতার লাইন: দিজলার তীরে তাদের ঘর, আর দিজলার তীরেই আমি তাদের দেখেছি শোনার দিকে মুহতিঈন হয়ে ছুটে যেতে। কবির নাম তিনি বলেননি। লাইনটিতে একই শব্দ এসেছে একই অব্যয় ইলা-র সঙ্গে। আর শব্দটি বলা হয়েছে এমন লোকদের সম্পর্কে, যারা কিছু শোনার টানে আগ্রহভরে এগিয়ে যায়।"
+          },
+          {
+            "en": "He then opens the root. Hata'a r-rajulu yahta'u hutu'an is said when a man turns to a thing with his gaze and does not take his eyes off it. Ahta'a is said when he stretches out his neck and sawwaba ra'sahu, lowers his head forward. A camel is called muhti' when its neck has that downward slant by nature. And ahta'a fi 'adwihi means he went fast in his running. Gaze, neck, head and speed all live in a single root.",
+            "bn": "এরপর তিনি শব্দের মূল খুলে দেখান। হাতাআর রাজুলু ইয়াহতাউ হুতূআন বলা হয় তখন, যখন কেউ দৃষ্টি দিয়ে কোনো কিছুর দিকে মনোযোগী হয় আর সেখান থেকে চোখ সরায় না। আহতাআ বলা হয়, যখন সে ঘাড় লম্বা করে দেয় আর মাথা সামনের দিকে নুইয়ে আনে। যে উটের ঘাড়ে জন্মগতভাবেই এমন নিচের দিকে ঝোঁক থাকে, তাকে বলে মুহতি। আর আহতাআ ফী আদভিহী মানে, সে দৌড়ে গতি বাড়াল। দৃষ্টি, ঘাড়, মাথা আর গতি, সবই এই এক মূলের ভেতরে।"
+          },
+          {
+            "en": "A second line of verse in al-Qurtubi shows the word used of a single man, not a crowd: Namir ibn Sa'd has made me his servant, though I once saw Namir ibn Sa'd obedient to me and muhti'. Here muhti' stands next to muti', obedient, as the stance of someone who waits on another with his neck bent towards him. Again the poet is not named. Between the two lines, the word covers both the eager rush and the bent neck of attendance.",
+            "bn": "কুরতুবীর দ্বিতীয় কবিতার লাইনে শব্দটি এসেছে কোনো ভিড় নয়, একজন মানুষ সম্পর্কে: নামির ইবন সা'দ আমাকে নিজের গোলাম বানিয়েছে, অথচ একসময় আমি নামির ইবন সা'দকে দেখেছি আমার অনুগত ও মুহতি হয়ে থাকতে। এখানে মুহতি বসেছে মুতী, অর্থাৎ অনুগত শব্দের পাশে। যে অন্যের খেদমতে ঘাড় নুইয়ে তার দিকে চেয়ে থাকে, শব্দটি তার ভঙ্গি। এ কবিরও নাম নেই। দুটি লাইন মিলিয়ে দেখলে শব্দটির ভেতরে আগ্রহের ছুটে চলা যেমন আছে, তেমনি আছে খেদমতে নুয়ে থাকা ঘাড়ও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Staring, Facing, Making For",
+          "bn": "চেয়ে থাকা, মুখ ফেরানো, এগিয়ে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own gloss is precise: hastening bi-nazarihim, with their gaze, towards their caller to that standing-place. He says he has already explained ihta' earlier in his commentary, with its evidence, and will not repeat it, but will give reports he had not cited before. From Tamim ibn Hadhlam, through his chain, and again from Abu d-Duha: muhti'ina ila d-da'i is at-tahmij. At-Tabari gives that noun alone and does not explain it further here.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা খুব নিখুঁত: তারা দৃষ্টি নিয়ে ছুটে চলে, সেই দাঁড়ানোর স্থানের দিকে যে তাদের ডাকছে তার দিকে। তিনি বলেন, ইহতা শব্দের অর্থ প্রমাণসহ তিনি আগেই তাঁর তাফসীরে বুঝিয়ে দিয়েছেন, তাই আর পুনরাবৃত্তি করবেন না। তবে আগে আনেননি এমন কিছু বর্ণনা এখানে দেবেন। নিজের সনদে তামীম ইবন হাযলাম থেকে, আবার আবুদ দুহা থেকেও তিনি আনেন: মুহতিঈনা ইলাদ দাঈ মানে আত-তাহমীজ। তাবারী এখানে শুধু শব্দটিই দেন, এর আর কোনো ব্যাখ্যা দেন না।"
+          },
+          {
+            "en": "The next report, from Sufyan, describes the posture with a gesture: like this, their eyes fixed and staring towards the sky. From Qatada comes 'amidin, making deliberately for the caller. From Ibn 'Abbas, through at-Tabari's chain, comes nazirin, looking. Al-Qurtubi's list repeats the glosses of Qatada and Ibn 'Abbas and adds two more. Ad-Dahhak said muqbilin, turning to face. 'Ikrima said fatihina adhanahum ila s-sawt, opening their ears to the sound.",
+            "bn": "পরের বর্ণনাটি সুফিয়ানের। তিনি ভঙ্গিটা দেখিয়ে বলেন: এভাবে, তাদের চোখ আকাশের দিকে স্থির হয়ে চেয়ে আছে। কাতাদা থেকে এসেছে আমিদীন, অর্থাৎ লক্ষ্য স্থির করে আহ্বানকারীর দিকে এগিয়ে যাওয়া। তাবারীর সনদে ইবন আব্বাস (রাঃ) থেকে এসেছে নাযিরীন, অর্থাৎ তাকিয়ে থাকা। কুরতুবীর তালিকায় কাতাদা ও ইবন আব্বাসের ব্যাখ্যা আবার এসেছে, সঙ্গে আরও দুটি। দাহহাক বলেছেন মুকবিলীন, অর্থাৎ মুখ ফিরিয়ে সামনে আসা। ইকরিমা বলেছেন, তারা আওয়াজের দিকে কান খুলে রাখে।"
+          },
+          {
+            "en": "Read one after another, the glosses can look like a dispute: one says hastening, another looking, another listening. Al-Qurtubi closes his list with three words, wa-l-ma'na mutaqarib: the meaning is close. They describe one movement from different sides. The speed is in the legs, the stare is in the eyes, the stretch is in the neck, and the open ear is turned to the voice. What every gloss shares is direction: the whole person points towards the caller.",
+            "bn": "একটার পর একটা পড়লে ব্যাখ্যাগুলোকে মতভেদ মনে হতে পারে। কেউ বলছেন ছুটে চলা, কেউ তাকিয়ে থাকা, কেউ কান পেতে শোনা। কুরতুবী তালিকা শেষ করেন তিনটি শব্দে: ওয়াল মা'না মুতাকারিব, অর্থ কাছাকাছি। সবাই একই চলাকে ভিন্ন ভিন্ন দিক থেকে দেখছেন। গতি পায়ে, স্থির দৃষ্টি চোখে, টান ঘাড়ে, আর খোলা কান আওয়াজের দিকে ফেরানো। সব ব্যাখ্যায় যা মিলে যায় তা হলো দিক। মানুষটির পুরো সত্তা আহ্বানকারীর দিকে তাক করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lowered Eyes, Fixed Stare",
+          "bn": "নত চোখ, স্থির দৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "A question rises from the text itself. One verse earlier the eyes are khushsha', humbled and lowered. Now Sufyan has them staring towards the sky, Ibn 'Abbas says looking, and at-Tabari speaks of hastening with the gaze. Ma'arif al-Qur'an raises the same point and answers it. The words with their eyes humbled in 54:7, it says, are in no conflict with this verse, because there will be many different occasions in the gathering, and on some of them the eyes of all the people will be cast down.",
+            "bn": "প্রশ্নটা আয়াতের ভেতর থেকেই ওঠে। মাত্র একটি আয়াত আগে, ৫৪:৭ আয়াতে, চোখ খুশশা, অপমানে নত ও অবনমিত। আর এখানে সুফিয়ানের বর্ণনায় চোখ আকাশের দিকে স্থির, ইবন আব্বাস (রাঃ) বলছেন তাকিয়ে থাকা, তাবারী বলছেন দৃষ্টি নিয়ে ছুটে চলা। মাআরিফুল কুরআন এই প্রশ্নটা তুলে নিজেই জবাব দেয়। তার কথা, ৫৪:৭ আয়াতের নত চোখের বর্ণনার সঙ্গে এ আয়াতের কোনো বিরোধ নেই। হাশরের ময়দানে অবস্থা আসবে নানা রকম, আর তার কোনো কোনোটিতে সব মানুষের চোখ নিচু হয়ে থাকবে।"
+          },
+          {
+            "en": "The commentaries also picture the head differently. Ma'arif al-Qur'an says the word literally denotes walking quickly with one's head raised. Al-Qurtubi's definition of ahta'a has the neck stretched out and the head lowered forward, and his camel is muhti' for the downward slant in its neck. One account raises the head and the other bends it down, and both are describing the same word. Neither writer addresses the other's picture, and this article does not choose between them.",
+            "bn": "মাথার ছবিটাও তাফসীরগুলোতে আলাদা। মাআরিফুল কুরআন বলে, শব্দটির আক্ষরিক অর্থ মাথা উঁচু করে দ্রুত হাঁটা। অথচ কুরতুবীর সংজ্ঞায় আহতাআ মানে ঘাড় লম্বা করে মাথা সামনে নুইয়ে আনা, আর তাঁর উটটি মুহতি হয় ঘাড়ের নিচের দিকে ঝোঁকের কারণে। এক বর্ণনায় মাথা উঁচু, অন্যটিতে নিচু, অথচ দুজনেই একই শব্দের কথা বলছেন। কেউ অন্যজনের ছবি নিয়ে কিছু বলেননি। এই লেখাও দুটির কোনোটির পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Calls, and Who Answers",
+          "bn": "কে ডাকে, কে সাড়া দেয়"
+        },
+        "p": [
+          {
+            "en": "The verse calls the caller only ad-da'i, with no name attached. Al-Baghawi's gloss supplies one: ila sawti Israfil, to the voice of Israfil. He is the only one of the eight tafsir texts read here to name him. At-Tabari speaks of their caller to that standing-place, al-Muyassar says only that they hasten to what they were called to, and Ma'arif al-Qur'an speaks of the voice of the Caller. The others leave him as the verse leaves him.",
+            "bn": "আয়াত আহ্বানকারীকে শুধু আদ-দাঈ বলেছে, কোনো নাম জোড়েনি। বাগাভী তাঁর ব্যাখ্যায় একটি নাম দেন: ইসরাফীলের আওয়াজের দিকে। এখানে পড়া আটটি তাফসীরের মধ্যে শুধু তিনিই নামটি বলেছেন। তাবারী বলেন, সেই দাঁড়ানোর স্থানের দিকে যে তাদের ডাকছে। মুয়াসসার শুধু বলে, যেদিকে তাদের ডাকা হয়েছে সেদিকে তারা ছুটে যায়। মাআরিফুল কুরআন বলে আহ্বানকারীর আওয়াজের কথা। বাকিরা আহ্বানকারীকে সেভাবেই রেখে দেন, যেভাবে আয়াত রেখেছে।"
+          },
+          {
+            "en": "As-Sa'di draws something about the call out of the word itself. Hastening to answer the summons of the caller, he says, shows that the caller calls them and commands them to attend the standing-place of the Resurrection, and that they answer his call, yulabbuna, and hurry to respond. Ibn Kathir, in the Arabic, adds a short phrase of his own: la yukhalifuna wa la yata'akhkharun, they do not go against him and they do not lag behind.",
+            "bn": "সা'দী শব্দটির ভেতর থেকেই ডাকের ধরন সম্পর্কে একটি কথা বের করেন। তাঁর মতে, আহ্বানকারীর ডাকে সাড়া দিতে ছুটে চলা বোঝায় যে আহ্বানকারী তাদের ডাকবে এবং কিয়ামতের দাঁড়ানোর স্থানে হাজির হওয়ার আদেশ দেবে। তারা তার ডাকে লাব্বাইক বলে সাড়া দেবে, জবাব দিতে দ্রুত ছুটে যাবে। ইবন কাসীর আরবি তাফসীরে ছোট্ট একটি কথা জুড়ে দেন: লা ইউখালিফূনা ওয়ালা ইয়াতাআখখারূন। তারা তার বিরুদ্ধে যায় না, পিছিয়েও থাকে না।"
+          },
+          {
+            "en": "Set beside 54:2, the phrase has an edge. There, when the deniers saw a sign, yu'ridu, they turned away. In 54:6 the Prophet ﷺ is told to turn away from them in turn. In 54:8 the same people turn towards a voice and hurry to it, with nothing of the old turning away left in them. The verbs at the surah's opening and in this verse face opposite ways, and the reversal is there in the text before any commentator explains it.",
+            "bn": "৫৪:২ আয়াতের পাশে রাখলে কথাটা আরও ধারালো হয়। সেখানে অস্বীকারকারীরা নিদর্শন দেখে ইউরিদূ, মুখ ফিরিয়ে নেয়। ৫৪:৬ আয়াতে নবী ﷺ-কে বলা হয় এবার তিনিও যেন তাদের থেকে মুখ ফিরিয়ে নেন। আর ৫৪:৮ আয়াতে সেই মানুষগুলোই একটি আওয়াজের দিকে মুখ করে ছুটে যায়। আগের সেই মুখ ফিরিয়ে নেওয়ার কিছুই তখন আর অবশিষ্ট নেই। সূরার শুরুর ক্রিয়াগুলো আর এই আয়াতের ক্রিয়া দুই বিপরীত দিকে মুখ করা। কোনো তাফসীরকার ব্যাখ্যা করার আগেই উল্টে যাওয়াটা আয়াতের ভেতরেই দেখা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Day Called 'Asir",
+          "bn": "যে দিনের নাম আসির"
+        },
+        "p": [
+          {
+            "en": "Then the speech: yaqulu l-kafiruna hadha yawmun 'asir. At-Tabari explains that the disbelievers in Allah say it on the day the caller calls to a terrible thing, and that they describe the day as hard because of the severity of its terrors and its balbal, its turmoil and agitation. Al-Qurtubi says the day meant is the Day of Resurrection, called hard for the hardship that reaches them in it. Al-Baghawi gives two words: sa'b shadid, difficult and severe.",
+            "bn": "এরপর কথাটি: ইয়াকূলুল কাফিরূনা হাযা ইয়াওমুন আসির। তাবারী ব্যাখ্যা করেন, আল্লাহকে অস্বীকারকারীরা এ কথা বলবে সেদিন, যেদিন আহ্বানকারী এক ভয়ংকর জিনিসের দিকে ডাকবে। দিনটিকে তারা কঠিন বলবে তার বিভীষিকার তীব্রতা আর তার বালবালের কারণে, অর্থাৎ অস্থিরতা ও উৎকণ্ঠার কারণে। কুরতুবী বলেন, এ দিন মানে কিয়ামতের দিন। একে কঠিন বলা হয়েছে, কারণ সেদিন তাদের উপর কষ্ট নেমে আসবে। বাগাভী দুটি শব্দে বলেন: সা'ব শাদীদ, দুরূহ ও প্রচণ্ড।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic gloss borrows a pair of words from another surah: a day intense in terror, 'abus qamtarir. Those two words describe the Day in 76:10, where those who feed others for the sake of Allah say, we fear from our Lord a Day grim and distressful. Ibn Kathir does not give the reference; it was checked against the text of the mushaf. He then cites 74:9 and 74:10, a hard Day, far from easy for the disbelievers, and as-Sa'di cites 74:10 as well.",
+            "bn": "ইবন কাসীর আরবি ব্যাখ্যায় অন্য এক সূরা থেকে দুটি শব্দ ধার নেন: বিভীষিকায় প্রচণ্ড এক দিন, আবূস কামতারীর। এই দুটি শব্দেই ৭৬:১০ আয়াতে দিনটির বর্ণনা এসেছে। সেখানে যারা আল্লাহর সন্তুষ্টির জন্য অন্যকে খাওয়ায়, তারা বলে: আমরা আমাদের রবের কাছ থেকে এক ভয়ংকর, বিভীষিকাময় দিনের ভয় করি। ইবন কাসীর আয়াত নম্বর দেননি, মুসহাফের পাঠ মিলিয়ে তা যাচাই করা হয়েছে। এরপর তিনি ৭৪:৯ ও ৭৪:১০ উদ্ধৃত করেন: সে এক কঠিন দিন, কাফিরদের জন্য মোটেই সহজ নয়। সা'দীও ৭৪:১০ উদ্ধৃত করেছেন।"
+          },
+          {
+            "en": "Who says it? The verse moves from describing a crowd to naming a speaker: al-kafirun, the disbelievers. As-Sa'di narrows the group further: the disbelievers whose punishment has come upon them. The verse reports that group's sentence and no one else's, and the hardness it names is theirs to declare. In 74:10 the Qur'an draws the same line in its own words, 'ala l-kafirin, for the disbelievers, and this article goes no further than that line.",
+            "bn": "কথাটা কে বলে? আয়াত ভিড়ের বর্ণনা থেকে সরে এসে বক্তার নাম বলে: আল-কাফিরূন, কাফিররা। সা'দী দলটিকে আরও নির্দিষ্ট করেন: সেই কাফিররা, যাদের শাস্তি এসে হাজির হয়েছে। আয়াত শুধু এই দলের কথাই জানায়, আর কারও নয়। যে কাঠিন্যের কথা বলা হচ্ছে, তা ঘোষণা করছে তারাই। ৭৪:১০ আয়াতে কুরআন নিজের ভাষায় একই সীমা টেনেছে, আলাল কাফিরীন, কাফিরদের জন্য। এই লেখা সেই সীমার বাইরে যাচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Passing Magic to Hardship",
+          "bn": "চলমান জাদু থেকে কঠিন দিন"
+        },
+        "p": [
+          {
+            "en": "The passage gives the deniers two sentences. In 54:2, faced with a sign, they say sihrun mustamirr, passing magic. In 54:8 they say hadha yawmun 'asir, this is a hard day. The first sentence explained the sign away. The second admits what stands in front of them, and nothing in it is argued or denied. The verse lets the change of speech stand without comment, and a reader can hardly miss how late the honest sentence comes.",
+            "bn": "এই অংশে অস্বীকারকারীদের মুখে দুটি কথা আছে। ৫৪:২ আয়াতে নিদর্শন দেখে তারা বলে সিহরুম মুসতামির, চলমান জাদু। আর ৫৪:৮ আয়াতে বলে হাযা ইয়াওমুন আসির, এ তো কঠিন দিন। প্রথম কথায় তারা নিদর্শনকে উড়িয়ে দিয়েছিল। দ্বিতীয় কথায় চোখের সামনে যা আছে তা মেনে নেয়, এতে কোনো তর্ক নেই, কোনো অস্বীকারও নেই। কথার এই বদলের উপর আয়াত কোনো মন্তব্য করে না। তবু পাঠকের চোখ এড়ায় না, সত্য কথাটা কত দেরিতে এল।"
+          },
+          {
+            "en": "None of the eight tafsir texts read for this verse attaches a hadith to it, so no narration is quoted here, and none gives an occasion of revelation; the verse is read as the close of the sentence begun in 54:6. This also needs saying plainly. The verse describes what it describes: a scene on the Day of Resurrection, a crowd hastening to the caller, and words given to the disbelievers. It licenses nothing against any living person or community, and gives no reader the right to point at a neighbour and assign him that sentence or a place in that crowd.",
+            "bn": "এ আয়াতের জন্য পড়া আটটি তাফসীরের কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো বর্ণনা উদ্ধৃত হলো না। কোনোটিতে নাযিলের প্রেক্ষাপটও নেই। আয়াতটিকে পড়া হয় ৫৪:৬ আয়াতে শুরু হওয়া বাক্যের সমাপ্তি হিসেবে। আরেকটি কথা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: কিয়ামতের দিনের একটি দৃশ্য, আহ্বানকারীর দিকে ছুটে চলা এক ভিড়, আর কাফিরদের মুখে দেওয়া একটি কথা। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো প্রতিবেশীর দিকে আঙুল তুলে তার মুখে ওই কথা বসানোর বা তাকে ওই ভিড়ে দাঁড় করানোর অধিকারও কোনো পাঠককে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ears Opened Before the Call",
+          "bn": "ডাকের আগেই খোলা কান"
+        },
+        "p": [
+          {
+            "en": "'Ikrima's gloss stays with the reader: opening their ears to the sound. On that Day attention is total and given without being asked for. The necks are stretched, the eyes fixed, the ears turned and the feet hurrying, as the glosses gather them, and Ibn Kathir says they neither go against the caller nor lag behind. The same faculties are in use now, at a recitation, a reminder or a call to prayer. Now, though, they can be turned away, and often are.",
+            "bn": "ইকরিমার ব্যাখ্যাটা পাঠকের মনে থেকে যায়: তারা আওয়াজের দিকে কান খুলে রাখে। সেদিন মনোযোগ হবে পুরোপুরি, কেউ চাওয়ার আগেই। ব্যাখ্যাগুলো মিলিয়ে দেখলে ঘাড় লম্বা, চোখ স্থির, কান ফেরানো, পা ছুটন্ত। আর ইবন কাসীর বলেন, তারা আহ্বানকারীর বিরুদ্ধে যায় না, পিছিয়েও থাকে না। এই একই চোখ-কান আজও কাজ করছে, তিলাওয়াতের সময়, নসিহতের সময়, আজানের সময়। তফাত এটুকুই, আজ এগুলোকে অন্য দিকে ফিরিয়ে রাখা যায়। আর প্রায়ই ফিরিয়ে রাখা হয়।"
+          },
+          {
+            "en": "The verse offers a plain test, not a verdict on anyone else. What do I give my full attention to in a day, neck stretched and eyes fixed? When the Qur'an is recited, how much of me turns towards it? The people who said passing magic found their honest sentence only when it could change nothing. A reader still has time to let the honest sentence come early, and to hurry now, by choice, towards a call that everyone will one day answer.",
+            "bn": "আয়াতটি অন্য কারও উপর রায় দেয় না, আমার সামনে একটি সহজ পরীক্ষা রাখে। দিনের কোন জিনিসে আমি ঘাড় বাড়িয়ে, চোখ স্থির করে পুরো মনোযোগ দিই? কুরআন তিলাওয়াত হলে আমার কতটুকু সেদিকে ফেরে? যারা চলমান জাদু বলেছিল, তারা সত্য কথাটা খুঁজে পেয়েছে তখন, যখন তাতে আর কিছুই বদলায় না। পাঠকের হাতে এখনো সময় আছে। সত্য কথাটা আগেভাগে বলে ফেলার সময়, আর নিজের ইচ্ছায় এখনই সেই ডাকের দিকে ছুটে যাওয়ার সময়, যে ডাকে একদিন সবাইকেই সাড়া দিতে হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "54:17": {
     "sections": [
       {
