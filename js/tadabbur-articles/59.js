@@ -311,6 +311,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "59:14": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Promise Runs Out",
+          "bn": "যেখানে প্রতিশ্রুতি ফুরোয়"
+        },
+        "p": [
+          {
+            "en": "Al-Hashr spends 59:11 to 59:17 on a promise that failed. In 59:11 the hypocrites tell their brothers who disbelieved among the People of the Scripture: if you are expelled we will leave with you, and if you are fought we will help you; and Allah testifies that they are liars. Ibn Kathir names the senders as Abdullah ibn Ubayy and his like, and the people promised as the Banu an-Nadir. 59:12 says the help will never come, and 59:13 that the believers are more feared in their breasts than Allah.",
+            "bn": "সূরা হাশরের ৫৯:১১ থেকে ৫৯:১৭ পর্যন্ত আয়াতগুলো এক ভেঙে যাওয়া প্রতিশ্রুতির কথা বলে। ৫৯:১১ আয়াতে মুনাফিকরা আহলে কিতাবের কাফির ভাইদের বলে: তোমাদের বের করে দিলে আমরাও তোমাদের সঙ্গে বেরিয়ে যাব, তোমাদের সঙ্গে যুদ্ধ হলে আমরা তোমাদের সাহায্য করব। আর আল্লাহ সাক্ষ্য দেন, তারা মিথ্যাবাদী। ইবন কাসীর জানান, কথাটা পাঠিয়েছিল আবদুল্লাহ ইবন উবাই ও তার মতো লোকেরা, আর যাদের কাছে পাঠিয়েছিল তারা বনু নাযীর। ৫৯:১২ বলে, সে সাহায্য কখনো আসবে না। ৫৯:১৩ বলে, তাদের অন্তরে আল্লাহর চেয়ে মুমিনদের ভয়ই বেশি।"
+          },
+          {
+            "en": "59:14 follows the same people one step further. Ibn Kathir reads 59:12 and 59:13 as good news for the believers, and this verse continues in that key: it tells them how these opponents fight, how they stand with one another, and why. The siege itself, the fortresses that were trusted and the terror that came through the hearts, belongs to 59:2 and is not retold here. This verse turns to something quieter than the walls: what the walls were hiding.",
+            "bn": "৫৯:১৪ একই লোকদের পিছু নিয়ে আরও এক ধাপ এগোয়। ইবন কাসীর ৫৯:১২ আর ৫৯:১৩-কে মুমিনদের জন্য সুসংবাদ হিসেবে পড়েন, আর এ আয়াতও সেই সুরেই চলে। তা মুমিনদের জানিয়ে দেয়, এই প্রতিপক্ষ কীভাবে লড়ে, নিজেদের মধ্যে তাদের সম্পর্ক কেমন, আর কেন। অবরোধের ঘটনা, ভরসার দুর্গ আর অন্তর দিয়ে ঢুকে পড়া ভয়ের কথা ৫৯:২ আয়াতের বিষয়। এখানে তা আবার বলা হবে না। এ আয়াত তাকায় দেয়ালের চেয়ে নীরব একটা জিনিসের দিকে: দেয়ালগুলো কী লুকিয়ে রেখেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Commentators Name",
+          "bn": "মুফাসসিররা কাদের কথা বলেন"
+        },
+        "p": [
+          {
+            "en": "Who are they? For the opening clause at-Tabari is specific: these Jews of the Banu an-Nadir will not fight you gathered together except in towns fortified with forts. Al-Qurtubi and al-Baghawi gloss the subject simply as the Jews, and al-Muyassar does the same; Ibn Kathir carries on from the people of 59:11 to 59:13 without naming anyone new. The second half, you think them united, draws a wider set of answers, and on it the reports gathered by at-Tabari and al-Qurtubi do not agree.",
+            "bn": "এরা কারা? প্রথম অংশের বেলায় তাবারী নির্দিষ্ট করে বলেন: বনু নাযীরের এই ইহুদিরা সুরক্ষিত দুর্গঘেরা জনপদের ভেতর ছাড়া একজোট হয়ে তোমাদের সঙ্গে লড়বে না। কুরতুবী আর বাগাভী কর্তাকে শুধু ইহুদি বলে ব্যাখ্যা করেন, মুয়াসসারও তা-ই। ইবন কাসীর নতুন কারও নাম না নিয়ে ৫৯:১১ থেকে ৫৯:১৩ আয়াতের লোকদের কথাই চালিয়ে যান। দ্বিতীয় অংশ, তুমি তাদের ঐক্যবদ্ধ ভাবো, এর ব্যাপারে উত্তর অনেক বেশি ছড়ানো। তাবারী আর কুরতুবীর সংকলিত বর্ণনাগুলো এখানে একমত নয়।"
+          },
+          {
+            "en": "Mujahid is reported three ways in at-Tabari. Through Ibn Abi Najih he says the hypocrites' religion differs from that of the Nadir; through Layth, they are the hypocrites and the People of the Book; through Khusayf, the idolaters and the People of the Book. Al-Qurtubi also has him saying simply the hypocrites. Sufyan ath-Thawri, in al-Qurtubi, says the idolaters and the People of the Book; Ibrahim an-Nakha'i, in Ibn Kathir, says the People of the Book and the hypocrites. At-Tabari himself takes it as the hypocrites and the People of the Book.",
+            "bn": "তাবারী মুজাহিদের তিনটি বর্ণনা আনেন। ইবন আবী নাজীহের সূত্রে মুজাহিদ বলেন, মুনাফিকদের দীন নাযীরের দীন থেকে আলাদা। লাইসের সূত্রে বলেন, এরা মুনাফিক আর আহলে কিতাব। খুসাইফের সূত্রে বলেন, মুশরিক আর আহলে কিতাব। কুরতুবীর বর্ণনায় মুজাহিদের আরেকটি কথা আছে: শুধু মুনাফিকরা। কুরতুবীর বর্ণনায় সুফিয়ান সাওরী বলেন, মুশরিক আর আহলে কিতাব। ইবন কাসীরের বর্ণনায় ইবরাহীম নাখঈ বলেন, আহলে কিতাব আর মুনাফিক। তাবারী নিজে এটাকে মুনাফিক আর আহলে কিতাব অর্থে নেন।"
+          },
+          {
+            "en": "Every answer above names a group in one moment in Madinah: the Banu an-Nadir, the hypocrites around them, the idolaters of that day. The verse describes what it describes. It licenses nothing against Jews, against the People of the Scripture today, or against any living person or community, and it is no warrant for talk of war against anyone. Al-Qurtubi, after Mujahid's report, gives the purpose of the description: to strengthen the believers' hearts against them in that hour. It steadied a besieged moment; it does not brand a people.",
+            "bn": "উপরের প্রতিটি উত্তরই মদীনার একটি নির্দিষ্ট সময়ের কোনো দলের নাম নেয়: বনু নাযীর, তাদের আশপাশের মুনাফিক, সে সময়ের মুশরিক। আয়াতটি যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। ইহুদিদের বিরুদ্ধে, আজকের আহলে কিতাবের বিরুদ্ধে, কিংবা কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কারও বিরুদ্ধে যুদ্ধের বুলি আওড়ানোর সনদও এটা নয়। মুজাহিদের বর্ণনার পর কুরতুবী বর্ণনাটির উদ্দেশ্য বলেন: সেই মুহূর্তে তাদের মোকাবিলায় মুমিনদের মন শক্ত করা। আয়াতটি একটা অবরুদ্ধ মুহূর্তে সাহস জুগিয়েছিল, কোনো জাতির গায়ে ছাপ মেরে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only From Behind Cover",
+          "bn": "শুধু আড়াল থেকে লড়াই"
+        },
+        "p": [
+          {
+            "en": "La yuqatilunakum jami'an: they will not fight you all together. As-Sa'di reads jami'an as a state, when gathered as one body. Illa fi quran muhassanah, except in fortified towns: at-Tabari says towns fortified with forts, where they do not come out to meet you in the open; al-Muyassar names the fortifications as walls and trenches; al-Qurtubi says walls and houses, which they supposed would keep you from them. Aw min wara'i judur, or from behind walls: at-Tabari glosses from behind fences, al-Qurtubi walls they screen themselves behind.",
+            "bn": "লা ইউকাতিলূনাকুম জামীআন: তারা সবাই মিলে তোমাদের সঙ্গে লড়বে না। সা'দী জামীআন শব্দকে অবস্থা হিসেবে পড়েন: যখন তারা একটি দেহের মতো একজোট হয়ে থাকে। ইল্লা ফী কুরান মুহাসসানাহ, সুরক্ষিত জনপদ ছাড়া। তাবারী বলেন, দুর্গঘেরা জনপদ, যেখান থেকে তারা খোলা ময়দানে তোমাদের সামনে আসে না। মুয়াসসার সুরক্ষার উপকরণের নাম বলে দেয়: প্রাচীর আর পরিখা। কুরতুবী বলেন, প্রাচীর আর ঘরবাড়ি, যা তাদের ধারণায় তোমাদের ঠেকিয়ে রাখবে। আও মিন ওয়ারাই জুদুর, অথবা দেয়ালের পেছন থেকে। তাবারীর ব্যাখ্যায় বেড়ার আড়াল থেকে, কুরতুবীর ব্যাখ্যায় যে দেয়ালের পেছনে তারা নিজেদের লুকিয়ে রাখে।"
+          },
+          {
+            "en": "Why only from behind cover? Ibn Kathir and al-Muyassar speak of cowardice and fear. Ibn Kathir says they cannot face the army of Islam in open combat, and fight only when besieged in forts or behind walls, out of necessity, to defend themselves. As-Sa'di frames it as a contrast: if any resistance comes from them, it comes from relying on their forts and walls, not from courage in themselves, and he calls this among the gravest of reproaches.",
+            "bn": "কেন শুধু আড়াল থেকে? ইবন কাসীর আর মুয়াসসার কাপুরুষতা আর ভয়ের কথা বলেন। ইবন কাসীরের ব্যাখ্যায়, খোলা লড়াইয়ে ইসলামের বাহিনীর মুখোমুখি হওয়ার সামর্থ্য তাদের নেই। তারা লড়ে কেবল দুর্গে বা দেয়ালের পেছনে অবরুদ্ধ হলে, নিরুপায় হয়ে, আত্মরক্ষার জন্য। সা'দী বিষয়টা দেখান একটা তুলনা দিয়ে। তাদের দিক থেকে কোনো প্রতিরোধ এলে তা আসে দুর্গ আর দেয়ালের উপর ভরসা থেকে, নিজেদের সাহস থেকে নয়। এটাকে তিনি সবচেয়ে কঠিন নিন্দাগুলোর একটি বলেন।"
+          },
+          {
+            "en": "The last word has two readings. At-Tabari reports that most reciters of Kufa and Madinah read judur, walls, and some of Makkah and Basra read jidar, a single wall; both, he says, are known readings sound in meaning. Al-Baghawi names the reciters Ibn Kathir (not the commentator) and Abu Amr for jidar, and al-Qurtubi adds Ibn Abbas, Mujahid and Ibn Muhaysin, noting that Abu Ubayda and Abu Hatim chose the plural to match qura, towns.",
+            "bn": "শেষ শব্দটির দুটি কিরাআত আছে। তাবারী জানান, কূফা আর মদীনার অধিকাংশ কারী পড়েছেন জুদুর, বহুবচনে, অর্থ দেয়ালগুলো। মক্কা আর বসরার কিছু কারী পড়েছেন জিদার, একবচনে, অর্থ একটি দেয়াল। তাঁর মতে দুটোই পরিচিত কিরাআত, অর্থও দুটোরই সঠিক। বাগাভী জিদারের কারী হিসেবে ইবন কাসীর আর আবু আমরের নাম বলেন। এই ইবন কাসীর কারী, তাফসীরকার ইবন কাসীর নন। কুরতুবী তাঁদের সঙ্গে যোগ করেন ইবন আব্বাস (রাঃ), মুজাহিদ আর ইবন মুহাইসিনকে। তিনি আরও জানান, আবু উবাইদা আর আবু হাতিম বহুবচন বেছে নিয়েছিলেন, যাতে তা কুরা, জনপদগুলো, শব্দের সঙ্গে মেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fierce Toward One Another",
+          "bn": "একে অপরের প্রতি কঠোর"
+        },
+        "p": [
+          {
+            "en": "Ba'suhum baynahum shadid: their ba's among themselves is severe. Most of the commentators read ba's here as hostility. Ibn Kathir: the enmity they bear one another is intense, and he sets beside it 6:65, where Allah is able to make you taste the violence of one another. At-Tabari: the enmity of some of these disbelievers among the Jews towards others is severe. Al-Qurtubi opens with the same gloss, the enmity of some of them for others, and al-Baghawi says some are harsh towards others and their mutual enmity is severe.",
+            "bn": "বা'সুহুম বাইনাহুম শাদীদ: নিজেদের মধ্যে তাদের বা'স ভীষণ। অধিকাংশ মুফাসসির এখানে বা'স মানে শত্রুতা ধরেছেন। ইবন কাসীর বলেন, পরস্পরের প্রতি তাদের শত্রুতা তীব্র। পাশে তিনি রাখেন ৬:৬৫ আয়াত, যেখানে আল্লাহ বলেন তিনি তোমাদের একদলকে আরেক দলের আঘাতের স্বাদ চাখাতে সক্ষম। তাবারী বলেন, ইহুদিদের মধ্যকার এই কাফিরদের একের প্রতি অন্যের শত্রুতা প্রবল। কুরতুবীও শুরু করেন একই ব্যাখ্যায়: একের প্রতি অন্যের শত্রুতা। বাগাভী বলেন, তাদের কেউ কেউ অন্যদের প্রতি রূঢ়, আর পরস্পরের শত্রুতা ভীষণ।"
+          },
+          {
+            "en": "Al-Qurtubi then records other readings. Mujahid places the severity in speech and threat: we will surely do this and that. As-Suddi says it means the divergence of their hearts, so that they cannot agree on one matter. A view he introduces with it is said turns the phrase around: among themselves, with no enemy in front of them, they lay claim to strength and might, but when they meet the enemy they are routed.",
+            "bn": "এরপর কুরতুবী আরও কয়েকটি ব্যাখ্যা আনেন। মুজাহিদের মতে কঠোরতাটা কথায় আর হুমকিতে: আমরা অবশ্যই এই করব, সেই করব। সুদ্দী বলেন, এর অর্থ তাদের মনের অমিল, যার ফলে কোনো একটি বিষয়ে তারা একমত হতে পারে না। 'বলা হয়' দিয়ে কুরতুবী আরেকটি মত আনেন, যা কথাটাকে উল্টো দিক থেকে দেখে। সামনে শত্রু না থাকলে নিজেদের মধ্যে তারা শক্তি আর বীরত্বের দাবি করে, কিন্তু শত্রুর মুখোমুখি হলেই পালায়।"
+          },
+          {
+            "en": "As-Sa'di reads the phrase another way again. Their might among themselves is severe, he says: there is no defect in their bodies or in their strength. The defect lies in the weakness of their faith and the absence of one shared word. In his reading the verse does not call them weak; it locates the weakness somewhere other than the arm. And he joins the phrase to what follows it: it is for this reason, he says, that Allah continued, you think them united.",
+            "bn": "সা'দী কথাটাকে আবার অন্যভাবে পড়েন। তিনি বলেন, নিজেদের মধ্যে তাদের শক্তি প্রবল। শরীরে বা জোরে তাদের কোনো খুঁত নেই। খুঁতটা হলো ঈমানের দুর্বলতায়, আর একটি অভিন্ন কথায় একমত না হওয়ায়। তাঁর পড়ায় আয়াত তাদের দুর্বল বলছে না। দুর্বলতাটা খুঁজে পাচ্ছে বাহুর জোরের বাইরে অন্য জায়গায়। পরের অংশের সঙ্গেও তিনি একে জুড়ে দেন। তাঁর ভাষায়, এ কারণেই আল্লাহ এরপর বলেছেন, তুমি তাদের ঐক্যবদ্ধ ভাবো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Assembled, Yet Scattered",
+          "bn": "একত্র, তবু ছত্রভঙ্গ"
+        },
+        "p": [
+          {
+            "en": "Tahsabuhum jami'an wa qulubuhum shatta: you think them united, while their hearts are scattered. At-Tabari glosses: you suppose them in harmony, their word gathered, while their hearts differ because of their enmity for each other. Ibn Kathir: you see them assembled and reckon them in accord, while they differ to the utmost degree. As-Sa'di: when you see them gathered and backing each other; but their hearts are full of mutual hatred, divided and dispersed. Al-Baghawi gives two words for shatta: separated and differing.",
+            "bn": "তাহসাবুহুম জামীআন ওয়া কুলূবুহুম শাত্তা: তুমি তাদের ঐক্যবদ্ধ ভাবো, অথচ তাদের অন্তর বিক্ষিপ্ত। তাবারীর ব্যাখ্যা: তুমি ধারণা করো তারা মিলেমিশে আছে, তাদের কথা এক। অথচ পরস্পরের প্রতি শত্রুতার কারণে তাদের মন ভিন্ন ভিন্ন। ইবন কাসীর বলেন, তুমি তাদের একত্র দেখো আর মনে করো তাদের মধ্যে মিল আছে, অথচ তাদের মতভেদ চরমে। সা'দী বলেন, তুমি যখন তাদের একজোট হয়ে একে অপরের পক্ষ নিতে দেখো। কিন্তু তাদের অন্তর পরস্পরের প্রতি বিদ্বেষে ভরা, ছিন্নভিন্ন আর বিচ্ছিন্ন। শাত্তা শব্দের জন্য বাগাভী দুটি শব্দ দেন: বিচ্ছিন্ন আর ভিন্নমুখী।"
+          },
+          {
+            "en": "The verb is worth weighing. At-Tabari renders tahsabuhum as tazunnuhum, you suppose them: a judgement drawn from what shows. The verse does not deny what showed. They were assembled, and as-Sa'di says they were seen backing each other. What it denies is that the picture reached the hearts. At-Tabari and al-Qurtubi also report that in the reading of Abdullah ibn Mas'ud (RA) the word was ashattu, which both explain as more severely scattered, that is, more greatly at odds.",
+            "bn": "ক্রিয়াটা একটু ভেবে দেখার মতো। তাবারী তাহসাবুহুম-এর ব্যাখ্যা করেন তাজুন্নুহুম দিয়ে, অর্থাৎ তুমি তাদের ধারণা করো। যা চোখে পড়ে, তা থেকে টানা অনুমান। চোখে যা পড়ছিল, আয়াত তা অস্বীকার করে না। তারা একত্র ছিল। সা'দী বলেন, তাদের একে অপরের পাশে দাঁড়াতেও দেখা যেত। আয়াত অস্বীকার করে শুধু এটুকু যে, সেই ছবি অন্তর পর্যন্ত পৌঁছেছিল। তাবারী আর কুরতুবী আরও জানান, আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর কিরাআতে শব্দটি ছিল আশাত্তু। দুজনেই এর অর্থ করেন আরও বেশি বিক্ষিপ্ত, অর্থাৎ মতভেদে আরও গভীর।"
+          },
+          {
+            "en": "Al-Qurtubi gives Qatada's gloss: you think them gathered on one matter and one opinion, while their hearts are dispersed. Then he quotes a line of poetry to show the word at work: to Allah I complain of an intent that split the staff; today it is scattered, though yesterday it was gathered. The poet uses the verse's own pair, shatta and jami', as the before and after of a single group.",
+            "bn": "কুরতুবী কাতাদার ব্যাখ্যা আনেন: তুমি ভাবো তারা একই বিষয়ে, একই মতে একত্র, অথচ তাদের অন্তর বিচ্ছিন্ন। তারপর শব্দটা কীভাবে কাজ করে দেখাতে তিনি একটি কবিতার চরণ উদ্ধৃত করেন: আল্লাহর কাছে নালিশ জানাই এমন এক সংকল্পের, যা লাঠি ফাটিয়ে দিয়েছে; আজ তা ছত্রভঙ্গ, অথচ গতকালও ছিল একত্র। কবি আয়াতেরই জোড়া শব্দ, শাত্তা আর জামী', ব্যবহার করেছেন একই দলের আগের আর পরের অবস্থা বোঝাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Agreed Only in Opposition",
+          "bn": "শুধু বিরোধিতায় একমত"
+        },
+        "p": [
+          {
+            "en": "Qatada widens the lens. His words reach us through at-Tabari, al-Qurtubi and al-Baghawi in nearly the same form: you find the people of falsehood with differing testimonies, differing desires and differing deeds, yet gathered together in enmity towards the people of truth. Al-Qurtubi's version has differing opinions where the others have deeds. The remark is about what holds such a coalition together. It is not a shared conviction, since each party testifies to something different and wants something different. It is a shared opponent.",
+            "bn": "কাতাদা দৃষ্টিটা আরও প্রশস্ত করেন। তাঁর কথা তাবারী, কুরতুবী আর বাগাভীতে প্রায় একই রূপে এসেছে: বাতিলপন্থীদের দেখবে, তাদের সাক্ষ্য ভিন্ন, প্রবৃত্তি ভিন্ন, আমল ভিন্ন। অথচ হকপন্থীদের সঙ্গে শত্রুতায় তারা সবাই এক। কুরতুবীর বর্ণনায় আমলের জায়গায় আছে মত। কথাটা এমন জোট কীসে টিকে থাকে, তা নিয়ে। সেটা কোনো অভিন্ন বিশ্বাস নয়, কারণ প্রত্যেক পক্ষের সাক্ষ্য আলাদা, চাওয়াও আলাদা। সেটা একজন অভিন্ন প্রতিপক্ষ।"
+          },
+          {
+            "en": "Mujahid's first report in at-Tabari puts the same point concretely: the hypocrites' religion differed from the religion of the Nadir. Two parties with different beliefs and different hopes had joined over the one thing they both opposed. The promise of 59:11, we will leave with you, was made inside such an alliance. A reader may reflect that a bond formed only against something has little to hold it once the cost of keeping it arrives. The remark names a pattern to test oneself against, not a list of anyone living.",
+            "bn": "তাবারীতে মুজাহিদের প্রথম বর্ণনা একই কথা আরও স্পষ্ট করে বলে: মুনাফিকদের দীন ছিল নাযীরের দীন থেকে আলাদা। ভিন্ন বিশ্বাস আর ভিন্ন আশার দুই পক্ষ জোট বেঁধেছিল কেবল এমন এক জিনিসকে ঘিরে, যার বিরোধিতা দুজনেই করত। ৫৯:১১ আয়াতের প্রতিশ্রুতি, আমরাও তোমাদের সঙ্গে বেরিয়ে যাব, দেওয়া হয়েছিল এমনই এক জোটের ভেতরে। পাঠক ভেবে দেখতে পারেন, শুধু কোনো কিছুর বিরুদ্ধে গড়া বন্ধন টিকিয়ে রাখার দাম যখন দিতে হয়, তখন তাকে ধরে রাখার মতো কিছু আর থাকে না। কথাটা নিজেকে যাচাই করার একটা ধরন দেখায়, আজকের কারও নামের তালিকা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Reason Would Have Joined",
+          "bn": "বুদ্ধি থাকলে যা জুড়ত"
+        },
+        "p": [
+          {
+            "en": "Dhalika bi-annahum qawmun la ya'qilun: that is because they are a people who do not reason. At-Tabari takes that to cover everything described, the scattering of their desires and their enmity for each other, and says it is because they do not grasp what holds their good fortune and what brings them loss and shortfall. Al-Qurtubi: that scattering and disbelief comes from having no reason with which to understand the command of Allah. Al-Muyassar: they do not understand the command of Allah, nor ponder His signs.",
+            "bn": "যালিকা বিআন্নাহুম কাওমুল লা ইয়া'কিলূন: এর কারণ, তারা এমন এক সম্প্রদায় যারা বুদ্ধি খাটায় না। তাবারীর মতে 'এর' বলতে বোঝানো হয়েছে উপরের সব কথা: তাদের প্রবৃত্তির বিক্ষিপ্ততা আর একের প্রতি অন্যের শত্রুতা। কারণটা, কিসে তাদের কল্যাণ আর কিসে ক্ষতি ও ঘাটতি, তা তারা বোঝে না। কুরতুবী বলেন, এই বিক্ষিপ্ততা আর কুফরের মূলে আছে এমন বুদ্ধির অভাব, যা দিয়ে তারা আল্লাহর আদেশ বুঝতে পারত। মুয়াসসার বলে, তারা আল্লাহর আদেশ বোঝে না, তাঁর আয়াত নিয়ে চিন্তাও করে না।"
+          },
+          {
+            "en": "As-Sa'di draws the clearest line from reason to unity. Had they had minds, he says, they would have preferred the better to the lesser, and would not have settled for the meaner of two courses; their word would have been one and their hearts joined, and so they would have helped and supported each other and cooperated on their interests in religion and in the world. On his reading, division is not a misfortune that simply befell them. It is what follows when reason is left unused.",
+            "bn": "বুদ্ধি থেকে ঐক্য পর্যন্ত রেখাটা সবচেয়ে স্পষ্ট করে টানেন সা'দী। তিনি বলেন, তাদের বুদ্ধি থাকলে তারা কম ভালোর উপর বেশি ভালোকে বেছে নিত। দুই পথের মধ্যে হীনতরটায় নিজেদের জন্য রাজি হতো না। তাদের কথা একই হতো, অন্তর জোড়া লাগত। তখন তারা একে অপরকে সাহায্য করত, পাশে দাঁড়াত, দীন আর দুনিয়ার স্বার্থে একসঙ্গে কাজ করত। তাঁর পড়ায় বিভেদ এমন কোনো দুর্ভাগ্য নয় যা হঠাৎ তাদের উপর এসে পড়েছিল। বুদ্ধিকে কাজে না লাগালে এটাই হয় তার ফল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seen, Not Supposed",
+          "bn": "অনুমান নয়, দেখা"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to it. A general narration, not tied to this verse, sets the opposite picture beside it. Al-Bukhari records in his Sahih (6011) from an-Nu'man ibn Bashir (RA) that the Messenger of Allah ﷺ said: You see the believers, in their mercy to one another, their love for one another and their kindness to one another, like the body: when one limb complains, the rest of the body calls out to it with sleeplessness and fever.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে সম্পর্কিত নয়, উল্টো ছবিটা পাশে এনে রাখে। বুখারী তাঁর সহীহ গ্রন্থে (৬০১১) নু'মান ইবন বাশীর (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: তুমি মুমিনদের দেখবে, পরস্পরের প্রতি দয়ায়, পরস্পরের প্রতি ভালোবাসায় আর পরস্পরের প্রতি মমতায় তারা একটি দেহের মতো। দেহের একটি অঙ্গ কষ্ট পেলে গোটা দেহ নির্ঘুম রাত আর জ্বর নিয়ে তার ডাকে সাড়া দেয়।"
+          },
+          {
+            "en": "The narration opens with tara, you see, where the verse says tahsabuhum, you suppose them; the contrast is a reader's observation, not a commentator's. In the verse the eye is misled by an outward gathering. In the narration the gathering is proved by what one limb's pain does to the rest. And the Qur'an names who joins hearts. In 8:63: had you spent all that is in the earth, you could not have brought their hearts together, but Allah brought them together.",
+            "bn": "বর্ণনাটি শুরু হয় তারা দিয়ে, অর্থাৎ তুমি দেখবে। আয়াতে আছে তাহসাবুহুম, তুমি তাদের ধারণা করো। এই তুলনা একজন পাঠকের লক্ষ করা বিষয়, কোনো মুফাসসিরের কথা নয়। আয়াতে চোখ ভুল করে বাইরের জমায়েত দেখে। হাদীসে জমায়েতের প্রমাণ মেলে একটি অঙ্গের ব্যথা বাকি দেহকে কী করে, তা দিয়ে। আর অন্তর কে জোড়া লাগান, কুরআন তা জানিয়ে দেয়। ৮:৬৩ আয়াতে আছে: দুনিয়ায় যা কিছু আছে সব খরচ করলেও তুমি তাদের অন্তর জুড়তে পারতে না, কিন্তু আল্লাহ তা জুড়ে দিয়েছেন।"
+          },
+          {
+            "en": "So the verse closes no door on anyone and opens one on the reader. It describes the Banu an-Nadir and the hypocrites of Madinah as the commentators identify them, and licenses nothing against any people living now. What the commentators draw from it, that outward unity can hide divided hearts, is the reader's to apply at home: in a family, a masjid committee, a circle of friends. Ask which grievance is being kept behind a polite face, and mend one this week before it hardens.",
+            "bn": "তাই আয়াতটি কারও জন্য দরজা বন্ধ করে না, বরং পাঠকের নিজের দিকে একটা দরজা খুলে দেয়। মুফাসসিরদের চিহ্নিত বনু নাযীর আর মদীনার মুনাফিকদের কথাই এখানে বলা হয়েছে। আজ বেঁচে থাকা কোনো জাতির বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। মুফাসসিররা এ থেকে যে শিক্ষা টানেন, বাইরের ঐক্যের আড়ালে বিভক্ত অন্তর লুকিয়ে থাকতে পারে, তা খাটানোর জায়গা পাঠকের নিজের ঘর: পরিবার, মসজিদ কমিটি, বন্ধুদের মহল। খুঁজে দেখুন, কোন ক্ষোভ ভদ্র মুখের আড়ালে জমা আছে। শক্ত হয়ে যাওয়ার আগে এ সপ্তাহেই অন্তত একটা মিটিয়ে নিন।"
+          }
+        ]
+      }
+    ]
+  },
   "59:18-19": {
     "sections": [
       {

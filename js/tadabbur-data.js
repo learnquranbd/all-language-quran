@@ -28189,6 +28189,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Build your light now through faith and good deeds, generous giving above all, because on that Day it is measured by what you did and cannot be borrowed from anyone.",
     "lessonBn": "ঈমান আর নেক আমল দিয়ে, বিশেষ করে উদার হাতে দান করে, এখনই নিজের আলো গড়ে তুলুন। কারণ সেদিন সে আলো মাপা হবে আপনার আমল দিয়ে, আর কারও কাছ থেকে তা ধার পাওয়া যাবে না।"
+  },
+  "59:14": {
+    "reflectionEn": "From outside they looked like one body: allies who had sworn to stand together, with high walls around them. The verse looks past the walls. They will not face you in the open, it says, only from fortified towns or from behind walls; the hostility among them is severe; you think them united, but their hearts are scattered. And it names the cause: they are a people who do not reason. It describes one besieged group and its allies at one moment, and gives no one a label to fix on any people today. What it hands the reader is a question. A crowd can stand shoulder to shoulder and be split inside. What holds my own circle together: a shared love of the truth, or only a shared opponent?",
+    "reflectionBn": "বাইরে থেকে তাদের দেখাত এক দেহের মতো। একসঙ্গে দাঁড়ানোর কসম খাওয়া মিত্র, চারপাশে উঁচু দেয়াল। আয়াতটি দেয়ালের ওপারে তাকায়। তারা খোলা ময়দানে মুখোমুখি হবে না, লড়বে কেবল সুরক্ষিত জনপদ থেকে বা দেয়ালের আড়াল থেকে। নিজেদের মধ্যে তাদের শত্রুতা ভীষণ। তুমি তাদের ঐক্যবদ্ধ ভাবো, অথচ তাদের অন্তর ছড়ানো-ছিটানো। কারণটাও আয়াত বলে দেয়: তারা বুদ্ধি খাটায় না। এখানে বর্ণনা একটি অবরুদ্ধ দল আর তার মিত্রদের, একটি নির্দিষ্ট সময়ের। আজকের কোনো জাতির গায়ে সাঁটার মতো কোনো তকমা এ আয়াত কাউকে দেয় না। পাঠকের হাতে সে তুলে দেয় একটা প্রশ্ন। কাঁধে কাঁধ মিলিয়ে দাঁড়ানো ভিড়ও ভেতরে ভেতরে ভাঙা থাকতে পারে। আমার নিজের মহলকে কী বেঁধে রেখেছে? সত্যের প্রতি সবার ভালোবাসা, নাকি শুধু একজন অভিন্ন প্রতিপক্ষ?",
+    "pointsEn": [
+      "Which group I belong to looks united from outside, and what do I actually know of the hearts inside it?",
+      "Is what binds my circle together something we love, or only someone we oppose?",
+      "Where am I leaning on walls of my own, a position, numbers or a reputation, in place of the strength of my conviction?",
+      "Whose grievance with me have I left to harden behind a polite face, and what would it take to mend it this week?",
+      "Before I read this verse about anyone else, have I asked its question of my own community?"
+    ],
+    "pointsBn": [
+      "যে দলের আমি অংশ, বাইরে থেকে সেটা ঐক্যবদ্ধ দেখায়। কিন্তু তার ভেতরের মনগুলোর খবর আমি আসলে কতটুকু জানি?",
+      "আমাদের মহলকে যা বেঁধে রেখেছে, তা কি এমন কিছু যাকে আমরা ভালোবাসি, নাকি শুধু এমন কেউ যার আমরা বিরোধিতা করি?",
+      "কোথায় আমি নিজের বানানো দেয়ালে ভর দিয়ে আছি, পদ, লোকবল বা সুনামে, অথচ ভর দেওয়ার কথা ছিল নিজের ঈমানের জোরে?",
+      "কার মনের ক্ষোভ আমি ভদ্র চেহারার আড়ালে জমে শক্ত হতে দিয়েছি? এ সপ্তাহে সেটা মেটাতে আমাকে কী করতে হবে?",
+      "অন্য কারও উপর এ আয়াত খাটানোর আগে আমি কি তার প্রশ্নটা নিজের সমাজকে করেছি?"
+    ],
+    "lessonEn": "Look past outward unity to the hearts: mend the quiet resentments in your own circle, and let the truth, not a shared opponent, be what holds you together.",
+    "lessonBn": "বাইরের ঐক্য পেরিয়ে অন্তরের দিকে তাকান। নিজের মহলের চাপা ক্ষোভগুলো মিটিয়ে নিন, আর অভিন্ন প্রতিপক্ষ নয়, সত্যই যেন আপনাদের একসঙ্গে বেঁধে রাখে।"
   }
 };
 
