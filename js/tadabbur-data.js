@@ -24429,6 +24429,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Trust is earned before it is claimed. Live so that those who know you already believe your word, and carry what is entrusted to you without bending it.",
     "lessonBn": "বিশ্বস্ততা দাবি করার আগে অর্জন করতে হয়। এমনভাবে চলুন যাতে চেনা মানুষেরা আগে থেকেই আপনার কথায় ভরসা করে, আর যে আমানত আপনার হাতে আসে তা বিকৃত না করে পৌঁছে দিন।"
+  },
+  "26:76": {
+    "reflectionEn": "Ibrahim's people had answered him with their fathers. He answers by naming the fathers back: you, and your forefathers, the most ancient of them. He does not leave the dead outside the question, as though their age had earned them an exemption. What was worshipped long ago is weighed on the same scale as what is worshipped today. This is not contempt for those who came before; it is a refusal to let them stand in as proof. Most of us carry something whose only credential is how far back it goes. Can I honour my elders and still ask, of what they handed me, whether it rests on knowledge and guidance?",
+    "reflectionBn": "ইবরাহীম (আঃ)-এর সম্প্রদায় তাঁর প্রশ্নের জবাবে নিজেদের বাপ-দাদাকে সামনে এনেছিল। তিনিও জবাব দেন সেই বাপ-দাদার নাম ধরেই: তোমরা, আর তোমাদের পিতৃপুরুষেরা, একেবারে আদিকালের যারা। মৃতদের তিনি প্রশ্নের বাইরে রাখেন না, যেন বয়সের জোরে তারা ছাড় পেয়ে গেছে। বহুকাল আগে যার ইবাদত হতো, আর আজ যার ইবাদত হয়, দুটোই মাপা হয় একই পাল্লায়। আগের মানুষদের প্রতি এটা তাচ্ছিল্য নয়। তাদেরকে প্রমাণের জায়গায় বসাতে অস্বীকার করা মাত্র। আমাদের প্রায় সবার কাছে এমন কিছু আছে, যার একমাত্র সনদ হলো সেটা কত পুরনো। আমি কি মুরব্বিদের সম্মান করেও তাঁদের দিয়ে যাওয়া জিনিস সম্পর্কে জিজ্ঞেস করতে পারি, এর ভিত কি জ্ঞান আর হিদায়াত?",
+    "pointsEn": [
+      "What do I do or believe whose only defence, if I am honest, is that it has always been done this way?",
+      "When someone questions a practice I inherited, do I examine the practice, or rush to defend the people who handed it to me?",
+      "Can I love and honour my parents and elders while still weighing what they taught me against knowledge and guidance?",
+      "Have I ever boasted of my own forebears or sneered at someone else's, forgetting that both are the same fault?",
+      "What am I handing on to the people who will one day call me their forefather?"
+    ],
+    "pointsBn": [
+      "সত্যি বলতে, আমার কোন কাজ বা বিশ্বাসের পক্ষে একমাত্র যুক্তি এই যে, বরাবর এভাবেই হয়ে আসছে?",
+      "উত্তরাধিকারসূত্রে পাওয়া কোনো রীতি নিয়ে কেউ প্রশ্ন তুললে আমি কি রীতিটা যাচাই করি, নাকি যারা তা দিয়ে গেছেন তাঁদের পক্ষ নিতে ঝাঁপিয়ে পড়ি?",
+      "মা-বাবা আর মুরব্বিদের ভালোবেসে, সম্মান করেও কি আমি তাঁদের শেখানো কথা জ্ঞান আর হিদায়াতের মানদণ্ডে মেপে দেখতে পারি?",
+      "নিজের বংশ নিয়ে কখনো কি বড়াই করেছি, কিংবা অন্যের বংশ নিয়ে খোঁটা দিয়েছি, অথচ দুটো একই দোষ?",
+      "যারা একদিন আমাকে তাদের পূর্বপুরুষ বলে ডাকবে, তাদের হাতে আমি কী রেখে যাচ্ছি?"
+    ],
+    "lessonEn": "Honour those who came before you without making them your proof: ask whether what they handed you rests on knowledge and guidance, not only on how far back it goes.",
+    "lessonBn": "পূর্বসূরিদের সম্মান করুন, কিন্তু তাঁদের প্রমাণ বানাবেন না। তাঁদের দিয়ে যাওয়া জিনিস কত পুরনো, শুধু তা নয়; তার ভিত জ্ঞান আর হিদায়াত কি না, সেটাই জিজ্ঞেস করুন।"
   }
 };
 

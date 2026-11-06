@@ -2715,6 +2715,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:76": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words, a Whole Line",
+          "bn": "তিনটি শব্দে পুরো বংশধারা"
+        },
+        "p": [
+          {
+            "en": "The verse is three words long: antum wa-aba'ukum al-aqdamun, you and your forefathers, the most ancient. It has no verb of its own. It completes the question begun in 26:75: as-Sa'di quotes the two verses together as a single lemma, and Ibn Kathir explains them as a whole with 26:77. What the three words add is reach. The question about what is worshipped no longer stops at the people standing before Ibrahim (AS). It runs back through every generation behind them.",
+            "bn": "আয়াতটি মাত্র তিনটি শব্দের: আনতুম ওয়া আবাউকুমুল আকদামূন, তোমরা আর তোমাদের পিতৃপুরুষেরা, একেবারে আদিকালের যারা। এর নিজস্ব কোনো ক্রিয়া নেই। ২৬:৭৫ আয়াতে যে প্রশ্ন শুরু হয়েছিল, এটি তারই শেষাংশ। সা'দী দুটি আয়াতকে একসঙ্গে একটিমাত্র উদ্ধৃতি হিসেবে আনেন, আর ইবন কাসীর ২৬:৭৭ আয়াতসহ পুরোটা মিলিয়ে ব্যাখ্যা করেন। তিনটি শব্দ প্রশ্নটাকে দূরে ছড়িয়ে দেয়। কিসের ইবাদত হচ্ছে, এ প্রশ্ন আর ইবরাহীম (আঃ)-এর সামনে দাঁড়ানো মানুষগুলোতে থেমে থাকে না। তাদের পেছনের প্রতিটি প্রজন্ম পেরিয়ে তা পিছিয়ে যায়।"
+          },
+          {
+            "en": "Notice the order of the exchange. Pressed on whether their idols hear, help or harm, the people had fallen back on their fathers: we found our fathers doing thus (26:74). Ibrahim (AS) takes up their own word. Aba'ana, our fathers, returns as aba'ukum, your fathers, with an adjective fastened to it. The people had offered their ancestors as the reason the matter was closed. In three words he brings those ancestors into the matter, as people whose worship must also be looked at.",
+            "bn": "কথোপকথনের ক্রমটা খেয়াল করুন। মূর্তিগুলো শোনে কি না, উপকার বা ক্ষতি করে কি না, এ প্রশ্নের সামনে সম্প্রদায় আশ্রয় নিয়েছিল বাপ-দাদার কাছে: আমরা আমাদের পিতৃপুরুষদের এমনই করতে দেখেছি (২৬:৭৪)। ইবরাহীম (আঃ) তাদের মুখের শব্দটাই তুলে নেন। আবাআনা, আমাদের পিতৃপুরুষ, ফিরে আসে আবাউকুম হয়ে, তোমাদের পিতৃপুরুষ, সঙ্গে জুড়ে যায় একটি বিশেষণ। সম্প্রদায় পূর্বপুরুষদের সামনে এনেছিল এই বলে যে, ব্যাপারটার এখানেই মীমাংসা। তিনটি শব্দে তিনি সেই পূর্বপুরুষদেরই প্রশ্নের ভেতরে টেনে আনেন। তাদের ইবাদতও যাচাই করে দেখতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Furthest Back of Them",
+          "bn": "সবচেয়ে পেছনের যারা"
+        },
+        "p": [
+          {
+            "en": "What does al-aqdamun mean? At-Tabari answers in a single sentence. By al-aqdamin, he says, is meant the earliest of those Ibrahim was addressing: the first ones before them, who had followed the same worship of idols as the people he spoke to. Al-Qurtubi and al-Baghawi each gloss it with a single word, al-awwalun, the first ones. The Muyassar folds the sense into its paraphrase of the passage: you and your ancient forefathers who came before you.",
+            "bn": "আল-আকদামূন মানে কী? তাবারী জবাব দেন এক বাক্যে। তাঁর ভাষায়, আকদামীন বলতে বোঝানো হয়েছে ইবরাহীম যাদের সম্বোধন করছিলেন তাদের সবচেয়ে আগের লোকদের। তারা এদের আগের প্রথম প্রজন্ম, আর ইবরাহীম যাদের সঙ্গে কথা বলছিলেন, তারাও ছিল সেই একই মূর্তিপূজায়। কুরতুবী আর বাগাভী দুজনেই শব্দটার অর্থ দেন একটিমাত্র শব্দে: আল-আওয়ালূন, প্রথম যারা। মুয়াসসার অর্থটা গোটা অংশের সরল ভাষ্যের ভেতরেই বুনে দেয়: তোমরা আর তোমাদের আগে চলে যাওয়া আদিকালের পিতৃপুরুষেরা।"
+          },
+          {
+            "en": "The word is built on the pattern of comparison, aqdam, more ancient, here in the plural: not merely old, but older, the ones furthest back. The glosses keep that sense. Ibrahim (AS) does not say your fathers and stop, which could have meant only the generation just gone. He reaches for the first of the line, the furthest ancestors, whose worship the living were still repeating as their own.",
+            "bn": "শব্দটা তুলনাবাচক গঠনের, আকদাম মানে অধিকতর প্রাচীন, এখানে বহুবচনে। শুধু পুরনো নয়, আরও পুরনো, সবচেয়ে পেছনে যারা। তাফসীরকারদের ব্যাখ্যাও এই অর্থটা ধরে রাখে। ইবরাহীম (আঃ) কেবল 'তোমাদের পিতৃপুরুষ' বলে থেমে যাননি। তাতে হয়তো সদ্য বিদায় নেওয়া প্রজন্মটুকুই বোঝাত। তিনি হাত বাড়ান বংশধারার একেবারে গোড়ায়, সবচেয়ে দূরের পূর্বপুরুষদের দিকে। জীবিতরা তখনও তাদের ইবাদতকেই নিজেদের বলে আঁকড়ে ধরে আছে।"
+          },
+          {
+            "en": "At-Tabari's sentence does two things at once. It places these forefathers in time, before the generation Ibrahim (AS) addressed. And it places them in practice: they were upon the same worship of idols. On his reading, the forefathers are not a separate group with a separate religion. They are the earlier links of a single chain, the people from whom the present worshippers had received what they did, and so they belong inside the same question.",
+            "bn": "তাবারীর বাক্যটি একসঙ্গে দুটি কাজ করে। প্রথমত, পূর্বপুরুষদের সময়ের হিসাবে বসায়: ইবরাহীম (আঃ) যে প্রজন্মকে সম্বোধন করছিলেন, তাদের আগে। দ্বিতীয়ত, আমলের হিসাবে বসায়: তারাও ছিল সেই একই মূর্তিপূজায়। তাঁর ব্যাখ্যায় পূর্বপুরুষেরা আলাদা ধর্মের আলাদা কোনো দল নয়। তারা একই শিকলের আগের কড়া। বর্তমান পূজারিরা যা করছিল, তা পেয়েছিল তাদেরই কাছ থেকে। তাই তারাও পড়ে একই প্রশ্নের ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Awwalun Earlier in Ash-Shu'ara",
+          "bn": "শুআরায় আগেও আল-আওয়ালূন"
+        },
+        "p": [
+          {
+            "en": "The commentators' gloss, al-awwalun, is a word this surah has already used about fathers. Speaking to Pharaoh of the Lord of the worlds, Musa (AS) said: your Lord and the Lord of your first forefathers, aba'ikum al-awwalin (26:26). Ibrahim's al-aqdamun fills the same place in his sentence, an adjective resting on your fathers. In both scenes a prophet facing people who lean on their past names the earliest ancestors aloud instead of passing over them in silence.",
+            "bn": "তাফসীরকারেরা যে শব্দে অর্থ দিয়েছেন, সেই আল-আওয়ালূন এই সূরাতেই পিতৃপুরুষদের প্রসঙ্গে আগে এসেছে। ফেরাউনের সামনে বিশ্বজগতের রবের পরিচয় দিতে গিয়ে মূসা (আঃ) বলেছিলেন: তোমাদের রব, আর তোমাদের আদি পিতৃপুরুষদেরও রব, আবাইকুমুল আওয়ালীন (২৬:২৬)। ইবরাহীম (আঃ)-এর বাক্যে আল-আকদামূন ঠিক সেই জায়গাটাই নেয়, 'তোমাদের পিতৃপুরুষ' কথাটির বিশেষণ হয়ে। দুই দৃশ্যেই একজন নবী এমন লোকদের মুখোমুখি, যারা অতীতের উপর ভর দিয়ে আছে। আর দুজনেই সবচেয়ে আগের পূর্বপুরুষদের কথা চুপচাপ এড়িয়ে না গিয়ে মুখ ফুটে উচ্চারণ করেন।"
+          },
+          {
+            "en": "Elsewhere the same phrase is heard from those who refused a messenger. The chiefs of Nuh's people said they had never heard of such a thing among their first forefathers (23:24), and Pharaoh's people said it again when Musa (AS) came with clear signs (28:36). For them the first fathers were a boundary: what the first fathers had not heard of could not be true. The prophets answer by placing those first fathers under the same Lord (26:26), or within the same question (26:75).",
+            "bn": "অন্য জায়গায় একই কথা শোনা যায় তাদের মুখে, যারা রাসূলকে ফিরিয়ে দিয়েছিল। নূহ (আঃ)-এর সম্প্রদায়ের নেতারা বলেছিল, আদি পিতৃপুরুষদের মধ্যে এমন কথা তারা কখনো শোনেনি (২৩:২৪)। মূসা (আঃ) স্পষ্ট নিদর্শন নিয়ে এলে ফেরাউনের লোকেরাও সেই কথাই বলেছিল (২৮:৩৬)। তাদের কাছে আদি পিতৃপুরুষেরা ছিল এক সীমারেখা: তারা যা শোনেনি, তা সত্য হতে পারে না। নবীরা এর জবাব দেন সেই আদি পিতৃপুরুষদের একই রবের অধীনে রেখে (২৬:২৬), কিংবা একই প্রশ্নের আওতায় এনে (২৬:৭৫)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bringing the Dead Into Question",
+          "bn": "মৃতরাও প্রশ্নের আওতায়"
+        },
+        "p": [
+          {
+            "en": "Why name the forefathers at all, when they were long dead and could not answer? Because the living had made them the answer. Once a people says, in effect, our fathers did this and that is enough, the fathers have been brought into the argument by the people themselves. Ibrahim (AS) does not let them stand there as witnesses for the defence. He sets them where the question of 26:75 sets everyone: among those whose worship is examined, not above it.",
+            "bn": "পূর্বপুরুষেরা তো বহু আগেই মারা গেছে, জবাব দেওয়ার উপায় তাদের নেই। তবু তাদের নাম আনা কেন? কারণ জীবিতরাই তাদেরকে জবাব বানিয়ে নিয়েছিল। কোনো সম্প্রদায় যখন কার্যত বলে, আমাদের বাপ-দাদা এটা করেছে, এটুকুই যথেষ্ট, তখন বাপ-দাদাকে যুক্তির মধ্যে টেনে এনেছে তারা নিজেরাই। ইবরাহীম (আঃ) তাদের সেখানে সাফাই-সাক্ষী হয়ে দাঁড়িয়ে থাকতে দেন না। ২৬:৭৫ আয়াতের প্রশ্ন সবাইকে যেখানে দাঁড় করায়, তিনি তাদেরও সেখানেই দাঁড় করান: যাদের ইবাদত যাচাই হচ্ছে তাদের কাতারে, যাচাইয়ের ঊর্ধ্বে নয়।"
+          },
+          {
+            "en": "Surah al-Anbiya records the same exchange from another angle. When Ibrahim (AS) asked about the statues to which they were devoted, they said: we found our fathers worshipping them (21:53). He replied: you were certainly, you and your fathers, in manifest error (21:54). The same pairing appears there, antum wa-aba'ukum, with the you repeated as its own word before the fathers are added. There it comes as a verdict. Here, in Surah ash-Shu'ara, it stays inside a question.",
+            "bn": "সূরা আম্বিয়া একই কথোপকথন ধরে রেখেছে ভিন্ন দিক থেকে। ইবরাহীম (আঃ) যখন জিজ্ঞেস করলেন, এই মূর্তিগুলো কী, যাদের নিয়ে তোমরা পড়ে আছ, তারা বলল: আমরা আমাদের পিতৃপুরুষদের এদের ইবাদত করতে দেখেছি (২১:৫৩)। তিনি বললেন: নিশ্চয়ই তোমরা আর তোমাদের পিতৃপুরুষেরা স্পষ্ট গুমরাহিতে ছিলে (২১:৫৪)। সেখানেও একই জোড়া, আনতুম ওয়া আবাউকুম। পিতৃপুরুষদের যোগ করার আগে 'তোমরা' আলাদা শব্দে আরেকবার এসেছে। সেখানে কথাটা এসেছে রায় হিসেবে। আর এখানে, সূরা শুআরায়, তা রয়ে গেছে প্রশ্নের ভেতরেই।"
+          },
+          {
+            "en": "There is something in the scene that is easy to miss. Ibrahim (AS) spoke these words to his father and his people (26:70). The line of forefathers he names was not a stranger's line; the father standing before him belonged to it. To ask about the worship of one's own forebears is harder than asking about anyone else's, and he asks it without insult, as a question that invites them to look.",
+            "bn": "দৃশ্যটার একটা দিক সহজেই চোখ এড়িয়ে যায়। ইবরাহীম (আঃ) কথাগুলো বলছিলেন তাঁর পিতা ও সম্প্রদায়কে (২৬:৭০)। যে পিতৃপুরুষদের তিনি নাম ধরছেন, তারা অচেনা কারও বংশধারা নয়। সামনে দাঁড়ানো পিতাও সেই ধারারই মানুষ। অন্য কারও পূর্বপুরুষের ইবাদত নিয়ে প্রশ্ন তোলার চেয়ে নিজের পূর্বপুরুষের বেলায় প্রশ্ন তোলা ঢের কঠিন। তবু তিনি তা তোলেন কোনো অপমান ছাড়া, এমন এক প্রশ্নের আকারে, যা তাদের নিজের চোখে দেখতে ডাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge and Guidance, Not Depth",
+          "bn": "গভীরতা নয়, জ্ঞান ও হিদায়াত"
+        },
+        "p": [
+          {
+            "en": "The appeal to ancestors is among the arguments the Qur'an meets most often. Told to follow what Allah revealed, some said they would follow what they found their fathers upon, and the Qur'an asks: even though their fathers understood nothing and were not guided (2:170)? Another verse asks the same with knew nothing in place of understood nothing (5:104). The reply never disputes that the fathers did what is claimed. It asks something else: did the fathers have knowledge, and were they guided?",
+            "bn": "পূর্বপুরুষের দোহাই এমন এক যুক্তি, কুরআন যার মুখোমুখি হয়েছে বারবার। আল্লাহ যা নাযিল করেছেন তা মেনে চলতে বলা হলে কেউ কেউ বলেছিল, আমরা চলব বাপ-দাদাকে যে পথে পেয়েছি সে পথে। কুরআন জিজ্ঞেস করে: তাদের বাপ-দাদা কিছুই না বুঝলেও, হিদায়াত না পেলেও (২:১৭০)? আরেক আয়াতে একই প্রশ্ন, শুধু 'বুঝত না'-এর জায়গায় 'জানত না' (৫:১০৪)। বাপ-দাদা ওই কাজ করেছে কি না, জবাবে কুরআন তা নিয়ে কখনো তর্ক করে না। প্রশ্নটা অন্যখানে: পূর্বপুরুষদের কি জ্ঞান ছিল, তারা কি হিদায়াতের উপর ছিল?"
+          },
+          {
+            "en": "Surah az-Zukhruf adds that the argument was not peculiar to a single people. Every warner sent to a town, it says, heard its affluent ones say: we found our fathers upon a religion, and we are following in their footsteps (43:23). The warner answered with a question again: even if I brought you better guidance than what you found your fathers upon (43:24)? Surah as-Saffat describes people who found their fathers astray and hastened along in their footsteps (37:69, 37:70).",
+            "bn": "সূরা যুখরুফ জানায়, এ যুক্তি কোনো এক জাতির নিজস্ব নয়। যে জনপদেই সতর্ককারী পাঠানো হয়েছে, সেখানকার বিত্তশালীরা বলেছে: আমরা আমাদের পিতৃপুরুষদের এক ধর্মমতের উপর পেয়েছি, আর আমরা তাদেরই পদচিহ্ন অনুসরণ করছি (৪৩:২৩)। সতর্ককারী আবারও জবাব দিয়েছেন প্রশ্ন দিয়ে: পিতৃপুরুষদের যে পথে পেয়েছ, আমি যদি তার চেয়ে ভালো হিদায়াত নিয়ে আসি, তবুও (৪৩:২৪)? সূরা সাফফাত এমন লোকদের কথা বলে, যারা পিতৃপুরুষদের বিপথে পেয়েছিল, তারপর তাদেরই পদচিহ্ন ধরে ছুটে চলেছিল (৩৭:৬৯ ও ৩৭:৭০)।"
+          },
+          {
+            "en": "Read beside these verses, al-aqdamun names the very thing such arguments lean on: depth of time. The further back a practice reaches, the more settled it feels. Ibrahim's three words concede the depth in full. Yes, your fathers, and the most ancient of them. Then the question of 26:75 falls on all of them alike. Length of time shows how long a thing has been followed. Whether it rests on knowledge and guidance is another question, and only that question decides.",
+            "bn": "এই আয়াতগুলোর পাশে রেখে পড়লে বোঝা যায়, আল-আকদামূন ঠিক সেই জিনিসটারই নাম, যার উপর এমন যুক্তি ভর দেয়: সময়ের গভীরতা। কোনো রীতি যত পেছনে যায়, তত বেশি পাকাপোক্ত মনে হয়। ইবরাহীম (আঃ)-এর তিনটি শব্দ সেই গভীরতা পুরোপুরি মেনে নেয়। হ্যাঁ, তোমাদের পিতৃপুরুষেরা, এমনকি তাদের সবচেয়ে প্রাচীন যারা। তারপর ২৬:৭৫ আয়াতের প্রশ্ন সবার উপর সমানভাবে এসে পড়ে। সময়ের দৈর্ঘ্য শুধু জানায়, কোনো কিছু কতদিন ধরে চলে আসছে। তার ভিত জ্ঞান আর হিদায়াত কি না, সেটা আলাদা প্রশ্ন। আর ফয়সালা হয় কেবল সেই প্রশ্নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Object Along the Line",
+          "bn": "বংশধারার সব উপাস্য"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the sentence: they are an enemy to me, except the Lord of the worlds (26:77). At-Tabari's paraphrase of the whole shows what the forefathers add. The meaning, he writes, is: have you considered every object of worship of yours and of your fathers? I am free of it and do not worship it, except the Lord of the worlds. Because the fathers were named, the disavowal reaches everything worshipped along the whole line, not only what stood before him that day.",
+            "bn": "পরের আয়াত বাক্যটা পূর্ণ করে: তারা সবাই আমার শত্রু, বিশ্বজগতের রব ছাড়া (২৬:৭৭)। পুরো কথাটার যে সারমর্ম তাবারী দেন, তাতে বোঝা যায় পূর্বপুরুষদের উল্লেখ এখানে কী যোগ করে। তাঁর ভাষায় অর্থ দাঁড়ায়: তোমাদের আর তোমাদের পিতৃপুরুষদের প্রতিটি উপাস্যকে কি তোমরা ভেবে দেখেছ? আমি তার থেকে মুক্ত, আমি তার ইবাদত করি না, বিশ্বজগতের রব ছাড়া। পিতৃপুরুষদের নাম আসায় এই সম্পর্কচ্ছেদ গোটা বংশধারায় যা কিছুর ইবাদত হয়েছে সবকিছুতে পৌঁছে যায়। শুধু সেদিন তাঁর সামনে যা দাঁড়িয়ে ছিল, তাতেই থেমে থাকে না।"
+          },
+          {
+            "en": "The commentators pause on how lifeless things can be called enemies. At-Tabari and al-Baghawi answer that they would be enemies to him on the Day of Resurrection had he worshipped them, citing the verse in which false gods deny their worship and become opponents (19:82). Al-Baghawi and al-Qurtubi both relay al-Farra's view that the phrase is inverted, meaning I am an enemy to them. Al-Baghawi adds another sense: I do not take them as allies, nor seek any benefit from them.",
+            "bn": "প্রাণহীন জিনিসকে কীভাবে শত্রু বলা যায়, তাফসীরকারেরা এখানে থেমে সে প্রশ্নের জবাব দেন। তাবারী ও বাগাভী বলেন, তিনি যদি তাদের ইবাদত করতেন, তবে কিয়ামতের দিন তারা তাঁর শত্রু হয়ে দাঁড়াত। প্রমাণ হিসেবে তাঁরা সেই আয়াত আনেন, যেখানে মিথ্যা উপাস্যরা নিজেদের ইবাদত অস্বীকার করবে আর বিরোধী হয়ে যাবে (১৯:৮২)। বাগাভী ও কুরতুবী দুজনেই ফাররার মত উল্লেখ করেন: কথাটা উল্টো করে বলা, আসল অর্থ, আমি তাদের শত্রু। বাগাভী আরেকটি অর্থও আনেন: আমি তাদের অভিভাবক বানাই না, তাদের কাছে কোনো উপকারও খুঁজি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Exception Spares",
+          "bn": "ব্যতিক্রম কাকে ছাড় দেয়"
+        },
+        "p": [
+          {
+            "en": "Then the exception: except the Lord of the worlds. Al-Baghawi says plainly that the commentators differed over it. On one view it is disconnected, the thing excepted not belonging to the class before it: they are enemies to me, but the Lord of the worlds is my protector. On another, the people worshipped idols along with Allah, so Ibrahim (AS) says: all whom you worship are my enemies except the Lord of the worlds.",
+            "bn": "এরপর ব্যতিক্রমটি: বিশ্বজগতের রব ছাড়া। বাগাভী সোজাসুজি বলেন, এ ইসতিসনা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। একটি মতে এটি মুনকাতি, অর্থাৎ যাকে বাদ দেওয়া হলো সে আগের দলের অন্তর্ভুক্তই নয়: তারা আমার শত্রু, কিন্তু বিশ্বজগতের রব আমার অভিভাবক। আরেক মতে, সম্প্রদায় আল্লাহর সঙ্গে মূর্তিরও ইবাদত করত। তাই ইবরাহীম (আঃ) বলেন: তোমরা যাদের ইবাদত কর, তারা সবাই আমার শত্রু, বিশ্বজগতের রব ছাড়া।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same split with names. Az-Zajjaj, he reports, said the grammarians take it as an exception not drawn from the first group, yet az-Zajjaj himself allowed it to be drawn from the first, on the ground that they used to worship Allah and worship the idols alongside Him. Al-Farra took the enmity to refer to the idols alone. Because 26:76 sets the forefathers inside the same question, this disagreement touches what they worshipped as well.",
+            "bn": "কুরতুবী একই মতভেদ তুলে ধরেন নাম ধরে। তাঁর বর্ণনায় যাজ্জাজ বলেছেন, নাহবিদেরা একে এমন ইসতিসনা ধরেন যা আগের দল থেকে নেওয়া নয়। তবে যাজ্জাজ নিজে একে আগের দল থেকে নেওয়া ধরারও সুযোগ রেখেছেন। তাঁর যুক্তি, তারা আল্লাহর ইবাদত করত, সঙ্গে মূর্তিরও। ফাররা অবশ্য শত্রুতার কথাটা কেবল মূর্তির উপরই প্রয়োগ করেছেন। ২৬:৭৬ আয়াত যেহেতু পূর্বপুরুষদেরও একই প্রশ্নের ভেতরে রেখেছে, এই মতভেদ তাদের উপাস্যদের বেলাতেও খাটে।"
+          },
+          {
+            "en": "Two further readings bring the forefathers closer still. Al-Qurtubi relays al-Kalbi, and al-Baghawi relays al-Husayn ibn al-Fadl, taking it to mean: except whoever worshipped the Lord of the worlds. On that reading the exception picks out people rather than objects of worship. Al-Qurtubi also gives al-Jurjani's rearrangement: have you considered what you worship, you and your most ancient forefathers, except the Lord of the worlds, for they are an enemy to me, with illa meaning other than, as in 44:56. This article sets the readings side by side and takes no position.",
+            "bn": "আরও দুটি ব্যাখ্যা পূর্বপুরুষদের আরও কাছে টেনে আনে। কুরতুবী কালবীর মত, আর বাগাভী হুসাইন ইবনুল ফাদলের মত উল্লেখ করেন: অর্থ হলো, যে বিশ্বজগতের রবের ইবাদত করেছে সে ছাড়া। এ ব্যাখ্যায় ব্যতিক্রম উপাস্যকে নয়, মানুষকে আলাদা করে। কুরতুবী জুরজানীর সাজানো বাক্যক্রমও আনেন: তোমরা আর তোমাদের আদিকালের পিতৃপুরুষেরা বিশ্বজগতের রব ছাড়া যাদের ইবাদত কর, তাদের কি ভেবে দেখেছ? তারা আমার শত্রু। এখানে ইল্লা মানে 'ছাড়া অন্য', যেমন ৪৪:৫৬ আয়াতে। এই লেখা মতগুলো পাশাপাশি রাখে, কোনোটির পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Boast Nor Blame",
+          "bn": "বড়াইও নয়, খোঁটাও নয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A general narration, not tied to this verse, speaks to the weight people give to lineage. Sahih Muslim (934) records from Abu Malik al-Ash'ari that the Prophet ﷺ said: Among my people there are four characteristics belonging to pre-Islamic period which they do not abandon: boasting of high rank, reviling other peoples' genealogies, seeking rain by stars, and wailing. And he said: If the wailing woman does not repent before she dies, she will be made to stand on the Day of Resurrection wearing a garment of pitch and a chemise of mange.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে সম্পৃক্ত নয়, কিন্তু মানুষ বংশকে কতটা ভার দেয় সে বিষয়ে কথা বলে। সহীহ মুসলিমে (৯৩৪) আবূ মালিক আশআরী (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: আমার উম্মতের মধ্যে জাহিলিয়াতের চারটি বিষয় আছে, যা তারা ছাড়বে না: বংশমর্যাদা নিয়ে গর্ব, অন্যের বংশ নিয়ে খোঁটা, নক্ষত্রের মাধ্যমে বৃষ্টি চাওয়া, আর মৃতের জন্য বিলাপ। তিনি আরও বলেছেন: বিলাপকারিণী যদি মৃত্যুর আগে তওবা না করে, তবে কিয়ামতের দিন তাকে দাঁড় করানো হবে আলকাতরার পোশাক আর খুজলির জামা পরিয়ে।"
+          },
+          {
+            "en": "The narration names two faults side by side: pride in a person's own rank and line, and attacks on the lineage of others. Both turn ancestry into a verdict. The first makes forefathers a credential; the second makes them a charge. Ibrahim's question in 26:76 does neither. He does not boast of a line or mock another's. He asks what was worshipped, and leaves the standing of every person, living or dead, with Allah.",
+            "bn": "বর্ণনাটি পাশাপাশি দুটি দোষের কথা বলে: নিজের বংশমর্যাদা নিয়ে অহংকার, আর অন্যের বংশে আঘাত। দুটোই বংশকে রায় বানিয়ে ফেলে। প্রথমটি পূর্বপুরুষদের বানায় সনদ, দ্বিতীয়টি বানায় অভিযোগের তালিকা। ২৬:৭৬ আয়াতে ইবরাহীম (আঃ)-এর প্রশ্ন এর কোনোটাই করে না। তিনি কোনো বংশ নিয়ে বড়াই করেন না, কোনো বংশকে ঠাট্টাও করেন না। তিনি শুধু জানতে চান, কিসের ইবাদত হয়েছে। জীবিত হোক বা মৃত, প্রত্যেক মানুষের মর্যাদার বিচার তিনি আল্লাহর হাতেই ছেড়ে দেন।"
+          },
+          {
+            "en": "So it must be said plainly. The verse describes what Ibrahim's people said and did, and the question he put to them about their forefathers. It licenses nothing against any living person or community, and no verdict on anyone's ancestors or ancestral customs. Its lesson points inward. Each of us has inherited something, and each of us will someday be someone's forefather. What matters is whether what passes down the line rests on knowledge and guidance, or only on having always been there.",
+            "bn": "তাই কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে ইবরাহীম (আঃ)-এর সম্প্রদায় কী বলেছিল ও করেছিল, আর তাদের পূর্বপুরুষদের নিয়ে তিনি তাদের কী প্রশ্ন করেছিলেন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কারও পূর্বপুরুষ বা বংশের রীতিনীতি সম্পর্কে রায় দেওয়ারও অনুমতি দেয় না। এর শিক্ষা ভেতরের দিকে। আমরা প্রত্যেকেই কিছু না কিছু উত্তরাধিকারসূত্রে পেয়েছি, আর একদিন আমরা প্রত্যেকেই কারও না কারও পূর্বপুরুষ হব। আসল কথা হলো, বংশধারায় যা নেমে আসে তার ভিত জ্ঞান আর হিদায়াত, নাকি শুধু এই যে তা বরাবর ছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "26:80": {
     "sections": [
       {
