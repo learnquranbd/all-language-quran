@@ -1331,6 +1331,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "51:41": {
+    "sections": [
+      {
+        "h": {
+          "en": "Fourth in a Roll of Signs",
+          "bn": "নিদর্শনের তালিকায় চতুর্থ"
+        },
+        "p": [
+          {
+            "en": "Wa fi 'Adin idh arsalna 'alayhimu r-riha l-'aqim: and in 'Ad, when We sent against them the barren wind. Seven Arabic words, and the verse does not repeat the noun it depends on. 51:37 said of the towns of Lut's people, We left therein a sign for those who fear the painful punishment. 51:38 began, and in Musa, and this verse begins, and in 'Ad. The commentators supply the missing word. Al-Qurtubi writes: and We left in 'Ad a sign for whoever reflects. Al-Baghawi has: in the destruction of 'Ad too there is a sign.",
+            "bn": "ওয়া ফী ‘আদিন ইয আরসালনা ‘আলাইহিমুর রীহাল ‘আকীম: আর ‘আদের মধ্যেও, যখন আমি তাদের উপর পাঠালাম বন্ধ্যা বাতাস। আরবিতে সাতটি শব্দ। যে বিশেষ্যের উপর বাক্যটা দাঁড়িয়ে, আয়াত তা আর উচ্চারণ করে না। ৫১:৩৭ আয়াতে লূত (আঃ)-এর কওমের জনপদ সম্পর্কে বলা হয়েছিল, যারা যন্ত্রণাদায়ক শাস্তিকে ভয় করে তাদের জন্য আমি সেখানে একটি নিদর্শন রেখে দিলাম। ৫১:৩৮ শুরু হয়েছে ‘আর মূসার মধ্যেও’ বলে, আর এ আয়াত শুরু ‘আর ‘আদের মধ্যেও’ দিয়ে। বাদ পড়া শব্দটা তাফসীরকারেরা পূরণ করে দেন। কুরতুবী লেখেন: আর ‘আদের মধ্যেও আমি চিন্তাশীলের জন্য নিদর্শন রেখে দিলাম। বাগাভী বলেন: ‘আদকে ধ্বংস করার ঘটনাতেও একটি নিদর্শন আছে।"
+          },
+          {
+            "en": "At-Tabari puts it as: in 'Ad also, and in what We did to them, there is a sign and a lesson. The Muyassar speaks of signs and lessons in the matter of 'Ad and their destruction, for whoever reflects. As-Sa'di calls 'Ad the well-known tribe, a great sign, and gives the occasion of the wind: when they denied their prophet Hud (AS). After this run of verses, Ibn Kathir says he has already told these stories in detail under other surahs, as Ma'arif al-Qur'an also says. This article follows them, does not retell the story of 'Ad, and stays with the seven words and the verse after them.",
+            "bn": "তাবারীর ভাষায়: ‘আদের মধ্যেও, আর তাদের সঙ্গে আমি যা করেছি তার মধ্যে, নিদর্শন ও শিক্ষা আছে। মুয়াসসার বলে, ‘আদের ব্যাপারে আর তাদের ধ্বংসে চিন্তাশীলের জন্য অনেক নিদর্শন ও শিক্ষা রয়েছে। সা’দী ‘আদকে বলেন সুপরিচিত গোত্র, এক বড় নিদর্শন। বাতাস কখন এসেছিল, তাও তিনি বলেন: যখন তারা নিজেদের নবী হূদ (আঃ)-কে মিথ্যা বলল। এই ধারার আয়াতগুলো শেষ করে ইবন কাসীর জানান, এসব কাহিনি তিনি অন্যান্য সূরার তাফসীরে বিস্তারিত বলে এসেছেন। মাআরিফুল কুরআনও একই কথা বলে। এই লেখাও তাঁদের পথে হাঁটে, ‘আদের কাহিনি নতুন করে বলে না। এখানে থাকবে ওই সাতটি শব্দ, আর তার পরের আয়াতটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Makes a Wind Barren",
+          "bn": "বাতাস বন্ধ্যা হয় কীসে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own gloss of al-'aqim is short: the wind that does not fertilise trees, and he says the people of interpretation said the like. The reports he gathers fill it out. From Ibn 'Abbas, by one chain: the severe wind that fertilises nothing; by another: it fertilises no tree and stirs up no cloud. From Mujahid: there is no mercy in it and no plant, and it fertilises no plant. From ad-Dahhak: it does not fertilise, and in another report, there is no blessing in it and it fertilises no tree. From Qatada: the wind that makes nothing grow.",
+            "bn": "আল-‘আকীমের অর্থ তাবারী নিজে দেন সংক্ষেপে: যে বাতাস গাছে পরাগ মেলায় না, ফল ধরায় না। তিনি জানান, তাফসীরের আলেমরাও এমনই বলেছেন। তাঁর জড়ো করা বর্ণনাগুলো কথাটাকে আরও খুলে দেয়। একটি সনদে ইবন আব্বাস (রাঃ) বলেন: প্রচণ্ড বাতাস, যা কিছুই ফলায় না। আরেক সনদে: কোনো গাছে ফল ধরায় না, কোনো মেঘও জাগায় না। মুজাহিদ বলেন: তাতে রহমত নেই, উদ্ভিদ নেই, কোনো চারায় প্রাণ জাগায় না। দাহহাক বলেন: ফলায় না। তাঁর আরেক বর্ণনায়: তাতে বরকত নেই, গাছেও ফল ধরায় না। কাতাদা বলেন: যে বাতাস কিছুই গজায় না।"
+          },
+          {
+            "en": "The later commentators keep both halves. Al-Baghawi: it has no good and no blessing, fertilises no tree and carries no rain. Al-Qurtubi: it fertilises neither cloud nor tree, and has in it no mercy, no blessing and no benefit. Ibn Kathir: the corrupting wind that produces nothing, as ad-Dahhak, Qatada and others said. The Muyassar: the wind with no blessing in it, which brings no good. As-Sa'di is the briefest of all: the wind in which there is no good.",
+            "bn": "পরের যুগের তাফসীরকারেরাও দুটো দিকই ধরে রাখেন। বাগাভী বলেন: তাতে কোনো কল্যাণ নেই, বরকত নেই, গাছে ফল ধরায় না, বৃষ্টিও বয়ে আনে না। কুরতুবীর ভাষায়: মেঘকেও সঞ্চারিত করে না, গাছকেও না, আর তাতে না আছে রহমত, না বরকত, না কোনো উপকার। ইবন কাসীর বলেন: বিনষ্টকারী বাতাস, যা কিছুই জন্ম দেয় না। কথাটি তিনি দাহহাক, কাতাদা ও অন্যদের বলে উল্লেখ করেন। মুয়াসসার বলে: যে বাতাসে বরকত নেই, যা কোনো কল্যাণ আনে না। সবচেয়ে ছোট ব্যাখ্যা সা’দীর: যে বাতাসে কোনো কল্যাণ নেই।"
+          },
+          {
+            "en": "Read together, the glosses describe barrenness in two ways. One is what the wind fails to do: bring rain, raise cloud, fertilise trees, make plants grow. The other is what it lacks: good, blessing, mercy, benefit. Neither strand means a weak wind. Ibn 'Abbas calls it severe and Ibn Kathir calls it corrupting. Its barrenness is not a lack of force. It is force that brings forth nothing.",
+            "bn": "সব ব্যাখ্যা পাশাপাশি রাখলে বন্ধ্যাত্বের দুটি দিক চোখে পড়ে। একটা হলো বাতাস যা করে না: বৃষ্টি আনে না, মেঘ জাগায় না, গাছে ফল ধরায় না, চারা গজায় না। আরেকটা হলো তাতে যা নেই: কল্যাণ, বরকত, রহমত, উপকার। কোনোটার মানেই দুর্বল বাতাস নয়। ইবন আব্বাস (রাঃ) একে বলেন প্রচণ্ড, ইবন কাসীর বলেন বিনষ্টকারী। এ বাতাসের বন্ধ্যাত্ব তাই শক্তির অভাব নয়। শক্তি আছে পুরোটাই, শুধু তা থেকে কিছুই জন্মায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word Twelve Verses Back",
+          "bn": "বারো আয়াত আগের সেই শব্দ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi ties the word to its everyday use: from it comes the barren woman, one who does not conceive and does not give birth. A reader of this surah has met that use already. At 51:29 Ibrahim's wife, hearing the angels' tidings of a knowing son, struck her face and said: an old woman, and barren, 'ajuzun 'aqim. The same word now names a wind. The root occurs four times in the Qur'an. Besides these two verses, 42:50 says that Allah makes barren whom He wills, and 22:55 speaks of the punishment of a barren day.",
+            "bn": "শব্দটিকে কুরতুবী তার রোজকার ব্যবহারের সঙ্গে জুড়ে দেন: এ থেকেই এসেছে বন্ধ্যা নারী, যে গর্ভধারণ করে না, সন্তান জন্ম দেয় না। এ সূরার পাঠক শব্দটির এই ব্যবহার আগেই দেখে এসেছেন। ৫১:২৯ আয়াতে ফেরেশতারা জ্ঞানী এক পুত্রের সুসংবাদ দিলে ইবরাহীম (আঃ)-এর স্ত্রী নিজের মুখে চাপড় দিয়ে বলেছিলেন: আমি তো বুড়ি, তার উপর বন্ধ্যা, ‘আজূযুন ‘আকীম। সেই শব্দই এখন একটি বাতাসের নাম। কুরআনে এই ধাতু এসেছে চারটি আয়াতে। এ দুটি আয়াত ছাড়া ৪২:৫০ বলে, আল্লাহ যাকে চান বন্ধ্যা করে দেন। আর ২২:৫৫ আয়াতে আছে এক বন্ধ্যা দিনের শাস্তির কথা।"
+          },
+          {
+            "en": "Placed side by side, the two uses in this surah run in opposite directions. In the first, a woman who called herself barren was given a son, and the angels answered her wonder at 51:30: thus has your Lord said. In the second, a wind that should have carried rain was sent emptied of it. In both the outcome came from the same Lord. 42:50 says the same in a single clause, and goes on: He is Knowing and Able. Fruitfulness is not owned by a womb, and rain is not owned by the wind.",
+            "bn": "এ সূরার দুটি ব্যবহার পাশাপাশি রাখলে দেখা যায়, তারা চলেছে উল্টো দিকে। প্রথমটিতে যে নারী নিজেকে বন্ধ্যা বলেছিলেন, তাঁকে পুত্র দেওয়া হলো। ৫১:৩০ আয়াতে তাঁর বিস্ময়ের জবাবে ফেরেশতারা বললেন: তোমার রব এমনটাই বলেছেন। দ্বিতীয়টিতে যে বাতাসের বৃষ্টি বয়ে আনার কথা, তাকে পাঠানো হলো বৃষ্টিশূন্য করে। দুই ক্ষেত্রেই ফল এসেছে একই রবের কাছ থেকে। ৪২:৫০ আয়াত একই কথা বলে এক বাক্যে, তারপর যোগ করে: তিনি সর্বজ্ঞ, সর্বশক্তিমান। সন্তান জন্মানো গর্ভের নিজের হাতে নয়। বৃষ্টিও বাতাসের নিজের সম্পদ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Surah's Opening Winds",
+          "bn": "সূরার শুরুর বাতাস"
+        },
+        "p": [
+          {
+            "en": "Adh-Dhariyat takes its name from its first word. The Muyassar explains the opening oaths: Allah swears by the winds that stir up dust, then by the clouds that carry a great weight of water. So the surah begins with wind doing its usual work, lifting and carrying, and the load it carries is rain. Forty verses later it names a wind sent with nothing to carry. The pairing is the reader's observation, not a commentator's, but the commentators on this verse draw the same contrast between the two kinds of wind.",
+            "bn": "আয-যারিয়াত নামটা এসেছে সূরার প্রথম শব্দ থেকে। শুরুর কসমগুলোর ব্যাখ্যায় মুয়াসসার বলে: আল্লাহ কসম করছেন সেই বাতাসের, যা ধুলো উড়িয়ে নেয়। তারপর সেই মেঘের, যা বয়ে বেড়ায় পানির বিপুল ভার। সূরার শুরুতে তাই বাতাস করছে তার চেনা কাজ: তুলে নেওয়া, বয়ে নেওয়া। আর বোঝাটা হলো বৃষ্টি। চল্লিশ আয়াত পরে নাম এল এমন এক বাতাসের, যাকে পাঠানো হয়েছে বইবার মতো কিছু না দিয়ে। এই জোড়া মেলানোটা পাঠকের নিজের পর্যবেক্ষণ, কোনো তাফসীরকারের নয়। তবে এ আয়াতের তাফসীরকারেরা দুই রকম বাতাসের এই তফাতটাই টানেন।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari, sets them side by side. Allah sends the wind as good news ahead of His mercy, and by it gives life to root and tree. This one fertilises nothing and gives life to nothing. It is barren, with no good in it at all, only punishment. Then he recited 15:22: and We sent the winds fertilising. Qatada, also in at-Tabari, says that among the winds is one that is barren and a punishment when it is sent, and among them is a mercy by which Allah raises clouds and sends down rain.",
+            "bn": "তাবারীর তাফসীরে ইবন যায়দ দুটিকে পাশাপাশি রাখেন। আল্লাহ বাতাস পাঠান তাঁর রহমতের আগে আগে সুসংবাদ হিসেবে, আর তা দিয়ে শিকড় ও গাছে প্রাণ জাগান। কিন্তু এ বাতাস কিছুই ফলায় না, কিছুতে প্রাণও দেয় না। এটা বন্ধ্যা, তাতে কল্যাণের ছিটেফোঁটাও নেই, আছে শুধু শাস্তি। তারপর তিনি তিলাওয়াত করেন ১৫:২২: আর আমি ফলদায়ী বাতাস পাঠাই। তাবারীতে কাতাদার বক্তব্যও একই সুরে: কিছু বাতাস পাঠানো হলে বন্ধ্যা হয়, শাস্তি হয়ে আসে। আর কিছু বাতাস রহমত, যা দিয়ে আল্লাহ মেঘ জাগান আর বৃষ্টি নামান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Names for One Wind",
+          "bn": "এক বাতাসের চার নাম"
+        },
+        "p": [
+          {
+            "en": "The verse says what the wind did, not where it blew from, and the early authorities named it differently. Al-Qurtubi lists the views and settles none of them. Some said it was the janub, the south wind. Muqatil said it was the dabur, and al-Qurtubi points to the narration in the Sahih. Ibn 'Abbas said it was an-nakba'. Ibn Abi Najih related from Mujahid that it was the saba. Al-Qurtubi closes the list with: and Allah knows best. Four names stand there for one wind, each with a name behind it.",
+            "bn": "বাতাসটা কী করেছিল, আয়াত তা বলে। কোন দিক থেকে বয়েছিল, তা বলে না। আর প্রথম যুগের আলেমরা এর নাম দিয়েছেন ভিন্ন ভিন্ন। কুরতুবী মতগুলো তালিকা করে দেন, কোনোটির পক্ষে রায় দেন না। কেউ বলেছেন, এটা জানূব, দক্ষিণা বাতাস। মুকাতিল বলেছেন দাবূর, আর কুরতুবী এখানে সহীহ গ্রন্থের বর্ণনার দিকে ইশারা করেন। ইবন আব্বাস (রাঃ) বলেছেন নাকবা। ইবন আবী নাজীহ মুজাহিদ থেকে বর্ণনা করেছেন, এটা ছিল সাবা। তালিকা শেষ করে কুরতুবী লেখেন: আল্লাহই ভালো জানেন। এক বাতাসের জন্য চারটি নাম, প্রতিটির পেছনে একজন করে বর্ণনাকারী।"
+          },
+          {
+            "en": "At-Tabari gives only the janub among these names, by two reports. In one, Sa'id ibn al-Musayyib used to say that the barren wind is the janub. In the other, Ibn Abi Dhi'b reports it from his maternal uncle, al-Harith ibn 'Abd ar-Rahman, as al-Harith's own gloss. Al-Qurtubi has the same pair, Ibn Abi Dhi'b from al-Harith, but he gives the words as the Prophet's ﷺ: the barren wind is the janub. Neither commentator grades the line, so this article does not present it as a hadith.",
+            "bn": "এসব নামের মধ্যে তাবারী শুধু জানূবের কথা আনেন, দুটি বর্ণনায়। একটিতে সা‘ঈদ ইবনুল মুসায়্যিব বলতেন, বন্ধ্যা বাতাস হলো জানূব। অন্যটিতে ইবন আবী যি’ব তাঁর মামা হারিস ইবন আবদির রহমান থেকে কথাটি বর্ণনা করেন, হারিসের নিজের ব্যাখ্যা হিসেবে। কুরতুবীর কাছেও একই জুটি আছে, ইবন আবী যি’ব থেকে হারিস। কিন্তু তিনি কথাটি এনেছেন নবী ﷺ-এর বাণী হিসেবে: বন্ধ্যা বাতাস হলো জানূব। দুই তাফসীরকারের কেউই এ সূত্রের মান উল্লেখ করেননি। তাই এই লেখা একে হাদিস হিসেবে পেশ করছে না।"
+          },
+          {
+            "en": "The abridged English Ibn Kathir weighs the matter in a single move. It reports that Sa'id ibn al-Musayyib and others said the barren wind was the south wind, and then sets against it the narration in the Sahih naming the dabur. Al-Qurtubi lists without choosing; Ibn Kathir lets the Sahih narration answer the janub. The difference is kept here as a difference. Whatever its direction, the verse itself is concerned with what the wind was empty of and who sent it.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বিষয়টা মাপে এক চালে। সেখানে আছে, সা‘ঈদ ইবনুল মুসায়্যিব ও অন্যরা বলেছেন বন্ধ্যা বাতাস ছিল দক্ষিণা বাতাস। তারপর এর বিপরীতে রাখা হয়েছে সহীহ গ্রন্থের সেই বর্ণনা, যেখানে নাম আছে দাবূরের। কুরতুবী তালিকা দেন, কিছু বেছে নেন না। আর ইবন কাসীর জানূবের মতের জবাব হিসেবে সহীহ বর্ণনাটিকে সামনে আনেন। মতভেদটা এখানে মতভেদ হিসেবেই থাকল। বাতাস যে দিক থেকেই আসুক, আয়াতের আগ্রহ অন্য জায়গায়: বাতাসটা কী থেকে শূন্য ছিল, আর কে তাকে পাঠিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mujahid on Both Sides",
+          "bn": "দুই দিকেই মুজাহিদ"
+        },
+        "p": [
+          {
+            "en": "The narration the Sahih carries is this, in al-Bukhari's wording: \"Narrated Ibn 'Abbas: The Prophet (ﷺ) said, 'I was granted victory with As-Saba and the nation of 'Ad was destroyed by Ad-Dabur (westerly wind).'\" Al-Bukhari records it in his Sahih as number 1035, and Muslim records it in his Sahih as number 900, also from Ibn 'Abbas. The abridged English Ibn Kathir glosses the saba as the easterly wind. The narration itself does not mention 51:41. The link to this verse is made by the commentators: al-Qurtubi beside Muqatil's view, Qatada in at-Tabari, and Ibn Kathir.",
+            "bn": "সহীহ গ্রন্থের বর্ণনাটি বুখারীর ভাষায় এই: ইবন আব্বাস (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: \"আমাকে সাবা বাতাস দিয়ে বিজয় দেওয়া হয়েছে, আর ‘আদ জাতিকে ধ্বংস করা হয়েছে দাবূর, অর্থাৎ পশ্চিমা বাতাস দিয়ে।\" বুখারী এটি তাঁর সহীহ গ্রন্থে এনেছেন, নম্বর ১০৩৫। মুসলিমও তাঁর সহীহ গ্রন্থে ইবন আব্বাস (রাঃ) থেকেই এনেছেন, নম্বর ৯০০। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ সাবার অর্থ করে পূবালি বাতাস। বর্ণনাটিতে ৫১:৪১ আয়াতের উল্লেখ নেই। আয়াতের সঙ্গে একে জুড়েছেন তাফসীরকারেরা: মুকাতিলের মতের পাশে কুরতুবী, তাবারীর তাফসীরে কাতাদা, আর ইবন কাসীর।"
+          },
+          {
+            "en": "Qatada introduces it in at-Tabari with the words: it was mentioned to us that the Messenger of Allah ﷺ used to say. At-Tabari follows it with a chain from Qatada to Ibn 'Abbas, with the like of it. One detail sits beside al-Qurtubi's list without comment. In al-Bukhari's chain the narration passes through Mujahid, from Ibn 'Abbas. Yet al-Qurtubi relays from Mujahid, through Ibn Abi Najih, that the barren wind was the saba, the very wind the narration names as the Prophet's ﷺ help. Al-Qurtubi does not remark on it, and this article does not resolve it.",
+            "bn": "তাবারীর তাফসীরে কাতাদা বর্ণনাটি শুরু করেন এভাবে: আমাদের কাছে উল্লেখ করা হয়েছে যে আল্লাহর রাসূল ﷺ বলতেন। এরপর তাবারী কাতাদা থেকে ইবন আব্বাস (রাঃ) পর্যন্ত একটি সনদ এনে বলেন, এরই অনুরূপ। একটা খুঁটিনাটি কুরতুবীর তালিকার পাশে চুপচাপ পড়ে থাকে। বুখারীর সনদে বর্ণনাটি এসেছে মুজাহিদের মাধ্যমে, ইবন আব্বাস (রাঃ) থেকে। অথচ কুরতুবী ইবন আবী নাজীহের সূত্রে মুজাহিদ থেকে আনেন, বন্ধ্যা বাতাস ছিল সাবা। আর বর্ণনায় সাবাকেই বলা হয়েছে নবী ﷺ-এর সাহায্যের বাতাস। কুরতুবী এ নিয়ে কিছু বলেন না। এই লেখাও এর মীমাংসা করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dry Stalks Under the Feet",
+          "bn": "পায়ে মাড়ানো শুকনো খড়"
+        },
+        "p": [
+          {
+            "en": "The next verse, 51:42, says what the barren wind left: it left nothing it came upon but that it made it like ar-ramim. At-Tabari defines the word from the speech of the Arabs: ramim is the plant growth of the earth that has dried out and been trampled. Ibn 'Abbas and Mujahid, in at-Tabari's reports, both say: like the thing that has perished. Qatada says: like the ramim of trees. The Muyassar renders it as the worn-out thing, and the abridged English Ibn Kathir as something rotten and destroyed.",
+            "bn": "পরের আয়াত ৫১:৪২ জানায়, বন্ধ্যা বাতাস কী রেখে গেল: যার উপর দিয়ে গেছে, তার কিছুই সে ছাড়েনি, সবকিছুকে বানিয়ে দিয়েছে আর-রামীমের মতো। শব্দটির সংজ্ঞা তাবারী দেন আরবদের ভাষা থেকে: রামীম হলো মাটির সেই উদ্ভিদ, যা শুকিয়ে গেছে আর পায়ের নিচে মাড়ানো হয়েছে। তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ) ও মুজাহিদ দুজনেই বলেন: ধ্বংস হয়ে যাওয়া জিনিসের মতো। কাতাদা বলেন: গাছের রামীমের মতো। মুয়াসসার এর অর্থ করে জীর্ণ জিনিস, আর ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে পচে যাওয়া, বিনষ্ট জিনিস।"
+          },
+          {
+            "en": "The two verses fit each other closely. The glosses on 51:41 said the wind would fertilise no tree and make no plant grow; the glosses on 51:42 say that what it touched became like dried, trampled plants and the remains of trees. A wind with no life to give left behind the look of growth that has died. The same root appears in only one other verse, 36:78, where a denier asks who will give life to bones once they are ramim. The answer there, in 36:79, is that the One who made them the first time will give them life.",
+            "bn": "দুটি আয়াত একে অপরের সঙ্গে খুব মিলে যায়। ৫১:৪১-এর ব্যাখ্যায় বলা হয়েছিল, এ বাতাস কোনো গাছে ফল ধরায় না, কোনো চারা গজায় না। আর ৫১:৪২-এর ব্যাখ্যা বলছে, সে যা ছুঁয়েছে তা হয়ে গেছে শুকনো মাড়ানো খড় আর গাছের ধ্বংসাবশেষের মতো। যে বাতাসের দেওয়ার মতো কোনো প্রাণ ছিল না, সে পেছনে রেখে গেল মরে যাওয়া সবুজের চেহারা। এই ধাতু কুরআনে আর মাত্র একটি আয়াতে আছে, ৩৬:৭৮। সেখানে এক অবিশ্বাসী প্রশ্ন তোলে, হাড় যখন রামীম হয়ে যাবে, তখন কে তাতে প্রাণ দেবে? ৩৬:৭৯ আয়াতে জবাব: যিনি প্রথমবার বানিয়েছেন, তিনিই প্রাণ দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "For Whoever Reflects",
+          "bn": "যে ভেবে দেখে, তার জন্য"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a wind sent upon 'Ad, a people of the past who, as as-Sa'di puts it, denied their prophet Hud (AS). It licenses nothing against any living person or community. It does not identify 'Ad with any people of today, and it gives no one standing to call a storm, a drought or a dust wind that strikes others a punishment upon them. The judgment it reports is Allah's, about one people, and the Qur'an has told it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত শুধু সেটুকুই বর্ণনা করে, যা কুরআন বর্ণনা করেছে: ‘আদের উপর পাঠানো এক বাতাস। সা’দীর ভাষায়, তারা নিজেদের নবী হূদ (আঃ)-কে মিথ্যা বলেছিল। তারা অতীতের একটি জাতি। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজকের কোনো জাতিকে এ আয়াত ‘আদ বলে চিহ্নিত করে না। অন্যের উপর ঝড়, খরা বা ধুলোর বাতাস এলে সেটাকে তাদের শাস্তি বলে ঘোষণা করার অধিকারও কাউকে দেয় না। এখানে যে ফয়সালার খবর, তা আল্লাহর, একটি জাতিকে নিয়ে, আর তা জানিয়েছে কুরআন।"
+          },
+          {
+            "en": "What the verse asks is reflection, and the commentators say for whom: a sign for whoever reflects, in al-Qurtubi and the Muyassar, and in 51:37, for those who fear the painful punishment. Read that way, the barren wind sends the reader back to the ordinary wind. Ibn Zayd called it good news sent ahead of mercy, and it comes every day unasked. The question the verse leaves is personal. Is the air that carries rain to my fields received with thanks? And is there anything in my own effort that has force and noise but brings forth nothing?",
+            "bn": "আয়াত চায় ভাবনা। কার জন্য, তাফসীরকারেরা তাও বলেন। কুরতুবী আর মুয়াসসারের ভাষায়, যে ভেবে দেখে তার জন্য নিদর্শন। আর ৫১:৩৭ আয়াতের ভাষায়, যারা যন্ত্রণাদায়ক শাস্তিকে ভয় করে তাদের জন্য। এভাবে পড়লে বন্ধ্যা বাতাস পাঠককে ফিরিয়ে নেয় সাধারণ বাতাসের কাছে। ইবন যায়দ তাকে বলেছেন রহমতের আগে পাঠানো সুসংবাদ, আর সেটা আসে রোজ, না চাইতেই। আয়াত যে প্রশ্ন রেখে যায়, তা একান্ত নিজের। আমার খেতে বৃষ্টি বয়ে আনা বাতাসকে কি আমি শুকরিয়ার সঙ্গে গ্রহণ করি? আর আমার নিজের চেষ্টায় কি এমন কিছু আছে, যাতে জোর আছে, শব্দ আছে, অথচ কিছুই জন্মায় না?"
+          }
+        ]
+      }
+    ]
+  },
   "51:47-49": {
     "sections": [
       {

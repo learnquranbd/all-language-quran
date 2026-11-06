@@ -27409,6 +27409,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The return that seems distant is easy for Allah; live now as someone who will be called out of the ground and will hasten to answer.",
     "lessonBn": "যে ফিরে যাওয়াকে দূরের মনে হয়, আল্লাহর জন্য তা সহজ। তাই এমনভাবে বাঁচুন, যেন একদিন আপনাকে মাটি থেকে ডেকে তোলা হবে আর আপনি সাড়া দিতে ছুটবেন।"
+  },
+  "51:41": {
+    "reflectionEn": "The surah opened by swearing by winds, and now it names one wind of a different kind. 'Ad were sent a barren wind: it carried no rain, fertilised no tree and brought no good, and the next verse says it left whatever it reached like dry, crushed remains. The air that usually carries mercy can be sent for another purpose, and the One who sends it is the same. The verse is told as a sign for whoever reflects, not as a key for reading today's storms or the people caught in them. It turns the question inward. Do I treat the ordinary gifts around me as owed? And what in my life looks full of life but bears no good fruit?",
+    "reflectionBn": "সূরাটি শুরু হয়েছিল বাতাসের কসম দিয়ে। এখানে এসে নাম এল আরেক রকম বাতাসের। ‘আদের উপর পাঠানো হয়েছিল বন্ধ্যা বাতাস। তাতে বৃষ্টি ছিল না, কোনো গাছে ফল ধরায়নি, কোনো কল্যাণও আনেনি। পরের আয়াত বলে, যার উপর দিয়ে গেছে তাকেই শুকনো চূর্ণ ধ্বংসাবশেষ বানিয়ে ছেড়েছে। যে বাতাস সাধারণত রহমত বয়ে আনে, তাকে অন্য কাজেও পাঠানো যায়, আর পাঠান একই সত্তা। আয়াতটি বলা হয়েছে চিন্তাশীলের জন্য নিদর্শন হিসেবে। আজকের ঝড় বা তাতে আটকে পড়া মানুষকে বিচার করার চাবি এটা নয়। প্রশ্নটা তাই নিজের দিকেই ফেরে। চারপাশের সাধারণ নিয়ামতগুলোকে কি আমি পাওনা ভেবে বসে আছি? আর আমার জীবনে কোন জিনিসটা দেখতে প্রাণবন্ত, অথচ কোনো ভালো ফল ধরায় না?",
+    "pointsEn": [
+      "When did I last thank Allah for an ordinary breeze, a cloud or a shower, rather than only noticing the weather when it went wrong?",
+      "What in my days is busy and loud but leaves nothing good behind it, like a wind that fertilises nothing?",
+      "Do I hear the stories of destroyed peoples as warnings to myself, or as stories about other people?",
+      "When a disaster strikes others, do I hold back from judging them and turn instead to mercy and to checking my own heart?",
+      "Which blessing would I miss most if it came to me emptied of its good?"
+    ],
+    "pointsBn": [
+      "শেষ কবে একটা সাধারণ হাওয়া, এক টুকরো মেঘ বা এক পশলা বৃষ্টির জন্য আল্লাহর শুকরিয়া আদায় করেছি? নাকি আবহাওয়া খেয়াল করি কেবল যখন তা খারাপ হয়?",
+      "আমার দিনগুলোতে কোন কাজ খুব ব্যস্ত আর হইচই ভরা, অথচ পেছনে ভালো কিছু রেখে যায় না, সেই বাতাসের মতো যা কিছুই ফলায় না?",
+      "ধ্বংস হয়ে যাওয়া জাতিগুলোর কাহিনি কি আমি নিজের জন্য সতর্কবাণী হিসেবে শুনি, নাকি অন্যদের গল্প হিসেবে?",
+      "অন্যের উপর বিপদ এলে আমি কি তাদের বিচার করা থেকে বিরত থাকি, আর রহমতের দিকে ও নিজের মন যাচাইয়ের দিকে ফিরি?",
+      "কোন নিয়ামতটা কল্যাণশূন্য হয়ে আমার কাছে এলে আমি সবচেয়ে বেশি হারানোর ব্যথা টের পেতাম?"
+    ],
+    "lessonEn": "Thank Allah for the ordinary mercies of wind and rain, read 'Ad's barren wind as a warning to yourself, and never as a verdict on anyone struck today.",
+    "lessonBn": "বাতাস আর বৃষ্টির সাধারণ রহমতের জন্য আল্লাহর শুকরিয়া আদায় করুন। ‘আদের বন্ধ্যা বাতাসকে নিজের জন্য সতর্কবাণী হিসেবে পড়ুন, আজ বিপদে পড়া কারও বিরুদ্ধে রায় হিসেবে কখনো নয়।"
   }
 };
 
