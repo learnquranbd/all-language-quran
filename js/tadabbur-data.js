@@ -26729,6 +26729,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give your good freely without asking a return, keep the ties of kinship, and trust that Allah adds to every good deed and forgives much.",
     "lessonBn": "বিনিময়ের আশা না করে উদার হাতে ভালো করুন, আত্মীয়তার বাঁধন রক্ষা করুন, আর ভরসা রাখুন যে আল্লাহ প্রতিটি নেক কাজে আরও বাড়িয়ে দেন এবং অনেক ক্ষমা করেন।"
+  },
+  "43:13": {
+    "reflectionEn": "The verse picks out one small moment: the rider has climbed up, found his seat, and the animal or the boat has taken his weight. Right there, before the journey starts, he is told to remember whose favour this is and to say it aloud. Glory to Him who made this yield to us; we could never have managed it ourselves. And the next verse adds the last line: to our Lord we are surely returning. A ride to the market and the final journey sit in one breath. Most of my journeys now begin with a key or a ticket, and I settle into the seat without a thought. Whose favour is carrying me, and where is the longer road going?",
+    "reflectionBn": "আয়াতটি একটা ছোট্ট মুহূর্তকে ধরে রাখে। আরোহী উঠে বসেছে, জায়গা মতো স্থির হয়েছে, পশু বা নৌকা তার ভার নিয়ে নিয়েছে। ঠিক তখনই, যাত্রা শুরুর আগে, তাকে বলা হয়: মনে করো এ কার অনুগ্রহ, আর মুখে বলো। পবিত্র তিনি, যিনি একে আমাদের বশ করে দিয়েছেন, আমরা নিজেরা একে কখনো সামলাতে পারতাম না। পরের আয়াত শেষ কথাটা জুড়ে দেয়: আর আমরা অবশ্যই আমাদের রবের কাছে ফিরে যাব। বাজারে যাওয়ার সওয়ারি আর শেষ সফর, দুটো একই নিঃশ্বাসে এসে গেল। আমার এখনকার বেশির ভাগ যাত্রা শুরু হয় চাবি ঘুরিয়ে বা টিকিট কেটে। আসনে বসে পড়ি, মনে কিছুই আসে না। কার অনুগ্রহ আমাকে বয়ে নিয়ে যাচ্ছে? আর লম্বা পথটা কোথায় গিয়ে থামবে?",
+    "pointsEn": [
+      "When I last sat down in a bus, car, train or boat, what was the first thing on my mind?",
+      "Which of the means that carry me every day could I really have made or tamed by my own strength?",
+      "Do I treat the words of this verse as a formula to finish quickly, or as a thought I actually think?",
+      "How would my journeys change if each departure reminded me of the return to my Lord?",
+      "Is there any skill or vehicle I talk about as if it obeys me alone?"
+    ],
+    "pointsBn": [
+      "শেষবার বাস, গাড়ি, ট্রেন বা নৌকায় বসার পর আমার মনে প্রথম কোন কথাটা এসেছিল?",
+      "প্রতিদিন যেসব বাহন আমাকে বয়ে নেয়, তার কোনটা কি আমি নিজের শক্তিতে বানাতে বা বশ করতে পারতাম?",
+      "এ আয়াতের কথাগুলো কি আমার কাছে তাড়াতাড়ি শেষ করার মুখস্থ বুলি, নাকি সত্যিই মন দিয়ে ভাবার কথা?",
+      "প্রতিটি যাত্রার শুরুতে যদি রবের কাছে ফিরে যাওয়ার কথা মনে পড়ত, আমার পথচলা কতটা বদলে যেত?",
+      "এমন কোনো দক্ষতা বা বাহন কি আছে, যার কথা আমি এমনভাবে বলি যেন সেটা শুধু আমার হুকুমেই চলে?"
+    ],
+    "lessonEn": "Whenever something carries you, pause once seated: thank the One who made it yield, admit you could not manage it alone, and remember the return to Him.",
+    "lessonBn": "কোনো বাহন যখন আপনাকে বয়ে নেয়, বসে একটু থামুন। যিনি একে বশ করে দিয়েছেন তাঁর শোকর করুন, স্বীকার করুন যে একা আপনি একে সামলাতে পারতেন না, আর তাঁর কাছে ফিরে যাওয়ার কথা মনে রাখুন।"
   }
 };
 

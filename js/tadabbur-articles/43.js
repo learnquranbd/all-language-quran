@@ -475,6 +475,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "Backs of Ship and Camel",
+          "bn": "নৌকার পিঠ, উটের পিঠ"
+        },
+        "p": [
+          {
+            "en": "Li-tastawu 'ala zuhurihi: so that you settle on its backs. The sentence runs on from 43:12, where Allah made for you, of ships and livestock, what you ride. At-Tabari glosses it as so that you settle on the backs of what you ride. Ibn Kathir describes the rider as mutamakkinin murtafiqin, firmly seated and at ease, on the backs of this kind. As-Sa'di uses the verb li-tastaqirru, to settle steadily on them, and says the verse covers the backs of ships as well as the backs of livestock.",
+            "bn": "লিতাসতাউ আলা যুহূরিহী: যাতে তোমরা এর পিঠে স্থির হয়ে বসো। বাক্যটা আসলে ৪৩:১২ থেকে চলে আসছে। সেখানে আল্লাহ বলেছেন, নৌযান আর গবাদি পশুর মধ্যে তোমাদের জন্য বানিয়েছেন এমন কিছু, যাতে তোমরা চড়ো। তাবারী সোজা ব্যাখ্যা দেন: যাতে তোমরা যাতে চড়ো তার পিঠে স্থির হয়ে বসো। ইবন কাসীর আরোহীর ছবি আঁকেন দুটি শব্দে, মুতামাক্কিনীন মুরতাফিকীন: শক্ত হয়ে বসা, আরামে বসা। সা'দী ব্যবহার করেন লিতাসতাকিররূ ক্রিয়া, অর্থাৎ এগুলোর উপর থিতু হয়ে বসা। তাঁর মতে আয়াতটি নৌযানের পিঠ আর পশুর পিঠ, দুটোকেই শামিল করে।"
+          },
+          {
+            "en": "The grammar has a small puzzle. Backs is plural, but the pronoun on it is singular and masculine, as if one thing were ridden. Al-Baghawi says the pronoun points back to ma, the what of what you ride, and al-Qurtubi says the same, citing Abu 'Ubayd. Al-Qurtubi then gives al-Farra's explanation: the backs are joined to a singular because a whole kind is meant, a singular with a plural sense, like the words for an army. At-Tabari sets out the grammarians of Basra and Kufa on the question at length.",
+            "bn": "ব্যাকরণে এখানে একটা ছোট ধাঁধা আছে। যুহূর, অর্থাৎ পিঠ, শব্দটা বহুবচন। কিন্তু তার সঙ্গে জোড়া সর্বনামটা একবচন ও পুংলিঙ্গ, যেন একটিমাত্র জিনিসে চড়া হচ্ছে। বাগাভী বলেন, সর্বনামটা ফিরে গেছে 'মা' শব্দের দিকে, মানে 'যাতে তোমরা চড়ো' কথাটার 'যা'-র দিকে। কুরতুবীও আবু উবাইদের বরাতে একই কথা বলেন। এরপর তিনি ফাররার ব্যাখ্যা আনেন: এখানে গোটা একটা জাতকে বোঝানো হয়েছে, তাই শব্দ একবচন হলেও অর্থ বহুবচন, যেমন সেনাবাহিনী বোঝাতে একবচন শব্দ বলা হয়। তাবারী এ প্রশ্নে বসরা ও কুফার ব্যাকরণবিদদের মত বিস্তারিত তুলে ধরেছেন।"
+          },
+          {
+            "en": "Whose backs, then? Here two commentators part. Al-Qurtubi holds that the backs are the camels' in particular, because a ship is ridden in its belly; the verse named both mounts at its start and tied its end to one of them. He allows a second possibility as well: that a ship's inside may be called its back, since the water covers its outer hull and its inner deck lies open to the eye. As-Sa'di, as above, reads the backs as those of ships and livestock alike. Both readings stand.",
+            "bn": "তাহলে কার পিঠ? এখানে দুজন মুফাসসিরের পথ আলাদা হয়ে যায়। কুরতুবীর মতে এখানে পিঠ বলতে বিশেষভাবে উটের পিঠ বোঝানো হয়েছে। কারণ নৌকায় চড়া হয় তার পেটের ভেতরে। আয়াতের শুরুতে দুটো বাহনেরই নাম এসেছে, আর শেষটা জোড়া হয়েছে তার একটির সঙ্গে। তবে তিনি আরেকটা সম্ভাবনাও রাখেন। নৌকার বাইরের খোল পানিতে ঢাকা থাকে, আর ভেতরটা চোখের সামনে খোলা থাকে, তাই ভেতরটাকেই তার পিঠ বলা যায়। সা'দী অবশ্য, যেমনটা আগে এসেছে, পিঠ বলতে নৌযান ও পশু দুটোকেই ধরেন। দুটো ব্যাখ্যাই এখানে রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks Timed to the Saddle",
+          "bn": "জিনে বসেই শোকর"
+        },
+        "p": [
+          {
+            "en": "Thumma tadhkuru ni'mata rabbikum idha stawaytum 'alayh: then remember your Lord's favour when you have settled on it. At-Tabari names the favour as that which He gave by making these things subject to you as mounts on land and sea, so that you magnify Him and glorify Him. Al-Baghawi and Ibn Kathir tie it to the same subjecting. Al-Qurtubi defines the remembering itself: it is praise of Allah for making this subject to us on land and sea.",
+            "bn": "সুম্মা তাযকুরূ নি'মাতা রাব্বিকুম ইযাসতাওয়াইতুম আলাইহি: তারপর যখন এর উপর স্থির হয়ে বসবে, তোমাদের রবের অনুগ্রহ স্মরণ করবে। অনুগ্রহটা কী, তাবারী তা স্পষ্ট করেন। স্থলে ও সাগরে এগুলোকে তিনি তোমাদের বাহন বানিয়ে বশ করে দিয়েছেন, এটাই সেই অনুগ্রহ। আর স্মরণের উদ্দেশ্য, তোমরা যেন তাঁর বড়ত্ব ঘোষণা করো, তাঁর মহিমা গাও। বাগাভী আর ইবন কাসীরও একে জুড়েছেন এই বশ করে দেওয়ার সঙ্গেই। কুরতুবী স্মরণ করাটার সংজ্ঞা দেন: স্থলে ও জলে এগুলো আমাদের বশ করে দেওয়ার জন্য আল্লাহর হামদ করা।"
+          },
+          {
+            "en": "As-Sa'di explains the remembering as acknowledging the favour to the One who made it subject, and praising Him for it. Then he draws the purpose of the passage: the Lord described here as pouring favours on His servants is the One who deserves to be worshipped, prayed to and bowed down to. Al-Muyassar ends on the same point, that Allah who bestows every kind of favour on His servants is the One deserving worship in every state. The ride, on this reading, is an argument for His sole right to worship.",
+            "bn": "সা'দীর ব্যাখ্যায় স্মরণ মানে, যিনি বশ করে দিয়েছেন, অনুগ্রহটা যে তাঁরই তা স্বীকার করা এবং এর জন্য তাঁর প্রশংসা করা। তারপর তিনি গোটা অংশের উদ্দেশ্য বের করে আনেন। যে রব এখানে বান্দাদের উপর অনুগ্রহ ঢেলে দেওয়ার গুণে পরিচিত, ইবাদত, নামায আর সিজদা পাওয়ার হকদার তিনিই। মুয়াসসারও একই কথায় শেষ করে: যে আল্লাহ বান্দাদের নানা রকম নিয়ামত দেন, প্রতিটি অবস্থায় ইবাদতের হকদার তিনিই। এ পাঠে সওয়ারিটা শুধু আরাম নয়। এটা এক দলিল যে ইবাদত একমাত্র তাঁর প্রাপ্য।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an turns the clause towards the rider's inner state. A sensible, alert person, it says, should not show carelessness, or behave as if he had no need of divine help, while he enjoys what the true Benefactor gives. He should own it as Allah's gift, which obliges him to be grateful and to show his own weakness and humility. It adds that whoever makes a habit of the supplications taught for rising, sitting and walking finds that his permissible daily activities turn into acts of worship.",
+            "bn": "মাআরিফুল কুরআন বাক্যটাকে আরোহীর মনের দিকে ফিরিয়ে দেয়। তার কথা হলো, বুদ্ধিমান ও সজাগ মানুষ প্রকৃত দাতার দেওয়া নিয়ামত ভোগ করতে গিয়ে উদাসীন হয় না। এমন ভাবও দেখায় না যে আল্লাহর সাহায্যের তার দরকার নেই। সে স্বীকার করে, এটা আল্লাহর দান। এ দান তাকে শোকরগুজার হতে বলে, নিজের অক্ষমতা আর বিনয় প্রকাশ করতে বলে। মাআরিফ আরও বলে, ওঠা, বসা, হাঁটার জন্য শেখানো দোয়াগুলো যে অভ্যাসে পরিণত করে, তার দৈনন্দিন বৈধ কাজগুলোও ইবাদত হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glory Set Against Partners",
+          "bn": "শরিকের জবাবে তাসবীহ"
+        },
+        "p": [
+          {
+            "en": "Wa-taqulu subhana-lladhi sakhkhara lana hadha: and say, Glory to Him who has made this subject to us. Al-Baghawi and al-Qurtubi gloss sakhkhara with dhallala, made it docile, and al-Qurtubi names what is meant: this mount. He also records a reading attributed to 'Ali ibn Abi Talib, subhana man sakhkhara lana hadha, with man in place of alladhi, both meaning He who. At-Tabari reads the glorification as tanzih: declaring Allah, who subjected these ships and livestock to us, free of what the associators say of Him and of the idols they join with Him in worship.",
+            "bn": "ওয়া তাকূলূ সুবহানাল্লাযী সাখখারা লানা হাযা: আর বলো, পবিত্র তিনি, যিনি একে আমাদের বশ করে দিয়েছেন। বাগাভী ও কুরতুবী সাখখারা শব্দের অর্থ করেন যাল্লালা, অর্থাৎ পোষ মানিয়ে দিয়েছেন। কুরতুবী বলে দেন 'এটা' মানে এই বাহন। তিনি আলী ইবন আবী তালিব (রাঃ)-এর নামে প্রচলিত একটি কিরাআতও উল্লেখ করেন: সুবহানা মান সাখখারা লানা হাযা। এখানে আল্লাযীর জায়গায় মান এসেছে, অর্থ দুটোরই 'যিনি'। তাবারী এ তাসবীহকে পড়েন তানযীহ হিসেবে। যিনি এই নৌযান আর পশুগুলো আমাদের বশ করে দিয়েছেন, মুশরিকরা তাঁর সম্পর্কে যা বলে, আর ইবাদতে তাঁর সঙ্গে যে মূর্তিগুলোকে শরিক করে, সে সব থেকে তাঁকে পবিত্র ঘোষণা করা।"
+          },
+          {
+            "en": "The surah's own next lines show why that reading fits. 43:15 says that they have assigned to Him a portion of His own servants, and that man is plainly ungrateful; 43:16 to 43:19 then take up the claim that the angels are His daughters. The rider's glorification comes just before that charge, as its answer. Al-Muyassar, for its part, renders the words as al-hamdu lillah, praise be to Allah who made this subject to us.",
+            "bn": "সূরার পরের আয়াতগুলোই দেখিয়ে দেয়, তাবারীর এ পাঠ কেন খাপ খায়। ৪৩:১৫ বলে, তারা আল্লাহর বান্দাদের মধ্য থেকে কিছু অংশ তাঁর জন্য সাব্যস্ত করেছে, আর মানুষ স্পষ্টই অকৃতজ্ঞ। এরপর ৪৩:১৬ থেকে ৪৩:১৯ পর্যন্ত আসে ফেরেশতাদের তাঁর কন্যা বলার দাবির কথা। আরোহীর তাসবীহ ঠিক সেই অভিযোগের আগে দাঁড়িয়ে তার জবাব হয়ে আছে। মুয়াসসার আবার কথাগুলোর অর্থ করে আলহামদু লিল্লাহ দিয়ে: সমস্ত প্রশংসা আল্লাহর, যিনি একে আমাদের বশ করে দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Muqrinin: Never Its Match",
+          "bn": "মুকরিনীন: আমরা এর সমকক্ষ নই"
+        },
+        "p": [
+          {
+            "en": "Wa ma kunna lahu muqrinin: and we could not have mastered it. Ibn Kathir glosses muqrinin as muqawimin, able to stand against it: had Allah not made this subject to us, we would have had no power over it. He reports from Ibn 'Abbas, Qatadah, as-Suddi and Ibn Zayd the gloss mutiqin, able to manage it. At-Tabari combines two words, neither able for it nor in control of it, and traces the root: aqrantu li-hadha is said by someone who has become its qirn, its match, and can handle it.",
+            "bn": "ওয়া মা কুন্না লাহূ মুকরিনীন: আর আমরা একে আয়ত্তে আনতে পারতাম না। ইবন কাসীর মুকরিনীনের অর্থ করেন মুকাউইমীন, অর্থাৎ এর মোকাবেলায় দাঁড়াতে সক্ষম। আল্লাহ যদি একে আমাদের বশ না করতেন, এর উপর আমাদের কোনো ক্ষমতা থাকত না। ইবন আব্বাস, কাতাদা, সুদ্দী ও ইবন যাইদ থেকে তিনি অর্থ আনেন মুতীকীন, মানে সামলাতে সক্ষম। তাবারী দুটি শব্দ একসঙ্গে বলেন: আমরা এর জন্য সক্ষমও ছিলাম না, এর নিয়ন্ত্রকও ছিলাম না। তিনি শব্দের মূলও দেখান। কেউ কোনো কিছুর কিরন, অর্থাৎ সমকক্ষ হয়ে উঠলে এবং তা সামলাতে পারলে আরবরা বলে, আকরানতু লিহাযা।"
+          },
+          {
+            "en": "At-Tabari's reports give the gloss a voice. Qatadah says: no, by Allah, neither by our hands nor by our strength. Ibn Zayd turns it into an address: we cannot manage it except through You; were it not for You, we would have had no strength over it and could not have borne it. The commentators then differ in shade. Al-Qurtubi gives mutiqin as the view of Ibn 'Abbas and al-Kalbi, and dabitin, keeping it in check, as that of al-Akhfash and Abu 'Ubayda. Al-Baghawi gives mutiqin first and adds, it is said, dabitin.",
+            "bn": "তাবারীর বর্ণনাগুলোয় এই অর্থ যেন মুখে উচ্চারিত হয়। কাতাদা বলেন: না, আল্লাহর কসম, না আমাদের হাতে, না আমাদের শক্তিতে। ইবন যাইদ একে ডাকের ভাষায় বলেন: তোমার সাহায্য ছাড়া আমরা একে সামলাতে পারি না। তুমি না থাকলে এর উপর আমাদের কোনো জোর থাকত না, একে বয়েও নিতে পারতাম না। এরপর মুফাসসিরদের মধ্যে অর্থের সূক্ষ্ম তফাত দেখা যায়। কুরতুবী বলেন, মুতীকীন অর্থটা ইবন আব্বাস ও কালবীর মত। আর দাবিতীন, অর্থাৎ বাগে রাখতে সক্ষম, এটা আখফাশ ও আবু উবাইদার মত। বাগাভী আগে মুতীকীন বলেন, তারপর 'বলা হয়' কথাটি জুড়ে দাবিতীন আনেন।"
+          },
+          {
+            "en": "Al-Qurtubi adds a third view, that muqrinin means equals in might and strength, from the saying he is so-and-so's qirn. He relays Ibn as-Sikkit's two accounts of the word's origin: either from iqran, being able, as if one had put the thing in a qarn, a rope, and tied it fast; or from yoking one beast to another on the march. He notes too that a muqrin is also a man overwhelmed by his property, with camels or sheep and no one to help him. As-Sa'di closes the clause: by His kindness and generosity Allah subjected them, made them docile, and made their means easy.",
+            "bn": "কুরতুবী তৃতীয় একটি মতও আনেন। মুকরিনীন মানে শক্তি ও সামর্থ্যে সমান, যেমন বলা হয়, সে অমুকের কিরন। ইবনুস সিক্কীত শব্দটির উৎস নিয়ে দুটো ব্যাখ্যা দিয়েছেন, কুরতুবী সেগুলোও তুলে আনেন। এক, ইকরান থেকে, মানে সক্ষম হওয়া, যেন কেউ জিনিসটাকে কারন অর্থাৎ রশিতে বেঁধে শক্ত করে আটকে রেখেছে। দুই, পথ চলার সময় এক পশুকে আরেক পশুর সঙ্গে জুড়ে দেওয়া থেকে। তিনি আরও জানান, মুকরিন সেই লোককেও বলে, যার উট বা ছাগল আছে কিন্তু সাহায্যকারী নেই, সম্পদই তাকে কাবু করে ফেলেছে। সা'দী এ অংশ শেষ করেন এভাবে: আপন দয়া ও উদারতায় আল্লাহ এগুলো বশ করেছেন, পোষ মানিয়েছেন, আর এগুলোর উপায়-উপকরণ সহজ করে দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Seat Close to Danger",
+          "bn": "বিপদের কিনারে বসা আসন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi asks why the words are taught at this moment. Allah taught what to say on mounting animals here, he notes, and in another verse, on the tongue of Nuh (AS), what to say on boarding ships: in the name of Allah is its sailing and its anchoring (11:41). Then he counts the risks. How many riders have had a beast stumble, shy or bolt, or have fallen from its back and died; how many have been in a ship that broke apart and drowned them.",
+            "bn": "এ কথাগুলো ঠিক এই মুহূর্তেই কেন শেখানো হলো, কুরতুবী সে প্রশ্ন তোলেন। তিনি দেখান, এখানে আল্লাহ শিখিয়েছেন পশুর পিঠে চড়ার সময় কী বলতে হবে। আর অন্য এক আয়াতে, নূহ (আঃ)-এর মুখে শিখিয়েছেন নৌকায় ওঠার সময় কী বলতে হবে: আল্লাহর নামে এর চলা এবং এর থামা (১১:৪১)। তারপর তিনি ঝুঁকিগুলো গোনেন। কত আরোহীর পশু হোঁচট খেয়েছে, ভয় পেয়ে বেঁকে বসেছে বা ছুটে পালিয়েছে, কত জন পিঠ থেকে পড়ে মারা গেছে। কত যাত্রী নৌকায় ছিল, নৌকা ভেঙে তারা ডুবে গেছে।"
+          },
+          {
+            "en": "Riding, he reasons, brings a person into contact with the causes of death. So at that moment he is told not to forget his own day: that he will die and return to Allah, with no escape from His decree. He should keep this in heart and on tongue, ready to meet Allah, having set himself right, and wary that this very ride may be, in Allah's knowledge, the cause of his death while he is unaware of it.",
+            "bn": "কুরতুবীর যুক্তি হলো, সওয়ারিতে চড়া মানে মৃত্যুর নানা কারণের কাছাকাছি চলে যাওয়া। তাই ঠিক সেই মুহূর্তে তাকে বলা হচ্ছে নিজের দিনটার কথা ভুলো না। একদিন সে মারা যাবে, আল্লাহর কাছে ফিরে যাবে, তাঁর ফয়সালা থেকে পালানোর কোনো পথ নেই। এ কথা সে অন্তরে রাখবে, মুখেও রাখবে। নিজেকে শুধরে নিয়ে আল্লাহর সাক্ষাতের জন্য তৈরি থাকবে। আর সতর্ক থাকবে, আল্লাহর জ্ঞানে হয়তো এই সফরটাই তার মৃত্যুর কারণ, অথচ সে টেরও পাচ্ছে না।"
+          },
+          {
+            "en": "He then relays two stories in which the verse's own word comes back as a boast. From Sulayman ibn Yasar, through al-Mawardi: a party on a journey said the verse whenever they mounted, but one man, on a she-camel so thin she would not stir, said, as for me, I am muqrin for this one; she bucked and broke his neck. A second, through Ibn al-'Arabi, has a Bedouin say the same of his young camel, with the same end. They are anecdotes, not hadith. After them comes the remark that a servant should not drop these words, though saying them aloud is not obligatory.",
+            "bn": "এরপর কুরতুবী দুটো ঘটনা আনেন, যেখানে আয়াতেরই শব্দটা অহংকারের বুলি হয়ে ফিরে আসে। প্রথমটা সুলাইমান ইবন ইয়াসার থেকে, মাওয়ার্দীর সূত্রে। এক কাফেলা সফরে ছিল, সওয়ারিতে উঠলেই তারা আয়াতটি পড়ত। তাদের একজন ছিল এমন এক উটনীর পিঠে, যেটা এত রোগা যে নড়তেই চাইত না। লোকটা বলল, আমি তো এটার জন্য মুকরিন। উটনী লাফিয়ে উঠে তাকে ফেলে দিল, তার ঘাড় ভেঙে গেল। দ্বিতীয়টা ইবনুল আরাবীর সূত্রে: এক বেদুইন তার বাচ্চা উট সম্পর্কে একই কথা বলেছিল, পরিণামও একই। এগুলো ঘটনা, হাদীস নয়। এরপর বলা হয়, বান্দার এ কথাগুলো ছেড়ে দেওয়া উচিত নয়, যদিও মুখে বলা ফরজ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Road After This Road",
+          "bn": "এই পথের পরের পথ"
+        },
+        "p": [
+          {
+            "en": "The rider's words do not stop at the end of 43:13. The next verse completes them: wa inna ila rabbina la-munqalibun, and to our Lord we will surely return. At-Tabari, on 43:14, reads it as a further thing they are to say: that after our death we are going to Him and returning. Al-Muyassar gives the same sense. The ride that has only just begun is already followed by the last return.",
+            "bn": "আরোহীর কথাগুলো ৪৩:১৩-এর শেষে এসে থামে না। পরের আয়াত সেগুলো পূর্ণ করে: ওয়া ইন্না ইলা রাব্বিনা লামুনকালিবূন, আর আমরা অবশ্যই আমাদের রবের কাছে ফিরে যাব। ৪৩:১৪-এর ব্যাখ্যায় তাবারী একে পড়েন আরও একটি কথা হিসেবে, যা তাদের বলতে বলা হয়েছে: মৃত্যুর পর আমরা তাঁর দিকেই চলেছি, তাঁর কাছেই ফিরছি। মুয়াসসারও একই অর্থ দেয়। যে সফর সবে শুরু হলো, তার ঠিক পেছনেই এসে দাঁড়ায় শেষ ফিরে যাওয়া।"
+          },
+          {
+            "en": "Ibn Kathir names the link. To Him, he says, is our greatest journey, sayruna al-akbar. This belongs to a pattern in which the journey of this world is used to draw attention to the journey of the Hereafter. He gives two parallels: worldly provision points to the provision of the Hereafter in take provision, and the best provision is taqwa (2:197), and worldly clothing to the clothing of the Hereafter in the raiment of taqwa, that is better (7:26). Al-Qurtubi's reasoning arrives at the same place from the side of danger: the mount may carry its rider to his death.",
+            "bn": "ইবন কাসীর সম্পর্কটা নাম ধরে বলেন। তাঁর ভাষায়, তাঁর দিকেই আমাদের সবচেয়ে বড় সফর, সাইরুনাল আকবার। কুরআনের একটা ধারা আছে, যেখানে দুনিয়ার সফর দেখিয়ে আখিরাতের সফরের দিকে মনোযোগ ফেরানো হয়। এটা সেই ধারারই অংশ। তিনি দুটি মিল দেখান। দুনিয়ার পাথেয় আখিরাতের পাথেয়ের কথা মনে করায়: পাথেয় সঙ্গে নাও, আর সবচেয়ে ভালো পাথেয় তাকওয়া (২:১৯৭)। দুনিয়ার পোশাক মনে করায় আখিরাতের পোশাক: আর তাকওয়ার পোশাক, সেটাই উত্তম (৭:২৬)। কুরতুবী একই জায়গায় পৌঁছান বিপদের দিক থেকে: বাহনটাই হয়তো আরোহীকে তার মৃত্যুর দিকে নিয়ে যাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "'Ali in the Stirrup",
+          "bn": "রিকাবে আলী (রাঃ)-এর পা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and Ibn Kathir both bring a report of these words in use. In the wording of Jami' at-Tirmidhi (3446), 'Ali ibn Rabi'ah said: I witnessed 'Ali when an animal was brought to him to ride. When he placed his foot in the stirrup he said, In the name of Allah, three times. When he had settled on its back he said, Praise be to Allah. Then he said: Glory to Him who has made this subject to us, and we could not have mastered it; and to our Lord we will surely return.",
+            "bn": "এ কথাগুলো বাস্তবে কীভাবে বলা হতো, কুরতুবী ও ইবন কাসীর দুজনেই তার একটি বর্ণনা আনেন। জামে তিরমিযীর (৩৪৪৬) ভাষায়, আলী ইবন রাবীআ বলেন: আমি উপস্থিত ছিলাম, যখন আলী (রাঃ)-এর কাছে চড়ার জন্য একটি পশু আনা হলো। রিকাবে পা রেখে তিনি তিনবার বললেন, বিসমিল্লাহ। পিঠে ঠিকমতো বসে বললেন, আলহামদু লিল্লাহ। তারপর বললেন: পবিত্র তিনি, যিনি একে আমাদের বশ করে দিয়েছেন, আমরা একে আয়ত্তে আনতে পারতাম না। আর আমরা অবশ্যই আমাদের রবের কাছে ফিরে যাব।"
+          },
+          {
+            "en": "Then he said Praise be to Allah three times and Allah is greatest three times: Glory be to You, I have wronged myself, so forgive me, for none forgives sins but You. Then he laughed. I said: What made you laugh, O Commander of the Believers? He said: I saw the Messenger of Allah ﷺ do as I did, then he laughed, and I said: What made you laugh, O Messenger of Allah? He said: Your Lord delights in His servant when he says, My Lord, forgive me my sins; none forgives sins but You. At-Tirmidhi graded it hasan sahih.",
+            "bn": "এরপর তিনি তিনবার আলহামদু লিল্লাহ আর তিনবার আল্লাহু আকবার বললেন: তুমি পবিত্র, আমি নিজের উপর জুলুম করেছি, আমাকে মাফ করো, তুমি ছাড়া কেউ গুনাহ মাফ করে না। তারপর তিনি হাসলেন। আমি বললাম, আমীরুল মুমিনীন, আপনি হাসলেন কেন? তিনি বললেন: আমি রাসূলুল্লাহ ﷺ-কে ঠিক এমন করতে দেখেছি, তারপর তিনি হেসেছিলেন। আমি বলেছিলাম, হে আল্লাহর রাসূল, আপনি হাসলেন কেন? তিনি বলেছিলেন: তোমার রব তাঁর বান্দার উপর খুশি হন, যখন সে বলে, হে আমার রব, আমার গুনাহ মাফ করো, তুমি ছাড়া কেউ গুনাহ মাফ করে না। তিরমিযী একে হাসান সহীহ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise Before the Formula",
+          "bn": "মুখস্থ বুলির আগে হামদ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records how the early generations kept the words from going stale. Abu Mijlaz said the verse on mounting, and a man of the Prophet's household, whom Sufyan named as al-Hasan ibn 'Ali, asked whether that was how he had been told. Say first, he said: praise be to Allah who guided us to Islam, who favoured us with Muhammad ﷺ, who placed us in the best community; then you have remembered great favours, and then the verse. Tawus would begin: O Allah, this is from Your grace and bounty.",
+            "bn": "প্রথম যুগের মানুষেরা কথাগুলোকে কীভাবে প্রাণবন্ত রাখতেন, তাবারী তা লিখে রেখেছেন। আবু মিজলায সওয়ারিতে উঠে আয়াতটি পড়লেন। নবী ﷺ-এর পরিবারের এক ব্যক্তি শুনলেন, সুফিয়ান বলেছেন তিনি হাসান ইবন আলী (রাঃ)। তিনি জিজ্ঞেস করলেন, তোমাকে কি এভাবেই বলতে বলা হয়েছে? আগে বলো: সমস্ত প্রশংসা আল্লাহর, যিনি আমাদের ইসলামের পথ দেখিয়েছেন, মুহাম্মাদ ﷺ-কে দিয়ে আমাদের উপর অনুগ্রহ করেছেন, আর আমাদের শ্রেষ্ঠ উম্মতের অন্তর্ভুক্ত করেছেন। এতে তুমি বড় বড় নিয়ামত স্মরণ করলে, এরপর আয়াতটি পড়ো। তাউস শুরু করতেন এভাবে: হে আল্লাহ, এটা তোমার অনুগ্রহ ও দান।"
+          },
+          {
+            "en": "Few readers now mount a camel, but the moment the verse marks still comes on every journey: the seat is found and something larger than us takes our weight. Ma'arif al-Qur'an holds that we could not have mastered it applies to made vehicles too, since Allah created their materials and properties and gave the mind its ability to find them. The practice is simple. Settle, name the favour, admit the weakness, glorify Him, and remember which road comes after this road.",
+            "bn": "আজকাল খুব কম পাঠকই উটের পিঠে চড়েন। কিন্তু আয়াতটি যে মুহূর্তটা চিনিয়ে দেয়, তা প্রতিটি সফরেই আসে। আসন খুঁজে বসি, আর আমাদের চেয়ে অনেক বড় কিছু আমাদের ভার তুলে নেয়। মাআরিফুল কুরআনের মতে, 'আমরা একে আয়ত্তে আনতে পারতাম না' কথাটা মানুষের বানানো বাহনের বেলায়ও খাটে। কারণ এগুলোর উপাদান আর সেগুলোর গুণাগুণ আল্লাহই সৃষ্টি করেছেন, আর সেগুলো খুঁজে বের করার বুদ্ধিও তিনিই দিয়েছেন। কাজটা সহজ। বসে থিতু হোন, অনুগ্রহের কথা মুখে আনুন, নিজের অক্ষমতা স্বীকার করুন, তাঁর পবিত্রতা ঘোষণা করুন। আর মনে রাখুন, এই পথের পরে কোন পথ আসছে।"
+          }
+        ]
+      }
+    ]
+  },
   "43:22": {
     "sections": [
       {
