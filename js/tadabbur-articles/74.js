@@ -1759,6 +1759,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "74:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "Bolting Herd, Then Bal",
+          "bn": "পালানো পাল, তারপর বাল"
+        },
+        "p": [
+          {
+            "en": "The passage just before this verse asks a question and answers it with a picture. What is the matter with them, that they turn away from the reminder (74:49), as if they were alarmed donkeys fleeing from a qaswarah (74:50 and 74:51)? Ma'arif al-Qur'an, commenting on the whole group, says the reminder here is the Qur'an, as 74:54 makes explicit. It adds that qaswarah carries two meanings, a lion or an archer and hunter, and that both are reported from the Companions. Either way, the herd bolts from what it takes for a threat.",
+            "bn": "এই আয়াতের ঠিক আগের অংশ একটা প্রশ্ন তোলে, তারপর জবাব দেয় একটা ছবি এঁকে। তাদের হলো কী যে উপদেশ থেকে মুখ ফিরিয়ে নিচ্ছে (৭৪:৪৯)? তারা যেন ভয়ে দিশেহারা গাধার পাল, কাসওয়ারা থেকে পালাচ্ছে (৭৪:৫০ ও ৭৪:৫১)। মাআরিফুল কুরআন পুরো আয়াতগুচ্ছের আলোচনায় বলে, এখানে উপদেশ মানে কুরআন, ৭৪:৫৪ আয়াত নিজেই তা খুলে বলেছে। কাসওয়ারা শব্দের দুটি অর্থ সেখানে উল্লেখ আছে: সিংহ, অথবা তীরন্দাজ ও শিকারি। দুটিই সাহাবিদের থেকে বর্ণিত। যে অর্থই নিন, পালটা ছুটছে এমন কিছু থেকে, যাকে সে বিপদ ভাবছে।"
+          },
+          {
+            "en": "Then comes bal, rather, and the verse turns from how they fled to what they were after. At-Tabari draws the line plainly. What keeps these idolaters turning from this Qur'an, he says, is not that they do not know it comes from Allah. It is that every man among them wants a book from heaven sent down to him. The flight looked like fright. The verse names a demand underneath it, and the demand is personal: not one book for all, but one for each.",
+            "bn": "তারপর আসে বাল, অর্থাৎ বরং। এখান থেকে আয়াতটি তাদের পালানোর ধরন ছেড়ে তাদের আসল চাওয়ার দিকে ফেরে। তাবারী রেখাটা স্পষ্ট টেনে দেন। তাঁর ব্যাখ্যায়, এই মুশরিকরা কুরআন থেকে মুখ ফিরিয়ে আছে এ কারণে নয় যে তারা জানে না এটা আল্লাহর কাছ থেকে এসেছে। কারণ হলো, তাদের প্রত্যেকে চায় আসমান থেকে একটা কিতাব তার নিজের উপর নাজিল হোক। পালানোটা দেখাচ্ছিল ভয়ের মতো। আয়াত তার নিচে লুকানো দাবিটা সামনে আনে, আর দাবিটা একান্ত ব্যক্তিগত: সবার জন্য একটি কিতাব নয়, প্রত্যেকের জন্য আলাদা একটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Man, His Own Book",
+          "bn": "প্রত্যেকের নিজের কিতাব"
+        },
+        "p": [
+          {
+            "en": "The wording keeps the demand individual. Kullu imri'in minhum: every single man of them, with a singular noun, so the wish belongs to each person and not only to the crowd. Yu'ta is passive, to be given, and what he wants given is suhufan munashsharah, sheets spread open. Ibn Kathir explains the clause this way: every one of these idolaters wants a book sent down to him, as one was sent down to the Prophet ﷺ. He names Mujahid and others as holding this reading.",
+            "bn": "শব্দগুলো দাবিটাকে প্রত্যেকের ব্যক্তিগত করে রাখে। কুল্লু ইমরিইন মিনহুম: তাদের প্রত্যেকটি লোক। বিশেষ্যটি একবচন, তাই চাওয়াটা কেবল ভিড়ের নয়, প্রতিটি মানুষের নিজের। ইউতা কর্মবাচ্য, অর্থাৎ তাকে দেওয়া হোক। আর যা সে পেতে চায় তা হলো সুহুফান মুনাশশারা, খুলে মেলে ধরা পাতা। ইবন কাসীর বাক্যটির ব্যাখ্যা দেন এভাবে: এই মুশরিকদের প্রত্যেকে চায় তার উপর একটা কিতাব নাজিল হোক, যেমন নবী ﷺ-এর উপর নাজিল হয়েছে। এ ব্যাখ্যা তিনি মুজাহিদ ও অন্যদের বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside 6:124: when a sign comes to them, they say, never will we believe until we are given the like of what the messengers of Allah were given. Al-Muyassar uses a sharper verb than want. Yatma'u, it says: each of them covets that Allah send down upon him a book from the sky, spread open, as He sent one down upon Muhammad ﷺ. On this reading the wish is not simply to read a revelation but to be its recipient, standing where the Messenger stands.",
+            "bn": "ইবন কাসীর আয়াতটিকে ৬:১২৪-এর পাশে রাখেন। সেখানে বলা হয়েছে, তাদের কাছে কোনো নিদর্শন এলে তারা বলে, আল্লাহর রসূলদের যা দেওয়া হয়েছে তেমনটা আমাদের না দেওয়া পর্যন্ত আমরা কিছুতেই ঈমান আনব না। মুয়াসসার এখানে চাওয়ার চেয়ে কড়া একটা ক্রিয়া বেছে নেয়: ইয়াতমাউ, অর্থাৎ লোভ করে। তাদের প্রত্যেকে লালায়িত, আল্লাহ যেন আসমান থেকে খোলা একটা কিতাব তার উপর নাজিল করেন, যেমন মুহাম্মাদ ﷺ-এর উপর করেছেন। এ ব্যাখ্যায় চাওয়াটা শুধু ওহি পড়ার নয়। চাওয়াটা নিজেই ওহির প্রাপক হওয়ার, রসূল যেখানে দাঁড়িয়ে, ঠিক সেখানে দাঁড়ানোর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spread Like Cloth, Raised Like Dead",
+          "bn": "কাপড়ের মতো মেলা, মৃতের মতো জাগা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi glosses the two key words. Suhuf are books, the plural of sahifah, a written sheet, and munashsharah means manshurah, spread out. Al-Qurtubi gives the same sense in a short phrase: to be given open books. In his comment on the next verse, al-Qurtubi also records a variant: Sa'id ibn Jubayr read the words as suhfan munsharah, with the ha and the nun left without a vowel.",
+            "bn": "বাগাভী মূল দুটি শব্দের অর্থ বলে দেন। সুহুফ মানে কিতাব, এটি সহীফার বহুবচন, সহীফা মানে লেখা পাতা। আর মুনাশশারা মানে মানশূরা, অর্থাৎ মেলে ধরা। কুরতুবীও ছোট্ট একটি কথায় একই অর্থ দেন: খোলা কিতাব দেওয়া হোক। পরের আয়াতের আলোচনায় কুরতুবী একটি ভিন্ন পাঠও উল্লেখ করেন। সাঈদ ইবন জুবাইর শব্দ দুটি পড়েছিলেন সুহফান মুনশারা, হা আর নুন দুটিই হরকতহীন।"
+          },
+          {
+            "en": "Quieting the ha, al-Qurtubi says, is only a lightening of the word. The form with the nun is irregular, because Arabic says nashartu, I spread out a cloth, and not anshartu. He then offers a way the form could still stand. The sheet may be likened to a dead thing, lifeless while folded and alive once spread, so the word follows the usage anshara Allahu al-mayyit, Allah raised the dead. The image runs both ways, he notes, since raising the dead is itself likened to spreading a cloth.",
+            "bn": "কুরতুবী বলেন, হা-কে হরকতহীন করা শুধু উচ্চারণ হালকা করা। কিন্তু নুনের রূপটি বিরল, কারণ আরবিতে বলা হয় নাশারতুস সাওবা, আমি কাপড় মেলে দিলাম, আনশারতু বলা হয় না। তারপর তিনি দেখান, রূপটি তবু কীভাবে টিকতে পারে। পাতাকে মৃতের সঙ্গে তুলনা করা যায়: ভাঁজ করা অবস্থায় যেন প্রাণহীন, মেলে ধরলে প্রাণ ফিরে পায়। তখন শব্দটি আনশারাল্লাহুল মাইয়িত, আল্লাহ মৃতকে জীবিত করলেন, এই ব্যবহারের পথ ধরে। তুলনাটা দুই দিকেই চলে, কারণ মৃতকে জীবিত করাকেও কাপড় মেলে দেওয়ার সঙ্গে তুলনা করা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To So-and-So, From the Lord",
+          "bn": "অমুকের প্রতি, রবের পক্ষ থেকে"
+        },
+        "p": [
+          {
+            "en": "What would such a scroll say? The commentators relay several answers, and the first is a letter with a name on it. In at-Tabari, by his chain to Mujahid, the scroll was to read: to so-and-so, from the Lord of the worlds. Al-Qurtubi gives Mujahid's words more fully: they wanted a book sent down to each one of them in which Allah, Mighty and Majestic, had written, to so-and-so son of so-and-so. Each man wanted to be the addressee, not one listener among many.",
+            "bn": "এমন লিপিতে কী লেখা থাকত? তাফসীরকারেরা কয়েকটি জবাব বর্ণনা করেন। প্রথম জবাব: নাম লেখা একটা চিঠি। তাবারী নিজের সনদে মুজাহিদ থেকে আনেন, লিপিতে লেখা থাকবে: অমুকের প্রতি, জগতসমূহের রবের পক্ষ থেকে। কুরতুবী মুজাহিদের কথাটা আরেকটু পূর্ণ করে দেন। তারা চেয়েছিল তাদের প্রত্যেকের উপর এমন কিতাব নামুক, যাতে মহান আল্লাহ লিখে দিয়েছেন: অমুকের ছেলে অমুকের প্রতি। প্রত্যেকে চাইছিল চিঠির প্রাপক হতে, অনেক শ্রোতার একজন হয়ে থাকতে নয়।"
+          },
+          {
+            "en": "Qatada, by at-Tabari's chain, puts the demand into their mouths. Some people said, he reports: O Muhammad, if it would please you that we follow you, bring us a writing addressed especially to so-and-so and so-and-so, in which we are commanded to follow you. Al-Qurtubi names the speakers in his own account: Abu Jahl and a group of Quraysh, who said, bring us books from the Lord of the worlds with these words written in them, I have sent Muhammad to you.",
+            "bn": "তাবারীর সনদে কাতাদা দাবিটা তাদের নিজেদের ভাষায় তুলে ধরেন। কিছু লোক বলেছিল: হে মুহাম্মাদ, আমরা তোমার অনুসরণ করি, এটা যদি তোমার ভালো লাগে, তবে অমুক আর অমুকের নামে আলাদা করে একটা লিপি এনে দাও, যাতে আমাদের হুকুম দেওয়া থাকবে তোমার অনুসরণ করতে। কুরতুবী নিজের বর্ণনায় বক্তাদের নাম বলেন: আবু জাহল ও কুরাইশের একদল লোক। তারা বলেছিল, জগতসমূহের রবের পক্ষ থেকে আমাদের জন্য এমন কিতাব আনো, যাতে লেখা থাকবে: আমি মুহাম্মাদকে তোমাদের কাছে রসূল করে পাঠিয়েছি।"
+          },
+          {
+            "en": "Al-Baghawi gathers the same account under the words the commentators said: the unbelievers of Quraysh told the Messenger of Allah ﷺ, let there be at the head of each man of us, by morning, a spread-open writing from Allah that you are His messenger, commanding us to follow you. These are reports the commentators relay about what was said. At-Tabari gives chains to Qatada and Mujahid; the others here give none. None of the commentaries fetched for this verse attaches a hadith to it.",
+            "bn": "বাগাভী একই ঘটনা আনেন 'তাফসীরকারেরা বলেছেন' কথাটির অধীনে। কুরাইশের কাফিররা রসূলুল্লাহ ﷺ-কে বলেছিল, সকালে উঠে আমাদের প্রত্যেকে যেন মাথার কাছে আল্লাহর পক্ষ থেকে খোলা একটা লিপি পায়, যাতে লেখা থাকবে তুমি তাঁর রসূল, আর আমাদের হুকুম দেওয়া থাকবে তোমার অনুসরণ করতে। এগুলো তাফসীরকারদের বর্ণনা, কী বলা হয়েছিল তার বিবরণ। তাবারী কাতাদা ও মুজাহিদ পর্যন্ত সনদ দেন, এখানকার বাকিরা কোনো সনদ দেন না। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Acquittal With No Deeds",
+          "bn": "আমল ছাড়াই মুক্তির সনদ"
+        },
+        "p": [
+          {
+            "en": "A second line of reading changes what the scroll would certify, from a mission to an acquittal. Al-Qurtubi cites Ibn Abbas (RA): they used to say that if Muhammad were truthful, let each man of us wake to find beside him a sheet carrying his bara'ah, his release, and his safety from the Fire. On this report the sheet would vouch not for the Prophet ﷺ but for its holder. The proof they asked for was proof that they themselves were safe.",
+            "bn": "দ্বিতীয় এক ধারার ব্যাখ্যায় লিপির বিষয়বস্তুই বদলে যায়: রিসালাতের সাক্ষ্য নয়, মুক্তির সনদ। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন: তারা বলত, মুহাম্মাদ যদি সত্যবাদী হয়, তবে সকালে আমাদের প্রত্যেকের কাছে যেন একটা পাতা থাকে, যাতে তার বারাআত, অর্থাৎ দায়মুক্তি, আর জাহান্নাম থেকে নিরাপত্তা লেখা থাকবে। এ বর্ণনায় পাতাটা নবী ﷺ-এর পক্ষে সাক্ষ্য দেয় না, সাক্ষ্য দেয় যে পাতা হাতে পেল তার পক্ষে। তারা যে প্রমাণ চাইছিল, তা ছিল নিজেদের নিরাপদ থাকার প্রমাণ।"
+          },
+          {
+            "en": "Qatada, in a second remark that both at-Tabari and Ibn Kathir carry, says it in a few words: they want to be given an acquittal without deeds, bara'ah bi-ghayri 'amal. Al-Qurtubi quotes Matar al-Warraq to the same effect: they wanted to be given it without deeds. Here the demand turns inward. A release that arrives overnight asks nothing of the one who holds it. It needs no prayer, no repentance and no change of conduct, only a sheet with his name.",
+            "bn": "কাতাদার আরেকটি কথা তাবারী ও ইবন কাসীর দুজনেই এনেছেন। অল্প কথায় তিনি বলেন: তারা চায় আমল ছাড়াই দায়মুক্তির সনদ পেতে, বারাআতুন বিগাইরি আমাল। কুরতুবী একই মর্মে মাতার আল-ওয়াররাকের কথা আনেন: তারা চেয়েছিল আমল ছাড়াই তা পেয়ে যেতে। এখানে দাবিটা নিজের দিকে ঘুরে যায়। রাতারাতি পৌঁছে যাওয়া মুক্তিনামা যার হাতে আসে, তার কাছে কিছুই চায় না। নামাজ লাগে না, তওবা লাগে না, চালচলন বদলানোরও দরকার পড়ে না। লাগে শুধু তার নাম লেখা একটা পাতা।"
+          },
+          {
+            "en": "Al-Kalbi, quoted by both al-Qurtubi and al-Baghawi, reports a different pretext. The idolaters said: we have heard that a man of the Children of Israel would wake to find his sin and its expiation written at his head, so bring us the like. That is their claim as al-Kalbi gives it. Al-Qurtubi then adds an unnamed view that reads the scrolls as a figure for good mention, the wish to be spoken of well, and one more saying of theirs: if a person's sins are written against him, why do we not see it?",
+            "bn": "কালবীর বর্ণনা কুরতুবী ও বাগাভী দুজনেই এনেছেন, আর তাতে অজুহাতটা ভিন্ন। মুশরিকরা বলেছিল: আমরা শুনেছি, বনী ইসরাঈলের কোনো লোক সকালে উঠে মাথার কাছে তার গুনাহ আর তার কাফফারা লেখা অবস্থায় পেত, আমাদের জন্যও তেমন কিছু আনো। এটা কালবীর ভাষ্যে তাদের নিজেদের দাবি। এরপর কুরতুবী নাম ছাড়া একটি মত আনেন, যাতে লিপিকে রূপক ধরা হয় সুনামের, অর্থাৎ লোকে ভালো বলুক, এই চাওয়ার। সঙ্গে তাদের আরেকটি কথাও আনেন: মানুষের গুনাহ যদি তার নামে লেখা হয়, তবে আমরা তা দেখি না কেন?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Demand Heard Before",
+          "bn": "আগেও শোনা এক দাবি"
+        },
+        "p": [
+          {
+            "en": "The demand was not new to the Qur'an. Al-Qurtubi calls 17:93 its counterpart, where the deniers say: we will not believe in your ascent until you bring down to us a book we can read. The reply given there to the Prophet ﷺ is brief: say, exalted is my Lord, was I ever anything but a human messenger? It does not bargain over the terms they set. It states what he is, and leaves the sending of signs where it belongs.",
+            "bn": "দাবিটা কুরআনে নতুন নয়। কুরতুবী ১৭:৯৩ আয়াতকে এর সমতুল্য বলেন। সেখানে অস্বীকারকারীরা বলে: তুমি আসমানে উঠে গেলেও আমরা বিশ্বাস করব না, যতক্ষণ না আমাদের জন্য এমন কিতাব নামিয়ে আনো যা আমরা পড়তে পারি। সেখানে নবী ﷺ-কে যে জবাব শেখানো হয়, তা ছোট্ট: বলো, আমার রব পবিত্র, আমি কি একজন মানুষ রসূল ছাড়া আর কিছু? তাদের বেঁধে দেওয়া শর্ত নিয়ে এ জবাব দরকষাকষি করে না। তিনি কী, শুধু সেটুকু বলে দেয়, আর নিদর্শন পাঠানোর ভার রেখে দেয় যাঁর হাতে তা আছে, তাঁর কাছেই।"
+          },
+          {
+            "en": "The reply in 6:124, the verse Ibn Kathir sets beside ours, meets the other half of the demand, each man's wish to be given what the messengers were given: Allah knows best where to place His message. The two replies leave both the choice of messenger and the form of the message with Allah. Neither answers the demand by meeting it. Both answer it by naming who decides, and the deciding does not rest with those who ask.",
+            "bn": "ইবন কাসীর যে ৬:১২৪ আয়াতকে এর পাশে রাখেন, তার জবাব দাবির অন্য অর্ধেকের দিকে যায়। রসূলদের যা দেওয়া হয়েছে, প্রত্যেকে তা নিজে পেতে চেয়েছিল। জবাব হলো: আল্লাহই ভালো জানেন তাঁর রিসালাত কোথায় রাখবেন। দুটি জবাব মিলে রসূল বাছাইয়ের ভার আর বার্তার ধরন বেছে নেওয়ার ভার, দুটিই আল্লাহর হাতে রেখে দেয়। কোনোটিই দাবি পূরণ করে জবাব দেয় না। দুটিই জবাব দেয় সিদ্ধান্ত কার, সেটা জানিয়ে, আর সেই সিদ্ধান্ত দাবিদারের হাতে নয়।"
+          },
+          {
+            "en": "As-Sa'di reads the claim behind the demand and rejects it. Each of them, he says, alleges that he will not yield to the truth except by such a scroll sent down from heaven, and in that they lied: had every sign come to them, they would not have believed until they saw the painful punishment. His phrase about every sign follows the wording of 10:97. Clear signs had already come to them, he adds, showing the truth and making it plain; had there been any good in them, they would have believed.",
+            "bn": "সা'দী দাবির পেছনের দাবিটা পড়েন, আর তা নাকচ করেন। তিনি বলেন, তাদের প্রত্যেকে দাবি করে, আসমান থেকে এমন লিপি না নামলে সে সত্যের কাছে মাথা নোয়াবে না। এ কথায় তারা মিথ্যা বলেছে। সব নিদর্শন এসে গেলেও তারা ঈমান আনত না, যতক্ষণ না যন্ত্রণাদায়ক শাস্তি নিজের চোখে দেখত। সব নিদর্শন নিয়ে তাঁর বাক্যটি ১০:৯৭ আয়াতের শব্দ অনুসরণ করে। তিনি আরও বলেন, সত্যকে স্পষ্ট করে দেখানো সুস্পষ্ট নিদর্শন তো তাদের কাছে আগেই এসেছিল। তাদের মধ্যে কোনো কল্যাণ থাকলে তারা ঈমান আনত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Had Spoiled Them",
+          "bn": "যা তাদের নষ্ট করেছিল"
+        },
+        "p": [
+          {
+            "en": "The next verse cuts the demand off: kalla, no, rather they do not fear the Hereafter (74:53). At-Tabari spells out the refusal. The matter is not as they claim, that if they were given spread-open scrolls they would believe. They do not fear Allah's punishment, and they do not believe in the resurrection, the reward and the penalty. That, he says, is what drove them to turn from Allah's reminder, and made it easy for them to stop listening to His revelation.",
+            "bn": "পরের আয়াত দাবিটা সেখানেই থামিয়ে দেয়: কাল্লা, কক্ষনো নয়, বরং তারা আখিরাতকে ভয় করে না (৭৪:৫৩)। তাবারী এই প্রত্যাখ্যান খুলে বলেন। তারা যে দাবি করে, খোলা লিপি পেলে বিশ্বাস করত, ব্যাপারটা তেমন নয়। আসল কথা হলো, আল্লাহর শাস্তিকে তারা ভয় করে না। পুনরুত্থান, পুরস্কার আর শাস্তিতেও তারা বিশ্বাস করে না। তাঁর মতে, এটাই তাদের আল্লাহর উপদেশ থেকে মুখ ফেরাতে টেনে নিয়েছে। আর তাঁর ওহি ও নাজিলকৃত বাণী শোনা ছেড়ে দেওয়া এ কারণেই তাদের কাছে সহজ হয়ে গেছে।"
+          },
+          {
+            "en": "Qatada's line, which at-Tabari carries, names the root with one verb: what spoiled them, afsadahum, was that they did not believe in the Hereafter and did not fear it. Ibn Kathir uses the same verb: what spoiled them was their lack of faith in it and their denial that it will come. As-Sa'di is blunter about the demand itself. They meant by it nothing but ta'jiz, to set a condition that could not be met. Had they feared the Hereafter, what came from them would not have come.",
+            "bn": "কাতাদার যে কথা তাবারী এনেছেন, তা একটি ক্রিয়াতেই শিকড়টা দেখিয়ে দেয়: আফসাদাহুম, তাদের নষ্ট করেছে এই যে তারা আখিরাতে বিশ্বাস করত না, তাকে ভয়ও করত না। ইবন কাসীরও একই ক্রিয়া ব্যবহার করেন: তাদের নষ্ট করেছে আখিরাতে ঈমান না থাকা আর তা ঘটবে বলে অস্বীকার করা। দাবিটা নিয়ে সা'দী আরও সোজাসাপ্টা। তাঁর মতে, এর পেছনে তাদের উদ্দেশ্য ছিল শুধু তা'জীয, এমন শর্ত জুড়ে দেওয়া যা পূরণ করা যায় না। আখিরাতের ভয় থাকলে তাদের থেকে যা ঘটেছে, তা ঘটত না।"
+          },
+          {
+            "en": "Al-Qurtubi weighs two senses of kalla, it will not be, or truly, and prefers the first because it rebuts what they said. He then glosses the verse in Allah's voice: I will not give them what they wish for, because they do not fear the Hereafter, deluded by this world. Al-Muyassar, which treats 74:52 and 74:53 together, closes the pair the same way: the matter is not as they claimed; the truth is that they do not fear the Hereafter and do not believe in the raising and the recompense.",
+            "bn": "কুরতুবী কাল্লা শব্দের দুটি অর্থ মেপে দেখেন: এমন হবে না, অথবা নিশ্চয়ই। প্রথমটিকেই তিনি ভালো বলেন, কারণ এতে তাদের কথার জবাব হয়। তারপর আয়াতের ব্যাখ্যা দেন আল্লাহর জবানিতে: আমি তাদের মনের চাওয়া পূরণ করব না, কারণ দুনিয়ার ধোঁকায় পড়ে তারা আখিরাতকে ভয় করে না। মুয়াসসার ৭৪:৫২ ও ৭৪:৫৩ একসঙ্গে ব্যাখ্যা করে, আর জোড়াটি শেষ করে একই সুরে: তারা যেমন দাবি করেছে, ব্যাপার তেমন নয়। আসল সত্য হলো, তারা আখিরাতকে ভয় করে না, পুনরুত্থান আর প্রতিফলে বিশ্বাসও করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Record Spread Open Anyway",
+          "bn": "খোলা আমলনামা তবু আসবে"
+        },
+        "p": [
+          {
+            "en": "Read beside the rest of the Qur'an, the demand meets an answer it did not ask for. Munashsharah comes from the root n-sh-r, to spread. In 17:13 the root returns: on the Day of Resurrection each person will be brought a record which he will meet manshur, spread open, and in 17:14 he is told, read your record. And 81:10 speaks of the time when the suhuf are spread. These links are this article's own reading of the wording, not a claim made by the commentators above.",
+            "bn": "কুরআনের বাকি অংশের পাশে রেখে পড়লে দাবিটা এমন এক জবাব পায়, যা তারা চায়নি। মুনাশশারা শব্দের মূল ন-শ-র, অর্থ মেলে ধরা। ১৭:১৩ আয়াতে এই মূল আবার আসে: কিয়ামতের দিন প্রত্যেক মানুষের জন্য একটা কিতাব বের করা হবে, যা সে পাবে মানশূর অবস্থায়, অর্থাৎ খোলা। ১৭:১৪ আয়াতে তাকে বলা হয়: তোমার কিতাব পড়ো। আর ৮১:১০ আয়াত বলে সেই সময়ের কথা, যখন সুহুফ খুলে ধরা হবে। এই সংযোগগুলো এ লেখার নিজের পাঠ, ওপরে যাঁদের নাম এসেছে সেই তাফসীরকারদের দাবি নয়।"
+          },
+          {
+            "en": "The verse records what particular deniers in Makkah demanded, as the commentators name them. It licenses nothing against any living person or community, and it hands no reader a label to fix on anyone. Its use is inward. Each of us can ask what private condition we attach before acting on what we already know, and whether we treat the Qur'an as a notice for others while waiting for something addressed to ourselves. The sheet with my name on it may be the excuse I keep for not starting.",
+            "bn": "আয়াতটি বর্ণনা করে মক্কার নির্দিষ্ট কিছু অস্বীকারকারী কী দাবি করেছিল, তাফসীরকারেরা যাদের নামও বলেছেন। বর্তমানের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কারও গায়ে তকমা সেঁটে দেওয়ার কোনো হাতিয়ারও পাঠকের হাতে তুলে দেয় না। এর কাজ ভেতরের দিকে। আমরা প্রত্যেকে নিজেকে জিজ্ঞেস করতে পারি, যা আগেই জানি তার উপর আমল করার আগে কোন গোপন শর্ত জুড়ে রাখি। কুরআনকে কি অন্যদের জন্য টাঙানো নোটিশ ভাবি, আর নিজের নামে আলাদা কিছুর অপেক্ষায় থাকি? নিজের নাম লেখা সেই পাতাটাই হয়তো শুরু না করার অজুহাত।"
+          },
+          {
+            "en": "The surah's answer is already in its closing lines: no, it is a reminder, so whoever wills will remember it (74:54 and 74:55). What came was not a sheet at each man's head but one message spoken to all, and it reaches whoever hears it now. What Qatada named, a release without deeds, is the one thing no scroll could have delivered. The record that will be spread open is written by deeds, and the pages are still being filled while there is time to fill them.",
+            "bn": "সূরার জবাব তার শেষ আয়াতগুলোতেই আছে: কক্ষনো নয়, এটা তো উপদেশ, অতএব যে চায় সে তা স্মরণ করবে (৭৪:৫৪ ও ৭৪:৫৫)। যা এসেছে তা প্রত্যেকের মাথার কাছে রাখা আলাদা পাতা নয়, সবার উদ্দেশে বলা একটিই বার্তা। আজ যে তা শোনে, তার কাছেও তা পৌঁছায়। কাতাদা যার নাম দিয়েছিলেন, আমল ছাড়া মুক্তির সনদ, কোনো লিপিই তা এনে দিতে পারত না। যে আমলনামা খুলে ধরা হবে, তা লেখা হয় আমল দিয়েই। আর সময় থাকতে থাকতে তার পাতাগুলো এখনো ভরে উঠছে।"
+          }
+        ]
+      }
+    ]
+  },
   "74:56": {
     "sections": [
       {

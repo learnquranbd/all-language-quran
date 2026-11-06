@@ -29007,6 +29007,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The firmest things of this world will run like loose sand on that Day, so build on what lasts and leave those who mock to Allah.",
     "lessonBn": "দুনিয়ার সবচেয়ে মজবুত জিনিসও সেদিন আলগা বালুর মতো ঝরে পড়বে। তাই যা টিকে থাকে তার উপর গড়ুন, আর যারা ঠাট্টা করে তাদের আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "74:52": {
+    "reflectionEn": "They ran from the reminder like startled donkeys from a lion, and then said what they wanted in its place: a scroll from heaven, unrolled, with each man's own name written on it. Not a message for everyone, but a private letter, a personal pardon, a proof cut to fit. The very next verse names the real trouble: they did not fear the Hereafter. Demands like this are seldom about evidence. The reminder had already reached them, clear and open to all. Before I set my own terms for obeying, have I listened to what was already said? And one scroll is coming regardless: each person will meet his record spread open, written by his own deeds.",
+    "reflectionBn": "সিংহ দেখে ভয় পাওয়া গাধার মতো তারা উপদেশ থেকে পালিয়েছিল। তারপর মুখ খুলে জানাল, বদলে তারা কী চায়: আসমান থেকে নামা খোলা এক লিপি, যাতে প্রত্যেকের নিজের নাম লেখা থাকবে। সবার জন্য একই বার্তা নয়, চাই ব্যক্তিগত চিঠি, নিজের নামে মুক্তির সনদ, নিজের মাপে বানানো প্রমাণ। ঠিক পরের আয়াতই আসল রোগটা ধরিয়ে দেয়: আখিরাতের ভয় তাদের ছিল না। এ ধরনের দাবির পেছনে প্রমাণের খোঁজ খুব কমই থাকে। উপদেশ তো তাদের কাছে আগেই পৌঁছে গিয়েছিল, স্পষ্ট, সবার জন্য খোলা। আমি যখন আনুগত্যের আগে নিজের শর্ত জুড়ে দিই, যা আগেই বলা হয়েছে তা কি মন দিয়ে শুনেছি? আর একটা খোলা লিপি তো আসছেই: প্রত্যেকে নিজের আমলনামা খোলা অবস্থায় পাবে, যা লিখেছে তার নিজেরই কাজ।",
+    "pointsEn": [
+      "What condition have I quietly set before I will act on something I already know is true?",
+      "Do I read the Qur'an as a letter addressed to me, or as a notice meant for other people?",
+      "When I ask for one more sign, is it honest doubt speaking, or a wish to put off what I owe?",
+      "Do I hope to be safe from the Fire as a gift that needs no deeds, or am I working toward it?",
+      "If my record were spread open today, what would I want to find in it that is not there yet?"
+    ],
+    "pointsBn": [
+      "যা সত্য বলে আমি আগেই জানি, তার উপর আমল করার আগে চুপিচুপি কোন শর্ত জুড়ে রেখেছি?",
+      "কুরআন কি আমি পড়ি আমার নামে লেখা চিঠি হিসেবে, নাকি অন্য লোকদের জন্য টাঙানো নোটিশ হিসেবে?",
+      "আরেকটা নিদর্শন চাওয়ার সময় কি সত্যিকারের সন্দেহ কথা বলে, নাকি নিজের দায় পিছিয়ে দেওয়ার ইচ্ছা?",
+      "জাহান্নাম থেকে মুক্তি কি আমি আমল ছাড়াই পাওয়া উপহার ভাবি, নাকি তার জন্য খাটছি?",
+      "আজই যদি আমার আমলনামা খুলে ধরা হতো, তাতে কী দেখতে চাইতাম যা এখনো সেখানে নেই?"
+    ],
+    "lessonEn": "The Qur'an already addresses you; stop waiting for a private proof, and live as one who fears the Day his own record is spread open.",
+    "lessonBn": "কুরআন আগে থেকেই আপনাকে সম্বোধন করছে। ব্যক্তিগত প্রমাণের অপেক্ষা ছেড়ে এমনভাবে বাঁচুন, যেন সেই দিনকে ভয় করেন যেদিন আপনার আমলনামা খুলে ধরা হবে।"
   }
 };
 
