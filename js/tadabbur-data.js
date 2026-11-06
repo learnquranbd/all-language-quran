@@ -25049,6 +25049,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You would never let what you own become your equal partner; give Allah at least that much, and let no created thing share the worship and trust that are His alone.",
     "lessonBn": "নিজের মালিকানার কিছুকে আপনি কখনো সমান অংশীদার হতে দিতেন না। আল্লাহকে অন্তত এতটুকু দিন: যে ইবাদত আর ভরসা কেবল তাঁর, তাতে কোনো সৃষ্টিকে শরিক করবেন না।"
+  },
+  "30:55": {
+    "reflectionEn": "On the Day the Hour arrives, the criminals will swear they stayed no longer than an hour. A whole span of years, folded into one hour and sworn to by the name of Allah. The oath is false, and the verse says it is nothing new: thus they were turned away. The way they twist the truth on that Day is the way they twisted it here. Those given knowledge and faith answer them: you stayed as long as Allah decreed, and this is the Day of Resurrection. If all of my life will one day feel like an hour, how am I spending the hours I still have? And the habits of speech I am building now, are they the ones I want to be raised with?",
+    "reflectionBn": "যেদিন কিয়ামত সংঘটিত হবে, সেদিন অপরাধীরা কসম খেয়ে বলবে, তারা এক মুহূর্তের বেশি থাকেনি। এত বছরের থাকা গুটিয়ে আনা হলো এক মুহূর্তে, আর তার উপর আল্লাহর নামে কসম। কসমটা মিথ্যা। আয়াত বলছে, এ নতুন কিছু নয়: এভাবেই তারা সত্য থেকে ফিরে যেত। সেদিন তারা সত্যকে যেভাবে বাঁকাবে, দুনিয়াতেও ঠিক সেভাবেই বাঁকাত। যাদেরকে জ্ঞান ও ঈমান দেওয়া হয়েছিল, তারা জবাব দেবে: আল্লাহর বিধান অনুযায়ী তোমরা পুনরুত্থান দিবস পর্যন্ত থেকেছ, আর এটাই সেই পুনরুত্থান দিবস। আমার গোটা জীবন যদি একদিন এক মুহূর্ত বলে মনে হয়, তবে হাতে যে সময়টুকু আছে তা আমি কীভাবে কাটাচ্ছি? আর কথাবার্তার যে অভ্যাস এখন গড়ে তুলছি, সেই অভ্যাস নিয়েই কি আমি উঠতে চাই?",
+    "pointsEn": [
+      "If my whole life will one day feel like an hour, which part of today would I still be glad to have spent the way I am spending it?",
+      "Is there a small untruth I repeat so often that it has become a habit rather than a choice?",
+      "When I fall short, do I reach first for the excuse that I was never given enough time?",
+      "Who around me speaks with knowledge and faith, and do I listen when they set me right?",
+      "What am I putting off because I keep telling myself there is still plenty of time?"
+    ],
+    "pointsBn": [
+      "আমার পুরো জীবন যদি একদিন এক মুহূর্ত মনে হয়, তাহলে আজকের দিনের কোন অংশটুকু এভাবে কাটানোর জন্য তখনও আমি খুশি থাকব?",
+      "এমন কোনো ছোট মিথ্যা কি আছে, যা এত বার বলেছি যে সেটা আর সিদ্ধান্ত নয়, অভ্যাস হয়ে গেছে?",
+      "কোনো কাজে পিছিয়ে পড়লে আমি কি সবার আগে এই অজুহাত খুঁজি যে আমাকে যথেষ্ট সময় দেওয়া হয়নি?",
+      "আমার আশপাশে কে জ্ঞান আর ঈমান নিয়ে কথা বলেন? তিনি যখন আমাকে শুধরে দেন, আমি কি কান দিই?",
+      "এখনো অনেক সময় আছে, নিজেকে এই কথা বলে বলে কোন কাজটা আমি পিছিয়ে রাখছি?"
+    ],
+    "lessonEn": "A lifetime will seem like an hour when the Hour comes; spend it in truth now, because the way a person turns from the truth here is the way he is raised.",
+    "lessonBn": "কিয়ামত এলে গোটা জীবনকে এক মুহূর্ত মনে হবে। তাই এখনই সময়টুকু সত্যের পথে কাটান, কারণ মানুষ এখানে যেভাবে সত্য থেকে মুখ ফেরায়, সেভাবেই তাকে উঠানো হবে।"
   }
 };
 

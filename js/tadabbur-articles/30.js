@@ -1907,6 +1907,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Hours in One Verse",
+          "bn": "এক আয়াতে দুই সাআত"
+        },
+        "p": [
+          {
+            "en": "The verse comes straight after 30:54, where Allah traces a human life from weakness to strength and back to weakness and white hair. Then comes the end of every life: wa-yawma taqumu as-sa'atu yuqsimu al-mujrimuna ma labithu ghayra sa'atin, and on the Day the Hour is established, the criminals will swear they stayed no more than an hour. One word, sa'ah, names both the Hour that ends the world and the hour to which they shrink their stay. The verse closes on a verdict: kadhalika kanu yu'fakun, thus they were deluded.",
+            "bn": "আয়াতটি এসেছে ৩০:৫৪-এর ঠিক পরে। সেখানে আল্লাহ মানুষের জীবনের পুরো পথটা দেখিয়েছেন: দুর্বলতা থেকে শক্তি, তারপর আবার দুর্বলতা আর পাকা চুল। এরপর দৃশ্য চলে যায় সব জীবনের শেষ প্রান্তে: ওয়া ইয়াওমা তাকূমুস সাআতু ইউকসিমুল মুজরিমূনা মা লাবিসূ গাইরা সাআহ। যেদিন কিয়ামত সংঘটিত হবে, অপরাধীরা কসম খেয়ে বলবে, তারা এক সাআতের বেশি থাকেনি। একই শব্দ সাআহ দুটো জিনিসের নাম। একটি সেই মহাক্ষণ, যা দুনিয়ার ইতি টানে। অন্যটি সেই ছোট্ট সময়টুকু, যাতে তারা নিজেদের থাকাকে গুটিয়ে আনে। আয়াতটি শেষ হয় এক রায় দিয়ে: কাযালিকা কানূ ইউ'ফাকূন, এভাবেই তারা বিভ্রান্ত হতো।"
+          },
+          {
+            "en": "At-Tabari reads the opening as the coming of the Hour of the raising, when creation is brought out of their graves. As-Sa'di begins with what the verse tells of the Day itself and of how swiftly it comes. The next verse gives the reply of those who were given knowledge and faith, and 30:57 closes the scene: that Day their excuse will not benefit those who did wrong.",
+            "bn": "তাবারী শুরুর অংশটি পড়েন পুনরুত্থানের সাআতের আগমন হিসেবে, যখন সৃষ্টিকে কবর থেকে বের করে আনা হবে। সা'দী শুরু করেন সেই দিনটির কথা দিয়ে, আর কত দ্রুত তা এসে পড়বে সে কথা দিয়ে। পরের আয়াতে আছে যাদেরকে জ্ঞান ও ঈমান দেওয়া হয়েছিল তাদের জবাব। আর ৩০:৫৭ দৃশ্যটির পর্দা টানে: সেদিন জালিমদের কোনো ওজর কাজে আসবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Oath of the Guilty",
+          "bn": "অপরাধীদের কসম"
+        },
+        "p": [
+          {
+            "en": "Who are al-mujrimun? At-Tabari defines them as those who used to disbelieve in Allah in the world and earn sins in it. Al-Qurtubi and al-Baghawi gloss the word with a single term, al-mushrikun, those who ascribed partners to Allah, and the Muyassar uses the same word. The verb yuqsimu is an oath, and at-Tabari, Ibn Kathir and as-Sa'di each specify that they swear by Allah. These are people who, in the Muyassar's words, denied in the world the truth the messengers brought, and now they swear by His name in His presence.",
+            "bn": "আল-মুজরিমূন কারা? তাবারীর সংজ্ঞায় তারা সেই লোক, যারা দুনিয়াতে আল্লাহকে অস্বীকার করত আর সেখানে গুনাহ কামাত। কুরতুবী ও বাগাভী শব্দটির ব্যাখ্যা দেন এক কথায়: আল-মুশরিকূন, অর্থাৎ যারা আল্লাহর সঙ্গে শরিক করত। মুয়াসসারও একই শব্দ ব্যবহার করে। ইউকসিমু ক্রিয়াটি কসমের। তাবারী, ইবন কাসীর ও সা'দী প্রত্যেকেই খুলে বলেন, তারা কসম খাবে আল্লাহর নামে। মুয়াসসারের ভাষায়, দুনিয়াতে এরাই রাসূলদের আনা সত্যকে অস্বীকার করত। আর এখন তাঁরই সামনে দাঁড়িয়ে তাঁরই নামে কসম খাচ্ছে।"
+          },
+          {
+            "en": "The oath is sworn in earnest, and the commentators agree that it is false. At-Tabari says they lied in their saying and their oath, we stayed but an hour. The Muyassar puts it bluntly: they lied in their oath, as they used to lie in the world. As-Sa'di calls their claim a lie with no reality behind it. They part ways only over which stretch of time the oath shrinks.",
+            "bn": "কসমটা তারা খাবে পুরো জোর দিয়ে, আর তাফসীরকারেরা একমত যে কসমটা মিথ্যা। তাবারী বলেন, 'আমরা এক সাআতের বেশি থাকিনি', এই কথায় ও কসমে তারা মিথ্যা বলেছে। মুয়াসসার কথাটা সোজাসুজি বলে: কসমে তারা মিথ্যা বলেছে, যেমন দুনিয়াতে মিথ্যা বলত। সা'দী তাদের দাবিকে বলেন এমন মিথ্যা, যার পেছনে কোনো বাস্তবতা নেই। তাঁদের মতভেদ শুধু এক জায়গায়: কসমটা কোন সময়টুকুকে ছোট করে দেখাচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Hour Spent Where?",
+          "bn": "এক সাআত, কিন্তু কোথায়?"
+        },
+        "p": [
+          {
+            "en": "Two readings run through the commentaries, and they divide over where the criminals stayed. The first reads it as this world. Ibn Kathir says they swear by Allah that they stayed in the world no more than a single hour. Al-Baghawi gives the same as his own gloss: they stayed in the world but an hour, reckoning its term small once they saw the Hereafter. As-Sa'di reads it the same way, and so does the Muyassar, which renders ghayra sa'ah as a short stretch of time.",
+            "bn": "তাফসীরগুলোতে দুটি পাঠ পাশাপাশি চলে। তফাতটা এক জায়গায়: অপরাধীরা থেকেছিল কোথায়। প্রথম পাঠ বলে, দুনিয়ায়। ইবন কাসীর বলেন, তারা আল্লাহর নামে কসম খাবে যে দুনিয়াতে তারা একটিমাত্র সাআতের বেশি থাকেনি। বাগাভী নিজের ব্যাখ্যাতেও একই কথা বলেন: দুনিয়ায় তারা এক সাআতই থেকেছে। আখিরাত চোখে দেখার পর দুনিয়ার মেয়াদ তাদের কাছে অল্প মনে হয়েছে। সা'দীও এভাবেই পড়েন, মুয়াসসারও। মুয়াসসার গাইরা সাআহ কথাটির অর্থ করে সামান্য একটু সময়।"
+          },
+          {
+            "en": "The second reads it as the grave. At-Tabari, who opens with creation raised from their graves, says they swear that they did not stay in their graves more than a single hour. Al-Baghawi relays the same from Muqatil and al-Kalbi and supports it with 46:35: as though they had not remained except an hour of a day. Al-Qurtubi gives both as two sayings. On the first, there must be a khamda, a stillness, before the Day of Resurrection, and that is why they say, we stayed but an hour.",
+            "bn": "দ্বিতীয় পাঠ বলে, কবরে। তাবারী শুরুই করেছেন কবর থেকে সৃষ্টির উঠে আসার কথা দিয়ে। তিনি বলেন, তারা কসম খাবে যে কবরে তারা একটিমাত্র সাআতের বেশি থাকেনি। বাগাভী মুকাতিল ও কালবী থেকে একই কথা বর্ণনা করেন, আর সমর্থনে আনেন ৪৬:৩৫: যেন তারা দিনের এক সাআতের বেশি থাকেনি। কুরতুবী দুটোকেই দুই মত হিসেবে উল্লেখ করেন। প্রথম মতে, কিয়ামতের আগে এক 'খামদা' অবশ্যই আছে, অর্থাৎ এক নিস্তব্ধ নিথর অবস্থা। সে কারণেই তারা বলবে, আমরা এক সাআতের বেশি থাকিনি।"
+          },
+          {
+            "en": "On the second saying, al-Qurtubi explains, they mean the world, because it has passed away and been cut off, and he brings 79:46, as though they had not remained except an afternoon or its morning, beside 46:35. Even so, he adds, they swore about something unseen, about what they did not know. Ma'arif al-Qur'an sets out both probabilities, the world and the barzakh, and leaves both standing. The commentators read here do not settle it, and neither does this article. Both readings agree on what the verse stresses: a long stay, sworn down to an hour.",
+            "bn": "কুরতুবী বলেন, দ্বিতীয় মতে তারা বোঝাচ্ছে দুনিয়া, কারণ দুনিয়া ফুরিয়ে গেছে, ছিন্ন হয়ে গেছে। এর সঙ্গে তিনি ৪৬:৩৫-এর পাশে আনেন ৭৯:৪৬: যেন তারা এক সন্ধ্যা বা এক সকালের বেশি থাকেনি। তিনি আরও বলেন, তবু তারা কসম খেয়েছে অদৃশ্য বিষয়ে, এমন জিনিস নিয়ে যা তারা জানত না। মাআরিফুল কুরআন দুটো সম্ভাবনাই তুলে ধরে, দুনিয়া আর বারযাখ, এবং দুটোকেই খোলা রাখে। এখানে পড়া তাফসীরগুলো এর মীমাংসা করে না, এ লেখাও করবে না। তবে আয়াতটি যে কথার উপর জোর দেয়, তাতে দুই পাঠই একমত: দীর্ঘ এক অবস্থান, কসম খেয়ে যাকে নামিয়ে আনা হলো এক সাআতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Years Shrink",
+          "bn": "বছরগুলো কেন ছোট হয়ে আসে"
+        },
+        "p": [
+          {
+            "en": "The commentators also ask why anyone would swear to so short a stay. Al-Baghawi's answer is the shock of the sight: they reckoned the term of the world small when they saw the Hereafter with their own eyes. Ma'arif al-Qur'an describes the deniers swearing as though they had lost their senses at the horrors around them, and it points to a habit of human nature. A person regards the comfortable stretch of his life as very short once hardship overtakes him, and the Hereafter brings these people nothing but hardship.",
+            "bn": "এত অল্প থাকার কসম কেউ কেন খাবে, তাফসীরকারেরা সে প্রশ্নও তোলেন। বাগাভীর উত্তর হলো দৃশ্যের ধাক্কা। আখিরাত নিজের চোখে দেখার পর দুনিয়ার মেয়াদ তাদের কাছে সামান্য মনে হয়েছে। মাআরিফুল কুরআন ছবিটা আঁকে এভাবে: চারপাশের বিভীষিকা দেখে অস্বীকারকারীরা যেন হুঁশ হারিয়ে কসম খেতে থাকবে। সঙ্গে সে মানুষের এক স্বভাবের দিকে ইশারা করে। বিপদে পড়লে মানুষ নিজের জীবনের আরামের দিনগুলোকে খুব অল্প মনে করে। আর আখিরাত এদের জন্য বিপদ ছাড়া কিছুই আনবে না।"
+          },
+          {
+            "en": "Ma'arif applies the same habit to the second reading. The barzakh is also a place of punishment for the disbelievers, it says, yet far lighter than what they meet at the Resurrection, so its long years seem brief. Ibn Kathir and as-Sa'di see a motive in the oath as well. Ibn Kathir says they mean by it that the proof was never established against them, that they were not given respite long enough to be left without excuse. As-Sa'di calls it an excuse offered in the hope that it might benefit them, and a shortening of the world's duration.",
+            "bn": "মাআরিফ একই স্বভাবের কথা দ্বিতীয় পাঠেও খাটায়। সে বলে, অস্বীকারকারীদের জন্য বারযাখও আজাবের জায়গা, তবে কিয়ামতে তারা যা দেখবে তার তুলনায় তা অনেক হালকা। তাই বারযাখের দীর্ঘ বছরগুলোও তাদের কাছে ছোট মনে হবে। ইবন কাসীর ও সা'দী কসমটির পেছনে একটা উদ্দেশ্যও দেখেন। ইবন কাসীর বলেন, এ দিয়ে তারা বোঝাতে চায় যে তাদের বিরুদ্ধে প্রমাণ দাঁড় করানোই হয়নি, এত সময় তাদের দেওয়া হয়নি যাতে কোনো ওজর আর বাকি না থাকে। সা'দীর ভাষায় এটা এক ওজর, এই আশায় পেশ করা যে হয়তো কাজে লাগবে। সঙ্গে দুনিয়ার মেয়াদকেও ছোট করে দেখানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned Aside, Then and Now",
+          "bn": "তখনও ফেরানো, এখনও ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Kadhalika kanu yu'fakun. Al-Qurtubi gives the root sense of the verb: afaka a man is said when he is turned away from truthfulness and from good. He adds an image from the land, ard ma'fukah, a land withheld from rain. At-Tabari reports Qatada: they used to lie in the world, and yu'fakun means turned away from truthfulness and diverted to lying. The verb is passive, they were turned, and kanu points back to a habit of the past, which at-Tabari spells out with the words fi ad-dunya, in the world.",
+            "bn": "কাযালিকা কানূ ইউ'ফাকূন। কুরতুবী ক্রিয়াটির মূল অর্থ বলেন: কাউকে সত্য ও কল্যাণ থেকে ফিরিয়ে দেওয়া হলে বলা হয়, আফাকা। সঙ্গে তিনি মাটি থেকে একটা ছবি আনেন: আরদুন মা'ফূকাহ, এমন জমি যাকে বৃষ্টি থেকে বঞ্চিত রাখা হয়েছে। তাবারী কাতাদা থেকে বর্ণনা করেন: দুনিয়াতে তারা মিথ্যা বলত, আর ইউ'ফাকূন মানে সত্য থেকে ফিরিয়ে মিথ্যার দিকে সরিয়ে দেওয়া হতো। ক্রিয়াটি কর্মবাচ্যে, তাদের ফেরানো হতো। আর কানূ শব্দটি অতীতের এক অভ্যাসের দিকে ইঙ্গিত করে। তাবারী সেটা খুলে বলেন 'ফিদ দুনইয়া', দুনিয়াতে, শব্দ দিয়ে।"
+          },
+          {
+            "en": "Kadhalika, thus, ties the two moments together. At-Tabari reads it as Allah's comment: just so, in the world, they were turned away. They lied in their oath, we stayed but an hour, as in the world they used to lie and swear to lies while they knew. Al-Qurtubi draws the same line between the oath and the world. Al-Baghawi relays from al-Kalbi and Muqatil that they lied in saying but an hour, as they lied in the world in saying there is no resurrection.",
+            "bn": "কাযালিকা, অর্থাৎ এভাবেই, শব্দটি দুটি মুহূর্তকে এক সুতোয় গাঁথে। তাবারী একে পড়েন আল্লাহর নিজের মন্তব্য হিসেবে: দুনিয়াতেও ঠিক এভাবেই তাদের ফেরানো হতো। 'আমরা এক সাআতের বেশি থাকিনি', কসমের এই কথায় তারা মিথ্যা বলেছে। দুনিয়াতেও তারা এভাবে মিথ্যা বলত, জেনেবুঝে মিথ্যার উপর কসম খেত। কুরতুবীও কসম আর দুনিয়ার মধ্যে একই তুলনা টানেন। বাগাভী কালবী ও মুকাতিল থেকে বর্ণনা করেন: 'এক সাআতের বেশি নয়' বলে তারা মিথ্যা বলেছে, যেমন দুনিয়াতে মিথ্যা বলেছিল যে পুনরুত্থান বলে কিছু নেই।"
+          },
+          {
+            "en": "As-Sa'di draws the lesson in a few lines. In the world they denied the truth the messengers brought them; in the Hereafter they deny what they can plainly sense, their long stay in the world. This is their ugly character, he says, and the servant is raised on what he died upon. Al-Baghawi adds another layer. Allah willed to expose them, so they swore to something the people of the gathering could see was false, and this happened by Allah's decree and measure, as the passive verb yu'fakun shows.",
+            "bn": "সা'দী কয়েক কথায় শিক্ষাটা বের করে আনেন। দুনিয়াতে রাসূলরা যে সত্য নিয়ে এসেছিলেন, তারা তা অস্বীকার করেছে। আখিরাতে তারা অস্বীকার করছে চোখের সামনের বাস্তবতা, দুনিয়ায় তাদের দীর্ঘ অবস্থান। তিনি বলেন, এটাই তাদের কুৎসিত স্বভাব, আর বান্দাকে উঠানো হয় সেই অবস্থার উপর, যার উপর সে মারা গেছে। বাগাভী আরেকটি স্তর যোগ করেন। আল্লাহ তাদের লাঞ্ছিত করতে চেয়েছেন। তাই তারা এমন কিছুর উপর কসম খেল, হাশরের ময়দানের সবাই যার মিথ্যা হওয়া স্পষ্ট দেখতে পেল। আর এটা ঘটেছে আল্লাহর ফায়সালা ও তাকদীর অনুযায়ী, যার প্রমাণ কর্মবাচ্যের ক্রিয়া ইউ'ফাকূন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Lie Told Before Allah",
+          "bn": "আল্লাহর সামনেও মিথ্যা"
+        },
+        "p": [
+          {
+            "en": "The verse raises a question the commentators faced directly: can anyone lie on the Day of Resurrection? Al-Qurtubi notes that a group of theorists claimed no lie is possible there, given what people will be facing. The Qur'an indicates otherwise, he says, and he points to this verse and to two others: the Day Allah raises them all, and they swear to Him as they swear to you (58:18); and their plea, by Allah, our Lord, we were not those who associated, followed by see how they lie about themselves (6:23 and 6:24).",
+            "bn": "আয়াতটি এমন এক প্রশ্ন তোলে, তাফসীরকারেরা যার সরাসরি মোকাবিলা করেছেন: কিয়ামতের দিনেও কি কেউ মিথ্যা বলতে পারবে? কুরতুবী জানান, একদল চিন্তাবিদ দাবি করেছিলেন, মানুষ সেখানে যে অবস্থায় থাকবে তাতে মিথ্যা বলা সম্ভব নয়। তিনি বলেন, কুরআন অন্য কথা বলে। প্রমাণ হিসেবে তিনি এই আয়াতের সঙ্গে আরও দুটি জায়গা দেখান। একটি ৫৮:১৮: যেদিন আল্লাহ তাদের সবাইকে উঠাবেন, তারা তাঁর কাছে সেভাবেই কসম খাবে যেভাবে তোমাদের কাছে খায়। অন্যটি ৬:২৩ ও ৬:২৪: তাদের একমাত্র জবাব হবে, আমাদের রব আল্লাহর কসম, আমরা মুশরিক ছিলাম না। তারপর: দেখো, নিজেদের ব্যাপারে তারা কেমন মিথ্যা বলছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an explains how such a lie can be spoken. It is Allah's court, and He lets each person say what he wishes, true or false, for He needs no one to tell Him which is which. When a liar speaks, his mouth is sealed and his own limbs give evidence, as in 36:65: that Day We will seal over their mouths, and their hands will speak to Us. On another occasion of that Day, it adds, none will speak but those the Most Merciful permits (78:38).",
+            "bn": "এমন মিথ্যা মুখে আসে কীভাবে, মাআরিফুল কুরআন তা ব্যাখ্যা করে। সেটা আল্লাহর আদালত। সত্য হোক বা মিথ্যা, তিনি প্রত্যেককে যা খুশি বলতে দেবেন। কোনটা সত্য আর কোনটা মিথ্যা, তা জানতে তিনি কারও মুখাপেক্ষী নন। কেউ মিথ্যা বললে তার মুখ বন্ধ করে দেওয়া হবে, আর তার নিজের অঙ্গপ্রত্যঙ্গ সাক্ষ্য দেবে। যেমন ৩৬:৬৫ বলছে: আজ আমি তাদের মুখে মোহর লাগিয়ে দেব, আর তাদের হাত আমার সঙ্গে কথা বলবে। মাআরিফ আরও বলে, সেদিনের আরেক পর্বে দয়াময় যাকে অনুমতি দেবেন সে ছাড়া কেউ কথাই বলতে পারবে না (৭৮:৩৮)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Argument Against the Grave",
+          "bn": "কবরের আজাবের অস্বীকার নয়"
+        },
+        "p": [
+          {
+            "en": "If they swear they stayed in the grave no more than an hour, does that mean the grave held nothing for them? Al-Qurtubi answers at once: there is no rejection of the punishment of the grave in this, since it is soundly reported from the Prophet ﷺ, by several routes, that he sought refuge from it and commanded that refuge be sought from it. No tafsir read for this verse attaches a sound hadith to the verse itself.",
+            "bn": "কবরে তারা এক সাআতের বেশি থাকেনি বলে কসম খেলে কি বোঝায় যে কবরে তাদের জন্য কিছুই ছিল না? কুরতুবী সঙ্গে সঙ্গে উত্তর দেন: এতে কবরের আজাব অস্বীকারের কিছু নেই। কারণ নবী ﷺ থেকে একাধিক সূত্রে বিশুদ্ধভাবে বর্ণিত আছে যে তিনি এ থেকে আশ্রয় চেয়েছেন এবং আশ্রয় চাইতে আদেশ দিয়েছেন। এ আয়াতের জন্য পড়া কোনো তাফসীর আয়াতটির সঙ্গে সরাসরি কোনো সহীহ হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "Among the narrations al-Qurtubi names is one from 'Abdullah ibn Mas'ud (RA), recorded in Sahih Muslim (2663). It is a general narration and is not attached to this verse. Umm Habibah (RA), the wife of the Prophet ﷺ, prayed: O Allah, enable me to derive benefit from my husband, the Messenger of Allah, and from my father Abu Sufyan and from my brother Mu'awiya. In the wording narrated through Waki', as the English rendering gives it, the Prophet ﷺ answered her as follows.",
+            "bn": "কুরতুবী যে বর্ণনাগুলোর কথা বলেন, তার একটি আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে, যা সহীহ মুসলিমে আছে (২৬৬৩)। এটি একটি সাধারণ বর্ণনা, এ আয়াতের সঙ্গে যুক্ত নয়। নবী ﷺ-এর স্ত্রী উম্মু হাবীবা (রাঃ) দোয়া করেছিলেন: হে আল্লাহ, আমার স্বামী আল্লাহর রাসূল, আমার বাবা আবূ সুফইয়ান আর আমার ভাই মুআবিয়া থেকে আমাকে উপকৃত হওয়ার সুযোগ দিন। ওয়াকী'র সূত্রে বর্ণিত শব্দে নবী ﷺ তাঁকে যা বলেছিলেন, তা এরকম।"
+          },
+          {
+            "en": "\"You have asked from Allah about durations of life already set, and the length of days already allotted and the sustenances the share of which has been fixed. Allah would not do anything earlier before its due time, or He would not delay anything beyond its due time. And if you were to ask Allah to provide you refuge from the torment of the Hell-Fire, or from the torment of the grave, it would have good in store for you and better for you also.\" Muslim records it in his Sahih, and no further grading is claimed here.",
+            "bn": "\"তুমি আল্লাহর কাছে চেয়েছ এমন আয়ুর ব্যাপারে, যা আগেই নির্ধারিত, এমন দিনগুলোর ব্যাপারে, যা আগেই গোনা, আর এমন রিজিকের ব্যাপারে, যা আগেই বণ্টিত। কোনো কিছুকে তিনি তার নির্ধারিত সময়ের আগে আনবেন না, আর নির্ধারিত সময় থেকে পিছিয়েও দেবেন না। তুমি যদি আল্লাহর কাছে চাইতে, তিনি যেন তোমাকে জাহান্নামের আজাব থেকে কিংবা কবরের আজাব থেকে আশ্রয় দেন, তবে সেটাই হতো উত্তম ও শ্রেষ্ঠ।\" মুসলিম বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন। এখানে এর বাইরে কোনো মান দাবি করা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom This Scene Describes",
+          "bn": "এ দৃশ্য কাদের ছবি"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the criminals, whom at-Tabari defines as those who disbelieved in Allah and earned sins in the world, swearing a false oath when the Hour is established. It describes that scene and licenses nothing against any living person or community. It gives no one the right to number a neighbour among the mujrimun, or to hear another person's words today as that oath. Its warning is turned toward the reader, who still has time to answer differently.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা এর শব্দে আছে। অপরাধী তারা, তাবারীর সংজ্ঞায় যারা দুনিয়াতে আল্লাহকে অস্বীকার করত আর গুনাহ কামাত। কিয়ামত সংঘটিত হলে তারা মিথ্যা কসম খাবে। আয়াত সেই দৃশ্যের বর্ণনা দেয়, আর আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। প্রতিবেশীকে মুজরিমদের দলে গোনার অধিকার এটি কাউকে দেয় না। আজ কারও কথা শুনে তাকে সেই কসমের সঙ্গে মিলিয়ে দেওয়ারও না। এর সতর্কবাণী পাঠকের নিজের দিকে, যার হাতে এখনো অন্যরকম জবাব দেওয়ার সময় আছে।"
+          },
+          {
+            "en": "Read beside 30:54, the verse has a quiet arithmetic. A life that ran from weakness to strength and back to weakness and white hair will be sworn down to an hour. As-Sa'di's sentence carries the point: the servant is raised on what he died upon. The habit of turning from the truth was not formed on that Day. It was carried there from the world. The speech a person keeps true now is the speech he takes with him.",
+            "bn": "৩০:৫৪-এর পাশে রেখে পড়লে আয়াতটিতে নিঃশব্দ এক হিসাব চোখে পড়ে। যে জীবন দুর্বলতা থেকে শক্তি, তারপর আবার দুর্বলতা আর পাকা চুলে গিয়ে থেমেছে, কসম খেয়ে তাকে নামিয়ে আনা হবে এক সাআতে। সা'দীর একটি বাক্যেই কথাটা ধরা আছে: বান্দাকে উঠানো হয় সেই অবস্থার উপর, যার উপর সে মারা গেছে। সত্য থেকে মুখ ফেরানোর অভ্যাস সেদিন তৈরি হয়নি। তা বয়ে আনা হয়েছে দুনিয়া থেকে। মানুষ আজ যে কথাকে সত্য রাখে, সেই কথাই সে সঙ্গে নিয়ে যায়।"
+          },
+          {
+            "en": "The reply in 30:56 does not argue over the length of the stay: you remained, by the decree of Allah, until the Day of Resurrection, and this is the Day of Resurrection, but you did not know. Ibn Kathir's abridged English reads it as the believers answering them, just as they established Allah's proof against them in the world. The verse lets the contrast speak. One group measured its time by how short it felt, the other by what Allah had written. The reader is still inside the stay, and can still choose a measure.",
+            "bn": "৩০:৫৬-এর জবাব থাকার মেয়াদ নিয়ে তর্কে যায় না: আল্লাহর বিধান অনুযায়ী তোমরা পুনরুত্থান দিবস পর্যন্ত থেকেছ, আর এটাই পুনরুত্থান দিবস, কিন্তু তোমরা জানতে না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, এ হলো মুমিনদের জবাব, ঠিক যেভাবে দুনিয়াতে তাঁরা তাদের বিরুদ্ধে আল্লাহর প্রমাণ দাঁড় করিয়েছিলেন। আয়াত তফাতটা নিজেই বলতে দেয়। একটি দল নিজেদের সময় মেপেছে কত ছোট লাগল তা দিয়ে। আরেক দল মেপেছে আল্লাহ যা লিখে রেখেছেন তা দিয়ে। পাঠক এখনো সেই অবস্থানের ভেতরেই আছেন। কোন মাপে চলবেন, তা বেছে নেওয়ার সুযোগ এখনো তাঁর হাতে।"
+          }
+        ]
+      }
+    ]
+  },
   "30:60": {
     "sections": [
       {
