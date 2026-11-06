@@ -167,6 +167,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "45:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Night, Rain and the Wind",
+          "bn": "রাত, বৃষ্টি আর বাতাস"
+        },
+        "p": [
+          {
+            "en": "Surah al-Jathiya has begun pointing. There are signs in the heavens and the earth for the believers (45:3), and signs in your own creation and in the creatures He spreads abroad for a people who are certain (45:4). The third verse turns outward again, and it is the longest of the three, twenty words in the Arabic: wa-khtilafi al-layli wan-nahari wa ma anzala Allahu mina as-sama'i min rizqin fa-ahya bihi al-arda ba'da mawtiha wa tasrifi ar-riyahi ayatun li-qawmin ya'qilun.",
+            "bn": "সূরা আল-জাসিয়া ইশারা করতে শুরু করেছে। আকাশ আর যমীনে মু'মিনদের জন্য নিদর্শন আছে (৪৫:৩)। তোমাদের নিজেদের সৃষ্টিতে আর তিনি যে প্রাণী ছড়িয়ে দেন তাতে নিদর্শন আছে নিশ্চিত বিশ্বাসীদের জন্য (৪৫:৪)। তৃতীয় আয়াতটি আবার দৃষ্টিকে বাইরের দিকে ফিরিয়ে নেয়। তিনটির মধ্যে এটিই দীর্ঘতম, আরবিতে ২০টি শব্দ: ওয়াখতিলাফিল লাইলি ওয়ান-নাহারি ওয়া মা আনযালাল্লাহু মিনাস সামা-ই মির রিযকিন ফা-আহইয়া বিহিল আরদা বা'দা মাওতিহা ওয়া তাসরীফির রিয়াহি আয়াতুল লি-কাওমিই ইয়া'কিলূন।"
+          },
+          {
+            "en": "And in the alternation of night and day, and in what Allah sends down from the sky of provision, giving life by it to the earth after its death, and in the turning of the winds, are signs for a people who reason. Four things are named: a cycle, a sending down, a revival and a turning. None of them is begun or halted by the one who hears the verse. This article takes them in order, with what the commentaries fetched for this verse say of each, and then turns to the ending.",
+            "bn": "অর্থাৎ রাত ও দিনের আবর্তনে, আল্লাহ আকাশ থেকে যে রিযিক নামান আর তা দিয়ে মৃত যমীনকে আবার জীবিত করেন তাতে, আর বাতাসের ঘুরিয়ে দেওয়ায় নিদর্শন আছে সেই সম্প্রদায়ের জন্য, যারা বুদ্ধি খাটায়। চারটি জিনিসের নাম এসেছে: একটি চক্র, একটি নামিয়ে দেওয়া, একটি পুনর্জীবন আর একটি ঘুরিয়ে দেওয়া। যে মানুষ আয়াতটি শোনে, এর কোনোটাই তার হাতে শুরু হয় না, তার হাতে থামেও না। এ প্রবন্ধ এগুলোকে একে একে নেবে। এ আয়াতের জন্য যে তাফসীরগুলো পড়া হয়েছে, প্রতিটি সম্পর্কে সেগুলো কী বলে তা দেখবে, তারপর যাবে আয়াতের শেষ কথায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Darkness, Then Brightness",
+          "bn": "অন্ধকার, তারপর আলো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads ikhtilaf as succession, and he turns the phrase toward the listener: the alternation of night and day, O people, and their following one another upon you, this one with its darkness and blackness and that one with its light and brightness. The Muyassar keeps his words, their succession upon you. Ibn Kathir adds a pair of words that carry the weight: da'ibayn la yafturan, the two keep going and never slacken, the one with its darkness and the other with its light.",
+            "bn": "তাবারী ইখতিলাফ শব্দের অর্থ নেন একটির পর আরেকটির আসা। আর কথাটা তিনি ঘুরিয়ে দেন শ্রোতার দিকে: হে মানুষ, রাত আর দিনের আবর্তন, তোমাদের উপর একটির পর আরেকটির আসা। একটি আসে তার আঁধার আর কালো নিয়ে, অন্যটি তার আলো আর ঔজ্জ্বল্য নিয়ে। মুয়াসসারও তাঁর কথাই রাখে: তোমাদের উপর পালা করে আসা। ইবন কাসীর দুটি শব্দ যোগ করেন, যার উপর পুরো ভার: দা'ইবাইনি লা ইয়াফতুরান। অর্থাৎ দুটি অবিরাম চলছে, কখনো ঢিলে পড়ে না, একটি তার অন্ধকার নিয়ে, অন্যটি তার আলো নিয়ে।"
+          },
+          {
+            "en": "None of them says more here, and al-Qurtubi gives the reason for his own brevity: all of this, he says, was treated in full in Surah al-Baqara and elsewhere. The longer discussion of ikhtilaf belongs to 2:164, which has its own article. What 45:5 offers in these glosses is the address. In at-Tabari's wording the cycle is not described from the outside; it happens upon you, O people, every evening and every dawn, whether or not anyone stops to notice it.",
+            "bn": "এখানে তাঁরা কেউ এর বেশি বলেন না। কুরতুবী নিজের সংক্ষেপের কারণও জানিয়ে দেন: এসবের পূর্ণ আলোচনা সূরা আল-বাকারায় ও অন্যত্র আগেই হয়ে গেছে। ইখতিলাফ নিয়ে দীর্ঘ আলোচনার জায়গা তাই ২:১৬৪, যার আলাদা প্রবন্ধ আছে। এই ব্যাখ্যাগুলোতে ৪৫:৫ যা দেয় তা হলো সম্বোধন। তাবারীর ভাষায় চক্রটিকে বাইরে থেকে বর্ণনা করা হয়নি। হে মানুষ, এটা ঘটছে তোমাদের উপর, প্রতি সন্ধ্যায়, প্রতি ভোরে, কেউ থেমে খেয়াল করুক বা না করুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain Called by Its Fruit",
+          "bn": "ফলের নামে বৃষ্টির নাম"
+        },
+        "p": [
+          {
+            "en": "Then wa ma anzala Allahu mina as-sama'i min rizqin: and what Allah sends down from the sky of provision. The verse does not say water. Five of the commentaries fetched for this verse gloss the word, and all five identify the provision as rain. Al-Qurtubi and the Muyassar simply name it, al-matar. At-Tabari and al-Baghawi call it al-ghayth, and both say why it counts as provision: at-Tabari, because by it the earth brings out the provisions and food of Allah's servants; al-Baghawi, because it is the cause of those provisions.",
+            "bn": "তারপর ওয়া মা আনযালাল্লাহু মিনাস সামা-ই মির রিযক: আর আল্লাহ আকাশ থেকে যে রিযিক নামান। আয়াত এখানে পানি বলেনি। এ আয়াতের জন্য পড়া তাফসীরগুলোর পাঁচটি শব্দটির ব্যাখ্যা দেয়, আর পাঁচটিই এই রিযিককে বৃষ্টি বলে চিনিয়েছে। কুরতুবী আর মুয়াসসার সরাসরি নাম বলে দেন: আল-মাতার, বৃষ্টি। তাবারী আর বাগাভী একে বলেন আল-গাইস, আর দুজনেই জানান কেন একে রিযিক বলা হলো। তাবারীর মতে, কারণ এর দ্বারাই যমীন আল্লাহর বান্দাদের রিযিক আর খাবার বের করে আনে। বাগাভীর মতে, কারণ বান্দাদের রিযিক আসে এরই মাধ্যমে।"
+          },
+          {
+            "en": "Ibn Kathir states the reasoning in one clause: He called it rizq because by it rizq comes about. He adds a detail of timing as well. Allah sends the rain down from the clouds fi waqti al-hajati ilayhi, at the time it is needed. So five glosses agree on what the word points to, and three of them give the same logic for the name: the rain is called provision because provision grows from it.",
+            "bn": "ইবন কাসীর যুক্তিটা এক বাক্যে বলে দেন: একে রিযিক বলা হয়েছে, কারণ এর দ্বারাই রিযিক হাসিল হয়। সময়ের একটা কথাও তিনি যোগ করেন। আল্লাহ মেঘ থেকে বৃষ্টি নামান ফী ওয়াকতিল হাজাতি ইলাইহি, যখন তার প্রয়োজন পড়ে। তাহলে শব্দটি কীসের দিকে ইশারা করছে, তা নিয়ে পাঁচটি ব্যাখ্যা একমত। আর নামকরণের একই যুক্তি দেন তাঁদের তিনজন: বৃষ্টিকে রিযিক বলা হয়েছে, কারণ রিযিক তা থেকেই জন্মায়।"
+          },
+          {
+            "en": "Ibn Kathir also sets this verse beside 2:164 and quotes that verse in full, and Ma'arif al-Qur'an names the same parallel. Read side by side, the two show one difference of wording: where 2:164 says min ma'in, of water, 45:5 says min rizqin, of provision. None of the commentaries fetched here remarks on it. Ma'arif says only that the argument in the two places differs slightly, and points readers to ar-Razi's Tafsir Kabir for the finer points without giving them itself.",
+            "bn": "ইবন কাসীর এ আয়াতকে ২:১৬৪-এর পাশে রাখেন এবং সে আয়াত পুরোটা উদ্ধৃত করেন। মাআরিফুল কুরআনও একই মিলের কথা বলে। দুটি পাশাপাশি পড়লে শব্দের একটা পার্থক্য চোখে পড়ে। ২:১৬৪ বলে মিম মা-ইন, পানি থেকে। আর ৪৫:৫ বলে মির রিযকিন, রিযিক থেকে। এখানে পড়া কোনো তাফসীর এ পার্থক্য নিয়ে কিছু বলে না। মাআরিফ শুধু এটুকু বলে যে দুই জায়গার যুক্তিতে সামান্য পার্থক্য আছে। সূক্ষ্ম দিকগুলোর জন্য পাঠককে সে পাঠায় রাযীর তাফসীরে কাবীরের কাছে, নিজে সেগুলো তুলে ধরে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground That Lay Still",
+          "bn": "যে মাটি নিথর পড়ে ছিল"
+        },
+        "p": [
+          {
+            "en": "Fa-ahya bihi al-arda ba'da mawtiha: and gives life by it to the earth after its death. At-Tabari's gloss is the fullest. The rain, he says, made the dead earth grow, until it stirred with plants and crops after its death, and he explains that death in three phrases: after its drought, its dearth, and its having become ground with no growth in it and no crop. The Muyassar says after its dryness, and keeps the same picture of the earth stirring with plants and crops.",
+            "bn": "ফা-আহইয়া বিহিল আরদা বা'দা মাওতিহা: আর তা দিয়ে যমীনকে তার মৃত্যুর পর জীবিত করেন। তাবারীর ব্যাখ্যা সবচেয়ে বিস্তারিত। তিনি বলেন, বৃষ্টি মৃত যমীনে ফসল ফলাল, এমনকি মৃত্যুর পর সে চারা আর শস্যে নড়ে উঠল। সেই মৃত্যুকে তিনি খুলে বলেন তিনটি কথায়: খরার পর, অভাবের পর, আর এমন মাটি হয়ে যাওয়ার পর, যাতে না কোনো চারা গজায়, না কোনো ফসল। মুয়াসসার বলে, শুকিয়ে যাওয়ার পর। চারা আর শস্যে যমীনের নড়ে ওঠার ছবিটা সেও রেখে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir uses the word hamida: after it had lain still, with no plant in it and nothing at all. As-Sa'di's comment on this verse looks back over everything named. All of these, he says, are clear signs and plain proofs of the truthfulness of this great Qur'an and the soundness of the wisdom and rulings it contains, and they point as well to Allah's perfection and to the resurrection and the raising of the dead. He names the resurrection among what the signs show, and leaves it there.",
+            "bn": "ইবন কাসীর ব্যবহার করেন হামিদা শব্দটি: যখন তা নিথর পড়ে ছিল, তাতে কোনো চারা ছিল না, কিছুই ছিল না। সা’দী এ আয়াতে এসে আগের সব কিছুর দিকে ফিরে তাকান। তিনি বলেন, এ সবই সুস্পষ্ট নিদর্শন আর পরিষ্কার দলিল। এগুলো প্রমাণ করে মহান এই কুরআন সত্য, আর তাতে যে হিকমত ও বিধান আছে তা সঠিক। এগুলো আরও নির্দেশ করে আল্লাহর পূর্ণতার দিকে, আর পুনরুত্থান ও হাশরের দিকে। নিদর্শনগুলো যা দেখায় তার মধ্যে তিনি পুনরুত্থানের নাম নেন, আর সেখানেই থামেন।"
+          },
+          {
+            "en": "He does not set out how the signs show it, and this article does not supply the argument for him. What the verse's own words show is simpler. The same ground is called dead and then alive, and the change is credited to Allah through something sent down from above. Whoever has walked over cracked earth in a dry month and then over the same field after rain has seen the two words of the verse, mawt and ihya', on one patch of soil.",
+            "bn": "নিদর্শনগুলো কীভাবে তা দেখায়, সে যুক্তি তিনি খুলে বলেন না, এ প্রবন্ধও তাঁর হয়ে সে যুক্তি সাজাবে না। আয়াতের নিজের শব্দ যা দেখায় তা আরও সরল। একই মাটিকে প্রথমে মৃত বলা হয়েছে, পরে জীবিত। আর বদলটা হয়েছে আল্লাহর কাজে, উপর থেকে নামানো এক জিনিসের মাধ্যমে। শুকনো মাসে ফাটা মাটির উপর দিয়ে যে হেঁটেছে, আবার বৃষ্টির পর সেই একই মাঠ পেরিয়েছে, সে আয়াতের দুটি শব্দ, মাওত আর ইহইয়া, এক টুকরো মাটিতেই দেখে ফেলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Winds From Every Quarter",
+          "bn": "সব দিক থেকে বাতাস"
+        },
+        "p": [
+          {
+            "en": "Wa tasrifi ar-riyah: and the turning of the winds. At-Tabari reads it as Allah's turning of them for you: now north and now south, at times the saba and at others the dabur, li-manafi'ikum, for your benefit. The Muyassar says from every direction, and again for your benefit. Ibn Kathir gives the same four names, the south wind and the north, the dabur and the saba, the last pair appearing in his English abridgement as easterly and westerly winds.",
+            "bn": "ওয়া তাসরীফির রিয়াহ: আর বাতাসের ঘুরিয়ে দেওয়া। তাবারী এর অর্থ নেন, তোমাদের জন্য আল্লাহ বাতাসকে ঘুরিয়ে দেন। কখনো উত্তরে, কখনো দক্ষিণে, কখনো সাবা, কখনো দাবূর, লি-মানাফি'ইকুম, তোমাদের উপকারের জন্য। মুয়াসসার বলে, সব দিক থেকে, আর সেও বলে তোমাদের উপকারের জন্য। ইবন কাসীরও এই চারটি নামই আনেন: দক্ষিণের বাতাস আর উত্তরের, দাবূর আর সাবা। তাঁর ইংরেজি সংক্ষেপে শেষ জোড়াটি এসেছে পূবালি আর পশ্চিমা বাতাস হিসেবে।"
+          },
+          {
+            "en": "Ibn Kathir then sorts them in further ways: winds of the sea and winds of the land, winds of the night and winds of the day. And he sorts them by what they do. Some are for rain. Some are for liqah, pollination. Some are ghidha'un lil-arwah, nourishment for the spirits. And some are 'aqim, barren, producing nothing. He offers the list as his gloss on the single word tasrif, a description of variety drawn from what people could feel and see.",
+            "bn": "এরপর ইবন কাসীর বাতাসকে আরও কয়েকভাবে ভাগ করেন: সাগরের বাতাস আর স্থলের বাতাস, রাতের বাতাস আর দিনের বাতাস। কাজ অনুযায়ীও ভাগ করেন। কোনোটা বৃষ্টির জন্য। কোনোটা লিকাহ, অর্থাৎ পরাগায়নের জন্য। কোনোটা গিযা'উন লিল-আরওয়াহ, প্রাণের খোরাক। আর কোনোটা 'আকীম, বন্ধ্যা, কিছুই জন্মায় না। তাসরীফ এই একটি শব্দের ব্যাখ্যা হিসেবেই তিনি তালিকাটা দেন। মানুষ যা গায়ে টের পায় আর চোখে দেখে, তা থেকেই বৈচিত্র্যের এই বর্ণনা।"
+          },
+          {
+            "en": "That is where the article's own voice stops. None of the commentators consulted explains the winds through any modern science, and nothing is added to them here. What they give is a picture a listener in any age can check against his own day: wind from this side and then from that, by night and by day, sometimes bringing rain and sometimes bringing nothing. In at-Tabari's gloss the turning is His and the benefit is yours.",
+            "bn": "প্রবন্ধের নিজের কথা এখানেই শেষ। যে তাফসীরকারদের পড়া হয়েছে, তাঁদের কেউ আধুনিক কোনো বিজ্ঞান দিয়ে বাতাসের ব্যাখ্যা দেননি, এখানেও তাঁদের কথার সঙ্গে কিছু জোড়া হচ্ছে না। তাঁরা যে ছবি দেন, যে কোনো যুগের শ্রোতা নিজের দিনের সঙ্গে তা মিলিয়ে নিতে পারে। বাতাস একবার এক দিক থেকে, তারপর অন্য দিক থেকে। রাতে আর দিনে। কখনো বৃষ্টি নিয়ে আসে, কখনো কিছুই আনে না। তাবারীর ব্যাখ্যায় ঘোরানোটা তাঁর, আর উপকারটা তোমাদের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy if He Wills",
+          "bn": "তিনি চাইলে রহমত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records a second reading, introduced with qad qila, it has been said: that the turning meant is the winds' being sent sometimes as mercy and sometimes as punishment. He names who said it, with his chain through Ma'mar to Qatada, whose words are short: its turning is that if He wills He makes it mercy, and if He wills He makes it punishment. At-Tabari reports it after his own gloss of directions and benefits, and adds nothing to it.",
+            "bn": "তাবারী আরেকটি ব্যাখ্যা উল্লেখ করেন কাদ কীলা বলে, অর্থাৎ বলা হয়েছে: ঘুরিয়ে দেওয়া মানে বাতাসকে কখনো রহমত হিসেবে পাঠানো, কখনো আযাব হিসেবে। কে বলেছেন তাও তিনি জানান, মা'মার হয়ে কাতাদা পর্যন্ত নিজের সনদে। কাতাদার কথা ছোট্ট: বাতাসের ঘুরিয়ে দেওয়া হলো, তিনি চাইলে একে রহমত বানান, চাইলে আযাব বানান। দিক আর উপকার নিয়ে নিজের ব্যাখ্যার পরে তাবারী এটি উল্লেখ করেন, এর সঙ্গে আর কিছু যোগ করেন না।"
+          },
+          {
+            "en": "The two readings fit the same three words. One looks at where the wind comes from, the other at what it brings. Ibn Kathir's list holds wind that brings rain and wind that is barren, though he does not use the word punishment. The 2:164 article takes up at-Tabari's longer treatment of the phrase there, and it is not repeated. Here Qatada's sentence is enough to change how a breeze is felt: the same air, sent by the same Lord, can arrive as either.",
+            "bn": "একই তিনটি শব্দে দুটি ব্যাখ্যাই খাপ খায়। একটি দেখে বাতাস কোথা থেকে আসে, অন্যটি দেখে বাতাস কী নিয়ে আসে। ইবন কাসীরের তালিকায় বৃষ্টি আনা বাতাসও আছে, বন্ধ্যা বাতাসও আছে, যদিও আযাব শব্দটি তিনি ব্যবহার করেননি। ২:১৬৪ আয়াতে তাবারী এ বাক্যাংশ নিয়ে যে দীর্ঘ আলোচনা করেছেন, তা সে আয়াতের প্রবন্ধে এসেছে, এখানে আর বলা হচ্ছে না। এখানে কাতাদার একটি বাক্যই যথেষ্ট, মৃদু হাওয়াকেও তা অন্যভাবে অনুভব করায়। একই রবের পাঠানো একই বাতাস দুটোর যেকোনোটা হয়ে আসতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Third Ending Stands",
+          "bn": "তৃতীয় সমাপ্তির জায়গা"
+        },
+        "p": [
+          {
+            "en": "Li-qawmin ya'qilun: for a people who reason. At-Tabari calls the signs adilla and hujaj, evidences and proofs of Allah against His creation, for people who understand from Allah His proofs and grasp what He admonishes them with. Read with 45:3 and 45:4, the ending completes a sequence: believers, the certain, those who reason. Ibn Kathir calls it a taraqqin, a rising from a noble state to one nobler and higher. On his account the people who reason, named in this verse, stand at the top.",
+            "bn": "লি-কাওমিই ইয়া'কিলূন: সেই সম্প্রদায়ের জন্য, যারা বুদ্ধি খাটায়। তাবারী নিদর্শনগুলোকে বলেন আদিল্লা ও হুজাজ, সৃষ্টির উপর আল্লাহর দলিল ও প্রমাণ। এগুলো তাদের জন্য, যারা আল্লাহর কাছ থেকে তাঁর প্রমাণ বুঝে নেয়, আর তিনি যে উপদেশ দেন তা ধরতে পারে। ৪৫:৩ ও ৪৫:৪-এর সঙ্গে মিলিয়ে পড়লে এই সমাপ্তি একটি ধারা পূর্ণ করে: মু'মিন, নিশ্চিত বিশ্বাসী, বুদ্ধি খাটানো মানুষ। ইবন কাসীর একে বলেন তারাক্কী, এক মর্যাদাপূর্ণ অবস্থা থেকে তার চেয়েও উঁচু ও সম্মানিত অবস্থায় ওঠা। তাঁর হিসাবে এ আয়াতে যাদের নাম এসেছে, বুদ্ধি খাটানো সেই মানুষেরাই সবার উপরে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an places the third ending differently. It sees all three as stylistic variations that also say who benefits. The third, it says, could benefit people who may not yet be believers, or firm in belief, but who have a sound heart to understand; if they search the signs with deep insight, they will in the end reach faith and firm belief. Here ya'qilun reaches furthest outward rather than highest up. The 45:4 article sets both readings out in full; neither is preferred.",
+            "bn": "মাআরিফুল কুরআন তৃতীয় সমাপ্তিকে রাখে অন্য জায়গায়। তার চোখে তিনটিই বর্ণনাভঙ্গির ভিন্নতা, তবে এতে এটাও বলা আছে যে উপকার পাবে কারা। তৃতীয়টি সম্পর্কে সে বলে, এর উপকার পেতে পারে এমন মানুষও, যারা হয়তো এখনো মু'মিন নয়, বা বিশ্বাসে দৃঢ় নয়, কিন্তু যাদের বোঝার মতো সুস্থ অন্তর আছে। গভীর দৃষ্টি নিয়ে নিদর্শনগুলো খুঁজলে শেষ পর্যন্ত তারা ঈমান আর দৃঢ় বিশ্বাসে পৌঁছাবে। এখানে ইয়া'কিলূন সবচেয়ে উঁচুতে নয়, সবচেয়ে দূর পর্যন্ত পৌঁছায়। ৪৫:৪-এর প্রবন্ধে দুটি ব্যাখ্যা পুরোটা তুলে ধরা হয়েছে। কোনোটিকেই অগ্রাধিকার দেওয়া হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Ways to Parse Ayatin",
+          "bn": "আয়াতিন পড়ার তিন ব্যাকরণ"
+        },
+        "p": [
+          {
+            "en": "One grammatical point belongs to this verse. Al-Qurtubi reports that the general reading has ayatun at the end of both 45:4 and 45:5, while Hamza and al-Kisa'i read ayatin in both; the two readings are set out in the 45:4 article. In 45:5 the accusative needs more explaining, and he gives three accounts. Either the word is repeated because the sentence had grown long, as one says darabtu Zaydan Zaydan. Or fi is understood before wa-khtilafi, dropped because it was already said.",
+            "bn": "ব্যাকরণের একটি প্রশ্ন বিশেষভাবে এ আয়াতের। কুরতুবী জানান, সাধারণ কিরাআতে ৪৫:৪ আর ৪৫:৫ দুটোর শেষেই আয়াতুন, আর হামযা ও কিসাঈ দুই জায়গাতেই পড়েন আয়াতিন। দুই কিরাআতের কথা ৪৫:৪-এর প্রবন্ধে এসেছে। ৪৫:৫-এ আয়াতিন কেন নসবের অবস্থানে, সেটা বেশি ব্যাখ্যা চায়, আর কুরতুবী তিনটি ব্যাখ্যা দেন। এক, কথা দীর্ঘ হয়ে যাওয়ায় শব্দটি আবার বলা হয়েছে, যেমন বলা হয় দারাবতু যাইদান যাইদান। দুই, ওয়াখতিলাফির আগে ফী উহ্য আছে। আগে একবার বলা হয়েছে বলে এখানে তা বাদ পড়েছে।"
+          },
+          {
+            "en": "For that omission he cites a line of verse that Sibawayh quoted. The third account is 'atf 'ala 'amilayn, one conjunction serving two different governing words. Sibawayh did not allow it; al-Akhfash and a group of the Kufans did, and al-Qurtubi's text calls it ugly, since a conjunction stands in for one governing word and cannot stand in for two at once. For ayatun he allows a fresh sentence. And he adds that al-Farra' related both wa-khtilafu and ayatun in the nominative, making the alternation itself the signs.",
+            "bn": "এই বাদ পড়ার পক্ষে তিনি একটি কবিতার চরণ আনেন, যা সিবাওয়াইহ উদ্ধৃত করেছিলেন। তিন, 'আতফ 'আলা 'আমিলাইন, অর্থাৎ একটি সংযোজক অব্যয় দুটি ভিন্ন নিয়ন্ত্রক শব্দের কাজ করছে। সিবাওয়াইহ এটা বৈধ মানেননি। আখফাশ আর কূফার একদল ব্যাকরণবিদ মেনেছেন। কুরতুবীর লেখায় একে বলা হয়েছে অসুন্দর, কারণ সংযোজক অব্যয় একটি নিয়ন্ত্রকের জায়গা নিতে পারে, একসঙ্গে দুটির নয়। আয়াতুন পড়ার বেলায় তিনি নতুন বাক্য ধরার সুযোগ রাখেন। তিনি আরও জানান, ফাররা ওয়াখতিলাফু আর আয়াতুন দুটোকেই পেশ দিয়ে বর্ণনা করেছেন। তাতে আবর্তনটাই হয়ে যায় নিদর্শন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Ordinary Day, Read Slowly",
+          "bn": "সাধারণ একটি দিন, ধীরে পড়া"
+        },
+        "p": [
+          {
+            "en": "Some things are absent from the sources, and saying so is part of reading them honestly. None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. Ibn Kathir notes that Ibn Abi Hatim brought here a long report from Wahb ibn Munabbih on the making of the human being from four humours, and he calls it gharib, strange. He does not reproduce it, and neither does this article.",
+            "bn": "সূত্রগুলোতে কিছু জিনিস নেই, আর সেটা বলে দেওয়াও সৎভাবে পড়ার অংশ। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস জোড়েনি, কোনো শানে নুযূলও দেয়নি। ইবন কাসীর জানান, ইবন আবী হাতিম এখানে ওয়াহব ইবন মুনাব্বিহ থেকে একটি দীর্ঘ বর্ণনা এনেছেন, চারটি খিলত বা দেহরস থেকে মানুষ সৃষ্টির বিষয়ে। ইবন কাসীর একে বলেন গারীব, অদ্ভুত। তিনি বর্ণনাটি উদ্ধৃত করেন না, এ প্রবন্ধও করছে না।"
+          },
+          {
+            "en": "What the verse leaves is a practice that fits into an ordinary day. Watch the light go at evening and return at dawn, and remember that it happens upon you. When rain falls, call it what the verse calls it, provision. When the wind shifts, recall that it can come as mercy, and ask for that. The next verse, 45:6, calls these the signs of Allah recited in truth, and asks in what statement after them people will believe. The hope is to be among those who reason, and to let the reasoning arrive somewhere.",
+            "bn": "আয়াতটি যা রেখে যায়, তা এমন এক অভ্যাস যা সাধারণ একটি দিনেই ধরে যায়। সন্ধ্যায় আলো চলে যাওয়া আর ভোরে ফিরে আসা দেখুন, আর মনে রাখুন এটা ঘটছে আপনার উপর। বৃষ্টি নামলে তাকে সেই নামে ডাকুন যে নামে আয়াত ডেকেছে: রিযিক। বাতাস দিক বদলালে মনে করুন, তা রহমত হয়েও আসতে পারে, আর রহমতটাই চেয়ে নিন। পরের আয়াত, ৪৫:৬, এগুলোকে বলে আল্লাহর আয়াত, যা সত্যসহ তিলাওয়াত করা হয়। আর প্রশ্ন করে, এরপর তারা কোন কথায় ঈমান আনবে? আশা এটুকুই, যারা বুদ্ধি খাটায় তাদের মধ্যে থাকা, আর সেই চিন্তাকে কোথাও না কোথাও পৌঁছাতে দেওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "45:12": {
     "sections": [
       {

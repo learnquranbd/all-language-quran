@@ -26989,6 +26989,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are threatened in word or deed, take refuge in Allah first, and answer those who reject you by asking for distance, not by doing harm.",
     "lessonBn": "কথায় বা কাজে হুমকির মুখে পড়লে আগে আল্লাহর আশ্রয় নিন। আর যারা আপনাকে প্রত্যাখ্যান করে, তাদের জবাব দিন দূরে থাকার অনুরোধে, ক্ষতি করে নয়।"
+  },
+  "45:5": {
+    "reflectionEn": "Night slides into day and day into night, and I rarely look up when it happens. Rain falls, and ground that looked finished turns green again. The wind comes from one side, then from another, bringing rain one day and nothing the next. None of it waits for my permission, and none of it stops. The verse calls the rain provision, calls all of it signs, and says who will read them: a people who use their reason. That is not a test of cleverness. It asks whether what I see every day is allowed to reach my thinking at all. Today the light will change twice and the air will move. Will I think about who turns them, or only about whether to take an umbrella?",
+    "reflectionBn": "রাত গড়িয়ে দিন আসে, দিন গড়িয়ে রাত, অথচ তখন আমি খুব কমই চোখ তুলে তাকাই। বৃষ্টি নামে, আর যে মাটিকে একেবারে শেষ বলে মনে হয়েছিল, তা আবার সবুজ হয়ে ওঠে। বাতাস একবার এক দিক থেকে আসে, আরেকবার আরেক দিক থেকে। কোনো দিন বৃষ্টি আনে, কোনো দিন কিছুই আনে না। এর কোনোটাই আমার অনুমতির অপেক্ষা করে না, থেমেও থাকে না। আয়াত বৃষ্টিকে বলছে রিযিক, সবগুলোকে বলছে নিদর্শন, আর জানিয়ে দিচ্ছে কারা তা পড়তে পারবে: যারা বুদ্ধি খাটায়। এটা চালাকির পরীক্ষা নয়। প্রশ্নটা হলো, প্রতিদিন যা দেখি, তা আদৌ আমার চিন্তা পর্যন্ত পৌঁছাতে দিই কি না। আজও আলো দুবার বদলাবে, বাতাস বইবে। আমি কি ভাবব কে এসব ঘোরান, নাকি শুধু ভাবব ছাতা নেব কি না?",
+    "pointsEn": [
+      "When did I last watch evening come in and think of the One who brings it, not only of what I still have to finish?",
+      "Do I meet rain as weather that spoils my plans, or as the provision this verse calls it?",
+      "What in my life once looked dead and was later given life again, and did I give thanks for it?",
+      "When the wind turns, do I remember that it can come as mercy or as harm, and ask for the first?",
+      "Is my reason busy with everything except the signs I walk through every day?"
+    ],
+    "pointsBn": [
+      "শেষ কবে সন্ধ্যা নামতে দেখে ভেবেছি কে তা নিয়ে আসেন, শুধু বাকি কাজের হিসাব না কষে?",
+      "বৃষ্টিকে কি আমি কেবল পরিকল্পনা ভেস্তে দেওয়া আবহাওয়া হিসেবে দেখি, নাকি এ আয়াত যাকে রিযিক বলছে সেভাবে?",
+      "আমার জীবনে কোন জিনিস একসময় মৃত মনে হয়েছিল, পরে আবার প্রাণ পেয়েছে? তার জন্য কি শুকরিয়া আদায় করেছি?",
+      "বাতাসের দিক বদলালে কি মনে পড়ে যে তা রহমত হয়েও আসতে পারে, ক্ষতি হয়েও? তখন কি রহমতটা চেয়ে নিই?",
+      "আমার বুদ্ধি কি সবকিছু নিয়েই ব্যস্ত, শুধু রোজ যে নিদর্শনগুলোর ভেতর দিয়ে হাঁটি সেগুলো ছাড়া?"
+    ],
+    "lessonEn": "Let the turning of night and day, the rain and the shifting winds reach your thinking, and read them as signs of the One who sends them.",
+    "lessonBn": "রাত-দিনের আবর্তন, বৃষ্টি আর বাতাসের দিক বদলকে নিজের চিন্তা পর্যন্ত পৌঁছাতে দিন, আর এগুলোকে পড়ুন তাঁর নিদর্শন হিসেবে, যিনি এসব পাঠান।"
   }
 };
 
