@@ -24071,6 +24071,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Objections often hide their real cause, and this verse names it: denial of the Hour. Let certainty of the reckoning, not excuses, decide how you answer the truth.",
     "lessonBn": "আপত্তির আড়ালে প্রায়ই আসল কারণ লুকিয়ে থাকে, আর এ আয়াত সেটার নাম বলে দেয়: কিয়ামতকে অস্বীকার। সত্যের জবাব কেমন হবে, তা ঠিক করুক হিসাবের দিনের নিশ্চয়তা, অজুহাত নয়।"
+  },
+  "24:19": {
+    "reflectionEn": "The verse does not begin with those who invent a scandal, or even with those who repeat it. It begins further in, with those who love that it should spread. Before a word is said or typed, something in the heart can lean towards news of another believer's shame: a small pleasure at hearing it, an itch to be the one who passes it on. The verse names that leaning and sets a painful punishment against it, in this world and the next. Then it closes with a quiet rebuke: Allah knows, and you do not know. I do not know what really happened, who will be hurt, or how far a story travels once it leaves me. So why am I in such a hurry to send it on?",
+    "reflectionBn": "আয়াতটি শুরু হয় না যারা কেলেঙ্কারি বানায় তাদের দিয়ে, এমনকি যারা তা মুখে মুখে ছড়ায় তাদের দিয়েও না। শুরু হয় আরও ভেতর থেকে: যারা চায় কথাটা ছড়িয়ে পড়ুক। মুখে কিছু বলার বা লেখার আগেই অন্তর কখনো কখনো আরেক মুমিনের লজ্জার খবরের দিকে ঝুঁকে পড়ে। শুনে একটু মজা লাগে, মনে হয় খবরটা আমিই আগে অন্যকে জানাই। আয়াত এই ঝোঁকটাকেই চিহ্নিত করে, আর তার বিপরীতে রাখে দুনিয়া ও আখিরাতের যন্ত্রণাদায়ক শাস্তি। তারপর শেষ হয় এক শান্ত ধমকে: আল্লাহ জানেন, তোমরা জানো না। আসলে কী ঘটেছিল আমি জানি না। কে কষ্ট পাবে, তাও জানি না। আমার কাছ থেকে বেরোনোর পর গল্পটা কত দূর যায়, তাও জানি না। তাহলে সেটা আরেকজনকে পাঠাতে আমার এত তাড়া কেন?",
+    "pointsEn": [
+      "When I last heard something shameful about a fellow believer, what did I feel first: sorrow, or a small thrill at knowing?",
+      "How much of what I forward or repeat have I actually checked, and how much of it could I stand behind before Allah?",
+      "Is there a story about someone that I keep alive simply by bringing it up again?",
+      "If my own hidden faults were spread as easily as I spread other people's, what would be said about me today?",
+      "What would it look like this week to cover a brother's or sister's fault instead of going looking for it?"
+    ],
+    "pointsBn": [
+      "শেষবার কোনো মুমিন ভাই বা বোনের লজ্জার কথা শুনে আমার মনে প্রথমে কী জেগেছিল: দুঃখ, নাকি জেনে ফেলার একটু রোমাঞ্চ?",
+      "যা আমি ফরোয়ার্ড করি বা মুখে মুখে বলি, তার কতটুকু আমি যাচাই করেছি? আর তার কতটুকুর দায় আল্লাহর সামনে নিতে পারব?",
+      "কারও সম্পর্কে এমন কোনো গল্প কি আছে, যা আমি বারবার তুলে শুধু বাঁচিয়ে রাখছি?",
+      "অন্যের দোষ আমি যত সহজে ছড়াই, আমার গোপন দোষগুলো তত সহজে ছড়ালে আজ মানুষ আমার সম্পর্কে কী বলত?",
+      "এ সপ্তাহে কোনো ভাই বা বোনের দোষ খুঁজে বেড়ানোর বদলে তা ঢেকে রাখার চেহারাটা আমার জীবনে কেমন হবে?"
+    ],
+    "lessonEn": "Guard your heart against wanting another believer's shame to spread, and let an unproven story stop with you; Allah knows what you do not.",
+    "lessonBn": "আরেক মুমিনের লজ্জা ছড়িয়ে পড়ুক, এমন চাওয়া থেকে অন্তরকে বাঁচিয়ে রাখুন। অপ্রমাণিত কোনো গল্প আপনার কাছে এসেই থেমে যাক। আল্লাহ জানেন যা আপনি জানেন না।"
   }
 };
 

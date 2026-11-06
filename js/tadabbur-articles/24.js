@@ -447,6 +447,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Third Discipline",
+          "bn": "তৃতীয় আদব"
+        },
+        "p": [
+          {
+            "en": "The verse sits in a run of corrections to believers who heard a false charge. 24:12 asked why they had not thought well of each other; 24:15 described a report caught on the tongue and passed on without knowledge; 24:17 warned them never to return to the like of it. Ibn Kathir calls 24:19 the third disciplining (ta'dib) in the series, aimed at whoever heard evil talk, let some of it settle in his mind and spoke of it: he is not to multiply it, spread it or broadcast it.",
+            "bn": "আয়াতটি এসেছে একের পর এক সংশোধনের মাঝখানে। সম্বোধন সেই মুমিনদের প্রতি, যারা এক মিথ্যা অভিযোগ শুনেছিল। ২৪:১২ আয়াত জিজ্ঞেস করেছে, তারা পরস্পরের ব্যাপারে ভালো ধারণা করল না কেন। ২৪:১৫ আয়াত দেখিয়েছে, খবরটা জিভে জিভে লুফে নিয়ে না জেনেই সামনে চালান করা হয়েছিল। ২৪:১৭ আয়াত সতর্ক করেছে, আর কখনো যেন এমন না হয়। ইবন কাসীর ২৪:১৯ আয়াতকে বলেন এ ধারার তৃতীয় আদব-শিক্ষা (তা'দীব)। লক্ষ্য সেই ব্যক্তি, যে মন্দ কথা শুনেছে, তার কিছুটা মনে বসে গেছে, আর সে তা মুখেও এনেছে। সে যেন কথাটা আর না বাড়ায়, না ছড়ায়, না প্রচার করে।"
+          },
+          {
+            "en": "So the verse adds no account of what was said; 24:11 to 24:16 have given that. Its subject is what a community does with a report once it holds it. Ma'arif al-Qur'an reads it so: those who had any part in the slander are condemned again, with an added element, that people who propagate such rumours actually want obscenity to spread among the Muslims. The thread then runs through 24:20's reminder of Allah's favour to 24:21's warning against the footsteps of Satan, who commands indecency.",
+            "bn": "অর্থাৎ কী বলা হয়েছিল, তার নতুন কোনো বিবরণ এখানে নেই। সে বিবরণ ২৪:১১ থেকে ২৪:১৬ আয়াত আগেই দিয়েছে। এ আয়াতের বিষয় হলো, কোনো খবর হাতে এলে সমাজ তা নিয়ে কী করে। মাআরিফুল কুরআন আয়াতটি এভাবেই পড়ে: অপবাদে যারা কোনোভাবে শরিক ছিল, এখানে আবার তাদের নিন্দা করা হয়েছে। নতুন যা যোগ হয়েছে তা হলো, এমন গুজব যারা ছড়ায় তারা আসলে চায় মুসলিমদের মধ্যে অশ্লীলতা ছড়িয়ে পড়ুক। এরপর ধারাটা ২৪:২০ আয়াতে আল্লাহর অনুগ্রহের কথা মনে করিয়ে ২৪:২১ আয়াতে পৌঁছায়, যেখানে সতর্কবাণী শয়তানের পদাঙ্ক নিয়ে, যে অশ্লীলতার আদেশ দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Surface and Scatter",
+          "bn": "প্রকাশ পাওয়া, ছড়িয়ে পড়া"
+        },
+        "p": [
+          {
+            "en": "An tashi'a al-fahishah: that the indecency should spread. Al-Qurtubi glosses tashi'a as tafshu, to become widespread, and lists verbal nouns of the root sh-y-', all meaning that a thing appeared and dispersed. Mujahid, in at-Tabari, says it means tazhar, that it surface. At-Tabari's own paraphrase uses a third verb: those who love that zina be broadcast (yadhi'a) among those who believed in Allah and His Messenger. The picture is of something hidden that comes out and then travels.",
+            "bn": "আন তাশীআল ফাহিশাহ: অশ্লীলতা যেন ছড়িয়ে পড়ে। কুরতুবী তাশীআর অর্থ করেন তাফশূ, অর্থাৎ ব্যাপক হয়ে যাওয়া। শীন-ইয়া-আইন ধাতুর কয়েকটি ক্রিয়াবিশেষ্যও তিনি উল্লেখ করেন, সবগুলোর অর্থ একই: জিনিসটা প্রকাশ পেল এবং চারদিকে ছড়িয়ে গেল। তাবারীতে মুজাহিদ বলেন, তাশীআ মানে তাযহার, প্রকাশ পাওয়া। তাবারীর নিজের ব্যাখ্যায় আসে তৃতীয় আরেকটি ক্রিয়া: যারা চায় আল্লাহ ও তাঁর রাসূলের উপর ঈমান আনা মানুষদের মধ্যে যিনার কথা রটে যাক (ইয়াযীআ)। ছবিটা এমন: যা ঢাকা ছিল তা বেরিয়ে আসে, তারপর মুখে মুখে ঘুরতে থাকে।"
+          },
+          {
+            "en": "What is the indecency? Al-Qurtubi gives two readings: the foul deed whose foulness passes all bounds, and, introduced with 'it is said', the evil word. Al-Muyassar joins them: an accusation of zina, or any evil speech. As-Sa'di keeps it wide, as matters shameful, repugnant and grave. Ibn Kathir explains the whole clause through speech: they prefer that ugly talk about the believers should come out into the open. Each reading places the harm in what is said about people.",
+            "bn": "ফাহিশা বা অশ্লীলতা বলতে কী বোঝায়? কুরতুবী দুটি ব্যাখ্যা দেন। প্রথমটিতে ফাহিশা হলো এমন কুৎসিত কাজ, যার কদর্যতা সব সীমা ছাড়িয়ে যায়। দ্বিতীয়টি তিনি আনেন 'বলা হয়' বলে: এখানে ফাহিশা মানে মন্দ কথা। মুয়াসসার দুটোকে এক করে: যিনার অপবাদ, কিংবা যেকোনো মন্দ কথা। সা'দী অর্থটা প্রশস্ত রাখেন: জঘন্য, ঘৃণ্য ও গুরুতর বিষয়। ইবন কাসীর পুরো বাক্যটি কথার দিক থেকেই ব্যাখ্যা করেন: তারা পছন্দ করে মুমিনদের সম্পর্কে কুৎসিত কথা প্রকাশ্যে চলে আসুক। প্রতিটি ব্যাখ্যাতেই ক্ষতির জায়গা হলো মানুষের সম্পর্কে যা বলা হয়।"
+          },
+          {
+            "en": "As-Sa'di adds a clause that matters for anyone who believes a report to be true. The threat holds, he says, whether the indecency had actually been committed or not (sawa'un kanat al-fahishah sadiratan aw ghayra sadiratin). On his reading the sin lies in wanting a believer's shame to become known, and the truth of the report does not lift it. The passage concerns a lie; as-Sa'di carries its reasoning to a real fault that someone wishes published.",
+            "bn": "যারা কোনো খবরকে সত্য বলে মনে করে, তাদের জন্য সা'দী একটি গুরুত্বপূর্ণ কথা যোগ করেন। তাঁর মতে হুমকিটা বহাল থাকে, অশ্লীল কাজটা আসলেই ঘটে থাকুক বা না ঘটুক (সাওয়াউন কানাতিল ফাহিশাতু সাদিরাতান আও গাইরা সাদিরাহ)। তাঁর পাঠে গুনাহটা হলো কোনো মুমিনের লজ্জা মানুষ জেনে যাক, এই চাওয়া। খবরটা সত্য হলেও সে গুনাহ মাফ হয়ে যায় না। আলোচ্য অংশটি অবশ্য এক মিথ্যা অপবাদ নিয়ে। সা'দী আয়াতের যুক্তিকে নিয়ে যান সেই ক্ষেত্রে, যেখানে দোষটা সত্যিকারের, তবু কেউ চায় তা ফাঁস হোক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Words First Meant",
+          "bn": "প্রথমে কারা উদ্দেশ্য ছিল"
+        },
+        "p": [
+          {
+            "en": "The commentators agree on the setting and differ only in naming the people. Mujahid, in at-Tabari, says the spreading meant was talk about the matter of A'ishah (RA). Ibn Zayd, also in at-Tabari, names Abdullah ibn Ubayy ibn Salul, as the hypocrite who spread the fabrication. Al-Baghawi says the verse means Ibn Ubayy and his companions among the hypocrites, and Tanwir al-Miqbas, the commentary ascribed to Ibn Abbas, says much the same. Al-Jalalayn says those meant are the band (al-'usbah) of 24:11.",
+            "bn": "প্রেক্ষাপট নিয়ে তাফসীরকারদের মধ্যে মতভেদ নেই। ভিন্নতা শুধু মানুষগুলোর নাম বলায়। তাবারীতে মুজাহিদ বলেন, যে ছড়ানোর কথা বলা হয়েছে তা আয়েশা (রাঃ)-এর বিষয়ে কথাবার্তা। তাবারীতেই ইবন যায়দ নাম নেন আবদুল্লাহ ইবন উবাই ইবন সালুলের। তাঁর ভাষায়, এই মুনাফিকই আয়েশা (রাঃ)-এর বিরুদ্ধে মিথ্যা রটনা ছড়িয়েছিল। বাগাভী বলেন, আয়াতের উদ্দেশ্য ইবন উবাই ও তার মুনাফিক সঙ্গীরা। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাসও প্রায় একই কথা বলে। জালালাইন বলে, এখানে উদ্দেশ্য ২৪:১১ আয়াতে উল্লিখিত সেই দল (আল-উসবা)।"
+          },
+          {
+            "en": "Al-Qurtubi makes a remark on the wording. 'Among those who believe', he says, means the chaste men and women, and what is meant by this general expression is A'ishah and Safwan (RA). Yet the verse names no one; it speaks of 'those who believe' and 'those who love'. Maududi draws the consequence: the direct sense concerns those who cast aspersions, but the words take in every form of propagating indecency.",
+            "bn": "শব্দচয়ন নিয়ে কুরতুবী একটি মন্তব্য করেন। তাঁর মতে 'যারা ঈমান এনেছে তাদের মধ্যে' মানে সচ্চরিত্র নারী-পুরুষ, আর এই ব্যাপক শব্দ দিয়ে বোঝানো হয়েছে আয়েশা ও সাফওয়ান (রাঃ)-কে। তবু আয়াত কারও নাম নেয় না। বলে শুধু 'যারা ঈমান এনেছে' আর 'যারা পছন্দ করে'। মওদূদী এখান থেকে সিদ্ধান্ত টানেন। সরাসরি অর্থে কথাটা যারা অপবাদ দেয় তাদের নিয়ে। তবে শব্দগুলো অশ্লীলতা ছড়ানোর সব পথকেই শামিল করে।"
+          },
+          {
+            "en": "Because the verse names its targets only by what they loved and did, it is easy to point it outward, and that would misread it. It describes what the passage describes, people who wanted a lie about believers to spread, and it licenses nothing against any living person or community. Its threat is addressed to a disposition, and the first place to look for that disposition is in oneself.",
+            "bn": "আয়াত তার লক্ষ্যদের চিনিয়েছে শুধু তাদের চাওয়া আর কাজ দিয়ে। তাই একে অন্যের দিকে তাক করা সহজ, আর তা হবে ভুল পাঠ। পুরো অংশটি যা বর্ণনা করে, আয়াতও তা-ই বর্ণনা করে: কিছু মানুষ চেয়েছিল মুমিনদের সম্পর্কে এক মিথ্যা ছড়িয়ে পড়ুক। কোনো জীবিত ব্যক্তি বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। হুমকিটা একটি মনোভাবের বিরুদ্ধে। সে মনোভাব খুঁজতে হবে প্রথমে নিজের ভেতরেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Threat Aimed at the Heart",
+          "bn": "হুমকিটা অন্তরের দিকে"
+        },
+        "p": [
+          {
+            "en": "The verb is yuhibbuna, they love. The verse does not say 'those who spread' but 'those who love that it should spread', and as-Sa'di presses the point. If this threat falls on the mere love that indecency should spread, and on relishing it in the heart (istihla' dhalika bi-l-qalb), he asks, what then of the greater wrong, making it public and passing it on? He grounds the punishment in three faults: deceit towards Muslim brothers, loving evil for them, and boldness against their honour.",
+            "bn": "ক্রিয়াটি ইউহিব্বূনা, তারা ভালোবাসে বা পছন্দ করে। আয়াত বলেনি 'যারা ছড়ায়'। বলেছে 'যারা পছন্দ করে যে তা ছড়িয়ে পড়ুক'। সা'দী এ জায়গাটাতেই জোর দেন। শুধু অশ্লীলতা ছড়িয়ে পড়ার চাওয়া আর অন্তরে তার স্বাদ নেওয়ার (ইসতিহলাউ যালিকা বিল কালব) উপরই যদি এমন হুমকি থাকে, তবে এর চেয়ে বড় কাজের কী হবে, অর্থাৎ তা প্রকাশ করা আর অন্যের কাছে পৌঁছে দেওয়ার? শাস্তির কারণ হিসেবে তিনি তিনটি দোষ চিহ্নিত করেন: মুসলিম ভাইদের সঙ্গে প্রতারণা, তাদের জন্য মন্দ কামনা, আর তাদের মান-সম্মানের উপর আঘাত হানার দুঃসাহস।"
+          },
+          {
+            "en": "Other commentators read the love through the speech it produces. Ibn Kathir frames the verse as discipline for whoever heard evil talk and spoke of it, glossing the love as preferring (yakhtaruna) that ugly talk appear. Ma'arif al-Qur'an makes the love the motive behind the propagating, and al-Jalalayn adds 'by the tongue' to the spreading. The texts read here do not set this out as a dispute; they differ in where the weight falls, as-Sa'di on the heart itself, the others on the heart as it shows in the tongue.",
+            "bn": "অন্য তাফসীরকারেরা এই পছন্দকে দেখেন তার থেকে জন্ম নেওয়া কথার ভেতর দিয়ে। ইবন কাসীর আয়াতটিকে সাজান এমন লোকের আদব-শিক্ষা হিসেবে, যে মন্দ কথা শুনে তা মুখে এনেছে। আর 'পছন্দ করে'-র ব্যাখ্যা দেন 'বেছে নেয়' (ইয়াখতারূনা) দিয়ে: তারা চায় কুৎসিত কথা প্রকাশ পাক। মাআরিফুল কুরআনের কাছে এই পছন্দই প্রচারের পেছনের তাগিদ। জালালাইন ছড়ানোর সঙ্গে যোগ করে 'জিভ দিয়ে'। এখানে পড়া লেখাগুলো একে বিতর্ক হিসেবে দাঁড় করায় না। পার্থক্য শুধু জোরের জায়গায়। সা'দীর জোর অন্তরের উপর, অন্যদের জোর জিভে প্রকাশ পাওয়া অন্তরের উপর।"
+          },
+          {
+            "en": "As-Sa'di closes with the opposite of that love. All of this, he says, is from Allah's mercy to His believing servants, guarding their honour as He guarded their blood and wealth. He commanded them what mutual sincerity requires: that each love for his brother what he loves for himself, and dislike for him what he dislikes for himself. Read so, the verse diagnoses a love turned backwards, wishing on a brother the exposure a man dreads for himself.",
+            "bn": "সা'দী শেষ করেন এই পছন্দের বিপরীত কথাটা দিয়ে। তাঁর মতে এ সবই মুমিন বান্দাদের প্রতি আল্লাহর রহমত। তিনি যেমন তাদের জান ও মাল হেফাজত করেছেন, তেমনি হেফাজত করেছেন তাদের মান-সম্মানও। আর পরস্পরের প্রতি আন্তরিকতা যা দাবি করে, তারই আদেশ দিয়েছেন: প্রত্যেকে তার ভাইয়ের জন্য তা-ই পছন্দ করবে যা নিজের জন্য করে, আর তা-ই অপছন্দ করবে যা নিজের জন্য অপছন্দ করে। এভাবে পড়লে আয়াতটি এক উল্টোমুখী ভালোবাসার দোষ ধরিয়ে দেয়। যে লজ্জার ভয় মানুষ নিজের বেলায় করে, ভাইয়ের বেলায় সেটাই সে কামনা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pain in Both Worlds",
+          "bn": "দুই জগতের যন্ত্রণা"
+        },
+        "p": [
+          {
+            "en": "Lahum 'adhabun alimun fi-d-dunya wa-l-akhirah: theirs is a painful punishment in this world and the Hereafter. Most of the commentators read here name the worldly part as the hadd. Ibn Kathir, al-Baghawi and al-Qurtubi say simply that it is the hadd. At-Tabari specifies the hadd Allah set for whoever accuses chaste women and chaste men of zina, and al-Jalalayn calls it the prescribed punishment for false accusation. As-Sa'di describes the pain as reaching both heart and body.",
+            "bn": "লাহুম আযাবুন আলীমুন ফিদ দুনইয়া ওয়াল আখিরাহ: তাদের জন্য আছে দুনিয়া ও আখিরাতে যন্ত্রণাদায়ক শাস্তি। এখানে পড়া তাফসীরকারদের বেশিরভাগ দুনিয়ার শাস্তি বলতে হদ্দ বোঝান। ইবন কাসীর, বাগাভী ও কুরতুবী সংক্ষেপে বলেন, এটা হদ্দ। তাবারী স্পষ্ট করে বলেন, সেই হদ্দ যা আল্লাহ নির্ধারণ করেছেন সচ্চরিত্র নারী ও পুরুষের বিরুদ্ধে যিনার অপবাদ দেওয়া লোকের জন্য। জালালাইন একে বলে মিথ্যা অপবাদের নির্ধারিত শাস্তি। সা'দী বলেন, এ যন্ত্রণা পৌঁছায় অন্তর ও দেহ দুটোতেই।"
+          },
+          {
+            "en": "Al-Muyassar widens the worldly part: the hadd, and other worldly afflictions besides (wa ghayruhu mina-l-balaya ad-dunyawiyyah). Ma'arif al-Qur'an takes up the case the hadd cannot reach. Whoever escaped it because the proof it requires was lacking has still earned the punishment, which will then be carried out in the Hereafter. This article reports these readings and draws no legal ruling from them; the hadd belongs to a court, not to a reader.",
+            "bn": "মুয়াসসার দুনিয়ার শাস্তির পরিধি বাড়িয়ে দেয়: হদ্দ, আর সেই সঙ্গে দুনিয়ার অন্যান্য বিপদাপদ (ওয়া গাইরুহু মিনাল বালায়াদ দুনইয়াবিয়্যাহ)। মাআরিফুল কুরআন এমন ক্ষেত্রের কথা তোলে, যেখানে হদ্দ পৌঁছায় না। প্রয়োজনীয় প্রমাণ না থাকায় যে হদ্দ থেকে বেঁচে গেছে, শাস্তিটা সেও অর্জন করেছে। তখন তা কার্যকর হবে আখিরাতে। এ লেখা শুধু এই ব্যাখ্যাগুলো তুলে ধরে, এখান থেকে কোনো ফিকহি বিধান বের করে না। হদ্দ আদালতের বিষয়, পাঠকের হাতের বিষয় নয়।"
+          },
+          {
+            "en": "On the Hereafter the commentators diverge. At-Tabari makes the punishment of Hell conditional: it is for whoever dies persisting in this, unrepentant (in mata musirran 'ala dhalika ghayra ta'ib), and al-Muyassar likewise says 'if they do not repent'. Al-Qurtubi restricts the Hereafter part to the hypocrites and calls the clause specific (makhsus), since he has shown that the hadd is an expiation (kaffarah) for believers; he then records at-Tabari's condition as a second account. Both readings stand.",
+            "bn": "আখিরাতের শাস্তি নিয়ে তাফসীরকারদের পথ আলাদা হয়ে যায়। তাবারী জাহান্নামের শাস্তিকে শর্তযুক্ত করেন: তা সেই ব্যক্তির জন্য, যে এর উপর অটল থেকে তওবা না করেই মারা যায় (ইন মাতা মুসিররান আলা যালিকা গাইরা তাইব)। মুয়াসসারও বলে, 'যদি তারা তওবা না করে'। কুরতুবী অন্য পথে যান। তিনি আখিরাতের অংশটি মুনাফিকদের মধ্যে সীমিত রাখেন এবং বাক্যটিকে বলেন বিশেষায়িত (মাখসূস)। কারণ তাঁর ভাষায়, তিনি আগেই দেখিয়েছেন যে মুমিনদের জন্য হদ্দ হলো কাফফারা। এরপর তিনি দ্বিতীয় মত হিসেবে তাবারীর শর্তটিও উল্লেখ করেন। দুটি ব্যাখ্যাই এখানে পাশাপাশি থাকছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Knows, You Do Not",
+          "bn": "তিনি জানেন, তোমরা জানো না"
+        },
+        "p": [
+          {
+            "en": "Wa-llahu ya'lamu wa-antum la ta'lamun: and Allah knows, and you do not know. For at-Tabari, Allah knows whether those who brought the slander lied or spoke the truth, and you do not, because you do not know the unseen. So do not relate, about the people of faith, what you have no knowledge of, least of all about the wives of the Messenger ﷺ, lest you perish. Al-Baghawi names what is known: their lie, the innocence of A'ishah (RA), and the displeasure of Allah into which they plunged.",
+            "bn": "ওয়াল্লাহু ইয়া'লামু ওয়া আনতুম লা তা'লামূন: আল্লাহ জানেন, আর তোমরা জানো না। তাবারীর ব্যাখ্যায়, অপবাদ নিয়ে যারা এসেছিল তারা মিথ্যা বলেছে না সত্য, আল্লাহ তা জানেন। তোমরা জানো না, কারণ গায়েবের জ্ঞান তোমাদের নেই। তাই যে বিষয়ে তোমাদের জ্ঞান নেই, ঈমানদারদের সম্পর্কে তা বর্ণনা করো না, বিশেষ করে রাসূল ﷺ-এর স্ত্রীদের সম্পর্কে। নইলে ধ্বংস হয়ে যাবে। বাগাভী বলে দেন কী জানা আছে: তাদের মিথ্যা, আয়েশা (রাঃ)-এর নির্দোষিতা, আর তারা আল্লাহর যে অসন্তুষ্টিতে ডুবে গিয়েছিল তা।"
+          },
+          {
+            "en": "Others take the clause wider. Al-Qurtubi says Allah knows how grave this sin is and what its recompense will be; al-Muyassar, that He alone knows the good of His servants and the outcomes of things. As-Sa'di makes it the reason for the teaching: because He knows and you do not, He taught you what you did not know. Ibn Kathir turns it into counsel: refer the matter to Him and you will be guided. Maududi applies it to society, where nobody sees how far a single act reaches.",
+            "bn": "অন্যরা বাক্যটি আরও প্রশস্ত অর্থে নেন। কুরতুবী বলেন, এ গুনাহ কত বড় আর তার প্রতিফল কী হবে, তা আল্লাহ জানেন। মুয়াসসার বলে, বান্দাদের কল্যাণ আর সব বিষয়ের পরিণাম একমাত্র তিনিই জানেন। সা'দী একে দেখেন এই শিক্ষারই কারণ হিসেবে: তিনি জানেন আর তোমরা জানো না, তাই তিনি তোমাদের অজানা বিষয় শিখিয়েছেন। ইবন কাসীর একে উপদেশে পরিণত করেন: বিষয়টা তাঁর উপর ছেড়ে দাও, পথ পাবে। মওদূদী এটি প্রয়োগ করেন সমাজের উপর, যেখানে একটি কাজ কত দূর গড়ায় তা কেউ দেখতে পায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Covering Rather Than Tracking",
+          "bn": "খোঁজা নয়, ঢেকে রাখা"
+        },
+        "p": [
+          {
+            "en": "No commentator read here attaches a sound hadith to this verse. Two general narrations, not attached to it, state its ethic. Muslim records from Ibn Umar (RA) that the Messenger of Allah ﷺ said: 'A Muslim is the brother of a Muslim; he does not wrong him and does not abandon him. Whoever sees to his brother's need, Allah sees to his need. Whoever relieves a Muslim of a hardship, Allah relieves him by it of one of the hardships of the Day of Resurrection. And whoever covers a Muslim, Allah will cover him on the Day of Resurrection.' (Muslim 2580)",
+            "bn": "এখানে পড়া কোনো তাফসীরকার এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেননি। তবে দুটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, কিন্তু একই নৈতিকতার কথা বলে। মুসলিম বর্ণনা করেন ইবন উমর (রাঃ) থেকে, রাসূলুল্লাহ ﷺ বলেছেন: 'মুসলিম মুসলিমের ভাই। সে তার উপর জুলুম করে না, তাকে শত্রুর হাতে ছেড়েও দেয় না। যে তার ভাইয়ের প্রয়োজন পূরণে থাকে, আল্লাহ তার প্রয়োজন পূরণে থাকেন। যে কোনো মুসলিমের একটি কষ্ট দূর করে, আল্লাহ এর বিনিময়ে কিয়ামতের দিনের কষ্টগুলোর একটি তার থেকে দূর করবেন। আর যে কোনো মুসলিমের দোষ ঢেকে রাখে, আল্লাহ কিয়ামতের দিন তার দোষ ঢেকে রাখবেন।' (মুসলিম ২৫৮০)"
+          },
+          {
+            "en": "At-Tirmidhi records from Ibn Umar (RA) that the Messenger ﷺ climbed the minbar and called out in a raised voice: 'O you who have accepted Islam with the tongue while faith has not reached the heart! Do not harm the Muslims, do not shame them, and do not track down their private failings. For whoever tracks down his Muslim brother's failing, Allah will track down his, and whoever Allah tracks down, He exposes, even in the depths of his dwelling.' (Tirmidhi 2032)",
+            "bn": "তিরমিযী ইবন উমর (রাঃ) থেকে বর্ণনা করেন, রাসূল ﷺ মিম্বরে উঠে উঁচু স্বরে ডেকে বললেন: 'হে সেই লোকেরা, যারা জিভে ইসলাম গ্রহণ করেছ অথচ ঈমান অন্তর পর্যন্ত পৌঁছায়নি! মুসলিমদের কষ্ট দিয়ো না, তাদের লজ্জা দিয়ো না, তাদের গোপন দোষের পেছনে লেগো না। কারণ যে তার মুসলিম ভাইয়ের গোপন দোষের পেছনে লাগে, আল্লাহ তার গোপন দোষের পেছনে লাগেন। আর আল্লাহ যার পেছনে লাগেন, তাকে লাঞ্ছিত করেন, সে নিজের ঘরের ভেতরে থাকলেও।' (তিরমিযী ২০৩২)"
+          },
+          {
+            "en": "Nafi', the narrator, adds that Ibn Umar once looked at the Ka'bah and said: how great you are and how great your sanctity, yet the believer is greater in sanctity with Allah than you. At-Tirmidhi grades the hadith hasan gharib, known only through al-Husayn ibn Waqid, and notes a similar report from Abu Barzah al-Aslami, which Abu Dawud records (Abu Dawud 4880) with no grading of his own.",
+            "bn": "বর্ণনাকারী নাফি যোগ করেন, একদিন ইবন উমর (রাঃ) কাবার দিকে তাকিয়ে বললেন: তুমি কত মহান, তোমার মর্যাদা কত বড়! তবু আল্লাহর কাছে মুমিনের মর্যাদা তোমার চেয়েও বড়। তিরমিযী হাদীসটিকে বলেন হাসান গরীব। তাঁর কথায়, আল-হুসাইন ইবন ওয়াকিদের সূত্র ছাড়া এটি জানা যায় না। তিনি আরও উল্লেখ করেন, আবু বারযা আল-আসলামী থেকেও এর কাছাকাছি বর্ণনা আছে। আবু দাউদ সে বর্ণনাটি এনেছেন (আবু দাউদ ৪৮৮০), নিজের কোনো মান-নির্ধারণ ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before It Leaves Your Hands",
+          "bn": "হাত থেকে বেরোনোর আগে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws from the verse what it calls the Qur'an's system for preventing indecency. In the first place such news should not spread. If it comes out at all, it must rest on lawful proof, so that the punishment is seen together with the news. Where there is neither proof nor punishment, it argues, publicity itself dulls people's revulsion at the deed. Its example is scandals printed daily in newspapers and read by the young, until the wickedness seems smaller and a slow inclination towards it grows.",
+            "bn": "মাআরিফুল কুরআন এ আয়াত থেকে বের করে অশ্লীলতা প্রতিরোধে কুরআনের এক ব্যবস্থা। প্রথম কথা, এমন খবর ছড়ানোই উচিত নয়। আর যদি প্রকাশ পেয়েই যায়, তবে তার পেছনে থাকতে হবে শরীয়তসম্মত প্রমাণ, যাতে খবরের সঙ্গে শাস্তিটাও মানুষের চোখে পড়ে। তার যুক্তি, যেখানে প্রমাণও নেই, শাস্তিও নেই, সেখানে প্রচারটাই মানুষের মনে কাজটার প্রতি ঘৃণা ভোঁতা করে দেয়। উদাহরণ হিসেবে সে খবরের কাগজের কথা বলে। রোজ সেখানে কেলেঙ্কারি ছাপা হয়, তরুণ-তরুণীরা পড়ে। ধীরে ধীরে অপকর্মটা হালকা মনে হতে থাকে, আর মনে তার প্রতি এক চাপা ঝোঁক তৈরি হয়।"
+          },
+          {
+            "en": "Ma'arif wrote of print; the point applies with more force where any phone can publish. A screenshot, a forwarded voice note, a post that only asks 'is this true?': each shows a believer's alleged fault to people who had no need to know of it. The verse asks the reader about his own part, and as-Sa'di's point comes first: am I pleased to have heard this? It is no warrant to accuse anyone else of loving indecency.",
+            "bn": "মাআরিফের কথাটা ছাপা কাগজ নিয়ে। যেখানে যেকোনো ফোন থেকেই কিছু প্রকাশ করা যায়, সেখানে কথাটা আরও জোরালো। একটা স্ক্রিনশট, ফরোয়ার্ড করা একটা ভয়েস মেসেজ, কিংবা শুধু 'এটা কি সত্যি?' লেখা একটা পোস্ট। প্রতিটিই কোনো মুমিনের কথিত দোষ এমন মানুষের সামনে মেলে ধরে, যাদের তা জানার কোনো দরকার ছিল না। আয়াত পাঠককে প্রশ্ন করে তার নিজের ভূমিকা নিয়ে। আর সা'দীর কথাটাই আগে আসে: এটা শুনে কি আমার ভালো লেগেছে? অন্য কাউকে অশ্লীলতাপ্রেমী বলে অভিযুক্ত করার সনদ এ আয়াত নয়।"
+          },
+          {
+            "en": "The practical rule follows the passage. Do not relate what you have no knowledge of, at-Tabari's lesson from the closing clause. Do not track down what is hidden, as at-Tirmidhi's narration forbids. Cover what you happen to see, as Muslim's narration promises. And read on into 24:20, which answers the threat with Allah's favour and mercy: the repentance that at-Tabari and al-Muyassar keep open is open also to whoever has already passed a story on.",
+            "bn": "করণীয়টা এ অংশ থেকেই বেরিয়ে আসে। যে বিষয়ে জ্ঞান নেই, তা বর্ণনা করবেন না। শেষ বাক্য থেকে তাবারী এ শিক্ষাই টানেন। গোপন দোষের পেছনে লাগবেন না। তিরমিযীর বর্ণনা ঠিক এটাই নিষেধ করে। যা চোখে পড়ে যায়, তা ঢেকে রাখুন। মুসলিমের বর্ণনা এরই প্রতিদানের কথা বলে। আর পড়তে থাকুন ২৪:২০ আয়াত পর্যন্ত, যা এই হুমকির জবাব দেয় আল্লাহর অনুগ্রহ ও রহমত দিয়ে। তাবারী ও মুয়াসসার তওবার যে দরজা খোলা রাখেন, যে ইতিমধ্যে কোনো গল্প সামনে চালান করে দিয়েছে, তার জন্যও তা খোলা।"
+          }
+        ]
+      }
+    ]
+  },
   "24:22": {
     "sections": [
       {
