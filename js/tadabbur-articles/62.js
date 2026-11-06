@@ -159,6 +159,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "62:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Load It Cannot Read",
+          "bn": "যে বোঝা পড়া যায় না"
+        },
+        "p": [
+          {
+            "en": "Mathalu-lladhina hummilu-t-tawrata thumma lam yahmiluha ka-mathali-l-himari yahmilu asfara: the likeness of those who were entrusted with the Torah and then did not carry it is that of a donkey carrying volumes. The verse sets one picture beside another and leaves the reader to see the match. A beast walks under a load of large books; it feels their weight and knows nothing of what they say. Then comes the judgement: wretched is the likeness of the people who denied the signs of Allah, and Allah does not guide the wrongdoing people.",
+            "bn": "মাসালুল্লাযীনা হুম্মিলুত তাওরাতা সুম্মা লাম ইয়াহমিলূহা কামাসালিল হিমারি ইয়াহমিলু আসফারা: যাদের উপর তাওরাতের ভার দেওয়া হয়েছিল, তারপর তারা তা বহন করেনি, তাদের দৃষ্টান্ত সেই গাধার মতো, যে বড় বড় কিতাব বয়ে বেড়ায়। আয়াতটি একটা ছবির পাশে আরেকটা ছবি রাখে, মিলটা খুঁজে নেওয়ার ভার পাঠকের। একটা জন্তু ভারী কিতাবের বোঝা নিয়ে হাঁটছে। ওজনটা সে টের পায়, কিন্তু কিতাবে কী আছে কিছুই জানে না। এরপর আসে রায়: যারা আল্লাহর আয়াতকে মিথ্যা বলেছে, সেই সম্প্রদায়ের দৃষ্টান্ত কতই না নিকৃষ্ট! আর আল্লাহ যালিম সম্প্রদায়কে হিদায়াত দেন না।"
+          },
+          {
+            "en": "As-Sa'di reads the verse against what came just before it. Allah had recounted His favour on this community, the unlettered people among whom the unlettered Prophet ﷺ was raised, and the distinctions that set them ahead even of the People of the Book, who claimed to be the learned scholars and rabbis. He then mentions, as-Sa'di says, those whom He made carry the Torah and commanded to learn it and act on what is in it, and who did not carry it. They have no merit in it at all. The contrast is between a people who were taught and a people who held a Book without using it.",
+            "bn": "সা'দী আয়াতটি পড়েন ঠিক আগের আয়াতগুলোর আলোয়। আল্লাহ এই উম্মতের উপর তাঁর অনুগ্রহের কথা বলেছিলেন। এরা সেই নিরক্ষর জাতি, যাদের মাঝে নিরক্ষর নবী ﷺ-কে পাঠানো হয়েছে। তাদের এমন সব বৈশিষ্ট্য দেওয়া হয়েছে, যাতে তারা আহলে কিতাবকেও ছাড়িয়ে গেছে, অথচ আহলে কিতাবের দাবি ছিল তারাই আলেম, তারাই রাব্বানী পণ্ডিত। সা'দী বলেন, এরপর আল্লাহ উল্লেখ করেন তাদের, যাদের তিনি তাওরাত বহন করতে দিয়েছিলেন, তা শিখতে আর তার উপর আমল করতে হুকুম দিয়েছিলেন, অথচ তারা তা বহন করেনি। এতে তাদের কোনো ফজিলত নেই। তুলনাটা তাই এক দিকে শিক্ষা পাওয়া এক জাতি, অন্য দিকে কিতাব হাতে রেখেও কাজে না লাগানো এক জাতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Laid On, Then Not Lifted",
+          "bn": "চাপানো হলো, তোলা হলো না"
+        },
+        "p": [
+          {
+            "en": "The verse uses the verb of carrying twice. Hummilu is passive: the Torah was laid on them. Lam yahmiluha is active and negated: they did not carry it. Al-Qurtubi explains hummilu as were charged with acting on it, and attributes this to Ibn 'Abbas. Al-Baghawi has were charged with upholding it and acting on what is in it, and the Muyassar were charged with acting on the Torah. At-Tabari phrases it the same way: they were made to carry the duty of acting on it. Ma'arif al-Qur'an translates accordingly: those ordered to bear the responsibility of acting on the Torah.",
+            "bn": "আয়াতে বহন করার ক্রিয়া এসেছে দুবার। হুম্মিলূ কর্মবাচ্য: তাওরাত তাদের উপর চাপানো হয়েছিল। লাম ইয়াহমিলূহা কর্তৃবাচ্য, তবে না-বোধক: তারা তা বহন করেনি। কুরতুবী হুম্মিলূ-র অর্থ করেন, তাদের উপর এর উপর আমল করার দায়িত্ব দেওয়া হয়েছিল, আর ব্যাখ্যাটি ইবন আব্বাস (রাঃ)-এর বলে উল্লেখ করেন। বাগাভী বলেন, তাদের দায়িত্ব দেওয়া হয়েছিল তা কায়েম রাখার আর তাতে যা আছে তার উপর আমল করার। মুয়াসসারও বলে, তাওরাতের উপর আমলের দায়িত্ব তাদের দেওয়া হয়েছিল। তাবারীর ভাষাও একই: তার উপর আমল করার ভার তাদের দেওয়া হয়েছিল। মাআরিফুল কুরআনের অনুবাদেও তাই: যাদের তাওরাতের উপর আমলের দায়িত্ব বহন করতে আদেশ করা হয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi adds a second derivation from al-Jurjani: hummilu comes from hamala in the sense of kafala, standing surety, so that they guaranteed the rulings of the Torah. On either account the first carrying is a trust accepted, and the second is the trust left unfulfilled. What they lacked was not possession. Al-Qurtubi notes that the Torah was in their hands. The verse separates holding a Book from carrying it, and only the second is what it asks of those to whom a Book is given.",
+            "bn": "কুরতুবী জুরজানী থেকে আরেকটি উৎপত্তির কথাও আনেন। তাঁর মতে হুম্মিলূ এসেছে হামালা থেকে, যার অর্থ কাফালা বা জামিন হওয়া। অর্থাৎ তারা তাওরাতের বিধানগুলোর জামিন হয়েছিল। যেভাবেই ধরা হোক, প্রথম বহন হলো একটি আমানত গ্রহণ করা, আর দ্বিতীয়টি সেই আমানত পূরণ না করা। তাদের ঘাটতি কিতাব হাতে না থাকার নয়। কুরতুবী নিজেই বলেন, তাওরাত তখন তাদের হাতেই ছিল। আয়াতটি কিতাব হাতে রাখা আর কিতাব বহন করাকে আলাদা করে দেয়। যাদের কিতাব দেওয়া হয়, তাদের কাছে চাওয়া হয় দ্বিতীয়টাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Went Uncarried",
+          "bn": "যা বহন করা হয়নি"
+        },
+        "p": [
+          {
+            "en": "What exactly did they fail to carry? The first answer is action. Al-Qurtubi glosses lam yahmiluha as they did not act on it, and likens them, with the Torah in their hands and no practice of it, to a donkey carrying books that gains nothing from them except the weight of the load. Al-Baghawi says they did not act on what is in it and did not render it its due. The Muyassar keeps to the same words: they did not act on it.",
+            "bn": "ঠিক কী তারা বহন করেনি? প্রথম উত্তর: আমল। কুরতুবী লাম ইয়াহমিলূহা-র অর্থ করেন, তারা তার উপর আমল করেনি। তাওরাত হাতে, অথচ তার উপর আমল নেই, এই অবস্থাকে তিনি তুলনা করেন কিতাববাহী সেই গাধার সঙ্গে, যার ভাগে বোঝার ভার ছাড়া আর কোনো লাভ জোটে না। বাগাভী বলেন, তাতে যা আছে তার উপর তারা আমল করেনি, আর তার হকও আদায় করেনি। মুয়াসসারও একই কথায় থামে: তারা তার উপর আমল করেনি।"
+          },
+          {
+            "en": "A second answer names what the neglected part chiefly was. At-Tabari says they did not act on what is in it and denied Muhammad ﷺ, though they had been commanded in it to believe in him, follow him and affirm him; the Torah, he says, contained a clear account of his matter. As-Sa'di calls the command to follow Muhammad ﷺ, with the glad tidings of him and belief in the Qur'an he brought, the greatest and weightiest thing in it, and asks what such people gained from the Torah except loss and a proof established against them.",
+            "bn": "দ্বিতীয় উত্তর জানায়, অবহেলিত অংশটা মূলত কী ছিল। তাবারী বলেন, তাতে যা আছে তার উপর তারা আমল করেনি, আর মুহাম্মাদ ﷺ-কে মিথ্যা বলেছে, অথচ তাওরাতেই তাদের হুকুম দেওয়া হয়েছিল তাঁর উপর ঈমান আনতে, তাঁকে অনুসরণ করতে, তাঁকে সত্য বলে মানতে। তাবারীর ভাষায়, তাওরাতে তাঁর বিষয়ের স্পষ্ট বর্ণনা ছিল। সা'দীর মতে তাওরাতের সবচেয়ে বড় ও সবচেয়ে গুরুত্বপূর্ণ হুকুম ছিল মুহাম্মাদ ﷺ-এর অনুসরণ, তাঁর আগমনের সুসংবাদ, আর তাঁর আনা কুরআনের উপর ঈমান। তিনি প্রশ্ন রাখেন, এমন লোকেরা তাওরাত থেকে ব্যর্থতা, ক্ষতি আর নিজেদের বিরুদ্ধে প্রমাণ দাঁড় হওয়া ছাড়া আর কী পেল?"
+          },
+          {
+            "en": "Ibn Kathir adds understanding: they kept its words in memory but did not grasp them or act on what they required; rather they explained them away, distorted and altered them. The commentators also differ on who is meant. At-Tabari says those given the Torah from among the Jews and the Christians, and as-Sa'di says the Jews and likewise the Christians. Ibn Kathir, al-Qurtubi, al-Baghawi and the Muyassar speak of the Jews. All of them begin from the same failure to act, and differ on how far its reach extends.",
+            "bn": "ইবন কাসীর যোগ করেন বোঝার কথা: তারা শব্দগুলো মুখস্থ রেখেছিল, কিন্তু তা বোঝেনি, আর তার দাবি অনুযায়ী আমলও করেনি। বরং অপব্যাখ্যা করেছে, বিকৃত করেছে, বদলে দিয়েছে। কাদের কথা বলা হচ্ছে, তা নিয়েও তাফসীরকারদের মধ্যে পার্থক্য আছে। তাবারী বলেন, ইয়াহুদি ও খ্রিস্টানদের মধ্যে যাদের তাওরাত দেওয়া হয়েছিল। সা'দী বলেন ইয়াহুদিরা, আর একইভাবে খ্রিস্টানরাও। ইবন কাসীর, কুরতুবী, বাগাভী ও মুয়াসসার ইয়াহুদিদের কথা বলেন। সবাই শুরু করেন আমল না করার একই ব্যর্থতা থেকে। পার্থক্য শুধু সেটা কতদূর বিস্তৃত, তা নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Great Books on a Beast",
+          "bn": "জন্তুর পিঠে ভারী কিতাব"
+        },
+        "p": [
+          {
+            "en": "Asfar is the plural of sifr. Al-Baghawi quotes al-Farra': they are the great books. At-Tabari, closing a report from Ibn 'Abbas that glosses the word as books, adds that it is the plural of sifr, meaning large books. Al-Qurtubi gives the reason for the name: a sifr is a large book because it yusfiru, it discloses, its meaning when it is read. Ad-Dahhak, in at-Tabari, says that in Nabataean a book is called a sifr. Ma'arif al-Qur'an keeps the same sense of a large book.",
+            "bn": "আসফার শব্দটি সিফর-এর বহুবচন। বাগাভী ফাররা থেকে উদ্ধৃত করেন: এগুলো বড় বড় কিতাব। তাবারী ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন, যেখানে শব্দটির অর্থ কিতাব। বর্ণনার শেষে তিনি যোগ করেন, এটি সিফর-এর বহুবচন, অর্থাৎ বড় কিতাব। নামটা কেন, কুরতুবী তার কারণ বলেন: সিফর মানে বড় কিতাব, কারণ পড়া হলে তা অর্থকে ইউসফিরু করে, অর্থাৎ খুলে প্রকাশ করে। তাবারীতে দাহহাক বলেন, নাবাতি ভাষায় কিতাবকে সিফর বলা হয়। মাআরিফুল কুরআনও বড় কিতাবের অর্থই রাখে।"
+          },
+          {
+            "en": "The early explanations at-Tabari collects all fix on the animal's ignorance. Mujahid: it carries books and does not know what is in them or understand them. Qatada: it does not know what is on it, nor what is in it. Ibn Zayd: the asfar are the Torah carried on the donkey's back, as copies of scripture are carried on riding animals, like a man who travels with his mushaf; the donkey gains nothing from it on its back, and neither did these, given it and not acting on it. Al-Qurtubi quotes Maymun ibn Mihran: the donkey does not know whether a book or a basket is on its back.",
+            "bn": "তাবারী যে প্রাচীন ব্যাখ্যাগুলো জড়ো করেন, সবগুলোর চোখ জন্তুটির অজ্ঞতার দিকে। মুজাহিদ বলেন, সে কিতাব বয়, অথচ তাতে কী আছে জানে না, বোঝেও না। কাতাদা বলেন, তার পিঠে কী আছে, তাতে কী লেখা, কিছুই সে জানে না। ইবন যায়দ বলেন, আসফার হলো তাওরাত, যা গাধা পিঠে বয়, যেমন সওয়ারির পিঠে মুসহাফ বয়ে নেওয়া হয়, যেমন কোনো মুসাফির নিজের মুসহাফ সঙ্গে নেয়। পিঠে থাকা অবস্থায় গাধা তা থেকে কোনো উপকার পায় না। এরাও পায়নি, কিতাব পেয়েও যখন তার উপর আমল করেনি। কুরতুবী মাইমূন ইবন মিহরানের কথা আনেন: গাধা জানে না, তার পিঠে কিতাব না ঝুড়ি।"
+          },
+          {
+            "en": "Al-Qurtubi also notes the grammar of yahmilu. It may stand as a circumstantial clause, carrying, describing the donkey's state. Or it may be a descriptive clause attached to al-himar, since the word with its article names the donkey as a kind rather than one particular animal, as in a line of poetry about passing the base man who insults him. Either way the picture holds still. The animal is defined by what it bears, and what it bears does nothing for it.",
+            "bn": "ইয়াহমিলু শব্দের ব্যাকরণও কুরতুবী লক্ষ করেন। এটি হাল হতে পারে, অর্থাৎ বহন করা অবস্থায়, গাধার তখনকার অবস্থা বোঝাতে। আবার আল-হিমার-এর বিশেষণও হতে পারে, কারণ আলিফ-লাম যুক্ত শব্দটি এখানে নির্দিষ্ট কোনো গাধা নয়, গাধা জাতিকে বোঝায়। কুরতুবী এর নজির হিসেবে আনেন কবিতার একটি পঙক্তি, যেখানে কবি বলেন, তাকে গালি দেওয়া এক নীচ লোকের পাশ দিয়ে তিনি চলে যান। যেভাবেই পড়া হোক, ছবিটা একই থাকে। জন্তুটির পরিচয় তার বোঝা দিয়ে, অথচ সেই বোঝা তার কোনো কাজে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Understanding Left Unused",
+          "bn": "বুঝ থেকেও কাজে লাগেনি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws a hard conclusion from the comparison: such people are in a worse state than donkeys, because a donkey has no understanding, while these had understanding they did not use. That, he says, is why another verse says: they are like cattle, nay, more astray; those are the heedless (7:179). As-Sa'di puts the point as a string of questions. Does the donkey benefit from the books on its back? Does any merit attach to it because of them? Or is its share of them only the carrying?",
+            "bn": "তুলনাটি থেকে ইবন কাসীর একটি কঠিন সিদ্ধান্ত টানেন: এরা গাধার চেয়েও খারাপ অবস্থায়। কারণ গাধার বোঝার ক্ষমতা নেই, আর এদের বোঝার ক্ষমতা ছিল, কিন্তু কাজে লাগায়নি। তিনি বলেন, এ কারণেই আরেক আয়াতে এসেছে: তারা চতুষ্পদ জন্তুর মতো, বরং তার চেয়েও বেশি পথভ্রষ্ট, তারাই গাফেল (৭:১৭৯)। সা'দী একই কথা বলেন কয়েকটি প্রশ্নের আকারে। পিঠের কিতাবগুলো থেকে গাধা কি কোনো উপকার পায়? সেগুলোর কারণে তার কি কোনো মর্যাদা জোটে? নাকি তার ভাগে শুধু বয়ে বেড়ানোটুকুই?"
+          },
+          {
+            "en": "Then the verse names its own verdict: bi'sa mathalu-l-qawmi-lladhina kadhdhabu bi-ayati-llah, wretched is the likeness of the people who denied the signs of Allah. Al-Qurtubi reads it as the likeness We struck for them, with the first noun of the phrase left implied. At-Tabari explains it as: wretched is this likeness, and takes the signs to be His proofs and arguments. As-Sa'di specifies them as the signs pointing to the truthfulness of the Messenger and of what he brought. The Muyassar adds that they denied the signs and did not benefit from them.",
+            "bn": "এরপর আয়াত নিজেই রায় দেয়: বি'সা মাসালুল কাওমিল্লাযীনা কাযযাবূ বিআয়াতিল্লাহ, যারা আল্লাহর আয়াতকে মিথ্যা বলেছে, সেই সম্প্রদায়ের দৃষ্টান্ত কতই না নিকৃষ্ট। কুরতুবী এটি পড়েন এভাবে: তাদের জন্য আমরা যে দৃষ্টান্ত দিয়েছি, সেটি নিকৃষ্ট। বাক্যের প্রথম বিশেষ্যটি এখানে উহ্য। তাবারী ব্যাখ্যা করেন, এই দৃষ্টান্ত কতই না মন্দ। আয়াত বলতে তিনি বোঝেন আল্লাহর দলিল ও প্রমাণসমূহ। সা'দী আরও নির্দিষ্ট করে বলেন, এগুলো সেই নিদর্শন, যা রসূলের সত্যতা আর তাঁর আনা বাণীর সত্যতা প্রমাণ করে। মুয়াসসার যোগ করে, তারা আয়াতগুলোকে মিথ্যা বলেছে আর তা থেকে কোনো উপকার নেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Guidance for Wrongdoers",
+          "bn": "যালিমের জন্য হিদায়াত নেই"
+        },
+        "p": [
+          {
+            "en": "The verse closes: wa-llahu la yahdi-l-qawma-z-zalimin, and Allah does not guide the wrongdoing people. At-Tabari explains guide here as grant success: Allah does not grant it to those who wronged themselves and so disbelieved in the signs of their Lord. Al-Baghawi names the wrong as their denial of the prophets, by which they wronged themselves. The Muyassar describes the wrongdoers as those who overstep His limits and leave His obedience. In each, the wrongdoing is named as the people's own deed.",
+            "bn": "আয়াতের শেষ বাক্য: ওয়াল্লাহু লা ইয়াহদিল কাওমায যালিমীন, আর আল্লাহ যালিম সম্প্রদায়কে হিদায়াত দেন না। তাবারী এখানে হিদায়াতের অর্থ করেন তাওফিক দেওয়া। যারা নিজেদের উপর জুলুম করেছে, ফলে নিজেদের রবের আয়াতকে অস্বীকার করেছে, আল্লাহ তাদের তাওফিক দেন না। বাগাভী জুলুমটির নাম বলেন: নবীদের মিথ্যা বলা, যা দিয়ে তারা নিজেদের উপর জুলুম করেছে। মুয়াসসার যালিমদের বর্ণনা দেয় এভাবে: যারা আল্লাহর সীমা লঙ্ঘন করে আর তাঁর আনুগত্য থেকে বেরিয়ে যায়। প্রতিটি ব্যাখ্যায় জুলুমকে বলা হয়েছে মানুষের নিজের কাজ।"
+          },
+          {
+            "en": "Two emphases follow from there. Al-Qurtubi reads the people meant as those who, in Allah's prior knowledge, would be disbelievers, and al-Baghawi likewise: whoever in His foreknowledge would not believe, Him He does not guide. As-Sa'di frames it as a condition: He does not direct them to what is good for them so long as wrongdoing remains their description and obstinacy their mark. One reading looks to what Allah already knew; the other to a state that holds while it lasts. This article sets the two side by side.",
+            "bn": "এখান থেকে দুটি ভিন্ন জোর পাওয়া যায়। কুরতুবীর মতে উদ্দেশ্য তারা, আল্লাহর পূর্বজ্ঞানে যারা কাফির হবে বলে নির্ধারিত। বাগাভীও একই কথা বলেন: যে ঈমান আনবে না বলে আল্লাহর জ্ঞানে আগে থেকে আছে, তাকে তিনি হিদায়াত দেন না। সা'দী কথাটা বলেন শর্তের আকারে: যতদিন জুলুম তাদের বৈশিষ্ট্য আর হঠকারিতা তাদের পরিচয় হয়ে থাকে, ততদিন আল্লাহ তাদের কল্যাণের পথ দেখান না। একটি পাঠ তাকায় আল্লাহর আগে থেকে জানা বিষয়ের দিকে, অন্যটি এমন অবস্থার দিকে, যা যতক্ষণ থাকে ততক্ষণ কার্যকর। এ প্রবন্ধ দুটিকে পাশাপাশি রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Picture, Not a Slur",
+          "bn": "দৃষ্টান্ত, গালি নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The commentators read the verse about a particular group in the Prophet's ﷺ own time: those entrusted with the Torah who did not act on it and denied what it foretold, as at-Tabari and as-Sa'di put it. This article reports only what they wrote about that group. The verse describes what the text describes, and it licenses nothing against any living person or community. Whoever lifts the donkey image out of the verse to throw at Jews, or at anyone else today, has used a parable about failing a Book as a way of failing it again.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাফসীরকারেরা আয়াতটি পড়েন নবী ﷺ-এর নিজের যুগের একটি নির্দিষ্ট দলকে নিয়ে: যাদের তাওরাতের ভার দেওয়া হয়েছিল, অথচ তারা তার উপর আমল করেনি, আর তাতে যার কথা আগে থেকে বলা ছিল তাঁকে অস্বীকার করেছে, তাবারী ও সা'দীর ভাষায়। এ প্রবন্ধ সেই দল সম্পর্কে তাঁরা যা লিখেছেন, শুধু সেটুকুই তুলে ধরে। আয়াতটি যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কেউ যদি গাধার ছবিটা আয়াত থেকে তুলে নিয়ে আজকের ইয়াহুদি বা অন্য কারও দিকে ছুড়ে মারে, তবে কিতাবের হক আদায় না করার এক দৃষ্টান্তকে দিয়ে সে নিজেই আবার কিতাবের হক নষ্ট করল।"
+          },
+          {
+            "en": "The commentators themselves turn the picture inward. Al-Qurtubi writes that in it is an alert from Allah to whoever carries the Book: that he learn its meanings and know what is in it, so that the blame which reached these does not reach him. Ma'arif al-Qur'an says that commentators have applied the example to any religious scholar who does not act on his knowledge, and quotes a Persian couplet: he is neither a scholar nor a man of learning, only a four-legged beast with a few books on it.",
+            "bn": "তাফসীরকারেরা নিজেরাই ছবিটা ভেতরের দিকে ঘুরিয়ে দেন। কুরতুবী লেখেন, এতে আল্লাহর পক্ষ থেকে কিতাব বহনকারী প্রত্যেকের জন্য সতর্কবার্তা আছে: সে যেন কিতাবের অর্থ শেখে আর তাতে কী আছে তা জানে, যাতে এদের উপর যে নিন্দা এসেছে, তা তার উপর না আসে। মাআরিফুল কুরআন বলে, তাফসীরকারেরা এ দৃষ্টান্তকে প্রযোজ্য করেছেন সেই প্রত্যেক আলেমের উপর, যে নিজের ইলম অনুযায়ী আমল করে না। সেখানে একটি ফারসি পঙক্তিও উদ্ধৃত: সে না গবেষক, না জ্ঞানী, সে শুধু চার পায়ের এক জন্তু, যার পিঠে কয়েকখানা কিতাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reader Under the Load",
+          "bn": "বোঝার নিচে পাঠক নিজে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari carries a report from Ibn 'Abbas that states the general lesson outright: Allah made the likeness of the one who reads the Book and does not follow what is in it like the donkey carrying the heavy Book of Allah, not knowing what is in it. Al-Qurtubi quotes a poet on narrators who are ignorant of what they carry: they are like camels loaded with cowrie shells; the shells gain nothing from being carried, and the camels gain nothing from carrying them.",
+            "bn": "তাবারী ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন, যাতে সাধারণ শিক্ষাটা সরাসরি বলা আছে: যে কিতাব পড়ে অথচ তাতে যা আছে তা অনুসরণ করে না, আল্লাহ তার দৃষ্টান্ত দিয়েছেন সেই গাধার সঙ্গে, যে আল্লাহর ভারী কিতাব বয়ে বেড়ায়, অথচ তাতে কী আছে জানে না। কুরতুবী এক কবির কথা উদ্ধৃত করেন, সেই বর্ণনাকারীদের নিয়ে যারা নিজেদের বহন করা বিষয় সম্পর্কে অজ্ঞ: তারা কড়ি বোঝাই উটের মতো। উটের পিঠে চড়ে কড়ির কোনো লাভ হয় না, কড়ি বয়েও উটের কোনো লাভ হয় না।"
+          },
+          {
+            "en": "Ibn Kathir closes his comment with a report from Imam Ahmad, through ash-Sha'bi from Ibn 'Abbas, raised to the Prophet ﷺ, that uses the same donkey image for one who talks while the imam gives the Friday sermon. Ibn Kathir gives no grading for it, and it could not be checked against its collection here, so its wording is not quoted and nothing rests on it. No tafsir read for this verse attaches a graded sound hadith to it.",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শেষ করেন ইমাম আহমাদের একটি বর্ণনা দিয়ে, যা শা'বীর মাধ্যমে ইবন আব্বাস (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছানো হয়েছে, আর তাতে জুমুআর খুতবার সময় যে কথা বলে তার জন্য একই গাধার উপমা আছে। ইবন কাসীর এর কোনো মান উল্লেখ করেননি, আর এখানে মূল সংকলনে তা মিলিয়ে দেখা যায়নি। তাই এর শব্দ উদ্ধৃত করা হলো না, এর উপর কিছুই দাঁড় করানো হয়নি। এ আয়াতের জন্য পড়া কোনো তাফসীর আয়াতটির সঙ্গে মান-নির্ধারিত কোনো সহীহ হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "A sound narration that is not about this verse names the question every carrier will face. At-Tirmidhi (2417) records that the Prophet ﷺ said: the feet of a servant will not move on the Day of Resurrection until he is asked about his life, how he spent it; about his knowledge, what he did with it; about his wealth, where he earned it and on what he spent it; and about his body, in what he wore it out. At-Tirmidhi grades it hasan sahih. The question about knowledge is not how much, but what was done with it.",
+            "bn": "একটি সহীহ বর্ণনা, যা এ আয়াত প্রসঙ্গে নয়, প্রত্যেক বহনকারীর সামনে আসা প্রশ্নটির নাম বলে দেয়। তিরমিযী (২৪১৭) বর্ণনা করেন, নবী ﷺ বলেছেন: কিয়ামতের দিন বান্দার দুই পা নড়বে না, যতক্ষণ না তাকে জিজ্ঞেস করা হয় তার জীবন সম্পর্কে, কিসে তা শেষ করেছে; তার ইলম সম্পর্কে, তা দিয়ে কী করেছে; তার সম্পদ সম্পর্কে, কোথা থেকে উপার্জন করেছে আর কোথায় খরচ করেছে; আর তার দেহ সম্পর্কে, কিসে তা জীর্ণ করেছে। তিরমিযী একে হাসান সহীহ বলেছেন। ইলমের প্রশ্নটা কতটুকু জানা হলো তা নয়, জেনে কী করা হলো তা।"
+          }
+        ]
+      }
+    ]
+  },
   "62:8": {
     "sections": [
       {

@@ -28309,6 +28309,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Truth keeps faith with what came before it and makes way for what follows; when clear proof arrives, welcome it instead of renaming it to escape it.",
     "lessonBn": "সত্য আগের বার্তাকে মেনে নেয় আর পরের জন্য পথ খুলে রাখে। সুস্পষ্ট প্রমাণ সামনে এলে তাকে বরণ করুন, এড়িয়ে যেতে তার গায়ে অন্য নাম লাগাবেন না।"
+  },
+  "62:5": {
+    "reflectionEn": "A donkey walks under a load of great books. It feels every pound of them on its back and nothing of what is written inside. The verse uses that picture for those who were entrusted with the Torah and then did not carry it: the Book was in their hands, and its guidance never reached their lives. It describes what they did in their time and passes no verdict on anyone alive today. The commentators turn it, instead, towards whoever holds a Book. I hold the Qur'an. I may own several copies, recite it daily, know whole pages by heart. Which of its commands have I actually lifted? And how much of it do I only carry?",
+    "reflectionBn": "একটা গাধা চলেছে বড় বড় কিতাবের বোঝা পিঠে নিয়ে। ওজনটা সে প্রতিটি পদক্ষেপে টের পায়, কিন্তু ভেতরে কী লেখা আছে তার কিছুই জানে না। যাদের হাতে তাওরাতের দায়িত্ব তুলে দেওয়া হয়েছিল, অথচ তারা তা বহন করেনি, আয়াতটি তাদের বোঝাতে এই ছবিই ব্যবহার করে। কিতাব ছিল তাদের হাতে, কিন্তু তার হিদায়াত তাদের জীবনে পৌঁছায়নি। আয়াতটি তাদের যুগে তারা যা করেছিল তা-ই বর্ণনা করে, আজকের কোনো জীবিত মানুষের বিরুদ্ধে কোনো রায় দেয় না। তাফসীরকারেরা বরং ছবিটা ঘুরিয়ে দেন কিতাবধারী প্রত্যেকের দিকে। আমার হাতে কুরআন। ঘরে কয়েক কপি থাকতে পারে, রোজ তিলাওয়াত করতে পারি, কয়েক পৃষ্ঠা মুখস্থও থাকতে পারে। এর কোন কোন হুকুম আমি সত্যিই কাঁধে তুলে নিয়েছি? আর কতটুকু শুধু বোঝা হয়ে আমার পিঠে চড়ে আছে?",
+    "pointsEn": [
+      "Which verse do I know by heart but have never once allowed to change what I do?",
+      "If someone watched my week without hearing me recite, what would they guess the Qur'an asks of me?",
+      "Do I count the copies on my shelf, or the hours of recitation, as if holding the Book were the same as carrying it?",
+      "When a verse reproaches others, do I read it as their story only, or ask where it describes me?",
+      "What one command will I start acting on this week, so that what I know stops being only a load?"
+    ],
+    "pointsBn": [
+      "কোন আয়াত আমার মুখস্থ, অথচ একবারও আমার কাজকে বদলাতে দিইনি?",
+      "আমার তিলাওয়াত না শুনে কেউ যদি শুধু আমার এক সপ্তাহের চলাফেরা দেখে, সে কী ভাববে, কুরআন আমার কাছে কী চায়?",
+      "তাকে রাখা কপির সংখ্যা বা তিলাওয়াতের ঘণ্টাকে কি আমি এমনভাবে গুনি, যেন কিতাব হাতে রাখা আর কিতাব বহন করা একই কথা?",
+      "কোনো আয়াত যখন অন্যদের তিরস্কার করে, আমি কি সেটাকে শুধু তাদের কাহিনি ভেবে পড়ি, নাকি খুঁজি কোথায় তা আমাকেও বর্ণনা করছে?",
+      "এ সপ্তাহে কোন একটি হুকুমের উপর আমি আমল শুরু করব, যাতে আমার জানাটুকু শুধু বোঝা হয়ে না থাকে?"
+    ],
+    "lessonEn": "Carrying the Qur'an means acting on it; knowing its words without letting them shape your life leaves you holding only its weight.",
+    "lessonBn": "কুরআন বহন করা মানে তার উপর আমল করা। শব্দগুলো জেনেও জীবনকে তা দিয়ে গড়তে না দিলে হাতে থাকে শুধু তার ওজন।"
   }
 };
 
