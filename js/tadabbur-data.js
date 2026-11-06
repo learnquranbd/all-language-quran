@@ -23531,6 +23531,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Fear Allah where no one sees you, and keep the Hour in mind before any warning touches you; what you do in private is the truest measure of your sincerity.",
     "lessonBn": "যেখানে কেউ দেখে না, সেখানেও আল্লাহকে ভয় করুন, আর কোনো সতর্কসংকেত গায়ে লাগার আগেই কিয়ামাতের কথা মনে রাখুন। নিভৃতে আপনি যা করেন, সেটাই আপনার ইখলাসের সবচেয়ে সত্য মাপকাঠি।"
+  },
+  "21:112": {
+    "reflectionEn": "Al-Anbiya does not end with a victory. It ends with a prayer. The Messenger has said what he was sent to say: your god is one God; I have warned you all alike; I do not know whether what you are promised is near or far. They have called him a mere man like them, his message sorcery, his words a forgery and a poet's. He does not stop to answer each charge. He turns to his Lord: judge with the truth. Then he names where his help lies: our Lord, the Most Merciful, against what you describe. When I am described falsely, I want to answer every word myself. This verse hands the verdict to the One who judges only by truth.",
+    "reflectionBn": "আল-আম্বিয়া কোনো বিজয়ের ঘোষণা দিয়ে শেষ হয় না, শেষ হয় একটি দোয়া দিয়ে। রসূল ﷺ যা বলার জন্য এসেছিলেন, তা বলা হয়ে গেছে। তোমাদের ইলাহ একজনই। আমি তোমাদের সবাইকে সমানভাবে জানিয়ে দিয়েছি। যার ওয়াদা তোমাদের দেওয়া হয়েছে, তা কাছে না দূরে, আমি জানি না। ওরা তাঁকে বলেছে, এ তো তোমাদেরই মতো একজন মানুষ। তাঁর বাণীকে বলেছে জাদু, তাঁর কথাকে বানোয়াট, কবির কল্পনা। তিনি একেকটা অভিযোগের জবাব দিতে থামেন না। রবের দিকে ফিরে বলেন: সত্য দিয়ে ফায়সালা করে দাও। তারপর জানিয়ে দেন তাঁর ভরসা কোথায়: আমাদের রব পরম দয়াময়, তোমরা যা বলে বেড়াও তার মোকাবিলায় সাহায্য তাঁরই কাছে চাওয়া হয়। কেউ আমার নামে মিথ্যা বললে আমি নিজেই প্রতিটি কথার জবাব দিতে চাই। এ আয়াত রায়ের ভার তুলে দেয় তাঁর হাতে, যিনি সত্য ছাড়া কোনো ফায়সালা করেন না।",
+    "pointsEn": [
+      "When someone describes me or my faith falsely, what is my first move: to answer every word, or to ask Allah to let the truth decide?",
+      "When I ask Allah to judge with the truth, am I ready for that truth to weigh me as well as the other side?",
+      "In my last dispute, whose help did I actually lean on: my arguments, my allies, or the Most Merciful?",
+      "Has a hostile description of what I believe ever pulled me into describing others falsely in return?",
+      "Which hard conversation in my life could I close the way this sura closes, by handing the verdict to Allah?"
+    ],
+    "pointsBn": [
+      "কেউ আমার বা আমার ঈমানের ব্যাপারে মিথ্যা কথা বললে আমি প্রথমে কী করি? প্রতিটি কথার জবাব দিতে নামি, নাকি আল্লাহর কাছে চাই, সত্যই ফায়সালা করুক?",
+      "আল্লাহর কাছে যখন সত্য দিয়ে ফায়সালা চাই, তখন কি আমি প্রস্তুত থাকি যে সেই সত্য অপর পক্ষের মতো আমাকেও মাপবে?",
+      "শেষ যে বিবাদে জড়িয়েছিলাম, সেখানে আসলে কার সাহায্যের উপর ভর দিয়েছিলাম: নিজের যুক্তি, নিজের দলবল, নাকি পরম দয়াময়ের?",
+      "আমার বিশ্বাস নিয়ে কারও বিদ্বেষী কথা কি কখনো আমাকেও অন্যদের নামে মিথ্যা বলার দিকে টেনে নিয়েছে?",
+      "জীবনের কোন কঠিন আলাপটা আমি এই সূরার মতো শেষ করতে পারি, রায়ের ভার আল্লাহর হাতে তুলে দিয়ে?"
+    ],
+    "lessonEn": "When you are described falsely, hand the verdict to Allah, seek help from the Most Merciful rather than your own cleverness, and be ready for the truth to weigh you too.",
+    "lessonBn": "কেউ আপনার নামে মিথ্যা বললে রায়ের ভার আল্লাহর হাতে দিন, নিজের চালাকির বদলে পরম দয়াময়ের সাহায্য চান, আর তৈরি থাকুন যে সত্য আপনাকেও মাপবে।"
   }
 };
 

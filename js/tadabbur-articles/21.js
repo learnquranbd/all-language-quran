@@ -3606,5 +3606,161 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "21:112": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sura's Closing Prayer",
+          "bn": "সূরার শেষ দোয়া"
+        },
+        "p": [
+          {
+            "en": "Qala rabbi-hkum bi-l-haqq, wa rabbuna r-rahmanu l-musta'anu 'ala ma tasifun: he said, My Lord, judge with the truth; and our Lord is the Most Merciful, whose help is sought against what you describe. These ten words close Surat al-Anbiya, and both Ibn Kathir and at-Tabari end their commentary on the sura here. Al-Qurtubi names what the ending does: Allah closed the sura by commanding His Prophet ﷺ to hand the matter over to Him and to look for relief from Him alone.",
+            "bn": "কালা রাব্বিহকুম বিল-হাক্কি, ওয়া রাব্বুনার রাহমানুল মুসতাআনু আলা মা তাসিফূন: সে বলল, হে আমার রব, সত্য দিয়ে ফায়সালা করে দাও। আর আমাদের রব পরম দয়াময়, তোমরা যা বলে বেড়াও তার মোকাবিলায় তাঁরই কাছে সাহায্য চাওয়া হয়। এই দশটি শব্দেই সূরা আল-আম্বিয়া শেষ। ইবন কাসীর ও তাবারী দুজনেই সূরার তাফসীর এখানে শেষ করেছেন। শেষটা কী কাজ করে, কুরতুবী তা বলে দেন। আল্লাহ সূরাটি শেষ করেছেন নবী ﷺ-কে এই নির্দেশ দিয়ে যে তিনি সব বিষয় আল্লাহর হাতে সঁপে দেবেন আর মুক্তির আশা রাখবেন কেবল তাঁরই কাছে।"
+          },
+          {
+            "en": "The verses just before set the scene and need only light recalling. In 21:108 the Prophet ﷺ is told to say that what is revealed to him is that your god is one God. In 21:109, if they turn away, he is to say he has informed them all alike, and that he does not know whether what they are promised is near or far. In 21:110 and 21:111 he adds that Allah knows what is said openly and what is hidden, and that the delay may be a trial and a brief enjoyment.",
+            "bn": "আগের আয়াতগুলো পটভূমি তৈরি করে, সেগুলো হালকাভাবে মনে করলেই চলে। ২১:১০৮ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে, তাঁর কাছে ওয়াহী এসেছে যে তোমাদের ইলাহ একজনই। ২১:১০৯ আয়াতে বলা হয়েছে, তারা মুখ ফিরিয়ে নিলে তিনি যেন বলেন, আমি তোমাদের সবাইকে সমানভাবে জানিয়ে দিয়েছি। যার ওয়াদা দেওয়া হয়েছে তা কাছে না দূরে, আমি জানি না। ২১:১১০ ও ২১:১১১ আয়াতে তিনি আরও বলেন, প্রকাশ্য কথা আর গোপন কথা দুটোই আল্লাহ জানেন। আর এই বিলম্ব হয়তো পরীক্ষা, কিছুকালের ভোগমাত্র।"
+          },
+          {
+            "en": "The sura opened in 21:1 with people's reckoning drawn near while they turn away in heedlessness. It closes with the Messenger who brought that warning asking his Lord to judge. A few verses back, 21:107 calls him a mercy to the worlds; that verse has its own article, and this article stays with the prayer itself.",
+            "bn": "সূরাটি শুরু হয়েছিল ২১:১ আয়াতে এই কথা দিয়ে যে মানুষের হিসাবের সময় ঘনিয়ে এসেছে, অথচ তারা গাফিল হয়ে মুখ ফিরিয়ে আছে। আর শেষ হচ্ছে সেই সতর্কবাণী যিনি নিয়ে এসেছেন, রবের কাছে তাঁর ফায়সালা চাওয়ার মধ্য দিয়ে। কয়েক আয়াত আগে ২১:১০৭ তাঁকে বলেছে বিশ্বজগতের জন্য রহমত। সে আয়াতের আলাদা প্রবন্ধ আছে। এ প্রবন্ধ থাকছে দোয়াটিকে ঘিরেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Said, or Say",
+          "bn": "তিনি বললেন, নাকি বলো"
+        },
+        "p": [
+          {
+            "en": "This article follows the reading of Hafs from 'Asim, in which the verse opens qala, he said. Al-Baghawi records the difference directly: Hafs from 'Asim reads qala rabbi-hkum, and the others read qul rabbi-hkum, say: my Lord, judge. On the Hafs reading the verse reports the prayer as spoken by the Prophet ﷺ, and the Muyassar, which glosses that reading, begins: the Prophet ﷺ said. On the other reading it is a command telling him what to say.",
+            "bn": "এ প্রবন্ধ আসিম থেকে হাফসের কিরাআত অনুসরণ করে। সেখানে আয়াতের শুরু কালা, অর্থাৎ তিনি বললেন। পার্থক্যটা বাগাভী সরাসরি লিখে রেখেছেন। আসিম থেকে হাফস পড়েন কালা রাব্বিহকুম, আর অন্যরা পড়েন কুল রাব্বিহকুম, অর্থাৎ বলো: হে আমার রব, ফায়সালা করো। হাফসের কিরাআতে আয়াতটি জানায়, নবী ﷺ এই দোয়া করেছিলেন। মুয়াসসার এই কিরাআতের ব্যাখ্যা শুরুই করে এভাবে: নবী ﷺ বললেন। অন্য কিরাআতে এটি আদেশ, তাঁকে কী বলতে হবে তা শিখিয়ে দেওয়া।"
+          },
+          {
+            "en": "At-Tabari comments on the reading qul and treats the verse throughout as an instruction: say, O Muhammad, my Lord, separate me from those of my people who belied me. He reports that the generality of the reciters of the cities read it qul, with a kasra under the ba of rabbi and the alif of uhkum joined, as a prayer and a request. Al-Qurtubi adds that rabbi stands in the accusative position, because it is a vocative attached to a possessive: my Lord.",
+            "bn": "তাবারী আলোচনা করেন কুল কিরাআত ধরে, তাই পুরো আয়াতটাই তাঁর কাছে নির্দেশ। হে মুহাম্মাদ, বলো: হে আমার রব, আমার কওমের যারা আমাকে মিথ্যাবাদী বলেছে, তাদের আর আমার মাঝে ফায়সালা করে দাও। তিনি জানান, বিভিন্ন নগরের অধিকাংশ কারী পড়েছেন কুল। রাব্বি শব্দের বা-তে যের, আর উহকুম শব্দের আলিফ মিলিয়ে পড়া, দোয়া ও প্রার্থনা হিসেবে। কুরতুবী যোগ করেন, রাব্বি এখানে নসবের অবস্থানে আছে, কারণ এটি সম্বন্ধযুক্ত সম্বোধন: হে আমার রব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rabbi Ahkamu, a Rarer Reading",
+          "bn": "রাব্বি আহকামু: বিরল এক কিরাআত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and al-Qurtubi both mention rabbu, with a damma on the ba, as a call to a single addressee; at-Tabari gives it to Abu Ja'far, al-Qurtubi to Abu Ja'far ibn al-Qa'qa' and Ibn Muhaysin. A further reading turns the prayer into a statement. At-Tabari reports from ad-Dahhak ibn Muzahim rabbi ahkamu bi-l-haqq: my Lord judges by truth better than any judge, with the ya kept on rabbi and ahkamu read with a hamza and a damma.",
+            "bn": "তাবারী ও কুরতুবী দুজনেই রাব্বু কিরাআতের কথা বলেন। এতে বা-তে পেশ, একক কাউকে ডাকার ভঙ্গিতে। তাবারী এটি আবূ জা'ফরের বলে উল্লেখ করেন, কুরতুবী বলেন আবূ জা'ফর ইবনুল কা'কা' ও ইবন মুহাইসিনের। আরেকটি কিরাআত দোয়াকে বানিয়ে দেয় একটি বিবৃতি। তাবারী দাহহাক ইবন মুযাহিম থেকে বর্ণনা করেন রাব্বী আহকামু বিল-হাক্ক। অর্থ: আমার রব যেকোনো বিচারকের চেয়ে বেশি সত্য দিয়ে বিচার করেন। এতে রাব্বী শব্দে ইয়া থাকে, আর আহকামু পড়া হয় হামযা ও পেশ দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi gives qala rabbi ahkamu from ad-Dahhak, Talha and Ya'qub, explained as: Muhammad said, my Lord judges by truth better than any judge; and qul rabbi ahkamu from al-Jahdari, meaning He settles affairs by truth. At-Tabari does not accept the statement reading. The correct reading for him is that of the reciters of the cities, because the authority of the reciters agrees on it and what differs is isolated; ad-Dahhak's reading, he adds, puts a letter into the written text of the mushafs that should not be added there.",
+            "bn": "কুরতুবী দাহহাক, তালহা ও ইয়াকূব থেকে দেন কালা রাব্বী আহকামু, যার ব্যাখ্যা: মুহাম্মাদ ﷺ বললেন, আমার রব যেকোনো বিচারকের চেয়ে বেশি সত্য দিয়ে বিচার করেন। আর জাহদারী থেকে দেন কুল রাব্বী আহকামু, অর্থাৎ তিনি সব বিষয় সত্য দিয়ে মীমাংসা করেন। তাবারী বিবৃতিমূলক এই কিরাআত গ্রহণ করেন না। তাঁর কাছে সঠিক কিরাআত নগরগুলোর কারীদেরটাই, কারণ কারীদের প্রামাণ্য দল এতে একমত, আর এর বিপরীতটা বিচ্ছিন্ন। দাহহাকের কিরাআত সম্পর্কে তিনি আরও বলেন, এতে মুসহাফের লিখিত রূপে একটি হরফ বেড়ে যায়, যা সেখানে বাড়ানো উচিত নয়।"
+          },
+          {
+            "en": "Al-Qurtubi records a further difference, at the verse's end. Al-Mufaddal and as-Sulami read yasifun, what they describe, as a report about the opponents; the rest read tasifun, what you describe, addressing them directly, and that is the reading of Hafs. Read as a prayer or as a statement, every version the commentators record places the final word on the dispute with Allah, and makes it a word of truth.",
+            "bn": "আয়াতের শেষ অংশেও কুরতুবী আরেকটি পার্থক্য উল্লেখ করেন। মুফাদ্দাল ও সুলামী পড়েছেন ইয়াসিফূন, অর্থাৎ তারা যা বলে বেড়ায়, বিরোধীদের সম্পর্কে খবর হিসেবে। বাকিরা পড়েছেন তাসিফূন, অর্থাৎ তোমরা যা বলে বেড়াও, সরাসরি তাদের সম্বোধন করে। হাফসের কিরাআতও এটাই। দোয়া হিসেবে পড়া হোক বা বিবৃতি হিসেবে, তাফসীরকারেরা যত রূপ উল্লেখ করেছেন, সবগুলোতেই বিবাদের শেষ কথা আল্লাহর, আর সে কথা সত্যের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for What Is Certain",
+          "bn": "যা নিশ্চিত, তা-ই চাওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi raises the question a careful reader will ask: how can he say judge with the truth, when Allah judges only with the truth? A prayer for something already certain seems to ask for nothing. The commentators answer in two ways, and they do not all choose the same answer. Both are given here, the first in this section and the second in the next.",
+            "bn": "সতর্ক পাঠকের মনে যে প্রশ্ন জাগবে, বাগাভী নিজেই তা তুলেছেন। আল্লাহ তো সত্য ছাড়া ফায়সালাই করেন না, তাহলে সত্য দিয়ে ফায়সালা করো বলার মানে কী? যা আগে থেকেই নিশ্চিত, তা চাওয়া মানে যেন কিছুই না চাওয়া। তাফসীরকারেরা এর দুই রকম উত্তর দিয়েছেন, আর সবাই একই উত্তর বেছে নেননি। দুটোই এখানে থাকছে, প্রথমটি এই অংশে, দ্বিতীয়টি পরের অংশে।"
+          },
+          {
+            "en": "The first answer runs through at-Tabari. He relays from Ibn 'Abbas (RA), by way of Ibn Jurayj, that none judges with the truth except Allah, but the Prophet ﷺ was asking for it to be hastened in this world, asking his Lord against his people. At-Tabari's own gloss fits that: separate me from those of my people who belied me, disbelieved in You and worshipped others, by bringing Your punishment and retribution on them; and that, he says, is the truth Allah commanded His Prophet to ask for.",
+            "bn": "প্রথম উত্তর পাওয়া যায় তাবারীর কাছে। তিনি ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: সত্য দিয়ে আল্লাহ ছাড়া কেউ ফায়সালা করে না। নবী ﷺ আসলে চাইছিলেন সেই ফায়সালা যেন দুনিয়াতেই দ্রুত আসে। তিনি নিজের কওমের ব্যাপারে রবের কাছে চাইছিলেন। তাবারীর নিজের ব্যাখ্যাও এর সঙ্গে মেলে। আমার কওমের যারা আমাকে মিথ্যাবাদী বলেছে, তোমাকে অস্বীকার করেছে আর তোমাকে ছেড়ে অন্যের ইবাদত করেছে, তাদের উপর তোমার আযাব নামিয়ে আমার আর তাদের মাঝে ফায়সালা করে দাও। তাবারী বলেন, এটাই সেই সত্য, যা চাইতে আল্লাহ তাঁর নবীকে আদেশ করেছিলেন।"
+          },
+          {
+            "en": "Al-Baghawi gives the same answer in sharper terms: al-haqq here means the punishment, as though he were asking for it to come quickly upon his people, and they were punished on the Day of Badr. As-Sa'di likewise says Allah answered this prayer and judged between them in this world before the next, through what He brought upon the disbelievers at Badr and elsewhere. On this view the truth asked for is a judgment made visible now, rather than one left wholly to the Hereafter.",
+            "bn": "বাগাভী একই উত্তর দেন আরও স্পষ্ট করে। তাঁর মতে এখানে আল-হাক্ক মানে আযাব। যেন নবী ﷺ নিজের কওমের উপর আযাব দ্রুত আসার দোয়া করছিলেন, আর বদরের দিনে তাদের শাস্তি হয়েছিল। সা'দীও বলেন, আল্লাহ এ দোয়া কবুল করেছেন। আখিরাতের আগে দুনিয়াতেই তিনি তাদের মাঝে ফায়সালা করেছেন, বদরে ও অন্যান্য ঘটনায় কাফেরদের উপর যা নামিয়েছিলেন তার মাধ্যমে। এই ব্যাখ্যায় যে সত্য চাওয়া হচ্ছে, তা পুরোপুরি আখিরাতের জন্য তুলে রাখা কোনো ফায়সালা নয়, বরং এখনই চোখের সামনে প্রকাশ পাওয়া ফায়সালা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Judge by Your True Judgment",
+          "bn": "তোমার সত্য ফায়সালা দিয়ে"
+        },
+        "p": [
+          {
+            "en": "The second answer is grammatical. Al-Qurtubi relays Abu 'Ubayda: an adjective has been put in place of the noun it describes, and the full sense is my Lord, judge with Your judgment that is true. Al-Baghawi gives the same from the scholars of meanings, ahl al-ma'ani: the word judgment was dropped and al-haqq set in its place. At-Tabari reports it too, as what some have claimed, and grants that it has a valid line, though he holds his own explanation clearer and closer to what the early interpreters said.",
+            "bn": "দ্বিতীয় উত্তরটি ব্যাকরণগত। কুরতুবী আবূ উবাইদা থেকে বর্ণনা করেন: এখানে বিশেষণকে বিশেষ্যের জায়গায় বসানো হয়েছে। পুরো অর্থ দাঁড়ায়: হে আমার রব, তোমার সত্য ফায়সালা দিয়ে ফায়সালা করো। বাগাভীও আহলুল মাআনী, অর্থাৎ অর্থবিদ আলেমদের কাছ থেকে একই কথা আনেন। ফায়সালা শব্দটি বাদ পড়েছে, আর তার জায়গায় বসেছে আল-হাক্ক। তাবারীও মতটি উল্লেখ করেন, কারও কারও দাবি হিসেবে। তিনি মানেন এরও একটা গ্রহণযোগ্য দিক আছে। তবে তাঁর মতে তাঁর নিজের ব্যাখ্যাই বেশি স্পষ্ট, আর পূর্বসূরি তাফসীরকারদের কথার বেশি কাছাকাছি।"
+          },
+          {
+            "en": "Al-Baghawi then answers the original difficulty on this view. Allah judges with the truth whether it is asked of Him or not; the point of asking is that the asker shows his longing for Allah's true judgment. Read this way, the prayer does not request something Allah might otherwise leave undone. It is the believer placing himself openly on the side of whatever Allah decides. At-Tabari prefers the first, al-Baghawi records both, and this article keeps both.",
+            "bn": "এই মত অনুযায়ী মূল প্রশ্নের জবাবও বাগাভী দেন। কেউ চাক বা না চাক, আল্লাহ সত্য দিয়েই ফায়সালা করেন। চাওয়ার উদ্দেশ্য হলো, যে চাইছে তার মনে আল্লাহর সত্য ফায়সালার প্রতি যে আকাঙ্ক্ষা, তা প্রকাশ পাওয়া। এভাবে পড়লে দোয়াটি এমন কিছু চাইছে না, যা না চাইলে আল্লাহ হয়তো করতেন না। বরং মুমিন খোলাখুলি নিজেকে দাঁড় করাচ্ছে আল্লাহর যেকোনো সিদ্ধান্তের পক্ষে। তাবারী প্রথমটিকে অগ্রাধিকার দেন, বাগাভী দুটোই উল্লেখ করেন, আর এ প্রবন্ধও দুটোই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer the Prophets Shared",
+          "bn": "নবীদের মুখে একই দোয়া"
+        },
+        "p": [
+          {
+            "en": "Qatada, as Ibn Kathir and al-Qurtubi relay him, said that the prophets used to say rabbana-ftah baynana wa bayna qawmina bi-l-haqqi wa anta khayru l-fatihin: our Lord, decide between us and our people with the truth, and You are the best of those who decide. The Messenger of Allah ﷺ, he said, was commanded to say this too. Those words are in 7:89, where Shu'ayb (AS) and those who believed with him answer the chiefs who threatened to drive them out of their town. At-Tabari cites it as a parallel too.",
+            "bn": "ইবন কাসীর ও কুরতুবী কাতাদা থেকে বর্ণনা করেন, নবীগণ বলতেন: রাব্বানাফতাহ বাইনানা ওয়া বাইনা কাওমিনা বিল-হাক্কি ওয়া আনতা খাইরুল ফাতিহীন। হে আমাদের রব, আমাদের আর আমাদের কওমের মাঝে সত্য দিয়ে ফায়সালা করে দাও, তুমিই শ্রেষ্ঠ ফায়সালাকারী। কাতাদা বলেন, রসূলুল্লাহ ﷺ-কেও এ কথা বলার আদেশ দেওয়া হয়েছিল। এই শব্দগুলো আছে ৭:৮৯ আয়াতে। সেখানে শুআইব (আঃ) ও তাঁর সঙ্গী মুমিনরা জবাব দিচ্ছেন সেই সর্দারদের, যারা তাদের জনপদ থেকে বের করে দেওয়ার হুমকি দিয়েছিল। তাবারীও সেই আয়াতকে এ আয়াতের সমতুল্য হিসেবে উল্লেখ করেন।"
+          },
+          {
+            "en": "The commentators also relay that the Prophet ﷺ used this prayer when fighting began. At-Tabari reports through Ma'mar from Qatada that when the Prophet ﷺ witnessed fighting he would say rabbi-hkum bi-l-haqq. Ibn Kathir has it from Malik from Zayd ibn Aslam in the same sense. Al-Qurtubi's version, from Sa'id from Qatada, has him say it when he met the enemy, knowing that he was on the truth and his enemy on falsehood, with the gloss: decide by it.",
+            "bn": "তাফসীরকারেরা আরও বর্ণনা করেন, লড়াই শুরু হলে নবী ﷺ এই দোয়া পড়তেন। তাবারী মা'মারের সূত্রে কাতাদা থেকে বর্ণনা করেন, নবী ﷺ কোনো যুদ্ধে উপস্থিত হলে বলতেন: রাব্বিহকুম বিল-হাক্ক। ইবন কাসীর একই কথা আনেন মালিকের সূত্রে যায়দ ইবন আসলাম থেকে। কুরতুবীর বর্ণনা সাঈদের সূত্রে কাতাদা থেকে। সেখানে আছে, শত্রুর মুখোমুখি হলে তিনি এ কথা বলতেন, জেনেই যে তিনি সত্যের উপর আর তাঁর শত্রু বাতিলের উপর। সঙ্গে ব্যাখ্যা: সত্য দিয়েই ফায়সালা করো।"
+          },
+          {
+            "en": "None of these chains, as the commentators give them, names a Companion who heard it from the Prophet ﷺ, and no commentary here grades them; no tafsir fetched for this verse attaches a hadith from the major collections to it. So they stand as early reports of how the verse was used. What they describe is a prayer that hands the outcome to Allah. They give no one today a licence to name enemies and treat this verse as a warrant against them.",
+            "bn": "তাফসীরকারেরা এসব বর্ণনার যে সনদ দিয়েছেন, তার কোনোটিতেই এমন কোনো সাহাবীর নাম নেই, যিনি নবী ﷺ থেকে কথাটি শুনেছেন। এখানকার কোনো তাফসীর এগুলোর মান নির্ণয়ও করেনি। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই প্রধান হাদীসগ্রন্থের কোনো হাদীস এ আয়াতের সঙ্গে যুক্ত করেনি। তাই এগুলো আয়াতটি কীভাবে পড়া হতো, তার প্রাথমিক বর্ণনা হিসেবেই থাকছে। এগুলোতে যা আছে, তা এমন এক দোয়া, যা ফলাফল আল্লাহর হাতে ছেড়ে দেয়। আজ কাউকে শত্রু ঠিক করে তার বিরুদ্ধে এ আয়াতকে দলিল বানানোর অনুমতি এগুলো কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Kept Describing",
+          "bn": "যা তারা বলে বেড়াত"
+        },
+        "p": [
+          {
+            "en": "Ma tasifun, what you describe, is where the commentators gather the opponents' words. At-Tabari fills it with phrases the sura itself has recorded: is this anything but a human like you, so will you come to sorcery with open eyes (21:3); rather he forged it, rather he is a poet (21:5); and their lie against Allah, ar-Rahman has taken a son (21:26). It is easy for Allah, he says, to change all that, and to separate the Prophet ﷺ from them by hastening the penalty for what they describe.",
+            "bn": "মা তাসিফূন, অর্থাৎ তোমরা যা বলে বেড়াও। তাফসীরকারেরা এখানে বিরোধীদের কথাগুলো জড়ো করেন। তাবারী এর ব্যাখ্যায় আনেন সেই কথাগুলোই, যা এ সূরা আগেই উদ্ধৃত করেছে। এ তো তোমাদেরই মতো একজন মানুষ, তবু কি তোমরা দেখেশুনে জাদুর দিকে যাবে (২১:৩)? বরং সে এটা বানিয়েছে, বরং সে একজন কবি (২১:৫)। আর আল্লাহর নামে তাদের মিথ্যা: রহমান সন্তান গ্রহণ করেছেন (২১:২৬)। তাবারী বলেন, এ সবকিছু বদলে দেওয়া আল্লাহর জন্য সহজ। তাদের কথার শাস্তি দ্রুত এনে তিনি নবী ﷺ আর তাদের মাঝে ফায়সালা করে দিতে পারেন।"
+          },
+          {
+            "en": "Ibn Kathir reads it as the lies and fabrications they kept producing, moving from one kind of denial and slander to another. Al-Qurtubi names disbelief and denial, and al-Baghawi lies and falsehood. The Muyassar and as-Sa'di add something forward-looking: what the opponents threatened, that they would gain the upper hand. As-Sa'di puts their words as: we will prevail over you, and your religion will fade away.",
+            "bn": "ইবন কাসীরের মতে এর মানে তাদের বানানো মিথ্যা আর অপবাদ, যা তারা একের পর এক বলে যেত, অস্বীকার আর কুৎসার এক ধরন থেকে আরেক ধরনে সরে সরে। কুরতুবী বলেন কুফর ও অস্বীকারের কথা, বাগাভী বলেন মিথ্যা ও বাতিলের কথা। মুয়াসসার ও সা'দী এর সঙ্গে ভবিষ্যৎ নিয়ে একটা কথা যোগ করেন। বিরোধীরা হুমকি দিত, তারাই জয়ী হবে। সা'দী তাদের কথাটা তুলে ধরেন এভাবে: আমরা তোমাদের উপর জয়ী হব, আর তোমাদের দীন মিলিয়ে যাবে।"
+          },
+          {
+            "en": "Ar-Rahman is the name given to Him whose help is sought. At-Tabari glosses it as our Lord who has mercy on His servants and embraces them all with His favour. The same name has run through the sura's quarrel: in 21:26 they claimed ar-Rahman had taken a son, and in 21:36 they disbelieve in the mention of ar-Rahman. The closing sentence turns for help to that same name.",
+            "bn": "যাঁর কাছে সাহায্য চাওয়া হয়, তাঁর নাম এখানে আর-রহমান। তাবারী এর ব্যাখ্যা দেন: আমাদের সেই রব, যিনি বান্দাদের উপর দয়া করেন আর সবাইকে তাঁর নিয়ামতে ঘিরে রাখেন। সূরার পুরো বিতর্কে এই নামটি বারবার এসেছে। ২১:২৬ আয়াতে তারা দাবি করেছিল, রহমান সন্তান গ্রহণ করেছেন। ২১:৩৬ আয়াতে তারা রহমানের জিকিরকেই অস্বীকার করে। সূরার শেষ বাক্য সাহায্যের জন্য ফিরে যায় সেই নামেরই কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Leaning on Our Own Strength",
+          "bn": "নিজের শক্তিতে ভরসা নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the believers' posture out of the word al-musta'an. Faced with that boast, he has them say: we do not admire ourselves, nor rely on our own power and strength; we seek help only from ar-Rahman, in whose hand is the forelock of every creature, and we hope He will complete, out of His mercy, what we sought His help for. And He did, he adds, and praise belongs to Allah. The verse ends not with a counter-boast but with a declaration of where help comes from.",
+            "bn": "আল-মুসতাআন শব্দ থেকে সা'দী মুমিনদের মনোভাবটা বের করে আনেন। ওই দম্ভের মুখে তাঁর ভাষায় মুমিনরা বলে: আমরা নিজেদের নিয়ে মুগ্ধ নই, নিজেদের শক্তি-সামর্থ্যের উপরও ভরসা করি না। আমরা সাহায্য চাই কেবল রহমানের কাছে, প্রতিটি সৃষ্টির কপালের চুল যাঁর হাতে। আর আশা রাখি, যে বিষয়ে তাঁর সাহায্য চেয়েছি, নিজের রহমতে তিনি তা পূর্ণ করবেন। সা'দী যোগ করেন, তিনি তা করেছেনও, আলহামদুলিল্লাহ। আয়াতটি তাই পাল্টা দম্ভে শেষ হয় না। শেষ হয় এই ঘোষণায় যে সাহায্য আসে কোথা থেকে।"
+          },
+          {
+            "en": "This needs saying plainly. What you describe refers to what the Prophet's opponents said in his day: the charges this sura records and the threats the commentators name. The verse describes what the text describes and licenses nothing against any living person or community. It gives no one a warrant to call down judgment on neighbours who believe differently. Its own movement runs the other way: the speaker hands the verdict to Allah rather than taking it into his own hands.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তোমরা যা বলে বেড়াও, এ কথা দিয়ে বোঝানো হয়েছে নবী ﷺ-এর সময়ের বিরোধীদের কথা: এ সূরা যেসব অভিযোগ উদ্ধৃত করেছে, আর তাফসীরকারেরা যেসব হুমকির কথা বলেছেন। আয়াতটি কেবল তা-ই বর্ণনা করে, যা এর পাঠে আছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। ভিন্ন বিশ্বাসের প্রতিবেশীর উপর ফায়সালা ডেকে আনার কোনো সনদও কাউকে দেয় না। আয়াতের নিজের গতি বরং উল্টো দিকে। যিনি দোয়া করছেন, তিনি রায় নিজের হাতে তুলে নেন না, তুলে দেন আল্লাহর হাতে।"
+          },
+          {
+            "en": "For a reader, the verse gives a shape for the hour of being described falsely. Ask that the truth decide, knowing that Allah's judgment by truth may weigh you as well as the other side. Name ar-Rahman as your helper, rather than your eloquence, your numbers or your anger. Then leave the timing with Him: in 21:109 the Prophet ﷺ himself was told to say, I do not know whether it is near or far.",
+            "bn": "পাঠকের জন্য আয়াতটি একটা পথ দেখায়, যখন কেউ আপনার নামে মিথ্যা বলে। চান যেন সত্যই ফায়সালা করে। মনে রাখুন, আল্লাহর সত্য ফায়সালা অপর পক্ষের মতো আপনাকেও মাপতে পারে। সাহায্য চাওয়ার জায়গা হিসেবে নাম নিন রহমানের, নিজের বাকপটুতা, দলবল বা রাগের নয়। তারপর সময়ের ব্যাপারটা তাঁর হাতেই ছেড়ে দিন। ২১:১০৯ আয়াতে স্বয়ং নবী ﷺ-কে বলতে বলা হয়েছিল: আমি জানি না, তা কাছে না দূরে।"
+          }
+        ]
+      }
+    ]
   }
 });
