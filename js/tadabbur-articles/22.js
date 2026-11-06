@@ -2667,6 +2667,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:69": {
+    "sections": [
+      {
+        "h": {
+          "en": "Words Given for a Quarrel",
+          "bn": "ঝগড়ার জন্য শেখানো কথা"
+        },
+        "p": [
+          {
+            "en": "The verse is nine Arabic words: Allahu yahkumu baynakum yawma al-qiyamati fima kuntum fihi takhtalifun, Allah will judge between you on the Day of Resurrection concerning that over which you used to differ. It completes a sentence that opens in 22:68: and if they dispute with you, say: Allah knows best what you do. The Prophet ﷺ is handed the words he is to speak, and this verse is their second half. As-Sa'di explains 22:68 and 22:69 together, as a single statement.",
+            "bn": "আয়াতটি আরবিতে মাত্র নয়টি শব্দের: আল্লাহু ইয়াহকুমু বাইনাকুম ইয়াওমাল কিয়ামাতি ফীমা কুনতুম ফীহি তাখতালিফূন। অর্থাৎ যে বিষয়ে তোমরা মতভেদ করতে, কিয়ামাতের দিন আল্লাহ তোমাদের মধ্যে তার ফয়সালা করবেন। বাক্যটা শুরু হয়েছে ২২:৬৮ আয়াতে: তারা যদি তোমার সঙ্গে বিতর্ক করে, তবে বলো, তোমরা যা করো আল্লাহ তা ভালো জানেন। নবী ﷺ-কে কী বলতে হবে, সে কথা তাঁর মুখে তুলে দেওয়া হচ্ছে। এ আয়াত সেই কথারই দ্বিতীয় অংশ। সা'দী ২২:৬৮ ও ২২:৬৯ একসঙ্গে ব্যাখ্যা করেছেন, একটিমাত্র বক্তব্য হিসেবে।"
+          },
+          {
+            "en": "Look at what surrounds it. Verses 22:63 to 22:66 lay out rain that greens the earth, the earth made to serve, ships on the sea, the sky held back from falling, life, death and life again, and close on: indeed, man is ungrateful. Then 22:67 turns to worship: for every nation We appointed rites which they perform, so let them not contend with you over the matter, and invite to your Lord, for you are upon straight guidance. After our verse, 22:70 widens the frame: Allah knows all that is in heaven and earth, and it is in a Book.",
+            "bn": "চারপাশটা একবার দেখুন। ২২:৬৩ থেকে ২২:৬৬ আয়াতে আসে বৃষ্টি, যাতে মাটি সবুজ হয়ে ওঠে। আসে মানুষের কাজে লাগানো পৃথিবী, সাগরে চলা নৌকা, ভেঙে পড়া থেকে আটকে রাখা আকাশ, জীবন, মৃত্যু, তারপর আবার জীবন। শেষে বলা হয়: মানুষ বড়ই অকৃতজ্ঞ। তারপর ২২:৬৭ আয়াত ইবাদতের প্রসঙ্গে আসে: প্রত্যেক উম্মতের জন্য আমি ইবাদতের নিয়ম ঠিক করে দিয়েছি, যা তারা পালন করে। কাজেই এ বিষয়ে তারা যেন তোমার সঙ্গে বিবাদ না করে। তুমি তোমার রবের দিকে ডাকো, তুমি তো সরল হিদায়াতের উপর আছ। আমাদের আয়াতের পরে ২২:৭০ দৃষ্টিটা আরও বড় করে দেয়: আকাশ ও পৃথিবীর সবকিছু আল্লাহ জানেন, আর সবই এক কিতাবে লেখা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Readings of Mansak",
+          "bn": "মানসাকের নানা অর্থ"
+        },
+        "p": [
+          {
+            "en": "What is the mansak given to each nation? At-Tabari records a real disagreement. Ibn Abbas said a festival, an 'id. Mujahid said the shedding of blood at Makka, and on hum nasikuhu, the shedding of the blood of the sacrificial animals. Qatada said slaughter and Hajj. At-Tabari's own choice is the shedding of blood on the days of sacrifice at Mina, because those were the rites over which the idolaters argued with the Prophet ﷺ. Their quarrel over ordinary slaughter, he adds, belongs to Surat al-An'am, and that was not a rite.",
+            "bn": "প্রত্যেক উম্মতকে যে মানসাক দেওয়া হয়েছে, তা আসলে কী? এ নিয়ে তাবারী সত্যিকারের মতভেদ তুলে ধরেছেন। ইবন আব্বাস (রাঃ) বলেছেন, এর অর্থ ঈদ। মুজাহিদ বলেছেন, মক্কায় রক্ত প্রবাহিত করা। আর হুম নাসিকূহু অংশের ব্যাখ্যায় তিনি বলেছেন, হাদির পশুর রক্ত প্রবাহিত করা। কাতাদা বলেছেন, কুরবানি ও হজ। তাবারীর নিজের পছন্দ হলো মিনায় কুরবানির দিনগুলোতে রক্ত প্রবাহিত করা। কারণ মুশরিকরা নবী ﷺ-এর সঙ্গে ঠিক এই আমলগুলো নিয়েই বিতর্ক করেছিল। তিনি যোগ করেন, সাধারণ জবাই নিয়ে তাদের বিবাদের কথা আছে সূরা আনআমে, তবে সেটা কোনো ইবাদতের আমল ছিল না।"
+          },
+          {
+            "en": "Others read the word more broadly. Al-Qurtubi glosses mansak as a law, shar', and hum nasikuhu as acting on it, since there were laws in every age. Al-Baghawi reports from Ibn Abbas a law they act on, and also a festival, and gives the Arab usage: the place a person returns to habitually, for good or ill, which is why the rites of Hajj are called manasik. As-Sa'di says a place and an act of worship, which may differ in some matters while agreeing on justice and wisdom, and cites 5:48: to each of you We gave a law and a way.",
+            "bn": "অন্যরা শব্দটাকে আরও বড় অর্থে নিয়েছেন। কুরতুবী মানসাকের অর্থ করেছেন শরীয়ত, আর হুম নাসিকূহু মানে তারা সে অনুযায়ী আমল করে। কারণ প্রতিটি যুগেই শরীয়ত ছিল। বাগাভী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এর অর্থ এমন শরীয়ত যা তারা মেনে চলে। আবার ঈদ অর্থটাও তাঁর থেকে বর্ণিত। বাগাভী আরবদের ব্যবহারও জানান: যে জায়গায় মানুষ বারবার ফিরে যায়, ভালো কাজে হোক বা মন্দে। এ কারণেই হজের আমলগুলোকে মানাসিক বলা হয়। সা'দী বলেন, এর অর্থ ইবাদতের স্থান ও ইবাদত। কিছু বিষয়ে তা আলাদা হতে পারে, তবে ন্যায় ও হিকমতে সব এক। তিনি ৫:৪৮ আয়াত উদ্ধৃত করেন: তোমাদের প্রত্যেকের জন্য আমি দিয়েছি শরীয়ত ও পথ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets out the two lines side by side. One, which it takes from Ruh al-Ma'ani, makes mansak the method of slaughter; the other, which it says most commentators hold, makes it the general rules of a shari'a. It sees no conflict: the verse may have come over one dispute and still reach every ruling. Ibn Kathir adds a fork. If mansak is a rite Allah gave each prophet's nation, those told not to contend are the idolaters; if it is a matter of decree, as in 2:148, then the nations act as Allah decreed, and their contention should not move the Prophet ﷺ from the truth he holds.",
+            "bn": "মাআরিফুল কুরআন দুটি ধারা পাশাপাশি রেখেছে। একটি ধারা, যা সে রূহুল মাআনী থেকে নিয়েছে, মানসাক বলতে জবাইয়ের পদ্ধতি বোঝে। অন্যটি, যাকে সে অধিকাংশ মুফাসসিরের মত বলে, মানসাক বলতে শরীয়তের সাধারণ বিধান বোঝে। তারপর তার যুক্তি, দুইয়ের মধ্যে বিরোধ নেই। আয়াতটি হয়তো নির্দিষ্ট এক বিবাদ উপলক্ষে এসেছে, তবু তার আওতায় পড়ে সব বিধান। ইবন কাসীর আরেকটি ভাগ দেখান। মানসাক যদি হয় প্রত্যেক নবীর উম্মতকে আল্লাহর দেওয়া আমল, তাহলে যাদের বিবাদ করতে নিষেধ করা হচ্ছে তারা এই মুশরিকরা। আর যদি হয় তাকদীরের বিষয়, যেমন ২:১৪৮ আয়াতে, তাহলে উম্মতগুলো আল্লাহর ফয়সালা অনুযায়ীই চলে। কাজেই তাদের বিবাদ যেন নবী ﷺ-কে তাঁর সত্য পথ থেকে টলাতে না পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carrion and the Knife",
+          "bn": "মৃত পশু আর ছুরি"
+        },
+        "p": [
+          {
+            "en": "Who were the disputants, and over what? At-Tabari explains fa-la yunazi'unnaka fi al-amr as: let these idolaters not contend with you, Muhammad, over your slaughter and your rite, saying: do you eat what you have killed, and not eat the carrion that Allah killed? You are nearer the truth than they are. He cites Mujahid that the matter was slaughter, and on 22:68 Mujahid again: the idolaters' saying, as for what Allah slaughtered with His right hand. As-Sa'di gives the same objection, calls it a corrupt analogy, and sets it beside their claim that trade is only like usury.",
+            "bn": "বিবাদকারী কারা ছিল, আর বিবাদটা কী নিয়ে? তাবারী ফালা ইউনাযিউন্নাকা ফিল আমর অংশের ব্যাখ্যা দেন এভাবে: হে মুহাম্মাদ, এই মুশরিকরা যেন তোমার জবাই আর তোমার কুরবানি নিয়ে তোমার সঙ্গে বিবাদ না করে। তাদের কথা ছিল, তোমরা নিজেরা যা মেরেছ তা খাও, অথচ আল্লাহ যে মৃত পশু মেরেছেন তা খাও না? তাবারী বলেন, তাদের চেয়ে তুমিই সত্যের বেশি নিকটে। তিনি মুজাহিদকে উদ্ধৃত করেন যে বিষয়টা ছিল জবাই। ২২:৬৮ আয়াতেও মুজাহিদ বলেন, এ হলো মুশরিকদের কথা: আর আল্লাহ যা নিজ ডান হাতে জবাই করেছেন, সেটা? সা'দীও একই আপত্তির কথা বলেন এবং একে ভ্রান্ত কিয়াস বলেন। পাশে রাখেন তাদের আরেক দাবি: বেচাকেনা তো সুদেরই মতো।"
+          },
+          {
+            "en": "Did this argument occasion the verse? Al-Qurtubi writes that a group narrated, rawat firqa, that it came down because of the disbelievers' quarrel over slaughtered animals, while his own gloss reads mansak as law. Al-Baghawi states it was revealed about three named men who put the question to the Companions. Neither text gives a chain for the report, and Ma'arif al-Qur'an presents it as one of two interpretations. So it is best held as a reported occasion, not an established one; the reading that the disputants were the idolaters of Makka does not depend on it.",
+            "bn": "এই বিতর্কই কি আয়াত নাজিলের উপলক্ষ? কুরতুবী লেখেন, একদল বর্ণনা করেছে (রাওয়াত ফিরকা) যে জবাই করা পশু নিয়ে কাফিরদের বিবাদের কারণেই আয়াতটি নাজিল হয়। অথচ তাঁর নিজের ব্যাখ্যায় মানসাক মানে শরীয়ত। বাগাভী বলেন, আয়াতটি নাজিল হয়েছে নাম উল্লেখ করা তিনজন লোক সম্পর্কে, যারা সাহাবিদের কাছে প্রশ্নটা তুলেছিল। কোনো বর্ণনাতেই সনদ দেওয়া নেই। আর মাআরিফুল কুরআন একে দুই ব্যাখ্যার একটি হিসেবেই রেখেছে। তাই একে নাজিলের প্রতিষ্ঠিত কারণ না ধরে বর্ণিত উপলক্ষ হিসেবে দেখাই নিরাপদ। বিবাদকারীরা যে মক্কার মুশরিক ছিল, এ ব্যাখ্যা অবশ্য ওই বর্ণনার উপর নির্ভর করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Quarrel Takes Two",
+          "bn": "ঝগড়ায় লাগে দুজন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi both take a point of grammar from az-Zajjaj. The verb in fa-la yunazi'unnaka is aimed at the disbelievers, yet the one meant is the Prophet ﷺ: let them not contend with you means do not you contend with them. Al-Qurtubi ties this to the verb's pattern, which names an act between two parties. Al-Baghawi spells it out: munaza'a, like mukhasama, is only completed by two, and if one leaves off there is no quarrel left. Both give the same contrast: you could not say let Zayd not strike you and mean do not strike Zayd.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই যাজ্জাজ থেকে একটি ব্যাকরণগত সূক্ষ্ম কথা নিয়েছেন। ফালা ইউনাযিউন্নাকা ক্রিয়াটি বাহ্যত কাফিরদের উদ্দেশে, কিন্তু আসলে উদ্দেশ্য নবী ﷺ। অর্থাৎ তারা যেন তোমার সঙ্গে বিবাদ না করে, মানে তুমি তাদের সঙ্গে বিবাদে যেয়ো না। কুরতুবী এর কারণ খুঁজেছেন ক্রিয়ার গড়নে, যা দুই পক্ষের মধ্যকার কাজ বোঝায়। বাগাভী কথাটা খোলাসা করে বলেন: মুনাযাআ, মুখাসামার মতোই, দুজন ছাড়া পূর্ণ হয় না। একপক্ষ ছেড়ে দিলে আর কোনো ঝগড়াই থাকে না। দুজনেই একই তুলনা দেন: যায়দ যেন তোমাকে না মারে বলে তুমি যায়দকে মেরো না বোঝানো যায় না।"
+          },
+          {
+            "en": "Al-Qurtubi raises the obvious objection: they did contend with him, so how can the verse say let them not? His answer is the one above, and he adds that the verse came down before the command to fight. He also records a variant reading from Abu Mijlaz, fa-la yanzi'annaka, meaning let them not draw you away or overpower you in your religion. The body of reciters read it from munaza'a. In both readings, he notes, the prohibition is worded to the disbelievers while the Prophet ﷺ is the one intended.",
+            "bn": "কুরতুবী স্বাভাবিক একটা আপত্তি তোলেন: তারা তো তাঁর সঙ্গে বিবাদ করেছিলই, তাহলে আয়াত কেন বলছে তারা যেন বিবাদ না করে? উত্তর সেটাই, যা ওপরে বলা হলো। সঙ্গে তিনি জানান, আয়াতটি নাজিল হয়েছিল যুদ্ধের নির্দেশ আসার আগে। আবু মিজলায থেকে তিনি একটি ভিন্ন কিরাআতও উল্লেখ করেন: ফালা ইয়ানযিআন্নাকা, অর্থাৎ তারা যেন তোমাকে তোমার দীন থেকে টেনে সরিয়ে না নেয়, তোমার উপর প্রবল না হয়। অধিকাংশ কারী অবশ্য পড়েছেন মুনাযাআ থেকে। কুরতুবী বলেন, দুই কিরাআতেই নিষেধের শব্দ কাফিরদের উদ্দেশে, অথচ উদ্দেশ্য নবী ﷺ।"
+          },
+          {
+            "en": "Stepping back from the quarrel is not stepping back from the call. The same verse says wad'u ila rabbik, and invite to your Lord. At-Tabari spells it out: invite those idolaters who dispute your rite to follow your Lord's command in it, eating only what they slaughter after following you, and leaving slaughter for idols behind. Al-Qurtubi says invite to His oneness, His religion and faith in Him. Ibn Kathir sets it beside 28:87: let them not turn you from the signs of Allah after they were sent down to you, and invite to your Lord.",
+            "bn": "ঝগড়া থেকে সরে আসা মানে দাওয়াত থেকে সরে আসা নয়। একই আয়াত বলছে, ওয়াদউ ইলা রাব্বিক: তোমার রবের দিকে ডাকো। তাবারী তা খুলে বলেন: যে মুশরিকরা তোমার কুরবানি নিয়ে বিবাদ করে, তাদের ডাকো এ বিষয়ে তোমার রবের হুকুম মেনে চলতে। অর্থাৎ তোমাকে অনুসরণ করার পর তারা যা জবাই করবে শুধু তা-ই খাবে, আর মূর্তির নামে জবাই ছেড়ে দেবে। কুরতুবী বলেন, ডাকো তাঁর তাওহীদের দিকে, তাঁর দীনের দিকে, তাঁর উপর ঈমানের দিকে। ইবন কাসীর এর পাশে রাখেন ২৮:৮৭ আয়াত: তোমার কাছে নাজিল হওয়ার পর আল্লাহর আয়াত থেকে তারা যেন তোমাকে ফিরিয়ে না রাখে, আর তুমি তোমার রবের দিকে ডাকো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Knows What You Do",
+          "bn": "তোমাদের কাজ তিনি জানেন"
+        },
+        "p": [
+          {
+            "en": "The first half of the reply is 22:68. At-Tabari: if these idolaters dispute with you over your rite, say, Allah knows best what you do and what we do; and Mujahid explains it as, to us our deeds and to you yours. Al-Qurtubi names the disputants as the idolaters of Makka and, from Ibn Abbas, glosses what you do as their denial of Muhammad ﷺ. He then relays Muqatil, who places the verse on the night of the Night Journey, a claim no other fetched text makes; in that account Allah ordered him to turn from their wrangling, for the stubborn have no answer.",
+            "bn": "জবাবের প্রথম অংশ ২২:৬৮ আয়াত। তাবারী বলেন: এই মুশরিকরা যদি তোমার কুরবানি নিয়ে তোমার সঙ্গে বিতর্ক করে, তবে বলো, তোমরা যা করো আর আমরা যা করি, আল্লাহ তা ভালো জানেন। মুজাহিদ এর ব্যাখ্যা দেন: আমাদের আমল আমাদের, তোমাদের আমল তোমাদের। কুরতুবী বিবাদকারীদের চিহ্নিত করেন মক্কার মুশরিক হিসেবে। আর ইবন আব্বাস (রাঃ) থেকে বলেন, তোমরা যা করো মানে মুহাম্মাদ ﷺ-কে তাদের মিথ্যা প্রতিপন্ন করা। এরপর তিনি মুকাতিলের বক্তব্য আনেন, যিনি আয়াতটির নাজিল মিরাজের রাতে বলে উল্লেখ করেছেন। সংগৃহীত অন্য কোনো তাফসীরে এ দাবি নেই। মুকাতিলের ওই বর্ণনায় আছে, আল্লাহ তাঁকে তাদের তর্কাতর্কি থেকে মুখ ফিরিয়ে নিতে বলেছেন, কারণ হঠকারীর কোনো জবাব হয় না।"
+          },
+          {
+            "en": "Ibn Kathir hears two notes in the sentence. It resembles 10:41: if they deny you, say, for me my deeds and for you your deeds; you are clear of what I do and I am clear of what you do. And he calls Allah knows best what you do a severe threat and a firm warning, like 46:8: He knows best what you are pouring forth about it; He suffices as witness between me and you. As-Sa'di reads it as: He knows your aims and your intentions, and will repay you for them on the Day of Resurrection. The words are calm, but they are not empty.",
+            "bn": "ইবন কাসীর এ বাক্যে দুটি সুর শোনেন। একদিকে এটা ১০:৪১ আয়াতের মতো: তারা যদি তোমাকে মিথ্যা বলে, তবে বলো, আমার আমল আমার, তোমাদের আমল তোমাদের। আমি যা করি তার দায় তোমাদের নেই, আর তোমরা যা করো তার দায় আমার নেই। অন্যদিকে তিনি বলেন, তোমরা যা করো আল্লাহ তা ভালো জানেন কথাটি কঠিন হুঁশিয়ারি, পাকা সতর্কবাণী। যেমন ৪৬:৮ আয়াতে: তোমরা এ নিয়ে যা বলাবলি করো তা তিনি ভালো জানেন, আমার ও তোমাদের মধ্যে সাক্ষী হিসেবে তিনিই যথেষ্ট। সা'দীর ব্যাখ্যা: তিনি তোমাদের উদ্দেশ্য ও নিয়ত জানেন, আর কিয়ামাতের দিন সে অনুযায়ী প্রতিদান দেবেন। কথাগুলো শান্ত, কিন্তু ফাঁপা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Day the Differing Ends",
+          "bn": "যেদিন মতভেদ শেষ হবে"
+        },
+        "p": [
+          {
+            "en": "Then the verse itself. At-Tabari: Allah will decide between you on the Day of Resurrection in what you used to differ over in the matter of your religion, and then you will know, you idolaters, who was in the right and who was in falsehood. Al-Qurtubi: between the Prophet ﷺ and his people, in your opposing My signs, and then you will recognise truth from falsehood. Al-Baghawi has the same closing line, and defines ikhtilaf: each of two disputants going to the opposite of where the other goes.",
+            "bn": "এবার আয়াতটি নিজে। তাবারী বলেন: তোমরা নিজেদের দীনের বিষয়ে যে মতভেদ করতে, কিয়ামাতের দিন আল্লাহ তোমাদের মধ্যে তার মীমাংসা করবেন। হে মুশরিকরা, তখন তোমরা জানবে কে সত্যের উপর ছিল আর কে বাতিলের উপর। কুরতুবী বলেন, এ ফয়সালা নবী ﷺ ও তাঁর কওমের মধ্যে, আমার আয়াতের বিরোধিতা নিয়ে। তখন তোমরা চিনবে কোনটা হক, কোনটা বাতিল। বাগাভীর শেষ কথাটাও একই। তিনি ইখতিলাফের সংজ্ঞাও দেন: বিবাদের দুই পক্ষের প্রত্যেকে অন্যজন যেদিকে যায় তার উল্টো দিকে যাওয়া।"
+          },
+          {
+            "en": "Al-Muyassar names the parties more widely: the Muslims and the disbelievers, in their difference over religion. As-Sa'di states the outcome: whoever kept to the straight path is among the people of bliss, and whoever swerved from it among the people of the Fire. Ibn Kathir pairs the verse with 42:15, where the Prophet ﷺ is told to say: Allah is our Lord and your Lord; to us our deeds and to you yours; there is no argument between us and you; Allah will bring us together, and to Him is the return.",
+            "bn": "মুয়াসসার পক্ষ দুটিকে আরও বড় করে চিহ্নিত করে: মুসলিম ও কাফির, দীন নিয়ে তাদের মতভেদের ব্যাপারে। সা'দী পরিণতিটা বলে দেন: যে সরল পথে টিকে ছিল সে জান্নাতের নিয়ামতের লোক, আর যে তা থেকে সরে গেছে সে জাহান্নামের লোক। ইবন কাসীর আয়াতটির পাশে রাখেন ৪২:১৫, যেখানে নবী ﷺ-কে বলতে বলা হয়েছে: আল্লাহ আমাদের রব, তোমাদেরও রব। আমাদের আমল আমাদের, তোমাদের আমল তোমাদের। আমাদের আর তোমাদের মধ্যে কোনো তর্ক নেই। আল্লাহ আমাদের সবাইকে একত্র করবেন, আর তাঁর কাছেই ফিরে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Etiquette or Superseded Command",
+          "bn": "আদব, নাকি রহিত বিধান"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a ruling from the verse: it holds a fine etiquette that Allah taught His servants for replying to one who argues out of obstinacy and contention, ta'annutan wa mira'an. Such a person is not answered and not debated; he is turned aside with these very words that Allah taught His Prophet ﷺ. Al-Muyassar says nearly the same: the verse carries a fine etiquette for replying to one who argues from obstinacy and arrogance. Both read it as a lasting manner.",
+            "bn": "কুরতুবী আয়াত থেকে একটি মাসআলা বের করেন: এতে আছে এক সুন্দর আদব, যা আল্লাহ তাঁর বান্দাদের শিখিয়েছেন। কেউ যদি একগুঁয়েমি আর ঝগড়ার মনোভাব নিয়ে তর্ক করে (তাআন্নুতান ওয়া মিরাআন), তাকে জবাব দেওয়া হবে না, তার সঙ্গে বাহাসও হবে না। আল্লাহ তাঁর নবী ﷺ-কে যে কথা শিখিয়েছেন, সেটা দিয়েই তাকে ফিরিয়ে দেওয়া হবে। মুয়াসসারও প্রায় একই কথা বলে: একগুঁয়েমি ও অহংকার নিয়ে যে তর্ক করে, তাকে জবাব দেওয়ার সুন্দর আদব আছে এ আয়াতে। দুজনেই একে স্থায়ী আচরণবিধি হিসেবে পড়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi then records the other view without naming who held it: it has been said, qad qila, that this verse is abrogated by the sword. He specifies what would be abrogated: the silence towards the opponent, and contenting oneself with Allah will judge between you. His note on 22:67, that the passage came before the command to fight, sits beside it. The fetched texts give both positions and settle neither, and this article does not settle it either.",
+            "bn": "এরপর কুরতুবী অন্য মতটিও উল্লেখ করেন, তবে কার মত তা বলেন না: বলা হয়েছে (কাদ কীলা), এ আয়াত তরবারির আয়াত দিয়ে রহিত। কী রহিত হয়েছে তাও তিনি নির্দিষ্ট করে দেন: বিরোধীর ব্যাপারে চুপ থাকা, আর আল্লাহ তোমাদের মধ্যে ফয়সালা করবেন বলেই ক্ষান্ত হওয়া। ২২:৬৭ আয়াতে তাঁর মন্তব্য, যে আয়াতগুলো যুদ্ধের নির্দেশের আগে নাজিল হয়েছে, এর পাশেই থাকে। সংগৃহীত তাফসীরগুলো দুটি মতই দিয়েছে, কোনোটির পক্ষে রায় দেয়নি। এ লেখাও কোনো পক্ষ নিচ্ছে না।"
+          },
+          {
+            "en": "As-Sa'di, on 22:67, explains why the reply is so short. Objections like these need not be answered one by one when the objector denies the message itself; every situation has its fitting word. If such a person claims he argues in order to be guided, he is told that the real question is whether the message is established. Allah still ordered His Messenger to call with wisdom and good admonition and to carry on, whether objectors objected or not.",
+            "bn": "২২:৬৭ আয়াতে সা'দী ব্যাখ্যা করেন, জবাবটা কেন এত ছোট। আপত্তিকারী যখন রিসালাতকেই অস্বীকার করে, তখন এ ধরনের আপত্তির একটি একটি করে জবাব দেওয়া জরুরি নয়। প্রতিটি অবস্থার জন্য আছে তার উপযুক্ত কথা। এমন লোক যদি দাবি করে যে সে পথ পাওয়ার জন্যই তর্ক করছে, তাকে বলা হবে: আসল আলোচনা তো রিসালাত প্রমাণিত কি না, তা নিয়ে। তবু আল্লাহ তাঁর রাসূলকে হিকমত আর সুন্দর উপদেশ দিয়ে দাওয়াত দিতে এবং সে কাজে এগিয়ে যেতে বলেছেন, আপত্তিকারীরা আপত্তি করুক বা না করুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Handing the Verdict to Allah",
+          "bn": "শেষ রায় তাঁর হাতে"
+        },
+        "p": [
+          {
+            "en": "These verses concern the idolaters of Makka who contended with the Prophet ﷺ over his rites and his message, as the commentators above report. The verse describes what the text describes and licenses nothing against any living person or community. Its posture is the reverse of hostility: end the quarrel, keep the invitation, and leave the final verdict to Allah. None of the fetched commentaries attaches a hadith to this verse, so none is cited here.",
+            "bn": "ওপরের মুফাসসিরদের বর্ণনামতে, এ আয়াতগুলো মক্কার সেই মুশরিকদের নিয়ে, যারা নবী ﷺ-এর সঙ্গে তাঁর ইবাদতের আমল আর তাঁর রিসালাত নিয়ে বিবাদ করেছিল। আয়াতটি শুধু সেটুকুই বর্ণনা করে যা পাঠে আছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। এর মেজাজ শত্রুতার ঠিক উল্টো: ঝগড়া থামাও, দাওয়াত চালু রাখো, শেষ রায় আল্লাহর হাতে ছেড়ে দাও। সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস উদ্ধৃত হয়নি।"
+          },
+          {
+            "en": "As-Sa'di, on the closing words of 22:67, says the Prophet ﷺ is sure of his affair and certain of his religion, not on a doubtful matter that would make him stop with people and their whims and let their objections halt him. That certainty is what makes the short reply possible. A reader can carry it into his own disputes: invite while someone is listening, and when only a contest is left, say the words and step away. The judgement is between you, and whoever says these words will stand before that Judge as well.",
+            "bn": "২২:৬৭ আয়াতের শেষ অংশের ব্যাখ্যায় সা'দী বলেন, নবী ﷺ নিজের বিষয়ে নিশ্চিত, নিজের দীনের ব্যাপারে দৃঢ় বিশ্বাসী। তিনি কোনো সন্দেহের ব্যাপারের উপর নেই যে মানুষের খেয়ালখুশি আর মতামতের সামনে থেমে যাবেন, তাদের আপত্তি তাঁকে আটকে দেবে। এই নিশ্চয়তা আছে বলেই ছোট্ট জবাবটা দেওয়া সম্ভব। পাঠকও নিজের বিবাদে এটা কাজে লাগাতে পারেন। কেউ শুনতে চাইলে দাওয়াত দিন। আর যখন শুধু জেতার লড়াই বাকি থাকে, তখন কথাটা বলে সরে আসুন। ফয়সালা হবে তোমাদের মধ্যে। কাজেই যে-ই এ কথা বলুক, তাকেও একদিন তাঁরই সামনে দাঁড়াতে হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "22:71": {
     "sections": [
       {

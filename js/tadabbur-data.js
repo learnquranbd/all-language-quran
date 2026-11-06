@@ -23751,6 +23751,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "If you answer a wrong, answer only its equal and never more; better still, pardon, because the One who promises to help the wronged is Himself Pardoning and Forgiving.",
     "lessonBn": "অন্যায়ের জবাব দিলে ঠিক সমান জবাব দিন, এক বিন্দুও বেশি নয়। তার চেয়েও ভালো, মাফ করে দিন, কারণ মজলুমকে সাহায্যের ওয়াদা যিনি দেন, তিনি নিজেই মাফকারী, ক্ষমাশীল।"
+  },
+  "22:69": {
+    "reflectionEn": "The Prophet ﷺ is told what to say when an argument turns into a quarrel: Allah knows best what you do, and Allah will judge between you on the Day of Resurrection concerning what you used to differ over. It is not a retort and not a curse. It is a hand lifted off the table. He has already invited, already explained, and he knows he stands on guidance; what remains is a verdict that is not his to give. A quarrel needs two people, and one of them may simply stop. When I argue, am I still inviting, or only trying to win? And can I leave a disagreement unresolved, trusting that the final word belongs to Allah?",
+    "reflectionBn": "তর্ক যখন ঝগড়ায় গড়ায়, তখন কী বলতে হবে তা নবী ﷺ-কে শিখিয়ে দেওয়া হচ্ছে: তোমরা যা করো আল্লাহ তা ভালো জানেন, আর যে বিষয়ে তোমরা মতভেদ করতে, কিয়ামাতের দিন আল্লাহ তোমাদের মধ্যে তার ফয়সালা করবেন। এটা পাল্টা খোঁচা নয়, অভিশাপও নয়। এ যেন টেবিল থেকে হাত তুলে নেওয়া। দাওয়াত তিনি দিয়েছেন, বুঝিয়েও বলেছেন, আর জানেন যে তিনি হিদায়াতের উপর আছেন। বাকি থাকে শুধু রায়, আর সে রায় দেওয়ার মালিক তিনি নন। ঝগড়া করতে দুজন লাগে, আর তাদের একজন চাইলে থেমে যেতে পারে। আমি যখন তর্ক করি, তখন কি এখনো দাওয়াত দিচ্ছি, নাকি শুধু জিততে চাইছি? আর আল্লাহই শেষ কথা বলবেন, এই ভরসায় কোনো মতভেদকে অমীমাংসিত রেখে কি আমি সরে আসতে পারি?",
+    "pointsEn": [
+      "In my last heated argument, was I still trying to guide the other person, or only to defeat them?",
+      "Can I tell the difference between someone asking in order to understand and someone asking only to wear me down?",
+      "Which disagreement am I still carrying that I could hand over to Allah's judgement and put down?",
+      "Does my confidence that I am on guidance make me calmer with people, or harsher?",
+      "When I walk away from a quarrel, do I leave with a prayer for the other person or with contempt?"
+    ],
+    "pointsBn": [
+      "শেষ যে তর্কটা গরম হয়ে উঠেছিল, তাতে আমি কি তখনো অন্যজনকে পথ দেখাতে চাইছিলাম, নাকি শুধু হারাতে?",
+      "কে বোঝার জন্য প্রশ্ন করছে আর কে শুধু আমাকে ক্লান্ত করার জন্য, এ দুয়ের তফাত কি আমি ধরতে পারি?",
+      "কোন মতভেদের বোঝা আমি এখনো বয়ে বেড়াচ্ছি, যা আল্লাহর ফয়সালার হাতে তুলে দিয়ে নামিয়ে রাখা যায়?",
+      "আমি হিদায়াতের উপর আছি, এই আস্থা কি মানুষের সঙ্গে আমাকে শান্ত করে, নাকি কঠোর?",
+      "ঝগড়া থেকে সরে আসার সময় আমি কি অন্যজনের জন্য দোয়া নিয়ে আসি, নাকি তাচ্ছিল্য নিয়ে?"
+    ],
+    "lessonEn": "When a dispute becomes a quarrel, keep inviting, stop contending, and leave the final verdict to Allah, who knows what each side does.",
+    "lessonBn": "বিতর্ক যখন ঝগড়ায় পরিণত হয়, তখন দাওয়াত চালিয়ে যান, লড়াই থামান, আর শেষ রায় ছেড়ে দিন আল্লাহর হাতে, যিনি দুই পক্ষের কাজই জানেন।"
   }
 };
 
