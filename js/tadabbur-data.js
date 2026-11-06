@@ -24271,6 +24271,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Spend on what is right and on those you owe without waste or tightness, letting your means and duties, not cravings or fears, set the measure.",
     "lessonBn": "যা ন্যায্য আর যাদের হক আপনার উপর, তাদের জন্য খরচ করুন অপচয় ছাড়া, কৃপণতাও ছাড়া। মাপ ঠিক করুক আপনার সামর্থ্য আর দায়, শখ বা ভয় নয়।"
+  },
+  "26:17": {
+    "reflectionEn": "Two brothers are sent to the most powerful man in Egypt, and the words they must carry are few. We are the messenger of the Lord of the worlds: send the Children of Israel with us. They speak with one voice, as though a single messenger stood there, because the message they bring is one. And the message is not only about what Pharaoh should believe. It names a people he holds in bondage and asks for them outright. A call that begins with God does not stay shut inside the heart; it reaches the ones being crushed. When I speak for what is right, do I remember those who cannot speak for themselves, and do I ask for them plainly?",
+    "reflectionBn": "মিসরের সবচেয়ে ক্ষমতাধর মানুষটির কাছে দুই ভাইকে পাঠানো হচ্ছে। তাঁদের বয়ে নিতে হবে অল্প কয়েকটি কথা: আমরা বিশ্বজগতের প্রতিপালকের রসূল, বানী ইসরাঈলকে আমাদের সঙ্গে যেতে দাও। দুজন কথা বলছেন এক কণ্ঠে, যেন সেখানে একজন রসূলই দাঁড়িয়ে, কারণ তাঁদের বার্তা একটাই। আর সেই বার্তা শুধু ফেরাউন কী বিশ্বাস করবে তা নিয়ে নয়। ফেরাউনের হাতে বন্দি এক জাতির কথা বার্তাটি সরাসরি তোলে, তাদের মুক্তি চায়। আল্লাহকে দিয়ে যে দাওয়াত শুরু হয়, তা অন্তরের ভেতরে আটকে থাকে না, পিষ্ট মানুষগুলোর কাছেও পৌঁছে যায়। আমি যখন হকের পক্ষে কথা বলি, যারা নিজের কথা বলতে পারে না তাদের কথা কি মনে রাখি? তাদের জন্য কি সোজাসুজি চাইতে পারি?",
+    "pointsEn": [
+      "Who in my life is being held down in a way I have seen clearly and never once named aloud?",
+      "When I join others to say something true, do we speak as one, or does each of us guard his own share of the credit?",
+      "Have I kept my faith so private that it never asks anything on behalf of the people around me who are wronged?",
+      "If I had only a few words before someone with power over me, would I spend them on myself or on those he holds?",
+      "When I ask something of the powerful, do I ask plainly, or do I soften the request until it asks for nothing?"
+    ],
+    "pointsBn": [
+      "আমার চারপাশে কাকে দাবিয়ে রাখা হচ্ছে, যা আমি স্পষ্ট দেখেছি অথচ একবারও মুখ ফুটে বলিনি?",
+      "অন্যদের সঙ্গে মিলে কোনো সত্য কথা বলতে গেলে আমরা কি এক কণ্ঠে বলি, নাকি প্রত্যেকে নিজের কৃতিত্বের ভাগটুকু আগলে রাখি?",
+      "আমার ঈমানকে কি এতটাই ব্যক্তিগত করে রেখেছি যে আশপাশের মজলুম মানুষগুলোর জন্য তা কিছুই চায় না?",
+      "আমার উপর ক্ষমতা রাখে এমন কারও সামনে যদি মাত্র কয়েকটি কথা বলার সুযোগ পাই, সেগুলো কি নিজের জন্য খরচ করব, নাকি তার হাতে আটকে থাকা মানুষগুলোর জন্য?",
+      "ক্ষমতাবানের কাছে কিছু চাইলে আমি কি সোজাসুজি চাই, নাকি এত নরম করে বলি যে শেষে আর কিছুই চাওয়া হয় না?"
+    ],
+    "lessonEn": "A true call to God does not stop at belief: ask plainly, with others beside you, for the freedom of those who are held down.",
+    "lessonBn": "আল্লাহর দিকে খাঁটি দাওয়াত শুধু বিশ্বাসে থেমে থাকে না। পাশে যারা আছে তাদের নিয়ে, যাদের দাবিয়ে রাখা হয়েছে তাদের মুক্তি সোজাসুজি চেয়ে নিন।"
   }
 };
 

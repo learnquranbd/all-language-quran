@@ -587,6 +587,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words Carried to Pharaoh",
+          "bn": "ফেরাউনের কাছে পাঁচ শব্দের বার্তা"
+        },
+        "p": [
+          {
+            "en": "An arsil ma'anā banī Isrā'īl: send the Children of Israel with us. In the Arabic it is five words, and it does not stand on its own. It completes the instruction of the verse before it, where God tells Musa (AS) and Harun (AS) to go to Pharaoh and say, we are the messenger of the Lord of the worlds (26:16). At-Tabari reads the two verses as one sentence: say to him that you are the messenger of the Lord of the worlds to him, sent with this, that he send the Children of Israel with you.",
+            "bn": "আন আরসিল মাআনা বানী ইসরাঈল: বানী ইসরাঈলকে আমাদের সঙ্গে পাঠিয়ে দাও। আরবিতে মোট পাঁচটি শব্দ, আর বাক্যটি একা দাঁড়ায় না। আগের আয়াতে আল্লাহ মূসা (আঃ) ও হারূন (আঃ)-কে বলেছেন: ফেরাউনের কাছে যাও আর বলো, আমরা বিশ্বজগতের প্রতিপালকের রসূল (২৬:১৬)। এ আয়াত সেই আদেশেরই বাকি অংশ। তাবারী দুই আয়াতকে পড়েন একটি বাক্য হিসেবে। তাকে বলো, তোমরা তার কাছে বিশ্বজগতের প্রতিপালকের রসূল, আর পাঠানো হয়েছে এই কথা দিয়ে যে, সে যেন বানী ইসরাঈলকে তোমাদের সঙ্গে পাঠিয়ে দেয়।"
+          },
+          {
+            "en": "Al-Baghawi marks the same link in the grammar, glossing an arsil as bi-an arsil: with the message that you send. The small particle an opens the content of what the two carry, so these five words are the errand itself, not an aside to it. There is an echo in the root as well. The pair come as rasūl, one who is sent, and the first thing they ask of Pharaoh is arsil, send. Al-Muyassar paraphrases the request simply: leave the Children of Israel, so that they may go with us.",
+            "bn": "বাগাভী একই যোগসূত্র দেখান ব্যাকরণে। তাঁর ব্যাখ্যায় আন আরসিল মানে বি-আন আরসিল, অর্থাৎ এই বার্তা নিয়ে যে, তুমি পাঠিয়ে দাও। ছোট্ট অব্যয় আন দিয়ে খুলে যায় দুই ভাই কী বয়ে এনেছেন তার বিষয়বস্তু। তাই এই পাঁচটি শব্দই আসল দায়িত্ব, পাশের কোনো কথা নয়। ধাতুর মধ্যেও একটা প্রতিধ্বনি আছে। তাঁরা এসেছেন রসূল হয়ে, মানে এমন একজন যাঁকে পাঠানো হয়েছে, আর ফেরাউনের কাছে তাঁদের প্রথম দাবিই হলো আরসিল, পাঠিয়ে দাও। মুয়াসসার দাবিটাকে সহজ কথায় বলে: বানী ইসরাঈলকে ছেড়ে দাও, যাতে তারা আমাদের সঙ্গে যেতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Men, One Messenger",
+          "bn": "দুজন মানুষ, রসূল একজন"
+        },
+        "p": [
+          {
+            "en": "The wording of 26:16 is striking. Two men are told to say innā rasūlu rabbi al-'ālamīn, we are the messenger, with the noun in the singular, where the parallel in 20:47 has the dual, innā rasūlā rabbika, we are the two messengers of your Lord. At-Tabari explains the singular as a verbal noun. Rasūl here is the masdar of arsaltu, I sent, so it means a sending, a message. He cites a line of poetry: the slanderers lied, I disclosed nothing to them and sent them no rasūl, meaning no message.",
+            "bn": "২৬:১৬ আয়াতের শব্দচয়ন চোখে পড়ার মতো। দুজন মানুষকে বলতে বলা হয়েছে ইন্না রাসূলু রাব্বিল আলামীন, আমরা রসূল, আর বিশেষ্যটা একবচন। অথচ ২০:৪৭ আয়াতে একই প্রসঙ্গে দ্বিবচন: ইন্না রাসূলা রাব্বিকা, আমরা দুজন তোমার প্রতিপালকের রসূল। তাবারী এই একবচনকে ক্রিয়াবাচক বিশেষ্য হিসেবে ব্যাখ্যা করেন। এখানে রাসূল হলো আরসালতু, আমি পাঠালাম, ক্রিয়ার মাসদার। তাই এর মানে পাঠানো, অর্থাৎ বার্তা। তিনি একটি কবিতার চরণ উদ্ধৃত করেন: নিন্দুকেরা মিথ্যা বলেছে, আমি তাদের কাছে কিছুই ফাঁস করিনি, তাদের দিয়ে কোনো রাসূলও পাঠাইনি। এখানে রাসূল মানে বার্তা।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same reading on the authority of Abu Ubayda: rasūl in the sense of risāla, so that the sentence means we are bearers of the message of the Lord of the worlds. Al-Baghawi agrees that the message is meant. Both then record a second, grammatical view: rasūl can stand for two or for many, as Arabs say this is my rasūl and my agent of one person, of two or of a group. Al-Qurtubi gives it from Abu Ubayd, al-Baghawi from Abu Ubayda. Al-Qurtubi points to 26:77, they are an enemy to me, al-Baghawi to 18:50, they are an enemy to you: a singular noun over a plural.",
+            "bn": "কুরতুবী একই ব্যাখ্যা আনেন আবু উবায়দার সূত্রে: রাসূল এখানে রিসালা বা বার্তার অর্থে। তাহলে বাক্যের মানে দাঁড়ায়, আমরা বিশ্বজগতের প্রতিপালকের বার্তার বাহক। বাগাভীও একই কথা বলেন, আল্লাহ এখানে বার্তাকেই বুঝিয়েছেন। এরপর দুজনই ব্যাকরণের আরেকটি মত উল্লেখ করেন: রাসূল শব্দ দুজন বা অনেকজনের জন্যও বসতে পারে। আরবরা একজন, দুজন বা একদল লোক সম্পর্কে একইভাবে বলে, এ আমার রাসূল, আমার উকিল। কুরতুবী মতটি আনেন আবু উবায়দের নামে, বাগাভী আবু উবায়দার নামে। কুরতুবী দৃষ্টান্ত দেন ২৬:৭৭ আয়াত থেকে, তারা আমার শত্রু। বাগাভী দেন ১৮:৫০ থেকে, তারা তোমাদের শত্রু। দুই জায়গাতেই বহুবচনের উপর একবচন বিশেষ্য।"
+          },
+          {
+            "en": "A third reading, which both introduce with it is said, takes the sentence to mean each one of us is a messenger of the Lord of the worlds. Ibn Kathir goes the same way without debate: he sets the verse beside 20:47 and explains it as each of us has been sent to you. The readings add up more than they compete. Whether rasūl names the message, or stands for the pair, or for each of them, the two brothers speak as one, under one mission, with one thing to deliver.",
+            "bn": "তৃতীয় একটি ব্যাখ্যা দুজনই আনেন 'বলা হয়' কথাটি দিয়ে। এ মতে বাক্যের অর্থ, আমাদের প্রত্যেকেই বিশ্বজগতের প্রতিপালকের রসূল। ইবন কাসীর কোনো বিতর্কে না গিয়ে এ পথেই যান। তিনি আয়াতটিকে ২০:৪৭-এর পাশে রাখেন আর ব্যাখ্যা দেন: আমাদের প্রত্যেককে তোমার কাছে পাঠানো হয়েছে। মতগুলো একে অন্যকে খণ্ডন করার চেয়ে বরং পরিপূর্ণ করে। রাসূল শব্দ বার্তাকে বোঝাক, জোড়াকে বোঝাক বা প্রত্যেককে আলাদা করে, দুই ভাই কথা বলছেন একই কণ্ঠে, একটিমাত্র দায়িত্ব নিয়ে, একটাই জিনিস পৌঁছে দিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Letting Them Go Meant",
+          "bn": "ছেড়ে দেওয়ার আসল দাবি"
+        },
+        "p": [
+          {
+            "en": "What exactly is being asked? Ibn Kathir reads arsil as release: free them from your captivity, your grip, your subjugation and your torment. He gives the reason in the same breath: for they are the believing servants of God, His sincere party, and with you they are in humiliating torment. On his reading the demand rests on two facts held together. These people belong to God as His worshippers, and Pharaoh is treating them as his own possession, in a torment meant to degrade them.",
+            "bn": "ঠিক কী চাওয়া হচ্ছে? ইবন কাসীর আরসিল শব্দকে পড়েন মুক্তি অর্থে: তোমার বন্দিত্ব থেকে, তোমার মুঠো থেকে, তোমার দমন আর নির্যাতন থেকে তাদের ছেড়ে দাও। কারণটাও তিনি সঙ্গে সঙ্গে বলেন: তারা আল্লাহর মুমিন বান্দা, তাঁর একনিষ্ঠ দল, আর তোমার হাতে তারা লাঞ্ছনাকর আযাবে আছে। তাঁর ব্যাখ্যায় দাবিটা দাঁড়িয়ে আছে দুটি সত্যের উপর। এই মানুষগুলো আল্লাহর ইবাদতকারী বান্দা, অথচ ফেরাউন তাদের নিজের সম্পত্তির মতো ব্যবহার করছে, এমন আযাবে রেখেছে যার উদ্দেশ্যই তাদের হেয় করা।"
+          },
+          {
+            "en": "As-Sa'di puts the weight on worship: stop your punishment of them and lift your hand from them, so that they may worship their Lord and establish the affairs of their religion. Freedom here is not an end in itself. It is the room a people need in order to serve God with no master standing over their prayer. Al-Qurtubi and al-Baghawi name the destination: let them go and clear their way, so that they travel with us to Palestine, and do not enslave them.",
+            "bn": "সা'দী জোর দেন ইবাদতের উপর: তাদের উপর তোমার শাস্তি বন্ধ করো, তাদের উপর থেকে হাত সরিয়ে নাও, যাতে তারা নিজেদের রবের ইবাদত করতে পারে আর দ্বীনের কাজ কায়েম রাখতে পারে। এখানে মুক্তি নিজেই লক্ষ্য নয়। মুক্তি হলো সেই খোলা জায়গা, যা না পেলে একটি জাতি মাথার উপর কোনো প্রভু ছাড়া আল্লাহর ইবাদত করতে পারে না। কুরতুবী আর বাগাভী গন্তব্যের নামও বলেন: তাদের ছেড়ে দাও, পথ খুলে দাও, যাতে তারা আমাদের সঙ্গে ফিলিস্তিনের দিকে যেতে পারে। আর তাদের দাস বানিয়ে রেখো না।"
+          },
+          {
+            "en": "Both add that Pharaoh had held them in bondage for 400 years, a figure they give without naming any source and which the Qur'an itself does not state. Ma'arif al-Qur'an, citing al-Qurtubi, fills in the background: the Children of Israel belonged to the land of Syria and wanted to go back, and Pharaoh would not let them. So when Musa (AS) presented the message of truth, he also asked Pharaoh to stop the cruelties he had inflicted on them and let them go home.",
+            "bn": "দুজনই আরও বলেন, ফেরাউন তাদের ৪০০ বছর দাস বানিয়ে রেখেছিল। সংখ্যাটা তাঁরা কোনো সূত্রের নাম ছাড়াই দেন, আর কুরআন নিজে তা বলে না। মাআরিফুল কুরআন কুরতুবীর বরাতে পটভূমিটা খুলে বলে। বানী ইসরাঈলের আদি বাস ছিল শামে, তারা সেখানে ফিরে যেতে চাইত, কিন্তু ফেরাউন যেতে দিত না। তাই মূসা (আঃ) যখন সত্যের বার্তা পেশ করলেন, সঙ্গে এটাও চাইলেন যে ফেরাউন তাদের উপর চালানো জুলুম বন্ধ করুক আর তাদের নিজেদের দেশে ফিরে যেতে দিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief and Release, One Errand",
+          "bn": "ঈমান আর মুক্তি, একই দায়িত্ব"
+        },
+        "p": [
+          {
+            "en": "Why does the release of a people stand in the same breath as the claim to be God's messenger? As-Sa'di, on 26:16, states the first half of the errand: we have been sent to you so that you believe in Him and in us, submit to His worship and yield to His oneness. Then 26:17 adds the second half. Al-Muyassar holds the two together in one sentence: we have been sent to you and to your people from the Lord of the worlds, saying, leave the Children of Israel to go with us.",
+            "bn": "একটি জাতির মুক্তির দাবি কেন আল্লাহর রসূল হওয়ার ঘোষণার সঙ্গে এক নিঃশ্বাসে আসে? সা'দী ২৬:১৬ আয়াতের ব্যাখ্যায় দায়িত্বের প্রথম অর্ধেক বলেন: আমাদের তোমার কাছে পাঠানো হয়েছে, যাতে তুমি তাঁর উপর আর আমাদের উপর ঈমান আনো, তাঁর ইবাদতের কাছে নত হও, তাঁর তাওহীদ মেনে নাও। তারপর ২৬:১৭ আয়াত যোগ করে বাকি অর্ধেক। মুয়াসসার দুটি দিককে একটি বাক্যেই ধরে রাখে: বিশ্বজগতের প্রতিপালক আমাদের তোমার আর তোমার কওমের কাছে পাঠিয়েছেন এই কথা দিয়ে যে, বানী ইসরাঈলকে ছেড়ে দাও, তারা আমাদের সঙ্গে যাক।"
+          },
+          {
+            "en": "The pairing is not peculiar to this surah. In 20:47 the two are told to say: we are the messengers of your Lord, so send the Children of Israel with us and do not torment them. In 7:105 Musa (AS) says: I have come to you with clear evidence from your Lord, so send the Children of Israel with me. Wherever the scene is told, the call to God and the demand to let His servants go arrive together, and in those two verses the demand follows from the claim, joined by fa, so.",
+            "bn": "এই জোড় শুধু এ সূরার বৈশিষ্ট্য নয়। ২০:৪৭ আয়াতে দুই ভাইকে বলতে বলা হয়েছে: আমরা তোমার প্রতিপালকের রসূল, কাজেই বানী ইসরাঈলকে আমাদের সঙ্গে পাঠিয়ে দাও, তাদের উপর নির্যাতন কোরো না। ৭:১০৫ আয়াতে মূসা (আঃ) বলেন: তোমাদের প্রতিপালকের কাছ থেকে স্পষ্ট প্রমাণ নিয়ে তোমাদের কাছে এসেছি, কাজেই বানী ইসরাঈলকে আমার সঙ্গে পাঠিয়ে দাও। দৃশ্যটি যেখানেই এসেছে, আল্লাহর দিকে আহ্বান আর তাঁর বান্দাদের ছেড়ে দেওয়ার দাবি এসেছে একসঙ্গে। আর ওই দুই আয়াতে দাবিটা আসে ঘোষণারই ফল হয়ে, ফা অব্যয় দিয়ে জোড়া, যার মানে কাজেই।"
+          },
+          {
+            "en": "The commentators' glosses show why the two belong together. On Ibn Kathir's reading the people being held are already believers, so their bondage stands between them and the worship of God. On as-Sa'di's, release is what lets them worship at all. A message that asked Pharaoh to believe while leaving his captives in their chains would have left half of its own content unsaid. In this verse, faith in the Lord of the worlds and justice for the people He owns are delivered as a single message.",
+            "bn": "দুটি দাবি কেন একসঙ্গে, তাফসীরকারদের ব্যাখ্যাই তা দেখিয়ে দেয়। ইবন কাসীরের পাঠে বন্দি মানুষগুলো আগে থেকেই মুমিন, তাই তাদের দাসত্ব আল্লাহর ইবাদতের পথে বাধা হয়ে দাঁড়িয়েছে। সা'দীর পাঠে মুক্তি পেলেই তারা আদৌ ইবাদত করতে পারবে। যে বার্তা ফেরাউনকে ঈমান আনতে বলত অথচ তার বন্দিদের শিকলেই রেখে দিত, তা নিজের অর্ধেক কথাই না বলা রেখে দিত। এ আয়াতে বিশ্বজগতের প্রতিপালকের উপর ঈমান আর তাঁর বান্দাদের প্রতি ইনসাফ পৌঁছায় একটিমাত্র বার্তা হয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Delivered at the Palace Gate",
+          "bn": "রাজদরবারের দরজায় বার্তা"
+        },
+        "p": [
+          {
+            "en": "The Qur'an moves straight from the instruction to Pharaoh's reply in 26:18. At-Tabari notes that something is left out between them, clear from what is said: so they went to Pharaoh and delivered their Lord's message to him, and Pharaoh said. The narrative skips the journey and the audience and keeps only the words the brothers were given and the answer they met. Ibn Kathir describes that answer: Pharaoh turned away from all of it and looked at Musa (AS) with contempt and disdain.",
+            "bn": "কুরআন আদেশ থেকে সরাসরি চলে যায় ২৬:১৮ আয়াতে ফেরাউনের জবাবে। তাবারী বলেন, মাঝখানে কিছু কথা উহ্য আছে, যা বলা কথা থেকেই বোঝা যায়: তাঁরা ফেরাউনের কাছে গেলেন, তার কাছে রবের বার্তা পৌঁছে দিলেন, তখন ফেরাউন বলল। পথের বর্ণনা নেই, দরবারে ঢোকার বর্ণনা নেই। আছে শুধু দুই ভাইকে দেওয়া কথাগুলো আর তাঁদের পাওয়া জবাব। ইবন কাসীর সেই জবাবের ধরন বলেন: ফেরাউন পুরো ব্যাপার থেকেই মুখ ফিরিয়ে নিল, আর মূসা (আঃ)-এর দিকে তাকাল তাচ্ছিল্য আর অবজ্ঞার চোখে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi fill the gap with a report the Qur'an does not tell. Al-Baghawi introduces it with it is related; al-Qurtubi gives it with no source. The two waited a year before they were admitted, and then the doorkeeper said to Pharaoh, there is a man here who claims to be the messenger of the Lord of the worlds; and Pharaoh said, let him in, perhaps we may laugh at him. Whatever such a report is worth, it keeps the verse's singular: one messenger at the gate.",
+            "bn": "কুরতুবী আর বাগাভী এই ফাঁক ভরেন এমন এক বর্ণনা দিয়ে, যা কুরআন বলে না। বাগাভী বর্ণনাটি আনেন 'বর্ণিত আছে' বলে, কুরতুবী আনেন কোনো সূত্র ছাড়াই। দুই ভাই এক বছর অপেক্ষা করেছিলেন, তারপর ঢোকার অনুমতি মেলে। দারোয়ান ফেরাউনকে বলল, এখানে একজন লোক দাবি করছে সে বিশ্বজগতের প্রতিপালকের রসূল। ফেরাউন বলল, তাকে আসতে দাও, হয়তো তাকে নিয়ে একটু হাসা যাবে। এমন বর্ণনার মূল্য যা-ই হোক, তা আয়াতের একবচনটি ধরে রাখে: দরজায় একজনই রসূল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read Against No One Today",
+          "bn": "আজকের কারও বিরুদ্ধে নয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, sound or otherwise, and this article adds none. The verse must also be read inside its own frame. It describes one king, Pharaoh, holding one people in bondage in one age, as the text and its commentators describe it. It licenses nothing against any living person or community: not against the people of Egypt today, and not against anyone said to descend from Pharaoh's people or to share their land.",
+            "bn": "এ আয়াতের জন্য যত তাফসীর সংগ্রহ করা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি, সহীহ বা অন্য কোনো মানের। এই লেখাও তাই কোনো হাদীস যোগ করছে না। আয়াতটিকে পড়তে হবে তার নিজের প্রেক্ষাপটেই। আয়াত ও তার তাফসীর যেমন বলে, এখানে আছে একজন রাজা, ফেরাউন, যে একটি যুগে একটি জাতিকে দাস বানিয়ে রেখেছিল। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের মিসরের মানুষের বিরুদ্ধে নয়, ফেরাউনের কওমের বংশধর বলে যাদের ধরা হয় বা যারা সেই ভূমিতে থাকে, তাদের বিরুদ্ধেও নয়।"
+          },
+          {
+            "en": "Nor does the verse speak about any modern state. The Children of Israel here are the people the commentators describe as enslaved under Pharaoh and as God's believing servants in their own time. They are not to be identified with any present-day country, its government or its policies, whether to defend them or to condemn them. What the verse carries across the centuries is a principle rather than a political map: people held in bondage are owed their freedom, and a messenger of God asks for it.",
+            "bn": "আধুনিক কোনো রাষ্ট্র নিয়েও আয়াতটি কথা বলে না। এখানে বানী ইসরাঈল সেই জাতি, তাফসীরকারেরা যাদের বর্ণনা দেন ফেরাউনের অধীনে দাসত্বে বন্দি আর নিজেদের যুগে আল্লাহর মুমিন বান্দা হিসেবে। আজকের কোনো দেশ, তার সরকার বা তার নীতির সঙ্গে তাদের এক করে দেখা চলে না, সমর্থনের জন্যও নয়, নিন্দার জন্যও নয়। শতাব্দী পেরিয়ে আয়াতটি যা বয়ে আনে তা রাজনীতির মানচিত্র নয়, একটি নীতি: দাসত্বে বন্দি মানুষের মুক্তি তাদের হক, আর আল্লাহর রসূল সেই মুক্তি চেয়ে নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gentle, Yet Not Bargaining",
+          "bn": "নম্র, তবু দরকষাকষি নেই"
+        },
+        "p": [
+          {
+            "en": "Notice the shape of the request. It is a single imperative, arsil, addressed to a king, with no threat attached and no bargain offered. In 20:44 the same two are told to speak to Pharaoh with gentle speech, that perhaps he may be reminded or fear. Gentleness and plainness sit side by side. The words carry no insult and no flattery. They name the Lord of the worlds, under whose lordship Pharaoh himself stands, and then they name what that Lord requires of him.",
+            "bn": "দাবিটার গড়ন খেয়াল করুন। একজন রাজাকে বলা একটিমাত্র আদেশসূচক ক্রিয়া, আরসিল। সঙ্গে কোনো হুমকি নেই, কোনো লেনদেনের প্রস্তাবও নেই। ২০:৪৪ আয়াতে এই দুজনকেই বলা হয়েছে ফেরাউনের সঙ্গে নরম কথা বলতে, হয়তো সে উপদেশ নেবে বা ভয় করবে। এখানে নম্রতা আর স্পষ্টতা পাশাপাশি চলে। কথায় অপমান নেই, তোষামোদও নেই। কথাগুলো প্রথমে বিশ্বজগতের প্রতিপালকের নাম নেয়, যাঁর প্রভুত্বের অধীনে ফেরাউন নিজেও। তারপর বলে, সেই প্রতিপালক তার কাছে কী চান।"
+          },
+          {
+            "en": "The title rabb al-'ālamīn does quiet work here. It is the phrase Pharaoh seizes on in 26:23, asking what the Lord of the worlds is, and the exchange that follows turns on it. In 26:16 the title stands unexplained, as a plain fact, and the demand of 26:17 rests on it. If He is Lord of all the worlds, then the people Pharaoh holds are His servants before they are anyone's labourers, and their Lord may ask for them back.",
+            "bn": "রাব্বুল আলামীন উপাধিটা এখানে নিঃশব্দে বড় কাজ করে। ২৬:২৩ আয়াতে ফেরাউন ঠিক এই কথাটিই আঁকড়ে ধরে প্রশ্ন তোলে, বিশ্বজগতের প্রতিপালক আবার কী, আর পরের কথোপকথন ঘোরে এরই চারপাশে। ২৬:১৬ আয়াতে উপাধিটা কোনো ব্যাখ্যা ছাড়াই দাঁড়িয়ে থাকে, সোজা এক সত্যের মতো। আর ২৬:১৭ আয়াতের দাবি ভর দেয় তারই উপর। তিনি যদি সব জগতের প্রতিপালক হন, তবে ফেরাউনের হাতে আটকে থাকা মানুষগুলো কারও মজুর হওয়ার আগে তাঁর বান্দা। তাদের রব তাদের ফেরত চাইতেই পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking the Weak Along",
+          "bn": "দুর্বলদের সঙ্গে নিয়ে চলা"
+        },
+        "p": [
+          {
+            "en": "Ma'anā, with us, is a small word with a wide reach. The messengers do not ask only that the oppression stop while the oppressed stay where they are; they ask that the people come with them. The one God sends does not hand over the message and walk off alone. He takes the weak along. For a reader that becomes a measure of any call to what is right: does it leave the people it speaks about where it found them, or does it make room for them to come?",
+            "bn": "মাআনা, আমাদের সঙ্গে, ছোট্ট একটি শব্দ, কিন্তু এর নাগাল অনেক দূর। রসূলেরা শুধু এটুকু চান না যে জুলুম থামুক আর মজলুমরা যেখানে আছে সেখানেই থাকুক। তাঁরা চান মানুষগুলো তাঁদের সঙ্গে চলে আসুক। আল্লাহ যাঁকে পাঠান, তিনি বার্তা পৌঁছে দিয়ে একা হেঁটে চলে যান না, দুর্বলদের সঙ্গে নিয়ে যান। পাঠকের জন্য এটা হকের দিকে যেকোনো আহ্বান মাপার একটা মানদণ্ড। যাদের কথা সে বলে, তাদের কি যেমন পেয়েছিল তেমনই ফেলে রাখে, নাকি তাদের সঙ্গে আসার জায়গা করে দেয়?"
+          },
+          {
+            "en": "The singular rasūl leaves a second lesson. Musa (AS) had asked for Harun (AS) to be sent with him because, he said, his tongue was not fluent (26:13). Yet before Pharaoh the two stand as one messenger, and nothing in the verse lets a reader rank their shares. When we join others to speak for what is right, it is the message that must be single, not the credit. A few words, said together and plainly, for those who cannot say them: that is the errand this verse hands on.",
+            "bn": "একবচন রাসূল শব্দটি আরেকটি শিক্ষা রেখে যায়। মূসা (আঃ) নিজেই হারূন (আঃ)-কে সঙ্গে চেয়েছিলেন, কারণ তাঁর কথায়, তাঁর জিহ্বা সাবলীল নয় (২৬:১৩)। অথচ ফেরাউনের সামনে দুজন দাঁড়ান একজন রসূল হয়ে, আর আয়াতে এমন কিছু নেই যা দিয়ে পাঠক তাঁদের ভাগ মেপে ছোট-বড় করতে পারে। আমরা যখন অন্যদের সঙ্গে মিলে হকের পক্ষে কথা বলি, তখন এক হওয়া চাই বার্তাকে, কৃতিত্বকে নয়। যারা নিজেরা বলতে পারে না, তাদের হয়ে একসঙ্গে, সোজাসুজি অল্প কয়েকটি কথা। এ আয়াত এই দায়িত্বটুকুই আমাদের হাতে তুলে দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:22": {
     "sections": [
       {
