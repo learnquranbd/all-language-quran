@@ -27969,6 +27969,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard what is precious, and keep your eyes and heart for what Allah has made yours: in Paradise, being kept is a mark of honour.",
     "lessonBn": "যা মূল্যবান তা আগলে রাখুন, আর নিজের চোখ ও মন রাখুন আল্লাহ যা আপনার জন্য হালাল করেছেন তার মধ্যেই। জান্নাতে এভাবে আগলে রাখা হওয়াই সম্মানের চিহ্ন।"
+  },
+  "56:8": {
+    "reflectionEn": "The earth has been shaken and the mountains turned to scattered dust, and then all of humanity is sorted into three kinds. The first group is named, and then the verse asks about them: the companions of the right, and what are the companions of the right? This is not a request for information. It is wonder, as if words fall short of their standing. The right is where they are led and the hand in which they take their record. Their name also carries the sense of blessing. Nobody is told in this verse who will be among them, so it is no list of others to judge. It is an invitation. What am I doing today that belongs with the people of the right?",
+    "reflectionBn": "পৃথিবী কেঁপে উঠেছে, পাহাড় উড়ন্ত ধুলো হয়ে গেছে। তারপর গোটা মানবজাতি তিন ভাগে ভাগ হয়ে যায়। প্রথম দলের নাম আসে, আর সঙ্গে সঙ্গে আয়াত তাদের নিয়েই প্রশ্ন তোলে: ডান দিকের দল, কেমন সেই ডান দিকের দল! এ প্রশ্ন কিছু জানতে চায় না। এ বিস্ময়, যেন তাদের মর্যাদা বোঝাতে ভাষা কম পড়ে যায়। ডান দিকেই তাদের নিয়ে যাওয়া হয়, ডান হাতেই তারা আমলনামা পায়। আর তাদের নামের ভেতরেই আছে বরকতের অর্থ। কে কে তাদের মধ্যে থাকবে, এ আয়াত কাউকে তা জানায় না। তাই অন্যদের বিচার করার তালিকা এটা নয়, এটা একটা ডাক। আজ আমি এমন কী করছি, যা ডান দিকের মানুষদের কাজের সঙ্গে মেলে?",
+    "pointsEn": [
+      "If my record were handed to me today, which of this week's deeds would I be glad to find written in it?",
+      "The verse answers its own question with wonder. When did the thought of Allah's reward last fill me with wonder rather than routine?",
+      "Am I a source of blessing to the people around me, or do they feel lighter when I leave?",
+      "Do I ever sort the people I know into the right and the left in my head, when the verse gives me no list but my own?",
+      "What one habit could I start this week so that my days look more like the days of the people of the right?"
+    ],
+    "pointsBn": [
+      "আজই যদি আমলনামা আমার হাতে দেওয়া হয়, এ সপ্তাহের কোন কাজগুলো সেখানে লেখা দেখে আমি খুশি হব?",
+      "আয়াত নিজের প্রশ্নের জবাব দেয় বিস্ময় দিয়ে। শেষ কবে আল্লাহর প্রতিদানের কথা ভেবে আমার মনে অভ্যাসের বদলে বিস্ময় জেগেছিল?",
+      "আশপাশের মানুষের জন্য আমি কি বরকতের কারণ, নাকি আমি চলে গেলে তারা হাঁফ ছেড়ে বাঁচে?",
+      "পরিচিত মানুষদের কি আমি মনে মনে ডান আর বাম দলে ভাগ করে ফেলি, অথচ আয়াত আমার হাতে নিজের তালিকা ছাড়া আর কারও তালিকা দেয়নি?",
+      "এ সপ্তাহে কোন একটা অভ্যাস শুরু করলে আমার দিনগুলো ডান দিকের মানুষদের দিনের মতো হয়ে উঠবে?"
+    ],
+    "lessonEn": "Allah names the people of the right and magnifies their standing; spend your days on deeds that would place you among them, and leave the sorting of others to Him.",
+    "lessonBn": "আল্লাহ ডান দিকের দলের নাম নিয়ে তাদের মর্যাদাকে বড় করে তুলে ধরেন; এমন আমলে দিন কাটান যা আপনাকে তাদের দলে রাখবে, আর অন্যদের ভাগ করার কাজ তাঁর হাতেই ছেড়ে দিন।"
   }
 };
 

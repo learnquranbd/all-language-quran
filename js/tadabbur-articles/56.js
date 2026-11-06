@@ -171,6 +171,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "56:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Kinds, Then a Name",
+          "bn": "তিন ভাগ, তারপর প্রথম নাম"
+        },
+        "p": [
+          {
+            "en": "Surah al-Waqi'ah opens on the Event: the earth is shaken, and the mountains crumble into scattered dust (56:4 to 56:6). Then it turns to people: wa-kuntum azwajan thalathah, and you will be three kinds (56:7). At-Tabari glosses this as: you, O people, will be three kinds and sorts. Through his chain, Qatadah says the three are the stations of people on the Day of Resurrection. Our verse then names the first of them: fa-ashab al-maymanah ma ashab al-maymanah, then the companions of the right, what are the companions of the right?",
+            "bn": "সূরা ওয়াকিআ শুরু হয় সেই মহাঘটনা দিয়ে। পৃথিবী প্রবলভাবে কেঁপে ওঠে, পাহাড় চূর্ণ হয়ে বিক্ষিপ্ত ধুলোয় পরিণত হয় (৫৬:৪ থেকে ৫৬:৬)। তারপর আলোচনা আসে মানুষের দিকে: ওয়া কুনতুম আযওয়াজান সালাসাহ, আর তোমরা হবে তিনটি শ্রেণি (৫৬:৭)। তাবারী এর ব্যাখ্যা দেন এভাবে: হে মানুষ, তোমরা হবে তিন প্রকার, তিন ধরন। নিজের সনদে তিনি কাতাদার কথা আনেন: এই তিন হলো কিয়ামতের দিন মানুষের তিন অবস্থান। এরপর আমাদের আয়াত প্রথম দলের নাম নেয়: ফা আসহাবুল মাইমানাহ, মা আসহাবুল মাইমানাহ। তখন ডান দিকের দল, কী সেই ডান দিকের দল!"
+          },
+          {
+            "en": "The commentators give the word azwaj several near-synonyms. Ibn Kathir collects them: Ibn Abbas, asked by Yazid ar-Raqashi, said three categories; Mujahid said three parties; Maymun ibn Mihran said three throngs. Al-Baghawi also says categories. As-Sa'di adds the ground of the split: you will be divided into three groups according to your deeds, good and bad. Al-Qurtubi gives the word its root sense: three kinds, each matching what it belongs with, as one spouse matches the other. Then, he says, Allah made clear who they are.",
+            "bn": "আযওয়াজ শব্দের কাছাকাছি কয়েকটি অর্থ তাফসীরকারেরা দিয়েছেন। ইবন কাসীর সেগুলো একসঙ্গে এনেছেন। ইয়াযীদ আর-রাকাশী জিজ্ঞেস করলে ইবন আব্বাস (রাঃ) বলেন, তিনটি শ্রেণি। মুজাহিদ বলেন, তিন দল। মাইমুন ইবন মিহরান বলেন, তিন ঝাঁক। বাগাভীও বলেন, শ্রেণি। সা'দী ভাগের ভিত্তিটাও জানিয়ে দেন: ভালো-মন্দ আমল অনুযায়ী তোমরা তিন দলে ভাগ হয়ে যাবে। কুরতুবী শব্দটিকে তার মূল অর্থে ফেরান। প্রতিটি শ্রেণি মেলে তার নিজের জাতের সঙ্গে, যেমন দম্পতির একজন অপরজনের জোড়া। তারপর, তিনি বলেন, আল্লাহ স্পষ্ট করে দিলেন তারা কারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Report Doubles as Explanation",
+          "bn": "খবরের ভেতরেই ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari calls this verse a bayan, an explanation from Allah of the three pairs just announced. The surah said you will be three, and the three are the companions of the right, the companions of the left and the forerunners. Allah, he says, let the report about each group stand in place of a separate explanation, because the speech itself shows its meaning. As-Sa'di puts the same move in a phrase: then He set out in detail the states of the three pairs. The detail begins here, with the right named first.",
+            "bn": "তাবারী এ আয়াতকে বলেন বায়ান, অর্থাৎ সদ্য ঘোষিত তিন জোড়ার ব্যাপারে আল্লাহর দেওয়া ব্যাখ্যা। সূরা বলেছে, তোমরা হবে তিনটি ভাগ। সেই তিন হলো ডান দিকের দল, বাম দিকের দল আর অগ্রবর্তীরা। তাবারীর মতে আল্লাহ প্রত্যেক দলের খবরটাকেই আলাদা ব্যাখ্যার কাজ করতে দিয়েছেন, কারণ কথার ভেতরেই তার অর্থ ধরা পড়ে। সা'দী একই কথা এক বাক্যে বলেন: তারপর তিনি তিন জোড়ার অবস্থা খুলে খুলে বর্ণনা করলেন। সেই বর্ণনা শুরু হয় এখান থেকে, আর প্রথমে আসে ডান দিকের দলের নাম।"
+          },
+          {
+            "en": "Al-Jalalayn parses the verse as a single sentence. Fa-ashab al-maymanah is the subject, and its predicate is what follows, ma ashab al-maymanah, a question. So the statement made about the group is a question about the group, and the name is spoken twice within five Arabic words. The left receives the same shape in the next verse (56:9), and the forerunners a doubled name of their own (56:10); each of those has its own discussion. This article stays with the first group and with its name.",
+            "bn": "জালালাইন আয়াতটিকে একটিমাত্র বাক্য হিসেবে বিশ্লেষণ করেন। ফা আসহাবুল মাইমানাহ হলো উদ্দেশ্য, আর তার বিধেয় পরের অংশ, মা আসহাবুল মাইমানাহ, যা একটি প্রশ্ন। অর্থাৎ দলটির সম্পর্কে যে খবর দেওয়া হচ্ছে, তা নিজেই দলটিকে নিয়ে এক প্রশ্ন। আরবি পাঁচ শব্দের ভেতরে নামটি এসেছে দুবার। পরের আয়াতে বাম দিকের দলও একই গড়ন পায় (৫৬:৯), আর অগ্রবর্তীরা পায় নিজেদের দ্বিরুক্ত নাম (৫৬:১০)। সেগুলোর আলোচনা তাদের নিজ নিজ জায়গায়। এ লেখা থাকবে প্রথম দলটি আর তার নাম নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Asked in Wonder",
+          "bn": "বিস্ময়ে ভরা এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "What does the question ask? At-Tabari answers that Allah is making His Prophet ﷺ marvel at them, and he paraphrases: what a thing are the companions of the right, the ones led off to the right towards Paradise. Al-Baghawi says the same, that Allah made His Prophet ﷺ wonder, and gives the Arabic pattern behind it: people say Zayd, ma Zayd! and means that Zayd is formidable. The question is not seeking information. It points at something whose greatness the speaker leaves unsaid.",
+            "bn": "প্রশ্নটা আসলে কী জানতে চায়? তাবারীর উত্তর: আল্লাহ তাঁর নবী ﷺ-কে তাদের ব্যাপারে বিস্মিত করছেন। তিনি অর্থটা এভাবে খুলে বলেন: কী অসাধারণ সেই ডান দিকের দল, যাদের ডান দিক দিয়ে জান্নাতের পথে নিয়ে যাওয়া হয়! বাগাভীও বলেন, আল্লাহ তাঁর নবী ﷺ-কে বিস্মিত করেছেন। পেছনের আরবি বাকরীতিটাও তিনি দেখান। লোকে বলে, যায়দ, মা যায়দ! মানে যায়দ বড় শক্ত মানুষ। কাজেই এখানে প্রশ্ন কোনো তথ্য খুঁজছে না। প্রশ্নটা এমন কিছুর দিকে ইশারা করে, যার মহত্ত্ব বক্তা ইচ্ছা করেই মুখে বলেন না।"
+          },
+          {
+            "en": "Other commentators name the effect directly. As-Sa'di calls the phrase a magnifying of their affair and an exalting of their states. The Muyassar renders the verse: the companions of the right, people of the high station, how great is their standing! Al-Jalalayn calls it a glorification of their status on account of their entering Paradise. None of them supplies an answer to the question. They describe what the question does, and the verse itself never gives its answer in this place.",
+            "bn": "অন্য তাফসীরকারেরা প্রভাবটার নাম সরাসরি বলেন। সা'দীর ভাষায়, এ হলো তাদের মর্যাদাকে বড় করে দেখানো, তাদের অবস্থাকে মহিমান্বিত করা। মুয়াসসার আয়াতটির অর্থ করে এভাবে: ডান দিকের দল, উঁচু মর্যাদার মানুষ, কত মহান তাদের অবস্থান! জালালাইন বলেন, জান্নাতে প্রবেশের কারণে এ তাদের মর্যাদার মহিমা ঘোষণা। প্রশ্নের কোনো উত্তর তাঁদের কেউ দেন না। প্রশ্নটা কী কাজ করছে, তাঁরা শুধু সেটুকুই বলেন। আয়াতও এখানে নিজের প্রশ্নের জবাব দেয় না।"
+          },
+          {
+            "en": "The same pattern serves the opposite group. In the next verse the left receive an identical question, and the Muyassar, glossing both verses together, turns its exclamation around: the companions of the left, people of the low station, how evil is their state! One grammatical form carries wonder at honour in one verse and dread at loss in the next, and only the name it repeats tells the listener which. The repetition magnifies; what it magnifies depends on whose name is repeated.",
+            "bn": "এই একই গড়ন বিপরীত দলের বেলাতেও আসে। পরের আয়াতে বাম দিকের দলের জন্যও হুবহু একই প্রশ্ন। মুয়াসসার দুই আয়াতের অর্থ একসঙ্গে করেছে, আর সেখানে তার বিস্ময়ধ্বনি উল্টে যায়: বাম দিকের দল, নিচু অবস্থানের মানুষ, কত মন্দ তাদের দশা! একই বাক্যগঠন এক আয়াতে সম্মান দেখে বিস্ময় জাগায়, পরের আয়াতে ক্ষতির ভয়। কোনটা কোথায়, শ্রোতা তা বোঝে শুধু পুনরাবৃত্ত নামটি থেকে। পুনরাবৃত্তি বড় করে তোলে, কিন্তু কী বড় হবে তা ঠিক করে দেয় কার নাম ফিরে আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Led Off Towards the Right",
+          "bn": "ডান দিকের পথে যাত্রা"
+        },
+        "p": [
+          {
+            "en": "Why the right? The first answer is a direction. At-Tabari, al-Qurtubi and al-Baghawi give the same definition, nearly word for word: they are those who are taken along the right-hand side to Paradise. Ibn Kathir, commenting on the three kinds, places them on the right of the Throne and says they are taken towards the right. He adds a remark from as-Suddi: they are the bulk of the people of Paradise. On this reading the name describes where the group stands and which way it is led.",
+            "bn": "ডান কেন? প্রথম উত্তর একটা দিক। তাবারী, কুরতুবী আর বাগাভী, এই তিনজন প্রায় হুবহু একই সংজ্ঞা দেন: এরা তারা, যাদের ডান দিক দিয়ে জান্নাতের দিকে নিয়ে যাওয়া হয়। ইবন কাসীর তিন শ্রেণির আলোচনায় তাদের স্থান দেন আরশের ডান পাশে, আর বলেন, তাদের নিয়ে যাওয়া হবে ডান দিকে। সঙ্গে তিনি সুদ্দীর একটি কথা যোগ করেন: জান্নাতবাসীদের বড় অংশই এরা। এ ব্যাখ্যায় নামটি বলে দেয় দলটি কোথায় দাঁড়ায়, আর কোন পথে তাদের নেওয়া হয়।"
+          },
+          {
+            "en": "The second answer is a hand. Ad-Dahhak, in al-Baghawi, says they are those given their books in their right hands, and al-Jalalayn defines them the same way. Ibn Kathir joins this to the direction in one description. The Qur'an pictures the moment elsewhere: as for him who is given his book in his right hand, he will say, here, read my book (69:19), and the same opening appears in 84:7. The opposite case comes a few verses later, the one given his book in his left hand (69:25).",
+            "bn": "দ্বিতীয় উত্তর একটা হাত। বাগাভীর বর্ণনায় দাহহাক বলেন, এরা তারা, যাদের আমলনামা দেওয়া হবে ডান হাতে। জালালাইনও তাদের সংজ্ঞা দেন এভাবেই। ইবন কাসীর দিক আর হাত, দুটোকে একই বর্ণনায় জুড়ে দেন। মুহূর্তটার ছবি কুরআন অন্যত্র এঁকেছে: যাকে তার আমলনামা ডান হাতে দেওয়া হবে, সে বলবে, এই নাও, আমার আমলনামা পড়ে দেখো (৬৯:১৯)। একই সূচনা আছে ৮৪:৭ আয়াতেও। বিপরীত চিত্র আসে কয়েক আয়াত পরে, যাকে আমলনামা দেওয়া হবে বাম হাতে (৬৯:২৫)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "On Adam's Right Side",
+          "bn": "আদম (আঃ)-এর ডান পাশে"
+        },
+        "p": [
+          {
+            "en": "The third answer reaches back before birth. Al-Baghawi reports from Ibn Abbas that the companions of the right are those who were on the right of Adam (AS) when his offspring were brought out from his loins, and that Allah said of them: these are in Paradise, and I do not mind. Ibn Kathir, in his description of the three kinds, says the same group are those who came out from Adam's right side. Ma'arif al-Qur'an relays that description from Ibn Kathir.",
+            "bn": "তৃতীয় উত্তর পৌঁছে যায় জন্মেরও আগে। বাগাভী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: ডান দিকের দল তারা, আদম (আঃ)-এর পিঠ থেকে যখন তাঁর বংশধরদের বের করা হয়েছিল, তখন যারা ছিল তাঁর ডান পাশে। তাদের সম্পর্কে আল্লাহ বলেছিলেন: এরা জান্নাতে যাবে, আর আমি কারও পরোয়া করি না। ইবন কাসীরও তিনটি শ্রেণির বর্ণনায় বলেন, এ দলটি তারা, যারা বেরিয়েছিল আদম (আঃ)-এর ডান পাশ থেকে। মাআরিফুল কুরআন ইবন কাসীরের এই বর্ণনাটিই উদ্ধৃত করেছে।"
+          },
+          {
+            "en": "A sound narration speaks of Adam (AS) with people on his right and his left, though none of the commentators consulted attaches it to this verse. In the long account of the Night Journey in Sahih al-Bukhari (349), from Abu Dharr, the Prophet ﷺ says of the nearest heaven: \"there we saw a man sitting with some people on his right and some on his left. When he looked towards his right, he laughed and when he looked toward his left he wept.\" Gabriel told him: \"He is Adam and the people on his right and left are the souls of his offspring.\"",
+            "bn": "একটি সহীহ বর্ণনায় আদম (আঃ)-এর কথা আছে, যাঁর ডানে ও বামে মানুষ। তবে যেসব তাফসীর দেখা হয়েছে, তাদের কেউ এটিকে এ আয়াতের সঙ্গে যুক্ত করেননি। সহীহ বুখারীতে (৩৪৯) আবু যর (রাঃ)-এর সূত্রে মিরাজের দীর্ঘ বর্ণনায় নবী ﷺ প্রথম আসমানের কথা বলেন: \"সেখানে আমরা এক ব্যক্তিকে বসা দেখলাম, যাঁর ডানে একদল মানুষ, বামেও একদল। ডান দিকে তাকালে তিনি হাসতেন, বাম দিকে তাকালে কাঁদতেন।\" জিবরীল (আঃ) তাঁকে বললেন: \"ইনি আদম, আর তাঁর ডানে-বামে এরা তাঁর সন্তানদের রূহ।\""
+          },
+          {
+            "en": "The narration goes on: \"Those on his right are the people of Paradise and those on his left are the people of Hell.\" It is a general narration about Adam's offspring, and this article does not make it a comment on the verse. The commentators also keep deeds in view. Ibn Kathir names Adam's right side and the book handed to the right hand in the same breath, and as-Sa'di, as quoted above, grounds the whole division in good and bad deeds. The two strands are reported here side by side, without an argument built on either.",
+            "bn": "বর্ণনাটি আরও বলে: \"তাঁর ডানের লোকেরা জান্নাতবাসী, আর বামের লোকেরা জাহান্নামবাসী।\" আদম (আঃ)-এর সন্তানদের নিয়ে এটি একটি সাধারণ বর্ণনা, এ লেখা একে আয়াতের ব্যাখ্যা বানায় না। তাফসীরকারেরা আমলের কথাও চোখের আড়াল করেন না। ইবন কাসীর আদম (আঃ)-এর ডান পাশ আর ডান হাতে আমলনামা পাওয়ার কথা একই নিঃশ্বাসে বলেন। আর আগেই এসেছে, সা'দী পুরো বিভাজনের ভিত্তি রেখেছেন ভালো-মন্দ আমলের উপর। দুটি ধারাই এখানে পাশাপাশি রাখা হলো, কোনোটার উপর আলাদা যুক্তি দাঁড় করানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blessed Upon Themselves",
+          "bn": "নিজেদের জন্য বরকতময়"
+        },
+        "p": [
+          {
+            "en": "The fourth answer reads the name as a quality of life. Al-Baghawi reports from al-Hasan and ar-Rabi' that the companions of the right were mayamin, mubarakin 'ala anfusihim: people of good fortune, blessed upon their own selves, whose lifetimes were spent in obedience to Allah. They are, he adds, those who followed in excellence. The words maymanah, yamin and mayamin come from the same root, y-m-n, and this reading hears in the name the side of that root that means blessing and good fortune.",
+            "bn": "চতুর্থ উত্তর নামটিকে পড়ে জীবনের এক গুণ হিসেবে। বাগাভী হাসান ও রাবী' থেকে বর্ণনা করেন: ডান দিকের দল ছিল মায়ামীন, মুবারাকীন আলা আনফুসিহিম। অর্থাৎ তারা ছিল সৌভাগ্যবান, নিজেদের জন্য বরকতময়, আর তাদের জীবন কেটেছে আল্লাহর আনুগত্যে। তিনি যোগ করেন, এরাই তারা, যারা নিষ্ঠার সঙ্গে অনুসরণ করেছে। মাইমানাহ, ইয়ামীন আর মায়ামীন, তিনটি শব্দই এসেছে একই ধাতু ই-ম-ন থেকে। এ ব্যাখ্যা নামের ভেতর শুনতে পায় সেই ধাতুর অন্য অর্থটি: বরকত আর সৌভাগ্য।"
+          },
+          {
+            "en": "On this reading the right is no longer only a place or a hand. It describes what these people were to themselves before the Day came: lives that brought good to their owners because they were spent in obedience. Al-Baghawi sets the four explanations one after another, naming the source of the last three, and does not rank them. Ibn Kathir, as seen above, holds the Throne, Adam's side and the right hand together in one description. The article keeps both ways of presenting the readings as each commentator gave them.",
+            "bn": "এ ব্যাখ্যায় ডান আর শুধু একটা জায়গা বা একটা হাত নয়। কিয়ামত আসার আগে এ মানুষগুলো নিজেদের জন্য কী ছিল, নামটি সেটাই বলে। তাদের জীবন আনুগত্যে কেটেছে, তাই সে জীবন নিজের মালিকের জন্যই কল্যাণ বয়ে এনেছে। বাগাভী চারটি ব্যাখ্যা একের পর এক দেন, শেষ তিনটির বক্তার নামসহ, আর কোনোটাকে আগে-পিছে সাজান না। ইবন কাসীর, যেমন আগে দেখা গেছে, আরশের পাশ, আদম (আঃ)-এর পাশ আর ডান হাত একই বর্ণনায় একসঙ্গে রাখেন। দুজনে যেভাবে দিয়েছেন, এ লেখা ব্যাখ্যাগুলো সেভাবেই রাখল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Kind With Its Like",
+          "bn": "যে যার জাতের সঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's gloss of azwaj, kinds matched as spouses are matched, has a counterpart in a report Ibn Kathir cites through Ibn Abi Hatim. The report, from an-Nu'man ibn Bashir and ascribed to the Prophet ﷺ, links the pairing of souls in 81:7 to these verses: people joined with those whose deeds they shared. Ibn Kathir gives the report no grading in this passage, and this article could not confirm it in a graded collection, so its wording is not quoted as the Prophet's ﷺ. No commentator consulted attaches a sound hadith to this verse.",
+            "bn": "আযওয়াজের ব্যাখ্যায় কুরতুবী বলেছিলেন, প্রতিটি শ্রেণি জোড়া মেলে নিজের জাতের সঙ্গে, যেমন স্বামী-স্ত্রীর জোড়া। একই ভাবনার কাছাকাছি একটি বর্ণনা ইবন কাসীর এনেছেন ইবন আবী হাতিমের সূত্রে। বর্ণনাটি নুমান ইবন বাশীর (রাঃ)-এর সূত্রে নবী ﷺ-এর দিকে সম্বন্ধিত। তাতে ৮১:৭ আয়াতে আত্মাদের জোড়া বাঁধার কথাকে এ আয়াতগুলোর সঙ্গে মেলানো হয়েছে। অর্থ দাঁড়ায়, যে যাদের মতো আমল করেছে, তাকে তাদের সঙ্গেই মেলানো হবে। এ জায়গায় ইবন কাসীর বর্ণনাটির কোনো মান উল্লেখ করেননি। মানসহ কোনো সংকলনে এ লেখা তা যাচাই করতে পারেনি, তাই এর শব্দগুলো নবী ﷺ-এর বাণী হিসেবে উদ্ধৃত করা হলো না। যেসব তাফসীর দেখা হয়েছে, তাদের কেউ এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেননি।"
+          },
+          {
+            "en": "Ibn Kathir also gathers how the early generations counted the three. 'Uthman ibn Suraqah, son of the maternal aunt of 'Umar ibn al-Khattab, said: two in Paradise and one in the Fire. Ibn Jurayj reports from Ibn Abbas that the three are the ones named again at the end of this surah and in Surah Fatir. Ibn Kathir himself says that Allah divides people into the same three at the time of their death, at the close of the surah. That return to the three belongs to its own verses.",
+            "bn": "প্রথম যুগের মানুষেরা তিন দলকে কীভাবে গুনতেন, ইবন কাসীর তাও একসঙ্গে এনেছেন। উমর ইবনুল খাত্তাব (রাঃ)-এর খালাতো ভাই উসমান ইবন সুরাকা বলেন: দুই দল জান্নাতে, একটি দল জাহান্নামে। ইবন জুরাইজ ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এই তিনটি দলের কথাই আবার এসেছে এ সূরার শেষে আর সূরা ফাতিরে। ইবন কাসীর নিজে বলেন, মৃত্যুর সময়ও আল্লাহ মানুষকে এই তিন ভাগে ভাগ করেন, যেমন সূরার শেষ অংশে এসেছে। তিন দলে সেই ফিরে আসার আলোচনা তার নিজের আয়াতগুলোতেই হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Verse Stops",
+          "bn": "আয়াত যেখানে থামে"
+        },
+        "p": [
+          {
+            "en": "The surah returns to this group later under a slightly different name, ashab al-yamin (56:27), and the verses after it describe what they are given. That description has its own place and is not taken up here. Verse 56:8 does something narrower. It names the first of the three groups, asks a question about them that it leaves unanswered, and lets the listener feel the weight of that silence. The commentators explain the name and the wonder; the reward waits for its verses.",
+            "bn": "সূরা পরে এ দলের কাছে ফিরে আসে সামান্য ভিন্ন নামে, আসহাবুল ইয়ামীন (৫৬:২৭)। তার পরের আয়াতগুলো বলে তাদের কী দেওয়া হবে। সেই বর্ণনার জায়গা আলাদা, এখানে তা আনা হলো না। ৫৬:৮ আয়াতের কাজ আরও সীমিত। সে তিনটি দলের প্রথমটির নাম নেয়, তাদের নিয়ে এমন এক প্রশ্ন তোলে যার উত্তর দেয় না, আর সেই নীরবতার ভার শ্রোতাকে অনুভব করতে দেয়। তাফসীরকারেরা নাম আর বিস্ময়ের ব্যাখ্যা দেন। প্রতিদানের কথা অপেক্ষা করে তার নিজের আয়াতের জন্য।"
+          },
+          {
+            "en": "The verse describes three groups on the Day of Resurrection as the text describes them. It names no living person, and it licenses nothing against any person or community: no one may use it to place others among the left, or to promise anyone a seat among the right. What it hands the reader is a question about their own deeds, which as-Sa'di makes the ground of the whole division. The record taken in the right hand is written now, one day at a time.",
+            "bn": "আয়াতটি কিয়ামতের দিনের তিনটি দলের বর্ণনা দেয়, ঠিক যেভাবে কুরআনের ভাষ্য তা দিয়েছে। এতে কোনো জীবিত মানুষের নাম নেই। কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। অন্যদের বাম দলে ফেলে দেওয়ার জন্য একে ব্যবহার করা যাবে না, কাউকে ডান দলে আসনের নিশ্চয়তা দেওয়ার জন্যও নয়। পাঠকের হাতে আয়াত তুলে দেয় তার নিজের আমল নিয়ে একটি প্রশ্ন, আর সা'দী সেই আমলকেই পুরো বিভাজনের ভিত্তি বলেছেন। ডান হাতে যে আমলনামা নেওয়া হবে, তা লেখা হচ্ছে এখনই, প্রতিদিন একটু একটু করে।"
+          }
+        ]
+      }
+    ]
+  },
   "56:10": {
     "sections": [
       {
