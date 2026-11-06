@@ -25409,6 +25409,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Thank Allah for what you have, in your heart, on your tongue and in your deeds; a blessing met with turning away can become the very thing that undoes you.",
     "lessonBn": "যা পেয়েছেন তার জন্য অন্তরে, মুখে আর আমলে আল্লাহর শোকর আদায় করুন। মুখ ফিরিয়ে নেওয়া নিয়ামতই একদিন আপনার সর্বনাশের কারণ হয়ে উঠতে পারে।"
+  },
+  "33:53": {
+    "reflectionEn": "A wedding meal is over. Most of the guests have eaten and gone, but a few stay on, talking, in the room where the bride sits facing the wall. The host is the Messenger of Allah ﷺ. He does not ask them to leave. He gets up, walks out, visits his other wives, comes back, and they are still there. His shyness held his tongue, so Allah spoke instead, and He is not shy of the truth. The verse teaches when to arrive, when to go, and how to ask for something from behind a screen, purer for every heart. Where am I the guest who stays too long? And what do I leave unsaid, out of politeness, that the truth needs said?",
+    "reflectionBn": "বিয়ের খাওয়া শেষ। বেশির ভাগ মেহমান খেয়ে চলে গেছেন, কিন্তু কয়েকজন রয়ে গেছেন গল্পে মেতে। ঘরে নববধূ দেয়ালের দিকে মুখ ফিরিয়ে বসে আছেন। মেজবান স্বয়ং আল্লাহর রাসূল ﷺ। তিনি তাঁদের উঠে যেতে বলেন না। নিজে উঠে বেরিয়ে যান, অন্য স্ত্রীদের ঘরে ঘুরে আসেন, ফিরে এসে দেখেন তাঁরা তখনো বসে। লজ্জা তাঁর মুখ বন্ধ রেখেছিল, তাই কথা বললেন আল্লাহ নিজে। সত্য বলতে তিনি লজ্জা করেন না। আয়াতটি শেখায় কখন আসতে হয়, কখন উঠতে হয়, আর কিছু চাইতে হলে পর্দার আড়াল থেকে চাইতে হয়, তাতে সবার অন্তর বেশি পবিত্র থাকে। কোথায় আমি সেই মেহমান, যে বেশি সময় বসে থাকে? আর ভদ্রতার খাতিরে কোন সত্য কথাটা আমি না বলে রেখে দিই?",
+    "pointsEn": [
+      "When I am invited somewhere, do I arrive at the time I was asked for, or early enough to make my host wait on me?",
+      "After the purpose of a visit is done, can I tell when my staying has become a weight on the people of the house?",
+      "Is there someone in my life who is too gracious to tell me I am a burden, and how would I know?",
+      "Where has my wish to seem polite kept me from saying a truth that someone needed to hear?",
+      "What screens do I keep between myself and what could stir my heart, and which ones have I let fall?"
+    ],
+    "pointsBn": [
+      "কোথাও দাওয়াত পেলে আমি কি বলে দেওয়া সময়ে পৌঁছাই, নাকি এত আগে গিয়ে হাজির হই যে মেজবানকে আমার জন্য ব্যস্ত হতে হয়?",
+      "যে কাজে গিয়েছিলাম তা শেষ হওয়ার পর কি আমি টের পাই, কখন আমার বসে থাকা ঘরের মানুষের কাছে বোঝা হয়ে গেছে?",
+      "আমার জীবনে কি এমন কেউ আছেন, যিনি এতটাই ভদ্র যে আমাকে বোঝা বলে মুখে বলবেন না? আমি তা বুঝব কীভাবে?",
+      "ভদ্র দেখানোর ইচ্ছা কোথায় আমাকে এমন সত্য কথা বলা থেকে আটকে রেখেছে, যা কারও শোনা দরকার ছিল?",
+      "যা আমার মনে অন্য কিছু জাগাতে পারে, তার আর আমার মাঝে আমি কোন কোন আড়াল রাখি? আর কোনগুলো সরে যেতে দিয়েছি?"
+    ],
+    "lessonEn": "Come when you are invited, leave when the purpose is done, and keep the screens that guard the heart; politeness must never silence a needed truth.",
+    "lessonBn": "দাওয়াত পেলে আসুন, কাজ শেষ হলে উঠে যান, আর অন্তরকে রক্ষা করে এমন আড়ালগুলো বজায় রাখুন। ভদ্রতা যেন কখনো দরকারি সত্যকে চুপ করিয়ে না দেয়।"
   }
 };
 

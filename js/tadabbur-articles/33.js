@@ -1787,6 +1787,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:53": {
+    "sections": [
+      {
+        "h": {
+          "en": "Manners at the Prophet's Door",
+          "bn": "নবীগৃহের দরজায় আদব"
+        },
+        "p": [
+          {
+            "en": "Before this verse come rulings on the Prophet's ﷺ own marriages: what was made lawful to him in 33:50, the latitude among his wives in 33:51, and the closing of further marriages in 33:52. Here the address turns to the believers and their conduct at his door. Ibn Kathir names it the verse of the ḥijāb, holding legal rulings and points of etiquette together. Al-Qurtubi divides it into two matters: the etiquette of the meal and of sitting, and the matter of the screen.",
+            "bn": "এর আগের আয়াতগুলো নবী ﷺ-এর নিজের বিয়ে নিয়ে। ৩৩:৫০ আয়াতে তাঁর জন্য কী হালাল করা হয়েছে, ৩৩:৫১ আয়াতে স্ত্রীদের মাঝে তাঁকে দেওয়া ছাড়, আর ৩৩:৫২ আয়াতে নতুন বিয়ের পথ বন্ধ হওয়া। এখানে এসে সম্বোধন ফিরেছে মু’মিনদের দিকে: তাঁর দরজায় তারা কেমন আচরণ করবে। ইবন কাসীর একে বলেন হিজাবের আয়াত, যাতে শরীয়তের বিধান ও আদব দুটোই একসঙ্গে আছে। কুরতুবী আয়াতটিকে দুই ভাগে দেখেন। এক, খাবার ও বসে থাকার আদব। দুই, পর্দার বিষয়।"
+          },
+          {
+            "en": "The verses after it frame it as well. 33:54 reminds the listener that Allah knows whatever is shown or hidden, and 33:55 names the relatives before whom the Prophet's wives carry no blame. Read so, the verse is less a list of prohibitions than a lesson in honouring a household. Its first half teaches guests when to arrive and when to leave; its second places a screen between men who need something and the Prophet's wives. It closes on the gravest matter: marrying his wives after him is forbidden forever.",
+            "bn": "পরের আয়াতগুলোও একে ঘিরে রেখেছে। ৩৩:৫৪ মনে করিয়ে দেয়, যা প্রকাশ করা হয় আর যা গোপন রাখা হয়, আল্লাহ সবই জানেন। ৩৩:৫৫ সেই আত্মীয়দের নাম বলে, যাদের সামনে নবীর স্ত্রীদের কোনো দোষ নেই। এভাবে পড়লে আয়াতটি নিষেধের তালিকার চেয়ে বেশি একটা শিক্ষা: একটি পরিবারকে কীভাবে সম্মান করতে হয়। প্রথম অংশ মেহমানকে শেখায় কখন আসতে হবে আর কখন উঠতে হবে। দ্বিতীয় অংশ, যাদের কিছু দরকার সেই পুরুষদের আর নবীর স্ত্রীদের মাঝে একটি আড়াল রাখে। শেষে আসে সবচেয়ে গুরুতর কথা: তাঁর পরে তাঁর স্ত্রীদের বিয়ে করা চিরকালের জন্য নিষিদ্ধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Morning After Zaynab's Wedding",
+          "bn": "যয়নবের বিয়ের পরের সকাল"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi says most commentators tied the verse to the wedding feast of Zaynab bint Jahsh. In al-Bukhari's Ṣaḥīḥ (4792), Anas ibn Malik says: I know this verse, the verse of the ḥijāb, better than anyone. When Zaynab was brought to the Messenger of Allah ﷺ, she was with him in the house. He made food and invited the people, and they sat talking. The Prophet ﷺ kept going out and coming back while they sat talking. Then Allah revealed the verse up to from behind a screen. The screen was put up, and the people rose.",
+            "bn": "বাগাভী বলেন, বেশির ভাগ মুফাসসির এ আয়াতকে যুক্ত করেছেন যয়নব বিনত জাহশের বিয়ের ওয়ালিমার সঙ্গে। সহীহ বুখারীতে (৪৭৯২) আনাস ইবন মালিক বলেন: এই আয়াত, অর্থাৎ হিজাবের আয়াত, আমি সবার চেয়ে ভালো জানি। যয়নবকে যখন আল্লাহর রাসূল ﷺ-এর কাছে পাঠানো হলো, তিনি তাঁর সঙ্গে ঘরে ছিলেন। তিনি খাবার তৈরি করে লোকদের দাওয়াত দিলেন। তারা বসে গল্প করতে লাগল। নবী ﷺ বারবার বেরিয়ে যাচ্ছিলেন আর ফিরে আসছিলেন, তারা তখনো বসে গল্প করছিল। তখন আল্লাহ এই আয়াত 'পর্দার আড়াল থেকে' পর্যন্ত নাযিল করলেন। পর্দা টানানো হলো, আর লোকেরা উঠে গেল।"
+          },
+          {
+            "en": "At-Tabari records that scholars differed over the occasion. A second account, also in al-Bukhari (4790), has Anas report ʿUmar saying: I said, O Messenger of Allah, the righteous and the wicked come in to you; if only you would command the Mothers of the Believers to observe the ḥijāb. Then Allah revealed the verse of the ḥijāb. Al-Qurtubi judges the reports of Anas and ʿUmar the soundest, calls the rest weak, and sees no difficulty in one verse descending upon more than one cause.",
+            "bn": "তাবারী জানান, নাযিলের উপলক্ষ নিয়ে আলেমদের মতভেদ আছে। বুখারীতেই (৪৭৯০) দ্বিতীয় আরেকটি বর্ণনায় আনাস উমরের (রাঃ) কথা বর্ণনা করেন: আমি বললাম, হে আল্লাহর রাসূল, আপনার কাছে ভালো-মন্দ সব রকম লোক আসে। আপনি যদি উম্মুল মু’মিনীনদের হিজাব পালনের নির্দেশ দিতেন! তখন আল্লাহ হিজাবের আয়াত নাযিল করলেন। কুরতুবীর বিচারে আনাস ও উমরের বর্ণনা দুটিই সবচেয়ে বিশুদ্ধ, বাকিগুলো দুর্বল। আর একটি আয়াত একাধিক কারণে নাযিল হওয়ায় তিনি কোনো অসুবিধা দেখেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Watching the Pot",
+          "bn": "হাঁড়ির দিকে চেয়ে বসে থাকা নয়"
+        },
+        "p": [
+          {
+            "en": "Ghayra nāẓirīna ināhu: not waiting for its readiness. At-Tabari explains ināhu as the food's being done, a verbal noun from anā, to come due, and cites Mujahid: watching for its ripeness. Al-Baghawi adds that the Arabs said anā al-ḥamīm when water reached its full heat. The picture is a guest who arrives early and sits watching the cooking. Ibn ʿAṭiyyah, quoted by al-Qurtubi, says this was the custom: people came early to a feast to wait for the food, and sat on the same way afterwards.",
+            "bn": "গায়রা নাযিরীনা ইনাহু: খাবার তৈরি হওয়ার অপেক্ষায় না থেকে। তাবারী বলেন, ইনাহু মানে খাবার পুরো হয়ে যাওয়া। শব্দটি আনা ক্রিয়ার মাসদার, যার অর্থ সময় হয়ে আসা। তিনি মুজাহিদের ব্যাখ্যা আনেন: খাবার কখন পাকবে, তার অপেক্ষায় থাকা। বাগাভী যোগ করেন, পানি পুরো গরম হয়ে গেলে আরবরা বলত আনাল হামীম। ছবিটা এমন এক মেহমানের, যে আগেভাগে এসে রান্নার দিকে চেয়ে বসে থাকে। কুরতুবী ইবন আতিয়্যার কথা উদ্ধৃত করেন: তখনকার রীতিই ছিল এমন। লোকে খাবারের অপেক্ষায় দাওয়াতে আগে চলে আসত, আর খাওয়ার পরও তেমনি বসে থাকত।"
+          },
+          {
+            "en": "Ibn ʿAṭiyyah adds that the prohibition came for the Prophet's house, yet all the believers were included in it. Ibn Kathir draws from the clause that taṭfīl, turning up uninvited at another's meal, is forbidden, and notes that al-Khaṭīb al-Baghdādī wrote a book censuring such people. Al-Qurtubi relays Ibn al-ʿArabī's point that an invitation is not by itself leave to enter: when you are invited and given leave, then enter. As-Sa'di reduces it to two conditions, permission to come in and a stay only as long as the need.",
+            "bn": "ইবন আতিয়্যা আরও বলেন, নিষেধটা এসেছিল নবীর ঘর নিয়ে, তবে সব মু’মিনই এর আওতায় পড়ে। ইবন কাসীর এ অংশ থেকে সিদ্ধান্ত টানেন যে তাতফীল, অর্থাৎ দাওয়াত ছাড়া অন্যের খাবারে গিয়ে হাজির হওয়া, হারাম। তিনি জানান, খতীব বাগদাদী এমন লোকদের নিন্দায় একটি বই লিখেছিলেন। কুরতুবী ইবনুল আরাবীর একটি সূক্ষ্ম কথা আনেন: শুধু দাওয়াত পাওয়াই ঢোকার অনুমতি নয়। দাওয়াত পেয়ে অনুমতি পেলে তবেই প্রবেশ কর। সা’দী পুরো বিষয়টিকে দুটি শর্তে বেঁধে দেন: ভেতরে আসার অনুমতি, আর প্রয়োজন যতটুকু ততটুকুই বসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rising Once the Plates Are Cleared",
+          "bn": "খাওয়া শেষে উঠে পড়া"
+        },
+        "p": [
+          {
+            "en": "Fa-idhā ṭaʿimtum fa-ntashirū: when you have eaten, disperse. At-Tabari glosses it as scatter and leave his dwelling, and wa-lā mustaʾnisīna li-ḥadīth as not staying on after the meal to entertain each other with talk. Al-Qurtubi gives the reasoning. Entering was forbidden and became allowed only for the sake of the meal, so once the meal is finished, the cause that permitted it is gone and the prohibition returns.",
+            "bn": "ফা ইযা তাইমতুম ফানতাশিরূ: খাওয়া শেষ হলে ছড়িয়ে পড়। তাবারীর ব্যাখ্যায়, আলাদা হয়ে তাঁর ঘর থেকে বেরিয়ে যাও। আর ওয়া লা মুসতা’নিসীনা লিহাদীস মানে, খাওয়ার পর গল্প জমিয়ে বসে থেকো না। কুরতুবী এ নির্দেশের যুক্তিটা খুলে বলেন। প্রবেশ করা ছিল নিষিদ্ধ, শুধু খাওয়ার জন্যই তা বৈধ হয়েছিল। খাওয়া শেষ হলে যে কারণে অনুমতি মিলেছিল তা-ও শেষ, তাই নিষেধ আবার ফিরে আসে।"
+          },
+          {
+            "en": "What exactly troubled the Prophet ﷺ? Ibn Kathir reads it of the three who were carried away by their talk and forgot themselves, then adds, under it is said, that the harm was people entering his houses without leave, which his great modesty kept him from forbidding. At-Tabari's gloss keeps both. Al-Qurtubi records Ismāʿīl ibn Abī Ḥakīm calling this a manner Allah taught to tiresome guests, and Ibn Abī ʿĀʾishah remarking that it is enough, about such guests, that the Sharīʿah itself could not bear them.",
+            "bn": "নবী ﷺ-কে ঠিক কোন জিনিসটা কষ্ট দিচ্ছিল? ইবন কাসীর এটিকে সেই তিনজনের ব্যাপারে পড়েন, যারা গল্পে ভেসে গিয়ে নিজেদের কথা ভুলে গিয়েছিল। তারপর 'বলা হয়' কথাটি দিয়ে আরেকটি মত আনেন: কষ্টটা ছিল অনুমতি ছাড়া তাঁর ঘরে লোকদের ঢুকে পড়া, যা প্রবল লজ্জার কারণে তিনি নিষেধ করতেন না। তাবারীর ব্যাখ্যায় দুটোই আছে। কুরতুবী লেখেন, ইসমাঈল ইবন আবী হাকীম একে বলেছেন বিরক্তিকর মেহমানদের জন্য আল্লাহর শেখানো আদব। আর ইবন আবী আয়েশার মন্তব্য: এমন মেহমানদের ব্যাপারে এটুকুই যথেষ্ট যে শরীয়ত নিজেই তাদের সহ্য করেনি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an takes the measure from the verse's own reason. The rule against lingering holds where staying on burdens the host, because his work waits or others must be fed; where custom makes long talk after a meal no trouble to him, it would not apply, since the verse names the trouble to the Prophet ﷺ as its ground. The verse describes a few guests on one day in one house, remembered as tiresome, not as enemies. It licenses no contempt for any guest or any person now.",
+            "bn": "মাআরিফুল কুরআন আয়াতের নিজের বলা কারণ থেকেই মাপকাঠি টানে। তার মতে বসে থাকার নিষেধ খাটে সেখানে, যেখানে দেরি করাটা মেজবানের উপর বোঝা হয়, কারণ তার কাজ পড়ে আছে কিংবা আরও লোককে খাওয়াতে হবে। যেখানে রীতি এমন যে খাওয়ার পর লম্বা আলাপে মেজবানের কষ্ট হয় না, সেখানে এ নিষেধ খাটবে না। কারণ আয়াত নিজেই বলেছে, এ আচরণ নবী ﷺ-কে কষ্ট দিত। আয়াতটি একদিন একটি ঘরে কয়েকজন মেহমানের কথা বলে, যাদের মনে রাখা হয়েছে বিরক্তিকর হিসেবে, শত্রু হিসেবে নয়। আজকের কোনো মেহমান বা কোনো মানুষকে তুচ্ছ করার অনুমতি এতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Modesty, and Allah's Plain Word",
+          "bn": "তাঁর লজ্জা, আল্লাহর স্পষ্ট কথা"
+        },
+        "p": [
+          {
+            "en": "Fa-yastaḥyī minkum: and he is shy of you. In al-Bukhari's longer report (4793) Anas calls him shadīd al-ḥayāʾ, very shy; in a report Ibn Kathir brings from Ibn Abī Ḥātim, he is the most modest of people. There the bride sat among the guests with her face to the wall, and the Prophet ﷺ went out to greet his other wives rather than ask anyone to go. As-Sa'di calls this the ordinary way of people, above all the generous: they are ashamed to put anyone out of their homes.",
+            "bn": "ফা ইয়াসতাহয়ী মিনকুম: আর সে তোমাদের ব্যাপারে লজ্জা পায়। বুখারীর দীর্ঘ বর্ণনায় (৪৭৯৩) আনাস তাঁকে বলেন শাদীদুল হায়া, অর্থাৎ খুবই লাজুক। ইবন কাসীর ইবন আবী হাতিম থেকে যে বর্ণনা আনেন, তাতে তিনি মানুষের মধ্যে সবচেয়ে লাজুক। সেখানে নববধূ মেহমানদের মাঝে দেয়ালের দিকে মুখ ফিরিয়ে বসে ছিলেন। কাউকে চলে যেতে বলার বদলে নবী ﷺ বেরিয়ে গিয়ে অন্য স্ত্রীদের সালাম দিয়ে আসেন। সা’দী একে বলেন মানুষের স্বাভাবিক রীতি, বিশেষত উদার মানুষের। কাউকে নিজের ঘর থেকে বের করে দিতে তাদের লজ্জা লাগে।"
+          },
+          {
+            "en": "Wa-llāhu lā yastaḥyī mina l-ḥaqq: but Allah is not shy of the truth. At-Tabari reads it as Allah is not shy to make it clear to you, though your Prophet was shy and did not say he disliked it. Al-Qurtubi explains that in people shyness arises from a cause, and the verse denies of Allah the cause that produces it in humans. He also recalls that Umm Sulaym opened a question to the Prophet ﷺ with these very words, a report in al-Bukhari (130) on another matter, not on this verse.",
+            "bn": "ওয়াল্লাহু লা ইয়াসতাহয়ী মিনাল হাক্ক: কিন্তু আল্লাহ সত্যের ব্যাপারে লজ্জা করেন না। তাবারী এর অর্থ করেন, তোমাদের কাছে বিষয়টি খুলে বলতে আল্লাহ লজ্জা করেন না, যদিও তোমাদের নবী লজ্জায় নিজের অপছন্দের কথা বলেননি। কুরতুবী বুঝিয়ে বলেন, মানুষের মধ্যে লজ্জা আসে কোনো একটা কারণ থেকে, আর আয়াত আল্লাহর ক্ষেত্রে সেই কারণটিকেই নাকচ করে। তিনি এটাও মনে করিয়ে দেন যে উম্মে সুলাইম ঠিক এই কথা দিয়েই নবী ﷺ-এর কাছে একটি প্রশ্ন শুরু করেছিলেন। বর্ণনাটি বুখারীতে আছে (১৩০), তবে তা অন্য বিষয়ে, এ আয়াত নিয়ে নয়।"
+          },
+          {
+            "en": "Two lessons are drawn from the pairing. Ma'arif al-Qur'an sees how far a host honours his guests: teaching was among the Prophet's duties, yet he put off teaching his own guests, lest they feel shamed, until Allah taught it in the Qur'an. As-Sa'di draws the other side. Someone may imagine that leaving a command of the Sharīʿah unsaid is good manners and modesty, but firmness lies in following the command, and whatever goes against it is no part of good manners.",
+            "bn": "এই জোড়া থেকে দুটি শিক্ষা টানা হয়েছে। মাআরিফুল কুরআন এতে দেখে মেজবান মেহমানকে কতটা সম্মান করে। মানুষকে শেখানো নবী ﷺ-এর দায়িত্বের অংশ ছিল। তবু নিজের মেহমানরা লজ্জা পাবে ভেবে তিনি শেখানোটা পিছিয়ে রেখেছিলেন, যতক্ষণ না আল্লাহ নিজেই কুরআনে তা শিখিয়ে দিলেন। সা’দী অন্য দিকটা দেখান। কেউ ভাবতে পারে, শরীয়তের কোনো হুকুম না বলাটাই ভদ্রতা আর লজ্জাশীলতা। অথচ দৃঢ়তা হলো হুকুম মেনে চলা, আর যা তার বিরোধী, তা আদবের কিছুই নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Request Through the Curtain",
+          "bn": "পর্দার ওপাশ থেকে চাওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa-idhā saʾaltumūhunna matāʿan fa-sʾalūhunna min warāʾi ḥijāb: and when you ask them for something, ask from behind a screen. At-Tabari explains it as a curtain between you and them, and you do not go in to them in their rooms. On matāʿ, al-Qurtubi lists what was proposed: household things lent, a legal answer, copies of the Qur'an. His own view is that it covers everything that may be asked, of utensils and every need of religion and this world.",
+            "bn": "ওয়া ইযা সাআলতুমূহুন্না মাতাআন ফাসআলূহুন্না মিন ওয়ারাই হিজাব: আর তাদের কাছে কিছু চাইলে পর্দার আড়াল থেকে চাও। তাবারীর ব্যাখ্যায়, তোমাদের আর তাদের মাঝে একটি পর্দা থাকবে, আর তাদের ঘরে ঢুকবে না। মাতা শব্দ নিয়ে কুরতুবী কয়েকটি মত উল্লেখ করেন: ধার দেওয়া গৃহস্থালি জিনিস, কোনো ফতোয়া, কিংবা কুরআনের কপি। তাঁর নিজের মত হলো, চাওয়া যায় এমন সবই এর মধ্যে পড়ে, ঘরের বাসনপত্র থেকে শুরু করে দীন ও দুনিয়ার যেকোনো প্রয়োজন।"
+          },
+          {
+            "en": "Dhālikum aṭharu li-qulūbikum wa-qulūbihinna: that is purer for your hearts and their hearts. At-Tabari says purer from the passing thoughts that arise in men's breasts about women and in women's about men, leaving Satan less way to either. As-Sa'di adds that the further a person stays from what invites wrong, the safer and purer the heart. Al-Qurtubi concludes that no one should trust himself alone with someone not lawful to him. The verse names the hearts of both sides and lays the purity on both.",
+            "bn": "যালিকুম আতহারু লিকুলূবিকুম ওয়া কুলূবিহিন্না: এটা তোমাদের অন্তর ও তাদের অন্তরের জন্য বেশি পবিত্র। তাবারী বলেন, পবিত্র সেই সব খেয়াল থেকে, যা নারীদের নিয়ে পুরুষের মনে আর পুরুষদের নিয়ে নারীর মনে উঁকি দেয়। এতে শয়তানের পথও সরু হয়ে আসে। সা’দী যোগ করেন, মন্দের দিকে ডাকে এমন জিনিস থেকে মানুষ যত দূরে থাকে, তার অন্তর তত নিরাপদ ও পবিত্র থাকে। কুরতুবীর সিদ্ধান্ত, যে কারও জন্য হালাল নয়, তার সঙ্গে একান্তে নিজের উপর ভরসা করা উচিত নয়। আয়াত দুই পক্ষের অন্তরের কথাই বলেছে, আর পবিত্রতার দায় রেখেছে দুজনের উপরেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wives Alone, or All Women?",
+          "bn": "শুধু নবীপত্নী, নাকি সব নারী?"
+        },
+        "p": [
+          {
+            "en": "The pronoun them points to the Prophet's wives, and the commentators differ over how far the screen reaches beyond them. Some speak only of the wives and stress what is particular to them. Al-Baghawi says that after the verse no one could look at any wife of the Prophet ﷺ, veiled or not. Ibn Kathir reads it as: just as you may not go in to them, do not look at them at all. As-Sa'di says looking at them became forbidden in every case.",
+            "bn": "'তাদের' সর্বনামটি নবী ﷺ-এর স্ত্রীদের দিকেই ইঙ্গিত করে। এই আড়ালের বিধান তাঁদের ছাড়িয়ে কতদূর যায়, তা নিয়ে মুফাসসিরদের মধ্যে ভিন্নতা আছে। কেউ কেউ কথা বলেন শুধু স্ত্রীদের নিয়েই, আর জোর দেন তাঁদের বিশেষ অবস্থানের উপর। বাগাভী বলেন, এ আয়াতের পর নবী ﷺ-এর কোনো স্ত্রীর দিকে তাকানোর অধিকার আর কারও রইল না, তাঁর মুখ ঢাকা থাকুক বা না থাকুক। ইবন কাসীরের ব্যাখ্যা: তাঁদের কাছে যেমন ঢুকতে পারবে না, তেমনি তাঁদের দিকে একেবারেই তাকাবে না। সা’দী বলেন, তাঁদের দিকে তাকানো সব অবস্থায় নিষিদ্ধ হয়ে গেল।"
+          },
+          {
+            "en": "Others widen it. At-Tabari's gloss reads: when you ask the wives of the Messenger of Allah ﷺ, and the women of the believers who are not your wives, for something, ask from behind a curtain. Al-Qurtubi holds that all women enter the ruling by its meaning. Ma'arif al-Qur'an says the rule arose from an incident involving the Prophet's wives but holds for the whole community. None of the commentaries read here argues that the screen binds the wives alone; the difference is between those who extend it in words and those who speak only of the wives.",
+            "bn": "অন্যরা বিধানটিকে আরও বিস্তৃত করেন। তাবারীর ব্যাখ্যা এমন: তোমরা যখন আল্লাহর রাসূল ﷺ-এর স্ত্রীদের কাছে, এবং মু’মিনদের সেই নারীদের কাছে যারা তোমাদের স্ত্রী নয়, কিছু চাও, তখন পর্দার আড়াল থেকে চাও। কুরতুবীর মতে আয়াতের মর্মের দিক থেকে সব নারীই এ বিধানের মধ্যে পড়েন। মাআরিফুল কুরআন বলে, বিধানটি নবীপত্নীদের এক ঘটনা থেকে এলেও তা গোটা উম্মাহর জন্য। এখানে পড়া কোনো তাফসীর বলেনি যে আড়ালের বিধান শুধু স্ত্রীদের জন্য। পার্থক্য হলো, কেউ স্পষ্ট ভাষায় একে বিস্তৃত করেন, কেউ কথা বলেন শুধু স্ত্রীদের নিয়ে।"
+          },
+          {
+            "en": "Here the article stops. What other women owe in dress and in speech with men is a question for jurists, argued across many verses and reports, and this verse alone does not settle it; the article records what each commentator said and rules on nothing. The verse's own words are measured: it speaks of asking for a need, not of shutting women away, and gives as its reason the purity of two sets of hearts. The covering women wear outdoors comes later, in 33:59.",
+            "bn": "এ লেখা এখানেই থামছে। অন্য নারীদের পোশাক কেমন হবে, পুরুষের সঙ্গে কথা বলার নিয়ম কী, এগুলো ফকীহদের আলোচনার বিষয়। বহু আয়াত ও বর্ণনা নিয়ে তাঁরা তা বিচার করেছেন, এই একটি আয়াত একাই তার মীমাংসা করে না। এ লেখা কোনো ফয়সালা দেয় না, শুধু প্রত্যেক মুফাসসির কী বলেছেন তা তুলে ধরে। আয়াতের নিজের ভাষা মাপা। এতে প্রয়োজনে কিছু চাওয়ার কথা আছে, নারীদের আটকে রাখার কথা নেই, আর কারণ হিসেবে আছে দুই পক্ষের অন্তরের পবিত্রতা। ঘরের বাইরে নারীদের আবরণের প্রসঙ্গ আসে পরে, ৩৩:৫৯ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Wives, Forever His",
+          "bn": "চিরকাল তাঁরই স্ত্রী"
+        },
+        "p": [
+          {
+            "en": "Wa-mā kāna lakum an tuʾdhū rasūla llāh: it is not for you to harm the Messenger of Allah. As-Sa'di calls this a comprehensive word and a general rule, covering harm in speech or deed. Al-Qurtubi calls it a repetition of the reason that strengthens the ruling. Then comes the one thing named: nor ever to marry his wives after him. At-Tabari's reason is that they are your mothers, and a man may not marry his mother. As-Sa'di adds that they are his wives in this world and the next, so the bond remains.",
+            "bn": "ওয়া মা কানা লাকুম আন তু’যূ রাসূলাল্লাহ: আল্লাহর রাসূলকে কষ্ট দেওয়া তোমাদের কাজ নয়। সা’দী একে বলেন সর্বব্যাপী কথা ও সাধারণ মূলনীতি, যা কথা বা কাজে কষ্ট দেওয়া সবকিছুকে শামিল করে। কুরতুবীর মতে এখানে কারণটা আবার বলা হয়েছে বিধানকে মজবুত করতে। তারপর নাম ধরে আসে একটিমাত্র বিষয়: তাঁর পরে তাঁর স্ত্রীদের কখনো বিয়ে করবে না। তাবারীর কারণ, তাঁরা তোমাদের মা, আর কোনো পুরুষ নিজের মাকে বিয়ে করতে পারে না। সা’দী যোগ করেন, তাঁরা দুনিয়া ও আখিরাত দুই জগতেই তাঁর স্ত্রী, তাই বন্ধনটি অটুট থাকে।"
+          },
+          {
+            "en": "Ibn Kathir reports that the scholars agreed without exception that the wives he left at his death are forbidden to anyone after him. He records two views on a wife he married and then divorced in his lifetime, turning on whether after him reaches her. Al-Qurtubi counts the prohibition among the Prophet's own distinctions, marking his honour and his rank. Al-Muyassar and as-Sa'di both close by noting that the community obeyed this command and kept away from what Allah forbade in it.",
+            "bn": "ইবন কাসীর জানান, ইন্তিকালের সময় যে স্ত্রীরা তাঁর বিয়েতে ছিলেন, তাঁর পরে অন্য কারও জন্য তাঁরা হারাম, এ ব্যাপারে আলেমরা একমত। কোনো স্ত্রীকে বিয়ের পর তাঁর জীবদ্দশায় তালাক দেওয়া হলে তার কী হুকুম, এ নিয়ে তিনি দুটি মত উল্লেখ করেন। মতভেদের মূল প্রশ্ন, 'তাঁর পরে' কথাটি তাঁকেও শামিল করে কি না। কুরতুবী এই নিষেধকে গণ্য করেন নবী ﷺ-এর বিশেষ বৈশিষ্ট্যগুলোর একটি হিসেবে, যা তাঁর মর্যাদা ও স্থানকে চিহ্নিত করে। মুয়াসসার ও সা’দী দুজনেই শেষে বলেন, উম্মাহ এই হুকুম মেনে চলেছে আর এতে আল্লাহর নিষেধ থেকে দূরে থেকেছে।"
+          },
+          {
+            "en": "The tafsirs also report that this clause came down about a man who said he would marry a wife of the Prophet ﷺ after his death. Al-Qurtubi relays Ibn ʿAṭiyyah rejecting the attribution of such words to a named Companion, and his own teacher saying such talk befits only ignorant hypocrites. The clause describes what is unthinkable and licenses nothing against any named person. The verse ends: that would be, in Allah's sight, an enormity, which at-Tabari reads as a great sin before Allah.",
+            "bn": "তাফসীরগুলোতে এ বর্ণনাও আছে যে এক ব্যক্তি বলেছিল, নবী ﷺ-এর ইন্তিকালের পর সে তাঁর এক স্ত্রীকে বিয়ে করবে, তার প্রসঙ্গেই এ অংশ নাযিল হয়। কুরতুবী জানান, ইবন আতিয়্যা এমন কথা নাম ধরে কোনো সাহাবীর ঘাড়ে চাপানোকে প্রত্যাখ্যান করেছেন। আর কুরতুবীর নিজের উস্তাদ বলেছেন, এমন কথা কেবল অজ্ঞ মুনাফিকদের মুখেই মানায়। তাই এ অংশ যা অকল্পনীয় তারই বর্ণনা দেয়, নাম ধরে কারও বিরুদ্ধে কিছুর অনুমতি দেয় না। আয়াত শেষ হয়: আল্লাহর কাছে এ এক গুরুতর ব্যাপার। তাবারীর ব্যাখ্যায়, আল্লাহর কাছে এ এক বড় গুনাহ।"
+          }
+        ]
+      }
+    ]
+  },
   "33:59": {
     "sections": [
       {
