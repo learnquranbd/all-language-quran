@@ -25909,6 +25909,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Doing good in a trial means carrying Allah's command all the way, and helping those beside you do the same. What He keeps for it outlasts what you feared to lose.",
     "lessonBn": "পরীক্ষার মধ্যে সৎকাজ মানে আল্লাহর আদেশ শেষ পর্যন্ত পালন করা, আর পাশের মানুষকেও তা পালনে সাহায্য করা। এর বদলে তিনি যা রেখে দেন, তা হারানোর ভয়ে থাকা জিনিসের চেয়ে বেশি টেকে।"
+  },
+  "37:127": {
+    "reflectionEn": "Ilyas asked his people a plain question: will you call on Ba'l and leave the best of creators, Allah, your Lord and the Lord of your forefathers? The answer comes in three Arabic words. They denied him, so they will surely be brought. There is no argument recorded, no counter-proof, only the denial, and then a sentence about where that denial leads. The verse does not say they won, or that he lost. His task was to deliver the message, and he delivered it. What happens to those who refuse it is placed with Allah alone. So I am left with my own side of it. When the truth is put to me plainly, do I answer it, or do I simply push it away?",
+    "reflectionBn": "ইলিয়াস (আঃ) তাঁর জাতিকে সোজা একটা প্রশ্ন করেছিলেন: তোমরা কি বা‘লকে ডাকবে আর ছেড়ে দেবে সর্বোত্তম স্রষ্টা আল্লাহকে, যিনি তোমাদের রব, তোমাদের পূর্বপুরুষদেরও রব? জবাব এল আরবীতে মাত্র তিন শব্দে। তারা তাঁকে মিথ্যাবাদী বলল, কাজেই তাদের অবশ্যই হাজির করা হবে। কোনো যুক্তি নেই, পাল্টা প্রমাণ নেই। আছে শুধু অস্বীকার, আর তার পরে এক বাক্যে জানিয়ে দেওয়া, সেই অস্বীকার তাদের কোথায় নিয়ে যাবে। আয়াত বলে না যে তারা জিতে গেল, কিংবা তিনি হেরে গেলেন। তাঁর দায়িত্ব ছিল বার্তা পৌঁছে দেওয়া, আর তিনি তা পৌঁছে দিয়েছেন। যারা তা ফিরিয়ে দিল, তাদের পরিণতির ভার আল্লাহর হাতে। তাহলে আমার ভাগে থাকে আমার নিজের দিকটা। সত্য যখন সোজাসুজি আমার সামনে রাখা হয়, আমি কি তার জবাব দিই, নাকি শুধু ঠেলে সরিয়ে দিই?",
+    "pointsEn": [
+      "When a reminder reaches me that I do not like, do I answer what it says, or do I only dismiss the one who said it?",
+      "Is there something I have been told is wrong, again and again, that I keep refusing without ever giving a reason?",
+      "When my good advice is turned down, do I judge my effort by the other person's response, or by whether I said it sincerely and well?",
+      "Do I remember that every denial, including my own, is followed by a day on which each of us is brought before Allah?",
+      "Whose sincerity, standing apart from the crowd around them, could I learn from this week?"
+    ],
+    "pointsBn": [
+      "অপছন্দের কোনো নসিহত যখন আমার কাছে পৌঁছায়, আমি কি তার কথার জবাব দিই, নাকি যে বলল শুধু তাকেই উড়িয়ে দিই?",
+      "এমন কিছু কি আছে, যা অন্যায় বলে আমাকে বারবার বলা হয়েছে, অথচ কোনো কারণ না দেখিয়েই আমি তা মানতে অস্বীকার করে চলেছি?",
+      "আমার ভালো পরামর্শ কেউ ফিরিয়ে দিলে আমি কি নিজের চেষ্টার বিচার করি তার জবাব দেখে, নাকি দেখি কথাটা আমি আন্তরিকভাবে আর সুন্দর করে বলেছি কি না?",
+      "আমার নিজেরটা সহ প্রতিটি অস্বীকারের পরে যে একটা দিন আসছে, যেদিন আমাদের প্রত্যেককে আল্লাহর সামনে হাজির করা হবে, তা কি আমার মনে থাকে?",
+      "চারপাশের ভিড় থেকে আলাদা হয়ে দাঁড়ানো কার একনিষ্ঠতা থেকে আমি এ সপ্তাহে শিখতে পারি?"
+    ],
+    "lessonEn": "Your duty is to say the truth sincerely, not to make others accept it. Who answers and who refuses is recorded, and the outcome belongs to Allah alone.",
+    "lessonBn": "আপনার দায়িত্ব আন্তরিকভাবে সত্য বলা, অন্যকে দিয়ে তা মানিয়ে নেওয়া নয়। কে সাড়া দিল আর কে ফিরিয়ে দিল, সব লেখা থাকে, আর পরিণতি একমাত্র আল্লাহর হাতে।"
   }
 };
 

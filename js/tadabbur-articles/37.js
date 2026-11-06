@@ -4803,6 +4803,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:127": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words After the Plea",
+          "bn": "দাওয়াতের পরে তিনটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Ilyas (AS) is named a messenger at 37:123, and across the next three verses he speaks to his people: will you not fear Allah, will you call on Ba'l and leave the best of creators, Allah, your Lord and the Lord of your first forefathers? This verse is their whole reply, and it is not given in their own words. In Arabic it is three words: fa-kadhdhabuhu fa-innahum la-muhdarun, so they denied him, and so they will surely be brought.",
+            "bn": "৩৭:১২৩ আয়াতে ইলিয়াস (আঃ)-কে রসূল বলে ঘোষণা করা হয়েছে। পরের তিন আয়াতে তিনি জাতির সঙ্গে কথা বলেন: তোমরা কি আল্লাহকে ভয় করবে না? তোমরা কি বা‘লকে ডাকবে আর ছেড়ে দেবে সর্বোত্তম স্রষ্টাকে, আল্লাহকে, যিনি তোমাদের রব আর তোমাদের আদি পূর্বপুরুষদেরও রব? এ আয়াতেই তাদের পুরো জবাব, আর সেটা তাদের নিজেদের মুখের ভাষায় আসেনি। আরবীতে মাত্র তিনটি শব্দ: ফাকাযযাবূহু ফাইন্নাহুম লামুহদারূন। তারা তাঁকে মিথ্যাবাদী বলল, কাজেই তাদের অবশ্যই হাজির করা হবে।"
+          },
+          {
+            "en": "The first word carries a whole scene in a single verb. Kadhdhabuhu means they called him a liar, they treated what he brought as false. As-Sa'di fills in what the denial was about: they denied him in what he called them to, and did not yield to him. No debate is recorded, no answering proof, no rival argument for Ba'l. The question of 37:125 is left unanswered, and the next thing the Qur'an reports is a rejection of the man who asked it.",
+            "bn": "প্রথম শব্দটির একটি ক্রিয়ার ভেতরেই গোটা একটা দৃশ্য। কাযযাবূহু মানে তারা তাঁকে মিথ্যাবাদী বলল, তিনি যা এনেছিলেন তাকে মিথ্যা ধরে নিল। কী নিয়ে এ অস্বীকার, সা'দী তা খুলে বলেন: তিনি যেদিকে ডেকেছিলেন, সে ব্যাপারেই তারা তাঁকে মিথ্যাবাদী বলল, আর তাঁর কথা মেনে নিল না। কোনো তর্কের বিবরণ নেই, পাল্টা দলিল নেই, বা‘লের পক্ষে কোনো যুক্তিও নেই। ৩৭:১২৫ আয়াতের প্রশ্নটা জবাবহীন পড়ে থাকে। এর পরে কুরআন যা জানায়, তা হলো প্রশ্নকারী মানুষটিকেই প্রত্যাখ্যান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made Present, Then Made to Witness",
+          "bn": "হাজির করা, তারপর চোখে দেখানো"
+        },
+        "p": [
+          {
+            "en": "Muhdarun is a passive participle: those who are made present, brought to a place. The doer is not named, and the sentence does not need to name Him. It is fastened down twice, with inna, indeed, and the la of emphasis on the word itself, so the second half reads as certain, not as a possibility. As-Sa'di notes who is speaking: Allah said it as a threat against them. The people speak only through the verb of denial; the verdict that follows is His.",
+            "bn": "মুহদারূন কর্মবাচ্য বিশেষণ: যাদের হাজির করা হয়, কোনো জায়গায় এনে উপস্থিত করা হয়। কে হাজির করবেন, বাক্যে তাঁর নাম নেই, নাম বলার দরকারও পড়ে না। কথাটা দু'বার পাকা করা হয়েছে। একবার ইন্না দিয়ে, অর্থাৎ নিশ্চয়ই, আরেকবার শব্দটির গায়ে জোর দেওয়ার লাম দিয়ে। তাই বাক্যের দ্বিতীয় অংশ কোনো সম্ভাবনা নয়, নিশ্চিত খবর। কে বলছেন, সা'দী সেটাও মনে করিয়ে দেন: আল্লাহ তাদের হুমকি দিয়ে এ কথা বলেছেন। জাতির কণ্ঠ শোনা যায় শুধু অস্বীকারের ক্রিয়ায়। তার পরের রায় আল্লাহর।"
+          },
+          {
+            "en": "At-Tabari glosses the phrase in two steps. First he restates the subject: Ilyas's people denied him. Then he says what being brought means: they will be brought into the punishment of Allah, fa-yashhadunahu, and so they will witness it. On his reading, being made present is not only a summons to a place; it is being placed inside the punishment and made to see it. He adds a report from Qatada, through Bishr, Yazid and Sa'id, with the same gloss in fewer words: in the punishment of Allah.",
+            "bn": "তাবারী বাক্যটির ব্যাখ্যা দেন দুই ধাপে। প্রথমে কর্তাকে আবার স্পষ্ট করেন: ইলিয়াস (আঃ)-কে তাঁর জাতি মিথ্যাবাদী বলেছিল। তারপর বলেন হাজির করার মানে কী। তাদের আল্লাহর আযাবের মধ্যে হাজির করা হবে, ফাইয়াশহাদূনাহু, অর্থাৎ তারা তা নিজের চোখে দেখবে। তাঁর ব্যাখ্যায় হাজির করা শুধু কোথাও ডেকে আনা নয়। আযাবের ভেতরে এনে রাখা, আর তা চাক্ষুষ করানো। এর সঙ্গে তিনি কাতাদার একটি বর্ণনা আনেন, বিশর, ইয়াযীদ ও সাঈদের সূত্রে। কথা একই, শুধু আরও সংক্ষেপে: আল্লাহর আযাবের মধ্যে।"
+          },
+          {
+            "en": "The bracket in the printed translation, brought for punishment, is therefore not decoration added by a translator. The word alone means brought, and the destination is supplied by the commentary and by the Qur'an's own use of the word, which the next sections follow. A bracketed word in a translation is a reading, and this one can be traced to its sources.",
+            "bn": "ছাপা অনুবাদে বন্ধনীর ভেতরে যে 'শাস্তির জন্য' লেখা আছে, তাই অনুবাদকের খেয়ালখুশির সংযোজন নয়। শব্দটির নিজের অর্থ শুধু হাজির করা। কোথায় হাজির করা হবে, সেটা জানায় তাফসীর, আর জানায় কুরআনে শব্দটির নিজস্ব ব্যবহার, যা পরের অংশগুলোতে দেখা যাবে। অনুবাদের বন্ধনীর শব্দ আসলে একটা ব্যাখ্যা, আর এ ব্যাখ্যার উৎস খুঁজে পাওয়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Glosses, One Destination",
+          "bn": "পাঁচ ব্যাখ্যা, এক গন্তব্য"
+        },
+        "p": [
+          {
+            "en": "The commentators gathered for this verse each fill the destination in a word or two, and their wording differs more than their meaning. Al-Qurtubi says simply: in the punishment. Al-Baghawi names the place: in the Fire. Ibn Kathir names the time: for the punishment on the Day of Reckoning. As-Sa'di joins time and place: on the Day of Resurrection, in the punishment. The Muyassar, which reads this verse together with 37:128, says Allah will gather them on the Day of Resurrection for the reckoning and the punishment.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, প্রত্যেকটিই এক-দুই শব্দে গন্তব্যটা বলে দেয়। তাদের ভাষার ফারাক যতটা, অর্থের ফারাক ততটা নয়। কুরতুবী শুধু বলেন: আযাবের মধ্যে। বাগাভী জায়গার নাম বলেন: জাহান্নামের আগুনে। ইবন কাসীর বলেন সময়ের কথা: হিসাবের দিনে আযাবের জন্য। সা'দী সময় আর জায়গা দুটোই জুড়ে দেন: কিয়ামতের দিন, আযাবের মধ্যে। মুয়াসসার আয়াতটিকে ৩৭:১২৮ আয়াতের সঙ্গে মিলিয়ে পড়ে। সেখানে বলা হয়েছে, কিয়ামতের দিন আল্লাহ তাদের একত্র করবেন হিসাব আর শাস্তির জন্য।"
+          },
+          {
+            "en": "Set side by side, these are not rival readings. They are one picture seen from several angles: a gathering, a reckoning, then a punishment in which the deniers are present. The Muyassar's word for the gathering is the one detail none of the others uses, and it matters, because it shows that being brought includes being called to account before the sentence. Ibn Kathir's naming of the Day of Reckoning points the same way, from the side of time rather than of the act.",
+            "bn": "পাশাপাশি রাখলে এগুলো পরস্পরবিরোধী ব্যাখ্যা নয়। একই ছবি, কয়েক দিক থেকে দেখা। আগে একত্র করা, তারপর হিসাব, তারপর এমন আযাব, যার ভেতরে অস্বীকারকারীরা হাজির। একত্র করার কথাটা শুধু মুয়াসসারেই আছে, অন্যরা তা বলেননি। কথাটা গুরুত্বপূর্ণ, কারণ এতে বোঝা যায়, হাজির করার মধ্যে সাজার আগে জবাবদিহির জন্য ডাকাও আছে। ইবন কাসীর যে হিসাবের দিনের নাম বলেন, তাও একই দিকে ইঙ্গিত করে, কাজের দিক থেকে নয়, সময়ের দিক থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This World or the Next",
+          "bn": "দুনিয়ার সাজা, নাকি আখিরাতের"
+        },
+        "p": [
+          {
+            "en": "Here the sources part ways. As-Sa'di adds a short clause that is easy to pass over: wa-lam yadhkur lahum 'uqubatan dunyawiyya, and He did not mention a worldly punishment for them. On his reading the verse looks only to the Day of Resurrection, and he draws attention to the silence rather than filling it. The other Arabic commentators here say nothing to the contrary. None of them mentions a punishment in this world, and those who name a time, as the previous section showed, name the Day of Reckoning or of Resurrection.",
+            "bn": "এখানে এসে উৎসগুলোর পথ আলাদা হয়। সা'দী ছোট্ট একটা বাক্যাংশ যোগ করেন, যা সহজেই চোখ এড়িয়ে যায়: ওয়া লাম ইয়াযকুর লাহুম উকূবাতান দুনইয়াবিয়্যা, আর তাদের জন্য তিনি দুনিয়ার কোনো শাস্তির কথা উল্লেখ করেননি। তাঁর পাঠে আয়াতটি শুধু কিয়ামতের দিনের দিকেই তাকিয়ে আছে। নীরবতাটুকু তিনি ভরাট করেন না, বরং সেদিকে দৃষ্টি আকর্ষণ করেন। আরবী তাফসীরগুলোর অন্য কেউ এর উল্টো কিছু বলেন না। দুনিয়ার কোনো শাস্তির কথা তাঁদের কারও লেখায় নেই। আগের অংশে যেমন দেখা গেল, যাঁরা সময়ের উল্লেখ করেন, তাঁরা বলেন হিসাবের দিন বা কিয়ামতের দিনের কথা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads it more widely. It first explains the verse as the consequence of belying Allah's messengers, then says it could refer to the punishment of the Hereafter as well as to their sad end in this world. It states that the rulers of his day in what it calls the two countries of Isra'il and Judah faced destruction after rejecting Ilyas (AS), and it points for the details to Tafsir Mazhari and to books of the Bible. That account rests on those outside sources, not on anything in the other commentaries gathered here.",
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে আরও বড় পরিসরে পড়ে। প্রথমে বলে, আল্লাহর রসূলদের মিথ্যাবাদী বলার পরিণাম তাদের ভোগ করতে হবে। তারপর বলে, এতে আখিরাতের আযাবের পাশাপাশি দুনিয়াতে তাদের করুণ পরিণতির কথাও থাকতে পারে। এর বর্ণনায়, ইলিয়াস (আঃ)-কে প্রত্যাখ্যান করার ফলে তাঁর সময়ের শাসকদের উপর ধ্বংস নেমে আসে। মাআরিফুল কুরআন তাদের দেশকে বলে ইসরাঈল ও ইয়াহুদা নামের দুই দেশ। বিস্তারিত জানতে সে তাফসীরে মাযহারী আর বাইবেলের কয়েকটি পুস্তকের কথা বলে। এ বিবরণের ভিত্তি ওই বাইরের উৎসগুলো। এখানে দেখা অন্য তাফসীরগুলোতে এর কোনো সমর্থন নেই।"
+          },
+          {
+            "en": "Both positions are kept here as they stand, and neither is chosen. What the text of the surah itself does is worth seeing. Of Nuh's people it says, then We drowned the others (37:82). Of Lut's, then We destroyed the others (37:136). For the people of Ilyas (AS) there is no such line in as-Saffat. The verse goes from the denial straight to being brought, and the silence that as-Sa'di noticed is, at the least, a real feature of the passage.",
+            "bn": "দুটি মতই এখানে যেমন আছে তেমন রাখা হলো, কোনোটিকে বেছে নেওয়া হলো না। তবে সূরার নিজের পাঠ কী করে, তা দেখার মতো। নূহ (আঃ)-এর জাতি সম্পর্কে বলা হয়েছে: তারপর অন্যদের আমি ডুবিয়ে দিলাম (৩৭:৮২)। লূত (আঃ)-এর জাতি সম্পর্কে: তারপর অন্যদের আমি ধ্বংস করে দিলাম (৩৭:১৩৬)। ইলিয়াস (আঃ)-এর জাতির বেলায় সূরা সাফফাতে এমন কোনো বাক্য নেই। আয়াত অস্বীকার থেকে সোজা চলে যায় হাজির করার কথায়। সা'দী যে নীরবতা লক্ষ করেছিলেন, অন্তত এটুকু নিশ্চিত যে তা এই অংশের বাস্তব বৈশিষ্ট্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word Across Two Surahs",
+          "bn": "দুই সূরায় একই শব্দ"
+        },
+        "p": [
+          {
+            "en": "The same participle returns later in this surah, and its uses show how the Qur'an loads it. At 37:57 a man in Paradise, having seen a former companion in the Fire, says: but for the favour of my Lord, I would have been among the muhdarin, those brought in. At 37:158, after some claimed a lineage between Allah and the jinn, the verse says the jinn already know that they, the ones who made the claim, will be brought. In both, being brought is something to be rescued from.",
+            "bn": "একই শব্দ এ সূরাতেই পরে আবার এসেছে, আর সেই ব্যবহারগুলো দেখায় কুরআন শব্দটিতে কোন ভার চাপিয়েছে। ৩৭:৫৭ আয়াতে জান্নাতের এক ব্যক্তি তার পুরোনো সঙ্গীকে জাহান্নামে দেখতে পেয়ে বলে: আমার রবের অনুগ্রহ না থাকলে আমিও হতাম মুহদারীনদের একজন, যাদের হাজির করা হয়েছে। ৩৭:১৫৮ আয়াতে কিছু লোক আল্লাহ আর জিনদের মাঝে বংশের সম্পর্ক জুড়ে দিয়েছিল। আয়াত বলছে, জিনেরা ভালো করেই জানে যে এ দাবি যারা করেছে, তাদের হাজির করা হবে। দুই জায়গাতেই হাজির হওয়া এমন জিনিস, যা থেকে রক্ষা পাওয়ার কামনা করতে হয়।"
+          },
+          {
+            "en": "Yet the word itself is not always a threat. In Ya-Sin, the surah just before, it is used of everyone: all of them will be brought present before Us (36:32), and after one blast they are all brought present before Us (36:53). There it is the general gathering of humankind. Where the Qur'an wants the darker sense, it often says so outright: fi al-'adhabi muhdarun, brought into the punishment, at 30:16 and 34:38. In this verse the place is left unsaid, and the commentators supply it.",
+            "bn": "তবে শব্দটি সব সময় হুমকি বোঝায় না। ঠিক আগের সূরা ইয়াসীনে শব্দটি এসেছে সবার বেলায়: তাদের সবাইকে একত্রে আমার কাছে হাজির করা হবে (৩৬:৩২)। আরেক জায়গায়: একটিমাত্র প্রচণ্ড আওয়াজ, আর অমনি তাদের সবাইকে আমার সামনে হাজির করা হবে (৩৬:৫৩)। সেখানে কথাটা গোটা মানবজাতির সমবেত হওয়ার। অন্ধকার অর্থটা বোঝাতে চাইলে কুরআন অনেক সময় সরাসরিই বলে দেয়: ফিল আযাবি মুহদারূন, আযাবের মধ্যে হাজির করা হবে। যেমন ৩০:১৬ ও ৩৪:৩৮ আয়াতে। এ আয়াতে জায়গার নাম বলা হয়নি। সেটা জুড়ে দেন তাফসীরকারেরা।"
+          },
+          {
+            "en": "Read against that background, the brevity here is a choice the reader can feel. The general word is used, but the sentence it sits in is a verdict, announced right after a denial and emphasised twice. Every person will be brought present before Allah, as Ya-Sin says; what this verse adds is that Ilyas's deniers will be brought in the way the man of 37:57 was saved from. That is the reading every commentator gathered for this verse gives it.",
+            "bn": "এই পটভূমিতে পড়লে বোঝা যায়, এখানকার সংক্ষিপ্ততা ইচ্ছাকৃত। শব্দটা সাধারণ, কিন্তু যে বাক্যে তা বসেছে সেটা একটা রায়। অস্বীকারের ঠিক পরেই ঘোষণা, আর দু'বার জোর দিয়ে। সূরা ইয়াসীন যেমন বলে, প্রত্যেক মানুষকেই আল্লাহর সামনে হাজির করা হবে। এ আয়াত যোগ করে, ইলিয়াস (আঃ)-কে যারা অস্বীকার করেছে, তাদের হাজির করা হবে সেভাবেই, যেভাবে হাজির হওয়া থেকে ৩৭:৫৭ আয়াতের ওই ব্যক্তি বেঁচে গিয়েছিল। এ আয়াতের জন্য দেখা প্রতিটি তাফসীর একে এভাবেই পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Everyone Who Heard Him",
+          "bn": "যাঁরা শুনে সাড়া দিয়েছিলেন"
+        },
+        "p": [
+          {
+            "en": "The verdict is not left without exception. The next verse, 37:128, adds an exception: except the sincere servants of Allah. At-Tabari reads the two as one sentence: they will be brought into the punishment of Allah, except the servants of Allah whom He made sincere and kept from the punishment. The Muyassar does the same in a single gloss: Allah will gather them for reckoning and punishment, except those who made their religion sincerely for Allah, for they are saved from His punishment.",
+            "bn": "রায়টি ব্যতিক্রমহীন নয়। পরের আয়াত, ৩৭:১২৮, একটা ব্যতিক্রম যোগ করে: আল্লাহর একনিষ্ঠ বান্দারা ছাড়া। তাবারী দুটি আয়াতকে একটি বাক্য হিসেবে পড়েন। তাদের আল্লাহর আযাবে হাজির করা হবে, তবে আল্লাহর সেই বান্দারা ছাড়া, যাঁদের তিনি খাঁটি করে নিয়েছেন আর আযাব থেকে বাঁচিয়ে রেখেছেন। মুয়াসসারও এক ব্যাখ্যায় দুটোকে জুড়ে দেয়। আল্লাহ তাদের হিসাব আর শাস্তির জন্য একত্র করবেন, কেবল তাঁরা বাদে, যাঁরা নিজেদের দ্বীনকে আল্লাহর জন্য খাঁটি করেছেন। তাঁরা তাঁর আযাব থেকে মুক্তি পাবেন।"
+          },
+          {
+            "en": "Several commentators locate these sincere servants among Ilyas's own people. Al-Qurtubi and al-Baghawi both write min qawmihi, from his people, and say they were saved from the punishment. As-Sa'di describes them as those whom Allah made sincere and favoured with following their prophet. Ibn Kathir calls them al-muwahhidin minhum, the believers in Allah's oneness among them. On this reading the denial of this verse was the people's answer as a whole, while some among them did follow Ilyas (AS).",
+            "bn": "কয়েকজন তাফসীরকার এই একনিষ্ঠ বান্দাদের খুঁজে পান ইলিয়াস (আঃ)-এর নিজের জাতির ভেতরেই। কুরতুবী আর বাগাভী দুজনেই লেখেন মিন কাওমিহী, অর্থাৎ তাঁর জাতির মধ্য থেকে, আর বলেন তাঁরা আযাব থেকে রক্ষা পেয়েছেন। সা'দীর বর্ণনায় তাঁরা সেই লোক, যাঁদের আল্লাহ খাঁটি করে নিয়েছেন আর নবীর অনুসরণের তাওফীক দিয়ে অনুগ্রহ করেছেন। ইবন কাসীর তাঁদের বলেন আল-মুওয়াহহিদীনা মিনহুম, তাদের মধ্যে যারা আল্লাহর একত্বে বিশ্বাসী। এ পাঠ অনুযায়ী, আয়াতের অস্বীকার ছিল গোটা জাতির সামগ্রিক জবাব। তবু তাদের মধ্যে কেউ কেউ ঠিকই ইলিয়াস (আঃ)-এর অনুসরণ করেছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir adds a grammarian's label: istithna' munqati' min muthbat, a disconnected exception from an affirmative statement. In the grammarians' use, a disconnected exception names people who were not part of the group just mentioned. Here that would mean the sincere were never among the deniers in the first place. Al-Qurtubi also notes a second reading, mukhlisin with the lam in kasra, and says he has discussed it before. That is the active form, those who make their devotion sincere, beside the passive mukhlasin, those made sincere.",
+            "bn": "ইবন কাসীর এর সঙ্গে ব্যাকরণের একটা পরিভাষা জুড়ে দেন: ইসতিসনা মুনকাতি মিন মুসবাত, ইতিবাচক বাক্য থেকে বিচ্ছিন্ন ব্যতিক্রম। ব্যাকরণবিদদের ব্যবহারে বিচ্ছিন্ন ব্যতিক্রম বলতে এমন লোকদের বোঝায়, যারা আগে উল্লেখ করা দলের অংশই ছিল না। এখানে তার অর্থ দাঁড়ায়, একনিষ্ঠ বান্দারা শুরু থেকেই অস্বীকারকারীদের দলে ছিলেন না। কুরতুবী আরেকটি পাঠের কথাও জানান: লামে যের দিয়ে মুখলিসীন। তিনি বলেন, এ নিয়ে আগেই আলোচনা হয়েছে। এটি কর্তৃবাচ্য রূপ, অর্থাৎ যাঁরা নিজেদের ইবাদত খাঁটি করেন। পাশে থাকে কর্মবাচ্য মুখলাসীন, যাঁদের খাঁটি করে নেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports About Who They Were",
+          "bn": "তারা কারা, সে বিষয়ে বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The verse names neither the people nor their land. What the sources gathered here say about them is reported, not stated by the Qur'an. Ibn Kathir's abridged commentary, on this passage, relays from 'Abd ar-Rahman ibn Zayd ibn Aslam, from his father, that Ba'l was an idol worshipped by the people of a city called Ba'labak. Ma'arif al-Qur'an, as quoted above, ties the story to the rulers of Isra'il and Judah. Both are reports, carried with their sources, and neither is confirmed by the verse itself.",
+            "bn": "আয়াতে জাতির নাম নেই, তাদের দেশের নামও নেই। এখানে দেখা উৎসগুলো তাদের সম্পর্কে যা বলে, তা বর্ণনা, কুরআনের নিজের ঘোষণা নয়। এ অংশের আলোচনায় ইবন কাসীরের সংক্ষিপ্ত তাফসীর আবদুর রহমান ইবন যায়দ ইবন আসলামের সূত্রে তাঁর পিতার একটি কথা আনে। তাতে বলা হয়েছে, বা‘ল ছিল এক মূর্তি, যার পূজা করত বা‘লাবাক্ক নামের এক শহরের লোকেরা। মাআরিফুল কুরআন, ওপরে যেমন দেখা গেল, কাহিনিটিকে জুড়ে দেয় ইসরাঈল ও ইয়াহুদার শাসকদের সঙ্গে। দুটোই বর্ণনা, নিজ নিজ সূত্রসহ। আয়াত নিজে এর কোনোটিকেই নিশ্চিত করে না।"
+          },
+          {
+            "en": "One thing needs saying plainly. The verse describes what the text describes: a people, in the time of Ilyas (AS), who denied the messenger sent to them, and the verdict Allah gave on them. It licenses nothing against any living person or community, including anyone who lives today in a place the reports mention or who shares a name with the peoples in them. The judgement in the verse is Allah's, spoken about those people; no reader is handed it to pass on anyone else.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তাই বর্ণনা করে। ইলিয়াস (আঃ)-এর সময়ের একটি জাতি, যারা তাদের কাছে পাঠানো রসূলকে মিথ্যাবাদী বলেছিল, আর তাদের ব্যাপারে আল্লাহর দেওয়া রায়। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। বর্ণনায় যে জায়গার উল্লেখ আছে, আজ সেখানে যারা থাকে, কিংবা বর্ণনার জাতিগুলোর সঙ্গে যাদের নামের মিল আছে, তাদের বিরুদ্ধেও নয়। রায়টি আল্লাহর, ওই জাতি সম্পর্কে। অন্য কারও উপর তা চাপিয়ে দেওয়ার ভার কোনো পাঠকের হাতে তুলে দেওয়া হয়নি।"
+          },
+          {
+            "en": "As for hadith, none of the commentaries fetched for this verse attaches a narration to it, so none is cited here. The same holds for an occasion of revelation: none is given for the verse in these sources, and it is read in its place in the surah, inside the account of Ilyas (AS) that runs from 37:123 to 37:132. Where the sources are brief, nothing is added to make the verse seem fuller.",
+            "bn": "হাদীসের প্রসঙ্গে বলা যায়, এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো বর্ণনা যুক্ত করেনি। তাই এখানে কোনো হাদীস উদ্ধৃত হলো না। শানে নুযূলের বেলাতেও একই কথা। এসব উৎসে আয়াতটির কোনো নাযিলের প্রেক্ষাপট দেওয়া নেই। তাই আয়াতটি পড়া হলো সূরার ভেতরে তার নিজের জায়গায়, ৩৭:১২৩ থেকে ৩৭:১৩২ পর্যন্ত ইলিয়াস (আঃ)-এর বিবরণের মধ্যে। উৎস যেখানে সংক্ষিপ্ত, আয়াতকে বাড়িয়ে দেখাতে সেখানে কিছু জোড়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Message Delivered, Not Lost",
+          "bn": "পৌঁছে দেওয়া বার্তা, হারানো নয়"
+        },
+        "p": [
+          {
+            "en": "Nothing in the verse counts the denial as a failure of Ilyas (AS). He was sent, he spoke, he asked the question that mattered, and his people answered by calling him a liar. The account then moves on to what Allah left for him among later generations and to the greeting of peace upon him (37:129, 37:130). The rejection is recorded, and so is the honour. A messenger's work is measured by its faithfulness, and the response of the hearers is their own account to answer for.",
+            "bn": "আয়াতের কোথাও এ অস্বীকারকে ইলিয়াস (আঃ)-এর ব্যর্থতা বলে গণ্য করা হয়নি। তাঁকে পাঠানো হয়েছিল, তিনি কথা বলেছেন, আসল প্রশ্নটাই তুলেছেন। জবাবে তাঁর জাতি তাঁকে মিথ্যাবাদী বলেছে। তারপর বিবরণ এগিয়ে যায় পরবর্তীদের মাঝে আল্লাহ তাঁর জন্য যা রেখে দিলেন সেদিকে, আর তাঁর প্রতি সালামের দিকে (৩৭:১২৯ ও ৩৭:১৩০)। প্রত্যাখ্যানও লেখা থাকল, সম্মানও লেখা থাকল। রসূলের কাজের মাপকাঠি তাঁর বিশ্বস্ততা। শ্রোতারা কী জবাব দিল, তার হিসাব তাদের নিজেদেরই দিতে হবে।"
+          },
+          {
+            "en": "For a reader, the verse turns that around. Every one of us has been told the truth plainly at some point, and the verse shows how short a refusal can be: one verb, without reasons. It also shows that a refusal does not end the matter. The word that follows is about being brought, and in this surah the believer of 37:57 knew that only his Lord's favour had kept him from it. The question the verse leaves is whether my own answer to a plain reminder is a reply or a denial.",
+            "bn": "পাঠকের জন্য আয়াতটি কথাটাকে উল্টো দিক থেকে ধরে। আমাদের প্রত্যেকের সামনেই কোনো না কোনো সময় সত্যটা সোজাসুজি রাখা হয়েছে। আয়াত দেখায়, প্রত্যাখ্যান কত ছোট হতে পারে: একটা ক্রিয়া, কোনো কারণ ছাড়াই। আবার দেখায়, প্রত্যাখ্যানে ব্যাপারটা শেষ হয়ে যায় না। পরের শব্দটাই হাজির করার কথা। আর এ সূরাতেই ৩৭:৫৭ আয়াতের মুমিন জানত, শুধু তার রবের অনুগ্রহই তাকে সেই হাজির হওয়া থেকে বাঁচিয়েছে। আয়াত যে প্রশ্নটা রেখে যায়: সোজাসাপ্টা নসিহতের সামনে আমার নিজের উত্তর কি জবাব, নাকি অস্বীকার?"
+          }
+        ]
+      }
+    ]
+  },
   "37:131": {
     "sections": [
       {
