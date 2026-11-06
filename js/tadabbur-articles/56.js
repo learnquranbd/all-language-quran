@@ -1339,6 +1339,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "56:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words to Finish a Portrait",
+          "bn": "দুই শব্দে ছবিটা পূর্ণ"
+        },
+        "p": [
+          {
+            "en": "'Uruban atraba: devoted, of equal age. The verse is two words, both descriptions, and both continue a sentence already under way. At 56:35 Allah says He produced \"them\" in a new making, and at 56:36 that He made them abkar, virgins. Here two more descriptions are added, and 56:38 then says for whom: li-ashab al-yamin, for the companions of the right. Al-Muyassar, whose note is grouped over 56:35 to 56:38, reads the four verses as one sentence about the women of the people of Paradise: loving towards their husbands, of one age, created for the companions of the right.",
+            "bn": "উরুবান আতরাবা: স্বামীর প্রতি অনুরক্তা, সমবয়সী। আয়াতটি মাত্র দুই শব্দের, দুটিই গুণবাচক, আর দুটিই আগে থেকে চলে আসা একটি বাক্যকে এগিয়ে নেয়। ৫৬:৩৫ আয়াতে আল্লাহ বলেন, তিনি \"তাদের\" গড়েছেন নতুন গড়নে। ৫৬:৩৬ আয়াতে বলেন, তাদের করেছেন আবকার, কুমারী। এখানে আরও দুটি গুণ যোগ হয়। তারপর ৫৬:৩৮ আয়াত জানায় কাদের জন্য: লি-আসহাবিল ইয়ামীন, ডান দিকের লোকদের জন্য। মুয়াসসারের ব্যাখ্যা ৫৬:৩৫ থেকে ৫৬:৩৮ পর্যন্ত একসঙ্গে। চারটি আয়াতকে সেটি পড়ে জান্নাতবাসীদের নারীদের নিয়ে একটি বাক্য হিসেবে: স্বামীর প্রতি ভালোবাসাময়, একই বয়সের, ডান দিকের লোকদের জন্য সৃষ্ট।"
+          },
+          {
+            "en": "Who \"them\" are is the question of 56:35, and that verse's article sets out the answers with their names; this one does not repeat them. One sentence from as-Sa'di belongs here, because he says it while explaining these words: the generality of the description includes both al-hur al-'in and the women of this world, and being 'urub and atrab stays with them in every state. The English bracket \"[to their husbands]\" is the translator's addition, though it matches what nearly every gloss below supplies. What follows takes the two words in turn.",
+            "bn": "\"তাদের\" বলতে কারা, সে প্রশ্ন ৫৬:৩৫ আয়াতের। সে আয়াতের লেখায় উত্তরগুলো নামসহ সাজানো আছে, এখানে আর তা দোহরানো হবে না। তবে সা'দীর একটি বাক্য এখানেই আসে, কারণ এই দুই শব্দের ব্যাখ্যা করতে গিয়েই তিনি কথাটা বলেন। তাঁর মতে এ বর্ণনার ব্যাপকতায় হূরুল ঈন আর দুনিয়ার নারী, দুই দলই পড়ে। আর উরুব ও আতরাব হওয়ার গুণ সব অবস্থায় তাদের সঙ্গে থাকে। এ সাইটের ইংরেজি অনুবাদে \"to their husbands\" কথাটি বন্ধনীতে আছে, অর্থাৎ সেটি অনুবাদকের সংযোজন। তবে নিচের প্রায় সব ব্যাখ্যাই ঠিক এ কথাটাই যোগ করে। এবার শব্দ দুটি একে একে দেখা যাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Love Made Plain",
+          "bn": "যে ভালোবাসা প্রকাশ পায়"
+        },
+        "p": [
+          {
+            "en": "'Urub is a plural. At-Tabari, al-Qurtubi and al-Baghawi all give its singular as 'arub, and at-Tabari compares the pattern to rusul from rasul. His own gloss gathers several qualities into one line: virgins who are ghanijat, of a playful charm, mutahabbibat ila azwajihinna, showing love to their husbands, and who are good in their companionship as wives, yuhsinna at-taba''ul. He adds that the people of interpretation said the same, and then lists them one by one, each with a chain.",
+            "bn": "উরুব বহুবচন। তাবারী, কুরতুবী ও বাগাভী তিনজনই এর একবচন বলেন আরূব। তাবারী গঠনটি মিলিয়ে দেখান রাসূল থেকে রুসুলের সঙ্গে। তাঁর নিজের ব্যাখ্যা একটি লাইনে কয়েকটি গুণ জড়ো করে। তারা কুমারী, গানিজাত, অর্থাৎ মিষ্টি চপলতায় ভরা। তারা মুতাহাব্বিবাত ইলা আযওয়াজিহিন্না, স্বামীর কাছে নিজের ভালোবাসা প্রকাশ করে। আর তারা ইউহসিন্নাত তাবাউল, স্ত্রী হিসেবে সঙ্গ দেয় সুন্দরভাবে। তিনি আরও বলেন, ব্যাখ্যাকারেরা এ কথাই বলেছেন। তারপর একে একে তাঁদের নাম আনেন, প্রত্যেকের সনদসহ।"
+          },
+          {
+            "en": "Al-Qurtubi offers a derivation. The word comes, he says, from a'raba, to make plain, so the 'arub is one who makes her love for her husband plain, through her manner, her charm and the beauty of her speech. He and at-Tabari both cite a line of the poet Labid as evidence that 'arub was an Arabic word for such a woman, and the line pairs it with ghayru fahisha, not coarse, not indecent. Tamim ibn Hadhlam, in at-Tabari, adds that the Arabs used to say of a woman who was a good companion to her husband: she is truly 'ariba.",
+            "bn": "কুরতুবী শব্দের উৎসও দেখান। তাঁর মতে এটি এসেছে আ'রাবা থেকে, যার অর্থ স্পষ্ট করা। তাই আরূব সেই নারী, যে স্বামীর প্রতি ভালোবাসা স্পষ্ট করে তোলে আচরণে, মাধুর্যে আর সুন্দর কথায়। আরূব যে আরবি ভাষায় এমন নারীরই নাম ছিল, তার প্রমাণে কুরতুবী ও তাবারী দুজনেই কবি লাবীদের একটি পঙক্তি উদ্ধৃত করেন। সে পঙক্তিতে শব্দটির পাশে বসেছে গাইরু ফাহিশা: রুচিহীন নয়, অশালীন নয়। তাবারীর বর্ণনায় তামীম ইবন হাযলাম আরও জানান, যে নারী স্বামীর সুন্দর সঙ্গী, আরবরা তার সম্পর্কে বলত: সে সত্যিই আরিবা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glosses From the First Generations",
+          "bn": "প্রথম প্রজন্মের ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Ibn 'Abbas is reported by several routes, and they do not all use the same word. In at-Tabari, one route has him say 'awashiq, women deeply in love; another, al-mutahabbibat al-mutawaddidat, those who show love and warmth to their husbands; another, through 'Ikrima, al-malaqa, one gentle and endearing in her manner; and another, through Sa'id ibn Jubayr, that al-'arab is longing. In Ibn Kathir, Sa'id ibn Jubayr's route gives women who make themselves beloved to their husbands. The words differ, but each describes affection turned towards the husband.",
+            "bn": "ইবন আব্বাস (রাঃ) থেকে কয়েকটি সূত্রে বর্ণনা এসেছে, আর সব সূত্রে শব্দ এক নয়। তাবারীতে একটি সূত্রে তিনি বলেন আওয়াশিক, গভীর ভালোবাসায় ডুবে থাকা নারী। আরেক সূত্রে আল-মুতাহাব্বিবাত আল-মুতাওয়াদ্দিদাত, যারা স্বামীর প্রতি ভালোবাসা আর উষ্ণতা প্রকাশ করে। ইকরিমার সূত্রে আল-মালাকা, যার আচরণ কোমল ও আদুরে। আর সাঈদ ইবন জুবায়রের সূত্রে: আল-আরাব মানে আকুলতা। ইবন কাসীরে সাঈদ ইবন জুবায়রের সূত্রে আছে, তারা নিজেদের স্বামীর প্রিয় করে তোলে। শব্দগুলো আলাদা, কিন্তু প্রতিটিই স্বামীর দিকে ফেরানো মমতার কথা বলে।"
+          },
+          {
+            "en": "The Successors widen the range. 'Ikrima, by more than one route, says ghanija, playful in charm. Abu Burayda, in at-Tabari, adds a note on dialect: shakila is the Meccan word for it and ghanija the Medinan. Tamim ibn Hadhlam says husn at-taba''ul, good companionship in marriage. Zayd ibn Aslam, through his son, says hasanat al-kalam, fine in speech, and al-Qurtubi reports the same from Zayd. Qatada says they love their husbands with an intense love. Al-Baghawi credits 'awashiq mutahabbibat to al-Hasan, Mujahid, Qatada and Sa'id ibn Jubayr.",
+            "bn": "তাবিঈদের হাতে পরিসর আরও বাড়ে। ইকরিমা একাধিক সূত্রে বলেন গানিজা, মিষ্টি চপলতায় ভরা। তাবারীতে আবু বুরায়দা ভাষার একটি তথ্য যোগ করেন: মক্কার ভাষায় একে বলে শাকিলা, মদীনার ভাষায় গানিজা। তামীম ইবন হাযলাম বলেন হুসনুত তাবাউল, দাম্পত্যে সুন্দর সঙ্গ। যায়দ ইবন আসলাম তাঁর ছেলের সূত্রে বলেন হাসানাতুল কালাম, যাদের কথা সুন্দর। কুরতুবীও যায়দ থেকে একই কথা আনেন। কাতাদা বলেন, তারা স্বামীকে ভালোবাসে গভীর ভালোবাসায়। বাগাভী আওয়াশিক মুতাহাব্বিবাত অর্থটির কৃতিত্ব দেন হাসান, মুজাহিদ, কাতাদা ও সাঈদ ইবন জুবায়রকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Love Returned in Kind",
+          "bn": "ভালোবাসার জবাব ভালোবাসা"
+        },
+        "p": [
+          {
+            "en": "One phrase in Ibn Kathir deserves attention. Through ad-Dahhak, Ibn 'Abbas says the 'urub are women devoted to their husbands, wa azwajuhunna lahunna 'ashiqun: and their husbands are devoted to them. Ibn Kathir then lists those who said the like: 'Abd Allah ibn Sarjis, Mujahid, 'Ikrima, Abu al-'Aliya, Yahya ibn Abi Kathir, 'Atiyya, al-Hasan, Qatada, ad-Dahhak and others. Ma'arif al-Qur'an, in English, keeps both sides as well: a woman who loves her husband passionately and is his beloved. The love the word names is a love that is answered.",
+            "bn": "ইবন কাসীরের একটি বাক্য আলাদা করে খেয়াল করার মতো। দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) বলেন, উরুব হলো স্বামীর প্রতি অনুরক্ত নারী, ওয়া আযওয়াজুহুন্না লাহুন্না আশিকূন: আর তাদের স্বামীরাও তাদের প্রতি অনুরক্ত। এরপর ইবন কাসীর জানান, আরও অনেকে এমন বলেছেন: আব্দুল্লাহ ইবন সারজিস, মুজাহিদ, ইকরিমা, আবুল আলিয়া, ইয়াহইয়া ইবন আবী কাসীর, আতিয়্যা, হাসান, কাতাদা, দাহহাক প্রমুখ। মাআরিফুল কুরআনের ইংরেজি পাঠেও দুই দিকই আছে: যে নারী স্বামীকে গভীরভাবে ভালোবাসে, আর নিজেও স্বামীর প্রিয়। শব্দটি যে ভালোবাসার নাম, সে ভালোবাসার জবাবও আসে।"
+          },
+          {
+            "en": "That shapes how the verse is heard. The qualities the glosses gather are speech, warmth, good companionship and longing, things that belong to a person and to a marriage. Labid's line, as both commentators cite it, ties the word to a woman who is not coarse. As-Sa'di says that when such a woman speaks, the listener wishes her words would not end, and that her refinement and bearing fill her husband's heart with joy and gladness. Read this way, 'urub honours the women it describes. It does not reduce them, and a reader should not either.",
+            "bn": "এতে আয়াতটি শোনার ভঙ্গিও বদলে যায়। ব্যাখ্যাগুলো যে গুণগুলো জড়ো করে, সেগুলো হলো কথা, উষ্ণতা, সুন্দর সঙ্গ আর আকুলতা। এগুলো একজন মানুষের গুণ, একটি দাম্পত্যের গুণ। লাবীদের পঙক্তি, দুই তাফসীরকার যেভাবে উদ্ধৃত করেন, শব্দটিকে জুড়ে দেয় রুচিশীল নারীর সঙ্গে। সা'দী বলেন, এমন নারী কথা বললে শ্রোতা চায় তার কথা যেন শেষ না হয়। আর তার শিষ্টতা ও চালচলন স্বামীর মন ভরিয়ে দেয় আনন্দে। এভাবে পড়লে উরুব শব্দটি যাদের বর্ণনা দেয়, তাদের সম্মানিত করে। তাদের ছোট করে না, পাঠকেরও ছোট করা উচিত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "'Urub or 'Urb",
+          "bn": "উরুব না উরব"
+        },
+        "p": [
+          {
+            "en": "The word is read two ways. At-Tabari reports that some readers of Medina and Kufa read 'urub, with a damma on both the 'ayn and the ra', and some of Kufa and Basra read 'urb, with the ra' lightened, which he calls the dialect of Tamim and Bakr. He prefers the fuller form, because the word is the plural of 'arub, and a singular on the pattern fa'ul, fa'il or fa'al takes the plural fu'ul, masculine or feminine alike. He still allows the lightened form as permissible.",
+            "bn": "শব্দটি দুইভাবে পড়া হয়। তাবারী জানান, মদীনা ও কূফার কিছু কারী পড়েন উরুব, আইন আর রা দুই অক্ষরেই পেশ দিয়ে। আর কূফা ও বসরার কিছু কারী পড়েন উরব, রা হালকা করে। এটিকে তিনি বলেন তামীম ও বকর গোত্রের ভাষা। তিনি পূর্ণ রূপটিকেই অগ্রাধিকার দেন। কারণ শব্দটি আরূবের বহুবচন, আর ফাঊল, ফাঈল বা ফাআল ওজনের একবচনের বহুবচন হয় ফুউল, পুংলিঙ্গ হোক বা স্ত্রীলিঙ্গ। তবু হালকা রূপটিকেও তিনি বৈধ বলে মেনে নেন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi name the readers. In al-Qurtubi, Hamza and Abu Bakr from 'Asim read 'urb, the rest read 'urub, and both are permissible in the plural of fa'ul. Al-Baghawi's list adds a third name, Isma'il from Nafi', beside Hamza and Abu Bakr. The meaning does not move with the vowel; it is the same plural either way, and the glosses above apply to both. The difference is one of pronunciation, carried by named readers, and all three commentators who discuss it record both forms without faulting either.",
+            "bn": "কুরতুবী ও বাগাভী কারীদের নামও বলেন। কুরতুবীর বর্ণনায় হামযা এবং আসিম থেকে আবু বকর পড়েন উরব, বাকিরা উরুব। তাঁর মতে ফাঊলের বহুবচনে দুটিই বৈধ। বাগাভী হামযা ও আবু বকরের পাশে তৃতীয় একটি নাম যোগ করেন: নাফি' থেকে ইসমাঈল। স্বরচিহ্ন বদলালেও অর্থ বদলায় না। দুই রূপেই একই বহুবচন, আর ওপরের ব্যাখ্যাগুলো দুটির বেলায়ই খাটে। পার্থক্যটা উচ্চারণের, যা নির্দিষ্ট কারীদের নামে বর্ণিত। যে তিন তাফসীরকার বিষয়টি আলোচনা করেন, তাঁরা তিনজনই দুই রূপ লিখে রাখেন, কোনোটিকে ভুল বলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Matched in Their Years",
+          "bn": "বয়সে সমান সমান"
+        },
+        "p": [
+          {
+            "en": "Atrab is the plural of tirb, and at-Tabari explains the pair like shabah and ashbah: they are level, of a single age. He reports Ibn 'Abbas, through 'Atiyya, saying al-mustawiyat, the level ones; Mujahid, amthal, alike; Qatada, one age; and ad-Dahhak the same as Ibn 'Abbas. Ibn Kathir has 'Atiyya say aqran, peers. Al-Qurtubi notes the usage: of women one says atrab, of men aqran. Ma'arif al-Qur'an gives the picture held inside the word: a tirb is one of equal age who played in the dust with a companion.",
+            "bn": "আতরাব হলো তিরবের বহুবচন। তাবারী জোড়াটিকে বোঝান শাবাহ ও আশবাহের মতো করে: তারা সমান, একই বয়সের। তিনি আতিয়্যার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: আল-মুস্তাওয়িয়াত, যারা সমান। মুজাহিদ বলেন আমসাল, একে অন্যের মতো। কাতাদা বলেন, একই বয়স। দাহহাকও ইবন আব্বাসের (রাঃ) মতোই বলেন। ইবন কাসীরে আতিয়্যা বলেন আকরান, সমকক্ষ। কুরতুবী শব্দের ব্যবহারটা দেখান: নারীদের বেলায় বলা হয় আতরাব, পুরুষদের বেলায় আকরান। মাআরিফুল কুরআন শব্দের ভেতরের ছবিটা দেখায়: তিরব সেই সমবয়সী, যে সঙ্গীর সঙ্গে ধুলোয় খেলে বড় হয়েছে।"
+          },
+          {
+            "en": "Several sources name an age. Ibn Kathir reports from ad-Dahhak, from Ibn 'Abbas, one age, thirty-three years, and al-Qurtubi and as-Sa'di give the same number; as-Sa'di calls it the furthest a person hopes for and the last of youth. Al-Qurtubi adds that the Arabs inclined to a woman past girlhood and short of old age. Ma'arif al-Qur'an, citing Mazhari, applies the matching to both: men and women will be made of equal ages, about thirty-three by some narrations. Al-Baghawi brings narrations on the age of the people of Paradise through his own chains, which this article could not confirm in a collection.",
+            "bn": "কয়েকটি উৎস বয়সটাও বলে দেয়। ইবন কাসীর দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: একই বয়স, তেত্রিশ বছর। কুরতুবী ও সা'দীও একই সংখ্যা বলেন। সা'দীর ভাষায় এটাই মানুষের কামনার শেষ সীমা, যৌবনের শেষ প্রান্ত। কুরতুবী আরও বলেন, আরবরা পছন্দ করত সেই নারীকে, যে কৈশোর পেরিয়েছে কিন্তু বার্ধক্যে পৌঁছায়নি। মাআরিফুল কুরআন মাযহারীর বরাতে এ সমতা দুই দলের বেলায়ই খাটায়: নারী-পুরুষ সবাইকে করা হবে সমবয়সী, কিছু বর্ণনা মতে তেত্রিশের কাছাকাছি। জান্নাতবাসীদের বয়স নিয়ে বাগাভী নিজের সনদে কিছু বর্ণনা আনেন। এ লেখা কোনো সংকলনে সেগুলো যাচাই করতে পারেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sisters Without Rivalry",
+          "bn": "রেষারেষিহীন বোনেরা"
+        },
+        "p": [
+          {
+            "en": "As-Suddi reads atrab another way, and Ibn Kathir and al-Qurtubi both report him: equal in character. In Ibn Kathir's wording, they are like sisters among themselves, with no hatred and no envy between them, not as co-wives were in this world, rivals at odds with one another. Al-Hasan and Muhammad, in a report Ibn Kathir takes from Ibn Abi Hatim, hold the two senses together: of level ages, they get on with one another and play together. Equal years and equal hearts sit side by side in these readings.",
+            "bn": "সুদ্দী আতরাবের আরেকটি অর্থ করেন, আর ইবন কাসীর ও কুরতুবী দুজনেই তা উদ্ধৃত করেন: স্বভাবে সমান। ইবন কাসীরের ভাষায়, তারা নিজেদের মধ্যে বোনের মতো। তাদের মধ্যে বিদ্বেষ নেই, হিংসা নেই। দুনিয়ায় সতিনেরা যেমন একে অন্যের প্রতিদ্বন্দ্বী আর শত্রু হয়ে থাকত, তেমন নয়। ইবন কাসীর ইবন আবী হাতিম থেকে হাসান ও মুহাম্মাদের একটি কথা আনেন, যেখানে দুই অর্থ একসঙ্গে আছে: বয়সে তারা সমান, তারা মিলেমিশে থাকে, একসঙ্গে খেলে। এসব ব্যাখ্যায় সমান বয়স আর মিলে যাওয়া মন পাশাপাশি বসে।"
+          },
+          {
+            "en": "As-Sa'di closes his comment in the same key. Their women, he says, are 'urub and atrab: in accord and at one with each other, content and pleasing, neither grieving nor bringing grief, the joy of souls and the delight of eyes. The contrast is drawn by the commentators themselves: the envy and rivalry that can wound a household here have no place there. Nothing here is a verdict on any wife or household living now; the sources speak of what the Garden removes, not of whom to blame.",
+            "bn": "সা'দীও তাঁর আলোচনা শেষ করেন একই সুরে। তাঁর ভাষায়, তাদের নারীরা উরুব ও আতরাব। তারা পরস্পরের সঙ্গে একমত, একে অন্যের আপন। তারা নিজেরা সন্তুষ্ট, অন্যকেও সন্তুষ্ট রাখে। নিজেরা দুঃখ পায় না, কাউকে দুঃখও দেয় না। তারা প্রাণের আনন্দ, চোখের শীতলতা। তুলনাটা তাফসীরকারেরা নিজেরাই টেনেছেন: যে হিংসা আর রেষারেষি এখানে একটা সংসারকে ক্ষতবিক্ষত করতে পারে, সেখানে তার কোনো জায়গা নেই। এটা আজকের কোনো স্ত্রী বা কোনো সংসারের বিরুদ্ধে রায় নয়। উৎসগুলো বলছে জান্নাত কী সরিয়ে দেয় তার কথা, কাকে দোষ দিতে হবে তার কথা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Placed Beside the Words",
+          "bn": "শব্দ দুটির পাশে রাখা বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "None of the commentators consulted attaches to these two words a hadith that could be confirmed as sound. Ibn Kathir places here one report from at-Tirmidhi about al-hur al-'in, found in his Jami' as number 2564. 'Ali narrates that the Messenger of Allah ﷺ said: \"In the Garden there is a gathering of al-hur al-'in, who raise voices the like of which creation has never heard. They say: We are the everlasting, who do not perish; we are the ones at ease, who know no hardship; we are the content, who are never displeased. Blessed is the one who is ours and whose we are.\"",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এই দুই শব্দের সঙ্গে এমন হাদিস জোড়ে না, যাকে সহীহ বলে নিশ্চিত করা গেছে। ইবন কাসীর এখানে তিরমিযী থেকে হূরুল ঈন সম্পর্কে একটি বর্ণনা রাখেন, যা তাঁর জামি গ্রন্থে ২৫৬৪ নম্বরে আছে। আলী (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"জান্নাতে হূরুল ঈনের একটি সমাবেশ আছে। সেখানে তারা এমন কণ্ঠে আওয়াজ তোলে, যার মতো কণ্ঠ সৃষ্টিজগৎ কখনো শোনেনি। তারা বলে: আমরা চিরস্থায়ী, আমাদের বিনাশ নেই। আমরা সুখে আছি, আমাদের কোনো কষ্ট নেই। আমরা সন্তুষ্ট, আমরা কখনো অসন্তুষ্ট হই না। সুসংবাদ তার জন্য, যে আমাদের আর আমরা যার।\""
+          },
+          {
+            "en": "At-Tirmidhi calls the report gharib, and Ibn Kathir passes on that verdict; it is given here with that grading and no more. Other reports could not be confirmed in a collection: Umm Salama's question about this verse, which at-Tabari carries with his own chain; Ibn Kathir's report from Abu Ya'la, from Anas, of the hur singing; and the saying, carried by Ibn Kathir from Ibn Abi Hatim and by al-Qurtubi, that 'urub means their speech is Arabic. They are named, not quoted. The old woman's report in ash-Shama'il ends by reciting this verse; it is set out with 56:35.",
+            "bn": "তিরমিযী বর্ণনাটিকে গরীব বলেছেন, ইবন কাসীরও সে রায় উদ্ধৃত করেন। এখানে বর্ণনাটি সেই মান নিয়েই দেওয়া হলো, তার বেশি নয়। আরও কিছু বর্ণনা কোনো সংকলনে যাচাই করা যায়নি। যেমন এ আয়াত নিয়ে উম্মে সালামা (রাঃ)-এর প্রশ্ন, যা তাবারী নিজের সনদে আনেন। আনাস (রাঃ) থেকে আবু ইয়া'লার সূত্রে হূরদের গানের বর্ণনা, যা ইবন কাসীর আনেন। আর ইবন কাসীর ইবন আবী হাতিম থেকে এবং কুরতুবী যে কথা আনেন: উরুব মানে তাদের ভাষা আরবি। এগুলোর শুধু নাম বলা হলো, উদ্ধৃতি দেওয়া হলো না। শামায়েলের বৃদ্ধার বর্ণনাটি শেষ হয় এ আয়াত তিলাওয়াত করে, তার আলোচনা ৫৬:৩৫ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Household Built on Warmth",
+          "bn": "উষ্ণতায় গড়া সংসার"
+        },
+        "p": [
+          {
+            "en": "The verse describes the Garden, and it keeps the description brief: two words, and then the sentence moves on to the companions of the right. The commentators, for all their range, keep returning to a few ideas: love shown, love returned, good companionship, gentle speech, equals without envy. These are qualities of character. Each of them is something believers can practise in a household now, between spouses and among all who share a roof. The promise is not a reason to neglect them here; it is a picture of where they lead.",
+            "bn": "আয়াতটি জান্নাতের বর্ণনা দেয়, আর বর্ণনাটা রাখে সংক্ষিপ্ত। মাত্র দুটি শব্দ, তারপরই বাক্য চলে যায় ডান দিকের লোকদের কথায়। তাফসীরকারদের ব্যাখ্যা যত বিস্তৃতই হোক, তাঁরা ঘুরেফিরে কয়েকটি কথায় ফেরেন। ভালোবাসা প্রকাশ করা, ভালোবাসার জবাব পাওয়া, সুন্দর সঙ্গ, কোমল কথা, হিংসাহীন সমতা। এগুলো চরিত্রের গুণ। প্রতিটিই ঈমানদারেরা আজ ঘরে চর্চা করতে পারেন, স্বামী-স্ত্রীর মধ্যে, আর এক ছাদের নিচে যারা থাকে তাদের সবার মধ্যে। প্রতিশ্রুতিটা এগুলো এখানে অবহেলা করার অজুহাত নয়। বরং এগুলো কোথায় নিয়ে যায়, তারই ছবি।"
+          },
+          {
+            "en": "Speaking of the women of Paradise also calls for the restraint the Qur'an shows. The verse is for the companions of the right, at 56:38. Ma'arif al-Qur'an reads its matching of ages as including men and women alike, and as-Sa'di's reading takes in the believing women of this world. On those readings, believing women are not onlookers to this promise but among those to whom it is made. A reader honours the verse by speaking of it with dignity, and by working, while there is time, to be among those for whom it is prepared.",
+            "bn": "জান্নাতের নারীদের কথা বলতে গেলে সেই সংযমও দরকার, যা কুরআন নিজে দেখায়। ৫৬:৩৮ আয়াত বলে, এ সবই ডান দিকের লোকদের জন্য। মাআরিফুল কুরআন বয়সের এ সমতায় নারী-পুরুষ দুজনকেই ধরে। আর সা'দীর ব্যাখ্যায় দুনিয়ার ঈমানদার নারীরাও এর মধ্যে আছেন। এই পাঠ অনুযায়ী ঈমানদার নারীরা এ প্রতিশ্রুতির দর্শক নন, বরং তাঁরাও তাদের মধ্যে, যাদের এ প্রতিশ্রুতি দেওয়া হয়েছে। পাঠক আয়াতটির সম্মান রাখেন মর্যাদার সঙ্গে এর কথা বলে। আর সময় থাকতেই চেষ্টা করেন, যেন তিনিও তাদের একজন হন, যাদের জন্য এসব প্রস্তুত।"
+          }
+        ]
+      }
+    ]
+  },
   "56:41": {
     "sections": [
       {

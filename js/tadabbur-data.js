@@ -28049,6 +28049,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let Allah's promise of what is lasting and pure draw you to work for it now, and aim for an inner life as clear as the likeness it uses.",
     "lessonBn": "যা স্থায়ী ও পবিত্র, আল্লাহর সেই প্রতিশ্রুতি যেন আপনাকে এখনই তার জন্য কাজে টেনে আনে, আর আয়াতের উপমার মতো স্বচ্ছ এক ভেতরজীবনের দিকে আপনি এগোতে থাকুন।"
+  },
+  "56:37": {
+    "reflectionEn": "Two words finish the portrait of the women of the Garden: 'urub and atrab. The first names a love that shows itself, in tender speech, in good companionship, in affection that is returned in kind. The second names equals, matched in age, and, some early readers add, matched in temper, with no envy or rivalry between them. What the verse dwells on here is not a body but a bond: love that is spoken, kindness that is shown, peace among those who share a home. All of it is promised to the companions of the right. Much of it a home can begin to practise now. Does my love show itself in my words? Do I live without envy towards those closest to me?",
+    "reflectionBn": "দুটি শব্দে জান্নাতের নারীদের ছবিটা পূর্ণ হয়: উরুব আর আতরাব। প্রথম শব্দটি এমন ভালোবাসার নাম, যা নিজেকে প্রকাশ করে। কোমল কথায়, সুন্দর সাহচর্যে, আর এমন মমতায়, যার জবাবও আসে মমতা দিয়েই। দ্বিতীয় শব্দটি সমানদের কথা বলে। বয়সে তারা সমান, আর প্রথম যুগের কোনো কোনো ব্যাখ্যাকারের মতে মেজাজেও। তাদের মধ্যে হিংসা নেই, রেষারেষি নেই। আয়াতটি এখানে দেহের কথা বলছে না, বলছে বন্ধনের কথা। ভালোবাসা মুখে আসে, সদয়তা চোখে পড়ে, একই ঘরের মানুষদের মাঝে শান্তি থাকে। এ সবই ডান দিকের লোকদের জন্য প্রতিশ্রুত। তবে এর অনেকটাই একটা ঘর আজ থেকেই চর্চা শুরু করতে পারে। আমার ভালোবাসা কি আমার কথায় প্রকাশ পায়? সবচেয়ে কাছের মানুষদের প্রতি আমি কি হিংসামুক্ত থাকি?",
+    "pointsEn": [
+      "When did I last put my care for my spouse or family into plain, kind words, rather than assume they already knew?",
+      "The verse praises love that is returned. In my home, does care flow both ways, or is one person carrying it alone?",
+      "Where does envy or rivalry still live between me and someone close to me, and what would it take to set it down?",
+      "When I speak of the promised Garden, do I keep the restraint and dignity with which the Qur'an itself speaks?",
+      "Which piece of good conduct towards the people I live with can I make a habit this week?"
+    ],
+    "pointsBn": [
+      "জীবনসঙ্গী বা পরিবারের প্রতি আমার মমতা শেষ কবে সহজ, সুন্দর কথায় মুখে এনেছি? নাকি ধরে নিয়েছি, তারা তো জানেই?",
+      "আয়াতটি এমন ভালোবাসার প্রশংসা করে, যার জবাবও আসে ভালোবাসায়। আমার ঘরে যত্ন কি দুদিক থেকেই আসে, নাকি একজনই সব বোঝা টানছে?",
+      "কাছের কোনো মানুষের সঙ্গে আমার হিংসা বা রেষারেষি এখনো কোথায় বেঁচে আছে? সেটা নামিয়ে রাখতে আমার কী করতে হবে?",
+      "প্রতিশ্রুত জান্নাতের কথা বলার সময় আমি কি সেই সংযম আর মর্যাদা বজায় রাখি, যে সংযমে কুরআন নিজে কথা বলে?",
+      "যাদের সঙ্গে আমি থাকি, তাদের প্রতি কোন সুন্দর আচরণটা এ সপ্তাহে অভ্যাসে পরিণত করতে পারি?"
+    ],
+    "lessonEn": "The Garden's companions are described by love that is shown, returned and free of envy; practise that love at home now, and speak of the promise with dignity.",
+    "lessonBn": "জান্নাতের সঙ্গিনীদের পরিচয় এমন ভালোবাসায়, যা প্রকাশ পায়, ফিরে আসে, আর হিংসামুক্ত থাকে। সেই ভালোবাসা আজ ঘরেই চর্চা করুন, আর এ প্রতিশ্রুতির কথা বলুন মর্যাদা নিয়ে।"
   }
 };
 
