@@ -1483,6 +1483,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:46": {
+    "sections": [
+      {
+        "h": {
+          "en": "Naming the Worst Punishment",
+          "bn": "নিকৃষ্ট শাস্তির পরিচয়"
+        },
+        "p": [
+          {
+            "en": "This verse finishes a sentence. 40:45 closed with wa-haqa bi-Ali Fir'awna su'u al-'adhab: and the worst of punishment enveloped the people of Fir'awn. 40:46 opens with a single word, an-naru, the Fire, and so names what that worst punishment is. Al-Baghawi parses an-nar as a substitute, a badal, for su', the worst just mentioned. Al-Qurtubi lists six ways to read the word's case, among them the same substitution.",
+            "bn": "এ আয়াত আগের বাক্যটাকেই পূর্ণ করে। ৪০:৪৫ শেষ হয়েছিল ওয়া হাকা বিআলি ফিরআউনা সূউল আযাব দিয়ে: আর নিকৃষ্ট শাস্তি ফেরাউনের লোকদের ঘিরে ফেলল। ৪০:৪৬ শুরু হয় একটিমাত্র শব্দে, আন-নারু, আগুন। সেই নিকৃষ্ট শাস্তি আসলে কী, শব্দটা তা-ই বলে দেয়। বাগাভীর ব্যাকরণে আন-নার হলো 'সূ' শব্দের বদল, অর্থাৎ ঠিক আগে উল্লেখ করা নিকৃষ্টতার জায়গায় বসানো নাম। কুরতুবী শব্দটির বিভক্তি বোঝার ছয়টি উপায় গুনে দেখান। তার মধ্যে এই বদলও আছে।"
+          },
+          {
+            "en": "At-Tabari frames the verse the same way: Allah is setting out the evil punishment that came down on these wretched ones of Fir'awn's people. Al-Muyassar gives the order of events in plain words. Drowning struck them first and they perished; then they are punished in their graves, where the Fire is, shown to it morning and evening until the time of the Reckoning. The verse before had told how Allah protected the believer of Fir'awn's family from their plots. This verse turns to the other side of that outcome.",
+            "bn": "তাবারীও আয়াতটিকে একইভাবে দেখেন: ফেরাউনের জাতির এই হতভাগাদের উপর যে নিকৃষ্ট শাস্তি নেমেছিল, আল্লাহ এখানে তার বিবরণ দিচ্ছেন। মুয়াসসার ঘটনার ক্রমটা সাদা কথায় বলে দেয়। প্রথমে তারা ডুবে মরল। তারপর কবরে তাদের আযাব চলছে, যেখানে আগুন আছে। হিসাবের সময় না আসা পর্যন্ত সকালে আর সন্ধ্যায় তাদের সেই আগুনের সামনে আনা হয়। আগের আয়াতে বলা হয়েছিল, ফেরাউনের পরিবারের সেই মুমিনকে আল্লাহ তাদের ষড়যন্ত্র থেকে বাঁচিয়েছেন। এ আয়াত সেই পরিণতির অন্য দিকটার দিকে তাকায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shown It at Dawn and Dusk",
+          "bn": "ভোরে আর সন্ধ্যায় হাজিরা"
+        },
+        "p": [
+          {
+            "en": "Yu'raduna 'alayha ghuduwwan wa-'ashiyya: they are exposed to it morning and evening. What does the exposure consist of? At-Tabari records one view, that they are shown their own places in the Fire as a torment to them, and brings Qatadah for it: they are shown it in the morning and in the evening, and it is said to them, O people of Fir'awn, these are your dwellings, as rebuke, vengeance and humiliation. Ibn Kathir quotes Qatadah in nearly the same words and adds a time limit: for as long as the world remains.",
+            "bn": "ইউ'রাদূনা আলাইহা গুদুওয়্যান ওয়া আশিয়্যা: সকালে ও সন্ধ্যায় তাদের আগুনের সামনে পেশ করা হয়। এই পেশ করার মানে কী? তাবারী একটি মত উল্লেখ করেন: আযাব হিসেবে তাদের দেখানো হয় জাহান্নামে তাদের নিজেদের ঠিকানা। এর পক্ষে তিনি কাতাদার কথা আনেন। কাতাদা বলেন, সকালে আর সন্ধ্যায় তাদের আগুনের সামনে আনা হয় আর বলা হয়, হে ফেরাউনের লোকেরা, এই তোমাদের ঠিকানা। এ কথা বলা হয় তিরস্কার, প্রতিশোধ আর লাঞ্ছনা হিসেবে। ইবন কাসীর কাতাদার কথা প্রায় একই ভাষায় আনেন, সঙ্গে সময়ের সীমাও জুড়ে দেন: যতদিন দুনিয়া টিকে থাকে।"
+          },
+          {
+            "en": "For how long, and for whom? Al-Baghawi reports from Qatadah, Muqatil, as-Suddi and al-Kalbi that the soul of every disbeliever is shown the Fire morning and evening for as long as the world lasts. At-Tabari has Mujahid gloss the two words as 'as long as the world was'. Ibn Kathir has Ibn Zayd: they are in it today, taken to it morning and evening, until the Hour comes. Al-Qurtubi gives al-Farra', with Mujahid, that the morning and evening meant are measured by those times in this world.",
+            "bn": "কতদিন ধরে, আর কাদের বেলায়? বাগাভী কাতাদা, মুকাতিল, সুদ্দী ও কালবী থেকে বর্ণনা করেন: যতদিন দুনিয়া থাকবে, প্রত্যেক কাফিরের রূহকে সকালে-সন্ধ্যায় আগুনের সামনে পেশ করা হয়। তাবারীর বর্ণনায় মুজাহিদ শব্দ দুটির ব্যাখ্যা দেন এভাবে: যতদিন দুনিয়া ছিল। ইবন কাসীর ইবন যায়দের কথা আনেন: তারা আজও তার মধ্যে আছে, সকালে-সন্ধ্যায় তাদের সেদিকে নেওয়া হয়, কিয়ামত না আসা পর্যন্ত। কুরতুবী ফাররা আর মুজাহিদের মত উল্লেখ করেন যে এখানকার সকাল-সন্ধ্যা মাপা হবে দুনিয়ার সকাল-সন্ধ্যার পরিমাণে।"
+          },
+          {
+            "en": "Muhammad ibn Ka'b al-Qurazi, in at-Tabari's report, draws a further point: in the Hereafter there is no night and no midday, only early morning and evening, and he sets this verse beside 19:62, where the people of Paradise have their provision there morning and evening. At-Tabari adds the grammar: ghuduww and 'ashi are verbal nouns made to serve as times. The two words carry a rhythm every listener knows from his own day, the going out and the coming home, now fastened to a place he has never seen.",
+            "bn": "তাবারীর বর্ণনায় মুহাম্মাদ ইবন কা'ব কুরাযী আরও একটি কথা বলেন। আখিরাতে রাত নেই, দুপুরও নেই, আছে কেবল ভোর আর সন্ধ্যা। এর প্রমাণে তিনি এ আয়াতকে ১৯:৬২-এর পাশে রাখেন, যেখানে জান্নাতবাসীদের রিজিক আসে সকালে আর সন্ধ্যায়। তাবারী ব্যাকরণের দিকটাও বলে দেন: গুদুওয়্যু আর আশিয়্যু আসলে ক্রিয়াবাচক বিশেষ্য, যাদের সময় বোঝাতে ব্যবহার করা হয়েছে। শব্দ দুটির মধ্যে এমন এক ছন্দ আছে, যা প্রত্যেক শ্রোতা নিজের দিন থেকেই চেনে: সকালে বেরোনো, সন্ধ্যায় ঘরে ফেরা। সেই চেনা ছন্দকেই এখানে জুড়ে দেওয়া হয়েছে এমন এক জায়গার সঙ্গে, যা সে কখনো দেখেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports of Black Birds",
+          "bn": "কালো পাখির বর্ণনাগুলো"
+        },
+        "p": [
+          {
+            "en": "Several early reports give the exposure a picture. At-Tabari narrates from al-Hudhayl ibn Shurahbil that the souls of Fir'awn's people are in the bellies of black birds that go out to the Fire in the morning and return in the evening, and that is their exposure. As-Suddi says the same, beginning with 'it has reached me'. Ibn Kathir, through Ibn Abi Hatim, gives it as a saying of 'Abdullah ibn Mas'ud; al-Baghawi and Ma'arif al-Qur'an also carry it from Ibn Mas'ud.",
+            "bn": "কয়েকটি প্রাচীন বর্ণনা এই পেশ করার একটা ছবি আঁকে। তাবারী হুযাইল ইবন শুরাহবীল থেকে বর্ণনা করেন: ফেরাউনের লোকদের রূহ কালো পাখির পেটের ভেতরে থাকে। পাখিগুলো সকালে আগুনের দিকে যায়, সন্ধ্যায় ফিরে আসে, আর এটাই তাদের পেশ হওয়া। সুদ্দীও একই কথা বলেন, শুরু করেন 'আমার কাছে খবর পৌঁছেছে' বলে। ইবন কাসীর ইবন আবী হাতিমের সূত্রে কথাটি আনেন আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর উক্তি হিসেবে। বাগাভী ও মাআরিফুল কুরআনও এটি ইবন মাসঊদ (রাঃ) থেকে উল্লেখ করে।"
+          },
+          {
+            "en": "At-Tabari and Ibn Kathir add a story told of al-Awza'i, asked about white birds flying west from the sea each morning and returning black each evening; he said they carry those souls, their feathers burned by day and regrown by night. None of these is given as a saying of the Prophet ﷺ; they stop at Ibn Mas'ud and those after him. At-Tabari's own verdict: the soundest view is that Allah has told us Fir'awn's people are shown the Fire morning and evening. It may be as al-Hudhayl said or as Qatadah said, but no report settles which is meant, so one holds to what the plain Qur'an indicates.",
+            "bn": "তাবারী ও ইবন কাসীর আওযাঈ সম্পর্কে একটি ঘটনাও আনেন। তাঁকে জিজ্ঞেস করা হয়েছিল সাদা পাখিদের নিয়ে, যারা প্রতি ভোরে সাগর থেকে উঠে পশ্চিমে উড়ে যায় আর সন্ধ্যায় কালো হয়ে ফেরে। তিনি বলেছিলেন, ওরাই সেই রূহগুলো বহন করে। দিনে পালক পুড়ে যায়, রাতে আবার গজায়। মনে রাখা দরকার, এর কোনোটিই নবী ﷺ-এর কথা হিসেবে আসেনি। বর্ণনাগুলো থেমে যায় ইবন মাসঊদ (রাঃ) আর তাঁর পরের মানুষদের কাছে। তাবারীর নিজের রায়: সবচেয়ে সঠিক কথা হলো, আল্লাহ জানিয়েছেন ফেরাউনের লোকদের সকালে-সন্ধ্যায় আগুনের সামনে পেশ করা হয়। তা হুযাইলের কথামতো হতে পারে, কাতাদার কথামতোও হতে পারে। কিন্তু কোনটা উদ্দেশ্য, তা প্রমাণ করার মতো কোনো বর্ণনা নেই। তাই কুরআনের বাহ্যিক অর্থ যতটুকু বলে, ততটুকুই ধরতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Times in One Verse",
+          "bn": "এক আয়াতে দুই সময়"
+        },
+        "p": [
+          {
+            "en": "The verse holds two times. First the exposure, morning and evening, running now. Then wa-yawma taqumu as-sa'a: and on the Day the Hour comes, the severest punishment. If the second begins on the Day of Resurrection, the first comes before it. Al-Qurtubi says the majority hold that this exposure is in the barzakh, the interval between death and resurrection. He names Mujahid, 'Ikrimah, Muqatil and Muhammad ibn Ka'b, each of whom said the verse points to punishment in the grave, and gives their reasoning: do you not see that He speaks of the Hereafter's punishment separately, with 'and on the Day the Hour comes'?",
+            "bn": "আয়াতের ভেতরে দুটি সময় আছে। প্রথমটি পেশ করার সময়, সকাল-সন্ধ্যায়, যা এখনো চলছে। তারপর ওয়া ইয়াওমা তাকূমুস সাআহ: আর যেদিন কিয়ামত সংঘটিত হবে, সেদিন সবচেয়ে কঠিন আযাব। দ্বিতীয়টি যদি শুরু হয় কিয়ামতের দিন, তাহলে প্রথমটি তার আগের ঘটনা। কুরতুবী বলেন, অধিকাংশ আলিমের মতে এই পেশ করা হয় বারযাখে, অর্থাৎ মৃত্যু আর পুনরুত্থানের মাঝের পর্বে। তিনি মুজাহিদ, ইকরিমা, মুকাতিল ও মুহাম্মাদ ইবন কা'বের নাম নেন। তাঁরা প্রত্যেকে বলেছেন, আয়াতটি কবরের আযাবের দিকে ইঙ্গিত করে। তাঁদের যুক্তিও তিনি উদ্ধৃত করেন: দেখো না, আখিরাতের আযাবের কথা তিনি আলাদা করে বলছেন, 'আর যেদিন কিয়ামত সংঘটিত হবে' বলে?"
+          },
+          {
+            "en": "The other commentators state the conclusion firmly. Ibn Kathir calls the verse a great foundation in the reasoning of Ahl as-Sunnah for the punishment of the barzakh in the graves. Al-Muyassar ends its short note: this verse is a basis for affirming the punishment of the grave. As-Sa'di opens the verse with 'and in the barzakh'. Ma'arif al-Qur'an calls the verse a proof of punishment in the graves, and says that hadith reports coming through many channels and the consensus of the Muslim community confirm it.",
+            "bn": "অন্য তাফসীরকারেরা উপসংহারটা জোর দিয়েই বলেন। ইবন কাসীরের ভাষায়, কবরে বারযাখের আযাব প্রমাণে আহলুস সুন্নাহর যুক্তির এ আয়াত এক বড় ভিত্তি। মুয়াসসার তার ছোট্ট ব্যাখ্যা শেষ করে এ কথায়: কবরের আযাব সাব্যস্ত করার ক্ষেত্রে এ আয়াত একটি মূল দলিল। সা'দী আয়াতটি শুরু করেন 'আর বারযাখে' কথাটি দিয়ে। মাআরিফুল কুরআন বলে, এ আয়াত কবরের আযাবের প্রমাণ। সঙ্গে এও বলে যে বহু সূত্রে আসা হাদীসের বর্ণনা আর মুসলিম উম্মাহর ইজমা এর সত্যতা নিশ্চিত করে।"
+          },
+          {
+            "en": "One grammarian read the order differently. Al-Qurtubi reports that al-Farra' took the verse as having its parts moved: admit Fir'awn's people to the severest punishment, the Fire to which they are exposed morning and evening. On that reading the exposure too belongs to the Hereafter. Al-Qurtubi answers that this goes against the majority, who keep the sentence in the order in which it comes. He also records a grammatical option: yawma may be tied to yu'raduna, so that they are exposed both in this world's time and on the Day the Hour comes.",
+            "bn": "একজন ব্যাকরণবিদ বাক্যের ক্রমটা অন্যভাবে পড়েছেন। কুরতুবী জানান, ফাররা আয়াতটিকে আগে-পিছে সরানো বাক্য হিসেবে ধরেছিলেন। তাঁর পাঠে অর্থ দাঁড়ায়: ফেরাউনের লোকদের সবচেয়ে কঠিন আযাবে ঢোকাও, সেই আগুনে, যার সামনে তাদের সকাল-সন্ধ্যায় পেশ করা হয়। এভাবে পড়লে পেশ করার ঘটনাটাও আখিরাতেরই অংশ হয়ে যায়। কুরতুবীর জবাব, এ পাঠ অধিকাংশের মতের বিরোধী, কারণ তাঁরা বাক্যটিকে তার নিজের ক্রমেই রাখেন। তিনি ব্যাকরণের আরেকটি সম্ভাবনাও উল্লেখ করেন। 'ইয়াওমা' শব্দটি 'ইউ'রাদূনা'-র সঙ্গেও যুক্ত হতে পারে। তখন অর্থ হবে, দুনিয়ার সময়েও তাদের পেশ করা হয়, কিয়ামতের দিনও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Makkan Verse Questioned",
+          "bn": "মক্কী আয়াত, একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir raises a question he takes seriously. The verse is Makkan, and it has been used as evidence for the punishment of the barzakh. Yet narrations he brings from 'A'ishah, may Allah be pleased with her, describe the Prophet ﷺ at first rejecting what a Jewish woman had told her about punishment in the grave, and later telling them it had been revealed to him that they would be tried in their graves, after which he sought refuge from that punishment. If the verse had already taught it, how could the matter have been unknown?",
+            "bn": "ইবন কাসীর একটি প্রশ্ন তোলেন, আর প্রশ্নটাকে তিনি হালকাভাবে নেন না। আয়াতটি মক্কী, অথচ একে বারযাখের আযাবের দলিল হিসেবে ধরা হয়েছে। এদিকে আয়েশা (রাঃ) থেকে তিনি যে বর্ণনাগুলো আনেন, তাতে দেখা যায়, কবরের আযাব নিয়ে এক ইহুদি মহিলা তাঁকে যা বলেছিল, নবী ﷺ প্রথমে তা নাকচ করেছিলেন। পরে তিনি জানালেন, তাঁর কাছে ওহী এসেছে যে কবরে তাদের পরীক্ষা করা হবে। এরপর থেকে তিনি সেই আযাব থেকে আল্লাহর আশ্রয় চাইতেন। আয়াত যদি আগেই এ শিক্ষা দিয়ে থাকে, তাহলে বিষয়টা অজানা থাকল কীভাবে?"
+          },
+          {
+            "en": "His answer separates what the verse says from what it does not. The verse shows souls exposed to the Fire morning and evening in the barzakh; it does not show that the pain reaches the bodies in the graves, since that may belong to the soul alone. That the body is affected, he says, is shown only by the Sunnah. He offers a second answer as well: the verse speaks of the punishment of disbelievers in the barzakh, and it does not follow from it that a believer is punished in his grave for a sin.",
+            "bn": "তাঁর জবাবে আয়াত যা বলে আর যা বলে না, দুটো আলাদা করা হয়েছে। আয়াত দেখায়, বারযাখে রূহগুলোকে সকাল-সন্ধ্যায় আগুনের সামনে পেশ করা হয়। কবরে থাকা দেহ পর্যন্ত সেই যন্ত্রণা পৌঁছায় কি না, আয়াত তা দেখায় না, কারণ বিষয়টা শুধু রূহের বেলায়ও হতে পারে। তাঁর মতে দেহের উপর এর প্রভাবের কথা জানা যায় কেবল সুন্নাহ থেকে। তিনি দ্বিতীয় একটি জবাবও দেন। আয়াত বলছে বারযাখে কাফিরদের আযাবের কথা। তা থেকে এটা আপনা আপনি আসে না যে কোনো মুমিনকে গুনাহের জন্য কবরে আযাব দেওয়া হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Soul Shown Its Seat",
+          "bn": "প্রত্যেককে তার ঠিকানা দেখানো"
+        },
+        "p": [
+          {
+            "en": "The commentators read here bring one Prophetic hadith under this verse: al-Qurtubi, al-Baghawi, Ma'arif al-Qur'an, and Ibn Kathir, who says it is in both Sahihs. In the wording of Sahih al-Bukhari (1379), 'Abdullah ibn 'Umar narrated that Allah's Messenger ﷺ said: \"When anyone of you dies, he is shown his place both in the morning and in the evening. If he is one of the people of Paradise; he is shown his place in it, and if he is from the people of the Hell-Fire; he is shown his place there-in. Then it is said to him, 'This is your place till Allah resurrect you on the Day of Resurrection.'\"",
+            "bn": "এখানে পড়া তাফসীরগুলো এ আয়াতের অধীনে নবী ﷺ-এর একটি হাদীস আনে: কুরতুবী, বাগাভী, মাআরিফুল কুরআন, আর ইবন কাসীর, যিনি বলেন হাদীসটি দুই সহীহ গ্রন্থেই আছে। সহীহ বুখারীর (১৩৭৯) ভাষায়, আবদুল্লাহ ইবন উমার (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"তোমাদের কেউ যখন মারা যায়, সকালে ও সন্ধ্যায় তার সামনে তার ঠিকানা পেশ করা হয়। সে জান্নাতবাসী হলে জান্নাতবাসীদের মধ্যে, আর জাহান্নামবাসী হলে জাহান্নামবাসীদের মধ্যে। তারপর তাকে বলা হয়, এ-ই তোমার ঠিকানা, যতক্ষণ না আল্লাহ কিয়ামতের দিন তোমাকে পুনরুত্থিত করেন।\""
+          },
+          {
+            "en": "Muslim records the same report from Ibn 'Umar (2866). The hadith uses the same pair of times as the verse, morning and evening, from the same roots. And it is general: it speaks of anyone of you, not of Fir'awn's people, and its wording does not mention this verse; the commentators place it here because it describes the same kind of showing. Al-Qurtubi also relays a version in which the Prophet ﷺ recited this verse after speaking of the disbeliever, but it is not used here, since its source was not confirmed for this article.",
+            "bn": "মুসলিমও ইবন উমার (রাঃ) থেকে একই বর্ণনা এনেছেন (২৮৬৬)। হাদীসটি আয়াতের মতোই সকাল আর সন্ধ্যা, এই দুই সময়ের কথা বলে, শব্দও একই ধাতুর। আবার হাদীসটি সাধারণ। এতে বলা হয়েছে 'তোমাদের কেউ', ফেরাউনের লোকদের কথা নয়, আর এর ভাষায় এ আয়াতের উল্লেখও নেই। তাফসীরকারেরা হাদীসটিকে এখানে আনেন কারণ এতেও একই ধরনের দেখানোর কথা আছে। কুরতুবী আরেকটি বর্ণনাও উল্লেখ করেন, যাতে কাফিরের কথা বলার পর নবী ﷺ এ আয়াত তিলাওয়াত করেন। কিন্তু এ আলোচনার জন্য এর উৎস যাচাই করা যায়নি, তাই সেটি এখানে নেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Admit Them, or Enter",
+          "bn": "ঢোকাও, নাকি ঢোকো"
+        },
+        "p": [
+          {
+            "en": "Then the second scene: adkhilu Ala Fir'awna ashadda al-'adhab, admit the people of Fir'awn to the severest punishment. The readers differ on one vowel. At-Tabari reports that most readers of the Hijaz and Iraq, apart from 'Asim and Abu 'Amr, read adkhilu, a command to make them enter, while 'Asim and Abu 'Amr read udkhulu, so that the people themselves are addressed: enter, O people of Fir'awn. Al-Baghawi's lists differ somewhat. He gives udkhulu to the reader Ibn Kathir, Ibn 'Amir, Abu 'Amr and Abu Bakr, and al-Qurtubi gives adkhilu to Nafi', the people of Madinah, Hamzah and al-Kisa'i.",
+            "bn": "তারপর দ্বিতীয় দৃশ্য: আদখিলূ আলা ফিরআউনা আশাদ্দাল আযাব, ফেরাউনের লোকদের সবচেয়ে কঠিন আযাবে ঢোকাও। এখানে কারীদের মধ্যে একটি স্বরচিহ্ন নিয়ে ভিন্নতা আছে। তাবারী জানান, আসিম ও আবূ আমর ছাড়া হিজায আর ইরাকের অধিকাংশ কারী পড়েছেন 'আদখিলূ', অর্থাৎ তাদের ঢোকানোর হুকুম। আর আসিম ও আবূ আমর পড়েছেন 'উদখুলূ'। তখন সম্বোধন সরাসরি তাদেরকেই: হে ফেরাউনের লোকেরা, ঢোকো। বাগাভীর তালিকা কিছুটা আলাদা। তিনি 'উদখুলূ' পাঠ দেন কারী ইবন কাসীর, ইবন আমির, আবূ আমর ও আবূ বকরকে। আর কুরতুবী 'আদখিলূ' পাঠ দেন নাফি', মদীনাবাসী, হামযা ও কিসাঈকে।"
+          },
+          {
+            "en": "At-Tabari judges that both are well-known readings, close in meaning, each read by a body of readers, so whoever reads either is right. On the first, Allah says to His angels: admit them. On the second, it is said to them: enter. Al-Baghawi explains the two the same way, and the Arabic text printed with this article follows the first. Either way the movement is the same. What was shown to them morning and evening is now entered, and the Day of the Hour is where the showing ends and the dwelling begins.",
+            "bn": "তাবারীর রায়, দুটিই পরিচিত পাঠ, অর্থে কাছাকাছি, আর প্রতিটি একদল কারী পড়েছেন। তাই যে কোনোটি পড়লেই পাঠক সঠিক। প্রথম পাঠে আল্লাহ তাঁর ফেরেশতাদের বলছেন: ওদের ঢোকাও। দ্বিতীয় পাঠে তাদেরকেই বলা হচ্ছে: ঢোকো। বাগাভীও দুটি পাঠ একইভাবে ব্যাখ্যা করেন। এ আলোচনার সঙ্গে ছাপা আরবি পাঠ প্রথমটি অনুসরণ করে। যেভাবেই পড়া হোক, গতিটা একই। সকাল-সন্ধ্যায় যা তাদের দেখানো হতো, এখন তার ভেতরে তাদের প্রবেশ। কিয়ামতের দিনে এসে দেখানো শেষ হয়, আর শুরু হয় সেখানে থাকা।"
+          },
+          {
+            "en": "What is ashadd al-'adhab, the severest punishment? Ibn Kathir explains it as the most painful of it and the greatest in its exemplary force, when their souls and bodies are gathered together in the Fire. Al-Baghawi reports from Ibn 'Abbas: kinds of punishment other than the one they had suffered since they were drowned. Al-Qurtubi defines the people of Fir'awn as those who were on his religion and his way, and draws an inference from it: if those who followed him are in the severest punishment, he himself is nearer to it.",
+            "bn": "আশাদ্দুল আযাব, অর্থাৎ সবচেয়ে কঠিন আযাব বলতে কী বোঝায়? ইবন কাসীরের ব্যাখ্যায়, যা সবচেয়ে যন্ত্রণাদায়ক আর দৃষ্টান্তমূলক শাস্তি হিসেবে সবচেয়ে বড়। তখন তাদের রূহ আর দেহ একসঙ্গে আগুনে মিলিত হবে। বাগাভী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: ডুবে মরার পর থেকে যে আযাব তারা ভোগ করছিল, তা ছাড়া আরও নানা ধরনের আযাব। কুরতুবী 'আলে ফিরআউন' বলতে বোঝান তাদের, যারা তার ধর্ম আর পথের উপর ছিল। সেখান থেকে তিনি একটি সিদ্ধান্তও টানেন: তার অনুসারীরাই যদি সবচেয়ে কঠিন আযাবে থাকে, তবে সে নিজে তার আরও কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Which Seat Is Mine",
+          "bn": "আমার ঠিকানা কোনটি"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: the people of a ruler long past, who rejected a messenger, plotted against a believer and were drowned, and a punishment Allah Himself appointed and announced. It licenses nothing against any living person or community, and it names no one today as Fir'awn's people. No reader is given the right to say who is being shown the Fire. The hadith placed under this verse points the other way, towards the reader: it is about anyone of you.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: বহু আগের এক শাসকের লোকজন, যারা একজন রাসূলকে প্রত্যাখ্যান করেছিল, এক মুমিনের বিরুদ্ধে ষড়যন্ত্র করেছিল এবং ডুবে মরেছিল। আর সেই শাস্তি, যা আল্লাহ নিজেই নির্ধারণ করেছেন ও ঘোষণা করেছেন। আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে আয়াতটি কিছুরই অনুমতি দেয় না। আজকের কাউকে ফেরাউনের লোক বলেও চিহ্নিত করে না। কাকে আগুনের সামনে পেশ করা হচ্ছে, তা বলার অধিকার কোনো পাঠকের নেই। এ আয়াতের অধীনে আনা হাদীসটি বরং উল্টো দিকে, পাঠকের নিজের দিকে আঙুল তোলে: কথাটা 'তোমাদের যে কারও' সম্পর্কে।"
+          },
+          {
+            "en": "That is where the verse leaves its listener. The believer of 40:44 told his people that they would remember what he was saying to them; this verse shows them at the hours when the living go out to work and come home again. The hadith tells each person that a place is already waiting and will be shown. The question for the reader is not who else is in the Fire. It is which seat his own mornings and evenings are preparing, while there is still time to change what will be shown.",
+            "bn": "আয়াতটি শ্রোতাকে এখানে এসেই দাঁড় করায়। ৪০:৪৪-এ সেই মুমিন তাঁর জাতিকে বলেছিলেন, আমি যা বলছি তা তোমরা একদিন মনে করবে। এ আয়াত তাদের দেখায় ঠিক সেই সময়গুলোতে, যখন জীবিতরা কাজে বেরোয় আর ঘরে ফেরে। হাদীস প্রত্যেককে জানিয়ে দেয়, একটি ঠিকানা আগে থেকেই অপেক্ষা করছে, আর তা দেখানো হবে। তাই পাঠকের প্রশ্ন এটা নয় যে আর কে কে আগুনে আছে। প্রশ্ন হলো, তার নিজের সকাল আর সন্ধ্যাগুলো কোন ঠিকানা তৈরি করছে। যা দেখানো হবে, তা বদলানোর সময় এখনো হাতে আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "40:51": {
     "sections": [
       {

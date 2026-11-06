@@ -26389,6 +26389,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Day is called near so that you prepare while you still can: no close friend or accepted intercessor will stand for those who did wrong.",
     "lessonBn": "দিনটিকে কাছে বলা হয়েছে, যাতে সময় থাকতেই প্রস্তুতি নেন। অন্যায়কারীদের পক্ষে সেদিন কোনো আপনজন বা কবুল হওয়া সুপারিশকারী দাঁড়াবে না।"
+  },
+  "40:46": {
+    "reflectionEn": "The story of the believer at Fir'awn's court ends in two directions. Allah protected him from what they plotted, and the worst punishment closed around those who plotted. Then this verse says what that punishment is now: the Fire, shown to them morning and evening, day after day, until the Hour comes and the command is given to admit them to the severest punishment. Between death and the Day there is no empty waiting room. The verse speaks of Fir'awn's people, and it licenses nothing against anyone alive. But it makes me ask what my own mornings and evenings are spent on, and what place will be shown to me when they are over.",
+    "reflectionBn": "ফেরাউনের দরবারের সেই মুমিন মানুষটির কাহিনি দুই দিকে গিয়ে শেষ হয়। ষড়যন্ত্রের অনিষ্ট থেকে আল্লাহ তাঁকে বাঁচিয়ে দিলেন, আর ষড়যন্ত্রকারীদের ঘিরে ফেলল নিকৃষ্ট শাস্তি। এ আয়াত জানিয়ে দেয়, সেই শাস্তি এখন কেমন: আগুন, যার সামনে তাদের হাজির করা হয় সকালে আর সন্ধ্যায়, দিনের পর দিন। তারপর কিয়ামত এলে হুকুম হবে, তাদের সবচেয়ে কঠিন আযাবে ঢুকিয়ে দাও। মৃত্যু আর কিয়ামতের মাঝের সময়টা তাহলে ফাঁকা অপেক্ষার ঘর নয়। আয়াতটি ফেরাউনের লোকদের কথা বলে, আজকের কোনো মানুষের বিরুদ্ধে কিছুরই অনুমতি দেয় না। তবু প্রশ্নটা আমার দিকেই ফেরে: আমার সকাল-সন্ধ্যাগুলো কিসে কাটছে, আর সেগুলো ফুরোলে আমাকে কোন ঠিকানা দেখানো হবে?",
+    "pointsEn": [
+      "When I picture the time between death and the Day, do I imagine a blank, or do I take this verse's morning and evening seriously?",
+      "What do my own mornings and evenings usually begin and end with?",
+      "Fir'awn's people followed a ruler into his ruin. Whom do I follow without asking where he is taking me?",
+      "The believer in the verse before was protected while those around him fell. What have I handed to Allah as he did, and what am I still trying to guard alone?",
+      "Do I read verses of punishment as news about other people, or as a warning addressed to me?"
+    ],
+    "pointsBn": [
+      "মৃত্যু আর কিয়ামতের মাঝের সময়টার কথা ভাবলে আমি কি শুধু এক শূন্যতা কল্পনা করি, নাকি এ আয়াতের সকাল-সন্ধ্যার কথাটা গুরুত্ব দিয়ে নিই?",
+      "আমার সকালগুলো সাধারণত কী দিয়ে শুরু হয়, আর সন্ধ্যাগুলো কী দিয়ে শেষ হয়?",
+      "ফেরাউনের লোকেরা এক শাসকের পেছনে চলে তার সঙ্গেই ধ্বংস হয়েছে। আমি কার পেছনে চলছি, সে আমাকে কোথায় নিয়ে যাচ্ছে তা না জেনেই?",
+      "আগের আয়াতের মুমিন মানুষটি রক্ষা পেয়েছিলেন, আর চারপাশের লোকেরা ধ্বংস হয়েছিল। তাঁর মতো কোন বিষয়টা আমি আল্লাহর হাতে সঁপে দিয়েছি, আর কোনটা এখনো একা আগলে রাখতে চাইছি?",
+      "শাস্তির আয়াতগুলো কি আমি অন্যদের খবর হিসেবে পড়ি, নাকি নিজের জন্য সতর্কবাণী হিসেবে?"
+    ],
+    "lessonEn": "What follows death is not empty waiting. Spend your mornings and evenings on what you would want shown to you in the place prepared for you.",
+    "lessonBn": "মৃত্যুর পরের সময়টা ফাঁকা অপেক্ষা নয়। সকাল-সন্ধ্যাগুলো এমন কাজে কাটান, যার ফল আপনার জন্য প্রস্তুত ঠিকানায় দেখতে আপনি চাইবেন।"
   }
 };
 
