@@ -29127,6 +29127,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The earth that carries your home today will hold your body tomorrow; both are His favour, so walk on it grateful and ready for the day it gives you back.",
     "lessonBn": "যে মাটি আজ আপনার ঘর বয়ে বেড়ায়, কাল সে-ই আপনার দেহ ধরে রাখবে। দুটোই আল্লাহর অনুগ্রহ। তাই কৃতজ্ঞ হয়ে তার উপর হাঁটুন, আর সেদিনের জন্য প্রস্তুত থাকুন যেদিন সে আপনাকে ফিরিয়ে দেবে।"
+  },
+  "77:16": {
+    "reflectionEn": "Did We not destroy the former peoples? The question waits for no answer, because the answer is already in the landscape: ruined towns, silent wells, names that live on only in stories. The next lines say it plainly. The later ones are made to follow them, and this is how Allah deals with the criminals. What joins the first to the last is not a bloodline or a century but a choice, the choice to deny what their messengers brought. So I cannot read this as history about other people. When I hear of a fallen nation, do I look for what they did, and then look for the same thing in myself? The verse names no living people, and it gives me no list to fill.",
+    "reflectionBn": "আমি কি আগেকার লোকদের ধ্বংস করিনি? প্রশ্নটা উত্তরের অপেক্ষা করে না। উত্তর তো পড়ে আছে মাটির ওপরেই: ভাঙা জনপদ, নিস্তব্ধ কুয়া, এমন সব নাম যা এখন কেবল গল্পে বেঁচে আছে। পরের আয়াতগুলো কথাটা খুলেই বলে। পরবর্তীদেরও তাদের পেছনে পাঠানো হয়, আর অপরাধীদের সঙ্গে আল্লাহ এমনই করেন। প্রথমদের সঙ্গে শেষদের যা জুড়ে দেয় তা বংশ নয়, শতাব্দীও নয়। তা একটা সিদ্ধান্ত: রাসূলরা যা এনেছিলেন তা মিথ্যা বলে উড়িয়ে দেওয়া। তাই একে অন্যদের ইতিহাস ভেবে পড়ে যাওয়ার উপায় আমার নেই। কোনো জাতির পতনের কথা শুনলে আমি কি খুঁজি তারা কী করেছিল, তারপর সেই একই জিনিস নিজের ভেতরে খুঁজি? আয়াতটি আজকের কোনো মানুষের নাম নেয় না, আর আমার হাতে ভরাট করার মতো কোনো তালিকাও তুলে দেয় না।",
+    "pointsEn": [
+      "When I hear the story of a destroyed people, do I treat it as a tale about others or as a question put to me?",
+      "What links the later ones to the former here is a shared denial, not a shared date; which of their habits do I share?",
+      "Is there a warning I have already watched come true for someone else, and still not acted on?",
+      "Do I ever use verses like these to point at a nation or a group I dislike, instead of at my own deeds?",
+      "If a pattern runs through history, what pattern do my own days follow, and where does it lead?"
+    ],
+    "pointsBn": [
+      "কোনো ধ্বংস হয়ে যাওয়া জাতির কাহিনি শুনলে আমি কি একে অন্যদের গল্প ভাবি, নাকি আমার কাছে রাখা একটা প্রশ্ন?",
+      "এখানে পরবর্তীদের আগেরদের সঙ্গে জুড়েছে একই অস্বীকার, একই যুগ নয়। তাদের কোন অভ্যাসটা আমার মধ্যেও আছে?",
+      "এমন কোনো সতর্কবার্তা কি আছে, যা অন্যের জীবনে সত্য হতে আমি নিজের চোখে দেখেছি, তবু কিছুই বদলাইনি?",
+      "এ ধরনের আয়াত দিয়ে আমি কি কখনো নিজের আমলের দিকে না তাকিয়ে অপছন্দের কোনো জাতি বা দলের দিকে আঙুল তুলি?",
+      "ইতিহাসে যদি একটা নিয়ম চলতে থাকে, তবে আমার নিজের দিনগুলো কোন নিয়মে চলছে, আর তা কোথায় গিয়ে থামবে?"
+    ],
+    "lessonEn": "The ruin of earlier deniers is a pattern Allah states, not a story about others; read it as a warning to yourself, never as a verdict on any living people.",
+    "lessonBn": "আগেকার অস্বীকারকারীদের ধ্বংস আল্লাহর বলে দেওয়া এক নিয়ম, শুধু অন্যদের গল্প নয়। একে নিজের জন্য সতর্কবার্তা হিসেবে পড়ুন, আজকের কোনো মানুষের ওপর রায় হিসেবে কখনো নয়।"
   }
 };
 

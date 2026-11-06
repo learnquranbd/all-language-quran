@@ -447,6 +447,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "77:16": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words Over the Ruins",
+          "bn": "ধ্বংসস্তূপের ওপর তিন শব্দ"
+        },
+        "p": [
+          {
+            "en": "A-lam nuhliki al-awwalin: did We not destroy the former peoples? Three Arabic words, and the surah changes its approach. Until this point it has described the Day itself: the stars put out, the mountains blown away, the messengers given their appointed time, and then the first woe in 77:15 on those who deny it. Here it turns to evidence the listener can check for himself. The verse asks about something that has already happened, so that what is promised can be weighed against what is on record.",
+            "bn": "আলাম নুহলিকিল আওয়ালীন: আমি কি আগেকার লোকদের ধ্বংস করিনি? আরবিতে মাত্র তিনটি শব্দ, আর এতেই সূরার ধরন বদলে যায়। এতক্ষণ সূরা সেই দিনটির ছবি আঁকছিল। তারকারা নিভে যাবে, পাহাড় উড়ে যাবে, রাসূলদের জন্য নির্ধারিত সময় এসে পড়বে। তারপর ৭৭:১৫ আয়াতে প্রথমবার এল অস্বীকারকারীদের জন্য দুর্ভোগের ঘোষণা। এখানে এসে সূরা এমন প্রমাণের দিকে ফেরে, যা শ্রোতা নিজেই যাচাই করে দেখতে পারে। প্রশ্নটা এমন এক বিষয়ে, যা ঘটে গেছে। যাতে ভবিষ্যতের প্রতিশ্রুতিকে মেলানো যায় অতীতের নথির সঙ্গে।"
+          },
+          {
+            "en": "The form is a question that expects the answer yes. As-Sa'di recasts it in one line: a-ma ahlakna al-mukadhdhibin as-sabiqin, did We not destroy the earlier deniers? His paraphrase adds a word the verse leaves unspoken. The former peoples are not simply those who lived earlier; they are the earlier deniers. Al-Baghawi says the same from another side: the past nations, destroyed with punishment in this world when they denied their messengers. The destruction he describes is worldly, and its cause is named.",
+            "bn": "প্রশ্নটা এমন, যার উত্তর একটাই: হ্যাঁ। সা'দী একে এক লাইনে নতুন করে বলেন: আমা আহলাকনাল মুকাযযিবীনাস সাবিকীন, আমি কি আগেকার মিথ্যারোপকারীদের ধ্বংস করিনি? আয়াতে যে শব্দটা উহ্য ছিল, তাঁর ব্যাখ্যায় সেটা স্পষ্ট হয়ে ওঠে। আগেকার লোক মানে শুধু আগে যারা জন্মেছিল তারা নয়। তারা আগেকার অস্বীকারকারী। বাগাভী অন্য দিক থেকে একই কথা বলেন: অতীতের জাতিগুলো, যারা নিজেদের রাসূলদের মিথ্যা বলেছিল, তখন দুনিয়াতেই শাস্তি দিয়ে তাদের ধ্বংস করা হয়। তিনি যে ধ্বংসের কথা বলেন তা এই দুনিয়ার, আর তার কারণও তিনি নাম ধরে বলে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Nations Named First",
+          "bn": "প্রথমে যাদের নাম আসে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives them names. In his paraphrase Allah says: did We not destroy the past nations who denied My messengers and rejected My signs, the people of Nuh (AS), 'Ad and Thamud? The Muyassar gives the same three and the same cause: the earlier ones among the past nations, destroyed for denying the messengers. Ibn Kathir, citing Ibn Jarir, who is at-Tabari, keeps to the description without names: those who denied the messengers and opposed what the messengers brought them.",
+            "bn": "তাবারী তাদের নাম বলে দেন। তাঁর ভাষ্যে আল্লাহ বলছেন: আমি কি সেই অতীত জাতিগুলোকে ধ্বংস করিনি, যারা আমার রাসূলদের মিথ্যা বলেছিল আর আমার আয়াতগুলো অস্বীকার করেছিল? নূহ (আঃ)-এর কওম, আদ আর সামূদ। মুয়াসসার একই তিনটি নাম দেয়, কারণও একই: অতীত জাতিগুলোর মধ্যে আগেকার যারা, রাসূলদের মিথ্যারোপের কারণে যাদের ধ্বংস করা হয়েছে। ইবন কাসীর ইবন জারীরের বরাত দেন, অর্থাৎ তাবারীর। তবে তিনি নাম না নিয়ে শুধু পরিচয়টা দেন: যারা রাসূলদের মিথ্যা বলেছিল, আর রাসূলরা যা নিয়ে এসেছিলেন তার বিরোধিতা করেছিল।"
+          },
+          {
+            "en": "Two sources draw the circle differently. Ma'arif al-Qur'an lists 'Ad, Thamud, the people of Lut (AS) and Pharaoh, destroyed for their obstinacy. Al-Qurtubi draws it widest of all: the verse tells of the destruction of the disbelievers among the past nations from the time of Adam (AS) to Muhammad ﷺ. The core of the list is shared, and its edges differ. What none of them does is define the former peoples by date alone. Every gloss names them by what they did with their messengers.",
+            "bn": "দুটি উৎস বৃত্তটা একটু অন্যভাবে আঁকে। মাআরিফুল কুরআনের তালিকায় আছে আদ, সামূদ, লূত (আঃ)-এর কওম আর ফিরআউন, যারা নিজেদের হঠকারিতার জন্য ধ্বংস হয়েছিল। কুরতুবী বৃত্তটা টানেন সবচেয়ে বড় করে। তাঁর মতে আয়াতটি আদম (আঃ)-এর সময় থেকে মুহাম্মাদ ﷺ পর্যন্ত অতীত জাতিগুলোর কাফিরদের ধ্বংসের খবর দেয়। তালিকার মূল অংশ সবার এক, পার্থক্য কেবল কিনারায়। তবে কেউই আগেকার লোকদের শুধু সময় দিয়ে চেনান না। প্রত্যেকের ব্যাখ্যায় তাদের পরিচয় তারা নিজেদের রাসূলদের সঙ্গে কী আচরণ করেছিল তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Later Ones Named Twice",
+          "bn": "পরবর্তীদের দুই পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Then 77:17: thumma nutbi'uhum al-akhirin, then We make the later ones follow them. At-Tabari reads the later ones as later nations of the past: those who took the same road of disbelief in Allah and His messenger, such as the people of Ibrahim (AS), the people of Lut (AS) and the people of Madyan, so that Allah destroys them as He destroyed the former ones before them. In his reading both groups lie in history, and the second simply comes after the first in time.",
+            "bn": "তারপর ৭৭:১৭: সুম্মা নুতবিউহুমুল আখিরীন, অতঃপর পরবর্তীদেরও আমি তাদের পেছনে পাঠাব। তাবারীর কাছে এই পরবর্তীরাও অতীতেরই জাতি। আল্লাহ ও তাঁর রাসূলকে অস্বীকারের সেই একই পথে যারা হেঁটেছিল, যেমন ইবরাহীম (আঃ)-এর কওম, লূত (আঃ)-এর কওম আর মাদইয়ানবাসী। আগেরদের যেভাবে ধ্বংস করা হয়েছিল, এদেরও সেভাবেই ধ্বংস করা হয়। তাঁর পাঠে দুটি দলই ইতিহাসের মানুষ। দ্বিতীয় দলটা প্রথম দলের পরে এসেছে, পার্থক্য শুধু এটুকু।"
+          },
+          {
+            "en": "Al-Baghawi reads the same words differently. The later ones are those who walk the former peoples' road in disbelief and denial, and he names them: the disbelievers of Makka, for their denial of Muhammad ﷺ. The Muyassar, glossing 77:17 and 77:18 together, says the later ones who were like them in denial and disobedience will be joined to them, and it identifies the criminals of 77:18 as the disbelievers of Makka who denied the Messenger ﷺ. On this reading the later ones are the Prophet's own first audience.",
+            "bn": "বাগাভী একই শব্দ পড়েন অন্যভাবে। তাঁর মতে পরবর্তীরা হলো তারা, যারা কুফর আর মিথ্যারোপে আগেরদের পথ ধরেছে। তিনি নামও বলে দেন: মক্কার কাফিররা, যারা মুহাম্মাদ ﷺ-কে মিথ্যা বলেছিল। মুয়াসসার ৭৭:১৭ ও ৭৭:১৮ একসঙ্গে ব্যাখ্যা করে। সেখানে বলা হয়েছে, মিথ্যারোপ আর নাফরমানিতে যারা আগেরদের মতো ছিল, তাদেরও তাদের সঙ্গে মিলিয়ে দেওয়া হবে। আর ৭৭:১৮-এর অপরাধীদের মুয়াসসার চিহ্নিত করে মক্কার সেই কাফিরদের হিসেবে, যারা রাসূল ﷺ-কে মিথ্যা বলেছিল। এই পাঠে পরবর্তীরা নবী ﷺ-এর প্রথম শ্রোতারাই।"
+          },
+          {
+            "en": "Two sources keep the description open. Ibn Kathir says only: those who resemble them. As-Sa'di says: then We make them follow by destroying whoever denied among the later ones. So the difference is real, and both sides stand: at-Tabari names past nations, while al-Baghawi and the Muyassar name the disbelievers of Makka. One small sign of how fluid the grouping is: the people of Lut (AS), whom Ma'arif al-Qur'an counts among the former peoples, appear in at-Tabari's list of the later ones.",
+            "bn": "দুটি উৎস পরিচয়টা খোলা রাখে। ইবন কাসীর শুধু বলেন: যারা তাদের মতো। সা'দী বলেন: পরবর্তীদের মধ্যে যারা মিথ্যারোপ করেছে, তাদের ধ্বংস করে আমি আগেরদের পেছনে জুড়ে দিই। তাহলে মতভেদটা সত্যিকারের, আর দুই পক্ষই টিকে থাকে। তাবারী নাম দেন অতীতের জাতিগুলোর, বাগাভী ও মুয়াসসার নাম দেন মক্কার কাফিরদের। দলগুলোর সীমা যে কত নমনীয়, তার একটা ছোট নমুনাও আছে। লূত (আঃ)-এর কওমকে মাআরিফুল কুরআন রেখেছে আগেরদের তালিকায়, আর তাবারী রেখেছেন পরবর্তীদের তালিকায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Vowel, Two Timelines",
+          "bn": "এক স্বরচিহ্নে দুই কাল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records how the verb of 77:17 was read. The general body of readers read thumma nutbi'uhum with a final u, the raf', as a new sentence: then We make them follow. Al-A'raj read it with the final vowel dropped, the jazm, joined to nuhlik inside the question, as in the phrase a-lam tazurni thumma ukrimka, did you not visit me and then I honour you. On that reading, al-Qurtubi explains, the meaning is that Allah destroyed people after people, at the different times of the messengers.",
+            "bn": "৭৭:১৭-এর ক্রিয়াটি কীভাবে পড়া হয়েছে, কুরতুবী তা লিখে রেখেছেন। অধিকাংশ কারী পড়েছেন সুম্মা নুতবিউহুম, শেষে পেশ দিয়ে, যাকে রাফ' বলে। তখন এটি নতুন বাক্য: তারপর আমি তাদের পেছনে পাঠাই। আ'রাজ পড়েছেন শেষের স্বর ফেলে দিয়ে, যাকে জযম বলে। তখন ক্রিয়াটি প্রশ্নের ভেতরে নুহলিক-এর সঙ্গে যুক্ত হয়ে যায়। যেমন আরবিতে বলা হয়: আলাম তাযুরনী সুম্মা উকরিমকা, তুমি কি আমার কাছে আসোনি, তারপর আমি তোমাকে সম্মান করিনি? কুরতুবী বলেন, এই পাঠে অর্থ দাঁড়ায়: রাসূলদের ভিন্ন ভিন্ন সময়ে আল্লাহ এক কওমের পর আরেক কওমকে ধ্বংস করেছেন।"
+          },
+          {
+            "en": "He adds two further notes. The silent final letter in al-A'raj's reading may instead be only a lightening of nutbi'uhum, since several short vowels follow each other, and that lightening is also reported from al-A'raj himself. And in the reading of Ibn Mas'ud (RA) the verse runs thumma sa-nutbi'uhum, with the particle sa- that marks the future: then We shall make them follow. Al-Qurtubi reports these readings and leaves them there, beyond calling the raf' the reading of the general body.",
+            "bn": "এরপর তিনি আরও দুটি কথা যোগ করেন। আ'রাজের পাঠে শেষ অক্ষরের সাকিন হয়তো জযমই নয়। পরপর কয়েকটি স্বর আসায় নুতবিউহুম উচ্চারণ হালকা করা হয়েছে মাত্র, আর এই হালকা উচ্চারণের বর্ণনাও আ'রাজ থেকেই এসেছে। আর ইবন মাসউদ (রাঃ)-এর কিরাআতে আয়াতটি সুম্মা সানুতবিউহুম। এখানে সা অব্যয়টি ভবিষ্যৎ বোঝায়: তারপর আমি অচিরেই তাদের পেছনে পাঠাব। কুরতুবী এই কিরাআতগুলো শুধু উল্লেখ করেন। রাফ'কে অধিকাংশের পাঠ বলা ছাড়া তিনি আর কোনো বিচারে যান না।"
+          },
+          {
+            "en": "The grammar carries a real difference in time. With the raf', the question ends at 77:16 and 77:17 becomes a fresh statement about what Allah does and will do, which is how the verse is usually translated. With the jazm, both verbs stand inside the question and both look back at what has already happened. Ibn Mas'ud's sa- points plainly forward. None of the commentators ties his list of the later ones to a reading, so the readings and the identifications should be kept as two separate questions.",
+            "bn": "ব্যাকরণের এই পার্থক্যে সময়ের হিসাবও বদলে যায়। রাফ' দিয়ে পড়লে প্রশ্ন শেষ হয় ৭৭:১৬-এ, আর ৭৭:১৭ হয়ে যায় আলাদা একটি ঘোষণা: আল্লাহ যা করেন এবং করবেন। আয়াতটির প্রচলিত অনুবাদ এভাবেই করা হয়। জযম দিয়ে পড়লে দুটি ক্রিয়াই প্রশ্নের ভেতরে থাকে, আর দুটিই তাকায় ঘটে যাওয়া অতীতের দিকে। ইবন মাসউদ (রাঃ)-এর সা স্পষ্টতই সামনের দিকে ইঙ্গিত করে। তবে কোনো তাফসীরকারই পরবর্তীদের পরিচয়কে কোনো কিরাআতের সঙ্গে বাঁধেননি। তাই কিরাআতের প্রশ্ন আর পরিচয়ের প্রশ্ন আলাদা করেই রাখা উচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Way Kept With Criminals",
+          "bn": "অপরাধীদের বেলায় একই রীতি"
+        },
+        "p": [
+          {
+            "en": "Then 77:18: kadhalika naf'alu bi-l-mujrimin, thus do We deal with the criminals. At-Tabari reads it as a statement of Allah's settled way. As We destroyed these for their disbelief in Me and their denial of My messengers, so is My sunna among their like of the disbelieving nations: We destroy the criminals for their crimes when they transgress and oppress. The condition in his last clause matters. The destruction he describes falls on transgression and oppression, not on a people merely for being a people.",
+            "bn": "তারপর ৭৭:১৮: কাযালিকা নাফআলু বিলমুজরিমীন, অপরাধীদের সঙ্গে আমি এমনই করে থাকি। তাবারী একে পড়েন আল্লাহর স্থির নিয়মের ঘোষণা হিসেবে। আমার প্রতি কুফর আর আমার রাসূলদের মিথ্যা বলার কারণে যেভাবে এদের ধ্বংস করেছি, কাফির জাতিগুলোর মধ্যে তাদের মতো লোকদের বেলায় এটাই আমার সুন্নাত। অপরাধীরা যখন সীমা ছাড়ায় আর জুলুম করে, তখন তাদের অপরাধের জন্যই তাদের ধ্বংস করি। তাঁর শেষ শর্তটা খেয়াল করার মতো। তিনি যে ধ্বংসের কথা বলেন তা নেমে আসে সীমালঙ্ঘন আর জুলুমের ওপর, কোনো জাতি শুধু জাতি হওয়ার কারণে নয়।"
+          },
+          {
+            "en": "As-Sa'di uses the same word, sunna. This is His way, he says, past and to come, with every criminal: their punishment is bound to come. Then he turns the verse into a question for the listener: why then do you not take a lesson from what you see and hear? The Muyassar calls what fell on the earlier nations a terrible destruction. In as-Sa'di's hands the ruins become evidence. They are there to be looked at and learned from before the same pattern reaches the one who is looking.",
+            "bn": "সা'দীও একই শব্দ ব্যবহার করেন: সুন্নাত। তিনি বলেন, আগে ও পরে প্রত্যেক অপরাধীর বেলায় এটাই তাঁর নিয়ম, তাদের শাস্তি আসবেই। তারপর আয়াতটিকে তিনি শ্রোতার দিকে প্রশ্ন বানিয়ে ঘুরিয়ে দেন: তাহলে যা দেখছ আর শুনছ, তা থেকে শিক্ষা নাও না কেন? আগের জাতিগুলোর ওপর যা নেমেছিল, মুয়াসসার তাকে বলে ভয়াবহ ধ্বংস। সা'দীর ব্যাখ্যায় সেই ধ্বংসাবশেষ হয়ে ওঠে প্রমাণ। তা পড়ে আছে দেখার জন্য, শেখার জন্য। যে দেখছে, একই নিয়ম তার কাছে পৌঁছানোর আগেই।"
+          },
+          {
+            "en": "Al-Qurtubi applies the verse to its first audience: as We did with those before, We do with the polytheists of Quraysh, either by the sword or by destruction. He takes the kaf of kadhalika as a likeness: like that destruction, We do it with every polytheist. Then he records two views on what the verse threatens. Some said it is a dreadful portrayal of their destruction in this world, to be taken as a lesson; others said it is a report of their punishment in the Hereafter. He leaves both standing.",
+            "bn": "কুরতুবী আয়াতটিকে প্রয়োগ করেন এর প্রথম শ্রোতাদের ওপর। আগেরদের সঙ্গে যা করেছি, কুরাইশের মুশরিকদের সঙ্গেও তাই করি, হয় তলোয়ারে, নয়তো ধ্বংস দিয়ে। কাযালিকা-র কাফ অক্ষরকে তিনি সাদৃশ্য অর্থে নেন: সেই ধ্বংসের মতোই ধ্বংস আমি প্রত্যেক মুশরিকের বেলায় ঘটাই। এরপর আয়াতের হুমকি নিয়ে তিনি দুটি মত উল্লেখ করেন। কেউ বলেছেন, দুনিয়াতে তাদের ধ্বংসের ভয়াবহতা তুলে ধরা হয়েছে, যাতে মানুষ শিক্ষা নেয়। কেউ বলেছেন, এটা আখিরাতে তাদের শাস্তির খবর। তিনি দুটি মতই রেখে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Woe Said Again",
+          "bn": "দুর্ভোগের কথা আবার"
+        },
+        "p": [
+          {
+            "en": "Then 77:19 repeats, word for word, the line of 77:15: wayl yawma'idhin li-l-mukadhdhibin, woe that Day to the deniers. What the first refrain means is not retold here. What this passage adds is a reason for saying it again. Al-Qurtubi, on 77:19, explains the repetition across the surah: Allah divides the woe among the deniers according to their denial, since each thing a person denies carries its own punishment, and some denials are graver than others, being uglier and a greater rejection of Allah.",
+            "bn": "তারপর ৭৭:১৯ হুবহু ফিরিয়ে আনে ৭৭:১৫-এর লাইনটি: ওয়াইলুঁ ইয়াওমাইযিল লিলমুকাযযিবীন, সেদিন দুর্ভোগ মিথ্যারোপকারীদের জন্য। প্রথমবারের এই ধুয়ার অর্থ এখানে আবার বলা হচ্ছে না। এখানে নতুন যা আছে, তা হলো কথাটা আবার বলার কারণ। কুরতুবী ৭৭:১৯-এর আলোচনায় পুরো সূরায় এই পুনরাবৃত্তির ব্যাখ্যা দেন। আল্লাহ দুর্ভোগ ভাগ করে দেন অস্বীকারকারীদের মধ্যে, যার অস্বীকার যতটা, সেই অনুপাতে। কারণ মানুষ যা যা অস্বীকার করে, তার প্রতিটির আলাদা শাস্তি আছে। আর কোনো কোনো অস্বীকার অন্যগুলোর চেয়ে গুরুতর, কারণ তা আরও কদর্য, আল্লাহর কথা ফিরিয়ে দেওয়ায় আরও বড়।"
+          },
+          {
+            "en": "He ties this to 78:26, jaza'an wifaqa, a recompense that fits. The woe, on his account, is measured to the denial. At-Tabari, on 77:19, names what is being denied at this point: Allah's reports given in these verses, and His power over whatever He wills. As-Sa'di adds the aggravating fact: they deny after having seen clear signs, punishments and examples. Placed straight after the ruins of 77:16 and 77:17, the refrain falls on people who were shown the evidence and denied it anyway.",
+            "bn": "এর সঙ্গে তিনি জুড়ে দেন ৭৮:২৬: জাযাআঁও ওয়িফাকা, যথাযথ প্রতিফল। তাঁর ব্যাখ্যায় দুর্ভোগ মাপা হয় অস্বীকারের মাপে। তাবারী ৭৭:১৯-এর আলোচনায় বলে দেন, এখানে কী অস্বীকার করা হচ্ছে: এই আয়াতগুলোতে আল্লাহ যে খবর দিয়েছেন সেগুলো, আর তিনি যা চান তা করার ক্ষমতা। সা'দী যোগ করেন অপরাধকে আরও ভারী করে তোলা কথাটি। তারা অস্বীকার করে স্পষ্ট নিদর্শন, শাস্তি আর দৃষ্টান্ত দেখার পরেও। ৭৭:১৬ ও ৭৭:১৭-এর ধ্বংসাবশেষের ঠিক পরে বসায় এই ধুয়া গিয়ে পড়ে তাদের ওপর, যাদের প্রমাণ দেখানো হয়েছিল, তবু তারা অস্বীকার করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports and a Plain Limit",
+          "bn": "বর্ণনা আর স্পষ্ট সীমা"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs consulted for this verse attaches a sound hadith to 77:16, and none gives an occasion of revelation for it. On 77:19, al-Qurtubi relays a report raised to the Prophet ﷺ about the word wayl, introduced only with it is narrated; he names no collection and gives no grading, so it is mentioned here and nothing is built on it. The surah's verses are enough for the point this passage makes, and the commentators quoted above all argue from those verses, not from a narration.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৭৭:১৬-এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, আর কোনোটিই এর নাযিলের প্রেক্ষাপট দেয়নি। ৭৭:১৯-এর আলোচনায় কুরতুবী ওয়াইল শব্দটি নিয়ে নবী ﷺ-এর দিকে সম্বন্ধিত একটি বর্ণনা আনেন, শুধু 'বর্ণিত আছে' বলে। তিনি কোনো হাদীসগ্রন্থের নাম বলেননি, মানও জানাননি। তাই এখানে কেবল এর উল্লেখ রইল, এর ওপর কিছু দাঁড় করানো হয়নি। এ অংশের বক্তব্যের জন্য সূরার আয়াতগুলোই যথেষ্ট। ওপরে যাঁদের কথা এসেছে, তাঁরা সবাই যুক্তি দিয়েছেন আয়াত থেকেই, কোনো বর্ণনা থেকে নয়।"
+          },
+          {
+            "en": "This needs saying plainly. The verses describe the former and the later deniers as the text describes them, and the names the commentators give belong to history: the people of Nuh (AS), 'Ad and Thamud, the people of Ibrahim (AS), of Lut (AS) and of Madyan, and the disbelievers of Makka in the Prophet's time. The verse licenses nothing against any living person or community. It names no people of today as the later ones, and it makes no reader a judge of which disaster is a punishment or whom Allah will destroy.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আগের ও পরের অস্বীকারকারীদের আয়াতগুলো যেভাবে বর্ণনা করেছে, তারা ঠিক সেভাবেই। তাফসীরকারেরা যে নামগুলো দিয়েছেন, সবই ইতিহাসের: নূহ (আঃ)-এর কওম, আদ ও সামূদ, ইবরাহীম (আঃ)-এর কওম, লূত (আঃ)-এর কওম ও মাদইয়ানবাসী, আর নবী ﷺ-এর যুগের মক্কার কাফিররা। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। বর্তমানের কোনো জাতিকে এটি পরবর্তীদের দলে ফেলে না। কোন বিপর্যয় শাস্তি, কিংবা আল্লাহ কাকে ধ্বংস করবেন, তা ঠিক করার বিচারকও কোনো পাঠককে বানায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruins Read as a Mirror",
+          "bn": "ধ্বংসাবশেষে নিজের মুখ"
+        },
+        "p": [
+          {
+            "en": "What the verse asks of its listener is an answer: yes, He destroyed them. To give that answer honestly is to accept the next line too, that the same pattern runs on, and the line after it, that the pattern follows a crime and not a calendar. At-Tabari's condition, when they transgress and oppress, and as-Sa'di's question, why do you not take a lesson, both turn the verse back on the one who hears it rather than on anyone else. Neither of them asks the listener to look for the guilty elsewhere; both ask what the listener will do now that the record has been read out.",
+            "bn": "আয়াতটি শ্রোতার কাছে একটা উত্তর চায়: হ্যাঁ, তিনি তাদের ধ্বংস করেছেন। এই উত্তর সৎভাবে দিলে পরের লাইনটাও মেনে নিতে হয়, যে একই নিয়ম চলতে থাকে। তার পরের লাইনটাও, যে এ নিয়ম চলে অপরাধ ধরে, পঞ্জিকা ধরে নয়। তাবারীর শর্ত, যখন তারা সীমা ছাড়ায় আর জুলুম করে, আর সা'দীর প্রশ্ন, তোমরা শিক্ষা নাও না কেন, দুটোই আয়াতটিকে ফিরিয়ে দেয় শ্রোতার নিজের দিকে, অন্য কারও দিকে নয়। দোষী খুঁজতে তাঁরা কেউই শ্রোতাকে অন্যত্র পাঠান না। দুজনেই জানতে চান, এই নথি শোনার পর শ্রোতা এখন কী করবে।"
+          },
+          {
+            "en": "So the useful reading is personal. Stories of fallen nations can be told as entertainment, as politics, or as proof that someone else deserved what came to them. These verses tell them as a mirror. The question for the reader is not which people today resemble 'Ad or Thamud. It is where denial, transgression and the refusal to learn might already have a place in the reader's own life, and what to change while the Day of Decision is still ahead and the door to repentance is open.",
+            "bn": "তাই কাজের পাঠ হলো নিজের দিকে তাকানো। ধ্বংস হয়ে যাওয়া জাতির কাহিনি বলা যায় বিনোদন হিসেবে, রাজনীতি হিসেবে, কিংবা অন্যরা যা পেয়েছে তা তাদের প্রাপ্য ছিল, এর প্রমাণ হিসেবে। এই আয়াতগুলো সেই কাহিনি বলে আয়না হিসেবে। পাঠকের প্রশ্ন এটা নয় যে আজ কোন জাতি আদ বা সামূদের মতো। প্রশ্ন হলো, অস্বীকার, সীমালঙ্ঘন আর শিক্ষা নিতে না চাওয়া হয়তো নিজের জীবনেই কোথাও জায়গা করে নিয়েছে। ফয়সালার দিন এখনো সামনে, তওবার দরজাও খোলা। তাই এখনই ভেবে দেখার সময়, কী বদলাতে হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "77:20": {
     "sections": [
       {
