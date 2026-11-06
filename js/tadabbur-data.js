@@ -25089,6 +25089,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give your relatives, the needy and the stranded traveller what is theirs by right, without an air of favour, and give it wanting only the Face of Allah.",
     "lessonBn": "আত্মীয়, অভাবী আর পথে আটকে পড়া মুসাফিরকে তাদের হক দিন, দয়া দেখানোর ভাব ছাড়া, আর দিন কেবল আল্লাহর চেহারা কামনা করে।"
+  },
+  "30:5": {
+    "reflectionEn": "A small, pressed community in Makkah is told that a distant empire, beaten for now, will win within a few years, and that on that day the believers will rejoice. Then the verse names what they will rejoice in. Not an army, not a general, not a turn of fortune: the help of Allah. He helps whom He wills. He is the Mighty, so no one can stop the help He sends, and the Merciful, so it reaches His servants by roads they never counted on. The verse teaches the believer where joy belongs. When good news comes, do I thank the cause I can see, or the One behind it? And when the help goes to someone else, do I still trust His choosing?",
+    "reflectionBn": "মক্কায় চাপের মুখে থাকা ছোট একটি দলকে জানানো হলো, দূরের এক সাম্রাজ্য এখন হেরেছে, কিন্তু কয়েক বছরের মধ্যেই জিতবে, আর সেদিন মু'মিনরা আনন্দ করবে। তারপর আয়াতটি বলে দেয় আনন্দটা কীসে। কোনো সেনাবাহিনীতে নয়, কোনো সেনাপতিতে নয়, ভাগ্যের চাকা ঘোরায়ও নয়, আল্লাহর সাহায্যে। তিনি যাকে চান সাহায্য করেন। তিনি মহাপরাক্রমশালী, তাই তাঁর পাঠানো সাহায্য কেউ ঠেকাতে পারে না। তিনি পরম দয়ালু, তাই সে সাহায্য বান্দার কাছে পৌঁছায় এমন পথে, যা সে কখনো হিসাবে ধরেনি। আনন্দের ঠিকানা কোথায়, আয়াতটি মু'মিনকে তা শিখিয়ে দেয়। সুখবর এলে আমি কি চোখে দেখা উপলক্ষটার শুকরিয়া করি, নাকি তার পেছনে যিনি আছেন তাঁর? আর সাহায্য যখন অন্য কারও ভাগে যায়, তখনো কি তাঁর বেছে নেওয়ার উপর আমার ভরসা থাকে?",
+    "pointsEn": [
+      "Think of the last good news that made me glad: whom did I credit for it first, and did Allah come into the thought at all?",
+      "Is there a help I am waiting for now that I have already decided can only come by one road?",
+      "When Allah helps someone else and not me, what does my heart say about His choosing?",
+      "Do I rejoice at the success of people who are nearer to the truth than their rivals, or only at my own?",
+      "Which of the two names at the end of this verse do I need to hold onto more this week, His might or His mercy, and why?"
+    ],
+    "pointsBn": [
+      "শেষ যে সুখবরে আমি খুশি হয়েছি, তার কৃতিত্ব প্রথমে কাকে দিয়েছি? আল্লাহর কথা কি মনে এসেছিল আদৌ?",
+      "এমন কোনো সাহায্যের অপেক্ষায় কি আছি, যার পথ আমি আগেই একটাতে বেঁধে ফেলেছি?",
+      "আল্লাহ যখন আমাকে নয়, অন্য কাউকে সাহায্য করেন, তাঁর বেছে নেওয়া নিয়ে আমার মন তখন কী বলে?",
+      "যারা প্রতিপক্ষের চেয়ে সত্যের বেশি কাছে, তাদের সাফল্যেও কি আমি খুশি হই, নাকি শুধু নিজের সাফল্যে?",
+      "আয়াতের শেষের দুই নামের কোনটিকে এ সপ্তাহে আমার বেশি আঁকড়ে ধরা দরকার, তাঁর পরাক্রম না তাঁর দয়া? কেন?"
+    ],
+    "lessonEn": "Let your joy at any good news rest on Allah's help rather than on its visible cause, for He helps whom He wills, mighty and merciful.",
+    "lessonBn": "যেকোনো সুখবরে আপনার আনন্দ চোখে দেখা উপলক্ষে নয়, আল্লাহর সাহায্যে স্থির হোক। তিনি যাকে চান সাহায্য করেন, তিনি পরাক্রমশালী, পরম দয়ালু।"
   }
 };
 

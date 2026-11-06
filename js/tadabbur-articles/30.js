@@ -159,6 +159,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Rejoicing, and in What",
+          "bn": "আনন্দ, কিন্তু কীসে"
+        },
+        "p": [
+          {
+            "en": "Verse 30:4 ends on a promise of feeling: wa-yawma'idhin yafrahu al-mu'minun, and on that day the believers will rejoice. Verse 30:5 opens by naming the object of that joy: bi-nasri Llah, in the help of Allah. The two belong to one sentence, and Ibn Kathir reads them as one when he explains the clause, joining the believers' rejoicing directly to Allah's help. So 30:5 begins with the cause of the gladness rather than with the gladness itself.",
+            "bn": "৩০:৪ আয়াত শেষ হয় একটি অনুভূতির প্রতিশ্রুতিতে: ওয়া ইয়াওমাইযিন ইয়াফরাহুল মু'মিনূন, সেদিন মু'মিনরা আনন্দ করবে। ৩০:৫ আয়াত শুরুতেই জানিয়ে দেয় সে আনন্দ কীসে: বিনাসরিল্লাহ, আল্লাহর সাহায্যে। দুটি মিলে আসলে একটাই বাক্য। ইবন কাসীর ব্যাখ্যা করার সময় এদের একসঙ্গেই পড়েন, মু'মিনদের আনন্দের সঙ্গে সরাসরি জুড়ে দেন আল্লাহর সাহায্য। ফলে ৩০:৫ শুরু হয় আনন্দ দিয়ে নয়, আনন্দের কারণ দিয়ে।"
+          },
+          {
+            "en": "The verse is eight words in Arabic, and it moves in three steps. First the help, bi-nasri Llah. Then the rule behind it, yansuru man yasha', He helps whom He wills, where the noun nasr returns at once as the verb yansuru, so the help just named becomes His continuing act. Then two names close the verse: al-'Aziz, the Mighty, and ar-Rahim, the Merciful. This verse is about the joy, and whose gift it is.",
+            "bn": "আরবিতে আয়াতটি আটটি শব্দের, আর তা এগোয় তিনটি ধাপে। প্রথমে সাহায্য: বিনাসরিল্লাহ। তারপর তার পেছনের নিয়ম: ইয়ানসুরু মাঁই ইয়াশা, তিনি যাকে চান সাহায্য করেন। এখানে নাসর বিশেষ্যটি সঙ্গে সঙ্গে ফিরে আসে ইয়ানসুরু ক্রিয়া হয়ে, ফলে যে সাহায্যের নাম এইমাত্র নেওয়া হলো, তা হয়ে ওঠে তাঁর চলমান কাজ। শেষে দুটি নাম: আল-আযীয, মহাপরাক্রমশালী, আর আর-রাহীম, পরম দয়ালু। এ আয়াতের বিষয় আনন্দটা, আর সে আনন্দ কার দান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Help Given to Whom?",
+          "bn": "সাহায্য পেল কারা?"
+        },
+        "p": [
+          {
+            "en": "The plainest reading makes the help Rome's. Ibn Kathir glosses bi-nasri Llah as help for the Romans, the people of Caesar, against the Persians, the people of Chosroes, whom he calls Magians. Al-Baghawi says the same in three words: Allah's help to Rome over Persia. The Muyassar spells it out: on the day the Romans prevail over the Persians, the believers rejoice at Allah's help to the Romans. At-Tabari fixes the joy to a day, the day Rome was given the turn over Persia.",
+            "bn": "সবচেয়ে সরল পাঠে সাহায্যটা রোমানদের। ইবন কাসীর বিনাসরিল্লাহর ব্যাখ্যা দেন এভাবে: পারস্যের বিরুদ্ধে রোমানদের সাহায্য। রোমানরা কায়সারের লোক, আর পারসিকরা কিসরার লোক, যাদের তিনি বলেন মাজূস বা অগ্নিপূজক। বাগাভী একই কথা বলেন তিনটি শব্দে: পারস্যের উপর রোমের প্রতি আল্লাহর সাহায্য। মুয়াসসার খুলে বলে, যেদিন রোমানরা পারসিকদের উপর জয়ী হবে, সেদিন মু'মিনরা রোমানদের প্রতি আল্লাহর সাহায্যে আনন্দ করবে। তাবারী আনন্দটাকে বেঁধে দেন একটা দিনের সঙ্গে: যেদিন পারস্যের উপর রোমের পালা এল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an accepts that the wording points this way, and adds a note on why it is not strange. The Romans too were disbelievers, it says, but compared with others their unbelief was light, so Allah's helping them was nothing far-fetched, least of all when it was a cause of happiness for the Muslims. Then it opens a second possibility: that Allah's help here means His help to the Muslims themselves. It offers two grounds.",
+            "bn": "মাআরিফুল কুরআন মেনে নেয় যে শব্দের ইঙ্গিত এদিকেই, আর সঙ্গে বলে দেয় কেন এটা অদ্ভুত কিছু নয়। রোমানরাও কাফির ছিল, তবে অন্যদের তুলনায় তাদের কুফর ছিল হালকা। তাই আল্লাহ তাদের সাহায্য করবেন, এতে আশ্চর্যের কিছু নেই, বিশেষ করে যখন তা মুসলমানদের খুশির কারণ। এরপর মাআরিফ আরেকটি সম্ভাবনার কথা তোলে। এখানে আল্লাহর সাহায্য মানে হয়তো খোদ মুসলমানদের প্রতি তাঁর সাহায্য। এ পাঠের পক্ষে সে দুটি কারণ দেখায়।"
+          },
+          {
+            "en": "The first ground is that the Muslims had presented the promised Roman victory as a sign of the Qur'an's truth and of Islam, so when it came, the victory was in fact theirs. Second, there were two great powers of unbelief at that time, Persia and Rome, and by setting them to fight each other Allah weakened both, which later helped the Muslims overcome them. Ma'arif lays these out as possibilities, and does not close the question between them.",
+            "bn": "প্রথম কারণ: প্রতিশ্রুত রোমান বিজয়কে মুসলমানরা কুরআন ও ইসলামের সত্যতার নিদর্শন হিসেবে তুলে ধরেছিল। তাই বিজয় যখন এল, আসলে তা ছিল তাদেরই বিজয়। দ্বিতীয় কারণ: সে সময় কুফরের দুটি বড় শক্তি ছিল, পারস্য আর রোম। তাদের পরস্পরের সঙ্গে লড়িয়ে আল্লাহ দুজনকেই দুর্বল করে দেন, আর পরে সেটাই মুসলমানদের তাদের উপর জয়ী হতে সাহায্য করে। মাআরিফ এগুলোকে সম্ভাবনা হিসেবে রাখে, কোনোটির পক্ষে রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Lighter of Two Evils",
+          "bn": "দুই মন্দের হালকাটি"
+        },
+        "p": [
+          {
+            "en": "Why should believers be glad when one unbelieving empire beats another? As-Sa'di faces the question directly. They rejoice at the Romans' victory over the Persians, he writes, even though all of them were disbelievers, because some evil is lighter than other evil; and on that day the idolaters of Makkah grieve. The joy does not bless the winner's creed. It notices that one outcome stands nearer to the truth than the other.",
+            "bn": "এক কাফির সাম্রাজ্য আরেকটিকে হারালে মু'মিনরা খুশি হবে কেন? সা'দী প্রশ্নটার মুখোমুখি হন সরাসরি। তিনি লেখেন, পারসিকদের উপর রোমানদের বিজয়ে তারা আনন্দ করে, যদিও উভয় পক্ষই কাফির ছিল। কারণ, কিছু মন্দ অন্য মন্দের চেয়ে হালকা। আর সেদিন মক্কার মুশরিকরা দুঃখ পায়। বিজয়ীর আকীদাকে এ আনন্দ বৈধতা দেয় না। শুধু খেয়াল করে, একটা পরিণতি অন্যটার চেয়ে সত্যের বেশি কাছে।"
+          },
+          {
+            "en": "Ibn Kathir names the nearness: the Romans are People of the Book in the main, and so closer to the believers than the Magians. He cites 5:82 and 5:83: the nearest in affection to the believers are those who say, we are Christians, because among them are priests and monks who are not arrogant, whose eyes overflow at what was sent down to the Messenger. The Muyassar adds the limit: People of the Book, though they had altered it.",
+            "bn": "নৈকট্যটা কোথায়, ইবন কাসীর তা বলে দেন: রোমানরা মোটের উপর আহলে কিতাব, তাই মাজূসদের চেয়ে মু'মিনদের বেশি কাছের। তিনি উদ্ধৃত করেন ৫:৮২ ও ৫:৮৩ আয়াত: মু'মিনদের প্রতি ভালোবাসায় সবচেয়ে কাছের তারা, যারা বলে আমরা নাসারা। কারণ তাদের মধ্যে আছে আলেম ও সংসারত্যাগী, যারা অহংকার করে না, আর রসূলের উপর যা নাযিল হয়েছে তা শুনে যাদের চোখ অশ্রুতে উপচে পড়ে। মুয়াসসার সীমাটা টেনে দেয়: তারা আহলে কিতাব ঠিকই, যদিও কিতাবটা তারা বিকৃত করেছিল।"
+          },
+          {
+            "en": "At-Tirmidhi records a narration from Niyar ibn Mukram al-Aslami that ties this preference to the verse by name. On the day the verses came down Persia had the upper hand, and the Muslims wanted Rome to win because they and the Romans were both people of a Book; about that, the narration says, Allah revealed 30:4 and 30:5. The Quraysh wanted Persia, since neither had a Book or belief in the Resurrection. At-Tirmidhi grades it sahih hasan gharib. Its second half, Abu Bakr's wager, belongs with 30:3.",
+            "bn": "তিরমিযী নিয়ার ইবন মুকরাম আসলামী থেকে একটি বর্ণনা এনেছেন, যা এ পছন্দকে নাম ধরে আয়াতের সঙ্গে যুক্ত করে। যেদিন আয়াতগুলো নাযিল হয়, সেদিন পারস্যের হাত ছিল উপরে। মুসলমানরা চাইছিল রোম জিতুক, কারণ তারা আর রোমানরা দুই দলই কিতাবধারী। বর্ণনাটি বলে, এ নিয়েই আল্লাহ নাযিল করেন ৩০:৪ ও ৩০:৫ আয়াত। কুরাইশ চাইছিল পারস্য জিতুক, কারণ দুই দলের কারও কিতাব ছিল না, পুনরুত্থানে বিশ্বাসও ছিল না। তিরমিযী একে সহীহ হাসান গরীব বলেছেন। বর্ণনার দ্বিতীয় অংশ, আবু বকর (রাঃ)-এর বাজি, ৩০:৩ আয়াতের আলোচনায় এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Badr or al-Hudaybiyya?",
+          "bn": "বদর, নাকি হুদায়বিয়া?"
+        },
+        "p": [
+          {
+            "en": "On which day did the believers rejoice? Ibn Kathir sets out a real disagreement and names both sides. A large group of scholars, among them Ibn 'Abbas, ath-Thawri and as-Suddi, held that the Romans' victory over Persia fell on the day of the Battle of Badr. Others said it came in the year of al-Hudaybiyya, and Ibn Kathir names 'Ikrima, az-Zuhri and Qatada among them.",
+            "bn": "মু'মিনরা আনন্দ করেছিল কোন দিন? ইবন কাসীর এখানে একটি সত্যিকারের মতভেদ তুলে ধরেন, আর দুই পক্ষেরই নাম বলেন। আলেমদের এক বড় দল, যাঁদের মধ্যে আছেন ইবন আব্বাস (রাঃ), সাওরী ও সুদ্দী, মনে করতেন পারস্যের উপর রোমের বিজয় ঘটেছিল বদর যুদ্ধের দিন। অন্যরা বলেছেন, তা ঘটেছিল হুদায়বিয়ার বছরে। এ দলে ইবন কাসীর নাম নেন ইকরিমা, যুহরী ও কাতাদার।"
+          },
+          {
+            "en": "Some who held the second view, Ibn Kathir reports, argued from Caesar's vow. He had vowed that if Allah gave him victory over Chosroes he would walk from Hims to Iliya, which is Bayt al-Maqdis, in thanks, and he did. While he was there the Prophet's ﷺ letter reached him, carried by Dihya ibn Khalifa. Questioning Abu Sufyan, he heard of a truce then in force, which Ibn Kathir identifies as the truce of al-Hudaybiyya. Since Caesar kept his vow only after it, they concluded the victory came that year.",
+            "bn": "দ্বিতীয় মতের কেউ কেউ, ইবন কাসীর জানান, যুক্তি দিয়েছেন কায়সারের মানত থেকে। তিনি মানত করেছিলেন, আল্লাহ যদি তাঁকে কিসরার উপর বিজয় দেন, তবে শুকরিয়া হিসেবে তিনি হিমস থেকে ঈলিয়া, অর্থাৎ বায়তুল মাকদিস পর্যন্ত হেঁটে যাবেন। তিনি তা করেছিলেন। সেখানে থাকতেই নবী ﷺ-এর চিঠি তাঁর হাতে পৌঁছায়, যা নিয়ে গিয়েছিলেন দিহইয়া ইবন খলীফা (রাঃ)। আবু সুফিয়ানকে প্রশ্ন করে তিনি জানতে পারেন, তখন একটি সন্ধি চলছে। ইবন কাসীর বলেন, সেটি হুদায়বিয়ার সন্ধি। কায়সার মানত পূরণ করেছিলেন এর পরে, তাই তাঁদের সিদ্ধান্ত, বিজয় এসেছিল সে বছরই।"
+          },
+          {
+            "en": "Ibn Kathir then gives those of the first view their answer. Caesar's lands had been ruined and left in disarray, so he could not keep his vow until he had repaired what needed repair and seen to his realm; he kept it four years after his victory. Ibn Kathir then declines to make much of the dispute: the matter here, he says, is easy and near. What he does not treat as doubtful is the joy itself, and the reason for it, which both sides share.",
+            "bn": "এরপর ইবন কাসীর প্রথম মতের পক্ষে জবাবটাও দেন। কায়সারের দেশ তখন বিধ্বস্ত, এলোমেলো। যা মেরামত দরকার তা মেরামত না করে, নিজের রাজ্যের খোঁজখবর না নিয়ে মানত পূরণ করা তাঁর পক্ষে সম্ভব ছিল না। বিজয়ের ৪ বছর পরে তিনি তা পূরণ করেন। দুই পক্ষের কথা সাজিয়ে দিয়ে ইবন কাসীর মতভেদটাকে বড় করে দেখেন না। তিনি বলেন, এ বিষয়টি সহজ ও কাছাকাছি। যেটা নিয়ে তাঁর কোনো সংশয় নেই, তা হলো আনন্দটা নিজে, আর তার কারণ। দুই পক্ষই এতে একমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Report From Abu Sa'id",
+          "bn": "আবু সাঈদ (রাঃ)-এর বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The Badr view has a narration behind it. At-Tirmidhi records it from 'Atiyya, from Abu Sa'id: \"On the Day of Badr, the Romans had a victory over the Persians. So the believers were pleased with that, then the following was revealed: 'Alif Lam Mim. The Romans have been defeated, up to His saying: the believers will rejoice, with the help of Allah.' He said: So the believers were happy with the victory of the Romans over the Persians.\" At-Tirmidhi grades it hasan gharib from this route.",
+            "bn": "বদরের মতের পেছনে একটি বর্ণনা আছে। তিরমিযী তা এনেছেন আতিয়্যা থেকে, আবু সাঈদ (রাঃ) থেকে: \"বদরের দিন রোমানরা পারসিকদের উপর জয়ী হলো। তাতে মু'মিনরা খুশি হলো। তখন নাযিল হলো: আলিফ লাম মীম, রোমানরা পরাজিত হয়েছে, এখান থেকে তাঁর এ বাণী পর্যন্ত: মু'মিনরা আনন্দ করবে আল্লাহর সাহায্যে। তিনি বললেন: পারসিকদের উপর রোমানদের বিজয়ে মু'মিনরা আনন্দিত হলো।\" তিরমিযী বলেছেন, এই সূত্রে হাদীসটি হাসান গরীব।"
+          },
+          {
+            "en": "Two notes travel with this report. At-Tirmidhi remarks that his teacher Nasr ibn 'Ali read the opening as ghalabat al-Rum, the Romans have conquered, and at-Tabari files the same report from Abu Sa'id under those who read it that way, for whom the verses came down as news of a Roman win already won. At-Tabari also carries a wording of Abu Sa'id that gives the reason: the victory pleased the believers because the Romans were People of the Book.",
+            "bn": "এ বর্ণনার সঙ্গে দুটি টীকা জড়িয়ে আছে। তিরমিযী জানান, তাঁর শায়খ নাসর ইবন আলী শুরুর অংশটি পড়েছিলেন গালাবাতির রূম, অর্থাৎ রোমানরা জয়ী হয়েছে। তাবারীও আবু সাঈদ (রাঃ)-এর এ বর্ণনাকে রেখেছেন সেই পাঠের অনুসারীদের অধীনে। তাঁদের মতে আয়াতগুলো নাযিল হয়েছিল রোমের ইতিমধ্যে পাওয়া জয়ের খবর হিসেবে। তাবারী আবু সাঈদ (রাঃ)-এর আরেকটি ভাষ্যও এনেছেন, যাতে কারণটাও আছে: রোমানরা আহলে কিতাব ছিল বলেই বিজয়টা মু'মিনদের ভালো লেগেছিল।"
+          },
+          {
+            "en": "A second Badr witness sits inside the wager narration. At-Tirmidhi records from Sa'id ibn Jubayr, from Ibn 'Abbas, the term Abu Bakr (RA) set and the Prophet's ﷺ question about it, ending with the recitation up to He helps whom He wills. At its close Sufyan says: I heard that they prevailed over them on the Day of Badr. At-Tirmidhi grades it hasan sahih gharib. That last line is Sufyan's report of what he heard.",
+            "bn": "বাজির বর্ণনার ভেতরেও বদরের পক্ষে আরেকটি সাক্ষ্য আছে। তিরমিযী সাঈদ ইবন জুবাইর থেকে, ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন আবু বকর (রাঃ)-এর বেঁধে দেওয়া মেয়াদের কথা, আর সে বিষয়ে নবী ﷺ-এর প্রশ্নের কথা। বর্ণনা শেষ হয় 'তিনি যাকে চান সাহায্য করেন' পর্যন্ত তিলাওয়াত দিয়ে। একেবারে শেষে সুফিয়ান বলেন: আমি শুনেছি, বদরের দিন তারা ওদের উপর জয়ী হয়েছিল। তিরমিযী একে হাসান সহীহ গরীব বলেছেন। শেষ বাক্যটি সুফিয়ানের শোনা কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gladness Upon Gladness",
+          "bn": "খুশির উপর খুশি"
+        },
+        "p": [
+          {
+            "en": "If the day was Badr, the joy was doubled. Al-Baghawi relays from as-Suddi that the Prophet ﷺ and the believers rejoiced at their own victory over the idolaters on the Day of Badr, and at the victory of the People of the Book over the people of shirk. On this account the gladness had two sources at once, one far away on the frontier of empires and one close at hand, in their own victory over the idolaters who had opposed them.",
+            "bn": "দিনটা যদি বদর হয়, তবে আনন্দ ছিল দ্বিগুণ। বাগাভী সুদ্দী থেকে বর্ণনা করেন, বদরের দিন নবী ﷺ ও মু'মিনরা আনন্দ করেছিলেন দুই কারণে। মুশরিকদের উপর নিজেদের বিজয়ে, আর শিরকের অনুসারীদের উপর আহলে কিতাবের বিজয়ে। এ বর্ণনায় খুশির উৎস ছিল একসঙ্গে দুটি। একটি অনেক দূরে, দুই সাম্রাজ্যের সীমান্তে। অন্যটি একেবারে হাতের কাছে, তাদের বিরোধিতাকারী মুশরিকদের উপর নিজেদের বিজয়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an carries a note by Muhammad Taqi Usmani giving another explanation, which he traces to Ibn 'Abbas and others. The news of the Romans' victory reached the Muslims on the very day they defeated the idolaters of Makkah at Badr, so it added to a delight they already had. On this reading, the believers' rejoicing in Allah's help refers to their own victory at Badr, and the good news of the passage is twofold: one part concerns the Romans, the other the Muslims themselves.",
+            "bn": "মাআরিফুল কুরআনে মুহাম্মাদ তাকী উসমানীর একটি টীকায় আরেকটি ব্যাখ্যা আছে। তিনি তা ইবন আব্বাস (রাঃ) ও অন্যদের দিকে সম্পৃক্ত করেন। যেদিন মুসলমানরা বদরে মক্কার মুশরিকদের হারায়, ঠিক সেদিনই রোমানদের বিজয়ের খবর তাদের কাছে পৌঁছায়। ফলে আগে থেকে থাকা খুশির সঙ্গে আরেকটা খুশি যোগ হয়। এ ব্যাখ্যায় আল্লাহর সাহায্যে মু'মিনদের আনন্দ বলতে বোঝায় বদরে তাদের নিজেদের বিজয়। আর এ আয়াতগুলোর সুসংবাদ দুই ভাগে: একটি রোমানদের নিয়ে, অন্যটি খোদ মুসলমানদের নিয়ে।"
+          },
+          {
+            "en": "Ibn Kathir closes with a report through Ibn Abi Hatim from al-'Ala' ibn az-Zubayr al-Kilabi, from his father: I saw Persia overcome Rome, then I saw Rome overcome Persia, then I saw the Muslims overcome Persia and Rome, all within fifteen years. Ibn Kathir gives it no grading, and it is one man's memory, not a saying of the Prophet ﷺ. The verse names only the first two turns. The third is history seen afterwards.",
+            "bn": "ইবন কাসীর শেষ করেন ইবন আবী হাতিমের সূত্রে আলা ইবনুয যুবাইর কিলাবী থেকে, তাঁর পিতার একটি বর্ণনা দিয়ে: আমি দেখেছি পারস্য রোমকে হারাল, তারপর দেখেছি রোম পারস্যকে হারাল, তারপর দেখেছি মুসলমানরা পারস্য ও রোম দুটোকেই হারাল, সব মিলিয়ে পনেরো বছরের মধ্যে। ইবন কাসীর এর কোনো মান উল্লেখ করেননি। এটি একজন মানুষের স্মৃতি, নবী ﷺ-এর বাণী নয়। আয়াত শুধু প্রথম দুটি পালাবদলের কথা বলে। তৃতীয়টি পরে দেখা ইতিহাস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Every Victory Is Help",
+          "bn": "সব জয় সাহায্য নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reads yansuru man yasha' narrowly: He helps whom He wills, meaning from among His allies, because His help is specific to the victory of His allies over His enemies. As for the victory of His enemies over His allies, he says, that is not His help; it is a trial, ibtila', though it may be called zafar, gaining the upper hand. Not every victory the world records is, in al-Qurtubi's terms, the help of Allah.",
+            "bn": "কুরতুবী ইয়ানসুরু মাঁই ইয়াশা কথাটিকে পড়েন সংকীর্ণ অর্থে: তিনি যাকে চান সাহায্য করেন, অর্থাৎ তাঁর বন্ধুদের মধ্য থেকে। কারণ তাঁর সাহায্য নির্দিষ্ট শুধু শত্রুদের উপর তাঁর বন্ধুদের বিজয়ের জন্য। আর তাঁর বন্ধুদের উপর তাঁর শত্রুদের বিজয়, কুরতুবী বলেন, সেটা তাঁর সাহায্য নয়, সেটা পরীক্ষা, ইবতিলা। যদিও তাকে যাফর, অর্থাৎ উপরে ওঠা বলা যেতে পারে। কুরতুবীর ভাষায়, দুনিয়া যত বিজয় লিখে রাখে, তার সবই আল্লাহর সাহায্য নয়।"
+          },
+          {
+            "en": "This needs saying plainly. The verse speaks of the Romans and the Persians of the Prophet's ﷺ own time and their war. It does not identify them with any present-day state or people, and nothing in it should be carried over to them. It describes what the text describes, a war long over and the believers' gladness at its turn, and it licenses nothing against any living person or community. Nor does it make an army's success the proof of its cause: the help is Allah's, given as He wills.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বলছে নবী ﷺ-এর নিজের যুগের রোমান ও পারসিকদের কথা, আর তাদের যুদ্ধের কথা। বর্তমান কালের কোনো রাষ্ট্র বা জাতির সঙ্গে আয়াত তাদের এক করে না, আর আয়াতের কোনো কথা তাদের উপর চাপানোও ঠিক নয়। পাঠ যা বর্ণনা করে, আয়াত শুধু তা-ই বর্ণনা করে: বহু আগে শেষ হয়ে যাওয়া এক যুদ্ধ, আর তার পালাবদলে মু'মিনদের খুশি। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কোনো বাহিনীর সাফল্যকেও এ আয়াত তার পক্ষের সত্যতার প্রমাণ বানায় না। সাহায্য আল্লাহর, তিনি যেমন চান তেমন দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Might That Cannot Be Stopped",
+          "bn": "যে পরাক্রম কেউ ঠেকাতে পারে না"
+        },
+        "p": [
+          {
+            "en": "The verse closes on wa-huwa al-'Aziz ar-Rahim, and He is the Mighty, the Merciful. The commentators gloss al-'Aziz each in his own way. Ibn Kathir: mighty in His triumph and His vengeance on His enemies. Al-Qurtubi: mighty in His retribution. Al-Baghawi: al-ghalib, He who prevails. The Muyassar: He who is never overcome. As-Sa'di goes widest: the might by which He subdued all creatures, giving kingship to whom He wills and taking it from whom He wills, honouring and abasing whom He wills, in words that echo 3:26.",
+            "bn": "আয়াত শেষ হয় ওয়া হুওয়াল আযীযুর রাহীম দিয়ে: তিনি মহাপরাক্রমশালী, পরম দয়ালু। আল-আযীযের ব্যাখ্যা প্রত্যেক মুফাসসির দেন নিজের মতো করে। ইবন কাসীর: নিজের বিজয়ে আর শত্রুদের থেকে প্রতিশোধ নেওয়ায় তিনি পরাক্রমশালী। কুরতুবী: শাস্তি দানে পরাক্রমশালী। বাগাভী: আল-গালিব, যিনি সবার উপর জয়ী। মুয়াসসার: যাঁকে কখনো পরাজিত করা যায় না। সা'দী সবচেয়ে প্রশস্ত অর্থ নেন: সেই ইজ্জত, যা দিয়ে তিনি সমস্ত সৃষ্টিকে বশ করেছেন। যাকে চান রাজত্ব দেন, যার থেকে চান কেড়ে নেন, যাকে চান সম্মান দেন, যাকে চান অপমানিত করেন। তাঁর এ শব্দগুলোতে ৩:২৬ আয়াতের প্রতিধ্বনি শোনা যায়।"
+          },
+          {
+            "en": "Ar-Rahim is glossed with the same care about its object. Ibn Kathir and al-Baghawi: merciful to His believing servants. Al-Qurtubi: merciful to the people of His obedience. The Muyassar: merciful to whom He wills of His creation. As-Sa'di again goes further: merciful to His believing servants in that He arranged for them causes that bring them happiness and help, of a kind that never enters anyone's reckoning. Might turned the fortunes of an empire; mercy let a pressed community in Makkah be glad at it.",
+            "bn": "আর-রাহীমের ব্যাখ্যাতেও তাঁরা একই যত্নে দেখান, দয়াটা কার প্রতি। ইবন কাসীর ও বাগাভী: তাঁর মু'মিন বান্দাদের প্রতি দয়ালু। কুরতুবী: তাঁর আনুগত্যকারীদের প্রতি দয়ালু। মুয়াসসার: নিজের সৃষ্টির মধ্যে যাকে চান তার প্রতি দয়ালু। সা'দী এখানেও আরেকটু এগিয়ে যান। মু'মিন বান্দাদের প্রতি তিনি দয়ালু, কারণ তাদের জন্য তিনি এমন সব উপায় সাজিয়ে দেন, যা তাদের সুখী করে, তাদের সাহায্য করে, আর যা কারও হিসাবের মধ্যেই আসে না। পরাক্রম এক সাম্রাজ্যের ভাগ্য উল্টে দিল। দয়া মক্কার চাপে থাকা এক ছোট দলকে সে খবরে খুশি হওয়ার সুযোগ দিল।"
+          },
+          {
+            "en": "The next verse seals the passage, and here it is context only: wa'da Llah, it is the promise of Allah; Allah does not fail His promise, but most people do not know. For the reader the verse marks where joy should land. Good news has a visible cause, an army, a doctor, a friend. The verse does not deny the cause; it names the help behind it, and asks the believer to rejoice there, and to trust the choosing of the Mighty and the Merciful.",
+            "bn": "পরের আয়াত এ অংশে সিলমোহর দেয়, তবে এখানে তা শুধু প্রসঙ্গ হিসেবে: ওয়া'দাল্লাহ, এটা আল্লাহর ওয়াদা। আল্লাহ তাঁর ওয়াদা ভঙ্গ করেন না, কিন্তু অধিকাংশ মানুষ জানে না। পাঠকের জন্য আয়াতটি দেখিয়ে দেয়, আনন্দ কোথায় গিয়ে থামা উচিত। প্রতিটি সুখবরের একটা চোখে দেখা উপলক্ষ থাকে: কোনো বাহিনী, কোনো চিকিৎসক, কোনো বন্ধু। আয়াত উপলক্ষকে অস্বীকার করে না। তার পেছনের সাহায্যের নাম বলে দেয়। মু'মিনকে বলে, আনন্দটা সেখানেই রাখুন, আর ভরসা রাখুন সেই মহাপরাক্রমশালী, পরম দয়ালুর বেছে নেওয়ার উপর।"
+          }
+        ]
+      }
+    ]
+  },
   "30:9": {
     "sections": [
       {
