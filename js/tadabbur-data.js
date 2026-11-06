@@ -23691,6 +23691,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold what Allah made sacred as weighty, keep to what He made lawful, and shun both the idol and the lie, for the verse names them in one breath.",
     "lessonBn": "আল্লাহ যা পবিত্র করেছেন তাকে ভারী বলে মানুন, যা হালাল করেছেন তার মধ্যেই থাকুন, আর মূর্তি ও মিথ্যা দুটোই বর্জন করুন, কারণ আয়াতটি দুটোকে এক নিঃশ্বাসে উল্লেখ করেছে।"
+  },
+  "22:15": {
+    "reflectionEn": "Someone has decided that Allah will not help His Messenger, and the thought eats at him. The verse answers him with a taunt: if you are so sure, stretch a rope upward and cut it, then see whether your scheming removes what enrages you. It is not advice. It is a way of saying that rage against what Allah has decided reaches nothing above it and hurts only the one who carries it. The same trap waits for anyone whose relief seems late, who settles that help will never come and lets bitterness do the deciding. Allah's help has its appointed time. Where am I straining at something that only wears me down, when I could be waiting on Him?",
+    "reflectionBn": "একজন লোক ধরে নিয়েছে, আল্লাহ তাঁর রাসূলকে সাহায্য করবেন না। ভাবনাটা তাকে ভেতরে ভেতরে কুরে খায়। আয়াত তাকে জবাব দেয় এক বিদ্রূপে: এতই যদি নিশ্চিত হও, তবে উপরের দিকে একটা দড়ি টানিয়ে কেটে দাও, তারপর দেখো তোমার কৌশল তোমার রাগের কারণ দূর করে কি না। এটা কোনো পরামর্শ নয়। কথাটার মানে হলো, আল্লাহর ফয়সালার বিরুদ্ধে রাগ উপরে কোথাও পৌঁছায় না, আঘাত করে শুধু যে রাগ পুষে রাখে তাকেই। একই ফাঁদ পাতা আছে তার জন্যও, যার মুক্তি আসতে দেরি হচ্ছে বলে মনে হয়, যে ধরে নেয় সাহায্য আর আসবেই না, আর সিদ্ধান্তের ভার তুলে দেয় তিক্ততার হাতে। আল্লাহর সাহায্যের একটা নির্ধারিত সময় আছে। আমি কোথায় এমন কিছু নিয়ে টানাটানি করছি যা কেবল আমাকেই ক্ষয় করে, অথচ তাঁর দিকে চেয়ে অপেক্ষা করতে পারতাম?",
+    "pointsEn": [
+      "When help I have asked Allah for seems late, do I keep waiting on Him, or have I quietly decided it will never come?",
+      "What am I angry about right now that no amount of my anger will change?",
+      "Is there someone whose blessing I resent, and what is that resentment doing to me rather than to them?",
+      "If despair ever makes life itself feel too heavy, who is the person I could tell today, and will I also tell Allah?",
+      "Which promise of Allah's help have I stopped believing in without ever saying so aloud?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কাছে যে সাহায্য চেয়েছি তা আসতে দেরি হলে আমি কি তাঁর দিকে চেয়ে অপেক্ষা করতে থাকি, নাকি মনে মনে ঠিক করে ফেলেছি যে তা আর আসবে না?",
+      "এ মুহূর্তে কোন জিনিস নিয়ে আমি রেগে আছি, যা আমার রাগে একটুও বদলাবে না?",
+      "কারও পাওয়া নিয়ামতে কি আমার গা জ্বলে? সেই জ্বালা তার কী করছে, আর আমার কী করছে?",
+      "হতাশায় কখনো যদি বেঁচে থাকাটাই খুব ভারী মনে হয়, আজই কাকে কথাটা বলতে পারি? আর আল্লাহকেও কি বলব?",
+      "আল্লাহর সাহায্যের কোন প্রতিশ্রুতিতে আমি মুখে কিছু না বলেই বিশ্বাস হারিয়ে ফেলেছি?"
+    ],
+    "lessonEn": "Rage against what Allah has decided changes nothing above and wears down only the one who holds it. His help comes at its time; wait for it, and never let despair speak for you.",
+    "lessonBn": "আল্লাহর ফয়সালার বিরুদ্ধে রাগ উপরের কিছুই বদলায় না, ক্ষয় করে শুধু যে তা পুষে রাখে তাকেই। তাঁর সাহায্য আসে তার নির্ধারিত সময়ে। সে অপেক্ষায় থাকুন, আর হতাশাকে কখনো আপনার হয়ে কথা বলতে দেবেন না।"
   }
 };
 

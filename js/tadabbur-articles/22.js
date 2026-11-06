@@ -603,6 +603,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Worship on an Edge",
+          "bn": "কিনারায় দাঁড়ানো ইবাদতের পরে"
+        },
+        "p": [
+          {
+            "en": "The verse comes at the end of a short run. 22:11 describes a person who worships Allah on an edge: content while good reaches him, turning on his face the moment a trial strikes. 22:12 and 22:13 show him calling on what can neither harm nor benefit him. 22:14 turns to the believers who do good, whom Allah admits to gardens. Then comes a sentence addressed to someone who has decided that Allah's help will never come.",
+            "bn": "আয়াতটি ছোট একটি ধারার শেষ মাথায় এসেছে। ২২:১১ এমন মানুষের কথা বলে, যে কিনারায় দাঁড়িয়ে আল্লাহর ইবাদত করে। ভালো কিছু পেলে সে তৃপ্ত, পরীক্ষা এলেই মুখ ঘুরিয়ে উল্টো দিকে চলে যায়। ২২:১২ ও ২২:১৩ দেখায়, সে এমন কিছুকে ডাকে যা তার ক্ষতিও করতে পারে না, উপকারও না। ২২:১৪ ফিরে যায় সৎকর্মশীল ঈমানদারদের দিকে, যাদের আল্লাহ জান্নাতে প্রবেশ করাবেন। তারপর আসে এমন একজনের উদ্দেশে কথা, যে ঠিক করে নিয়েছে আল্লাহর সাহায্য কখনো আসবে না।"
+          },
+          {
+            "en": "Man kana yazunnu an lan yansurahu Allahu fi d-dunya wa-l-akhira: whoever thinks that Allah will not help him in this world and the Hereafter, let him stretch a cord up to the sky, then let him cut, and let him look whether his scheming takes away what enrages him. Nearly every part has more than one reading: whose help, what help, which sky, what is cut. This article keeps those disagreements open. Where the commentators all meet is the end of the verse: rage cannot change what Allah has decided.",
+            "bn": "মান কানা ইয়াযুন্নু আন লান ইয়ানসুরাহুল্লাহু ফিদ-দুনইয়া ওয়াল-আখিরাহ: যে ধারণা করে আল্লাহ তাকে দুনিয়া ও আখিরাতে সাহায্য করবেন না, সে আকাশের দিকে একটা রশি টানিয়ে নিক, তারপর কেটে দিক, তারপর দেখুক তার কৌশল তার রাগের কারণ দূর করে কি না। এ বাক্যের প্রায় প্রতিটি অংশের একাধিক পাঠ আছে। কার সাহায্য, কেমন সাহায্য, কোন আকাশ, কী কাটা হবে। এ লেখা সেই মতভেদগুলো খোলা রাখবে। তাফসীরকারেরা সবাই এক জায়গায় মিলেছেন আয়াতের শেষে এসে: আল্লাহর ফয়সালা রাগ দিয়ে বদলানো যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Help Is Doubted",
+          "bn": "কার সাহায্য নিয়ে সন্দেহ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by noting that interpreters differed over the pronoun in yansurahu, him. A first group took it as the Prophet ﷺ. Qatada, as at-Tabari reports him, reads: whoever thinks Allah will not help His Prophet, nor His religion, nor His Book. Ibn Kathir opens with Ibn Abbas: whoever thinks Allah will not help Muhammad ﷺ in this world and the next. Al-Baghawi glosses the pronoun as His Prophet Muhammad, and as-Sa'di adds the man's belief that His religion will fade away.",
+            "bn": "তাবারী শুরুতেই বলেন, ইয়ানসুরাহু শব্দের 'হু' (তাকে) সর্বনামটি কার দিকে ফেরে, তা নিয়ে তাফসীরবিদদের মতভেদ আছে। একদল বুঝেছেন নবী ﷺ-কে। তাবারীর বর্ণনায় কাতাদার ব্যাখ্যা: যে মনে করে আল্লাহ তাঁর নবীকে সাহায্য করবেন না, তাঁর দ্বীনকেও না, তাঁর কিতাবকেও না। ইবন কাসীর শুরু করেন ইবন আব্বাস (রাঃ)-এর কথা দিয়ে: যে মনে করে আল্লাহ দুনিয়া ও আখিরাতে মুহাম্মাদ ﷺ-কে সাহায্য করবেন না। বাগাভী সর্বনামের ব্যাখ্যা দেন তাঁর নবী মুহাম্মাদ ﷺ। সা'দী এর সঙ্গে যোগ করেন লোকটির এই ধারণাও যে তাঁর দ্বীন একসময় মিলিয়ে যাবে।"
+          },
+          {
+            "en": "Yet the Prophet ﷺ is not named anywhere in the passage. Al-Qurtubi relays Ibn Abbas on this: the pronoun returns to Muhammad ﷺ even though he has not been mentioned, because the whole passage points to him. Faith is faith in Allah and in Muhammad, and turning back from the religion, as the man on the edge does, is turning back from the religion Muhammad brought. The Muyassar says what the help is: his religion prevailing here, and there his rank raised and his deniers punished.",
+            "bn": "অথচ পুরো অংশে কোথাও নবী ﷺ-এর নাম নেই। কুরতুবী ঠিক এ প্রশ্নেই ইবন আব্বাস (রাঃ)-এর কথা উদ্ধৃত করেন। নাম না এলেও সর্বনামটি মুহাম্মাদ ﷺ-এর দিকেই ফেরে, কারণ গোটা আলোচনাই তাঁর দিকে ইশারা করছে। ঈমান মানে আল্লাহর প্রতি ও মুহাম্মাদ ﷺ-এর প্রতি ঈমান। কিনারায় দাঁড়ানো লোকটি যে দ্বীন থেকে ফিরে যায়, সেটা মুহাম্মাদ ﷺ-এর আনা দ্বীন। সাহায্যটা কী, মুয়াসসার তা বলে দেয়। দুনিয়াতে তাঁর দ্বীনের বিজয়, আর আখিরাতে তাঁর মর্যাদা বৃদ্ধি ও তাঁকে অস্বীকারকারীদের শাস্তি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Help Means Provision",
+          "bn": "সাহায্য যখন রিজিক"
+        },
+        "p": [
+          {
+            "en": "The other side reads the pronoun as the person himself, and nasr, help, as provision. At-Tabari gives Mujahid through more than a single chain: an lan yansurahu Allah means that Allah will not provide for him. Al-Qurtubi relays the same from Mujahid, and adds a second report from Ibn Abbas that the pronoun returns to the man himself: whoever thinks Allah will not provide for him. Al-Baghawi, giving Mujahid's reading, says it came down about someone who thought ill of Allah and feared He would not provide for him.",
+            "bn": "অন্য পক্ষ সর্বনামটিকে ফেরান লোকটির নিজের দিকে, আর নাসর (সাহায্য) শব্দকে বোঝেন রিজিক অর্থে। তাবারী মুজাহিদের এ ব্যাখ্যা আনেন একাধিক সনদে: আন লান ইয়ানসুরাহুল্লাহ মানে আল্লাহ তাকে রিজিক দেবেন না। কুরতুবী মুজাহিদ থেকে একই কথা আনেন। সঙ্গে ইবন আব্বাস (রাঃ)-এর আরেকটি বর্ণনা যোগ করেন, যাতে সর্বনাম ফেরে লোকটির নিজের দিকে: যে মনে করে আল্লাহ তাকে রিজিক দেবেন না। বাগাভী মুজাহিদের পাঠ উল্লেখ করে বলেন, আয়াতটি তার সম্পর্কে, যে আল্লাহর প্রতি খারাপ ধারণা পোষণ করেছিল আর ভয় পাচ্ছিল তিনি তাকে রিজিক দেবেন না।"
+          },
+          {
+            "en": "The reading rests on Arabic usage. At-Tabari, al-Qurtubi and al-Baghawi all cite the saying man yansuruni nasarahu Allah, whoever gives to me, may Allah give to him, and al-Qurtubi and al-Baghawi both note that the Arabs call a land well rained upon ard mansura, which al-Baghawi credits to Abu 'Ubayda. At-Tabari also records a middle position: the pronoun is the Prophet ﷺ, but help means provision, with reports from Ibn Abbas through a man of Banu Tamim. Ibn Abbas, then, stands on more than one side in these texts.",
+            "bn": "এ পাঠের ভিত্তি আরবি ভাষার ব্যবহার। তাবারী, কুরতুবী ও বাগাভী তিনজনই আরবদের এ কথাটি আনেন: মান ইয়ানসুরুনী নাসারাহুল্লাহ, অর্থাৎ যে আমাকে দেয়, আল্লাহ তাকে দিন। কুরতুবী ও বাগাভী দুজনেই জানান, ভালো বৃষ্টি পাওয়া জমিকে আরবরা বলে আরদ মানসূরা। বাগাভী কথাটি আবু উবাইদার নামে আনেন। তাবারী একটি মাঝামাঝি মতও লিখে রাখেন: সর্বনাম নবী ﷺ-এর দিকে ফেরে, কিন্তু সাহায্য মানে রিজিক। এর পক্ষে আছে বনু তামীমের এক লোকের সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনা। এসব গ্রন্থে তাই ইবন আব্বাস (রাঃ)-কে একাধিক পক্ষে পাওয়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Cord to Which Sky",
+          "bn": "রশি কোন আকাশ পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Sabab is glossed as a rope by at-Tabari, Ibn Kathir, al-Baghawi and as-Sa'di; al-Qurtubi gives the root sense, whatever one reaches a thing by. The sky divides them. For most, al-sama' here is the ceiling of the man's own house. Ibn Kathir reports Ibn Abbas, the sky of his house, and says Mujahid, Ikrima, Ata', Qatada and others said the same. At-Tabari carries it through Ibn Abbas, Ikrima and ad-Dahhak, and Mujahid puts it as the sky of whatever is above you. Al-Baghawi calls it the view of most commentators.",
+            "bn": "সাবাব শব্দের অর্থ তাবারী, ইবন কাসীর, বাগাভী ও সা'দী করেন রশি। কুরতুবী দেন শব্দের মূল অর্থ: যা দিয়ে কোনো কিছুর কাছে পৌঁছানো যায়। মতভেদ আকাশ নিয়ে। বেশিরভাগের মতে এখানে আস-সামা মানে লোকটির নিজের ঘরের ছাদ। ইবন কাসীর ইবন আব্বাস (রাঃ)-এর কথা আনেন: তার ঘরের আকাশ। তিনি বলেন, মুজাহিদ, ইকরিমা, আতা, কাতাদা ও আরও অনেকে একই কথা বলেছেন। তাবারী এ মত আনেন ইবন আব্বাস (রাঃ), ইকরিমা ও দাহহাকের সূত্রে। মুজাহিদের ভাষায়, তোমার মাথার উপরে যা আছে তারই আকাশ। বাগাভী একে বেশিরভাগ তাফসীরকারের মত বলেন।"
+          },
+          {
+            "en": "Ibn Zayd takes the sky as the sky itself. At-Tabari reports him: whoever thinks Allah will not help His Prophet ﷺ and labours to cut this matter off from him, let him cut it at its root, where it comes from, for its root is in the sky. Let him stretch a means up to the sky and cut off from the Prophet ﷺ the revelation that reaches him from Allah. Ibn Kathir reports the same view: help comes to Muhammad from the sky, so let him reach it and cut it off, if he is able.",
+            "bn": "ইবন যায়দ আকাশ বলতে আসল আকাশই বোঝেন। তাবারী তাঁর কথা এভাবে আনেন: যে মনে করে আল্লাহ তাঁর নবী ﷺ-কে সাহায্য করবেন না, আর এ কাজটা নবীর কাছ থেকে ছিন্ন করতে খেটে মরে, সে বরং গোড়া থেকেই কাটুক, যেখান থেকে তা আসে। আর তার গোড়া তো আকাশে। কাজেই সে আকাশ পর্যন্ত একটা উপায় টানিয়ে নিক, তারপর নবী ﷺ-এর কাছে আল্লাহর পক্ষ থেকে আসা ওহী কেটে দিক। ইবন কাসীরও এ মত উল্লেখ করেন: মুহাম্মাদ ﷺ-এর কাছে সাহায্য আসে আকাশ থেকে, কাজেই পারলে সে সেখানে পৌঁছে তা কেটে দিক।"
+          },
+          {
+            "en": "Al-Qurtubi opens his comment with an-Nahhas, who counts this among the best things said: whoever thinks Allah will not help Muhammad ﷺ, let him look for a device to climb to the sky and cut the help off, if he can manage it. As-Sa'di paints it as advice in mockery: take a rope of palm fibre or the like, hang it from the sky, climb until you reach the gates through which help descends, then shut them. Ma'arif al-Qur'an calls the sky reading the most appropriate, and says al-Qurtubi thinks so too, though in his text the verdict is an-Nahhas's.",
+            "bn": "কুরতুবী তাঁর আলোচনা শুরু করেন নাহহাসের কথা দিয়ে। নাহহাসের মতে এ আয়াতের সবচেয়ে ভালো ব্যাখ্যাগুলোর একটি এই: যে মনে করে আল্লাহ মুহাম্মাদ ﷺ-কে সাহায্য করবেন না, সে আকাশে ওঠার কোনো কৌশল খুঁজুক, তারপর পারলে সাহায্যটা কেটে দিক। সা'দী ছবিটা আঁকেন বিদ্রূপভরা পরামর্শের ঢঙে। খেজুর গাছের আঁশ বা অন্য কিছুর একটা রশি নাও, আকাশে ঝুলিয়ে দাও, বেয়ে ওঠো সেই দরজাগুলো পর্যন্ত যেখান দিয়ে সাহায্য নামে, তারপর সেগুলো বন্ধ করে দাও। মাআরিফুল কুরআন আকাশের পাঠটিকেই সবচেয়ে উপযুক্ত বলে, আর জানায় কুরতুবীও একে সেরা মনে করেন। কুরতুবীর লেখায় অবশ্য রায়টি নাহহাসের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Verdicts Weighed",
+          "bn": "দুই রায়ের পাল্লা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir weighs the two skies and sides with the ceiling: the view of Ibn Abbas and his companions is more fitting, plainer in meaning and more eloquent in mockery. His paraphrase, aimed at whoever is enraged by Allah's help for Muhammad, His Book and His religion, ends on its ground: Allah will help him without fail. He cites 40:51: We will surely help Our messengers and those who believe in the life of this world and on the Day the witnesses stand.",
+            "bn": "ইবন কাসীর দুই আকাশের পাঠ মেপে দেখে ছাদের পক্ষ নেন। তাঁর ভাষায়, ইবন আব্বাস (রাঃ) ও তাঁর সঙ্গীদের মতটিই বেশি যথার্থ, অর্থে বেশি স্পষ্ট, আর বিদ্রূপে বেশি তীক্ষ্ণ। তাঁর ব্যাখ্যার লক্ষ্য সেই লোক, মুহাম্মাদ ﷺ, তাঁর কিতাব ও তাঁর দ্বীনের প্রতি আল্লাহর সাহায্য দেখে যে রেগে জ্বলে। ব্যাখ্যা শেষ হয় তার ভিত্তিতে: আল্লাহ তাঁকে সাহায্য করবেনই। প্রমাণ হিসেবে তিনি আনেন ৪০:৫১: আমি অবশ্যই আমার রাসূলদের ও ঈমানদারদের সাহায্য করব দুনিয়ার জীবনে এবং যেদিন সাক্ষীরা দাঁড়াবে সেদিনও।"
+          },
+          {
+            "en": "At-Tabari's own verdict takes the pronoun as the Prophet ﷺ and his religion, and his reason is the passage. Allah has just described those who worship Him on an edge, steady in good times and turning back under hardship. This verse follows as a rebuke for that turning back, impatient as they were for an easier living. So he reads: whoever reckons that Allah will not provide for Muhammad and his community, here or in the Hereafter, and grows impatient for it, let him see whether his rage removes what enrages him.",
+            "bn": "তাবারীর নিজের রায়ে সর্বনামটি নবী ﷺ ও তাঁর দ্বীনের দিকে ফেরে। তাঁর যুক্তি আয়াতের অবস্থান। আল্লাহ এইমাত্র এমন লোকদের কথা বলেছেন, যারা কিনারায় দাঁড়িয়ে তাঁর ইবাদত করে। ভালো কিছু পেলে দ্বীনে থিতু থাকে, কষ্ট এলে ফিরে যায়। এ আয়াত আসে তাদের সেই ফিরে যাওয়ার জন্য তিরস্কার হয়ে, কারণ সচ্ছল জীবনের জন্য তারা অধৈর্য হয়ে পড়েছিল। তাই তাবারীর পাঠ: যে ধরে নেয় আল্লাহ মুহাম্মাদ ﷺ ও তাঁর উম্মতকে দুনিয়াতে বা আখিরাতে রিজিক দেবেন না, আর এ নিয়ে অধৈর্য হয়ে ওঠে, সে দেখুক তার রাগ তার রাগের কারণ দূর করে কি না।"
+          },
+          {
+            "en": "It will not, at-Tabari says, until Allah brings relief from Himself; and in the same way the man's impatience will not move Allah's help for Muhammad ﷺ before its appointed time. He adds, under the words it has been mentioned, that the verse came down about Asad and Ghatafan, who held back from Islam saying they feared Muhammad would not be helped and their alliance with the Jews would then be cut. Al-Baghawi relays it as it is narrated. Neither gives a chain, so it stays a report and not a settled occasion of revelation.",
+            "bn": "তাবারী বলেন, দূর করবে না, যতক্ষণ না আল্লাহ নিজের পক্ষ থেকে স্বস্তি আনেন। ঠিক তেমনি, লোকটির অধৈর্য মুহাম্মাদ ﷺ-এর জন্য আল্লাহর সাহায্যকে তার নির্ধারিত সময়ের আগে টেনে আনবে না। তিনি 'উল্লেখ করা হয়েছে' কথাটি দিয়ে আরও জানান, আয়াতটি নাযিল হয়েছিল আসাদ ও গাতাফান গোত্র সম্পর্কে। তারা ইসলাম গ্রহণে গড়িমসি করছিল, আর বলছিল, ভয় হয় মুহাম্মাদ সাহায্য পাবেন না, তখন ইহুদিদের সঙ্গে আমাদের মৈত্রী ছিন্ন হয়ে যাবে। বাগাভী এটা আনেন 'বর্ণিত আছে' বলে। দুজনের কেউই কোনো সনদ দেননি। তাই এটা একটা বর্ণনা হিসেবেই থাকে, নাযিলের প্রতিষ্ঠিত প্রেক্ষাপট হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Orders That Are Not Orders",
+          "bn": "আদেশের রূপে আদেশ নয়"
+        },
+        "p": [
+          {
+            "en": "The verbs here have the shape of commands, but their force is the opposite. Al-Baghawi says so outright: this is not by way of a binding command that he should do it. It is rather like saying to an envious man, if you are not pleased with this, choke and die of rage. Ibn Kathir calls it mockery, and as-Sa'di says the closing question carries the force of a denial: nothing the man does will cure his rage.",
+            "bn": "এ আয়াতের ক্রিয়াগুলো দেখতে আদেশের মতো, কিন্তু এদের আসল জোর ঠিক উল্টো দিকে। বাগাভী তা খোলাখুলি বলেন। এটা এমন কোনো বাধ্যতামূলক আদেশ নয় যে লোকটিকে কাজটা করতেই হবে। বরং এটা হিংসুক লোককে বলা সেই কথার মতো: এতে খুশি না হলে রাগে দম আটকে মরো। ইবন কাসীর একে বলেন বিদ্রূপ। সা'দী বলেন, শেষের প্রশ্নটি আসলে না-বোধক। লোকটি যা-ই করুক, তার রাগ তাতে জুড়াবে না।"
+          },
+          {
+            "en": "This needs saying plainly, and gently. The verse is not permission to harm oneself. It speaks to a man furious that Allah helps His Messenger, and shows him that his fury has nowhere to go. Elsewhere the Qur'an forbids it in so many words: do not kill yourselves; indeed, Allah is ever Merciful to you (4:29). If you came here in a dark hour, hear what it says: rage and despair cannot reach what Allah has decided, and they were never meant to be obeyed.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার, আর নরম করে। এ আয়াত নিজের ক্ষতি করার কোনো অনুমতি নয়। আয়াতটি কথা বলছে এমন লোকের সঙ্গে, যে আল্লাহ তাঁর রাসূলকে সাহায্য করেন বলে রাগে ফুঁসছে। তাকে দেখিয়ে দিচ্ছে, তার রাগের যাওয়ার কোনো জায়গা নেই। অন্য জায়গায় কুরআন স্পষ্ট ভাষায় নিষেধ করেছে: তোমরা নিজেদের হত্যা করো না, নিশ্চয়ই আল্লাহ তোমাদের প্রতি পরম দয়ালু (৪:২৯)। অন্ধকার কোনো মুহূর্তে এখানে এসে থাকলে আয়াতের আসল কথাটা শুনুন। রাগ আর হতাশা আল্লাহর ফয়সালা পর্যন্ত পৌঁছাতে পারে না, আর তাদের হুকুম মেনে চলার জিনিসও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Relief Seems Late",
+          "bn": "স্বস্তি আসতে দেরি হলে"
+        },
+        "p": [
+          {
+            "en": "The provision reading touches a state many people know. Mujahid's man is plotting against nobody; he has simply concluded that Allah will not provide for him. At-Tabari's reading is about impatience for an easier life. Both describe a heart that has settled the outcome before Allah has. At-Tabari's answer is quiet: the rage will not lift the distress until Allah brings relief from Himself. The verse does not promise less pain. It asks the sufferer not to let the pain pronounce the verdict, and 39:53 says it outright: do not despair of the mercy of Allah.",
+            "bn": "রিজিকের পাঠটি এমন এক অবস্থার কথা বলে, যা অনেকেরই চেনা। মুজাহিদের লোকটি কারও বিরুদ্ধে ষড়যন্ত্র করছে না। সে শুধু ধরে নিয়েছে, আল্লাহ তাকে রিজিক দেবেন না। তাবারীর নিজের পাঠ সচ্ছল জীবনের জন্য অধৈর্যের কথা বলে। দুটোতেই এমন এক অন্তরের ছবি, যে আল্লাহর আগেই ফলাফল ঠিক করে বসে আছে। তাবারীর জবাব শান্ত: রাগে কষ্ট সরে না, যতক্ষণ না আল্লাহ নিজের পক্ষ থেকে স্বস্তি আনেন। আয়াতটি কষ্ট কমানোর প্রতিশ্রুতি দেয় না। সে চায়, কষ্ট যেন রায় দেওয়ার মালিক না হয়ে বসে। ৩৯:৫৩ তো স্পষ্টই বলে: আল্লাহর রহমত থেকে নিরাশ হয়ো না।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it. A general narration, not tied to this verse, speaks to the same state. Anas bin Malik reports that the Prophet ﷺ said: None of you should wish for death because of a calamity befalling him; but if he has to wish for death, he should say: O Allah! Keep me alive as long as life is better for me, and let me die if death is better for me. It is in al-Bukhari, 5671. Even the wish becomes a prayer that hands the matter back to Allah.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ হাদীস, যা এ আয়াতের সঙ্গে সম্পর্কিত নয়, ঠিক এই অবস্থার কথা বলে। আনাস ইবন মালিক (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: তোমাদের কেউ যেন তার উপর আসা কোনো বিপদের কারণে মৃত্যু কামনা না করে। আর যদি একান্তই কামনা করতে হয়, তবে যেন বলে: হে আল্লাহ, আমাকে বাঁচিয়ে রাখুন যতদিন বেঁচে থাকা আমার জন্য কল্যাণকর, আর আমাকে মৃত্যু দিন যখন মৃত্যু আমার জন্য কল্যাণকর। হাদীসটি বুখারীতে আছে, ৫৬৭১ নম্বরে। কামনাটাও হয়ে যায় এমন দোয়া, যা পুরো বিষয়টা আল্লাহর হাতে ফিরিয়ে দেয়।"
+          },
+          {
+            "en": "If thoughts of ending your life come, they are a weight to share, not a verdict to follow. Tell someone today: a family member, a friend, an imam, a doctor, or a local crisis line. Asking for that help is not a failure of faith. The man in this verse raged at Allah's help; whoever turns to Allah for help in a struggle is his opposite, and that help is not closed to you.",
+            "bn": "নিজের জীবন শেষ করার চিন্তা যদি মনে আসে, তবে সেটা ভাগ করে নেওয়ার মতো বোঝা, মেনে নেওয়ার মতো রায় নয়। আজই কাউকে বলুন: পরিবারের কাউকে, বন্ধুকে, ইমামকে, ডাক্তারকে, কিংবা আপনার এলাকার কোনো সংকটকালীন হেল্পলাইনে। এভাবে সাহায্য চাওয়া ঈমানের দুর্বলতা নয়। এ আয়াতের লোকটি আল্লাহর সাহায্য দেখে রেগে জ্বলেছিল। আর যে কষ্টের মধ্যে আল্লাহর কাছে সাহায্য চায়, সে ঠিক তার উল্টো। সেই সাহায্যের দরজা আপনার জন্য বন্ধ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Scheming That Heals Nothing",
+          "bn": "যে কৌশলে জ্বালা জুড়ায় না"
+        },
+        "p": [
+          {
+            "en": "Kayduhu, his scheming, is glossed by al-Baghawi as his doing and his device. As-Sa'di includes all his plotting against the Messenger. Ma yaghiz is read two ways, as that which enrages him, with the pronoun dropped for lightness, or as a verbal noun, his rage itself; at-Tabari and al-Qurtubi record both, and al-Baghawi takes the second. In Ibn Kathir, as-Suddi names what enrages him: the affair of Muhammad ﷺ.",
+            "bn": "কাইদুহু মানে তার কৌশল। বাগাভী এর অর্থ করেন তার কাজ আর তার ফন্দি। সা'দীর মতে রাসূলের বিরুদ্ধে লোকটির সব ষড়যন্ত্রই এর ভেতরে। মা ইয়াগীয দুইভাবে পড়া হয়। এক, যা তাকে রাগায়, যেখানে হালকা করার জন্য সর্বনামটি বাদ পড়েছে। দুই, ক্রিয়াবাচক বিশেষ্য হিসেবে, অর্থাৎ তার রাগ নিজেই। তাবারী ও কুরতুবী দুটোই উল্লেখ করেন, আর বাগাভী নেন দ্বিতীয়টি। ইবন কাসীরের গ্রন্থে সুদ্দী রাগের কারণটির নাম দেন: মুহাম্মাদ ﷺ-এর বিষয়।"
+          },
+          {
+            "en": "The verse describes a kind of man: someone who resents that Allah helps His Messenger and schemes to stop it. It describes what the text describes and licenses nothing against any living person or community; it gives no reader the right to point at a neighbour and call him the man with the rope. As-Sa'di reads in it a promise and good news of Allah's help for His religion, His Messenger and His believing servants, and a sentence of despair for those who would put out Allah's light with their mouths.",
+            "bn": "আয়াতটি এক ধরনের মানুষের ছবি আঁকে: যে আল্লাহ তাঁর রাসূলকে সাহায্য করেন বলে জ্বলে, আর তা থামাতে ফন্দি আঁটে। আয়াতে যা বর্ণিত হয়েছে, আয়াত শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটা কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীর দিকে আঙুল তুলে তাকে দড়িওয়ালা লোক বলার অধিকারও এ আয়াত কোনো পাঠককে দেয় না। সা'দী এতে পান আল্লাহর দ্বীন, তাঁর রাসূল ও তাঁর মুমিন বান্দাদের জন্য সাহায্যের প্রতিশ্রুতি ও সুসংবাদ। আর যারা মুখের ফুঁতে আল্লাহর নূর নিভিয়ে দিতে চায়, তাদের জন্য নিরাশার ঘোষণা।"
+          },
+          {
+            "en": "So the verse ends with a question the man must answer by looking: did it work? Rage aimed at Allah's decree, whether at the help He gives His Messenger or at the share He has written for oneself, cuts nothing above. What it wears down is whoever holds it. The believer's way is not to feel nothing. It is to wait for Allah's appointed time, to ask Him while waiting, and to keep worshipping Him in the middle of the trial rather than from its edge.",
+            "bn": "আয়াতটি তাই শেষ হয় এমন এক প্রশ্নে, যার উত্তর লোকটিকে নিজের চোখে দেখে নিতে হবে: কাজ হলো কি? আল্লাহর ফয়সালার বিরুদ্ধে রাগ, তা তাঁর রাসূলকে দেওয়া সাহায্যের বিরুদ্ধেই হোক কিংবা নিজের ভাগ্যে তিনি যা লিখেছেন তার বিরুদ্ধে, উপরের কিছুই কাটতে পারে না। ক্ষয় করে শুধু রাগ যে পুষে রাখে তাকেই। মুমিনের পথ কিছুই অনুভব না করা নয়। তার পথ হলো আল্লাহর নির্ধারিত সময়ের অপেক্ষা, অপেক্ষার মধ্যেও তাঁর কাছে চাওয়া, আর পরীক্ষার কিনারায় দাঁড়িয়ে নয়, তার মাঝখানে থেকেই তাঁর ইবাদত চালিয়ে যাওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "22:18": {
     "sections": [
       {
