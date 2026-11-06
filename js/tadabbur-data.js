@@ -29187,6 +29187,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Angels carried the reminder down so that it would reach you. Receive it with care and act on it, for once it has arrived, the excuse of not knowing is gone.",
     "lessonBn": "ফেরেশতারা যিকর নামিয়ে এনেছে যাতে তা আপনার কাছে পৌঁছায়। যত্ন নিয়ে তা গ্রহণ করুন, তার উপর আমল করুন, কারণ পৌঁছে যাওয়ার পর না-জানার ওজর আর থাকে না।"
+  },
+  "75:37": {
+    "reflectionEn": "The surah has just asked whether a person thinks he will be left to drift, never asked and never raised. The reply begins by pointing backwards: was he not once a drop of fluid, poured out? Before the clot, before the shape, before the name, there was only that. Nobody chose it, nobody earned it, and nobody remembers it. Yet from it came someone who walks, argues and doubts the Return. The verse does not ask the doubter to imagine anything new. It asks him to look at what has already happened to him. If the first making was possible from so little, why should the second seem hard? And if I began that small, what is my pride standing on?",
+    "reflectionBn": "সূরাটি একটু আগেই প্রশ্ন করেছে: মানুষ কি ভাবে, তাকে এমনি ছেড়ে দেওয়া হবে, কেউ কিছু জিজ্ঞেস করবে না, আবার ওঠানোও হবে না? জবাবটা শুরু হয় পেছনের দিকে আঙুল তুলে। সে কি একসময় নিক্ষিপ্ত এক ফোঁটা পানি ছিল না? রক্তপিণ্ডের আগে, আকৃতির আগে, নামের আগে ছিল শুধু ওইটুকু। কেউ তা বেছে নেয়নি, কেউ তা অর্জন করেনি, কারও তা মনেও নেই। অথচ সেখান থেকেই এমন একজন তৈরি হলো, যে হাঁটে, তর্ক করে, আর ফিরে যাওয়ার কথায় সন্দেহ তোলে। আয়াতটি সন্দেহকারীকে নতুন কিছু কল্পনা করতে বলে না। বলে, তোমার সঙ্গে যা আগেই ঘটে গেছে, সেদিকে তাকাও। এত সামান্য থেকে প্রথম সৃষ্টি যদি সম্ভব হয়ে থাকে, দ্বিতীয়বার কঠিন মনে হবে কেন? আর আমার শুরু যদি এতটাই ছোট হয়, তবে আমার অহংকার দাঁড়িয়ে আছে কিসের উপর?",
+    "pointsEn": [
+      "When I catch myself doubting that I will be raised and asked, have I set that doubt beside the plain fact of how I began?",
+      "What do I own or claim today that did not begin as something I neither chose nor earned?",
+      "Where in my week do I act as though no one will ever ask me about it?",
+      "When I look at a newborn, or at my own face in the mirror, do I see a reminder of the Return, or only a face?",
+      "How would I speak to the people I look down on if I kept in mind that we all began from the same small water?"
+    ],
+    "pointsBn": [
+      "আমাকে আবার ওঠানো হবে, জিজ্ঞেস করা হবে, এ কথায় যখন মনে সন্দেহ জাগে, তখন কি সেই সন্দেহকে আমার শুরুর সোজা সত্যটার পাশে রেখে দেখেছি?",
+      "আজ আমার যা কিছু আছে বা যা নিয়ে দাবি করি, তার কোনটা এমন কিছু থেকে শুরু হয়নি, যা আমি বেছেও নিইনি, অর্জনও করিনি?",
+      "সপ্তাহের কোন কোন সময়ে আমি এমনভাবে চলি, যেন এ নিয়ে কেউ কোনোদিন আমাকে কিছু জিজ্ঞেস করবে না?",
+      "সদ্য জন্মানো শিশুর দিকে বা আয়নায় নিজের মুখের দিকে তাকালে আমি কি ফিরে যাওয়ার কথা মনে করি, নাকি শুধু একটা চেহারাই দেখি?",
+      "আমরা সবাই একই সামান্য পানি থেকে শুরু করেছি, এ কথা মনে রাখলে যাদের আমি তুচ্ছ ভাবি, তাদের সঙ্গে কীভাবে কথা বলতাম?"
+    ],
+    "lessonEn": "Remember the drop you began as: it humbles pride, and it shows that the One who made you once can make you again.",
+    "lessonBn": "যে ফোঁটা থেকে আপনার শুরু, তা মনে রাখুন। তা অহংকার ভেঙে দেয়, আর দেখিয়ে দেয় যিনি একবার বানিয়েছেন, তিনি আবারও বানাতে পারেন।"
   }
 };
 

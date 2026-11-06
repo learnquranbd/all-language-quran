@@ -1330,5 +1330,169 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "75:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Drop Set Against Doubt",
+          "bn": "সন্দেহের সামনে এক ফোঁটা"
+        },
+        "p": [
+          {
+            "en": "A-lam yaku nutfatan min maniyyin yumna: was he not a drop of fluid emitted? The previous verse asked whether man thinks he will be left aimless, and this one replies with a question of its own. At-Tabari names the one being questioned narrowly: this man who denies that Allah is able to give him life after his death and bring him into being after he has perished. Al-Muyassar keeps the same figure, the human being who denies the raising, while Ibn Kathir's Arabic says simply al-insan.",
+            "bn": "আলাম ইয়াকু নুতফাতাম মিম মানিয়্যিন ইউমনা: সে কি নিক্ষিপ্ত মানীর এক ফোঁটা ছিল না? আগের আয়াত জিজ্ঞেস করেছে, মানুষ কি ভাবে তাকে লাগামহীন ছেড়ে দেওয়া হবে। এ আয়াত তার জবাব দেয় নিজেরই এক প্রশ্ন দিয়ে। যাকে প্রশ্ন করা হচ্ছে, তাবারী তাকে চিহ্নিত করেন সংকীর্ণভাবে। সে এমন লোক, যে অস্বীকার করে যে মৃত্যুর পর আল্লাহ তাকে আবার জীবন দিতে পারেন, বিলীন হওয়ার পর আবার অস্তিত্বে আনতে পারেন। মুয়াসসারও একই ছবি রাখে: পুনরুত্থান অস্বীকারকারী মানুষ। আর ইবন কাসীরের আরবি পাঠে আছে শুধু আল-ইনসান, মানুষ।"
+          },
+          {
+            "en": "The article on 75:36 sets out how these four verses answer the question of being left aimless; this article stays with the first of them, its words and its readings. The verse describes a man who doubts the Return, in the reading of at-Tabari and al-Muyassar a denier, and it licenses nothing against any living person or community. Its mirror is held up to every reader alike, because every reader began exactly as it says. The question is put to the denier, but the drop is everyone's.",
+            "bn": "লাগামহীন ছেড়ে দেওয়ার প্রশ্নের জবাব এই চারটি আয়াত কীভাবে দেয়, তা ৭৫:৩৬ আয়াতের প্রবন্ধে আছে। এখানে আলোচনা থাকবে প্রথম আয়াতটিকে ঘিরে, তার শব্দ আর তার কিরাআত নিয়ে। আয়াতটি এমন এক লোকের কথা বলে, যে ফিরে যাওয়ার ব্যাপারে সন্দেহ করে। তাবারী ও মুয়াসসারের পাঠে সে অস্বীকারকারী। কিন্তু এ আয়াত কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। এর আয়না সব পাঠকের সামনে সমানভাবে ধরা, কারণ প্রত্যেকের শুরু ঠিক এভাবেই হয়েছে। প্রশ্নটা অস্বীকারকারীর দিকে, কিন্তু ফোঁটাটা সবার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water That Drips",
+          "bn": "যে পানি টপটপ করে পড়ে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi starts from the word itself. An-nutfah is al-ma' al-qalil, a little water, and he gives the usage behind it: nutifa al-ma', said when water drips. His gloss of the verse keeps that picture: from a drop of water tumna in the womb, that is, poured into it. At-Tabari defines the nutfah the same way, as a little water, and places it in the man's loins, min mani. Both choose smallness as the first thing to say about the drop.",
+            "bn": "কুরতুবী শুরু করেন শব্দটি থেকেই। আন-নুতফা মানে আল-মাউল কালীল, অল্প পানি। এর পেছনের প্রয়োগটাও তিনি দেখান: পানি যখন টপটপ করে পড়ে, তখন আরবরা বলে নুতিফাল মা। আয়াতের ব্যাখ্যাতেও তিনি সেই ছবিই রাখেন: পানির এমন এক ফোঁটা, যা জরায়ুতে তুমনা, অর্থাৎ ঢেলে দেওয়া হয়। তাবারীও নুতফার সংজ্ঞা দেন একইভাবে, অল্প পানি। তিনি তাকে রাখেন পুরুষের পিঠে, মানী থেকে। দুজনেই ফোঁটাটির বেলায় প্রথমে বলেন তার ক্ষুদ্রতার কথা।"
+          },
+          {
+            "en": "Ibn Kathir adds weakness. His gloss reads: was not man a nutfah da'ifah, a weak drop, min ma'in mahin, from a lowly water, emitted, poured from the loins into the wombs. Al-Muyassar uses the same pair of descriptions, a weak drop from a lowly water, and adds a second verb to the pouring: it is poured out and flows into the wombs. As-Sa'di's fetched text on this verse quotes the verse alone, without comment.",
+            "bn": "ইবন কাসীর যোগ করেন দুর্বলতার কথা। তাঁর ব্যাখ্যা: মানুষ কি ছিল না নুতফাতুন দাঈফা, এক দুর্বল ফোঁটা, মিম মাইম মাহীন, তুচ্ছ পানি থেকে, যা নিক্ষিপ্ত হয়, পিঠ থেকে গর্ভাশয়ে ঢালা হয়? মুয়াসসারও একই দুটি বিশেষণ ব্যবহার করে: তুচ্ছ পানির দুর্বল ফোঁটা। ঢালার সঙ্গে সে আরেকটি ক্রিয়া জোড়ে: তা ঢালা হয় এবং গড়িয়ে গর্ভাশয়ে পৌঁছে। এ আয়াতের জন্য সা'দীর যে পাঠ পাওয়া গেছে, তাতে শুধু আয়াতটিই আছে, কোনো ব্যাখ্যা নেই।"
+          },
+          {
+            "en": "Whose water is it? Al-Qurtubi answers in this verse: a little water in the loins of the man and the tara'ib of the woman. At-Tabari, as quoted, names only the man's loins. The question of the two waters is set out in the article on 86:6, and the phrase ma' mahin, lowly water, which Ibn Kathir and al-Muyassar use here, is the Qur'an's own wording at 77:20, which has its own article. Neither discussion is rebuilt here.",
+            "bn": "পানিটা কার? কুরতুবী এ আয়াতেই উত্তর দেন: পুরুষের পিঠ আর নারীর তারাইবের অল্প পানি। তাবারীর যে কথা উদ্ধৃত হলো, তাতে শুধু পুরুষের পিঠের উল্লেখ আছে। দুই পানির প্রশ্নটি ৮৬:৬ আয়াতের প্রবন্ধে বিস্তারিত আছে। আর ইবন কাসীর ও মুয়াসসার এখানে যে মা-উম মাহীন, তুচ্ছ পানি, কথাটি ব্যবহার করেন, তা ৭৭:২০ আয়াতে কুরআনেরই নিজের ভাষা। সে আয়াতেরও আলাদা প্রবন্ধ আছে। কোনো আলোচনাই এখানে আবার সাজানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Yumna or Tumna",
+          "bn": "ইউমনা, না তুমনা"
+        },
+        "p": [
+          {
+            "en": "The last word of the verse was read in two ways, and at-Tabari reports the difference in a few lines. The generality of the readers of Madinah and Kufah read tumna, with the letter ta', meaning that the nutfah is emitted. Some of the readers of Makkah and Basrah read yumna, with ya', meaning that the mani is emitted. The whole difference is one letter at the front of the verb.",
+            "bn": "আয়াতের শেষ শব্দটি দুইভাবে পড়া হয়েছে। তাবারী কয়েক লাইনে এই পার্থক্যের কথা জানান। মদীনা আর কূফার কারীদের অধিকাংশ পড়েছেন তুমনা, তা হরফ দিয়ে। তখন অর্থ দাঁড়ায়: নুতফাটি নিক্ষিপ্ত হয়। মক্কা আর বসরার কিছু কারী পড়েছেন ইউমনা, ইয়া হরফ দিয়ে। তখন অর্থ: মানী নিক্ষিপ্ত হয়। ক্রিয়ার শুরুর একটিমাত্র হরফে দুই কিরাআতের তফাত।"
+          },
+          {
+            "en": "His verdict is brief and settles nothing against either side: the correct view is that they are two well-known readings, both sound in meaning, so whichever a reader recites, he is right. He prefers neither. When he comes to 75:40 and restates the whole argument, the phrase appears in his own sentence as min maniyyin yumna, with ya', as the text was fetched.",
+            "bn": "তাঁর রায় সংক্ষিপ্ত, আর তাতে কোনো পক্ষকেই খারিজ করা হয় না। সঠিক কথা হলো, দুটিই পরিচিত কিরাআত, অর্থের দিক থেকে দুটিই শুদ্ধ। যে কারী যেটিই পড়ুন, তিনি ঠিক পড়েছেন। তিনি কোনোটিকে প্রাধান্য দেন না। পরে ৭৫:৪০ আয়াতে এসে যখন তিনি পুরো যুক্তিটা আবার বলেন, তখন তাঁর নিজের বাক্যে শব্দগুচ্ছটি আসে মিম মানিয়্যিন ইউমনা রূপে, ইয়া দিয়ে, অন্তত পাওয়া পাঠে তাই আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Readers Named, Choices Made",
+          "bn": "কারীদের নাম, পছন্দের তফাত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi name individuals where at-Tabari named cities. Al-Qurtubi: Hafs read yumna with ya', and it is also the reading of Ibn Muhaysin, Mujahid, Ya'qub, and 'Ayyash from Abu 'Amr; Abu 'Ubayd chose it because of al-mani. The rest read with ta' because of the nutfah, and Abu Hatim chose that. Al-Baghawi: Hafs from 'Asim read yumna with ya', and it is the reading of al-Hasan; the others read with ta', because of the nutfah.",
+            "bn": "তাবারী যেখানে শহরের নাম বলেছেন, কুরতুবী আর বাগাভী সেখানে নাম বলেন ব্যক্তির। কুরতুবীর বর্ণনা: হাফস ইয়া দিয়ে ইউমনা পড়েছেন। ইবন মুহাইসিন, মুজাহিদ, ইয়াকুব এবং আবু আমর থেকে আইয়াশের কিরাআতও এটাই। আবু উবাইদ মানী শব্দের কারণে এটিকে বেছে নিয়েছেন। বাকিরা পড়েছেন তা দিয়ে, নুতফার কারণে, আর আবু হাতিম বেছে নিয়েছেন এটিকে। বাগাভীর বর্ণনা: আসিম থেকে হাফস ইয়া দিয়ে ইউমনা পড়েছেন, আর এটি হাসানের কিরাআত। অন্যরা পড়েছেন তা দিয়ে, নুতফার কারণে।"
+          },
+          {
+            "en": "So the scholars who weighed the two did not agree. Abu 'Ubayd chose yumna and Abu Hatim chose tumna, each for the noun he took the verb to follow, while at-Tabari accepted both; this article takes no side. At-Tabari speaks of the generality of readers in each city, not all of them, and the other two name particular readers, so the accounts stand side by side. The Arabic text this app displays carries Hafs from 'Asim: yumna, with ya'.",
+            "bn": "অর্থাৎ যাঁরা দুই কিরাআত যাচাই করেছেন, তাঁরা একমত হননি। আবু উবাইদ বেছে নিয়েছেন ইউমনা, আবু হাতিম তুমনা। প্রত্যেকে বেছেছেন সেই বিশেষ্য দেখে, যার সঙ্গে তিনি ক্রিয়াটিকে মিলিয়েছেন। আর তাবারী দুটিকেই গ্রহণ করেছেন। এ প্রবন্ধ কোনো পক্ষ নেয় না। তাবারী বলেছেন প্রতিটি শহরের অধিকাংশ কারীর কথা, সবার নয়। অন্য দুজন নির্দিষ্ট কারীদের নাম বলেছেন। তাই বর্ণনাগুলো পাশাপাশি থাকতে পারে। এই অ্যাপে যে আরবি পাঠ দেখানো হয়, তা আসিম থেকে হাফসের কিরাআত: ইউমনা, ইয়া দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Noun the Verb Follows",
+          "bn": "ক্রিয়াটি কোন বিশেষ্যের সঙ্গী"
+        },
+        "p": [
+          {
+            "en": "The reasons the commentators give are grammatical. In Arabic a verb's opening letter can mark the gender of what it describes: ta' for a feminine subject, ya' for a masculine. Nutfah is a feminine noun and mani a masculine noun, and the verse sets both before the verb. That is why al-Qurtubi and al-Baghawi explain the ta' reading as li-ajl al-nutfah, on account of the drop, and al-Qurtubi explains Abu 'Ubayd's ya' as li-ajl al-mani, on account of the fluid.",
+            "bn": "তাফসীরকারেরা যে কারণ দেখান, তা ব্যাকরণগত। আরবিতে ক্রিয়ার প্রথম হরফ অনেক সময় বলে দেয়, যার কথা বলা হচ্ছে সে স্ত্রীলিঙ্গ না পুংলিঙ্গ। স্ত্রীলিঙ্গের জন্য তা, পুংলিঙ্গের জন্য ইয়া। নুতফা স্ত্রীলিঙ্গ বিশেষ্য, মানী পুংলিঙ্গ। আর আয়াতে দুটিই ক্রিয়ার আগে এসেছে। এ কারণেই কুরতুবী ও বাগাভী তা-এর কিরাআতের ব্যাখ্যা দেন লিআজলিন নুতফা বলে, অর্থাৎ ফোঁটার কারণে। আর আবু উবাইদের ইয়া-এর ব্যাখ্যায় কুরতুবী বলেন লিআজলিল মানী, অর্থাৎ তরলটির কারণে।"
+          },
+          {
+            "en": "At-Tabari puts the same point as two short paraphrases: tumna al-nutfah, the drop is emitted, and yumna al-mani, the fluid is emitted. Read either way, the picture hardly moves. In one the drop is the thing poured; in the other it is the fluid the drop is taken from. Both describe something small, passed on and placed where it had no say in the matter, and at-Tabari, for his part, calls the two readings sound in meaning.",
+            "bn": "তাবারী একই কথা বলেন দুটি ছোট বাক্যে। তুমনান নুতফা: ফোঁটাটি নিক্ষিপ্ত হয়। ইউমনাল মানী: তরলটি নিক্ষিপ্ত হয়। যেভাবেই পড়া হোক, ছবিটা প্রায় একই থাকে। এক কিরাআতে যা ঢালা হচ্ছে তা ফোঁটা, অন্যটিতে সেই তরল, যা থেকে ফোঁটাটির উৎপত্তি। দুটিই এমন এক সামান্য জিনিসের কথা বলে, যা এক জায়গা থেকে অন্য জায়গায় যায়, আর যেখানে গিয়ে পড়ে সেখানে তার নিজের কোনো মত চলে না। তাবারীও দুই কিরাআতকেই অর্থের দিক থেকে শুদ্ধ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blood, Then Balance, Then Spirit",
+          "bn": "রক্ত, তারপর সুষমা ও রূহ"
+        },
+        "p": [
+          {
+            "en": "The next verse, 75:38, carries the chain on: thumma kana 'alaqatan fa-khalaqa fa-sawwa. At-Tabari: then he was blood after he had been a nutfah, then an 'alaqah, then Allah made him a well-formed human being, speaking, hearing and seeing. Al-Qurtubi also glosses 'alaqah as blood after the drop, and adds a remark on the whole sequence: Allah ordered him through all of this despite the lowliness of his worth. As-Sa'di: after the mani, an 'alaqah, that is, blood.",
+            "bn": "পরের আয়াত, ৭৫:৩৮, ধারাটা এগিয়ে নেয়: সুম্মা কানা আলাকাতান ফাখালাকা ফাসাওয়া। তাবারীর ব্যাখ্যা: নুতফা থাকার পর সে হলো রক্ত, তারপর আলাকা। তারপর আল্লাহ তাকে বানালেন সুগঠিত মানুষ, যে কথা বলে, শোনে, দেখে। কুরতুবীও আলাকার অর্থ বলেন ফোঁটার পরের রক্ত। আর পুরো ধারাটি নিয়ে তিনি একটি কথা যোগ করেন: মানুষের মর্যাদা তুচ্ছ হওয়া সত্ত্বেও আল্লাহ তাকে এসব ধাপের মধ্য দিয়ে বিন্যস্ত করেছেন। সা'দী বলেন, মানীর পর আলাকা, অর্থাৎ রক্ত।"
+          },
+          {
+            "en": "The two final verbs draw the most comment. Al-Qurtubi reads fa-khalaqa as He measured out, and fa-sawwa as He proportioned and balanced him by placing the spirit in him. Al-Baghawi says the same in a line: He put the spirit in him and proportioned his form. As-Sa'di reads them as Allah creating the living being from the clot and making it exact and firm. Ibn Kathir's Arabic inserts a further stage before the form, a mudghah, then the shaping and the breathing in of the spirit.",
+            "bn": "শেষ দুটি ক্রিয়া নিয়েই কথা বেশি। কুরতুবী ফাখালাকার অর্থ করেন: তিনি পরিমাপ ঠিক করলেন। আর ফাসাওয়া: তার ভেতরে রূহ দিয়ে তাকে সুষম ও ভারসাম্যপূর্ণ করলেন। বাগাভী এক লাইনে একই কথা বলেন: তিনি তার ভেতরে রূহ দিলেন এবং তার গঠন সুবিন্যস্ত করলেন। সা'দীর পাঠে আল্লাহ সেই আলাকা থেকে প্রাণী সৃষ্টি করলেন, আর তাকে নিখুঁত ও মজবুত করলেন। ইবন কাসীরের আরবি পাঠে আকৃতির আগে আরেকটি ধাপ আছে, মুদগা। তারপর আকার দেওয়া আর রূহ ফুঁকে দেওয়া।"
+          },
+          {
+            "en": "Ibn Kathir closes the stage with a phrase worth keeping: he became another creation, well formed, sound in his limbs, by the permission of Allah and His decree. The stages themselves are treated at length in the articles on 22:5 and 23:14, and the commentators here give each step a line and move on. This article does the same, and adds nothing to what they say about how the body forms.",
+            "bn": "এই ধাপের শেষে ইবন কাসীর এমন একটি কথা বলেন, যা মনে রাখার মতো: সে হয়ে গেল আরেক সৃষ্টি, সুগঠিত, অঙ্গপ্রত্যঙ্গে নিখুঁত, আল্লাহর অনুমতি ও তাঁর নির্ধারণে। ধাপগুলোর বিস্তারিত আলোচনা আছে ২২:৫ ও ২৩:১৪ আয়াতের প্রবন্ধে। এখানকার তাফসীরকারেরা প্রতিটি ধাপকে এক লাইন দিয়ে এগিয়ে যান। এ প্রবন্ধও তাই করে। দেহ কীভাবে গড়ে ওঠে, সে বিষয়ে তাঁদের কথার বাইরে এখানে কিছুই যোগ করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Pair Made From Him",
+          "bn": "তার থেকেই জোড়া"
+        },
+        "p": [
+          {
+            "en": "Then 75:39: fa-ja'ala minhu al-zawjayni al-dhakara wa-l-untha, and He made from him the two kinds, the male and the female. What does minhu, from him, point back to? Al-Qurtubi gives two answers: from the human being, and, introduced with it was said, from the mani. At-Tabari reads it of offspring: from this human, once He had proportioned him into a well-formed creation, He made children for him, males and females. Al-Baghawi's gloss is close: from his water He created children, male and female.",
+            "bn": "তারপর ৭৫:৩৯: ফাজাআলা মিনহুয যাওজাইনিয যাকারা ওয়াল উনসা, আর তিনি তা থেকে বানালেন দুই শ্রেণি, পুরুষ ও নারী। মিনহু, তা থেকে, কথাটি কোন দিকে ফিরছে? কুরতুবী দুটি উত্তর দেন। এক, মানুষ থেকে। দুই, 'বলা হয়েছে' বলে আনেন: মানী থেকে। তাবারী এটিকে পড়েন সন্তানের অর্থে। মানুষটিকে সুগঠিত সৃষ্টিতে পরিণত করার পর আল্লাহ তার থেকে তার সন্তান বানালেন, ছেলে ও মেয়ে। বাগাভীর ব্যাখ্যাও কাছাকাছি: তার পানি থেকে তিনি ছেলে ও মেয়ে সন্তান সৃষ্টি করলেন।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse differently. For him the pair is settled within the one person's own making: he became a sound creation, male or female, by the permission of Allah and His decree, and that is why, he says, Allah said fa-ja'ala minhu al-zawjayn. So the two kinds are either the sex each person is given in his own making, on Ibn Kathir's reading, or the sons and daughters later born of him, on at-Tabari's and al-Baghawi's. Both readings are kept here as they are.",
+            "bn": "ইবন কাসীর আয়াতটি পড়েন অন্যভাবে। তাঁর কাছে জোড়াটি নির্ধারিত হয় একজন মানুষের নিজের গঠনের ভেতরেই। সে হয়ে গেল নিখুঁত এক সৃষ্টি, পুরুষ অথবা নারী, আল্লাহর অনুমতি ও নির্ধারণে। আর তিনি বলেন, এ কারণেই আল্লাহ বলেছেন ফাজাআলা মিনহুয যাওজাইন। তাহলে দুই শ্রেণি বলতে হয় নিজের গঠনের সময়ই প্রত্যেককে যে লিঙ্গ দেওয়া হয় তা, ইবন কাসীরের পাঠে। নয়তো পরে তার থেকে জন্ম নেওয়া ছেলেমেয়ে, তাবারী ও বাগাভীর পাঠে। দুটি পাঠই এখানে যেমন আছে তেমনই রাখা হলো।"
+          },
+          {
+            "en": "Al-Qurtubi adds a short legal note. Some, he says, argued from this verse for setting aside the khuntha, the person whose sex is unclear. He answers that this verse and its companion in Surat ash-Shura came out in the manner of the usual case, and points back to his discussion at the opening of Surat an-Nisa' and under the verse of inheritance, which he says there is no need to repeat. He does not take the verse as a ruling on that question.",
+            "bn": "কুরতুবী এখানে ফিকহের একটি ছোট মন্তব্য যোগ করেন। তিনি বলেন, কেউ কেউ এ আয়াত থেকে খুনসাকে বাদ দেওয়ার পক্ষে যুক্তি দিয়েছেন। খুনসা হলো সেই মানুষ, যার লিঙ্গ স্পষ্ট নয়। তাঁর জবাব: এ আয়াত আর সূরা আশ-শূরায় এর সঙ্গী আয়াতটি এসেছে সাধারণত যা ঘটে, সেই হিসেবে। এ বিষয়ে তিনি সূরা আন-নিসার শুরুতে আর মীরাসের আয়াতে আলোচনা করেছেন, তাই আবার বলার দরকার নেই বলে জানান। আয়াতটিকে তিনি ওই প্রশ্নের বিধান হিসেবে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Able to Give Life Again",
+          "bn": "আবার জীবন দিতে সক্ষম"
+        },
+        "p": [
+          {
+            "en": "The passage ends at 75:40: a-laysa dhalika bi-qadirin 'ala an yuhyiya al-mawta, is not that One able to give life to the dead? At-Tabari draws the line from this verse back to ours. It is known, he says, that the One who was able to create man from a nutfah of mani emitted, until He made him a well-formed human being, is not made incapable by bringing a dead person back to life after death. Al-Qurtubi: able to restore these bodies to their form for the raising, after decay.",
+            "bn": "অংশটি শেষ হয় ৭৫:৪০ আয়াতে: আলাইসা যালিকা বিকাদিরিন আলা আঁই ইউহইয়িয়াল মাওতা, তিনি কি মৃতকে জীবন দিতে সক্ষম নন? তাবারী এ আয়াত থেকে একটি রেখা টেনে আনেন আমাদের আয়াত পর্যন্ত। তিনি বলেন, এ তো জানা কথা: যিনি নিক্ষিপ্ত মানীর এক নুতফা থেকে মানুষ সৃষ্টি করতে পেরেছেন, তাকে সুগঠিত মানুষ বানিয়েছেন, মৃত্যুর পর কাউকে আবার জীবিত করা তাঁকে অক্ষম করতে পারে না। কুরতুবীর ব্যাখ্যা: পচে-গলে যাওয়ার পর এই দেহগুলোকে পুনরুত্থানের জন্য আগের আকৃতিতে ফিরিয়ে আনতে তিনি সক্ষম।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English, asks whether He who made this perfect creation from this weak drop is not able to repeat it as He did originally. He then records two views on what the repeating covers: the origination only, or that together with the process of perfecting it. The first, he says, is the more popular, and Allah knows best, and he cites 30:27, where the repeating is called easier for Him. As-Sa'di and al-Muyassar answer the question in their own words: bala, yes, He is able.",
+            "bn": "ইবন কাসীর, সংক্ষিপ্ত ইংরেজি পাঠে, প্রশ্ন রাখেন: যিনি এই দুর্বল ফোঁটা থেকে এমন নিখুঁত সৃষ্টি বানিয়েছেন, তিনি কি প্রথমবারের মতো আবার তা করতে পারেন না? তারপর তিনি জানান, পুনরায় করার কথাটি কতদূর পর্যন্ত, তা নিয়ে দুটি মত আছে। এক মতে শুধু প্রথম সৃষ্টির পুনরাবৃত্তি। অন্য মতে তার সঙ্গে ধাপে ধাপে নিখুঁত করার পুরো প্রক্রিয়াও। তিনি বলেন, প্রথম মতটিই বেশি প্রচলিত, আর আল্লাহই ভালো জানেন। সঙ্গে উল্লেখ করেন ৩০:২৭, যেখানে পুনরায় সৃষ্টি করাকে তাঁর জন্য সহজতর বলা হয়েছে। সা'দী আর মুয়াসসার প্রশ্নটির জবাব দেন নিজেদের ভাষায়: বালা, হ্যাঁ, তিনি সক্ষম।"
+          },
+          {
+            "en": "None of the commentaries fetched attaches a hadith to 75:37 itself. Under 75:40, Ibn Kathir and al-Baghawi relay reports from Abu Dawud about what a reciter says on reaching that verse, at-Tabari a report from Qatada, and Ibn Kathir and al-Qurtubi one from Ibn Abbas. Abu Dawud's two (numbers 884 and 887, the second through a Bedouin narrator left unnamed) carry no grading from him on the page consulted, so their wording is not quoted here, and nothing in this article rests on them.",
+            "bn": "আনা হয়েছে এমন কোনো তাফসীর ৭৫:৩৭ আয়াতের সঙ্গে সরাসরি কোনো হাদীস জোড়েনি। ৭৫:৪০ আয়াতের আলোচনায় ইবন কাসীর ও বাগাভী আবু দাউদ থেকে কিছু বর্ণনা আনেন। বিষয়: ওই আয়াতে পৌঁছে পাঠকারী কী বলবেন। তাবারী আনেন কাতাদার একটি বর্ণনা, আর ইবন কাসীর ও কুরতুবী আনেন ইবন আব্বাসের একটি বর্ণনা। আবু দাউদের দুটি বর্ণনা (৮৮৪ ও ৮৮৭ নম্বর, দ্বিতীয়টি এক বেদুইনের মাধ্যমে, যার নাম বলা হয়নি) দেখা পৃষ্ঠায় তাঁর কোনো মান-নির্ণয় বহন করে না। তাই সেগুলোর ভাষা এখানে উদ্ধৃত করা হলো না, আর এ প্রবন্ধের কিছুই সেগুলোর উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pride Measured in Drops",
+          "bn": "ফোঁটা দিয়ে মাপা অহংকার"
+        },
+        "p": [
+          {
+            "en": "Gather what the commentators chose to say about the drop: a little water, weak, lowly, poured. Al-Qurtubi sets beside it Allah's ordering of the whole sequence despite the lowliness of man's worth. None of them lingers on the drop to shame anyone. The smallness is named so that the ordering that follows can be seen. The man who asks whether he will be left aimless was not left aimless even when he was a drop; at every stage the making was Allah's, not his own.",
+            "bn": "ফোঁটাটি নিয়ে তাফসীরকারেরা যা বলেছেন, তা এক জায়গায় রাখুন: অল্প পানি, দুর্বল, তুচ্ছ, ঢেলে দেওয়া। কুরতুবী এর পাশে রাখেন আরেকটি কথা: মানুষের মর্যাদা তুচ্ছ হলেও আল্লাহ পুরো ধারাটি সাজিয়েছেন। কাউকে লজ্জা দিতে তাঁদের কেউ ফোঁটাটির উপর থেমে থাকেন না। ক্ষুদ্রতার কথা বলা হয়, যাতে তারপরের সাজানোটা চোখে পড়ে। যে জিজ্ঞেস করে, তাকে কি লাগামহীন ছেড়ে দেওয়া হবে, তাকে তো ফোঁটা থাকার সময়ও ছেড়ে দেওয়া হয়নি। প্রতিটি ধাপে গড়ার কাজটা ছিল আল্লাহর, তার নিজের নয়।"
+          },
+          {
+            "en": "The verse also teaches a direction for doubt. When the Return seems far off, it points backwards, not forwards: to a beginning that already happened, without anyone's help or consent. Pride gets the same treatment. Whatever a person has since added, name, wealth, learning or argument, sits on top of a start no one could boast of, and that start is shared by everyone he might look down on. Read this way, 75:37 is less a rebuke than an invitation to remember accurately.",
+            "bn": "আয়াতটি সন্দেহের মোকাবিলার একটা দিকও শেখায়। ফিরে যাওয়ার কথা যখন দূরের মনে হয়, আয়াত আঙুল তোলে সামনে নয়, পেছনে। এমন এক শুরুর দিকে, যা আগেই ঘটে গেছে, কারও সাহায্য বা সম্মতি ছাড়াই। অহংকারের বেলাতেও একই কথা। নাম, সম্পদ, জ্ঞান বা তর্কের জোর, পরে যা-ই যোগ হোক, সবই বসে আছে এমন এক শুরুর উপর, যা নিয়ে কেউ গর্ব করতে পারে না। আর সেই শুরু তাদের সবার সঙ্গেও এক, যাদের সে তুচ্ছ ভাবে। এভাবে পড়লে ৭৫:৩৭ ধমকের চেয়ে বেশি এক আমন্ত্রণ: ঠিকঠাক মনে রাখার আমন্ত্রণ।"
+          }
+        ]
+      }
+    ]
   }
 });
