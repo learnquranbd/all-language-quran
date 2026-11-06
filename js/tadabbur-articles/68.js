@@ -1762,5 +1762,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "68:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Favour That Caught Up",
+          "bn": "যে অনুগ্রহ সময়মতো পৌঁছাল"
+        },
+        "p": [
+          {
+            "en": "Lawla an tadarakahu ni'matun min rabbihi la-nubidha bil-'ara'i wa-huwa madhmum: had a favour from his Lord not reached him, he would have been thrown onto the open land while blameworthy. The verse completes a thought the verse before it opened. In 68:48 the Prophet ﷺ is told to be patient for the decree of his Lord and not to be like the companion of the fish, who called out while weighed down with grief. That verse has its own entry. Here the sentence goes on to name what saved him.",
+            "bn": "লাওলা আন তাদারাকাহু নি'মাতুম মিন রাব্বিহী লানুবিযা বিল-আরা-ই ওয়াহুয়া মাযমূম: তাঁর রবের অনুগ্রহ যদি তাঁর কাছে না পৌঁছাত, তাহলে তাঁকে নিন্দিত অবস্থায় খোলা প্রান্তরে ফেলে দেওয়া হতো। আগের আয়াত যে কথা শুরু করেছিল, এ আয়াত তা শেষ করে। ৬৮:৪৮ আয়াতে নবী ﷺ-কে বলা হয়েছে, রবের ফায়সালার জন্য ধৈর্য ধরো, আর মাছের সঙ্গীর মতো হয়ো না, যিনি দুঃখে ভারাক্রান্ত অবস্থায় ডেকেছিলেন। সে আয়াত নিয়ে আলাদা লেখা আছে। এ আয়াত বলে, কী তাঁকে রক্ষা করেছিল।"
+          },
+          {
+            "en": "The sentence turns on lawla, were it not that, and its answer opens with the particle la-: la-nubidha, he would surely have been thrown. What follows lawla is what took place; what follows la- is what that event held back. The favour came, so the outcome in the second half did not. Al-Baghawi glosses the verb with a plainer verb, adrakathu, it reached him, and says when: when his Lord had mercy on him and turned to him. The picture is of mercy arriving in time.",
+            "bn": "বাক্যটি ঘুরছে লাওলা শব্দের উপর, যার মানে, যদি না হতো। আর এর জবাব শুরু হয়েছে লা- অব্যয় দিয়ে: লানুবিযা, তাঁকে অবশ্যই ফেলে দেওয়া হতো। লাওলার পরে আছে যা সত্যিই ঘটেছিল। লা-এর পরে আছে সেই পরিণতি, যা ওই ঘটনার কারণে আর ঘটেনি। অনুগ্রহ এসেছিল, তাই দ্বিতীয় অংশের পরিণতি আসেনি। বাগাভী ক্রিয়াটির ব্যাখ্যা দেন আরেকটু সহজ শব্দে, আদরাকাতহু, তাঁর কাছে পৌঁছাল। কখন, তাও বলেন: যখন তাঁর রব তাঁর উপর রহম করলেন আর তাঁর তওবা কবুল করলেন। ছবিটা এমন, রহমত ঠিক সময়ে এসে পৌঁছেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Ways to Say Tadarakahu",
+          "bn": "তাদারাকাহু পড়ার তিন রকম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records how the verb was read. The common reading, qira'at al-'amma, is tadarakahu, a past tense: it reached him. Ibn Hurmuz and al-Hasan read taddarakuhu, with the dal doubled, a present tense in which the ta' has merged into the dal. Al-Qurtubi explains it as hikayat al-hal, a narration of the state as it was, as if to say: had it not been that it was said of him, a favour is reaching him. Ibn Abbas and Ibn Mas'ud read tadarakathu, with a feminine ending.",
+            "bn": "ক্রিয়াটি কীভাবে পড়া হয়েছে, কুরতুবী তা লিখে রাখেন। সাধারণ কিরাআত, কিরাআতুল আম্মা, হলো তাদারাকাহু, অতীত কাল: তাঁর কাছে পৌঁছাল। ইবন হুরমুয ও হাসান পড়েছেন তাদ্দারাকুহু, দাল-এ তাশদীদ দিয়ে। এটি বর্তমান কালের রূপ, যেখানে তা অক্ষরটি দাল-এর ভেতরে মিশে গেছে। কুরতুবী একে বলেন হিকায়াতুল হাল, অর্থাৎ সে সময়ের অবস্থাটা যেমন ছিল তেমন করে বলা। যেন বলা হচ্ছে: তাঁর ব্যাপারে যদি এ কথা বলা না হতো যে, একটি অনুগ্রহ তাঁর কাছে পৌঁছাচ্ছে। আর ইবন আব্বাস (রাঃ) ও ইবন মাসউদ (রাঃ) পড়েছেন তাদারাকাতহু, স্ত্রীলিঙ্গের চিহ্নসহ।"
+          },
+          {
+            "en": "Al-Qurtubi adds that this last reading goes against the written form of the mushaf, khilaf al-marsum. He also explains why the standard text can pair a masculine verb with a feminine noun. Ni'ma, favour, is feminine in form, but its femininity is not real, ghayr haqiqi, so the verb may follow the meaning and stand in the masculine, while tadarakathu follows the word's outward shape. None of the three readings changes who acted or what was spared. Each says that a favour from his Lord reached him.",
+            "bn": "কুরতুবী জানান, শেষ পাঠটি মুসহাফের লিখিত রূপের সঙ্গে মেলে না, খিলাফুল মারসূম। প্রচলিত পাঠে স্ত্রীলিঙ্গ বিশেষ্যের সঙ্গে পুংলিঙ্গ ক্রিয়া কেন বসেছে, তাও তিনি বুঝিয়ে দেন। নি'মা বা অনুগ্রহ শব্দটি দেখতে স্ত্রীলিঙ্গ, কিন্তু এর স্ত্রীলিঙ্গতা প্রকৃত নয়, গাইরু হাকীকী। তাই ক্রিয়া অর্থের দিকে তাকিয়ে পুংলিঙ্গে আসতে পারে। আর তাদারাকাতহু চলে শব্দের বাহ্যিক রূপ ধরে। তিনটি পাঠের কোনোটিই বদলায় না কে কাজটি করলেন বা কী থেকে রক্ষা পাওয়া গেল। প্রতিটিই বলে, তাঁর রবের অনুগ্রহ তাঁর কাছে পৌঁছেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Naming the Favour",
+          "bn": "অনুগ্রহটি আসলে কী"
+        },
+        "p": [
+          {
+            "en": "What was the favour? Al-Qurtubi says the commentators differed and gives five answers. Ad-Dahhak said it was prophethood. Sa'id ibn Jubayr said it was the worship Yunus (AS) had offered before. Ibn Zayd said it was his call: there is no god but You, glory be to You, I have been among the wrongdoers, the words of 21:87. Ibn Bahr said it was Allah bringing him out of the belly of the fish. A fifth view, introduced with qila, it is said, takes it as mercy from his Lord: He had mercy on him and turned to him.",
+            "bn": "অনুগ্রহটি কী ছিল? কুরতুবী বলেন, তাফসীরকারদের মধ্যে মতভেদ আছে, আর তিনি পাঁচটি উত্তর দেন। দাহহাক বলেছেন, তা নবুওয়াত। সাঈদ ইবন জুবাইর বলেছেন, ইউনুস (আঃ) আগে যে ইবাদত করেছিলেন, সেটাই। ইবন যায়দ বলেছেন, তা তাঁর সেই ডাক: আপনি ছাড়া কোনো ইলাহ নেই, আপনি পবিত্র, আমি জালিমদের অন্তর্ভুক্ত ছিলাম। এ কথাগুলো ২১:৮৭ আয়াতের। ইবন বাহরের মতে, আল্লাহ যে তাঁকে মাছের পেট থেকে বের করে আনলেন, সেটাই অনুগ্রহ। পঞ্চম মতটি কুরতুবী আনেন 'বলা হয়' কথাটি দিয়ে: তা তাঁর রবের রহমত। তিনি তাঁর উপর রহম করলেন আর তাঁর তওবা কবুল করলেন।"
+          },
+          {
+            "en": "At-Tabari's paraphrase gives that last reading in full, in his own careful words: had a favour from his Lord not reached the companion of the fish, so that He had mercy on him by it and accepted his repentance from his going off in anger from his Lord. Al-Muyassar finds two steps inside the one favour: Allah granted him the success to repent, tawfiq, and then accepted it. Ma'arif al-Qur'an reports the same core from Maulana Ashraf Ali Thanawi: the favour from his Lord means the acceptance of his repentance.",
+            "bn": "তাবারী তাঁর ব্যাখ্যায় এই শেষ মতটিই পুরোপুরি বলেন, নিজের সতর্ক ভাষায়: মাছের সঙ্গীর কাছে যদি তাঁর রবের অনুগ্রহ না পৌঁছাত, যার মাধ্যমে তিনি তাঁর উপর রহম করলেন, আর রবের প্রতি তাঁর রাগ করে চলে যাওয়ার ব্যাপারে তাঁর তওবা কবুল করলেন। মুয়াসসার এক অনুগ্রহের ভেতরে দুটি ধাপ দেখে। প্রথমে আল্লাহ তাঁকে তওবার তাওফীক দিলেন, তারপর সেই তওবা কবুল করলেন। মাআরিফুল কুরআন মাওলানা আশরাফ আলী থানভী থেকে একই মূল কথা জানায়: রবের অনুগ্রহ মানে তাঁর তওবা কবুল হওয়া।"
+          },
+          {
+            "en": "The answers are not far apart, and al-Qurtubi lists them without choosing, so they are kept that way here. Two of them point to something Yunus (AS) did: his worship in earlier days and his call from the dark. The others point to what was done for him: prophethood given, mercy shown, repentance accepted, a release from the fish. Whichever is meant, the verse keeps the source in plain view in two words, min rabbihi, from his Lord. The rest of the sentence depends on that favour arriving.",
+            "bn": "উত্তরগুলো একটি থেকে আরেকটি খুব দূরে নয়। কুরতুবী এগুলো পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না, এখানেও তেমনই রাখা হলো। দুটি উত্তর ইউনুস (আঃ)-এর নিজের কাজের দিকে ইশারা করে: আগের দিনগুলোর ইবাদত আর অন্ধকার থেকে তাঁর ডাক। বাকিগুলো দেখায় তাঁর জন্য কী করা হয়েছিল: নবুওয়াত দেওয়া, রহম করা, তওবা কবুল করা, মাছের পেট থেকে মুক্তি। যেটাই উদ্দেশ্য হোক, উৎসটা আয়াত দুই শব্দে স্পষ্ট রাখে: মিন রাব্বিহী, তাঁর রবের পক্ষ থেকে। বাক্যের বাকি অংশ নির্ভর করে সেই অনুগ্রহ পৌঁছানোর উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Land Without Any Cover",
+          "bn": "আড়ালহীন খোলা প্রান্তর"
+        },
+        "p": [
+          {
+            "en": "Then the place: al-'ara'. At-Tabari defines it as al-fada' min al-ard, the open expanse of the earth, and supports the word with a line from the poet Qays ibn Ja'da, in which the speaker throws down his clothes in al-balad al-'ara', the open country. Al-Qurtubi is more exact: wide, open land with no mountain and no tree in it to give cover. As-Sa'di calls it al-ard al-khaliya, the empty land. Every gloss describes a place where nothing shelters the one who lies in it.",
+            "bn": "এবার জায়গাটির কথা: আল-আরা। তাবারী এর অর্থ বলেন আল-ফাদা মিনাল আরদ, জমিনের খোলা বিস্তার। শব্দটির সমর্থনে তিনি কবি কায়স ইবন জা'দার একটি পঙ্‌ক্তি আনেন, যেখানে বক্তা আল-বালাদিল আরা-য়, খোলা ময়দানে নিজের কাপড় ছুড়ে ফেলে। কুরতুবী আরও নিখুঁত করে বলেন: প্রশস্ত খোলা জমিন, যেখানে আড়াল দেওয়ার মতো কোনো পাহাড় নেই, কোনো গাছ নেই। সা'দী বলেন আল-আরদুল খালিয়া, শূন্য জমিন। সব ব্যাখ্যাই এমন এক জায়গার ছবি আঁকে, যেখানে পড়ে থাকা মানুষটিকে কিছুই আড়াল দেয় না।"
+          },
+          {
+            "en": "Al-Baghawi and al-Muyassar both name where the throw would have come from: the belly of the fish. Al-Muyassar gives the open land an adjective, al-muhlika, the land that destroys, where a man in that state could perish. Ibn Kathir's account of these verses ends with Allah commanding the fish, and it cast him onto al-'ara'; the report around that has its own treatment at 37:144. Surah as-Saffat records the throw itself in 37:145: so We threw him onto the open land, while he was ill, wa-huwa saqim.",
+            "bn": "বাগাভী ও মুয়াসসার দুজনেই বলেন, কোথা থেকে তাঁকে ফেলা হতো: মাছের পেট থেকে। মুয়াসসার খোলা জমিনের সঙ্গে একটি বিশেষণ জুড়ে দেয়, আল-মুহলিকা, ধ্বংস করে দেয় এমন জমিন। সে অবস্থায় কেউ সেখানে পড়লে মারা যেতে পারত। ইবন কাসীর এ আয়াতগুলোর আলোচনা শেষ করেন এভাবে: আল্লাহ মাছটিকে হুকুম দিলেন, আর সে তাঁকে আল-আরা-য় ফেলে দিল। এর আশপাশের বর্ণনা নিয়ে কথা হয়েছে ৩৭:১৪৪ আয়াতের লেখায়। আর ফেলে দেওয়ার ঘটনাটি সূরা আস-সাফফাত লিখে রেখেছে ৩৭:১৪৫ আয়াতে: আমি তাঁকে খোলা প্রান্তরে ফেলে দিলাম, তিনি তখন অসুস্থ, ওয়াহুয়া সাকীম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thrown Out, Yet Not Blamed",
+          "bn": "নিক্ষিপ্ত, তবু নিন্দিত নন"
+        },
+        "p": [
+          {
+            "en": "That raises a plain question. If this verse says he would have been thrown onto the open land, and 37:145 says he was thrown there, what did the favour change? Al-Qurtubi answers in a single line: he would have been thrown out blameworthy, but he was thrown out ill and not blameworthy, nubidha saqiman ghayra madhmum. The condition does not rest on the throwing. It rests on the last clause, wa-huwa madhmum, the state he would have been in. The throw took place; the blame did not.",
+            "bn": "এখানে একটা সোজা প্রশ্ন ওঠে। এ আয়াত বলছে তাঁকে খোলা প্রান্তরে ফেলা হতো, আর ৩৭:১৪৫ আয়াত বলছে তাঁকে সেখানে ফেলাই হয়েছিল। তাহলে অনুগ্রহ কী বদলাল? কুরতুবী উত্তর দেন এক লাইনে: তাঁকে ফেলা হতো নিন্দিত অবস্থায়, কিন্তু ফেলা হলো অসুস্থ অবস্থায়, নিন্দিত হিসেবে নয়, নুবিযা সাকীমান গাইরা মাযমূম। শর্তটা তাই ফেলে দেওয়ার উপর নয়। শর্তটা শেষ অংশের উপর, ওয়াহুয়া মাযমূম, অর্থাৎ তিনি কোন অবস্থায় থাকতেন তার উপর। ফেলে দেওয়া ঘটেছে, নিন্দা ঘটেনি।"
+          },
+          {
+            "en": "As-Sa'di carries the point further. Allah, he says, covered him with His mercy, taghammadahu bi-rahmatihi, so he was thrown out mamduh, praised, and his state became better than his first state. The word he chooses is the exact opposite of madhmum, cast in the same pattern: one blamed, one praised. On as-Sa'di's reading, the mercy did more than cancel a blame. It left Yunus (AS) on that bare shore in a better state than the one he had been in before any of it began.",
+            "bn": "সা'দী কথাটা আরও এগিয়ে নেন। তিনি বলেন, আল্লাহ তাঁকে নিজের রহমতে ঢেকে নিলেন, তাগাম্মাদাহু বিরাহমাতিহী। ফলে তাঁকে ফেলা হলো মামদূহ অবস্থায়, প্রশংসিত হয়ে, আর তাঁর অবস্থা আগের অবস্থার চেয়ে ভালো হয়ে গেল। সা'দীর বেছে নেওয়া শব্দটি মাযমূমের ঠিক উল্টো, গঠনও একই ছাঁচের। একটির মানে নিন্দিত, অন্যটির প্রশংসিত। সা'দীর ব্যাখ্যায় রহমত কেবল নিন্দা সরিয়ে দেয়নি। ওই খোলা তীরে ইউনুস (আঃ)-কে রেখেছে আগের চেয়ে ভালো অবস্থায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives Thanawi's reading of the same tension by setting this verse beside 37:143 and 37:144. Had Yunus (AS) not offered tasbih and taubah, he would have stayed in the belly of the fish for good. Had he repented but not been favoured with its acceptance, he would have been cast into the wilderness in a reproachable state. Since Allah favoured him by accepting his repentance, Ma'arif says, he was no longer reproachable. Three outcomes are laid side by side, and only the third took place.",
+            "bn": "মাআরিফুল কুরআন এ জটের সমাধানে থানভীর ব্যাখ্যা দেয়, আয়াতটিকে ৩৭:১৪৩ ও ৩৭:১৪৪ আয়াতের পাশে রেখে। ইউনুস (আঃ) যদি তাসবীহ ও তওবা না করতেন, চিরদিন মাছের পেটেই থেকে যেতেন। যদি তওবা করতেন কিন্তু তা কবুল হওয়ার অনুগ্রহ না পেতেন, তাহলে মাছ তাঁকে প্রান্তরে ফেলে দিত নিন্দনীয় অবস্থায়। আল্লাহ যেহেতু তাঁর তওবা কবুল করে অনুগ্রহ করলেন, মাআরিফ বলে, তিনি আর নিন্দার যোগ্য রইলেন না। তিনটি সম্ভাব্য পরিণতি পাশাপাশি রাখা হলো। ঘটেছে কেবল তৃতীয়টি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Blame That Never Came",
+          "bn": "যে নিন্দা আর আসেনি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says the people of interpretation differed over wa-huwa madhmum. Ibn Abbas, by the chain at-Tabari gives, said it means wa-huwa mulim, one who has done what deserves blame; that is the word Surah as-Saffat uses in 37:142, which has its own entry. Others said mudhnib, and at-Tabari's report gives that to Bakr: one at fault. Al-Qurtubi records both, naming Bakr ibn Abdullah for the second, and adds a third under qila: madhmum means kept far from every good.",
+            "bn": "তাবারী বলেন, ওয়াহুয়া মাযমূম কথাটির অর্থ নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। তাবারী যে সনদ দেন, তাতে ইবন আব্বাস (রাঃ) বলেছেন, এর মানে ওয়াহুয়া মুলীম, অর্থাৎ যিনি নিন্দার যোগ্য কিছু করেছেন। সূরা আস-সাফফাতের ৩৭:১৪২ আয়াতে এই শব্দটিই এসেছে, আর সে আয়াত নিয়ে আলাদা লেখা আছে। অন্যরা বলেছেন মুযনিব, আর তাবারীর বর্ণনায় এ কথা বকরের: যিনি দোষ করেছেন। কুরতুবী দুটি মতই আনেন, দ্বিতীয়টির সঙ্গে নাম দেন বকর ইবন আবদুল্লাহর। তারপর 'বলা হয়' দিয়ে তৃতীয় একটি মত যোগ করেন: মাযমূম মানে সব কল্যাণ থেকে দূরে সরিয়ে রাখা।"
+          },
+          {
+            "en": "Al-Muyassar renders the phrase as someone who has come with something he would be reproached for, and al-Baghawi as a man blamed and reproached for a fault. Each of these glosses describes the state that the lawla shut out. None is a description of what Yunus (AS) became, because the verse says that state never came about. The commentators' words stand here under their own names, and this article does not repeat them as its own verdict. The Qur'an gives its own verdict in the very next verse.",
+            "bn": "মুয়াসসারের ভাষায়, এমন কেউ, যিনি তিরস্কারের যোগ্য কিছু নিয়ে এসেছেন। বাগাভীর ভাষায়, যাঁকে দোষের জন্য নিন্দা ও তিরস্কার করা হয়। এই সব ব্যাখ্যা সেই অবস্থার বর্ণনা, যা লাওলা ঠেকিয়ে দিয়েছে। ইউনুস (আঃ) শেষে কেমন হলেন, এগুলো তার বর্ণনা নয়। কারণ আয়াত নিজেই বলছে, সে অবস্থা কখনো আসেনি। তাফসীরকারদের কথা এখানে তাঁদের নিজ নিজ নামেই রাখা হলো। এ লেখা সেগুলোকে নিজের রায় হিসেবে বলে না। কুরআন তার নিজের রায় দিয়েছে ঠিক পরের আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or the Plain of Gathering",
+          "bn": "নাকি হাশরের ময়দান"
+        },
+        "p": [
+          {
+            "en": "Not every reading places this open land on an earthly shore. Al-Qurtubi records a second view under qila: had it not been for Allah's grace upon him, he would have stayed in the belly of the fish until the Day of Resurrection, and then been thrown onto the open land of the Resurrection, blameworthy. He points to 37:143 and 37:144 as its support: had he not been among those who glorify, he would have remained in its belly until the Day they are raised. On this view al-'ara' is the plain where creation is gathered.",
+            "bn": "সব ব্যাখ্যা এই খোলা প্রান্তরকে দুনিয়ার কোনো তীরে রাখে না। কুরতুবী 'বলা হয়' দিয়ে দ্বিতীয় একটি মত আনেন। আল্লাহর অনুগ্রহ না থাকলে তিনি কিয়ামত পর্যন্ত মাছের পেটেই থেকে যেতেন, তারপর কিয়ামতের খোলা প্রান্তরে তাঁকে নিন্দিত অবস্থায় ফেলা হতো। এর পক্ষে কুরতুবী দেখান ৩৭:১৪৩ ও ৩৭:১৪৪ আয়াত: তিনি যদি তাসবীহকারীদের একজন না হতেন, তবে যেদিন সবাইকে ওঠানো হবে সেদিন পর্যন্ত মাছের পেটেই থেকে যেতেন। এই মতে আল-আরা হলো সেই ময়দান, যেখানে সব সৃষ্টিকে একত্র করা হবে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reports the same view from some other scholars: the wilderness here refers to the plain of Hashr, and the verse means that had Allah not accepted his repentance, he would have been cast onto that plain in a reproachable state. So the readings part on where al-'ara' lies: the bare shore he was in fact thrown onto, or the plain where all are gathered. Al-Qurtubi gives the first as his own gloss and the second as something said. Both are reported here, and neither is chosen.",
+            "bn": "মাআরিফুল কুরআন একই মত জানায় অন্য কয়েকজন আলিমের সূত্রে। তাঁদের মতে এখানে খোলা প্রান্তর মানে হাশরের ময়দান। আয়াতের অর্থ তখন দাঁড়ায়: আল্লাহ যদি তাঁর তওবা কবুল না করতেন, তাহলে তাঁকে নিন্দনীয় অবস্থায় সেই ময়দানে ফেলা হতো। তাহলে মতভেদটা হলো আল-আরা কোথায়, তা নিয়ে। যে খোলা তীরে তাঁকে সত্যিই ফেলা হয়েছিল, সেটা? নাকি সেই ময়দান, যেখানে সবাইকে জড়ো করা হবে? প্রথমটি কুরতুবী দেন নিজের ব্যাখ্যা হিসেবে, দ্বিতীয়টি আনেন 'বলা হয়' দিয়ে। দুটিই এখানে রাখা হলো, কোনোটিকে বেছে নেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Chosen in the Next Breath",
+          "bn": "পরের নিঃশ্বাসেই বাছাই"
+        },
+        "p": [
+          {
+            "en": "The passage does not end on the shore. 68:50 says: so his Lord chose him and made him one of the righteous. Al-Muyassar, which comments on 68:49 and 68:50 together, reads the choosing as Allah selecting him for His message, and the righteous as those whose intentions, deeds and words were sound. Ibn Kathir joins the two verses in sequence: Allah commanded the fish and it cast him onto al-'ara', and for this reason Allah said, so his Lord chose him. 68:50 keeps its own entry; here it shows where the favour led.",
+            "bn": "অংশটি তীরে এসে থেমে যায় না। ৬৮:৫০ আয়াত বলে: অতঃপর তাঁর রব তাঁকে বেছে নিলেন আর নেককারদের একজন করলেন। মুয়াসসার ৬৮:৪৯ ও ৬৮:৫০ আয়াতের ব্যাখ্যা একসঙ্গে দেয়। তার মতে বেছে নেওয়া মানে আল্লাহ তাঁকে নিজের রিসালাতের জন্য বাছাই করলেন। আর নেককার তাঁরা, যাঁদের নিয়ত, আমল ও কথা খাঁটি হয়ে গেছে। ইবন কাসীর দুই আয়াতকে পরপর জুড়ে দেন: আল্লাহ মাছকে হুকুম দিলেন, সে তাঁকে আল-আরা-য় ফেলে দিল, আর এ কারণেই আল্লাহ বলেছেন, অতঃপর তাঁর রব তাঁকে বেছে নিলেন। ৬৮:৫০ নিয়ে আলাদা লেখা হবে। এখানে আয়াতটি দেখায়, অনুগ্রহ তাঁকে কোথায় নিয়ে গেল।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to its own words. Ibn Kathir closes his comment on 68:48 to 68:50 together with a narration that al-Bukhari also records in his Sahih (3412), from Abdullah: None of you should say that I am better than Yunus. Its chains and its sister narrations are set out at 68:48. It is named here because the verse and the hadith guard the same honour from two sides: the verse holds the blame back, and the hadith forbids anyone to rank himself above him.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই এর নিজের শব্দের সঙ্গে কোনো হাদিস জোড়ে না। ইবন কাসীর ৬৮:৪৮ থেকে ৬৮:৫০ পর্যন্ত আয়াতের আলোচনা শেষ করেন একটি বর্ণনা দিয়ে, যা বুখারীও তাঁর সহীহ গ্রন্থে (৩৪১২) আবদুল্লাহ (রাঃ) থেকে এনেছেন: তোমাদের কেউ যেন না বলে, আমি ইউনুসের চেয়ে উত্তম। এর সনদ আর একই ধরনের অন্য বর্ণনাগুলো নিয়ে কথা হয়েছে ৬৮:৪৮ আয়াতের লেখায়। এখানে এর উল্লেখ এজন্য যে, আয়াত আর হাদিস একই মর্যাদা দুই দিক থেকে রক্ষা করে। আয়াত নিন্দাকে ঠেকিয়ে রাখে, আর হাদিস কাউকে তাঁর চেয়ে নিজেকে বড় ভাবতে নিষেধ করে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what would have been, not what was, and it gives no reader leave to speak of Yunus (AS) as blamed. The word madhmum enters his story only to be held back. What the verse offers a reader is closer to home. A favour from Allah may not lift a person off the bare ground they land on. It can change the state in which they lie there, and on this verse that is the difference that counts.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বলছে কী হতে পারত, কী হয়েছিল তা নয়। ইউনুস (আঃ)-কে নিন্দিত বলে উল্লেখ করার কোনো সুযোগ এ আয়াত কোনো পাঠককে দেয় না। মাযমূম শব্দটি তাঁর কাহিনিতে এসেছেই কেবল ঠেকিয়ে দেওয়া হবে বলে। পাঠকের জন্য আয়াতের শিক্ষাটা আরও কাছের। আল্লাহর অনুগ্রহ হয়তো মানুষকে সেই খালি জমিন থেকে তুলে নেয় না, যেখানে সে এসে পড়েছে। কিন্তু সেখানে সে কোন অবস্থায় পড়ে থাকে, তা বদলে দিতে পারে। এ আয়াতে আসল পার্থক্যটা সেখানেই।"
+          }
+        ]
+      }
+    ]
   }
 });

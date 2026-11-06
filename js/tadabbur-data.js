@@ -28549,6 +28549,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When your own choice causes the loss, clear your Lord of any wrong and name your part quickly, before you start looking for someone else to blame.",
     "lessonBn": "নিজের সিদ্ধান্তে ক্ষতি হলে রবকে সব অন্যায় থেকে মুক্ত জানুন আর দ্রুত নিজের দোষটা স্বীকার করুন, অন্য কারও ঘাড়ে দায় খোঁজার আগেই।"
+  },
+  "68:49": {
+    "reflectionEn": "Read this verse slowly and notice what it leaves out. It does not say Yunus would have been thrown onto the bare open land; 37:145 says he was thrown there, and he was ill. It says he would have been thrown there blameworthy, had a favour from his Lord not reached him first. The favour did not cancel the shore or the weakness. It changed the state in which he arrived, and the very next verse says his Lord chose him and made him one of the righteous. Mercy does not always lift a person out of the hard place they land in. Sometimes it changes how they stand there. When I find myself somewhere bare and exposed, what am I asking Allah for?",
+    "reflectionBn": "আয়াতটি ধীরে পড়ুন, আর দেখুন কোন কথাটি এতে নেই। এখানে বলা হয়নি যে ইউনুস (আঃ)-কে খোলা, ফাঁকা প্রান্তরে ফেলা হতো। ৩৭:১৪৫ আয়াত তো বলেই দিয়েছে, তাঁকে সেখানে ফেলা হয়েছিল, আর তিনি তখন অসুস্থ। এ আয়াত বলছে অন্য কথা। রবের অনুগ্রহ আগেই তাঁর কাছে না পৌঁছালে তাঁকে সেখানে ফেলা হতো নিন্দিত অবস্থায়। অনুগ্রহটি তীর বা দুর্বলতা মুছে দেয়নি। বদলে দিয়েছে তিনি কোন অবস্থায় সেখানে পৌঁছালেন, সেটা। ঠিক পরের আয়াতেই আছে, তাঁর রব তাঁকে বেছে নিলেন আর নেককারদের একজন করলেন। রহমত সবসময় মানুষকে কঠিন জায়গা থেকে তুলে আনে না। কখনো বদলে দেয়, সেখানে সে কেমন হয়ে দাঁড়ায়। আমি যখন নিজেকে কোনো খোলা, অসহায় জায়গায় পাই, তখন আল্লাহর কাছে আসলে কী চাই?",
+    "pointsEn": [
+      "When something hard reaches me, do I look only at what it took away, or also at the state Allah has kept me in through it?",
+      "Is there a fault of mine I still carry as if turning back to Allah had never been offered for it?",
+      "Whose old mistake do I still hold against them, when Allah may long ago have accepted their return to Him?",
+      "When I read of a prophet's trial, do I come away judging him, or learning what mercy can do?",
+      "What favour has already reached me in a hard season that I have not yet noticed or thanked Allah for?"
+    ],
+    "pointsBn": [
+      "কঠিন কিছু এলে আমি কি শুধু দেখি তা আমার কাছ থেকে কী কেড়ে নিল? নাকি এটাও দেখি, এর মধ্যেও আল্লাহ আমাকে কোন অবস্থায় রেখেছেন?",
+      "এমন কোনো ভুল কি আছে, যার বোঝা আমি এমনভাবে বয়ে বেড়াচ্ছি যেন তওবার দরজা কখনো খোলাই ছিল না?",
+      "কার পুরোনো ভুল আমি এখনো তার বিরুদ্ধে ধরে রেখেছি, অথচ হয়তো অনেক আগেই আল্লাহ তার ফিরে আসা কবুল করে নিয়েছেন?",
+      "কোনো নবীর পরীক্ষার কথা পড়ে আমি কি তাঁর বিচার করতে বসি, নাকি শিখি রহমত কী করতে পারে?",
+      "কঠিন সময়ে কোন অনুগ্রহ আমার কাছে এসে পৌঁছেছিল, যা আমি এখনো খেয়াল করিনি, তার জন্য আল্লাহর শোকরও করিনি?"
+    ],
+    "lessonEn": "Mercy may not lift you out of the hard place you land in, but it can change the state you arrive in; keep turning to Allah, and never belittle His prophets.",
+    "lessonBn": "রহমত সবসময় কঠিন জায়গা থেকে তুলে আনে না, কিন্তু সেখানে আপনি কোন অবস্থায় পৌঁছান তা বদলে দিতে পারে। তাই আল্লাহর দিকে ফিরতে থাকুন, আর তাঁর নবীদের কখনো ছোট করে দেখবেন না।"
   }
 };
 
