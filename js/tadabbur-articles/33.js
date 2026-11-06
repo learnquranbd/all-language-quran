@@ -447,6 +447,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Parties in the Ranks",
+          "bn": "কাতারের ভেতরে দুই দল"
+        },
+        "p": [
+          {
+            "en": "The verse stands inside the account of the Trench. Verse 33:10 has already told of the enemy coming from above and below, of eyes swerving and hearts reaching the throats, and 33:11 says that there the believers themselves were tested and shaken with a severe shaking. Verse 33:12 then gives the hypocrites' charge that Allah and His Messenger had promised nothing but delusion. Verse 33:13 turns from that charge to two further groups, one that spoke and one that asked.",
+            "bn": "আয়াতটি খন্দকের ঘটনার বর্ণনার মাঝখানে। ৩৩:১০ আয়াত আগেই বলে দিয়েছে, শত্রু এসেছিল উপর থেকে আর নিচ থেকে, চোখ বিস্ফারিত হয়েছিল, প্রাণ উঠে এসেছিল কণ্ঠে। ৩৩:১১ আয়াত জানায়, সেখানে মু'মিনরা নিজেরাই পরীক্ষায় পড়েছিলেন, তাঁদের ভীষণভাবে কাঁপিয়ে দেওয়া হয়েছিল। এরপর ৩৩:১২ আয়াতে মুনাফিকদের অভিযোগ: আল্লাহ ও তাঁর রাসূল ধোঁকা ছাড়া কিছুই দেননি। ৩৩:১৩ আয়াত সেই অভিযোগ থেকে চোখ ফেরায় আরও দুটি দলের দিকে। একটি দল মুখে ঘোষণা দিয়েছিল, অন্যটি অনুমতি চেয়েছিল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an describes both as hypocrites who were practically part of the effort alongside the Muslims, though only outwardly. One group left without any permission, calling on others to go back; the other asked the Prophet ﷺ for leave on the basis of false excuses, and the Qur'an exposed those excuses as lies. The Muyassar reads it the same way: one party of the hypocrites called to the believers of Madinah, and another party sought permission to return to their homes.",
+            "bn": "মাআরিফুল কুরআনের ভাষায় দুই দলই মুনাফিক। তারা বাহ্যত মুসলমানদের সঙ্গে প্রচেষ্টায় শামিল ছিল, তবে শুধু বাইরে থেকে। এক দল কোনো অনুমতি ছাড়াই সরে পড়ে, অন্যদেরও ফিরে যেতে ডাকে। আরেক দল মিথ্যা অজুহাত দেখিয়ে নবী ﷺ-এর কাছে ফিরে যাওয়ার অনুমতি চায়, আর কুরআন সেই অজুহাতগুলোকে মিথ্যা বলে ফাঁস করে দেয়। মুয়াসসারও একইভাবে পড়ে: মুনাফিকদের এক দল মদীনার মু'মিনদের ডেকে কথা বলেছিল, আরেক দল ঘরে ফেরার অনুমতি চেয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calling Out the Old Name",
+          "bn": "পুরোনো নামে ডাক"
+        },
+        "p": [
+          {
+            "en": "Ya ahla Yathrib: O people of Yathrib. The Muyassar glosses Yathrib as the old name of Madinah. At-Tabari says Yathrib is the name of a land, and it is said that the city of the Messenger of Allah ﷺ lies in one part of it; al-Qurtubi and al-Baghawi give the same remark in the name of Abu Ubaydah. For the origin of the name, Ibn Kathir and al-Qurtubi both relay as-Suhayli: a man of the Amalekites named Yathrib settled there. Al-Qurtubi adds that some of the names in his lineage are disputed.",
+            "bn": "ইয়া আহলা ইয়াসরিব: হে ইয়াসরিববাসী। মুয়াসসার বলে, ইয়াসরিব মদীনার পুরোনো নাম। তাবারীর মতে ইয়াসরিব একটি ভূখণ্ডের নাম, আর বলা হয়, রাসূলুল্লাহ ﷺ-এর শহর তারই এক অংশে। কুরতুবী আর বাগাভী একই কথা আনেন আবু উবায়দার নামে। নামটি কোথা থেকে এল, সে বিষয়ে ইবন কাসীর ও কুরতুবী দুজনেই সুহাইলীর বক্তব্য উদ্ধৃত করেন: আমালেকা জাতির ইয়াসরিব নামের এক লোক সেখানে বসতি গড়েছিল। কুরতুবী যোগ করেন, তার বংশতালিকার কয়েকটি নাম নিয়ে মতভেদ আছে।"
+          },
+          {
+            "en": "As-Sa'di sees a point in the choice of word. They meant O people of Madinah, he says, but they called them by the name of the homeland, and in that lies a sign that the religion and the brotherhood of faith had no weight in their hearts; what drove them was nothing more than natural faintness of heart. The appeal was to soil and household, not to the Messenger standing among them. Whoever wants a people to abandon a cause often begins by renaming what binds them.",
+            "bn": "সা'দী শব্দ বাছাইয়ের ভেতরে একটা ইঙ্গিত দেখেন। তাদের উদ্দেশ্য ছিল মদীনাবাসীকে ডাকা, কিন্তু তারা ডেকেছে জন্মভূমির নামে। সা'দীর মতে এতে বোঝা যায়, দ্বীন আর ঈমানের ভ্রাতৃত্বের কোনো মূল্য তাদের অন্তরে ছিল না। তাদের চালাচ্ছিল নিছক স্বভাবগত ভীরুতা। ডাকটা ছিল মাটি আর ঘরের নামে, তাদের মাঝে দাঁড়িয়ে থাকা রাসূলের নামে নয়। কাউকে কোনো আদর্শ থেকে সরিয়ে আনতে চাইলে মানুষ প্রায়ই শুরু করে তাদের বেঁধে রাখা বন্ধনটার নাম বদলে দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tabah, and a Weak Chain",
+          "bn": "তাবাহ, আর এক দুর্বল সনদ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi notes that the Messenger of Allah ﷺ named the city Tayyibah and Tabah. Al-Baghawi says that in some reports the Prophet ﷺ forbade calling Madinah Yathrib and said it is Tabah, as though he disliked the word. Ibn Kathir names one such report: it was recorded by Imam Ahmad, telling whoever calls Madinah Yathrib to seek Allah's forgiveness. Ibn Kathir adds his own verdict, that Ahmad alone narrated it and that there is weakness in its chain. This article builds nothing on it.",
+            "bn": "কুরতুবী জানান, রাসূলুল্লাহ ﷺ শহরটির নাম রেখেছিলেন তাইয়িবা ও তাবাহ। বাগাভী বলেন, কিছু বর্ণনায় আছে নবী ﷺ মদীনাকে ইয়াসরিব বলতে নিষেধ করেছেন এবং বলেছেন, এ হলো তাবাহ। যেন শব্দটি তাঁর অপছন্দ ছিল। ইবন কাসীর এমন একটি বর্ণনার উল্লেখ করেন, যা ইমাম আহমাদ সংকলন করেছেন: যে মদীনাকে ইয়াসরিব বলে, সে যেন আল্লাহর কাছে ইস্তিগফার করে। সঙ্গে ইবন কাসীর নিজের রায়ও দেন: এটি শুধু আহমাদই বর্ণনা করেছেন, আর এর সনদে দুর্বলতা আছে। এ প্রবন্ধ তাই এর উপর কিছু দাঁড় করায় না।"
+          },
+          {
+            "en": "What is sound is a narration al-Bukhari recorded in his Sahih (1871), from Abu Hurayrah: the Messenger of Allah ﷺ said, \"I was commanded to go to a town that will consume the towns. They call it Yathrib, and it is al-Madinah. It expels people as the bellows expels the dross of iron.\" This narration is general and not attached to this verse. It shows the Prophet ﷺ himself naming what people called the town and then giving its own name. None of the tafsirs read for this verse attaches a sound hadith to the event the verse describes.",
+            "bn": "সহীহ সূত্রে যা আছে তা হলো বুখারী তাঁর সহীহ গ্রন্থে (১৮৭১) আবু হুরায়রা (রাঃ) থেকে যে বর্ণনা এনেছেন: রাসূলুল্লাহ ﷺ বলেছেন, \"আমাকে এমন এক জনপদের দিকে যাওয়ার আদেশ দেওয়া হয়েছে, যা অন্য জনপদগুলোকে গ্রাস করবে। লোকে তাকে বলে ইয়াসরিব, অথচ সে হলো মদীনা। কামারের হাপর যেমন লোহার ময়লা বের করে দেয়, সে তেমনি মানুষকে বের করে দেয়।\" বর্ণনাটি সাধারণ, এই আয়াতের সঙ্গে যুক্ত নয়। এতে দেখা যায়, নবী ﷺ নিজেই লোকের দেওয়া নামটি উল্লেখ করে তারপর শহরের আসল নাম বলে দিয়েছেন। এ আয়াতের জন্য পড়া কোনো তাফসীর আয়াতে বর্ণিত ঘটনার সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Ground to Hold",
+          "bn": "টিকে থাকার মাটি নেই"
+        },
+        "p": [
+          {
+            "en": "La maqama lakum, read with the mim open, means there is no place for you to stand. At-Tabari holds to this reading alone, because the authoritative reciters agree on it. Al-Qurtubi and al-Baghawi report that as-Sulami and Hafs read muqama, with the mim closed, meaning there is no staying for you; that is the vowelling of the Hafs text printed above. Al-Qurtubi allows muqam to mean either the act of staying or the place where people stay, so the two readings meet: no ground here, and no point remaining.",
+            "bn": "লা মাকামা লাকুম, মীমে যবর দিয়ে পড়লে অর্থ: তোমাদের দাঁড়ানোর কোনো জায়গা নেই। তাবারী কেবল এই কিরাআতই গ্রহণ করেন, কারণ নির্ভরযোগ্য কারীরা এতে একমত। কুরতুবী ও বাগাভী জানান, সুলামী ও হাফস পড়েছেন মুকামা, মীমে পেশ দিয়ে। তখন অর্থ: তোমাদের থাকার কোনো সুযোগ নেই। উপরে ছাপা হাফসের পাঠে এই পেশই আছে। কুরতুবীর মতে মুকাম মানে থাকা, আবার থাকার জায়গাও হতে পারে। তাই দুই কিরাআত এক বিন্দুতে মেলে: এখানে দাঁড়ানোর মাটি নেই, থেকে যাওয়ারও কোনো মানে নেই।"
+          },
+          {
+            "en": "Where was this place? Ibn Kathir says it means here, beside the Prophet ﷺ, at the post of standing guard. As-Sa'di explains that they had camped outside the city, short of the trench, so the call was to return into Madinah. At-Tabari reads fa-rji'u as an order to flee the camp of the Messenger of Allah ﷺ and leave him. Al-Baghawi gives two senses: go back from following Muhammad ﷺ, or, as others said, go back from the fighting to your homes.",
+            "bn": "জায়গাটা কোথায় ছিল? ইবন কাসীর বলেন, এখানে, নবী ﷺ-এর পাশে, পাহারার চৌকিতে। সা'দী ব্যাখ্যা করেন, তারা শহরের বাইরে খন্দকের এপারে শিবির করেছিল, তাই ডাকটা ছিল মদীনার ভেতরে ফিরে যাওয়ার। তাবারী ফারজিঊ (ফিরে যাও) কথাটিকে পড়েন রাসূলুল্লাহ ﷺ-এর শিবির থেকে পালিয়ে যাওয়ার আর তাঁকে ছেড়ে যাওয়ার আদেশ হিসেবে। বাগাভী দুটি অর্থ দেন: মুহাম্মাদ ﷺ-এর অনুসরণ ছেড়ে ফিরে যাও, অথবা কারও কারও মতে লড়াই ছেড়ে ঘরে ফিরে যাও।"
+          },
+          {
+            "en": "Al-Qurtubi also carries a report from Ibn Abbas that names the voice behind the call differently. The Jews, he says, told Abdullah ibn Ubayy ibn Salul and his companions among the hypocrites: what makes you get yourselves killed at the hands of Abu Sufyan and his men? Go back to Madinah, for we are with the other side, and you will be safe. Al-Qurtubi sets it beside the reports that name Aws ibn Qayzi without choosing between them, and so does this article.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ)-এর একটি বর্ণনাও আনেন, যেখানে ডাকের পেছনের কণ্ঠটা অন্যভাবে চিহ্নিত। তাঁর বর্ণনায় ইহুদিরা আবদুল্লাহ ইবন উবাই ইবন সালূল ও তার মুনাফিক সঙ্গীদের বলেছিল: আবু সুফিয়ান ও তার লোকদের হাতে নিজেদের মরতে দিচ্ছ কেন? মদীনায় ফিরে যাও। আমরা ওই পক্ষের সঙ্গে আছি, তোমরা নিরাপদ থাকবে। আওস ইবন কাইযীর নাম নেওয়া বর্ণনাগুলোর পাশেই কুরতুবী এটি রেখেছেন, কোনোটিকে বেছে নেননি। এ প্রবন্ধও বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aws, Harithah and Salamah",
+          "bn": "আওস, হারিসা আর সালামা"
+        },
+        "p": [
+          {
+            "en": "Who spoke, and who asked? The reports differ, and the differences are worth keeping. For the call to the people of Yathrib, at-Tabari relays from Ibn Ishaq, through Yazid ibn Ruman, that it was Aws ibn Qayzi and those of his people who shared his view; al-Baghawi says the same. Al-Qurtubi notes that ta'ifah can mean one person or more, and names Aws ibn Qayzi, the father of Arabah ibn Aws. Ibn Kathir leaves the first speakers unnamed, calling them only other people.",
+            "bn": "কে বলেছিল, আর কে অনুমতি চেয়েছিল? বর্ণনাগুলো এক নয়, আর এই ভিন্নতা ধরে রাখার মতো। ইয়াসরিববাসীকে ডাকার কথাটি সম্পর্কে তাবারী ইবন ইসহাক থেকে ইয়াযীদ ইবন রূমানের সূত্রে আনেন: সে ছিল আওস ইবন কাইযী এবং তার গোত্রের যারা তার মতের শরিক ছিল। বাগাভীও তাই বলেন। কুরতুবী জানান, তায়িফা শব্দটি একজন বা তার বেশি সবার উপরই খাটে, আর তিনি নাম নেন আওস ইবন কাইযীর, যিনি আরাবা ইবন আওসের পিতা। ইবন কাসীর প্রথম দলের কারও নাম নেন না, শুধু বলেন অন্য কিছু লোক।"
+          },
+          {
+            "en": "For the request, Ibn Abbas is reported through al-Awfi, in at-Tabari and Ibn Kathir, as saying they were Banu Harithah, who said they feared their houses would be robbed; at-Tabari's wording adds that the houses stood empty. Al-Qurtubi names the same clan from Ibn Abbas. Al-Baghawi names Banu Harithah and Banu Salamah. Ibn Kathir then says Ibn Ishaq named Aws ibn Qayzi as the one who said it, and al-Qurtubi has Yazid ibn Ruman say Aws spoke for a group of his people. The same name thus stands behind the call in one book and the request in another.",
+            "bn": "অনুমতি চাওয়ার ব্যাপারে তাবারী ও ইবন কাসীর আওফীর সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: তারা ছিল বনু হারিসা। তারা বলেছিল, ঘরগুলো চুরি হয়ে যাওয়ার ভয় করছে। তাবারীর পাঠে আরও আছে, ঘরগুলো খালি পড়ে ছিল। কুরতুবীও ইবন আব্বাস (রাঃ) থেকে একই গোত্রের নাম আনেন। বাগাভী নাম নেন বনু হারিসা ও বনু সালামার। এরপর ইবন কাসীর বলেন, ইবন ইসহাকের মতে এ কথা যে বলেছিল সে আওস ইবন কাইযী। কুরতুবীতে ইয়াযীদ ইবন রূমান বলেন, আওস কথাটি বলেছিল তার গোত্রের একদল লোকের পক্ষ থেকে। ফলে একই নাম এক গ্রন্থে ডাকের পেছনে, আরেক গ্রন্থে অনুমতি চাওয়ার পেছনে।"
+          },
+          {
+            "en": "The numbers vary as much as the names. Al-Qurtubi relays as-Suddi: those who asked leave were two men of the Ansar from Banu Harithah, Abu Arabah ibn Aws and Aws ibn Qayzi. He then relays ad-Dahhak: eighty men went back without his permission. A clan named in a report is not a verdict on every member of it, and the verse itself says only a party of them. These names belong to that one hour of the siege and settle nothing about anyone's descendants.",
+            "bn": "নামের মতো সংখ্যাতেও ভিন্নতা আছে। কুরতুবী সুদ্দীর বক্তব্য আনেন: অনুমতি চেয়েছিল বনু হারিসার দুজন আনসারী, আবু আরাবা ইবন আওস আর আওস ইবন কাইযী। তারপর আনেন দাহহাকের কথা: আশিজন লোক তাঁর অনুমতি ছাড়াই ফিরে গিয়েছিল। কোনো বর্ণনায় একটি গোত্রের নাম এলে তা সেই গোত্রের প্রত্যেক মানুষের বিরুদ্ধে রায় নয়, আর আয়াত নিজে বলে শুধু তাদের একটি দল। এই নামগুলো অবরোধের সেই এক মুহূর্তের, কারও বংশধর সম্পর্কে এগুলো কিছুই স্থির করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A House Left Open",
+          "bn": "খোলা পড়ে থাকা ঘর"
+        },
+        "p": [
+          {
+            "en": "Inna buyutana 'awrah: our houses are exposed. At-Tabari gathers what the early teachers said. Mujahid: we fear theft for them. Qatadah: they lie on the side facing the enemy, and we fear thieves for them. The father of Abu Talut gives a single gloss, neglected. Al-Qurtubi defines the phrase as unguarded, neglected and not fortified, lying on the side facing the enemy; and it is said, open to thieves because the men were away. Al-Baghawi has the houses empty and neglected on the enemy's side.",
+            "bn": "ইন্না বুয়ূতানা আওরাহ: আমাদের ঘরবাড়ি অরক্ষিত। তাবারী আগের যুগের আলেমদের কথা জড়ো করেন। মুজাহিদ বলেন, আমরা ঘরগুলোর চুরির ভয় করি। কাতাদা বলেন, ঘরগুলো শত্রুর দিকে, আমরা চোরের ভয় করি। আবু তালূতের পিতা এক শব্দে বলেন: অবহেলায় পড়ে থাকা। কুরতুবীর ব্যাখ্যায় অর্থ দাঁড়ায় পাহারাহীন, অবহেলিত, সুরক্ষিত নয়, শত্রুর দিকে খোলা। আরেক মতে, পুরুষরা না থাকায় চোরের জন্য সহজ। বাগাভীর কথায় ঘরগুলো খালি, অবহেলিত, শত্রুর দিকে খোলা।"
+          },
+          {
+            "en": "The word's range is wide. Al-Qurtubi relays al-Harawi: every place that is neither defended nor covered is an 'awrah. He relays al-Jawhari: 'awrah is every gap feared at a frontier or in war. Ibn Abbas, Ikrimah, Mujahid and Abu Raja' al-Utaridi read 'awirah, with a kasrah, meaning short-walled houses with breaches in them; al-Baghawi gives the same reading from Abu Raja' alone. Al-Mahdawi, in al-Qurtubi, calls that reading irregular. Ibn Kathir's gloss is the plainest: nothing stood between the houses and the enemy to screen them.",
+            "bn": "শব্দটির পরিধি অনেক বড়। কুরতুবী হারাভীর কথা আনেন: যে জায়গা সুরক্ষিতও নয়, ঢাকাও নয়, তা-ই আওরাহ। জাওহারীর কথাও আনেন: সীমান্তে বা যুদ্ধে যে কোনো ফাঁক নিয়ে ভয় থাকে, তা-ই আওরাহ। ইবন আব্বাস (রাঃ), ইকরিমা, মুজাহিদ আর আবু রাজা আল-উতারিদী পড়েছেন আওয়িরাহ, ওয়াওয়ে যের দিয়ে। অর্থ: নিচু দেয়ালের ঘর, যার জায়গায় জায়গায় ফাটল। বাগাভী এই কিরাআত আনেন শুধু আবু রাজার নামে। কুরতুবীতে মাহদাবী এই কিরাআতকে বিরল বলেছেন। ইবন কাসীরের ব্যাখ্যা সবচেয়ে সরল: ঘর আর শত্রুর মাঝে আড়াল করার মতো কিছু ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Excuse Answered Directly",
+          "bn": "অজুহাতের সরাসরি জবাব"
+        },
+        "p": [
+          {
+            "en": "Wa ma hiya bi-'awrah: and they were not exposed. Al-Qurtubi calls the clause a giving of the lie to them and a rebuttal of what they had claimed. Ibn Kathir says simply that it was not as they alleged. Qatadah, in at-Tabari, adds a detail: the Prophet ﷺ sent someone to look, and he found no enemy there. The claim was tested and failed. Then comes the verdict on the motive: in yuriduna illa firara, they wanted nothing but to flee.",
+            "bn": "ওয়ামা হিয়া বিআওরাহ: অথচ ঘরগুলো অরক্ষিত ছিল না। কুরতুবী এ বাক্যকে বলেন তাদের মিথ্যাবাদী সাব্যস্ত করা, তাদের দাবির জবাব। ইবন কাসীর সোজা বলেন: তারা যেমন দাবি করছিল, ব্যাপারটা তেমন ছিল না। তাবারীতে কাতাদা একটি তথ্য যোগ করেন: নবী ﷺ খোঁজ নিতে লোক পাঠিয়েছিলেন, সেখানে কোনো শত্রু পাওয়া যায়নি। দাবিটা যাচাই হয়েছিল, টেকেনি। তারপর আসে উদ্দেশ্য নিয়ে রায়: ইন ইউরীদূনা ইল্লা ফিরারা, পালানো ছাড়া তারা আর কিছু চায়নি।"
+          },
+          {
+            "en": "Flee from what? Ibn Kathir says from the advancing battle line. Al-Qurtubi records two views without choosing: from being killed, or from the religion. As-Sa'di describes this second party as below the first in harm: men overtaken by cowardice and alarm, who wanted to slip out of the ranks and began offering false excuses. They were lying in this, he says; they made the talk of their houses a means and a cover. Their faith was little and had no firmness when the trials grew severe.",
+            "bn": "কী থেকে পালানো? ইবন কাসীর বলেন, এগিয়ে আসা যুদ্ধের সারি থেকে। কুরতুবী দুটি মত আনেন, কোনোটিকে বেছে নেন না: নিহত হওয়া থেকে, অথবা দ্বীন থেকে। সা'দী এই দ্বিতীয় দলকে ক্ষতির দিক থেকে প্রথম দলের নিচে রাখেন। তারা ছিল ভীরুতা আর অস্থিরতায় পেয়ে বসা লোক, কাতার থেকে চুপিসারে সরে পড়তে চাইছিল, তাই মিথ্যা অজুহাত দিতে শুরু করে। সা'দীর ভাষায় এতে তারা মিথ্যাবাদী ছিল। ঘরের কথাটিকে তারা বানিয়েছিল উপায় আর আড়াল। তাদের ঈমান ছিল সামান্য, বিপদ কঠিন হলে তা আর টিকে থাকত না।"
+          },
+          {
+            "en": "As-Sa'di ranks the first party, those who told others to go back, as the worst and most harmful of the groups: they neither held firm themselves nor spared the people their harm, telling them they had no strength to fight their enemy. The next verses, 33:14 and 33:15, carry the portrait further: had the city been entered from every side and they been asked for fitnah, they would have given it; and they had already pledged to Allah not to turn their backs.",
+            "bn": "প্রথম দল, যারা অন্যদের ফিরে যেতে বলেছিল, সা'দী তাদের রাখেন সব দলের মধ্যে সবচেয়ে মন্দ আর সবচেয়ে ক্ষতিকর হিসেবে। তারা নিজেরাও ধৈর্য ধরেনি, মানুষকেও নিজেদের অনিষ্ট থেকে রেহাই দেয়নি। লোকদের বুঝিয়েছে, শত্রুর সঙ্গে লড়ার শক্তি তাদের নেই। পরের দুই আয়াত, ৩৩:১৪ ও ৩৩:১৫, ছবিটাকে আরও স্পষ্ট করে। চারদিক থেকে শহরে শত্রু ঢুকে পড়লে আর তাদের কাছে ফিতনা চাওয়া হলে তারা তা-ই করত। অথচ পিঠ না দেখানোর অঙ্গীকার তারা আগেই আল্লাহর সঙ্গে করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Is Not the Charge",
+          "bn": "অভিযোগ ভয়ের বিরুদ্ধে নয়"
+        },
+        "p": [
+          {
+            "en": "It matters what the verse does not say. It does not fault these men for being afraid. Two verses earlier, the eyes of the believers swerved and their hearts reached their throats, and they were shaken with a severe shaking; fear was the common condition of the camp. Nor does the verse fault asking the Prophet ﷺ for leave as such. What it answers is the claim, and what it exposes is the motive: a wish to run, dressed as a duty to guard the house.",
+            "bn": "আয়াতটি কী বলে না, সেটা বোঝা জরুরি। ভয় পাওয়ার জন্য আয়াত এই লোকদের দোষ দেয় না। দুই আয়াত আগেই মু'মিনদের চোখ বিস্ফারিত হয়েছিল, প্রাণ উঠে এসেছিল কণ্ঠে, তাঁদের ভীষণভাবে কাঁপিয়ে দেওয়া হয়েছিল। ভয় ছিল গোটা শিবিরের সাধারণ অবস্থা। নবী ﷺ-এর কাছে অনুমতি চাওয়াকেও আয়াত নিজে থেকে দোষ বলে না। আয়াত জবাব দেয় দাবিটার, আর খুলে দেখায় উদ্দেশ্যটা: পালানোর ইচ্ছা, যাকে পরানো হয়েছিল ঘর পাহারার দায়িত্বের পোশাক।"
+          },
+          {
+            "en": "This must also be said plainly. The verse describes what its text describes: words spoken by a party of hypocrites during one siege, and a motive that Allah alone could expose. It licenses nothing against any living person or community, not against the descendants of any clan named in the reports, not against the people of Madinah, and not against anyone today who asks to be excused from a hard task. No reader can see another heart the way this verse saw theirs; judging people by it is no part of its lesson.",
+            "bn": "এ কথাও সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে যা তার ভাষায় আছে: এক অবরোধের সময় মুনাফিকদের একটি দলের মুখের কথা, আর এমন এক উদ্দেশ্য যা কেবল আল্লাহই ফাঁস করতে পারেন। বর্তমানের কোনো মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। বর্ণনায় নাম আসা কোনো গোত্রের বংশধরদের বিরুদ্ধে নয়, মদীনাবাসীর বিরুদ্ধে নয়, আজ কঠিন কোনো কাজ থেকে অব্যাহতি চাওয়া কারও বিরুদ্ধেও নয়। এ আয়াত যেভাবে তাদের অন্তর দেখেছে, কোনো পাঠক সেভাবে অন্যের অন্তর দেখতে পারে না। একে দিয়ে মানুষকে বিচার করা এর শিক্ষার অংশ নয়।"
+          },
+          {
+            "en": "The mirror points inward. Most of us have asked for leave at some point with a reason that was true enough to say and not quite the real reason. The verse invites an honest naming: if I am afraid, I can say that I am afraid, and ask Allah for steadiness, rather than building a respectable excuse around the fear. And if others are holding a line, I can at least keep from being the voice that tells them there is no ground left to stand on.",
+            "bn": "আয়নাটা ঘুরে আসে নিজের দিকে। আমাদের অনেকেই কখনো না কখনো এমন কারণ দেখিয়ে ছুটি চেয়েছি, যা বলার মতো সত্য ছিল, কিন্তু আসল কারণ ছিল না। আয়াতটি ডাকে সৎভাবে নাম ধরে বলতে। ভয় পেলে আমি বলতে পারি যে ভয় পাচ্ছি, আর আল্লাহর কাছে অবিচলতা চাইতে পারি। ভয়ের চারপাশে ভদ্র এক অজুহাতের দেয়াল তোলার দরকার নেই। আর অন্যরা যখন নিজের জায়গা আঁকড়ে আছে, অন্তত আমি যেন সেই কণ্ঠ না হই, যে তাদের বলে দাঁড়ানোর মাটি আর নেই।"
+          }
+        ]
+      }
+    ]
+  },
   "33:18": {
     "sections": [
       {

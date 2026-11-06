@@ -25249,6 +25249,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your words cannot remake what Allah has made: an oath does not turn a wife into a mother, a name does not make a son, and one heart holds one loyalty.",
     "lessonBn": "আল্লাহ যা বানিয়েছেন, আপনার কথা তা নতুন করে বানাতে পারে না। কসম স্ত্রীকে মা বানায় না, নাম কাউকে ছেলে বানায় না, আর এক অন্তরে জায়গা কেবল এক আনুগত্যের।"
+  },
+  "33:13": {
+    "reflectionEn": "The siege has drawn tight and every heart is in the throat. Then one voice calls the people by the town's old name and tells them there is no place to stand here, so go home. Another party goes to the Prophet with a polite request: our houses lie open, give us leave. Allah answers in a few words: they were not open. The verse does not fault them for being afraid; the believers too were shaken. It names what the excuse was covering: they wanted only to run. So I ask myself where I do the same. When I step back from a duty, do I call my reason by its true name, or dress it as a duty of its own?",
+    "reflectionBn": "অবরোধ চেপে বসেছে, সবার প্রাণ কণ্ঠাগত। এমন সময় এক দল শহরের পুরোনো নাম ধরে ডাক দেয়: এখানে তোমাদের দাঁড়ানোর জায়গা নেই, ঘরে ফিরে যাও। আরেক দল নবী ﷺ-এর কাছে গিয়ে বিনয়ের সুরে ছুটি চায়: আমাদের ঘরবাড়ি অরক্ষিত, আমাদের যেতে দিন। আল্লাহ জবাব দেন ছোট্ট এক বাক্যে: ওগুলো অরক্ষিত ছিল না। ভয় পাওয়ার জন্য আয়াত তাদের দোষ দেয় না, মু'মিনরাও তো কেঁপে উঠেছিলেন। আয়াত খুলে দেখায় অজুহাতের নিচে কী ঢাকা ছিল: তারা কেবল পালাতে চেয়েছিল। তাই নিজেকে জিজ্ঞেস করি, আমিও কোথায় এমন করি? কোনো দায়িত্ব থেকে যখন সরে দাঁড়াই, আসল কারণটাকে কি তার আসল নামে ডাকি, নাকি তাকে আরেকটা দায়িত্বের পোশাক পরিয়ে দিই?",
+    "pointsEn": [
+      "Which responsibility have I stepped back from lately with a reason that sounded better than the real one?",
+      "When I am afraid, can I say so plainly to Allah and to the people I serve, instead of inventing a safer-sounding excuse?",
+      "Have my words ever told others there was no point in staying, when they still had a post to keep?",
+      "When someone asks to be excused, how do I avoid assuming the worst, since only Allah saw what these hearts held?",
+      "What would it take for me to stay at my post one hour longer than my fear wants?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি কোন দায়িত্ব থেকে আমি সরে এসেছি এমন এক কারণ দেখিয়ে, যা আসল কারণের চেয়ে শুনতে ভালো?",
+      "ভয় পেলে আমি কি আল্লাহর কাছে আর যাদের পাশে আছি তাদের কাছে সোজাসুজি সেটা বলতে পারি, নিরাপদ শোনায় এমন অজুহাত না বানিয়ে?",
+      "আমার কথা কি কখনো অন্যদের বুঝিয়েছে যে থেকে লাভ নেই, অথচ তখনো তাদের পাহারার জায়গা ছিল?",
+      "কেউ ছুটি চাইলে আমি কীভাবে তার সম্পর্কে খারাপ ধারণা থেকে বাঁচি, যখন এই অন্তরগুলোর খবর আল্লাহ ছাড়া কেউ জানতেন না?",
+      "ভয় যতক্ষণ থাকতে দেয়, তার চেয়ে এক ঘণ্টা বেশি নিজের জায়গায় টিকে থাকতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Fear is no sin, but do not dress your wish to escape as a duty; name your real reason honestly, and stay at your post while you can.",
+    "lessonBn": "ভয় পাওয়া গুনাহ নয়, কিন্তু পালানোর ইচ্ছাকে দায়িত্বের পোশাক পরাবেন না। আসল কারণটা সৎভাবে স্বীকার করুন, আর যতক্ষণ পারেন নিজের জায়গায় টিকে থাকুন।"
   }
 };
 
