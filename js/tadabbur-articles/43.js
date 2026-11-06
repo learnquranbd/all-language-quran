@@ -1931,6 +1931,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Plea After the Seizing",
+          "bn": "পাকড়াওয়ের পরে অনুনয়"
+        },
+        "p": [
+          {
+            "en": "Verse 43:48 closes with a purpose: wa-akhadhnahum bil-'adhabi la'allahum yarji'un, We seized them with the punishment so that they might return. This verse gives their answer: wa-qalu ya ayyuha s-sahiru d'u lana rabbaka bima 'ahida 'indaka innana la-muhtadun. And they said, O magician, call on your Lord for us by what He has pledged with you; we will surely be guided. At-Tabari names the speakers: Pharaoh and his chiefs, speaking to Musa (AS). The next verse, 43:50, closes the scene: once the punishment was removed, they broke their word.",
+            "bn": "৪৩:৪৮ আয়াত শেষ হয় একটি উদ্দেশ্য জানিয়ে: ওয়া আখাযনাহুম বিল আযাবি লাআল্লাহুম ইয়ারজিঊন, আমি তাদের শাস্তি দিয়ে পাকড়াও করলাম, যেন তারা ফিরে আসে। এ আয়াত শোনায় তাদের জবাব: ওয়া কালূ ইয়া আইয়ুহাস সাহিরুদউ লানা রব্বাকা বিমা আহিদা ইন্দাকা ইন্নানা লামুহতাদূন। তারা বলল, হে জাদুকর, তোমার রব তোমার সঙ্গে যে অঙ্গীকার করেছেন, তার দোহাই দিয়ে আমাদের জন্য তাঁকে ডাকো, আমরা অবশ্যই সৎপথে চলব। কারা বলেছিল, তাবারী তা জানিয়ে দেন: ফেরাউন ও তার সভাসদরা, মূসা (আঃ)-কে উদ্দেশ করে। পরের আয়াত, ৪৩:৫০, দৃশ্যটা শেষ করে: শাস্তি সরিয়ে নিতেই তারা কথা ভেঙে ফেলল।"
+          },
+          {
+            "en": "The commentators fix the moment of the plea. Al-Qurtubi and al-Baghawi place it lamma 'ayanu al-'adhab, when they saw the punishment with their own eyes; as-Sa'di, when it came down on them. Ibn Kathir, in the Arabic, makes it a repeated scene: whenever one of these signs came, they would come imploring Musa (AS), yadra'una, and soften their wording to him. The afflictions themselves belong to 7:133. Here the interest is the plea: how they addressed him, what they asked, and what they promised.",
+            "bn": "অনুনয়টা ঠিক কখন, তাফসীরকারেরা তা নির্দিষ্ট করে দেন। কুরতুবী ও বাগাভীর ভাষায়, লাম্মা আয়ানুল আযাব: যখন তারা শাস্তি নিজের চোখে দেখল। সা'দী বলেন, যখন শাস্তি তাদের উপর নেমে এল। ইবন কাসীর আরবি তাফসীরে একে বারবার ঘটা দৃশ্য হিসেবে দেখান। এসব নিদর্শনের একটা যখনই আসত, তারা মূসা (আঃ)-এর কাছে গিয়ে কাকুতি-মিনতি করত, ইয়াদরাঊন, আর কথায় নরম সুর আনত। বিপদগুলোর তালিকা ৭:১৩৩ আয়াতের বিষয়। এখানে মনোযোগ শুধু অনুনয়টার উপর: তারা তাঁকে কী বলে ডাকল, কী চাইল, আর কী কথা দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Call Him a Magician?",
+          "bn": "জাদুকর বলে ডাকা কেন"
+        },
+        "p": [
+          {
+            "en": "The address is the verse's puzzle, and at-Tabari raises it himself, as an objection a reader might put: how could they call him sahir, magician, when they were asking him to call on his Lord to lift the punishment from them? His answer is that as-sahir meant to them al-'alim, the learned man. Magic was not a term of blame among them, he says; they called him by this name because to them it meant: O learned man. On this reading the word in their mouths was a title, not an accusation.",
+            "bn": "সম্বোধনটাই এ আয়াতের ধাঁধা। তাবারী নিজেই প্রশ্নটা তোলেন, যেন কোনো পাঠক আপত্তি করছেন: তারা তো তাঁকে বলছে রবের কাছে দোয়া করে শাস্তি সরিয়ে দিতে, তাহলে তাঁকে সাহির, অর্থাৎ জাদুকর বলে ডাকল কীভাবে? তাঁর জবাব: তাদের কাছে আস-সাহির মানে ছিল আল-আলিম, জ্ঞানী মানুষ। তাদের মধ্যে জাদু কোনো নিন্দার শব্দ ছিল না। তারা তাঁকে এ নামে ডেকেছিল, কারণ তাদের ভাষায় এর মানে দাঁড়াত: হে জ্ঞানী। এ পাঠে শব্দটা তাদের মুখে উপাধি, অভিযোগ নয়।"
+          },
+          {
+            "en": "Ibn Kathir, in the Arabic, takes the same gloss and names its source: al-'alim, as Ibn Jarir said, the name by which at-Tabari is known. He adds the background: the learned men of their age were the magicians, and magic in their time was not blamed. Then he argues from the situation. This was not said to belittle him, he writes, because they were in a state of need towards him, and that does not fit an insult; it was veneration, fi za'mihim, by their own lights.",
+            "bn": "ইবন কাসীর আরবি তাফসীরে একই ব্যাখ্যা নেন এবং উৎসও বলে দেন: আল-আলিম, ইবন জারীর যেমন বলেছেন। ইবন জারীর নামেই তাবারী পরিচিত। এরপর তিনি পটভূমি যোগ করেন: সে যুগের জ্ঞানী লোকেরাই ছিল জাদুকর, আর তখন জাদুকে নিন্দার চোখে দেখা হতো না। তারপর পরিস্থিতি থেকে যুক্তি দেন। এ কথা তাঁকে ছোট করার জন্য বলা হয়নি, কারণ তারা তখন তাঁর কাছে ঠেকায় পড়ে এসেছিল, আর ঠেকার মুহূর্তে অপমান মানায় না। এটা ছিল সম্মান, ফী যা'মিহিম, তাদের নিজেদের ধারণায়।"
+          },
+          {
+            "en": "Al-Muyassar builds the gloss into its paraphrase, O learned man, and adds in a parenthesis that the magician was great among them and revered, and that magic was no mark of blame. Al-Baghawi goes further: O perfect, skilled learned man, said out of respect and veneration, because magic was for them a great branch of knowledge and a praised quality. Al-Qurtubi carries the same gloss from Ibn Abbas (RA). Most of the commentaries consulted here give this reading, though not all stop there.",
+            "bn": "মুয়াসসার এ ব্যাখ্যা সরাসরি তার ভাবানুবাদে বসিয়ে দেয়: হে জ্ঞানী। তারপর বন্ধনীতে জুড়ে দেয়, জাদুকর তাদের মধ্যে ছিল বড় মানুষ, তারা তাকে সমীহ করত, আর জাদু কোনো দোষের গুণ ছিল না। বাগাভী আরও এক ধাপ এগোন: হে পূর্ণ, দক্ষ জ্ঞানী। তাঁর মতে কথাটা বলা হয়েছিল শ্রদ্ধা ও সম্মান থেকে, কারণ তাদের কাছে জাদু ছিল মস্ত বড় বিদ্যা আর প্রশংসার গুণ। কুরতুবী একই ব্যাখ্যা আনেন ইবন আব্বাস (রাঃ)-এর সূত্রে। এখানে দেখা বেশির ভাগ তাফসীর এ পাঠই দেয়, যদিও সবাই এখানে থামেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Habit, Defeat, or Derision",
+          "bn": "অভ্যাস, হার মানা, না ঠাট্টা"
+        },
+        "p": [
+          {
+            "en": "Not every commentator settles on honour. Al-Qurtubi opens with a plainer reading: they called him by what they used to call him before, according to their habit. Al-Baghawi cites az-Zajjaj in the same vein: they addressed him so because the name sahir had already been given to him among them. On this reading the word is neither praise nor insult. It is the name the court had already fixed on him, still in use when they came to ask for his help.",
+            "bn": "সব তাফসীরকার সম্মানের ব্যাখ্যায় থামেননি। কুরতুবী শুরু করেন আরও সাদামাটা এক পাঠ দিয়ে: আগে থেকে তারা তাঁকে যে নামে ডাকত, অভ্যাসমতো সে নামেই ডেকেছিল। বাগাভী একই সুরে যাজ্জাজের কথা আনেন: তাদের মধ্যে আগেই তাঁকে সাহির নাম দেওয়া হয়েছিল, তাই এ নামে সম্বোধন। এ পাঠে শব্দটা প্রশংসাও নয়, অপমানও নয়। দরবার আগেই তাঁর গায়ে যে নাম সেঁটে দিয়েছিল, সাহায্য চাইতে এসেও তারা সেটাই ব্যবহার করছিল।"
+          },
+          {
+            "en": "A further reading appears in both al-Qurtubi and al-Baghawi under the words it is said: O you who overcame us with his magic. Al-Qurtubi explains the usage: the Arabs say sahartuhu fa-sahartuhu, I vied with him in magic and beat him, as they say khasamtuhu fa-khasamtuhu, I disputed with him and won. Read so, the title concedes defeat. Al-Qurtubi adds a last possibility, worded only as such: they meant magician literally, as a kind of question, and were not reproached for it, in the hope that they would believe.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই 'বলা হয়' কথাটি দিয়ে আরেকটি পাঠ আনেন: হে সেই ব্যক্তি, যে জাদু দিয়ে আমাদের হারিয়ে দিয়েছে। কুরতুবী এর পেছনের ভাষারীতি বুঝিয়ে দেন। আরবরা বলে সাহারতুহু ফাসাহারতুহু, অর্থাৎ জাদুতে তার সঙ্গে পাল্লা দিয়ে তাকে হারালাম। যেমন বলে খাসামতুহু ফাখাসামতুহু, তার সঙ্গে বিতর্ক করে জিতলাম। এভাবে পড়লে উপাধিটা আসলে হার স্বীকার। শেষে কুরতুবী আরও একটি সম্ভাবনার কথা বলেন, নিছক সম্ভাবনা হিসেবেই: তারা আক্ষরিক অর্থেই জাদুকর বুঝিয়েছিল, প্রশ্নের সুরে। তবু তাদের এ জন্য ভর্ৎসনা করা হয়নি, এই আশায় যে তারা ঈমান আনবে।"
+          },
+          {
+            "en": "As-Sa'di names mockery outright. The words, he says, were either min bab at-tahakkum, said in derision, or an address they meant as praise, so that they pleaded with him by calling him what they called those they claimed as their learned men, the magicians. He does not choose between the two. Ibn Kathir, as seen above, rules derision out from the setting itself: people in need do not insult the man they are begging. That is a real difference between them, and it is kept here as a difference.",
+            "bn": "ঠাট্টার কথা স্পষ্ট করে বলেন সা'দী। তাঁর মতে কথাটা হয় মিন বাবিত তাহাক্কুম, বিদ্রূপ করে বলা, নয়তো তাদের চোখে এটা ছিল প্রশংসার সম্বোধন। সে ক্ষেত্রে যাদের তারা নিজেদের জ্ঞানী মনে করত, সেই জাদুকরদের যে নামে ডাকত, সে নামে ডেকেই তারা তাঁর কাছে মিনতি করেছিল। দুটোর কোনোটিকে তিনি বেছে নেন না। অন্যদিকে ইবন কাসীর, আগেই দেখা গেছে, পরিস্থিতি দেখেই বিদ্রূপের সম্ভাবনা নাকচ করেন: যার কাছে হাত পাতা হচ্ছে, ঠেকায় পড়া মানুষ তাকে অপমান করে না। দুজনের মধ্যে এ সত্যিকারের মতভেদ, আর এখানে তা মতভেদ হিসেবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ayyuha Without Its Alif",
+          "bn": "আলিফ ছাড়া আইয়ুহা"
+        },
+        "p": [
+          {
+            "en": "The written form of the address has its own small story. In the mushaf the word is spelled ayyuha without its final alif, and al-Qurtubi records how the readers dealt with it. Ibn Amir, with Abu Haywa and Yahya ibn Waththab, read ayyuhu s-sahir, with a damma on the ha, which he explains as the ha blended with what precedes it. Abu 'Amr, al-Kisa'i and others pause on ayyuha with the alif, as the word was in origin; the rest pause without it, as it is written. None of this changes the meaning.",
+            "bn": "সম্বোধনটার লিখিত রূপেরও ছোট্ট একটা গল্প আছে। মুসহাফে শব্দটা লেখা আইয়ুহা, শেষের আলিফ ছাড়া। পাঠকারীরা একে কীভাবে পড়েছেন, কুরতুবী তা লিখে রেখেছেন। ইবন আমির, সঙ্গে আবু হাইওয়া ও ইয়াহইয়া ইবন ওয়াসসাব, পড়েছেন আইয়ুহুস সাহির, হা-তে পেশ দিয়ে। কুরতুবীর ব্যাখ্যা, হা অক্ষরটি আগের অংশের সঙ্গে মিশে গেছে। আবু আমর, কিসাঈ ও আরও কয়েকজন আইয়ুহা শব্দে থামেন আলিফসহ, শব্দটির মূল রূপ অনুযায়ী। বাকিরা থামেন আলিফ ছাড়া, যেমন লেখা আছে। এর কোনোটিতেই অর্থ বদলায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Pledge Held With Him",
+          "bn": "তাঁর কাছে রাখা অঙ্গীকার"
+        },
+        "p": [
+          {
+            "en": "Bima 'ahida 'indaka: by what He has pledged with you. At-Tabari reads it as the covenant Allah made with Musa (AS): that if they believed in him and followed him, the rijz, the affliction, would be lifted from them. He supports it with Mujahid, through Ibn Abi Najih: if we believe, He will surely lift the punishment from us. Al-Qurtubi and al-Baghawi spell out the reference: by what you have told us of His pledge to you, that if we believe He will remove it, so ask Him, and He will remove it.",
+            "bn": "বিমা আহিদা ইন্দাকা: তিনি তোমার কাছে যে অঙ্গীকার রেখেছেন, তার দোহাই। তাবারী একে পড়েন মূসা (আঃ)-এর সঙ্গে আল্লাহর করা অঙ্গীকার হিসেবে: তারা যদি তাঁর উপর ঈমান আনে আর তাঁকে অনুসরণ করে, তবে রিজয, অর্থাৎ বিপদ, তাদের উপর থেকে তুলে নেওয়া হবে। এর সমর্থনে তিনি ইবন আবী নাজীহের সূত্রে মুজাহিদের কথা আনেন: আমরা ঈমান আনলে তিনি অবশ্যই আমাদের উপর থেকে শাস্তি সরিয়ে দেবেন। কুরতুবী ও বাগাভী ইঙ্গিতটা খুলে বলেন: তুমি আমাদের জানিয়েছ, আমরা ঈমান আনলে তিনি বিপদ সরিয়ে দেবেন বলে তোমার কাছে অঙ্গীকার করেছেন। কাজেই তাঁর কাছে চাও, তিনি সরিয়ে দেবেন।"
+          },
+          {
+            "en": "As-Sa'di reads the phrase another way: by what Allah singled you out with and favoured you with, of virtues and merits. On his reading they were appealing to the standing of Musa (AS) with his Lord, not to a conditional promise. Al-Muyassar sets both side by side: by His covenant that He made with you, and the virtues He singled you out with, that He remove the punishment from us. The two readings fit together without strain. One points to the terms on offer, the other to the man who could ask.",
+            "bn": "সা'দী বাক্যাংশটা পড়েন অন্যভাবে: আল্লাহ তোমাকে যেসব গুণ ও মর্যাদা দিয়ে আলাদা করেছেন, যা দিয়ে তোমাকে শ্রেষ্ঠত্ব দিয়েছেন, তার দোহাই। তাঁর পাঠে তারা কোনো শর্তযুক্ত প্রতিশ্রুতির কথা তুলছিল না, দোহাই দিচ্ছিল রবের কাছে মূসা (আঃ)-এর মর্যাদার। মুয়াসসার দুটোকে পাশাপাশি রাখে: তিনি তোমার সঙ্গে যে অঙ্গীকার করেছেন আর তোমাকে যেসব গুণে বিশেষিত করেছেন, তার দোহাই দিয়ে চাও, যেন তিনি আমাদের উপর থেকে শাস্তি সরিয়ে নেন। দুই পাঠ সহজেই একসঙ্গে চলে। একটি দেখায় শর্তের দিকে, অন্যটি সেই মানুষের দিকে, যিনি চাইতে পারতেন।"
+          },
+          {
+            "en": "The same request appears in 7:134, which Ibn Kathir's abridged English quotes beside this passage: ya Musa ud'u lana rabbaka bima 'ahida 'indak, O Musa, invoke your Lord for us because of His promise to you. There the terms are spoken aloud: remove the punishment, and we will believe in you and send the Children of Israel with you. Ibn Kathir's Arabic note here repeats both promises. The words of the request match; the address does not, and the commentators on this verse spend their effort there.",
+            "bn": "একই অনুরোধ আছে ৭:১৩৪ আয়াতে, যা ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর এ অংশের পাশে উদ্ধৃত করেছে: ইয়া মূসাদউ লানা রব্বাকা বিমা আহিদা ইন্দাক, হে মূসা, তোমার রবের অঙ্গীকারের দোহাই দিয়ে আমাদের জন্য তাঁকে ডাকো। সেখানে শর্তগুলো মুখ ফুটে বলা হয়েছে: শাস্তি সরিয়ে দাও, আমরা তোমার উপর ঈমান আনব এবং বনী ইসরাঈলকে তোমার সঙ্গে পাঠিয়ে দেব। এ আয়াতে ইবন কাসীরের আরবি তাফসীরও দুটো প্রতিশ্রুতিই উল্লেখ করে। অনুরোধের শব্দ মিলে যায়, সম্বোধন মেলে না। এ আয়াতের তাফসীরকারদের মনোযোগও তাই সেখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Inna and La-, Then Nothing",
+          "bn": "জোরালো কথা, তারপর শূন্য"
+        },
+        "p": [
+          {
+            "en": "Innana la-muhtadun: we will surely be guided. The promise is built on two particles of emphasis, inna and la-. At-Tabari spells out what they claimed it would mean: we will follow you and believe what you brought us, affirm the oneness of Allah, and see the path of right guidance. He adds that the people of interpretation said the like, and cites Qatada: they said, O Musa, call on your Lord for us; if you remove the rijz from us, we will surely believe in you.",
+            "bn": "ইন্নানা লামুহতাদূন: আমরা অবশ্যই সৎপথে চলব। প্রতিশ্রুতিটা দাঁড়িয়ে আছে জোর দেওয়ার দুটি অব্যয়ের উপর, ইন্না আর লা। তাবারী খুলে বলেন, তারা এর কী অর্থ দাবি করছিল: আমরা তোমাকে অনুসরণ করব, তুমি যা এনেছ তা সত্য বলে মানব, আল্লাহর একত্ব স্বীকার করব, আর সঠিক পথ দেখতে পাব। তিনি যোগ করেন, তাফসীরকারেরা এমনই বলেছেন, আর কাতাদার কথা আনেন: তারা বলল, হে মূসা, আমাদের জন্য তোমার রবকে ডাকো। তুমি আমাদের উপর থেকে রিজয সরিয়ে দিলে আমরা অবশ্যই তোমার উপর ঈমান আনব।"
+          },
+          {
+            "en": "The commentators differ on what they hear in the promise. Al-Baghawi glosses it with one word: mu'minun, believers. Al-Qurtubi reads it fima yastaqbal, in what lies ahead: a promise about the future, not a claim about the present. As-Sa'di attaches the condition outright: we will be guided, if Allah removes this from us. Read together with Mujahid and Qatada, the promise was tied to relief from the start. It was a bargain worded as a vow, and the next verse shows how much it was worth.",
+            "bn": "প্রতিশ্রুতির মধ্যে কে কী শোনেন, তাতে তাফসীরকারদের ভিন্নতা আছে। বাগাভী এক শব্দে ব্যাখ্যা দেন: মু'মিনূন, ঈমানদার। কুরতুবী একে পড়েন ফীমা ইয়াসতাকবিল, অর্থাৎ সামনের দিনগুলোতে। এটা ভবিষ্যতের প্রতিশ্রুতি, বর্তমানের দাবি নয়। সা'দী শর্তটা সরাসরি জুড়ে দেন: আল্লাহ যদি এটা আমাদের উপর থেকে সরিয়ে দেন, তবে আমরা সৎপথে চলব। মুজাহিদ ও কাতাদার কথার সঙ্গে মিলিয়ে পড়লে বোঝা যায়, প্রতিশ্রুতিটা শুরু থেকেই বিপদমুক্তির সঙ্গে বাঁধা ছিল। শপথের ভাষায় মোড়া একটা দরদাম, আর পরের আয়াত দেখায় তার দাম কতটুকু।"
+          },
+          {
+            "en": "The sequel comes in 43:50 in a single line: fa-lamma kashafna 'anhumu l-'adhaba idha hum yankuthun, when We removed the punishment from them, at once they broke their word. Al-Muyassar, in its note on this verse, completes the picture: when Musa (AS) prayed for the punishment to be lifted and it was lifted, they turned treacherous and persisted in their error. Al-Baghawi says simply that Musa (AS) prayed, it was removed, and they did not believe. On these accounts the vow lasted exactly as long as the affliction.",
+            "bn": "পরিণতি আসে ৪৩:৫০ আয়াতে, এক লাইনে: ফালাম্মা কাশাফনা আনহুমুল আযাবা ইযা হুম ইয়ানকুসূন, যখন আমি তাদের উপর থেকে শাস্তি সরিয়ে নিলাম, অমনি তারা কথা ভেঙে ফেলল। মুয়াসসার এ আয়াতের আলোচনাতেই ছবিটা পূর্ণ করে: মূসা (আঃ) শাস্তি তুলে নেওয়ার দোয়া করলেন, শাস্তি উঠে গেল, আর তারা বিশ্বাসঘাতকতা করে নিজেদের গোমরাহিতে অটল রইল। বাগাভী সংক্ষেপে বলেন, মূসা (আঃ) দোয়া করলেন, বিপদ সরে গেল, তবু তারা ঈমান আনল না। এসব বর্ণনায় অঙ্গীকারের আয়ু ছিল ঠিক বিপদের আয়ুর সমান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Name to Pin on Others",
+          "bn": "অন্যের গায়ে সাঁটার নাম নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: Pharaoh and his chiefs, in one story, pleading with Musa (AS) under an affliction and then breaking their word. It licenses nothing against any living person or community. No people of today is to be identified with Pharaoh's people, and no one may borrow this verse to give that name to a nation, a neighbour or a faith, or to read someone else's hardship as proof of it. The story is set before the reader to look inward with.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটা শুধু তা-ই বর্ণনা করে, যা তার শব্দে আছে: একটি কাহিনিতে ফেরাউন ও তার সভাসদরা বিপদে পড়ে মূসা (আঃ)-এর কাছে মিনতি করে, তারপর কথা ভাঙে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো জাতিকে ফেরাউনের লোকদের সঙ্গে এক করে দেখা চলে না। কোনো জাতি, প্রতিবেশী বা ধর্মকে এই নাম দিতে, কিংবা অন্যের বিপদকে তার প্রমাণ বানাতে এ আয়াত ধার করার অধিকার কারও নেই। কাহিনিটা পাঠকের সামনে রাখা হয়েছে নিজের দিকে তাকানোর জন্য।"
+          },
+          {
+            "en": "On narrations, none of the commentaries consulted here attaches a hadith to this verse, so none is cited. The reports they do give, from Ibn Abbas (RA), Mujahid and Qatada, are glosses on the wording, carried by al-Qurtubi and at-Tabari, not accounts of a cause of revelation. Ma'arif al-Qur'an, on the passage as a whole, gives the reason the story is told here: the Makkan objection that the Prophet ﷺ was not a wealthy man was not new, since Pharaoh had raised the same doubt against Musa (AS).",
+            "bn": "বর্ণনার প্রসঙ্গে: এখানে দেখা তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই কোনো হাদিস উদ্ধৃত হলো না। ইবন আব্বাস (রাঃ), মুজাহিদ ও কাতাদার যে বর্ণনাগুলো তারা আনে, সেগুলো শব্দের ব্যাখ্যা, কুরতুবী ও তাবারীর মাধ্যমে এসেছে। এগুলো আয়াত নাজিলের কারণের বিবরণ নয়। মাআরিফুল কুরআন পুরো অংশটি নিয়ে বলে, কাহিনিটা এখানে কেন এসেছে: নবী ﷺ ধনী মানুষ নন, মক্কার লোকদের এ আপত্তি নতুন কিছু ছিল না। ফেরাউনও মূসা (আঃ)-এর বিরুদ্ধে একই সন্দেহ তুলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Hard Night Passes",
+          "bn": "কঠিন রাত কেটে গেলে"
+        },
+        "p": [
+          {
+            "en": "Verse 43:48 gave the affliction a purpose: la'allahum yarji'un, that they might return. In this verse they seem, for a moment, to do exactly that. They come to the messenger, they ask him to pray for them, they say they will be guided. The words of return are all present. What is missing shows only in 43:50, when the pressure lifts. The scene leaves the reader to ask whether a turning that ends when the trouble ends was ever a turning at all.",
+            "bn": "৪৩:৪৮ আয়াত বিপদের একটা উদ্দেশ্য জানিয়েছিল: লাআল্লাহুম ইয়ারজিঊন, যেন তারা ফিরে আসে। এ আয়াতে মুহূর্তের জন্য মনে হয়, তারা ঠিক তা-ই করছে। রাসূলের কাছে আসছে, দোয়া চাইছে, বলছে সৎপথে চলবে। ফিরে আসার সব কথাই আছে। কী নেই, তা ধরা পড়ে কেবল ৪৩:৫০ আয়াতে, চাপ সরে যাওয়ার পর। দৃশ্যটা পাঠকের হাতে একটা প্রশ্ন তুলে দেয়: বিপদ ফুরোতেই যে ফেরা ফুরিয়ে যায়, তা কি আদৌ ফেরা ছিল?"
+          },
+          {
+            "en": "There is a second, quieter lesson in the title. On Ibn Kathir's reading they chose a word of honour because they needed him; two verses later, in 43:52, Pharaoh calls the same man mahin, insignificant. Respect that rises and falls with need is closer to a trade than to respect. Any of us can slip into the same habit in small ways: courteous to the one who can help, careless with the one who cannot, warm while the request is pending and cool once it has been granted.",
+            "bn": "উপাধিটার ভেতরে আরেকটা নিচু স্বরের শিক্ষা আছে। ইবন কাসীরের পাঠে তারা সম্মানের শব্দ বেছে নিয়েছিল, কারণ তাঁকে তাদের দরকার ছিল। অথচ দুই আয়াত পরে, ৪৩:৫২ আয়াতে, ফেরাউন সেই একই মানুষকে বলে মাহীন, তুচ্ছ। দরকারের সঙ্গে যে সম্মান ওঠানামা করে, তা সম্মানের চেয়ে লেনদেনেরই বেশি কাছাকাছি। ছোট ছোট ব্যাপারে আমরাও এ অভ্যাসে পড়ে যেতে পারি। যে সাহায্য করতে পারে তার সঙ্গে ভদ্রতা, যে পারে না তার প্রতি অবহেলা। অনুরোধ ঝুলে থাকার সময় উষ্ণতা, আর কাজ হয়ে গেলে ঠান্ডা ব্যবহার।"
+          },
+          {
+            "en": "And there is the hard night itself. Many people have made a promise to Allah when a fear came close: if this passes, I will pray, I will give, I will stop. Turning to Him in distress is not the fault in this story; what follows the relief is. So the verse leaves one question for an ordinary morning, when nothing is pressing and no one is watching: which of the promises I made in distress am I still keeping, now that the distress has gone?",
+            "bn": "আর আছে সেই কঠিন রাতটা। ভয় যখন ঘাড়ের কাছে এসে দাঁড়ায়, অনেকেই আল্লাহকে কথা দেয়: এবার পার পেলে নামাজ ধরব, দান করব, ওই কাজটা ছেড়ে দেব। বিপদে তাঁর দিকে ফেরা এ কাহিনির দোষ নয়। দোষ হলো স্বস্তি আসার পরের আচরণ। তাই আয়াতটা একটা সাধারণ সকালের জন্য একটি প্রশ্ন রেখে যায়, যখন কোনো তাড়া নেই, কেউ দেখছেও না: বিপদের দিনে যে কথাগুলো দিয়েছিলাম, বিপদ চলে যাওয়ার পর তার কোনগুলো এখনো রাখছি?"
+          }
+        ]
+      }
+    ]
+  },
   "43:53": {
     "sections": [
       {

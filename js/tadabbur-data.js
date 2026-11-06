@@ -26829,6 +26829,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an is a reminder and an honour, but its honour belongs to whoever acts on it, and everyone it reaches will be asked what they did with it.",
     "lessonBn": "কুরআন উপদেশও, সম্মানও। তবে সে সম্মান তার, যে এর উপর আমল করে। আর যার কাছে এটি পৌঁছেছে, তাকেই জিজ্ঞেস করা হবে এটা নিয়ে সে কী করেছে।"
+  },
+  "43:49": {
+    "reflectionEn": "The affliction lands, and the people who laughed at the signs come back to Musa (AS) with a plea. They address him by a title, ask him to call on his Lord by the pledge his Lord made with him, and promise: we will be guided. The verse reports their words without comment, and the next verse reports what became of them: once the affliction was lifted, they broke their word. Humility comes easily while the pressure lasts, and so does a promise made on a hard night. The test comes after. Do the promises I made to Allah in hardship survive the first ordinary morning? And do I honour people only for as long as I need them?",
+    "reflectionBn": "বিপদ নেমে এল। যারা নিদর্শন নিয়ে হাসছিল, তারাই অনুনয় নিয়ে ফিরে এল মূসা (আঃ)-এর কাছে। একটা উপাধি দিয়ে তাঁকে ডাকল, বলল, আপনার রব আপনার সঙ্গে যে অঙ্গীকার করেছেন, তার দোহাই দিয়ে আমাদের জন্য তাঁকে ডাকুন। সঙ্গে প্রতিশ্রুতি: আমরা অবশ্যই সৎপথে চলব। আয়াত তাদের কথা হুবহু তুলে দেয়, কোনো মন্তব্য করে না। পরের আয়াত জানায় সে কথার কী হলো: বিপদ সরতেই তারা অঙ্গীকার ভেঙে ফেলল। চাপ যতক্ষণ থাকে, বিনয় দেখানো সহজ। কঠিন রাতে প্রতিশ্রুতি দেওয়াও সহজ। পরীক্ষা আসে তার পরে। বিপদের দিনে আল্লাহকে দেওয়া আমার কথাগুলো কি প্রথম সাধারণ সকালটা পার হতে পারে? আর মানুষকে আমি কি ততদিনই সম্মান করি, যতদিন তাকে আমার দরকার?",
+    "pointsEn": [
+      "What did I promise Allah during my last hardship, and how much of it am I still keeping now that it has passed?",
+      "When I ask someone to pray for me, am I asking for a way back to Allah, or only for the trouble to end?",
+      "Do I speak warmly to people while I need something from them, and differently once I no longer do?",
+      "When a difficulty lifts, do I treat the relief as a gift to thank Him for, or as proof that I never needed to change?",
+      "Which piece of guidance have I accepted in principle but put off until life is easier?"
+    ],
+    "pointsBn": [
+      "শেষ বিপদের সময় আল্লাহর কাছে আমি কী কী কথা দিয়েছিলাম? বিপদ কেটে যাওয়ার পর তার কতটুকু এখনো রাখছি?",
+      "কাউকে যখন আমার জন্য দোয়া করতে বলি, আমি কি আল্লাহর দিকে ফেরার পথ চাই, নাকি শুধু ঝামেলাটা মিটে যাক, এটুকুই চাই?",
+      "কারও কাছে কিছু পাওয়ার থাকলে আমি কি তার সঙ্গে মিষ্টি করে কথা বলি, আর দরকার ফুরোলে সুর বদলে ফেলি?",
+      "কষ্ট সরে গেলে সেই স্বস্তিকে আমি কী মনে করি: আল্লাহর দান, যার জন্য শুকরিয়া জানাতে হয়, নাকি প্রমাণ যে আমার বদলানোর কোনো দরকারই ছিল না?",
+      "কোন হেদায়েতের কথা আমি মুখে মেনে নিয়েছি, অথচ সময় সহজ হলে করব বলে ফেলে রেখেছি?"
+    ],
+    "lessonEn": "A promise made to Allah in hardship is meant to be kept in ease; turn back to Him for His own sake, not only to have the trouble lifted.",
+    "lessonBn": "বিপদের দিনে আল্লাহকে দেওয়া কথা সুদিনেও রাখতে হয়। তাঁর দিকে ফিরুন তাঁরই জন্য, শুধু বিপদ সরানোর জন্য নয়।"
   }
 };
 
