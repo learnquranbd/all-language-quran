@@ -171,6 +171,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "68:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words That Finish a Sentence",
+          "bn": "দুই শব্দে বাক্যের সমাপ্তি"
+        },
+        "p": [
+          {
+            "en": "Bi-ayyikumu l-maftun: which of you is the afflicted one. In Arabic the verse is two words long, and it cannot stand on its own. It completes the sentence begun in 68:5, so you will see and they will see, and the two read as a single statement: you will see, and they will see, which of you is the maftun. Behind them stands the charge answered in 68:2, that the Prophet ﷺ was a madman, and the reply that followed it in 68:3 and 68:4.",
+            "bn": "বিআইয়িকুমুল মাফতূন: তোমাদের মধ্যে কে বিকারগ্রস্ত। আরবিতে আয়াতটি মাত্র দুই শব্দের, একা দাঁড়াতে পারে না। ৬৮:৫ আয়াতে যে বাক্য শুরু হয়েছিল, শীঘ্রই তুমি দেখবে আর তারাও দেখবে, এটি তারই শেষ অংশ। দুই আয়াত মিলে একটিই কথা: তুমি দেখবে, তারাও দেখবে, তোমাদের মধ্যে কে মাফতূন। এর পেছনে আছে সেই অভিযোগ, যার জবাব এসেছে ৬৮:২ আয়াতে, অর্থাৎ নবী ﷺ নাকি পাগল। আর আছে ৬৮:৩ ও ৬৮:৪ আয়াতে আসা তার পরের উত্তর।"
+          },
+          {
+            "en": "The Muyassar paraphrases the two verses in one line: soon you, O Messenger, will see, and the disbelievers will see, in which of you lies fitnah and madness. As-Sa'di sets the verse against its background in so many words. Once Allah had placed His Messenger in the highest of ranks in every respect, he writes, while his enemies were saying of him that he was majnun maftun, mad and deranged, Allah said: so you will see and they will see which of you is the maftun.",
+            "bn": "মুয়াসসার দুই আয়াতকে একটি বাক্যে বলে দেয়: হে রাসূল, অচিরেই আপনি দেখবেন, কাফেররাও দেখবে, তোমাদের কার মধ্যে ফিতনা আর পাগলামি। সা'দী আয়াতের প্রেক্ষাপট খোলাখুলি বলেন। আল্লাহ তাঁর রাসূলকে সব দিক থেকে সর্বোচ্চ মর্যাদায় বসিয়েছিলেন। অথচ তাঁর শত্রুরা তাঁকে বলত মাজনূন মাফতূন, পাগল ও বিকারগ্রস্ত। তখনই আল্লাহ বললেন: শীঘ্রই তুমি দেখবে, তারাও দেখবে, তোমাদের মধ্যে কে মাফতূন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Little Bi Is Doing",
+          "bn": "ছোট্ট বা হরফের কাজ কী"
+        },
+        "p": [
+          {
+            "en": "The puzzle sits in the first letter. Bi-ayyikum opens with the preposition bi, and the verb before it, to see, does not ordinarily take a preposition: Arabic says you will see which of you, not you will see by which of you. At-Tabari notes that the grammarians divided over the letter much as the interpreters did. Some grammarians of Basra, he reports, read the sentence as though the bi were not there: you will see and they will see ayyukum al-maftun, which of you is the maftun.",
+            "bn": "জট বাঁধা প্রথম হরফটিতেই। বিআইয়িকুম শুরু হয়েছে 'বি' অব্যয় দিয়ে, অথচ তার আগের ক্রিয়া, দেখা, সাধারণত কোনো অব্যয় চায় না। আরবিতে বলা হয় তুমি দেখবে তোমাদের কে, 'কার দ্বারা' বলা হয় না। তাবারী জানান, তাফসীরকারদের মতো ব্যাকরণবিদরাও এই হরফ নিয়ে ভিন্ন ভিন্ন কথা বলেছেন। তাঁর বর্ণনায় বসরার কিছু ব্যাকরণবিদ বাক্যটি এমনভাবে পড়েছেন, যেন 'বি' সেখানে নেই: তুমি দেখবে, তারাও দেখবে, আইয়ুকুমুল মাফতূন, অর্থাৎ তোমাদের কে মাফতূন।"
+          },
+          {
+            "en": "Al-Qurtubi opens with that view: the ba is za'ida, an added letter, and the meaning is which of you is the maftun, the one tried with madness. He names Qatadah, Abu Ubayd and al-Akhfash for it, and sets it beside two verses where he reads the letter the same way, tanbutu bi-d-duhn in 23:20 and yashrabu biha 'ibadu llah in 76:6. Both he and at-Tabari quote the rajaz line in which a poet says narju bi-l-faraj, we hope for relief, with a bi the sense does not need.",
+            "bn": "কুরতুবী শুরু করেন এই মত দিয়েই। তাঁর মতে এখানে বা হরফটি যায়েদা, অতিরিক্ত। অর্থ দাঁড়ায়: তোমাদের কে মাফতূন, অর্থাৎ পাগলামি দিয়ে যাকে পরীক্ষায় ফেলা হয়েছে। এ মতের জন্য তিনি কাতাদা, আবু উবায়দ ও আখফাশের নাম নেন। পাশে রাখেন আরও দুটি আয়াত, যেখানে তিনি হরফটিকে একইভাবে পড়েন: ২৩:২০ আয়াতের তানবুতু বিদ্দুহন, আর ৭৬:৬ আয়াতের ইয়াশরাবু বিহা ইবাদুল্লাহ। তিনি ও তাবারী দুজনেই রাজায ছন্দের একটি পঙক্তি উদ্ধৃত করেন। সেখানে কবি বলেন নারজু বিলফারাজ, আমরা মুক্তির আশা করি। অর্থের জন্য সেখানেও 'বি'-এর দরকার নেই।"
+          },
+          {
+            "en": "Others will not treat the letter as idle. Al-Qurtubi reports from al-Farra' that bi here means fi, in: you will see and they will see in which of the two parties the madman is, the believers you are among or the other side. At-Tabari gives the same reading unnamed: in your party, O Muhammad, or in theirs. Al-Baghawi records bi as ma'a, with, and ties it to Mujahid: with which of you is the devil, the believers or the disbelievers? Ibn Kathir explains the letter as a sign that see carries the sense of know, or be told.",
+            "bn": "অন্যরা হরফটিকে অকেজো মানতে রাজি নন। কুরতুবী ফাররা থেকে বর্ণনা করেন, এখানে 'বি' মানে 'ফী', অর্থাৎ মধ্যে। তখন অর্থ হয়: তুমি দেখবে, তারাও দেখবে, দুই দলের কোন দলে পাগল আছে। তুমি যে মুমিনদের দলে আছ সেখানে, নাকি অন্য দলে? তাবারী নাম ছাড়াই একই পাঠ দেন: হে মুহাম্মাদ, তোমার দলে, নাকি তাদের দলে? বাগাভী লেখেন, 'বি' মানে 'মাআ', অর্থাৎ সঙ্গে, আর এটি মুজাহিদের কথার মর্ম। তখন প্রশ্ন দাঁড়ায়: শয়তান কার সঙ্গে, মুমিনদের না কাফেরদের? ইবন কাসীরের ব্যাখ্যায় হরফটি জানিয়ে দেয় যে এখানে দেখা ক্রিয়ার ভেতরে জানা বা জানানো অর্থ ঢুকে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Participle Read as Madness",
+          "bn": "বিশেষণ যখন পাগলামির নাম"
+        },
+        "p": [
+          {
+            "en": "A further reading keeps bi in its plain sense and changes the second word instead. Maftun has the shape of a passive participle, one who is tried; but it can be taken as a verbal noun, futun, trial or madness itself. Al-Baghawi explains it from an Arabic idiom, ma bi-fulanin majludun wa la ma'qulun, there is no endurance in him and no sense, where two words of the same shape mean endurance and sense. The verse then asks: in which of you is the madness?",
+            "bn": "আরেকটি পাঠে 'বি' তার সাধারণ অর্থেই থাকে, বদলায় দ্বিতীয় শব্দটি। মাফতূনের গড়ন কর্মবাচ্য বিশেষণের, যার অর্থ যাকে পরীক্ষায় ফেলা হয়েছে। কিন্তু একে ক্রিয়াবাচক বিশেষ্য হিসেবেও ধরা যায়, ফুতূন, অর্থাৎ খোদ পরীক্ষা বা পাগলামি। বাগাভী এটি বোঝান আরবির একটি বুলি দিয়ে: মা বিফুলানিন মাজলূদুন ওয়ালা মা'কূলুন, অমুকের মধ্যে না আছে সহ্যশক্তি, না আছে বুদ্ধি। সেখানে একই গড়নের দুটি শব্দের মানে সহ্যশক্তি আর বুদ্ধি। আয়াতের প্রশ্ন তখন দাঁড়ায়: পাগলামিটা তোমাদের কার মধ্যে?"
+          },
+          {
+            "en": "Al-Baghawi credits this reading to ad-Dahhak and to al-Awfi's report from Ibn Abbas (RA). Al-Qurtubi names al-Hasan, ad-Dahhak and Ibn Abbas for it, and quotes the poet ar-Ra'i on a man left with no flesh on his bones and no ma'qul, no sense, in his heart. At-Tabari then states his own preference plainly: the soundest view, to him, is bi-ayyikum al-junun, in which of you is the madness, with maftun taken as a verbal noun.",
+            "bn": "বাগাভী এ পাঠের কৃতিত্ব দেন দাহহাককে, আর ইবন আব্বাস (রাঃ) থেকে আওফীর বর্ণনাকে। কুরতুবী এর জন্য নাম নেন হাসান, দাহহাক ও ইবন আব্বাসের। কবি রাঈর একটি পঙক্তিও তিনি উদ্ধৃত করেন, যেখানে এক লোকের হাড়ে মাংস রাখা হয়নি, অন্তরে রাখা হয়নি কোনো মা'কূল, অর্থাৎ বুদ্ধি। তাবারী এরপর সোজাসুজি নিজের পছন্দ জানান। তাঁর কাছে সবচেয়ে সঠিক মত হলো বিআইয়িকুমুল জুনূন, অর্থাৎ পাগলামিটা তোমাদের কার মধ্যে। এখানে মাফতূনকে তিনি ক্রিয়াবাচক বিশেষ্য ধরেন।"
+          },
+          {
+            "en": "His reasons are two. It is the most apparent meaning of the words if one does not mean to drop the bi, and it gives the letter's presence an understandable point. He adds a principle he says he has already set out: it is not permissible that anything in the Qur'an be without meaning. Al-Qurtubi records one more option, unnamed: a word is understood before maftun, so that the sense is in which of you is the trial of the one tried.",
+            "bn": "তাঁর যুক্তি দুটি। 'বি' বাদ দেওয়ার ইচ্ছা না থাকলে শব্দগুলোর সবচেয়ে স্পষ্ট অর্থ এটাই। আর এতে হরফটির উপস্থিতির একটা বোধগম্য কারণও পাওয়া যায়। সঙ্গে তিনি একটি মূলনীতি যোগ করেন, যা তিনি আগেই প্রমাণ করেছেন বলে জানান: কুরআনে অর্থহীন কিছু থাকা বৈধ নয়। কুরতুবী নাম ছাড়া আরও একটি সম্ভাবনার কথা লেখেন। মাফতূনের আগে একটি শব্দ উহ্য ধরা হয়, তখন অর্থ দাঁড়ায়: পরীক্ষায় পড়া লোকের পরীক্ষাটা তোমাদের কার মধ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Madman, Devil or One Burned",
+          "bn": "পাগল, শয়তান, না দগ্ধ"
+        },
+        "p": [
+          {
+            "en": "Who, then, is the maftun? Mujahid's name stands on more than one answer. At-Tabari has him, through Layth and through Khusayf, saying simply al-majnun, the madman. Through Ibn Abi Najih he has him saying ash-shaytan, the devil, and al-Baghawi likewise ties the devil reading to Mujahid. Al-Qurtubi reports, under it was said, that the maftun is the devil because the devil is tried in his own religion, and that the opponents used to say a devil was in him, meaning exactly this by madness.",
+            "bn": "তাহলে মাফতূন কে? মুজাহিদের নাম একটির বেশি উত্তরের সঙ্গে জড়িয়ে আছে। তাবারী লাইস ও খুসাইফের সূত্রে তাঁর কথা আনেন সাদামাটা ভাষায়: আলমাজনূন, পাগল। আবার ইবন আবী নাজীহের সূত্রে তিনি মুজাহিদকে বলতে শোনান: আশশাইতান, শয়তান। বাগাভীও শয়তানের পাঠটি মুজাহিদের সঙ্গেই জোড়েন। কুরতুবী 'বলা হয়েছে' দিয়ে আনেন যে মাফতূন হলো শয়তান, কারণ নিজের দ্বীনের ব্যাপারে সে নিজেই ফিতনায় পড়া। তিনি এও জানান, বিরোধীরা বলত তাঁর উপর শয়তান ভর করেছে, আর পাগল বলতে তারা এটাই বোঝাত।"
+          },
+          {
+            "en": "Qatadah frames the question as a comparison. At-Tabari and Ibn Kathir both report him: ayyukum awla bi-sh-shaytan, which of you is nearer to the devil. At-Tabari notes that on this view the bi is added, its presence and absence alike. Ibn Kathir then states what he calls the plain meaning of maftun: one who has been tried and turned away from the truth, and has strayed from it. The abridged English Ibn Kathir renders it as one charmed or lured away from the truth.",
+            "bn": "কাতাদা প্রশ্নটিকে তুলনার রূপ দেন। তাবারী ও ইবন কাসীর দুজনেই তাঁর কথা আনেন: আইয়ুকুম আওলা বিশশাইতান, তোমাদের কে শয়তানের বেশি কাছের। তাবারী মন্তব্য করেন, এ মত অনুযায়ী 'বি' অতিরিক্ত, থাকা না থাকা সমান। ইবন কাসীর এরপর মাফতূনের যে অর্থকে স্পষ্ট বলেন, তা হলো: এমন একজন, যাকে ফিতনায় ফেলে সত্য থেকে সরিয়ে দেওয়া হয়েছে, আর সে পথ হারিয়েছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে বলে: যাকে মোহে ফেলে বা প্রলুব্ধ করে সত্য থেকে সরিয়ে নেওয়া হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi adds one more sense, again under it was said: the maftun is the one tormented. It comes from the Arab saying fatantu adh-dhahaba bi-n-nar, I tried the gold in the fire, said when one heats it. He cites 51:13, yawma hum 'ala n-nari yuftanun, the day they are tried over the fire, that is, tormented. That reading moves the question from a diagnosis of the mind to an outcome: not only who is deranged, but who will be made to suffer for it.",
+            "bn": "কুরতুবী আরও একটি অর্থ যোগ করেন, এটিও 'বলা হয়েছে' দিয়ে: মাফতূন মানে যাকে শাস্তি দেওয়া হয়। শব্দটি এসেছে আরবদের কথা ফাতানতুয যাহাবা বিন্নার থেকে, আমি সোনাকে আগুনে পরখ করলাম, অর্থাৎ তাতিয়ে নিলাম। তিনি ৫১:১৩ আয়াত উদ্ধৃত করেন: ইয়াওমা হুম আলান্নারি ইউফতানূন, যেদিন তাদের আগুনে পরখ করা হবে, মানে শাস্তি দেওয়া হবে। এ পাঠে প্রশ্নটা মনের অবস্থা নির্ণয় থেকে সরে যায় পরিণতির দিকে। কে বিকারগ্রস্ত শুধু তা নয়, এর জন্য কাকে ভুগতে হবে, সেটাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked, Not Pronounced",
+          "bn": "রায় নয়, প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Notice the form the reply takes. The verse could have declared that the accusers were the mad ones. Instead it asks which of you, and leaves the answer to a seeing still to come. Ibn Kathir sets two verses of the same manner beside it. In 54:26: tomorrow they will know who is the insolent liar. And in 34:24, where the Prophet ﷺ is told to say: indeed, either we or you are upon guidance or in clear error. In each, the sentence is framed as a question that events will settle.",
+            "bn": "জবাবের ধরনটা খেয়াল করুন। আয়াতটি ঘোষণা দিতে পারত যে অভিযোগকারীরাই পাগল। তা না করে সে প্রশ্ন রাখে, তোমাদের মধ্যে কে, আর উত্তরটা ছেড়ে দেয় সামনের দেখার উপর। ইবন কাসীর এর পাশে একই ধাঁচের দুটি আয়াত রাখেন। ৫৪:২৬ আয়াতে আছে: কাল তারা জানবে, কে মিথ্যাবাদী, দাম্ভিক। আর ৩৪:২৪ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে: আমরা অথবা তোমরা, কেউ সৎপথে আছে, কেউ স্পষ্ট ভ্রান্তিতে। দুই জায়গাতেই কথাটা প্রশ্নের আকারে, যার মীমাংসা করবে ঘটনা।"
+          },
+          {
+            "en": "The next verse supplies the measure. In 68:7, your Lord is most knowing of who has strayed from His way, and most knowing of the guided. Ibn Kathir explains it: He knows which of the two parties is truly guided and which is astray from the truth. As-Sa'di closes his comment on 68:6 in the same direction: Allah's knowledge of it is sufficient, for He is the One who takes account and repays. The question is put to two parties, and the One who answers it is neither of them.",
+            "bn": "মাপকাঠিটা দেয় পরের আয়াত। ৬৮:৭ আয়াতে আছে, তোমার রব সবচেয়ে ভালো জানেন কে তাঁর পথ থেকে সরে গেছে, আর সবচেয়ে ভালো জানেন সৎপথপ্রাপ্তদের। ইবন কাসীরের ব্যাখ্যা: দুই দলের কোনটি সত্যিই হিদায়াতের উপর আর কোনটি সত্য থেকে বিচ্যুত, তিনি তা জানেন। সা'দীও ৬৮:৬ আয়াতের আলোচনা শেষ করেন একই দিকে: এ বিষয়ে আল্লাহর জ্ঞানই যথেষ্ট, কারণ হিসাব নেবেন তিনিই, প্রতিদানও দেবেন তিনিই। প্রশ্ন রাখা হয়েছে দুই দলের সামনে, আর যিনি এর উত্তর দেবেন, তিনি কোনো দলের নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Unsettled Whom",
+          "bn": "কে কাকে ফিতনায় ফেলল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the outcome as already plain. It has become clear, he writes, that the Prophet ﷺ was the most rightly guided of people, and the most complete, for himself and for others, and that his enemies were the most astray of people. Then he turns the word back on them: it was they who fatanu 'ibada llah, who put the servants of Allah to trial and led them away from His path.",
+            "bn": "সা'দীর চোখে পরিণতি এখনই স্পষ্ট। তিনি লেখেন, এটা পরিষ্কার হয়ে গেছে যে নবী ﷺ ছিলেন মানুষের মধ্যে সবচেয়ে বেশি হিদায়াতপ্রাপ্ত, নিজের জন্য ও অন্যের জন্য সবচেয়ে পরিপূর্ণ। আর তাঁর শত্রুরা ছিল মানুষের মধ্যে সবচেয়ে বেশি পথভ্রষ্ট। এরপর তিনি শব্দটাকে তাদের দিকেই ঘুরিয়ে দেন। আল্লাহর বান্দাদের ফিতনায় ফেলেছিল তারাই, ফাতানূ ইবাদাল্লাহ, আর তাঁর পথ থেকে তাদের সরিয়ে নিয়েছিল তারাই।"
+          },
+          {
+            "en": "So the root of maftun, f-t-n, ends up in as-Sa'di's hands describing what the accusers did, not what they claimed to see. The Muyassar's paraphrase keeps two nouns side by side, fitnah and madness, as though the question had two halves: whose mind was disordered, and who was spreading disorder among others. Read together, the two comments suggest that the cry of madness was itself a way of putting people to trial, by giving the speaker a name so that no one would need to listen.",
+            "bn": "ফলে মাফতূনের মূল ধাতু ফ-ত-ন সা'দীর হাতে গিয়ে বর্ণনা করে অভিযোগকারীদের কাজ, তারা যা দেখতে পাচ্ছে বলে দাবি করত তা নয়। মুয়াসসারের ভাষ্যেও দুটি শব্দ পাশাপাশি থাকে, ফিতনা আর পাগলামি। যেন প্রশ্নটার দুটি ভাগ: কার মন এলোমেলো, আর কে মানুষের মধ্যে বিশৃঙ্খলা ছড়াচ্ছে। দুটি ব্যাখ্যা একসঙ্গে পড়লে মনে হয়, পাগল বলে চিৎকার করাটাই ছিল মানুষকে ফিতনায় ফেলার এক কৌশল। বক্তার গায়ে একটা নাম লাগিয়ে দাও, তাহলে কাউকে আর তাঁর কথা শুনতে হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Seeing Arrives",
+          "bn": "দেখার দিন কবে"
+        },
+        "p": [
+          {
+            "en": "When do they see? Ibn Kathir reports from Ibn Jurayj, from Ibn Abbas (RA): you will know and they will know on the Day of Judgement. Ma'arif al-Qur'an reads the verse as a prophecy that time would show, within this world, whether it was he or they who were demented. Those who refused, it says, were disgraced and defeated, while thousands who had at first denounced him as demented soon saw the light and embraced Islam. One horizon need not cancel the other.",
+            "bn": "তারা দেখবে কবে? ইবন কাসীর ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: তুমি জানবে, তারাও জানবে কিয়ামতের দিন। মাআরিফুল কুরআন আয়াতটিকে পড়ে এক ভবিষ্যদ্বাণী হিসেবে। এই দুনিয়াতেই সময় দেখিয়ে দেবে, পাগল কে ছিল, তিনি না তারা। তার বর্ণনায়, যারা অস্বীকারে অটল রইল, তারা লাঞ্ছিত ও পরাজিত হলো। আর হাজার হাজার মানুষ, যারা প্রথমে তাঁকে পাগল বলেছিল, অল্প দিনেই আলো দেখে ইসলাম গ্রহণ করল। একটি দিগন্ত অন্যটিকে বাতিল করে না।"
+          },
+          {
+            "en": "These verses describe what the text describes: the men of Makkah who called the Prophet ﷺ mad, and the outcome the Qur'an promised them. They license nothing against any living person or community, and they give no reader a label to pin on someone he disagrees with. Ma'arif al-Qur'an's own observation tells against that use: many of the first accusers became believers, so even in Makkah the question which of you did not seal anyone's end in advance.",
+            "bn": "আয়াতগুলো তা-ই বর্ণনা করে, যা তাতে আছে: মক্কার সেই লোকেরা, যারা নবী ﷺ-কে পাগল বলেছিল, আর কুরআন তাদের যে পরিণতির কথা বলেছিল। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কিছুরই অনুমতি দেয় না। মতের অমিল হলে কারও গায়ে লাগানোর মতো কোনো নামও কোনো পাঠকের হাতে তুলে দেয় না। মাআরিফুল কুরআনের নিজের পর্যবেক্ষণই এমন ব্যবহারের বিপক্ষে যায়। প্রথম দিকের অভিযোগকারীদের অনেকেই পরে ঈমান এনেছিল। তাই মক্কাতেও 'তোমাদের মধ্যে কে' প্রশ্নটি কারও শেষ পরিণতি আগে থেকে ঠিক করে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carrying a Name Unearned",
+          "bn": "অন্যায্য নাম বয়ে বেড়ানো"
+        },
+        "p": [
+          {
+            "en": "For a reader, the verse shows a way of carrying an insult. The Prophet ﷺ was called mad, a word aimed at the one thing his message rested on, the soundness of the man who brought it. The reply did not come as a counter-insult. It came as a promise that both sides would see, and a reminder that his Lord knows best who has strayed. The same patience is open to anyone given a name they have not earned: to keep acting well, and let the seeing come.",
+            "bn": "পাঠকের জন্য আয়াতটি অপমান বয়ে নেওয়ার একটা পথ দেখায়। নবী ﷺ-কে পাগল বলা হয়েছিল। শব্দটা তাক করা ছিল ঠিক সেই জায়গায়, যার উপর তাঁর বার্তা দাঁড়িয়ে, অর্থাৎ বার্তাবাহকের সুস্থ বুদ্ধি। জবাব পাল্টা গালি হয়ে আসেনি। এসেছে প্রতিশ্রুতি হয়ে যে দুই পক্ষই দেখবে, আর এই স্মরণ হয়ে যে কে পথ হারিয়েছে তা তাঁর রবই ভালো জানেন। যার গায়ে অন্যায্য নাম লাগানো হয়েছে, তার জন্যও এই ধৈর্যের পথ খোলা: ভালো আচরণ চালিয়ে যাওয়া, আর দেখার দিনটিকে আসতে দেওয়া।"
+          },
+          {
+            "en": "The verse also checks the reader from the other side. On Ibn Kathir's plain meaning, the maftun is anyone tried and turned from the truth, and that can describe the person most sure of himself. The question which of you was put to two parties in Makkah, but its form asks every reader to hold his certainties about others with care. No tafsir fetched for this verse attaches a hadith to it, so none is offered here. What remains is the verse itself: a question, and the One who knows the answer.",
+            "bn": "আয়াতটি পাঠককে অন্য দিক থেকেও সামলায়। ইবন কাসীরের স্পষ্ট অর্থ অনুযায়ী মাফতূন হলো যে-কেউ, যাকে ফিতনায় ফেলে সত্য থেকে সরিয়ে দেওয়া হয়েছে। নিজের ব্যাপারে সবচেয়ে নিশ্চিত মানুষটির বেলাতেও তা খাটতে পারে। 'তোমাদের মধ্যে কে' প্রশ্নটি রাখা হয়েছিল মক্কার দুই দলের সামনে। কিন্তু এর গড়নই প্রত্যেক পাঠককে বলে, অন্যদের নিয়ে নিজের নিশ্চয়তাগুলো সাবধানে ধরে রাখুন। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস আনা হলো না। বাকি থাকে আয়াতটি নিজেই: একটি প্রশ্ন, আর সেই সত্তা, যিনি উত্তর জানেন।"
+          }
+        ]
+      }
+    ]
+  },
   "68:11": {
     "sections": [
       {

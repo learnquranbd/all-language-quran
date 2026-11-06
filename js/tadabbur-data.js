@@ -28449,6 +28449,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a marriage ends, keep giving what is due without spite: house her fairly, provide in pregnancy, pay for nursing, and settle disagreements with decency, not pressure.",
     "lessonBn": "সংসার ভেঙে গেলেও বিদ্বেষ ছাড়া প্রাপ্য বুঝিয়ে দিন: ন্যায্যভাবে থাকার জায়গা দিন, গর্ভাবস্থায় খরচ বহন করুন, দুধ পান করানোর পারিশ্রমিক দিন, আর চাপ নয়, ভদ্রতা দিয়ে মতবিরোধ মেটান।"
+  },
+  "68:6": {
+    "reflectionEn": "Two words close a sentence that began with a promise: you will see, and they will see, which of you is the afflicted one. The town had already passed its verdict on him: madman. The Qur'an does not answer with a louder label. It asks a question and leaves the answer to time, and to the One who knows best who has strayed from His way. The verse describes the men who mocked him then, and it hands no one a verdict on anyone alive. So the question turns to me. When I am given a name I have not earned, do I rush to give one back? And when I am certain the other person is the confused one, am I ready to be shown otherwise?",
+    "reflectionBn": "দুটি মাত্র শব্দ, আর তাতেই শেষ হয় একটি বাক্য, যার শুরু এক প্রতিশ্রুতিতে: শীঘ্রই তুমি দেখবে, তারাও দেখবে, তোমাদের মধ্যে কে বিকারগ্রস্ত। শহরের লোকেরা আগেই রায় দিয়ে রেখেছিল: পাগল। কুরআন এর জবাবে আরও জোরালো কোনো গালি দেয় না। প্রশ্ন রেখে উত্তরটা ছেড়ে দেয় সময়ের হাতে, আর তাঁর হাতে, যিনি সবচেয়ে ভালো জানেন কে তাঁর পথ থেকে সরে গেছে। আয়াতটি সেদিনের বিদ্রূপকারীদের কথা বলে। আজকের কোনো মানুষের ব্যাপারে রায় দেওয়ার অধিকার কাউকে দেয় না। তাই প্রশ্নটা ফিরে আসে আমার দিকে। যে নাম আমার প্রাপ্য নয়, তা কেউ আমার গায়ে লাগালে আমি কি সঙ্গে সঙ্গে পাল্টা একটা নাম ছুড়ে দিই? আর যখন নিশ্চিত থাকি যে বিভ্রান্ত আসলে অন্যজন, তখন কি উল্টোটা দেখার জন্য আমি প্রস্তুত থাকি?",
+    "pointsEn": [
+      "What is one label someone has pinned on me that still stings, and what would answering it with conduct instead of words look like?",
+      "When I disagree with someone, how quickly do I move from 'they are wrong' to 'there is something wrong with them'?",
+      "Am I willing to let time show who was right, or do I need the verdict today, in front of everyone?",
+      "Which of my settled certainties about other people would I be most embarrassed to see overturned?",
+      "Do I leave the final judgement of who has strayed with Allah, or have I quietly taken that seat for myself?"
+    ],
+    "pointsBn": [
+      "কেউ আমার গায়ে এমন কোন নাম লাগিয়েছে, যার জ্বালা এখনো যায়নি? কথায় নয়, আচরণ দিয়ে তার জবাব দিলে সেটা দেখতে কেমন হতো?",
+      "কারও সঙ্গে মতের অমিল হলে 'সে ভুল বলছে' থেকে 'তার মধ্যেই গলদ আছে' পর্যন্ত পৌঁছাতে আমার কতক্ষণ লাগে?",
+      "কে ঠিক ছিল, তা সময়ের হাতে ছেড়ে দিতে কি আমি রাজি? নাকি রায়টা আমার আজই চাই, সবার সামনে?",
+      "অন্যদের নিয়ে আমার কোন পাকা ধারণাটা উল্টে গেলে আমি সবচেয়ে বেশি লজ্জা পাব?",
+      "কে পথ হারিয়েছে, সে শেষ বিচার কি আমি আল্লাহর হাতে রাখি? নাকি চুপিচুপি সেই আসনে নিজেই বসে পড়েছি?"
+    ],
+    "lessonEn": "When people pin a label on you, answer with conduct and patience rather than a counter-label, and leave the verdict on who has strayed to the One who knows.",
+    "lessonBn": "লোকে আপনার গায়ে কোনো নাম লাগালে পাল্টা নাম নয়, আচরণ আর ধৈর্য দিয়ে জবাব দিন। কে পথ হারিয়েছে, সে রায় ছেড়ে দিন তাঁর হাতে, যিনি জানেন।"
   }
 };
 
