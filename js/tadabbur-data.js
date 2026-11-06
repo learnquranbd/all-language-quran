@@ -28907,6 +28907,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask yourself now what the people of Paradise will ask the people of the Fire: what put you there? Then change your answer today, while there is still time to act on it.",
     "lessonBn": "জান্নাতবাসীরা জাহান্নামবাসীদের যে প্রশ্ন করবে, তা এখনই নিজেকে করুন: কিসে তোমাকে সেখানে নিয়ে গেল? তারপর আজই জবাবটা বদলে নিন, এখনো যখন আমল করার সময় আছে।"
+  },
+  "74:17": {
+    "reflectionEn": "The ground had been made smooth for him: wealth stretched wide, sons at his side, life levelled before him. He was shown the signs, knew them, and set himself against them. Then two words answer him: I will load him with a steep climb. The one who was given every ease is promised a slope with no rest on it. The verse speaks of one man and of what Allah will do with him; it hands no reader a verdict on anyone else. It leaves a question for my own life instead. Where is the ease I have been given taking me? When a truth asks something hard of me today, do I take that small climb now, or turn away and call it comfort?",
+    "reflectionBn": "তার জন্য পথ সমান করে দেওয়া হয়েছিল। বিপুল সম্পদ, পাশে ছেলেরা, জীবন সহজ। নিদর্শন তাকে দেখানো হলো, সে চিনল, তারপর তার বিরুদ্ধেই দাঁড়াল। এরপর দুটি শব্দে জবাব আসে: আমি তাকে চাপিয়ে দেব এক খাড়া চড়াই। যাকে সব আরাম দেওয়া হয়েছিল, তার জন্য প্রতিশ্রুতি এমন এক ঢালের, যেখানে জিরোনোর জায়গা নেই। আয়াতটি একজন মানুষের কথা বলে, আর আল্লাহ তার সঙ্গে কী করবেন সেটুকু। অন্য কারও উপর রায় দেওয়ার অধিকার এটি কোনো পাঠককে দেয় না। বরং আমার নিজের জীবনের জন্য একটা প্রশ্ন রেখে যায়। আমাকে যে স্বাচ্ছন্দ্য দেওয়া হয়েছে, তা আমাকে কোন দিকে নিয়ে যাচ্ছে? আজ কোনো সত্য যখন আমার কাছে কঠিন কিছু চায়, আমি কি এখনই সেই ছোট চড়াইটা উঠি, নাকি মুখ ফিরিয়ে নিয়ে তাকেই আরাম বলে চালাই?",
+    "pointsEn": [
+      "Which of my comforts did I earn, and which were simply laid out before me?",
+      "When a reminder reaches me, do I take it in, or start looking for a reason to set it aside?",
+      "What small, steep thing is the truth asking of me this week that I keep putting off for something easier?",
+      "Has ease ever made me feel I was owed more, rather than that I owed thanks?",
+      "Do I read a warning like this one as addressed to me, or as a sentence to hand out to other people?"
+    ],
+    "pointsBn": [
+      "আমার আরামের কোনগুলো আমি নিজে অর্জন করেছি, আর কোনগুলো এমনিই আমার সামনে বিছিয়ে দেওয়া হয়েছে?",
+      "কোনো নসিহত আমার কাছে পৌঁছালে আমি কি তা গ্রহণ করি, নাকি সরিয়ে রাখার অজুহাত খুঁজতে শুরু করি?",
+      "এ সপ্তাহে সত্য আমার কাছে কোন ছোট অথচ কঠিন কাজটা চাইছে, যা সহজ কিছুর আশায় আমি বারবার পিছিয়ে দিচ্ছি?",
+      "স্বাচ্ছন্দ্য কি কখনো আমাকে ভাবিয়েছে যে আমার আরও পাওনা আছে, অথচ আসলে আমার উপর শুকরিয়া পাওনা ছিল?",
+      "এমন সতর্কবাণী কি আমি নিজের উদ্দেশে পড়ি, নাকি অন্যদের উপর রায় হিসেবে বিলিয়ে দিই?"
+    ],
+    "lessonEn": "Ease in this life is a trust, not a right. Stubborn refusal of Allah's signs is warned of a hard ascent, so accept the smaller climbs the truth asks of you now.",
+    "lessonBn": "দুনিয়ার স্বাচ্ছন্দ্য আমানত, পাওনা নয়। আল্লাহর নিদর্শনকে জেদ করে প্রত্যাখ্যান করলে কঠিন চড়াইয়ের হুঁশিয়ারি আছে। তাই সত্য আজ যে ছোট চড়াইগুলো চায়, এখনই সেগুলো মেনে নিন।"
   }
 };
 

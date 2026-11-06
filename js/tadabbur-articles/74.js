@@ -439,6 +439,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "74:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Sentence of Two Words",
+          "bn": "দুই শব্দের এক বাক্য"
+        },
+        "p": [
+          {
+            "en": "In Arabic the verse is two words: sa-urhiquhu sa'uda, I will load him with sa'ud. It comes straight after 74:16, where the man of this passage is told kalla, no, he will not be given more, because he was 'anid, obstinate, towards Our signs. The sa- fixed to the head of the verb points forward: I will. The pronoun hu, him, is the same man the passage has been describing since 74:11, leave Me with the one I created alone. The promise comes first; its reason follows in 74:18, he thought and he measured.",
+            "bn": "আরবিতে আয়াতটি মাত্র দুটি শব্দ: সাউরহিকুহু সাঊদা, আমি তাকে চাপিয়ে দেব সাঊদ। ঠিক আগের আয়াত ৭৪:১৬-তে এই অংশের মানুষটিকে বলা হয়েছে কাল্লা, না, তাকে আর বাড়িয়ে দেওয়া হবে না। কারণ সে ছিল আমার নিদর্শনের প্রতি আনীদ, জেদি বিরোধী। ক্রিয়ার শুরুতে জোড়া 'সা' সামনের দিকে ইশারা করে: আমি করব। 'হু', তাকে, সেই একই মানুষ, ৭৪:১১ থেকে যার কথা চলছে: আমাকে ছেড়ে দাও তার সঙ্গে, যাকে আমি একা সৃষ্টি করেছি। প্রতিশ্রুতি আগে এসেছে। তার কারণ আসে পরে, ৭৪:১৮ আয়াতে: সে ভাবল এবং মেপে ঠিক করল।"
+          },
+          {
+            "en": "The commentaries name him. Al-Muyassar closes its comment on 74:12 to 74:17 by saying the one meant is al-Walid ibn al-Mughira, who set himself against the truth. The English Ibn Kathir calls him al-Walid ibn al-Mughira al-Makhzumi, one of the chiefs of Quraysh, and Ma'arif al-Qur'an names him too. The reports of the occasion, of how he spoke of the Qur'an and then retreated under his people's pressure, are told at 74:11 and 74:23 and are not retold here. This verse concerns what was promised him.",
+            "bn": "তাফসীরগুলো তার নাম বলে। ৭৪:১২ থেকে ৭৪:১৭ পর্যন্ত আয়াতের ব্যাখ্যা মুয়াসসার শেষ করে এই কথায়: এখানে উদ্দেশ্য ওয়ালীদ ইবনুল মুগীরা, যে সত্যের বিরুদ্ধে দাঁড়িয়েছিল। ইংরেজি ইবন কাসীর তাকে বলেন ওয়ালীদ ইবনুল মুগীরা আল-মাখযূমী, কুরাইশের নেতাদের একজন। মাআরিফুল কুরআনও তার নাম উল্লেখ করে। কুরআন নিয়ে সে কী বলেছিল আর গোত্রের চাপে কীভাবে পিছিয়ে গিয়েছিল, শানে নুযূলের সেই বর্ণনাগুলো ৭৪:১১ ও ৭৪:২৩ আয়াতে বলা হয়েছে, এখানে আবার বলা হলো না। এ আয়াতের বিষয় তাকে দেওয়া প্রতিশ্রুতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pressed Into It",
+          "bn": "জোর করে চাপিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi glosses sa-urhiquhu as sa-ukallifuhu: I will charge him with it, lay it on him as a task. He adds that Ibn 'Abbas used to say sa-ulji'uhu, I will drive him to it, and he defines irhaq in the speech of the Arabs as driving a person to a thing, pressing him into it. At-Tabari, al-Baghawi and al-Muyassar all open with the same verb, sa-ukallifuhu. Al-Muyassar even sets the verse's own noun beside it: a hardship of torment and of irhaq, exhaustion, from which he has no rest.",
+            "bn": "কুরতুবী সাউরহিকুহু-র অর্থ করেন সাউকাল্লিফুহু: আমি এটা তার উপর চাপিয়ে দেব, দায় হিসেবে তার ঘাড়ে তুলে দেব। তিনি আরও বলেন, ইবন আব্বাস (রাঃ) বলতেন সাউলজিউহু, আমি তাকে সেদিকে যেতে বাধ্য করব। আরবদের ভাষায় ইরহাক মানে, কুরতুবীর সংজ্ঞায়, কাউকে জোর করে কোনো কিছুর দিকে ঠেলে দেওয়া। তাবারী, বাগাভী আর মুয়াসসার, তিনজনই একই ক্রিয়া দিয়ে শুরু করেন: সাউকাল্লিফুহু। মুয়াসসার আয়াতের নিজের শব্দটাও পাশে বসিয়ে দেয়: আযাবের এমন কষ্ট ও ইরহাক, মানে ক্লান্তি, যা থেকে তার কোনো বিশ্রাম নেই।"
+          },
+          {
+            "en": "Sa'ud is a word of going up, and the commentators' explanations keep returning to verbs of climbing: he is made to climb it, he goes up in it. Al-Qurtubi also notes that this meaning has already come in Surah al-Jinn. The verse there, 72:17, uses the related form sa'ada: whoever turns away from the remembrance of his Lord, He will thread him into a punishment sa'ada, a rising one. So the picture of a punishment that climbs, or must be climbed, appears in two places in the Qur'an, each time tied to a refusal of what was sent.",
+            "bn": "সাঊদ শব্দে আছে উপরে ওঠার ভাব। তাফসীরকারদের ব্যাখ্যাও ঘুরেফিরে ওঠার ক্রিয়াতেই ফেরে: তাকে তাতে চড়তে বাধ্য করা হবে, সে তাতে উঠতে থাকবে। কুরতুবী আরও জানান, এ অর্থ সূরা জিনে আগেই এসেছে। সেখানকার আয়াত ৭২:১৭ একই মূলের আরেক রূপ ব্যবহার করে, সাআদা: যে তার রবের স্মরণ থেকে মুখ ফিরিয়ে নেয়, তিনি তাকে প্রবেশ করাবেন এক ক্রমবর্ধমান আযাবে। অর্থাৎ যে আযাব উপরে ওঠে, কিংবা যাতে উঠতে হয়, তার ছবি কুরআনে দুই জায়গায় এসেছে। দুবারই তা জুড়ে আছে পাঠানো সত্যকে প্রত্যাখ্যানের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Toil Without Respite",
+          "bn": "বিরামহীন কষ্ট"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own explanation is that Allah says: I will charge him with a hardship of torment from which he has no rest. He then gives the early authorities. Mujahid, by two routes: mashaqqa min al-'adhab, a hardship of torment. Qatada, by one route: a torment from which there is no rest; by another, Mujahid's very words. Ibn Zayd: ta'ab min al-'adhab, a weariness of torment. Ibn Kathir reports Mujahid and Qatada in the same way and adds that Ibn Jarir, at-Tabari, chose this view.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা হলো, আল্লাহ বলছেন: আমি তার উপর আযাবের এমন কষ্ট চাপাব, যা থেকে তার কোনো বিশ্রাম নেই। এরপর তিনি পূর্বসূরিদের কথা আনেন। মুজাহিদ, দুটি সূত্রে: মাশাক্কাতুম মিনাল আযাব, আযাবের কষ্ট। কাতাদা, এক সূত্রে: এমন আযাব যাতে কোনো বিরাম নেই। আরেক সূত্রে তিনি মুজাহিদের হুবহু কথাটাই বলেন। ইবন যায়দ বলেন: তাআবুম মিনাল আযাব, আযাবের ক্লান্তি। ইবন কাসীরও মুজাহিদ ও কাতাদার কথা একইভাবে উদ্ধৃত করেন। সঙ্গে জানান, ইবন জারীর তাবারী এই মতটিই গ্রহণ করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same meaning from Ibn 'Abbas: I will charge him with a hardship of torment in which there is no rest, and says something similar is reported from al-Hasan and Qatada. Al-Baghawi makes it his opening gloss, and for al-Muyassar it is the whole explanation. On this reading sa'ud names a quality of the punishment rather than a place: hard, uphill, unrelieved. The steepness is the hardship itself, and the man who was given every comfort is promised a load with no level ground under it.",
+            "bn": "কুরতুবী একই অর্থ আনেন ইবন আব্বাস (রাঃ) থেকে: আমি তার উপর আযাবের এমন কষ্ট চাপাব, যাতে কোনো বিশ্রাম নেই। তিনি বলেন, হাসান ও কাতাদা থেকেও এমন কথা বর্ণিত। বাগাভী এ দিয়েই ব্যাখ্যা শুরু করেন, আর মুয়াসসারের পুরো ব্যাখ্যাই এটুকু। এই পাঠে সাঊদ কোনো জায়গার নাম নয়, আযাবের ধরন: কঠিন, চড়াই, বিরতিহীন। খাড়া ভাবটাই এখানে কষ্ট। যাকে সব আরাম দেওয়া হয়েছিল, তার জন্য প্রতিশ্রুতি এমন বোঝার, যার নিচে কোনো সমতল জমি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rock Inside the Fire",
+          "bn": "আগুনের ভেতরের পাথর"
+        },
+        "p": [
+          {
+            "en": "Others take sa'ud as the name of something in Hell. At-Tabari records this as a second view, introduced with qila, it is said: sa'ud is a mountain in the Fire which the people of the Fire are made to climb. Ibn Kathir reports through Qatada from Ibn 'Abbas that sa'ud is a huge rock in Jahannam over which the disbeliever is dragged on his face. As-Suddi, also in Ibn Kathir, says it is a smooth rock in Jahannam which he is made to climb.",
+            "bn": "অন্যরা সাঊদকে জাহান্নামের ভেতরের একটি নির্দিষ্ট জিনিসের নাম ধরেন। তাবারী এটাকে দ্বিতীয় মত হিসেবে আনেন, 'কীলা', বলা হয়, শব্দ দিয়ে: সাঊদ আগুনের ভেতর এক পাহাড়, যাতে জাহান্নামীদের চড়তে বাধ্য করা হয়। ইবন কাসীর কাতাদার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, সাঊদ জাহান্নামের এক বিশাল পাথর। কাফিরকে মুখের উপর ভর দিয়ে তার উপর দিয়ে টেনে নেওয়া হবে। ইবন কাসীরেই আছে সুদ্দীর কথা: এটা জাহান্নামের এক মসৃণ পাথর, যাতে তাকে চড়তে বাধ্য করা হবে।"
+          },
+          {
+            "en": "Al-Baghawi gives al-Kalbi's fuller picture: a smooth rock in the Fire which he is made to climb, not allowed to draw breath as he goes, pulled from in front with chains of iron and beaten from behind with rods of iron. He climbs it in forty years; when he reaches its top he is sent down to its foot, then made to climb again, and that is his lot forever. Al-Qurtubi carries a similar description through 'Atiyya from Abu Sa'id al-Khudri, given there as Abu Sa'id's own words.",
+            "bn": "বাগাভী কালবীর আরও বিস্তারিত ছবি তুলে ধরেন। আগুনের ভেতর এক মসৃণ পাথর, যাতে তাকে চড়তে বাধ্য করা হবে। চড়ার সময় শ্বাস নেওয়ার সুযোগ দেওয়া হবে না। সামনে থেকে লোহার শিকল দিয়ে টানা হবে, পেছন থেকে লোহার মুগুর দিয়ে পেটানো হবে। চল্লিশ বছরে সে চূড়ায় পৌঁছবে। চূড়ায় উঠলেই তাকে নিচে নামিয়ে দেওয়া হবে, তারপর আবার চড়তে বাধ্য করা হবে। চিরকাল এটাই তার দশা। কুরতুবীও আতিয়্যার সূত্রে আবু সাঈদ খুদরী (রাঃ) থেকে এমন একটি বর্ণনা আনেন, যা সেখানে আবু সাঈদের নিজের কথা হিসেবে এসেছে।"
+          },
+          {
+            "en": "So the readings differ, and the difference is kept here without a choice between them. At-Tabari, with Mujahid, Qatada and Ibn Zayd, reads a hardship of torment, and Ibn Kathir names this as at-Tabari's choice. Ibn 'Abbas in Qatada's report, as-Suddi and al-Kalbi read a rock to be climbed or dragged across. Ibn 'Abbas stands on both sides, since al-Qurtubi has him give the hardship reading. Al-Qurtubi adds one more view under qila: sa'ud is his breath rising in the throes of death, so he is punished from within his body as from without.",
+            "bn": "তাহলে পাঠ দুই রকম, আর এখানে দুটোকেই রাখা হলো, কোনোটি বেছে নেওয়া হলো না। তাবারী, মুজাহিদ, কাতাদা ও ইবন যায়দের সঙ্গে, অর্থ করেন আযাবের কষ্ট। ইবন কাসীর জানান, তাবারী এটাই গ্রহণ করেছেন। কাতাদার বর্ণনায় ইবন আব্বাস (রাঃ), সুদ্দী আর কালবী বোঝেন এমন এক পাথর, যাতে চড়তে হবে বা যার উপর দিয়ে টেনে নেওয়া হবে। ইবন আব্বাস (রাঃ) আছেন দুই দিকেই, কারণ কুরতুবী তাঁর থেকে কষ্টের অর্থটাও আনেন। কুরতুবী 'বলা হয়' দিয়ে আরও একটি মত যোগ করেন: সাঊদ হলো মৃত্যুযন্ত্রণার সময় তার শ্বাসের উপরে উঠে আসা। ফলে শরীরের বাইরে যেমন, ভেতর থেকেও তেমনি তাকে আযাব দেওয়া হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tirmidhi's Own Verdict",
+          "bn": "তিরমিযীর নিজের রায়"
+        },
+        "p": [
+          {
+            "en": "One report carries the mountain back to the Prophet ﷺ. At-Tirmidhi records it from Abu Sa'id al-Khudri, raised to the Prophet ﷺ: it describes as-sa'ud as a mountain of fire that the disbeliever climbs for seventy autumns and then falls from in the same way. Because of the grading that follows, its wording is not quoted here as the Prophet's ﷺ speech. At-Tirmidhi grades it himself. This hadith is gharib, he says; we know it as the Prophet's ﷺ words only through Ibn Lahi'a, and something of it is reported from 'Atiyya from Abu Sa'id as Abu Sa'id's own saying.",
+            "bn": "একটি বর্ণনা পাহাড়ের কথাটিকে নবী ﷺ পর্যন্ত পৌঁছায়। তিরমিযী আবু সাঈদ খুদরী (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন। তাতে সাঊদকে আগুনের এক পাহাড় বলা হয়েছে, যাতে কাফির সত্তর বছর ধরে চড়বে, তারপর একইভাবে তা থেকে পড়বে। পরে আসা মানের কারণে এখানে এর শব্দকে নবী ﷺ-এর বাণী হিসেবে উদ্ধৃত করা হলো না। তিরমিযী নিজেই এর মান জানিয়ে দেন। তাঁর কথায়, এ হাদীস গারীব। নবী ﷺ-এর বাণী হিসেবে আমরা একে চিনি কেবল ইবন লাহীআর সূত্রে। আর আতিয়্যার সূত্রে আবু সাঈদ থেকে এর কিছু অংশ আবু সাঈদের নিজের কথা হিসেবে বর্ণিত হয়েছে।"
+          },
+          {
+            "en": "At-Tirmidhi does not call it sound; his word is gharib, and he ties the Prophetic form to one narrator. Ibn Kathir quotes that remark and answers kadha qal, so he said, because at-Tabari has the same report through a different narrator, 'Amr ibn al-Harith, from Darraj. Of the report Ibn Kathir then says that it contains gharaba wa nakara, strangeness and something objectionable. Al-Qurtubi relays at-Tirmidhi's gharib, and al-Baghawi cites the report as one he has narrated, without a grading of his own.",
+            "bn": "তিরমিযী একে সহীহ বলেননি। তাঁর শব্দ গারীব, আর নবীর বাণী হিসেবে বর্ণনাটিকে তিনি একজন বর্ণনাকারীর সঙ্গে বেঁধে দিয়েছেন। ইবন কাসীর তাঁর এ মন্তব্য উদ্ধৃত করে বলেন, কাযা কাল, তিনি এমনই বলেছেন। কারণ তাবারী একই বর্ণনা আনেন অন্য এক বর্ণনাকারী, আমর ইবনুল হারিসের মাধ্যমে, দাররাজ থেকে। এরপর বর্ণনাটি সম্পর্কে ইবন কাসীর বলেন, এতে আছে গারাবা ও নাকারা, অদ্ভুততা ও আপত্তিকর কিছু। কুরতুবী তিরমিযীর গারীব মন্তব্যটি পৌঁছে দেন। আর বাগাভী বর্ণনাটি নিজের বর্ণিত বলে উল্লেখ করেন, নিজস্ব কোনো মান দেন না।"
+          },
+          {
+            "en": "A second report, through 'Atiyya from Abu Sa'id, is carried by at-Tabari, by al-Baghawi and by Ibn Kathir from Ibn Abi Hatim as the Prophet's ﷺ words, with more detail of the climb. At-Tirmidhi's note mentions that something of it comes through 'Atiyya as Abu Sa'id's own words, and its wording is not given here. So no tafsir consulted for this verse attaches a sound hadith to it. The two readings above rest on the verse's words and the early explanations, and neither depends on these reports.",
+            "bn": "আতিয়্যার সূত্রে আবু সাঈদ (রাঃ) থেকে দ্বিতীয় একটি বর্ণনা নবী ﷺ-এর বাণী হিসেবে এনেছেন তাবারী, বাগাভী, আর ইবন আবী হাতিমের বরাতে ইবন কাসীর। তাতে চড়ার আরও খুঁটিনাটি আছে। তিরমিযীর মন্তব্যে আছে, আতিয়্যার সূত্রে এর কিছু অংশ আবু সাঈদের নিজের কথা হিসেবে এসেছে। তাই এর শব্দগুলো এখানে দেওয়া হলো না। সোজা কথায়, এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয় না। উপরের দুই পাঠ দাঁড়িয়ে আছে আয়াতের শব্দ আর পূর্বসূরিদের ব্যাখ্যার উপর। কোনোটিই এই বর্ণনাগুলোর উপর নির্ভরশীল নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Smooth Ground, Then a Slope",
+          "bn": "সমতল পথের পর খাড়া ঢাল"
+        },
+        "p": [
+          {
+            "en": "Read with the verses before it, the word answers what the man had been given. In 74:14 Allah says wa mahhadtu lahu tamhida, and I smoothed the way for him, which al-Muyassar explains as making the means of living easy for him. In 74:15 he still hoped for more. The reply in 74:16 is no, and in 74:17 what is promised is not more of the same but sa'ud, a climb. The contrast between levelled ground and a slope is drawn here from the order of the verses; the commentators consulted do not spell it out.",
+            "bn": "আগের আয়াতগুলোর সঙ্গে মিলিয়ে পড়লে দেখা যায়, শব্দটা তাকে দেওয়া নিয়ামতেরই জবাব। ৭৪:১৪ আয়াতে আল্লাহ বলেন, ওয়া মাহহাদতু লাহু তামহীদা, আমি তার পথ মসৃণ করে দিয়েছি। মুয়াসসারের ব্যাখ্যায়, তার জীবিকার পথ সহজ করে দিয়েছি। ৭৪:১৫ আয়াতে তবু সে আরও চাইত। ৭৪:১৬ আয়াতে জবাব: না। আর ৭৪:১৭ আয়াতে যা প্রতিশ্রুত, তা আগের মতো আরও নিয়ামত নয়, বরং সাঊদ, এক চড়াই। সমতল জমি আর খাড়া ঢালের এই বৈপরীত্য এখানে আয়াতের ক্রম থেকে টানা হলো। যে তাফসীরগুলো দেখা হয়েছে, সেগুলো তা আলাদা করে বলে না।"
+          },
+          {
+            "en": "Ibn Kathir's English abridgment draws the link forward instead. He paraphrases Allah's meaning: We only caused him to face the grievous torment of sa'ud, Our bringing him close to the harsh torment, because he was far away from faith; and that was because he thought and plotted, in 74:18. As-Sa'di has no separate comment on this verse in the text consulted, but on 74:16 he says the man knew the signs and then denied them, and was not content to turn away from them: he set about fighting them and trying to undo them.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষেপ সম্পর্কটা টানে সামনের দিকে। তিনি আল্লাহর কথার মর্ম এভাবে বলেন: আমি তাকে সাঊদের কঠিন আযাবের মুখোমুখি করেছি, কঠিন আযাবের কাছে নিয়ে গেছি, কারণ সে ঈমান থেকে বহু দূরে ছিল। আর তা এজন্য যে, ৭৪:১৮ আয়াত অনুযায়ী, সে ভাবল ও ফন্দি আঁটল। দেখা পাঠে সা'দী এ আয়াতের আলাদা ব্যাখ্যা দেননি। তবে ৭৪:১৬ আয়াতে তিনি বলেন, লোকটি নিদর্শনগুলো চিনেছিল, তারপর অস্বীকার করেছিল। শুধু মুখ ফিরিয়ে নিয়েই সে থামেনি, সেগুলোর বিরুদ্ধে লড়তে আর সেগুলো বাতিল করতে উঠেপড়ে লেগেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken of One Man",
+          "bn": "একজন মানুষকে নিয়েই কথা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse speaks of one man of the past, the man the commentators name as al-Walid ibn al-Mughira, and of what Allah promised him. It describes what the text describes and licenses nothing against any living person or community. No reader is given the right to point at someone today, a critic, a doubter or a wealthy opponent, and announce that sa'ud awaits him. The promise is Allah's, spoken in the first person, sa-urhiquhu, I will; the verdict is His, and it was not handed on.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি অতীতের একজন মানুষের কথা বলে, তাফসীরকারেরা যার নাম বলেন ওয়ালীদ ইবনুল মুগীরা, আর আল্লাহ তাকে কী প্রতিশ্রুতি দিয়েছেন সেটুকু। আয়াত শুধু ততটুকুই বলে যতটুকু তার শব্দে আছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এটি দেয় না। কোনো সমালোচক, সন্দেহকারী বা ধনী বিরোধীর দিকে আঙুল তুলে 'সাঊদ তোমার জন্য অপেক্ষা করছে' বলার অধিকার কোনো পাঠকের নেই। প্রতিশ্রুতিটা আল্লাহর, তাঁর নিজের মুখে: সাউরহিকুহু, আমি করব। রায়ও তাঁর, আর তা কারও হাতে তুলে দেওয়া হয়নি।"
+          },
+          {
+            "en": "Al-Muyassar widens the passage only to a kind of conduct: this is the recompense of everyone who sets himself against the truth and casts it aside. That sentence is a warning addressed to a deed, and its first reader is the one reading it. Its right use is a question to oneself: do I resist what I know to be true when accepting it would cost me something? It is not a label to fasten on another person, whose heart and whose end no one knows but Allah.",
+            "bn": "মুয়াসসার আয়াতগুলোকে বিস্তৃত করে কেবল একটা আচরণের দিকে: সত্যের বিরুদ্ধে যে দাঁড়ায় আর সত্যকে ছুড়ে ফেলে, এটাই তার প্রতিদান। এ বাক্য একটা কাজের বিরুদ্ধে সতর্কবাণী। এর প্রথম পাঠক যিনি পড়ছেন তিনি নিজে। এর সঠিক ব্যবহার নিজেকে প্রশ্ন করা: সত্য মেনে নিলে কিছু হারাতে হবে বলে আমি কি জেনেশুনে সত্যকে ঠেকিয়ে রাখি? অন্য কারও গায়ে লাগিয়ে দেওয়ার তকমা এটা নয়। কারও অন্তর আর শেষ পরিণতি আল্লাহ ছাড়া কেউ জানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Smaller Climbs Taken Now",
+          "bn": "এখনই নেওয়া ছোট চড়াই"
+        },
+        "p": [
+          {
+            "en": "What the verse leaves the reader is more than fear. The man in this passage was given ease, was shown the signs, and refused them, and the slope he was promised lies beyond this life. The reader still lives where choices are made. In Surah al-Jinn the rising punishment is tied to its cause, turning away from the remembrance of his Lord, and the same verse names the way out of the warning by naming what was turned from: the remembrance itself, still open to anyone who turns back to it.",
+            "bn": "আয়াতটি পাঠকের জন্য শুধু ভয় রেখে যায় না। এই অংশের মানুষটিকে স্বাচ্ছন্দ্য দেওয়া হয়েছিল, নিদর্শন দেখানো হয়েছিল, আর সে তা প্রত্যাখ্যান করেছিল। তার জন্য প্রতিশ্রুত ঢাল এই জীবনের ওপারে। পাঠক কিন্তু এখনো সেখানে বাস করেন, যেখানে সিদ্ধান্ত নেওয়া যায়। সূরা জিনে ক্রমবর্ধমান আযাবের সঙ্গে তার কারণও বলা আছে: রবের স্মরণ থেকে মুখ ফিরিয়ে নেওয়া। যা থেকে মুখ ফেরানো হয়েছিল, তার নাম নিয়েই আয়াতটি বেরোনোর পথও দেখিয়ে দেয়। সেই স্মরণ এখনো খোলা, যে-ই তার দিকে ফিরে আসে তার জন্য।"
+          },
+          {
+            "en": "Every truth that asks something of a person is a small climb: admitting a fault, keeping a prayer on time, giving up a gain that came the wrong way, speaking fairly of someone one dislikes. Each feels steep at the moment and easy to put off. The verse shows where one man's long refusal ended. Taking the smaller climbs now, while the ground is still under one's feet and the choice is still one's own, is the plainest answer a believer can give to these two words.",
+            "bn": "যে সত্যই মানুষের কাছে কিছু চায়, তা এক একটা ছোট চড়াই। নিজের ভুল স্বীকার করা, সময়মতো নামায পড়া, অন্যায় পথে আসা লাভ ছেড়ে দেওয়া, অপছন্দের মানুষ সম্পর্কেও ইনসাফের কথা বলা। মুহূর্তে প্রতিটিই খাড়া মনে হয়, পিছিয়ে দেওয়াও সহজ লাগে। আয়াতটি দেখায়, একজন মানুষের দীর্ঘ প্রত্যাখ্যান কোথায় গিয়ে থামল। পায়ের নিচে মাটি থাকতে থাকতে, সিদ্ধান্ত নিজের হাতে থাকতে থাকতে, ছোট চড়াইগুলো এখনই উঠে ফেলা, এই দুই শব্দের সবচেয়ে সরল জবাব এটাই, যা একজন মুমিন দিতে পারেন।"
+          },
+          {
+            "en": "And the ease itself is part of the lesson. Wealth stretched wide, sons at hand and a smoothed path were given to this man before any of his choices, as the passage lists them in 74:12 to 74:14. They were not proof that more was owed, and 74:16 says so. Whatever has been made smooth for a reader today is a trust of the same kind, and the question the verse leaves behind is whether that smooth ground is being used to climb towards the truth or to walk away from it.",
+            "bn": "আর স্বাচ্ছন্দ্যটাও এই শিক্ষার অংশ। ৭৪:১২ থেকে ৭৪:১৪ আয়াতে যেমন তালিকা দেওয়া আছে, বিপুল সম্পদ, কাছে থাকা ছেলেরা আর মসৃণ পথ, এসব লোকটি পেয়েছিল তার কোনো সিদ্ধান্তের আগেই। এগুলো প্রমাণ ছিল না যে তার আরও পাওনা আছে, ৭৪:১৬ আয়াত সে কথাই বলে দেয়। আজ পাঠকের জন্য যা কিছু সহজ করে দেওয়া হয়েছে, তাও একই ধরনের আমানত। আয়াত যে প্রশ্নটা রেখে যায় তা হলো: সেই সমতল জমি কি সত্যের দিকে চড়ার কাজে লাগছে, নাকি সত্য থেকে দূরে হেঁটে যাওয়ার কাজে?"
+          }
+        ]
+      }
+    ]
+  },
   "74:23": {
     "sections": [
       {
