@@ -24989,6 +24989,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let the Last Day you believe in reach your daily dealings: worship Allah, live in expectation of His reckoning, and stop every harm you spread, however small it seems.",
     "lessonBn": "যে শেষ দিনে বিশ্বাস করেন, তা যেন আপনার রোজকার লেনদেনে পৌঁছায়: আল্লাহর ইবাদত করুন, তাঁর হিসাবের অপেক্ষায় জীবন কাটান, আর যত ছোটই মনে হোক, যে ক্ষতি ছড়াচ্ছেন তা থামান।"
+  },
+  "30:14": {
+    "reflectionEn": "The Hour is established, and the verse says one thing about that Day: they will be separated. It does not yet say into what. The two verses after it explain: those who believed and did good will be in a garden, delighted, and those who denied will be brought into the punishment. People who shared streets, tables and homes walk apart, and the parting is final. The verse before showed false partners failing those who worshipped them, so the ties that seemed strongest give way first. Nothing here tells me where anyone else will stand. It asks where I am walking now, since what I do today lays the road of that Day. Who walks beside me, and toward what?",
+    "reflectionBn": "কিয়ামত কায়েম হবে, আর সেদিনের কথা বলতে গিয়ে আয়াতটি একটি কথাই বলে: তারা আলাদা হয়ে যাবে। কোন দিকে, তা এখনো বলে না। পরের দুটি আয়াত খুলে বলে। যারা ঈমান এনেছে আর নেক আমল করেছে, তারা থাকবে বাগানে, আনন্দে। আর যারা অস্বীকার করেছে, তাদের হাজির করা হবে আযাবে। যারা একই গলিতে থেকেছে, এক দস্তরখানে খেয়েছে, এক ঘরে বাস করেছে, তারাও আলাদা পথে হাঁটবে, আর সে বিচ্ছেদ আর জোড়া লাগবে না। আগের আয়াত দেখিয়েছে, যাদের শরীক বানানো হয়েছিল তারা তাদের পূজারিদের কোনো কাজে আসে না। যে বাঁধনকে সবচেয়ে মজবুত মনে হত, সেটাই আগে ছিঁড়ে যায়। অন্য কে কোথায় দাঁড়াবে, এ আয়াত আমাকে তা বলে না। আমাকে জিজ্ঞেস করে, আমি এখন কোন দিকে হাঁটছি। কারণ সেদিনের পথ তৈরি হচ্ছে আজকের আমল দিয়ে। আমার পাশে কে হাঁটছে, আর আমরা যাচ্ছি কোন দিকে?",
+    "pointsEn": [
+      "Which of my closest ties would still hold on a Day when every other tie gives way, and what is each of them built on?",
+      "What am I doing this week that moves me toward the garden of the next verse, and what keeps pulling me the other way?",
+      "When I picture the Day of separation, do I quietly place other people in the losing party? What would it mean to leave that sorting to Allah alone?",
+      "Is there someone I could help toward good now, so that the two of us are not parted when the Hour comes?",
+      "What have I come to lean on, as the deniers leaned on their partners, that will have nothing to offer me on that Day?"
+    ],
+    "pointsBn": [
+      "যেদিন সব বাঁধন ছিঁড়ে যাবে, সেদিন আমার সবচেয়ে কাছের সম্পর্কগুলোর কোনটা টিকে থাকবে? প্রতিটা কিসের উপর দাঁড়িয়ে আছে?",
+      "এ সপ্তাহে আমি এমন কী করছি যা আমাকে পরের আয়াতের সেই বাগানের দিকে এগিয়ে নেয়? আর কোন জিনিস আমাকে বারবার উল্টো দিকে টানে?",
+      "বিচ্ছেদের সেই দিনের কথা ভাবলে আমি কি মনে মনে অন্যদের হেরে যাওয়া দলে বসিয়ে দিই? সে বাছাই পুরোপুরি আল্লাহর হাতে ছেড়ে দেওয়ার মানে কী?",
+      "এমন কেউ কি আছে, যাকে আমি এখনই ভালোর দিকে সাহায্য করতে পারি, যাতে কিয়ামতের দিন আমরা দুজন আলাদা না হয়ে যাই?",
+      "অস্বীকারকারীরা যেমন তাদের শরীকদের উপর ভর করেছিল, আমি তেমন কিসের উপর ভর করে আছি, যা সেদিন আমাকে কিছুই দিতে পারবে না?"
+    ],
+    "lessonEn": "The Hour brings a parting with no reunion; walk now toward the company of those who believe and do good, and leave the sorting of others to Allah.",
+    "lessonBn": "কিয়ামত এমন বিচ্ছেদ আনবে যার পর আর মিলন নেই। এখনই ঈমানদার ও নেককারদের সঙ্গের দিকে হাঁটুন, আর অন্যদের বাছাইয়ের ভার আল্লাহর উপর ছেড়ে দিন।"
   }
 };
 

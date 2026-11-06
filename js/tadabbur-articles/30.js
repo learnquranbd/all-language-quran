@@ -295,6 +295,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:14": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Day Announced Twice",
+          "bn": "দুবার ঘোষিত এক দিন"
+        },
+        "p": [
+          {
+            "en": "The verse is five Arabic words: wa-yawma taqumu al-sa'atu yawma'idhin yatafarraqun, and the Day the Hour is established, that Day they will be separated. Its first three words have just been heard. Verse 30:12 opened with the same words and gave the criminals' despair, and 30:13 added that their partners would not intercede for them and that they would disown those partners. Surah ar-Rum uses the opening a third time at 30:55. Here the Day is announced, then named once more with yawma'idhin, that Day, before the verb arrives.",
+            "bn": "আয়াতটি আরবিতে মাত্র পাঁচ শব্দের: ওয়া ইয়াওমা তাকূমুস সাআতু ইয়াওমাইযিন ইয়াতাফাররাকূন। অর্থ: যেদিন কিয়ামত কায়েম হবে, সেদিন তারা আলাদা হয়ে যাবে। প্রথম তিনটি শব্দ পাঠক একটু আগেই শুনেছেন। ৩০:১২ আয়াত ঠিক এ শব্দগুলো দিয়েই শুরু হয়ে অপরাধীদের হতাশার কথা বলেছে। ৩০:১৩ আয়াত যোগ করেছে, তাদের শরীকেরা তাদের জন্য সুপারিশ করবে না, আর তারা নিজেরাই সেই শরীকদের অস্বীকার করবে। সূরা আর-রূম এ শুরুটা তৃতীয়বার ব্যবহার করে ৩০:৫৫ আয়াতে। এখানে দিনটির ঘোষণা আসে, তারপর ক্রিয়াপদের আগেই ইয়াওমাইযিন, অর্থাৎ সেদিন, বলে দিনটিকে আরেকবার নাম ধরে ডাকা হয়।"
+          },
+          {
+            "en": "Ibn Kathir's abridged English commentary sets out the two verses that come first. On the despair of 30:12, Ibn 'Abbas (RA) said the sinners will be filled with despair; Mujahid said they will be exposed, and in another report, that they will grieve. On 30:13 he explains that the gods they worshipped besides Allah will not intercede for them, and he speaks of rejection and betrayal arriving at the very moment the worshippers most need them. So the passage first shows one bond breaking, between worshipper and worshipped. Then the Day is announced again, and the verb now speaks of people parting.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর আগের দুটি আয়াতের ব্যাখ্যা দেয়। ৩০:১২ আয়াতের হতাশা প্রসঙ্গে ইবন আব্বাস (রাঃ) বলেছেন, গুনাহগারেরা নিরাশায় ডুবে যাবে। মুজাহিদ বলেছেন, তাদের মুখোশ খুলে যাবে। আরেক বর্ণনায় তিনি বলেছেন, তারা দুঃখে ভেঙে পড়বে। ৩০:১৩ আয়াত প্রসঙ্গে ইবন কাসীর ব্যাখ্যা করেন, আল্লাহকে বাদ দিয়ে তারা যাদের ইবাদত করত, সেই উপাস্যরা তাদের জন্য সুপারিশ করবে না। উপাসকদের যখন ওদের সবচেয়ে বেশি দরকার, ঠিক তখনই আসবে অস্বীকার আর বিশ্বাসঘাতকতা। তাই এ অংশে প্রথমে একটা বাঁধন ছিঁড়তে দেখা যায়, উপাসক আর উপাস্যের বাঁধন। তারপর দিনটির ঘোষণা আবার আসে, আর এবার ক্রিয়াপদ বলে মানুষের আলাদা হয়ে যাওয়ার কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Parted, and Told Apart",
+          "bn": "আলাদা হওয়া, চিহ্নিত হওয়া"
+        },
+        "p": [
+          {
+            "en": "The verb has no named subject. The Arabic carries only the plural they, and the commentators supply it in almost the same words. Al-Qurtubi says it means the believers from the disbelievers. Al-Baghawi writes that the people of the Garden are distinguished from the people of the Fire. The Muyassar, which treats 30:14 and 30:15 together, says the people of faith and the people of disbelief part, and that the believers in Allah and His Messenger who do righteous deeds are in the Garden, honoured, gladdened and given bliss.",
+            "bn": "ক্রিয়াপদের কর্তার নাম আয়াতে নেই। আরবিতে আছে শুধু বহুবচনের 'তারা'। তাফসীরকারেরা প্রায় একই ভাষায় সেই শূন্যস্থান পূরণ করেন। কুরতুবী বলেন, এর অর্থ মুমিনেরা কাফিরদের থেকে আলাদা হবে। বাগাভী লেখেন, জান্নাতবাসীরা জাহান্নামবাসীদের থেকে চিহ্নিত হয়ে আলাদা হবে। মুয়াসসার ৩০:১৪ ও ৩০:১৫ আয়াত একসঙ্গে ব্যাখ্যা করে। সেখানে বলা হয়েছে, ঈমানদার আর কুফরের লোকেরা ভাগ হয়ে যাবে। আল্লাহ ও তাঁর রসূলের প্রতি ঈমান এনে যারা নেক আমল করেছে, তারা থাকবে জান্নাতে, সম্মানে, আনন্দে আর নিয়ামতের মধ্যে।"
+          },
+          {
+            "en": "The verb yatafarraqun comes from the root f-r-q, the root of parting. Look at the words the commentators chose to gloss it. As-Sa'di and the Muyassar use yaftariqu, they go apart. Al-Baghawi uses yatamayyazu, they are distinguished, the word for sorting one thing out from another. At-Tabari, as the next section shows, ends with Allah distinguishing the wicked from the good. Taken together, the glosses show two sides of one event: people move away from each other, and in moving they are told apart.",
+            "bn": "ইয়াতাফাররাকূন ক্রিয়াটি এসেছে ফা-রা-কাফ ধাতু থেকে, যার মূল অর্থ আলাদা হওয়া। লক্ষ করুন, এর ব্যাখ্যায় তাফসীরকারেরা কোন শব্দ বেছে নিয়েছেন। সা'দী ও মুয়াসসার লিখেছেন ইয়াফতারিকু, অর্থাৎ তারা আলাদা হয়ে যায়। বাগাভী লিখেছেন ইয়াতামাইয়াযু, অর্থাৎ তারা চিহ্নিত হয়। এ শব্দ দিয়ে এক জিনিসকে আরেক জিনিস থেকে বেছে আলাদা করা বোঝায়। তাবারী, পরের অংশে যেমন দেখা যাবে, শেষ করেন আল্লাহর অপবিত্রকে পবিত্র থেকে পৃথক করার কথায়। সব মিলিয়ে একই ঘটনার দুটি দিক ধরা পড়ে। মানুষ একে অন্যের থেকে দূরে সরে যায়, আর সরতে সরতেই তাদের পরিচয় স্পষ্ট হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gathered First, Then Divided",
+          "bn": "আগে সমাবেশ, তারপর ভাগ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins with the Hour itself and describes it as the Hour on which creation is gathered to Allah. Only then does he explain the verb: on that Day the people of faith in Allah and the people of disbelief in Him separate. The order matters. Everyone is first brought together in one place, before one Lord, and the parting comes out of that gathering. The verse just before the passage, 30:11, had ended with then to Him you will be returned, so the return is complete before anyone is sent in either direction.",
+            "bn": "তাবারী শুরু করেন কিয়ামত দিয়েই। তাঁর ভাষায়, এ সেই সময়, যখন সমস্ত সৃষ্টিকে আল্লাহর কাছে একত্র করা হবে। এরপরই তিনি ক্রিয়াপদটি খোলেন: সেদিন আল্লাহর প্রতি ঈমানদারেরা আর তাঁকে অস্বীকারকারীরা আলাদা হয়ে যাবে। এ ক্রমটা গুরুত্বপূর্ণ। আগে সবাইকে একই জায়গায়, একই রবের সামনে জড়ো করা হয়, আর সেই সমাবেশ থেকেই বিচ্ছেদ শুরু হয়। এ অংশের ঠিক আগের আয়াত ৩০:১১ শেষ হয়েছে এই কথায়: অতঃপর তাঁর দিকেই তোমাদের ফিরিয়ে নেওয়া হবে। অর্থাৎ কাউকে কোনো দিকে পাঠানোর আগেই সবার ফিরে আসা পূর্ণ হয়ে যায়।"
+          },
+          {
+            "en": "Then at-Tabari draws the two roads. The people of faith are taken to the right, to the Garden; the people of disbelief are taken to the left, to the Fire. His verb is passive, yu'khadhu bihim, they are taken, and on that Day nobody chooses a direction any longer. He closes the sentence with fa-hunalika yamizu Allahu al-khabitha min al-tayyib: and there Allah distinguishes the wicked from the good. The phrase stays close to the Qur'an's own wording at 8:37, li-yamiza Allahu al-khabitha min al-tayyib.",
+            "bn": "তারপর তাবারী দুটি পথের ছবি আঁকেন। ঈমানদারদের নিয়ে যাওয়া হবে ডান দিকে, জান্নাতের পথে। আর কুফরের লোকদের নিয়ে যাওয়া হবে বাম দিকে, জাহান্নামের পথে। তাঁর ক্রিয়াপদটি কর্মবাচ্যে: ইউ'খাযু বিহিম, তাদের নিয়ে যাওয়া হবে। সেদিন আর কেউ নিজের দিক বেছে নেয় না। বাক্যটি তিনি শেষ করেন এভাবে: ফাহুনালিকা ইয়ামীযুল্লাহুল খাবীসা মিনাত তাইয়িব, আর সেখানেই আল্লাহ অপবিত্রকে পবিত্র থেকে পৃথক করেন। কথাটি কুরআনের নিজের ভাষার খুব কাছাকাছি। ৮:৩৭ আয়াতে আছে: লিয়ামীযাল্লাহুল খাবীসা মিনাত তাইয়িব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Parting Sworn to Last",
+          "bn": "শপথ করে বলা চিরবিচ্ছেদ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then brings an early explanation with its chain: Bishr, from Yazid, from Sa'id, from Qatada, who said of this verse: firqatun wallahi la ijtima'a ba'daha, a separation, by Allah, after which there is no coming together. Qatada puts an oath into his explanation, and the oath carries the weight he felt in the word: this is not a parting like the ones people know. He does not say who goes where. He says only that whatever is divided on that Day will never be joined again.",
+            "bn": "এরপর তাবারী সনদসহ একটি প্রাচীন ব্যাখ্যা আনেন। বিশর বর্ণনা করেছেন ইয়াযীদ থেকে, তিনি সাঈদ থেকে, তিনি কাতাদা থেকে। কাতাদা এ আয়াত সম্পর্কে বলেছেন: ফিরকাতুন ওয়াল্লাহি লা ইজতিমাআ বা'দাহা। আল্লাহর কসম, এমন বিচ্ছেদ, যার পরে আর মিলন নেই। আয়াতের ব্যাখ্যা দিতে গিয়ে কাতাদা কসম খাচ্ছেন। এ কসমেই বোঝা যায়, শব্দটির ভার তিনি কতটা অনুভব করেছিলেন: মানুষ যেসব বিচ্ছেদ চেনে, এটা তেমন নয়। কে কোথায় যাবে, তা তিনি বলেন না। শুধু বলেন, সেদিন যা ভাগ হবে, তা আর কখনো জোড়া লাগবে না।"
+          },
+          {
+            "en": "Ibn Kathir quotes Qatada in the same words, it is, by Allah, the separation after which there is no reunion, and then explains it with a picture. When this one is raised to 'Illiyyin and that one is lowered to asfal al-safilin, the lowest of the low, fa-dhaka akhiru al-'ahdi baynahuma: that is the last of what was between the two. His words are singular, this one and that one, and so they describe two particular people who had something between them. The English abridgement renders the clause: that is the last they will ever see of one another.",
+            "bn": "ইবন কাসীরও কাতাদার কথা একই ভাষায় উদ্ধৃত করেন: আল্লাহর কসম, এ সেই বিচ্ছেদ, যার পরে আর মিলন নেই। তারপর একটি ছবি দিয়ে কথাটা বুঝিয়ে দেন। একজনকে যখন ইল্লিয়্যীনে তুলে নেওয়া হবে, আর আরেকজনকে নামিয়ে দেওয়া হবে আসফালা সাফিলীনে, সবচেয়ে নিচের স্তরে, তখন ফাযাকা আখিরুল আহদি বাইনাহুমা। অর্থাৎ দুজনের মধ্যে যা কিছু ছিল, সেখানেই তার শেষ। তাঁর শব্দগুলো একবচনের: এই একজন, ওই একজন। তাই ছবিটা এমন দুজন মানুষের, যাদের মধ্যে একসময় কোনো সম্পর্ক ছিল। সংক্ষিপ্ত ইংরেজি সংস্করণ বাক্যটির অনুবাদ করেছে এভাবে: এরপর তারা আর কখনো একে অন্যকে দেখবে না।"
+          },
+          {
+            "en": "Al-Baghawi adds a third voice. After his own gloss he reports Muqatil: they separate after the reckoning, to the Garden and to the Fire, fa-la yajtami'una abadan, and they will never come together again. Muqatil adds a moment that the others leave open: the parting follows the account. The three reports agree on the one thing the verse leaves for its reader to feel. None of the commentaries cited here softens the finality; none suggests that the two parties meet again.",
+            "bn": "বাগাভী তৃতীয় একটি কণ্ঠ যোগ করেন। নিজের ব্যাখ্যার পর তিনি মুকাতিলের কথা আনেন: হিসাবের পর তারা আলাদা হয়ে যাবে, কেউ জান্নাতের দিকে, কেউ জাহান্নামের দিকে। ফালা ইয়াজতামিঊনা আবাদা, আর কখনো তারা একত্র হবে না। অন্যরা যে সময়টা খোলা রেখেছেন, মুকাতিল তা নির্দিষ্ট করে দেন: বিচ্ছেদ আসবে হিসাবের পরে। আয়াত যে কথাটা পাঠকের অনুভবের জন্য রেখে দেয়, তিনটি বর্ণনাই তাতে একমত। এখানে উদ্ধৃত তাফসীরগুলোর কোনোটিই এ চূড়ান্ততাকে নরম করে না। কোনোটিই বলে না যে দুই দল আবার কখনো মিলবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As Their Deeds Went Apart",
+          "bn": "আমল যেমন আলাদা পথে গিয়েছিল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the verse a single sentence: on that Day the people of good and the people of evil part, kama iftaraqat a'maluhum fi al-dunya, just as their deeds parted in the world. The sentence is short, but it moves the separation backwards in time. What happens on the Day of the Hour is not a new division brought in from outside. It is the end, made visible, of a division that had already happened in what people did, day after day, while they still lived side by side.",
+            "bn": "সা'দী আয়াতটির ব্যাখ্যা দেন একটি মাত্র বাক্যে: সেদিন ভালো আর মন্দের লোকেরা আলাদা হয়ে যাবে, কামাফতারাকাত আ'মালুহুম ফিদ দুনিয়া, যেমন দুনিয়াতে তাদের আমল আলাদা হয়ে গিয়েছিল। বাক্যটি ছোট, কিন্তু বিচ্ছেদটাকে তা সময়ের পেছন দিকে টেনে নেয়। কিয়ামতের দিন যা ঘটে, তা বাইরে থেকে চাপানো নতুন কোনো ভাগ নয়। এ সেই ভাগেরই শেষ পরিণতি, যা চোখের সামনে এসে পড়ে। ভাগটা আগেই হয়ে গিয়েছিল মানুষের রোজকার কাজে, যখন তারা পাশাপাশি বাস করছিল।"
+          },
+          {
+            "en": "In the world the two groups are not separated. They share streets, markets, families and sometimes one roof, and from outside they can look alike. Yet each person's deeds were already taking a road. As-Sa'di's line explains why the parting of the Hour can be final: it does not cut a living bond at random; it follows a line the deeds had drawn. The verse that comes next names the deeds openly. The garden of 30:15 belongs to those who believed and did righteous deeds, and the verse keeps the two together.",
+            "bn": "দুনিয়াতে এ দুই দল আলাদা থাকে না। একই গলি, একই বাজার, একই পরিবার, কখনো একই ছাদের নিচে তাদের বাস। বাইরে থেকে দেখলে তাদের একরকমই মনে হতে পারে। অথচ প্রত্যেকের আমল আগে থেকেই একটা পথ ধরে এগোচ্ছিল। কিয়ামতের বিচ্ছেদ কেন চূড়ান্ত হতে পারে, সা'দীর বাক্য তার ব্যাখ্যা দেয়। এ বিচ্ছেদ এলোমেলোভাবে কোনো জীবন্ত বাঁধন কেটে দেয় না। আমল যে রেখা টেনে রেখেছিল, তা সেই রেখা ধরেই চলে। পরের আয়াত আমলের নাম খোলাখুলি বলে দেয়। ৩০:১৫ আয়াতের বাগান তাদের জন্য, যারা ঈমান এনেছে আর নেক আমল করেছে। আয়াতটি এ দুটিকে একসঙ্গেই রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Explanation Comes Next",
+          "bn": "ব্যাখ্যা আসে পরের আয়াতে"
+        },
+        "p": [
+          {
+            "en": "The verse stops at the word separated and does not say into what. The next two verses answer, each opening with amma, as for. As for those who believed and did righteous deeds, they will be in a garden, delighted (30:15). And as for those who disbelieved and denied Our signs and the meeting of the Hereafter, those will be brought into the punishment (30:16). Ibn Kathir marks the link himself: after explaining the separation he writes wa-li-hadha qala, and for this reason He said, and moves straight to 30:15.",
+            "bn": "আয়াতটি থেমে যায় 'আলাদা হয়ে যাবে' কথায়, কোন দিকে তা বলে না। পরের দুটি আয়াত উত্তর দেয়, দুটিই শুরু হয় আম্মা দিয়ে, অর্থাৎ 'আর যারা'। যারা ঈমান এনেছে ও নেক আমল করেছে, তারা থাকবে এক বাগানে, আনন্দে (৩০:১৫)। আর যারা কুফরি করেছে এবং আমার আয়াতসমূহ ও আখিরাতের সাক্ষাৎকে মিথ্যা বলেছে, তাদের হাজির করা হবে আযাবের মধ্যে (৩০:১৬)। ইবন কাসীর নিজেই যোগসূত্রটা দেখিয়ে দেন। বিচ্ছেদের ব্যাখ্যা শেষ করে তিনি লেখেন ওয়ালিহাযা কালা, এ কারণেই তিনি বলেছেন। তারপর সরাসরি চলে যান ৩০:১৫ আয়াতে।"
+          },
+          {
+            "en": "These two verses are the verse's own commentary, and they are best read as that rather than as a new subject. On the garden of 30:15, the abridged Ibn Kathir reports Mujahid and Qatada: this means they will enjoy a life of luxury. Notice what each verse names. The first describes what the believers receive. The second names what the deniers did: they disbelieved, they denied the signs, and they denied the meeting of the Hereafter. The surah had already said at 30:8 that many people disbelieve in the meeting with their Lord.",
+            "bn": "এ দুটি আয়াত আসলে এ আয়াতেরই ব্যাখ্যা। নতুন কোনো বিষয় হিসেবে না পড়ে এগুলোকে সেভাবেই পড়া ভালো। ৩০:১৫ আয়াতের বাগান প্রসঙ্গে সংক্ষিপ্ত ইবন কাসীর মুজাহিদ ও কাতাদার কথা আনেন: এর অর্থ, তারা বিলাস আর স্বাচ্ছন্দ্যের জীবন উপভোগ করবে। খেয়াল করুন, কোন আয়াত কী নাম ধরে বলে। প্রথমটি বলে মুমিনেরা কী পাবে। দ্বিতীয়টি বলে অস্বীকারকারীরা কী করেছিল। তারা কুফরি করেছিল, আয়াতসমূহকে মিথ্যা বলেছিল, আর আখিরাতের সাক্ষাৎকে অস্বীকার করেছিল। সূরাটি ৩০:৮ আয়াতেই বলে রেখেছে, অনেক মানুষ তাদের রবের সাক্ষাতে অবিশ্বাসী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sorting Left to Allah",
+          "bn": "বাছাইয়ের ভার আল্লাহর"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries cited here attaches a hadith to this verse, and none of them gives an occasion of revelation for it. What they offer instead is the explanation of the early generation: Qatada's oath, through at-Tabari and Ibn Kathir, and Muqatil's remark, through al-Baghawi. That is enough for the verse, which is short and clear. Its weight lies less in any report attached to it than in the single verb, and in the two verses that follow and fill it in.",
+            "bn": "এখানে উদ্ধৃত তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনোটিই এর নাযিলের প্রেক্ষাপটও বলেনি। এর বদলে তারা দিয়েছে প্রথম যুগের ব্যাখ্যা। তাবারী ও ইবন কাসীরের মাধ্যমে কাতাদার কসম, আর বাগাভীর মাধ্যমে মুকাতিলের কথা। আয়াতটি ছোট আর স্পষ্ট, তার জন্য এটুকুই যথেষ্ট। এর ভার কোনো সংযুক্ত বর্ণনায় যতটা, তার চেয়ে বেশি ওই একটি ক্রিয়াপদে। আর সেই ক্রিয়াপদকে পূর্ণ করে দেয় পরের দুটি আয়াত।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes a separation on the Day of the Hour, between two parties that 30:15 and 30:16 define by belief, deeds and denial. It places no living person in either party, and it licenses nothing against any living person or community. At-Tabari's own wording makes the distinguishing Allah's act, on that Day. As-Sa'di ties it to deeds, and the deeds of the living are not finished. Whoever uses the verse to sort neighbours into the Garden and the Fire has taken a work the verse leaves to Allah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কিয়ামতের দিনের এক বিচ্ছেদের বর্ণনা দেয়। দুই পক্ষের পরিচয় ৩০:১৫ ও ৩০:১৬ আয়াত ঠিক করে দেয় ঈমান, আমল আর অস্বীকারের ভিত্তিতে। কোনো জীবিত মানুষকে আয়াতটি কোনো দলে বসায় না। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতিও দেয় না। তাবারীর নিজের ভাষাতেই পৃথক করার কাজটা আল্লাহর, আর তা সেদিনের। সা'দী এটাকে আমলের সঙ্গে বেঁধেছেন, আর জীবিত মানুষের আমল এখনো শেষ হয়নি। যে এ আয়াত দিয়ে প্রতিবেশীদের জান্নাতে আর জাহান্নামে ভাগ করে, সে এমন কাজ হাতে তুলে নিয়েছে, যা আয়াতটি আল্লাহর জন্য রেখে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Choosing a Company Now",
+          "bn": "সঙ্গী বেছে নেওয়ার সময় এখন"
+        },
+        "p": [
+          {
+            "en": "Qatada's oath is spoken to the living. The parting will be final on that Day, but it is not final yet. Every person a reader knows, a parent, a spouse, a friend, a neighbour, belongs to a world in which people still live mixed together. Ibn Kathir's picture of the last of what was between two people turns the verse into a question about one's own ties: what is each of them built on, and in which direction is it carrying both people? The answer can still change.",
+            "bn": "কাতাদার কসম উচ্চারিত হয়েছে জীবিত মানুষের উদ্দেশে। সেদিন বিচ্ছেদ চূড়ান্ত হবে, কিন্তু এখনো তা চূড়ান্ত হয়নি। পাঠক যাদের চেনেন, বাবা-মা, স্বামী বা স্ত্রী, বন্ধু, প্রতিবেশী, সবাই এমন এক দুনিয়ার মানুষ, যেখানে সবাই এখনো মিলেমিশে থাকে। দুজনের মধ্যে যা ছিল তার শেষ, ইবন কাসীরের এই ছবি আয়াতটিকে নিজের সম্পর্কগুলো নিয়ে একটা প্রশ্নে বদলে দেয়। প্রতিটা সম্পর্ক কিসের উপর দাঁড়িয়ে আছে? আর তা দুজনকে কোন দিকে নিয়ে যাচ্ছে? এ প্রশ্নের উত্তর এখনো বদলানো যায়।"
+          },
+          {
+            "en": "If as-Sa'di is right that the people part as their deeds parted, then the road of that Day is being laid now, one act at a time. The company a person keeps matters, and so does what that company does together. Helping someone toward good is one way of hoping not to be parted from them. The verse does not ask its reader to guess where anyone else will end. It asks the reader to walk toward the party that 30:15 describes, where belief and righteous deeds go together.",
+            "bn": "সা'দীর কথামতো মানুষ যদি তাদের আমলের মতোই ভাগ হয়ে যায়, তাহলে সেদিনের পথ তৈরি হচ্ছে এখনই, একটা একটা কাজ দিয়ে। মানুষ কাদের সঙ্গে চলে, তা গুরুত্বপূর্ণ। সেই সঙ্গীরা মিলে কী করে, তাও গুরুত্বপূর্ণ। কাউকে ভালোর দিকে সাহায্য করা মানে তার থেকে আলাদা না হওয়ার আশা করা। কে কোথায় পৌঁছাবে, আয়াতটি তা অনুমান করতে বলে না। পাঠককে বলে সেই দলের দিকে হাঁটতে, যার কথা ৩০:১৫ আয়াতে আছে, যেখানে ঈমান আর নেক আমল একসঙ্গে চলে।"
+          },
+          {
+            "en": "The surah itself turns at once from the Day to the day. After the two parties of 30:15 and 30:16 comes fa-subhana Allah, so exalted is Allah when you reach the evening and when you reach the morning (30:17), and 30:18 adds the afternoon and the noon. The reader who has just watched people part on the Day of the Hour is sent back to the ordinary hours of a single day. That is where the road toward one party or the other is walked, and where, while life lasts, a person can still turn.",
+            "bn": "সূরাটি নিজেই সঙ্গে সঙ্গে কিয়ামতের দিন থেকে ফিরে আসে রোজকার দিনে। ৩০:১৫ ও ৩০:১৬ আয়াতের দুই দলের পরেই আসে ফাসুবহানাল্লাহ: অতএব আল্লাহ পবিত্র, যখন তোমরা সন্ধ্যায় উপনীত হও আর যখন সকালে (৩০:১৭)। ৩০:১৮ আয়াত তার সঙ্গে যোগ করে অপরাহ্ন আর দুপুরের সময়। যে পাঠক এইমাত্র কিয়ামতের দিন মানুষকে আলাদা হতে দেখলেন, তাঁকে ফিরিয়ে আনা হয় একটি সাধারণ দিনের প্রহরগুলোতে। এক দল বা অন্য দলের দিকে পথ হাঁটা হয় সেখানেই। আর যতদিন জীবন আছে, ততদিন মানুষ সেখানেই মুখ ফেরাতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "30:18": {
     "sections": [
       {
