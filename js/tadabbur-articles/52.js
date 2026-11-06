@@ -159,6 +159,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "52:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sea Closes the Oaths",
+          "bn": "শপথের সারি থামে সমুদ্রে"
+        },
+        "p": [
+          {
+            "en": "Wa l-bahri l-masjur: and by the sea, masjur. The verse is two Arabic words, and it closes the run of oaths that opens Surah at-Tur in 52:1 to 52:6. The sea is the sixth thing sworn by, and the sworn statement itself follows in 52:7. This article leaves that statement, and the earlier oaths, to their own verses. Its subject is one adjective. Masjur is a passive participle, and nearly everything the commentators say about this verse is an argument over what has been, or will be, done to the sea.",
+            "bn": "ওয়াল বাহরিল মাসজূর: আর শপথ সমুদ্রের, যা মাসজূর। আরবিতে আয়াতটি মাত্র দুই শব্দের। সূরা তূরের শুরুতে ৫২:১ থেকে ৫২:৬ পর্যন্ত যে শপথের সারি, এ আয়াতে তা শেষ হয়। সমুদ্র এখানে ষষ্ঠ শপথ। যে কথার জন্য এত শপথ, তা আসে পরের আয়াতে, ৫২:৭-এ। সে কথা আর আগের শপথগুলো তাদের নিজ নিজ আয়াতের জন্য রইল। এ লেখার বিষয় একটিমাত্র বিশেষণ। মাসজূর কর্মবাচ্য বিশেষণ, অর্থাৎ সমুদ্রের সঙ্গে কিছু একটা করা হয়েছে বা হবে। তাফসীরকারদের প্রায় সব আলোচনা এই প্রশ্ন ঘিরেই: কী করা হয়েছে?"
+          },
+          {
+            "en": "Ma'arif al-Qur'an explains that the participle comes from sajr, a word used in several different senses, one of which is to kindle with fire. At-Tabari, weighing those senses, names the two he counts as most common: kindling, as when one says sajartu t-tannur, I fired the oven, and filling. The Muyassar, which gives all six oaths in a single sentence, glosses the phrase plainly as the sea filled with water. The longer commentaries set several senses side by side, and they do not agree on which one the verse intends.",
+            "bn": "মাআরিফুল কুরআন জানায়, শব্দটি এসেছে সাজর থেকে। সাজর কয়েকটি ভিন্ন অর্থে ব্যবহৃত হয়, তার একটি আগুন জ্বালানো। তাবারী অর্থগুলো ওজন করে দুটিকে সবচেয়ে প্রচলিত বলে চিহ্নিত করেন। একটি জ্বালানো, যেমন আরবরা বলে সাজারতুত তান্নূর, অর্থাৎ চুলা গরম করলাম। অন্যটি ভরে দেওয়া। মুয়াসসার ছয়টি শপথ এক বাক্যে বলে দেয়, আর এ অংশের সোজা অর্থ করে: পানিতে ভরা সমুদ্র। বড় তাফসীরগুলো কয়েকটি অর্থ পাশাপাশি রাখে। আয়াতে কোন অর্থটি উদ্দেশ্য, তা নিয়ে তারা একমত নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This Sea, or One Above",
+          "bn": "এই সমুদ্র, নাকি আরশের নিচের"
+        },
+        "p": [
+          {
+            "en": "Before the adjective, the noun. Ibn Kathir says the majority hold that it is this sea, the sea of the earth. Against that he reports from ar-Rabi' ibn Anas that it is the water beneath the Throne, from which Allah sends down the rain that brings bodies back to life in their graves on the day of their return. At-Tabari records the same identification under it was said: a sea in the heaven beneath the Throne, through chains to 'Ali (RA), to 'Abdullah ibn 'Amr (RA) and to Abu Salih.",
+            "bn": "বিশেষণের আগে বিশেষ্য। ইবন কাসীর বলেন, অধিকাংশের মতে এটি এই সমুদ্র, পৃথিবীর সমুদ্র। এর বিপরীতে তিনি রাবী' ইবন আনাস থেকে বর্ণনা করেন: এ হলো আরশের নিচের পানি। সেখান থেকেই আল্লাহ সেই বৃষ্টি নামাবেন, যা পুনরুত্থানের দিন কবরের দেহগুলোকে জীবিত করবে। তাবারী 'বলা হয়েছে' কথাটি দিয়ে একই মত আনেন: আসমানে আরশের নিচে একটি সমুদ্র। এর সনদ গেছে আলী (রাঃ), আবদুল্লাহ ইবন আমর (রাঃ) এবং আবূ সালিহ পর্যন্ত।"
+          },
+          {
+            "en": "Al-Baghawi gives the fullest form, through ad-Dahhak from an-Nazzal ibn Sabra from 'Ali (RA): a sea beneath the Throne, its depth like the span from the seven heavens to the seven earths, holding a thick water called the sea of life. From it the servants are rained upon for forty mornings after the first blast, and they sprout in their graves. Al-Qurtubi relates a similar account from 'Ali (RA) and from 'Ikrima. Oddly, al-Qurtubi and al-Baghawi give ar-Rabi' a different saying altogether, which comes up below; the article reports each ascription as its book gives it.",
+            "bn": "বাগাভী সবচেয়ে বিস্তারিত রূপটি আনেন, দাহহাক থেকে, তিনি নাযযাল ইবন সাবরা থেকে, তিনি আলী (রাঃ) থেকে। আরশের নিচে এক সমুদ্র, তার গভীরতা সাতটি আসমান থেকে সাতটি জমিন পর্যন্ত দূরত্বের মতো। তাতে আছে ঘন পানি, যার নাম বাহরুল হায়াওয়ান, জীবনের সমুদ্র। প্রথম ফুঁৎকারের পর চল্লিশ দিন ধরে সেখান থেকে বান্দাদের ওপর বৃষ্টি হবে, আর তারা কবর থেকে গজিয়ে উঠবে। কুরতুবী আলী (রাঃ) ও ইকরিমা থেকে প্রায় একই কথা আনেন। মজার ব্যাপার, কুরতুবী ও বাগাভী রাবী'র নামে সম্পূর্ণ ভিন্ন একটি কথা বলেন, যা সামনে আসছে। কোন কথা কার, তা প্রতিটি বই যেভাবে বলে, এ লেখাও সেভাবেই রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fired Like an Oven",
+          "bn": "চুলার মতো উত্তপ্ত"
+        },
+        "p": [
+          {
+            "en": "The first sense is kindled. At-Tabari opens by saying the people of interpretation differed, and that some said al-mawqad, the sea set alight and heated. He gives it from Mujahid and from Ibn Zayd, who recited 81:6, wa idha l-biharu sujjirat, and said: they were set alight. Shimr ibn 'Atiyya likened it to an oven that is masjur. Al-Qurtubi adds ad-Dahhak, Muhammad ibn Ka'b and al-Akhfash, notes that a stoking iron is called a misjar, and cites 81:6 as the evidence for this reading.",
+            "bn": "প্রথম অর্থ: প্রজ্বলিত। তাবারী শুরুতেই বলেন, ব্যাখ্যাকারেরা এখানে মতভেদ করেছেন। কেউ বলেছেন আল-মাওকাদ, অর্থাৎ আগুন ধরানো, উত্তপ্ত সমুদ্র। এ মত তিনি আনেন মুজাহিদ ও ইবন যায়দ থেকে। ইবন যায়দ ৮১:৬ পাঠ করেন, ওয়া ইযাল বিহারু সুজ্জিরাত, তারপর বলেন: অর্থাৎ জ্বালিয়ে দেওয়া হবে। শিমর ইবন আতিয়্যা একে তুলনা করেছেন মাসজূর চুলার সঙ্গে। কুরতুবী এ তালিকায় দাহহাক, মুহাম্মাদ ইবন কা'ব ও আখফাশকে যোগ করেন। তিনি জানান, আগুন খোঁচানোর লোহাকে আরবিতে মিসজার বলে। আর এ ব্যাখ্যার দলিল হিসেবে তিনিও ৮১:৬ উল্লেখ করেন।"
+          },
+          {
+            "en": "Ibn Kathir spells out what the kindling means: the sea will be set alight on the Day of Resurrection, as in 81:6, and become a blazing fire surrounding the people at the standing. He says Sa'id ibn al-Musayyib relates this from 'Ali (RA), that it is reported from Ibn 'Abbas (RA), and that Sa'id ibn Jubayr, Mujahid and 'Abdullah ibn 'Ubayd ibn 'Umayr hold it. Al-Baghawi names Muhammad ibn Ka'b al-Qurazi and ad-Dahhak, calls it the view of Ibn 'Abbas (RA), and relays without a chain that Allah will turn every sea to fire on that Day, added to the fire of Jahannam.",
+            "bn": "জ্বালানোর অর্থ কী, ইবন কাসীর তা খুলে বলেন। কিয়ামতের দিন সমুদ্রে আগুন ধরানো হবে, যেমন ৮১:৬-এ এসেছে। তখন তা দাউদাউ আগুন হয়ে হাশরের ময়দানে দাঁড়ানো মানুষদের ঘিরে ফেলবে। তিনি জানান, সাঈদ ইবনুল মুসাইয়িব এ কথা আলী (রাঃ) থেকে বর্ণনা করেছেন, ইবন আব্বাস (রাঃ) থেকেও এটি বর্ণিত। সাঈদ ইবন জুবাইর, মুজাহিদ ও আবদুল্লাহ ইবন উবাইদ ইবন উমাইরও এ মতের। বাগাভী নাম নেন মুহাম্মাদ ইবন কা'ব কুরাযী ও দাহহাকের, আর একে ইবন আব্বাস (রাঃ)-এর মত বলেন। সনদ ছাড়া তিনি এ কথাও আনেন যে সেদিন আল্লাহ সব সমুদ্রকে আগুন বানিয়ে জাহান্নামের আগুনে যোগ করবেন।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi both carry an exchange through Sa'id ibn al-Musayyib. 'Ali (RA) asked a Jewish man where Jahannam was. The man answered: the sea. 'Ali (RA) said he could only think him truthful, and recited this verse and 81:6. On this reading the oath looks forward: the water that now carries ships and feeds the coasts will one day be turned into part of the Day's punishment.",
+            "bn": "তাবারী ও কুরতুবী দুজনেই সাঈদ ইবনুল মুসাইয়িবের সূত্রে একটি কথোপকথন আনেন। আলী (রাঃ) এক ইহুদি লোককে জিজ্ঞেস করলেন, জাহান্নাম কোথায়? লোকটি বলল: সমুদ্র। আলী (রাঃ) বললেন, আমি তাকে সত্যবাদীই মনে করি। তারপর তিনি এ আয়াত আর ৮১:৬ পাঠ করলেন। এ অর্থে শপথটি সামনের দিকে তাকায়। যে পানি আজ জাহাজ বয়ে নেয়, উপকূলের মানুষকে খাওয়ায়, সেদিন তা হয়ে যাবে আযাবেরই অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brimming at Every Hour",
+          "bn": "সব সময় কানায় কানায়"
+        },
+        "p": [
+          {
+            "en": "The second sense is filled. At-Tabari reports that others said al-mamlu', the filled, and gives Qatada's word for it: al-mumtali', the full. Al-Baghawi credits the same reading to Mujahid and al-Kalbi and supplies the idiom behind it: sajartu l-ina', I filled the vessel. So Mujahid stands on both sides of the dispute: at-Tabari's chain has him say kindled, while al-Baghawi lists him under filled. The books give the names that way, and this article does not try to settle which of the two was his.",
+            "bn": "দ্বিতীয় অর্থ: ভরা। তাবারী জানান, অন্যরা বলেছেন আল-মামলূ', অর্থাৎ পূর্ণ। এর পক্ষে তিনি আনেন কাতাদার শব্দ: আল-মুমতালি', ভরাট। বাগাভী একই অর্থ মুজাহিদ ও কালবীর নামে বলেন, আর এর পেছনের আরবি বাগধারাটিও দেন: সাজারতুল ইনা, অর্থাৎ পাত্রটা ভরে দিলাম। ফলে মুজাহিদকে দেখা যায় মতভেদের দুই পক্ষেই। তাবারীর সনদে তিনি বলেন প্রজ্বলিত, আর বাগাভীর তালিকায় তিনি ভরা অর্থের পক্ষে। বইগুলো নাম যেভাবে দিয়েছে, এ লেখা সেভাবেই রাখছে। কোনটি আসলে তাঁর মত, সে মীমাংসায় যাচ্ছে না।"
+          },
+          {
+            "en": "At-Tabari then gives his own preference: the soundest view, to him, is the sea filled, its water gathered together. His reason is an argument from meaning. The most common senses of sajr are kindling and filling, and he quotes lines by Labid and by an-Namir ibn Tawlab for masjura in the sense of full; al-Qurtubi reads an-Namir's line as a wild goat looking down on a brimming spring. The sea is not kindled today, at-Tabari reasons, yet Allah calls it masjur. So one description falls away and the other holds, since the sea is full at every time.",
+            "bn": "এরপর তাবারী নিজের পছন্দ জানান। তাঁর মতে সবচেয়ে সঠিক কথা হলো: পানিতে ভরা সমুদ্র, যার পানি একসঙ্গে জমা হয়ে আছে। তাঁর যুক্তি শব্দের অর্থ থেকে। সাজরের সবচেয়ে প্রচলিত অর্থ দুটি, জ্বালানো আর ভরা। ভরা অর্থে মাসজূরা শব্দের প্রমাণ হিসেবে তিনি লাবীদ ও নামির ইবন তাওলাবের কবিতা উদ্ধৃত করেন। কুরতুবী নামিরের পঙক্তিটির অর্থ করেন এভাবে: এক বুনো ছাগল উঁচু থেকে টইটম্বুর এক ঝরনার দিকে তাকিয়ে আছে। তাবারীর যুক্তি হলো, সমুদ্র আজ জ্বলছে না, অথচ আল্লাহ একে মাসজূর বলেছেন। তাই একটি বিশেষণ বাদ পড়ে, অন্যটি টিকে থাকে, কারণ সমুদ্র সব সময়ই ভরা।"
+          },
+          {
+            "en": "Ibn Kathir records that Ibn Jarir chose this and repeats his reasoning: the sea is not lit now, so it is filled. Ma'arif al-Qur'an, drawing on Ibn Kathir, notes that Qatada and others read filled, and adds that Maulana Ashraf Thanawi adopted it. Al-Qurtubi offers a bridge between the two senses: a sea filled might be filled with fire, which would bring this view back to the first. The Muyassar and as-Sa'di both open with filled. The disagreement stands, with at-Tabari's argument on one side and the reports that cite 81:6 on the other.",
+            "bn": "ইবন কাসীর জানান, ইবন জারীর তাবারী এ মতটিই বেছে নিয়েছেন, আর তাঁর যুক্তিও উদ্ধৃত করেন: সমুদ্রে এখন আগুন নেই, তাই এর অর্থ ভরা। মাআরিফুল কুরআন ইবন কাসীরের বরাতে বলে, কাতাদা ও অন্যরা ভরা অর্থ নিয়েছেন। সঙ্গে যোগ করে, মাওলানা আশরাফ আলী থানভী (রহঃ)ও এ অর্থ গ্রহণ করেছেন। কুরতুবী দুই অর্থের মাঝে একটা সেতু দেখান। ভরা সমুদ্র আগুনেও ভরা হতে পারে, তাহলে এ মত প্রথম মতের কাছেই ফিরে যায়। মুয়াসসার ও সা'দী দুজনেই শুরু করেন ভরা অর্থ দিয়ে। তবু মতভেদ থেকেই যায়: এক দিকে তাবারীর যুক্তি, অন্য দিকে ৮১:৬ টেনে আনা বর্ণনাগুলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drained, Mixed or Let Loose",
+          "bn": "শুকনো, মিশ্রিত, নাকি ছেড়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Some read masjur in the opposite direction: empty. At-Tabari gives Ibn 'Abbas (RA), through the chain of Muhammad ibn Sa'd from his forebears: its sajr is when its water goes and it is burst open. Al-Qurtubi gives the same gloss, the sea whose water has gone, from Ibn 'Abbas (RA) and Abu l-'Aliya, and al-Baghawi credits al-Hasan, Qatada and Abu l-'Aliya with the dry sea whose water has drained away. Qatada, then, also appears on two sides: filled in at-Tabari, dried up in al-Baghawi. The article records both and picks neither.",
+            "bn": "কেউ কেউ মাসজূরকে পড়েছেন একেবারে উল্টো দিকে: খালি। তাবারী মুহাম্মাদ ইবন সা'দের পারিবারিক সনদে ইবন আব্বাস (রাঃ) থেকে আনেন: সমুদ্রের সাজর হলো যখন তার পানি চলে যায় আর তা ফেটে বেরিয়ে পড়ে। কুরতুবী ইবন আব্বাস (রাঃ) ও আবুল আলিয়া থেকে একই ব্যাখ্যা দেন: যে সমুদ্রের পানি চলে গেছে। বাগাভী হাসান, কাতাদা ও আবুল আলিয়ার নামে বলেন: শুকনো সমুদ্র, যার পানি নিঃশেষ হয়ে গেছে। তাহলে কাতাদাকেও দুই পক্ষে পাওয়া যায়। তাবারীতে তিনি ভরা অর্থের পক্ষে, বাগাভীতে শুকনো অর্থের পক্ষে। এ লেখা দুটোই উল্লেখ করে, কোনোটিকে বেছে নেয় না।"
+          },
+          {
+            "en": "The support for empty is a line of everyday speech. Ibn Kathir, through al-Asma'i, Abu 'Amr ibn al-'Ala' and the poet Dhu r-Rumma, reports from Ibn 'Abbas (RA) that a slave girl went out to draw water, came back and said: the basin is masjur, meaning empty. Al-Qurtubi tells it too, adding Ibn Abi Dawud's remark that Dhu r-Rumma has no hadith but this one. He also lists al-mafjur, burst open, citing 82:3: the earth drinks the seas in until no water is left in them.",
+            "bn": "খালি অর্থের পক্ষে প্রমাণ এসেছে মানুষের মুখের সাধারণ এক কথা থেকে। ইবন কাসীর আসমাঈ, আবূ আমর ইবনুল আলা ও কবি যুর রুম্মার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন। এক দাসী পানি আনতে গেল, ফিরে এসে বলল: হাউজটা মাসজূর। অর্থাৎ খালি। কুরতুবীও ঘটনাটি আনেন, সঙ্গে ইবন আবী দাউদের মন্তব্য: যুর রুম্মার বর্ণিত হাদীস এই একটিই। কুরতুবী আরেকটি অর্থও তালিকায় রাখেন, আল-মাফজূর, অর্থাৎ ফেটে বেরোনো। দলিল হিসেবে আনেন ৮২:৩, আর ব্যাখ্যা দেন: মাটি সমুদ্রগুলোকে শুষে নেবে, শেষে তাতে আর পানি থাকবে না।"
+          },
+          {
+            "en": "Other glosses are briefer. Ar-Rabi' ibn Anas, in al-Qurtubi and al-Baghawi, said the masjur sea is the sea where fresh water mixes with salt. Ibn Kathir gives al-'Ala' ibn Badr: the sea is called masjur because its water is not drunk and no crop is watered from it, and so it will be with the seas on the Day. From Sa'id ibn Jubayr he gives al-mursal, the sea let loose. These stand in the books as single voices, listed without the argument that at-Tabari builds for filled or the verse-citing that supports kindled.",
+            "bn": "আরও কিছু ব্যাখ্যা আছে, সেগুলো সংক্ষিপ্ত। কুরতুবী ও বাগাভীর বর্ণনায় রাবী' ইবন আনাস বলেছেন: মাসজূর সমুদ্র হলো যেখানে মিঠা পানি লোনা পানির সঙ্গে মিশে যায়। ইবন কাসীর আনেন আলা ইবন বদরের কথা। সমুদ্রকে মাসজূর বলা হয়েছে কারণ এর পানি পান করা যায় না, এ দিয়ে ফসলেও সেচ হয় না। কিয়ামতের দিন সব সমুদ্রের অবস্থা এমনই হবে। সাঈদ ইবন জুবাইর থেকে তিনি আনেন আল-মুরসাল, অর্থাৎ ছেড়ে দেওয়া সমুদ্র। বইগুলোতে এগুলো একক কণ্ঠ হিসেবে আছে। ভরা অর্থের পক্ষে তাবারী যে যুক্তি গড়েছেন, বা প্রজ্বলিত অর্থের পক্ষে যে আয়াত টানা হয়েছে, এগুলোর পেছনে তেমন কিছু নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held Back From the Land",
+          "bn": "স্থলভাগ থেকে আটকে রাখা"
+        },
+        "p": [
+          {
+            "en": "The last sense is held back. At-Tabari and al-Qurtubi give it from Ibn 'Abbas (RA) through 'Ali ibn Abi Talha: al-mahbus, the confined. Ibn Kathir explains it as the sea withheld and restrained from the land, so that it does not cover the land and drown its people, and says as-Suddi and others hold it. As-Sa'di joins this sense to filling. The sea is full of water, he writes, and Allah has held it and kept it from spilling over the face of the earth, although its nature would be to cover it.",
+            "bn": "শেষ অর্থ: আটকে রাখা। তাবারী ও কুরতুবী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: আল-মাহবূস, অর্থাৎ আবদ্ধ। ইবন কাসীর এর ব্যাখ্যা দেন এভাবে: যে সমুদ্রকে স্থলভাগ থেকে ঠেকিয়ে রাখা হয়েছে, যাতে তা জমিন ঢেকে দিয়ে তার বাসিন্দাদের ডুবিয়ে না দেয়। তিনি জানান, সুদ্দী ও অন্যরাও এ মতের। সা'দী এ অর্থকে ভরা অর্থের সঙ্গে জুড়ে দেন। তিনি লেখেন, সমুদ্র পানিতে পূর্ণ, আর আল্লাহ তাকে ধরে রেখেছেন, জমিনের ওপর উপচে পড়তে দেননি। অথচ তার স্বভাবই ছিল জমিনকে ঢেকে ফেলা।"
+          },
+          {
+            "en": "His reason is mercy with a purpose: Allah's wisdom required that the sea be kept from running and overflowing, so that every kind of creature on the land could live. Ibn Kathir adds that a narration in Imam Ahmad's Musnad, raised to the Prophet ﷺ through 'Umar (RA), points to this reading. Its chain is weighed below, and since it could not be checked against its collection for this article, its wording is not quoted here.",
+            "bn": "এর কারণ হিসেবে সা'দী বলেন রহমতের কথা, যার পেছনে উদ্দেশ্য আছে। আল্লাহর হিকমত চেয়েছে যে সমুদ্র গড়িয়ে উপচে না পড়ুক, যাতে স্থলভাগের সব রকম প্রাণী বেঁচে থাকতে পারে। ইবন কাসীর যোগ করেন, ইমাম আহমাদের মুসনাদে উমর (রাঃ)-এর সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা এ অর্থের দিকে ইঙ্গিত করে। এর সনদের আলোচনা নিচে আছে। এই লেখার জন্য বর্ণনাটি তার মূল সংকলনে মিলিয়ে দেখা যায়নি, তাই এর শব্দ এখানে উদ্ধৃত করা হলো না।"
+          },
+          {
+            "en": "Ibn Kathir gives a second route through al-Isma'ili, in which the shaykh describes a night alone on watch when the sea seemed to rise level with the mountain tops, again and again, while he was wide awake. Ibn Kathir then closes with a remark of his own: in it is a man left vague, not named. The narrator between al-'Awwam and Abu Salih is unknown, so the report cannot carry the reading on its own. No commentary read for this verse attaches a sound hadith to it.",
+            "bn": "ইবন কাসীর ইসমাঈলীর মাধ্যমে আরেকটি সূত্রও আনেন। তাতে সেই শায়খ এক রাতের কথা বলেন। পাহারায় সে রাতে তিনি একাই বেরিয়েছিলেন। পুরোপুরি জেগে থেকেও তাঁর মনে হচ্ছিল, সমুদ্র বারবার উঠে পাহাড়ের চূড়ার সমান হয়ে যাচ্ছে। এরপর ইবন কাসীর নিজের একটি মন্তব্য দিয়ে শেষ করেন: এতে এমন এক ব্যক্তি আছেন, যাঁর নাম বলা হয়নি। আওয়াম ও আবূ সালিহের মাঝের বর্ণনাকারী অজ্ঞাত। তাই এ বর্ণনা একা এ অর্থের ভার বইতে পারে না। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why an Oath by Water",
+          "bn": "পানির নামে কেন শপথ"
+        },
+        "p": [
+          {
+            "en": "Why swear by the sea at all? As-Sa'di answers for the whole series: these things are among Allah's signs, evidences of His oneness, and proofs of His power and of His raising of the dead. Ibn Kathir, in the abridged English, says Allah swears by His creation as a testimony to His great ability. Al-Baghawi closes his comment with the plain line that Allah swore by these things. A sea that is full and held back is a sign that can be seen today; a sea set ablaze is a sign of what is still to come.",
+            "bn": "সমুদ্রের নামে শপথ কেন? সা'দী পুরো শপথমালার হয়ে উত্তর দেন। এগুলো আল্লাহর নিদর্শন। এগুলো তাঁর একত্বের দলিল, তাঁর কুদরতের প্রমাণ, আর মৃতদের পুনরুত্থিত করার প্রমাণ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, আল্লাহ তাঁর সৃষ্টির নামে শপথ করেন তাঁর বিপুল ক্ষমতার সাক্ষ্য হিসেবে। বাগাভী তাঁর আলোচনা শেষ করেন সোজা এক বাক্যে: আল্লাহ এ জিনিসগুলোর নামে শপথ করেছেন। যে সমুদ্র ভরা অথচ আটকে রাখা, তা আজই চোখে দেখা যায় এমন নিদর্শন। আর যে সমুদ্রে আগুন জ্বলবে, তা আগামী দিনের নিদর্শন।"
+          },
+          {
+            "en": "The readings need not cancel each other for the oath to do its work. At-Tabari chooses filled because it is true of the sea now; others choose kindled because 81:6 uses the same root of the seas on the Day; as-Sa'di gives filled and held back, then mentions kindled as a second view. None of the commentaries read for this verse ties the word to a finding of natural science, such as fire beneath the ocean floor, and this article makes no such claim.",
+            "bn": "শপথের কাজটা হওয়ার জন্য অর্থগুলোর একটিকে অন্যটি বাতিল করতে হয় না। তাবারী ভরা অর্থ বেছে নেন, কারণ সমুদ্রের ক্ষেত্রে তা আজও সত্য। অন্যরা প্রজ্বলিত অর্থ নেন, কারণ ৮১:৬ কিয়ামতের দিনের সমুদ্রের জন্য একই ধাতু ব্যবহার করেছে। সা'দী ভরা ও আটকে রাখার অর্থ দেন, তারপর প্রজ্বলিত অর্থটি দ্বিতীয় মত হিসেবে উল্লেখ করেন। এ আয়াতের জন্য পড়া কোনো তাফসীর শব্দটিকে প্রকৃতিবিজ্ঞানের কোনো আবিষ্কারের সঙ্গে জোড়েনি, যেমন সমুদ্রের তলদেশের আগুন। এ লেখাও তেমন দাবি করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks for What Stays Put",
+          "bn": "যা জায়গায় থাকে, তার শুকরিয়া"
+        },
+        "p": [
+          {
+            "en": "Two things follow for a reader standing at a shore. The first is gratitude for restraint. On the held-back reading, the water that keeps to its bed is not simply there; it is kept there, night after night, so that the land stays a place where people and animals can live. The second is seriousness. On the kindled reading, the same water that sustains life will be turned into part of the terror of the Day. One oath holds both the mercy now and the warning still to come.",
+            "bn": "সমুদ্রের ধারে দাঁড়ানো পাঠকের জন্য এ থেকে দুটি কথা বেরিয়ে আসে। প্রথমটি আটকে রাখার জন্য শুকরিয়া। আটকে রাখা অর্থে, যে পানি নিজের সীমার ভেতরে থাকে, তা এমনিতেই সেখানে নেই। রাতের পর রাত তাকে সেখানে ধরে রাখা হচ্ছে, যাতে স্থলভাগ মানুষ ও প্রাণীর বাসযোগ্য থাকে। দ্বিতীয়টি গাম্ভীর্য। প্রজ্বলিত অর্থে, যে পানি আজ জীবন বাঁচায়, সেদিন তা হয়ে যাবে কিয়ামতের বিভীষিকার অংশ। একটি শপথের ভেতরেই আছে আজকের রহমত আর আগামী দিনের সতর্কবাণী।"
+          },
+          {
+            "en": "That can shape a morning. Before asking Allah for what is missing, a person can thank Him for what was held back overnight: the water that stayed in its place, the ground that did not give way, the body that woke. And when the news brings a flood or a storm surge, the verse points away from blame and toward humility, a reminder that the ordinary calm was itself a gift.",
+            "bn": "এ ভাবনা একটা সকালকে বদলে দিতে পারে। যা নেই, তা আল্লাহর কাছে চাওয়ার আগে মানুষ শুকরিয়া জানাতে পারে রাতভর যা আটকে রাখা হয়েছে তার জন্য। পানি নিজের জায়গায় ছিল, মাটি সরে যায়নি, শরীরটা আবার জেগে উঠেছে। আর খবরে যখন বন্যা বা জলোচ্ছ্বাসের কথা আসে, আয়াতটি তখন কাউকে দোষারোপের দিকে নয়, বিনয়ের দিকে নিয়ে যায়। মনে করিয়ে দেয়, রোজকার শান্ত অবস্থাটাও ছিল এক দান।"
+          }
+        ]
+      }
+    ]
+  },
   "52:10": {
     "sections": [
       {

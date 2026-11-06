@@ -27429,6 +27429,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Thank Allah for the ordinary mercies of wind and rain, read 'Ad's barren wind as a warning to yourself, and never as a verdict on anyone struck today.",
     "lessonBn": "বাতাস আর বৃষ্টির সাধারণ রহমতের জন্য আল্লাহর শুকরিয়া আদায় করুন। ‘আদের বন্ধ্যা বাতাসকে নিজের জন্য সতর্কবাণী হিসেবে পড়ুন, আজ বিপদে পড়া কারও বিরুদ্ধে রায় হিসেবে কখনো নয়।"
+  },
+  "52:6": {
+    "reflectionEn": "The six oaths that open this surah end at the sea, and the word chosen for it, masjur, pulls two ways. It can mean filled: a sea brimming with water that still keeps to its shore, night after night, so that the land stays dry and life on it goes on. It can mean set ablaze: the same sea kindled into fire on the Day. The commentators hold both readings, and the verse lets both stand. I walk past that held-back water as if it were simply there. Do I see in a calm sea a mercy kept up every moment? And does the thought of it burning make that mercy feel urgent rather than ordinary?",
+    "reflectionBn": "সূরার শুরুর ছয়টি শপথ গিয়ে থামে সমুদ্রে। সমুদ্রের জন্য বাছাই করা শব্দটি, মাসজূর, দুই দিকে টানে। এর অর্থ হতে পারে কানায় কানায় ভরা: পানিতে টইটম্বুর এক সমুদ্র, তবু রাতের পর রাত নিজের কূলের ভেতরেই থাকে, ফলে স্থলভাগ শুকনো থাকে আর তার ওপর জীবন চলতে থাকে। আবার এর অর্থ হতে পারে প্রজ্বলিত: সেই একই সমুদ্র, যা সেদিন আগুনে জ্বলে উঠবে। তাফসীরকারেরা দুই অর্থই ধরেছেন, আর আয়াতটি দুটোকেই জায়গা দেয়। আমি সেই আটকে রাখা পানির পাশ দিয়ে হেঁটে যাই, যেন ওটা এমনিতেই ওখানে আছে। শান্ত সমুদ্রে কি আমি এমন এক রহমত দেখি, যা প্রতি মুহূর্তে জারি রাখা হচ্ছে? আর সেই সমুদ্র একদিন জ্বলবে, এই ভাবনা কি রহমতটাকে আমার কাছে সাধারণ না রেখে জরুরি করে তোলে?",
+    "pointsEn": [
+      "When did I last look at the sea, a river or the rain and think of it as held in place by Allah rather than simply there?",
+      "Which comforts in my life do I treat as fixed, though they rest on Allah keeping them within bounds every day?",
+      "The water that gives life can also become a punishment: which blessing of mine could turn against me if I used it carelessly?",
+      "When I hear a warning about the Day, do I let it sit beside gratitude, or do I push one out to keep the other?",
+      "What would change in my morning if I began it by thanking Allah for what He held back overnight?"
+    ],
+    "pointsBn": [
+      "শেষ কবে সমুদ্র, নদী বা বৃষ্টির দিকে তাকিয়ে ভেবেছি যে আল্লাহ এগুলোকে জায়গামতো ধরে রেখেছেন, এগুলো এমনিতেই সেখানে নেই?",
+      "জীবনের কোন আরামগুলোকে আমি স্থায়ী ধরে নিয়েছি, অথচ সেগুলো টিকে আছে কেবল এ কারণে যে আল্লাহ প্রতিদিন সেগুলোকে সীমার ভেতরে রাখছেন?",
+      "যে পানি জীবন দেয়, সেই পানিই আযাব হয়ে আসতে পারে। আমার কোন নিয়ামত অবহেলায় ব্যবহার করলে আমারই বিরুদ্ধে দাঁড়াতে পারে?",
+      "কিয়ামতের দিনের সতর্কবাণী শুনলে আমি কি সেটাকে শুকরিয়ার পাশে জায়গা দিই, নাকি একটাকে ধরে রাখতে গিয়ে অন্যটাকে সরিয়ে দিই?",
+      "রাতভর আল্লাহ যা আটকে রেখেছেন, তার জন্য শুকরিয়া দিয়ে যদি সকাল শুরু করি, আমার দিনে কী বদলাবে?"
+    ],
+    "lessonEn": "The sea that is full yet held back today is a mercy kept up moment by moment; thank Allah for it, and remember that the same sea will be set ablaze.",
+    "lessonBn": "আজ যে সমুদ্র ভরা অথচ আটকে রাখা, তা প্রতি মুহূর্তে জারি থাকা এক রহমত। এর জন্য আল্লাহর শুকরিয়া আদায় করুন, আর মনে রাখুন, সেই একই সমুদ্র একদিন আগুনে জ্বলে উঠবে।"
   }
 };
 
