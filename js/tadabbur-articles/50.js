@@ -1195,6 +1195,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "50:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "Who the Promise Was For",
+          "bn": "ওয়াদাটা ছিল কাদের জন্য"
+        },
+        "p": [
+          {
+            "en": "In 50:31 Paradise is brought near to the God-fearing, not far. Ibn Kathir, in the abridged English, takes uzlifat as brought close and near, after Qatada, Abu Malik and as-Suddi, and says not far points to the Day of Resurrection, which is itself not far off. In 50:32 a voice says: this is what you were promised, for every awwab and hafiz. Ibn Kathir explains them as those who return in sincere repentance and those who keep their covenant with Allah.",
+            "bn": "৫০:৩১ আয়াতে মুত্তাকীদের জন্য জান্নাতকে কাছে আনা হয়, দূরে নয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কাতাদা, আবু মালিক ও সুদ্দীর বরাতে উযলিফাত-এর অর্থ নেয় কাছে ও নিকটে আনা। আর দূরে নয় কথাটি তাঁর মতে কিয়ামতের দিনের দিকে ইঙ্গিত, যে দিন নিজেও দূরে নয়। ৫০:৩২ আয়াতে একটি কণ্ঠ বলে: এ-ই তোমাদের ওয়াদা, প্রত্যেক আওয়াব ও হাফীযের জন্য। ইবন কাসীর ব্যাখ্যা করেন, এরা খাঁটি তওবা নিয়ে ফিরে আসে আর আল্লাহর সঙ্গে করা অঙ্গীকার রক্ষা করে।"
+          },
+          {
+            "en": "Then 50:33 says, in seven Arabic words, who these people were: whoever feared the Most Merciful unseen and came with a heart that turns. The Muyassar reads 50:32 and 50:33 as a single sentence addressed to the God-fearing: this is what you were promised, for everyone who repents of his sins and guards what draws him near to his Lord, one who feared Allah in this world and met Him on the Day of Resurrection with a heart repenting of its sins. Two acts fill in the two titles: a fear, and an arrival.",
+            "bn": "তারপর ৫০:৩৩ আয়াত সাতটি আরবি শব্দে জানিয়ে দেয় এরা কারা: যে না দেখে দয়াময়কে ভয় করেছে আর ফেরা অন্তর নিয়ে এসেছে। মুয়াসসার ৫০:৩২ ও ৫০:৩৩ আয়াতকে মুত্তাকীদের উদ্দেশে বলা একটিমাত্র বাক্য হিসেবে পড়ে। তার ভাষায়: এ-ই তোমাদের ওয়াদা, প্রত্যেকের জন্য যে নিজের গুনাহ থেকে তওবা করে, যা কিছু তাকে রবের কাছে নেয় তা রক্ষা করে, দুনিয়াতে আল্লাহকে ভয় করেছে আর কিয়ামতের দিন গুনাহ থেকে তওবাকারী অন্তর নিয়ে তাঁর সঙ্গে সাক্ষাৎ করেছে। দুটি উপাধির ভেতরটা ভরে দেয় দুটি কাজ: একটি ভয়, আর একটি আগমন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Sentence or a New Start",
+          "bn": "আগের বাক্য, নাকি নতুন শুরু"
+        },
+        "p": [
+          {
+            "en": "The grammarians ask how the opening word man, whoever, attaches to what comes before. At-Tabari gives two analyses. It can be in the genitive, following kull in li-kulli awwabin: for every returner, whoever feared. Or it can be in the nominative, as a fresh start carrying the sense of a condition: whoever feared the Most Merciful unseen, it will be said to him, enter Paradise. Then enter it in peace, in 50:34, is the answer to that condition, with it will be said understood before it.",
+            "bn": "শুরুর শব্দ মান, অর্থাৎ যে, আগের কথার সঙ্গে কীভাবে যুক্ত, ব্যাকরণবিদেরা তা নিয়ে প্রশ্ন তোলেন। তাবারী দুটি বিশ্লেষণ দেন। শব্দটি জের-যুক্ত হতে পারে, লি-কুল্লি আওয়াবিন-এর কুল্ল-এর অনুসরণে: প্রত্যেক প্রত্যাবর্তনকারীর জন্য, যে ভয় করেছে। অথবা পেশ-যুক্ত হতে পারে, শর্তের অর্থ বহনকারী নতুন বাক্যের শুরু হিসেবে: যে না দেখে দয়াময়কে ভয় করেছে, তাকে বলা হবে, জান্নাতে প্রবেশ কর। তখন ৫০:৩৪ আয়াতের 'শান্তির সঙ্গে এতে প্রবেশ কর' হবে সেই শর্তের জবাব, যার আগে 'বলা হবে' কথাটি উহ্য।"
+          },
+          {
+            "en": "Al-Qurtubi adds a further option. In the genitive, man is either a substitute for li-kulli awwabin hafiz or a description of awwab. The nominative is also allowed, as a fresh start, with enter it as the predicate and the answer of the condition dropped: so it will be said to them, enter it. Al-Baghawi names only one analysis, the genitive as a description of awwab. On every analysis the verse describes the same people as 50:32 and stands between the promise and the door of 50:34.",
+            "bn": "কুরতুবী আরেকটি সম্ভাবনা যোগ করেন। জের-যুক্ত হলে মান হয় লি-কুল্লি আওয়াবিন হাফীয-এর বদল, নয়তো আওয়াব-এর বিশেষণ। পেশও বৈধ, নতুন বাক্যের শুরু হিসেবে। তখন 'এতে প্রবেশ কর' হবে বিধেয়, আর শর্তের জবাব থাকবে উহ্য: অতএব তাদের বলা হবে, এতে প্রবেশ কর। বাগাভী শুধু একটি বিশ্লেষণ উল্লেখ করেন: জের, আওয়াব-এর বিশেষণ হিসেবে। যে বিশ্লেষণই নিন, আয়াতটি ৫০:৩২ আয়াতের সেই মানুষদেরই বর্ণনা দেয়, আর দাঁড়িয়ে থাকে ওয়াদা ও ৫০:৩৪ আয়াতের দরজার মাঝখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Before the Meeting",
+          "bn": "সাক্ষাতের আগের ভয়"
+        },
+        "p": [
+          {
+            "en": "What does bil-ghayb, in the unseen, mean here? A first line of reading takes the unseen to be Allah Himself and the meeting that has not yet come. At-Tabari says: whoever feared Allah in this world, before he meets Him, and so obeyed Him and followed His command. Al-Baghawi: whoever feared the Most Merciful and obeyed Him in the unseen, without having seen Him. Al-Qurtubi: fear in the unseen is that you fear Him while you have not seen Him. The Muyassar keeps to this world: whoever feared Allah in the dunya.",
+            "bn": "এখানে বিল-গাইব, অর্থাৎ অদৃশ্যে, কথাটির মানে কী? এক ধারার ব্যাখ্যায় অদৃশ্য হলেন স্বয়ং আল্লাহ, আর সেই সাক্ষাৎ যা এখনো আসেনি। তাবারী বলেন: যে দুনিয়াতে, তাঁর সঙ্গে সাক্ষাতের আগেই, আল্লাহকে ভয় করেছে, ফলে তাঁর আনুগত্য করেছে আর তাঁর হুকুম মেনে চলেছে। বাগাভী বলেন: যে দয়াময়কে ভয় করেছে আর অদৃশ্যে তাঁর আনুগত্য করেছে, তাঁকে না দেখেই। কুরতুবী বলেন: অদৃশ্যে ভয় মানে তাঁকে না দেখেও তাঁকে ভয় করা। মুয়াসসার দুনিয়ার কথাতেই থাকে: যে দুনিয়াতে আল্লাহকে ভয় করেছে।"
+          },
+          {
+            "en": "As-Sa'di gives this reading a sharper edge. Fearing Allah in the unseen, he says, may be meant the way believing in the unseen is meant, as the opposite of the witnessed: the state in which faith and fear become compelled rather than chosen, when the punishment is seen with the eyes and the signs of Allah arrive. He adds: and this is the apparent meaning. On his account the verse praises a fear chosen while nothing forced it.",
+            "bn": "সা'দী এ ব্যাখ্যাকে আরও ধারালো করেন। তাঁর মতে, অদৃশ্যে আল্লাহকে ভয় করার অর্থ হতে পারে অদৃশ্যে ঈমান আনার মতোই, অর্থাৎ প্রত্যক্ষের বিপরীত। প্রত্যক্ষ সেই অবস্থা, যখন শাস্তি চোখের সামনে দেখা যায় আর আল্লাহর নিদর্শনগুলো এসে পড়ে। তখন ঈমান আর ভয় আর বেছে নেওয়ার বিষয় থাকে না, বাধ্যতামূলক হয়ে যায়। তিনি যোগ করেন: এটাই আয়াতের বাহ্যিক অর্থ। তাঁর হিসাবে আয়াতটি প্রশংসা করছে সেই ভয়ের, যা কোনো চাপ ছাড়াই মানুষ নিজে বেছে নিয়েছিল।"
+          },
+          {
+            "en": "Read this way, the verse points back across the surah. In 50:22 a man at the gathering is told that he was heedless of this, that his covering has been removed, and that his sight today is sharp. The fear that counts in 50:33 is the fear that came before the covering was removed. That link between the two verses is this article's own reading, not as-Sa'di's; he names no verse. The same fear, felt a moment too late, is no longer fear of the unseen.",
+            "bn": "এভাবে পড়লে আয়াতটি সূরার পেছনের দিকে ইঙ্গিত করে। ৫০:২২ আয়াতে হাশরের এক মানুষকে বলা হয়, সে এ বিষয়ে উদাসীন ছিল, তার পর্দা সরিয়ে দেওয়া হয়েছে, আর আজ তার দৃষ্টি তীক্ষ্ণ। ৫০:৩৩ আয়াতে যে ভয়ের দাম, তা পর্দা সরার আগের ভয়। দুই আয়াতের এই সংযোগ এ প্রবন্ধের নিজস্ব পাঠ, সা'দীর নয়। তিনি কোনো আয়াতের নাম নেন না। একই ভয় এক মুহূর্ত দেরিতে এলে তা আর অদৃশ্যের ভয় থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Curtain Is Lowered",
+          "bn": "পর্দা নামানোর পর"
+        },
+        "p": [
+          {
+            "en": "A second line of reading takes the unseen to be the eyes of people. Ibn Kathir says: whoever feared Allah in his secret, where no one sees him except Allah. Al-Baghawi and al-Qurtubi both relay from ad-Dahhak and as-Suddi: it means in seclusion, when no one sees him. Both also relay al-Hasan, who puts it as a scene: when he lets down the curtain and shuts the door. Both set this report beside their own gloss of fearing Him unseen, so the two readings sit side by side.",
+            "bn": "দ্বিতীয় ধারার ব্যাখ্যায় অদৃশ্য মানে মানুষের চোখের আড়াল। ইবন কাসীর বলেন: যে গোপনে আল্লাহকে ভয় করেছে, যেখানে আল্লাহ ছাড়া কেউ তাকে দেখে না। বাগাভী ও কুরতুবী দুজনেই দাহহাক ও সুদ্দী থেকে বর্ণনা করেন: এর মানে নির্জনে, যখন কেউ তাকে দেখছে না। দুজনেই হাসান থেকেও বর্ণনা আনেন, যিনি কথাটিকে একটি দৃশ্যে বলেন: যখন সে পর্দা নামিয়ে দেয় আর দরজা বন্ধ করে। বাগাভী ও কুরতুবী এ বর্ণনা রাখেন তাঁদের নিজেদের ব্যাখ্যার পাশে, যেখানে অর্থ তাঁকে না দেখে ভয় করা। তাই তাঁদের কাছে দুটি পাঠ পাশাপাশিই থাকে।"
+          },
+          {
+            "en": "As-Sa'di also gives this reading, before the reading he calls apparent. Fear in the unseen, he says, is fear while hidden from people's eyes, and this is real fear. Fear shown while people look on and are present may be for show and for reputation, and then it proves nothing. The fear that benefits is fear of Allah in the unseen and the witnessed alike. As-Sa'di thus holds both, calling the previous section's reading the apparent sense; Ibn Kathir and the reports from ad-Dahhak, as-Suddi and al-Hasan give only this reading.",
+            "bn": "সা'দীও এ পাঠটি দেন, যেটিকে তিনি বাহ্যিক অর্থ বলেন তার আগেই। তাঁর ভাষায়, অদৃশ্যে ভয় মানে মানুষের চোখের আড়ালে থাকা অবস্থায় ভয়, আর এটাই আসল ভয়। মানুষ যখন দেখছে, সামনে উপস্থিত আছে, তখনকার ভয় লোক দেখানো আর সুনামের জন্যও হতে পারে। তখন তা ভয়ের প্রমাণ দেয় না। উপকারী ভয় হল অদৃশ্যে ও প্রকাশ্যে, দুই অবস্থাতেই আল্লাহকে ভয় করা। অর্থাৎ সা'দী দুটিই রাখেন, তবে বাহ্যিক অর্থের মর্যাদা দেন আগের অংশের পাঠটিকে। ইবন কাসীর এবং দাহহাক, সুদ্দী ও হাসানের বর্ণনা দেয় শুধু এই পাঠটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fearing the One Who Is Merciful",
+          "bn": "যিনি দয়াময়, তাঁকেই ভয়"
+        },
+        "p": [
+          {
+            "en": "The verse calls the Lord who is feared ar-Rahman, the Most Merciful. Of the commentaries fetched for this verse, none stops to say why this name stands here. At-Tabari, Ibn Kathir and the Muyassar simply restate the phrase as whoever feared Allah. As-Sa'di comes closest. He glosses man khashiya ar-Rahman as a person who feared Him in the manner of someone who knows his Lord and hopes for His mercy. In his gloss the fear already carries hope inside it.",
+            "bn": "আয়াতটি যাঁকে ভয় করা হয়, তাঁর নাম নেয় আর-রহমান, পরম দয়াময়। এ আয়াতের জন্য সংগৃহীত তাফসীরগুলোর কোনোটিই থেমে বলে না, এখানে ঠিক এ নামটি কেন। তাবারী, ইবন কাসীর ও মুয়াসসার কথাটিকে সোজা বলে দেন: যে আল্লাহকে ভয় করেছে। সবচেয়ে কাছে আসেন সা'দী। মান খাশিয়ার রহমান-এর ব্যাখ্যায় তিনি বলেন: যে তাঁকে ভয় করেছে এমনভাবে, যেভাবে করে সেই লোক যে নিজের রবকে চেনে আর তাঁর রহমতের আশা রাখে। তাঁর ব্যাখ্যায় ভয়ের ভেতরেই আশা বসে আছে।"
+          },
+          {
+            "en": "What follows is this article's own observation, not a commentator's. The verse could have named a name of might or of punishment; it names the name of mercy. Fear of a merciful Lord is not the dread of a tyrant. It looks more like the fear of losing what has been given, or of meeting kindness with ingratitude. And a fear that knows its Lord is merciful is the kind that can turn back to Him instead of running away, which is exactly what the second half of the verse describes.",
+            "bn": "এরপরের কথাটুকু এ প্রবন্ধের নিজস্ব পর্যবেক্ষণ, কোনো তাফসীরকারের নয়। আয়াতটি চাইলে প্রতাপ বা শাস্তির কোনো নাম নিতে পারত। নিয়েছে রহমতের নাম। দয়াময় রবের ভয় কোনো জালিমের আতঙ্ক নয়। তা বরং অনেকটা পাওয়া জিনিস হারানোর ভয়, কিংবা দয়ার জবাবে অকৃতজ্ঞতা দেখানোর ভয়। আর যে ভয় জানে তার রব দয়াময়, সে ভয় পালিয়ে যায় না, তাঁর দিকে ফিরে আসে। আয়াতের দ্বিতীয় অংশ ঠিক এটাই বর্ণনা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tears in an Empty Room",
+          "bn": "নির্জন ঘরের অশ্রু"
+        },
+        "p": [
+          {
+            "en": "On whoever feared the Most Merciful unseen, Ibn Kathir adds: as in his saying, peace be upon him, and a man who remembered Allah alone, and his eyes overflowed. He quotes only that clause. It belongs to a longer hadith in Sahih al-Bukhari, number 660, narrated by Abu Hurayrah: \"Allah will give shade, to seven, on the Day when there will be no shade but His.\" The seventh of them, in that narration, is \"a person who remembers Allah in seclusion and his eyes are then flooded with tears.\"",
+            "bn": "যে না দেখে দয়াময়কে ভয় করেছে, এ কথার ব্যাখ্যায় ইবন কাসীর যোগ করেন: যেমন তাঁর বাণী, তাঁর উপর শান্তি বর্ষিত হোক, আর এক ব্যক্তি যে নির্জনে আল্লাহকে স্মরণ করল আর তার দুচোখ উপচে পড়ল। তিনি শুধু এ অংশটুকুই উদ্ধৃত করেন। অংশটি সহীহ বুখারীর ৬৬০ নম্বর হাদীসের, যা আবু হুরায়রা (রাঃ) বর্ণনা করেছেন: \"যেদিন আল্লাহর ছায়া ছাড়া আর কোনো ছায়া থাকবে না, সেদিন আল্লাহ সাত ব্যক্তিকে তাঁর ছায়া দেবেন।\" সে বর্ণনায় এই সাতটি শ্রেণির সপ্তম হল \"এমন ব্যক্তি, যে নির্জনে আল্লাহকে স্মরণ করে আর তার দুচোখ অশ্রুতে ভেসে যায়।\""
+          },
+          {
+            "en": "Two cautions. The hadith itself does not mention this verse; the link is Ibn Kathir's comparison, not a report that the Prophet ﷺ explained the verse with it. No other fetched commentary attaches a hadith to 50:33. And the same narration also counts a man who refuses a woman of rank and beauty and says, I am afraid of Allah, and a man who gives charity so secretly that his left hand does not know what his right hand gives. That these too are fear in the unseen is this article's observation; Ibn Kathir cites only the man who wept.",
+            "bn": "দুটি সতর্কতা। হাদীসটি নিজে এ আয়াতের কথা বলে না। সংযোগটা ইবন কাসীরের তুলনা, এমন কোনো বর্ণনা নয় যে নবী ﷺ এ হাদীস দিয়ে আয়াতটি ব্যাখ্যা করেছেন। সংগৃহীত আর কোনো তাফসীর ৫০:৩৩ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করে না। আর একই বর্ণনায় আরও আছে সেই ব্যক্তি, যাকে উচ্চ মর্যাদার সুন্দরী নারী ডাকে আর সে বলে, আমি আল্লাহকে ভয় করি। আছে সেই ব্যক্তিও, যে এত গোপনে সদকা করে যে তার ডান হাত কী দিল বাঁ হাত জানে না। এরাও অদৃশ্যে ভয়ের নমুনা, এটা এ প্রবন্ধের পর্যবেক্ষণ। ইবন কাসীর উদ্ধৃত করেন শুধু সেই কান্নারত ব্যক্তিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Heart That Turns Back",
+          "bn": "যে অন্তর ফিরে আসে"
+        },
+        "p": [
+          {
+            "en": "Then the second act: wa-ja'a bi-qalbin munib, and came with a heart that turns. At-Tabari explains: he came to Allah with a heart repenting of its sins, returning from what Allah dislikes to what pleases Him. He relays from Qatada that munib means turning to his Lord, facing towards Him. The Muyassar has a heart repenting of its sins. As-Sa'di describes a heart marked by turning to its Master, whose motives are drawn towards what pleases Him. The word in their hands is about direction: away from sin and towards Allah, again and again.",
+            "bn": "এরপর দ্বিতীয় কাজ: ওয়া জাআ বিকালবিম মুনীব, আর সে এল ফেরা অন্তর নিয়ে। তাবারী ব্যাখ্যা করেন: সে আল্লাহর কাছে এল এমন অন্তর নিয়ে, যা নিজের গুনাহ থেকে তওবা করেছে, আল্লাহ যা অপছন্দ করেন তা ছেড়ে ফিরে এসেছে যা তাঁকে খুশি করে তার দিকে। তিনি কাতাদা থেকে বর্ণনা করেন: মুনীব মানে নিজের রবের দিকে ফেরা, তাঁর দিকে মুখ করা। মুয়াসসারে আছে গুনাহ থেকে তওবাকারী অন্তর। সা'দী বর্ণনা দেন এমন অন্তরের, যার পরিচয় নিজের মালিকের দিকে ফিরে যাওয়া, আর যার সব টান তাঁর সন্তুষ্টির দিকে। তাঁদের হাতে শব্দটি দিকের কথা বলে: গুনাহ থেকে সরে আল্লাহর দিকে, বারবার।"
+          },
+          {
+            "en": "Al-Qurtubi gives two glosses: turned towards obedience, and, it is said, sincere. Al-Baghawi joins them: sincere, turned towards the obedience of Allah. Al-Qurtubi then quotes Abu Bakr al-Warraq, and Ma'arif al-Qur'an quotes him too: the sign of the munib is that he knows the sanctity owed to Allah, holds to Him as his patron, is humble before His majesty, and leaves the desire of his own self. That last clause is the practical test. A turning heart is known by what it lets go of, not only by what it says.",
+            "bn": "কুরতুবী দুটি ব্যাখ্যা দেন: আনুগত্যের দিকে মুখ করা, আর বলা হয়েছে, মুখলিস বা খাঁটি। বাগাভী দুটিকে জুড়ে দেন: খাঁটি, আল্লাহর আনুগত্যের দিকে মুখ করা। এরপর কুরতুবী আবু বকর আল-ওয়াররাকের কথা উদ্ধৃত করেন, আর মাআরিফুল কুরআনও তাঁকে উদ্ধৃত করে: মুনীবের আলামত হল, সে আল্লাহর মর্যাদা চেনে, তাঁকেই অভিভাবক বলে আঁকড়ে থাকে, তাঁর মহিমার সামনে বিনয়ী থাকে, আর নিজের নফসের খেয়ালখুশি ছেড়ে দেয়। শেষ কথাটাই হাতে-কলমে কাজের। ফেরা অন্তর চেনা যায় সে কী ছেড়ে দেয় তা দিয়ে, শুধু মুখের কথা দিয়ে নয়।"
+          },
+          {
+            "en": "The surah has used this word before. In 50:8 the heavens, the earth and the rain are called insight and a reminder for every servant who is munib. The same word now describes the heart that arrives. And awwab in 50:32 is also a word of returning. Reading these three as one thread through Qaf is this article's observation, not a commentator's. It suggests that the heart which turned at the signs is the heart which is welcomed at the end.",
+            "bn": "সূরাটি এ শব্দ আগেও ব্যবহার করেছে। ৫০:৮ আয়াতে আকাশ, পৃথিবী আর বৃষ্টিকে বলা হয়েছে প্রত্যেক মুনীব বান্দার জন্য অন্তর্দৃষ্টি ও উপদেশ। একই শব্দ এখন বর্ণনা করছে সেই অন্তরকে যা এসে পৌঁছায়। আর ৫০:৩২ আয়াতের আওয়াব শব্দটিও ফিরে আসার শব্দ। সূরা কাফের ভেতর দিয়ে এ তিনটিকে একই সুতোয় পড়া এ প্রবন্ধের পর্যবেক্ষণ, কোনো তাফসীরকারের নয়। পড়াটা ইঙ্গিত দেয়, যে অন্তর নিদর্শন দেখে ফিরেছিল, শেষে সে অন্তরকেই স্বাগত জানানো হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Coming to Him With It",
+          "bn": "সেই অন্তর নিয়ে তাঁর কাছে"
+        },
+        "p": [
+          {
+            "en": "Came where, and when? Ibn Kathir says: he met Allah on the Day of Resurrection with a sound heart, turning to Him, humble before Him. The Muyassar also places the arrival at the meeting on the Day of Resurrection, and at-Tabari says he came to Allah. Al-Qurtubi, speaking in his own voice, adds that the turning heart may be the sound heart of 26:89, except whoever comes to Allah with a sound heart, and closes with and Allah knows best. So two commentators set the two adjectives, munib and salim, side by side.",
+            "bn": "কোথায় এল, কখন? ইবন কাসীর বলেন: সে কিয়ামতের দিন আল্লাহর সঙ্গে সাক্ষাৎ করল সুস্থ অন্তর নিয়ে, যা তাঁর দিকে ফেরা, তাঁর সামনে বিনীত। মুয়াসসারও আগমনটিকে রাখে কিয়ামতের দিনের সাক্ষাতে, আর তাবারী বলেন, সে আল্লাহর কাছে এল। কুরতুবী নিজের পক্ষ থেকে যোগ করেন, ফেরা অন্তর হয়তো ২৬:৮৯ আয়াতের সুস্থ অন্তরই, যেখানে বলা হয়েছে, তবে যে আল্লাহর কাছে সুস্থ অন্তর নিয়ে আসে। আর তিনি শেষ করেন 'আল্লাহই ভালো জানেন' বলে। এভাবে দুজন তাফসীরকার মুনীব আর সালীম, দুটি বিশেষণকে পাশাপাশি রাখেন।"
+          },
+          {
+            "en": "Then comes 50:34: enter it in peace; this is the Day of eternity. Ibn Kathir, in the abridged English, says they will have security from the punishment of Allah and the angels will greet them with salam, according to Qatada's explanation, and that they will remain in Paradise forever. So 50:33 sits between the promise and the invitation. What a person carries to that door was built before the Day; the verse only reads out what is already there.",
+            "bn": "তারপর আসে ৫০:৩৪ আয়াত: শান্তির সঙ্গে এতে প্রবেশ কর, এটা চিরস্থায়িত্বের দিন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কাতাদার ব্যাখ্যা অনুসারে বলে, তারা আল্লাহর শাস্তি থেকে নিরাপত্তা পাবে আর ফেরেশতারা তাদের সালাম জানাবে। সেখানে এও আছে যে তারা চিরকাল জান্নাতে থাকবে। অর্থাৎ ৫০:৩৩ আয়াত বসেছে ওয়াদা আর আমন্ত্রণের মাঝখানে। সেই দরজায় মানুষ যা বয়ে নিয়ে যায়, তা তৈরি হয়েছিল ওই দিনের আগেই। আয়াতটি শুধু পড়ে শোনায় যা আগে থেকেই আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fear No One Can Inspect",
+          "bn": "যাচাইয়ের বাইরের ভয়"
+        },
+        "p": [
+          {
+            "en": "Because the fear this verse praises is by its nature hidden, the verse gives no one a way to grade another person's fear, or to say which living person belongs to the company it describes. As-Sa'di's warning cuts the other way: fear put on display, where people are watching, may be for show. The verse is a mirror for whoever reads it. Its question is not whether others fear Allah in private, but whether I do.",
+            "bn": "আয়াতটি যে ভয়ের প্রশংসা করে, তা স্বভাবতই গোপন। তাই অন্যের ভয় মাপার কোনো উপায় আয়াতটি কাউকে দেয় না। কোন জীবিত মানুষ তার বর্ণিত দলের অন্তর্ভুক্ত, তা বলার অধিকারও দেয় না। সা'দীর সতর্কবাণী বরং উল্টো দিকে কাটে: মানুষের চোখের সামনে প্রদর্শিত ভয় লোক দেখানোও হতে পারে। আয়াতটি পাঠকের জন্য আয়না। তার প্রশ্ন এ নয় যে অন্যরা গোপনে আল্লাহকে ভয় করে কি না। প্রশ্ন হল, আমি করি কি না।"
+          },
+          {
+            "en": "In practice, the verse asks for two things that only the self can see. One is the shut door: a room, a screen, an hour where no one would ever know, and the choice made there for Allah's sake alone. The other is the turning: not a heart that never slips, but one that comes back quickly when it does, leaving the desire it was following. The verse puts both in the past tense; they are built now. Fear the Most Merciful there, hoping in His mercy, and keep returning, so that the heart you bring is one that has practised turning.",
+            "bn": "বাস্তবে আয়াতটি দুটি জিনিস চায়, যা শুধু নিজেই দেখা যায়। একটি হল বন্ধ দরজা: একটি ঘর, একটি পর্দা, একটি সময়, যখন কেউ কোনোদিন জানবে না। সেখানে শুধু আল্লাহর জন্য যে সিদ্ধান্ত নেওয়া হয়, সেটাই। অন্যটি হল ফিরে আসা। এমন অন্তর নয় যে কখনো পিছলায় না, বরং পিছলালে দ্রুত ফিরে আসে আর যে খেয়ালের পেছনে ছুটছিল তা ছেড়ে দেয়। আয়াত দুটিকেই বলে অতীত কালে, অথচ দুটিই গড়া হয় এখন। সেখানে দয়াময়কে ভয় করুন তাঁর রহমতের আশা রেখে, আর বারবার ফিরে আসুন, যাতে যে অন্তর নিয়ে যাবেন তা ফিরে আসায় অভ্যস্ত।"
+          }
+        ]
+      }
+    ]
+  },
   "50:37": {
     "sections": [
       {

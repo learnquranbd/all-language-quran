@@ -27349,6 +27349,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Look at the ground you stand on, the mountains that steady it and the beauty growing from it, and let them remind you of the One who will raise the dead.",
     "lessonBn": "যে মাটিতে আপনি দাঁড়িয়ে আছেন, যে পাহাড় তাকে স্থির রাখে আর যে সৌন্দর্য তা থেকে জন্মায়, সেগুলো দেখে মনে করুন সেই সত্তাকে, যিনি মৃতদের আবার জীবিত করবেন।"
+  },
+  "50:33": {
+    "reflectionEn": "Paradise is brought near, and a voice names who it was promised to: everyone who kept turning back and kept guard, whoever feared the Most Merciful unseen and came with a heart that turned to Him. Both verbs are in the past. By the time the description is read out, the fearing and the turning are already done. The fear that counts here is not the fear that grips everyone once the unseen is laid open. It is the fear that worked while nothing could be seen: in a room with the door shut, with no one watching but Allah. And it sits beside His mercy, not against it. What does my heart do when the door is closed?",
+    "reflectionBn": "জান্নাতকে কাছে আনা হয়, আর একটি কণ্ঠ জানিয়ে দেয় এর ওয়াদা কাদের জন্য ছিল: যারা বারবার ফিরে এসেছে আর নিজেকে পাহারা দিয়েছে, যারা না দেখে দয়াময়কে ভয় করেছে আর তাঁর দিকে ফেরা অন্তর নিয়ে এসেছে। দুটি ক্রিয়াই অতীত কালের। গুণগুলো যখন পড়ে শোনানো হয়, তখন ভয় করা আর ফিরে আসার কাজ শেষ হয়ে গেছে। এখানে যে ভয়ের দাম, তা সেই ভয় নয় যা অদৃশ্য চোখের সামনে খুলে গেলে সবাইকে পেয়ে বসে। এ সেই ভয়, যা কাজ করেছে যখন কিছুই দেখা যেত না: দরজা বন্ধ ঘরে, যেখানে আল্লাহ ছাড়া কেউ দেখছে না। আর এ ভয় তাঁর রহমতের পাশে বসে, তার বিরুদ্ধে নয়। দরজা বন্ধ হলে আমার অন্তর কী করে?",
+    "pointsEn": [
+      "What do I do differently when I am certain no one will ever find out, and what does that difference say about whom I really fear?",
+      "Does my fear of Allah grow out of knowing Him and hoping for His mercy, or out of a picture of Him that leaves mercy out?",
+      "Which habit, done only in private, would I be ashamed to carry with me to the meeting with Him?",
+      "When did my heart last turn back to Him after a sin, and how long did I wait before turning?",
+      "If my heart were described today in the words that will be read out on that Day, which word would fit and which would not?"
+    ],
+    "pointsBn": [
+      "কেউ কোনোদিন জানবে না, এ ব্যাপারে নিশ্চিত হলে আমি কী অন্যভাবে করি? আর সেই পার্থক্য বলে দেয়, আসলে আমি কাকে ভয় করি?",
+      "আল্লাহর প্রতি আমার ভয় কি তাঁকে চেনা আর তাঁর রহমতের আশা থেকে জন্মায়, নাকি এমন এক ধারণা থেকে যেখানে রহমতের কোনো জায়গা নেই?",
+      "শুধু একা থাকলে করি এমন কোন অভ্যাস তাঁর সঙ্গে সাক্ষাতের দিনে সঙ্গে নিয়ে যেতে আমার লজ্জা লাগবে?",
+      "শেষ কবে কোনো গুনাহর পর আমার অন্তর তাঁর দিকে ফিরেছে? আর ফিরতে আমি কত দেরি করেছিলাম?",
+      "সেদিন যে কথাগুলো পড়ে শোনানো হবে, আজ যদি সেগুলো দিয়েই আমার অন্তরের বর্ণনা দেওয়া হয়, কোন কথা খাটবে আর কোনটা খাটবে না?"
+    ],
+    "lessonEn": "Fear Allah where only He sees you, as One whose mercy you hope for, and keep turning your heart back to Him until you meet Him.",
+    "lessonBn": "যেখানে শুধু আল্লাহ আপনাকে দেখছেন, সেখানে তাঁকে ভয় করুন, এমন একজন হিসেবে যাঁর রহমতের আশা আপনি করেন। আর তাঁর সঙ্গে সাক্ষাৎ পর্যন্ত অন্তরকে বারবার তাঁর দিকে ফিরিয়ে আনুন।"
   }
 };
 
