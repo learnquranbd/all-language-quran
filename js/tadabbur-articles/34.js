@@ -1758,5 +1758,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "34:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "Belief Spoken Too Late",
+          "bn": "দেরিতে মুখে আনা ঈমান"
+        },
+        "p": [
+          {
+            "en": "Wa-qalu amanna bihi: and they will say, we believe in it. The scene began one verse earlier. In 34:51 the Prophet ﷺ is told: if you could see when they are terrified, with no escape, seized from a place close by. Now the same people speak, and what they say is the very sentence they refused for years. The verse lets them finish it, then asks a single question: wa-anna lahumu at-tanawushu min makanin ba'id, and how can they reach it from a place far away?",
+            "bn": "ওয়া কালূ আমান্না বিহী: আর তারা বলবে, আমরা এতে ঈমান আনলাম। দৃশ্যটা শুরু হয়েছে এক আয়াত আগে। ৩৪:৫১ আয়াতে নবী ﷺ-কে বলা হচ্ছে: তুমি যদি দেখতে, যখন তারা আতঙ্কে কাঁপবে, পালানোর পথ থাকবে না, আর একেবারে কাছের জায়গা থেকে তাদের ধরে ফেলা হবে। এবার সেই লোকেরাই মুখ খোলে। বছরের পর বছর যে কথাটা তারা মানতে চায়নি, ঠিক সেটাই এখন তাদের মুখে। আয়াত তাদের কথাটা শেষ করতে দেয়, তারপর একটিমাত্র প্রশ্ন রাখে: ওয়া আন্না লাহুমুত তানাউশু মিম মাকানিম বাঈদ, এত দূরের জায়গা থেকে তারা তার নাগাল পাবে কী করে?"
+          },
+          {
+            "en": "At-Tabari takes the speakers to be the idolaters at the moment they saw Allah's punishment with their own eyes, and he cites Qatada for the same timing: they said it then, when they saw the punishment. As-Sa'di keeps the frame just as tight: they said it in that state, we believe in Allah, and we affirm what we used to deny. Nothing in the verse calls their words false. What it names is not a lack of sincerity but a problem of place. A sentence can be true and still be said where it no longer counts.",
+            "bn": "তাবারীর মতে বক্তারা হলো সেই মুশরিকেরা, যখন তারা আল্লাহর আযাব নিজের চোখে দেখে ফেলেছে। একই সময়ের কথা তিনি কাতাদা থেকেও আনেন: তারা কথাটা বলেছিল তখনই, যখন আযাব দেখল। সা'দীও কাঠামোটা একই রকম আঁটসাঁট রাখেন। তাঁর ভাষায়, সেই অবস্থায় তারা বলল, আমরা আল্লাহর উপর ঈমান আনলাম, যা অস্বীকার করতাম তা মেনে নিলাম। আয়াতের কোথাও তাদের কথাকে মিথ্যা বলা হয়নি। সমস্যাটা আন্তরিকতার নয়, জায়গার। কথা সত্য হলেও এমন জায়গায় বলা হতে পারে, যেখানে তার আর কোনো দাম নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Believing in What, Exactly",
+          "bn": "ঈমান ঠিক কিসের উপর"
+        },
+        "p": [
+          {
+            "en": "The pronoun in bihi, in it, carries no name, and the commentators fill it in different ways. Al-Qurtubi takes it as the Qur'an, then lists three other early answers: Mujahid said in Allah, Mighty and Majestic; al-Hasan said in the resurrection; Qatada said in the Messenger ﷺ. Ma'arif al-Qur'an holds two of these together: the Qur'an, or the messenger of Allah to whom it was revealed. Each of these answers names something these same people had mocked or denied earlier in the surah.",
+            "bn": "বিহী, অর্থাৎ 'এতে', এই সর্বনামের সঙ্গে কোনো নাম জুড়ে দেওয়া হয়নি। তাফসীরকারেরা শূন্যস্থানটা পূরণ করেন ভিন্ন ভিন্নভাবে। কুরতুবী এটিকে কুরআন ধরেন, তারপর প্রথম যুগের আরও তিনটি মত তুলে ধরেন। মুজাহিদ বলেছেন, মহান ও মহিমান্বিত আল্লাহর উপর। হাসান বলেছেন, পুনরুত্থানের উপর। কাতাদা বলেছেন, রাসূল ﷺ-এর উপর। মাআরিফুল কুরআন দুটি মত একসঙ্গে রাখে: কুরআনের উপর, অথবা যে রাসূলের উপর তা নাযিল হয়েছে তাঁর উপর। লক্ষ করার বিষয়, প্রতিটি উত্তরেই এমন কিছুর নাম আসে, যা নিয়ে এই লোকেরাই সূরার আগের অংশে ঠাট্টা করেছে বা যাকে অস্বীকার করেছে।"
+          },
+          {
+            "en": "Others widen the circle rather than choose. At-Tabari glosses we believe in it as we believe in Allah, His Book and His Messenger, says the people of interpretation held the like, and cites Mujahid's we believe in Allah. Ibn Kathir has them say on the Day of Resurrection that they believe in Allah, His Books and His Messengers, and sets beside it 32:12: our Lord, we have seen and heard, so send us back and we will do righteous deeds; we are now certain. Al-Muyassar gives the same wide list.",
+            "bn": "কেউ কেউ একটি বেছে না নিয়ে পরিধিটা বড় করেন। তাবারী 'আমরা এতে ঈমান আনলাম' কথাটির ব্যাখ্যা দেন এভাবে: আমরা আল্লাহ, তাঁর কিতাব ও তাঁর রাসূলের উপর ঈমান আনলাম। তিনি বলেন, তাফসীরের আলেমরাও এমনটাই বলেছেন, আর প্রমাণ হিসেবে মুজাহিদের কথা আনেন: আমরা আল্লাহর উপর ঈমান আনলাম। ইবন কাসীরের বর্ণনায় কিয়ামতের দিন তারা বলবে, আমরা আল্লাহ, তাঁর কিতাবসমূহ ও তাঁর রাসূলদের উপর ঈমান আনলাম। এর পাশে তিনি রাখেন ৩২:১২ আয়াত: হে আমাদের রব, আমরা দেখলাম ও শুনলাম, এবার আমাদের ফিরিয়ে দিন, আমরা নেক আমল করব, এখন আমরা দৃঢ় বিশ্বাসী। মুয়াসসারও একই বড় তালিকা দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reaching for the Trough",
+          "bn": "চৌবাচ্চার নাগাল"
+        },
+        "p": [
+          {
+            "en": "At-tanawush is a word of reaching. Al-Qurtubi relays from Ibn as-Sikkit that when a man reaches for another to seize him by the head and beard, the Arabs say nashahu yanushuhu nawshan. He quotes a line of rajaz about a camel that reaches for the trough nawshan from above, and explains it: she takes the trough's water from above and drinks so deeply that the draught carries her across the open desert with no need of other water. From the same root, he adds, comes munawasha in battle, when the two sides draw close.",
+            "bn": "আত-তানাউশ নাগাল পাওয়ার শব্দ। কুরতুবী ইবনুস সিক্কীত থেকে বর্ণনা করেন: কেউ যখন কারও মাথা আর দাড়ি ধরে ফেলার জন্য হাত বাড়ায়, আরবরা বলে নাশাহূ ইয়ানূশুহূ নাওশা। এরপর তিনি রাজায ছন্দের একটি পঙক্তি আনেন, যেখানে এক উটনী উপর থেকে চৌবাচ্চার নাগাল পায়। ব্যাখ্যাও দেন তিনি: উটনীটি উপর থেকে চৌবাচ্চার পানি টেনে নেয়, আর এত গভীরভাবে পান করে যে সেই এক চুমুকেই সে খোলা মরুভূমি পার হয়ে যায়, আর কোনো পানির দরকার পড়ে না। তিনি আরও বলেন, একই ধাতু থেকে এসেছে যুদ্ধের মুনাওশা শব্দটি, যখন দুই পক্ষ পরস্পরের কাছাকাছি চলে আসে।"
+          },
+          {
+            "en": "At-Tabari adds that when two sides in war come close enough for their spears but have not yet clashed, it is said tanawasha al-qawm, and that nushtuhu means I took it from near. Ma'arif al-Qur'an draws the picture out: the word means to pick something up by stretching out the hand, and a person can pick up only what is near; if it is very far, it is out of reach. Ibn Kathir closes his explanation on the same image: there is no way for them, just as there is no way for a man to get a thing he reaches for from afar.",
+            "bn": "তাবারী যোগ করেন, যুদ্ধে দুই পক্ষ যখন বর্শার নাগালের মধ্যে চলে আসে অথচ এখনো সংঘর্ষ বাধেনি, তখন বলা হয় তানাওয়াশাল কাওম। আর নুশতুহূ মানে, আমি জিনিসটা কাছ থেকে নিলাম। মাআরিফুল কুরআন ছবিটা আরও খুলে বলে: শব্দটির অর্থ হাত বাড়িয়ে কিছু তুলে নেওয়া। হাত বাড়িয়ে কেবল কাছের জিনিসই তোলা যায়, খুব দূরে হলে তা নাগালের বাইরে। ইবন কাসীরও তাঁর ব্যাখ্যা শেষ করেন এই ছবিতে: তাদের জন্য আর কোনো পথ নেই, ঠিক যেমন দূর থেকে হাত বাড়ানো মানুষের পক্ষে জিনিসটা পাওয়ার কোনো পথ থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read With a Hamza",
+          "bn": "হামযা দিয়ে পড়লে"
+        },
+        "p": [
+          {
+            "en": "The word has two recognised readings. At-Tabari reports that most readers of Madina read at-tanawush without a hamza, meaning taking, while most readers of Kufa and Basra read at-tana'ush with a hamza, from a root he defines as slowness, holding back. With it comes his small contrast: tana'ashtu the thing means I took it from far off. Al-Qurtubi relays from Abu Ishaq the sense this reading yields: from where would they have movement towards what has already gone far away?",
+            "bn": "শব্দটির দুটি স্বীকৃত পাঠ আছে। তাবারী জানান, মদীনার অধিকাংশ কারী হামযা ছাড়া আত-তানাউশ পড়তেন, যার অর্থ নাগাল পাওয়া। আর কূফা ও বসরার অধিকাংশ কারী পড়তেন হামযাসহ আত-তানা'উশ, এমন এক ধাতু থেকে, যার অর্থ তাঁর ব্যাখ্যায় ধীরগতি, পিছিয়ে থাকা। এর সঙ্গে তিনি একটি ছোট্ট পার্থক্যও দেখান: তানা'আশতুশ শাই মানে, আমি জিনিসটা দূর থেকে নিলাম। কুরতুবী আবূ ইসহাক থেকে এই পাঠের অর্থ তুলে ধরেন: যা আগেই বহু দূরে সরে গেছে, তার দিকে এগোনোর শক্তি তারা কোথায় পাবে?"
+          },
+          {
+            "en": "Al-Qurtubi names the readers of the hamza as Abu Amr, al-Kisa'i, al-A'mash and Hamza; al-Baghawi names Abu Amr, Hamza, al-Kisa'i and Abu Bakr, and says the rest read a plain waw with no lengthening and no hamza. The hamza reading had a critic. Al-Qurtubi reports through an-Nahhas that Abu Ubayda thought it unlikely, since with a hamza the word means distance, and the verse would then ask: how can they have distance from a far place?",
+            "bn": "কুরতুবী হামযার কারীদের নাম বলেন আবূ আমর, কিসাঈ, আ'মাশ ও হামযা। বাগাভী বলেন আবূ আমর, হামযা, কিসাঈ ও আবূ বকর, আর জানান যে বাকিরা মদ ও হামযা ছাড়া খালি ওয়াও দিয়ে পড়েছেন। হামযার পাঠের একজন সমালোচকও ছিলেন। কুরতুবী নাহহাসের সূত্রে বর্ণনা করেন, আবূ উবাইদা এ পাঠকে দূরবর্তী মনে করতেন। তাঁর যুক্তি: হামযাসহ শব্দটির অর্থ দূরত্ব। তাহলে আয়াতের অর্থ দাঁড়াবে, দূরের জায়গা থেকে তারা দূরত্ব পাবে কী করে?"
+          },
+          {
+            "en": "An-Nahhas answers, in al-Qurtubi's report, that the reading is permissible and good and has two explanations in Arabic. In one, the root has no hamza, and the waw took one because its vowel is weak, as wuqqitat, from waqt, time, became uqqitat in 77:11; at-Tabari offers the same explanation. In the other, the root means slow movement. Al-Jawhari defines the hamzated word as lagging and growing distant, and al-Farra' says the two forms are close. At-Tabari's ruling covers both: two known readings, close in meaning, and whichever one reads is right.",
+            "bn": "কুরতুবীর বর্ণনায় নাহহাস এর জবাব দেন: পাঠটি বৈধ ও সুন্দর, আর আরবি ভাষায় এর দুটি ব্যাখ্যা আছে। প্রথম ব্যাখ্যায় মূল শব্দে হামযা নেই। ওয়াও-এর স্বর দুর্বল বলে তা হামযায় বদলে গেছে, ঠিক যেমন ৭৭:১১ আয়াতের উক্কিতাত শব্দটির আদি রূপ ওয়ুক্কিতাত, কারণ তা এসেছে ওয়াক্ত, অর্থাৎ সময় থেকে। তাবারীও একই ব্যাখ্যা দেন। দ্বিতীয় ব্যাখ্যায় ধাতুটির অর্থ ধীরে নড়াচড়া। জাওহারী হামযাসহ শব্দটির অর্থ বলেন পিছিয়ে পড়া ও দূরে সরে যাওয়া। আর ফাররা বলেন, দুই রূপের অর্থ কাছাকাছি। তাবারীর সিদ্ধান্ত দুই পাঠকেই ধারণ করে: দুটিই পরিচিত পাঠ, অর্থে কাছাকাছি, আর যে কোনোটিতে পড়লে পাঠক সঠিক পথেই আছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Reach Back For",
+          "bn": "যার দিকে তারা হাত বাড়ায়"
+        },
+        "p": [
+          {
+            "en": "If the word is reaching, what is being reached for? Ibn Abbas, in reports at-Tabari carries through more than one chain, said: they ask to be sent back, and it is no time for sending back. Al-Qurtubi gives the same from Ibn Abbas and ad-Dahhak, at-tanawush is the return, and glosses it: they seek a return to the world in order to believe, and how far off that is. As-Suddi, in al-Qurtubi, says it is repentance: they sought it when it had gone far, for repentance is accepted only in the world.",
+            "bn": "শব্দটি যদি নাগাল পাওয়ার হয়, তবে তারা নাগাল পেতে চায় কিসের? তাবারী একাধিক সনদে ইবন আব্বাস (রাঃ)-এর কথা আনেন: তারা ফিরে যেতে চাইবে, অথচ তখন ফেরার সময় নয়। কুরতুবী ইবন আব্বাস (রাঃ) ও দাহহাক থেকে একই কথা দেন যে তানাউশ মানে ফিরে যাওয়া। তাঁর ব্যাখ্যায়, তারা ঈমান আনার জন্য দুনিয়ায় ফিরে যেতে চায়, আর সে আশা কত দূরের! কুরতুবীর বর্ণনায় সুদ্দী বলেন, এটি তওবা। তওবা যখন দূরে সরে গেছে, তখন তারা তা চেয়েছে, অথচ তওবা কবুল হয় কেবল দুনিয়াতেই।"
+          },
+          {
+            "en": "Mujahid comes down in two forms. At-Tabari's chain has him say: the return. Ibn Kathir has him say: the taking of that. Ibn Kathir adds az-Zuhri, their reaching for faith while in the Hereafter, when the world has been cut off from them, and al-Hasan al-Basri: they sought the matter from where it cannot be reached, and reached for faith from a place far away. He gives Ibn Abbas too, they sought a return to the world and repentance from their state, and it is a time for neither, and says Muhammad ibn Ka'b al-Qurazi said the same.",
+            "bn": "মুজাহিদের কথা দুই রূপে পৌঁছেছে। তাবারীর সনদে তিনি বলেন: ফিরে যাওয়া। ইবন কাসীরের বর্ণনায় তিনি বলেন: সেটার নাগাল পাওয়া। ইবন কাসীর যুহরীর কথাও আনেন: আখিরাতে পৌঁছে ঈমানের দিকে হাত বাড়ানো, যখন দুনিয়ার সঙ্গে তাদের যোগ ছিন্ন হয়ে গেছে। হাসান বসরী বলেন: যেখান থেকে পাওয়া যায় না, সেখান থেকে তারা জিনিসটা চেয়েছে, দূরের জায়গা থেকে ঈমানের দিকে হাত বাড়িয়েছে। ইবন আব্বাস (রাঃ)-এর কথাও তিনি দেন: তারা দুনিয়ায় ফেরা আর নিজেদের অবস্থা থেকে তওবা চেয়েছে, অথচ এখন ফেরারও সময় নয়, তওবারও নয়। মুহাম্মাদ ইবন কা'ব কুরাযীও একই কথা বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Moment of Terror",
+          "bn": "কোন সময়ের আতঙ্ক"
+        },
+        "p": [
+          {
+            "en": "When is this said? The answer hangs on 34:51, and there the commentators genuinely differ. At-Tabari sets out the camps. Ibn Abbas and ad-Dahhak said it is punishment in this world. Ibn Zayd said it concerns the idolaters slain at Badr, and on our verse he glosses we believe in it as said after the killing. Sa'id, named by al-Qurtubi as Sa'id ibn Jubayr, said they are the army the earth swallows at al-Bayda', of whom one man is left to tell people what befell his companions. Al-Hasan said they are terrified on the Day of Resurrection, coming out of their graves.",
+            "bn": "কথাটা বলা হবে কখন? উত্তর নির্ভর করে ৩৪:৫১ আয়াতের উপর, আর সেখানে তাফসীরকারদের মধ্যে সত্যিকারের মতভেদ আছে। তাবারী মতগুলো সাজিয়ে দেন। ইবন আব্বাস (রাঃ) ও দাহহাক বলেছেন, এটি দুনিয়ার আযাব। ইবন যায়দ বলেছেন, এটি বদরে নিহত মুশরিকদের কথা। আমাদের আয়াতে 'আমরা এতে ঈমান আনলাম' কথাটিকেও তিনি নিহত হওয়ার পরের কথা বলে ব্যাখ্যা করেন। সাঈদ, কুরতুবী যাঁকে সাঈদ ইবন জুবাইর বলে চিনিয়েছেন, বলেছেন: এরা সেই বাহিনী, যাদের বায়দায় মাটি গিলে ফেলবে, আর তাদের একজনমাত্র বেঁচে থাকবে সঙ্গীদের পরিণতির খবর মানুষকে জানাতে। হাসান বলেছেন, কিয়ামতের দিন কবর থেকে বের হওয়ার সময় তারা আতঙ্কিত হবে।"
+          },
+          {
+            "en": "Al-Qurtubi adds the hour of death: their terror in this world when death descends on them, or some other of Allah's punishment, a meaning he reports from Ibn Abbas. He gives as-Suddi's Badr in sharper form, when they could neither flee nor turn back to repentance. Al-Baghawi records Ibn Abza's view that they were swallowed at al-Bayda'. On our verse itself, he offers two times for the words we believe in it, each introduced as it is said: at the point of despair, or at the resurrection.",
+            "bn": "কুরতুবী মৃত্যুর মুহূর্তটিও যোগ করেন: দুনিয়াতেই তাদের আতঙ্ক, যখন মৃত্যু বা আল্লাহর অন্য কোনো শাস্তি তাদের উপর নেমে আসে। এ অর্থ তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন। সুদ্দীর মতে বদরের কথাটা তিনি আরও স্পষ্ট করে আনেন: সেদিন তারা পালাতেও পারেনি, তওবার দিকে ফিরতেও পারেনি। বাগাভী ইবন আবযার মত লিখে রাখেন যে তাদের বায়দায় মাটিতে ধসিয়ে দেওয়া হয়েছিল। আর আমাদের আয়াতে 'আমরা এতে ঈমান আনলাম' কথাটির জন্য তিনি দুটি সময়ের কথা বলেন, দুটিই 'বলা হয়' দিয়ে শুরু: নিরাশ হয়ে পড়ার মুহূর্তে, অথবা পুনরুত্থানের সময়।"
+          },
+          {
+            "en": "Two of the commentators state a preference, and they do not agree. At-Tabari holds that the view nearest the plain text makes this Allah's threat to the idolaters of the Prophet's own people who denied him, since the verses before speak of them: if you could see them, Muhammad, terrified at the sight of Allah's punishment. Ibn Kathir holds that the sound view is the Day of Resurrection, the greatest calamity, while allowing that what the others mention is connected to it. Both positions stand here side by side, unresolved.",
+            "bn": "দুজন তাফসীরকার নিজেদের পছন্দের কথা বলেছেন, আর তাঁরা একমত নন। তাবারীর মতে আয়াতের বাহ্যিক অর্থের সবচেয়ে কাছের ব্যাখ্যা হলো, এটি নবী ﷺ-এর নিজের কওমের সেই মুশরিকদের প্রতি আল্লাহর হুঁশিয়ারি, যারা তাঁকে মিথ্যা বলেছিল। কারণ আগের আয়াতগুলো তাদের নিয়েই। অর্থাৎ, হে মুহাম্মাদ, তুমি যদি তাদের দেখতে, যখন আল্লাহর আযাব দেখে তারা আতঙ্কিত হবে। ইবন কাসীরের মতে সঠিক ব্যাখ্যা কিয়ামতের দিন, যা সবচেয়ে বড় মহাবিপদ। তবে অন্যরা যা বলেছেন, তাও এর সঙ্গে যুক্ত বলে তিনি মেনে নেন। দুটি মতই এখানে পাশাপাশি থাকল, কোনোটির পক্ষে রায় দেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report Without Footing",
+          "bn": "ভিত্তিহীন এক বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Under the army view, at-Tabari relays a long narration in the name of Hudhayfa ibn al-Yaman (RA), telling of strife, two armies sent out, and a swallowing at al-Bayda'. Al-Qurtubi quotes it as well, from his own book at-Tadhkira. Yet at-Tabari himself records what its transmitter Rawwad ibn al-Jarrah said when asked whether he had heard it from Sufyan ath-Thawri, read it to him, or heard it read to him: no, each time. Some people brought it to him, read it out, then went away narrating it from him.",
+            "bn": "বাহিনীর মতের অধীনে তাবারী হুযাইফা ইবনুল ইয়ামান (রাঃ)-এর নামে একটি দীর্ঘ বর্ণনা আনেন। তাতে আছে ফিতনা, দুটি বাহিনী পাঠানো, আর বায়দায় মাটিতে ধসে যাওয়ার কথা। কুরতুবীও নিজের গ্রন্থ আত-তাযকিরা থেকে বর্ণনাটি উদ্ধৃত করেন। অথচ তাবারী নিজেই লিখে রেখেছেন, বর্ণনাকারী রাওয়াদ ইবনুল জাররাহকে জিজ্ঞেস করা হয়েছিল: আপনি কি এটি সুফইয়ান সাওরী থেকে শুনেছেন? তাঁকে পড়ে শুনিয়েছেন? আপনার উপস্থিতিতে কি তাঁকে পড়ে শোনানো হয়েছে? প্রতিবারই তিনি বলেছেন, না। কিছু লোক বর্ণনাটি নিয়ে তাঁর কাছে এসেছিল, পড়ে শুনিয়েছিল, তারপর চলে গিয়ে তাঁর নামেই সেটি বর্ণনা করতে শুরু করে।"
+          },
+          {
+            "en": "Ibn Kathir is blunter. He says Ibn Jarir relayed, about an army swallowed between Makkah and Madina, a hadith that is fabricated entirely, and gave no warning of it, which he calls a strange thing from him. So this narration carries no weight here, and none of the commentaries read for these verses attaches a sound hadith to 34:52. One thing must be said plainly: the verses describe deniers at their reckoning, as the text describes them. They license nothing against any living person or community, and they name no army of any present day.",
+            "bn": "ইবন কাসীর আরও সোজাসুজি বলেন। তাঁর ভাষায়, মক্কা ও মদীনার মাঝখানে মাটিতে ধসে যাওয়া এক বাহিনী নিয়ে ইবন জারীর এমন একটি হাদীস এনেছেন, যা পুরোপুরি জাল, অথচ সে বিষয়ে কোনো সতর্কবাণী দেননি। তাঁর কাছ থেকে এটা বিস্ময়কর ও অদ্ভুত ব্যাপার। তাই এখানে এ বর্ণনার কোনো ওজন নেই। আর এ আয়াতগুলোর যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই ৩৪:৫২ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। একটি কথা সোজাসুজি বলা দরকার। আয়াতগুলো হিসাবের মুহূর্তে অস্বীকারকারীদের যে ছবি আঁকে, কেবল সেটুকুই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এগুলো কিছুরই অনুমতি দেয় না, আর বর্তমান কালের কোনো বাহিনীকেও চিহ্নিত করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Near Once, Far Now",
+          "bn": "একদিন কাছে, আজ দূরে"
+        },
+        "p": [
+          {
+            "en": "Read the three verses together and a pattern of distance appears. In 34:51 they are seized min makanin qarib, from a place near. In 34:52 they reach min makanin ba'id, from a place far. In 34:53 they had disbelieved in it before and used to hurl at the unseen, again min makanin ba'id. Ibn Kathir, commenting on 34:51 to 34:54 together, explains that hurling through Zayd ibn Aslam: by guessing. The far place from which they once threw conjecture is now the place from which they stretch out a hand.",
+            "bn": "তিনটি আয়াত একসঙ্গে পড়লে দূরত্বের একটা নকশা চোখে পড়ে। ৩৪:৫১ আয়াতে তাদের ধরা হয় মিম মাকানিন কারীব, কাছের জায়গা থেকে। ৩৪:৫২ আয়াতে তারা হাত বাড়ায় মিম মাকানিম বাঈদ, দূরের জায়গা থেকে। ৩৪:৫৩ আয়াতে বলা হয়, তারা আগেই তা অস্বীকার করেছিল, আর অদৃশ্যের দিকে ঢিল ছুঁড়ত, এখানেও মিম মাকানিম বাঈদ। ইবন কাসীর ৩৪:৫১ থেকে ৩৪:৫৪ পর্যন্ত একসঙ্গে ব্যাখ্যা করতে গিয়ে যায়দ ইবন আসলামের সূত্রে এই ছোঁড়ার অর্থ বলেন: আন্দাজে। যে দূর থেকে একসময় তারা অনুমানের ঢিল ছুঁড়ত, আজ সেখান থেকেই তারা হাত বাড়াচ্ছে।"
+          },
+          {
+            "en": "What is the far place? At-Tabari, with Mujahid in his chain, and al-Baghawi say: from the Hereafter to the world; al-Qurtubi says simply, from the Hereafter. At-Tabari explains why the place is called far. They said it at the Resurrection, and accepted repentance was only ever in the world; the world has gone and become far from the Hereafter. Ibn Kathir says they have reached the abode of the Hereafter, an abode of recompense, not an abode of trial; had they believed in the world, it would have benefited them.",
+            "bn": "দূরের জায়গাটা কী? তাবারী, তাঁর সনদে মুজাহিদ, আর বাগাভী বলেন: আখিরাত থেকে দুনিয়ার দিকে। কুরতুবী শুধু বলেন: আখিরাত থেকে। জায়গাটাকে কেন দূর বলা হলো, তাবারী তার কারণ বলেন। তারা কথাটা বলেছে কিয়ামতের দিন, আর কবুল হওয়ার মতো তওবা ছিল কেবল দুনিয়াতেই। দুনিয়া চলে গেছে, আখিরাত থেকে তা এখন অনেক দূরে। ইবন কাসীর বলেন, তারা পৌঁছে গেছে আখিরাতের ঘরে। সেটা প্রতিদানের ঘর, পরীক্ষার ঘর নয়। দুনিয়াতে ঈমান আনলে তা তাদের কাজে আসত।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari, carries the point to the deathbed: whoever repents at death has no repentance, and he recites 4:18, nor those who die while they are disbelievers. Al-Muyassar names the lost place outright: its place is the world, and there they disbelieved. As-Sa'di sets the mercy inside the warning: had they believed while it was possible, their faith would have been accepted. That is where the verse leaves its reader. The place of faith is the world, and whoever is reading this is still in it.",
+            "bn": "তাবারীর বর্ণনায় ইবন যায়দ কথাটাকে মৃত্যুশয্যা পর্যন্ত টেনে নেন: মৃত্যুর সময় যে তওবা করে, তার তওবা নেই। তারপর তিনি ৪:১৮ আয়াত পড়েন: আর তাদের জন্যও নয়, যারা কাফির অবস্থায় মারা যায়। মুয়াসসার হারানো জায়গাটার নাম সরাসরি বলে দেয়: ঈমানের জায়গা দুনিয়া, আর সেখানেই তারা কুফরি করেছে। সা'দী সতর্কবাণীর ভেতরেই রহমতের কথাটা রাখেন: সম্ভব থাকার সময় ঈমান আনলে তাদের ঈমান কবুল হতো। আয়াত পাঠককে এখানেই রেখে যায়। ঈমানের জায়গা এই দুনিয়া, আর যিনি এ লেখা পড়ছেন, তিনি এখনো এখানেই আছেন।"
+          }
+        ]
+      }
+    ]
   }
 });

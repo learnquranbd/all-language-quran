@@ -25349,6 +25349,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Wealth and children do not bring you near to Allah; faith and righteous deeds do, and their reward is multiplied. Measure your standing by these, not by what you own.",
     "lessonBn": "ধন-সম্পদ আর সন্তান আপনাকে আল্লাহর কাছে নিয়ে যায় না, নিয়ে যায় ঈমান আর নেক আমল, যার প্রতিদান বহুগুণ। নিজের মর্যাদা মাপুন এ দিয়ে, যা আছে তা দিয়ে নয়।"
+  },
+  "34:52": {
+    "reflectionEn": "In the verse before, they are terrified and seized from a place close by. Now, at last, they say it: we believe in it. The words are true; the timing is not. The Qur'an asks how they could reach it from so far away, and its word pictures a hand stretched out for something beyond the fingertips. Faith was once within arm's length, offered day after day by a warner they knew, and they kept answering not yet. The verse does not mock the words they finally say. It measures the distance. And it turns the question on me: what truth do I already accept in principle but keep for later, as though later were certain to be as near as now?",
+    "reflectionBn": "আগের আয়াতে তারা আতঙ্কে কাঁপছে, আর একেবারে কাছের জায়গা থেকে তাদের ধরে ফেলা হচ্ছে। এবার শেষমেশ তারা মুখে আনে: আমরা ঈমান আনলাম। কথাটা সত্য, কিন্তু সময়টা ভুল। কুরআন জিজ্ঞেস করে, এত দূর থেকে তারা তার নাগাল পাবে কী করে? যে শব্দটি এখানে এসেছে, তাতে ভেসে ওঠে আঙুলের ডগার একটু বাইরে থাকা জিনিসের দিকে বাড়ানো একটি হাতের ছবি। ঈমান একসময় হাতের নাগালেই ছিল। চেনা এক সতর্ককারী দিনের পর দিন তা সামনে এনে দিয়েছেন, আর তারা বারবার বলেছে, এখন নয়। শেষবেলায় বলা কথাটিকে আয়াত ঠাট্টা করে না, দূরত্বটা মেপে দেখায়। তারপর প্রশ্নটা ঘুরিয়ে দেয় আমার দিকে: কোন সত্য আমি মনে মনে মেনে নিয়েছি, অথচ পরে করব বলে ফেলে রেখেছি, যেন পরের সময়টা এখনকার মতোই কাছে থাকবে বলে নিশ্চিত?",
+    "pointsEn": [
+      "Which truth do I already believe in principle but keep postponing in practice?",
+      "If the chance to turn back closed tonight, what would I wish I had done while it was still within reach?",
+      "When I tell myself 'later', what makes me sure that later will be as near as now?",
+      "What does my faith look like when nothing is forcing it out of me, before fear does the persuading?",
+      "Whose reminders do I keep waving away, the way these people waved away a warner they knew well?"
+    ],
+    "pointsBn": [
+      "কোন সত্য আমি মনে মনে মেনে নিয়েছি, অথচ কাজে বারবার পিছিয়ে দিচ্ছি?",
+      "ফিরে আসার সুযোগ যদি আজ রাতেই বন্ধ হয়ে যায়, হাতের নাগালে থাকতে থাকতে কী করে ফেলা উচিত ছিল বলে আফসোস করব?",
+      "নিজেকে যখন বলি 'পরে করব', তখন কিসের ভরসায় ভাবি যে পরের সময়টা এখনকার মতোই কাছে থাকবে?",
+      "ভয় এসে রাজি করানোর আগে, কোনো চাপ ছাড়া, আমার ঈমান দেখতে কেমন?",
+      "কার নসীহত আমি বারবার উড়িয়ে দিচ্ছি, ঠিক যেভাবে এরা খুব চেনা এক সতর্ককারীর কথা উড়িয়ে দিয়েছিল?"
+    ],
+    "lessonEn": "Faith counts while it is still within reach. Believe and turn back now, not when fear forces out the words and the time for them has gone.",
+    "lessonBn": "ঈমান কাজে আসে যতক্ষণ তা হাতের নাগালে থাকে। ভয় যখন মুখ দিয়ে কথাটা বের করে নেবে আর তার সময়ও পেরিয়ে যাবে, তখন নয়, এখনই ঈমান আনুন, এখনই ফিরে আসুন।"
   }
 };
 
