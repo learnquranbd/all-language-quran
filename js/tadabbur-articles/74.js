@@ -871,6 +871,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "74:42": {
+    "sections": [
+      {
+        "h": {
+          "en": "What Put You There",
+          "bn": "কিসে তোমাদের সেখানে নিল"
+        },
+        "p": [
+          {
+            "en": "Ma salakakum fi saqar: what put you into Saqar? Four Arabic words, and all four make a single question. The scene that frames it begins a few verses back. 74:38 says that every soul is held in pledge for what it has earned, and 74:39 excepts the companions of the right. 74:40 places them in gardens, asking, and 74:41 says whom they ask about: al-mujrimin, the criminals. Our verse then gives the question itself, and from 74:43 onward the people of the Fire answer it.",
+            "bn": "মা সালাকাকুম ফী সাকার: কিসে তোমাদের সাকারে ঢোকাল? আরবিতে চারটি শব্দ, আর চারটি মিলে একটিমাত্র প্রশ্ন। দৃশ্যটা শুরু হয়েছে কয়েক আয়াত আগে। ৭৪:৩৮ বলে, প্রত্যেক প্রাণ নিজের অর্জনের দায়ে বন্ধক হয়ে আছে। ৭৪:৩৯ সেখান থেকে ডান দিকের লোকদের আলাদা করে নেয়। ৭৪:৪০ তাদের রাখে জান্নাতে, যেখানে তারা জিজ্ঞাসাবাদ করছে। ৭৪:৪১ জানায় কাদের নিয়ে প্রশ্ন: আল-মুজরিমীন, অপরাধীরা। তারপর আমাদের আয়াতে আসে প্রশ্নটা নিজেই, আর ৭৪:৪৩ থেকে জাহান্নামবাসীরা তার জবাব দেয়।"
+          },
+          {
+            "en": "The Muyassar, which treats 74:39 to 74:47 as one passage, paraphrases the question in its own words: what made you enter Jahannam, and made you taste its blaze? It calls the questioners the sincere Muslims who freed their necks through obedience, and those asked about the disbelievers who committed crimes against themselves. Saqar is one of the Qur'an's names for the Fire. The surah has already used it in 74:26 and 74:27, which have their own place, and the Muyassar renders it plainly as Jahannam.",
+            "bn": "মুয়াসসার ৭৪:৩৯ থেকে ৭৪:৪৭ পর্যন্ত আয়াতগুলোকে এক টানা অংশ ধরে ব্যাখ্যা করে। প্রশ্নটা সে নিজের ভাষায় বলে: কিসে তোমাদের জাহান্নামে ঢোকাল, আর তার লেলিহান আগুনের স্বাদ নিতে বাধ্য করল? প্রশ্নকারীদের সে বলে খাঁটি মুসলিম, যারা আনুগত্য দিয়ে নিজেদের গর্দান ছাড়িয়ে নিয়েছে। আর যাদের নিয়ে প্রশ্ন, তারা সেই কাফির, যারা নিজেদের উপর অপরাধ করেছে। সাকার কুরআনে জাহান্নামের একটি নাম। এই সূরা আগেই ৭৪:২৬ ও ৭৪:২৭ আয়াতে নামটি এনেছে, সেগুলোর আলোচনা আলাদা। মুয়াসসার এখানে সোজাসুজি একে জাহান্নাম বলে।"
+          },
+          {
+            "en": "This article stays with the question: the verb at its centre, the way it is put, who is doing the asking, and what the commentators drew from its being asked at all. The four answers that follow are context here, not the subject. They are taken together in the article on 74:46, the last of the four, and are only sketched below.",
+            "bn": "এই লেখা প্রশ্নটাকে ঘিরেই থাকবে। তার কেন্দ্রের ক্রিয়াপদ, প্রশ্ন করার ধরন, প্রশ্নকারী কারা, আর প্রশ্নটা যে আদৌ করা হলো, তা থেকে তাফসীরকারেরা কী বুঝেছেন। পরের চারটি জবাব এখানে প্রেক্ষাপট মাত্র, মূল বিষয় নয়। চারটির শেষটি ৭৪:৪৬, আর সেখানকার লেখায় চারটি একসঙ্গে আলোচিত হয়েছে। নিচে শুধু তার রেখাচিত্র থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Thread Passed Through",
+          "bn": "সুতো ঢোকানোর মতো"
+        },
+        "p": [
+          {
+            "en": "The verb is salakakum, from the root s-l-k. Al-Qurtubi glosses it with one word, adkhalakum, put you in, and illustrates the usage with an everyday sentence: salaktu al-khayta fi kadha, I threaded the string into such-and-such, meaning I passed it in. Al-Baghawi gives the same one-word gloss, adkhalakum, and adds only that they answered. So the question is not phrased as where are you, nor as who threw you there, but with a verb of passing something into a place.",
+            "bn": "ক্রিয়াপদটি সালাকাকুম, স-ল-ক ধাতু থেকে। কুরতুবী এক শব্দে এর অর্থ বলেন: আদখালাকুম, তোমাদের ঢোকাল। ব্যবহারটা বোঝাতে তিনি রোজকার একটি বাক্য আনেন: সালাকতুল খাইতা ফী কাযা, আমি সুতোটা অমুক জিনিসে ঢোকালাম, অর্থাৎ ভেতরে গলিয়ে দিলাম। বাগাভীও একই শব্দে অর্থ দেন, আদখালাকুম, আর শুধু যোগ করেন যে তারা জবাব দিল। তাই প্রশ্নটা 'তোমরা কোথায়' বা 'কে তোমাদের ফেলল' এভাবে আসেনি। এসেছে এমন এক ক্রিয়া দিয়ে, যার মানে কোনো কিছুকে কোনো জায়গার ভেতরে চালিয়ে দেওয়া।"
+          },
+          {
+            "en": "At-Tabari's comment on the question is filed by the source under 74:41, where he quotes 74:40 to 74:42 together. The companions of the right, he says, are in orchards, asking about the criminals who were put into Saqar: ayyu shay'in salakakum fi saqar, what thing put you into Saqar? As-Sa'di asks it in two parts: ayyu shay'in adkhalakum fiha, what thing brought you into it, wa bi-ayyi dhanbin istahaqqatumuha, and by which sin did you come to deserve it?",
+            "bn": "প্রশ্নটি নিয়ে তাবারীর মন্তব্য উৎসে রাখা আছে ৭৪:৪১-এর ঘরে, যেখানে তিনি ৭৪:৪০ থেকে ৭৪:৪২ একসঙ্গে উদ্ধৃত করেছেন। তিনি বলেন, ডান দিকের লোকেরা বাগানে থেকে সেই অপরাধীদের ব্যাপারে জিজ্ঞেস করছে, যাদের সাকারে ঢোকানো হয়েছে: আইয়ু শাইয়িন সালাকাকুম ফী সাকার, কোন জিনিস তোমাদের সাকারে ঢোকাল? সা'দী প্রশ্নটাকে দুই ভাগে বলেন। আইয়ু শাইয়িন আদখালাকুম ফীহা: কোন জিনিস তোমাদের এতে ঢোকাল? ওয়া বিআইয়ি যানবিন ইসতাহাককতুমূহা: আর কোন গুনাহের কারণে তোমরা এর উপযুক্ত হলে?"
+          },
+          {
+            "en": "Set side by side, the glosses agree on what is being asked. Nobody asks where the criminals are, which the questioners can see. They ask what brought them there. As-Sa'di's second clause adds a word of desert, istahaqqa, to deserve: the question already assumes that the Fire was earned and asks only by what. That sits with 74:38, which says every soul is held for what it has earned.",
+            "bn": "ব্যাখ্যাগুলো পাশাপাশি রাখলে বোঝা যায়, প্রশ্নের বিষয় নিয়ে সবাই একমত। অপরাধীরা কোথায় আছে, তা কেউ জিজ্ঞেস করছে না, সেটা তো প্রশ্নকারীরা দেখতেই পাচ্ছে। তারা জানতে চাইছে, কিসে ওদের সেখানে নিয়ে গেল। সা'দীর দ্বিতীয় অংশে আছে প্রাপ্যতার একটি শব্দ, ইসতাহাককা, উপযুক্ত হওয়া। অর্থাৎ প্রশ্নটা আগেই ধরে নিচ্ছে যে আগুন তাদের অর্জিত, জানতে চাইছে শুধু কিসের বিনিময়ে। এটা ৭৪:৩৮-এর সঙ্গে মেলে, যেখানে প্রত্যেক প্রাণ নিজের অর্জনের দায়ে আটক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Talk About Them, Then to Them",
+          "bn": "ওদের নিয়ে কথা, তারপর ওদের সঙ্গে"
+        },
+        "p": [
+          {
+            "en": "74:40 gives the verb yatasa'alun, and the commentators fetched here take it in two ways. The Muyassar reads it as mutual: yas'alu ba'duhum ba'dan, some of them ask others, about the disbelievers. Al-Qurtubi, on 74:40, glosses it simply as yas'alun, they ask. Ibn Kathir, on 74:39 to 74:41, makes the criminals themselves the ones asked: yas'alun al-mujrimin, they ask the criminals, while the askers are in the upper chambers and the others in the lowest depths.",
+            "bn": "৭৪:৪০ আয়াতের ক্রিয়াপদ ইয়াতাসাআলূন। এখানে যে তাফসীরগুলো দেখা হয়েছে, সেগুলো একে দুইভাবে বোঝে। মুয়াসসার একে পারস্পরিক অর্থে নেয়: ইয়াসআলু বা'দুহুম বা'দান, তাদের কেউ কেউ অন্যদের জিজ্ঞেস করে, কাফিরদের সম্পর্কে। কুরতুবী ৭৪:৪০-এ শুধু বলেন ইয়াসআলূন, তারা জিজ্ঞেস করে। আর ইবন কাসীর ৭৪:৩৯ থেকে ৭৪:৪১-এর আলোচনায় অপরাধীদেরকেই প্রশ্নের লক্ষ্য বানান: ইয়াসআলূনাল মুজরিমীন, তারা অপরাধীদের জিজ্ঞেস করে। তখন প্রশ্নকারীরা থাকে উঁচু প্রাসাদে, আর ওরা থাকে সবচেয়ে নিচের স্তরে।"
+          },
+          {
+            "en": "The wording of 74:41 and 74:42 holds both readings together. The questioners ask 'an al-mujrimin, about the criminals, which is talk among themselves about others; then the question turns to the second person, what put you into Saqar. The passage moves from speaking of them to speaking to them. At-Tabari's paraphrase keeps that order: asking about the criminals, then the question put to them. Al-Qurtubi and al-Baghawi both gloss al-mujrimin, on 74:41, as al-mushrikin, those who associated partners with Allah.",
+            "bn": "৭৪:৪১ ও ৭৪:৪২ আয়াতের শব্দবিন্যাসে দুটি পাঠই একসঙ্গে জায়গা পায়। প্রশ্নকারীরা জিজ্ঞেস করে আনিল মুজরিমীন, অপরাধীদের সম্পর্কে। এটা নিজেদের মধ্যে অন্যদের নিয়ে কথা। তারপর প্রশ্নটা সরাসরি সম্বোধনে চলে যায়: কিসে তোমাদের সাকারে ঢোকাল? অর্থাৎ ওদের নিয়ে কথা বলা থেকে ওদের সঙ্গে কথা বলায় পৌঁছে যাওয়া। তাবারীর ব্যাখ্যাও এই ক্রম ধরে রাখে, আগে অপরাধীদের সম্পর্কে জিজ্ঞাসা, পরে তাদের উদ্দেশে প্রশ্ন। কুরতুবী ও বাগাভী দুজনেই ৭৪:৪১-এ আল-মুজরিমীনের অর্থ বলেন আল-মুশরিকীন, অর্থাৎ যারা আল্লাহর সঙ্গে শরিক করত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ease That Opens Into Talk",
+          "bn": "নিশ্চিন্ত মনের আলাপ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di, on 74:40 and 74:41, explains how the question comes to be asked at all. In the gardens, he says, everything they sought has been attained for them, and rest and tranquillity are complete for them, until they turn to asking each other. The conversation carries them on until they ask about the criminals: what state have they reached, and have they found what Allah promised them? On his account the question rises out of ease. Nothing is left for the people of the right to want for themselves.",
+            "bn": "প্রশ্নটা আদৌ কেন ওঠে, সা'দী ৭৪:৪০ ও ৭৪:৪১-এর ব্যাখ্যায় তা খুলে বলেন। জান্নাতে তাদের চাওয়া সবকিছু হাসিল হয়ে গেছে, আরাম আর প্রশান্তি পূর্ণ হয়েছে। তখন তারা একে অন্যকে জিজ্ঞেস করতে শুরু করে। আলাপ গড়াতে গড়াতে তারা অপরাধীদের কথা জানতে চায়: ওরা কোন অবস্থায় পৌঁছাল? আল্লাহ ওদের যা বলেছিলেন, ওরা কি তা পেয়েছে? সা'দীর বর্ণনায় প্রশ্নটা জন্মায় নিশ্চিন্ত অবস্থা থেকে। ডান দিকের লোকদের নিজেদের জন্য চাওয়ার আর কিছু বাকি নেই।"
+          },
+          {
+            "en": "As-Sa'di then completes the scene with words from another surah. Some of them say to others: hal antum muttali'un, will you look down? Those are the words of 37:54, in a passage that opens in 37:50 with the same verb, yatasa'alun, and in which a man in Paradise recalls a companion who denied being raised and repaid. They look, as-Sa'di says, and see them in the midst of al-Jahim, being punished, close to the wording of 37:55. He reads the two scenes together, and in his telling the people of the right look before they speak.",
+            "bn": "এরপর সা'দী অন্য এক সূরার কথা দিয়ে দৃশ্যটা পূর্ণ করেন। তাদের কেউ কেউ অন্যদের বলে: হাল আনতুম মুত্তালিঊন, তোমরা কি উঁকি দিয়ে দেখবে? কথাটা ৩৭:৫৪ আয়াতের। সেই অংশ শুরু হয় ৩৭:৫০ আয়াতে একই ক্রিয়াপদ ইয়াতাসাআলূন দিয়ে। সেখানে জান্নাতের এক লোক তার এমন এক সঙ্গীর কথা মনে করে, যে পুনরুত্থান আর প্রতিদান অস্বীকার করত। সা'দী বলেন, তারা উঁকি দেয় আর ওদের দেখতে পায় জাহীমের মাঝখানে, শাস্তি ভোগ করছে। কথাটা ৩৭:৫৫-এর শব্দের কাছাকাছি। তিনি দুই দৃশ্যকে একসঙ্গে পড়েন, আর তাঁর বর্ণনায় ডান দিকের লোকেরা কথা বলার আগে চোখে দেখে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "O So-and-So",
+          "bn": "হে অমুক"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays from al-Kalbi a detail that makes the scene personal. A man from the people of Paradise, al-Kalbi says, asks a man from the people of the Fire by his name, saying to him: ya fulan, O so-and-so. Al-Qurtubi gives no chain for this; it is al-Kalbi's account of how the asking takes place. The verse itself names no one. On al-Kalbi's reading, though, the question is not called out to a crowd but put by one person to another whom he knows.",
+            "bn": "কুরতুবী কালবী থেকে এমন একটি বর্ণনা আনেন, যা দৃশ্যটাকে ব্যক্তিগত করে তোলে। কালবী বলেন, জান্নাতবাসী এক লোক জাহান্নামবাসী এক লোককে তার নাম ধরে জিজ্ঞেস করবে, বলবে: ইয়া ফুলান, হে অমুক। কুরতুবী এর কোনো সনদ দেননি। জিজ্ঞাসাটা কীভাবে ঘটবে, এটা কালবীর দেওয়া বিবরণ। আয়াত নিজে কারও নাম নেয় না। তবে কালবীর পাঠে প্রশ্নটা ভিড়ের উদ্দেশে ছুড়ে দেওয়া হয় না। একজন মানুষ আরেকজনকে করে, যাকে সে চেনে।"
+          },
+          {
+            "en": "Al-Qurtubi then records two readings that carry the call inside the verse. In the reading of Abdullah ibn az-Zubayr: ya fulanu ma salakaka fi saqar, O so-and-so, what put you into Saqar, with a singular you. And from Ibn az-Zubayr again: Umar ibn al-Khattab read, ya fulanu ma salakakum fi saqar. Al-Qurtubi settles the status of both at once. This, he says, is a reading by way of explanation; it is not Qur'an, as some who attacked the Qur'an claimed. He credits that judgement to Abu Bakr ibn al-Anbari.",
+            "bn": "এরপর কুরতুবী এমন দুটি পাঠ উল্লেখ করেন, যেখানে এই ডাক আয়াতের ভেতরেই ঢুকে আছে। আবদুল্লাহ ইবনুয যুবাইর (রাঃ)-এর পাঠে: ইয়া ফুলানু মা সালাকাকা ফী সাকার, হে অমুক, কিসে তোমাকে সাকারে ঢোকাল, এখানে 'তোমাকে' একবচন। আবার ইবনুয যুবাইর (রাঃ) থেকেই: উমর ইবনুল খাত্তাব (রাঃ) পড়েছিলেন, ইয়া ফুলানু মা সালাকাকুম ফী সাকার। দুটির মর্যাদা কুরতুবী সঙ্গে সঙ্গেই স্পষ্ট করেন। তিনি বলেন, এটা ব্যাখ্যার উদ্দেশ্যে পড়া। কুরআনের সমালোচকেরা যেমন দাবি করেছে, এটা তেমন কুরআনের অংশ নয়। এই সিদ্ধান্তের কৃতিত্ব তিনি দেন আবু বকর ইবনুল আনবারীকে।"
+          },
+          {
+            "en": "The care in that ruling matters. What is recited is the verse as it stands, four words with a plural you. What al-Qurtubi preserves is that early readers, explaining the verse aloud, voiced the call by name within it, and that this was understood as explanation and not as revealed text. It adds no word to the Qur'an. It does show how those early readers heard the question: as something addressed, face to face, to a person and not to a category.",
+            "bn": "সিদ্ধান্তটার এই সতর্কতা গুরুত্বপূর্ণ। তিলাওয়াত হয় আয়াতটি যেমন আছে তেমনই, চারটি শব্দে, বহুবচনের 'তোমাদের' দিয়ে। কুরতুবী যা সংরক্ষণ করেছেন তা হলো, প্রথম যুগের পাঠকেরা আয়াতটি ব্যাখ্যা করতে গিয়ে মুখে নাম ধরে ডাকার কথাটা জুড়ে পড়েছেন, আর সেটাকে ব্যাখ্যা হিসেবেই বোঝা হয়েছে, নাযিল হওয়া পাঠ হিসেবে নয়। এতে কুরআনে কোনো শব্দ যোগ হয় না। তবে বোঝা যায়, সেই পাঠকেরা প্রশ্নটা কীভাবে শুনেছিলেন। কোনো শ্রেণির উদ্দেশে নয়, মুখোমুখি একজন মানুষের উদ্দেশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Could Ask Such a Thing",
+          "bn": "এমন প্রশ্ন করবে কে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a further account of the asking, under wa-qila, it was said. The believers ask the angels about their relatives, and the angels ask the idolaters: ma salakakum fi saqar. On this account the question passes through an intermediary. Al-Qurtubi then quotes al-Farra: in this is what strengthens the view that the companions of the right are al-wildan, the children, because they do not know sins. The question, on that reasoning, suits someone who has never carried a sin and does not know what sin leads to.",
+            "bn": "জিজ্ঞাসার আরেকটি বিবরণ কুরতুবী আনেন 'ওয়া কীলা', বলা হয়েছে, এই শব্দে। মুমিনরা ফেরেশতাদের কাছে নিজেদের আত্মীয়দের কথা জানতে চাইবে, আর ফেরেশতারা মুশরিকদের জিজ্ঞেস করবে: মা সালাকাকুম ফী সাকার। এই বিবরণে প্রশ্নটা পৌঁছায় মাঝখানের কারও মাধ্যমে। এরপর কুরতুবী ফাররার কথা উদ্ধৃত করেন: এতে সেই মতটি জোরালো হয় যে ডান দিকের লোকেরা হলো আল-উইলদান, শিশুরা, কারণ তারা গুনাহ চেনে না। এই যুক্তিতে প্রশ্নটা তারই মুখে মানায়, যে কখনো গুনাহের বোঝা বয়নি, তাই জানে না গুনাহ কোথায় নিয়ে যায়।"
+          },
+          {
+            "en": "At-Tabari, on 74:39 and 74:40, sets out the disagreement over who the companions of the right are in this place. Through Zadhan, Ali said they are the children of the Muslims, and in other chains al-wildan, the children. Through Abu Zabyan, Ibn Abbas said they are the angels. At-Tabari explains what both views share: these questioners had no sins, for anyone of Adam's children who reached the age of obligation already knew that no one is punished except for disobedience, and so would not need to ask. The chains are given in full in the article on 74:38.",
+            "bn": "এই জায়গায় ডান দিকের লোক কারা, সে নিয়ে মতভেদ তাবারী তুলে ধরেন ৭৪:৩৯ ও ৭৪:৪০-এর আলোচনায়। যাযানের সূত্রে আলী (রাঃ) বলেছেন, তারা মুসলিমদের শিশু সন্তান, আর অন্য সনদে, আল-উইলদান, শিশুরা। আবু যাবইয়ানের সূত্রে ইবন আব্বাস (রাঃ) বলেছেন, তারা ফেরেশতা। দুই মতের মিলটাও তাবারী ব্যাখ্যা করেন: এই প্রশ্নকারীদের কোনো গুনাহ ছিল না। কারণ আদম সন্তানদের যে-ই দায়িত্বের বয়সে পৌঁছেছে, সে আগেই জানে যে নাফরমানি ছাড়া কাউকে শাস্তি দেওয়া হয় না। তাই তার এ প্রশ্ন করার দরকার পড়ত না। সনদগুলো পুরোপুরি আছে ৭৪:৩৮-এর লেখায়।"
+          },
+          {
+            "en": "Others take the phrase more widely. Al-Qurtubi, on 74:39, adds that al-Hasan and Ibn Kaysan said they are the sincere Muslims, not pledged because they paid what was owed, and that through Abu Zabyan Ibn Abbas said they are the Muslims; at-Tabari's report through the same narrator says the angels. Al-Baghawi lists, among other views, children, angels and those given their books in their right hands, and the Muyassar calls them the sincere Muslims. The sources keep these views side by side, and this article leaves them there.",
+            "bn": "অন্যরা শব্দটাকে আরও বিস্তৃত অর্থে নেন। কুরতুবী ৭৪:৩৯-এ যোগ করেন, হাসান ও ইবন কায়সান বলেছেন, তারা খাঁটি মুসলিম। তারা বন্ধক থাকে না, কারণ নিজেদের দায় তারা শোধ করেছে। তিনি আরও আনেন, আবু যাবইয়ানের সূত্রে ইবন আব্বাস (রাঃ) বলেছেন, তারা মুসলিমরা। অথচ একই বর্ণনাকারীর সূত্রে তাবারীর বর্ণনায় আছে ফেরেশতা। বাগাভী আরও কয়েকটি মতের সঙ্গে উল্লেখ করেন শিশু, ফেরেশতা, আর যাদের আমলনামা ডান হাতে দেওয়া হবে। মুয়াসসার তাদের বলে খাঁটি মুসলিম। উৎসগুলো এই মতগুলোকে পাশাপাশি রেখেছে, এই লেখাও সেভাবেই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Clause Begins With We",
+          "bn": "প্রতিটি জবাব 'আমরা' দিয়ে"
+        },
+        "p": [
+          {
+            "en": "From 74:43 the people of the Fire answer. At-Tabari, on 74:43, names the speakers outright: qala al-mujrimun lahum, the criminals said to them, we were not, in the world, of those who prayed to Allah. Four answers follow: no prayer, no feeding of the poor, plunging into falsehood with those who plunged, and denying the Day of Recompense until the certainty came. Ibn Kathir reads the first two as not worshipping Allah and not doing good to His creatures. The article on 74:46 takes the four together.",
+            "bn": "৭৪:৪৩ থেকে জাহান্নামবাসীরা জবাব দেয়। তাবারী ৭৪:৪৩-এ বক্তাদের নাম সরাসরি বলে দেন: কালাল মুজরিমূনা লাহুম, অপরাধীরা তাদের বলল, দুনিয়াতে আমরা আল্লাহর জন্য নামায আদায়কারীদের দলে ছিলাম না। এরপর চারটি জবাব: নামায পড়িনি, মিসকিনকে খাওয়াইনি, বাজে কথায় মগ্ন লোকদের সঙ্গে আমরাও মগ্ন থাকতাম, আর নিশ্চিত বিষয়টি আসা পর্যন্ত প্রতিদান দিবসকে অস্বীকার করতাম। প্রথম দুটির অর্থ ইবন কাসীর বলেন: আমরা আল্লাহর ইবাদত করিনি, তাঁর সৃষ্টির প্রতি সদাচরণও করিনি। চারটি জবাবের একত্র আলোচনা আছে ৭৪:৪৬-এর লেখায়।"
+          },
+          {
+            "en": "One feature of the exchange belongs to this verse. The question asked for a cause, and the answer supplies causes, every one of them the speakers' own. Each clause opens with we: lam naku, we were not; kunna, we used to. Even the plunging is something they did, alongside others. These verses describe what the text describes, a company the Qur'an calls criminals, answering on that Day. They license nothing against any living person or community, and give no reader the right to place anyone alive among those asked.",
+            "bn": "এই আদান-প্রদানের একটা দিক এই আয়াতেরই। প্রশ্ন জানতে চেয়েছিল কারণ, আর জবাবে আসে কারণের তালিকা, যার প্রতিটি বক্তাদের নিজেদের কাজ। প্রতিটি জবাব শুরু হয় 'আমরা' দিয়ে: লাম নাকু, আমরা ছিলাম না; কুন্না, আমরা করতাম। অন্যদের সঙ্গে মিলে বাজে কথায় মগ্ন হওয়াটাও তাদের নিজেদেরই কাজ। আয়াতগুলো শুধু সেটুকুই বর্ণনা করে, যা পাঠে আছে: কুরআন যাদের অপরাধী বলেছে, সেই দিনে তাদের জবাবদিহি। এগুলো জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। জীবিত কাউকে প্রশ্নের মুখোমুখি ওই দলে ফেলার অধিকারও কোনো পাঠককে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearing the Question Early",
+          "bn": "প্রশ্নটা আগেভাগে শোনা"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to it, so none is quoted here. The narration Ibn Kathir cites in this passage, about the certainty coming to Uthman ibn Maz'un, belongs to 74:47 and its sense of certainty as death, and it is treated in the article on 74:46. What the commentators give for this verse is the question itself, its verb and its manner.",
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হলো না। এই অংশে ইবন কাসীর উসমান ইবন মাযঊন (রাঃ)-এর কাছে নিশ্চিত বিষয়টি আসার যে বর্ণনা আনেন, তা ৭৪:৪৭-এর সঙ্গে সম্পর্কিত, যেখানে নিশ্চিত বিষয় মানে মৃত্যু। সেটার আলোচনা আছে ৭৪:৪৬-এর লেখায়। এই আয়াতের জন্য তাফসীরকারেরা দিয়েছেন প্রশ্নটাই, তার ক্রিয়াপদ আর প্রশ্নের ধরন।"
+          },
+          {
+            "en": "In the scene, the question comes when nothing can change. The people of the right are already in the gardens, and the answer of the others is a record, not a plan. Yet the surah has framed it with 74:37, a warning to whoever among you wills to go forward or to stay behind. Read in this world, the question has not yet been put to anyone. A reader can put it to himself now: what thing is threading me, step by step, toward where I will end?",
+            "bn": "দৃশ্যের ভেতরে প্রশ্নটা আসে এমন সময়ে, যখন আর কিছু বদলানোর উপায় নেই। ডান দিকের লোকেরা ততক্ষণে জান্নাতে, আর অন্যদের জবাব একটা হিসাবের খতিয়ান, ভবিষ্যতের পরিকল্পনা নয়। তবু সূরাটি এর আগে ৭৪:৩৭ রেখেছে: সতর্কবাণী তোমাদের মধ্যে তার জন্য, যে এগিয়ে যেতে চায় বা পিছিয়ে থাকতে চায়। এই দুনিয়ায় বসে পড়লে প্রশ্নটা এখনো কাউকে করা হয়নি। পাঠক এখনই নিজেকে প্রশ্নটা করতে পারেন: কোন জিনিস আমাকে ধাপে ধাপে আমার শেষ ঠিকানার দিকে গলিয়ে নিয়ে যাচ্ছে?"
+          },
+          {
+            "en": "As-Sa'di's second clause sharpens it: by which sin. The four answers that follow are ordinary things, a prayer, a meal, a conversation, a belief, and each is within reach on an ordinary day. The question that the people of the right will ask out of ease can be asked today out of concern, while an answer can still be changed by what a person does next. That is the use of hearing it early: not to picture others below, but to check the thread in one's own hand.",
+            "bn": "সা'দীর দ্বিতীয় অংশ প্রশ্নটাকে আরও ধারালো করে: কোন গুনাহের কারণে? পরের চারটি জবাবে আছে খুব সাধারণ জিনিস। একটা নামায, এক বেলার খাবার, একটা আড্ডা, একটা বিশ্বাস। প্রতিটিই সাধারণ যে কোনো দিনে হাতের নাগালে থাকে। ডান দিকের লোকেরা যে প্রশ্ন করবে নিশ্চিন্ত মনে, আজ তা করা যায় দুশ্চিন্তা নিয়ে, যখন মানুষের পরের কাজ দিয়ে জবাবটা এখনো বদলানো সম্ভব। আগেভাগে শোনার লাভ এখানেই। নিচের অন্যদের ছবি আঁকা নয়, নিজের হাতের সুতোটা যাচাই করে দেখা।"
+          }
+        ]
+      }
+    ]
+  },
   "74:46": {
     "sections": [
       {

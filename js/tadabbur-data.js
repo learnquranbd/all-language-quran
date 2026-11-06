@@ -28887,6 +28887,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "As you worship Allah alone, rely on Him alone: do your part, then leave the outcome to the Lord of the East and the West.",
     "lessonBn": "যেভাবে কেবল আল্লাহরই ইবাদত করেন, তেমনি কেবল তাঁর উপরই ভরসা করুন: নিজের কাজটুকু করুন, তারপর ফলাফল পূর্ব ও পশ্চিমের রবের হাতে ছেড়ে দিন।"
+  },
+  "74:42": {
+    "reflectionEn": "From gardens where every wish has been met, the people of the right turn toward the people of the Fire and ask one short question: what put you into Saqar? They are not asking where the others are. That is already plain. They are asking what brought them there: which road, which deed, which habit. The answer that follows names things that were within reach every single day: a prayer, a meal for someone poor, the company one keeps, a belief about the Day. The verse lets me hear the question long before anyone could ask it of me. If I were asked today what is leading me toward the place I will end, what would my honest answer be?",
+    "reflectionBn": "জান্নাতে তাদের সব চাওয়া পূরণ হয়ে গেছে। সেখান থেকে ডান দিকের লোকেরা জাহান্নামবাসীদের দিকে ফিরে ছোট্ট একটা প্রশ্ন করে: কিসে তোমাদের সাকারে ঢোকাল? ওরা কোথায় আছে, সেটা জানতে চাওয়া হচ্ছে না। তা তো চোখের সামনেই। জানতে চাওয়া হচ্ছে, কিসে ওদের সেখানে নিয়ে গেল: কোন পথ, কোন আমল, কোন অভ্যাস। পরের আয়াতগুলোতে যে জবাব আসে, তাতে এমন সব জিনিসের নাম, যা প্রতিদিন হাতের নাগালে ছিল। নামায, গরিবের মুখে এক বেলার খাবার, কাদের সঙ্গে ওঠাবসা, আর হিসাবের দিন নিয়ে মনের বিশ্বাস। আয়াতটি প্রশ্নটা আমাকে আগেভাগেই শুনিয়ে রাখে, আমাকে কেউ জিজ্ঞেস করার অনেক আগে। আজ যদি কেউ জানতে চায়, কোন জিনিস আমাকে আমার শেষ ঠিকানার দিকে টেনে নিয়ে যাচ্ছে, সৎভাবে আমি কী জবাব দেব?",
+    "pointsEn": [
+      "If I were asked today what is leading me, what would I name first: a habit, a companion, or a belief I have never examined?",
+      "The question asks what put them there, not where they are. Do I look for causes in my own life, or only at results?",
+      "Which of the four answers in the next verses comes closest to something I am neglecting this week?",
+      "When I picture this question being asked, do I place myself among those asking or among those asked, and on what grounds?",
+      "What one step, taken today, would change the answer I could give to this question?"
+    ],
+    "pointsBn": [
+      "আজ যদি জিজ্ঞেস করা হয়, কী আমাকে টেনে নিয়ে যাচ্ছে, প্রথমে আমি কার নাম বলব? কোনো অভ্যাস, কোনো সঙ্গী, নাকি এমন কোনো বিশ্বাস, যা কখনো যাচাই করে দেখিনি?",
+      "প্রশ্নটা জানতে চায় কিসে ওদের সেখানে নিল, ওরা কোথায় আছে তা নয়। নিজের জীবনে আমি কি কারণ খুঁজি, নাকি শুধু ফলাফলের দিকে তাকিয়ে থাকি?",
+      "পরের আয়াতগুলোর চারটি জবাবের কোনটি এ সপ্তাহে আমার অবহেলার সবচেয়ে কাছাকাছি?",
+      "এই প্রশ্নের দৃশ্যটা কল্পনা করলে নিজেকে আমি কোথায় দেখি, প্রশ্নকারীদের মধ্যে নাকি যাদের প্রশ্ন করা হচ্ছে তাদের মধ্যে? কিসের ভিত্তিতে?",
+      "আজকের কোন একটা পদক্ষেপ এই প্রশ্নের জবাবটা বদলে দিতে পারে?"
+    ],
+    "lessonEn": "Ask yourself now what the people of Paradise will ask the people of the Fire: what put you there? Then change your answer today, while there is still time to act on it.",
+    "lessonBn": "জান্নাতবাসীরা জাহান্নামবাসীদের যে প্রশ্ন করবে, তা এখনই নিজেকে করুন: কিসে তোমাকে সেখানে নিয়ে গেল? তারপর আজই জবাবটা বদলে নিন, এখনো যখন আমল করার সময় আছে।"
   }
 };
 
