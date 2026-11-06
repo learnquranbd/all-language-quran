@@ -1031,6 +1031,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "79:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words to Close a List",
+          "bn": "তিন শব্দে তালিকার সমাপ্তি"
+        },
+        "p": [
+          {
+            "en": "Mata'an lakum wa li-an'amikum: as provision for you and for your livestock. In Arabic the verse is three words, and it has no verb of its own. It hangs on the verbs that came before it. From 79:27 to 79:32 the surah has listed what Allah did: He built the heaven, raised its ceiling and proportioned it, darkened its night and brought out its forenoon, spread the earth after that, brought out of it its water and its pasture, and set the mountains firm. This verse says what all of that was for.",
+            "bn": "মাতাআন লাকুম ওয়া লি-আনআমিকুম: তোমাদের ও তোমাদের পশুদের ভোগের সামগ্রী হিসেবে। আরবিতে আয়াতটিতে তিনটি শব্দ, এর নিজের কোনো ক্রিয়া নেই। আগের আয়াতগুলোর ক্রিয়ার সঙ্গেই এর বাঁধন। ৭৯:২৭ থেকে ৭৯:৩২ পর্যন্ত সূরাটি আল্লাহর কাজের একটা তালিকা দিয়েছে। তিনি আকাশ নির্মাণ করেছেন, তার ছাদ উঁচু করে সুবিন্যস্ত করেছেন, তার রাত আঁধার করেছেন আর সকাল বের করে এনেছেন। এরপর জমিন বিছিয়েছেন, তার ভেতর থেকে পানি আর চারণভূমি বের করেছেন, পাহাড় দৃঢ় করে গেড়ে দিয়েছেন। এত কিছু কিসের জন্য, এ আয়াত সেটাই বলে।"
+          },
+          {
+            "en": "Two other entries sit close to this entry. The article on 79:29 follows the night and forenoon and sets out how the commentators read the whole passage as an answer to those who deny the raising; that ground is only named here. The same three words also close a list in Surah 'Abasa, at 80:32, where they follow a harvest of grain, grapes, olives, palms and fruit. This article reports what the commentators say on 79:33 itself, notes the parallel in 80:32 plainly, and keeps to what is distinct.",
+            "bn": "এ লেখার কাছাকাছি আরও দুটি লেখা আছে। ৭৯:২৯-এর লেখায় রাত আর সকালের আলোচনা আছে, সঙ্গে আছে তাফসীরকারেরা গোটা অংশটিকে কীভাবে পুনরুত্থান অস্বীকারকারীদের জবাব হিসেবে পড়েছেন। সে আলোচনা এখানে শুধু উল্লেখ করা হলো। এই তিনটি শব্দ হুবহু আরেকটি তালিকার শেষেও আছে, সূরা আবাসার ৮০:৩২ আয়াতে। সেখানে আগে আসে শস্য, আঙুর, জয়তুন, খেজুর আর ফলের এক ফসলের বিবরণ। এ লেখা ৭৯:৩৩ নিয়ে তাফসীরকারদের বক্তব্য তুলে ধরে, ৮০:৩২-এর মিলটা সোজাসুজি উল্লেখ করে, আর যা এখানে আলাদা তার উপরেই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Benefit, and for a While",
+          "bn": "উপকার, তবে কিছুকালের"
+        },
+        "p": [
+          {
+            "en": "What does mata' mean here? The commentators fetched for this verse reach first for one word, manfa'a, benefit. At-Tabari explains that Allah created these things and brought out of the earth its water and its pasture as manfa'atan lana wa mata'an ila hin, a benefit for us and an enjoyment for a while. Al-Qurtubi glosses mata'an lakum as manfa'atan lakum, a benefit for you. The Muyassar, closing its paraphrase of 79:28 to 79:33, says that He created all these blessings as a benefit for you and your livestock.",
+            "bn": "এখানে মাতা শব্দের অর্থ কী? এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, সেগুলো প্রথমেই একটি শব্দ ধরে: মানফাআ, অর্থাৎ উপকার। তাবারী বলেন, আল্লাহ এসব সৃষ্টি করেছেন আর জমিন থেকে তার পানি ও চারণভূমি বের করেছেন আমাদের উপকারের জন্য, কিছুকালের ভোগের জন্য। তাঁর ভাষায়: মানফাআতান লানা ওয়া মাতাআন ইলা হীন। কুরতুবী মাতাআন লাকুমের ব্যাখ্যা দেন মানফাআতান লাকুম, তোমাদের উপকার। মুয়াসসার ৭৯:২৮ থেকে ৭৯:৩৩ একসঙ্গে ব্যাখ্যা করে শেষে বলে: তিনি এই সব নিয়ামত সৃষ্টি করেছেন তোমাদের ও তোমাদের পশুদের উপকারের জন্য।"
+          },
+          {
+            "en": "At-Tabari's two words, ila hin, for a while, carry the other half of the meaning. They are the Qur'an's own phrasing elsewhere: when the descent to earth is announced in 2:36 and 7:24, the words are wa lakum fi al-ardi mustaqarrun wa mata'un ila hin, and for you on the earth is a dwelling and an enjoyment for a while. So the same earth that is spread and watered in 79:30 to 79:31 is, in at-Tabari's gloss, a place of benefit that has a limit set on it from the start.",
+            "bn": "তাবারীর দুটি শব্দ, ইলা হীন, অর্থাৎ কিছুকাল পর্যন্ত, অর্থের বাকি অর্ধেকটা বহন করে। কথাটা কুরআনেরই ভাষা। ২:৩৬ ও ৭:২৪ আয়াতে জমিনে নেমে যাওয়ার ঘোষণার সময় বলা হয়েছে: ওয়া লাকুম ফিল আরদি মুসতাকাররুন ওয়া মাতাউন ইলা হীন, আর জমিনে তোমাদের জন্য আছে থাকার জায়গা আর কিছুকালের ভোগের সামগ্রী। তাই ৭৯:৩০ ও ৭৯:৩১ আয়াতে যে জমিন বিছানো হলো আর পানি দেওয়া হলো, তাবারীর ব্যাখ্যায় তা উপকারের জায়গা ঠিকই, তবে শুরু থেকেই তার একটা সীমা বেঁধে দেওয়া।"
+          },
+          {
+            "en": "At 80:32, on the identical words, at-Tabari spells the noun out a little further: a benefit you enjoy and draw use from, manfa'atan tatamatta'una biha wa tantafi'un. The pairing of the two verbs, to enjoy and to benefit, is the range of the word as he reads it: neither pleasure alone nor use alone, but both together. Read with his earlier ila hin, it is what a person uses and takes pleasure in during the time he is given, and the verse names both him and his animals as the ones it was prepared for.",
+            "bn": "৮০:৩২-এ হুবহু একই শব্দের ব্যাখ্যায় তাবারী বিশেষ্যটি আরেকটু খুলে বলেন: এমন উপকার যা তোমরা উপভোগ কর আর যা থেকে লাভ নাও। তাঁর শব্দ: মানফাআতান তাতামাত্তাঊনা বিহা ওয়া তানতাফিঊন। উপভোগ আর উপকার, এই দুই ক্রিয়া মিলে তাঁর পাঠে শব্দটির পুরো পরিসর। শুধু আনন্দ নয়, শুধু কাজে লাগানোও নয়, দুটো একসঙ্গে। আগের ইলা হীন কথাটির সঙ্গে মিলিয়ে পড়লে, মানুষকে যে সময়টুকু দেওয়া হয়েছে তার মধ্যে সে যা ব্যবহার করে আর যাতে আনন্দ পায়, সেটাই মাতা। আর আয়াতটি জানায়, এর প্রস্তুতি তার জন্য, তার পশুদের জন্যও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Noun Is Accusative",
+          "bn": "শব্দটির শেষে যবর কেন"
+        },
+        "p": [
+          {
+            "en": "The word is mata'an, in the accusative, and al-Qurtubi is the one fetched commentator who stops to explain why. His first answer: it is a verbal noun, masdar, but not from the same root as the verb it depends on, min ghayr al-lafz. The reason, he says, is that the meaning of akhraja minha ma'aha wa mar'aha, He brought out of it its water and its pasture, is amta'a bi-dhalik, He gave enjoyment by it. The bringing out of water and pasture is itself an act of providing, so mata'an names that act.",
+            "bn": "শব্দটি মাতাআন, যবরযুক্ত। কেন যবর, দেখা তাফসীরগুলোর মধ্যে একমাত্র কুরতুবীই থেমে তা ব্যাখ্যা করেন। তাঁর প্রথম জবাব: এটি মাসদার, অর্থাৎ ক্রিয়াবাচক বিশেষ্য, তবে যে ক্রিয়ার সঙ্গে এর সম্পর্ক তার মূল থেকে নয়। তাঁর পরিভাষায়, মিন গাইরিল লাফয। কারণ হিসেবে তিনি বলেন, আখরাজা মিনহা মাআহা ওয়া মারআহা, অর্থাৎ তিনি তা থেকে পানি ও চারণভূমি বের করেছেন, এ কথার অর্থই হলো আমতাআ বিযালিক, তিনি এ দিয়ে ভোগের ব্যবস্থা করেছেন। পানি আর চারণভূমি বের করে আনাটাই জীবিকা দেওয়া। মাতাআন সেই কাজটিরই নাম।"
+          },
+          {
+            "en": "His second answer is introduced with wa qila, and it is said. On this view the noun is accusative because a preposition has been dropped, and the implied wording is li-tatamatta'u bihi mata'an, so that you may enjoy it, an enjoyment. Al-Qurtubi gives both and does not choose. At 80:32, on the same three words, he gives a different label again: a masdar mu'akkid, a confirming verbal noun, because causing those crops to grow is itself an act of giving enjoyment to every living creature. Each account ties the noun back to the acts before it.",
+            "bn": "দ্বিতীয় জবাবটি তিনি আনেন ওয়া কীলা, অর্থাৎ বলা হয়, কথাটি দিয়ে। এ মতে একটি অব্যয় বাদ পড়েছে বলে শব্দটি যবরযুক্ত। পূর্ণ বাক্যটি হতো লি-তাতামাত্তাঊ বিহি মাতাআন, যাতে তোমরা তা উপভোগ করতে পার। কুরতুবী দুটো মতই দেন, কোনোটিকে বেছে নেন না। ৮০:৩২-এ একই তিনটি শব্দের আলোচনায় তিনি আবার অন্য নাম দেন: মাসদার মুআক্কিদ, অর্থাৎ জোর দেওয়ার মাসদার। কারণ সেখানে ফসল উৎপাদন করাটাই সব প্রাণীর ভোগের ব্যবস্থা। তিন ব্যাখ্যাতেই শব্দটি আগের কাজগুলোর সঙ্গে বাঁধা।"
+          },
+          {
+            "en": "The point for the listener is simple and needs no grammar to see. The verse is not a fresh statement with a new subject. It is the purpose and the result of everything listed before it, folded into one noun. Whoever reads 79:30 to 79:32 and stops there has seen the acts; 79:33 asks him to see whom they were done for. None of the other commentators fetched here discusses the case ending, and this article does not add to what al-Qurtubi gives.",
+            "bn": "শ্রোতার জন্য কথাটা সহজ, ব্যাকরণ না জেনেও বোঝা যায়। আয়াতটি নতুন কর্তা নিয়ে নতুন কোনো বাক্য নয়। আগের পুরো তালিকার উদ্দেশ্য আর ফল একটি বিশেষ্যের মধ্যে গুটিয়ে আনা হয়েছে। কেউ ৭৯:৩০ থেকে ৭৯:৩২ পড়ে থেমে গেলে কাজগুলো দেখল। ৭৯:৩৩ তাকে দেখতে বলে, সেগুলো কার জন্য করা হয়েছে। দেখা অন্য কোনো তাফসীর শব্দটির যবর নিয়ে আলোচনা করেনি। কুরতুবী যা দেন, এ লেখা তার বাইরে কিছু যোগ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Far the Provision Reaches",
+          "bn": "জীবিকার পরিধি কত দূর"
+        },
+        "p": [
+          {
+            "en": "What exactly is the provision? The list just before names only two things brought out of the earth, its water and its pasture. Al-Qurtubi, on 79:31, glosses them as the springs bursting with water and the plants that are grazed, then relays from al-Qutabi that Allah pointed by these two things to everything He brings out of the earth as food and as mata' for people: grass, trees, grain, dates, straw, firewood, clothing, fire and salt. He gives al-Qutabi's reason for the last two: fire comes from wood, and salt comes from water.",
+            "bn": "জীবিকাটা আসলে কী? ঠিক আগের তালিকায় জমিন থেকে বের করা মাত্র দুটি জিনিসের নাম আছে: তার পানি আর তার চারণভূমি। ৭৯:৩১-এর আলোচনায় কুরতুবী এ দুটির ব্যাখ্যা দেন পানিতে উপচে পড়া ঝরনা আর পশু চরে এমন উদ্ভিদ বলে। তারপর তিনি কুতাবী থেকে বর্ণনা করেন: এ দুটি জিনিস দিয়ে আল্লাহ ইঙ্গিত করেছেন মানুষের খাদ্য ও মাতা হিসেবে জমিন থেকে যা কিছু বের করেন তার সবকিছুর দিকে। ঘাস, গাছ, শস্য, খেজুর, খড়, জ্বালানি কাঠ, পোশাক, আগুন আর লবণ। শেষ দুটির কারণও তিনি কুতাবীর মুখে দেন: আগুন আসে কাঠ থেকে, লবণ আসে পানি থেকে।"
+          },
+          {
+            "en": "Ibn Kathir widens the circle further, to take in the whole passage about the earth. His gloss on 79:33 reads: He spread the earth, made its springs flow, brought out what was hidden in it, ran its rivers, and made its crops, trees and fruits grow, and He fixed its mountains so that it would be settled with its people and its dwelling would be firm, and all of that as mata' for His creation and for the livestock they need. On this reading the mountains of 79:32 belong to the provision as much as the water does.",
+            "bn": "ইবন কাসীর পরিধিটা আরও বাড়িয়ে জমিন নিয়ে গোটা অংশটাকেই এর ভেতরে আনেন। ৭৯:৩৩-এ তাঁর ব্যাখ্যা এই: তিনি জমিন বিছিয়েছেন, তার ঝরনা প্রবাহিত করেছেন, তার ভেতরে লুকানো জিনিস প্রকাশ করেছেন, নদী বইয়ে দিয়েছেন, ফসল, গাছ আর ফল জন্মিয়েছেন। আর পাহাড় দৃঢ় করেছেন, যাতে জমিন তার বাসিন্দাদের নিয়ে স্থির থাকে আর তার ঠিকানা মজবুত হয়। এ সবকিছুই তাঁর সৃষ্টির জন্য আর তাদের প্রয়োজনের পশুদের জন্য মাতা। এ পাঠে ৭৯:৩২-এর পাহাড়ও পানির মতোই জীবিকার অংশ।"
+          },
+          {
+            "en": "The Muyassar goes widest of all, since its single paraphrase runs from 79:28 to 79:33 and ends: He, glorified be He, created all these blessings as a benefit for you and your livestock. In that sentence the raised heaven, the darkened night and the brought-out day stand inside the provision too. At-Tabari, as quoted above, speaks of these things and then names the water and the pasture. The commentators differ in how much of the list they gather under the word, but none of them limits it to the last verse alone.",
+            "bn": "মুয়াসসারের পরিধি সবচেয়ে বড়। তার একটিমাত্র ব্যাখ্যা ৭৯:২৮ থেকে ৭৯:৩৩ পর্যন্ত চলে, আর শেষ হয় এভাবে: তিনি, পবিত্র তাঁর সত্তা, এই সব নিয়ামত সৃষ্টি করেছেন তোমাদের ও তোমাদের পশুদের উপকারের জন্য। সে বাক্যে উঁচু আকাশ, আঁধার রাত আর বের করে আনা দিনও জীবিকার ভেতরে পড়ে। তাবারী, আগে যেমন বলা হয়েছে, প্রথমে এসব জিনিসের কথা বলেন, তারপর পানি ও চারণভূমির নাম নেন। তালিকার কতটা এ শব্দের নিচে আসে, তা নিয়ে তাফসীরকারদের বলার ধরন আলাদা। তবে কেউই একে শুধু আগের আয়াতে সীমিত রাখেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Animals Named Beside People",
+          "bn": "মানুষের পাশে পশুর নাম"
+        },
+        "p": [
+          {
+            "en": "The verse does not stop at lakum, for you. It adds wa li-an'amikum, and for your livestock, and the pronoun makes them yours. Al-Qurtubi names them: camels, cattle and sheep. At-Tabari, on the same words at 80:32, says that an'am originally meant camels and was then used for every grazing animal. Ibn Kathir, on 79:33, describes them as the livestock people need, which they eat and ride. Pasture, the second thing brought out of the earth in 79:31, is food for these animals before it reaches anyone else.",
+            "bn": "আয়াতটি লাকুম, তোমাদের জন্য, বলে থামেনি। যোগ করেছে ওয়া লি-আনআমিকুম, আর তোমাদের পশুদের জন্য। সর্বনামটিই জানিয়ে দেয়, পশুগুলো তোমাদের। কুরতুবী তাদের নাম বলেন: উট, গরু আর ছাগল-ভেড়া। ৮০:৩২-এ একই শব্দের আলোচনায় তাবারী বলেন, আনআম শব্দের আদি অর্থ উট, পরে চরে খায় এমন সব পশুর বেলায় তা ব্যবহার হতে থাকে। ৭৯:৩৩-এ ইবন কাসীর এদের বর্ণনা দেন মানুষের প্রয়োজনের পশু হিসেবে, যাদের তারা খায় আর যাদের পিঠে চড়ে। ৭৯:৩১-এ জমিন থেকে বের করা দ্বিতীয় জিনিস চারণভূমি, যা অন্য কারও কাছে পৌঁছানোর আগে এই পশুদেরই খাবার।"
+          },
+          {
+            "en": "Here the two surahs differ in a small way worth noticing. At 80:32 the list before the words is mostly human food, and at-Tabari divides it: what people eat is mata' for you, and what the livestock eat is for your livestock; he reports al-Hasan saying, for you the fruit, and for your livestock the grass, and al-Baghawi gives the same split. At 79:33 none of the commentators fetched draws such a line. The water and pasture, the spread earth and the firm mountains are given to people and their animals together.",
+            "bn": "এখানে দুই সূরার মধ্যে ছোট্ট একটা পার্থক্য চোখে পড়ার মতো। ৮০:৩২-এর আগের তালিকা মূলত মানুষের খাবারের। তাবারী তা ভাগ করে দেন: মানুষ যা খায় তা তোমাদের মাতা, আর পশুরা যা খায় তা তোমাদের পশুদের জন্য। হাসান থেকে তিনি বর্ণনা করেন: তোমাদের জন্য ফল, তোমাদের পশুদের জন্য ঘাস। বাগাভীও একই ভাগ দেন। ৭৯:৩৩-এ দেখা কোনো তাফসীর এমন ভাগ টানেনি। পানি আর চারণভূমি, বিছানো জমিন আর দৃঢ় পাহাড়, সবই মানুষ আর তাদের পশুদের একসঙ্গে দেওয়া।"
+          },
+          {
+            "en": "As-Sa'di, on 80:32, says that the livestock are those Allah created and made subservient to you. That is the ground for the reflection the card draws: a person's animals are part of what he was given, not only what he owns. The verse puts them in the same short phrase as their owners, with the same preposition, li-, for. Whatever care for animals a reader takes from that, the verse itself states only that the provision was prepared for both.",
+            "bn": "৮০:৩২-এ সা'দী বলেন, এই পশুদের আল্লাহ সৃষ্টি করেছেন আর তোমাদের অধীন করে দিয়েছেন। কার্ডের ভাবনাটা এখান থেকেই আসে: মানুষের পশু শুধু তার মালিকানার জিনিস নয়, তাকে দেওয়া দানেরও অংশ। আয়াতটি মালিক আর পশুকে একই ছোট বাক্যাংশে রেখেছে, একই অব্যয় লি দিয়ে, অর্থাৎ জন্য। পাঠক এ থেকে পশুর প্রতি যত্নের যে শিক্ষাই নিন, আয়াত নিজে শুধু এটুকু বলে যে জীবিকাটা দুইয়ের জন্যই প্রস্তুত করা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Until the Term Runs Out",
+          "bn": "মেয়াদ ফুরানো পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir ends his gloss on 79:33 with a time limit. The provision is theirs for the period they need it, in this abode, until the term comes to its end and the appointed time runs out, ila an yantahiya al-amad wa yanqadiya al-ajal. On 80:32 he says it more briefly: a living for you and your livestock in this abode until the Day of Resurrection. His two glosses, like at-Tabari's ila hin, put an end date on the gift.",
+            "bn": "ইবন কাসীর ৭৯:৩৩-এর ব্যাখ্যা শেষ করেন একটা সময়সীমা দিয়ে। জীবিকা তাদের হাতে থাকবে যতদিন তাদের প্রয়োজন, এই দুনিয়ার ঘরে, যতক্ষণ না মেয়াদ শেষ হয় আর নির্ধারিত সময় ফুরিয়ে যায়। তাঁর ভাষায়: ইলা আন ইয়ানতাহিয়াল আমাদু ওয়া ইয়ানকাদিয়াল আজাল। ৮০:৩২-এ তিনি আরও সংক্ষেপে বলেন: এই দুনিয়ার ঘরে কিয়ামত পর্যন্ত তোমাদের ও তোমাদের পশুদের জীবনধারণের সামগ্রী। তাবারীর ইলা হীনের মতো তাঁর দুই ব্যাখ্যাও এ দানের একটা শেষ তারিখ বেঁধে দেয়।"
+          },
+          {
+            "en": "The surah then turns at once. The next verse, 79:34, opens: fa-idha ja'ati at-tammatu al-kubra, so when the greatest Overwhelming Event comes; the commentators fetched read it as the Day of Resurrection or the second blowing, an-nafkha ath-thaniya, and it has its own entry. Surah 'Abasa follows the same order: the identical three words at 80:32, then the Deafening Blast at 80:33. On that verse al-Qurtubi gives the reason: having mentioned the matter of livelihood, Allah mentioned the matter of the return, so that people would provision themselves for it with righteous deeds and with spending from what He had favoured them with.",
+            "bn": "এরপর সূরাটি সঙ্গে সঙ্গে মোড় নেয়। পরের আয়াত ৭৯:৩৪ শুরু হয় এভাবে: ফা-ইযা জাআতিত তাম্মাতুল কুবরা, অতঃপর যখন মহাবিপর্যয় আসবে। দেখা তাফসীরগুলো একে কিয়ামতের দিন অথবা দ্বিতীয় ফুৎকার, আন-নাফখাতুস সানিয়া, বলে পড়েছে। সে আয়াতের আলাদা লেখা আছে। সূরা আবাসাতেও একই ক্রম। ৮০:৩২-এ হুবহু এই তিনটি শব্দ, তারপর ৮০:৩৩-এ কানফাটা আওয়াজ। সেখানে কুরতুবী কারণটা বলেন: জীবিকার কথা বলার পর আল্লাহ ফিরে যাওয়ার কথা বললেন, যাতে মানুষ নেক আমল দিয়ে আর তাঁর দেওয়া নিয়ামত থেকে খরচ করে সে দিনের জন্য পাথেয় জোগাড় করে।"
+          },
+          {
+            "en": "Al-Qurtubi says this at 80:33, not at 79:34, and none of the commentators fetched on 79:34 spells out the link. It is reported here as his reading of the parallel passage, not as anyone's comment on this passage. What the text of Surah an-Nazi'at shows for itself is the order, and the order is plain enough to read without a commentator: first the provision for a while, the earth spread and watered for people and their animals, and then the Event that brings the while to its end.",
+            "bn": "কুরতুবী কথাটা বলেছেন ৮০:৩৩-এ, ৭৯:৩৪-এ নয়। ৭৯:৩৪-এর জন্য দেখা কোনো তাফসীর এই যোগসূত্রটা খুলে বলেনি। তাই এখানে কথাটা আনা হলো সমান্তরাল অংশে তাঁর পাঠ হিসেবে, এ অংশ নিয়ে কারও মন্তব্য হিসেবে নয়। সূরা নাযিআতের পাঠ নিজে যা দেখায় তা হলো ক্রম, আর সে ক্রম বুঝতে কোনো তাফসীর লাগে না। আগে কিছুকালের জীবিকা, মানুষ আর তাদের পশুদের জন্য বিছানো আর পানি দেওয়া জমিন। তারপর সেই মহাঘটনা, যা সেই কিছুকালের ইতি টানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Furnished World as Evidence",
+          "bn": "সাজানো দুনিয়াই প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "On the 'Abasa words al-Qurtubi adds two things: the passage is a likeness Allah strikes for raising the dead from their graves, as crops grow again after they have withered, and it carries a reminder of His favour. As-Sa'di there draws the duty: whoever looks at these blessings is bound to thank his Lord, strive to turn back to Him, obey Him, and believe what He has told.",
+            "bn": "আবাসার এই শব্দগুলোতে কুরতুবী দুটি কথা যোগ করেন। এক, অংশটি একটি উপমা, যা আল্লাহ কবর থেকে মৃতদের উঠানোর জন্য দিয়েছেন, যেমন শুকিয়ে যাওয়ার পর ফসল আবার গজায়। দুই, এতে আছে তাঁর অনুগ্রহের কথা মনে করিয়ে দেওয়া। সেখানে সা'দী দায়িত্বটা বলে দেন: যে এই নিয়ামতগুলোর দিকে তাকায়, তার উপর রবের শোকর করা, তাঁর দিকে ফিরতে চেষ্টা করা, তাঁর আনুগত্য করা আর তাঁর দেওয়া খবর বিশ্বাস করা জরুরি হয়ে যায়।"
+          },
+          {
+            "en": "In an-Nazi'at the argument runs from the sky down. As-Sa'di, closing his comment on the passage at 79:32, says that the One who created the vast heavens with their lights and bodies, and the dense dusty earth with what creatures need, must raise those held accountable and repay them. The Muyassar, Ibn Kathir and Ma'arif al-Qur'an frame it the same way, as the article on 79:29 sets out. No tafsir fetched attaches a hadith to 79:33.",
+            "bn": "নাযিআতে যুক্তিটা নামে আকাশ থেকে নিচে। ৭৯:৩২-এ এ অংশের আলোচনা শেষ করতে গিয়ে সা'দী বলেন: যিনি আলো আর জ্যোতিষ্কে ভরা বিশাল আকাশ সৃষ্টি করেছেন, আর সৃষ্টির প্রয়োজনের সব জিনিসসহ ঘন ধূলিময় জমিন বানিয়েছেন, তিনি দায়িত্বপ্রাপ্তদের অবশ্যই আবার উঠাবেন আর তাদের আমলের প্রতিদান দেবেন। মুয়াসসার, ইবন কাসীর আর মাআরিফুল কুরআন একই কাঠামোয় পড়েন, ৭৯:২৯-এর লেখায় তা বলা আছে। দেখা কোনো তাফসীর ৭৯:৩৩-এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "So the three words work in two directions. They look back and tell the listener that sky, earth, water, pasture and mountains were arranged for him and his animals. They look forward to a Day when the arrangement ends. Each drink of water and each grazing flock is a gift with a term, and a sign that the One who furnished the world can bring its people back.",
+            "bn": "তাই তিনটি শব্দ দুই দিকে কাজ করে। পেছনে তাকিয়ে শ্রোতাকে জানায়, আকাশ, জমিন, পানি, চারণভূমি আর পাহাড় তার আর তার পশুদের জন্য সাজানো হয়েছে। সামনে তাকিয়ে দেখায় সেই দিন, যেদিন এই আয়োজন শেষ হবে। প্রতি ঢোক পানি, প্রতিটি চরতে থাকা পশুর পাল একটা মেয়াদি দান। আবার একটা নিদর্শনও যে, যিনি দুনিয়াকে এভাবে সাজিয়েছেন, তিনি এর বাসিন্দাদের ফিরিয়ে আনতেও পারেন।"
+          }
+        ]
+      }
+    ]
+  },
   "79:40": {
     "sections": [
       {

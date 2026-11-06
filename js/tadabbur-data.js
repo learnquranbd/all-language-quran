@@ -29345,6 +29345,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The ground under you was smoothed and made ready before you arrived. Let each time you lie on it remind you that the One who prepared it can raise you again.",
     "lessonBn": "আপনি আসার আগেই আপনার পায়ের নিচের মাটি সমান করে প্রস্তুত রাখা হয়েছিল। যতবার তাতে শোবেন, মনে রাখুন: যিনি তা প্রস্তুত করেছেন, তিনি আপনাকে আবার ওঠাতে পারেন।"
+  },
+  "79:33": {
+    "reflectionEn": "The sky built and raised, its night darkened and its morning brought out, the earth spread, water and pasture drawn from it, the mountains set firm. Then three words say what all of it was for: provision for you and your livestock. I drink that water today, and I eat from animals that grazed on that pasture, usually without a thought for where either came from. It is provision for a while, not for ever, and the very next verse turns to the great Overwhelming Event. So what am I doing with the provision while it lasts, and do I see in a world this carefully furnished the Lord who can raise me again?",
+    "reflectionBn": "আকাশ নির্মাণ আর উঁচু করা হলো, তার রাত আঁধার আর সকাল আলোকিত হলো। জমিন বিছানো হলো, তার ভেতর থেকে পানি আর চারণভূমি বের করা হলো, পাহাড় গেড়ে দেওয়া হলো। তারপর তিনটি শব্দ জানিয়ে দেয় এত সব কিসের জন্য: তোমাদের আর তোমাদের পশুদের ভোগের সামগ্রী। আজও আমি সেই পানি পান করি, সেই চারণভূমিতে চরা পশুর গোশত খাই, অথচ কোনোটা কোথা থেকে এল তা ভাবি না বললেই চলে। এ জীবিকা কিছুদিনের জন্য, চিরকালের জন্য নয়। আর ঠিক পরের আয়াতেই আসে মহাবিপর্যয়ের কথা। তাহলে যতদিন এ সামগ্রী হাতে আছে, আমি তা দিয়ে কী করছি? এত যত্নে সাজানো দুনিয়ায় আমি কি সেই রবকে দেখি, যিনি আমাকে আবার জীবিত করতে পারেন?",
+    "pointsEn": [
+      "Which of today's ordinary things, a glass of water, a meal, a ride, did I take without once remembering who brought it out of the earth?",
+      "If this provision is only for a while, what am I sending ahead with it before the while runs out?",
+      "Do I treat the animals that share this provision with me as part of the same gift, or only as things I own?",
+      "When the thought of being raised again feels distant, have I tried looking at the sky and the ground the way this passage asks me to?",
+      "What would change in how I spend this week if I remembered that the next verse after my provision is the Overwhelming Event?"
+    ],
+    "pointsBn": [
+      "আজকের কোন সাধারণ জিনিসগুলো, এক গ্লাস পানি, এক বেলার খাবার, একটা বাহন, আমি নিয়েছি অথচ একবারও মনে করিনি কে এগুলো মাটি থেকে বের করে এনেছেন?",
+      "এ জীবিকা যদি কিছুদিনের জন্যই হয়, সেই সময় ফুরানোর আগে এ দিয়ে আমি সামনে কী পাঠাচ্ছি?",
+      "যে পশুরা এই জীবিকায় আমার শরিক, তাদের কি আমি একই দানের অংশ মনে করি, নাকি শুধু নিজের সম্পত্তি?",
+      "আবার জীবিত হওয়ার কথা যখন দূরের মনে হয়, তখন কি এ আয়াতগুলোর মতো করে আকাশ আর জমিনের দিকে তাকিয়ে দেখেছি?",
+      "জীবিকার কথার ঠিক পরের আয়াতেই মহাবিপর্যয়, এ কথা মনে থাকলে এ সপ্তাহে আমার খরচের ধরন কতটা বদলাত?"
+    ],
+    "lessonEn": "Sky, earth, water, pasture and mountains were set up as provision for you and your animals for a while; use it well, and let it remind you of the raising.",
+    "lessonBn": "আকাশ, জমিন, পানি, চারণভূমি আর পাহাড় কিছুদিনের জন্য আপনার ও আপনার পশুদের জীবিকা করে দেওয়া হয়েছে। এ জীবিকা ভালো কাজে লাগান, আর এ থেকে পুনরুত্থানের কথা মনে রাখুন।"
   }
 };
 
