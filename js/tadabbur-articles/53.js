@@ -1495,6 +1495,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "53:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Still Running",
+          "bn": "প্রশ্ন তখনো থামেনি"
+        },
+        "p": [
+          {
+            "en": "Am lam yunabba' bi-ma fi suhufi Musa: or has he not been told of what is in the scrolls of Musa? The verse is seven Arabic words, and it is still a question. It carries on the questioning that began at 53:33, have you seen him who turned away, and that asked at 53:35 whether he has knowledge of the unseen, so that he sees. The particle am, or, sets a second possibility beside it: if he cannot see the unseen, has he not at least been told?",
+            "bn": "আম লাম ইউনাব্বা' বিমা ফী সুহুফি মূসা: নাকি মূসার সহীফাগুলোতে যা আছে, তার খবর তাকে দেওয়া হয়নি? আয়াতটি আরবিতে সাতটি শব্দের, আর এখনো এটি প্রশ্নই। প্রশ্নের এই ধারা শুরু হয়েছিল ৫৩:৩৩ আয়াতে: তুমি কি তাকে দেখেছ, যে মুখ ফিরিয়ে নিয়েছে? ৫৩:৩৫ আয়াতে জিজ্ঞেস করা হয়েছিল, তার কাছে কি গায়েবের জ্ঞান আছে যে সে দেখতে পায়? 'আম' অর্থাৎ 'নাকি' শব্দটি তার পাশে আরেকটি সম্ভাবনা রাখে। গায়েব যদি সে দেখতে না-ই পায়, তবে অন্তত খবরটা কি তার কাছে পৌঁছায়নি?"
+          },
+          {
+            "en": "The verb is passive: yunabba', has he been given the news. At-Tabari restates it as lam yukhbar, has he not been informed, and al-Baghawi and the Muyassar use the same word. No teller is named; what the question presses is that the information was there to be had. Ibn Kathir closes his comment on this verse and the next with one sentence: then Allah began to set out what He had revealed in the scrolls of Ibrahim and Musa. The answer to the question is the list that follows it.",
+            "bn": "ক্রিয়াটি কর্মবাচ্যে: ইউনাব্বা', তাকে খবর দেওয়া হয়েছে কি না। তাবারী একে খুলে বলেন 'লাম ইউখবার', তাকে কি জানানো হয়নি। বাগাভী আর মুয়াসসারও একই শব্দ ব্যবহার করেন। কে খবর দিল, আয়াত তা বলে না। প্রশ্নের জোর অন্য জায়গায়: খবরটা হাতের নাগালেই ছিল। এ আয়াত ও পরের আয়াতের আলোচনা ইবন কাসীর শেষ করেন এক বাক্যে: এরপর আল্লাহ বলতে শুরু করলেন, ইবরাহীম ও মূসার সহীফায় তিনি কী নাযিল করেছিলেন। প্রশ্নের জবাব তাই পরের তালিকাটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Guarantee Paid in Coin",
+          "bn": "টাকায় কেনা জামানত"
+        },
+        "p": [
+          {
+            "en": "Who is he? The commentators answer from what 53:33 and 53:34 describe. At-Tabari says it was mentioned, dhukira, that those verses came down about al-Walid ibn al-Mughirah. He had followed the Prophet ﷺ in his religion, and one of the polytheists reproached him for it. That man guaranteed that, if al-Walid gave him some of his wealth and returned to his shirk, he would carry the punishment of the Hereafter for him. Al-Walid did so, paid part of what was agreed, then grew stingy and withheld the rest.",
+            "bn": "লোকটি কে? ৫৩:৩৩ ও ৫৩:৩৪ আয়াতের বর্ণনা ধরে তাফসীরকারেরা উত্তর দেন। তাবারী বলেন, 'যুকিরা', অর্থাৎ উল্লেখ করা হয়েছে যে ওই আয়াতগুলো নাযিল হয়েছিল ওয়ালীদ ইবনুল মুগীরাকে নিয়ে। তিনি নবী ﷺ-এর দ্বীন অনুসরণ করেছিলেন, তাতে একজন মুশরিক তাকে ভর্ৎসনা করে। লোকটি জামিন হলো: ওয়ালীদ যদি তাকে কিছু সম্পদ দেয় আর শিরকে ফিরে যায়, তবে আখিরাতের আযাব সে নিজে তার হয়ে বইবে। ওয়ালীদ তা-ই করল। চুক্তির কিছু অংশ দিল, তারপর কৃপণ হয়ে বাকিটা আটকে রাখল।"
+          },
+          {
+            "en": "At-Tabari supports the name with a report from Mujahid, who said of wa-akda, and held back: al-Walid ibn al-Mughirah gave a little, then held back. He also brings a fuller version from Ibn Zayd that names no one. A man accepted Islam and was taunted for leaving the religion of the elders. He answered that he feared Allah's punishment. The other said: give me something, and I will carry every punishment due on you. They haggled over the amount, and the bargain was put in writing and witnessed.",
+            "bn": "নামটির পক্ষে তাবারী মুজাহিদের একটি বর্ণনা আনেন। 'ওয়া আকদা' অর্থাৎ 'এবং হাত গুটিয়ে নিল' প্রসঙ্গে মুজাহিদ বলেছেন: ওয়ালীদ ইবনুল মুগীরা সামান্য দিল, তারপর থেমে গেল। ইবন যায়দ থেকে তিনি আরও বিস্তারিত একটি বর্ণনা আনেন, যাতে কারও নাম নেই। এক লোক ইসলাম গ্রহণ করল। কেউ তাকে খোঁটা দিল, বাপ-দাদার ধর্ম ছেড়ে দিলে কেন? সে বলল, আমি আল্লাহর আযাবকে ভয় পেয়েছি। অন্যজন বলল, আমাকে কিছু দাও, তোমার সব আযাব আমি বয়ে নেব। দাম নিয়ে দুজনে দর কষাকষি করল, তারপর চুক্তিটা লিখে সাক্ষী রাখা হলো।"
+          },
+          {
+            "en": "Al-Baghawi states the al-Walid account without qualification, and al-Qurtubi reports it from Mujahid, Ibn Zayd and Muqatil. At-Tabari then reads this verse in its light. His paraphrase of 53:36 names the man by his bargain: has this man, for whom it was guaranteed that another would bear Allah's punishment for him in the Hereafter, not been told what is in the scrolls of Musa ibn 'Imran? As-Sa'di, without naming anyone, calls him simply hadha al-mudda'i, this claimant.",
+            "bn": "বাগাভী ওয়ালীদের ঘটনাটি কোনো শর্ত ছাড়াই উল্লেখ করেন। কুরতুবী তা বর্ণনা করেন মুজাহিদ, ইবন যায়দ ও মুকাতিল থেকে। এরপর তাবারী এ আয়াতটি পড়েন ওই ঘটনার আলোয়। ৫৩:৩৬ আয়াতের ব্যাখ্যায় তিনি লোকটিকে চেনান তার সওদা দিয়েই: যার জন্য জামিন হওয়া হয়েছিল যে আখিরাতে আল্লাহর আযাব অন্য কেউ তার হয়ে বইবে, মূসা ইবন ইমরানের সহীফায় কী আছে, সে খবর কি তাকে জানানো হয়নি? সা'দী কারও নাম নেন না। তিনি তাকে শুধু বলেন 'হাযাল মুদ্দাঈ', এই দাবিদার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "More Than One Name Offered",
+          "bn": "একাধিক নাম, একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The commentators do not settle on a single man. Al-Qurtubi records further reports for 53:33 naming others, among them al-'As ibn Wa'il from as-Suddi, Abu Jahl from Muhammad ibn Ka'b al-Qurazi, and an-Nadr ibn al-Harith from ad-Dahhak. Ibn Kathir, in the English abridgement, names no one at all. He reads the passage as a rebuke of those who turn from obedience and stop giving for fear of poverty, and asks whether such a person knows the unseen, so as to be sure his giving would ruin him.",
+            "bn": "একজন নির্দিষ্ট মানুষে তাফসীরকারেরা একমত হননি। ৫৩:৩৩ আয়াতের আলোচনায় কুরতুবী আরও কিছু বর্ণনা উল্লেখ করেন, যেগুলো অন্যদের নাম নেয়। তার মধ্যে আছে সুদ্দী থেকে আস ইবন ওয়াইল, মুহাম্মাদ ইবন কা'ব আল-কুরাযী থেকে আবু জাহল, আর দাহহাক থেকে নাদর ইবনুল হারিস। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ কারও নামই নেয় না। তিনি অংশটিকে পড়েন তাদের প্রতি তিরস্কার হিসেবে, যারা আনুগত্য থেকে মুখ ফেরায় আর দারিদ্র্যের ভয়ে দান বন্ধ করে দেয়। তাঁর প্রশ্ন: এমন লোক কি গায়েব জানে যে নিশ্চিত হয়ে গেছে, দান করলে সে নিঃস্ব হয়ে যাবে?"
+          },
+          {
+            "en": "Whoever it first described, the question reaches further than one man in Makkah. An occasion explains why a verse was said; it does not fence the verse in. This verse describes only what its text describes: a man who turned away and trusted a bargain. It licenses nothing against any living person or community, and it hands no reader a name to fasten on someone he dislikes. What it does hand every reader is the question itself, put to anyone who has already been told.",
+            "bn": "প্রথমে যাকে নিয়েই বলা হোক, প্রশ্নটা মক্কার একজন মানুষের চেয়ে অনেক দূর পর্যন্ত পৌঁছায়। শানে নুযূল জানায় আয়াতটি কেন বলা হলো, কিন্তু আয়াতকে সেখানেই বেঁধে রাখে না। এ আয়াত কেবল ততটুকুই বর্ণনা করে, যতটুকু তার শব্দে আছে: এক লোক মুখ ফিরিয়ে নিয়েছিল আর একটা সওদার উপর ভরসা করেছিল। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। অপছন্দের কারও গায়ে সেঁটে দেওয়ার মতো কোনো নামও পাঠকের হাতে তুলে দেয় না। প্রত্যেক পাঠকের হাতে যা দেয়, তা হলো প্রশ্নটাই। যাকে আগেই জানানো হয়েছে, প্রশ্নটা তার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pages Given to Musa",
+          "bn": "মূসাকে দেওয়া পাতাগুলো"
+        },
+        "p": [
+          {
+            "en": "Suhuf is the plural of sahifah, a written page. Al-Baghawi says the scrolls of Musa are the books of the Tawrah, asfar at-Tawrah. The Muyassar paraphrases the two verses together the same way: has he not been told what came in the books of the Tawrah and the scrolls of Ibrahim, who fulfilled what he was commanded and conveyed it? At-Tabari names the prophet in full, Musa ibn 'Imran (AS). Al-Qurtubi points to Surat al-A'la, which closes with the same pair of prophets: the scrolls of Ibrahim and Musa, 87:19.",
+            "bn": "সুহুফ শব্দটি সহীফার বহুবচন, সহীফা মানে লেখা পাতা। বাগাভী বলেন, মূসার সহীফা মানে তাওরাতের কিতাবগুলো, 'আসফারুত তাওরাহ'। মুয়াসসার দুই আয়াত একসঙ্গে ব্যাখ্যা করে একই কথা বলে: তাওরাতের কিতাবে আর ইবরাহীমের সহীফায় যা এসেছে, সে খবর কি তাকে দেওয়া হয়নি? সেই ইবরাহীম, যিনি আদেশ পুরোপুরি পালন করেছিলেন আর পৌঁছে দিয়েছিলেন। তাবারী নবীর পুরো নাম বলেন, মূসা ইবন ইমরান (আঃ)। কুরতুবী দৃষ্টি দেন সূরা আল-আ'লার দিকে, যার শেষেও এই দুই নবীর জুটি: ইবরাহীম ও মূসার সহীফা, ৮৭:১৯।"
+          },
+          {
+            "en": "Notice the order. In al-A'la, Ibrahim (AS) comes first; here Musa (AS) comes first, and Ibrahim (AS) then receives a description of his own, alladhi waffa. None of the commentaries consulted here explains the reversal, and this article does not guess. Nor do the sources describe what else those scrolls held, beyond what the surah itself quotes. Al-Qurtubi gives their substance in a line drawn from the next verse: no soul is seized in place of another, as Allah said, no bearer of burdens bears the burden of another.",
+            "bn": "ক্রমটা খেয়াল করুন। আল-আ'লায় ইবরাহীম (আঃ) আগে। এখানে আগে মূসা (আঃ), আর তারপর ইবরাহীম (আঃ)-এর জন্য আলাদা একটি পরিচয় আসে: 'আল্লাযী ওয়াফফা'। এই উল্টো ক্রমের কারণ এখানে দেখা কোনো তাফসীরে নেই, আর এ লেখাও কোনো অনুমান করছে না। সূরা নিজে যা উদ্ধৃত করেছে, তার বাইরে ওই সহীফাগুলোতে আর কী ছিল, উৎসগুলো তাও বলে না। কুরতুবী তাদের সারকথা দেন পরের আয়াত থেকে নেওয়া এক লাইনে: কোনো প্রাণকে অন্যের বদলে ধরা হবে না, যেমন আল্লাহ বলেছেন, কোনো বোঝা বহনকারী অন্যের বোঝা বইবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kin Seized for Kin",
+          "bn": "একজনের দায়ে আত্মীয়কে পাকড়াও"
+        },
+        "p": [
+          {
+            "en": "Why are these two prophets named? Al-Qurtubi gives a reason from al-Hudhayl ibn Shurahbil: in the time between Nuh and Ibrahim, a man used to be seized for the crime of his brother, his son and his father. At-Tabari, on the next verse, has a matching report from Ibn Abbas through Ikrimah: before Ibrahim they would take a man's kinsman in place of the man, until Ibrahim came and conveyed that no bearer of burdens bears another's burden, so that no one is held for another's sin.",
+            "bn": "এই দুই নবীর নাম কেন? কুরতুবী হুযাইল ইবন শুরাহবীল থেকে একটি কারণ উল্লেখ করেন: নূহ ও ইবরাহীমের মাঝের যুগে একজনের অপরাধে তার ভাই, ছেলে বা বাবাকে পাকড়াও করা হতো। পরের আয়াতের আলোচনায় তাবারী ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে একই রকম বর্ণনা আনেন। ইবরাহীমের আগে লোকেরা একজনের বদলে তার আত্মীয়কে ধরত। তারপর ইবরাহীম এসে পৌঁছে দিলেন: কোনো বোঝা বহনকারী অন্যের বোঝা বইবে না। অর্থাৎ কাউকে অন্যের গুনাহর জন্য ধরা হবে না।"
+          },
+          {
+            "en": "Set beside the occasion, the fit is close. The man of 53:33 to 53:35 had paid for exactly the arrangement those scrolls had cancelled: someone else would carry his punishment. Al-Qurtubi adds a point of grammar that ties the question to its answer. The an that opens 53:38 is the lightened form of anna, and its clause either stands in place of ma, what, in this verse and takes its case, or is the predicate of an understood huwa, it is. Either way, the what of 53:36 is the list that follows.",
+            "bn": "শানে নুযূলের পাশে রাখলে মিলটা চোখে পড়ে। ৫৩:৩৩ থেকে ৫৩:৩৫ আয়াতের লোকটি টাকা দিয়ে ঠিক সেই ব্যবস্থাই কিনেছিল, যা ওই সহীফাগুলো বাতিল করে দিয়েছিল: তার আযাব অন্য কেউ বইবে। কুরতুবী ব্যাকরণের একটি কথা যোগ করেন, যা প্রশ্নকে তার জবাবের সঙ্গে বেঁধে দেয়। ৫৩:৩৮ আয়াতের শুরুর 'আন' হলো 'আন্না'-র হালকা রূপ। তার বাক্যাংশটি হয় এ আয়াতের 'মা' অর্থাৎ 'যা'-র জায়গায় বসে, নয়তো তার আগে একটি উহ্য 'হুয়া', অর্থাৎ 'তা হলো', ধরে নিতে হয়। যেভাবেই পড়া হোক, ৫৩:৩৬ আয়াতের 'যা' মানে পরের তালিকাটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Ibrahim Fulfilled",
+          "bn": "ইবরাহীম (আঃ) কী পূর্ণ করলেন"
+        },
+        "p": [
+          {
+            "en": "Wa-Ibrahima alladhi waffa: and of Ibrahim, who fulfilled. Ibn Kathir collects the early glosses. Sa'id ibn Jubayr and ath-Thawri: he conveyed all he was commanded. Ibn Abbas: he fulfilled for Allah the duty of conveying. Qatadah: he fulfilled obedience to Allah and delivered His message to His creation. Ibn Kathir notes that this was Ibn Jarir's choice and that it contains the reading before it, and he supports it with 2:124: when his Lord tested Ibrahim with words, he completed them.",
+            "bn": "ওয়া ইবরাহীমাল্লাযী ওয়াফফা: আর ইবরাহীমের, যিনি পূর্ণ করেছিলেন। ইবন কাসীর প্রথম যুগের ব্যাখ্যাগুলো এক জায়গায় আনেন। সাঈদ ইবন জুবাইর ও সাওরী বলেন: যা পৌঁছাতে আদেশ পেয়েছিলেন, সবই পৌঁছে দিয়েছিলেন। ইবন আব্বাস (রাঃ) বলেন: আল্লাহর জন্য পৌঁছে দেওয়ার দায়িত্ব পূর্ণ করেছিলেন। কাতাদা বলেন: আল্লাহর আনুগত্য পূর্ণ করেছিলেন আর তাঁর বার্তা তাঁর সৃষ্টির কাছে পৌঁছে দিয়েছিলেন। ইবন কাসীর জানান, ইবন জারীর কাতাদার ব্যাখ্যাটিই বেছে নিয়েছেন, আর আগের ব্যাখ্যাটিও এর ভেতরে পড়ে। এর সমর্থনে তিনি আনেন ২:১২৪: যখন ইবরাহীমকে তাঁর রব কয়েকটি কথা দিয়ে পরীক্ষা করলেন, তিনি সেগুলো পূর্ণ করলেন।"
+          },
+          {
+            "en": "At-Tabari's own reports add a narrower line. Ikrimah used to say that Ibrahim fulfilled these ten verses, from no bearer of burdens in 53:38 down to and that upon Him is the second creation, 53:47. Al-Baghawi widens the field instead. Mujahid: he fulfilled what was made obligatory on him. Ar-Rabi': he fulfilled his dream and set about sacrificing his son. 'Ata' al-Khurasani: he completed obedience. Abu al-'Aliyah: he fulfilled the portions of Islam. Ad-Dahhak: he fulfilled the covenant of the rites, the manasik.",
+            "bn": "তাবারীর নিজের বর্ণনাগুলোতে একটি সংকীর্ণ ব্যাখ্যাও আছে। ইকরিমা বলতেন, ইবরাহীম পূর্ণ করেছিলেন এই দশটি আয়াত: ৫৩:৩৮ আয়াতের 'কোনো বোঝা বহনকারী' থেকে ৫৩:৪৭ আয়াতের 'আর দ্বিতীয়বার সৃষ্টি তাঁরই দায়িত্বে' পর্যন্ত। বাগাভী উল্টো পরিধিটা বড় করেন। মুজাহিদ বলেন: তাঁর উপর যা ফরয করা হয়েছিল, তা পূর্ণ করেছিলেন। রাবী' বলেন: নিজের স্বপ্ন পূর্ণ করেছিলেন আর ছেলেকে কুরবানি করতে উদ্যত হয়েছিলেন। আতা আল-খুরাসানী বলেন: আনুগত্য পূর্ণ করেছিলেন। আবুল আলিয়া বলেন: ইসলামের অংশগুলো পূর্ণ করেছিলেন। দাহহাক বলেন: মানাসিকের অঙ্গীকার পূর্ণ করেছিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi notes a variant reading. Sa'id ibn Jubayr and Qatadah recited wafa, without the doubled consonant, meaning he was true in word and deed, and al-Qurtubi says it comes back to the sense of the majority's waffa: he carried out everything made obligatory on him and broke off none of it. He reports Abu Bakr al-Warraq's reading too. Ibrahim (AS) said aslamtu, I submit, and Allah tested that claim in his wealth, his child and his own self, and found him true to it. As-Sa'di gathers it all: he upheld everything Allah tested him with and commanded him.",
+            "bn": "কুরতুবী একটি ভিন্ন কিরাআতের কথা বলেন। সাঈদ ইবন জুবাইর ও কাতাদা পড়তেন 'ওয়াফা', দ্বিত্ব ছাড়া। এর অর্থ, কথায় ও কাজে তিনি সত্য ছিলেন। কুরতুবীর মতে এটি অধিকাংশের কিরাআত 'ওয়াফফা'-র অর্থেই ফিরে আসে: তাঁর উপর যা ফরয ছিল সবই তিনি পালন করেছিলেন, কিছুই ভাঙেননি। আবু বকর আল-ওয়াররাকের ব্যাখ্যাও তিনি আনেন। ইবরাহীম (আঃ) বলেছিলেন 'আসলামতু', আমি আত্মসমর্পণ করলাম। আল্লাহ তাঁর সম্পদে, সন্তানে ও নিজের প্রাণে সেই দাবির পরীক্ষা নিলেন, আর তাঁকে দাবিতে খাঁটি পেলেন। সা'দী সব একত্র করে বলেন: আল্লাহ যা দিয়ে তাঁকে পরীক্ষা করেছেন আর যা আদেশ করেছেন, সবই তিনি পালন করেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Rak'ahs at Daybreak",
+          "bn": "দিনের শুরুতে চার রাকআত"
+        },
+        "p": [
+          {
+            "en": "Some reports tie waffa to particular deeds. Ibn Kathir brings from Ibn Abi Hatim, through Abu Umamah, that the Prophet ﷺ recited this verse and asked him whether he knew what waffa meant; Abu Umamah said Allah and His Messenger know best, and the Prophet ﷺ said: he fulfilled his day's work with four rak'ahs at the start of the day. Ibn Kathir adds that Ibn Jarir narrated it through Ja'far ibn az-Zubayr, adding his judgement: weak, da'if. Ibn Abi Hatim's chain passes through Ja'far too, and so does al-Baghawi's.",
+            "bn": "কিছু বর্ণনা 'ওয়াফফা'-কে নির্দিষ্ট আমলের সঙ্গে জোড়ে। ইবন কাসীর ইবন আবী হাতিম থেকে আবু উমামা (রাঃ)-এর সূত্রে আনেন: নবী ﷺ এ আয়াত তিলাওয়াত করে তাঁকে জিজ্ঞেস করলেন, ওয়াফফা মানে কী জানো? আবু উমামা বললেন, আল্লাহ ও তাঁর রাসূলই ভালো জানেন। নবী ﷺ বললেন: দিনের শুরুতে চারটি রাকআত দিয়ে তিনি সারাদিনের আমল পূর্ণ করতেন। ইবন কাসীর যোগ করেন, ইবন জারীরও এটি জা'ফর ইবনুয যুবাইরের সূত্রে বর্ণনা করেছেন, আর সঙ্গে এক শব্দের রায় দেন: দুর্বল, যঈফ। ইবন আবী হাতিমের সনদও জা'ফরের মধ্য দিয়ে গেছে, বাগাভীর সনদও তাই।"
+          },
+          {
+            "en": "Ibn Kathir then quotes a narration from at-Tirmidhi that mentions neither Ibrahim nor this verse. Jami' at-Tirmidhi (475), from Abu ad-Darda' and Abu Dharr, has the Messenger of Allah ﷺ narrate that Allah said: \"Son of Adam: Perform four Rak'ah for Me in the beginning of the day it will suffice you for the latter part of it.\" At-Tirmidhi graded it hasan gharib. It is a general narration about prayer early in the day, not attached to this verse, and it appears here only because the commentators set it beside the weak report.",
+            "bn": "এরপর ইবন কাসীর তিরমিযী থেকে একটি হাদীস উদ্ধৃত করেন, যাতে ইবরাহীম (আঃ)-এর কথাও নেই, এ আয়াতের কথাও নেই। জামি' আত-তিরমিযী (৪৭৫)-এ আবুদ দারদা (রাঃ) ও আবু যার (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন, আল্লাহ বলেন: \"হে আদম সন্তান, দিনের শুরুতে আমার জন্য চারটি রাকআত নামায পড়ো, দিনের শেষ ভাগের জন্য আমি তোমার যথেষ্ট হয়ে যাব।\" তিরমিযী একে হাসান গরীব বলেছেন। এটি দিনের শুরুর নামায নিয়ে একটি সাধারণ হাদীস, এ আয়াতের সঙ্গে যুক্ত নয়। এখানে এসেছে শুধু এজন্য যে তাফসীরকারেরা একে দুর্বল বর্ণনাটির পাশে রেখেছেন।"
+          },
+          {
+            "en": "A third report, from Ibn Abi Hatim through Ibn Lahi'ah, says Ibrahim was called the one who fulfilled because every morning and evening he recited 30:17, so glory be to Allah when you reach evening and when you reach morning. Ibn Kathir relays it with its chain and gives no verdict on it, and Ma'arif al-Qur'an repeats it. Ma'arif adds that such particular readings do not conflict with the general one, since fulfilling the covenant takes them all in. No commentary consulted here attaches a sound hadith to this verse.",
+            "bn": "তৃতীয় একটি বর্ণনা ইবন আবী হাতিম থেকে, ইবন লাহীআর সূত্রে। তাতে বলা হয়েছে, ইবরাহীমকে 'যিনি পূর্ণ করেছিলেন' বলা হয়েছে কারণ প্রতি সকাল-সন্ধ্যায় তিনি ৩০:১৭ পড়তেন: অতএব আল্লাহর পবিত্রতা ঘোষণা করো যখন তোমরা সন্ধ্যায় পৌঁছাও আর যখন সকালে পৌঁছাও। ইবন কাসীর সনদসহ এটি উল্লেখ করেন, কিন্তু এর মান নিয়ে কোনো রায় দেন না। মাআরিফুল কুরআনও এটি আনে। মাআরিফ যোগ করে, এমন নির্দিষ্ট ব্যাখ্যাগুলো সাধারণ ব্যাখ্যার বিরোধী নয়, কারণ অঙ্গীকার পূর্ণ করার মধ্যে এগুলো সবই পড়ে। এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told, and Still Bargaining",
+          "bn": "জেনেও দর কষাকষি"
+        },
+        "p": [
+          {
+            "en": "The verse asks a question whose answer the asker already knows. The scrolls had been given; their teaching had been carried by Musa and Ibrahim (AS), and now the surah was quoting it. On the commentators' account, the man's trouble was not missing information. He knew enough to fear Allah's punishment; in Ibn Zayd's report those are his own words. What he lacked was trust in what he had been told, so he bought a promise from someone who could never keep it.",
+            "bn": "আয়াতটি এমন প্রশ্ন করে, যার উত্তর প্রশ্নকর্তা আগেই জানেন। সহীফাগুলো দেওয়া হয়েছিল। তার শিক্ষা বয়ে এনেছিলেন মূসা ও ইবরাহীম (আঃ), আর এখন সূরাটি সেটাই উদ্ধৃত করছে। তাফসীরকারদের বর্ণনা অনুযায়ী, লোকটির সমস্যা খবরের অভাব ছিল না। আল্লাহর আযাবকে ভয় করার মতো জ্ঞান তার ছিল। ইবন যায়দের বর্ণনায় এ কথা তার নিজের মুখেরই। তার যা ছিল না, তা হলো যা জানানো হয়েছে তার উপর আস্থা। তাই সে এমন একজনের কাছ থেকে প্রতিশ্রুতি কিনল, যে কখনোই তা রাখতে পারত না।"
+          },
+          {
+            "en": "The pairing in these verses is worth holding. One man gave a little and stopped short; at-Tabari and al-Qurtubi explain akda by a digger who strikes rock and gives up. Ibrahim (AS) is named by the opposite: he completed. The question then becomes the reader's own. What have I been told, by revelation and by people who cared about me, that I have treated as optional? And which comfortable guarantee, from a group, a habit or a hope, am I trusting to carry what I alone will carry?",
+            "bn": "এই আয়াতগুলোর জোড়টা মনে রাখার মতো। একজন সামান্য দিয়ে মাঝপথে থেমে গেল। তাবারী ও কুরতুবী 'আকদা' বোঝান এমন খননকারী দিয়ে, যে কূপ খুঁড়তে খুঁড়তে পাথরে ঠেকে হাল ছেড়ে দেয়। আর ইবরাহীম (আঃ)-কে চেনানো হয় তার উল্টো গুণে: তিনি পূর্ণ করেছিলেন। প্রশ্নটা তখন পাঠকের নিজের হয়ে যায়। ওহী আর আমার শুভাকাঙ্ক্ষী মানুষেরা আমাকে কোন কথা জানিয়েছে, যাকে আমি ঐচ্ছিক ভেবে রেখেছি? আর কোন আরামদায়ক জামানতের উপর, কোনো দল, অভ্যাস বা আশার উপর, আমি ভরসা করে আছি যে সে আমার বোঝা বইবে, অথচ সে বোঝা শুধু আমাকেই বইতে হবে?"
+          }
+        ]
+      }
+    ]
+  },
   "53:39-42": {
     "sections": [
       {

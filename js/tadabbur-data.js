@@ -27849,6 +27849,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Settle your doubts while there is time and turn your face to Allah in humility today; read the warning about dragged faces as addressed to you, not to others.",
     "lessonBn": "সময় থাকতে সন্দেহের মীমাংসা করুন, আজই বিনয়ের সঙ্গে আল্লাহর দিকে মুখ ফেরান। মুখের ভরে টেনে নেওয়ার এ সতর্কবাণী অন্যের জন্য নয়, নিজের জন্য পড়ুন।"
+  },
+  "53:36": {
+    "reflectionEn": "The question does not ask whether the scrolls of Musa exist. It asks whether their message has reached him. Behind it stands a man who turned away, gave a little and then held back, and who behaves as if he could see the unseen. The surah answers him with nothing new. It answers with something very old: what was written for Musa, and for Ibrahim, who fulfilled. A truth already delivered leaves no room for the excuse that nobody told me. So the verse turns towards me. What have I been told, plainly and more than once, that I still live as if I had never heard? And whose promise am I trusting in its place?",
+    "reflectionBn": "প্রশ্নটা এই নয় যে মূসার সহীফা আছে কি না। প্রশ্ন হলো, তার বার্তা লোকটির কাছে পৌঁছেছে কি না। প্রশ্নের পেছনে দাঁড়িয়ে আছে এমন একজন, যে মুখ ফিরিয়ে নিয়েছে, সামান্য দিয়ে হাত গুটিয়ে নিয়েছে, আর এমন ভাব করছে যেন গায়েবের খবর সে দেখতে পায়। সূরা তাকে নতুন কিছু শোনায় না। শোনায় অনেক পুরোনো কথা: মূসার জন্য যা লেখা হয়েছিল, আর ইবরাহীমের জন্য, যিনি পুরোপুরি পালন করেছিলেন। যে সত্য আগেই পৌঁছে গেছে, সেখানে 'আমাকে তো কেউ বলেনি' অজুহাতের জায়গা থাকে না। তাই আয়াতটা ঘুরে আসে আমার দিকে। কোন কথা আমাকে পরিষ্কার করে, একাধিকবার বলা হয়েছে, অথচ আমি এমনভাবে চলি যেন কখনো শুনিনি? আর তার বদলে কার প্রতিশ্রুতির উপর আমি ভরসা করে আছি?",
+    "pointsEn": [
+      "What have I already been told about my own accountability that I still treat as news I never received?",
+      "Is there a promise from a person, a group or a habit that I lean on as if it could carry my burden for me?",
+      "Where have I given a little of my time, money or effort to something good and then quietly stopped?",
+      "Ibrahim (AS) is remembered as the one who fulfilled. Which of my commitments is still only half kept?",
+      "When an old truth reaches me again, do I value it less because I have heard it before?"
+    ],
+    "pointsBn": [
+      "নিজের জবাবদিহি নিয়ে কোন কথা আমাকে আগেই জানানো হয়েছে, অথচ আমি এখনো তাকে না-শোনা খবরের মতো দেখি?",
+      "কোনো মানুষ, দল বা অভ্যাসের প্রতিশ্রুতির উপর কি আমি এমনভাবে ভর দিয়ে আছি, যেন সে আমার বোঝা বয়ে দেবে?",
+      "সময়, টাকা বা শ্রমের সামান্য কিছু কোন ভালো কাজে দিয়ে আমি চুপচাপ থেমে গেছি?",
+      "ইবরাহীম (আঃ)-কে মনে রাখা হয় পুরোপুরি পালনকারী হিসেবে। আমার কোন অঙ্গীকার এখনো আধাআধি পালন করা পড়ে আছে?",
+      "পুরোনো কোনো সত্য আবার কানে এলে, আগে শুনেছি বলে কি তার দাম আমার কাছে কমে যায়?"
+    ],
+    "lessonEn": "Act on the guidance that has already reached you, rely on no one to carry your burden, and finish what you have begun, as Ibrahim (AS) fulfilled what he was given.",
+    "lessonBn": "যে হিদায়াত আপনার কাছে আগেই পৌঁছেছে তার উপর আমল করুন, আপনার বোঝা অন্য কেউ বইবে এমন ভরসা করবেন না, আর ইবরাহীম (আঃ) যেমন তাঁর দায়িত্ব পুরোপুরি পালন করেছিলেন, তেমনি শুরু করা কাজ শেষ করুন।"
   }
 };
 
