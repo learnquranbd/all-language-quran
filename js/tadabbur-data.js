@@ -26289,6 +26289,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Treat every blessing as a test from Allah, not proof of your worth: thank the One who gave it, and never sign your own name to His gift.",
     "lessonBn": "প্রতিটি নি‘মাতকে নিজের যোগ্যতার প্রমাণ না ভেবে আল্লাহর দেওয়া পরীক্ষা মনে করুন। যিনি দিয়েছেন তাঁর শোকর করুন, তাঁর দানের গায়ে কখনো নিজের নাম লিখবেন না।"
+  },
+  "39:56": {
+    "reflectionEn": "Three verses earlier the door was opened as wide as it goes: do not despair of Allah's mercy. Then came the urgency: turn back before the punishment comes, suddenly, while you do not notice. This verse gives the reason for the hurry. It lets us hear, ahead of time, a sentence someone will say too late: alas for my neglect concerning Allah, and I was among the mockers. We are told the words while they can still be changed. Hope and warning are not two moods here; they are one message. Mercy is wide today, and today is not endless. What have I been putting off with Allah, telling myself there is time? And is there something sacred I treat lightly, even only in a joke?",
+    "reflectionBn": "তিন আয়াত আগে দরজাটা খুলে দেওয়া হয়েছে যতখানি খোলা যায়: আল্লাহর রহমত থেকে নিরাশ হয়ো না। তারপর এসেছে তাড়া: আযাব আসার আগেই ফিরে এসো, যা আসবে হঠাৎ, টেরও পাবে না। এ আয়াত বলে দেয় তাড়াটা কেন। একটা কথা, যা কেউ বলবে অনেক দেরিতে, তা আমাদের আগেভাগেই শুনিয়ে দেওয়া হচ্ছে: হায় আফসোস, আল্লাহর ব্যাপারে আমি অবহেলা করেছি, আর আমি তো ঠাট্টাকারীদের দলে ছিলাম। কথাটা শোনানো হচ্ছে এমন সময়ে, যখন তা বদলানো এখনো সম্ভব। এখানে আশা আর সতর্কবাণী দুই রকম মেজাজ নয়, একই বার্তা। রহমত আজ প্রশস্ত, কিন্তু আজকের দিনটা অফুরন্ত নয়। আল্লাহর সঙ্গে কোন কাজটা আমি ফেলে রাখছি, নিজেকে বুঝিয়ে যে সময় তো আছে? আর পবিত্র কোনো কিছুকে কি আমি হালকা করে দেখি, হোক তা কেবল ঠাট্টার ছলে?",
+    "pointsEn": [
+      "What duty toward Allah have I kept postponing because I assume there will be time later?",
+      "If I heard today the sentence I would say about my own neglect, what would be in it?",
+      "Do I ever joke about the religion, or about people who practise it sincerely, and treat it as harmless?",
+      "How can I hold on to the hope of 39:53 without letting it become a reason to delay?",
+      "What is one step of returning to Allah I could take this week rather than someday?"
+    ],
+    "pointsBn": [
+      "আল্লাহর প্রতি কোন দায়িত্বটা আমি বারবার পিছিয়ে দিচ্ছি, এই ভেবে যে পরে সময় পাওয়া যাবে?",
+      "নিজের অবহেলা নিয়ে যে কথাটা আমি একদিন বলব, আজই যদি তা শুনতে পেতাম, তাতে কী কী থাকত?",
+      "দ্বীন নিয়ে, কিংবা যারা আন্তরিকভাবে দ্বীন মেনে চলে তাদের নিয়ে আমি কি কখনো ঠাট্টা করি, আর ভাবি এতে দোষের কিছু নেই?",
+      "৩৯:৫৩ আয়াতের আশাটা কীভাবে আঁকড়ে ধরব, যাতে তা দেরি করার অজুহাত না হয়ে দাঁড়ায়?",
+      "কোনো একদিন নয়, এ সপ্তাহেই আল্লাহর দিকে ফেরার কোন একটা পদক্ষেপ আমি নিতে পারি?"
+    ],
+    "lessonEn": "Hold on to Allah's wide mercy and turn back now, while your words can still change, before neglect and mockery become a regret that no longer helps.",
+    "lessonBn": "আল্লাহর প্রশস্ত রহমত আঁকড়ে ধরুন আর এখনই ফিরে আসুন, যখন নিজের কথা বদলানোর সুযোগ আছে, অবহেলা আর ঠাট্টা এমন আফসোসে পরিণত হওয়ার আগে, যা আর কোনো কাজে আসবে না।"
   }
 };
 

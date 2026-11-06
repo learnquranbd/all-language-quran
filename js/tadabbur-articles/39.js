@@ -2131,6 +2131,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "Said Ahead of Time",
+          "bn": "আগেভাগে শোনানো কথা"
+        },
+        "p": [
+          {
+            "en": "An taqula nafsun: that a soul should say. At-Tabari ties the clause straight back to the command before it: turn back to your Lord and submit to Him, lest a soul say. He reads an here as li-alla, so that not, and gives a parallel from 16:15, where the mountains are set in the earth an tamida bikum, meaning so that it does not sway with you. Al-Baghawi gives the same reading and the same parallel. The verse, then, is not a fresh topic. It is the reason attached to an instruction already given.",
+            "bn": "আন তাকূলা নাফসুন: যাতে কোনো প্রাণকে বলতে না হয়। তাবারী বাক্যাংশটিকে সরাসরি আগের নির্দেশের সঙ্গে জুড়ে দেন: তোমাদের রবের দিকে ফিরে এসো, তাঁর কাছে আত্মসমর্পণ করো, যাতে কোনো প্রাণকে এ কথা বলতে না হয়। তাঁর মতে এখানে আন মানে লি-আল্লা, অর্থাৎ যাতে না। উদাহরণ দেন ১৬:১৫ থেকে, যেখানে পৃথিবীতে পাহাড় গেড়ে দেওয়া হয়েছে আন তামীদা বিকুম, মানে পৃথিবী যেন তোমাদের নিয়ে দুলে না ওঠে। বাগাভীও একই অর্থ নেন, একই উদাহরণ দেন। কাজেই আয়াতটি নতুন কোনো প্রসঙ্গ খোলে না। আগে দেওয়া একটি নির্দেশের সঙ্গে এ হলো তার কারণ।"
+          },
+          {
+            "en": "The grammarians spell out what is left unsaid. Al-Qurtubi reports that the Kufans read it as so that a soul does not say, the Basrans as in caution against its saying, and a third view as before a soul says, matching the before the punishment comes of the two verses preceding. Al-Baghawi adds al-Mubarrid: hasten and beware lest a soul say; and az-Zajjaj: for fear that you reach a state in which you say this. Every version carries the same instruction: act before that sentence becomes yours.",
+            "bn": "যে কথাটা উহ্য রয়ে গেছে, ব্যাকরণবিদেরা তা খুলে বলেন। কুরতুবী জানান, কুফার ব্যাকরণবিদেরা এর অর্থ নেন: যাতে কোনো প্রাণ না বলে। বসরার ব্যাকরণবিদেরা নেন: সে বলবে, এই আশঙ্কায় সাবধান হও। আরেক মতে অর্থ: কোনো প্রাণ বলার আগেই, যা আগের দুই আয়াতের 'আযাব আসার আগে' কথাটির সঙ্গে মেলে। বাগাভী যোগ করেন মুবাররাদের ব্যাখ্যা: তাড়াতাড়ি করো, সাবধান হও, যাতে কাউকে বলতে না হয়। আর যাজ্জাজের ব্যাখ্যা: পাছে তোমরা এমন অবস্থায় পৌঁছে যাও, যেখানে এ কথা বলতে হবে। প্রতিটি ব্যাখ্যার নির্দেশ একটাই: কথাটা নিজের হয়ে যাওয়ার আগেই কাজ শুরু করুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Soul Left Unnamed",
+          "bn": "নাম না নেওয়া এক প্রাণ"
+        },
+        "p": [
+          {
+            "en": "Why nafs, a soul, without the article? Al-Qurtubi relays az-Zamakhshari's answer in three possibilities. It may mean some souls only, the soul of the one who disbelieved. It may mean a soul marked out from the others, either by fierce persistence in disbelief or by a severe punishment. Or the indefinite may express many, as an Arab poet says one noble man would come to his aid and means crowds of them. On that last reading, the single soul of the verse stands for a great number of people saying one sentence.",
+            "bn": "নাফস শব্দটি কেন নির্দিষ্ট না করে আনা হলো? কুরতুবী এর জবাবে যামাখশারীর তিনটি সম্ভাবনা উদ্ধৃত করেন। প্রথমত, এতে বোঝানো হতে পারে কিছু প্রাণকে, যে কুফরি করেছে তার প্রাণ। দ্বিতীয়ত, এমন এক প্রাণ, যা অন্যদের থেকে আলাদা হয়ে গেছে, হয় কুফরিতে কঠিন জেদের কারণে, নয়তো ভয়াবহ শাস্তির কারণে। তৃতীয়ত, অনির্দিষ্ট রূপটি সংখ্যার আধিক্য বোঝাতে পারে। যেমন এক আরব কবি বলেন, একজন সম্ভ্রান্ত লোক তার সাহায্যে ছুটে আসবে, অথচ তার মনে আছে দলে দলে মানুষ। এ ব্যাখ্যায় আয়াতের একটি প্রাণ আসলে বহু মানুষ, যারা সবাই একই কথা বলবে।"
+          },
+          {
+            "en": "As-Sa'di reads the opening as a warning given in advance. Allah warned them, he says, against continuing in their heedlessness until a day comes to them on which they regret, and regret will not benefit. That phrase sets the frame for everything that follows. The regret in this verse is real and deep, but it arrives on the wrong side of the line. The listener now, by contrast, still stands on the side where regret can turn into a return, and that is why the sentence is being heard today.",
+            "bn": "সা'দী শুরুর অংশটিকে পড়েন আগাম সতর্কবাণী হিসেবে। তিনি বলেন, আল্লাহ তাদের সাবধান করেছেন, যেন তারা গাফলতিতে ডুবে না থাকে, যতক্ষণ না এমন এক দিন এসে পড়ে, যেদিন তারা আফসোস করবে, কিন্তু আফসোস কোনো কাজে আসবে না। তাঁর এ কথাটাই পরের সবকিছুর কাঠামো ঠিক করে দেয়। এ আয়াতের আফসোস সত্যিকারের, গভীর। কিন্তু তা আসে সীমারেখার ভুল পাশে। আজকের শ্রোতা এখনো দাঁড়িয়ে আছেন সেই পাশে, যেখানে আফসোস ফিরে আসায় বদলে যেতে পারে। এ কারণেই কথাটা তাঁকে আজ শোনানো হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calling Out to One's Grief",
+          "bn": "নিজের আফসোসকে ডাক"
+        },
+        "p": [
+          {
+            "en": "Ya hasrata: O my regret. At-Tabari, on the authority of as-Suddi, glosses hasra as remorse. The final alif, he explains, stands for the speaker's own my: the original is ya hasrati, but in a cry for help the Arabs turn that ya into an alif and say ya waylata and ya nadama, giving it the form of a call. Al-Qurtubi adds the reason: the alif is lighter and allows the voice to be drawn out in calling. Both al-Qurtubi and al-Baghawi note that Abu Ja'far read it ya hasrataya, keeping both letters.",
+            "bn": "ইয়া হাসরাতা: হায় আমার আফসোস। তাবারী সুদ্দীর সূত্রে হাসরার অর্থ বলেন অনুতাপ। শেষের আলিফটি, তাঁর ব্যাখ্যায়, বক্তার নিজের 'আমার' বোঝায়। মূল রূপ ইয়া হাসরাতী। কিন্তু সাহায্যের জন্য আর্তনাদ করার সময় আরবরা সেই ইয়া-কে আলিফে বদলে বলে ইয়া ওয়াইলাতা, ইয়া নাদামা, ডাকার রূপে। কুরতুবী কারণটাও বলেন: আলিফ উচ্চারণে হালকা, আর ডাকার সময় এতে আওয়াজ টেনে লম্বা করা যায়। কুরতুবী ও বাগাভী দুজনেই উল্লেখ করেন, আবু জাফর পড়েছেন ইয়া হাসরাতাইয়া, দুটো হরফই রেখে।"
+          },
+          {
+            "en": "Al-Baghawi defines tahassur as grief over what has passed beyond reach, and records another reading of the cry: O regret, this is your hour. Either way, the soul addresses its own regret the way one calls for help, and no help comes from it. The picture is of a person with nothing left to call on except the feeling itself. Ibn Kathir places it on the Day of Resurrection: the wrongdoer who neglected repentance and turning back grieves, and wishes he had been among those who did good, sincere and obedient to Allah.",
+            "bn": "বাগাভী তাহাসসুরের সংজ্ঞা দেন এভাবে: যা হাতছাড়া হয়ে গেছে তার জন্য মনোকষ্ট। আর্তনাদটির আরেকটি ব্যাখ্যাও তিনি উল্লেখ করেন: হে আফসোস, এখনই তোমার সময়। যেভাবেই পড়া হোক, প্রাণটি নিজের আফসোসকে ডাকে, যেমন মানুষ সাহায্যের জন্য ডাকে, কিন্তু সেখান থেকে কোনো সাহায্য আসে না। ছবিটা এমন এক মানুষের, যার ডাকার মতো আর কিছুই নেই, অনুভূতিটুকু ছাড়া। ইবন কাসীর দৃশ্যটি রাখেন কিয়ামতের দিনে। তওবা আর আল্লাহর দিকে ফেরায় যে অপরাধী অবহেলা করেছে, সে সেদিন আফসোস করবে, আর কামনা করবে, হায়, যদি সে আল্লাহর একনিষ্ঠ, অনুগত সৎকর্মশীলদের একজন হতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Readings of Fi Janbi-llah",
+          "bn": "ফী জানবিল্লাহর অর্থ নিয়ে মতগুলো"
+        },
+        "p": [
+          {
+            "en": "Ala ma farrattu fi janbi-llah: over what I neglected fi janbi-llah. At-Tabari explains the whole clause as what I wasted of acting on what Allah commanded me, and the way I fell short in obeying Allah in the world, and says the people of interpretation said the same. He gives Mujahid, by two chains, as saying: in the command of Allah; and as-Suddi: what I left undone of the command of Allah. The Muyassar joins the two strands: what I wasted in the world of acting on Allah's command, and my shortfall in obeying Him and in His right.",
+            "bn": "আলা মা ফাররাততু ফী জানবিল্লাহ: আল্লাহর জানব-এর ব্যাপারে আমি যে অবহেলা করেছি, তার জন্য। তাবারী পুরো বাক্যাংশটি ব্যাখ্যা করেন এভাবে: আল্লাহ আমাকে যা করতে বলেছিলেন, সে অনুযায়ী আমল করা আমি নষ্ট করেছি, আর দুনিয়ায় আল্লাহর আনুগত্যে কমতি করেছি। তিনি বলেন, ব্যাখ্যাকারেরাও একই কথা বলেছেন। দুটি সনদে তিনি মুজাহিদের উক্তি আনেন: আল্লাহর আদেশের ব্যাপারে। আর সুদ্দীর উক্তি: আল্লাহর আদেশের যা আমি পালন না করে ফেলে রেখেছি। মুয়াসসার দুটো ধারা একসঙ্গে বাঁধে: দুনিয়ায় আল্লাহর আদেশ মেনে আমল করার যে সুযোগ আমি নষ্ট করেছি, আর তাঁর আনুগত্যে ও তাঁর হকে যে কমতি করেছি।"
+          },
+          {
+            "en": "Others gave a different word for the same debt. Al-Baghawi reports al-Hasan: I fell short in obedience to Allah; Mujahid: in the command of Allah; and Sa'id ibn Jubayr: in the right of Allah. As-Sa'di says: in the side of His right. Al-Qurtubi adds ad-Dahhak, for whom it means the remembrance of Allah, which he explains as the Qur'an and acting on it, and Abu 'Ubayda, for whom it means the reward of Allah. Ibn 'Arafa, in al-Qurtubi's report, reads it as what I left of Allah's command, citing the Arab saying: I did not do that in janb of my need.",
+            "bn": "একই ঋণের জন্য অন্যেরা অন্য শব্দ বেছে নিয়েছেন। বাগাভী হাসানের উক্তি আনেন: আল্লাহর আনুগত্যে আমি কমতি করেছি। মুজাহিদের উক্তি: আল্লাহর আদেশের ব্যাপারে। আর সাঈদ ইবন জুবায়রের উক্তি: আল্লাহর হকের ব্যাপারে। সা'দী বলেন: তাঁর হকের দিকটিতে। কুরতুবী যোগ করেন দাহহাকের ব্যাখ্যা, যাঁর মতে এর অর্থ আল্লাহর জিকির, আর জিকির বলতে তিনি বোঝান কুরআন ও তার উপর আমল। আবু উবায়দার মতে এর অর্থ আল্লাহর দেওয়া সওয়াব। কুরতুবীর বর্ণনায় ইবন আরাফা এর অর্থ নেন: আল্লাহর আদেশের যা আমি ছেড়ে দিয়েছি। প্রমাণ হিসেবে তিনি আরবদের একটি কথা আনেন: আমার প্রয়োজনের জানব-এ আমি ওই কাজ করিনি।"
+          },
+          {
+            "en": "Two linguists started from the word's everyday use. Al-Farra', in al-Qurtubi, says janb is nearness and neighbourhood, as people say a man lives in the janb of another, in his vicinity: so the soul regrets neglecting to seek His nearness, which is Paradise. Az-Zajjaj reads it as the road that is Allah's road, to which He called me, since the Arabs call a cause or way to a thing its janb. Both al-Qurtubi and al-Baghawi add the side that leads to Allah's pleasure. Every gloss gathered here names something the servant owed and let slip.",
+            "bn": "দুজন ভাষাবিদ শুরু করেছেন শব্দটির দৈনন্দিন ব্যবহার থেকে। কুরতুবীর উদ্ধৃতিতে ফাররা বলেন, জানব মানে নৈকট্য ও প্রতিবেশ। আরবরা বলে, অমুক লোক অমুকের জানব-এ থাকে, মানে তার পাশে, তার প্রতিবেশে। সে হিসেবে প্রাণটির আফসোস হলো: আল্লাহর নৈকট্য, অর্থাৎ জান্নাত, পাওয়ার চেষ্টায় সে অবহেলা করেছে। যাজ্জাজের মতে এর অর্থ আল্লাহর পথ, যে পথের দিকে তিনি ডেকেছিলেন। কারণ আরবরা কোনো কিছুর উপায় বা পথকে তার জানব বলে। কুরতুবী ও বাগাভী দুজনেই আরেকটি মত আনেন: যে দিকটা আল্লাহর সন্তুষ্টির দিকে নিয়ে যায়। এখানে জড়ো করা প্রতিটি ব্যাখ্যাই এমন কিছুর নাম, যা বান্দার উপর পাওনা ছিল আর সে তা হাতছাড়া করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mockery Added to Neglect",
+          "bn": "অবহেলার উপর ঠাট্টা"
+        },
+        "p": [
+          {
+            "en": "Wa in kuntu la-mina-s-sakhirin: and I was indeed among the mockers. At-Tabari explains: among those who ridiculed Allah's command, His Book, His Messenger and the believers. As-Suddi, in his report, says: the mockers of the Prophet ﷺ, of the Book and of what he brought. Al-Qurtubi renders the clause as and I was nothing but one of the mockers, and names their target as the Qur'an, the Messenger and the friends of Allah. He also reads the clause grammatically as a circumstance: I neglected while I was mocking, so the two failures happened together.",
+            "bn": "ওয়া ইন কুনতু লামিনাস সাখিরীন: আর আমি তো ছিলাম ঠাট্টাকারীদের দলে। তাবারী ব্যাখ্যা করেন: যারা আল্লাহর আদেশ, তাঁর কিতাব, তাঁর রাসূল আর মুমিনদের নিয়ে উপহাস করত, তাদের দলে। সুদ্দীর বর্ণনায়: যারা নবী ﷺ-কে, কিতাবকে আর তিনি যা নিয়ে এসেছেন তা নিয়ে বিদ্রূপ করত। কুরতুবী বাক্যটির অর্থ করেন: আমি ঠাট্টাকারীদের একজন ছাড়া আর কিছুই ছিলাম না। তাদের ঠাট্টার লক্ষ্য হিসেবে তিনি উল্লেখ করেন কুরআন, রাসূল আর আল্লাহর ওলিদের। ব্যাকরণের দিক থেকে তিনি বাক্যটিকে অবস্থাবাচক হিসেবেও পড়েন: আমি অবহেলা করেছি ঠাট্টারত অবস্থায়। অর্থাৎ দুটি ব্যর্থতা ঘটেছে একসঙ্গে।"
+          },
+          {
+            "en": "Qatada's comment, given by at-Tabari, al-Baghawi and al-Qurtubi, puts the two halves in order: it was not enough for him to waste obedience to Allah; he went on to mock the people who obeyed. At-Tabari adds Qatada's remark that this is the saying of a certain class among them. Ibn Kathir reads the confession as: my deeds in the world were the deeds of a mocker, not of a person who was certain and believed. As-Sa'di narrows it to the recompense itself: he mocked the idea that it would come, until he saw it with his own eyes.",
+            "bn": "কাতাদার মন্তব্যটি তাবারী, বাগাভী ও কুরতুবী তিনজনেই এনেছেন, আর তাতে দুই অংশের ক্রম স্পষ্ট হয়: আল্লাহর আনুগত্য নষ্ট করেই সে থামেনি, যারা আনুগত্য করত তাদের নিয়েও ঠাট্টা শুরু করেছে। তাবারী কাতাদার আরেকটি কথা যোগ করেন: এ হলো তাদের মধ্যে এক শ্রেণির কথা। ইবন কাসীর স্বীকারোক্তিটি পড়েন এভাবে: দুনিয়ায় আমার আমল ছিল ঠাট্টাকারীর আমল, দৃঢ় বিশ্বাসী আর সত্য মেনে নেওয়া মানুষের আমল নয়। সা'দী একে সীমিত করেন প্রতিদানের প্রশ্নে: প্রতিদান আসবে, এ কথা নিয়ে সে ঠাট্টা করত, যতক্ষণ না নিজের চোখে তা দেখল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hope With a Deadline",
+          "bn": "আশা, সঙ্গে সময়সীমা"
+        },
+        "p": [
+          {
+            "en": "This verse comes three after the great call of hope in 39:53, which has its own article. What matters here is the link. Ma'arif al-Qur'an says 39:56 to 39:58 elaborate the subject of 39:53 to 39:55: no sinner of any description should despair of Allah's mercy, for if he repents, Allah forgives all his past sins. But by opening each of the three with lest a soul say, the passage reminds the listener that repentance has a deadline, and that the deadline falls before death.",
+            "bn": "মহান আশার ডাক এসেছে ৩৯:৫৩ আয়াতে, যার আলাদা প্রবন্ধ আছে। এ আয়াত তার তিন আয়াত পরে। এখানে দেখার বিষয় দুটির সংযোগ। মাআরিফুল কুরআন বলে, ৩৯:৫৬ থেকে ৩৯:৫৮ আয়াত ৩৯:৫৩ থেকে ৩৯:৫৫ আয়াতের বিষয়টিকেই বিস্তারিত করে। কোনো গুনাহগার, যে ধরনেরই হোক, আল্লাহর রহমত থেকে নিরাশ হবে না, কারণ তওবা করলে আল্লাহ তার আগের সব গুনাহ মাফ করে দেন। কিন্তু তিনটি আয়াতই 'যাতে কোনো প্রাণকে বলতে না হয়' দিয়ে শুরু করে শ্রোতাকে মনে করিয়ে দেওয়া হয়েছে, তওবার একটা সময়সীমা আছে। আর সে সীমা মৃত্যুর আগেই।"
+          },
+          {
+            "en": "The other commentators read the same urgency in the verses just before. The Muyassar opens its gloss on this verse with obey your Lord and turn to Him in repentance, so that no soul regrets. Ibn Kathir explains 39:54 as hasten to repent and do righteous deeds before His wrath comes upon you. Ma'arif al-Qur'an concludes that the forgiveness of Allah is very extensive but is won by repenting before death. Hope and urgency do not compete in this passage. The open door and the closing hour belong to one message.",
+            "bn": "অন্য তাফসীরকারেরাও ঠিক আগের আয়াতগুলোতে একই তাড়া দেখেন। মুয়াসসার এ আয়াতের ব্যাখ্যা শুরুই করে এভাবে: তোমাদের রবের আনুগত্য করো, তাঁর কাছে তওবা করো, যাতে কোনো প্রাণকে অনুতাপ করতে না হয়। ইবন কাসীর ৩৯:৫৪ আয়াতের অর্থ করেন: তাঁর ক্রোধ নেমে আসার আগেই তাড়াতাড়ি তওবা করো আর নেক আমল করো। মাআরিফুল কুরআনের উপসংহার: আল্লাহর ক্ষমা অত্যন্ত প্রশস্ত, তবে তা পাওয়া যায় মৃত্যুর আগে তওবা করলে। এ অংশে আশা আর তাড়া পরস্পরের প্রতিদ্বন্দ্বী নয়। খোলা দরজা আর ফুরিয়ে আসা সময়, দুটোই একই বার্তার অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Sayings in Sequence",
+          "bn": "পরপর তিনটি কথা"
+        },
+        "p": [
+          {
+            "en": "Two more sayings follow, each introduced the same way: if only Allah had guided me, in 39:57, and, on seeing the punishment, if only I had another turn, in 39:58. Ma'arif al-Qur'an allows two readings. The three wishes could belong to different people, or they could come one after another from a single group. Since the last is said after the punishment is seen, the first two would come before it: first the memory of shortcomings in this verse, then an excuse that blames guidance, and finally the wish to be sent back.",
+            "bn": "এরপর আরও দুটি কথা আসে, একইভাবে শুরু হয়ে। ৩৯:৫৭ আয়াতে: আল্লাহ যদি আমাকে হিদায়াত দিতেন। আর ৩৯:৫৮ আয়াতে, শাস্তি দেখার সময়: যদি আরেকবার ফিরে যাওয়ার সুযোগ পেতাম। মাআরিফুল কুরআন দুই রকম পড়ার সুযোগ রাখে। তিনটি কামনা ভিন্ন ভিন্ন মানুষের হতে পারে। আবার একই দলের মুখ থেকে একটার পর একটা আসতেও পারে। শেষ কথাটি যেহেতু শাস্তি দেখার পরে, তাই প্রথম দুটি আসবে তার আগে। প্রথমে এ আয়াতে নিজের ত্রুটির কথা মনে পড়া, তারপর হিদায়াতের উপর দোষ চাপানো একটি অজুহাত, আর সবশেষে দুনিয়ায় ফেরত পাঠানোর আকুতি।"
+          },
+          {
+            "en": "Ibn Kathir relays, through 'Ali ibn Abi Talhah, a remark of Ibn 'Abbas (RA) on these verses: Allah tells us what His servants will say before they say it, and what they will do before they do it, and he recites 35:14, none can inform you like the One who is All-Aware. Then 39:59 answers the excuse directly: My verses did come to you, and you denied them, were arrogant, and were among the disbelievers. The sentences are announced early, and so is their reply.",
+            "bn": "এ আয়াতগুলো প্রসঙ্গে ইবন কাসীর আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর একটি কথা উদ্ধৃত করেন: বান্দারা কী বলবে তা বলার আগেই আল্লাহ আমাদের জানিয়ে দেন, আর কী করবে তা করার আগেই। এরপর তিনি ৩৫:১৪ আয়াত পড়েন: সর্বজ্ঞের মতো কেউ তোমাকে খবর দিতে পারে না। তারপর ৩৯:৫৯ আয়াত অজুহাতটির সরাসরি জবাব দেয়: আমার আয়াত তো তোমার কাছে এসেছিল, তুমি সেগুলো মিথ্যা বলেছ, অহংকার করেছ, আর কাফিরদের দলে ছিলে। কথাগুলো আগেভাগে জানিয়ে দেওয়া হয়েছে, জবাবটাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sittings Without His Remembrance",
+          "bn": "জিকিরহীন বৈঠক"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs read for this verse attaches a sound hadith to its revelation. Al-Qurtubi brings a general narration on regret, not tied to the verse, and says Abu Dawud records it in meaning. In Abu Dawud's wording (4856), from Abu Hurayrah (RA), the Messenger of Allah ﷺ said: Whoever sits in a sitting in which he does not remember Allah, there is upon him from Allah a tirah; and whoever lies down in a resting place in which he does not remember Allah, there is upon him from Allah a tirah. Al-Qurtubi explains tirah as regret.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই আয়াতটির নাযিলের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। কুরতুবী আফসোস নিয়ে একটি সাধারণ বর্ণনা আনেন, যা এ আয়াতের সঙ্গে বাঁধা নয়, আর বলেন আবু দাউদ অর্থগতভাবে তা বর্ণনা করেছেন। আবু দাউদের ভাষ্যে (৪৮৫৬) আবু হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: যে কোনো বৈঠকে বসে আর সেখানে আল্লাহর জিকির করে না, তার উপর আল্লাহর পক্ষ থেকে তিরাহ হবে। আর যে কোনো শয্যায় শোয় আর সেখানে আল্লাহর জিকির করে না, তার উপর আল্লাহর পক্ষ থেকে তিরাহ হবে। কুরতুবী তিরাহর অর্থ বলেন আফসোস।"
+          },
+          {
+            "en": "Al-Qurtubi then quotes Ibrahim at-Taymi on the regrets of the Day of Resurrection. One is that a man sees the wealth Allah gave him in the world in another person's scale: the heir used it rightly, so the reward is the heir's and the burden his. Another is that a man sees the servant Allah placed under him nearer in rank to Allah than himself, or sees someone he knew to be blind in the world now seeing, while he himself is blind. Each regret is a reversal he could have prevented.",
+            "bn": "এরপর কুরতুবী কিয়ামতের দিনের আফসোস নিয়ে ইবরাহীম তাইমীর কথা উদ্ধৃত করেন। একটি আফসোস হলো, আল্লাহ দুনিয়ায় যে সম্পদ কাউকে দিয়েছিলেন, সে তা দেখবে অন্যের পাল্লায়। উত্তরাধিকারী তা ন্যায়ের পথে খরচ করেছে, তাই সওয়াব তার আর বোঝা এই লোকের। আরেকটি আফসোস হলো, আল্লাহ যে গোলামকে তার অধীন করে দিয়েছিলেন, তাকে সে দেখবে আল্লাহর কাছে নিজের চেয়ে উঁচু মর্যাদায়। কিংবা দুনিয়ায় যাকে অন্ধ বলে চিনত, তাকে দেখবে চোখে দেখতে পাচ্ছে, আর সে নিজে অন্ধ। প্রতিটি আফসোসই এমন এক উল্টে যাওয়া, যা সে চাইলে ঠেকাতে পারত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Sentence Is Spoken",
+          "bn": "কথাটা মুখে আসার আগে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports words a soul will say on the Day, and the commentators tie them to neglect, mockery and disbelief. It describes what the text describes and licenses nothing against any living person or community. No one may point at a neighbour, a relative or a group and name them the soul of this verse. The sentence is given to each listener about himself, while it is still unspoken, so that he can make sure it never becomes his own.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায় কিয়ামতের দিন কোনো প্রাণ কী বলবে, আর তাফসীরকারেরা কথাগুলো জোড়েন অবহেলা, ঠাট্টা আর কুফরির সঙ্গে। আয়াতটি শুধু সেটুকুই বর্ণনা করে, যা এর পাঠে আছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। প্রতিবেশী, আত্মীয় বা কোনো দলের দিকে আঙুল তুলে কেউ বলতে পারে না, এরাই এ আয়াতের সেই প্রাণ। প্রত্যেক শ্রোতাকে কথাটা শোনানো হচ্ছে তার নিজের ব্যাপারে, যখন তা এখনো মুখে আসেনি, যাতে সে নিশ্চিত করতে পারে, কথাটা কখনো তার হয়ে উঠবে না।"
+          },
+          {
+            "en": "The regret here is not over a single great crime. It is over neglect, the slow kind, and every gloss the commentators gave names something ordinary: Allah's command, His right, obedience, remembrance and the Qur'an, the road He called to. That is where the remedy lies too. The verses before this one open the door, and this one shows what waiting too long costs. A person who hears both today can still turn regret into return, and that is why the warning was given in advance.",
+            "bn": "এখানে আফসোস কোনো একটা বিরাট অপরাধের জন্য নয়। আফসোস অবহেলার জন্য, সেই ধীরে ধীরে জমে ওঠা অবহেলা। তাফসীরকারদের প্রতিটি ব্যাখ্যা এমন কিছুর নাম নেয়, যা প্রতিদিনের: আল্লাহর আদেশ, তাঁর হক, আনুগত্য, জিকির ও কুরআন, তিনি যে পথের দিকে ডেকেছেন সেই পথ। প্রতিকারও আছে ঠিক সেখানেই। আগের আয়াতগুলো দরজা খুলে দেয়, আর এ আয়াত দেখায় বেশি দেরি করার দাম। যে আজ দুটোই শোনে, সে এখনো আফসোসকে ফিরে আসায় বদলে নিতে পারে। এ জন্যই সতর্কবাণীটা আগেভাগে দেওয়া হয়েছে।"
+          }
+        ]
+      }
+    ]
+  },
   "39:60": {
     "sections": [
       {
