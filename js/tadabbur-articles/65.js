@@ -159,6 +159,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "65:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Roof Before Anything Else",
+          "bn": "সবার আগে মাথার উপর ছাদ"
+        },
+        "p": [
+          {
+            "en": "Askinuhunna: lodge them. The verse opens on a command, and the women it means are divorced wives still in their waiting period. At-Tabari glosses it: lodge your divorced wives in the place where you yourselves dwell, from the means you find, until they complete their waiting periods. The Muyassar says the same in plain words: house the divorced women during their 'iddah as you house yourselves, according to your capacity and strength. Before money, wages or a child's milk come up, the verse settles where she will live.",
+            "bn": "আসকিনূহুন্না: তাদের থাকতে দাও। আয়াত শুরু হয় একটি আদেশ দিয়ে, আর যাদের কথা বলা হচ্ছে তারা ইদ্দত পালনরত তালাকপ্রাপ্তা স্ত্রী। তাবারী এর ব্যাখ্যা করেন এভাবে: তোমরা নিজেরা যেখানে থাকো, তোমাদের সাধ্যমতো সেখানেই তালাকপ্রাপ্তা স্ত্রীদের থাকতে দাও, যতদিন না তাদের ইদ্দত পূর্ণ হয়। মুয়াসসার একই কথা বলে সাদামাটা ভাষায়: ইদ্দতের সময় তালাকপ্রাপ্তাদের থাকতে দাও নিজেদের থাকার মতোই, তোমাদের সামর্থ্য ও শক্তি অনুযায়ী। টাকাপয়সা, পারিশ্রমিক বা শিশুর দুধের প্রশ্ন ওঠার আগেই আয়াত ঠিক করে দেয়, সে থাকবে কোথায়।"
+          },
+          {
+            "en": "As-Sa'di reads the verse against the surah's opening. Earlier, Allah forbade turning divorced women out of their houses (65:1); here He commands that they be housed, and measures that housing by what is customary: the kind of house in which one like him and one like her would live, by the husband's ease or hardship. Ma'arif al-Qur'an draws the same link, calling this the positive side of the rule against expulsion: the husband lets her live in some part of the residence where he lives, as his means allow.",
+            "bn": "সা'দী আয়াতটি পড়েন সূরার শুরুর সঙ্গে মিলিয়ে। আগে আল্লাহ তালাকপ্রাপ্তাদের ঘর থেকে বের করে দিতে নিষেধ করেছেন (৬৫:১)। এখানে তিনি তাদের থাকার ব্যবস্থা করার আদেশ দিচ্ছেন, আর সেই ব্যবস্থার মাপ ঠিক করছেন প্রচলিত রীতি দিয়ে। অর্থাৎ স্বামীর সচ্ছলতা বা অভাব অনুযায়ী এমন ঘর, যেমন ঘরে তার মতো পুরুষ আর ওই নারীর মতো নারী সাধারণত থাকে। মাআরিফুল কুরআনও একই যোগসূত্র টানে। তার ভাষায়, বের না করার বিধানের এটাই ইতিবাচক দিক: স্বামী নিজে যে বাড়িতে থাকে, সামর্থ্য অনুযায়ী তার কোনো অংশে স্ত্রীকে থাকতে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Even a Corner of the House",
+          "bn": "ঘরের এক কোণ হলেও"
+        },
+        "p": [
+          {
+            "en": "Min wujdikum: from your means. At-Tabari carries the gloss from your capacity through separate chains from Ibn 'Abbas, Mujahid and Qatadah, and Ibn Kathir names Ibn 'Abbas and Mujahid among others. Al-Qurtubi adds the language: wujd is wealth and ability. Ibn Kathir then gives Qatadah's practical line, which at-Tabari also carries: if you find only a side of your house, lodge her in it.",
+            "bn": "মিন উজদিকুম: তোমাদের সামর্থ্য থেকে। 'তোমাদের সাধ্য অনুযায়ী', এই ব্যাখ্যা তাবারী আলাদা আলাদা সনদে এনেছেন ইবন আব্বাস (রাঃ), মুজাহিদ ও কাতাদা থেকে। ইবন কাসীর আরও কয়েকজনের সঙ্গে ইবন আব্বাস ও মুজাহিদের নাম নেন। কুরতুবী শব্দটির ভাষাগত দিক যোগ করেন। উজদ মানে সম্পদ ও সক্ষমতা। এরপর ইবন কাসীর কাতাদার একটি বাস্তব কথা আনেন, যা তাবারীতেও আছে: ঘরের এক পাশ ছাড়া আর কিছু না পেলে সেখানেই তাকে থাকতে দাও।"
+          },
+          {
+            "en": "Al-Baghawi spells out the measure: a husband of means gives her room in lodging and maintenance, a poor one as far as he is able. For a woman in a revocable waiting period, he turns lodging into costs: if the house is the husband's, he moves out and leaves it to her; if rented, the rent is his; if lent and reclaimed, he must rent her another. Al-Qurtubi reports from Malik, through Ashhab, that the husband leaves and lets her stay, since were he still with her, the verse would not have said lodge them.",
+            "bn": "বাগাভী মাপটা খুলে বলেন। সচ্ছল স্বামী থাকার জায়গায় ও খরচে তাকে প্রশস্ততা দেবে, আর গরিব স্বামী দেবে যতটুকু তার সাধ্যে কুলায়। রজঈ তালাকের ইদ্দত পালনকারিণীর বেলায় তিনি থাকার বিষয়টিকে খরচের হিসাবে নামিয়ে আনেন। বাড়ি স্বামীর নিজের হলে ইদ্দতের পুরো সময় তাকে বাড়ি ছেড়ে স্ত্রীর জন্য রেখে যেতে হবে। ভাড়াবাড়ি হলে ভাড়া স্বামীর। ধার করা বাড়ি হলে আর মালিক তা ফেরত নিলে, অন্য একটা বাড়ি ভাড়া করে দিতে হবে। কুরতুবী আশহাবের সূত্রে মালিক থেকে বর্ণনা করেন: স্বামী বেরিয়ে যাবে, স্ত্রীকে রেখে যাবে। কারণ স্বামী তার সঙ্গেই থাকলে আয়াত 'তাদের থাকতে দাও' বলত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Squeezing Her Out",
+          "bn": "চেপে ধরে তাড়ানো নয়"
+        },
+        "p": [
+          {
+            "en": "Wa-la tudarruhunna li-tudayyiqu 'alayhinna: do not harm them in order to straiten them. At-Tabari reads it as harm in the lodging itself: when you have ample room, do not seek to cramp her in the place you give her. Mujahid says simply: in the dwelling. As-Suddi, in at-Tabari, names the aim: to cramp their quarters until they leave. As-Sa'di widens the means to word and deed, harm meant to wear her down until she leaves before her waiting period ends, so that you become the ones who turned her out.",
+            "bn": "ওয়া লা তুদাররূহুন্না লিতুদাইয়িকূ আলাইহিন্না: তাদের সংকটে ফেলার উদ্দেশ্যে কষ্ট দিয়ো না। তাবারী এখানে থাকার জায়গার কষ্টই বোঝেন। তোমার হাতে প্রশস্ত জায়গা থাকতেও তাকে যে ঘরে রেখেছ, সেটাকে সংকীর্ণ করে তোলার চেষ্টা কোরো না। মুজাহিদ ছোট্ট করে বলেন: থাকার জায়গায়। তাবারীর বর্ণনায় সুদ্দী উদ্দেশ্যটা খুলে বলেন: তাদের ঘর এত সংকীর্ণ করা যাতে তারা বেরিয়ে যায়। সা'দী উপায়ের পরিধি বাড়িয়ে কথা ও কাজ দুটোকেই ধরেন। এমন কষ্ট, যাতে বিরক্ত হয়ে সে ইদ্দত শেষ হওয়ার আগেই বেরিয়ে যায়। তখন আসলে তোমরাই তাকে বের করে দিলে।"
+          },
+          {
+            "en": "Others locate the squeeze elsewhere. Al-Qurtubi gives Muqatil's reading, in maintenance, and notes it is also Abu Hanifah's. Ibn Kathir reports Muqatil ibn Hayyan: he pesters her so that she buys her release with her own wealth, or leaves his house. Abu ad-Duha, in both Ibn Kathir and al-Qurtubi, describes a game played with the calendar: he divorces her and, with two days of her term left, takes her back, and al-Qurtubi adds, then divorces her again. Ma'arif al-Qur'an lists taunts and the cutting of her needs. The readings name different tactics under the one prohibition.",
+            "bn": "অন্যরা এই চাপের জায়গা দেখেন অন্যখানে। কুরতুবী মুকাতিলের ব্যাখ্যা আনেন: খরচের ব্যাপারে। তিনি জানান, এটা আবূ হানীফারও মত। ইবন কাসীর মুকাতিল ইবন হাইয়ানের কথা আনেন: স্বামী তাকে এমন জ্বালাতন করবে যাতে সে নিজের সম্পদ দিয়ে মুক্তি কিনে নেয়, অথবা তার ঘর ছেড়ে চলে যায়। ইবন কাসীর ও কুরতুবী দুজনেই আবুদ দুহা থেকে ক্যালেন্ডার নিয়ে এক খেলার কথা বলেন। স্বামী তালাক দেয়, তারপর ইদ্দতের দুদিন বাকি থাকতে ফিরিয়ে নেয়। কুরতুবী যোগ করেন, তারপর আবার তালাক দেয়। মাআরিফুল কুরআন খোঁটা দেওয়া আর প্রয়োজনীয় জিনিস কমিয়ে দেওয়ার কথা বলে। একই নিষেধের নিচে ব্যাখ্যাগুলো ভিন্ন ভিন্ন কৌশলের নাম নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Provision Until the Birth",
+          "bn": "প্রসব পর্যন্ত ভরণপোষণ"
+        },
+        "p": [
+          {
+            "en": "Wa-in kunna ulati hamlin fa-anfiqu 'alayhinna hatta yada'na hamlahunna: and if they are pregnant, spend on them until they deliver. Al-Qurtubi states that the scholars do not differ over maintenance and lodging for a pregnant divorced woman, whether divorced three times or fewer, until she gives birth, and Ma'arif al-Qur'an likewise reports a consensus. 65:4 has already made delivery the close of a pregnant woman's term. As-Sa'di says whose need it meets: the child in her womb if she is irrevocably divorced, she and the child if the divorce is revocable.",
+            "bn": "ওয়া ইন কুন্না উলাতি হামলিন ফাআনফিকূ আলাইহিন্না হাত্তা ইয়াদা'না হামলাহুন্না: তারা গর্ভবতী হলে প্রসব পর্যন্ত তাদের খরচ বহন করো। কুরতুবী বলেন, তালাকপ্রাপ্তা গর্ভবতী নারী, তিনবার তালাক হোক বা তার কম, প্রসব পর্যন্ত খরচ ও থাকার জায়গা পাবে, এ নিয়ে আলেমদের মধ্যে কোনো মতভেদ নেই। মাআরিফুল কুরআনও এ বিষয়ে ঐকমত্যের কথা জানায়। ৬৫:৪ আয়াত আগেই প্রসবকে গর্ভবতীর ইদ্দতের শেষ বলে ঠিক করে দিয়েছে। কার প্রয়োজন মেটানো হচ্ছে, সা'দী তা যোগ করেন। তালাক বায়েন হলে পেটের সন্তানের জন্য, আর রজঈ হলে মা ও সন্তান দুজনের জন্য।"
+          },
+          {
+            "en": "Why name pregnancy at all? Ibn Kathir records two answers. Many scholars, among them Ibn 'Abbas and a group of the early generation, say the clause concerns the irrevocably divorced woman, since a revocably divorced one is owed maintenance pregnant or not. Others say the whole passage concerns revocable divorce, and pregnancy is named because it usually runs long, so that no one thinks support stops at the length of an ordinary waiting period. A further question carries two positions from ash-Shafi'i and others: is the maintenance hers because of the pregnancy, or the unborn child's alone?",
+            "bn": "গর্ভের কথা আলাদা করে বলা হলো কেন? ইবন কাসীর দুটি উত্তর লিপিবদ্ধ করেন। ইবন আব্বাস (রাঃ)-সহ অনেক আলেম ও পূর্বসূরিদের একটি দল বলেন, এই অংশ বায়েন তালাকপ্রাপ্তার জন্য। কারণ রজঈ তালাকপ্রাপ্তা গর্ভবতী হোক বা না হোক, খরচ এমনিতেই পায়। অন্যরা বলেন, পুরো প্রসঙ্গটাই রজঈ তালাক নিয়ে। গর্ভের কথা আলাদা এসেছে, কারণ গর্ভকাল সাধারণত লম্বা হয়। কেউ যেন না ভাবে যে খরচ সাধারণ ইদ্দতের মেয়াদ পর্যন্তই। এরপর তিনি আরেকটি প্রশ্ন তোলেন, যাতে শাফেঈ ও অন্যদের থেকে দুটি মত বর্ণিত আছে: খরচটা কি গর্ভের কারণে মায়ের প্রাপ্য, নাকি শুধু গর্ভের সন্তানের?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Answers from Jurists",
+          "bn": "ফকীহদের তিন উত্তর"
+        },
+        "p": [
+          {
+            "en": "The sharpest question concerns the irrevocably divorced woman who is not pregnant. Al-Qurtubi sets out three positions on the woman divorced three times. Malik and ash-Shafi'i: she has lodging and no maintenance. Abu Hanifah and his companions: lodging and maintenance. Ahmad, Ishaq and Abu Thawr: neither, on the hadith of Fatimah bint Qays. Al-Baghawi records that some held maintenance due in every case, a view reported from Ibn Mas'ud and held by Ibrahim an-Nakha'i and ath-Thawri.",
+            "bn": "সবচেয়ে কঠিন প্রশ্ন সেই নারীকে নিয়ে, যাকে বায়েন তালাক দেওয়া হয়েছে কিন্তু সে গর্ভবতী নয়। তিন তালাকপ্রাপ্তা নারী সম্পর্কে কুরতুবী তিনটি মত তুলে ধরেন। মালিক ও শাফেঈর মতে সে থাকার জায়গা পাবে, খরচ পাবে না। আবূ হানীফা ও তাঁর সঙ্গীদের মতে থাকার জায়গা ও খরচ দুটোই পাবে। আহমাদ, ইসহাক ও আবূ সাওরের মতে কোনোটাই পাবে না, আর তাঁদের ভিত্তি ফাতিমা বিনতে কায়স (রাঃ)-এর হাদীস। বাগাভী জানান, কেউ কেউ সব অবস্থায় খরচ প্রাপ্য বলেছেন। এ মত ইবন মাসঊদ (রাঃ) থেকে বর্ণিত, আর ইবরাহীম নাখঈ ও সাওরী এ মত পোষণ করতেন।"
+          },
+          {
+            "en": "Each side argues from this verse. Al-Qurtubi quotes Ibn al-'Arabi: Allah left lodging unrestricted for every divorced woman, then tied maintenance to pregnancy, which shows that the irrevocably divorced woman has no maintenance. He gives Abu Hanifah's case from the same verse: do not harm them, and withholding maintenance is among the greatest of harms. He also reports Qatadah and Ibn Abi Layla holding that lodging belongs only to the revocably divorced, since lodge them returns to the surah's opening, with its promise that Allah may bring about a new matter.",
+            "bn": "প্রত্যেক পক্ষ যুক্তি টানে এই আয়াত থেকেই। কুরতুবী ইবনুল আরাবীর কথা উদ্ধৃত করেন: আল্লাহ থাকার জায়গার কথা বলেছেন শর্তহীনভাবে, সব তালাকপ্রাপ্তার জন্য। তারপর খরচের কথা বলার সময় গর্ভের শর্ত জুড়েছেন। এতে বোঝা যায়, বায়েন তালাকপ্রাপ্তার খরচ প্রাপ্য নয়। একই আয়াত থেকে কুরতুবী আবূ হানীফার যুক্তিও আনেন: 'তাদের কষ্ট দিয়ো না', আর খরচ বন্ধ করে দেওয়া সবচেয়ে বড় কষ্টগুলোর একটি। তিনি কাতাদা ও ইবন আবী লাইলার মতও জানান: থাকার জায়গা কেবল রজঈ তালাকপ্রাপ্তার। কারণ 'তাদের থাকতে দাও' ফিরে যায় সূরার শুরুর দিকে, যেখানে বলা হয়েছে, আল্লাহ হয়তো এরপর নতুন কোনো পথ খুলে দেবেন।"
+          },
+          {
+            "en": "At-Tabari states his own preference: no maintenance for a woman irrevocably divorced unless she is pregnant, because if pregnant and non-pregnant women were alike in this, singling out the pregnant would have no evident point. He also reports the opposing view by name. Through Ibrahim an-Nakha'i he records that 'Umar and 'Abdullah ibn Mas'ud gave the thrice-divorced woman lodging, maintenance and a parting gift. These are readings of one verse, each argued with care; this article reports them without choosing.",
+            "bn": "তাবারী নিজের পছন্দের মত জানান: বায়েন তালাকপ্রাপ্তা গর্ভবতী না হলে খরচ পাবে না। কারণ গর্ভবতী আর অগর্ভবতী এ ব্যাপারে সমান হলে গর্ভবতীদের আলাদা করে উল্লেখ করার কোনো বোধগম্য কারণ থাকত না। বিপরীত মতটিও তিনি নাম ধরে জানান। ইবরাহীম নাখঈর সূত্রে তিনি বর্ণনা করেন, উমার (রাঃ) ও আবদুল্লাহ ইবন মাসঊদ (রাঃ) তিন তালাকপ্রাপ্তাকে থাকার জায়গা, খরচ ও বিদায়ী উপহার দিতেন। এগুলো একই আয়াতের ভিন্ন ভিন্ন পাঠ, প্রতিটিই যত্নের সঙ্গে যুক্তি দিয়ে সাজানো। এই লেখা কোনোটিকে বেছে না নিয়ে সবগুলো তুলে ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fatimah Brings Her Own Question",
+          "bn": "নিজের প্রশ্ন নিয়ে ফাতিমা"
+        },
+        "p": [
+          {
+            "en": "Behind the dispute stands a woman who went to ask about her own right. Sahih Muslim gathers her narrations under number 1480. In one, her husband divorced her in the Prophet's ﷺ lifetime and sent her a meagre allowance; she resolved to tell the Messenger of Allah, and said that if anything was due to her she would take what sufficed her, and if not, she would take nothing from him. In the briefest version, ash-Sha'bi reports from her that the Prophet ﷺ said of the woman divorced three times: She has neither lodging nor maintenance.",
+            "bn": "এই মতভেদের পেছনে আছেন একজন নারী, যিনি নিজের হক জানতে নিজেই গিয়েছিলেন। সহীহ মুসলিম তাঁর বর্ণনাগুলো ১৪৮০ নম্বরের অধীনে একত্র করেছে। একটি বর্ণনায় আছে, নবী ﷺ-এর জীবদ্দশায় তাঁর স্বামী তাঁকে তালাক দেন আর সামান্য কিছু খরচ পাঠান। তিনি ঠিক করলেন, আল্লাহর রাসূলকে বিষয়টা জানাবেন। বললেন, আমার কিছু প্রাপ্য থাকলে যতটুকু আমার চলার জন্য যথেষ্ট, ততটুকু নেব, আর প্রাপ্য না থাকলে তার কাছ থেকে কিছুই নেব না। সবচেয়ে সংক্ষিপ্ত বর্ণনায় শা'বী তাঁর থেকে জানান, তিনবার তালাকপ্রাপ্তা নারী সম্পর্কে নবী ﷺ বলেছেন: তার জন্য থাকার জায়গাও নেই, খরচও নেই।"
+          },
+          {
+            "en": "The same number records the objection. When ash-Sha'bi related her report in the great mosque, Abu Ishaq recalls, al-Aswad ibn Yazid threw a handful of pebbles at him and cited 'Umar: We do not leave the Book of Allah and the Sunnah of our Prophet ﷺ for the word of a woman; we do not know whether she remembered or forgot. She has lodging and maintenance. Allah said: Do not turn them out of their houses, nor should they leave, unless they commit a clear immorality. 'Umar's stated grounds are 65:1 and a doubt about one report's retention.",
+            "bn": "একই নম্বরে আপত্তিটাও লিপিবদ্ধ আছে। আবূ ইসহাক স্মরণ করেন, বড় মসজিদে শা'বী ফাতিমার এই বর্ণনা শোনালে আসওয়াদ ইবন ইয়াযীদ এক মুঠো কাঁকর তুলে তাঁর দিকে ছুড়ে মারলেন, আর উমার (রাঃ)-এর কথা উদ্ধৃত করলেন: আমরা এক নারীর কথার জন্য আল্লাহর কিতাব ও আমাদের নবী ﷺ-এর সুন্নাহ ছাড়ব না। আমরা জানি না, তিনি মনে রেখেছেন নাকি ভুলে গেছেন। তার জন্য থাকার জায়গা ও খরচ আছে। আল্লাহ বলেছেন: তাদের ঘর থেকে বের করে দিয়ো না, তারা নিজেরাও যেন বের না হয়, যদি না তারা স্পষ্ট অশ্লীলতায় লিপ্ত হয়। উমার (রাঃ) নিজে যে ভিত্তির কথা বলেছেন, তা হলো ৬৫:১ আয়াত আর একটি বর্ণনা স্মৃতিতে ঠিকঠাক আছে কি না, সেই সংশয়।"
+          },
+          {
+            "en": "Her report was kept as well. Al-Qurtubi relays that al-Aswad urged ash-Sha'bi to retract, and that ash-Sha'bi answered he would retract nothing Fatimah bint Qays had told him from the Messenger of Allah ﷺ; al-Qurtubi comments, how excellent this is. Al-Baghawi, answering those who deny her lodging on the strength of her hadith, cites a report from 'A'ishah that Fatimah was in a desolate place, where there was fear for her. Muslim's narrations also show the Prophet ﷺ arranging for her to spend her term in the house of Ibn Umm Maktum. Every side argued with her report in view.",
+            "bn": "তাঁর বর্ণনাও সযত্নে রক্ষা করা হয়েছে। কুরতুবী জানান, আসওয়াদ শা'বীকে কথাটা ফিরিয়ে নিতে বলেছিলেন। শা'বী উত্তর দিলেন, ফাতিমা বিনতে কায়স আল্লাহর রাসূল ﷺ থেকে আমাকে যা শুনিয়েছেন, তার কিছুই আমি ফিরিয়ে নেব না। কুরতুবী মন্তব্য করেন: কী চমৎকার কথা! বাগাভী বায়েন তালাকপ্রাপ্তাকে থাকার জায়গার হকদার মনে করেন। যারা ফাতিমার হাদীস দিয়ে দলিল দেন, তাদের জবাবে তিনি আয়েশা (রাঃ) থেকে একটি বর্ণনা আনেন: ফাতিমা ছিলেন এক নির্জন জায়গায়, তাঁর নিরাপত্তা নিয়ে ভয় ছিল। মুসলিমের বর্ণনাগুলোতে এটাও আছে যে নবী ﷺ তাঁর ইদ্দত পালনের ব্যবস্থা করেছিলেন ইবন উম্মে মাকতূমের বাড়িতে। প্রতিটি পক্ষই তাঁর বর্ণনা সামনে রেখে যুক্তি দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Her Wage for Nursing",
+          "bn": "দুধ পান করানোর পারিশ্রমিক"
+        },
+        "p": [
+          {
+            "en": "Fa-in arda'na lakum fa-atuhunna ujurahunna: if they nurse for you, give them their wages. The wages are called theirs. Ibn Kathir explains the moment: once she has given birth while divorced, her waiting period is over, and she may nurse the child or decline, though only after giving the first milk, without which a newborn usually cannot thrive. If she nurses, she is owed the wage of women like her, and she may contract with the father or his guardian for whatever sum they agree. As-Sa'di: the named wage if a sum was fixed, otherwise the customary wage.",
+            "bn": "ফাইন আরদা'না লাকুম ফাআতূহুন্না উজূরাহুন্না: তারা তোমাদের জন্য দুধ পান করালে তাদের পারিশ্রমিক দাও। পারিশ্রমিককে বলা হয়েছে তাদের নিজের। ইবন কাসীর মুহূর্তটা বুঝিয়ে বলেন। তালাকপ্রাপ্তা অবস্থায় সন্তান প্রসব করলে তার ইদ্দত শেষ। এখন সে চাইলে সন্তানকে দুধ পান করাতে পারে, চাইলে বিরত থাকতে পারে। তবে প্রথম দুধটুকু খাওয়ানোর পর, কারণ নবজাতক সাধারণত ওটা ছাড়া টিকতে পারে না। সে দুধ পান করালে তার মতো নারীদের প্রচলিত পারিশ্রমিক তার প্রাপ্য। বাবা বা তার অভিভাবকের সঙ্গে সে যে অঙ্কে একমত হয়, সে চুক্তিও করতে পারে। সা'দীর কথায়: নির্দিষ্ট পারিশ্রমিক ঠিক হয়ে থাকলে সেটা, নইলে প্রচলিত হার।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an explains why payment appears only here. While the marriage stands, and during the waiting period which resembles it, nursing is the mother's duty and the husband maintains her, so no fee is taken for it; once the birth ends her term, the verse permits a wage for the work. Al-Qurtubi states the obligation plainly: the fathers must give them the wage of their nursing.",
+            "bn": "মজুরির কথা কেবল এখানে কেন এলো, মাআরিফুল কুরআন তা ব্যাখ্যা করে। বিয়ে টিকে থাকা পর্যন্ত, আর বিয়ের মতোই ইদ্দতের সময়েও, দুধ পান করানো মায়ের দায়িত্ব, আর স্বামী তার ভরণপোষণ দেয়। তাই তখন এর জন্য কোনো মজুরি নেওয়া হয় না। প্রসবের সঙ্গে ইদ্দত শেষ হলে আয়াতটি এই কাজের জন্য পারিশ্রমিক নেওয়ার অনুমতি দেয়। কুরতুবী দায়িত্বটা সোজাসুজি বলেন: বাবাদের কর্তব্য তাদের দুধ পান করানোর পারিশ্রমিক দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking Counsel with Decency",
+          "bn": "ভদ্রতার সঙ্গে পরামর্শ"
+        },
+        "p": [
+          {
+            "en": "Wa'tamiru baynakum bi-ma'rufin: and confer among yourselves in a decent way. At-Tabari reads it as: let each of you accept from the other the good that the other urges. As-Suddi says: do what is decent between you; Sufyan: urge one another on. Al-Baghawi gives al-Kisa'i's gloss: consult each other. Al-Qurtubi addresses it to husbands and wives alike, and says what grace looks like on each side: from her, nursing the child without a fee; from him, being generous with the fee.",
+            "bn": "ওয়া'তামিরূ বাইনাকুম বিমা'রূফ: আর নিজেদের মধ্যে ভদ্রভাবে পরামর্শ করো। তাবারী এর অর্থ করেন: তোমাদের একজন অন্যজনকে যে ভালো কাজের কথা বলে, প্রত্যেকে তা মেনে নাও। সুদ্দী বলেন: নিজেদের মধ্যে ভালো আচরণ করো। সুফইয়ানের কথায়: একে অপরকে উৎসাহ দাও। বাগাভী কিসাঈর ব্যাখ্যা আনেন: পরস্পর পরামর্শ করো। কুরতুবী বলেন, সম্বোধন স্বামী-স্ত্রী দুজনের প্রতি। প্রত্যেক দিকে উদারতা দেখতে কেমন, তাও বলেন। স্ত্রীর দিক থেকে বিনা পারিশ্রমিকে সন্তানকে দুধ পান করানো, আর স্বামীর দিক থেকে পারিশ্রমিক উদারভাবে দেওয়া।"
+          },
+          {
+            "en": "As-Sa'di names why the counsel is needed. At separation, above all when a child is born to them, disputes over her maintenance and the child's are common, and a separation usually comes only from dislike, which leaves much bitterness behind. Each is therefore told to urge the other to good, to treat the other well, and to avoid strife and quarrelling. Ibn Kathir joins the clause to 2:233: no mother is to be harmed on account of her child, nor a father on account of his.",
+            "bn": "পরামর্শের প্রয়োজন কেন, সা'দী তা বলেন। বিচ্ছেদের সময়, বিশেষ করে যখন তাদের সন্তান জন্ম নেয়, স্ত্রীর খরচ আর সন্তানের খরচ নিয়ে বিবাদ প্রায়ই হয়। আর বিচ্ছেদ সাধারণত আসে অপছন্দ থেকেই, যা পেছনে অনেক তিক্ততা রেখে যায়। তাই দুজনকেই বলা হয়েছে একে অপরকে ভালোর দিকে ডাকতে, ভালো ব্যবহার করতে, ঝগড়া-বিবাদ এড়িয়ে চলতে। ইবন কাসীর এই অংশকে ২:২৩৩ আয়াতের সঙ্গে মেলান: সন্তানের কারণে কোনো মাকে কষ্ট দেওয়া যাবে না, বাবাকেও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Two Cannot Agree",
+          "bn": "দুজনে একমত না হলে"
+        },
+        "p": [
+          {
+            "en": "Wa-in ta'asartum fa-saturdi'u lahu ukhra: and if you make it hard for each other, another woman will nurse for him. At-Tabari: if she refuses to nurse, he has no way over her and may not compel her; he hires a nurse other than the mother. Ibn Kathir describes hard bargaining from either side, her asking too much or his offering too little, and adds that if the mother accepts what a stranger would be paid, she has more right to her child. As-Suddi, in at-Tabari, says that in that case the father should not take the child from her.",
+            "bn": "ওয়া ইন তাআসারতুম ফাসাতুরদিউ লাহূ উখরা: আর তোমরা যদি একে অপরের জন্য কঠিন করে তোলো, তবে অন্য কোনো নারী তার সন্তানকে দুধ পান করাবে। তাবারী বলেন, মা দুধ পান করাতে অস্বীকার করলে তার উপর বাবার কোনো জোর খাটে না। তাকে বাধ্য করা যাবে না। বাবা মা ছাড়া অন্য কোনো ধাত্রী ভাড়া করবে। ইবন কাসীর দুদিক থেকেই কঠিন দর-কষাকষির ছবি আঁকেন: মা খুব বেশি চাইলেন, অথবা বাবা খুব কম দিতে চাইলেন। তিনি যোগ করেন, বাইরের ধাত্রী যা পেত, মা তাতে রাজি হলে সন্তানের উপর মায়েরই অধিকার বেশি। তাবারীর বর্ণনায় সুদ্দী বলেন, তখন বাবার উচিত নয় সন্তানকে মায়ের কাছ থেকে কেড়ে নেওয়া।"
+          },
+          {
+            "en": "The infant is guarded too. Ad-Dahhak, in at-Tabari and al-Qurtubi, says that if the baby accepts no one else, the mother is required to nurse, and in al-Qurtubi's version, for a wage; as-Sa'di sets the same limit, with the customary wage. Ma'arif al-Qur'an adds that a hired nurse should feed the baby while it stays in the mother's custody, since separating mother and infant is not lawful in its account. The verse opened on a roof over a divorced woman's head and closes on a child's milk, and at each step it shuts a door on harm.",
+            "bn": "শিশুটির দিকেও খেয়াল রাখা হয়েছে। তাবারী ও কুরতুবী দুজনেই দাহহাক থেকে বর্ণনা করেন, শিশু যদি অন্য কারও দুধ না নেয়, তবে মাকেই দুধ পান করাতে হবে। কুরতুবীর বর্ণনায়, পারিশ্রমিকের বিনিময়ে। সা'দীও একই সীমা টানেন, প্রচলিত পারিশ্রমিকসহ। মাআরিফুল কুরআন যোগ করে, ভাড়া করা ধাত্রী শিশুকে দুধ খাওয়াবে মায়ের হেফাজতে থাকা অবস্থায়, কারণ তার বর্ণনায় মা আর শিশুকে আলাদা করা জায়েয নয়। আয়াতটি শুরু হয়েছিল তালাকপ্রাপ্তা এক নারীর মাথার উপর ছাদের কথা দিয়ে, আর শেষ হলো শিশুর দুধের কথায়। প্রতিটি ধাপে এটি কষ্টের একেকটি দরজা বন্ধ করে।"
+          }
+        ]
+      }
+    ]
+  },
   "65:12": {
     "sections": [
       {

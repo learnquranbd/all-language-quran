@@ -28429,6 +28429,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard what Allah has entrusted to you, believe His words with understanding, and keep obeying steadily; your own faith, not anyone's beside you, is what makes you an example.",
     "lessonBn": "আল্লাহ যা আমানত দিয়েছেন তা রক্ষা করুন, বুঝে-শুনে তাঁর বাণীতে বিশ্বাস রাখুন, আর অবিচল থেকে আনুগত্য করে যান। পাশের মানুষের নয়, আপনার নিজের ঈমানই আপনাকে দৃষ্টান্ত বানায়।"
+  },
+  "65:6": {
+    "reflectionEn": "A marriage has ended, or is ending, and the house is still shared. Into that strained season this verse speaks, and it asks for more than a grudging minimum. Lodge her where you live, as far as your means allow. Do not shrink the room to push her out. If she is carrying a child, provide for her until the birth. If she nurses your child, pay her, and settle matters between you with decency. If you cannot agree, another woman may nurse; nobody is to be cornered. Parting is no licence for pettiness. Character is often tested when affection has gone and only duty is left. When I am hurt by someone I still owe, do I give their due in full, or let the hurt shrink it?",
+    "reflectionBn": "একটা সংসার ভেঙে গেছে, বা ভাঙতে চলেছে, অথচ ঘরটা এখনো একই। এমন টানাপোড়েনের দিনগুলোতে আয়াতটি কথা বলে, আর অনিচ্ছায় দেওয়া ন্যূনতম কিছুতে থামে না। যেখানে আপনি থাকেন, সামর্থ্য অনুযায়ী তাকেও সেখানে থাকতে দিন। তাকে বের করে দেওয়ার জন্য ঘর সংকীর্ণ করে তুলবেন না। সে গর্ভবতী হলে সন্তান প্রসব পর্যন্ত তার খরচ বহন করুন। আপনার সন্তানকে দুধ পান করালে তার পারিশ্রমিক দিন, আর নিজেদের মধ্যে ভদ্রভাবে বিষয়টা মিটিয়ে নিন। একমত না হলে অন্য কেউ দুধ পান করাবে। কাউকে কোণঠাসা করা চলবে না। বিচ্ছেদ মানে ছোটলোকি করার ছাড়পত্র নয়। ভালোবাসা যখন চলে যায় আর কেবল দায়িত্বটুকু থাকে, চরিত্রের পরীক্ষা হয় তখনই। যার কাছে আমার দেনা আছে, সে যদি আমাকে কষ্ট দিয়ে থাকে, আমি কি তার হক পুরোটা দিই, নাকি মনের কষ্ট দিয়ে সেটা কেটে ছোট করি?",
+    "pointsEn": [
+      "When a relationship has soured, do I still give the other person their full due, or do I quietly hand over a little less?",
+      "Have I ever made someone's place so uncomfortable that they left, and then told myself they chose to go?",
+      "In a dispute over money with someone I once loved, do I ask for what is fair, or for what will hurt?",
+      "Where can I replace a hard bargain this week with a conversation held in good faith?",
+      "When a child stands between two adults who disagree, whose comfort am I protecting when I dig in my heels?"
+    ],
+    "pointsBn": [
+      "সম্পর্ক তেতো হয়ে গেলেও আমি কি অপর মানুষটির হক পুরোপুরি আদায় করি, নাকি চুপিচুপি একটু কম দিই?",
+      "কারও থাকার জায়গা কি আমি কখনো এত অস্বস্তিকর করে তুলেছি যে সে চলে গেছে, আর তারপর নিজেকে বুঝিয়েছি যে সে নিজেই যেতে চেয়েছিল?",
+      "একসময় যাকে ভালোবাসতাম তার সঙ্গে টাকাপয়সার বিরোধে আমি কি ন্যায্যটুকু চাই, নাকি এমন কিছু চাই যাতে তার গায়ে লাগে?",
+      "এ সপ্তাহে কোন কঠিন দর-কষাকষির জায়গায় আমি সৎ নিয়তের একটা আলাপ বসাতে পারি?",
+      "দুজন বড় মানুষের মতবিরোধের মাঝখানে যখন একটা শিশু দাঁড়িয়ে থাকে, আমি জেদ ধরে থাকলে আসলে কার আরাম রক্ষা করি?"
+    ],
+    "lessonEn": "When a marriage ends, keep giving what is due without spite: house her fairly, provide in pregnancy, pay for nursing, and settle disagreements with decency, not pressure.",
+    "lessonBn": "সংসার ভেঙে গেলেও বিদ্বেষ ছাড়া প্রাপ্য বুঝিয়ে দিন: ন্যায্যভাবে থাকার জায়গা দিন, গর্ভাবস্থায় খরচ বহন করুন, দুধ পান করানোর পারিশ্রমিক দিন, আর চাপ নয়, ভদ্রতা দিয়ে মতবিরোধ মেটান।"
   }
 };
 
