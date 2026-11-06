@@ -1163,6 +1163,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:34": {
+    "sections": [
+      {
+        "h": {
+          "en": "When the Danger Lifts",
+          "bn": "বিপদ যখন কেটে যায়"
+        },
+        "p": [
+          {
+            "en": "Six Arabic words close a sentence that began in 30:33. When harm touches people, that verse says, they call on their Lord, munibina ilayhi, turning back to Him. Then when He lets them taste mercy from Him, at once a party of them associate others with their Lord. Li-yakfuru bima ataynahum: so that they deny what We gave them. Fa-tamatta'u fa-sawfa ta'lamun: so enjoy yourselves, for you will come to know. The verse opens no new scene. It names what the scene before it amounted to, and then it speaks.",
+            "bn": "ছয়টি আরবি শব্দ এমন এক বাক্যের শেষ টানে, যার শুরু ৩০:৩৩ আয়াতে। সে আয়াত বলে, মানুষকে যখন দুঃখ-কষ্ট ছোঁয়, তারা রবকে ডাকে মুনীবীনা ইলাইহি, তাঁর দিকে ফিরে এসে। তারপর তিনি যখন নিজের পক্ষ থেকে রহমতের স্বাদ দেন, অমনি তাদের একদল রবের সঙ্গে শরিক করে বসে। লিয়াকফুরূ বিমা আতাইনাহুম: যাতে তারা অস্বীকার করে যা আমি তাদের দিয়েছি। ফাতামাত্তাঊ ফাসাওফা তা'লামূন: তাহলে ভোগ করে নাও, শীঘ্রই জানবে। আয়াতটি নতুন কোনো দৃশ্য খোলে না। আগের দৃশ্যটা আসলে কী ছিল, তার নাম বলে দেয়, তারপর সরাসরি কথা বলে।"
+          },
+          {
+            "en": "The passage around it has been calling people back to the upright religion: in 30:31 the same word, munibina ilayhi, describes those who are told to turn to Him, fear Him, pray and not be among those who associate partners. In 30:33 that turning appears in people who will not keep it, a posture held only as long as the danger lasts. Ibn Kathir's abridged English heads the passage as man swaying between tawhid and shirk according to his circumstances: in straits he calls on Allah alone, and when ease comes some associate others with Him.",
+            "bn": "চারপাশের আয়াতগুলো মানুষকে সরল দ্বীনের দিকে ডেকে আনছে। ৩০:৩১ আয়াতে ঠিক এই শব্দ, মুনীবীনা ইলাইহি, এসেছে তাদের বেলায়, যাদের বলা হচ্ছে তাঁর দিকে ফেরো, তাঁকে ভয় করো, নামাজ কায়েম করো, মুশরিকদের দলে যেয়ো না। ৩০:৩৩ আয়াতে সেই ফিরে আসাই দেখা যায় এমন লোকদের মধ্যে, যারা তা ধরে রাখবে না। বিপদ যতক্ষণ, ভঙ্গিটাও ততক্ষণ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ অংশের শিরোনাম দেয়: অবস্থা বদলের সঙ্গে মানুষের তাওহীদ আর শিরকের মাঝে দোল খাওয়া। সংকটে সে একা আল্লাহকে ডাকে, আর সুদিন এলে কেউ কেউ তাঁর সঙ্গে অন্যদের শরিক করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purpose, Outcome or Command",
+          "bn": "উদ্দেশ্য, পরিণাম, না আদেশ"
+        },
+        "p": [
+          {
+            "en": "Much turns on the lam of li-yakfuru. Ibn Kathir reports the division plainly: it is the lam of outcome, lam al-'aqiba, according to some, and the lam of cause, lam at-ta'lil, according to others. On the first reading the clause names where their conduct ends up rather than what they meant by it: associating partners after the rescue comes to denial of the favour. On the second it states a purpose. Ibn Kathir does not leave that reading bare. It is a cause, he adds, but a cause given for Allah's allotting that to them.",
+            "bn": "লিয়াকফুরূ শব্দের লাম বা 'ল' অক্ষরটির উপর অনেক কিছু নির্ভর করে। ইবন কাসীর মতভেদটা সোজাসুজি জানিয়ে দেন। কারও মতে এটি লামুল আকিবা, পরিণামের লাম। অন্যদের মতে লামুত তা'লীল, কারণ বোঝানোর লাম। প্রথম পাঠে বাক্যটি বলে তাদের আচরণ শেষ পর্যন্ত কোথায় গিয়ে দাঁড়ায়, তারা কী মতলবে করেছিল তা নয়। উদ্ধার পাওয়ার পর শরিক করা মানেই অনুগ্রহ অস্বীকার করা। দ্বিতীয় পাঠে বাক্যটি উদ্দেশ্য জানায়। ইবন কাসীর এ পাঠকে খালি রেখে দেন না। তিনি যোগ করেন, এটি কারণই বটে, তবে আল্লাহ তাদের জন্য যা নির্ধারণ করে দিয়েছেন, সেই নির্ধারণের কারণ।"
+          },
+          {
+            "en": "Al-Qurtubi records two views, each introduced with qila, it is said. One is that it is lam kay, the lam of purpose, meaning so that. The other is that it is lam al-amr, the lam of command, carrying the sense of threat: let them deny. He supports it with 18:29, fa-man sha'a fal-yu'min wa-man sha'a fal-yakfur, so whoever wills, let him believe, and whoever wills, let him disbelieve. Read this way, the clause is not an explanation of what came before. It already belongs to the warning that follows it.",
+            "bn": "কুরতুবী দুটি মত উল্লেখ করেন, দুটিই কীলা, অর্থাৎ 'বলা হয়েছে' দিয়ে শুরু। একটি মত হলো এটি লামে কাই, উদ্দেশ্যের লাম, যার মানে 'যাতে'। অন্য মত হলো এটি লামুল আমর, আদেশের লাম, যার ভেতরে হুমকির সুর আছে: তবে তারা অস্বীকার করুক। এর সমর্থনে তিনি আনেন ১৮:২৯ আয়াত: ফামান শাআ ফালইউ'মিন ওয়ামান শাআ ফালইয়াকফুর, যার ইচ্ছা ঈমান আনুক, যার ইচ্ছা কুফরি করুক। এভাবে পড়লে বাক্যটি আগের কথার ব্যাখ্যা থাকে না। পরের সতর্কবাণীরই অংশ হয়ে যায়।"
+          },
+          {
+            "en": "At-Tabari opens by saying that Allah speaks here as one threatening, mutawa''idan, these associators who, once the harm is lifted from them, disbelieve in Him. He then glosses the clause with kay: idha hum bi-rabbihim yushrikun, kay yakfuru, at once they associate partners with their Lord, so that they deny. He does not stop to argue over the particle. The difference stands as the commentators left it, purpose, outcome or command, and on every reading the clause lands on the same act: the denial of a favour just received.",
+            "bn": "তাবারী শুরুতেই বলেন, আল্লাহ এখানে কথা বলছেন মুতাওয়াইদান, হুমকি দিয়ে, সেই মুশরিকদের উদ্দেশে, যাদের থেকে কষ্ট সরিয়ে নিলে তারা তাঁর সঙ্গে কুফরি করে। তারপর তিনি বাক্যটির অর্থ বোঝান 'কাই' দিয়ে: ইযা হুম বিরাব্বিহিম ইউশরিকূন, কাই ইয়াকফুরূ। অমনি তারা রবের সঙ্গে শরিক করে, যাতে অস্বীকার করে। অক্ষরটি নিয়ে তিনি তর্কে যান না। মতভেদটা তাফসীরকারেরা যেভাবে রেখে গেছেন সেভাবেই থাকুক: উদ্দেশ্য, পরিণাম, নাকি আদেশ। যে পাঠই নিন, বাক্যটি গিয়ে থামে একই কাজে, সদ্য পাওয়া অনুগ্রহ অস্বীকার করায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Relief Named as a Gift",
+          "bn": "স্বস্তির নাম দান"
+        },
+        "p": [
+          {
+            "en": "Bima ataynahum, what We gave them, is defined by the commentators from the verse before. At-Tabari spells it out in Allah's own voice: the favour I bestowed on them by lifting from them the harm they were in, and giving them in its place ease, fertile land and good health. That ease and plenty, he says, is what is meant by what We gave them. The Muyassar names the removal of harm and the passing of hardship, and as-Sa'di says Allah rescued them, saved them from distress and took the burden from them.",
+            "bn": "বিমা আতাইনাহুম, আমি তাদের যা দিয়েছি। কী দেওয়া হয়েছিল, তাফসীরকারেরা তা খুঁজে নেন আগের আয়াত থেকে। তাবারী আল্লাহর নিজের ভাষায় তা খুলে বলেন: যে কষ্টে তারা ছিল তা সরিয়ে দিয়ে, তার বদলে সচ্ছলতা, উর্বর জমি আর সুস্থতা দিয়ে আমি তাদের উপর যে অনুগ্রহ করেছি। তাঁর কথায়, এই সচ্ছলতা আর প্রাচুর্যই 'আমি যা দিয়েছি' কথাটির অর্থ। মুয়াসসার বলে কষ্ট দূর হওয়া আর সংকট কেটে যাওয়ার কথা। সা'দী বলেন, আল্লাহ তাদের রক্ষা করেছেন, বিপদ থেকে উদ্ধার করেছেন, কষ্টের বোঝা নামিয়ে দিয়েছেন।"
+          },
+          {
+            "en": "So the kufr in li-yakfuru is first a denial of that gift. At-Tabari glosses it as yajhadu an-ni'mah, that they deny the favour, and Ibn Kathir's abridged English renders the clause, so as to be ungrateful for the graces which We have bestowed on them. The two glosses meet in the scene itself. To credit the rescue to anyone besides the Rescuer is to withhold thanks from Him and to deny who He is in the same act. The verse does not separate the ingratitude from the shirk; it treats them as one turning away.",
+            "bn": "তাই লিয়াকফুরূ-র কুফর প্রথমত সেই দান অস্বীকার করা। তাবারী এর অর্থ করেন ইয়াজহাদুন নি'মাহ, অর্থাৎ তারা অনুগ্রহকে অস্বীকার করে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বাক্যটির অনুবাদ করে এভাবে: যাতে আমার দেওয়া অনুগ্রহের প্রতি তারা অকৃতজ্ঞ হয়। দৃশ্যটার ভেতরেই দুই ব্যাখ্যা মিলে যায়। যিনি উদ্ধার করলেন, তাঁকে বাদ দিয়ে অন্য কাউকে কৃতিত্ব দেওয়া মানে একই সঙ্গে তাঁর শুকরিয়া আটকে রাখা আর তিনি কে, তা অস্বীকার করা। আয়াতটি অকৃতজ্ঞতা আর শিরককে আলাদা করে না। দুটোকে একই মুখ ফিরিয়ে নেওয়া হিসেবে দেখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning to Face Them",
+          "bn": "এবার মুখোমুখি কথা"
+        },
+        "p": [
+          {
+            "en": "Li-yakfuru speaks of them in the third person; fa-tamatta'u turns and addresses them. Al-Qurtubi names the move: on the script of the mushaf, he says, it is address following a report about the absent, as though to say, enjoy yourselves, you who do this. Al-Baghawi describes the same turn: then He addressed those who had done this with an address of threat. The listener who has just watched the scene from outside, as a report about others, finds the speaker now looking straight at the people in it.",
+            "bn": "লিয়াকফুরূ তাদের কথা বলে এমনভাবে, যেন তারা সামনে নেই। ফাতামাত্তাঊ ঘুরে সরাসরি তাদের সম্বোধন করে। কুরতুবী এই বাঁকটার নাম দেন। তিনি বলেন, মুসহাফের লিখিত রূপ অনুযায়ী এটা অনুপস্থিতের খবর দেওয়ার পর সরাসরি সম্বোধন, যেন বলা হচ্ছে: এ কাজ যারা করছ, ভোগ করে নাও। বাগাভীও একই মোড়ের কথা বলেন: তারপর যারা এমন করেছে, তাদের তিনি হুমকির সুরে সম্বোধন করলেন। শ্রোতা এতক্ষণ দৃশ্যটা দেখছিল বাইরে থেকে, অন্যদের খবর হিসেবে। এবার দেখে, বক্তা সোজা তাকিয়ে আছেন দৃশ্যের মানুষগুলোর দিকে।"
+          },
+          {
+            "en": "Both al-Qurtubi and at-Tabari record readings that keep the third person. Al-Qurtubi reports that the mushaf of 'Abdullah has wa-l-yatamatta'u, and let them enjoy, which he explains as: We enabled them in that so that they might enjoy, a report about the absent like li-yakfuru itself. At-Tabari reports that some read fa-sawfa ya'lamun, they will come to know, with the letter ya. On that reading the sense runs: so that they deny what We gave them; they have had their enjoyment, as a statement of fact; and they will come to know.",
+            "bn": "কুরতুবী ও তাবারী দুজনেই এমন পাঠের কথা জানান, যেখানে শেষ পর্যন্ত তাদের কথা বলা হয় অনুপস্থিতের মতো করে। কুরতুবী বলেন, আবদুল্লাহর মুসহাফে আছে ওয়ালইয়াতামাত্তাঊ, আর তারা যেন ভোগ করে। তাঁর ব্যাখ্যা: আমি তাদের সে সুযোগ দিয়েছি যাতে তারা ভোগ করে। লিয়াকফুরূ-র মতো এটাও অনুপস্থিতের খবর। তাবারী জানান, কেউ কেউ ইয়া অক্ষর দিয়ে পড়েছেন ফাসাওফা ইয়া'লামূন, তারা জানতে পারবে। সে পাঠে অর্থ দাঁড়ায়: যাতে তারা আমার দেওয়া জিনিস অস্বীকার করে। তারা তো ভোগ করেই নিয়েছে, এটা খবর হিসেবে। আর শীঘ্রই তারা জানতে পারবে।"
+          },
+          {
+            "en": "The Qur'an itself carries both shapes. The same six words close 16:55, after 16:54 describes harm removed and a party associating partners with their Lord. And after 29:65 shows people at sea calling on Allah sincerely and then associating others once He brings them safe to land, 29:66 reads li-yakfuru bima ataynahum wa-li-yatamatta'u fa-sawfa ya'lamun: so that they deny what We gave them, and so that they enjoy themselves; they will come to know. There the third person runs to the end. Here the speech turns, and the turning is itself part of the warning.",
+            "bn": "কুরআনেই দুই রূপ পাওয়া যায়। হুবহু এই ছয়টি শব্দ আছে ১৬:৫৫ আয়াতের শেষে, যার আগে ১৬:৫৪ আয়াত বলে কষ্ট দূর হওয়ার পর একদলের রবের সঙ্গে শরিক করার কথা। আর ২৯:৬৫ আয়াতে মানুষ সাগরে খাঁটি মনে আল্লাহকে ডাকে, তিনি নিরাপদে ডাঙায় পৌঁছে দিলে শরিক করে বসে। তার পরে ২৯:৬৬ আয়াত: লিয়াকফুরূ বিমা আতাইনাহুম ওয়ালিয়াতামাত্তাঊ ফাসাওফা ইয়া'লামূন। যাতে তারা আমার দেওয়া জিনিস অস্বীকার করে আর ভোগ করে নেয়, শীঘ্রই তারা জানবে। সেখানে শেষ পর্যন্ত কথা চলে অনুপস্থিতদের নিয়ে। এখানে কথা ঘুরে যায়, আর সেই ঘুরে যাওয়াটাই সতর্কবাণীর অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Imperative That Grants Nothing",
+          "bn": "যে আদেশে কিছুই দেওয়া হয় না"
+        },
+        "p": [
+          {
+            "en": "Fa-tamatta'u has the form of a command, and none of the commentators read for this verse takes it as an order to be obeyed. Al-Qurtubi calls fa-tamatta'u fa-sawfa ta'lamun tahdid wa-wa'id, a threat and a promise of punishment. Al-Baghawi calls the address khitab tahdid, speech of threat. At-Tabari, as already seen, frames the whole verse as Allah speaking mutawa''idan, in threat. The imperative grants no new permission. It describes what they are already doing, gives it back to them as a command, and fastens a consequence to it.",
+            "bn": "ফাতামাত্তাঊ দেখতে আদেশ, কিন্তু এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই একে মানার মতো আদেশ হিসেবে পড়ে না। কুরতুবী ফাতামাত্তাঊ ফাসাওফা তা'লামূন অংশটিকে বলেন তাহদীদ ওয়া ওয়াঈদ, হুমকি আর শাস্তির ঘোষণা। বাগাভী এই সম্বোধনকে বলেন খিতাবু তাহদীদ, হুমকির ভাষা। আর তাবারী তো শুরুতেই পুরো আয়াতটিকে দেখেছেন আল্লাহর হুমকি হিসেবে। এই আদেশ নতুন কোনো অনুমতি দেয় না। তারা যা করেই যাচ্ছে, সেটাকেই আদেশের রূপে তাদের হাতে ফিরিয়ে দেয়, আর তার সঙ্গে বেঁধে দেয় পরিণাম।"
+          },
+          {
+            "en": "What are they told to enjoy? At-Tabari: enjoy, O people, what We gave you of ease and plenty in this world. The Muyassar addresses them directly, O associators, enjoy the ease and plenty in this world. The enjoyment is the very relief that 30:33 called mercy, the same gift that was denied. Both glosses add fi hadhihi ad-dunya, in this world, and the phrase marks a horizon. Nothing in the verse says the gift will be withdrawn at once. What it says is that the gift is held for a time, and that the time is not the end.",
+            "bn": "কী ভোগ করতে বলা হচ্ছে? তাবারী বলেন: হে লোকেরা, দুনিয়ায় তোমাদের যে সচ্ছলতা আর প্রাচুর্য দিয়েছি, তা ভোগ করে নাও। মুয়াসসার সরাসরি সম্বোধন করে: হে মুশরিকেরা, এই দুনিয়ার সচ্ছলতা আর প্রাচুর্য ভোগ করো। যে ভোগের কথা হচ্ছে, তা সেই স্বস্তিই, ৩০:৩৩ আয়াত যাকে রহমত বলেছে, আর যে দান তারা অস্বীকার করেছে। দুটি ব্যাখ্যাতেই আছে ফী হাযিহিদ দুনইয়া, এই দুনিয়ায়। কথাটা একটা সীমারেখা টেনে দেয়। দান যে এখনই কেড়ে নেওয়া হবে, আয়াত তা বলে না। বলে, দানটা কিছুকালের জন্য হাতে, আর সেই কাল শেষ কথা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Knowing Kept for Later",
+          "bn": "যে জানা পরের জন্য তোলা"
+        },
+        "p": [
+          {
+            "en": "Fa-sawfa ta'lamun leaves its object unsaid, and the commentators supply it from the Hereafter. At-Tabari: you will come to know, when you come before your Lord, what you meet of His punishment and the greatness of His penalty for your kufr of Him in the world. Al-Baghawi: you will know your state in the Hereafter. The Muyassar: you will know the punishment and penalty you will meet. Sawfa looks ahead. The enjoyment is now and the knowing is later, and the verse does not say how much later.",
+            "bn": "ফাসাওফা তা'লামূন বলে না কী জানবে। তাফসীরকারেরা সে ফাঁকটা পূরণ করেন আখিরাত দিয়ে। তাবারী বলেন: রবের কাছে যখন হাজির হবে, তখন জানবে দুনিয়ায় তাঁর সঙ্গে কুফরির জন্য কী শাস্তি আর কত বড় সাজা তোমাদের সামনে আসে। বাগাভী বলেন: আখিরাতে তোমাদের অবস্থা কী হবে, তা জানবে। মুয়াসসার বলে: কোন আজাব আর শাস্তির মুখোমুখি হবে, তা জানবে। সাওফা শব্দটি সামনের দিকে তাকায়। ভোগ এখন, জানা পরে। কত পরে, আয়াত তা বলে না।"
+          },
+          {
+            "en": "Ibn Kathir calls the clause a threat and quotes an earlier voice, named only as qala ba'duhum, one of them said: by Allah, if the watchman of a lane threatened me I would be afraid of him, so what of this, when the One threatening is He who says to a thing, Be, and it is. The remark measures a warning by the one who gives it. A sentence that sounds mild, almost casual, enjoy yourselves, you will come to know, carries the whole weight of whoever speaks it, and here the Speaker is the One who had just lifted the harm.",
+            "bn": "ইবন কাসীর এ অংশকে হুমকি বলেন, আর আগের এক অজ্ঞাতনামা ব্যক্তির কথা আনেন, শুধু কালা বা'দুহুম, তাদের একজন বলেছেন, এটুকু বলে: আল্লাহর কসম, গলির এক পাহারাদারও যদি আমাকে হুমকি দিত, আমি ভয় পেতাম। তাহলে এখানে কী অবস্থা, যখন হুমকিদাতা তিনি, যিনি কোনো কিছুকে বলেন 'হও', আর তা হয়ে যায়। কথাটা সতর্কবাণী মাপে তার বক্তাকে দিয়ে। ভোগ করে নাও, শীঘ্রই জানবে, শুনতে নরম, প্রায় হালকা। কিন্তু বাক্যটি বহন করে বক্তার পুরো ভার। আর এখানে বক্তা সেই সত্তা, যিনি এইমাত্র কষ্ট সরিয়ে দিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Words Address",
+          "bn": "কথাগুলো কাদের উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "The next verse presses the point with a question, and Ibn Kathir moves straight on to it: Allah now rebukes the associators for what they invented in worshipping idols with no evidence, argument or proof. Or have We sent down to them an authority that speaks of what they associate with Him? His abridged English calls it a rhetorical question meant to denounce them, for they have no such thing. The rescue had a known Author; the partners credited afterwards have no warrant at all. The commentaries read for this verse attach no hadith to it.",
+            "bn": "পরের আয়াত একটা প্রশ্ন দিয়ে কথাটা আরও চেপে ধরে, আর ইবন কাসীর সোজা সেখানে চলে যান। তাঁর কথায়, কোনো দলিল, যুক্তি বা প্রমাণ ছাড়া মূর্তিপূজা বানিয়ে নেওয়ার জন্য আল্লাহ এবার মুশরিকদের তিরস্কার করছেন: আমি কি তাদের কাছে এমন কোনো সনদ নাযিল করেছি, যা তাদের শরিকদের পক্ষে কথা বলে? তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, এটা তাদের ভর্ৎসনা করার জন্য প্রশ্ন, কারণ এমন কিছু তাদের কাছে নেই। উদ্ধারকারী কে, তা জানা ছিল। পরে যাদের কৃতিত্ব দেওয়া হলো, তাদের পক্ষে কোনো সনদ নেই। এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "The verse describes what it describes: a party of people who called on Allah in harm and set partners beside Him in ease, and the warning addressed to them. At-Tabari calls them these associators, and al-Baghawi those who did this. It licenses nothing against any living person or community, and gives nobody a warrant to decide whose recovery was followed by shirk, or to treat a neighbour's good fortune as evidence against them. Its first reader is the person holding it, who has also been rescued and has also gone quiet afterwards.",
+            "bn": "আয়াতটি যা বর্ণনা করে, ঠিক তাই বর্ণনা করে: একদল মানুষ, যারা কষ্টে আল্লাহকে ডেকেছিল আর স্বস্তিতে তাঁর সঙ্গে শরিক দাঁড় করিয়েছিল, আর তাদের প্রতি উচ্চারিত সতর্কবাণী। তাবারী তাদের বলেন এই মুশরিকেরা, বাগাভী বলেন যারা এমন করেছে। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে আয়াতটি কিছুরই অনুমতি দেয় না। কার সুস্থ হয়ে ওঠার পর শিরক এসেছে, তা ঠিক করার অধিকার কাউকে দেয় না। প্রতিবেশীর সুদিনকে তার বিরুদ্ধে প্রমাণ বানানোরও না। এর প্রথম পাঠক সে নিজে, যার হাতে আয়াতটি। সেও উদ্ধার পেয়েছে, আর পরে সেও চুপ হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks That Outlasts the Calm",
+          "bn": "শান্ত দিনেও টিকে থাকা শুকরিয়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di counts the whole pattern as ingratitude. All of this, he writes, is kufr of what Allah gave them and favoured them with, when He saved them, rescued them from hardship and removed their distress. Then he asks the question the verse leaves hanging: why did they not meet this great favour with gratitude, and with continued sincerity to Him in every state? His phrase fi jami' al-ahwal, in all states, sets the measure. The test is not the prayer offered in the storm. It is whether that prayer survives the calm.",
+            "bn": "সা'দী পুরো ধারাটাকেই অকৃতজ্ঞতা গণ্য করেন। তিনি লেখেন, এ সবই আল্লাহর দেওয়া জিনিস আর তাঁর অনুগ্রহের সঙ্গে কুফরি, যখন তিনি তাদের বাঁচালেন, সংকট থেকে উদ্ধার করলেন, কষ্ট দূর করলেন। তারপর তিনি সেই প্রশ্নটা তোলেন, যা আয়াতটি ঝুলিয়ে রাখে: এত বড় অনুগ্রহের জবাব তারা কেন শুকরিয়া দিয়ে দিল না? কেন সব অবস্থায় তাঁর প্রতি খাঁটি আনুগত্য ধরে রাখল না? ফী জামীইল আহওয়াল, সব অবস্থায়, এই কথাটাই মাপকাঠি। পরীক্ষা ঝড়ের মধ্যে পড়া দোয়া নয়। পরীক্ষা হলো, ঝড় থামার পরেও সেই দোয়া টেকে কি না।"
+          },
+          {
+            "en": "The verse's own sequence gives the reader an order to watch. The harm came, the call went up, mercy was tasted. What the verse condemns happens after that, in the stretch of ordinary days when nothing is wrong. That is where gratitude is tested: whether the person who prayed at the hospital door still prays at home, whether the rescue is told as Allah's doing or as good fortune, whether the du'as of the hard week find any echo in the easy month that follows it.",
+            "bn": "আয়াতের নিজের ধারাবাহিকতাই পাঠককে দেখিয়ে দেয় কোন জায়গায় চোখ রাখতে হবে। কষ্ট এল, ডাক উঠল, রহমতের স্বাদ মিলল। আয়াত যা নিন্দা করে, তা ঘটে এর পরে, সাধারণ দিনগুলোতে, যখন কোনো সমস্যা নেই। শুকরিয়ার পরীক্ষা হয় সেখানেই। হাসপাতালের দরজায় যে দোয়া করেছিল, সে কি বাড়ি ফিরেও দোয়া করে? উদ্ধারের গল্পটা কি আল্লাহর কাজ হিসেবে বলা হয়, নাকি কপালের জোর হিসেবে? কঠিন সপ্তাহের দোয়াগুলোর কোনো রেশ কি পরের সহজ মাসটায় থেকে যায়?"
+          },
+          {
+            "en": "Enjoy yourselves, the verse says to those it warns, and a believer too may enjoy the ease Allah gives. The difference is not in the enjoying but in remembering who gave it. A relief met with thanks stays a mercy; a relief met with forgetting is where this warning begins. So the threat can be turned into two questions the reader puts to himself or herself: what did I do with the last ease I was given, and to whom did I say it was owed?",
+            "bn": "ভোগ করে নাও, আয়াত বলে তাদের, যাদের সে সতর্ক করছে। আল্লাহর দেওয়া স্বস্তি একজন মুমিনও ভোগ করতে পারে। তফাত ভোগ করায় নয়, কে দিলেন তা মনে রাখায়। শুকরিয়া দিয়ে গ্রহণ করা স্বস্তি রহমত হয়েই থাকে। ভুলে গিয়ে গ্রহণ করা স্বস্তি থেকেই এই সতর্কবাণীর শুরু। তাই হুমকিটাকে পাঠক নিজের দিকে দুটি প্রশ্ন বানিয়ে ঘুরিয়ে দিতে পারেন। শেষ যে স্বস্তি পেয়েছিলাম, তা দিয়ে আমি কী করেছি? আর সেটা কার দান বলে আমি স্বীকার করেছি?"
+          }
+        ]
+      }
+    ]
+  },
   "30:41": {
     "sections": [
       {

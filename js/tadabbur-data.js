@@ -25009,6 +25009,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Hour brings a parting with no reunion; walk now toward the company of those who believe and do good, and leave the sorting of others to Allah.",
     "lessonBn": "কিয়ামত এমন বিচ্ছেদ আনবে যার পর আর মিলন নেই। এখনই ঈমানদার ও নেককারদের সঙ্গের দিকে হাঁটুন, আর অন্যদের বাছাইয়ের ভার আল্লাহর উপর ছেড়ে দিন।"
+  },
+  "30:34": {
+    "reflectionEn": "A storm at sea, a frightening diagnosis, a phone call in the night. In that hour people call on their Lord and turn wholly to Him, and the verse before this one records it. Then the danger lifts, mercy is tasted, and a party of them set partners beside the One they had just begged. This verse names what that turn amounts to: denying what We gave them. Then the voice turns and speaks to them directly: enjoy yourselves, for you will come to know. It is not a permission. It is a warning, spoken calmly. The mirror is mine. When my own trouble passed, did my prayer stay with me, or did I credit luck and my own cleverness, and move on?",
+    "reflectionBn": "সাগরে ঝড়, ভয় ধরানো কোনো রোগের খবর, গভীর রাতের একটা ফোন। এমন মুহূর্তে মানুষ রবকে ডাকে, পুরোপুরি তাঁর দিকে ফিরে আসে। আগের আয়াত ঠিক এ কথাই বলেছে। তারপর বিপদ কেটে যায়, রহমতের স্বাদ মেলে, আর তাদের একদল যাঁর কাছে এইমাত্র কাকুতি-মিনতি করছিল তাঁর সঙ্গেই শরিক দাঁড় করায়। এই আয়াত সেই ফিরে যাওয়ার আসল নাম বলে দেয়: আমি যা দিয়েছিলাম তা অস্বীকার করা। তারপর কথা সরাসরি তাদের দিকে ঘুরে যায়: ভোগ করে নাও, শীঘ্রই জানতে পারবে। এটা অনুমতি নয়, শান্ত গলায় বলা এক সতর্কবাণী। আয়নাটা আমার সামনে। আমার নিজের বিপদ যখন কেটেছে, আমার দোয়া কি আমার সঙ্গে থেকে গেছে? নাকি ভাগ্য আর নিজের বুদ্ধির কৃতিত্ব দিয়ে আমি সামনে এগিয়ে গেছি?",
+    "pointsEn": [
+      "Think of the last hardship that sent me to prayer. How long did that closeness last once it lifted?",
+      "When I tell the story of a rescue or a recovery, whose name comes first in it?",
+      "Which of my present comforts did I once ask Allah for, and have I thanked Him for it since?",
+      "Is there an ease in my life that I enjoy as though no one will ever ask me what I did with it?",
+      "What one act of thanks that I keep only in hard times could I keep in easy ones as well?"
+    ],
+    "pointsBn": [
+      "শেষ যে বিপদ আমাকে নামাজে দাঁড় করিয়েছিল, সেটার কথা ভাবুন। বিপদ কাটার পর সেই নৈকট্য কত দিন টিকেছিল?",
+      "কোনো বিপদ থেকে বাঁচা বা অসুখ সেরে ওঠার গল্প যখন বলি, তাতে সবার আগে কার নাম আসে?",
+      "আজ যে স্বস্তিগুলো ভোগ করছি, তার কোনটা একদিন আল্লাহর কাছে চেয়েছিলাম? পাওয়ার পর কি তাঁর শুকরিয়া আদায় করেছি?",
+      "আমার জীবনে কি এমন কোনো সচ্ছলতা আছে, যা ভোগ করছি এমনভাবে যেন এর হিসাব কেউ কখনো চাইবে না?",
+      "শুধু কঠিন সময়ে যে শুকরিয়ার আমলটা করি, এমন কোনটা আছে যা সুখের দিনেও ধরে রাখতে পারি?"
+    ],
+    "lessonEn": "When Allah lifts a hardship, keep turning to Him as you did while it lasted, and let the relief deepen your gratitude instead of ending it.",
+    "lessonBn": "আল্লাহ যখন বিপদ সরিয়ে দেন, বিপদের সময় যেভাবে তাঁর দিকে ফিরেছিলেন সেভাবেই ফিরতে থাকুন। স্বস্তি যেন আপনার শুকরিয়া শেষ না করে, বরং আরও গভীর করে।"
   }
 };
 
