@@ -1035,6 +1035,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:30": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Word Closing the Rites",
+          "bn": "অনুষ্ঠানের শেষে একটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Dhalika: that. The verse opens on a single pointing word. At-Tabari reads it as pointing back to what 22:29 has just commanded, ending the pilgrims' unkemptness, fulfilling their vows and circling the Ancient House: that is the obligation upon you, people, in your Hajj. Ibn Kathir reads it a little wider: this is what We commanded of obedience in performing the rites, and the great reward of whoever does it. The Muyassar draws the consequence: so honour it.",
+            "bn": "যালিকা: এটাই। আয়াতটি শুরু হয় একটিমাত্র ইঙ্গিতবাচক শব্দে। তাবারীর মতে শব্দটি ইঙ্গিত করে ঠিক আগের ২২:২৯ আয়াতের আদেশগুলোর দিকে: হাজীদের দৈহিক অপরিচ্ছন্নতা দূর করা, মানত পূর্ণ করা আর প্রাচীন ঘরের তাওয়াফ। হে মানুষ, এটাই তোমাদের হজ্জে তোমাদের উপর ফরয। ইবন কাসীর একটু বড় করে পড়েন: হজ্জের অনুষ্ঠান পালনে আমি যে আনুগত্যের আদেশ দিয়েছি, এটাই তা, আর যে তা করে তার জন্য রয়েছে বিরাট প্রতিদান। মুয়াসসার এর ফল টেনে বলে: কাজেই একে সম্মান করো।"
+          },
+          {
+            "en": "Al-Qurtubi looks at the grammar. Dhalika may be the predicate of an unstated subject, your obligation is that, or the object of an unstated verb, comply with that. The word is a hinge. Behind it lies the Hajj passage that began at 22:26 with the site of the House designated for Ibrahim (AS); ahead of it the verse names the hurumat of Allah, and the commentators differ on how far that word reaches.",
+            "bn": "কুরতুবী দেখেন ব্যাকরণের দিক। যালিকা হতে পারে এক অনুক্ত উদ্দেশ্যের বিধেয়, অর্থাৎ তোমাদের ফরয এটাই। আবার হতে পারে এক অনুক্ত ক্রিয়ার কর্ম, অর্থাৎ এটা পালন করো। শব্দটি যেন দরজার কব্জা। এর পেছনে হজ্জের সেই আলোচনা, যা ২২:২৬ আয়াতে ইবরাহীম (আঃ)-এর জন্য ঘরের স্থান নির্ধারণ করে দেওয়ার কথা দিয়ে শুরু হয়েছিল। আর সামনে আয়াতটি উল্লেখ করে আল্লাহর 'হুরুমাত', আর শব্দটি কতদূর বিস্তৃত, তা নিয়ে তাফসীরকারদের মত ভিন্ন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Far Hurumat Reaches",
+          "bn": "হুরুমাত শব্দের পরিসর"
+        },
+        "p": [
+          {
+            "en": "Hurumat is the plural of hurma, a thing held inviolable. Al-Baghawi gives two definitions from the philologists: al-Layth says the hurumat of Allah are what may not be violated, and az-Zajjaj says a hurma is what must be upheld and whose neglect is forbidden. The commentators then ask which things the verse means here, and their answers run from a short list of sacred places to the whole of the law.",
+            "bn": "হুরুমাত শব্দটি 'হুরমা'-র বহুবচন, অর্থাৎ যা অলঙ্ঘ্য বলে মানা হয়। বাগাভী ভাষাবিদদের কাছ থেকে দুটি সংজ্ঞা আনেন। লাইস বলেন, আল্লাহর হুরুমাত হলো সেসব জিনিস, যা লঙ্ঘন করা বৈধ নয়। যাজ্জাজ বলেন, হুরমা হলো তা, যা পালন করা আবশ্যক আর যাতে অবহেলা করা নিষিদ্ধ। এরপর তাফসীরকারেরা প্রশ্ন তোলেন, এখানে আয়াতটি ঠিক কোন জিনিসগুলো বোঝাচ্ছে। তাঁদের উত্তর কয়েকটি পবিত্র স্থানের ছোট তালিকা থেকে শুরু করে গোটা শরীয়ত পর্যন্ত বিস্তৃত।"
+          },
+          {
+            "en": "Mujahid, in the report at-Tabari and Ibn Kathir both carry through Ibn Jurayj, says: the hurma is Makkah, the Hajj and the Umrah, and every act of disobedience Allah has forbidden. Ibn Kathir adds that Ibn Zayd said the same. The other two books give Ibn Zayd a list of places instead, and not the same list. In at-Tabari he names al-Mash'ar al-Haram, the Sacred House, the Sacred Mosque and the Sacred Land. In al-Baghawi he names the Sacred House, the Sacred Land, the Sacred Month, the Sacred Mosque and ihram.",
+            "bn": "ইবন জুরাইজের সূত্রে তাবারী ও ইবন কাসীর দুজনেই মুজাহিদের যে বর্ণনা আনেন, তাতে তিনি বলেন: হুরমা হলো মক্কা, হজ্জ ও উমরা, আর আল্লাহ যত পাপ নিষেধ করেছেন তার সবকিছু। ইবন কাসীর যোগ করেন, ইবন যায়দও একই কথা বলেছেন। অথচ অন্য দুটি গ্রন্থে ইবন যায়দের মুখে আছে স্থানের একটি তালিকা, আর সে তালিকাও এক নয়। তাবারীর বর্ণনায় তিনি বলেন মাশআরুল হারাম, বাইতুল হারাম, মাসজিদুল হারাম ও বালাদুল হারামের কথা। বাগাভীর বর্ণনায় তিনি বলেন বাইতুল হারাম, বালাদুল হারাম, পবিত্র মাস, মাসজিদুল হারাম ও ইহরামের কথা।"
+          },
+          {
+            "en": "Al-Qurtubi ties the word to its setting: the hurumat meant here are the acts of Hajj that 22:29 has just listed, and honouring the sacred places enters into them; in sum, obedience to the command in its obligations and sunnas. Al-Baghawi notes that some took the word to mean the rites, because of the verses joined to it. As-Sa'di reads it widest: everything that has sanctity and that Allah commanded to be respected, the rites, the sanctuary, ihram, the offerings and every act of worship. Ma'arif al-Qur'an says simply: the religious laws.",
+            "bn": "কুরতুবী শব্দটিকে প্রসঙ্গের সাথে বাঁধেন। তাঁর মতে এখানে হুরুমাত মানে হজ্জের সেই কাজগুলো, যার তালিকা ঠিক আগে ২২:২৯ আয়াতে এসেছে, আর পবিত্র স্থানগুলোর সম্মানও এর মধ্যে পড়ে। এক কথায়, ফরয ও সুন্নাত মিলিয়ে আল্লাহর আদেশ পালন। বাগাভী জানান, কেউ কেউ শব্দটির অর্থ নিয়েছেন হজ্জের অনুষ্ঠান, কারণ সংলগ্ন আয়াতগুলো সেদিকেই ইঙ্গিত করে। সা'দী নেন সবচেয়ে বিস্তৃত অর্থ: যার কোনো পবিত্রতা আছে আর যাকে সম্মান করার আদেশ আল্লাহ দিয়েছেন, সবই এর মধ্যে। হজ্জের সব অনুষ্ঠান, হারাম এলাকা, ইহরাম, কুরবানীর পশু আর প্রতিটি ইবাদত। মাআরিফুল কুরআন সংক্ষেপে বলে: দ্বীনের বিধিবিধান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour Shown by Keeping Clear",
+          "bn": "দূরে থাকাই যেখানে সম্মান"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads yu'azzim, honours, as a kind of restraint: whoever avoids disobeying Allah and what He has forbidden, and for whom committing it is a grave thing in his own eyes. At-Tabari keeps it inside the pilgrimage: whoever avoids what Allah told him to avoid while in ihram, out of reverence for Allah's limits, lest he fall into them, and for His sanctities, lest he treat them as lawful. Al-Baghawi: honouring them means keeping clear of them.",
+            "bn": "ইবন কাসীর 'ইউআযযিম', অর্থাৎ সম্মান করে, শব্দটিকে পড়েন এক ধরনের সংযম হিসেবে: যে আল্লাহর অবাধ্যতা আর তাঁর নিষিদ্ধ কাজ এড়িয়ে চলে, আর সেসব করা যার নিজের চোখে গুরুতর ব্যাপার। তাবারী কথাটিকে হজ্জের ভেতরেই রাখেন: ইহরাম অবস্থায় আল্লাহ যা এড়িয়ে চলতে বলেছেন, যে তা এড়িয়ে চলে আল্লাহর সীমারেখার প্রতি শ্রদ্ধা থেকে, যাতে তাতে জড়িয়ে না পড়ে, আর তাঁর পবিত্র বিষয়গুলোর প্রতি শ্রদ্ধা থেকে, যাতে সেগুলোকে বৈধ মনে না করে। বাগাভী বলেন: এগুলোর সম্মান মানে এগুলো থেকে দূরে থাকা।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar put the weight on doing. For as-Sa'di, honouring Allah's hurumat is revering them with the heart, loving them and completing their servitude in them, without carelessness, laziness or reluctance. The Muyassar counts the rites among them, honoured by performing them completely and sincerely for Allah. The emphasis differs: restraint from what He forbade in the first group, full-hearted performance of what He commanded in the second.",
+            "bn": "সা'দী ও মুয়াসসার জোর দেন করার দিকে। সা'দীর মতে আল্লাহর হুরুমাতের সম্মান মানে অন্তর দিয়ে এগুলোকে মর্যাদা দেওয়া, ভালোবাসা, আর এগুলোতে দাসত্ব পরিপূর্ণ করা, কোনো অবহেলা, আলস্য বা অনীহা ছাড়া। মুয়াসসার হজ্জের অনুষ্ঠানগুলোকেও এর মধ্যে গণ্য করে, যার সম্মান হলো আল্লাহর জন্য একনিষ্ঠভাবে সেগুলো পূর্ণভাবে আদায় করা। পার্থক্যটা জোরের জায়গায়: প্রথম দলের কাছে নিষিদ্ধ কাজ থেকে সংযম, দ্বিতীয় দলের কাছে আদিষ্ট কাজ পূর্ণ মনোযোগে পালন।"
+          },
+          {
+            "en": "Fa-huwa khayrun lahu: then it is better for him. Al-Qurtubi offers two readings. It may compare: honouring them is better for him with his Lord than treating any of them lightly. Or khayr may not compare at all but promise good he will benefit from. Where the good arrives is read differently too. At-Tabari and al-Baghawi place it in the Hereafter; as-Sa'di says it is good for him in his religion, his world and his Hereafter; the Muyassar says in this world and the next.",
+            "bn": "ফাহুয়া খাইরুল লাহু: তবে তা তার জন্য উত্তম। কুরতুবী দুটি পাঠ দেন। এটি তুলনা হতে পারে: এগুলোর কোনোটিকে হালকা করে দেখার চেয়ে সম্মান করা তার রবের কাছে তার জন্য উত্তম। আবার 'খাইর' শব্দটি তুলনা না হয়ে প্রতিশ্রুতিও হতে পারে: এক কল্যাণ, যা থেকে সে উপকৃত হবে। কল্যাণটি কোথায় পৌঁছায়, তা নিয়েও পাঠ ভিন্ন। তাবারী ও বাগাভী একে রাখেন আখিরাতে। সা'দী বলেন, তা তার দ্বীন, দুনিয়া ও আখিরাত সবখানেই তার জন্য কল্যাণ। মুয়াসসার বলে দুনিয়া ও আখিরাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Livestock Released From Taboo",
+          "bn": "নিষেধের বাঁধন খোলা পশু"
+        },
+        "p": [
+          {
+            "en": "Wa-uhillat lakum al-an'am: and the livestock are made lawful to you. At-Tabari explains: Allah has made the livestock lawful for you to eat once you have slaughtered them properly, and has forbidden you none of them as a bahira, a sa'iba, a wasila or a ham, nor what you had set aside from them for your gods. Ibn Kathir names the same four categories. The Muyassar states the point outright: the verse annuls what the Arabs used to forbid of some of their livestock.",
+            "bn": "ওয়া উহিল্লাত লাকুমুল আনআম: আর চতুষ্পদ জন্তু তোমাদের জন্য হালাল করা হয়েছে। তাবারী ব্যাখ্যা করেন: আল্লাহ তোমাদের জন্য চতুষ্পদ জন্তু খাওয়া হালাল করেছেন, যখন তোমরা সেগুলো যথাযথভাবে যবেহ করো। বাহীরা, সাইবা, ওয়াসীলা বা হাম নাম দিয়ে তিনি এগুলোর কোনোটিকেই তোমাদের উপর হারাম করেননি, আর তোমরা তোমাদের দেবতাদের জন্য যেগুলো আলাদা করে রেখেছিলে, সেগুলোকেও না। ইবন কাসীরও একই চারটি শ্রেণির নাম নেন। মুয়াসসার কথাটা সরাসরি বলে: আরবরা তাদের কিছু পশুকে নিজেরা যে হারাম করে রেখেছিল, আয়াতটি তা বাতিল করে দেয়।"
+          },
+          {
+            "en": "Al-Qurtubi, al-Baghawi and as-Sa'di name the an'am as camels, cattle and sheep. Al-Qurtubi explains why the ruling sits in a Hajj passage: the Hajj includes slaughter, so the verse makes clear what may lawfully be slaughtered and eaten. As-Sa'di sees a double favour in it: these animals are lawful food, and Allah also made them part of the rites by which a servant draws near to Him.",
+            "bn": "কুরতুবী, বাগাভী ও সা'দী আনআম বলতে বোঝান উট, গরু ও ছাগল-ভেড়া। কুরতুবী ব্যাখ্যা করেন, হজ্জের আলোচনার মধ্যে এই বিধান কেন এল: হজ্জে পশু যবেহ আছে, তাই আয়াতটি স্পষ্ট করে দেয় কোন পশু যবেহ করা ও তার গোশত খাওয়া হালাল। সা'দী এতে দেখেন দ্বিগুণ অনুগ্রহ: এই পশুগুলো হালাল খাদ্য, আবার আল্লাহ এগুলোকে সেই অনুষ্ঠানগুলোর অংশও করেছেন, যার মাধ্যমে বান্দা তাঁর নৈকট্য লাভ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Exception Already Named",
+          "bn": "যে ব্যতিক্রম আগেই বলা"
+        },
+        "p": [
+          {
+            "en": "Illa ma yutla 'alaykum: except what is recited to you. Ibn Kathir, al-Baghawi and as-Sa'di identify it as the list in 5:3, which opens: carrion, blood, the flesh of swine and what is dedicated to other than Allah. Ibn Kathir says this was at-Tabari's view, and that at-Tabari relayed it from Qatada. At-Tabari spells the list out in full, down to what was slaughtered on the stone altars, and closes it by saying that all of it is rijs, filth.",
+            "bn": "ইল্লা মা ইউতলা আলাইকুম: তবে যা তোমাদের পড়ে শোনানো হয়। ইবন কাসীর, বাগাভী ও সা'দী একে চিহ্নিত করেন ৫:৩ আয়াতের তালিকা হিসেবে, যার শুরু এভাবে: মৃত পশু, রক্ত, শূকরের গোশত আর আল্লাহ ছাড়া অন্যের নামে উৎসর্গ করা পশু। ইবন কাসীর বলেন, এটা তাবারীর মত, আর তাবারী তা কাতাদা থেকে বর্ণনা করেছেন। তাবারী পুরো তালিকাটি বলেন, পূজার বেদীতে যবেহ করা পশু পর্যন্ত, আর শেষে বলেন, এর সবই 'রিজস', অপবিত্র।"
+          },
+          {
+            "en": "The report at-Tabari gives from Qatada is shorter: except carrion, and what Allah's name was not mentioned over. Al-Qurtubi records a second view under it is said: the exception means game, which is not lawful while you are in ihram, the wording of 5:1. At-Tabari's word rijs is the very word the verse uses next. As-Sa'di builds the same bridge in his own terms: forbidding these things was a mercy, cleansing His servants of shirk and of false speech, and for that reason the verse goes on, so shun.",
+            "bn": "কাতাদা থেকে তাবারী যে বর্ণনা আনেন, তা আরও সংক্ষিপ্ত: মৃত পশু, আর যার উপর আল্লাহর নাম নেওয়া হয়নি, তা ছাড়া। কুরতুবী 'বলা হয়' বলে দ্বিতীয় একটি মত আনেন: ব্যতিক্রম বলতে বোঝানো হয়েছে শিকার, যা ইহরাম অবস্থায় হালাল নয়, ৫:১ আয়াতের ভাষায়। তাবারীর 'রিজস' শব্দটিই আয়াত ঠিক পরে ব্যবহার করে। সা'দী নিজের ভাষায় একই সেতু বাঁধেন: এগুলো হারাম করা ছিল রহমত, বান্দাদের শিরক ও মিথ্যা কথা থেকে পবিত্র করার জন্য। এ কারণেই আয়াত এরপর বলে, কাজেই বর্জন করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Idols Given the Name Filth",
+          "bn": "মূর্তির নাম যখন অপবিত্রতা"
+        },
+        "p": [
+          {
+            "en": "Fa-jtanibu ar-rijsa mina al-awthan: so shun the filth of idols. Al-Qurtubi defines both nouns. Rijs is a filthy thing. A wathan is a figure of wood, iron, gold, silver or the like, which the Arabs used to set up and worship; the word comes from wathana, to stay fixed, because an idol is planted in a spot and never leaves it. Al-Qurtubi and al-Baghawi both say it is called filth as a cause of rijz, punishment. Al-Qurtubi adds a second reading: idols are impure by legal ruling, an impurity removed only by faith.",
+            "bn": "ফাজতানিবুর রিজসা মিনাল আওসান: কাজেই মূর্তির অপবিত্রতা বর্জন করো। কুরতুবী দুটি বিশেষ্যেরই সংজ্ঞা দেন। রিজস মানে নোংরা জিনিস। ওয়াসান হলো কাঠ, লোহা, সোনা, রুপা বা এমন কিছু দিয়ে তৈরি মূর্তি, যা আরবরা দাঁড় করিয়ে পূজা করত। শব্দটি এসেছে 'ওয়াসানা' থেকে, যার অর্থ এক জায়গায় স্থির থাকা, কারণ মূর্তিকে এক স্থানে গেঁথে দেওয়া হয় আর তা সেখান থেকে নড়ে না। কুরতুবী ও বাগাভী দুজনেই বলেন, একে অপবিত্রতা বলা হয়েছে, কারণ এটি 'রিজয' অর্থাৎ শাস্তির কারণ। কুরতুবী আরেকটি পাঠ যোগ করেন: মূর্তি শরীয়তের বিধানে অপবিত্র, আর এ অপবিত্রতা দূর হয় কেবল ঈমানে।"
+          },
+          {
+            "en": "The small word min divides them. Ibn Kathir, and az-Zajjaj as al-Baghawi reports him, read it as naming the kind: shun the filth, which is the idols. Al-Qurtubi allows that, or that min marks a starting point: Allah forbade filth in general and then named its source, since idol worship gathers every corruption. He says that whoever takes min as partitive has turned the verse's meaning upside down. As-Sa'di, against many commentators, takes it as partitive in his own sense: rijs covers every forbidden thing, and the idols are named as one part of it.",
+            "bn": "ছোট্ট শব্দ 'মিন' তাঁদের মত ভাগ করে দেয়। ইবন কাসীর, আর বাগাভীর বর্ণনায় যাজ্জাজ, একে পড়েন শ্রেণি বোঝানোর জন্য: সেই অপবিত্রতা বর্জন করো, যা হলো মূর্তি। কুরতুবী এটা মেনে নেন, আবার বলেন 'মিন' সূচনাবিন্দুও বোঝাতে পারে: আল্লাহ সাধারণভাবে অপবিত্রতা নিষেধ করে তারপর তার উৎসের নাম বলেছেন, কারণ মূর্তিপূজা সব অনাচারকে এক করে। তাঁর মতে যে 'মিন'-কে আংশিকতা বোঝানোর জন্য নেয়, সে আয়াতের অর্থ উল্টে দেয়। অনেক তাফসীরকারের বিপরীতে সা'দী নিজের অর্থে একে আংশিকতাই ধরেন: রিজস সব নিষিদ্ধ জিনিসকে ঘিরে রাখে, আর মূর্তির নাম এসেছে তার একটি অংশ হিসেবে।"
+          },
+          {
+            "en": "At-Tabari puts the filth in the act: guard against the worship of idols and against obeying Satan in it, the second phrase relayed from Ibn Abbas, while Ibn Jurayj says simply, the worship of idols. He raises an objection himself: are there idols that are not filth, that the verse should say the filth of them? All of them are filth, he answers; the meaning is the filth that comes from idols, which is their worship.",
+            "bn": "তাবারী অপবিত্রতাকে রাখেন কাজের মধ্যে: মূর্তিপূজা থেকে, আর তাতে শয়তানের আনুগত্য থেকে বেঁচে থাকো। দ্বিতীয় কথাটি তিনি আনেন ইবন আব্বাস (রাঃ) থেকে, আর ইবন জুরাইজ শুধু বলেন, মূর্তিপূজা। তাবারী নিজেই একটি আপত্তি তোলেন: এমন মূর্তিও কি আছে যা অপবিত্র নয়, যে কারণে আয়াত বলল 'মূর্তির অপবিত্রতা'? তাঁর উত্তর, সব মূর্তিই অপবিত্র। অর্থ হলো মূর্তি থেকে যে অপবিত্রতা আসে, অর্থাৎ তার পূজা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speech That Leans From Truth",
+          "bn": "সত্য থেকে হেলে পড়া কথা"
+        },
+        "p": [
+          {
+            "en": "Wa-jtanibu qawla az-zur: and shun false speech. Al-Qurtubi defines zur as falsehood and lying, and explains the name by its root sense of leaning: it inclines away from the truth. He points to tazawaru in 18:17, the sun inclining away from the cave, and to the phrase madina zawra', a crooked city. Whatever is other than the truth, he says, is lie, falsehood and zur. Mujahid, in at-Tabari's report, says simply: lying. Al-Baghawi: lying and slander.",
+            "bn": "ওয়াজতানিবু কাওলায যূর: আর মিথ্যা কথা বর্জন করো। কুরতুবী 'যূর'-এর সংজ্ঞা দেন অসার ও মিথ্যা বলে, আর নামটির কারণ ব্যাখ্যা করেন এর মূল অর্থ দিয়ে, যা হলো হেলে পড়া: এটা সত্য থেকে সরে যায়। তিনি দেখান ১৮:১৭ আয়াতের 'তাযাওয়ারু', গুহা থেকে সূর্যের হেলে সরে যাওয়া, আর 'মাদীনা যাওরা', এক দিকে হেলে থাকা শহর। তাঁর কথায়, সত্যের বাইরে যা কিছু, সবই মিথ্যা, অসার আর যূর। তাবারীর বর্ণনায় মুজাহিদ শুধু বলেন: মিথ্যা। বাগাভী বলেন: মিথ্যা ও অপবাদ।"
+          },
+          {
+            "en": "At-Tabari reads it inside the verse's own world: guard against the lie and the fabrication against Allah in what you say of your gods, we worship them only so that they bring us near to Allah, as in 39:3, and in calling the angels Allah's daughters, for all of that is lie, zur and shirk. Ibn Abbas, in his report, says: fabricating against Allah, and denial. Al-Baghawi records a view under it is said that keeps the Hajj in sight: the zur is what the polytheists said in their talbiya.",
+            "bn": "তাবারী একে পড়েন আয়াতের নিজের পরিমণ্ডলে: আল্লাহর বিরুদ্ধে মিথ্যা ও বানোয়াট কথা থেকে বাঁচো, যা তোমরা তোমাদের দেবতাদের নিয়ে বলো, যেমন ৩৯:৩ আয়াতে আছে: আমরা তো এদের পূজা করি শুধু এজন্য যে এরা আমাদের আল্লাহর নিকটবর্তী করে দেবে। আর ফেরেশতাদের আল্লাহর কন্যা বলা থেকেও বাঁচো, কারণ এর সবই মিথ্যা, যূর ও শিরক। ইবন আব্বাস (রাঃ)-এর বর্ণনায় আছে: আল্লাহর বিরুদ্ধে মিথ্যা রটানো আর সত্যকে অস্বীকার করা। বাগাভী 'বলা হয়' বলে এমন একটি মত আনেন, যা হজ্জকে চোখের সামনে রাখে: যূর হলো মুশরিকদের তালবিয়ার কথা।"
+          },
+          {
+            "en": "That talbiya, as al-Baghawi quotes it, ran: here I am, You have no partner, here I am, except a partner who is Yours; You own him and what he owns. Others widen the phrase. Ibn Mas'ud, in al-Baghawi's report, says it is false testimony. As-Sa'di includes all forbidden speech, because all of it belongs to zur, which is lying, and false testimony is part of it.",
+            "bn": "বাগাভীর উদ্ধৃতিতে সেই তালবিয়া ছিল এমন: আমি হাজির, তোমার কোনো শরীক নেই, আমি হাজির, তবে এমন এক শরীক ছাড়া যে তোমারই; তুমি তার মালিক আর তার যা আছে তারও। অন্যরা কথাটির পরিধি বাড়ান। বাগাভীর বর্ণনায় ইবন মাসউদ (রাঃ) বলেন, এ হলো মিথ্যা সাক্ষ্য। সা'দী সব হারাম কথাকে এর মধ্যে ধরেন, কারণ তার সবই যূর, অর্থাৎ মিথ্যার অন্তর্ভুক্ত, আর মিথ্যা সাক্ষ্য তার একটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Idol Set Beside a Lie",
+          "bn": "মূর্তির পাশে মিথ্যা কথা"
+        },
+        "p": [
+          {
+            "en": "Why set false speech beside idols? Ibn Kathir answers with a parallel: Allah paired shirk with false speech here as in 7:33, which forbids associating with Allah what He sent down no authority for and saying about Allah what you do not know; false testimony, he adds, falls under it. In at-Tabari's reading the two are nearly one, since the false speech is the talk that props up the idols. Al-Qurtubi explains the pairing through a report: false testimony has been joined with idol worship in the prohibition.",
+            "bn": "মিথ্যা কথাকে মূর্তির পাশে রাখা হলো কেন? ইবন কাসীর উত্তর দেন একটি সমান্তরাল আয়াত দিয়ে: এখানে আল্লাহ শিরককে মিথ্যা কথার সাথে জুড়েছেন, যেমন জুড়েছেন ৭:৩৩ আয়াতে, যেখানে নিষেধ করা হয়েছে আল্লাহর সাথে এমন কিছুকে শরীক করা, যার পক্ষে তিনি কোনো প্রমাণ নাযিল করেননি, আর আল্লাহ সম্পর্কে না জেনে কিছু বলা। তিনি যোগ করেন, মিথ্যা সাক্ষ্যও এর অন্তর্ভুক্ত। তাবারীর পাঠে দুটি প্রায় একই জিনিস, কারণ মিথ্যা কথাটাই সেই কথা, যা মূর্তিগুলোকে টিকিয়ে রাখে। কুরতুবী জোড়টির ব্যাখ্যা দেন একটি বর্ণনা দিয়ে: নিষেধের ক্ষেত্রে মিথ্যা সাক্ষ্যকে মূর্তিপূজার সাথে এক করে রাখা হয়েছে।"
+          },
+          {
+            "en": "That report is the hadith that ties itself to this verse. Abu Dawud (3599) records from Khuraym ibn Fatik (RA): \"The Messenger of Allah ﷺ prayed the morning prayer. When he finished, he stood up and said: False testimony has been made equal to associating partners with Allah, three times. Then he recited: So shun the filth of idols and shun false speech, upright for Allah, not associating anything with Him.\" Ibn Majah (2372) and at-Tirmidhi (2300) carry it by the same route.",
+            "bn": "এই বর্ণনাটিই সেই হাদিস, যা নিজেই এ আয়াতের সাথে যুক্ত। আবু দাউদ (৩৫৯৯) খুরাইম ইবন ফাতিক (রাঃ) থেকে বর্ণনা করেন: \"রাসূলুল্লাহ ﷺ ফজরের নামায পড়লেন। নামায শেষ করে তিনি উঠে দাঁড়ালেন আর তিনবার বললেন: মিথ্যা সাক্ষ্যকে আল্লাহর সাথে শিরক করার সমান করা হয়েছে। তারপর তিলাওয়াত করলেন: কাজেই মূর্তির অপবিত্রতা বর্জন করো আর মিথ্যা কথা বর্জন করো, আল্লাহর প্রতি একনিষ্ঠ হয়ে, তাঁর সাথে কিছুকে শরীক না করে।\" ইবন মাজাহ (২৩৭২) ও তিরমিযী (২৩০০) একই সূত্রে এটি এনেছেন।"
+          },
+          {
+            "en": "Abu Dawud adds no grading. At-Tirmidhi first records a version from Ayman ibn Khuraym (2299), calls it gharib, known only through Sufyan ibn Ziyad, and says he knows of no hearing by Ayman from the Prophet ﷺ. Of the Khuraym ibn Fatik route he says only that it is, in his view, more correct: a comparison between two routes, not a verdict that the hadith is sound.",
+            "bn": "আবু দাউদ কোনো মান উল্লেখ করেননি। তিরমিযী প্রথমে আইমান ইবন খুরাইমের সূত্রে একটি পাঠ আনেন (২২৯৯), একে গরীব বলেন, যা কেবল সুফইয়ান ইবন যিয়াদের মাধ্যমেই জানা যায়, আর বলেন, নবী ﷺ থেকে আইমানের সরাসরি শোনার কথা তাঁর জানা নেই। খুরাইম ইবন ফাতিকের সূত্র সম্পর্কে তিনি শুধু বলেন, তাঁর মতে এটি বেশি সঠিক। এটা দুই সূত্রের মধ্যে তুলনা, হাদিসটি সহীহ হওয়ার রায় নয়।"
+          },
+          {
+            "en": "A sound narration gives false speech the same weight, though it does not mention this verse. Al-Bukhari (2654) records from Abu Bakra (RA) that the Prophet ﷺ asked three times, \"Shall I not tell you of the greatest of the major sins?\" They said, \"Yes, Messenger of Allah.\" He said: \"Associating partners with Allah, and undutifulness to parents.\" He sat up, having been reclining, and said: \"Indeed, and false speech.\" He kept repeating it until we said: if only he would stop.",
+            "bn": "একটি সহীহ বর্ণনাও মিথ্যা কথাকে একই ওজন দেয়, যদিও তাতে এ আয়াতের উল্লেখ নেই। বুখারী (২৬৫৪) আবু বাকরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ তিনবার জিজ্ঞেস করলেন: \"আমি কি তোমাদের সবচেয়ে বড় কবীরা গুনাহের কথা বলব না?\" তাঁরা বললেন: \"অবশ্যই, হে আল্লাহর রাসূল।\" তিনি বললেন: \"আল্লাহর সাথে শিরক করা আর পিতামাতার অবাধ্য হওয়া।\" তিনি হেলান দিয়ে ছিলেন, এবার উঠে বসে বললেন: \"শুনে রাখো, আর মিথ্যা কথা।\" তিনি কথাটি বারবার বলতে থাকলেন, এমনকি আমরা বললাম, আহা, তিনি যদি থামতেন।"
+          }
+        ]
+      }
+    ]
+  },
   "22:35": {
     "sections": [
       {

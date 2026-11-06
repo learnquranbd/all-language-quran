@@ -23671,6 +23671,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "That Day is terrible enough to make a nursing mother forget her child, so fear your Lord now and prepare while the time is still yours.",
     "lessonBn": "সেই দিন এতই ভয়ংকর যে দুধ খাওয়ানো মা-ও সন্তানকে ভুলে যাবে। তাই এখনই রবকে ভয় করুন, আর সময় হাতে থাকতেই প্রস্তুত হোন।"
+  },
+  "22:30": {
+    "reflectionEn": "The Hajj passage pauses on one word, that, and then widens. Whatever Allah has made inviolable, the House, the rites, the lines He drew around sin, is to be held as weighty, and holding it so is better for you with your Lord. Then the verse frees what people had forbidden themselves: the livestock are lawful, except what He has already named. It ends on two commands set side by side, shun the filth of idols and shun false speech, as if a lie belonged in the same company as an idol. A pilgrim can circle the House and still lie on the road home. Do I treat Allah's limits as heavy or as small? And does my tongue keep the purity my worship claims?",
+    "reflectionBn": "হজ্জের আলোচনা এক শব্দে থামে, 'এটাই', তারপর পরিসর বড় হয়। আল্লাহ যা কিছু পবিত্র ও অলঙ্ঘ্য করেছেন, তাঁর ঘর, হজ্জের অনুষ্ঠান, পাপের চারপাশে টেনে দেওয়া তাঁর সীমারেখা, সবকিছুকে ভারী বলে মানতে হবে। এভাবে মানাই রবের কাছে তোমার জন্য উত্তম। তারপর আয়াতটি সেই জিনিস হালাল করে দেয়, যা মানুষ নিজেরাই নিজেদের উপর হারাম করে নিয়েছিল: চতুষ্পদ জন্তু হালাল, শুধু সেগুলো ছাড়া যেগুলোর কথা তিনি আগেই বলে দিয়েছেন। শেষে দুটি আদেশ পাশাপাশি: মূর্তির অপবিত্রতা থেকে দূরে থাকো, আর মিথ্যা কথা থেকে দূরে থাকো। যেন মিথ্যা আর মূর্তি একই সারির জিনিস। একজন হাজী আল্লাহর ঘর তাওয়াফ করে ফেরার পথে মিথ্যাও বলতে পারে। আল্লাহর সীমারেখাকে আমি ভারী মনে করি, নাকি হালকা? আর আমার ইবাদত যে পবিত্রতার দাবি করে, আমার জিহ্বা কি তা রক্ষা করে?",
+    "pointsEn": [
+      "Which of Allah's limits have I begun to treat as small, simply because I cross it often?",
+      "Have I ever forbidden myself or someone else what Allah made lawful, and called it piety?",
+      "When did I last say something untrue to win an argument, guard my image or help someone's case?",
+      "If the verse sets false speech beside the idols, what should change in how I speak about people who are not in the room?",
+      "Where in my worship do I go through the motions with no reverence in my heart?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন সীমারেখাকে আমি ছোট ভাবতে শুরু করেছি, শুধু এ কারণে যে তা আমি প্রায়ই পার হই?",
+      "আল্লাহ যা হালাল করেছেন, তা কি আমি কখনো নিজের বা অন্যের উপর হারাম করে নিয়ে সেটাকে তাকওয়া বলেছি?",
+      "তর্কে জিততে, নিজের ভাবমূর্তি বাঁচাতে বা কারও পক্ষ নিতে শেষ কবে আমি অসত্য কিছু বলেছি?",
+      "আয়াতটি যদি মিথ্যা কথাকে মূর্তির পাশে বসায়, তবে যারা সামনে নেই তাদের নিয়ে আমার কথা বলার ধরনে কী বদলানো উচিত?",
+      "আমার ইবাদতের কোন জায়গায় আমি অন্তরে কোনো শ্রদ্ধা ছাড়াই শুধু নিয়ম পালন করে যাই?"
+    ],
+    "lessonEn": "Hold what Allah made sacred as weighty, keep to what He made lawful, and shun both the idol and the lie, for the verse names them in one breath.",
+    "lessonBn": "আল্লাহ যা পবিত্র করেছেন তাকে ভারী বলে মানুন, যা হালাল করেছেন তার মধ্যেই থাকুন, আর মূর্তি ও মিথ্যা দুটোই বর্জন করুন, কারণ আয়াতটি দুটোকে এক নিঃশ্বাসে উল্লেখ করেছে।"
   }
 };
 
