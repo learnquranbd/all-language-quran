@@ -1887,6 +1887,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:54": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words, Said Twice",
+          "bn": "ছয় শব্দ, দ্বিতীয়বার"
+        },
+        "p": [
+          {
+            "en": "Yasta'jilunaka bi-l-'adhab, wa inna jahannama la-muhitatun bi-l-kafirin: they urge you to hasten the punishment, and Hell is surely encompassing the disbelievers. The verse is six Arabic words, and it closes a run that began at 29:50 with a demand: why are signs not sent down to him from his Lord? The answer came in stages. The signs are with Allah and the Prophet ﷺ is a clear warner (29:50); the Book recited to them is enough (29:51); Allah suffices as witness between him and them (29:52).",
+            "bn": "ইয়াসতা'জিলূনাকা বিল-'আযাব, ওয়া ইন্না জাহান্নামা লামুহীতাতুম বিল-কাফিরীন: তারা তোমাকে শাস্তি তাড়াতাড়ি আনতে বলে, আর জাহান্নাম অবশ্যই কাফিরদের পরিবেষ্টনকারী। আরবিতে আয়াতটি মাত্র ছয়টি শব্দের। এর মধ্য দিয়ে শেষ হয় একটা ধারা, যা শুরু হয়েছিল ২৯:৫০-এ এক দাবি দিয়ে: তার রবের কাছ থেকে তার উপর নিদর্শন নামে না কেন? জবাব এসেছে ধাপে ধাপে। নিদর্শন আল্লাহর হাতে, আর নবী ﷺ একজন স্পষ্ট সতর্ককারী (২৯:৫০)। তাদের সামনে যে কিতাব পড়া হয়, সেটাই যথেষ্ট (২৯:৫১)। তাঁর আর তাদের মাঝে সাক্ষী হিসেবে আল্লাহই যথেষ্ট (২৯:৫২)।"
+          },
+          {
+            "en": "Then 29:53 reports a second demand: they urge you to hasten the punishment, and were it not for a term appointed, the punishment would have come to them, and it will come to them suddenly while they do not perceive. 29:54 opens with the same two words, yasta'jilunaka bi-l-'adhab, and then answers differently. The first verse answered with time: a term, and a sudden arrival. This one answers with a place, Hell, and a word for what it does: muhita, encompassing. 29:55 then names the Day the punishment covers them from above and from beneath their feet.",
+            "bn": "এরপর ২৯:৫৩ জানায় দ্বিতীয় দাবির কথা: তারা তোমাকে শাস্তি তাড়াতাড়ি আনতে বলে। নির্ধারিত মেয়াদ না থাকলে শাস্তি তাদের উপর এসেই পড়ত, আর তা আসবে হঠাৎ, তারা টেরও পাবে না। ২৯:৫৪ শুরু হয় ঠিক সেই দুই শব্দে, ইয়াসতা'জিলূনাকা বিল-'আযাব, কিন্তু জবাব দেয় অন্যভাবে। আগের আয়াতের জবাব ছিল সময় নিয়ে: একটা মেয়াদ, আর আকস্মিক আগমন। এ আয়াতের জবাব একটা জায়গা নিয়ে, জাহান্নাম, আর তার কাজের জন্য একটি শব্দ: মুহীত, ঘিরে রাখা। তারপর ২৯:৫৫ সেই দিনের কথা বলে, যেদিন শাস্তি তাদের ঢেকে ফেলবে উপর থেকে আর পায়ের নিচ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Demand Returns",
+          "bn": "দাবিটা কেন ফিরে আসে"
+        },
+        "p": [
+          {
+            "en": "The commentators give the repetition more than one explanation. Al-Baghawi is the shortest: a'adahu ta'kidan, He repeated it for emphasis. On that reading the second yasta'jilunaka adds no new fact. It presses the first one home, so that the demand is heard twice and the answer to it lands twice: once as a term that holds the punishment back, once as Hell that holds them in. Al-Baghawi then glosses muhita as jami'atun lahum, gathering them in, so that not one of them remains but enters it.",
+            "bn": "পুনরাবৃত্তির ব্যাখ্যা তাফসীরকারেরা একভাবে দেন না। সবচেয়ে সংক্ষেপে বলেন বাগাভী: আ'আদাহু তা'কীদান, জোর দেওয়ার জন্য তিনি কথাটা আবার বলেছেন। এ পাঠে দ্বিতীয় ইয়াসতা'জিলূনাকা নতুন কোনো তথ্য আনে না। প্রথম কথাটাকেই আরও গেঁথে দেয়। দাবিটা দুবার শোনানো হয়, জবাবও আসে দুবার। একবার মেয়াদ হিসেবে, যা শাস্তিকে ঠেকিয়ে রেখেছে। আরেকবার জাহান্নাম হিসেবে, যা তাদের আটকে রেখেছে। এরপর বাগাভী মুহীত শব্দের ব্যাখ্যা দেন জামি'আতুল লাহুম দিয়ে: তাদের সবাইকে জড়ো করে নেয়, এমনভাবে যে তাদের একজনও বাকি থাকবে না যে তাতে ঢুকবে না।"
+          },
+          {
+            "en": "As-Sa'di reads the two verses as two layers of one answer. His comment on 29:54 opens: even if the punishment of this world does not come down on them, the punishment of the Hereafter lies before them, and not one of them escapes it, whether he was hastened with worldly punishment or given respite. On this reading 29:53 speaks of the world, where a term decides when anything falls, and 29:54 looks past that term to what no delay touches.",
+            "bn": "সা'দী দুই আয়াতকে একই জবাবের দুই স্তর হিসেবে পড়েন। ২৯:৫৪-এর ব্যাখ্যা তিনি শুরু করেন এভাবে: দুনিয়ার শাস্তি যদি তাদের উপর না-ও নামে, আখিরাতের শাস্তি তো তাদের সামনেই আছে। তা থেকে তাদের কেউ রেহাই পাবে না, দুনিয়ার শাস্তি দিয়ে তাকে তাড়াতাড়ি ধরা হোক কিংবা অবকাশ দেওয়া হোক। এ পাঠে ২৯:৫৩ দুনিয়ার কথা বলে, যেখানে কোনো কিছু কখন নামবে তা ঠিক করে একটা মেয়াদ। আর ২৯:৫৪ সেই মেয়াদ পেরিয়ে তাকায় এমন কিছুর দিকে, যাকে কোনো দেরি ছুঁতে পারে না।"
+          },
+          {
+            "en": "The Muyassar draws the same line in fewer words. They urge you to hasten the punishment in this world, it says, and it is coming to them without fail, either in this world or in the Hereafter, and the punishment of Hell in the Hereafter surrounds them, with no escape from it. Ibn Kathir's Arabic gives the plainest paraphrase of the first half: they seek to hasten the punishment, and it is falling upon them without fail. In none of these is the second mention idle.",
+            "bn": "মুয়াসসার একই রেখা টানে আরও কম কথায়। তার ভাষায়, তারা দুনিয়াতেই শাস্তি তাড়াতাড়ি চায়। সে শাস্তি তাদের কাছে আসবেই, হয় দুনিয়ায়, নয়তো আখিরাতে। আর আখিরাতে জাহান্নামের শাস্তি তাদের ঘিরে ফেলবে, তা থেকে পালানোর পথ নেই। আয়াতের প্রথম অংশের সবচেয়ে সরল ব্যাখ্যা পাওয়া যায় ইবন কাসীরের আরবি তাফসীরে: তারা শাস্তি তাড়াতাড়ি চায়, অথচ তা তাদের উপর পড়বেই, এর কোনো ব্যতিক্রম নেই। এদের কারও কাছেই দ্বিতীয়বারের উল্লেখ অকারণ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Is Hurry Worth",
+          "bn": "তাড়াহুড়োর মানে কী"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi turns the verse into a question put back to the ones asking. They urge you to hasten, he writes, when Hell has already been prepared for them and it will surround them without fail, so what meaning does the hastening have? The demand assumes that the punishment is far off or unreal, and that calling for it costs nothing. The verse answers that the thing is ready, that it will reach them, and that impatience for it is the one request that makes no sense.",
+            "bn": "কুরতুবী আয়াতটিকে এক প্রশ্নে পরিণত করে যারা দাবি তুলছিল, তাদের দিকেই ফিরিয়ে দেন। তিনি লেখেন, তারা তাড়াতাড়ি চায়, অথচ জাহান্নাম তাদের জন্য প্রস্তুত করে রাখা হয়েছে, আর তা নিশ্চিতভাবেই তাদের ঘিরে ফেলবে। তাহলে তাড়াহুড়োর মানে কী? দাবিটার পেছনে ধারণা হলো, শাস্তি অনেক দূরে বা আদৌ সত্য নয়, তাই ডেকে আনতে কোনো খরচ নেই। আয়াত জবাব দেয়: জিনিসটা তৈরি, তাদের কাছে পৌঁছাবেই। এমন জিনিসের জন্য অধৈর্য হওয়াই একমাত্র আবদার, যার কোনো অর্থ হয় না।"
+          },
+          {
+            "en": "Ibn Kathir, in the English abridgement that treats 29:53 to 29:55 together, calls the demand a sign of the idolaters' ignorance: they asked for Allah's punishment to be hastened so that it would befall them quickly. He sets it beside 8:32, where they said, O Allah, if this is indeed the truth from You, rain down stones on us from the sky or bring us a painful torment. On 29:53 he adds that, had Allah not decreed the delay until the Day of Resurrection, the torment would have come upon them as quickly as they asked.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ২৯:৫৩ থেকে ২৯:৫৫ একসঙ্গে আলোচনা করে। সেখানে তিনি এই দাবিকে মুশরিকদের অজ্ঞতার লক্ষণ বলেন: তারা চাইত আল্লাহর শাস্তি তাড়াতাড়ি আসুক, যাতে তা দ্রুত তাদের উপর নেমে পড়ে। এর পাশে তিনি রাখেন ৮:৩২, যেখানে তারা বলেছিল: হে আল্লাহ, এটা যদি সত্যিই তোমার পক্ষ থেকে আসা সত্য হয়, তবে আকাশ থেকে আমাদের উপর পাথর বর্ষণ করো, নয়তো আমাদের যন্ত্রণাদায়ক শাস্তি দাও। ২৯:৫৩ প্রসঙ্গে তিনি যোগ করেন, আল্লাহ যদি কিয়ামত পর্যন্ত শাস্তি পিছিয়ে রাখার ফয়সালা না করতেন, তবে তারা যত তাড়াতাড়ি চেয়েছিল, তত তাড়াতাড়িই তা এসে পড়ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Around Them Even Now",
+          "bn": "এখনই চারপাশে"
+        },
+        "p": [
+          {
+            "en": "The second half of the verse is a nominal sentence: inna, then Hell, then la-muhitatun, a participle sealed with the emphatic la-, then bi-l-kafirin. It names a state rather than an event, and the commentators differ over when that state holds. At-Tabari reads it as holding already. These polytheists urge you, O Muhammad, to bring the punishment and have it come down on them, he writes, while the Fire is around them, lam yabqa illa an yadkhuluha: nothing is left but that they enter it.",
+            "bn": "আয়াতের দ্বিতীয় অর্ধেক একটি নামবাচক বাক্য: প্রথমে ইন্না, তারপর জাহান্নাম, তারপর লামুহীতাতুন, ঘিরে রাখা অর্থের একটি বিশেষ্যরূপ শব্দ, যার শুরুতে জোর দেওয়ার লাম, শেষে বিল-কাফিরীন। বাক্যটি কোনো ঘটনার নয়, একটি অবস্থার নাম দেয়। সে অবস্থা কখন থেকে, তা নিয়ে তাফসীরকারদের মত ভিন্ন। তাবারী একে এখনকার অবস্থা হিসেবে পড়েন। তিনি লেখেন, হে মুহাম্মাদ, এই মুশরিকরা তোমার কাছে শাস্তি এনে তাদের উপর নামিয়ে দেওয়ার তাড়া দেয়, অথচ আগুন তাদের চারপাশে ঘিরে আছে। লাম ইয়াবকা ইল্লা আন ইয়াদখুলূহা: এখন শুধু ভেতরে ঢোকাটাই বাকি।"
+          },
+          {
+            "en": "As-Sa'di reaches the same present sense by a different road. He begins, as seen above, from the punishment of the Hereafter that lies before them, but when he comes to muhita he writes in the perfect tense: they have no way to turn aside from it and no way out, qad ahatat bihim min kulli janib, it has surrounded them from every side, just as their sins, their evil deeds and their disbelief have surrounded them. That punishment, he ends, is the severe punishment.",
+            "bn": "সা'দী একই বর্তমান অর্থে পৌঁছান ভিন্ন পথে। আগেই দেখা গেছে, তিনি শুরু করেন আখিরাতের সেই শাস্তি থেকে, যা তাদের সামনে আছে। কিন্তু মুহীত শব্দে এসে তিনি অতীত কালের ক্রিয়া ব্যবহার করেন। তাদের জন্য তা থেকে সরে যাওয়ার কোনো রাস্তা নেই, বেরোনোর পথও নেই। কাদ আহাতাত বিহিম মিন কুল্লি জানিব: তা সব দিক থেকে তাদের ঘিরে ফেলেছে, যেমন তাদের গুনাহ, তাদের মন্দ আমল আর তাদের কুফর তাদের ঘিরে ফেলেছে। শেষে তিনি বলেন, সেই শাস্তিই কঠিন শাস্তি।"
+          },
+          {
+            "en": "Read this way, the demand is stranger still. The men asking for the punishment to arrive are standing inside what they ask for. At-Tabari puts the distance at a single step, the step of entering. As-Sa'di sets it beside an encircling that came first: their sins, their evil deeds and their disbelief had surrounded them, and the Fire surrounds them as those did. Neither of them softens the second half of the verse; both make it nearer than the people asking had imagined.",
+            "bn": "এভাবে পড়লে দাবিটা আরও অদ্ভুত শোনায়। যারা শাস্তি আসার দাবি তুলছে, তারা নিজেরাই দাঁড়িয়ে আছে সেই জিনিসের ভেতরে, যা তারা চাইছে। তাবারীর হিসাবে দূরত্ব মাত্র এক কদম, ভেতরে ঢোকার কদম। সা'দী একে রাখেন আরেক ঘেরাওয়ের পাশে, যা আগেই ঘটে গেছে: তাদের গুনাহ, আমল আর কুফর তাদের ঘিরে ফেলেছিল। আগুন তাদের ঘিরে রাখে ঠিক সেভাবেই, যেভাবে ওসব তাদের ঘিরে রেখেছিল। তাঁদের কেউই আয়াতের দ্বিতীয় অর্ধেককে নরম করেন না। দুজনেই একে সেই লোকদের কল্পনার চেয়ে অনেক কাছে এনে দাঁড় করান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or When the Day Comes",
+          "bn": "নাকি সেই দিন এলে"
+        },
+        "p": [
+          {
+            "en": "Other commentators place the encompassing ahead, on the Day. Al-Qurtubi's wording is future: Hell has been prepared for them, wa annaha sa-tuhitu bihim, and it will surround them without fail. The Muyassar ties it to the Hereafter in so many words: the punishment of Hell in the Hereafter surrounds them, and there is no escape from it. Al-Baghawi's gloss looks the same way, to a gathering in which every one of them enters. For these three, muhita names a certainty about what is coming rather than a present enclosure.",
+            "bn": "অন্য তাফসীরকারেরা এই ঘেরাওকে রাখেন সামনে, সেই দিনে। কুরতুবীর ভাষা ভবিষ্যৎ কালের: জাহান্নাম তাদের জন্য প্রস্তুত, ওয়া আন্নাহা সাতুহীতু বিহিম, আর তা নিশ্চিতভাবেই তাদের ঘিরে ফেলবে। মুয়াসসার স্পষ্ট করে একে আখিরাতের সঙ্গে জুড়ে দেয়: আখিরাতে জাহান্নামের শাস্তি তাদের ঘিরে রাখবে, তা থেকে পালানোর পথ নেই। বাগাভীর ব্যাখ্যাও একই দিকে তাকায়, এমন এক জড়ো করার দিকে, যেখানে তাদের প্রত্যেকে ভেতরে ঢুকবে। এই তিনজনের কাছে মুহীত শব্দটি এখনকার কোনো ঘেরাও নয়, যা আসছে তার নিশ্চয়তার নাম।"
+          },
+          {
+            "en": "The next verse fits this reading closely, since it begins with yawma, on the Day: the punishment will cover them from above them and from beneath their feet. Ibn Kathir's abridgement, treating the three verses as one passage, pairs 29:55 with 7:41, theirs will be a bed of Hell and over them coverings, and with 39:16, coverings of Fire above them and coverings beneath them. The Fire will cover them from all sides, he says, a physical punishment, and the words taste what you used to do add a rebuke that wounds the mind.",
+            "bn": "পরের আয়াত এ পাঠের সঙ্গে ভালোভাবে মেলে, কারণ তা শুরু হয় ইয়াওমা দিয়ে, অর্থাৎ সেই দিন: শাস্তি তাদের ঢেকে ফেলবে উপর থেকে আর পায়ের নিচ থেকে। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ তিনটি আয়াতকে একটি অংশ ধরে ২৯:৫৫-এর পাশে রাখে ৭:৪১, যেখানে বলা হয়েছে তাদের বিছানা হবে জাহান্নামের আর উপরে থাকবে তারই আচ্ছাদন। আরও রাখে ৩৯:১৬, যেখানে উপরে আগুনের ছায়া, নিচেও আগুনের ছায়া। তিনি বলেন, আগুন তাদের সব দিক থেকে ঢেকে নেবে, এ হলো দেহের শাস্তি। আর 'যা করতে তার স্বাদ নাও' কথাটি যোগ করে এক ভর্ৎসনা, যা আঘাত করে মনকে।"
+          },
+          {
+            "en": "So the disagreement stands as two readings, and the sources do not settle it. At-Tabari and as-Sa'di speak of Hell as already around the disbelievers, with nothing left but entering. Al-Qurtubi, al-Baghawi and the Muyassar speak of it as surrounding them in the Hereafter. What they share is the certainty. None of them reads muhita as a mere possibility, and none of them lets the delay in 29:53 imply that the punishment has been cancelled. They differ over when the circle closes, not over whether it does.",
+            "bn": "তাই মতভেদটা থেকে যায় দুই পাঠ হিসেবে, আর উৎসগুলো এর মীমাংসা করে না। তাবারী ও সা'দী বলেন, জাহান্নাম কাফিরদের চারপাশে এখনই আছে, শুধু ঢোকাটা বাকি। কুরতুবী, বাগাভী আর মুয়াসসার বলেন, আখিরাতে তা তাদের ঘিরে ধরবে। তাঁদের মিল নিশ্চয়তায়। কেউই মুহীতকে নিছক সম্ভাবনা হিসেবে পড়েন না। কেউই ২৯:৫৩-এর দেরি থেকে এ ইঙ্গিত নেন না যে শাস্তি বাতিল হয়ে গেছে। তাঁদের মতভেদ কেবল ঘেরাও কখন পূর্ণ হবে তা নিয়ে, হবে কি না তা নিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ikrima's Reading: the Sea",
+          "bn": "ইকরিমার পাঠ: সমুদ্র"
+        },
+        "p": [
+          {
+            "en": "A third reading names a thing rather than a time. At-Tabari records it with wa qila, it has been said, and gives it through two chains from Shu'ba, from Simak: Ikrima said of wa inna jahannama la-muhitatun bi-l-kafirin, the sea. Ibn Kathir's Arabic carries the same report from Ikrima, and then a fuller one through Ibn Abi Hatim, from ash-Sha'bi, who heard Ibn 'Abbas say that Jahannam is this green sea: the stars will be scattered into it, the sun and moon rolled up in it, then it will be set alight, and that will be Jahannam.",
+            "bn": "তৃতীয় এক পাঠ সময়ের বদলে একটা জিনিসের নাম দেয়। তাবারী একে আনেন ওয়া কীলা দিয়ে, অর্থাৎ বলা হয়েছে, আর শু'বা থেকে সিমাকের সূত্রে দুটি সনদে বর্ণনা করেন: ওয়া ইন্না জাহান্নামা লামুহীতাতুম বিল-কাফিরীন প্রসঙ্গে ইকরিমা বলেছেন, সমুদ্র। ইবন কাসীরের আরবি তাফসীরেও ইকরিমা থেকে একই বর্ণনা আছে। তারপর আছে ইবন আবী হাতিমের সূত্রে আরও বিস্তারিত এক বর্ণনা। শা'বী শুনেছেন ইবন আব্বাস (রাঃ) বলছেন, জাহান্নাম হলো এই সবুজ সমুদ্র। তারকারাজি এতে ঝরে পড়বে, সূর্য আর চাঁদকে এতে গুটিয়ে ফেলা হবে, তারপর একে জ্বালানো হবে, আর সেটাই জাহান্নাম।"
+          },
+          {
+            "en": "Ibn Kathir also relays, from the Musnad of Imam Ahmad, a report that ties the Hell of this verse to the sea, and he weighs it himself: hadha tafsirun gharib, wa hadithun gharibun jiddan, this is a strange explanation and a very strange hadith. The report could not be checked against its collection for this article, so its wording is not quoted here and nothing rests on it. Beyond this, none of the commentaries fetched for this verse attaches a sound hadith to it.",
+            "bn": "ইবন কাসীর ইমাম আহমাদের মুসনাদ থেকে আরেকটি বর্ণনাও আনেন, যা এ আয়াতের জাহান্নামকে সমুদ্রের সঙ্গে জুড়ে দেয়। তবে তিনি নিজেই তা ওজন করেন: হাযা তাফসীরুন গারীব, ওয়া হাদীসুন গারীবুন জিদ্দান, এটি অদ্ভুত এক ব্যাখ্যা আর খুবই অদ্ভুত এক হাদীস। এই লেখার জন্য বর্ণনাটি তার মূল সংকলনে মিলিয়ে দেখা যায়নি, তাই এর শব্দ এখানে উদ্ধৃত করা হলো না, এর উপর কোনো কিছুর ভিত্তিও রাখা হলো না। এর বাইরে, এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Made the Demand",
+          "bn": "দাবিটা কারা তুলেছিল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari names the askers only as these polytheists, and Ibn Kathir's abridgement as the idolaters. Al-Qurtubi alone, among the commentaries fetched here, records an occasion, and he marks it with qila, it is said: the verse came down about 'Abdullah ibn Abi Umayya and his companions among the polytheists, when they said, or you make the sky fall upon us in pieces, as you have claimed. Those are the words reported in 17:92. Al-Qurtubi gives no chain and does not weigh the report, so it stays a reported occasion and nothing firmer.",
+            "bn": "তাবারী দাবিদারদের পরিচয় দেন শুধু 'এই মুশরিকরা' বলে, আর ইবন কাসীরের সংক্ষিপ্ত সংস্করণ বলে 'মূর্তিপূজারীরা'। এখানে সংগৃহীত তাফসীরগুলোর মধ্যে কেবল কুরতুবী একটা প্রেক্ষাপট উল্লেখ করেন, আর তাও কীলা, অর্থাৎ 'বলা হয়' দিয়ে। তাঁর বর্ণনায় আয়াতটি নাযিল হয়েছিল আবদুল্লাহ ইবন আবী উমাইয়া ও তার মুশরিক সঙ্গীদের ব্যাপারে, যখন তারা বলেছিল: অথবা তুমি যেমন দাবি করো, আকাশকে টুকরো টুকরো করে আমাদের উপর ফেলে দাও। এ কথাগুলো ১৭:৯২-এ উদ্ধৃত। কুরতুবী কোনো সনদ দেন না, বর্ণনাটির মানও যাচাই করেন না। তাই এটি একটি বর্ণিত প্রেক্ষাপট হয়েই থাকে, এর চেয়ে দৃঢ় কিছু নয়।"
+          },
+          {
+            "en": "Even taken at its word, an occasion explains the moment and does not fence in the meaning. The demand in this verse is a kind of speech, and the answer covers whoever speaks it. This also needs saying plainly. The verse describes the disbelievers of its passage, who mocked a warning by demanding its fulfilment, and states what awaits them. It licenses nothing against any living person or community. It hands no reader a verdict on anyone's end, which belongs to Allah alone, and it is addressed, first of all, to whoever still has time to answer.",
+            "bn": "বর্ণনাটি মেনে নিলেও প্রেক্ষাপট শুধু মুহূর্তটা বোঝায়, অর্থের চারপাশে বেড়া দেয় না। এ আয়াতের দাবিটা এক ধরনের কথা, আর জবাবটা তাদের সবার জন্য, যারা সে কথা বলে। আরেকটা কথাও সোজাসুজি বলা দরকার। আয়াতটি এই অংশের সেই কাফিরদের বর্ণনা দেয়, যারা সতর্কবাণী পূরণ হওয়ার দাবি তুলে তাকে ঠাট্টা করেছিল, আর জানায় তাদের জন্য কী অপেক্ষা করছে। বর্তমানের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কারও শেষ পরিণতি নিয়ে রায় দেওয়ার অধিকারও কোনো পাঠককে দেয় না, সে রায় কেবল আল্লাহর। আয়াতটি সবার আগে তাকেই উদ্দেশ করে, যার হাতে এখনো জবাব দেওয়ার সময় আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Respite, Not an Absence",
+          "bn": "অবকাশ, অনুপস্থিতি নয়"
+        },
+        "p": [
+          {
+            "en": "Read with 29:53, the verse corrects one mistake: taking delay for absence. The askers saw nothing fall and concluded that nothing would. The first answer told them the delay had a name, a term appointed. The second told them that the delay changes nothing about what surrounds them, whether that encircling is read as present or as certain on the Day. A believer can make a smaller version of the same mistake, treating a warning as empty because it has not yet come due, and spending the respite as if it had no end.",
+            "bn": "২৯:৫৩-এর সঙ্গে পড়লে আয়াতটি একটা ভুল শুধরে দেয়: দেরিকে অনুপস্থিতি ভেবে নেওয়া। দাবিদাররা কিছু নামতে দেখেনি, তাই ধরে নিয়েছিল কিছু নামবেও না। প্রথম জবাব তাদের জানাল, দেরিটার একটা নাম আছে: নির্ধারিত মেয়াদ। দ্বিতীয় জবাব জানাল, এই দেরি তাদের চারপাশের বাস্তবতায় কিছুই বদলায় না, সে ঘেরাওকে এখনকার ধরা হোক বা সেই দিনের নিশ্চিত ঘটনা। একজন মুমিনও ছোট আকারে একই ভুল করতে পারে। এখনো সময় আসেনি বলে কোনো সতর্কবাণীকে ফাঁকা ভাবা, আর অবকাশটা এমনভাবে খরচ করা যেন তার শেষ নেই।"
+          },
+          {
+            "en": "The passage does not end on the demanders. After 29:55 it turns to the believers: O My servants who have believed, My earth is spacious, so worship Me alone (29:56). Every soul will taste death, then to Us you will be returned (29:57). Those who believe and do righteous deeds will be lodged in high chambers of Paradise (29:58), those who were patient and rely upon their Lord (29:59). The same respite that the askers mocked is, for those who answer, the time in which patience and reliance are lived.",
+            "bn": "অংশটি দাবিদারদের কথায় শেষ হয় না। ২৯:৫৫-এর পর তা ফিরে তাকায় মুমিনদের দিকে: হে আমার বান্দারা যারা ঈমান এনেছ, আমার যমীন প্রশস্ত, তাই কেবল আমারই ইবাদত করো (২৯:৫৬)। প্রত্যেক প্রাণ মৃত্যুর স্বাদ নেবে, তারপর আমার কাছেই তোমাদের ফিরিয়ে আনা হবে (২৯:৫৭)। যারা ঈমান আনে আর নেক আমল করে, তাদের জায়গা হবে জান্নাতের সুউচ্চ প্রাসাদে (২৯:৫৮), যারা সবর করেছে আর রবের উপর ভরসা রাখে (২৯:৫৯)। যে অবকাশ নিয়ে দাবিদাররা ঠাট্টা করেছিল, যারা সাড়া দেয় তাদের কাছে সেটাই সবর আর তাওয়াক্কুল নিয়ে বাঁচার সময়।"
+          }
+        ]
+      }
+    ]
+  },
   "29:60": {
     "sections": [
       {

@@ -24949,6 +24949,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Hereafter is promised to those who do not even want to rise over others or spoil the earth, so watch what you reach for, not only what you do.",
     "lessonBn": "আখিরাতের ঘরের ওয়াদা তাদের জন্য, যারা মানুষের উপরে উঠতে বা পৃথিবীতে বিপর্যয় ঘটাতে চায়ই না। তাই শুধু কী করছেন তা নয়, কীসের দিকে হাত বাড়াচ্ছেন সেটাও খেয়াল রাখুন।"
+  },
+  "29:54": {
+    "reflectionEn": "The previous verse already said it: they ask you to hurry the punishment, and only an appointed term holds it back. Then the same words come again, and this time the answer is not a date but a fact. Hell surrounds those who deny. The demand sounds bold, as if delay proved there was nothing to fear. The verse turns that around. Delay is a term, not an absence, and the thing they dare to come is closer than their dare. It is easy to read this about others. It is harder to notice my own version: treating a warning as empty because nothing has happened yet, and spending the respite as if it would never end.",
+    "reflectionBn": "আগের আয়াতেই কথাটা বলা হয়েছে: তারা তোমাকে তাড়াতাড়ি শাস্তি আনতে বলে, আর একটা নির্ধারিত সময়ই কেবল তা ঠেকিয়ে রেখেছে। তারপর একই কথা আবার আসে, কিন্তু এবার জবাবে কোনো তারিখ নেই, আছে একটা বাস্তবতা। জাহান্নাম অস্বীকারকারীদের চারপাশে ঘিরে আছে। দাবিটা শুনতে সাহসী লাগে, যেন দেরি হচ্ছে মানেই ভয়ের কিছু নেই। আয়াত সেই হিসাব উল্টে দেয়। দেরি মানে মেয়াদ, না-থাকা নয়। যাকে তারা আসতে বলছে, সে তাদের চ্যালেঞ্জের চেয়েও কাছে। অন্যদের বেলায় এ আয়াত পড়া সহজ। কঠিন হলো নিজের ভেতরের রূপটা চিনে নেওয়া: কিছু ঘটেনি বলে সতর্কবাণীকে ফাঁকা ধরে নেওয়া, আর অবকাশটা এমনভাবে খরচ করা যেন তা কখনো ফুরাবে না।",
+    "pointsEn": [
+      "Which warning in my life have I quietly filed as empty, only because nothing has happened yet?",
+      "If the delay I am living in is a term and not an absence, what would I do differently with it this week?",
+      "When the Qur'an repeats a sentence, do I slow down to ask what the second time adds, or skim past it?",
+      "Do I ever speak of Allah's promises, whether of reward or of punishment, as if they were remote, when the verse speaks of them as close?",
+      "What would it change in me to hear this verse as a mercy, a warning given while there is still time to answer it?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন সতর্কবাণীকে আমি চুপচাপ ফাঁকা বলে সরিয়ে রেখেছি, শুধু এ কারণে যে এখনো কিছু ঘটেনি?",
+      "যে দেরির ভেতরে আমি বাস করছি, তা যদি মেয়াদ হয়, না-থাকা নয়, তবে এ সপ্তাহে সেটা নিয়ে আমি কী অন্যভাবে করতাম?",
+      "কুরআন যখন একটা বাক্য আবার বলে, আমি কি থেমে জিজ্ঞেস করি দ্বিতীয়বারে নতুন কী এল, নাকি তাড়াহুড়ো করে পেরিয়ে যাই?",
+      "পুরস্কার হোক বা শাস্তি, আল্লাহর ওয়াদাকে আমি কি দূরের কিছু বলে কথা বলি, যখন আয়াত সেগুলোকে বলছে একেবারে কাছের?",
+      "এ আয়াতকে যদি রহমত হিসেবে শুনি, এমন এক সতর্কবাণী যা জবাব দেওয়ার সময় থাকতেই এসেছে, তবে আমার ভেতরে কী বদলাত?"
+    ],
+    "lessonEn": "Do not mistake Allah's respite for absence; the warning delayed is still the warning, so answer it while there is time.",
+    "lessonBn": "আল্লাহর দেওয়া অবকাশকে না-থাকা ভেবে ভুল করবেন না। দেরিতে আসা সতর্কবাণীও সতর্কবাণীই, তাই সময় থাকতেই সাড়া দিন।"
   }
 };
 
