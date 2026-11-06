@@ -28987,6 +28987,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Meet the Qur'an as Allah's word, not as a human opinion to weigh and set aside, and leave every verdict on anyone's end to Allah alone.",
     "lessonBn": "কুরআনকে আল্লাহর কালাম হিসেবে গ্রহণ করুন, মেপে দেখে সরিয়ে রাখার মতো কোনো মানুষের মত হিসেবে নয়। আর কারও শেষ পরিণতির ফয়সালা কেবল আল্লাহর হাতেই ছেড়ে দিন।"
+  },
+  "73:14": {
+    "reflectionEn": "Two verses earlier the Prophet ﷺ was told to bear what the deniers said, men at ease in their wealth, and to leave them to Allah. Then came the list: shackles, a blazing Fire, food that sticks in the throat. This verse gives that list its Day. The ground shakes with everyone on it, and the mountains, the hardest things anyone knew, become a heap of loose sand, the kind that pours down the moment its base is touched. Some things look solid only because nothing has yet moved underneath them. What am I building on that would slide if its footing gave way? And when what I believe is mocked, can I bear it with patience and leave the answer to Him?",
+    "reflectionBn": "দুই আয়াত আগে নবী ﷺ-কে বলা হয়েছিল, অস্বীকারকারীরা যা বলে তা সহ্য করতে আর তাদের ব্যাপারটা আল্লাহর হাতে ছেড়ে দিতে। এরা ছিল ধনসম্পদে আরামে থাকা লোক। তারপর এসেছে তালিকা: শেকল, দাউ দাউ আগুন, গলায় আটকে যাওয়া খাবার। এ আয়াত সেই তালিকাকে তার দিনটি চিনিয়ে দেয়। সেদিন মাটি কাঁপবে তার উপরের সব মানুষকে নিয়ে। আর পাহাড়, মানুষের চেনা সবচেয়ে শক্ত জিনিস, হয়ে যাবে আলগা বালুর স্তূপ। এমন বালু, যার গোড়ায় হাত লাগলেই উপর থেকে ঝরে পড়ে। কিছু জিনিস শক্ত দেখায় শুধু এ কারণে যে এখনো কেউ তার নিচটা নাড়েনি। আমি কিসের উপর ঘর তুলছি, যার ভিত সরে গেলেই সব গড়িয়ে পড়বে? আর আমার বিশ্বাস নিয়ে কেউ বিদ্রূপ করলে আমি কি ধৈর্য ধরে জবাবটা তাঁর হাতে ছেড়ে দিতে পারি?",
+    "pointsEn": [
+      "Which of the things I lean on for security would still stand if what lies underneath it were moved?",
+      "Do I take comfort and plenty as proof that I am safe, the way the men of ease in the verses before this one did?",
+      "When I hear Allah's warnings mocked, do I answer with patience and leave the outcome to Him, or with anger that is really about me?",
+      "The verse shakes the earth with its people on it. Where do I hope to be standing on that Day, and what have I done this week to get there?",
+      "If I pictured my savings as sand that pours away at a touch, what would I spend differently?"
+    ],
+    "pointsBn": [
+      "যেসব জিনিসের উপর ভর দিয়ে আমি নিজেকে নিরাপদ ভাবি, নিচের মাটি সরে গেলে তার কোনটা টিকে থাকবে?",
+      "আরাম আর প্রাচুর্যকে কি আমি নিরাপদ থাকার প্রমাণ বলে ধরে নিই, যেমন ধরে নিয়েছিল আগের আয়াতগুলোর সেই সচ্ছল লোকেরা?",
+      "আল্লাহর সতর্কবাণী নিয়ে কেউ ঠাট্টা করলে আমি কি ধৈর্য ধরে ফলাফল তাঁর হাতে ছেড়ে দিই? নাকি রেগে যাই, আর সেই রাগ আসলে আমার নিজেকে নিয়েই?",
+      "আয়াতটি মাটিকে কাঁপায় তার উপরের মানুষসহ। সেদিন আমি কোথায় দাঁড়িয়ে থাকার আশা করি, আর সেখানে পৌঁছাতে এ সপ্তাহে কী করেছি?",
+      "আমার জমানো টাকাকে যদি এমন বালু ভাবতাম, যা ছুঁলেই ঝরে যায়, তাহলে কোন খরচটা অন্যভাবে করতাম?"
+    ],
+    "lessonEn": "The firmest things of this world will run like loose sand on that Day, so build on what lasts and leave those who mock to Allah.",
+    "lessonBn": "দুনিয়ার সবচেয়ে মজবুত জিনিসও সেদিন আলগা বালুর মতো ঝরে পড়বে। তাই যা টিকে থাকে তার উপর গড়ুন, আর যারা ঠাট্টা করে তাদের আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 

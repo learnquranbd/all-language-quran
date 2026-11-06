@@ -447,6 +447,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "73:14": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Date for the Shackles",
+          "bn": "শেকলের দিনক্ষণ"
+        },
+        "p": [
+          {
+            "en": "Yawma tarjufu al-ardu wa-l-jibalu: on the Day the earth and the mountains quake. The verse opens on a word of time, and that word looks back. In 73:10 the Prophet ﷺ is told to be patient over what they say and to keep away from them graciously. In 73:11 Allah says: leave Me with the deniers, the people of ease, and give them a little respite. Then 73:12 and 73:13 list what is with Him for them: ankal, jahim, food that chokes, and a painful punishment. Our verse says when.",
+            "bn": "ইয়াওমা তারজুফুল আরদু ওয়াল জিবালু: যেদিন জমিন আর পাহাড়গুলো কেঁপে উঠবে। আয়াতটি শুরু হয়েছে সময়ের একটি শব্দ দিয়ে, আর শব্দটি তাকিয়ে আছে পেছনের দিকে। ৭৩:১০ আয়াতে নবী ﷺ-কে বলা হয়েছে, তারা যা বলে তাতে ধৈর্য ধরতে আর ভদ্রভাবে তাদের থেকে সরে থাকতে। ৭৩:১১ আয়াতে আল্লাহ বলেন: অস্বীকারকারী ওই সচ্ছল লোকদের ব্যাপার আমার উপর ছেড়ে দাও, আর তাদের সামান্য অবকাশ দাও। তারপর ৭৩:১২ ও ৭৩:১৩ আয়াত গুনে দেয় তাঁর কাছে তাদের জন্য কী আছে: আনকাল, জাহীম, গলায় আটকে যাওয়া খাবার আর যন্ত্রণাদায়ক শাস্তি। আমাদের আয়াত বলে দেয়, সেটা কবে।"
+          },
+          {
+            "en": "At-Tabari makes the link in his paraphrase. With Us, he has Allah say, are for these idolaters of Quraysh who harm you, O Muhammad, the punishments He described, on the Day the earth and the mountains quake, the Day of Resurrection. The abridged English Ibn Kathir glosses the list: the ankal are fetters, from Ibn Abbas, 'Ikrimah, Tawus and many others; jahim is a blazing fire; and the food that chokes, said Ibn Abbas, sticks in the throat, neither going down nor coming out.",
+            "bn": "তাবারী তাঁর ব্যাখ্যায় সংযোগটা খুলে দেখান। তাঁর ভাষ্যে আল্লাহ যেন বলছেন: হে মুহাম্মদ, কুরাইশের যে মুশরিকরা তোমাকে কষ্ট দেয়, তাদের জন্য আমার কাছে আছে বর্ণিত সেসব শাস্তি। তা ঘটবে সেদিন, যেদিন জমিন আর পাহাড় কাঁপবে, অর্থাৎ কিয়ামতের দিন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তালিকাটির অর্থ দেয়। আনকাল হলো বেড়ি, ইবন আব্বাস (রাঃ), ইকরিমা, তাউস ও আরও অনেকের সূত্রে। জাহীম হলো দাউ দাউ আগুন। আর গলায় আটকে যাওয়া খাবার সম্পর্কে ইবন আব্বাস (রাঃ) বলেছেন: তা গলায় আটকে থাকবে, না নামবে, না বেরিয়ে আসবে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, whose note covers 73:14 to 73:19 together, puts the sequence plainly: verse 14 describes that the punishment will take place on the Day when the earth and mountains shake. The mountains in this verse, then, are not a scene by themselves. They mark the hour at which the penalty promised to the deniers of 73:11 arrives.",
+            "bn": "মাআরিফুল কুরআন ৭৩:১৪ থেকে ৭৩:১৯ পর্যন্ত একসাথে আলোচনা করে। সেখানে ক্রমটা সোজা কথায় বলা হয়েছে: ১৪ নম্বর আয়াত জানায়, শাস্তি ঘটবে সেদিন, যেদিন জমিন আর পাহাড় কাঁপবে। কাজেই এ আয়াতের পাহাড় আলাদা কোনো দৃশ্য নয়। ৭৩:১১ আয়াতের অস্বীকারকারীদের যে শাস্তির কথা দেওয়া হয়েছে, তা কোন মুহূর্তে আসবে, পাহাড় সেটারই চিহ্ন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Word Yawma Hangs On",
+          "bn": "ইয়াওমা শব্দটি কিসের সাথে বাঁধা"
+        },
+        "p": [
+          {
+            "en": "Which word does yawma depend on? Al-Qurtubi sets out three answers. In the first, yawma is an adverb of time and the action it qualifies is understood: they will be made an example of and punished on the Day the earth quakes. In the second, a preposition has dropped out, so the sense is: this punishment is on the Day the earth and the mountains quake. In the third, the governing word is dharni in 73:11: leave Me with the deniers on the Day the earth and the mountains quake.",
+            "bn": "ইয়াওমা শব্দটি কোন শব্দের উপর নির্ভর করছে? কুরতুবী তিনটি উত্তর সাজিয়ে দেন। প্রথম মতে, ইয়াওমা সময়বাচক শব্দ, আর যে কাজের সময় বোঝাচ্ছে তা উহ্য: যেদিন জমিন কাঁপবে, সেদিন তাদের দৃষ্টান্তমূলক সাজা দেওয়া হবে, শাস্তি দেওয়া হবে। দ্বিতীয় মতে, মাঝখান থেকে একটি অব্যয় বাদ পড়েছে। অর্থ দাঁড়ায়: এই শাস্তি সেই দিনে, যেদিন জমিন আর পাহাড় কাঁপবে। তৃতীয় মতে, শব্দটিকে নিয়ন্ত্রণ করছে ৭৩:১১ আয়াতের যারনী: যেদিন জমিন আর পাহাড় কাঁপবে, সেদিনের জন্য অস্বীকারকারীদের ব্যাপার আমার উপর ছেড়ে দাও।"
+          },
+          {
+            "en": "Al-Qurtubi gives the adverbial reading in his own voice and introduces the second and third with wa-qila, and it has been said; he does not argue between them. At-Tabari's paraphrase ties the Day to the punishments of 73:12 and 73:13, which sits closest to the first two. The difference is small in sense but real in feel. On the first two readings the verse dates the punishment. On the third it is attached to the command to leave the deniers to Allah, so the handing over and the Day sit in one sentence.",
+            "bn": "সময়বাচক মতটি কুরতুবী নিজের কথায় বলেন। দ্বিতীয় ও তৃতীয়টির আগে লেখেন ওয়া কীলা, অর্থাৎ বলা হয়েছে। এগুলোর মধ্যে তিনি কোনো বিতর্কে যান না। তাবারীর ব্যাখ্যা দিনটিকে বেঁধেছে ৭৩:১২ ও ৭৩:১৩ আয়াতের শাস্তির সাথে, যা প্রথম দুই মতের কাছাকাছি। অর্থে পার্থক্যটা ছোট, তবে অনুভবে স্পষ্ট। প্রথম দুই মতে আয়াতটি শাস্তির দিনক্ষণ জানায়। তৃতীয় মতে দিনটি জুড়ে আছে অস্বীকারকারীদের আল্লাহর হাতে ছেড়ে দেওয়ার নির্দেশের সাথে। ফলে ছেড়ে দেওয়া আর সেই দিন একই বাক্যে এসে বসে।"
+          },
+          {
+            "en": "Al-Qurtubi adds a note on tense: wa-kanati al-jibalu, literally and the mountains were, means wa-takunu, and the mountains will be, a past verb used for a Day still to come. The Muyassar's paraphrase also runs in the future: the earth and the mountains will convulse and quake until the mountains become a mound of sand, flowing and scattered, after they had been hard and solid.",
+            "bn": "কাল নিয়েও কুরতুবী কথা বলেন। ওয়া কানাতিল জিবালু, শব্দে শব্দে যার মানে আর পাহাড়গুলো ছিল, তার অর্থ ওয়া তাকূনু, আর পাহাড়গুলো হবে। যে দিন এখনো আসেনি, তার জন্য এসেছে অতীতকালের ক্রিয়া। মুয়াসসারের ব্যাখ্যাও ভবিষ্যৎকালে চলে: জমিন আর পাহাড় দুলবে, কাঁপবে। শেষে পাহাড় হয়ে যাবে বালুর ঢিবি, গড়িয়ে পড়া, ছড়িয়ে যাওয়া। অথচ আগে সেগুলো ছিল শক্ত আর অনড়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shaken With Those Upon It",
+          "bn": "উপরের মানুষসহ কম্পন"
+        },
+        "p": [
+          {
+            "en": "Tarjufu: what kind of shaking? Ibn Kathir's Arabic glosses it with a single verb, tuzalzalu, it will be quaked. Al-Baghawi doubles it: tuzalzalu wa-tataharraku, quaked and set in motion. The Muyassar has tadtaribu wa-tatazalzalu, it will convulse and quake. The verb has two subjects in the verse, the earth and the mountains, and none of these glosses separates them. The ground and the heights standing on it shake together.",
+            "bn": "তারজুফু: কেমন কাঁপুনি? ইবন কাসীর আরবি তাফসীরে মাত্র একটি ক্রিয়ায় অর্থ দেন: তুযালযালু, ভূকম্পনে কাঁপানো হবে। বাগাভী দুটি ক্রিয়া জোড়েন: তুযালযালু ওয়া তাতাহাররাকু, কাঁপানো হবে আর নড়ে উঠবে। মুয়াসসারে আছে তাদতারিবু ওয়া তাতাযালযালু, দুলবে আর কাঁপবে। আয়াতে এই ক্রিয়ার কর্তা দুটি, জমিন আর পাহাড়। এসব ব্যাখ্যার কোনোটি দুটিকে আলাদা করে না। মাটি আর তার উপর দাঁড়ানো উঁচু চূড়া, দুটোই একসাথে কাঁপে।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi add a phrase that changes the picture. At-Tabari: its rujfan is its convulsing bi-man 'alayhi, with whoever is upon it. Al-Qurtubi: it moves and convulses bi-man 'alayha, with those upon it. The quake is not watched from a distance; the people standing on the ground feel it. As-Sa'di gives a cause rather than a motion: min al-hawl al-'azim, from the immense terror. The related word rajj, used of the earth in 56:4, is treated in that verse's article.",
+            "bn": "তাবারী আর কুরতুবী এমন একটি কথা যোগ করেন, যাতে ছবিটা বদলে যায়। তাবারী বলেন: এর রুজফান মানে উপরে যারা আছে তাদের নিয়েই এর দুলে ওঠা। কুরতুবী বলেন: উপরের মানুষদের নিয়েই তা নড়বে আর দুলবে। এই কম্পন দূর থেকে দেখার জিনিস নয়। মাটির উপর দাঁড়ানো মানুষ নিজেরাই তা টের পায়। সা'দী নড়াচড়ার বদলে কারণটা বলেন: মিনাল হাওলিল আযীম, প্রচণ্ড আতঙ্কের কারণে। জমিনের বেলায় ৫৬:৪ আয়াতে এসেছে কাছাকাছি আরেকটি শব্দ, রাজ্জ। সেটির আলোচনা ওই আয়াতের প্রবন্ধে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kathib, Sand Gathered Up",
+          "bn": "কাসীব: জমে ওঠা বালু"
+        },
+        "p": [
+          {
+            "en": "Wa-kanati al-jibalu kathiban mahila. The verse names the mountains a second time where a pronoun would have served, and this clause is about them alone. Al-Qurtubi defines al-kathib as al-raml al-mujtami', sand gathered together, and cites a line he attributes to Hassan: I recognised the dwellings of Zaynab by the sand-hill, like the lines of writing on new parchment. In that line the word is simply the ordinary name for a mound of sand.",
+            "bn": "ওয়া কানাতিল জিবালু কাসীবাম মাহীলা। সর্বনাম দিয়েই কাজ চলত, তবু আয়াত পাহাড়ের নাম দ্বিতীয়বার নিয়েছে। আর এই বাক্যাংশ শুধু পাহাড় নিয়েই। কুরতুবী আল-কাসীবের অর্থ বলেন আর-রামলুল মুজতামি', এক জায়গায় জমে থাকা বালু। সাক্ষী হিসেবে তিনি একটি পঙক্তি আনেন, যা তিনি হাসসানের বলে উল্লেখ করেন: বালির ঢিবির ধারে আমি যয়নবের ঘরবাড়ি চিনে নিলাম, যেন নতুন কাগজে লেখার রেখা। পঙক্তিতে শব্দটি বালুর স্তূপের সাধারণ নাম মাত্র।"
+          },
+          {
+            "en": "The other commentators describe a change of state. Ibn Kathir: they become like kuthban al-raml, hills of sand, after they had been hijara samma', solid stone. As-Sa'di calls them al-rasiyat al-summ al-silab, the firmly anchored, solid, hard mountains, and says they become like al-raml al-munhal al-muntathir, sand pouring down and scattering. The Muyassar's word is tall, a mound of sand, after they had been sulba jamida, hard and rigid. Ma'arif al-Qur'an sets two pictures side by side: a heap of dust, or shifting dunes.",
+            "bn": "অন্য তাফসীরকারেরা অবস্থার বদলটা বর্ণনা করেন। ইবন কাসীর: নিরেট পাথর থাকার পর সেগুলো হবে কুসবানুর রামল, বালুর টিলার মতো। সা'দী পাহাড়গুলোকে বলেন আর-রাসিয়াতুস সুম্মুস সিলাব, শিকড় গেড়ে বসা, নিরেট, কঠিন। তাঁর মতে সেগুলো হবে আর-রামলুল মুনহালুল মুনতাসির, ঝরে পড়া ছড়িয়ে যাওয়া বালুর মতো। মুয়াসসারের শব্দ তাল্ল, বালুর ঢিবি। আগে সেগুলো ছিল সুলবা জামিদা, শক্ত আর অনড়। মাআরিফুল কুরআন দুটি ছবি পাশাপাশি রাখে: ধুলার স্তূপ, অথবা সরে যাওয়া বালিয়াড়ি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Moved Below, Pouring From Above",
+          "bn": "নিচে নাড়া, উপর থেকে ধস"
+        },
+        "p": [
+          {
+            "en": "Mahil is the heart of the phrase, and the commentators define it from the way sand behaves. At-Tabari: it is a passive participle from hiltu al-ramla fa-ana ahiluhu, I set the sand pouring, said when its lower part is moved so that it pours down from its upper part. Al-Baghawi says nearly the same: ahaltu al-ramla, when you have moved its base until it poured from its top. The sand does not fall because it is struck from above. It falls because something shifts underneath.",
+            "bn": "বাক্যাংশের প্রাণ মাহীল শব্দটি। তাফসীরকারেরা এর অর্থ বলেন বালুর স্বভাব দেখে। তাবারী বলেন: শব্দটি কর্মবাচক রূপ, এসেছে হিলতুর রামলা ফা আনা আহীলুহু থেকে, আমি বালু ঝরিয়ে দিলাম। কথাটা বলা হয় তখন, যখন বালুর নিচের অংশ নাড়া হয় আর উপরের অংশ ধসে নিচে নামে। বাগাভীও প্রায় একই কথা বলেন: আহালতুর রামলা, যখন বালুর গোড়া নাড়ানো হয় আর মাথা থেকে তা ঝরে পড়ে। উপর থেকে আঘাত লেগে বালু পড়ে না। পড়ে, কারণ নিচে কিছু একটা সরে গেছে।"
+          },
+          {
+            "en": "Two early voices describe the same behaviour from a person's side. Al-Baghawi reports al-Kalbi: it is sand from which, if you take something, what lies behind it follows you. Al-Qurtubi reports ad-Dahhak and al-Kalbi together: when you tread on it, it slips out from under your foot, and when you take hold of its lower part, it pours down. Al-Qurtubi's own gloss is: what passes beneath the feet. Such sand cannot be stood on, and nothing can be taken from it without the rest moving too.",
+            "bn": "দুজন প্রাচীন ব্যাখ্যাকার একই স্বভাবের কথা বলেন মানুষের দিক থেকে। বাগাভী কালবীর কথা আনেন: এ এমন বালু, যার থেকে কিছু তুলে নিলে পেছনের বালুও আপনার পিছু পিছু চলে আসে। কুরতুবী দাহহাক আর কালবী দুজনের কথা একসাথে আনেন: এর উপর পা রাখলে পায়ের নিচ থেকে পিছলে সরে যায়, আর গোড়া ধরলে ঝরে পড়ে। কুরতুবীর নিজের ব্যাখ্যা: যা পায়ের নিচ দিয়ে সরে যায়। এমন বালুর উপর দাঁড়ানো যায় না, আর বাকিটা না নড়িয়ে এর থেকে কিছু নেওয়াও যায় না।"
+          },
+          {
+            "en": "A grammarians' note sits alongside. At-Tabari says the Arabs have two forms, mahil and mahyul, just as they say makil and makyul for what is measured. Al-Qurtubi gives the same pairs, adds madin and madyun, and explains how the waw of the original form, mahyul, dropped out. Both quote the same line of verse, ending on such an unshortened passive, as a witness that the fuller form was in use.",
+            "bn": "পাশেই আছে ব্যাকরণের একটি টীকা। তাবারী বলেন, আরবরা দুটি রূপই বলে: মাহীল ও মাহয়ূল। যেমন মাপা জিনিসকে বলে মাকীল ও মাকয়ূল। কুরতুবী একই জোড়া দেন, সাথে যোগ করেন মাদীন ও মাদয়ূন। তাঁর মতে মূল রূপ মাহয়ূল, আর তার ওয়াও অক্ষরটি কীভাবে ঝরে গেল, তা-ও তিনি ব্যাখ্যা করেন। পূর্ণ রূপটি যে চালু ছিল, তার সাক্ষী হিসেবে দুজনেই একই কবিতার পঙক্তি আনেন, যার শেষে আছে এমনই এক অসংক্ষিপ্ত কর্মবাচক রূপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Flowing, Running On, Pouring Down",
+          "bn": "গড়িয়ে চলা, পিছু নেওয়া, ঝরে পড়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then names those who said the same, opening the list with the remark that the people of interpretation said the like of what he had said. From Ibn Abbas, through 'Ali ibn Abi Talha: al-raml al-sa'il, flowing sand. From Ibn Abbas again, through a chain that runs down one family, Muhammad ibn Sa'd from his father, his uncle and their forebears: al-kathib al-mahil is the soft sand which, when you touch it, runs on, grain after grain. From Mujahid, through Ibn Abi Najih: yanhalu, it pours down.",
+            "bn": "এরপর তাবারী তাঁদের নাম আনেন, যাঁরা একই কথা বলেছেন। তালিকার শুরুতে বলেন, তাফসীরকারেরা তাঁর কথার মতোই বলেছেন। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ): আর-রামলুস সাইল, গড়িয়ে চলা বালু। আবার ইবন আব্বাস (রাঃ), এবার এক পরিবারের ভেতর দিয়ে নামা সূত্রে, মুহাম্মদ ইবন সা'দ থেকে তাঁর পিতা, চাচা ও পূর্বপুরুষদের মাধ্যমে: আল-কাসীবুল মাহীল হলো সেই নরম বালু, যা ছুঁলেই একটার পর একটা দানা গড়িয়ে চলে। ইবন আবী নাজীহর সূত্রে মুজাহিদ: ইয়ানহালু, ধসে পড়ে।"
+          },
+          {
+            "en": "Al-Qurtubi gives Ibn Abbas's gloss as sand that flows and scatters, then traces the word to hiltu 'alayhi al-turaba, I poured earth over it. At-Tabari's own paraphrase and the Muyassar use the same pair of words, sa'il mutanathir, flowing and scattering. There is no disagreement to record on this word. The reports differ only in which moment they catch: the sand flowing, running on at a touch, or pouring down from its top.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনেন: মাহীলা মানে গড়িয়ে চলা, ছড়িয়ে পড়া বালু। তারপর শব্দটির উৎস দেখান হিলতু আলাইহিত তুরাবা, আমি তার উপর মাটি ঢেলে দিলাম। তাবারীর নিজের ব্যাখ্যা আর মুয়াসসারেও একই জোড়া শব্দ: সাইল মুতানাসির, গড়িয়ে চলা আর ছড়িয়ে পড়া। এ শব্দ নিয়ে লেখার মতো কোনো মতভেদ নেই। বর্ণনাগুলো শুধু আলাদা আলাদা মুহূর্ত ধরেছে: বালু গড়িয়ে চলছে, ছোঁয়া পেয়ে সরে যাচ্ছে, কিংবা মাথা থেকে ধসে পড়ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measured Grain, Poured Grain",
+          "bn": "মাপা শস্য, ঢালা শস্য"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi brings one narration into his note, for the word and not for the verse. He relays an exchange, set at a time of drought and raised to the Prophet ﷺ, in which the verb hala, to pour without measuring, is set against measuring food, and measuring is tied to blessing. Al-Qurtubi names no collection and no chain. The exchange in his wording was not traced to a collection for this article, so its words are not quoted, and it is reported only as his illustration of the verb.",
+            "bn": "কুরতুবী তাঁর আলোচনায় একটি বর্ণনা আনেন, তবে শব্দটির জন্য, আয়াতের অর্থের জন্য নয়। তিনি খরার সময়ের একটি প্রশ্নোত্তর আনেন, যা নবী ﷺ পর্যন্ত পৌঁছানো হয়েছে। তাতে মেপে না নিয়ে ঢেলে দেওয়া বোঝাতে 'হালা' ক্রিয়াটি এসেছে, খাবার মেপে নেওয়ার বিপরীতে, আর মেপে নেওয়াকে বরকতের সঙ্গে যুক্ত করা হয়েছে। কুরতুবী কোনো গ্রন্থের নাম বা সনদ দেননি। তাঁর এই শব্দে প্রশ্নোত্তরটি এ প্রবন্ধের জন্য কোনো হাদীস গ্রন্থে খুঁজে পাওয়া যায়নি। তাই এখানে এটি শুধু ক্রিয়াটির উদাহরণ হিসেবে তাঁর উদ্ধৃতি।"
+          },
+          {
+            "en": "The command at its centre does stand with a full chain in al-Bukhari's Sahih (2128), from al-Miqdam ibn Ma'dikarib, from the Prophet ﷺ: kilu ta'amakum yubarak lakum, measure your foodstuff and you will be blessed. That narration concerns measuring food. It is not about this verse, and no commentary consulted here attaches it to the verse's meaning; none of them attaches any hadith to 73:14. What al-Qurtubi's report shows is the verb hala in daily use, for grain poured out loose instead of measured.",
+            "bn": "তবে এর মাঝের নির্দেশটি পূর্ণ সনদে আছে বুখারীর সহীহ গ্রন্থে (২১২৮)। মিকদাম ইবন মা'দীকারিব (রাঃ) নবী ﷺ থেকে বর্ণনা করেন: কীলূ তাআমাকুম ইউবারাক লাকুম, তোমাদের খাদ্যদ্রব্য মেপে নাও, তোমাদের বরকত দেওয়া হবে। বর্ণনাটি খাবার মাপা নিয়ে, এ আয়াত নিয়ে নয়। এখানে দেখা কোনো তাফসীর আয়াতের অর্থের সাথে একে যুক্ত করেনি। ৭৩:১৪ আয়াতের সাথে কোনো হাদীসই তাঁরা যুক্ত করেননি। কুরতুবীর বর্ণনা শুধু দেখায়, রোজকার কথায় হালা ক্রিয়াটি কীভাবে চলত: না মেপে আলগা করে ঢেলে দেওয়া শস্যের বেলায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Stage Between Stone and Dust",
+          "bn": "পাথর আর ধুলার মাঝের ধাপ"
+        },
+        "p": [
+          {
+            "en": "Two commentators do not let the sand be the end. Ibn Kathir: after they become like hills of sand, tunsafu nasfan, they are blown away utterly, the verb of 20:105, so that nothing of them is left, until the earth becomes qa'an safsafa with no 'iwaj and no amt in it, the words of 20:106 and 20:107. He glosses 'iwaj as a valley and amt as a rise: nothing sinks and nothing rises. As-Sa'di: after being poured sand they tubassu, are crushed, the verb of 56:5, and become like scattered dust.",
+            "bn": "দুজন তাফসীরকার বালুতেই শেষ করেন না। ইবন কাসীর বলেন: বালুর টিলার মতো হওয়ার পর তুনসাফু নাসফান, সেগুলোকে পুরোপুরি উড়িয়ে দেওয়া হবে। ক্রিয়াটি ২০:১০৫ আয়াতের। কিছুই বাকি থাকবে না, শেষে জমিন হবে কা'আন সাফসাফা, যাতে কোনো ইওয়াজ নেই, কোনো আমত নেই। এ শব্দগুলো ২০:১০৬ ও ২০:১০৭ আয়াতের। ইওয়াজ মানে তিনি বলেন উপত্যকা, আর আমত মানে টিলা: কিছুই নিচু নয়, কিছুই উঁচু নয়। সা'দী বলেন: ঝরে পড়া বালু হওয়ার পর সেগুলোকে চূর্ণ করা হবে, তুবাসসু, ৫৬:৫ আয়াতের ক্রিয়া। তারপর হবে ছড়ানো ধুলার মতো।"
+          },
+          {
+            "en": "Those sequences are followed step by step in the articles on 20:106, 52:10 and 101:5, and are not retold here. This verse holds one stage still: the moment between stone and dust, when the mountain can still be seen as a heap but can no longer be climbed. The commentaries consulted say nothing about rock or soil beyond the words above, and neither does this article.",
+            "bn": "এই ধারাবাহিকতা ধাপে ধাপে আলোচিত হয়েছে ২০:১০৬, ৫২:১০ ও ১০১:৫ আয়াতের প্রবন্ধে, এখানে আর পুনরাবৃত্তি নয়। এ আয়াত থামিয়ে রাখে একটিমাত্র ধাপ: পাথর আর ধুলার মাঝের মুহূর্ত। তখনো পাহাড়কে স্তূপ হিসেবে দেখা যায়, কিন্তু তাতে আর পা রেখে ওঠা যায় না। এখানে দেখা তাফসীরগুলো পাথর বা মাটি নিয়ে উপরের কথাগুলোর বাইরে কিছু বলেনি, এ প্রবন্ধও বলছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ease That Was Never Footing",
+          "bn": "যে আরাম পায়ের তলার মাটি নয়"
+        },
+        "p": [
+          {
+            "en": "Read in its place, the verse speaks first to the Prophet ﷺ, who has been told to bear their words and leave the people of ease to Allah for a little while. This verse shows what the little while ends in. Ibn Kathir explains the people of ease as the rich deniers: more able to obey than others, he says, and asked to give others their rights, because they have what others lack. They stood on wealth as if on rock. On that Day the rock itself is sand that slips out from under a foot.",
+            "bn": "প্রসঙ্গের ভেতরে পড়লে আয়াতটি প্রথমে কথা বলে নবী ﷺ-এর সাথে। তাঁকে বলা হয়েছে তাদের কথা সহ্য করতে, আর সচ্ছল লোকদের অল্প কিছুদিনের জন্য আল্লাহর হাতে ছেড়ে দিতে। এ আয়াত দেখায়, সেই অল্প কিছুদিন শেষে কী আসে। ইবন কাসীর সচ্ছল লোক বলতে বোঝান ধনী অস্বীকারকারীদের। তাঁর মতে আনুগত্যের সামর্থ্য অন্যদের চেয়ে তাদের বেশি, মানুষের হক আদায়ের দাবিও তাদের কাছে, কারণ অন্যদের যা নেই তা তাদের আছে। তারা সম্পদের উপর দাঁড়িয়েছিল, যেন পাথরের উপর। সেদিন খোদ পাথরই হবে এমন বালু, যা পায়ের নিচ থেকে পিছলে সরে যায়।"
+          },
+          {
+            "en": "That needs a plain limit, in both languages. At-Tabari names these deniers as the idolaters of Quraysh who harmed the Prophet ﷺ. The verse describes what the text says awaits them on that Day, and nothing more. It licenses nothing against any living person or community. No reader is given the right to decide who belongs among the deniers, and the passage itself gives the Prophet ﷺ patience and a gracious distance, not a sentence to carry out.",
+            "bn": "এখানে একটি সীমা পরিষ্কার করে বলা দরকার। তাবারী এই অস্বীকারকারীদের পরিচয় দেন কুরাইশের সেই মুশরিক হিসেবে, যারা নবী ﷺ-কে কষ্ট দিত। আয়াতটি শুধু এটুকুই বর্ণনা করে যে, সেদিন তাদের জন্য কী অপেক্ষা করছে বলে কুরআন জানায়। এর বাইরে কিছু নয়। বর্তমানের কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। কে অস্বীকারকারীদের দলে, সে রায় দেওয়ার অধিকার কোনো পাঠককে দেওয়া হয়নি। এই আয়াতগুলো নবী ﷺ-কে দিয়েছে ধৈর্য আর ভদ্র দূরত্ব, কার্যকর করার মতো কোনো দণ্ড নয়।"
+          },
+          {
+            "en": "What the verse leaves the reader is a question about footing. Its picture is not stone struck from above but sand that runs when its base is touched. The comfort of the deniers looked like ground to stand on, and in the verse's picture the ground is exactly what goes. So the question is what one is standing on now. The passage gives its own answer in 73:19: this is a reminder, so whoever wills may take a way to his Lord.",
+            "bn": "আয়াতটি পাঠকের হাতে রেখে যায় পায়ের তলার মাটি নিয়ে একটি প্রশ্ন। এর ছবি উপর থেকে আঘাত খাওয়া পাথরের নয়। ছবিটা এমন বালুর, যার গোড়া ছুঁলেই তা গড়িয়ে পড়ে। অস্বীকারকারীদের আরাম দেখতে দাঁড়ানোর মাটির মতো লাগত। অথচ আয়াতের ছবিতে ঠিক সেই মাটিই সরে যায়। তাই প্রশ্ন হলো, এখন আমি কিসের উপর দাঁড়িয়ে আছি। এ অংশ নিজেই উত্তর দেয় ৭৩:১৯ আয়াতে: এটা উপদেশ, কাজেই যার ইচ্ছা সে তার রবের দিকে পথ ধরুক।"
+          }
+        ]
+      }
+    ]
+  },
   "73:20": {
     "sections": [
       {
