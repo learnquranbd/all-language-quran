@@ -27129,6 +27129,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read the ruins of those before you as a warning to yourself, and build only what would still stand if it were weighed.",
     "lessonBn": "আগের লোকদের ধ্বংসস্তূপকে নিজের জন্য সতর্কবাণী হিসেবে পড়ুন, আর এমন কিছুই গড়ুন যা মাপা হলেও টিকে থাকবে।"
+  },
+  "46:17": {
+    "reflectionEn": "A son stands before his parents and answers their plea with one syllable of disgust: uff to you both. Then comes his argument. Do you promise me I will be brought out again, when whole generations have gone before me and not one has come back? His parents do two things at once. They cry out to Allah over him, and they turn to him: woe to you, believe, the promise of Allah is true. He calls it tales of the ancients. The verse never says the parents failed. It shows them still pleading while he still refuses. So it asks two things of me. When I am the one being called, what word leaves my mouth first? And when I am the one calling, do I keep praying?",
+    "reflectionBn": "এক ছেলে মা-বাবার সামনে দাঁড়িয়ে। তাঁদের অনুনয়ের জবাবে সে একটি মাত্র বিরক্তির শব্দ ছুড়ে দেয়: উফ, তোমাদের জন্য! তারপর আসে তার যুক্তি। তোমরা কি আমাকে কথা দিচ্ছ যে আমাকে আবার বের করে আনা হবে? অথচ আমার আগে কত প্রজন্ম চলে গেছে, একজনও তো ফিরে আসেনি। মা-বাবা তখন একসঙ্গে দুটি কাজ করেন। আল্লাহর কাছে তাকে নিয়ে কাতর হয়ে সাহায্য চান, আর ছেলেকে বলেন: দুর্ভোগ তোমার, ঈমান আনো, আল্লাহর ওয়াদা সত্য। সে বলে, এসব পুরোনো কালের গল্প। আয়াত কোথাও বলে না যে মা-বাবা হেরে গেছেন। দেখায় শুধু, তাঁরা তখনও অনুনয় করছেন আর সে তখনও মুখ ফিরিয়ে আছে। তাই আয়াতটি আমার কাছে দুটি প্রশ্ন রাখে। আমাকে যখন ডাকা হয়, আমার মুখ থেকে প্রথম কোন শব্দটা বের হয়? আর আমি যখন ডাকি, দোয়া কি চালিয়ে যাই?",
+    "pointsEn": [
+      "When my parents remind me of Allah or the Hereafter, what is the first word or look that leaves me, and would I want it written down?",
+      "Have I ever held up a doubt as a reason to stop listening, the way he pointed to the generations gone before him?",
+      "If I am a parent, am I still praying for the child who has turned away, or have I quietly stopped?",
+      "Do my words to a doubting child come with prayer for that child, as these parents joined the two?",
+      "Have I ever fastened a verse like this on someone I know, when it describes a kind of conduct and not a name?"
+    ],
+    "pointsBn": [
+      "মা-বাবা যখন আমাকে আল্লাহ বা আখিরাতের কথা মনে করিয়ে দেন, আমার কাছ থেকে প্রথম কোন কথা বা কোন চাহনি বের হয়? সেটা লিখে রাখা হলে কি আমি খুশি হতাম?",
+      "আগের প্রজন্মগুলোর দিকে আঙুল তুলে সে যেমন শোনা বন্ধ করেছিল, আমিও কি কখনো কোনো সন্দেহকে ঢাল বানিয়ে কান বন্ধ করেছি?",
+      "আমি যদি মা বা বাবা হই, যে সন্তান মুখ ফিরিয়ে নিয়েছে তার জন্য কি এখনো দোয়া করি, নাকি চুপচাপ থেমে গেছি?",
+      "সন্দেহে পড়া সন্তানকে যা বলি, তার সঙ্গে কি তার জন্য দোয়াও থাকে, যেমন এই মা-বাবা দুটোকে একসঙ্গে রেখেছিলেন?",
+      "এমন কোনো আয়াত কি কখনো চেনা কোনো মানুষের গায়ে লাগিয়ে দিয়েছি, অথচ আয়াতটি একটি আচরণের বর্ণনা, কারও নাম নয়?"
+    ],
+    "lessonEn": "Never answer your parents with contempt when they call you to Allah, and if you are a parent, keep calling and keep praying for a child who turns away.",
+    "lessonBn": "মা-বাবা যখন আল্লাহর দিকে ডাকেন, অবজ্ঞা দিয়ে জবাব দেবেন না। আর আপনি মা-বাবা হলে, মুখ ফিরিয়ে নেওয়া সন্তানকে ডাকতে থাকুন, তার জন্য দোয়াও চালিয়ে যান।"
   }
 };
 

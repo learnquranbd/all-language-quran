@@ -595,6 +595,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "46:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "Set Beside the Dutiful Son",
+          "bn": "কৃতজ্ঞ সন্তানের পাশে রাখা ছবি"
+        },
+        "p": [
+          {
+            "en": "The verse opens wa-lladhi qala li-walidayhi: and the one who said to his parents. The conjunction ties it to the passage just before it. Ibn Kathir names the link: having described those who pray for their parents and are dutiful to them, and the success and safety that await them with Allah, He sets beside them the state of the wretched who are undutiful to their parents. As-Sa'di frames it the same way, and adds that the undutiful one's state is the worst of states.",
+            "bn": "আয়াতটি শুরু হয় ওয়াল্লাযী কালা লিওয়ালিদাইহি দিয়ে: আর যে তার মা-বাবাকে বলল। শুরুর ওয়া অক্ষরটি একে ঠিক আগের অংশের সঙ্গে জুড়ে দেয়। যোগসূত্রটা ইবন কাসীর স্পষ্ট করে বলেন। যারা মা-বাবার জন্য দোয়া করে, তাঁদের সঙ্গে সদ্ব্যবহার করে, আর আল্লাহর কাছে যাদের জন্য সাফল্য ও মুক্তি অপেক্ষা করছে, তাদের কথা বলার পর আল্লাহ তাদের পাশে রাখলেন হতভাগাদের অবস্থা, যারা মা-বাবার অবাধ্য। সা'দীও একইভাবে সাজান, আর যোগ করেন: অবাধ্য সন্তানের অবস্থাই সবচেয়ে মন্দ অবস্থা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives a reason for the weight of the charge. The son is rude to his parents at the very moment they are calling him to Islam and to good deeds, so rejecting their call is, in its words, a double sin. The next verse, 46:18, judges those who speak like this; it comes in here only where the commentators use it to settle who is meant.",
+            "bn": "অভিযোগটা কেন এত ভারী, মাআরিফুল কুরআন তার একটা কারণ দেখায়। ছেলেটি ঠিক সেই মুহূর্তে মা-বাবার সঙ্গে বেয়াদবি করছে, যখন তাঁরা তাকে ইসলাম আর নেক আমলের দিকে ডাকছেন। তাই তাঁদের ডাক ফিরিয়ে দেওয়া, তার ভাষায়, দ্বিগুণ গুনাহ। পরের আয়াত ৪৬:১৮ এমন কথা যারা বলে তাদের বিচার জানায়। এখানে সেটা আসবে কেবল যেখানে তাফসীরকারেরা কাকে বোঝানো হয়েছে তা মীমাংসায় এর আশ্রয় নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Uff, Aimed at Both",
+          "bn": "উফ, দুজনের দিকেই ছোড়া"
+        },
+        "p": [
+          {
+            "en": "Uffin lakuma: uff to you both. The commentators each render the sense in their own words. At-Tabari gives qadharan lakuma wa-natnan, filth and stench to you. The Muyassar has qubhan lakuma, ugliness to you. As-Sa'di has tabban lakuma wa-li-ma ji'tuma bihi, ruin to you and to what you have brought, which aims the word at the message as well as at the parents. Al-Baghawi calls it simply a word of dislike. Al-Qurtubi records three vocalisations, uffin, uffa and uffi, and says all are dialect forms.",
+            "bn": "উফফিন লাকুমা: উফ, তোমাদের দুজনের জন্য। তাফসীরকারেরা প্রত্যেকে নিজের ভাষায় অর্থটা বুঝিয়েছেন। তাবারীর ভাষায় কাযারান লাকুমা ওয়া নাতনান, অর্থাৎ তোমাদের জন্য নোংরা আর দুর্গন্ধ। মুয়াসসার বলে কুবহান লাকুমা, তোমাদের জন্য কদর্যতা। সা'দীর ভাষায় তাব্বান লাকুমা ওয়া লিমা জি'তুমা বিহি, ধ্বংস তোমাদের জন্য, আর তোমরা যা নিয়ে এসেছ তার জন্যও। এতে শব্দটা মা-বাবাকে ছাড়িয়ে তাঁদের আনা বার্তাকেও আঘাত করে। বাগাভী একে সোজা অপছন্দের শব্দ বলেন। কুরতুবী শব্দটির তিনটি উচ্চারণ উল্লেখ করেন, উফফিন, উফফা ও উফফি, আর বলেন সবগুলোই আরবদের বিভিন্ন গোত্রের ভাষা।"
+          },
+          {
+            "en": "As-Sa'di sets the word against what the parents were doing. They had called him to faith in Allah and the Last Day and warned him of the recompense. This, he says, is the greatest kindness that can come from parents to their child: to call him to what holds his lasting happiness and his endless success. He met it with the ugliest of answers. The weight of uff lies there. It is rudeness to two people, and it is also rudeness to the best thing those two people had to give him.",
+            "bn": "মা-বাবা তখন কী করছিলেন, সা'দী শব্দটাকে তার পাশে রেখে দেখান। তাঁরা তাকে আল্লাহ ও আখিরাতের প্রতি ঈমানের দিকে ডেকেছিলেন, প্রতিফলের ভয় দেখিয়েছিলেন। তাঁর মতে, সন্তানের প্রতি মা-বাবার পক্ষ থেকে এর চেয়ে বড় ইহসান আর হয় না: তাকে এমন জিনিসের দিকে ডাকা, যাতে আছে তার চিরস্থায়ী সৌভাগ্য আর অফুরন্ত সাফল্য। সে এর জবাব দিল সবচেয়ে কুৎসিতভাবে। উফ শব্দের ভার এখানেই। এটা দুজন মানুষের সঙ্গে বেয়াদবি তো বটেই, সেই সঙ্গে তাঁদের দেওয়ার মতো সবচেয়ে দামি জিনিসটার প্রতিও বেয়াদবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Generations Who Never Returned",
+          "bn": "যে প্রজন্মেরা আর ফেরেনি"
+        },
+        "p": [
+          {
+            "en": "His objection comes as a question: a-ta'idanini an ukhraja, do you promise me that I will be brought out? Qatada, as at-Tabari relays him, says it means being raised after death, and at-Tabari spells it out: brought out of my grave alive, after I have perished and decayed in it. Then the support for his doubt: wa-qad khalati l-quruna min qabli, when generations have passed before me. At-Tabari draws out the reasoning. Those generations perished and none was raised; had raising been real, they would have been raised already.",
+            "bn": "তার আপত্তিটা আসে প্রশ্নের আকারে: আতা'য়িদানিনী আন উখরাজা, তোমরা কি আমাকে কথা দিচ্ছ যে আমাকে বের করে আনা হবে? তাবারী কাতাদার উক্তি এনে বলেন, এর মানে মৃত্যুর পর পুনরুত্থান। তাবারী নিজে খুলে বলেন: কবরে মিশে গিয়ে, পচে যাওয়ার পর আমাকে কি জীবিত বের করা হবে? এরপর আসে তার সন্দেহের ভিত্তি: ওয়া কাদ খালাতিল কুরূনু মিন কাবলী, অথচ আমার আগে বহু প্রজন্ম গত হয়ে গেছে। তাবারী যুক্তিটা খুলে দেখান। সেই প্রজন্মগুলো ধ্বংস হয়ে গেছে, তাদের কাউকে ওঠানো হয়নি। পুনরুত্থান যদি সত্যিই হতো, তারা তো এতদিনে উঠে আসত।"
+          },
+          {
+            "en": "Ibn Kathir puts it in a line: people have passed on, and not one of them has come back to tell. As-Sa'di reads the clause another way. For him the generations passed on denial and went before on disbelief, and they are the leaders whom every ungrateful, ignorant and stubborn person follows. On the first reading the son cites the dead as proof that no one rises; on as-Sa'di's he cites them as precedent, people who said what he says. The texts fetched do not weigh one against the other.",
+            "bn": "ইবন কাসীর এক কথায় বলেন: মানুষ চলে গেছে, তাদের একজনও ফিরে এসে খবর দেয়নি। সা'দী অংশটা পড়েন অন্যভাবে। তাঁর মতে প্রজন্মগুলো গত হয়েছে অস্বীকারের উপর, কুফরির উপর থেকেই বিদায় নিয়েছে। আর প্রত্যেক অকৃতজ্ঞ, অজ্ঞ ও হঠকারী মানুষ তাদেরকেই নেতা মেনে অনুসরণ করে। প্রথম পাঠে ছেলেটি মৃতদের দেখাচ্ছে প্রমাণ হিসেবে যে কেউ ওঠে না। সা'দীর পাঠে সে তাদের দেখাচ্ছে নজির হিসেবে, যারা তার মতোই কথা বলেছিল। হাতের তাফসীরগুলো এই দুই পাঠের মধ্যে কোনোটিকে অন্যটির উপর প্রাধান্য দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Drowning Man's Cry",
+          "bn": "ডুবন্ত মানুষের আর্তনাদ"
+        },
+        "p": [
+          {
+            "en": "Wa-huma yastaghithani llah: and the two of them cry to Allah for help. At-Tabari explains it as calling out loudly to Allah about him, seeking His help that he may believe in Allah and accept the resurrection. Ibn Kathir gives the plainest sense: they ask Allah to guide him, and the Muyassar agrees. Al-Qurtubi sets out two readings: they pray to Allah for his guidance, or they seek Allah's help against his disbelief, with the preposition dropped.",
+            "bn": "ওয়া হুমা ইয়াসতাগীসানিল্লাহ: আর তাঁরা দুজন আল্লাহর কাছে সাহায্যের জন্য আর্তনাদ করেন। তাবারী বলেন, তাঁরা ছেলের ব্যাপারে আল্লাহকে উচ্চস্বরে ডাকেন, তাঁর সাহায্য চান যেন সে আল্লাহর উপর ঈমান আনে আর পুনরুত্থান মেনে নেয়। ইবন কাসীর সবচেয়ে সহজ অর্থটা দেন: তাঁরা আল্লাহর কাছে তার হিদায়াত চান। মুয়াসসারও তাই বলে। কুরতুবী দুটি ব্যাখ্যা রাখেন। হয় তাঁরা আল্লাহর কাছে তার হিদায়াতের জন্য দোয়া করেন, নয়তো তার কুফরির বিরুদ্ধে আল্লাহর সাহায্য চান, আর এখানে একটি অব্যয় উহ্য আছে।"
+          },
+          {
+            "en": "As-Sa'di gives the verb its full force. The parents spend the utmost of their effort and strive as hard as they can for his guidance, so that, out of their care for him, they cry to Allah for him as a drowning man cries out, and ask Him as one choking asks. Alongside the prayer they reproach their son, grieve over him, make the truth clear to him and bring him what proofs they can.",
+            "bn": "সা'দী ক্রিয়াটিকে তার পুরো ভার দিয়ে পড়েন। মা-বাবা তাঁদের সর্বশক্তি ঢেলে দেন, ছেলের হিদায়াতের জন্য প্রাণপণ চেষ্টা করেন। তার প্রতি দরদের টানে তাঁরা আল্লাহর কাছে এমনভাবে ফরিয়াদ করেন, যেভাবে ডুবন্ত মানুষ চিৎকার করে বাঁচার জন্য। চান এমনভাবে, যেভাবে গলায় কিছু আটকে যাওয়া একজন মানুষ চায়। দোয়ার পাশাপাশি তাঁরা ছেলেকে তিরস্কার করেন, তার জন্য কষ্ট পান, তাকে সত্যটা বুঝিয়ে বলেন, যত দলিল পারেন তুলে ধরেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Woe to You, Believe",
+          "bn": "দুর্ভোগ তোমার, ঈমান আনো"
+        },
+        "p": [
+          {
+            "en": "Their words to him are short: waylaka amin, inna wa'da llahi haqq, woe to you, believe, the promise of Allah is true. At-Tabari explains amin as: affirm Allah's promise, and accept that you will be raised after your death. The promise, he says, is His word to His creation that He will raise them from their graves and bring them out to the place of reckoning, to repay them for their deeds, and it is true beyond doubt.",
+            "bn": "ছেলের প্রতি তাঁদের কথা অল্প কয়েকটি: ওয়াইলাকা আমিন, ইন্না ওয়া'দাল্লাহি হাক্ক, দুর্ভোগ তোমার, ঈমান আনো, আল্লাহর ওয়াদা সত্য। তাবারী আমিন শব্দের ব্যাখ্যা দেন এভাবে: আল্লাহর ওয়াদাকে সত্য বলে মেনে নাও, স্বীকার করো যে মৃত্যুর পর তোমাকে ওঠানো হবে। তাঁর মতে ওয়াদাটি হলো সৃষ্টির প্রতি আল্লাহর কথা: তিনি তাদের কবর থেকে উঠিয়ে হিসাবের জায়গায় হাজির করবেন, আমলের প্রতিফল দেবেন। এ ওয়াদা সত্য, এতে কোনো সন্দেহ নেই।"
+          },
+          {
+            "en": "Then fa-yaqulu, and he says: ma hadha illa asatiru l-awwalin, this is nothing but the tales of the ancients. At-Tabari reads it as what earlier people wrote down of falsehoods, which the parents came upon and believed; al-Qurtubi as their stories and writings that have no basis. As-Sa'di answers the charge: everyone knows that Muhammad ﷺ was unlettered, neither writing nor reading, and learned from no one, so where would he have learned it? Both at-Tabari and as-Sa'di say the counsel only increased the son in insolence.",
+            "bn": "তারপর ফা-ইয়াকূলু, সে বলে: মা হাযা ইল্লা আসাতীরুল আওয়ালীন, এ তো আগের লোকদের গল্প ছাড়া কিছু নয়। তাবারীর ব্যাখ্যায় এর মানে, পূর্ববর্তী লোকেরা যেসব মিথ্যা কথা লিখে রেখে গেছে, মা-বাবা সেগুলো হাতে পেয়ে বিশ্বাস করে বসেছেন। কুরতুবীর মতে, তাদের এমন সব কাহিনি আর লেখা, যার কোনো ভিত্তি নেই। সা'দী অভিযোগটার জবাব দেন। সবাই জানে, মুহাম্মাদ ﷺ ছিলেন উম্মী। তিনি লিখতে বা পড়তে জানতেন না, কারও কাছে শেখেননি। তাহলে এ কথা তিনি শিখলেন কোথা থেকে? তাবারী ও সা'দী দুজনেই বলেন, এত উপদেশ ছেলেটির ঔদ্ধত্য কেবল বাড়িয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names Given, Names Doubted",
+          "bn": "নাম এল, নাম নিয়ে সংশয়ও"
+        },
+        "p": [
+          {
+            "en": "Some early reports tie the verse to a particular person, and they disagree among themselves. At-Tabari relays from Ibn 'Abbas that the one who said this was a son of Abu Bakr (RA). Ibn Kathir cites that report through al-'Awfi and comments that its soundness is open to question. Mujahid, by Ibn Jurayj's report, named 'Abd Allah ibn Abi Bakr, and al-Qurtubi lists Ibn 'Abbas, as-Suddi and Abu al-'Aliya with him for that name. Qatada and as-Suddi, in al-Qurtubi's list, named 'Abd ar-Rahman ibn Abi Bakr, before his Islam.",
+            "bn": "প্রথম যুগের কিছু বর্ণনা আয়াতটিকে নির্দিষ্ট একজন মানুষের সঙ্গে জুড়ে দেয়, আর সেগুলো নিজেরাই একে অন্যের সঙ্গে মেলে না। তাবারী ইবন আব্বাস (রাঃ) থেকে বর্ণনা আনেন যে এ কথা বলেছিল আবু বকর (রাঃ)-এর এক ছেলে। ইবন কাসীর বর্ণনাটি আওফীর সূত্রে উল্লেখ করে মন্তব্য করেন, এর বিশুদ্ধতা প্রশ্নসাপেক্ষ। ইবন জুরাইজের বর্ণনায় মুজাহিদ নাম নিয়েছেন আবদুল্লাহ ইবন আবী বকরের। কুরতুবী এই নামের পক্ষে মুজাহিদের সঙ্গে ইবন আব্বাস, সুদ্দী ও আবুল আলিয়াকেও গণ্য করেন। আবার কুরতুবীর তালিকায় কাতাদা ও সুদ্দী নাম নিয়েছেন আবদুর রহমান ইবন আবী বকরের, তাঁর ইসলাম গ্রহণের আগের সময়ের কথা বলে।"
+          },
+          {
+            "en": "Against these stands a reading of the verse as a description, not a name. Al-Hasan, in at-Tabari's report, says it is the disbelieving, sinful one, undutiful to his parents, who denies the resurrection; Qatada says Allah here describes an evil servant, undutiful and sinful. At-Tabari's own opening takes it the same way. Ibn Kathir says the verse is general, covering anyone who says this, and calls the claim about 'Abd ar-Rahman weak, because he later accepted Islam, his Islam was excellent, and he was among the best people of his time.",
+            "bn": "এর বিপরীতে আছে আয়াতটিকে নাম হিসেবে নয়, একটি বৈশিষ্ট্যের বর্ণনা হিসেবে পড়ার মত। তাবারীর বর্ণনায় হাসান বলেন, এ হলো সেই কাফির, পাপাচারী, মা-বাবার অবাধ্য লোক, যে পুনরুত্থান অস্বীকার করে। কাতাদা বলেন, আল্লাহ এখানে এক মন্দ বান্দার পরিচয় দিচ্ছেন, যে মা-বাবার অবাধ্য ও পাপাচারী। তাবারীর নিজের শুরুর বাক্যও একই পথে যায়। ইবন কাসীর বলেন, আয়াতটি ব্যাপক, যে-ই এ কথা বলবে তার উপরই খাটে। আবদুর রহমান (রাঃ) সম্পর্কে দাবিটিকে তিনি দুর্বল বলেন, কারণ পরে তিনি ইসলাম গ্রহণ করেন, তাঁর ইসলাম ছিল সুন্দর, আর তিনি ছিলেন তাঁর যুগের শ্রেষ্ঠ মানুষদের একজন।"
+          },
+          {
+            "en": "Al-Baghawi lists the same names and then states that the sound view is that the verse came down about a disbeliever undutiful to his parents, the view of al-Hasan and Qatada. Ma'arif al-Qur'an, citing Ibn Kathir, says the verse is general in sense, and adds that no correct narration ties it to a particular person. As-Sa'di and the Muyassar name no one at all. Most of the commentators fetched for this verse, then, read it as a description of a type; the naming survives in their pages as a report they relay, not as a fact they assert.",
+            "bn": "বাগাভী একই নামগুলো উল্লেখ করে তারপর বলেন, সঠিক মত হলো আয়াতটি নাযিল হয়েছে মা-বাবার অবাধ্য এক কাফির সম্পর্কে, আর এ মত হাসান ও কাতাদার। মাআরিফুল কুরআন ইবন কাসীরের বরাতে বলে, আয়াতটির অর্থ ব্যাপক, আর যোগ করে যে কোনো সহীহ বর্ণনা একে নির্দিষ্ট কারও সঙ্গে জোড়ে না। সা'দী ও মুয়াসসার কারও নামই নেন না। তাই এ আয়াতের জন্য সংগৃহীত তাফসীরকারদের বেশির ভাগ একে একটি ধরনের মানুষের বর্ণনা হিসেবে পড়েন। নামের কথাটা তাঁদের লেখায় টিকে আছে বর্ণনা হিসেবে, যা তাঁরা উদ্ধৃত করেন, তাঁদের নিজেদের দাবি হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Behind the Screen",
+          "bn": "পর্দার আড়াল থেকে জবাব"
+        },
+        "p": [
+          {
+            "en": "The report on this naming checked here against a hadith collection is in Sahih al-Bukhari, number 4827, and it records the claim being made in public and answered at once. Its quranx English begins: Narrated Yusuf bin Mahak: Marwan had been appointed as the governor of Hijaz by Muawiya. He delivered a sermon and mentioned Yazid bin Muawiya so that the people might take the oath of allegiance to him as the successor of his father (Muawiya). Then `Abdur Rahman bin Abu Bakr told him something whereupon Marwan ordered that he be arrested.",
+            "bn": "এই নাম জুড়ে দেওয়া নিয়ে যে বর্ণনাটি এখানে মূল হাদীসগ্রন্থের সঙ্গে মিলিয়ে দেখা হয়েছে, সেটি আছে সহীহ বুখারীতে, নম্বর ৪৮২৭। তাতে দেখা যায়, দাবিটা প্রকাশ্যে তোলা হয়েছিল, আর সঙ্গে সঙ্গেই তার জবাবও এসেছিল। ইউসুফ ইবন মাহাক বর্ণনা করেন: মুয়াবিয়া (রাঃ) মারওয়ানকে হিজাযের গভর্নর নিযুক্ত করেছিলেন। মারওয়ান খুতবা দিলেন, তাতে ইয়াযীদ ইবন মুয়াবিয়ার কথা তুললেন, যাতে লোকেরা তাকে পিতার উত্তরসূরি হিসেবে বাইআত দেয়। তখন আবদুর রহমান ইবন আবী বকর (রাঃ) তাঁকে কিছু একটা বললেন। এতে মারওয়ান তাঁকে গ্রেপ্তারের হুকুম দিলেন।"
+          },
+          {
+            "en": "The narration continues: But `Abdur-Rahman entered `Aisha's house and they could not arrest him. Marwan said, \"It is he (`AbdurRahman) about whom Allah revealed this Verse:-- 'And the one who says to his parents: 'Fie on you! Do you hold out the promise to me..?'\" On that, `Aisha said from behind a screen, \"Allah did not reveal anything from the Qur'an about us except what was connected with the declaration of my innocence (of the slander).\" Al-Bukhari placed it in his Sahih, his collection of sound reports.",
+            "bn": "বর্ণনা এগিয়ে চলে: কিন্তু আবদুর রহমান (রাঃ) আয়েশা (রাঃ)-এর ঘরে ঢুকে পড়লেন, তারা তাঁকে ধরতে পারল না। মারওয়ান বললেন, এ-ই সেই একজন, যার সম্পর্কে আল্লাহ এ আয়াত নাযিল করেছেন: আর যে তার মা-বাবাকে বলে, উফ তোমাদের জন্য! তোমরা কি আমাকে প্রতিশ্রুতি দাও...? তখন আয়েশা (রাঃ) পর্দার আড়াল থেকে বললেন, আল্লাহ আমাদের সম্পর্কে কুরআনের কিছুই নাযিল করেননি, কেবল অপবাদ থেকে আমার নির্দোষ হওয়ার ঘোষণাটুকু ছাড়া। বুখারী এটি রেখেছেন তাঁর সহীহ গ্রন্থে, যা বিশুদ্ধ বর্ণনার সংকলন।"
+          },
+          {
+            "en": "Read the report for what it holds. It records Marwan's claim, made in a political quarrel, and 'Aishah's (RA) denial of it, spoken from behind a screen in her own house. It records nothing from the Prophet ﷺ about whom the verse concerns. Ibn Kathir relays the same quarrel by two further routes, one through Ibn Abi Hatim and one through an-Nasa'i, and in each she rejects Marwan's claim; those wordings are not quoted here, because they were not checked against the collections themselves.",
+            "bn": "বর্ণনাটি ঠিক যা বলে, ততটুকুই পড়া দরকার। এতে আছে মারওয়ানের দাবি, যা তোলা হয়েছিল এক রাজনৈতিক বিবাদের মাঝে, আর আছে নিজের ঘরে পর্দার আড়াল থেকে আয়েশা (রাঃ)-এর অস্বীকার। আয়াতটি কার সম্পর্কে, সে বিষয়ে নবী ﷺ-এর কোনো কথা এতে নেই। ইবন কাসীর একই বিবাদ আরও দুটি সূত্রে আনেন, একটি ইবন আবী হাতিমের মাধ্যমে, অন্যটি নাসায়ীর মাধ্যমে। প্রতিটিতেই আয়েশা (রাঃ) মারওয়ানের দাবি নাকচ করেন। সেসব বর্ণনার ভাষা এখানে উদ্ধৃত হলো না, কারণ মূল হাদীসগ্রন্থের সঙ্গে সেগুলো মিলিয়ে দেখা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Plural That Follows",
+          "bn": "পরের আয়াতের বহুবচন"
+        },
+        "p": [
+          {
+            "en": "The commentators also argue from the next verse. Al-Qurtubi relays az-Zajjaj: how can it be said that this came down about 'Abd ar-Rahman before his Islam, when Allah says in 46:18 that the word has come due upon those people, meaning punishment, which requires that they never believe, and 'Abd ar-Rahman was among the most excellent believers? So the correct view, he concludes, is a disbelieving servant undutiful to his parents. Al-Baghawi cites az-Zajjaj too. Ibn Kathir adds that 'those', a plural, following 'the one who', shows a description of a type.",
+            "bn": "তাফসীরকারেরা পরের আয়াত থেকেও যুক্তি টানেন। কুরতুবী যাজ্জাজের কথা আনেন: কীভাবে বলা যায় যে এটি আবদুর রহমান (রাঃ)-এর ইসলাম গ্রহণের আগে তাঁর সম্পর্কে নাযিল হয়েছে? অথচ ৪৬:১৮ আয়াতে আল্লাহ বলছেন, ওই লোকদের উপর কথা অবধারিত হয়ে গেছে, মানে শাস্তি। এর অনিবার্য দাবি হলো তারা কখনো ঈমান আনবে না। আর আবদুর রহমান ছিলেন শ্রেষ্ঠ মুমিনদের একজন। তাই যাজ্জাজের সিদ্ধান্ত, সঠিক মত হলো এটি মা-বাবার অবাধ্য এক কাফির বান্দার কথা। বাগাভীও যাজ্জাজের এ যুক্তি উল্লেখ করেন। ইবন কাসীর যোগ করেন, শুরুতে একবচনে 'যে লোক' বলার পর পরের আয়াতে বহুবচনে 'ওরা' আসায় বোঝা যায়, এটা একটা ধরনের মানুষের বর্ণনা।"
+          },
+          {
+            "en": "Not everyone drew that conclusion. Al-Qurtubi relays al-Mahdawi: whoever applies the verse to 'Abd ar-Rahman takes the words of 46:18 to mean whoever held the belief described, so that the start of the passage is specific and its end general. Al-Qurtubi's own note, opened with qultu, I say, leans this way. He points to a report on 'Abd ar-Rahman under 6:71 which, in his view, indicates the verse came down about him while he was a disbeliever; and given his later Islam and merit, it is settled that 46:18 does not mean him. The disagreement is real, and it is kept here as one.",
+            "bn": "সবাই অবশ্য এই সিদ্ধান্তে পৌঁছাননি। কুরতুবী মাহদাভীর কথা আনেন: যাঁরা আয়াতটিকে আবদুর রহমানের উপর প্রয়োগ করেন, তাঁরা ৪৬:১৮ আয়াতের কথাকে ধরেন সেই সব লোকের ব্যাপারে, যারা উল্লিখিত বিশ্বাস পোষণ করত। ফলে অংশটির শুরু নির্দিষ্ট, শেষ ব্যাপক। কুরতুবী কুলতু, আমি বলি, দিয়ে যে নিজস্ব মন্তব্য করেন, তা এদিকেই ঝোঁকে। তিনি ৬:৭১ আয়াতের আলোচনায় আবদুর রহমান সম্পর্কে একটি বর্ণনার দিকে ইঙ্গিত করেন। তাঁর মতে সেটি নির্দেশ করে যে আয়াতটি তাঁর কাফির থাকাকালীন অবস্থা নিয়ে নাযিল হয়েছিল। আর পরে তাঁর ইসলাম ও মর্যাদার কারণে স্থির হয়ে যায় যে ৪৬:১৮ তাঁকে বোঝায় না। মতভেদটা তাই বাস্তব, আর এখানে তা মতভেদ হিসেবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "For Parents Still Praying",
+          "bn": "যে মা-বাবা এখনো দোয়া করেন"
+        },
+        "p": [
+          {
+            "en": "The verse does not fault these parents. At-Tabari describes them as striving in their counsel and their call. What it records is a son who would not answer. Ibn Kathir and as-Sa'di set the passage beside 46:15, where a son grown to maturity thanks Allah for His favour on him and on his parents; here a son meets his parents with uff. For a parent whose child has turned away, the verse shows what these two kept doing: plain words to the child, and a cry to Allah.",
+            "bn": "আয়াতটি এই মা-বাবাকে দোষ দেয় না। তাবারী বলেন, তাঁরা উপদেশ আর দাওয়াতে প্রাণপণ চেষ্টা করছিলেন। আয়াত যা ধরে রাখে, তা হলো এমন এক ছেলে, যে সাড়া দেয়নি। ইবন কাসীর ও সা'দী অংশটিকে ৪৬:১৫ আয়াতের পাশে রাখেন। সেখানে পূর্ণ বয়সে পৌঁছে এক ছেলে নিজের ও মা-বাবার উপর আল্লাহর নিয়ামতের শোকর আদায় করে। আর এখানে এক ছেলে মা-বাবাকে বলে উফ। যে মা-বাবার সন্তান মুখ ফিরিয়ে নিয়েছে, তাঁদের জন্য আয়াতটি দেখায় এই দুজন কী করে যাচ্ছিলেন: সন্তানকে সোজা কথা বলা, আর আল্লাহর কাছে ফরিয়াদ।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a son who mocks his parents' call and denies the resurrection. It licenses nothing against any living person. It gives no one the right to point at a particular child, a family, or a Companion of the Prophet ﷺ whose name was once attached to it and say the verse is about them, and it casts no blame on parents whose child has not yet believed. Its use is as a mirror: for the child, the first word; for the parent, the prayer that does not stop.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে: এমন এক ছেলে, যে মা-বাবার দাওয়াত নিয়ে ঠাট্টা করে আর পুনরুত্থান অস্বীকার করে। জীবিত কোনো মানুষের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। নির্দিষ্ট কোনো সন্তান, কোনো পরিবার, কিংবা নবী ﷺ-এর কোনো সাহাবী, যাঁর নাম একসময় এর সঙ্গে জুড়ে দেওয়া হয়েছিল, কারও দিকে আঙুল তুলে বলার অধিকার এটি কাউকে দেয় না যে আয়াতটি তাঁকে নিয়েই। যে মা-বাবার সন্তান এখনো ঈমান আনেনি, তাঁদের উপরও এ আয়াত কোনো দোষ চাপায় না। এর কাজ আয়নার মতো। সন্তানের জন্য প্রশ্ন, মুখের প্রথম শব্দটা কী। মা-বাবার জন্য সেই দোয়া, যা থামে না।"
+          }
+        ]
+      }
+    ]
+  },
   "46:21": {
     "sections": [
       {
