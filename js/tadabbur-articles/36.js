@@ -439,6 +439,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:16": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words Against a Town",
+          "bn": "গোটা জনপদের সামনে ছয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "The previous verse gave the town's whole case in a single breath. You are nothing but human beings like us, the Most Merciful has sent down nothing, and you are only lying (36:15). This verse is the reply, and in Arabic it takes six words: qālū rabbunā ya'lamu innā ilaykum la-mursalūn, they said, our Lord knows that we are truly sent to you. Ibn Kathir and as-Sa'di both name the speakers as the three messengers together.",
+            "bn": "আগের আয়াতে জনপদের লোকেরা এক নিঃশ্বাসে তাদের পুরো অভিযোগ বলে দিয়েছে: তোমরা তো আমাদের মতোই মানুষ, দয়াময় কিছুই নাযিল করেননি, তোমরা শুধু মিথ্যা বলছ (৩৬:১৫)। এ আয়াত তারই জবাব। আরবিতে জবাবটা ছয়টি শব্দের: কালূ রাব্বুনা ইয়া'লামু ইন্না ইলাইকুম লামুরসালূন। তাঁরা বললেন, আমাদের রব জানেন, আমরা অবশ্যই তোমাদের কাছে প্রেরিত। ইবন কাসীর ও সা'দী দুজনেই বলেন, কথাটা বলেছেন তিনজন রাসূল একসঙ্গে।"
+          },
+          {
+            "en": "Two of the commentators each add a few words that fill out the sentence. At-Tabari spells out what the claim covers: we are sent to you in what we have called you to, and we are truthful. Al-Qurtubi adds the condition under which it is said: even if you deny us. Put together, the claim concerns the message itself, and it does not wait on the town's acceptance.",
+            "bn": "দুজন মুফাসসির কয়েকটি করে শব্দ যোগ করেন, তাতে বাক্যটা পূর্ণ হয়। তাবারী খুলে বলেন দাবিটা কী নিয়ে: যে বিষয়ে আমরা তোমাদের ডেকেছি, তাতে আমরা তোমাদের কাছে প্রেরিত, আর আমরা সত্যবাদী। কুরতুবী জুড়ে দেন কোন অবস্থায় কথাটা বলা হচ্ছে: তোমরা আমাদের মিথ্যাবাদী বললেও। দুটো মিলিয়ে দেখলে দাবিটা বার্তা নিয়েই, আর জনপদ মেনে নেবে কি না, তার অপেক্ষায় দাবিটা বসে থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said Twice, Said Harder",
+          "bn": "দ্বিতীয়বার, আরও জোর দিয়ে"
+        },
+        "p": [
+          {
+            "en": "Set this verse beside 36:14. There the messengers' first words were innā ilaykum mursalūn, we are sent to you, with the single emphasis of innā. Here the same words return with a lām fastened to the last of them, la-mursalūn, truly sent, and with rabbunā ya'lamu, our Lord knows, placed in front of everything. Al-Jalalayn explains both additions. The phrase our Lord knows, it says, functions like an oath, and the emphasis is intensified by this oath and by the lām added to what had earlier been simply mursalūn.",
+            "bn": "এ আয়াতটিকে ৩৬:১৪-এর পাশে রাখুন। সেখানে রাসূলদের প্রথম কথা ছিল ইন্না ইলাইকুম মুরসালূন, আমরা তোমাদের কাছে প্রেরিত। জোর ছিল কেবল একটি, ইন্না। এখানে একই কথা ফিরে এসেছে, তবে শেষ শব্দে একটি লাম জুড়ে: লামুরসালূন, অবশ্যই প্রেরিত। আর সবকিছুর আগে বসেছে রাব্বুনা ইয়া'লামু, আমাদের রব জানেন। জালালাইন দুটো সংযোজনেরই ব্যাখ্যা দেয়। তার ভাষায়, আমাদের রব জানেন কথাটা কসমের মতো কাজ করে। এই কসম আর আগের সাদামাটা মুরসালূন শব্দে যোগ হওয়া লাম, দুটো মিলে জোর আরও বেড়ে যায়।"
+          },
+          {
+            "en": "Al-Jalalayn also gives the reason: the stronger wording answers their stronger denial. The text bears this out. In 36:14 the Qur'an reports only that the town denied the first two. By 36:15 the denial has become three clauses, closing with in antum illā takdhibūn, you are only lying. The answer rises to meet it. The Muyassar's paraphrase opens with one word for the manner of the reply: the messengers said it mu'akkidīn, stating it with emphasis, our Lord who sent us knows that we are sent to you.",
+            "bn": "কারণটাও জালালাইন বলে দেয়: অস্বীকার যত কড়া হয়েছে, জবাবের ভাষাও তত দৃঢ় হয়েছে। আয়াতগুলোতেও তা দেখা যায়। ৩৬:১৪-এ কুরআন কেবল জানায়, জনপদ প্রথম দুজনকে মিথ্যাবাদী বলেছিল। ৩৬:১৫-এ এসে সেই অস্বীকার তিনটি বাক্যে দাঁড়ায়, আর শেষ হয় ইন আনতুম ইল্লা তাকযিবূন দিয়ে, তোমরা শুধু মিথ্যাই বলছ। জবাবও উঠে আসে তার সমান উচ্চতায়। মুয়াসসার জবাবের ধরনটা একটি শব্দে বলে দেয়: রাসূলরা কথাটা বলেছিলেন মুআক্কিদীন, অর্থাৎ জোর দিয়ে। আমাদের রব, যিনি আমাদের পাঠিয়েছেন, তিনি জানেন আমরা তোমাদের কাছে প্রেরিত।"
+          },
+          {
+            "en": "Why should our Lord knows carry the weight of an oath? Ibn Kathir's note points that way, for he sets beside the verse 29:52: say, Allah suffices as a witness between me and you; He knows what is in the heavens and the earth. To say He knows, of a claim that only He can confirm, is to call Him to witness for it. That is why the sentence is so short and so heavy. It is a sentence that can only be said truthfully, and the messengers say it to people who have just called them liars.",
+            "bn": "আমাদের রব জানেন কথাটা কেন কসমের ভার বহন করবে? ইবন কাসীরের ব্যাখ্যা সেদিকেই ইঙ্গিত করে। তিনি এ আয়াতের পাশে রাখেন ২৯:৫২: বলো, আমার ও তোমাদের মাঝে সাক্ষী হিসেবে আল্লাহই যথেষ্ট, আসমান ও জমিনে যা আছে সবই তিনি জানেন। যে দাবির সত্যতা কেবল তিনিই নিশ্চিত করতে পারেন, সে দাবি সম্পর্কে তিনি জানেন বলা মানে তাঁকে সাক্ষী মানা। তাই বাক্যটা এত ছোট, অথচ এত ভারী। এ কথা সত্য না হলে মুখে আনা যায় না। আর রাসূলরা তা বলছেন এমন লোকদের সামনে, যারা এইমাত্র তাঁদের মিথ্যাবাদী বলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If We Had Lied Against Him",
+          "bn": "তাঁর নামে মিথ্যা বললে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws out the argument folded inside the reply. In his paraphrase the messengers say: Allah knows that we are His messengers to you. Had we been lying against Him, He would have taken vengeance on us with the severest vengeance. But He will strengthen us and give us victory over you, and you will come to know whose is the final outcome of the abode. It is staked on what Allah would do to anyone who falsely spoke in His name.",
+            "bn": "জবাবের ভেতরে যে যুক্তি ভাঁজ হয়ে আছে, ইবন কাসীর তা খুলে দেখান। তাঁর ব্যাখ্যায় রাসূলরা বলছেন: আল্লাহ জানেন আমরা তোমাদের কাছে তাঁর রাসূল। আমরা যদি তাঁর নামে মিথ্যা বলতাম, তিনি আমাদের উপর কঠিনতম প্রতিশোধ নিতেন। বরং তিনি আমাদের শক্তি দেবেন, তোমাদের বিরুদ্ধে আমাদের বিজয়ী করবেন। আর তোমরা জানতে পারবে শেষ পরিণাম কার। দাবিটা বাঁধা পড়েছে এই সত্যের সঙ্গে যে, আল্লাহর নামে কেউ মিথ্যা বললে আল্লাহ তার সঙ্গে কী করেন।"
+          },
+          {
+            "en": "As-Sa'di gives the same reasoning from the other side of time. Our Lord knows that we are sent to you, he paraphrases, and if we were liars, Allah would have shown our disgrace and hastened punishment upon us. Ibn Kathir looks forward, to the victory still to come and the end the town will see; as-Sa'di looks at what would already have happened to liars and has not. The two do not disagree. Both read the messengers as offering their own safety before Allah as part of the evidence.",
+            "bn": "সা'দী একই যুক্তি দেন সময়ের অন্য প্রান্ত থেকে। তাঁর ব্যাখ্যায়: আমাদের রব জানেন আমরা তোমাদের কাছে প্রেরিত। আমরা মিথ্যাবাদী হলে আল্লাহ আমাদের লাঞ্ছনা প্রকাশ করে দিতেন, আর দ্রুত আমাদের শাস্তি দিতেন। ইবন কাসীর তাকান সামনের দিকে, যে বিজয় এখনো আসেনি আর যে পরিণাম জনপদ দেখবে তার দিকে। সা'দী তাকান সেই দিকে, মিথ্যাবাদীর সঙ্গে যা এতক্ষণে ঘটে যাওয়ার কথা ছিল অথচ ঘটেনি। দুজনের মধ্যে কোনো বিরোধ নেই। দুজনেই বলেন, আল্লাহর সামনে নিজেদের নিরাপদ থাকাকেই রাসূলরা প্রমাণের অংশ হিসেবে পেশ করছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Handing the Case Upward",
+          "bn": "বিচার তুলে দেওয়া রবের হাতে"
+        },
+        "p": [
+          {
+            "en": "Notice what the reply leaves out. The messengers do not dispute that they are human; the town said so, and it was true. They do not plead, bargain or threaten. They place the question before the One who already knows the answer, and then, in 36:17, they name the limit of their task: the clear delivery of the message. The Muyassar reads the two verses as one statement and finishes the thought: we have no power over your guidance, for guidance is in the hand of Allah alone.",
+            "bn": "জবাবে কী নেই, সেটা খেয়াল করুন। তাঁরা যে মানুষ, রাসূলরা তা অস্বীকার করেননি। জনপদ সে কথা বলেছিল, আর কথাটা সত্যই ছিল। তাঁরা অনুনয় করেননি, দর কষাকষি করেননি, হুমকিও দেননি। প্রশ্নটা তাঁরা তুলে দিয়েছেন তাঁর সামনে, যিনি উত্তরটা আগে থেকেই জানেন। তারপর ৩৬:১৭-এ নিজেদের দায়িত্বের সীমা বলে দিয়েছেন: বার্তা স্পষ্ট করে পৌঁছে দেওয়া। মুয়াসসার দুটি আয়াতকে একটি বক্তব্য ধরে চিন্তাটা শেষ করে: তোমাদের হেদায়াতের মালিক আমরা নই, হেদায়াত কেবল আল্লাহর হাতে।"
+          },
+          {
+            "en": "Anyone who calls others to good will sooner or later be told that his sincerity is a pretence. Do not need the crowd's belief before you can be sure of your task, and do not soften the message to buy that belief. Rest the matter on your Lord's knowledge and keep delivering it clearly. And because our Lord knows carries the force of an oath, it is not a phrase for propping up a doubtful claim. It belongs only to what is true.",
+            "bn": "যে মানুষ অন্যকে ভালোর দিকে ডাকে, একদিন না একদিন তাকে শুনতে হয়, তার আন্তরিকতা নিছক ভান। নিজের দায়িত্ব নিয়ে নিশ্চিত হতে ভিড়ের বিশ্বাসের অপেক্ষা করবেন না। সেই বিশ্বাস কিনতে বার্তাকে নরমও করবেন না। বিষয়টা আপনার রবের জানার উপর ছেড়ে দিন, আর স্পষ্ট করে পৌঁছে দিতে থাকুন। আর আমাদের রব জানেন কথাটায় যেহেতু কসমের ভার আছে, তাই সন্দেহজনক দাবিকে খাড়া রাখার জন্য এটা বলার কথা নয়। এ কথা কেবল সত্যের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent by Whom?",
+          "bn": "কে পাঠিয়েছিলেন তাঁদের?"
+        },
+        "p": [
+          {
+            "en": "Who were these messengers, and who sent them? At-Tabari states plainly that the people of knowledge differed. Some said they were messengers of 'Isa son of Maryam (AS), and that 'Isa was the one who sent them. He gives Qatadah's report: it was mentioned to us that 'Isa son of Maryam sent two men of the disciples to Antioch, a city of the Rum; they denied them, so he strengthened them with a third. Others said they were messengers whom Allah Himself sent, and at-Tabari gives that view through Ibn Ishaq.",
+            "bn": "এ রাসূলরা কারা, আর কে তাঁদের পাঠিয়েছিলেন? তাবারী সোজাসুজি বলেন, আলেমরা এ নিয়ে মতভেদ করেছেন। কেউ বলেছেন, তাঁরা ছিলেন মারইয়ামপুত্র ঈসা (আঃ)-এর দূত, আর ঈসা (আঃ)-ই তাঁদের পাঠিয়েছিলেন। তাবারী কাতাদার বর্ণনা আনেন: আমাদের কাছে উল্লেখ করা হয়েছে যে মারইয়ামপুত্র ঈসা হাওয়ারীদের মধ্য থেকে দুজনকে আন্তাকিয়ায় পাঠান। আন্তাকিয়া রোমের একটি শহর। লোকেরা তাঁদের মিথ্যাবাদী বলে, তখন তিনি তৃতীয় একজন দিয়ে তাঁদের শক্তি বাড়ান। অন্যরা বলেছেন, তাঁরা ছিলেন আল্লাহর নিজের পাঠানো রাসূল। এ মতটি তাবারী আনেন ইবন ইসহাকের সূত্রে।"
+          },
+          {
+            "en": "Al-Qurtubi records both views on 36:13, each introduced with it is said: messengers from Allah in the first instance, or messengers whom 'Isa sent to Antioch to call to Allah. On 36:14 he answers the obvious question about the wording When We sent to them two. The Lord ascribed the sending to Himself, he says, because 'Isa sent them by the Lord's command, at the time 'Isa was raised to heaven. Al-Baghawi calls them messengers of 'Isa on 36:13 and gives the same reason on 36:14.",
+            "bn": "কুরতুবী ৩৬:১৩-এ দুটো মতই উল্লেখ করেন, দুটোই 'বলা হয়' দিয়ে শুরু করে। একটি হলো, তাঁরা সরাসরি আল্লাহর পাঠানো রাসূল। অন্যটি হলো, ঈসা (আঃ) তাঁদের আল্লাহর দিকে ডাকতে আন্তাকিয়ায় পাঠিয়েছিলেন। ৩৬:১৪-এ তিনি একটি স্বাভাবিক প্রশ্নের জবাব দেন। আয়াতে তো বলা হয়েছে, যখন আমি তাদের কাছে দুজনকে পাঠালাম। কুরতুবী বলেন, রব পাঠানোর কাজটা নিজের দিকে সম্বন্ধ করেছেন, কারণ ঈসা (আঃ) তাঁদের পাঠিয়েছিলেন রবের আদেশে। আর তা ছিল ঈসা (আঃ)-কে আসমানে তুলে নেওয়ার সময়। বাগাভী ৩৬:১৩-এ তাঁদের ঈসা (আঃ)-এর দূত বলেন, আর ৩৬:১৪-এ একই কারণ দেখান।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets out the two sides. In the Qur'an, it notes, rasul and mursal are generally used for a prophet, and here Allah ascribes the sending to Himself, which points to prophets. Against this it gives Qatadah's view that mursalun is used here not in its technical sense but for bearers of a message: disciples sent under the order of 'Isa (AS), whose sending, as a messenger of Allah, counts as Allah's. Ma'arif says Ibn Kathir took the first view and al-Qurtubi and others the second. Its own leaning is that the apparent sense points to prophets, and Allah knows best.",
+            "bn": "মাআরিফুল কুরআন দুই পক্ষকে সাজিয়ে দেখায়। সেখানে বলা হয়েছে, কুরআনে রাসূল ও মুরসাল শব্দ সাধারণত নবীর জন্যই ব্যবহৃত হয়। আর এখানে আল্লাহ পাঠানোর কাজটা নিজের দিকে সম্বন্ধ করেছেন, এতে বোঝা যায় তাঁরা নবী ছিলেন। এর বিপরীতে আসে কাতাদার মত: এখানে মুরসালূন শব্দটি পারিভাষিক অর্থে নয়, বার্তাবাহক অর্থে এসেছে। তাঁরা ছিলেন হাওয়ারী, ঈসা (আঃ)-এর আদেশে পাঠানো। আর ঈসা (আঃ) নিজে আল্লাহর রাসূল বলে তাঁর পাঠানোকেই আল্লাহর পাঠানো গণ্য করা হয়েছে। মাআরিফের ভাষ্যে, ইবন কাসীর প্রথম মত নিয়েছেন, কুরতুবী ও অন্যরা দ্বিতীয়টি। মাআরিফের নিজের ঝোঁক হলো, আয়াতের বাহ্যিক অর্থে তাঁরা নবী। আর আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibn Kathir Weighs the Wording",
+          "bn": "শব্দ ধরে ইবন কাসীরের বিচার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir returns to the question after the story ends, in his comment on 36:29, and this verse is his first piece of evidence. Many of the early generations, he says, held that the town was Antioch and that the three were messengers from the Messiah (AS), as Qatadah and others stated, and this deserves scrutiny. First, the apparent sense of the story is that they were Allah's messengers, and he quotes 36:14 through to our Lord knows that we are sent to you. Had they been disciples, they would have used words suited to envoys of the Messiah.",
+            "bn": "কাহিনি শেষ হওয়ার পর ৩৬:২৯-এর ব্যাখ্যায় ইবন কাসীর প্রশ্নটায় ফিরে আসেন, আর তাঁর প্রথম প্রমাণই এই আয়াত। তিনি বলেন, পূর্বসূরিদের অনেকে বলেছেন জনপদটি আন্তাকিয়া, আর তিনজন ছিলেন মসীহ (আঃ)-এর পক্ষ থেকে আসা দূত, যেমনটা কাতাদা ও অন্যরা স্পষ্ট বলেছেন। তাঁর মতে কথাটা ভেবে দেখার মতো। প্রথমত, কাহিনির বাহ্যিক অর্থ বলে তাঁরা ছিলেন আল্লাহর রাসূল। প্রমাণ হিসেবে তিনি ৩৬:১৪ থেকে উদ্ধৃত করে যান আমাদের রব জানেন, আমরা তোমাদের কাছে প্রেরিত পর্যন্ত। তাঁরা হাওয়ারী হলে এমন কথা বলতেন, যাতে বোঝা যেত তাঁরা মসীহের কাছ থেকে এসেছেন।"
+          },
+          {
+            "en": "He adds that messengers of the Messiah would not have been met with you are only human like us. His second point is historical: the people of Antioch believed in the Messiah's envoys, and it was the first city to believe in him, whereas this town denied its messengers and was destroyed. His third is that the disciples came after the Torah, and, as he reports, Abu Sa'id al-Khudri (RA) and others of the early generations said that after the Torah Allah did not destroy a whole nation by a punishment sent upon it.",
+            "bn": "তিনি আরও বলেন, মসীহের দূতদের সামনে তোমরা তো আমাদের মতোই মানুষ, এ কথা বলা হতো না। তাঁর দ্বিতীয় যুক্তি ইতিহাসের। আন্তাকিয়ার লোকেরা মসীহের দূতদের উপর ঈমান এনেছিল, আর এটাই ছিল প্রথম শহর যা তাঁর উপর ঈমান আনে। অথচ এ জনপদ তার রাসূলদের অস্বীকার করেছিল, আর ধ্বংস হয়েছিল। তৃতীয় যুক্তি হলো, হাওয়ারীদের ঘটনা তাওরাত নাযিলের পরের। আর তাঁর বর্ণনায়, আবু সাঈদ খুদরী (রাঃ) ও পূর্বসূরিদের আরও কয়েকজন বলেছেন, তাওরাতের পর আল্লাহ আর কোনো জাতিকে আযাব পাঠিয়ে সমূলে ধ্বংস করেননি।"
+          },
+          {
+            "en": "So, Ibn Kathir concludes, the town must be some town other than Antioch; or, if the name Antioch is preserved in the story, it was another Antioch than the famous city, which is not known to have been destroyed. The other side answers his argument from the wording out of the wording itself: al-Qurtubi and al-Baghawi read We sent as the command behind 'Isa's sending. This article keeps the question open. Both readings agree on what this verse asserts: He who knows is Allah, and the message is His.",
+            "bn": "তাই ইবন কাসীরের সিদ্ধান্ত: জনপদটি আন্তাকিয়া ছাড়া অন্য কোনো জনপদ হবে। আর কাহিনিতে আন্তাকিয়া নামটা যদি ঠিকভাবে সংরক্ষিত থাকে, তবে তা এই প্রসিদ্ধ আন্তাকিয়া নয়, অন্য কোনো শহর। কারণ প্রসিদ্ধটি ধ্বংস হয়েছে বলে জানা যায় না। শব্দ থেকে টানা তাঁর যুক্তির জবাব অপর পক্ষ আয়াতের শব্দেই খুঁজে পায়। কুরতুবী ও বাগাভী 'আমি পাঠালাম' কথাটাকে পড়েন ঈসা (আঃ)-এর পাঠানোর পেছনের আদেশ হিসেবে। এ লেখা প্রশ্নটা খোলাই রাখছে। তবে এ আয়াত যা দাবি করে, তাতে দুই পাঠই একমত: যিনি জানেন তিনি আল্লাহ, আর বার্তাটা তাঁরই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names the Qur'an Withheld",
+          "bn": "যে নাম কুরআন বলেনি"
+        },
+        "p": [
+          {
+            "en": "The Qur'an names neither the town nor the messengers. The tafsirs carry names, and they do not agree. At-Tabari introduces Antioch with dhukira, it was mentioned. Ibn Ishaq's report, which at-Tabari marks as fīmā balaghahu, what reached him, from Ibn 'Abbas (RA), Ka'b al-Ahbar and Wahb ibn Munabbih, names the three Sadiq, Masduq and Salum. Al-Qurtubi gives them as Sadiq, Saduq and Shalum. Ibn Kathir has a report through Ibn Jurayj naming Sham'un, Yuhanna and Bulus, and al-Baghawi has Wahb's version in another order.",
+            "bn": "কুরআন জনপদের নামও বলেনি, রাসূলদের নামও না। তাফসীরগুলোতে নাম আছে, কিন্তু সেগুলো মেলে না। তাবারী আন্তাকিয়ার কথা আনেন যুকিরা দিয়ে, অর্থাৎ উল্লেখ করা হয়েছে। ইবন ইসহাকের বর্ণনায় তিনজনের নাম সাদিক, মাসদূক ও সালূম। তাবারী জানিয়ে দেন, ইবন আব্বাস (রাঃ), কা'ব আল-আহবার ও ওয়াহব ইবন মুনাব্বিহ থেকে এ বর্ণনা ইবন ইসহাকের কাছে 'পৌঁছেছে' মাত্র। কুরতুবী নাম তিনটি লেখেন সাদিক, সাদূক ও শালূম। ইবন কাসীর ইবন জুরাইজের সূত্রে আরেকটি বর্ণনা আনেন, তাতে নাম শাম'ঊন, ইউহান্না ও বূলুস। বাগাভী ওয়াহবের বর্ণনা দেন ভিন্ন ক্রমে।"
+          },
+          {
+            "en": "With the names come scenes: the healing of the sick, a blind boy given sight, a dead boy raised, an envoy who worked his way into the king's court. Al-Qurtubi relates these at length, much of it under qīla, it is said, and al-Baghawi tells a similar story from the scholars of the prophets' reports. Reports of this kind, carrying names and episodes the Qur'an does not give, are what the scholars call Isra'iliyyat, and nothing in this article rests on them. Al-Qurtubi, relaying al-Mawardi, says that Antioch is the view of all the commentators; Ibn Kathir's own objections show that agreement was not the end of the matter.",
+            "bn": "নামের সঙ্গে আসে নানা দৃশ্য। রোগী সুস্থ হওয়া, অন্ধ বালকের দৃষ্টি ফিরে পাওয়া, মৃত বালকের জীবিত হওয়া, এক দূতের কৌশলে রাজদরবারে ঢুকে পড়া। কুরতুবী এগুলো বিস্তারিত বলেন, অনেকটাই 'বলা হয়' দিয়ে। বাগাভীও প্রায় একই কাহিনি বলেন নবীদের ঘটনা-জানা আলেমদের বরাতে। কুরআন যে নাম ও ঘটনা জানায়নি, তা নিয়ে আসা এ ধরনের বর্ণনাকে আলেমরা ইসরাঈলিয়্যাত বলেন। এ লেখার কোনো কথা এগুলোর উপর দাঁড়িয়ে নেই। কুরতুবী মাওয়ার্দী থেকে জানান, আন্তাকিয়াই সব মুফাসসিরের মত। কিন্তু ইবন কাসীরের আপত্তিগুলো দেখায়, সে ঐকমত্যেই আলোচনা শেষ হয়নি।"
+          },
+          {
+            "en": "As-Sa'di, on 36:13, puts the whole search in its place. Had there been any benefit in naming the town, he says, Allah would have named it. Taking it up is takalluf, strained effort, and speaking without knowledge, and whoever does so ends in confusion and disagreement that never settles. The path of sound knowledge is to keep to the realities and leave what holds no benefit. The point, he says, is that Allah made this town a parable for those addressed.",
+            "bn": "সা'দী ৩৬:১৩-এ এই খোঁজাখুঁজিকে তার জায়গায় রেখে দেন। তিনি বলেন, জনপদের নাম বলায় কোনো উপকার থাকলে আল্লাহই তা বলে দিতেন। এ নিয়ে পড়ে থাকা তাকাল্লুফ, অর্থাৎ অহেতুক কষ্ট, আর না জেনে কথা বলা। যে এতে নামে, সে এমন বিভ্রান্তি আর মতভেদে পড়ে, যার কোনো স্থিরতা নেই। সঠিক জ্ঞানের পথ হলো বাস্তব সত্যের সঙ্গে থাকা, আর যাতে উপকার নেই তা ছেড়ে দেওয়া। আসল কথা, তিনি বলেন, আল্লাহ এ জনপদকে সম্বোধিতদের জন্য একটি দৃষ্টান্ত বানিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Parable, Not a Map",
+          "bn": "দৃষ্টান্ত, মানচিত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The passage tells what one town's people said and did to the messengers sent to them, and the surah goes on to their end. It licenses nothing against any living person or community. Whatever town it was, and the identification is itself disputed, its people are not the people of Antioch today or of any present-day city, and no reader may carry their guilt onto anyone now. The verse reports a denial and an answer; it hands no one a target.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ অংশ জানায়, একটি জনপদের লোকেরা তাদের কাছে পাঠানো রাসূলদের কী বলেছিল আর কী করেছিল। সূরা এরপর তাদের পরিণতির কথাও বলে। কিন্তু কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। জনপদটি যেটাই হোক, আর সেটা চিহ্নিত করা নিয়েই মতভেদ আছে, তার অধিবাসীরা আজকের আন্তাকিয়ার মানুষ নয়, বর্তমান কোনো শহরের মানুষও নয়। তাদের দোষ আজকের কারও ঘাড়ে চাপানোর অধিকার কোনো পাঠকের নেই। আয়াত একটি অস্বীকার আর একটি জবাবের কথা বলে, কাউকে নিশানা বানিয়ে দেয় না।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar both call the town a parable for those who rejected the Prophet's call, to take lesson from, and the lesson of this verse is aimed at the one who reads it. When I am called a liar for carrying what is true, the messengers show the answer: no new argument, no anger, only the matter laid before the One who knows, and then the clear message delivered again. The question the verse leaves me with is whose knowledge I am resting on.",
+            "bn": "সা'দী ও মুয়াসসার দুজনেই জনপদটিকে বলেন দৃষ্টান্ত, যা থেকে নবী ﷺ-এর দাওয়াত প্রত্যাখ্যানকারীরা শিক্ষা নেবে। আর এ আয়াতের শিক্ষা গিয়ে পড়ে যে পড়ছে, তারই উপর। সত্য বহন করার জন্য যখন আমাকে মিথ্যাবাদী বলা হয়, রাসূলরা দেখিয়ে দেন কী জবাব দিতে হয়। নতুন কোনো যুক্তি নয়, রাগ নয়। বিষয়টা শুধু তাঁর সামনে রেখে দেওয়া, যিনি জানেন। তারপর স্পষ্ট বার্তাটা আবার পৌঁছে দেওয়া। আয়াত আমার কাছে একটা প্রশ্নই রেখে যায়: আমি কার জানার উপর ভর করে আছি?"
+          }
+        ]
+      }
+    ]
+  },
   "36:23": {
     "sections": [
       {

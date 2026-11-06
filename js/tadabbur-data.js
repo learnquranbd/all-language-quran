@@ -25609,6 +25609,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your hands and feet will one day speak of what they did. Use them now for what you would be glad to hear them describe.",
     "lessonBn": "একদিন আপনার হাত আর পা নিজেরাই বলবে তারা কী করেছে। আজ তাদের সেই কাজে লাগান, যার বর্ণনা শুনে আপনি খুশি হবেন।"
+  },
+  "36:16": {
+    "reflectionEn": "Two men come to a town with a message and are called liars, so a third is sent to stand beside them. Then the town answers with one voice: you are only human like us, the Most Merciful has sent nothing down, you are simply lying. The reply holds no new argument and no anger. It lays the whole matter before the One who already knows: our Lord knows that we are truly sent to you. They do not need the crowd to believe them before they can be sure of their task, and they do not water the message down to win the crowd over. When I am doubted for doing what is right, whose knowledge do I lean on, the people's or my Lord's?",
+    "reflectionBn": "দুজন মানুষ একটি জনপদে বার্তা নিয়ে আসেন। লোকেরা তাঁদের মিথ্যাবাদী বলে, তাই তাঁদের পাশে দাঁড়াতে তৃতীয় একজনকে পাঠানো হয়। এবার গোটা জনপদ এক সুরে জবাব দেয়: তোমরা তো আমাদের মতোই মানুষ, দয়াময় কিছুই নাযিল করেননি, তোমরা শুধু মিথ্যা বলছ। রাসূলদের উত্তরে নতুন কোনো যুক্তি নেই, রাগও নেই। তাঁরা পুরো বিষয়টা সঁপে দেন তাঁর কাছে, যিনি আগে থেকেই জানেন: আমাদের রব জানেন, আমরা অবশ্যই তোমাদের কাছে প্রেরিত। নিজেদের দায়িত্ব নিয়ে নিশ্চিত হতে তাঁদের ভিড়ের বিশ্বাসের দরকার পড়ে না। ভিড়কে খুশি করতে তাঁরা বার্তাকেও হালকা করেন না। সঠিক কাজ করার জন্য যখন লোকে আমাকে সন্দেহ করে, তখন আমি কার জানার উপর ভর করি, মানুষের, নাকি আমার রবের?",
+    "pointsEn": [
+      "When someone calls my sincerity a lie, is my first move to argue louder, or to remember that Allah already knows?",
+      "Which good work have I let go only because the people around me did not believe in it?",
+      "Do I call on Allah's knowledge only for what I am sure of, or have I leaned on words like 'Allah knows' to prop up a claim I doubted?",
+      "If my task is to convey clearly, have I been trying to carry the part that was never mine, which is the result?",
+      "Whose approval do I wait for before I feel certain of what I was asked to do?"
+    ],
+    "pointsBn": [
+      "কেউ যখন আমার আন্তরিকতাকে মিথ্যা বলে, তখন আমি কি আগে গলা চড়িয়ে তর্ক করি, নাকি মনে করি যে আল্লাহ তো জানেনই?",
+      "শুধু আশপাশের লোকেরা বিশ্বাস করেনি বলে কোন ভালো কাজটা আমি ছেড়ে দিয়েছি?",
+      "'আল্লাহ জানেন' কথাটা কি আমি কেবল নিশ্চিত বিষয়েই বলি, নাকি নিজেরই সন্দেহ আছে এমন দাবিকে খাড়া রাখতে কখনো এর আশ্রয় নিয়েছি?",
+      "আমার কাজ যদি স্পষ্ট করে পৌঁছে দেওয়া হয়, তবে ফলাফলের যে বোঝা কখনো আমার ছিল না, সেটাও কি আমি কাঁধে তুলে নিতে চেয়েছি?",
+      "যে কাজের আদেশ পেয়েছি, তা নিয়ে নিশ্চিত হওয়ার আগে আমি কার সম্মতির অপেক্ষা করি?"
+    ],
+    "lessonEn": "When you are doubted for carrying the truth, rest on your Lord's knowledge rather than the crowd's approval, and keep delivering it clearly.",
+    "lessonBn": "সত্য বহন করার জন্য যখন লোকে আপনাকে সন্দেহ করে, তখন ভিড়ের সম্মতির বদলে আপনার রবের জানার উপর ভরসা রাখুন, আর স্পষ্ট করে পৌঁছে দিতে থাকুন।"
   }
 };
 
