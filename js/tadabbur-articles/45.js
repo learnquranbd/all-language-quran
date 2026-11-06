@@ -1194,5 +1194,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "45:35": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Cause Behind the Scene",
+          "bn": "দৃশ্যের পেছনের কারণ"
+        },
+        "p": [
+          {
+            "en": "Dhalikum bi-annakumu ttakhadhtum ayati Allahi huzuwan wa gharratkumu al-hayatu ad-dunya, fa-l-yawma la yukhrajuna minha wa la hum yusta'tabun: that is because you took the verses of Allah in mockery and the life of this world deceived you; so today they will not be brought out of it, nor will they be asked to make amends. Sixteen Arabic words. This is the last verse of the surah's scene of judgement before 45:36 turns to praise, and it opens no new scene. It explains the scene already under way.",
+            "bn": "যালিকুম বিআন্নাকুমুত্তাখাযতুম আয়াতিল্লাহি হুযুওয়াঁ ওয়া গাররাতকুমুল হায়াতুদ দুনইয়া, ফাল ইয়াওমা লা ইউখরাজূনা মিনহা ওয়া লা হুম ইউসতা'তাবূন: এটা এজন্য যে, তোমরা আল্লাহর আয়াতকে ঠাট্টার বিষয় বানিয়েছিলে, আর দুনিয়ার জীবন তোমাদের ধোঁকায় ফেলেছিল। তাই আজ তাদের সেখান থেকে বের করা হবে না, আর আল্লাহকে রাজি করানোর সুযোগও তাদের দেওয়া হবে না। আরবিতে ষোলোটি শব্দ। ৪৫:৩৬ আয়াত প্রশংসার দিকে ফেরার আগে সূরার বিচারদৃশ্যের এটাই শেষ আয়াত। নতুন কোনো দৃশ্য এখানে শুরু হয় না। যে দৃশ্য চলছে, আয়াতটি তার কারণ খুলে বলে।"
+          },
+          {
+            "en": "The verses just before it set that scene. In 45:33 the evil of what they did becomes plain to them, and what they used to ridicule closes in around them. In 45:34 they are told: today We forget you as you forgot the meeting of this Day of yours; your shelter is the Fire, and you have no helpers. The opening word dhalikum, that, points back at all of it. Ibn Kathir paraphrases: We have repaid you with this repayment only because you took Allah's proofs as a joke. At-Tabari puts it as: this punishment of Allah that has come down on you today.",
+            "bn": "আগের আয়াতগুলোই দৃশ্যটা সাজিয়ে রেখেছে। ৪৫:৩৩ আয়াতে তাদের মন্দ আমলগুলো তাদের সামনে স্পষ্ট হয়ে যায়, আর যা নিয়ে তারা ঠাট্টা করত তা-ই তাদের ঘিরে ধরে। ৪৫:৩৪ আয়াতে তাদের বলা হয়: আজ আমি তোমাদের ভুলে যাব, যেমন তোমরা এই দিনের সাক্ষাৎকে ভুলে গিয়েছিলে; তোমাদের আশ্রয় জাহান্নাম, তোমাদের কোনো সাহায্যকারী নেই। আয়াতের প্রথম শব্দ যালিকুম, অর্থাৎ ওটা, এই সবকিছুর দিকেই ইঙ্গিত করে। ইবন কাসীর ব্যাখ্যা করেন: তোমাদের এই প্রতিফল দিয়েছি শুধু এজন্য যে তোমরা আল্লাহর প্রমাণগুলোকে তামাশা বানিয়েছিলে। তাবারীর ভাষায়: আল্লাহর যে আযাব আজ তোমাদের উপর নেমে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proofs Turned Into Jest",
+          "bn": "প্রমাণকে বানানো তামাশা"
+        },
+        "p": [
+          {
+            "en": "What did they mock? At-Tabari reads ayat Allah broadly: His proofs and evidences, and the verses of His Book that He sent down to His Messenger ﷺ. Ibn Kathir calls them hujaj Allah 'alaykum, Allah's proofs against you. Al-Qurtubi narrows the phrase to the Qur'an. The readings sit together, since the verses of the Book are themselves proofs. Huzuwan, in mockery, at-Tabari and Ibn Kathir both explain as sukhriya, ridicule, and Ibn Kathir uses two verbs for what they did with those proofs: they scoffed at them and made fun of them.",
+            "bn": "তারা কী নিয়ে ঠাট্টা করেছিল? তাবারী আয়াতিল্লাহ, অর্থাৎ আল্লাহর আয়াত, কথাটিকে বড় পরিসরে পড়েন: আল্লাহর প্রমাণ ও দলিল, আর তাঁর কিতাবের সেই আয়াতগুলো যা তিনি তাঁর রাসূল ﷺ-এর উপর নাযিল করেছেন। ইবন কাসীর এগুলোকে বলেন হুজাজুল্লাহি আলাইকুম, তোমাদের বিরুদ্ধে আল্লাহর প্রমাণ। কুরতুবী শব্দটিকে কুরআনের মধ্যে সীমিত রাখেন। দুই ব্যাখ্যায় বিরোধ নেই, কারণ কিতাবের আয়াত নিজেই প্রমাণ। হুযুওয়ান, অর্থাৎ ঠাট্টা হিসেবে, তাবারী ও ইবন কাসীর দুজনেই এর মানে করেন সুখরিয়্যা, বিদ্রূপ। ইবন কাসীর এখানে দুটি ক্রিয়া ব্যবহার করেন: তারা প্রমাণগুলো নিয়ে উপহাস করত, আর মশকরা করত।"
+          },
+          {
+            "en": "Al-Qurtubi glosses huzuw as la'ib, play, and the Muyassar joins the two: you took Allah's verses and His proofs as mockery and play. The surah has met this behaviour before. In 45:8 a man hears Allah's verses recited, then persists in arrogance as if he had not heard them, and in 45:9, whenever he learns something of the verses, he takes them in mockery. Near its end the surah returns to the same two things: arrogance when the verses were recited in 45:31, and now mockery in this verse, named on the Day as the cause.",
+            "bn": "হুযুওয়ান শব্দের মানে কুরতুবী করেন লা'ইব, খেলা। মুয়াসসার দুটোকে একসঙ্গে বলে: তোমরা আল্লাহর আয়াত ও তাঁর প্রমাণগুলোকে ঠাট্টা আর খেলার জিনিস বানিয়েছিলে। এই আচরণের সঙ্গে সূরাটি আগেও পরিচয় করিয়েছে। ৪৫:৮ আয়াতে এক লোক আল্লাহর আয়াত তিলাওয়াত হতে শোনে, তারপর অহংকার নিয়ে এমনভাবে অটল থাকে যেন শোনেইনি। ৪৫:৯ আয়াতে সে আয়াতের কিছু জানলেই তা নিয়ে ঠাট্টা করে। শেষের দিকে এসে সূরাটি আবার সেই দুটি জিনিসে ফিরে আসে। ৪৫:৩১ আয়াতে তিলাওয়াতের সামনে অহংকার, আর এই আয়াতে ঠাট্টা, যা সেদিন কারণ হিসেবে উচ্চারিত হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Verses Asked For",
+          "bn": "আয়াতগুলো যা চেয়েছিল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di adds a clause the others do not. They took the verses in mockery, he says, even though those verses call for al-jidd wa al-ijtihad, earnestness and effort, and for being received with joy, glad expectation and delight. On this reading the fault is not only that they rejected something. They gave the wrong response to something that asked for a particular one. A verse of Allah does not leave its hearer neutral. It asks to be taken seriously and to be welcomed gladly, and a laugh refuses both requests at once.",
+            "bn": "সা'দী এখানে এমন একটি কথা যোগ করেন যা অন্যরা বলেননি। তারা আয়াতগুলোকে ঠাট্টার বিষয় বানিয়েছিল, অথচ এই আয়াতগুলো দাবি করে আল-জিদ্দ ওয়াল ইজতিহাদ, অর্থাৎ ঐকান্তিকতা আর প্রাণপণ চেষ্টা। আরও দাবি করে, এগুলোকে গ্রহণ করা হবে আনন্দ, সুসংবাদের প্রত্যাশা আর খুশি নিয়ে। এভাবে দেখলে তাদের দোষ শুধু কিছু একটা প্রত্যাখ্যান করা নয়। যে জিনিস নির্দিষ্ট এক ধরনের সাড়া চেয়েছিল, তারা তাকে দিয়েছে ঠিক উল্টো সাড়া। আল্লাহর আয়াত শ্রোতাকে নিরপেক্ষ থাকতে দেয় না। সে চায় গুরুত্ব, চায় খুশিমনে বরণ। একটা হাসি দুটো দাবিই একসঙ্গে ফিরিয়ে দেয়।"
+          },
+          {
+            "en": "Here is the lesson the verse can carry for a believer, and it needs care. The verse describes people who disbelieved and mocked; it does not say that every lapse of attention in a Muslim is the same act. Yet as-Sa'di's words describe what any reader owes the verses: seriousness in the hearing and gladness in the receiving. A reader can test both without accusing anyone else. Do I meet the verses with effort, or with the half-attention I give to noise? Do I receive them as good news, or as an interruption?",
+            "bn": "একজন মুমিনের জন্য আয়াতটির শিক্ষা এখানেই, তবে কথাটা সাবধানে বলতে হয়। আয়াতটি বলছে তাদের কথা, যারা কুফরী করেছিল আর ঠাট্টা করেছিল। মুসলিমের প্রতিটি অমনোযোগ যে একই কাজ, এমন কথা আয়াত বলে না। তবু সা'দীর কথাগুলো ধরিয়ে দেয়, প্রত্যেক পাঠকের উপর আয়াতের হক কী: শোনায় গুরুত্ব, আর গ্রহণে খুশি। অন্য কাউকে দোষ না দিয়েই পাঠক নিজেকে এ দুটো দিয়ে যাচাই করতে পারেন। আয়াতের সামনে আমি কি চেষ্টা নিয়ে বসি, নাকি হইচইয়ের দিকে যেমন আধখানা মন দিই, তেমন? আয়াতকে কি সুসংবাদ হিসেবে নিই, নাকি কাজের মাঝে বাধা হিসেবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Life That Lulled Them",
+          "bn": "যে জীবন ভুলিয়ে রাখল"
+        },
+        "p": [
+          {
+            "en": "The second cause is wa gharratkumu al-hayatu ad-dunya, and the life of this world deceived you. Ibn Kathir explains it as khada'atkum, it tricked you, so that you felt secure in it, itma'nantum ilayha, and ended among the losers. At-Tabari names what did the tricking, the adornment of worldly life, and what followed: you preferred it to working for what would save you today from Allah's punishment. Both describe a deception that worked through comfort rather than argument. The world felt settled enough to lean on, and they leaned.",
+            "bn": "দ্বিতীয় কারণ: ওয়া গাররাতকুমুল হায়াতুদ দুনইয়া, আর দুনিয়ার জীবন তোমাদের ধোঁকা দিয়েছিল। ইবন কাসীর এর ব্যাখ্যা করেন খাদা'আতকুম দিয়ে, অর্থাৎ তোমাদের প্রতারিত করেছিল। ফলে তোমরা তাতে নিশ্চিন্ত হয়ে গিয়েছিলে, ইতমা'নানতুম ইলাইহা, আর শেষে ক্ষতিগ্রস্তদের দলে পড়েছ। তাবারী বলেন, ধোঁকাটা দিয়েছিল দুনিয়ার জীবনের সাজসজ্জা। তার ফল: যে আমল আজ তোমাদের আল্লাহর আযাব থেকে বাঁচাত, তার চেয়ে তোমরা দুনিয়াকেই বেশি পছন্দ করেছিলে। দুজনের কথাতেই ধোঁকাটা কাজ করেছে আরামের পথে, যুক্তির পথে নয়। দুনিয়াকে মনে হয়েছিল ভর দেওয়ার মতো শক্ত, আর তারা ভর দিয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di lists the means: its ornaments, its pleasures and its desires. Then he names the result in a sequence close to Ibn Kathir's: you felt at ease with it, you worked for it, and you left off working for the lasting home. Al-Qurtubi and al-Baghawi follow the deception further, into a belief. In al-Qurtubi's words, it deceived you with its falsehoods and its finery until you thought there was nothing beyond it and no resurrection. Al-Baghawi has it carry them to the point of saying: there is no resurrection and no reckoning.",
+            "bn": "সা'দী উপায়গুলোর নাম বলেন: দুনিয়ার চাকচিক্য, তার স্বাদ আর তার কামনা-বাসনা। তারপর ফলাফলটা বলেন প্রায় ইবন কাসীরের ধারায়। তোমরা তাতে নিশ্চিন্ত হয়েছিলে, তার জন্য খেটেছিলে, আর স্থায়ী ঘরের জন্য কাজ ছেড়ে দিয়েছিলে। কুরতুবী ও বাগাভী ধোঁকাটাকে আরও দূর পর্যন্ত নিয়ে যান, একটা বিশ্বাস পর্যন্ত। কুরতুবীর ভাষায়, দুনিয়া তার মিথ্যা আর জৌলুস দিয়ে তোমাদের এমন ধোঁকা দিয়েছিল যে তোমরা ভেবেছিলে এর পরে আর কিছু নেই, পুনরুত্থান বলেও কিছু নেই। বাগাভীর বর্ণনায় এই ধোঁকা তাদের এ কথা বলা পর্যন্ত পৌঁছে দিয়েছিল: কোনো পুনরুত্থান নেই, কোনো হিসাবও নেই।"
+          },
+          {
+            "en": "The Qur'an warns about this same verb elsewhere. In 31:33 and 35:5, right after the promise of Allah is true, it says: fa-la taghurrannakumu al-hayatu ad-dunya, so let not the life of this world deceive you. And 7:51 describes, in words very close to this passage, those who took their religion as distraction and play and whom the life of this world deceived, then says: today We forget them as they forgot the meeting of this Day of theirs. The warning given there in advance is the charge read out here.",
+            "bn": "একই ক্রিয়া দিয়ে কুরআন অন্য জায়গায় আগাম সতর্ক করেছে। ৩১:৩৩ ও ৩৫:৫ আয়াতে, আল্লাহর প্রতিশ্রুতি সত্য বলার ঠিক পরে, বলা হয়েছে: ফালা তাগুররান্নাকুমুল হায়াতুদ দুনইয়া, দুনিয়ার জীবন যেন তোমাদের ধোঁকায় না ফেলে। আর ৭:৫১ আয়াত প্রায় এই অংশের ভাষাতেই তাদের কথা বলে, যারা নিজেদের দ্বীনকে খেলা-তামাশা বানিয়েছিল আর দুনিয়ার জীবন যাদের ধোঁকায় ফেলেছিল। তারপর বলে: আজ আমি তাদের ভুলে যাব, যেমন তারা এই দিনের সাক্ষাৎকে ভুলে গিয়েছিল। সেখানে যা আগাম সতর্কবাণী, এখানে তা-ই অভিযোগ হয়ে পড়ে শোনানো হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From You to They",
+          "bn": "তোমরা থেকে তারা"
+        },
+        "p": [
+          {
+            "en": "Read the verse slowly and its grammar turns halfway. The first half addresses them directly: you took, the world deceived you. The second half speaks about them: they will not be brought out, nor will they be asked to make amends. At-Tabari marks the turn without explaining it. He opens with Allah, exalted be His mention, says: it will be said to them. At fa-l-yawma, today, he introduces the words again with Allah says, and this time without it will be said to them. The commentary marks the shift and leaves it there.",
+            "bn": "ধীরে পড়লে দেখা যায়, আয়াতের মাঝখানে ব্যাকরণ বদলে যায়। প্রথম অর্ধেক তাদের সরাসরি সম্বোধন করে: তোমরা বানিয়েছিলে, দুনিয়া তোমাদের ধোঁকা দিয়েছিল। দ্বিতীয় অর্ধেক কথা বলে তাদের সম্পর্কে: তাদের বের করা হবে না, তাদের কাছে মিটমাটও চাওয়া হবে না। তাবারী এই বাঁকটা চিহ্নিত করেন, তবে ব্যাখ্যা দেন না। শুরুতে তিনি লেখেন: আল্লাহ, যাঁর স্মরণ সুউচ্চ, বলছেন, তাদের বলা হবে। ফাল ইয়াওমা, অর্থাৎ আজ, শব্দে এসে তিনি আবার লেখেন আল্লাহ বলছেন, এবার আর তাদের বলা হবে কথাটা থাকে না। তাফসীর বাঁকটুকু দেখিয়ে সেখানেই থামে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both record two readings of the first verb. Hamza and al-Kisa'i read la yakhrujuna, they will not come out, active; the others read la yukhrajuna, they will not be brought out, passive. Al-Qurtubi supports each with Qur'anic wording. For the active he cites 32:20: whenever they want to come out of it, they are put back into it. For the passive he cites the plea rabbana akhrijna, our Lord, bring us out, and similar wording, a plea found in 23:107. At-Tabari, Ibn Kathir, al-Qurtubi and the Muyassar all take minha, from it, as the Fire.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই প্রথম ক্রিয়াটির দুটি কিরাআত উল্লেখ করেন। হামযা ও কিসাঈ পড়েন লা ইয়াখরুজূনা, তারা বের হবে না, কর্তৃবাচ্যে। বাকিরা পড়েন লা ইউখরাজূনা, তাদের বের করা হবে না, কর্মবাচ্যে। কুরতুবী প্রতিটির পক্ষে কুরআনের ভাষা থেকে সমর্থন দেখান। কর্তৃবাচ্যের পক্ষে ৩২:২০: যখনই তারা সেখান থেকে বের হতে চাইবে, তাদের আবার সেখানে ফিরিয়ে দেওয়া হবে। কর্মবাচ্যের পক্ষে ফরিয়াদ রাব্বানা আখরিজনা, হে আমাদের রব, আমাদের বের করুন, আর এ ধরনের কথা। এই ফরিয়াদ আছে ২৩:১০৭ আয়াতে। তাবারী, ইবন কাসীর, কুরতুবী ও মুয়াসসার সবাই মিনহা, অর্থাৎ সেখান থেকে, বলতে জাহান্নাম বোঝান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No One Asks for Amends",
+          "bn": "ওজর শোনার দিন শেষ"
+        },
+        "p": [
+          {
+            "en": "The verse ends on wa la hum yusta'tabun, a passive verb, and the commentators explain it in two ways. Al-Qurtubi gives a single word, yustardawn: they are not asked to seek His pleasure, not invited to win back His favour. Ibn Kathir says la yutlabu minhum al-'utba, no making of amends is sought from them, and adds that they will be punished without reckoning and without reproach, just as a group of the believers will enter Paradise without punishment and without reckoning. On this side the stress falls on the asking that never comes.",
+            "bn": "আয়াত শেষ হয় ওয়া লা হুম ইউসতা'তাবূন দিয়ে। ক্রিয়াটি কর্মবাচ্যে, আর তাফসীরকারেরা একে দুইভাবে ব্যাখ্যা করেন। কুরতুবী একটি শব্দেই বলেন, ইউসতারদাওন: আল্লাহর সন্তুষ্টি খোঁজার সুযোগ তাদের দেওয়া হবে না, তাঁর রাজি হওয়া ফিরে পাওয়ার ডাকও আসবে না। ইবন কাসীর বলেন, লা ইউতলাবু মিনহুমুল উতবা, তাদের কাছে মিটমাট চাওয়া হবে না। তিনি যোগ করেন, হিসাব আর তিরস্কার ছাড়াই তাদের শাস্তি দেওয়া হবে, যেমন মুমিনদের একটি দল আযাব আর হিসাব ছাড়াই জান্নাতে প্রবেশ করবে। এই দিকে জোরটা পড়ে সেই ডাকের উপর, যা আর কখনো আসবে না।"
+          },
+          {
+            "en": "At-Tabari turns the phrase toward the world left behind: they will not be returned to the world to repent and to come back to turning to Allah from what they are punished for. The Muyassar says the same, with to repent and do righteous deeds. As-Sa'di puts a word before it, la yumhalun, they will not be given respite, and then: nor returned to the world to do good. Al-Baghawi reads it as not being asked to return to obedience to Allah, and gives the reason: on that Day He accepts neither excuse nor repentance.",
+            "bn": "তাবারী কথাটাকে ফেলে আসা দুনিয়ার দিকে ঘোরান: যে কারণে তাদের শাস্তি হচ্ছে, তা থেকে তওবা করতে আর আল্লাহর দিকে ফিরতে তাদের দুনিয়ায় ফেরত পাঠানো হবে না। মুয়াসসারও একই কথা বলে, শুধু বলে তওবা করতে আর নেক আমল করতে। সা'দী এর আগে একটি শব্দ বসান, লা ইউমহালূন, তাদের আর সময় দেওয়া হবে না। তারপর বলেন, ভালো কাজ করার জন্য দুনিয়ায় ফেরতও পাঠানো হবে না। বাগাভী অর্থ করেন, আল্লাহর আনুগত্যে ফিরে আসতে তাদের বলা হবে না। কারণও তিনি বলে দেন: সেদিন আল্লাহ কোনো ওজর বা তওবা কবুল করবেন না।"
+          },
+          {
+            "en": "These are two angles on one closed door rather than rival positions. One set of glosses looks at the asking: no one requests their amends or seeks their return to favour. The other looks at the place where amends could have been made, the world, and says there is no going back to it. The Qur'an uses the same phrase in 16:84, where the disbelievers are not given leave, and in 30:57, where the excuse of those who did wrong is of no benefit. And 41:24 adds: if they ask to make amends, they will not be granted it.",
+            "bn": "এগুলো পরস্পরবিরোধী মত নয়, একই বন্ধ দরজাকে দুই দিক থেকে দেখা। এক দল ব্যাখ্যা তাকায় ডাকের দিকে: তাদের কাছে কেউ মিটমাট চায় না, আল্লাহর রাজি হওয়ায় ফেরার সুযোগও কেউ দেয় না। অন্য দল তাকায় সেই জায়গার দিকে, যেখানে শুধরে নেওয়া যেত, অর্থাৎ দুনিয়া। আর বলে, সেখানে ফেরার পথ নেই। একই বাক্যাংশ কুরআনে আরও আছে। ১৬:৮৪ আয়াতে কাফিরদের অনুমতি দেওয়া হয় না, আর ৩০:৫৭ আয়াতে জালিমদের ওজর কোনো কাজে আসে না। ৪১:২৪ আয়াত যোগ করে: তারা মিটমাট চাইলেও তা মঞ্জুর হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgetting, Then Praise",
+          "bn": "ভুলে যাওয়া, তারপর প্রশংসা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it. Ibn Kathir attaches one to 45:34, the verse before, and since that verse holds the sentence this verse explains, it is given here, marked as belonging there and not here. Muslim records it in his Sahih (2968), from Abu Hurayra (RA), as one part of a longer narration about the Day of Resurrection, in which Allah meets His servants one after another.",
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। ইবন কাসীর একটি হাদীস যুক্ত করেন আগের আয়াত ৪৫:৩৪-এর সঙ্গে। এই আয়াত যে রায়ের কারণ বলছে, সেই রায় আছে ওই আয়াতেই। তাই হাদীসটি এখানে আনা হলো, তবে স্পষ্ট করে বলে রাখা হলো যে সেটা ওই আয়াতের, এই আয়াতের নয়। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (২৯৬৮) আবু হুরায়রা (রাঃ) থেকে এটি বর্ণনা করেছেন। এটি কিয়ামতের দিন সম্পর্কে এক দীর্ঘ বর্ণনার অংশ, যেখানে আল্লাহ একে একে তাঁর বান্দাদের মুখোমুখি হন।"
+          },
+          {
+            "en": "In Muslim's wording Allah says to a servant: O, so and so, did I not honour you and make you the chief and provide you the spouse and subdue for you horses, camels, and afforded you an opportunity to rule over your subjects? He would say: Yes. And then it would be said: Did you not think that you would meet Us? And he would say: No. Thereupon He (Allah) would say: Well, We forget you as you forgot Us. He is asked about blessings first and about the meeting second, and the second answer decides.",
+            "bn": "মুসলিমের বর্ণনায় আল্লাহ এক বান্দাকে বলবেন: হে অমুক, আমি কি তোমাকে সম্মান দিইনি, নেতা বানাইনি, স্ত্রী দিইনি, ঘোড়া আর উট তোমার বশে দিইনি, আর তোমাকে কি এমন সুযোগ দিইনি যে তুমি নেতৃত্ব করবে আর ভোগ করবে? সে বলবে: হ্যাঁ। তখন বলা হবে: তুমি কি ভেবেছিলে যে আমার সঙ্গে তোমার সাক্ষাৎ হবে? সে বলবে: না। তখন তিনি বলবেন: তাহলে আমি তোমাকে ভুলে যাব, যেমন তুমি আমাকে ভুলে গিয়েছিলে। প্রথমে প্রশ্ন নিয়ামত নিয়ে, তারপর সাক্ষাৎ নিয়ে। দ্বিতীয় উত্তরটাই সব ঠিক করে দেয়।"
+          },
+          {
+            "en": "Then the surah closes. Fa-lillahi al-hamd: so to Allah belongs all praise, Lord of the heavens, Lord of the earth, Lord of the worlds; and His is the majesty in the heavens and the earth, and He is the Mighty, the Wise. Ibn Kathir's English abridgement places that praise after Allah has mentioned His judgement for the believers and the disbelievers. The sentence of this verse is followed at once by praise of Him whose judgement it is, and whose wisdom 45:37 names in its last word.",
+            "bn": "তারপর সূরা শেষ হয়। ফালিল্লাহিল হামদ: সব প্রশংসা আল্লাহর, যিনি আসমানের রব, যমীনের রব, সারা জগতের রব। আসমান ও যমীনে শ্রেষ্ঠত্ব তাঁরই, আর তিনি মহাপরাক্রমশালী, প্রজ্ঞাময়। ইবন কাসীরের ইংরেজি সংক্ষেপ এই প্রশংসাকে রেখেছে মুমিন ও কাফিরদের ব্যাপারে আল্লাহর রায় বর্ণনার পরে। এ আয়াতের রায়ের ঠিক পরেই আসে তাঁর প্রশংসা, রায়টা যাঁর। তাঁর প্রজ্ঞার কথা ৪৫:৩৭ আয়াত বলে তার শেষ শব্দে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Verse Hands the Reader",
+          "bn": "পাঠকের হাতে যা তুলে দেয়"
+        },
+        "p": [
+          {
+            "en": "The verse describes what it describes: people who disbelieved, mocked the verses, and are addressed on the Day of Judgement. It licenses nothing against any living person or community. It does not let a reader name anyone today as one of them, call its sentence down on a neighbour, or treat someone who jokes carelessly as already beyond return. The closing of the door is told about that Day, fa-l-yawma; it is no verdict for anyone to pass in this world, where the door the verse speaks of still stands open.",
+            "bn": "আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: যারা কুফরী করেছিল, আয়াত নিয়ে ঠাট্টা করেছিল, আর বিচারের দিন যাদের সম্বোধন করা হচ্ছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কাউকে তাদের একজন বলে দাগানো, প্রতিবেশীর উপর এর রায় চাপানো, বা অসাবধানে রসিকতা করা কাউকে ফেরার পথ হারানো বলে ধরে নেওয়া, কোনোটারই সুযোগ এখানে নেই। দরজা বন্ধ হওয়ার কথা বলা হয়েছে সেই দিন সম্পর্কে, ফাল ইয়াওমা। দুনিয়ায় কেউ এই রায় দিতে পারে না, কারণ এখানে আয়াতে বলা দরজাটা এখনো খোলা।"
+          },
+          {
+            "en": "What it hands the reader is a question about the reader. At-Tabari, the Muyassar and as-Sa'di all explain the closed door as no return to the world to repent and do good, which tells the living where repentance is still received: here. As-Sa'di's earnestness and gladness give the measure. Treat the verses as something that asks for effort. Let no joke make them small in your company. Notice what in this world has made you too settled to work for the next. And make your amends while asking for them is still possible.",
+            "bn": "পাঠকের হাতে আয়াতটি তুলে দেয় পাঠকেরই সম্পর্কে একটি প্রশ্ন। তাবারী, মুয়াসসার ও সা'দী সবাই বন্ধ দরজার মানে করেছেন তওবা আর নেক আমলের জন্য দুনিয়ায় ফেরার পথ না থাকা। এতে জীবিতরা জেনে যায়, তওবা এখনো কোথায় কবুল হয়: এখানেই। মাপকাঠি সা'দীর সেই দুটি কথা, ঐকান্তিকতা আর খুশি। আয়াতকে এমন কিছু হিসেবে নিন, যা চেষ্টা দাবি করে। আপনার মজলিসে কোনো রসিকতা যেন আয়াতকে ছোট করতে না পারে। খেয়াল করুন, দুনিয়ার কোন জিনিস আপনাকে এত নিশ্চিন্ত করে রেখেছে যে আখিরাতের কাজ পিছিয়ে যাচ্ছে। আর শুধরে নেওয়ার কাজটা সেরে ফেলুন, যতক্ষণ তা চাওয়ার সুযোগ আছে।"
+          }
+        ]
+      }
+    ]
   }
 });

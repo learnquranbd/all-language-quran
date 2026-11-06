@@ -27049,6 +27049,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold what you know of the religion for Allah, not for rank, and let it bring you nearer your brothers instead of above them.",
     "lessonBn": "দ্বীনের যা জানেন, তা পদমর্যাদার জন্য নয়, আল্লাহর জন্য ধরে রাখুন, আর সে জ্ঞান যেন আপনাকে ভাইদের চেয়ে উঁচুতে নয়, তাদের কাছে টেনে আনে।"
+  },
+  "45:35": {
+    "reflectionEn": "The scene has already turned: their evil deeds laid bare, the Fire their shelter, no helper anywhere. Then the reason comes, and it is not a long list of crimes. You took Allah's verses as a joke, and the life of this world fooled you. So today they will not be brought out, and no one will ask them to make amends. The way back, the chance to apologise and set things right, is shut, and the verse says so plainly. It is shut there. Here, while I am still reading, it is open. So how do I hold these verses? Do I hear them with the seriousness they ask for, or do I let a laugh, a scroll, or a busy week make them small?",
+    "reflectionBn": "দৃশ্যটা আগেই বদলে গেছে। তাদের মন্দ আমল সামনে খুলে গেছে, জাহান্নামই এখন আশ্রয়, পাশে কোনো সাহায্যকারী নেই। তারপর কারণটা আসে, আর সেটা অপরাধের লম্বা ফর্দ নয়। তোমরা আল্লাহর আয়াতকে ঠাট্টার বিষয় বানিয়েছিলে, আর দুনিয়ার জীবন তোমাদের ধোঁকায় ফেলে রেখেছিল। তাই আজ তাদের সেখান থেকে বের করা হবে না, আর ওজর পেশ করে আল্লাহকে রাজি করানোর সুযোগও তাদের দেওয়া হবে না। ফিরে গিয়ে শুধরে নেওয়ার পথ সেদিন বন্ধ, আয়াত তা সোজাসুজি জানিয়ে দেয়। বন্ধ সেখানে। এখানে, আমি যখন পড়ছি, পথটা খোলা। তাহলে এই আয়াতগুলোকে আমি কীভাবে ধরি? যে গুরুত্ব তারা দাবি করে, সেই গুরুত্ব দিয়ে কি শুনি? নাকি একটা হাসি, একটু স্ক্রল বা ব্যস্ত একটা সপ্তাহ এগুলোকে ছোট করে ফেলে?",
+    "pointsEn": [
+      "When did I last laugh at, or let pass without a word, a joke that made Allah's verses or His promise look small?",
+      "What in my present life has quietly persuaded me that it will last, so that I work hard for it and leave the work for what does last?",
+      "Is there an apology I owe Allah that I keep putting off, as though the chance to make amends were mine for ever?",
+      "When a verse is recited near me, do I give it my attention, or does it turn into background for something else?",
+      "Which one verse that I already know could I take, this week, as seriously as it asks to be taken?"
+    ],
+    "pointsBn": [
+      "আল্লাহর আয়াত বা তাঁর প্রতিশ্রুতিকে হালকা করে দেখানো কোনো রসিকতায় শেষ কবে হেসেছি, কিংবা চুপ করে পার হতে দিয়েছি?",
+      "এখনকার জীবনের কোন জিনিস চুপিসারে আমাকে বুঝিয়ে ফেলেছে যে সেটা টিকে থাকবে, যার জন্য খেটে মরছি আর যা সত্যিই টিকবে তার কাজ ফেলে রেখেছি?",
+      "আল্লাহর কাছে কোন ক্ষমা চাওয়াটা আমি পিছিয়েই যাচ্ছি, যেন শুধরে নেওয়ার সুযোগ চিরকাল আমার হাতে থাকবে?",
+      "আশপাশে কোনো আয়াত তিলাওয়াত হলে আমি কি মন দিয়ে শুনি, নাকি সেটা অন্য কোনো কাজের পেছনের আওয়াজ হয়ে যায়?",
+      "যে আয়াত আমি আগে থেকেই জানি, তার কোন একটিকে এ সপ্তাহে তার প্রাপ্য গুরুত্ব দিয়ে ধরতে পারি?"
+    ],
+    "lessonEn": "Give Allah's verses the seriousness they ask for, do not let this world lull you, and make your amends now, while amends are still accepted.",
+    "lessonBn": "আল্লাহর আয়াতকে তার প্রাপ্য গুরুত্ব দিন, দুনিয়া যেন আপনাকে ভুলিয়ে না রাখে, আর শুধরে নেওয়ার কাজটা এখনই করুন, যতক্ষণ তা কবুল হয়।"
   }
 };
 
