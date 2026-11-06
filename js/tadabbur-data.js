@@ -26889,6 +26889,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah hears the secret you keep and the words you whisper, and His angels write; let what you say and plan in private be what you would say before Him.",
     "lessonBn": "আপনার মনের গোপন কথা আর চুপিচুপি বলা কথা আল্লাহ শোনেন, তাঁর ফেরেশতারা লিখে রাখে। তাই আড়ালে যা বলেন আর যা পরিকল্পনা করেন, তা যেন তাঁর সামনে বলার মতো হয়।"
+  },
+  "44:4": {
+    "reflectionEn": "The night the Book came down is also, the verse says, a night in which every wise matter is made distinct. A year of births and deaths, provision and trials is set out and settled, and none of it without wisdom. I make plans for the coming months as if their outcome were mine to write. The verse does not tell me to stop planning. It tells me whose decree the year runs on. A person may marry, sign a contract or plant a tree in a year whose end he will not see. How would I spend this year if I took that seriously? And when something reaches me that I never chose, do I remember who settled it, and that He settles nothing in vain?",
+    "reflectionBn": "যে রাতে কিতাব নাজিল হয়েছে, আয়াত বলছে, সে রাতেই প্রতিটি প্রজ্ঞাপূর্ণ বিষয় আলাদা করে স্থির করা হয়। জন্ম আর মৃত্যু, রিযিক আর বিপদ, পুরো একটা বছরের হিসাব সেখানে সাজানো হয়, আর তার কোনোটাই হিকমত ছাড়া নয়। আমি সামনের মাসগুলোর পরিকল্পনা করি এমনভাবে, যেন ফলাফল লেখার কলম আমার হাতে। আয়াত আমাকে পরিকল্পনা ছাড়তে বলে না। শুধু মনে করিয়ে দেয়, বছরটা চলে কার ফয়সালায়। মানুষ বিয়ে করে, চুক্তিতে সই করে, গাছ লাগায়, অথচ সেই বছরের শেষটা হয়তো সে দেখবেই না। কথাটা সত্যিই মানলে এ বছরটা আমি কীভাবে কাটাতাম? আর যা আমি কখনো চাইনি, তা যখন এসে পৌঁছায়, তখন কি মনে রাখি কে তা স্থির করেছেন, আর তিনি কোনো কিছুই অনর্থক স্থির করেন না?",
+    "pointsEn": [
+      "Which of my plans for this year have I made without once asking Allah to put good in them?",
+      "If what is coming to me this year is already settled with wisdom, why does worry about it take more of me than effort does?",
+      "What would I change today if I knew this were my last full year?",
+      "When something I did not choose reaches me, do I meet it as a wise decree or only as bad luck?",
+      "Whom am I putting off being kind to, as though both of us had all the time in the world?"
+    ],
+    "pointsBn": [
+      "এ বছরের কোন পরিকল্পনাগুলো আমি একবারও আল্লাহর কাছে কল্যাণ না চেয়েই করে ফেলেছি?",
+      "এ বছর আমার কাছে যা আসবে তা যদি হিকমতের সঙ্গে আগেই স্থির হয়ে থাকে, তবে চেষ্টার চেয়ে দুশ্চিন্তাই কেন আমার বেশি সময় খেয়ে নেয়?",
+      "যদি জানতাম এটাই আমার শেষ পূর্ণ বছর, তবে আজ কী বদলাতাম?",
+      "যা আমি বেছে নিইনি, তা এসে পড়লে আমি কি একে প্রজ্ঞাপূর্ণ ফয়সালা হিসেবে নিই, নাকি শুধু দুর্ভাগ্য ভাবি?",
+      "কার সঙ্গে ভালো ব্যবহার আমি পিছিয়ে রাখছি, যেন আমাদের দুজনের হাতেই অফুরন্ত সময়?"
+    ],
+    "lessonEn": "Every matter of your year is settled by Allah with wisdom, so plan and work, but hold your plans humbly and meet what comes as His wise decree.",
+    "lessonBn": "আপনার বছরের প্রতিটি বিষয় আল্লাহ হিকমতের সঙ্গে স্থির করেন। তাই পরিকল্পনা করুন, চেষ্টা করুন, তবে পরিকল্পনা ধরে রাখুন বিনয়ের সঙ্গে, আর যা আসে তাকে তাঁর প্রজ্ঞাপূর্ণ ফয়সালা হিসেবে গ্রহণ করুন।"
   }
 };
 

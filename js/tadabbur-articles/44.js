@@ -159,6 +159,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "What Else That Night Holds",
+          "bn": "সে রাতে আর যা ঘটে"
+        },
+        "p": [
+          {
+            "en": "Surah ad-Dukhan swears by the clear Book and answers the oath in 44:3: We sent it down on a blessed night. The next verse, five Arabic words, says what else that night holds: fiha yufraqu kullu amrin hakim, therein every wise matter is made distinct. At-Tabari joins the two verses through a pronoun. The ha in fiha, he says, refers back to the blessed night, so whatever is said about the night of 44:3 governs the night of 44:4 as well.",
+            "bn": "সূরা আদ-দুখান সুস্পষ্ট কিতাবের কসম খায়, আর ৪৪:৩ আয়াতে আসে কসমের জবাব: আমি একে নাজিল করেছি এক বরকতময় রাতে। পরের আয়াতটি মাত্র পাঁচ শব্দের। সেই রাতে আর কী ঘটে, তা জানায়: ফীহা ইউফরাকু কুল্লু আমরিন হাকীম, সে রাতে প্রতিটি প্রজ্ঞাপূর্ণ বিষয় পৃথক করে স্থির করা হয়। তাবারী দুই আয়াতকে জোড়েন একটি সর্বনাম দিয়ে। তাঁর মতে ফীহা শব্দের 'হা' ফিরে যায় বরকতময় রাতের দিকে। কাজেই ৪৪:৩ আয়াতের রাত নিয়ে যা বলা হবে, ৪৪:৪ আয়াতের রাতেও তা-ই খাটবে।"
+          },
+          {
+            "en": "Verse 44:5 goes on, amran min 'indina, a matter from Us, and 44:6 calls the sending a mercy from your Lord. The Muyassar reads the run together: this wise matter is a matter from Allah, and everything He decrees and reveals happens by His command, His leave and His knowledge. The article on 44:3 treats the night itself and the sending down. This article stays with the verb, the matter it governs, and what the commentators say is separated on that night.",
+            "bn": "৪৪:৫ আয়াত বলে, আমরান মিন ইন্দিনা, আমার পক্ষ থেকে এক আদেশ। আর ৪৪:৬ আয়াত এই পাঠানোকে বলে তোমার রবের রহমত। মুয়াসসার পুরো অংশটা একসঙ্গে পড়ে: এই প্রজ্ঞাপূর্ণ বিষয় আল্লাহরই আদেশ, তিনি যা কিছু নির্ধারণ করেন আর যা ওহি পাঠান, সবই ঘটে তাঁর হুকুমে, তাঁর অনুমতিতে, তাঁর জ্ঞানে। রাতটি আর কিতাব নাজিলের প্রসঙ্গ আছে ৪৪:৩ আয়াতের লেখায়। এ লেখা থাকবে ক্রিয়াটির সঙ্গে, যে বিষয়ের কথা সে বলে তার সঙ্গে, আর তাফসীরকারদের মতে সে রাতে কী পৃথক করা হয়, তার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Set Apart and Decided",
+          "bn": "আলাদা করা, মীমাংসা করা"
+        },
+        "p": [
+          {
+            "en": "The verb yufraqu comes from the root f-r-q, to separate. Al-Baghawi gives yufsal, it is set apart. At-Tabari, in his own reading, says that in this blessed night every matter Allah has made firm for that year, until the like of it the following year, is decided and set apart: yuqda wa yufsal. The Muyassar uses the same pair and adds where the matter goes: from the Preserved Tablet to the scribes among the angels.",
+            "bn": "ইউফরাকু ক্রিয়ার মূল ফ-র-ক, যার অর্থ আলাদা করা। বাগাভী লেখেন ইউফসালু, অর্থাৎ পৃথক করা হয়। তাবারী নিজের ব্যাখ্যায় বলেন, এই বরকতময় রাতে আল্লাহ সে বছরের জন্য, পরের বছরের একই রাত পর্যন্ত, যত বিষয় পাকা করেছেন, তার প্রতিটি মীমাংসা করা হয় ও পৃথক করা হয়: ইউকদা ওয়া ইউফসালু। মুয়াসসারও এই জোড়া শব্দই ব্যবহার করে। সঙ্গে জানায় বিষয়গুলো কোথায় যায়: লাওহে মাহফুজ থেকে ফেরেশতাদের মধ্যে যাঁরা লেখক, তাঁদের কাছে।"
+          },
+          {
+            "en": "As-Sa'di uses three verbs: it is set apart, distinguished and written. He also widens the object to every matter, whether of decree or of law, that Allah has ruled. Al-Qurtubi records other readings of the verb. Some read it with the r doubled. Some read it in the active voice, with every matter as its object, and of that reading he says the separator is Allah, Mighty and Majestic. And Zayd ibn Ali read nufarriqu, We separate.",
+            "bn": "সা'দী ব্যবহার করেন তিনটি ক্রিয়া: পৃথক করা হয়, আলাদা করে চিহ্নিত করা হয়, আর লেখা হয়। বিষয়ের পরিধিও তিনি বাড়িয়ে দেন। আল্লাহ যে ফয়সালা দিয়েছেন, তা তাকদীরের হোক বা শরীয়তের, সবই এর ভেতরে। কুরতুবী ক্রিয়াটির আরও কিছু কিরাআত উল্লেখ করেন। কেউ 'র' অক্ষরে তাশদীদ দিয়ে পড়েছেন। কেউ এমনভাবে পড়েছেন যে অর্থ দাঁড়ায়: তিনি প্রতিটি বিষয় পৃথক করেন। এই পাঠ সম্পর্কে কুরতুবী বলেন, পৃথককারী হলেন মহান আল্লাহ। আর যায়দ ইবন আলী পড়েছেন নুফাররিকু, অর্থাৎ আমি পৃথক করি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Firm, and Full of Wisdom",
+          "bn": "অটল, আর হিকমতে ভরা"
+        },
+        "p": [
+          {
+            "en": "Then the adjective: every matter is hakim, and the commentators give it two senses. At-Tabari says hakim stands in the place of muhkam, made firm, and cites a parallel: alif lam mim, tilka ayatu al-kitabi al-hakim (31:1 and 31:2), where the Book called hakim means the Book made firm. Ibn Kathir agrees: muhkam, it is not exchanged and not altered. The Muyassar ends its gloss on the year's decrees with those very words.",
+            "bn": "এরপর বিশেষণটি: প্রতিটি বিষয় হাকীম। তাফসীরকারেরা এর দুটি অর্থ দেন। তাবারী বলেন, হাকীম শব্দ এখানে বসেছে মুহকামের জায়গায়, অর্থাৎ পাকা, সুদৃঢ়। দৃষ্টান্তও দেন: আলিফ লাম মীম, তিলকা আয়াতুল কিতাবিল হাকীম (৩১:১ ও ৩১:২)। সেখানেও হাকীম কিতাব মানে সুদৃঢ় কিতাব। ইবন কাসীরও এ অর্থই নেন: মুহকাম, যা বদলানো হয় না, পাল্টানো হয় না। বছরের ফয়সালার ব্যাখ্যা মুয়াসসারও শেষ করে ঠিক এই কথা দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the other sense in the closing line of his comment: kullu amrin hakim means every affair possessed of wisdom, that is, done as wisdom requires. Al-Baghawi writes simply muhkam. As-Sa'di ends his comment by tracing the whole of it to the completeness of Allah's knowledge, the perfection of His wisdom, the precision of His keeping and His care for His creation. None of them sets the two senses against each other: in their glosses, the matter is settled firmly, and it is settled with wisdom.",
+            "bn": "অন্য অর্থটি কুরতুবী দেন তাঁর আলোচনার শেষ লাইনে: কুল্লু আমরিন হাকীম মানে হিকমতসম্পন্ন প্রতিটি বিষয়, অর্থাৎ যা ঘটে হিকমতের দাবি অনুযায়ী। বাগাভী শুধু লেখেন মুহকাম। সা'দী তাঁর আলোচনা শেষ করেন সবকিছুকে আল্লাহর গুণের দিকে ফিরিয়ে দিয়ে: তাঁর জ্ঞানের পূর্ণতা, হিকমতের পরিপূর্ণতা, হেফাজতের নিখুঁত ব্যবস্থা, আর সৃষ্টির প্রতি তাঁর যত্ন। তাঁদের কেউই দুই অর্থকে পরস্পরের বিপরীতে দাঁড় করান না। তাঁদের ব্যাখ্যায় বিষয়টি স্থির হয় দৃঢ়ভাবে, আর স্থির হয় হিকমতের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Year Written Out",
+          "bn": "এক বছরের পুরো খতিয়ান"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains the verse in a single sentence: on the Night of Decree the matter of the year is separated out from the Preserved Tablet to the scribes, with the life-spans and provisions in it and whatever will happen in it to its end. He adds that this was reported from Ibn Umar, Abu Malik, Mujahid, ad-Dahhak and more than one of the early generations. The Muyassar repeats the line almost word for word, and says plainly that the scribes are angels.",
+            "bn": "ইবন কাসীর আয়াতটির ব্যাখ্যা দেন এক বাক্যে: ক্বদরের রাতে লাওহে মাহফুজ থেকে লেখকদের কাছে পৃথক করে দেওয়া হয় পুরো বছরের বিষয়, তাতে কার কত আয়ু, কার কত রিযিক, আর বছরের শেষ পর্যন্ত যা যা ঘটবে। তিনি যোগ করেন, এমন কথা বর্ণিত আছে ইবন উমার, আবু মালিক, মুজাহিদ, যাহহাক এবং পূর্বসূরিদের আরও অনেকের কাছ থেকে। মুয়াসসার প্রায় হুবহু একই কথা বলে, আর স্পষ্ট করে দেয় যে লেখকরা হলেন ফেরেশতা।"
+          },
+          {
+            "en": "At-Tabari's early reports fill in the list. Abu Malik: the matter of the year to the year, whether creation, provision, term of life or calamity. Mujahid: in the Night of Decree, every matter that will be in the year until the next, life and death; livelihoods and calamities are all measured out in it. Al-Hasan, asked whether the Night of Decree comes in every Ramadan, swore by Allah that it does, and that it is the night in which every wise matter is made distinct.",
+            "bn": "তাবারী পূর্বসূরিদের যে বর্ণনাগুলো জড়ো করেন, তাতে তালিকাটা আরও ভরে ওঠে। আবু মালিক বলেন: এক বছর থেকে পরের বছর পর্যন্ত সব বিষয়, সৃষ্টি হোক, রিযিক হোক, আয়ু হোক বা বিপদ। মুজাহিদ বলেন: ক্বদরের রাতে বছরজুড়ে যা যা ঘটবে, জীবন আর মৃত্যু, সব। জীবিকা আর বিপদ, সবকিছুর পরিমাণ সে রাতেই ঠিক হয়। হাসানকে একজন জিজ্ঞেস করেছিল, ক্বদরের রাত কি প্রতি রমজানেই আসে? তিনি আল্লাহর কসম খেয়ে বললেন, হ্যাঁ। আর বললেন, এটাই সেই রাত, যে রাতে প্রতিটি প্রজ্ঞাপূর্ণ বিষয় পৃথক করা হয়।"
+          },
+          {
+            "en": "In al-Baghawi's report, Ibn Abbas (RA) says that on the Night of Decree there is written from the Mother of the Book what will be in the year of good and evil, provisions and terms of life, even the pilgrims: it is said, so-and-so will make the Hajj, and so-and-so. Al-Qurtubi gives the same saying with death, life and rain in the list.",
+            "bn": "বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, ক্বদরের রাতে উম্মুল কিতাব থেকে লিখে নেওয়া হয় বছরে কী কী ঘটবে: ভালো-মন্দ, রিযিক, আয়ু, এমনকি হাজীদের নামও। বলা হয়, অমুক হজ করবে, অমুকও করবে। কুরতুবী একই কথা আনেন, তাঁর তালিকায় আছে মৃত্যু, জীবন আর বৃষ্টিও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known Before, Handed Over",
+          "bn": "আগে থেকেই জানা, এখন হস্তান্তর"
+        },
+        "p": [
+          {
+            "en": "If the year's matters are decided on this night, were they unknown before it? Al-Qurtubi relays al-Mahdawi's explanation of the reports: Allah commands the angels with what will be in that year, while it has never ceased to be in His knowledge. Al-Qurtubi says the same in his own words further on: this making plain of the year's rulings is for the angels entrusted with the means by which creation runs. Ma'arif al-Qur'an, citing al-Qurtubi, speaks of the year's decrees being handed to the angels to carry out.",
+            "bn": "বছরের বিষয়গুলো যদি এ রাতেই স্থির হয়, তবে কি এর আগে সেগুলো অজানা ছিল? কুরতুবী বর্ণনাগুলোর ব্যাখ্যায় মাহদাভীর কথা তুলে ধরেন: আল্লাহ সে বছর যা ঘটবে, সে বিষয়ে ফেরেশতাদের আদেশ দেন। অথচ তা সব সময়ই তাঁর জ্ঞানে ছিল। পরে কুরতুবী নিজের ভাষায়ও একই কথা বলেন: বছরের বিধানগুলো এভাবে খুলে দেওয়া হয় সেই ফেরেশতাদের জন্য, সৃষ্টি জগৎ যেসব উপায়ে চলে, তার দায়িত্ব যাঁদের হাতে। মাআরিফুল কুরআন কুরতুবীর বরাতে বলে, বছরের ফয়সালাগুলো কার্যকর করার জন্য ফেরেশতাদের হাতে তুলে দেওয়া হয়।"
+          },
+          {
+            "en": "As-Sa'di sets the night inside a longer chain of writings. This writing on the Night of Decree, he says, is one of several, and each one matches the first Book in which Allah wrote the measures of His creatures, their terms, provisions, deeds and states. Allah has charged angels to write what will befall a servant while he is still in his mother's womb. Once he comes into the world, He sets over him noble scribes who write and keep his deeds. Then on the Night of Decree He measures out the year.",
+            "bn": "সা'দী এ রাতকে বসান লেখার এক লম্বা ধারার ভেতরে। তিনি বলেন, ক্বদরের রাতের এই লেখা কয়েকটি লেখার একটি। প্রতিটিই মিলে যায় সেই প্রথম কিতাবের সঙ্গে, যেখানে আল্লাহ লিখে রেখেছেন সৃষ্টির তাকদীর: তাদের আয়ু, রিযিক, আমল আর অবস্থা। বান্দা যখন মায়ের গর্ভে, তখনই তার জীবনে কী ঘটবে, তা লেখার দায়িত্ব আল্লাহ কিছু ফেরেশতাকে দিয়েছেন। দুনিয়ায় আসার পর তার উপর নিযুক্ত করেন সম্মানিত লেখকদের, যাঁরা তার আমল লেখেন ও সংরক্ষণ করেন। তারপর ক্বদরের রাতে তিনি নির্ধারণ করেন সারা বছরে কী ঘটবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Writing Keeps Fixed",
+          "bn": "যে লেখা বদলায় না"
+        },
+        "p": [
+          {
+            "en": "Two early remarks bear on whether the year's writing can move. Al-Qurtubi records a saying of Ibn Umar (RA): except wretchedness and felicity, for those two do not change. At-Tabari tells of Mansur, who asked Mujahid about a prayer some people said: O Allah, if my name is among the felicitous, keep it among them; and if it is among the wretched, erase it from them and place it with the felicitous. Mujahid answered that it was good.",
+            "bn": "বছরের লেখা কি নড়চড় হতে পারে? পূর্বসূরিদের দুটি কথা এ প্রশ্ন ছুঁয়ে যায়। কুরতুবী ইবন উমার (রাঃ)-এর একটি কথা উল্লেখ করেন: শুধু দুর্ভাগ্য আর সৌভাগ্য ছাড়া, কারণ এ দুটি বদলায় না। তাবারী শোনান মানসুরের ঘটনা। কেউ কেউ একটা দোয়া পড়ত: হে আল্লাহ, আমার নাম যদি সৌভাগ্যবানদের মধ্যে থাকে, তবে সেখানেই রাখুন। আর যদি দুর্ভাগাদের মধ্যে থাকে, তবে সেখান থেকে মুছে দিয়ে সৌভাগ্যবানদের মধ্যে লিখে দিন। মানসুর এ দোয়া সম্পর্কে মুজাহিদকে জিজ্ঞেস করলেন। মুজাহিদ বললেন, ভালো।"
+          },
+          {
+            "en": "A year or more later Mansur asked again. This time Mujahid recited 44:3 and 44:4 and said: what will be in the year of provision or calamity is decided in the Night of Decree, then He brings forward what He wills and holds back what He wills; but the book of felicity and wretchedness is fixed and does not change. That is Mujahid's statement as at-Tabari records it; Ibn Kathir glosses hakim as not altered. The sources leave the two remarks unreconciled, and so does this article.",
+            "bn": "এক বছর বা তারও পরে মানসুর আবার একই প্রশ্ন করলেন। এবার মুজাহিদ ৪৪:৩ ও ৪৪:৪ আয়াত তিলাওয়াত করে বললেন: বছরে রিযিক বা বিপদের যা কিছু ঘটবে, তা ক্বদরের রাতে স্থির হয়। তারপর আল্লাহ যা চান আগে আনেন, যা চান পিছিয়ে দেন। কিন্তু সৌভাগ্য আর দুর্ভাগ্যের লেখা অটল, বদলায় না। এ কথা মুজাহিদের, যেমনটা তাবারী লিপিবদ্ধ করেছেন। আর ইবন কাসীরের ব্যাখ্যায় হাকীম মানে যা পাল্টানো হয় না। উৎসগুলো এ দুই কথা মেলানোর চেষ্টা করেনি, এ লেখাও করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ramadan or Mid-Sha'ban Here",
+          "bn": "এখানে রমজান, নাকি মধ্য-শাবান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens his comment on 44:4 with a dispute: the people of interpretation differed over the night in which every wise matter is made distinct, just as they differed over the blessed night, because fiha refers to it. Some said it is the Night of Decree. For this he gives al-Hasan, Abu Malik, Abu Abd ar-Rahman, Mujahid and Qatada, and a line from Hilal ibn Yasaf: it used to be said, wait for the decree in the month of Ramadan.",
+            "bn": "৪৪:৪ আয়াতের আলোচনা তাবারী শুরু করেন একটি মতভেদ দিয়ে। যে রাতে প্রতিটি প্রজ্ঞাপূর্ণ বিষয় পৃথক করা হয়, সে রাত নিয়ে মুফাসসিররা মতভেদ করেছেন, ঠিক যেমন মতভেদ করেছেন বরকতময় রাত নিয়ে। কারণ ফীহা সেই রাতকেই বোঝায়। একদল বলেছেন, এটি ক্বদরের রাত। এ মতের পক্ষে তিনি আনেন হাসান, আবু মালিক, আবু আবদির রহমান, মুজাহিদ ও কাতাদার বর্ণনা। সঙ্গে হিলাল ইবন ইয়াসাফের একটি কথা: বলা হতো, ফয়সালার অপেক্ষা করো রমজান মাসে।"
+          },
+          {
+            "en": "Others said it is the night of the middle of Sha'ban. At-Tabari gives this from Ikrimah, in words tied to this verse: on that night the matter of the year is made binding, the living are copied out from the dead, and the pilgrims are written down, so that none is added to them and none taken away. Al-Baghawi and al-Qurtubi carry the same saying from Ikrimah. Al-Baghawi also records, through Abu ad-Duha from Ibn Abbas (RA), that Allah decides the decrees on mid-Sha'ban and hands them to those charged with them on the Night of Decree.",
+            "bn": "অন্যরা বলেছেন, এটি শাবান মাসের মাঝামাঝি রাত। তাবারী এ মত আনেন ইকরিমা থেকে, এই আয়াতের সঙ্গে জড়ানো ভাষায়: সে রাতে বছরের বিষয় পাকা করা হয়, জীবিতদের নাম মৃতদের থেকে আলাদা করে লেখা হয়, আর হাজীদের নাম লেখা হয়, তাতে একজনও বাড়ে না, একজনও কমে না। বাগাভী আর কুরতুবীও ইকরিমার এই কথা আনেন। বাগাভী আরও বর্ণনা করেন আবুদ দুহার সূত্রে ইবন আব্বাস (রাঃ) থেকে: আল্লাহ মধ্য-শাবানে ফয়সালাগুলো স্থির করেন, আর ক্বদরের রাতে সেগুলো দায়িত্বপ্রাপ্তদের হাতে তুলে দেন।"
+          },
+          {
+            "en": "The verdicts are the commentators' own. At-Tabari judges the Night of Decree the sounder view, since he has shown the blessed night of 44:3 to be that night and fiha refers to it. Al-Qurtubi notes that the author of Kitab al-Arus chose mid-Sha'ban and called it the night of bara'ah, and replies that the sound view is the Night of Decree. He quotes Qadi Abu Bakr ibn al-Arabi: the majority hold it is the Night of Decree, the Sha'ban view is void because 2:185 fixes the sending down in Ramadan, and no reliable hadith supports either the night's merit or terms being copied in it.",
+            "bn": "রায়গুলো তাফসীরকারদের নিজেদের। তাবারীর বিচারে ক্বদরের রাতের মতটিই অধিক সঠিক, কারণ তিনি আগেই দেখিয়েছেন ৪৪:৩ আয়াতের বরকতময় রাত সেই রাত, আর ফীহা তাকেই বোঝায়। কুরতুবী জানান, কিতাবুল আরূসের লেখক মধ্য-শাবান বেছে নিয়েছেন এবং একে বারাআতের রাত বলেছেন। জবাবে কুরতুবী বলেন, সঠিক মত হলো ক্বদরের রাত। তিনি কাজী আবু বকর ইবনুল আরাবীর কথাও উদ্ধৃত করেন: অধিকাংশ আলেমের মতে এটি ক্বদরের রাত। শাবানের মতটি বাতিল, কারণ ২:১৮৫ আয়াত নাজিলের সময় রমজানে বেঁধে দিয়েছে। আর এ রাতের ফজিলত বা এতে আয়ু লেখা নিয়ে নির্ভর করার মতো কোনো হাদীস নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Brought to This Verse",
+          "bn": "এ আয়াতে আনা বর্ণনাগুলো"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted here attaches a sound hadith to 44:4. At-Tabari, al-Baghawi and al-Qurtubi carry a report from Uthman ibn Muhammad ibn al-Mughira ibn al-Akhnas, who quotes the Prophet ﷺ with no Companion named between them: life-spans are cut off from Sha'ban to Sha'ban, so that a man marries and has a child born to him while his name has gone out among the dead. Ibn Kathir graded it mursal, as the article on 44:3 records.",
+            "bn": "এখানে দেখা কোনো তাফসীরই ৪৪:৪ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তাবারী, বাগাভী ও কুরতুবী একটি বর্ণনা আনেন উসমান ইবন মুহাম্মাদ ইবনুল মুগীরা ইবনুল আখনাস থেকে। তিনি সরাসরি নবী ﷺ-এর কথা উদ্ধৃত করেন, মাঝে কোনো সাহাবীর নাম নেই। কথাটি এই: আয়ু কাটা হয় এক শাবান থেকে আরেক শাবানে, এমনকি মানুষ বিয়ে করে, তার সন্তান জন্মায়, অথচ তার নাম ততদিনে মৃতদের তালিকায় উঠে গেছে। ইবন কাসীর একে মুরসাল বলেছেন, ৪৪:৩ আয়াতের লেখায় যেমন উল্লেখ আছে।"
+          },
+          {
+            "en": "Al-Qurtubi also brings to this verse a report that at-Tirmidhi records (739): 'Aishah narrated: I could not find the Messenger of Allah one night. So I left and found him at Al-Baqi. He said: Did you fear that you had been wronged by Allah and His Messenger? I said: O Messenger of Allah! I thought that you had gone to one of your wives. So he said: Indeed Allah, Mighty and Sublime is He, descends to the lowest Heavens during the night of the middle of Sha'ban, to grant forgiveness to more than the number of hairs on the sheep of (Banu) Kalb.'",
+            "bn": "কুরতুবী এ আয়াতে তিরমিযীর (৭৩৯) একটি বর্ণনাও আনেন: আয়েশা (রাঃ) বলেন, এক রাতে আমি আল্লাহর রাসূল ﷺ-কে খুঁজে পেলাম না। বেরিয়ে দেখি, তিনি বাকী'তে। তিনি বললেন, তুমি কি ভয় পেয়েছিলে যে আল্লাহ ও তাঁর রাসূল তোমার প্রতি অবিচার করবেন? আমি বললাম, হে আল্লাহর রাসূল, আমি ভেবেছিলাম আপনি আপনার অন্য কোনো স্ত্রীর কাছে গেছেন। তিনি বললেন, মহান আল্লাহ মধ্য-শাবানের রাতে দুনিয়ার আসমানে নেমে আসেন, আর বনু কালবের ভেড়ার পশমের সংখ্যার চেয়েও বেশি মানুষকে ক্ষমা করেন।"
+          },
+          {
+            "en": "At-Tirmidhi himself grades it down. He says he knows Aishah's report only by this one route, through al-Hajjaj, and that he heard Muhammad weaken it: Yahya ibn Abi Kathir did not hear from Urwah, and al-Hajjaj did not hear from Yahya. Its subject is forgiveness on that night, not decrees made distinct, and nothing in its wording ties it to 44:4; al-Qurtubi places it here. What may be done on that night is a question of fiqh, and this article gives no ruling on it.",
+            "bn": "তিরমিযী নিজেই বর্ণনাটিকে দুর্বল বলেছেন। তিনি জানান, আয়েশা (রাঃ)-এর এ বর্ণনা তিনি হাজ্জাজের এই একটি সূত্র ছাড়া চেনেন না। আর তিনি মুহাম্মাদকে এটিকে দুর্বল বলতে শুনেছেন, কারণ ইয়াহইয়া ইবন আবী কাসীর উরওয়া থেকে শোনেননি, আর হাজ্জাজ শোনেননি ইয়াহইয়া থেকে। এর বিষয় সে রাতের ক্ষমা, ফয়সালা পৃথক করা নয়। এর ভাষায় ৪৪:৪ আয়াতের সঙ্গে কোনো যোগ নেই, কুরতুবী নিজে একে এখানে এনেছেন। সে রাতে কী করা যায়, তা ফিকহের প্রশ্ন, এ লেখা সে বিষয়ে কোনো বিধান দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Planting Trees in a Written Year",
+          "bn": "লেখা বছরে গাছ লাগানো"
+        },
+        "p": [
+          {
+            "en": "Two reports at-Tabari keeps on this verse make the same point. Umar, the freedman of Ghufrah, said: it used to be said that the angel of death is given a copy of who will die from one Night of Decree to the next, so you find a man marrying and planting trees while his name is among the dead. From Ibn Abbas (RA), through Sa'id ibn Jubayr: a man walks among people and has already been raised among the dead. Then he recited 44:3 and 44:4.",
+            "bn": "এ আয়াতে তাবারীর রাখা দুটি বর্ণনা একই কথা বলে। গুফরার মুক্ত গোলাম উমার বলেন: বলা হতো, এক ক্বদরের রাত থেকে পরের ক্বদরের রাত পর্যন্ত কে কে মারা যাবে, তার একটি কপি মৃত্যুর ফেরেশতাকে দেওয়া হয়। তাই দেখবে, মানুষ বিয়ে করছে, গাছ লাগাচ্ছে, অথচ তার নাম মৃতদের তালিকায়। সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ) বলেন: মানুষ লোকজনের মাঝে হেঁটে বেড়ায়, অথচ তাকে ইতিমধ্যে মৃতদের মধ্যে তুলে নেওয়া হয়েছে। তারপর তিনি ৪৪:৩ ও ৪৪:৪ আয়াত তিলাওয়াত করেন।"
+          },
+          {
+            "en": "Neither report tells the man to stop marrying or planting. The verse gives the year's matters to Allah, the next verse calls them a matter from Us, and the commentators' glosses describe what is settled as settled firmly and with wisdom. A reader can plan the year in earnest and work for it, and still hold each plan lightly: asking Allah for good in it, and meeting what reaches him as coming from the One whose every matter is wise.",
+            "bn": "কোনো বর্ণনাই মানুষকে বিয়ে করা বা গাছ লাগানো থামাতে বলে না। আয়াত বছরের সব বিষয় আল্লাহর হাতে সঁপে দেয়, পরের আয়াত সেগুলোকে বলে আমার পক্ষ থেকে আদেশ। আর তাফসীরকারদের ব্যাখ্যায় যা স্থির হয়, তা স্থির হয় দৃঢ়ভাবে ও হিকমতের সঙ্গে। পাঠক তাই মন দিয়ে বছরের পরিকল্পনা করতে পারেন, সে জন্য খাটতেও পারেন। তবু প্রতিটি পরিকল্পনা ধরে রাখবেন হালকা হাতে। তাতে আল্লাহর কাছে কল্যাণ চাইবেন, আর যা আসে তাকে গ্রহণ করবেন এমন একজনের পক্ষ থেকে, যাঁর প্রতিটি বিষয় প্রজ্ঞাপূর্ণ।"
+          }
+        ]
+      }
+    ]
+  },
   "44:8": {
     "sections": [
       {
