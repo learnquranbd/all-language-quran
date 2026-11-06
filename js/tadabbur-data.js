@@ -25289,6 +25289,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Obey Allah and His Messenger now, while obedience still counts, rather than wishing for it later; and remember that whoever leads others carries the weight of where they lead.",
     "lessonBn": "আনুগত্যের যখন দাম আছে, তখনই আল্লাহ ও তাঁর রসূলের আনুগত্য করুন, পরে আফসোস করার অপেক্ষায় থাকবেন না। আর মনে রাখুন, যে অন্যদের পথ দেখায়, কোন দিকে নিয়ে গেল তার ভার তাকেই বইতে হয়।"
+  },
+  "34:27": {
+    "reflectionEn": "Show me, the verse says. It is a short challenge, and it leaves room for an answer. Point to what these partners have made: a handful of earth, a share in the sky, one meal provided. Then the verse answers before anyone can: no. There is nothing to point at. He is Allah, the Mighty, the Wise. The words were first spoken to people in Makkah who had joined idols to their Lord, and they condemn no one living. They ask me something instead. What have I attached to Him in my own heart, a person, a fear, a hope, as if it could give or withhold? If I were asked to show what it has created, what would I point to?",
+    "reflectionBn": "আমাকে দেখাও, আয়াতটি বলে। চ্যালেঞ্জটা ছোট, আর তাতে জবাব দেওয়ার সুযোগও রাখা আছে। এই শরীকেরা কী বানিয়েছে, দেখিয়ে দাও: এক মুঠো মাটি, আকাশে একটুখানি অংশ, কিংবা কারও মুখে তুলে দেওয়া এক বেলার খাবার। তারপর কেউ মুখ খোলার আগেই আয়াত নিজে জবাব দেয়: কক্ষনো না। দেখানোর মতো কিছুই নেই। তিনিই আল্লাহ, মহাপরাক্রমশালী, মহাপ্রজ্ঞাময়। কথাগুলো প্রথম বলা হয়েছিল মক্কার সেই লোকদের, যারা নিজেদের রবের সঙ্গে মূর্তি জুড়ে দিয়েছিল। আজকের কোনো মানুষের উপর এ কথা কোনো রায় দেয় না। বরং আমাকেই প্রশ্ন করে। আমার নিজের মনে আমি তাঁর সঙ্গে কী জুড়ে দিয়েছি? কোনো মানুষ, কোনো ভয়, কোনো আশা, যেন সে দিতে পারে বা আটকে রাখতে পারে? কেউ যদি বলে, দেখাও সে কী সৃষ্টি করেছে, আমি কোন দিকে আঙুল তুলব?",
+    "pointsEn": [
+      "If I were asked to show what the things I lean on have actually created or provided, what could I point to?",
+      "Which hope or fear in my life have I quietly attached to Allah, giving it a weight that belongs to Him alone?",
+      "When I speak for the truth, do I ask questions that let the other person look for themselves, or do I only hand down verdicts?",
+      "Where do I need to remember that His might means nothing escapes Him, and His wisdom means nothing He commands is pointless?",
+      "What would change in my du'a if I truly believed no one else holds an atom's weight of the outcome?"
+    ],
+    "pointsBn": [
+      "যেসবের উপর আমি ভরসা করি, কেউ যদি বলে তারা আসলে কী সৃষ্টি করেছে বা কী রিযক দিয়েছে তা দেখাও, আমি কী দেখাতে পারব?",
+      "আমার জীবনের কোন আশা বা কোন ভয়কে আমি চুপিসারে আল্লাহর সঙ্গে জুড়ে দিয়েছি, আর তাকে এমন ওজন দিয়েছি যা কেবল তাঁরই প্রাপ্য?",
+      "সত্যের পক্ষে কথা বলার সময় আমি কি এমন প্রশ্ন করি যাতে অন্যজন নিজেই খুঁজে দেখতে পারে, নাকি শুধু রায় শুনিয়ে দিই?",
+      "কোথায় আমার মনে রাখা দরকার যে তাঁর পরাক্রমের সামনে কিছুই ফসকে যায় না, আর তাঁর প্রজ্ঞার কারণে তাঁর কোনো হুকুমই অর্থহীন নয়?",
+      "যদি সত্যিই বিশ্বাস করতাম যে ফলাফলের অণু পরিমাণও আর কারও হাতে নেই, তাহলে আমার দোয়ায় কী বদলে যেত?"
+    ],
+    "lessonEn": "Nothing set beside Allah has made or provided anything you could point to; give your worship, hope and fear to Him alone, the Mighty, the Wise.",
+    "lessonBn": "আল্লাহর পাশে যাকেই দাঁড় করানো হোক, দেখানোর মতো কিছুই সে সৃষ্টি করেনি, কিছুই দেয়নি। তাই ইবাদত, আশা আর ভয় শুধু তাঁকেই দিন, যিনি মহাপরাক্রমশালী, মহাপ্রজ্ঞাময়।"
   }
 };
 

@@ -599,6 +599,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "34:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sixth Command to Say",
+          "bn": "ষষ্ঠবারের মতো 'বলো'"
+        },
+        "p": [
+          {
+            "en": "Qul arūniya alladhīna alḥaqtum bihi shurakā'. Say: show me those you have attached to Him as partners. This is the sixth time in six verses that the Prophet ﷺ is told to say something. From 34:22 the passage has been a run of commands to speak: call on those you claim, ask who provides for you, tell them neither side answers for the other, tell them our Lord will gather us. This verse closes the run with a demand, then a single word of refusal, then the name of Allah with two of His names.",
+            "bn": "কুল আরূনিয়াল্লাযীনা আলহাকতুম বিহী শুরাকা: বলো, তোমরা যাদেরকে তাঁর সঙ্গে শরীক হিসেবে জুড়ে দিয়েছ, তাদের আমাকে দেখাও। ছয়টি আয়াতের মধ্যে এ নিয়ে ষষ্ঠবার নবী ﷺ-কে কিছু বলতে বলা হলো। ৩৪:২২ থেকে পুরো অংশটাই একের পর এক মুখে বলার নির্দেশ: যাদের তোমরা দাবি করো তাদের ডাকো, জিজ্ঞেস করো কে তোমাদের রিযক দেন, জানিয়ে দাও এক পক্ষ অন্য পক্ষের জন্য জবাবদিহি করবে না, জানিয়ে দাও আমাদের রব আমাদের একত্র করবেন। এই আয়াতে ধারাটা শেষ হয় তিনটি ধাপে। প্রথমে একটি দাবি, তারপর প্রত্যাখ্যানের একটিমাত্র শব্দ, তারপর আল্লাহর নাম ও তাঁর দুটি গুণবাচক নাম।"
+          },
+          {
+            "en": "At-Tabari names the speaker and the hearers at once. Allah says to His Prophet Muhammad ﷺ: say, O Muhammad, to these people who associate gods and idols with Allah, show me, O people, those you have joined to Him. As-Sa'di widens the speaker. Say to them, O Messenger, he writes, wa man nāba manābaka, and whoever stands in your place. On his reading the challenge is not fixed to one debate in Makkah. Whoever speaks for the oneness of Allah after the Prophet ﷺ may put the same question in the same words.",
+            "bn": "তাবারী এক বাক্যেই বক্তা ও শ্রোতা দুজনকে চিনিয়ে দেন। আল্লাহ তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন: হে মুহাম্মাদ, যারা আল্লাহর সঙ্গে নানা উপাস্য আর মূর্তিকে শরীক করে, তাদের বলো, হে লোকেরা, যাদের তোমরা তাঁর সঙ্গে জুড়ে দিয়েছ, তাদের আমাকে দেখাও। সা'দী বক্তার পরিধি আরও বাড়ান। তাঁর ভাষায়: হে রাসূল, তাদের বলো তুমি, আর ওয়া মান নাবা মানাবাকা, তোমার জায়গায় যে দাঁড়ায় সেও। তাঁর পাঠে চ্যালেঞ্জটা মক্কার কোনো এক বিতর্কে আটকে নেই। নবী ﷺ-এর পরে যে-ই আল্লাহর একত্বের পক্ষে কথা বলে, সে একই প্রশ্ন একই ভাষায় তুলতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeing With the Heart",
+          "bn": "হৃদয়ের দেখা, চোখের দেখা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi stops on the verb itself. Arūnī here, he says, may come from ru'yat al-qalb, the seeing of the heart, which is knowing. Then the verb takes three objects and shurakā' is the third, and the sense is 'arrifūnī: make known to me the idols and images you have made partners with Allah. Did they share in the creation of anything? Then make clear what it is. And if not, why do you worship them?",
+            "bn": "কুরতুবী থামেন ক্রিয়াটির উপরেই। তাঁর মতে এখানে আরূনী আসতে পারে রু'ইয়াতুল কালব থেকে, অর্থাৎ অন্তরের দেখা, যার মানে জানা। তখন ক্রিয়াটি তিনটি কর্ম নেয়, আর শুরাকা হয় তৃতীয় কর্ম। অর্থ দাঁড়ায় আররিফূনী: যে মূর্তি আর প্রতিমাগুলোকে তোমরা আল্লাহর শরীক বানিয়েছ, তাদের আমাকে চিনিয়ে দাও। তারা কি কোনো কিছুর সৃষ্টিতে অংশ নিয়েছে? তাহলে খুলে বলো সেটা কী। আর যদি না নিয়ে থাকে, তবে তাদের ইবাদত করো কেন?"
+          },
+          {
+            "en": "He then allows a second reading. Arūnī may come from ru'yat al-baṣar, the seeing of the eye. On that reading shurakā' is a ḥāl, a word describing a state: show me them, as partners, standing before me in that role. The first reading asks the idolaters for knowledge, the second asks them for something visible. On both readings the demand is the same in substance. Produce what you claim, in a form that can be checked.",
+            "bn": "এরপর তিনি দ্বিতীয় একটি পাঠেরও সুযোগ রাখেন। আরূনী আসতে পারে রু'ইয়াতুল বাসার থেকে, অর্থাৎ চোখের দেখা। সে পাঠে শুরাকা হয় হাল, মানে অবস্থা বোঝানো শব্দ: শরীক হিসেবে, সেই ভূমিকায় দাঁড় করিয়ে তাদের আমাকে দেখাও। প্রথম পাঠে মুশরিকদের কাছে চাওয়া হচ্ছে জ্ঞান, দ্বিতীয় পাঠে চোখে দেখার মতো কিছু। দুই পাঠেই দাবির সারকথা এক: যা দাবি করছ, তা এমনভাবে হাজির করো যাতে যাচাই করা যায়।"
+          },
+          {
+            "en": "The shorter commentaries lean toward the first sense. Al-Baghawi glosses arūnī as a'limūnī, inform me. The Muyassar adds the means of the showing: show me bi'l-ḥujja wa'd-dalīl, by proof and by evidence, those you have joined to Allah and made His partners in worship. So the showing the commentators have in mind is a showing of argument. That is why the verse reads as a challenge and not as mockery. It asks for evidence and waits for it.",
+            "bn": "সংক্ষিপ্ত তাফসীরগুলো প্রথম অর্থের দিকেই ঝোঁকে। বাগাভী আরূনী-র ব্যাখ্যা দেন আ'লিমূনী দিয়ে, অর্থাৎ আমাকে জানাও। মুয়াসসার দেখানোর মাধ্যমটাও বলে দেয়: যাদের তোমরা আল্লাহর সঙ্গে জুড়ে ইবাদতে তাঁর শরীক বানিয়েছ, তাদের বিল-হুজ্জাতি ওয়াদ-দালীল, অর্থাৎ যুক্তি আর প্রমাণ দিয়ে আমাকে দেখাও। তাহলে তাফসীরকারেরা যে দেখানোর কথা ভাবছেন, তা আসলে যুক্তি দেখানো। এ কারণেই আয়াতটি ঠাট্টা নয়, চ্যালেঞ্জ। আয়াত প্রমাণ চায়, আর তার জন্য অপেক্ষা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Joining Was Theirs",
+          "bn": "জুড়ে দিয়েছিল তারাই"
+        },
+        "p": [
+          {
+            "en": "Then the verb that names the offence: alḥaqtum, you have attached, you have joined on. At-Tabari unfolds it: those you joined to Allah, fa-ṣayyartumūhum lahu shurakā' fī 'ibādatikum iyyāhum, and so turned them into His partners in your worship of them. In his wording the partnership is not something the idols ever held. It was conferred on them, and the act that conferred it was the worship itself. Ibn Kathir says the same: these gods you made andād, rivals to Allah, and turned into an 'adl, an equal to Him.",
+            "bn": "এরপর সেই ক্রিয়া, যা অপরাধটার নাম বলে দেয়: আলহাকতুম, তোমরা জুড়ে দিয়েছ, লাগিয়ে দিয়েছ। তাবারী শব্দটি খুলে বলেন: যাদের তোমরা আল্লাহর সঙ্গে জুড়ে দিয়েছ, ফা সাইয়ারতুমূহুম লাহু শুরাকা ফী ইবাদাতিকুম ইয়্যাহুম, তাদের ইবাদত করে করে তোমরাই তাদের তাঁর শরীক বানিয়ে ফেলেছ। তাবারীর ভাষায় এই অংশীদারি মূর্তিগুলোর নিজেদের কখনো ছিল না। তা তাদের গায়ে চাপানো হয়েছে, আর চাপিয়েছে ইবাদত নিজেই। ইবন কাসীর ভিন্ন শব্দে একই কথা বলেন: এই উপাস্যদের তোমরা আল্লাহর আনদাদ, অর্থাৎ প্রতিদ্বন্দ্বী বানিয়েছ, তাঁর আদল, অর্থাৎ সমকক্ষ করে তুলেছ।"
+          },
+          {
+            "en": "The grammar carries the same point. The subject of alḥaqtum is you. The partners did nothing to join themselves to Allah; the worshippers did the joining, and the verse holds them to it. As-Sa'di makes the claim explicit when he restates the challenge: show me those you have attached to Allah bi-za'mikum al-bāṭil, by your false claim. His word za'm echoes the opening of the run in 34:22, alladhīna za'amtum, those you claim. A partner that exists only as a claim has nothing behind it to show.",
+            "bn": "ব্যাকরণও একই কথা বলে। আলহাকতুম ক্রিয়ার কর্তা হলো 'তোমরা'। শরীকেরা নিজেরা আল্লাহর সঙ্গে জুড়ে যায়নি। জুড়ে দিয়েছে উপাসকেরা, আর আয়াত সে দায় তাদের উপরেই রাখে। চ্যালেঞ্জটা নতুন করে বলার সময় সা'দী কথাটা স্পষ্ট করে দেন: যাদের তোমরা বি-যা'মিকুমুল বাতিল, অর্থাৎ নিজেদের মিথ্যা দাবির জোরে আল্লাহর সঙ্গে জুড়েছ, তাদের আমাকে দেখাও। তাঁর যা'ম শব্দটা মনে করিয়ে দেয় ৩৪:২২ আয়াতের শুরু, আল্লাযীনা যা'আমতুম, যাদের তোমরা দাবি করো। যে শরীকের অস্তিত্ব শুধু দাবিতে, তার পেছনে দেখানোর মতো কিছুই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Something to Point At",
+          "bn": "আঙুল তোলার মতো কিছু"
+        },
+        "p": [
+          {
+            "en": "What would count as showing them? At-Tabari answers by filling in the question: show me mādhā khalaqū mina'l-arḍ am lahum shirkun fi's-samāwāt, what they have created of the earth, or whether they have a share in the heavens. His words are the wording of 35:40 and 46:4, where the same demand stands in the text with the same verb, arūnī. Elsewhere, 31:11 puts it in its barest form: this is the creation of Allah, so show me what those besides Him have created.",
+            "bn": "কী দেখালে তাদের দেখানো হলো বলা যাবে? তাবারী প্রশ্নটা পূর্ণ করে এর জবাব দেন: আমাকে দেখাও মাযা খালাকূ মিনাল আরদি আম লাহুম শিরকুন ফিস-সামাওয়াত, পৃথিবীর কী তারা সৃষ্টি করেছে, কিংবা আসমানে তাদের কোনো অংশ আছে কি না। তাঁর এ কথাগুলো হুবহু ৩৫:৪০ ও ৪৬:৪ আয়াতের ভাষা, যেখানে একই ক্রিয়া আরূনী দিয়ে একই দাবি তোলা হয়েছে। আর ৩১:১১ আয়াত কথাটা বলে সবচেয়ে সাদামাটা রূপে: এ হলো আল্লাহর সৃষ্টি, এবার আমাকে দেখাও তিনি ছাড়া অন্যেরা কী সৃষ্টি করেছে।"
+          },
+          {
+            "en": "Al-Baghawi puts the test as two questions: hal yakhluqūn wa hal yarzuqūn, do they create, and do they provide? The Muyassar keeps one: did they create anything? These are the questions the run-up has already pressed. In 34:22 the claimed gods own not an atom's weight in the heavens or on the earth, and in 34:24 the answer to who provides is Allah. Here the verse gathers what came before into one demand. Show what they did.",
+            "bn": "বাগাভী পরীক্ষাটা রাখেন দুটি প্রশ্নে: হাল ইয়াখলুকূন ওয়া হাল ইয়ারযুকূন, তারা কি সৃষ্টি করে, তারা কি রিযক দেয়? মুয়াসসার রাখে একটিই: তারা কি কিছু সৃষ্টি করেছে? আগের আয়াতগুলো এ প্রশ্নগুলোই তুলে এসেছে। ৩৪:২২ আয়াতে দাবি করা উপাস্যেরা আসমানে বা যমীনে অণু পরিমাণেরও মালিক নয়, আর ৩৪:২৪ আয়াতে কে রিযক দেন তার জবাব আল্লাহ। এখানে আয়াতটি আগের সব কথা এক দাবিতে গুটিয়ে আনে: তারা কী করেছে, দেখাও।"
+          },
+          {
+            "en": "As-Sa'di asks a different kind of question. Where are they, he writes, and where is the road to knowing them? Are they on the earth or in the sky? For the Knower of the unseen and the seen has told us that there is no partner to Him in existence. He cites 10:18, do you inform Allah of what He does not know in the heavens or on the earth, and 10:66, they follow nothing but assumption. Likewise, he adds, the chosen of His creation among the prophets and messengers know of no partner for Him.",
+            "bn": "সা'দী ভিন্ন ধরনের প্রশ্ন করেন। তিনি লেখেন: তারা কোথায়? তাদের চেনার পথটাই বা কোথায়? তারা কি যমীনে আছে, নাকি আসমানে? কারণ যিনি গায়েব ও প্রকাশ্য সব জানেন, তিনি আমাদের জানিয়ে দিয়েছেন যে অস্তিত্বের জগতে তাঁর কোনো শরীক নেই। এর সমর্থনে তিনি আনেন ১০:১৮ আয়াত, তোমরা কি আল্লাহকে এমন কিছুর খবর দিচ্ছ যা তিনি আসমানে বা যমীনে জানেন না? আর ১০:৬৬ আয়াত, তারা ধারণা ছাড়া আর কিছুর অনুসরণ করে না। সঙ্গে যোগ করেন, তাঁর সৃষ্টির বিশেষ বান্দারা, নবী ও রাসূলগণও তাঁর কোনো শরীকের কথা জানেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A No Before Any Reply",
+          "bn": "জবাবের আগেই 'না'"
+        },
+        "p": [
+          {
+            "en": "Then one word: kallā. Al-Qurtubi gives two readings and leaves both standing. On the first, kallā means laysa'l-amru kamā za'amtum, the matter is not as you claimed. On the second, introduced with qīla, it is said, kallā answers a reply the text leaves out. It is as if He said, show me those you have attached to Him as partners; they said, they are the idols; and He said, kallā, He has no partners. The first refuses the claim; the second refuses the answer they would give.",
+            "bn": "তারপর একটি শব্দ: কাল্লা। কুরতুবী দুটি পাঠ উল্লেখ করেন, আর দুটিকেই রেখে দেন। প্রথম পাঠে কাল্লা মানে লাইসাল আমরু কামা যা'আমতুম, ব্যাপারটা তোমাদের দাবির মতো নয়। দ্বিতীয় পাঠ তিনি আনেন কীলা, অর্থাৎ 'বলা হয়' দিয়ে। এ পাঠে কাল্লা এমন এক জবাবকে নাকচ করে, যা আয়াতে উহ্য রাখা হয়েছে। যেন তিনি বললেন, যাদের তোমরা তাঁর সঙ্গে শরীক হিসেবে জুড়ে দিয়েছ তাদের দেখাও। তারা বলল, এরা তো মূর্তিগুলো। তিনি বললেন, কাল্লা, তাঁর কোনো শরীক নেই। প্রথম পাঠ নাকচ করে দাবিটাকে, দ্বিতীয়টি নাকচ করে তাদের সম্ভাব্য জবাবকে।"
+          },
+          {
+            "en": "At-Tabari gives kallā its bluntest gloss: kadhabū, they lied. The matter is not as they described, nor as they made out and said, that Allah has a partner. As-Sa'di explains why the word comes so fast: hādha's-su'āl lā yumkinuhum al-ijābatu 'anhu, this is a question they cannot answer, and for that reason He said kallā. Ibn Kathir unpacks the single word into four denials. He has no naẓīr, no peer; no nadīd, no rival; no sharīk, no partner; and no 'adīl, no equal.",
+            "bn": "তাবারী কাল্লা-র সবচেয়ে সোজাসাপটা ব্যাখ্যা দেন: কাযাবূ, তারা মিথ্যা বলেছে। তারা যেভাবে বর্ণনা করেছে, যেভাবে বানিয়ে বলেছে যে আল্লাহর শরীক আছে, ব্যাপারটা মোটেই তেমন নয়। শব্দটি এত দ্রুত কেন আসে, তা বলেন সা'দী: হাযাস সুআলু লা ইউমকিনুহুমুল ইজাবাতু আনহু, এ এমন প্রশ্ন যার জবাব দেওয়া তাদের পক্ষে সম্ভব নয়, তাই তিনি বললেন কাল্লা। ইবন কাসীর এই এক শব্দকে খুলে চারটি নাকচে ভাগ করেন। তাঁর কোনো নাযীর, অর্থাৎ সমতুল্য নেই। নাদীদ, অর্থাৎ প্রতিদ্বন্দ্বী নেই। শারীক, অর্থাৎ অংশীদার নেই। আর আদীল, অর্থাৎ সমকক্ষও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Partners Should Stand",
+          "bn": "শরীকের জায়গায় তাঁর নাম"
+        },
+        "p": [
+          {
+            "en": "Bal huwa'llāh: rather, He is Allah. Ibn Kathir reads the name as al-wāḥid al-aḥad alladhī lā sharīka lah, the One, the Only, who has no partner. At-Tabari reads it as al-ma'būd, the One who is worshipped, and adds a second denial beyond the fact: lā yaṣluḥu an yakūna lahu sharīkun fī mulkih, it is not even fitting that He should have a partner in His dominion. As-Sa'di puts it in terms of what is owed: none deserves to be taken as god and served in worship except Him.",
+            "bn": "বাল হুওয়াল্লাহ: বরং তিনিই আল্লাহ। ইবন কাসীর নামটির ব্যাখ্যা দেন আল-ওয়াহিদুল আহাদুল্লাযী লা শারীকা লাহু দিয়ে, যিনি এক ও একমাত্র, যাঁর কোনো শরীক নেই। তাবারীর কাছে এর অর্থ আল-মা'বূদ, যাঁর ইবাদত করা হয়। এরপর তিনি বাস্তবতার বাইরেও আরেকটি নাকচ যোগ করেন: লা ইয়াসলুহু আন ইয়াকূনা লাহু শারীকুন ফী মুলকিহী, তাঁর রাজত্বে তাঁর কোনো শরীক থাকা শোভনই নয়। সা'দী কথাটা বলেন প্রাপ্যের ভাষায়: তিনি ছাড়া আর কেউ ইলাহ হিসেবে গৃহীত হওয়ার আর ইবাদত পাওয়ার যোগ্য নয়।"
+          },
+          {
+            "en": "Al-Baghawi closes the verse with a question of his own: fa-annā yakūnu lahu sharīkun fī mulkih, so how could He have a partner in His dominion? Look at what the verse does with the space it opened. It asked for the partners to be brought forward, and in the place where they should have stood it puts a name. It does not list their failings again; 34:22 and 34:24 had done that. The answer to show me is not a counter-picture. It is He, named, with nothing beside Him.",
+            "bn": "বাগাভী আয়াতের আলোচনা শেষ করেন নিজের একটি প্রশ্ন দিয়ে: ফা আন্না ইয়াকূনু লাহু শারীকুন ফী মুলকিহী, তাহলে তাঁর রাজত্বে তাঁর শরীক হয় কী করে? খেয়াল করুন, আয়াতটি যে জায়গা খুলেছিল সেখানে কী রাখে। শরীকদের সামনে হাজির করতে বলা হয়েছিল। যেখানে তাদের দাঁড়ানোর কথা, সেখানে আয়াত বসিয়ে দেয় একটি নাম। তাদের অক্ষমতার তালিকা আর নতুন করে দেয় না, সে কাজ ৩৪:২২ ও ৩৪:২৪ আয়াত আগেই সেরেছে। 'দেখাও' কথার জবাব পাল্টা কোনো ছবি নয়। জবাব তিনি নিজে, নাম ধরে, পাশে আর কেউ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mighty Over All, Wise in All",
+          "bn": "সবার উপর পরাক্রম, সবকিছুতে প্রজ্ঞা"
+        },
+        "p": [
+          {
+            "en": "The two closing names are read with different emphases. At-Tabari and the Muyassar take al-'Azīz as mighty fī intiqāmihi mimman ashraka bih, in His retribution on whoever associates partners with Him; the name faces the people addressed, as a warning. Ibn Kathir takes it as the might by which He has subdued everything and prevailed over everything. As-Sa'di draws the consequence for the partners themselves: everything besides Him is maqhūr, musakhkhar, mudabbar, subdued, made to serve, and governed. Al-Baghawi glosses it al-ghālib 'alā amrih, prevailing over His affair, the phrase of 12:21.",
+            "bn": "শেষের দুটি নাম তাফসীরকারেরা পড়েন ভিন্ন ভিন্ন জোর দিয়ে। তাবারী ও মুয়াসসার আল-আযীয বুঝেছেন ফী ইনতিকামিহী মিম্মান আশরাকা বিহী অর্থে, অর্থাৎ যে তাঁর সঙ্গে শরীক করে তার থেকে প্রতিশোধ নেওয়ায় তিনি পরাক্রমশালী। এখানে নামটি সতর্কবাণী হয়ে সম্বোধিত লোকদের দিকেই মুখ করে আছে। ইবন কাসীরের কাছে এ সেই পরাক্রম, যা দিয়ে তিনি সবকিছুকে বশে এনেছেন, সবকিছুর উপর বিজয়ী হয়েছেন। সা'দী এর ফল টানেন শরীকদের উপর: তিনি ছাড়া সবকিছুই মাকহূর, মুসাখখার, মুদাববার, অর্থাৎ পরাভূত, কাজে নিয়োজিত, পরিচালিত। বাগাভীর ব্যাখ্যা আল-গালিবু আলা আমরিহী, নিজের কাজে তিনি সর্বজয়ী, যা ১২:২১ আয়াতের ভাষা।"
+          },
+          {
+            "en": "Al-Ḥakīm is read the same way, from narrower to wider. At-Tabari has Him wise fī tadbīrihi khalqah, in His ordering of His creation, and al-Baghawi says the same. The Muyassar adds His words and His deeds to that ordering. Ibn Kathir extends it to four spheres: wise in His acts and His words, in His shar', the law He gives, and in His qadar, what He decrees. The two names together answer the challenge from both sides. No one can stand against Him, and nothing He has made or commanded is without purpose.",
+            "bn": "আল-হাকীম নামটিও একইভাবে সংকীর্ণ থেকে প্রশস্ত অর্থে পড়া হয়। তাবারীর মতে তিনি প্রজ্ঞাময় ফী তাদবীরিহী খালকাহু, নিজের সৃষ্টিকে পরিচালনায়। বাগাভীও একই কথা বলেন। মুয়াসসার এর সঙ্গে জুড়ে দেয় তাঁর কথা ও কাজ। ইবন কাসীর একে চারটি ক্ষেত্রে ছড়িয়ে দেন: তাঁর কাজে ও কথায়, তাঁর শার'-এ, অর্থাৎ যে বিধান তিনি দেন, আর তাঁর কদর-এ, অর্থাৎ যা তিনি নির্ধারণ করেন। দুটি নাম মিলে চ্যালেঞ্জের জবাব দেয় দুই দিক থেকে। কেউ তাঁর মোকাবিলায় দাঁড়াতে পারে না, আর তাঁর সৃষ্টি বা হুকুমের কোনোটাই উদ্দেশ্যহীন নয়।"
+          },
+          {
+            "en": "As-Sa'di turns al-Ḥakīm into an argument. He perfected what He created and made excellent what He legislated. If the wisdom of His law held nothing except this, he writes, it would be enough: that He commanded His oneness and sincere devotion to Him, loved it, and made it the road to salvation, and forbade associating partners with Him and taking rivals besides Him, and made that the road to misery and ruin. How much more, he adds, when everything He commands and forbids is full of wisdom.",
+            "bn": "সা'দী আল-হাকীম নামটিকে একটি যুক্তিতে রূপ দেন। যা তিনি সৃষ্টি করেছেন নিখুঁত করেছেন, যা বিধান দিয়েছেন উত্তম করেছেন। তাঁর বিধানের প্রজ্ঞায় যদি শুধু এটুকুই থাকত, তবু যথেষ্ট হতো, সা'দী লেখেন: তিনি তাওহীদ আর একনিষ্ঠ দ্বীনের হুকুম দিয়েছেন, তা ভালোবেসেছেন, আর তাকে মুক্তির পথ বানিয়েছেন। শিরক আর তাঁকে বাদ দিয়ে প্রতিদ্বন্দ্বী গ্রহণ নিষেধ করেছেন, আর তাকে দুর্ভাগ্য ও ধ্বংসের পথ বানিয়েছেন। এটুকুই তাঁর প্রজ্ঞার পূর্ণতার প্রমাণ হিসেবে যথেষ্ট। তাহলে কেমন হবে, যখন তাঁর প্রতিটি আদেশ আর প্রতিটি নিষেধই প্রজ্ঞায় ভরা?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Makkah, Asked of Us",
+          "bn": "মক্কাকে বলা, আমাদের কাছে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "It needs saying plainly. The verse addresses the idolaters of the Prophet's ﷺ own time, the people at-Tabari calls those who associate gods and idols with Allah, and it describes a challenge put to them and the answer the verse itself supplies. It licenses nothing against any living person or community: no insult, no harm, and no verdict on anyone's final end. The Prophet ﷺ is told to say, to ask, and to wait for evidence. None of the commentaries fetched here attaches a hadith or an occasion of revelation to this verse.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি সম্বোধন করেছে নবী ﷺ-এর নিজের যুগের মুশরিকদের, তাবারীর ভাষায়, যারা আল্লাহর সঙ্গে নানা উপাস্য আর মূর্তিকে শরীক করে। আয়াত তাদের সামনে রাখা একটি চ্যালেঞ্জ আর আয়াতেরই দেওয়া জবাবের বর্ণনা দেয়। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। গালি দেওয়া নয়, ক্ষতি করা নয়, কারও শেষ পরিণতি নিয়ে রায় দেওয়াও নয়। নবী ﷺ-কে বলা হয়েছে শুধু বলতে, প্রশ্ন করতে আর প্রমাণের অপেক্ষা করতে। এখানে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি।"
+          },
+          {
+            "en": "The manner fits the passage. Ma'arif al-Qur'an, commenting on 34:24 within this same group of verses, observes that the addressees there are not called disbelievers or people gone astray. The Qur'an leaves them to judge which side is guided, an approach it credits to al-Qurtubi and Bayan al-Qur'an and ties to 16:125, argue with them in the way that is best. That remark is made on 34:24, not on this verse. Yet 34:27 keeps the same register. It does not call names. It asks for something to be shown.",
+            "bn": "আয়াতের এই ভঙ্গি পুরো অংশটার সঙ্গেই মেলে। মাআরিফুল কুরআন এই একই আয়াতগুচ্ছের ভেতরে ৩৪:২৪ আয়াতের আলোচনায় দেখায়, সেখানে সম্বোধিত লোকদের কাফির বা পথভ্রষ্ট বলে ডাকা হয়নি। কোন পক্ষ হিদায়াতের উপর আছে, সে বিচার কুরআন তাদের হাতেই ছেড়ে দিয়েছে। এ পর্যবেক্ষণ মাআরিফ নিয়েছে কুরতুবী ও বয়ানুল কুরআন থেকে, আর যুক্ত করেছে ১৬:১২৫ আয়াতের সঙ্গে: উত্তম পন্থায় তাদের সঙ্গে বিতর্ক করো। কথাটা ৩৪:২৪ আয়াত নিয়ে, এই আয়াত নিয়ে নয়। তবু ৩৪:২৭ আয়াতও একই সুরে কথা বলে। কাউকে গালমন্দ করে না। শুধু দেখাতে বলে।"
+          },
+          {
+            "en": "And the question does not stay in Makkah. As-Sa'di's whoever stands in your place means the believer may ask it, and the honest believer asks it first of himself. What have I attached to Allah in my own heart, a patron, a fear, a hope I treat as if it could give or withhold? If I were told to show what it has created or provided, I would find nothing to point to. That emptiness is the verse's gift. It clears the place, and then it says the name: He is Allah, the Mighty, the Wise.",
+            "bn": "প্রশ্নটা মক্কাতেই থেমে থাকে না। সা'দীর 'তোমার জায়গায় যে দাঁড়ায়' কথার মানে, মুমিনও এ প্রশ্ন তুলতে পারে। আর সৎ মুমিন প্রশ্নটা সবার আগে নিজেকেই করে। আমার নিজের মনে আমি আল্লাহর সঙ্গে কী জুড়ে দিয়েছি? কোনো পৃষ্ঠপোষক, কোনো ভয়, কোনো আশা, যেন সে দিতে পারে বা আটকে রাখতে পারে? যদি বলা হয়, দেখাও সে কী সৃষ্টি করেছে, কী রিযক দিয়েছে, আঙুল তোলার মতো কিছুই খুঁজে পাব না। এই শূন্যতাই আয়াতের উপহার। আয়াত জায়গাটা খালি করে দেয়, তারপর নামটি উচ্চারণ করে: তিনিই আল্লাহ, মহাপরাক্রমশালী, মহাপ্রজ্ঞাময়।"
+          }
+        ]
+      }
+    ]
+  },
   "34:28": {
     "sections": [
       {
