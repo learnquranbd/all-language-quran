@@ -24391,6 +24391,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are rejected for the truth, carry the grievance to Allah, state it plainly, and ask Him to judge, instead of answering threats with threats.",
     "lessonBn": "সত্যের জন্য প্রত্যাখ্যাত হলে হুমকির জবাবে হুমকি না দিয়ে নালিশটা আল্লাহর কাছে নিয়ে যান, সোজা কথায় বলুন, আর ফয়সালার ভার তাঁকেই দিন।"
+  },
+  "26:100": {
+    "reflectionEn": "In the Fire the quarrel runs out of people to blame. They have sworn they were in plain error and pointed at those who led them astray. Then comes the bare sum of it: so now we have no intercessors. Whatever they had leaned on cannot say a word for them. And the commentators picture this being said while others, elsewhere, are being spoken for. Help on that Day is not bought in the last hour; it grows out of a whole life, the faith held and the company kept. The verse reaches me while I am still alive to choose both. On whom am I leaning now, and who stands with me before Allah in prayer and in doing good?",
+    "reflectionBn": "আগুনের ভেতর ঝগড়া চলতে চলতে দোষ চাপানোর লোক ফুরিয়ে যায়। তারা কসম করে বলেছে, আমরা স্পষ্ট গোমরাহিতে ছিলাম। যারা পথ ভুলিয়েছে, তাদের দিকে আঙুল তুলেছে। তারপর আসে খালি হিসাবটা: এখন আমাদের কোনো সুপারিশকারী নেই। যার উপর তারা ভর দিয়েছিল, সে তাদের হয়ে একটা কথাও বলতে পারে না। তাফসীরকারদের বর্ণনায় কথাটা তারা বলে এমন সময়ে, যখন অন্যদের জন্য সুপারিশ চলছে। সেদিনের সাহায্য শেষ মুহূর্তে কেনা যায় না। তা গড়ে ওঠে সারা জীবন ধরে, ধরে রাখা ঈমান আর বেছে নেওয়া সঙ্গ থেকে। আয়াতটা আমার কাছে পৌঁছেছে এমন সময়ে, যখন দুটোই বেছে নেওয়ার সুযোগ আছে। আমি এখন কার উপর ভর দিয়ে আছি? নামাজে আর নেক কাজে আল্লাহর সামনে কে আমার পাশে দাঁড়ায়?",
+    "pointsEn": [
+      "What do I quietly count on to carry me through the reckoning, and will it still be standing on that Day?",
+      "Who are the people I pray, fast and do good alongside, and do I know them well enough to miss them if they were gone?",
+      "If I listed my closest friends, how many of them would remind me of Allah when I forget Him?",
+      "When I blame others for where I have ended up, does the blame change anything, or does it only postpone my own turning back?",
+      "Whom have I asked Allah for by name this week, the way I would want someone to ask for me?"
+    ],
+    "pointsBn": [
+      "হিসাবের দিনে পার হয়ে যাওয়ার জন্য মনে মনে আমি কীসের উপর ভরসা করে আছি? সেদিন কি তা টিকে থাকবে?",
+      "যাদের সঙ্গে আমি নামাজ পড়ি, রোজা রাখি, ভালো কাজ করি, তারা কারা? তারা হারিয়ে গেলে টের পাব, এতটা কি আমি তাদের চিনি?",
+      "আমার সবচেয়ে কাছের বন্ধুদের নাম লিখলে তাদের কজন আছে, যারা আমি আল্লাহকে ভুলে গেলে মনে করিয়ে দেবে?",
+      "যেখানে এসে পৌঁছেছি তার জন্য যখন অন্যকে দোষ দিই, তাতে কি কিছু বদলায়? নাকি শুধু নিজের ফিরে আসাটা পিছিয়ে যায়?",
+      "এ সপ্তাহে কার নাম ধরে আমি আল্লাহর কাছে চেয়েছি, ঠিক যেভাবে চাইব কেউ আমার জন্য চাক?"
+    ],
+    "lessonEn": "Build now the faith and the friendships that will count on the Last Day; whatever you lean on instead of Allah will have nothing to say for you there.",
+    "lessonBn": "যে ঈমান আর যে বন্ধুত্ব শেষ দিনে কাজে আসবে, তা এখনই গড়ে তুলুন। আল্লাহকে ছেড়ে যার উপর ভর দেবেন, সেদিন আপনার হয়ে তার বলার কিছু থাকবে না।"
   }
 };
 

@@ -3447,6 +3447,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:100": {
+    "sections": [
+      {
+        "h": {
+          "en": "When the Blaming Is Done",
+          "bn": "দোষারোপ যখন শেষ হয়"
+        },
+        "p": [
+          {
+            "en": "The verse is four words in Arabic: fa-ma lana min shafi'in, so we have no intercessors. It stands in the middle of a confession made inside the Fire. In 26:96 the deviators fall to disputing there. In 26:97 and 26:98 they swear they were in manifest error when they made others equal to the Lord of the worlds, and in 26:99 they say that none misled them but the criminals. Then fa, so, draws the conclusion: having named whom to blame, they look at what is left to them, and find nothing.",
+            "bn": "আরবিতে আয়াতটির শব্দ মাত্র চারটি: ফামা লানা মিন শাফিঈন, কাজেই আমাদের কোনো সুপারিশকারী নেই। কথাটা আসে আগুনের ভেতরে চলা এক স্বীকারোক্তির মাঝখানে। ২৬:৯৬ আয়াতে পথভ্রষ্টরা সেখানে বিবাদে জড়িয়ে পড়ে। ২৬:৯৭ ও ২৬:৯৮ আয়াতে তারা কসম খেয়ে বলে, যখন আমরা অন্যদের বিশ্বজগতের রবের সমান করতাম, তখন আমরা স্পষ্ট গোমরাহিতে ছিলাম। ২৬:৯৯ আয়াতে বলে, অপরাধীরাই আমাদের পথ ভুলিয়েছে। তারপর ছোট্ট শব্দ ফা, অর্থাৎ কাজেই, টেনে আনে উপসংহার। কার দোষ, তা বলা হয়ে গেছে। এবার তারা তাকায় নিজেদের হাতে কী রইল সেদিকে, আর দেখে কিছুই নেই।"
+          },
+          {
+            "en": "The commentators keep the sentence plain. At-Tabari paraphrases it: there is no intercessor for us to plead for us with Allah, so that He would pardon us and save us from His punishment. As-Sa'di adds one word, hina'idhin, at that time, and names the purpose: intercessors to plead for us and rescue us from His punishment. The Muyassar, explaining 26:100 and 26:101 together, gives their words as: there is no one to intercede for us and free us from the torment, and no one true in his affection for us who feels pity for us.",
+            "bn": "তাফসীরকারেরা বাক্যটাকে সরল রাখেন। তাবারীর ব্যাখ্যায় অর্থ দাঁড়ায়: আমাদের এমন কোনো সুপারিশকারী নেই, যে আল্লাহর কাছে আমাদের জন্য সুপারিশ করবে, যাতে তিনি আমাদের মাফ করেন আর তাঁর শাস্তি থেকে বাঁচান। সা'দী একটি শব্দ যোগ করেন, হীনাইযিন, অর্থাৎ সেই সময়ে। সঙ্গে উদ্দেশ্যটাও বলেন: এমন সুপারিশকারী, যারা সুপারিশ করে আমাদের তাঁর শাস্তি থেকে উদ্ধার করবে। মুয়াসসার ২৬:১০০ ও ২৬:১০১ একসঙ্গে ব্যাখ্যা করে তাদের কথাটা এভাবে বলে: আমাদের জন্য সুপারিশ করে আযাব থেকে ছাড়িয়ে আনার কেউ নেই। আর এমন কেউও নেই, যার ভালোবাসা খাঁটি, যে আমাদের প্রতি দরদ দেখাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hoped-For Fall Silent",
+          "bn": "যাদের উপর আশা, তারা নীরব"
+        },
+        "p": [
+          {
+            "en": "To whom is the quarrel addressed? The commentators read 26:96 to 26:98 as speech turned towards the things that were worshipped. At-Tabari says the deviators speak to those they worshipped besides Allah, and he cites Ibn Zayd on we equated you: to those gods. Al-Baghawi says they speak to the devils and the worshipped ones. As-Sa'di says they swear it to their idols and images, having made them equal to the Lord of the worlds in worship, love, fear and hope, calling on them as they called on Him. Al-Qurtubi has them tell the worshipped: you cannot help us now, nor help yourselves.",
+            "bn": "ঝগড়াটা কাকে উদ্দেশ করে? তাফসীরকারেরা ২৬:৯৬ থেকে ২৬:৯৮ পড়েন এমন কথা হিসেবে, যা উপাস্যদের দিকে ফেরানো। তাবারী বলেন, পথভ্রষ্টরা কথা বলছে আল্লাহকে ছেড়ে যাদের ইবাদত করত তাদের সঙ্গে। 'তোমাদের সমান করতাম' প্রসঙ্গে তিনি ইবন যায়দের কথা আনেন: সেই উপাস্যদের। বাগাভী বলেন, তারা বলছে শয়তানদের আর উপাস্যদের উদ্দেশে। সা'দীর মতে কসমটা তারা খায় নিজেদের মূর্তি আর প্রতিমার সামনে। ইবাদতে, ভালোবাসায়, ভয়ে আর আশায় এদের তারা বিশ্বজগতের রবের সমান করেছিল, তাঁকে যেভাবে ডাকত এদেরও সেভাবে ডাকত। কুরতুবীর বর্ণনায় তারা উপাস্যদের বলে: এখন তোমরা আমাদের সাহায্য করতে পারো না, নিজেদেরও না।"
+          },
+          {
+            "en": "Hope is the thread that ties this to the verse. The Qur'an records elsewhere what such worshippers said of what they served: these are our intercessors with Allah (10:18), and we worship them only so that they bring us near to Allah (39:3). None of the commentaries consulted on 26:100 names the idols as the intercessors meant here; they read the word, as the next section shows, as those who do intercede on that Day. But read after 26:98, the confession has a hard edge. What they had hoped would speak for them is there, and has nothing to say.",
+            "bn": "আশার এই সুতোই আয়াতটার সঙ্গে বাঁধা। কুরআন অন্য জায়গায় জানায়, এমন উপাসকেরা নিজেদের উপাস্যদের সম্পর্কে কী বলত: এরা আল্লাহর কাছে আমাদের সুপারিশকারী (১০:১৮)। আর: আমরা এদের ইবাদত করি শুধু এজন্য যে এরা আমাদের আল্লাহর কাছাকাছি পৌঁছে দেবে (৩৯:৩)। ২৬:১০০ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এখানকার সুপারিশকারী বলতে মূর্তিগুলোকে বোঝায়নি। পরের অংশে দেখা যাবে, তাঁরা শব্দটা পড়েন সেদিন যারা সত্যিই সুপারিশ করবে তাদের অর্থে। তবু ২৬:৯৮-এর পরে পড়লে স্বীকারোক্তিটা ধারালো হয়ে ওঠে। যার কাছে আশা ছিল সে তাদের হয়ে কথা বলবে, সে সেখানেই আছে, অথচ তার বলার কিছু নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angels, Kin or Strangers",
+          "bn": "ফেরেশতা, আত্মীয় নাকি অচেনা"
+        },
+        "p": [
+          {
+            "en": "Who, then, are the intercessors they lack? At-Tabari reports that the people of interpretation differed. Some said the intercessors are the angels and the devoted friend of 26:101 is a relative by lineage. He gives Ibn Jurayj: no intercessors, from the angels; no devoted friend, from among people. Under the same report he gives Mujahid, who glosses the friend as a full brother. Others said all of them are from the children of Adam, and under that view he places a comment of Qatada taken up below. The text fetched shows him giving no ruling between the two.",
+            "bn": "তাহলে যাদের অভাব তারা টের পাচ্ছে, সেই সুপারিশকারী কারা? তাবারী জানান, ব্যাখ্যাকারদের মধ্যে মতভেদ হয়েছে। একদল বলেছেন, সুপারিশকারী মানে ফেরেশতারা, আর ২৬:১০১-এর অন্তরঙ্গ বন্ধু মানে বংশের আত্মীয়। এর পক্ষে তিনি আনেন ইবন জুরাইজের কথা: সুপারিশকারী নেই, ফেরেশতাদের মধ্য থেকে। অন্তরঙ্গ বন্ধু নেই, মানুষের মধ্য থেকে। একই বর্ণনায় মুজাহিদের ব্যাখ্যাও আছে: বন্ধু মানে সহোদর ভাই। অন্য দল বলেছেন, এরা সবাই আদম সন্তান। এই মতের নিচে তিনি কাতাদার একটি মন্তব্য রাখেন, যা নিচে আসছে। যে লেখা দেখা হয়েছে, তাতে দুই মতের মধ্যে তাঁর কোনো ফয়সালা নেই।"
+          },
+          {
+            "en": "His own paraphrase draws the line by nearness. On 26:100 he writes: no intercessor to plead for us with Allah from among the distant ones, al-aba'id. On 26:101 the friend is from among the relatives. Ibn Kathir reports that some said the intercessors meant are from the angels. Al-Qurtubi and al-Baghawi widen the circle: intercessors who would plead for us from among the angels, the prophets and the believers. As-Sa'di and the Muyassar leave the intercessors unnamed. The texts give a range, and the difference among them is kept here as a difference.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা দূরত্ব-নৈকট্য দিয়ে ভাগ করে। ২৬:১০০ আয়াতে তিনি লেখেন: দূরের লোকদের মধ্যে, আল-আবাইদ থেকে, আল্লাহর কাছে আমাদের জন্য সুপারিশ করার কেউ নেই। ২৬:১০১ আয়াতে বন্ধুটি আত্মীয়দের মধ্য থেকে। ইবন কাসীর জানান, কেউ কেউ বলেছেন এখানে সুপারিশকারী মানে ফেরেশতারা। কুরতুবী আর বাগাভী পরিধিটা বড় করেন: ফেরেশতা, নবী আর মুমিনদের মধ্য থেকে যারা আমাদের জন্য সুপারিশ করত। সা'দী আর মুয়াসসার সুপারিশকারীদের পরিচয় বলেন না। লেখাগুলো একটা পরিসর দেয়, আর তাদের ভিন্নতাকে এখানে ভিন্নতা হিসেবেই রাখা হলো।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside another. He compares the words in 7:53 of those who had forgotten it before: are there any intercessors to intercede for us, or could we be sent back to do other than we used to do? The two wishes there, an intercessor or a return, are the same two that run through this passage, the intercessors of 26:100 and the return of 26:102. In 7:53 the Qur'an's verdict follows at once: they have lost themselves, and what they used to invent has left them.",
+            "bn": "ইবন কাসীর আয়াতটিকে আরেকটি আয়াতের পাশে রাখেন। ৭:৫৩ আয়াতে যারা আগে তা ভুলে ছিল, তাদের কথার সঙ্গে তিনি মিল দেখান: আমাদের কি কোনো সুপারিশকারী আছে, যারা আমাদের জন্য সুপারিশ করবে? অথবা আমাদের কি ফিরিয়ে দেওয়া হবে, যাতে আগে যা করতাম তার বদলে অন্য কাজ করতে পারি? সেখানে দুটি আকাঙ্ক্ষা: সুপারিশকারী, নয়তো ফিরে যাওয়া। এই অংশেও ঠিক সেই দুটোই চলে, ২৬:১০০ আয়াতে সুপারিশকারী আর ২৬:১০২ আয়াতে ফিরে যাওয়া। ৭:৫৩ আয়াতে কুরআনের রায় সঙ্গে সঙ্গেই আসে: তারা নিজেরাই নিজেদের ক্ষতি করেছে, আর যা তারা বানিয়ে বলত তা তাদের ছেড়ে হারিয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said While Others Are Pleaded For",
+          "bn": "অন্যদের জন্য সুপারিশ চলাকালে"
+        },
+        "p": [
+          {
+            "en": "Two commentators fix the moment of the words. Al-Baghawi, on 26:101, says the disbelievers say this when the angels, the prophets and the believers intercede. Al-Qurtubi, on 26:102, says they spoke so when the angels and the believers interceded. On their reading the sentence is not a cry into an empty silence. It is spoken in sight of intercession being made for others. Those in the Fire are not discovering that intercession does not exist; they are discovering that none of it is theirs.",
+            "bn": "দুজন তাফসীরকার কথাটার মুহূর্ত ঠিক করে দেন। বাগাভী ২৬:১০১ আয়াতে বলেন, কাফেররা কথাটা বলবে তখন, যখন ফেরেশতা, নবী আর মুমিনরা সুপারিশ করবে। কুরতুবী ২৬:১০২ আয়াতে বলেন, ফেরেশতা আর মুমিনরা যখন সুপারিশ করল, তখনই তারা এ কথা বলেছিল। তাঁদের পাঠে বাক্যটা ফাঁকা নীরবতার মধ্যে আর্তনাদ নয়। অন্যদের জন্য সুপারিশ চলছে, আর তা চোখের সামনে রেখেই কথাটা বলা। আগুনের লোকেরা আবিষ্কার করছে না যে সুপারিশ বলে কিছু নেই। তারা আবিষ্কার করছে, তার কোনোটাই তাদের জন্য নয়।"
+          },
+          {
+            "en": "Al-Qurtubi's reading of 26:102 joins the two wishes. If only we had a return to the world, he paraphrases, we would believe, so that we too would have intercessors. Then he adds: they wished at a time when wishing no longer benefits them. On his account, the intercession they lacked was not a stroke of bad luck. It belonged to the side of faith, and the way to it ran through a life they had already finished. This article states only what the fetched commentaries say on how intercession is granted, and goes no further into the questions theologians have debated about it.",
+            "bn": "২৬:১০২ আয়াতে কুরতুবীর ব্যাখ্যা দুটি আকাঙ্ক্ষাকে এক সুতোয় গাঁথে। তাঁর ভাষায় অর্থ: আহা, যদি দুনিয়ায় একবার ফিরে যেতে পারতাম, তাহলে ঈমান আনতাম, যাতে আমাদেরও সুপারিশকারী থাকে। তারপর তিনি যোগ করেন: তারা এমন সময়ে আকাঙ্ক্ষা করল, যখন আকাঙ্ক্ষা আর কোনো কাজে আসে না। তাঁর বর্ণনায় যে সুপারিশ তারা পেল না, তা দুর্ভাগ্যের ব্যাপার নয়। তা ছিল ঈমানের পক্ষের জিনিস, আর সেখানে পৌঁছানোর পথ ছিল এমন এক জীবনের ভেতর দিয়ে, যা তারা শেষ করে এসেছে। সুপারিশ কীভাবে দেওয়া হয়, এ লেখা শুধু ততটুকুই বলে যতটুকু দেখা তাফসীরগুলো বলে। এ নিয়ে আলেমদের তাত্ত্বিক বিতর্কে এটি ঢোকে না।"
+          },
+          {
+            "en": "The commentators also carry words of al-Hasan on the believers' side of the scene. Al-Qurtubi reports him saying that no gathering meets to remember Allah, with a servant from the people of Paradise among them, but Allah grants him intercession for them; and that the people of faith intercede for one another, and with Allah they are intercessors whose intercession is accepted. Al-Baghawi reports him: gather many believing friends, for they will have intercession on the Day of Resurrection. These are al-Hasan's words as the commentators relay them, not words of the Prophet (ﷺ).",
+            "bn": "দৃশ্যের মুমিনদের দিকটা নিয়ে তাফসীরকারেরা হাসানের কথাও আনেন। কুরতুবী তাঁর কথা বর্ণনা করেন: আল্লাহর জিকিরের জন্য যে মজলিসই বসে আর তাতে জান্নাতবাসীদের একজন বান্দা থাকে, আল্লাহ তাঁকে তাদের জন্য সুপারিশের সুযোগ দেন। ঈমানদারেরা একে অন্যের জন্য সুপারিশ করে, আর আল্লাহর কাছে তারা এমন সুপারিশকারী যাদের সুপারিশ কবুল হয়। বাগাভী তাঁর কথা আনেন: মুমিন বন্ধু বেশি বেশি বানাও, কারণ কিয়ামতের দিন তাদের সুপারিশের অধিকার থাকবে। এগুলো তাফসীরকারদের বর্ণনায় হাসানের নিজের কথা, নবী ﷺ-এর বাণী নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Pleaders, a Rare Friend",
+          "bn": "সুপারিশকারী অনেক, বন্ধু বিরল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi quotes az-Zamakhshari on why the pair is uneven: intercessors in the plural because intercessors are many, friend in the singular because such a friend is rare. He gives a picture from ordinary life. When a man is crushed by an oppressor, a large crowd from his town will go to intercede for him, out of mercy and in hope of reward, though most of them hardly knew him. But the friend who is true in his love for you, whom your worries worry, is rarer than the eggs of the vulture. A sage, asked about the friend, said: a name with no meaning.",
+            "bn": "কুরতুবী যামাখশারীর ব্যাখ্যা উদ্ধৃত করেন, জোড়াটা কেন অসমান। সুপারিশকারী বহুবচনে, কারণ সুপারিশকারী অনেক। বন্ধু একবচনে, কারণ এমন বন্ধু বিরল। তিনি রোজকার জীবন থেকে একটা ছবি দেন। কোনো মানুষ জালিমের হাতে পিষ্ট হলে তার শহরের বহু লোক তার জন্য সুপারিশ করতে যায়। দয়া থেকে যায়, সওয়াবের আশায় যায়, যদিও তাদের বেশির ভাগ তাকে আগে চিনতও না। কিন্তু যে বন্ধুর ভালোবাসা খাঁটি, আপনার দুশ্চিন্তা যাকে দুশ্চিন্তায় ফেলে, সে শকুনের ডিমের চেয়েও দুর্লভ। এক জ্ঞানী মানুষকে বন্ধুর কথা জিজ্ঞেস করা হলে তিনি বলেছিলেন: অর্থহীন এক নাম।"
+          },
+          {
+            "en": "Qatada's comment, reported by both at-Tabari and Ibn Kathir, reads the passage from inside the speakers' minds: by Allah, they know that a friend, if he is righteous, benefits, and that a kinsman, if he is righteous, intercedes. Al-Qurtubi reports from Ali (RA): hold fast to your brothers, for they are a provision for this world and the next; do you not hear the people of the Fire saying, we have no intercessors and no devoted friend? Both men take the verse's absence and turn it into an instruction about presence.",
+            "bn": "কাতাদার মন্তব্যটি তাবারী আর ইবন কাসীর দুজনেই বর্ণনা করেন। তিনি আয়াতটা পড়েন বক্তাদের মনের ভেতর থেকে: আল্লাহর কসম, তারা জানে, বন্ধু নেককার হলে উপকারে আসে, আর আপনজন নেককার হলে সুপারিশ করে। কুরতুবী আলী (রাঃ)-এর কথা বর্ণনা করেন: ভাইদের আঁকড়ে ধরো। তারা দুনিয়ারও সম্বল, আখিরাতেরও সম্বল। শোনো না আগুনের লোকেরা কী বলে? আমাদের কোনো সুপারিশকারী নেই, কোনো অন্তরঙ্গ বন্ধুও নেই। আয়াতে যা নেই বলা হয়েছে, দুজনেই তা থেকে শিক্ষা টানেন, কী থাকা দরকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Our Brothers Prayed With Us",
+          "bn": "আমাদের ভাইয়েরা সঙ্গে নামাজ পড়ত"
+        },
+        "p": [
+          {
+            "en": "No commentary consulted attaches a sound hadith to 26:100 itself. Al-Qurtubi and al-Baghawi, on the next two verses, relay a report from Jabir ibn Abdullah (RA) that ties these words to a man in Paradise asking after his friend. It is not drawn from any of the collections checked here, and al-Baghawi's chain names one link only as someone who heard Abu az-Zubayr, so this article does not lean on it. A sound narration on believers pleading for their brothers exists, but no commentator consulted ties it to this verse.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ২৬:১০০ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদীস জোড়েনি। কুরতুবী আর বাগাভী পরের দুই আয়াতে জাবির ইবন আবদুল্লাহ (রাঃ)-এর একটি বর্ণনা আনেন, যা এই কথাগুলোকে জুড়ে দেয় জান্নাতের এক মানুষের সঙ্গে, যে তার বন্ধুর খোঁজ করছে। এখানে যাচাই করা কোনো হাদীসগ্রন্থ থেকে এটি নেওয়া নয়। তা ছাড়া বাগাভীর সনদে একজন বর্ণনাকারীর নাম নেই, শুধু বলা আছে 'যে আবুয যুবাইরকে বলতে শুনেছে'। তাই এ লেখা এর উপর ভর দেয় না। মুমিনরা নিজেদের ভাইদের জন্য আবেদন করবে, এ নিয়ে সহীহ বর্ণনা আছে। তবে দেখা তাফসীরগুলোর কেউ তা এ আয়াতের সঙ্গে জোড়েননি।"
+          },
+          {
+            "en": "Al-Bukhari records in his Sahih a long hadith from Abu Sa'id al-Khudri (RA) about the Day of Resurrection. Near its end the Prophet (ﷺ) says: \"You (Muslims) cannot be more pressing in claiming from me a right that has been clearly proved to be yours than the believers in interceding with Almighty for their (Muslim) brothers on that Day, when they see themselves safe. They will say, 'O Allah! (Save) our brothers (for they) used to pray with us, fast with us and also do good deeds with us.'\"",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে আবু সাঈদ খুদরী (রাঃ) থেকে কিয়ামতের দিন সম্পর্কে একটি দীর্ঘ হাদীস এনেছেন। তার শেষের দিকে নবী ﷺ বলেন: \"তোমাদের যে হক স্পষ্টভাবে প্রমাণিত হয়ে গেছে, তা আমার কাছে দাবি করতে তোমরা যতটা জোর দাও, সেদিন মুমিনরা নিজেদের নিরাপদ দেখে তাদের (মুসলিম) ভাইদের জন্য মহাপরাক্রমশালীর কাছে সুপারিশ করতে তার চেয়েও বেশি জোর দেবে। তারা বলবে, 'হে আল্লাহ! আমাদের ভাইদের (রক্ষা করুন), তারা আমাদের সঙ্গে নামাজ পড়ত, আমাদের সঙ্গে রোজা রাখত, আর আমাদের সঙ্গে নেক আমলও করত।'\""
+          },
+          {
+            "en": "Later in the same hadith comes the sentence: \"Then the prophets and Angels and the believers will intercede.\" These are the three groups al-Qurtubi and al-Baghawi name for 26:100. Set beside the verse, it shows the commentators' scene from the other side. What the believers put forward for their brothers is not rank or lineage but a shared life: they prayed with us, they fasted with us, they did good with us. The hadith goes on to speak of those in whose hearts there is faith; this article takes it no further.",
+            "bn": "একই হাদীসে পরে আসে এই বাক্য: \"তারপর নবীগণ, ফেরেশতারা আর মুমিনরা সুপারিশ করবে।\" ২৬:১০০ আয়াতে কুরতুবী আর বাগাভী ঠিক এই তিনটি দলের নামই বলেন। আয়াতের পাশে রাখলে তাফসীরকারদের কল্পনার দৃশ্যটা হাদীস দেখায় উল্টো দিক থেকে। মুমিনরা ভাইদের পক্ষে যা তুলে ধরে, তা মর্যাদা বা বংশ নয়, বরং একসঙ্গে কাটানো জীবন। তারা আমাদের সঙ্গে নামাজ পড়ত, রোজা রাখত, ভালো কাজ করত। হাদীসটি এরপর তাদের কথা বলে, যাদের অন্তরে ঈমান আছে। এ লেখা তার বেশি এগোয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If Only Another Turn",
+          "bn": "আহা, আরেকবার যদি"
+        },
+        "p": [
+          {
+            "en": "The passage closes in 26:102 with the second wish: if only we had another turn, we would be among the believers. At-Tabari reads the turn as a return to the world, to believe in Allah and so be among the believers. Ibn Kathir adds a caution: they wish to be sent back to obey their Lord, as they claim, but He knows that if He returned them they would go back to what they were forbidden, and that they are liars. As-Sa'di answers the wish with hayhat, hayhat: far, far from it; a barrier now stands between them and what they desire.",
+            "bn": "অংশটি ২৬:১০২ আয়াতে শেষ হয় দ্বিতীয় আকাঙ্ক্ষা দিয়ে: আহা, যদি আরেকবার ফিরে যেতে পারতাম, তাহলে মুমিনদের দলে থাকতাম। তাবারী ফিরে যাওয়া বলতে বোঝেন দুনিয়ায় ফেরা, যাতে আল্লাহর উপর ঈমান এনে মুমিনদের একজন হওয়া যায়। ইবন কাসীর একটা সতর্কবাণী যোগ করেন। তারা দাবি করে, ফিরে গেলে রবের আনুগত্য করবে। কিন্তু তিনি জানেন, ফিরিয়ে দিলে তারা আবার সেই কাজেই ফিরে যাবে যা থেকে নিষেধ করা হয়েছিল, আর তারা মিথ্যাবাদী। সা'দী আকাঙ্ক্ষাটার জবাব দেন হাইহাতা হাইহাতা বলে: অনেক দূর, অনেক দূর। তারা যা চায় আর তাদের মাঝখানে এখন আড়াল টেনে দেওয়া হয়েছে।"
+          },
+          {
+            "en": "Put the two verses together and the shape of the loss is plain. They want an intercessor and have none. They want a return, which on al-Qurtubi's reading would have let them gain intercessors, and they cannot have that either. Both wishes point back to a life already over. That is what gives the scene its use for a living reader. The turn they beg for is the very turn the reader stands in: the days in which faith can still be held, and the company of believers still chosen.",
+            "bn": "দুই আয়াত একসঙ্গে রাখলে ক্ষতির চেহারাটা পরিষ্কার হয়। তারা সুপারিশকারী চায়, কিন্তু নেই। তারা ফিরে যেতে চায়, যা কুরতুবীর ব্যাখ্যায় তাদের সুপারিশকারী পাওয়ার পথ করে দিত। তাও মিলবে না। দুটো আকাঙ্ক্ষাই ইশারা করে এমন এক জীবনের দিকে, যা শেষ হয়ে গেছে। জীবিত পাঠকের কাছে দৃশ্যটার উপকার এখানেই। তারা যে সুযোগ ভিক্ষা চাইছে, পাঠক সেই সুযোগের ভেতরেই দাঁড়িয়ে আছেন। এখনো ঈমান ধরে রাখার দিন চলছে, এখনো মুমিনদের সঙ্গ বেছে নেওয়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Sentence on Anyone Living",
+          "bn": "কোনো জীবিতের উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the people of the Fire, on the Day of Judgment, saying that they have no intercessors. It licenses nothing against any living person or community. It gives no one the right to say of a neighbour, a relative or a whole people that they are the ones in this scene; that end is Allah's alone to decide.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে, যা এর ভাষ্যে আছে: বিচারের দিনে আগুনের অধিবাসীরা বলছে, তাদের কোনো সুপারিশকারী নেই। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কোনো প্রতিবেশী, আত্মীয় বা গোটা কোনো জাতি সম্পর্কে 'এরাই সেই দৃশ্যের লোক' বলার অধিকারও কাউকে দেয় না। সেই পরিণতির ফয়সালা শুধু আল্লাহর হাতে।"
+          },
+          {
+            "en": "What the verse does ask is turned inward. On what am I leaning for that Day, and would it have anything to say for me there? Whom do I pray beside, fast beside, do good beside, so that one day I could be named as someone who did those things with them? Al-Hasan's advice, as al-Baghawi relays it, is a practical place to begin: gather many believing friends. The quieter task is to be such a friend, the rare one whose love is true and whom another's worry worries.",
+            "bn": "আয়াতটি যা চায়, তা নিজের দিকে ফেরানো প্রশ্ন। সেই দিনের জন্য আমি কীসের উপর ভর দিয়ে আছি? সেখানে কি আমার হয়ে তার বলার কিছু থাকবে? কার পাশে আমি নামাজ পড়ি, রোজা রাখি, ভালো কাজ করি, যাতে একদিন কেউ বলতে পারে, এ মানুষটা আমাদের সঙ্গে এসব করত? বাগাভীর বর্ণনায় হাসানের উপদেশ শুরু করার একটা বাস্তব জায়গা: মুমিন বন্ধু বেশি বেশি বানাও। এর চেয়ে নীরব কাজটা হলো নিজেই এমন বন্ধু হওয়া। সেই বিরল বন্ধু, যার ভালোবাসা খাঁটি, অন্যের দুশ্চিন্তা যাকে দুশ্চিন্তায় ফেলে।"
+          }
+        ]
+      }
+    ]
+  },
   "26:106": {
     "sections": [
       {
