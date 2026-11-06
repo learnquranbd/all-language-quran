@@ -25209,6 +25209,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let a reminder from Allah's verses bring you low before Him, glorifying and praising your Lord, and never let pride keep your head up when it should bow.",
     "lessonBn": "আল্লাহর আয়াত দিয়ে উপদেশ পেলে তাঁর সামনে নত হোন, প্রশংসার সঙ্গে রবের পবিত্রতা ঘোষণা করুন, আর যেখানে মাথা নোয়ানোর কথা সেখানে অহংকারকে মাথা উঁচু রাখতে দেবেন না।"
+  },
+  "32:19": {
+    "reflectionEn": "A guest who comes to a generous house does not find the host scrambling. The room is ready, the meal is laid, the welcome was prepared before the knock. The verse speaks of the believers' reward in exactly this language: gardens of refuge, given as nuzul, the hospitality set out for one who arrives. The verse before asked whether the believer and the defiant are alike. The answer comes not as argument but as a door held open. A refuge is a place you come back to and stay. So what am I sending ahead of me each morning and evening? And when I picture arriving there, do I see a stranger at the gate, or a guest who was expected?",
+    "reflectionBn": "দরাজদিল কারও বাড়িতে মেহমান এলে দেখেন না যে মেজবান তখন ছোটাছুটি করে জোগাড়যন্ত্র করছেন। ঘর আগেই গোছানো, খাবার আগেই সাজানো, দরজায় কড়া নাড়ার আগেই আপ্যায়নের সব আয়োজন শেষ। মুমিনদের প্রতিদানের কথা আয়াতটি বলে ঠিক এই ভাষায়: আশ্রয়ের বাগান, দেওয়া হবে নুযুল হিসেবে, অর্থাৎ যে এসে পৌঁছায় তার জন্য সাজানো মেহমানদারি। আগের আয়াত প্রশ্ন করেছিল, মুমিন আর নাফরমান কি এক রকম? উত্তর এখানে কোনো তর্ক দিয়ে আসে না, আসে খুলে রাখা এক দরজার ছবিতে। আশ্রয় মানে এমন জায়গা, যেখানে মানুষ ফিরে যায় আর থেকে যায়। তাহলে প্রতিদিন সকাল-সন্ধ্যায় আমি আগে কী পাঠাচ্ছি? আর সেখানে পৌঁছানোর কথা ভাবলে নিজেকে কী দেখি, ফটকে দাঁড়ানো এক অচেনা লোক, নাকি এমন মেহমান যার জন্য অপেক্ষা চলছিল?",
+    "pointsEn": [
+      "Which deed of mine from this week would I be glad to find laid out for me when I arrive?",
+      "Where do I run for refuge when I am tired or afraid, and does that place bring me nearer to Allah or take me further away?",
+      "Do my belief and my deeds walk together, or has one of them fallen far behind the other?",
+      "When I host someone, how much is ready before they come, and what does that tell me about being expected by Allah?",
+      "Do I ever speak as if, in the end, it makes no difference whether a person obeys Allah or defies Him?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহের কোন আমলটা পৌঁছে গিয়ে নিজের জন্য সাজানো অবস্থায় পেলে আমি খুশি হব?",
+      "ক্লান্ত বা ভীত হলে আমি কোথায় আশ্রয় খুঁজি? সেই জায়গা কি আমাকে আল্লাহর কাছে নিয়ে যায়, নাকি আরও দূরে সরিয়ে দেয়?",
+      "আমার ঈমান আর আমল কি পাশাপাশি চলে, নাকি একটা আরেকটার চেয়ে অনেক পিছিয়ে পড়েছে?",
+      "কাউকে দাওয়াত দিলে সে আসার আগে কতটুকু আয়োজন তৈরি রাখি? আল্লাহর কাছে প্রত্যাশিত মেহমান হওয়ার কথা এ থেকে কী বুঝি?",
+      "আমি কি কখনো এমনভাবে কথা বলি, যেন শেষমেশ কেউ আল্লাহর আনুগত্য করুক বা নাফরমানি করুক, তাতে কিছু আসে যায় না?"
+    ],
+    "lessonEn": "Join belief to righteous deeds and live as a guest who is expected, for the gardens of refuge are hospitality prepared for what you used to do.",
+    "lessonBn": "ঈমানের সঙ্গে নেক আমল জুড়ে দিন, আর এমন মেহমানের মতো জীবন কাটান যার জন্য অপেক্ষা চলছে। কারণ আশ্রয়ের বাগানগুলো আপনার আমলের বিনিময়ে সাজানো মেহমানদারি।"
   }
 };
 

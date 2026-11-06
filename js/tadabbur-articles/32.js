@@ -1039,6 +1039,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "32:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Parties, Two Abodes",
+          "bn": "দুই দল, দুই ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "32:18 asks its question in eight Arabic words: is one who was a believer like one who was defiantly disobedient? They are not equal. Our verse opens the answer with amma, as for, and 32:20 completes it with wa-amma, and as for. The two particles divide one reply into two destinations. Al-Qurtubi names what the passage is doing: Allah informs us of where each of the two parties will settle tomorrow. Ibn Kathir: because the two were set side by side, Allah then spelled out the ruling for each.",
+            "bn": "৩২:১৮ আয়াত প্রশ্নটা করে আরবি ৮টি শব্দে: যে মুমিন ছিল, সে কি তার মতো, যে ছিল ফাসিক, অর্থাৎ নাফরমান? তারা সমান নয়। আমাদের আয়াত উত্তর শুরু করে আম্মা দিয়ে, যার মানে 'আর যারা', আর ৩২:২০ আয়াত তা শেষ করে ওয়া আম্মা দিয়ে। এই দুটি শব্দ একটি জবাবকে ভাগ করে দেয় দুই ঠিকানায়। আয়াতগুলো কী করছে, কুরতুবী তা নাম ধরে বলেন: আগামীকাল দুই দল কোথায় গিয়ে থিতু হবে, আল্লাহ সেই খবর দিচ্ছেন। ইবন কাসীরের মতে, দুজনকে পাশাপাশি দাঁড় করানো হয়েছিল বলেই আল্লাহ এরপর প্রত্যেকের হুকুম আলাদা করে খুলে বলেছেন।"
+          },
+          {
+            "en": "At-Tabari explains the denial in 32:18 by what Allah will do with each on the Day of Resurrection: those who disbelieve in Allah and those who believe in Him are not made level in His sight. Ibn Kathir puts the same denial under two names, Allah's justice and His generosity. He will not judge alike the one who believed in His signs and followed His messengers and the one who left the obedience of his Lord. Our verse is where that justice takes the form of a place.",
+            "bn": "৩২:১৮ আয়াতের 'সমান নয়' কথাটা তাবারী ব্যাখ্যা করেন কিয়ামতের দিন আল্লাহ প্রত্যেকের সঙ্গে কী আচরণ করবেন তা দিয়ে। যারা আল্লাহকে অস্বীকার করে আর যারা তাঁর উপর ঈমান আনে, তাঁর কাছে তারা এক পাল্লায় ওঠে না। ইবন কাসীর একই কথা রাখেন দুটি নামের নিচে: আল্লাহর ইনসাফ আর তাঁর দয়া। যে তাঁর নিদর্শনে ঈমান এনেছে আর রাসূলদের অনুসরণ করেছে, আর যে রবের আনুগত্য ছেড়ে বেরিয়ে গেছে, তিনি দুজনের বিচার এক রকম করবেন না। সেই ইনসাফ আমাদের আয়াতে এসে একটা জায়গার চেহারা নেয়।"
+          },
+          {
+            "en": "At-Tabari also relays from Qatadah an oath: no, by Allah, they were not equal in this world, nor at death, nor in the Hereafter. As-Sa'di says they are not equal by reason or by revelation, just as night and day are not equal, nor light and darkness, and so their rewards in the Hereafter are not equal either. Qatadah's third stage, the Hereafter, is the one our verse now describes for the believers, and it describes it in a host's vocabulary, not a judge's.",
+            "bn": "তাবারী কাতাদা থেকে একটি কসম বর্ণনা করেন: না, আল্লাহর কসম, তারা দুনিয়াতেও সমান ছিল না, মৃত্যুর সময়েও না, আখিরাতেও না। সা'দী বলেন, বুদ্ধির বিচারেও তারা সমান নয়, শরীয়তের বিচারেও নয়। যেমন রাত আর দিন সমান নয়, আলো আর অন্ধকার সমান নয়। তাই আখিরাতে তাদের প্রতিদানও সমান হবে না। কাতাদার তৃতীয় ধাপ, আখিরাত, মুমিনদের জন্য সেটাই আমাদের আয়াত এখন বর্ণনা করে। আর বর্ণনা করে বিচারকের ভাষায় নয়, মেজবানের ভাষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words Exchanged at Medina",
+          "bn": "মদীনায় এক কথা কাটাকাটি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports, through Ibn Ishaq from some of his companions from 'Ata' ibn Yasar, that the passage came down at Medina about Ali ibn Abi Talib (RA) and al-Walid ibn 'Uqbah ibn Abi Mu'ayt. Words passed between them, and al-Walid said: my tongue is sharper than yours, my spearpoint keener, and I am better at driving back a battalion. Ali replied: be quiet, for you are a fasiq. In this report Allah then revealed the passage from the question of 32:18 down to 'which you used to deny' in 32:20, our verse included.",
+            "bn": "তাবারী ইবন ইসহাকের সূত্রে, তাঁর কয়েকজন সঙ্গী থেকে, আতা ইবন ইয়াসার থেকে বর্ণনা করেন: এ আয়াতগুলো মদীনায় নাযিল হয়েছিল আলী ইবন আবী তালিব (রাঃ) আর ওয়ালীদ ইবন উকবা ইবন আবী মুয়াইতকে কেন্দ্র করে। দুজনের মধ্যে কথা কাটাকাটি হয়। ওয়ালীদ বলে বসেন, আমার জিভ তোমার চেয়ে ধারালো, আমার বর্শার ফলা তোমার চেয়ে তীক্ষ্ণ, আর শত্রুবাহিনী ঠেকাতে আমি তোমার চেয়ে পটু। আলী জবাব দেন, চুপ করো, তুমি তো ফাসিক। এই বর্ণনা অনুযায়ী আল্লাহ তখন নাযিল করেন ৩২:১৮ আয়াতের প্রশ্ন থেকে ৩২:২০ আয়াতের 'যা তোমরা অস্বীকার করতে' পর্যন্ত, আমাদের আয়াতসহ।"
+          },
+          {
+            "en": "Al-Baghawi gives the same two names and the same exchange, adding that al-Walid told Ali he was only a boy. Al-Qurtubi attributes this account to Ibn 'Abbas and 'Ata' ibn Yasar, then records a different pair from az-Zajjaj and an-Nahhas: Ali and 'Uqbah ibn Abi Mu'ayt. Ibn Kathir names 'Uqbah as well, from 'Ata' ibn Yasar, as-Suddi and others. Al-Qurtubi relays Ibn 'Atiyyah's point that this second account would make the verse Meccan, since 'Uqbah was not at Medina and was killed on the road back from Badr. Both accounts stand as recorded.",
+            "bn": "বাগাভীও একই দুটি নাম আর একই কথোপকথন আনেন, সঙ্গে যোগ করেন যে ওয়ালীদ আলীকে বলেছিলেন, তুমি তো একটা বাচ্চা ছেলে। কুরতুবী এই বর্ণনাকে ইবন আব্বাস (রাঃ) ও আতা ইবন ইয়াসারের দিকে সম্পৃক্ত করেন। তারপর যাজ্জাজ ও নাহহাস থেকে ভিন্ন এক জোড়ার কথা লেখেন: আলী আর উকবা ইবন আবী মুয়াইত। ইবন কাসীরও উকবার নাম নেন, আতা ইবন ইয়াসার, সুদ্দী ও অন্যদের সূত্রে। কুরতুবী ইবন আতিয়্যার একটি পর্যবেক্ষণ উদ্ধৃত করেন: দ্বিতীয় বর্ণনা মানলে আয়াতটিকে মক্কী বলতে হয়, কারণ উকবা মদীনায় ছিলেন না, আর বদর থেকে ফেরার পথে তিনি নিহত হন। দুটি বর্ণনাই যেভাবে লেখা আছে, সেভাবেই রইল।"
+          },
+          {
+            "en": "At-Tabari and al-Baghawi explain why 32:18 says la yastawun, they are not equal, in the plural, when only two were named: what is meant is not one believer and one defiant man but all believers and all the defiantly disobedient. An occasion tells when a verse came, not whom it is limited to. These verses describe what they describe and license nothing against any living person or community, and the reports are kept to place the verse, not to invite a verdict on the men they name.",
+            "bn": "নাম এসেছে মাত্র দুজনের, অথচ ৩২:১৮ আয়াত বলছে লা ইয়াসতাউন, তারা সমান নয়, বহুবচনে। তাবারী ও বাগাভী এর কারণ বলেন: উদ্দেশ্য একজন মুমিন আর একজন ফাসিক নয়, বরং সব মুমিন আর সব ফাসিক। শানে নুযুল জানায় আয়াত কখন এসেছিল, আয়াত কার মধ্যে সীমাবদ্ধ তা নয়। এ আয়াতগুলো যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এগুলো দেয় না। আর বর্ণনাগুলো রাখা হয়েছে আয়াতের প্রেক্ষাপট বোঝাতে, যাদের নাম এসেছে তাদের উপর রায় দেওয়ার জন্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith Given Hands",
+          "bn": "ঈমান যখন হাতে-কলমে"
+        },
+        "p": [
+          {
+            "en": "Alladhina amanu wa-'amilu as-salihat: those who believed and did righteous deeds. The glosses tie the second verb to the first. Ibn Kathir: their hearts affirmed the signs of Allah and they acted as those signs require, and that action is what the righteous deeds are. At-Tabari: they affirmed Allah and His Messenger, and acted on what Allah and His Messenger commanded them. The Muyassar keeps it to the same pair: they believed in Allah and did what they were commanded.",
+            "bn": "আল্লাযীনা আমানূ ওয়া আমিলুস সালিহাত: যারা ঈমান এনেছে আর নেক আমল করেছে। তাফসীরগুলোতে দ্বিতীয় ক্রিয়াটি প্রথমটির সঙ্গেই বাঁধা। ইবন কাসীর বলেন, তাদের অন্তর আল্লাহর নিদর্শনকে সত্য বলে মেনেছে, আর সেই নিদর্শন যা দাবি করে তারা সে অনুযায়ী কাজ করেছে। এই কাজটাই নেক আমল। তাবারীর ভাষায়, তারা আল্লাহ ও তাঁর রাসূলকে সত্য বলে মেনেছে, আর আল্লাহ ও রাসূল যা হুকুম করেছেন তা পালন করেছে। মুয়াসসারও একই জোড়ায় থাকে: আল্লাহর উপর ঈমান এনেছে, আর যা আদেশ করা হয়েছে তা করেছে।"
+          },
+          {
+            "en": "As-Sa'di adds a single phrase that widens the second verb: righteous deeds both obligatory and voluntary, min furud wa-nawafil. On 32:18 he draws the two figures. The believer is one whose heart is built up with faith, whose limbs have yielded to its laws, and whose faith has produced its effects. The fasiq is one whose heart has fallen into ruin, emptied of faith, with no religious restraint left in it, so that his limbs hurry into every sin. In the two portraits faith shows on the body, and so does its loss.",
+            "bn": "সা'দী একটি ছোট কথা যোগ করে দ্বিতীয় ক্রিয়াটিকে প্রশস্ত করেন: নেক আমল মানে ফরজও, নফলও, মিন ফুরূদিন ওয়া নাওয়াফিল। ৩২:১৮ আয়াতের ব্যাখ্যায় তিনি দুটি ছবি আঁকেন। মুমিন সেই ব্যক্তি, যার অন্তর ঈমানে আবাদ, যার অঙ্গপ্রত্যঙ্গ ঈমানের বিধানের কাছে নত, আর যার ঈমান নিজের ফল ফলিয়েছে। আর ফাসিক সেই ব্যক্তি, যার অন্তর বিরান, ঈমানশূন্য, দ্বীনের কোনো লাগাম যার ভেতরে আর অবশিষ্ট নেই। ফলে তার অঙ্গপ্রত্যঙ্গ দৌড়ে যায় সব রকম গুনাহের দিকে। দুই ছবিতেই ঈমান ধরা পড়ে শরীরে, আর ঈমান হারানোও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gardens One Comes Home To",
+          "bn": "যে বাগানে ফেরা যায়"
+        },
+        "p": [
+          {
+            "en": "Fa-lahum jannatu al-ma'wa: for them are the gardens of refuge. At-Tabari, al-Baghawi, al-Qurtubi and the Muyassar all gloss al-ma'wa with the same verb, awa, to take shelter in a place. At-Tabari: the gardens of the dwellings they will live in in the Hereafter and take shelter in. Al-Baghawi: the gardens in which the believers take shelter. A ma'wa, in these glosses, is not a place one passes through; it is where one lives and stays.",
+            "bn": "ফালাহুম জান্নাতুল মা'ওয়া: তাদের জন্য রয়েছে আশ্রয়ের বাগানসমূহ। তাবারী, বাগাভী, কুরতুবী ও মুয়াসসার সবাই আল-মা'ওয়ার ব্যাখ্যা দেন একই ক্রিয়া দিয়ে: আওয়া, কোনো জায়গায় আশ্রয় নেওয়া। তাবারী বলেন, এ হলো সেই আবাসের বাগান, যেখানে তারা আখিরাতে বসবাস করবে আর আশ্রয় নেবে। বাগাভী বলেন, যে বাগানে মুমিনরা আশ্রয় নেয়। এই ব্যাখ্যাগুলোতে মা'ওয়া পথে থামার জায়গা নয়। সেখানে মানুষ বসবাস করে, আর থেকে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi notices the grammar. Gardens is plural and refuge is one, so why are the gardens annexed to the refuge? Because, he says, that one place contains gardens: the believers take shelter in the gardens, and the whole of it is their ma'wa. Ibn Kathir fills the place with buildings. They are the gardens in which there are dwellings, houses and lofty upper rooms, al-ghuraf al-'aliya.",
+            "bn": "কুরতুবী নজর দেন ব্যাকরণে। বাগান বহুবচন, আশ্রয় একবচন। তাহলে বাগানগুলোকে আশ্রয়ের সঙ্গে জুড়ে দেওয়া হলো কেন? তাঁর জবাব, ঐ একটি জায়গার ভেতরেই অনেক বাগান। মুমিনরা সেই বাগানগুলোতে আশ্রয় নেয়, আর পুরোটাই তাদের মা'ওয়া। ইবন কাসীর জায়গাটা ভরে দেন ঘরবাড়িতে: এ সেই বাগান, যেখানে আছে বাসস্থান, ঘর আর উঁচু উঁচু কামরা, আল-গুরাফুল আলিয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Near the Furthest Lote Tree",
+          "bn": "সিদরাতুল মুনতাহার পাশে"
+        },
+        "p": [
+          {
+            "en": "The name returns, in the singular, at 53:15: 'indaha jannatu al-ma'wa, near it is the Garden of Refuge, beside the Lote Tree of the Utmost Boundary. At-Tabari, on that verse, calls it the garden of refuge of the martyrs and relays Qatadah: the dwellings of the martyrs. He also relays, through Abu al-'Aliyah, a remark of Ibn 'Abbas (RA) that ties that verse to ours: it is like His saying, fa-lahum jannatu al-ma'wa nuzulan bima kanu ya'malun. In his remark, the one verse is set beside the other as its like.",
+            "bn": "নামটি আবার আসে ৫৩:১৫ আয়াতে, একবচনে: ইনদাহা জান্নাতুল মা'ওয়া, তার কাছেই জান্নাতুল মা'ওয়া, অর্থাৎ শেষ সীমার কুলগাছ সিদরাতুল মুনতাহার পাশে। সেই আয়াতের তাফসীরে তাবারী একে বলেন শহীদদের আশ্রয়ের বাগান, আর কাতাদা থেকে আনেন: শহীদদের বাসস্থান। আবুল আলিয়ার সূত্রে তিনি ইবন আব্বাস (রাঃ)-এর একটি কথাও আনেন, যা ঐ আয়াতকে আমাদের আয়াতের সঙ্গে বেঁধে দেয়। তিনি বলেন, এটা তাঁর এই বাণীর মতো: ফালাহুম জান্নাতুল মা'ওয়া নুযুলান বিমা কানূ ইয়া'মালূন। তাঁর এই কথায় এক আয়াতকে অন্য আয়াতের পাশে রাখা হয়েছে তার সদৃশ হিসেবে।"
+          },
+          {
+            "en": "Al-Qurtubi, on 53:15, gathers the reasons given for the name. Al-Hasan: it is the garden to which the God-fearing come. Ibn 'Abbas: the garden to which the souls of the martyrs go, on the right of the Throne. Others say: the garden in which Adam (AS) lived until he was sent out; the garden where the souls of all the believers rest; the garden in which Jibril and Mika'il (AS) take shelter. These readings belong to that verse. On ours, with its plural gardens, al-Qurtubi gives only the general sense: the gardens in which the believers take shelter.",
+            "bn": "৫৩:১৫ আয়াতের আলোচনায় কুরতুবী নামটির পেছনে বলা কারণগুলো একত্র করেন। হাসান বলেন, এটা সেই বাগান, যেখানে মুত্তাকীরা গিয়ে পৌঁছাবে। ইবন আব্বাস (রাঃ) বলেন, যেখানে শহীদদের রূহ যায়, আরশের ডান দিকে। অন্যদের মতে, এটা সেই বাগান যেখানে আদম (আঃ) ছিলেন বের করে দেওয়ার আগ পর্যন্ত। কেউ বলেন, সব মুমিনের রূহ সেখানে থাকে। আবার কেউ বলেন, জিবরীল ও মীকাঈল (আঃ) সেখানে আশ্রয় নেন। এই মতগুলো ঐ আয়াতের। আমাদের আয়াতে বাগান বহুবচনে, আর এখানে কুরতুবী দেন কেবল সাধারণ অর্থ: যে বাগানগুলোতে মুমিনরা আশ্রয় নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Is Laid for a Guest",
+          "bn": "মেহমানের জন্য যা সাজানো"
+        },
+        "p": [
+          {
+            "en": "Then nuzulan, and here the commentators turn to the language of guests. Al-Qurtubi: nuzulan means hospitality, diyafa, and the nuzul is what is made ready for whoever alights and for the guest. He refers back to the end of Al 'Imran, where on 3:198 he adds that the nazil is the guest, and cites a poet: the guest of a people has the greatest claim among them, and the right of Allah lies within the right of the guest.",
+            "bn": "তারপর নুযুলান। এখানে এসে তাফসীরকারেরা মেহমানদারির ভাষায় কথা বলেন। কুরতুবী বলেন, নুযুলান মানে দিয়াফা, অর্থাৎ আপ্যায়ন। আর নুযুল হলো সেই আয়োজন, যা এসে নামা লোক আর মেহমানের জন্য প্রস্তুত রাখা হয়। তিনি পাঠককে সূরা আলে ইমরানের শেষ অংশে ফিরিয়ে নেন। সেখানে ৩:১৯৮ আয়াতের আলোচনায় তিনি যোগ করেন, নাযীল মানে মেহমান, আর এক কবির পঙক্তি উদ্ধৃত করেন: কোনো কওমের মেহমানের হক তাদের মধ্যে সবচেয়ে বড়, আর আল্লাহর হক রয়েছে মেহমানের হকের ভেতরেই।"
+          },
+          {
+            "en": "The others say the same in fewer words. Ibn Kathir: hospitality and honour, diyafa wa-karama. As-Sa'di: hospitality and qira, the food a host puts before the one who arrives. The Muyassar: they stay in the gardens' bliss as hospitality for them. In each gloss the believers enter the gardens as guests, and the reward comes with the courtesy that belongs to receiving a guest, not only with the bare fact of a place to live.",
+            "bn": "অন্যরা একই কথা বলেন আরও কম শব্দে। ইবন কাসীর বলেন, দিয়াফা ওয়া কারামা, আপ্যায়ন আর সম্মান। সা'দী বলেন, আপ্যায়ন আর কিরা, অর্থাৎ যে এসে পৌঁছায় তার সামনে মেজবান যে খাবার রাখেন। মুয়াসসার বলে, তারা বাগানের নিয়ামতের মধ্যে থাকবে তাদের জন্য আপ্যায়ন হিসেবে। প্রতিটি ব্যাখ্যায় মুমিনরা বাগানে ঢোকে মেহমান হয়ে। ফলে প্রতিদান আসে শুধু থাকার একটা জায়গা হিসেবে নয়, মেহমানকে বরণ করার আদব আর যত্ন সঙ্গে নিয়ে।"
+          },
+          {
+            "en": "At-Tabari puts the weight elsewhere. On our verse he reads nuzulan as the lodging itself: Allah lodges them in the gardens, anzalahumuha, as His recompense for what they did in the world in obedience to Him. On 3:198 he glosses the same word as inzal, Allah's settling them there. Al-Qurtubi notes the grammar: nuzulan is either a circumstantial word, meaning the gardens are theirs already prepared, or it states the purpose. On the first reading, the place is ready before the guest arrives.",
+            "bn": "তাবারী জোর দেন অন্য জায়গায়। আমাদের আয়াতে তিনি নুযুলানকে পড়েন খোদ থাকার ব্যবস্থা হিসেবে: আল্লাহ তাদের বাগানে নামিয়ে দেন, আনযালাহুমূহা, দুনিয়াতে তাঁর আনুগত্যে তারা যে আমল করেছে তার প্রতিদান হিসেবে। ৩:১৯৮ আয়াতে একই শব্দের অর্থ তিনি বলেন ইনযাল, আল্লাহ তাদের সেখানে থিতু করে দেন। কুরতুবী ব্যাকরণের দিকটা দেখান। নুযুলান হয় অবস্থা বোঝায়, মানে বাগানগুলো তাদের জন্য আগে থেকেই প্রস্তুত, নয়তো উদ্দেশ্য বোঝায়। প্রথম পাঠ অনুযায়ী মেহমান পৌঁছানোর আগেই জায়গাটা তৈরি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Beyond the First Welcome",
+          "bn": "প্রথম আপ্যায়নের ওপারে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di does not let the word stay small. The gardens of refuge, he writes, are the refuge of every delight, the home of joys and the bliss of hearts, selves and spirits. They are the abode of permanence and the neighbourhood of the King who is worshipped, where the believers enjoy His nearness, look upon His Face and hear Him speak to them. In his reading the gardens hold all of this, and all of it is given as nuzul. The guest is received into a home, and near the King.",
+            "bn": "সা'দী শব্দটাকে ছোট হয়ে থাকতে দেন না। তিনি লেখেন, আশ্রয়ের বাগানগুলো সব আনন্দের আশ্রয়, খুশির ঠিকানা, অন্তর, মন আর রূহের নিয়ামত। এ চিরস্থায়ী থাকার জায়গা, সেই বাদশাহর প্রতিবেশ যাঁর ইবাদত করা হয়। সেখানে মুমিনরা তাঁর নৈকট্য উপভোগ করবে, তাঁর চেহারা দেখবে, তাঁর কথা শুনবে। তাঁর পাঠে বাগানগুলোতে এর সবই আছে, আর সবটাই দেওয়া হয় নুযুল হিসেবে। মেহমানকে বরণ করা হয় এক ঘরে, সেই বাদশাহর কাছে।"
+          },
+          {
+            "en": "Al-Qurtubi, on 3:198, offers a guess about what the nuzul might be, and marks it as a guess: perhaps, and Allah knows best. He points to Thawban's report in Sahih Muslim (315), in which a Jewish rabbi asked the Prophet ﷺ what the gift of the people of Paradise would be when they enter it. The answer was the extra lobe of the fish's liver; after it a bull of Paradise, which used to feed in its outskirts, is slaughtered for them; and they drink from a spring there called Salsabil. Al-Qurtubi says this matches what he said of nuzul.",
+            "bn": "৩:১৯৮ আয়াতের আলোচনায় কুরতুবী নুযুল আসলে কী হতে পারে, সে বিষয়ে একটি অনুমান দেন, আর অনুমান বলেই চিহ্নিত করেন: সম্ভবত, আর আল্লাহই ভালো জানেন। তিনি ইঙ্গিত করেন সহীহ মুসলিমে (৩১৫) সাওবান (রাঃ)-এর বর্ণনার দিকে। সেখানে এক ইহুদি আলেম নবী ﷺ-কে জিজ্ঞেস করেছিলেন, জান্নাতবাসীরা জান্নাতে ঢোকার সময় তাদের উপহার কী হবে। উত্তর ছিল মাছের কলিজার বাড়তি অংশ। এরপর তাদের জন্য জবাই করা হবে জান্নাতের সেই ষাঁড়, যা জান্নাতের আনাচে-কানাচে চরে খেত। আর তারা পান করবে সেখানকার সালসাবীল নামের এক ঝরনা থেকে। কুরতুবী বলেন, নুযুল নিয়ে তিনি যা বলেছেন, এটা তার সঙ্গে মিলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prepared With Every Going",
+          "bn": "প্রতিবার যাওয়ায় নতুন আয়োজন"
+        },
+        "p": [
+          {
+            "en": "Bima kanu ya'malun: for what they used to do. At-Tabari and the Muyassar specify the deeds as what they did in the world in obedience to Him. As-Sa'di turns the phrase toward grace. Their deeds, which Allah gave them as a favour, are what brought them to those precious, lofty stations. Those stations cannot be reached by spending wealth, nor by armies and servants, nor by children, nor even by giving up life itself; nothing at all brings a person near to them except faith and righteous deeds.",
+            "bn": "বিমা কানূ ইয়া'মালূন: তারা যা করত তার বিনিময়ে। তাবারী ও মুয়াসসার আমলগুলো চিহ্নিত করেন এভাবে: দুনিয়াতে আল্লাহর আনুগত্যে তারা যা করেছে। সা'দী কথাটাকে ঘুরিয়ে দেন অনুগ্রহের দিকে। তাদের আমল, যা আল্লাহ নিজের দয়ায় তাদের দিয়েছেন, সেটাই তাদের পৌঁছে দিয়েছে ঐ দামি আর উঁচু মর্যাদায়। সেখানে সম্পদ খরচ করে পৌঁছানো যায় না, সৈন্যসামন্ত বা চাকর-বাকর দিয়ে নয়, সন্তান দিয়ে নয়, এমনকি জান দিয়েও নয়। ঈমান আর নেক আমল ছাড়া আর কোনো কিছুই মানুষকে সেখানে কাছে টানে না।"
+          },
+          {
+            "en": "None of the tafsirs fetched here attaches a hadith to this verse. A general narration, not attached to the verse, uses its word. In Sahih al-Bukhari (662), Abu Hurayrah (RA) reports that the Prophet ﷺ said: \"Whoever goes to the mosque in the morning and in the evening, Allah prepares for him his nuzul in Paradise every time he goes, morning or evening.\" The hospitality is counted out going by going. What is laid for the guest is assembled from the small, repeated walks of a life.",
+            "bn": "এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। আয়াতের সঙ্গে সম্পৃক্ত নয়, এমন এক সাধারণ বর্ণনায় আয়াতের শব্দটি এসেছে। সহীহ বুখারীতে (৬৬২) আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"যে সকালে ও সন্ধ্যায় মসজিদে যায়, সে যতবার সকালে বা সন্ধ্যায় যায়, আল্লাহ ততবার জান্নাতে তার জন্য নুযুল প্রস্তুত করেন।\" আপ্যায়নের হিসাব হয় প্রতিটি যাওয়া ধরে। মেহমানের জন্য যা সাজানো হয়, তা গড়ে ওঠে এক জীবনের ছোট ছোট, বারবার হাঁটা পথ দিয়ে।"
+          },
+          {
+            "en": "Two verses earlier, 32:17 closed on jaza'an bima kanu ya'malun, as recompense for what they used to do. Our verse ends on the same words but calls the reward nuzul. The deeds are the same, and the reward is now named as a welcome. Kanu ya'malun is a habit, not a single act: what they kept doing. The question of 32:18 is then answered at a door. One party is shown to the refuge of 32:20, a Fire it will want to leave, and the other is received as a guest who was expected.",
+            "bn": "দুই আয়াত আগে ৩২:১৭ শেষ হয়েছিল জাযাআম বিমা কানূ ইয়া'মালূন দিয়ে, তারা যা করত তার প্রতিদান হিসেবে। আমাদের আয়াত শেষ হয় একই শব্দে, কিন্তু প্রতিদানকে এখানে বলা হয় নুযুল। আমল একই, শুধু প্রতিদানের নাম এবার আপ্যায়ন। কানূ ইয়া'মালূন একবারের কাজ নয়, অভ্যাস: যা তারা করেই যেত। এভাবে ৩২:১৮ আয়াতের প্রশ্নের জবাব মেলে এক দরজার সামনে। এক দলকে নেওয়া হয় ৩২:২০ আয়াতের আশ্রয়ে, সেই আগুনে, যা ছেড়ে তারা পালাতে চাইবে। অন্য দলকে বরণ করা হয় এমন মেহমান হিসেবে, যার জন্য অপেক্ষা চলছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "32:23": {
     "sections": [
       {
