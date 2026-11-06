@@ -23571,6 +23571,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whatever runs at your command was placed under you by Allah, who knows where every gift belongs; carry it humbly and turn it toward what He has blessed.",
     "lessonBn": "আপনার হুকুমে যা চলে, তা আপনার অধীনে রেখেছেন আল্লাহ, যিনি জানেন কোন নিয়ামত কোথায় মানায়; বিনয়ের সঙ্গে তা বহন করুন আর তাঁর বরকতের দিকে চালান।"
+  },
+  "22:9": {
+    "reflectionEn": "The verse before this one describes a man who argues about Allah with no knowledge, no guidance and no book that gives light. This verse shows how he argues: thaniya 'itfihi, turning his side away. Picture someone who, called to what is true, twists his neck and looks elsewhere, not because he has an answer but because listening would cost him his standing. He does not stop at refusing. He argues so that others will leave the way of Allah too, and the verse names his end in this world and the next. It is easy to read this about someone else. The harder reading asks where I have turned my own side: a reminder I waved off, a correction I would not hear.",
+    "reflectionBn": "আগের আয়াতে এমন এক লোকের কথা এসেছে, যে আল্লাহকে নিয়ে তর্ক করে, অথচ তার কাছে না আছে জ্ঞান, না পথের দিশা, না আলো দেখানো কোনো কিতাব। এ আয়াত দেখায় সে কীভাবে তর্ক করে: সানিয়া ইতফিহি, পাশ ফিরিয়ে। ছবিটা ভাবুন। সত্যের দিকে ডাকা হলে লোকটা ঘাড় বাঁকিয়ে অন্যদিকে তাকায়। তার কাছে জবাব আছে বলে নয়, শুনলে তার মান কমে যাবে বলে। শুধু নিজে মুখ ফিরিয়েই সে থামে না। সে তর্ক করে, যাতে অন্যরাও আল্লাহর পথ ছেড়ে দেয়। দুনিয়ায় আর আখিরাতে তার পরিণাম কী, আয়াত তাও বলে দেয়। এ আয়াত অন্যের গায়ে লাগিয়ে পড়া সহজ। কঠিন পড়াটা নিজেকে প্রশ্ন করে: কোথায় আমি নিজে পাশ ফিরিয়েছি? কোন নসিহত হাত নেড়ে উড়িয়ে দিয়েছি, কোন সংশোধন কানেই তুলিনি?",
+    "pointsEn": [
+      "The last time someone corrected me about my faith or my conduct, did I turn toward the speaker or turn my side away?",
+      "When I argue about Allah and His religion, am I speaking from knowledge, or from opinion I have never checked?",
+      "Is there a truth I resist mainly because accepting it would lower me in someone's eyes?",
+      "Have my words, online or at the table, ever made it harder for someone else to stay on the way of Allah?",
+      "Whose reminder have I dismissed because of who they are rather than because of what they said?"
+    ],
+    "pointsBn": [
+      "শেষবার কেউ যখন আমার দ্বীন বা আচরণ নিয়ে আমাকে শুধরে দিয়েছে, আমি কি তার দিকে ফিরেছি, নাকি পাশ ফিরিয়ে নিয়েছি?",
+      "আল্লাহ আর তাঁর দ্বীন নিয়ে যখন তর্ক করি, তখন কি জেনে বলি, নাকি কখনো যাচাই না করা নিজের মতামত থেকে বলি?",
+      "এমন কোনো সত্য কি আছে, যা আমি মানি না মূলত এ কারণে যে মানলে কারও চোখে আমি ছোট হয়ে যাব?",
+      "অনলাইনে হোক বা আড্ডায়, আমার কথা কি কখনো কারও জন্য আল্লাহর পথে টিকে থাকা কঠিন করে দিয়েছে?",
+      "কার নসিহত আমি উড়িয়ে দিয়েছি সে কী বলেছে তা দেখে নয়, সে কে তা দেখে?"
+    ],
+    "lessonEn": "When you are called to the truth, turn toward it, not away. Pride that will not listen first closes your own ears, then starts leading others astray.",
+    "lessonBn": "সত্যের দিকে ডাকা হলে মুখ ফিরিয়ে নেবেন না, সেদিকে ফিরুন। যে অহংকার শুনতে চায় না, তা আগে নিজের কান বন্ধ করে, তারপর অন্যকেও পথ থেকে সরাতে শুরু করে।"
   }
 };
 

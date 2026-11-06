@@ -311,6 +311,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Caller, Not the Follower",
+          "bn": "অনুসারী নয়, আহ্বায়ক"
+        },
+        "p": [
+          {
+            "en": "22:8 opens with the words of 22:3: wa-mina-n-nasi man yujadilu fi-llahi bi-ghayri 'ilm, and of the people is he who disputes about Allah without knowledge. Between the two stands the long argument of 22:5 to 22:7 for the resurrection. Ibn Kathir reads the repetition as a change of subject. 22:3 described the misguided, ignorant imitators; 22:8 turns to the callers to misguidance, the heads of disbelief and innovation. As-Sa'di draws the same line: the first dispute belongs to the imitator, this one to the rebellious devil who calls people to innovations.",
+            "bn": "২২:৮ শুরু হয়েছে ২২:৩-এর শব্দেই: ওয়া মিনান নাসি মান ইউজাদিলু ফিল্লাহি বিগাইরি ইলম, মানুষের মধ্যে এমনও আছে, যে জ্ঞান ছাড়াই আল্লাহকে নিয়ে তর্ক করে। এ দুই আয়াতের মাঝে আছে ২২:৫ থেকে ২২:৭ পর্যন্ত পুনরুত্থানের পক্ষে দীর্ঘ যুক্তি। ইবন কাসীরের মতে কথাটা আবার আসার মানে, আলোচনার পাত্র বদলে গেছে। ২২:৩-এ ছিল পথহারা অজ্ঞ অন্ধ অনুসারীদের কথা। ২২:৮ বলছে গোমরাহির দিকে যারা ডাকে তাদের কথা, কুফর আর বিদআতের মাথা যারা। সা'দীও একই রেখা টানেন। প্রথম তর্কটা অন্ধ অনুসারীর, আর এটা সেই অবাধ্য শয়তানের, যে মানুষকে বিদআতের দিকে ডাকে।"
+          },
+          {
+            "en": "The three negatives of 22:8 prepare the posture of 22:9. At-Tabari takes them one at a time: he quarrels over the oneness of Allah without knowledge of what he argues with, without any clear statement or proof, and without a book from Allah that came to him to establish what he says; munir, the book that would light up his case. What he says, at-Tabari adds, comes from ignorance, guessing and supposing. Ibn Kathir puts it as no sound reasoning and no sound, explicit transmitted text, only opinion and desire.",
+            "bn": "২২:৮-এর তিনটি 'না' আসলে ২২:৯-এর ভঙ্গির ভূমিকা। তাবারী একটা একটা করে খোলেন। লোকটা আল্লাহর একত্ব নিয়ে ঝগড়া করে, অথচ যা দিয়ে ঝগড়া করছে সে বিষয়ে তার জ্ঞান নেই। তার কথার পক্ষে কোনো স্পষ্ট বক্তব্য বা প্রমাণ নেই। আল্লাহর কাছ থেকে এমন কোনো কিতাবও তার কাছে আসেনি, যা তার দাবিকে সঠিক প্রমাণ করে। মুনীর মানে সেই কিতাব, যা তার যুক্তিকে আলোকিত করত। তাবারী যোগ করেন, সে যা বলে তা অজ্ঞতা থেকে, আন্দাজ আর অনুমান থেকে। ইবন কাসীর সংক্ষেপে বলেন: না সুস্থ বিবেক, না সহীহ ও স্পষ্ট বর্ণনা, কেবল মত আর খেয়ালখুশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name, Not a Boundary",
+          "bn": "একটি নাম, কোনো সীমা নয়"
+        },
+        "p": [
+          {
+            "en": "Some commentators attach a name to these verses. At-Tabari, on 22:8, writes that it was mentioned that this verse and the one after it were meant for an-Nadr ibn al-Harith of Banu 'Abd ad-Dar; he gives no chain for it. Al-Qurtubi says 22:8 came down about an-Nadr, records a second view, which he attributes to Ibn Abbas, that it was Abu Jahl ibn Hisham, and says most hold it was an-Nadr. On 22:9 he relays from Ibn Abbas that this is an-Nadr, who twisted his neck in vanity and self-importance.",
+            "bn": "কয়েকজন মুফাসসির এ আয়াতগুলোর সঙ্গে একটি নাম জুড়ে দেন। তাবারী ২২:৮-এর আলোচনায় লেখেন, উল্লেখ করা হয়েছে যে এ আয়াত আর এর পরেরটি বনু আবদুদ দার গোত্রের নাদর ইবনুল হারিসকে নিয়ে। এর কোনো সনদ তিনি দেননি। কুরতুবী বলেন, ২২:৮ নাদরের ব্যাপারে নাযিল হয়েছে। দ্বিতীয় একটি মতও তিনি আনেন, যা তিনি ইবন আব্বাস (রাঃ)-এর বলে উল্লেখ করেন: লোকটি আবু জাহল ইবন হিশাম। তারপর বলেন, অধিকাংশের মতে সে নাদর। ২২:৯-এর আলোচনায় তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: এ হলো নাদর, যে দম্ভ আর আত্মম্ভরিতায় ঘাড় বাঁকিয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi also carries a different report from Ibn Abbas, through al-Awza'i, on thaniya 'itfihi li-yudilla 'an sabili-llah: he is the man of innovation in religion. As-Sa'di widens it further: every leader of disbelief and misguidance falls under the verse. A named man, then, is where these commentators place the verse's first occasion, not where they stop its meaning; they apply its words to a manner of arguing and its aim. None of the commentaries fetched for this verse attaches a hadith to it.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে আওযাঈর সূত্রে আরেকটি ভিন্ন বর্ণনাও আনেন। সানিয়া ইতফিহি লিইউদিল্লা আন সাবীলিল্লাহ প্রসঙ্গে সেখানে বলা হয়েছে: এ হলো বিদআতি লোক। সা'দী পরিধি আরও বাড়ান। তাঁর মতে কুফর আর গোমরাহির সব ইমামই এ আয়াতের আওতায় পড়ে। অর্থাৎ নির্দিষ্ট নামটি মুফাসসিরদের কাছে আয়াতের প্রথম প্রেক্ষাপট, অর্থের সীমানা নয়। আয়াতের শব্দগুলো তাঁরা প্রয়োগ করেন তর্কের এক ধরন আর তার উদ্দেশ্যের উপর। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Body Bends",
+          "bn": "শরীর যেখানে বাঁক নেয়"
+        },
+        "p": [
+          {
+            "en": "Thaniya 'itfihi is two words: thani, the person bending or folding something back, and 'itf, what is bent. Al-Qurtubi gives the lexicographers. Al-Mubarrad says the 'itf is the part of the neck that bends. Al-Mufaddal says it is the side, as in the saying that someone looks into his a'taf, his sides; a man's two 'itfs run from his head down to his hips. And the Arabs say thana fulan 'anni 'itfahu, he bent his side away from me, of a man who turns away from you.",
+            "bn": "সানিয়া ইতফিহি দুই শব্দের কথা। সানী মানে যে কিছু বাঁকায় বা ভাঁজ করে ফেরায়, আর ইতফ হলো যা সে বাঁকায়। কুরতুবী ভাষাবিদদের কথা তুলে আনেন। মুবাররাদের মতে ইতফ হলো ঘাড়ের যে অংশটা বাঁকে। মুফাদ্দালের মতে ইতফ মানে পাশ। আরবরা বলে, অমুক তার আতাফের দিকে তাকায়, মানে নিজের দুই পাশে। মানুষের দুই ইতফ মাথা থেকে কোমর পর্যন্ত বিস্তৃত। কেউ আপনার কাছ থেকে মুখ ফিরিয়ে নিলে আরবিতে বলা হয়: সানা ফুলানুন আন্নী ইতফাহু, অমুক আমার দিক থেকে তার পাশ ফিরিয়ে নিল।"
+          },
+          {
+            "en": "Al-Baghawi agrees: the 'itf is the side, a man's two 'itfs are his right and his left, the place a person bends and tilts when he turns away from something. At-Tabari reports an expression of the Arabs, ja'ani fulan thaniya 'itfihi, so-and-so came to me with his side bent, said of a man who arrives strutting with pride. Ma'arif al-Qur'an gives the sense in English: to turn on one's side, in other words to oppose. Al-Qurtubi adds the grammar: thaniya is a circumstantial accusative, describing the state in which the man disputes.",
+            "bn": "বাগাভীও একই কথা বলেন। ইতফ মানে পাশ। মানুষের দুই ইতফ তার ডান আর বাম দিক, যেখানটায় কোনো কিছু থেকে মুখ ফেরানোর সময় সে শরীর বাঁকায়, হেলিয়ে দেয়। তাবারী আরবদের একটি কথা উদ্ধৃত করেন: জাআনী ফুলানুন সানিয়া ইতফিহি, অমুক পাশ বাঁকিয়ে আমার কাছে এল। অহংকারে দেমাক দেখিয়ে হেঁটে এলে কারও সম্পর্কে এ কথা বলা হয়। মাআরিফুল কুরআন ইংরেজিতে অর্থটা দেয় এভাবে: এক পাশে ফিরে যাওয়া, অন্য কথায় বিরোধিতা করা। কুরতুবী ব্যাকরণের দিকটাও বলেন। সানিয়া শব্দটি হাল হিসেবে মানসূব, অর্থাৎ লোকটি কোন অবস্থায় তর্ক করে, শব্দটা তা জানায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pride, a Neck, a Deaf Ear",
+          "bn": "অহংকার, বাঁকা ঘাড়, বধির কান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that the people of interpretation differed over what the description means. Some said it describes his pride and strutting: Ibn Abbas, in the report through 'Ali ibn Abi Talha, says mustakbiran fi nafsih, proud in himself. Al-Baghawi opens with this sense, strutting in his pride, and Ibn Kathir gives it from Ibn Abbas and others as too proud for the truth when he is called to it. Others said it means twisting the neck. Mujahid says, his neck; Qatada says, twisting his neck.",
+            "bn": "তাবারী জানান, এ বর্ণনার অর্থ নিয়ে তাফসীরকারদের মধ্যে মতভেদ হয়েছে। কেউ বলেছেন, এখানে লোকটির অহংকার আর দেমাকি চালচলনের কথা। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন: মুসতাকবিরান ফী নাফসিহি, মনে মনে অহংকারী। বাগাভীও এই অর্থ দিয়েই শুরু করেন: অহংকারে দেমাক দেখিয়ে চলা। ইবন কাসীর ইবন আব্বাস (রাঃ) ও অন্যদের থেকে আনেন: সত্যের দিকে ডাকা হলে সে তা মানতে অহংকার করে। আরেক দল বলেছেন, এর মানে ঘাড় বাঁকানো। মুজাহিদ বলেন: তার ঘাড়। কাতাদা বলেন: ঘাড় বাঁকিয়ে।"
+          },
+          {
+            "en": "A third group said it means turning away from what he is called to, so that he does not listen. Ibn Abbas, in a second report, says: he turns away from My remembrance. Mujahid, through Ibn Jurayj, says: he turns away from the truth. Ibn Zayd fills in the picture: twisting his head, turning aside and showing his back, not wanting to hear what is said to him. Then he recited 63:5, on hypocrites who twist their heads, and 31:7, on a man who turns away in pride as if he had not heard.",
+            "bn": "তৃতীয় দলের মতে এর মানে, যেদিকে তাকে ডাকা হয় সেদিক থেকে মুখ ফিরিয়ে নেওয়া, যাতে কথাটা তার কানে না যায়। ইবন আব্বাস (রাঃ)-এর আরেক বর্ণনায় আছে: সে আমার জিকির থেকে মুখ ফিরিয়ে নেয়। ইবন জুরাইজের সূত্রে মুজাহিদ বলেন: সে সত্য থেকে মুখ ফেরায়। ইবন যায়দ ছবিটা পূর্ণ করেন: মাথা বাঁকিয়ে, মুখ ফিরিয়ে, পিঠ দেখিয়ে চলে যায়। তাকে যা বলা হয় তা সে শুনতেই চায় না। তারপর তিনি পড়েন ৬৩:৫, যেখানে মুনাফিকরা মাথা ঘুরিয়ে নেয়, আর ৩১:৭, যেখানে একজন অহংকারে মুখ ফিরিয়ে চলে যায়, যেন কিছুই শোনেনি।"
+          },
+          {
+            "en": "At-Tabari does not set one against another. The three sayings, he writes, are close in meaning, since whoever is proud turns away from what he is too proud for, twists his neck from it and turns aside. His summary: Allah describes this man who disputes about Him without knowledge as one who, out of his pride, when called to Allah turns away from the one calling him, twists his neck from him, and does not hear what is said to him. Al-Qurtubi, giving Mujahid, Qatada and Ibn Abbas, reaches the same verdict in fewer words: the meaning is one.",
+            "bn": "তাবারী এক মতকে আরেক মতের বিরুদ্ধে দাঁড় করান না। তাঁর মতে তিনটি কথার অর্থ কাছাকাছি। যে অহংকারী, যা মানতে তার অহংকারে বাধে, তা থেকে সে মুখ ফেরায়, ঘাড় বাঁকিয়ে সরে যায়। তাঁর সারকথা এই: জ্ঞান ছাড়া আল্লাহকে নিয়ে যে তর্ক করে, আল্লাহ তার বর্ণনা দিয়েছেন এভাবে। আল্লাহর দিকে ডাকা হলে অহংকারের কারণে সে আহ্বানকারীর দিক থেকে মুখ ফেরায়, ঘাড় বাঁকায়, তাকে যা বলা হয় তা শোনে না। কুরতুবী মুজাহিদ, কাতাদা আর ইবন আব্বাস (রাঃ)-এর কথা এনে আরও কম কথায় একই রায় দেন: অর্থ একটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Gesture the Qur'an Repeats",
+          "bn": "কুরআনে বারবার এই ভঙ্গি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the phrase beside other verses where turning the body is the way a message is refused. When Musa (AS) was sent to Fir'awn with clear authority, Fir'awn turned away and said: a magician or a madman (51:38 and 51:39). The hypocrites, called to what Allah sent down and to the Messenger, turn away from you in aversion (4:61), and in 63:5 they twist their heads. He adds Luqman's counsel to his son, do not turn your cheek away from people (31:18), which he explains as tilting it away from them in arrogance.",
+            "bn": "ইবন কাসীর এ বাক্যটিকে আরও কয়েকটি আয়াতের পাশে রাখেন, যেখানে শরীর ঘুরিয়ে নেওয়াই বার্তা প্রত্যাখ্যানের ধরন। মূসা (আঃ)-কে স্পষ্ট প্রমাণসহ ফিরআউনের কাছে পাঠানো হলে সে মুখ ফিরিয়ে নিল আর বলল: জাদুকর, নয়তো পাগল (৫১:৩৮ ও ৫১:৩৯)। মুনাফিকদের যখন আল্লাহর নাযিল করা বিধান আর রাসূলের দিকে ডাকা হয়, তারা আপনার কাছ থেকে একেবারে সরে যায় (৪:৬১)। ৬৩:৫-এ তারা মাথা ঘুরিয়ে নেয়। ইবন কাসীর ছেলের প্রতি লুকমানের উপদেশও আনেন: মানুষের দিক থেকে গাল ফিরিয়ে নিয়ো না (৩১:১৮)। তাঁর ব্যাখ্যায় এর মানে, অহংকার করে তাদের দিক থেকে মুখ হেলিয়ে না নেওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi adds images of his own: the man who turns away and keeps his side distant, a wording found in 17:83 and 41:51, and the man who went off to his family yatamatta, stretching himself as he went (75:33). As-Sa'di names what lies under the gesture. Bending the side and the neck, he says, is a figure for pride against the truth and contempt for people. Such a man has rejoiced in the knowledge he holds, knowledge that brings no benefit, and looks down on the people of truth and on the truth they hold.",
+            "bn": "কুরতুবী নিজের দিক থেকে আরও কিছু ছবি যোগ করেন। একজন মুখ ফিরিয়ে নেয় আর পাশ ফিরিয়ে দূরে সরে যায়, এ শব্দগুলো ১৭:৮৩ ও ৪১:৫১-এ আছে। আরেকজন গা মোচড়াতে মোচড়াতে, ইয়াতামাত্তা, নিজের পরিবারের কাছে চলে যায় (৭৫:৩৩)। সা'দী এ ভঙ্গির নিচে কী আছে তার নাম দেন। পাশ আর ঘাড় বাঁকানো আসলে রূপক। এর মানে সত্যের মুকাবিলায় অহংকার আর মানুষকে তুচ্ছ জ্ঞান করা। এমন লোক নিজের কাছে থাকা অকেজো জ্ঞান নিয়ে খুশিতে মেতে থাকে। আর সত্যপন্থীদের, তাদের কাছে থাকা সত্যসহ, সে হেয় চোখে দেখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aim or Outcome",
+          "bn": "লক্ষ্য, নাকি শেষ ফল"
+        },
+        "p": [
+          {
+            "en": "Li-yudilla 'an sabili-llah: to lead astray from the way of Allah. The li can be read two ways, and the commentators fetched here divide. At-Tabari reads purpose: this idolater disputes about Allah without knowledge, turning from the truth in pride, in order to turn the believers away from the religion Allah guided them to and make them slip from it. As-Sa'di reads it the same way: to lead people astray, that is, to be one of the callers to misguidance. Al-Muyassar has him turning away so as to bar others from entering the religion of Allah.",
+            "bn": "লিইউদিল্লা আন সাবীলিল্লাহ: আল্লাহর পথ থেকে বিচ্যুত করার জন্য। এখানে 'লি' দুইভাবে পড়া যায়, আর যেসব তাফসীর দেখা হয়েছে সেগুলো দুই ভাগ হয়ে যায়। তাবারী একে উদ্দেশ্য হিসেবে পড়েন। এই মুশরিক অহংকারে সত্য থেকে মুখ ফিরিয়ে জ্ঞান ছাড়াই আল্লাহকে নিয়ে তর্ক করে। তার উদ্দেশ্য, আল্লাহ মুমিনদের যে দ্বীনের হিদায়াত দিয়েছেন, তা থেকে তাদের ফিরিয়ে দেওয়া, তাদের পা পিছলে দেওয়া। সা'দীও তা-ই পড়েন: মানুষকে বিপথে নেওয়ার জন্য, অর্থাৎ গোমরাহির দিকে ডাকনেওয়ালাদের একজন হওয়ার জন্য। মুয়াসসারে আছে, সে মুখ ফেরায় যাতে অন্যদের আল্লাহর দ্বীনে ঢুকতে বাধা দিতে পারে।"
+          },
+          {
+            "en": "Al-Qurtubi takes the other reading: the lam is lam al-'aqiba, the lam of outcome. He disputes, and so he leads astray. His parallel is 28:8, where Fir'awn's household picked up the infant Musa (AS) li-yakuna lahum 'aduwwan wa-hazana, to become for them an enemy and a grief; al-Qurtubi's gloss is simply that so it turned out for them. He adds 16:54 and 16:55, where, once harm is lifted, a group associates partners with their Lord li-yakfuru, so that they deny what they were given. On this reading the words sound like an aim but tell where things ended.",
+            "bn": "কুরতুবী অন্য পাঠটি নেন। তাঁর মতে এই লাম লামুল আকিবা, যা পরিণাম জানায়। লোকটা তর্ক করে, আর তার ফল দাঁড়ায় অন্যকে পথভ্রষ্ট করা। দৃষ্টান্ত হিসেবে তিনি আনেন ২৮:৮। সেখানে ফিরআউনের পরিবার শিশু মূসা (আঃ)-কে কুড়িয়ে নেয়, লিইয়াকূনা লাহুম আদুওয়্যাও ওয়া হাযানা, যাতে তিনি হন তাদের শত্রু আর দুঃখের কারণ। কুরতুবীর ব্যাখ্যা ছোট: শেষে তাদের বেলায় তা-ই হয়েছিল। তিনি ১৬:৫৪ ও ১৬:৫৫-ও আনেন। বিপদ সরে গেলে একদল লোক তাদের রবের সঙ্গে শরিক করে, লিইয়াকফুরূ, ফলে যা দেওয়া হয়েছিল তা অস্বীকার করে বসে। এ পাঠে বাক্যটা শুনতে উদ্দেশ্যের মতো, কিন্তু আসলে জানায় শেষটা কোথায় গিয়ে দাঁড়াল।"
+          },
+          {
+            "en": "Ibn Kathir holds both open. Some say, he reports, that it is the lam of outcome, because the man may not intend that; it may also be the lam of cause. If it is cause, then either the obstinate are meant, or the sense is that Allah formed this man with a character that makes him one of those who lead others from His way. Al-Qurtubi also notes a reading li-yadilla, with the first vowel a: so that he himself goes astray. The same phrase, li-yudilla 'an sabilihi, describes those who set up rivals to Allah in 14:30 and 39:8.",
+            "bn": "ইবন কাসীর দুটো সম্ভাবনাই খোলা রাখেন। তিনি জানান, কেউ কেউ বলেন এটা পরিণামের লাম, কারণ লোকটা হয়তো সত্যিই এমন কিছু চায় না। আবার কারণবাচক লামও হতে পারে। কারণবাচক হলে দুটোর একটা: হয় এখানে জেদি হঠকারীদের কথা বলা হয়েছে, নয়তো অর্থ এই যে আল্লাহ এই লোককে এমন স্বভাব দিয়ে গড়েছেন, যা তাকে আল্লাহর পথ থেকে বিচ্যুতকারীদের একজন বানায়। কুরতুবী আরেকটি কিরাআতও উল্লেখ করেন: লিইয়াদিল্লা, প্রথম অক্ষরে যবর দিয়ে, অর্থাৎ যাতে সে নিজেই পথ হারায়। লিইউদিল্লা আন সাবীলিহী বাক্যটি ১৪:৩০ ও ৩৯:৮-এও এসেছে, যারা আল্লাহর সমকক্ষ দাঁড় করায় তাদের বর্ণনায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Disgrace Was",
+          "bn": "লাঞ্ছনাটা কী"
+        },
+        "p": [
+          {
+            "en": "Lahu fi-d-dunya khizy: for him in this world is disgrace. The commentators differ over what that disgrace is. At-Tabari makes it specific: killing, abasement and humiliation at the hands of the believers, and he writes that Allah had him killed by their hands on the day of Badr. He cites Ibn Jurayj: killed on the day of Badr. Al-Baghawi says the disgrace is the killing at Badr and names two men, an-Nadr ibn al-Harith and 'Uqba ibn Abi Mu'ayt, put to death there as captives. These are their readings; the verse itself names no battle.",
+            "bn": "লাহূ ফিদ দুনইয়া খিযই: দুনিয়ায় তার জন্য আছে লাঞ্ছনা। এই লাঞ্ছনা কী, তা নিয়ে মুফাসসিরদের মত আলাদা। তাবারী একে নির্দিষ্ট করেন। তাঁর মতে এ হলো মুমিনদের হাতে নিহত হওয়া, অপদস্থ আর হেয় হওয়া। তিনি লেখেন, আল্লাহ বদরের দিন মুমিনদের হাতে তাকে হত্যা করিয়েছেন। সঙ্গে ইবন জুরাইজের কথা আনেন: বদরের দিন নিহত হওয়া। বাগাভী বলেন, লাঞ্ছনা মানে বদরে নিহত হওয়া। তিনি দুজনের নামও নেন, নাদর ইবনুল হারিস আর উকবা ইবন আবী মুআইত, যাদের সেখানে বন্দি অবস্থায় হত্যা করা হয়। এগুলো তাঁদের ব্যাখ্যা। আয়াত নিজে কোনো যুদ্ধের নাম নেয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi gives a wider first reading: abasement through the ugly mention of him that runs on the believers' tongues until the Day of Resurrection, as with the oath-swearer of 68:10 and with Abu Lahab in 111:1. Only then does he add, introduced with it is said, that the disgrace here is killing, since, he writes, the Prophet ﷺ had an-Nadr put to death at Badr as a captive. Ibn Kathir keeps to the general: humiliation and abasement. Because the man was too proud for the signs of Allah, Allah met him with abasement in this world, which was his greatest concern and the limit of his knowledge.",
+            "bn": "কুরতুবী প্রথমে আরও বিস্তৃত একটি ব্যাখ্যা দেন। লাঞ্ছনা মানে সেই হীনতা, যা কিয়ামত পর্যন্ত মুমিনদের মুখে মুখে তার কুখ্যাতি হয়ে চলতে থাকে। যেমন ৬৮:১০-এর কসমখোর লোকটি, যেমন ১১১:১-এ আবু লাহাব। এরপর 'বলা হয়' কথাটি দিয়ে তিনি যোগ করেন, এখানে লাঞ্ছনা মানে হত্যা। কারণ তাঁর বর্ণনায়, নবী ﷺ বদরে নাদরকে বন্দি অবস্থায় মৃত্যুদণ্ড দিয়েছিলেন। ইবন কাসীর সাধারণ অর্থেই থাকেন: অপমান আর হীনতা। লোকটা আল্লাহর আয়াতের সামনে অহংকার করেছিল, তাই আল্লাহ দুনিয়াতেই তাকে হীনতার মুখোমুখি করেছেন। দুনিয়াই ছিল তার সবচেয়ে বড় চিন্তা, তার জ্ঞানের শেষ সীমা।"
+          },
+          {
+            "en": "As-Sa'di counts it among the remarkable signs of Allah. You will not find, he says, a caller to disbelief and misguidance who does not meet, among people, the loathing, cursing, dislike and blame he has earned, each according to his state. Al-Muyassar names his defeat and the exposure of his affair. The difference stands: for at-Tabari and al-Baghawi the disgrace is a killing at Badr; for as-Sa'di it is an exposure that follows every such caller; al-Qurtubi puts first an ill name that lasts, and Ibn Kathir a general abasement.",
+            "bn": "সা'দী এতে আল্লাহর এক আশ্চর্য নিদর্শন দেখেন। তিনি বলেন, কুফর আর গোমরাহির দিকে ডাকে এমন কাউকে আপনি পাবেন না, যার ভাগ্যে মানুষের মধ্যে তার প্রাপ্য ঘৃণা, লানত, বিদ্বেষ আর নিন্দা জোটেনি। প্রত্যেকে তার অবস্থা অনুযায়ী তা পায়। মুয়াসসার বলে তার পরাজয় আর মুখোশ খুলে যাওয়ার কথা। মতভেদটা থেকেই যায়। তাবারী আর বাগাভীর কাছে লাঞ্ছনা মানে বদরে নিহত হওয়া। সা'দীর কাছে তা এমন অপমান, যা এ ধরনের প্রত্যেক আহ্বায়কের পিছু নেয়। কুরতুবী আগে রাখেন এমন কুখ্যাতি, যা টিকে থাকে, আর ইবন কাসীর রাখেন সাধারণ হীনতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning Back Toward the Call",
+          "bn": "আহ্বানের দিকে ফিরে আসা"
+        },
+        "p": [
+          {
+            "en": "Then the second half: wa-nudhiquhu yawma-l-qiyamati 'adhaba-l-hariq, and We will make him taste on the Day of Resurrection the punishment of burning. At-Tabari glosses it as We will burn him with fire; al-Qurtubi as the fire of Jahannam; as-Sa'di as its fierce heat and intense blaze. 22:10 completes the address: that is for what your hands put forward, and Allah is not unjust to His servants. Ibn Kathir notes that this is said to him as a rebuke.",
+            "bn": "এরপর আয়াতের দ্বিতীয় অংশ: ওয়া নুযীকুহূ ইয়াওমাল কিয়ামাতি আযাবাল হারীক, আর কিয়ামতের দিন আমি তাকে দহনের শাস্তি আস্বাদন করাব। তাবারীর ব্যাখ্যা: আমি তাকে আগুনে পোড়াব। কুরতুবীর ব্যাখ্যা: জাহান্নামের আগুন। সা'দীর ব্যাখ্যা: তার প্রচণ্ড উত্তাপ আর তীব্র লেলিহান শিখা। ২২:১০ কথাটা পূর্ণ করে: এ তোমার দুই হাত আগে যা পাঠিয়েছে তারই ফল, আর আল্লাহ বান্দাদের প্রতি জুলুম করেন না। ইবন কাসীর বলেন, ভর্ৎসনা হিসেবেই কথাটা তাকে বলা হবে।"
+          },
+          {
+            "en": "These verses describe one disputer and his end as the text describes them. They license nothing against any living person or community, and they give no reader a label to pin on someone who asks hard questions about Allah: 22:5 answers the doubter with evidence, not scorn. What the verse does hand every reader is a posture to check in himself. When a reminder or a correction comes, the bent neck is the easy reflex. The turn the commentators' parallels point to, from Luqman's counsel onward, is the opposite: face the one speaking, and hear him out.",
+            "bn": "এ আয়াতগুলো একজন তর্ককারী আর তার পরিণতির বর্ণনা দেয়, ঠিক যেভাবে কুরআন তা বর্ণনা করেছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। আল্লাহকে নিয়ে কেউ কঠিন প্রশ্ন করলে তার গায়ে তকমা লাগানোর সুযোগও এ আয়াত কাউকে দেয় না। ২২:৫ তো সন্দেহকারীর জবাব দিয়েছে প্রমাণ দিয়ে, তাচ্ছিল্য দিয়ে নয়। তবে প্রত্যেক পাঠকের হাতে আয়াতটি একটা ভঙ্গি তুলে দেয়, যা নিজের মধ্যে যাচাই করার। নসিহত বা সংশোধন এলে ঘাড় বাঁকানোটাই সহজ প্রতিক্রিয়া। লুকমানের উপদেশসহ মুফাসসিরদের আনা আয়াতগুলো উল্টো দিকটা দেখায়: যে কথা বলছে তার দিকে মুখ ফেরান, তার কথা শেষ পর্যন্ত শুনুন।"
+          }
+        ]
+      }
+    ]
+  },
   "22:18": {
     "sections": [
       {
