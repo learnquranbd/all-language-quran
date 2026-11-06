@@ -26109,6 +26109,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The doors of the lasting Garden stand open for the righteous, opened for their sake, so walk toward them in hope, with the patience and turning back that the verses before praise.",
     "lessonBn": "চিরস্থায়ী জান্নাতের দরজা মুত্তাকীদের জন্যই খোলা, তাদের খাতিরেই খুলে রাখা। তাই আশা নিয়ে সেদিকে হাঁটুন, আগের আয়াতগুলোতে প্রশংসিত ধৈর্য আর বারবার ফিরে আসার পথ ধরে।"
+  },
+  "38:26": {
+    "reflectionEn": "Allah calls Dawud (AS) by name, a prophet and a king, and gives him three things in one breath: a place on earth, a duty to judge between people with truth, and a warning not to follow desire. The warning is not a charge against him. It is the command that comes with every seat of authority, even the highest. Desire rarely announces itself. It arrives as a soft spot for a friend, a cousin, a favourite child, or as dislike for someone who once annoyed us, and it bends a verdict without a word being said. The verse names what keeps a judgement straight: remembering the Day when every judge is judged. Where have I been given a say over others, and whom do I quietly favour there?",
+    "reflectionBn": "আল্লাহ দাঊদ (আঃ)-কে নাম ধরে ডাকছেন। তিনি নবী, আবার রাজাও। এক নিঃশ্বাসে তাঁকে তিনটি জিনিস দেওয়া হলো: পৃথিবীতে একটি আসন, মানুষের মাঝে সত্য দিয়ে বিচার করার দায়িত্ব, আর প্রবৃত্তির পেছনে না চলার সতর্কবাণী। এই সতর্কবাণী তাঁর বিরুদ্ধে কোনো অভিযোগ নয়। যত উঁচুই হোক, ক্ষমতার প্রতিটি আসনের সঙ্গে এই হুকুম আসে। প্রবৃত্তি সাধারণত ঘোষণা দিয়ে আসে না। আসে বন্ধুর প্রতি একটু টান হয়ে, আত্মীয় বা আদরের সন্তানের দিকে ঝোঁক হয়ে, কিংবা যে একদিন বিরক্ত করেছিল তার প্রতি চাপা অপছন্দ হয়ে। মুখে কিছু না বলেই সে রায়টা বাঁকিয়ে দেয়। রায় সোজা রাখে কী, আয়াতটি তাও বলে দেয়: সেই দিনের কথা মনে রাখা, যেদিন প্রত্যেক বিচারকেরও বিচার হবে। কোথায় আমাকে অন্যদের উপর কথা বলার অধিকার দেওয়া হয়েছে, আর সেখানে আমি চুপচাপ কার পক্ষ নিই?",
+    "pointsEn": [
+      "Over whom do I hold some say this week, at home, at work or among friends, and do they get the same hearing from me?",
+      "When two people bring me a quarrel, do I already know whose side I want to win before either has spoken?",
+      "Is there someone whose word I doubt simply because I dislike them, or someone I believe simply because I love them?",
+      "What would change in the way I settle things if I pictured myself standing to account for each decision?",
+      "Do I know the facts before I judge, or only the story that reached me first?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে ঘরে, কাজে বা বন্ধুদের মাঝে কাদের উপর আমার কিছুটা কর্তৃত্ব আছে? তারা কি সবাই আমার কাছে সমান শুনানি পায়?",
+      "দুজন মানুষ যখন ঝগড়া নিয়ে আমার কাছে আসে, কেউ মুখ খোলার আগেই কি আমি ঠিক করে ফেলি কাকে জেতাতে চাই?",
+      "এমন কেউ কি আছে যার কথা শুধু অপছন্দের কারণে সন্দেহ করি, বা শুধু ভালোবাসার কারণে বিশ্বাস করি?",
+      "প্রতিটি সিদ্ধান্তের জন্য নিজেকে হিসাবের কাঠগড়ায় দাঁড়ানো কল্পনা করলে আমার মীমাংসার ধরন কীভাবে বদলে যেত?",
+      "রায় দেওয়ার আগে আমি কি আসল ঘটনা জানি, নাকি শুধু যে কাহিনি প্রথমে কানে এসেছে সেটুকুই?"
+    ],
+    "lessonEn": "Whatever authority you hold, judge with truth and keep desire out of your verdicts; remembering the Day of Account is what keeps a judgement straight.",
+    "lessonBn": "যে দায়িত্বই আপনার হাতে থাকুক, সত্য দিয়ে বিচার করুন আর রায় থেকে প্রবৃত্তিকে দূরে রাখুন; হিসাবের দিনকে মনে রাখাই রায়কে সোজা রাখে।"
   }
 };
 

@@ -751,6 +751,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:26": {
+    "sections": [
+      {
+        "h": {
+          "en": "Called by Name, Then Charged",
+          "bn": "নাম ধরে ডাক, তারপর দায়িত্ব"
+        },
+        "p": [
+          {
+            "en": "Ya Dawudu: O Dawud. The verse is thirty Arabic words and opens with a direct address, which at-Tabari fills out as: and We said to Dawud. It comes after a run of praise. In 38:20 Allah says He strengthened his kingdom and gave him wisdom and decisive speech, and 38:25 closes with nearness to Him and a good place of return. The charge comes only then, to a man already honoured.",
+            "bn": "ইয়া দাঊদু: হে দাঊদ। আয়াতটি আরবিতে ত্রিশ শব্দের, আর শুরু হয়েছে সরাসরি সম্বোধনে। তাবারী এর আগে উহ্য কথাটা খুলে বলেন: আর আমি দাঊদকে বললাম। এর আগে একটানা প্রশংসা চলেছে। ৩৮:২০ আয়াতে আল্লাহ বলেন, তিনি তাঁর রাজত্ব মজবুত করেছিলেন, আর তাঁকে দিয়েছিলেন হিকমত ও মীমাংসাকারী বক্তব্য। ৩৮:২৫ আয়াত শেষ হয় আল্লাহর নৈকট্য আর উত্তম প্রত্যাবর্তনস্থলের কথায়। দায়িত্বের কথা আসে এরপরই, এমন একজন মানুষের কাছে, যাঁকে আগেই সম্মানিত করা হয়েছে।"
+          },
+          {
+            "en": "The verse moves in four steps. A fact: We have made you a khalifah on earth. A command: so judge between people with truth. A prohibition with its reason: do not follow desire, lest it lead you astray from Allah's way. Then a warning that reaches past Dawud (AS): those who stray from Allah's way will have a severe punishment, because they forgot the Day of Account. The fa, so, at the head of fa-hkum ties the duty to the appointment.",
+            "bn": "আয়াতটি চারটি ধাপে এগোয়। প্রথমে একটি বাস্তবতা: আমি তোমাকে পৃথিবীতে খলীফা বানিয়েছি। তারপর হুকুম: কাজেই মানুষের মাঝে সত্য দিয়ে বিচার করো। তারপর নিষেধ, সঙ্গে তার কারণ: প্রবৃত্তির অনুসরণ করো না, নইলে তা তোমাকে আল্লাহর পথ থেকে সরিয়ে দেবে। শেষে আসে এক সতর্কবাণী, যা দাঊদ (আঃ)-কে ছাড়িয়ে সবার কাছে পৌঁছায়: যারা আল্লাহর পথ থেকে সরে যায়, হিসাবের দিনকে ভুলে যাওয়ার কারণে তাদের জন্য আছে কঠিন আযাব। ফাহকুম শব্দের শুরুর ফা অক্ষরটি, যার অর্থ কাজেই, দায়িত্বকে নিয়োগের সঙ্গে বেঁধে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Successor to Whom, by Whose Command",
+          "bn": "কার উত্তরসূরি, কার আদেশে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads khalifah as succession: We made you a successor on earth after those of Our messengers who came before you, a judge among its people. Al-Qurtubi widens the line of predecessors: We gave you rule so that you would command the right and forbid the wrong, and so succeed the prophets and righteous leaders before you. At-Tabari also relays from as-Suddi a shorter gloss, that Allah gave him kingship on earth, and the Muyassar joins both glosses: We made you a successor and gave you rule there.",
+            "bn": "তাবারী খলীফা শব্দটিকে উত্তরাধিকার অর্থে নেন: তোমার আগে আমার যে রাসূলরা এসেছিলেন, তাঁদের পরে আমি তোমাকে পৃথিবীতে উত্তরসূরি বানিয়েছি, সেখানকার মানুষের বিচারক হিসেবে। কুরতুবী পূর্বসূরিদের তালিকা আরেকটু বড় করেন: আমি তোমাকে রাজত্ব দিয়েছি, যাতে তুমি সৎকাজের আদেশ দাও আর অসৎকাজে নিষেধ করো, আর এভাবে তোমার আগের নবী ও নেককার নেতাদের স্থলাভিষিক্ত হও। তাবারী সুদ্দী থেকে আরও সংক্ষিপ্ত এক ব্যাখ্যা আনেন: আল্লাহ তাঁকে পৃথিবীতে রাজত্ব দিয়েছিলেন। মুয়াসসার দুই ব্যাখ্যাকে মিলিয়ে বলে: আমি তোমাকে উত্তরসূরি বানিয়েছি, আর সেখানে রাজত্ব দিয়েছি।"
+          },
+          {
+            "en": "Others stress the authority behind the role rather than the line of those before. Al-Baghawi glosses khalifah as the person who manages the affairs of the servants by Our command. As-Sa'di explains it as the person through whom religious and worldly rulings are carried out on earth. Ma'arif al-Qur'an renders the word Our khalifah, listing caliph, deputy, successor and vicegerent as its range, and refers the reader back to its discussion of the word under al-Baqarah. On every reading the title is a trust handed down, not a rank owned.",
+            "bn": "অন্যরা জোর দেন পূর্বসূরিদের ধারার চেয়ে এই পদের পেছনের কর্তৃত্বের উপর। বাগাভীর ব্যাখ্যায় খলীফা সেই ব্যক্তি, যিনি আমার আদেশে বান্দাদের কাজকর্ম পরিচালনা করেন। সা'দী বলেন, খলীফা সেই, যার মাধ্যমে পৃথিবীতে দ্বীনি ও দুনিয়াবি ফয়সালা কার্যকর হয়। মাআরিফুল কুরআন শব্দটির অর্থ করে আমার খলীফা। এর অর্থের পরিধিতে রাখে খলীফা, প্রতিনিধি, উত্তরসূরি ও স্থলাভিষিক্তকে, আর পাঠককে পাঠিয়ে দেয় সূরা বাকারায় শব্দটির আলোচনার দিকে। যে ব্যাখ্যাই ধরা হোক, উপাধিটা হাতে তুলে দেওয়া এক আমানত, নিজের মালিকানার কোনো পদমর্যাদা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truth Needs Knowledge and Power",
+          "bn": "সত্যের জন্য চাই জ্ঞান ও সামর্থ্য"
+        },
+        "p": [
+          {
+            "en": "Fa-hkum bayna an-nasi bil-haqq: so judge between people with truth. At-Tabari glosses it as with justice and fairness, as does the Muyassar; al-Qurtubi, al-Baghawi and as-Sa'di say with justice. Al-Qurtubi adds that the imperative is a command of obligation. He calls the verse the root of the law of judging and sets beside it 5:49, judge between them by what Allah has sent down, 4:105, that you may judge between people by what Allah has shown you, and 5:8, be upright for Allah, witnesses in justice.",
+            "bn": "ফাহকুম বাইনান নাসি বিল হাক্ক: কাজেই মানুষের মাঝে সত্য দিয়ে বিচার করো। তাবারী এর অর্থ করেন ন্যায় ও ইনসাফের সঙ্গে, মুয়াসসারও তাই। কুরতুবী, বাগাভী ও সা'দী বলেন, ন্যায়ের সঙ্গে। কুরতুবী যোগ করেন, এই আদেশ ওয়াজিব অর্থে। তিনি আয়াতটিকে বিচারব্যবস্থার মূল ভিত্তি বলেন, আর এর পাশে রাখেন তিনটি আয়াত। ৫:৪৯: আল্লাহ যা নাযিল করেছেন তা দিয়ে তাদের মাঝে বিচার করো। ৪:১০৫: যাতে আল্লাহ তোমাকে যা দেখিয়েছেন তা দিয়ে মানুষের মাঝে বিচার করো। আর ৫:৮: আল্লাহর জন্য অটল থাকো, ন্যায়ের সাক্ষী হয়ে।"
+          },
+          {
+            "en": "As-Sa'di asks what such justice takes, and answers in one sentence: it cannot be done except with knowledge of what is required, knowledge of what actually happened, and the power to carry the right into effect. A judge who knows the rule but not the facts judges a case that never happened. One who knows the facts but not the rule guesses. One who knows both but cannot act leaves the wronged where they were. The command to judge with truth quietly asks for all three.",
+            "bn": "এমন ন্যায়বিচারের জন্য কী লাগে, সা'দী সে প্রশ্ন তোলেন, আর একটি বাক্যে উত্তর দেন: যা ওয়াজিব তার জ্ঞান, আসলে কী ঘটেছে তার জ্ঞান, আর হককে কার্যকর করার সামর্থ্য, এ তিনটি ছাড়া তা সম্ভব নয়। যে বিচারক বিধান জানেন কিন্তু ঘটনা জানেন না, তিনি এমন মামলার রায় দেন যা আসলে ঘটেইনি। যিনি ঘটনা জানেন কিন্তু বিধান জানেন না, তিনি আন্দাজে চলেন। আর যিনি দুটোই জানেন কিন্তু কার্যকর করতে পারেন না, তাঁর কাছে মজলুম যেখানে ছিল সেখানেই থেকে যায়। সত্য দিয়ে বিচারের হুকুম নিঃশব্দে এই তিনটিই চায়।"
+          },
+          {
+            "en": "Al-Qurtubi draws a further ruling from the verse, stating it plainly: the verse bars a judge from ruling on his private knowledge alone. His reason is the same danger the verse names. If judges could rule on what they say they know, any of them who wished to protect a friend or ruin an enemy would simply claim to know. He relays that Abu Bakr said he would not take a man for a prescribed penalty he saw himself until someone else testified to it.",
+            "bn": "কুরতুবী আয়াত থেকে আরেকটি বিধান বের করেন, স্পষ্ট ভাষায়: এ আয়াতের কারণে বিচারক শুধু নিজের ব্যক্তিগত জানা দিয়ে রায় দিতে পারবেন না। কারণটা সেই বিপদই, যার কথা আয়াত বলছে। বিচারকরা যদি নিজেদের দাবি করা জ্ঞান দিয়ে রায় দিতে পারতেন, তবে কেউ বন্ধুকে বাঁচাতে বা শত্রুকে ধ্বংস করতে চাইলে শুধু বলে দিতেন, আমি জানি। তিনি বর্ণনা করেন, আবু বকর (রাঃ) বলেছিলেন: কাউকে আল্লাহর নির্ধারিত কোনো দণ্ডযোগ্য অপরাধে নিজের চোখে দেখলেও আমি তাকে ধরব না, যতক্ষণ না আমি ছাড়া অন্য কেউ সাক্ষ্য দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Quiet Pull on a Verdict",
+          "bn": "রায়ের উপর নিঃশব্দ টান"
+        },
+        "p": [
+          {
+            "en": "Wa-la tattabi'i al-hawa: and do not follow desire. At-Tabari ties it to judging: do not prefer your own inclination over truth and justice when deciding between them, and so swerve. Al-Qurtubi defines the desire meant as that which goes against Allah's command. Then fa-yudillaka, lest it lead you astray: at-Tabari explains that following desire would bend you from the road Allah made for the people of faith. Al-Qurtubi calls that road the way to Paradise; the Muyassar calls it Allah's religion and law.",
+            "bn": "ওয়া লা তাত্তাবি'ইল হাওয়া: আর প্রবৃত্তির অনুসরণ করো না। তাবারী একে বিচারের সঙ্গে বেঁধে দেন: তাদের মাঝে ফয়সালা করতে গিয়ে নিজের ঝোঁককে হক ও ন্যায়ের উপর প্রাধান্য দিয়ো না, তাতে তুমি সঠিক পথ থেকে সরে যাবে। কুরতুবী বলেন, এখানে সেই প্রবৃত্তির কথা, যা আল্লাহর আদেশের বিরুদ্ধে যায়। তারপর ফাইউদিল্লাকা, নইলে তা তোমাকে পথভ্রষ্ট করবে। তাবারীর ব্যাখ্যায়, প্রবৃত্তির অনুসরণ তোমাকে সেই পথ থেকে বাঁকিয়ে দেবে, যা আল্লাহ ঈমানদারদের জন্য বানিয়েছেন। কুরতুবী সেই পথকে বলেন জান্নাতের পথ। মুয়াসসার বলে আল্লাহর দ্বীন ও শরীয়ত।"
+          },
+          {
+            "en": "As-Sa'di names what the pull looks like: leaning towards one party out of kinship, friendship or affection, or out of dislike for the other. Al-Qurtubi draws nearly the same list from the verse: a judge may not incline to either litigant for kinship, hope of some benefit, companionship, friendship or any other cause of leaning. Most of what the two lists name is not open corruption. It is a bias that can sit in an honest heart, unnoticed by its owner.",
+            "bn": "বাস্তবে এই টান দেখতে কেমন, সা'দী তা নাম ধরে বলেন: আত্মীয়তা, বন্ধুত্ব বা ভালোবাসার কারণে একটি পক্ষের দিকে ঝুঁকে পড়া, কিংবা অন্য পক্ষের প্রতি বিদ্বেষের কারণে। কুরতুবীও আয়াত থেকে প্রায় একই তালিকা বের করেন: আত্মীয়তা, কোনো সুবিধার আশা, সাহচর্য, বন্ধুত্ব বা ঝোঁক তৈরি করে এমন অন্য কোনো কারণে বিচারক দুই পক্ষের কারও দিকে হেলতে পারেন না। দুই তালিকার বেশির ভাগই খোলাখুলি দুর্নীতি নয়। এ এমন পক্ষপাত, যা একজন সৎ মানুষের মনেও বাসা বাঁধতে পারে, আর সে নিজে টেরও পায় না।"
+          },
+          {
+            "en": "Al-Qurtubi then relays two reports about Umar ibn al-Khattab, without chains. From Layth: two litigants came before Umar and he sent them away, then again, and only on their third coming did he decide. Asked why, he said he had found in himself for one of them something he did not find for the other, and waited until it had gone. From ash-Sha'bi: Umar and Ubayy had a dispute and went to Zayd ibn Thabit, who offered Umar his cushion. Umar said: this is your first injustice; seat me and him alike.",
+            "bn": "এরপর কুরতুবী উমর ইবনুল খাত্তাব (রাঃ) সম্পর্কে দুটি বর্ণনা আনেন, সনদ ছাড়া। লাইস থেকে: দুই বিবদমান ব্যক্তি উমর (রাঃ)-এর কাছে এলে তিনি তাদের ফিরিয়ে দেন, আবারও ফিরিয়ে দেন, তৃতীয়বার আসার পর ফয়সালা করেন। কারণ জানতে চাইলে বলেন, একজনের জন্য মনের ভেতর এমন কিছু টের পেয়েছিলাম যা অন্যজনের জন্য পাইনি, তাই সেটা চলে যাওয়া পর্যন্ত অপেক্ষা করেছি। শা'বী থেকে: উমর ও উবাই (রাঃ)-এর মধ্যে বিরোধ হলে তাঁরা যায়দ ইবন সাবিত (রাঃ)-এর কাছে যান। যায়দ উমরকে নিজের গদির দিকে ইশারা করেন। উমর বলেন: এটাই তোমার প্রথম অবিচার। আমাকে আর তাঁকে একই জায়গায় বসাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Was Forgotten, and When",
+          "bn": "কী ভুলে গেল, আর কবে"
+        },
+        "p": [
+          {
+            "en": "The verse ends: those who stray from Allah's way will have a severe punishment, bima nasu yawma al-hisab. At-Tabari explains the straying as swerving from the truth Allah laid down for His servants and told them to act on; as-Sa'di adds, especially the deliberate among them. The last clause divides the commentators, because yawm al-hisab, the Day of Account, can attach either to the punishment or to what was forgotten.",
+            "bn": "আয়াতের শেষ: যারা আল্লাহর পথ থেকে সরে যায় তাদের জন্য আছে কঠিন আযাব, বিমা নাসূ ইয়াওমাল হিসাব। তাবারী পথ থেকে সরে যাওয়ার ব্যাখ্যা দেন এভাবে: আল্লাহ বান্দাদের জন্য যে হক নির্ধারণ করেছেন আর যার উপর আমল করতে বলেছেন, তা থেকে হেলে পড়া। সা'দী জুড়ে দেন: বিশেষ করে তাদের মধ্যে যারা জেনেশুনে করে। শেষ অংশ নিয়ে মুফাসসিররা ভাগ হয়ে যান। কারণ ইয়াওমুল হিসাব, অর্থাৎ হিসাবের দিন, কথাটা আযাবের সঙ্গেও যুক্ত হতে পারে, আবার যা ভুলে যাওয়া হয়েছে তার সঙ্গেও।"
+          },
+          {
+            "en": "Ikrimah, cited by at-Tabari, Ibn Kathir and al-Baghawi, calls it a case of moving a phrase forward: they will have a severe punishment on the Day of Account for what they forgot. At-Tabari follows this, saying the Day of Account belongs with the severe punishment, and that what they forgot was Allah's command, meaning they abandoned judging with justice and obeying Him. Al-Baghawi attributes the same reordering to as-Suddi as well, with the same sense of abandoning just judgement.",
+            "bn": "তাবারী, ইবন কাসীর ও বাগাভী ইকরিমা থেকে উদ্ধৃত করেন, এখানে শব্দ আগে-পিছে করা হয়েছে। অর্থ দাঁড়ায়: তারা যা ভুলে গেছে তার কারণে হিসাবের দিন তাদের জন্য কঠিন আযাব। তাবারী এ মতই নেন। তিনি বলেন, হিসাবের দিন কথাটা কঠিন আযাবের সঙ্গে যুক্ত। আর তারা ভুলে গিয়েছিল আল্লাহর আদেশ, অর্থাৎ ন্যায়বিচার আর আল্লাহর আনুগত্য ছেড়ে দিয়েছিল। বাগাভী এই আগে-পিছের ব্যাখ্যা সুদ্দীর নামেও উল্লেখ করেন, একই অর্থে: ন্যায়বিচার ছেড়ে দেওয়া।"
+          },
+          {
+            "en": "Ibn Kathir weighs it differently. He relays from as-Suddi that the punishment is for neglecting to work for the Day of Account, so that the Day itself is what was forgotten, and he says this reading runs closer to the apparent sense of the verse. Al-Baghawi adds that they abandoned faith in the Day, and az-Zajjaj that they abandoned working for it. Al-Qurtubi keeps both: they gave up believing in it, or acting for it, and so became like those who forget.",
+            "bn": "ইবন কাসীর ভিন্নভাবে বিচার করেন। তিনি সুদ্দী থেকে আনেন, আযাব হবে হিসাবের দিনের জন্য যে আমল করার কথা ছিল তা অবহেলা করার কারণে। তাহলে ভুলে যাওয়া জিনিসটা হলো হিসাবের দিন নিজেই। ইবন কাসীর বলেন, এই ব্যাখ্যা আয়াতের বাহ্যিক অর্থের সঙ্গে বেশি মেলে। বাগাভী আরও বলেন: তারা হিসাবের দিনের উপর ঈমান ছেড়ে দিয়েছিল। যাজ্জাজের ব্যাখ্যাও আনেন: তারা সেদিনের জন্য আমল ছেড়ে দিয়েছিল। কুরতুবী দুটোই রাখেন: তারা সেদিনের উপর ঈমান ছেড়েছে, অথবা সেদিনের জন্য আমল ছেড়েছে, ফলে ভুলে যাওয়া লোকের মতো হয়ে গেছে।"
+          },
+          {
+            "en": "Both readings agree that the forgetting is a leaving, not a slip of memory: at-Tabari, al-Baghawi and al-Qurtubi all gloss nasu as taraku, they left. As-Sa'di draws the thread back to the judge: had they remembered the Day, and had fear of it settled in their hearts, they would not have leaned with the desire that tempts. On his reading the remedy for desire sits in the same verse as the warning: a judge who keeps the reckoning in view has less room to be pulled.",
+            "bn": "দুই ব্যাখ্যাই একমত যে এখানে ভুলে যাওয়া মানে ছেড়ে দেওয়া, স্মৃতির ভুল নয়। তাবারী, বাগাভী ও কুরতুবী সবাই নাসূ শব্দের অর্থ করেন তারাকূ, অর্থাৎ ছেড়ে দিয়েছে। সা'দী সুতোটা আবার বিচারকের কাছে ফিরিয়ে আনেন: তারা যদি সেদিনকে মনে রাখত, আর তার ভয় অন্তরে বসে যেত, তবে ফিতনায় ফেলা প্রবৃত্তির সঙ্গে ঝুঁকে পড়ত না। তাঁর ব্যাখ্যায় প্রবৃত্তির চিকিৎসা আর সতর্কবাণী একই আয়াতে রাখা। যে বিচারক হিসাবের দিনকে চোখের সামনে রাখেন, তাঁকে টেনে নেওয়ার জায়গা কমে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Even a Prophet-King Is Told",
+          "bn": "নবী-রাজাকেও বলে দেওয়া হলো"
+        },
+        "p": [
+          {
+            "en": "A prohibition addressed to a prophet is a command, not an accusation. The verse does not say that Dawud (AS) had followed desire; it tells him what his office requires, much as 33:1 opens, O Prophet, fear Allah. Al-Qurtubi records two views on when it was said, without choosing: when Allah honoured him with prophethood, or after Allah turned to him and forgave him, as 38:25 records. Either way the text sets it right after Allah's word that Dawud has nearness to Him and a good place of return.",
+            "bn": "কোনো নবীকে উদ্দেশ করে দেওয়া নিষেধাজ্ঞা হুকুম, অভিযোগ নয়। আয়াত বলছে না যে দাঊদ (আঃ) প্রবৃত্তির অনুসরণ করেছিলেন। তাঁর পদ কী দাবি করে, আয়াত তা বলে দিচ্ছে, যেমন ৩৩:১ আয়াত শুরু হয়: হে নবী, আল্লাহকে ভয় করুন। কখন এ কথা বলা হয়েছিল, তা নিয়ে কুরতুবী দুটি মত উল্লেখ করেন, কোনোটি বেছে নেন না। এক মতে, আল্লাহ যখন তাঁকে নবুওয়াত দিয়ে সম্মানিত করেন। আরেক মতে, আল্লাহ তাঁর দিকে ফিরে তাঁকে ক্ষমা করার পরে, যার কথা ৩৮:২৫ আয়াতে আছে। যেভাবেই হোক, কুরআন এ কথা রেখেছে আল্লাহর সেই ঘোষণার ঠিক পরে, যে তাঁর কাছে দাঊদের জন্য আছে নৈকট্য আর উত্তম প্রত্যাবর্তনস্থল।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse as counsel from Allah to those entrusted with authority: that they judge between people by the truth He sent down and not turn from it. The Muyassar closes with almost the same sentence. Ibn Kathir then relays, through Ibn Abi Hatim, a conversation between the Umayyad caliph al-Walid ibn Abd al-Malik and Ibrahim Abu Zur'ah, a man who had read the earlier scripture. Al-Walid asked whether a caliph is called to account. Abu Zur'ah asked leave to speak and was granted safety.",
+            "bn": "ইবন কাসীর আয়াতটিকে পড়েন যাদের হাতে কর্তৃত্ব দেওয়া হয়েছে তাদের প্রতি আল্লাহর উপদেশ হিসেবে: তারা যেন আল্লাহর নাযিল করা হক দিয়ে মানুষের মাঝে বিচার করে, তা থেকে সরে না যায়। মুয়াসসারও প্রায় একই বাক্যে শেষ করে। এরপর ইবন কাসীর ইবন আবী হাতিমের সূত্রে একটি কথোপকথন আনেন। উমাইয়া খলীফা ওয়ালীদ ইবন আবদুল মালিক কথা বলছিলেন ইবরাহীম আবু যুর'আর সঙ্গে, যিনি আগের কিতাবও পড়েছিলেন। ওয়ালীদ জানতে চাইলেন, খলীফার কি হিসাব নেওয়া হবে? আবু যুর'আ কথা বলার অনুমতি চাইলেন, আর তাঁকে নিরাপত্তা দেওয়া হলো।"
+          },
+          {
+            "en": "He said: O Commander of the Believers, are you more honoured by Allah, or Dawud? Allah gave him prophethood and khilafah together, then warned him in His Book, and he recited this verse. If the man who held both offices, praised in the verses just before, was told that desire would lead him astray and that forgetting the reckoning brings punishment, no lesser holder of any office is beyond the question al-Walid asked.",
+            "bn": "তিনি বললেন: হে আমীরুল মুমিনীন, আল্লাহর কাছে আপনি বেশি সম্মানিত, নাকি দাঊদ? আল্লাহ তাঁকে নবুওয়াত আর খিলাফত দুটোই একসঙ্গে দিয়েছিলেন, তারপর নিজের কিতাবে তাঁকে সতর্ক করেছেন। এ বলে তিনি এই আয়াত তিলাওয়াত করলেন। যাঁর হাতে দুটো পদই ছিল, ঠিক আগের আয়াতগুলোতে যাঁর প্রশংসা, তাঁকেও যদি বলা হয় প্রবৃত্তি তাঁকে পথভ্রষ্ট করবে, আর হিসাব ভুলে গেলে আছে আযাব, তবে তাঁর চেয়ে ছোট কোনো পদের মালিকই ওয়ালীদের সেই প্রশ্নের বাইরে নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pulpits of Light for the Just",
+          "bn": "ন্যায়পরায়ণদের জন্য নূরের মিম্বার"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a sound hadith to it. A general narration on justice can stand beside it, though not tied to the verse. Muslim (1827) records from Abdullah ibn Amr that the Prophet ﷺ said: those who act justly will be with Allah on pulpits of light, at the right hand of the Most Merciful, Mighty and Majestic, and both His hands are right; those who are just in their judgement, with their families, and in whatever they are given charge of.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবু ন্যায়বিচার নিয়ে একটি সাধারণ বর্ণনা এর পাশে রাখা যায়, এই কথা মনে রেখে যে এটি আয়াতের সঙ্গে সরাসরি যুক্ত নয়। মুসলিম (১৮২৭) আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: ন্যায়পরায়ণরা আল্লাহর কাছে নূরের মিম্বারে থাকবে, পরম দয়াময়, মহিমান্বিত ও মহান আল্লাহর ডান দিকে, আর তাঁর দুই হাতই ডান হাত। তারা সেই লোক, যারা নিজেদের বিচারে, নিজেদের পরিবারে আর যে দায়িত্ব তাদের দেওয়া হয় তাতে ন্যায় করে।"
+          },
+          {
+            "en": "The hadith widens the circle the verse draws around Dawud (AS). Justice there is in judgement, but also in one's family and in whatever one is put in charge of. Ma'arif al-Qur'an makes a related point from the verse itself: when anyone is to be placed in a position of public or private responsibility, the first thing to look for is fear of Allah, concern for the life to come, and character, because no law, however well made, can hold back a self that desire rules.",
+            "bn": "আয়াতটি দাঊদ (আঃ)-কে ঘিরে যে বৃত্ত আঁকে, হাদীসটি তা আরও বড় করে দেয়। ন্যায় শুধু বিচারের আসনে নয়, পরিবারেও, আর যেকোনো দায়িত্বে যা কারও হাতে তুলে দেওয়া হয়। মাআরিফুল কুরআন আয়াত থেকেই কাছাকাছি একটি কথা বলে। সরকারি হোক বা ব্যক্তিগত, কাউকে কোনো দায়িত্বের পদে বসানোর সময় প্রথমে দেখতে হবে তার অন্তরে আল্লাহর ভয় আছে কি না, আখিরাতের চিন্তা আছে কি না, আর তার চরিত্র কেমন। কারণ আইন যত ভালোই হোক, প্রবৃত্তি যে মনের রাজা, তাকে কোনো আইন আটকে রাখতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Small Seat of Judgement",
+          "bn": "বিচারের প্রতিটি ছোট আসন"
+        },
+        "p": [
+          {
+            "en": "Most readers will never sit on a bench, yet nearly everyone judges. A mother settles a fight between two children, one of them her favourite. A manager decides whose report is right, and one author once crossed him. A teacher marks two papers and knows whose family is whose. As-Sa'di's three needs hold at that size too: know what is owed, find out what actually happened, then act on it. His list of pulls is the list a parent or manager should check first.",
+            "bn": "বেশির ভাগ পাঠক কখনো বিচারকের আসনে বসবেন না, তবু প্রায় সবাই কোনো না কোনো বিচার করেন। মা দুই সন্তানের ঝগড়া মেটান, আর তাদের একজন তাঁর বেশি আদরের। ম্যানেজার ঠিক করেন কার রিপোর্ট সঠিক, আর রিপোর্টের একজন লেখক একবার তাঁর সঙ্গে ঝামেলা করেছিলেন। শিক্ষক দুটি খাতা দেখেন, আর জানেন কে কোন পরিবারের। সা'দীর তিনটি শর্ত এই ছোট পরিসরেও খাটে: কী পাওনা তা জানুন, আসলে কী ঘটেছে তা খুঁজে বের করুন, তারপর সে অনুযায়ী কাজ করুন। তাঁর টানের তালিকাটাই একজন বাবা-মা বা ম্যানেজারের আগে মিলিয়ে দেখা উচিত।"
+          },
+          {
+            "en": "Umar's habit in al-Qurtubi's report gives a practical step: when you feel the pull, wait until it has gone before you decide. And the verse supplies the reason to bother, the Day of Account, when every decision is weighed. What the verse does not do is hand anyone a verdict on others. It does not name any present-day ruler, judge or official, and it licenses no one to brand a living person among those who stray. It is a mirror held up to whoever holds any authority, beginning with the reader.",
+            "bn": "কুরতুবীর বর্ণনায় উমর (রাঃ)-এর অভ্যাস থেকে একটা কাজের পরামর্শ মেলে: মনে টান টের পেলে সেটা চলে যাওয়া পর্যন্ত অপেক্ষা করুন, তারপর সিদ্ধান্ত নিন। আর এত কষ্ট কেন, আয়াতই তার কারণ বলে দেয়: হিসাবের দিন, যেদিন প্রতিটি সিদ্ধান্ত মাপা হবে। তবে আয়াতটি কাউকে অন্যদের উপর রায় দেওয়ার হাতিয়ার দেয় না। আজকের কোনো শাসক, বিচারক বা কর্মকর্তার নাম এতে নেই। কোনো জীবিত মানুষকে পথভ্রষ্টদের দলে ফেলে দেওয়ার অনুমতিও এ আয়াত কাউকে দেয় না। যার হাতেই কোনো কর্তৃত্ব আছে, এ আয়াত তার সামনে ধরা এক আয়না, আর সে আয়নায় প্রথমে তাকানোর কথা পাঠকের নিজেরই।"
+          }
+        ]
+      }
+    ]
+  },
   "38:29": {
     "sections": [
       {
