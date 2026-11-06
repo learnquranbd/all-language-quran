@@ -1027,6 +1027,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "68:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Answering the One Who Warned",
+          "bn": "ভর্ৎসনার জবাবে ছয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "Qalu subhana rabbina inna kunna zalimin: they said, glory be to our Lord, we were indeed wrongdoers. Six Arabic words make up the whole reply of the garden's owners to a question put to them one verse earlier. In 68:28 the one the Qur'an calls awsatuhum, the middle or most balanced of them, had asked: did I not say to you, why do you not glorify? This verse is what they said back. It has two halves, a glorification and a confession, and the commentators read each closely.",
+            "bn": "কালূ সুবহানা রাব্বিনা ইন্না কুন্না জালিমীন: তারা বলল, আমাদের রব পবিত্র, আমরাই ছিলাম জালিম। আরবিতে মাত্র ছয়টি শব্দ। এক আয়াত আগে বাগানের মালিকদের সামনে একটা প্রশ্ন রাখা হয়েছিল, এই ছয় শব্দই তার পুরো জবাব। ৬৮:২৮ আয়াতে কুরআন যাকে আওসাতুহুম বলেছে, অর্থাৎ তাদের মধ্যে সবচেয়ে ভারসাম্যপূর্ণ জন, সে জিজ্ঞেস করেছিল: আমি কি তোমাদের বলিনি, তোমরা তাসবীহ করো না কেন? এ আয়াত তারই উত্তর। এর দুটি অংশ: একটি তাসবীহ, অন্যটি স্বীকারোক্তি। তাফসীরকারেরা দুটিকেই খুঁটিয়ে পড়েছেন।"
+          },
+          {
+            "en": "What leads up to this moment belongs to the verses before it, and other entries here treat it: the oath sworn by night in 68:17, the affliction from their Lord that passed over the garden in 68:19, the whispered ban on the poor in 68:24. This article begins where those end, with the words spoken once the loss was plain. Its questions are narrow. What did the owners mean by these two clauses, what exactly did they admit, and did saying it do them any good?",
+            "bn": "এই মুহূর্ত পর্যন্ত যা ঘটেছে, তা আগের আয়াতগুলোর বিষয়, আর এখানকার অন্য লেখাগুলো সেসব নিয়ে আলোচনা করেছে। ৬৮:১৭ আয়াতে রাতের বেলার কসম, ৬৮:১৯ আয়াতে রবের পক্ষ থেকে বাগানের উপর দিয়ে বয়ে যাওয়া বিপদ, ৬৮:২৪ আয়াতে মিসকীনদের ঢুকতে না দেওয়ার ফিসফিস পরিকল্পনা। এই লেখা শুরু হচ্ছে সেখান থেকে, যেখানে ওগুলো থেমেছে: ক্ষতি স্পষ্ট হয়ে যাওয়ার পর মুখ থেকে বের হওয়া কথাগুলো থেকে। প্রশ্নগুলো সীমিত। এই দুটি বাক্য দিয়ে মালিকেরা কী বোঝাল, ঠিক কী স্বীকার করল, আর এ কথা বলে তাদের কোনো লাভ হলো কি না?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Question From the Fairest",
+          "bn": "সবচেয়ে ন্যায়পরায়ণের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "First, the question they were answering. Ibn Kathir reports from Ibn Abbas (RA), Mujahid, Sa'id ibn Jubayr, 'Ikrima, Muhammad ibn Ka'b, ar-Rabi' ibn Anas, ad-Dahhak and Qatada that awsatuhum means the most just and best of them. At-Tabari gives the same meaning, a'daluhum, by chain, and in one report Ibn Abbas ties it to 2:143, a middle nation, where the middle means justice. Qatada, in at-Tabari, adds a portrait: the most just of them in speech, the quickest of them to take alarm, and the best of them in returning.",
+            "bn": "আগে সেই প্রশ্নটা দেখা যাক, যার জবাব তারা দিচ্ছিল। ইবন কাসীর ইবন আব্বাস (রাঃ), মুজাহিদ, সাঈদ ইবন জুবাইর, ইকরিমা, মুহাম্মাদ ইবন কা'ব, রাবী' ইবন আনাস, দাহহাক ও কাতাদা থেকে বর্ণনা করেন: আওসাতুহুম মানে তাদের মধ্যে সবচেয়ে ন্যায়পরায়ণ ও সবচেয়ে ভালো জন। তাবারীও সনদসহ একই অর্থ দেন, আ'দালুহুম। এক বর্ণনায় ইবন আব্বাস (রাঃ) একে ২:১৪৩ আয়াতের 'মধ্যপন্থী উম্মত'-এর সঙ্গে মেলান, যেখানে মধ্য মানে ন্যায়। তাবারীতে কাতাদা লোকটার একটা ছবিও আঁকেন। কথায় সে ছিল সবচেয়ে ন্যায্য, বিপদ টের পেতে সবার আগে, আর ফিরে আসায় সবার সেরা।"
+          },
+          {
+            "en": "Then lawla tusabbihun, why do you not glorify? At-Tabari reads it as: why did you not make the exception when you swore to cut the fruit at dawn, and say, if Allah wills. He cites Mujahid: the tasbih among them was the exception. Ibn Kathir carries the same from Mujahid, as-Suddi and Ibn Jurayj, with as-Suddi's explanation that in that time their way of making the exception was tasbih. Al-Qurtubi adds Abu Salih's report that their exception was the words subhan Allah.",
+            "bn": "তারপর লাওলা তুসাব্বিহূন: তোমরা তাসবীহ করো না কেন? তাবারীর ব্যাখ্যায় এর মানে: ভোরে ফল কাটার কসম খাওয়ার সময় তোমরা কেন ইসতিসনা করলে না, কেন বললে না ইনশাআল্লাহ? তিনি মুজাহিদকে উদ্ধৃত করেন: তাদের মধ্যে তাসবীহ মানেই ছিল ইসতিসনা। ইবন কাসীর একই কথা আনেন মুজাহিদ, সুদ্দী ও ইবন জুরাইজ থেকে। সুদ্দী ব্যাখ্যা দেন, সে যুগে তাদের ইসতিসনার ধরনটাই ছিল তাসবীহ। কুরতুবী যোগ করেন আবু সালিহের বর্ণনা: তাদের ইসতিসনা ছিল সুবহানাল্লাহ বলা।"
+          },
+          {
+            "en": "Why would an exception be called glorification? Al-Qurtubi gives an-Nahhas's answer: the root of tasbih is declaring Allah free of what does not befit Him, and Mujahid set it in place of if Allah wills because the meaning is that nothing comes to be except by His will. Al-Baghawi says the same in his own words. As-Sa'di widens it: declare Allah free of what does not befit Him, including your belief that your own power stood on its own. Other readings are recorded too: thank Him for what He gave, or seek His forgiveness.",
+            "bn": "ইসতিসনাকে তাসবীহ বলা হলো কেন? কুরতুবী নাহহাসের জবাব আনেন। তাসবীহের মূল কথা আল্লাহকে অশোভন সবকিছু থেকে মুক্ত ঘোষণা করা। মুজাহিদ ইনশাআল্লাহর জায়গায় তাসবীহ বসিয়েছেন, কারণ দুটোর সারকথা এক: তাঁর ইচ্ছা ছাড়া কিছুই ঘটে না। বাগাভী নিজের ভাষায় একই কথা বলেন। সা'দী অর্থটা আরও বিস্তৃত করেন। আল্লাহকে অশোভন সবকিছু থেকে মুক্ত ঘোষণা করো, তোমাদের এই ধারণা থেকেও যে তোমাদের ক্ষমতা নিজের জোরেই চলে। আরও কিছু ব্যাখ্যা লিপিবদ্ধ আছে: যা দিয়েছেন তার জন্য তাঁর শোকর করা, অথবা তাঁর কাছে মাফ চাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clearing Their Lord First",
+          "bn": "আগে রবকে নির্দোষ ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Now the reply. Al-Qurtubi and al-Baghawi read subhana rabbina in almost the same words: they declared Allah free of being unjust in what He had done. Al-Qurtubi opens by saying they admitted the disobedience. The Muyassar spells the two halves out, saying they spoke after coming back to their senses: our Lord is exalted above injustice in what has struck us; rather, we were the ones who wronged ourselves. Ma'arif al-Qur'an has them admit that Allah is pure, free of every weakness and shortcoming.",
+            "bn": "এবার জবাবটা। কুরতুবী আর বাগাভী সুবহানা রাব্বিনাকে প্রায় একই ভাষায় ব্যাখ্যা করেন: তিনি যা করেছেন তাতে তিনি জুলুম করেছেন, এমন ধারণা থেকে তারা আল্লাহকে মুক্ত ঘোষণা করল। কুরতুবী শুরুতেই বলেন, তারা নাফরমানির কথা স্বীকার করল। মুয়াসসার দুটি অংশ খুলে বলে, আর জানায় যে তারা কথাটা বলেছিল হুঁশ ফেরার পর। আমাদের উপর যা এসেছে, তাতে আমাদের রব জুলুম থেকে পবিত্র। বরং আমরাই নিজেদের উপর জুলুম করেছি। মাআরিফুল কুরআনের ভাষায়, তারা মেনে নিল যে আল্লাহ পবিত্র, সব দুর্বলতা ও ত্রুটি থেকে মুক্ত।"
+          },
+          {
+            "en": "Al-Qurtubi also gives Ibn Abbas (RA) on the words: subhana rabbina means we seek Allah's forgiveness for our sin. On that reading the glorification is itself a plea for pardon. The Qur'an puts the same two elements, subhanaka and inni kuntu mina-z-zalimin, on the tongue of Yunus (AS) in 21:87. None of the commentators consulted here on this verse draws that comparison, so this article notes only that the wording is shared and draws nothing further from it.",
+            "bn": "কুরতুবী এ শব্দগুলো নিয়ে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যাও আনেন: সুবহানা রাব্বিনা মানে আমরা আমাদের গুনাহর জন্য আল্লাহর কাছে মাফ চাই। এ ব্যাখ্যায় তাসবীহটাই হয়ে যায় ইস্তিগফার। কুরআন একই দুটি উপাদান, সুবহানাকা আর ইন্নী কুনতু মিনায জালিমীন, ২১:৮৭ আয়াতে ইউনুস (আঃ)-এর মুখে রেখেছে। তবে এ আয়াতের যে তাফসীরগুলো এখানে দেখা হয়েছে, তার কোনোটিই এই তুলনা টানেনি। তাই এ লেখা শুধু এটুকু উল্লেখ করছে যে শব্দগুলো মিলে যায়, এর বেশি কিছু এখান থেকে বের করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wrongdoers in What, Exactly",
+          "bn": "জুলুমটা ঠিক কোথায়"
+        },
+        "p": [
+          {
+            "en": "Inna kunna zalimin names no object: the verse does not say whom they wronged or how. The commentators supply it, and they do not all supply the same thing. At-Tabari names two faults: their leaving out the exception in their oath, and their resolve to stop feeding the poor from the fruit of their garden. One fault lies in how they spoke about tomorrow, as if it were theirs to command. The other lies in what they planned to do to the people at the gate.",
+            "bn": "ইন্না কুন্না জালিমীন বাক্যে কোনো কর্ম নেই। কার উপর বা কীভাবে জুলুম করেছে, আয়াত তা বলে না। তাফসীরকারেরা সেটা পূরণ করেন, আর সবাই একই জিনিস দিয়ে পূরণ করেন না। তাবারী দুটি দোষের কথা বলেন। এক, কসম খাওয়ার সময় ইসতিসনা বাদ দেওয়া। দুই, বাগানের ফল থেকে মিসকীনদের খাওয়ানো বন্ধ করার সংকল্প। প্রথম দোষটা আগামী দিন নিয়ে তাদের কথা বলার ধরনে, যেন কালকের দিনটা তাদের হুকুমেই চলবে। দ্বিতীয়টা ফটকে আসা মানুষগুলোর সঙ্গে তারা যা করার মতলব এঁটেছিল তাতে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi name only the second fault. For al-Qurtubi they were wrongdoers against themselves by withholding from the poor; for al-Baghawi, by withholding from the poor. Ma'arif al-Qur'an says they were unjust to the poor, intending to deprive them of their share and consume it themselves. The Muyassar, like at-Tabari, keeps both: they wronged themselves by leaving out the exception and by their evil intent. So the sources agree that a wrong was done, and differ over how much of it the confession covers.",
+            "bn": "কুরতুবী আর বাগাভী শুধু দ্বিতীয় দোষটার কথা বলেন। কুরতুবীর মতে, মিসকীনদের বঞ্চিত করে তারা নিজেদের উপর জুলুম করেছিল। বাগাভী বলেন, মিসকীনদের বঞ্চিত করার মাধ্যমে। মাআরিফুল কুরআন বলে, তারা মিসকীনদের উপর অন্যায় করেছিল, তাদের ভাগটা কেড়ে নিয়ে নিজেরাই ভোগ করতে চেয়েছিল। মুয়াসসার তাবারীর মতো দুটোই রাখে: ইসতিসনা বাদ দিয়ে আর মন্দ নিয়ত করে তারা নিজেদের উপর জুলুম করেছিল। কাজেই জুলুম যে হয়েছে, এতে সব সূত্র একমত। স্বীকারোক্তি সেই জুলুমের কতখানি জুড়ে আছে, সেখানে তাদের মধ্যে পার্থক্য।"
+          },
+          {
+            "en": "Notice too where the wrong lands in these readings. Al-Qurtubi and the Muyassar say the owners wronged themselves; Ma'arif speaks of injustice to the poor. Both stand in the sources. The poor were the ones the plan was built to shut out, and the owners were the ones who woke to a ruined harvest. And the confession is spoken in the past tense and in the plural: we were wrongdoers. No one in the verse speaks for himself alone.",
+            "bn": "এই ব্যাখ্যাগুলোতে জুলুমটা কার উপর গিয়ে পড়ে, সেটাও লক্ষ করার মতো। কুরতুবী আর মুয়াসসার বলেন, মালিকেরা নিজেদের উপর জুলুম করেছিল। মাআরিফুল কুরআন বলে মিসকীনদের উপর অন্যায়ের কথা। সূত্রে দুটোই আছে। পরিকল্পনাটা সাজানো হয়েছিল মিসকীনদের বাইরে রাখার জন্য, অথচ সকালে উঠে নষ্ট ফসল দেখল মালিকেরাই। আর স্বীকারোক্তিটা অতীতকালে, বহুবচনে: আমরা জালিম ছিলাম। আয়াতে কেউ শুধু নিজের হয়ে কথা বলছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Too Late, or Still Counted",
+          "bn": "দেরির কথা, তবু কি গণ্য"
+        },
+        "p": [
+          {
+            "en": "Did the words help them? Ibn Kathir is blunt: they brought obedience where it did not benefit, and they regretted and confessed where it availed nothing; that is why they said, we were wrongdoers. On Mujahid's reading of 68:28 there is a further edge to this. The word they had left out before the harvest, the tasbih that served as their exception, is the word they now say after it, when the garden can no longer be kept by saying it.",
+            "bn": "এ কথাগুলো কি তাদের কোনো কাজে এল? ইবন কাসীর সোজাসুজি বলেন: তারা আনুগত্য দেখাল তখন, যখন তাতে আর লাভ নেই। অনুশোচনা আর স্বীকারোক্তি করল তখন, যখন তা আর কাজে আসে না। এ কারণেই তারা বলল, আমরা জালিম ছিলাম। ৬৮:২৮ আয়াতের মুজাহিদের ব্যাখ্যা ধরলে কথাটা আরও ধার পায়। ফসল কাটার আগে যে শব্দটা তারা বাদ দিয়েছিল, সেই তাসবীহ যা ছিল তাদের ইসতিসনা, সেটাই তারা এখন বলছে ফসলের পরে। এখন আর তা বলে বাগান রক্ষা করা যাবে না।"
+          },
+          {
+            "en": "As-Sa'di weighs the moment more gently. They made amends afterwards, he says, but only after the punishment had fallen on their garden, a punishment that would not be lifted. Yet perhaps this tasbih of theirs, and their admission of wrongdoing against themselves, would benefit them by lightening the sin and would count as repentance. And for that reason, he adds, they regretted with a great regret.",
+            "bn": "সা'দী মুহূর্তটাকে একটু নরমভাবে মাপেন। তিনি বলেন, তারা পরে শুধরে নিতে চাইল, তবে বাগানের উপর শাস্তি নেমে আসার পর, যে শাস্তি আর ফিরিয়ে নেওয়া হবে না। তবু হয়তো তাদের এই তাসবীহ আর নিজেদের জুলুমের স্বীকারোক্তি গুনাহ হালকা করতে কাজে আসবে, তওবা হিসেবে গণ্য হবে। আর এ কারণেই, তিনি যোগ করেন, তারা গভীরভাবে অনুতপ্ত হয়েছিল।"
+          },
+          {
+            "en": "The two readings weigh the same words differently. Ibn Kathir does not say in what respect the confession availed nothing. As-Sa'di draws a line between the garden, which stays burnt, and the sin, where he leaves room with the word la'alla, perhaps. Neither text settles whether their repentance was accepted. This article keeps both as each wrote them, without choosing between them.",
+            "bn": "একই কথাকে দুজন দুইভাবে ওজন করেন। স্বীকারোক্তি কোন দিক থেকে কাজে আসেনি, ইবন কাসীর তা বলেন না। সা'দী বাগান আর গুনাহর মধ্যে রেখা টানেন। বাগান পোড়াই থাকবে, কিন্তু গুনাহর বেলায় তিনি লা'আল্লা, অর্থাৎ 'হয়তো' শব্দ দিয়ে আশার জায়গা রাখেন। তাদের তওবা কবুল হয়েছিল কি না, দুজনের কারও লেখাই তা চূড়ান্ত করে না। এ লেখা দুটো মতই যার যেভাবে লেখা সেভাবে রাখছে, কোনোটিকে বেছে নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Right Advice, Same Loss",
+          "bn": "ঠিক পরামর্শ, তবু একই ক্ষতি"
+        },
+        "p": [
+          {
+            "en": "The verse says qalu, they said, and does not set apart the one who had warned them. Al-Qurtubi, on 68:28, reads his question as evidence that this middle one had told them to make the exception and they did not obey him. He also records, with it has been said, that when they resolved on their plan he told them to seek Allah's forgiveness and repent of their bad intention, and reminded them of how Allah takes vengeance on the guilty.",
+            "bn": "আয়াতে আছে কালূ, তারা বলল। সাবধান করেছিল যে একজন, তাকে আলাদা করা হয়নি। কুরতুবী ৬৮:২৮ আয়াতের আলোচনায় তার প্রশ্নটাকে প্রমাণ হিসেবে পড়েন যে এই মধ্যজন তাদের ইসতিসনা করতে বলেছিল, কিন্তু তারা তার কথা মানেনি। 'বলা হয়' বলে তিনি এটাও আনেন যে তারা যখন পরিকল্পনা পাকা করল, তখন সে তাদের আল্লাহর কাছে মাফ চাইতে আর খারাপ নিয়ত থেকে তওবা করতে বলেছিল। অপরাধীদের থেকে আল্লাহ কীভাবে প্রতিশোধ নেন, সেটাও মনে করিয়ে দিয়েছিল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a warning from this. Although the best of the three brothers gave the right advice, it says, he joined the others in following their wrong opinion, and so suffered the same loss. Whoever stops others from sin but does not keep away from it himself, and joins them in the wrong, will meet the same fate. Qatada's portrait in at-Tabari points the other way, to what was good in him: quickest to take alarm, best in returning.",
+            "bn": "মাআরিফুল কুরআন এখান থেকে একটা সতর্কবার্তা বের করে। তিনজন ভাইয়ের মধ্যে যে সবচেয়ে ভালো, সে ঠিক পরামর্শই দিয়েছিল। কিন্তু পরে সে বাকিদের ভুল মতের সঙ্গে চলেছে, তাই ক্ষতিও হয়েছে একই রকম। যে অন্যদের গুনাহ থেকে থামায় অথচ নিজে বিরত থাকে না, বরং তাদের সঙ্গে অন্যায়ে শরিক হয়, তার পরিণতিও তাদের মতোই হবে। তাবারীতে কাতাদার আঁকা ছবিটা দেখায় অন্য দিক, তার ভেতরের ভালোটুকু: বিপদ টের পেতে সবার আগে, ফিরে আসায় সবার সেরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Better Garden, Reportedly",
+          "bn": "বর্ণনায় এক উত্তম বাগান"
+        },
+        "p": [
+          {
+            "en": "A little later, in 68:32, the owners say: perhaps our Lord will give us something better than it in exchange. At-Tabari reads the hope as resting on their repentance: better than our garden, through our turning back from the fault we committed. Ibn Kathir records two views, each with it has been said: they hoped for it in this world, or they sought its reward in the Hereafter, and Allah knows best. The Qur'an itself does not say whether the hope was answered.",
+            "bn": "একটু পরে, ৬৮:৩২ আয়াতে, মালিকেরা বলে: হয়তো আমাদের রব এর বদলে আমাদের এর চেয়ে ভালো কিছু দেবেন। তাবারী এই আশাকে তাদের তওবার উপর দাঁড় করান: আমাদের করা ভুল থেকে ফিরে আসার বিনিময়ে আমাদের বাগানের চেয়ে ভালো কিছু। ইবন কাসীর দুটি মত আনেন, দুটোই 'বলা হয়' দিয়ে। এক, তারা দুনিয়াতেই এর বদলা আশা করেছিল। দুই, তারা আখিরাতে এর সওয়াবের আশা রেখেছিল। আর আল্লাহই ভালো জানেন। আশাটা পূরণ হয়েছিল কি না, কুরআন নিজে তা বলে না।"
+          },
+          {
+            "en": "Some reports say it was. Al-Baghawi has Abdullah ibn Mas'ud (RA) say: it reached me that the people became sincere, Allah knew their truthfulness, and He gave them in its place a garden called al-Hayawan, with grapes of which a mule would carry a single cluster. Al-Qurtubi carries the same from Ibn Mas'ud, and an unattributed account that they pledged to do as their fathers had done and were given a better garden that same night. These are reports in the commentaries, not words of the Prophet ﷺ, and none was checked here against a graded source.",
+            "bn": "কিছু বর্ণনা বলে, পূরণ হয়েছিল। বাগাভী আব্দুল্লাহ ইবন মাসউদ (রাঃ)-এর কথা আনেন: আমার কাছে খবর পৌঁছেছে যে লোকগুলো খাঁটি হয়ে গিয়েছিল। আল্লাহ তাদের সত্যতা জানলেন এবং বদলে তাদের আল-হায়াওয়ান নামের একটা বাগান দিলেন, যার আঙুরের একটা থোকা বইতে একটা খচ্চর লাগত। কুরতুবীও ইবন মাসউদ (রাঃ) থেকে একই কথা আনেন। সঙ্গে আনেন বর্ণনাকারীর নাম ছাড়া একটা বিবরণ: তারা অঙ্গীকার করেছিল যে বাপদাদার মতোই চলবে, আর সে রাতেই তাদের আরও ভালো বাগান দেওয়া হয়। এগুলো তাফসীরে থাকা বর্ণনা, নবী ﷺ-এর বাণী নয়। মান নির্ণয় করা কোনো সংকলনের সঙ্গে এখানে এগুলো মিলিয়ে দেখা হয়নি।"
+          },
+          {
+            "en": "Not everyone was so sure. Al-Qurtubi gives al-Hasan: I do not know whether this was faith on their part, or what idolaters do when hardship strikes them. Qatada, asked whether they were of the people of Paradise or of the Fire, replied: you have put me to toil. Al-Qurtubi then reports, through al-Qushayri, that most say they repented and became sincere. As-Sa'di reasons from the verse itself: if they were as they said, the apparent is that Allah gave them better in this world.",
+            "bn": "সবাই এত নিশ্চিত ছিলেন না। কুরতুবী আল-হাসানের কথা আনেন: আমি জানি না, এটা তাদের ঈমান থেকে এসেছিল, নাকি বিপদে পড়লে মুশরিকরা যা করে তেমন কিছু। কাতাদাকে জিজ্ঞেস করা হয়েছিল, তারা জান্নাতবাসী না জাহান্নামবাসী। তিনি বললেন: তুমি আমাকে কঠিন কাজে ফেলে দিলে। এরপর কুরতুবী কুশাইরীর সূত্রে জানান, বেশির ভাগের মত হলো তারা তওবা করেছিল এবং খাঁটি হয়ে গিয়েছিল। সা'দী আয়াত থেকেই যুক্তি দেন: তারা যদি সত্যিই নিজেদের কথামতো হয়ে থাকে, তবে বাহ্যত আল্লাহ দুনিয়াতেই তাদের আরও ভালো কিছু দিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owning It Before the Blame",
+          "bn": "দোষাদোষির আগেই স্বীকার"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what the owners of one garden said once their harvest was lost, in a parable Ibn Kathir reads as aimed at the deniers of Quraysh. It licenses nothing against any living person or community. It gives no one leave to read another person's loss as proof of a hidden sin, or to demand a confession from them. Its question is for the reader about himself. None of the commentators consulted here attaches a hadith to this verse, so none is quoted.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। একটি বাগানের মালিকেরা ফসল হারানোর পর কী বলেছিল, আয়াত শুধু সেটুকু জানায়। ইবন কাসীর এ দৃষ্টান্তকে কুরাইশের অস্বীকারকারীদের উদ্দেশে বলা বলে পড়েন। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কারও ক্ষতি দেখে তাকে লুকানো গুনাহর প্রমাণ ধরার, কিংবা তার কাছে স্বীকারোক্তি দাবি করার অধিকার এটা কাউকে দেয় না। এর প্রশ্নটা পাঠকের নিজের কাছে, নিজের সম্পর্কে। এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই কোনো হাদীস উদ্ধৃত হলো না।"
+          },
+          {
+            "en": "What the verse does offer is an order. Before they turn on one another in 68:30, before the woe of 68:31 and the hope of 68:32, the first thing out of their mouths clears their Lord and names their own fault. Ibn Kathir notes that even their exchange of blame came down to confessing their error and sin. Owning a wrong costs few words; here, six. The harder part is saying them first, before reaching for anyone else, and saying we were, with no one left outside the we.",
+            "bn": "আয়াত যা দেয়, তা একটা ক্রম। ৬৮:৩০ আয়াতে একে অপরের উপর দোষ চাপানোর আগে, ৬৮:৩১ আয়াতের হায় আফসোসের আগে, ৬৮:৩২ আয়াতের আশার আগে, তাদের মুখ থেকে প্রথম যে কথা বের হয় তা রবকে নির্দোষ ঘোষণা করে আর নিজেদের দোষটা নাম ধরে বলে। ইবন কাসীর লক্ষ করেন, পরস্পরকে দোষারোপ করতে গিয়েও শেষ পর্যন্ত তাদের কথা দাঁড়িয়েছিল ভুল আর গুনাহ স্বীকারে। নিজের অন্যায় মেনে নিতে কথা বেশি লাগে না, এখানে মাত্র ছয়টি শব্দ। কঠিন হলো কথাগুলো সবার আগে বলা, অন্য কারও দিকে হাত বাড়ানোর আগেই। আর 'আমরা' বলা, যেখানে কেউ বাইরে থাকে না।"
+          },
+          {
+            "en": "Most of us will meet a smaller version of that morning: a plan made without if Allah wills, a share quietly held back, a warning brushed aside, and then the loss. The verse supplies the words for the moment after. Declare your Lord free of any wrong in what has happened, then name the wrong that was yours, quickly, before the loss has time to harden into a grievance against Him or against the people around you.",
+            "bn": "আমাদের বেশির ভাগের জীবনেই সেই সকালের একটা ছোট সংস্করণ আসে। ইনশাআল্লাহ না বলে বানানো কোনো পরিকল্পনা, চুপচাপ আটকে রাখা কারও ভাগ, কানে না তোলা কোনো সতর্কবাণী, তারপর ক্ষতি। তার পরের মুহূর্তের জন্য আয়াত কথাগুলো জুগিয়ে দেয়। যা ঘটেছে তাতে আপনার রবকে সব অন্যায় থেকে মুক্ত ঘোষণা করুন। তারপর যে অন্যায়টা আপনার নিজের, সেটা স্বীকার করুন, দেরি না করে। ক্ষতিটা যেন তাঁর বিরুদ্ধে বা আশপাশের মানুষের বিরুদ্ধে ক্ষোভ হয়ে জমাট বাঁধার সময় না পায়।"
+          }
+        ]
+      }
+    ]
+  },
   "68:33": {
     "sections": [
       {

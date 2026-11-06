@@ -28529,6 +28529,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a blessing is lost, do not first blame the road; see the loss for what it is, and remember that withholding from the poor can leave the withholder deprived.",
     "lessonBn": "নিয়ামত হারালে আগে রাস্তার দোষ দেবেন না। ক্ষতিকে ক্ষতি বলেই চিনুন, আর মনে রাখুন, গরিবের ভাগ আটকে রাখলে আটকে রাখা মানুষটিই বঞ্চিত হয়ে যেতে পারে।"
+  },
+  "68:29": {
+    "reflectionEn": "The garden is gone, and one of them reminds the rest: did I not tell you to glorify your Lord? Their answer takes two short clauses. First they clear their Lord: glory be to Him. Then they put the blame where it belongs: we were the wrongdoers. They do not call the loss unfair, and they do not turn on the one who warned them. Only in the next verse do they start blaming one another. The order is worth keeping. When something of mine is ruined by a choice I made, what comes out of my mouth first? Do I begin by naming my own part, or by looking for someone else to carry it?",
+    "reflectionBn": "বাগান শেষ। তখন তাদের একজন বাকিদের মনে করিয়ে দিল: আমি কি তোমাদের বলিনি, তোমরা তোমাদের রবের তাসবীহ করো না কেন? জবাব এল দুটি ছোট বাক্যে। প্রথমে তারা রবকে সব দোষ থেকে মুক্ত ঘোষণা করল: আমাদের রব পবিত্র। তারপর দোষটা রাখল যেখানে তার জায়গা: আমরাই ছিলাম জালিম। ক্ষতিটাকে তারা অন্যায় বলেনি, যে সাবধান করেছিল তার উপরও চড়াও হয়নি। একে অপরকে দোষ দেওয়া শুরু হয় পরের আয়াতে গিয়ে। এই ক্রমটা মনে রাখার মতো। আমার নিজের কোনো সিদ্ধান্তে যখন আমার কিছু নষ্ট হয়, মুখ থেকে প্রথম কোন কথাটা বের হয়? আমি কি নিজের ভাগের দোষ দিয়ে শুরু করি, নাকি এমন কাউকে খুঁজি যার ঘাড়ে বোঝাটা চাপানো যায়?",
+    "pointsEn": [
+      "When a plan of mine fails, are my first words about my own part, or about everything else that went wrong?",
+      "Has someone reminded me of a warning I ignored, and did I answer with an admission or with a defence?",
+      "Do I ever speak of a loss as though Allah had wronged me, when the honest account begins with what I chose?",
+      "Whose right have I been quietly holding back, and what would it take to say plainly that I was in the wrong?",
+      "How long do I usually wait between knowing I was wrong and saying so?"
+    ],
+    "pointsBn": [
+      "আমার কোনো পরিকল্পনা ভেস্তে গেলে প্রথম কথাগুলো কি আমার নিজের ভূমিকা নিয়ে হয়, নাকি আর যা যা ভুল হয়েছে সেসব নিয়ে?",
+      "কেউ কি আমাকে এমন সতর্কবাণী মনে করিয়ে দিয়েছে যা আমি কানে তুলিনি? তখন আমার জবাব কি স্বীকারোক্তি ছিল, নাকি আত্মপক্ষ সমর্থন?",
+      "কোনো ক্ষতির কথা বলতে গিয়ে আমি কি কখনো এমনভাবে বলি যেন আল্লাহ আমার উপর অন্যায় করেছেন, অথচ সৎ হিসাবটা শুরু হয় আমার নিজের বাছাই থেকে?",
+      "কার হক আমি চুপচাপ আটকে রেখেছি? সোজাসুজি 'আমি ভুল করেছিলাম' বলতে আমার কী লাগবে?",
+      "নিজের ভুল বুঝতে পারা আর মুখে তা স্বীকার করা, এ দুয়ের মাঝে আমি সাধারণত কত দেরি করি?"
+    ],
+    "lessonEn": "When your own choice causes the loss, clear your Lord of any wrong and name your part quickly, before you start looking for someone else to blame.",
+    "lessonBn": "নিজের সিদ্ধান্তে ক্ষতি হলে রবকে সব অন্যায় থেকে মুক্ত জানুন আর দ্রুত নিজের দোষটা স্বীকার করুন, অন্য কারও ঘাড়ে দায় খোঁজার আগেই।"
   }
 };
 
