@@ -1687,6 +1687,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:42": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Book to the Bed",
+          "bn": "কিতাব থেকে বিছানা পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "The preceding verse closes an address to the Prophet ﷺ: We sent down the Book to you for the people in truth; whoever is guided is guided for himself, whoever strays strays against himself, and you are not their guardian (39:41). Then the speech turns to Allah Himself: Allahu yatawaffa l-anfus, Allah takes the souls, with the name placed ahead of the verb. The next verse, 39:43, asks whether people have taken intercessors besides Him. The sleeper lies between the two.",
+            "bn": "আগের আয়াতে নবী ﷺ-কে সম্বোধন শেষ হয়েছে এভাবে: মানুষের জন্য সত্যসহ তোমার প্রতি কিতাব নাযিল করেছি। যে হিদায়াত পায় সে নিজের জন্যই পায়, যে পথ হারায় সে নিজের ক্ষতি করেই হারায়, আর তুমি তাদের জিম্মাদার নও (৩৯:৪১)। এরপর কথা ঘুরে যায় স্বয়ং আল্লাহর দিকে: আল্লাহু ইয়াতাওয়াফফাল আনফুস, আল্লাহ প্রাণ নিয়ে নেন। আরবিতে ক্রিয়ার আগেই এসেছে আল্লাহর নাম। পরের আয়াত ৩৯:৪৩ প্রশ্ন তোলে, তারা কি তাঁকে ছাড়া সুপারিশকারী বানিয়ে নিয়েছে? এ দুইয়ের মাঝখানে শুয়ে আছে এক ঘুমন্ত মানুষ।"
+          },
+          {
+            "en": "At-Tabari reads the verse as an argument. Among the proofs that divinity belongs purely to Allah, the One, the Subduer, he says, is that He causes death and gives life and does what He wills, and nothing else can do so; Allah gave this news to alert people to the greatness of His power. As-Sa'di frames it as sole disposal: Allah alone disposes of His servants, waking and sleeping, living and dead.",
+            "bn": "তাবারী আয়াতটিকে পড়েন একটি দলিল হিসেবে। তাঁর কথায়, উলূহিয়্যাত যে একমাত্র পরাক্রান্ত এক আল্লাহর, আর কারও নয়, তার একটি প্রমাণ হলো তিনি মৃত্যু দেন, জীবন দেন, যা চান তা-ই করেন। এ কাজ আর কারও সাধ্যে নেই। আল্লাহ এ খবর দিয়েছেন মানুষকে তাঁর বিশাল কুদরতের দিকে সজাগ করতে। সা'দী একে দেখেন একক কর্তৃত্বের কথা হিসেবে: বান্দার জাগরণ ও ঘুম, জীবন ও মৃত্যু, সব অবস্থায় আল্লাহই একমাত্র নিয়ন্ত্রক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Verb for Two Takings",
+          "bn": "এক ক্রিয়ায় দুই রকম নেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verb is yatawaffa, from the root w-f-y. Ma'arif al-Qur'an gives its literal sense as to receive, to take back, to exact, and says it is used here in a broad sense that covers both cases. Ibn Kathir names the two at once: Allah takes the souls in the greater taking, al-wafat al-kubra, through the guardian angels He sends to seize them from the bodies, and in the lesser taking, al-wafat as-sughra, at sleep. Al-Muyassar and as-Sa'di use the same pair, calling sleep al-mawta as-sughra, the lesser death.",
+            "bn": "ক্রিয়াটি ইয়াতাওয়াফফা, ধাতু ও-ফ-ই। মাআরিফুল কুরআন এর আক্ষরিক অর্থ বলে গ্রহণ করা, ফিরিয়ে নেওয়া, পুরোপুরি আদায় করে নেওয়া। তাদের মতে এখানে শব্দটি ব্যাপক অর্থে এসেছে, দুটো অবস্থাই এর আওতায় পড়ে। ইবন কাসীর দুই রকম নেওয়ার নাম একসঙ্গে বলে দেন। একটি বড় ওফাত, আল-ওফাতুল কুবরা: আল্লাহ পাহারাদার ফেরেশতা পাঠান, তারা দেহ থেকে প্রাণ বের করে নেয়। অন্যটি ছোট ওফাত, আল-ওফাতুস সুগরা, যা ঘটে ঘুমের সময়। মুয়াসসার ও সা'দীও একই জোড়া ব্যবহার করেন, ঘুমকে বলেন আল-মাওতাতুস সুগরা, ছোট মৃত্যু।"
+          },
+          {
+            "en": "Ibn Kathir then sets this verse beside 6:60 and 6:61: it is He who takes you by night and knows what you earned by day, then raises you in it so that a named term may be fulfilled; and later, when death comes to any of you, Our messengers take him. There, he says, the two takings come lesser then greater; here they come greater then lesser. The two passages also share the phrase ajal musamma, a named term, which closes the sleeper's half of our verse.",
+            "bn": "এরপর ইবন কাসীর এ আয়াতকে পাশাপাশি রাখেন ৬:৬০ ও ৬:৬১ আয়াতের সঙ্গে। সেখানে আল্লাহ বলছেন, তিনিই রাতে তোমাদের প্রাণ নিয়ে নেন, দিনে তোমরা যা করো তা জানেন, তারপর দিনে তোমাদের আবার জাগিয়ে তোলেন, যাতে নির্ধারিত মেয়াদ পূর্ণ হয়। আর যখন তোমাদের কারও মৃত্যু আসে, আমার প্রেরিত ফেরেশতারা তার প্রাণ নিয়ে নেয়। ইবন কাসীর বলেন, সেখানে আগে ছোট ওফাত, পরে বড়টি। এখানে আগে বড়, পরে ছোট। দুই জায়গাতেই আছে আজালুম মুসাম্মা, নির্ধারিত মেয়াদ। আমাদের আয়াতে ঘুমন্তের অংশটি শেষ হয় এ শব্দেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What a Night's Sleep Removes",
+          "bn": "ঘুম যা কেড়ে নেয়"
+        },
+        "p": [
+          {
+            "en": "On the second clause, and those that have not died, in their sleep, al-Qurtubi says plainly that it has been differed over. One view, which he gives from Ibn 'Isa, is that Allah grips the sleeping soul from acting while its spirit stays in its body, then releases it to act until the time of its death. Al-Farra' reads the clause as: and He takes, when its term ends, the one that did not die in its sleep. He allows a second sense as well, that its taking is its sleep.",
+            "bn": "দ্বিতীয় অংশ, আর যারা মরেনি তাদের ঘুমের মধ্যে, এ নিয়ে কুরতুবী সোজাসুজি বলেন, এখানে মতভেদ আছে। একটি মত তিনি আনেন ইবন ঈসা থেকে। আল্লাহ ঘুমন্ত প্রাণকে কাজকর্ম থেকে আটকে রাখেন, অথচ তার রূহ দেহেই থেকে যায়। পরে মৃত্যুর সময় পর্যন্ত আবার তাকে কাজ করতে ছেড়ে দেন। ফাররা বাক্যটি পড়েন এভাবে: যে প্রাণ ঘুমের মধ্যে মরেনি, তার মেয়াদ ফুরালে তিনি তাকেও নিয়ে নেন। তিনি আরেকটি অর্থের সম্ভাবনাও রাখেন: সে প্রাণের নেওয়াটাই হলো তার ঘুম।"
+          },
+          {
+            "en": "At-Tabari keeps to the plain reading and weighs no options. Allah takes, he says, the soul that has not died, in its sleep, just as He takes the dying soul at its death. He supports it with Ibn Zayd's words through his own chain: fa-n-nawmu wafat, so sleep is a taking. Al-Qurtubi gives Ibn Zayd's fuller line, sleep is a taking and death is a taking. Al-Baghawi glosses the souls of the verse simply as al-arwah, the spirits, and its dying as the dying of their bodies.",
+            "bn": "তাবারী সরল পাঠেই থাকেন, বিকল্প মত মেপে দেখেন না। তিনি বলেন, যে প্রাণ মরেনি, আল্লাহ ঘুমের মধ্যে তাকে নিয়ে নেন, যেমন মৃত্যুর সময় নেন মৃতের প্রাণ। নিজের সনদে তিনি ইবন যায়দের কথা আনেন: ফান-নাওমু ওফাত, অর্থাৎ ঘুমও এক রকম নিয়ে নেওয়া। কুরতুবী ইবন যায়দের পুরো বাক্যটি দেন: ঘুম এক ওফাত, মৃত্যুও এক ওফাত। বাগাভী আয়াতের আনফুস শব্দের সোজা ব্যাখ্যা দেন আরওয়াহ, অর্থাৎ রূহসমূহ। আর মৃত্যু বলতে বোঝান তাদের দেহের মৃত্যু।"
+          },
+          {
+            "en": "Al-Qurtubi also records Abu Nasr al-Qushayri, who explains each taking by what it does. In sleep Allah overwhelms the soul with what holds it back from acting, as though it were seized, removing sensation and creating heedlessness in the seat of perception. At death He creates death, removes sensation entirely, and holds the soul until the Day of Resurrection. Ma'arif al-Qur'an, citing Tafsir Mazhari, puts it close to this: death cuts the soul's link with the body outwardly and inwardly, sleep only outwardly, so the sleeper still breathes.",
+            "bn": "কুরতুবী আবু নাসর কুশাইরীর ব্যাখ্যাও আনেন। তিনি প্রতিটি নেওয়াকে বুঝিয়েছেন তার কাজ দিয়ে। ঘুমে আল্লাহ প্রাণকে এমন কিছু দিয়ে ঢেকে দেন, যা তাকে কাজ থেকে আটকে রাখে, যেন তাকে ধরে নেওয়া হয়েছে। অনুভূতি তুলে নেন, আর উপলব্ধির জায়গায় সৃষ্টি করেন অচেতনতা। মৃত্যুতে তিনি মৃত্যু সৃষ্টি করেন, অনুভূতি পুরোপুরি তুলে নেন, আর কিয়ামত পর্যন্ত প্রাণকে আটকে রাখেন। মাআরিফুল কুরআন তাফসীরে মাযহারীর বরাতে কাছাকাছি কথা বলে। মৃত্যুতে দেহের সঙ্গে রূহের সম্পর্ক বাইরে-ভেতরে দুদিকেই ছিন্ন হয়। ঘুমে ছিন্ন হয় শুধু বাইরের দিকে, তাই ঘুমন্ত মানুষ শ্বাস নিতে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nafs and Ruh, One or Two",
+          "bn": "নফস আর রূহ: এক, না দুই"
+        },
+        "p": [
+          {
+            "en": "The verse says al-anfus, the souls, and that has raised a question the commentators answer differently: are nafs and ruh one thing or two? Al-Qurtubi relays from Ibn Abbas (RA): in the son of Adam there is a nafs and a ruh, with something like a sunbeam between them. The nafs is that by which he reasons and discerns; the ruh is that by which he breathes and moves. When the servant sleeps, Allah takes his nafs and does not take his ruh. Al-Qurtubi adds that this is also the view of Ibn al-Anbari and az-Zajjaj.",
+            "bn": "আয়াতে শব্দটি আল-আনফুস, প্রাণসমূহ। এখান থেকে একটি প্রশ্ন উঠেছে, যার উত্তর তাফসীরকারেরা ভিন্ন ভিন্নভাবে দেন: নফস আর রূহ কি একই জিনিস, নাকি দুটি আলাদা জিনিস? কুরতুবী ইবন আব্বাস (রাঃ)-এর কথা বর্ণনা করেন। আদম সন্তানের মধ্যে আছে একটি নফস আর একটি রূহ, দুয়ের মাঝে সূর্যের কিরণের মতো কিছু একটা। নফস দিয়ে মানুষ বোঝে ও পার্থক্য করে। রূহ দিয়ে সে শ্বাস নেয় ও নড়াচড়া করে। বান্দা যখন ঘুমায়, আল্লাহ তার নফস নিয়ে নেন, রূহ নেন না। কুরতুবী জানান, ইবনুল আনবারী ও যাজ্জাজেরও এই মত।"
+          },
+          {
+            "en": "Al-Baghawi gives the same division in his own words. Every person has two souls: the soul of life, which leaves him at death, and the soul of discernment, which leaves him when he sleeps, while he goes on breathing. He also reports from Ali (RA) that the ruh goes out at sleep while its ray stays in the body, and by that ray the sleeper sees dreams; on waking it returns faster than a glance. Ma'arif al-Qur'an relays the same saying of Ali.",
+            "bn": "বাগাভী নিজের ভাষায় একই ভাগ করেন। প্রত্যেক মানুষের দুটি নফস। একটি জীবনের নফস, মৃত্যুর সময় যা তাকে ছেড়ে যায়। অন্যটি বোধ ও পার্থক্যের নফস, ঘুমালে যা তাকে ছেড়ে যায়, অথচ সে শ্বাস নিতে থাকে। তিনি আলী (রাঃ) থেকেও বর্ণনা করেন: ঘুমের সময় রূহ বের হয়ে যায়, কিন্তু তার কিরণ দেহে থেকে যায়। সেই কিরণের মাধ্যমেই ঘুমন্ত মানুষ স্বপ্ন দেখে। জেগে উঠলে রূহ চোখের পলকের চেয়েও দ্রুত ফিরে আসে। মাআরিফুল কুরআনও আলীর এই কথা উদ্ধৃত করেছে।"
+          },
+          {
+            "en": "Al-Qushayri found the two-soul reading strained. The verse, he argued, speaks of the soul taken in either state as one thing: He keeps the one on which He decreed death and sends back the other. Al-Qurtubi then gives his own judgement, marked as his: the more evident view is that they are one thing, and the sound reports point that way. Both positions are set down here as their holders hold them. On what the soul finally is, al-Qurtubi ends with 17:85: say, the ruh is of my Lord's command, meaning none knows its reality but Allah.",
+            "bn": "কুশাইরীর কাছে দুই নফসের এই ব্যাখ্যা দূরবর্তী মনে হয়েছে। তাঁর যুক্তি, দুই অবস্থায় যে প্রাণ নেওয়া হয়, আয়াত তাকে একটিই জিনিস হিসেবে বলছে: যার উপর মৃত্যুর ফয়সালা হয়েছে তাকে রেখে দেন, অন্যটিকে ফেরত পাঠান। এরপর কুরতুবী নিজের মত জানান, স্পষ্টভাবে নিজের বলেই: অধিক প্রকাশ্য মত হলো দুটো একই জিনিস, আর সহীহ বর্ণনাগুলো সেদিকেই ইঙ্গিত করে। দুটো মতই এখানে রাখা হলো, যিনি যেভাবে বলেছেন সেভাবে। রূহ আসলে কী, সে প্রশ্নে কুরতুবী থামেন ১৭:৮৫ আয়াতে: বলো, রূহ আমার রবের আদেশঘটিত বিষয়। অর্থাৎ এর প্রকৃত রূপ আল্লাহ ছাড়া কেউ জানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Gaze That Follows",
+          "bn": "যে দৃষ্টি পিছু নেয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's evidence is a set of narrations in which the two words trade places; none is about this verse, and he gathers them to show usage. In Sahih Muslim (920), Umm Salamah (RA) reports that the Messenger of Allah ﷺ came in to Abu Salamah, whose eyes had stayed open, closed them, and said: \"When the ruh is taken, the sight follows it.\" In Muslim (921), from Abu Hurayrah (RA), he asked whether they had not seen that a person's gaze stays fixed when he dies, and said: \"That is when his sight follows his nafs.\"",
+            "bn": "কুরতুবীর প্রমাণ কয়েকটি বর্ণনা, যেখানে দুটি শব্দ একটির জায়গায় অন্যটি এসেছে। এর কোনোটিই এ আয়াত প্রসঙ্গে নয়। শব্দ দুটির ব্যবহার দেখাতেই তিনি এগুলো একত্র করেছেন। সহীহ মুসলিমে (৯২০) উম্মে সালামা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ আবু সালামার কাছে এলেন। তাঁর চোখ খোলা থেকে গিয়েছিল। তিনি চোখ বন্ধ করে দিয়ে বললেন: \"রূহ যখন নেওয়া হয়, দৃষ্টি তার পিছু নেয়।\" মুসলিমের আরেক বর্ণনায় (৯২১) আবু হুরায়রা (রাঃ) জানান, তিনি জিজ্ঞেস করলেন, তোমরা কি দেখোনি, মানুষ মারা গেলে তার দৃষ্টি স্থির হয়ে থাকে? তারপর বললেন: \"তখনই তার দৃষ্টি তার নফসের পিছু নেয়।\""
+          },
+          {
+            "en": "A second pair comes from what al-Qurtubi calls the narration of the valley, when travellers slept through the dawn prayer. In Sahih Muslim (680), Bilal (RA), who had undertaken to keep watch, was overcome by sleep and told the Prophet ﷺ: \"He who took your nafs took mine.\" In al-Bukhari's wording from Abu Qatadah (RA), at 595, the Prophet ﷺ said on waking: \"Allah took your arwah when He willed, and returned them to you when He willed.\" Arwah is the plural of ruh. On this usage, all of it from the two Sahihs, al-Qurtubi rests his view.",
+            "bn": "দ্বিতীয় জোড়াটি কুরতুবী আনেন উপত্যকার ঘটনা থেকে, যখন সফরের লোকেরা ঘুমিয়ে ফজরের নামায পার করে ফেলেছিল। সহীহ মুসলিমে (৬৮০) আছে, বিলাল (রাঃ) পাহারার দায়িত্ব নিয়েছিলেন, কিন্তু ঘুম তাঁকে কাবু করে ফেলে। তিনি নবী ﷺ-কে বললেন: \"যিনি আপনার নফস ধরে নিয়েছিলেন, তিনিই আমার নফস ধরে নিয়েছিলেন।\" আর বুখারীর ভাষ্যে, আবু কাতাদা (রাঃ)-এর বর্ণনায় (৫৯৫), নবী ﷺ জেগে উঠে বললেন: \"আল্লাহ যখন চেয়েছেন তোমাদের আরওয়াহ নিয়ে নিয়েছেন, আর যখন চেয়েছেন তোমাদের কাছে ফিরিয়ে দিয়েছেন।\" আরওয়াহ রূহের বহুবচন। দুই সহীহ গ্রন্থের এই শব্দ-ব্যবহারের উপরই কুরতুবী তাঁর মত দাঁড় করান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Sleepers' Souls Meet",
+          "bn": "ঘুমন্ত ও মৃতের রূহের সাক্ষাৎ"
+        },
+        "p": [
+          {
+            "en": "Under fa-yumsik, at-Tabari reports a further picture. It is mentioned, he says, that the souls of the living and the dead meet in sleep and recognise each other as far as Allah wills. When all of them wish to return to their bodies, Allah keeps the souls of the dead with Him and holds them, and sends the souls of the living back to their bodies until a named term, the end of their lives. He says the people of interpretation said the like, and gives it from Sa'id ibn Jubayr through his own chain.",
+            "bn": "ফা-ইউমসিক অংশে তাবারী আরেকটি ছবি তুলে ধরেন। তিনি বলেন, বর্ণিত আছে যে জীবিত ও মৃতদের রূহ ঘুমের মধ্যে মিলিত হয়। আল্লাহ যতটা চান, তারা পরস্পরকে চিনে নেয়। তারপর সবাই যখন নিজ নিজ দেহে ফিরতে চায়, আল্লাহ মৃতদের রূহ নিজের কাছে রেখে দেন, আটকে রাখেন। আর জীবিতদের রূহ তাদের দেহে ফেরত পাঠান নির্ধারিত মেয়াদ পর্যন্ত, অর্থাৎ জীবনের সময় শেষ হওয়া পর্যন্ত। তাবারী জানান, তাফসীরের আলেমরাও এমনই বলেছেন। নিজের সনদে তিনি কথাটি আনেন সাঈদ ইবন জুবাইর থেকে।"
+          },
+          {
+            "en": "As-Suddi, in at-Tabari's chain, adds that the souls of the dead and of the sleepers meet and question each other; the living are let go back to their bodies, and the soul decreed to die is held. Al-Qurtubi gives the meeting from Ibn Abbas (RA) and other commentators; as-Sa'di places it in the barzakh; Ibn Kathir reads in the verse an indication that the souls gather in al-mala' al-a'la, the highest assembly. These are their reports. The verse itself names only the taking, the keeping and the sending.",
+            "bn": "তাবারীর সনদে সুদ্দী আরও বলেন, মৃত ও ঘুমন্তদের রূহ মিলিত হয়ে একে অপরকে জিজ্ঞাসাবাদ করে। জীবিতদের রূহ দেহে ফিরে যেতে ছেড়ে দেওয়া হয়, আর যার উপর মৃত্যুর ফয়সালা হয়েছে তাকে আটকে রাখা হয়। কুরতুবী এই সাক্ষাতের কথা আনেন ইবন আব্বাস (রাঃ) ও অন্য মুফাসসিরদের থেকে। সা'দী এর স্থান বলেন বারযাখ। ইবন কাসীর আয়াতে ইঙ্গিত দেখেন যে রূহেরা আল-মালাউল আ'লা, অর্থাৎ ঊর্ধ্বজগতের সভায় একত্র হয়। এগুলো তাঁদের বর্ণনা। আয়াত নিজে শুধু নিয়ে নেওয়া, রেখে দেওয়া আর ফেরত পাঠানোর কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held Back, or Sent Home",
+          "bn": "রেখে দেওয়া, নয়তো ফেরত পাঠানো"
+        },
+        "p": [
+          {
+            "en": "Fa-yumsiku llati qada 'alayha l-mawt: then He keeps the soul on which He has decreed death. Whose soul? Al-Muyassar answers: the soul of whoever has died. As-Sa'di widens it to whoever had died, or was decreed to die in his sleep. The other is sent back ila ajalin musamma, to a named term. As-Suddi glosses that as the rest of its term; al-Muyassar and as-Sa'di as the completion of its term and its provision. Al-Baghawi says simply: until the time of its death comes.",
+            "bn": "ফা-ইউমসিকুল্লাতী কাদা আলাইহাল মাওত: অতঃপর যার উপর তিনি মৃত্যুর ফয়সালা করেছেন, সেই প্রাণ রেখে দেন। কার প্রাণ? মুয়াসসারের উত্তর, যে মারা গেছে তার প্রাণ। সা'দী পরিসর একটু বাড়িয়ে বলেন, যে মারা গেছে, অথবা ঘুমের মধ্যেই যার মৃত্যুর ফয়সালা হয়েছে। অন্য প্রাণটি ফেরত পাঠানো হয় ইলা আজালিম মুসাম্মা, নির্ধারিত মেয়াদ পর্যন্ত। সুদ্দী এর ব্যাখ্যা দেন, তার বাকি মেয়াদ পর্যন্ত। মুয়াসসার ও সা'দী বলেন, তার মেয়াদ ও রিযিক পূর্ণ হওয়া পর্যন্ত। বাগাভীর সংক্ষিপ্ত কথা: যতক্ষণ না তার মৃত্যুর সময় আসে।"
+          },
+          {
+            "en": "Ibn Abbas (RA), in Ibn Kathir's report, closes the gloss with a short clause: He keeps the souls of the dead and sends back the souls of the living, wa-la yaghlat, and He makes no mistake. Al-Baghawi finds the signs of the verse's close in the same place: He does not err in keeping what He keeps of the souls and sending what He sends. On their reading the sorting is exact every night, whether or not the sleeper expects to wake.",
+            "bn": "ইবন কাসীরের বর্ণনায় ইবন আব্বাস (রাঃ) ব্যাখ্যার শেষে ছোট্ট একটি কথা জুড়ে দেন: তিনি মৃতদের প্রাণ রেখে দেন, জীবিতদের প্রাণ ফেরত পাঠান, ওয়া লা ইয়াগলাত, আর তিনি ভুল করেন না। আয়াতের শেষে যে নিদর্শনের কথা, বাগাভী তা খুঁজে পান এখানেই: যে রূহ রাখার তা রাখতে আর যে রূহ পাঠানোর তা পাঠাতে তিনি ভুল করেন না। তাঁদের পাঠে প্রতি রাতের এই বাছাই নিখুঁত, ঘুমন্ত মানুষটি জাগার আশা রাখুক বা না রাখুক।"
+          },
+          {
+            "en": "Then the verse closes: in that are signs for a people who give thought. At-Tabari names what is to be thought about. In Allah's taking the souls of the sleeper and the dead, sending the first back to its body and holding the other, lies a lesson for whoever reflects, and a showing that He gives life and causes death as He wills. Al-Baghawi reports Muqatil pointing the thought at the resurrection: the sleeper's soul taken and sent back is a proof of the raising. As-Sa'di likewise names His bringing the dead to life.",
+            "bn": "এরপর আয়াত শেষ হয়: যারা চিন্তা করে তাদের জন্য এতে রয়েছে বহু নিদর্শন। কী নিয়ে চিন্তা, তাবারী তা বলে দেন। আল্লাহ ঘুমন্ত ও মৃত দুজনেরই প্রাণ নেন। প্রথমজনের প্রাণ দেহে ফেরত পাঠান, অন্যজনেরটা আটকে রাখেন। এতে চিন্তাশীল মানুষের জন্য আছে শিক্ষা, আর প্রমাণ যে তিনি যেভাবে চান জীবন দেন, মৃত্যু দেন। বাগাভী মুকাতিলের কথা আনেন, যিনি চিন্তাকে নিয়ে যান পুনরুত্থানের দিকে: ঘুমন্তের প্রাণ নিয়ে আবার ফেরত পাঠানোই পুনরুত্থানের প্রমাণ। সা'দীও এখানে মৃতদের জীবিত করার কুদরতের কথা বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If You Keep My Soul",
+          "bn": "আমার প্রাণ যদি রেখে দেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir and al-Baghawi both bring a narration to this verse, and al-Baghawi gives it through a chain that runs to al-Bukhari himself. Al-Bukhari records it in his Sahih (6320), from Abu Hurayrah (RA): the Prophet ﷺ said, \"When one of you goes to his bed, let him shake out his bed with the inside of his waist-wrap, for he does not know what has come onto it after him. Then let him say: Bismika rabbi wada'tu janbi, wa bika arfa'uh; in amsakta nafsi farhamha, wa in arsaltaha fahfazha bima tahfazu bihi 'ibadaka s-salihin.\"",
+            "bn": "ইবন কাসীর ও বাগাভী দুজনেই এ আয়াতের আলোচনায় একটি হাদীস আনেন। বাগাভী তা বর্ণনা করেন এমন সনদে, যা পৌঁছেছে স্বয়ং বুখারী পর্যন্ত। বুখারী তাঁর সহীহ গ্রন্থে (৬৩২০) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"তোমাদের কেউ যখন বিছানায় যায়, সে যেন তার লুঙ্গির ভেতরের অংশ দিয়ে বিছানা ঝেড়ে নেয়। কারণ সে জানে না, তার পরে বিছানায় কী এসে পড়েছে। তারপর সে যেন বলে: বিসমিকা রাব্বি ওয়াদা'তু জাম্বী, ওয়া বিকা আরফাউহু; ইন আমসাকতা নাফসী ফারহামহা, ওয়া ইন আরসালতাহা ফাহফাযহা বিমা তাহফাযু বিহী ইবাদাকাস সালিহীন।\""
+          },
+          {
+            "en": "That is: in Your name, my Lord, I lay down my side, and by You I raise it; if You keep my soul, have mercy on it, and if You send it back, guard it with that by which You guard Your righteous servants. Muslim's first wording (2714) differs, as al-Qurtubi notes: it opens with subhanaka, glory be to You, and asks forgiveness, faghfir laha, where al-Bukhari has mercy. They are separate wordings; the wording given in full above is al-Bukhari's.",
+            "bn": "অর্থাৎ: হে আমার রব, তোমার নামে আমি পাশ রাখলাম, আর তোমার সাহায্যেই তা তুলব। যদি তুমি আমার প্রাণ রেখে দাও, তবে তার উপর রহম করো। আর যদি ফেরত পাঠাও, তবে তাকে হেফাজত করো সেভাবে, যেভাবে তুমি তোমার নেক বান্দাদের হেফাজত করো। কুরতুবী লক্ষ করেছেন, মুসলিমের ভাষ্য (২৭১৪) কিছুটা আলাদা। সেটি শুরু হয় সুবহানাকা দিয়ে, অর্থাৎ তুমি পবিত্র। আর বুখারীতে যেখানে রহমতের প্রার্থনা, সেখানে মুসলিমে আছে মাগফিরাতের প্রার্থনা, ফাগফির লাহা। দুটি আলাদা ভাষ্য। উপরে পুরোটা দেওয়া হয়েছে বুখারীর ভাষ্য।"
+          },
+          {
+            "en": "The prayer borrows the verse's own two verbs, amsakta for yumsiku and arsalta for yursilu, and hands the outcome back to Him who, the verse says, decides it. It asks nothing about how the taking happens or where the soul goes. It asks for mercy if the night is the last and protection if it is not. Lying down with those words is a way of reading 39:42 every night: the day is set down, the soul is entrusted, and the morning, if it comes, is received as sent.",
+            "bn": "দোয়াটি আয়াতের নিজের দুটি ক্রিয়াই ধার নিয়েছে: ইউমসিকুর জায়গায় আমসাকতা, ইউরসিলুর জায়গায় আরসালতা। আর ফলাফল ফিরিয়ে দিয়েছে তাঁরই হাতে, আয়াত যাঁকে ফয়সালাকারী বলে। প্রাণ কীভাবে নেওয়া হয়, কোথায় যায়, দোয়া সে প্রশ্ন তোলে না। শুধু চায়, রাতটা শেষ রাত হলে রহমত, না হলে হেফাজত। এই কথাগুলো বলে শুয়ে পড়া মানে প্রতি রাতে ৩৯:৪২ আয়াতটি নতুন করে পড়া। দিনটা নামিয়ে রাখা হলো, প্রাণ সঁপে দেওয়া হলো। আর সকাল যদি আসে, তবে তা গ্রহণ করা হবে তাঁর পাঠানো উপহার হিসেবে।"
+          }
+        ]
+      }
+    ]
+  },
   "39:46-47": {
     "sections": [
       {

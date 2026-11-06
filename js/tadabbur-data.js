@@ -26349,6 +26349,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask Allah, as the angels ask for you, to shield you from your wrongs and what they bring, for whoever is shielded that Day has found mercy and the great success.",
     "lessonBn": "ফেরেশতারা যেমন আপনার জন্য চান, আপনিও আল্লাহর কাছে চান: গুনাহ আর গুনাহর পরিণাম থেকে যেন তিনি রক্ষা করেন। সেদিন যে রক্ষা পেল, সে-ই রহমত পেল, সে-ই পেল মহাসাফল্য।"
+  },
+  "39:42": {
+    "reflectionEn": "Every night I lie down and let go of everything I was holding: the conversation, the worry, the plan for tomorrow. I do not choose the moment I drift off, and I do not wake myself. The verse names what happens in between. Allah takes the soul in sleep as He takes it at death; He keeps the one whose death He has decreed and sends the other back for a term already named. So each morning is a return I did not earn and cannot demand, and one night the sending back will not come. Am I ready for that night? What am I doing with the day I was handed back? And do I lie down as someone who knows to whom he is going?",
+    "reflectionBn": "প্রতি রাতে শুয়ে পড়ি আর হাতে যা ধরে ছিলাম সব ছেড়ে দিই: দিনের কথাবার্তা, দুশ্চিন্তা, কালকের পরিকল্পনা। কখন ঘুম নামবে, তা আমি ঠিক করি না। নিজেকে জাগিয়েও তুলি না আমি। মাঝখানে কী ঘটে, আয়াতটি তার নাম বলে দেয়। মৃত্যুর সময় যেমন, ঘুমের মধ্যেও আল্লাহ তেমনি প্রাণ নিয়ে নেন। যার মৃত্যু তিনি স্থির করেছেন, তাকে রেখে দেন। বাকিগুলো ফিরিয়ে দেন আগে থেকে ঠিক করা এক মেয়াদ পর্যন্ত। তাহলে প্রতিটি সকাল এমন এক ফেরত পাওয়া, যা আমি অর্জন করিনি, দাবিও করতে পারি না। আর কোনো এক রাতে সেই ফেরত আর আসবে না। সে রাতের জন্য আমি কি তৈরি? ফেরত পাওয়া দিনটা দিয়ে আমি কী করছি? আর শোয়ার সময় আমি কি জেনে শুই, কার কাছে যাচ্ছি?",
+    "pointsEn": [
+      "When I woke this morning, did I notice that I had been sent back, or did I reach for my phone and simply carry on?",
+      "If tonight were the night my soul is kept, what would I want settled today, and with whom?",
+      "What is on my tongue as I lie down: the remembrance of Allah, or a replay of the day's quarrels?",
+      "Which hours of this returned day am I spending as though they were owed to me?",
+      "Does my thinking stop at the strangeness of sleep, or does it go on to the One who takes and returns?"
+    ],
+    "pointsBn": [
+      "আজ সকালে ঘুম ভাঙার পর কি খেয়াল করেছি যে আমাকে ফিরিয়ে দেওয়া হয়েছে? নাকি ফোনটা হাতে নিয়ে যথারীতি দিন শুরু করে দিয়েছি?",
+      "আজ রাতেই যদি আমার প্রাণ রেখে দেওয়া হয়, তবে আজকের মধ্যে কোন বিষয়টা মিটিয়ে নিতে চাইতাম, আর কার সঙ্গে?",
+      "শোয়ার সময় আমার মুখে কী থাকে: আল্লাহর জিকির, নাকি দিনের ঝগড়াঝাঁটির পুনরাবৃত্তি?",
+      "ফেরত পাওয়া এই দিনের কোন সময়গুলো আমি এমনভাবে খরচ করছি, যেন এগুলো আমার পাওনা ছিল?",
+      "আমার ভাবনা কি ঘুমের রহস্যে গিয়েই থেমে যায়, নাকি এগিয়ে যায় তাঁর দিকে, যিনি নেন আর ফিরিয়ে দেন?"
+    ],
+    "lessonEn": "Every sleep is a taking and every waking a return from Allah: lie down remembering Him, and spend the day He sends you back for as a term that will end.",
+    "lessonBn": "প্রতিটি ঘুম আল্লাহর কাছে প্রাণ চলে যাওয়া, প্রতিটি জাগরণ তাঁর কাছ থেকে ফিরে পাওয়া। তাই তাঁকে স্মরণ করে শুয়ে পড়ুন, আর যে দিনের জন্য তিনি ফিরিয়ে দেন, তা কাটান এই জেনে যে মেয়াদ একদিন ফুরাবে।"
   }
 };
 
