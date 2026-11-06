@@ -7119,6 +7119,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:200": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Thread Through the Eye",
+          "bn": "সুঁইয়ের ফোঁড়ে সুতা"
+        },
+        "p": [
+          {
+            "en": "Kadhalika salaknahu fi qulubi l-mujrimin: thus have We threaded it into the hearts of the criminals. Its weight sits on the verb. At-Tabari glosses salakna with a single word, adkhalna, We caused to enter. As-Sa'di supplies the picture behind it: We made it enter and strung it into the hearts of the people of crime, as the thread, as-silk, is passed into the needle. Al-Qurtubi, in his note on the twin phrase at 15:12, defines salk as putting one thing into another, like a thread into the eye of a needle.",
+            "bn": "কাযালিকা সালাকনাহু ফী কুলূবিল মুজরিমীন: এভাবেই আমি তা অপরাধীদের অন্তরে গেঁথে দিয়েছি। এর ভার পড়েছে ক্রিয়াটির উপর। তাবারী সালাকনা-র অর্থ দেন এক শব্দে: আদখালনা, আমি প্রবেশ করিয়েছি। সা'দী এর পেছনের ছবিটা দেখিয়ে দেন। তাঁর ভাষায়, আমি তা অপরাধীদের অন্তরে ঢুকিয়ে গেঁথে দিয়েছি, যেমন সুতা (আস-সিলক) সুঁইয়ের ভেতর দিয়ে পার করানো হয়। কুরতুবী ১৫:১২ আয়াতের একই রকম বাক্যের আলোচনায় সালক-এর সংজ্ঞা দেন এভাবে: এক জিনিসকে আরেক জিনিসের ভেতরে ঢোকানো, যেমন সুঁইয়ের ছিদ্রে সুতা।"
+          },
+          {
+            "en": "The verse stands at the end of an argument it does not repeat. Just before it, the Qur'an imagined itself sent down upon a non-Arab who recited it to them, and concluded they still would not have believed. At-Tabari reads kadhalika, thus, as tying back to that conclusion. His paraphrase runs: as We have decreed of these people that they will not believe in this Qur'an, even were it recited to them in that way, so have We threaded it into the hearts of the criminals. The word carries the refusal of 26:199 forward as settled.",
+            "bn": "আয়াতটি এমন এক যুক্তির শেষে বসেছে, যা সে আর নতুন করে বলে না। ঠিক আগে কুরআন কল্পনা করেছে, যদি তা কোনো অনারবের উপর নাযিল হতো আর সে তাদের সামনে পড়ত, তবুও তারা ঈমান আনত না। তাবারী কাযালিকা, অর্থাৎ 'এভাবেই' শব্দটিকে সেই সিদ্ধান্তের সঙ্গে জুড়ে পড়েন। তাঁর ব্যাখ্যায় কথাটা দাঁড়ায় এমন: যেমন আমি এদের ব্যাপারে স্থির করে দিয়েছি যে এভাবে পড়ে শোনানো হলেও এরা এই কুরআনে ঈমান আনবে না, তেমনি আমি তা অপরাধীদের অন্তরে গেঁথে দিয়েছি। শব্দটি ২৬:১৯৯ আয়াতের অস্বীকারকে স্থির বিষয় হিসেবে সামনে টেনে আনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Was Strung Inside",
+          "bn": "ভেতরে যা গাঁথা হলো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names it in four nouns: thus We made denial, disbelief, rejection and obstinacy, at-takdhib, al-kufr, al-juhud and al-'inad, enter the hearts of the criminals. Al-Baghawi reports from Ibn Abbas, al-Hasan and Mujahid that what entered was shirk and denial. The Muyassar names it as denial of the Qur'an, juhud al-Qur'an, and adds that it became firmly lodged, mutamakkin, in those hearts. The wording varies, but every term names a refusal of the message, not a want of information about it.",
+            "bn": "ইবন কাসীর এর নাম দেন চারটি শব্দে: এভাবেই আমি অপরাধীদের অন্তরে প্রবেশ করিয়েছি মিথ্যা প্রতিপন্ন করা, কুফর, অস্বীকার আর একগুঁয়েমি, অর্থাৎ আত-তাকযীব, আল-কুফর, আল-জুহূদ ও আল-ইনাদ। বাগাভী ইবন আব্বাস, হাসান ও মুজাহিদ থেকে বর্ণনা করেন, যা প্রবেশ করেছিল তা শিরক ও মিথ্যা প্রতিপন্ন করা। মুয়াসসার একে বলে কুরআনকে অস্বীকার করা, জুহূদুল কুরআন। সঙ্গে যোগ করে, তা ওই অন্তরগুলোতে শক্ত হয়ে বসে গিয়েছিল, মুতামাক্কিন। শব্দ ভিন্ন ভিন্ন, তবে প্রতিটি শব্দ বার্তাকে প্রত্যাখ্যানের নাম, বার্তা সম্পর্কে না জানার নাম নয়।"
+          },
+          {
+            "en": "At-Tabari's early reports run the same way. Ibn Jurayj, in a report split across the two verses' notes, says: disbelief. Al-Hasan is quoted twice. In one report he says only khalaqnahu, We created it. In another, asked in the house of Abu Khalifa, he says: shirk; He threaded it into their hearts. Al-Qurtubi adds two more voices. Yahya ibn Sallam: We threaded denial into their hearts, and that is what kept them from belief. 'Ikrima: hardness, al-qaswa. Al-Qurtubi's verdict: the meaning is close.",
+            "bn": "তাবারীর আনা প্রাচীন বর্ণনাগুলোও একই পথে চলে। ইবন জুরাইজের একটি বর্ণনা দুই আয়াতের আলোচনায় ভাগ হয়ে আছে। তিনি বলেন: কুফর। হাসানের কথা আসে দুবার। এক বর্ণনায় তিনি শুধু বলেন, খালাকনাহু, আমি তা সৃষ্টি করেছি। আরেক বর্ণনায় আবু খালীফার ঘরে তাঁকে আয়াতটি সম্পর্কে জিজ্ঞেস করা হলে বলেন: শিরক, তিনি তা তাদের অন্তরে গেঁথে দিয়েছেন। কুরতুবী আরও দুজনের কথা আনেন। ইয়াহইয়া ইবন সাল্লাম বলেন, আমি তাদের অন্তরে মিথ্যা প্রতিপন্ন করার প্রবণতা গেঁথে দিয়েছি, আর সেটাই তাদের ঈমান থেকে আটকে রেখেছে। ইকরিমা বলেন: কঠোরতা, আল-কাসওয়া। কুরতুবীর রায়: অর্থ কাছাকাছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which 'It' Is Meant",
+          "bn": "'তা' বলতে কী বোঝায়"
+        },
+        "p": [
+          {
+            "en": "The verse says salaknahu, We threaded it, and does not name the it. Most of the readings above fill the gap with the refusal itself. At-Tabari explains why that fits the grammar. The pronoun, he says, points back to the phrase just before it, ma kanu bihi mu'minin, they would not have been believers in it. His paraphrase is: thus did We make the abandonment of belief in this Qur'an enter the hearts of the criminals. On this reading, what is threaded in is the not-believing of 26:199.",
+            "bn": "আয়াতে আছে সালাকনাহু, আমি তা গেঁথে দিয়েছি, কিন্তু 'তা' কী, সেটা নাম ধরে বলা হয়নি। উপরের বেশির ভাগ ব্যাখ্যা এই ফাঁক পূরণ করেছে অস্বীকার দিয়েই। ব্যাকরণের দিক থেকে কেন এটা খাপ খায়, তাবারী তা বুঝিয়ে দেন। তাঁর মতে শব্দটির ইঙ্গিত ঠিক আগের বাক্যাংশের দিকে: মা কানূ বিহী মু'মিনীন, তারা তাতে ঈমান আনত না। তাঁর ব্যাখ্যা: এভাবেই আমি অপরাধীদের অন্তরে এই কুরআনের প্রতি ঈমান ছেড়ে দেওয়াকে প্রবেশ করিয়েছি। এই পাঠে যা গেঁথে দেওয়া হলো, তা ২৬:১৯৯ আয়াতের সেই ঈমান না আনাই।"
+          },
+          {
+            "en": "Al-Qurtubi opens differently. Salaknahu, he writes, means the Qur'an, and he glosses at once: that is, disbelief in it. His first words make the Qur'an the referent, and his gloss lands where the others land. He then refers back to Surah al-Hijr, where the same phrase appears at 15:12: thus do We thread it into the hearts of the criminals. There he gives first the reading of al-Hasan, Qatada and others, that what is threaded in is misguidance, disbelief, mockery and shirk, and calls it the position most commentators hold.",
+            "bn": "কুরতুবী শুরু করেন একটু অন্যভাবে। তিনি লেখেন, সালাকনাহু মানে কুরআন, আর সঙ্গে সঙ্গে ব্যাখ্যা দেন: অর্থাৎ কুরআনের প্রতি কুফর। তাঁর প্রথম কথায় 'তা' হলো কুরআন, কিন্তু ব্যাখ্যাটা গিয়ে থামে অন্যদের জায়গাতেই। এরপর তিনি ইঙ্গিত করেন সূরা হিজরের দিকে, যেখানে ১৫:১২ আয়াতে একই বাক্য এসেছে: এভাবেই আমি তা অপরাধীদের অন্তরে গেঁথে দিই। সেখানে তিনি প্রথমে আনেন হাসান, কাতাদা ও অন্যদের ব্যাখ্যা, যা গেঁথে দেওয়া হয় তা গোমরাহি, কুফর, ঠাট্টা-বিদ্রূপ আর শিরক। তিনি একে বলেন অধিকাংশ মুফাসসিরের মত।"
+          },
+          {
+            "en": "Then, at 15:12, he records the other side, introduced with it has been said: the meaning is that We pass the Qur'an into their hearts, and they deny it. On this reading the Qur'an itself goes in. It is heard, it enters, and it passes through them unbelieved. He also reports from al-Hasan, citing al-Ghaznawi, that what is threaded is the Reminder, so as to bind the proof upon them. Every commentary fetched on 26:200 itself, al-Qurtubi's included, glosses the verse with the first reading; the second is recorded by al-Qurtubi at the parallel verse, and it is set down here as he sets it down.",
+            "bn": "এরপর ১৫:১২ আয়াতেই তিনি অন্য মতটিও লিখে রাখেন, 'বলা হয়েছে' কথাটি দিয়ে: অর্থ হলো, আমি কুরআনকে তাদের অন্তরে প্রবেশ করাই, আর তারা তাকে মিথ্যা বলে। এই পাঠে ভেতরে যায় কুরআন নিজেই। তা শোনা হয়, ভেতরে ঢোকে, তবু ঈমান না জাগিয়ে পার হয়ে যায়। গাযনাবীর বরাতে তিনি হাসান থেকেও বর্ণনা করেন, যা গেঁথে দেওয়া হয় তা যিকর, অর্থাৎ উপদেশবাণী, যাতে তাদের উপর প্রমাণ অকাট্য হয়ে যায়। ২৬:২০০ আয়াতের উপর যেসব তাফসীর দেখা হয়েছে, কুরতুবীরটিসহ সবগুলোর ব্যাখ্যা প্রথম পাঠের দিকেই যায়। দ্বিতীয়টি কুরতুবী লিখেছেন সমান্তরাল আয়াতে, আর এখানে তা রাখা হলো ঠিক যেভাবে তিনি রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named for What They Did",
+          "bn": "কাজ দিয়েই যাদের পরিচয়"
+        },
+        "p": [
+          {
+            "en": "The hearts are named: al-mujrimin, the criminals, those who commit jurm, a crime. As-Sa'di explains the threading by that very word. It happened, he says, because of their wrongdoing and their crime, bi-sababi zulmihim wa-jurmihim. The Muyassar uses the same pair: denial of the Qur'an was made to settle in their hearts because of it, so there is no way for them to turn from their rejection until they face the punishment they were promised.",
+            "bn": "যে অন্তরগুলোর কথা বলা হচ্ছে, সেগুলোর একটা নাম দেওয়া হয়েছে: আল-মুজরিমীন, অপরাধীরা, যারা জুরম বা অপরাধ করে। সা'দী এই শব্দ দিয়েই গেঁথে দেওয়ার কারণ ব্যাখ্যা করেন। তাঁর ভাষায়, এটা হয়েছে তাদের জুলুম আর অপরাধের কারণে, বিসাবাবি যুলমিহিম ওয়া জুরমিহিম। মুয়াসসারও একই শব্দজোড়া ব্যবহার করে। এ কারণেই কুরআনকে অস্বীকার করার মনোভাব তাদের অন্তরে বসিয়ে দেওয়া হয়েছে। তাই যে শাস্তির ওয়াদা তাদের দেওয়া হয়েছিল, তা চোখে না দেখা পর্যন্ত এই প্রত্যাখ্যান থেকে ফেরার পথ তাদের নেই।"
+          },
+          {
+            "en": "As-Sa'di adds what the threading does once it is complete. The hearts, he says, soaked it up, tasharrabathu, and it became a trait of theirs, wasfan laha. The result is not a passing state but a description the heart can now be named by. The Muyassar's mutamakkin, firmly lodged, points the same way. Both describe something that has been taken in until it belongs to the heart that took it, which is why 26:201 can say they will not believe until the punishment arrives.",
+            "bn": "গেঁথে দেওয়া পূর্ণ হলে কী হয়, সা'দী সেটাও বলেন। তাঁর ভাষায়, অন্তরগুলো তা শুষে নিয়েছে, তাশাররাবাতহু, আর তা হয়ে গেছে তাদের বৈশিষ্ট্য, ওয়াসফান লাহা। অর্থাৎ পরিণামটা ক্ষণিকের অবস্থা নয়, স্থায়ী পরিচয়, যা দিয়ে এখন অন্তরটাকেই চেনা যায়। মুয়াসসারের মুতামাক্কিন, শক্ত হয়ে বসে যাওয়া, একই দিকে ইঙ্গিত করে। দুজনেই এমন কিছুর বর্ণনা দেন, যা ভেতরে নিতে নিতে সেই অন্তরেরই অংশ হয়ে গেছে। এ কারণেই ২৬:২০১ আয়াত বলতে পারে, শাস্তি না আসা পর্যন্ত তারা ঈমান আনবে না।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the deniers who heard this Qur'an from the Prophet ﷺ and refused it, whom the Muyassar names as the disbelievers of Quraysh and at-Tabari as the disbelievers of his people. It licenses nothing against any living person or community. No reader is given knowledge of whose heart has been threaded through, and no one may turn the word criminals into a label for a neighbour, a rival or a people. That judgement belongs to Allah alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কেবল তা-ই বর্ণনা করে, যা তার শব্দে আছে: যারা নবী ﷺ-এর মুখে এই কুরআন শুনে তা প্রত্যাখ্যান করেছিল। মুয়াসসার তাদের বলে কুরাইশের কাফিররা, আর তাবারী বলেন তাঁর কওমের কাফিররা। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কার অন্তরে কী গেঁথে দেওয়া হয়েছে, সে জ্ঞান কোনো পাঠককে দেওয়া হয়নি। প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো জাতির গায়ে 'অপরাধী' তকমা লাগানোর অধিকারও কারও নেই। এই ফয়সালা কেবল আল্লাহর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prior Knowledge and Their Crime",
+          "bn": "পূর্বজ্ঞান আর তাদের অপরাধ"
+        },
+        "p": [
+          {
+            "en": "The verse speaks in Allah's own voice, We threaded, and the commentators do not soften the verb. At-Tabari, in the note on 26:199 that runs straight into this verse, speaks of the disbelievers on whom I have decreed that they will not believe, and gives the ground: they were not going to believe in it, because of the wretchedness, ash-shaqa', that had already passed for them in My prior knowledge, fi sabiqi 'ilmi. Al-Hasan's gloss in at-Tabari, We created it, likewise ascribes the act to Allah.",
+            "bn": "আয়াতে আল্লাহ নিজেই বলছেন, আমি গেঁথে দিয়েছি, আর মুফাসসিররা ক্রিয়াটিকে নরম করেননি। ২৬:১৯৯ আয়াতের যে আলোচনা সোজা এ আয়াতে এসে মিশেছে, সেখানে তাবারী এমন কাফিরদের কথা বলেন, যাদের ব্যাপারে আমি স্থির করে দিয়েছি যে তারা ঈমান আনবে না। কারণও তিনি বলেন: তারা ঈমান আনার ছিল না, কেননা আমার পূর্বজ্ঞানে তাদের জন্য দুর্ভাগ্য, আশ-শাকা, আগেই নির্ধারিত হয়ে গিয়েছিল, ফী সাবিকি ইলমী। তাবারীর বর্ণনায় হাসানের ব্যাখ্যা, আমি তা সৃষ্টি করেছি, একইভাবে কাজটিকে আল্লাহর দিকে সম্পর্কিত করে।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar, as above, name the cause on the human side: their wrongdoing and their crime. Both strands are present in the texts fetched for this verse, and none of those texts sets them against each other. How the two fit together is a question the theologians argued at length; this article takes no side in it. The verse's own wording holds both in view: Allah is named as the agent of the threading, and the hearts are named by the crime of those who carry them.",
+            "bn": "সা'দী আর মুয়াসসার, যেমন আগে দেখা গেল, কারণটি বলেন মানুষের দিক থেকে: এটা হয়েছে তাদের জুলুম আর অপরাধের কারণে। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তাতে দুটি সূত্রই আছে, আর কোনোটিই একটাকে অন্যটার বিপক্ষে দাঁড় করায় না। দুটি কীভাবে মেলে, সে প্রশ্ন নিয়ে আলেমরা দীর্ঘ বিতর্ক করেছেন। এই লেখা সেই বিতর্কে কোনো পক্ষ নেয় না। আয়াতের নিজের শব্দেই দুটি একসঙ্গে আছে। গেঁথে দেওয়ার কর্তা হিসেবে নাম এসেছে আল্লাহর, আর অন্তরগুলোর পরিচয় এসেছে তাদের বাহকদের অপরাধ দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief That Comes Too Late",
+          "bn": "দেরিতে আসা ঈমান"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the sentence: they will not believe in it until they see the painful punishment, 26:201. At-Tabari reads it as stating the purpose: We did that with them so that they would not believe in this Qur'an until they see the painful punishment in this world, as the nations whose stories this surah has told saw it. Ibn Kathir adds that such belief comes when excuses no longer avail them. He gives Pharaoh as the case, who declared his belief only when drowning overtook him, 10:90.",
+            "bn": "পরের আয়াত বাক্যটি পূর্ণ করে: তারা এতে ঈমান আনবে না, যতক্ষণ না যন্ত্রণাদায়ক শাস্তি দেখে, ২৬:২০১। তাবারী একে উদ্দেশ্যের বর্ণনা হিসেবে পড়েন। তাঁর ব্যাখ্যায়, আমি তাদের সঙ্গে এমন করেছি, যাতে দুনিয়াতেই যন্ত্রণাদায়ক শাস্তি না দেখা পর্যন্ত তারা এই কুরআনকে সত্য বলে না মানে, যেমন এ সূরায় যেসব জাতির কাহিনি এসেছে, তারা দেখেছিল। ইবন কাসীর যোগ করেন, এমন ঈমান আসে তখন, যখন কোনো অজুহাত আর কাজে আসে না। উদাহরণ হিসেবে তিনি আনেন ফিরআউনকে, যে ডুবে মরার মুহূর্তে এসে ঈমানের ঘোষণা দিয়েছিল, ১০:৯০।"
+          },
+          {
+            "en": "The grammarians paused over la yu'minun. At-Tabari notes that the verb is in the indicative. Al-Qurtubi relays al-Farra', who allowed the jussive as well, because the phrase carries the sense of a condition and its outcome. The Arabs, al-Farra' said, say rabattu l-farasa la yanfalit, I tied the horse, it will not break loose: in the jussive it means had I not tied it, it would have broken loose; in the indicative, so that it will not. An-Nahhas, al-Qurtubi adds, called the jussive here a mistake by the standards of the Basran grammarians.",
+            "bn": "লা ইউ'মিনূন শব্দে এসে ব্যাকরণবিদরা থেমেছেন। তাবারী উল্লেখ করেন, ক্রিয়াটি এখানে রফা অবস্থায় আছে। কুরতুবী ফাররার মত তুলে ধরেন, যিনি এখানে জযমও জায়েয মনে করতেন, কারণ বাক্যটিতে শর্ত আর তার ফলের অর্থ আছে। ফাররা বলেন, আরবরা বলে রাবাততুল ফারাসা লা ইয়ানফালিত, আমি ঘোড়াটা বেঁধেছি, সে ছুটে যাবে না। জযম পড়লে এর মানে, না বাঁধলে ছুটে যেত। রফা পড়লে মানে, যাতে ছুটে না যায়। কুরতুবী আরও জানান, নাহহাস বসরার ব্যাকরণবিদদের মানদণ্ডে এখানে জযমকে ভুল বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Weight Lifted From the Caller",
+          "bn": "দাওয়াতদাতার কাঁধ থেকে বোঝা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari sees a further purpose, concerning not the deniers but the Prophet ﷺ. This, he says, is a consolation, tasliya, from Allah to His Prophet about his people, so that his grief would not grow heavy at their turning away from him and from listening to the Qur'an. He was, at-Tabari writes, intensely eager that they accept what he brought, so eager that Allah spoke of it in 26:3: perhaps you would destroy yourself with grief that they will not be believers.",
+            "bn": "তাবারী এই অংশে আরেকটি উদ্দেশ্য দেখেন, আর তা অস্বীকারকারীদের নিয়ে নয়, নবী ﷺ-কে নিয়ে। তাঁর ভাষায়, এটা কওমের ব্যাপারে আল্লাহর পক্ষ থেকে তাঁর নবীর জন্য সান্ত্বনা, তাসলিয়া। উদ্দেশ্য, তারা যে তাঁর কাছ থেকে আর কুরআন শোনা থেকে মুখ ফিরিয়ে নিচ্ছে, তাতে যেন তাঁর দুঃখ ভারী না হয়ে ওঠে। তাবারী লেখেন, তারা যেন তাঁর আনা বার্তা কবুল করে, এ নিয়ে তাঁর আকাঙ্ক্ষা ছিল প্রবল। এতই প্রবল যে আল্লাহ ২৬:৩ আয়াতে সে কথা বলেছেন: তারা মু'মিন হচ্ছে না বলে হয়তো তুমি দুঃখে নিজেকে শেষ করে দেবে।"
+          },
+          {
+            "en": "Read this way, the verse takes a weight off the one who carries the message. At-Tabari has Allah telling him, in effect: were this Qur'an recited to them by someone else entirely, leaving them no pretext, they would still not accept it, so ease your anxiety over their faith. The duty is to convey, and the hearts are not in the caller's hands. Anyone who calls others to good can take the same relief, provided it does not harden into indifference toward the people who are turning away.",
+            "bn": "এভাবে পড়লে আয়াতটি বার্তাবাহকের কাঁধ থেকে একটা বোঝা নামিয়ে দেয়। তাবারীর ব্যাখ্যায় আল্লাহ যেন তাঁকে বলছেন: এই কুরআন যদি সম্পূর্ণ অন্য কেউ তাদের পড়ে শোনাত, তাদের হাতে কোনো অজুহাতই না থাকত, তবুও তারা তা মানত না। কাজেই তাদের ঈমান নিয়ে তোমার উৎকণ্ঠা কমাও। দায়িত্ব পৌঁছে দেওয়া, অন্তর দাওয়াতদাতার হাতে নয়। যে-ই মানুষকে ভালোর দিকে ডাকে, এখান থেকে সে-ও এই স্বস্তি নিতে পারে। শর্ত একটাই: স্বস্তিটা যেন মুখ ফিরিয়ে নেওয়া মানুষদের প্রতি উদাসীনতায় পরিণত না হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearts That Drink It In",
+          "bn": "যে অন্তর শুষে নেয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A sound narration they do not tie to the verse sheds light on as-Sa'di's picture of a heart that soaks up what is passed into it. Sahih Muslim (144) records from Hudhayfa that the Messenger of Allah ﷺ said: 'Temptations will be presented to men's hearts as reed mat is woven stick by stick and any heart which is impregnated by them will have a black mark put into it, but any heart which rejects them will have a white mark put in it.'",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সহীহ বর্ণনা আছে, যা তাঁরা এ আয়াতের সঙ্গে জোড়েননি, কিন্তু সা'দীর আঁকা ছবিটা, অর্থাৎ যা ঢোকানো হয় তা শুষে নেওয়া অন্তরের ছবি, তাতে আলো ফেলে। সহীহ মুসলিমে (১৪৪) হুযাইফা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: 'চাটাই যেমন একটি একটি কাঠি দিয়ে বোনা হয়, তেমনি ফিতনা একটার পর একটা অন্তরের সামনে পেশ করা হবে। যে অন্তর তা শুষে নেবে, তাতে একটি কালো দাগ পড়বে। আর যে অন্তর তা প্রত্যাখ্যান করবে, তাতে একটি সাদা দাগ পড়বে।'"
+          },
+          {
+            "en": "He went on: 'The result is that there will become two types of hearts: one white like a white stone which will not be harmed by any turmoil or temptation, so long as the heavens and the earth endure; and the other black and dust-coloured like a vessel which is upset, not recognizing what is good or rejecting what is abominable, but being impregnated with passion.' The Arabic verb behind impregnated is ushriba, from the same root as as-Sa'di's tasharrabathu, soaked it up.",
+            "bn": "তিনি আরও বলেন: 'শেষে অন্তর দুই রকম হয়ে যাবে। একটি সাদা, মসৃণ পাথরের মতো, আসমান ও জমিন যতদিন থাকবে, কোনো ফিতনা তার ক্ষতি করতে পারবে না। আরেকটি কালো, ছাইরঙা, উপুড় করা পাত্রের মতো। সে ভালোকে ভালো বলে চেনে না, মন্দকে মন্দ বলে অস্বীকারও করে না, কেবল সেই প্রবৃত্তিটুকু ছাড়া যা সে শুষে নিয়েছে।' 'শুষে নেওয়া' কথাটির পেছনে আরবি ক্রিয়া উশরিবা, আর সা'দীর তাশাররাবাতহু, অর্থাৎ শুষে নিয়েছে, শব্দটিও এসেছে একই ধাতু থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Letting the Truth Catch",
+          "bn": "সত্যকে আটকাতে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "The image asks every reader for something other than hunting criminals. A thread goes into cloth stitch by stitch. What a person lets pass through the heart once, and then again, and then out of habit, is what the heart in the end holds. As-Sa'di's word for that result is a trait. The question to carry away is what is being strung through my own heart now, by what I watch, repeat and excuse, and whether I would choose it if I saw the whole length of it.",
+            "bn": "ছবিটা প্রত্যেক পাঠকের কাছে কিছু চায়, আর তা অপরাধী খুঁজে বেড়ানো নয়। কাপড়ে সুতা ঢোকে এক ফোঁড় এক ফোঁড় করে। যা মানুষ একবার অন্তরের ভেতর দিয়ে যেতে দেয়, তারপর আবার, তারপর অভ্যাসের বশে, শেষ পর্যন্ত অন্তর সেটাই ধরে রাখে। সা'দী এই পরিণামের নাম দিয়েছেন বৈশিষ্ট্য। সঙ্গে নিয়ে যাওয়ার প্রশ্নটা হলো: আমি যা দেখি, যা বারবার বলি, যাকে ছাড় দিই, তা দিয়ে এখন আমার অন্তরে কী গাঁথা হচ্ছে? পুরো সুতাটা চোখের সামনে দেখলে কি আমি সেটা বেছে নিতাম?"
+          },
+          {
+            "en": "The other side of the image is the truth that passes through without catching. The people in view heard the Qur'an in clear Arabic and were not moved. A believer can hear the same verses so often that they run through like water. The answer the passage points to is to let them catch: to stop at an ayah, ask what it asks of me, and act on it now, before the day 26:201 warns of, when belief arrives only with the punishment, too late to help.",
+            "bn": "ছবির অন্য পিঠে আছে সেই সত্য, যা কোথাও না আটকে পার হয়ে যায়। আয়াতে যাদের কথা, তারা সুস্পষ্ট আরবিতে কুরআন শুনেছিল, তবু তাদের মন নড়েনি। একজন মু'মিনও একই আয়াত এতবার শুনতে পারেন যে তা পানির মতো বয়ে চলে যায়। এই অংশ যে উত্তরের দিকে ইঙ্গিত করে, তা হলো আয়াতকে আটকাতে দেওয়া। কোনো আয়াতে থামুন, জিজ্ঞেস করুন সে আমার কাছে কী চায়, আর এখনই সে অনুযায়ী আমল করুন। ২৬:২০১ আয়াত যে দিনের সতর্কবাণী দেয়, সেদিন ঈমান আসে কেবল শাস্তির সঙ্গে, আর তখন তা আর কোনো কাজে আসে না।"
+          }
+        ]
+      }
+    ]
+  },
   "26:205": {
     "sections": [
       {

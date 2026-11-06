@@ -24569,6 +24569,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Lies draw to liars. Guard your tongue from falsehood, test what you hear before you pass it on, and never seek the unseen from those who mix one truth with a hundred lies.",
     "lessonBn": "মিথ্যা মিথ্যুকের কাছেই ভিড়ে। জবানকে মিথ্যা থেকে বাঁচান, শোনা কথা যাচাই না করে ছড়াবেন না, আর যারা এক সত্যের সঙ্গে একশো মিথ্যা মেশায়, তাদের কাছে গায়েবের খবর খুঁজবেন না।"
+  },
+  "26:200": {
+    "reflectionEn": "A thread does not slip into a needle by chance. It is pushed through, and once it is through it holds. The verse uses that picture for people who heard the Qur'an in their own clear tongue and still would not believe: thus We threaded it into the hearts of the criminals. They are named by what they did, and the next verse says they will not believe until they see the punishment. This is not a verse for sorting other people. It is a question put to my own heart. What have I let pass through it again and again, until it stopped being a passing thought and became the way I see? And what truth have I heard so often that it now runs through me without catching?",
+    "reflectionBn": "সুঁইয়ের ফোঁড়ে সুতা আপনাআপনি ঢোকে না। তাকে ঠেলে ঢোকাতে হয়, আর একবার ঢুকে গেলে সে আটকে থাকে। আয়াতটি এই ছবিই ব্যবহার করেছে তাদের বেলায়, যারা নিজেদের সুস্পষ্ট ভাষায় কুরআন শুনেও ঈমান আনেনি: এভাবেই আমি তা অপরাধীদের অন্তরে গেঁথে দিয়েছি। তাদের পরিচয় দেওয়া হয়েছে তাদের কাজ দিয়েই। পরের আয়াত বলছে, ভয়াবহ শাস্তি চোখে না দেখা পর্যন্ত তারা ঈমান আনবে না। অন্য মানুষকে ভাগ করে চিহ্নিত করার আয়াত এটা নয়। প্রশ্নটা আমার নিজের অন্তরের কাছে। কোন জিনিসকে আমি বারবার ভেতর দিয়ে যেতে দিয়েছি, যতক্ষণ না তা ক্ষণিকের ভাবনা থেকে আমার দেখার ধরনে পরিণত হয়েছে? আর কোন সত্য এতবার শুনেছি যে এখন তা কোথাও না আটকে সোজা বেরিয়ে যায়?",
+    "pointsEn": [
+      "Which habit of thought in me began as a single pass and has now become something I no longer even notice?",
+      "When a reminder I have heard many times comes round again, do I let it catch, or does it run straight through?",
+      "Have I ever spoken of my own refusal of a truth as fixed fate, when it began with choices I could still change?",
+      "When someone I have called to good turns away, can I leave the outcome with Allah without giving up on them?",
+      "What would I need to change my mind now, before the only proof left is the one that comes too late?"
+    ],
+    "pointsBn": [
+      "আমার কোন চিন্তার অভ্যাস একবারের ফোঁড় দিয়ে শুরু হয়েছিল, আর এখন এমন হয়ে গেছে যে টেরই পাই না?",
+      "বহুবার শোনা কোনো নসিহত যখন আবার কানে আসে, আমি কি তাকে ভেতরে আটকাতে দিই, নাকি তা সোজা বেরিয়ে যায়?",
+      "কোনো সত্যকে না মানার দায় কি কখনো তকদিরের ঘাড়ে চাপিয়েছি, অথচ শুরুটা হয়েছিল এমন সিদ্ধান্ত দিয়ে যা আমি এখনো বদলাতে পারি?",
+      "যাকে ভালোর দিকে ডেকেছি সে মুখ ফিরিয়ে নিলে, তার আশা না ছেড়ে কি ফলাফলটা আল্লাহর হাতে ছেড়ে দিতে পারি?",
+      "এখনই মত বদলাতে আমার কী দরকার, যাতে শেষ প্রমাণ হিসেবে এমন কিছুর অপেক্ষায় না থাকি যা এলে আর কাজে আসে না?"
+    ],
+    "lessonEn": "What you let pass through your heart again and again becomes its grain. Guard what you take in, and let the truth catch before refusal hardens into a trait.",
+    "lessonBn": "যা আপনি বারবার অন্তরের ভেতর দিয়ে যেতে দেন, তা-ই একসময় অন্তরের স্বভাব হয়ে যায়। কী গ্রহণ করছেন সে ব্যাপারে সতর্ক থাকুন, আর অস্বীকার স্বভাবে পরিণত হওয়ার আগেই সত্যকে ভেতরে আটকাতে দিন।"
   }
 };
 
