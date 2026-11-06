@@ -775,6 +775,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "48:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After Two Promises",
+          "bn": "দুই প্রতিশ্রুতির ঠিক পরে"
+        },
+        "p": [
+          {
+            "en": "Wa law qatalakumu lladhina kafaru: and had those who disbelieved fought you. The verse comes straight after two promises. In 48:20 Allah promises the believers much booty that they will take, tells them He has hastened this for them, and says He restrained people's hands from them. In 48:21 He speaks of other gains they could not yet reach, which He has already encompassed. Al-Muyassar, in a comment that runs from that promise into this verse, names the hastened gain as the spoils of Khaybar, and the other as a gain Allah had promised and would surely bring.",
+            "bn": "ওয়া লাও কাতালাকুমুল্লাযীনা কাফারু: কাফিররা যদি তোমাদের সঙ্গে যুদ্ধ করত। আয়াতটি এসেছে দুটি প্রতিশ্রুতির ঠিক পরে। ৪৮:২০ আয়াতে আল্লাহ মু'মিনদের প্রচুর গনীমতের ওয়াদা দেন, যা তাঁরা লাভ করবেন। সেখানে তিনি বলেন, এটি তিনি তাঁদের জন্য আগেভাগে দিয়েছেন আর মানুষের হাত তাঁদের থেকে ঠেকিয়ে রেখেছেন। ৪৮:২১ আয়াতে আসে আরও কিছু প্রাপ্তির কথা, যা তখনো তাঁদের নাগালের বাইরে, অথচ আল্লাহ তা আগেই ঘিরে রেখেছেন। মুয়াসসার সেই ওয়াদা থেকে এ আয়াত পর্যন্ত একটানা ব্যাখ্যা করে। তার মতে আগেভাগে দেওয়া প্রাপ্তি খাইবারের গনীমত। আর অন্যটি এমন প্রাপ্তি, যার ওয়াদা আল্লাহ দিয়েছেন এবং যা ঘটবেই।"
+          },
+          {
+            "en": "Then this verse brings an assurance of another kind. At-Tabari says Allah is speaking to those who believed in Him from the people of the Pledge of Ridwan, the pledge of 48:18: had those who disbelieve in Allah fought you, O believers, at Makkah. Al-Muyassar names them as the disbelievers of Quraysh at Makkah. The verses after it stay on the same ground. 48:23 calls this the way of Allah that has passed before; 48:24 recalls hands held back in the valley of Makkah; 48:25 names those who barred the believers from the Sacred Mosque.",
+            "bn": "তারপর এ আয়াত আনে ভিন্ন ধরনের এক আশ্বাস। তাবারী বলেন, আল্লাহ এখানে কথা বলছেন বাই'আতুর রিদওয়ানের মু'মিনদের সঙ্গে, ৪৮:১৮ আয়াতে যে বাই'আতের কথা এসেছে। তাঁর ব্যাখ্যায় অর্থ দাঁড়ায়: হে মু'মিনগণ, আল্লাহকে অস্বীকারকারীরা যদি মক্কায় তোমাদের সঙ্গে যুদ্ধ করত। মুয়াসসার তাদের পরিচয় দেয় মক্কার কুরাইশ কাফির হিসেবে। পরের আয়াতগুলোও একই প্রসঙ্গে থাকে। ৪৮:২৩ আয়াত একে বলে আল্লাহর রীতি, যা আগেও চলে এসেছে। ৪৮:২৪ আয়াত মনে করিয়ে দেয় মক্কার উপত্যকায় দুই পক্ষের হাত ঠেকিয়ে রাখার কথা। ৪৮:২৫ আয়াত চিনিয়ে দেয় তাদের, যারা মু'মিনদের মাসজিদুল হারাম থেকে বাধা দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Quraysh, or the Tribes by Khaybar?",
+          "bn": "কুরাইশ, নাকি খাইবারের মিত্র গোত্র?"
+        },
+        "p": [
+          {
+            "en": "Who are those who disbelieved here? The commentators answer in two ways. At-Tabari brings Qatada through his chain: it means the disbelievers of Quraysh, and then they find neither protector nor helper means none to help them against Allah. Al-Qurtubi gives Qatada's view with the place added: the disbelievers of Quraysh at al-Hudaybiya. Ibn Kathir speaks of the idolaters who might have met the believers in battle, and the abridged English Ibn Kathir heads the passage: had Makkah's disbelievers fought at al-Hudaybiyyah, they would have retreated in defeat.",
+            "bn": "এখানে কাফির বলতে কারা? তাফসীরকারেরা দুইভাবে উত্তর দেন। তাবারী নিজের সনদে কাতাদার কথা আনেন: এরা কুরাইশের কাফির। আর এরপর তারা কোনো অভিভাবক বা সাহায্যকারী পাবে না, এর অর্থ আল্লাহর বিরুদ্ধে তাদের সাহায্য করার কেউ থাকবে না। কুরতুবী কাতাদার মত উল্লেখ করেন জায়গার নামসহ: হুদাইবিয়ায় কুরাইশের কাফিররা। ইবন কাসীর বলেন সেই মুশরিকদের কথা, যারা যুদ্ধে মু'মিনদের মুখোমুখি হতে পারত। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ অংশের শিরোনাম দেয় এভাবে: মক্কার কাফিররা হুদাইবিয়ায় লড়লে পরাজিত হয়ে পিছু হটত।"
+          },
+          {
+            "en": "Al-Qurtubi then records a second view under wa qila, it is said: had Ghatafan and Asad fought you, along with those who meant to come to the aid of the people of Khaybar, the turn of fortune would have gone against them. Al-Baghawi gives only this reading: it means Asad, Ghatafan and the people of Khaybar. Al-Qurtubi sets the two views down one after the other without choosing between them. As-Sa'di names no party at all. He reads the verse as glad tidings from Allah to His believing servants of victory over their disbelieving enemies.",
+            "bn": "এরপর কুরতুবী 'ওয়া কীলা', অর্থাৎ 'বলা হয়' কথাটি দিয়ে দ্বিতীয় একটি মত আনেন: গাতাফান ও আসাদ গোত্র আর যারা খাইবারবাসীদের সাহায্যে আসতে চেয়েছিল, তারা যদি তোমাদের সঙ্গে লড়ত, তাহলে বিপর্যয় তাদের উপরই পড়ত। বাগাভী শুধু এই মতটিই দেন: এরা আসাদ, গাতাফান ও খাইবারবাসী। কুরতুবী দুটি মত পরপর রাখেন, কোনোটিকে বেছে নেন না। সা'দী কোনো দলের নামই নেন না। তাঁর কাছে আয়াতটি মু'মিন বান্দাদের প্রতি আল্লাহর সুসংবাদ, কাফির শত্রুদের বিরুদ্ধে বিজয়ের সুসংবাদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Backs Turned, No One Beside",
+          "bn": "পিঠ ফেরানো, পাশে কেউ নেই"
+        },
+        "p": [
+          {
+            "en": "La-wallawu l-adbar: they would surely have turned their backs. At-Tabari explains it as: they would have been routed from you and turned their rumps to you, as the man routed by his opponent does in war. Al-Muyassar keeps the same picture: they would have fled from you and shown you their backs, as the routed do in fighting. Ibn Kathir speaks of the army of the disbelievers broken and fleeing. The phrase does not describe a slaughter. It describes men who turn and run, so the defeat it promises is a flight.",
+            "bn": "লা-ওয়াল্লাউল আদবার: তারা অবশ্যই পিঠ ফিরিয়ে নিত। তাবারী ব্যাখ্যা করেন: তারা তোমাদের সামনে থেকে পরাজিত হয়ে পালাত, তোমাদের দিকে পেছন ফিরিয়ে দিত, যুদ্ধে প্রতিপক্ষের কাছে হেরে যাওয়া লোক যেমন করে। মুয়াসসারও একই ছবি আঁকে: তারা তোমাদের কাছ থেকে পালাত আর পিঠ দেখাত, লড়াইয়ে হেরে যাওয়া দল যেমন দেখায়। ইবন কাসীর বলেন, কাফিরদের বাহিনী ভেঙে পড়ে পালিয়ে যেত। শব্দগুলো কোনো হত্যাযজ্ঞের বর্ণনা দেয় না। বর্ণনা দেয় এমন লোকদের, যারা ঘুরে দৌড় দেয়। তাই এখানে যে পরাজয়ের কথা, তা পলায়নের পরাজয়।"
+          },
+          {
+            "en": "Then: thumma la yajiduna waliyyan wa la nasira, then they would find neither protector nor helper. The two nouns are not one idea said twice. As-Sa'di separates them: a wali who would take charge of their affairs, and a nasir who would help them and back them in fighting you. At-Tabari has a wali who would side with them in their war on you, and a nasir who would give them victory over you. One stands for a man and manages his cause; the other fights beside him. The verse denies them both.",
+            "bn": "তারপর: সুম্মা লা ইয়াজিদূনা ওয়ালিয়্যাও ওয়া লা নাসীরা, তারপর তারা না পেত কোনো অভিভাবক, না কোনো সাহায্যকারী। এখানে দুটি শব্দ একই কথার পুনরাবৃত্তি নয়। সা'দী দুটিকে আলাদা করেন। ওয়ালী সে, যে তাদের বিষয়-আশয়ের দায়িত্ব নেবে। নাসীর সে, যে তাদের সাহায্য করবে, তোমাদের সঙ্গে লড়াইয়ে তাদের পাশে দাঁড়াবে। তাবারীর কাছে ওয়ালী সে, যে তোমাদের বিরুদ্ধে যুদ্ধে তাদের পক্ষ নেবে। আর নাসীর সে, যে তোমাদের উপর তাদের জয় এনে দেবে। একজন মানুষের হয়ে দাঁড়ায়, তার কাজ সামলায়। অন্যজন তার পাশে থেকে লড়ে। আয়াত দুটোকেই নাকচ করে দেয়।"
+          },
+          {
+            "en": "As-Sa'di closes the verse with a short verdict: rather, they are forsaken and overcome, makhdhulun maghlubun. Al-Muyassar adds the words min dun Allah: apart from Allah they would find no protector to side with them in their war on you and no helper to aid them in fighting you. Qatada, through at-Tabari, reads the helper as one who could help them against Allah. In all three wordings the missing protector is measured against Allah, not against the size of an army.",
+            "bn": "সা'দী আয়াতের শেষে ছোট্ট একটি রায় দেন: বরং তারা সাহায্যবঞ্চিত, পরাজিত, মাখযূলূন মাগলূবূন। মুয়াসসার যোগ করে 'মিন দূনিল্লাহ' কথাটি: আল্লাহকে বাদ দিয়ে তারা এমন কোনো অভিভাবক পেত না, যে তোমাদের বিরুদ্ধে যুদ্ধে তাদের পক্ষ নেয়। এমন কোনো সাহায্যকারীও পেত না, যে তোমাদের সঙ্গে লড়াইয়ে তাদের মদদ দেয়। তাবারীর বর্ণনায় কাতাদা সাহায্যকারী বলতে বোঝান এমন কাউকে, যে আল্লাহর বিরুদ্ধে তাদের সাহায্য করতে পারত। তিনটি ভাষ্যেই অভিভাবকের অভাব মাপা হয়েছে আল্লাহর সঙ্গে তুলনা করে। বাহিনীর আকার দিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Side Decides It",
+          "bn": "কে কার পক্ষে, সেটাই আসল"
+        },
+        "p": [
+          {
+            "en": "Why would they have run? The tafsirs give the reason plainly. Ibn Kathir calls the verse good news from Allah to His believing servants: had the idolaters met them in battle, Allah would have given victory to His Messenger and His believing servants, and the army of the disbelievers would have been routed, because they were at war with Allah, His Messenger and His party of believers. At-Tabari gives the same reason in other words: they would find no protector and no helper because Allah is with you, and the party of Allah, whose helper He is, will never be overcome.",
+            "bn": "তারা পালাত কেন? তাফসীরগুলো কারণটা সোজাসুজি বলে দেয়। ইবন কাসীর আয়াতটিকে বলেন মু'মিন বান্দাদের প্রতি আল্লাহর সুসংবাদ। মুশরিকরা যুদ্ধে তাঁদের মুখোমুখি হলে আল্লাহ তাঁর রাসূল ও মু'মিন বান্দাদের বিজয় দিতেন, আর কাফির বাহিনী পরাজিত হয়ে পালাত। কারণ তারা লড়ছিল আল্লাহ, তাঁর রাসূল আর তাঁর মু'মিন দলের বিরুদ্ধে। তাবারী একই কারণ বলেন অন্য ভাষায়: তারা কোনো অভিভাবক বা সাহায্যকারী পাবে না, কারণ আল্লাহ তোমাদের সঙ্গে আছেন। আর আল্লাহর দল, যার সাহায্যকারী স্বয়ং তিনি, কখনো পরাজিত হয় না।"
+          },
+          {
+            "en": "Notice where the commentators place the cause. Not in courage or numbers. The cause is who stands with whom. Placed where it is, the verse lets the people of the pledge know that the battle they did not fight was one they would have won. In the passage the abridged English Ibn Kathir gives on 48:20 to 48:24, he says the believers would come to know that the best decision is the one Allah prefers for them, even when it looks unfavourable on the surface, and he cites 2:216.",
+            "bn": "খেয়াল করুন, তাফসীরকারেরা কারণটা কোথায় রাখেন। সাহস বা সংখ্যায় নয়। কারণ একটাই: কে কার পক্ষে দাঁড়িয়ে। যেখানে আয়াতটি বসানো, সেখান থেকে এটি বাই'আতকারী সাহাবিদের জানিয়ে দেয়, যে যুদ্ধ তাঁরা করেননি, তাতে তাঁরাই জিততেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৪৮:২০ থেকে ৪৮:২৪ আয়াত একসঙ্গে আলোচনা করে। সেখানে তিনি বলেন, মু'মিনরা জেনে নেবেন যে সবচেয়ে ভালো সিদ্ধান্ত সেটাই, যা আল্লাহ তাঁদের জন্য পছন্দ করেন, বাইরে থেকে তা প্রতিকূল দেখালেও। এর সমর্থনে তিনি ২:২১৬ আয়াত উল্লেখ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Way That Passed Before",
+          "bn": "আগে থেকে চলে আসা রীতি"
+        },
+        "p": [
+          {
+            "en": "The next verse names what this is: sunnata llahi llati qad khalat min qabl, the way of Allah that has passed before, wa lan tajida li-sunnati llahi tabdila, and you will never find any change in the way of Allah. At-Tabari reads it straight on from 48:22: had these disbelievers of Quraysh fought you, Allah would have forsaken them until He routed them from you, as He forsook their like among the earlier nations who fought His allies. Al-Qurtubi defines the sunnah of Allah as His way and past custom of helping His allies against His enemies.",
+            "bn": "পরের আয়াত এর নাম বলে দেয়: সুন্নাতাল্লাহিল্লাতী কাদ খালাত মিন কাবল, আল্লাহর রীতি, যা আগেও চলে এসেছে। ওয়া লান তাজিদা লি-সুন্নাতিল্লাহি তাবদীলা, আর আল্লাহর রীতিতে তুমি কখনো কোনো বদল পাবে না। তাবারী এটিকে পড়েন ৪৮:২২ আয়াতের সরাসরি ধারাবাহিকতায়। কুরাইশের এই কাফিররা যদি তোমাদের সঙ্গে লড়ত, আল্লাহ তাদের সাহায্যহীন করে ছাড়তেন, শেষে তোমাদের সামনে থেকে তাড়িয়ে দিতেন। ঠিক যেমন আগের জাতিগুলোর মধ্যে তাদের মতো লোকদের তিনি সাহায্যহীন করেছিলেন, যারা তাঁর বন্ধুদের বিরুদ্ধে লড়েছিল। কুরতুবীর সংজ্ঞায় আল্লাহর সুন্নাহ মানে তাঁর পথ, শত্রুর বিরুদ্ধে নিজের বন্ধুদের সাহায্য করার পুরোনো রীতি।"
+          },
+          {
+            "en": "At-Tabari adds a note on the grammar. Sunnata stands in the accusative as a verbal noun drawn from the meaning of the sentence before it, not from its wording: they would have turned their backs and found no protector carries the sense that defeat and abandonment were laid down for them as a way. He allows too that it may simply explain what came before. Al-Qurtubi, under it is said, and al-Baghawi read it another way: ka-sunnati llah, like the way of Allah in helping His allies and subduing His enemies. Either way, 48:22 is not a one-off.",
+            "bn": "তাবারী এখানে ব্যাকরণের একটি কথা যোগ করেন। 'সুন্নাতা' শব্দটি যবরযুক্ত, আগের বাক্যের অর্থ থেকে গঠিত মাসদার হিসেবে, শব্দ থেকে নয়। 'তারা পিঠ ফিরিয়ে নিত, কোনো অভিভাবক পেত না', এই কথার ভেতরেই আছে যে পরাজয় আর সাহায্যহীনতাকে তাদের জন্য রীতি করে দেওয়া হয়েছে। তিনি এও মেনে নেন যে শব্দটি হয়তো কেবল আগের কথার ব্যাখ্যা। কুরতুবী 'বলা হয়' কথাটি দিয়ে, আর বাগাভী সরাসরি, অন্যভাবে পড়েন: কা-সুন্নাতিল্লাহ, অর্থাৎ বন্ধুদের সাহায্য আর শত্রুদের দমন করার ক্ষেত্রে আল্লাহর রীতির মতো। যেভাবেই পড়া হোক, ৪৮:২২ আয়াতের কথা কোনো একবারের ঘটনা নয়।"
+          },
+          {
+            "en": "Ibn Kathir explains it as Allah's custom with His creation: faith and disbelief never meet at a decisive juncture without Allah giving faith victory over disbelief. He gives Badr as the example, where Allah helped His believing allies against the idolaters though the Muslims were few and lightly armed and the idolaters many and well equipped; 3:123 recalls that day. On no change, at-Tabari says the way He laid down in His creation lasts: good is repaid with good, and evil and disbelief with punishment. As-Sa'di puts it briefly: the armies of Allah are the victors.",
+            "bn": "ইবন কাসীর একে ব্যাখ্যা করেন সৃষ্টির সঙ্গে আল্লাহর আচরণের রীতি হিসেবে। চূড়ান্ত মীমাংসার কোনো ক্ষেত্রে ঈমান আর কুফর মুখোমুখি হলে আল্লাহ ঈমানকেই জয়ী করেন। উদাহরণ হিসেবে তিনি আনেন বদরের কথা। সেদিন মুসলিমরা ছিলেন সংখ্যায় কম, অস্ত্রেও দুর্বল, আর মুশরিকরা ছিল অনেক, সাজসরঞ্জামে ভরপুর। তবু আল্লাহ তাঁর মু'মিন বন্ধুদের সাহায্য করেছিলেন। ৩:১২৩ আয়াত সেই দিনটির কথা মনে করিয়ে দেয়। 'কোনো বদল নেই' প্রসঙ্গে তাবারী বলেন, সৃষ্টির মধ্যে তিনি যে রীতি স্থাপন করেছেন তা স্থায়ী। ভালোর প্রতিদান ভালো, আর মন্দ ও কুফরের প্রতিদান শাস্তি। সা'দী সংক্ষেপে বলেন: আল্লাহর বাহিনীই বিজয়ী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Victory Within Reach, Held Back",
+          "bn": "হাতের নাগালে জয়, তবু সংযম"
+        },
+        "p": [
+          {
+            "en": "If victory was certain, why was there no battle? The tafsirs find the answer in the verses that follow. On 48:24, Ibn Kathir calls it a favour from Allah to His believing servants: He held the idolaters' hands from them, and held the believers' hands from the idolaters at the Sacred Mosque. He protected both parties and brought about between them a peace that held good for the believers, with a good end in this world and the next. As-Sa'di calls it the gift of well-being from the disbelievers' harm and from fighting them.",
+            "bn": "জয় যদি নিশ্চিতই হয়, তবে যুদ্ধ হলো না কেন? তাফসীরকারেরা উত্তর খোঁজেন পরের আয়াতগুলোতে। ৪৮:২৪ আয়াতের আলোচনায় ইবন কাসীর একে বলেন মু'মিন বান্দাদের প্রতি আল্লাহর অনুগ্রহ। তিনি মুশরিকদের হাত তাঁদের থেকে ঠেকিয়ে রাখলেন, আবার মাসজিদুল হারামের কাছে মু'মিনদের হাতও মুশরিকদের থেকে ঠেকিয়ে রাখলেন। দুই পক্ষকেই তিনি রক্ষা করলেন, আর তাদের মধ্যে এমন সন্ধি ঘটালেন, যাতে মু'মিনদের কল্যাণ ছিল, দুনিয়া ও আখিরাতে শুভ পরিণাম ছিল। সা'দী একে বলেন আফিয়াত, কাফিরদের অনিষ্ট আর তাদের সঙ্গে লড়াই থেকে নিরাপত্তার নিয়ামত।"
+          },
+          {
+            "en": "On 48:25, as-Sa'di lists what should have provoked a fight: their disbelief, their barring the Messenger ﷺ and the believers from the House, and their holding back the offering. Then he names the barrier: believing men and women living among the idolaters, in no separate quarter where harm could pass them by. He adds a gain for the next life: that Allah might admit to His mercy whom He wills, granting faith after disbelief. Ibn Kathir says Allah delayed their punishment to bring the believers out from among them, and so that many of them would return to Islam.",
+            "bn": "৪৮:২৫ আয়াতের আলোচনায় সা'দী সেই বিষয়গুলো গুনে দেখান, যা লড়াইয়ের দিকে ঠেলে দেওয়ার কথা: তাদের কুফর, রাসূল ﷺ ও মু'মিনদের কা'বা থেকে বাধা দেওয়া, আর কুরবানির পশু আটকে রাখা। তারপর তিনি বাধাটির কথা বলেন। মুশরিকদের মাঝেই বাস করছিলেন মু'মিন পুরুষ ও নারী, আলাদা কোনো মহল্লায় নয়, যেখানে আঘাত তাঁদের এড়িয়ে যেতে পারত। আখিরাতের একটি লাভও তিনি যোগ করেন: আল্লাহ যাকে চান তাকে নিজের রহমতে দাখিল করবেন, কুফরের পর ঈমান দান করবেন। ইবন কাসীর বলেন, আল্লাহ তাদের শাস্তি পিছিয়ে দিলেন, যাতে তাদের মাঝখান থেকে মু'মিনদের বের করে আনা যায়, আর তাদের অনেকে ইসলামে ফিরে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eighty Men from Tan'im",
+          "bn": "তান'ঈম থেকে আশি জন"
+        },
+        "p": [
+          {
+            "en": "Under 48:24, Sahih Muslim (1808) has: \"It has been narrated on the authority of Anas b. Malik that eighty persons from the inhabitants of Mecca swooped down upon the Messenger of Allah ﷺ from the mountain of Tan'im. They were armed and wanted to attack the Prophet ﷺ and his Companions unawares. He (the Holy Prophet) captured them but spared their lives. So, God, the Exalted and Glorious, revealed the verses: It is He Who restrained your hands from them and their hands from you in the valley of Mecca after He had given you a victory over them.\"",
+            "bn": "৪৮:২৪ আয়াতের প্রসঙ্গে সহীহ মুসলিমে (১৮০৮) আছে: আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত, মক্কাবাসীদের আশি জন লোক তান'ঈম পাহাড় থেকে নেমে রাসূলুল্লাহ ﷺ-এর উপর ঝাঁপিয়ে পড়ল। তারা ছিল সশস্ত্র, নবী ﷺ ও তাঁর সাহাবিদের অপ্রস্তুত অবস্থায় আক্রমণ করতে চাইছিল। তিনি তাদের বন্দি করলেন, কিন্তু প্রাণে বাঁচিয়ে দিলেন। তখন মহান আল্লাহ নাযিল করলেন: তিনিই সেই সত্তা, যিনি মক্কার উপত্যকায় তাদের উপর তোমাদের বিজয়ী করার পর তাদের থেকে তোমাদের হাত আর তোমাদের থেকে তাদের হাত ঠেকিয়ে রেখেছিলেন।"
+          },
+          {
+            "en": "That narration belongs to 48:24, not to this verse: none of the tafsirs fetched for 48:22 attaches a hadith to it. At-Tabari, al-Qurtubi and Ibn Kathir also carry a report from 'Abdullah ibn Mughaffal that puts the armed men at thirty young men. Whatever the count, the reports agree on the outline: men who came to strike were taken, and then let go.",
+            "bn": "এই বর্ণনা ৪৮:২৪ আয়াতের, আমাদের আলোচ্য আয়াতের নয়। ৪৮:২২ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস জোড়েনি। তাবারী, কুরতুবী ও ইবন কাসীর আব্দুল্লাহ ইবন মুগাফফাল (রাঃ)-এর একটি বর্ণনাও আনেন, যেখানে সশস্ত্র লোকদের সংখ্যা ত্রিশ জন যুবক। সংখ্যা যা-ই হোক, ঘটনার রূপরেখায় বর্ণনাগুলো একমত: যারা আঘাত হানতে এসেছিল, তারা ধরা পড়ল, তারপর তাদের ছেড়ে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned Backs Elsewhere",
+          "bn": "অন্য আয়াতে পিঠ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Other verses use the same picture. 3:111 says of opponents in its passage that if they fight you, they will show you their backs and then not be helped. 59:12 says of hypocrites who promise aid that even if they gave it, they would turn their backs. 54:45 foretells an assembly routed and turning their backs. 33:62 and 35:43 repeat that no change will be found in the way of Allah, and 40:51 promises help to the messengers and the believers in this life. 8:15 and 8:16 turn the picture round: believers are told not to turn their backs.",
+            "bn": "অন্য আয়াতেও একই ছবি আছে। ৩:১১১ আয়াত তার প্রসঙ্গের প্রতিপক্ষদের সম্পর্কে বলে, তারা তোমাদের সঙ্গে লড়লে পিঠ দেখাবে, তারপর আর সাহায্য পাবে না। ৫৯:১২ আয়াত বলে মুনাফিকদের কথা, যারা সাহায্যের ওয়াদা দেয়: সাহায্য করলেও তারা পিঠ ফিরিয়ে পালাবে। ৫৪:৪৫ আয়াত আগাম জানায়, দলটি পরাজিত হবে আর পিঠ ফিরিয়ে পালাবে। ৩৩:৬২ ও ৩৫:৪৩ আয়াত বারবার বলে, আল্লাহর রীতিতে কোনো বদল পাওয়া যাবে না। ৪০:৫১ আয়াতে দুনিয়ার জীবনে রাসূলগণ ও মু'মিনদের সাহায্যের ওয়াদা। আর ৮:১৫ ও ৮:১৬ আয়াত ছবিটা উল্টে দেয়: সেখানে মু'মিনদেরই বলা হয়েছে, পিঠ ফিরিয়ো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Restraint Without Weakness",
+          "bn": "দুর্বলতা নয়, সংযম"
+        },
+        "p": [
+          {
+            "en": "This verse describes what its text describes: the disbelievers who might have fought the people of the pledge at al-Hudaybiya or, in the other reading, the tribes near Khaybar. It licenses nothing against any living person or community, and it is no forecast to be fitted to any present-day conflict. What it leaves a reader is closer to home. When you are sure you could win an argument, a dispute or a rivalry, and wisdom asks you to hold back, the holding back need not be weakness. Ibn Kathir reads the truce itself as a peace Allah brought about, with good in it for the believers.",
+            "bn": "আয়াতটি তা-ই বর্ণনা করে, যা এর শব্দে আছে: সেই কাফিররা, যারা হুদাইবিয়ায় বাই'আতকারী সাহাবিদের সঙ্গে লড়তে পারত, কিংবা অন্য মতে খাইবারের আশপাশের গোত্রগুলো। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আজকের কোনো সংঘাতের উপর বসিয়ে দেওয়ার মতো ভবিষ্যদ্বাণীও এটি নয়। পাঠকের জন্য এর শিক্ষা বরং ঘরের কাছের। কোনো তর্কে, বিবাদে বা প্রতিযোগিতায় জিতবেন বলে নিশ্চিত, অথচ হিকমত বলছে থেমে যেতে, তখন থেমে যাওয়া দুর্বলতা না-ও হতে পারে। ইবন কাসীর সন্ধিটিকেই দেখেন এমন শান্তি হিসেবে, যা আল্লাহ ঘটিয়েছেন আর যাতে মু'মিনদের কল্যাণ ছিল।"
+          },
+          {
+            "en": "A supplication in the verse's own words, not a narrated one: O Allah, be my protector and my helper, and do not leave me to anyone besides You; show me the good in what You hold back from me, and never let me mistake Your help for my own strength. Then a question to carry: what have I been asked to hold back from lately, and did I read it as a defeat?",
+            "bn": "আয়াতের নিজের শব্দে একটি দু'আ, কোনো বর্ণিত দু'আ নয়: হে আল্লাহ, আপনিই আমার অভিভাবক ও সাহায্যকারী হোন। আপনাকে ছাড়া আর কারও হাতে আমাকে ছেড়ে দেবেন না। যা থেকে আমাকে বিরত রাখেন, তার কল্যাণটুকু আমাকে দেখিয়ে দিন। আর আপনার সাহায্যকে কখনো যেন নিজের শক্তি বলে ভুল না করি। তারপর মনে রাখার মতো একটি প্রশ্ন: সম্প্রতি কোন কাজ থেকে আমাকে থেমে থাকতে বলা হয়েছে, আর আমি কি তাকে হার বলে ধরে নিয়েছি?"
+          }
+        ]
+      }
+    ]
+  },
   "48:29": {
     "sections": [
       {

@@ -27249,6 +27249,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A pledge made for Allah's sake is made to Allah: breaking it harms only the one who breaks it, and keeping it in full is met with a great reward.",
     "lessonBn": "আল্লাহর জন্য করা অঙ্গীকার আসলে আল্লাহর সঙ্গেই করা: ভাঙলে ক্ষতি শুধু ভঙ্গকারীর নিজের, আর পুরোপুরি রাখলে তার জন্য আছে মহা পুরস্কার।"
+  },
+  "48:22": {
+    "reflectionEn": "They turned back from Makkah without the fight many had wanted, under terms that stung. Then this verse tells them what that fight would have looked like: had the disbelievers fought you, they would have turned their backs and found no protector and no helper. So the truce was not chosen out of weakness. The win was within reach, and Allah held it back for reasons the verses after it begin to name. That is hard to accept in the moment. When I am asked to hold back, to settle for less than I think I could have taken, can I trust that the restraint is His wisdom and not my loss? And do I remember who gives help, so that I never mistake it for my own strength?",
+    "reflectionBn": "মক্কা থেকে তাঁরা ফিরে এসেছিলেন সেই লড়াই না করেই, যা তাঁদের অনেকে চেয়েছিলেন। মেনে নিতে হয়েছিল এমন শর্ত, যা মনে বিঁধেছিল। তারপর এ আয়াত জানিয়ে দেয়, লড়াইটা হলে কেমন হতো: কাফিররা তোমাদের সঙ্গে যুদ্ধ করলে পিঠ ফিরিয়ে পালাত, আর কোনো অভিভাবক বা সাহায্যকারী পেত না। অর্থাৎ সন্ধি দুর্বলতা থেকে আসেনি। জয় হাতের নাগালেই ছিল, আল্লাহ তা আটকে রেখেছেন এমন কারণে, যা পরের আয়াতগুলো খুলে বলতে শুরু করে। মুহূর্তের মধ্যে এ কথা মেনে নেওয়া কঠিন। আমাকে যখন থেমে যেতে বলা হয়, যতটা নিতে পারতাম বলে মনে হয় তার চেয়ে কমে রাজি হতে বলা হয়, আমি কি ভরসা রাখতে পারি যে এই সংযম তাঁর হিকমত, আমার ক্ষতি নয়? আর সাহায্য কে দেন, তা কি মনে রাখি, যাতে কখনো সেটাকে নিজের শক্তি বলে ভুল না করি?",
+    "pointsEn": [
+      "What have I been asked to hold back from lately, and did I read the holding back as a defeat?",
+      "When I feel sure I would win a quarrel, do I still ask whether winning it is what is best?",
+      "Whom do I count on as my protector and my helper, and how much of that trust belongs to Allah alone?",
+      "Has something I wanted to settle by force ever come right later through patience, and what did that teach me?",
+      "Do I credit my own strength for a success that was really help given to me?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি কোন জিনিস থেকে আমাকে থেমে থাকতে বলা হয়েছে? সেই থেমে থাকাকে কি আমি হার বলে ধরে নিয়েছিলাম?",
+      "কোনো ঝগড়ায় জিতব বলে নিশ্চিত মনে হলেও কি আমি নিজেকে জিজ্ঞেস করি, জেতাটাই আসলে ভালো কি না?",
+      "অভিভাবক আর সাহায্যকারী হিসেবে আমি কার উপর ভরসা করি? সেই ভরসার কতটা কেবল আল্লাহর প্রাপ্য?",
+      "জোর খাটিয়ে যা মেটাতে চেয়েছিলাম, এমন কিছু কি পরে ধৈর্যের পথে ঠিক হয়ে গেছে? তা থেকে কী শিখেছি?",
+      "যে সাফল্য আসলে আমাকে দেওয়া সাহায্য ছিল, তার কৃতিত্ব কি নিজের শক্তিকে দিয়ে বসি?"
+    ],
+    "lessonEn": "Help comes from Allah alone, and holding back when He wills it is not weakness; trust His wisdom when restraint costs you a win you could already see.",
+    "lessonBn": "সাহায্য আসে কেবল আল্লাহর কাছ থেকে। তিনি চাইলে থেমে থাকা দুর্বলতা নয়। যে জয় চোখের সামনে দেখছেন, সংযমের কারণে তা হাতছাড়া হলেও তাঁর হিকমতের উপর ভরসা রাখুন।"
   }
 };
 
