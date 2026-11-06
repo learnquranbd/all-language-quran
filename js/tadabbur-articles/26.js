@@ -6143,6 +6143,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:172": {
+    "sections": [
+      {
+        "h": {
+          "en": "Ten Words to Close It",
+          "bn": "দশ শব্দে সমাপ্তি"
+        },
+        "p": [
+          {
+            "en": "Thumma dammarna al-akharin: then We destroyed the others. The account of Lut (AS) in this surah opens at 26:160 with his people denying the messengers, and for ten verses it is speech: his call to fear Allah, his refusal of any wage, his naming of their deed, their threat to drive him out, his disowning of what they did, and his prayer for rescue. By the article's own count of the Arabic, those ten verses run to sixty-two words.",
+            "bn": "সুম্মা দাম্মারনাল আখারীন: অতঃপর অন্যদের আমি ধ্বংস করে দিলাম। এ সূরায় লূত (আঃ)-এর বৃত্তান্ত শুরু হয় ২৬:১৬০ আয়াতে, যেখানে তাঁর কওম রাসূলদের মিথ্যা বলে প্রত্যাখ্যান করে। এরপর দশটি আয়াত জুড়ে শুধু কথা আর কথা। তিনি আল্লাহকে ভয় করার ডাক দেন, কোনো পারিশ্রমিক চান না বলে জানান, তাদের কাজটির নাম ধরে বলেন। তারা তাঁকে বের করে দেওয়ার হুমকি দেয়। তিনি তাদের কাজ থেকে নিজেকে আলাদা ঘোষণা করেন, তারপর উদ্ধারের জন্য দোয়া করেন। আরবি শব্দ গুনে এ লেখার হিসাবে ওই দশ আয়াতে শব্দ বাষট্টিটি।"
+          },
+          {
+            "en": "Then the pace changes. The rescue in 26:170 takes three words, the exception in 26:171 four, and this verse three. Ten words carry the deliverance, the one left behind and the end of a whole people. The article reads this as a shape the text gives the story: the long part was the warning, and the ending, once it came, needed almost no telling. That is an observation from the wording, not a reading the tafsirs fetched for this verse make.",
+            "bn": "তারপর গতি বদলে যায়। ২৬:১৭০ আয়াতে উদ্ধারের কথা তিনটি শব্দে, ২৬:১৭১ আয়াতে ব্যতিক্রমের কথা চারটি শব্দে, আর এ আয়াতও তিনটি শব্দের। মাত্র দশটি শব্দে বলা হলো রক্ষা পাওয়ার কথা, পেছনে থেকে যাওয়া একজনের কথা, আর গোটা এক জাতির শেষ পরিণতি। এ লেখা কাহিনির এই গড়নটাকে পড়ে এভাবে: লম্বা অংশটা ছিল সতর্ক করার পালা, আর শেষটা যখন এল, তখন তা বলতে প্রায় কিছুই লাগেনি। এটি শব্দবিন্যাস দেখে করা এ লেখার নিজের পর্যবেক্ষণ। এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিতে এমন ব্যাখ্যা নেই।"
+          },
+          {
+            "en": "The voice changes too. Through the dialogue the text reports speech: he said, they said, and the prayer of 26:169 is addressed upward, My Lord. From 26:170 the speaker is Allah Himself, in the first person plural: We saved him, then We destroyed. In the article's reading, the turn is the whole drama of the ending. The people had threatened their prophet with exile, the prophet had handed the matter to his Lord, and the next words in the account are the Lord's own, acting and no longer warning.",
+            "bn": "কণ্ঠস্বরও বদলে যায়। সংলাপের পুরো অংশে বর্ণনা চলে কথা উদ্ধৃত করে: তিনি বললেন, তারা বলল। আর ২৬:১৬৯ আয়াতের দোয়া ওপরের দিকে, হে আমার রব। ২৬:১৭০ থেকে কথা বলছেন স্বয়ং আল্লাহ, নিজের মুখে: আমি তাকে রক্ষা করলাম, তারপর আমি ধ্বংস করলাম। এ লেখার পাঠে সমাপ্তির পুরো নাটকীয়তা এই মোড়টুকুতেই। কওম তাদের নবীকে দেশছাড়া করার হুমকি দিয়েছিল। নবী বিষয়টি তাঁর রবের হাতে সঁপে দিয়েছিলেন। আর বৃত্তান্তে এর পরের কথাগুলো রবের নিজের। এখন আর সতর্ক করা নয়, এখন কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only After the Departure",
+          "bn": "বেরিয়ে যাওয়ার পরেই"
+        },
+        "p": [
+          {
+            "en": "The verse opens with thumma, then, and so sets the destruction after what has just been told. Ibn Kathir, in the abridged English of his commentary on the whole passage from 26:165 to 26:174, joins the pieces in that order. Allah commanded Lut to take his family by night, except his wife, and not to turn round when the Sayhah came upon his people. So they patiently obeyed the command of Allah and persevered, and Allah sent upon the people a punishment which struck them all.",
+            "bn": "আয়াতটি শুরু হয়েছে সুম্মা দিয়ে, যার অর্থ অতঃপর। ফলে ধ্বংসের ঘটনাটি বসেছে ঠিক আগে বলা কথাগুলোর পরে। ইবন কাসীরের তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে ২৬:১৬৫ থেকে ২৬:১৭৪ পর্যন্ত পুরো অংশের আলোচনা আছে। সেখানে তিনি ঘটনাগুলোকে এই ক্রমেই সাজান। আল্লাহ লূতকে আদেশ দিয়েছিলেন, স্ত্রী ছাড়া পরিবারের বাকিদের নিয়ে রাতেই বেরিয়ে যেতে। আরও বলেছিলেন, কওমের উপর যখন সাইহা বা বিকট আওয়াজ নেমে আসবে, তখন যেন কেউ পেছন ফিরে না তাকায়। তাঁরা ধৈর্যের সঙ্গে আল্লাহর হুকুম মেনে চললেন, অবিচল থাকলেন। আর আল্লাহ সেই জনপদের উপর এমন শাস্তি পাঠালেন, যা তাদের সবাইকে গ্রাস করল।"
+          },
+          {
+            "en": "The order is worth noticing. The text does not let the end arrive while those who answered are still inside. It tells of the rescue, sets apart the one who stayed behind, and only then turns to the rest. In the article's reading, this is a judgment that knew whom it was for: no one who had answered the call was swept up with those who refused it. Ibn Kathir's Arabic on 26:171 says the same of the exception: she remained, and perished with those of her people who remained.",
+            "bn": "ক্রমটা খেয়াল করার মতো। যারা ডাকে সাড়া দিয়েছিল, তারা ভেতরে থাকা অবস্থায় শেষ পরিণতি আসেনি। আগে উদ্ধারের কথা, তারপর পেছনে থেকে যাওয়া একজনকে আলাদা করে দেখানো, আর এরপরই বাকিদের কথা। এ লেখার পাঠে এটি এমন এক ফায়সালা, যা জানত কার উপর তা নামছে। যে ডাকে সাড়া দিয়েছিল, সে প্রত্যাখ্যানকারীদের সঙ্গে ভেসে যায়নি। ২৬:১৭১ আয়াতের আরবি তাফসীরে ইবন কাসীর ব্যতিক্রমের ব্যাপারেও একই কথা বলেন: সে থেকে গিয়েছিল, আর নিজের কওমের যারা থেকে গিয়েছিল তাদের সঙ্গেই ধ্বংস হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verb With Its Weight",
+          "bn": "ক্রিয়ার ভেতরের ভার"
+        },
+        "p": [
+          {
+            "en": "Dammarna is from the root d-m-r, with its middle letter doubled. At-Tabari's comment on this verse sits in the quran.com data under 26:173, where he takes the two verses together. He glosses it: then We destroyed the others of the people of Lut bi-t-tadmir, by destruction, using the noun of the same verb. Al-Baghawi glosses it with the plainer verb ahlaka, to destroy. The Jalalayn, in the English carried on quranx, renders it: then We destroyed all the others.",
+            "bn": "দাম্মারনা শব্দটি দ-ম-র ধাতু থেকে, মাঝের অক্ষরটি তাশদীদযুক্ত। এ আয়াতের উপর তাবারীর ব্যাখ্যা quran.com-এর তথ্যভান্ডারে রাখা আছে ২৬:১৭৩ আয়াতের ঘরে, কারণ তিনি দুটি আয়াত একসঙ্গে আলোচনা করেছেন। তাঁর ব্যাখ্যা: অতঃপর লূতের কওমের বাকিদের আমি তাদমীর দিয়ে ধ্বংস করলাম। তাদমীর একই ক্রিয়ার বিশেষ্যরূপ, অর্থ ধ্বংস করা। বাগাভী শব্দটির ব্যাখ্যা দেন আরও সাধারণ ক্রিয়া আহলাকা দিয়ে, যার অর্থও ধ্বংস করা। জালালাইনের যে ইংরেজি অনুবাদ quranx-এ আছে, সেখানে অর্থ করা হয়েছে: অতঃপর বাকি সবাইকে আমি ধ্বংস করলাম।"
+          },
+          {
+            "en": "Al-Muyassar hears more than destruction in it. Then We destroyed those other than them among the disbelievers, it says, with the severest destruction; and closing the next verse it adds that the severest kinds of ruin and destruction were sent down upon them. As-Sa'di's text for this verse only repeats the verse. On 26:173 he adds a short phrase: Allah destroyed them 'an akhirihim, to the last of them, an echo in sound of the verse's al-akharin. Nothing of them was left standing.",
+            "bn": "মুয়াসসার এ শব্দে শুধু ধ্বংস নয়, তার চূড়ান্ত মাত্রাও শুনতে পায়। তার ভাষায়: তারা ছাড়া কাফেরদের মধ্যে বাকি যারা ছিল, তাদের আমি ধ্বংস করলাম সবচেয়ে কঠিন ধ্বংসে। পরের আয়াতের ব্যাখ্যার শেষে আরও বলা হয়েছে, তাদের উপর নামানো হয়েছিল ধ্বংস ও বিনাশের সবচেয়ে কঠিন ধরনগুলো। এ আয়াতের জন্য সা'দীর পাঠে আয়াতটি শুধু আবার উদ্ধৃত হয়েছে। তবে ২৬:১৭৩ আয়াতে তিনি ছোট একটি কথা যোগ করেন: আল্লাহ তাদের ধ্বংস করলেন আন আখিরিহিম, অর্থাৎ শেষ জনটি পর্যন্ত। কথাটির ধ্বনি আয়াতের আল-আখারীন শব্দের কাছাকাছি। তাদের কেউই আর টিকে থাকেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named Only as the Rest",
+          "bn": "পরিচয় শুধু বাকিরা"
+        },
+        "p": [
+          {
+            "en": "Al-akharin, the others, is defined by what it is not. The verse does not name them, describe them or count them; they are simply those other than the ones just saved. At-Tabari specifies them as the others of the people of Lut. Al-Muyassar's phrase is those other than them among the disbelievers, so its line runs between the rescued and those who disbelieved. The Tanwir al-Miqbas, in the English on quranx, puts it as: We destroyed the remainder of his people.",
+            "bn": "আল-আখারীন, অর্থাৎ অন্যরা। শব্দটির পরিচয় তৈরি হয়েছে তারা কী নয়, তা দিয়ে। আয়াত তাদের নাম বলে না, বর্ণনা দেয় না, সংখ্যাও জানায় না। তারা কেবল সেই লোকেরা, যারা এইমাত্র রক্ষা পাওয়া দলের বাইরে। তাবারী তাদের চিহ্নিত করেন লূতের কওমের বাকি লোক হিসেবে। মুয়াসসারের ভাষায় তারা হলো রক্ষাপ্রাপ্তরা ছাড়া কাফেরদের বাকি অংশ। অর্থাৎ তার টানা রেখা চলে গেছে উদ্ধার পাওয়া মানুষ আর কুফরকারীদের মাঝখান দিয়ে। quranx-এ তানবীরুল মিকবাসের যে ইংরেজি আছে, সেখানে বলা হয়েছে: তাঁর কওমের অবশিষ্ট লোকদের আমি ধ্বংস করলাম।"
+          },
+          {
+            "en": "Al-Muyassar, on the two verses before, has the rescued as his household and those who answered his call. The others are whoever was left. In the article's reading, the namelessness is part of the verse's restraint. The account does not linger over the destroyed, list them or describe their last moments. The deed that brought them here was named in 26:165 and 26:166, and the text spends nothing more on it now. The reader is not invited to stare at their end, only to know that it came.",
+            "bn": "আগের দুই আয়াতের ব্যাখ্যায় মুয়াসসার রক্ষাপ্রাপ্তদের বলেছে তাঁর পরিবার এবং যারা তাঁর দাওয়াতে সাড়া দিয়েছিল। অন্যরা হলো যারা বাকি রইল। এ লেখার পাঠে এই নামহীনতাও আয়াতের সংযমের অংশ। ধ্বংসপ্রাপ্তদের নিয়ে বৃত্তান্ত আর থামে না, তাদের তালিকা দেয় না, শেষ মুহূর্তের বর্ণনাও দেয় না। যে কাজ তাদের এই পরিণতিতে এনেছিল, তার নাম আগেই বলা হয়েছে ২৬:১৬৫ ও ২৬:১৬৬ আয়াতে। এখানে সে বিষয়ে আর একটি শব্দও খরচ হয়নি। পাঠককে তাদের পরিণতির দিকে তাকিয়ে থাকতে ডাকা হচ্ছে না। শুধু জানানো হচ্ছে, পরিণতি এসেছিল।"
+          },
+          {
+            "en": "One description of them does follow, in the next verse: al-mundharin, those who were warned. At-Tabari explains the evil rain as the rain of the people whom their prophet warned and who called him a liar. Al-Muyassar says the same of those whom their messengers warned and who did not answer them. Read together, the others of this verse are not a people taken unaware. They had heard everything recorded in the ten verses before, and the end came to those who had heard it and refused.",
+            "bn": "পরের আয়াতে অবশ্য তাদের একটি পরিচয় আসে: আল-মুনযারীন, যাদের সতর্ক করা হয়েছিল। তাবারী সেই মন্দ বৃষ্টির ব্যাখ্যা দেন এভাবে: এ সেই কওমের বৃষ্টি, যাদের নবী তাদের সতর্ক করেছিলেন, আর তারা তাঁকে মিথ্যাবাদী বলেছিল। মুয়াসসারও একই কথা বলে: যাদের রাসূলগণ তাদের সতর্ক করেছিলেন, অথচ তারা সাড়া দেয়নি। দুটি আয়াত একসঙ্গে পড়লে বোঝা যায়, এ আয়াতের অন্যরা অসতর্ক অবস্থায় ধরা পড়া কোনো জাতি নয়। আগের দশটি আয়াতে যা লেখা আছে, তার সবই তারা শুনেছিল। পরিণতি এসেছিল তাদের উপর, যারা শুনেও প্রত্যাখ্যান করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swallowed Ground, Falling Stone",
+          "bn": "দেবে যাওয়া মাটি, ঝরে পড়া পাথর"
+        },
+        "p": [
+          {
+            "en": "The verse says only that they were destroyed. The commentators fill in the manner, each in his own words. Al-Qurtubi glosses dammarna as We destroyed them bi-l-khasf wa-l-hasb: by the earth swallowing them and by pelting. He then cites Muqatil, who divides the two: Allah made the ground swallow the people of Lut, and sent the stones upon whoever was outside the town. On that report, each mode of punishment found its own people, those inside the town and those outside it.",
+            "bn": "আয়াত শুধু বলে, তাদের ধ্বংস করা হয়েছিল। কীভাবে, সে কথা তাফসীরকারেরা নিজ নিজ ভাষায় খুলে বলেন। কুরতুবী দাম্মারনার ব্যাখ্যা দেন এভাবে: আমি তাদের ধ্বংস করলাম খাসফ ও হাসব দিয়ে। খাসফ মানে মাটিতে দাবিয়ে দেওয়া, আর হাসব মানে পাথর ছুড়ে মারা। এরপর তিনি মুকাতিলের কথা আনেন, যিনি দুটিকে দুই দলের মধ্যে ভাগ করেন। আল্লাহ লূতের কওমকে মাটিতে দাবিয়ে দিলেন, আর জনপদের বাইরে যারা ছিল, তাদের উপর পাঠালেন পাথর। এ বর্ণনা অনুযায়ী শাস্তির প্রতিটি ধরন তার নিজের লোকদের খুঁজে নিয়েছিল, জনপদের ভেতরের লোকদেরও, বাইরের লোকদেরও।"
+          },
+          {
+            "en": "Ibn Kathir, in his Arabic on this verse, keeps to one sweep: Allah sent down upon them the punishment that covered all of them, and rained upon them stones of sijjil mandud, baked clay in layers. Those are words from 11:82. At-Tabari, taking 26:173 in the same comment, says the rain was Allah's sending stones of sijjil upon them from the sky. Al-Muyassar has stones from the sky falling like rain, which destroyed them, and as-Sa'di on 26:173 also names the stones of sijjil.",
+            "bn": "এ আয়াতের আরবি তাফসীরে ইবন কাসীর পুরো ঘটনাটিকে এক টানে বলেন। আল্লাহ তাদের উপর এমন আযাব নামালেন, যা তাদের সবাইকে ঘিরে ফেলল, আর তাদের উপর বর্ষণ করলেন সিজ্জীলের পাথর, স্তরে স্তরে সাজানো পোড়া মাটির পাথর। এই শব্দগুলো ১১:৮২ আয়াতের। তাবারী একই আলোচনায় ২৬:১৭৩ আয়াতও ধরেছেন। তিনি বলেন, সেই বৃষ্টি ছিল আকাশ থেকে তাদের উপর আল্লাহর পাঠানো সিজ্জীলের পাথর। মুয়াসসার বলেছে, আকাশ থেকে বৃষ্টির মতো পাথর নেমে তাদের ধ্বংস করেছিল। ২৬:১৭৩ আয়াতে সা'দীও সিজ্জীলের পাথরের কথাই বলেন।"
+          },
+          {
+            "en": "Al-Qurtubi, on 26:173, adds a report he introduces with qila, it has been said: Jibril made their town sink and turned its top to its bottom, and then Allah followed it with the stones. The turning itself is in the Qur'an, in 11:82: We made its highest part its lowest and rained upon it stones of baked clay, layer on layer. The angel's part in it comes only as an unnamed report. Muqatil's division and Ibn Kathir's single sweep stand side by side here, and the verse settles neither.",
+            "bn": "২৬:১৭৩ আয়াতে কুরতুবী আরেকটি বর্ণনা যোগ করেন, যার শুরুতে তিনি বলেন কীলা, অর্থাৎ বলা হয়ে থাকে। জিবরীল তাদের জনপদকে মাটিতে দাবিয়ে দেন, তার উপরের অংশ নিচে উল্টে দেন, তারপর আল্লাহ তার পেছনে পাথর পাঠান। উল্টে দেওয়ার কথাটা কুরআনেই আছে, ১১:৮২ আয়াতে: আমি জনপদের উপরিভাগকে নিচে করে দিলাম, আর তার উপর বর্ষণ করলাম স্তরে স্তরে পোড়া মাটির পাথর। তবে এতে ফেরেশতার ভূমিকার কথা এসেছে কেবল নামহীন এক বর্ণনায়। মুকাতিলের ভাগ করে দেখানো আর ইবন কাসীরের এক টানে বলা, দুটিই এখানে পাশাপাশি রইল। আয়াত কোনোটির পক্ষে রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports to Hold Lightly",
+          "bn": "যে বর্ণনা হালকা হাতে ধরতে হয়"
+        },
+        "p": [
+          {
+            "en": "Two further accounts reach beyond what the verse and these tafsirs establish. Al-Baghawi, on 26:173, has only this: Wahb ibn Munabbih said, sulphur and fire. The text gives the report no source beyond Wahb, no chain to the Prophet ﷺ, and the Qur'an's wording in this passage says rain and stones, not sulphur. The article records it as Wahb's word, under his name, and builds nothing on it. A detail that cannot be traced past its teller is not made the meaning of a verse.",
+            "bn": "আরও দুটি বর্ণনা আয়াত আর এ তাফসীরগুলো যতটুকু প্রতিষ্ঠিত করে, তার বাইরে চলে যায়। ২৬:১৭৩ আয়াতে বাগাভী শুধু এটুকু বলেন: ওয়াহব ইবন মুনাব্বিহ বলেছেন, গন্ধক ও আগুন। বর্ণনাটির উৎস হিসেবে ওয়াহবের পরে আর কারও নাম নেই, নবী ﷺ পর্যন্ত কোনো সনদও নেই। আর এ অংশে কুরআনের শব্দ বলছে বৃষ্টি ও পাথরের কথা, গন্ধকের কথা নয়। তাই এ লেখা কথাটিকে ওয়াহবের নামেই উল্লেখ করছে, এর উপর কিছু দাঁড় করাচ্ছে না। যে খুঁটিনাটি বর্ণনাকারীর পরে আর খুঁজে পাওয়া যায় না, তাকে আয়াতের অর্থ বানানো যায় না।"
+          },
+          {
+            "en": "Maududi's Tafhim al-Qur'an, carried on quranx for 26:165 to 26:173, goes further and names its own sources. It gives a summary of the Biblical account, of ancient Greek and Latin writings and of modern geological and archaeological findings, and from them reconstructs an earthquake and a burning of the region by the Dead Sea. Material from the Bible and the earlier peoples' books is what the scholars call Isra'iliyyat, and Maududi labels it himself. The article does not adopt that reconstruction. The verse makes its point by the fact of the end, not by its geology.",
+            "bn": "quranx-এ ২৬:১৬৫ থেকে ২৬:১৭৩ আয়াতের জন্য মওদূদীর তাফহীমুল কুরআন আছে। তিনি আরও এগিয়ে যান, আর নিজের উৎসের নামও বলে দেন। সেখানে তিনি বাইবেলের বিবরণ, প্রাচীন গ্রিক ও লাতিন লেখা এবং আধুনিক ভূতাত্ত্বিক ও প্রত্নতাত্ত্বিক পর্যবেক্ষণের সারসংক্ষেপ দেন। তা থেকে মৃত সাগরের পাশের অঞ্চলে এক ভূমিকম্প আর আগুনে পুড়ে যাওয়ার ছবি নতুন করে গড়ে তোলেন। বাইবেল ও আগের জাতিগুলোর কিতাব থেকে আসা উপাদানকে আলেমরা ইসরাঈলিয়াত বলেন, আর মওদূদী নিজেই সেটাকে উৎস হিসেবে চিহ্নিত করেছেন। এ লেখা সেই পুনর্গঠন গ্রহণ করছে না। আয়াত তার কথা বলে পরিণতির ঘটনা দিয়ে, তার ভূতত্ত্ব দিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enter Only in Tears",
+          "bn": "প্রবেশ শুধু কান্না নিয়ে"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it, and none gives an occasion of revelation for it. One sound narration bears on how such an account is received, though it is not tied to this verse. In Sahih al-Bukhari (433), Abdullah ibn Umar (RA) reports that the Messenger of Allah ﷺ said: Do not enter upon these people who were punished unless you are weeping. If you are not weeping, do not enter upon them, lest what struck them strike you.",
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও উল্লেখ করেনি। তবে একটি সহীহ বর্ণনা আছে, যা দেখায় এমন বৃত্তান্ত কীভাবে গ্রহণ করতে হয়, যদিও তা এ আয়াতের সঙ্গে যুক্ত নয়। সহীহ বুখারীতে (৪৩৩) আবদুল্লাহ ইবন উমর (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: শাস্তিপ্রাপ্ত এই লোকদের কাছে কাঁদতে কাঁদতে ছাড়া প্রবেশ কোরো না। যদি কাঁদতে না পারো, তবে তাদের কাছে প্রবেশই কোরো না, যাতে তাদের উপর যা এসেছিল, তা তোমাদের উপর না আসে।"
+          },
+          {
+            "en": "The narration does not name the people it means, and the article supplies no name. What it carries is a manner of approach. The Prophet ﷺ allowed his companions near the places of the punished only in tears, and the reason he gave was fear for them, not contempt for the dead: lest what struck them strike you. In the article's reading, this verse asks to be read the same way. Its right effect on a believer is a fear that turns inward, not a verdict that points outward at someone else.",
+            "bn": "বর্ণনাটি কোন লোকদের কথা বলছে, তাদের নাম বলেনি, আর এ লেখাও কোনো নাম জুড়ে দিচ্ছে না। হাদীসটি যা শেখায় তা হলো কাছে যাওয়ার আদব। শাস্তিপ্রাপ্তদের জায়গার কাছে নবী ﷺ সাহাবীদের যেতে দিয়েছেন শুধু চোখে পানি নিয়ে। আর কারণ হিসেবে বলেছেন সাহাবীদের জন্য ভয়ের কথা, মৃতদের প্রতি তাচ্ছিল্যের কথা নয়: যাতে তাদের উপর যা এসেছিল, তা তোমাদের উপর না আসে। এ লেখার পাঠে এ আয়াতও এভাবেই পড়তে হয়। মুমিনের উপর এর সঠিক প্রভাব হলো এমন ভয়, যা নিজের দিকে ফেরে। অন্যের দিকে আঙুল তোলা রায় নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning, Never a Weapon",
+          "bn": "সতর্কবাণী, অস্ত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the end of one people, at one time, by Allah's decree, after a prophet's long warning. It licenses nothing against any living person or community. It hands no one the role of punisher, since the destroying here is Allah's own act, We destroyed, and the account gives it to no human hand. Whoever takes this verse as leave to harm, shame or threaten anyone has taken a story about Allah's judgment and made himself the judge.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত কেবল সেটুকুই বর্ণনা করে, যা পাঠে আছে: এক নবীর দীর্ঘ সতর্কবাণীর পর, এক সময়ে, আল্লাহর ফায়সালায় একটি জাতির শেষ পরিণতি। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুরই অনুমতি এ আয়াত দেয় না। কাউকে শাস্তিদাতার আসনেও বসায় না। কারণ এখানে ধ্বংস করা আল্লাহর নিজের কাজ, আমি ধ্বংস করলাম, আর বৃত্তান্ত তা কোনো মানুষের হাতে তুলে দেয়নি। কেউ যদি এ আয়াতকে কারও ক্ষতি করা, অপমান করা বা ভয় দেখানোর ছাড়পত্র বানায়, তবে আল্লাহর ফায়সালার এক কাহিনি নিয়ে সে নিজেকেই বিচারক বানিয়ে ফেলল।"
+          },
+          {
+            "en": "The passage then says what the account is for. In 26:174 and 26:175: in that is a sign, though most of them were not believers, and your Lord is the Exalted in Might, the Merciful. The same refrain closes each prophet's account in this surah, so the ruin stands between a sign and a mercy. In the article's reading, the three words of this verse are brief so that no reader mistakes the length of a warning for its permanence. The time to turn is while the warning is still being given.",
+            "bn": "এরপর অংশটি জানিয়ে দেয়, বৃত্তান্তটি কিসের জন্য। ২৬:১৭৪ ও ২৬:১৭৫ আয়াতে বলা হয়েছে: নিশ্চয় এতে আছে নিদর্শন, কিন্তু তাদের অধিকাংশই মুমিন ছিল না। আর আপনার রব, তিনিই মহাপরাক্রমশালী, পরম দয়ালু। এ সূরায় প্রত্যেক নবীর বৃত্তান্ত শেষ হয় এই একই কথায়। ফলে ধ্বংসের ঘটনাটি দাঁড়িয়ে থাকে এক নিদর্শন আর এক রহমতের মাঝখানে। এ লেখার পাঠে এ আয়াতের তিনটি শব্দ এত ছোট, যাতে কোনো পাঠক সতর্কবাণী দীর্ঘ বলে তাকে চিরস্থায়ী ভেবে না বসে। ফিরে আসার সময় তখনই, যখন সতর্কবাণী এখনো দেওয়া হচ্ছে।"
+          }
+        ]
+      }
+    ]
+  },
   "26:178": {
     "sections": [
       {

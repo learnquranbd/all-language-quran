@@ -24489,6 +24489,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Brotherhood can be made by living among people and wanting their good, and the first word a true brother brings them is not their fault but the fear of Allah.",
     "lessonBn": "মানুষের মাঝে বাস করে তাদের মঙ্গল চাইলেই ভ্রাতৃত্ব গড়ে ওঠে। আর সত্যিকারের ভাই প্রথমে তাদের দোষ নয়, আল্লাহর ভয়ের কথাই নিয়ে আসে।"
+  },
+  "26:172": {
+    "reflectionEn": "The story of Lut (AS) runs long: a warning given again and again, a threat of exile, a prophet who would not stop calling his people back. Then it closes in three words. Then We destroyed the others. No speech, no final scene, no last exchange. The rescue is told first, and only after it the ruin, and the ruin is given only three words. The warning was long because the door stood open for a long time. The ending is short because once it shut, nothing was left to say. I am not reading about strangers so that I can feel safe. I am being shown how long the door stays open, and that it does not stay open forever.",
+    "reflectionBn": "লূত (আঃ)-এর কাহিনি অনেক লম্বা। বারবার সতর্ক করা, দেশছাড়া করার হুমকি, আর এক নবী, যিনি নিজের কওমকে ফিরে আসার ডাক দিতে কখনো থামেননি। তারপর কাহিনি শেষ হয় তিনটি শব্দে: অতঃপর অন্যদের আমি ধ্বংস করে দিলাম। কোনো ভাষণ নেই, শেষ কোনো দৃশ্য নেই, শেষ কোনো কথোপকথনও নেই। আগে বলা হয়েছে উদ্ধারের কথা, তার পরে ধ্বংসের কথা। আর সেই ধ্বংসের জন্য খরচ হয়েছে মাত্র তিনটি শব্দ। সতর্কবাণী লম্বা ছিল, কারণ দরজা খোলা ছিল বহুদিন। শেষটা ছোট, কারণ দরজা বন্ধ হওয়ার পর বলার মতো আর কিছু বাকি থাকেনি। অচেনা কোনো জাতির কথা পড়ে নিজেকে নিরাপদ ভাবার জন্য আমি এ আয়াত পড়ছি না। আমাকে দেখানো হচ্ছে, দরজা কতদিন খোলা থাকে, আর এটাও যে চিরকাল খোলা থাকে না।",
+    "pointsEn": [
+      "Which warning have I heard so many times that I now treat it as if it will always be repeated?",
+      "When I read of a people destroyed, is my first feeling fear for myself or relief that it is about someone else?",
+      "Have I ever used an account of punishment to point at other people instead of at my own heart?",
+      "If the end of my own story were told in a single line, what would I want that line to say?",
+      "What am I still postponing because it seems there will always be time?"
+    ],
+    "pointsBn": [
+      "কোন সতর্কবাণী আমি এতবার শুনেছি যে এখন ধরে নিই, ওটা বুঝি বারবারই আসতে থাকবে?",
+      "কোনো জাতির ধ্বংসের কথা পড়লে আমার মনে প্রথমে কী জাগে: নিজের জন্য ভয়, নাকি এই স্বস্তি যে কথাটা অন্য কারও সম্পর্কে?",
+      "শাস্তির কোনো বর্ণনা টেনে এনে আমি কি কখনো নিজের দিলের দিকে না তাকিয়ে অন্যদের দিকে আঙুল তুলেছি?",
+      "আমার নিজের কাহিনির শেষটা যদি এক লাইনে বলা হয়, সেই লাইনে কী থাকুক বলে আমি চাই?",
+      "সময় তো সবসময়ই থাকবে, এই ভেবে কোন কাজটা আমি এখনো পিছিয়ে রাখছি?"
+    ],
+    "lessonEn": "Allah's warnings are long and patient, but His judgment, when it comes, is brief and complete; turn back while the warning is still being given.",
+    "lessonBn": "আল্লাহর সতর্কবাণী দীর্ঘ ও ধৈর্যশীল, কিন্তু তাঁর ফায়সালা যখন আসে, তখন তা সংক্ষিপ্ত ও পূর্ণাঙ্গ। তাই সতর্কবাণী চলতে চলতেই ফিরে আসুন।"
   }
 };
 
