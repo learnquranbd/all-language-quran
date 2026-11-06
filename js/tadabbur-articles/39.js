@@ -623,6 +623,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:16": {
+    "sections": [
+      {
+        "h": {
+          "en": "Inside the Manifest Loss",
+          "bn": "স্পষ্ট ক্ষতির ভেতরের ছবি"
+        },
+        "p": [
+          {
+            "en": "Verse 39:15 ended on a verdict: the losers are those who lose themselves and their families on the Day of Resurrection, and that is the manifest loss. Verse 39:16 does not change the subject. It shows what that loss looks like from the inside. Ibn Kathir opens his comment with a single clause: then He describes their state in the Fire. At-Tabari reads the whole verse as spoken about these losers on the Day of Resurrection, in Jahannam, and al-Muyassar begins its gloss the same way: those losers will have, on that Day and in that place, what the verse goes on to name.",
+            "bn": "৩৯:১৫ আয়াত শেষ হয়েছিল এক রায় দিয়ে: ক্ষতিগ্রস্ত তারাই, যারা কিয়ামতের দিন নিজেদের আর নিজেদের পরিবারকে হারিয়ে ফেলে। এটাই স্পষ্ট ক্ষতি। ৩৯:১৬ আয়াত প্রসঙ্গ বদলায় না। সেই ক্ষতির ভেতরটা কেমন, এবার তা দেখায়। ইবন কাসীর তাঁর ব্যাখ্যা শুরু করেন ছোট্ট এক বাক্যে: এরপর আল্লাহ জাহান্নামে তাদের অবস্থার বর্ণনা দিলেন। তাবারীর পাঠে গোটা আয়াতটাই কিয়ামতের দিন জাহান্নামে থাকা এই ক্ষতিগ্রস্তদের নিয়ে। মুয়াসসারও শুরু করে একইভাবে: ওই ক্ষতিগ্রস্তদের জন্য সেদিন সেখানে থাকবে আয়াতে যা বলা হচ্ছে।"
+          },
+          {
+            "en": "The abridged English Ibn Kathir treats 39:13 to 39:16 as one passage, and that framing matters. It explains the loss of families in 39:15 as separation: they will never meet again or feel happiness again, whether the families went to Paradise while they went to Hell, or all of them went to Hell. The passage opens with the fear the Prophet ﷺ was told to voice in 39:13, I fear, if I disobey my Lord, the punishment of a tremendous Day. Ibn Kathir calls it a conditional sentence and draws the inference: if it applies to the Prophet, it applies even more so to others.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৩৯:১৩ থেকে ৩৯:১৬ পর্যন্ত আয়াতগুলোকে একটি অংশ ধরে আলোচনা করে, আর এই কাঠামোটা গুরুত্বপূর্ণ। ৩৯:১৫ আয়াতে পরিবার হারানোর মানে সেখানে বিচ্ছেদ। তারা আর কখনো মিলিত হবে না, কখনো আনন্দ পাবে না। পরিবার জান্নাতে গিয়ে তারা জাহান্নামে গেলেও, কিংবা সবাই জাহান্নামে গেলেও। অংশটির শুরু ৩৯:১৩ আয়াতের সেই ভয় দিয়ে, যা নবী ﷺ-কে মুখে বলতে আদেশ করা হয়েছিল: আমি যদি আমার রবের নাফরমানি করি, তবে এক মহাদিবসের শাস্তির ভয় করি। ইবন কাসীর একে শর্তযুক্ত বাক্য বলেন এবং সিদ্ধান্ত টানেন: নবীর বেলায় কথাটা খাটলে অন্যদের বেলায় তো আরও বেশি খাটে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shelter Made of Fire",
+          "bn": "আগুনে গড়া ছাউনি"
+        },
+        "p": [
+          {
+            "en": "Lahum min fawqihim zulalun min al-nar: they will have, above them, canopies of fire. The commentators reach for different pictures to render the word. At-Tabari says they will have the shape of canopies built out of fire, ka-hay'at al-zulal al-mabniyya. Al-Muyassar keeps his phrase and names the substance: pieces of punishment from the Fire, shaped like built canopies. As-Sa'di keeps the pieces of punishment and changes the image to a vast cloud. Al-Baghawi gives the fullest description: layers of pavilions made of fire and of its smoke.",
+            "bn": "লাহুম মিন ফাওকিহিম যুলালুম মিনান নার: তাদের মাথার উপরে থাকবে আগুনের ছাউনি। শব্দটা বোঝাতে তাফসীরকারেরা ভিন্ন ভিন্ন ছবি বেছে নেন। তাবারী বলেন, এগুলো হবে আগুন দিয়ে বানানো ছাউনির মতো। মুয়াসসার তাঁর কথাটাই রাখে, সঙ্গে জানিয়ে দেয় ছাউনি কিসের: আগুনের শাস্তির টুকরো, দেখতে গড়ে তোলা ছাউনির মতো। সা'দীও শাস্তির টুকরোর কথা বলেন, তবে ছবিটা বদলে দেন বিশাল মেঘে। সবচেয়ে পূর্ণ বর্ণনা বাগাভীর: আগুন আর তার ধোঁয়ায় তৈরি তাঁবুর স্তরের পর স্তর।"
+          },
+          {
+            "en": "Each picture keeps one side of the word. A built canopy is a solid roof. A cloud is something that spreads overhead and shuts out the sky. A pavilion is a tent raised over the people inside it. What the pictures share is that the covering is made of the very thing a covering is meant to keep off. In this world a person steps under an awning to get out of the heat. In the verse the awning is the heat itself, and there is nowhere further in to step.",
+            "bn": "প্রতিটি ছবি শব্দটার একেকটা দিক ধরে রাখে। গড়ে তোলা ছাউনি মানে শক্ত ছাদ। মেঘ মাথার উপর ছড়িয়ে আকাশ ঢেকে দেয়। তাঁবু খাটানো হয় ভেতরের মানুষের উপর। সব ছবিতে মিল একটাই: যা থেকে বাঁচাতে আড়াল থাকে, আড়ালটাই সেই জিনিসে তৈরি। দুনিয়ায় মানুষ রোদের তাপ থেকে বাঁচতে চালার নিচে গিয়ে দাঁড়ায়। আয়াতে চালাটাই আগুন, আর তার চেয়ে ভেতরে সরে যাওয়ার কোনো জায়গা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Canopy Beneath the Feet",
+          "bn": "পায়ের নিচেও ছাউনি"
+        },
+        "p": [
+          {
+            "en": "Then the verse says something stranger: wa min tahtihim zulal, and below them, canopies. A canopy belongs overhead, so how can what lies underneath carry the same name? Al-Qurtubi meets the question directly. What is beneath them was called zulal, he says, because it shades those who are beneath them. Al-Baghawi says the same in nearly the same words: the lower part was named zulal because it is a canopy for whoever is under them.",
+            "bn": "এরপর আয়াত আরও অদ্ভুত একটা কথা বলে: ওয়া মিন তাহতিহিম যুলাল, আর তাদের নিচেও ছাউনি। ছাউনি তো থাকে মাথার উপরে। তাহলে নিচে যা আছে, তার নাম ছাউনি হয় কী করে? কুরতুবী প্রশ্নটার সরাসরি জবাব দেন। তাদের নিচে যা আছে তাকে যুলাল বলা হয়েছে, কারণ সেটা তাদের নিচের লোকদের উপর ছায়া ফেলে। বাগাভীও প্রায় একই ভাষায় বলেন: নিচের অংশকে যুলাল নাম দেওয়া হয়েছে, কারণ যারা তাদের নিচে আছে, তাদের জন্য সেটাই ছাউনি।"
+          },
+          {
+            "en": "On this reading the Fire is pictured in tiers. The floor of one tier is the roof of the tier below, so a single layer is a bed for the people lying on it and a canopy for the people under it. Al-Baghawi fills in the downward direction: beneath them is a spread and a bedding of fire, continuing until it reaches the very bottom. The word is not being stretched. It is used from the point of view of someone further down, for whom that floor is overhead.",
+            "bn": "এ ব্যাখ্যায় জাহান্নামের ছবিটা স্তরে স্তরে সাজানো। এক স্তরের মেঝে তার নিচের স্তরের ছাদ। ফলে একই স্তর উপরে শুয়ে থাকা মানুষের জন্য বিছানা, আর নিচের মানুষের জন্য ছাউনি। বাগাভী নিচের দিকটা আরও খুলে বলেন: তাদের নিচে আগুনের বিছানা আর শয্যা, একেবারে তলদেশ পর্যন্ত। এখানে শব্দের অর্থ টেনে লম্বা করা হচ্ছে না। আরও নিচে যে আছে, তার চোখ দিয়ে দেখা হচ্ছে। তার কাছে ওই মেঝেটাই মাথার উপরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fire Rising From Underneath",
+          "bn": "নিচ থেকে উঠে আসা আগুন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains the same phrase another way, and the difference is worth keeping. On wa min tahtihim zulal he writes that beneath them there is, of the Fire, what rises up over them, until what rises over them from beneath becomes canopies. On his reading the lower covering does not belong to someone else's tier. It is the fire under these same people, climbing until it closes over them. What began underneath ends up overhead, and so earns the name of a canopy.",
+            "bn": "তাবারী একই অংশের ব্যাখ্যা দেন অন্যভাবে, আর এই পার্থক্যটা মনে রাখার মতো। ওয়া মিন তাহতিহিম যুলাল প্রসঙ্গে তিনি লেখেন: তাদের নিচে আগুনের এমন অংশ আছে যা উপরে উঠে তাদের ঢেকে ফেলে। শেষে নিচ থেকে উঠে আসা সেই আগুনই হয়ে যায় ছাউনি। তাঁর পাঠে নিচের আড়ালটা অন্য কোনো স্তরের লোকদের নয়। এ সেই একই মানুষদের পায়ের নিচের আগুন, যা উঠতে উঠতে তাদের উপর বন্ধ হয়ে আসে। যা শুরু হয়েছিল নিচে, তা গিয়ে পৌঁছায় মাথার উপরে। তাই তার নাম ছাউনি।"
+          },
+          {
+            "en": "He supports it with 7:41: lahum min jahannama mihadun wa min fawqihim ghawash, theirs is a bed of Hell and over them coverings. At-Tabari glosses the ghawash as coverings that envelop them from what lies beneath them there, in that bed. So for him the bed and the covering are one fire seen from two sides. Al-Qurtubi and al-Baghawi place the lower canopy over other people; at-Tabari places it over the same people, rising from below. Both explanations stand in the sources, and this article does not choose between them.",
+            "bn": "নিজের ব্যাখ্যার পক্ষে তিনি আনেন ৭:৪১ আয়াত: লাহুম মিন জাহান্নামা মিহাদুন ওয়া মিন ফাওকিহিম গাওয়াশ, তাদের জন্য জাহান্নামের বিছানা, আর উপরে আচ্ছাদন। তাবারীর ব্যাখ্যায় এই আচ্ছাদন সেই বিছানা থেকেই উঠে এসে তাদের ঢেকে ফেলে। অর্থাৎ তাঁর কাছে বিছানা আর আচ্ছাদন একই আগুন, দুই দিক থেকে দেখা। কুরতুবী ও বাগাভী নিচের ছাউনিটা রাখেন অন্য মানুষদের মাথার উপর। তাবারী রাখেন একই মানুষদের উপর, নিচ থেকে উঠে আসা অবস্থায়। দুটো ব্যাখ্যাই তাফসীরে আছে, এ লেখা কোনোটিকে বেছে নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Above and Under the Feet",
+          "bn": "মাথার উপরে, পায়ের তলায়"
+        },
+        "p": [
+          {
+            "en": "Four of the commentators point to the same neighbouring verses. Ibn Kathir sets the verse beside two others. One is 7:41, the bed of Hell beneath and the coverings above. The other is 29:55: on the Day the punishment covers them from above them and from beneath their feet, and it is said, taste what you used to do. Al-Qurtubi cites the same two verses as parallels, al-Baghawi cites 7:41, and at-Tabari, as seen, builds his reading on it.",
+            "bn": "চারজন তাফসীরকার একই আয়াতগুলোর দিকে ইঙ্গিত করেন। ইবন কাসীর আয়াতটিকে আরও দুটি আয়াতের পাশে রাখেন। একটি ৭:৪১, নিচে জাহান্নামের বিছানা আর উপরে আচ্ছাদন। অন্যটি ২৯:৫৫: সেদিন শাস্তি তাদের ঢেকে ফেলবে মাথার উপর থেকে আর পায়ের নিচ থেকে, আর বলা হবে, তোমরা যা করতে তার স্বাদ নাও। কুরতুবী সমার্থক আয়াত হিসেবে এ দুটিই উল্লেখ করেন। বাগাভী আনেন ৭:৪১, আর তাবারী তো আগেই দেখা গেল, নিজের ব্যাখ্যাই দাঁড় করান এর উপর।"
+          },
+          {
+            "en": "Read together, the verses name the same two directions, above and below, and 29:55 brings the second one right down to the feet. No side is left open. The surah itself adds a contrast a few verses on, though none of the commentaries fetched for 39:16 draws it. In 39:20 those mindful of their Lord are promised ghuraf, chambers, with chambers built above them and rivers flowing beneath. Layer upon layer appears twice in the passage, once as fire and once as rooms.",
+            "bn": "একসঙ্গে পড়লে আয়াতগুলো একই দুই দিকের নাম নেয়, উপর আর নিচ। ২৯:৫৫ নিচের দিকটাকে নামিয়ে আনে একেবারে পায়ের তলায়। কোনো দিক খোলা থাকে না। সূরাটি নিজেই কয়েক আয়াত পরে একটা বৈপরীত্য দেখায়, যদিও ৩৯:১৬ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই তা তুলে ধরেনি। ৩৯:২০ আয়াতে রবকে ভয় করা মানুষদের প্রতিশ্রুতি দেওয়া হয়েছে গুরাফের, অর্থাৎ প্রাসাদের। সেগুলোর উপরে আরও প্রাসাদ, নিচ দিয়ে বয়ে চলে নদী। স্তরের উপর স্তর এ অংশে আসে দুবার: একবার আগুন হয়ে, একবার বাসঘর হয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told So That They Stop",
+          "bn": "থামানোর জন্যই এ বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Then the verse explains itself: dhalika yukhawwifu Allahu bihi 'ibadah, that is what Allah frightens His servants with. Ibn Kathir reads it as a statement of purpose. Allah relates the report of this thing, which will come to pass without any doubt, only in order to frighten His servants by it, so that they hold back from what is forbidden and from sins. The description is not offered for its own sake. It is told so that someone listening will stop.",
+            "bn": "এরপর আয়াত নিজের উদ্দেশ্য নিজেই বলে দেয়: যালিকা ইউখাওউইফুল্লাহু বিহী 'ইবাদাহ, এ দিয়েই আল্লাহ তাঁর বান্দাদের ভয় দেখান। ইবন কাসীর একে উদ্দেশ্যের ঘোষণা হিসেবে পড়েন। যা নিশ্চিতভাবে ঘটবেই, আল্লাহ তার খবর শোনান কেবল এ জন্য যে এর মাধ্যমে বান্দারা ভয় পাবে, আর হারাম কাজ ও গুনাহ থেকে বিরত থাকবে। বর্ণনাটা বর্ণনার জন্য নয়। শোনানো হয়েছে, যাতে শ্রোতা থেমে যায়।"
+          },
+          {
+            "en": "At-Tabari turns the sentence into direct speech. This that I have told you, O people, of the punishment the losers will have on the Day of Resurrection, is a warning from your Lord to you. He frightens you with it so that you beware of it, avoid disobeying Him, and turn from your disbelief to faith in Him, to affirming His Messenger and to following His command and prohibition, and so be saved from His punishment in the Hereafter. Al-Muyassar puts it in one line: that described punishment is what Allah frightens His servants with, so that they guard against it.",
+            "bn": "তাবারী বাক্যটিকে সরাসরি সম্বোধনে রূপ দেন। হে মানুষ, কিয়ামতের দিন ক্ষতিগ্রস্তদের জন্য যে শাস্তির কথা তোমাদের জানালাম, তা তোমাদের রবের পক্ষ থেকে তোমাদের প্রতি সতর্কবাণী। এ দিয়ে তিনি তোমাদের ভয় দেখান, যাতে তোমরা সাবধান হও, তাঁর নাফরমানি এড়িয়ে চলো, কুফর ছেড়ে তাঁর উপর ঈমানের দিকে ফেরো, তাঁর রাসূলকে সত্য বলে মানো, তাঁর আদেশ-নিষেধ মেনে চলো। তাহলেই আখিরাতে তাঁর শাস্তি থেকে বাঁচবে। মুয়াসসার কথাটা বলে একটি বাক্যেই: বর্ণিত ওই শাস্তি দিয়েই আল্লাহ বান্দাদের ভয় দেখান, যাতে তারা তা থেকে সাবধান থাকে।"
+          },
+          {
+            "en": "As-Sa'di supplies the image that stays with the reader. That description, he says, is a whip with which Allah drives His servants towards His mercy: sawtun yasuqu Allahu bihi 'ibadahu ila rahmatih. He made what He prepared for the wretched into a caller summoning His servants to taqwa, and a deterrent from whatever brings on the punishment. The direction of his whip is the point. It does not drive anyone away from mercy. It drives them towards it.",
+            "bn": "পাঠকের মনে থেকে যাওয়ার মতো ছবিটা দেন সা'দী। তিনি বলেন, ওই বর্ণনা এক চাবুক, যা দিয়ে আল্লাহ তাঁর বান্দাদের হাঁকিয়ে নিয়ে যান নিজের রহমতের দিকে। হতভাগাদের জন্য যে শাস্তি তিনি তৈরি রেখেছেন, তাকে তিনি বানিয়েছেন এক আহ্বানকারী, যে বান্দাদের তাকওয়ার দিকে ডাকে। আবার শাস্তি ডেকে আনে এমন সব কাজ থেকে ফেরানোর উপায়ও সেটাই। সা'দীর চাবুক কোন দিকে হাঁকায়, আসল কথা সেখানেই। কাউকে রহমত থেকে দূরে সরায় না, রহমতের দিকেই নিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Servants Are Called",
+          "bn": "কোন বান্দাদের ডাকা হলো"
+        },
+        "p": [
+          {
+            "en": "The verse names the servants twice: Allah frightens 'ibadahu, His servants, and then calls out ya 'ibadi, O My servants. Who are they? Al-Qurtubi records three answers. Ibn 'Abbas said they are His awliya', those close to Him, and on that reading ya 'ibadi means O My friends, so fear Me. It was said: the word is general, covering the believer and the disbeliever. And it was said: it is specific to the disbelievers. Al-Qurtubi gives the later two with the formula it was said and rules between none of them, and they are left here as he leaves them.",
+            "bn": "আয়াতে বান্দাদের নাম আসে দুবার। আল্লাহ ভয় দেখান 'ইবাদাহু, তাঁর বান্দাদের। তারপর ডাক দেন ইয়া 'ইবাদি, হে আমার বান্দারা। এরা কারা? কুরতুবী তিনটি উত্তর উল্লেখ করেন। ইবন আব্বাস (রাঃ) বলেছেন, এরা আল্লাহর আওলিয়া, তাঁর ঘনিষ্ঠজন। সে হিসেবে ইয়া 'ইবাদি মানে হে আমার বন্ধুরা, আমাকে ভয় করো। কেউ বলেছেন, শব্দটা ব্যাপক, মুমিন ও কাফির দুজনকেই শামিল করে। আবার কেউ বলেছেন, এটা শুধু কাফিরদের জন্য। শেষ দুটি মত কুরতুবী আনেন 'বলা হয়েছে' কথাটি দিয়ে, আর কোনোটির পক্ষেই রায় দেন না। এখানেও মতগুলো সেভাবেই রইল।"
+          },
+          {
+            "en": "Each answer changes how the verse sounds. If the servants are His friends, the warning is given to those who already obey, so that they keep obeying. If the word covers everyone, the one picture speaks to the believer as caution and to the disbeliever as a call to turn. At-Tabari does not raise the question by name, but his paraphrase is spoken to you, O people, and asks for a turning from disbelief to faith. Verse 39:10 called out ya 'ibadi alladhina amanu, O My servants who have believed. Here the call carries no such qualifier.",
+            "bn": "প্রতিটি উত্তরে আয়াতের সুর বদলে যায়। বান্দারা যদি তাঁর বন্ধু হন, তবে সতর্কবাণী যাঁরা আগে থেকেই আনুগত্য করছেন তাঁদের জন্য, যাতে তাঁরা আনুগত্যে অটল থাকেন। শব্দটা যদি সবাইকে শামিল করে, তবে একই ছবি মুমিনের কাছে সাবধানবাণী, আর কাফিরের কাছে ফিরে আসার ডাক। তাবারী প্রশ্নটা নাম ধরে তোলেন না। তবে তাঁর ব্যাখ্যা 'হে মানুষ' বলে সম্বোধন করে, আর কুফর ছেড়ে ঈমানের দিকে ফিরতে বলে। ৩৯:১০ আয়াতে ডাক ছিল ইয়া 'ইবাদিয়াল্লাযীনা আমানু, হে আমার মুমিন বান্দারা। এখানে ডাকের সঙ্গে তেমন কোনো বিশেষণ নেই।"
+          },
+          {
+            "en": "Whichever reading is taken, one thing in the wording holds. The call is possessive: My servants. As-Sa'di closes his comment on this verse with praise rather than threat. Glory be to the One who has shown mercy to His servants in everything, he writes, who made easy for them the roads that lead to Him and urged them to travel them. He drew them with every incentive that souls long for and hearts rest in, warned them with the utmost warning against working for other than Him, and named for them what holds them back from leaving that road.",
+            "bn": "যে ব্যাখ্যাই নেওয়া হোক, শব্দের একটা জিনিস বদলায় না। ডাকটা মালিকানার: আমার বান্দারা। সা'দী এ আয়াতের আলোচনা শেষ করেন হুমকি দিয়ে নয়, প্রশংসা দিয়ে। তিনি লেখেন, পবিত্র সেই সত্তা, যিনি সব কিছুতে বান্দাদের উপর রহম করেছেন। তাঁর কাছে পৌঁছানোর পথ তিনি সহজ করেছেন, সে পথে চলতে উৎসাহ দিয়েছেন। মন যা চায় আর হৃদয় যাতে প্রশান্তি পায়, এমন সব আকর্ষণ দিয়ে তাদের টেনেছেন। অন্য কারও জন্য আমল করা থেকে চূড়ান্তভাবে সাবধান করেছেন। আর সে পথ ছেড়ে দেওয়া থেকে যা ফিরিয়ে রাখে, তাও তাদের জানিয়ে দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear That Turns Into Deeds",
+          "bn": "যে ভয় আমলে রূপ নেয়"
+        },
+        "p": [
+          {
+            "en": "The last word is fa-ttaqun, so fear Me, and the commentators here define it by what it makes a person do. At-Tabari: fear Me by carrying out the obligations I have laid on you and avoiding disobedience to Me, so that you are saved from My punishment and My displeasure. Al-Muyassar: by complying with My commands and avoiding disobedience to Me. Ibn Kathir names what is to be feared: My might and My assault, My punishment and My vengeance. None of them leaves the fear as a feeling only.",
+            "bn": "আয়াতের শেষ শব্দ ফাত্তাকূন, তবে আমাকে ভয় করো। তাফসীরকারেরা এর অর্থ বোঝান এই ভয় মানুষকে দিয়ে কী করায় তা দিয়ে। তাবারী বলেন: আমি তোমাদের উপর যা ফরজ করেছি তা আদায় করে আর আমার নাফরমানি এড়িয়ে আমাকে ভয় করো, যাতে আমার শাস্তি ও অসন্তোষ থেকে বাঁচতে পারো। মুয়াসসার বলে: আমার আদেশ মেনে আর নাফরমানি ছেড়ে। ইবন কাসীর জানিয়ে দেন কিসের ভয়: আমার পরাক্রম ও আক্রমণ, আমার শাস্তি ও প্রতিশোধ। কেউই ভয়টাকে নিছক অনুভূতি হিসেবে রেখে দেন না।"
+          },
+          {
+            "en": "That is the lesson the verse leaves with a reader. The measure of this fear is not how strongly it is felt while the verse is being read. It is what changes afterwards: a forbidden thing left alone, an obligation done on time, a return made after a lapse. A fear that produces only distress has not yet done what at-Tabari and as-Sa'di say it was given for. In their reading the warning is a road, and it runs towards obedience and towards mercy.",
+            "bn": "পাঠকের জন্য আয়াতের শিক্ষা এটাই। আয়াত পড়ার সময় ভয়টা কত জোরে লাগল, সেটা তার মাপকাঠি নয়। মাপকাঠি হলো পরে কী বদলাল। একটা হারাম কাজ ছেড়ে দেওয়া, একটা ফরজ সময়মতো আদায় করা, ভুল হওয়ার পর আবার ফিরে আসা। যে ভয় কেবল অস্থিরতা তৈরি করে, তাবারী আর সা'দীর কথা অনুযায়ী যে কাজের জন্য তা দেওয়া হয়েছে, সে কাজ তখনো হয়নি। তাঁদের পাঠে সতর্কবাণী এক পথ, যা গিয়ে মেশে আনুগত্যে আর রহমতে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none is brought here. One caution also belongs with it. The verse describes what the text describes: the punishment of those whom 39:15 calls the losers, on the Day of Resurrection. It licenses nothing against any living person or community, and gives no one the right to decide who those losers will be. By its own words the warning is addressed to the servants, and the first reader it is meant to move is the one reading it.",
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস আনা হয়নি। সঙ্গে একটা সতর্কতাও জরুরি। আয়াত কেবল তা-ই বর্ণনা করে, যা এর ভাষ্যে আছে: কিয়ামতের দিন তাদের শাস্তি, ৩৯:১৫ আয়াত যাদের ক্ষতিগ্রস্ত বলেছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। ক্ষতিগ্রস্ত কারা হবে, তা ঠিক করে দেওয়ার অধিকারও কাউকে দেয় না। আয়াতের নিজের ভাষায় সতর্কবাণী বান্দাদের উদ্দেশে। আর এটা সবার আগে নাড়া দিতে চায় সেই পাঠককে, যিনি এখন এটা পড়ছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "39:23": {
     "sections": [
       {

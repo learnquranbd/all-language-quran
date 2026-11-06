@@ -26169,6 +26169,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You were named as clay before you were honoured. Let that keep you humble, measure no one by their origin, and take what you know of the unseen only from revelation.",
     "lessonBn": "সম্মান পাওয়ার আগেই আপনাকে কাদামাটি বলে পরিচয় দেওয়া হয়েছে। এ কথা আপনাকে বিনয়ী রাখুক। কাউকে তার উৎস দিয়ে মাপবেন না, আর গায়েবের জ্ঞান নেবেন শুধু ওহী থেকে।"
+  },
+  "39:16": {
+    "reflectionEn": "Fire above them, and below them more fire, and the verse gives both the same name: zulal, canopies. A canopy is meant to shelter the one beneath it. Here there is no shelter overhead and no floor underfoot that is not burning. The verse does not linger on the picture. It says plainly why the picture was given: by it Allah frightens His servants. Then it turns and speaks to them directly: O My servants, so fear Me. Even inside the warning they are still called His. A fear that only leaves me uneasy for a moment has missed the point. The verse asks for the fear that changes what I do tomorrow morning.",
+    "reflectionBn": "মাথার উপরে আগুন, পায়ের নিচেও আগুন। আয়াত দুটোকে একই নামে ডাকে: যুলাল, ছাউনি। ছাউনি তো থাকে নিচের মানুষকে আড়াল দিতে। এখানে মাথার উপরে কোনো আড়াল নেই, পায়ের নিচে এমন মাটিও নেই যা জ্বলছে না। ছবিটার উপর আয়াত বেশিক্ষণ থামে না। কেন ছবিটা দেখানো হলো, সোজা বলে দেয়: এ দিয়ে আল্লাহ তাঁর বান্দাদের ভয় দেখান। তারপর সরাসরি তাদের ডাকেন: হে আমার বান্দারা, তবে আমাকে ভয় করো। সতর্কবাণীর মাঝখানেও তারা তাঁরই বান্দা। যে ভয় শুধু খানিকক্ষণ মন খারাপ করে দিয়ে চলে যায়, সে ভয় আসল কাজটা করেনি। আয়াত চায় এমন ভয়, যা কাল সকালে আমার আমল বদলে দেবে।",
+    "pointsEn": [
+      "When I read a warning in the Qur'an, do I hear it as aimed at other people, or as spoken to me?",
+      "What is one thing I keep doing that I would stop today if I truly believed what this verse describes?",
+      "Does my fear of Allah ever move me to act, or does it pass as a moment of unease and nothing more?",
+      "Can I hear 'O My servants' as a call that still holds the door open, even in the middle of a warning?",
+      "Which obligation have I kept putting off that this fear should bring forward to today?"
+    ],
+    "pointsBn": [
+      "কুরআনে কোনো সতর্কবাণী পড়লে আমি কি ভাবি এটা অন্যদের জন্য, নাকি বুঝি কথাটা আমাকেই বলা হচ্ছে?",
+      "এমন কোন কাজ আমি করেই চলেছি, এ আয়াতের বর্ণনা সত্যিই বিশ্বাস করলে যা আজই ছেড়ে দিতাম?",
+      "আল্লাহর ভয় কি কখনো আমাকে কাজে নামায়, নাকি খানিক অস্বস্তি হয়ে মিলিয়ে যায়, আর কিছু নয়?",
+      "সতর্কবাণীর মাঝখানে 'হে আমার বান্দারা' ডাকটা কি আমি এমন ডাক হিসেবে শুনতে পাই, যা এখনো দরজা খোলা রেখেছে?",
+      "কোন ফরজ কাজ আমি বারবার পিছিয়ে দিচ্ছি, যা এই ভয়ের কারণে আজই সেরে ফেলা উচিত?"
+    ],
+    "lessonEn": "Let the Qur'an's warning of the Fire do what it was told for: turn its fear into leaving sin and doing what Allah has asked of you.",
+    "lessonBn": "কুরআন জাহান্নামের যে সতর্কবাণী শুনিয়েছে, তাকে তার আসল কাজ করতে দিন: সেই ভয় যেন আপনাকে গুনাহ ছাড়তে আর আল্লাহর হুকুম পালন করতে চালিত করে।"
   }
 };
 
