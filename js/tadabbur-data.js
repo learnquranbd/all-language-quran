@@ -26229,6 +26229,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Iblis swore by a might that was never his, and his reach stops at the sincere. Guard your sincerity, seek refuge in Allah's might, and do not despair.",
     "lessonBn": "ইবলিস কসম খেয়েছিল এমন এক ইজ্জতের নামে, যা কখনো তার ছিল না, আর তার নাগাল থেমে যায় একনিষ্ঠদের সামনে। নিজের ইখলাস আগলে রাখুন, আল্লাহর ইজ্জতে আশ্রয় চান, আর নিরাশ হবেন না।"
+  },
+  "38:24": {
+    "reflectionEn": "Two men climb a wall, and one tells his story: his brother has ninety-nine ewes, he has one, and the brother pressed him for it and beat him in argument. Dawud answers at once: he has wronged you. Then he widens the case into a rule about anyone who shares: many partners overreach against each other, except those who believe and do good, and how few they are. In the same verse he turns from the case to himself. He realises he is the one being tried, asks his Lord's forgiveness, falls down and turns back. Two questions stay with me. In what I share with others, do I take more than my part? And when I sit in judgement on someone, do I also look at myself?",
+    "reflectionBn": "দুজন লোক দেয়াল টপকে ঢোকে। একজন নিজের কথা বলে: তার ভাইয়ের নিরানব্বইটা দুম্বী, তার মাত্র একটা। তবু ভাই সেটাও চেয়ে বসেছে, আর কথার জোরে তাকে হারিয়ে দিয়েছে। দাঊদ (আঃ) সঙ্গে সঙ্গে জবাব দেন: সে তোমার উপর যুলম করেছে। তারপর এই একটা মামলা থেকে তিনি একটা সাধারণ কথায় যান। যারা একসঙ্গে কিছু ভাগ করে, তাদের অনেকেই একে অন্যের উপর বাড়াবাড়ি করে। ব্যতিক্রম শুধু তারা, যারা ঈমান আনে আর নেক আমল করে, আর তারা কতই না কম! একই আয়াতে এবার তিনি মামলা ছেড়ে নিজের দিকে তাকান। বুঝতে পারেন, পরীক্ষাটা আসলে তাঁরই। রবের কাছে ক্ষমা চান, লুটিয়ে পড়েন, ফিরে আসেন তাঁর দিকে। দুটো প্রশ্ন আমার সঙ্গে থেকে যায়। অন্যের সঙ্গে যা ভাগ করে ভোগ করি, তাতে কি নিজের ভাগের চেয়ে বেশি নিই? আর কারও বিচার করতে বসলে কি নিজের দিকেও একবার তাকাই?",
+    "pointsEn": [
+      "In what I share with others, a home, a business or a shared project, where might I be taking more than my part without calling it that?",
+      "Have I ever asked for something in a way that left the other person no real room to refuse?",
+      "When someone tells me how they were wronged, do I wait to hear the other side before I settle the matter in my own mind?",
+      "The verse says that those who do not overreach are few. Am I willing to be one of the few, or do I excuse myself by what most people do?",
+      "When a matter I am judging turns out to be a test of me, how quickly do I turn to Allah instead of defending myself?"
+    ],
+    "pointsBn": [
+      "ঘর, ব্যবসা বা যৌথ কোনো কাজে অন্যের সঙ্গে যা ভাগাভাগি করি, তার কোথায় হয়তো নিজের ভাগের চেয়ে বেশি নিচ্ছি, অথচ নাম দিচ্ছি অন্য কিছু?",
+      "আমি কি কখনো এমনভাবে কিছু চেয়েছি যে অন্যজনের না বলার কোনো উপায়ই ছিল না?",
+      "কেউ যখন বলে তার উপর কীভাবে অন্যায় হয়েছে, মনে মনে রায় দিয়ে ফেলার আগে আমি কি অন্য পক্ষের কথাটাও শোনার অপেক্ষা করি?",
+      "আয়াত বলছে, যারা বাড়াবাড়ি করে না তারা অল্প। আমি কি সেই অল্পদের একজন হতে রাজি, নাকি বেশির ভাগ মানুষ যা করে তা দেখিয়ে নিজেকে ছাড় দিই?",
+      "যে বিষয়ের বিচার করছি, তা যখন আমার নিজেরই পরীক্ষা হয়ে দাঁড়ায়, নিজের পক্ষে সাফাই না গেয়ে কত তাড়াতাড়ি আমি আল্লাহর দিকে ফিরি?"
+    ],
+    "lessonEn": "Do not take more than your share from those you live and work beside, and when a matter you judge turns out to test you, turn back to Allah at once.",
+    "lessonBn": "যাদের পাশে থাকেন আর যাদের সঙ্গে কাজ করেন, তাদের কাছ থেকে নিজের ভাগের বেশি নেবেন না। আর যে বিষয়ের বিচার করছেন তা যদি আপনারই পরীক্ষা হয়ে দাঁড়ায়, দেরি না করে আল্লাহর দিকে ফিরে আসুন।"
   }
 };
 

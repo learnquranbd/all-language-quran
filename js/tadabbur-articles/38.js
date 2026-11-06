@@ -751,6 +751,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:24": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Ewe Against Ninety-Nine",
+          "bn": "নিরানব্বইয়ের পাশে একটি দুম্বী"
+        },
+        "p": [
+          {
+            "en": "Qala laqad zalamaka bi-su'ali na'jatika ila ni'ajihi: he said, he has certainly wronged you by asking for your ewe, to add it to his ewes. At thirty-two words this is the longest verse of the passage, and it moves in three steps: a verdict on one case, a rule about people who share, and Dawud (AS) turning to his Lord. The case came in 38:22 and 38:23: ninety-nine ewes against one, and a demand pressed until the weaker man lost the argument.",
+            "bn": "কালা লাকাদ যালামাকা বিসুআলি না'জাতিকা ইলা নি'আজিহ: সে বলল, তোমার দুম্বীটা নিজের দুম্বীগুলোর সঙ্গে মিলিয়ে নিতে চেয়ে সে নিশ্চয়ই তোমার উপর যুলম করেছে। বত্রিশ শব্দের এ আয়াত গোটা অংশের দীর্ঘতম, আর এর চলন তিনটি ধাপে। প্রথমে একটি মামলার রায়, তারপর যারা একসঙ্গে ভাগ করে ভোগ করে তাদের নিয়ে একটি সাধারণ কথা, শেষে দাঊদ (আঃ)-এর রবের দিকে ফেরা। মামলাটা এসেছে ৩৮:২২ ও ৩৮:২৩ আয়াতে: একদিকে নিরানব্বইটা দুম্বী, অন্যদিকে একটা, আর এমন জোরালো দাবি যে দুর্বল লোকটা তর্কে হেরে গেছে।"
+          },
+          {
+            "en": "At-Tabari pauses on the grammar of bi-su'ali na'jatika: the verbal noun is joined straight to its object and the asker's pronoun is dropped, so the sense is by his asking for your ewe. He compares min du'a'i al-khayr in 41:49, praying for good. Al-Qurtubi agrees. Al-Baghawi supplies the purpose: he asked for your ewe to join it to his own. The Muyassar names the wrongdoer as the complainant's brother.",
+            "bn": "বিসুআলি না'জাতিকা কথাটার ব্যাকরণে তাবারী একটু থামেন। ক্রিয়াবাচক বিশেষ্যটি সরাসরি তার কর্মের সঙ্গে জুড়ে গেছে, যে চাইছে তার সর্বনামটি বাদ পড়েছে। অর্থ তাই দাঁড়ায়: তোমার দুম্বীটা তার চেয়ে নেওয়ার মাধ্যমে। তুলনা হিসেবে তিনি আনেন ৪১:৪৯ আয়াতের মিন দু'আইল খাইর, অর্থাৎ কল্যাণ চেয়ে দোয়া। কুরতুবীও একমত। বাগাভী উদ্দেশ্যটা পূরণ করে দেন: সে তোমার দুম্বী চেয়েছে নিজের পালে মিলিয়ে নিতে। মুয়াসসার যুলমকারীকে চিহ্নিত করে অভিযোগকারীর ভাই বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Other Party Spoke",
+          "bn": "অপর পক্ষ মুখ খোলার আগে"
+        },
+        "p": [
+          {
+            "en": "Read on its surface, the verdict follows a hearing of one side only, and the commentators ask how. Al-Halimi, quoted by al-Qurtubi, takes it as it stands: Dawud (AS) saw in the speaker signs of weakness and of being wronged, took his word, and said in haste, he has wronged you, though the other party, if asked, might have told a different story. Dawud then knew, al-Halimi says, that Allah had left him to himself for that moment, and that this was the trial.",
+            "bn": "বাহ্যিকভাবে পড়লে মনে হয়, রায়টা এসেছে কেবল একটি পক্ষের কথা শুনে। তাফসীরকারেরা তাই প্রশ্ন তোলেন, এটা কীভাবে হলো। কুরতুবী উদ্ধৃত করেন হালীমীকে, যিনি বাহ্যিক অর্থটাকেই গ্রহণ করেন। তাঁর মতে দাঊদ (আঃ) বক্তার মধ্যে দুর্বলতা আর মজলুম হওয়ার আলামত দেখে তার কথা মেনে নেন, আর তাড়াহুড়া করে বলে ফেলেন: সে তোমার উপর যুলম করেছে। অথচ অপর পক্ষকে জিজ্ঞেস করলে হয়তো সে অন্য কাহিনি শোনাত। হালীমী বলেন, এরপর দাঊদ বুঝলেন যে আল্লাহ সেই মুহূর্তে তাঁকে তাঁর নিজের উপর ছেড়ে দিয়েছিলেন, আর এটাই ছিল পরীক্ষা।"
+          },
+          {
+            "en": "Others reject the premise. Ibn al-'Arabi, also in al-Qurtubi, says ruling after hearing one party is allowed in no religion, so a step must be understood: one party claimed, the other conceded, and then came the ruling. Al-Baghawi gives two answers: he has wronged you if the matter is as you say, or Dawud spoke after the other admitted it. As-Sa'di says the earlier verses show the complaint was simply the fact, so the other had no need to speak.",
+            "bn": "অন্যরা এই ধারণাটাই মানেন না। কুরতুবীর উদ্ধৃতিতেই ইবনুল আরাবী বলেন, এক পক্ষের কথা শুনে রায় দেওয়া কোনো শরীয়তেই বৈধ নয়। কাজেই বাক্যের ভেতরে একটা না-বলা ধাপ ধরে নিতে হবে: একজন দাবি করেছে, অন্যজন মেনে নিয়েছে, তারপরই রায়। বাগাভী দুটি জবাব দেন। হয় অর্থ হলো, ব্যাপারটা তুমি যেমন বলছ তেমন হলে সে তোমার উপর যুলম করেছে। নয়তো দাঊদ কথাটা বলেছেন অপরজন স্বীকার করার পর। সা'দী বলেন, আগের আয়াতগুলো থেকেই স্পষ্ট যে অভিযোগটা ছিল নিছক বাস্তব ঘটনা। তাই অপরজনের কিছু বলার দরকার ছিল না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets out both sides. Some elders, it reports, held that this was the slip for which forgiveness was sought; other commentators said the full proceedings are simply not narrated, as reported judgments often omit the defendant's answer. It adds that this was perhaps no court sitting, so Dawud (AS) answered as a mufti, who answers the question as it is put to him. These are readings held by named scholars, and the verse carries them side by side.",
+            "bn": "মাআরিফুল কুরআন দুই দিকই তুলে ধরে। সেখানে আছে, কিছু বুজুর্গের মতে এটাই ছিল সেই বিচ্যুতি, যার জন্য ক্ষমা চাওয়া হয়েছিল। অন্য তাফসীরকারেরা বলেছেন, মামলার পুরো বিবরণ এখানে আসেনি, যেমন রায়ের বিবরণে প্রায়ই বিবাদীর জবাব বাদ পড়ে। মাআরিফুল কুরআন আরও বলে, সেটা হয়তো আদালতের বৈঠক ছিল না, তাই দাঊদ (আঃ) জবাব দিয়েছিলেন মুফতি হিসেবে, আর মুফতি প্রশ্ন যেভাবে আসে সেভাবেই জবাব দেন। এগুলো নির্দিষ্ট আলিমদের মত, আর আয়াতটি সবগুলোকে পাশাপাশি বহন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Flocks Kept Under One Herder",
+          "bn": "এক রাখালের হাতে কয়েকটি পাল"
+        },
+        "p": [
+          {
+            "en": "Wa inna kathiran mina al-khulata'i la-yabghi ba'duhum 'ala ba'd: and many who mix their holdings overreach against one another. Al-Qurtubi gives two senses of khulata', companions or partners, then calls partners a stretch: most scholars, he says, mean men who keep their separate flocks together under one herder, one bucket and one fold. At-Tabari and al-Baghawi do gloss it as partners. On yabghi, the Muyassar adds that one wrongs the other by taking his due and not dealing fairly from his own side.",
+            "bn": "ওয়া ইন্না কাসীরাম মিনাল খুলাতাই লাইয়াবগী বা'দুহুম আলা বা'দ: যারা নিজেদের সম্পদ একসঙ্গে মিলিয়ে রাখে, তাদের অনেকেই একে অন্যের উপর বাড়াবাড়ি করে। কুরতুবী খুলাতা শব্দের দুটি অর্থ দেন: সঙ্গী, অথবা অংশীদার। তারপর বলেন, অংশীদার অর্থটা একটু দূরের। অধিকাংশ আলিমের কাছে এর মানে, যারা নিজ নিজ পাল এক রাখাল, এক বালতি আর এক খোঁয়াড়ে একসঙ্গে রাখে। তাবারী ও বাগাভী অবশ্য অর্থ করেন অংশীদার। ইয়াবগী প্রসঙ্গে মুয়াসসার যোগ করে, একজন অন্যজনের হক কেড়ে নিয়ে আর নিজের দিক থেকে ইনসাফ না করে তার উপর যুলম করে।"
+          },
+          {
+            "en": "As-Sa'di explains why the rule holds: wrongdoing is a trait of the self, and the faith and righteous deeds that believers carry hold them back from it. Ma'arif al-Qur'an draws a practical warning from the clause. Rights are easily compromised between partners: one of them treats something as ordinary and goes ahead with it, and in reality it becomes a cause of sin. Partnership in dealings, it says, needs great caution.",
+            "bn": "নিয়মটা কেন খাটে, সা'দী তা বুঝিয়ে দেন: যুলম মানুষের নফসের স্বভাব, আর মুমিনদের সঙ্গে থাকা ঈমান ও নেক আমলই তাদের এ থেকে ফিরিয়ে রাখে। মাআরিফুল কুরআন এখান থেকে একটা বাস্তব সতর্কবাণী বের করে। অংশীদারদের মধ্যে পারস্পরিক হক খুব সহজেই নষ্ট হয়। একজন কোনো কাজকে মামুলি ভেবে করে ফেলে, অথচ আসলে তা গুনাহর কারণ হয়ে দাঁড়ায়। তাই লেনদেনে অংশীদারি খুব সাবধানে চালাতে হয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an also asks why a mere request is called wrongdoing, since asking is no crime. The request had the shape of asking, it answers, but the pressure behind it made it a taking by force. Whoever asks so that the other has no way out, by rank, presence or numbers, has usurped what he receives, even if it looks like a gift. It applies this to collectors for madrasas and mosques: only what is given willingly and cheerfully is lawful for them.",
+            "bn": "মাআরিফুল কুরআন আরেকটি প্রশ্নও তোলে: কিছু চাওয়া তো অপরাধ নয়, তবে নিছক চাওয়াকে যুলম বলা হলো কেন? জবাব হলো, বাইরে থেকে সেটা অনুরোধ, কিন্তু পেছনের চাপ তাকে জোর করে কেড়ে নেওয়ায় পরিণত করেছিল। পদমর্যাদা, ব্যক্তিত্বের প্রভাব বা দল বেঁধে গিয়ে কেউ যদি এমনভাবে চায় যে অন্যজনের দেওয়া ছাড়া উপায় থাকে না, তবে উপহারের মতো দেখালেও সে আসলে জবরদখল করল। মাদরাসা আর মসজিদের চাঁদা যাঁরা তোলেন, তাঁদের বেলায়ও কথাটা খাটে: খুশিমনে স্বেচ্ছায় যা দেওয়া হয়, কেবল সেটুকুই তাঁদের জন্য হালাল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "And How Few They Are",
+          "bn": "আর তারা কতই না অল্প"
+        },
+        "p": [
+          {
+            "en": "Illa alladhina amanu wa 'amilu as-salihati wa qalilun ma hum: except those who believe and do righteous deeds, and few are they. At-Tabari weighs two views of ma: an added particle, few are they, or a noun, few are those you find. He relays Ibn Abbas (RA), through 'Ali ibn Abi Talha, as reading it few are those who are so, and Ibn Zayd: few are those who do not transgress. Al-Qurtubi and al-Baghawi take ma as added.",
+            "bn": "ইল্লাল্লাযীনা আমানূ ওয়া আমিলুস সালিহাতি ওয়া কালীলুম মা হুম: তবে যারা ঈমান আনে আর নেক আমল করে, আর তারা অল্প। ছোট্ট মা শব্দটি নিয়ে তাবারী দুটি মত তুলনা করেন। এটা হতে পারে বাড়তি অব্যয়: আর তারা অল্প। আবার হতে পারে বিশেষ্য: আর এমন লোক তুমি অল্পই পাবে। আলী ইবন আবী তালহার সূত্রে তিনি ইবন আব্বাস (রাঃ)-এর পাঠ আনেন: যারা এমন, তারা অল্প। আর ইবন যায়দ সোজা বলেন: যারা সীমালঙ্ঘন করে না, তারা অল্প। কুরতুবী ও বাগাভী মা-কে বাড়তি অব্যয় ধরেন।"
+          },
+          {
+            "en": "As-Sa'di sets the clause beside 34:13, and few of My servants are grateful. Al-Qurtubi relays, without a chain, that 'Umar (RA) heard a man pray: O Allah, make me one of Your few servants. Asked what he meant, the man cited this verse, and 'Umar said of himself: everyone has more understanding than you, 'Umar. The number is a description, not a reason to give up: if those who keep from overreaching are few, the call is to be among them.",
+            "bn": "সা'দী এ অংশটিকে রাখেন ৩৪:১৩ আয়াতের পাশে: আমার বান্দাদের মধ্যে কৃতজ্ঞ অল্পই। কুরতুবী কোনো সনদ ছাড়া একটি ঘটনা উল্লেখ করেন। উমর (রাঃ) শুনলেন, এক লোক দোয়া করছে: হে আল্লাহ, আমাকে তোমার অল্পসংখ্যক বান্দাদের একজন বানাও। কী বোঝাতে চাইছে জিজ্ঞেস করলে লোকটি এই আয়াতের কথা বলল। তখন উমর নিজেকে উদ্দেশ করে বললেন: সব মানুষই তোমার চেয়ে বেশি বোঝে, হে উমর! সংখ্যার কথাটা এখানে বর্ণনা, হাল ছেড়ে দেওয়ার কারণ নয়। বাড়াবাড়ি থেকে যারা বিরত থাকে তারা যদি অল্প হয়, তবে ডাকটা হলো তাদের দলে ভিড়ে যাওয়ার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Zanna Here Means Knowing",
+          "bn": "যান্না এখানে জানা অর্থে"
+        },
+        "p": [
+          {
+            "en": "Wa zanna Dawudu annama fatannahu: and Dawud knew that We had only tried him. Zanna usually means to suppose, but here the commentators read it as certainty. At-Tabari glosses it 'alima, he knew, as does Qatada, and adds that the Arabs often use zann for knowledge that is not gained by sight. Al-Qurtubi gives ayqana, he was certain, from Abu 'Amr and al-Farra'. Al-Baghawi joins both senses, and the Muyassar has ayqana.",
+            "bn": "ওয়া যান্না দাঊদু আন্নামা ফাতান্নাহ: আর দাঊদ বুঝল যে আমি তো তাকে পরীক্ষাই করেছি। যান্না শব্দের সাধারণ অর্থ ধারণা করা, কিন্তু তাফসীরকারেরা এখানে একে নিশ্চিত জানা অর্থে পড়েন। তাবারী অর্থ করেন আলিমা, অর্থাৎ সে জানল, কাতাদাও তা-ই বলেন। তাবারী যোগ করেন, চোখে দেখা থেকে আসেনি এমন জ্ঞান বোঝাতে আরবরা প্রায়ই যান্ন শব্দ ব্যবহার করে। কুরতুবী আবু আমর ও ফাররা থেকে অর্থ দেন আইকানা, সে নিশ্চিত হলো। বাগাভী দুটি অর্থই একসঙ্গে বলেন, আর মুয়াসসারেও আছে আইকানা।"
+          },
+          {
+            "en": "Ibn Kathir and at-Tabari gloss fatannahu, from Ibn Abbas through 'Ali ibn Abi Talha, as ikhtabarnahu, We tested him. Al-Qurtubi records the readings. The common reading doubles the nun alone. 'Umar (RA) is reported to have read fattannahu, doubling both letters for emphasis. Qatada, 'Ubayd ibn 'Umayr and Ibn as-Samayfa' read fatanahu, with neither doubled, so that the two who came in are the ones who tried him.",
+            "bn": "ফাতান্নাহ শব্দের অর্থ ইবন কাসীর ও তাবারী দেন ইবন আব্বাস (রাঃ) থেকে, আলী ইবন আবী তালহার সূত্রে: ইখতাবারনাহ, আমি তাকে যাচাই করেছি। কুরতুবী শব্দটির কিরাআতগুলো লিপিবদ্ধ করেন। প্রচলিত কিরাআতে কেবল নূন দ্বিত্ব। উমর (রাঃ) পড়েছিলেন বলে বর্ণিত আছে ফাত্তান্নাহ, জোর বোঝাতে দুটো অক্ষরই দ্বিত্ব। আর কাতাদা, উবাইদ ইবন উমাইর ও ইবনুস সামাইফা পড়েছেন ফাতানাহ, কোনোটিই দ্বিত্ব নয়। তখন কর্তা হয়ে যায় ভেতরে আসা সেই দুজন: তারাই তাঁকে পরীক্ষা করল।"
+          },
+          {
+            "en": "What showed him it was a test? The Muyassar answers briefly: We tried him with this dispute. As-Sa'di says Allah arranged the case for him so that he would become alert. Ma'arif al-Qur'an points to the pair's strange conduct: such haste that they climbed the wall, then a defendant who sat silent and accepted the claim, though anyone who agreed had no need of a verdict. Some narrations, it notes, have them smile at each other and vanish; it adds, Allah knows best.",
+            "bn": "পরীক্ষাটা যে পরীক্ষা, তিনি তা বুঝলেন কীভাবে? মুয়াসসার সংক্ষেপে জবাব দেয়: এই বিবাদ দিয়েই আমি তাকে পরীক্ষা করেছি। সা'দী বলেন, আল্লাহ মামলাটা তাঁর সামনে সাজিয়েছিলেন, যাতে তিনি সজাগ হন। মাআরিফুল কুরআন দৃষ্টি দেয় দুজনের অদ্ভুত আচরণে। এত তাড়া ছিল যে তারা দেয়াল টপকে ঢুকেছে। আবার বিবাদী চুপ করে বসে দাবিটা মেনে নিয়েছে, অথচ যে মেনেই নেয় তার রায় চাইতে আসার কোনো কারণই থাকে না। মাআরিফুল কুরআন আরও বলে, কিছু বর্ণনায় আছে তারা একে অন্যের দিকে তাকিয়ে হেসে অদৃশ্য হয়ে যায়। সঙ্গে যোগ করে: আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stories Ibn Kathir Leaves Untold",
+          "bn": "যে কাহিনি ইবন কাসীর বলেন না"
+        },
+        "p": [
+          {
+            "en": "Some books of tafsir tell a long story here, and Ibn Kathir names its source: most of it is taken from the isra'iliyyat, reports that came from the People of the Book, and nothing in it is established from the Prophet ﷺ that must be followed. The one hadith, narrated by Ibn Abi Hatim, has no sound chain, he says: it comes through Yazid ar-Raqashi from Anas, and Yazid, though righteous, is weak in hadith according to the imams.",
+            "bn": "কিছু তাফসীরগ্রন্থ এখানে লম্বা একটি কাহিনি বলে, আর ইবন কাসীর তার উৎস চিহ্নিত করে দেন। তিনি বলেন, এর বেশির ভাগই ইসরাঈলিয়্যাত থেকে নেওয়া, অর্থাৎ আহলে কিতাবের কাছ থেকে আসা বর্ণনা। নবী ﷺ থেকে এ বিষয়ে এমন কিছু প্রমাণিত নয়, যা মানতে হবে। ইবন আবী হাতিম যে একটি হাদীস বর্ণনা করেছেন, তার সনদ সহীহ নয়। কারণ সেটা এসেছে ইয়াযীদ আর-রাকাশীর মাধ্যমে আনাস (রাঃ) থেকে। ইমামদের কাছে ইয়াযীদ নেককার মানুষ হলেও হাদীসের ক্ষেত্রে দুর্বল।"
+          },
+          {
+            "en": "His counsel: it is better to keep to reciting the passage and to return its knowledge to Allah, for the Qur'an is true and what it contains is true. Al-Qurtubi is as firm: many reports have come about Dawud (AS) in this matter, most of them not sound and without connected chains, and no one should venture on them until their soundness is known. He quotes Ibn al-'Arabi calling their gravest claim false beyond doubt. This article does not retell them.",
+            "bn": "এরপর তাঁর পরামর্শ: ভালো হলো অংশটুকু তিলাওয়াত করেই থেমে যাওয়া আর এর জ্ঞান আল্লাহর কাছে সোপর্দ করা, কারণ কুরআন সত্য, আর এতে যা আছে তা-ও সত্য। কুরতুবীও সমান দৃঢ়। তিনি বলেন, এ বিষয়ে দাঊদ (আঃ)-কে নিয়ে অনেক বর্ণনা ও কাহিনি এসেছে, যার বেশির ভাগই সহীহ নয়, সনদও অবিচ্ছিন্ন নয়। সেগুলোর বিশুদ্ধতা জানার আগে কারও সেদিকে পা বাড়ানো উচিত নয়। তিনি ইবনুল আরাবীর কথা উদ্ধৃত করেন, যিনি এসব বর্ণনার সবচেয়ে গুরুতর দাবিটিকে নিঃসন্দেহে বাতিল বলেছেন। এই লেখাও কাহিনিগুলো বলছে না।"
+          },
+          {
+            "en": "At-Tabari and al-Baghawi, it must be said, do gather such reports, and one of them, from Wahb ibn Munabbih, itself marks parts of its telling with the words as the People of the Book claim. What the verse gives is enough to ponder: a trial recognised, forgiveness asked, a prostration and a return. At 38:25, Ibn Kathir explains the forgiven that as whatever came from him, adding a saying: the good deeds of the righteous are the misdeeds of those brought near.",
+            "bn": "সোজাসুজি বলে রাখা দরকার, তাবারী ও বাগাভী এমন বর্ণনা জমা করেছেন। তার একটি, ওয়াহব ইবন মুনাব্বিহ থেকে, নিজেই তার কিছু অংশে চিহ্ন দিয়ে রেখেছে এই বলে: যেমনটা আহলে কিতাব দাবি করে। ভাবনার জন্য আয়াত যা দেয়, তা-ই যথেষ্ট: পরীক্ষা চিনে নেওয়া, ক্ষমা চাওয়া, সিজদা আর ফিরে আসা। ৩৮:২৫ আয়াতে যে বিষয়টি ক্ষমা করা হলো, ইবন কাসীর তার ব্যাখ্যা দেন: তাঁর কাছ থেকে যা প্রকাশ পেয়েছিল। সঙ্গে একটি প্রচলিত কথাও যোগ করেন: নেককারদের যা নেকি, নৈকট্যপ্রাপ্তদের জন্য তা-ও ত্রুটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fell Down Bowing, Then Returned",
+          "bn": "রুকু অবস্থায় লুটিয়ে পড়া"
+        },
+        "p": [
+          {
+            "en": "Fa-staghfara rabbahu wa kharra raki'an wa anab: so he asked his Lord's forgiveness, fell down bowing and turned back. At-Tabari glosses kharra raki'an as he fell prostrate to Allah. Al-Qurtubi quotes Ibn al-'Arabi: the scholars do not differ that bowing here means prostration, since both are a bending; al-Baghawi gives the same reason. Al-Husayn ibn al-Fadl, asked whether one who bows can be said to fall, said no: he fell after bowing. Ibn Kathir allows that he bowed first, then prostrated.",
+            "bn": "ফাসতাগফারা রাব্বাহু ওয়া খাররা রাকি'আঁও ওয়া আনাব: তখন সে তার রবের কাছে ক্ষমা চাইল, রুকু অবস্থায় লুটিয়ে পড়ল আর ফিরে এল। তাবারী খাররা রাকি'আন-এর অর্থ করেন: আল্লাহর উদ্দেশে সিজদায় লুটিয়ে পড়ল। কুরতুবী ইবনুল আরাবীর কথা আনেন: এখানে রুকু মানে সিজদা, এ নিয়ে আলিমদের কোনো মতভেদ নেই, কারণ দুটোতেই শরীর ঝোঁকে। বাগাভীও একই কারণ দেখান। হুসাইন ইবনুল ফাদলকে জিজ্ঞেস করা হয়েছিল, রুকুরত মানুষকে কি লুটিয়ে পড়া বলা যায়? তিনি বললেন, না। অর্থ হলো রুকুর পর তিনি লুটিয়ে পড়লেন। ইবন কাসীর সম্ভাবনা রাখেন যে তিনি আগে রুকু করেন, পরে সিজদা।"
+          },
+          {
+            "en": "Anaba is the last word. At-Tabari: he returned to what pleases his Lord. As-Sa'di: he turned to Allah with sincere repentance and worship, having sought forgiveness, in his words, for what had come from him. The Muyassar calls the prostration a drawing near to Allah, followed by turning back to Him in repentance. The order of the four verbs is worth noticing: knowing comes first, then asking, then the body going down, and only then the return.",
+            "bn": "শেষ শব্দটি আনাব। তাবারীর মতে, তিনি ফিরে গেলেন রবের সন্তুষ্টির দিকে। সা'দী বলেন, খাঁটি তওবা আর ইবাদত নিয়ে তিনি আল্লাহর দিকে ফিরলেন, আর এর আগে ইস্তিগফার করলেন, তাঁর ভাষায়, নিজের কাছ থেকে যা প্রকাশ পেয়েছিল তার জন্য। মুয়াসসার সিজদাটিকে বলে আল্লাহর নৈকট্যের জন্য সিজদা, তারপর তওবা করে তাঁর দিকে ফেরা। চারটি ক্রিয়ার ক্রম খেয়াল করার মতো। প্রথমে বোঝা, তারপর চাওয়া, তারপর শরীর নুইয়ে পড়া, আর সবশেষে ফিরে আসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prostration Ibn Abbas Saw",
+          "bn": "ইবন আব্বাস (রাঃ) যে সিজদা দেখেছেন"
+        },
+        "p": [
+          {
+            "en": "The verse carries a mark of prostration in the mushaf. In Sahih al-Bukhari 1069, Ibn Abbas (RA) said: \"Sad is not one of the compulsory prostrations, but I saw the Prophet ﷺ prostrating in it.\" In Sahih al-Bukhari 4807, al-'Awwam said: \"I asked Mujahid about the prostration in Sad. He said: I asked Ibn Abbas, from where do you prostrate? He said: Do you not recite, and among his offspring, Dawud and Sulayman, and those are the ones whom Allah guided, so follow their guidance? Dawud was among those your Prophet ﷺ was commanded to follow, so the Messenger of Allah ﷺ prostrated in it.\"",
+            "bn": "মুসহাফে এ আয়াতে সিজদার চিহ্ন আছে। সহীহ বুখারী ১০৬৯-এ ইবন আব্বাস (রাঃ) বলেন: \"সোয়াদ বাধ্যতামূলক সিজদাগুলোর একটি নয়, তবে আমি নবী ﷺ-কে এতে সিজদা করতে দেখেছি।\" সহীহ বুখারী ৪৮০৭-এ আওয়াম বলেন: \"আমি মুজাহিদকে সোয়াদের সিজদা সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেন, আমি ইবন আব্বাসকে জিজ্ঞেস করেছিলাম, আপনি কোথা থেকে এ সিজদা করেন? তিনি বললেন, তুমি কি পড়ো না, আর তার বংশধরদের মধ্যে দাঊদ ও সুলাইমান, এবং এরাই তারা যাদের আল্লাহ হিদায়াত দিয়েছেন, কাজেই তুমি তাদের পথ অনুসরণ করো? দাঊদ ছিলেন তাঁদের একজন, যাঁদের অনুসরণ করতে তোমাদের নবী ﷺ আদিষ্ট ছিলেন। তাই আল্লাহর রাসূল ﷺ এতে সিজদা করেছেন।\""
+          },
+          {
+            "en": "Ibn Abbas's answer ties the reader's prostration to Dawud (AS) through 6:84 and 6:90. Ibn Kathir notes that the imams differ over the standing of this prostration; that belongs to the books of law, and no ruling is given here. On the story itself, no commentator read for this verse attaches a sound hadith, as Ibn Kathir says outright. What reaches the reader soundly is the prostration, not a tale.",
+            "bn": "ইবন আব্বাস (রাঃ)-এর জবাব পাঠকের সিজদাকে ৬:৮৪ ও ৬:৯০ আয়াতের মাধ্যমে দাঊদ (আঃ)-এর সঙ্গে জুড়ে দেয়। ইবন কাসীর জানান, এ সিজদার মর্যাদা নিয়ে ইমামদের মধ্যে মতভেদ আছে। সে প্রশ্নের জায়গা ফিকহের কিতাব, আর এ লেখা কোনো ফতোয়া দিচ্ছে না। কাহিনির ব্যাপারে, এ আয়াতের জন্য পড়া কোনো তাফসীরকারই কোনো সহীহ হাদীস যুক্ত করেননি, ইবন কাসীর তা স্পষ্ট ভাষায়ই বলেছেন। পাঠকের কাছে বিশুদ্ধ সূত্রে যা পৌঁছেছে তা একটি সিজদা, কোনো কাহিনি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hear the Second Man Too",
+          "bn": "দ্বিতীয় জনের কথাও শুনুন"
+        },
+        "p": [
+          {
+            "en": "A general narration, not tied to this verse, puts the lesson into words. In Jami' at-Tirmidhi 1331, 'Ali (RA) narrated: \"The Messenger of Allah ﷺ said to me: When two men bring their case to you, do not judge for the first until you hear what the other says; then you will know how to judge.\" 'Ali said: \"I remained a judge after that.\" At-Tirmidhi graded it hasan. Al-Qurtubi cites a similar wording in his discussion of this verse.",
+            "bn": "একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, শুনানির শিক্ষাটা ভাষায় ধরে রেখেছে। জামে তিরমিযী ১৩৩১-এ আলী (রাঃ) বর্ণনা করেন: \"আল্লাহর রাসূল ﷺ আমাকে বললেন: দুজন লোক তোমার কাছে বিচার চাইলে দ্বিতীয়জনের কথা না শোনা পর্যন্ত প্রথমজনের পক্ষে রায় দিয়ো না। তখন তুমি বুঝতে পারবে কীভাবে বিচার করতে হয়।\" আলী বলেন: \"এরপর থেকে আমি বিচারকই থেকে গেছি।\" তিরমিযী একে হাসান বলেছেন। কুরতুবীও এ আয়াতের আলোচনায় কাছাকাছি শব্দে কথাটি এনেছেন।"
+          },
+          {
+            "en": "This needs saying plainly. The partner who overreached is a figure in a case brought before Dawud (AS); the verse describes what it describes, and it licenses nothing against any living person or community. It gives no ground to suspect every partner, or to treat someone as guilty because another complained first. Its own exception still stands: those who believe and do good do not overreach. The questions it leaves are the reader's own: do I take more than my share, and does my judging ever turn me back to my Lord?",
+            "bn": "আরও একটি কথা সোজাসুজি বলা দরকার। যে অংশীদার বাড়াবাড়ি করেছিল, সে দাঊদ (আঃ)-এর সামনে আনা এক মামলার চরিত্র। আয়াত যা বর্ণনা করে তা-ই বর্ণনা করে, এর ভিত্তিতে আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি দেয় না। প্রত্যেক অংশীদারকে সন্দেহ করার, কিংবা অন্যজন আগে নালিশ করেছে বলে কাউকে দোষী ধরে নেওয়ার কোনো ভিত্তিও এখানে নেই। আয়াতের নিজের ব্যতিক্রমটাও রয়ে গেছে: যারা ঈমান আনে আর নেক আমল করে, তারা বাড়াবাড়ি করে না। যে প্রশ্নগুলো এটি রেখে যায়, তা কেবল পাঠকের নিজের জন্য। আমি কি নিজের ভাগের বেশি নিই? আর আমার বিচার করা কি কখনো আমাকে রবের দিকে ফিরিয়ে আনে?"
+          }
+        ]
+      }
+    ]
+  },
   "38:26": {
     "sections": [
       {
