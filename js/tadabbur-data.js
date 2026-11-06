@@ -29207,6 +29207,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Remember the drop you began as: it humbles pride, and it shows that the One who made you once can make you again.",
     "lessonBn": "যে ফোঁটা থেকে আপনার শুরু, তা মনে রাখুন। তা অহংকার ভেঙে দেয়, আর দেখিয়ে দেয় যিনি একবার বানিয়েছেন, তিনি আবারও বানাতে পারেন।"
+  },
+  "77:27": {
+    "reflectionEn": "Two things in this verse are so ordinary that I hardly see them: the mountains on the horizon and the water in my glass. The verse calls the mountains firm and lofty, and the water sweet. I did not raise the one or sweeten the other. Then comes a single line: woe that Day to the deniers. Nothing is argued in between, because nothing needs to be. The One who can set a mountain in its place and give sweet water to drink can bring the dead back. So the question stays with me. When I drink today, will I remember who made it sweet? And when the Return feels far away, have I looked at what already stands around me?",
+    "reflectionBn": "এ আয়াতের দুটি জিনিস এত সাধারণ যে চোখেই পড়ে না: দিগন্তে দাঁড়ানো পাহাড় আর আমার গ্লাসের পানি। আয়াত পাহাড়কে বলছে অনড় ও সুউচ্চ, আর পানিকে বলছে মিঠা। পাহাড়টা আমি দাঁড় করাইনি, পানিটাও আমি মিঠা করিনি। তারপর মাত্র একটি লাইন: সেদিন দুর্ভোগ মিথ্যারোপকারীদের জন্য। মাঝখানে কোনো যুক্তি জুড়ে দেওয়া হয়নি, দরকারও ছিল না। যিনি পাহাড়কে তার জায়গায় গেঁথে দিতে পারেন, মানুষকে মিঠা পানি পান করাতে পারেন, মৃতকে ফিরিয়ে আনাও তাঁর পক্ষে সম্ভব। তাই প্রশ্নটা আমার কাছেই থেকে যায়। আজ পানি খাওয়ার সময় কি মনে পড়বে, কে এটাকে মিঠা করেছেন? আর আখিরাতে ফেরা যখন অনেক দূরের কথা মনে হয়, তখন কি চারপাশে যা আগে থেকেই দাঁড়িয়ে আছে, সেদিকে একবার তাকিয়েছি?",
+    "pointsEn": [
+      "When did I last drink a glass of water and stop, even for a moment, to think about who made it sweet and not bitter?",
+      "What in my life stands firm only because Allah set it there, and do I still speak of it as if I built it?",
+      "If a mountain and a river are a greater work than raising the dead, why does the Return still feel distant to me?",
+      "Which blessing do I use every single day while living as though nobody gave it to me?",
+      "Does my thanks for water stay in words, or does it show in how I use it and share it?"
+    ],
+    "pointsBn": [
+      "শেষ কবে এক গ্লাস পানি খেতে গিয়ে এক মুহূর্ত থেমে ভেবেছি, কে এটাকে তিতা না করে মিঠা করেছেন?",
+      "আমার জীবনে কোন জিনিস কেবল আল্লাহ বসিয়ে দিয়েছেন বলেই অটল হয়ে আছে, অথচ আমি সেটার কথা বলি যেন নিজেই গড়েছি?",
+      "পাহাড় আর নদী যদি মৃতকে জীবিত করার চেয়েও বড় কাজ হয়, তবে আখিরাতে ফেরা আমার কাছে এখনো এত দূরের মনে হয় কেন?",
+      "কোন নিয়ামত আমি প্রতিদিন ব্যবহার করি, অথচ চলি এমনভাবে যেন কেউ সেটা আমাকে দেননি?",
+      "পানির জন্য আমার শোকর কি শুধু মুখের কথায় থেমে থাকে, নাকি তা দেখা যায় পানি খরচের ধরনে আর অন্যকে দেওয়ার বেলায়?"
+    ],
+    "lessonEn": "The firm mountains and the sweet water you drink are gifts from Allah and signs of His power; thank Him for them, and let them settle your certainty that He will raise you.",
+    "lessonBn": "অনড় পাহাড় আর যে মিঠা পানি আপনি পান করেন, দুটোই আল্লাহর দান এবং তাঁর কুদরতের নিদর্শন। এর জন্য তাঁর শোকর আদায় করুন, আর এগুলো আপনার মনে এই বিশ্বাস পাকা করুক যে তিনি আপনাকে আবার জীবিত করবেন।"
   }
 };
 

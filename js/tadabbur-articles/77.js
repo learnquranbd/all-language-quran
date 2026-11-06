@@ -1035,6 +1035,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "77:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Gifts Laid on the Ground",
+          "bn": "মাটির উপর আরও দুই দান"
+        },
+        "p": [
+          {
+            "en": "Wa ja'alna fiha rawasiya shamikhatin wa asqaynakum ma'an furata: and We placed in it lofty, firm ones, and gave you sweet water to drink. The verse is seven Arabic words in two clauses joined by and, with Allah speaking as We in both. The pronoun fiha, in it, points back to the earth; at-Tabari and al-Qurtubi both supply the word, fi al-ard. The ground has just been named in 77:25 and 77:26, a question treated in its own place, and this verse sets two further gifts on it.",
+            "bn": "ওয়া জাআলনা ফীহা রাওয়াসিয়া শামিখাতিওঁ ওয়া আসকাইনাকুম মাআন ফুরাতা: আর আমি তাতে স্থাপন করেছি অনড় সুউচ্চ পর্বতমালা, আর তোমাদের পান করিয়েছি মিঠা পানি। আরবিতে আয়াতটি সাতটি শব্দের। দুটি অংশ, মাঝখানে একটি 'আর', আর দুই অংশেই আল্লাহ কথা বলছেন 'আমি' বলে। ফীহা মানে তাতে, আর এই 'তা' হলো পৃথিবী। তাবারী ও কুরতুবী দুজনেই শব্দটা জুড়ে দেন: ফিল আরদ, পৃথিবীতে। মাটির কথা এসেছে ঠিক আগে, ৭৭:২৫ ও ৭৭:২৬ আয়াতে। সে প্রশ্নের আলোচনা তার নিজের জায়গায়। এ আয়াত সেই মাটির উপর আরও দুটি দান রাখে।"
+          },
+          {
+            "en": "The Muyassar reads 77:25 to 77:27 as a single question. Have We not made this earth you live on hold the living on its back and the dead in its belly, and placed in it firm, high mountains so that it does not shake with you, and given you sweet water, easy to swallow? Then 77:28 brings the refrain: woe that Day to the deniers. The passage moves as 77:20 to 77:24 did, from what the listener can see to the warning. This article follows the two gifts, then the line after them.",
+            "bn": "মুয়াসসার ৭৭:২৫ থেকে ৭৭:২৭ পর্যন্ত পুরোটাকে একটি প্রশ্ন হিসেবে পড়ে। যে পৃথিবীতে তোমরা বাস করো, আমি কি তাকে এমন করিনি যে তার পিঠে থাকে জীবিতরা আর পেটে মৃতরা? তাতে কি বসাইনি উঁচু অনড় পাহাড়, যাতে তা তোমাদের নিয়ে দুলে না ওঠে? আর তোমাদের কি পান করাইনি মিঠা, সহজে গলা দিয়ে নামে এমন পানি? এরপর ৭৭:২৮ আয়াতে আসে সেই ধুয়া: সেদিন দুর্ভোগ মিথ্যারোপকারীদের জন্য। ৭৭:২০ থেকে ৭৭:২৪ আয়াতেও ধারা ছিল এমনই। শ্রোতা যা চোখে দেখে, সেখান থেকে সতর্কবাণীতে। এ লেখা দান দুটির পিছু নেবে, তারপর তাদের পরের লাইনটির।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Firm Ones With No Noun",
+          "bn": "নামহীন অনড়েরা"
+        },
+        "p": [
+          {
+            "en": "The verse names the gift with two describing words and no noun: rawasi, firm ones, and shamikhat, lofty ones. The commentators supply the noun, and all of them supply the same one. Qatada, in a report at-Tabari carries, says only ya'ni al-jibal, he means the mountains. Al-Qurtubi writes the same words and then defines the first: al-rawasi al-thawabit, the rawasi are the firm, fixed ones. At-Tabari, in his own paraphrase, writes jibalan thabitatin fiha, mountains standing fixed in it. The Muyassar has jibalan thawabit, and al-Baghawi simply jibalan, mountains.",
+            "bn": "আয়াতে দানটির পরিচয় দুটি বিশেষণে, কোনো বিশেষ্য নেই: রাওয়াসি মানে অনড়েরা, আর শামিখাত মানে সুউচ্চেরা। বিশেষ্যটা জুড়ে দেন তাফসীরকারেরা, আর সবাই একই শব্দ জোড়েন। তাবারী কাতাদার একটি বর্ণনা আনেন, তাতে শুধু এটুকু: ইয়া'নী আল-জিবাল, অর্থাৎ পাহাড়। কুরতুবীও একই কথা লেখেন, তারপর প্রথম শব্দের সংজ্ঞা দেন: আর-রাওয়াসি আছ-ছাওয়াবিত, রাওয়াসি হলো যেগুলো স্থির ও অটল। তাবারী নিজের ভাষায় লেখেন: জিবালান ছাবিতাতিন ফীহা, পৃথিবীতে গেঁথে থাকা পাহাড়। মুয়াসসার লেখে জিবালান ছাওয়াবিত, আর বাগাভী শুধু জিবালান, পাহাড়।"
+          },
+          {
+            "en": "As-Sa'di reads the word the other way round. For him the rawasi are jibalan tursi al-ard, mountains that anchor the earth, li-alla tamida bi-ahliha, so that it does not sway with its people, and he adds fa-thabbataha Allah, so Allah made it steady. Ibn Kathir writes al-jibal rasa biha al-ard, the mountains by which He made the earth firm, li-alla tamida wa tadtarib, so that it does not sway and shake. On at-Tabari's and al-Qurtubi's gloss the mountains are fixed; on as-Sa'di's and Ibn Kathir's they fix the earth.",
+            "bn": "সা'দী শব্দটা পড়েন উল্টো দিক থেকে। তাঁর কাছে রাওয়াসি হলো জিবালান তুরসিল আরদ, যে পাহাড় পৃথিবীকে নোঙর করে রাখে, লি-আল্লা তামীদা বি-আহলিহা, যাতে তা বাসিন্দাদের নিয়ে দুলে না যায়। সঙ্গে যোগ করেন: ফা-ছাব্বাতাহাল্লাহ, এভাবে আল্লাহ তাকে স্থির করেছেন। ইবন কাসীর লেখেন: আল-জিবাল রাসা বিহাল আরদ, যে পাহাড় দিয়ে তিনি পৃথিবীকে অটল করেছেন, লি-আল্লা তামীদা ওয়া তাদতারিব, যাতে তা না দোলে, না কাঁপে। তাবারী আর কুরতুবীর ব্যাখ্যায় পাহাড় নিজে অটল। সা'দী আর ইবন কাসীরের ব্যাখ্যায় পাহাড় পৃথিবীকে অটল রাখে।"
+          },
+          {
+            "en": "The two glosses do not compete; the word bears both. What matters is where the purpose clause appears. Three of the sources for this verse give it: Ibn Kathir, as-Sa'di and the Muyassar, whose wording is li-alla tadtariba bikum, so that it does not shake with you. At-Tabari, al-Qurtubi and al-Baghawi give no purpose here at all. None of the seven says how the steadying works, and this article adds nothing to what they say. The fuller treatment of mountains as what holds the earth still is read at 50:7 and 31:10.",
+            "bn": "দুই ব্যাখ্যার মধ্যে কোনো বিরোধ নেই, শব্দটা দুটো অর্থই বহন করে। দেখার বিষয় হলো, উদ্দেশ্যের কথাটা কোথায় আছে। এ আয়াতের তিনটি উৎস তা বলে: ইবন কাসীর, সা'দী আর মুয়াসসার। মুয়াসসারের ভাষা: লি-আল্লা তাদতারিবা বিকুম, যাতে তা তোমাদের নিয়ে কেঁপে না ওঠে। তাবারী, কুরতুবী আর বাগাভী এখানে কোনো উদ্দেশ্যের কথাই বলেন না। স্থির রাখার কাজটা কীভাবে ঘটে, সাতটি উৎসের কোনোটিই তা বলে না, আর এ লেখাও তাদের কথার বাইরে কিছু যোগ করে না। পাহাড় যে পৃথিবীকে স্থির রাখে, সে আলোচনা বিস্তারিত পড়া যাবে ৫০:৭ ও ৩১:১০ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How High Is Shamikh?",
+          "bn": "শামিখ কতটা উঁচু?"
+        },
+        "p": [
+          {
+            "en": "The second word draws more glosses than the first. At-Tabari gives a pair, badhikhatin shahiqatin, towering and soaring. By a chain ending in Ibn 'Abbas he brings: jibalan mushrifatin, mountains that look down over what lies around them. Al-Baghawi and the Muyassar both write 'aliyat, high. Al-Qurtubi writes al-tiwal, the tall ones. As-Sa'di alone gives two dimensions, al-tiwal al-'irad, tall and broad.",
+            "bn": "প্রথম শব্দের চেয়ে দ্বিতীয় শব্দের ব্যাখ্যা বেশি। তাবারী দেন একজোড়া শব্দ: বাযিখাতিন শাহিকাতিন, আকাশছোঁয়া, সুউচ্চ। ইবন আব্বাস (রাঃ) পর্যন্ত পৌঁছানো এক সূত্রে তিনি আনেন: জিবালান মুশরিফাতিন, এমন পাহাড় যা চারপাশের সবকিছুর উপর দিয়ে তাকিয়ে থাকে। বাগাভী ও মুয়াসসার দুজনেই লেখেন আলিয়াত, উঁচু। কুরতুবী লেখেন আত-তিওয়াল, দীর্ঘ। শুধু সা'দী দুটো মাপ দেন: আত-তিওয়াল আল-ইরাদ, লম্বা ও চওড়া।"
+          },
+          {
+            "en": "Al-Qurtubi then gives the word's everyday use: wa minhu yuqalu shamakha bi-anfihi idha rafa'ahu kibran, from it people say that a man shamakha with his nose when he raises it in pride. He draws no lesson from it, and none is claimed for him. A reader may still notice what the verse sets beside that usage. The mountain's height was placed there; ja'alna, We placed, is the verb that governs it. A man who raises his nose has nothing of that kind to point to, since nothing in him was set up by his own hand.",
+            "bn": "এরপর কুরতুবী শব্দটির দৈনন্দিন ব্যবহার দেখান: ওয়া মিনহু ইউকালু শামাখা বি-আনফিহী ইযা রাফাআহু কিবরান। অর্থাৎ কেউ অহংকারে নাক উঁচু করলে বলা হয়, সে শামাখা করেছে। কুরতুবী এ থেকে কোনো শিক্ষা টানেন না, তাঁর নামে কোনো শিক্ষা দাবিও করা হচ্ছে না। তবু পাঠক খেয়াল করতে পারেন, আয়াত ওই ব্যবহারের পাশে কী রাখছে। পাহাড়ের উচ্চতা বসিয়ে দেওয়া হয়েছে। যে ক্রিয়ার অধীনে এটা এসেছে, তা হলো জাআলনা, আমি স্থাপন করেছি। নাক উঁচু করা মানুষের হাতে এমন কিছু নেই যা দেখিয়ে সে গর্ব করতে পারে, কারণ তার ভেতরের কোনো কিছুই সে নিজের হাতে বসায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sweet, Clear, Easy to Swallow",
+          "bn": "মিঠা, স্বচ্ছ, সহজে গেলা যায়"
+        },
+        "p": [
+          {
+            "en": "Then the second gift: wa asqaynakum ma'an furata, and We gave you sweet water to drink. On furat the early readers agree on a single word. At-Tabari glosses it 'adhban, sweet, and backs the gloss with three reports, from Ibn 'Abbas, from Mujahid and from Qatada, each saying 'adhban. He adds that the people of interpretation said the like. Ibn Kathir and as-Sa'di both write 'adhban zulalan, sweet and clear. The Muyassar writes 'adhban sa'ighan, sweet and easy to swallow, and al-Baghawi keeps to the single word 'adhban.",
+            "bn": "এরপর দ্বিতীয় দান: ওয়া আসকাইনাকুম মাআন ফুরাতা, আর তোমাদের পান করিয়েছি মিঠা পানি। ফুরাত শব্দের অর্থে পূর্বসূরিরা এক শব্দে একমত। তাবারী এর ব্যাখ্যা করেন আযবান, মিঠা। নিজের ব্যাখ্যার পক্ষে তিনি আনেন তিনটি বর্ণনা: ইবন আব্বাস (রাঃ), মুজাহিদ ও কাতাদা থেকে, প্রত্যেকেই বলেছেন আযবান। সঙ্গে বলেন, তাফসীরবিদেরা এমনটাই বলেছেন। ইবন কাসীর ও সা'দী দুজনেই লেখেন আযবান যুলালান, মিঠা ও স্বচ্ছ। মুয়াসসার লেখে আযবান সাইগান, মিঠা আর সহজে গলা দিয়ে নামে। বাগাভী থাকেন এক শব্দেই: আযবান।"
+          },
+          {
+            "en": "Al-Qurtubi looks at the verb as well as the noun. He glosses asqaynakum as ja'alna lakum suqyan, We made for you a supply to drink from, and defines furat as the sweet water that is drunk and with which crops are watered. On his reading the gift is not a single cup handed over but a standing provision, reaching the field as well as the mouth. He then sums up the verse in a single line: khalaqna al-jibal wa anzalna al-ma' al-furat, We created the mountains and sent down the sweet water.",
+            "bn": "কুরতুবী শুধু বিশেষ্য নয়, ক্রিয়াটার দিকেও তাকান। আসকাইনাকুম-এর অর্থ তিনি করেন জাআলনা লাকুম সুকইয়ান, তোমাদের জন্য পান করার ব্যবস্থা করে দিয়েছি। আর ফুরাতের সংজ্ঞা দেন: সেই মিঠা পানি, যা মানুষ পান করে আর যা দিয়ে ফসলে সেচ দেওয়া হয়। তাঁর পাঠে দানটা এক গ্লাস পানি হাতে তুলে দেওয়া নয়। এ এক স্থায়ী ব্যবস্থা, যা মুখ পর্যন্ত পৌঁছায়, ক্ষেত পর্যন্তও। তারপর এক লাইনে তিনি পুরো আয়াতের সারকথা বলেন: খালাকনাল জিবালা ওয়া আনযালনাল মাআল ফুরাত, আমি পাহাড় সৃষ্টি করেছি আর মিঠা পানি নাযিল করেছি।"
+          },
+          {
+            "en": "Where does the water come from? Ibn Kathir names two sources in a single clause: min al-sahab aw mimma anba'ahu min 'uyun al-ard, from the clouds, or from what He made gush out of the springs of the earth. As-Sa'di, after his gloss, quotes 56:68 to 56:70: have you seen the water you drink, did you bring it down from the rain-clouds or are We the ones who bring it down? If We willed, We could make it bitter; so why do you not give thanks? That passage is read at 56:69 and is not retold here.",
+            "bn": "পানি আসে কোথা থেকে? ইবন কাসীর এক বাক্যে দুটি উৎসের নাম বলেন: মিনাস সাহাব আও মিম্মা আনবাআহু মিন উয়ূনিল আরদ, মেঘ থেকে, অথবা মাটির ঝরনা থেকে যা তিনি উৎসারিত করেছেন। সা'দী নিজের ব্যাখ্যার পর উদ্ধৃত করেন ৫৬:৬৮ থেকে ৫৬:৭০ আয়াত: যে পানি তোমরা পান করো, তা কি তোমরা মেঘ থেকে নামিয়েছ, নাকি আমিই নামাই? চাইলে আমি তা লোনা-তিতা করে দিতে পারতাম, তবু কেন তোমরা শোকর করো না? ওই আয়াতগুলোর আলোচনা আছে ৫৬:৬৯ আয়াতে, এখানে তা আর বলা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Shared With a River",
+          "bn": "যে শব্দ একটি নদীরও নাম"
+        },
+        "p": [
+          {
+            "en": "Furat is also the name of a river, the Euphrates, and both at-Tabari and al-Qurtubi bring reports that touch it. At-Tabari, after his gloss, relays a report from Ibn 'Abbas by a chain through 'Ikrima: from four rivers, Sayhan, Jayhan, the Nile and the Euphrates; every water the son of Adam drinks is from these rivers, and they come out from under a rock near Bayt al-Maqdis. It is a Companion's statement as at-Tabari carries it, not words of the Prophet ﷺ. At-Tabari gives it no grading and does not adopt it; his own gloss stays 'adhban.",
+            "bn": "ফুরাত একটি নদীরও নাম, ইউফ্রেটিস। তাবারী ও কুরতুবী দুজনেই এ নিয়ে কিছু বর্ণনা আনেন। তাবারী নিজের ব্যাখ্যার পর ইকরিমার সূত্রে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা উল্লেখ করেন: পানি আসে চারটি নদী থেকে, সাইহান, জাইহান, নীল আর ফুরাত। আদমসন্তান যে পানিই পান করে, তা এই নদীগুলোরই। আর নদীগুলো বের হয় বাইতুল মাকদিসের কাছে একটি পাথরের নিচ থেকে। তাবারী যেভাবে এনেছেন, তাতে এটা একজন সাহাবীর কথা, নবী ﷺ-এর বাণী নয়। তাবারী এর কোনো মান নির্ধারণ করেন না, গ্রহণও করেন না। তাঁর নিজের ব্যাখ্যা আযবান, মিঠা, সেখানেই থাকে।"
+          },
+          {
+            "en": "Al-Qurtubi brings two items. The first is a saying of Abu Hurayra, introduced only with in some hadith, that names rivers of Paradise in the earth; he gives no collection and no chain, so it is noted and not used. The second he cites to Sahih Muslim, and it is confirmed there (Muslim 2839): Abu Huraira reported Allah's Messenger (ﷺ) as saying: Saihan, Jaihan, Euphrates and Nile are all among the rivers of Paradise. Muslim placed it in his Sahih. The same narration is read at 26:57.",
+            "bn": "কুরতুবী দুটি জিনিস আনেন। প্রথমটি আবু হুরায়রা (রাঃ)-এর একটি উক্তি, যা তিনি শুধু 'কোনো এক হাদীসে' বলে শুরু করেন। তাতে পৃথিবীতে জান্নাতের কিছু নদীর নাম আছে। কুরতুবী কোনো গ্রন্থ বা সনদের নাম দেন না, তাই এখানে কেবল উল্লেখ করা হলো, এর উপর কিছু দাঁড় করানো হলো না। দ্বিতীয়টির সূত্র তিনি দেন সহীহ মুসলিম, আর সেখানে তা পাওয়া যায় (মুসলিম ২৮৩৯): আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: সাইহান, জাইহান, ফুরাত ও নীল, প্রতিটিই জান্নাতের নদীগুলোর একটি। মুসলিম এটি তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন। একই হাদীস পড়া যাবে ২৬:৫৭ আয়াতে।"
+          },
+          {
+            "en": "What does the hadith add to this verse? Only what al-Qurtubi uses it for: the water the verse calls furat shares its name with a river the Prophet ﷺ counted among the rivers of Paradise. The hadith does not explain the verse's word, and none of the commentators reads ma'an furata as meaning that river alone. The verse speaks of every sweet water given to drink; the river is one water among them.",
+            "bn": "এ হাদীস আয়াতে কী যোগ করে? কুরতুবী যে কাজে এটা ব্যবহার করেছেন, শুধু সেটুকু। আয়াত যে পানিকে ফুরাত বলছে, সেই নাম এমন এক নদীরও, যাকে নবী ﷺ জান্নাতের নদীগুলোর মধ্যে গুনেছেন। হাদীসটি আয়াতের শব্দের ব্যাখ্যা নয়। কোনো তাফসীরকারই মাআন ফুরাতা বলতে কেবল ওই নদীকে বোঝেননি। আয়াতের কথা সব মিঠা পানির, যা মানুষকে পান করানো হয়েছে। নদীটা তার মধ্যে একটি মাত্র।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Greater Wonders Than the Raising",
+          "bn": "পুনরুত্থানের চেয়েও বড় বিস্ময়"
+        },
+        "p": [
+          {
+            "en": "Why set mountains and water in a surah about the Day of Decision? Al-Qurtubi answers in one sentence, right after his summary of the verse: wa hadhihi al-umur a'jabu min al-ba'th, and these matters are more wondrous than the resurrection. Al-Baghawi, commenting on 77:28, gives the same thought to Muqatil: wa hadha kulluhu a'jabu min al-ba'th, and all of this is more wondrous than the resurrection. Muqatil's kulluhu, all of it, reads most naturally as gathering what came since the last refrain: the ground, the mountains and the water.",
+            "bn": "কিয়ামতের ফয়সালার দিন নিয়ে যে সূরা, তাতে পাহাড় আর পানির কথা কেন? কুরতুবী উত্তর দেন এক বাক্যে, আয়াতের সারকথা বলার ঠিক পরেই: ওয়া হাযিহিল উমূরু আ'জাবু মিনাল বা'ছ, আর এ বিষয়গুলো পুনরুত্থানের চেয়েও বেশি বিস্ময়কর। বাগাভী ৭৭:২৮ আয়াতের আলোচনায় একই কথা আনেন মুকাতিলের নামে: ওয়া হাযা কুল্লুহু আ'জাবু মিনাল বা'ছ, এসবই পুনরুত্থানের চেয়ে বেশি বিস্ময়কর। মুকাতিলের 'কুল্লুহু', এসবই, শব্দটিকে স্বাভাবিকভাবে পড়া যায় আগের ধুয়ার পর থেকে যা এসেছে তার সমষ্টি হিসেবে: মাটি, পাহাড় আর পানি।"
+          },
+          {
+            "en": "Neither of them spells out the reasoning, but the shape of it is plain from the sentence. The listener who doubted that the dead would rise had never doubted the mountain on his horizon or the water in his cup. Both are larger works, by this reading, than the one he denied. The verse does not argue the point; it shows him what he already accepts and lets the comparison do its work. That is why the refrain can follow at once, without a word of argument in between.",
+            "bn": "দুজনের কেউই যুক্তিটা খুলে বলেননি, তবে বাক্যের গড়ন থেকেই তা পরিষ্কার। যে শ্রোতা মৃতদের আবার জীবিত হওয়ায় সন্দেহ করত, সে কখনো দিগন্তের পাহাড় বা হাতের পানির পাত্র নিয়ে সন্দেহ করেনি। এই ব্যাখ্যা অনুযায়ী দুটোই সেই কাজের চেয়ে বড়, যা সে অস্বীকার করছিল। আয়াত তর্কে নামে না। সে যা আগে থেকেই মেনে নিয়েছে, শুধু সেটাই চোখের সামনে রাখে, আর তুলনাটা নিজের কাজ নিজেই করে। তাই মাঝখানে যুক্তির একটি কথাও না বলে সঙ্গে সঙ্গে ধুয়াটা আসতে পারে।"
+          },
+          {
+            "en": "Ibn Kathir frames the same step differently. On 77:28 he writes: ay waylun li-man ta'ammala hadhihi al-makhluqat al-dallah 'ala 'azamati khaliqiha thumma ba'da hadha yastamirru 'ala takdhibihi wa kufrih, woe to whoever reflects on these created things that point to the greatness of their Creator, and then after this persists in his denial and disbelief. For him the mountains and the water are evidence, dallah, pointing beyond themselves. The woe falls on the one who has looked and still turns away.",
+            "bn": "ইবন কাসীর একই ধাপটা দেখান অন্যভাবে। ৭৭:২৮ আয়াতে তিনি লেখেন: আই ওয়াইলুন লি-মান তাআম্মালা হাযিহিল মাখলূকাতিদ দাল্লাতি আলা আযামাতি খালিকিহা, ছুম্মা বা'দা হাযা ইয়াসতামিররু আলা তাকযীবিহী ওয়া কুফরিহ। অর্থাৎ দুর্ভোগ তার জন্য, যে এই সৃষ্টিগুলো নিয়ে ভাবে, যা স্রষ্টার মহত্ত্বের দিকে ইশারা করে, তারপরও মিথ্যারোপ আর কুফরিতে অটল থাকে। তাঁর কাছে পাহাড় আর পানি প্রমাণ, দাল্লাহ, যা নিজেদের ছাড়িয়ে অন্য কিছুর দিকে দেখায়। দুর্ভোগ নামে তার উপর, যে দেখেছে, তবু মুখ ফিরিয়ে নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Woe Measured to the Denial",
+          "bn": "অস্বীকারের মাপে দুর্ভোগ"
+        },
+        "p": [
+          {
+            "en": "The refrain that follows, 77:28, is the same three words the surah has already used: waylun yawma'idhin lil-mukadhdhibin, woe that Day to the deniers. Here the commentators tie it to what has just been shown. At-Tabari: woe that Day to those who deny these favours that I bestowed on you from My creation, disbelieving in them. As-Sa'di: woe to them despite the favours Allah showed them, which He alone grants and with which He singled them out, and they met them with denial. On both readings the denial named here is the denial of a gift.",
+            "bn": "পরের আয়াত ৭৭:২৮ সেই তিনটি শব্দের ধুয়া, যা সূরায় আগেও এসেছে: ওয়াইলুঁই ইয়াওমাইযিল লিল মুকাযযিবীন, সেদিন দুর্ভোগ মিথ্যারোপকারীদের জন্য। এখানে তাফসীরকারেরা একে সদ্য দেখানো জিনিসগুলোর সঙ্গে বাঁধেন। তাবারী বলেন: সেদিন দুর্ভোগ তাদের, যারা আমার সৃষ্টি থেকে তোমাদের দেওয়া এই নিয়ামতগুলো অস্বীকার করে, এগুলোর প্রতি কুফরি করে। সা'দী বলেন: আল্লাহ তাদের যে নিয়ামত দেখিয়েছেন, যা তিনি একাই দেন আর বিশেষ করে তাদেরই দিয়েছেন, তার জবাবে তারা দিয়েছে মিথ্যারোপ। দুই ব্যাখ্যাতেই এখানকার অস্বীকার মানে দানকে অস্বীকার।"
+          },
+          {
+            "en": "So the passage carries two emphases, and the sources leave them side by side. At-Tabari and as-Sa'di put the weight on ingratitude: the gift was met with denial. Al-Qurtubi and Muqatil put it on proof: the gift is greater than the Return, so denying the Return makes no sense. Ibn Kathir sits close to the second, with the created things as evidence. None of them rejects the other's emphasis, and this article does not choose between them.",
+            "bn": "তাহলে এ অংশে জোর পড়ে দুই জায়গায়, আর উৎসগুলো দুটোকে পাশাপাশি রেখে দেয়। তাবারী ও সা'দী জোর দেন অকৃতজ্ঞতায়: দানের জবাবে এসেছে অস্বীকার। কুরতুবী ও মুকাতিল জোর দেন প্রমাণে: দানটা পুনরুত্থানের চেয়েও বড়, তাই পুনরুত্থান অস্বীকারের কোনো যুক্তি নেই। ইবন কাসীর দ্বিতীয়টির কাছাকাছি, তাঁর কাছে সৃষ্টিগুলো প্রমাণ। কেউই অন্যের জোরকে নাকচ করেন না, আর এ লেখাও তাঁদের মধ্যে কোনো একটিকে বেছে নেয় না।"
+          },
+          {
+            "en": "Al-Qurtubi's note on the refrain explains why it returns. He says it is repeated at each sign because the woe is divided among the deniers according to their denial: whoever denies one thing has a punishment beyond his denial of another, and some denials are graver, so each receives woe in that measure, which is His word jaza'an wifaqa, a fitting recompense (78:26). He also relays, without chain or collection, that wayl is a valley in Jahannam, with a report raised to the Prophet ﷺ; it is not graded there, and nothing here rests on it.",
+            "bn": "ধুয়াটা কেন বারবার ফিরে আসে, কুরতুবী তার ব্যাখ্যা দেন। তাঁর মতে প্রতিটি নিদর্শনের পর এটা আসে, কারণ দুর্ভোগ মিথ্যারোপকারীদের মধ্যে ভাগ করা হয় তাদের অস্বীকারের মাপে। যে এক জিনিস অস্বীকার করে, অন্য জিনিস অস্বীকারের শাস্তির বাইরে তার জন্য আলাদা শাস্তি আছে। আর কোনো কোনো অস্বীকার বেশি গুরুতর। তাই প্রত্যেকে দুর্ভোগ পায় সেই মাপে। এটাই আল্লাহর বাণী জাযাআঁও ওয়িফাকা, যথাযথ প্রতিফল (৭৮:২৬)। কুরতুবী সনদ বা গ্রন্থের নাম ছাড়া এ কথাও আনেন যে ওয়াইল জাহান্নামের একটি উপত্যকা, সঙ্গে নবী ﷺ-এর দিকে সম্পৃক্ত একটি বর্ণনা। সেখানে এর কোনো মান বলা নেই, আর এখানে এর উপর কিছুই দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "The refrain describes the deniers as the text describes them, on that Day, and it licenses nothing against any living person or community. No reader is handed a list on which to place a neighbour. The verse before it has just reminded every listener of water drunk and ground stood on, and the question the woe leaves behind is about the reader's own response to those gifts, not about anyone else's.",
+            "bn": "ধুয়াটি মিথ্যারোপকারীদের বর্ণনা দেয় যেভাবে আয়াত দিয়েছে, সেই দিনের প্রেক্ষাপটে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটা কোনো অনুমতি দেয় না। কোনো পাঠকের হাতে এমন তালিকা দেওয়া হয়নি, যাতে সে প্রতিবেশীর নাম বসাবে। ঠিক আগের আয়াত প্রত্যেক শ্রোতাকে মনে করিয়ে দিয়েছে কোন পানি সে পান করে, কোন মাটিতে দাঁড়িয়ে থাকে। দুর্ভোগের কথা যে প্রশ্ন রেখে যায়, তা পাঠকের নিজের জবাব নিয়ে, অন্য কারও নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "77:31-32": {
     "sections": [
       {
