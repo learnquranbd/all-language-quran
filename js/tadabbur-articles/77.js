@@ -591,6 +591,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "77:25": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Word for Gathering In",
+          "bn": "টেনে জড়ো করার শব্দ"
+        },
+        "p": [
+          {
+            "en": "Alam naj'ali al-arda kifata: have We not made the earth a kifat? The weight of the verse sits on its last word. Al-Baghawi glosses it as a container, wi'a', and gives the root sense: kaft is joining and gathering, so one says kafata the thing when one draws it together and holds it. At-Tabari also gives container, and adds a turn of everyday speech: this is the kift of that, said of anything that holds another thing inside it.",
+            "bn": "আলাম নাজ'আলিল আরদা কিফাতা: আমি কি পৃথিবীকে কিফাত বানাইনি? আয়াতের পুরো ভার শেষ শব্দটির উপর। বাগাভী এর অর্থ করেন আধার, ওয়িআ। ধাতুর মূল অর্থও তিনি বলে দেন: কাফত মানে মিলিয়ে নেওয়া আর জড়ো করা। কোনো জিনিসকে টেনে এক জায়গায় এনে ধরে রাখলে বলা হয়, কাফাতাহু। তাবারীও আধার অর্থই নেন। সঙ্গে আরবদের মুখের একটা কথাও জুড়ে দেন: যে জিনিস অন্য কিছুকে নিজের ভেতরে রাখে, তাকে বলা হয় এটা ওটার কিফত।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the philology. Abu 'Ubayd said kifat means containers, and al-Qurtubi adds that the skin bag for milk is called a kift because it holds the milk and encloses it. Sibawayh recited a line about generous men in the season when vipers draw back into their holes from the frost, using a verb from the same root for the snakes' retreat. Ma'arif al-Qur'an says the word names a thing that holds many things within itself. At-Tabari relays from Ibn 'Abbas (RA), through 'Ali ibn Abi Talhah, a one-word gloss that Ibn Kathir also cites: a shelter.",
+            "bn": "শব্দতত্ত্বের কথাগুলো কুরতুবী এক জায়গায় জড়ো করেছেন। আবু উবাইদ বলেছেন, কিফাত মানে আধারসমূহ। কুরতুবী যোগ করেন, দুধ রাখার চামড়ার থলেকেও কিফত বলা হয়, কারণ সে দুধ ধরে রাখে, ঘিরে রাখে। সীবাওয়াইহ একটি কবিতার চরণ উদ্ধৃত করেছেন, যেখানে উদার মানুষদের কথা বলা হয়েছে সেই মৌসুমে, যখন সাপেরা শীতে কুঁকড়ে নিজেদের গর্তে ঢুকে যায়। সাপের এই গুটিয়ে ঢোকার জন্য কবি যে ক্রিয়া ব্যবহার করেছেন, তা এই একই ধাতু থেকে। মাআরিফুল কুরআন বলে, শব্দটি এমন জিনিসের নাম যা নিজের ভেতরে অনেক কিছু ধারণ করে। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর এক শব্দের ব্যাখ্যা আনেন, ইবন কাসীরও যা উল্লেখ করেছেন: আশ্রয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Womb to the Ground",
+          "bn": "মাতৃগর্ভ থেকে মাটিতে"
+        },
+        "p": [
+          {
+            "en": "This is the second question in the surah to open with alam, have We not. The first, at 77:20, asked about the water a person is made from and the place where it is lodged; the refrain of 77:24 then followed. Now the question widens from the body to the ground the body stands on. At-Tabari reads it as Allah alerting His servants to His favours upon them: have We not made the earth, O people, a holder for you? As-Sa'di frames it the same way, as a favour done by subjecting the earth to your interests.",
+            "bn": "সূরায় আলাম, অর্থাৎ 'আমি কি... নই', দিয়ে শুরু হওয়া এটি দ্বিতীয় প্রশ্ন। প্রথমটি ছিল ৭৭:২০ আয়াতে, যে পানি থেকে মানুষ তৈরি আর যেখানে তা রাখা হয়, সে বিষয়ে। তারপর এসেছে ৭৭:২৪ আয়াতের ধুয়া। এবার প্রশ্নের পরিসর শরীর থেকে সরে গেল সেই মাটির দিকে, যার উপর শরীর দাঁড়িয়ে আছে। তাবারীর মতে আল্লাহ এখানে বান্দাদের সজাগ করছেন তাদের উপর তাঁর নিয়ামতের ব্যাপারে: হে মানুষ, আমি কি তোমাদের জন্য পৃথিবীকে আধার বানাইনি? সা'দীও একই দৃষ্টিতে দেখেন। তাঁর ভাষায় এ অনুগ্রহ হলো, পৃথিবীকে তোমাদের প্রয়োজনের অধীন করে দেওয়া।"
+          },
+          {
+            "en": "The question is not asking for information. It expects a yes, and the yes is already in the listener's daily life. The next verse, 77:26, completes the sense in two words, ahya'an wa amwata, the living and the dead. The Muyassar reads 77:25 to 77:27 as one sentence: this earth you live on holds on its back the living beyond count and in its belly the dead beyond reckoning, and further favours follow in 77:27. Ibn Kathir's abridged English takes the refrain of 77:28 as woe to whoever reflects on such created things and still rejects their Creator.",
+            "bn": "প্রশ্নটা তথ্য জানতে চায় না। সে 'হ্যাঁ' শুনতে চায়, আর সেই 'হ্যাঁ' শ্রোতার রোজকার জীবনেই লেখা আছে। পরের আয়াত ৭৭:২৬ দুই শব্দে অর্থটা পূর্ণ করে: আহইয়াআন ওয়া আমওয়াতা, জীবিত ও মৃত। মুয়াসসার ৭৭:২৫ থেকে ৭৭:২৭ পর্যন্ত একটি বাক্য হিসেবে পড়ে। যে পৃথিবীতে তোমরা বাস কর, তার পিঠে আছে অগণিত জীবিত, আর পেটে অসংখ্য মৃত। তারপর ৭৭:২৭ আয়াতে আরও অনুগ্রহের কথা আসে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৭৭:২৮ আয়াতের ধুয়ার অর্থ করে এভাবে: দুর্ভোগ তার, যে এসব সৃষ্টি নিয়ে ভাবে, তবু এগুলোর স্রষ্টাকে অস্বীকার করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Back and Its Belly",
+          "bn": "মাটির পিঠ আর পেট"
+        },
+        "p": [
+          {
+            "en": "The reading most of the sources share is the plainest. At-Tabari relays from ash-Sha'bi, through Waki', Sharik and Bayan: its belly is for your dead and its back for your living. Ibn Kathir cites the same words. Qatadah, in two reports at-Tabari carries, says the living dwell in it and the dead are buried in it, and then, more pictorially, the living above it on its back and the dead laid in graves within it. Ibn Kathir's abridged English adds that Mujahid and Qatadah also said this.",
+            "bn": "বেশির ভাগ সূত্র যে ব্যাখ্যায় মেলে, সেটাই সবচেয়ে সরল। তাবারী ওয়াকী', শারীক ও বায়ানের সূত্রে শা'বী থেকে বর্ণনা করেন: এর পেট তোমাদের মৃতদের জন্য, আর এর পিঠ তোমাদের জীবিতদের জন্য। ইবন কাসীরও হুবহু এই কথা উদ্ধৃত করেন। তাবারীর আনা দুটি বর্ণনায় কাতাদা বলেন, জীবিতরা এতে বাস করে আর মৃতদের এতে দাফন করা হয়। অন্য বর্ণনায় ছবিটা আরও স্পষ্ট: জীবিতরা তার উপরে, তার পিঠে, আর মৃতদের কবর দেওয়া হয় তার ভেতরে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ যোগ করে, মুজাহিদ ও কাতাদাও এ কথা বলেছেন।"
+          },
+          {
+            "en": "At-Tabari then states the meaning in his own words. The sentence means: have We not made the earth the kifat of your living and your dead? It holds your living in their dwellings and homes, drawing them together and gathering them there, and holds your dead in its belly, in graves, where they are buried. Al-Baghawi relays al-Farra' in nearly the same terms: it gathers them alive on its back in their houses and dwellings, and gathers them dead in its belly. Al-Qurtubi, the Muyassar and Ma'arif al-Qur'an all keep this picture of surface and interior.",
+            "bn": "তারপর তাবারী নিজের ভাষায় অর্থটা বলেন। বাক্যের মানে দাঁড়ায়: আমি কি পৃথিবীকে তোমাদের জীবিত ও মৃতদের কিফাত বানাইনি? জীবিতদের সে ধরে রাখে তাদের ঘরবাড়ি আর বাসস্থানে, সেখানে তাদের টেনে এনে জড়ো করে। আর মৃতদের রাখে নিজের পেটে, কবরে, যেখানে তাদের দাফন করা হয়। বাগাভী ফাররা থেকে প্রায় একই কথা আনেন: জীবিত অবস্থায় সে তাদের পিঠে ধরে রাখে, তাদের ঘরে আর বাসস্থানে, আর মৃত অবস্থায় রাখে নিজের পেটে। কুরতুবী, মুয়াসসার ও মাআরিফুল কুরআন সবাই উপর আর ভেতরের এই ছবিটাই রেখেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi adds a grammarian's angle. Al-Khalil said takfit is turning a thing over, back to belly or belly to back, and one says inkafata al-qawmu ila manazilihim when people turn back to their homes. So, al-Qurtubi concludes, kifat means that people move about on its back, turn back into it, and are buried in it. He offers one more image: people settling on the face of the earth and then lying down upon it is itself a drawing close to it.",
+            "bn": "কুরতুবী এখানে ব্যাকরণবিদের একটি দিক যোগ করেন। খলীল বলেছেন, তাকফীত মানে কোনো জিনিস উল্টে দেওয়া, পিঠ থেকে পেটে বা পেট থেকে পিঠে। মানুষ যখন নিজেদের ঘরে ফিরে যায়, তখন বলা হয় ইনকাফাতাল কাওমু ইলা মানাযিলিহিম। কুরতুবীর সিদ্ধান্ত তাই এই: কিফাতের অর্থ হলো, মানুষ তার পিঠে চলাফেরা করে, তারই ভেতরে ফিরে যায়, আর তাতেই দাফন হয়। তিনি আরও একটি ছবি দেন। মানুষের মাটির উপর থিতু হওয়া, তারপর তার উপরই শুয়ে পড়া, এটাও তার সঙ্গে মিশে যাওয়ারই এক রূপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Houses and a Burial Ground",
+          "bn": "ঘরবাড়ি আর গোরস্থান"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi preserves a scene that makes the verse visible. Ash-Sha'bi went out with a funeral, looked at the burial ground and said: these are the kifat of the dead. Then he looked at the houses and said: these are the kifat of the living. The same word served both sights. A town and its cemetery stood side by side, and one Qur'anic noun covered the two of them, because each is a place where the earth gathers people in and keeps them.",
+            "bn": "কুরতুবী এমন একটি দৃশ্য সংরক্ষণ করেছেন, যাতে আয়াতটা চোখের সামনে ভেসে ওঠে। শা'বী একটি জানাযার সঙ্গে বের হয়েছিলেন। গোরস্থানের দিকে তাকিয়ে বললেন: এগুলো মৃতদের কিফাত। তারপর ঘরবাড়ির দিকে তাকিয়ে বললেন: আর এগুলো জীবিতদের কিফাত। দুটি দৃশ্যের জন্য একটিই শব্দ। পাশাপাশি একটা জনপদ আর তার কবরস্থান, আর কুরআনের একটি বিশেষ্য দুটোকেই ধরে ফেলে। কারণ দুই জায়গাতেই মাটি মানুষকে নিজের কাছে টেনে এনে রেখে দেয়।"
+          },
+          {
+            "en": "Al-Qurtubi also records that people used to call the graveyard of Baqi' al-Gharqad Kaftah, because it was a graveyard that held the dead. And he quotes a line of poetry addressed to a living man: today you are alive upon the earth, and tomorrow it will hold you in a kifat. The poem and the place-name show that the word was not the commentators' coinage but ordinary speech about homes and graves, which is why the verse could ask its question and trust the listener to see the answer around him.",
+            "bn": "কুরতুবী আরও উল্লেখ করেন, মানুষ বাকী'উল গারকাদের গোরস্থানকে বলত কাফতা, কারণ এটি এমন কবরস্থান যা মৃতদের নিজের কাছে ধরে রাখে। তিনি একজন জীবিত মানুষকে সম্বোধন করে লেখা একটি কবিতার চরণও উদ্ধৃত করেন: আজ তুমি মাটির উপরে জীবিত, আর কাল সে তোমাকে এক কিফাতের ভেতরে ঘিরে রাখবে। কবিতা আর জায়গার নামটা দেখায়, শব্দটি তাফসীরকারদের বানানো নয়। ঘর আর কবর নিয়ে মানুষের মুখের সাধারণ কথাতেই এর চল ছিল। তাই আয়াত প্রশ্নটা রেখে নিশ্চিন্ত থাকতে পারে, উত্তর শ্রোতা নিজের চারপাশেই দেখতে পাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Living Leave Behind",
+          "bn": "জীবিতরা যা রেখে যায়"
+        },
+        "p": [
+          {
+            "en": "Not every early reader took the living to mean people in their houses. At-Tabari relays from Mujahid, through 'Uthman ibn al-Aswad, that the earth gathers in their harm, adha, and in a second telling, their harm and what comes out of them: the living, it covers it over; the dead, they are buried. At-Tabari himself allows this as possible. The verse may mean, he says, that the earth takes in people's filth while they live and their remains after they die. A further report from Mujahid says the living hide in it whatever they wish.",
+            "bn": "আগের যুগের সব ব্যাখ্যাকার জীবিত বলতে ঘরে থাকা মানুষ বোঝেননি। তাবারী উসমান ইবনুল আসওয়াদের সূত্রে মুজাহিদ থেকে বর্ণনা করেন: মাটি তাদের ময়লা, আযা, নিজের কাছে টেনে নেয়। আরেক বর্ণনায় আছে, তাদের ময়লা আর তাদের দেহ থেকে যা বের হয়। জীবিত অবস্থায় মাটি তা ঢেকে দেয়, আর মৃতদের তাতে দাফন করা হয়। তাবারী নিজেও এ অর্থকে সম্ভব বলে মানেন। তাঁর কথায়, আয়াতের মানে হতে পারে, মানুষ বেঁচে থাকতে মাটি তাদের ময়লা ধারণ করে, আর মরে গেলে তাদের দেহ। মুজাহিদের আরেক বর্ণনায় আছে, জীবিতরা যা ইচ্ছা তাতে লুকিয়ে রাখে।"
+          },
+          {
+            "en": "Al-Qurtubi records the argument behind this reading, under it is said. The earth is a kifat for the living in that what leaves the human body is buried in it, because there is no enfolding in people merely being upon the earth; enfolding implies being surrounded on every side. That is a fair objection to the surface-and-interior reading, and al-Qurtubi lets it stand beside his own. The two do not cancel each other: the earth can hold the living in their homes and also take in what they discard.",
+            "bn": "এই ব্যাখ্যার পেছনের যুক্তি কুরতুবী 'বলা হয়' শিরোনামে উল্লেখ করেন। জীবিতদের জন্য মাটি কিফাত এই অর্থে যে মানুষের দেহ থেকে যা বের হয়, তা মাটিতে পুঁতে ফেলা হয়। কারণ শুধু মাটির উপর থাকায় ঘিরে রাখার কিছু নেই। ঘিরে রাখা মানে চারদিক থেকে বেষ্টন করা। উপর আর ভেতরের ব্যাখ্যার বিরুদ্ধে এটা যুক্তিসংগত আপত্তি, আর কুরতুবী নিজের ব্যাখ্যার পাশে এটাকেও থাকতে দেন। দুটি ব্যাখ্যা একে অপরকে বাতিল করে না। মাটি জীবিতদের তাদের ঘরে ধরে রাখতে পারে, আবার তারা যা ফেলে দেয় তাও নিজের ভেতরে নিতে পারে।"
+          },
+          {
+            "en": "At-Tabari attaches two small acts to this reading. Through ar-Rabi' ibn Khuthaym, he relays that 'Abdullah ibn Mas'ud (RA) found a louse in his garment, buried it in the mosque and recited this verse with the next. And Mujahid, speaking of a man who sees a louse in his clothes while in the mosque, said: if you wish, throw it out, and if you wish, cover it over; then he recited the same words. These are what a Companion and a Successor did and said, as at-Tabari reports them.",
+            "bn": "তাবারী এ ব্যাখ্যার সঙ্গে দুটি ছোট ঘটনা জুড়ে দেন। রাবী' ইবন খুসাইমের সূত্রে তিনি বর্ণনা করেন, আবদুল্লাহ ইবন মাসউদ (রাঃ) নিজের কাপড়ে একটা উকুন পেয়ে সেটাকে মসজিদে পুঁতে দেন, তারপর এই আয়াত ও পরের আয়াত তিলাওয়াত করেন। মসজিদে থাকা অবস্থায় কেউ কাপড়ে উকুন দেখলে, সে প্রসঙ্গে মুজাহিদ বলেছেন: চাইলে ফেলে দাও, চাইলে ঢেকে দাও। তারপর তিনি একই আয়াত পড়েছেন। তাবারীর বর্ণনা অনুযায়ী এগুলো একজন সাহাবী ও একজন তাবেয়ীর কাজ ও কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Two Words Are Accusative",
+          "bn": "দুই শব্দের যবরের কারণ"
+        },
+        "p": [
+          {
+            "en": "Ahya'an wa amwata stand in the accusative, and at-Tabari reports that the grammarians differed over what puts them there. Some Basran grammarians said they are circumstantial, a hal. Some Kufan grammarians said the noun kifat itself governs them, as if the verse had said kifata ahya'in wa amwatin, a holder of the living and the dead; when the governing noun takes tanwin, what follows goes into the accusative. They compared the reading aw it'amun fi yawmin dhi masghabatin yatiman, in 90:14 and 90:15. At-Tabari says the Kufan view is closer to correct in his judgement.",
+            "bn": "আহইয়াআন ওয়া আমওয়াতা শব্দ দুটি যবরযুক্ত, মানসূব। তাবারী জানান, কিসের কারণে এরা মানসূব, তা নিয়ে ব্যাকরণবিদদের মধ্যে মতভেদ আছে। বসরার কিছু ব্যাকরণবিদ বলেছেন, এগুলো হাল, অর্থাৎ অবস্থা বোঝায়। কূফার কিছু ব্যাকরণবিদ বলেছেন, কিফাত বিশেষ্যটি নিজেই এদের নিয়ন্ত্রণ করে, যেন বলা হয়েছে কিফাতা আহইয়াইন ওয়া আমওয়াতিন, জীবিত ও মৃতের আধার। নিয়ন্ত্রক বিশেষ্যে তানবীন থাকলে পরের শব্দ যবর পায়। তাঁরা তুলনা টেনেছেন ৯০:১৪ ও ৯০:১৫ আয়াতের পাঠের সঙ্গে: আও ইত'আমুন ফী ইয়াওমিন যী মাসগাবাতিন ইয়াতীমান। তাবারী বলেন, তাঁর বিবেচনায় কূফার মতটাই সঠিকের বেশি কাছাকাছি।"
+          },
+          {
+            "en": "Al-Qurtubi names al-Farra' as the holder of the Kufan view, and glosses the circumstantial reading as describing the earth: of it, some is this and some is that. He then records a different reading altogether. Al-Akhfash, Abu 'Ubaydah and Mujahid in one of his two views took living and dead to describe the earth itself: land that is alive, which grows plants, and land that is dead, which does not. Al-Akhfash also held that kifat is the plural of kafitah, the earth being meant as a plural and so described with one.",
+            "bn": "কুরতুবী কূফার মতের প্রবক্তা হিসেবে ফাররার নাম নেন। আর হালের ব্যাখ্যাকে তিনি পৃথিবীর বর্ণনা হিসেবে পড়েন: তার কিছু অংশ এমন, কিছু অংশ তেমন। তারপর তিনি সম্পূর্ণ ভিন্ন একটি ব্যাখ্যা উল্লেখ করেন। আখফাশ, আবু উবাইদা এবং মুজাহিদ তাঁর দুই মতের একটিতে বলেছেন, জীবিত ও মৃত শব্দ দুটি পৃথিবীরই বিশেষণ। জীবিত জমি, যাতে ফসল গজায়, আর মৃত জমি, যাতে কিছু গজায় না। আখফাশ আরও বলেছেন, কিফাত হলো কাফিতা শব্দের বহুবচন। পৃথিবী বলতে এখানে বহু ভূখণ্ড বোঝানো হয়েছে, তাই বহুবচন দিয়ে তার বর্ণনা।"
+          },
+          {
+            "en": "The choice changes the picture. On the reading at-Tabari prefers, the living and the dead are what the earth holds, people above and people below. On the reading of al-Akhfash and Abu 'Ubaydah, they are two kinds of earth, the fertile and the barren. Both are reported by named authorities, and at-Tabari's preference is his own. Most of the sources fetched for this verse, at-Tabari, Ibn Kathir, al-Baghawi, as-Sa'di and the Muyassar among them, explain it in terms of people.",
+            "bn": "কোন ব্যাখ্যা নেওয়া হলো, তাতে ছবিটাই বদলে যায়। তাবারী যেটা পছন্দ করেন, সে অনুযায়ী জীবিত ও মৃত হলো সেই মানুষেরা, যাদের মাটি ধরে রাখে, কেউ উপরে, কেউ নিচে। আখফাশ ও আবু উবাইদার ব্যাখ্যায় এরা দুই রকম জমি, উর্বর আর অনুর্বর। দুটি মতই নাম ধরে উল্লেখিত আলেমদের থেকে বর্ণিত, আর পছন্দটা তাবারীর নিজের। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার বেশির ভাগই মানুষের কথা দিয়ে ব্যাখ্যা করেছে। তাবারী, ইবন কাসীর, বাগাভী, সা'দী ও মুয়াসসার তাদের মধ্যে আছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Grave Counted as Mercy",
+          "bn": "কবরও এক রহমত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di, on 77:26, gives the second half of the verse its most tender turn. The living are held in houses and the dead in graves. Then he draws the parallel: just as houses and palaces are among Allah's blessings and favours to His servants, so too are graves. They are a mercy for the dead and a covering for them, so that their bodies do not lie exposed to wild animals and other creatures. On this reading the grave is not only where a life ends. It is a shelter given to the body.",
+            "bn": "৭৭:২৬ আয়াতের আলোচনায় সা'দী আয়াতের দ্বিতীয় অর্ধেককে সবচেয়ে কোমল অর্থে পড়েন। জীবিতদের ঠাঁই ঘরে, মৃতদের ঠাঁই কবরে। তারপর তিনি মিলটা দেখান। ঘরবাড়ি আর প্রাসাদ যেমন বান্দাদের প্রতি আল্লাহর নিয়ামত ও অনুগ্রহ, কবরও তেমনই। কবর মৃতদের জন্য রহমত আর পর্দা, যাতে তাদের দেহ বন্য পশু ও অন্যান্য প্রাণীর সামনে খোলা পড়ে না থাকে। এই পাঠ অনুযায়ী কবর শুধু জীবনের শেষ ঠিকানা নয়। এ হলো দেহকে দেওয়া এক আশ্রয়।"
+          },
+          {
+            "en": "Al-Qurtubi draws legal points from the verse, and they are his. He says it indicates that the dead must be covered and buried, and, under the same duty, a person's hair and whatever else is removed from him. He also relays from Rabi'ah that a grave robber's hand is cut, because, Rabi'ah reasoned from this verse, the earth is a secure place of keeping, a hirz; al-Qurtubi refers to al-Ma'idah for it. The article reports these positions as he gives them and offers no ruling of its own.",
+            "bn": "কুরতুবী আয়াত থেকে কিছু ফিকহী বিধান বের করেন, আর সেগুলো তাঁরই সিদ্ধান্ত। তিনি বলেন, আয়াতটি নির্দেশ করে যে মৃতকে ঢেকে দেওয়া ও দাফন করা আবশ্যক। একই দায়িত্বের আওতায় তিনি মানুষের চুল এবং তার শরীর থেকে সরানো অন্য সব কিছুকেও রাখেন। তিনি রাবীআ থেকে আরও বর্ণনা করেন, কবরচোরের হাত কাটা হবে। এ আয়াত থেকে রাবীআর যুক্তি ছিল, মাটি এক সুরক্ষিত হেফাজতের স্থান, হিরয। এ জন্য কুরতুবী সূরা মায়িদার দিকে ইঙ্গিত করেন। এখানে মতগুলো তাঁর বয়ান অনুযায়ীই তুলে ধরা হলো। এ লেখা নিজে কোনো বিধান দিচ্ছে না।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it. Al-Qurtubi does cite, without a chain or a grading in the text fetched, words he ascribes to the Prophet ﷺ on the subject of nail clippings, and refers back to al-Baqarah for it. It is mentioned here only so that the reader knows it is there; nothing in this article rests on it. What the sources do supply are the reports from Companions and Successors already given, each attributed to the scholar who carries it.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। কুরতুবী অবশ্য কাটা নখ প্রসঙ্গে নবী ﷺ-এর নামে কিছু কথা উল্লেখ করেছেন, আর এর ব্যাখ্যার জন্য সূরা বাকারার দিকে ইঙ্গিত করেছেন। তবে দেখা পাঠে তার কোনো সনদ বা মান নির্ণয় নেই। পাঠক যেন জানেন যে এমন বর্ণনা আছে, শুধু সেজন্যই এখানে উল্লেখ। এ লেখার কোনো কথা এর উপর দাঁড়িয়ে নেই। সূত্রগুলো যা দিয়েছে, তা হলো উপরে উল্লেখিত সাহাবী ও তাবেয়ীদের বর্ণনা, প্রতিটি সেই আলেমের নামে, যিনি তা বহন করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walking on a Keeping Ground",
+          "bn": "যে মাটি আগলে রাখে"
+        },
+        "p": [
+          {
+            "en": "The surah around this verse is full of warning: the Day of Decision, the refrain of woe repeated after each sign. Yet this verse asks the listener to look down at something ordinary. The ground is presented as a host, not a threat. It holds a person's home, takes in what he discards, and at the end receives his body and covers it. Ash-Sha'bi saw that in one glance at a funeral: houses on one side, graves on the other, and one word for both.",
+            "bn": "এ আয়াতের চারপাশে সূরাটি সতর্কবাণীতে ভরা: ফয়সালার দিন, আর প্রতিটি নিদর্শনের পর দুর্ভোগের ধুয়া। তবু এ আয়াত শ্রোতাকে বলে, পায়ের নিচের সাধারণ জিনিসটার দিকে তাকাও। মাটিকে এখানে দেখানো হয়েছে আতিথেয়তা দেওয়া গৃহস্থের মতো, হুমকি হিসেবে নয়। সে মানুষের ঘর ধরে রাখে, মানুষ যা ফেলে দেয় তা নিজের ভেতরে নেয়, আর শেষে তার দেহ গ্রহণ করে ঢেকে দেয়। জানাযায় দাঁড়িয়ে এক নজরেই শা'বী তা দেখেছিলেন। একপাশে ঘরবাড়ি, অন্যপাশে কবর, আর দুটোর জন্য একটি শব্দ।"
+          },
+          {
+            "en": "The verse asks for an answer in the life of whoever hears it. Gratitude for a roof is part of it, since as-Sa'di counts houses among the favours. Respect for the body is part of it, since he counts the grave as a mercy and a covering. Care for what we put into the ground follows from the reading at-Tabari allows. And the refrain that closes the passage at 77:28 is the reminder that a person who sees all this, and still denies the One who made it so, has been warned.",
+            "bn": "আয়াতটি উত্তর চায় শ্রোতার জীবনে। মাথার উপরের ছাদের জন্য শোকর তার একটা অংশ, কারণ সা'দী ঘরবাড়িকে নিয়ামতের মধ্যে গুনেছেন। দেহের প্রতি সম্মান তার আরেকটা অংশ, কারণ তিনি কবরকে রহমত ও পর্দা বলেছেন। মাটিতে আমরা যা রাখি তার প্রতি যত্ন আসে সেই ব্যাখ্যা থেকে, যাকে তাবারী সম্ভব বলে মেনেছেন। আর ৭৭:২৮ আয়াতে অংশটির শেষের ধুয়া মনে করিয়ে দেয়, যে এসব দেখেও এর স্রষ্টাকে অস্বীকার করে, তাকে আগেই সতর্ক করা হয়েছে।"
+          }
+        ]
+      }
+    ]
+  },
   "77:31-32": {
     "sections": [
       {

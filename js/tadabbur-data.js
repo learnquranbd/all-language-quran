@@ -29107,6 +29107,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The righteous are promised a cup cool and fragrant beyond anything here; let goodness become your settled habit towards Allah and people, not an occasional act.",
     "lessonBn": "নেককারদের জন্য প্রতিশ্রুত পেয়ালা এখানকার যেকোনো কিছুর চেয়ে শীতল ও সুবাসিত। ভালো কাজকে মাঝেমধ্যের ঘটনা নয়, আল্লাহ ও মানুষের প্রতি আপনার পাকা অভ্যাস বানিয়ে নিন।"
+  },
+  "77:25": {
+    "reflectionEn": "The ground under my feet holds two kinds of people. The living walk on its back, build on it, sleep on it and come home to it each evening. The dead lie in its belly, out of sight. The verse asks a question that needs no answer: have We not made the earth a kifat, a holder that gathers them both? It is offered as a favour, set beside the favour of my own making. The same soil that carries my house today will cover me tomorrow, and it does both without being asked. So the street I walk is not neutral ground. It is the place that keeps me now, and the place that will keep me until I am raised.",
+    "reflectionBn": "আমার পায়ের নিচের মাটি দুই রকম মানুষকে ধরে রেখেছে। জীবিতরা তার পিঠে হাঁটে, ঘর তোলে, ঘুমায়, সন্ধ্যায় ঘরে ফেরে। মৃতরা শুয়ে আছে তার পেটে, চোখের আড়ালে। আয়াতটি এমন এক প্রশ্ন রাখে যার উত্তর দিতে হয় না: আমি কি পৃথিবীকে কিফাত বানাইনি, এমন আধার যা দুই দলকেই নিজের কাছে টেনে রাখে? কথাটা এসেছে অনুগ্রহের তালিকায়, আমাকে সৃষ্টি করার অনুগ্রহের ঠিক পরে। যে মাটি আজ আমার ঘর বয়ে বেড়াচ্ছে, কাল সেই মাটিই আমাকে ঢেকে দেবে। দুটো কাজই সে করে কেউ না বলতেই। তাই যে পথে আমি হাঁটি, তা নিছক জমি নয়। আজ সে আমাকে ধরে রাখছে, আর আবার ওঠানো পর্যন্ত সে-ই আমাকে রেখে দেবে।",
+    "pointsEn": [
+      "When I last walked past a graveyard, did I see it as the other half of the same ground I live on?",
+      "Which comfort of my home have I taken for granted, though the verse counts the earth that holds it as a favour?",
+      "If the earth will cover my body, what am I doing now about the deeds it cannot cover?",
+      "How do I treat the ground itself, and what I leave in it, given that it is described as a holder made for me?",
+      "Does the thought of being held in the earth make me anxious, or does it remind me that I am kept, not lost?"
+    ],
+    "pointsBn": [
+      "শেষবার কবরস্থানের পাশ দিয়ে যাওয়ার সময় কি মনে হয়েছিল, এটা আমার বসবাসের সেই একই মাটির অন্য অর্ধেক?",
+      "ঘরের কোন আরামটাকে আমি এমনিই পাওয়া ধরে নিয়েছি, অথচ যে মাটি সেই ঘর ধরে রেখেছে, আয়াত তাকে অনুগ্রহ বলে গুনেছে?",
+      "মাটি একদিন আমার শরীর ঢেকে দেবে। কিন্তু যে আমল মাটি ঢাকতে পারে না, তার জন্য এখন আমি কী করছি?",
+      "মাটিকে আমার জন্য বানানো আধার বলা হয়েছে। তাহলে মাটির সঙ্গে আর তাতে যা ফেলে যাই তার সঙ্গে আমার আচরণ কেমন?",
+      "মাটির ভেতরে রাখা হবে, এ ভাবনা কি আমাকে অস্থির করে, নাকি মনে করিয়ে দেয় যে আমি হারিয়ে যাচ্ছি না, আমাকে রেখে দেওয়া হচ্ছে?"
+    ],
+    "lessonEn": "The earth that carries your home today will hold your body tomorrow; both are His favour, so walk on it grateful and ready for the day it gives you back.",
+    "lessonBn": "যে মাটি আজ আপনার ঘর বয়ে বেড়ায়, কাল সে-ই আপনার দেহ ধরে রাখবে। দুটোই আল্লাহর অনুগ্রহ। তাই কৃতজ্ঞ হয়ে তার উপর হাঁটুন, আর সেদিনের জন্য প্রস্তুত থাকুন যেদিন সে আপনাকে ফিরিয়ে দেবে।"
   }
 };
 
