@@ -163,6 +163,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Question Turns to Its Hearers",
+          "bn": "প্রশ্ন এবার শ্রোতার দিকে"
+        },
+        "p": [
+          {
+            "en": "Az-Zukhruf opens with Ha-Mim, an oath by the clear Book, and two verses on what that Book is: made an Arabic Qur'an so that its hearers might understand (43:3), and held high and wise with Allah in the Mother of the Book (43:4). The article on 43:3 covers that ground. The fifth verse turns from the Book to the people it was sent to, and it does so with a question: a-fa-nadribu 'ankumu dh-dhikra safhan an kuntum qawman musrifin, shall We then turn the Reminder away from you, in disregard, because you are a people given to excess?",
+            "bn": "সূরা যুখরুফ শুরু হয় হা-মীম দিয়ে। তারপর সুস্পষ্ট কিতাবের শপথ, আর দুটি আয়াতে সেই কিতাবের পরিচয়। একে আরবি কুরআন বানানো হয়েছে, যাতে শ্রোতারা বুঝতে পারে (৪৩:৩)। আর উম্মুল কিতাবে আল্লাহর কাছে তা সুউচ্চ ও প্রজ্ঞাময় (৪৩:৪)। ৪৩:৩-এর প্রবন্ধে এসব কথা আলোচিত হয়েছে। পঞ্চম আয়াতে কথার মুখ কিতাব থেকে ঘুরে যায় সেই মানুষদের দিকে, যাদের কাছে কিতাব এসেছে। আর আসে প্রশ্নের আকারে: আফানাদরিবু আনকুমুয যিকরা সাফহান আন কুনতুম কাওমাম মুসরিফীন। তোমরা সীমালঙ্ঘনকারী জাতি বলে কি আমি তোমাদের থেকে উপদেশ সরিয়ে নেব, মুখ ফিরিয়ে?"
+          },
+          {
+            "en": "Al-Baghawi names the form: a question in the sense of denial, istifham bi-ma'na al-inkar, meaning We will not do that. The answer is folded into the asking. Placed straight after the description of the Book, the question reads: having made it clear and given it rank, would Allah then fold it away because its first audience was unwilling? None of the tafsirs fetched for this verse gives an occasion of revelation for it, and none attaches a hadith to it. Its setting is simply its place in the surah's opening.",
+            "bn": "প্রশ্নের ধরনটা বাগাভী চিনিয়ে দেন। এটা অস্বীকৃতির অর্থে প্রশ্ন, ইসতিফহাম বিমা'নাল ইনকার। মানে, আমি তা করব না। উত্তরটা প্রশ্নের ভেতরেই গাঁথা। কিতাবের পরিচয়ের ঠিক পরেই প্রশ্নটা বসেছে। তাই তার সুর দাঁড়ায় এমন: যে কিতাবকে স্পষ্ট করা হলো, মর্যাদা দেওয়া হলো, প্রথম শ্রোতারা অনিচ্ছুক বলে কি আল্লাহ তা গুটিয়ে নেবেন? এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতে নাযিলের প্রেক্ষাপট নেই, কোনোটি এর সঙ্গে কোনো হাদীসও জোড়েনি। আয়াতের প্রেক্ষাপট তাই সূরার সূচনায় তার জায়গাটুকুই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Showing the Side of the Neck",
+          "bn": "ঘাড়ের পাশ ফিরিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi starts with the words. One says darabtu 'anhu, or adrabtu 'anhu, when one leaves a thing and holds back from it. Safh is the verbal noun of safahtu 'anhu, I turned away from him, and al-Baghawi gives the picture behind it: you turn to him the flat side of your face and neck. Al-Qurtubi traces it to the same source, safhat al-'unuq, the side of the neck. The image is of someone who, instead of facing a person, shows him the side of his head and passes on.",
+            "bn": "বাগাভী শুরু করেন শব্দ দিয়ে। কোনো কিছু ছেড়ে দিলে, তা থেকে হাত গুটিয়ে নিলে আরবরা বলে দারাবতু আনহু, কিংবা আদরাবতু আনহু। সাফহ এসেছে সাফাহতু আনহু থেকে, অর্থাৎ তার থেকে মুখ ফিরিয়ে নিলাম। শব্দের পেছনের ছবিটাও বাগাভী দেখান: তুমি তার দিকে মুখ আর ঘাড়ের পাশটা ফিরিয়ে দিলে। কুরতুবীও একই মূলে পৌঁছান, সাফহাতুল উনুক, ঘাড়ের পাশ। ছবিটা এমন একজনের, যে কারও মুখোমুখি না হয়ে তাকে মাথার পাশটা দেখিয়ে চলে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi also notes how the word sits in the sentence. Safhan stands as a verbal noun because a-fa-nadribu here carries the sense of a-fa-nasfahu, shall We turn away; or it stands for safihin, turning away, as one says a man came walking. He gives the root a second use: safahtu 'an fulan means I turned from his sin, that is, I let it pass. Both senses, ignoring someone and overlooking what he did, come into play once the commentators ask what adh-dhikr in this verse refers to.",
+            "bn": "বাক্যে শব্দটা কীভাবে বসেছে, কুরতুবী তাও দেখান। সাফহান এখানে মাসদার, কারণ আফানাদরিবু এখানে আফানাসফাহু অর্থে, অর্থাৎ আমি কি মুখ ফিরিয়ে নেব। কিংবা এর মানে সাফিহীন, মুখ ফিরিয়ে, যেমন বলা হয় লোকটা হেঁটে এল। ধাতুটির আরেক ব্যবহারও তিনি দেখান। সাফাহতু আন ফুলান মানে অমুকের গুনাহ থেকে চোখ ফিরিয়ে নিলাম, মানে তা ছেড়ে দিলাম। একটা মানে কাউকে উপেক্ষা করা, আরেকটা তার দোষ মাফ করে দেওয়া। আয়াতের যিকর বলতে কী বোঝায়, এ প্রশ্নে এসে দুটো অর্থই কাজে লাগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Would the Revelation Stop",
+          "bn": "ওহী কি থেমে যাবে"
+        },
+        "p": [
+          {
+            "en": "The first reading takes adh-dhikr as the Qur'an. Al-Qurtubi gives this from ad-Dahhak and others, and al-Baghawi states it outright. His paraphrase: shall We leave off revelation to you and hold back from sending down the Qur'an, so that We neither command nor forbid you, because you went to excess in disbelief and abandoned faith? He attributes it to Qatada and a group. Al-Muyassar and as-Sa'di give the same sense without names: shall We turn from you and stop sending it down because you turn from it and do not yield?",
+            "bn": "প্রথম ব্যাখ্যায় যিকর মানে কুরআন। কুরতুবী এটা আনেন দাহহাক ও অন্যদের থেকে, আর বাগাভী সরাসরিই বলেন, যিকর বলতে কুরআন বোঝানো হয়েছে। তাঁর ভাষায় অর্থ দাঁড়ায়: তোমরা কুফরিতে সীমা ছাড়িয়েছ, ঈমান ছেড়ে দিয়েছ বলে কি আমি ওহী বন্ধ করে দেব? কুরআন নাযিল থামিয়ে দেব, যাতে তোমাদের কোনো আদেশও না করি, নিষেধও না করি? এই মত তিনি কাতাদা ও একদল আলেমের বলে উল্লেখ করেন। মুয়াসসার আর সা'দী কারও নাম না নিয়ে একই অর্থ দেন: তোমরা মুখ ফিরিয়েছ, মেনে নাওনি বলে কি আমিও মুখ ফিরিয়ে কুরআন পাঠানো থামিয়ে দেব?"
+          },
+          {
+            "en": "Within this reading the withheld thing is phrased in several ways. Al-Qurtubi reports from Qatada, and from Ibn Zayd, shall We hold back from sending the Qur'an down because you do not believe in it. Al-Kisa'i, quoted by both al-Baghawi and al-Qurtubi, has shall We fold the Reminder up away from you, so that you are no longer admonished. Al-Kalbi in al-Baghawi, and as-Suddi in a further report in al-Qurtubi, speak of being left sudan, aimless, with no command and no prohibition. At-Tabari's wording: shall We leave off reminding you by this Qur'an?",
+            "bn": "এই ব্যাখ্যার ভেতরেও কী থামানো হবে, তা নানাভাবে বলা হয়েছে। কুরতুবী কাতাদা ও ইবন যায়দ থেকে আনেন: তোমরা কুরআনে ঈমান আনো না বলে কি আমি তা নাযিল করা থেকে বিরত থাকব? কিসাঈর কথা বাগাভী ও কুরতুবী দুজনেই আনেন: আমি কি উপদেশটা ভাঁজ করে তোমাদের থেকে সরিয়ে রাখব, যাতে তোমাদের আর নসিহত করা না হয়? বাগাভীতে কালবী, আর কুরতুবীর এক বর্ণনায় সুদ্দী বলেন সুদা ছেড়ে দেওয়ার কথা, মানে লাগামহীন, কোনো আদেশ-নিষেধ ছাড়া। তাবারীর ভাষায়: আমি কি এই কুরআন দিয়ে তোমাদের উপদেশ দেওয়া ছেড়ে দেব?"
+          },
+          {
+            "en": "As-Sa'di answers the question for the reader. Rather, he writes, We send the Book down to you and make everything plain in it. If you believe in it and are guided, that is from the success granted to you; if not, the proof stands against you and you are left with clear knowledge of your own case. On this reading refusal does not stop the message. It changes only what the message becomes for the person who refuses: guidance for whoever takes it, and proof against whoever turns away.",
+            "bn": "প্রশ্নের উত্তরটা সা'দী পাঠকের জন্য খুলে বলেন। না, বরং আমি তোমাদের কাছে কিতাব নাযিল করি, তাতে সবকিছু স্পষ্ট করে দিই। ঈমান এনে হিদায়াত পেলে সেটা তোমাদের প্রতি আল্লাহর তাওফিক। না হলে প্রমাণ তোমাদের বিরুদ্ধে দাঁড়িয়ে যায়, আর নিজের অবস্থা সম্পর্কে তোমরা পুরোপুরি জেনেবুঝেই থাকো। এই ব্যাখ্যায় অস্বীকার করলে বার্তা থামে না। বদলায় শুধু অস্বীকারকারীর জন্য বার্তাটা কী হয়ে দাঁড়ায়। যে গ্রহণ করে, তার জন্য হিদায়াত। যে মুখ ফেরায়, তার বিরুদ্ধে প্রমাণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or Left Without Reckoning",
+          "bn": "নাকি বিনা হিসাবে ছাড়"
+        },
+        "p": [
+          {
+            "en": "The second reading hears the verse as a threat. Al-Qurtubi reports that some took adh-dhikr to mean the punishment: shall We turn the punishment away from you and not penalise you for your excess and disbelief? He names Mujahid, Abu Salih and as-Suddi for it, and al-'Awfi's report from Ibn 'Abbas (RA). At-Tabari gives their words with chains. Abu Salih: with the punishment. As-Suddi: shall We turn the punishment away from you? Mujahid: you deny the Qur'an and then are not punished for it?",
+            "bn": "দ্বিতীয় ব্যাখ্যায় আয়াতটা শোনায় হুমকির মতো। কুরতুবী জানান, কেউ কেউ যিকর মানে করেছেন আযাব। অর্থ তখন: তোমাদের সীমালঙ্ঘন আর কুফরির জন্য শাস্তি না দিয়ে কি আমি আযাবটা তোমাদের থেকে সরিয়ে রাখব? এই মতের জন্য তিনি মুজাহিদ, আবু সালিহ ও সুদ্দীর নাম নেন, আর আওফীর সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনা আনেন। তাবারী সনদসহ তাঁদের কথাগুলো দেন। আবু সালিহ: আযাব দিয়ে। সুদ্দী: আমি কি তোমাদের থেকে আযাব সরিয়ে নেব? মুজাহিদ: তোমরা কুরআনকে মিথ্যা বলবে, তারপর এর জন্য শাস্তিও পাবে না?"
+          },
+          {
+            "en": "Ibn 'Abbas (RA), in at-Tabari's report, puts it as a question about what the hearers assume: did you reckon that We would overlook you, nasfahu 'ankum, when you have not yet done what you were commanded? Here the root's second sense, letting a fault pass, comes forward. At-Tabari words this group's view as: shall We leave you, polytheists, as you suppose, and not remind you of Our punishment? Ibn Kathir's Arabic summary gives the same reading, names Ibn 'Abbas, Mujahid, Abu Salih and as-Suddi, and records that Ibn Jarir, that is at-Tabari, chose it.",
+            "bn": "তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ) কথাটা বলেন শ্রোতাদের ধারণা ধরে: তোমরা কি ভেবেছ, আমি তোমাদের মাফ করে দেব, নাসফাহু আনকুম, অথচ যা আদেশ করা হয়েছিল তা তোমরা এখনো করোনি? এখানে ধাতুর দ্বিতীয় অর্থটা, অর্থাৎ দোষ ছেড়ে দেওয়া, সামনে চলে আসে। এই দলের মত তাবারী নিজে এভাবে বলেন: হে মুশরিকরা, তোমাদের ধারণামতো কি আমি তোমাদের ছেড়ে দেব, আমার শাস্তির কথা আর মনে করিয়ে দেব না? ইবন কাসীরও আরবি তাফসীরে এই ব্যাখ্যাই দেন। ইবন আব্বাস, মুজাহিদ, আবু সালিহ ও সুদ্দীর নাম নেন, আর জানান যে ইবন জারীর, অর্থাৎ তাবারী, এটাকেই বেছে নিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Reads a Warning",
+          "bn": "তাবারী পড়েন সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "At-Tabari weighs them and prefers the reading of punishment: shall We turn the punishment from you, leave you and turn aside from you, because you are a people given to excess who do not believe in your Lord? His reason comes from what follows. Allah follows this verse with news of earlier nations who denied their messengers and of the vengeance that fell on them. That, he argues, shows the verse is a threat to the polytheists it addresses, since they had taken the same road of denial as those before them.",
+            "bn": "তাবারী দুটো মত ওজন করে আযাবের ব্যাখ্যাটিকে অগ্রাধিকার দেন। অর্থ তাঁর মতে: তোমরা সীমালঙ্ঘনকারী জাতি, নিজের রবে ঈমান আনো না, তাই বলে কি আমি আযাব সরিয়ে রেখে তোমাদের ছেড়ে দেব, তোমাদের থেকে মুখ ফিরিয়ে নেব? যুক্তিটা তিনি নেন পরের আয়াতগুলো থেকে। এ আয়াতের পরেই আল্লাহ আগের জাতিগুলোর খবর দিয়েছেন, যারা নিজেদের রাসূলদের মিথ্যা বলেছিল, আর তাদের উপর যে শাস্তি নেমেছিল তার কথা বলেছেন। তাবারীর মতে এটাই প্রমাণ যে আয়াতটা সম্বোধিত মুশরিকদের প্রতি হুমকি। কারণ অস্বীকারের যে পথে আগের লোকেরা হেঁটেছিল, এরাও সেই পথ ধরেছিল।"
+          },
+          {
+            "en": "The difference is real, and the sources leave it standing. Al-Qurtubi lists both without choosing. Al-Baghawi gives the Qur'an reading first, as Qatada's and a group's, then lists Mujahid and as-Suddi's version among the others. Ibn Kathir records at-Tabari's choice, then quotes Qatada and calls his remark very subtle in meaning, latif al-ma'na jiddan, without saying in so many words that he prefers it. Each reading leaves the hearer something: on one, the Reminder keeps coming; on the other, a delay is not impunity.",
+            "bn": "মতভেদটা সত্যিকারের, আর উৎসগুলো তা মিটিয়ে দেয়নি। কুরতুবী দুটো মতই উল্লেখ করেন, কোনোটা বেছে নেন না। বাগাভী আগে আনেন কুরআনের ব্যাখ্যাটা, কাতাদা ও একদলের মত হিসেবে। তারপর অন্য মতগুলোর মধ্যে মুজাহিদ ও সুদ্দীর কথা রাখেন। ইবন কাসীর তাবারীর পছন্দের কথা জানান। তারপর কাতাদার উক্তি এনে বলেন, এর অর্থ অত্যন্ত সূক্ষ্ম, লাতীফুল মা'না জিদ্দান। তবে তিনি এটাকেই অগ্রাধিকার দেন, এমন কথা স্পষ্ট করে বলেন না। দুই ব্যাখ্যাই শ্রোতার হাতে কিছু দিয়ে যায়। একটায় উপদেশ আসতেই থাকে। অন্যটায় শাস্তি দেরিতে আসা মানে রেহাই নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called For Twenty Years",
+          "bn": "বিশ বছর ধরে ডাকা"
+        },
+        "p": [
+          {
+            "en": "Qatada's remark is the line most often quoted on this verse. At-Tabari carries it with a chain through Sa'id: musrifin means polytheists; and by Allah, had this Qur'an been lifted when the first of this Umma rejected it, they would have perished, but He called them to it for twenty years, or as long as Allah willed. A second report, through Ma'mar, has Qatada say that had this Umma not believed, the Reminder would have been turned away from them, the dhikr being what Allah sent down of His commands and prohibitions.",
+            "bn": "এ আয়াত প্রসঙ্গে সবচেয়ে বেশি উদ্ধৃত হয় কাতাদার উক্তি। তাবারী তা আনেন সাঈদের সূত্রে। কাতাদা বলেন, মুসরিফীন মানে মুশরিক। আর আল্লাহর কসম, এই উম্মাহর প্রথম দিকের লোকেরা যখন কুরআন প্রত্যাখ্যান করেছিল, তখনই যদি তা তুলে নেওয়া হতো, তারা ধ্বংস হয়ে যেত। কিন্তু তিনি ২০ বছর, কিংবা আল্লাহ যতদিন চেয়েছেন, ততদিন তাদের এর দিকে ডেকেছেন। মা'মারের সূত্রে আরেক বর্ণনায় কাতাদা বলেন, এই উম্মাহ ঈমান না আনলে তাদের থেকে উপদেশ সরিয়ে নেওয়া হতো। যিকর বলতে তিনি বোঝান আল্লাহর নাযিল করা আদেশ-নিষেধ।"
+          },
+          {
+            "en": "Ibn Kathir's text of the same remark adds that Allah returned to them with His favour and His mercy, repeated it to them and called them to it. Al-Baghawi and al-Qurtubi carry it as well, al-Qurtubi with the words that He went over it with them again and again in His mercy. The article on 43:3 touches this remark in passing; here it belongs to its own verse. Ibn Kathir draws out the point: out of His kindness and mercy, Allah does not stop calling people to good and to the wise Reminder, even when they turn away from it.",
+            "bn": "একই উক্তির যে পাঠ ইবন কাসীর দেন, তাতে আছে: আল্লাহ তাঁর অনুগ্রহ আর রহমত নিয়ে তাদের দিকে বারবার ফিরেছেন, তাদের সামনে বারবার পেশ করেছেন, এর দিকে ডেকেছেন। বাগাভী ও কুরতুবীও উক্তিটি আনেন। কুরতুবীর পাঠে আছে, তিনি রহমত করে তাদের সামনে তা বারবার ফিরিয়ে এনেছেন। ৪৩:৩-এর প্রবন্ধে উক্তিটির কথা এসেছে প্রসঙ্গক্রমে, এখানে তা নিজের আয়াতে। ইবন কাসীর এর সারকথা বের করেন। নিজের দয়া আর রহমতের কারণে আল্লাহ মানুষকে কল্যাণের দিকে, প্রজ্ঞাময় উপদেশের দিকে ডাকা থামান না, তারা সীমা ছাড়িয়ে মুখ ফিরিয়ে নিলেও।"
+          },
+          {
+            "en": "He gives the purpose too. Allah commanded it so that those for whom guidance was decreed would be guided by it, and so that the proof would stand against those for whom wretchedness was written. Twenty years is Qatada's span, given with his own hedge, or as long as Allah willed, and it is not a figure to build on. What the remark keeps in view is persistence. Those who first pushed the Qur'an away kept hearing new verses of it, and the Reminder outlasted their refusal.",
+            "bn": "উদ্দেশ্যটাও তিনি বলে দেন। আল্লাহ এর আদেশ দিয়েছেন, যাতে যাদের জন্য হিদায়াত নির্ধারিত, তারা এর মাধ্যমে হিদায়াত পায়। আর যাদের ভাগ্যে দুর্ভাগ্য লেখা, তাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়। ২০ বছর হলো কাতাদার হিসাব, আর তিনি নিজেই সঙ্গে জুড়ে দিয়েছেন, কিংবা আল্লাহ যতদিন চেয়েছেন। সংখ্যাটার উপর তাই কিছু দাঁড় করানো ঠিক নয়। উক্তিটা যেদিকে নজর ফেরায়, তা হলো লেগে থাকা। যারা প্রথমে কুরআনকে ঠেলে সরিয়ে দিয়েছিল, তারাও নতুন নতুন আয়াত শুনে যাচ্ছিল। তাদের প্রত্যাখ্যানের চেয়ে উপদেশ টিকে ছিল বেশিদিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In Kuntum and An Kuntum",
+          "bn": "ইন কুনতুম, আন কুনতুম"
+        },
+        "p": [
+          {
+            "en": "One vowel divides the readers. At-Tabari reports that most readers of Madina and Kufa read in kuntum, with kasra, in the sense of idh kuntum, since you are; while some readers of Makka and Kufa and most of Basra read an kuntum, with fatha, in the sense of li-an kuntum, because you are. Al-Baghawi lists the kasra reading for the people of Madina, Hamza and al-Kisa'i, and the fatha for the rest. Al-Qurtubi names the fatha readers as Ibn Kathir, Abu 'Amr, 'Asim and Ibn 'Amir.",
+            "bn": "একটা স্বরচিহ্নে ক্বারীদের পাঠ আলাদা হয়েছে। তাবারী জানান, মদীনা ও কূফার অধিকাংশ ক্বারী পড়েছেন ইন কুনতুম, যের দিয়ে, ইয কুনতুম অর্থে, মানে যেহেতু তোমরা। আর মক্কা ও কূফার কিছু ক্বারী এবং বসরার অধিকাংশ পড়েছেন আন কুনতুম, যবর দিয়ে, লিআন কুনতুম অর্থে, মানে কারণ তোমরা। বাগাভীর হিসাবে যেরের পাঠ মদীনাবাসী, হামযা ও কিসাঈর, আর যবরের পাঠ বাকিদের। কুরতুবী যবরের ক্বারীদের নাম দেন: ইবন কাসীর, আবু আমর, আসিম ও ইবন আমির।"
+          },
+          {
+            "en": "The kasra is explained in several ways. Al-Qurtubi takes it as a condition, with what precedes serving as its answer, or with the answer left unsaid, as in the phrase you are unjust if you did it. He reports az-Zajjaj taking the kasra as describing a state, because the sentence carries confirmation and rebuke. Abu 'Ubayda chose the fatha, al-Qurtubi says, because Allah reproached them for what had already come from them. At-Tabari's verdict: both are well-known readings in the cities, sound in meaning, and whoever reads either is right.",
+            "bn": "যেরের পাঠের ব্যাখ্যা একাধিক। কুরতুবী একে শর্ত হিসেবে ধরেন। আগের অংশটা তার জবাব, কিংবা জবাবটা উহ্য, যেমন বলা হয়: তুমি জালিম, যদি এটা করে থাকো। যাজ্জাজের মত তিনি জানান: যেরের পাঠে অর্থটা অবস্থা বোঝায়, কারণ বাক্যে আছে স্বীকার করানো আর তিরস্কার। আবু উবায়দা বেছে নিয়েছেন যবরের পাঠ, কুরতুবী বলেন। কারণ আল্লাহ তাদের তিরস্কার করেছেন এমন কাজের জন্য, যা তারা আগেই করে ফেলেছিল। তাবারীর রায়: দুটোই বিভিন্ন শহরে প্রসিদ্ধ পাঠ, অর্থেও সঠিক। যে-কোনোটা পড়লে পাঠক ঠিকই পড়লেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Excess, and Those Before",
+          "bn": "সীমালঙ্ঘন আর পূর্ববর্তীরা"
+        },
+        "p": [
+          {
+            "en": "Musrifin are people of israf, going past the limit. Qatada, in at-Tabari, glosses it directly as mushrikin, those who associate partners with Allah, and al-Qurtubi gives the same meaning. Al-Baghawi describes the excess as excess in disbelief and the abandoning of faith. The verses that follow turn to history: many a prophet was sent among the earlier peoples, none came to them without being mocked, and Allah destroyed those mightier than these (43:6 to 43:8). The abridged English Ibn Kathir reads those verses as consolation to the Prophet ﷺ for his people's disbelief.",
+            "bn": "মুসরিফীন মানে ইসরাফকারী, সীমা ছাড়িয়ে যাওয়া লোক। তাবারীর বর্ণনায় কাতাদা সরাসরি এর অর্থ করেন মুশরিক, যারা আল্লাহর সঙ্গে শরিক করে। কুরতুবীও একই অর্থ দেন। বাগাভী সীমালঙ্ঘনটা ব্যাখ্যা করেন কুফরিতে বাড়াবাড়ি আর ঈমান ছেড়ে দেওয়া হিসেবে। পরের আয়াতগুলো ইতিহাসের দিকে ফেরে। আগের জাতিগুলোর মধ্যে বহু নবী পাঠানো হয়েছিল, এমন কোনো নবী আসেননি যাঁকে নিয়ে তারা ঠাট্টা করেনি, আর আল্লাহ এদের চেয়ে শক্তিশালীদের ধ্বংস করেছেন (৪৩:৬ থেকে ৪৩:৮)। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই আয়াতগুলোকে দেখে নিজের কওমের কুফরিতে নবী ﷺ-এর জন্য সান্ত্বনা হিসেবে।"
+          },
+          {
+            "en": "Said plainly: these verses describe what they describe, the first hearers of the Qur'an in Makka and the peoples before them, and they license nothing against any living person or community. They name no one today as musrif and give no one a warrant to treat a neighbour as one of the destroyed. The finger they point turns back to the reader. The question put to those first hearers can be put to anyone who has heard the Reminder and turned aside from it, beginning with oneself.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এই আয়াতগুলো যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: মক্কায় কুরআনের প্রথম শ্রোতারা, আর তাদের আগের জাতিগুলো। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো কিছুর অনুমতি দেয় না। আজ কাউকে এগুলো মুসরিফ বলে চিহ্নিত করে না। প্রতিবেশীকে ধ্বংসপ্রাপ্তদের একজন ভাবার অধিকারও কাউকে দেয় না। আঙুলটা বরং ফিরে আসে পাঠকের দিকেই। প্রথম শ্রোতাদের যে প্রশ্ন করা হয়েছিল, তা করা যায় যে কাউকে, যে উপদেশ শুনেছে অথচ পাশ কাটিয়ে গেছে। আর শুরুটা নিজেকে দিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience That Keeps Calling",
+          "bn": "যে ধৈর্য ডাকতেই থাকে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an takes a working rule from the first reading: We will not give up advising you through the Qur'an, however rebellious and disobedient you become. From this it concludes that whoever is engaged in calling others to Islam should carry the message to everybody, and must not abandon a person or a group simply because they are unbelievers, irreligious, sinners or transgressors. The caller's patience is modelled on the Reminder's own, which was not lifted when its first audience pushed it away.",
+            "bn": "প্রথম ব্যাখ্যা থেকে মাআরিফুল কুরআন কাজের একটা নীতি বের করে। তোমরা যত অবাধ্য আর নাফরমান হও, কুরআন দিয়ে তোমাদের উপদেশ দেওয়া আমি ছাড়ব না। এখান থেকে তার সিদ্ধান্ত: যে মানুষকে ইসলামের দিকে ডাকে, সে সবার কাছে বার্তা পৌঁছাবে। কেউ কাফির, ধর্মবিমুখ, গুনাহগার বা সীমালঙ্ঘনকারী বলেই কোনো মানুষ বা দলকে সে ছেড়ে দেবে না। দাঈর ধৈর্যের নমুনা হলো উপদেশের নিজের ধৈর্য। প্রথম শ্রোতারা ঠেলে সরিয়ে দিলেও তা তুলে নেওয়া হয়নি।"
+          },
+          {
+            "en": "For the reader the verse works in two directions. Turned outward, it asks for patience with those who are heedless now, and leaves no room for writing anyone off. Turned inward, it asks whether Allah's patience with me has been mistaken for His approval. The Reminder that kept coming to a mocking audience still comes, in every recitation heard. On at-Tabari's reading its delay is a warning; on Qatada's its persistence is mercy. Neither reading turns the time given into a promise of impunity.",
+            "bn": "পাঠকের জন্য আয়াতটা দুই দিকে কাজ করে। বাইরের দিকে তাকালে এটা চায় আজকের গাফিল মানুষদের প্রতি ধৈর্য। কাউকে বাতিলের খাতায় ফেলে দেওয়ার সুযোগ এখানে নেই। নিজের দিকে তাকালে প্রশ্ন ওঠে: আমার প্রতি আল্লাহর ধৈর্যকে কি আমি তাঁর সন্তুষ্টি ভেবে ভুল করছি? যে উপদেশ ঠাট্টাকারী শ্রোতাদের কাছেও আসতে থেকেছে, তা আজও আসে, প্রতিটি তিলাওয়াতে। তাবারীর ব্যাখ্যায় দেরিটা সতর্কবাণী, কাতাদার ব্যাখ্যায় লেগে থাকাটা রহমত। কোনো ব্যাখ্যাতেই দেওয়া সময়টা শাস্তি থেকে রেহাইয়ের প্রতিশ্রুতি নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "43:11-12": {
     "sections": [
       {

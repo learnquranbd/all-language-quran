@@ -26689,6 +26689,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Deliver the truth and leave the response to Allah; in ease, thank the Giver and not just the gift, and in hardship, do not let one bad day erase His past favours.",
     "lessonBn": "সত্য পৌঁছে দিন, সাড়া দেওয়ার ভার আল্লাহর হাতে ছেড়ে দিন। সুখের দিনে শুধু দান নয়, দাতার শোকর করুন, আর কষ্টের একটা দিনকে তাঁর আগের সব অনুগ্রহ মুছে দিতে দেবেন না।"
+  },
+  "43:5": {
+    "reflectionEn": "The Book has just been called clear, Arabic and exalted. Then a question turns to the people hearing it: shall We turn the Reminder away from you because you have gone beyond all bounds? The question expects a no. Its first hearers mocked the message and pushed it away, and still it kept coming, verse after verse, for years. The same words also carry a warning, because being given time is not the same as being let off. I can hold the verse up as a mirror. How long has the Reminder kept reaching me while I looked elsewhere? Do I take its patience as permission? And when others turn from good advice, do I give up on them sooner than it gave up on me?",
+    "reflectionBn": "কিতাবকে এইমাত্র বলা হলো সুস্পষ্ট, আরবি, সুউচ্চ। তারপর প্রশ্নটা ঘুরে যায় শ্রোতাদের দিকে: তোমরা সীমা ছাড়িয়ে গেছ বলে কি আমি তোমাদের কাছ থেকে উপদেশ সরিয়ে নেব? প্রশ্নের উত্তর আগে থেকেই না। প্রথম যারা শুনেছিল, তারা ঠাট্টা করেছে, মুখ ফিরিয়েছে। তবু আয়াতের পর আয়াত আসতেই থেকেছে, বছরের পর বছর। একই কথার ভেতরে সতর্কবাণীও আছে। সময় পাওয়া আর ছাড় পাওয়া এক জিনিস নয়। আয়াতটাকে আমি নিজের সামনে আয়নার মতো ধরতে পারি। কতদিন ধরে উপদেশ আমার কাছে পৌঁছাচ্ছে, আর আমি অন্যদিকে তাকিয়ে আছি? এই ধৈর্যকে কি আমি অনুমতি ভেবে বসেছি? আর অন্য কেউ ভালো কথা থেকে মুখ ফেরালে, কুরআন আমাকে যত সময় দিয়েছে, তার আগেই কি আমি তার আশা ছেড়ে দিই?",
+    "pointsEn": [
+      "Which reminder in the Qur'an have I heard again and again without yet acting on it?",
+      "Do I read Allah's patience with me as approval of how I live, or as time given to turn back?",
+      "When someone I care about ignores good advice, how soon do I stop offering it, and how gently do I offer it again?",
+      "Is there a corner of my life where I have quietly asked the Reminder to keep its distance?",
+      "When I next hear the Qur'an recited, can I listen as one to whom it has been sent once more?"
+    ],
+    "pointsBn": [
+      "কুরআনের কোন উপদেশটা আমি বারবার শুনেছি, অথচ এখনো আমলে আনিনি?",
+      "আমার প্রতি আল্লাহর ধৈর্যকে আমি কী ভাবি: আমার চলাফেরার প্রতি সমর্থন, নাকি ফিরে আসার জন্য দেওয়া সময়?",
+      "প্রিয় কেউ ভালো পরামর্শ কানে না নিলে কত তাড়াতাড়ি আমি বলা থামিয়ে দিই? আর আবার বলার সময় কতটা কোমল থাকি?",
+      "জীবনের এমন কোনো কোণ কি আছে, যেখানে আমি চুপচাপ উপদেশকে দূরে থাকতে বলেছি?",
+      "এরপর কুরআন তিলাওয়াত শুনলে কি আমি এমনভাবে শুনতে পারব, যেন তা আরেকবার আমার কাছেই পাঠানো হলো?"
+    ],
+    "lessonEn": "The Reminder was not withdrawn from those who turned away. Take Allah's patience as time to return, not as approval, and do not give up on calling others to good.",
+    "lessonBn": "যারা মুখ ফিরিয়েছিল, তাদের কাছ থেকেও উপদেশ তুলে নেওয়া হয়নি। আল্লাহর ধৈর্যকে সমর্থন নয়, ফিরে আসার সময় হিসেবে নিন, আর অন্যকে ভালোর দিকে ডাকা ছেড়ে দেবেন না।"
   }
 };
 
