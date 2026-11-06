@@ -719,6 +719,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "69:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words After the Heights",
+          "bn": "উচ্চতার পরে দুটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "From 69:19 the passage follows the one handed his record in his right hand, who calls on those around him to read it. 69:21 places him in a life that pleases him, and 69:22 in a garden that is 'aliyah, which al-Muyassar explains as raised high in place and in ranks. Then 69:23 adds only two words, qutufuha daniyah: its clusters are near. The view narrows from the scale of the garden to the reach of a single hand.",
+            "bn": "৬৯:১৯ থেকে বর্ণনা চলছে সেই মানুষটিকে ঘিরে, যার আমলনামা দেওয়া হয়েছে ডান হাতে, আর যে আশপাশের সবাইকে ডেকে বলছে, পড়ে দেখো। ৬৯:২১ তাকে রাখে মনের মতো এক জীবনে, ৬৯:২২ রাখে 'আলিয়া জান্নাতে। মুয়াসসারের ব্যাখ্যায় সে জান্নাত স্থানেও উঁচু, মর্যাদার স্তরেও উঁচু। এরপর ৬৯:২৩ যোগ করে মাত্র দুটি শব্দ, কুতূফুহা দানিয়া: তার ফলের থোকা কাছে। গোটা বাগানের বিশালতা থেকে দৃষ্টি নেমে আসে একটি হাতের নাগালে।"
+          },
+          {
+            "en": "This article reads those two words with the commentators fetched for them, and then follows the sentence into 69:24, because the verse is the last line of description before the invitation to eat and drink. The opening of the scene, the record held out and the certainty of meeting the account, is treated at 69:19, and the postures of those who pick the fruit are treated at 55:54. What follows looks at what these two words add, and at the verse they lead into.",
+            "bn": "এই লেখায় দুটি শব্দকে পড়া হবে সেই তাফসীরগুলোর আলোয়, যেগুলো এ আয়াতের জন্যই আনা হয়েছে। তারপর বাক্যটির পিছু পিছু যাওয়া হবে ৬৯:২৪ পর্যন্ত। কারণ খাও আর পান করো, এই আমন্ত্রণের আগে বর্ণনার শেষ লাইন এই আয়াতটিই। দৃশ্যের শুরু, অর্থাৎ আমলনামা বাড়িয়ে ধরা আর হিসাবের মুখোমুখি হওয়ার দৃঢ় বিশ্বাস, আলোচিত হয়েছে ৬৯:১৯-এ। ফল তোলার সময় বসা, দাঁড়ানো, শোয়ার কথা আছে ৫৫:৫৪-এ। এখানে দেখা হবে এই দুটি শব্দ নতুন কী যোগ করে, আর কোন আয়াতের দিকে তারা নিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qutuf: What the Hand Picks",
+          "bn": "কুতূফ: হাত যা ছিঁড়ে নেয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets out the word family in a line. Qutuf is the plural of qitf, with the first letter vowelled i, and means what is picked of fruit; qatf, with a, is the verbal noun, the act of picking; and qitaf, read with either vowel, is the season of picking. On the parallel verse in Surat al-Insan, 76:14, he adds that the fruit is called qitf because it is picked, just as jana is so called because it is gathered. The fruit carries the name of the hand's act.",
+            "bn": "কুরতুবী এক লাইনে শব্দটির পরিবার সাজিয়ে দেন। কুতূফ হলো কিতফ-এর বহুবচন, প্রথম অক্ষরে ই-কার, অর্থ গাছ থেকে যে ফল ছিঁড়ে নেওয়া হয়। কাতফ, প্রথম অক্ষরে আ-কার, হলো ছেঁড়ার কাজটি নিজেই। আর কিতাফ বা কাতাফ, দুইভাবেই পড়া যায়, মানে ফল তোলার মৌসুম। সূরা আল-ইনসানের সমান্তরাল আয়াত ৭৬:১৪-এর আলোচনায় তিনি যোগ করেন, ফলকে কিতফ বলা হয় কারণ তা ছেঁড়া হয়, যেমন জানা বলা হয় কারণ তা কুড়িয়ে তোলা হয়। অর্থাৎ ফলের নামের ভেতরেই হাতের কাজটা লুকিয়ে আছে।"
+          },
+          {
+            "en": "As-Sa'di widens the word: its fruit and its harvest, of every kind of fruit, near and easy for its people to take. Al-Muyassar renders it plainly as its fruits, near. Al-Qurtubi glosses daniyah as qaribat at-tanawul, near to take, which puts the stress on the act of taking rather than on distance alone. The two words thus name the fruit by the picking and describe it by the taking, so that both halves of the verse point to a hand already reaching.",
+            "bn": "সা'দী শব্দটির পরিধি বাড়িয়ে দেন: তার ফল, তার যত রকম ফলের ফসল, সবই কাছে, জান্নাতবাসীর জন্য হাতে নেওয়া সহজ। মুয়াসসার সোজাসুজি বলে, তার ফলগুলো কাছে। কুরতুবী দানিয়ার ব্যাখ্যা দেন কারীবাতুত তানাউল, অর্থাৎ নেওয়ার জন্য কাছে। এতে জোরটা কেবল দূরত্ব কমার উপর নয়, হাতে তুলে নেওয়ার উপর। দুটি শব্দের একটি ফলের নাম রাখে ছেঁড়ার কাজ দিয়ে, অন্যটি তার বর্ণনা দেয় হাতে নেওয়ার কাজ দিয়ে। ফলে আয়াতের দুই অংশই এমন এক হাতের দিকে ইশারা করে, যা আগে থেকেই বাড়ানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Bara' and the Sleeper's Reach",
+          "bn": "বারা (রাঃ) ও ঘুমন্তের নাগাল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the earliest explanation with its chain: Ibn al-Muthanna, from Muhammad ibn Ja'far, from Shu'bah, from Abu Ishaq, who said he heard al-Bara' (RA) say of this verse that a man takes from its fruits while he is na'im. Ibn Kathir reports from al-Bara' ibn 'Azib that the clusters are near, so that one of them takes them while he is na'im on his couch, and adds that more than one has said the same. The abridged English Ibn Kathir renders the phrase as lying on his bed.",
+            "bn": "সবচেয়ে পুরোনো ব্যাখ্যাটি তাবারী আনেন সনদসহ: ইবনুল মুসান্না, তিনি মুহাম্মাদ ইবন জা'ফর থেকে, তিনি শু'বা থেকে, তিনি আবু ইসহাক থেকে। আবু ইসহাক বলেন, তিনি বারা (রাঃ)-কে এ আয়াত সম্পর্কে বলতে শুনেছেন: মানুষ নায়িম অবস্থায় থেকেও তার ফল হাতে তুলে নেয়। ইবন কাসীর বারা ইবন আযিব (রাঃ) থেকে একই কথা আনেন: ফলের থোকা এত কাছে যে তাদের কেউ খাটে নায়িম অবস্থায় থেকেই তা নিয়ে নেয়। তিনি আরও বলেন, একাধিক জন এমনটাই বলেছেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কথাটির অনুবাদ করেছে বিছানায় শুয়ে থাকা।"
+          },
+          {
+            "en": "Na'im is usually understood as asleep, and the abridged rendering chooses lying down; either way the picture is of the body at its most at rest, and the fruit still reaches it. At-Tabari sets beside it Qatadah's gloss, given briefly here since it is discussed at 55:54: the clusters have come near, so neither distance nor thorns turn their hands back. Between them the two early explanations answer the two things that keep fruit from a hand in this world, effort and obstacle.",
+            "bn": "নায়িম সাধারণত বোঝায় ঘুমন্ত মানুষকে, আর সংক্ষিপ্ত অনুবাদটি বেছে নিয়েছে শুয়ে থাকা অর্থ। যেভাবেই পড়া হোক, ছবিটা শরীরের সবচেয়ে আরামের অবস্থার, আর ফল তখনও তার কাছে পৌঁছে যায়। তাবারী এর পাশে রাখেন কাতাদার ব্যাখ্যা। ৫৫:৫৪-এ সেটি আলোচিত হয়েছে বলে এখানে সংক্ষেপে বলা হলো: থোকাগুলো কাছে এসে গেছে, তাই না দূরত্ব, না কাঁটা, কিছুই তাদের হাত ফিরিয়ে দেয় না। দুনিয়ায় দুটি জিনিস ফল আর হাতের মাঝে দাঁড়ায়: পরিশ্রম আর বাধা। আগের যুগের এই দুটি ব্যাখ্যা মিলে দুটোরই জবাব দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Tree That Answers the Body",
+          "bn": "দেহের ডাকে সাড়া দেওয়া গাছ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's note on this verse is short: near to take, so that those standing, sitting and lying down all take them, as will be explained in Surat al-Insan. He thereby points the reader to 76:14, where the clusters are made to hang low, and there he gathers the early reports. Mujahid says: if any of them stands, it rises for him; if he sits, it lowers itself to him; if he lies down, it comes near to him, and he eats from it.",
+            "bn": "এ আয়াতে কুরতুবীর টীকা ছোট: নেওয়ার জন্য কাছে, দাঁড়ানো, বসা আর শোয়া, সবাই তা তুলে নেয়, সূরা আল-ইনসানে এর বিস্তারিত আসবে। এভাবে তিনি পাঠককে পাঠিয়ে দেন ৭৬:১৪-তে, যেখানে ফলের থোকা নিচু করে ঝুলিয়ে দেওয়ার কথা আছে। সেখানে তিনি আগের যুগের বর্ণনাগুলো একত্র করেছেন। মুজাহিদ বলেন: কেউ দাঁড়ালে গাছ তার জন্য উঁচু হয়। বসলে তার দিকে ঝুঁকে আসে। আর শুয়ে পড়লে তার কাছে নেমে আসে, তখন সে তা থেকে খায়।"
+          },
+          {
+            "en": "In the same place al-Qurtubi relays Ibn Abbas (RA): when one of them means to take of its fruits, it hangs down to him until he takes what he wants. Al-Baghawi, on 69:23 itself, says the fruits are near to whoever reaches for them in all his states, standing, sitting and lying, and adds a phrase of his own: they pick as they please. In these readings the fruit is not merely low. It moves to meet the person, in whatever position he happens to be.",
+            "bn": "একই জায়গায় কুরতুবী ইবন আব্বাস (রাঃ)-এর কথা আনেন: তাদের কেউ যখন ফল নিতে মনস্থ করে, ফল তার দিকে ঝুলে নেমে আসে, যতক্ষণ না সে যা চায় তা নিয়ে নেয়। বাগাভী খোদ ৬৯:২৩-এর আলোচনায় বলেন, যে হাত বাড়ায় তার সব অবস্থাতেই ফল কাছে: দাঁড়িয়ে, বসে, শুয়ে। সঙ্গে নিজের একটি কথা জুড়ে দেন: তারা যেমন খুশি তেমন করে ছেঁড়ে। এই ব্যাখ্যাগুলোতে ফল শুধু নিচুতে ঝুলে থাকে না। মানুষটি যে অবস্থাতেই থাকুক, ফল নিজেই এগিয়ে আসে তার কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lofty Garden, Lowered Branches",
+          "bn": "উঁচু বাগান, নুয়ে পড়া ডাল"
+        },
+        "p": [
+          {
+            "en": "Set 69:22 and 69:23 side by side and they seem to pull against each other: the garden is 'aliyah, high, and its clusters are daniyah, near. Al-Muyassar holds both in a single sentence: a garden raised high in place and in ranks, whose fruits are near, taken by those who stand, sit or lie down. The height belongs to the garden and to the rank of its people; the nearness belongs to what they want from it. Honour does not come at the cost of ease.",
+            "bn": "৬৯:২২ আর ৬৯:২৩ পাশাপাশি রাখলে মনে হয় দুটি দুই দিকে টানছে। জান্নাত 'আলিয়া, উঁচু। অথচ তার থোকা দানিয়া, কাছে। মুয়াসসার দুটিকে এক বাক্যে ধরে রাখে: স্থানে ও মর্যাদার স্তরে উঁচু এক জান্নাত, যার ফল কাছে, দাঁড়ানো, বসা আর শোয়া মানুষ সবাই তা হাতে নেয়। উচ্চতা জান্নাতের আর তার অধিবাসীদের মর্যাদার। আর নৈকট্য তাদের চাওয়ার জিনিসগুলোর। সেখানে সম্মান পেতে আরামের দাম দিতে হয় না।"
+          },
+          {
+            "en": "Al-Qurtubi, on 76:14, records under the words it is said, with no name attached, that the trees of Paradise are a hundred years high, and that when the friend of Allah desires their fruit it comes down until he takes it. That is relayed as an unattributed report and is no more than that here. The verse's own pairing needs no report: the same garden is called high and near in consecutive verses, and nothing in the text has the believer climbing to reach either.",
+            "bn": "৭৬:১৪-এর আলোচনায় কুরতুবী 'বলা হয়' কথাটি দিয়ে, কারও নাম ছাড়াই, একটি বর্ণনা আনেন: জান্নাতের গাছের উচ্চতা একশো বছর পরিমাণ, আর আল্লাহর বন্ধু যখন তার ফল চায়, ফল নেমে আসে, যতক্ষণ না সে তা তুলে নেয়। এটি নামহীন একটি বর্ণনা, এখানেও তার বেশি কিছু নয়। আয়াতের নিজের জোড়াটির জন্য কোনো বর্ণনার দরকার পড়ে না। পরপর দুটি আয়াতে একই জান্নাতকে বলা হয়েছে উঁচু আর কাছে। আর মুমিনকে কোথাও কিছু বেয়ে উঠতে হচ্ছে, এমন কথা আয়াতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From One Man to a Company",
+          "bn": "একজন থেকে গোটা দল"
+        },
+        "p": [
+          {
+            "en": "Through 69:21 to 69:23 the subject is singular: he is in a pleasing life, in a lofty garden. Then 69:24 speaks in the plural, kulu wa-shrabu, eat and drink, all of you. Al-Qurtubi explains the shift: the passage opened with fa-amma man utiya, as for whoever is given, and man carries the sense of a plural. The one who held up his record turns out to be one of many, and the invitation is spoken to them all together.",
+            "bn": "৬৯:২১ থেকে ৬৯:২৩ পর্যন্ত কর্তা একবচন: সে আছে সন্তোষের জীবনে, উঁচু জান্নাতে। তারপর ৬৯:২৪ হঠাৎ বহুবচনে কথা বলে, কুলূ ওয়াশরাবূ: তোমরা সবাই খাও, পান করো। কুরতুবী এই বদলের কারণ বলেন। অংশটি শুরু হয়েছিল ফা-আম্মা মান ঊতিয়া দিয়ে, অর্থাৎ যাকে দেওয়া হবে, আর মান শব্দটির ভেতরে বহুবচনের অর্থ থাকে। যে মানুষটি নিজের আমলনামা তুলে ধরেছিল, দেখা যায় সে অনেকের একজন। আর আমন্ত্রণটি আসে তাদের সবার উদ্দেশে একসঙ্গে।"
+          },
+          {
+            "en": "At-Tabari voices the invitation as the words of their Lord: eat, O company with whom I am pleased and whom I have admitted to My garden, of its fruits and its good foods, and drink of its drinks. Al-Qurtubi and as-Sa'di agree that the words are said to them, and as-Sa'di adds that they are said as an honour, ikraman. Coming straight after the clusters have been brought near, the command completes the picture: the fruit is not only within reach but offered.",
+            "bn": "তাবারী আমন্ত্রণটি তুলে ধরেন তাদের রবের কথা হিসেবে: হে সেই দল, যাদের উপর আমি সন্তুষ্ট হয়েছি আর যাদের আমার জান্নাতে প্রবেশ করিয়েছি, তার ফল আর উত্তম খাবার থেকে খাও, তার পানীয় থেকে পান করো। কুরতুবী আর সা'দী দুজনেই বলেন, কথাটি তাদের বলা হবে। সা'দী যোগ করেন, বলা হবে সম্মান জানিয়ে, ইকরামান। থোকাগুলো কাছে নামিয়ে আনার ঠিক পরেই এই আদেশ আসায় ছবিটা পূর্ণ হয়। ফল শুধু নাগালের মধ্যে নয়, তা নিজে থেকে এগিয়ে দেওয়া হচ্ছে।"
+          },
+          {
+            "en": "Hani'an, with delight, is glossed closely by three of them. Al-Qurtubi says it means with nothing in it that clouds or spoils. As-Sa'di says complete and whole, without anything that clouds or spoils. At-Tabari says that they suffer no harm from what they eat or from what they drink. In this world food has its after-effects, and a pleasure is often followed by its cost. Read with these glosses, the word takes the cost away and leaves the pleasure whole.",
+            "bn": "হানীআন, অর্থাৎ তৃপ্তির সঙ্গে। তিনজন তাফসীরকার শব্দটির কাছাকাছি ব্যাখ্যা দেন। কুরতুবীর মতে এর মানে, তাতে ঘোলাটে করা বা নষ্ট করার মতো কিছু থাকবে না। সা'দী বলেন, পূর্ণ ও সম্পূর্ণ, কোনো ঘোলাটে ভাব বা বিস্বাদ ছাড়া। তাবারী বলেন, যা খাবে বা পান করবে তাতে তাদের কোনো কষ্ট হবে না। দুনিয়ায় খাবারের পরে তার জের থাকে, আর আনন্দের পেছনে প্রায়ই তার দাম চুকাতে হয়। এই ব্যাখ্যাগুলোর আলোয় শব্দটি দামটুকু সরিয়ে দেয়, আনন্দটা রেখে দেয় পুরোপুরি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Days That Have Gone By",
+          "bn": "যে দিনগুলো চলে গেছে"
+        },
+        "p": [
+          {
+            "en": "Bi-ma aslaftum fi l-ayyami l-khaliyah: for what you sent ahead in the days gone by. At-Tabari reads aslaftum as what you put forward in your world for your hereafter, of acting in obedience to Allah, and al-ayyam al-khaliyah as the days of the world that have passed and gone, adding that the people of interpretation said much the same. He reports Ibn Zayd: the days of the world, for what they did in them. Al-Baghawi and al-Qurtubi likewise speak of righteous deeds sent ahead in the world.",
+            "bn": "বিমা আসলাফতুম ফিল আইয়ামিল খালিয়া: বিগত দিনগুলোতে তোমরা যা আগে পাঠিয়েছিলে তার বদলে। তাবারীর ব্যাখ্যায় আসলাফতুম মানে আখিরাতের জন্য দুনিয়াতে আল্লাহর আনুগত্যের যে আমল তোমরা আগে পাঠিয়েছ। আর আল-আইয়ামুল খালিয়া মানে দুনিয়ার সেই দিনগুলো, যা পেরিয়ে চলে গেছে। তিনি বলেন, তাফসীরকারেরাও প্রায় একই কথা বলেছেন। ইবন যায়দের কথাও তিনি আনেন: দুনিয়ার দিনগুলো, সেখানে তারা যা করেছে তার বদলে। বাগাভী আর কুরতুবীও বলেন দুনিয়াতে আগে পাঠানো নেক আমলের কথা।"
+          },
+          {
+            "en": "Qatadah, in at-Tabari, turns the verse round to face the listener: these days of yours are passing days, perishable days that lead to lasting days; so work in these days, and send ahead good in them if you can, and there is no strength except by Allah. The days that the people of the garden will call past are, for whoever hears the verse now, the present ones. That is the hope inside the verse: the sending ahead has not yet closed.",
+            "bn": "তাবারীর বর্ণনায় কাতাদা আয়াতটিকে ঘুরিয়ে দেন শ্রোতার দিকে: তোমাদের এই দিনগুলো চলে যাওয়ার দিন। এগুলো নশ্বর, আর এগুলোই নিয়ে যায় চিরস্থায়ী দিনগুলোর দিকে। তাই এই দিনগুলোতে আমল করো, পারলে ভালো কিছু আগে পাঠাও। আর আল্লাহর সাহায্য ছাড়া কোনো শক্তি নেই। জান্নাতবাসীরা যে দিনগুলোকে বলবে বিগত দিন, আজ যে আয়াতটি শুনছে তার কাছে সেগুলোই বর্তমান। আয়াতের ভেতরের আশাটা এখানেই: আগে পাঠানোর সময় এখনো ফুরিয়ে যায়নি।"
+          },
+          {
+            "en": "Some narrowed the deeds to a kind. The Tanwir al-Miqbas, a commentary attributed to Ibn Abbas, gives the general reading of righteous works, then adds that it is also said to mean the fasting and prayers you offered. Sahl at-Tustari takes it as fasting in Ramadan and on the days of the full moon. As-Sa'di keeps it general: prayer, fasting, charity, Hajj, kindness to creation, remembrance of Allah and turning to Him, along with leaving evil deeds. Most of those fetched here give the wider reading.",
+            "bn": "কেউ কেউ আমলগুলোকে একটি বিশেষ ধরনে সীমিত করেছেন। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস প্রথমে সাধারণ অর্থটি দেয়, নেক আমল। তারপর বলে, এও বলা হয় যে এর মানে তোমাদের রাখা রোজা আর পড়া নামাজ। সাহল তুসতারী একে বুঝেছেন রমজানের রোজা আর পূর্ণিমার দিনগুলোর রোজা হিসেবে। সা'দী অর্থটি সাধারণই রাখেন: নামাজ, রোজা, সদকা, হজ, সৃষ্টির প্রতি সদাচরণ, আল্লাহর জিকির, তাঁর দিকে ফিরে আসা, সঙ্গে মন্দ কাজ ছেড়ে দেওয়া। এখানে যেসব তাফসীর দেখা হয়েছে, তার বেশিরভাগই ব্যাপক অর্থটি দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent Ahead, Received by Mercy",
+          "bn": "আগে পাঠানো, রহমতে কবুল"
+        },
+        "p": [
+          {
+            "en": "The bi in bi-ma aslaftum makes the deeds the reason, and at-Tabari reads it as a recompense from Allah and a reward for what was sent ahead. As-Sa'di draws the principle: Allah made deeds a cause of entering Paradise, the material of its bliss and the root of its happiness. Ibn Kathir adds the other side: the words are said to them as a favour, out of grace, kindness and generosity, and he cites as established in the Sahih the Prophet's ﷺ statement that no one's deeds will admit him to Paradise.",
+            "bn": "বিমা আসলাফতুম-এর 'বি' আমলকে কারণ হিসেবে দাঁড় করায়। তাবারী একে পড়েন আল্লাহর পক্ষ থেকে প্রতিদান হিসেবে, আগে পাঠানো আমলের সওয়াব হিসেবে। সা'দী এখান থেকে একটি মূলনীতি টানেন: আল্লাহ আমলকে বানিয়েছেন জান্নাতে প্রবেশের উপায়, তার নিয়ামতের উপাদান আর তার সুখের মূল। ইবন কাসীর অন্য দিকটি যোগ করেন। কথাটি তাদের বলা হবে অনুগ্রহ করে, দয়া, দান আর মহানুভবতা থেকে। আর তিনি সহীহতে প্রমাণিত হিসেবে নবী ﷺ-এর সেই বাণী আনেন যে কারও আমল তাকে জান্নাতে প্রবেশ করাবে না।"
+          },
+          {
+            "en": "In al-Bukhari's wording, from 'A'ishah (RA), the Prophet ﷺ said: \"Do good deeds properly, sincerely and moderately, and receive good news because one's good deeds will not make him enter Paradise.\" They asked, \"Even you, O Allah's Messenger?\" He said, \"Even I, unless and until Allah bestows His pardon and Mercy on me.\" (Sahih al-Bukhari 6467). Ibn Kathir's citation differs slightly in wording; the wording quoted here is al-Bukhari's own.",
+            "bn": "বুখারীর বর্ণনায় আয়িশা (রাঃ) থেকে, নবী ﷺ বলেছেন: \"ঠিকভাবে, আন্তরিকভাবে ও মধ্যপন্থায় নেক আমল করো, আর সুসংবাদ গ্রহণ করো। কারণ কোনো একজনের নেক আমলও তাকে জান্নাতে প্রবেশ করাবে না।\" সাহাবিরা জিজ্ঞেস করলেন, \"আপনাকেও না, হে আল্লাহর রাসূল?\" তিনি বললেন, \"আমাকেও না, যতক্ষণ না আল্লাহ আমাকে তাঁর ক্ষমা ও রহমতে ঢেকে নেন।\" (সহীহ বুখারী ৬৪৬৭)। ইবন কাসীর যে শব্দে হাদীসটি এনেছেন, তা সামান্য ভিন্ন। এখানে উদ্ধৃত শব্দগুলো বুখারীর নিজের।"
+          },
+          {
+            "en": "The two sides do not compete. The deed is what the verse calls sent ahead, and the mercy is what turns it into a garden. No sound hadith is attached to 69:23 itself in these sources; Ibn Kathir relays, through at-Tabarani, a report from Salman (RA) that quotes these words, but gives it no grading, so it is left aside here. What remains is hope with work in it: the fruit is near, the days are still ours, and receive good news was said in the same breath as do good deeds.",
+            "bn": "এই দুই দিকের মধ্যে কোনো বিরোধ নেই। আমল হলো সেই জিনিস, যাকে আয়াত বলছে আগে পাঠানো। আর রহমত তাকে বাগানে পরিণত করে। এখানে দেখা সূত্রগুলোতে খোদ ৬৯:২৩-এর সঙ্গে কোনো সহীহ হাদীস যুক্ত নেই। ইবন কাসীর তাবারানীর সূত্রে সালমান (রাঃ) থেকে একটি বর্ণনা আনেন, যাতে এই শব্দগুলো আছে, কিন্তু তার মান সম্পর্কে কিছু বলেননি। তাই এখানে তা বাদ রাখা হলো। যা থাকে তা কাজভরা আশা: ফল কাছে, দিনগুলো এখনো আমাদের হাতে। আর সুসংবাদ গ্রহণ করো কথাটি বলা হয়েছিল নেক আমল করো কথার সঙ্গে একই নিঃশ্বাসে।"
+          }
+        ]
+      }
+    ]
+  },
   "69:25": {
     "sections": [
       {

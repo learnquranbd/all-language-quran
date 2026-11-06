@@ -28609,6 +28609,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every people in this list arrived carrying a deed. The verse names them, not anyone living; ask instead what you are carrying, and set down the disobedience while you still can.",
     "lessonBn": "এ তালিকার প্রতিটি জাতি একটা কাজ বয়ে নিয়ে হাজির হয়েছিল। আয়াত তাদের নাম নেয়, জীবিত কারও নয়। তাই নিজেকে জিজ্ঞেস করুন আপনি কী বয়ে চলেছেন, আর সময় থাকতেই নাফরমানির বোঝা নামিয়ে রাখুন।"
+  },
+  "69:23": {
+    "reflectionEn": "The garden in the verse before is lofty, high in place and in rank. Then come two words, and the height bends down to the hand: its clusters are near. Nothing has to be climbed, waited for or reached on tiptoe. Whoever stands, sits or lies back finds the fruit within reach. The next verse says why: eat and drink with delight for what you sent ahead in the days that have gone. Those days are these days, the ones I am spending now. Every prayer, every fast and every kindness is a seed sent ahead. Yet the fruit comes as a gift from a generous Lord, not as a wage. What am I sending ahead today, and do I trust Him to receive it?",
+    "reflectionBn": "আগের আয়াতে জান্নাত উঁচু, স্থানেও উঁচু, মর্যাদায়ও উঁচু। তারপর মাত্র দুটি শব্দ, আর সেই উচ্চতা নেমে আসে হাতের কাছে: তার ফলের থোকা নাগালের মধ্যে। কিছুই বেয়ে উঠতে হয় না, অপেক্ষা করতে হয় না, পায়ের আঙুলে ভর দিয়ে হাত বাড়াতে হয় না। কেউ দাঁড়িয়ে থাকুক, বসে থাকুক বা হেলান দিয়ে শুয়ে থাকুক, ফল তার হাতের নাগালেই। পরের আয়াত কারণটা বলে দেয়: তৃপ্তির সঙ্গে খাও, পান করো, বিগত দিনগুলোতে যা আগে পাঠিয়েছিলে তার বদলে। সেই বিগত দিন মানে আজকের দিনগুলোই, যেগুলো আমি এখন কাটাচ্ছি। প্রতিটি নামাজ, প্রতিটি রোজা, প্রতিটি সদয় আচরণ আগে পাঠানো একেকটি বীজ। তবু ফলটা আসে দয়ালু রবের দান হিসেবে, মজুরি হিসেবে নয়। আজ আমি কী আগে পাঠাচ্ছি? আর তিনি তা কবুল করবেন, এই ভরসা কি আমার আছে?",
+    "pointsEn": [
+      "Which good deed in my week is most like a seed sent ahead, and which day did I let pass without sending any?",
+      "When I picture Paradise, do I picture effort and distance, or a Lord who brings the reward close?",
+      "If the days I am living now will one day be called the days that are gone, what would I want them to have held?",
+      "Do I treat my good deeds as a price I have paid, or as a means I hope my Lord will accept by His mercy?",
+      "What small, steady deed could I begin today so that it is waiting for me there?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহের কোন নেক আমলটা আগে পাঠানো বীজের মতো? আর কোন দিনটা কিছুই না পাঠিয়ে চলে যেতে দিয়েছি?",
+      "জান্নাতের কথা ভাবলে আমার চোখে কি পরিশ্রম আর দূরত্ব ভাসে, নাকি এমন এক রব, যিনি প্রতিদান কাছে এনে দেন?",
+      "আজ যে দিনগুলো কাটাচ্ছি, একদিন সেগুলোকেই বলা হবে বিগত দিন। তখন আমি চাইব সেগুলোতে কী থাকুক?",
+      "নিজের নেক আমলকে আমি কি পরিশোধ করা দাম মনে করি, নাকি এমন এক উপায়, যা রব তাঁর রহমতে কবুল করবেন বলে আশা রাখি?",
+      "ছোট কিন্তু নিয়মিত কোন আমল আজ শুরু করতে পারি, যা সেখানে আমার জন্য অপেক্ষা করবে?"
+    ],
+    "lessonEn": "The fruit of Paradise is brought near to those who sent good ahead; send it ahead today, and hope for it by your Lord's mercy, not as a price you paid.",
+    "lessonBn": "যারা নেক আমল আগে পাঠিয়েছে, জান্নাতের ফল তাদের হাতের কাছে এনে দেওয়া হয়। আজই তা আগে পাঠান, আর পরিশোধ করা দাম ভেবে নয়, রবের রহমতের ভরসায় তা আশা করুন।"
   }
 };
 
