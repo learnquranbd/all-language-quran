@@ -1774,5 +1774,157 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "51:59": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Firm Provider",
+          "bn": "অটল রিযকদাতার পরে"
+        },
+        "p": [
+          {
+            "en": "Fa-inna li-lladhina zalamu dhanuban mithla dhanubi ashabihim fa-la yasta'jilun: so for those who did wrong there is a dhanub like the dhanub of their companions, so let them not ask Me to hasten. The verse opens on fa, so, and follows straight on from 51:56 to 51:58, where Allah says He created jinn and humankind only to worship Him, wants no provision from them, and is Himself the Provider, possessor of firm strength. Those verses have their own article. This verse turns from what Allah asks of His creatures to what awaits those who did wrong.",
+            "bn": "ফা-ইন্না লিল্লাযীনা যালামূ যানূবাম মিসলা যানূবি আসহাবিহিম ফালা ইয়াসতা'জিলূন: তাই যারা যুলম করেছে, তাদের জন্য আছে এক যানূব, তাদের সঙ্গীদের যানূবের মতো। কাজেই তারা যেন আমার কাছে তা তাড়াতাড়ি না চায়। আয়াতের শুরু ফা দিয়ে, মানে তাই। ঠিক আগে ৫১:৫৬ থেকে ৫১:৫৮ আয়াতে আল্লাহ বলেছেন, জিন ও মানুষকে তিনি সৃষ্টি করেছেন কেবল তাঁর ইবাদতের জন্য। তিনি তাদের কাছে রিযক চান না, তিনি নিজেই রিযকদাতা, অটল শক্তির মালিক। ওই আয়াতগুলোর আলাদা প্রবন্ধ আছে। এ আয়াত কথা ঘোরায়: আল্লাহ বান্দার কাছে কী চান, তা থেকে যারা যুলম করেছে তাদের জন্য কী অপেক্ষা করছে, সেদিকে।"
+          },
+          {
+            "en": "Read aloud, the passage keeps one closing sound. Li-ya'buduni, to worship Me, in 51:56; an yut'imuni, that they feed Me, in 51:57; and now fa-la yasta'jiluni. Each time the final -ni is Allah speaking of Himself. Ibn Kathir's English abridgement renders the last words as so let them not ask Me to hasten on. The One who has just said He wants no food or provision from His creatures now says He will not be hurried by them either.",
+            "bn": "জোরে পড়লে অংশটির শেষ ধ্বনি একই থেকে যায়। ৫১:৫৬ আয়াতে লিইয়া'বুদূনি, আমার ইবাদত করার জন্য। ৫১:৫৭ আয়াতে আন ইউত'ইমূনি, তারা আমাকে খাওয়াবে। আর এখানে ফালা ইয়াসতা'জিলূনি। প্রতিবার শেষের -নি বোঝায় আমাকে, আল্লাহ নিজের কথা বলছেন। ইবন কাসীরের ইংরেজি সংক্ষেপ শেষ কথাটির অনুবাদ করেছে: তারা যেন আমার কাছে তা জলদি না চায়। যিনি এইমাত্র বললেন, সৃষ্টির কাছে তিনি খাবার বা রিযক চান না, তিনিই এখন বলছেন, তাদের তাড়ায় তিনি তাড়াহুড়া করবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Bucket Drawn to the Brim",
+          "bn": "কানায় কানায় ভরা বালতি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins with the noun. A dhanub is the great bucket, ad-dalw al-'azima, and it is also called a sajl once it has been filled or has nearly been filled. What is meant by it in this place, he says, is luck and share, al-hazz wa-n-nasib. He then gives the sense of the whole verse: for those who did wrong there is a portion and share of Allah's punishment coming down on them, like the share of their companions who passed before them among the nations on the same path, so let them not ask for it sooner.",
+            "bn": "তাবারী শুরু করেন শব্দটি দিয়ে। যানূব হলো বড় বালতি, আদ-দালউল আযীমা। ভরে গেলে বা প্রায় ভরে এলে একে সাজলও বলা হয়। তবে এ জায়গায় যানূব বলতে বোঝানো হয়েছে ভাগ ও অংশ, আল-হাযযু ওয়ান-নাসীব। তারপর তিনি গোটা আয়াতের অর্থ দাঁড় করান এভাবে: যারা যুলম করেছে, আল্লাহর আযাব থেকে তাদের জন্য আছে এক ভাগ, যা তাদের উপর নেমে আসবে। তা তাদের সেই সঙ্গীদের ভাগের মতো, যারা আগের জাতিগুলোর মধ্যে একই পথে চলে বিদায় নিয়েছে। তাই তারা যেন তা জলদি না চায়।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the dictionary entries. He quotes al-Jawhari for four senses of the one word: a horse with a long tail, a share, the flesh at the lower part of the back, and a bucket full of water. He adds Ibn as-Sikkit: a bucket with water in it close to the brim, treated as masculine or feminine, and not called a dhanub while it is empty. Al-Baghawi says the same in fewer words: in the language the word means the great bucket filled with water, and it was then used for luck and share.",
+            "bn": "কুরতুবী অভিধানের কথাগুলো এক জায়গায় জড়ো করেন। জাওহারী থেকে তিনি একই শব্দের চারটি অর্থ আনেন: লম্বা লেজওয়ালা ঘোড়া, ভাগ, পিঠের নিচের অংশের গোশত, আর পানিভরা বালতি। এর সঙ্গে যোগ করেন ইবনুস সিক্কীতের কথা: যে বালতিতে পানি প্রায় কানায় কানায়, শব্দটি পুংলিঙ্গ ও স্ত্রীলিঙ্গ দুভাবেই চলে, আর খালি বালতিকে যানূব বলা হয় না। বাগাভী একই কথা বলেন আরও সংক্ষেপে। ভাষায় শব্দটির মূল অর্থ পানিভরা বড় বালতি, পরে তা ভাগ ও অংশ বোঝাতে ব্যবহৃত হয়েছে।"
+          },
+          {
+            "en": "So the picture is never an empty vessel. The word names a bucket at the moment it comes up heavy. Ma'arif al-Qur'an marks the vowel, dhanub with an a on the first letter, and explains it as a large bucket kept at a common well. Al-Qurtubi also cites Ibn al-A'rabi for a related phrase: yawm dhanub, a day long in its evil that does not come to an end. The verse does not use that phrase, but the word had clearly travelled far from the well.",
+            "bn": "তাই এখানে খালি পাত্রের ছবি কখনো আসে না। শব্দটি সেই বালতির নাম, যা ভারী হয়ে উঠে আসছে। মাআরিফুল কুরআন উচ্চারণটা চিহ্নিত করে: প্রথম অক্ষরে যবর দিয়ে যানূব। আর ব্যাখ্যা করে, এ হলো পাড়ার সাধারণ কুয়ায় রাখা বড় বালতি। কুরতুবী ইবনুল আ'রাবী থেকে এর কাছাকাছি একটি কথাও আনেন: ইয়াওমুন যানূব, এমন দিন যার অনিষ্ট দীর্ঘ, যা শেষ হতে চায় না। আয়াতে কথাটি নেই, তবে শব্দটি যে কুয়ার পাড় ছেড়ে অনেক দূর গিয়েছিল, তা বোঝা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turns at the Shared Well",
+          "bn": "এক কুয়ায় পালা করে"
+        },
+        "p": [
+          {
+            "en": "How does a bucket become a share? Al-Qurtubi gives the step: they used to draw water and divide it out by portions, so the dhanub came to be called a portion of it. Ma'arif al-Qur'an fills in the scene. The large bucket stays at the common well, each person using it is given a turn, and in that turn he draws and fills his own vessel. So the word came to mean a turn, a share, a portion, and Ma'arif renders the verse: those who did wrong deserve a share in the punishment like the share of their companions.",
+            "bn": "বালতি কীভাবে ভাগ হয়ে গেল? কুরতুবী ধাপটা দেখান। লোকেরা পানি তুলত, তারপর অংশ অনুযায়ী তা ভাগ করে দিত। তাই যানূবকে বলা হতে লাগল ওই পানির একটি ভাগ। মাআরিফুল কুরআন দৃশ্যটা পূর্ণ করে। বড় বালতিটা থাকে সবার কুয়ার পাড়ে। যারা তা ব্যবহার করে, প্রত্যেকের জন্য পালা ঠিক করা থাকে, আর নিজের পালায় সে পানি তুলে নিজের পাত্র ভরে নেয়। এভাবে শব্দটির অর্থ দাঁড়াল পালা, ভাগ, অংশ। মাআরিফ আয়াতের অনুবাদ করে: যারা যুলম করেছে, আযাবে তাদের প্রাপ্য ভাগ তাদের সঙ্গীদের ভাগের মতো।"
+          },
+          {
+            "en": "Both at-Tabari and al-Qurtubi call on the poets to show the usage. A rajaz couplet runs: ours is a bucket and yours is a bucket, and if you refuse, then the well is ours. 'Alqama ibn 'Abada praises a patron who has handed out favours, so that Sha's too has earned a bucket of his generosity. The line differs between the two books: at-Tabari's copy reads among every people, al-Qurtubi's in every day. In each, the bucket is a share given out from a common source.",
+            "bn": "শব্দটির ব্যবহার দেখাতে তাবারী ও কুরতুবী দুজনেই কবিদের ডাকেন। এক রাজায কবিতায় আছে: আমাদের এক বালতি, তোমাদের এক বালতি, আর তোমরা না মানলে কুয়াটাই আমাদের। আলকামা ইবন আবাদা এক দানশীলের প্রশংসা করেন, যিনি চারদিকে অনুগ্রহ বিলিয়েছেন। তাই শা'সেরও তাঁর দানের এক বালতির হক আছে। দুই কিতাবে চরণটি একটু আলাদা। তাবারীর পাঠে আছে প্রত্যেক গোত্রে, কুরতুবীর পাঠে প্রত্যেক দিনে। দুই জায়গাতেই বালতি মানে এক উৎস থেকে বিলানো ভাগ।"
+          },
+          {
+            "en": "Al-Qurtubi adds a third line, and it comes closest to the verse: by your life, and deaths come knocking by night, every father's sons have a bucket from them. Here the share drawn at the well is no longer water. It is a lot that reaches every family in its turn. The verse takes up that image. Those who came before had their bucket drawn. A like bucket is set for those who did wrong now. The well is the same, and only the turn is still to come.",
+            "bn": "কুরতুবী তৃতীয় একটি চরণ আনেন, যা আয়াতের সবচেয়ে কাছাকাছি: তোমার জীবনের কসম, মৃত্যু রাতে এসে দরজায় কড়া নাড়ে, আর এক বাপের সন্তানদের প্রত্যেকের জন্যই তা থেকে এক বালতি আছে। এখানে কুয়া থেকে তোলা ভাগ আর পানি নয়। এ এমন এক ভাগ্য, যা পালা করে প্রত্যেক পরিবারে পৌঁছায়। আয়াত এই ছবিটাই তুলে নেয়। আগের লোকদের বালতি তোলা হয়ে গেছে। এখন যারা যুলম করেছে, তাদের জন্যও তেমনই এক বালতি ঠিক করা আছে। কুয়া একই, শুধু পালাটা আসা বাকি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bucket, Sajl, or Edge",
+          "bn": "বালতি, সাজল, না কিনারা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then lists the early interpreters and says they spoke along the same lines. From Ibn 'Abbas, through 'Ali ibn Abi Talha, a single word: a bucket. By a second chain Ibn 'Abbas spells it out: for those who did wrong a punishment like the punishment of their companions, so let them not ask for it sooner. Sa'id ibn Jubayr calls it a sajl of punishment, Mujahid simply a sajl, and Qatada a sajl of Allah's punishment, and in another report a punishment like that of their companions.",
+            "bn": "এরপর তাবারী প্রথম যুগের তাফসীরকারদের কথা সাজান, আর বলেন, তাঁরাও এরকমই বলেছেন। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে একটি মাত্র শব্দ: বালতি। আরেক সূত্রে ইবন আব্বাস (রাঃ) খুলে বলেন: যারা যুলম করেছে তাদের জন্য আছে তাদের সঙ্গীদের আযাবের মতো আযাব, তাই তারা যেন জলদি না চায়। সাঈদ ইবন জুবাইর বলেন আযাবের এক সাজল, মুজাহিদ শুধু সাজল। কাতাদা বলেন আল্লাহর আযাবের এক সাজল, আর আরেক বর্ণনায় তাদের সঙ্গীদের আযাবের মতো আযাব।"
+          },
+          {
+            "en": "Al-Hasan keeps the image whole: a bucket like the bucket of their companions. Ibn Zayd draws the line back to history: a sajl of Allah's punishment, and this was done to their companions before them, so they will have a punishment like theirs. Ibrahim chooses a smaller word, tarafan min al-'adhab, a part or edge of the punishment. The early readers thus split between those who keep the bucket and those who name what it holds, but every report at-Tabari gives points to the same thing: a portion of punishment.",
+            "bn": "হাসান ছবিটা পুরোপুরি রেখে দেন: তাদের সঙ্গীদের বালতির মতো এক বালতি। ইবন যায়দ কথাটা ইতিহাসের সঙ্গে জুড়ে দেন: আল্লাহর আযাবের এক সাজল। তাদের আগের সঙ্গীদের সঙ্গে এমনটাই করা হয়েছে, তাই এদের জন্যও আছে তাদের মতো আযাব। ইবরাহীম বেছে নেন আরও ছোট একটি শব্দ, তারাফান মিনাল আযাব, আযাবের এক অংশ বা কিনারা। প্রথম যুগের তাফসীরকারদের কেউ বালতির ছবিটা ধরে রাখেন, কেউ সরাসরি বলে দেন তাতে কী আছে। তবে তাবারীর আনা প্রতিটি বর্ণনা একই দিকে ইঙ্গিত করে: আযাবের এক ভাগ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Did Wrong Here",
+          "bn": "এখানে যুলম কারা করেছিল"
+        },
+        "p": [
+          {
+            "en": "The verb is zalamu, they did wrong, and the commentators agree on what wrong is meant. At-Tabari: those who associated partners with Allah, from Quraysh and others. Al-Qurtubi and al-Baghawi: those who disbelieved, from the people of Makkah. The Muyassar: those who did wrong by denying the Messenger Muhammad ﷺ. As-Sa'di joins both descriptions: those who did wrong and denied Muhammad ﷺ. Ibn Kathir's English abridgement, reaching 51:54 just before, names the Quraysh idolaters as those the Prophet ﷺ is told to turn from.",
+            "bn": "ক্রিয়াটি যালামূ, তারা যুলম করেছে। কোন যুলমের কথা, তা নিয়ে তাফসীরকারেরা একমত। তাবারী বলেন: কুরাইশ ও অন্যদের মধ্যে যারা আল্লাহর সঙ্গে শরিক করেছে। কুরতুবী ও বাগাভী বলেন: মক্কাবাসীদের মধ্যে যারা কুফরি করেছে। মুয়াসসার বলে: যারা রাসূল মুহাম্মাদ ﷺ-কে মিথ্যা বলে যুলম করেছে। সা'দী দুটো কথা একসঙ্গে বলেন: যারা যুলম করেছে আর মুহাম্মাদ ﷺ-কে মিথ্যা বলেছে। ইবন কাসীরের ইংরেজি সংক্ষেপ ঠিক আগের ৫১:৫৪ আয়াতে কুরাইশের মূর্তিপূজকদের কথা বলে, যাদের থেকে নবী ﷺ-কে মুখ ফিরিয়ে নিতে বলা হয়েছে।"
+          },
+          {
+            "en": "Then their companions, ashabihim. At-Tabari: their companions who passed before them among the nations, on the same path. Al-Qurtubi: the disbelievers of the earlier nations. Al-Baghawi names them: those destroyed among the people of Nuh, 'Ad and Thamud. The surah has already told those stories. Musa (AS) and Pharaoh appear from 51:38, 'Ad at 51:41, Thamud at 51:43 and the people of Nuh at 51:46. The listener has just heard what their buckets held.",
+            "bn": "এরপর আসহাবিহিম, তাদের সঙ্গীরা। তাবারী বলেন: আগের জাতিগুলোর মধ্যে যারা একই পথে চলে বিদায় নিয়েছে। কুরতুবী বলেন: আগের জাতিগুলোর কাফিররা। বাগাভী নাম ধরে বলেন: নূহ (আঃ)-এর কওম, আদ ও সামূদের মধ্যে যারা ধ্বংস হয়েছে। এ কাহিনিগুলো সূরাটি আগেই শুনিয়েছে। ৫১:৩৮ থেকে মূসা (আঃ) ও ফিরআউন, ৫১:৪১ আয়াতে আদ, ৫১:৪৩ আয়াতে সামূদ, আর ৫১:৪৬ আয়াতে নূহ (আঃ)-এর কওম। তাদের বালতিতে কী উঠেছিল, শ্রোতা তা এইমাত্র শুনেছে।"
+          },
+          {
+            "en": "Why call them companions at all, when generations lay between them? As-Sa'di answers in his gloss: their companions from among the people of wrong and denial. The kinship is one of conduct, not of blood or time. Ibn Kathir's abridgement says something close on 51:53, where the Qur'an asks whether the deniers had handed their words down to each other: they are a tyrannical people whose hearts are the same, so the later ones said what the earlier ones had said.",
+            "bn": "মাঝে কত প্রজন্মের ব্যবধান, তবু তাদের সঙ্গী বলা কেন? সা'দীর ব্যাখ্যায় উত্তরটা আছে: যুলম ও মিথ্যারোপকারী লোকদের মধ্য থেকে তাদের সঙ্গীরা। সম্পর্কটা আচরণের, রক্ত বা সময়ের নয়। ইবন কাসীরের সংক্ষেপ ৫১:৫৩ আয়াতে কাছাকাছি কথা বলে। সেখানে কুরআন প্রশ্ন করে, তারা কি একে অন্যকে এ কথা বলে যাওয়ার অসিয়ত করে গেছে? সংক্ষেপের জবাব: এরা সীমালঙ্ঘনকারী জাতি, এদের অন্তর একই রকম। তাই পরের লোকেরা সেই কথাই বলেছে, যা আগের লোকেরা বলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Daring the Warning to Come",
+          "bn": "সতর্কবাণী ডেকে আনার স্পর্ধা"
+        },
+        "p": [
+          {
+            "en": "Fa-la yasta'jilun: so let them not ask Me to hasten it. Why would anyone ask for punishment sooner? Al-Qurtubi gives the occasion in their own words: let them not seek to hasten its descent on them, because they said, O Muhammad, bring us what you promise us, if you are among the truthful. Put that way, the demand was a challenge. It made the arrival of the punishment the test of whether the Prophet ﷺ was telling the truth.",
+            "bn": "ফালা ইয়াসতা'জিলূন: তাই তারা যেন আমার কাছে তা তাড়াতাড়ি না চায়। কেউ শাস্তি জলদি চাইবে কেন? কুরতুবী কারণটা দেখান তাদের নিজেদের মুখের কথায়: তারা যেন তাদের উপর আযাব নামার জন্য তাড়াহুড়া না করে, কারণ তারা বলেছিল, হে মুহাম্মাদ, তুমি যার ভয় দেখাও তা নিয়ে এসো, যদি সত্যবাদী হও। এভাবে বলায় দাবিটা হয়ে দাঁড়াল চ্যালেঞ্জ। নবী ﷺ সত্য বলছেন কি না, তার পরীক্ষা বানানো হলো আযাব আসা না-আসাকে।"
+          },
+          {
+            "en": "The commentators answer the challenge with one word of certainty. Ibn Kathir: let them not ask for it sooner, for it will befall them, la mahala, without any doubt. The Muyassar uses the same phrase: it is coming to them without doubt. Ma'arif al-Qur'an says they will receive their due share of the torment, and it will surely come in due time. What the deniers took for an empty threat, the verse treats as a bucket already filled and waiting for its turn at the rope.",
+            "bn": "এ চ্যালেঞ্জের জবাবে তাফসীরকারেরা দেন একটিই নিশ্চিত কথা। ইবন কাসীর বলেন: তারা যেন জলদি না চায়, কেননা তা তাদের উপর ঘটবেই, লা মাহালা, কোনো সন্দেহ ছাড়াই। মুয়াসসারও একই কথা বলে: তা তাদের কাছে আসছেই, এতে সন্দেহ নেই। মাআরিফুল কুরআন বলে, আযাবে তাদের প্রাপ্য ভাগ তারা পাবেই, আর নির্ধারিত সময়ে তা অবশ্যই আসবে। অস্বীকারকারীরা যাকে ফাঁকা হুমকি ভেবেছিল, আয়াতের কাছে তা এক ভরা বালতি, যা দড়িতে টান পড়ার পালার অপেক্ষায়।"
+          },
+          {
+            "en": "As-Sa'di turns the single case into a rule. Let them not ask for the punishment sooner, he writes, for Allah's way, His sunna, with the nations is one. Every denier who keeps to his denial without repentance or turning back will have the punishment fall on him, even if it is delayed from him for a time. The delay he names is not a gap in the rule. It is part of it. The time before the bucket comes up is time in which repentance is still possible.",
+            "bn": "সা'দী একটি ঘটনাকে একটি নিয়মে পরিণত করেন। তিনি লেখেন, তারা যেন আযাব জলদি না চায়, কেননা জাতিগুলোর সঙ্গে আল্লাহর রীতি, তাঁর সুন্নাত, একটাই। যে মিথ্যারোপকারী তওবা না করে, ফিরে না এসে নিজের অস্বীকারে অটল থাকে, আযাব তার উপর পড়বেই, কিছুকাল দেরি হলেও। যে দেরির কথা তিনি বলেন, তা নিয়মের ফাঁক নয়, বরং নিয়মেরই অংশ। বালতি উঠে আসার আগের সময়টুকুতে তওবার দরজা তখনো খোলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This World or the Promised Day",
+          "bn": "দুনিয়ায়, নাকি প্রতিশ্রুত দিনে"
+        },
+        "p": [
+          {
+            "en": "When does the bucket come up? Here the sources differ. Al-Baghawi reads fa-la yasta'jilun as meaning that they have been deferred to the Day of Resurrection. As-Sa'di ends on the same horizon: for this reason Allah threatened them with the Day of Resurrection. The next verse, 51:60, closes the surah with that day: so woe to those who disbelieved from their day which they are promised. Ibn Kathir's abridgement explains that day as the Day of Resurrection.",
+            "bn": "বালতি উঠবে কবে? এখানে উৎসগুলোর মধ্যে পার্থক্য আছে। বাগাভী ফালা ইয়াসতা'জিলূন-এর অর্থ করেন: তাদের কিয়ামতের দিন পর্যন্ত পিছিয়ে রাখা হয়েছে। সা'দীও শেষ করেন একই দিগন্তে: এ কারণেই আল্লাহ তাদের কিয়ামতের দিনের ভয় দেখিয়েছেন। পরের আয়াত ৫১:৬০ সেই দিন দিয়েই সূরাটি শেষ করে: তাই যারা কুফরি করেছে, তাদের জন্য দুর্ভোগ, তাদের সেই দিনের কারণে, যার প্রতিশ্রুতি তাদের দেওয়া হয়েছে। ইবন কাসীরের সংক্ষেপ সেই দিনের ব্যাখ্যা দেয়: কিয়ামতের দিন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the verse more widely. The earlier communities, it says, were each given an opportunity, and when they did not use it and kept to their evil course they were punished and destroyed. The pagans of Makkah have likewise been given a time. If they do not use it and persist, they will be punished in this world, and otherwise the punishment of the Hereafter is most certain. Al-Baghawi points to the Last Day, Ma'arif leaves this world open as well, and both are kept here.",
+            "bn": "মাআরিফুল কুরআন আয়াতটি আরও বিস্তৃতভাবে পড়ে। তার ভাষায়, আগের প্রতিটি জাতিকে একটা সুযোগ দেওয়া হয়েছিল। সুযোগ কাজে না লাগিয়ে তারা যখন মন্দ পথে অটল থেকেছে, তখন তাদের শাস্তি দিয়ে ধ্বংস করা হয়েছে। মক্কার মুশরিকদেরও তেমনি একটা সময় দেওয়া হয়েছে। তা কাজে না লাগিয়ে অটল থাকলে দুনিয়াতেই তাদের শাস্তি হবে, নইলে আখিরাতের শাস্তি তো একেবারে নিশ্চিত। বাগাভী দেখান শেষ দিনের দিকে, মাআরিফ দুনিয়ার সম্ভাবনাও খোলা রাখে। দুটো মতই এখানে রইল।"
+          },
+          {
+            "en": "The two readings agree on much. Neither allows the deniers' conclusion that delay means escape. Al-Baghawi's deferral is a postponement with a date, and Ma'arif's allotted time is a turn at the well that ends. As-Sa'di holds both edges together: the punishment may be delayed for a while, and it is still certain. Whether the bucket rises in this life or on the promised Day, the verse says it is already assigned to them, like their companions' portion.",
+            "bn": "দুই পাঠের মধ্যে মিল অনেক। কোনোটিই অস্বীকারকারীদের এ সিদ্ধান্ত মানে না যে দেরি মানে রেহাই। বাগাভীর কথায় এ এমন পিছিয়ে রাখা, যার দিন ঠিক করা আছে। মাআরিফের বেঁধে দেওয়া সময় হলো কুয়ায় এমন এক পালা, যা একসময় শেষ হয়। সা'দী দুই দিকই একসঙ্গে ধরে রাখেন: আযাব কিছুকাল পিছিয়ে যেতে পারে, তবু তা নিশ্চিত। বালতি এ জীবনেই উঠুক বা প্রতিশ্রুত দিনে, আয়াতের কথা হলো, তা তাদের জন্য আগেই ঠিক করা, আর তা তাদের সঙ্গীদের ভাগের মতোই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Bucket Is Whose",
+          "bn": "কার বালতি কোনটা"
+        },
+        "p": [
+          {
+            "en": "The verse describes what the text describes: those the commentators name, who associated partners with Allah and denied the Messenger ﷺ in his own time, and the destroyed nations before them. It licenses nothing against any living person or community, and no reader is given the knowledge of whose bucket is whose. None of the tafsirs fetched for this verse attaches a hadith to it. The narrations Ibn Kathir brings nearby belong to 51:56 to 51:58.",
+            "bn": "আয়াতটি শুধু তা-ই বর্ণনা করে, যা কুরআনের ভাষ্যে আছে। তাফসীরকারেরা যাদের নাম নেন, তারা নবী ﷺ-এর নিজের যুগে আল্লাহর সঙ্গে শরিক করেছিল আর রাসূলকে মিথ্যা বলেছিল। আর আছে তাদের আগের ধ্বংসপ্রাপ্ত জাতিগুলো। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কার বালতি কোনটা, সে জ্ঞানও কোনো পাঠককে দেওয়া হয়নি। এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। ইবন কাসীর কাছাকাছি যে বর্ণনাগুলো আনেন, সেগুলো ৫১:৫৬ থেকে ৫১:৫৮ আয়াতের।"
+          },
+          {
+            "en": "What is left for the reader is the turn at the well. As-Sa'di's rule carries a condition inside it: the denier who persists without repentance. Ma'arif speaks of a time and an opportunity given. Neither turns the warning outwards. The verse asks whoever hears it what the time in hand is for, and whether a delay has been mistaken for an absence. The bucket is not yet drawn, and the door of tawba stays open until it is.",
+            "bn": "পাঠকের জন্য যা থাকে, তা হলো কুয়ায় নিজের পালা। সা'দীর নিয়মের ভেতরেই একটা শর্ত আছে: যে তওবা না করে অস্বীকারে অটল থাকে। মাআরিফ বলে দেওয়া সময় আর সুযোগের কথা। কোনোটিই সতর্কবাণীকে অন্যের দিকে ঘুরিয়ে দেয় না। যে-ই আয়াতটি শোনে, তাকে আয়াত জিজ্ঞেস করে: হাতে যে সময় আছে, তা কীসের জন্য? দেরিকে কি অনুপস্থিতি ভেবে বসেছি? বালতি এখনো তোলা হয়নি, আর তা তোলার আগ পর্যন্ত তওবার দরজা খোলা।"
+          }
+        ]
+      }
+    ]
   }
 });

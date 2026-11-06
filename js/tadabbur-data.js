@@ -27449,6 +27449,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The sea that is full yet held back today is a mercy kept up moment by moment; thank Allah for it, and remember that the same sea will be set ablaze.",
     "lessonBn": "আজ যে সমুদ্র ভরা অথচ আটকে রাখা, তা প্রতি মুহূর্তে জারি থাকা এক রহমত। এর জন্য আল্লাহর শুকরিয়া আদায় করুন, আর মনে রাখুন, সেই একই সমুদ্র একদিন আগুনে জ্বলে উঠবে।"
+  },
+  "51:59": {
+    "reflectionEn": "The surah has just said that Allah asks no provision of anyone. Now it turns to those who did wrong and uses the word dhanub: a large bucket drawn full from a well. Water drawn from a shared well was handed out in turns, so the bucket came to mean a share. Those who came before had their turn drawn and poured out. Then the verse closes: so let them not ask Me to hurry it. The people meant had demanded the punishment sooner, as if the wait proved it would never come. A wait is not a cancellation. Whatever my turn at the well holds, it is drawn by Him. The time before it arrives is given to me to turn back.",
+    "reflectionBn": "সূরাটি এইমাত্র বলেছে, আল্লাহ কারও কাছে রিযক চান না। এবার কথা ঘুরে যায় যারা যুলম করেছে তাদের দিকে, আর আসে একটি শব্দ: যানূব। কুয়া থেকে পানিভরা তুলে আনা বড় বালতি। এক কুয়ার পানি পালা করে ভাগ হতো, তাই বালতিটাই হয়ে গেল ভাগের নাম। আগের লোকদের পালা এসেছিল, তাদের বালতি ভরে উঠে ঢেলে দেওয়া হয়েছিল। তারপর আয়াতের শেষ কথা: তারা যেন আমার কাছে তা তাড়াতাড়ি না চায়। যাদের কথা এখানে বলা হচ্ছে, তারা শাস্তি জলদি চেয়ে বসেছিল, যেন দেরিটাই প্রমাণ যে তা কখনো আসবে না। দেরি মানে বাতিল নয়। কুয়ায় আমার পালায় যা-ই থাকুক, তা তোলেন তিনিই। আর তা আসার আগের সময়টুকু আমাকে দেওয়া হয়েছে ফিরে আসার জন্য।",
+    "pointsEn": [
+      "Is there a warning I have heard so often without anything happening that I now treat the delay itself as my answer?",
+      "If the time before my turn arrives is given for turning back, what would I change in it this week?",
+      "Have I ever dared Allah, even silently, by carrying on in a wrong and telling myself that nothing has come of it so far?",
+      "When I read of peoples who were destroyed, do I look for myself in the account, or only for others?",
+      "What in my life am I asking to come faster that might be better met slowly and prepared for?"
+    ],
+    "pointsBn": [
+      "এমন কোনো সতর্কবাণী কি আছে, যা এত বার শুনেছি অথচ কিছু ঘটেনি যে, দেরিটাকেই এখন উত্তর ধরে নিয়েছি?",
+      "আমার পালা আসার আগের সময়টুকু যদি ফিরে আসার জন্যই দেওয়া হয়ে থাকে, তবে এ সপ্তাহে তাতে কী বদলাব?",
+      "কোনো অন্যায় চালিয়ে যেতে যেতে, এখনো তো কিছু হয়নি বলে নিজেকে বুঝিয়ে, মনে মনেও কি আল্লাহকে চ্যালেঞ্জ করে বসেছি?",
+      "ধ্বংস হয়ে যাওয়া জাতিগুলোর কথা পড়ার সময় কি সেখানে নিজেকে খুঁজি, নাকি শুধু অন্যদের?",
+      "জীবনের কোন জিনিস আমি তাড়াতাড়ি চাইছি, যার জন্য বরং ধীরে প্রস্তুত হওয়াই ভালো হতো?"
+    ],
+    "lessonEn": "Do not read Allah's delay as absence or acquittal; use the time before your turn arrives to turn back to Him.",
+    "lessonBn": "আল্লাহর দেরিকে অনুপস্থিতি বা রেহাই ভাববেন না। আপনার পালা আসার আগের সময়টুকু কাজে লাগিয়ে তাঁর দিকে ফিরে আসুন।"
   }
 };
 
