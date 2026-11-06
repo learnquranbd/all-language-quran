@@ -25989,6 +25989,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A good name that outlives you is Allah's to leave, not yours to manage. Do the good He rewards, and honour the helpers who stood beside you.",
     "lessonBn": "আপনার পরে যে সুনাম টিকে থাকে, তা রেখে যান আল্লাহ, আপনার সামলানোর জিনিস তা নয়। তিনি যে নেক কাজের প্রতিদান দেন তা করে যান, আর যারা পাশে দাঁড়িয়েছিল তাদের সম্মান দিন।"
+  },
+  "37:168": {
+    "reflectionEn": "Before the Messenger came, they had a ready answer for anyone who called them ignorant: if only we had a reminder like the one the earlier peoples were given, a book or a prophet, we would be Allah's devoted servants. The wish sounded humble, and it cost them nothing, because what they asked for was not yet there. Then the reminder came, and the verse after next says it in four words: they disbelieved in it. A wish for guidance that has not arrived is easy to keep. The test begins once that guidance is in my hands. I already hold the Book they said they wanted. What am I still waiting for before I act on it?",
+    "reflectionBn": "রাসূল ﷺ আসার আগে কেউ তাদের অজ্ঞ বললে তাদের মুখে জবাব তৈরি থাকত: আগের জাতিগুলো যেমন উপদেশ পেয়েছিল, কোনো কিতাব বা কোনো নবী, তেমন কিছু আমাদের কাছে থাকলে আমরাই হতাম আল্লাহর একনিষ্ঠ বান্দা। কথাটা শুনতে বিনয়ী। অথচ এর জন্য তাদের কোনো দাম দিতে হয়নি, কারণ যা চাওয়া হচ্ছিল তা তখনো আসেনি। তারপর সেই উপদেশ এল। দুই আয়াত পরে চার শব্দে তার খবর: তারা তা অস্বীকার করল। যে হিদায়াত এখনো আসেনি, তার জন্য আকাঙ্ক্ষা পুষে রাখা সহজ। আসল পরীক্ষা শুরু হয় হিদায়াত হাতে আসার পর। তারা যে কিতাব চেয়েছিল, সেটা আজ আমার হাতে। এর উপর আমল করার আগে আমি আর কিসের অপেক্ষায় বসে আছি?",
+    "pointsEn": [
+      "What do I tell myself I would do if only I had something I lack: more time, more knowledge, a better teacher?",
+      "When someone points out what I do not know, do I reach for an excuse, or for the Book?",
+      "Have I ever said that had I lived in the Prophet's time I would have been among the first to follow him, and does my obedience to what has reached me bear that out?",
+      "Which part of the Qur'an that is already in my home have I never read with its meaning?",
+      "Is my wish for guidance a real request, or a polite way of putting off the answer?"
+    ],
+    "pointsBn": [
+      "যা আমার নেই, যেমন আরও সময়, আরও জ্ঞান, ভালো একজন উস্তাদ, সেটা পেলে কী করতাম বলে আমি নিজেকে বোঝাই?",
+      "কেউ যখন আমার না-জানাটা ধরিয়ে দেয়, আমি কি অজুহাত খুঁজি, নাকি কিতাবের দিকে হাত বাড়াই?",
+      "নবী ﷺ-এর যুগে জন্মালে সবার আগে তাঁর অনুসরণ করতাম, এমন কথা কি কখনো বলেছি? তাহলে যা আমার কাছে পৌঁছে গেছে, তার প্রতি আমার আনুগত্য কি সে দাবির সাক্ষ্য দেয়?",
+      "কুরআনের কোন অংশ ঘরেই আছে, অথচ অর্থসহ কখনো পড়িনি?",
+      "হিদায়াতের জন্য আমার আকাঙ্ক্ষা কি সত্যিকারের চাওয়া, নাকি জবাব পিছিয়ে দেওয়ার এক ভদ্র কৌশল?"
+    ],
+    "lessonEn": "Do not hang your obedience on what you lack. The reminder they wished for has reached you, and the measure is what you do with it now.",
+    "lessonBn": "যা নেই তার উপর আনুগত্য ঝুলিয়ে রাখবেন না। তারা যে উপদেশের আকাঙ্ক্ষা করেছিল, তা আপনার কাছে পৌঁছে গেছে। এখন তা নিয়ে আপনি কী করছেন, সেটাই মাপকাঠি।"
   }
 };
 

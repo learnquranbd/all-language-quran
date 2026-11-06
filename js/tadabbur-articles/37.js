@@ -6415,6 +6415,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:168": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Condition in the Middle",
+          "bn": "বাক্যের মাঝখানের শর্ত"
+        },
+        "p": [
+          {
+            "en": "Law anna 'indana dhikran min al-awwalin: if only we had a reminder from the former peoples. The verse is six Arabic words, and it is not a sentence on its own. 37:167 opens it with wa in kanu la-yaquluna, and indeed they used to say. 37:169 closes it with la-kunna 'ibad Allah al-mukhlasin, we would surely have been Allah's sincere servants. The verse before us is the condition in the middle, the one thing they said they lacked. 37:170 then gives the outcome in four words: so they disbelieved in it, and they will come to know.",
+            "bn": "লাও আন্না ইন্দানা যিকরাম মিনাল আওয়ালীন: আহা, আগের জাতিগুলোর কাছ থেকে কোনো উপদেশ যদি আমাদের কাছে থাকত! আয়াতটি আরবিতে ছয়টি শব্দের, আর একা এটি পূর্ণ বাক্য নয়। বাক্যের শুরু ৩৭:১৬৭ আয়াতে: ওয়া ইন কানূ লাইয়াকূলূন, তারা তো বলত। শেষ ৩৭:১৬৯ আয়াতে: লাকুন্না ইবাদাল্লাহিল মুখলাসীন, তাহলে আমরা অবশ্যই আল্লাহর একনিষ্ঠ বান্দা হতাম। আমাদের আয়াত দাঁড়িয়ে আছে মাঝখানে, শর্ত হয়ে। তারা যে একটিমাত্র জিনিসের অভাবের কথা বলত, সেটাই এখানে। এরপর ৩৭:১৭০ আয়াত পরিণাম জানায় চারটি শব্দে: তারা তা অস্বীকার করল, শীঘ্রই তারা জানতে পারবে।"
+          },
+          {
+            "en": "The words of the condition each carry weight. Law here voices a wish, and Ibn Kathir's word for what they did is yatamannawna, they used to wish. 'Indana means with us, in our keeping, so the lack is placed in their own hands. Dhikr is a reminder, and the commentators differ over what form of reminder was meant. Al-awwalin are the first ones, the peoples who came before. This article follows those words in turn: who said this and when, what they asked for, what they promised in return, and what happened when it came.",
+            "bn": "শর্তের প্রতিটি শব্দের আলাদা ভার আছে। এখানে লাও এসেছে আকাঙ্ক্ষা প্রকাশ করতে। ইবন কাসীর তাদের এই কাজের নাম দেন ইয়াতামান্নাওনা, তারা আকাঙ্ক্ষা করত। ইন্দানা মানে আমাদের কাছে, আমাদের হাতে। অভাবটা তারা দেখাচ্ছে নিজেদের হাতের খালি জায়গায়। যিকর মানে উপদেশ বা স্মরণ করিয়ে দেওয়ার মতো কিছু। কোন ধরনের উপদেশ বোঝানো হয়েছে, তা নিয়ে তাফসীরকারদের ভাষ্য ভিন্ন। আল-আওয়ালীন মানে প্রথম যারা, অর্থাৎ আগে যে জাতিগুলো এসেছিল। এ লেখা শব্দগুলোর পিছু পিছু চলবে: কারা কখন এ কথা বলত, তারা কী চেয়েছিল, বিনিময়ে কী প্রতিশ্রুতি দিয়েছিল, আর জিনিসটা যখন এল তখন কী ঘটল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Back to the Idolaters' Words",
+          "bn": "ফিরে আসা মুশরিকদের কথায়"
+        },
+        "p": [
+          {
+            "en": "The verses just before belong to the angels: from 37:164 to 37:166 they speak of their known stations, their rows and their glorification. With 37:167 the speakers change. Al-Qurtubi marks the turn in his opening words, 'ada ila al-ikhbar 'an qawl al-mushrikin: it returns to reporting what the idolaters said. At-Tabari records the same observation from Ibn Zayd, raja'a al-hadith ila al-awwalin ahl al-shirk: the discourse went back to those first spoken of, the people of shirk. The passage that had answered their claims about the angels now quotes them directly.",
+            "bn": "ঠিক আগের আয়াতগুলো ফেরেশতাদের মুখের কথা। ৩৭:১৬৪ থেকে ৩৭:১৬৬ পর্যন্ত তাঁরা বলেন নিজেদের নির্দিষ্ট স্থানের কথা, সারিবদ্ধ হওয়ার কথা, তাসবীহের কথা। ৩৭:১৬৭ আয়াতে এসে বক্তা বদলে যায়। কুরতুবী তাঁর প্রথম কথাতেই এই মোড় চিহ্নিত করেন: আদা ইলাল ইখবারি আন কাওলিল মুশরিকীন, আলোচনা আবার মুশরিকদের কথার বিবরণে ফিরে এল। তাবারী একই পর্যবেক্ষণ বর্ণনা করেন ইবন যাইদ থেকে: রাজাআল হাদীসু ইলাল আওয়ালীন আহলিশ শিরক, কথা ফিরে গেল আগে যাদের প্রসঙ্গ ছিল তাদের দিকে, অর্থাৎ শিরকের লোকদের দিকে। ফেরেশতাদের নিয়ে তাদের দাবির জবাব যে অংশ দিচ্ছিল, এবার সেখানে তাদেরই কথা সরাসরি উদ্ধৃত হচ্ছে।"
+          },
+          {
+            "en": "Al-Qurtubi also pauses on the grammar of the frame. In wa in kanu, the in is the lightened form of inna, and when it is lightened and comes before a verb, the lam in la-yaquluna becomes required, to keep the affirming in apart from the negating in. The Kufan grammarians, he adds, read it another way: in in the sense of ma, not, and the lam in the sense of illa, except. The first reading yields and indeed they used to say. The second yields they used to say nothing other than this.",
+            "bn": "কাঠামোর ব্যাকরণ নিয়েও কুরতুবী একটু থামেন। ওয়া ইন কানূ বাক্যাংশে ইন হলো ইন্নার হালকা রূপ। হালকা হয়ে যখন তা ক্রিয়ার আগে বসে, তখন লাইয়াকূলূন শব্দের লাম অপরিহার্য হয়ে পড়ে। কারণ এই লামই বুঝিয়ে দেয় যে এখানে ইন হ্যাঁ-বাচক, না-বাচক নয়। তিনি জানান, কূফার ব্যাকরণবিদেরা অন্যভাবে পড়েন। তাঁদের মতে ইন এখানে মা অর্থে, মানে না, আর লাম ইল্লা অর্থে, মানে ছাড়া। প্রথম পাঠে অর্থ দাঁড়ায়: তারা তো বলতই। দ্বিতীয় পাঠে: তারা এ ছাড়া আর কিছু বলত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said Before He Was Sent",
+          "bn": "নবুওয়াতের আগের কথা"
+        },
+        "p": [
+          {
+            "en": "Who said it, and when? At-Tabari's own gloss, filed by the API under 37:167, answers both: these idolaters of Quraysh used to say this before Muhammad ﷺ was sent to them as a prophet. The reports he gathers agree. Qatada: this community said it before Muhammad ﷺ was sent. As-Suddi: these were people from among the idolaters of the Arabs. Ad-Dahhak: this is the saying of the idolaters of Makkah. Al-Muyassar addresses the Prophet: the disbelievers of Makkah used to say it before your mission. Ibn Kathir puts it the same way: they used to wish it before you came to them, O Muhammad.",
+            "bn": "কথাটা কারা বলত, আর কখন? তাবারীর নিজের ব্যাখ্যা, যা API ৩৭:১৬৭ আয়াতের ঘরে রেখেছে, দুটো প্রশ্নেরই জবাব দেয়। কুরাইশের এই মুশরিকরা কথাটা বলত মুহাম্মাদ ﷺ-কে নবী করে তাদের কাছে পাঠানোর আগে। তিনি যে বর্ণনাগুলো জড়ো করেন, সবগুলো এক সুরে কথা বলে। কাতাদা বলেন, এই উম্মত কথাটা বলেছিল মুহাম্মাদ ﷺ প্রেরিত হওয়ার আগে। সুদ্দী বলেন, এরা আরবের মুশরিকদের একদল লোক। দাহহাক বলেন, এ মক্কার মুশরিকদের কথা। মুয়াসসার সরাসরি নবী ﷺ-কে সম্বোধন করে বলে: আপনার নবুওয়াতের আগে মক্কার কাফেররা এ কথা বলত। ইবন কাসীরও একইভাবে বলেন: হে মুহাম্মাদ, আপনি তাদের কাছে আসার আগে তারা এর আকাঙ্ক্ষা করত।"
+          },
+          {
+            "en": "Why did they say it? Al-Qurtubi supplies the setting: idha 'uyyiru bil-jahl, when they were taunted with ignorance. Their answer to the reproach was a wish, and at-Tabari's gloss, below, names the comparison behind it: the Jews and the Christians, who had been given a book. As-Sa'di chooses a revealing verb, yuzhiruna at-tamanni: they made a show of wishing. Ma'arif al-Qur'an, introducing its view with the words it has been said, describes them as craving the coming of a prophet so that they could follow him. The sources do not judge what lay in their hearts; they record what was said, and what followed.",
+            "bn": "কেন বলত? কুরতুবী প্রেক্ষাপটটা জানান: ইযা উয়্যিরূ বিল জাহল, যখন অজ্ঞতার খোঁটা দিয়ে তাদের লজ্জা দেওয়া হতো। সেই খোঁটার জবাবে তারা একটা আকাঙ্ক্ষা সামনে আনত। কার সঙ্গে তুলনা করে, তা তাবারীর ব্যাখ্যায় পরে আসছে: ইহুদি ও খ্রিস্টান, যাদের কিতাব দেওয়া হয়েছিল। সা'দী একটা অর্থবহ ক্রিয়া বেছে নেন: ইউযহিরূনাত তামান্নী, তারা আকাঙ্ক্ষাটা প্রকাশ করে দেখাত। মাআরিফুল কুরআন 'বলা হয়েছে' কথাটা দিয়ে শুরু করে জানায়, তারা একজন নবীর আগমনের জন্য ব্যাকুল ছিল, যাতে তাঁর অনুসরণ করতে পারে। তাদের অন্তরে কী ছিল, সে বিচার উৎসগুলো করে না। তারা লিখে রাখে কী বলা হয়েছিল, আর তারপর কী ঘটল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Book, a Prophet, or Knowledge",
+          "bn": "কিতাব, নবী, নাকি জ্ঞান"
+        },
+        "p": [
+          {
+            "en": "What were they asking for? At-Tabari gives two options in one line: kitaban unzila min as-sama' ka-t-Tawrat wa-l-Injil, a book sent down from heaven like the Torah and the Gospel, aw nabiyyun atana mithla alladhi ata al-Yahud wa-n-Nasara, or a prophet who came to us like the one who came to the Jews and the Christians. Al-Qurtubi leads with the prophet: if a prophet were sent to us with a clear account of the laws, we would follow him. He then adds, under the words it is said, a second meaning: a book from among the books of the prophets.",
+            "bn": "তারা আসলে কী চাইছিল? তাবারী এক বাক্যে দুটি সম্ভাবনা দেন। একটি: কিতাবান উনযিলা মিনাস সামা কাততাওরাতি ওয়াল ইনজীল, আসমান থেকে নাযিল হওয়া এমন কিতাব, যেমন তাওরাত ও ইনজীল। অন্যটি: আও নাবিয়্যুন আতানা মিসলাল্লাযী আতাল ইয়াহূদা ওয়ান নাসারা, অথবা এমন এক নবী, যিনি আমাদের কাছে আসবেন, যেমন ইহুদি ও খ্রিস্টানদের কাছে এসেছিলেন। কুরতুবী আগে নবীর কথা বলেন: শরীয়তের বিধান স্পষ্ট করে জানিয়ে দেওয়ার মতো কোনো নবী আমাদের কাছে পাঠানো হলে আমরা তাঁর অনুসরণ করতাম। তারপর 'বলা হয়' কথাটি দিয়ে দ্বিতীয় অর্থ যোগ করেন: নবীদের কিতাবগুলোর মধ্য থেকে একটি কিতাব।"
+          },
+          {
+            "en": "Al-Baghawi keeps to the book alone: kitaban mithla kitab al-awwalin, a book like the book of the ancients. As-Suddi, in at-Tabari's chain, widens it: a book from the books of the ancients, aw ja'ana 'ilmun min 'ilm al-awwalin, or some knowledge of the knowledge of the ancients. Ibn Kathir combines the strands: someone to remind them of the command of Allah, to tell them what had happened to the first generations, and to bring them the Book of Allah. Al-Muyassar puts the two halves side by side, books and prophets both. None of them excludes the others; each leans a different way.",
+            "bn": "বাগাভী শুধু কিতাবের কথা বলেন: কিতাবান মিসলা কিতাবিল আওয়ালীন, আগের লোকদের কিতাবের মতো একটি কিতাব। তাবারীর সনদে সুদ্দী পরিসরটা আরও বড় করেন: আগের লোকদের কিতাবগুলোর মধ্যে কোনো কিতাব, আও জাআনা ইলমুন মিন ইলমিল আওয়ালীন, অথবা আগের লোকদের জ্ঞানের কিছু অংশ আমাদের কাছে এলে। ইবন কাসীর ধারাগুলো এক জায়গায় আনেন। তারা চাইত এমন কাউকে, যে আল্লাহর আদেশ স্মরণ করিয়ে দেবে, প্রথম যুগের জাতিগুলোর পরিণতি শোনাবে, আর আল্লাহর কিতাব নিয়ে আসবে। মুয়াসসার দুই দিক পাশাপাশি রাখে: কিতাবও, নবীও। কেউ অন্যদের কথা বাতিল করেন না। প্রত্যেকে কেবল ভিন্ন দিকে একটু বেশি ঝোঁকেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like Theirs, or About Them",
+          "bn": "তাদের মতো, নাকি তাদের কথা"
+        },
+        "p": [
+          {
+            "en": "Min al-awwalin, from the former peoples, can be heard in two ways, and the sources between them give both. In the first, the former peoples are the earlier recipients of revelation, and the reminder wanted is one of the kind they had. Al-Muyassar and as-Sa'di use the same phrase for it, ma ja'a al-awwalin, what came to the earlier ones. Al-Baghawi's mithla, like, and at-Tabari's comparison with the Torah, the Gospel and the prophet of the Jews and the Christians point the same way: give us what they were given.",
+            "bn": "মিনাল আওয়ালীন, অর্থাৎ আগের জাতিগুলো থেকে, কথাটা দুইভাবে বোঝা যায়, আর উৎসগুলো মিলে দুটোই দেয়। প্রথম অর্থে আগের জাতিগুলো হলো যারা আগে ওহী পেয়েছিল, আর চাওয়া হচ্ছে ঠিক তাদের পাওয়া উপদেশের মতো কিছু। মুয়াসসার ও সা'দী এর জন্য একই বাক্যাংশ ব্যবহার করেন: মা জাআল আওয়ালীন, আগের লোকদের কাছে যা এসেছিল। বাগাভীর মিসলা শব্দ, মানে মতো, আর তাওরাত, ইনজীল ও ইহুদি-খ্রিস্টানদের নবীর সঙ্গে তাবারীর তুলনা একই দিকে ইশারা করে। সোজা কথায় তাদের দাবি: ওদের যা দেওয়া হয়েছে, আমাদেরও তা দাও।"
+          },
+          {
+            "en": "Ibn Kathir adds a second strand. Among the things they wanted was someone to tell them ma kana min amr al-qurun al-ula, what had become of the first generations. On this hearing the reminder is about the ancients: their history, their messengers and their end. Ad-Dahhak's closing words hold both together. When there came to them, he says, dhikr al-awwalin wa 'ilm al-akhirin, the reminder of the former peoples and the knowledge of the later ones, they disbelieved in it. The two hearings are a difference of emphasis, and the sources leave them side by side.",
+            "bn": "ইবন কাসীর দ্বিতীয় একটি ধারা যোগ করেন। তারা যা চাইত, তার মধ্যে ছিল এমন কেউ, যে তাদের শোনাবে মা কানা মিন আমরিল কুরূনিল উলা, প্রথম যুগের জাতিগুলোর কী হয়েছিল। এই অর্থে উপদেশটা আগের জাতিগুলোর সম্পর্কে: তাদের ইতিহাস, তাদের রাসূল, তাদের পরিণতি। দাহহাকের শেষ কথায় দুটো অর্থ একসঙ্গে ধরা আছে। তিনি বলেন, যখন তাদের কাছে এল যিকরুল আওয়ালীন ওয়া ইলমুল আখিরীন, আগের জাতিগুলোর উপদেশ আর পরবর্তীদের জ্ঞান, তখন তারা তা অস্বীকার করল। দুই অর্থের পার্থক্য কেবল জোরের জায়গায়। উৎসগুলো দুটোকেই পাশাপাশি রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Title They Claimed",
+          "bn": "যে উপাধি তারা দাবি করল"
+        },
+        "p": [
+          {
+            "en": "The promise attached to the condition is la-kunna 'ibad Allah al-mukhlasin. The phrase is not new to the surah. Four times before, at 37:40, 37:74, 37:128 and 37:160, it appears as illa 'ibad Allah al-mukhlasin, except Allah's sincere servants, naming those set apart from the fate or the claim just described. The idolaters do not promise a modest faith if the reminder comes. In their own words they promise to be the very people this surah keeps exempting.",
+            "bn": "শর্তের সঙ্গে জুড়ে দেওয়া প্রতিশ্রুতি হলো: লাকুন্না ইবাদাল্লাহিল মুখলাসীন। এই বাক্যাংশ সূরায় নতুন নয়। আগে চারটি জায়গায়, ৩৭:৪০, ৩৭:৭৪, ৩৭:১২৮ ও ৩৭:১৬০ আয়াতে, এটি এসেছে ইল্লা ইবাদাল্লাহিল মুখলাসীন রূপে: আল্লাহর একনিষ্ঠ বান্দারা ছাড়া। প্রতিবারই এটি তাদের আলাদা করে, যারা ঠিক আগে বলা পরিণতি বা দাবির বাইরে। মুশরিকরা কিন্তু উপদেশ এলে সামান্য ঈমানের প্রতিশ্রুতি দেয়নি। নিজেদের মুখেই তারা প্রতিশ্রুতি দিল সেই মানুষ হওয়ার, যাদের এ সূরা বারবার ব্যতিক্রম বলে আলাদা করছে।"
+          },
+          {
+            "en": "The commentators frame the word from two sides. At-Tabari reads it as Allah's act: al-ladhina akhlasahum li-'ibadatihi wa-stafahum li-jannatihi, those whom He made sincere for His worship and chose for His Paradise. As-Sa'di reads it as their own: la-akhlasna lillahi al-'ibada, we would have made our worship purely for Allah, bal la-kunna al-mukhlisina 'ala al-haqiqa, indeed we would have been the sincere in truth. Al-Muyassar joins the two: truthful in faith, made sincere in worship. Either way, they claimed the rank in advance, and when the reminder came, 37:170 records that they disbelieved in it.",
+            "bn": "তাফসীরকারেরা শব্দটাকে দুই দিক থেকে দেখেন। তাবারী একে আল্লাহর কাজ হিসেবে পড়েন: আল্লাযীনা আখলাসাহুম লিইবাদাতিহী ওয়াসতাফাহুম লিজান্নাতিহী, যাদের তিনি নিজের ইবাদতের জন্য খাঁটি করে নিয়েছেন আর নিজের জান্নাতের জন্য বেছে নিয়েছেন। সা'দী একে তাদের নিজেদের কাজ হিসেবে পড়েন: লাআখলাসনা লিল্লাহিল ইবাদাহ, আমরা ইবাদতকে আল্লাহর জন্য খাঁটি করতাম। বাল লাকুন্নাল মুখলিসীনা আলাল হাকীকাহ, বরং আমরা হতাম সত্যিকারের নিষ্ঠাবান। মুয়াসসার দুটো মিলিয়ে বলে: ঈমানে সত্যবাদী, ইবাদতে খাঁটি। যেভাবেই পড়া হোক, মর্যাদাটা তারা আগেভাগেই দাবি করে বসল। আর উপদেশ যখন এল, ৩৭:১৭০ আয়াত জানায়, তারা তা অস্বীকার করল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Reminder Arrived",
+          "bn": "উপদেশ যখন সত্যিই এল"
+        },
+        "p": [
+          {
+            "en": "The sources then say what became of the wish. Qatada: fa-lamma ja'ahum Muhammad ﷺ kafaru bihi, when Muhammad came to them, they disbelieved in him. As-Suddi answers the request point by point: qad ja'akum Muhammad bi-dhalik, Muhammad has brought you exactly that. Ad-Dahhak, quoted above, says the reminder of the former peoples and the knowledge of the later ones came, and they disbelieved in it. 37:170 says it in Allah's own words, fa-kafaru bihi fa-sawfa ya'lamun, and Ibn Kathir names its force: wa'id akid wa tahdid shadid, a firm warning and a stern threat.",
+            "bn": "এরপর উৎসগুলো জানায়, আকাঙ্ক্ষাটার শেষে কী হলো। কাতাদা বলেন: ফালাম্মা জাআহুম মুহাম্মাদুন ﷺ কাফারূ বিহী, মুহাম্মাদ ﷺ যখন তাদের কাছে এলেন, তারা তাঁকে অস্বীকার করল। সুদ্দী তাদের দাবির জবাব দেন সরাসরি: কাদ জাআকুম মুহাম্মাদুন বিযালিক, মুহাম্মাদ তো ঠিক সেটাই তোমাদের কাছে নিয়ে এসেছেন। দাহহাকের কথা আগেই এসেছে: আগের জাতিগুলোর উপদেশ আর পরবর্তীদের জ্ঞান এল, আর তারা তা অস্বীকার করল। ৩৭:১৭০ আয়াত আল্লাহর নিজের ভাষায় একই কথা বলে: ফাকাফারূ বিহী ফাসাওফা ইয়া'লামূন। ইবন কাসীর এর তীব্রতার নাম দেন: ওয়াঈদুন আকীদ ওয়া তাহদীদুন শাদীদ, দৃঢ় সতর্কবাণী আর কঠোর হুমকি।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside two others. In 35:42 they swore by Allah their strongest oaths that if a warner came they would be better guided than any nation, and when a warner came it increased them only in aversion. In 6:156 and 6:157 the same claim is answered in advance: a clear proof has come to you from your Lord. Both verses have their own pages. Here the claim is quieter, a sentence they used to say, and the reply is the four words of 37:170. Ma'arif al-Qur'an reads the verses after it as comfort for the Prophet ﷺ.",
+            "bn": "ইবন কাসীর আয়াতটিকে আরও দুটি আয়াতের পাশে রাখেন। ৩৫:৪২ আয়াতে তারা আল্লাহর নামে কঠিনতম কসম খেয়েছিল যে কোনো সতর্ককারী এলে তারা যেকোনো জাতির চেয়ে বেশি হিদায়াতপ্রাপ্ত হবে। সতর্ককারী যখন এলেন, তাদের বাড়ল কেবল বিমুখতা। ৬:১৫৬ ও ৬:১৫৭ আয়াতে একই দাবির জবাব দেওয়া হয়েছে আগেভাগেই: তোমাদের রবের পক্ষ থেকে তোমাদের কাছে স্পষ্ট প্রমাণ এসে গেছে। দুটি আয়াত নিয়েই আলাদা লেখা আছে। এখানে দাবিটা অপেক্ষাকৃত শান্ত, মুখে মুখে বলা একটা কথা। আর জবাব ৩৭:১৭০ আয়াতের চারটি শব্দ। মাআরিফুল কুরআন এর পরের আয়াতগুলোকে পড়ে নবী ﷺ-এর জন্য সান্ত্বনা হিসেবে।"
+          },
+          {
+            "en": "No hadith is attached to this verse in any of the commentaries consulted: at-Tabari, Ibn Kathir in Arabic and in the abridged English, al-Qurtubi, as-Sa'di, al-Baghawi, al-Muyassar and Ma'arif al-Qur'an. None of them gives an occasion of revelation beyond naming who said it and when. The passage describes what the idolaters of Quraysh said in that time, and how they met the reminder when it came. It licenses nothing against any living person or community.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতেই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত নেই: তাবারী, আরবি ইবন কাসীর ও তার সংক্ষিপ্ত ইংরেজি রূপ, কুরতুবী, সা'দী, বাগাভী, মুয়াসসার ও মাআরিফুল কুরআন। কারা কখন কথাটা বলত, তা জানানোর বাইরে কেউ নাযিলের আলাদা কোনো প্রেক্ষাপট দেননি। এ অংশ বর্ণনা করে সে সময়ের কুরাইশ মুশরিকরা কী বলত, আর উপদেশ আসার পর তারা কীভাবে তা গ্রহণ করল। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Already Within Our Reach",
+          "bn": "যা এখন হাতের নাগালে"
+        },
+        "p": [
+          {
+            "en": "For every reader of these lines the condition has been met. 'Indana, with us: the Book is in our homes and on our phones, very often with its meaning in our own language. The excuse in the verse is no longer open to anyone it reaches, and that turns the verse from a report into a question. What do I tell myself I would do if only I had something I lack: a better teacher, a quieter year, the company of the first generation?",
+            "bn": "এ লেখা যিনি পড়ছেন, তাঁর জন্য শর্তটা পূরণ হয়ে গেছে। ইন্দানা, আমাদের কাছে: কিতাব আছে আমাদের ঘরে, আমাদের ফোনে, প্রায়ই নিজের ভাষায় অর্থসহ। আয়াতে যে অজুহাত, তা এখন আর কারও জন্য খোলা নেই, যার কাছে আয়াতটি পৌঁছেছে। তাই আয়াতটি আর শুধু অতীতের খবর থাকে না, হয়ে যায় একটা প্রশ্ন। যা আমার নেই, সেটা পেলে কী করতাম বলে আমি নিজেকে বোঝাই? ভালো একজন উস্তাদ, একটু শান্ত একটা বছর, প্রথম প্রজন্মের সাহচর্য?"
+          },
+          {
+            "en": "Their wish cost them nothing while the reminder was absent, and a wish can still work that way. It is easy to say that had I lived in the Prophet's time I would have followed him at once. The verse asks whether that is matched by following what has reached me now. The same applies to smaller promises: when I have time I will learn, when life settles I will pray on time. Each one is a condition in the middle of a sentence, waiting for its outcome.",
+            "bn": "উপদেশ যতদিন আসেনি, ততদিন তাদের আকাঙ্ক্ষার কোনো দাম দিতে হয়নি। আকাঙ্ক্ষা আজও এভাবে কাজ করতে পারে। বলা সহজ, নবী ﷺ-এর যুগে থাকলে আমি সঙ্গে সঙ্গে তাঁর অনুসরণ করতাম। আয়াত জানতে চায়, যা এখন আমার কাছে পৌঁছেছে, তার অনুসরণ দিয়ে কি সে কথার প্রমাণ মিলছে? ছোট প্রতিশ্রুতিগুলোর বেলায়ও একই কথা। সময় পেলে শিখব, জীবনটা একটু গুছিয়ে এলে ঠিক সময়ে নামায পড়ব। প্রতিটিই বাক্যের মাঝখানে ঝুলে থাকা এক শর্ত, যা পরিণামের অপেক্ষায়।"
+          },
+          {
+            "en": "The answer can begin small. One passage read this week with its meaning, from start to finish. One command found in it and acted on, not saved for a better season. And a supplication in plain words, composed here and not narrated: O Allah, You have given us the reminder that others only wished for. Make us of those who act on it, and do not make us of those who said if only, and then turned away when it came.",
+            "bn": "জবাবের শুরু ছোট্ট হতে পারে। এ সপ্তাহে একটি অংশ অর্থসহ শুরু থেকে শেষ পর্যন্ত পড়া। সেখান থেকে একটি আদেশ খুঁজে নিয়ে তার উপর আমল করা, ভালো সময়ের জন্য তুলে না রেখে। আর সহজ ভাষায় একটা দোয়া, যা এখানে বানানো, কোনো বর্ণিত দোয়া নয়: হে আল্লাহ, যে উপদেশের জন্য অন্যরা শুধু আকাঙ্ক্ষা করেছিল, তা আপনি আমাদের দিয়েছেন। আমাদের তাদের অন্তর্ভুক্ত করুন, যারা এর উপর আমল করে। আর আমাদের তাদের মতো করবেন না, যারা বলেছিল আহা যদি, তারপর জিনিসটা এলে মুখ ফিরিয়ে নিয়েছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "37:173": {
     "sections": [
       {
