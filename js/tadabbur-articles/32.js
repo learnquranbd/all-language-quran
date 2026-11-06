@@ -591,6 +591,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "32:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "Hearing While It Still Counts",
+          "bn": "শোনার সময় থাকতেই শোনা"
+        },
+        "p": [
+          {
+            "en": "In 32:12 the guilty hang their heads before their Lord: our Lord, we have seen and we have heard, so send us back and we will do good. In 32:14 they are told to taste the punishment because they forgot the meeting of this Day. Then the surah turns. As-Sa'di marks the turn: having mentioned those who disbelieve in His verses and what He prepared for them, Allah mentions the believers in them, describes them, and names their reward.",
+            "bn": "৩২:১২ আয়াতে অপরাধীরা রবের সামনে মাথা নিচু করে বলে: হে আমাদের রব, আমরা দেখলাম, শুনলাম। এবার ফেরত পাঠান, আমরা ভালো কাজ করব। ৩২:১৪ আয়াতে তাদের বলা হয়, শাস্তির স্বাদ নাও, কারণ এ দিনের সাক্ষাতের কথা তোমরা ভুলে গিয়েছিলে। এরপর সূরা মোড় নেয়। সা'দী এই মোড়টা চিহ্নিত করেন। যারা আল্লাহর আয়াত অস্বীকার করে আর তাদের জন্য যা প্রস্তুত, সে কথা বলার পর আল্লাহ আয়াতে বিশ্বাসীদের কথা আনেন। তাদের গুণ বলেন, আর তাদের প্রতিদানের কথা জানান।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, opening its discussion of 32:16, says the same in other words: starting from Only those believe in Our verses, the passage sets out the special attributes of sincere believers and the high ranks kept for them. Al-Qurtubi reads the verse first as a consolation for the Prophet ﷺ. Those who have grown used to disbelief, he says, will not believe in you; the ones who believe in you and in the Qur'an are those who reflect on it and take its admonition to heart.",
+            "bn": "মাআরিফুল কুরআন ৩২:১৬ আয়াতের আলোচনা শুরু করতে গিয়ে একই কথা অন্যভাবে বলে। 'কেবল তারাই আমার আয়াতে বিশ্বাস করে' থেকে খাঁটি মু'মিনদের বিশেষ গুণ আর তাদের জন্য রাখা উঁচু মর্যাদার বর্ণনা শুরু হয়েছে। কুরতুবী আয়াতটিকে প্রথমে নবী ﷺ-এর জন্য সান্ত্বনা হিসেবে পড়েন। তাঁর ব্যাখ্যায়, কুফরিতে যারা অভ্যস্ত হয়ে গেছে, তারা আপনার উপর ঈমান আনবে না। আপনার উপর আর কুরআনের উপর ঈমান আনে তারাই, যারা কুরআন নিয়ে চিন্তা করে আর তার উপদেশ গ্রহণ করে।"
+          },
+          {
+            "en": "Set the two scenes side by side and a contrast appears in the wording itself. The guilty of 32:12 also say we have heard, but they say it when the hearing can no longer change what they did. The people of 32:15 hear while there is still a life to shape with it. The verses after it describe their nights and their hidden reward; they are not retold here.",
+            "bn": "দুটি দৃশ্য পাশাপাশি রাখলে শব্দের ভেতরেই একটা বৈপরীত্য চোখে পড়ে। ৩২:১২ আয়াতের অপরাধীরাও বলে, আমরা শুনলাম। কিন্তু তারা বলে এমন সময়ে, যখন শুনেও আর নিজের করা কাজ বদলানো যায় না। ৩২:১৫ আয়াতের মানুষগুলো শোনে এমন সময়ে, যখন শোনা কথা দিয়ে জীবন গড়ার সুযোগ এখনো হাতে আছে। পরের আয়াতগুলো তাদের রাত আর লুকিয়ে রাখা প্রতিদানের কথা বলে। সেগুলো এখানে আবার বলা হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith That Shows Its Witnesses",
+          "bn": "যে ঈমান সাক্ষী রেখে যায়"
+        },
+        "p": [
+          {
+            "en": "Innama yu'minu bi-ayatina: only those believe in Our verses. The particle innama restricts, and at-Tabari spells the restriction out as a negation and an exception: none affirms Our proofs and the verses of Our Book except the people who, when reminded by them, fall down. Ibn Kathir glosses yu'minu the same way, as affirming them as true. The Muyassar adds the second half that belief carries with it: they affirm the verses of the Qur'an and act on them.",
+            "bn": "ইন্নামা ইউ'মিনু বিআয়াতিনা: কেবল তারাই আমার আয়াতে বিশ্বাস করে। ইন্নামা শব্দটি সীমা টানে। তাবারী সেই সীমাকে খুলে বলেন না-বাচক বাক্য আর ব্যতিক্রম দিয়ে: আমার প্রমাণ আর আমার কিতাবের আয়াতকে কেউ সত্য বলে মানে না, শুধু তারা ছাড়া, যাদের আয়াত দিয়ে উপদেশ দিলে লুটিয়ে পড়ে। ইবন কাসীরও ইউ'মিনু শব্দের অর্থ করেন সত্য বলে মেনে নেওয়া। মুয়াসসার ঈমানের সঙ্গে জড়ানো দ্বিতীয় অংশটুকু যোগ করে: তারা কুরআনের আয়াতকে সত্য বলে মানে, আর সে অনুযায়ী আমল করে।"
+          },
+          {
+            "en": "As-Sa'di narrows the word further. The faith meant here, he says, is faith in reality, iman haqiqi, belonging to the one in whom the witnesses of faith are found. Ibn Kathir's reading points the same way when he explains the prostration as listening to the verses and obeying them in word and deed. On these readings the restriction is not a census of who calls himself a believer. It says where real believing becomes visible: in what a person does at the moment he is reminded.",
+            "bn": "সা'দী শব্দটিকে আরও সরু করে আনেন। তাঁর মতে এখানে যে ঈমানের কথা, তা বাস্তব ঈমান, ঈমানে হাকীকী। তা সেই মানুষের, যার মধ্যে ঈমানের সাক্ষ্য খুঁজে পাওয়া যায়। ইবন কাসীরের ব্যাখ্যাও একই দিকে যায়। তিনি সিজদার অর্থ করেন আয়াত মন দিয়ে শোনা আর কথায় ও কাজে তা মেনে চলা। এসব ব্যাখ্যায় সীমাটা কে নিজেকে মু'মিন বলে তার কোনো গণনা নয়। এটা দেখিয়ে দেয়, খাঁটি ঈমান কোথায় চোখে পড়ে: উপদেশ পাওয়ার মুহূর্তে মানুষ কী করে, সেখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reminder in Another's Voice",
+          "bn": "অন্যের মুখে আসা উপদেশ"
+        },
+        "p": [
+          {
+            "en": "Idha dhukkiru biha: when they are reminded by them. The verb is passive. Someone reminds them, and the verses are the means. At-Tabari pairs the word with wu'izu, they are admonished, and al-Baghawi gives the same gloss in a single word. The Muyassar names two ways it happens: when they are admonished by the verses, or when the verses are recited to them. Al-Qurtubi has the second in view: these are the ones who, when the Qur'an is read to them, fall down.",
+            "bn": "ইযা যুক্কিরু বিহা: যখন আয়াত দিয়ে তাদের উপদেশ দেওয়া হয়। ক্রিয়াটি কর্মবাচ্যে। অর্থাৎ কেউ একজন তাদের মনে করিয়ে দেয়, আর মাধ্যম হয় আয়াত। তাবারী শব্দটির পাশে রাখেন উইযু, অর্থাৎ তাদের নসিহত করা হয়। বাগাভীও এক শব্দে একই অর্থ দেন। মুয়াসসার দুটি পথের কথা বলে: আয়াত দিয়ে তাদের নসিহত করা হলে, অথবা তাদের সামনে আয়াত তিলাওয়াত করা হলে। কুরতুবীর নজর দ্বিতীয়টির দিকে। তাঁর ভাষায়, এরা সেই লোক, যাদের সামনে কুরআন পড়া হলে তারা লুটিয়ে পড়ে।"
+          },
+          {
+            "en": "As-Sa'di widens the circle of what counts as a reminder. It is the verses of the Qur'an recited to them, the counsel that reached them at the hands of Allah's messengers, and the call to remember. Then he names three steps in their response: they heard it, they accepted it, and they yielded. Hearing alone is what the guilty of 32:12 also claimed. What marks these people is that acceptance and yielding follow the hearing while the reminder is still in front of them.",
+            "bn": "উপদেশ বলতে কী কী বোঝায়, সা'দী তার পরিধি বাড়িয়ে দেন। তাদের সামনে তিলাওয়াত করা কুরআনের আয়াত, আল্লাহর রাসূলদের হাত ধরে তাদের কাছে পৌঁছানো নসিহত, আর স্মরণের দিকে ডাক, সবই এর মধ্যে পড়ে। এরপর তিনি তাদের সাড়ার তিনটি ধাপ বলেন: তারা শুনেছে, কবুল করেছে, আর মাথা পেতে নিয়েছে। শুধু শোনার দাবি তো ৩২:১২ আয়াতের অপরাধীরাও করেছিল। এদের আলাদা করে এই যে, উপদেশ সামনে থাকতে থাকতেই শোনার পর কবুল আর আনুগত্য চলে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Down Upon Their Faces",
+          "bn": "মুখ মাটিতে রেখে"
+        },
+        "p": [
+          {
+            "en": "Kharru sujjadan: they fall down in prostration. The verb kharra is to fall, and al-Baghawi glosses it with saqatu, they dropped. At-Tabari says they fall to Allah prostrate upon their faces, and he gives three reasons that sit inside the act: abasing themselves before Him, humbling themselves before His greatness, and acknowledging that they are His servants. Al-Baghawi's full gloss keeps to the image: they dropped upon their faces, prostrating. Al-Qurtubi adds that they do it in veneration of His verses and in fear of His might and His punishment.",
+            "bn": "খাররু সুজ্জাদা: তারা সিজদায় লুটিয়ে পড়ে। খাররা মানে পড়ে যাওয়া। বাগাভী এর অর্থ করেন সাকাতু, অর্থাৎ তারা পড়ে গেল। তাবারী বলেন, তারা আল্লাহর উদ্দেশে মুখের উপর সিজদায় লুটিয়ে পড়ে। এই কাজের ভেতরে তিনি তিনটি কারণ দেখান। তাঁর সামনে নিজেকে ছোট করা, তাঁর মহত্ত্বের সামনে বিনীত হওয়া, আর স্বীকার করা যে তারা তাঁর বান্দা। বাগাভীর পুরো ব্যাখ্যা ছবিটাই ধরে রাখে: তারা সিজদারত অবস্থায় মুখের উপর পড়ে গেল। কুরতুবী যোগ করেন, তারা এটা করে তাঁর আয়াতের প্রতি সম্মান থেকে, আর তাঁর প্রতাপ ও শাস্তির ভয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi also records a difference over the posture. Ibn 'Abbas said sujjadan here means ruka'an, bowing. Al-Mahdawi explains that this follows the view of those who hold that one bows at the recitation of a verse of prostration, and that it takes as its evidence the words wa kharra raki'an wa anab, and he fell down bowing and turned in repentance, in 38:24. Others said that prostration itself is meant, and al-Qurtubi notes that most scholars hold this. He reports both and does not set the first aside.",
+            "bn": "ভঙ্গি নিয়ে একটা মতভেদও কুরতুবী উল্লেখ করেন। ইবন আব্বাস (রাঃ) বলেছেন, এখানে সুজ্জাদা মানে রুক্কা'আ, অর্থাৎ রুকুতে ঝুঁকে পড়া। মাহদাভী ব্যাখ্যা করেন, এটা তাদের মত, যারা সিজদার আয়াত তিলাওয়াতের সময় রুকুর মত পোষণ করেন। তাদের দলিল ৩৮:২৪ আয়াতের কথা: ওয়া খাররা রাকি'আন ওয়া আনাব, তিনি রুকুতে লুটিয়ে পড়লেন আর আল্লাহর দিকে ফিরলেন। অন্যরা বলেছেন, এখানে সিজদাই উদ্দেশ্য। কুরতুবী জানান, অধিকাংশ আলিম এই মতের। তিনি দুটো মতই উল্লেখ করেন, প্রথমটিকে বাতিল করেন না।"
+          },
+          {
+            "en": "Two commentators look past the body to what it shows. Ibn Kathir, as noted, reads the falling as listening and obeying in word and deed. As-Sa'di says they fall down humbled before the verses, with the humility of remembering Allah and of joy in knowing Him. In his reading the prostration is not only dread. It is also gladness, the gladness of someone who has recognised his Lord in what was recited.",
+            "bn": "দুজন তাফসীরকার শরীরের ভঙ্গি পেরিয়ে দেখেন, ভঙ্গিটা কী প্রকাশ করে। আগেই বলা হয়েছে, ইবন কাসীর লুটিয়ে পড়াকে কথায় ও কাজে শোনা আর মানা হিসেবে পড়েন। সা'দী বলেন, তারা আয়াতের সামনে বিনীত হয়ে লুটিয়ে পড়ে। সে বিনয় আল্লাহর জিকিরের বিনয়, আর তাঁকে চেনার আনন্দের বিনয়। তাঁর ব্যাখ্যায় সিজদা শুধু ভয়ের ব্যাপার নয়। এতে আনন্দও আছে, সেই মানুষের আনন্দ, যে তিলাওয়াত শুনে নিজের রবকে চিনে ফেলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Marked for Prostration",
+          "bn": "সিজদার চিহ্ন যে আয়াতে"
+        },
+        "p": [
+          {
+            "en": "In the mushaf this verse ends with the sign ۩, which marks a place of prostration in recitation, and the Bengali translation printed with it adds the word sajdah at its close. The same sign stands at the end of 38:24, the verse al-Mahdawi's reading appealed to. Whether that prostration is required or recommended, and how it is performed, are questions for fiqh. None of the commentaries fetched for this verse rules on them, and this article does not either.",
+            "bn": "মুসহাফে এ আয়াতের শেষে আছে ۩ চিহ্ন। এটি তিলাওয়াতের সময় সিজদার স্থান বোঝায়। এর সঙ্গে ছাপা বাংলা অনুবাদেও আয়াতের শেষে [সাজদাহ] শব্দটি যোগ করা আছে। একই চিহ্ন আছে ৩৮:২৪ আয়াতের শেষে, যে আয়াতকে মাহদাভীর বর্ণিত মতটি দলিল হিসেবে টেনেছে। এ সিজদা ওয়াজিব না মুস্তাহাব, আর কীভাবে আদায় করতে হয়, এসব ফিকহের প্রশ্ন। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এখানে সে বিষয়ে ফয়সালা দেয় না, এ লেখাও দেবে না।"
+          },
+          {
+            "en": "One narration speaks of what happens when such a verse is answered. Muslim records it in his Sahih (81), from Abu Hurayrah, that the Messenger of Allah ﷺ said: 'When the son of Adam recites the prostration and prostrates, Satan withdraws, weeping, and says: Woe to him! The son of Adam was commanded to prostrate, and he prostrated, so Paradise is his; and I was commanded to prostrate, and I refused, so the Fire is mine.' In Abu Kurayb's narration the words are: woe to me.",
+            "bn": "এমন আয়াতে সাড়া দিলে কী ঘটে, তা নিয়ে একটি বর্ণনা আছে। মুসলিম তাঁর সহীহ গ্রন্থে (৮১) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন, রাসূলুল্লাহ ﷺ বলেছেন: 'আদম সন্তান যখন সিজদার আয়াত তিলাওয়াত করে সিজদা করে, শয়তান কাঁদতে কাঁদতে সরে যায় আর বলে: হায় তার দুর্ভোগ! আদম সন্তানকে সিজদার হুকুম দেওয়া হয়েছিল, সে সিজদা করেছে, তাই তার জন্য জান্নাত। আর আমাকে সিজদার হুকুম দেওয়া হয়েছিল, আমি অস্বীকার করেছি, তাই আমার জন্য জাহান্নাম।' আবু কুরাইবের বর্ণনায় শব্দটি হলো: হায় আমার দুর্ভোগ!"
+          },
+          {
+            "en": "This narration is general. It speaks of the son of Adam reciting a verse of prostration, any such verse, and none of the commentaries fetched for 32:15 attaches it to this verse, and those files tie no other sound hadith to it either. It is placed here only because it answers the verse's last clause. Iblis, in 2:34, aba wa-stakbara: he refused and was arrogant. Our verse closes with the same verb from the same root, wa hum la yastakbirun. That link is drawn from the wording of the two verses, not from a commentator.",
+            "bn": "বর্ণনাটি সাধারণ। এতে আদম সন্তানের যেকোনো সিজদার আয়াত তিলাওয়াতের কথা বলা হয়েছে। ৩২:১৫ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটি একে এ আয়াতের সঙ্গে যুক্ত করেনি, আর সেসব তাফসীরে এ আয়াতের সঙ্গে জড়ানো অন্য কোনো সহীহ হাদিসও নেই। এখানে আনা হয়েছে শুধু এজন্য যে, আয়াতের শেষ অংশের সঙ্গে এর মিল আছে। ২:৩৪ আয়াতে ইবলীস সম্পর্কে বলা হয়েছে: আবা ওয়াসতাকবারা, সে অস্বীকার করল আর অহংকার করল। আমাদের আয়াতও শেষ হয় একই ধাতুর একই ক্রিয়া দিয়ে: ওয়া হুম লা ইয়াসতাকবিরূন। এই যোগসূত্র দুই আয়াতের শব্দ থেকে টানা, কোনো তাফসীরকারের কাছ থেকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glory Spoken With Praise",
+          "bn": "প্রশংসায় মেশানো পবিত্রতা"
+        },
+        "p": [
+          {
+            "en": "Wa sabbahu bi-hamdi rabbihim: and they glorify their Lord with His praise. At-Tabari places the words inside the prostration itself: they glorify Allah in their prostration with His praise. Then he says what the glorifying does. They declare Him free of what the people of disbelief ascribe to Him and attach to Him: a consort, children, partners and rivals. Tasbih in this reading is a refusal spoken on the ground, a clearing away of every false claim made about the Lord before whom they kneel.",
+            "bn": "ওয়া সাব্বাহু বিহামদি রাব্বিহিম: আর তারা রবের প্রশংসার সঙ্গে তাঁর পবিত্রতা ঘোষণা করে। তাবারী কথাগুলোকে সিজদার ভেতরেই রাখেন: তারা সিজদায় আল্লাহর প্রশংসার সঙ্গে তাঁর তাসবীহ পাঠ করে। তারপর তিনি বলেন, এই তাসবীহ কী কাজ করে। কুফরির লোকেরা তাঁর প্রতি যা আরোপ করে, তাঁর সঙ্গে যা জুড়ে দেয়, সেসব থেকে তারা তাঁকে মুক্ত ঘোষণা করে: স্ত্রী, সন্তান, শরিক আর প্রতিদ্বন্দ্বী। এই ব্যাখ্যায় তাসবীহ মানে মাটিতে কপাল রেখে এক প্রত্যাখ্যান। যাঁর সামনে তারা নত, তাঁর সম্পর্কে করা প্রতিটি মিথ্যা দাবি তারা সরিয়ে দেয়।"
+          },
+          {
+            "en": "Al-Qurtubi says they mixed glorifying with praise, declaring Him free of fault and praising Him, and gives the words they said in prostration: subhan Allah wa bi-hamdihi, subhana rabbiya al-a'la wa bi-hamdihi. He also reports from Sufyan another reading: they prayed, in praise of their Lord. Al-Baghawi gives both kinds, each introduced only with it was said: they prayed by their Lord's command, or they said subhan Allah wa bi-hamdihi. He does not choose between them. The Muyassar keeps the glorifying inside the prostration.",
+            "bn": "কুরতুবী বলেন, তারা তাসবীহের সঙ্গে হামদ মিশিয়েছে: তাঁকে সব দোষ থেকে মুক্ত ঘোষণা করেছে, আবার তাঁর প্রশংসাও করেছে। সিজদায় তারা যে কথাগুলো বলত, তিনি তাও উল্লেখ করেন: সুবহানাল্লাহি ওয়া বিহামদিহী, সুবহানা রাব্বিয়াল আ'লা ওয়া বিহামদিহী। সুফিয়ান থেকে তিনি আরেকটি ব্যাখ্যা বর্ণনা করেন: তারা রবের প্রশংসায় নামাজ পড়েছে। বাগাভী দুই ধরনের ব্যাখ্যাই আনেন, দুটোই শুধু 'বলা হয়েছে' দিয়ে শুরু: তারা রবের হুকুমে নামাজ পড়েছে, অথবা তারা বলেছে সুবহানাল্লাহি ওয়া বিহামদিহী। কোনোটিকে তিনি বেছে নেন না। মুয়াসসারও তাসবীহকে সিজদার ভেতরেই রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Pride Holding the Head Up",
+          "bn": "অহংকার যখন মাথা তুলে রাখে না"
+        },
+        "p": [
+          {
+            "en": "Wa hum la yastakbirun: and they are not arrogant. At-Tabari says they do all of this without being too proud to prostrate to Him and glorify Him, and without disdaining to abase themselves and humble themselves before Him. Al-Baghawi names two things they are not too proud for, faith and prostration to Him. Al-Qurtubi reports from Yahya ibn Sallam that they are not too proud for His worship.",
+            "bn": "ওয়া হুম লা ইয়াসতাকবিরূন: আর তারা অহংকার করে না। তাবারী বলেন, তারা এসব করে, অথচ তাঁকে সিজদা করতে আর তাঁর তাসবীহ পড়তে অহংকার করে না। তাঁর সামনে নিজেকে ছোট আর বিনীত করতে তারা নাক সিটকায় না। বাগাভী দুটি জিনিসের নাম বলেন, যার ব্যাপারে তারা অহংকার করে না: ঈমান, আর তাঁর উদ্দেশে সিজদা। কুরতুবী ইয়াহইয়া ইবন সাল্লাম থেকে বর্ণনা করেন: তাঁর ইবাদতে তারা অহংকার করে না।"
+          },
+          {
+            "en": "Ibn Kathir reads the pride as pride against the verses themselves: they are not too proud to follow them and submit to them, as the ignorant among the wicked disbelievers do. He then quotes 40:60, where those too proud for His worship will enter Hell in humiliation. Al-Qurtubi records an-Naqqash: they are not proud as the people of Makkah were too proud to prostrate. Both comments describe the deniers the text describes. Neither licenses anything against any living person or community, and the reader's task is to search his own pride, not his neighbour's.",
+            "bn": "ইবন কাসীর অহংকারকে দেখেন আয়াতের বিরুদ্ধেই অহংকার হিসেবে। তাঁর ভাষায়, তারা আয়াত মেনে চলতে আর তার কাছে নিজেকে সঁপে দিতে অহংকার করে না, যেমনটা পাপিষ্ঠ কাফিরদের মধ্যে অজ্ঞ লোকেরা করে। এরপর তিনি ৪০:৬০ আয়াত উদ্ধৃত করেন: যারা তাঁর ইবাদতে অহংকার করে, তারা লাঞ্ছিত হয়ে জাহান্নামে ঢুকবে। কুরতুবী নাক্কাশের কথা উল্লেখ করেন: মক্কাবাসীরা যেমন সিজদা করতে অহংকার করেছিল, এরা তেমন অহংকার করে না। দুটো ব্যাখ্যাই সেই অস্বীকারকারীদের কথা বলে, যাদের কথা আয়াত বলে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এর কোনোটিই কিছুর অনুমতি দেয় না। পাঠকের কাজ নিজের অহংকার খোঁজা, প্রতিবেশীর নয়।"
+          },
+          {
+            "en": "As-Sa'di carries the denial into two places at once: they are not proud in their hearts, and not in their bodies, in a way that would make them refuse to yield. Rather they are humble before the verses. They received them with acceptance and surrender, met them with an open breast, reached through them the pleasure of the Merciful Lord, and were guided by them to the straight path. A body can go down while the heart stays standing, and the verse asks for both.",
+            "bn": "সা'দী অস্বীকৃতিটা একসঙ্গে দুই জায়গায় নিয়ে যান। তারা অন্তরেও অহংকার করে না, শরীরেও না, যাতে আনুগত্য থেকে সরে থাকতে হয়। বরং আয়াতের সামনে তারা বিনয়ী। তারা আয়াতকে গ্রহণ করেছে কবুল আর আত্মসমর্পণ নিয়ে, খোলা মনে তাকে বরণ করেছে। এর মাধ্যমে তারা দয়াময় রবের সন্তুষ্টি পর্যন্ত পৌঁছেছে, আর এর দ্বারাই সরল পথের দিশা পেয়েছে। শরীর নত হলেও হৃদয় সোজা দাঁড়িয়ে থাকতে পারে। আয়াত দুটোই চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What a Verse Finds in Me",
+          "bn": "আয়াত আমার মধ্যে কী পায়"
+        },
+        "p": [
+          {
+            "en": "The verse describes believers in the third person, and it would be easy to read it as a test to set over other people. Nothing in the commentaries points that way. As-Sa'di's witnesses of faith are found in the person who has them, and the only person whose response to a reminder anyone can truly watch is himself. The question is not whether others fall down when the verses are recited. It is what happens in me when they are recited to me.",
+            "bn": "আয়াতটি মু'মিনদের কথা বলে নাম পুরুষে। তাই একে অন্যদের মাপার পরীক্ষা হিসেবে পড়ে ফেলা সহজ। তাফসীরগুলোর কোথাও এমন ইঙ্গিত নেই। সা'দী যে ঈমানের সাক্ষ্যের কথা বলেন, তা খুঁজে পাওয়া যায় যার মধ্যে আছে তার মধ্যেই। উপদেশ পেলে মানুষ কীভাবে সাড়া দেয়, সত্যিকার অর্থে তা দেখা যায় শুধু নিজের বেলায়। তাই প্রশ্নটা এই নয় যে আয়াত পড়া হলে অন্যরা লুটিয়ে পড়ে কি না। প্রশ্ন হলো, আমার সামনে আয়াত পড়া হলে আমার ভেতরে কী ঘটে।"
+          },
+          {
+            "en": "The verse also gives the shape of a good answer, in the order the commentators drew from it. First the hearing, while it still counts. Then the going down, as at-Tabari says, in lowliness before Him and in acknowledgement of servanthood, and, as as-Sa'di adds, in the gladness of knowing Him. Then the words of glory and praise. And under all of it, no pride: not the open refusal of 2:34, nor the quieter kind that explains why a clear reminder does not apply to me.",
+            "bn": "ভালো সাড়া দেখতে কেমন, আয়াতটি তার একটা ছবিও দেয়, তাফসীরকারেরা যে ক্রমে তা সাজিয়েছেন সে ক্রমে। প্রথমে শোনা, সময় থাকতেই। তারপর নত হওয়া। তাবারীর ভাষায়, তাঁর সামনে নিজেকে ছোট করে আর বান্দা হওয়ার স্বীকৃতি দিয়ে। আর সা'দীর যোগ করা কথায়, তাঁকে চেনার আনন্দ নিয়ে। তারপর পবিত্রতা আর প্রশংসার কথা। আর এসবের নিচে কোনো অহংকার নেই। ২:৩৪ আয়াতের খোলাখুলি অস্বীকার নেই, আবার সেই চাপা অহংকারও নেই, যা ব্যাখ্যা দিতে থাকে কেন স্পষ্ট একটা উপদেশ আমার বেলায় খাটে না।"
+          },
+          {
+            "en": "The guilty of 32:12 will yet say, we have seen and we have heard, and ask to be sent back to do good. This verse is the sending back, offered now, before that Day. Every recitation in prayer, every reminder from a friend, every verse that stops a reader on the page is a moment of being reminded by Allah's verses. The verse asks only that, when such a moment comes, the head goes down and the heart goes with it.",
+            "bn": "৩২:১২ আয়াতের অপরাধীরা একদিন বলবে, আমরা দেখলাম, শুনলাম, আর ফেরত পাঠানোর আবদার করবে, যাতে ভালো কাজ করতে পারে। এ আয়াত সেই ফেরত পাঠানোর সুযোগটাই, যা দেওয়া হচ্ছে এখন, সেদিন আসার আগে। নামাজে প্রতিটি তিলাওয়াত, বন্ধুর মুখে প্রতিটি উপদেশ, পড়তে পড়তে থামিয়ে দেওয়া প্রতিটি আয়াত, সবই আল্লাহর আয়াত দিয়ে মনে করিয়ে দেওয়ার মুহূর্ত। আয়াত শুধু এটুকুই চায়: এমন মুহূর্ত এলে মাথা নত হোক, আর হৃদয়ও তার সঙ্গে নামুক।"
+          }
+        ]
+      }
+    ]
+  },
   "32:16": {
     "sections": [
       {

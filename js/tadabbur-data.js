@@ -25189,6 +25189,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your hearing, sight and heart are gifts from the One who gave you life; thank Him by using them in what pleases Him.",
     "lessonBn": "আপনার কান, চোখ আর অন্তর তাঁরই দান, যিনি আপনাকে জীবন দিয়েছেন; যা তাঁকে খুশি করে তাতে এগুলো কাজে লাগিয়েই তাঁর শোকর আদায় করুন।"
+  },
+  "32:15": {
+    "reflectionEn": "A few verses earlier, the guilty stand with heads hung before their Lord and say, we have seen and we have heard, send us back. Their hearing came too late to change anything. This verse describes people whose hearing comes in time. They are reminded by the verses, and they go down: foreheads on the ground, glorifying their Lord with His praise, and nothing in them too proud to bow. Faith here is not a claim a person makes about himself; it is the way he answers when he is reminded. So the question the verse leaves is not about anyone else. When a verse reaches me, what does it find? A heart that lowers itself, or one that stays upright and explains why it need not?",
+    "reflectionBn": "কয়েক আয়াত আগে অপরাধীরা রবের সামনে মাথা নিচু করে দাঁড়িয়ে বলে: আমরা দেখলাম, শুনলাম, এবার আমাদের ফেরত পাঠান। তাদের শোনাটা এসেছিল এত দেরিতে যে তাতে আর কিছু বদলায় না। এ আয়াত এমন মানুষের কথা বলে, যাদের শোনা আসে সময় থাকতেই। আয়াত দিয়ে তাদের উপদেশ দেওয়া হলে তারা লুটিয়ে পড়ে। কপাল মাটিতে রেখে প্রশংসার সঙ্গে রবের পবিত্রতা ঘোষণা করে, মাথা নোয়াতে তাদের ভেতরে কোনো অহংকার বাধা দেয় না। ঈমান এখানে নিজের সম্পর্কে কোনো দাবি নয়। উপদেশ পেলে মানুষ কীভাবে সাড়া দেয়, সেটাই তার ঈমানের চেহারা। তাই আয়াতটি যে প্রশ্ন রেখে যায়, তা অন্য কারও সম্পর্কে নয়। কোনো আয়াত যখন আমার কাছে পৌঁছায়, সে কী খুঁজে পায়? এমন হৃদয়, যা নত হয়? নাকি এমন হৃদয়, যা সোজা দাঁড়িয়ে থাকে আর ব্যাখ্যা দেয় কেন তার নত হওয়ার দরকার নেই?",
+    "pointsEn": [
+      "Which verse or reminder reached me recently, and did anything in me actually move when it did?",
+      "When someone reminds me of Allah, do I hear the reminder, or do I first weigh the person who gave it?",
+      "Is there a command I already know well that I keep explaining my way out of, and is that pride wearing a reasonable face?",
+      "When I prostrate, are my glorifying words and my praise of Him present in my heart, or only on my tongue?",
+      "What would it take for me to hear now, rather than on the Day when hearing changes nothing?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি কোন আয়াত বা কোন উপদেশ আমার কাছে পৌঁছেছে? তখন আমার ভেতরে সত্যিই কিছু কি নড়ে উঠেছিল?",
+      "কেউ আমাকে আল্লাহর কথা মনে করিয়ে দিলে আমি কি কথাটা শুনি, নাকি আগে যে বলছে তাকে মাপতে বসি?",
+      "এমন কোনো হুকুম কি আছে, যা আমি ভালো করেই জানি, অথচ বারবার যুক্তি দিয়ে পাশ কাটিয়ে যাই? ভদ্র চেহারার আড়ালে সেটা কি অহংকারই নয়?",
+      "সিজদায় যখন তাঁর পবিত্রতা আর প্রশংসার কথাগুলো বলি, সেগুলো কি আমার হৃদয়ে থাকে, নাকি শুধু জিভে?",
+      "যেদিন শুনেও আর কিছু বদলাবে না, সেদিনের আগে এখনই শোনার জন্য আমার কী দরকার?"
+    ],
+    "lessonEn": "Let a reminder from Allah's verses bring you low before Him, glorifying and praising your Lord, and never let pride keep your head up when it should bow.",
+    "lessonBn": "আল্লাহর আয়াত দিয়ে উপদেশ পেলে তাঁর সামনে নত হোন, প্রশংসার সঙ্গে রবের পবিত্রতা ঘোষণা করুন, আর যেখানে মাথা নোয়ানোর কথা সেখানে অহংকারকে মাথা উঁচু রাখতে দেবেন না।"
   }
 };
 
