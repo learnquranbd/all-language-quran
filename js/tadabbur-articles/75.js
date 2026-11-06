@@ -895,6 +895,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "75:25": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words Finish a Sentence",
+          "bn": "পাঁচ শব্দে বাক্যের শেষ"
+        },
+        "p": [
+          {
+            "en": "Tazunnu an yuf'ala biha faqira: expecting that something back-breaking will be done to them. The verse has five words and no subject of its own. It completes the sentence that 75:24 began, wa wujuhun yawma'idhin basira, and faces that Day will be basira, so the faces themselves are the ones who expect. The pronoun in biha, to them, is feminine and points back to those faces. The Muyassar, which comments on 75:24 and 75:25 together, reads the two as one picture: the faces of the wretched on the Day of Resurrection.",
+            "bn": "তাযুন্নু আন ইউফআলা বিহা ফাকিরা: তারা ধারণা করবে যে তাদের সঙ্গে কোমর-ভাঙা কিছু করা হবে। আয়াতে শব্দ মোটে পাঁচটি, নিজস্ব কোনো কর্তা নেই। ৭৫:২৪ যে বাক্য শুরু করেছিল, এ আয়াত সেটাই শেষ করে: ওয়া উজূহুন ইয়াওমাইযিন বাসিরা, আর কিছু মুখ সেদিন হবে বাসিরা। তাই আশঙ্কাটা করছে ওই মুখগুলোই। বিহা শব্দের সর্বনাম স্ত্রীলিঙ্গ, ইঙ্গিত করছে সেই মুখগুলোর দিকেই। মুয়াসসার ৭৫:২৪ ও ৭৫:২৫ একসঙ্গে ব্যাখ্যা করে, আর দুটিকে পড়ে একটি ছবি হিসেবে: কিয়ামতের দিনে হতভাগাদের মুখ।"
+          },
+          {
+            "en": "The pair stands opposite another pair. In 75:22 and 75:23 some faces are radiant and looking at their Lord; those verses have their own article, and their debate is not repeated here. What 75:24 adds is the word basira. At-Tabari explains it as faces changed in colour, blackened and grim. He records Qatada saying kaliha, grim, in one report and 'abisa, frowning, in another, and Ibn Zayd saying 'abisa. Mujahid, by his chain, says kashira, grimacing with the teeth bared. Our verse then explains why those faces look as they do.",
+            "bn": "এই জোড়ার মুখোমুখি দাঁড়িয়ে আছে আরেক জোড়া। ৭৫:২২ ও ৭৫:২৩ আয়াতে কিছু মুখ উজ্জ্বল, তাকিয়ে আছে তাদের রবের দিকে। সে আয়াতগুলোর আলাদা প্রবন্ধ আছে, সেখানকার আলোচনা এখানে আর তোলা হচ্ছে না। ৭৫:২৪ যোগ করে বাসিরা শব্দটি। তাবারীর ব্যাখ্যায় এর মানে রং বদলে যাওয়া, কালো হয়ে যাওয়া, বিকৃত মুখ। কাতাদার একটি বর্ণনায় শব্দটি কালিহা, অর্থাৎ বিকৃত, আরেক বর্ণনায় আবিসা, অর্থাৎ ভ্রূকুটি করা। ইবন যায়দও বলেন আবিসা। মুজাহিদ নিজের সনদে বলেন কাশিরা, দাঁত বের করে মুখ বিকৃত করা। এ মুখগুলো কেন এমন দেখায়, তার কারণ বলে দেয় আমাদের আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing, or Only Bracing?",
+          "bn": "নিশ্চিত জানা, নাকি শুধু আশঙ্কা?"
+        },
+        "p": [
+          {
+            "en": "The verb tazunnu usually means to think or suppose, and that raises a question: do these faces only suspect what is coming, or do they know? Most of the commentaries fetched for this verse read it as knowledge. Ibn Kathir glosses it tastayqinu, it will be certain, and al-Baghawi uses the same word. Al-Qurtubi gives tuqinu wa ta'lamu, it is certain and knows. At-Tabari, in the entry the API files under 75:26, opens with ta'lamu: it knows that a calamity will be done to it.",
+            "bn": "তাযুন্নু ক্রিয়াটির সাধারণ অর্থ ধারণা করা বা মনে করা। তাই প্রশ্ন ওঠে: মুখগুলো কি কেবল আঁচ করছে কী আসছে, নাকি নিশ্চিতভাবে জানে? এ আয়াতের জন্য যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার বেশির ভাগ একে জানা অর্থে নেয়। ইবন কাসীর এর ব্যাখ্যা দেন তাস্তাইকিনু শব্দে, অর্থাৎ সে নিশ্চিত হবে। বাগাভীও একই শব্দ ব্যবহার করেন। কুরতুবী বলেন তূকিনু ওয়া তা'লামু: সে নিশ্চিত, সে জানে। তাবারীর যে অংশ এপিআই ৭৫:২৬-এর ঘরে রেখেছে, সেটা শুরু হয় তা'লামু দিয়ে: সে জানে, তার সঙ্গে এক মহাবিপদ ঘটানো হবে।"
+          },
+          {
+            "en": "The Muyassar chooses a different verb. Its line reads tatawaqqa'u: the faces expect, anticipate, that a great calamity will come down on them. The translation printed with the verse here also says expecting. The two readings sit close together, since a person can be certain of the very thing he is waiting for, but they are not the same word, and neither source argues with the other. This page keeps both. The same verb returns three verses later, wa zanna annahu al-firaq (75:28), where the translation here renders it is certain.",
+            "bn": "মুয়াসসার বেছে নিয়েছে ভিন্ন এক ক্রিয়া: তাতাওয়াক্কাউ। অর্থাৎ মুখগুলো অপেক্ষা করছে, আশঙ্কা করছে যে বড় এক বিপদ তাদের উপর নেমে আসবে। এখানে আয়াতের সঙ্গে ছাপা ইংরেজি অনুবাদও বলে expecting, অর্থাৎ আশঙ্কা করা। দুই পাঠ খুব কাছাকাছি। যার জন্য মানুষ অপেক্ষা করছে, সেটার ব্যাপারে সে নিশ্চিতও হতে পারে। তবু শব্দ দুটো এক নয়, আর কোনো উৎস অন্যটির সঙ্গে তর্ক করে না। এ লেখা দুটোই রেখে দিচ্ছে। তিনটি আয়াত পরে একই ক্রিয়া আবার আসে: ওয়া যান্না আন্নাহুল ফিরাক (৭৫:২৮)। সেখানে এখানকার ইংরেজি অনুবাদ লিখেছে is certain, অর্থাৎ সে নিশ্চিত।"
+          },
+          {
+            "en": "The early reports carry the same range inside them. As-Suddi, in Ibn Kathir's wording, puts certainty into the content itself: tastayqinu annaha halika, they will be certain that they are perishing. Ibn Zayd, quoted by at-Tabari and Ibn Kathir, keeps the plainer verb: tazunnu, they think that they will enter the Fire. So even among the first generations the line between knowing and dreading is drawn in more than one place. What every reading shares is the verse's own picture: the faces see it coming before it arrives.",
+            "bn": "প্রথম যুগের বর্ণনাগুলোতেও এই ব্যাপ্তি আছে। ইবন কাসীরের উদ্ধৃতিতে সুদ্দী নিশ্চয়তাকে বসিয়ে দেন কথার ভেতরেই: তাস্তাইকিনু আন্নাহা হালিকা, তারা নিশ্চিত হবে যে তারা ধ্বংস হচ্ছে। তাবারী ও ইবন কাসীর ইবন যায়দের যে কথা উদ্ধৃত করেন, তাতে সাদামাটা ক্রিয়াটাই থাকে: তাযুন্নু, তারা মনে করে তারা জাহান্নামে ঢুকবে। অর্থাৎ প্রথম প্রজন্মের মধ্যেও জানা আর ভয় পাওয়ার সীমারেখা একটিমাত্র জায়গায় টানা হয়নি। তবে সব পাঠে যা মেলে, তা আয়াতেরই ছবি: আঘাত পৌঁছানোর আগেই মুখগুলো তা দেখতে পাচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named After the Spine",
+          "bn": "মেরুদণ্ড থেকে নাম"
+        },
+        "p": [
+          {
+            "en": "Faqira comes from faqar, the vertebrae of the back. Al-Qurtubi defines it as the calamity and the momentous matter, and gives the idiom behind it: faqarathu al-faqira, the faqira struck his faqar, that is, it broke the vertebrae of his back. He says this meaning was given by Mujahid and others. Al-Baghawi says the same in his own words: the faqira is the great calamity and the severe matter that breaks the vertebrae of the back. Both commentators begin from the body before they move to any named punishment.",
+            "bn": "ফাকিরা এসেছে ফাকার থেকে, অর্থাৎ পিঠের মেরুদণ্ডের হাড়গুলো। কুরতুবী এর সংজ্ঞা দেন মহাবিপদ ও ভয়ংকর ব্যাপার বলে। পেছনের প্রবাদটাও তিনি জানান: ফাকারাতহুল ফাকিরা, মানে ফাকিরা তার মেরুদণ্ডের হাড় ভেঙে দিয়েছে। তাঁর কথায়, এ অর্থ দিয়েছেন মুজাহিদ ও অন্যরা। বাগাভীও নিজের ভাষায় একই কথা বলেন: ফাকিরা হলো সেই বড় বিপদ, সেই কঠিন ব্যাপার, যা পিঠের হাড় ভেঙে দেয়। নির্দিষ্ট কোনো শাস্তির নাম নেওয়ার আগে দুজনেই শুরু করেন শরীর থেকে।"
+          },
+          {
+            "en": "Sa'id ibn al-Musayyib, in al-Baghawi's report, puts it in two words: qasimat az-zahr, the breaker of the back. The Muyassar folds the root into its paraphrase without pausing on it: a great calamity that snaps the vertebrae of the back. The verse itself does not say what the faqira will be. It names what it does to a body and leaves the hearer to feel the weight that would do it. The faces of 75:24 are already reacting to that weight before anything has fallen on them.",
+            "bn": "বাগাভীর বর্ণনায় সাঈদ ইবনুল মুসাইয়্যিব পুরো কথাটা বলে দেন দুই শব্দে: কাসিমাতুয যাহর, যা পিঠ ভেঙে দেয়। মুয়াসসার আলাদা করে থামে না, ধাতুটাকে নিজের ব্যাখ্যার ভেতরেই মিশিয়ে দেয়: এমন বড় বিপদ, যা পিঠের হাড় চুরমার করে দেয়। আয়াত নিজে বলে না ফাকিরা জিনিসটা কী হবে। বলে শুধু, শরীরের সঙ্গে সেটা কী করে। কতটা ভার হলে এমনটা ঘটে, তা অনুভব করার দায় শ্রোতার। কিছু নেমে আসার আগেই ৭৫:২৪-এর মুখগুলো সেই ভারে কুঁকড়ে যাচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Brand on the Camel's Nose",
+          "bn": "উটের নাকে দাগ"
+        },
+        "p": [
+          {
+            "en": "Two commentators trace the word further back, to the handling of camels. At-Tabari closes his short comment with Ibn Zayd's report, and the report as he gives it ends with a remark on the word: the root of faqira is the brand, al-wasm, with which the nose is marked. Al-Qurtubi gives a fuller picture and credits it to al-Asma'i: the origin of the word is branding a camel's nose with iron or with fire until the mark reaches the bone. The image is of something that goes past the skin and stays.",
+            "bn": "দুজন তাফসীরকার শব্দটিকে আরও পেছনে নিয়ে যান, উট সামলানোর জগতে। তাবারী তাঁর ছোট আলোচনা শেষ করেন ইবন যায়দের বর্ণনা দিয়ে। তাঁর উদ্ধৃত সে বর্ণনার শেষে শব্দটি নিয়ে একটি মন্তব্য আছে: ফাকিরার মূল হলো আল-ওয়াসম, অর্থাৎ নাকে দেওয়া দাগ। কুরতুবী ছবিটা আরও পুরো করে দেন, আর এর কৃতিত্ব দেন আসমাঈকে। তাঁর বর্ণনায় শব্দের মূল হলো লোহা বা আগুন দিয়ে উটের নাকে দাগ দেওয়া, যতক্ষণ না দাগটা হাড় পর্যন্ত পৌঁছায়। ছবিটা এমন কিছুর, যা চামড়া পেরিয়ে যায় আর থেকে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi goes on. One says faqartu anf al-ba'ir when one has cut a camel's nose with an iron blade, then laid a halter over the cut with a twisted cord upon it, to humble the animal and break it in. From this, he says, comes the saying qad 'umila bihi al-faqira, the faqira has been done to him. The idiom has the same shape as the verse: something done to someone by an unnamed hand. He closes with a line of the poet an-Nabigha, a blow of an axe above my head, faqira, and glosses it as breaking.",
+            "bn": "কুরতুবী আরও বলেন। কেউ যখন লোহার ফলা দিয়ে উটের নাক কেটে দেয়, তারপর কাটা জায়গার উপর পাকানো দড়িসহ লাগাম বসিয়ে দেয়, যাতে প্রাণীটা বশ মানে আর পোষ মানে, তখন বলা হয় ফাকারতু আনফাল বাঈর। তাঁর মতে এখান থেকেই এসেছে প্রবাদ: কাদ উমিলা বিহিল ফাকিরা, তার সঙ্গে ফাকিরা করা হয়েছে। প্রবাদের গড়ন আয়াতের মতোই। কারও সঙ্গে কিছু করা হচ্ছে, কিন্তু হাতটা কার, নাম নেই। শেষে তিনি কবি নাবিগার একটি চরণ আনেন: মাথার উপর কুড়ালের এক ঘা, ফাকিরা। আর ব্যাখ্যা দেন, এর মানে ভেঙে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Disaster, Evil, Ruin, Fire",
+          "bn": "বিপর্যয়, অনিষ্ট, ধ্বংস, আগুন"
+        },
+        "p": [
+          {
+            "en": "Asked what the faqira is, the early authorities give near meanings. Mujahid, in at-Tabari and Ibn Kathir, says dahiya, a disaster. Qatada says sharr, an evil. As-Suddi, in al-Qurtubi's summary, says halak, destruction. Ibn Zayd, in at-Tabari and al-Baghawi, says it is entering the Fire, and at-Tabari has him add: that is the faqira. Al-Qurtubi gives the reading of entering the Fire to Ibn 'Abbas as well as to Ibn Zayd. At-Tabari's own gloss is the shortest of all: the faqira is the dahiya.",
+            "bn": "ফাকিরা কী, এ প্রশ্নে প্রথম যুগের আলিমেরা কাছাকাছি অর্থ দেন। তাবারী ও ইবন কাসীরের বর্ণনায় মুজাহিদ বলেন দাহিয়া, অর্থাৎ বিপর্যয়। কাতাদা বলেন শার, অনিষ্ট। কুরতুবীর সারসংক্ষেপে সুদ্দী বলেন হালাক, ধ্বংস। তাবারী ও বাগাভীর বর্ণনায় ইবন যায়দ বলেন, এটা জাহান্নামে প্রবেশ। তাবারীর বর্ণনায় তিনি যোগ করেন: ওটাই ফাকিরা। কুরতুবী জাহান্নামে প্রবেশের অর্থটি ইবন যায়দের সঙ্গে ইবন আব্বাস (রাঃ)-এর নামেও দেন। তাবারীর নিজের ব্যাখ্যা সবচেয়ে ছোট: ফাকিরা মানে দাহিয়া।"
+          },
+          {
+            "en": "Al-Qurtubi's verdict on the list is brief: wa al-ma'na mutaqarib, and the meaning is close. As-Sa'di, who names no one, gathers it as severe punishment and painful torment. Al-Baghawi records one more reading, from al-Kalbi: that the faqira is being veiled from seeing the Lord. It is the only reading that reaches back to 75:23, and al-Baghawi sets it down without comment. The answers differ in what they name, a disaster, an evil, ruin, the Fire, a veil, but each is something that would break a person.",
+            "bn": "এই তালিকা নিয়ে কুরতুবীর রায় ছোট্ট: ওয়াল মা'না মুতাকারিব, অর্থগুলো কাছাকাছি। সা'দী কারও নাম নেন না। তিনি সব একত্র করেন কঠিন শাস্তি আর যন্ত্রণাদায়ক আযাব বলে। বাগাভী আরেকটি পাঠ উল্লেখ করেন কালবীর সূত্রে: ফাকিরা হলো রবের দর্শন থেকে আড়াল করে রাখা। এটাই একমাত্র পাঠ যা ৭৫:২৩ পর্যন্ত ফিরে যায়, আর বাগাভী কোনো মন্তব্য ছাড়াই তা লিখে রাখেন। উত্তরগুলো আলাদা আলাদা জিনিসের নাম নেয়: বিপর্যয়, অনিষ্ট, ধ্বংস, আগুন, আড়াল। তবু প্রতিটিই এমন কিছু, যা মানুষকে ভেঙে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Done to Them, Not by Them",
+          "bn": "তাদের সঙ্গে করা হবে"
+        },
+        "p": [
+          {
+            "en": "The grammar adds a quieter point. Yuf'ala is passive: something will be done to them, and this verse does not name the one who does it. The faces are not pictured acting, choosing or pleading. Their only activity is the expectation itself. In 75:22 and 75:23 the bright faces look; here the dark faces wait for what will be done to them. The verse holds them at the edge of the event, before it happens, which is perhaps the hardest place to stand.",
+            "bn": "ব্যাকরণ আরও একটি নিঃশব্দ কথা যোগ করে। ইউফআলা কর্মবাচ্য: তাদের সঙ্গে কিছু করা হবে, কিন্তু কে করবে, এ আয়াত তা বলে না। মুখগুলোকে দেখানো হয় না কিছু করতে, বেছে নিতে বা অনুনয় করতে। তাদের একমাত্র কাজ ওই আশঙ্কাটুকু। ৭৫:২২ ও ৭৫:২৩ আয়াতে উজ্জ্বল মুখগুলো তাকিয়ে থাকে। এখানে অন্ধকার মুখগুলো অপেক্ষা করে, তাদের সঙ্গে কী করা হবে। আয়াত তাদের দাঁড় করিয়ে রাখে ঘটনার ঠিক কিনারায়, ঘটার আগে। দাঁড়ানোর জায়গা হিসেবে সম্ভবত এর চেয়ে কঠিন কিছু নেই।"
+          },
+          {
+            "en": "As-Sa'di draws the link between the two verses with a single word, fa-li-dhalika, and for that reason: because they expect a severe punishment, their faces changed and scowled. Read with him, 75:25 is the cause and 75:24 the effect. The scowl is not decoration on the scene; it is what the knowledge does to a face. The Muyassar keeps the same two parts together in one sentence, the grim and scowling faces and, straight after them, the expectation of a calamity that snaps the back.",
+            "bn": "দুই আয়াতের যোগসূত্র সা'দী টানেন একটিমাত্র শব্দে: ফালিযালিকা, সেই কারণেই। কঠিন শাস্তির আশঙ্কা করছে বলেই তাদের মুখ বদলে গেছে, ভ্রূকুটিতে কুঁচকে গেছে। তাঁর সঙ্গে পড়লে ৭৫:২৫ কারণ, আর ৭৫:২৪ তার ফল। ভ্রূকুটিটা দৃশ্যের সাজসজ্জা নয়। জানাটা মুখের উপর যা করে, এ সেই ছাপ। মুয়াসসারও দুটো অংশ একই বাক্যে ধরে রাখে: আগে বিকৃত, ভ্রূকুটি করা মুখ, আর ঠিক তার পরে পিঠ-ভাঙা বিপদের আশঙ্কা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Pairs of Faces",
+          "bn": "মুখের আরও কিছু জোড়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the scene among its parallels. There is the day some faces turn white and some turn black (3:106). There are faces that Day bright, laughing and rejoicing, and faces with dust upon them, covered in darkness (80:38 to 80:42). There are faces humbled, labouring and weary, entering a blazing Fire, and faces full of bliss, pleased with their striving, in a lofty Garden (88:2 to 88:10). He adds that there are other verses and passages like these. In each, the Day is sorted by what shows on faces.",
+            "bn": "ইবন কাসীর দৃশ্যটিকে রাখেন এর সমান্তরাল আয়াতগুলোর পাশে। এক দিনের কথা আছে, যেদিন কিছু মুখ সাদা হবে আর কিছু মুখ কালো (৩:১০৬)। কিছু মুখ সেদিন উজ্জ্বল, হাসিখুশি, আনন্দিত, আর কিছু মুখে ধুলো, অন্ধকারে ঢাকা (৮০:৩৮ থেকে ৮০:৪২)। কিছু মুখ অবনত, খেটে খেটে ক্লান্ত, জ্বলন্ত আগুনে ঢুকছে, আর কিছু মুখ নিয়ামতে ভরা, নিজের চেষ্টায় সন্তুষ্ট, উঁচু জান্নাতে (৮৮:২ থেকে ৮৮:১০)। তিনি যোগ করেন, এমন আরও আয়াত ও প্রসঙ্গ আছে। প্রতিটিতে সেদিনকে ভাগ করা হয় মুখে যা ফুটে ওঠে তা দিয়ে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, so this page quotes none, and none of them gives an occasion of revelation. The verse is read in its place in the surah, inside the run that begins with the love of the immediate in 75:20 and 75:21 and turns, straight after it, to the soul reaching the collarbones in 75:26. The scowling faces stand between the habit that leads to them and the deathbed where that habit runs out of time.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এ লেখাও কোনো হাদীস উদ্ধৃত করছে না। নাযিলের কোনো উপলক্ষও কেউ উল্লেখ করেনি। তাই আয়াতটি পড়া হচ্ছে সূরার ভেতরে তার নিজের জায়গায়। সে ধারা শুরু হয় ৭৫:২০ ও ৭৫:২১ আয়াতে দুনিয়ার প্রতি ভালোবাসা দিয়ে, আর এ আয়াতের ঠিক পরেই ৭৫:২৬-এ মোড় নেয় কণ্ঠার হাড় পর্যন্ত পৌঁছে যাওয়া প্রাণের দিকে। বিকৃত মুখগুলো দাঁড়িয়ে আছে মাঝখানে: একদিকে যে অভ্যাস তাদের এখানে এনেছে, অন্যদিকে সেই মৃত্যুশয্যা, যেখানে অভ্যাসটার সময় ফুরিয়ে যায়।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes faces on the Day of Resurrection, as the text describes them. It licenses nothing against any living person or community: no reading of anyone's face, complexion, sorrow or misfortune today as a sign of where they stand with Allah. The Muyassar calls these the faces of the wretched, al-ashqiya', and that judgement belongs to the Day itself and to Allah, not to anyone watching now. The only face these verses hand the reader to examine is the reader's own.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কিয়ামতের দিনের কিছু মুখের বর্ণনা দেয়, যেমনটা আয়াতে আছে ঠিক তেমন। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কারও চেহারা, গায়ের রং, দুঃখ বা দুর্দশা দেখে আল্লাহর কাছে তার অবস্থান মেপে নেওয়ার অনুমতিও দেয় না। মুয়াসসার এদের বলে হতভাগাদের মুখ, আল-আশকিয়া। সে ফয়সালা সেদিনের, আর আল্লাহর। আজ যে দেখছে, তার নয়। এ আয়াতগুলো পাঠকের হাতে পরখ করার জন্য একটি মুখই তুলে দেয়: তার নিজের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What a Face Learns to Expect",
+          "bn": "মুখ যা আশা করতে শেখে"
+        },
+        "p": [
+          {
+            "en": "The verses before it named the habit behind both scenes: no, rather you love the immediate and leave the Hereafter (75:20 and 75:21). Read after them, 75:25 shows where the leaving ends. A life spent on what comes quickly does not cancel what comes later; it only changes how a person meets it. The faces of 75:24 are not taken by surprise. Every gloss of tazunnu gathered here, from certainty to expectation, has them seeing the blow before it arrives.",
+            "bn": "এর আগের আয়াতগুলো দুই দৃশ্যের পেছনের অভ্যাসটার নাম বলে দিয়েছে: কখনো না, বরং তোমরা দুনিয়াকে ভালোবাস আর আখিরাতকে ফেলে রাখ (৭৫:২০ ও ৭৫:২১)। সেগুলোর পরে পড়লে ৭৫:২৫ দেখায়, ফেলে রাখার শেষটা কোথায়। যা তাড়াতাড়ি আসে, তার পেছনে কাটানো জীবন পরে যা আসবে তাকে মুছে দেয় না। শুধু বদলে দেয়, মানুষ তার মুখোমুখি হয় কীভাবে। ৭৫:২৪-এর মুখগুলো হঠাৎ চমকে ওঠে না। তাযুন্নু শব্দের যত ব্যাখ্যা এখানে এসেছে, নিশ্চয়তা থেকে আশঙ্কা পর্যন্ত, সবগুলোতেই তারা আঘাতটা আসার আগেই দেখে ফেলে।"
+          },
+          {
+            "en": "That leaves the reader with a question about the present rather than a verdict on anyone else. What is my ordinary day teaching my heart to expect from its Lord? The verse describes a moment when expectation can no longer alter the outcome. Before that moment it still can, because the deeds that shape it are still being done, and the door of tawbah is still open to the one who turns. The difference between the two pairs of faces is shown on that Day, but it is made on this one.",
+            "bn": "তাই পাঠকের সামনে থাকে বর্তমান নিয়ে একটি প্রশ্ন, অন্য কারও উপর রায় নয়। আমার সাধারণ দিনগুলো আমার মনকে রবের কাছ থেকে কী আশা করতে শেখাচ্ছে? আয়াত এমন এক মুহূর্তের ছবি আঁকে, যখন আশঙ্কা আর ফল বদলাতে পারে না। সেই মুহূর্তের আগে এখনো পারে। কারণ যে আমল তা গড়ে, তা এখনো করা হচ্ছে, আর যে ফিরে আসে তার জন্য তওবার দরজা এখনো খোলা। দুই জোড়া মুখের পার্থক্য দেখা যাবে সেদিন, কিন্তু তা তৈরি হয় আজই।"
+          }
+        ]
+      }
+    ]
+  },
   "75:31": {
     "sections": [
       {

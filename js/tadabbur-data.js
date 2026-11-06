@@ -29047,6 +29047,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Even the sun and the moon will be joined and darkened on that Day; turn now to the Lord who commands them, since then the only place to go is to Him.",
     "lessonBn": "সেদিন সূর্য আর চাঁদও একত্র হয়ে আলো হারাবে। যিনি এদের পরিচালনা করেন, সেই রবের দিকে আজই ফিরুন, কারণ সেদিন যাওয়ার জায়গা শুধু তাঁরই কাছে।"
+  },
+  "75:25": {
+    "reflectionEn": "The verse does not show the blow landing. It shows faces that already know it is coming. Just before them, other faces are bright and turned towards their Lord; these are scowling and darkened, waiting for something that breaks the back. The word for it comes from the bones of the spine. What stays with me is that the dread is on the face before anything has been done. A face shows what its owner has been expecting. So the question belongs to today: what am I quietly preparing myself to meet? The verses before named the habit behind it, loving what comes quickly and leaving what comes later. While the outcome is still open, I can change what I expect by changing what I do.",
+    "reflectionBn": "আয়াতে আঘাতটা নেমে আসতে দেখা যায় না। দেখা যায় কিছু মুখ, যারা আগেই জেনে গেছে আঘাতটা আসছে। ঠিক আগের আয়াতে অন্য কিছু মুখ উজ্জ্বল, রবের দিকে ফেরানো। এরা বিকৃত, অন্ধকার, অপেক্ষা করছে এমন কিছুর জন্য যা কোমর ভেঙে দেয়। শব্দটা এসেছে মেরুদণ্ডের হাড় থেকে। আমাকে যা ভাবায় তা হলো, কিছু করার আগেই ভয়টা মুখে ফুটে উঠেছে। মানুষ যা আশা করে বা যার আশঙ্কা করে, তার মুখ সেটাই বলে দেয়। তাই প্রশ্নটা আজকের: আমি চুপচাপ নিজেকে কীসের মুখোমুখি হওয়ার জন্য তৈরি করছি? আগের আয়াতগুলো অভ্যাসটার নাম বলে দিয়েছে: যা তাড়াতাড়ি আসে তাকে ভালোবাসা, আর যা পরে আসে তাকে ফেলে রাখা। ফল এখনো খোলা। যা করি তা বদলালে, সেদিন যা আশা করব তাও বদলে যায়।",
+    "pointsEn": [
+      "If my face today showed what I am really expecting from my Lord, would it look bright or braced for a blow?",
+      "What have I kept putting off because its reward, or its cost, feels far away?",
+      "When I think of the Day of Resurrection, do I feel hope, dread or nothing at all, and what does that tell me about how I live?",
+      "Which one change this week would make my expectation of meeting Allah more hopeful and more honest at the same time?",
+      "Have I ever read a stranger's face as bright or dark before Allah, when these verses only ask me about my own?"
+    ],
+    "pointsBn": [
+      "রবের কাছ থেকে আমি আসলে কী আশা করি, আজ যদি তা আমার মুখে ফুটে উঠত, মুখটা কি উজ্জ্বল দেখাত, নাকি আঘাতের ভয়ে কুঁকড়ে থাকত?",
+      "কোন কাজটা আমি বারবার পিছিয়ে দিচ্ছি, কারণ তার পুরস্কার বা তার মাশুল অনেক দূরের মনে হয়?",
+      "কিয়ামতের দিনের কথা ভাবলে আমার মনে আশা জাগে, ভয় জাগে, নাকি কিছুই জাগে না? আর তা আমার জীবনযাপন সম্পর্কে কী বলে?",
+      "এ সপ্তাহে কোন একটা পরিবর্তন আল্লাহর সাক্ষাতের ব্যাপারে আমার আশাকে একই সঙ্গে আরও আশাবাদী আর আরও সৎ করে তুলবে?",
+      "অচেনা কারও মুখ দেখে কি কখনো ভেবেছি, আল্লাহর কাছে সে উজ্জ্বল না অন্ধকার? অথচ এ আয়াতগুলো প্রশ্ন করে শুধু আমার নিজের মুখ নিয়ে।"
+    ],
+    "lessonEn": "Faces on that Day show what their owners already know is coming. Shape what you will expect then by what you do now, while the outcome can still change.",
+    "lessonBn": "সেদিন মুখগুলো বলে দেবে, তাদের মালিকেরা কী আসছে বলে আগেই জেনে গেছে। ফল যতক্ষণ বদলানো যায়, ততক্ষণ আজকের আমল দিয়েই সেদিনের প্রত্যাশা গড়ে নিন।"
   }
 };
 
