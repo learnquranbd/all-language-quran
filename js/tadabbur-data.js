@@ -25429,6 +25429,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Come when you are invited, leave when the purpose is done, and keep the screens that guard the heart; politeness must never silence a needed truth.",
     "lessonBn": "দাওয়াত পেলে আসুন, কাজ শেষ হলে উঠে যান, আর অন্তরকে রক্ষা করে এমন আড়ালগুলো বজায় রাখুন। ভদ্রতা যেন কখনো দরকারি সত্যকে চুপ করিয়ে না দেয়।"
+  },
+  "33:37": {
+    "reflectionEn": "A man comes to the Prophet ﷺ with a strained marriage, and the answer he hears is the counsel of a true friend: keep your wife, and fear Allah. Then the verse turns to the one who gave that counsel and speaks to him directly: you were fearing the people, and Allah has more right to be feared. Zayd is named here, honoured as one favoured by Allah and favoured by His Messenger, and the marriage that follows is one Allah Himself announces. All of it was recited aloud, to everyone. So I ask what I leave unsaid only because of what people might say, and whose disapproval is really steering my choices.",
+    "reflectionBn": "সংসারে টানাপোড়েন নিয়ে একজন মানুষ নবী ﷺ-এর কাছে আসেন। জবাবে তিনি পান সত্যিকারের বন্ধুর পরামর্শ: স্ত্রীকে রেখে দাও, আর আল্লাহকে ভয় কর। এরপর আয়াত ফিরে তাকায় পরামর্শদাতার দিকে, সরাসরি তাঁকেই বলে: তুমি মানুষকে ভয় করছিলে, অথচ ভয় পাওয়ার বেশি হকদার আল্লাহ। এখানে যায়েদ (রাঃ)-এর নাম এসেছে, আল্লাহর অনুগ্রহ আর তাঁর রসূলের অনুগ্রহ, দুটোই পাওয়া মানুষ হিসেবে। আর পরে যে বিয়ের কথা আসে, তার ঘোষণা দিয়েছেন আল্লাহ নিজে। এর সবটাই সবার সামনে তিলাওয়াত হয়েছে। তাই নিজেকে জিজ্ঞেস করি, লোকে কী বলবে শুধু এই ভয়ে কোন কথা আমি চেপে রাখি? আর আসলে কার অসন্তুষ্টির ভয় আমার সিদ্ধান্তগুলো চালাচ্ছে?",
+    "pointsEn": [
+      "When someone trusts me with a trouble at home, do I counsel what is best for them, even when I have something of my own at stake?",
+      "What true and permitted thing have I left unsaid or undone only because of how people might talk?",
+      "In practice, whose disapproval do I fear more: Allah's, or that of the people around me?",
+      "When Allah's ruling overturns a custom I grew up with, do I accept it gladly, or keep the custom alive in my heart?",
+      "Do I speak of Zayd, of Zaynab and of the Prophet's household with the honour the Qur'an gives them?"
+    ],
+    "pointsBn": [
+      "কেউ যখন ঘরের সমস্যা নিয়ে আমার উপর ভরসা করে আসে, আমি কি তার জন্য যা সবচেয়ে ভালো সেই পরামর্শই দিই, এমনকি তাতে আমার নিজের কোনো স্বার্থ জড়িয়ে থাকলেও?",
+      "শুধু লোকে কী বলবে এই ভয়ে কোন সত্য ও জায়েজ কথা আমি বলিনি, কোন কাজ করিনি?",
+      "বাস্তবে কার অসন্তুষ্টিকে আমি বেশি ভয় পাই: আল্লাহর, নাকি আশপাশের মানুষের?",
+      "আল্লাহর বিধান যখন ছোটবেলা থেকে দেখে আসা কোনো প্রথা ভেঙে দেয়, আমি কি খুশিমনে তা মেনে নিই, নাকি প্রথাটা মনের ভেতরে জিইয়ে রাখি?",
+      "যায়েদ (রাঃ), যায়নাব (রাঃ) আর নবী ﷺ-এর পরিবারের কথা বলার সময় কুরআন তাঁদের যে সম্মান দিয়েছে, আমি কি সেই সম্মান বজায় রাখি?"
+    ],
+    "lessonEn": "Give honest counsel to those who trust you, and let the fear of Allah, not the talk of people, decide what you say and do.",
+    "lessonBn": "যে আপনার উপর ভরসা করে, তাকে খাঁটি পরামর্শ দিন। আর আপনি কী বলবেন, কী করবেন, তা ঠিক করুক আল্লাহর ভয়, মানুষের কথা নয়।"
   }
 };
 

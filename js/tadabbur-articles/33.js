@@ -1343,6 +1343,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "After a Decided Matter",
+          "bn": "ফয়সালার পরের আয়াত"
+        },
+        "p": [
+          {
+            "en": "Neighbouring verses frame it. Just before it, 33:36 says that when Allah and His Messenger have decided a matter, no believing man or woman keeps a choice in it. Just after it, 33:38 says there is no blame on the Prophet ﷺ in what Allah has ordained for him, and 33:40 that Muhammad is not the father of any of your men. Between them comes wa-idh taqulu, and when you were saying: a call to remember a conversation the Prophet ﷺ himself once had.",
+            "bn": "আশপাশের আয়াতগুলো একে ঘিরে রেখেছে। ঠিক আগে ৩৩:৩৬ বলে, আল্লাহ ও তাঁর রসূল কোনো বিষয়ে ফয়সালা দিলে কোনো মু'মিন পুরুষ বা নারীর আর নিজের পছন্দ খাটানোর সুযোগ থাকে না। ঠিক পরে ৩৩:৩৮ বলে, আল্লাহ নবী ﷺ-এর জন্য যা নির্ধারণ করেছেন তাতে তাঁর কোনো দোষ নেই। আর ৩৩:৪০ বলে, মুহাম্মাদ তোমাদের কোনো পুরুষের পিতা নন। এর মাঝখানে আসে ওয়া ইয তাকূলু: আর যখন তুমি বলছিলে। নবী ﷺ নিজে একসময় যে কথোপকথনে ছিলেন, সেটা মনে করিয়ে দেওয়া হচ্ছে।"
+          },
+          {
+            "en": "At-Tabari reads the opening as remember, O Muhammad, and calls the whole address an 'itab from Allah to His Prophet, a reproach; Ma'arif al-Qur'an, writing in English, calls it an endearing reprimand. The commentators agree on whom it concerns. Al-Bukhari records in his Sahih (4787) from Anas ibn Malik that the words and you were concealing within yourself what Allah is to disclose came down concerning Zaynab bint Jahsh and Zayd ibn Harithah, may Allah be pleased with them both.",
+            "bn": "তাবারী শুরুর অংশটা পড়েন এভাবে: হে মুহাম্মাদ, স্মরণ কর। পুরো সম্বোধনকে তিনি বলেন আল্লাহর পক্ষ থেকে তাঁর নবীর প্রতি 'ইতাব, অর্থাৎ অনুযোগ। মাআরিফুল কুরআনের ইংরেজি পাঠ একে বলে স্নেহমাখা তিরস্কার। আয়াতটি কাদের নিয়ে, তাতে তাফসীরকারেরা একমত। বুখারী তাঁর সহীহ গ্রন্থে (৪৭৮৭) আনাস ইবন মালিক (রাঃ) থেকে সংকলন করেছেন: আর তুমি নিজের মনে লুকিয়ে রাখছিলে যা আল্লাহ প্রকাশ করবেন, এই অংশটি নাযিল হয়েছে যায়নাব বিনতে জাহশ (রাঃ) ও যায়েদ ইবন হারিসা (রাঃ)-এর ব্যাপারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Twice Favoured, Then Named",
+          "bn": "দুই অনুগ্রহ, তারপর নাম"
+        },
+        "p": [
+          {
+            "en": "The man addressed is described before he is named: alladhi an'ama llahu 'alayhi wa-an'amta 'alayhi, him on whom Allah bestowed favour and on whom you bestowed favour. Ibn Kathir, al-Baghawi and the Muyassar take Allah's favour as Islam, at-Tabari as guidance, and al-Qurtubi as Islam and, elsewhere, as faith. All of them take the Prophet's favour ﷺ as freeing him from slavery. Ibn Kathir calls Zayd a leader of high rank, so beloved to the Prophet ﷺ that he was called al-hibb, the beloved.",
+            "bn": "আয়াতে মানুষটির নাম আসার আগে আসে তাঁর পরিচয়: আল্লাযী আন'আমাল্লাহু 'আলাইহি ওয়া আন'আমতা 'আলাইহি, যাঁকে আল্লাহ অনুগ্রহ করেছেন আর তুমিও অনুগ্রহ করেছ। ইবন কাসীর, বাগাভী ও মুয়াসসারের মতে আল্লাহর অনুগ্রহ হলো ইসলাম। তাবারীর মতে হিদায়াত। কুরতুবী এক জায়গায় একে ইসলাম, আরেক জায়গায় ঈমান বলেছেন। নবী ﷺ-এর অনুগ্রহ কী, তাতে সবাই একমত: তাঁকে গোলামি থেকে মুক্ত করা। ইবন কাসীর যায়েদ (রাঃ)-কে বলেন উঁচু মর্যাদার নেতা। নবী ﷺ তাঁকে এত ভালোবাসতেন যে তাঁকে ডাকা হতো আল-হিব্ব, অর্থাৎ প্রিয়জন।"
+          },
+          {
+            "en": "Later in the verse the name itself arrives: falamma qada Zaydun, so when Zayd had ended. As-Sa'di draws two praises from this. Allah named him in the Qur'an, and named no other Companion; and His saying that He favoured him is a testimony that Zayd was a Muslim and a believer, outwardly and inwardly. Al-Qurtubi, citing as-Suhayli, sees a recompense here. When the name Zayd ibn Muhammad was taken from him, Allah gave him a name recited in the prayer niches for ever, an honour al-Qurtubi says no believer's name shares except a prophet's.",
+            "bn": "আয়াতের পরের দিকে নামটাই চলে আসে: ফালাম্মা কাদা যায়দুন, অতঃপর যায়েদ যখন সম্পর্ক শেষ করল। সা'দী এখান থেকে দুটি প্রশংসা বের করেন। আল্লাহ কুরআনে তাঁর নাম নিয়েছেন, আর কোনো সাহাবীর নাম এভাবে নেননি। আর আল্লাহ যে বলেছেন তিনি তাঁকে অনুগ্রহ করেছেন, এটাই সাক্ষ্য যে যায়েদ (রাঃ) ভেতরে-বাইরে মুসলিম ও মু'মিন ছিলেন। কুরতুবী সুহাইলীর বরাতে এতে এক ক্ষতিপূরণ দেখেন। যায়েদ ইবন মুহাম্মাদ নামটি যখন তাঁর কাছ থেকে নিয়ে নেওয়া হলো, আল্লাহ তাঁকে দিলেন এমন নাম, যা মিহরাবে মিহরাবে চিরকাল তিলাওয়াত হবে। কুরতুবী বলেন, নবী ছাড়া আর কোনো মু'মিনের নাম এ মর্যাদা পায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counsel From a True Friend",
+          "bn": "সত্যিকারের বন্ধুর পরামর্শ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir says the Prophet ﷺ had married Zayd to Zaynab bint Jahsh, the daughter of his paternal aunt, and that she stayed with him about a year or a little more before difficulty arose between them. Zayd came to complain, and the Prophet ﷺ kept telling him: amsik 'alayka zawjaka wa-ttaqi llah, keep your wife and fear Allah. Ma'arif al-Qur'an puts the cause gently: their temperaments did not settle together. Both are honoured figures, and the verse does not linger over the complaint.",
+            "bn": "ইবন কাসীর বলেন, নবী ﷺ তাঁর ফুফাতো বোন যায়নাব বিনতে জাহশ (রাঃ)-কে যায়েদ (রাঃ)-এর সঙ্গে বিয়ে দিয়েছিলেন। প্রায় এক বছর বা তার কিছু বেশি তিনি তাঁর ঘরে ছিলেন, তারপর দুজনের মধ্যে টানাপোড়েন শুরু হয়। যায়েদ (রাঃ) অভিযোগ নিয়ে এলেন, আর নবী ﷺ বারবার তাঁকে বলতে থাকলেন: আমসিক 'আলাইকা যাওজাকা ওয়াত্তাকিল্লাহ, তোমার স্ত্রীকে রেখে দাও আর আল্লাহকে ভয় কর। মাআরিফুল কুরআন কারণটা বলে নরম ভাষায়: দুজনের মেজাজ মেলেনি। স্বামী-স্ত্রী দুজনই সম্মানিত মানুষ, আর আয়াত অভিযোগের খুঁটিনাটিতে থামে না।"
+          },
+          {
+            "en": "What did fear Allah mean? At-Tabari: fear Allah in what you owe your wife. Al-Qurtubi gives fear Allah in divorcing her, a counsel of what is better rather than a prohibition, and also fear Allah and do not blame her; al-Baghawi calls the words an enjoining of good. As-Sa'di draws lessons. Whoever is consulted holds a trust and must advise what is best for the person asking, even against an interest of his own. And when someone asks about leaving his wife, the better counsel is to keep her while things can still be mended.",
+            "bn": "আল্লাহকে ভয় কর, এখানে এর মানে কী? তাবারী বলেন: স্ত্রীর যে হক তোমার উপর আছে, তাতে আল্লাহকে ভয় কর। কুরতুবী এক অর্থ দেন: তালাকের ব্যাপারে আল্লাহকে ভয় কর। এটা নিষেধ নয়, উত্তম কী তার পরামর্শ। আরেক অর্থ: আল্লাহকে ভয় কর, তার দোষ গেয়ো না। বাগাভী কথাটাকে বলেন সৎকাজের আদেশ। সা'দী এখান থেকে শিক্ষা বের করেন। যার কাছে পরামর্শ চাওয়া হয়, সে আমানতদার। নিজের কোনো স্বার্থ থাকলেও তাকে সেই পরামর্শই দিতে হবে যা প্রশ্নকারীর জন্য সবচেয়ে ভালো। আর কেউ স্ত্রীকে ছাড়ার ব্যাপারে জানতে চাইলে, সংসার জোড়া লাগার আশা যতক্ষণ আছে, রেখে দেওয়ার পরামর্শই উত্তম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hidden, Then Disclosed",
+          "bn": "যা লুকানো, যা প্রকাশিত"
+        },
+        "p": [
+          {
+            "en": "Wa-tukhfi fi nafsika ma llahu mubdihi: and you were concealing within yourself what Allah is to disclose. What was it? At-Tabari, Ibn Kathir, al-Baghawi and al-Qurtubi all carry an answer from 'Ali ibn al-Husayn, known as Zayn al-'Abidin. In Ibn Kathir's version, with a chain through Ibn Abi Hatim, 'Ali asked what al-Hasan said about the clause, heard it, and replied: no; Allah had informed His Prophet that she would be one of his wives before he married her. Ibn Kathir adds that as-Suddi said much the same.",
+            "bn": "ওয়া তুখফী ফী নাফসিকা মাল্লাহু মুবদীহি: আর তুমি নিজের মনে লুকিয়ে রাখছিলে যা আল্লাহ প্রকাশ করবেন। সেটা কী ছিল? তাবারী, ইবন কাসীর, বাগাভী ও কুরতুবী চারজনই এর এক উত্তর এনেছেন আলী ইবন হুসাইন থেকে, যিনি যাইনুল আবিদীন নামে পরিচিত। ইবন কাসীর ইবন আবী হাতিমের সনদে বর্ণনা করেন, আলী জানতে চাইলেন হাসান এ অংশের কী ব্যাখ্যা দেন। শুনে তিনি বললেন: না। বরং বিয়ের আগেই আল্লাহ তাঁর নবীকে জানিয়ে দিয়েছিলেন যে যায়নাব (রাঃ) তাঁর স্ত্রীদের একজন হবেন। ইবন কাসীর যোগ করেন, সুদ্দীও প্রায় একই কথা বলেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi gives the fuller form. Allah had revealed that Zayd would divorce Zaynab and that He would marry her to His Prophet ﷺ. When Zayd complained, the Prophet ﷺ advised him by way of courtesy and counsel, not wishing to tell him to divorce when he knew he would marry her himself. Al-Qurtubi reports that his scholars call this the best said on the verse, held by the careful commentators, naming az-Zuhri, Bakr ibn al-'Ala' al-Qushayri and Abu Bakr ibn al-'Arabi, and quotes al-Hakim at-Tirmidhi calling 'Ali's answer a jewel from the treasury of knowledge.",
+            "bn": "কুরতুবী এর পূর্ণাঙ্গ রূপ দেন। আল্লাহ ওহী দিয়ে জানিয়েছিলেন, যায়েদ যায়নাবকে তালাক দেবেন, আর আল্লাহ তাঁকে নবী ﷺ-এর সঙ্গে বিয়ে দেবেন। যায়েদ (রাঃ) যখন অভিযোগ করলেন, নবী ﷺ আদব ও উপদেশের ভঙ্গিতে তাঁকে পরামর্শ দিলেন। নিজে বিয়ে করবেন জেনেও তাঁকে তালাকের কথা বলতে চাননি। কুরতুবী জানান, তাঁর আলেমগণ একে এ আয়াতের সবচেয়ে সুন্দর ব্যাখ্যা বলেন। গভীর পর্যবেক্ষণের তাফসীরকারেরা এ মতেই আছেন, যেমন যুহরী, বাকর ইবনুল আলা আল-কুশাইরী ও আবু বকর ইবনুল আরাবী। হাকীম তিরমিযী আলীর এ জবাবকে বলেছেন জ্ঞানের ভাণ্ডার থেকে আনা এক রত্ন।"
+          },
+          {
+            "en": "Al-Baghawi argues from the wording. Allah said He would disclose what was hidden, and what He disclosed was the marriage: zawwajnakaha, We married her to you. Had the hidden thing been something else, it too would have been disclosed, for Allah does not say He will bring a thing out and then leave it hidden. So the reproach, he concludes, was for concealing what Allah had told him, out of shyness at telling Zayd that the wife still in his marriage would become his own. He calls this the more fitting view for prophets, and Ma'arif al-Qur'an makes the same argument.",
+            "bn": "বাগাভী যুক্তি দেন আয়াতের শব্দ থেকে। আল্লাহ বলেছেন, লুকানো জিনিস তিনি প্রকাশ করবেন। আর তিনি প্রকাশ করেছেন বিয়েটাই: যাওয়াজনাকাহা, আমি তাকে তোমার সঙ্গে বিয়ে দিলাম। লুকানো জিনিসটা অন্য কিছু হলে সেটাও প্রকাশ পেত। কারণ আল্লাহ কোনো কিছু প্রকাশ করবেন বলে তা লুকিয়ে রাখবেন, এমন হতে পারে না। তাই বাগাভীর সিদ্ধান্ত, অনুযোগ ছিল আল্লাহর জানানো কথাটা লুকানোর জন্য। আর তা লুকানো হয়েছিল লজ্জা থেকে: যে স্ত্রী এখনো যায়েদের বিয়েতে আছেন, তিনি পরে নবীর স্ত্রী হবেন, এ কথা যায়েদকে বলতে সংকোচ। বাগাভী বলেন, নবীদের মর্যাদার সঙ্গে এ মতই বেশি মানানসই। মাআরিফুল কুরআনও একই যুক্তি দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reports Left Unrepeated",
+          "bn": "যে বর্ণনা আর বলা হয়নি"
+        },
+        "p": [
+          {
+            "en": "A second reading exists, and al-Qurtubi names its holders: Qatada, Ibn Zayd and a group of commentators, at-Tabari among them, who took the hidden thing to be the Prophet's wish ﷺ that Zayd would part from her so that he might marry her. Qatada's words in at-Tabari are that he hid his wish that Zayd had divorced her. As-Sa'di takes it, more simply, as the thought that if Zayd divorced her he would marry her.",
+            "bn": "দ্বিতীয় একটি ব্যাখ্যাও আছে, আর কুরতুবী তার ধারকদের নাম বলেন: কাতাদা, ইবন যায়দ এবং তাফসীরকারদের একটি দল, তাবারীও তাঁদের একজন। তাঁদের মতে লুকানো জিনিসটা ছিল নবী ﷺ-এর এই ইচ্ছা যে যায়েদ তাঁকে ছেড়ে দিন, যাতে তিনি তাঁকে বিয়ে করতে পারেন। তাবারীতে কাতাদার ভাষা: তিনি মনে লুকিয়ে রেখেছিলেন, যায়েদ তালাক দিলে ভালো হতো। সা'দী আরও সরলভাবে বলেন: মনে এই ভাবনা ছিল যে যায়েদ তালাক দিলে তিনি তাঁকে বিয়ে করবেন।"
+          },
+          {
+            "en": "Those who give this reading do not treat it as a fault. As-Sa'di says love in the heart, joined to nothing forbidden, carries no sin, even with the hope that a husband might divorce, so long as no step is taken to part the couple. Al-Baghawi says it does not impugn the prophets, for no servant is blamed for what enters the heart without intent of wrong. And al-Qurtubi relays from an-Nahhas that some scholars said it was no sin at all: he was not told to repent or seek forgiveness.",
+            "bn": "যাঁরা এ ব্যাখ্যা দেন, তাঁরাও একে দোষ গণ্য করেন না। সা'দী বলেন, মনের ভালোবাসার সঙ্গে হারাম কিছু যুক্ত না হলে তাতে গুনাহ নেই। স্বামী তালাক দিক, এমন আশা থাকলেও না, যদি দম্পতিকে আলাদা করার কোনো পদক্ষেপ না নেওয়া হয়। বাগাভী বলেন, এ ব্যাখ্যাও নবীদের মর্যাদায় দাগ ফেলে না। খারাপ উদ্দেশ্য ছাড়া মনে যা আসে, তার জন্য কোনো বান্দাকে দোষ দেওয়া হয় না। আর কুরতুবী নাহহাসের বরাতে জানান, কিছু আলেম বলেছেন এটা আদৌ গুনাহ ছিল না। তাঁকে তওবা বা ইস্তিগফারের আদেশ দেওয়া হয়নি।"
+          },
+          {
+            "en": "Behind the second reading lie narratives of how such a feeling arose, and here the commentators part sharply. At-Tabari and al-Baghawi carry such accounts, at-Tabari prefacing one with fima dhukira, as was mentioned. Ibn Kathir writes that Ibn Jarir and Ibn Abi Hatim cite reports here from some of the early generations which he passes over because they are not sound, and that a narration in Ahmad from Anas has an oddity, so he leaves out its wording. Al-Qurtubi says the claim that the Prophet ﷺ was enamoured of her comes only from one ignorant of his protection or careless of his honour. This article does not repeat those reports.",
+            "bn": "দ্বিতীয় ব্যাখ্যার পেছনে আছে কিছু কাহিনি, এমন অনুভূতি কীভাবে জন্মাল তা নিয়ে। এখানে তাফসীরকারেরা স্পষ্টভাবে আলাদা পথ নেন। তাবারী ও বাগাভী এমন বর্ণনা এনেছেন। তাবারী একটির শুরুতে বলেন ফীমা যুকিরা, অর্থাৎ যেমনটা বলা হয়ে থাকে। ইবন কাসীর লেখেন, ইবন জারীর ও ইবন আবী হাতিম এখানে পূর্বসূরিদের কারও কারও কিছু বর্ণনা এনেছেন। সেগুলো সহীহ নয় বলে তিনি এড়িয়ে যান। আনাস থেকে আহমাদের একটি বর্ণনায় অস্বাভাবিকতা আছে বলে তার ভাষ্যও তিনি বাদ দেন। কুরতুবী বলেন, নবী ﷺ তাঁর প্রতি অনুরক্ত হয়ে পড়েছিলেন, এমন দাবি আসে কেবল তাঁর নিষ্পাপতা সম্পর্কে অজ্ঞ কিংবা তাঁর সম্মানকে হালকা করে দেখা লোকের কাছ থেকে। এ প্রবন্ধ সেসব বর্ণনা আর উল্লেখ করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fearing What People Would Say",
+          "bn": "লোকে কী বলবে, সেই ভয়"
+        },
+        "p": [
+          {
+            "en": "Wa-takhsha n-nas: and you were fearing the people. Fearing what? At-Tabari: that people would say he told a man to divorce his wife and then married her once he had. The Muyassar names the speakers as the hypocrites, with their line: Muhammad has married the divorced wife of his adopted son. Al-Qurtubi, on the reading his scholars prefer, calls it the hypocrites' rumour-mongering. Ibn Abbas, in al-Baghawi and al-Qurtubi, softens the verb further: you felt shy before them.",
+            "bn": "ওয়া তাখশান নাস: আর তুমি মানুষকে ভয় করছিলে। কিসের ভয়? তাবারী বলেন: লোকে বলবে, তিনি এক লোককে স্ত্রী তালাক দিতে বললেন, তারপর তালাক হতেই নিজে তাকে বিয়ে করলেন। মুয়াসসার বক্তাদের চিনিয়ে দেয়: তারা মুনাফিক, আর তাদের কথাটা হলো, মুহাম্মাদ তাঁর পালকপুত্রের তালাকপ্রাপ্তা স্ত্রীকে বিয়ে করেছেন। কুরতুবী, তাঁর আলেমগণ যে ব্যাখ্যা পছন্দ করেন সে অনুযায়ী, একে বলেন মুনাফিকদের গুজব রটানো। বাগাভী ও কুরতুবীতে ইবন আব্বাস (রাঃ) ক্রিয়াটিকে আরও নরম করে পড়েন: তুমি তাদের সামনে সংকোচ বোধ করছিলে।"
+          },
+          {
+            "en": "Then: wa-llahu ahaqqu an takhshah, and Allah has more right that you fear Him. Al-Baghawi guards against a wrong inference: it does not mean the Prophet ﷺ had not feared Allah before. He recalls the Prophet's words, I am the most God-fearing of you and the most mindful of Him, which al-Bukhari records within a longer hadith (5063) on another matter, not tied to this verse. The next verses, 33:38 and 33:39, describe the prophets as those who convey Allah's messages and fear none but Him.",
+            "bn": "তারপর: ওয়াল্লাহু আহাক্কু আন তাখশাহ, অথচ আল্লাহই বেশি হকদার যে তুমি তাঁকে ভয় করবে। বাগাভী এখানে ভুল সিদ্ধান্ত থেকে পাঠককে সাবধান করেন। এর মানে এই নয় যে নবী ﷺ আগে আল্লাহকে ভয় করতেন না। তিনি নবী ﷺ-এর নিজের কথা মনে করিয়ে দেন: আমি তোমাদের মধ্যে আল্লাহকে সবচেয়ে বেশি ভয় করি, আর সবচেয়ে বেশি তাকওয়া রাখি। বুখারী এ কথা এক দীর্ঘ হাদীসের ভেতরে (৫০৬৩) সংকলন করেছেন, অন্য এক প্রসঙ্গে, এ আয়াতের সঙ্গে যুক্ত করে নয়। পরের আয়াত ৩৩:৩৮ ও ৩৩:৩৯ নবীদের বর্ণনা দেয় এভাবে: তাঁরা আল্লাহর বাণী পৌঁছে দেন আর আল্লাহ ছাড়া কাউকে ভয় করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Even This Withheld",
+          "bn": "এ আয়াতও গোপন রাখা হয়নি"
+        },
+        "p": [
+          {
+            "en": "The verse speaks to the Prophet ﷺ about himself, and he recited it. Al-Bukhari records in his Sahih (7420) from Anas: Zayd ibn Harithah came complaining, and the Prophet ﷺ kept saying, Fear Allah, and keep your wife. 'A'ishah said: Were the Messenger of Allah ﷺ concealing anything, he would have concealed this. Zaynab used to boast over the wives of the Prophet ﷺ, saying: Your families married you off, and Allah the Exalted married me from above seven heavens. And from Thabit: and you conceal within yourself what Allah is to disclose, and you fear the people, came down concerning Zaynab and Zayd ibn Harithah.",
+            "bn": "আয়াতটি নবী ﷺ-কে তাঁর নিজের ব্যাপারেই বলছে, আর তিনি তা সবার সামনে তিলাওয়াত করেছেন। বুখারী তাঁর সহীহ গ্রন্থে (৭৪২০) আনাস (রাঃ) থেকে সংকলন করেছেন: যায়েদ ইবন হারিসা অভিযোগ নিয়ে এলেন। নবী ﷺ বারবার বলতে লাগলেন, আল্লাহকে ভয় কর, আর তোমার স্ত্রীকে রেখে দাও। আয়িশা (রাঃ) বলেন: আল্লাহর রসূল ﷺ যদি কিছু গোপন করতেন, তবে এটাই গোপন করতেন। যায়নাব নবী ﷺ-এর অন্য স্ত্রীদের সামনে গর্ব করে বলতেন: তোমাদের বিয়ে দিয়েছে তোমাদের পরিবার, আর আমাকে বিয়ে দিয়েছেন মহান আল্লাহ, সাতটি আসমানের উপর থেকে। আর সাবিত থেকে বর্ণিত: আর তুমি নিজের মনে লুকিয়ে রাখছিলে যা আল্লাহ প্রকাশ করবেন, আর তুমি মানুষকে ভয় করছিলে, এ অংশ নাযিল হয়েছে যায়নাব ও যায়েদ ইবন হারিসার ব্যাপারে।"
+          },
+          {
+            "en": "The tafsirs feel the weight of that sentence. At-Tabari has Qatada report al-Hasan: no verse was sent down on him harder for him than this one. Al-Baghawi records the same from 'Umar, Ibn Mas'ud and 'A'ishah. As-Sa'di draws the conclusion. The Messenger ﷺ conveyed the message in full and left nothing revealed to him untold, even this matter in which he is reproached. That, as-Sa'di says, shows he is Allah's Messenger, who says only what is revealed to him and does not seek to exalt himself.",
+            "bn": "তাফসীরগুলোতে সেই কথাটির ভার স্পষ্ট টের পাওয়া যায়। তাবারীতে কাতাদা হাসানের কথা বর্ণনা করেন: তাঁর উপর এর চেয়ে কঠিন কোনো আয়াত নাযিল হয়নি। বাগাভী একই কথা আনেন উমার, ইবন মাসউদ ও আয়িশা (রাঃ) থেকে। সা'দী এখান থেকে সিদ্ধান্ত টানেন। রসূল ﷺ বার্তা পুরোপুরি পৌঁছে দিয়েছেন। তাঁর কাছে যা ওহী এসেছে, তার কিছুই বাদ রাখেননি, এমনকি যে বিষয়ে তাঁকে অনুযোগ করা হয়েছে সেটাও না। সা'দী বলেন, এটাই প্রমাণ যে তিনি আল্লাহর রসূল। তিনি কেবল ওহীর কথাই বলেন, আর নিজের বড়ত্ব জাহির করতে চান না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Married From Above the Heavens",
+          "bn": "সাত আসমানের উপর থেকে বিয়ে"
+        },
+        "p": [
+          {
+            "en": "Falamma qada Zaydun minha wataran zawwajnakaha: so when Zayd had ended his need of her, We married her to you. At-Tabari glosses watar as need, ended here by divorce and her separation from him. Ibn Kathir says Allah Himself gave her in marriage, revealing that the Prophet ﷺ should go in to her without guardian, dower, contract or human witnesses; al-Qurtubi calls this his privilege alone, by the consensus of the Muslims. Ma'arif al-Qur'an notes a second reading: that Allah commanded the marriage, to be made on the usual terms.",
+            "bn": "ফালাম্মা কাদা যায়দুন মিনহা ওয়াতারান যাওয়াজনাকাহা: অতঃপর যায়েদ যখন তার প্রয়োজন শেষ করল, আমি তাকে তোমার সঙ্গে বিয়ে দিলাম। তাবারী ওয়াতারের অর্থ করেন প্রয়োজন। এখানে তা শেষ হয়েছে তালাক আর বিচ্ছেদের মাধ্যমে। ইবন কাসীর বলেন, আল্লাহ নিজেই তাঁকে বিয়ে দিয়েছেন। তিনি ওহী পাঠালেন, নবী ﷺ অভিভাবক, মোহর, আকদ বা মানুষ সাক্ষী ছাড়াই তাঁর কাছে যাবেন। কুরতুবী বলেন, মুসলমানদের ঐকমত্যে এ বৈশিষ্ট্য কেবল তাঁরই। মাআরিফুল কুরআন আরেকটি সম্ভাব্য অর্থও উল্লেখ করে: আল্লাহ বিয়ের আদেশ দিয়েছেন, আর তা হয়েছে প্রচলিত শর্ত মেনে।"
+          },
+          {
+            "en": "Al-Qurtubi gives, in Muslim's wording from Anas, how the proposal reached her. When her waiting period ended, the Prophet ﷺ sent Zayd himself to mention him to her. Zayd found her kneading dough, and reverence filled him so that he could not look at her; he turned his back to give the message. She said she would do nothing until she had consulted her Lord, rose to her place of prayer, and the Qur'an came down. Al-Qurtubi's scholars read the errand as a trial that showed Zayd's patience and obedience.",
+            "bn": "প্রস্তাব কীভাবে তাঁর কাছে পৌঁছাল, কুরতুবী তা আনেন আনাস (রাঃ) থেকে মুসলিমের ভাষায়। ইদ্দত শেষ হলে নবী ﷺ যায়েদকেই পাঠালেন তাঁর কাছে নিজের কথা তুলতে। যায়েদ (রাঃ) গিয়ে দেখলেন, তিনি আটা খামির করছেন। মনে এমন সম্ভ্রম জাগল যে তিনি তাঁর দিকে তাকাতেই পারলেন না। পিঠ ফিরিয়ে দাঁড়িয়ে বার্তাটা দিলেন। যায়নাব (রাঃ) বললেন, রবের কাছে পরামর্শ না চেয়ে তিনি কিছুই করবেন না। তারপর নামাযের জায়গায় গিয়ে দাঁড়ালেন, আর কুরআন নাযিল হলো। কুরতুবীর আলেমগণ এ দায়িত্বকে যায়েদের পরীক্ষা হিসেবে দেখেন, যাতে তাঁর ধৈর্য ও আনুগত্য প্রকাশ পায়।"
+          },
+          {
+            "en": "The verse names its own purpose: li-kay la yakuna 'ala l-mu'minina harajun fi azwaji ad'iya'ihim, so that there be no difficulty for the believers concerning the wives of their adopted sons. The adoptive name had already been ended in 33:4 and 33:5. As-Sa'di says Allah willed the law to come from His Messenger in word and in deed, since a settled custom hardly ends without a great event, and teaching by deed is more eloquent than teaching by word.",
+            "bn": "আয়াত নিজেই তার উদ্দেশ্য জানিয়ে দেয়: লিকাই লা ইয়াকূনা 'আলাল মু'মিনীনা হারাজুন ফী আযওয়াজি আদ'ইয়াইহিম, যাতে পালকপুত্রদের স্ত্রীদের ব্যাপারে মু'মিনদের কোনো সংকোচ না থাকে। পালকপুত্রকে নিজের নামে ডাকার প্রথা আগেই ৩৩:৪ ও ৩৩:৫ আয়াতে শেষ হয়ে গিয়েছিল। সা'দী বলেন, আল্লাহ চেয়েছিলেন বিধানটা আসুক তাঁর রসূলের মুখের কথা আর কাজ, দুটো থেকেই। কারণ বহুদিনের প্রথা বড় কোনো ঘটনা ছাড়া সহজে যায় না। আর কাজ দিয়ে শেখানো কথার চেয়ে বেশি গভীরে পৌঁছায়।"
+          },
+          {
+            "en": "Wa-kana amru llahi maf'ula: and the command of Allah is ever done. At-Tabari says Allah's decree that His Messenger ﷺ would marry Zaynab was bound to come to pass. The verse tells of one household and one decree. It licenses nothing against Zayd or Zaynab, both honoured in it, permits no light talk about the Prophet ﷺ or his family, and settles no one's present marriage; those questions belong to a scholar.",
+            "bn": "ওয়া কানা আমরুল্লাহি মাফ'উলা: আর আল্লাহর আদেশ কার্যকর হবেই। তাবারী বলেন, তাঁর রসূল ﷺ যায়নাবকে বিয়ে করবেন, আল্লাহর এ ফয়সালা ঘটারই ছিল। আয়াতটি একটি পরিবার আর একটি ফয়সালার কথা বলে। যায়েদ (রাঃ) বা যায়নাব (রাঃ)-এর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না, দুজনকেই এখানে সম্মানিত করা হয়েছে। নবী ﷺ বা তাঁর পরিবার নিয়ে হালকা কথা বলারও অনুমতি দেয় না। আজকের কারও দাম্পত্যের ফয়সালাও এ আয়াত করে দেয় না। সে প্রশ্ন আলেমের কাছে নিয়ে যাওয়ার।"
+          }
+        ]
+      }
+    ]
+  },
   "33:41-42": {
     "sections": [
       {
