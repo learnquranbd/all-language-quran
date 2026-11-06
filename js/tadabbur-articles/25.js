@@ -291,6 +291,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Word Turns the Case",
+          "bn": "এক শব্দে মামলার মোড়"
+        },
+        "p": [
+          {
+            "en": "The preceding verses read like a list of charges. The deniers asked what kind of messenger eats food and walks in the markets, why no angel came down to warn beside him, why no treasure or garden was given him, and they called him a man bewitched (25:7 and 25:8). 25:9 calls these comparisons that led them astray, and 25:10 answers that God, if He willed, could give him better than all of it. Then 25:11 opens with bal: rather, or nay. It does not answer the next complaint. It sets the whole list aside.",
+            "bn": "এ আয়াতের আগের আয়াতগুলো যেন অভিযোগের এক তালিকা। অস্বীকারকারীরা প্রশ্ন তুলেছিল, এ কেমন রসূল যে খাবার খায় আর বাজারে ঘোরে? তার সঙ্গে সতর্ক করার জন্য কোনো ফেরেশতা নামল না কেন? তাকে ধনভান্ডার বা বাগান দেওয়া হলো না কেন? শেষে তারা তাঁকে জাদুগ্রস্ত লোক বলে ডেকেছিল (২৫:৭ ও ২৫:৮)। ২৫:৯ এসব উপমাকে বলেছে পথভ্রষ্ট হওয়ার কারণ। ২৫:১০ জবাব দিয়েছে, আল্লাহ চাইলে তাঁকে এর সবকিছুর চেয়ে উত্তম জিনিস দিতে পারেন। এরপর ২৫:১১ শুরু হয় 'বাল' শব্দ দিয়ে, যার মানে বরং, আসলে। শব্দটি পরের অভিযোগের জবাব দেয় না। পুরো তালিকাটাকেই একপাশে সরিয়ে রাখে।"
+          },
+          {
+            "en": "At-Tabari opens the word up in a paraphrase. These polytheists, he says, did not deny God and reject the truth you brought them, O Muhammad, because you eat food and walk in the markets. They did so because they are not certain of the Return and do not believe in reward and punishment, out of their denial of the Resurrection. Al-Muyassar puts it in fewer words: they did not deny you because you eat food and walk in the markets; rather, they denied the Day of Resurrection and the recompense it holds.",
+            "bn": "তাবারী একটি ব্যাখ্যামূলক বাক্যে শব্দটির ভেতরটা খুলে দেখান। তাঁর কথা হলো, হে মুহাম্মাদ, এই মুশরিকরা আল্লাহকে অস্বীকার করেনি, আপনার আনা সত্যকে প্রত্যাখ্যানও করেনি এ কারণে যে আপনি খাবার খান আর বাজারে চলাফেরা করেন। তারা এমন করেছে কারণ পরকালে ফিরে যাওয়ার উপর তাদের দৃঢ় বিশ্বাস নেই। সওয়াব আর শাস্তিকেও তারা সত্য বলে মানে না, কারণ কিয়ামতকেই তারা মিথ্যা বলে। মুয়াসসার আরও সংক্ষেপে বলে: আপনি খাবার খান আর বাজারে হাঁটেন বলে তারা আপনাকে মিথ্যাবাদী বলেনি। বরং তারা কিয়ামতের দিন আর সেদিনের প্রতিদানকে অস্বীকার করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Insight Nor Guidance",
+          "bn": "জানার জন্যও নয়, পথের জন্যও নয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the motive behind the talk. They say what they say, he writes, takdhiban wa 'inadan, out of denial and stubbornness, and not tabassuran wa istirshadan, as people seeking insight and guidance. Then he gives the mechanism in one clause: their denial of the Day of Resurrection is what carries them to say all these sayings. The order matters. The denial does not follow from the objections, as if a careful mind had weighed the evidence and found the messenger wanting. It came first, and the objections grew out of it.",
+            "bn": "ইবন কাসীর কথাগুলোর পেছনের উদ্দেশ্যটা পড়েন। তাঁর ভাষায়, তারা এসব বলে তাকযীবান ওয়া ইনাদান, অর্থাৎ মিথ্যা প্রতিপন্ন করতে আর জেদের বশে। তাবাসসুরান ওয়া ইসতিরশাদান নয়, মানে বুঝতে চেয়ে বা পথ খুঁজে নয়। এরপর একটিমাত্র বাক্যে তিনি কারণটাও বলে দেন: কিয়ামতের দিনকে অস্বীকার করাই তাদের দিয়ে এসব কথা বলিয়ে নেয়। ক্রমটা খেয়াল করার মতো। আপত্তিগুলো থেকে অস্বীকার জন্মায়নি, যেন কোনো সতর্ক মানুষ প্রমাণ মেপে দেখে রসূলকে অযোগ্য পেয়েছে। অস্বীকারটা এসেছে আগে। আপত্তিগুলো গজিয়েছে তার ভেতর থেকে।"
+          },
+          {
+            "en": "As-Sa'di starts from the quality of the sayings themselves. Their corruption, he says, was plain to see, so God made known that they did not come from seeking the truth or from following proof. They came from ta'annut, deliberately making things hard, from wrongdoing, and from denial of the truth; they said what was in their hearts. That last phrase is worth holding. What the deniers said about markets, angels and treasure was not really an account of the Prophet. It was an account of themselves, and of what they had already decided.",
+            "bn": "সা'দী শুরু করেন কথাগুলোর মান দিয়ে। তাঁর মতে, এগুলো যে অসার, তা সবার জানা ছিল। তাই আল্লাহ জানিয়ে দিলেন, এসব কথা সত্যের খোঁজ থেকে আসেনি, প্রমাণ মেনে চলার ইচ্ছা থেকেও আসেনি। এসেছে তাআন্নুত থেকে, মানে ইচ্ছা করে ঝামেলা পাকানো থেকে, আর এসেছে জুলুম ও সত্যকে মিথ্যা বলার মনোভাব থেকে। তাদের অন্তরে যা ছিল, তারা মুখে সেটাই বলেছে। শেষ কথাটা মনে রাখার মতো। বাজার, ফেরেশতা আর ধনভান্ডার নিয়ে তারা যা বলেছিল, তা আসলে নবীর পরিচয় ছিল না। ছিল তাদের নিজেদের পরিচয়, আর তারা আগেই কী ঠিক করে রেখেছিল তার পরিচয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Hour They Denied",
+          "bn": "কোন মুহূর্তকে তারা অস্বীকার করল"
+        },
+        "p": [
+          {
+            "en": "The word sa'ah means an hour, a stretch of time, and the commentators fix what it means here. Al-Qurtubi says simply that it means the Day of Resurrection. Al-Baghawi glosses it with one word, al-qiyamah, the Resurrection. Al-Muyassar adds what that Day holds: the Day of Resurrection and the recompense in it. So the Hour in this verse is not a moment on a clock. It is the Day on which the dead rise and every life is answered for, and to deny it is to deny that there is any answering at all.",
+            "bn": "সাআহ শব্দের মানে এক ঘণ্টা, সময়ের একটা অংশ। এখানে এর অর্থ কী, তাফসীরকারেরা তা নির্দিষ্ট করে দেন। কুরতুবী সোজা বলেন, এর দ্বারা কিয়ামতের দিন বোঝানো হয়েছে। বাগাভী এক শব্দে ব্যাখ্যা দেন: আল-কিয়ামাহ, পুনরুত্থান। মুয়াসসার যোগ করে, সেদিন কী থাকবে: কিয়ামতের দিন, আর সেদিনের প্রতিদান। তাই এ আয়াতের 'সাআহ' ঘড়ির কোনো মুহূর্ত নয়। এ সেই দিন, যেদিন মৃতরা উঠবে আর প্রতিটি জীবনের হিসাব হবে। সেই দিনকে অস্বীকার করা মানে হিসাব বলে যে কিছু আছে, সেটাকেই অস্বীকার করা।"
+          },
+          {
+            "en": "At-Tabari spells out what the denial contains. In his paraphrase the deniers were not certain of al-ma'ad, the Return, and did not believe in reward and punishment, denying the Resurrection and God's raising the dead alive for the gathering of that Day. Put that way, the denial is not a quarrel over a date. It is a claim that death closes the account, that no one will be brought back and asked. Much of 25:7 and 25:8 follows easily from such a claim: if no one is ever asked, a messenger is only a man making demands.",
+            "bn": "অস্বীকারের ভেতরে কী কী আছে, তাবারী তা খুলে বলেন। তাঁর ব্যাখ্যায় অস্বীকারকারীদের মাআদ, মানে ফিরে যাওয়ার উপর দৃঢ় বিশ্বাস ছিল না। সওয়াব আর শাস্তিকে তারা সত্য বলে মানত না। তারা কিয়ামতকে মিথ্যা বলত, আর হাশরের জন্য আল্লাহ যে মৃতদের জীবিত করে ওঠাবেন, সেটাকেও মিথ্যা বলত। এভাবে দেখলে অস্বীকারটা কোনো তারিখ নিয়ে বিতর্ক নয়। এ এক দাবি যে মৃত্যুতেই খাতা বন্ধ, কাউকে ফিরিয়ে এনে কিছু জিজ্ঞেস করা হবে না। এমন দাবি থেকে ২৫:৭ ও ২৫:৮ আয়াতের অনেক কথা সহজেই বেরিয়ে আসে। কাউকে যদি কোনোদিন জিজ্ঞেস করা না হয়, তবে রসূল কেবল দাবি তোলা একজন মানুষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Nothing Will Be Weighed",
+          "bn": "যখন কিছুই মাপা হবে না"
+        },
+        "p": [
+          {
+            "en": "Why should disbelief in the Hour come out as complaints about food and markets? The commentators state the link; its logic is worth tracing. A messenger's claim is a claim about consequence: what you do now will be answered for later. Remove the later, and the claim loses its weight. What remains to argue over is the messenger himself, his meals, his errands, his empty hands. The objections of 25:7 and 25:8 are what argument looks like once the stakes have been denied in advance. They measure the bearer because the message has been ruled irrelevant.",
+            "bn": "কিয়ামতে অবিশ্বাস কেন খাবার আর বাজার নিয়ে নালিশের রূপ নেয়? তাফসীরকারেরা যোগসূত্রটা বলে দেন। এর যুক্তিটা একটু ধরে দেখা যাক। রসূলের দাবি মূলত পরিণতির দাবি: আজ যা করছেন, পরে তার জবাব দিতে হবে। 'পরে' কথাটা বাদ দিলে দাবির ওজন আর থাকে না। তর্কের বিষয় তখন থাকে শুধু রসূল নিজে। তিনি কী খান, কোথায় যান, তাঁর হাত কেন খালি। ২৫:৭ ও ২৫:৮ আয়াতের আপত্তিগুলো ঠিক এমনই। ঝুঁকির কথা আগেই নাকচ করে দিলে তর্ক এ চেহারা নেয়। বার্তাকে অপ্রাসঙ্গিক ধরে নিয়ে তারা বার্তাবাহককে মাপতে বসে।"
+          },
+          {
+            "en": "This also explains why no answer could satisfy them. 25:10 had already said that God, if He willed, could give gardens and palaces. Yet a garden would not have touched the denial underneath, because the denial was never about gardens. An objection raised in search of the truth ends when it is answered. An objection raised to keep a conclusion away is simply replaced by the next one. The bal of 25:11 names the conclusion that was being kept away.",
+            "bn": "কোনো জবাবেই কেন তারা সন্তুষ্ট হতো না, তাও এখান থেকে বোঝা যায়। ২৫:১০ আগেই বলেছে, আল্লাহ চাইলে বাগান আর প্রাসাদ দিতে পারেন। তবু একটা বাগান নিচের অস্বীকারটাকে ছুঁতেও পারত না, কারণ অস্বীকারটা কখনো বাগান নিয়ে ছিল না। সত্য খুঁজতে গিয়ে যে আপত্তি ওঠে, জবাব পেলে তা থেমে যায়। কোনো সিদ্ধান্ত থেকে দূরে থাকার জন্য যে আপত্তি তোলা হয়, তার জায়গায় শুধু আরেকটা আপত্তি এসে বসে। ২৫:১১ আয়াতের 'বাল' সেই সিদ্ধান্তের নাম বলে দেয়, যা তারা দূরে ঠেলে রাখছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From They to Whoever",
+          "bn": "'তারা' থেকে 'যে-কেউ'"
+        },
+        "p": [
+          {
+            "en": "The verse uses the same phrase twice. First kadhdhabu bi-s-sa'ah, they denied the Hour: a plural verb whose subject is already in view, the speakers of 25:7 and 25:8. Then li-man kadhdhaba bi-s-sa'ah, for whoever denies the Hour. The verse could have said for them; it repeats the description instead. The effect is that the warning is not held to one group in one city. It attaches to a stance, and to anyone who takes it.",
+            "bn": "আয়াতে একই কথা দুবার এসেছে। প্রথমে 'কাযযাবূ বিস-সাআহ', তারা কিয়ামতকে অস্বীকার করেছে। এখানে ক্রিয়াটি বহুবচন, আর কর্তা আগে থেকেই চোখের সামনে: ২৫:৭ ও ২৫:৮ আয়াতের সেই বক্তারা। তারপর 'লিমান কাযযাবা বিস-সাআহ', যে কিয়ামতকে অস্বীকার করে তার জন্য। আয়াত চাইলে বলতে পারত 'তাদের জন্য'। তা না বলে বর্ণনাটাই আবার এনেছে। ফলে সতর্কবাণী এক শহরের এক দলের মধ্যে আটকে থাকে না। তা জুড়ে যায় একটা অবস্থানের সঙ্গে, আর যে-কেউ সেই অবস্থান নেয় তার সঙ্গে।"
+          },
+          {
+            "en": "At-Tabari's paraphrase keeps that general form. We have prepared, he writes, for whoever denied God's raising of the dead alive after their perishing, for the standing of the Hour, a fire kindled upon them. Notice what the second half gives as the ground of the warning. It is not the remarks about food, markets or treasure. It is the denial named in the first half. The complaints were the visible part; the verse sets its warning against the cause beneath them, which is also what a person can still change.",
+            "bn": "তাবারীর ব্যাখ্যাও এই সাধারণ রূপ ধরে রাখে। তিনি লেখেন, ধ্বংস হয়ে যাওয়ার পর কিয়ামত কায়েমের জন্য আল্লাহ মৃতদের যে জীবিত করে ওঠাবেন, যে তা অস্বীকার করেছে, তার জন্য আমি প্রস্তুত করেছি এমন আগুন, যা তাদের উপর জ্বালানো হবে। খেয়াল করুন, আয়াতের দ্বিতীয় অংশ সতর্কবাণীর ভিত্তি হিসেবে কী দেখাচ্ছে। খাবার, বাজার বা ধনভান্ডার নিয়ে মন্তব্য নয়। ভিত্তি সেই অস্বীকার, যার নাম প্রথম অংশে এসেছে। অভিযোগগুলো ছিল চোখে পড়ার মতো অংশ। আয়াত সতর্কবাণী রেখেছে তার নিচের কারণের সামনে, আর মানুষ এখনো বদলাতে পারে ঠিক সেটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made Ready in Advance",
+          "bn": "আগে থেকেই তৈরি"
+        },
+        "p": [
+          {
+            "en": "Wa a'tadna: and We have prepared. Ibn Kathir glosses it arsadna, We have made ready and kept in readiness. At-Tabari glosses it a'dadna, We have prepared. Both keep the verb in the past tense, as the verse does: the preparation is spoken of as done. The deniers argued over whether a reckoning would ever come, and the verse answers them in a tense that treats its consequence as already in place. The speaker also changes to We, God speaking of Himself, so that the warning comes from Him whose promise the Hour is.",
+            "bn": "'ওয়া আ'তাদনা': আর আমি প্রস্তুত করে রেখেছি। ইবন কাসীর এর ব্যাখ্যা দেন 'আরসাদনা' দিয়ে, মানে তৈরি করে অপেক্ষায় রেখে দিয়েছি। তাবারী বলেন 'আ'দাদনা', প্রস্তুত করেছি। দুজনেই ক্রিয়াটি অতীত কালে রাখেন, আয়াত যেমন রেখেছে। প্রস্তুতির কথা বলা হচ্ছে সম্পন্ন কাজ হিসেবে। অস্বীকারকারীরা তর্ক করত, হিসাব আদৌ আসবে কি না। আয়াত তাদের জবাব দেয় এমন এক কালে, যেখানে পরিণতিটা আগেই তৈরি হয়ে আছে। বক্তাও এখানে বদলে যান 'আমি'-তে, আল্লাহ নিজের কথা বলছেন। ফলে সতর্কবাণী আসে তাঁর কাছ থেকে, কিয়ামত যাঁর দেওয়া ওয়াদা।"
+          },
+          {
+            "en": "As-Sa'di explains why the verse turns from argument to warning at exactly this point. The obstinate denier, he writes, who has no intention of following the truth, has no path to guidance and no stratagem in disputing with him; there is only one recourse for him, the coming down of punishment upon him. For this reason, he says, God said: and We have prepared for whoever denies the Hour a Blaze. On this reading the second half is not a change of subject. It marks where debate ends, because the other side was never debating.",
+            "bn": "ঠিক এ জায়গায় এসে আয়াত কেন যুক্তি ছেড়ে সতর্কবাণীতে যায়, সা'দী তা ব্যাখ্যা করেন। তিনি লেখেন, যে জেদি অস্বীকারকারীর সত্য মেনে নেওয়ার কোনো ইচ্ছাই নেই, তার হিদায়াতের কোনো পথ নেই। তার সঙ্গে তর্ক করেও কোনো লাভ নেই। তার জন্য উপায় একটাই: তার উপর আযাব নেমে আসা। সেজন্যই, তাঁর কথায়, আল্লাহ বলেছেন: আর যে কিয়ামতকে অস্বীকার করে, তার জন্য আমি প্রস্তুত রেখেছি জ্বলন্ত আগুন। এভাবে পড়লে আয়াতের দ্বিতীয় অংশ বিষয় বদল নয়। এ দেখিয়ে দেয় তর্ক কোথায় শেষ হয়, কারণ অপর পক্ষ কখনো তর্কই করছিল না।"
+          },
+          {
+            "en": "His words are exact about whom they mean: the muta'annit, the one with no aim of following the truth, not anyone who brings a hard question. The surrounding verses support the line he draws. Ibn Kathir, on 25:9 and its words they cannot find a way, says that whoever steps outside the way of truth has gone astray whichever direction he takes, because the truth is one. 25:11 shows why these deniers could find no way: they had shut the door the other roads lead through, the coming Day on which everything is weighed.",
+            "bn": "কার কথা বলছেন, সে ব্যাপারে সা'দীর ভাষা নিখুঁত। তিনি বলছেন মুতাআন্নিতের কথা, যার সত্য মানার কোনো লক্ষ্যই নেই। কঠিন প্রশ্ন নিয়ে আসা যে-কারও কথা নয়। আশপাশের আয়াতও তাঁর টানা সীমারেখাকে সমর্থন করে। ২৫:৯ আয়াতের 'তারা কোনো পথ পাবে না' কথাটির আলোচনায় ইবন কাসীর বলেন, যে সত্যের পথ থেকে বেরিয়ে যায়, সে যেদিকেই যাক, পথ হারায়, কারণ সত্য একটাই। এই অস্বীকারকারীরা কেন কোনো পথ পেল না, ২৫:১১ তা দেখায়। যে দরজা দিয়ে বাকি সব পথ যায়, সেটাই তারা বন্ধ করে দিয়েছিল: সেই আগত দিন, যেদিন সবকিছু মাপা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Sa'ir Names",
+          "bn": "সাঈর শব্দে কী আছে"
+        },
+        "p": [
+          {
+            "en": "The last word, sa'ira, a Blaze, carries the sense of fire that is lit and stoked, and the commentators gloss it with that motion in view. At-Tabari: a fire that is kindled upon them and burns. Al-Baghawi: a fire set ablaze. Al-Qurtubi: Jahannam, flaring up against them. Al-Muyassar: a hot fire, tus'ar bihim, kindled with them. Ibn Kathir: a painful, hot torment beyond bearing, in the fire of Jahannam. Each of these keeps the word active: on their glosses the Blaze is a fire still being fed, and the verse ends on it.",
+            "bn": "শেষ শব্দ 'সাঈরা', জ্বলন্ত আগুন। এর ভেতরে আছে আগুন জ্বালানো আর উসকে দেওয়ার ভাব। তাফসীরকারেরা সেই গতিটা মাথায় রেখেই এর ব্যাখ্যা দেন। তাবারী বলেন, এমন আগুন যা তাদের উপর জ্বালানো হয় আর দাউদাউ করে জ্বলে। বাগাভী বলেন, প্রজ্বলিত আগুন। কুরতুবী বলেন, জাহান্নাম, যা তাদের উপর লেলিহান হয়ে ওঠে। মুয়াসসার বলে, প্রচণ্ড গরম আগুন, 'তুসআরু বিহিম', তাদের দিয়ে যা জ্বালানো হয়। ইবন কাসীর বলেন, জাহান্নামের আগুনে যন্ত্রণাদায়ক, অসহ্য উত্তপ্ত শাস্তি। প্রতিটি ব্যাখ্যাই শব্দটিকে সক্রিয় রাখে। তাঁদের ব্যাখ্যায় সাঈর এমন আগুন, যাতে অবিরাম ইন্ধন পড়ছে। আয়াত শেষ হয় এ শব্দেই।"
+          },
+          {
+            "en": "As-Sa'di reads more into the single word: a mighty fire whose blaze has grown intense, which rages at its people and whose roaring has grown fierce. His language already reaches toward the next verse. Ibn Kathir adds a different kind of explanation through a report: ath-Thawri, from Salamah ibn Kuhayl, from Sa'id ibn Jubayr, that as-sa'ir is a valley of pus in Jahannam. One reading describes what the fire does; the other names a place within it. Ibn Kathir gives both, one after the other, and does not choose between them.",
+            "bn": "সা'দী এই এক শব্দে আরও বেশি পড়েন: এক বিশাল আগুন, যার শিখা তীব্র হয়ে উঠেছে, যা তার বাসিন্দাদের উপর ক্রোধে ফুঁসছে, আর যার গর্জন প্রচণ্ড হয়ে উঠেছে। তাঁর ভাষা এখনই পরের আয়াতের দিকে হাত বাড়ায়। ইবন কাসীর একটি বর্ণনার মাধ্যমে ভিন্ন ধরনের ব্যাখ্যা যোগ করেন। সাওরী, সালামা ইবন কুহাইল থেকে, তিনি সাঈদ ইবন জুবাইর থেকে বর্ণনা করেন: সাঈর হলো জাহান্নামের পুঁজের এক উপত্যকা। একটি ব্যাখ্যা বলে আগুন কী করে, অন্যটি তার ভেতরের একটি জায়গার নাম বলে। ইবন কাসীর দুটোই পরপর আনেন, কোনোটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fire That Sees",
+          "bn": "যে আগুন দেখতে পায়"
+        },
+        "p": [
+          {
+            "en": "The next verse continues the picture: when it sees them from a distant place, they will hear its raging and roaring (25:12). Al-Qurtubi records two readings of who sees. On one, Jahannam itself sees them and they hear the sound of its fury; on the other, its keepers see them and rage in their eagerness to punish them. He calls the first sounder, citing a report he relates from the Prophet (peace be upon him), without grading it: asked whether the Fire has eyes, the Prophet recited this verse.",
+            "bn": "পরের আয়াত ছবিটা এগিয়ে নেয়: আগুন যখন দূর থেকে তাদের দেখবে, তারা শুনবে তার ক্রুদ্ধ গর্জন আর হুংকার (২৫:১২)। কে দেখবে, এ নিয়ে কুরতুবী দুটি মত উল্লেখ করেন। এক মতে জাহান্নাম নিজেই তাদের দেখবে, আর তারা শুনবে তার ক্রোধের আওয়াজ। অন্য মতে জাহান্নামের রক্ষীরা তাদের দেখবে, আর তাদের শাস্তি দেওয়ার আগ্রহে ক্রোধে ফুঁসবে। কুরতুবী প্রথম মতকে বেশি সঠিক বলেন। প্রমাণ হিসেবে আনেন নবী ﷺ থেকে বর্ণিত একটি কথা, যার মান তিনি উল্লেখ করেন না: তাঁকে জিজ্ঞেস করা হয়েছিল আগুনের কি চোখ আছে, আর তিনি এ আয়াত তিলাওয়াত করেছিলেন।"
+          },
+          {
+            "en": "On 25:12 al-Qurtubi also cites at-Tirmidhi. In his Jami' (no. 2574), Abu Hurayrah (RA) reports the Messenger of God (peace be upon him) as saying: A neck will come out of the Fire on the Day of Resurrection, with two eyes that see, two ears that hear and a tongue that speaks. It will say: I have been put in charge of three: every obstinate tyrant, everyone who called upon another god along with Allah, and the image-makers. At-Tirmidhi grades it hasan gharib sahih. No fetched tafsir attaches a hadith to 25:11 itself; this hadith belongs to the verse after it.",
+            "bn": "২৫:১২ আয়াতের আলোচনায় কুরতুবী তিরমিযীর বরাতও দেন। তিরমিযীর জামি'-তে (নং 2574) আবু হুরাইরা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: কিয়ামতের দিন আগুন থেকে একটা ঘাড় বেরিয়ে আসবে। তার থাকবে দেখার মতো দুটি চোখ, শোনার মতো দুটি কান আর কথা বলার মতো একটি জিহ্বা। সে বলবে, আমাকে তিনটি দলের দায়িত্ব দেওয়া হয়েছে: প্রত্যেক উদ্ধত স্বৈরাচারী, আল্লাহর সঙ্গে অন্য ইলাহকে যে ডেকেছে, আর ছবি নির্মাতারা। তিরমিযী একে হাসান গারীব সহীহ বলেছেন। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই ২৫:১১ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করে না। এ হাদীসটি পরের আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Question Beneath My Reasons",
+          "bn": "আমার কারণের নিচের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "It needs saying plainly. The verse describes what it describes: a group in Makkah who raised these objections against the Prophet, the cause the Qur'an names beneath them, and what is prepared for whoever denies the Hour. It licenses nothing against any living person or community. It gives no one the right to name a neighbour, a relative or a people as bound for the Blaze, or to treat someone who asks a hard question as the obstinate denier as-Sa'di describes. What lies in a heart, and how a life ends, is known to God.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: মক্কার একটি দল, যারা নবীর বিরুদ্ধে এসব আপত্তি তুলেছিল, সেসব আপত্তির নিচে কুরআনের দেখানো কারণ, আর কিয়ামত অস্বীকারকারীর জন্য যা প্রস্তুত। জীবিত কোনো ব্যক্তি বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশী, আত্মীয় বা কোনো জাতিকে জাহান্নামি বলে ঘোষণা করার অধিকার এটি কাউকে দেয় না। কঠিন প্রশ্ন নিয়ে আসা কাউকে সা'দীর বর্ণিত সেই জেদি অস্বীকারকারী বলে ধরে নেওয়ার অধিকারও দেয় না। কার অন্তরে কী আছে আর কার জীবন কীভাবে শেষ হবে, তা আল্লাহই জানেন।"
+          },
+          {
+            "en": "What the verse does give is a question to turn inward. Bal asks what lies beneath my own reasons. When I put off something I know to be right, the reason I offer is often a small one: the cost, the timing, the person who said it. The real one may be the same in kind as theirs, a reckoning I say I believe in but do not expect. The verse that diagnoses the deniers also counsels the believer. Keep the Hour in view, and the excuses lose their hold.",
+            "bn": "আয়াত যা দেয়, তা নিজের দিকে ফেরানোর মতো একটা প্রশ্ন। 'বাল' জিজ্ঞেস করে, আমার নিজের কারণগুলোর নিচে কী আছে? যে কাজ ঠিক বলে জানি, তা যখন পিছিয়ে দিই, তখন দেখানো কারণটা প্রায়ই ছোট। খরচ বেশি, সময় ঠিক নয়, কিংবা কথাটা কে বলেছে। আসল কারণ হয়তো তাদেরটার মতোই: এমন এক হিসাব, যাতে মুখে বিশ্বাস করি, কিন্তু মনে মনে আশা করি না। যে আয়াত অস্বীকারকারীদের রোগ ধরিয়ে দেয়, সেটাই মুমিনকে উপদেশ দেয়। কিয়ামতকে চোখের সামনে রাখুন, অজুহাতগুলো তখন আর ধরে রাখতে পারবে না।"
+          }
+        ]
+      }
+    ]
+  },
   "25:15": {
     "sections": [
       {

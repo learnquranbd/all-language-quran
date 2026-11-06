@@ -24051,6 +24051,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah's promise of succession, a firm religion and safety rests on worship that associates nothing with Him; seek its condition rather than claim its reward, and thank Him for every safety.",
     "lessonBn": "খিলাফত, মজবুত দ্বীন আর নিরাপত্তার যে প্রতিশ্রুতি আল্লাহ দিয়েছেন, তা দাঁড়িয়ে আছে শরীকমুক্ত ইবাদতের উপর। তাই পুরস্কারের দাবি না তুলে শর্তটা পূরণ করুন, আর প্রতিটি নিরাপত্তার জন্য তাঁর শুকরিয়া আদায় করুন।"
+  },
+  "25:11": {
+    "reflectionEn": "They had a whole list against him: he eats food, he walks in the markets, no angel stands beside him, no treasure falls to him, no garden feeds him. The verse sets the list aside with one word, bal, rather. The complaints were never the real reason. They denied the Hour, and someone who expects no reckoning can always find one more objection, since nothing he says will ever be weighed. Then the verse widens from those speakers to whoever denies the Hour, and names what has already been made ready: a Blaze. The question turns back on me. When I resist something true, are the reasons I give the real ones? And does my belief in the Day shape what I say and do?",
+    "reflectionBn": "তাঁর বিরুদ্ধে ওদের অভিযোগের লম্বা তালিকা ছিল। সে খাবার খায়, বাজারে ঘুরে বেড়ায়, পাশে কোনো ফেরেশতা নেই, আকাশ থেকে ধনভান্ডার নামে না, খাওয়ার মতো একটা বাগানও নেই। আয়াতটি একটিমাত্র শব্দে পুরো তালিকা সরিয়ে রাখে: বাল, বরং। এসব অভিযোগ কখনো আসল কারণ ছিল না। তারা কিয়ামতকে অস্বীকার করেছিল। যে মনে করে কোনো হিসাব হবে না, তার কাছে আপত্তির অভাব হয় না, কারণ তার কোনো কথাই কোনোদিন মাপা হবে না। এরপর আয়াতটি ওই বক্তাদের ছাড়িয়ে যায় যে-কারও দিকে, যে কিয়ামতকে অস্বীকার করে, আর জানিয়ে দেয় তার জন্য কী আগেই প্রস্তুত: জ্বলন্ত আগুন। প্রশ্নটা তখন আমার দিকে ফেরে। সত্য কিছু মানতে যখন বাধে, যে কারণ আমি দেখাই, সেটাই কি আসল কারণ? আর হিসাবের দিনের উপর আমার বিশ্বাস কি সত্যিই আমার কথা আর কাজকে গড়ে দেয়?",
+    "pointsEn": [
+      "The last time I rejected an argument, was the reason I gave the reason I actually had, or was something else sitting underneath it?",
+      "If I truly expected every word to be weighed on the Day, which of my recent objections would I still raise?",
+      "Where am I asking for more proof only to put off a change I already know I should make?",
+      "Does the Hour live in my plans and habits, or only in the beliefs I would list if someone asked?",
+      "When I read about the end of those who denied, do I hear a warning addressed to me before I hear a verdict on anyone else?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন কোনো যুক্তি মানিনি, তখন যে কারণ দেখিয়েছিলাম সেটাই কি আসল কারণ ছিল, নাকি তার নিচে অন্য কিছু চাপা ছিল?",
+      "সত্যিই যদি বিশ্বাস করতাম যে সেদিন প্রতিটি কথা মাপা হবে, তাহলে আমার সাম্প্রতিক আপত্তিগুলোর কোনটা আর তুলতাম?",
+      "কোথায় আমি আরও প্রমাণ চাইছি শুধু এমন একটা পরিবর্তন পিছিয়ে দিতে, যা দরকার বলে আমি নিজেই জানি?",
+      "কিয়ামত কি আমার পরিকল্পনা আর অভ্যাসের ভেতরে বেঁচে আছে, নাকি কেবল সেই বিশ্বাসের তালিকায়, যা কেউ জিজ্ঞেস করলে মুখে বলি?",
+      "অস্বীকারকারীদের পরিণতির কথা পড়ার সময় অন্য কারও উপর রায় শোনার আগে কি নিজের জন্য সতর্কবাণী শুনি?"
+    ],
+    "lessonEn": "Objections often hide their real cause, and this verse names it: denial of the Hour. Let certainty of the reckoning, not excuses, decide how you answer the truth.",
+    "lessonBn": "আপত্তির আড়ালে প্রায়ই আসল কারণ লুকিয়ে থাকে, আর এ আয়াত সেটার নাম বলে দেয়: কিয়ামতকে অস্বীকার। সত্যের জবাব কেমন হবে, তা ঠিক করুক হিসাবের দিনের নিশ্চয়তা, অজুহাত নয়।"
   }
 };
 
