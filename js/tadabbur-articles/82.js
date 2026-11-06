@@ -602,5 +602,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "82:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Questions, One Answer",
+          "bn": "দুই প্রশ্নের এক উত্তর"
+        },
+        "p": [
+          {
+            "en": "Twice the surah has asked: and what will make you know what the Day of Recompense is? Then, what will make you know what the Day of Recompense is? This verse is the answer, and with it al-Infitar ends. Ibn Kathir opens his comment on it with thumma fassarahu, then He explained it: the two questions magnify the Day, and this verse says what it is. The Muyassar, which explains 82:17 to 82:19 together, reads the questions as asking about the greatness of the Day of Reckoning, and lets this verse supply that greatness.",
+            "bn": "সূরাটি পরপর দুবার জিজ্ঞেস করেছে: তুমি কি জান কর্মফলের দিনটি কী? আবার বলি, তুমি কি জান কর্মফলের দিনটি কী? এই আয়াত সেই প্রশ্নের জবাব, আর এখানেই সূরা ইনফিতার শেষ। ইবন কাসীর আয়াতটির আলোচনা শুরু করেন 'সুম্মা ফাসসারাহু' দিয়ে, অর্থাৎ তারপর তিনি নিজেই এর ব্যাখ্যা দিলেন। দুই প্রশ্নে দিনটির গুরুত্ব বড় করে তোলা হয়েছে, আর এ আয়াত বলে দেয় দিনটি আসলে কী। মুয়াসসার ৮২:১৭ থেকে ৮২:১৯ পর্যন্ত একসঙ্গে ব্যাখ্যা করে। তার পাঠে প্রশ্ন দুটি হিসাবের দিনের মহত্ত্ব নিয়ে, আর সেই মহত্ত্বের বিবরণ আসে এই আয়াতে।"
+          },
+          {
+            "en": "The answer is not a picture of fire, scales or crowds. It is a statement about power, made in nine Arabic words: yawma la tamliku nafsun li-nafsin shay'an, wal-amru yawma'idhin lillah. A Day when no soul will possess anything for another soul, and the command that Day is Allah's. The first clause takes something away from every creature; the second says where all of it belongs. The surah's last word is the name of Allah, and at-Tabari, al-Qurtubi and Ibn Kathir each mark the end of their commentary on al-Infitar at this verse.",
+            "bn": "উত্তরে আগুন, দাঁড়িপাল্লা বা মানুষের ভিড়ের কোনো ছবি নেই। আছে ক্ষমতার কথা, আরবিতে মাত্র নয়টি শব্দে: ইয়াওমা লা তামলিকু নাফসুন লিনাফসিন শাইআ, ওয়াল আমরু ইয়াওমাইজিন লিল্লাহ। সেদিন কেউ অপরের জন্য কিছুই করার ক্ষমতা রাখবে না, আর সেদিন হুকুম আল্লাহর। প্রথম অংশ প্রতিটি সৃষ্টির হাত খালি করে দেয়। দ্বিতীয় অংশ জানিয়ে দেয়, সব ক্ষমতা কার। সূরার শেষ শব্দ আল্লাহর নাম। তাবারী, কুরতুবী ও ইবন কাসীর তিনজনই সূরা ইনফিতারের তাফসীর এই আয়াতে এসে শেষ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Yawmu or Yawma",
+          "bn": "ইয়াওমু, নাকি ইয়াওমা"
+        },
+        "p": [
+          {
+            "en": "The first word is read in two ways, and the commentators record both. At-Tabari reports that most readers of the Hijaz and Kufa read yawma, with a fatha, since its annexation is not pure, while some readers of Basra read yawmu, with a damma, taking it back to the Day named just before. Al-Qurtubi names the readers of the raised form as Ibn Kathir and Abu 'Amr; this Ibn Kathir is the reader of the Qur'an, not the commentator cited elsewhere in this article. The rest, he says, read yawma, which is what the Arabic printed in this app has.",
+            "bn": "প্রথম শব্দটি দুইভাবে পড়া হয়, আর তাফসীরকারেরা দুটিই লিখে রেখেছেন। তাবারী জানান, হিজাজ ও কুফার বেশিরভাগ কারী পড়েন 'ইয়াওমা', যবর দিয়ে, কারণ শব্দটির ইযাফত খাঁটি ইযাফত নয়। বসরার কিছু কারী পড়েন 'ইয়াওমু', পেশ দিয়ে, আগের আয়াতে যে দিনের নাম এসেছে তার দিকে ফিরিয়ে। কুরতুবী পেশওয়ালা পাঠের দুই কারীর নাম দেন: ইবন কাসীর ও আবু আমর। এই ইবন কাসীর কুরআনের কারী, এ লেখায় অন্যত্র যে তাফসীরকারের কথা এসেছে তিনি নন। বাকিরা, কুরতুবী বলেন, পড়েন 'ইয়াওমা'। এই অ্যাপে ছাপা আরবি পাঠেও তা-ই আছে।"
+          },
+          {
+            "en": "Each vowel carries a grammar. With yawmu, al-Qurtubi explains, the word stands in apposition to yawm ad-din, or describes it, or is the predicate of an understood huwa: it is the Day when. With yawma, it sits where a raised word would sit but takes a fatha because it is annexed to a whole sentence, as in the day Zayd stands pleased me. He cites a line recited by al-Mubarrad, from which of my two days shall I flee from death, a day it was not decreed or a day it was decreed, and calls this the choice of al-Farra' and az-Zajjaj.",
+            "bn": "প্রতিটি স্বরচিহ্নের পেছনে আলাদা ব্যাকরণ। কুরতুবীর ব্যাখ্যায়, 'ইয়াওমু' পড়লে শব্দটি আগের 'ইয়াওমুদ্দীন'-এর জায়গায় বসে, অথবা তার পরিচয় দেয়, অথবা উহ্য 'হুয়া' (সেটি)-র সঙ্গে মিলে বাক্য পূর্ণ করে। তখন অর্থ দাঁড়ায়: সেটি সেই দিন, যেদিন। 'ইয়াওমা' পড়লে শব্দটি পেশের জায়গাতেই বসে, তবু যবর নেয়, কারণ তার সম্বন্ধ আস্ত একটি বাক্যের সঙ্গে। যেমন কেউ বলে, যেদিন যায়দ দাঁড়ায় সেদিনটা আমার ভালো লেগেছে। সমর্থনে তিনি মুবাররাদের আবৃত্তি করা একটি পঙক্তি আনেন: মৃত্যু থেকে আমার দুই দিনের কোনটিতে পালাব, যেদিন তা নির্ধারিত হয়নি, নাকি যেদিন নির্ধারিত হয়েছে? তিনি বলেন, এ ব্যাখ্যা ফাররা ও যাজ্জাজের পছন্দ।"
+          },
+          {
+            "en": "Al-Qurtubi also reports other ways of taking yawma: as an adverb, in a day when; or as saying that these things happen on a day; or that people are recompensed on a day, since ad-din points to it; or with an understood udhkur, remember. Al-Baghawi takes the fatha in the same sense, in a day. His text, as fetched, lists the people of Kufa and Basra for the raised reading, which does not match at-Tabari's grouping, and this article leaves that difference where it stands.",
+            "bn": "কুরতুবী 'ইয়াওমা'-র আরও কয়েকটি ব্যাখ্যা উল্লেখ করেন। কারও মতে শব্দটি সময় বোঝায়: এমন দিনে, যেদিন। কেউ বলেন, অর্থ হলো এসব ঘটবে সেই দিনে। কেউ বলেন, মানুষকে প্রতিফল দেওয়া হবে সেই দিনে, কারণ 'দীন' শব্দটিই সে ইঙ্গিত দেয়। আবার কারও মতে আগে 'উযকুর', অর্থাৎ স্মরণ কর, উহ্য আছে। বাগাভীও যবরকে এই অর্থেই নেন: সেই দিনে। তবে যে পাঠ হাতে এসেছে তাতে বাগাভী পেশওয়ালা পাঠকে কুফা ও বসরার লোকদের পাঠ বলেছেন, যা তাবারীর ভাগের সঙ্গে মেলে না। এ লেখা সেই অমিলের মীমাংসা করতে যায় না।"
+          },
+          {
+            "en": "At-Tabari adds a judgement of his own: the raised form, he says, is the more eloquent in the speech of the Arabs, because they raise yawm when it is annexed to a present-tense verb and give it a fatha when it is annexed to a past one; he cites a line of verse for the pattern. In both readings, as the commentators lay them out, the word names or dates the very Day the two questions were asking about.",
+            "bn": "তাবারী এখানে নিজের মতও জানান: আরবদের ভাষায় পেশওয়ালা পাঠই বেশি বিশুদ্ধ। কারণ 'ইয়াওম' শব্দ যখন বর্তমান কালের ক্রিয়ার সঙ্গে জুড়ে বসে, আরবরা তাতে পেশ দেয়। অতীত কালের ক্রিয়ার সঙ্গে জুড়লে দেয় যবর। এর প্রমাণে তিনি কবিতার একটি পঙক্তি আনেন। তাফসীরকারেরা যেভাবে সাজিয়েছেন, তাতে দুই পাঠেই শব্দটি সেই দিনটিকেই চিনিয়ে দেয় বা তার সময় বলে দেয়, যে দিনের কথা দুই প্রশ্নে জিজ্ঞেস করা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Soul, Not Even Kin",
+          "bn": "আপনজনও কিছু পারবে না"
+        },
+        "p": [
+          {
+            "en": "La tamliku nafsun li-nafsin shay'an: no soul will possess anything for another soul. Ibn Kathir reads possession here as ability: no one will be able to benefit anyone, or to free him from what he is in, unless Allah gives leave to whom He wills and is pleased with. The Muyassar says it in fewer words: on the Day of Reckoning no one is able to benefit anyone. Neither of them narrows the word shay'an, anything.",
+            "bn": "লা তামলিকু নাফসুন লিনাফসিন শাইআ: কেউ অপরের জন্য কিছুরই মালিক হবে না। ইবন কাসীর এখানে মালিকানাকে বোঝেন সামর্থ্য অর্থে। কেউ কারও উপকার করতে পারবে না, যে বিপদে সে আছে তা থেকে তাকে ছাড়িয়েও আনতে পারবে না। তবে আল্লাহ যাকে চান আর যার প্রতি সন্তুষ্ট, তাকে অনুমতি দিলে ভিন্ন কথা। মুয়াসসার আরও কম কথায় বলে: হিসাবের দিনে কেউ কারও উপকার করতে পারবে না। 'শাইআ', অর্থাৎ কিছুই, শব্দটির পরিধি তাঁদের কেউ ছোট করেননি।"
+          },
+          {
+            "en": "As-Sa'di carries the point to the people closest to us. No soul possesses anything for another, he writes, even if the other were its near relative or a beloved, sincere friend, for each will be busy with itself and will not seek release for anyone else. The Qur'an draws the same scene elsewhere: a man flees from his brother, his mother and father, his wife and children, for each of them that Day has a concern enough for him (80:34 to 80:37). As-Sa'di does not cite that passage here; the link is the reader's.",
+            "bn": "সা'দী কথাটিকে নিয়ে যান সবচেয়ে কাছের মানুষদের কাছে। তিনি লেখেন, অপরজন নিকটাত্মীয় হোক বা প্রাণের বন্ধু, তবু কেউ কারও জন্য কিছুরই মালিক হবে না। কারণ প্রত্যেকে নিজেকে নিয়েই ব্যস্ত থাকবে, অন্যের মুক্তির খোঁজ কেউ করবে না। কুরআন অন্য জায়গায় একই দৃশ্য আঁকে: মানুষ পালাবে তার ভাই থেকে, মা-বাবা থেকে, স্ত্রী ও সন্তান থেকে, কারণ সেদিন প্রত্যেকের নিজের এমন চিন্তা থাকবে যা তাকে ব্যস্ত রাখবে (৮০:৩৪ থেকে ৮০:৩৭)। সা'দী এখানে সে আয়াতগুলো উল্লেখ করেননি। যোগসূত্রটা পাঠকের নিজের।"
+          },
+          {
+            "en": "Al-Baghawi brings a narrower reading from Muqatil: no soul will possess, for a disbelieving soul, anything of benefit. On this reading the clause speaks of those who deny. As-Sa'di's wording carries no such limit, and the two are kept here side by side without choosing between them. Either way the verse describes the Day. It passes no verdict on any person living now, and it gives no one a licence to decide who will be helped then and who will not.",
+            "bn": "বাগাভী মুকাতিল থেকে একটি সংকীর্ণ ব্যাখ্যা আনেন: কোনো কাফির ব্যক্তির জন্য কেউ কোনো উপকারের মালিক হবে না। এ ব্যাখ্যায় বাক্যটি অস্বীকারকারীদের নিয়ে। সা'দীর কথায় এমন কোনো সীমা নেই। দুটি ব্যাখ্যাই এখানে পাশাপাশি রাখা হলো, কোনোটিকে বেছে নেওয়া হলো না। যেভাবেই পড়া হোক, আয়াতটি সেই দিনের বর্ণনা দেয়। আজ বেঁচে থাকা কোনো মানুষের বিষয়ে এটি কোনো রায় দেয় না। সেদিন কে সাহায্য পাবে আর কে পাবে না, তা ঠিক করে দেওয়ার অধিকারও এটি কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "By His Leave Alone",
+          "bn": "শুধু তাঁর অনুমতিতে"
+        },
+        "p": [
+          {
+            "en": "Does the clause rule out intercession? Ma'arif al-Qur'an raises the question and answers it: this does not negate intercession, because intercession will not happen by anyone's own free will, only when Allah grants someone permission to intercede for someone, and then accepts it. Its translation of the verse even carries the qualifier in brackets: no one, with his own free will in the Plain of Gathering, will have power to do anything for another. Ibn Kathir's exception points the same way.",
+            "bn": "তাহলে কি এ বাক্য সুপারিশের সম্ভাবনা নাকচ করে দেয়? মাআরিফুল কুরআন প্রশ্নটা তুলে নিজেই জবাব দেয়: না। কারণ সুপারিশ কারও নিজের ইচ্ছায় হবে না। আল্লাহ যখন কাউকে কারও পক্ষে সুপারিশের অনুমতি দেবেন, আর তারপর সেই সুপারিশ কবুল করবেন, কেবল তখনই তা হবে। আয়াতের অনুবাদেই সে বন্ধনীর ভেতরে শর্তটা জুড়ে দেয়: হাশরের মাঠে কেউ নিজের ইচ্ছায় অপরের জন্য কিছুই করার ক্ষমতা রাখবে না। ইবন কাসীরের ব্যতিক্রমের কথাটিও একই দিকে ইঙ্গিত করে।"
+          },
+          {
+            "en": "His phrase, li-man yasha'u wa yarda, to whom He wills and is pleased with, is the closing wording of 53:26, where even the intercession of angels avails nothing until Allah permits it for whom He wills and approves. Two other verses state the same condition. 2:255 asks who could intercede with Him except by His permission, and 20:109 says that on that Day intercession benefits none except one to whom the Most Merciful gives permission and whose word He accepts. The commentators consulted here go no further than this, and neither does this article.",
+            "bn": "ইবন কাসীরের কথাটি, 'লিমান ইয়াশাউ ওয়া ইয়ারদা', যাকে তিনি চান ও যার প্রতি তিনি সন্তুষ্ট, হুবহু ৫৩:২৬ আয়াতের শেষাংশ। সেখানে বলা হয়েছে, আকাশের ফেরেশতাদের সুপারিশও কোনো কাজে আসবে না, যতক্ষণ না আল্লাহ যাকে চান ও যার প্রতি সন্তুষ্ট তার জন্য অনুমতি দেন। আরও দুটি আয়াত একই শর্তের কথা বলে। ২:২৫৫ প্রশ্ন করে, কে আছে যে তাঁর অনুমতি ছাড়া তাঁর কাছে সুপারিশ করবে? আর ২০:১০৯ বলে, সেদিন সুপারিশ কারও কাজে আসবে না, দয়াময় যাকে অনুমতি দেবেন এবং যার কথায় সন্তুষ্ট হবেন সে ছাড়া। এখানে দেখা তাফসীরগুলো এর বেশি এগোয়নি, এ লেখাও এগোবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Today, Unopposed Then",
+          "bn": "আজও তাঁর, সেদিন নিরঙ্কুশ"
+        },
+        "p": [
+          {
+            "en": "Wal-amru yawma'idhin lillah: and the command that Day is Allah's. If everything is His already, what does that Day add? Qatada answered in a sentence that at-Tabari records through his chain from Bishr, Yazid and Sa'id, and that Ibn Kathir also quotes: by Allah, the command is Allah's today, but on that Day no one will contend with Him over it. The verse does not say that His rule begins then. It says that then no one will dispute it.",
+            "bn": "ওয়াল আমরু ইয়াওমাইজিন লিল্লাহ: আর সেদিন হুকুম আল্লাহর। সব কিছুই তো আগে থেকে তাঁর, তাহলে সেদিন নতুন কী যোগ হয়? কাতাদা এর জবাব দিয়েছেন ছোট্ট একটি বাক্যে। তাবারী তা বর্ণনা করেন নিজের সনদে, বিশর, ইয়াযীদ ও সাঈদের সূত্রে, আর ইবন কাসীরও তা উদ্ধৃত করেন: আল্লাহর কসম, হুকুম আজও আল্লাহর, কিন্তু সেদিন কেউ তা নিয়ে তাঁর সঙ্গে বিবাদ করবে না। আয়াত বলছে না যে তাঁর শাসন সেদিন শুরু হবে। বলছে, সেদিন তা নিয়ে কেউ প্রশ্ন তুলবে না।"
+          },
+          {
+            "en": "The other commentators turn on the same hinge. Al-Qurtubi's gloss is that no one contends with Him in it, and he sets beside it 40:16 and 40:17: to whom belongs the sovereignty this Day? To Allah, the One, the Prevailing. This Day every soul is recompensed for what it earned; no injustice this Day. The Muyassar widens the gloss into a chain: the command that Day is Allah's alone, whom no overpowerer overpowers, no subduer subdues, and no one contends with.",
+            "bn": "অন্য তাফসীরকারেরাও একই কথার উপর দাঁড়িয়ে। কুরতুবীর ব্যাখ্যা: সেদিন এ ব্যাপারে কেউ তাঁর সঙ্গে বিবাদ করবে না। পাশে তিনি রাখেন ৪০:১৬ ও ৪০:১৭: আজ রাজত্ব কার? এক ও মহাপরাক্রমশালী আল্লাহর। আজ প্রত্যেককে তার কামাইয়ের প্রতিফল দেওয়া হবে, আজ কোনো জুলুম নেই। মুয়াসসার ব্যাখ্যাটিকে আরও ছড়িয়ে দেয়: সেদিন হুকুম একমাত্র আল্লাহর, যাঁকে কোনো বিজয়ী পরাস্ত করতে পারে না, কোনো দাপুটে দমাতে পারে না, আর কেউ তাঁর সঙ্গে বিবাদ করে না।"
+          },
+          {
+            "en": "Al-Baghawi puts it from the side of what creatures hold: on that Day Allah gives no one possession of anything, as He gave them possession in this world. His gloss uses the verse's own root, m-l-k, for both worlds. What people possess now, they possess because it was given to them; on that Day nothing of the kind is given. Read this way, wealth, rank and influence, the means by which one person helps another here, are a trust that runs out.",
+            "bn": "বাগাভী বিষয়টি দেখেন সৃষ্টির হাতে কী থাকে সেদিক থেকে: দুনিয়ায় আল্লাহ মানুষকে যেমন নানা কিছুর মালিক বানিয়েছিলেন, সেদিন কাউকে কোনো কিছুর মালিক বানাবেন না। তাঁর ব্যাখ্যায় দুই জগতের কথাতেই আয়াতের নিজের ধাতু, মীম-লাম-কাফ, ব্যবহার হয়েছে। মানুষ আজ যা কিছুর মালিক, তা তাকে দেওয়া হয়েছে বলেই। সেদিন তেমন কিছু আর দেওয়া হবে না। এভাবে পড়লে সম্পদ, পদমর্যাদা, প্রভাব, যা দিয়ে আজ একজন মানুষ আরেকজনকে সাহায্য করে, সবই এমন আমানত যার মেয়াদ ফুরিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Master of That Day",
+          "bn": "সেই দিনের মালিক"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets three verses beside this one: 40:16, which al-Qurtubi also cites; 25:26, true sovereignty that Day belongs to the Most Merciful; and 1:4, maliki yawm ad-din, Master of the Day of Recompense. The last is recited in every rak'ah. It shares its root with tamliku, and its name for the Day with the two questions just before this verse. Read together, al-Fatiha names the Master of that Day, and al-Infitar says what His mastery leaves to everyone else: nothing to possess for another.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে তিনটি আয়াত রাখেন: ৪০:১৬, যা কুরতুবীও এনেছেন; ২৫:২৬, সেদিন সত্যিকারের রাজত্ব দয়াময়ের; আর ১:৪, মালিকি ইয়াওমিদ্দীন, প্রতিফল দিবসের মালিক। শেষেরটি নামাজের প্রতি রাকাতে পড়া হয়। 'তামলিকু' শব্দের সঙ্গে এর ধাতু একই, আর দিনটির যে নাম সেখানে, ঠিক আগের দুই প্রশ্নেও সেই নাম। পাশাপাশি পড়লে ফাতিহা জানায় সেদিনের মালিক কে, আর ইনফিতার জানায় তাঁর মালিকানার সামনে বাকিদের হাতে কী থাকে: অপরের জন্য কিছুই না।"
+          },
+          {
+            "en": "As-Sa'di gives the command a concrete content. Because it is Allah's, He judges between His servants and takes for the wronged his right from whoever wronged him. Read with the first clause, the verse cuts both ways: no one can rescue another from what he owes, and no one can withhold what is owed to another. The weak, who could not secure their rights here, are left to no one's goodwill there.",
+            "bn": "সা'দী হুকুমের একটি বাস্তব রূপ দেখান। হুকুম যেহেতু আল্লাহর, তিনিই বান্দাদের মধ্যে ফয়সালা করবেন, আর জালিমের কাছ থেকে মজলুমের হক আদায় করে দেবেন। প্রথম বাক্যের সঙ্গে মিলিয়ে পড়লে আয়াতটি দুই দিকেই খাটে। কেউ কাউকে তার দেনা থেকে ছাড়িয়ে আনতে পারবে না, আবার কেউ অন্যের পাওনাও আটকে রাখতে পারবে না। দুনিয়ায় যে দুর্বল নিজের হক আদায় করতে পারেনি, সেখানে তাকে কারও দয়ার উপর ছেড়ে দেওয়া হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Narration Already Told",
+          "bn": "আগেই বলা এক বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir says he mentions here the narration in which the Prophet ﷺ calls on Banu Hashim, and notes that it has already come at the end of his commentary on ash-Shu'ara; his abridged English edition points to 26:214, and warn your nearest kindred. That narration is set out in full, in al-Bukhari's wording, in this app's article on 26:214, so it is not repeated here. Placing it beside this verse is Ibn Kathir's choice: a warning the Prophet ﷺ gave his own kin, read next to a Day when no soul possesses anything for another.",
+            "bn": "ইবন কাসীর বলেন, এখানে তিনি সেই বর্ণনাটির উল্লেখ করছেন, যেখানে নবী ﷺ বনু হাশিমকে ডেকে কথা বলেন। সঙ্গে জানান, সূরা শুআরার তাফসীরের শেষে তা আগেই এসেছে। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ দেখিয়ে দেয় ২৬:২১৪, যেখানে নিকটাত্মীয়দের সতর্ক করার নির্দেশ এসেছে। বর্ণনাটি বুখারীর শব্দে পুরোপুরি দেওয়া আছে এই অ্যাপের ২৬:২১৪ আয়াতের প্রবন্ধে, তাই এখানে আর তা দোহরানো হলো না। এ আয়াতের পাশে সেটিকে রাখা ইবন কাসীরের নিজের বাছাই: আপনজনদের প্রতি নবী ﷺ-এর সতর্কবাণী, আর এমন দিন, যেদিন কেউ অপরের জন্য কিছুরই মালিক হবে না।"
+          },
+          {
+            "en": "No other commentary consulted for 82:19 attaches a hadith to the verse, and none gives an occasion of revelation for it. What they offer instead is their reading of the verse itself, and in its core they read it alike: on that Day no creature can, on its own, benefit another. Ibn Kathir and Ma'arif al-Qur'an add that whatever help there is will come only by Allah's leave.",
+            "bn": "৮২:১৯ নিয়ে দেখা অন্য কোনো তাফসীর আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি, আর কোনোটিই এর নাজিলের প্রেক্ষাপট বলেনি। তাঁরা দিয়েছেন আয়াতের নিজের ব্যাখ্যা, আর মূল কথায় সবার পাঠ মেলে: সেদিন কোনো সৃষ্টি নিজের জোরে অপর কারও উপকার করতে পারবে না। ইবন কাসীর ও মাআরিফুল কুরআন যোগ করেন, যেটুকু সাহায্য থাকবে তা আসবে কেবল আল্লাহর অনুমতিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Closing on His Name",
+          "bn": "শেষ কথা তাঁর নামে"
+        },
+        "p": [
+          {
+            "en": "Al-Infitar opened with the sky splitting and the graves overturned, and at its fifth verse a soul knows what it sent ahead and what it held back. The word nafs, soul, returns here twice: a soul that possesses nothing, for a soul that receives nothing from it. Between those verses stand the noble scribes of 82:10 to 82:12, writing. What a soul has on that Day is what it sent ahead; what it cannot count on is a rescue arranged by another soul on its own.",
+            "bn": "সূরা ইনফিতার শুরু হয়েছিল আকাশ ফেটে যাওয়া আর কবর উল্টে দেওয়ার কথা দিয়ে। পঞ্চম আয়াতে প্রত্যেক প্রাণ জেনে যায়, সে কী আগে পাঠিয়েছে আর কী পেছনে রেখে গেছে। 'নাফস' শব্দটি এখানে আবার ফিরে আসে, দুবার: এক প্রাণ, যার হাতে কিছু নেই, আরেক প্রাণের জন্য, যে তার কাছ থেকে কিছুই পাবে না। মাঝখানে ৮২:১০ থেকে ৮২:১২ আয়াতে সম্মানিত লেখকেরা লিখে চলেছেন। সেদিন প্রাণের সম্বল সেটুকুই, যা সে আগে পাঠিয়েছে। অন্য কেউ নিজে থেকে এসে তাকে উদ্ধার করবে, এ ভরসা সেখানে নেই।"
+          },
+          {
+            "en": "Qatada's sentence also turns back on the present. If the command is Allah's today, then today is when to live under it, while obeying is still a choice. The people we count on now, a family that covers for us, friends who vouch for us, a name that opens doors, are real help in this world, and none of it crosses over. As-Sa'di's line about rights points to the task that cannot wait: returning what we owe to others while our own hands can still return it. Ibn Kathir, al-Qurtubi and Ma'arif al-Qur'an close the surah with praise of Allah.",
+            "bn": "কাতাদার কথাটি বর্তমানের দিকেও ফিরে তাকায়। হুকুম যদি আজও আল্লাহর হয়, তবে তা মেনে চলার সময় আজই, যখন মানা না-মানা এখনো নিজের বেছে নেওয়ার বিষয়। আজ যাদের উপর ভরসা করি, যে পরিবার আমাদের দোষ ঢেকে রাখে, যে বন্ধুরা আমাদের হয়ে সাক্ষ্য দেয়, যে পরিচয় দেখালে দরজা খুলে যায়, দুনিয়াতে এসব সত্যিকারের সাহায্য। কিন্তু এর কিছুই ওপারে যায় না। হক নিয়ে সা'দীর কথা সেই কাজের দিকে ইশারা করে যা ফেলে রাখা চলে না: মানুষের পাওনা ফিরিয়ে দেওয়া, যতক্ষণ নিজের হাতে তা ফেরানো যায়। ইবন কাসীর, কুরতুবী ও মাআরিফুল কুরআন সূরাটির তাফসীর শেষ করেছেন আল্লাহর প্রশংসা দিয়ে।"
+          }
+        ]
+      }
+    ]
   }
 });

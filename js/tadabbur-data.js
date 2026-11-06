@@ -29525,6 +29525,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The stars that seem fixed will one day fall and scatter; build on what lasts, and send ahead now the deeds you would want to find on that Day.",
     "lessonBn": "যে তারাগুলোকে অটল মনে হয়, একদিন সেগুলোও ঝরে ছড়িয়ে পড়বে। তাই যা টিকে থাকে তার ওপর ভর করুন, আর সেদিন যে আমল সামনে পেতে চান তা এখনই আগে পাঠান।"
+  },
+  "82:19": {
+    "reflectionEn": "Twice the surah asks what the Day of Recompense is, and then it answers in nine words: a Day when no soul will possess anything for another soul, and the command that Day is Allah's. Think of everyone you lean on now: a parent who smooths things over, a friend who vouches for you, a name that opens doors. On that Day none of them will hold anything to give you, and you will hold nothing to give them. The command is His today as well; what changes then is that no one contests it. So the time to put things right, with Him and with anyone I have wronged, is now, while my own hands can still act.",
+    "reflectionBn": "দুবার প্রশ্ন আসে, কর্মফলের দিনটি কী? তারপর উত্তর আসে নয়টি শব্দে: সেদিন কেউ কারও জন্য কিছুই করার ক্ষমতা রাখবে না, আর সেদিন সব হুকুম আল্লাহর। আজ যাদের উপর ভরসা করি, একবার তাদের কথা ভাবুন। বাবা-মা, যাঁরা সব সামলে নেন। বন্ধু, যে আমার হয়ে কথা বলে। পরিচয়, যা দেখালেই দরজা খুলে যায়। সেদিন তাদের কারও হাতে আমাকে দেওয়ার মতো কিছু থাকবে না, আমার হাতেও তাদের জন্য কিছু থাকবে না। হুকুম আজও তাঁরই। তফাত শুধু এই, সেদিন কেউ তা নিয়ে আপত্তি তুলবে না। তাই আল্লাহর সঙ্গে আর যাদের উপর অন্যায় করেছি তাদের সঙ্গে হিসাব মেটানোর সময় এখনই, যতক্ষণ নিজের হাতে কিছু করার সুযোগ আছে।",
+    "pointsEn": [
+      "Whose help am I quietly counting on to cover for me, in this life and in the next?",
+      "If no one could speak for me on that Day, which of my deeds would I most want to have done differently?",
+      "Is there someone I have wronged whose right I could return this week, while I still can?",
+      "When I say the command belongs to Allah, do I live as though it is His today, or only on that Day?",
+      "Do I lean on the goodness of my family or my circle as though it will be counted to my account?"
+    ],
+    "pointsBn": [
+      "দুনিয়ায় আর আখিরাতে আমাকে আড়াল করে রাখবে, এমন কার সাহায্যের উপর আমি মনে মনে ভরসা করে আছি?",
+      "সেদিন যদি কেউ আমার হয়ে একটা কথাও বলতে না পারে, আমার কোন আমলটা অন্যভাবে করলে ভালো হতো?",
+      "এমন কেউ কি আছে যার উপর আমি অন্যায় করেছি, আর এ সপ্তাহেই তার হক ফিরিয়ে দিতে পারি, যতক্ষণ সুযোগ আছে?",
+      "হুকুম আল্লাহর, এ কথা মুখে বলি। কিন্তু চলি কি এমনভাবে যেন হুকুম আজও তাঁর, নাকি শুধু সেদিনের জন্য?",
+      "পরিবারের বা আশপাশের মানুষদের নেকির উপর কি এমনভাবে ভরসা করি, যেন তা আমার হিসাবে জমা হবে?"
+    ],
+    "lessonEn": "No one will be able to carry you on that Day, and the command is Allah's now as it will be then; settle what you owe Him and others while you still can.",
+    "lessonBn": "সেদিন কেউ আপনাকে বয়ে নিয়ে যেতে পারবে না, আর হুকুম তখন যেমন আল্লাহর, এখনও তেমনই। তাই সময় থাকতে আল্লাহর হক আর মানুষের হক মিটিয়ে নিন।"
   }
 };
 
