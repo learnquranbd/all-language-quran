@@ -28927,6 +28927,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ease in this life is a trust, not a right. Stubborn refusal of Allah's signs is warned of a hard ascent, so accept the smaller climbs the truth asks of you now.",
     "lessonBn": "দুনিয়ার স্বাচ্ছন্দ্য আমানত, পাওনা নয়। আল্লাহর নিদর্শনকে জেদ করে প্রত্যাখ্যান করলে কঠিন চড়াইয়ের হুঁশিয়ারি আছে। তাই সত্য আজ যে ছোট চড়াইগুলো চায়, এখনই সেগুলো মেনে নিন।"
+  },
+  "74:34": {
+    "reflectionEn": "Three oaths come in a row: by the moon, by the night as it turns its back, and by the morning when it brightens. Only then comes what they were sworn for, a warning about the Fire. The word used for the morning's brightening also describes a face that lights up, a face uncovered, and darkness swept away like dust from a floor. What the night hid now lies open. I see this happen every day and almost never stop to notice it. The warning that follows was given so that I would see my road clearly while there is still light to walk it. Tomorrow, when the sky pales before sunrise, will I let it remind me of that?",
+    "reflectionBn": "পরপর তিনটি কসম: চাঁদের কসম, রাতের কসম যখন সে পিঠ ফিরিয়ে চলে যায়, আর প্রভাতের কসম যখন তা আলোয় ভরে ওঠে। তারপরই আসে সেই কথা, যার জন্য এত কসম: জাহান্নামের সতর্কবাণী। প্রভাতের উজ্জ্বল হওয়া বোঝাতে যে শব্দ এসেছে, সেই শব্দই বলা হয় এমন চেহারার বেলায় যা ঝলমল করে ওঠে, যে চেহারা থেকে আবরণ সরে যায়। আবার অন্ধকার ঝেড়ে ফেলার বেলায়ও বলা হয়, মেঝে থেকে ধুলো ঝাড়ু দেওয়ার মতো। রাত যা ঢেকে রেখেছিল, তা এখন খোলা। রোজ এ দৃশ্য দেখি, অথচ একবারও থেমে তাকাই না। পরের সতর্কবাণী এসেছে যাতে আলো থাকতে থাকতেই নিজের পথটা পরিষ্কার দেখতে পাই। কাল ভোরে আকাশ যখন ফিকে হয়ে আসবে, আমি কি তাকে এ কথা মনে করিয়ে দিতে দেব?",
+    "pointsEn": [
+      "When did I last watch a dawn arrive on purpose, and what did I think about while it did?",
+      "What in my life has been lying in the dark that I already know a little light would show plainly?",
+      "A warning is a kind of light. Do I treat the warnings in the Qur'an as threats to avoid, or as a lamp for the road?",
+      "If the night always turns, what darkness am I treating as though it will never end?",
+      "What could I do in tomorrow's first hour so that the morning brightens on something I am glad to be seen doing?"
+    ],
+    "pointsBn": [
+      "শেষ কবে ইচ্ছা করে ভোর হওয়া দেখেছি? তখন মনে কী ভাবনা চলছিল?",
+      "আমার জীবনের কোন জিনিস অন্ধকারে পড়ে আছে, যা একটু আলো পড়লেই স্পষ্ট দেখা যাবে, আর তা আমি আগে থেকেই কিছুটা জানি?",
+      "সতর্কবাণীও এক রকম আলো। কুরআনের সতর্কবাণীকে আমি কি এড়িয়ে যাওয়ার মতো হুমকি ভাবি, নাকি পথ দেখানোর বাতি?",
+      "রাত যদি সব সময়ই ফিরে যায়, তবে কোন অন্ধকারকে আমি এমনভাবে নিয়েছি যেন তা কখনো শেষ হবে না?",
+      "কাল সকালের প্রথম ঘণ্টায় কী করলে ভোরের আলো আমাকে এমন কাজে পাবে, যা দেখা গেলে আমি খুশি হব?"
+    ],
+    "lessonEn": "Every brightening morning is one of His signs: the night does turn, and His warning has been made plain so you can choose your road while there is light.",
+    "lessonBn": "প্রতিটি উজ্জ্বল ভোর তাঁর নিদর্শন: রাত সত্যিই ফিরে যায়, আর তাঁর সতর্কবাণী স্পষ্ট করে দেওয়া হয়েছে, যাতে আলো থাকতে থাকতেই আপনি নিজের পথ বেছে নিতে পারেন।"
   }
 };
 

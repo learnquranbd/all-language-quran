@@ -871,6 +871,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "74:34": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Third Oath, at Daybreak",
+          "bn": "ভোরবেলার তৃতীয় কসম"
+        },
+        "p": [
+          {
+            "en": "Wa-s-subhi idha asfara: and by the morning when it brightens. These three Arabic words close a run of three oaths that opened in 74:32 with kalla, and by the moon, and went on in 74:33 with the night as it turns away. The very next verse, 74:35, is where the oaths come to rest: innaha la-ihda al-kubar, it is one of the greatest things. So this verse is a hinge. It finishes the swearing, and a listener held through three oaths is now ready to hear what they were sworn for.",
+            "bn": "ওয়াস-সুবহি ইযা আসফারা: আর প্রভাতের কসম, যখন তা উজ্জ্বল হয়ে ওঠে। আরবিতে মাত্র তিনটি শব্দ। এগুলো দিয়েই শেষ হয় তিন কসমের একটি ধারা। ধারাটি শুরু হয়েছিল ৭৪:৩২ আয়াতে, কাল্লা আর চাঁদের কসম দিয়ে। এরপর ৭৪:৩৩ আয়াতে এল রাতের কসম, যখন সে ফিরে যায়। ঠিক পরের আয়াত ৭৪:৩৫-এ কসমগুলো গিয়ে থামে: ইন্নাহা লা-ইহদাল কুবার, নিশ্চয়ই তা ভয়াবহ বিষয়গুলোর একটি। তাই এ আয়াত যেন দরজার কবজা। কসমের পালা এখানে শেষ। তিনটি কসম শুনে শ্রোতা এবার তৈরি, যে কথার জন্য এত কসম তা শোনার জন্য।"
+          },
+          {
+            "en": "What the opening kalla pushes back against is set out in the article on 74:31 and 74:32, so only its outline is needed here. At-Tabari reads it as a rebuttal: it is not as the man said who claimed he could hold off Hell's keepers from his idolater companions. The Muyassar reads a rejection of their denial of the Messenger. Al-Qurtubi relays at-Tabari's rebuttal and adds that Allah then swore upon it by the moon and what follows. As-Sa'di instead glosses kalla as truly, or as the opening particle ala, and al-Baghawi calls it an oath meaning truly.",
+            "bn": "শুরুর কাল্লা শব্দটি কোন কথাকে ঠেলে সরায়, তার বিস্তারিত আলোচনা আছে ৭৪:৩১ ও ৭৪:৩২ আয়াতের প্রবন্ধে। এখানে শুধু মোটা দাগটুকু। তাবারীর কাছে এটি খণ্ডন: ব্যাপারটা তেমন নয়, যেমনটা সেই লোক দাবি করেছিল যে মুশরিক সঙ্গীদের হয়ে সে জাহান্নামের রক্ষীদের ঠেকিয়ে দেবে। মুয়াসসার এতে দেখে রাসূলকে মিথ্যা বলার প্রত্যাখ্যান। কুরতুবী তাবারীর এই খণ্ডনের কথা উল্লেখ করে বলেন, এরপর আল্লাহ এর উপর কসম করেছেন চাঁদ ও তার পরের জিনিসগুলোর। অন্যদিকে সা'দী কাল্লার অর্থ করেন 'সত্যিই', অথবা 'আলা', যে শব্দ দিয়ে আরবিতে কথা শুরু করা হয়। বাগাভী বলেন, এটি কসম, অর্থ 'সত্যিই'।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shone, Came On, Grew Clear",
+          "bn": "আলো ফুটল, সব স্পষ্ট হলো"
+        },
+        "p": [
+          {
+            "en": "The commentators gloss asfara with a handful of near words. At-Tabari says it means ada'a, it shone, and gives Qatada's fuller line: when it shone and came on, ada'a wa aqbala. Ibn Kathir's Arabic has ashraqa, it lit up, which the English abridgement renders as when it shines. Al-Baghawi writes ada'a wa tabayyana, it shone and became clear. The Muyassar paraphrases the oath as by the morning when it shone and was uncovered, ada'a wa-nkashafa. Al-Qurtubi opens with a single word, da'a, it gave light.",
+            "bn": "আসফারা শব্দের ব্যাখ্যায় মুফাসসিরগণ কাছাকাছি কয়েকটি শব্দ ব্যবহার করেন। তাবারী বলেন, এর অর্থ আদাআ, আলো ছড়াল। সঙ্গে আনেন কাতাদার আরেকটু খোলা কথা: যখন তা আলো ছড়াল আর এগিয়ে এল, আদাআ ওয়া আকবালা। ইবন কাসীরের আরবি তাফসীরে আছে আশরাকা, ঝলমল করে উঠল। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ লিখেছে, যখন তা আলো দেয়। বাগাভী লেখেন আদাআ ওয়া তাবাইয়ানা: আলো ছড়াল আর স্পষ্ট হলো। মুয়াসসার কসমটির ভাবার্থ করে এভাবে: প্রভাতের কসম, যখন তা আলোকিত হলো আর উন্মুক্ত হলো, আদাআ ওয়ানকাশাফা। কুরতুবী শুরু করেন একটিমাত্র শব্দে: দাআ, আলো দিল।"
+          },
+          {
+            "en": "As-Sa'di folds the verse into his paraphrase of all three oaths: and by the day at the time of its isfar, its brightening. None of these glosses contradicts another; each lights a different side of the word. Qatada's aqbala adds arrival, the morning coming forward as the night of 74:33 withdraws. Al-Baghawi's tabayyana adds that things become distinct and can be told apart. The Muyassar's inkashafa adds uncovering, as when a cover is lifted. Together they describe more than an hour of the clock: light arrives, and what was hidden is seen.",
+            "bn": "সা'দী তিনটি কসমের ভাবার্থ একসঙ্গে বলেছেন, আর এ আয়াত তার মধ্যেই এসেছে: আর দিনের কসম, তার ইসফারের সময়, অর্থাৎ যখন তা উজ্জ্বল হয়ে ওঠে। এই ব্যাখ্যাগুলোর কোনোটি অন্যটির বিরোধী নয়। প্রতিটি শব্দটির একেকটা দিকে আলো ফেলে। কাতাদার আকবালা যোগ করে আগমনের ভাব: ৭৪:৩৩ আয়াতের রাত সরে যাচ্ছে, আর ভোর সামনে এগিয়ে আসছে। বাগাভীর তাবাইয়ানা বলে, জিনিসগুলো আলাদা করে চেনা যাচ্ছে। মুয়াসসারের ইনকাশাফা যোগ করে উন্মোচন, যেন ঢাকনা তুলে নেওয়া হলো। সব মিলিয়ে কথাটা ঘড়ির একটা সময়ের চেয়ে বেশি কিছু: আলো আসে, আর যা লুকানো ছিল তা দেখা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Face Unveiled, a Floor Swept",
+          "bn": "খোলা মুখ, ঝাড়ু দেওয়া মেঝে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the word its widest frame. The common reading is asfara, with an alif; Ibn as-Samayqa' read safara, and al-Qurtubi calls the two dialect forms of one word. One says safara or asfara of a man's face when it shone; asfara wajhuhu husnan means his face lit up with beauty. And safarat al-mar'ah means a woman uncovered her face, so she is called safir. Set beside these uses, the verse's morning reads like the face of the day showing itself, though that image is this article's, drawn from his examples.",
+            "bn": "কুরতুবী শব্দটিকে সবচেয়ে বড় পরিসরে দেখান। সাধারণ কিরাআত আলিফসহ আসফারা। ইবনুস সামাইকা' পড়েছেন সাফারা। কুরতুবীর মতে দুটো একই শব্দের দুই আঞ্চলিক রূপ। কারও চেহারা উজ্জ্বল হলে আরবরা বলে সাফারা, আবার বলে আসফারা। আসফারা ওয়াজহুহু হুসনান মানে সৌন্দর্যে তার মুখ ঝলমল করে উঠল। আর সাফারাতিল মারআহ মানে নারী তার মুখের আবরণ সরাল, তাই তাকে বলা হয় সাফির। এসব ব্যবহার পাশাপাশি রাখলে আয়াতের ভোরকে মনে হয় দিনের মুখ, যা নিজেকে মেলে ধরছে। তবে এ ছবিটা এই প্রবন্ধের, কুরতুবীর উদাহরণ থেকে নেওয়া, তাঁর নিজের বলা কথা নয়।"
+          },
+          {
+            "en": "He then allows a second derivation. Asfara may come from safara al-zalam, it swept the darkness away, as a house is swept. From this, he says, comes safir, the leaves that fall from trees and scatter, so named because the wind sweeps them; and misfarah, a broom. On this reading the morning does not only shine; it clears the night out, the way a broom clears a floor. Al-Qurtubi introduces it with yajuzu, it is possible, so it stands beside the first meaning as an allowed reading, not in place of it.",
+            "bn": "এরপর তিনি শব্দটির আরেকটি উৎসের সম্ভাবনা রাখেন। আসফারা আসতে পারে সাফারায যালাম থেকে, অর্থাৎ অন্ধকার ঝেড়ে ফেলল, যেমন ঘর ঝাড়ু দেওয়া হয়। তিনি বলেন, এখান থেকেই এসেছে সাফির: গাছ থেকে ঝরে পড়া পাতা, যা ছড়িয়ে যায়। নামটা এমন, কারণ বাতাস সেগুলোকে ঝেঁটিয়ে নেয়। আর মিসফারাহ মানে ঝাড়ু। এ অর্থে ভোর শুধু আলো দেয় না, ঝাড়ু যেমন মেঝে সাফ করে, তেমনি রাতকেও সাফ করে দেয়। কুরতুবী কথাটা শুরু করেন ইয়াজুযু দিয়ে, মানে 'হতে পারে'। তাই এটি প্রথম অর্থের জায়গা নেয় না, তার পাশে একটি অনুমোদিত ব্যাখ্যা হিসেবে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Idh Adbara, or Idha Dabara",
+          "bn": "ইয আদবারা, নাকি ইযা দাবারা"
+        },
+        "p": [
+          {
+            "en": "The preceding verse, 74:33, is read two ways, and the argument over it turns partly on this verse. At-Tabari reports that most readers of Madinah and Basrah read idh adbara, and some readers of Makkah and Kufah idha dabara. Al-Qurtubi names Nafi', Hamzah and Hafs for idh adbara, the form in the Arabic shown with these verses, and the rest for idha dabara. At-Tabari judges both to be well-known readings, sound in meaning: whichever of them a reciter follows, he is right.",
+            "bn": "এর আগের আয়াত ৭৪:৩৩ দুইভাবে পড়া হয়। আর সেই মতভেদের যুক্তি অনেকটা এই আয়াতের উপর এসে দাঁড়ায়। তাবারী জানান, মদীনা ও বসরার অধিকাংশ কারী পড়েছেন ইয আদবারা, আর মক্কা ও কূফার কিছু কারী পড়েছেন ইযা দাবারা। কুরতুবী নাম ধরে বলেন, নাফি', হামযা ও হাফস পড়েছেন ইয আদবারা। এখানে আয়াতের যে আরবি পাঠ দেখানো হয়েছে, তা এই রূপেই। বাকিরা পড়েছেন ইযা দাবারা। তাবারীর রায়: দুটোই সুপরিচিত কিরাআত, দুটোর অর্থই সঠিক। কারী যেটাই পড়ুন, তিনি ঠিক পড়েছেন।"
+          },
+          {
+            "en": "On the meaning, at-Tabari holds that dabara and adbara are two forms with one sense. He cites the Arab saying qabbaha Allahu ma qabila minhu wa ma dabara, and notes that the exegetes drew no distinction between the two readings when explaining them. Al-Qurtubi gives the same view from al-Farra' and al-Akhfash. A dissent comes from Qutrub, reported by both al-Qurtubi and al-Baghawi: dabara means came behind, as the Arabs say dabarani fulan, he came after me. Al-Baghawi explains that the night comes behind the day.",
+            "bn": "অর্থের দিক থেকে তাবারীর মত, দাবারা আর আদবারা একই অর্থের দুই রূপ। প্রমাণ হিসেবে তিনি আরবদের একটি প্রচলিত কথা আনেন: কাব্বাহাল্লাহু মা কাবিলা মিনহু ওয়া মা দাবারা। সঙ্গে বলেন, তাফসীরকারেরা ব্যাখ্যা করার সময় দুই কিরাআতের মধ্যে কোনো পার্থক্য করেননি। কুরতুবী একই মত আনেন ফাররা' ও আখফাশ থেকে। ভিন্নমত আসে কুতরুব থেকে, যা কুরতুবী ও বাগাভী দুজনেই উল্লেখ করেন। তাঁর মতে দাবারা মানে পেছন পেছন এল। আরবরা বলে দাবারানী ফুলান, অমুক আমার পেছনে এল। বাগাভী বুঝিয়ে বলেন, রাত তো দিনের পেছন পেছনই আসে।"
+          },
+          {
+            "en": "Here 74:34 enters the case. Al-Baghawi says the others read idha dabara because it agrees better with what follows, wa-s-subhi idha asfara, and because beside the oaths of the Qur'an one finds idha, never idh. Al-Qurtubi reports the same reasoning as Abu 'Ubayd's, who chose idha because it fits better with the words that follow. At-Tabari does not raise the parallel at all. He kept both readings as sound, so the morning's idha remains a support for one reading rather than a verdict against the other.",
+            "bn": "এখানেই ৭৪:৩৪ আয়াত আলোচনায় ঢুকে পড়ে। বাগাভী বলেন, অন্যরা ইযা দাবারা পড়েছেন, কারণ তা পরের আয়াত ওয়াস-সুবহি ইযা আসফারা-র সঙ্গে বেশি মেলে। আরেকটি কারণ, কুরআনে কসমের পাশে ইযা আসে, ইয কখনো আসে না। কুরতুবী একই যুক্তি উল্লেখ করেন আবু উবাইদের নামে। পরের শব্দগুলোর সঙ্গে বেশি মেলে বলে তিনি ইযা বেছে নিয়েছিলেন। তাবারী কিন্তু এই মিলের প্রসঙ্গই তোলেননি। দুটো কিরাআতকেই তিনি সঠিক রেখেছেন। তাই এ আয়াতের ইযা একটি কিরাআতের পক্ষে সমর্থন মাত্র, অন্যটির বিরুদ্ধে রায় নয়।"
+          },
+          {
+            "en": "The glosses on the night itself differ a little. Qatada, in at-Tabari, says idh adbara means when it turned away, and Ibn Kathir's Arabic says the same in one word, walla. A narration from Ibn 'Abbas in at-Tabari says instead that its dabur is its growing dark. Al-Qurtubi adds a report from Mujahid: he asked Ibn 'Abbas about wal-layli idha dabara, and Ibn 'Abbas kept silent until the night had turned, then said, Mujahid, this is when the night dabara.",
+            "bn": "রাতের ব্যাখ্যাতেও সামান্য পার্থক্য আছে। তাবারীর বর্ণনায় কাতাদা বলেন, ইয আদবারা মানে যখন তা মুখ ফিরিয়ে চলে গেল। ইবন কাসীরের আরবি তাফসীর একই কথা বলে এক শব্দে: ওয়াল্লা। অন্যদিকে তাবারীতেই ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আছে, রাতের দুবূর মানে তার অন্ধকার ঘনিয়ে আসা। কুরতুবী মুজাহিদের একটি বর্ণনাও আনেন। তিনি ইবন আব্বাস (রাঃ)-কে ওয়াল-লাইলি ইযা দাবারা সম্পর্কে জিজ্ঞেস করেছিলেন। ইবন আব্বাস চুপ করে রইলেন। রাত যখন পেরিয়ে গেল, তখন বললেন: মুজাহিদ, এটাই সেই সময়, যখন রাত দাবারা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Swearing Secures",
+          "bn": "কসমের পরের ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi names 74:35 as the answer of the oath, jawab al-qasam: indeed this Fire is one of the kubar, the great calamities. As-Sa'di says the same in his own terms: what is sworn upon is innaha, it, meaning the Fire, one of the momentous things. At-Tabari and the Muyassar also take it to be the Fire, and Ibn Kathir names Ibn 'Abbas, Mujahid, Qatada and ad-Dahhak for that view. Al-Qurtubi also records a report from Ibn 'Abbas that it is their denial of Muhammad ﷺ, and an unattributed view that it is the rising of the Hour.",
+            "bn": "কুরতুবী ৭৪:৩৫ আয়াতকে কসমের জবাব বলেছেন, জাওয়াবুল কাসাম: নিশ্চয়ই এই আগুন কুবারের একটি, অর্থাৎ ভয়াবহ বিপদগুলোর একটি। সা'দী নিজের ভাষায় একই কথা বলেন: যার উপর কসম, তা হলো ইন্নাহা। এখানে 'তা' মানে আগুন, যা গুরুতর বিষয়গুলোর একটি। তাবারী ও মুয়াসসারও একে আগুন বলেই ধরেছেন। ইবন কাসীর এ মতের পক্ষে নাম দেন ইবন আব্বাস, মুজাহিদ, কাতাদা ও দাহহাকের। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনাও আনেন: 'তা' মানে মুহাম্মাদ ﷺ-কে তাদের মিথ্যা বলা। আর কারও নাম ছাড়া একটি মত আনেন যে, এর অর্থ কিয়ামতের সংঘটন।"
+          },
+          {
+            "en": "So al-Qurtubi gives two ways of seeing what the morning oath serves. On 74:32 he says that after the rebuttal Allah swore upon it, by the moon and what follows; on 74:35 he calls that verse the answer. The two fit together: the oaths confirm that the boast was empty and that what was warned of is real and great. What the Fire is like belongs to the verses that describe it, not to this one. And this verse answers one boast in its own setting; it licenses nothing against any living person or community.",
+            "bn": "তাহলে প্রভাতের কসম কোন কাজে এসেছে, তা দেখার দুটি পথ কুরতুবী দেখিয়েছেন। ৭৪:৩২ আয়াতে তিনি বলেন, খণ্ডনের পর আল্লাহ এর উপর কসম করেছেন চাঁদ ও তার পরের জিনিসগুলোর। আর ৭৪:৩৫ আয়াতে তিনি সেই আয়াতকে বলেন কসমের জবাব। দুটো একসঙ্গেই চলে। কসমগুলো নিশ্চিত করে যে দম্ভটা ছিল ফাঁপা, আর যে বিষয়ে সতর্ক করা হলো তা সত্য ও ভয়াবহ। আগুনের বিবরণ তার নিজের আয়াতগুলোর কাজ, এ আয়াতের নয়। আর এ আয়াত নিজের প্রেক্ষাপটে একজনের দম্ভের জবাব দিয়েছে। আজকের কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Signs Folded Into an Oath",
+          "bn": "কসমের ভাঁজে নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "Why swear by these three? Of the commentaries fetched for this verse, only as-Sa'di gives a reason. Allah swore by the moon, by the night as it turns, and by the day as it brightens, he says, because the things named contain great signs of Allah, pointing to the perfection of His power and His wisdom, the breadth of His authority, the reach of His mercy and the compass of His knowledge. On his reading the things sworn by are themselves evidence: they already testify to Him who swears by them.",
+            "bn": "এই তিনটির কসম কেন? এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার মধ্যে কারণ বলেছেন শুধু সা'দী। তিনি বলেন, আল্লাহ চাঁদের কসম করেছেন, ফিরে যাওয়া রাতের কসম করেছেন, উজ্জ্বল হয়ে ওঠা দিনের কসম করেছেন, কারণ এগুলোর মধ্যে আল্লাহর বড় বড় নিদর্শন আছে। সেই নিদর্শনগুলো তাঁর পূর্ণ কুদরত ও হিকমতের দিকে ইশারা করে, তাঁর ক্ষমতার বিস্তার, তাঁর রহমতের ব্যাপ্তি আর তাঁর জ্ঞানের সর্বব্যাপিতার দিকে। তাঁর পাঠে যেগুলোর কসম করা হলো, সেগুলো নিজেরাই প্রমাণ। যিনি কসম করছেন, তাঁর পক্ষে ওরা আগে থেকেই সাক্ষী।"
+          },
+          {
+            "en": "As-Sa'di also says why the warning is given. Having named the Fire as one of the momentous things, he goes on: so when We have informed you of it, and you are on clear sight, basirah, about its matter, then whoever wills goes forward. What follows here is this article's own reflection, not a commentator's claim. The glosses above make the morning an hour of shining, uncovering and becoming clear, and the warning sworn by it is meant to leave people seeing clearly. An oath by an uncovering suits a warning meant to uncover.",
+            "bn": "সতর্কবাণী কেন দেওয়া হলো, তাও সা'দী বলেন। আগুনকে গুরুতর বিষয়গুলোর একটি বলার পর তিনি লেখেন: আমি যখন তোমাদের তা জানিয়ে দিলাম আর এর ব্যাপারে তোমরা বাসীরাহ বা পরিষ্কার দৃষ্টির উপর আছ, তখন যার ইচ্ছা সে সামনে এগোবে। এরপর যা আসছে, তা এই প্রবন্ধের নিজস্ব ভাবনা, কোনো মুফাসসিরের দাবি নয়। উপরের ব্যাখ্যাগুলোয় ভোর মানে আলো ছড়ানো, ঢাকনা সরে যাওয়া আর সব স্পষ্ট হওয়ার সময়। আর এর কসম খেয়ে যে সতর্কবাণী এল, তার লক্ষ্যও মানুষকে পরিষ্কার দেখানো। উন্মোচনের কসম তাই উন্মোচন করতে আসা সতর্কবাণীর সঙ্গে বেশ মানানসই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Isfar in the Dawn Prayer",
+          "bn": "ফজরের নামাযে ইসফার"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reaches for a further use of the word, and it leads to the dawn prayer: in the hadith, asfiru bil-fajr, fa-innahu a'zamu lil-ajr. At-Tirmidhi records it (154) from Rafi' ibn Khadij, who said: I heard the Messenger of Allah ﷺ saying, Perform Fajr at al-isfar, for indeed its reward is greater. At-Tirmidhi grades it hasan sahih. The hadith is not about this verse, and no tafsir fetched for 74:34 attaches any hadith to the verse itself; al-Qurtubi cites it only to show the word in use.",
+            "bn": "শব্দটির আরেকটি ব্যবহার কুরতুবী সামনে আনেন, আর তা নিয়ে যায় ফজরের নামাযে। হাদীসে আছে: আসফিরূ বিল-ফাজরি, ফাইন্নাহু আ'যামু লিল-আজর। তিরমিযী (১৫৪) হাদীসটি বর্ণনা করেছেন রাফি' ইবন খাদীজ (রাঃ) থেকে। তিনি বলেন, আমি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছি: ইসফারের সময় ফজর আদায় করো, কারণ এতে সওয়াব বেশি। তিরমিযী একে হাসান সহীহ বলেছেন। হাদীসটি এ আয়াত নিয়ে নয়। ৭৪:৩৪ আয়াতের জন্য দেখা কোনো তাফসীর আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি। কুরতুবী এটি এনেছেন শুধু শব্দটির ব্যবহার দেখাতে।"
+          },
+          {
+            "en": "What isfar asks of the worshipper is a question at-Tirmidhi himself leaves with two answers. He reports that several of the Companions and their successors held to praying Fajr in the brightening, and that Sufyan ath-Thawri said so; while ash-Shafi'i, Ahmad and Ishaq said that isfar means the dawn has become clear beyond doubt, and did not take it to mean delaying the prayer. Al-Qurtubi likewise gives two glosses: pray Fajr in the brightness, or lengthen it until the brightening. This article takes no side; for practice, follow the scholars you trust.",
+            "bn": "ইসফার নামাযীর কাছে কী চায়, এ প্রশ্নে তিরমিযী নিজেই দুটি উত্তর রেখে গেছেন। তিনি জানান, সাহাবী ও তাবিঈদের একাধিক জন আলো ফোটার পর ফজর পড়ার মত রাখতেন, আর সুফইয়ান সাওরীও তা-ই বলতেন। অন্যদিকে শাফিঈ, আহমাদ ও ইসহাক বলেছেন, ইসফার মানে ভোর এমনভাবে স্পষ্ট হওয়া যে তাতে আর সন্দেহ থাকে না। তাঁরা একে নামায পিছিয়ে দেওয়ার অর্থে নেননি। কুরতুবীও দুটি ব্যাখ্যা দেন: আলো ফুটলে ফজর পড়ো, অথবা নামায লম্বা করে ইসফার পর্যন্ত নিয়ে যাও। এ প্রবন্ধ কোনো পক্ষ নিচ্ছে না। আমলের জন্য আপনার আস্থার আলেমদের অনুসরণ করুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Dawn, a Small Reminder",
+          "bn": "প্রতিটি ভোর এক ছোট স্মরণ"
+        },
+        "p": [
+          {
+            "en": "The verses that follow call the Fire a warning to humankind, for whoever among you wills to go forward or to stay behind. The Muyassar explains going forward as drawing near to the Lord by acts of obedience, and staying behind as lagging through sins. As-Sa'di says going forward is doing what brings a person near to his Lord and His pleasure, and staying behind is turning from what Allah loves to acts of disobedience. The morning oath stands just before that choice: first the night turns and the day grows bright, then the warning, then the open question of which way each person will walk.",
+            "bn": "পরের আয়াতগুলো আগুনকে বলে মানুষের জন্য সতর্কবাণী, তোমাদের মধ্যে যে সামনে এগোতে চায় কিংবা পিছিয়ে থাকতে চায়, তার জন্য। মুয়াসসারের ব্যাখ্যায় সামনে এগোনো মানে আনুগত্যের আমল দিয়ে রবের নিকটবর্তী হওয়া, আর পিছিয়ে থাকা মানে গুনাহের কারণে পেছনে পড়ে যাওয়া। সা'দী বলেন, এগোনো মানে এমন আমল করা যা বান্দাকে রবের ও তাঁর সন্তুষ্টির কাছে নিয়ে যায়। আর পিছিয়ে থাকা মানে আল্লাহ যা ভালোবাসেন তা ছেড়ে নাফরমানিতে লেগে যাওয়া। প্রভাতের কসম ঠিক সেই বাছাইয়ের আগে দাঁড়িয়ে। আগে রাত ফিরে যায়, দিন উজ্জ্বল হয়। তারপর সতর্কবাণী। তারপর খোলা প্রশ্ন: কে কোন পথে হাঁটবে।"
+          },
+          {
+            "en": "This article's own closing thought: the morning sworn by here is not rare. It comes every day, to everyone who reads the verse, and whoever rises for Fajr meets it in the hours around that prayer. Each such morning can be heard as a small repetition of the oath: the night does turn, and what it hid is made plain. The question the verse leaves is not whether the light will come. It is what the light will find each of us doing when it does, and which way we will have chosen to walk.",
+            "bn": "শেষে এই প্রবন্ধের নিজস্ব একটি ভাবনা। এখানে যে ভোরের কসম, তা দুর্লভ কিছু নয়। আয়াতটি যে পড়ে, তার কাছে রোজই সে আসে। আর যে ফজরের জন্য ওঠে, নামাযের আগে-পরের সময়টায় তার সঙ্গে দেখা হয়ে যায়। এমন প্রতিটি সকালকে কসমের ছোট্ট এক পুনরাবৃত্তি হিসেবে শোনা যায়: রাত সত্যিই ফিরে যায়, আর সে যা ঢেকে রেখেছিল তা স্পষ্ট হয়ে ওঠে। আয়াত যে প্রশ্ন রেখে যায়, তা আলো আসবে কি না, সে প্রশ্ন নয়। প্রশ্ন হলো, আলো এসে আমাদের প্রত্যেককে কী করতে দেখবে, আর আমরা কোন পথ বেছে নিয়েছি।"
+          }
+        ]
+      }
+    ]
+  },
   "74:38": {
     "sections": [
       {
