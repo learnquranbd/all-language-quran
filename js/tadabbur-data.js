@@ -24649,6 +24649,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Count your knowledge as a gift, not an achievement: answer it with praise of the Giver, act on it, and never imagine it has lifted you above everyone.",
     "lessonBn": "নিজের জ্ঞানকে কৃতিত্ব নয়, দান হিসেবে দেখুন: দাতার প্রশংসা দিয়ে এর জবাব দিন, সে অনুযায়ী আমল করুন, আর কখনো ভাববেন না যে এটি আপনাকে সবার উপরে তুলে দিয়েছে।"
+  },
+  "27:69": {
+    "reflectionEn": "The deniers have just called the raising of the dead an old tale passed down from the ancients. The reply does not open with a proof on paper. It hands them a road: travel through the land, then look at how the end came for those who lived by crime. The ancients are not a tale; their empty places still stand along the way. Whoever was warned and laughed met the end he was warned of, and that is reason to take the rest of the warning seriously. The first command is for the feet and the second for the heart. Do I only pass by what I am shown, or do I stop and read it? And do I hear the warning while the way back is still open?",
+    "reflectionBn": "অবিশ্বাসীরা এইমাত্র বলেছে, মৃতদের আবার জীবিত করার কথা পুরনো কালের লোকদের মুখে মুখে চলে আসা গল্প মাত্র। জবাবটা কাগজে আঁকা কোনো যুক্তি দিয়ে শুরু হয় না। তাদের হাতে তুলে দেওয়া হয় একটা পথ: দেশে দেশে ঘুরে দেখো, তারপর তাকিয়ে দেখো অপরাধে জীবন কাটানো লোকদের শেষটা কেমন হয়েছিল। আগের লোকেরা গল্প নয়। তাদের শূন্য জনপদ আজও পথের ধারে দাঁড়িয়ে আছে। যাকে সতর্ক করা হয়েছিল আর যে তা নিয়ে হেসেছিল, সতর্কবাণীর সেই পরিণামই তার উপর নেমেছে। তাহলে বাকি সতর্কবাণীটাও হালকাভাবে নেওয়ার নয়। প্রথম আদেশ পায়ের জন্য, দ্বিতীয়টা অন্তরের জন্য। যা আমাকে দেখানো হয়, আমি কি শুধু পাশ কাটিয়ে চলে যাই, নাকি থেমে তা পড়ি? আর ফেরার পথ যতক্ষণ খোলা, ততক্ষণে কি সতর্কবাণীটা কানে তুলি?",
+    "pointsEn": [
+      "When I pass an old ruin, a closed shop or an emptied house, do I ever stop and ask what brought it to its end?",
+      "Which warning have I heard so often that it has started to sound like an old story to me?",
+      "When I look at what happened to others, do I look only with my eyes, or also with my heart?",
+      "Where in my own life am I persisting in something I already know is wrong, trusting that its end will not reach me?",
+      "If the end of the deniers is a reason to trust the messengers, what part of their message am I still treating as a tale?"
+    ],
+    "pointsBn": [
+      "পুরনো ধ্বংসাবশেষ, বন্ধ হয়ে যাওয়া দোকান বা খালি পড়ে থাকা বাড়ির পাশ দিয়ে যাওয়ার সময় আমি কি কখনো থেমে ভাবি, কিসে এর এমন শেষ হলো?",
+      "কোন সতর্কবাণী এত বার শুনেছি যে এখন তা আমার কানে পুরনো গল্পের মতো শোনায়?",
+      "অন্যদের পরিণতির দিকে যখন তাকাই, তখন কি শুধু চোখ দিয়ে দেখি, নাকি অন্তর দিয়েও দেখি?",
+      "নিজের জীবনের কোথায় আমি জেনেশুনে কোনো ভুলে লেগে আছি, এই ভরসায় যে তার পরিণাম আমাকে ছোঁবে না?",
+      "অস্বীকারকারীদের পরিণাম যদি রাসূলদের সত্যতার প্রমাণ হয়, তবে তাঁদের বার্তার কোন অংশকে আমি এখনো গল্প বলে ধরে রেখেছি?"
+    ],
+    "lessonEn": "Walk the land and read how those who mocked the warning came to their end; then take the warning seriously yourself while the way back is still open.",
+    "lessonBn": "দেশে দেশে ঘুরে পড়ে নিন, যারা সতর্কবাণী নিয়ে ঠাট্টা করেছিল তাদের শেষটা কেমন হয়েছিল। তারপর ফেরার পথ খোলা থাকতেই সতর্কবাণীটা নিজে গুরুত্বের সঙ্গে নিন।"
   }
 };
 

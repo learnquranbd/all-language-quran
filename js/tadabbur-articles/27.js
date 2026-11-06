@@ -2163,6 +2163,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:69": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Road for a Sneer",
+          "bn": "ঠাট্টার জবাবে একটা পথ"
+        },
+        "p": [
+          {
+            "en": "The two verses before this quote the deniers. They ask whether they and their fathers will really be brought out once they are dust (27:67), and then they wave the whole matter away: we were promised this before, we and our fathers, and it is nothing but the legends of the ancients (27:68). Ibn Kathir, in the abridged English commentary, explains what they meant by legends: things the earlier peoples took from books passed along from hand to hand, with no basis in reality.",
+            "bn": "এর আগের দুই আয়াতে অস্বীকারকারীদের কথা উদ্ধৃত হয়েছে। তারা প্রশ্ন তোলে, মাটি হয়ে যাওয়ার পর তাদের আর তাদের বাপদাদাদের কি সত্যিই বের করে আনা হবে (২৭:৬৭)? তারপর পুরো ব্যাপারটাই উড়িয়ে দেয়: এ ওয়াদা তো আমাদের আর আমাদের বাপদাদাদের আগেও দেওয়া হয়েছে, এ আগের লোকদের উপকথা ছাড়া কিছু নয় (২৭:৬৮)। উপকথা বলতে তারা কী বোঝাত, ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর তা খুলে বলে। এগুলো নাকি আগের লোকেরা কিতাব থেকে নিয়েছিল, হাতে হাতে চলে এসেছে, বাস্তবে যার কোনো ভিত্তি নেই।"
+          },
+          {
+            "en": "Then comes the reply, in nine Arabic words: qul siru fi al-ardi fa-nzuru kayfa kana ʿaqibatu al-mujrimin, say: travel through the land and see how the end of the criminals was. Ibn Kathir, in the Arabic, calls it Allah answering them about the disbelief they harboured and their denial of the Return. At-Tabari names the addressees as the people who called false the news the Prophet ﷺ had brought them from his Lord.",
+            "bn": "তারপর আসে জবাব, আরবিতে মাত্র নয়টি শব্দে: কুল সীরূ ফিল আরদি ফানযুরূ কাইফা কানা আকিবাতুল মুজরিমীন। বলো, দেশে দেশে ভ্রমণ করো, তারপর দেখো অপরাধীদের পরিণাম কেমন হয়েছিল। আরবি তাফসীরে ইবন কাসীর বলেন, তাদের মনে যে কুফর ছিল আর আখিরাতে ফেরাকে তারা যে অস্বীকার করত, এ তারই জবাবে আল্লাহর কথা। তাবারী বলেন, কথাটা তাদের উদ্দেশে, যারা নবী ﷺ-এর আনা রবের খবরগুলোকে মিথ্যা বলেছিল।"
+          },
+          {
+            "en": "What is striking is the kind of answer it is. The deniers spoke of the ancients as a story heard secondhand. The verse does not argue with the story; it sends them out to where the ancients actually lived. Read this way, the reply turns their own word back on them. The former peoples are not a legend at all. Their end left marks in the land, and anyone willing to walk can go and look at them.",
+            "bn": "লক্ষ করার মতো ব্যাপার হলো জবাবের ধরনটা। অস্বীকারকারীরা আগের লোকদের কথা বলেছিল লোকমুখে শোনা গল্পের মতো করে। আয়াতটি সেই গল্প নিয়ে তর্কে নামে না। তাদের পাঠিয়ে দেয় সেই জায়গায়, যেখানে আগের লোকেরা সত্যিই বাস করত। এভাবে পড়লে জবাবটা তাদের নিজেদের কথাই তাদের দিকে ফিরিয়ে দেয়। আগের জাতিগুলো মোটেই উপকথা নয়। তাদের পরিণামের চিহ্ন মাটিতে রয়ে গেছে, আর যে হাঁটতে রাজি, সে গিয়ে নিজের চোখে দেখে আসতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walk First, Then Look",
+          "bn": "আগে হাঁটা, তারপর দেখা"
+        },
+        "p": [
+          {
+            "en": "The verse gives two commands joined by fa, then: siru, travel, and fa-nzuru, so look. The walking is for the sake of the looking. At-Tabari spells out what there is to see. Look, he says, at the dwellings of those before you who called Allah's messengers liars, and at their homes, how they are now. Did Allah not lay them waste and destroy their people for denying their messengers and throwing back at them their sincere counsel?",
+            "bn": "আয়াতে দুটি আদেশ, মাঝখানে ফা, অর্থাৎ তারপর: সীরূ, ভ্রমণ করো, আর ফানযুরূ, তারপর দেখো। হাঁটার উদ্দেশ্য দেখা। কী দেখার আছে, তাবারী তা খুলে বলেন। তোমাদের আগে যারা আল্লাহর রাসূলদের মিথ্যাবাদী বলেছিল, তাদের বসতি আর ঘরবাড়ির দিকে তাকাও, দেখো সেগুলো আজ কেমন। রাসূলদের অস্বীকার করার জন্য, আর তাঁদের আন্তরিক নসিহত তাঁদের মুখের উপর ফিরিয়ে দেওয়ার জন্য আল্লাহ কি সেগুলো উজাড় করে দেননি, বাসিন্দাদের ধ্বংস করে দেননি?"
+          },
+          {
+            "en": "He goes on in a phrase worth hearing slowly: so the dwellings were emptied of them, and the marks and traces they left were effaced. At-Tabari then names what the sight is meant to teach: that was the end their crime came to. The Muyassar gives the same picture more briefly. Look at the dwellings of the criminals who came before you, it says, and see how the end came for those who denied the messengers: Allah destroyed them for their denial.",
+            "bn": "এরপর তাবারী এমন একটা কথা বলেন, যা ধীরে শোনার মতো: বসতিগুলো তাদের থেকে খালি হয়ে গেল, তাদের রেখে যাওয়া চিহ্ন আর নিদর্শনগুলো মুছে গেল। তারপর তিনি বলে দেন দৃশ্যটা কী শেখানোর জন্য: এটাই ছিল তাদের অপরাধের পরিণাম। মুয়াসসার একই ছবি আরও সংক্ষেপে দেয়। তোমাদের আগের অপরাধীদের বসতির দিকে তাকাও, দেখো রাসূলদের অস্বীকারকারীদের শেষটা কেমন হয়েছিল। তাদের অস্বীকারের কারণে আল্লাহ তাদের ধ্বংস করে দিয়েছিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi adds two things. He gives the land a map: travel, he has the Prophet ﷺ tell them, through the lands of ash-Sham, the Hijaz and Yemen. And he says what kind of looking is meant: look with your hearts and your insight. The eyes can take in a broken wall in a moment and move on. What the verse asks for is the second look, the one that asks why the wall is broken and what that says about the one looking.",
+            "bn": "কুরতুবী দুটি কথা যোগ করেন। প্রথমত তিনি দেশের একটা মানচিত্র দেন। তাঁর ভাষ্যে নবী ﷺ তাদের বলবেন, শাম, হিজায আর ইয়েমেনের দেশগুলোতে ঘুরে দেখো। দ্বিতীয়ত তিনি বলেন কেমন দেখা উদ্দেশ্য: অন্তর আর অন্তর্দৃষ্টি দিয়ে দেখো। ভাঙা দেয়াল চোখে পড়তে এক মুহূর্ত লাগে, তারপর চোখ সরে যায়। আয়াত চায় দ্বিতীয়বার তাকানো। দেয়ালটা কেন ভাঙল, আর যে তাকাচ্ছে তার জন্য এতে কী কথা আছে, সেই প্রশ্ন নিয়ে তাকানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Word Criminals Names",
+          "bn": "অপরাধী বলতে কারা"
+        },
+        "p": [
+          {
+            "en": "Al-mujrimin, the criminals, could sound like a word for thieves and killers. The commentators fetched here read it more narrowly. Ibn Kathir glosses it as those who called the messengers liars, along with what the messengers brought them about the Return and other matters. Al-Qurtubi says the criminals who called their messengers liars. At-Tabari and the Muyassar speak throughout of those who denied the messengers. The crime the verse has in view, on their reading, is the denial itself.",
+            "bn": "আল-মুজরিমীন, অপরাধীরা, শব্দটা শুনলে চোর-খুনির কথা মনে আসতে পারে। এখানে যে তাফসীরগুলো দেখা হয়েছে, সেগুলো শব্দটাকে আরও নির্দিষ্ট অর্থে পড়ে। ইবন কাসীর বলেন, এরা তারা, যারা রাসূলদের মিথ্যাবাদী বলেছিল, আর আখিরাতে ফেরা ও অন্যান্য বিষয়ে রাসূলরা যা এনেছিলেন তা-ও মিথ্যা বলেছিল। কুরতুবীর ভাষায়, যে অপরাধীরা নিজেদের রাসূলদের মিথ্যাবাদী বলেছিল। তাবারী আর মুয়াসসার পুরোটা জুড়েই রাসূলদের অস্বীকারকারীদের কথা বলেন। তাঁদের পাঠে আয়াত যে অপরাধের কথা বলছে, তা হলো এই অস্বীকারটাই।"
+          },
+          {
+            "en": "That reading fits the passage exactly. The people being answered have just denied the raising of the dead, and Ibn Kathir names the Return among the things the earlier deniers rejected. So the verse is not pointing them to strangers whose sins were of some other kind. It points them to people who did what they themselves are doing, heard a messenger speak of what lies ahead, and called it false.",
+            "bn": "এ পাঠ আয়াতের প্রসঙ্গের সঙ্গে পুরোপুরি মেলে। যাদের জবাব দেওয়া হচ্ছে, তারা এইমাত্র মৃতদের পুনরুত্থান অস্বীকার করেছে। আর আগের অস্বীকারকারীরা যা যা প্রত্যাখ্যান করেছিল, ইবন কাসীর তার মধ্যে আখিরাতে ফেরার কথাও উল্লেখ করেন। তাই আয়াত তাদের এমন অচেনা লোকদের দিকে ইঙ্গিত করছে না, যাদের গুনাহ ছিল অন্য রকম। ইঙ্গিত করছে তাদেরই মতো লোকদের দিকে, যারা রাসূলের মুখে সামনের দিনের কথা শুনে তা মিথ্যা বলেছিল।"
+          },
+          {
+            "en": "As-Sa'di draws the circle wider. You will not find a criminal, he writes, who persisted in his crime but that his end was the worst of ends, and Allah brought upon him the evil and punishment that befitted his state. He does not limit the word to deniers of messengers; he speaks of any criminal who keeps on. The two readings sit side by side. The others name the crime this passage has in view; as-Sa'di states the pattern under which every persisting crime falls.",
+            "bn": "সা'দী বৃত্তটা আরও বড় করে আঁকেন। তিনি লেখেন, এমন কোনো অপরাধী তোমরা পাবে না, যে অপরাধে লেগে থেকেছে অথচ তার শেষটা সবচেয়ে মন্দ হয়নি। আল্লাহ তার উপর এমন অনিষ্ট আর শাস্তি নামিয়েছেন, যা তার অবস্থার উপযুক্ত। তিনি শব্দটাকে শুধু রাসূলদের অস্বীকারকারীদের মধ্যে সীমাবদ্ধ রাখেন না। যে-ই অপরাধে লেগে থাকে, তার কথাই বলেন। দুই পাঠ পাশাপাশি থাকে। অন্যরা বলেন এ প্রসঙ্গে কোন অপরাধের কথা হচ্ছে। সা'দী বলেন সেই নিয়মের কথা, যার আওতায় লেগে থাকা প্রতিটি অপরাধ পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruins as Witness for the Return",
+          "bn": "ধ্বংসাবশেষ যখন আখিরাতের সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "A question arises at once. The deniers doubted the raising of the dead; how does a ruined town answer that? Ibn Kathir gives the reasoning. See, he says, how Allah's vengeance, punishment and exemplary penalty came down on them, and how Allah rescued from among them His noble messengers and the believers who followed them. That, he concludes, pointed to the truthfulness and soundness of what the messengers had brought. The argument does not go straight to the grave. It goes through the messenger.",
+            "bn": "সঙ্গে সঙ্গে একটা প্রশ্ন জাগে। অস্বীকারকারীরা সন্দেহ করেছিল মৃতদের জীবিত হওয়া নিয়ে। ধ্বংস হয়ে যাওয়া এক জনপদ সে প্রশ্নের জবাব দেয় কীভাবে? ইবন কাসীর যুক্তিটা দেখিয়ে দেন। দেখো, আল্লাহর প্রতিশোধ, আযাব আর দৃষ্টান্তমূলক শাস্তি কীভাবে তাদের উপর নেমেছিল, আর তাদের মাঝ থেকে আল্লাহ কীভাবে তাঁর সম্মানিত রাসূলদের ও তাঁদের অনুসারী মুমিনদের রক্ষা করেছিলেন। তাঁর সিদ্ধান্ত: এটাই রাসূলদের আনা বার্তার সত্যতা ও যথার্থতার দিকে ইঙ্গিত করল। যুক্তিটা সোজা কবরের দিকে যায় না। যায় রাসূলের ভেতর দিয়ে।"
+          },
+          {
+            "en": "As-Sa'di frames the verse the same way: here, he says, Allah alerted them to the truth of what the messengers had told. Set out step by step, the reasoning runs like this. The earlier deniers rejected a message that, in Ibn Kathir's words, included the Return. At-Tabari and the Muyassar say they were destroyed for that denial, and what came of it can still be seen along the road. When a messenger is proven right in what can be checked, his word about what cannot yet be seen deserves to be believed.",
+            "bn": "সা'দীও আয়াতটাকে এভাবেই দেখেন। তাঁর ভাষায়, এখানে আল্লাহ তাদের সতর্ক করে দিলেন রাসূলদের দেওয়া খবরের সত্যতার ব্যাপারে। ধাপে ধাপে সাজালে যুক্তিটা দাঁড়ায় এমন। ইবন কাসীরের কথা অনুযায়ী, আগের অস্বীকারকারীরা যে বার্তা প্রত্যাখ্যান করেছিল, তার মধ্যে আখিরাতে ফেরার কথাও ছিল। তাবারী আর মুয়াসসার বলেন, এই অস্বীকারের কারণেই তারা ধ্বংস হয়েছিল। তার ফল আজও পথের ধারে দেখা যায়। যা যাচাই করা যায়, তাতে রাসূল যখন সত্য প্রমাণিত, তখন যা এখনো চোখে দেখা যায় না, সে ব্যাপারে তাঁর কথাও বিশ্বাসের দাবি রাখে।"
+          },
+          {
+            "en": "The rescue matters to the argument as much as the ruin. A disaster alone could be called chance, the kind of thing that happens to towns. Ibn Kathir's sentence pairs the destruction with a deliverance: the messengers and those who believed with them were brought out of it. An end that falls on one side and spares the other, along the very line the messenger drew, is not blind. It shows that someone is keeping account, and a Lord who keeps account in this world has told us He will keep it in the next.",
+            "bn": "যুক্তির জন্য ধ্বংসের মতোই জরুরি রক্ষা পাওয়ার ঘটনাটা। শুধু বিপর্যয় হলে তাকে কপালের ফের বলা যেত, জনপদে এমন তো ঘটেই। কিন্তু ইবন কাসীরের বাক্যে ধ্বংসের পাশে আছে মুক্তি: রাসূলরা আর তাঁদের সঙ্গে যারা ঈমান এনেছিল, তাদের সেখান থেকে বের করে আনা হয়েছিল। রাসূল যে রেখা টেনেছিলেন, ঠিক সেই রেখা ধরে যে পরিণাম এক পক্ষের উপর নামে আর অন্য পক্ষকে রেহাই দেয়, তা অন্ধ নয়। তা দেখায়, কেউ একজন হিসাব রাখছেন। আর যে রব এই দুনিয়াতে হিসাব রাখেন, তিনিই জানিয়েছেন আখিরাতেও হিসাব নেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Way of Your Lord",
+          "bn": "তোমাদের রবের রীতি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the ruins in the past. After saying that the emptied dwellings were the end of their crime, he adds: and that is the sunna of your Lord in everyone who walks their path in calling the messengers of their Lord liars. Sunna here means a settled way of dealing, a pattern that holds. What happened to those towns, on this reading, was not a one-off event. It was a rule shown at work, and a rule shown once can be expected again.",
+            "bn": "তাবারী ধ্বংসাবশেষগুলোকে অতীতে ফেলে রাখেন না। খালি পড়ে থাকা বসতিগুলো তাদের অপরাধের পরিণাম, এ কথা বলার পর তিনি যোগ করেন: যারাই নিজেদের রবের রাসূলদের মিথ্যাবাদী বলার পথে চলে, তাদের সবার বেলায় এটাই তোমাদের রবের সুন্নাহ। সুন্নাহ মানে এখানে আচরণের এক স্থির রীতি, এমন নিয়ম যা বদলায় না। এই পাঠে সেই জনপদগুলোর সঙ্গে যা ঘটেছে, তা একবারের কোনো ঘটনা ছিল না। ছিল একটা নিয়মের কাজ করার দৃশ্য। আর যে নিয়ম একবার কাজ করতে দেখা গেছে, তা আবারও কাজ করবে বলে ধরে নেওয়া যায়।"
+          },
+          {
+            "en": "Then he turns the rule toward the listeners: and Allah will do that to you, if you do not hasten to turn back from your disbelief and your denial of your Lord's messenger. The Muyassar ends on the same note: Allah will do to you the like of what He did to them, if you do not believe. This is why the verse sends them travelling. A history read as someone else's story stays at a distance. Read as the working of a rule, it arrives at the reader's own door.",
+            "bn": "তারপর তিনি নিয়মটা শ্রোতাদের দিকে ঘুরিয়ে দেন: তোমরা যদি কুফর আর রবের রাসূলকে অস্বীকার করা থেকে দ্রুত ফিরে না আসো, তবে আল্লাহ তোমাদের সঙ্গেও তাই করবেন। মুয়াসসারও একই কথায় শেষ করে: তোমরা ঈমান না আনলে আল্লাহ তোমাদের সঙ্গেও তাদের মতোই করবেন। এ কারণেই আয়াত তাদের ভ্রমণে পাঠায়। ইতিহাসকে অন্যের গল্প হিসেবে পড়লে তা দূরেই থেকে যায়। একটা নিয়মের কাজ হিসেবে পড়লে তা পাঠকের নিজের দরজায় এসে দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Threat That Carries an If",
+          "bn": "শর্তসহ সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "Look at how these commentators phrase the threat: a condition appears every time. At-Tabari says it will happen if you do not hasten to turn back, using the word inaba, a turning back in repentance. The Muyassar says if you do not believe. As-Sa'di speaks of the criminal who persisted in his crime. None of them describes a sentence already passed on the people being addressed. Each describes an end that waits at the close of a road, for the one who keeps walking it.",
+            "bn": "এই তাফসীরকারেরা হুমকিটা কোন ভাষায় বলেছেন, খেয়াল করে দেখলে প্রতিবারই একটা শর্ত চোখে পড়ে। তাবারী বলেন, তোমরা যদি দ্রুত ফিরে না আসো। এখানে তিনি ইনাবা শব্দ ব্যবহার করেন, যার মানে তওবা করে ফিরে আসা। মুয়াসসার বলে, যদি ঈমান না আনো। সা'দী বলেন সেই অপরাধীর কথা, যে অপরাধে লেগে থেকেছে। যাদের সম্বোধন করা হচ্ছে, তাদের উপর আগেই রায় হয়ে গেছে, এমন কথা কেউ বলেন না। প্রত্যেকে এমন এক পরিণামের কথা বলেন, যা পথের শেষ মাথায় অপেক্ষা করছে, যে সেই পথে হাঁটতেই থাকে তার জন্য।"
+          },
+          {
+            "en": "That changes how the verse should feel. A warning that carries a condition is also an offer. The surah says as much a few verses later: your Lord is the possessor of bounty toward people, but most of them are not grateful (27:73). The ruins are severe, but they are shown to the living, and to be shown is to be given time.",
+            "bn": "এতে আয়াতটা পড়ার অনুভূতি বদলে যায়। শর্তযুক্ত সতর্কবাণী একই সঙ্গে একটা সুযোগও। কয়েক আয়াত পরে সূরা নিজেই বলে: তোমার রব মানুষের প্রতি অনুগ্রহশীল, কিন্তু তাদের বেশিরভাগই কৃতজ্ঞতা প্রকাশ করে না (২৭:৭৩)। ধ্বংসাবশেষের দৃশ্য কঠিন, কিন্তু তা দেখানো হয় জীবিতদের। আর দেখানো মানেই সময় দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Say It, Then Do Not Grieve",
+          "bn": "বলে দাও, তারপর দুঃখ কোরো না"
+        },
+        "p": [
+          {
+            "en": "The next verse turns from the deniers to the Prophet ﷺ, who must answer them: and do not grieve over them, nor be distressed by what they plot (27:70). Ibn Kathir, in the abridged commentary, reads it as comfort for the Prophet ﷺ: do not feel sorry for them or destroy yourself with regret over them. Nor be straitened because they plot against you and reject what you have brought, for Allah will help and support you and make your religion prevail over those who stubbornly oppose you.",
+            "bn": "পরের আয়াত অস্বীকারকারীদের থেকে সরে আসে তাঁর দিকে, যাঁকে তাদের জবাব দিতে হবে: তাদের জন্য দুঃখ কোরো না, আর তাদের চক্রান্তে মন ছোট কোরো না (২৭:৭০)। সংক্ষিপ্ত তাফসীরে ইবন কাসীর একে নবী ﷺ-এর জন্য সান্ত্বনা হিসেবে পড়েন। তাদের জন্য আফসোস কোরো না, দুঃখে নিজেকে শেষ করে দিও না। তারা তোমার বিরুদ্ধে চক্রান্ত করে আর তোমার আনা বার্তা ফিরিয়ে দেয় বলে মন সংকুচিত কোরো না। আল্লাহ তোমাকে সাহায্য করবেন, পাশে থাকবেন, আর যারা জেদ করে বিরোধিতা করে, তাদের উপর তোমার দ্বীনকে বিজয়ী করবেন।"
+          },
+          {
+            "en": "The two verses belong together. In 27:69 the Prophet ﷺ is given words to say; in 27:70 he is released from carrying their outcome. His task is to point to the road and say look. Whether they walk it, and what they see when they do, is not his burden to bear in grief. Among the commentaries fetched for this verse, none attaches a hadith to it, so the passage is left to speak in its own words and in theirs.",
+            "bn": "দুটি আয়াত একসঙ্গে পড়ার মতো। ২৭:৬৯ আয়াতে নবী ﷺ-কে বলার কথা দেওয়া হয়েছে। ২৭:৭০ আয়াতে তার ফলাফলের বোঝা থেকে তাঁকে মুক্তি দেওয়া হয়েছে। তাঁর কাজ পথটা দেখিয়ে দিয়ে বলা, তাকিয়ে দেখো। তারা সে পথে হাঁটবে কি না, আর হাঁটলে কী দেখবে, সে দুঃখের ভার তাঁর বইবার নয়। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই আয়াতটি নিজের ভাষায় আর তাফসীরকারদের ভাষায়ই কথা বলুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Road, Not a Verdict",
+          "bn": "পথ দেখানো, রায় দেওয়া নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: earlier peoples who, in the commentators' words, called their messengers liars and were destroyed for it. It licenses nothing against any living person or community. It gives no one the right to call a present-day people criminals, to name a site or a town and declare it a place of punishment, or to point at a flood or a ruin in someone else's land and announce what it means. Beyond al-Qurtubi's list of regions, the commentators fetched here do not name which peoples are meant.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা তার ভাষা বর্ণনা করে: তাফসীরকারদের কথায়, আগের সেই জাতিগুলো, যারা নিজেদের রাসূলদের মিথ্যাবাদী বলেছিল আর সে কারণে ধ্বংস হয়েছিল। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো জাতিকে অপরাধী বলার অধিকার কাউকে দেয় না। কোনো জায়গা বা শহরের নাম ধরে সেটাকে আযাবের স্থান ঘোষণা করার, কিংবা অন্যের দেশে বন্যা বা ধ্বংসাবশেষ দেখে তার মানে বলে দেওয়ার অধিকারও দেয় না। কুরতুবীর দেওয়া অঞ্চলের নামের বাইরে এখানে দেখা তাফসীরগুলো নির্দিষ্ট করে বলে না, কোন কোন জাতির কথা হচ্ছে।"
+          },
+          {
+            "en": "Notice who is sent to look, and why. The command is given to those denying the Return, and its aim, in at-Tabari's reading, is that they hasten to turn back. The verse is a summons to self-examination, not a tool for passing sentence. Al-Qurtubi's gloss makes the same point from the other side: the looking is done with the heart and with insight. Whoever stands among old walls and comes away only with a judgement about other people has used the eyes and skipped the heart.",
+            "bn": "খেয়াল করুন, তাকিয়ে দেখতে কাকে পাঠানো হচ্ছে, আর কেন। আদেশটা দেওয়া হয়েছে আখিরাতে ফেরা অস্বীকারকারীদের, আর তাবারীর পাঠে এর লক্ষ্য হলো তারা যেন দ্রুত ফিরে আসে। আয়াত নিজেকে যাচাই করার ডাক, অন্যের উপর রায় দেওয়ার হাতিয়ার নয়। কুরতুবীর ব্যাখ্যা উল্টো দিক থেকে একই কথা বলে: দেখতে হবে অন্তর দিয়ে, অন্তর্দৃষ্টি দিয়ে। কেউ যদি পুরনো দেয়ালের মাঝে দাঁড়িয়ে শুধু অন্য মানুষদের নিয়ে একটা রায় নিয়ে ফেরে, তবে সে চোখ ব্যবহার করেছে, অন্তরটা বাদ দিয়ে গেছে।"
+          },
+          {
+            "en": "So the verse comes home as a habit of travel. Every road passes things that once stood and no longer do. The verse asks that I stop long enough to read them, and then ask the harder question: is there a warning I have heard so often that it now sounds to me like the legends of the ancients? If those who laughed at the warning met its end, the rest of what the messengers said is not a tale either. The road is still open, and so is the way back.",
+            "bn": "তাই আয়াতটা ঘরে ফেরে ভ্রমণের এক অভ্যাস হয়ে। প্রতিটি পথের ধারেই এমন কিছু পড়ে, যা একসময় দাঁড়িয়ে ছিল, এখন আর নেই। আয়াত চায় আমি থেমে সেগুলো পড়ি, তারপর কঠিন প্রশ্নটা করি। এমন কোনো সতর্কবাণী কি আছে, যা এত বার শুনেছি যে এখন আমার কানে তা আগের লোকদের উপকথার মতো শোনায়? সতর্কবাণী নিয়ে যারা হেসেছিল, তারা যদি তার পরিণাম দেখে থাকে, তবে রাসূলদের বাকি কথাগুলোও গল্প নয়। পথ এখনো খোলা, ফেরার পথও খোলা।"
+          }
+        ]
+      }
+    ]
+  },
   "27:75-76": {
     "sections": [
       {
