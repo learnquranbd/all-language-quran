@@ -287,6 +287,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "69:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "The List Runs On",
+          "bn": "তালিকা এখনো চলছে"
+        },
+        "p": [
+          {
+            "en": "The surah opens on al-Haqqa, the Inevitable Reality, and in 69:4 names two peoples who denied it, Thamud and 'Ad. Verses 69:5 to 69:7 tell how each was destroyed, and 69:8 closes their account with a question: do you see of them any remains? This verse then widens the list. As-Sa'di reads it as a continuation: likewise, besides those two transgressing nations, 'Ad and Thamud, others came of the tyrants and the insolent. The past has not finished speaking when the wind dies down.",
+            "bn": "সূরাটি শুরু হয় আল-হাক্কাহ দিয়ে, সেই অনিবার্য সত্য। ৬৯:৪ আয়াতে নাম আসে দুই জাতির, যারা একে মিথ্যা বলেছিল: সামূদ আর ‘আদ। ৬৯:৫ থেকে ৬৯:৭ আয়াতে বলা হয় কে কীভাবে ধ্বংস হলো। ৬৯:৮ আয়াত তাদের কথা শেষ করে একটি প্রশ্নে: তাদের কাউকে কি অবশিষ্ট দেখতে পাও? এরপর এ আয়াত তালিকাটা আরও বড় করে। সা'দী একে আগের কথারই ধারাবাহিকতা হিসেবে পড়েন। তাঁর ভাষায়, সীমালঙ্ঘনকারী ওই দুই জাতি ‘আদ ও সামূদের মতোই, তাদের বাইরেও আরও অনেক জালিম ও উদ্ধত এসেছিল। বাতাস থেমে গেলেও অতীতের কথা ফুরায় না।"
+          },
+          {
+            "en": "The verse is built on a single verb. Wa-ja'a: and there came. Three subjects follow it: Fir'awn, Pharaoh; wa-man qablahu, and those before him; wa-l-mu'tafikat, and the overturned towns. Then one closing phrase, bi-l-khati'a, with the sinful deed, stands over all three. Al-Muyassar explains this verse and the next as one sentence: each nation among them disobeyed the messenger of its Lord whom He had sent to it, so Allah seized them with a seizure extreme in its severity. This article reads 69:9 with that next verse in view.",
+            "bn": "পুরো আয়াত দাঁড়িয়ে আছে একটিমাত্র ক্রিয়ার উপর: ওয়া জাআ, আর এল। তার পরে তিনটি কর্তা। প্রথমে ফিরআউন, অর্থাৎ ফেরাউন। তারপর ওয়া মান কাবলাহু, আর তার আগের লোকেরা। তারপর ওয়াল মু'তাফিকাত, আর উল্টে দেওয়া জনপদগুলো। শেষে একটি শব্দবন্ধ, বিল-খাতিআ, গুনাহের কাজ নিয়ে, যা তিনটির উপরই খাটে। মুয়াসসার এ আয়াত আর পরেরটিকে এক বাক্যে ব্যাখ্যা করে। তাদের প্রতিটি জাতি নিজেদের কাছে পাঠানো রবের রসূলের নাফরমানি করেছিল, ফলে আল্লাহ তাদের পাকড়াও করলেন চরম কঠিন পাকড়াওয়ে। এ লেখাও ৬৯:৯ পড়বে পরের আয়াতটি সামনে রেখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pharaoh, Placed in Company",
+          "bn": "সঙ্গীদের মাঝে ফেরাউন"
+        },
+        "p": [
+          {
+            "en": "Pharaoh stands first, and the commentators add little to his name. At-Tabari glosses it with a single word: Pharaoh of Misr, Egypt. Al-Muyassar calls him at-taghiya Fir'awn, the tyrant Pharaoh, which happens to be the very word 69:5 used for what destroyed Thamud. As-Sa'di gives one sentence: Pharaoh of Egypt, to whom Allah sent His servant and messenger Musa (AS), and whom He showed clear signs by which they became certain of the truth, yet they rejected and disbelieved, out of wrongdoing and haughtiness.",
+            "bn": "তালিকার প্রথমে ফেরাউন, আর তাফসীরকারেরা তার নামের সঙ্গে বেশি কিছু যোগ করেন না। তাবারী এক শব্দে বুঝিয়ে দেন: মিসরের ফেরাউন। মুয়াসসার তাকে বলে আত-তাগিয়া ফিরআউন, জালিম ফেরাউন। ঘটনাচক্রে এটি সেই শব্দই, যা ৬৯:৫ আয়াতে সামূদের ধ্বংসের বেলায় এসেছে। সা'দী লেখেন একটি বাক্য। মিসরের সেই ফেরাউন, যার কাছে আল্লাহ তাঁর বান্দা ও রসূল মূসা (আঃ)-কে পাঠিয়েছিলেন। তাকে তিনি এমন স্পষ্ট নিদর্শন দেখিয়েছিলেন যে সত্য নিয়ে তাদের মনে আর সন্দেহ থাকেনি। তবু জুলুম আর অহংকারের বশে তারা অস্বীকার করল, কুফরি করল।"
+          },
+          {
+            "en": "As-Sa'di's last words, zulman wa-'uluwwan, echo 27:14, where the same pair describes Pharaoh's people (the link is noted here, not by him). His story is told at length elsewhere in the Qur'an, and other articles in this collection follow it; this verse does not retell it, and neither does this article. What matters here is the company he is placed in. On as-Sa'di's reading, Pharaoh and his people did not lack evidence. They had the signs and were sure of them, and the refusal came from something other than doubt.",
+            "bn": "সা'দীর শেষ দুটি শব্দ, জুলমান ওয়া উলুওয়ান, ২৭:১৪ আয়াতের প্রতিধ্বনি। সেখানেও ফেরাউনের লোকদের বর্ণনায় এই জোড়াটি এসেছে। সংযোগটা এ লেখার নিজের পর্যবেক্ষণ, সা'দীর নয়। ফেরাউনের কাহিনি কুরআনের অন্য জায়গায় বিস্তারিত এসেছে, এ সংকলনের অন্য লেখাগুলোও তা অনুসরণ করেছে। এ আয়াত সে কাহিনি নতুন করে বলে না, এ লেখাও বলবে না। এখানে দেখার বিষয় হলো তাকে কাদের সঙ্গে দাঁড় করানো হয়েছে। সা'দীর পাঠে ফেরাউন ও তার লোকদের প্রমাণের অভাব ছিল না। নিদর্শন তারা পেয়েছিল, মনে মনে নিশ্চিতও ছিল। প্রত্যাখ্যানটা এসেছিল সন্দেহ থেকে নয়, অন্য কোথাও থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before Him, or Beside Him",
+          "bn": "তার আগে, নাকি তার সঙ্গে"
+        },
+        "p": [
+          {
+            "en": "The second subject is read two ways, and the difference lies in the vowels of one word. At-Tabari reports that the general body of readers of Madina, Kufa and Makka, except al-Kisa'i, read wa-man qablahu, with a fatha on the qaf and the ba' unvowelled: and those before him. The meaning, he says, is that the nations before Pharaoh which denied Allah's signs came with the sin, and he names them: the people of Nuh (AS), 'Ad, Thamud and the people of Lut (AS). This is the reading of the text printed above.",
+            "bn": "দ্বিতীয় কর্তাটি দুইভাবে পড়া হয়, আর পার্থক্যটা একটি শব্দের হরকতে। তাবারী জানান, মদীনা, কূফা আর মক্কার অধিকাংশ কারী, কিসাঈ ছাড়া, পড়েছেন ওয়া মান কাবলাহু। কাফে যবর, বায়ে সাকিন। অর্থ: আর তার আগের লোকেরা। তাবারীর ব্যাখ্যায়, ফেরাউনের আগে যেসব জাতি আল্লাহর আয়াতকে মিথ্যা বলেছিল, তারাও গুনাহ নিয়ে এসেছিল। তিনি তাদের নামও বলেন: নূহ (আঃ)-এর কওম, ‘আদ, সামূদ আর লূত (আঃ)-এর কওম। উপরে ছাপা আয়াতের পাঠ এটিই।"
+          },
+          {
+            "en": "The general body of the readers of Basra, with al-Kisa'i, read wa-man qibalahu, with a kasra on the qaf and a fatha on the ba'. At-Tabari explains it as: and there came with Pharaoh the people of his own land, Egypt, of the Copts. Al-Qurtubi names the readers as Abu 'Amr and al-Kisa'i and glosses it as those with him who followed him, of his troops. Al-Baghawi says the same: those with him, of his troops and followers. Ibn Kathir: those with him in his own time, his followers from among the disbelieving Copts.",
+            "bn": "বসরার অধিকাংশ কারী, সঙ্গে কিসাঈ, পড়েছেন ওয়া মান কিবালাহু। কাফে যের, বায়ে যবর। তাবারীর ব্যাখ্যায় এর অর্থ: ফেরাউনের সঙ্গে এসেছিল তার নিজের দেশ মিসরের কিবতীরা। কুরতুবী কারীদের নাম বলেন আবু আমর ও কিসাঈ। তাঁর ব্যাখ্যায় এরা ফেরাউনের সঙ্গী, যারা তার অনুসরণ করেছিল, তার সৈন্যবাহিনীর লোক। বাগাভীও একই কথা বলেন: তার সঙ্গে থাকা সৈন্য আর অনুসারীরা। ইবন কাসীরের ভাষায়: তার যুগে তার সঙ্গে যারা ছিল, কিবতীদের মধ্যে যারা কাফির হয়ে তার অনুসারী হয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi adds that Abu 'Ubayd and Abu Hatim preferred qibalahu, taking their cue from the reading of 'Abd Allah and Ubayy, wa-man ma'ahu, and those with him; Qatada, in at-Tabari, also mentions that some readings have man ma'ahu. Al-Qurtubi reports a further reading from Abu Musa al-Ash'ari, wa-man tilqa'ahu, those in his direction. At-Tabari lays out both main readings and does not choose: they are two well-known readings, each sound in meaning, and whoever reads with either is correct. One widens the list across time; the other widens it around Pharaoh himself.",
+            "bn": "কুরতুবী আরও জানান, আবু উবায়দ ও আবু হাতিম কিবালাহু পাঠকে অগ্রাধিকার দিয়েছেন। তাঁদের বিবেচনায় ছিল আবদুল্লাহ ও উবাইয়ের পাঠ, ওয়া মান মাআহু, আর যারা তার সঙ্গে ছিল। তাবারীর বর্ণনায় কাতাদাও উল্লেখ করেন যে কোনো কোনো পাঠে আছে মান মাআহু। আবু মূসা আশআরী থেকে কুরতুবী আরেকটি পাঠ আনেন: ওয়া মান তিলকাআহু, যারা তার দিকে ছিল। তাবারী প্রধান দুই পাঠ পাশাপাশি রাখেন, কোনোটিকে বাদ দেন না। তাঁর মতে দুটিই সুপরিচিত, অর্থের দিক থেকে দুটিই সঠিক, যে কোনোটি পড়লেই পাঠক ঠিক পড়লেন। একটি পাঠ তালিকাকে সময়ের পেছনে নিয়ে যায়, অন্যটি ছড়িয়ে দেয় ফেরাউনের চারপাশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Towns Turned Over",
+          "bn": "উল্টে দেওয়া জনপদ"
+        },
+        "p": [
+          {
+            "en": "The third subject is al-mu'tafikat. At-Tabari's own gloss: the towns that were overturned with their people, so that their highest part became their lowest. Qatada, by one chain in at-Tabari, says the town of Lut (AS); by another, the people of Lut, whose land was overturned with them. Ibn Zayd says the people of Lut, their city and their crops. Al-Qurtubi gives Qatada's reason for the name: the towns of Lut's people were called mu'tafikat because they were overturned with them. As-Sa'di and al-Muyassar likewise say the towns of the people of Lut.",
+            "bn": "তৃতীয় কর্তা আল-মু'তাফিকাত। তাবারীর নিজের ব্যাখ্যা: সেই জনপদগুলো, যা অধিবাসীদের নিয়েই উল্টে গিয়েছিল, ফলে উপরের অংশ চলে গিয়েছিল নিচে। তাবারীর এক সূত্রে কাতাদা বলেন, লূত (আঃ)-এর জনপদ। আরেক সূত্রে বলেন, লূতের কওম, যাদের নিয়ে তাদের ভূমি উল্টে গিয়েছিল। ইবন যায়দ বলেন, লূতের কওম, তাদের শহর আর তাদের ফসলের খেত। নামটা কেন, কুরতুবী সে কারণ জানান কাতাদার মুখে: লূতের কওমের জনপদগুলোকে মু'তাফিকাত বলা হয়, কারণ সেগুলো তাদের নিয়েই উল্টে গিয়েছিল। সা'দী আর মুয়াসসারও একই কথা বলেন, লূতের কওমের জনপদ।"
+          },
+          {
+            "en": "Al-Qurtubi adds two notes on the word itself. The general reading has the plural, with an alif; al-Hasan and al-Jahdari read al-mu'tafika, in the singular. And he relays from at-Tabari, through Muhammad ibn Ka'b al-Qurazi, that they were five towns, the greatest of them Sadum. The verse itself counts nothing and describes nothing of the overturning; other verses on Lut (AS) carry that account, and articles on them in this collection already follow it. Here the towns are simply the third name in a list of those who came with the sinful deed.",
+            "bn": "শব্দটি নিয়ে কুরতুবী আরও দুটি কথা যোগ করেন। সাধারণ পাঠে শব্দটি বহুবচন, আলিফসহ। হাসান ও জাহদারী পড়েছেন আল-মু'তাফিকা, একবচনে। তিনি তাবারীর বরাতে মুহাম্মাদ ইবন কা'ব কুরাযী থেকে আরও জানান, জনপদ ছিল পাঁচটি, সবচেয়ে বড়টি সাদূম। আয়াত নিজে কিছু গোনে না, উল্টে দেওয়ার কোনো বিবরণও দেয় না। সে কাহিনি আছে লূত (আঃ)-এর অন্য আয়াতগুলোতে, আর এ সংকলনের অন্য লেখা সেগুলো অনুসরণ করেছে। এখানে জনপদগুলো কেবল তালিকার তৃতীয় নাম। যারা গুনাহের কাজ নিয়ে হাজির হয়েছিল, তাদেরই একটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Place, or Every Denier",
+          "bn": "এক জনপদ, নাকি সব অস্বীকারকারী"
+        },
+        "p": [
+          {
+            "en": "Not every voice ties the word to Lut's towns alone. Al-Baghawi first says the towns of the people of Lut, meaning their inhabitants, and then gives a second reading under it is said: the nations that were overturned by their sin, that is, destroyed for their wrongdoing. Ibn Kathir describes them by their deed rather than their place: they are those who denied the messengers. And at-Tabari relays from Ibn 'Abbas, on the whole verse, a single word: the deniers. On al-Baghawi's second reading, the participle reaches past one place to every people destroyed for its sins.",
+            "bn": "সবাই শব্দটিকে শুধু লূতের জনপদের সঙ্গে বাঁধেন না। বাগাভী প্রথমে বলেন লূতের কওমের জনপদ, অর্থাৎ সেখানকার অধিবাসী। তারপর 'বলা হয়' কথাটি দিয়ে আনেন দ্বিতীয় একটি ব্যাখ্যা: সেই জাতিগুলো, যারা নিজেদের গুনাহের কারণে উল্টে গিয়েছিল, মানে অপরাধের দরুন ধ্বংস হয়েছিল। ইবন কাসীর তাদের চেনান জায়গা দিয়ে নয়, কাজ দিয়ে: এরা রসূলদের মিথ্যা বলেছিল। আর তাবারী পুরো আয়াত প্রসঙ্গে ইবন আব্বাস থেকে আনেন একটিমাত্র শব্দ: অস্বীকারকারীরা। বাগাভীর দ্বিতীয় ব্যাখ্যা মানলে শব্দটি এক জায়গা ছাড়িয়ে পৌঁছে যায় গুনাহের কারণে ধ্বংস হওয়া প্রতিটি জাতির কাছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an offers yet another sense. It says mu'tafikat means adjacent to one another, and that the towns of Lut (AS), Sodom and Gomorrah, were so called either because they lay beside each other, or because they were all jumbled together when the punishment overthrew them. A note by Muhammad Taqi Usmani adds that several commentators give the meaning overthrown, and that the translation in that work follows it. The English printed above, the overturned cities, follows the same sense, as do the Arabic commentators cited earlier.",
+            "bn": "মাআরিফুল কুরআন আরেকটি অর্থের কথা বলে। তার মতে মু'তাফিকাত মানে পরস্পর লাগোয়া। লূত (আঃ)-এর জনপদ সাদূম ও আমূরা এ নাম পেয়েছে হয় পাশাপাশি অবস্থানের জন্য, নয়তো আযাব যখন সেগুলো উল্টে দিল, তখন সব একসঙ্গে তালগোল পাকিয়ে গিয়েছিল বলে। মুহাম্মাদ তাকী উসমানীর একটি টীকা যোগ করে, অনেক তাফসীরকার এর অর্থ করেছেন উল্টে দেওয়া, আর ওই গ্রন্থের অনুবাদ সে অর্থই নিয়েছে। উপরে ছাপা ইংরেজি অনুবাদও একই অর্থ নিয়েছে, আগে উল্লেখ করা আরবি তাফসীরগুলোর মতোই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Naming the Sinful Deed",
+          "bn": "গুনাহের কাজটির নাম"
+        },
+        "p": [
+          {
+            "en": "The verse closes on bi-l-khati'a. Ibn Kathir and al-Qurtubi both read an unstated noun into it: bi-l-fi'la al-khati'a, by the sinning deed. At-Tabari restates it plainly: the sin. Al-Qurtubi also relays from al-Jurjani that the word is a verbal noun, meaning the great error. So the phrase can be heard as describing a deed, or as naming a sin outright. Either way, one word stands over all three subjects of the verse, and the commentators go on to say what that word contained.",
+            "bn": "আয়াত শেষ হয় বিল-খাতিআ শব্দে। ইবন কাসীর ও কুরতুবী দুজনেই এর ভেতরে একটি অনুক্ত বিশেষ্য ধরে নেন: বিল-ফি'লাতিল খাতিআ, গুনাহে ভরা কাজটি নিয়ে। তাবারী সোজা কথায় বলেন: গুনাহ। কুরতুবী জুরজানী থেকে আরও আনেন যে শব্দটি মাসদার, অর্থ মহা ভুল। তাই শব্দবন্ধটিকে একটি কাজের বর্ণনা হিসেবেও শোনা যায়, সরাসরি গুনাহের নাম হিসেবেও। যেভাবেই হোক, একটি শব্দই আয়াতের তিনটি কর্তার উপর খাটে। শব্দটির ভেতরে কী ছিল, তাফসীরকারেরা এরপর সেটাই বলেন।"
+          },
+          {
+            "en": "What that deed was, they name differently. Ibn Kathir: the denial of what Allah sent down. Ar-Rabi', as Ibn Kathir reports him: disobedience. Mujahid, in at-Tabari, Ibn Kathir and al-Qurtubi: the sins, in the plural, which al-Qurtubi expands as the sins they used to commit. Al-Qurtubi himself: disobedience and disbelief. Al-Baghawi: sin and disobedience, and he adds that it is shirk, ascribing partners to Allah. Each answer is short, and each fixes on a different face of the same refusal.",
+            "bn": "কাজটি কী ছিল, তার নাম তাঁরা দেন ভিন্ন ভিন্নভাবে। ইবন কাসীর বলেন: আল্লাহ যা নাযিল করেছেন, তা অস্বীকার করা। ইবন কাসীরের বর্ণনায় রাবী বলেন: নাফরমানি। তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই মুজাহিদ থেকে আনেন: গুনাহসমূহ, বহুবচনে। কুরতুবী একে খুলে বলেন, যেসব গুনাহ তারা করে চলত। কুরতুবীর নিজের ব্যাখ্যা: নাফরমানি আর কুফরি। বাগাভী বলেন গুনাহ আর নাফরমানি, সঙ্গে যোগ করেন, তা হলো শিরক, আল্লাহর সঙ্গে শরিক করা। প্রতিটি উত্তর ছোট, আর প্রত্যেকে একই প্রত্যাখ্যানের আলাদা একটি দিক ধরে।"
+          },
+          {
+            "en": "Two commentators gather everything into one list. As-Sa'di calls it the transgressing deed and spells it out: disbelief, denial, wrongdoing and obstinacy, with the kinds of indecency and corruption joined to them. Al-Muyassar names the abhorrent deed of disbelief, shirk and indecencies. At-Tabari, speaking of the towns alone, names the particular sin of Lut's people that other verses describe. The voices differ in where they put the weight: some name the root, the denial of revelation, and others the deeds that grew from it.",
+            "bn": "দুজন তাফসীরকার সবকিছু একটি তালিকায় জড়ো করেন। সা'দী একে বলেন সীমালঙ্ঘনের কাজ, আর খুলে বলেন: কুফরি, মিথ্যা বলা, জুলুম আর হঠকারিতা, সঙ্গে নানা রকম অশ্লীলতা আর পাপাচার। মুয়াসসার বলে কুফরি, শিরক আর অশ্লীলতার জঘন্য কাজ। তাবারী শুধু জনপদগুলোর বেলায় লূতের কওমের সেই বিশেষ গুনাহের কথা বলেন, যা অন্য আয়াতগুলোতে এসেছে। মতগুলোর পার্থক্য জোর দেওয়ার জায়গায়। কেউ নাম দেন মূলের, ওহিকে অস্বীকার করার। কেউ নাম দেন সেই মূল থেকে গজানো কাজগুলোর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Came Carrying",
+          "bn": "যা বয়ে এনেছিল তারা"
+        },
+        "p": [
+          {
+            "en": "The small preposition bi- in bi-l-khati'a is rendered two ways in the sources. As-Sa'di attaches it to the verb at the head of the verse: all of them came with the transgressing deed, as though each arrived carrying it. Al-Muyassar renders it as a cause, bi-sabab, because of the abhorrent deed, and places it right after the towns whose dwellings turned over with them. Al-Baghawi's second reading of al-mu'tafikat leans the same way: nations overturned by their sin. In one rendering the sin is what they came with; in the other it is the reason for what befell them.",
+            "bn": "বিল-খাতিআ শব্দের ছোট্ট অব্যয় বি-কে উৎসগুলো দুইভাবে বোঝে। সা'দী একে জুড়ে দেন আয়াতের শুরুর ক্রিয়ার সঙ্গে: তারা সবাই এসেছিল সীমালঙ্ঘনের কাজটি নিয়ে, যেন প্রত্যেকে তা বয়ে এনেছিল। মুয়াসসার একে কারণ হিসেবে পড়ে, বিসাবাব, জঘন্য কাজটির কারণে। কথাটি সে বসায় ঠিক সেই জনপদগুলোর পরে, যাদের ঘরবাড়ি তাদের নিয়েই উল্টে গিয়েছিল। মু'তাফিকাতের যে দ্বিতীয় ব্যাখ্যা বাগাভী দেন, তাও এদিকেই ঝোঁকে: যে জাতিগুলো নিজেদের গুনাহের কারণে উল্টে গেল। একটি পাঠে গুনাহ হলো তাদের সঙ্গে আনা জিনিস। অন্য পাঠে তা-ই তাদের পরিণতির কারণ।"
+          },
+          {
+            "en": "The next verse says what the sinful deed amounted to. Fa-'asaw rasula rabbihim: and they disobeyed the messenger of their Lord, so He seized them with a seizure that was rabiya. Ibn Kathir ties the two verses together: they were all of one kind, each denying the messenger sent to it. He sets beside it 50:14, every one of them denied the messengers, so My threat was fulfilled, and the lines of ash-Shu'ara' in which the people of Nuh, then 'Ad, then Thamud each deny the messengers, in the plural: 26:105, 26:123 and 26:141 (the numbers are this article's own).",
+            "bn": "গুনাহের কাজটি আসলে কী দাঁড়াল, পরের আয়াত তা জানায়। ফাআসাও রাসূলা রব্বিহিম: তারা তাদের রবের রসূলের নাফরমানি করল, ফলে তিনি তাদের ধরলেন রাবিয়া পাকড়াওয়ে। ইবন কাসীর দুই আয়াতকে একসঙ্গে গাঁথেন। তাঁর মতে এরা সবাই একই ধরনের, প্রত্যেকে নিজেদের কাছে পাঠানো রসূলকে মিথ্যা বলেছিল। এর পাশে তিনি রাখেন ৫০:১৪ আয়াত: প্রত্যেকে রসূলদের মিথ্যা বলেছিল, ফলে আমার সতর্কবাণী সত্য হলো। সঙ্গে রাখেন সূরা শুআরার সেই আয়াতগুলো, যেখানে নূহের কওম, তারপর ‘আদ, তারপর সামূদ রসূলদের, বহুবচনে, মিথ্যা বলেছিল: ২৬:১০৫, ২৬:১২৩ ও ২৬:১৪১। আয়াত নম্বরগুলো এ লেখার নিজের সংযোজন।"
+          },
+          {
+            "en": "His explanation of the singular messenger in 69:10 and the plural in those verses: whoever denies one messenger has denied all of them, though only one messenger came to each nation. Ibn Kathir explains rabiya as great, severe and painful; Mujahid, in his report, says severe, and as-Suddi says destructive. No commentary consulted here attaches a hadith or an occasion of revelation to 69:9, and none is supplied in its place. The verse is left to speak through its own words and the verse that follows it.",
+            "bn": "৬৯:১০ আয়াতে রসূল একবচনে, আর ওই আয়াতগুলোতে বহুবচনে। ইবন কাসীর এর ব্যাখ্যা দেন এভাবে: যে একজন রসূলকে মিথ্যা বলে, সে আসলে সব রসূলকেই মিথ্যা বলে, যদিও প্রতিটি জাতির কাছে এসেছিলেন একজন করেই। রাবিয়া শব্দের অর্থ ইবন কাসীরের মতে বিশাল, কঠিন ও যন্ত্রণাদায়ক। তাঁর বর্ণনায় মুজাহিদ বলেন কঠিন, আর সুদ্দী বলেন ধ্বংসাত্মক। এখানে দেখা কোনো তাফসীর ৬৯:৯ আয়াতের সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি, তাই তার জায়গায় অন্য কিছু বসানো হয়নি। আয়াত কথা বলে নিজের শব্দে, আর পরের আয়াতের মধ্য দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A List That Accuses No One",
+          "bn": "আজ কারও দিকে আঙুল নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse names Pharaoh, those before him or with him, and the overturned towns: peoples of the past whose end the Qur'an itself reports. It licenses nothing against any living person or community. Where the qibalahu reading speaks of Pharaoh's Copts and troops, it means those of his own time who followed him; it gives no one standing to treat the Copts or the people of Egypt today as his party. Nor may anyone name a nation, family or place of today as heir to the overturned towns, or call a disaster that strikes people now their punishment.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত নাম নেয় ফেরাউনের, তার আগের বা তার সঙ্গের লোকদের, আর উল্টে দেওয়া জনপদগুলোর। এরা অতীতের মানুষ, যাদের পরিণতির খবর কুরআন নিজেই দিয়েছে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। কিবালাহু পাঠে ফেরাউনের কিবতী আর সৈন্যদের যে কথা, তা তার নিজের যুগের অনুসারীদের নিয়ে। আজকের কিবতী বা মিসরের মানুষকে তার দলের লোক ভাবার অধিকার এটি কাউকে দেয় না। আজকের কোনো জাতি, পরিবার বা জায়গাকে উল্টে দেওয়া জনপদের উত্তরসূরি বলারও না। আজ কোথাও দুর্যোগ এলে তাকে সেখানকার মানুষের শাস্তি বলারও না।"
+          },
+          {
+            "en": "The judgment the verse reports is Allah's, about those He named, and the reason 69:10 gives is one every reader can measure himself against: they heard their Lord's messenger and disobeyed. Two verses on, 69:12 speaks of an ear that retains. Qatada, as Ibn Kathir reports him, describes it as an ear to which Allah gives understanding, so that it benefits from what it hears of Allah's Book. That ear, rather than a finger pointed at others, is what this list asks for.",
+            "bn": "আয়াতে যে ফয়সালার খবর, তা আল্লাহর, তাঁর নিজের নাম নেওয়া লোকদের নিয়ে। আর ৬৯:১০ আয়াত যে কারণ দেখায়, তা দিয়ে প্রত্যেক পাঠক নিজেকে মেপে দেখতে পারেন: তারা রবের রসূলের কথা শুনেছিল, তবু নাফরমানি করেছিল। দুই আয়াত পরে ৬৯:১২ বলে ধরে রাখা কানের কথা। ইবন কাসীরের বর্ণনায় কাতাদা বলেন, এ সেই কান, যাকে আল্লাহ বোধ দিয়েছেন, ফলে আল্লাহর কিতাব থেকে যা শোনে, তা থেকে সে উপকার নেয়। অন্যের দিকে তোলা আঙুল নয়, এমন একটি কানই এ তালিকা চায়।"
+          },
+          {
+            "en": "Heard that way, the verse is less about who was destroyed than about what each arrived with. As-Sa'di's phrase, all of them came with the transgressing deed, leaves a question for the reader's own life: what am I bringing with me, and which instruction of the Messenger ﷺ have I heard and set aside? Unlike theirs, that answer can still be changed, while the reminder is still being recited and heard.",
+            "bn": "এভাবে শুনলে আয়াতের মূল কথা কে ধ্বংস হয়েছিল তা নয়, বরং কে কী নিয়ে হাজির হয়েছিল। সা'দীর বাক্য, তারা সবাই এসেছিল সীমালঙ্ঘনের কাজটি নিয়ে, পাঠকের নিজের জীবনের সামনে একটি প্রশ্ন রেখে যায়। আমি সঙ্গে কী নিয়ে চলেছি? রসূল ﷺ-এর কোন নির্দেশ শুনেও আমি সরিয়ে রেখেছি? ওদের উত্তর আর বদলানোর নয়। আমার উত্তর এখনো বদলানো যায়, যতক্ষণ এ উপদেশ তিলাওয়াত হচ্ছে, কানে আসছে।"
+          }
+        ]
+      }
+    ]
+  },
   "69:13": {
     "sections": [
       {

@@ -28589,6 +28589,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Day is named the Striking Calamity because it strikes the heart. Answer its knock now, while it comes as a reminder and not yet as the blow.",
     "lessonBn": "কিয়ামতের নাম আঘাতকারী মহাবিপদ, কারণ তা বুকে আঘাত হানে। এখনই তার কড়া নাড়ার জবাব দিন, যখন তা আসছে নসিহত হয়ে, আঘাত হয়ে নয়।"
+  },
+  "69:9": {
+    "reflectionEn": "After 'Ad and Thamud the list keeps going: Pharaoh, those before him, the overturned towns. One verb brings them all in, and one phrase says what they brought with them: al-khati'a, the sinful deed. The next verse names it. They disobeyed the messenger their Lord had sent them. Different centuries, different lands, and the same thing in their hands. The verse speaks of peoples the Qur'an itself names; it points at no one living, and it gives me no right to point. What it gives me is a question. Each of them arrived carrying something. When my own turn comes to arrive, what will I be carrying, and whose call will I have answered or refused?",
+    "reflectionBn": "‘আদ আর সামূদের পরেও তালিকা থামে না: ফেরাউন, তার আগের লোকেরা, আর উল্টে দেওয়া জনপদগুলো। একটি ক্রিয়াই সবাইকে সামনে নিয়ে আসে, আর একটি শব্দ জানিয়ে দেয় তারা সঙ্গে কী এনেছিল: আল-খাতিআ, গুনাহের কাজ। পরের আয়াতেই তার পরিচয়। রব যে রসূল পাঠিয়েছিলেন, তারা তাঁর নাফরমানি করেছিল। যুগ আলাদা, দেশ আলাদা, অথচ সবার হাতে একই জিনিস। আয়াতটি কেবল সেই জাতিগুলোর কথা বলে, যাদের নাম কুরআন নিজেই নিয়েছে। জীবিত কারও দিকে সে আঙুল তোলে না, আঙুল তোলার অধিকারও আমাকে দেয় না। আমাকে সে দেয় একটা প্রশ্ন। ওরা প্রত্যেকে কিছু একটা বয়ে এনেছিল। আমার হাজির হওয়ার পালা যখন আসবে, আমি কী বয়ে আনব? কার ডাকে সাড়া দিয়ে আসব, আর কার ডাক ফিরিয়ে দিয়ে?",
+    "pointsEn": [
+      "When I read a list of the destroyed, do I look in it for other people, or for habits I share with them?",
+      "Pharaoh's people had clear signs and still refused. Where am I already sure of what is right and still putting off doing it?",
+      "The verse groups people with those before them and those around them. Whose company makes it easier for me to set aside what I know?",
+      "Which instruction from Allah or His Messenger ﷺ have I heard clearly this week and quietly left undone?",
+      "If I arrived today carrying only what I did this week, what would I most want to put down first?"
+    ],
+    "pointsBn": [
+      "ধ্বংস হয়ে যাওয়া জাতিদের তালিকা পড়ার সময় আমি কি সেখানে অন্যদের খুঁজি, নাকি খুঁজি ওদের সঙ্গে মিলে যাওয়া আমার নিজের অভ্যাসগুলো?",
+      "ফেরাউনের লোকদের সামনে স্পষ্ট নিদর্শন ছিল, তবু তারা মানেনি। কোন ব্যাপারে আমি ঠিকটা জানি, অথচ করতে গিয়ে এখনো দেরি করছি?",
+      "আয়াতটি মানুষকে গেঁথেছে তাদের আগের লোকদের সঙ্গে, আশপাশের লোকদের সঙ্গে। কার সঙ্গ আমার জন্য জানা কথাটা সরিয়ে রাখা সহজ করে দিচ্ছে?",
+      "আল্লাহ বা তাঁর রসূল ﷺ-এর কোন নির্দেশ এ সপ্তাহে আমি পরিষ্কার শুনেছি, অথচ চুপচাপ ফেলে রেখেছি?",
+      "এ সপ্তাহের আমলটুকু নিয়েই যদি আজ হাজির হতে হয়, সবার আগে কোন বোঝাটা নামিয়ে রাখতে চাইব?"
+    ],
+    "lessonEn": "Every people in this list arrived carrying a deed. The verse names them, not anyone living; ask instead what you are carrying, and set down the disobedience while you still can.",
+    "lessonBn": "এ তালিকার প্রতিটি জাতি একটা কাজ বয়ে নিয়ে হাজির হয়েছিল। আয়াত তাদের নাম নেয়, জীবিত কারও নয়। তাই নিজেকে জিজ্ঞেস করুন আপনি কী বয়ে চলেছেন, আর সময় থাকতেই নাফরমানির বোঝা নামিয়ে রাখুন।"
   }
 };
 
