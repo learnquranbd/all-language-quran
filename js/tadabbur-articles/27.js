@@ -719,6 +719,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:26": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Report's Final Line",
+          "bn": "খবরের শেষ বাক্য"
+        },
+        "p": [
+          {
+            "en": "Allahu la ilaha illa huwa, rabbu al-'arshi al-'azim: Allah, there is no god but He, Lord of the Great Throne. Eight Arabic words close the hoopoe's account to Sulayman (AS). It had come back from Saba' with certain news (27:22), told of a woman ruling them with a great throne (27:23), named the worship of the sun that 27:24 records, and spoken of Him who brings forth what is hidden (27:25). This verse is where the report stops.",
+            "bn": "আল্লাহু লা ইলাহা ইল্লা হুওয়া, রাব্বুল আরশিল আযীম: আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই, তিনি মহান আরশের রব। আরবিতে আটটি শব্দ, আর এগুলো দিয়েই সুলাইমান (আঃ)-এর কাছে হুদহুদের বিবরণ শেষ হয়। পাখিটা সাবা থেকে নিশ্চিত খবর নিয়ে ফিরেছিল (২৭:২২)। বলেছিল এক নারীর কথা, যে তাদের উপর রাজত্ব করে আর যার আছে বিরাট সিংহাসন (২৭:২৩)। ২৭:২৪ আয়াতে যে সূর্যপূজার কথা আছে, তার নামও সে নিয়েছিল। তারপর বলেছিল সেই সত্তার কথা, যিনি লুকানো জিনিস বের করে আনেন (২৭:২৫)। এ আয়াতে এসে খবরটা থামে।"
+          },
+          {
+            "en": "Al-Baghawi marks the spot in four words: here the hoopoe's speech is complete. Sulayman's reply follows in the next verse. The sentence sounds like a creed, and its placement is deliberate. A bird that had been threatened with punishment for its absence (27:21) does not end with a plea for itself. It ends by naming whom the queen and her people ought to be bowing to, and by setting her throne beneath a far greater Throne.",
+            "bn": "বাগাভী জায়গাটা চিহ্নিত করেন চারটি শব্দে: এখানে হুদহুদের কথা শেষ। পরের আয়াতে শুরু হয় সুলাইমান (আঃ)-এর জবাব। বাক্যটা শুনতে ঈমানের ঘোষণার মতো, আর এর অবস্থানও ভেবেচিন্তে বসানো। অনুপস্থিতির জন্য যে পাখিকে শাস্তির হুমকি দেওয়া হয়েছিল (২৭:২১), সে নিজের পক্ষে কোনো আর্জি দিয়ে কথা শেষ করে না। সে শেষ করে এই কথা বলে যে রানি আর তার লোকদের আসলে কার সামনে মাথা নত করা উচিত। আর রানির সিংহাসনকে সে রেখে দেয় অনেক বড় এক আরশের নিচে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Her Throne and His",
+          "bn": "রানির সিংহাসন, রবের আরশ"
+        },
+        "p": [
+          {
+            "en": "Three verses earlier the hoopoe said of the queen, wa-laha 'arshun 'azim: and she has a great throne (27:23). Now it says of Allah, rabbu al-'arshi al-'azim. The noun is the same, 'arsh, and so is the adjective, 'azim. Ibn Kathir, in his abridged English rendering, describes the queen's throne as a tremendous chair adorned with gold, jewels and pearls. The hoopoe does not deny that it was great. It simply places another Throne beside it, and lets the reader do the measuring.",
+            "bn": "তিনটি আয়াত আগে রানির ব্যাপারে হুদহুদ বলেছিল, ওয়া লাহা আরশুন আযীম: আর তার আছে বিরাট সিংহাসন (২৭:২৩)। এখন আল্লাহর ব্যাপারে বলছে, রাব্বুল আরশিল আযীম। বিশেষ্য একই, আরশ। বিশেষণও একই, আযীম। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে রানির সিংহাসনের বর্ণনা আছে: সোনা, নানা রকম রত্ন আর মুক্তায় সাজানো এক বিশাল আসন। হুদহুদ অস্বীকার করে না যে সেটা বিরাট ছিল। সে শুধু তার পাশে আরেকটা আরশ রেখে দেয়, আর মাপার কাজটা পাঠকের হাতে ছেড়ে দেয়।"
+          },
+          {
+            "en": "At-Tabari draws the comparison out in so many words. Rabb here means malik, owner: the Owner of the Great Throne, beneath which every throne, however great, falls short, and which no throne resembles, neither the throne of the queen of Saba' nor any other. Al-Baghawi says it more bluntly. The throne of the queen of Saba', even if it was great, is small and insignificant beside the Throne of Allah, Mighty and Majestic. Both read the verse as an answer to 27:23.",
+            "bn": "তাবারী তুলনাটা স্পষ্ট ভাষায় খুলে বলেন। এখানে রব মানে মালিক: মহান আরশের মালিক। যত বড়ই হোক, প্রতিটি সিংহাসন তার চেয়ে নিচে। কোনো সিংহাসন তার মতো নয়, সাবার রানির সিংহাসনও নয়, অন্য কারও সিংহাসনও নয়। বাগাভী কথাটা বলেন আরও সরাসরি। সাবার রানির সিংহাসন বিরাট হলেও মহিমাময় আল্লাহর আরশের পাশে তা ছোট ও তুচ্ছ। দুজনেই আয়াতটিকে পড়েন ২৭:২৩ আয়াতের জবাব হিসেবে।"
+          },
+          {
+            "en": "Al-Qurtubi records a variant that shifts where the greatness sits. Ibn Muhaysin read al-'azimu with the ending -u, as a description of Allah, so that 'the Great' is said of the Lord rather than of the Throne. The other readers read al-'azimi with -i, as a description of the Throne. Al-Qurtubi gives the reason the Throne is singled out: it is the greatest of created things, and everything besides it is enclosed within it and held in its grasp. On either reading, the queen's 'great' has met a greater.",
+            "bn": "কুরতুবী এক ভিন্ন কিরাআতের কথা লেখেন, যাতে মহত্ত্বের বিশেষণটা অন্য জায়গায় গিয়ে বসে। ইবন মুহাইসিন আল-আযীমু পড়েছেন পেশ দিয়ে, আল্লাহর গুণ হিসেবে। তখন মহান বিশেষণটা আরশের নয়, আরশের রবের। বাকি কারীগণ পড়েছেন আল-আযীমি, যের দিয়ে, আরশের গুণ হিসেবে। আরশকে আলাদা করে উল্লেখের কারণও কুরতুবী বলেন: এটি সৃষ্টির মধ্যে সবচেয়ে বড়, আর বাকি সব কিছু এর ভেতরে ঘেরা, এর আওতায় ধরা। যে কিরাআতই ধরা হোক, রানির বিরাটত্ব এখানে তার চেয়ে বড় কিছুর মুখোমুখি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Worship Fits",
+          "bn": "ইবাদত যাঁর জন্যই মানায়"
+        },
+        "p": [
+          {
+            "en": "Before the Throne comes the creed itself. At-Tabari glosses Allah as He for whom alone worship is fitting: there is no god but He, no object of worship besides Him to whom worship is fitting. Then he draws the command out of the statement. So make your worship sincere to Him, single Him out in obedience, and associate nothing with Him. The Muyassar keeps it short: Allah, besides whom there is no object of worship that deserves worship, Lord of the Great Throne.",
+            "bn": "আরশের আগে আসে মূল ঘোষণাটা। তাবারী আল্লাহ নামের ব্যাখ্যা করেন এভাবে: তিনিই সেই সত্তা, যাঁর জন্য ছাড়া আর কারও জন্য ইবাদত মানায় না। তিনি ছাড়া কোনো ইলাহ নেই, এমন কোনো উপাস্য নেই যার জন্য ইবাদত শোভা পায়। তারপর এই বিবরণ থেকেই তিনি আদেশটা বের করে আনেন। তাই ইবাদত খাঁটিভাবে তাঁর জন্যই করুন, আনুগত্যে তাঁকেই একক রাখুন, তাঁর সঙ্গে কিছুকে শরিক করবেন না। মুয়াসসার কথাটা ছোট করে বলে: আল্লাহ, যিনি ছাড়া ইবাদতের যোগ্য আর কোনো উপাস্য নেই, মহান আরশের রব।"
+          },
+          {
+            "en": "As-Sa'di widens what worship includes. Worship, turning back in repentance, humility and love are fitting for no one but Him, because He is al-ma'luh, rightly worshipped, for the perfect attributes He has and the favours He gives that call for it. Ibn Kathir puts it as a matter of whom a person calls on: it is He who is called upon, Allah, besides whom there is no god. In the hoopoe's mouth the sentence answers 27:24 directly. The sun has none of these claims.",
+            "bn": "সা'দী ইবাদতের পরিধিটা বড় করে দেখান। ইবাদত, তাঁর দিকে ফিরে আসা, বিনয় আর ভালোবাসা তিনি ছাড়া কারও প্রাপ্য নয়। কারণ তিনিই আল-মা'লূহ, যাঁর ইবাদত করা হক। তাঁর আছে পূর্ণাঙ্গ গুণাবলি, আর তিনি দেন এমন সব নিয়ামত, যা এই ইবাদতকে অনিবার্য করে। ইবন কাসীর কথাটা রাখেন ডাকার দিক থেকে: তিনিই সেই সত্তা যাঁকে ডাকা হয়, আল্লাহ, যিনি ছাড়া কোনো ইলাহ নেই। হুদহুদের মুখে বাক্যটা সরাসরি ২৭:২৪ আয়াতের জবাব। এর কোনোটার দাবিই সূর্যের নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Roof Over All Creation",
+          "bn": "সমস্ত সৃষ্টির ছাদ"
+        },
+        "p": [
+          {
+            "en": "What is the Throne? The commentators fetched here say only a little, and say it plainly. Ibn Kathir: there is nothing in all of creation greater than it. Al-Qurtubi, as above: the greatest of created things, with everything else enclosed within it. As-Sa'di: it is the roof of created things, and it encompasses the earth and the heavens. All three speak of it as something created, and as the largest thing that has been created.",
+            "bn": "আরশ কী? এখানে যে তাফসীরগুলো দেখা হয়েছে, সেগুলো এ নিয়ে অল্প কথা বলে, তবে সোজা ভাষায় বলে। ইবন কাসীর বলেন, সমস্ত সৃষ্টির মধ্যে এর চেয়ে বড় কিছু নেই। কুরতুবী, আগেই যেমন বলা হলো, একে বলেন সৃষ্টির মধ্যে সবচেয়ে বড়, বাকি সব যার ভেতরে ঘেরা। সা'দী বলেন, এটি সৃষ্টিজগতের ছাদ, যা আসমান ও যমীনকে বেষ্টন করে আছে। তিনজনই একে সৃষ্ট বস্তু হিসেবে দেখেন, আর সৃষ্টির মধ্যে সবচেয়ে বিশাল বস্তু হিসেবে।"
+          },
+          {
+            "en": "This article goes no further than that. Questions about the Throne's nature belong to a longer discussion. None of the texts consulted for this verse takes them up here, so neither does this page. What the commentators do draw from it is practical. As-Sa'di concludes that this King, mighty in authority and great in standing, is He before whom the servant is humbled, to whom he submits, and for whom he prostrates and bows. The size of the Throne becomes a reason for the size of the servant's humility.",
+            "bn": "এ লেখা এর বাইরে যাবে না। আরশের প্রকৃতি নিয়ে প্রশ্নগুলো আরও দীর্ঘ আলোচনার বিষয়। এ আয়াতের জন্য যে লেখাগুলো দেখা হয়েছে, সেগুলোর কোনোটি এখানে সে আলোচনায় যায়নি, তাই এ লেখাও যাবে না। তাফসীরকারেরা আয়াত থেকে যা বের করেন, তা আমলের কথা। সা'দীর উপসংহার: ক্ষমতায় প্রবল আর মর্যাদায় মহান এই বাদশাহই সেই সত্তা, যাঁর সামনে মানুষ নত হয়, যাঁর কাছে আত্মসমর্পণ করে, যাঁর জন্য সেজদা আর রুকু করে। আরশ যত বড়, বিনয়ও তত বড় হওয়ার কারণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bird, King, or Revelation",
+          "bn": "পাখি, নবী, নাকি ওহি"
+        },
+        "p": [
+          {
+            "en": "Who is speaking in 27:25 and 27:26? At-Tabari relays Ibn Zayd: from 'I have encompassed what you have not encompassed' (27:22) to 'Lord of the Great Throne', all of it is the hoopoe's speech, and he adds that Ibn Ishaq said much the same. Al-Baghawi, as seen, ends the hoopoe's words here. Ibn Kathir, explaining the hidden thing of 27:25 as water, calls that reading fitting for the hoopoe's speech, since Ibn Abbas and others mention that it sees water running deep in the earth.",
+            "bn": "২৭:২৫ ও ২৭:২৬ আয়াতে কথা বলছে কে? তাবারী ইবন যায়দের মত উদ্ধৃত করেন: 'আমি যা অবগত হয়েছি আপনি তা অবগত নন' (২৭:২২) থেকে 'মহান আরশের রব' পর্যন্ত পুরোটাই হুদহুদের কথা। তিনি আরও জানান, ইবন ইসহাকও প্রায় একই কথা বলেছেন। বাগাভীও, আগেই যেমন দেখা গেল, হুদহুদের কথা এখানে এসে শেষ করেন। ইবন কাসীর ২৭:২৫ আয়াতের লুকানো জিনিসকে পানি বলে ব্যাখ্যা করেন। তাঁর মতে এ ব্যাখ্যা হুদহুদের কথার সঙ্গে মানানসই, কারণ ইবন আব্বাস (রাঃ) প্রমুখ বলেছেন, এ পাখি মাটির গভীরে বয়ে চলা পানি দেখতে পায়।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the other side through Ibn 'Atiyya. It is said to be the hoopoe's speech up to al-'azim, the view of Ibn Zayd and Ibn Ishaq; against this it is objected that the hoopoe is not under obligation, so how would it speak of a matter of law? It may be Sulayman's words, once the hoopoe had told him about the people. Or it may be Allah's, an interjection between the two speeches, and Ibn 'Atiyya calls this the firmer view on reflection. Al-Jurjani names all three possibilities.",
+            "bn": "কুরতুবী অন্য পক্ষটা তুলে ধরেন ইবন আতিয়্যার মাধ্যমে। বলা হয়, আল-আযীম পর্যন্ত এটা হুদহুদের কথা। এটা ইবন যায়দ ও ইবন ইসহাকের মত। এর বিরুদ্ধে আপত্তি ওঠে: হুদহুদ তো শরিয়তের দায়িত্বপ্রাপ্ত নয়, তাহলে শরিয়তের বিষয়ে সে কথা বলবে কীভাবে? হতে পারে এটা সুলাইমান (আঃ)-এর কথা, হুদহুদ যখন তাঁকে ওই সম্প্রদায়ের খবর দিল। আবার হতে পারে এটা আল্লাহর কথা, দুই বক্তব্যের মাঝখানে বসানো। ইবন আতিয়্যার মতে ভেবে দেখলে এটাই বেশি মজবুত। জুরজানী তিনটি সম্ভাবনারই উল্লেখ করেন।"
+          },
+          {
+            "en": "Ibn 'Atiyya ties the question to how the verse is read: the doubled alla gives the words to the hoopoe, and the light ala rules that out. Al-Qurtubi adds a second clue in 27:25. Read with ya, yukhfuna, what they conceal, the verse is the hoopoe's, and Allah gave it a knowledge of His oneness that minds seldom reach. Read with ta, tukhfuna, what you conceal, as Hafs and al-Kisa'i read it, it is Allah addressing the community of Muhammad (ﷺ). The commentators leave both sides standing.",
+            "bn": "ইবন আতিয়্যা প্রশ্নটাকে জুড়ে দেন আয়াত পড়ার ধরনের সঙ্গে। তাশদীদওয়ালা আল্লা পড়লে কথাটা হুদহুদের হয়, আর হালকা আলা পড়লে তা আর হুদহুদের থাকে না। কুরতুবী ২৭:২৫ আয়াতে আরেকটা সূত্র দেখান। ইয়া দিয়ে ইউখফূনা, অর্থাৎ তারা যা গোপন করে, পড়লে আয়াতটা হুদহুদের কথা। তখন বুঝতে হয়, আল্লাহ তাকে তাওহীদের এমন জ্ঞান দিয়েছিলেন, যার নাগাল বুদ্ধিমান মানুষও সহজে পায় না। আর তা দিয়ে তুখফূনা, অর্থাৎ তোমরা যা গোপন কর, পড়লে, যেমন হাফস ও কিসাঈ পড়েছেন, এটা মুহাম্মাদ ﷺ-এর উম্মতের প্রতি আল্লাহর সম্বোধন। তাফসীরকারেরা দুই মতই খোলা রেখে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Call Inside Alā",
+          "bn": "আলা শব্দে লুকানো ডাক"
+        },
+        "p": [
+          {
+            "en": "The first word of 27:25 is read two ways, and at-Tabari sets them side by side. Some readers of Makkah, Madinah and Kufa read ala, light: ala ya ha'ula'i usjudu, O you people, prostrate, with the word for the people left unspoken because the vocative ya points to it. He cites the Arabs' own speech for this, and a verse of al-Akhtal. The general body of readers in Madinah, Kufa and Basra read alla, doubled: Satan adorned their deeds so that they would not prostrate to Allah.",
+            "bn": "২৭:২৫ আয়াতের প্রথম শব্দটি দুইভাবে পড়া হয়, আর তাবারী দুটিকে পাশাপাশি রাখেন। মক্কা, মদীনা ও কূফার কিছু কারী পড়েছেন হালকা আলা: আলা ইয়া হাউলাই উসজুদূ, ওহে লোকেরা, সেজদা কর। সম্বোধনের ইয়া নিজেই ইঙ্গিত দেয় বলে লোকদের নামটা উহ্য থাকে। এর পক্ষে তিনি আরবদের মুখের ভাষা থেকে দৃষ্টান্ত আনেন, আনেন কবি আখতালের একটি পঙ্‌ক্তিও। মদীনা, কূফা ও বসরার সাধারণ কারীরা পড়েছেন তাশদীদ দিয়ে আল্লা: শয়তান তাদের আমল সুন্দর করে দেখিয়েছে, যাতে তারা আল্লাহকে সেজদা না করে।"
+          },
+          {
+            "en": "At-Tabari's verdict is that both are widespread readings in the cities, each read by learned reciters, and both meanings are sound. Al-Qurtubi names Abu 'Amr, Nafi', 'Asim and Hamza for the doubled reading, and az-Zuhri and al-Kisa'i for the light reading; al-Kisa'i said he heard the elders read it only light, meaning a command. Al-Baghawi adds that on the light reading ala is an aside outside the story, from the hoopoe or from Sulayman, and that Abu 'Ubayda took it as a fresh command from Allah.",
+            "bn": "তাবারীর সিদ্ধান্ত: দুটিই বিভিন্ন শহরে প্রচলিত কিরাআত, প্রতিটিই বিজ্ঞ কারীরা পড়েছেন, আর দুটির অর্থই সঠিক। কুরতুবী তাশদীদের পক্ষে আবু আমর, নাফে, আসিম ও হামযার নাম বলেন, আর হালকা পড়ার পক্ষে যুহরী ও কিসাঈর নাম। কিসাঈ বলেছেন, তিনি মুরব্বিদের মুখে আদেশের অর্থে কেবল হালকা পড়াই শুনেছেন। বাগাভী যোগ করেন, হালকা পড়লে আলা হয় কাহিনির বাইরের এক ফাঁকের কথা, হুদহুদের কিংবা সুলাইমান (আঃ)-এর। আর আবু উবায়দা একে ধরেছেন আল্লাহর পক্ষ থেকে নতুন করে দেওয়া আদেশ হিসেবে।"
+          },
+          {
+            "en": "Al-Qurtubi also reports the case for each. Abu Hatim and Abu 'Ubayda preferred the doubled reading, because it keeps the report about Saba' running on without a break, while the light reading interrupts the story and then returns to it. As-Sa'di glosses ala as halla, why do they not: why do they not prostrate to Allah who brings forth the hidden? Either way, the sentence that closes in 27:26 turns the report toward the One to whom prostration belongs.",
+            "bn": "কুরতুবী দুই পক্ষের যুক্তিও জানান। আবু হাতিম ও আবু উবায়দা তাশদীদের কিরাআত বেছে নিয়েছেন, কারণ তাতে সাবার খবর কোনো বিরতি ছাড়া একটানা চলে। হালকা পড়লে কাহিনি মাঝপথে থেমে যায়, পরে আবার ফিরে আসে। সা'দী আলা শব্দের অর্থ করেন হাল্লা, অর্থাৎ কেন তারা করে না: কেন তারা সেই আল্লাহকে সেজদা করে না, যিনি লুকানো জিনিস বের করে আনেন? যেভাবেই পড়া হোক, ২৭:২৬ আয়াতে এসে শেষ হওয়া বাক্যটা খবরের মুখ ঘুরিয়ে দেয় তাঁর দিকে, সেজদা যাঁর প্রাপ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Reciter Bows",
+          "bn": "যেখানে তিলাওয়াতকারী সেজদা করেন"
+        },
+        "p": [
+          {
+            "en": "In the mushaf the sign of prostration stands at the end of this verse. Al-Qurtubi records that the two readings were thought to bear on it. On the doubled reading, he writes, it would not be a place of prostration, since it reports that they left prostration off; az-Zajjaj tied the prostration to the light reading alone. Az-Zamakhshari answered that it holds on both, because places of prostration are a command to prostrate, praise of those who do, or blame of those who refuse.",
+            "bn": "মুসহাফে এ আয়াতের শেষে সেজদার চিহ্ন আছে। কুরতুবী লিখেছেন, দুই কিরাআতের সঙ্গে এর সম্পর্ক নিয়েও কথা হয়েছে। তাঁর ভাষায়, তাশদীদের কিরাআতে এটা সেজদার জায়গা হয় না, কারণ সেখানে কেবল এই খবর দেওয়া হচ্ছে যে তারা সেজদা ছেড়ে দিয়েছে। যাজ্জাজ সেজদাকে কেবল হালকা কিরাআতের সঙ্গে যুক্ত করেছেন। যামাখশারী জবাবে বলেছেন, সেজদা দুই কিরাআতেই আছে। কারণ সেজদার জায়গাগুলো হয় সেজদার আদেশ, নয়তো যারা সেজদা করে তাদের প্রশংসা, নয়তো যারা করে না তাদের নিন্দা।"
+          },
+          {
+            "en": "The first reading, he says, is a command to prostrate and the other is blame of those who leave it, and al-Qurtubi reports that he set az-Zajjaj's view aside. This page gives no ruling on the prostration itself. What it notices is the shape of the moment. A report of a whole court bowing to the sun ends on Allah and His Throne, and whoever is reciting it is asked, at that very word, to put his own forehead down before Him whom the hoopoe named.",
+            "bn": "যামাখশারীর কথায়, এক কিরাআতে আছে সেজদার আদেশ, অন্যটিতে যারা সেজদা ছাড়ে তাদের নিন্দা। কুরতুবী জানান, যামাখশারী যাজ্জাজের মত গ্রহণ করেননি। সেজদার বিধান নিয়ে এ লেখা কোনো সিদ্ধান্ত দিচ্ছে না। এখানে যা চোখে পড়ে, তা মুহূর্তটার গড়ন। সূর্যের সামনে গোটা এক দরবারের মাথা নোয়ানোর খবর শেষ হয় আল্লাহ আর তাঁর আরশের নামে। আর যিনি তিলাওয়াত করছেন, ঠিক সেই শব্দে এসে তাঁকেও কপাল নামাতে বলা হয় সেই সত্তার সামনে, যাঁর নাম হুদহুদ নিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words for a Hard Hour",
+          "bn": "কঠিন মুহূর্তের কথা"
+        },
+        "p": [
+          {
+            "en": "Beyond the narration about the hoopoe mentioned below, no tafsir fetched for this verse attaches a hadith to it. The phrase Lord of the Great Throne does appear in a general narration, not tied to this verse. Sahih al-Bukhari (no. 6346) records from Ibn Abbas that the Messenger of Allah (ﷺ) used to say in distress: 'There is no god but Allah, the Great, the Forbearing. There is no god but Allah, Lord of the Great Throne. There is no god but Allah, Lord of the heavens, Lord of the earth, and Lord of the Noble Throne.'",
+            "bn": "নিচে হুদহুদ নিয়ে যে বর্ণনার কথা আসছে, তা ছাড়া এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে মহান আরশের রব কথাটা এক সাধারণ বর্ণনায় আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়। সহীহ বুখারী (নং ৬৩৪৬) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করে, রাসূলুল্লাহ ﷺ বিপদের সময় বলতেন: 'আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি মহান, সহনশীল। আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি মহান আরশের রব। আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি আসমানের রব, যমীনের রব, সম্মানিত আরশের রব।'"
+          },
+          {
+            "en": "Ibn Kathir ends his comment on this verse with the narration against killing the hoopoe, which belongs with 27:24 and is not repeated here. As-Sa'di closes on the bird's fate in a single line: the hoopoe was spared when it delivered this great news, and Sulayman wondered how it had escaped him. A creature facing a threat of punishment for its absence came back carrying words the Prophet (ﷺ) would later echo in his own hours of distress.",
+            "bn": "ইবন কাসীর এ আয়াতের আলোচনা শেষ করেন হুদহুদ হত্যার নিষেধাজ্ঞা নিয়ে বর্ণনাটি দিয়ে। সেটির জায়গা ২৭:২৪ আয়াতে, তাই এখানে আর আনা হলো না। সা'দী পাখিটার পরিণতির কথা বলেন এক লাইনে: এই মহান খবর পৌঁছে দিয়ে হুদহুদ রেহাই পেল, আর সুলাইমান (আঃ) অবাক হলেন, এ খবর তাঁর অজানা রইল কী করে। অনুপস্থিতির জন্য শাস্তির হুমকির মুখে থাকা একটা প্রাণী ফিরে এসেছিল এমন কথা নিয়ে, যার প্রতিধ্বনি পরে শোনা যায় বিপদের সময় নবী ﷺ-এর মুখে।"
+          },
+          {
+            "en": "One thing must be said plainly. The verse describes what the hoopoe reported about one people at one time: the queen's people of Saba', bowing to the sun. It licenses nothing against any living person or community, and it may not be turned against a neighbour, a nation or a faith today. What it asks of the reader is quieter. Measure every great throne you meet against the Lord of the Great Throne, and give the humility and love that belong to Him to no one else.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে, এক সময়ের এক সম্প্রদায় সম্পর্কে হুদহুদ কী খবর দিয়েছিল: সাবার রানির লোকেরা সূর্যকে সেজদা করত। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, কোনো জাতি বা কোনো ধর্মের মানুষের বিরুদ্ধে একে হাতিয়ার বানানো চলে না। পাঠকের কাছে এর চাওয়াটা আরও নিভৃত। চোখের সামনে যত বড় সিংহাসনই আসুক, তাকে মাপুন মহান আরশের রবের সামনে রেখে। আর যে বিনয় ও ভালোবাসা তাঁর পাওনা, তা আর কাউকে দেবেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "27:34": {
     "sections": [
       {

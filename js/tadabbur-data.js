@@ -24609,6 +24609,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A clear call to Allah divides hearers by their response, not by their arguments; make sure your answer to it is obedience, not only a side in the quarrel.",
     "lessonBn": "আল্লাহর দিকে স্পষ্ট ডাক শ্রোতাদের ভাগ করে তাদের সাড়া দিয়ে, তর্ক দিয়ে নয়; খেয়াল রাখুন, আপনার জবাব যেন হয় আনুগত্য, শুধু ঝগড়ার এক পক্ষ নয়।"
+  },
+  "27:26": {
+    "reflectionEn": "A small bird has just described the richest court it ever saw: a queen given everything, seated on a great throne. Then it ends its report by setting that throne beside another. Allah, there is no god but He, Lord of the Great Throne. The same word for great is used of both, and the comparison does the rest. Whatever she sits on, He is Lord of a Throne greater than all of it. The bird was not dazzled by gold; it measured the gold against its Lord. Most of us meet some throne every day: a powerful person, a large salary, a crowd's approval. Do I measure them the way the hoopoe did, or do they measure me?",
+    "reflectionBn": "ছোট্ট একটা পাখি এইমাত্র তার দেখা সবচেয়ে জাঁকালো দরবারের বর্ণনা দিল। এক রানি, যাকে সব কিছু দেওয়া হয়েছে, বসে আছে বিরাট এক সিংহাসনে। তারপর পাখিটা খবর শেষ করে সেই সিংহাসনের পাশে আরেকটা রেখে দেয়: আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই, তিনি মহান আরশের রব। দুটোর বেলাতেই একই শব্দ, মহান। তুলনাটা বাকি কাজ নিজেই করে দেয়। রানি যার উপরই বসুক, আল্লাহ এমন আরশের রব, যা ওসবের চেয়ে অনেক বড়। সোনা দেখে পাখির চোখ ধাঁধায়নি, সে সোনাকে মেপেছে তার রবের সামনে রেখে। আমাদের সামনেও রোজ কোনো না কোনো সিংহাসন আসে: ক্ষমতাবান মানুষ, মোটা বেতন, লোকের বাহবা। আমি কি সেগুলোকে হুদহুদের মতো মাপি, নাকি সেগুলোই আমাকে মাপে?",
+    "pointsEn": [
+      "Which person, position or possession impresses me so much that I forget to set it beside Allah's greatness?",
+      "When I describe someone's wealth or power, do I ever end the description the way the hoopoe ended its report?",
+      "What in my life receives the kind of humility and love that belongs to Allah alone?",
+      "When I am in distress, do I turn first to the Lord of the Great Throne, or to the people with smaller thrones around me?",
+      "How would my sense of my own problems change if I truly saw them as small beside His Throne?"
+    ],
+    "pointsBn": [
+      "কোন মানুষ, কোন পদ বা কোন সম্পদ আমাকে এতটা মুগ্ধ করে যে আল্লাহর মহত্ত্বের পাশে রেখে তাকে মাপতে ভুলে যাই?",
+      "কারও ধনসম্পদ বা ক্ষমতার কথা বলতে গিয়ে আমি কি কখনো হুদহুদের মতো করে কথা শেষ করি?",
+      "যে বিনয় আর ভালোবাসা কেবল আল্লাহর পাওনা, আমার জীবনে তার কতখানি অন্য কিছুর দিকে যায়?",
+      "বিপদে পড়লে আমি কি আগে মহান আরশের রবের দিকে ফিরি, নাকি আশপাশের ছোট ছোট সিংহাসনওয়ালা মানুষের দিকে?",
+      "নিজের সমস্যাগুলোকে যদি সত্যিই তাঁর আরশের পাশে ছোট করে দেখতে পেতাম, তাহলে সেগুলোর ওজন আমার কাছে কেমন বদলে যেত?"
+    ],
+    "lessonEn": "Measure every earthly greatness against Allah, the Lord of the Great Throne, and give the humility, love and worship due to Him to no one else.",
+    "lessonBn": "দুনিয়ার যত বড়ত্বই চোখে পড়ুক, তা মাপুন মহান আরশের রব আল্লাহর সামনে রেখে। যে বিনয়, ভালোবাসা আর ইবাদত তাঁর পাওনা, তা আর কাউকে দেবেন না।"
   }
 };
 
