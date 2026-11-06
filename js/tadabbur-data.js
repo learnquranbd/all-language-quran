@@ -25469,6 +25469,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every voice, skill and strength you have is bounty from Allah; spend your voice in glorifying Him and your hands in honest, careful work, as Dawud (AS) did.",
     "lessonBn": "আপনার কণ্ঠ, দক্ষতা ও শক্তি সবই আল্লাহর অনুগ্রহ। দাঊদ (আঃ)-এর মতো কণ্ঠকে তাঁর তাসবীহে আর হাতকে সৎ ও যত্নশীল কাজে লাগান।"
+  },
+  "35:6": {
+    "reflectionEn": "The verse states a fact and then builds a command out of the same word. Satan is an enemy to you, so take him as an enemy. The first half is true whether I notice it or not; the second half is left to me. An enemy is not defeated by disliking his name. He is defeated by refusing what he offers. And his offers rarely sound like a call to the Fire. They sound like a shortcut, a delay, a small grudge, a duty that can wait until tomorrow. The verse names where every one of those invitations is heading. So the real question is not whether I dislike him. It is whether, today, I accepted anything he held out to me.",
+    "reflectionBn": "আয়াতটি আগে একটি সত্য জানায়, তারপর একই শব্দ দিয়ে একটি আদেশ গড়ে। শয়তান তোমাদের শত্রু, কাজেই তাকে শত্রু হিসেবেই গ্রহণ কর। প্রথম অংশটা সত্য, আমি খেয়াল করি বা না করি। দ্বিতীয় অংশটা আমার হাতে ছেড়ে দেওয়া। শত্রুর নাম অপছন্দ করলেই তাকে হারানো যায় না। হারানো যায় সে যা দিতে চায়, তা ফিরিয়ে দিয়ে। আর তার ডাক খুব কমই জাহান্নামের ডাকের মতো শোনায়। শোনায় একটা শর্টকাটের মতো, একটু দেরির মতো, ছোট্ট এক রাগের মতো, কাল করলেও চলবে এমন এক দায়িত্বের মতো। আয়াতটি বলে দেয়, এসব ডাক শেষে কোথায় গিয়ে থামে। তাই আসল প্রশ্ন এ নয় যে আমি তাকে অপছন্দ করি কিনা। প্রশ্ন হলো, আজ সে যা বাড়িয়ে দিয়েছে, তার কোনোটা কি আমি হাত পেতে নিয়েছি?",
+    "pointsEn": [
+      "Which of my habits would I drop at once if I pictured it as an offer from someone who wants me harmed?",
+      "Do I curse Satan aloud while still keeping his suggestions company in private?",
+      "When a thought pushes me to delay a duty or to nurse a grudge, do I stop to ask whose call it is?",
+      "What act of obedience to Allah could be my answer this week to the whisper I give in to most?",
+      "Do I ever apply the words his party to other people, when the verse is warning me about myself?"
+    ],
+    "pointsBn": [
+      "আমার কোন অভ্যাসটা আমি সঙ্গে সঙ্গে ছেড়ে দিতাম, যদি ভাবতাম এটা এমন কারও দেওয়া উপহার, যে আমার ক্ষতি চায়?",
+      "প্রকাশ্যে শয়তানকে অভিশাপ দিই, অথচ গোপনে তার কুমন্ত্রণার সঙ্গ ছাড়ি না, এমন কি হয়?",
+      "কোনো চিন্তা যখন একটা দায়িত্ব পিছিয়ে দিতে বা মনে রাগ পুষে রাখতে ঠেলে দেয়, তখন কি থেমে জিজ্ঞেস করি, ডাকটা কার?",
+      "যে কুমন্ত্রণার কাছে আমি সবচেয়ে বেশি হার মানি, এ সপ্তাহে আল্লাহর আনুগত্যের কোন আমল দিয়ে তার জবাব দিতে পারি?",
+      "আয়াতটি যখন আমাকেই সাবধান করছে, তখন কি আমি তার দল কথাটা অন্য মানুষের গায়ে লাগিয়ে দিই?"
+    ],
+    "lessonEn": "Treat Satan as the enemy he is: refuse his suggestions, answer them with obedience to Allah, and keep in mind where his invitation leads.",
+    "lessonBn": "শয়তানকে তার আসল পরিচয়ে, শত্রু হিসেবেই নিন। তার কুমন্ত্রণা ফিরিয়ে দিন, আল্লাহর আনুগত্য দিয়ে তার জবাব দিন, আর মনে রাখুন তার ডাক কোথায় নিয়ে যায়।"
   }
 };
 

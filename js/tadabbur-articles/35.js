@@ -155,6 +155,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "35:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Deceiver Given a Name",
+          "bn": "প্রতারকের নাম প্রকাশ"
+        },
+        "p": [
+          {
+            "en": "In 35:5 the surah turns to all people: O mankind, the promise of Allah is true, so let not the life of this world delude you, and let not al-gharur, the Deceiver, delude you about Allah. Ibn Kathir's English abridgement records from Ibn 'Abbas (RA) that the Deceiver is Satan. As-Sa'di opens his comment on 35:6 by joining the two verses into a single sentence: al-gharur, who is Satan, who is your enemy in reality. The verse before warned against a deceiver; this verse says what he is.",
+            "bn": "৩৫:৫ আয়াতে সূরাটি সব মানুষকে ডেকে বলে: হে মানুষ, আল্লাহর ওয়াদা সত্য। কাজেই দুনিয়ার জীবন যেন তোমাদের ধোঁকায় না ফেলে, আর সেই আল-গারূর, মহাপ্রতারক, যেন আল্লাহর ব্যাপারে তোমাদের প্রতারিত না করে। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ ইবন আব্বাস (রাঃ) থেকে জানায়, এই প্রতারক হলো শয়তান। সা'দী ৩৫:৬ আয়াতের ব্যাখ্যা শুরু করেন দুই আয়াতকে একটিমাত্র বাক্যে জুড়ে: আল-গারূর, যে হলো শয়তান, যে বাস্তবেই তোমাদের শত্রু। আগের আয়াত এক প্রতারক সম্পর্কে সাবধান করেছিল। এ আয়াত বলে দেয়, সে আসলে কে।"
+          },
+          {
+            "en": "At-Tabari makes the same link from the other side. The Satan of this verse, he writes, is the one whose deluding of you about Allah I forbade you to be taken in by, O people. Ma'arif al-Qur'an, on 35:5, cites al-Qurtubi for what that delusion looks like: Satan shows a person his evil deeds as good until he goes on sinning while thinking himself accepted by Allah and safe from punishment. The Muyassar reads the pair as one: do not let Satan deceive you, for he is an enemy to the children of Adam.",
+            "bn": "তাবারী একই যোগসূত্র টানেন উল্টো দিক থেকে। তাঁর ভাষায়, এ আয়াতের শয়তান সে-ই, হে মানুষ, আল্লাহর ব্যাপারে যার ধোঁকায় পড়তে আমি তোমাদের নিষেধ করেছি। মাআরিফুল কুরআন ৩৫:৫ আয়াতের আলোচনায় কুরতুবীর বরাতে দেখায়, সেই ধোঁকা দেখতে কেমন। শয়তান মানুষের মন্দ আমলকে সুন্দর করে দেখায়। একসময় মানুষটা গুনাহ করেই চলে, আর ভাবে সে আল্লাহর কাছে কবুল হওয়া লোক, শাস্তি তাকে ছোঁবে না। মুয়াসসার দুই আয়াতকে একসঙ্গে পড়ে: শয়তান যেন তোমাদের ধোঁকা না দেয়, কারণ সে আদম সন্তানের শত্রু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hostility Declared in the Open",
+          "bn": "প্রকাশ্যে ঘোষিত শত্রুতা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains the first clause with a short phrase: huwa mubarizun lakum bil-'adawa, he has come out against you openly with enmity. His English abridgement renders it: he has declared his enmity towards you. The response he draws from that is more than equal to it. Be hostile to him with the fiercest hostility, he says, oppose him, and give him the lie in whatever he tempts you with. Then he adds: this is the manifest enemy. An enemy who has announced himself leaves no room for being taken by surprise.",
+            "bn": "ইবন কাসীর প্রথম বাক্যাংশটি খুলে বলেন ছোট্ট এক বাক্যে: হুয়া মুবারিযুন লাকুম বিল-আদাওয়া, সে খোলাখুলি শত্রুতা নিয়ে তোমাদের বিরুদ্ধে মাঠে নেমেছে। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণে কথাটা এমন: সে তোমাদের প্রতি তার শত্রুতা ঘোষণা করেছে। এর জবাব তিনি যা টানেন, তা সমান সমান নয়, তার চেয়েও বেশি। তোমরা তার সঙ্গে সবচেয়ে কঠিন শত্রুতা কর, তার বিরোধিতা কর, আর সে যা দিয়ে তোমাদের ভোলাতে চায়, তাকে মিথ্যা বলে প্রত্যাখ্যান কর। তারপর তিনি যোগ করেন: এই হলো প্রকাশ্য শত্রু। যে শত্রু নিজেকে ঘোষণা করেই এসেছে, তার হাতে আচমকা ধরা পড়ার কোনো অজুহাত থাকে না।"
+          },
+          {
+            "en": "Al-Qurtubi lists the evidence of that enmity. It shows in his expelling your father from Paradise, and in his pledge to lead you astray, which the Qur'an records in his own words: I will surely mislead them and arouse desires in them (4:119), and I will sit in wait for them on Your straight path, then come at them from before them and behind them (7:16, 7:17). Allah told us that Satan is a manifest enemy, al-Qurtubi writes, and related his story to us and what he did to our father Adam, and how he set himself to our enmity and deception before we existed and after.",
+            "bn": "কুরতুবী সেই শত্রুতার প্রমাণগুলো সাজিয়ে দেন। তার প্রমাণ হলো, সে তোমাদের পিতাকে জান্নাত থেকে বের করেছে। প্রমাণ তার সেই অঙ্গীকারও, তোমাদের পথভ্রষ্ট করবে বলে। কুরআন তা তুলে রেখেছে তারই মুখের কথায়: আমি অবশ্যই তাদের পথভ্রষ্ট করব, তাদের মনে নানা কামনা জাগিয়ে দেব (৪:১১৯)। আরও বলেছে: আমি তোমার সরল পথে তাদের জন্য ওঁত পেতে বসে থাকব, তারপর তাদের সামনে দিয়ে, পেছন দিয়ে তাদের কাছে আসব (৭:১৬, ৭:১৭)। কুরতুবী লেখেন, আল্লাহ আমাদের জানিয়ে দিয়েছেন শয়তান প্রকাশ্য শত্রু। তার কাহিনি তিনি আমাদের শুনিয়েছেন, আমাদের পিতা আদম (আঃ)-এর সঙ্গে সে যা করেছে তা-ও। আর কীভাবে সে আমাদের অস্তিত্বের আগে থেকে এবং পরেও আমাদের শত্রুতা ও ধোঁকার কাজে নিজেকে নিয়োজিত করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Word, Now a Command",
+          "bn": "একই শব্দ, এবার আদেশ হয়ে"
+        },
+        "p": [
+          {
+            "en": "The verse says 'aduwwun, an enemy, and then fa-ttakhidhuhu 'aduwwan, so take him as an enemy. The fact comes first and the command repeats it. At-Tabari reads the command as giving Satan a place inside oneself: give him, in your own souls, the standing of an enemy. Al-Qurtubi adds a note on the word. 'Aduww can mean one who shows hostility, and then it takes a dual, a plural and a feminine; or it can name a relation, and then it stays singular in every case, as when Ibrahim (AS) says of the many things his people worshipped, fa-innahum 'aduwwun li, they are an enemy to me (26:77).",
+            "bn": "আয়াতটি আগে বলে আদুওউন, শত্রু। তারপর বলে ফাত্তাখিযূহু আদুওয়ান, কাজেই তাকে শত্রু হিসেবে গ্রহণ কর। সত্যটা আগে আসে, আদেশ সেটাকেই আবার উচ্চারণ করে। তাবারী আদেশটাকে পড়েন নিজের ভেতরে শয়তানকে একটা জায়গা দেওয়া হিসেবে: নিজেদের মনে তাকে শত্রুর আসনে বসাও। কুরতুবী শব্দটি নিয়ে একটি টীকা যোগ করেন। আদুও শব্দের অর্থ হতে পারে শত্রুতাকারী। তখন এর দ্বিবচন, বহুবচন, স্ত্রীলিঙ্গ সবই হয়। আবার এটি একটা সম্পর্কের নামও হতে পারে। তখন সব অবস্থায় শব্দটি একবচনেই থাকে। যেমন ইবরাহীম (আঃ) তাঁর কওমের পূজিত বহু জিনিস সম্পর্কে বলেন ফাইন্নাহুম আদুওউন লী, তারা আমার শত্রু (২৬:৭৭)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Enmity Waged by Obeying",
+          "bn": "আনুগত্যই যে শত্রুতার অস্ত্র"
+        },
+        "p": [
+          {
+            "en": "How does one take Satan as an enemy? At-Tabari brings Qatada's answer with its chain: it is a binding duty on every Muslim to be his enemy, and his enmity is that one opposes him by obedience to Allah. Al-Baghawi gives almost the same words: be hostile to him by obedience to Allah, and do not obey him. Al-Qurtubi: be hostile to him and do not obey him. The Muyassar: take him as an enemy and do not obey him. Four readings arrive at one act, and it is a refusal.",
+            "bn": "শয়তানকে শত্রু হিসেবে গ্রহণ করা যায় কীভাবে? তাবারী সনদসহ কাতাদার জবাব এনেছেন: প্রত্যেক মুসলিমের উপর তার সঙ্গে শত্রুতা রাখা অবশ্যকর্তব্য। আর তার সঙ্গে শত্রুতা হলো, আল্লাহর আনুগত্য দিয়ে তার মোকাবিলা করা। বাগাভী প্রায় একই কথা বলেন: আল্লাহর আনুগত্য দিয়ে তার সঙ্গে শত্রুতা কর, আর তার কথা মেনো না। কুরতুবী বলেন: তার সঙ্গে শত্রুতা কর, তার আনুগত্য কোরো না। মুয়াসসার বলে: তাকে শত্রু হিসেবে গ্রহণ কর, তার কথা মেনো না। চারটি ব্যাখ্যা এসে মেলে একটি কাজে, আর সে কাজ হলো প্রত্যাখ্যান।"
+          },
+          {
+            "en": "At-Tabari spells the refusal out. Beware of him through obedience to Allah, he writes, and through treating him as one whose counsel is false, with the same caution you keep towards an enemy whose treachery you fear for yourselves. So do not obey him, and do not follow his footsteps. That last phrase is the Qur'an's own: do not follow the footsteps of Satan; indeed, he is to you a clear enemy (2:168, 2:208). Enmity here is a guard posted, not a feeling nursed.",
+            "bn": "তাবারী এই প্রত্যাখ্যানের বিস্তারিত দেন। তিনি লেখেন, আল্লাহর আনুগত্যের মাধ্যমে তার থেকে সাবধান থাক। তাকে এমন একজন বলে জানো, যার পরামর্শ ভেজাল। যে শত্রুর বিশ্বাসঘাতকতায় নিজের ক্ষতির ভয় কর, তার ব্যাপারে যতটা সতর্ক থাক, তার ব্যাপারেও ততটাই থাক। কাজেই তার কথা মেনো না, তার পদাঙ্ক অনুসরণ কোরো না। শেষ কথাটা কুরআনেরই ভাষা: শয়তানের পদাঙ্ক অনুসরণ কোরো না, নিশ্চয়ই সে তোমাদের প্রকাশ্য শত্রু (২:১৬৮, ২:২০৮)। এখানে শত্রুতা মানে মনে পুষে রাখা কোনো অনুভূতি নয়, বরং পাহারায় দাঁড় করানো এক প্রহরী।"
+          },
+          {
+            "en": "Ibn Kathir puts the weight on belief: oppose him and give him the lie in what he tempts you with. In his reading the refusal starts with what a person believes about the enemy's promises. He ends his comment with a supplication that defines the enmity by what it follows. We ask Allah, the Strong, the Mighty, to make us enemies of Satan, and to grant us the following of His Book and of the way of His Messenger. The opposite of obeying the enemy, in that prayer, is following the Book.",
+            "bn": "ইবন কাসীর জোর দেন বিশ্বাসের জায়গায়: তার বিরোধিতা কর, আর সে যা দিয়ে তোমাদের ভোলাতে চায়, তাকে মিথ্যা বলে জানো। তাঁর ব্যাখ্যায় প্রত্যাখ্যান শুরু হয় মনের ভেতরে, শত্রুর প্রতিশ্রুতিকে বিশ্বাস না করা দিয়ে। তিনি ব্যাখ্যা শেষ করেন এক দোয়া দিয়ে, যেখানে শত্রুতার পরিচয় মেলে সে কী অনুসরণ করে তা দিয়ে। আমরা মহাশক্তিমান, মহাপরাক্রমশালী আল্লাহর কাছে চাই, তিনি যেন আমাদের শয়তানের শত্রু বানান, আর তাঁর কিতাব ও তাঁর রাসূলের পথ অনুসরণের তাওফীক দেন। সে দোয়ায় শত্রুর আনুগত্যের বিপরীত হলো কিতাবের অনুসরণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Watch Kept at Every Hour",
+          "bn": "প্রতিটি প্রহরে সতর্ক পাহারা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di adds the dimension of time. Take him as an enemy, he writes, means: let his enmity stay on your mind, and do not neglect fighting him at any hour, for he sees you while you do not see him, and he is always lying in wait for you. The picture recalls 7:27, where Satan sees you, he and his tribe, from where you do not see them. An enemy who never sleeps is not answered by a single resolution; he is answered by a watch that keeps being renewed.",
+            "bn": "সা'দী এখানে সময়ের মাত্রা যোগ করেন। তিনি লেখেন, তাকে শত্রু হিসেবে গ্রহণ করার মানে: তার শত্রুতার কথা মনে জাগিয়ে রাখো, আর কোনো মুহূর্তেই তার বিরুদ্ধে লড়াইয়ে ঢিল দিয়ো না। কারণ সে তোমাদের দেখে, তোমরা তাকে দেখো না, আর সে সবসময় তোমাদের জন্য ওঁত পেতে আছে। ছবিটা মনে করিয়ে দেয় ৭:২৭ আয়াতকে, যেখানে শয়তান ও তার দলবল তোমাদের দেখে এমন জায়গা থেকে, যেখান থেকে তোমরা তাদের দেখো না। যে শত্রু কখনো ঘুমায় না, একবারের প্রতিজ্ঞায় তার জবাব হয় না। তার জবাব হলো বারবার নতুন করে বসানো পাহারা।"
+          },
+          {
+            "en": "None of the commentaries fetched for 35:6 attaches a hadith to the verse. A general narration in al-Bukhari (2035) shows the same watchfulness in practice. Safiyya (RA), the Prophet's wife, visited him in the mosque while he was in i'tikaf in the last ten days of Ramadan. When she rose to go home he walked with her, and at the mosque gate two men of the Ansar passed and greeted him. He told them she was Safiyya bint Huyayy; they said Subhan Allah, and it weighed on them.",
+            "bn": "৩৫:৬ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তবে বুখারীর (২০৩৫) একটি সাধারণ বর্ণনায় এই সতর্কতার বাস্তব ছবি পাওয়া যায়। নবী ﷺ রমযানের শেষ দশটি দিনে মসজিদে ই'তিকাফে ছিলেন। তাঁর স্ত্রী সাফিয়্যা (রাঃ) সেখানে তাঁর সঙ্গে দেখা করতে যান। বাড়ি ফেরার জন্য উঠলে নবী ﷺ তাঁর সঙ্গে হেঁটে এগিয়ে দেন। মসজিদের দরজার কাছে আনসারের দুজন লোক পাশ দিয়ে যেতে যেতে তাঁকে সালাম দিলেন। তিনি তাঁদের জানালেন, ইনি সাফিয়্যা বিনত হুয়াই। তাঁরা বললেন, সুবহানাল্লাহ, আর ব্যাপারটা তাঁদের কাছে ভারী ঠেকল।"
+          },
+          {
+            "en": "Then he said, in the wording on quranx: \"Satan reaches everywhere in the human body as blood reaches in it, (everywhere in one's body). I was afraid lest Satan might insert an evil thought in your minds.\" Al-Bukhari records it in his Sahih, and no commentator here links it to this verse. It is brought only because it shows, in the conduct of the Prophet ﷺ himself, what keeping the enemy in mind can look like: closing a door before a whisper can pass through it, even in the hearts of others.",
+            "bn": "তারপর তিনি বললেন: ইন্নাশ শায়তানা ইয়াবলুগু মিনাল ইনসানি মাবলাগাদ দাম। শয়তান মানুষের ভেতরে ততদূর পৌঁছে যায়, যতদূর রক্ত পৌঁছায়। আমার ভয় হলো, সে তোমাদের অন্তরে কোনো কিছু ঢেলে দিতে পারে। বুখারী তাঁর সহীহ গ্রন্থে এটি বর্ণনা করেছেন, আর এখানে কোনো মুফাসসির একে এ আয়াতের সঙ্গে যুক্ত করেননি। এটি আনা হলো কেবল একটি কারণে: শত্রুকে মনে রাখা বাস্তবে কেমন হতে পারে, তা নবী ﷺ-এর নিজের আচরণে দেখা যায়। কুমন্ত্রণা ঢোকার আগেই দরজাটা বন্ধ করে দেওয়া, তা অন্যের অন্তরে হলেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cursed Aloud, Befriended in Secret",
+          "bn": "মুখে অভিশাপ, গোপনে বন্ধুত্ব"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi does not leave the verse as a description of others. Having listed what Satan did to our father and how he set out against us, he writes: and we, in spite of that, take him as an ally and obey him in what he wants from us, in which lies our ruin. Then he quotes al-Fudayl ibn 'Iyad: O liar, O fabricator, fear Allah, and do not revile Satan in public while you are his friend in secret. The rebuke is aimed at the tongue that curses while the life complies.",
+            "bn": "কুরতুবী আয়াতটিকে অন্যদের বর্ণনা হিসেবে রেখে দেন না। শয়তান আমাদের পিতার সঙ্গে কী করেছে, আর কীভাবে আমাদের বিরুদ্ধে নেমেছে, তা গুনিয়ে তিনি লেখেন: আর আমরা এত কিছুর পরও তাকে অভিভাবক বানাই, সে আমাদের কাছে যা চায় তাতে তার কথা মানি, অথচ তাতেই আমাদের ধ্বংস। তারপর তিনি ফুদাইল ইবন ইয়াদের কথা আনেন: হে মিথ্যুক, হে অপবাদকারী, আল্লাহকে ভয় কর। প্রকাশ্যে শয়তানকে গালি দিয়ো না, অথচ গোপনে তুমিই তার বন্ধু। ভর্ৎসনাটা সেই জিভের দিকে, যে অভিশাপ দেয়, অথচ জীবন তার কথামতোই চলে।"
+          },
+          {
+            "en": "He adds the wonder of Ibn as-Sammak: how strange is the one who disobeys the Benefactor after knowing His kindness, and obeys the accursed after knowing his enmity! Ibn Kathir sets 35:6 beside 18:50, where the same reversal is put as a question: will you then take him and his descendants as allies other than Me, while they are enemies to you? Wretched it is for the wrongdoers as an exchange. Both voices turn on one gap, between knowing who the enemy is and still choosing his company.",
+            "bn": "কুরতুবী সঙ্গে আনেন ইবনুস সাম্মাকের বিস্ময়: কী আশ্চর্য সেই মানুষ, যে অনুগ্রহকারীর অনুগ্রহ চিনেও তাঁর নাফরমানি করে, আর অভিশপ্তের শত্রুতা চিনেও তার আনুগত্য করে! ইবন কাসীর ৩৫:৬ আয়াতকে রাখেন ১৮:৫০ আয়াতের পাশে, যেখানে একই উল্টো আচরণ প্রশ্নের আকারে এসেছে: তোমরা কি আমাকে ছেড়ে তাকে আর তার বংশধরদের অভিভাবক বানাবে, অথচ তারা তোমাদের শত্রু? জালিমদের জন্য এ বদল কতই না নিকৃষ্ট! দুই কণ্ঠই ঘোরে একই ফাঁক ঘিরে। শত্রু কে তা জানা, তবু তারই সঙ্গ বেছে নেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Membership by Answering His Call",
+          "bn": "ডাকে সাড়া দিলেই দলভুক্ত"
+        },
+        "p": [
+          {
+            "en": "Innama yad'u hizbahu: he only invites his party. Every gloss of hizb defines it by following. At-Tabari: his partisans and whoever obeys him, whom he calls to obey him, to accept from him and to disbelieve in Allah. Qatada, in at-Tabari: his party are his allies. Al-Qurtubi: his adherents. Al-Baghawi: his adherents and his allies. The Muyassar: his followers, whom he calls to misguidance. None of them names a tribe, a nation or a sect. The party is whoever answers the call.",
+            "bn": "ইন্নামা ইয়াদঊ হিযবাহু: সে কেবল তার দলকে ডাকে। হিযব শব্দের প্রতিটি ব্যাখ্যা দলটিকে চেনায় অনুসরণ দিয়ে। তাবারী বলেন: তার অনুসারী গোষ্ঠী আর যে-ই তার আনুগত্য করে। সে তাদের ডাকে তার কথা মানতে, তার কাছ থেকে গ্রহণ করতে, আর আল্লাহর সঙ্গে কুফরি করতে। তাবারীর বর্ণনায় কাতাদা বলেন: তার দল মানে তার বন্ধুরা। কুরতুবী বলেন: তার অনুগামীরা। বাগাভী বলেন: তার অনুগামী ও বন্ধুরা। মুয়াসসার বলে: তার অনুসারীরা, যাদের সে গোমরাহির দিকে ডাকে। এঁদের কেউই কোনো গোত্র, জাতি বা দলের নাম নেননি। দল মানে সে-ই, যে তার ডাকে সাড়া দেয়।"
+          },
+          {
+            "en": "Ibn Zayd, also in at-Tabari, says these are his party from among humankind, and defines the word: the party are those in his charge, whom he takes as allies and who take him as their ally. Then Ibn Zayd recited 7:196: my protector is Allah, who sent down the Book, and He takes the righteous under His protection. The recitation sets one guardianship against another. The Qur'an draws the same line in 58:19 and 58:22, where the party of Satan, those he has made forget the remembrance of Allah, stands opposite the party of Allah.",
+            "bn": "তাবারীর বর্ণনায় ইবন যায়দও বলেন, এরা মানুষের মধ্য থেকে তার দল। তারপর তিনি শব্দটির সংজ্ঞা দেন: দল মানে তার আওতাধীন লোকেরা, যাদের সে বন্ধু বানায়, আর যারা তাকে বন্ধু বানায়। এরপর ইবন যায়দ তিলাওয়াত করেন ৭:১৯৬: আমার অভিভাবক আল্লাহ, যিনি কিতাব নাযিল করেছেন, আর তিনিই সৎকর্মশীলদের অভিভাবকত্ব করেন। তিলাওয়াতটি এক অভিভাবকত্বের মুখোমুখি দাঁড় করায় আরেক অভিভাবকত্বকে। কুরআন একই রেখা টানে ৫৮:১৯ ও ৫৮:২২ আয়াতে। সেখানে শয়তানের দল, যাদের সে আল্লাহর জিকির ভুলিয়ে দিয়েছে, দাঁড়িয়ে আছে আল্লাহর দলের বিপরীতে।"
+          },
+          {
+            "en": "This needs saying plainly. His party names no living group. The verse describes what it describes: a call, and those who answer it, and where the answer leads. It licenses nothing against any living person or community, and gives no reader the right to label a Muslim, a neighbour or any people as the party of Satan. Its address is you, and al-Qurtubi counted himself among those who obey the enemy. The warning is meant to be heard first by the one reading it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তার দল বলতে আজকের কোনো জীবিত গোষ্ঠী বোঝানো হয়নি। আয়াতটি যা বর্ণনা করে, তা-ই বর্ণনা করে: একটা ডাক, তাতে সাড়া দেওয়া লোকেরা, আর সে সাড়া কোথায় নিয়ে যায়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো মুসলিম, কোনো প্রতিবেশী বা কোনো জাতিকে শয়তানের দল বলে দাগিয়ে দেওয়ার অধিকারও কোনো পাঠককে দেয় না। আয়াতের সম্বোধন আপনার দিকে। আর কুরতুবী নিজেকেও গুনেছেন শত্রুর কথা মানা লোকদের মধ্যে। সতর্কবাণীটা তাই সবার আগে শোনার কথা যে পড়ছে, তারই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Every Invitation Ends",
+          "bn": "প্রতিটি ডাকের শেষ ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "Innama narrows the call to a single purpose; al-Qurtubi notes that its ma holds inna back from governing, so a verb can follow it. Li-yakunu min ashab as-sa'ir: that they may be among the companions of the Blaze. At-Tabari explains them as those who abide forever in the fire of Jahannam that blazes upon its people. As-Sa'di calls this his goal and his aim with whoever follows him: that he be humiliated to the utmost by severe punishment. Ibn Kathir: he only means to misguide you until you enter the Blaze with him.",
+            "bn": "ইন্নামা ডাকটিকে একটিমাত্র উদ্দেশ্যে বেঁধে দেয়। কুরতুবী জানান, এর মা ইন্নাকে কাজ করতে দেয় না, তাই এর পরে ক্রিয়া আসতে পারে। লিয়াকূনূ মিন আসহাবিস সাঈর: যাতে তারা জ্বলন্ত আগুনের সঙ্গী হয়। তাবারীর ব্যাখ্যায় এরা জাহান্নামের সেই আগুনে চিরকাল থাকবে, যা তার বাসিন্দাদের উপর দাউ দাউ করে জ্বলে। সা'দী বলেন, যে তাকে অনুসরণ করে, তাকে নিয়ে শয়তানের লক্ষ্য ও উদ্দেশ্য এটাই: কঠিন শাস্তি দিয়ে তাকে চরম লাঞ্ছিত করা। ইবন কাসীর বলেন: সে কেবল তোমাদের পথভ্রষ্ট করতে চায়, যাতে তোমরা তার সঙ্গে জ্বলন্ত আগুনে ঢোকো।"
+          },
+          {
+            "en": "Qatada closes his gloss with the words: to drive them to the Fire, and this is his enmity. Al-Qurtubi ends his comment on the same words, this is his enmity. The enemy is known by where he leads. Al-Baghawi then turns to the next verse: Allah goes on to explain the state of those who agree with him and those who oppose him. In 35:7 the deniers have a severe punishment, and those who believe and do righteous deeds have forgiveness and a great reward. The invitation has a known end, and so does refusing it.",
+            "bn": "কাতাদা তাঁর ব্যাখ্যা শেষ করেন এ কথায়: তাদের আগুনের দিকে তাড়িয়ে নেওয়া, এটাই তার শত্রুতা। কুরতুবীও তাঁর আলোচনা থামান ঠিক এ কথাতেই: এটাই তার শত্রুতা। শত্রুকে চেনা যায় সে কোথায় নিয়ে যায় তা দেখে। এরপর বাগাভী পরের আয়াতের দিকে যান: আল্লাহ এবার বলে দেন, যারা তার সঙ্গে মেলে আর যারা তার বিরোধিতা করে, তাদের পরিণতি কী। ৩৫:৭ আয়াতে অস্বীকারকারীদের জন্য কঠিন শাস্তি, আর যারা ঈমান আনে ও সৎকাজ করে, তাদের জন্য মাগফিরাত ও মহাপুরস্কার। ডাকটির শেষ ঠিকানা জানা, তাকে ফিরিয়ে দেওয়ার শেষ ঠিকানাও জানা।"
+          }
+        ]
+      }
+    ]
+  },
   "35:10": {
     "sections": [
       {
