@@ -23831,6 +23831,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not wait for good to be hurried your way and read it as approval; hasten to good yourself, and treat every ease as a test still running.",
     "lessonBn": "কল্যাণ আপনার দিকে ছুটে আসছে দেখে তাকে সন্তুষ্টির সনদ ভাববেন না; নিজেই কল্যাণের দিকে ছুটুন, আর প্রতিটি স্বাচ্ছন্দ্যকে চলমান পরীক্ষা মনে করুন।"
+  },
+  "23:28": {
+    "reflectionEn": "The ship is built, the pairs are loaded, the water is rising. And before any shore is in sight, Nuh is given the words to say once he and those with him are settled on board: praise belongs to Allah, who has saved us from the wrongdoing people. The first sentence of safety is not relief muttered to oneself, and it is not a verdict on those left outside. It names the One who rescued. The ship is still riding the waves, yet the rescue is already counted as His gift. When I am lifted out of something that was crushing me, who do I thank first? And do I wait for the landing before I praise, or do I praise in the moment I am held?",
+    "reflectionBn": "নৌযান তৈরি শেষ, জোড়ায় জোড়ায় প্রাণী উঠে গেছে, পানি বাড়ছে। তীরের দেখা তখনো নেই। এর আগেই নূহ (আঃ)-কে শিখিয়ে দেওয়া হলো, তিনি আর তাঁর সঙ্গীরা নৌযানে ঠিকঠাক বসে গেলে কী বলবেন: সকল প্রশংসা আল্লাহর, যিনি আমাদের যালিম সম্প্রদায় থেকে উদ্ধার করেছেন। নিরাপত্তার প্রথম বাক্যটা নিজের মনে স্বস্তির নিঃশ্বাস নয়। বাইরে যারা রয়ে গেল, তাদের নিয়ে কোনো রায়ও নয়। বাক্যটা নাম নেয় তাঁর, যিনি বাঁচালেন। নৌযান তখনো ঢেউয়ের উপর, অথচ উদ্ধারকে এখনই তাঁর দান বলে গোনা হচ্ছে। যা আমাকে পিষে ফেলছিল, তা থেকে যখন আমাকে তুলে আনা হয়, আমি প্রথমে কার শুকরিয়া করি? আর প্রশংসার জন্য কি আমি তীরে নামা পর্যন্ত অপেক্ষা করি, নাকি যে মুহূর্তে আমাকে আগলে নেওয়া হলো, তখনই প্রশংসা করি?",
+    "pointsEn": [
+      "When did I last settle into a car, a bus or a plane and make my first words a praise of Allah?",
+      "What has Allah already rescued me from that I still describe as luck or as my own doing?",
+      "Do I hold back my thanks until the whole trouble is over, or can I praise Him while the water is still around me?",
+      "When I am freed from someone's harm, does my heart turn to gratitude, or to wishing them ruin?",
+      "Who travels with me, at home or on the road, and have I taught them the words to say?"
+    ],
+    "pointsBn": [
+      "শেষবার কবে গাড়ি, বাস বা বিমানে উঠে বসে আমার মুখের প্রথম কথাটা আল্লাহর প্রশংসা ছিল?",
+      "আল্লাহ আমাকে এমন কী থেকে বাঁচিয়েছেন, যাকে আমি এখনো কপালের জোর বা নিজের কৃতিত্ব বলে চালাই?",
+      "পুরো বিপদ কেটে যাওয়া পর্যন্ত কি আমি শুকরিয়া জমিয়ে রাখি? নাকি চারপাশে পানি থাকতেই তাঁর প্রশংসা করতে পারি?",
+      "কারও অনিষ্ট থেকে যখন রেহাই পাই, আমার মন কি কৃতজ্ঞতার দিকে যায়, নাকি তার সর্বনাশ কামনার দিকে?",
+      "ঘরে কিংবা পথে কারা আমার সঙ্গী? তাদের কি আমি বলার কথাগুলো শিখিয়েছি?"
+    ],
+    "lessonEn": "When Allah lifts you clear of harm, make your first word praise to the One who saved you, said at once, not saved for the shore, and never turned into gloating.",
+    "lessonBn": "আল্লাহ যখন আপনাকে বিপদ থেকে তুলে আনেন, প্রথম কথাটাই হোক তাঁর প্রশংসা, যিনি বাঁচালেন। তা বলুন তখনই, তীরে নামার অপেক্ষায় না রেখে। আর সে প্রশংসাকে কখনো অন্যের দুর্দশায় উল্লাসে পরিণত করবেন না।"
   }
 };
 

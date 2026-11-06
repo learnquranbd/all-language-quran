@@ -879,6 +879,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Sentence Taught for the Deck",
+          "bn": "নৌযানে বলার জন্য শেখানো বাক্য"
+        },
+        "p": [
+          {
+            "en": "The prayer came first: My Lord, help me, because they have denied me (23:26). The answer, in 23:27, was a set of instructions, to build the ship under God's eyes and to load it when the signal came. Our verse is the next instruction, and it is about neither timber nor cargo. Fa-idha istawayta anta wa man ma'aka 'ala al-fulki fa-quli al-hamdu lillahi alladhi najjana min al-qawmi az-zalimin: and when you are settled on the ship, you and those with you, say, Praise be to Allah, who has saved us from the wrongdoing people.",
+            "bn": "আগে এসেছিল দোয়া: হে আমার রব, আমাকে সাহায্য করুন, কারণ ওরা আমাকে মিথ্যাবাদী বলেছে (২৩:২৬)। তার জবাব ২৩:২৭ আয়াতে, একগুচ্ছ নির্দেশ হয়ে। আল্লাহর চোখের সামনে নৌযান বানাও, আর সংকেত এলে তাতে তুলে নাও। আমাদের আয়াতটি তার পরের নির্দেশ। এবার কাঠের কথা নেই, মালপত্রেরও না। ফা ইযাসতাওয়াইতা আনতা ওয়া মান মাআকা আলাল ফুলকি ফাকুলিল হামদু লিল্লাহিল্লাযী নাজ্জানা মিনাল কাওমিয যালিমীন: যখন তুমি আর তোমার সঙ্গীরা নৌযানে ঠিকঠাক বসে যাবে, তখন বলো, সকল প্রশংসা আল্লাহর, যিনি আমাদের যালিম সম্প্রদায় থেকে উদ্ধার করেছেন।"
+          },
+          {
+            "en": "Fifteen words in Arabic, and most of them are words to be said. God is teaching His prophet a sentence for one particular moment, the moment of being aboard and held up by the water. The verse after it gives a second sentence, a prayer to be set down at a blessed landing place (23:29). This article stays with the first sentence: the moment it belongs to, who says it, and what exactly is praised.",
+            "bn": "আরবিতে পনেরোটি শব্দ, তার বেশির ভাগই মুখে বলার কথা। আল্লাহ তাঁর নবীকে একটা নির্দিষ্ট মুহূর্তের জন্য একটা বাক্য শিখিয়ে দিচ্ছেন। মুহূর্তটা হলো নৌযানে উঠে পানির উপর ভেসে থাকা। পরের আয়াতে আসে দ্বিতীয় বাক্য, বরকতময় জায়গায় নামিয়ে দেওয়ার দোয়া (২৩:২৯)। এই লেখা থাকবে প্রথম বাক্যটির সঙ্গে: কোন মুহূর্তের কথা, কে বলবে, আর ঠিক কীসের জন্য প্রশংসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Settled and Riding High",
+          "bn": "উঠে বসা, স্থির হয়ে ভেসে চলা"
+        },
+        "p": [
+          {
+            "en": "Everything hangs on the verb istawayta. At-Tabari glosses it as i'tadalta, when you are level and steady in the ship, and he fills in the picture: riding in it, high up on top of it, you and those you carried with you. Al-Baghawi gives the same single word, i'tadalta. Al-Qurtubi chooses another, 'alawta, you have gone up, and adds that they are riding. So the condition is not the hurry of climbing in. It is the moment the body has found its place and the ship is carrying it.",
+            "bn": "পুরো কথাটা ঝুলে আছে ইসতাওয়াইতা ক্রিয়ার উপর। তাবারী এর অর্থ করেন ই'তাদালতা: যখন তুমি নৌযানে সোজা হয়ে স্থির হবে। ছবিটাও তিনি পূর্ণ করে দেন: তাতে আরোহী হয়ে, তার উপরে উঁচুতে, তুমি আর তোমার সঙ্গে যাদের তুলে নিয়েছ। বাগাভীও একই শব্দ দেন, ই'তাদালতা। কুরতুবী বেছে নেন অন্য শব্দ, আলাওতা, অর্থাৎ তুমি উপরে উঠেছ, আর যোগ করেন যে তারা আরোহী। তাহলে শর্তটা হুড়োহুড়ি করে ওঠার মুহূর্ত নয়। শর্ত সেই মুহূর্ত, যখন শরীর নিজের জায়গা পেয়ে গেছে আর নৌযান তাকে বয়ে নিয়ে চলেছে।"
+          },
+          {
+            "en": "Two commentators then show what that moment felt like, and their pictures differ. Al-Muyassar describes them up on the ship and settled upon it, safe from drowning: the stress falls on security. As-Sa'di describes the ship lifting them off into the current of the waves and the deep waters of the sea: the stress falls on motion and on the open flood around them. Both pictures place the words on board, while the water still covers everything, and neither delays them until the ship comes to rest.",
+            "bn": "সেই মুহূর্তটা কেমন ছিল, দুজন মুফাসসির তা দেখান, আর তাঁদের ছবি এক নয়। মুয়াসসার বলে, তারা নৌযানের উপরে উঠে তাতে স্থির হয়ে বসেছে, ডুবে যাওয়ার ভয় থেকে নিরাপদ। এখানে জোর নিরাপত্তার উপর। সা'দী বলেন, নৌযান তাদের নিয়ে ভেসে চলেছে ঢেউয়ের স্রোতে আর সাগরের গভীর জলে। এখানে জোর চলার উপর, চারপাশের অথৈ পানির উপর। দুই ছবিতেই কথাগুলো বলা হচ্ছে নৌযানের উপরে, যখন পানি তখনো সব ঢেকে রেখেছে। নৌযান থামা পর্যন্ত কেউই তা পিছিয়ে দেন না।"
+          },
+          {
+            "en": "The same verb returns in 43:13, where riders settle on the backs of ships and cattle and are told to remember their Lord's favour once they are settled. As-Sa'di explains it there as to sit firm upon them, and says it covers the backs of ships as well as of animals. In both places the word marks the point where effort ends and being carried begins. That is exactly when the tongue is told to speak.",
+            "bn": "একই ক্রিয়া আবার আসে ৪৩:১৩ আয়াতে। সেখানে আরোহীরা নৌযান আর পশুর পিঠে উঠে বসে, আর বলা হয়, বসে যাওয়ার পর রবের অনুগ্রহ স্মরণ করো। সেখানে সা'দী এর অর্থ করেন, তাতে স্থির হয়ে বসা। তিনি বলেন, এতে নৌযানের পিঠও আছে, পশুর পিঠও। দুই জায়গাতেই শব্দটা সেই সীমা চিনিয়ে দেয়, যেখানে নিজের চেষ্টা শেষ আর বয়ে নেওয়া শুরু। ঠিক তখনই মুখকে কথা বলতে বলা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Is Told, All Speak",
+          "bn": "বলা হলো একজনকে, বলবে সবাই"
+        },
+        "p": [
+          {
+            "en": "The verse names two parties: anta, you, spelled out as a word of its own, and man ma'aka, whoever is with you. At-Tabari identifies the second as those of the family of Nuh (AS) whom he carried with him. None of the commentaries fetched for this verse gives a number for those aboard or a list of their names, and this article does not supply one. The verse itself does not count them. It is content to say with you: they share the deck, the rescue and the sentence.",
+            "bn": "আয়াতে দুই পক্ষের নাম আছে। আনতা, তুমি, আলাদা শব্দে স্পষ্ট করে বলা। আর মান মাআকা, যারা তোমার সঙ্গে আছে। তাবারী দ্বিতীয় পক্ষকে চিহ্নিত করেন নূহ (আঃ)-এর পরিবারের সেই লোকদের দিয়ে, যাদের তিনি সঙ্গে তুলে নিয়েছিলেন। এই আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতেই আরোহীদের সংখ্যা বা নামের তালিকা নেই। এ লেখাও তাই কোনো সংখ্যা দিচ্ছে না। আয়াত নিজেও তাদের গোনে না, শুধু বলে, তোমার সঙ্গে। একই নৌযান, একই উদ্ধার, একই বাক্য তাদের।"
+          },
+          {
+            "en": "Then the grammar turns. Fa-qul, say, is singular and addressed to Nuh alone, yet the praise he is to say is plural: najjana, He saved us. Al-Qurtubi paraphrases the command with a plural verb, ihmadu Allah, all of you praise Allah for delivering you. As-Sa'di states it outright: this is God's teaching to Nuh and to those with him, that they should say it in thanks and praise for their rescue. One man is addressed and a whole company speaks. The prophet leads even in the wording of gratitude.",
+            "bn": "তারপর ব্যাকরণে একটা মোড় আসে। ফাকুল, বলো, একবচন, শুধু নূহ (আঃ)-কে বলা। অথচ যে প্রশংসা তিনি করবেন তা বহুবচনে: নাজ্জানা, তিনি আমাদের বাঁচিয়েছেন। কুরতুবী আদেশটির ব্যাখ্যা করেন বহুবচনের ক্রিয়া দিয়ে, ইহমাদুল্লাহ: তোমরা সবাই আল্লাহর প্রশংসা করো, তিনি তোমাদের মুক্ত করেছেন বলে। সা'দী কথাটা সরাসরি বলেন: এ হলো নূহ (আঃ) আর তাঁর সঙ্গীদের প্রতি আল্লাহর শিক্ষা, যেন উদ্ধারের শুকরিয়া আর প্রশংসা হিসেবে তারা এ কথা বলে। সম্বোধন একজনকে, বলবে পুরো দল। শুকরিয়ার ভাষাতেও নবীই সামনে থাকেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise While Still Afloat",
+          "bn": "ভেসে থাকতেই প্রশংসা"
+        },
+        "p": [
+          {
+            "en": "The words chosen are al-hamdu lillah. Al-Qurtubi calls them the word of everyone who gives thanks to Allah, and refers his reader back to his treatment of the phrase under al-Fatiha. As-Sa'di pairs two terms, shukr and hamd: they say it as thanks to Him and as praise of Him. So the phrase given for this moment is the same phrase that heads the praise of al-Fatiha. The first speech of the rescued is not a gasp of relief, and not a claim to have been proved right after the mockery of 23:24 and 23:25.",
+            "bn": "বেছে নেওয়া কথাটা হলো আলহামদু লিল্লাহ। কুরতুবী একে বলেন, আল্লাহর প্রতি কৃতজ্ঞ প্রত্যেক মানুষের কথা। এর বিস্তারিত ব্যাখ্যার জন্য তিনি পাঠককে সূরা ফাতিহার আলোচনায় ফিরে যেতে বলেন। সা'দী দুটি শব্দ পাশাপাশি রাখেন, শুকর আর হামদ: তারা এ কথা বলবে তাঁর শুকরিয়া হিসেবে, তাঁর প্রশংসা হিসেবে। তাহলে এই মুহূর্তের জন্য যে বাক্য দেওয়া হলো, সূরা ফাতিহার প্রশংসাও শুরু হয় সেই বাক্য দিয়ে। উদ্ধার পাওয়া মানুষদের প্রথম কথা হাঁপ ছেড়ে বাঁচার শব্দ নয়। ২৩:২৪ ও ২৩:২৫ আয়াতের ঠাট্টা-বিদ্রূপের পর নিজেকে সঠিক প্রমাণের দাবিও নয়।"
+          },
+          {
+            "en": "Notice the timing. The flood is not over; in as-Sa'di's picture the ship is out among the waves and the depths. Yet the verb is past: najjana, He has saved us. The rescue is counted as done while the danger still surrounds them on every side. The request for a blessed landing comes in the next verse (23:29), after the praise and not in place of it. Thanks need not wait for the whole trouble to end. Being held up is already a gift.",
+            "bn": "সময়টা খেয়াল করুন। প্লাবন তখনো থামেনি। সা'দীর ছবিতে নৌযান তখন ঢেউ আর গভীর জলের মাঝে। অথচ ক্রিয়াটি অতীত কালের: নাজ্জানা, তিনি আমাদের বাঁচিয়েছেন। চারদিকে বিপদ থাকতেই উদ্ধারকে সম্পন্ন বলে গোনা হচ্ছে। বরকতময় জায়গায় নামার দোয়া আসে পরের আয়াতে (২৩:২৯), প্রশংসার পরে, প্রশংসার বদলে নয়। পুরো বিপদ কেটে যাওয়া পর্যন্ত শুকরিয়াকে অপেক্ষায় রাখতে হয় না। ভেসে থাকতে পারাটাই তো এক দান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saved From Their Deeds",
+          "bn": "তাদের কাজ থেকে রেহাই"
+        },
+        "p": [
+          {
+            "en": "Min al-qawm az-zalimin, from the wrongdoing people. The commentators name these people by what they did. At-Tabari says the polytheists. Al-Baghawi says the disbelievers, and al-Muyassar puts that word into the praise itself: praise be to Allah who saved us from the disbelieving people. The same people were called those who have wronged in 23:27, where Nuh was told not to address God on their behalf. The wrong in view is what the passage has just shown: refusing the call to worship God alone (23:23) and dismissing the messenger as a madman (23:25).",
+            "bn": "মিনাল কাওমিয যালিমীন, যালিম সম্প্রদায় থেকে। মুফাসসিরগণ এই লোকদের চেনান তাদের কাজ দিয়ে। তাবারী বলেন, মুশরিকরা। বাগাভী বলেন, কাফিররা। মুয়াসসার শব্দটা প্রশংসার বাক্যেই বসিয়ে দেয়: সকল প্রশংসা আল্লাহর, যিনি আমাদের কাফির সম্প্রদায় থেকে বাঁচিয়েছেন। ২৩:২৭ আয়াতে এদেরকেই বলা হয়েছে, যারা যুলুম করেছে। সেখানে নূহ (আঃ)-কে বলা হয়েছিল, তাদের ব্যাপারে আমার কাছে আর কিছু বলো না। যে যুলুমের কথা হচ্ছে, তা এই অংশেই দেখা গেছে: এক আল্লাহর ইবাদতের ডাক ফিরিয়ে দেওয়া (২৩:২৩), আর রাসূলকে পাগল বলে উড়িয়ে দেওয়া (২৩:২৫)।"
+          },
+          {
+            "en": "What, then, were the believers saved from? Al-Qurtubi names two things: God's delivering them from the wrongdoing people, and from drowning. As-Sa'di is more exact. They are to give thanks for their rescue from the wrongdoing people fi 'amalihim wa 'adhabihim, in their deeds and in their punishment. His two nouns point two ways. The believers were freed from living any longer under the conduct of those people, and they were kept out of the punishment that came upon them.",
+            "bn": "তাহলে মুমিনরা ঠিক কী থেকে উদ্ধার পেল? কুরতুবী দুটি জিনিসের নাম করেন: যালিম সম্প্রদায় থেকে আল্লাহর মুক্তি দেওয়া, আর ডুবে মরা থেকে। সা'দী আরও নিখুঁত। তাঁর ভাষায়, যালিম সম্প্রদায় থেকে উদ্ধারের শুকরিয়া, ফী আমালিহিম ওয়া আযাবিহিম, তাদের কাজকর্ম থেকে এবং তাদের শাস্তি থেকে। তাঁর দুটি শব্দ দুই দিকে ইঙ্গিত করে। এক, ওই লোকদের আচরণের নিচে মুমিনদের আর থাকতে হলো না। দুই, তাদের উপর যে শাস্তি নেমে এল, মুমিনদের তার বাইরে রাখা হলো।"
+          },
+          {
+            "en": "Read that way, the praise is for relief. Its object is a pressure lifted and a fate escaped, both by God's act. The sentence names the One who saved and the people saved from, and it does not mention the drowned or what became of them. Whatever the flood meant for those outside the ship, the words given to those inside it are words about their Lord's rescue, not about anyone's ruin.",
+            "bn": "এভাবে পড়লে প্রশংসাটা স্বস্তির প্রশংসা। এর বিষয় একটা চাপ সরে যাওয়া আর একটা পরিণতি থেকে বেঁচে যাওয়া, দুটোই আল্লাহর কাজ। বাক্যটি নাম নেয় যিনি বাঁচালেন তাঁর, আর যাদের থেকে বাঁচালেন তাদের। যারা ডুবল, বা তাদের কী হলো, সে কথা বাক্যে নেই। নৌযানের বাইরের লোকদের জন্য প্লাবনের অর্থ যা-ই হোক, ভেতরের লোকদের যে কথা শেখানো হলো, তা রবের উদ্ধারের কথা। কারও সর্বনাশের কথা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sign, Not a Spectacle",
+          "bn": "নিদর্শন, তামাশা নয়"
+        },
+        "p": [
+          {
+            "en": "Two verses on, the passage says what the whole event is for: in that are signs, and We are ever testing (23:30). Ibn Kathir reads the signs as lying in this event, the saving of the believers and the destruction of the disbelievers. They are clear proof that the prophets speak the truth, and that God does what He wills, has power over all things and knows all things. The testing, he says, is God trying His servants by sending the messengers. The flood is told as evidence and as a test, not as a show.",
+            "bn": "দুই আয়াত পরে এ অংশ জানিয়ে দেয় পুরো ঘটনার উদ্দেশ্য: এতে নিদর্শন আছে, আর আমি পরীক্ষা করেই থাকি (২৩:৩০)। ইবন কাসীরের ব্যাখ্যায় নিদর্শনগুলো এই ঘটনাতেই: মুমিনদের বাঁচানো আর কাফিরদের ধ্বংস। এগুলো স্পষ্ট প্রমাণ যে নবীগণ সত্যবাদী। আরও প্রমাণ যে আল্লাহ যা চান তা-ই করেন, সব কিছুর উপর তাঁর ক্ষমতা, সব কিছু তিনি জানেন। আর পরীক্ষা, তিনি বলেন, হলো রাসূল পাঠিয়ে বান্দাদের যাচাই করা। প্লাবনের কাহিনি বলা হয়েছে প্রমাণ আর পরীক্ষা হিসেবে, প্রদর্শনী হিসেবে নয়।"
+          },
+          {
+            "en": "This needs saying in plain words. The verse records a sentence of thanks that God taught one prophet and his company, about one people, the people of Nuh, whom the commentators identify by their polytheism and disbelief, in an event that scripture narrates. It licenses nothing against any living person or community. It gives no one a right to label a neighbour, a rival or a nation the wrongdoing people, to pray for their ruin, or to celebrate harm that falls on anyone. Its lesson faces inward: notice when God lifts a wrong off your own life, and thank Him.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুকরিয়ার একটি বাক্যের বিবরণ দেয়, যা আল্লাহ শিখিয়েছিলেন একজন নবী আর তাঁর সঙ্গীদের। বাক্যটি একটি নির্দিষ্ট সম্প্রদায়, নূহ (আঃ)-এর কওম সম্পর্কে, যাদের মুফাসসিরগণ চিনিয়েছেন তাদের শিরক আর কুফর দিয়ে। আর ঘটনাটি কুরআনের বর্ণিত একটি ঘটনা। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো জাতিকে যালিম সম্প্রদায় বলে দাগিয়ে দেওয়ার, তাদের সর্বনাশের দোয়া করার, কিংবা কারও উপর আসা বিপদে উল্লাস করার অধিকার এ আয়াত কাউকে দেয় না। এর শিক্ষা নিজের ভেতরের দিকে: আল্লাহ যখন আপনার জীবন থেকে কোনো যুলুম সরিয়ে দেন, তা খেয়াল করুন, আর তাঁর শুকরিয়া আদায় করুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Name at Both Ends",
+          "bn": "যাত্রার দুই প্রান্তে তাঁর নাম"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets this verse beside 43:12 to 43:14: God made for you ships and cattle on which you ride, so that you may settle on their backs, then remember your Lord's favour once you are settled, and say, Glory to Him who has subjected this to us, for we could never have managed it ourselves, and to our Lord we are surely returning. The pattern is the same as in our verse, settle first and then speak, but there it is given to every rider and not to one prophet.",
+            "bn": "ইবন কাসীর এ আয়াতকে পাশে রাখেন ৪৩:১২ থেকে ৪৩:১৪ আয়াতের। সেখানে আল্লাহ বলছেন, তিনি তোমাদের জন্য নৌযান আর চতুষ্পদ জন্তু বানিয়েছেন, যাতে তোমরা চড়ো। যেন তোমরা তাদের পিঠে উঠে বসো, বসে যাওয়ার পর রবের অনুগ্রহ স্মরণ করো, আর বলো: পবিত্র তিনি, যিনি একে আমাদের বশ করে দিয়েছেন, আমরা নিজেরা একে বশ করতে পারতাম না। আর আমরা অবশ্যই আমাদের রবের কাছে ফিরে যাব। ধারাটা আমাদের আয়াতের মতোই: আগে বসা, তারপর বলা। পার্থক্য শুধু এই, সেখানে কথাটা প্রত্যেক আরোহীর জন্য, একজন নবীর জন্য নয়।"
+          },
+          {
+            "en": "He then notes that Nuh (AS) carried out the command, and cites 11:41, where Nuh says, Embark in it; in the name of Allah is its sailing and its anchoring. So Nuh, Ibn Kathir concludes, mentioned God at the start of his voyage and at its end, and here he brings in the next verse: say, My Lord, set me down at a blessed landing place (23:29). On his reading the voyage is framed by God's name at both ends, with this sentence of praise standing at the point of departure.",
+            "bn": "এরপর তিনি দেখান, নূহ (আঃ) আদেশটি পালন করেছিলেন। প্রমাণ হিসেবে আনেন ১১:৪১, যেখানে নূহ (আঃ) বলেন: এতে উঠে পড়ো, আল্লাহর নামেই এর চলা আর এর থামা। ইবন কাসীরের সিদ্ধান্ত, নূহ (আঃ) যাত্রার শুরুতেও আল্লাহকে স্মরণ করেছেন, শেষেও। এখানেই তিনি পরের আয়াতটি আনেন: বলো, হে আমার রব, আমাকে বরকতময় জায়গায় নামিয়ে দিন (২৩:২৯)। তাঁর পাঠে পুরো যাত্রার দুই প্রান্তেই আল্লাহর নাম, আর প্রশংসার এই বাক্য দাঁড়িয়ে আছে যাত্রা শুরুর জায়গায়।"
+          },
+          {
+            "en": "Al-Qurtubi, commenting on 43:13, draws the lesson outward. God has taught us what to say when we mount animals, he writes, and in another verse, on the tongue of Nuh, what to say when we board ships (11:41). How many riders have had their mount stumble or bolt and died of it, and how many have boarded a ship that broke apart and drowned them. Since riding puts a person in touch with one of the causes of death, he was told not to forget, at that moment, his own last day, and that he is returning to God.",
+            "bn": "৪৩:১৩ আয়াতের তাফসীরে কুরতুবী শিক্ষাটাকে আরও বড় পরিসরে নিয়ে যান। তিনি লেখেন, পশুর পিঠে চড়ার সময় কী বলতে হবে তা আল্লাহ আমাদের শিখিয়েছেন। আর আরেক আয়াতে নূহ (আঃ)-এর মুখ দিয়ে শিখিয়েছেন নৌযানে ওঠার সময় কী বলতে হবে (১১:৪১)। কত আরোহীর বাহন হোঁচট খেয়েছে বা বিগড়ে গেছে, আর সে মারা গেছে। কত মানুষ নৌযানে উঠেছে, নৌযান ভেঙেছে, তারা ডুবে গেছে। চড়ার কাজটা মানুষকে মৃত্যুর একটা কারণের সংস্পর্শে আনে। তাই আদেশ এল, সে মুহূর্তে যেন সে নিজের শেষ দিনের কথা না ভোলে, না ভোলে যে সে আল্লাহর কাছেই ফিরে যাচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words for Every Departure",
+          "bn": "প্রতিটি যাত্রার শুরুর কথা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A narration about the same moment, though not tied to this verse by any of them, stands in Sahih Muslim (1342). Ibn 'Umar taught them that when the Messenger of Allah ﷺ settled on his camel, setting out on a journey, he said Allahu akbar three times, then said: Glory to Him who has subjected this to us, for we could never have managed it ourselves, and to our Lord we are surely returning. O Allah, we ask You on this journey of ours for righteousness and piety, and for deeds that please You.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি। একই মুহূর্ত নিয়ে একটি বর্ণনা আছে সহীহ মুসলিমে (১৩৪২), যদিও তাঁদের কেউ একে এ আয়াতের সঙ্গে জোড়েননি। ইবন উমার (রাঃ) তাঁদের শিখিয়েছিলেন, সফরে বের হওয়ার সময় রাসূলুল্লাহ ﷺ যখন উটের পিঠে উঠে বসতেন, তিনবার আল্লাহু আকবার বলতেন। তারপর বলতেন: পবিত্র তিনি, যিনি একে আমাদের বশ করে দিয়েছেন, আমরা নিজেরা একে বশ করতে পারতাম না, আর আমরা অবশ্যই আমাদের রবের কাছে ফিরে যাব। হে আল্লাহ, আমাদের এই সফরে আমরা আপনার কাছে নেকি আর তাকওয়া চাই, আর এমন আমল চাই যাতে আপনি সন্তুষ্ট।"
+          },
+          {
+            "en": "O Allah, make this journey of ours easy for us and fold up its distance for us. O Allah, You are the Companion on the journey and the Deputy left behind with the family. O Allah, I seek refuge in You from the hardship of travel, from a grievous sight, and from an evil return in wealth and family. And when he came back he said them, adding: returning, repenting, worshipping, praising our Lord. In the Arabic the report uses the very verb of our verse: idha istawa, when he had settled.",
+            "bn": "হে আল্লাহ, আমাদের এই সফর আমাদের জন্য সহজ করে দিন, এর দূরত্ব আমাদের জন্য গুটিয়ে দিন। হে আল্লাহ, সফরে আপনিই সঙ্গী, আর পরিবারে আপনিই আমাদের স্থলাভিষিক্ত। হে আল্লাহ, আমি আপনার আশ্রয় চাই সফরের কষ্ট থেকে, দুঃখজনক দৃশ্য থেকে, আর সম্পদ ও পরিবারে মন্দ অবস্থায় ফেরা থেকে। আর ফিরে এসেও তিনি এগুলো বলতেন, সঙ্গে যোগ করতেন: আমরা ফিরে আসছি, তওবা করছি, ইবাদত করছি, আমাদের রবের প্রশংসা করছি। আরবিতে বর্ণনাটি আমাদের আয়াতের ক্রিয়াটিই ব্যবহার করে: ইযাসতাওয়া, যখন তিনি উঠে বসতেন।"
+          },
+          {
+            "en": "Most journeys now begin with a seatbelt rather than a gangway, but the verse's order still holds. Settle, and before anything else name the One who carries you and the One who has kept you safe. Praise comes first; the request for a good landing comes after it. And when relief comes from people who had wronged you, let the thanks rest on God's act and not on anyone's fall.",
+            "bn": "এখন বেশির ভাগ যাত্রা শুরু হয় সিটবেল্ট বেঁধে, নৌযানের সিঁড়ি বেয়ে নয়। তবু আয়াতের ধারাটা একই থাকে। বসে পড়ুন, আর সবার আগে নাম নিন তাঁর, যিনি আপনাকে বয়ে নিচ্ছেন, যিনি আপনাকে নিরাপদ রেখেছেন। আগে প্রশংসা, তারপর ভালোভাবে পৌঁছানোর দোয়া। আর যারা আপনার উপর অন্যায় করেছিল, তাদের থেকে রেহাই এলে শুকরিয়াটা রাখুন আল্লাহর কাজের উপর, কারও পতনের উপর নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "23:32": {
     "sections": [
       {
