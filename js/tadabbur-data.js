@@ -23891,6 +23891,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Firdaus is promised to a description, not to a name. Grow into the qualities the verses list, and ask Allah for the highest Garden.",
     "lessonBn": "ফিরদাউসের প্রতিশ্রুতি কোনো নামের জন্য নয়, কিছু গুণের জন্য। আয়াতগুলোতে বলা গুণগুলো নিজের মধ্যে গড়ে তুলুন, আর আল্লাহর কাছে সবচেয়ে উঁচু জান্নাত চান।"
+  },
+  "23:41": {
+    "reflectionEn": "A messenger asked for help, and God answered that after a little they would regret. This verse is that little. One shriek seized them, and it seized them by right: they were not wronged, they had earned it. Then the people who had mocked a life to come became ghutha', the dry stubble and froth that a torrent carries and leaves on the bank, of no use to anyone. The verse closes with words spoken over a people already gone: away with the wrongdoing people. It is not a curse for me to throw at anyone living. It is a warning to read about myself. What am I building that a single morning could sweep away, and what am I refusing to hear?",
+    "reflectionBn": "এক রাসূল সাহায্য চেয়েছিলেন। আল্লাহ জবাব দিয়েছিলেন, অল্প কিছুদিনের মধ্যেই তারা আফসোস করবে। এ আয়াতই সেই অল্প কিছুদিনের শেষ। একটিমাত্র বিকট আওয়াজ তাদের ধরে ফেলল, আর ধরল ন্যায্যভাবে। তাদের উপর জুলুম হয়নি, এটা তাদের প্রাপ্য ছিল। যারা পরকালের কথা শুনে ঠাট্টা করত, তারা হয়ে গেল গুসা: বানের পানি যে শুকনো খড়কুটো আর ফেনা ভাসিয়ে এনে কিনারে ফেলে যায়, যা কারও কোনো কাজে আসে না। আয়াত শেষ হয় এমন এক জাতির উপর উচ্চারিত কথায়, যারা আগেই বিলীন হয়ে গেছে: দূর হোক জালিম সম্প্রদায়। জীবিত কারও দিকে ছুড়ে মারার অভিশাপ এটা নয়। এটা নিজের দিকে তাকিয়ে পড়ার সতর্কবাণী। আমি কী গড়ছি, যা এক সকালেই ভেসে যেতে পারে? আর কোন কথা শুনতে আমি অস্বীকার করছি?",
+    "pointsEn": [
+      "When I am warned and nothing happens at once, do I read the delay as proof that the warning was empty?",
+      "What in my life would turn out, on the day of reckoning, to be froth on the water, of no use to anyone?",
+      "When harm reaches people who did wrong, do I see God's justice in it, or do I quietly suspect Him of being harsh?",
+      "Have I ever borrowed the Qur'an's words of condemnation to aim at someone living, when they were spoken over a people long gone?",
+      "Which warning have I heard many times and still not let change what I do?"
+    ],
+    "pointsBn": [
+      "সতর্ক করার পর সঙ্গে সঙ্গে কিছু না ঘটলে আমি কি দেরিটাকেই প্রমাণ ধরে নিই যে সতর্কবাণী ফাঁকা ছিল?",
+      "হিসাবের দিনে আমার জীবনের কোন অংশ পানির উপরের ফেনা বলে প্রমাণিত হবে, যা কারও কোনো কাজে আসবে না?",
+      "অন্যায়কারীদের উপর বিপদ এলে আমি কি তাতে আল্লাহর ইনসাফ দেখি, নাকি মনে মনে তাঁকে কঠোর ভাবি?",
+      "বহু আগে বিলীন এক জাতির উপর উচ্চারিত কুরআনের ধিক্কারের কথা আমি কি কখনো কোনো জীবিত মানুষের দিকে তাক করেছি?",
+      "কোন সতর্কবাণী আমি বহুবার শুনেছি, অথচ আজও তা আমার আমল বদলাতে দিইনি?"
+    ],
+    "lessonEn": "God's reckoning comes by right and can come in a single moment; heed the warning while there is time, and never turn its words of condemnation on anyone living.",
+    "lessonBn": "আল্লাহর পাকড়াও আসে ন্যায্যভাবে, আসতে পারে এক মুহূর্তেই। সময় থাকতে সতর্কবাণীতে কান দিন, আর এর ধিক্কারের কথা কখনো কোনো জীবিত মানুষের দিকে ঘুরিয়ে দেবেন না।"
   }
 };
 

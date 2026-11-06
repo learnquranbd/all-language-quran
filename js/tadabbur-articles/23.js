@@ -1479,6 +1479,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:41": {
+    "sections": [
+      {
+        "h": {
+          "en": "How Long a Little Lasted",
+          "bn": "অল্প সময় কতটা অল্প"
+        },
+        "p": [
+          {
+            "en": "The verse opens with fa, the particle of what follows next, and what it follows is a promise. In 23:39 the messenger sent after the people of Nuh prayed, My Lord, help me, because they have called me a liar. In 23:40 the answer came: after a little, they will surely be regretful. The Qur'an never measures that little. It moves from the promise straight to the seizing, as if nothing worth recording lay between them.",
+            "bn": "আয়াত শুরু হয়েছে ফা দিয়ে, যা বোঝায় ঠিক তার পরের ঘটনা। আর যার পরে, তা একটি প্রতিশ্রুতি। ২৩:৩৯ আয়াতে নূহ (আঃ)-এর সম্প্রদায়ের পরে পাঠানো রাসূল দোয়া করেছিলেন: হে আমার রব, আমাকে সাহায্য করুন, কারণ ওরা আমাকে মিথ্যাবাদী বলেছে। ২৩:৪০ আয়াতে জবাব এল: অল্প কিছুদিনের মধ্যেই ওরা অবশ্যই অনুতপ্ত হবে। সেই অল্প সময় কতটুকু, কুরআন কোথাও তা মাপেনি। প্রতিশ্রুতি থেকে সোজা চলে এসেছে পাকড়াওয়ে, যেন মাঝখানে লিখে রাখার মতো কিছুই ঘটেনি।"
+          },
+          {
+            "en": "At-Tabari opens his comment by spelling out the link: so We took vengeance on them, We sent the shriek upon them, and it seized them in truth. Eight Arabic words then carry three things: what took them, what they were made into, and what was said over them once they were gone. This reading follows those three in order. The messenger's call and the people's denial belong to the verses before, which have their own pages here, and are not retold.",
+            "bn": "তাবারী তাঁর ব্যাখ্যার শুরুতেই যোগসূত্রটা খুলে বলেন: আমি তাদের থেকে প্রতিশোধ নিলাম, তাদের উপর বিকট আওয়াজ পাঠালাম, আর তা তাদের ধরল সত্যের সঙ্গে। আরবিতে মাত্র আটটি শব্দ, অথচ এতে তিনটি কথা আছে। কিসে তাদের ধরল, তাদের কী বানিয়ে দেওয়া হলো, আর তারা চলে যাওয়ার পর তাদের উপর কী বলা হলো। এ লেখা সেই তিনটি কথা ক্রমানুসারে দেখবে। রাসূলের দাওয়াত আর জাতির প্রত্যাখ্যান আগের আয়াতগুলোর বিষয়। সেগুলোর আলাদা পাতা এখানে আছে, তাই আবার বলা হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seized by One Cry",
+          "bn": "এক আওয়াজেই পাকড়াও"
+        },
+        "p": [
+          {
+            "en": "Fa-akhadhathumu ṣ-ṣayḥah: so the shriek seized them. The verb akhadha is the ordinary word for taking hold of something, and here the shriek is its subject, as though the sound itself laid hands on them. Al-Baghawi glosses it as the shriek of punishment, and then records two views, each introduced with it is said. The first holds that the shriek here stands for the destruction itself. The other says that Jibril shouted at them and their hearts burst apart.",
+            "bn": "ফা আখাযাতহুমুস সাইহা: অতঃপর বিকট আওয়াজ তাদের ধরে ফেলল। আখাযা সাধারণ ক্রিয়া, কোনো কিছু হাতে ধরে নেওয়া বোঝায়। এখানে তার কর্তা আওয়াজটি নিজেই, যেন শব্দটাই হাত বাড়িয়ে তাদের ধরেছে। বাগাভী এর ব্যাখ্যা দেন আজাবের আওয়াজ বলে। তারপর তিনি দুটি মত উল্লেখ করেন, দুটিই 'বলা হয়' কথাটি দিয়ে। এক মতে, এখানে আওয়াজ বলতে ধ্বংসকেই বোঝানো হয়েছে। অন্য মতে, জিবরীল (আঃ) তাদের উদ্দেশে চিৎকার দিয়েছিলেন, আর তাতে তাদের হৃৎপিণ্ড ফেটে চৌচির হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi gives the second picture as what is found in the commentaries: Jibril, peace be upon him, cried out at them once, together with the wind by which God destroyed them, and they died to the last of them. As-Sa'di keeps to the outcome: the shriek took them and destroyed them to the last. The detail of who cried out reaches us only as a report the commentators relay; the verse itself names the shriek and nothing more.",
+            "bn": "কুরতুবী দ্বিতীয় ছবিটিই দেন তাফসীরগ্রন্থগুলোর কথা হিসেবে: জিবরীল (আঃ) তাদের উদ্দেশে একবার চিৎকার দিলেন। সঙ্গে ছিল সেই বাতাস, যা দিয়ে আল্লাহ তাদের ধ্বংস করেছিলেন। তারা শেষ মানুষটি পর্যন্ত মারা গেল। সা'দী শুধু পরিণামের কথা বলেন: আওয়াজ তাদের ধরল আর শেষজন পর্যন্ত সবাইকে ধ্বংস করে দিল। কে চিৎকার দিয়েছিলেন, সে বিবরণ আমাদের কাছে আসে কেবল তাফসীরকারদের উদ্ধৃত বর্ণনা হয়ে। আয়াত নিজে শুধু আওয়াজের কথাই বলে, এর বেশি কিছু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Cry Carried on Wind",
+          "bn": "বাতাসে ভর করা আওয়াজ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sees two punishments meeting. The apparent sense, he says, is that a shriek came upon them together with the ṣarṣar wind, violent, strong and cold, and he quotes 46:25 about that wind: destroying everything by command of its Lord, till nothing of them was seen but their dwellings. Al-Muyassar also speaks of a severe shriek with a wind, by which God destroyed them all, and al-Qurtubi, as seen above, sets the cry alongside the wind.",
+            "bn": "ইবন কাসীর এখানে দুটি শাস্তির মিলন দেখেন। তাঁর মতে আয়াতের বাহ্যিক অর্থ হলো, তাদের উপর বিকট আওয়াজ এসেছিল সারসার বাতাসের সঙ্গে, যে বাতাস ছিল প্রচণ্ড, প্রবল আর হিমশীতল। সেই বাতাস প্রসঙ্গে তিনি ৪৬:২৫ আয়াত উদ্ধৃত করেন: রবের হুকুমে তা সবকিছু ধ্বংস করে দেয়, শেষে তাদের ঘরবাড়ি ছাড়া আর কিছুই দেখা যাচ্ছিল না। মুয়াসসারও বলে, প্রচণ্ড এক আওয়াজ এসেছিল বাতাসের সঙ্গে, আর তাতেই আল্লাহ সবাইকে ধ্বংস করেন। কুরতুবীও, আগেই দেখা গেছে, চিৎকারের পাশে বাতাসকে রাখেন।"
+          },
+          {
+            "en": "This touches a question the passage leaves open: who these people were. At-Tabari relays from Mujahid, on this very verse, a short answer: those are Thamud. The parallel Ibn Kathir quotes, 46:25, belongs to the Qur'an's account of 'Ad, the people of Hud, whose brother is named at 46:21. The parallel as-Sa'di quotes, 54:31, a single shriek that left them like the dry twigs of a pen-maker, belongs to the account of Thamud, which opens at 54:23.",
+            "bn": "এ থেকে একটা প্রশ্ন সামনে আসে, যা পুরো অংশটি খোলা রেখেছে: এরা কারা ছিল? তাবারী ঠিক এই আয়াতের ব্যাখ্যায় মুজাহিদ থেকে একটি সংক্ষিপ্ত জবাব উদ্ধৃত করেন: এরা সামূদ। ইবন কাসীর যে সমার্থক আয়াত আনেন, সেই ৪৬:২৫ কুরআনে আদ জাতির বিবরণের অংশ। এরা হূদ (আঃ)-এর সম্প্রদায়, ৪৬:২১ আয়াতে যাঁকে আদের ভাই বলা হয়েছে। আর সা'দী যে আয়াত আনেন, সেই ৫৪:৩১ আছে সামূদের বিবরণে, যা শুরু হয়েছে ৫৪:২৩ আয়াতে। সেখানে একটিমাত্র আওয়াজ তাদের খোঁয়াড়-নির্মাতার শুকনো ডালপালার মতো করে দিয়েছিল।"
+          },
+          {
+            "en": "Neither Ibn Kathir nor as-Sa'di names the people under this verse, so their parallels are not verdicts. Al-Qurtubi, on 23:32 in the same passage, gives both sides. First, the messenger was Hud, since no nation arose straight after Nuh's people except 'Ad. Then, it is said, they were Thamud and the messenger Salih, and those who hold this cite this verse's shriek, comparing 11:67. He adds that Madyan too were taken by the shriek, so they cannot be ruled out. The commentators differ, and this reading leaves it there.",
+            "bn": "ইবন কাসীর বা সা'দী কেউই এই আয়াতের ব্যাখ্যায় জাতিটির নাম নেননি, তাই তাঁদের আনা সমার্থক আয়াত কোনো রায় নয়। একই অংশের ২৩:৩২ আয়াতে কুরতুবী দুই মতই দেন। প্রথম মত, রাসূল ছিলেন হূদ (আঃ), কারণ নূহ (আঃ)-এর সম্প্রদায়ের ঠিক পরে আদ ছাড়া আর কোনো জাতির উত্থান হয়নি। তারপর 'বলা হয়', এরা ছিল সামূদ আর রাসূল ছিলেন সালিহ (আঃ)। এ মতের লোকেরা প্রমাণ হিসেবে আনেন এই আয়াতের বিকট আওয়াজ, তুলনা করেন ১১:৬৭ আয়াতের সঙ্গে। কুরতুবী যোগ করেন, মাদইয়ানবাসীকেও আওয়াজই ধরেছিল, তাই তারাও হতে পারে। তাফসীরকারেরা একমত নন, আর এ লেখাও বিষয়টি সেখানেই রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In Truth, Meaning Deserved",
+          "bn": "বিল হক: প্রাপ্য শাস্তি"
+        },
+        "p": [
+          {
+            "en": "Bi-l-ḥaqq: in truth, or by right. The commentators read the phrase as a statement about justice. Ibn Kathir says simply that they deserved that from God, for their disbelief and their tyranny. At-Tabari puts it as a judgment: God punished them because they had earned punishment from Him, by disbelieving in Him and denying His messenger. As-Sa'di states it both ways at once: not by wrong and oppression, but by justice, and by their own wrongdoing.",
+            "bn": "বিল হক: সত্যের সঙ্গে, অর্থাৎ ন্যায্যভাবে। তাফসীরকারেরা কথাটিকে ইনসাফের ঘোষণা হিসেবে পড়েন। ইবন কাসীর সোজা বলেন, তাদের কুফর আর সীমালঙ্ঘনের কারণে আল্লাহর কাছ থেকে এটাই ছিল তাদের প্রাপ্য। তাবারী কথাটা বলেন রায়ের ভাষায়: আল্লাহ তাদের শাস্তি দিয়েছেন, কারণ তাঁকে অস্বীকার করে আর তাঁর রাসূলকে মিথ্যাবাদী বলে তারা তাঁর শাস্তির যোগ্য হয়ে গিয়েছিল। সা'দী একসঙ্গে দুই দিক থেকেই বলেন: জুলুম ও অবিচারে নয়, বরং ইনসাফের সঙ্গে, আর তাদের নিজেদের জুলুমের কারণে।"
+          },
+          {
+            "en": "So the two words answer a question before a reader can ask it. A whole people silenced in a moment might look like severity without measure. The verse says the seizing was owed. Ibn Kathir, reaching the verse's last words, brings in 43:76: We did not wrong them, but it was they who were the wrongdoers. A reader may also notice the irony. The chiefs had called their messenger a man who invented a lie against God, yet the end that came to them came with the truth.",
+            "bn": "ফলে এই দুটি শব্দ পাঠকের প্রশ্ন ওঠার আগেই তার জবাব দিয়ে রাখে। এক মুহূর্তে গোটা একটা জাতিকে স্তব্ধ করে দেওয়া দেখে মনে হতে পারে, এ বুঝি মাত্রাছাড়া কঠোরতা। আয়াত বলছে, এ পাকড়াও ছিল তাদের পাওনা। আয়াতের শেষ অংশে পৌঁছে ইবন কাসীর ৪৩:৭৬ আয়াত আনেন: আমি তাদের উপর জুলুম করিনি, বরং তারা নিজেরাই ছিল জালিম। পাঠক এখানে একটা বৈপরীত্যও খেয়াল করতে পারেন। প্রধানেরা তাদের রাসূলকে বলেছিল আল্লাহর নামে মিথ্যা রচনাকারী। অথচ তাদের যে পরিণাম এল, তা এল সত্যের সঙ্গেই।"
+          },
+          {
+            "en": "What the phrase does not do is make the reader a judge. The justice it names rests on God's knowledge of a people who were warned by one of their own, answered with mockery, and, in at-Tabari's words, denied His messenger. As-Sa'di's contrast, justice and not wrong, describes God's way with them. It is not a measure the reader may lay over the misfortunes of others. When disaster strikes people today, this verse gives no ground for announcing that they deserved it.",
+            "bn": "তবে এ কথা পাঠককে বিচারকের আসনে বসায় না। যে ইনসাফের কথা এখানে, তার ভিত্তি আল্লাহর জ্ঞান। তিনি জানতেন, এ জাতিকে সতর্ক করেছিলেন তাদেরই একজন, তারা জবাব দিয়েছিল ঠাট্টা দিয়ে, আর তাবারীর ভাষায়, তাঁর রাসূলকে মিথ্যাবাদী বলেছিল। সা'দীর তুলনা, জুলুম নয় বরং ইনসাফ, তাদের প্রতি আল্লাহর আচরণের বর্ণনা। অন্যের বিপদ মাপার জন্য পাঠকের হাতে দেওয়া কোনো মাপকাঠি এটা নয়। আজ কোনো মানুষের উপর দুর্যোগ নেমে এলে, তারা এর যোগ্য ছিল বলে ঘোষণা দেওয়ার কোনো ভিত্তি এ আয়াত দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Floats on a Flood",
+          "bn": "বানের পানিতে যা ভাসে"
+        },
+        "p": [
+          {
+            "en": "Fa-ja'alnahum ghutha'an: and We made them ghutha'. At-Tabari defines the word as what rises on top of a flood and the like, and adds that nothing of it is of use. Then he says outright that this is a likeness. The meaning, in his words, is that We destroyed them and made them like a thing in which there is no benefit. Ibn Zayd, whom at-Tabari also quotes, sums it up the same way: a likeness God struck.",
+            "bn": "ফা জাআলনাহুম গুসাআ: আর আমি তাদের বানিয়ে দিলাম গুসা। তাবারী শব্দটির সংজ্ঞা দেন এভাবে: বানের পানি বা এ জাতীয় কিছুর উপরে যা ভেসে ওঠে, যার কোনো কিছুই কাজে আসে না। তারপর তিনি সরাসরি বলেন, এটি একটি উপমা। তাঁর ভাষায় অর্থ দাঁড়ায়: আমি তাদের ধ্বংস করলাম আর এমন এক জিনিসের মতো করে দিলাম, যাতে কোনো উপকার নেই। তাবারী ইবন যায়দের কথাও উদ্ধৃত করেন, যিনি একই কথা বলেন অল্প কথায়: এটি আল্লাহর দেওয়া এক উপমা।"
+          },
+          {
+            "en": "The early glosses at-Tabari relays each add a shade. From Ibn Abbas: they were made like the dead, decayed stuff of trees. From Mujahid and Ibn Jurayj: like crumbled, lifeless remains that the flood carries along. From Qatada: the thing worn out. Al-Qurtubi gathers the picture: what a flood carries of rotted wood, grass and reeds that have dried and broken apart. Al-Baghawi adds the process: they became dead, then dried out as the flood-borne litter of the earth's plants dries.",
+            "bn": "তাবারী প্রাথমিক যুগের যেসব ব্যাখ্যা উদ্ধৃত করেন, তার প্রতিটি নতুন এক রং যোগ করে। ইবন আব্বাস (রাঃ) থেকে: তাদের করা হলো গাছের মরা, পচে যাওয়া অংশের মতো। মুজাহিদ ও ইবন জুরাইজ থেকে: গুঁড়িয়ে যাওয়া নিষ্প্রাণ অবশেষের মতো, যা বানের পানি ভাসিয়ে নিয়ে যায়। কাতাদা থেকে: জীর্ণ হয়ে যাওয়া জিনিস। কুরতুবী পুরো ছবিটা একত্র করেন: বানের পানি যা বয়ে আনে, অর্থাৎ পচা কাঠ, ঘাস আর নলখাগড়া, যা শুকিয়ে ভেঙে টুকরো হয়ে গেছে। বাগাভী যোগ করেন পরের ধাপটা: তারা মরে গেল, তারপর শুকিয়ে গেল, যেমন মাটির উদ্ভিদ থেকে আসা বানের খড়কুটো শুকিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Litter at the Valley's Edge",
+          "bn": "উপত্যকার কিনারে আবর্জনা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the image as a verdict on worth. They lay struck down and perished, he says, like the litter of a flood, the contemptible, paltry, perishing thing of which no part is any use. As-Sa'di places it on the ground: dry, broken stubble, like the flood's litter thrown up along the sides of the valley. Al-Muyassar keeps it on the water: like flood-litter floating on the surface. One image, three moments: carried, floating, then dumped.",
+            "bn": "ইবন কাসীর ছবিটাকে পড়েন মূল্যের রায় হিসেবে। তাঁর কথায়, তারা পড়ে রইল নিহত, ধ্বংসপ্রাপ্ত, বানের খড়কুটোর মতো। সেই তুচ্ছ, নগণ্য, বিনাশশীল জিনিস, যার কোনো অংশই কাজে আসে না। সা'দী ছবিটা রাখেন মাটিতে: শুকনো, ভাঙা খড়কুটো, যেমন বানের আবর্জনা উপত্যকার দুই পাশে ছিটকে পড়ে থাকে। মুয়াসসার রাখে পানির উপরে: পানির উপর ভেসে থাকা বানের খড়কুটোর মতো। একই ছবি, তিনটি মুহূর্তে। ভেসে চলা, ভেসে থাকা, তারপর কিনারে ফেলে রাখা।"
+          },
+          {
+            "en": "As-Sa'di sets beside it 54:31: We sent upon them a single shriek, and they became like the dry twigs of a pen-maker. The weight of the image comes from who these people had been. In 23:33 they are the chiefs to whom God had given ease in the life of this world, and in 23:37 they said there is only this life, we die and we live. Everything they had built that life on became something a current carries off and nobody stoops to pick up.",
+            "bn": "সা'দী এর পাশে রাখেন ৫৪:৩১ আয়াত: আমি তাদের উপর একটিমাত্র বিকট আওয়াজ পাঠালাম, ফলে তারা খোঁয়াড়-নির্মাতার শুকনো ডালপালার মতো হয়ে গেল। ছবিটার ভার আসে এরা কারা ছিল তা থেকে। ২৩:৩৩ আয়াতে এরা সেই প্রধানেরা, দুনিয়ার জীবনে আল্লাহ যাদের সচ্ছলতা দিয়েছিলেন। ২৩:৩৭ আয়াতে এরাই বলেছিল, জীবন তো শুধু এই দুনিয়ারই, আমরা মরি আর বাঁচি। যে জীবনের উপর তারা সবকিছু দাঁড় করিয়েছিল, তা হয়ে গেল এমন জিনিস, যা স্রোত ভাসিয়ে নেয় আর কেউ ঝুঁকে তুলেও দেখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Far Removed, the Wrongdoers",
+          "bn": "দূর হোক জালিমেরা"
+        },
+        "p": [
+          {
+            "en": "Fa-bu'dan li-l-qawmi ẓ-ẓālimīn: so away with the wrongdoing people. Al-Qurtubi explains the grammar: bu'dan is a verbal noun in the accusative, and he compares the set phrase suqyan lahu wa ra'yan. That phrase, water and care be his, is a blessing; here the same form carries the opposite. Its meaning, he says, is destruction to them; and it is said, remoteness for them from the mercy of God. Al-Muyassar joins the two: destruction for them, and remoteness from His mercy.",
+            "bn": "ফা বু'দাল লিল কাওমিজ জালিমীন: অতএব দূর হোক জালিম সম্প্রদায়। কুরতুবী এর ব্যাকরণ ব্যাখ্যা করেন: বু'দান একটি ক্রিয়াবাচক বিশেষ্য, নসব অবস্থায় এসেছে। তুলনায় তিনি আনেন প্রচলিত বাক্যাংশ সুকইয়াল লাহু ওয়া রা'ইয়ান, অর্থাৎ তার জন্য পানি আর যত্ন। সে বাক্যাংশ একটি দোয়া। এখানে একই গড়ন বহন করছে উল্টো অর্থ। কুরতুবী বলেন, এর মানে তাদের জন্য ধ্বংস। আর 'বলা হয়', আল্লাহর রহমত থেকে তাদের দূরত্ব। মুয়াসসার দুটিকে একসঙ্গে বলে: তাদের জন্য ধ্বংস, আর তাঁর রহমত থেকে দূরে থাকা।"
+          },
+          {
+            "en": "At-Tabari reads it as something God did: God put the disbelieving people far away by destroying them, since they disbelieved in their Lord, disobeyed His messengers and wronged themselves. As-Sa'di extends it past the moment of death. Along with their punishment, he says, they were followed by remoteness, by curse and by the blame of all the worlds, and he quotes 44:29: heaven and earth did not weep for them, nor were they given respite.",
+            "bn": "তাবারী একে পড়েন আল্লাহর কাজ হিসেবে: কাফির সম্প্রদায়কে ধ্বংস করে আল্লাহ তাদের দূরে সরিয়ে দিলেন, কারণ তারা তাদের রবকে অস্বীকার করেছিল, তাঁর রাসূলদের অবাধ্য হয়েছিল আর নিজেদের উপর জুলুম করেছিল। সা'দী কথাটাকে মৃত্যুর মুহূর্ত পেরিয়ে নিয়ে যান। তিনি বলেন, শাস্তির সঙ্গে সঙ্গে তাদের পিছু নিল দূরত্ব, লানত আর সারা জগতের নিন্দা। এরপর তিনি ৪৪:২৯ আয়াত উদ্ধৃত করেন: আসমান ও জমিন তাদের জন্য কাঁদেনি, আর তাদের অবকাশও দেওয়া হয়নি।"
+          },
+          {
+            "en": "The Qur'an uses this formula after an ending, never before it. When the waters of the flood subsided, it was said, away with the wrongdoing people (11:44), in the very same words. It is said of 'Ad (11:60), of Thamud (11:68) and of Madyan (11:95), each time once their story is over. Three verses on, in 23:44, it returns for the generations that followed: away with a people who do not believe. It is a word said over a closed account.",
+            "bn": "কুরআন এই বাক্যটি ব্যবহার করে কোনো পরিসমাপ্তির পরে, কখনো আগে নয়। মহাপ্লাবনের পানি নেমে যাওয়ার পর বলা হয়েছিল, দূর হোক জালিম সম্প্রদায় (১১:৪৪), হুবহু এই শব্দগুলোতেই। একই কথা বলা হয়েছে আদ (১১:৬০), সামূদ (১১:৬৮) আর মাদইয়ান (১১:৯৫) সম্পর্কে, প্রতিবারই তাদের কাহিনি শেষ হওয়ার পর। তিনটি আয়াত পরে, ২৩:৪৪ আয়াতে, কথাটি ফিরে আসে পরবর্তী প্রজন্মগুলোর জন্য: দূর হোক যে সম্প্রদায় ঈমান আনে না। এটা এক বন্ধ হয়ে যাওয়া হিসাবের উপর উচ্চারিত কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Curse to Borrow",
+          "bn": "ধার করার অভিশাপ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: one people of the past, who rejected the messenger sent to them, and the judgment God passed on them once their end had come. It licenses nothing against any living person or community. Its closing words are God's sentence over a case He has already closed, not a phrase handed to us to pronounce over a neighbour, a rival, another nation or another group of Muslims, however wrong we judge them to be.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, তা-ই বর্ণনা করে: অতীতের একটি জাতি, যারা তাদের কাছে পাঠানো রাসূলকে প্রত্যাখ্যান করেছিল, আর তাদের পরিণতি আসার পর তাদের উপর আল্লাহর দেওয়া রায়। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এর শেষ কথাগুলো আল্লাহর নিজের রায়, এমন এক মামলায় যা তিনি নিজেই নিষ্পত্তি করে ফেলেছেন। প্রতিবেশী, প্রতিদ্বন্দ্বী, অন্য কোনো জাতি বা মুসলমানদের অন্য কোনো দলের উপর উচ্চারণ করার জন্য এ বাক্য আমাদের হাতে তুলে দেওয়া হয়নি, তাদের আমরা যত ভুলই মনে করি না কেন।"
+          },
+          {
+            "en": "The commentators also say who the wrongdoers here are. At-Tabari glosses them as the people who disbelieved. Ibn Kathir specifies their wrong: their disbelief, their stubbornness and their opposition to the messenger of God. That knowledge of their state belongs to God and to the revelation that reports it. No one living has it about anyone else. None of the commentaries fetched for this verse attaches a hadith to it, and this reading quotes none.",
+            "bn": "এখানে জালিম কারা, তাফসীরকারেরা তাও বলে দেন। তাবারী তাদের ব্যাখ্যা করেন কাফির সম্প্রদায় বলে। ইবন কাসীর তাদের জুলুমটা নির্দিষ্ট করে বলেন: তাদের কুফর, তাদের হঠকারিতা, আর আল্লাহর রাসূলের বিরোধিতা। তাদের অবস্থার এ জ্ঞান আল্লাহর, আর সেই ওহির, যা তা আমাদের জানিয়েছে। অন্য কারও সম্পর্কে এমন জ্ঞান কোনো জীবিত মানুষের নেই। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই এ লেখাতেও কোনো হাদীস উদ্ধৃত করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aimed at the One Listening",
+          "bn": "তীর শ্রোতার নিজের দিকে"
+        },
+        "p": [
+          {
+            "en": "Where, then, does the warning point? Ibn Kathir, closing his comment, names its target: let those who hear beware of denying their messenger. Al-Muyassar says the same and completes it: lest what befell those before them befall them too. The lesson is aimed at the hearer, not passed on through the hearer to someone else. The next verses widen the view: other generations raised up after them (23:42), and no nation able to bring its term forward or put it off (23:43).",
+            "bn": "তাহলে সতর্কবাণীর তীর কোন দিকে? ইবন কাসীর তাঁর ব্যাখ্যা শেষ করেন লক্ষ্যটা বলে দিয়ে: যারা শুনছে, তারা যেন তাদের রাসূলকে মিথ্যা বলা থেকে সাবধান থাকে। মুয়াসসারও একই কথা বলে, আর বাক্যটা পূর্ণ করে: পাছে আগের লোকদের যা ঘটেছিল, তাদেরও তা ঘটে। শিক্ষাটা শ্রোতার নিজের জন্য, শ্রোতার মাধ্যমে অন্য কারও দিকে পাঠানোর জন্য নয়। পরের আয়াতগুলো দৃষ্টি আরও প্রসারিত করে। তাদের পরে উঠে আসে অন্য প্রজন্ম (২৩:৪২), আর কোনো জাতিই তার নির্ধারিত সময় এগিয়ে আনতে বা পিছিয়ে দিতে পারে না (২৩:৪৩)।"
+          },
+          {
+            "en": "So the verse leaves me with my own little. The people who were seized had ease, a messenger from among themselves and time enough to listen, and the time ran out in a single cry. I do not know the length of my own respite. What I can know is whether the warnings I have already heard are changing anything I do, and whether what I am building would still be standing, or would be floating on the water, if my morning came tomorrow.",
+            "bn": "তাই আয়াতটি আমাকে রেখে যায় আমার নিজের অল্প সময়ের সামনে। যাদের পাকড়াও করা হয়েছিল, তাদের ছিল সচ্ছলতা, নিজেদের মধ্য থেকে আসা একজন রাসূল, আর শোনার মতো যথেষ্ট সময়। সেই সময় শেষ হয়ে গেল একটিমাত্র আওয়াজে। আমার অবকাশ কতটা লম্বা, আমি জানি না। যা জানতে পারি তা হলো, যেসব সতর্কবাণী আমি ইতিমধ্যে শুনেছি, সেগুলো আমার আমলে কিছু বদলাচ্ছে কি না। আর কালই যদি আমার সেই সকাল আসে, আমি যা গড়ছি তা কি দাঁড়িয়ে থাকবে, নাকি পানির উপর ভাসবে।"
+          }
+        ]
+      }
+    ]
+  },
   "23:45": {
     "sections": [
       {
