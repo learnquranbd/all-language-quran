@@ -27869,6 +27869,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Act on the guidance that has already reached you, rely on no one to carry your burden, and finish what you have begun, as Ibrahim (AS) fulfilled what he was given.",
     "lessonBn": "যে হিদায়াত আপনার কাছে আগেই পৌঁছেছে তার উপর আমল করুন, আপনার বোঝা অন্য কেউ বইবে এমন ভরসা করবেন না, আর ইবরাহীম (আঃ) যেমন তাঁর দায়িত্ব পুরোপুরি পালন করেছিলেন, তেমনি শুরু করা কাজ শেষ করুন।"
+  },
+  "55:20": {
+    "reflectionEn": "Two waters meet, and the surah says something quiet about them: between them is a barrier, and neither of them transgresses. They touch, yet each stays what it was made to be. The sweet stays fit to drink, the salt keeps its own work, and neither swallows the other. Whatever the barrier is, a strip of land or a line no eye can find, Allah holds it in place, and the waters do not cross it. Then the question comes again: which of your Lord's favours will you deny? I live among people unlike me, and I carry wants that press against their limits. Do I keep to the bounds Allah has set, or do I let one part of my life flood the rest?",
+    "reflectionBn": "দুই পানি এসে মেলে, আর সূরাটি তাদের নিয়ে শান্ত গলায় একটা কথা বলে: তাদের মাঝে আছে এক আড়াল, কেউ কারও সীমা পেরোয় না। ছুঁয়ে থাকে, তবু যাকে যেমন বানানো হয়েছে সে তেমনই থাকে। মিঠা পানি পান করার মতোই থাকে, লোনা পানি নিজের কাজ করে যায়, কেউ কাউকে গিলে ফেলে না। আড়ালটা মাটির এক ফালি হোক কিংবা চোখে না পড়া কোনো রেখা, তাকে ধরে রেখেছেন আল্লাহ, আর পানি তা ডিঙায় না। তারপর আবার সেই প্রশ্ন: তোমাদের রবের কোন কোন নিয়ামত তোমরা অস্বীকার করবে? আমি থাকি আমার থেকে আলাদা মানুষের মাঝে, আর আমার ভেতরে এমন সব চাওয়া আছে যা সীমার গায়ে ধাক্কা দেয়। আল্লাহর বেঁধে দেওয়া সীমার ভেতরে কি আমি থাকি? নাকি জীবনের একটা দিককে বাকি সবকিছু ভাসিয়ে নিতে দিই?",
+    "pointsEn": [
+      "Where in my life do two things meet that must not mix, and what is keeping them apart right now?",
+      "Which limit Allah has set do I lean against most often, as if hoping it will give way?",
+      "When I live or work beside people unlike me, do I keep my own character without trying to drown theirs?",
+      "The next time I drink a glass of fresh water, will I remember who keeps it sweet?",
+      "Has one part of my life, work, a screen or an old grievance, spilled over its bank and swamped the rest?"
+    ],
+    "pointsBn": [
+      "আমার জীবনে কোথায় এমন দুটো জিনিস এসে মেলে যাদের মিশে যাওয়া চলে না? এই মুহূর্তে কী তাদের আলাদা করে রেখেছে?",
+      "আল্লাহর বেঁধে দেওয়া কোন সীমার গায়ে আমি সবচেয়ে বেশি ভর দিই, যেন মনে মনে চাই সেটা একদিন ভেঙে পড়ুক?",
+      "আমার থেকে আলাদা মানুষের পাশে যখন থাকি বা কাজ করি, তখন কি নিজের স্বভাব ধরে রাখি, তাদেরটা ডুবিয়ে দিতে না চেয়ে?",
+      "এরপর যখন এক গ্লাস মিঠা পানি খাব, তখন কি মনে পড়বে কে একে মিঠা রেখেছেন?",
+      "কাজ, পর্দা কিংবা পুরোনো কোনো ক্ষোভ, জীবনের কোনো একটা দিক কি পাড় ছাপিয়ে বাকি সবকিছু ডুবিয়ে দিয়েছে?"
+    ],
+    "lessonEn": "Thank Allah for the limits He holds in place in His creation, and keep within the bounds He has set for you, never letting one thing overrun another.",
+    "lessonBn": "সৃষ্টির মাঝে আল্লাহ যে সীমাগুলো ধরে রেখেছেন তার জন্য শুকরিয়া আদায় করুন, আর তিনি আপনার জন্য যে সীমা বেঁধে দিয়েছেন তার ভেতরে থাকুন, একটাকে দিয়ে আরেকটাকে ডুবিয়ে দেবেন না।"
   }
 };
 

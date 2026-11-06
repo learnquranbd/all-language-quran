@@ -759,6 +759,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "55:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words, Two Waters",
+          "bn": "চার শব্দে দুই পানি"
+        },
+        "p": [
+          {
+            "en": "Verse 55:19 let loose the two seas and had them meet. Verse 55:20 tells what holds at the meeting, in four Arabic words: baynahuma barzakhun la yabghiyan, between the two of them is a barrier, and they do not transgress. The pronoun and the verb are both dual, so the verse keeps speaking of the same pair. Which pair that is, the commentators answer in several ways. The article on 55:19 sets those answers out, and this article does not repeat them, except where they change what the barrier is.",
+            "bn": "৫৫:১৯ আয়াতে আল্লাহ দুই সমুদ্রকে ছেড়ে দিয়েছেন, আর তারা পরস্পর মিলেছে। মিলনের জায়গায় কী টিকে থাকে, ৫৫:২০ আয়াত তা বলে চারটি আরবি শব্দে: বাইনাহুমা বারযাখুল লা ইয়াবগিয়ান, তাদের দুজনের মাঝে এক আড়াল, তারা সীমা লঙ্ঘন করে না। সর্বনাম আর ক্রিয়া দুটোই দ্বিবচন, ফলে আয়াত আগের সেই জোড়ার কথাই বলে চলেছে। জোড়াটা কোন দুই সমুদ্র, তা নিয়ে তাফসীরকারদের কয়েক রকম জবাব আছে। ৫৫:১৯ আয়াতের প্রবন্ধে সেগুলো সাজিয়ে বলা হয়েছে। এখানে আর পুনরাবৃত্তি নেই, শুধু যেখানে সে জবাবের কারণে আড়ালের অর্থ বদলে যায়, সেখানটুকু ছাড়া।"
+          },
+          {
+            "en": "The verse completes the favour named just before it. The Muyassar joins the two verses in a single run: Allah mixed the water of the two seas, the fresh and the salt, as they meet; between them is a barrier, so that neither overwhelms the other and takes away its properties, but the fresh stays fresh and the salt stays salt even as they meet. Then the refrain of 55:21 comes back, asking the jinn and mankind which of their Lord's favours they will deny.",
+            "bn": "আগের আয়াতে যে নিয়ামতের কথা এসেছে, এ আয়াত তাকেই পূর্ণ করে। মুয়াসসার দুই আয়াতকে এক টানে পড়ে: আল্লাহ দুই সমুদ্রের পানি, মিঠা আর লোনা, মিলিয়ে দিয়েছেন, তারা পরস্পর মেলে। তাদের মাঝে আছে আড়াল, তাই কেউ অন্যকে ছাপিয়ে গিয়ে তার গুণ কেড়ে নেয় না। মিলে থাকার পরেও মিঠা মিঠাই থাকে, লোনা লোনাই থাকে। এরপর ৫৫:২১ আয়াতে আবার ফিরে আসে সেই প্রশ্ন: জিন ও মানুষ, তোমাদের রবের কোন কোন নিয়ামত তোমরা অস্বীকার করবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Arabs Called Barzakh",
+          "bn": "আরবের মুখে বারযাখ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the phrase first: between the two is a hajiz wa bu'd, a barrier and a distance, so that neither spoils the other and so transgresses against it. Then he defines the word. Among the Arabs, he says, anything that lies between two things is a barzakh, and what lies between this world and the next is a barzakh. He adds that the people of interpretation said the same, and gives a report from Ibn 'Abbas (RA) explaining barzakh in a single word: hajiz, a barrier.",
+            "bn": "তাবারী প্রথমে বাক্যটির অর্থ বলেন: দুইয়ের মাঝে আছে হাজিয ওয়া বু'দ, এক আড়াল আর এক দূরত্ব, যাতে একটি অন্যটিকে নষ্ট করে তার উপর সীমা না ছাড়ায়। তারপর শব্দটির সংজ্ঞা দেন। তাঁর ভাষায়, আরবদের কাছে দুই জিনিসের মাঝখানে যা থাকে তা-ই বারযাখ। দুনিয়া আর আখিরাতের মাঝে যা আছে, তাও বারযাখ। তিনি যোগ করেন, তাফসীরের আলেমরাও এ কথাই বলেছেন। সঙ্গে আনেন ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা, যেখানে বারযাখের ব্যাখ্যা মাত্র এক শব্দে: হাজিয, আড়াল।"
+          },
+          {
+            "en": "The second use at-Tabari names is one the Qur'an itself carries. In 23:100 the same word stands for what follows death: wa min wara'ihim barzakhun ila yawmi yub'athun, and behind them is a barrier until the Day they are raised. The verse at hand uses it for something in the world of water and land, and 23:100 for something between two lives. Both fit his definition of a thing set between two others, and the reader should keep the two uses distinct rather than read one into the other.",
+            "bn": "তাবারী শব্দটির যে দ্বিতীয় ব্যবহারের কথা বলেন, কুরআনেই তা আছে। ২৩:১০০ আয়াতে একই শব্দ এসেছে মৃত্যুর পরের অবস্থা বোঝাতে: ওয়া মিন ওয়ারাইহিম বারযাখুন ইলা ইয়াওমি ইউব'আসূন, আর তাদের সামনে এক আড়াল, পুনরুত্থানের দিন পর্যন্ত। আমাদের আয়াতে শব্দটি পানি আর মাটির জগতের কথা বলে, আর ২৩:১০০ বলে দুই জীবনের মাঝখানের কথা। দুটোই তাবারীর সংজ্ঞায় পড়ে: দুই জিনিসের মাঝে রাখা কিছু। তবে পাঠকের উচিত দুই ব্যবহারকে আলাদা রাখা, একটার অর্থ অন্যটায় টেনে না আনা।"
+          },
+          {
+            "en": "Ibn Kathir sets a limit on the word. He reads the verse beside 25:53, where the same pair is given a barzakh and a hijr mahjur, a complete partition, and he says that what lies between the sky and the earth is called neither barzakh nor hijr mahjur. That remark weighs against the reading which takes the two seas as a sea above and a sea below. Al-Qurtubi, by contrast, records that reading's barrier from ad-Dahhak as what lies between the sky and the earth. The two books differ, and both are given here.",
+            "bn": "ইবন কাসীর শব্দটির একটা সীমা টানেন। তিনি আয়াতটি পড়েন ২৫:৫৩ আয়াতের পাশে রেখে, যেখানে এই জোড়ার মাঝে আছে বারযাখ আর হিজর মাহজূর, এক অলঙ্ঘ্য প্রাচীর। তাঁর কথা: আকাশ আর পৃথিবীর মাঝে যা আছে, তাকে বারযাখও বলা হয় না, হিজর মাহজূরও না। এ মন্তব্য সেই ব্যাখ্যার বিপক্ষে যায়, যেখানে দুই সমুদ্র মানে ওপরের এক সমুদ্র আর নিচের এক সমুদ্র। অথচ কুরতুবী ঠিক সে ব্যাখ্যার আড়াল হিসেবে দাহহাকের কথা উদ্ধৃত করেন: আকাশ ও পৃথিবীর মাঝে যা আছে। দুই কিতাবের মত ভিন্ন, এখানে দুটোই রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Land, Islands or Power",
+          "bn": "মাটি, দ্বীপ, না কুদরত"
+        },
+        "p": [
+          {
+            "en": "Several commentators find the barrier in land. Ibn Kathir says Allah placed a barrier of land between the two kinds of water, so that neither transgresses on the other and spoils it, removing it from the quality it was made for. As-Sa'di says the same: Allah set a barrier of land between them. At-Tabari gives Qatada by two chains, once calling the barzakh this jazira, this dry land, and once the land that lies between them. Ibn Zayd says Allah kept them from meeting by the land He set between them.",
+            "bn": "কয়েকজন তাফসীরকার আড়ালটা খুঁজে পান মাটিতে। ইবন কাসীর বলেন, দুই ধরনের পানির মাঝে আল্লাহ রেখেছেন মাটির এক আড়াল, যাতে একটি অন্যটির উপর চড়াও হয়ে তাকে নষ্ট না করে, যে গুণের জন্য তাকে বানানো হয়েছে তা থেকে সরিয়ে না দেয়। সা'দীও একই কথা বলেন: আল্লাহ দুইয়ের মাঝে মাটির আড়াল রেখেছেন। তাবারী দুই সনদে কাতাদার কথা আনেন। একবার কাতাদা বারযাখকে বলেন এই জাযীরা, এই শুকনো ভূমি। আরেকবার বলেন, দুইয়ের মাঝখানের মাটি। ইবন যায়দ বলেন, মাঝখানে মাটি রেখে আল্লাহ তাদের মিলতে দেননি।"
+          },
+          {
+            "en": "Where the two seas are taken as two named waters, the land gets a name too. Al-Qurtubi gives from al-Hasan and Qatada that the barrier is the land between them, which is al-Hijaz. Al-Baghawi gives from Qatada that they are the sea of Persia and the sea of the Romans, with the islands as the barzakh between them. He also records from al-Hasan the sea of the Romans and the sea of India, with a line spoken to the listeners: and you are the barrier between them. Al-Baghawi does not explain it further.",
+            "bn": "দুই সমুদ্রকে যারা নির্দিষ্ট দুই জলরাশি ধরেছেন, তাদের কাছে মাটিটারও একটা নাম আছে। কুরতুবী হাসান ও কাতাদা থেকে আনেন: আড়াল হলো দুইয়ের মাঝখানের ভূমি, আর সেটা হিজায। বাগাভী কাতাদা থেকে আনেন: পারস্যের সমুদ্র আর রোমের সমুদ্র, তাদের মাঝের বারযাখ হলো দ্বীপগুলো। হাসান থেকে তিনি আরেকটি কথা আনেন: রোমের সমুদ্র আর হিন্দের সমুদ্র, আর সঙ্গে শ্রোতাদের উদ্দেশে এক বাক্য, তোমরাই তাদের মাঝের আড়াল। বাগাভী কথাটির আর কোনো ব্যাখ্যা দেননি।"
+          },
+          {
+            "en": "Others do not tie the barrier to any strip of ground. At-Tabari gives Mujahid saying it is a barrier from Allah. Al-Baghawi opens his comment with a barrier from the power of Allah, and al-Qurtubi says that on the remaining views the barrier is the divine power, as he set out under Surat al-Furqan. These readings need not cancel the land readings. One names where the barrier lies, the other names who holds it there, and 25:53 says in so many words that it was He who set a barrier between them.",
+            "bn": "কেউ কেউ আড়ালটাকে মাটির কোনো ফালির সঙ্গে বাঁধেন না। তাবারী মুজাহিদের কথা আনেন: এ আড়াল আল্লাহর পক্ষ থেকে। বাগাভী তাঁর ব্যাখ্যা শুরুই করেন এভাবে: আল্লাহর কুদরতের এক আড়াল। কুরতুবী বলেন, বাকি মতগুলো অনুযায়ী আড়ালটা হলো আল্লাহর কুদরত, যেমন তিনি সূরা ফুরকানে আলোচনা করেছেন। এ ব্যাখ্যা মাটির ব্যাখ্যাকে বাতিল করে না। একটি বলে আড়াল কোথায়, অন্যটি বলে কে তাকে সেখানে ধরে রেখেছেন। আর ২৫:৫৩ আয়াত পরিষ্কার বলে দেয়, দুইয়ের মাঝে আড়াল বসিয়েছেন তিনিই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an describes the meeting in its own way. Where sweet and salt water meet, it says, there is a distinct barrier between them, and examples are found in every region; sometimes one water lies above the other, yet neither loses its character. That is Ma'arif al-Qur'an's description, and it is reported here as such. This article makes no claim of its own about how waters behave where they meet, and draws no proof from any modern study of the sea.",
+            "bn": "মাআরিফুল কুরআন মিলনের ছবিটা আঁকে নিজের মতো করে। তার কথা: যেখানে মিঠা আর লোনা পানি মেলে, সেখানে দুইয়ের মাঝে স্পষ্ট এক আড়াল থাকে, আর এর নমুনা পৃথিবীর প্রতিটি অঞ্চলে পাওয়া যায়। কখনো একটা পানি থাকে অন্যটির ওপরে বা নিচে, তবু কেউ নিজের গুণ হারায় না। এটা মাআরিফুল কুরআনের বর্ণনা, এখানে তার নামেই রইল। পানি মিলনের জায়গায় কেমন আচরণ করে, সে বিষয়ে এ প্রবন্ধ নিজে কোনো দাবি করে না, আর সমুদ্র নিয়ে কোনো আধুনিক গবেষণা থেকে প্রমাণও টানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Ways to Read Yabghiyan",
+          "bn": "ইয়াবগিয়ান পড়ার চার পথ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states that the people of interpretation differed over la yabghiyan, and he sorts them into four groups. Some said it means that neither transgresses against the other; he gives this from Ibn Abza, from Mujahid and from Qatada. Others said it means that the two do not mix, and he gives this too from Mujahid, by the chain of Ibn Abi Najih. So Mujahid stands in two of the groups, which is how at-Tabari's chains record him, and the two glosses sit close together.",
+            "bn": "তাবারী জানান, লা ইয়াবগিয়ান-এর অর্থ নিয়ে তাফসীরের আলেমদের মতভেদ আছে, আর তিনি তাদের চারটি দলে ভাগ করেন। কেউ বলেছেন, এর মানে একটি অন্যটির উপর সীমা ছাড়ায় না। এ মত তিনি আনেন ইবন আবযা, মুজাহিদ আর কাতাদা থেকে। কেউ বলেছেন, এর মানে দুটো মেশে না। এটাও তিনি আনেন মুজাহিদ থেকে, ইবন আবী নাজীহের সনদে। ফলে মুজাহিদের নাম দুই দলেই আছে, তাবারীর সনদগুলো তাঁকে এভাবেই ধরে রেখেছে। আর দুই ব্যাখ্যার মধ্যে দূরত্বও বেশি নয়।"
+          },
+          {
+            "en": "A third group, through Qatada, said they do not transgress upon the dry land. Qatada adds that whatever one of them takes from the other is baghy, transgression, and so Allah held each back from the other by His power, His gentleness and His majesty. A fourth group, through Ibn Zayd, said it means that neither seeks to meet the other. His gloss hears the verb as wanting rather than overstepping, and it fits his comment on the barrier: Allah kept them from meeting by the land He placed between them.",
+            "bn": "তৃতীয় দলের কথা আসে কাতাদা থেকে: তারা শুকনো ভূমির উপর চড়াও হয় না। কাতাদা যোগ করেন, একটি অন্যটির কাছ থেকে যা কিছু নিয়ে নেয় তা-ই বাগয়, সীমালঙ্ঘন। তাই আল্লাহ নিজের কুদরত, লুতফ আর জালাল দিয়ে একটিকে অন্যটি থেকে আটকে রেখেছেন। চতুর্থ দলের কথা আসে ইবন যায়দ থেকে: এর মানে, কেউ অন্যের সঙ্গে মিলতে চায় না। তাঁর ব্যাখ্যায় ক্রিয়াটির অর্থ সীমা ছাড়ানো নয়, চাওয়া। আড়াল নিয়ে তাঁর কথার সঙ্গেও এটা মেলে: মাঝখানে মাটি রেখে আল্লাহ তাদের মিলতে দেননি।"
+          },
+          {
+            "en": "Al-Qurtubi adds a reading at-Tabari does not list here. He gives Qatada saying that the seas do not transgress upon people and drown them, since Allah set dry land between them and the people. He gives Qatada and Mujahid together for the first reading: neither transgresses upon the other and overpowers it. Al-Baghawi gathers several senses into one line: they do not mix, they do not change, and neither transgresses against the other. Then he too gives Qatada's line about not overwhelming people with drowning.",
+            "bn": "কুরতুবী এমন একটি ব্যাখ্যা আনেন, যা তাবারী এখানে তালিকায় রাখেননি। কাতাদার কথা: সমুদ্র মানুষের উপর চড়াও হয়ে তাদের ডুবিয়ে দেয় না, কারণ আল্লাহ সমুদ্র আর মানুষের মাঝে শুকনো ভূমি রেখেছেন। প্রথম ব্যাখ্যাটি তিনি কাতাদা ও মুজাহিদ দুজনের নামে আনেন: একটি অন্যটির উপর চড়াও হয়ে তাকে হারিয়ে দেয় না। বাগাভী কয়েকটি অর্থ এক বাক্যে জড়ো করেন: তারা মেশে না, বদলায় না, একটি অন্যটির উপর সীমা ছাড়ায় না। তারপর তিনিও কাতাদার সেই কথা আনেন, ডুবিয়ে মানুষের উপর চড়াও না হওয়ার কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Limit Crossed Anywhere",
+          "bn": "কোথাও সীমা পেরোয় না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gives his own judgement, and it does not pick one of the four. Allah, he says, described the two seas He mentioned in this verse as not transgressing, and did not limit that description to one thing rather than another; He made the statement general. So the right course is to keep it general, as He did, and to say: they transgress upon nothing, neither of them transgresses upon the other, and they do not pass beyond the limit Allah has set for them.",
+            "bn": "এরপর তাবারী নিজের রায় দেন, আর তিনি চারটি মতের কোনো একটিকে বেছে নেন না। তাঁর যুক্তি: এ আয়াতে আল্লাহ যে দুই সমুদ্রের কথা বলেছেন, তাদের বিশেষণ দিয়েছেন যে তারা সীমা ছাড়ায় না। কোনো একটা বিষয়ে এ কথা সীমিত করেননি, বরং খবরটা দিয়েছেন ব্যাপকভাবে। তাই সঠিক পথ হলো, আল্লাহ যেমন ব্যাপক রেখেছেন তেমনই ব্যাপক রাখা। বলা উচিত: তারা কোনো কিছুর উপর সীমা ছাড়ায় না, একটি অন্যটির উপরও না, আর আল্লাহ তাদের জন্য যে সীমা বেঁধে দিয়েছেন তা পার হয় না।"
+          },
+          {
+            "en": "Read that way, the verse protects several things at once. Ibn Kathir names what is kept safe between the waters: without the barrier each would spoil the other and lose the character it was made with. The Muyassar says the fresh stays fresh and the salt stays salt. Qatada, in al-Qurtubi and al-Baghawi, names what is kept safe on the shore: people are not drowned. At-Tabari's general reading gathers all of these under one phrase, the limit Allah set, and the verse names no exception to it.",
+            "bn": "এভাবে পড়লে আয়াতটি একসঙ্গে কয়েকটি জিনিস রক্ষা করে। পানির ভেতরে কী রক্ষা পায়, ইবন কাসীর তা বলেন: আড়াল না থাকলে একটি অন্যটিকে নষ্ট করত, যে গুণ নিয়ে তাকে বানানো হয়েছে তা হারিয়ে যেত। মুয়াসসার বলে, মিঠা মিঠাই থাকে আর লোনা লোনাই থাকে। তীরে কী রক্ষা পায়, কুরতুবী ও বাগাভীতে কাতাদা তা বলেন: মানুষ ডুবে যায় না। তাবারীর ব্যাপক ব্যাখ্যা এই সবকিছুকে এক কথার নিচে জড়ো করে: আল্লাহর বেঁধে দেওয়া সীমা। আর আয়াত সে সীমার কোনো ব্যতিক্রমের কথা বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Readings Past the Shoreline",
+          "bn": "তীরের ওপারের ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records, under it is said, a reading that carries the barrier into time. The barzakh is what lies between this world and the next: a span Allah has measured out, the span of this world, during which the two seas do not transgress. When Allah gives leave for the world to end, the two seas become one, as in His words in 82:3, wa idha l-biharu fujjirat, and when the seas are made to burst forth. He names no one for it, and it stands beside the plainer readings rather than replacing them.",
+            "bn": "কুরতুবী 'বলা হয়' কথাটি জুড়ে এমন এক ব্যাখ্যা আনেন, যা আড়ালটাকে সময়ের ভেতরে নিয়ে যায়। বারযাখ হলো দুনিয়া আর আখিরাতের মাঝখানের কাল। এ এক মেয়াদ, যা আল্লাহ মেপে দিয়েছেন, দুনিয়ার মেয়াদ। এ সময়টুকু দুই সমুদ্র সীমা ছাড়ায় না। আল্লাহ যখন দুনিয়া শেষ হওয়ার অনুমতি দেবেন, দুই সমুদ্র তখন মিলে একটাই হয়ে যাবে, যেমন ৮২:৩ আয়াতে তিনি বলেছেন: ওয়া ইযাল বিহারু ফুজ্জিরাত, আর যখন সমুদ্রগুলোকে উত্তাল করে ফাটিয়ে দেওয়া হবে। কুরতুবী এ মতের কোনো বক্তার নাম বলেননি। এটা সহজ ব্যাখ্যাগুলোর পাশে থাকে, তাদের জায়গা নেয় না।"
+          },
+          {
+            "en": "He also records Sahl ibn 'Abd Allah: the two seas are the path of good and the path of evil, and the barzakh between them is tawfiq and 'isma, Allah's granting of success and His protection. This is a reading of the heart drawn from the verse's picture, given under Sahl's own name. Al-Qurtubi places it last, after the readings about water and land, and does not offer it as the verse's plain meaning. It is offered here in the same way, as one man's reflection that the books have kept.",
+            "bn": "কুরতুবী সাহল ইবন আবদুল্লাহর কথাও আনেন: দুই সমুদ্র হলো কল্যাণের পথ আর অকল্যাণের পথ, আর তাদের মাঝের বারযাখ হলো তাওফীক ও ইসমাত, অর্থাৎ আল্লাহর দেওয়া সামর্থ্য আর তাঁর হেফাজত। আয়াতের ছবি থেকে অন্তরের জন্য টানা এক ব্যাখ্যা এটি, সাহলের নিজের নামে বর্ণিত। পানি আর মাটির ব্যাখ্যাগুলোর পরে, একেবারে শেষে কুরতুবী এটা রেখেছেন, আয়াতের সরল অর্থ হিসেবে পেশ করেননি। এখানেও তা সেভাবেই রইল: একজন মানুষের ভাবনা, যা কিতাবগুলো সংরক্ষণ করেছে।"
+          },
+          {
+            "en": "Al-Qurtubi also records a long report traced through Abu Hurayra (RA) to the Prophet ﷺ, in which Allah addresses the western and eastern waters, after which one turned salt and the other stayed sweet with a barzakh between them. He cites it from al-Hakim at-Tirmidhi with its chain and gives it no grading. None of the other commentaries consulted for this verse carries it, and none attaches a sound hadith to 55:20. So it is not quoted here as a hadith, and no other narration is put in its place.",
+            "bn": "কুরতুবী আরও একটি দীর্ঘ বর্ণনা আনেন, যা আবু হুরায়রা (রাঃ)-এর মাধ্যমে নবী ﷺ পর্যন্ত পৌঁছানো হয়েছে। সেখানে আল্লাহ পশ্চিম ও পূর্বের পানির সঙ্গে কথা বলেন, তারপর একটি হয়ে যায় লোনা, অন্যটি মিঠাই থেকে যায়, আর দুইয়ের মাঝে থাকে বারযাখ। কুরতুবী এটি হাকীম তিরমিযী থেকে সনদসহ উদ্ধৃত করেন, কিন্তু এর মান সম্পর্কে কিছু বলেন না। এ আয়াতের জন্য দেখা অন্য কোনো তাফসীরে বর্ণনাটি নেই, আর কোনো তাফসীরই ৫৫:২০ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তাই এখানে একে হাদীস হিসেবে উদ্ধৃত করা হলো না, আর এর জায়গায় অন্য কোনো বর্ণনাও বসানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept Apart for Our Good",
+          "bn": "আলাদা রাখা আমাদেরই কল্যাণে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di says why the barrier is a favour: so that benefit comes from each water. From the fresh, people drink, and their trees and crops drink. By the salt the air is made wholesome, fish are bred, pearls and coral come, and it is made a steady road for ships. The surah names two of these next, pearl and coral in 55:22 and the ships in 55:24. Between them, in 55:21, the refrain asks once more which of the Lord's favours the jinn and mankind will deny.",
+            "bn": "আড়ালটা কেন নিয়ামত, সা'দী তা বলেন: যাতে প্রতিটি পানি থেকে উপকার পাওয়া যায়। মিঠা পানি মানুষ পান করে, তাদের গাছপালা আর ফসলও তা পান করে। লোনা পানি বাতাসকে নির্মল রাখে, তাতে মাছ জন্মায়, মুক্তা আর প্রবাল আসে, আর তা জাহাজ ও নৌযানের জন্য বশ করা এক স্থির পথ হয়ে থাকে। সূরাটি এর দুটো পরেই উল্লেখ করে: ৫৫:২২ আয়াতে মুক্তা ও প্রবাল, ৫৫:২৪ আয়াতে জাহাজ। এ দুইয়ের মাঝে ৫৫:২১ আয়াতে প্রশ্নটি আবার আসে: জিন ও মানুষ, রবের কোন কোন নিয়ামত তোমরা অস্বীকার করবে?"
+          },
+          {
+            "en": "At-Tabari's phrase, the limit Allah set for them, can stay with a reader beyond the shore. The verse describes waters, not laws, yet the Lord who keeps the salt from the sweet has also set limits for His servants, in what they take and what they owe. A home where one person's anger floods every room, or a week where work swallows prayer, is a place where a barrier has been crossed. Noticing the waters that do not transgress can make it easier to notice our own.",
+            "bn": "তাবারীর কথাটি, আল্লাহর বেঁধে দেওয়া সীমা, তীর পেরিয়েও পাঠকের মনে থেকে যেতে পারে। আয়াত বলছে পানির কথা, বিধানের কথা নয়। তবু যে রব লোনাকে মিঠা থেকে আলাদা রাখেন, তিনিই বান্দাদের জন্যও সীমা বেঁধে দিয়েছেন, কী নেবে আর কার কী হক আদায় করবে তাতে। যে ঘরে একজনের রাগ প্রতিটি কামরা ভাসিয়ে নেয়, কিংবা যে সপ্তাহে কাজ নামাজকে গিলে ফেলে, সেখানে কোনো আড়াল ডিঙানো হয়েছে। যে পানি সীমা ছাড়ায় না, তার দিকে চোখ রাখলে নিজের সীমা চোখে পড়াও সহজ হয়।"
+          },
+          {
+            "en": "No Sunnah supplication is attached to this verse in the sources consulted. A supplication in its own vocabulary, offered as such and not as a narrated du'a, might be: O Lord who set a barrier between the two seas, set between me and what You have forbidden a barrier I do not cross, and keep each blessing You gave me from spoiling another. With children, the four words can be learned with one question: who keeps the sweet water sweet beside the salt sea?",
+            "bn": "যেসব সূত্র দেখা হয়েছে, তাতে এ আয়াতের সঙ্গে সুন্নাহর কোনো দোয়া যুক্ত নেই। আয়াতের শব্দ থেকে একটি দোয়া বলা যায়, বর্ণিত দোয়া হিসেবে নয়, নিজের দোয়া হিসেবে: হে রব, যিনি দুই সমুদ্রের মাঝে আড়াল রেখেছেন, আমার আর আপনার নিষেধ করা জিনিসের মাঝে এমন আড়াল দিন যা আমি পার হব না, আর আপনার দেওয়া এক নিয়ামতকে আরেক নিয়ামত নষ্ট করতে দেবেন না। শিশুদের এ চারটি শব্দ শেখানো যায় একটি প্রশ্ন দিয়ে: লোনা সমুদ্রের পাশে মিঠা পানিকে মিঠা রাখেন কে?"
+          }
+        ]
+      }
+    ]
+  },
   "55:26-27": {
     "sections": [
       {
