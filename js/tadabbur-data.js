@@ -25329,6 +25329,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Knowledge from Allah should open your eyes to the revelation as the truth and as a path to the Mighty, the Praiseworthy; let what you learn lead you along it.",
     "lessonBn": "আল্লাহর দেওয়া জ্ঞান আপনার চোখ খুলে দিক, যাতে ওহিকে সত্য বলে দেখেন এবং মহাপরাক্রমশালী, প্রশংসিত রবের পথ বলে চেনেন। যা শিখছেন, তা যেন আপনাকে সে পথে এগিয়ে নেয়।"
+  },
+  "34:37": {
+    "reflectionEn": "Those who turned the warners away had a simple argument: look how much we own, how many sons stand behind us. Would a Lord who disliked us give us all this? The verse before answers that He widens and narrows provision as He wills. This one goes further. Neither wealth nor children is what brings anyone near to Allah. Faith and righteous work do, and for them the reward is multiplied, with rooms set high where no fear reaches. The verse condemns no one for having plenty. It asks me what I am quietly counting as proof of my standing. If all I hold were gone tomorrow, how much of what Allah weighs would still be mine?",
+    "reflectionBn": "সতর্ককারীদের যারা ফিরিয়ে দিয়েছিল, তাদের যুক্তি ছিল সোজা। দেখো, আমাদের কত সম্পদ, পেছনে কত ছেলে দাঁড়িয়ে আছে। যে রব আমাদের অপছন্দ করেন, তিনি কি এত কিছু দিতেন? আগের আয়াত জবাব দিয়েছে: রিযক তিনি যাকে চান বাড়িয়ে দেন, যাকে চান কমিয়ে দেন। এ আয়াত আরও এক ধাপ এগোয়। ধন-সম্পদ বা সন্তান কাউকে আল্লাহর কাছে পৌঁছে দেয় না। পৌঁছে দেয় ঈমান আর নেক আমল। তার প্রতিদান বহুগুণ, আর ঠিকানা উঁচু কক্ষ, যেখানে কোনো ভয় পৌঁছায় না। যার প্রাচুর্য আছে, আয়াতটি তাকে দোষী বলে না। বরং আমাকেই জিজ্ঞেস করে: নিজের মর্যাদার প্রমাণ হিসেবে মনে মনে আমি কী গুনে রাখছি? কাল যদি হাতের সবকিছু চলে যায়, আল্লাহ যা ওজন করেন তার কতটুকু তখনো আমার থাকবে?",
+    "pointsEn": [
+      "What do I quietly take as a sign that Allah is pleased with me: my income, my family, the respect people show me?",
+      "When I meet someone who has less, do I treat them, even in small ways, as if they stood lower with Allah?",
+      "Is the wealth I have drawing me nearer through how I earn and spend it, or only filling my hands?",
+      "Which of my good deeds would I keep doing if no one could see it or count it?",
+      "When I picture being safe, do I picture savings and a household, or a place where no fear can reach?"
+    ],
+    "pointsBn": [
+      "আল্লাহ আমার উপর খুশি, এর প্রমাণ হিসেবে মনে মনে আমি কী ধরে নিই: আয়-রোজগার, পরিবার, নাকি মানুষের দেওয়া সম্মান?",
+      "যার হাতে আমার চেয়ে কম, তার সঙ্গে কি আমি ছোটখাটো আচরণেও এমন ব্যবহার করি, যেন আল্লাহর কাছে সে আমার চেয়ে নিচে?",
+      "আমার সম্পদ কি উপার্জন আর খরচের ধরন দিয়ে আমাকে আল্লাহর কাছে নিয়ে যাচ্ছে, নাকি শুধু হাতটাই ভরছে?",
+      "আমার কোন নেক আমলটা কেউ না দেখলে, কেউ না গুনলেও আমি করে যেতাম?",
+      "নিরাপদ থাকার কথা ভাবলে আমার চোখে কী ভাসে: সঞ্চয় আর ভরা সংসার, নাকি এমন এক ঠিকানা যেখানে কোনো ভয় পৌঁছায় না?"
+    ],
+    "lessonEn": "Wealth and children do not bring you near to Allah; faith and righteous deeds do, and their reward is multiplied. Measure your standing by these, not by what you own.",
+    "lessonBn": "ধন-সম্পদ আর সন্তান আপনাকে আল্লাহর কাছে নিয়ে যায় না, নিয়ে যায় ঈমান আর নেক আমল, যার প্রতিদান বহুগুণ। নিজের মর্যাদা মাপুন এ দিয়ে, যা আছে তা দিয়ে নয়।"
   }
 };
 

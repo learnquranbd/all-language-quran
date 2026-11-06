@@ -1179,6 +1179,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "34:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Boast Taken as Proof",
+          "bn": "প্রাচুর্যকে প্রমাণ ভাবা"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier the comfortable of every town speak for themselves: we are more in wealth and children, and we are not to be punished (34:35). It is an argument, not only a boast. Ibn Kathir, in his commentary on the passage, sets out its logic: they took their wealth and their many children as a sign that Allah loved them and cared for them, and reasoned that whoever gave them this here would not punish them in the Hereafter. 34:36 answers the first half: He widens and narrows provision as He wills, and most people do not know.",
+            "bn": "দুই আয়াত আগে প্রতিটি জনপদের সচ্ছল লোকেরা নিজেরাই নিজেদের কথা বলেছে: ধন-সম্পদ আর সন্তানে আমরা বেশি, আমাদের শাস্তি হবে না (৩৪:৩৫)। এটা শুধু অহংকার নয়, এক ধরনের যুক্তিও। ইবন কাসীর এ অংশের তাফসীরে যুক্তিটা খুলে দেখান। তারা নিজেদের সম্পদ আর অনেক সন্তানকে ধরে নিয়েছিল আল্লাহর ভালোবাসা ও যত্নের আলামত হিসেবে। তাদের হিসাব ছিল, যিনি দুনিয়াতে এত দিলেন, তিনি আখিরাতে শাস্তি দেবেন না। যুক্তির প্রথম অর্ধেকের জবাব দিয়েছে ৩৪:৩৬: রিযক তিনি যার জন্য চান প্রশস্ত করেন, যার জন্য চান সীমিত করেন, কিন্তু অধিকাংশ মানুষ তা জানে না।"
+          },
+          {
+            "en": "This verse answers the rest. Wa ma amwalukum wa la awladukum bi-llati tuqarribukum 'indana zulfa: it is not your wealth or your children that bring you near to Us. At-Tabari hears the address precisely: the wealth you boast of over people, the children you carry yourselves arrogantly with. Ibn Kathir names the mistaken inference itself: these are no proof of Our love for you, nor of Our care for you. Qatada, in at-Tabari, gives the practical rule: people are not to be weighed by abundance of wealth and children, for the disbeliever may be given wealth, and it may be held back from the believer.",
+            "bn": "বাকি অর্ধেকের জবাব এই আয়াতে। ওয়ামা আমওয়ালুকুম ওয়ালা আওলাদুকুম বিল্লাতী তুকাররিবুকুম ইনদানা যুলফা: তোমাদের সম্পদ আর তোমাদের সন্তান এমন কিছু নয়, যা তোমাদের আমার কাছে নিয়ে আসে। তাবারী সম্বোধনটা ঠিক ঠিক ধরেন: যে সম্পদ নিয়ে তোমরা মানুষের উপর গর্ব করো, যে সন্তানদের নিয়ে তোমরা বড়াই করো। ইবন কাসীর ভুল সিদ্ধান্তটার নামই বলে দেন: এগুলো তোমাদের প্রতি আমার ভালোবাসার প্রমাণ নয়, তোমাদের প্রতি আমার যত্নেরও নয়। তাবারীর বর্ণনায় কাতাদা কাজের নিয়মটা দেন: সম্পদ আর সন্তানের আধিক্য দিয়ে মানুষকে মাপা যায় না। কাফিরকেও সম্পদ দেওয়া হয়, আর মুমিনের কাছ থেকে কখনো তা আটকে রাখা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Nearness of Standing",
+          "bn": "মর্যাদার নৈকট্য"
+        },
+        "p": [
+          {
+            "en": "Zulfa is the noun of nearness. Mujahid, reported by at-Tabari and al-Qurtubi, glosses it in one word, qurba, nearness, and al-Qurtubi adds that zulfa means qurba. Al-Akhfash, cited by both al-Qurtubi and al-Baghawi, treats it as a noun standing in for the verbal noun, as if the verse said: that bring you near to Us a bringing-near. Al-Muyassar spells out what that nearness is: they do not bring you near to Us, nor raise your ranks. The nearness in question is one of standing with Allah.",
+            "bn": "যুলফা মানে নৈকট্য। তাবারী ও কুরতুবী মুজাহিদের যে ব্যাখ্যা আনেন, তা এক শব্দের: কুরবা, অর্থাৎ নিকটে আসা। কুরতুবী যোগ করেন, যুলফা আর কুরবা একই অর্থ। কুরতুবী ও বাগাভী দুজনেই আখফাশের মত উদ্ধৃত করেন: শব্দটি ক্রিয়াবাচক বিশেষ্যের জায়গায় বসেছে, যেন বলা হয়েছে: যা তোমাদের আমার নিকটে আনে, এক নিকটে আনা। মুয়াসসার নৈকট্যটা কী, তা খুলে বলে: এগুলো তোমাদের আমার নিকটে আনে না, তোমাদের মর্যাদাও বাড়ায় না। তাই এখানে কথা হচ্ছে আল্লাহর কাছে মানুষের মর্যাদা নিয়ে।"
+          },
+          {
+            "en": "A small point of grammar carries the meaning. The verse names two things, wealth and children, then uses a singular relative, allati, not a dual. At-Tabari explains that each word is a plural, and a plural of either kind can take allati; he adds that if someone said only one of the two was meant, the view would not be far-fetched, and cites a line of Qays ibn al-Khatim in which one predicate serves two subjects. Al-Qurtubi reports al-Farra' taking allati for both together, and az-Zajjaj reading an ellipsis: your wealth does not bring you near, nor do your children.",
+            "bn": "ব্যাকরণের ছোট একটা বিষয়ও অর্থ বহন করে। আয়াতে দুটি জিনিসের নাম আছে, সম্পদ আর সন্তান। অথচ পরে এসেছে একবচনের সম্বন্ধবাচক শব্দ আল্লাতী, দ্বিবচন নয়। তাবারীর ব্যাখ্যা, দুটি শব্দই বহুবচন, আর যে কোনো বহুবচনের সঙ্গে আল্লাতী বসতে পারে। তিনি আরও বলেন, কেউ যদি বলে দুটির একটিই উদ্দেশ্য, সে মতও অসম্ভব নয়। প্রমাণ হিসেবে তিনি কায়স ইবনুল খাতীমের একটি পঙক্তি আনেন, যেখানে এক বিধেয় দুই কর্তার কাজ করে। কুরতুবী জানান, ফাররা আল্লাতীকে দুটির জন্যই ধরেছেন। আর যাজ্জাজ এখানে একটি উহ্য অংশ পড়েছেন: তোমাদের সম্পদ তোমাদের কাছে আনে না, তোমাদের সন্তানও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Allah Looks",
+          "bn": "আল্লাহ যেখানে তাকান"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches a hadith to this verse. He gives it first from Imam Ahmad, through Abu Hurayrah (RA), and notes that Muslim and Ibn Majah recorded it from Kathir ibn Hisham, from Ja'far ibn Burqan. The narration in Sahih Muslim with that chain, numbered 2564c, reads: Abu Huraira reported Allah's Messenger ﷺ as saying: Verily Allah does not look to your faces and your wealth but He looks to your heart and to your deeds. Muslim placed it in his Sahih, the collection of reports he judged sound.",
+            "bn": "ইবন কাসীর এ আয়াতের সঙ্গে একটি হাদীস যুক্ত করেছেন। প্রথমে তিনি আনেন ইমাম আহমাদের সূত্রে, আবু হুরায়রা (রাঃ) থেকে। তারপর জানান, মুসলিম ও ইবন মাজাহ হাদীসটি কাসীর ইবন হিশাম থেকে, জা'ফর ইবন বুরকানের সূত্রে বর্ণনা করেছেন। সহীহ মুসলিমে এই সূত্রের বর্ণনাটি ২৫৬৪ নম্বর হাদীসের তৃতীয় পাঠ। আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: নিশ্চয়ই আল্লাহ তোমাদের চেহারা ও তোমাদের সম্পদের দিকে তাকান না, বরং তিনি তাকান তোমাদের অন্তর ও তোমাদের আমলের দিকে। মুসলিম এটি তাঁর সহীহ গ্রন্থে রেখেছেন, যেখানে তিনি কেবল বিশুদ্ধ বলে বিবেচিত বর্ণনা এনেছেন।"
+          },
+          {
+            "en": "Set beside the verse, the narration sorts two lists. Faces and wealth belong with what the deniers counted, along with the sons who stood behind them; hearts and deeds belong with what the verse's exception names, faith and righteous work. Ibn Kathir draws the link himself. For this reason, he says, the verse continues: except whoever believes and does righteousness, meaning that only faith and righteous action bring you near to Us. What the gaze rests on is what a person can actually choose and shape.",
+            "bn": "আয়াতের পাশে রাখলে হাদীসটি দুটি তালিকা আলাদা করে দেয়। চেহারা আর সম্পদ পড়ে সেই তালিকায়, যা অস্বীকারকারীরা গুনত, সঙ্গে ছিল পেছনে দাঁড়ানো ছেলেরা। অন্তর আর আমল পড়ে সেই তালিকায়, যার নাম আয়াতের ব্যতিক্রম অংশে এসেছে: ঈমান আর নেক আমল। যোগসূত্রটা ইবন কাসীর নিজেই দেখান। তিনি বলেন, এ কারণেই আয়াত এগিয়ে বলেছে: তবে যে ঈমান আনে ও নেক আমল করে। অর্থাৎ ঈমান আর নেক আমলই তোমাদের আমার নিকটে আনে। আল্লাহর দৃষ্টি যেখানে, মানুষ ঠিক সেটাই বেছে নিতে আর গড়ে তুলতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Ways to Read the Exception",
+          "bn": "ব্যতিক্রমের দুই পাঠ"
+        },
+        "p": [
+          {
+            "en": "Illa man amana wa 'amila salihan: except whoever believes and does righteousness. At-Tabari says the people of interpretation differed over its sense. On one reading the exception is joined to what precedes it: wealth and children bring no one near, except the believer who acts righteously, whose wealth and children do bring him near when he obeys Allah in them and pays Allah's due in them. At-Tabari gives this from Ibn Zayd, who said their wealth and children did not harm the believers in this world. Al-Qurtubi relays a similar line from Sa'id ibn Jubayr.",
+            "bn": "ইল্লা মান আমানা ওয়া আমিলা সালিহান: তবে যে ঈমান আনে ও নেক আমল করে। তাবারী বলেন, এর অর্থ নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। এক পাঠে ব্যতিক্রমটি আগের কথার সঙ্গে যুক্ত। অর্থাৎ সম্পদ আর সন্তান কাউকে নিকটে আনে না, কেবল সেই মুমিন ছাড়া যে নেক আমল করে। তার সম্পদ আর সন্তান তাকে নিকটে আনে, যখন সে এগুলোর ব্যাপারে আল্লাহর আনুগত্য করে আর এগুলোতে আল্লাহর হক আদায় করে। তাবারী এ মত আনেন ইবন যায়দ থেকে, যিনি বলেছেন, দুনিয়াতে মুমিনদের সম্পদ আর সন্তান তাদের ক্ষতি করেনি। কুরতুবী একই ধরনের কথা আনেন সাঈদ ইবন জুবাইর থেকে।"
+          },
+          {
+            "en": "The second reading cuts the exception off: it is not wealth that brings near, but whoever believes and does righteousness, his faith and his deeds bring him near. Al-Baghawi glosses illa as lakin, but rather, and relates from Ibn 'Abbas (RA): he means that his faith and his deed bring him near to Me. Al-Qurtubi takes the same line, calling it a disconnected exception, and records an-Nahhas rejecting az-Zajjaj's view that man replaces the you in tuqarribukum, since that you is the one addressed. At-Tabari also allows man to begin a clause of its own: it is none but whoever believes.",
+            "bn": "দ্বিতীয় পাঠে ব্যতিক্রমটি আলাদা। অর্থাৎ সম্পদ কাউকে নিকটে আনে না, বরং যে ঈমান আনে আর নেক আমল করে, তার ঈমান আর আমলই তাকে নিকটে আনে। বাগাভী ইল্লার অর্থ করেন লাকিন, মানে বরং। তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: উদ্দেশ্য হলো, তার ঈমান আর তার আমল তাকে আমার নিকটে আনে। কুরতুবীও এ পথেই যান এবং একে বিচ্ছিন্ন ব্যতিক্রম বলেন। যাজ্জাজের মত ছিল, মান শব্দটি তুকাররিবুকুম-এর তোমাদের-এর বদলি। কুরতুবী জানান, নাহহাস এ মত ভুল বলেছেন, কারণ তোমাদের তো সম্বোধিত ব্যক্তি। তাবারী আরও একটি সম্ভাবনা রাখেন: মান থেকে নতুন বাক্য শুরু, অর্থাৎ সে তো কেবল সেই, যে ঈমান এনেছে।"
+          },
+          {
+            "en": "The difference is real, and the commentators leave it standing. On the first reading the believer's wealth is itself drawn into the nearness by how it is used; on the second it stays outside the account, and only faith and deeds are counted. Ibn Kathir's gloss sits with the second: only faith and righteous action bring near. As-Sa'di, without arguing the grammar, defines the two terms: faith in what the messengers brought, and righteous action, which he calls a necessary consequence of faith.",
+            "bn": "মতভেদটা আসল, আর তাফসীরকারেরা একে মতভেদ হিসেবেই রেখে দেন। প্রথম পাঠে মুমিনের সম্পদ তার ব্যবহারের গুণে নিজেই নৈকট্যের অংশ হয়ে যায়। দ্বিতীয় পাঠে সম্পদ হিসাবের বাইরে থাকে, গোনা হয় শুধু ঈমান আর আমল। ইবন কাসীরের ব্যাখ্যা দ্বিতীয়টির কাছাকাছি: কেবল ঈমান আর নেক আমলই নিকটে আনে। সা'দী ব্যাকরণের তর্কে না গিয়ে দুটি শব্দের সংজ্ঞা দেন। ঈমান মানে রাসূলগণ যা নিয়ে এসেছেন তার প্রতি বিশ্বাস। আর নেক আমল, তাঁর ভাষায়, ঈমানের অবিচ্ছেদ্য ফল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tawus Asks to Be Spared",
+          "bn": "তাউসের দোয়া ও তার জবাব"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records, through Layth, that Tawus used to pray: O Allah, grant me faith and deeds, and keep wealth and children away from me, for I heard among what You revealed: it is not your wealth or your children that bring you near to Us, except whoever believes and does righteousness. Al-Qurtubi answers at once: the saying of Tawus is open to question. The meaning, and Allah knows best, is: keep from me the wealth and children that lead into transgression, or that have no good in them. As for righteous wealth and a righteous child for a righteous man, how excellent that is.",
+            "bn": "কুরতুবী লাইসের সূত্রে বর্ণনা করেন, তাউস দোয়া করতেন: হে আল্লাহ, আমাকে ঈমান আর আমল দাও, আর সম্পদ ও সন্তান থেকে আমাকে দূরে রাখো। কারণ তোমার নাযিল করা বাণীতে আমি শুনেছি: তোমাদের সম্পদ আর সন্তান এমন কিছু নয়, যা তোমাদের আমার নিকটে আনে, তবে যে ঈমান আনে ও নেক আমল করে। কুরতুবী সঙ্গে সঙ্গে জবাব দেন: তাউসের এ কথা প্রশ্নসাপেক্ষ। আল্লাহই ভালো জানেন, অর্থ হবে এমন সম্পদ আর সন্তান থেকে দূরে রাখো, যা সীমালঙ্ঘনে ঠেলে দেয় কিংবা যাতে কোনো কল্যাণ নেই। আর নেককার মানুষের হাতে নেক সম্পদ, নেক সন্তান, সে তো কত উত্তম!"
+          },
+          {
+            "en": "Al-Qurtubi then notes that this very verse has been used as evidence by those who rank wealth above poverty, and relays Muhammad ibn Ka'b: when the believer is rich and God-fearing, Allah gives him his reward twice, by this verse. He reports the view without weighing it further at this point. So within one commentary the verse is cited by a man who asked to be spared wealth and by a man who read in it the rich believer's double reward, and al-Qurtubi gives both a hearing.",
+            "bn": "এরপর কুরতুবী জানান, যারা দারিদ্র্যের চেয়ে সচ্ছলতাকে শ্রেষ্ঠ বলেন, তারা এই আয়াতকেই দলিল হিসেবে এনেছেন। তিনি মুহাম্মাদ ইবন কা'বের কথা উদ্ধৃত করেন: মুমিন যখন ধনী ও তাকওয়াবান হয়, আল্লাহ এ আয়াত অনুযায়ী তাকে দ্বিগুণ প্রতিদান দেন। এখানে তিনি মতটি আর যাচাই করেন না, শুধু উল্লেখ করেন। ফলে একই তাফসীরে আয়াতটি দুজনের মুখে আসে। একজন দোয়া করেছেন সম্পদ থেকে দূরে থাকার, আরেকজন এতে দেখেছেন ধনী মুমিনের দ্বিগুণ প্রতিদান। কুরতুবী দুজনের কথাই শোনান।"
+          },
+          {
+            "en": "That range is the guard against misreading. The verse describes a particular argument made by particular people, who held up their wealth and children against the warners sent to them. It licenses nothing against any living person or community, and it condemns no one for being rich. Wealth here is neither the proof of favour the deniers took it for nor a stain on whoever holds it. What the verse refuses is the inference from having to standing.",
+            "bn": "ভুল পাঠ থেকে বাঁচার রক্ষাকবচ এই বৈচিত্র্য। আয়াতটি নির্দিষ্ট কিছু মানুষের নির্দিষ্ট একটি যুক্তির কথা বলে, যারা সতর্ককারীদের সামনে নিজেদের সম্পদ আর সন্তানকে ঢাল বানিয়েছিল। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু বলার অনুমতি এ আয়াত দেয় না। ধনী হওয়ার কারণে কাউকে দোষীও সাব্যস্ত করে না। সম্পদ এখানে অস্বীকারকারীদের ধারণামতো আল্লাহর অনুগ্রহের প্রমাণ নয়, আবার যার হাতে আছে তার গায়ে দাগও নয়। আয়াত যা নাকচ করে, তা হলো এই সিদ্ধান্ত: যার বেশি আছে, আল্লাহর কাছে তার মর্যাদাও বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten, Seven Hundred, and More",
+          "bn": "দশ, সাতশো, তারও বেশি"
+        },
+        "p": [
+          {
+            "en": "Fa-ula'ika lahum jaza'u-d-di'fi bima 'amilu: for them is the reward of the di'f for what they did. The translation says double, but the commentators read di'f as multiplying, not a simple twofold. At-Tabari: theirs from Allah for their righteous deeds is the multiple of reward, ten for one. Ibn Zayd, in at-Tabari: by their deeds one becomes ten, and in the path of Allah one becomes 700. Ibn Kathir and al-Baghawi give the same range: the good deed is multiplied by ten, up to 700.",
+            "bn": "ফাউলাইকা লাহুম জাযাউদ দি'ফি বিমা আমিলূ: তাদের জন্য আছে দি'ফের প্রতিদান, তাদের কাজের বিনিময়ে। অনুবাদে কখনো দ্বিগুণ লেখা হয়, কিন্তু তাফসীরকারেরা দি'ফকে পড়েন বহুগুণ বৃদ্ধি হিসেবে, শুধু দুই গুণ নয়। তাবারী বলেন, নেক আমলের বদলে আল্লাহর কাছে তাদের জন্য আছে বহুগুণ সওয়াব, একটির বদলে ১০টি। তাবারীর বর্ণনায় ইবন যায়দ বলেন, আমলের বিনিময়ে একটি হয় ১০টি, আর আল্লাহর পথে একটি হয় ৭০০টি। ইবন কাসীর ও বাগাভীও একই সীমা দেন: একটি নেকি ১০ গুণ থেকে ৭০০ গুণ পর্যন্ত বাড়ানো হয়।"
+          },
+          {
+            "en": "Others leave the upper end open. As-Sa'di: ten like it, up to 700, up to many multiples that none knows but Allah. Al-Muyassar: ten like it, up to whatever increase Allah wills. Al-Qurtubi ties the phrase to 6:160, whoever brings a good deed has ten like it, and explains the construction two ways: the reward of the multiplying, a verbal noun joined to its object, or di'f in a plural sense, the reward of the multiples, as one says haqq al-yaqin. Either way, he says, one becomes ten, up to what Allah wills of increase.",
+            "bn": "কেউ কেউ ঊর্ধ্বসীমা খোলা রাখেন। সা'দী বলেন, ১০ গুণ, সেখান থেকে ৭০০ গুণ, তারপর আরও অনেক গুণ, যার হিসাব আল্লাহ ছাড়া কেউ জানে না। মুয়াসসার বলে, ১০ গুণ, তারপর আল্লাহ যতটা চান ততটা বৃদ্ধি। কুরতুবী বাক্যাংশটিকে জুড়ে দেন ৬:১৬০ আয়াতের সঙ্গে: যে একটি নেকি নিয়ে আসবে, তার জন্য আছে তার ১০ গুণ। গঠনটি তিনি দুভাবে ব্যাখ্যা করেন। এক, বৃদ্ধি করার প্রতিদান, যেখানে ক্রিয়াবাচক বিশেষ্য তার কর্মের সঙ্গে যুক্ত। দুই, দি'ফ এখানে বহুবচনের অর্থে, অর্থাৎ বহু গুণের প্রতিদান, যেমন বলা হয় হাক্কুল ইয়াকীন। দুই ব্যাখ্যাতেই একটি হয় ১০টি, তারপর আল্লাহ যতটা চান।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an takes di'f as the likes of a thing and reads it against the context: as the wealthy keep amassing in this world, Allah increases the return of His accepted servants in the Hereafter many times over, ten for one, then up to 700, and not bounded even there. Al-Qurtubi and al-Baghawi also record that Ya'qub read jaza'an with tanwin and ad-di'fu in the nominative, giving the sense: theirs is the multiple, as a reward.",
+            "bn": "মাআরিফুল কুরআন দি'ফের অর্থ করে কোনো কিছুর সমান আরও কিছু, আর প্রসঙ্গের আলোয় পড়ে। দুনিয়াতে ধনীরা যেমন সম্পদ জমাতেই থাকে, আল্লাহ তেমনি আখিরাতে তাঁর কবুল করা বান্দাদের প্রতিদান বহুগুণ বাড়িয়ে দেবেন। একটির বদলে ১০টি, তারপর ৭০০ পর্যন্ত, আর সেখানেও সীমা টানা নেই। কুরতুবী ও বাগাভী আরও জানান, ইয়াকুব পড়েছেন জাযাআন, তানউইনসহ, আর আদ-দি'ফু, পেশযুক্ত। তখন অর্থ দাঁড়ায়: প্রতিদান হিসেবে তাদের জন্য আছে বহুগুণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Chambers Raised Above",
+          "bn": "উঁচু কক্ষের নিবাস"
+        },
+        "p": [
+          {
+            "en": "Wa hum fi-l-ghurufati aminun: and they are in the upper chambers, secure. Ma'arif al-Qur'an explains a ghurfa as a part of a building set apart and raised above the rest. Ibn Kathir: in the high dwellings of Paradise. As-Sa'di heightens it: dwellings lofty and raised very high, where they live settled and at ease. Al-Qurtubi reports from Ibn 'Abbas (RA) that they are rooms of ruby, chrysolite and pearl. Against the boast of 34:35, the verse sets a dwelling that no one comes to by owning.",
+            "bn": "ওয়া হুম ফিল গুরুফাতি আমিনূন: আর তারা থাকবে উঁচু কক্ষগুলোতে, নিরাপদে। মাআরিফুল কুরআন গুরফার ব্যাখ্যা দেয়: ভবনের এমন অংশ, যা বাকি অংশ থেকে আলাদা আর উঁচুতে। ইবন কাসীর বলেন, জান্নাতের উঁচু মনযিলগুলোতে। সা'দী আরও উঁচুতে তোলেন: অনেক উঁচু, সুউচ্চ নিবাস, যেখানে তারা স্থির হয়ে প্রশান্তিতে বাস করবে। কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এগুলো ইয়াকুত, যবরজদ আর মুক্তার কক্ষ। ৩৪:৩৫ আয়াতের বড়াইয়ের বিপরীতে আয়াতটি এমন এক নিবাসের কথা বলে, যা মালিকানার জোরে কেউ পায় না।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi record that Hamza read fi-l-ghurfa, in the singular, matching they will be rewarded with the ghurfa (25:75), while the rest read the plural, matching We will settle them in chambers of Paradise (29:58); al-Qurtubi adds that the singular can stand for the whole kind. Ibn Kathir also relays, from Ibn Abi Hatim, a narration from 'Ali (RA) about rooms in Paradise whose outsides are seen from within. At-Tirmidhi records it through the same narrator, 'Abd ar-Rahman ibn Ishaq, calls it gharib, and notes criticism of his memory, so nothing is built on it here.",
+            "bn": "বাগাভী ও কুরতুবী জানান, হামযা পড়েছেন ফিল গুরফা, একবচনে, যা মেলে ২৫:৭৫ আয়াতের সঙ্গে: তাদের প্রতিদান দেওয়া হবে গুরফা দিয়ে। বাকিরা পড়েছেন বহুবচনে, যা মেলে ২৯:৫৮ আয়াতের সঙ্গে: আমি তাদের জান্নাতের উঁচু কক্ষগুলোতে স্থান দেব। কুরতুবী যোগ করেন, একবচন গোটা শ্রেণিকেও বোঝাতে পারে। ইবন কাসীর ইবন আবী হাতিম থেকে আলী (রাঃ)-এর একটি বর্ণনাও আনেন, জান্নাতের এমন কক্ষের কথা, যার বাইরেটা ভেতর থেকে দেখা যায়। তিরমিযী একই বর্ণনাকারী আবদুর রহমান ইবন ইসহাকের সূত্রে এটি এনে একে গারীব বলেছেন, আর তাঁর স্মৃতিশক্তি নিয়ে সমালোচনার কথা জানিয়েছেন। তাই এখানে এর উপর কিছু দাঁড় করানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Safety They Only Claimed",
+          "bn": "যে নিরাপত্তা তারা দাবি করেছিল"
+        },
+        "p": [
+          {
+            "en": "The verse ends on aminun, secure, and the word answers the deniers exactly. They had said, we are not to be punished (34:35), a safety claimed on the strength of what they held. Here safety is given, and the commentators fill in its reach. At-Tabari: secure from the punishment of Allah. Ibn Kathir: secure from every hardship, fear and harm, and from every evil a person might guard against. Al-Qurtubi and al-Muyassar name the punishment, death and sorrows, al-Qurtubi adding sickness. As-Sa'di adds that they are secure from whatever would cloud their delight, from ever being made to leave, and from grief within.",
+            "bn": "আয়াত শেষ হয় আমিনূন শব্দে, নিরাপদ। শব্দটি অস্বীকারকারীদের কথার ঠিক জবাব। তারা বলেছিল, আমাদের শাস্তি হবে না (৩৪:৩৫)। হাতে যা ছিল তার জোরে তারা নিরাপত্তা দাবি করেছিল। এখানে নিরাপত্তা দেওয়া হচ্ছে, আর তাফসীরকারেরা তার পরিধি দেখান। তাবারী: আল্লাহর আযাব থেকে নিরাপদ। ইবন কাসীর: সব কষ্ট, ভয় আর যন্ত্রণা থেকে, এমন সব অনিষ্ট থেকে যার আশঙ্কা মানুষ করে। কুরতুবী ও মুয়াসসার উল্লেখ করেন আযাব, মৃত্যু আর দুঃখের কথা, কুরতুবী রোগও যোগ করেন। সা'দী বলেন, তাদের আনন্দ ম্লান করার মতো সবকিছু থেকে তারা নিরাপদ, সেখান থেকে বের হওয়া থেকেও, আর ভেতরের দুঃখ থেকেও।"
+          },
+          {
+            "en": "Read as a whole, the verse moves the question of nearness from what a person holds to what a person believes and does. Nothing in it tells the reader to despise what Allah has given, or to look down on those who have more. It asks where a person's confidence rests. The deniers rested theirs on property and sons and called it safety. The verse names faith and righteous work instead, a reward multiplied past counting, and a room raised high where no fear follows.",
+            "bn": "পুরো আয়াত একসঙ্গে পড়লে দেখা যায়, নৈকট্যের প্রশ্নটা সরে যায় মানুষের হাতে কী আছে সেখান থেকে, মানুষ কী বিশ্বাস করে আর কী করে সেখানে। আল্লাহর দেওয়া জিনিসকে তুচ্ছ ভাবতে, কিংবা যাদের বেশি আছে তাদের ছোট চোখে দেখতে আয়াতটি বলে না। শুধু জিজ্ঞেস করে, আপনার ভরসা কোথায় দাঁড়িয়ে আছে। অস্বীকারকারীরা ভরসা রেখেছিল সম্পত্তি আর ছেলেদের উপর, আর তাকেই নিরাপত্তা ভেবেছিল। আয়াত তার বদলে দেখায় ঈমান আর নেক আমল, গুনে শেষ করা যায় না এমন বহুগুণ প্রতিদান, আর এমন উঁচু কক্ষ যেখানে কোনো ভয় পিছু নেয় না।"
+          }
+        ]
+      }
+    ]
+  },
   "34:39": {
     "sections": [
       {
