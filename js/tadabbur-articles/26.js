@@ -6699,6 +6699,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:188": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Dare Answered in Four Words",
+          "bn": "চার শব্দে চ্যালেঞ্জের জবাব"
+        },
+        "p": [
+          {
+            "en": "By this point the people of al-Aykah had stopped arguing and started daring. Their last words to Shuʿayb (AS) were a challenge: 'So cause to fall upon us fragments of the sky, if you should be of the truthful' (26:187). The sign they named was their own destruction, and they named it in defiance, as people who never thought it would come. A messenger facing that sort of mockery has a few easy answers ready to hand, and every one of them is a threat.",
+            "bn": "এ পর্যায়ে এসে আইকাবাসী আর যুক্তি দিচ্ছিল না, চ্যালেঞ্জ ছুড়ছিল। শুআয়ব (আঃ)-কে তাদের শেষ কথা ছিল এক দম্ভভরা দাবি: 'তুমি সত্যবাদী হলে আকাশের এক টুকরো আমাদের উপর ফেলে দাও' (২৬:১৮৭)। নিদর্শন হিসেবে তারা যা চাইল, তা নিজেদেরই ধ্বংস। চাইল জেদের বশে, যেন এমন কিছু কখনো ঘটতেই পারে না। এমন বিদ্রূপের সামনে একজন রাসূলের মুখে সহজেই কয়েকটা জবাব চলে আসতে পারে। আর সেগুলোর প্রতিটিই এক একটা হুমকি।"
+          },
+          {
+            "en": "His actual answer is this verse: qala rabbi a'lamu bima ta'malun, 'He said, My Lord is most knowing of what you do.' The verse is five words, and the reply itself only four. Three things in it reward a slow reading. He says rabbi, 'my Lord', the Lord who sent him, not a name held at a distance. A'lamu is the comparative form: not merely 'knows' but 'knows best', better than they know themselves or than he knows them. And what is known is ta'malun, what they do: their deeds, not only their words to him.",
+            "bn": "তাঁর আসল জবাব এই আয়াত: কালা রাব্বী আ'লামু বিমা তা'মালূন, 'সে বলল, তোমরা যা করো, আমার রব তা সবচেয়ে ভালো জানেন।' আয়াতে পাঁচটি শব্দ, আর তাঁর নিজের জবাবে মাত্র চারটি। ধীরে পড়লে তিনটি জিনিস চোখে পড়ে। প্রথমত তিনি বলেন রাব্বী, 'আমার রব'। যে রব তাঁকে পাঠিয়েছেন, দূরের কোনো নাম নয়। দ্বিতীয়ত আ'লামু শব্দটি তুলনাবাচক রূপ। শুধু 'জানেন' নয়, 'সবচেয়ে ভালো জানেন', তারা নিজেদের যতটা জানে বা তিনি তাদের যতটা জানেন, তার চেয়েও বেশি। তৃতীয়ত যা জানা, তা হলো তা'মালূন, তারা যা করে। শুধু তাঁকে বলা তাদের কথা নয়, তাদের আমল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing of It Hidden",
+          "bn": "তার কিছুই আড়ালে নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the reply in a single sentence. Shuʿayb told his people that their Lord encompasses their deeds; nothing of them is hidden from Him, and He will repay them their recompense for them. Two ideas sit inside that sentence. The first is knowledge with no gap in it: muhit, encompassing, surrounding a thing on every side. The second is that this knowledge is not idle. The One who knows is the One who requites, mujazikum. To be known that completely is a comfort or a warning, depending on what is being known.",
+            "bn": "তাবারী জবাবটির ব্যাখ্যা দেন এক বাক্যে। শুআয়ব (আঃ) তাঁর কওমকে বললেন, তাদের সব আমল তাদের রব ঘিরে রেখেছেন। তার কিছুই তাঁর কাছে গোপন নেই, আর তিনিই সেই আমলের প্রতিদান দেবেন। এই এক বাক্যে দুটি কথা আছে। প্রথম কথা, এমন জ্ঞান যাতে কোনো ফাঁক নেই। মুহীত মানে যা কোনো কিছুকে চারদিক থেকে ঘিরে রাখে। দ্বিতীয় কথা, এই জ্ঞান অলস পড়ে থাকে না। যিনি জানেন, প্রতিদানও দেন সেই একই সত্তা, মুজাযীকুম। এভাবে পুরোপুরি জানা হয়ে যাওয়া কারও জন্য সান্ত্বনা, কারও জন্য সতর্কবার্তা। কোনটা, তা নির্ভর করে কী জানা হচ্ছে তার উপর।"
+          },
+          {
+            "en": "The two shorter commentaries name what 'what you do' covered. Al-Muyassar: my Lord knows best what you do of shirk and sins, and what punishment you have made yourselves liable to. Al-Baghawi ties it to the trade the passage has already condemned: what you do of short measure and short weight. Neither gloss reopens the earlier commands; each simply reminds the listener that the deeds in view were specific and known. The verse does not say 'my Lord knows what you believe'. It points to what they did, and their scales were part of it.",
+            "bn": "ছোট দুটি তাফসীর বলে দেয়, 'তোমরা যা করো' কথাটার ভেতরে কী ছিল। মুয়াসসারের ভাষায়: তোমরা যে শিরক আর গুনাহ করছ, আর তার বদলে যে শাস্তির উপযুক্ত হচ্ছ, আমার রব তা সবচেয়ে ভালো জানেন। বাগাভী কথাটা জুড়ে দেন সেই লেনদেনের সঙ্গে, যার নিন্দা আগের আয়াতগুলোতেই এসে গেছে: মাপে কম দেওয়া আর ওজনে কম দেওয়া। আগের নির্দেশগুলো কেউই আবার খুলে বসেন না। দুজনেই শুধু মনে করিয়ে দেন, যে আমলের কথা হচ্ছে, তা নির্দিষ্ট আর জানা। আয়াত বলছে না 'তোমরা কী বিশ্বাস করো, আমার রব তা জানেন'। আয়াতের ইশারা তাদের কাজের দিকে, আর তাদের দাঁড়িপাল্লাও সেই কাজের অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning, or a Withdrawal?",
+          "bn": "সতর্কবাণী, নাকি সরে দাঁড়ানো?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens his comment with one word: tahdid, a threat. Then he explains it: my task is only the conveying, al-tabligh, and the punishment you asked for is not mine; He will repay you. On his reading the sentence does carry menace, but the menace is not Shuʿayb's own. He hands the punishment back to the only One who owns it, and that handing-back is what turns it into a warning. They had asked a man for what only Allah can do, and the One who can do it knows what they have done.",
+            "bn": "কুরতুবী তাঁর ব্যাখ্যা শুরু করেন একটি শব্দ দিয়ে: তাহদীদ, অর্থাৎ হুমকি। তারপর খুলে বলেন: আমার দায়িত্ব শুধু পৌঁছে দেওয়া, তাবলীগ। তোমরা যে শাস্তি চেয়েছ, তা আমার হাতে নয়। প্রতিদান তিনিই দেবেন। কুরতুবীর পাঠে বাক্যটিতে সত্যিই ভয়ের সুর আছে, কিন্তু সে ভয় শুআয়ব (আঃ)-এর নিজের দেখানো নয়। শাস্তির প্রশ্নটা তিনি ফিরিয়ে দেন তাঁরই কাছে, যিনি শাস্তির মালিক। আর এই ফিরিয়ে দেওয়াটাই কথাটাকে সতর্কবাণী বানিয়ে তোলে। যা কেবল আল্লাহ পারেন, তারা তা চেয়েছিল একজন মানুষের কাছে। আর যিনি তা পারেন, তারা কী করেছে তা তিনি জানেন।"
+          },
+          {
+            "en": "As-Sa'di approaches the same reply from the other side. The descent of punishment, he writes, and the arrival of the signs you demand, ayat al-iqtirah, are not things I bring or send down upon you. I have no duty but to convey to you and to advise you, and that I have done. The one who brings them is my Lord, who knows your deeds and your states, who will repay you and call you to account. Here the stress falls on the disclaimer: the prophet steps back from a role they tried to force on him.",
+            "bn": "সা'দী একই জবাবে ঢোকেন উল্টো দিক থেকে। তিনি লেখেন, শাস্তি নামানো আর তোমাদের ফরমায়েশি নিদর্শন, আয়াতুল ইকতিরাহ, এনে হাজির করা আমার কাজ নয়। আমি এগুলো এনে তোমাদের উপর নামাই না। তোমাদের কাছে বার্তা পৌঁছানো আর তোমাদের নসিহত করা ছাড়া আমার আর কোনো দায় নেই, আর তা আমি করেছি। এগুলো আনেন আমার রব, যিনি তোমাদের আমল আর অবস্থা জানেন, তোমাদের প্রতিদান দেবেন আর হিসাব নেবেন। এখানে জোরটা পড়ে দায় অস্বীকারের উপর। যে ভূমিকা তারা নবীর ঘাড়ে চাপাতে চেয়েছিল, তিনি তা থেকে সরে দাঁড়ান।"
+          },
+          {
+            "en": "Al-Baghawi joins them in his closing clause: the punishment is not in my hands, and my duty is only the call. So the commentators agree on the substance and differ in what they put first. Al-Qurtubi names the sentence a threat; as-Sa'di and al-Baghawi dwell on what Shuʿayb refuses to claim for himself. Read with al-Qurtubi, the reply warns; read with as-Sa'di, it holds back. The two readings do not cancel each other. A man can warn most soberly by declining to threaten in his own name.",
+            "bn": "বাগাভীও তাঁর শেষ বাক্যে একই কথায় আসেন: শাস্তি আমার এখতিয়ারে নয়, আমার দায় কেবল দাওয়াত। মূল কথায় তাফসীরকারেরা তাই একমত। পার্থক্য শুধু কে কোন দিকটা আগে রাখেন। কুরতুবী বাক্যটিকে সরাসরি হুমকি বলেন। সা'দী আর বাগাভী থামেন সেই জায়গায়, যা শুআয়ব (আঃ) নিজের বলে দাবি করতে রাজি নন। কুরতুবীর চোখে পড়লে জবাবটা সতর্ক করে, সা'দীর চোখে পড়লে সংযম দেখায়। দুটি পাঠ একে অপরকে বাতিল করে না। নিজের নামে হুমকি না দিয়েও মানুষ সবচেয়ে গম্ভীরভাবে সতর্ক করতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If You Have Earned It",
+          "bn": "যদি তোমরা তার যোগ্য হও"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads a condition into the reply. Allah knows you best, he paraphrases, and if you deserve that, He will requite you with it, and He is not unjust to you. On this reading Shuʿayb (AS) pronounces no sentence. He does not say 'it will fall', and he does not say 'it will not'. He leaves even the question of what they deserve with Allah, and Ibn Kathir's paraphrase adds a guarantee that whatever comes will be just. A messenger who adds nothing to his message does not add a verdict either.",
+            "bn": "ইবন কাসীর জবাবটির ভেতরে একটা শর্ত দেখেন। তাঁর ভাষ্যে কথাটা দাঁড়ায় এমন: আল্লাহ তোমাদের সবচেয়ে ভালো জানেন। তোমরা যদি তার যোগ্য হও, তিনি তা দিয়েই তোমাদের প্রতিফল দেবেন, আর তিনি তোমাদের প্রতি জুলুমকারী নন। এই পাঠে শুআয়ব (আঃ) কোনো রায় ঘোষণা করেন না। তিনি বলেন না 'আকাশ ভেঙে পড়বে', আবার বলেন না 'পড়বে না'। তারা কিসের যোগ্য, সে প্রশ্নও তিনি আল্লাহর হাতে ছেড়ে দেন। আর ইবন কাসীরের ভাষ্য তার সঙ্গে জুড়ে দেয় এক নিশ্চয়তা: যা-ই আসুক, তা হবে ন্যায়বিচার। যে রাসূল বার্তায় নিজের থেকে কিছু যোগ করেন না, তিনি রায়ও যোগ করেন না।"
+          },
+          {
+            "en": "Ibn Kathir then closes his gloss: and so it fell upon them as a recompense, as they had asked, jaza'an wifaqa, the words of 78:26, 'an appropriate recompense'. In the abridged English he adds, under the next verse, that this is what they had asked for when they asked for part of the sky to fall on them. Verse 26:189 tells what came, the punishment of the day of the shadow. Here it is enough to notice that Shuʿayb never named it. His reply left room, and they used that room to deny him again.",
+            "bn": "ইবন কাসীর ব্যাখ্যা শেষ করেন এভাবে: আর এভাবেই তাদের উপর প্রতিফল নেমে এল, যেমনটা তারা চেয়েছিল, জাযাআন ওয়িফাকা। শব্দ দুটি ৭৮:২৬ আয়াতের, যার অর্থ 'উপযুক্ত প্রতিফল'। সংক্ষিপ্ত ইংরেজি সংস্করণে তিনি পরের আয়াতের আলোচনায় আরও বলেন, আকাশের টুকরো ফেলতে বলার সময় তারা এটাই চেয়েছিল। কী এসেছিল, তা বলে ২৬:১৮৯: ছায়ার দিনের শাস্তি। এখানে শুধু এটুকু খেয়াল করাই যথেষ্ট যে শুআয়ব (আঃ) সে শাস্তির নাম মুখে আনেননি। তাঁর জবাব একটা সুযোগ খোলা রেখেছিল। আর তারা সেই সুযোগে তাঁকে আবারও মিথ্যাবাদী বলল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Dares, the Same Answer",
+          "bn": "ভিন্ন যুগের চ্যালেঞ্জ, একই জবাব"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's note on the dare itself, in the abridged English, gathers three early glosses on kisafan min al-sama'. Ad-Dahhak said: one side of the heavens. Qatada said: a piece of the heaven. As-Suddi said: a punishment from heaven. He then sets the dare beside the words of the Quraysh, who said they would not believe until the sky was made to fall on them in fragments (17:90 to 17:92), and beside the prayer of 8:32 that stones rain down if the message were true. The dare is old, and it keeps returning.",
+            "bn": "চ্যালেঞ্জটি নিয়ে ইবন কাসীরের আলোচনায়, সংক্ষিপ্ত ইংরেজি সংস্করণে, কিসাফান মিনাস সামা' কথাটির তিনটি পুরোনো ব্যাখ্যা একসঙ্গে পাওয়া যায়। দাহহাকের মতে, আকাশের একটা পাশ। কাতাদার মতে, আকাশের এক টুকরো। সুদ্দীর মতে, আকাশ থেকে আসা শাস্তি। এরপর তিনি চ্যালেঞ্জটিকে রাখেন কুরাইশের কথার পাশে। তারা বলেছিল, আকাশকে টুকরো টুকরো করে তাদের উপর না ফেলা পর্যন্ত তারা ঈমান আনবে না (১৭:৯০ থেকে ১৭:৯২)। পাশে রাখেন ৮:৩২ আয়াতের সেই দোয়াও, এ বার্তা সত্য হলে যেন আকাশ থেকে পাথর বর্ষিত হয়। চ্যালেঞ্জটা পুরোনো, আর তা বারবার ফিরে আসে।"
+          },
+          {
+            "en": "The Qur'an gives other messengers the same answer to the same kind of dare. The people of Nuh (AS) end their quarrel with words close to these: 'So bring us what you threaten us, if you should be of the truthful' (11:32). He replies: 'Allah will only bring it to you if He wills, and you will not cause [Him] failure' (11:33). The Prophet ﷺ is told to say: 'If I had that for which you are impatient, the matter would have been decided between me and you, but Allah is most knowing of the wrongdoers' (6:58).",
+            "bn": "একই ধরনের চ্যালেঞ্জের মুখে কুরআন অন্য রাসূলদের মুখেও একই জবাব রেখেছে। নূহ (আঃ)-এর কওম তাদের ঝগড়া শেষ করেছিল প্রায় এই কথাতেই: 'এখন যার ভয় আমাদেরকে দেখাচ্ছ তা আমাদের কাছে নিয়ে এসো, যদি তুমি সত্যবাদী হও' (১১:৩২)। তিনি জবাব দেন: 'আল্লাহই তা তোমাদের কাছে নিয়ে আসবেন যদি তিনি চান, তোমরা ব্যর্থ করতে পারবে না' (১১:৩৩)। আর নবী ﷺ-কে বলতে বলা হয়েছে: 'তোমরা যা তাড়াতাড়ি চাচ্ছ তা যদি আমার কাছে থাকত তাহলে আমার আর তোমাদের মধ্যে যে ব্যাপার তার ফায়সালা হয়ে যেত, অন্যায়কারীদের সম্পর্কে আল্লাহ খুবভাবেই অবহিত' (৬:৫৮)।"
+          },
+          {
+            "en": "The last words of 6:58 use the very form found here, a'lam, most knowing. Later in this surah the Prophet ﷺ is told, if they disobey him, to say: 'Indeed, I am disassociated from what you are doing' (26:216), and its closing word, ta'malun, is the same verb as here. Set side by side, these verses show a pattern rather than one man's temperament. Messengers carry the message and warn; the punishment is not handed to them to wield. No tafsir fetched for this verse attaches a sound hadith to it, so none is quoted here.",
+            "bn": "৬:৫৮ আয়াতের শেষ কথাগুলোতে আছে ঠিক এই আয়াতের রূপটিই, আ'লাম, সবচেয়ে ভালো জানেন। এই সূরারই শেষ দিকে নবী ﷺ-কে বলা হয়েছে, তারা অবাধ্য হলে বলে দিতে: 'তোমরা যা কর তার সঙ্গে আমি সম্পর্কহীন' (২৬:২১৬)। সেখানে শেষ শব্দ তা'মালূন, এখানকার ক্রিয়াটিই। আয়াতগুলো পাশাপাশি রাখলে বোঝা যায়, এটা কোনো একজন মানুষের মেজাজের ব্যাপার নয়, এ এক ধারা। রাসূলেরা বার্তা বয়ে আনেন আর সতর্ক করেন। শাস্তি চালানোর ভার তাঁদের হাতে তুলে দেওয়া হয় না। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Stood Before Him",
+          "bn": "তাঁর সামনে যারা দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "The surah calls this people ashab al-Aykah, the people of the thicket; al-Muyassar, on 26:176 to 26:180, describes it as land of tangled trees. Whether they were the same people as Madyan is a real question among the commentators. Ibn Kathir, on the same group of verses, reports that some took them for a separate nation and said Shuʿayb (AS) was sent to two nations, some even to three. Against that he cites Ishaq bin Bishr, and someone other than Juwaybir, for their being one people, calls that the correct view, and adds: and Allah knows best.",
+            "bn": "সূরাটি এই কওমকে বলে আসহাবুল আইকা, ঘন বনের অধিবাসী। মুয়াসসার ২৬:১৭৬ থেকে ২৬:১৮০ আয়াতের আলোচনায় একে বলেছে জট-পাকানো গাছে ঢাকা ভূমি। তারা আর মাদইয়ানবাসী একই জাতি কি না, তা নিয়ে তাফসীরকারদের মধ্যে সত্যিকারের মতভেদ আছে। ইবন কাসীর একই আয়াতগুচ্ছের আলোচনায় জানান, কেউ কেউ তাদের আলাদা জাতি মনে করেছেন। তাঁদের মতে শুআয়ব (আঃ) প্রেরিত হয়েছিলেন দুটি জাতির কাছে, কারও মতে তিনটি জাতির কাছে। এর বিপরীতে তিনি ইসহাক ইবন বিশর এবং জুওয়াইবির ছাড়া অন্য এক বর্ণনাকারীর উল্লেখ করেন, যাঁদের মতে তারা একই জাতি। এ মতকেই তিনি সঠিক বলেন, তারপর যোগ করেন: আর আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "That question is background, and this article takes no side in it. What matters here is plainer. The verse records words spoken to a particular people who mocked their messenger and dared their own ruin. It describes what the text describes and licenses nothing against any living person or community today: not against those who live where the thicket may once have stood, not against any trade or market, and not against anyone who mocks faith now. Shuʿayb's own reply is the best guard against misuse; he would not pronounce the sentence even on those who dared him.",
+            "bn": "এ প্রশ্ন পটভূমির, আর এ লেখা এতে কোনো পক্ষ নেয় না। এখানে আসল কথাটা আরও সোজা। আয়াতটি এক নির্দিষ্ট কওমকে বলা কথার বিবরণ, যারা নিজেদের রাসূলকে বিদ্রূপ করেছিল আর চ্যালেঞ্জ দিয়ে নিজেদের ধ্বংস ডেকে এনেছিল। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। সেই বন হয়তো যেখানে ছিল, সেখানকার বাসিন্দাদের বিরুদ্ধে নয়, কোনো পেশা বা বাজারের বিরুদ্ধে নয়, আজ যে ঈমান নিয়ে ঠাট্টা করে তার বিরুদ্ধেও নয়। অপব্যবহারের সবচেয়ে বড় পাহারা শুআয়ব (আঃ)-এর নিজের জবাবটিই। যারা মুখের উপর চ্যালেঞ্জ দিয়েছিল, তাদের উপরও তিনি রায় ঘোষণা করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Caller's Task Ends",
+          "bn": "দাওয়াতের দায় যেখানে শেষ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's small clause, wa-qad fa'altu, 'and that I have done', may be the most practical words in all the commentary on this verse. Whoever calls others to good has a task with edges. He conveys and he advises, tablighukum wa-nushukum, and when he has done both he has done his part. He is not asked to win every argument, to make the listener believe, or to produce on demand whatever proof a scoffer names. Much of the strain of speaking about faith comes from forgetting where those edges lie.",
+            "bn": "সা'দীর ছোট্ট একটি কথা, ওয়া কাদ ফা'আলতু, 'আর তা আমি করেছি', হয়তো এ আয়াতের সব ব্যাখ্যার মধ্যে সবচেয়ে কাজের কথা। যে মানুষকে ভালোর দিকে ডাকে, তার দায়িত্বের একটা সীমা আছে। সে পৌঁছে দেয়, নসিহত করে, তাবলীগুকুম ওয়া নুসহুকুম। এ দুটো করা হয়ে গেলে তার ভাগের কাজ শেষ। প্রতিটি তর্কে জেতা তার দায় নয়। শ্রোতাকে বিশ্বাস করিয়ে ছাড়াও নয়। বিদ্রূপকারী যে প্রমাণ চাইবে, ফরমায়েশ মতো তা হাজির করাও নয়। ঈমান নিয়ে কথা বলতে গিয়ে যে চাপ মানুষকে পিষে ফেলে, তার অনেকটাই আসে এই সীমা ভুলে যাওয়া থেকে।"
+          },
+          {
+            "en": "Keeping to those edges has a cost of its own. When the message has been delivered, the outcome is out of the speaker's hands, and he has to let it stay there. The pull, under mockery, is to raise the stakes: to promise the scoffer a bad end, to speak of Allah's punishment as though one held its keys. Shuʿayb's reply closes that door. 'My Lord knows best' takes the verdict out of the speaker's mouth and returns it to the only One who judges deeds without error and without wrong.",
+            "bn": "এই সীমা মেনে চলারও একটা দাম আছে। বার্তা পৌঁছে গেলে ফলাফল আর বক্তার হাতে থাকে না, আর তাকে সেটা মেনে নিতে হয়। বিদ্রূপের মুখে মন টানে বাজি চড়িয়ে দিতে। বিদ্রূপকারীকে খারাপ পরিণতির ভয় দেখাতে, আল্লাহর শাস্তির কথা এমনভাবে বলতে, যেন তার চাবি নিজের পকেটে। শুআয়ব (আঃ)-এর জবাব এ দরজা বন্ধ করে দেয়। 'আমার রব সবচেয়ে ভালো জানেন' কথাটি রায়কে বক্তার মুখ থেকে তুলে নিয়ে ফিরিয়ে দেয় একমাত্র তাঁর কাছে, যিনি আমলের বিচার করেন ভুল ছাড়া, জুলুম ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Words, Turned Inward",
+          "bn": "একই কথা, নিজের দিকে ফেরানো"
+        },
+        "p": [
+          {
+            "en": "The verse also reads the other way. 'My Lord is most knowing of what you do' was said to scoffers, but there is no one of whom it is untrue. At-Tabari's gloss, that nothing of their deeds is hidden from Him, holds for the one who quotes the verse as surely as for those who first heard it. Before turning it on someone else's wrongdoing, it is worth asking what it means for one's own: the measure given short, the promise half kept, the deed done where no one was watching.",
+            "bn": "আয়াতটি উল্টো দিক থেকেও পড়া যায়। 'তোমরা যা করো, আমার রব তা সবচেয়ে ভালো জানেন' কথাটি বলা হয়েছিল বিদ্রূপকারীদের, কিন্তু এমন কেউ নেই যার বেলায় কথাটা খাটে না। তাবারীর ব্যাখ্যা, তাদের আমলের কিছুই তাঁর কাছে গোপন নেই, যারা প্রথম শুনেছিল তাদের বেলায় যেমন সত্য, আয়াতটি যে উদ্ধৃত করে তার বেলায়ও একইভাবে সত্য। অন্যের অন্যায়ের দিকে আয়াতটি তাক করার আগে নিজেকে জিজ্ঞেস করা ভালো, আমার বেলায় এর মানে কী। মাপে যা কম দিয়েছি, যে কথা আধাআধি রেখেছি, যে কাজ করেছি কেউ দেখছে না ভেবে।"
+          },
+          {
+            "en": "For the one who is mocked, the verse is also a quiet relief. There is no need to carry every insult to its settlement, or to make oneself the avenger of every slight against the truth. Ibn Kathir's paraphrase is addressed to the scoffers themselves: He is not unjust to you. If even they are promised justice, the one who called them patiently can trust that justice too. To say 'my Lord knows best' and then fall silent is not weakness, and it is not giving up. It is trust in Allah, spoken aloud.",
+            "bn": "যাকে বিদ্রূপ করা হচ্ছে, তার জন্যও আয়াতটি এক নীরব স্বস্তি। প্রতিটি অপমানের হিসাব নিজে চুকিয়ে ফেলার দরকার নেই। সত্যের বিরুদ্ধে প্রতিটি খোঁচার প্রতিশোধ নেওয়ার ভারও নিজের কাঁধে তুলতে হয় না। ইবন কাসীরের ভাষ্যটি বলা হয়েছে খোদ বিদ্রূপকারীদের উদ্দেশে: তিনি তোমাদের প্রতি জুলুমকারী নন। তাদেরকেই যদি ন্যায়বিচারের নিশ্চয়তা দেওয়া হয়, তবে যে একজন ধৈর্য ধরে তাদের ডেকেছে, সেও সেই ন্যায়বিচারে ভরসা রাখতে পারে। 'আমার রব সবচেয়ে ভালো জানেন' বলে চুপ হয়ে যাওয়া দুর্বলতা নয়, হাল ছেড়ে দেওয়াও নয়। এ হলো আল্লাহর উপর তাওয়াক্কুল, মুখে উচ্চারিত।"
+          }
+        ]
+      }
+    ]
+  },
   "26:193": {
     "sections": [
       {

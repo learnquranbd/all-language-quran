@@ -24509,6 +24509,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah's warnings are long and patient, but His judgment, when it comes, is brief and complete; turn back while the warning is still being given.",
     "lessonBn": "আল্লাহর সতর্কবাণী দীর্ঘ ও ধৈর্যশীল, কিন্তু তাঁর ফায়সালা যখন আসে, তখন তা সংক্ষিপ্ত ও পূর্ণাঙ্গ। তাই সতর্কবাণী চলতে চলতেই ফিরে আসুন।"
+  },
+  "26:188": {
+    "reflectionEn": "They dared him to bring a piece of the sky down on them. Shuʿayb could have answered heat with heat: a curse, a date, a promise that it was on its way. He gave one short sentence instead: my Lord knows best what you do. He did not claim the punishment was his to send, and he did not beg for it either. He had delivered the message; what came next belonged to the One who sees every deed and wrongs no one. When people mock what I hold true and demand that I prove it, do I reach for threats, or leave the outcome where it belongs? And do I remember that the same Lord knows best what I do?",
+    "reflectionBn": "তারা তাঁকে চ্যালেঞ্জ দিল, পারলে আকাশের এক টুকরো আমাদের মাথায় ফেলে দেখাও। শুআয়ব (আঃ) চাইলে রাগের জবাব রাগ দিয়েই দিতে পারতেন। বদদোয়া করতে পারতেন, দিন-তারিখ বেঁধে দিতে পারতেন, বলতে পারতেন শাস্তি এই এল বলে। তিনি বললেন মাত্র কয়েকটি শব্দ: তোমরা যা করো, আমার রব তা সবচেয়ে ভালো জানেন। শাস্তি পাঠানো যে তাঁর হাতে, এমন দাবি তিনি করেননি। আবার শাস্তি চেয়ে কাকুতি-মিনতিও করেননি। বার্তা পৌঁছে দেওয়া তাঁর কাজ ছিল, তা তিনি করেছেন। এরপর যা হবে, তা সেই সত্তার হাতে, যিনি প্রতিটি আমল দেখেন আর কারও প্রতি জুলুম করেন না। কেউ যখন আমার বিশ্বাস নিয়ে ঠাট্টা করে আর প্রমাণ দেখাতে বলে, আমি কি হুমকির আশ্রয় নিই, নাকি পরিণতিটা যাঁর হাতে, তাঁর হাতেই ছেড়ে দিই? আর আমি কি মনে রাখি, আমি যা করি, সেই রবই তা সবচেয়ে ভালো জানেন?",
+    "pointsEn": [
+      "When someone mocks my faith and dares me to prove it, what do my first words usually sound like?",
+      "Have I ever spoken of another person's punishment as if it were mine to announce?",
+      "Where do I keep arguing long after I have already said what I needed to say?",
+      "If my Lord knows best what I do, which deed of mine would I least like weighed today?",
+      "Whose wrong against me can I leave with Allah this week, instead of carrying it myself?"
+    ],
+    "pointsBn": [
+      "কেউ যখন আমার ঈমান নিয়ে ঠাট্টা করে আর প্রমাণ দেখাতে বলে, তখন আমার মুখ থেকে প্রথম কোন ধরনের কথা বের হয়?",
+      "অন্য কারও শাস্তির কথা কি আমি কখনো এমনভাবে বলেছি, যেন সেটা ঘোষণা করার দায়িত্ব আমার?",
+      "যা বলার ছিল তা বলে ফেলার অনেক পরেও আমি কোথায় তর্ক চালিয়ে যাই?",
+      "আমি যা করি, আমার রব যদি তা সবচেয়ে ভালো জানেন, তবে আমার কোন আমলটা আজ ওজন হোক, তা আমি সবচেয়ে কম চাইব?",
+      "আমার উপর কারও করা কোন অন্যায়টা এ সপ্তাহে নিজে বয়ে না বেড়িয়ে আল্লাহর হাতে ছেড়ে দিতে পারি?"
+    ],
+    "lessonEn": "When you are mocked and dared, say what is true and stop there; the reckoning belongs to Allah, who knows every deed and wrongs no one.",
+    "lessonBn": "কেউ ঠাট্টা করে চ্যালেঞ্জ দিলে সত্য কথাটা বলুন, তারপর থামুন। হিসাব নেওয়ার ভার আল্লাহর, যিনি প্রতিটি আমল জানেন আর কারও প্রতি জুলুম করেন না।"
   }
 };
 
