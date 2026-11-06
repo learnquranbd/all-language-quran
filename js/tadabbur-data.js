@@ -23651,6 +23651,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Signs of the Hour are told in advance to wake the heart, not to fix dates or name enemies; use the time before the barrier opens to return to Allah.",
     "lessonBn": "কিয়ামতের আলামত আগেভাগে জানানো হয়েছে অন্তর জাগাতে, তারিখ বাঁধতে বা শত্রুর নাম বসাতে নয়। প্রাচীর খোলার আগের সময়টুকু আল্লাহর দিকে ফেরার কাজে লাগান।"
+  },
+  "22:2": {
+    "reflectionEn": "A mother is nursing her child. Nothing in this world holds her attention more tightly, and the child's life hangs on it. On the Day this verse describes, she will be torn away from him by what she sees. The pregnant woman will lose what she carries before its time. Crowds will stagger like drunkards, though no one has touched a drink. The verse gives the reason in its last words: the punishment of Allah is severe. The verse before it opens with a command, fear your Lord. The picture is not given to freeze me in dread but to move me now, while the child is still in my arms and the time is still mine. What am I doing with it?",
+    "reflectionBn": "এক মা সন্তানকে দুধ খাওয়াচ্ছেন। দুনিয়ার আর কিছুই তাঁর মনোযোগ এতটা আঁকড়ে রাখে না, আর শিশুর জীবনও এর উপরেই ঝুলে আছে। এ আয়াত যে দিনের কথা বলে, সেদিন যা চোখে পড়বে তা তাঁকে শিশুটির কাছ থেকে ছিনিয়ে নেবে। গর্ভবতী সময়ের আগেই গর্ভের সন্তান হারিয়ে ফেলবে। মানুষ টলতে থাকবে মাতালের মতো, অথচ কেউ এক ফোঁটা মদও ছোঁয়নি। কারণটা আয়াত বলে দেয় একেবারে শেষে: আল্লাহর শাস্তি বড় কঠিন। আর এর আগের আয়াত শুরু হয়েছে একটি আদেশ দিয়ে: তোমাদের রবকে ভয় করো। ছবিটা আমাকে আতঙ্কে জমিয়ে দেওয়ার জন্য নয়, এখনই নাড়িয়ে দেওয়ার জন্য। শিশু এখনো কোলে, সময় এখনো আমার হাতে। সেই সময় দিয়ে আমি কী করছি?",
+    "pointsEn": [
+      "What holds my attention most tightly today, and would it still hold me if I truly saw what is coming?",
+      "When I read about that Day, do I feel it, or do I pass over it as a picture of other people?",
+      "Which good deed do I keep putting off as though the Hour were far away, and can I begin it this week?",
+      "Does my fear of that Day drive me toward Allah, or only into a worry that changes nothing I do?",
+      "Who depends on me the way a nursing child depends on its mother, and am I helping them prepare too?"
+    ],
+    "pointsBn": [
+      "আজ কোন জিনিস আমার মনোযোগ সবচেয়ে শক্ত করে আঁকড়ে আছে? যা আসছে তা সত্যিই দেখতে পেলে সেটা কি তখনো আমাকে ধরে রাখতে পারত?",
+      "সেই দিনের কথা পড়ার সময় আমি কি তা অনুভব করি, নাকি অন্যদের নিয়ে আঁকা কোনো ছবি ভেবে পাশ কাটিয়ে যাই?",
+      "কোন নেক আমলটা আমি বারবার পিছিয়ে দিচ্ছি, যেন কিয়ামত অনেক দূরে? এ সপ্তাহেই কি তা শুরু করতে পারি?",
+      "সেই দিনের ভয় কি আমাকে আল্লাহর দিকে ঠেলে দেয়, নাকি শুধু এমন দুশ্চিন্তায় ফেলে যা আমার কাজে কিছুই বদলায় না?",
+      "দুধের শিশু যেভাবে মায়ের উপর নির্ভর করে, তেমনি কে আমার উপর নির্ভর করে আছে? তাদেরও প্রস্তুত হতে কি আমি সাহায্য করছি?"
+    ],
+    "lessonEn": "That Day is terrible enough to make a nursing mother forget her child, so fear your Lord now and prepare while the time is still yours.",
+    "lessonBn": "সেই দিন এতই ভয়ংকর যে দুধ খাওয়ানো মা-ও সন্তানকে ভুলে যাবে। তাই এখনই রবকে ভয় করুন, আর সময় হাতে থাকতেই প্রস্তুত হোন।"
   }
 };
 

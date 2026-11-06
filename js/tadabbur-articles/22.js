@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "22:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Warning Turned Into a Scene",
+          "bn": "সতর্কবাণী থেকে দৃশ্যে"
+        },
+        "p": [
+          {
+            "en": "Surat al-Hajj opens with a command and a warning: O people, fear your Lord; indeed the convulsion of the Hour is a tremendous thing (22:1). Then 22:2 turns the warning into a scene: yawma tarawnaha, on the Day you see it. Three pictures follow, a nursing mother, a pregnant woman and a staggering crowd, before the verse names the cause in its last clause. Al-Qurtubi gives the reason the terror is described at all: to urge people to make ready for that Day and to prepare for it with righteous deeds.",
+            "bn": "সূরা হজ্জ শুরু হয় একটি আদেশ আর একটি সতর্কবাণী দিয়ে: হে মানুষ, তোমাদের রবকে ভয় করো, নিশ্চয়ই কিয়ামতের কম্পন এক ভয়ংকর ব্যাপার (২২:১)। তারপর ২২:২ সেই সতর্কবাণীকে একটি দৃশ্যে রূপ দেয়: ইয়াওমা তারাওনাহা, যেদিন তোমরা তা দেখবে। এরপর পরপর তিনটি ছবি আসে। দুধ খাওয়ানো এক মা, এক গর্ভবতী নারী, আর টলতে থাকা মানুষের ভিড়। সবশেষে আয়াতটি কারণের নাম বলে। এই বিভীষিকার বর্ণনা কেন দেওয়া হলো, কুরতুবী তা বলে দেন: যাতে মানুষ সেই দিনের জন্য তৈরি হয়, আর নেক আমল দিয়ে তার প্রস্তুতি নেয়।"
+          },
+          {
+            "en": "Whose sight is meant by it? Al-Qurtubi says that for the majority the pronoun returns to the convulsion, strengthened by the nursing and pregnancy that follow, since both belong to this world. Al-Baghawi takes it as the Hour, noting that some say the convulsion. Ibn Kathir treats it as a pronoun of the matter, explained by the words after it. And the convulsion not yet come is called a thing in 22:1, al-Qurtubi notes, because its coming is certain.",
+            "bn": "যেদিন তোমরা তা দেখবে, এখানে তা কী? কুরতুবী বলেন, অধিকাংশের মতে সর্বনামটি ফিরে যায় কম্পনের দিকে। পরের দুধ খাওয়ানো আর গর্ভধারণের কথা এ মতকে শক্ত করে, কারণ দুটোই দুনিয়ার বিষয়। বাগাভী একে কিয়ামত ধরেন, তবে জানান, কারও মতে এটি কম্পন। ইবন কাসীরের মতে এটি পুরো বিষয়ের দিকে ইঙ্গিতকারী সর্বনাম, পরের কথাগুলো যার ব্যাখ্যা। আর কুরতুবী বলেন, ২২:১ আয়াতে যে কম্পন এখনো আসেনি তাকে শাই, অর্থাৎ জিনিস বলা হয়েছে, কারণ তার আসা নিশ্চিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Hour, or On It",
+          "bn": "কিয়ামতের আগে, না সেদিনই"
+        },
+        "p": [
+          {
+            "en": "When does this convulsion come? Ibn Kathir and at-Tabari both record a real disagreement. One side places it in this world, at the end of its life. At-Tabari narrates from Alqama: before the Hour; and from ash-Sha'bi: this is in this world, before the Day of Resurrection. Ibn Jurayj said its convulsion is its portents. Ibn Kathir adds the like from Ibrahim and Ubayd ibn Umayr, and explains that the quake is joined to the Hour because it comes so near it.",
+            "bn": "এই কম্পন কখন আসবে? ইবন কাসীর ও তাবারী দুজনেই এখানে একটি সত্যিকারের মতভেদ উল্লেখ করেছেন। এক পক্ষের মতে তা ঘটবে এই দুনিয়াতেই, তার আয়ুর একেবারে শেষে। তাবারী আলকামা থেকে বর্ণনা করেন: কিয়ামতের আগে। শা'বী থেকে বর্ণনা করেন: এটা দুনিয়ায়, কিয়ামত দিবসের আগে। ইবন জুরাইজ বলেন, কিয়ামতের কম্পন মানে তার আলামত। ইবন কাসীর জানান, ইবরাহীম ও উবাইদ ইবন উমাইর থেকেও এমন কথা বর্ণিত। তাঁর ব্যাখ্যায় কম্পনটিকে কিয়ামতের সঙ্গে জোড়া হয়েছে, কারণ তা কিয়ামতের একেবারে কাছে।"
+          },
+          {
+            "en": "The other side places it on the Day of Resurrection itself: terror and quaking in the plains of Judgement, after people rise from their graves. Ibn Kathir says at-Tabari chose this view, and its holders argued from hadiths. At-Tabari's words are firm: the view of Alqama and ash-Sha'bi would stand, were it not that sound reports from the Messenger of Allah ﷺ say otherwise, and the Messenger knows best the meanings of Allah's revelation. A report from the Prophet ﷺ for the first view, he says, has a chain open to question.",
+            "bn": "অন্য পক্ষের মতে কম্পনটি ঘটবে কিয়ামত দিবসেই: মানুষ কবর থেকে ওঠার পর হাশরের ময়দানে আতঙ্ক আর প্রকম্পন। ইবন কাসীর জানান, তাবারী এ মতই গ্রহণ করেছেন, আর এর পক্ষের লোকেরা দলিল এনেছেন হাদিস থেকে। তাবারীর ভাষা দৃঢ়। আলকামা ও শা'বীর মত টিকে যেত, যদি রাসূলুল্লাহ ﷺ থেকে এর বিপরীতে সহীহ বর্ণনা না আসত। আর আল্লাহর ওহীর অর্থ রাসূলই সবচেয়ে ভালো জানেন। প্রথম মতের পক্ষে নবী ﷺ থেকে একটি বর্ণনাও আছে, তবে তাবারী বলেন, তার সনদ নিয়ে প্রশ্ন আছে।"
+          },
+          {
+            "en": "Al-Qurtubi frames the split differently. For the majority, he says, the convulsion is in this world, since nursing and carrying a child happen only here; a group placed it on the Day of Resurrection, arguing from the hadith of Imran ibn Husayn, and the wording of Muslim's narration from Abu Sa'id al-Khudri points the same way. Others tie it to the first blowing of the Trumpet, or to the rising of the Hour, as people stir in their graves at the second. Ma'arif al-Qur'an finds texts cited for both views and closes: Allah knows best.",
+            "bn": "কুরতুবী একই মতভেদ একটু অন্যভাবে সাজান। তাঁর কথায়, অধিকাংশের মতে কম্পনটি দুনিয়াতেই, কারণ দুধ খাওয়ানো আর গর্ভধারণ কেবল এখানেই ঘটে। আরেক দল একে কিয়ামত দিবসে রেখেছেন, দলিল এনেছেন ইমরান ইবন হুসাইন (রাঃ)-এর হাদিস থেকে। আবু সাঈদ খুদরী (রাঃ) থেকে মুসলিমের বর্ণনার ভাষাও সেদিকে ইঙ্গিত করে। কেউ একে জুড়েছেন শিঙার প্রথম ফুঁকের সঙ্গে, কেউ কিয়ামত কায়েমের সঙ্গে, যখন দ্বিতীয় ফুঁকে মানুষ কবরে নড়ে উঠবে। মাআরিফুল কুরআন দেখায়, দুই মতের পক্ষেই দলিল আনা হয়েছে, তারপর শেষ করে: আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Adam Is Called",
+          "bn": "যখন আদম (আঃ)-কে ডাকা হবে"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari placed one hadith in his commentary on this verse. Abu Sa'id al-Khudri narrated that the Prophet ﷺ said: \"On the day of Resurrection Allah will say, 'O Adam!' Adam will reply, 'Labbaik our Lord, and Sa'daik.' Then there will be a loud call (saying), 'Allah orders you to take from among your offspring a mission for the (Hell) Fire.' Adam will say, 'O Lord! Who are the mission for the (Hell) Fire?' Allah will say, 'Out of each thousand, take out 999.'\"",
+            "bn": "বুখারী এই আয়াতের তাফসীর অধ্যায়ে একটি হাদিস এনেছেন। আবু সাঈদ খুদরী (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"কিয়ামতের দিন আল্লাহ বলবেন, হে আদম! আদম (আঃ) বলবেন, লাব্বাইকা রব্বানা ওয়া সা'দাইক, হে আমাদের রব, আমি হাজির। তখন উচ্চস্বরে ঘোষণা আসবে: আল্লাহ আপনাকে আদেশ দিচ্ছেন, আপনার সন্তানদের মধ্য থেকে জাহান্নামের দল বের করে দিন। আদম (আঃ) বলবেন, হে রব, জাহান্নামের দল কারা? আল্লাহ বলবেন, প্রতি হাজার থেকে ৯৯৯ জনকে বের করো।\""
+          },
+          {
+            "en": "The hadith continues: \"At that time every pregnant female shall drop her load (have a miscarriage) and a child will have grey hair. And you shall see mankind as in a drunken state, yet not drunk, but severe will be the torment of Allah.\" (When the Prophet ﷺ mentioned this), the people were so distressed (and afraid) that their faces got changed (in color) whereupon the Prophet ﷺ said, \"From Gog and Magog nine-hundred ninety-nine will be taken out and one from you.",
+            "bn": "হাদিসটি এগিয়ে চলে: \"সে সময় প্রত্যেক গর্ভবতী তার গর্ভের সন্তান ফেলে দেবে, আর শিশুর চুল পেকে যাবে। আর তুমি মানুষকে দেখবে মাতাল, অথচ তারা মাতাল নয়, বরং আল্লাহর শাস্তি বড় কঠিন।\" নবী ﷺ যখন এ কথা বললেন, মানুষের কাছে তা এত ভারী লাগল যে তাদের চেহারা বদলে গেল। তখন নবী ﷺ বললেন, \"ইয়াজুজ ও মাজুজ থেকে নেওয়া হবে নয়শো নিরানব্বই জন, আর তোমাদের থেকে একজন।"
+          },
+          {
+            "en": "He went on: \"You Muslims (compared to the large number of other people) will be like a black hair on the side of a white ox, or a white hair on the side of a black ox, and I hope that you will be one-fourth of the people of Paradise.\" On that, we said, \"Allahu-Akbar!\" Then he said, \"(I hope that you will be) one-third of the people of Paradise.\" We again said, \"Allahu-Akbar!\" Then he said, \"(I hope that you will be) one-half of the people of Paradise.\" So we said, Allahu Akbar. (Sahih al-Bukhari 4741)",
+            "bn": "তিনি আরও বললেন: \"মানুষের ভিড়ে তোমরা হবে সাদা ষাঁড়ের গায়ে একটি কালো চুলের মতো, কিংবা কালো ষাঁড়ের গায়ে একটি সাদা চুলের মতো। আর আমি আশা করি, তোমরা হবে জান্নাতবাসীর এক-চতুর্থাংশ।\" আমরা বললাম, আল্লাহু আকবার। তারপর তিনি বললেন, \"জান্নাতবাসীর এক-তৃতীয়াংশ।\" আমরা আবার বললাম, আল্লাহু আকবার। তারপর তিনি বললেন, \"জান্নাতবাসীর অর্ধেক।\" আমরা বললাম, আল্লাহু আকবার। (সহীহ বুখারী ৪৭৪১)"
+          },
+          {
+            "en": "At-Tirmidhi records a separate report from Imran ibn Husayn: on a journey, with his Companions strung out along the road, the Prophet ﷺ raised his voice with these two verses, 22:1 and 22:2, then asked whether they knew what Day that was, and spoke of Adam being called. At-Tirmidhi grades it hasan sahih. Its wording differs and is not merged with al-Bukhari's. Ibn Kathir notes that Muslim and an-Nasa'i also recorded Abu Sa'id's hadith.",
+            "bn": "তিরমিযী ইমরান ইবন হুসাইন (রাঃ) থেকে আলাদা একটি বর্ণনা এনেছেন। এক সফরে সাহাবিরা পথে ছড়িয়ে-ছিটিয়ে পড়েছিলেন। তখন নবী ﷺ উচ্চস্বরে এই দুটি আয়াত পড়লেন, ২২:১ ও ২২:২। তারপর জিজ্ঞেস করলেন, তোমরা কি জানো সেটা কোন দিন? এরপর আদম (আঃ)-কে ডাকার কথা বললেন। তিরমিযী একে হাসান সহীহ বলেছেন। এর ভাষা ভিন্ন, তাই বুখারীর বর্ণনার সঙ্গে মেশানো হয়নি। ইবন কাসীর জানান, আবু সাঈদ (রাঃ)-এর হাদিসটি মুসলিম ও নাসাঈও বর্ণনা করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Distracted From Her Nursling",
+          "bn": "দুধের শিশু থেকে উদাসীন"
+        },
+        "p": [
+          {
+            "en": "Tadhhalu kullu murdi'atin 'amma arda'at: every nursing mother will be distracted from what she nursed. Al-Baghawi reports from Ibn Abbas that tadhhalu means she will be occupied; others say she will forget. Al-Qurtubi defines the word as heedlessness of a thing because a worry or a pain has come over a person and taken the attention. Ibn Kathir explains that the horror of what she sees will take her from the dearest of people to her, the child she is most tender towards, at the very moment she is nursing him.",
+            "bn": "তাযহালু কুল্লু মুরদিআতিন আম্মা আরদাআত: প্রত্যেক দুধ খাওয়ানো মা তার দুধের শিশু থেকে উদাসীন হয়ে যাবে। বাগাভী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, তাযহালু মানে সে ব্যস্ত হয়ে পড়বে। কারও মতে এর অর্থ ভুলে যাবে। কুরতুবীর সংজ্ঞায় শব্দটির মানে: কোনো দুশ্চিন্তা বা যন্ত্রণা এসে মন কেড়ে নেওয়ায় কোনো জিনিস থেকে বেখেয়াল হয়ে যাওয়া। ইবন কাসীর ব্যাখ্যা করেন, যা সে দেখবে তার বিভীষিকা তাকে সরিয়ে নেবে তার সবচেয়ে প্রিয় মানুষটির কাছ থেকে, যে শিশুর প্রতি তার মমতা সবচেয়ে বেশি। আর তা ঘটবে ঠিক দুধ খাওয়ানোর মুহূর্তে।"
+          },
+          {
+            "en": "That, Ibn Kathir says, is why the verse says murdi'a, with the feminine ending, and not murdi'; at-Tabari and al-Baghawi explain that the ending marks a woman in the act of nursing, not merely described as a nursing mother. As-Sa'di draws out the cost: she is made by nature with an intense love for her child, above all in this state, on which its life depends. Ibn Zayd, in at-Tabari, says she leaves her child because of the distress that has come down on her. The verse names the strongest bond it can, and shows even that bond let go.",
+            "bn": "ইবন কাসীর বলেন, এ কারণেই আয়াতে স্ত্রীবাচক চিহ্নসহ মুরদিআ বলা হয়েছে, মুরদি' বলা হয়নি। তাবারী ও বাগাভী ব্যাখ্যা করেন, এই চিহ্ন বোঝায় এমন নারী যে এই মুহূর্তে দুধ খাওয়াচ্ছে, শুধু দুধ খাওয়ানোর গুণে পরিচিত নারী নয়। ছবিটার ভার কতখানি, সা'দী তা খুলে দেখান। মায়ের স্বভাবেই সন্তানের প্রতি তীব্র ভালোবাসা গাঁথা, বিশেষ করে এই অবস্থায়, যার উপর শিশুর বেঁচে থাকা নির্ভর করে। তাবারীর বর্ণনায় ইবন যায়দ বলেন, তার উপর যে কষ্ট নেমে আসবে তার কারণে সে সন্তানকে ছেড়ে দেবে। আয়াত বেছে নিয়েছে সবচেয়ে মজবুত বন্ধন, আর দেখিয়েছে সেটিও আলগা হয়ে যাচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Will Anyone Be Pregnant Then",
+          "bn": "সেদিন কি কেউ গর্ভবতী থাকবে"
+        },
+        "p": [
+          {
+            "en": "Wa tada'u kullu dhati hamlin hamlaha: every pregnant woman will deliver her burden. Al-Hasan, in at-Tabari and al-Baghawi, says the pregnant will cast what is in their wombs before term; Ibn Kathir says before full term, from the intensity of the horror. That raises a question the commentators did not avoid: if the scene is on the Day of Resurrection, will anyone be pregnant or nursing then? Al-Baghawi says al-Hasan's explanation shows the quake is in this world, since there is no pregnancy after the resurrection.",
+            "bn": "ওয়া তাদাউ কুল্লু যাতি হামলিন হামলাহা: প্রত্যেক গর্ভবতী তার গর্ভের বোঝা নামিয়ে ফেলবে। তাবারী ও বাগাভীর বর্ণনায় হাসান বলেন, গর্ভবতীরা সময় পূর্ণ হওয়ার আগেই পেটের সন্তান ফেলে দেবে। ইবন কাসীর বলেন, বিভীষিকার প্রচণ্ডতায় সময়ের আগেই প্রসব হবে। এখান থেকে একটি প্রশ্ন ওঠে, আর তাফসীরকারেরা তা এড়িয়ে যাননি। দৃশ্যটি যদি কিয়ামত দিবসের হয়, তখন কি কেউ গর্ভবতী বা দুধ খাওয়ানো অবস্থায় থাকবে? বাগাভী বলেন, হাসানের ব্যাখ্যা দেখায় যে কম্পনটি দুনিয়াতেই, কারণ পুনরুত্থানের পর কোনো গর্ভধারণ নেই।"
+          },
+          {
+            "en": "Those who place it on the Day of Resurrection, al-Baghawi continues, read these words as magnifying the matter, not as literal description, as Arabs say of a calamity that it turned the newborn grey. Al-Qurtubi records al-Mubarrad's same inference, then two answers that may be given: a woman who died pregnant is raised pregnant and delivers from the terror, and one who died nursing is raised so; or the words work like the Day that turns children grey (73:17). Ma'arif al-Qur'an relays the first answer from al-Qurtubi and leaves the matter with: Allah knows best.",
+            "bn": "বাগাভী আরও বলেন, যাঁরা একে কিয়ামত দিবসে রাখেন, তাঁরা এ কথাগুলোকে আক্ষরিক বিবরণ নয়, বিষয়টির ভয়াবহতা বোঝানোর ভাষা হিসেবে পড়েন। আরবরা যেমন কোনো বিপদ সম্পর্কে বলে, এটা নবজাতকের চুলও পাকিয়ে দিয়েছে। কুরতুবী মুবাররাদের মুখেও একই সিদ্ধান্ত উল্লেখ করেন। তারপর এর দুটি সম্ভাব্য জবাব আনেন। যে নারী গর্ভবতী অবস্থায় মারা গেছে, সে গর্ভবতী অবস্থায়ই উঠবে, আর আতঙ্কে প্রসব করে ফেলবে। দুধ খাওয়ানো অবস্থায় মারা গেলে সেভাবেই উঠবে। অথবা কথাটি সেই দিনের মতো, যা শিশুদের বুড়ো করে দেয় (৭৩:১৭)। মাআরিফুল কুরআন কুরতুবী থেকে প্রথম জবাবটি এনে বিষয়টি ছেড়ে দেয় এ কথায়: আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drunk Without a Drop",
+          "bn": "এক ফোঁটা মদ ছাড়াই মাতাল"
+        },
+        "p": [
+          {
+            "en": "Wa tara n-nasa sukara wa ma hum bi-sukara: and you will see the people drunk, yet they are not drunk. The verse states both halves and lets the contradiction stand: drunk to the eye, untouched by any drink. Al-Hasan, in at-Tabari and al-Baghawi, resolves it: drunk from fear, and not drunk from drink. Ibn Jurayj says they are not drunk from drink, and Ibn Zayd that they drank no wine. As-Sa'di turns to the onlooker: you who see them would reckon them drunk with wine, and they are not.",
+            "bn": "ওয়া তারান নাসা সুকারা ওয়া মা হুম বিসুকারা: তুমি মানুষকে দেখবে মাতাল, অথচ তারা মাতাল নয়। আয়াত দুটো কথাই বলে, আর বৈপরীত্যটা যেমন আছে তেমনই রেখে দেয়। চোখে দেখলে মাতাল, অথচ কোনো পানীয় ছোঁয়নি। তাবারী ও বাগাভীর বর্ণনায় হাসান এর মীমাংসা করেন: ভয়ে মাতাল, পানীয়তে নয়। ইবন জুরাইজ বলেন, তারা পানীয়তে মাতাল নয়। ইবন যায়দ বলেন, তারা মদ পান করেনি। সা'দী কথা বলেন দর্শকের সঙ্গে: হে দর্শক, তুমি তাদের দেখে ভাববে মদে মাতাল, অথচ তারা তা নয়।"
+          },
+          {
+            "en": "At-Tabari notes that the readers of the great cities read tara, you see, addressed to one person: you will see, O Muhammad, the people drunk at that time. A reading reported from Abu Zur'a ibn Amr ibn Jarir, tura, you are made to see, he sets aside, since the readers agree against it. Al-Qurtubi cites that reading in support of the scholars of meanings, who explain: you will see the people as though they were drunk.",
+            "bn": "তাবারী জানান, বড় বড় শহরের কারীরা পড়েছেন তারা, অর্থাৎ তুমি দেখবে, একজনকে সম্বোধন করে: হে মুহাম্মাদ, তুমি সেদিন মানুষকে মাতাল দেখবে। আবু যুরআ ইবন আমর ইবন জারীর থেকে তুরা পাঠও বর্ণিত আছে, যার মানে তোমাকে দেখানো হবে। কারীদের ঐকমত্য এর বিপক্ষে বলে তাবারী এ পাঠ গ্রহণ করেননি। কুরতুবী আবার এই পাঠকেই অর্থবিদ আলেমদের পক্ষে দলিল হিসেবে আনেন। তাঁদের ব্যাখ্যায় মানে দাঁড়ায়: তুমি মানুষকে এমন দেখবে যেন তারা মাতাল।"
+          },
+          {
+            "en": "Hamza and al-Kisa'i, al-Qurtubi and al-Baghawi report, read sakra wa ma hum bi-sakra, without the long vowel; both forms are plurals of sakran, like kasla and kasala. At-Tabari gives sakra as the reading of most Kufan readers and sukara as that of Madina and Basra, and rules both widely transmitted and close in meaning, so that whichever one reads is right. Al-Bukhari, after the hadith above, notes that Jarir, Isa ibn Yunus and Abu Mu'awiya narrated the words from al-A'mash as sakra. Either way, the paradox is the same.",
+            "bn": "কুরতুবী ও বাগাভী জানান, হামযা ও কিসাঈ পড়েছেন সাকরা ওয়া মা হুম বিসাকরা, দীর্ঘ স্বর ছাড়া। দুটোই সাকরান শব্দের বহুবচন, যেমন কাসলা আর কাসালা। তাবারীর বর্ণনায় কুফার অধিকাংশ কারী পড়েছেন সাকরা, আর মদীনা ও বসরার কারীরা সুকারা। তাঁর রায়ে দুটো পাঠই ব্যাপকভাবে প্রচলিত, অর্থও কাছাকাছি, তাই যেটাই পড়া হোক, সঠিক। বুখারী ওপরের হাদিসটির পরে উল্লেখ করেছেন, জারীর, ঈসা ইবন ইউনুস ও আবু মুআবিয়া আ'মাশ থেকে শব্দটি সাকরা হিসেবে বর্ণনা করেছেন। যেভাবেই পড়া হোক, বৈপরীত্যটা একই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reason Given Last",
+          "bn": "কারণটা আসে সবশেষে"
+        },
+        "p": [
+          {
+            "en": "The verse does not end with the quake. It ends with a cause: but the punishment of Allah is severe. At-Tabari reads the clause as the reason for the drunkenness: they became drunk from fear of Allah's punishment, on seeing the distress and immense terror before them, while knowing how severe His punishment is. The Muyassar says the severity of the punishment took away their minds and their perception. As-Sa'di says that is why it took away their minds, emptied their hearts and filled them with fright.",
+            "bn": "আয়াত কম্পনের কথায় শেষ হয় না, শেষ হয় একটি কারণে: কিন্তু আল্লাহর শাস্তি বড় কঠিন। তাবারী এ অংশকে মাতাল অবস্থার কারণ হিসেবে পড়েন। সামনের কষ্ট আর ভয়াবহ বিভীষিকা চোখে দেখে তারা আল্লাহর শাস্তির ভয়ে মাতাল হয়ে গেছে, কারণ তারা জানে তাঁর শাস্তি কত কঠিন। মুয়াসসার বলে, শাস্তির তীব্রতা তাদের বুদ্ধি আর বোধ কেড়ে নিয়েছে। সা'দী বলেন, এ কারণেই তা তাদের বুদ্ধি কেড়ে নিয়েছে, অন্তর খালি করে দিয়েছে আর আতঙ্কে ভরে দিয়েছে। তাদের টলিয়ে দিচ্ছে মদ নয়, শুধু কম্পনও নয়, বরং যা আসছে বলে তারা জানে, তা-ই।"
+          },
+          {
+            "en": "As-Sa'di then sets the scene among others the Qur'an draws of that Day: hearts reach the throats and eyes stare; no parent will avail a child, nor a child a parent (31:33); a man flees from his brother, his mother and his father, his wife and his sons, each with a concern enough for himself (80:34 to 80:37). The nursing mother of this verse belongs to that company. The bond that seemed the last to break is the first the verse shows breaking.",
+            "bn": "এরপর সা'দী দৃশ্যটিকে রাখেন সেই দিনের অন্যান্য কুরআনী ছবির পাশে। কলিজা উঠে আসবে কণ্ঠনালীতে, চোখ স্থির হয়ে যাবে। কোনো পিতা সন্তানের কাজে আসবে না, কোনো সন্তানও পিতার কাজে আসবে না (৩১:৩৩)। মানুষ পালাবে তার ভাই, মা, বাবা, স্ত্রী আর সন্তানদের কাছ থেকে, কারণ সেদিন প্রত্যেকের নিজের চিন্তাই যথেষ্ট হবে (৮০:৩৪ থেকে ৮০:৩৭)। এ আয়াতের দুধ খাওয়ানো মা সেই দলেরই একজন। যে বন্ধন সবার শেষে ছিঁড়বে বলে মনে হতো, আয়াত সেটিকেই প্রথমে ছিঁড়তে দেখায়। তাই দুনিয়ার কোনো সম্পর্ক যেন কারও নিজের প্রস্তুতির বিকল্প না হয়ে দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ready While Time Remains",
+          "bn": "সময় থাকতেই প্রস্তুতি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends where the surah began, with the fear of Allah. Whoever has sense and knows that all of this lies ahead of him, he says, should make ready for it, and not let long hopes distract him until he abandons good deeds. Let the fear of Allah be the garment next to his skin and dread of Him the cloak over it, and let the love of Allah and His remembrance be the spirit of his deeds. Al-Qurtubi said the same in fewer words: the terror is described to stir readiness, and preparation with righteous deeds.",
+            "bn": "সূরাটি যেখান থেকে শুরু হয়েছিল, সা'দী শেষ করেন সেখানেই, আল্লাহর ভয়ে। তিনি বলেন, যে বুদ্ধিমান জানে এসবই তার সামনে আছে, তার উচিত এর জন্য প্রস্তুতি নেওয়া। লম্বা আশা যেন তাকে এতটা ভুলিয়ে না রাখে যে সে আমলই ছেড়ে দেয়। আল্লাহর তাকওয়া হোক তার গায়ের সঙ্গে লেগে থাকা জামা, আর তাঁর ভয় হোক তার ওপরের চাদর। আল্লাহর ভালোবাসা আর তাঁর জিকির হোক তার সব আমলের প্রাণ। কুরতুবী একই কথা বলেছেন আরও কম শব্দে: বিভীষিকার বর্ণনা দেওয়া হয়েছে, যাতে মানুষ তৈরি হয় আর নেক আমল দিয়ে প্রস্তুতি নেয়।"
+          },
+          {
+            "en": "The hadith gives the other half. When the Companions' faces changed, the Prophet ﷺ did not take back the count; he answered it with hope, a quarter, a third, then half of the people of Paradise, and each time they said Allahu Akbar. The verse asks for a fear that ends in action, not in despair. It also describes what that Day will do to people, and nothing more: it gives no one a licence to count any living person or community among the party of the Fire. That reckoning belongs to Allah alone.",
+            "bn": "হাদিসটি বাকি অর্ধেক কথা বলে দেয়। সাহাবিদের চেহারা যখন বদলে গেল, নবী ﷺ হিসাবটা ফিরিয়ে নেননি। তিনি জবাব দিলেন আশা দিয়ে: জান্নাতবাসীর এক-চতুর্থাংশ, এক-তৃতীয়াংশ, তারপর অর্ধেক। আর প্রতিবার তাঁরা বললেন, আল্লাহু আকবার। আয়াত এমন ভয় চায়, যা আমলে গিয়ে শেষ হয়, হতাশায় নয়। আয়াতটি সেই দিন মানুষের কী অবস্থা করবে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়কে জাহান্নামের দলে গোনার অনুমতি এ আয়াত কাউকে দেয় না। সেই হিসাব কেবল আল্লাহর।"
+          }
+        ]
+      }
+    ]
+  },
   "22:5": {
     "sections": [
       {
