@@ -11,6 +11,150 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "66:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Addressed by His Title",
+          "bn": "উপাধি ধরে সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "Ya ayyuha-n-nabiyyu: O Prophet. Al-Qurtubi opens Surat at-Tahrim by noting that it is Madinan by the agreement of all, twelve verses long, and that it is also called Surat an-Nabi, the surah of the Prophet. Its first line is addressed to him alone. Ma'arif al-Qur'an observes that the Qur'an, by its general manner, does not call him by his name but by his prophetic title, and it counts this as his special honour. Whatever question follows is put to a man already honoured in the way he is called.",
+            "bn": "ইয়া আইয়্যুহান নাবিয়্যু: হে নবী। সূরা তাহরীমের শুরুতে কুরতুবী জানান, সবার ঐকমত্যে এটি মাদানী সূরা, আয়াত বারোটি, আর এর আরেক নাম সূরাতুন নাবী, অর্থাৎ নবীর সূরা। প্রথম আয়াতের সম্বোধন কেবল তাঁরই প্রতি। মাআরিফুল কুরআন লক্ষ করে, কুরআনের সাধারণ রীতি হলো তাঁকে নাম ধরে না ডেকে নবুওয়াতের উপাধি ধরে ডাকা, আর একে সে তাঁর বিশেষ সম্মান বলে গণ্য করে। কাজেই এরপর যে প্রশ্নই আসুক, তা করা হচ্ছে এমন একজনকে, ডাকের ধরনেই যাঁকে সম্মানিত করা হয়েছে।"
+          },
+          {
+            "en": "As-Sa'di unfolds the title: O you on whom Allah bestowed prophethood, revelation and the message. He calls the verse an 'itab, a reproach from Allah to His Prophet ﷺ, and places it in a well-known story: the Prophet ﷺ forbade himself either his slave-woman Mariyah or the drinking of honey, out of regard for the feelings of some of his wives. The Muyassar gives the plain sense in a single line: O Prophet, why do you withhold yourself from the lawful that Allah has made lawful for you, seeking to please your wives?",
+            "bn": "সা'দী উপাধিটার ভেতরটা খুলে দেখান: হে সেই ব্যক্তি, আল্লাহ যাঁকে নবুওয়াত, ওহী আর রিসালাতের নিয়ামত দিয়েছেন। তিনি আয়াতটিকে বলেন ইতাব, অর্থাৎ নবী ﷺ-এর প্রতি আল্লাহর অনুযোগ। প্রেক্ষাপট হিসেবে তিনি এক সুপরিচিত ঘটনার কথা বলেন: কয়েকজন স্ত্রীর মনের দিকে খেয়াল রেখে নবী ﷺ নিজের উপর হারাম করেছিলেন হয় তাঁর দাসী মারিয়াকে, নয়তো মধু পান করা। মুয়াসসার সহজ অর্থটা এক লাইনে বলে দেয়: হে নবী, আল্লাহ যে হালাল জিনিস তোমার জন্য হালাল করেছেন, স্ত্রীদের সন্তুষ্টি চেয়ে তুমি তা থেকে নিজেকে বিরত রাখছ কেন?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Withholding What Was Permitted",
+          "bn": "অনুমতি থেকে নিজেকে সরিয়ে রাখা"
+        },
+        "p": [
+          {
+            "en": "Lima tuharrimu ma ahalla-llahu lak: why do you forbid what Allah has made lawful for you? At-Tabari reads the question through its own circumstance: why do you forbid yourself the lawful thing Allah made lawful to you, seeking by that forbidding your wives' approval? As-Sa'di takes ma ahalla-llahu lak as the good things Allah has bestowed on you and on your community. The Muyassar's verb, you withhold yourself, shows the kind of forbidding meant. On these readings it was no law laid on anyone else, only a man declining, for himself, what his Lord had permitted him.",
+            "bn": "লিমা তুহাররিমু মা আহাল্লাল্লাহু লাক: আল্লাহ তোমার জন্য যা হালাল করেছেন, তা তুমি হারাম করছ কেন? তাবারী প্রশ্নটা পড়েন তার নিজের প্রেক্ষাপটে: আল্লাহ যে হালাল জিনিস তোমার জন্য হালাল করেছেন, স্ত্রীদের সন্তুষ্টি পাওয়ার আশায় তা নিজের উপর হারাম করছ কেন? সা'দীর ব্যাখ্যায় মা আহাল্লাল্লাহু লাক মানে সেই সব উত্তম জিনিস, যা আল্লাহ তোমাকে ও তোমার উম্মতকে দান করেছেন। মুয়াসসারের শব্দ, নিজেকে বিরত রাখছ, বুঝিয়ে দেয় এখানে কেমন হারাম করার কথা। এই পাঠে অন্য কারও উপর কোনো আইন চাপানো হয়নি। একজন মানুষ কেবল নিজের জন্য সেই জিনিস ছেড়ে দিচ্ছিলেন, যার অনুমতি তাঁর রব তাঁকে দিয়েছিলেন।"
+          },
+          {
+            "en": "At-Tabari then asks whether the Prophet ﷺ only declared the thing unlawful or also swore. He argues that no speech, Arabic or foreign, treats the words this is unlawful to me, said of a slave-woman, a food or a drink, as an oath in themselves; so the oath was something added. He cites a report through Masruq from 'A'ishah (RA): he swore and forbade; for the oath he was commanded expiation, and for the forbidding he was told, Why do you forbid what Allah has made lawful for you? The release of that oath comes in 66:2.",
+            "bn": "এরপর তাবারী প্রশ্ন তোলেন: নবী ﷺ কি শুধু জিনিসটাকে হারাম ঘোষণা করেছিলেন, নাকি সঙ্গে কসমও খেয়েছিলেন? তাঁর যুক্তি হলো, আরবি হোক বা অন্য কোনো ভাষা, দাসী, খাবার বা পানীয় সম্পর্কে 'এটা আমার জন্য হারাম' বললেই তা কসম হয়ে যায় না। কাজেই কসম ছিল আলাদা করে যোগ হওয়া জিনিস। এর পক্ষে তিনি মাসরুকের সূত্রে আয়েশা (রাঃ)-এর একটি বর্ণনা আনেন: তিনি কসম খেয়েছিলেন এবং হারামও করেছিলেন। কসমের জন্য তাঁকে কাফফারার আদেশ দেওয়া হলো, আর হারাম করার ব্যাপারে বলা হলো, আল্লাহ তোমার জন্য যা হালাল করেছেন, তা হারাম করছ কেন? সেই কসম থেকে মুক্তির কথা আসে ৬৬:২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honey in Zaynab's House",
+          "bn": "যয়নবের ঘরে মধু"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records the honey account in his Sahih, in the book of divorce (5267), from 'A'ishah (RA) herself through 'Ubayd ibn 'Umayr: \"The Prophet ﷺ used to stay with Zaynab bint Jahsh and drink honey at her house. Hafsah and I agreed between us that whichever of us the Prophet ﷺ came in to should say: I find on you the smell of maghafir; have you eaten maghafir? He came in to one of them and she said that to him. He said: No, rather I drank honey at Zaynab bint Jahsh's, and I will not go back to it.\"",
+            "bn": "মধুর ঘটনাটি বুখারী তাঁর সহীহ গ্রন্থের তালাক অধ্যায়ে (৫২৬৭) উবাইদ ইবন উমাইরের সূত্রে খোদ আয়েশা (রাঃ) থেকে বর্ণনা করেছেন: \"নবী ﷺ যয়নব বিনতে জাহশের কাছে কিছুক্ষণ থাকতেন এবং তাঁর ঘরে মধু পান করতেন। আমি আর হাফসা পরস্পর ঠিক করলাম, নবী ﷺ আমাদের যার কাছেই আসবেন, সে বলবে: আমি আপনার কাছ থেকে মাগাফীরের গন্ধ পাচ্ছি, আপনি কি মাগাফীর খেয়েছেন? তিনি তাঁদের একজনের কাছে গেলে সেই স্ত্রী তাঁকে ঠিক সে কথাই বললেন। তিনি বললেন: না, বরং আমি যয়নব বিনতে জাহশের কাছে মধু পান করেছি, আর আমি আর কখনো তা পান করব না।"
+          },
+          {
+            "en": "The narration goes on: \"Then there came down: O Prophet, why do you forbid what Allah has made lawful for you, up to If you two turn to Allah, for 'A'ishah and Hafsah; and When the Prophet confided to one of his wives a statement, for his saying: Rather, I drank honey.\" Al-Bukhari placed it in his Sahih, which is his own judgement of it. In his chapter on this surah (4912), the same account through another student of Ibn Jurayj ends with the words: and I have sworn; do not tell anyone of it.",
+            "bn": "বর্ণনাটি এরপর বলে: \"তখন নাযিল হলো: হে নবী, আল্লাহ তোমার জন্য যা হালাল করেছেন, তা তুমি হারাম করছ কেন, থেকে 'তোমরা দুজন যদি আল্লাহর দিকে ফিরে আস' পর্যন্ত, যা আয়েশা ও হাফসাকে উদ্দেশ করে। আর 'যখন নবী তাঁর এক স্ত্রীকে গোপনে একটি কথা বলেছিলেন', তা তাঁর এই কথার ব্যাপারে: বরং আমি মধু পান করেছি।\" বুখারী এটিকে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন, আর এটাই এ সম্পর্কে তাঁর নিজের রায়। এ সূরার অধ্যায়ে (৪৯১২) ইবন জুরাইজের আরেক ছাত্রের সূত্রে একই ঘটনা শেষ হয়েছে এই কথায়: আর আমি কসম খেয়েছি, কাউকে এ কথা বলো না।"
+          },
+          {
+            "en": "Maghafir, al-Qurtubi explains, is a plant or a gum with a changed smell and some sweetness in it. He adds that the Prophet ﷺ liked a good scent to be found on him and disliked a bad odour, because of his intimate converse with the angel. Ma'arif al-Qur'an says why he asked for the matter to be kept quiet: he did not want Zaynab's (RA) feelings to be hurt. A note in it, signed by Muhammad Taqi Usmani, adds that the wives' words were put as a question, and so were not a false statement.",
+            "bn": "কুরতুবী জানান, মাগাফীর হলো এক ধরনের গাছড়া বা আঠা, যার গন্ধ বিকৃত, তবে তাতে খানিকটা মিষ্টতা আছে। তিনি আরও বলেন, নবী ﷺ পছন্দ করতেন তাঁর কাছ থেকে সুগন্ধ পাওয়া যাক, আর অপছন্দ করতেন দুর্গন্ধ, কারণ ফেরেশতার সঙ্গে তাঁর একান্ত কথোপকথন হতো। ব্যাপারটা গোপন রাখতে কেন বলেছিলেন, তার কারণ মাআরিফুল কুরআন জানায়: তিনি চাননি যয়নব (রাঃ)-এর মনে কষ্ট লাগুক। এতে মুহাম্মাদ তাকী উসমানীর স্বাক্ষরিত একটি টীকা যোগ করে, স্ত্রীদের কথাগুলো ছিল প্রশ্নের আকারে, তাই সেগুলো মিথ্যা বক্তব্য ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Report Naming Mariyah",
+          "bn": "মারিয়ার নাম যে বর্ণনায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records that the scholars differed over what the lawful thing was. The first view he gives is that it was Mariyah (RA), his Coptic slave-woman, whom he made unlawful to himself with an oath not to come near her, seeking the pleasure of Hafsah bint 'Umar (RA), who had felt jealousy because the day and the room were hers. He carries it from Zayd ibn Aslam, Masruq, ash-Sha'bi, Qatada and ad-Dahhak, and from Ibn 'Abbas (RA) through a chain in which 'Umar (RA) names the two wives of 66:4 as 'A'ishah and Hafsah.",
+            "bn": "তাবারী জানান, হালাল জিনিসটা আসলে কী ছিল, তা নিয়ে আলেমদের মধ্যে মতভেদ আছে। প্রথম মত হিসেবে তিনি বলেন, সেটা ছিলেন তাঁর কিবতী দাসী মারিয়া (রাঃ)। তাঁর কাছে না যাওয়ার কসম খেয়ে নবী ﷺ তাঁকে নিজের উপর হারাম করেছিলেন। উদ্দেশ্য ছিল হাফসা বিনতে উমর (রাঃ)-কে সন্তুষ্ট করা, কারণ দিনটি আর ঘরটি ছিল হাফসার, তাই তাঁর মনে ঈর্ষা জেগেছিল। এ মত তিনি এনেছেন যায়দ ইবন আসলাম, মাসরুক, শা'বী, কাতাদা ও দাহহাক থেকে। ইবন আব্বাস (রাঃ) থেকেও এনেছেন এমন এক সূত্রে, যেখানে উমর (রাঃ) ৬৬:৪ আয়াতের দুই স্ত্রীর নাম বলেন: আয়েশা ও হাফসা।"
+          },
+          {
+            "en": "Ibn Kathir opens his commentary by saying that the cause of revelation of this surah's opening is disputed, and gives this view first. He cites an-Nasa'i from Anas (RA), and the wording in an-Nasa'i's Sunan (3959) is: \"The Messenger of Allah ﷺ had a slave-woman with whom he had conjugal relations, and 'A'ishah and Hafsah kept at him until he made her unlawful to himself. Then Allah, Mighty and Majestic, revealed: O Prophet, why do you forbid what Allah has made lawful for you, to the end of the verse.\" The page fetched shows no grading from an-Nasa'i, so none is given here.",
+            "bn": "ইবন কাসীর তাঁর তাফসীর শুরু করেন এই কথা দিয়ে যে, সূরার প্রথম অংশ নাযিলের কারণ নিয়ে মতভেদ আছে, আর প্রথমে এই মতটিই আনেন। তিনি আনাস (রাঃ) থেকে নাসাঈর বর্ণনা উদ্ধৃত করেন। নাসাঈর সুনানে (৩৯৫৯) বর্ণনাটির ভাষা এই: \"রাসূলুল্লাহ ﷺ-এর একজন দাসী ছিলেন, যাঁর সঙ্গে তাঁর দাম্পত্য সম্পর্ক ছিল। আয়েশা ও হাফসা তাঁকে বারবার বলতে থাকলেন, শেষে তিনি তাঁকে নিজের উপর হারাম করে নিলেন। তখন মহিমান্বিত, মহান আল্লাহ নাযিল করলেন: হে নবী, আল্লাহ তোমার জন্য যা হালাল করেছেন, তা তুমি হারাম করছ কেন, আয়াতের শেষ পর্যন্ত।\" যে পৃষ্ঠাটি দেখা হয়েছে, তাতে নাসাঈর কোনো মান নির্ণয় নেই, তাই এখানেও কোনো মান উল্লেখ করা হলো না।"
+          },
+          {
+            "en": "Al-Qurtubi identifies Mariyah (RA) as the mother of Ibrahim, given to the Prophet ﷺ by al-Muqawqis, ruler of Alexandria. On her report he quotes Ibn al-'Arabi: it is comparatively better in its chain and closer in meaning, but it was not recorded in the Sahih, and it has been narrated mursal, with a link missing from its chain. Several of these reports, in at-Tabari and Ibn Kathir, end with the Prophet ﷺ expiating his oath and returning to his slave-woman, as 66:2 allowed him.",
+            "bn": "কুরতুবী জানান, মারিয়া (রাঃ) ছিলেন ইবরাহীমের মা। আলেকজান্দ্রিয়ার শাসক মুকাওকিস তাঁকে নবী ﷺ-এর কাছে উপহার হিসেবে পাঠিয়েছিলেন। এ বর্ণনা সম্পর্কে তিনি ইবনুল আরাবীর মন্তব্য উদ্ধৃত করেন: সনদের দিক থেকে এটি তুলনামূলক ভালো, অর্থের দিক থেকেও বেশি কাছাকাছি। তবে এটি সহীহ গ্রন্থে সংকলিত হয়নি, আর এসেছে মুরসাল হিসেবে, অর্থাৎ সনদের একটি কড়ি অনুপস্থিত। তাবারী ও ইবন কাসীরের কয়েকটি বর্ণনা শেষ হয় এভাবে: নবী ﷺ কসমের কাফফারা দিলেন এবং ৬৬:২ আয়াতের দেওয়া সুযোগে আবার দাসীর কাছে ফিরে গেলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Several Accounts, One Question",
+          "bn": "বর্ণনা অনেক, প্রশ্ন একটাই"
+        },
+        "p": [
+          {
+            "en": "A third group in at-Tabari said it was a drink the Prophet ﷺ liked; he cites 'Abdullah ibn Shaddad and Ibn Abi Mulayka, each saying the verse came down about a drink. Then he gives his own judgement, and it declines to choose. What the Prophet ﷺ forbade himself was something Allah had made lawful to him; it may have been his slave-woman, it may have been a drink, it may have been something else. Whichever it was, it was the forbidding of something lawful, for which Allah reproached him, and He showed him how to release the oath he had sworn with it.",
+            "bn": "তাবারীর উল্লেখ করা তৃতীয় দলের মতে, এটা ছিল এমন এক পানীয় যা নবী ﷺ পছন্দ করতেন। তিনি আবদুল্লাহ ইবন শাদ্দাদ ও ইবন আবী মুলাইকার কথা আনেন। দুজনেই বলেছেন, আয়াতটি নাযিল হয়েছে একটি পানীয় নিয়ে। এরপর তাবারী নিজের রায় দেন, আর সেখানে তিনি কোনো একটি বেছে নেন না। নবী ﷺ নিজের উপর যা হারাম করেছিলেন, আল্লাহ তা তাঁর জন্য হালাল করেছিলেন। হতে পারে সেটা তাঁর দাসী, হতে পারে কোনো পানীয়, হতে পারে অন্য কিছু। যা-ই হোক, সেটা ছিল হালাল জিনিস হারাম করা। এ জন্যই আল্লাহ তাঁকে অনুযোগ করলেন, আর সঙ্গে খাওয়া কসম থেকে মুক্ত হওয়ার পথ দেখিয়ে দিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi sets out three views and weighs them. The soundest, he says, is the first, the honey; the weakest is the middle view, that it concerned a woman who offered herself to the Prophet ﷺ and whom he did not accept for his wives' sake. His passage then calls the honey account correct and says the verse came down concerning all of it. Near the end he adds that most commentators hold it came down about Hafsah (RA) and the slave-woman, citing ath-Tha'labi. Al-Baghawi, who carries both honey reports through al-Bukhari, glosses the lawful thing as the honey and Mariyah together.",
+            "bn": "কুরতুবী তিনটি মত সাজিয়ে সেগুলো যাচাই করেন। তাঁর মতে সবচেয়ে বিশুদ্ধ প্রথমটি, অর্থাৎ মধুর ঘটনা। সবচেয়ে দুর্বল মাঝেরটি, যেখানে বলা হয় এক নারী নিজেকে নবী ﷺ-এর কাছে সঁপে দিতে চেয়েছিলেন আর তিনি স্ত্রীদের কথা ভেবে তাঁকে গ্রহণ করেননি। এরপর তাঁর আলোচনা মধুর বর্ণনাকেই সঠিক বলে, এবং বলে আয়াতটি সবগুলো ঘটনা নিয়েই নাযিল হয়েছে। শেষের দিকে তিনি সা'লাবীর বরাতে যোগ করেন, অধিকাংশ মুফাসসিরের মতে আয়াতটি নাযিল হয়েছে হাফসা (রাঃ) ও সেই দাসীর ঘটনায়। বাগাভী বুখারীর সূত্রে মধুর দুটি বর্ণনাই আনেন, আর হালাল জিনিসটির ব্যাখ্যা দেন মধু ও মারিয়া, দুটোই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing Bayan al-Qur'an, suggests that several incidents of a similar kind may have taken place before the verses came. The disagreement is real, and it is kept here as the commentators left it, with no position taken. What does not change across the accounts is the verse itself: something lawful was given up, the motive was to please his wives, and the question came from his Lord, Who closed it on forgiveness and mercy.",
+            "bn": "মাআরিফুল কুরআন বায়ানুল কুরআনের বরাতে বলে, হতে পারে একই ধরনের কয়েকটি ঘটনা ঘটার পর আয়াতগুলো নাযিল হয়েছিল। মতভেদটি সত্যিকারের। মুফাসসিরগণ যেভাবে রেখে গেছেন, এখানেও সেভাবেই রাখা হলো, কোনো পক্ষ নেওয়া হলো না। তবে সব বর্ণনাতেই আয়াতের কথা একই থাকে। একটি হালাল জিনিস ছেড়ে দেওয়া হয়েছিল, উদ্দেশ্য ছিল স্ত্রীদের খুশি করা, আর প্রশ্নটি এসেছিল তাঁর রবের কাছ থেকে, যিনি তা শেষ করেছেন ক্ষমা ও রহমতের কথায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ending on Forgiveness",
+          "bn": "শেষ কথা ক্ষমা ও রহমত"
+        },
+        "p": [
+          {
+            "en": "Wa-llahu ghafurun rahim: and Allah is Forgiving, Merciful. Ma'arif al-Qur'an calls the opening question loving, posed out of compassion, and says the closing phrase removes any suspicion that a major error had been committed: even granting it for argument's sake, Allah is Forgiving and Merciful. It adds that forbidding oneself a lawful thing for a genuine need is permissible and no sin; here it was done only to please his wives, which, it says, he was not obliged to do.",
+            "bn": "ওয়াল্লাহু গাফূরুর রাহীম: আর আল্লাহ ক্ষমাশীল, দয়াময়। মাআরিফুল কুরআন শুরুর প্রশ্নটিকে বলে মমতাভরা প্রশ্ন, যা করা হয়েছে স্নেহের জায়গা থেকে। তার মতে শেষের বাক্যাংশ এই সন্দেহ দূর করে যে কোনো বড় ভুল হয়ে গেছে। তর্কের খাতিরে তা মেনে নিলেও আল্লাহ ক্ষমাশীল, দয়াময়। সে আরও বলে, সত্যিকারের প্রয়োজনে নিজের জন্য কোনো হালাল জিনিস ছেড়ে দেওয়া জায়েয, তাতে গুনাহ নেই। এখানে তা করা হয়েছিল শুধু স্ত্রীদের খুশি করতে, আর মাআরিফুল কুরআনের ভাষায়, সেটা করা তাঁর জন্য জরুরি ছিল না।"
+          },
+          {
+            "en": "Al-Qurtubi reads the two names closely: Forgiving, for what called for the reproach; Merciful, in lifting the blame. He records that some called it a minor slip, and answers that the correct view is a reproach for leaving what was better, and that he had no sin, minor or major. As-Sa'di calls the ending a plain declaration that Allah forgave His Messenger ﷺ, lifted the blame from him and showed him mercy. At-Tabari glosses it: He has forgiven you your forbidding yourself what He made lawful. This article adds no judgement of its own.",
+            "bn": "কুরতুবী নাম দুটি খুঁটিয়ে পড়েন: গাফূর, যে কারণে অনুযোগ এসেছিল তা ক্ষমা করার জন্য; রাহীম, দায় তুলে নেওয়ার জন্য। তিনি উল্লেখ করেন, কেউ কেউ একে ছোট একটি ত্রুটি বলেছেন। এর জবাবে তিনি বলেন, সঠিক মত হলো এটা ছিল উত্তম কাজটি ছেড়ে দেওয়ার জন্য অনুযোগ, আর তাঁর কোনো গুনাহ ছিল না, ছোটও না, বড়ও না। সা'দী শেষাংশকে বলেন স্পষ্ট ঘোষণা: আল্লাহ তাঁর রাসূল ﷺ-কে ক্ষমা করেছেন, তাঁর উপর থেকে দায় তুলে নিয়েছেন, তাঁর প্রতি রহম করেছেন। তাবারীর ব্যাখ্যা: আল্লাহ যা তোমার জন্য হালাল করেছিলেন, তা নিজের উপর হারাম করাকে তিনি ক্ষমা করে দিয়েছেন। এ লেখা নিজের পক্ষ থেকে কোনো রায় যোগ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Release for Every Oath",
+          "bn": "প্রতিটি কসমের মুক্তির পথ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the line to the next verse: that forbidding became the cause of a general ruling for the whole community, on all oaths: Allah has already ordained for you the dissolution of your oaths (66:2). Ibn 'Abbas (RA), in a report at-Tabari carries, explains it: when the Prophet ﷺ and the believers forbid themselves something lawful, they are to expiate by feeding ten poor people, clothing them, or freeing a slave, and this does not enter into divorce. Al-Qurtubi and Ma'arif al-Qur'an report that the Prophet ﷺ expiated by freeing a slave.",
+            "bn": "সা'দী পরের আয়াতের সঙ্গে সংযোগটা দেখান: নবী ﷺ-এর সেই হারাম করাটাই গোটা উম্মতের জন্য একটি সাধারণ বিধানের কারণ হয়ে গেল, আর তা সব কসমের ব্যাপারে: আল্লাহ তোমাদের জন্য তোমাদের কসম থেকে মুক্ত হওয়ার বিধান দিয়েছেন (৬৬:২)। তাবারীর আনা এক বর্ণনায় ইবন আব্বাস (রাঃ) এর ব্যাখ্যা দেন: নবী ﷺ ও মু'মিনরা আল্লাহর হালাল করা কিছু নিজেদের উপর হারাম করলে কাফফারা দেবেন। ১০ জন মিসকীনকে খাওয়াবেন, বা তাদের কাপড় দেবেন, বা একজন দাস মুক্ত করবেন। আর এটা তালাকের মধ্যে পড়ে না। কুরতুবী ও মাআরিফুল কুরআন জানায়, নবী ﷺ একজন দাস মুক্ত করে কাফফারা দিয়েছিলেন।"
+          },
+          {
+            "en": "Al-Bukhari records in his chapter on this surah (4911), from Sa'id ibn Jubayr, that Ibn 'Abbas said of declaring something unlawful: \"He makes expiation.\" And Ibn 'Abbas said: \"There has certainly been for you in the Messenger of Allah an excellent example.\" That is his own ruling, not a saying of the Prophet ﷺ. On a man telling his wife you are unlawful to me, al-Qurtubi lists eighteen views among the scholars, from nothing at all to a triple divorce, because no explicit text settles it. Such cases belong with a qualified scholar.",
+            "bn": "বুখারী এ সূরার অধ্যায়ে (৪৯১১) সাঈদ ইবন জুবাইরের সূত্রে বর্ণনা করেছেন, কোনো কিছু হারাম ঘোষণা করা সম্পর্কে ইবন আব্বাস বলেছেন: \"সে কাফফারা দেবে।\" আর ইবন আব্বাস বলেছেন: \"অবশ্যই তোমাদের জন্য আল্লাহর রাসূলের মধ্যে রয়েছে উত্তম আদর্শ।\" এটা ইবন আব্বাসের নিজের ফতোয়া, নবী ﷺ-এর বাণী নয়। কেউ স্ত্রীকে 'তুমি আমার জন্য হারাম' বললে কী হবে, সে বিষয়ে কুরতুবী আলেমদের আঠারোটি মত তুলে ধরেন। কোনো মতে কিছুই হয় না, কোনো মতে তিন তালাক। কারণ বিষয়টি মীমাংসা করার মতো স্পষ্ট কোনো নস নেই। এমন প্রশ্ন নিয়ে যোগ্য আলেমের কাছে যাওয়াই নিয়ম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pleasing Without Redrawing Limits",
+          "bn": "সীমা না বদলে মন রাখা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, referring back to 5:87, sets out three cases. Holding a lawful thing unlawful as a matter of religion is disbelief; banning it by oath without need is sinful, and the oath should be broken and expiated; giving it up by resolve alone is an innovation if done for reward, and permissible if done, say, as treatment. Al-Qurtubi quotes az-Zajjaj: no one may forbid what Allah has made lawful. The verse does not mock the motive. Wanting peace at home is good; the question is only about the means.",
+            "bn": "মাআরিফুল কুরআন ৫:৮৭ আয়াতের আলোচনার দিকে ইঙ্গিত করে তিনটি অবস্থা আলাদা করে। দ্বীনের বিধান মনে করে হালালকে হারাম বিশ্বাস করা কুফর। প্রয়োজন ছাড়া কসম খেয়ে নিজের উপর তা নিষিদ্ধ করা গুনাহ, সে কসম ভেঙে কাফফারা দেওয়া উচিত। আর কসম ছাড়া শুধু সংকল্প করে ছেড়ে দেওয়া সওয়াবের নিয়তে হলে বিদআত, চিকিৎসার মতো কারণে হলে জায়েয। কুরতুবী যাজ্জাজের কথা উদ্ধৃত করেন: আল্লাহ যা হালাল করেছেন, তা হারাম করার অধিকার কারও নেই। আয়াতটি উদ্দেশ্যকে তুচ্ছ করে না। সংসারে শান্তি চাওয়া ভালো, প্রশ্ন কেবল পথ নিয়ে।"
+          },
+          {
+            "en": "One more thing needs saying plainly. These verses speak of the Prophet's ﷺ household, the Mothers of the Believers, and the honey account reaches us from 'A'ishah (RA) herself. The Qur'an records this for teaching, and a few verses later it calls them to turn to Allah. The verse licenses no contempt for any of his wives, no gossip about his home, and no speech about the Prophet ﷺ beyond what the commentators said. It describes what it describes; the reader's share is the lesson, not the story's private details.",
+            "bn": "আরও একটি কথা সোজাসুজি বলা দরকার। এ আয়াতগুলো নবী ﷺ-এর পরিবারের কথা বলে, যাঁরা উম্মুল মু'মিনীন, মু'মিনদের মা। মধুর ঘটনাটি আমাদের কাছে পৌঁছেছে খোদ আয়েশা (রাঃ)-এর মুখ থেকে। কুরআন এটা উল্লেখ করেছে শিক্ষা দেওয়ার জন্য, আর কয়েক আয়াত পরেই তাঁদের আল্লাহর দিকে ফিরে আসার আহ্বান জানিয়েছে। নবী ﷺ-এর কোনো স্ত্রীর প্রতি অবজ্ঞা, তাঁর ঘর নিয়ে কানাকানি, কিংবা মুফাসসিরগণ যা বলেছেন তার বাইরে নবী ﷺ সম্পর্কে কোনো মন্তব্য, এর কোনোটিরই অনুমতি আয়াতটি দেয় না। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে। পাঠকের ভাগে আছে শিক্ষাটুকু, ঘটনার একান্ত খুঁটিনাটি নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "66:6": {
     "sections": [
       {

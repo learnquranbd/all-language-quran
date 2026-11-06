@@ -28489,6 +28489,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every drop you drink is brought to you by Allah alone, so drink it with thanks and rely on Him, not on the well.",
     "lessonBn": "যে পানি আপনি পান করেন তার প্রতিটি ফোঁটা আল্লাহ একাই আপনার কাছে পৌঁছে দেন, তাই শোকরের সঙ্গে পান করুন আর কূপের উপর নয়, তাঁর উপর ভরসা রাখুন।"
+  },
+  "66:1": {
+    "reflectionEn": "The surah opens with a question, and it is put to the Prophet ﷺ by his title: why do you make unlawful for yourself what Allah has made lawful for you? The verse names the motive as well, seeking to please your wives. A kind motive, and still the question comes, because what is lawful is Allah's permission, not a coin to spend on keeping the peace. Then, before any ruling follows, it closes on Forgiving and Merciful. I also give things up so that others stay content. Some of that is generosity. Some of it may be quietly redrawing what Allah allowed, so that nobody is upset with me.",
+    "reflectionBn": "সূরাটি শুরু হয় একটি প্রশ্ন দিয়ে, আর প্রশ্নটি করা হয় নবী ﷺ-কে তাঁর উপাধি ধরে ডেকে: আল্লাহ যা তোমার জন্য হালাল করেছেন, তা তুমি নিজের উপর হারাম করছ কেন? উদ্দেশ্যটাও আয়াত নিজেই বলে দেয়: স্ত্রীদের সন্তুষ্টি চাওয়া। উদ্দেশ্য কোমল, তবু প্রশ্ন আসে। কারণ হালাল হলো আল্লাহর দেওয়া অনুমতি, সংসারে শান্তি কেনার মুদ্রা নয়। কোনো বিধান আসার আগেই আয়াত শেষ হয় ক্ষমাশীল ও দয়াময় নামে। আমিও অন্যদের খুশি রাখতে অনেক কিছু ছেড়ে দিই। তার কিছুটা উদারতা। আর কিছুটা হয়তো চুপচাপ আল্লাহর দেওয়া অনুমতির সীমা নতুন করে আঁকা, যাতে কেউ আমার উপর নারাজ না হয়।",
+    "pointsEn": [
+      "When I give something up to keep the peace at home, is it a gift I choose to make, or have I begun to treat it as forbidden?",
+      "Have I ever sworn, in anger or to end an argument, never to touch something Allah made lawful, and left that oath unsettled?",
+      "Whose approval decides, in practice, what I call halal and haram in my own life?",
+      "When I have to correct someone I love, do I begin with honour and end with mercy, as this verse does?",
+      "When the Prophet's ﷺ household is mentioned in the Qur'an, do I listen with reverence, or with the appetite of gossip?"
+    ],
+    "pointsBn": [
+      "সংসারে শান্তি রাখতে যখন কিছু ছেড়ে দিই, সেটা কি আমার স্বেচ্ছায় দেওয়া উপহার, নাকি আমি সেটাকে নিষিদ্ধ ভাবতে শুরু করেছি?",
+      "রাগের মাথায় বা ঝগড়া থামাতে আল্লাহর হালাল করা কোনো জিনিস আর কখনো ছোঁব না বলে কি কসম খেয়েছি, আর সেই কসমের ফয়সালা না করেই ফেলে রেখেছি?",
+      "বাস্তবে আমার জীবনে কোনটা হালাল আর কোনটা হারাম, তা ঠিক করে কার সন্তুষ্টি?",
+      "প্রিয় কাউকে শোধরাতে হলে আমি কি সম্মান দিয়ে শুরু করে রহমত দিয়ে শেষ করি, যেমন এ আয়াত করে?",
+      "কুরআনে যখন নবী ﷺ-এর পরিবারের কথা আসে, আমি কি তা শুনি শ্রদ্ধা নিয়ে, নাকি গল্পগুজবের স্বাদ নিয়ে?"
+    ],
+    "lessonEn": "Pleasing those you love is good, but never by forbidding what Allah has made lawful; His permission is not yours to withdraw.",
+    "lessonBn": "প্রিয়জনকে খুশি রাখা ভালো, কিন্তু আল্লাহর হালাল করা জিনিস হারাম করে নয়। তাঁর দেওয়া অনুমতি ফিরিয়ে নেওয়ার অধিকার আপনার নেই।"
   }
 };
 
