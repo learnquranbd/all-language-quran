@@ -587,6 +587,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "79:16": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words Hung on a Question",
+          "bn": "এক প্রশ্নে বাঁধা ছয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "Idh nadahu rabbuhu bil-wadi l-muqaddasi tuwa: when his Lord called him in the sacred valley of Tuwa. The verse is six Arabic words and does not stand as a sentence on its own. Idh, when, hangs it on the question of 79:15: has the account of Musa (AS) reached you? At-Tabari reads the two as one: has the account of Musa son of 'Imran come to you, O Muhammad, and have you heard his news, at the time his Lord spoke with him in the sacred valley?",
+            "bn": "ইয নাদাহু রব্বুহু বিল-ওয়াদিল মুকাদ্দাসি তুয়া: যখন তাঁর রব তাঁকে পবিত্র উপত্যকা তুয়ায় ডাকলেন। আরবিতে আয়াতটি ছয়টি শব্দের, আর একা দাঁড়িয়ে পূর্ণ বাক্য হয় না। শুরুর ইয, মানে যখন, একে বেঁধে দেয় ৭৯:১৫ আয়াতের প্রশ্নের সঙ্গে: মূসা (আঃ)-এর বৃত্তান্ত কি আপনার কাছে পৌঁছেছে? তাবারী দুটি আয়াতকে একটি বাক্য হিসেবে পড়েন। হে মুহাম্মাদ, ইমরানের পুত্র মূসার বৃত্তান্ত কি আপনার কাছে এসেছে? তাঁর খবর কি শুনেছেন, যখন পবিত্র উপত্যকায় তাঁর রব তাঁর সঙ্গে কথা বলেছিলেন?"
+          },
+          {
+            "en": "The surah has just answered the deniers of 79:10 to 79:12 with a single cry and a waking on open ground (79:13 and 79:14). Now it turns to a story. The abridged English Ibn Kathir explains the turn: Allah tells His Messenger ﷺ about Musa, sent to Fir'awn and aided with miracles, and Fir'awn persisted until Allah seized him. Such, he says, is the end of whoever opposes the Prophet ﷺ, which is why the story closes with: in this is a lesson for whoever fears (79:26).",
+            "bn": "এর ঠিক আগে সূরাটি ৭৯:১০ থেকে ৭৯:১২ আয়াতের অস্বীকারকারীদের জবাব দিয়েছে একটিমাত্র ধমক আর খোলা ময়দানে জেগে ওঠার কথা বলে (৭৯:১৩ ও ৭৯:১৪)। এবার শুরু হয় একটা কাহিনি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই মোড়ের ব্যাখ্যা দেয়। আল্লাহ তাঁর রাসূল ﷺ-কে মূসার কথা জানাচ্ছেন। মূসাকে পাঠানো হয়েছিল ফেরাউনের কাছে, মুজিযা দিয়ে সাহায্য করা হয়েছিল। তবু ফেরাউন অটল রইল, শেষে আল্লাহ তাকে পাকড়াও করলেন। নবী ﷺ-এর বিরোধিতা যে করে, তার পরিণতিও এমন। তাই কাহিনির শেষে আসে: যে ভয় করে, তার জন্য এতে শিক্ষা আছে (৭৯:২৬)।"
+          },
+          {
+            "en": "Maududi, in Tafhim al-Qur'an, gives a related reason: the Makkans' denial of the Hereafter was really a denial of Allah's Messenger, so the story comes before further arguments for the Hereafter, as a warning of where resisting a messenger ends. He also notes that the call is told briefly here and at length elsewhere, pointing to 20:9 to 20:48, 26:10 to 26:17, 27:7 to 27:12 and 28:29 to 28:35. This article stays with the six words.",
+            "bn": "তাফহীমুল কুরআনে মাওদূদী কাছাকাছি একটা কারণ দেখান। মক্কাবাসীরা আখিরাত অস্বীকার করত, আর সেটা আসলে ছিল আল্লাহর রাসূলকে অস্বীকার করা। তাই আখিরাতের পক্ষে আরও যুক্তি দেওয়ার আগে এ কাহিনি এসেছে, সতর্ক করে দিতে যে রাসূলের বিরুদ্ধে দাঁড়ানোর পরিণাম কী। তিনি এটাও বলেন, ডাকের ঘটনাটি এখানে সংক্ষেপে এসেছে, বিস্তারিত এসেছে অন্য জায়গায়। তিনি দেখান ২০:৯ থেকে ২০:৪৮, ২৬:১০ থেকে ২৬:১৭, ২৭:৭ থেকে ২৭:১২ আর ২৮:২৯ থেকে ২৮:৩৫। এই লেখা থাকবে শুধু এই ছয়টি শব্দ নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called Out, Then Spoken With",
+          "bn": "ডাক, তারপর কথোপকথন"
+        },
+        "p": [
+          {
+            "en": "Nadahu: He called him. The commentators gloss the verb in their own words, and the words are worth setting side by side. Ibn Kathir writes kallamahu nida'an, He spoke to him by way of a call; the abridged English puts it as, He called out speaking to him. Al-Jalalayn keeps the verse's own verb, called out to him, and runs straight on into the next verse with: and He said. None of them stops to describe the call beyond these words, and this article does not either.",
+            "bn": "নাদাহু: তিনি তাঁকে ডাকলেন। তাফসীরকারেরা ক্রিয়াটির ব্যাখ্যা দেন নিজ নিজ ভাষায়, আর সেগুলো পাশাপাশি রাখলে কাজে আসে। ইবন কাসীর লেখেন কাল্লামাহু নিদাআন, অর্থাৎ ডাকের মাধ্যমে তিনি তাঁর সঙ্গে কথা বললেন। সংক্ষিপ্ত ইংরেজি সংস্করণে কথাটা দাঁড়ায়: তিনি ডেকে তাঁর সঙ্গে কথা বললেন। জালালাইন আয়াতের নিজের ক্রিয়াটাই রাখেন, তাঁকে ডাকলেন, তারপর সোজা পরের আয়াতে চলে যান এই বলে: আর তিনি বললেন। এর বাইরে ডাকের বিবরণ দিতে তাঁদের কেউ থামেননি। এই লেখাও থামবে না।"
+          },
+          {
+            "en": "At-Tabari, paraphrasing, does not repeat nada at all. He writes najahu rabbuhu, his Lord spoke with him in private converse, a verb from the root of the Qur'an's own word in 19:52: We called him from the right side of the mount and brought him near, confiding to him. There the calling and the confiding sit in one verse. At-Tustari, on quranx, reads the call in our verse as being so that Musa would be closer to Him. Each of these is that commentator's wording.",
+            "bn": "তাবারী নিজের ভাষায় বলতে গিয়ে নাদা শব্দটা আর ব্যবহারই করেননি। তিনি লেখেন নাজাহু রব্বুহু, অর্থাৎ তাঁর রব তাঁর সঙ্গে একান্তে কথা বললেন। ক্রিয়াটি এসেছে সেই ধাতু থেকে, যা থেকে এসেছে ১৯:৫২ আয়াতের শব্দ: আমি তাকে তূর পাহাড়ের ডান দিক থেকে ডাকলাম, আর গোপনে কথা বলার জন্য কাছে টেনে নিলাম। সেখানে ডাকা আর একান্ত কথা, দুটোই একটি আয়াতে। কুরআনএক্স-এ তুসতারীর ব্যাখ্যায় আমাদের আয়াতের ডাক এসেছে মূসা যেন তাঁর আরও কাছে যান, সেজন্য। প্রতিটি কথা সংশ্লিষ্ট তাফসীরকারের নিজের।"
+          },
+          {
+            "en": "As-Sa'di looks at the place through what happened in it. Tuwa, he says, is the spot where Allah spoke to Musa, granted him the favour of the message, and singled him out for revelation and for being chosen. The next verses in Ta-Ha give the same order in the Qur'an's own words: I am your Lord (20:12), then, I have chosen you, so listen to what is revealed (20:13). Before any errand is named, the one called is told who is calling and that he has been chosen.",
+            "bn": "সা'দী জায়গাটাকে দেখেন সেখানে কী ঘটেছিল তা দিয়ে। তাঁর ভাষায়, তুয়া সেই জায়গা যেখানে আল্লাহ মূসার সঙ্গে কথা বলেছেন, রিসালাত দিয়ে তাঁকে অনুগ্রহ করেছেন, আর ওহি ও বাছাইয়ের জন্য তাঁকে বিশেষভাবে বেছে নিয়েছেন। সূরা ত্বা-হা কুরআনের নিজের ভাষায় একই ক্রম দেখায়। প্রথমে: আমিই তোমার রব (২০:১২)। তারপর: আমি তোমাকে বেছে নিয়েছি, কাজেই যা ওহি করা হচ্ছে তা শোনো (২০:১৩)। কোনো দায়িত্বের নাম আসার আগেই যাঁকে ডাকা হলো, তাঁকে জানানো হয় কে ডাকছেন, আর তিনি যে বাছাইকৃত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purified, and Blessed",
+          "bn": "পাক করা, বরকত দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Bil-wadi l-muqaddas: in the valley made holy. The word is a passive form, a valley that has been sanctified. Ibn Kathir glosses it with one word, al-mutahhar, the purified, and the abridged English follows him. At-Tabari gives two: al-mutahhar al-mubarak, purified and blessed. He adds that he set out the scholars' sayings on the word in an earlier place and will not repeat them here. Al-Muyassar uses the same pair, the purified, blessed valley.",
+            "bn": "বিল-ওয়াদিল মুকাদ্দাস: পবিত্র করা উপত্যকায়। শব্দটি কর্মবাচ্য রূপের, অর্থাৎ এমন উপত্যকা যাকে পবিত্র করা হয়েছে। ইবন কাসীর এক শব্দে ব্যাখ্যা দেন: আল-মুতাহহার, পাক করা। সংক্ষিপ্ত ইংরেজি সংস্করণও তাঁকেই অনুসরণ করে। তাবারী দেন দুটি শব্দ: আল-মুতাহহার আল-মুবারাক, পাক ও বরকতময়। তিনি জানান, শব্দটি নিয়ে আলেমদের বক্তব্য আগেই এক জায়গায় তুলে ধরেছেন, এখানে আর পুনরাবৃত্তি করবেন না। মুয়াসসারও একই জোড়া ব্যবহার করে: পাক ও বরকতময় উপত্যকা।"
+          },
+          {
+            "en": "One small point on where that last gloss sits. The quran.com text of al-Muyassar files its explanation of our verse under 79:15, together with the question, and the slot for 79:16 carries its paraphrase of 79:17 to 79:19, the order to go to Fir'awn. The blessing in at-Tabari's gloss also has a Qur'anic echo: in 28:30 the same call is placed in al-buq'a al-mubaraka, the blessed spot, from the tree. This article only notes the shared word; the scene belongs to that verse.",
+            "bn": "শেষ ব্যাখ্যাটি কোথায় আছে, সে বিষয়ে ছোট একটা কথা। quran.com-এ মুয়াসসার আমাদের আয়াতের ব্যাখ্যা রেখেছে ৭৯:১৫ আয়াতের ঘরে, প্রশ্নটার সঙ্গে মিলিয়ে। আর ৭৯:১৬-এর ঘরে আছে ৭৯:১৭ থেকে ৭৯:১৯ আয়াতের ব্যাখ্যা, অর্থাৎ ফেরাউনের কাছে যাওয়ার হুকুম। তাবারীর ব্যাখ্যার বরকতের কথাটির প্রতিধ্বনি কুরআনেও আছে। ২৮:৩০ আয়াতে একই ডাকের জায়গা বলা হয়েছে আল-বুকআতুল মুবারাকা, বরকতময় স্থান, গাছের দিক থেকে। এখানে শুধু শব্দের মিলটুকু দেখানো হলো। দৃশ্যটির আলোচনা সেই আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Most Say It Is a Name",
+          "bn": "অধিকাংশের মতে একটি নাম"
+        },
+        "p": [
+          {
+            "en": "Then tuwa, the word the commentators argue over. At-Tabari says plainly that the people of interpretation differ, and lists the first group: those who say it is the valley's name. Mujahid, through Ibn Abi Najih: tuwa is the name of the valley. Ibn Zayd: the name of the muqaddas is Tuwa. Qatada: we used to be told that it was made holy twice, and the valley's name is Tuwa. Ibn Zayd's report quotes the wording of 20:12, innaka bil-wadi l-muqaddasi tuwa, the same three words that close our verse.",
+            "bn": "এবার তুয়া, যে শব্দ নিয়ে তাফসীরকারদের মতভেদ। তাবারী সোজাসুজি বলেন, ব্যাখ্যাকারেরা এখানে ভিন্নমত পোষণ করেছেন। প্রথম দলের মতে এটা উপত্যকার নাম। ইবন আবী নাজীহের সূত্রে মুজাহিদ: তুয়া উপত্যকার নাম। ইবন যায়দ: মুকাদ্দাসের নাম তুয়া। কাতাদা: আমাদের বলা হতো, একে দুবার পবিত্র করা হয়েছে, আর উপত্যকার নাম তুয়া। ইবন যায়দের বর্ণনা উদ্ধৃত করে ২০:১২ আয়াতের শব্দ, ইন্নাকা বিল-ওয়াদিল মুকাদ্দাসি তুয়া। আমাদের আয়াতও শেষ হয়েছে ঠিক এই তিনটি শব্দে।"
+          },
+          {
+            "en": "Ibn Kathir takes this side without hesitation: Tuwa is the name of the valley, he writes, according to what is correct, as already given under Ta-Ha. Al-Jalalayn says the same in a short clause. Maududi calls it the general opinion among the commentators. Tanwir al-Miqbas, the commentary carried under Ibn 'Abbas's name, also calls it the valley's name, and adds a reason for it: it was so called because so many prophets passed through it. The meanings that follow are the ones at-Tabari, al-Qurtubi and the others report alongside it.",
+            "bn": "ইবন কাসীর দ্বিধা ছাড়াই এ মত নেন। তাঁর ভাষায়, সঠিক কথা হলো তুয়া উপত্যকার নাম, যেমন সূরা ত্বা-হায় আগে বলা হয়েছে। জালালাইন কয়েক শব্দে একই কথা বলেন। মাওদূদী একে তাফসীরকারদের সাধারণ মত বলেছেন। ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত তাফসীর তানবীরুল মিকবাসও একে উপত্যকার নাম বলে, আর একটা কারণও জুড়ে দেয়: বহু নবী এ পথ দিয়ে গিয়েছেন বলে এর এমন নাম। এর পাশাপাশি তাবারী, কুরতুবী ও অন্যরা আরও যে অর্থগুলো বর্ণনা করেছেন, সেগুলো আসছে এরপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made Holy Twice Over",
+          "bn": "দুবার পবিত্র করা"
+        },
+        "p": [
+          {
+            "en": "Qatada's report already joined the name to a second idea: the valley was made holy twice. At-Tabari gives that idea its own group. Others said, he writes, that the meaning is that the valley was sanctified tuwa, that is, twice, and he refers the reader back to his fuller treatment. He then adds that al-Hasan read the word with a kasra, tiwa, and said that blessing and sanctity were spread in it twice, a report he gives through Hushaym from 'Awf from al-Hasan.",
+            "bn": "কাতাদার বর্ণনায় নামের সঙ্গে আরেকটা ভাবনা জুড়ে গিয়েছিল: উপত্যকাটি দুবার পবিত্র করা হয়েছে। তাবারী এ ভাবনাকে আলাদা দল হিসেবে আনেন। তিনি লেখেন, অন্যরা বলেছেন অর্থ হলো উপত্যকাটিকে তুয়া পবিত্র করা হয়েছে, অর্থাৎ দুবার। বিস্তারিত আলোচনার জন্য তিনি পাঠককে আগের জায়গায় ফিরিয়ে দেন। তারপর জানান, হাসান শব্দটি পড়তেন যের দিয়ে, তিওয়া, আর বলতেন এতে বরকত ও পবিত্রতা দুবার ছড়িয়ে দেওয়া হয়েছে। বর্ণনাটি তিনি এনেছেন হুশাইম থেকে, আওফ হয়ে, হাসান পর্যন্ত।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same reading a wider base. Al-Hasan and 'Ikrima read tiwa with a kasra, he says, and it is also narrated from Abu 'Amr, in the sense of made holy time after time. He brings az-Zajjaj's evidence, a line of the poet 'Adi ibn Zayd addressed to one who blames him, where tiwan describes blame that comes again and again. Al-Qurtubi's own gloss on the line is: blame repeated upon me. On this view tuwa describes the holiness, not the place's name.",
+            "bn": "কুরতুবী এই পাঠের ভিত্তি আরও চওড়া করে দেখান। তাঁর ভাষায়, হাসান ও ইকরিমা যের দিয়ে তিওয়া পড়েছেন, আবু আমর থেকেও এমন বর্ণিত আছে। অর্থ: বারবার পবিত্র করা। প্রমাণ হিসেবে তিনি আনেন যাজ্জাজের উদ্ধৃতি, কবি আদী ইবন যায়দের একটি পঙ্‌ক্তি। কবি সেখানে তাঁর তিরস্কারকারীকে সম্বোধন করছেন, আর তিওয়ান শব্দে বোঝানো হয়েছে এমন তিরস্কার, যা ফিরে ফিরে আসে। পঙ্‌ক্তিটির ব্যাখ্যায় কুরতুবী নিজে বলেন: আমার উপর বারবার চাপানো তিরস্কার। এ মতে তুয়া জায়গার নাম নয়, পবিত্রতার বিবরণ।"
+          },
+          {
+            "en": "Maududi reports two further meanings beside the name. The first is the meaning just given, blessed and made holy twice, and he gives the two occasions as he has them: first when Allah spoke to Musa there, and again when Musa brought the Children of Israel out of Egypt and into it. The second is that the call came in the night, which he says follows a sense of tuwa in Arabic usage. He reports both without choosing, and no other commentary fetched for this verse mentions the night.",
+            "bn": "মাওদূদী নামের পাশাপাশি আরও দুটি অর্থ উল্লেখ করেন। প্রথমটি এটাই, দুবার বরকতময় ও পবিত্র করা। দুটি উপলক্ষ তিনি যেভাবে পেয়েছেন সেভাবে দেন। প্রথমবার যখন আল্লাহ সেখানে মূসার সঙ্গে কথা বলেন। দ্বিতীয়বার যখন মূসা বনী ইসরাঈলকে মিসর থেকে বের করে সেখানে নিয়ে আসেন। দ্বিতীয় অর্থ হলো, ডাকটি এসেছিল রাতে। তাঁর কথায়, আরবি বাকরীতিতে তুয়া শব্দের এক অর্থ থেকে এটা এসেছে। দুটোই তিনি বর্ণনা করেন কোনোটা বেছে না নিয়ে। এ আয়াতের জন্য সংগ্রহ করা অন্য কোনো তাফসীরে রাতের কথা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tread the Ground Underfoot",
+          "bn": "পা দিয়ে মাটি মাড়াও"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's second group reads tuwa as a command. Others said, he writes, that the meaning is: tread the ground barefoot. His report is from Mujahid, through Waki' from Sufyan from Ibn Jurayj, on the words innaka bil-wadi l-muqaddasi tuwa: tread the ground with your foot. So Mujahid stands in both of at-Tabari's lists, the name through Ibn Abi Najih and the command through Ibn Jurayj, and at-Tabari sets the two reports down without reconciling them here. Tanwir al-Miqbas also gives the command as a second view: tread, O Musa, on this valley with your feet, because of its goodness and grace.",
+            "bn": "তাবারীর দ্বিতীয় দল তুয়াকে পড়ে একটি নির্দেশ হিসেবে। তিনি লেখেন, অন্যরা বলেছেন অর্থ হলো: খালি পায়ে মাটি মাড়াও। এ বর্ণনা মুজাহিদের, ওয়াকী থেকে সুফয়ান হয়ে ইবন জুরাইজের সূত্রে, ইন্নাকা বিল-ওয়াদিল মুকাদ্দাসি তুয়া শব্দগুলোর ব্যাখ্যায়: পা দিয়ে মাটি মাড়াও। ফলে তাবারীর দুই তালিকাতেই মুজাহিদ আছেন। ইবন আবী নাজীহের সূত্রে নামের মত, ইবন জুরাইজের সূত্রে নির্দেশের মত। এখানে তাবারী দুটি বর্ণনা পাশাপাশি রেখেছেন, মেলানোর চেষ্টা করেননি। তানবীরুল মিকবাসও দ্বিতীয় মত হিসেবে নির্দেশটির কথা আনে: হে মূসা, এ উপত্যকার কল্যাণ ও বরকতের কারণে পা দিয়ে একে মাড়াও।"
+          },
+          {
+            "en": "The command reading sits close to the words of 20:12, so remove your sandals, but our verse does not repeat that order, and this article leaves the scene to Ta-Ha. At-Tustari goes in another direction altogether. His comment on the verse turns on tawiyan, hungry and lean: Musa had gone without food, he says, devoting himself to God in worship, and then his Lord called him so that he would be closer to Him. No other commentary fetched for this verse gives that reading, and it is reported here as his.",
+            "bn": "নির্দেশের এই ব্যাখ্যা ২০:১২ আয়াতের কথার কাছাকাছি: কাজেই তোমার জুতা খুলে ফেলো। তবে আমাদের আয়াতে সে হুকুমের পুনরাবৃত্তি নেই, আর দৃশ্যটির আলোচনা এ লেখা সূরা ত্বা-হার জন্যই রেখে দিচ্ছে। তুসতারী যান সম্পূর্ণ ভিন্ন দিকে। আয়াতের উপর তাঁর মন্তব্য ঘুরে আসে তাউইয়ান শব্দের দিকে, যার অর্থ ক্ষুধার্ত ও শীর্ণ। তাঁর কথায়, মূসা না খেয়ে থেকে নিজেকে আল্লাহর ইবাদতে সঁপে দিয়েছিলেন, তারপর তাঁর রব তাঁকে ডাকলেন, যেন তিনি আরও কাছে আসেন। এ আয়াতের জন্য সংগ্রহ করা অন্য কোনো তাফসীরে এ ব্যাখ্যা নেই। তাই এখানে এটা শুধু তাঁর মত হিসেবেই এল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tuwa, Tuwan and Tiwa",
+          "bn": "তুয়া, তুওয়ান, তিওয়া"
+        },
+        "p": [
+          {
+            "en": "The readers differ over the word's form as well. At-Tabari reports that most readers of Madinah and Basrah read tuwa with a damma and without tanwin, not declining it, while some readers of Sham and Kufah read tuwan, with a damma and tanwin. Al-Qurtubi counts three readings. Ibn Muhaysin, Ibn 'Amir and the Kufans read tuwan with tanwin, and Abu 'Ubayd preferred it because the noun is light. The rest read it without tanwin, as a shifted form like 'Umar and Quthum; the third is al-Hasan's tiwa.",
+            "bn": "শব্দটির রূপ নিয়েও কারীদের মধ্যে ভিন্নতা আছে। তাবারী জানান, মদীনা ও বসরার অধিকাংশ কারী পেশ দিয়ে তানবীন ছাড়া তুয়া পড়েছেন। আর শাম ও কূফার কিছু কারী পড়েছেন পেশ ও তানবীন দিয়ে, তুওয়ান। কুরতুবী তিনটি পাঠ গুনেছেন। ইবন মুহাইসিন, ইবন আমির ও কূফার কারীরা তানবীনসহ তুওয়ান পড়েছেন। আবু উবাইদ শব্দটি হালকা বলে এ পাঠ পছন্দ করেছেন। বাকিরা পড়েছেন তানবীন ছাড়া, উমার ও কুসামের মতো রূপান্তরিত নাম ধরে। তৃতীয় পাঠ হাসানের তিওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi also brings al-Farra', who calls Tuwa a valley and says the form is shifted from Tawin, as 'Umar is from 'Amir. He then adds that some say the damma and the kasra are simply two dialect forms of one word. Al-Jalalayn says only that the name may be read with tanwin, tuwan, or without it. The Arabic printed with this verse carries the tanwin. At-Tabari's text here names no preference, and Abu 'Ubayd's choice is reported as his.",
+            "bn": "কুরতুবী ফাররার কথাও আনেন। ফাররা তুয়াকে উপত্যকা বলেন, আর বলেন রূপটি তাউইন থেকে রূপান্তরিত, যেমন উমার এসেছে আমির থেকে। এরপর কুরতুবী যোগ করেন, কেউ কেউ বলেন পেশ আর যের একই শব্দের দুই আঞ্চলিক রূপ মাত্র। জালালাইন শুধু বলেন, নামটি তানবীনসহ তুওয়ান বা তানবীন ছাড়া, দুইভাবেই পড়া যায়। এ আয়াতের সঙ্গে ছাপা আরবি পাঠে তানবীন আছে। এখানে তাবারীর লেখায় কোনো পছন্দের কথা নেই, আর আবু উবাইদের পছন্দ তাঁর নিজের বলেই উল্লেখ করা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Report Attached Here",
+          "bn": "এ আয়াতে কোনো হাদীস নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it: not at-Tabari, al-Qurtubi, Ibn Kathir, as-Sa'di or al-Muyassar, and al-Baghawi's text on 79:16 is the verse itself and nothing more. Nor do they give an occasion of revelation for it; its setting is its place in the surah, after the reply to the deniers. The next verse names Fir'awn as one who transgressed. It describes that ruler as the text describes him, and licenses nothing against any living person or community.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তাবারী, কুরতুবী, ইবন কাসীর, সা'দী বা মুয়াসসার, কেউ নয়। আর ৭৯:১৬-এর ঘরে বাগাভীর লেখায় আয়াতটুকুই আছে, এর বেশি কিছু নেই। নাযিলের কোনো উপলক্ষও তাঁরা উল্লেখ করেননি। আয়াতটির প্রেক্ষাপট সূরার ভেতরে তার অবস্থান, অস্বীকারকারীদের জবাবের ঠিক পরে। পরের আয়াত ফেরাউনকে বলে একজন সীমালঙ্ঘনকারী। আয়াতটি সেই শাসকের যে বিবরণ দেয়, শুধু সেটুকুই দেয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ থেকে কোনো অনুমতি মেলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Addressed Before Being Sent",
+          "bn": "পাঠানোর আগে সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "Set the verses in their order and the shape is plain. First the call, in a place the commentators call purified and blessed (79:16). Then the errand, go to Fir'awn (79:17). Then the very words to say to him (79:18 and 79:19), and only then the great sign (79:20). The first thing Musa (AS) receives in this account is not a task. It is his Lord addressing him, and in as-Sa'di's words, the favour of the message and of being chosen.",
+            "bn": "আয়াতগুলো ক্রম অনুযায়ী সাজালে গড়নটা পরিষ্কার হয়ে যায়। প্রথমে ডাক, এমন জায়গায় যাকে তাফসীরকারেরা বলেন পাক ও বরকতময় (৭৯:১৬)। তারপর দায়িত্ব: ফেরাউনের কাছে যাও (৭৯:১৭)। তারপর তাকে ঠিক কী বলতে হবে, সেই কথাগুলো (৭৯:১৮ ও ৭৯:১৯)। সবশেষে মহা নিদর্শন (৭৯:২০)। এ বর্ণনায় মূসা (আঃ) প্রথম যা পান, তা কোনো কাজ নয়। তা হলো তাঁর রবের সম্বোধন। সা'দীর ভাষায়, রিসালাতের অনুগ্রহ আর বাছাই হওয়ার মর্যাদা।"
+          },
+          {
+            "en": "A reader can take that order home without settling what tuwa means. Whoever wants to speak for Allah has first to hear what He has said, and the Qur'an is where that hearing happens. The commentators differ over a name, a doubled holiness and a command to tread barefoot; they do not differ that a man was called by his Lord in that valley. The story ends, Ibn Kathir notes, with a lesson for whoever fears (79:26). It starts with someone being spoken to.",
+            "bn": "তুয়ার অর্থ মীমাংসা না করেও পাঠক এই ক্রমটা নিজের জীবনে নিয়ে যেতে পারেন। যে আল্লাহর হয়ে কথা বলতে চায়, তাকে আগে শুনতে হবে তিনি কী বলেছেন। আর সেই শোনার জায়গা কুরআন। তাফসীরকারেরা মতভেদ করেছেন একটি নাম নিয়ে, দুবারের পবিত্রতা নিয়ে, খালি পায়ে মাড়ানোর নির্দেশ নিয়ে। কিন্তু সেই উপত্যকায় একজন মানুষকে যে তাঁর রব ডেকেছিলেন, তা নিয়ে তাঁদের কোনো মতভেদ নেই। ইবন কাসীর মনে করিয়ে দেন, কাহিনিটি শেষ হয় এই কথায়: যে ভয় করে, তার জন্য এতে শিক্ষা আছে (৭৯:২৬)। আর শুরু হয় কাউকে সম্বোধন করে কথা বলার মধ্য দিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "79:20": {
     "sections": [
       {

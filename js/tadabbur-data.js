@@ -29365,6 +29365,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Sky, earth, water, pasture and mountains were set up as provision for you and your animals for a while; use it well, and let it remind you of the raising.",
     "lessonBn": "আকাশ, জমিন, পানি, চারণভূমি আর পাহাড় কিছুদিনের জন্য আপনার ও আপনার পশুদের জীবিকা করে দেওয়া হয়েছে। এ জীবিকা ভালো কাজে লাগান, আর এ থেকে পুনরুত্থানের কথা মনে রাখুন।"
+  },
+  "79:16": {
+    "reflectionEn": "Six Arabic words, and a man alone in a valley is addressed by his Lord. The verse names who called, where, and the valley's name, and says nothing yet of the errand. The commentators call the valley purified and blessed. They differ over Tuwa: the valley's own name, a place made holy twice, or a word telling him to tread the ground with his feet. The call comes first; the order to go to Fir'awn waits for the next verse. Before I set out to do anything for Allah, have I stopped to hear what He has already said to me? And is there a place, or an hour, that I keep clear so that I can listen?",
+    "reflectionBn": "আরবিতে ছয়টি শব্দ, আর এক নির্জন উপত্যকায় একজন মানুষকে তাঁর রব ডাকছেন। আয়াতটি বলে কে ডাকলেন, কোথায় ডাকলেন, আর সে উপত্যকার নাম কী। কী কাজে পাঠানো হবে, সে কথা এখনো আসেনি। তাফসীরকারেরা উপত্যকাটিকে বলেন পবিত্র ও বরকতময়। তুয়া নিয়ে তাঁদের মতভেদ আছে। কেউ বলেন এটা উপত্যকার নিজের নাম, কেউ বলেন দুবার পবিত্র করা জায়গা, কেউ বলেন পা দিয়ে মাটি মাড়ানোর নির্দেশ। ডাক আসে আগে। ফেরাউনের কাছে যাওয়ার হুকুম আসে পরের আয়াতে। আল্লাহর জন্য কোনো কাজে নামার আগে আমি কি একটু থেমে শুনেছি, তিনি আমাকে আগেই কী বলে রেখেছেন? আর এমন কোনো জায়গা বা সময় কি আমার আছে, যা আমি খালি রাখি শুধু শোনার জন্য?",
+    "pointsEn": [
+      "When I read the Qur'an, do I hear it as a call that reaches me, or as a story about someone long ago?",
+      "What work for Allah am I rushing into before I have listened to what He actually asks of me in it?",
+      "Is there a place or a time in my day that I keep clean and set apart for standing before my Lord?",
+      "Musa (AS) was chosen and spoken to before he was sent. What has Allah already given me that I have not yet thanked Him for?",
+      "What of my own do I need to put down before I stand where I am called to stand?"
+    ],
+    "pointsBn": [
+      "কুরআন পড়ার সময় আমি কি একে আমার কাছে আসা ডাক হিসেবে শুনি, নাকি বহু আগের কোনো মানুষের গল্প হিসেবে পড়ে যাই?",
+      "আল্লাহর জন্য কোন কাজে আমি তাড়াহুড়ো করে নেমে পড়ছি, অথচ সে কাজে তিনি আসলে কী চান, তা মন দিয়ে শুনিনি?",
+      "আমার দিনে কি এমন কোনো জায়গা বা সময় আছে, যা আমি পাক-সাফ রাখি আর আলাদা করে রাখি শুধু রবের সামনে দাঁড়ানোর জন্য?",
+      "মূসা (আঃ)-কে পাঠানোর আগে বাছাই করা হয়েছিল, তাঁর সঙ্গে কথা বলা হয়েছিল। আল্লাহ আমাকে আগেই কী দিয়েছেন, যার শোকর এখনো আদায় করিনি?",
+      "যেখানে দাঁড়াতে আমাকে ডাকা হয়েছে, সেখানে দাঁড়ানোর আগে নিজের কোন জিনিসটা আমার নামিয়ে রাখা দরকার?"
+    ],
+    "lessonEn": "Listening comes before the errand: Musa (AS) was called and spoken to before he was sent, so hear what Allah has said to you before you set out to speak for Him.",
+    "lessonBn": "কাজের আগে শোনা। মূসা (আঃ)-কে পাঠানোর আগে ডাকা হয়েছিল, তাঁর সঙ্গে কথা বলা হয়েছিল। তাই আল্লাহর হয়ে কথা বলতে বের হওয়ার আগে শুনে নিন, তিনি আপনাকে কী বলেছেন।"
   }
 };
 
