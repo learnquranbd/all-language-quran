@@ -1035,6 +1035,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "52:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words of Their Answer",
+          "bn": "জবাবের ছয়টি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-manna Allahu 'alayna wa-waqana 'adhaba s-samum: so Allah was gracious to us, and guarded us from the punishment of the scorching wind. Six Arabic words, spoken by the people of the Garden. For several verses Surah at-Tur has described their rest: joined with their believing offspring (52:21), given fruit and meat (52:22), passing a cup among themselves (52:23), served by youths like hidden pearls (52:24). Then, in 52:25, they turn to each other and begin to ask. This verse is the middle of the answer.",
+            "bn": "ফামান্নাল্লাহু আলাইনা ওয়া ওয়াকানা আযাবাস সামূম: তাই আল্লাহ আমাদের প্রতি অনুগ্রহ করেছেন, আর ঝলসে দেওয়া বাতাসের আযাব থেকে আমাদের রক্ষা করেছেন। আরবিতে ছয়টি শব্দ, বলছে জান্নাতের অধিবাসীরা। সূরা তূর কয়েক আয়াত ধরে তাদের আরামের ছবি এঁকেছে। ঈমানদার সন্তানদের তাদের সঙ্গে মিলিয়ে দেওয়া হয়েছে (৫২:২১)। তাদের দেওয়া হয়েছে ফল আর গোশত (৫২:২২)। তারা নিজেদের মধ্যে পানপাত্র বিনিময় করছে (৫২:২৩)। লুকিয়ে রাখা মুক্তার মতো কিশোরেরা তাদের সেবা করছে (৫২:২৪)। তারপর ৫২:২৫ আয়াতে তারা একে অপরের দিকে ফিরে জিজ্ঞেস করতে শুরু করে। এ আয়াত সেই জবাবের মাঝখানের অংশ।"
+          },
+          {
+            "en": "What are they asking about? The Muyassar, which reads 52:26 to 52:28 as a single passage, says they ask about the greatness of what they are in, and about its cause. So the reply is an account of how they got there, and it runs over three verses: we used to be fearful among our families (52:26); so Allah was gracious to us (52:27); we used to call on Him before, and He is the Kind, the Merciful (52:28).",
+            "bn": "তারা কী নিয়ে জিজ্ঞেস করছে? মুয়াসসার ৫২:২৬ থেকে ৫২:২৮ পর্যন্ত একটি অংশ ধরে পড়ে। তার ভাষ্যে, যে বিরাট নিয়ামতের মধ্যে তারা আছে তা কেমন, আর তার কারণ কী, তা-ই তারা জিজ্ঞেস করে। তাই জবাবটা আসলে এখানে পৌঁছানোর বিবরণ, আর তা চলে তিনটি আয়াত জুড়ে: পরিবারের মাঝে আমরা ভয়ে থাকতাম (৫২:২৬)। তাই আল্লাহ আমাদের প্রতি অনুগ্রহ করেছেন (৫২:২৭)। আগে আমরা তাঁকেই ডাকতাম, তিনিই পরম অনুগ্রহশীল, পরম দয়ালু (৫২:২৮)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Afraid Among Their Own",
+          "bn": "আপনজনের মাঝে ভীত"
+        },
+        "p": [
+          {
+            "en": "The fa that opens the verse, so, ties it to the sentence before: inna kunna qablu fi ahlina mushfiqin, we used to be, before, among our families, fearful. The commentators agree on what the fear was. Ibn Kathir: in the world, while we were among our families, afraid of our Lord and fearful of His punishment and penalty. Al-Baghawi: in the world, fearful of the punishment. Al-Qurtubi frames it as a reply, each person answering whoever asked him.",
+            "bn": "আয়াতের শুরুর 'ফা', অর্থাৎ 'তাই', একে আগের বাক্যের সঙ্গে বেঁধে দেয়: ইন্না কুন্না কাবলু ফী আহলিনা মুশফিকীন, আগে আমরা আমাদের পরিবারের মাঝে ভীত ছিলাম। ভয়টা কিসের, তাতে তাফসীরকারেরা একমত। ইবন কাসীর বলেন: দুনিয়াতে, যখন আমরা পরিবারের মাঝে ছিলাম, রবকে ভয় করতাম, তাঁর আযাব আর শাস্তির আশঙ্কায় থাকতাম। বাগাভী বলেন: দুনিয়াতে আযাবের ভয়ে ছিলাম। কুরতুবী একে দেখেন জবাব হিসেবে: যাকে জিজ্ঞেস করা হয়েছে, সে প্রশ্নকারীকে এ কথা বলছে।"
+          },
+          {
+            "en": "At-Tabari adds one sharp word. They say to each other: we were fearful among our families in the world, trembling lest our Lord punish us al-yawm, today. The day they once feared is the day on which they are now speaking. As-Sa'di gives the fear its fruit: they were afraid and trembling, so out of fear of Him we left sins, and for that reason we put right our faults. In his reading the fear did not stay a feeling; it changed what they did.",
+            "bn": "তাবারী একটি ধারালো শব্দ যোগ করেন। তারা একে অপরকে বলে: দুনিয়াতে পরিবারের মাঝে আমরা ভীত ছিলাম, কাঁপতাম যে আমাদের রব আজ, আল-ইয়াওম, আমাদের শাস্তি দেবেন। যে দিনের ভয় তারা একসময় করত, আজ সেই দিনেই দাঁড়িয়ে তারা কথা বলছে। সা'দী ভয়ের ফলটাও দেখান: তারা ভীত ও কম্পিত ছিল, তাই তাঁর ভয়ে আমরা গুনাহ ছেড়েছি, আর সেজন্যই নিজেদের দোষগুলো শুধরে নিয়েছি। তাঁর পাঠে ভয় শুধু অনুভূতি হয়ে থাকেনি, আমলকে বদলে দিয়েছে।"
+          },
+          {
+            "en": "The same word, mushfiq, appears elsewhere in the Qur'an at two different times. In 70:27 and 70:28 the praiseworthy are fearful of their Lord's punishment, for His punishment is not something to feel safe from; 23:57 uses the word of the God-fearing too. In 18:49 and 42:22 the wrongdoers are mushfiqin as well, but only when the record is set down, or when what they earned is already befalling them. Fear that comes early is a path to safety; fear that comes late has missed its time.",
+            "bn": "মুশফিক শব্দটা কুরআনের অন্য জায়গাতেও এসেছে, দুটি ভিন্ন সময়ে। ৭০:২৭ ও ৭০:২৮ আয়াতে প্রশংসিত তারা, যারা রবের আযাবের ব্যাপারে ভীত, কারণ তাঁর আযাব থেকে নিশ্চিন্ত থাকা যায় না। ২৩:৫৭ আয়াতেও আল্লাহভীরুদের বেলায় একই শব্দ। আবার ১৮:৪৯ ও ৪২:২২ আয়াতে জালিমরাও মুশফিক, তবে তখন, যখন আমলনামা সামনে রেখে দেওয়া হয়েছে, কিংবা যখন নিজেদের কামাই তাদের উপর এসে পড়ছে। আগেভাগে আসা ভয় নিরাপত্তার পথ। দেরিতে আসা ভয়ের সময় পেরিয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Favour Was Placed",
+          "bn": "অনুগ্রহ কোথায় পড়েছিল"
+        },
+        "p": [
+          {
+            "en": "Fa-manna Allahu 'alayna: so Allah was gracious to us. Ibn Kathir explains the verb with a word for giving freely: fa-tasaddaqa 'alayna, He bestowed on us as a gift, and He protected us from what we feared. At-Tabari says only that He was gracious to us bi-fadlihi, by His bounty. Neither says what form the favour took. The other commentators do, and here they part ways, though not in a quarrel. They place the favour at different points on the road to the Garden.",
+            "bn": "ফামান্নাল্লাহু আলাইনা: তাই আল্লাহ আমাদের প্রতি অনুগ্রহ করেছেন। ইবন কাসীর ক্রিয়াটির ব্যাখ্যা করেন বিনিময় ছাড়া দেওয়ার একটি শব্দ দিয়ে: ফাতাসাদ্দাকা আলাইনা, তিনি আমাদের দান করেছেন। আর যার ভয় আমরা করতাম, তা থেকে তিনি আমাদের আশ্রয় দিয়েছেন। তাবারী শুধু বলেন, তিনি বিফাদলিহী, নিজের অনুগ্রহে, আমাদের প্রতি দয়া করেছেন। অনুগ্রহটা কোন রূপে এল, দুজনের কেউ তা বলেন না। অন্যরা বলেন, আর এখানে তাঁদের পথ আলাদা হয়ে যায়। তবে এটা বিবাদ নয়। জান্নাতের পথে অনুগ্রহকে তাঁরা বসান ভিন্ন ভিন্ন জায়গায়।"
+          },
+          {
+            "en": "Al-Baghawi places it at the end: Allah was gracious to us bi-l-maghfira, with forgiveness. Al-Qurtubi's first gloss widens that to Paradise and forgiveness together. As-Sa'di places it at the start: guidance and tawfiq, the enabling help that makes a good deed possible. The Muyassar says the same, and al-Qurtubi records this second view too, under the words and it is said. So the first reading looks at what they were given at the gate; the second at what carried them to it.",
+            "bn": "বাগাভী অনুগ্রহকে বসান শেষ প্রান্তে: আল্লাহ আমাদের প্রতি দয়া করেছেন মাগফিরাত দিয়ে। কুরতুবীর প্রথম ব্যাখ্যা একে আরেকটু বড় করে: জান্নাত আর মাগফিরাত দুটোই। সা'দী অনুগ্রহকে বসান শুরুতে: হিদায়াত আর তাওফীক। তাওফীক মানে সেই সাহায্য, যা ভালো কাজকে সম্ভব করে তোলে। মুয়াসসারও একই কথা বলে, আর কুরতুবীও 'বলা হয়' কথাটি জুড়ে এ দ্বিতীয় মতটি এনেছেন। তাহলে প্রথম পাঠ দেখে দরজায় পৌঁছে তারা কী পেয়েছে। দ্বিতীয় পাঠ দেখে, কিসে তাদের সেই দরজা পর্যন্ত বয়ে এনেছে।"
+          },
+          {
+            "en": "Held side by side, the two readings say more than either does by itself. If the favour was forgiveness and the Garden, then the arrival was a gift. If it was guidance and tawfiq, then on that reading the very fear they described in 52:26 was a gift as well, since guidance taught them to fear and tawfiq let them act on it. None of the commentators consulted sets these readings against each other, and the verse leaves room for both.",
+            "bn": "দুটি পাঠ পাশাপাশি রাখলে এমন কিছু বলে, যা আলাদা আলাদা কোনোটাই নিজে বলে না। অনুগ্রহ যদি হয় মাগফিরাত আর জান্নাত, তবে পৌঁছানোটাই দান। আর অনুগ্রহ যদি হয় হিদায়াত আর তাওফীক, তবে সেই পাঠ অনুযায়ী ৫২:২৬ আয়াতে যে ভয়ের কথা তারা বলল, সেটাও দান। কারণ হিদায়াতই তাদের ভয় করতে শিখিয়েছে, আর তাওফীকই সে ভয় অনুযায়ী চলতে দিয়েছে। এখানে দেখা কোনো তাফসীর এ দুই পাঠকে পরস্পরের বিপক্ষে দাঁড় করায় না। আয়াতও দুটোর জন্যই জায়গা রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Fear Was Not the Price",
+          "bn": "ভয় ছিল না বিনিময়মূল্য"
+        },
+        "p": [
+          {
+            "en": "The order of their answer matters. The Muyassar says they were asking about the cause of their bliss, and as-Sa'di introduces 52:26 as their statement of what brought them to the joy they are in. So they do name their fear, and they name it first. But the next word is fa-manna: so Allah was gracious. They do not say: so we earned it. The fear is told as the road they walked; the reaching of the end is told as His favour, with Allah as the subject of both verbs.",
+            "bn": "তাদের জবাবের ক্রম লক্ষ করার মতো। মুয়াসসার বলে, তারা নিজেদের সুখের কারণ জিজ্ঞেস করছিল। সা'দীও ৫২:২৬ আয়াতকে পরিচয় করান এভাবে: তারা যে আনন্দে আছে, সেখানে কিসে তাদের পৌঁছে দিয়েছে, এ তারই বিবরণ। তাই নিজেদের ভয়ের কথা তারা বলে, আর বলে সবার আগে। কিন্তু পরের শব্দটাই ফামান্না: তাই আল্লাহ অনুগ্রহ করেছেন। তারা বলে না, তাই আমরা তা অর্জন করেছি। ভয়টা তারা বলে চলার পথ হিসেবে। আর গন্তব্যে পৌঁছানোটা বলে তাঁর অনুগ্রহ হিসেবে। দুই ক্রিয়ারই কর্তা আল্লাহ: তিনি অনুগ্রহ করেছেন, তিনিই রক্ষা করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi's note on 52:28 points the same way. We used to call on Him in the world, he explains, that He would be gracious to us with forgiveness for our shortcoming, taqsirina. People who had lived afraid and careful still asked pardon for falling short; they did not hold up their fear as payment. Ibn Kathir's word tasaddaqa, He gave to us as a gift, says the same from the other side. Yet nothing here makes the fear pointless: it is the first thing they chose to mention.",
+            "bn": "৫২:২৮ আয়াতে কুরতুবীর ব্যাখ্যাও একই দিকে ইশারা করে। তাঁর ভাষ্যে, দুনিয়াতে আমরা তাঁকে ডাকতাম, যেন তিনি আমাদের তাকসীর, অর্থাৎ ত্রুটি আর ঘাটতি, ক্ষমা করে আমাদের প্রতি অনুগ্রহ করেন। যারা সারাজীবন ভয়ে আর সতর্কতায় কাটিয়েছে, তারাও ঘাটতির জন্য মাফ চাইত। নিজেদের ভয়কে তারা মূল্য হিসেবে পেশ করেনি। ইবন কাসীরের শব্দ তাসাদ্দাকা, তিনি আমাদের দান করেছেন, অন্য দিক থেকে একই কথা বলে। তবু এখানে ভয়কে অর্থহীন বলা হয়নি। কথা শুরু করতে গিয়ে প্রথমেই তারা ভয়ের কথা তুলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wind That Scorches",
+          "bn": "যে বাতাস ঝলসে দেয়"
+        },
+        "p": [
+          {
+            "en": "Wa-waqana 'adhaba s-samum: and He guarded us from the punishment of as-samum. Among his notes, al-Qurtubi gives the word's ordinary sense: as-samum is the hot wind, a feminine noun. The Arabs say samma yawmuna, our day has turned scorching, and such a day is masmum. He cites Abu 'Ubayda on usage: the samum blows by day, though it may come at night, while the harur blows by night, though it may come by day.",
+            "bn": "ওয়া ওয়াকানা আযাবাস সামূম: আর তিনি আমাদের সামূমের আযাব থেকে রক্ষা করেছেন। কুরতুবী তাঁর আলোচনায় শব্দটির সাধারণ অর্থও দেন। সামূম মানে গরম বাতাস, আর শব্দটি স্ত্রীলিঙ্গ। আরবরা বলে সাম্মা ইয়াওমুনা, আমাদের দিনটা ঝলসানো হয়ে গেছে, আর এমন দিনকে বলা হয় মাসমূম। ব্যবহার নিয়ে তিনি আবু উবাইদার কথা আনেন। সামূম বয় দিনে, যদিও রাতেও আসতে পারে। আর হারূর বয় রাতে, যদিও দিনেও আসতে পারে।"
+          },
+          {
+            "en": "Al-Qurtubi adds a detail that shows how wide the word could stretch: samum is sometimes used even for a blast of cold, though it is used far more for the blast of heat and sun, and he quotes a line of rajaz verse about a cold day and its samum. The Qur'an uses the word twice more. In 15:27 the jinn were created from nar as-samum, the fire of the samum. In 56:42 the companions of the left, named in 56:41, are fi samumin wa hamim, in scorching wind and scalding water.",
+            "bn": "কুরতুবী আরেকটি তথ্য যোগ করেন, যা দেখায় শব্দটি কতদূর ছড়াতে পারত। কখনো কখনো ঠান্ডার ঝাপটাকেও সামূম বলা হয়, যদিও গরম আর রোদের ঝাপটার বেলায়ই শব্দটি অনেক বেশি চলে। প্রমাণ হিসেবে তিনি রাজায ছন্দের একটি পঙ্‌ক্তি উদ্ধৃত করেন, যেখানে ঠান্ডা দিনের সামূমের কথা আছে। কুরআনে শব্দটি আরও দুবার এসেছে। ১৫:২৭ আয়াতে জিনকে সৃষ্টি করা হয়েছে নারিস সামূম, সামূমের আগুন থেকে। আর ৫৬:৪২ আয়াতে বাম দিকের লোকেরা, যাদের কথা ৫৬:৪১ আয়াতে এসেছে, থাকবে ফী সামূমিন ওয়া হামীম, ঝলসানো হাওয়া আর ফুটন্ত পানির মধ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wind, Layer, or Fire",
+          "bn": "হাওয়া, স্তর, নাকি আগুন"
+        },
+        "p": [
+          {
+            "en": "What, then, is 'adhab as-samum in this verse? The commentators give several answers, and they sit close together. Al-Qurtubi reports from al-Hasan that as-samum is one of the names of the Fire and one of the layers of Jahannam. Al-Baghawi reports al-Hasan more briefly: a name among the names of Jahannam. Al-Qurtubi then adds two more views under it is said: that it simply means the Fire, as one says Jahannam, and that it means the fire of the samum punishment. Neither commentator chooses among these.",
+            "bn": "তাহলে এ আয়াতে আযাবুস সামূম বলতে কী বোঝায়? তাফসীরকারেরা কয়েকটি উত্তর দেন, আর উত্তরগুলো একে অপরের কাছাকাছি। কুরতুবী আল-হাসানের সূত্রে বলেন, সামূম আগুনের নামগুলোর একটি, আর জাহান্নামের স্তরগুলোর একটি স্তর। বাগাভী আল-হাসানের কথা আরও সংক্ষেপে আনেন: জাহান্নামের নামগুলোর একটি নাম। এরপর কুরতুবী 'বলা হয়' কথাটি জুড়ে আরও দুটি মত আনেন। একটি হল, এর অর্থ সোজা আগুন, যেমন বলা হয় জাহান্নাম। অন্যটি হল, এর অর্থ সামূম আযাবের আগুন। দুজনের কেউই এগুলোর মধ্যে একটিকে বেছে নেন না।"
+          },
+          {
+            "en": "At-Tabari is the plainest: the punishment of as-samum is the punishment of the Fire, meaning He rescued us from the Fire and brought us into the Garden. He says the people of interpretation said the same, and cites Ibn Zayd: the punishment of as-samum is the punishment of the Fire. Al-Baghawi reports the same from al-Kalbi. As-Sa'di keeps the heat in view: the hot punishment, intense in its heat. The Muyassar joins the two: the samum of Jahannam, which is its fire and its heat.",
+            "bn": "তাবারী সবচেয়ে সোজা কথা বলেন: সামূমের আযাব মানে আগুনের আযাব, অর্থাৎ তিনি আমাদের আগুন থেকে বাঁচিয়েছেন আর জান্নাতে প্রবেশ করিয়েছেন। তিনি বলেন, তাফসীরের আলেমরাও এমনই বলেছেন, আর ইবন যায়দের কথা উদ্ধৃত করেন: সামূমের আযাব হল আগুনের আযাব। বাগাভী কালবী থেকেও একই কথা আনেন। সা'দী উত্তাপের দিকটা চোখের সামনে রাখেন: এমন গরম আযাব, যার উত্তাপ প্রচণ্ড। মুয়াসসার দুটি দিককে মিলিয়ে দেয়: জাহান্নামের সামূম, অর্থাৎ তার আগুন আর তার উত্তাপ।"
+          },
+          {
+            "en": "A few verses earlier, in 52:18, the surah itself reported the same rescue: wa-waqahum rabbuhum 'adhaba l-jahim, and their Lord guarded them from the punishment of the Blaze. There the surah speaks about them. Here they speak for themselves, with the same verb, waqa, and a different name for what they escaped. The account in the third person becomes a confession in the first. What the Qur'an had told the listener, the people of the Garden now tell one another, as something they lived through.",
+            "bn": "কয়েক আয়াত আগে ৫২:১৮ আয়াতে সূরাটি নিজেই এ উদ্ধারের কথা জানিয়েছিল: ওয়া ওয়াকাহুম রাব্বুহুম আযাবাল জাহীম, আর তাদের রব তাদের জাহীমের আযাব থেকে রক্ষা করেছেন। সেখানে সূরাটি কথা বলছে তাদের সম্পর্কে। এখানে তারা কথা বলছে নিজেদের মুখে। ক্রিয়া সেই একই, ওয়াকা। শুধু যা থেকে তারা বেঁচেছে, তার নামটা ভিন্ন। অন্যের মুখে শোনা খবর এখানে হয়ে গেছে নিজের মুখের স্বীকারোক্তি। কুরআন যে কথা শ্রোতাকে জানিয়েছিল, জান্নাতবাসীরা এখন তা একে অপরকে বলছে নিজেদের জীবনের অভিজ্ঞতা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aisha Prayed With These Words",
+          "bn": "এ শব্দে আয়েশার দু'আ"
+        },
+        "p": [
+          {
+            "en": "The answer closes in 52:28: we used to call on Him before; He is the Kind, the Merciful. The commentators read the calling in two ways. At-Tabari and al-Baghawi take it as worship offered sincerely to Him alone. Ibn Kathir takes it as pleading: we humbled ourselves before Him, and He answered us and gave us what we asked. As-Sa'di holds both together: it covers the call of worship and the call of asking, and what they asked for was to be guarded from as-samum and brought to the bliss.",
+            "bn": "৫২:২৮ আয়াতে জবাব শেষ হয়: আগে আমরা তাঁকেই ডাকতাম, তিনিই পরম অনুগ্রহশীল, পরম দয়ালু। এ ডাকাকে তাফসীরকারেরা দুইভাবে পড়েন। তাবারী আর বাগাভীর কাছে এর অর্থ একমাত্র তাঁরই জন্য খালেস ইবাদত। ইবন কাসীরের কাছে এর অর্থ কাকুতি-মিনতি: আমরা তাঁর সামনে বিনয়ে নত হতাম, আর তিনি আমাদের ডাকে সাড়া দিয়ে যা চেয়েছি তা দিয়েছেন। সা'দী দুটোকে একসঙ্গে ধরেন। তাঁর মতে এতে ইবাদতের ডাক আর চাওয়ার ডাক দুটোই আছে। আর তারা চাইত, সামূম থেকে যেন রক্ষা পায় আর চিরসুখের নিয়ামতে পৌঁছায়।"
+          },
+          {
+            "en": "Under that verse Ibn Kathir cites, from Ibn Abi Hatim, a chain running through al-A'mash and Masruq to 'Aisha (RA). She recited fa-manna Allahu 'alayna wa-waqana 'adhaba s-samum, inna kunna min qablu nad'uhu, innahu huwa l-barru r-rahim, and said: Allahumma, be gracious to us and guard us from the punishment of as-samum; You are the Kind, the Merciful. Al-A'mash was asked: in the prayer? He said: yes. This is a Companion's practice, not a saying of the Prophet ﷺ, and Ibn Kathir passes no grading on it.",
+            "bn": "সে আয়াতের আলোচনায় ইবন কাসীর ইবন আবী হাতিমের সূত্রে একটি বর্ণনা আনেন, যার সনদ আ'মাশ আর মাসরূক হয়ে আয়েশা (রাঃ) পর্যন্ত গেছে। তিনি পড়লেন: ফামান্নাল্লাহু আলাইনা ওয়া ওয়াকানা আযাবাস সামূম, ইন্না কুন্না মিন কাবলু নাদঊহু, ইন্নাহু হুওয়াল বাররুর রাহীম। তারপর বললেন: হে আল্লাহ, আমাদের প্রতি অনুগ্রহ করুন আর সামূমের আযাব থেকে আমাদের রক্ষা করুন, নিশ্চয় আপনিই পরম অনুগ্রহশীল, পরম দয়ালু। আ'মাশকে জিজ্ঞেস করা হল: নামাযের মধ্যে? তিনি বললেন: হ্যাঁ। এটা একজন সাহাবীর আমল, নবী ﷺ-এর বাণী নয়। ইবন কাসীর এর মান সম্পর্কে কোনো মন্তব্য করেননি।"
+          },
+          {
+            "en": "The report shows one way the verse can be carried: the words of the people of the Garden, said back to Allah as a request while still in this world. On the Prophetic side, no commentator consulted here attaches a sound hadith to 52:27. Ibn Kathir relays one Prophetic report from al-Bazzar's Musnad on 52:28, about the people of Paradise recalling the day they were forgiven, and he raises doubts about its chain himself; it is not used here.",
+            "bn": "বর্ণনাটি দেখায়, আয়াতটিকে কীভাবে সঙ্গে রাখা যায়। জান্নাতবাসীদের মুখের কথা দুনিয়াতে থাকতেই আল্লাহর কাছে চাওয়া হিসেবে ফিরিয়ে বলা যায়। নবী ﷺ-এর হাদীসের দিক থেকে কথা হল, এখানে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই ৫২:২৭ আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয় না। ইবন কাসীর ৫২:২৮ আয়াতের আলোচনায় বাযযারের মুসনাদ থেকে নবী ﷺ-এর নামে বর্ণিত একটি রিওয়ায়াত আনেন। তাতে আছে, জান্নাতবাসীরা মনে করছে কোন দিন তাদের মাফ করা হয়েছিল। কিন্তু তার সনদ নিয়ে ইবন কাসীর নিজেই সন্দেহ তোলেন, তাই এখানে তা নেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear at Home, Thanks Hereafter",
+          "bn": "ঘরে ভয়, পরকালে শোকর"
+        },
+        "p": [
+          {
+            "en": "Why fi ahlina, among our families? None of the commentators consulted explains the phrase beyond repeating it, so what follows is a reflection, not their reading. Home is where people are most at ease and least watched, so fear of Allah kept there is a show for nobody. It is also where life feels safest and the Day is easiest to forget. And the surah has just promised, in 52:21, that believing families will be joined again in the Garden.",
+            "bn": "ফী আহলিনা, পরিবারের মাঝে, কেন বলা হল? এখানে দেখা কোনো তাফসীর শব্দগুলো আবার বলা ছাড়া এর আর ব্যাখ্যা দেয় না। তাই নিচের কথাগুলো চিন্তার খোরাক, তাফসীরকারদের মত নয়। ঘর এমন জায়গা, যেখানে মানুষ সবচেয়ে নিশ্চিন্ত, আর সবচেয়ে কম নজরে পড়ে। সেখানে আল্লাহর যে ভয় টিকে থাকে, তা কাউকে দেখানোর জন্য নয়। ঘরেই জীবন সবচেয়ে নিরাপদ মনে হয়, আর সেখানেই কিয়ামতের দিনকে ভুলে থাকা সবচেয়ে সহজ। তা ছাড়া সূরাটি এইমাত্র ৫২:২১ আয়াতে কথা দিয়েছে, ঈমানদার পরিবারগুলো জান্নাতে আবার মিলিত হবে।"
+          },
+          {
+            "en": "Several practical lessons follow. First, let fear do what as-Sa'di says it did for them: lead to leaving sins and mending faults, not to despair. Their fear ended in a conversation of joy, paired with calling on Him (52:28). Second, keep that fear inside the house: in how we speak to a spouse, treat a child, or spend a private hour. Third, when safety comes, from a small harm here or the great harm hereafter, say what they said: Allah was gracious to us.",
+            "bn": "এখান থেকে কয়েকটি বাস্তব শিক্ষা পাওয়া যায়। এক, সা'দীর কথামতো ভয় তাদের জন্য যা করেছিল, আপনার জন্যও তা-ই করতে দিন: গুনাহ ছাড়া আর দোষ শোধরানো, হতাশা নয়। তাদের ভয় শেষ হয়েছে আনন্দের আলাপে, আর তার সঙ্গী ছিল আল্লাহকে ডাকা (৫২:২৮)। দুই, সে ভয় ঘরের ভেতরে জাগিয়ে রাখুন: স্বামী বা স্ত্রীর সঙ্গে কথায়, সন্তানের সঙ্গে আচরণে, একান্ত সময় কাটানোয়। তিন, নিরাপত্তা যখন আসে, দুনিয়ার ছোট কোনো বিপদ থেকে হোক বা আখিরাতের বড় বিপদ থেকে, তখন তারা যা বলেছিল তা-ই বলুন: আল্লাহ আমাদের প্রতি অনুগ্রহ করেছেন।"
+          },
+          {
+            "en": "Fourth, take the words of 52:27 and 52:28 into our own prayer, as the report from 'Aisha (RA) describes her doing: Allahumma, be gracious to us and guard us from the punishment of as-samum; You are the Kind, the Merciful. Fifth, keep the order of their answer. They mention what they did, and they credit the outcome to Allah. Gratitude here is not a feeling added at the end. It is how the people of the Garden tell their story, and ours can be told that way starting today.",
+            "bn": "চার, ৫২:২৭ ও ৫২:২৮ আয়াতের শব্দগুলো নিজের দু'আয় তুলে নিন, যেমনটা আয়েশা (রাঃ) করতেন বলে বর্ণনায় এসেছে: হে আল্লাহ, আমাদের প্রতি অনুগ্রহ করুন আর সামূমের আযাব থেকে আমাদের রক্ষা করুন, নিশ্চয় আপনিই পরম অনুগ্রহশীল, পরম দয়ালু। পাঁচ, তাদের জবাবের ক্রমটা ধরে রাখুন। নিজেরা কী করেছে তা তারা বলে, আর ফলের কৃতিত্ব দেয় আল্লাহকে। এখানে শোকর শেষে জুড়ে দেওয়া কোনো অনুভূতি নয়। জান্নাতবাসীরা নিজেদের কাহিনি এভাবেই বলে। আমাদের কাহিনিও আজ থেকেই এভাবে বলা শুরু হতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "52:29": {
     "sections": [
       {

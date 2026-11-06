@@ -27529,6 +27529,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The ease of the Garden is His gift, pictured even in those who serve its people; let the hope of it keep you watchful now, as its people once were.",
     "lessonBn": "জান্নাতের আরাম তাঁরই দান, তার ছবি ফুটে আছে জান্নাতবাসীদের সেবকদের মধ্যেও। সেই আশা আজ আপনাকে সজাগ রাখুক, যেমন সজাগ ছিলেন জান্নাতের মানুষেরা।"
+  },
+  "52:27": {
+    "reflectionEn": "In the Garden, the people of Paradise turn to one another and talk about how they got there. Their answer has two parts. First: back in the world, among our own families, we lived in fear of our Lord. Then: so Allah was gracious to us, and guarded us from the punishment of the scorching wind. They do not boast of the fear. They name it, and then they hand the whole outcome to His favour. The fear they describe was kept at home, where nobody was watching and life felt safe. It did not spoil their lives; it carried them through. What would my own household say I was afraid of? And when good reaches me, whose favour do I name first?",
+    "reflectionBn": "জান্নাতে জান্নাতবাসীরা একে অপরের দিকে ফিরে কথা বলে, কীভাবে তারা এখানে পৌঁছল। তাদের জবাবের দুটি ভাগ। প্রথমে: দুনিয়াতে নিজের পরিবারের মাঝে থেকেও আমরা রবের ভয়ে ভীত থাকতাম। তারপর: তাই আল্লাহ আমাদের প্রতি অনুগ্রহ করেছেন আর ঝলসে দেওয়া বাতাসের আযাব থেকে আমাদের রক্ষা করেছেন। ভয় নিয়ে তারা গর্ব করে না। ভয়ের কথা বলে, তারপর পুরো ফলটা তুলে দেয় তাঁর অনুগ্রহের হাতে। যে ভয়ের কথা তারা বলছে, তা ছিল ঘরের ভেতরের ভয়। সেখানে কেউ দেখছিল না, জীবনও নিরাপদ মনে হত। সে ভয় তাদের জীবন নষ্ট করেনি, বরং তাদের পার করে এনেছে। আমার ঘরের মানুষেরা কী বলবে, আমি কিসের ভয় করি? আর কোনো কল্যাণ হাতে এলে আমি প্রথমে কার অনুগ্রহের কথা মুখে আনি?",
+    "pointsEn": [
+      "If my family described what I fear most, would the displeasure of Allah be anywhere on their list?",
+      "Is my mindfulness of Allah the same at home, where nobody is watching, as it is in public?",
+      "When something good reaches me, do I name Allah's favour first, or my own effort?",
+      "Does my fear of the Fire move me to leave a particular sin, or does it stay a feeling and nothing more?",
+      "What would I want to be able to say about this year, if I were looking back on it from the Garden?"
+    ],
+    "pointsBn": [
+      "আমার পরিবার যদি বলে আমি সবচেয়ে বেশি কিসের ভয় করি, সে তালিকায় কি আল্লাহর অসন্তুষ্টির নাম থাকবে?",
+      "ঘরে, যেখানে কেউ দেখছে না, সেখানে কি আল্লাহর ব্যাপারে আমি ততটাই সজাগ, যতটা মানুষের সামনে?",
+      "কোনো কল্যাণ হাতে এলে আমি কি আগে আল্লাহর অনুগ্রহের কথা বলি, নাকি নিজের চেষ্টার কথা?",
+      "জাহান্নামের ভয় কি আমাকে নির্দিষ্ট কোনো গুনাহ ছাড়তে বাধ্য করে, নাকি তা কেবল একটা অনুভূতি হয়েই থেকে যায়?",
+      "জান্নাত থেকে এই বছরটার দিকে ফিরে তাকালে আমি এর সম্পর্কে কী বলতে পারলে খুশি হতাম?"
+    ],
+    "lessonEn": "Keep the fear of Allah alive at home, where nobody is watching, and when safety comes, credit it to His favour rather than to yourself.",
+    "lessonBn": "ঘরে, যেখানে কেউ দেখছে না, সেখানেও আল্লাহর ভয় জাগিয়ে রাখুন। আর নিরাপত্তা যখন আসে, তার কৃতিত্ব নিজেকে না দিয়ে তাঁর অনুগ্রহকে দিন।"
   }
 };
 
