@@ -25769,6 +25769,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not answer a truth by labelling the one who brings it. Weigh what is said, even when it asks you to leave what your elders held.",
     "lessonBn": "সত্যের জবাব তার বাহকের গায়ে তকমা লাগিয়ে দেবেন না। যা বলা হলো তা মেপে দেখুন, বাপদাদার ধরে রাখা জিনিস ছাড়তে বললেও।"
+  },
+  "37:48": {
+    "reflectionEn": "After the cup comes company. Beside the blessed, the verse says, are those who restrain their glances: their eyes rest on the one they belong to and go looking for no one else. Then one more word, 'in, eyes wide and lovely. The commentators keep the two together, beauty and a gaze held back, as if loveliness that wanders is not the loveliness Paradise means. The verse asks me to imagine no more than it says. It asks instead what my own eyes are doing now. Where do they go when no one is watching? Whose trust do they leave behind each time they wander, and would I want those I love to see where they went?",
+    "reflectionBn": "পানপাত্রের পরে আসে সঙ্গের কথা। আয়াতটি বলছে, সৌভাগ্যবানদের পাশে থাকবে সংযত-নয়না সঙ্গিনীরা। তাদের দৃষ্টি থেমে থাকে যার সে, তার উপর, আর কাউকে খুঁজে বেড়ায় না। তারপর আরেকটি শব্দ, ঈন: ডাগর, সুন্দর চোখ। তাফসীরকারেরা দুটিকে একসঙ্গে রাখেন, সৌন্দর্য আর সংযত দৃষ্টি। যেন যে সৌন্দর্যের চোখ এদিক-ওদিক ঘোরে, জান্নাত সে সৌন্দর্যের কথা বলছে না। আয়াতটি যা বলে তার বেশি কল্পনা করতে আমাকে ডাকে না। বরং জিজ্ঞেস করে, আমার নিজের চোখ এখন কী করছে? কেউ না দেখলে সে কোথায় যায়? প্রতিবার ঘুরে বেড়ানোর সময় সে কার আমানত পেছনে ফেলে যায়? আর সে কোথায় গিয়েছিল, প্রিয়জনেরা তা দেখুক, এটা কি আমি চাইব?",
+    "pointsEn": [
+      "What did my eyes linger on today that I would not want the people I love to see?",
+      "Is my loyalty to my spouse, or to the one I hope to marry, kept in my glances as well as in my actions?",
+      "When a sudden glance falls where it should not, do I turn it away at once, or let a second look follow?",
+      "Do I prize beauty, in others and in myself, more than the modesty this verse sets right beside it?",
+      "What would help my heart be content with what Allah has made lawful for me, and stop searching past it?"
+    ],
+    "pointsBn": [
+      "আজ আমার চোখ কোথায় থেমে ছিল, যা প্রিয়জনেরা দেখুক তা আমি চাইব না?",
+      "স্বামী বা স্ত্রীর প্রতি, কিংবা যাকে বিয়ে করার আশা রাখি তার প্রতি আমার বিশ্বস্ততা কি শুধু কাজে, নাকি দৃষ্টিতেও?",
+      "হঠাৎ চোখ যেখানে পড়া উচিত নয় সেখানে পড়লে আমি কি সঙ্গে সঙ্গে ফিরিয়ে নিই, নাকি দ্বিতীয়বার তাকাই?",
+      "অন্যের বা নিজের সৌন্দর্যকে আমি কি সেই লজ্জাশীলতার চেয়ে বেশি দাম দিই, যাকে এ আয়াত সৌন্দর্যের ঠিক পাশেই রেখেছে?",
+      "আল্লাহ আমার জন্য যা হালাল করেছেন, তাতে মন তৃপ্ত থাকতে আর তার বাইরে খোঁজাখুঁজি থামাতে কী আমাকে সাহায্য করবে?"
+    ],
+    "lessonEn": "Paradise pairs beauty with a gaze that stays home. Guard your eyes now, keep your loyalty in your glances as well as your deeds, and let contentment end the searching.",
+    "lessonBn": "জান্নাত সৌন্দর্যকে জুড়ে দেয় এমন দৃষ্টির সঙ্গে, যা নিজের ঘর ছেড়ে বেরোয় না। এখনই চোখের হেফাজত করুন, বিশ্বস্ততা রাখুন কাজের মতো দৃষ্টিতেও, আর তৃপ্তি দিয়ে খোঁজাখুঁজির ইতি টানুন।"
   }
 };
 

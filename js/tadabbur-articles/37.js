@@ -1911,6 +1911,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "Company After the Cup",
+          "bn": "পানপাত্রের পরে সঙ্গ"
+        },
+        "p": [
+          {
+            "en": "Wa-'indahum qasiratu at-tarfi 'in: and with them are those who restrain their glances, wide-eyed. In Arabic the verse is four words long, and it comes straight after the cup of 37:45 to 37:47, whose drink neither harms nor intoxicates. At-Tabari names the people the scene is set around: these sincere servants of Allah, in Paradise. The word 'indahum, with them or beside them, puts the company close at hand. Al-Muyassar places it in their gatherings, and as-Sa'di in their dwellings nearby.",
+            "bn": "ওয়া ইনদাহুম কাসিরাতুত তারফি ঈন: আর তাদের কাছে থাকবে সংযত-নয়না, ডাগর চোখের সঙ্গিনীরা। আরবিতে আয়াতটি মাত্র চারটি শব্দের। এর ঠিক আগে ৩৭:৪৫ থেকে ৩৭:৪৭ আয়াতে এসেছে সেই পানপাত্রের কথা, যার পানীয় ক্ষতিও করে না, মাতালও করে না। দৃশ্যটি কাদের ঘিরে, তাবারী তা স্পষ্ট করে দেন: আল্লাহর এই একনিষ্ঠ বান্দারা, জান্নাতে। ইনদাহুম শব্দের মানে তাদের কাছে বা পাশে। অর্থাৎ এ সঙ্গ দূরের কিছু নয়, হাতের কাছের। মুয়াসসার একে রাখে তাদের মজলিসে, আর সা'দী তাদের কাছাকাছি আবাসে।"
+          },
+          {
+            "en": "As-Sa'di pauses on why Paradise's delights are spelled out in such detail at all. They are detailed, he writes, so that they may be known and souls may long for them; then the verse mentions their spouses. That sets the tone for what follows. This is a reward, promised to servants named a few verses earlier, told in the few, restrained words the Qur'an chose. The sections below stay with those words and with what the commentators fetched for this verse say about them, and go no further.",
+            "bn": "জান্নাতের নিয়ামতগুলো আলাদা আলাদা করে কেন বলা হলো, সা'দী সেখানে একটু থামেন। তাঁর ব্যাখ্যা: খুলে বলা হয়েছে যাতে মানুষ জানতে পারে, আর মন সেগুলোর জন্য ব্যাকুল হয়। তারপর আয়াতটি তাদের সঙ্গিনীদের কথা তোলে। পরের সব কথার সুর এখান থেকেই ঠিক হয়ে যায়। এ এক পুরস্কার, যার প্রতিশ্রুতি দেওয়া হয়েছে কয়েক আয়াত আগে যাদের নাম এসেছে সেই বান্দাদের। আর কুরআন তা বলেছে অল্প কয়েকটি সংযত শব্দে। এ লেখা সেই শব্দগুলোর সঙ্গেই থাকবে, থাকবে এই আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো যা বলে তার সঙ্গে। এর বাইরে যাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eyes That Rest on One",
+          "bn": "যে চোখ একজনেই থামে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari defines the phrase before he gives any report. These are the women who have restricted their glances to their husbands: they want no one else, and they do not stretch their sight towards anyone else. He adds that the people of interpretation said the same, and lists them. From Ibn Abbas (RA): from other than their husbands. From Mujahid: upon their husbands, and in another transmission he adds that she desires no one besides them. At-Tabari's own wording holds two refusals side by side: wanting no one else, and looking at no one else, the inner and the outer.",
+            "bn": "কোনো বর্ণনা আনার আগে তাবারী শব্দবন্ধটির অর্থ বেঁধে দেন। এরা সেই নারী, যারা নিজেদের দৃষ্টি স্বামীর উপর সীমিত রেখেছে। তারা আর কাউকে চায় না, আর কারও দিকে চোখ বাড়ায় না। তিনি বলেন, তাফসীরের আলেমরাও এমনটিই বলেছেন, তারপর তাঁদের কথা একে একে তুলে ধরেন। ইবন আব্বাস (রাঃ) বলেন: স্বামী ছাড়া অন্যদের থেকে। মুজাহিদ বলেন: তাদের স্বামীদের উপর। আরেক বর্ণনায় তিনি যোগ করেন, সে তাদের ছাড়া আর কাউকে কামনা করে না। তাবারীর নিজের কথাতেই পাশাপাশি দুটি না আছে: আর কাউকে না চাওয়া, আর কারও দিকে না তাকানো। একটি ভেতরের, অন্যটি বাইরের।"
+          },
+          {
+            "en": "As-Suddi widens the frame: they restricted their sight and their hearts to their husbands, so they want no one else. Qatada says nearly the same in nearly the same words, and Ibn Zayd puts it most simply: they look at none but their husbands. Ibn Kathir compresses all of this into one word, 'afifat, chaste women who do not look at anyone but their husbands, and names Ibn Abbas, Mujahid, Zayd ibn Aslam, Qatada and as-Suddi among those who said so.",
+            "bn": "সুদ্দী কথাটার পরিধি বাড়িয়ে দেন: তারা নিজেদের দৃষ্টি আর হৃদয় দুটোই স্বামীর উপর সীমিত রেখেছে, তাই আর কাউকে চায় না। কাতাদাও প্রায় একই কথা বলেন, প্রায় একই শব্দে। ইবন যায়দ বলেন সবচেয়ে সহজ করে: তারা স্বামী ছাড়া কারও দিকে তাকায় না। ইবন কাসীর এ সবকিছু গুটিয়ে আনেন একটি শব্দে, আফীফাত। অর্থাৎ সতী-সাধ্বী নারী, যারা স্বামী ছাড়া কারও দিকে তাকায় না। যাঁরা এ কথা বলেছেন, তাঁদের মধ্যে তিনি নাম নেন ইবন আব্বাস, মুজাহিদ, যায়দ ইবন আসলাম, কাতাদা ও সুদ্দীর।"
+          },
+          {
+            "en": "As-Suddi's small addition, hearts, carries the weight of the phrase. A glance is the outward sign of where a heart has already settled; as-Suddi's pairing suggests that a restrained eye belongs to a heart that has found its place. In at-Tabari's collection the early reports speak with one voice on this. The question the next commentators raise is not what the glance does, but who holds it back, and that is where the first real difference among them appears.",
+            "bn": "সুদ্দীর ছোট্ট সংযোজন, হৃদয়, পুরো শব্দবন্ধের ভার বহন করে। দৃষ্টি হলো বাইরের আলামত। মন আগে যেখানে থিতু হয়েছে, চোখ সেদিকেই যায়। সুদ্দীর জোড়া কথাটি ইঙ্গিত দেয়, সংযত চোখ সেই হৃদয়েরই, যা তার ঠিকানা পেয়ে গেছে। তাবারীর সংকলনে প্রথম যুগের বর্ণনাগুলো এ ব্যাপারে একই সুরে কথা বলে। পরের তাফসীরকারেরা যে প্রশ্ন তোলেন, তা দৃষ্টি কী করে তা নিয়ে নয়। প্রশ্নটা হলো, দৃষ্টিকে আটকে রাখে কে। আর সেখানেই তাঁদের মধ্যে প্রথম সত্যিকারের মতভেদ দেখা দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Restraining, or Held Back",
+          "bn": "নিজে সংযত, নাকি সংরক্ষিত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reports the main reading from Ibn Abbas (RA), Mujahid, Muhammad ibn Ka'b and others: women who have restricted their glance to their husbands and look at no one else. Then he records 'Ikrima, who reads qasirat at-tarf as mahbusat 'ala azwajihinna, kept for their husbands. The difference lies in who acts. In the first reading the women themselves do the restraining. In 'Ikrima's, they are the ones restrained, set apart for their spouses.",
+            "bn": "কুরতুবী মূল ব্যাখ্যাটি আনেন ইবন আব্বাস (রাঃ), মুজাহিদ, মুহাম্মাদ ইবন কা'ব প্রমুখের সূত্রে: এরা সেই নারী, যারা নিজেদের দৃষ্টি স্বামীর উপর সীমিত রেখেছে, আর কারও দিকে তাকায় না। তারপর তিনি উল্লেখ করেন ইকরিমার মত। ইকরিমার কাছে কাসিরাতুত তারফ মানে মাহবুসাত আলা আযওয়াজিহিন্না, অর্থাৎ স্বামীদের জন্য সংরক্ষিত। পার্থক্যটা হলো কাজটা কে করছে। প্রথম ব্যাখ্যায় নারীরা নিজেরাই দৃষ্টি সংযত রাখে। ইকরিমার ব্যাখ্যায় তাদেরকেই সংরক্ষিত রাখা হয়, স্বামীদের জন্য আলাদা করে।"
+          },
+          {
+            "en": "Al-Qurtubi states his preference and gives his reason. The first explanation is clearer, he says, because the verse does not say maqsurat, restrained; that word comes in another place, and he defers its explanation there. The Qur'an has it at 55:72, hurun maqsuratun fil-khiyam, fair ones kept in pavilions. Al-Baghawi's gloss sits with the active reading: habisat al-a'yun, ghaddat al-jufun, holding back their eyes, lowering their eyelids. Both views are on record, 'Ikrima's and al-Qurtubi's judgement that the first is plainer.",
+            "bn": "কুরতুবী নিজের পছন্দ জানান, কারণসহ। তাঁর মতে প্রথম ব্যাখ্যাটিই বেশি স্পষ্ট। কেননা আয়াতে মাকসুরাত, অর্থাৎ সংরক্ষিত, শব্দটি নেই। ওই শব্দ এসেছে অন্য জায়গায়, আর তার ব্যাখ্যা তিনি সেখানেই দেবেন বলে রেখে দেন। কুরআনে শব্দটি আছে ৫৫:৭২ আয়াতে: হুরুম মাকসুরাতুন ফিল খিয়াম, তাঁবুতে সংরক্ষিত সুন্দরীরা। বাগাভীর ব্যাখ্যা প্রথম অর্থের পক্ষেই: হাবিসাতুল আ'য়ুন, গাদ্দাতুল জুফুন, চোখ আটকে রাখা, চোখের পাতা নামিয়ে রাখা। দুটি মতই লিপিবদ্ধ আছে: ইকরিমার মত, আর কুরতুবীর এ রায় যে প্রথমটি বেশি পরিষ্কার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Gaze Is Held Back",
+          "bn": "কার দৃষ্টি থেমে থাকে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di keeps a different pair of meanings open. Either she has restricted her own glance to her husband, out of her chastity and because she does not pass beyond him to another, and also because of his beauty and perfection, so that she seeks no one else in Paradise and wants only him. Or she has restricted her husband's glance to herself, which shows her own perfection and surpassing beauty, enough that he keeps his eyes on her alone. Both meanings, he says, are possible, and both are correct.",
+            "bn": "সা'দী অর্থের আরেক জোড়া সম্ভাবনা খোলা রাখেন। এক, নারী নিজের দৃষ্টি স্বামীর উপর সীমিত রেখেছে। কারণ সে সতী, স্বামীকে ছাড়িয়ে আর কারও দিকে যায় না। কারণ স্বামীর সৌন্দর্য ও পূর্ণতাও এমন যে জান্নাতে সে আর কাউকে খোঁজে না, তাকেই চায়। দুই, সে স্বামীর দৃষ্টিকে নিজের উপর আটকে রেখেছে। এতে বোঝা যায় তার নিজের পূর্ণতা ও অতুলনীয় সৌন্দর্য, যার টানে স্বামী শুধু তার দিকেই চোখ রাখে। সা'দী বলেন, দুটি অর্থই সম্ভব, আর দুটিই সঠিক।"
+          },
+          {
+            "en": "He adds that restraining the glance also points to restraining the self and its love. Ma'arif al-Qur'an, citing Ibn al-Jawzi's Zad al-Masir, gives the same two senses: they will not raise their eyes to any male but the spouse Allah joins them to, and they will be so beautiful and faithful that their spouses will not wish to look at anyone else. It also relays from him that they will tell their spouses they see no one in Paradise better than them, and will praise Allah who made each the other's.",
+            "bn": "তিনি আরও বলেন, দৃষ্টি সংযত রাখার মধ্যে মন ও ভালোবাসাকে একজনেই সীমিত রাখার ইঙ্গিতও আছে। মাআরিফুল কুরআন ইবনুল জাওযীর যাদুল মাসীর থেকে একই দুটি অর্থ আনে। এক, আল্লাহ যার সঙ্গে তাদের দাম্পত্যে বাঁধবেন, তাকে ছাড়া কোনো পুরুষের দিকে তারা চোখ তুলবে না। দুই, তারা এত সুন্দর আর এত বিশ্বস্ত হবে যে তাদের স্বামীরা আর কারও দিকে তাকাতেই চাইবে না। মাআরিফুল কুরআন তাঁর সূত্রে আরও জানায়, তারা স্বামীদের বলবে, জান্নাতে তোমার চেয়ে উত্তম কাউকে দেখি না। আর তারা আল্লাহর প্রশংসা করবে, যিনি একজনকে অন্যজনের জীবনসঙ্গী করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Rooted in Contentment",
+          "bn": "শব্দের শিকড়ে তৃপ্তি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi traces qasirat to a phrase of everyday Arabic: qad iqtasara 'ala kadha, he has kept himself to such and such, said of someone who is content with a thing and turns away from everything else. Read that way, the restraint in the verse is less a fence built against wandering desire than a contentment that leaves nothing more to look for. The gaze stays home because home is enough. Al-Qurtubi also records from Mujahid a further sense of the phrase: la yaghirna, they do not feel jealousy.",
+            "bn": "কুরতুবী কাসিরাত শব্দটিকে মিলিয়ে দেখান আরবদের রোজকার এক বাক্যের সঙ্গে: কাদ ইকতাসারা আলা কাযা, অর্থাৎ সে অমুক জিনিসেই নিজেকে সীমিত রেখেছে। কেউ কোনো কিছুতে তৃপ্ত হয়ে বাকি সব থেকে মুখ ফিরিয়ে নিলে এ কথা বলা হয়। এভাবে পড়লে আয়াতের সংযম বাসনার সামনে তোলা দেয়াল নয়। এ এমন তৃপ্তি, যার পরে আর কিছু খোঁজার থাকে না। দৃষ্টি ঘরে থাকে, কারণ ঘরই তার জন্য যথেষ্ট। কুরতুবী মুজাহিদ থেকে শব্দবন্ধটির আরেকটি অর্থও উল্লেখ করেন: লা ইয়াগিরনা, তারা ঈর্ষাকাতর হয় না।"
+          },
+          {
+            "en": "He then quotes a line of Imru' al-Qays: of those who restrain the glance, were the smallest young of an ant to creep over the shift she wears, it would leave a mark. He notes a variant, over the cheek, and judges the first more eloquent, glossing al-itb as the shift and al-muhwil as the tiny young of the ant. The poet sets the restrained glance beside a delicacy so fine that even the lightest touch would show, and al-Qurtubi brings the line to show how the phrase was heard in the old poetry.",
+            "bn": "তারপর তিনি ইমরুল কায়সের একটি পঙক্তি উদ্ধৃত করেন। তার মর্ম: সে সংযত-নয়নাদের একজন। পিঁপড়ের ক্ষুদ্রতম বাচ্চাও যদি তার গায়ের জামার উপর দিয়ে হেঁটে যায়, দাগ পড়ে যাবে। কুরতুবী আরেকটি পাঠও উল্লেখ করেন, জামার জায়গায় গালের উপর দিয়ে। তাঁর রায়, প্রথম পাঠটি বেশি অলংকারপূর্ণ। আল-ইতব মানে জামা, আর আল-মুহওয়িল মানে পিঁপড়ের ছোট্ট বাচ্চা, এ ব্যাখ্যাও তিনি দেন। কবি সংযত দৃষ্টির পাশে রেখেছেন এমন কোমলতা, যেখানে সবচেয়ে হালকা ছোঁয়াও চোখে পড়ে। পুরোনো কাব্যে শব্দবন্ধটি কীভাবে শোনা হতো, তা দেখাতেই কুরতুবী পঙক্তিটি এনেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eyes Wide and Lovely",
+          "bn": "ডাগর ও সুন্দর চোখ"
+        },
+        "p": [
+          {
+            "en": "The last word, 'in, at-Tabari explains as an-nujl al-'uyun, those whose eyes are large. It is the plural of 'ayna', a woman whose eyes are wide and large, and such eyes, he says, are the most beautiful eyes can be. As-Suddi says large of eye, and Ibn Zayd that the 'ayna' is a woman with great eyes. Al-Qurtubi adds Mujahid's beautiful of eye, and al-Hasan's: intensely white in the white of the eye, intensely dark in its dark. Large eyes, al-Qurtubi says, is the better known sense in the language.",
+            "bn": "শেষ শব্দ ঈন। তাবারী এর ব্যাখ্যা দেন আন-নুজলুল উয়ুন, অর্থাৎ যাদের চোখ বড় বড়। শব্দটি আয়না-র বহুবচন। আয়না বলা হয় সেই নারীকে, যার চোখ প্রশস্ত ও বড়। তাবারীর ভাষায়, চোখের সৌন্দর্যের সেরা রূপ এটিই। সুদ্দী বলেন, বড় চোখের অধিকারিণী। ইবন যায়দ বলেন, আয়না মানে বিশাল চোখের নারী। কুরতুবী যোগ করেন মুজাহিদের ব্যাখ্যা, সুন্দর চোখের অধিকারিণী। আর হাসানের ব্যাখ্যা: চোখের সাদা অংশ গাঢ় সাদা, কালো অংশ গাঢ় কালো। কুরতুবীর মতে ভাষায় বেশি প্রচলিত অর্থ হলো বড় চোখ।"
+          },
+          {
+            "en": "Al-Qurtubi adds some word lore. A man is called a'yan when his eyes are wide, and the plural is 'in; wild cattle are called 'in from the same word, the bull a'yan and the cow 'ayna'. Ibn Kathir glosses 'in as beautiful of eye, notes that some said large of eye, and says this comes back to the first meaning. Al-Baghawi and al-Muyassar also say beautiful-eyed. The next verse, 37:49, adds a simile of sheltered eggs, which al-Muyassar reads as kept safe, untouched by hands; that image belongs to its own verse.",
+            "bn": "কুরতুবী শব্দটির আরও কিছু ভাষাগত তথ্য দেন। যার চোখ প্রশস্ত, সেই পুরুষকে বলা হয় আ'য়ান, আর বহুবচনে ঈন। একই শব্দ থেকে বুনো গরুকে বলা হয় ঈন, ষাঁড়কে আ'য়ান, আর গাভীকে আয়না। ইবন কাসীর ঈন-এর অর্থ করেন সুন্দর চোখের অধিকারিণী। কেউ কেউ বড় চোখ বলেছেন, তিনি তা উল্লেখ করে বলেন, এ অর্থও প্রথমটিতেই ফিরে যায়। বাগাভী ও মুয়াসসারও বলেন সুন্দর চোখ। পরের আয়াত ৩৭:৪৯ এক উপমা যোগ করে, যেন সযত্নে ঢেকে রাখা ডিম। মুয়াসসার এর অর্থ করে, সুরক্ষিত, কোনো হাত যাকে ছোঁয়নি। সে ছবি অবশ্য সেই আয়াতেরই বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loveliness Paired With Chastity",
+          "bn": "সৌন্দর্যের সঙ্গী সতীত্ব"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the two descriptions as one. Their eyes, he writes, are described with beauty and with chastity together. He then draws a parallel from the story of Yusuf (AS). The women found him so beautiful that they took him for an angel, and the wife of al-'Aziz, whom Ibn Kathir names Zulaykha, said: that is the one about whom you blamed me, and I certainly sought to seduce him, but he firmly refused (12:32). With all this beauty, Ibn Kathir explains, he was chaste, God-fearing and pure.",
+            "bn": "ইবন কাসীর দুটি বিশেষণকে একই ছবির অংশ হিসেবে পড়েন। তাঁর ভাষায়, তাদের চোখের বর্ণনা দেওয়া হয়েছে সৌন্দর্য ও সতীত্ব, দুটি দিয়েই। এরপর তিনি ইউসুফ (আঃ)-এর কাহিনি থেকে এক তুলনা টানেন। নারীরা তাঁকে এত সুন্দর দেখল যে ফেরেশতা ভেবে বসল। আর আযীযের স্ত্রী, ইবন কাসীর যার নাম বলেন যুলায়খা, বলল: এই সে, যার ব্যাপারে তোমরা আমাকে দোষ দিয়েছ। আমি তাকে ফুসলাতে চেয়েছিলাম, কিন্তু সে নিজেকে রক্ষা করেছে (১২:৩২)। ইবন কাসীর বোঝান, এত সৌন্দর্যের সঙ্গেও তিনি ছিলেন সংযমী, আল্লাহভীরু ও নিষ্কলুষ।"
+          },
+          {
+            "en": "So too, Ibn Kathir continues, are the wide-eyed companions of Paradise, khayratun hisan, good and beautiful, in the words of 55:70, and that, he says, is why Allah said wa-'indahum qasiratu at-tarfi 'in. On his reading the verse's two descriptions are not two compliments in a row but one picture: eyes that are lovely, and eyes that are kept. Read this way, the verse praises beauty only in the company of restraint.",
+            "bn": "ইবন কাসীর বলেন, জান্নাতের ডাগর চোখের সঙ্গিনীরাও এমনই। ৫৫:৭০ আয়াতের ভাষায় তারা খাইরাতুন হিসান, উত্তম চরিত্রের ও সুন্দর। তাঁর মতে এ কারণেই আল্লাহ বলেছেন, ওয়া ইনদাহুম কাসিরাতুত তারফি ঈন। এ পাঠে আয়াতের দুটি বিশেষণ পরপর দুটি প্রশংসা নয়, বরং একটিই ছবি। চোখ সুন্দর, আর সে চোখ সংযত। এভাবে পড়লে আয়াতটি সৌন্দর্যের প্রশংসা করে কেবল সংযমকে সঙ্গে নিয়েই।"
+          },
+          {
+            "en": "As-Sa'di widens the picture to everyone in Paradise. All of this, he writes, points to the beauty of the men and the women of Paradise alike, to their love for each other, a love that reaches for no one else, and to the depth of chastity in all of them. There is no envy there, he adds, no mutual hatred and no rancour, because the causes of these are gone. The loyalty in the verse, on his reading, runs both ways.",
+            "bn": "সা'দী ছবিটাকে বড় করে জান্নাতের সবার উপর ছড়িয়ে দেন। তাঁর মতে এ সবকিছু বোঝায় জান্নাতের পুরুষ ও নারী উভয়ের সৌন্দর্য, তাদের পারস্পরিক ভালোবাসা, যে ভালোবাসা আর কারও দিকে হাত বাড়ায় না, আর তাদের সবার গভীর সতীত্ব। তিনি যোগ করেন, সেখানে হিংসা নেই, পারস্পরিক বিদ্বেষ নেই, মনোমালিন্য নেই। কারণ এগুলোর কারণগুলোই সেখানে আর নেই। তাঁর পাঠে আয়াতের বিশ্বস্ততা দুই দিকেই বহমান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Virtue, Asked Now",
+          "bn": "একই গুণ, চাওয়া হচ্ছে এখনই"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a sound hadith to it. What the Qur'an does supply is the same quality asked of believers in this life. In 24:30 it says: tell the believing men to lower some of their gaze and guard their private parts; that is purer for them. In 24:31 the same command is given to the believing women. The verse in As-Saffat describes a gaze held back in Paradise. Surah an-Nur asks for that gaze here, from men and women alike.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে কুরআন নিজেই এই একই গুণ দুনিয়ার জীবনে মুমিনদের কাছে চেয়েছে। ২৪:৩০ আয়াতে বলা হয়েছে: মুমিন পুরুষদের বলুন, তারা যেন দৃষ্টি কিছুটা নত রাখে আর লজ্জাস্থানের হেফাজত করে, এটাই তাদের জন্য বেশি পবিত্র। ২৪:৩১ আয়াতে একই আদেশ এসেছে মুমিন নারীদের জন্য। সূরা আস-সাফফাতের আয়াতটি বলছে জান্নাতের সংযত দৃষ্টির কথা। আর সূরা নূর সেই দৃষ্টি চাইছে এখনই, পুরুষ ও নারী উভয়ের কাছে।"
+          },
+          {
+            "en": "A general narration, not attached to this verse, shows how the Prophet ﷺ taught the first step. In Sahih Muslim (2159), Jarir ibn 'Abdullah (RA) says: I asked the Messenger of Allah ﷺ about the sudden glance, and he commanded me to turn my gaze away. A first look can fall without being chosen. Whether the eye stays, and whether a second look follows, is a choice, and the instruction was simply to turn away, at once and without lingering.",
+            "bn": "একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়, দেখায় নবী ﷺ প্রথম ধাপটি কীভাবে শিখিয়েছেন। সহীহ মুসলিমে (২১৫৯) জারীর ইবন আবদুল্লাহ (রাঃ) বলেন: আমি আল্লাহর রাসূল ﷺ-কে হঠাৎ পড়ে যাওয়া দৃষ্টি সম্পর্কে জিজ্ঞেস করলাম। তিনি আমাকে আদেশ দিলেন, আমি যেন দৃষ্টি ফিরিয়ে নিই। প্রথম দৃষ্টি না চাইতেও পড়ে যেতে পারে। কিন্তু চোখ সেখানে থেমে থাকবে কি না, দ্বিতীয়বার তাকানো হবে কি না, সেটা নিজের সিদ্ধান্ত। আর নির্দেশটা ছিল সোজা: সঙ্গে সঙ্গে ফিরিয়ে নাও, দেরি না করে।"
+          },
+          {
+            "en": "Al-Qurtubi's root gives the lesson its gentlest form. Iqtasara is to be content with something and turn from the rest. Loyalty to a spouse is kept not only in what a person does but in where the eyes are allowed to go, and the restraint grows easier as contentment grows. The verse promises a company whose glances never wander. The honest response is not to picture more than it says, but to begin practising its virtue now, and to hope for the reward as Allah's gift.",
+            "bn": "কুরতুবীর দেখানো শব্দমূল শিক্ষাটিকে সবচেয়ে কোমল রূপ দেয়। ইকতাসারা মানে কোনো কিছুতে তৃপ্ত থেকে বাকিগুলো থেকে মুখ ফিরিয়ে নেওয়া। জীবনসঙ্গীর প্রতি বিশ্বস্ততা শুধু কাজে রক্ষা হয় না। চোখকে কোথায় যেতে দেওয়া হচ্ছে, সেখানেও তা রক্ষা করতে হয়। আর মন যত তৃপ্ত হয়, সংযম তত সহজ হয়ে আসে। আয়াতটি এমন সঙ্গের প্রতিশ্রুতি দেয়, যাদের দৃষ্টি কখনো এদিক-ওদিক যায় না। এর সৎ জবাব আয়াতের চেয়ে বেশি কল্পনা করা নয়। বরং এখনই তার গুণটি চর্চা শুরু করা, আর পুরস্কারের আশা রাখা আল্লাহর দান হিসেবে।"
+          }
+        ]
+      }
+    ]
+  },
   "37:53": {
     "sections": [
       {
