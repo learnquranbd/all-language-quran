@@ -1019,6 +1019,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Sea, a Choosing",
+          "bn": "সাগর পারের পর বাছাই"
+        },
+        "p": [
+          {
+            "en": "Wa-laqadi khtarnahum 'ala 'ilmin 'ala-l-'alamin: and We certainly chose them, knowingly, over the worlds. The verse has six Arabic words, and it opens with the same emphatic wa-laqad that opened 44:30. It names no one new. The pronoun them carries over from the Children of Israel named two verses earlier, and at-Tabari, al-Qurtubi, the Muyassar and Ma'arif al-Qur'an name them so, although al-Baghawi, as a later section shows, narrows the word to the believers among them.",
+            "bn": "ওয়া লাকাদিখতারনাহুম আলা ইলমিন আলাল আলামীন: আমি জেনে বুঝেই তাদের বেছে নিয়েছিলাম বিশ্ববাসীর উপর। আরবিতে আয়াতটিতে মাত্র ছয়টি শব্দ। শুরু হয়েছে সেই একই জোরালো ওয়া লাকাদ দিয়ে, যা দিয়ে ৪৪:৩০ শুরু হয়েছিল। নতুন কারও নাম এখানে নেই। 'তাদের' সর্বনামটি ফিরে যায় দুই আয়াত আগে উল্লিখিত বানী ইসরাঈলের দিকে। তাবারী, কুরতুবী, মুয়াসসার আর মাআরিফুল কুরআন তাদের নামই উল্লেখ করে। তবে বাগাভী শব্দটিকে আরও সংকুচিত করে বলেন, এখানে উদ্দেশ্য তাদের মধ্যকার মুমিনরা। পরের এক অংশে সে কথা আসবে।"
+          },
+          {
+            "en": "The rescue itself, from the humiliating torment and from Pharaoh, belongs to 44:30 and 44:31, which an earlier article in this module has already read. What matters here is the order. Three verses in a row tell what Allah did for one people: He saved them, He chose them, and He gave them signs in which there was a clear trial (44:33). Then the surah turns, in 44:34, to those who say there is nothing beyond the first death. This article stays with the middle step and the trial that follows it, because each explains the other.",
+            "bn": "অপমানজনক শাস্তি আর ফেরাউনের হাত থেকে উদ্ধারের কথা ৪৪:৩০ ও ৪৪:৩১ আয়াতের। এ মডিউলের আগের একটি প্রবন্ধে তা নিয়ে আলোচনা হয়ে গেছে। এখানে দেখার বিষয় হলো ক্রম। পরপর তিন আয়াতে একই জাতির জন্য আল্লাহর তিনটি কাজের কথা। তিনি তাদের রক্ষা করলেন, বেছে নিলেন, তারপর এমন সব নিদর্শন দিলেন যাতে ছিল সুস্পষ্ট পরীক্ষা (৪৪:৩৩)। এরপর ৪৪:৩৪-এ সূরা ফিরে যায় তাদের দিকে, যারা বলে প্রথম মৃত্যুর পর আর কিছু নেই। এ প্রবন্ধ মাঝের ধাপটি নিয়ে, আর তার পরের পরীক্ষাটি নিয়ে। কারণ একটিকে বুঝতে অন্যটি লাগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Words, Two 'Ala",
+          "bn": "ছয় শব্দে দুইবার 'আলা'"
+        },
+        "p": [
+          {
+            "en": "The verb is ikhtarna, We chose. As-Sa'di explains it with two near synonyms, istafaynahum wa-ntaqaynahum: We selected them and picked them out. The Muyassar, rewording the whole verse in plain Arabic, simply swaps in istafayna, the verb the Qur'an uses elsewhere for choosing prophets and Maryam (AS). At-Tabari keeps the verse's own verb. Their attention goes instead to the two short phrases that follow, each opened by the same preposition, 'ala.",
+            "bn": "ক্রিয়াটি ইখতারনা, আমি বেছে নিলাম। সা'দী এর ব্যাখ্যায় কাছাকাছি অর্থের দুটি শব্দ ব্যবহার করেন: ইসতাফাইনাহুম ওয়ানতাকাইনাহুম, অর্থাৎ আমি তাদের মনোনীত করলাম, বাছাই করে আলাদা করলাম। মুয়াসসার পুরো আয়াতটি সহজ আরবিতে বলতে গিয়ে ক্রিয়াটি বদলে লেখে ইসতাফাইনা। কুরআন অন্য জায়গায় নবীদের আর মারইয়াম (আঃ)-কে বাছাইয়ের কথা বলতে এই ক্রিয়াটিই ব্যবহার করে। তাবারী আয়াতের নিজের ক্রিয়াটিই রেখেছেন। তাঁদের মনোযোগ বরং পরের দুটি ছোট বাক্যাংশে, যার দুটিই শুরু হয়েছে একই অব্যয় 'আলা' দিয়ে।"
+          },
+          {
+            "en": "The first 'ala is joined to knowledge, 'ala 'ilm; the second to the worlds, 'ala-l-'alamin. At-Tabari unfolds the whole verse in one sentence: We chose the Children of Israel 'ala 'ilmin minna bihim, with knowledge from Us of them, over the worlds of the people of their time then, and that was the time of Musa (AS). The translation in this app renders it by knowledge over [all] the worlds, and the bracketed all is the translator's addition. Whether all belongs there is exactly what the commentators discuss.",
+            "bn": "প্রথম 'আলা' যুক্ত হয়েছে জ্ঞানের সঙ্গে, আলা ইলম। দ্বিতীয়টি বিশ্ববাসীর সঙ্গে, আলাল আলামীন। তাবারী একটি বাক্যে পুরো আয়াত খুলে বলেন: আমি বানী ইসরাঈলকে বেছে নিয়েছিলাম আলা ইলমিন মিন্না বিহিম, অর্থাৎ তাদের সম্পর্কে আমার জ্ঞানের ভিত্তিতে, সেদিনকার যুগের মানুষের উপর। আর সে যুগ ছিল মূসা (আঃ)-এর যুগ। এই অ্যাপের ইংরেজি অনুবাদে আছে by knowledge over [all] the worlds। বন্ধনীর ভেতরের all শব্দটি অনুবাদকের যোগ করা। সেখানে all বসে কি না, তাফসীরকারদের আলোচনা ঠিক সেটা নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing Them, Then Choosing",
+          "bn": "জেনে নিয়ে তারপর বাছাই"
+        },
+        "p": [
+          {
+            "en": "Whose knowledge, and of what? On the first question the commentators agree: the knowledge is Allah's. At-Tabari and the Muyassar both say 'ala 'ilmin minna bihim, with knowledge from Us of them. Al-Baghawi says only bihim, of them. Al-Jalalayn says with a knowledge that We had of their state. In this plain sense the phrase rules out chance. The choice was not made blindly and was not a reward stumbled into; it was made by Him who already knew the people He was choosing.",
+            "bn": "জ্ঞানটা কার, আর কী নিয়ে? প্রথম প্রশ্নে তাফসীরকারেরা একমত: জ্ঞান আল্লাহর। তাবারী আর মুয়াসসার দুজনই বলেন, আলা ইলমিন মিন্না বিহিম, তাদের সম্পর্কে আমার জ্ঞানের ভিত্তিতে। বাগাভী শুধু বলেন বিহিম, তাদের সম্পর্কে। জালালাইন বলে, তাদের অবস্থা সম্পর্কে আমার যে জ্ঞান ছিল, তার ভিত্তিতে। এই সরল অর্থে বাক্যাংশটি আকস্মিকতার সম্ভাবনা নাকচ করে দেয়। বাছাইটা অন্ধভাবে হয়নি, হঠাৎ জুটে যাওয়া কোনো পুরস্কারও নয়। যাদের বেছে নেওয়া হলো, যিনি বেছে নিলেন তিনি তাদের আগে থেকেই জানতেন।"
+          },
+          {
+            "en": "On the second question, what the knowledge took in, they give different emphases. Al-Qurtubi says the choice was made with knowledge of them li-kathrati-l-anbiya'i minhum, because of the great number of prophets among them. As-Sa'di says it was with knowledge of them wa bi-stihqaqihim li-dhalika-l-fadl, and of their being deserving of that favour. Ma'arif al-Qur'an reads the phrase as a reminder that every act of Allah carries wisdom: the wisdom behind His knowledge called for them to be given distinction, and so they were given it.",
+            "bn": "দ্বিতীয় প্রশ্নে, অর্থাৎ জ্ঞানটা কী কী জানত, সেখানে তাঁদের জোর ভিন্ন ভিন্ন জায়গায়। কুরতুবী বলেন, বাছাই হয়েছিল তাদের সম্পর্কে জ্ঞানের ভিত্তিতে, লি-কাসরাতিল আম্বিয়াই মিনহুম, কারণ তাদের মধ্যে নবীর সংখ্যা ছিল অনেক। সা'দী বলেন, তাদের সম্পর্কে জ্ঞান, আর সেই মর্যাদার যোগ্য হওয়ার জ্ঞান। মাআরিফুল কুরআন এখানে মনে করিয়ে দেয় যে আল্লাহর প্রতিটি কাজের পেছনে হিকমত থাকে। তাঁর জ্ঞানের ভেতরের হিকমতই চেয়েছিল তাদের শ্রেষ্ঠত্ব দেওয়া হোক, আর তাই দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "Two later commentaries go further. Maududi's Tafhim al-Qur'an writes that Allah was well aware of both the qualities and the weaknesses of the Children of Israel, did not choose them blindly, and found them the most suitable people of their age to carry His message and His Oneness. Kashf al-Asrar, in an allusive vein, says they were chosen with knowledge of their hearts' love for Him despite the many sins they committed against Him. On these readings, knowingly includes knowing the lapses too.",
+            "bn": "পরবর্তী যুগের দুটি তাফসীর আরও এক ধাপ এগিয়ে যায়। মাওদূদীর তাফহীমুল কুরআন লেখে, বানী ইসরাঈলের গুণ আর দুর্বলতা দুটোই আল্লাহ ভালো করে জানতেন। তিনি তাদের অন্ধভাবে বাছেননি। সে যুগে তাঁর বাণী আর তাওহীদের পতাকা বইবার জন্য তাঁর জ্ঞানে তারাই ছিল সবচেয়ে উপযুক্ত। কাশফুল আসরার ইশারার ভঙ্গিতে লেখে: তাদের অন্তরে তাঁর প্রতি যে ভালোবাসা ছিল, তা জেনেই তাদের বাছাই করা হয়, যদিও তাঁর বিরুদ্ধে তাদের গুনাহ ছিল অনেক। এই পাঠে 'জেনে বুঝে' কথাটার মধ্যে তাদের পদস্খলনের জ্ঞানও পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Age Has Its World",
+          "bn": "প্রতি যুগের নিজস্ব জগৎ"
+        },
+        "p": [
+          {
+            "en": "Most commentators fetched read al-'alamin, the worlds, as the people of that one age. At-Tabari writes 'ala 'alami ahli zamanihim yawma'idhin, over the worlds of the people of their time then, names that time as the time of Musa (AS), and adds that the people of interpretation said the same. He gives Qatada through two chains. In one: they were chosen over the people of that time of theirs, wa li-kulli zamanin 'alam, and every age has its world. In the other: the world of that time.",
+            "bn": "সংগৃহীত তাফসীরগুলোর বেশিরভাগ আলামীন বা বিশ্ববাসী শব্দটিকে বোঝে সেই এক যুগের মানুষ হিসেবে। তাবারী লেখেন, আলা আলামী আহলি যামানিহিম ইয়াওমাইযিন, সেদিনকার যুগের মানুষের উপর। সে যুগকে তিনি নির্দিষ্ট করে বলেন মূসা (আঃ)-এর যুগ। সঙ্গে যোগ করেন, তাফসীরবিদরাও এমনটাই বলেছেন। কাতাদার কথা তিনি আনেন দুটি সনদে। একটিতে: তাদের বাছাই করা হয়েছিল তাদের সেই যুগের মানুষের উপর, ওয়া লি-কুল্লি যামানিন আলাম, প্রতিটি যুগের আছে নিজের জগৎ। অন্যটিতে: সেই যুগের জগৎ।"
+          },
+          {
+            "en": "Mujahid, also in at-Tabari, puts it more narrowly still: 'ala man hum bayna zahranayhi, over those in whose midst they lived. The Muyassar, al-Baghawi and al-Jalalayn all say the worlds of their time, and al-Jalalayn specifies the rational beings. Tanwir al-Miqbas, the commentary attributed to Ibn 'Abbas, likewise says of their time, and lists what the choosing consisted of: food sent down to them, the Scripture and a Messenger, and their rescue from Pharaoh, his people and drowning.",
+            "bn": "মুজাহিদের কথাও তাবারীতে আছে, আরও সংকুচিত করে: আলা মান হুম বাইনা যাহরানাইহি, যাদের মাঝখানে তারা বাস করত, তাদের উপর। মুয়াসসার, বাগাভী আর জালালাইন সবাই বলেন, তাদের যুগের বিশ্ববাসী। জালালাইন আরও নির্দিষ্ট করে বলে, বিবেকবান সৃষ্টি। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাসও বলে, তাদের যুগের। সেখানে বাছাইয়ের উপাদানগুলোও গোনা হয়েছে: আসমান থেকে নামানো খাবার, কিতাব আর রাসূল, আর ফেরাউন, তার লোকজন ও ডুবে মরা থেকে রক্ষা।"
+          },
+          {
+            "en": "Ibn Kathir supports the time-bound reading from the Qur'an's own usage. To Musa (AS) Allah says in 7:144, I have chosen you over the people, meaning the people of his time. To Maryam (AS) the angels say in 3:42 that she was chosen over the women of the worlds, meaning in her time, and he gives his reason: Khadija is above her in merit, and so is Asiya the wife of Pharaoh, or else equal to her. Ma'arif al-Qur'an draws the same parallel.",
+            "bn": "কুরআনের নিজের ব্যবহার থেকে ইবন কাসীর এই যুগসীমিত পাঠের পক্ষে প্রমাণ আনেন। ৭:১৪৪ আয়াতে আল্লাহ মূসা (আঃ)-কে বলেন, আমি তোমাকে মানুষের উপর বেছে নিয়েছি। এখানে মানুষ মানে তাঁর যুগের মানুষ। ৩:৪২ আয়াতে ফেরেশতারা মারইয়াম (আঃ)-কে বলেন, তাঁকে বিশ্বের নারীদের উপর বেছে নেওয়া হয়েছে। ইবন কাসীরের মতে এর মানে তাঁর যুগের নারী। কারণ হিসেবে তিনি বলেন, খাদীজা মর্যাদায় তাঁর চেয়ে বড়, ফেরাউনের স্ত্রী আসিয়াও তাই, কিংবা তাঁর সমান। মাআরিফুল কুরআনও একই দৃষ্টান্ত টানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Qurtubi Keeps Three Views",
+          "bn": "কুরতুবীর কাছে তিন মত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the time-bound reading first, as the view of Qatada and others, citing what Allah says to this community in 3:110, kuntum khayra ummatin ukhrijat li-n-nas, you are the best community brought forth for mankind. Then he records a second view, introduced with qila, it has been said: over all the worlds, by the prophets He placed among them, a distinction belonging to them alone. He notes that Ibn 'Isa and al-Zamakhshari, among others, report it. On that view, he says, 3:110 means best after the Children of Israel.",
+            "bn": "কুরতুবী প্রথমে যুগসীমিত পাঠটি আনেন কাতাদা ও অন্যদের মত হিসেবে। এর পক্ষে দলিল দেন ৩:১১০ আয়াত থেকে, যেখানে আল্লাহ এই উম্মতকে বলেন: কুনতুম খাইরা উম্মাতিন উখরিজাত লিন্নাস, মানুষের জন্য যত উম্মত বের করা হয়েছে, তোমরা তাদের মধ্যে শ্রেষ্ঠ। এরপর 'বলা হয়েছে' কথাটি দিয়ে তিনি দ্বিতীয় একটি মত আনেন। সে মতে বাছাইটা সমস্ত জগতের উপর, তাদের মধ্যে নবী পাঠানোর কারণে, আর এ মর্যাদা কেবল তাদেরই। তিনি জানান, ইবন ঈসা, যামাখশারী ও আরও কয়েকজন মতটি উল্লেখ করেছেন। তাঁর ভাষায়, সে মত মানলে ৩:১১০-এর অর্থ দাঁড়ায় বানী ইসরাঈলের পরে শ্রেষ্ঠ।"
+          },
+          {
+            "en": "He closes that view with wa-Allahu a'lam, and Allah knows best, and adds a third, also with qila: that this choosing refers back to their rescue from drowning and their being made heirs of the land after Pharaoh. As-Sa'di takes a middle course. The worlds, he says, are those of their time and of those before and after them, until Allah brought the community of Muhammad ﷺ, who were then favoured over all the worlds and made the best community brought forth for mankind.",
+            "bn": "সেই মতের শেষে তিনি লেখেন, ওয়াল্লাহু আ'লাম, আল্লাহই ভালো জানেন। তারপর আবার 'বলা হয়েছে' দিয়ে তৃতীয় একটি মত আনেন: এ বাছাই বলতে বোঝায় ডুবে মরা থেকে তাদের উদ্ধার, আর ফেরাউনের পর তাদের ভূমির উত্তরাধিকারী করা। সা'দী মাঝামাঝি একটি পথ নেন। তাঁর মতে বিশ্ববাসী মানে তাদের যুগের মানুষ, তাদের আগের ও পরের মানুষও। এই অবস্থা চলেছে যতদিন না আল্লাহ মুহাম্মাদ ﷺ-এর উম্মতকে আনলেন। তখন তাদেরকে সমস্ত জগতের উপর মর্যাদা দেওয়া হলো, আর মানুষের জন্য বের করা শ্রেষ্ঠ উম্মত বানানো হলো।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an holds to the time-bound reading but allows that the Children of Israel may have some distinction over all peoples from one particular angle, while the community of the final Messenger ﷺ holds the highest standing taken as a whole. These are real differences of scope, and this article leaves them side by side. None of the commentaries fetched for this verse attaches a hadith to it; Ibn Kathir's closing line on the merit of 'A'isha concerns women's merit, not this verse.",
+            "bn": "মাআরিফুল কুরআন যুগসীমিত পাঠটিই ধরে রাখে। তবে মেনে নেয় যে কোনো একটি বিশেষ দিক থেকে বানী ইসরাঈলের হয়তো সব যুগের সব মানুষের উপর কিছু শ্রেষ্ঠত্ব থাকতে পারে। আর সামগ্রিকভাবে সর্বোচ্চ মর্যাদা শেষ নবী ﷺ-এর উম্মতের। পরিধি নিয়ে এগুলো সত্যিকারের মতভেদ, আর এ প্রবন্ধ এগুলোকে পাশাপাশি রেখে দিচ্ছে। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। আয়েশা (রাঃ)-এর মর্যাদা নিয়ে ইবন কাসীরের শেষ লাইনটি নারীদের মর্যাদা প্রসঙ্গে, এ আয়াত প্রসঙ্গে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Signs That Carried a Test",
+          "bn": "নিদর্শনের ভেতরে পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the thought: wa-ataynahum mina-l-ayati ma fihi bala'un mubin, and We gave them signs in which there was a clear trial (44:33). At-Tabari explains the signs as lessons and admonitions, in which lay a test that makes plain, to anyone who reflects, that Allah was testing them by it. Ibn Kathir calls the signs proofs and events that broke the ordinary course of things, and the bala' an open test for whoever would be guided by them.",
+            "bn": "পরের আয়াত কথাটা সম্পূর্ণ করে: ওয়া আতাইনাহুম মিনাল আয়াতি মা ফীহি বালাউম মুবীন, আর আমি তাদের এমন সব নিদর্শন দিয়েছিলাম যাতে ছিল সুস্পষ্ট পরীক্ষা (৪৪:৩৩)। তাবারী নিদর্শন বলতে বোঝেন শিক্ষা আর উপদেশ। তার ভেতরে ছিল এমন এক পরীক্ষা, যে ভেবে দেখবে তার কাছে স্পষ্ট হয়ে যাবে যে আল্লাহ এ দিয়ে তাদের পরখ করছেন। ইবন কাসীর নিদর্শন বলতে বোঝেন দলিল-প্রমাণ আর স্বাভাবিক নিয়মের বাইরের ঘটনা। আর 'বালা' তাঁর কাছে খোলা এক পরীক্ষা, দেখার জন্য যে কে এ দিয়ে হিদায়াত পায়।"
+          },
+          {
+            "en": "At-Tabari records a disagreement about the trial. Qatada took it as a trial by blessings: Allah saved them from their enemy, brought them across the sea, shaded them with cloud and sent down manna and quails. Ibn Zayd took it as a trial by ease and hardship, reciting 21:35, We test you with evil and with good as a trial: to see who would believe in the signs and benefit from them, and who would waste them. At-Tabari judges that nothing restricts it to one, and Allah tested them by both.",
+            "bn": "পরীক্ষাটা কী দিয়ে, তা নিয়ে তাবারী একটি মতভেদ উল্লেখ করেন। কাতাদার মতে পরীক্ষা ছিল নিয়ামত দিয়ে: আল্লাহ তাদের শত্রুর হাত থেকে বাঁচালেন, সাগর পার করালেন, মেঘ দিয়ে ছায়া দিলেন, মান্না আর সালওয়া নামালেন। ইবন যায়দের মতে পরীক্ষা ছিল সুখ আর কষ্ট দুটো দিয়েই। তিনি পড়েন ২১:৩৫ আয়াত: আমি তোমাদের মন্দ ও ভালো দিয়ে পরীক্ষা করি। দেখার জন্য যে কে নিদর্শনে ঈমান আনে, তা থেকে উপকার নেয়, আর কে তা নষ্ট করে। তাবারীর সিদ্ধান্ত: কোনো কিছুই একটিকে আলাদা করে নির্দিষ্ট করে না। আল্লাহ দুটো দিয়েই তাদের পরীক্ষা করেছিলেন।"
+          },
+          {
+            "en": "As-Sa'di reads bala' here in its other sense. For him it is ihsanun kathirun zahir, abundant and evident goodness from Allah to them, and at the same time hujja 'alayhim, a proof against them, establishing the truth of what Musa (AS) had brought. Put beside 44:32, the pairing is telling. The verse of choosing is followed at once by a verse of testing, and the very gifts that marked the choosing are the ones by which they would be weighed. A favour of that size is never only a favour.",
+            "bn": "সা'দী এখানে 'বালা' শব্দের অন্য অর্থটি নেন। তাঁর কাছে এর মানে ইহসানুন কাসীরুন যাহির, তাদের প্রতি আল্লাহর প্রচুর ও প্রকাশ্য অনুগ্রহ। আবার একই সঙ্গে হুজ্জাতুন আলাইহিম, তাদের বিরুদ্ধে দলিল, যা মূসা (আঃ)-এর আনা বাণীর সত্যতা প্রমাণ করে। ৪৪:৩২-এর পাশে রাখলে জোড়াটা অনেক কিছু বলে। বাছাইয়ের আয়াতের ঠিক পরেই আসে পরীক্ষার আয়াত। আর যেসব দান দিয়ে বাছাইটা চেনা গেল, সেগুলো দিয়েই তাদের ওজন করা হবে। এত বড় অনুগ্রহ কখনো কেবল অনুগ্রহ থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tied to Faith and an Age",
+          "bn": "ঈমান আর যুগে বাঁধা"
+        },
+        "p": [
+          {
+            "en": "Several sources tie the choosing to more than birth. Al-Baghawi glosses them as mu'mini Bani Isra'il, the believers of the Children of Israel. Kashf al-Asrar likewise says the verse came down about the faithful among them. As-Sa'di links the choice to their deserving the favour, and Maududi to the task of carrying the message. Then 44:33 turns the gifts into a test. With the time-bound sense of the worlds, the choosing these commentators describe is conditional and belongs to its age, not a rank that passes down regardless of conduct.",
+            "bn": "কয়েকটি তাফসীর বাছাইকে জন্মের বাইরের কিছুর সঙ্গে বাঁধে। বাগাভী 'তাদের' বলতে বোঝান মু'মিনী বানী ইসরাঈল, বানী ইসরাঈলের মুমিনরা। কাশফুল আসরারও বলে, আয়াতটি নেমেছে তাদের মধ্যকার ঈমানদারদের নিয়ে। সা'দী বাছাইকে যুক্ত করেন তাদের যোগ্যতার সঙ্গে, মাওদূদী বাণী বহনের দায়িত্বের সঙ্গে। তারপর ৪৪:৩৩ সেই দানগুলোকেই পরীক্ষা বানিয়ে দেয়। এর সঙ্গে 'বিশ্ববাসী' শব্দের যুগসীমিত অর্থ মিলিয়ে পড়লে বোঝা যায়, এই তাফসীরকারেরা যে বাছাইয়ের কথা বলেন তা শর্তসাপেক্ষ, আর নিজের যুগের। আচরণ যা-ই হোক, বংশ ধরে নেমে আসা কোনো পদমর্যাদা তা নয়।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what Allah did for a community in the time of Musa (AS), as at-Tabari states outright, and it licenses nothing against any living person or community. It confers nothing on any of them either. This article draws no link from it, for or against, to any people, religion or state of the present day. To read it as a charter of permanent standing, or as a charge against anyone now alive, goes beyond what any commentator quoted here says.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। মূসা (আঃ)-এর যুগে একটি জাতির জন্য আল্লাহ যা করেছিলেন, আয়াতটি তারই বর্ণনা। তাবারী তা স্পষ্ট ভাষায় বলেছেন। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। তাদের কাউকে কোনো বিশেষ মর্যাদাও দেয় না। বর্তমান যুগের কোনো জাতি, ধর্ম বা রাষ্ট্রের সঙ্গে, পক্ষে হোক বা বিপক্ষে, এ প্রবন্ধ এর কোনো যোগসূত্র টানে না। একে চিরস্থায়ী মর্যাদার সনদ বানানো, কিংবা আজকের কারও বিরুদ্ধে অভিযোগপত্র বানানো, দুটোই এখানে উদ্ধৃত প্রত্যেক তাফসীরকারের কথার সীমা ছাড়িয়ে যাওয়া।"
+          },
+          {
+            "en": "The same discipline binds the Muslim reader. Al-Qurtubi and as-Sa'di both reach for 3:110 to place this community, and that verse states its own terms in the very next words: ta'muruna bi-l-ma'rufi wa tanhawna 'ani-l-munkari wa tu'minuna bi-llah, you enjoin what is right, forbid what is wrong and believe in Allah. A people's place in the Qur'an's account is described alongside what they do. Anyone who reads 44:32 as a lesson about others, and 3:110 as a compliment to themselves, has not yet read either verse closely.",
+            "bn": "মুসলিম পাঠকের জন্যও একই নিয়ম। এ উম্মতের অবস্থান বোঝাতে কুরতুবী ও সা'দী দুজনই ৩:১১০ আয়াতের কাছে যান। আর সে আয়াত ঠিক পরের কথাতেই নিজের শর্ত জানিয়ে দেয়: তা'মুরূনা বিল মা'রূফি ওয়া তানহাওনা আনিল মুনকারি ওয়া তু'মিনূনা বিল্লাহ, তোমরা ভালো কাজের আদেশ দাও, মন্দ কাজে নিষেধ করো, আর আল্লাহর উপর ঈমান রাখো। কুরআনের বর্ণনায় কোনো জাতির অবস্থান আসে তাদের কাজের সঙ্গে মিলিয়ে। কেউ যদি ৪৪:৩২-কে অন্যদের নিয়ে শিক্ষা আর ৩:১১০-কে নিজের প্রশংসা বলে পড়ে, তবে দুটোর কোনোটিই সে এখনো মন দিয়ে পড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known, Chosen, Then Weighed",
+          "bn": "জানা, বাছাই, তারপর ওজন"
+        },
+        "p": [
+          {
+            "en": "For any reader the verse leaves a sobering thought. Whatever good reaches a person, guidance, knowledge, a righteous family, a place among people of faith, was given 'ala 'ilm, by One who already knew them, their strengths and their weak points alike. Nothing was handed over by mistake, or to be kept like a title. In the pattern of these two verses, the gift comes first and the test is folded inside it. What is given is also what will be asked about.",
+            "bn": "যেকোনো পাঠকের জন্য আয়াতটি একটা গম্ভীর ভাবনা রেখে যায়। হিদায়াত, ইলম, নেককার পরিবার, ঈমানদারদের মাঝে একটুখানি জায়গা, যে ভালোই কারও কাছে পৌঁছাক, তা দেওয়া হয়েছে আলা ইলম, এমন একজনের পক্ষ থেকে যিনি তাকে আগে থেকেই জানেন, তার শক্তি আর দুর্বলতা দুটোই। ভুল করে কিছু হাতে আসেনি, উপাধির মতো আঁকড়ে রাখার জন্যও নয়। এই দুই আয়াতের ধরনে দান আসে আগে, আর পরীক্ষা থাকে তার ভাঁজে। যা দেওয়া হয়, তার হিসাবই চাওয়া হয়।"
+          },
+          {
+            "en": "The question to carry away, then, is not who was chosen once, but what one is doing with what one was given. Is it held with gratitude, used for the task it came with, and kept apart from any sense of being above others? The Children of Israel in the age of Musa (AS) were known, chosen and tested. Every later reader is known too, and is being tested now, by the ease and the hardship that at-Tabari said are both forms of the same trial.",
+            "bn": "তাই পাঠক যে প্রশ্নটা সঙ্গে নিয়ে যেতে পারেন, তা এই নয় যে একসময় কাকে বেছে নেওয়া হয়েছিল। প্রশ্ন হলো, আমাকে যা দেওয়া হয়েছে তা দিয়ে আমি কী করছি। শুকরিয়ার সঙ্গে ধরে রাখছি তো? যে দায়িত্ব নিয়ে এসেছে, সে কাজে লাগাচ্ছি তো? অন্যের উপরে নিজেকে ভাবার অহংকার থেকে দূরে রাখছি তো? মূসা (আঃ)-এর যুগের বানী ইসরাঈলকে জানা হয়েছিল, বাছাই করা হয়েছিল, পরীক্ষা করা হয়েছিল। পরের প্রত্যেক পাঠককেও তিনি জানেন। আর এখন তার পরীক্ষা চলছে সুখ আর কষ্ট দিয়ে, তাবারী যে দুটোকে একই পরীক্ষার দুই রূপ বলেছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "44:38": {
     "sections": [
       {

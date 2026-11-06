@@ -26949,6 +26949,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an describes the food of the Fire boiling inside the body; let that warning reach your heart now, while what you take in and what you turn from is still your choice.",
     "lessonBn": "কুরআন জানায়, জাহান্নামের খাবার শরীরের ভেতরে ফুটতে থাকবে। এই সতর্কবাণী এখনই অন্তরে পৌঁছাতে দিন, যখন কী গ্রহণ করবেন আর কী থেকে ফিরবেন, তা এখনো আপনার হাতে।"
+  },
+  "44:32": {
+    "reflectionEn": "The rescue from Pharaoh has just been told, and the next verse says something larger: We chose them, knowingly, over the worlds. Two short phrases keep it from turning into a boast. Knowingly: the One who chose them knew them completely, before and after, and chose them all the same. Over the worlds: over the people of their own age, as the commentators explain, not over every age to come. Then the very next verse calls what they were given a clear trial. Being chosen was not a prize to keep; it was a test to pass. Whatever I have been given, faith, learning, a place among good people, do I carry it as a rank, or as a trust I will be asked about?",
+    "reflectionBn": "ফেরাউনের হাত থেকে উদ্ধারের কথা এইমাত্র শেষ হলো। পরের আয়াত আরও বড় একটা কথা বলে: আমি জেনে বুঝেই তাদের বেছে নিয়েছিলাম বিশ্ববাসীর উপর। দুটো ছোট কথা এ ঘোষণাকে অহংকারের বুলি হতে দেয় না। প্রথমটি, জেনে বুঝে। যিনি বেছে নিলেন, তিনি তাদের আগের পরের সবকিছু পুরোপুরি জানতেন, তবু বেছে নিলেন। দ্বিতীয়টি, বিশ্ববাসীর উপর। তাফসীরকারেরা বলেন, এর মানে তাদের নিজেদের যুগের মানুষ, ভবিষ্যতের সব যুগ নয়। ঠিক পরের আয়াতেই তাদের দেওয়া জিনিসগুলোকে বলা হয়েছে সুস্পষ্ট পরীক্ষা। বাছাই হওয়া তাই ধরে রাখার পুরস্কার ছিল না, ছিল পার হওয়ার পরীক্ষা। আমাকে যা দেওয়া হয়েছে, ঈমান, ইলম, ভালো মানুষের সোহবত, তা কি আমি পদমর্যাদা ভেবে বয়ে বেড়াই? নাকি আমানত ভাবি, যার হিসাব একদিন চাওয়া হবে?",
+    "pointsEn": [
+      "What have I been given that I quietly treat as proof that I am better than other people?",
+      "If Allah knows me completely, what would I want Him to find in me when my own test comes?",
+      "When I read the Qur'an's praise of an earlier community, do I hear a story about them, or a measure held up to mine?",
+      "Do I recognise ease and comfort as a test in the same way I recognise hardship as one?",
+      "Is there anyone I judge by their ancestors or their group rather than by what they themselves do?"
+    ],
+    "pointsBn": [
+      "আমাকে দেওয়া কোন জিনিসটাকে আমি মনে মনে অন্যদের চেয়ে নিজের শ্রেষ্ঠত্বের প্রমাণ বলে ধরে নিই?",
+      "আল্লাহ যদি আমাকে পুরোপুরি জানেন, তবে আমার পরীক্ষার দিনে তিনি আমার মধ্যে কী দেখুন, এটা আমি চাই?",
+      "আগের কোনো উম্মতের প্রশংসা কুরআনে পড়লে আমি কি শুধু তাদের গল্প শুনি, নাকি আমার নিজের উম্মতকে মাপার দাঁড়িপাল্লাও দেখি?",
+      "কষ্টকে যেমন পরীক্ষা বলে চিনি, সুখ আর স্বাচ্ছন্দ্যকেও কি তেমনি পরীক্ষা বলে চিনতে পারি?",
+      "কাউকে কি আমি তার নিজের কাজ দিয়ে না মেপে তার বাপদাদা বা দলের পরিচয় দিয়ে বিচার করি?"
+    ],
+    "lessonEn": "Whatever Allah gives you is a trust and a test, not a rank; live up to it, and never measure anyone, yourself included, by lineage.",
+    "lessonBn": "আল্লাহ আপনাকে যা দেন তা আমানত আর পরীক্ষা, পদমর্যাদা নয়। সে দায়িত্ব পালন করুন, আর বংশ দিয়ে কাউকে মাপবেন না, নিজেকেও না।"
   }
 };
 
