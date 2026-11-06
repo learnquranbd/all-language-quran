@@ -27009,6 +27009,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let the turning of night and day, the rain and the shifting winds reach your thinking, and read them as signs of the One who sends them.",
     "lessonBn": "রাত-দিনের আবর্তন, বৃষ্টি আর বাতাসের দিক বদলকে নিজের চিন্তা পর্যন্ত পৌঁছাতে দিন, আর এগুলোকে পড়ুন তাঁর নিদর্শন হিসেবে, যিনি এসব পাঠান।"
+  },
+  "44:53": {
+    "reflectionEn": "Five verses earlier, scalding water is poured over a head. Here the same passage turns to the people of taqwa and clothes them: the finest silk and the heavy, gleaming brocade. Then one word moves the picture from what they wear to how they sit: facing one another. No one there sees the back of anyone else's head. The garment is a gift, but the company may be the larger one. In this life we turn our backs on people, out of hurt, pride or plain distraction. The verse shows a gathering where nobody does. Whom have I turned away from, and what would it take to turn back towards them while there is still time?",
+    "reflectionBn": "পাঁচ আয়াত আগে এক মাথার উপর ঢালা হচ্ছিল ফুটন্ত পানি। এখানে একই বর্ণনা ফিরে আসে তাকওয়ার মানুষদের দিকে, আর তাদের গায়ে পরিয়ে দেয় সবচেয়ে মিহি রেশম আর ভারী, ঝলমলে বুটিদার রেশম। তারপর একটিমাত্র শব্দে ছবিটা পোশাক থেকে সরে যায় বসার ধরনে: মুখোমুখি। সেখানে কেউ কারও ঘাড়ের পেছন দেখে না। পোশাক নিঃসন্দেহে উপহার, তবে সঙ্গটা হয়তো তার চেয়েও বড় উপহার। এ দুনিয়ায় আমরা মানুষের দিকে পিঠ ফিরিয়ে বসি, কখনো কষ্ট পেয়ে, কখনো অহংকারে, কখনো নিছক অমনোযোগে। আয়াতটি এমন এক মজলিস দেখায়, যেখানে কেউ তা করে না। আমি কার দিক থেকে মুখ ফিরিয়ে আছি? সময় থাকতে থাকতে তার দিকে আবার মুখ ফেরাতে আমার কী লাগবে?",
+    "pointsEn": [
+      "When I picture the reward, do I think only of what I will be given, or also of the people I hope to sit facing?",
+      "Is there someone I have turned my back on, in anger or in neglect, whom I could face again this week?",
+      "What have I left for Allah's sake that I can learn to see as kept for me rather than lost?",
+      "In the gatherings I sit in, do people leave feeling faced and heard, or talked past?",
+      "Which comfort of this world am I most tempted to treat as my whole portion?"
+    ],
+    "pointsBn": [
+      "পুরস্কারের কথা ভাবলে আমি কি শুধু কী পাব তা-ই ভাবি, নাকি কাদের মুখোমুখি বসতে চাই সেটাও ভাবি?",
+      "রাগে বা অবহেলায় কারও দিকে কি আমি পিঠ ফিরিয়ে রেখেছি, যার সামনে এ সপ্তাহেই আবার মুখোমুখি দাঁড়াতে পারি?",
+      "আল্লাহর জন্য যা ছেড়েছি, তাকে হারানো না ভেবে আমার জন্য জমা রাখা বলে দেখতে কি শিখেছি?",
+      "যেসব মজলিসে আমি বসি, সেখান থেকে মানুষ কি এই অনুভূতি নিয়ে ওঠে যে কেউ তার দিকে তাকিয়েছে, তার কথা শুনেছে? নাকি মনে হয়, কথা তার মাথার উপর দিয়ে চলে গেছে?",
+      "দুনিয়ার কোন আরামকে আমি নিজের পুরো ভাগ বলে ধরে নিতে সবচেয়ে বেশি প্রলুব্ধ হই?"
+    ],
+    "lessonEn": "The Garden clothes the God-conscious and seats them face to face, so turn towards people now, and count what you leave for Allah's sake as kept, not lost.",
+    "lessonBn": "জান্নাত তাকওয়াবানদের রেশম পরায় আর মুখোমুখি বসায়। তাই এখনই মানুষের দিকে মুখ ফেরান, আর আল্লাহর জন্য যা ছেড়েছেন তাকে হারানো নয়, জমা রাখা বলে জানুন।"
   }
 };
 

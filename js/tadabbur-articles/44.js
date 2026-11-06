@@ -1923,6 +1923,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:53": {
+    "sections": [
+      {
+        "h": {
+          "en": "Over a Head, Then Upon Bodies",
+          "bn": "এক মাথায় আগুন, বহু দেহে রেশম"
+        },
+        "p": [
+          {
+            "en": "The passage that holds this verse moves between two kinds of treatment of the body. In 44:48 the command is given about the sinner: pour over his head the torment of scalding water. In 44:49 he is told to taste it. Then 44:51 turns to the muttaqin, the people of taqwa, in a secure station, and 44:52 places them among gardens and springs. Only now, in 44:53, does the text come back to the body, and what it brings to the body this time is cloth.",
+            "bn": "যে অংশে এ আয়াত, সেখানে দেহের সঙ্গে দুই রকম আচরণের কথা পাশাপাশি এসেছে। ৪৪:৪৮ আয়াতে পাপীর ব্যাপারে হুকুম হয়: তার মাথার উপর ফুটন্ত পানির শাস্তি ঢেলে দাও। ৪৪:৪৯ আয়াতে তাকে বলা হয়, স্বাদ নাও। তারপর ৪৪:৫১ আয়াত ফিরে আসে মুত্তাকীদের দিকে, যারা নিরাপদ এক অবস্থানে আছে, আর ৪৪:৫২ তাদের বসায় বাগান আর ঝরনার মাঝে। এবার ৪৪:৫৩ আয়াতে বর্ণনা আবার দেহের কাছে ফেরে। তবে এবার দেহের জন্য আসে কাপড়।"
+          },
+          {
+            "en": "Ibn Kathir's English abridgement, which treats 44:51 to 44:59 together, calls the gardens and springs of 44:52 the direct opposite of what the doomed receive, the tree of zaqqum and the boiling water. The same pairing runs on into this verse. One head is drenched in heat; other bodies are wrapped in silk. The verse does not argue the case for taqwa in the abstract. It sets the two outcomes next to each other, a few lines apart, and leaves the listener to weigh them while there is still time to choose.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৪৪:৫১ থেকে ৪৪:৫৯ একসঙ্গে আলোচনা করে। সেখানে ৪৪:৫২ আয়াতের বাগান আর ঝরনাকে বলা হয়েছে হতভাগাদের প্রাপ্যের ঠিক উল্টো ছবি, যাদের জন্য আছে যাক্কুম গাছ আর ফুটন্ত পানি। এ আয়াতেও সেই জোড়া ছবি চলতে থাকে। একটি মাথা ভিজছে আগুনগরম পানিতে, আর অন্য দেহগুলো জড়ানো রেশমে। তাকওয়ার পক্ষে আয়াতটি বিমূর্ত কোনো যুক্তি দেয় না। কয়েক লাইনের ব্যবধানে দুটি পরিণতি পাশাপাশি রেখে দেয়। ওজন করার ভার শ্রোতার উপর, আর বেছে নেওয়ার সময় এখনো ফুরিয়ে যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Garment Left Unnamed",
+          "bn": "যে পোশাকের নাম নেই"
+        },
+        "p": [
+          {
+            "en": "Yalbasuna min sundusin wa-istabraqin mutaqabilin: five words, and the first is a verb with no new subject. The people who wear are the muttaqin of 44:51, carried forward, and at-Tabari makes this explicit: these muttaqin wear, in these gardens, of sundus and istabraq. The reward does not float free. It belongs to those whom the passage has already named by their taqwa, and it is worn in the place the verse before has just described, among gardens and springs.",
+            "bn": "ইয়ালবাসূনা মিন সুনদুসিন ওয়া ইসতাবরাকিন মুতাকাবিলীন: পাঁচটি শব্দ, আর প্রথমটি এমন এক ক্রিয়া যার নতুন কোনো কর্তা নেই। যারা পরবে, তারা ৪৪:৫১ আয়াতের সেই মুত্তাকীরাই। তাবারী কথাটা খুলে বলেন: এই মুত্তাকীরা এই বাগানগুলোতে সুনদুস আর ইসতাবরাক পরবে। পুরস্কারটা তাই হাওয়ায় ভাসছে না। এটা তাদেরই, যাদের পরিচয় এ অংশ আগেই তাকওয়া দিয়ে দিয়েছে। আর তারা এটা পরবে ঠিক সেই জায়গায়, যার বর্ণনা আগের আয়াতে এসেছে: বাগান আর ঝরনার মাঝে।"
+          },
+          {
+            "en": "At-Tabari also notices what the sentence leaves out. It does not say they wear garments of silk; it says they wear of silk, naming the material and dropping the noun. He relays the view that the word libas, clothing, was left unsaid because the sense of the speech already makes it plain. Elsewhere the noun is spoken: in 18:31 they wear green garments, thiyaban khudran, of the same two cloths. Here the verse goes straight to the material, as though what matters most about the garment is what it is made of.",
+            "bn": "বাক্যটা কী বাদ রেখেছে, তাবারী সেটাও লক্ষ করেন। আয়াত বলছে না যে তারা রেশমের পোশাক পরবে। বলছে, তারা রেশম থেকে পরবে। উপাদানের নাম আছে, পোশাক শব্দটা নেই। তাবারী একটি মত উদ্ধৃত করেন: লিবাস বা পোশাক শব্দটা উল্লেখ করা হয়নি, কারণ কথার ভেতর থেকেই অর্থটা পরিষ্কার। অন্য জায়গায় শব্দটা এসেছে। ১৮:৩১ আয়াতে তারা পরে এই দুই কাপড়েরই সবুজ পোশাক, সিয়াবান খুদরান। এখানে আয়াত সরাসরি উপাদানে চলে যায়। যেন পোশাকের আসল পরিচয় এটাই যে কী দিয়ে তা তৈরি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Cloths, Two Descriptions",
+          "bn": "দুই কাপড়, দুই রকম বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The commentators on this verse describe the two cloths in two ways. Most sort them by weight. At-Tabari says sundus is the thin of dibaj, brocade, and istabraq is the thick of it, and he gives a chain through Qatada to Ikrima that istabraq is thick brocade. Al-Qurtubi gives the same pair in nearly the same words and refers the reader back to his fuller treatment in Surat al-Kahf. The Muyassar says simply that they wear the thin of brocade and the thick of it, and Ma'arif al-Qur'an renders the two as fine silk and thick silk.",
+            "bn": "এ আয়াতের তাফসীরকারেরা কাপড় দুটির বর্ণনা দেন দুইভাবে। বেশির ভাগ ভাগ করেন ওজন দিয়ে। তাবারী বলেন, সুনদুস হলো দিবাজ বা বুটিদার রেশমের পাতলা অংশ, আর ইসতাবরাক তার মোটা অংশ। কাতাদা হয়ে ইকরিমা পর্যন্ত এক সনদে তিনি আনেন যে ইসতাবরাক মানে মোটা দিবাজ। কুরতুবী প্রায় একই ভাষায় একই জোড়া দেন, আর বিস্তারিত আলোচনার জন্য পাঠককে ফিরিয়ে দেন সূরা কাহফে। মুয়াসসার সোজা কথায় বলে: তারা পরবে দিবাজের পাতলাটা আর মোটাটা। মাআরিফুল কুরআন দুটিকে বলে মিহি রেশম আর মোটা রেশম।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic text sorts them another way, by use and by look. Sundus, he says, is fine silk, rafi' al-harir, worn as shirts and the like. Istabraq is cloth with a sheen and a gleam to it, like finery, and what is worn over the top of other cloth. So in his reading the pair is not only thin and thick but inner and outer: the soft garment next to the body, and the bright one above it. The two accounts do not clash. They describe the same two cloths from different sides.",
+            "bn": "ইবন কাসীরের আরবি তাফসীর ভাগ করে অন্যভাবে, ব্যবহার আর চেহারা দিয়ে। তাঁর মতে সুনদুস হলো মিহি রেশম, রাফীউল হারীর, যা দিয়ে জামা ও এ জাতীয় পোশাক হয়। ইসতাবরাক এমন কাপড়, যাতে ঝলক আর দীপ্তি আছে, যেমন জমকালো পোশাক, আর যা অন্য কাপড়ের উপরে পরা হয়। তাঁর পাঠে তাই জোড়াটা শুধু পাতলা আর মোটা নয়, ভেতরের আর বাইরের। একটা নরম পোশাক দেহের সঙ্গে লেগে থাকে, আর উজ্জ্বলটা থাকে তার উপরে। দুই বর্ণনায় কোনো বিরোধ নেই। একই দুই কাপড়কে দুই দিক থেকে দেখা হয়েছে।"
+          },
+          {
+            "en": "As-Sa'di adds a further note. Their clothing, he writes, is green silk, of sundus and istabraq, the thick of silk and the fine of it, of what their souls desire. Green is not named in this verse, though it is in 18:31. The closing phrase is what to hold: the garments are measured not by a standard outside the wearer but by what the wearer longs for. The fuller discussion of the two words, and of why green, belongs to the article on 18:31, and is not repeated here.",
+            "bn": "সা'দী এর সঙ্গে আরও কিছু যোগ করেন। তিনি লেখেন, তাদের পোশাক সবুজ রেশমের, সুনদুস আর ইসতাবরাকের, অর্থাৎ মোটা রেশম আর মিহি রেশম, যা তাদের মন চায় তা-ই। এ আয়াতে সবুজ রঙের উল্লেখ নেই, তবে ১৮:৩১ আয়াতে আছে। ধরে রাখার মতো কথা শেষ অংশটা। পোশাকের মাপকাঠি পরিধানকারীর বাইরের কোনো মান নয়, তার নিজের মনের চাওয়া। শব্দ দুটির বিস্তারিত আলোচনা আর সবুজ রঙের কারণ ১৮:৩১ আয়াতের প্রবন্ধে আছে, এখানে তার পুনরাবৃত্তি করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Shared by Two Tongues",
+          "bn": "দুই ভাষার এক শব্দ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's note on this verse ends by pointing back to al-Kahf, and there, on 18:31, he takes up where istabraq comes from. He lists several views. One he gives from al-Qutabi: the word is Persian, made Arabic, farisi mu'arrab. He cites al-Jawhari for its diminutive, ubayriq. Others, he says, take it as an Arabic form built on bariq, gleam. Then he states his own preference: the correct view is that it is a word on which the two languages agree, since there is nothing in the Qur'an that is not of the language of the Arabs.",
+            "bn": "এ আয়াতে কুরতুবীর টীকা শেষ হয় সূরা কাহফের দিকে ইশারা করে। সেখানে, ১৮:৩১ আয়াতে, তিনি আলোচনা করেন ইসতাবরাক শব্দটা কোথা থেকে এসেছে। কয়েকটি মত তিনি তুলে ধরেন। কুতাবীর বরাতে একটি মত: শব্দটা ফারসি, আরবিতে রূপান্তরিত, ফারিসিয়্যুন মুআররাব। জাওহারীর বরাতে আনেন এর ক্ষুদ্রতাবাচক রূপ, উবাইরিক। কেউ কেউ, তিনি বলেন, একে বারীক অর্থাৎ ঝলক থেকে গড়া আরবি রূপ মনে করেন। তারপর নিজের পছন্দের মত জানান: সঠিক কথা হলো, এ শব্দে দুই ভাষা মিলে গেছে। কারণ কুরআনে এমন কিছু নেই যা আরবদের ভাষার নয়।"
+          },
+          {
+            "en": "On 76:21 his text puts the Persian link more firmly. It rejects a reading that treated istabraq as an Arabic verb pattern from bariq, because the word is arabicised, its arabicisation is well known, and its original is istabrak. Both passages grant that the word lived outside Arabic, and 18:31 names the language as Persian. They differ in how they describe its place in Arabic: a borrowing, or a word both tongues share. Ibn Kathir, on this verse, uses the very word bariq in his gloss, cloth with a gleam, but says nothing about origin.",
+            "bn": "৭৬:২১ আয়াতে তাঁর তাফসীর ফারসি যোগসূত্রটা আরও জোর দিয়ে বলে। এক কিরাআতে ইসতাবরাককে বারীক থেকে গড়া আরবি ক্রিয়ার ছাঁচ ধরা হয়েছিল। সেখানে সেই কিরাআতকে ভুল বলা হয়েছে, কারণ শব্দটা আরবিতে রূপান্তরিত, এর রূপান্তরের কথা সবার জানা, আর এর মূল রূপ ইসতাবরাক, শেষে আরবি কাফ (ك) দিয়ে। দুই জায়গার আলোচনাই মানে যে শব্দটা আরবির বাইরেও চালু ছিল, আর ১৮:৩১ আয়াতে ভাষাটির নাম বলা হয়েছে ফারসি। পার্থক্য আরবিতে তার অবস্থান বোঝানোয়: ধার করা শব্দ, নাকি দুই ভাষারই শব্দ। ইবন কাসীর এ আয়াতের ব্যাখ্যায় বারীক শব্দটাই ব্যবহার করেন, ঝলকওয়ালা কাপড়। তবে উৎস নিয়ে তিনি কিছু বলেন না।"
+          },
+          {
+            "en": "For sundus, none of the texts consulted for this article says where the word comes from. At-Tabari and al-Qurtubi, on 18:31, give only its singular, sundusa, so its origin is left open here. Both of them, on 18:31, quote a line of Arabic verse that already speaks of women dressed in the istabraq of brocade, and at-Tabari names the poet as al-Muraqqish. The reward is described, then, in words the first hearers already used for fine cloth. They could picture it at once. As-Sa'di's phrase, of what their souls desire, keeps it from being confined to that picture.",
+            "bn": "সুনদুস শব্দ কোথা থেকে এসেছে, এ প্রবন্ধে দেখা কোনো তাফসীরে তা বলা নেই। ১৮:৩১ আয়াতে তাবারী আর কুরতুবী শুধু এর একবচন রূপ দেন, সুনদুসা। তাই এর উৎসের প্রশ্ন এখানে খোলা রাখা হলো। ১৮:৩১ আয়াতে দুজনেই আরবি কবিতার একটি চরণ উদ্ধৃত করেন, যেখানে নারীদের দিবাজের ইসতাবরাক পরার কথা আছে। তাবারী কবির নাম বলেন মুরাক্কিশ। অর্থাৎ পুরস্কারের বর্ণনা এসেছে এমন শব্দে, যা প্রথম শ্রোতারা মিহি কাপড় বোঝাতে আগে থেকেই বলত। শুনেই তারা ছবিটা মনে আঁকতে পারত। আর সা'দীর কথা, যা তাদের মন চায়, ছবিটাকে সেই সীমায় আটকে থাকতে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Back of a Neck",
+          "bn": "কারও ঘাড়ের পেছন নয়"
+        },
+        "p": [
+          {
+            "en": "Then the last word, mutaqabilin, facing one another, and the verse turns from cloth to company. At-Tabari explains it: in the Garden they face one another with their faces, and none of them looks at the back of another's neck. He adds that he has already given the narrations on this earlier in his work. In his comment on 15:47, where the same word describes brothers on couches, he cites Mujahid by two chains: none of them looks at the back of his companion's neck. That, he says, is how the people of interpretation took it.",
+            "bn": "তারপর শেষ শব্দ, মুতাকাবিলীন, পরস্পর মুখোমুখি। এখানে এসে আয়াত কাপড় থেকে সঙ্গের দিকে মোড় নেয়। তাবারীর ব্যাখ্যা: জান্নাতে তারা একে অপরের দিকে মুখ করে থাকবে, কেউ কারও ঘাড়ের পেছনে তাকাবে না। তিনি জানান, এ বিষয়ের বর্ণনাগুলো তিনি আগেই উল্লেখ করেছেন। ১৫:৪৭ আয়াতে একই শব্দে খাটের উপর ভাইদের বসার কথা আছে। সেখানে তিনি দুই সনদে মুজাহিদের কথা আনেন: তাদের কেউ নিজের সঙ্গীর ঘাড়ের পেছনে তাকাবে না। তাবারী বলেন, তাফসীরের আলিমরা এভাবেই বুঝেছেন।"
+          },
+          {
+            "en": "Ibn Kathir seats them on couches and says none of them sits with his back to anyone else. The Muyassar and al-Qurtubi add a detail that carries the picture further: their sitting place turns with them wherever they turn. The rows of couches turned inward belong to the article on 52:20. What this verse adds is where the word stands. It comes straight after the garments, in the same short sentence. Clothing here is often worn to be seen from a distance, or to set one person apart. There, the very next word gathers the clothed into a circle of faces.",
+            "bn": "ইবন কাসীর তাদের বসান খাটের উপর, আর বলেন, কেউ কারও দিকে পিঠ দিয়ে বসবে না। মুয়াসসার আর কুরতুবী আরেকটু যোগ করেন, যাতে ছবিটা আরও পরিষ্কার হয়: তারা যেদিকে ঘোরে, তাদের বসার জায়গাও সেদিকে ঘুরে যায়। খাটের সারি ভেতরের দিকে মুখ করে সাজানোর আলোচনা ৫২:২০ আয়াতের প্রবন্ধে আছে। এ আয়াত নতুন যা দেয়, তা শব্দটির অবস্থান। পোশাকের ঠিক পরেই, একই ছোট্ট বাক্যে শব্দটা এসেছে। দুনিয়ায় মানুষ প্রায়ই পোশাক পরে দূর থেকে চোখে পড়তে, কিংবা অন্যদের থেকে নিজেকে আলাদা দেখাতে। সেখানে পরের শব্দটাই পোশাক পরা মানুষগুলোকে মুখোমুখি এক বৃত্তে জড়ো করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Facing in the Heart",
+          "bn": "অন্তরেও মুখোমুখি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads mutaqabilin at two levels. They face each other, he says, in their hearts and in their faces, in complete rest and calm, in love, in good companionship and in fine manners. The word is then about more than the angle of a seat. A person can sit face to face with someone and still be turned away inside, and can be turned towards someone in heart across a great distance. In the Garden, as as-Sa'di reads it, the two come together: the faces meet, and so do the hearts.",
+            "bn": "সা'দী মুতাকাবিলীন শব্দটা পড়েন দুই স্তরে। তিনি বলেন, তারা মুখোমুখি থাকবে অন্তরেও, চেহারাতেও। পূর্ণ আরাম আর প্রশান্তিতে, ভালোবাসায়, সুন্দর সাহচর্যে আর উত্তম আদবে। শব্দটা তাহলে শুধু আসন কোন দিকে ঘোরানো তার কথা নয়। মানুষ কারও সামনাসামনি বসেও ভেতরে ভেতরে মুখ ফিরিয়ে রাখতে পারে। আবার অনেক দূরে থেকেও অন্তর দিয়ে কারও দিকে ফিরে থাকতে পারে। সা'দীর পাঠে জান্নাতে এ দুটো এক হয়ে যায়। চেহারা মুখোমুখি হয়, অন্তরও।"
+          },
+          {
+            "en": "The Qur'an joins the same word to that inner state elsewhere. In 15:47 Allah speaks of removing whatever rancour is in their breasts, so that they are brothers on couches, facing each other. Many people carry into old age a quarrel they could not mend, a brother they no longer speak to, a friend lost over something small. The verses do not pretend such wounds are light. They promise that the people of taqwa will sit facing each other with nothing left between them, and that is a hope worth beginning to live towards here.",
+            "bn": "কুরআন অন্য জায়গায়ও এই শব্দকে অন্তরের এই অবস্থার সঙ্গে জুড়ে দিয়েছে। ১৫:৪৭ আয়াতে আল্লাহ জানান, তাদের বুকের ভেতর যে বিদ্বেষ ছিল তা তিনি বের করে দিয়েছেন, আর তারা ভাই ভাই হয়ে খাটের উপর মুখোমুখি বসে আছে। অনেকে বুড়ো বয়স পর্যন্ত বয়ে বেড়ায় এমন ঝগড়া, যা মেটানো যায়নি। এমন ভাই, যার সঙ্গে আর কথা হয় না। এমন বন্ধু, যাকে হারিয়েছে তুচ্ছ কোনো কারণে। এই ক্ষতগুলোকে আয়াতগুলো হালকা বলে না। তবে কথা দেয়, তাকওয়ার মানুষেরা মাঝখানে কিছু না রেখে মুখোমুখি বসবে। সেই আশার দিকে এখান থেকেই হাঁটা শুরু করা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Is Held Back Now",
+          "bn": "এখন যা তুলে রাখা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted on this verse attaches a hadith to it. There is, though, a general narration on silk that bears on the promise. In Sahih al-Bukhari (5832), Anas ibn Malik (RA) reports that the Prophet ﷺ said: \"Whoever wears silk in this world shall not wear it in the Hereafter.\" Al-Bukhari gives it again (5833) through Ibn az-Zubayr, who said it in a sermon. Both are in his Sahih. None of these commentators ties the narration to this verse; it is cited here as a general word.",
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তবে রেশম নিয়ে একটি সাধারণ বর্ণনা আছে, যা এই প্রতিশ্রুতির সঙ্গে সম্পর্ক রাখে। সহীহ বুখারীতে (৫৮৩২) আনাস ইবন মালিক (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"যে দুনিয়ায় রেশম পরবে, সে আখিরাতে তা পরবে না।\" বুখারী একই কথা আবার আনেন (৫৮৩৩) ইবনুয যুবাইরের সূত্রে, যিনি এক খুতবায় কথাটি বলছিলেন। দুটিই তাঁর সহীহ গ্রন্থে আছে। এই তাফসীরকারদের কেউ বর্ণনাটিকে এ আয়াতের সঙ্গে যুক্ত করেননি। এখানে তা আনা হলো একটি সাধারণ বাণী হিসেবে।"
+          },
+          {
+            "en": "This article gives no legal ruling. Whom the narration covers, and what the jurists say around it, is the work of fiqh, and the article on 22:23 has already looked at the silk that is withheld here and given there. What concerns this verse is the shape of the promise. Read beside that narration, it frames what a believer leaves for Allah's sake not as lost, but as kept. The verses before it, about the sinner seized and scalded, describe what the texts describe. They license nothing against any living person or community.",
+            "bn": "এ প্রবন্ধ কোনো ফিকহি বিধান দিচ্ছে না। বর্ণনাটি কাদের জন্য, আর ফকীহরা এর আশপাশে কী বলেছেন, সেটা ফিকহের কাজ। দুনিয়ায় যে রেশম আটকে রাখা হয় আর ওখানে দেওয়া হয়, তা নিয়ে ২২:২৩ আয়াতের প্রবন্ধে আগেই আলোচনা হয়েছে। এ আয়াতের বিষয় প্রতিশ্রুতির ধরনটা। বর্ণনাটির পাশে রেখে পড়লে আয়াতটি বোঝায়, আল্লাহর জন্য মুমিন যা ছেড়ে দেয় তা হারায় না, জমা থাকে। আগের আয়াতগুলোতে যে পাপীকে ধরে টেনে নিয়ে মাথায় ফুটন্ত পানি ঢালা হয়, সেগুলো কেবল তা-ই বলে যা পাঠে আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে সেগুলো কোনো অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clothed by His Bounty",
+          "bn": "তাঁর অনুগ্রহের পোশাক"
+        },
+        "p": [
+          {
+            "en": "The passage gives its own verdict on all of this in 44:57: a bounty from your Lord, and that is the great attainment. Ibn Kathir's abridgement explains that it will come from His bounty and kindness towards them. The silk, the springs and the faces turned inward are not wages paid at a market rate. They are a gift, and that is why no one need despair of them. A person who has fallen short can still hope to be clothed, because He who clothes gives out of bounty.",
+            "bn": "এ সবকিছুর ব্যাপারে অংশটি নিজেই রায় দেয় ৪৪:৫৭ আয়াতে: তোমার রবের অনুগ্রহ, আর এটাই মহা সাফল্য। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ ব্যাখ্যা করে, এসব আসবে তাদের প্রতি তাঁর অনুগ্রহ আর দয়া থেকে। রেশম, ঝরনা, ভেতরের দিকে ফেরানো মুখগুলো বাজারদরে চুকিয়ে দেওয়া মজুরি নয়। এগুলো উপহার। তাই এ নিয়ে কারও নিরাশ হওয়ার কারণ নেই। যে মানুষ ঘাটতি রেখে ফেলেছে, সেও এই পোশাকের আশা করতে পারে। কারণ যিনি পরান, তিনি দেন অনুগ্রহ থেকে।"
+          },
+          {
+            "en": "So the verse leaves two tasks for today. One is taqwa, the quality 44:51 named, and the trust that nothing let go for Allah's sake is wasted. The other is the turning of faces. If the Garden is a gathering where no one sees another's back, a person who hopes for it can begin by turning towards someone he has turned away from: a parent, a brother, a neighbour, an old friend. A few verses on, 44:58 says the Qur'an was made easy so that people might take heed. The heeding is for now.",
+            "bn": "আয়াতটি তাই আজকের জন্য দুটি কাজ রেখে যায়। একটি তাকওয়া, যার কথা ৪৪:৫১ আয়াতে এসেছে। সঙ্গে এই ভরসা যে আল্লাহর জন্য যা ছাড়া হয়, তার কিছুই বৃথা যায় না। অন্যটি মুখ ফেরানো। জান্নাত যদি এমন মজলিস হয় যেখানে কেউ কারও পিঠ দেখে না, তবে যে তার আশা করে, সে শুরু করতে পারে এমন কারও দিকে মুখ ফিরিয়ে, যার দিক থেকে সে মুখ ঘুরিয়ে রেখেছে। হতে পারে মা-বাবা, ভাই, প্রতিবেশী বা পুরোনো কোনো বন্ধু। কয়েক আয়াত পরে ৪৪:৫৮ বলে, কুরআনকে সহজ করা হয়েছে যাতে মানুষ উপদেশ নেয়। উপদেশ নেওয়ার সময় এখনই।"
+          }
+        ]
+      }
+    ]
+  },
   "44:58": {
     "sections": [
       {
