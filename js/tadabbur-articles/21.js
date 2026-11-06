@@ -3467,6 +3467,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:104": {
+    "sections": [
+      {
+        "h": {
+          "en": "Inside the Promised Day",
+          "bn": "ওয়াদা করা দিনের ভেতরে"
+        },
+        "p": [
+          {
+            "en": "The previous verse ends in a greeting. Those of 21:101, for whom the best has gone ahead from Allah, are not grieved by the greatest terror, and the angels meet them saying: this is your Day, the Day you were promised. Then comes yawma natwi as-sama': the Day We fold the heaven. At-Tabari reads the two verses as one sentence. The Day is tied to la yahzunuhum, so the believers are spared grief on the very day the sky is folded. The cosmic scene arrives inside a reassurance.",
+            "bn": "আগের আয়াতটি শেষ হয়েছে অভ্যর্থনায়। ২১:১০১ আয়াতে যাদের কথা এসেছে, আল্লাহর পক্ষ থেকে যাদের জন্য কল্যাণ আগেই নির্ধারিত, মহা ত্রাস তাদের চিন্তিত করবে না। ফেরেশতারা এগিয়ে এসে তাদের বলবে: এটাই তোমাদের সেই দিন, যার ওয়াদা তোমাদের দেওয়া হয়েছিল। তারপরই আসে ইয়াওমা নাতবিস সামা: যেদিন আমি আকাশকে গুটিয়ে নেব। তাবারী দুই আয়াতকে একটানা একটি বাক্য হিসেবে পড়েন। তাঁর মতে 'দিন' শব্দটি লা ইয়াহযুনুহুম, অর্থাৎ 'তাদের চিন্তিত করবে না', এর সঙ্গে জোড়া। মানে, যেদিন আকাশ গুটানো হবে, ঠিক সেদিনই মুমিনরা দুশ্চিন্তা থেকে মুক্ত থাকবে। মহাজাগতিক দৃশ্যটা তাই আসে আশ্বাসের ভেতর দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi sets out four ways to read the word yawma. It may stand in for the promise of the previous verse, so that the Day you were promised is the Day We fold the heaven. It may be governed by nu'iduhu, We will repeat it, later in this verse. It may hang on la yahzunuhum, as at-Tabari has it. Or an unstated 'remember' may stand before it. Each reading ties the folding of the sky to the promise and the return, not to terror alone.",
+            "bn": "কুরতুবী ইয়াওমা শব্দটি পড়ার চারটি সম্ভাব্য পথ দেখান। হতে পারে এটি আগের আয়াতের ওয়াদার জায়গায় বসেছে। তখন অর্থ দাঁড়ায়: তোমাদের যে দিনের ওয়াদা দেওয়া হয়েছিল, সেটা হলো আকাশ গুটানোর দিন। হতে পারে এর নিয়ন্ত্রক এই আয়াতেরই পরের ক্রিয়া নুঈদুহু, 'আবার তা ফিরিয়ে আনব'। হতে পারে এটি লা ইয়াহযুনুহুম-এর সঙ্গে যুক্ত, তাবারী যেমন বলেছেন। আবার আগে একটি অনুচ্চারিত 'স্মরণ করো' থাকাও সম্ভব। যেভাবেই পড়া হোক, আকাশ গুটানোর ছবিটা বাঁধা পড়ে ওয়াদা আর পুনরুত্থানের সঙ্গে, শুধু আতঙ্কের সঙ্গে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rolled Shut Like Paper",
+          "bn": "কাগজের মতো গুটিয়ে বন্ধ"
+        },
+        "p": [
+          {
+            "en": "The verb is tayy. Al-Baghawi defines it as darj, rolling up, the opposite of nashr, spreading out. As-Sa'di draws the picture: on the Day of Resurrection Allah folds the heavens, for all their greatness and breadth, as a writer folds the sijill, the sheet with writing on it. Their stars are scattered, their sun and moon are wound up, and they pass from their places. The Muyassar keeps it short: We fold the heaven as a sheet is folded over what was written in it.",
+            "bn": "ক্রিয়াটি হলো তাইয়। বাগাভী এর অর্থ বলেন দারজ, মানে গুটিয়ে নেওয়া, যা নাশর বা মেলে ধরার উল্টো। সা'দী ছবিটা এঁকে দেন। কিয়ামতের দিন আল্লাহ আকাশমণ্ডলীকে গুটিয়ে নেবেন, তার এত বিশালতা আর বিস্তার সত্ত্বেও, যেমন লেখক সিজিল্ল গুটিয়ে রাখে। সিজিল্ল মানে যে কাগজে লেখা আছে। তারকারা তখন ছড়িয়ে পড়বে, সূর্য আর চাঁদকে জড়িয়ে গুটিয়ে ফেলা হবে, সবকিছু নিজের জায়গা থেকে সরে যাবে। মুয়াসসার কথাটা ছোট করে বলে: আমি আকাশকে গুটিয়ে নেব, যেমন কাগজ গুটানো হয় তাতে লেখা কথার উপর।"
+          },
+          {
+            "en": "Al-Qurtubi finds two possible senses in the folding. The first is rolling up, the opposite of spreading, and he cites 39:67: the heavens rolled up in His right hand. The second is hiding, blotting out and effacing: Allah wipes away the heaven's features and dims its stars. For this he cites 81:1, 81:2 and 81:11, when the sun is wound round, when the stars fall dim, when the heaven is stripped away.",
+            "bn": "কুরতুবী এই গুটানোর দুটি সম্ভাব্য অর্থ দেখেন। প্রথমটি হলো পেঁচিয়ে গুটানো, মেলে ধরার বিপরীত। এর প্রমাণ হিসেবে তিনি আনেন ৩৯:৬৭: আকাশমণ্ডলী তাঁর ডান হাতে গুটানো থাকবে। দ্বিতীয়টি হলো আড়াল করা, মুছে দেওয়া, চিহ্ন বিলীন করা। আল্লাহ আকাশের সব নিশানা মুছে দেবেন, তারকাদের আলো নিভিয়ে দেবেন। এর জন্য তিনি উদ্ধৃত করেন ৮১:১, ৮১:২ ও ৮১:১১: যখন সূর্যকে জড়িয়ে নেওয়া হবে, তারকারা যখন নিষ্প্রভ হবে, আকাশের আবরণ যখন সরিয়ে নেওয়া হবে।"
+          },
+          {
+            "en": "Ibn Kathir opens his comment with the same cross-reference: this will happen on the Day of Resurrection, as Allah said in 39:67, the whole earth in His grip on that Day and the heavens rolled up in His right hand. He then cites al-Bukhari. The fetched page of Sahih al-Bukhari, no. 7412, gives Ibn Umar's report in this wording: the Messenger of Allah ﷺ said, \"Allah will grasp the earth on the Day of Resurrection, and the heavens will be in His right hand; then He will say: I am the King.\"",
+            "bn": "ইবন কাসীরও তাঁর আলোচনা শুরু করেন একই আয়াতের দিকে ইঙ্গিত করে। তিনি বলেন, এটা ঘটবে কিয়ামতের দিন, যেমন আল্লাহ ৩৯:৬৭ আয়াতে বলেছেন: সেদিন গোটা পৃথিবী থাকবে তাঁর মুঠোয়, আর আকাশমণ্ডলী গুটানো থাকবে তাঁর ডান হাতে। এরপর তিনি বুখারীর বর্ণনা আনেন। সহীহ বুখারীর ৭৪১২ নম্বর হাদীসে ইবন উমার (রাঃ)-এর বর্ণনার ভাষা এমন: রাসূলুল্লাহ ﷺ বলেছেন, \"কিয়ামতের দিন আল্লাহ পৃথিবীকে মুঠোয় নেবেন, আর আকাশমণ্ডলী থাকবে তাঁর ডান হাতে। তারপর তিনি বলবেন: আমিই বাদশাহ।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sheet, Angel or Scribe",
+          "bn": "কাগজ, ফেরেশতা নাকি লেখক"
+        },
+        "p": [
+          {
+            "en": "The hardest word in the verse is as-sijill, and at-Tabari opens by saying the interpreters differed over it. Some said it is the name of an angel. He gives this from Ibn Umar: as-sijill is an angel, and when the seeking of forgiveness rises he says, write it as light. He gives the same from as-Suddi, and Ibn Kathir gives as-Suddi's fuller form: an angel entrusted with the scrolls, who receives a person's record when he dies, folds it and lifts it until the Day of Resurrection.",
+            "bn": "আয়াতের সবচেয়ে কঠিন শব্দ আস-সিজিল্ল। তাবারী শুরুতেই জানান, তাফসীরকারেরা এর অর্থ নিয়ে মতভেদ করেছেন। কেউ বলেছেন, এটি একজন ফেরেশতার নাম। এ মত তিনি আনেন ইবন উমার (রাঃ) থেকে: সিজিল্ল একজন ফেরেশতা। ইস্তিগফার যখন উপরে ওঠে, তিনি বলেন, এটাকে নূর হিসেবে লেখো। সুদ্দী থেকেও তিনি একই মত আনেন। ইবন কাসীর সুদ্দীর কথাটা আরও বিস্তারিত দেন। এই ফেরেশতা আমলনামার দায়িত্বে নিযুক্ত। মানুষ মারা গেলে তার আমলনামা তাঁর কাছে তুলে নেওয়া হয়। তিনি সেটা গুটিয়ে কিয়ামত পর্যন্ত উপরে রেখে দেন।"
+          },
+          {
+            "en": "Others said as-sijill was a man who wrote for the Messenger of Allah ﷺ. At-Tabari gives it from Ibn Abbas through Abu al-Jawza: as-sijill was a scribe who used to write for the Messenger of Allah ﷺ. Ibn Kathir adds that Abu Dawud and an-Nasa'i transmitted it by this route. A third group said it is the sheet on which things are written. At-Tabari gives this from Ibn Abbas through Ali ibn Abi Talha, like the folding of the sheet over the writing, and from Mujahid by two chains: as-sijill, the sheet.",
+            "bn": "অন্যরা বলেছেন, সিজিল্ল ছিলেন একজন মানুষ, যিনি রাসূলুল্লাহ ﷺ-এর জন্য লিখতেন। তাবারী এটা আনেন ইবন আব্বাস (রাঃ) থেকে, আবুল জাওযার সূত্রে: সিজিল্ল একজন লেখক, যিনি রাসূলুল্লাহ ﷺ-এর লেখার কাজ করতেন। ইবন কাসীর জানান, আবু দাঊদ ও নাসাঈ এই সূত্রেই বর্ণনাটি এনেছেন। তৃতীয় দলের মতে সিজিল্ল হলো সেই কাগজ, যাতে লেখা হয়। তাবারী এটা আনেন ইবন আব্বাস (রাঃ) থেকে আলী ইবন আবী তালহার সূত্রে: যেমন কাগজ গুটানো হয় তার লেখার উপর। মুজাহিদ থেকেও দুটি সূত্রে আনেন: সিজিল্ল মানে কাগজ।"
+          },
+          {
+            "en": "Al-Baghawi presents the sheet as the view of the majority: Ibn Abbas, Mujahid and most scholars said the sijill is the sheet, folded over what is written on it. He names as-Suddi for the angel who writes the servants' deeds. He also gives the word's root: sijill comes from musajala, writing back and forth. Al-Qurtubi traces it further. The root is sajl, a large bucket: two men drawing water bucket for bucket were said to vie, saajala, and the word was then borrowed for an exchange of letters.",
+            "bn": "বাগাভী কাগজের মতকে সংখ্যাগরিষ্ঠের মত হিসেবে তুলে ধরেন। ইবন আব্বাস (রাঃ), মুজাহিদ ও অধিকাংশ আলিম বলেছেন, সিজিল্ল হলো কাগজ, যা গুটানো হয় তাতে লেখা কথার উপর। ফেরেশতার মতের জন্য তিনি নাম নেন সুদ্দীর, যাঁর মতে এই ফেরেশতা বান্দাদের আমল লেখেন। শব্দটির মূলও তিনি দেখান: সিজিল্ল এসেছে মুসাজালা থেকে, মানে পরস্পর চিঠি লেখালেখি। কুরতুবী আরও গভীরে যান। মূল শব্দ সাজল, মানে বড় বালতি। দুজন লোক পাল্লা দিয়ে বালতি বালতি পানি তুললে বলা হতো সাজালা। পরে শব্দটি ধার নেওয়া হয় চিঠি আদান-প্রদানের অর্থে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighing the Three Views",
+          "bn": "তিন মতের ওজন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari decides. The most correct view, he says, is that as-sijill here is the sheet, because that is the known meaning in the speech of the Arabs, and no scribe of our Prophet ﷺ is known to have been named as-Sijill, nor any angel by that name. Al-Qurtubi calls the scribe report from Ibn Abbas not strong, for the same reason: the Prophet's scribes are known, this name is not among them, and none of his Companions was called as-Sijill. He records the angel view without judging it.",
+            "bn": "তাবারী রায় দেন। তাঁর মতে সবচেয়ে সঠিক কথা হলো, এখানে সিজিল্ল মানে কাগজ। কারণ আরবদের ভাষায় শব্দটির পরিচিত অর্থ এটাই। আর আমাদের নবী ﷺ-এর সিজিল্ল নামে কোনো লেখক ছিলেন বলে জানা যায় না, এ নামে কোনো ফেরেশতাও পরিচিত নন। কুরতুবীও ইবন আব্বাস (রাঃ) থেকে আসা লেখকের বর্ণনাকে মজবুত নয় বলেছেন, একই কারণে। নবী ﷺ-এর লেখকরা সুপরিচিত, তাঁদের মধ্যে এ নাম নেই, সাহাবীদের মধ্যেও সিজিল্ল নামে কেউ ছিলেন না। ফেরেশতার মতটি অবশ্য তিনি কোনো রায় ছাড়াই উল্লেখ করেছেন।"
+          },
+          {
+            "en": "Ibn Kathir is the sharpest. He calls the report through Nafi' from Ibn Umar, that as-sijill was the Prophet's scribe, very munkar, and says it does not hold at all. The Ibn Abbas report transmitted by Abu Dawud and others, he says, does not hold either, and he wrote a separate treatise on it. He praises at-Tabari's refutation and concludes that what is sound from Ibn Abbas is that the sijill is the sheet. He lists the angel view without a ruling of its own, but his choice is the sheet.",
+            "bn": "সবচেয়ে কড়া ইবন কাসীর। নাফি থেকে ইবন উমার (রাঃ)-এর সূত্রে আসা বর্ণনা, যাতে সিজিল্লকে নবী ﷺ-এর লেখক বলা হয়েছে, তাকে তিনি অত্যন্ত মুনকার বলেন। তাঁর ভাষায়, এটা একেবারেই টেকে না। আবু দাঊদ ও অন্যদের বর্ণিত ইবন আব্বাস (রাঃ)-এর বর্ণনাটিও টেকে না। এ হাদীস নিয়ে তিনি আলাদা একটি পুস্তিকাও লিখেছেন। তাবারীর খণ্ডনের তিনি প্রশংসা করেন, আর সিদ্ধান্ত টানেন যে ইবন আব্বাস (রাঃ) থেকে সহীহভাবে যা এসেছে তা হলো, সিজিল্ল মানে কাগজ। ফেরেশতার মতটি তিনি আলাদা কোনো রায় ছাড়াই উল্লেখ করেন, তবে তাঁর নিজের পছন্দ কাগজ।"
+          },
+          {
+            "en": "If the sijill is a sheet, how is a sheet folded for the writing? At-Tabari raises the question himself and answers that the lam in lil-kitab means 'ala, over: like folding the sheet over what is written on it. Ibn Kathir reads kitab as maktub, what is written, and gives a parallel from 37:103, tallahu lil-jabin, he laid him on his forehead, where the same lam means on. Al-Baghawi notes the angel reading's grammar: for those who take that view, the lam is an extra particle, as in 27:72.",
+            "bn": "সিজিল্ল যদি কাগজ হয়, তাহলে 'লেখার জন্য' কাগজ গুটানোর মানে কী? প্রশ্নটা তাবারী নিজেই তোলেন, আর উত্তর দেন: লিল-কিতাব কথাটির লাম এখানে আলা অর্থে, মানে 'উপর'। অর্থাৎ কাগজ গুটানো হয় তাতে লেখা কথার উপর। ইবন কাসীর কিতাব মানে করেন মাকতূব, অর্থাৎ যা লেখা হয়েছে। এর নজির দেন ৩৭:১০৩ থেকে: তাল্লাহু লিল-জাবীন, তিনি তাকে কপালের উপর শুইয়ে দিলেন। সেখানেও এই লাম 'উপর' অর্থে। বাগাভী ফেরেশতা-মতের ব্যাকরণও দেখান। যাঁরা সে মত নেন, তাঁদের কাছে লাম এখানে অতিরিক্ত অব্যয়, যেমন ২৭:৭২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Variant Readings of the Fold",
+          "bn": "গুটানোর পাঠভেদ"
+        },
+        "p": [
+          {
+            "en": "The words reached the reciters in more than a single form. The common reading is natwi, We fold, in the first-person plural of majesty. Abu Ja'far recited tutwa as-sama'u, the heaven will be folded, without naming who folds it, and al-Qurtubi lists Shayba ibn Nisah, al-A'raj and az-Zuhri with him. At-Tabari keeps natwi, because the authoritative reciters of the cities agree on it and the other reading stands apart from them.",
+            "bn": "শব্দগুলো কারীদের কাছে একাধিক রূপে পৌঁছেছে। প্রচলিত পাঠ নাতবী, 'আমি গুটাব', মহিমার বহুবচনে। আবু জা'ফর পড়েছেন তুতওয়াস সামাউ, 'আকাশ গুটানো হবে', যে গুটাবে তার নাম না নিয়ে। কুরতুবী তাঁর সঙ্গে শাইবা ইবন নিসাহ, আ'রাজ ও যুহরীর নাম যোগ করেন। তাবারী নাতবী পাঠই রাখেন। কারণ বিভিন্ন শহরের নির্ভরযোগ্য কারীরা এ পাঠে একমত, আর ভিন্ন পাঠটি তাঁদের থেকে আলাদা হয়ে আছে।"
+          },
+          {
+            "en": "The last word differs too. Al-Baghawi reports that Hamza, al-Kisa'i and Hafs from Asim read lil-kutub, plural, and the rest lil-kitab, singular. The Arabic printed above, in the reading of Hafs, has lil-kutub. At-Tabari preferred the singular: in his reading the sheet is folded over the writing it holds, and he saw no ground for a plural. Al-Qurtubi notes that the sentence closes at that word, and at-Tabari likewise ends the statement with the simile; a fresh statement begins with kama bada'na.",
+            "bn": "শেষ শব্দেও পাঠভেদ আছে। বাগাভী জানান, হামযা, কিসাঈ এবং আসিম থেকে হাফস পড়েছেন লিল-কুতুব, বহুবচনে। বাকিরা পড়েছেন লিল-কিতাব, একবচনে। উপরে ছাপা আরবি পাঠ হাফসের রিওয়ায়াত অনুযায়ী, তাই সেখানে লিল-কুতুব। তাবারী একবচন পছন্দ করেছেন। তাঁর ব্যাখ্যায় কাগজ গুটানো হয় তার ভেতরের লেখার উপর, তাই বহুবচনের পক্ষে তিনি কোনো যুক্তি দেখেননি। কুরতুবী বলেন, বাক্য শেষ হয় ওই শব্দেই। তাবারীও বলেন, উপমাটির সঙ্গেই বক্তব্য শেষ। নতুন বক্তব্য শুরু হয় কামা বাদা'না থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Returned as First Made",
+          "bn": "প্রথমবারের মতোই ফেরা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads kama bada'na as a new statement about what Allah will do with His creation that Day. The kaf of kama belongs to nu'id, placed ahead of it, so the sense is: We will bring the creation back barefoot, naked and uncircumcised, as We began them the first time, in their mothers' wombs. He gives this from Mujahid and says a report from the Prophet ﷺ supports it. Al-Baghawi and al-Qurtubi read it the same way and set beside it 6:94: you have come to Us alone, as We created you the first time.",
+            "bn": "তাবারী কামা বাদা'না থেকে পড়েন নতুন এক বক্তব্য হিসেবে, সেদিন আল্লাহ তাঁর সৃষ্টির সঙ্গে কী করবেন সে বিষয়ে। কামা-র কাফ যুক্ত নুঈদ ক্রিয়ার সঙ্গে, শুধু আগে চলে এসেছে। অর্থ তাই দাঁড়ায়: মায়ের গর্ভে প্রথমবার যেভাবে তাদের সৃষ্টি শুরু করেছিলাম, তেমনি খালি পায়ে, বস্ত্রহীন, খতনাহীন অবস্থায় তাদের ফিরিয়ে আনব। মুজাহিদ থেকে তিনি এই ব্যাখ্যা আনেন, আর বলেন নবী ﷺ-এর একটি বর্ণনা এর পক্ষে আছে। বাগাভী ও কুরতুবীও একই অর্থ নেন, আর পাশে রাখেন ৬:৯৪: তোমরা আমার কাছে একা একা এসেছ, যেমন প্রথমবার তোমাদের সৃষ্টি করেছিলাম।"
+          },
+          {
+            "en": "As-Sa'di draws out the argument: as We began their creation when they were nothing, so We restore them after their death. A second reading is also on record. Through al-Awfi, Ibn Abbas is reported to have said: We destroy everything, as it was the first time. At-Tabari phrases this view as: as We were, with nothing besides Us, so We bring things back to nothing until nothing remains but Us. Al-Qurtubi gives both and judges the first view, the raising of the people, the more correct.",
+            "bn": "সা'দী যুক্তিটা খুলে বলেন। তারা যখন কিছুই ছিল না, তখন যেভাবে তাদের সৃষ্টি শুরু করেছি, মৃত্যুর পর সেভাবেই তাদের আবার ফিরিয়ে আনব। আরেকটি ব্যাখ্যাও বর্ণিত আছে। আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে এসেছে: আমি সবকিছু ধ্বংস করে দেব, যেমন প্রথমবার ছিল। তাবারী এ মতটি এভাবে সাজান: আমি যেমন ছিলাম, আমি ছাড়া আর কিছুই ছিল না, তেমনি সবকিছুকে আবার শূন্যে ফিরিয়ে দেব, যতক্ষণ না আমি ছাড়া আর কিছু অবশিষ্ট থাকে। কুরতুবী দুটোই উল্লেখ করেন, তবে প্রথম মতটি, মানে মানুষের পুনরুত্থান, বেশি সঠিক বলে রায় দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Barefoot Before Allah",
+          "bn": "আল্লাহর সামনে খালি পায়ে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir notes that al-Bukhari placed the Prophet's ﷺ sermon at this verse in his book, and al-Qurtubi says Muslim has it too. The fetched page of Sahih al-Bukhari, no. 4740, gives it from Ibn Abbas: the Prophet ﷺ gave a sermon and said, \"You will be gathered to Allah barefoot, naked and uncircumcised: As We began the first creation, We will repeat it, a promise binding on Us; indeed, We will do it. Then the first to be clothed on the Day of Resurrection is Ibrahim.\"",
+            "bn": "ইবন কাসীর জানান, বুখারী নবী ﷺ-এর এই খুতবাটি তাঁর গ্রন্থে এই আয়াতের কাছেই এনেছেন। কুরতুবী বলেন, মুসলিমেও এটি আছে। সহীহ বুখারীর ৪৭৪০ নম্বর হাদীসে ইবন আব্বাস (রাঃ) বর্ণনা করেন: নবী ﷺ খুতবা দিলেন এবং বললেন, \"তোমাদের আল্লাহর কাছে সমবেত করা হবে খালি পায়ে, বস্ত্রহীন ও খতনাহীন অবস্থায়: যেভাবে প্রথম সৃষ্টির সূচনা করেছি, সেভাবেই তা আবার করব। এ ওয়াদা পূরণ করা আমার দায়িত্ব, আমি তা করবই। তারপর কিয়ামতের দিন সবার আগে যাঁকে পোশাক পরানো হবে, তিনি ইবরাহীম।\""
+          },
+          {
+            "en": "The sermon goes on: \"And men of my community will be brought and taken toward the left, and I will say: My Lord, my companions! It will be said: You do not know what they introduced after you. So I will say as the righteous servant said: And I was a witness over them as long as I remained among them, up to His words, Witness (5:117). Then it will be said: These never stopped turning back on their heels since you parted from them.\" The report names no one. It is a warning to every follower about what he adds after the Prophet ﷺ.",
+            "bn": "খুতবা চলতে থাকে: \"আর আমার উম্মতের কিছু লোককে আনা হবে, তারপর তাদের বাঁ দিকে নিয়ে যাওয়া হবে। আমি বলব: হে রব, এরা তো আমার সঙ্গী! বলা হবে: আপনার পরে তারা কী কী নতুন জিনিস চালু করেছিল, আপনি জানেন না। তখন আমি তা-ই বলব, যা নেক বান্দা বলেছিলেন: যতদিন আমি তাদের মাঝে ছিলাম, ততদিন আমি তাদের উপর সাক্ষী ছিলাম, তাঁর বাণী 'সাক্ষী' পর্যন্ত (৫:১১৭)। তখন বলা হবে: আপনি তাদের ছেড়ে আসার পর থেকে এরা পেছনের দিকে ফিরে যেতেই থেকেছে।\" হাদীসটি কারও নাম নেয় না। এ এক সতর্কবাণী প্রত্যেক অনুসারীর জন্য, নবী ﷺ-এর পরে নিজে সে দ্বীনে কী যোগ করছে, তা নিয়ে।"
+          },
+          {
+            "en": "A second report in the same book does not quote this verse, but it gives the scene a human question. The fetched page, no. 6527, has it from Aisha: the Messenger of Allah ﷺ said, \"You will be gathered barefoot, naked, uncircumcised.\" Aisha said: I said, Messenger of Allah, men and women looking at one another? He said: \"The matter will be too grave for that to concern them.\" The first creation was a newborn with nothing in its hands. The return is the same, and no one will have attention to spare.",
+            "bn": "একই গ্রন্থের আরেকটি বর্ণনায় এ আয়াতের উদ্ধৃতি নেই, তবে দৃশ্যটিতে একটি মানবিক প্রশ্ন যোগ হয়েছে। ৬৫২৭ নম্বর হাদীসে আয়িশা (রাঃ) বর্ণনা করেন: রাসূলুল্লাহ ﷺ বললেন, \"তোমাদের সমবেত করা হবে খালি পায়ে, বস্ত্রহীন, খতনাহীন অবস্থায়।\" আয়িশা (রাঃ) বলেন, আমি বললাম, হে আল্লাহর রাসূল, পুরুষ আর নারীরা একে অপরের দিকে তাকাবে? তিনি বললেন, \"অবস্থা এত কঠিন হবে যে সেদিকে মন দেওয়ার মতো অবকাশ কারও থাকবে না।\" প্রথম সৃষ্টি ছিল খালি হাতের এক নবজাতক। ফেরাও হবে তেমনই, আর অন্যের দিকে তাকানোর ফুরসত কারও থাকবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Promise He Binds on Himself",
+          "bn": "নিজের উপর বাঁধা ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "Wa'dan 'alayna: a promise upon Us. Al-Qurtubi parses wa'dan as a verbal noun: We promised a promise whose fulfilment is upon Us, meaning the raising and the return. At-Tabari: We promised you this as a promise binding on Us, to keep what We promised. Ibn Kathir calls it certain, because it belongs to Allah's promise that is neither broken nor changed. For inna kunna fa'ilin, al-Qurtubi gives az-Zajjaj's sense, We are able to do whatever We will, and another, We will do what We promised, as in 73:18: His promise is ever fulfilled.",
+            "bn": "ওয়া'দান আলাইনা: আমার উপর ওয়াদা। কুরতুবী ওয়া'দান শব্দটিকে ক্রিয়ামূল হিসেবে দেখেন। অর্থাৎ আমি এমন ওয়াদা করেছি, যা পূরণ করার দায় আমার উপর, আর সেটা হলো পুনরুত্থান ও ফিরিয়ে আনা। তাবারীর ভাষায়: এই ওয়াদা আমি তোমাদের দিয়েছি, আর ওয়াদা রক্ষা করা আমার উপর অবধারিত। ইবন কাসীর একে নিশ্চিত বলেন, কারণ এটা আল্লাহর সেই ওয়াদার অংশ যা ভাঙে না, বদলায়ও না। ইন্না কুন্না ফা'ইলীন কথাটির ব্যাখ্যায় কুরতুবী আনেন যাজ্জাজের মত: আমি যা চাই তা করতে সক্ষম। আরেক মত: আমি যা ওয়াদা করেছি তা করব, যেমন ৭৩:১৮ আয়াতে: তাঁর ওয়াদা পূর্ণ হবেই।"
+          },
+          {
+            "en": "As-Sa'di grounds it in His perfect power: nothing can hold out against Him. At-Tabari closes his comment by turning to the listeners: it has already gone ahead in Our judgement and decree, it will surely happen, so get ready and prepare. The heaven will be folded like a written sheet, and each person will return as he came. The record still open is the part a person can still write, and the time to write it is now.",
+            "bn": "সা'দী এর ভিত্তি দেখান আল্লাহর পরিপূর্ণ ক্ষমতায়: কোনো কিছুই তাঁকে ঠেকাতে পারে না। তাবারী তাঁর আলোচনা শেষ করেন শ্রোতাদের দিকে ফিরে। এটা আমার হুকুম আর ফয়সালায় আগেই স্থির হয়ে আছে, ঘটবেই। তাই প্রস্তুত হও, তৈরি থাকো। আকাশ গুটানো হবে লিখিত কাগজের মতো, আর প্রত্যেকে ফিরবে যেভাবে এসেছিল। আমলনামা এখনো খোলা। এর যে অংশ মানুষ নিজে লিখতে পারে, সেটা লেখার সময় এখনই।"
+          }
+        ]
+      }
+    ]
+  },
   "21:105": {
     "sections": [
       {

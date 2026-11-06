@@ -23611,6 +23611,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A long delay is not a pardon. Allah gives the wrongdoer time, then seizes, and every return is to Him, so use the respite before it ends.",
     "lessonBn": "দীর্ঘ দেরি মানে মাফ নয়। আল্লাহ জালিমকে সময় দেন, তারপর পাকড়াও করেন, আর সবার ফিরে যাওয়া তাঁরই কাছে। তাই অবকাশ শেষ হওয়ার আগেই একে কাজে লাগান।"
+  },
+  "21:104": {
+    "reflectionEn": "The sky has been over my head every day of my life, so wide that I hardly notice it. This verse shows it folded up, the way a written sheet is rolled shut over what is written on it. If the heaven can be rolled up like paper, everything I build beneath it weighs less still. Then the verse turns to me: as We began the first creation, We will bring it back. I will return as I first came, with nothing in my hands. Allah calls this a promise binding on Himself, and ends with: We will do it. My own sheet is still being written. When it is rolled shut, what will be on it, and am I ready to stand as I came?",
+    "reflectionBn": "জীবনের প্রতিটি দিন আকাশ আমার মাথার উপর ছিল। এত বিশাল যে তার দিকে আলাদা করে চোখই যায় না। এ আয়াত সেই আকাশকে দেখায় গুটিয়ে নেওয়া অবস্থায়, যেমন লেখা শেষ হলে কাগজ গুটিয়ে রাখা হয় তার লেখার উপর। আকাশকেই যদি কাগজের মতো গুটিয়ে ফেলা যায়, তাহলে তার নিচে আমি যা গড়ছি তার ওজন আরও কম। তারপর আয়াত আমার দিকে ফেরে: যেভাবে প্রথম সৃষ্টির সূচনা করেছি, সেভাবেই আবার ফিরিয়ে আনব। যেমন এসেছিলাম তেমনই ফিরব, হাতে কিছু থাকবে না। আল্লাহ একে বলেছেন নিজের উপর নেওয়া ওয়াদা, আর শেষ করেছেন এই কথায়: আমি তা করবই। আমার নিজের কাগজে লেখা এখনো চলছে। যেদিন সেটা গুটিয়ে নেওয়া হবে, তাতে কী লেখা থাকবে? আর যেমন এসেছিলাম তেমন অবস্থায় দাঁড়াতে আমি কি প্রস্তুত?",
+    "pointsEn": [
+      "When did I last look at the sky and remember that it, too, has an appointed end?",
+      "If my record will one day be rolled shut over what is written on it, what do I most want written there before that day?",
+      "I will return with nothing in my hands, as I first came. Which of my possessions do I treat as if it will come with me?",
+      "Allah calls the return a promise binding on Himself. Do I live as if I believe it, or as if it might not happen?",
+      "He keeps every promise He makes. Which promise of mine have I left unkept, and to whom?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আকাশের দিকে তাকিয়ে মনে করেছি যে তারও একটা নির্ধারিত শেষ আছে?",
+      "আমার আমলনামা যদি একদিন তার লেখার উপর গুটিয়ে বন্ধ করা হয়, সেদিনের আগে তাতে সবচেয়ে বেশি কী লেখা থাকুক বলে আমি চাই?",
+      "যেমন এসেছিলাম, তেমনই খালি হাতে ফিরব। আমার কোন জিনিসকে আমি এমনভাবে আঁকড়ে আছি যেন সেটা আমার সঙ্গে যাবে?",
+      "আল্লাহ পুনরুত্থানকে নিজের উপর নেওয়া ওয়াদা বলেছেন। আমি কি এমনভাবে বাঁচি যেন তা বিশ্বাস করি, নাকি যেন তা না-ও ঘটতে পারে?",
+      "তিনি নিজের প্রতিটি ওয়াদা পূরণ করেন। আমার কোন ওয়াদা আমি এখনো পূরণ করিনি, আর কার কাছে?"
+    ],
+    "lessonEn": "The sky that seems permanent will be rolled up like a written sheet, and you will be raised as you were first made. Live now as one who believes that promise.",
+    "lessonBn": "যে আকাশকে চিরস্থায়ী মনে হয় তা লিখিত কাগজের মতো গুটিয়ে নেওয়া হবে, আর আপনাকে ওঠানো হবে যেভাবে প্রথম সৃষ্টি করা হয়েছিল। সেই ওয়াদায় বিশ্বাসী মানুষের মতো এখনই জীবন যাপন করুন।"
   }
 };
 
