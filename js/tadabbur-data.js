@@ -28109,6 +28109,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You sow, but Allah makes it grow and keeps it from turning to debris; thank Him for the harvest that stood, and meet a loss by turning to Him.",
     "lessonBn": "বীজ আপনি বোনেন, কিন্তু গজিয়ে তোলেন আল্লাহ, আর তিনিই একে খড়কুটা হতে দেন না। যে ফসল টিকে আছে তার জন্য শোকর করুন, আর ক্ষতির মুখে তাঁর দিকেই ফিরুন।"
+  },
+  "56:93": {
+    "reflectionEn": "A guest who arrives is met with something set out for him. The word in this verse is nuzul, the meal laid out for one who has come. Here the one arriving is the dying man who denied and went astray, and what is laid out for him is scalding water. Four verses earlier, the near ones were met with rest, fragrance and a garden, in the same short shape. The two answers sit close enough to hear each other. The verse names a kind of person, not a person, and it gives me no right to place anyone in it. It does put a question to me while I still have time: what am I preparing to be met with when I arrive?",
+    "reflectionBn": "মেহমান এলে তার জন্য কিছু সাজিয়ে রাখা হয়। এ আয়াতের শব্দটি নুযুল, আগন্তুকের জন্য প্রস্তুত করা আপ্যায়ন। কিন্তু এখানে যে আসছে, সে মৃত্যুপথযাত্রী এমন এক মানুষ, যে সত্যকে মিথ্যা বলেছিল আর পথ হারিয়েছিল। তার সামনে রাখা হয়েছে ফুটন্ত পানি। চার আয়াত আগে নৈকট্যপ্রাপ্তদের বরণ করা হয়েছিল আরাম, সুবাস আর জান্নাত দিয়ে, ঠিক একই ছোট্ট গড়নে। দুটি উত্তর এত কাছাকাছি যে একটি আরেকটির প্রতিধ্বনি শোনায়। আয়াতটি এক ধরনের মানুষের কথা বলে, কোনো নির্দিষ্ট মানুষের নয়। কাউকে এ দলে বসিয়ে দেওয়ার অধিকার আমাকে দেয় না। তবে সময় থাকতেই আমাকে একটা প্রশ্ন করে: যেদিন আমি পৌঁছাব, সেদিন আমার জন্য কী সাজানো থাকবে, আর তার জন্য আমি এখন কী জোগাড় করছি?",
+    "pointsEn": [
+      "If my arrival after death were prepared from what I am doing this week, what would be set out for me?",
+      "Is there a truth I already know that I keep pushing away because accepting it would cost me something?",
+      "When I read a verse like this, do I think first of other people, or of myself?",
+      "What would it mean for me to love the meeting with Allah rather than dread it, and what is standing in the way?",
+      "Which of my habits is quietly carrying me away from guidance without my noticing?"
+    ],
+    "pointsBn": [
+      "মৃত্যুর পর আমার আপ্যায়ন যদি এ সপ্তাহের কাজ দিয়েই তৈরি হতো, তাহলে আমার সামনে কী রাখা হতো?",
+      "এমন কোনো সত্য কি আছে, যা আমি জানি, তবু মেনে নিলে কিছু ছাড়তে হবে বলে বারবার ঠেলে সরিয়ে রাখি?",
+      "এমন আয়াত পড়লে আমার মনে প্রথমে কারা আসে, অন্য মানুষ, নাকি আমি নিজে?",
+      "আল্লাহর সাক্ষাৎকে ভয় না করে ভালোবাসা আমার জন্য কেমন হতো, আর সেই পথে বাধা হয়ে আছে কী?",
+      "আমার কোন অভ্যাসটি নিঃশব্দে আমাকে হেদায়াত থেকে দূরে সরিয়ে নিচ্ছে, অথচ আমি টেরও পাচ্ছি না?"
+    ],
+    "lessonEn": "The word for a guest's welcome is used here for scalding water. Ask what you are preparing to be met with, and leave every other person's end to Allah.",
+    "lessonBn": "মেহমানের আপ্যায়নের শব্দটি এখানে এসেছে ফুটন্ত পানির জন্য। আপনাকে কী দিয়ে বরণ করা হবে, সে প্রস্তুতির হিসাব নিন, আর অন্য সবার পরিণতি আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 

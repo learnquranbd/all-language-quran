@@ -3082,5 +3082,157 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "56:93": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words for the Third",
+          "bn": "তৃতীয় দলের তিন শব্দ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads 56:88 to 56:94 as the three conditions people meet at death: the near ones, those of the right below them, and those who denied the truth and were led astray from guidance. Ma'arif al-Qur'an calls the passage a summary of the three groups named at the surah's opening. The first two branches have been answered. 56:92 opens the third, wa-amma in kana min al-mukadhdhibin al-dallin, and if he was of the deniers who went astray, and 56:93 answers it in three Arabic words.",
+            "bn": "ইবন কাসীর ৫৬:৮৮ থেকে ৫৬:৯৪ পর্যন্ত আয়াতগুলোকে পড়েন মৃত্যুর সময় মানুষের তিন অবস্থা হিসেবে। প্রথমে নৈকট্যপ্রাপ্তরা, তারপর তাদের নিচের স্তরে ডান দিকের দল, আর শেষে তারা, যারা সত্যকে মিথ্যা বলেছে এবং হেদায়াত থেকে বিপথে গেছে। মাআরিফুল কুরআন অংশটিকে বলে সূরার শুরুতে উল্লিখিত তিন দলের সারসংক্ষেপ। প্রথম দুই শাখার জবাব আগেই এসে গেছে। ৫৬:৯২ তৃতীয় শাখা খোলে: ওয়া আম্মা ইন কানা মিনাল মুকাযযিবীনাদ দাল্লীন, আর সে যদি পথভ্রষ্ট অস্বীকারকারীদের একজন হয়। ৫৬:৯৩ তার জবাব দেয় মাত্র তিনটি আরবি শব্দে।"
+          },
+          {
+            "en": "Fa-nuzulun min hamim: then a nuzul of scalding water. The sentence has a subject and no stated predicate, and the commentators supply the missing words. At-Tabari writes fa-lahu nuzulun min hamim, then for him is a nuzul of hamim. Al-Qurtubi writes fa-lahum rizqun min hamim, then for them is provision of hamim, turning to the plural and to a different noun. The next verse adds wa-tasliyatu jahim, and a burning in Hellfire, and several commentators gloss the two verses together.",
+            "bn": "ফানুযুলুম মিন হামীম: তবে ফুটন্ত পানির নুযুল। বাক্যে উদ্দেশ্য আছে, বিধেয় উহ্য। তাফসীরকারেরা উহ্য অংশটুকু নিজেরা পূরণ করে দেন। তাবারী লেখেন ফালাহু নুযুলুম মিন হামীম, অর্থাৎ তার জন্য রয়েছে হামীমের নুযুল। কুরতুবী লেখেন ফালাহুম রিযকুম মিন হামীম, অর্থাৎ তাদের জন্য রয়েছে হামীমের রিযক। তিনি বহুবচনে চলে যান, শব্দও বদলে নেন। পরের আয়াত যোগ করে ওয়া তাসলিয়াতু জাহীম, আর জাহান্নামের আগুনে দহন। কয়েকজন তাফসীরকার দুটি আয়াতের ব্যাখ্যা একসঙ্গেই করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nuzul, the Meal for Arrivals",
+          "bn": "নুযুল, আগন্তুকের খাবার"
+        },
+        "p": [
+          {
+            "en": "Most of the commentaries consulted gloss nuzul with one word, diyafa, hospitality: what is offered to a guest. Ibn Kathir writes fa-nuzul, ay fa-diyafa, and the abridged English edition renders it as a guest's entertainment. The Muyassar says fa-lahu diyafa, for him is hospitality, made of the drink of Jahannam. As-Sa'di uses the same noun in the plural possessive, diyafatuhum, their hospitality, and ties it to a moment: yawm qudumihim 'ala rabbihim, the day they come before their Lord.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার বেশিরভাগ নুযুলের ব্যাখ্যা দেয় একটি শব্দে: দিয়াফা, আতিথেয়তা, মেহমানকে যা পরিবেশন করা হয়। ইবন কাসীর লেখেন ফানুযুল, আই ফাদিয়াফা, অর্থাৎ আপ্যায়ন। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণও একে মেহমানদারি হিসেবেই অনুবাদ করে। মুয়াসসার বলে, তার জন্য রয়েছে আপ্যায়ন, আর সেটা জাহান্নামের পানীয় দিয়ে। সা'দী একই শব্দ আনেন বহুবচনে, দিয়াফাতুহুম, তাদের আপ্যায়ন। সঙ্গে একটা সময়ও বেঁধে দেন: ইয়াওমা কুদূমিহিম আলা রাব্বিহিম, যেদিন তারা তাদের রবের সামনে হাজির হবে।"
+          },
+          {
+            "en": "Two commentators choose other words. Al-Baghawi does not say hospitality; he says fa-lladhi yu'addu lahum hamim jahannam, what is made ready for them is the scalding water of Jahannam. His gloss keeps the sense of preparation, something set aside before the arrival. Al-Qurtubi, as noted, says rizq, provision, the ordinary word for what a person is given to live on. The glosses lean differently, toward the guest, toward what is prepared, toward what is given, but none of them contradicts the others.",
+            "bn": "দুজন তাফসীরকার অন্য শব্দ বেছে নেন। বাগাভী আতিথেয়তা বলেন না। তিনি বলেন, ফাল্লাযী ইউ'আদ্দু লাহুম হামীমু জাহান্নাম, তাদের জন্য যা প্রস্তুত রাখা হয় তা জাহান্নামের ফুটন্ত পানি। তাঁর ব্যাখ্যায় প্রস্তুতির ভাবটা থাকে, আগমনের আগেই যা আলাদা করে রাখা হয়েছে। কুরতুবী, আগেই বলা হয়েছে, বলেন রিযক। মানুষ বেঁচে থাকার জন্য যা পায়, তার সাধারণ নাম এটি। ব্যাখ্যাগুলোর ঝোঁক তিন দিকে: কেউ মেহমানের দিকে, কেউ প্রস্তুতির দিকে, কেউ দেওয়ার দিকে। কিন্তু একটি অন্যটিকে খণ্ডন করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Set Beside Rest and Fragrance",
+          "bn": "আরাম ও সুবাসের পাশে রেখে"
+        },
+        "p": [
+          {
+            "en": "Read 56:89 and 56:93 side by side and the shape repeats. Fa-rawhun wa-rayhanun wa-jannatu na'im: then rest and fragrance and a garden of bliss. Fa-nuzulun min hamim: then a welcome of scalding water. Each begins with fa, each puts an indefinite noun first, and each leaves the words for him understood. The near ones are met as one is met who arrives somewhere good. The denier is also met, and the word for his meeting is a host's word, but what is set before him is hamim.",
+            "bn": "৫৬:৮৯ আর ৫৬:৯৩ পাশাপাশি পড়লে একই গড়ন ফিরে আসে। ফারাওহুঁ ওয়া রাইহানুঁ ওয়া জান্নাতু না'ঈম: তবে আরাম, সুবাস আর নিয়ামতে ভরা জান্নাত। ফানুযুলুম মিন হামীম: তবে ফুটন্ত পানির আপ্যায়ন। দুটিই শুরু হয় ফা দিয়ে, দুটিতেই প্রথমে আসে অনির্দিষ্ট বিশেষ্য, আর দুটিতেই 'তার জন্য' কথাটা উহ্য থাকে। নৈকট্যপ্রাপ্তকে বরণ করা হয় ভালো কোনো ঠিকানায় পৌঁছানো মানুষের মতো। অস্বীকারকারীকেও বরণ করা হয়। তার বরণের শব্দটাও মেজবানের শব্দ, কিন্তু সামনে রাখা হয় হামীম।"
+          },
+          {
+            "en": "Ibn Kathir shows the word in its plain sense two verses earlier. On 56:91 he cites 41:30 to 41:32, where the angels tell those who stood firm not to fear or grieve, and the passage ends nuzulan min ghafurin rahim, a welcome from One Forgiving and Merciful. That is nuzul as a host's honour. The commentaries consulted here do not name the effect of using it for scalding water; they gloss the word as hospitality and move on. The gap between the word and what it holds is left for the reader to hear.",
+            "bn": "শব্দটির সাধারণ অর্থ ইবন কাসীর দেখিয়ে দেন দুই আয়াত আগেই। ৫৬:৯১-এর আলোচনায় তিনি ৪১:৩০ থেকে ৪১:৩২ আয়াত উদ্ধৃত করেন। সেখানে ফেরেশতারা দৃঢ় থাকা মানুষদের বলেন, ভয় পেয়ো না, দুঃখ কোরো না। অংশটি শেষ হয় নুযুলাম মিন গাফূরির রাহীম দিয়ে, ক্ষমাশীল দয়াময়ের পক্ষ থেকে আপ্যায়ন। সেখানে নুযুল মেজবানের সম্মান। ফুটন্ত পানির বেলায় একই শব্দ ব্যবহারের তাৎপর্য নিয়ে এখানে দেখা তাফসীরগুলো আলাদা কিছু বলে না। তারা শব্দটিকে আপ্যায়ন বলে ব্যাখ্যা করে সামনে এগিয়ে যায়। শব্দ আর তার ভেতরের জিনিসের ফারাকটা পাঠক নিজেই শুনে নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heated to Its Utmost Limit",
+          "bn": "যে তাপের পরে আর তাপ নেই"
+        },
+        "p": [
+          {
+            "en": "Hamim is water at its hottest, and the commentators describe it by its heat and by what it does. At-Tabari: qad ughliya hatta intaha harruhu, fa-huwa sharabuhu, it has been boiled until its heat has reached its end, and it is his drink. The Muyassar uses nearly the same terms, sharab jahannam al-mughli al-mutanahi al-harara, the boiled drink of Jahannam, extreme in heat. Ma'arif al-Qur'an says he will be served boiling water to drink. For all three, the hamim is something he drinks.",
+            "bn": "হামীম মানে চরম গরম পানি। তাফসীরকারেরা এর বর্ণনা দেন তাপ দিয়ে, আর তা কী করে সেটা দিয়ে। তাবারী বলেন, কাদ উগলিয়া হাত্তান্তাহা হাররুহু, ফাহুয়া শারাবুহু: এমনভাবে ফোটানো হয়েছে যে তাপ তার শেষ সীমায় পৌঁছে গেছে, আর এটাই তার পানীয়। মুয়াসসারের শব্দও প্রায় একই: জাহান্নামের ফোটানো পানীয়, যার তাপ চূড়ান্ত। মাআরিফুল কুরআন বলে, তাকে পান করার জন্য ফুটন্ত পানি দেওয়া হবে। তিনটি ব্যাখ্যাতেই হামীম এমন জিনিস, যা সে পান করে।"
+          },
+          {
+            "en": "Ibn Kathir describes it by its effect: wa-huwa al-mudhab alladhi yusharu bihi ma fi butunihim wa-l-julud, it is the molten liquid by which what is in their bellies is melted, and the skins. The clause carries the wording of 22:20, yusharu bihi ma fi butunihim wa-l-juludu, where the same is said of the hamim poured over the heads of those who disbelieved. Al-Baghawi names it simply hamim jahannam, the scalding water of Jahannam. None of them adds detail beyond this, and this article adds none.",
+            "bn": "ইবন কাসীর এর বর্ণনা দেন প্রভাব দিয়ে: এটা সেই গলিত তরল, যা দিয়ে তাদের পেটের ভেতরের সবকিছু আর চামড়া গলিয়ে দেওয়া হয়। তাঁর এ বাক্যে আছে ২২:২০ আয়াতের ভাষা, ইউসহারু বিহী মা ফী বুতূনিহিম ওয়াল জুলূদ। সেখানে কাফিরদের মাথার উপর ঢালা হামীমের বেলায় একই কথা বলা হয়েছে। বাগাভী শুধু বলেন হামীমু জাহান্নাম, জাহান্নামের ফুটন্ত পানি। এর বাইরে তাঁরা কেউ আর বিবরণ যোগ করেননি। এ প্রবন্ধও করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Echoes the Commentators Hear",
+          "bn": "তাফসীরকারদের কানে প্রতিধ্বনি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reads the verse beside two others. The first is 56:51 and 56:52 in this same surah: then you, O you who went astray and denied, will eat from a tree of zaqqum. The second is 37:67: then on top of it they will have a mixture of hamim. By choosing these he ties the drink of 56:93 to the food already described for the same people. The surah has named the hamim before, too: in 56:42 the companions of the left are in scorching wind and hamim, and in 56:54 they drink it on top of the zaqqum.",
+            "bn": "কুরতুবী আয়াতটি পড়েন আরও দুটি আয়াতের পাশে রেখে। প্রথমটি এই সূরারই ৫৬:৫১ ও ৫৬:৫২: তারপর হে পথভ্রষ্ট অস্বীকারকারীরা, তোমরা অবশ্যই যাক্কুম গাছ থেকে খাবে। দ্বিতীয়টি ৩৭:৬৭: তারপর তার উপর তাদের জন্য থাকবে হামীমের মিশ্রণ। এ দুটি বেছে নিয়ে তিনি ৫৬:৯৩-এর পানীয়কে জুড়ে দেন একই লোকদের জন্য আগে বর্ণিত খাবারের সঙ্গে। সূরাটি হামীমের নাম আগেও নিয়েছে। ৫৬:৪২ আয়াতে বাম দিকের দল থাকে উত্তপ্ত হাওয়া আর হামীমের মধ্যে, আর ৫৬:৫৪ আয়াতে তারা যাক্কুমের উপর তা পান করে।"
+          },
+          {
+            "en": "One small difference is visible in the text itself. In 56:51 the order is al-dallun al-mukadhdhibun, those astray and denying; in 56:92 it is al-mukadhdhibin al-dallin, the deniers who went astray. The commentaries consulted on this verse do not remark on the reversal, so no reason is offered here. As-Sa'di reaches outside the surah instead, to 18:29: when they cry for relief from thirst they are relieved with water like molten metal that scalds the faces; wretched is the drink, and evil the resting place.",
+            "bn": "একটি ছোট পার্থক্য আয়াতের শব্দেই চোখে পড়ে। ৫৬:৫১ আয়াতে ক্রম হলো আদ দাল্লূনাল মুকাযযিবূন, পথভ্রষ্ট ও অস্বীকারকারী। ৫৬:৯২ আয়াতে ক্রম উল্টো: আল মুকাযযিবীনাদ দাল্লীন, অস্বীকারকারী, যারা পথ হারিয়েছে। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তারা এ উল্টে যাওয়া নিয়ে কিছু বলে না। তাই এখানে কোনো কারণও দেখানো হচ্ছে না। সা'দী বরং সূরার বাইরে যান, ১৮:২৯ আয়াতে। সেখানে পিপাসায় তারা সাহায্য চাইলে তাদের দেওয়া হয় গলিত ধাতুর মতো পানি, যা মুখমণ্ডল ঝলসে দেয়। কত নিকৃষ্ট সে পানীয়, কত মন্দ সে আশ্রয়!"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denying What, Welcomed When",
+          "bn": "কী অস্বীকার, কখন বরণ"
+        },
+        "p": [
+          {
+            "en": "The commentaries name the denial in slightly different terms. Ibn Kathir: al-mukadhdhibin bi-l-haqq, al-dallin 'an al-huda, those who denied the truth and strayed from guidance. The Muyassar: al-mukadhdhibin bi-l-ba'th, those who denied the Resurrection, and astray from guidance. The abridged English Ibn Kathir adds that they were ignorant about Allah. Ma'arif al-Qur'an identifies them with the people of the left hand from the surah's opening. The readings sit together without conflict, since denying the Resurrection is one way of denying the truth.",
+            "bn": "অস্বীকারটা কীসের, তাফসীরগুলো তা বলে সামান্য ভিন্ন ভাষায়। ইবন কাসীর বলেন, আল মুকাযযিবীনা বিল হাক্ক, আদ দাল্লীনা আনিল হুদা: যারা সত্যকে মিথ্যা বলেছে আর হেদায়াত থেকে বিপথে গেছে। মুয়াসসার বলে, আল মুকাযযিবীনা বিল বা'স: যারা পুনরুত্থানকে মিথ্যা বলেছে, আর হেদায়াত থেকে বিপথে গেছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ যোগ করে, তারা আল্লাহ সম্পর্কে অজ্ঞ ছিল। মাআরিফুল কুরআন তাদের মিলিয়ে দেয় সূরার শুরুর বাম দিকের দলের সঙ্গে। ব্যাখ্যাগুলো পাশাপাশি থাকতে পারে, কারণ পুনরুত্থান অস্বীকার করাও সত্য অস্বীকারেরই একটা রূপ।"
+          },
+          {
+            "en": "The commentaries also place the welcome at different points. For Ibn Kathir the subject is al-muhtadar, the person at the point of death; the Muyassar speaks of al-mayyit, the person who has died. As-Sa'di dates the hospitality to the day they come before their Lord. Ibn Kathir's gloss of the next verse looks further on: taqrir lahu fi al-nar allati taghmuruhu min jami' jihatihi, his being settled in the Fire that covers him from every side. Whether the verse speaks of the deathbed, the arrival before the Lord or the abode, each reading is kept here.",
+            "bn": "আপ্যায়নটা কখন, সে বিষয়েও তাফসীরগুলো ভিন্ন ভিন্ন মুহূর্তের কথা বলে। ইবন কাসীরের আলোচনার বিষয় আল মুহতাদার, যার মৃত্যু উপস্থিত। মুয়াসসার বলে আল মাইয়িত, যে মারা গেছে। সা'দী আপ্যায়নটাকে বসান সেই দিনে, যেদিন তারা তাদের রবের সামনে হাজির হবে। পরের আয়াতের ব্যাখ্যায় ইবন কাসীরের দৃষ্টি আরও সামনে যায়: আগুনে তাকে স্থায়ী করে রাখা, যে আগুন তাকে চারদিক থেকে ঢেকে ফেলে। আয়াতটি মৃত্যুশয্যার কথা বলছে, রবের সামনে হাজির হওয়ার কথা, নাকি শেষ ঠিকানার, এখানে প্রতিটি ব্যাখ্যাই রেখে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dreading the Meeting",
+          "bn": "সাক্ষাৎকে অপছন্দ করা"
+        },
+        "p": [
+          {
+            "en": "One narration in the sources consulted recites this verse itself. Ibn Kathir, in the abridged English edition, relays it from Imam Ahmad: a report in which the Prophet's ﷺ saying about loving and hating to meet Allah is explained by reciting 56:88 and 56:89 and then 56:92 to 56:94, our verse among them. Ibn Kathir gives no grading in the passage consulted, the Companion is not named, and it could not be checked against its collection here, so its wording is not quoted and nothing rests on it. The saying itself, without the recitation, is in Sahih Muslim, given below.",
+            "bn": "যেসব উৎস দেখা হয়েছে, তার একটি বর্ণনায় এ আয়াতটিই তিলাওয়াত করা হয়েছে। ইবন কাসীর সংক্ষিপ্ত ইংরেজি সংস্করণে ইমাম আহমাদ থেকে তা আনেন: এমন একটি বর্ণনা, যেখানে আল্লাহর সাক্ষাৎ পছন্দ ও অপছন্দ করা নিয়ে নবী ﷺ-এর বাণীর ব্যাখ্যায় ৫৬:৮৮ ও ৫৬:৮৯, তারপর ৫৬:৯২ থেকে ৫৬:৯৪ পর্যন্ত তিলাওয়াত করা হয়, যার মধ্যে আমাদের আয়াতটিও আছে। যে অংশটি দেখা হয়েছে, সেখানে ইবন কাসীর এর কোনো মান উল্লেখ করেননি, সাহাবীর নামও নেই, আর এখানে মূল সংকলনে তা মিলিয়ে দেখা যায়নি। তাই এর শব্দ উদ্ধৃত করা হলো না, কোনো কিছুর ভিত্তিও এর উপর রাখা হলো না। তিলাওয়াত ছাড়া মূল বাণীটি সহীহ মুসলিমে আছে, নিচে তা দেওয়া হলো।"
+          },
+          {
+            "en": "Ibn Kathir adds that the Sahih has a hadith with this meaning from 'A'isha. Muslim records it in his Sahih (2684a): 'A'isha reported that Allah's Messenger ﷺ said: He who loves to meet Allah, Allah loves to meet him, and he who dislikes to meet Allah, Allah abhors to meet him. She said: Allah's Apostle, so far as the feeling of aversion against death is concerned, we all have this feeling. He said it is not that, and explained what the dying are told.",
+            "bn": "ইবন কাসীর যোগ করেন, সহীহ গ্রন্থে এই অর্থের একটি হাদীস আছে আয়েশা (রাঃ) থেকে। মুসলিম তা তাঁর সহীহ গ্রন্থে লিপিবদ্ধ করেছেন (২৬৮৪ক)। আয়েশা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: যে আল্লাহর সাক্ষাৎ ভালোবাসে, আল্লাহও তার সাক্ষাৎ ভালোবাসেন। আর যে আল্লাহর সাক্ষাৎ অপছন্দ করে, আল্লাহও তার সাক্ষাৎ অপছন্দ করেন। আমি বললাম, হে আল্লাহর নবী, মৃত্যুকে অপছন্দ করার কথা যদি বলেন, তা তো আমরা সবাই করি। তিনি বললেন, ব্যাপারটা তা নয়। তারপর তিনি খুলে বললেন, মৃত্যুর সময় মানুষকে কী জানানো হয়।"
+          },
+          {
+            "en": "His words, in the same translation: when a believer is given the glad tidings of the mercy of Allah, His Pleasure, and of Paradise, he loves to meet Allah, and Allah also loves to meet him, and when an unbeliever is given the news of the torment at the Hand of Allah, and Hardship to be imposed by Him, he dislikes to meet Allah and Allah also abhors to meet him. Muslim's wording does not mention 56:93; it is a general narration that Ibn Kathir sets beside the verse for its meaning.",
+            "bn": "তাঁর কথা ছিল এই: মুমিনকে যখন আল্লাহর রহমত, তাঁর সন্তুষ্টি আর তাঁর জান্নাতের সুসংবাদ দেওয়া হয়, তখন সে আল্লাহর সাক্ষাৎ ভালোবাসে, আর আল্লাহও তার সাক্ষাৎ ভালোবাসেন। আর কাফিরকে যখন আল্লাহর আযাব ও তাঁর অসন্তুষ্টির সংবাদ দেওয়া হয়, তখন সে আল্লাহর সাক্ষাৎ অপছন্দ করে, আর আল্লাহও তার সাক্ষাৎ অপছন্দ করেন। মুসলিমের এ ভাষ্যে ৫৬:৯৩ আয়াতের উল্লেখ নেই। এটি একটি সাধারণ বর্ণনা, যা ইবন কাসীর অর্থের মিলের কারণে আয়াতের পাশে রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Condition, Not a Name",
+          "bn": "শর্ত আছে, নাম নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted gives a cause of revelation for this verse. The verse names a description, not a person: whoever was of the deniers who went astray. It speaks only of what it describes, the end of such a one as the text presents it, and it licenses nothing against any living person or community. No reader may place anyone alive among the deniers, or decide whose deathbed this verse will reach. In kana, if he was, is settled by a whole life, and Allah alone knows how a life closes.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতেই এ আয়াতের শানে নুযুল নেই। আয়াতটি একটি বৈশিষ্ট্যের কথা বলে, কোনো মানুষের নাম নেয় না: যে-ই পথভ্রষ্ট অস্বীকারকারীদের একজন ছিল। আয়াতটি কেবল তা-ই বলে, যা তার ভাষায় আছে, অর্থাৎ এমন মানুষের পরিণতির কথা। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। কোনো পাঠক জীবিত কাউকে অস্বীকারকারীদের দলে বসাতে পারেন না। কার মৃত্যুশয্যায় এ আয়াত পৌঁছাবে, তা ঠিক করার অধিকারও কারও নেই। ইন কানা, যদি সে হয়ে থাকে, এ শর্তের মীমাংসা হয় গোটা জীবন দিয়ে। জীবন কীভাবে শেষ হবে, তা কেবল আল্লাহই জানেন।"
+          },
+          {
+            "en": "The narrations above point the same way. When the people around 'Abd ar-Rahman ibn Abi Layla wept and said they all hated death, the answer was that ordinary dread of dying is not what is meant. In Muslim's wording 'A'isha says the same and receives the same reply. The verse is not a measure for anyone's fear of death. What turns the meeting into something hated, on these reports, is the news given at the end, and the verses tie that news to denial and straying.",
+            "bn": "ওপরের বর্ণনাগুলোও একই দিকে ইঙ্গিত করে। আবদুর রহমান ইবন আবী লাইলার চারপাশের লোকেরা যখন কেঁদে বলল, আমরা সবাই মৃত্যুকে অপছন্দ করি, তখন জবাব এল, মৃত্যুর স্বাভাবিক ভয়ের কথা এখানে বলা হচ্ছে না। মুসলিমের ভাষ্যে আয়েশা (রাঃ)-ও একই কথা বলেন, আর একই জবাব পান। কাজেই কারও মৃত্যুভয় মাপার মানদণ্ড এ আয়াত নয়। এ বর্ণনাগুলো অনুযায়ী সাক্ষাৎটাকে অপছন্দের করে তোলে শেষ মুহূর্তে দেওয়া সংবাদ। আর আয়াতগুলো সেই সংবাদকে বেঁধে দেয় অস্বীকার আর পথভ্রষ্টতার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "After the Scalding Water, Glorify",
+          "bn": "ফুটন্ত পানির পর তাসবীহ"
+        },
+        "p": [
+          {
+            "en": "The passage does not end on hamim. Two verses later comes inna hadha la-huwa haqq al-yaqin, this is the very truth of certainty, and Ibn Kathir's abridged English glosses it: this news is the truth; there is no doubt about it, nor escape from it for anyone. Then 56:96, fa-sabbih bi-smi rabbika al-'azim, so glorify the name of your Lord, the Most Great. The surah sets out three ways of being met at death and then turns the listener to glorifying Allah.",
+            "bn": "অংশটি হামীমে এসে থামে না। দুই আয়াত পরে আসে ইন্না হাযা লাহুওয়া হাক্কুল ইয়াকীন, নিশ্চয়ই এটাই সুনিশ্চিত সত্য। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এর ব্যাখ্যা দেয়: এ সংবাদ সত্য, এতে কোনো সন্দেহ নেই, আর কারও এ থেকে পালানোর পথও নেই। তারপর ৫৬:৯৬, ফাসাব্বিহ বিসমি রাব্বিকাল আযীম, কাজেই তোমার মহান রবের নামের পবিত্রতা ঘোষণা করো। মৃত্যুর সময় বরণের তিনটি ধরন দেখিয়ে সূরাটি শ্রোতাকে ফিরিয়ে দেয় আল্লাহর তাসবীহর দিকে।"
+          },
+          {
+            "en": "For whoever reads it while still alive, the verse is a warning addressed to the self. The word nuzul assumes an arrival, and an arrival assumes a journey still under way. The reader cannot choose how others will be met, and is not asked to. What the reader can still choose is whether to accept the truth, and whether to keep to the guidance whose loss this verse describes. The verse names this welcome while the reader is still on the way to it, and there is still time to turn.",
+            "bn": "যে এখনো বেঁচে থেকে আয়াতটি পড়ছে, তার জন্য এটি নিজের প্রতি সতর্কবার্তা। নুযুল শব্দে ধরে নেওয়া হয় যে কেউ এসে পৌঁছাবে। আর পৌঁছানো মানে যাত্রা এখনো চলছে। অন্যদের কীভাবে বরণ করা হবে, তা বেছে নেওয়ার ক্ষমতা পাঠকের নেই, আর তাঁকে সে দায়িত্বও দেওয়া হয়নি। পাঠক এখনো যা বেছে নিতে পারেন, তা হলো সত্যকে মেনে নেওয়া, আর যে হেদায়াত হারানোর কথা এ আয়াত বলছে, সেটাকে আঁকড়ে থাকা। পাঠক যখন এখনো সেই পথে, তখনই আয়াতটি এ আপ্যায়নের নাম শুনিয়ে দেয়। ফিরে আসার সময় এখনো আছে।"
+          }
+        ]
+      }
+    ]
   }
 });
