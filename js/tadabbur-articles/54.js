@@ -1931,6 +1931,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "54:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "Dragged, Then Spoken To",
+          "bn": "টেনে আনা, তারপর সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "The verse is nine Arabic words: yawma yushabuna fi n-nari 'ala wujuhihim, dhuqu massa saqar. The Day they are dragged in the Fire on their faces: taste the touch of Saqar. It opens with yawma, the Day, so it hangs on the sentence before it. Verse 54:47 has just said that the criminals are in dalal and su'ur, in error and in a blaze, or in madness. This verse says when that state reaches its end and what the end looks like. Al-Baghawi introduces it with a single clause: then He set out their punishment.",
+            "bn": "আরবিতে আয়াতটি ৯টি শব্দের: ইয়াওমা ইউসহাবূনা ফিন নারি আলা উজূহিহিম, যূকূ মাসসা সাকার। যেদিন তাদের মুখের ভরে আগুনের মধ্যে হিঁচড়ে টানা হবে: সাকারের ছোঁয়ার স্বাদ নাও। শুরুর শব্দ ইয়াওমা, অর্থাৎ যেদিন। তাই আয়াতটি আগের বাক্যের সঙ্গে জোড়া। ৫৪:৪৭ আয়াত এইমাত্র বলেছে, অপরাধীরা দালাল আর সু'উরের মধ্যে আছে, মানে গুমরাহী আর জ্বলন্ত আগুনে, কিংবা পাগলামিতে। সে অবস্থার শেষ কবে, আর শেষটা দেখতে কেমন, এ আয়াত তা জানায়। বাগাভী আয়াতটি শুরু করার আগে ছোট্ট একটি বাক্য বলেন: এরপর আল্লাহ তাদের শাস্তির বিবরণ দিলেন।"
+          },
+          {
+            "en": "The verse moves in two steps. First comes a passive verb with no named agent: yushabuna, they are dragged. Al-Baghawi and the Muyassar both gloss it with yujarrun, they are pulled along. Then, with no linking word, comes a plural command: dhuqu, taste. The one who speaks it is not named either. The Arabic passes from what is done to them straight to what is said to them, and the reader is left standing inside the scene, hearing the words at the moment they are spoken, with nothing in between to soften them.",
+            "bn": "আয়াতটি এগোয় দুই ধাপে। প্রথমে এমন একটি ক্রিয়া, যেখানে কাজটা কে করছে তার নাম নেই: ইউসহাবূন, তাদের হিঁচড়ে টানা হবে। বাগাভী ও মুয়াসসার দুজনেই এর অর্থ করেছেন ইউজাররূন দিয়ে, অর্থাৎ টেনে নেওয়া হবে। তারপর কোনো সংযোজক শব্দ ছাড়াই বহুবচনের আদেশ: যূকূ, স্বাদ নাও। কে বলছে, সেটাও বলা নেই। তাদের সঙ্গে কী করা হচ্ছে, সেখান থেকে আরবি বাক্য সোজা চলে যায় তাদের কী বলা হচ্ছে সেখানে। পাঠক দাঁড়িয়ে থাকে দৃশ্যের ঠিক ভেতরে, কথাগুলো শোনে যে মুহূর্তে সেগুলো উচ্চারিত হচ্ছে। মাঝখানে নরম করার মতো কিছুই থাকে না।"
+          },
+          {
+            "en": "The verse also sits inside a short closing run. Verse 54:46 has said that the Hour is their appointment, and that the Hour is more calamitous and more bitter. Verse 54:47 names the state of the criminals, and 54:48 shows what the Hour holds for them. Then 54:49 to 54:53 speak of measure and of a record in which every deed, small and great, is written, and 54:54 turns to those who guard themselves, among gardens and a river. The dragged faces and the gardens are only six verses apart.",
+            "bn": "সূরার শেষ দিকের ছোট একটি ধারার ভেতরে আয়াতটির জায়গা। ৫৪:৪৬ আয়াত বলেছে, কিয়ামতই তাদের নির্ধারিত সময়, আর কিয়ামত আরও ভয়াবহ, আরও তিক্ত। ৫৪:৪৭ আয়াত জানায় অপরাধীদের অবস্থা, আর ৫৪:৪৮ দেখায় কিয়ামত তাদের জন্য কী নিয়ে আসছে। এরপর ৫৪:৪৯ থেকে ৫৪:৫৩ আয়াতে আছে পরিমাপের কথা, আর এমন এক দফতরের কথা যেখানে ছোট-বড় সব আমল লেখা থাকে। তারপর ৫৪:৫৪ আয়াত ফিরে তাকায় মুত্তাকীদের দিকে, যারা থাকবে বাগান আর নহরের মাঝে। মুখের ভরে টানা মানুষ আর বাগানের মানুষ, দুইয়ের মাঝে মাত্র ছয়টি আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Criminals of the Verse Before",
+          "bn": "আগের আয়াতের অপরাধীরা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari names the subject at once: on the Day these criminals are dragged in the Fire on their faces. The pronoun reaches back to al-mujrimin in 54:47, and the passage before that is addressed to Makkah. Verse 54:43 asks whether \"your disbelievers\" are better than the peoples already destroyed, and 54:44 to 54:46 answer their boast of being a united host. Ma'arif al-Qur'an notes that su'ur in 54:47 is read in two ways: as the Hellfire, on one interpretation, and as madness, which is the meaning its own translation follows.",
+            "bn": "তাবারী শুরুতেই জানিয়ে দেন কাদের কথা হচ্ছে: যেদিন এই অপরাধীদের মুখের ভরে আগুনের ভেতর টানা হবে। সর্বনামটি ফিরে যায় ৫৪:৪৭ আয়াতের আল-মুজরিমীন শব্দে। তার আগের অংশের সম্বোধন মক্কার দিকে। ৫৪:৪৩ আয়াত জিজ্ঞেস করে, 'তোমাদের কাফিররা' কি আগে ধ্বংস হওয়া জাতিগুলোর চেয়ে ভালো? আর ৫৪:৪৪ থেকে ৫৪:৪৬ আয়াত জবাব দেয় তাদের সেই দম্ভের, যে তারা এক সংঘবদ্ধ দল। মাআরিফুল কুরআন জানায়, ৫৪:৪৭ আয়াতের সু'উর শব্দটি দুইভাবে বোঝা হয়। একটি ব্যাখ্যায় এর মানে জাহান্নামের আগুন। অন্য অর্থ পাগলামি, আর তাদের নিজেদের অনুবাদ এই দ্বিতীয় অর্থটিই নিয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English, describes the criminals as led away from the truth and caught in confusion because of the doubt and uncertainty they live in, and he adds that the description fits every disbeliever and every innovator, of whatever kind. The Muyassar, which treats 54:47 and 54:48 together, says it more briefly: the criminals are lost, wandering from the truth, in toil and punishment. That is a description of a kind of conduct and its end. It is not a list of names, and the article returns to that difference before it closes.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ অপরাধীদের বর্ণনা দেয় এভাবে: তারা সত্য থেকে দূরে সরে গেছে, আর যে সন্দেহ ও অনিশ্চয়তায় তারা ডুবে আছে, তার কারণে বিভ্রান্তিতে ঘেরা। তিনি যোগ করেন, এ বর্ণনা খাটে প্রত্যেক কাফির আর প্রত্যেক বিদআতির উপর, সে যে ধরনেরই হোক। মুয়াসসার ৫৪:৪৭ ও ৫৪:৪৮ আয়াত একসঙ্গে ব্যাখ্যা করে, আর কথাটা বলে আরও সংক্ষেপে: অপরাধীরা সত্য থেকে পথ হারিয়ে ঘুরছে, কষ্ট আর শাস্তির মধ্যে। এ হলো এক ধরনের আচরণ আর তার পরিণতির বর্ণনা, কারও নামের তালিকা নয়। লেখার শেষ দিকে এই পার্থক্যে আবার ফিরে আসা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Led as They Lived",
+          "bn": "যেমন জীবন, তেমন টেনে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads 54:48 as the mirror of 54:47. Just as they were in su'ur, in doubt and wavering, that state left them the Fire as its inheritance; and just as they were astray, they are dragged in it on their faces, not knowing where they are being taken. On his reading the match is close. Dalal is losing the road, and here they are moved along a road they cannot see. Su'ur, whether it is read as a blaze or as a frenzy of the mind, is answered by a real burning. The end takes the shape of the life.",
+            "bn": "ইবন কাসীর ৫৪:৪৮ আয়াতকে পড়েন ৫৪:৪৭-এর প্রতিচ্ছবি হিসেবে। তারা যেমন সু'উরে ছিল, সন্দেহ আর দোদুল্যমানতায়, সেই অবস্থাই উত্তরাধিকার হিসেবে তাদের আগুনে পৌঁছে দিয়েছে। আর তারা যেমন পথভ্রষ্ট ছিল, তেমনি আগুনের ভেতরে তাদের মুখের ভরে টানা হবে, কোথায় নেওয়া হচ্ছে তা তারা জানবে না। তাঁর ব্যাখ্যায় মিলটা খুব কাছাকাছি। দালাল মানে পথ হারানো, আর এখানে তাদের এমন পথে টেনে নেওয়া হচ্ছে, যা তারা দেখতে পায় না। সু'উরকে জ্বলন্ত আগুন ধরা হোক বা মনের উন্মত্ততা, তার জবাব আসে সত্যিকারের দহনে। জীবনের চেহারাই শেষে পরিণতির চেহারা হয়ে ফেরে।"
+          },
+          {
+            "en": "As-Sa'di looks at the face itself. It is, he says, the noblest of a person's limbs, and its pain is sharper than the pain of any other; so by this they are humiliated and disgraced. The dragging is therefore not only pain but loss of honour, done to the part of the body that carries a person's dignity before others. The Qur'an returns to the same image in other places. Verse 25:34 speaks of those who are gathered on their faces to Hell, and 33:66 of a Day when their faces are turned over in the Fire.",
+            "bn": "সা'দী তাকান মুখের দিকে। তিনি বলেন, মানুষের অঙ্গগুলোর মধ্যে মুখ সবচেয়ে সম্মানিত, আর এর ব্যথা অন্য যেকোনো অঙ্গের ব্যথার চেয়ে তীব্র। তাই এভাবে টেনে তাদের লাঞ্ছিত আর অপদস্থ করা হয়। কাজেই এ টানা শুধু যন্ত্রণা নয়, সম্মান কেড়ে নেওয়াও। আর তা করা হয় শরীরের সেই অংশের সঙ্গে, যা অন্যদের সামনে মানুষের মর্যাদা বয়ে বেড়ায়। কুরআন অন্য জায়গাতেও এ ছবিতে ফিরে আসে। ২৫:৩৪ আয়াত তাদের কথা বলে, যাদের মুখের ভরে জাহান্নামের দিকে জড়ো করা হবে। আর ৩৩:৬৬ আয়াত বলে সেই দিনের কথা, যেদিন আগুনে তাদের মুখ উল্টেপাল্টে দেওয়া হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In the Fire, or Into It",
+          "bn": "আগুনের ভেতরে, নাকি আগুনের দিকে"
+        },
+        "p": [
+          {
+            "en": "The preposition is fi, in. At-Tabari reports that some took fi n-nari here in the sense of ila n-nar, to the Fire, so that the dragging is the journey towards it rather than a movement within it. He adds that this is mentioned as the wording in the reading of Abdullah: yushabuna ila n-nari 'ala wujuhihim. At-Tabari's own gloss keeps fi, dragged in the Fire, and he gives the other view as a report without arguing against it. Both pictures show the same humiliation, seen at two points along one road.",
+            "bn": "শব্দটি হলো ফী, যার অর্থ ভেতরে। তাবারী জানান, কেউ কেউ এখানে ফিন নার কথাটিকে ইলান নার অর্থে নিয়েছেন, মানে আগুনের দিকে। সে হিসেবে টানাটা আগুনের দিকে যাত্রা, আগুনের ভেতরে চলাচল নয়। তিনি আরও বলেন, উল্লেখ আছে যে আবদুল্লাহর কিরাআতে শব্দগুলো এরকম: ইউসহাবূনা ইলান নারি আলা উজূহিহিম। তাবারীর নিজের ব্যাখ্যায় ফী-ই থাকে, অর্থাৎ আগুনের ভেতরে টানা। অন্য মতটি তিনি বর্ণনা হিসেবে আনেন, তার বিরুদ্ধে যুক্তি দেন না। দুই ছবিতেই একই লাঞ্ছনা, শুধু একই পথের দুই জায়গা থেকে দেখা।"
+          },
+          {
+            "en": "Between the dragging and the command, something is left unsaid. At-Tabari supplies it: it is said to them, taste the touch of Saqar. He explains that the words \"it is said to them\" were dropped because the sense of the speech already shows them. Al-Qurtubi, al-Baghawi, as-Sa'di and the Muyassar all supply the same phrase. Ibn Kathir adds the manner of it: the words are spoken to them by way of rebuke and reproach, taqri'an wa-tawbikhan. The command to taste is not an offer of anything. It is the reproach itself, spoken over them.",
+            "bn": "টেনে নেওয়া আর আদেশের মাঝখানে একটা কথা উহ্য আছে। তাবারী সেটা পূরণ করে দেন: তাদের বলা হবে, সাকারের ছোঁয়ার স্বাদ নাও। তিনি বুঝিয়ে বলেন, 'তাদের বলা হবে' কথাটা বাদ পড়েছে, কারণ বক্তব্যের ধারাই তা বুঝিয়ে দেয়। কুরতুবী, বাগাভী, সা'দী আর মুয়াসসার সবাই একই কথা জুড়ে দেন। ইবন কাসীর বলার ধরনটাও জানান: কথাগুলো তাদের বলা হবে ধমক আর ভর্ৎসনা হিসেবে, তাকরীআন ওয়া তাওবীখান। স্বাদ নেওয়ার এ আদেশ কিছু দেওয়ার প্রস্তাব নয়। এটাই খোদ ভর্ৎসনা, তাদের উপর উচ্চারিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tasting a Touch",
+          "bn": "ছোঁয়ার স্বাদ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari raises the obvious question himself: how can the touch of Saqar be tasted, and does it have a flavour to taste? He says the scholars differed. Some said the phrase is figurative speech, as one says, how did you find the taste of the beating? Another said it is like saying, I found the touch of the fever, meaning the first of it that reached me, and in the same way, I found the taste of your pardon. He records both answers and does not choose between them, so they stand here side by side.",
+            "bn": "স্বাভাবিক প্রশ্নটা তাবারী নিজেই তোলেন: সাকারের ছোঁয়ার আবার স্বাদ নেওয়া যায় কীভাবে? তার কি কোনো স্বাদ আছে? তিনি বলেন, এ নিয়ে আলেমদের মতভেদ আছে। কেউ বলেছেন, এটা রূপক কথা, যেমন লোকে বলে, মারের স্বাদ কেমন লাগল? আরেকজন বলেছেন, এটা তেমন, যেমন কেউ বলে, জ্বরের ছোঁয়া পেলাম, মানে জ্বরের প্রথম যেটুকু গায়ে লাগল। একইভাবে বলা হয়, তোমার ক্ষমার স্বাদ পেলাম। তিনি দুটো জবাবই লিখে রাখেন, কোনোটাকে বেছে নেন না। তাই এখানেও দুটো পাশাপাশি রইল।"
+          },
+          {
+            "en": "Others name what is tasted. Al-Qurtubi defines its touch as the pain they find as they fall into it. As-Sa'di expands the command: taste the pain of the Fire, its anguish, its fury and its flame. The Muyassar renders it as taste the severity of the punishment of Jahannam. These are fuller statements of one meaning rather than rival readings. On the second view at-Tabari records, even the word touch names only the first of what reaches them, and the verse does not go on to say what follows it.",
+            "bn": "অন্যরা জানান, কীসের স্বাদ নিতে বলা হচ্ছে। কুরতুবী ছোঁয়ার সংজ্ঞা দেন এভাবে: আগুনে পড়ার সময় তারা যে ব্যথা পায়। সা'দী আদেশটাকে খুলে বলেন: আগুনের যন্ত্রণা, তার দুঃখ, তার ক্রোধ আর তার লেলিহান শিখার স্বাদ নাও। মুয়াসসার বলে: জাহান্নামের শাস্তির কঠোরতার স্বাদ নাও। এগুলো পরস্পরবিরোধী ব্যাখ্যা নয়, একই অর্থের আরও পূর্ণ বিবরণ। তাবারীর বর্ণিত দ্বিতীয় মত অনুযায়ী 'ছোঁয়া' শব্দটি তাদের কাছে যা পৌঁছায় তার কেবল প্রথম অংশের নাম। এর পরে কী আসে, আয়াত তা আর বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Name, Several Accounts",
+          "bn": "এক নাম, কয়েক রকম ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Saqar is a proper name, and the commentators do not define it the same way. At-Tabari says it is the name of one of the gates of Jahannam. Al-Qurtubi calls it one of the names of Jahannam, like Laza and Jahannam itself, and he also relays from 'Ata' that Saqar is the sixth level of Jahannam. These are three different answers: a gate, the whole, and a level. None of the texts fetched for this verse settles between them, so the article keeps all three as they are reported.",
+            "bn": "সাকার একটি নাম, আর তাফসীরকারেরা একে একইভাবে ব্যাখ্যা করেননি। তাবারী বলেন, এটা জাহান্নামের দরজাগুলোর একটির নাম। কুরতুবী বলেন, এটা জাহান্নামের নামগুলোর একটি, যেমন লাযা, যেমন জাহান্নাম নিজে। তিনি আতা থেকে এটাও বর্ণনা করেন যে সাকার জাহান্নামের ষষ্ঠ স্তর। জবাব তাহলে তিনটি: একটি দরজা, পুরো জাহান্নাম, আর একটি স্তর। এ আয়াতের জন্য যে লেখাগুলো পড়া হয়েছে, তার কোনোটিই এর মীমাংসা করে না। তাই তিনটি মতই এখানে যেভাবে বর্ণিত, সেভাবে রাখা হলো।"
+          },
+          {
+            "en": "Both at-Tabari and al-Qurtubi note a point of grammar: the word does not take the full case ending, because it is a definite feminine name. Al-Qurtubi also gives an etymology from the grammarian Qutrub: saqarathu sh-shams, the sun scorched him and changed his colour, and a yawm musmaqirr is a day of fierce heat. The Qur'an itself treats the name as weighty. In 74:26 and 74:27 Allah says, I will drive him into Saqar, and what can make you know what Saqar is? In 74:40 to 74:42 those in the gardens ask the criminals what brought them into Saqar.",
+            "bn": "তাবারী আর কুরতুবী দুজনেই শব্দটির আরবি রূপ নিয়ে একটি কথা বলেন: স্ত্রীলিঙ্গের নির্দিষ্ট নাম বলে এর শেষে পুরো স্বরচিহ্ন বসে না। কুরতুবী আরবি ভাষাবিদ কুতরুব থেকে শব্দটির উৎসও জানান: সাকারাতহুশ শামস, মানে রোদ তাকে ঝলসে দিয়েছে, গায়ের রং বদলে দিয়েছে। আর ইয়াওমুন মুসমাকির মানে প্রচণ্ড গরমের দিন। কুরআনও নামটিকে হালকাভাবে নেয় না। ৭৪:২৬ ও ৭৪:২৭ আয়াতে আল্লাহ বলেন, আমি তাকে সাকারে নিক্ষেপ করব, আর তুমি কি জানো সাকার কী? ৭৪:৪০ থেকে ৭৪:৪২ আয়াতে জান্নাতের বাগানে থাকা লোকেরা অপরাধীদের জিজ্ঞেস করে, কীসে তোমাদের সাকারে নিয়ে এল?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Quarrel About Measure",
+          "bn": "পরিমাপ নিয়ে বিবাদ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens his comment on this verse with a report that Muslim collects in his Sahih. Abu Hurayra said: \"The polytheists of Quraysh came disputing with the Messenger of Allah ﷺ about qadar, and then there was revealed: The Day they are dragged in the Fire on their faces, taste the touch of Saqar. Indeed, We created everything by measure.\" At-Tirmidhi records the same report (3290) through the same chain from Abu Hurayra, and he grades it himself: hasan sahih. It is the one sound narration attached to this verse in the sources read here.",
+            "bn": "কুরতুবী এ আয়াতের আলোচনা শুরু করেন এমন একটি বর্ণনা দিয়ে, যা মুসলিম তাঁর সহীহ গ্রন্থে সংকলন করেছেন। আবূ হুরায়রা (রাঃ) বলেন: 'কুরাইশের মুশরিকরা তাকদীর নিয়ে রাসূলুল্লাহ ﷺ-এর সঙ্গে বিতর্ক করতে এল। তখন নাযিল হলো: যেদিন তাদের মুখের ভরে আগুনের মধ্যে টানা হবে, সাকারের ছোঁয়ার স্বাদ নাও। নিশ্চয়ই আমি সব কিছু সৃষ্টি করেছি নির্ধারিত পরিমাপে।' তিরমিযী একই বর্ণনা (৩২৯০) আবূ হুরায়রা (রাঃ) পর্যন্ত একই সনদে এনেছেন, আর নিজেই একে হাসান সহীহ বলেছেন। এখানে পড়া উৎসগুলোর মধ্যে এ আয়াতের সঙ্গে যুক্ত সহীহ বর্ণনা এটিই।"
+          },
+          {
+            "en": "The report binds 54:48 to the verse after it. The disputants of that hour were polytheists of Quraysh arguing against the divine decree, and the answer came in two verses: a scene of the Fire, then the statement in 54:49 that everything was created bi-qadar, by measure. That second verse deserves its own reading; here it explains what the threat was answering. Ibn Kathir, in the abridged English, cites further narrations about people who would later deny the decree, but the pages fetched for this verse give no collector's grading for them, so they are left out.",
+            "bn": "বর্ণনাটি ৫৪:৪৮ আয়াতকে পরের আয়াতের সঙ্গে বেঁধে দেয়। সেদিনের বিতর্ককারীরা ছিল কুরাইশের মুশরিক, যারা আল্লাহর নির্ধারণের বিরুদ্ধে তর্ক করছিল। জবাব এল দুটি আয়াতে: প্রথমে আগুনের একটি দৃশ্য, তারপর ৫৪:৪৯ আয়াতের ঘোষণা যে সব কিছু সৃষ্টি হয়েছে বি-কাদার, নির্ধারিত পরিমাপে। সেই দ্বিতীয় আয়াত আলাদা পাঠের দাবি রাখে। এখানে শুধু এটুকু বোঝা যায়, হুমকিটা কোন কথার জবাবে এসেছিল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ পরে তাকদীর অস্বীকার করবে এমন লোকদের নিয়ে আরও কিছু বর্ণনা আনে। কিন্তু এ আয়াতের জন্য আনা পাতাগুলোতে সেগুলোর ব্যাপারে কোনো সংকলকের মান নির্ণয় নেই, তাই সেগুলো বাদ রাখা হলো।"
+          },
+          {
+            "en": "Al-Qurtubi follows it with a second narration from Muslim, through Tawus. Tawus said he met Companions of the Messenger of Allah ﷺ who said, everything is by measure, and he heard Abdullah ibn Umar say that the Messenger of Allah ﷺ said: \"Everything is by measure, even incapacity and ability\", or \"ability and incapacity\". This is a general teaching on the decree. It is not a report about why 54:48 came down, and it sits with this verse only through the measure named in 54:49.",
+            "bn": "কুরতুবী এর পরে মুসলিম থেকে তাউসের সূত্রে দ্বিতীয় একটি বর্ণনা আনেন। তাউস বলেন, তিনি রাসূলুল্লাহ ﷺ-এর কয়েকজন সাহাবীকে পেয়েছেন, যাঁরা বলতেন, সব কিছুই নির্ধারিত পরিমাপে। আর তিনি আবদুল্লাহ ইবন উমার (রাঃ)-কে বলতে শুনেছেন, রাসূলুল্লাহ ﷺ বলেছেন: 'সব কিছুই নির্ধারিত পরিমাপে, এমনকি অক্ষমতা আর দক্ষতাও', কিংবা 'দক্ষতা আর অক্ষমতাও'। এটা তাকদীর বিষয়ে একটি সাধারণ শিক্ষা, ৫৪:৪৮ আয়াত কেন নাযিল হলো তার বর্ণনা নয়। এ আয়াতের সঙ্গে এর সম্পর্ক কেবল ৫৪:৪৯ আয়াতে উল্লিখিত পরিমাপের সূত্রে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Label for Neighbours",
+          "bn": "প্রতিবেশীর গায়ে লাগানোর তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the end of those it calls criminals, and the report ties its revelation to polytheists of Quraysh who disputed with the Prophet ﷺ in his lifetime. It licenses nothing against any living person or community. No reader may point at a neighbour, a group or a questioner and say, that face will be dragged. Someone who asks about the decree, struggles with it, or seeks to understand it is not the disputant of that report. The judgement on that Day belongs to Allah alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঠিক ততটুকুই বর্ণনা করে, যতটুকু এর ভাষা বর্ণনা করে: যাদের সে অপরাধী বলেছে, তাদের পরিণতি। আর বর্ণনাটি এর নাযিলকে বেঁধে দেয় কুরাইশের সেই মুশরিকদের সঙ্গে, যারা নবী ﷺ-এর জীবদ্দশায় তাঁর সঙ্গে বিতর্ক করেছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। প্রতিবেশী, কোনো দল বা কোনো প্রশ্নকারীর দিকে আঙুল তুলে কেউ বলতে পারে না, ওই মুখই টানা হবে। যে তাকদীর নিয়ে প্রশ্ন করে, মনের ভেতর এ নিয়ে লড়াই করে বা বুঝতে চায়, সে ওই বর্ণনার বিতর্ককারী নয়। সেদিনের বিচার শুধুই আল্লাহর হাতে।"
+          },
+          {
+            "en": "What the verse does hand the reader is a mirror. Ibn Kathir's reading ties the end to doubt and wavering that were never resolved, and to a road walked without knowing where it led. As-Sa'di's reading points at the face, the noblest part of a person. Both are about me before they are about anyone else. The face that can be lowered freely in prostration today is the same face this verse shows pulled along the ground. Choosing humility now, and taking honest doubts to people of knowledge, is the answer the verse leaves open.",
+            "bn": "আয়াতটি পাঠকের হাতে যা তুলে দেয়, তা এক আয়না। ইবন কাসীরের ব্যাখ্যা পরিণতিকে বেঁধে দেয় এমন সন্দেহ আর দোদুল্যমানতার সঙ্গে, যার কখনো মীমাংসা হয়নি, আর এমন পথের সঙ্গে, যার শেষ কোথায় না জেনেই হাঁটা হয়েছে। সা'দীর ব্যাখ্যা আঙুল রাখে মুখের উপর, মানুষের সবচেয়ে সম্মানিত অঙ্গে। দুটোই অন্য কারও আগে আমার নিজের কথা। আজ যে মুখ নিজের ইচ্ছায় সিজদায় মাটিতে রাখা যায়, এ আয়াত সেই মুখকেই দেখায় মাটিতে ঘষটে টানা অবস্থায়। এখনই বিনয় বেছে নেওয়া, আর মনের সৎ সন্দেহগুলো আলেমদের কাছে নিয়ে যাওয়া, এ আয়াত সেই জবাবের দরজাই খোলা রেখেছে।"
+          }
+        ]
+      }
+    ]
+  },
   "54:54": {
     "sections": [
       {

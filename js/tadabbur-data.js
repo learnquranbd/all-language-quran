@@ -27829,6 +27829,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whatever people lift to the place of a lord, a star, a fortune or a person, is itself governed; give your worship and your hope only to its Lord.",
     "lessonBn": "মানুষ যাকেই রবের আসনে তোলে, তারা হোক, ভাগ্য হোক বা কোনো মানুষ, সে নিজেই অন্যের পরিচালনায় চলে। তাই আপনার ইবাদত আর আশা রাখুন শুধু তার রবের কাছে।"
+  },
+  "54:48": {
+    "reflectionEn": "The verse before this one says the criminals are lost in error and in a blaze. This one shows where that ends: a Day when they are dragged into the Fire on their faces, and a voice tells them to taste the touch of Saqar. The face is what a person shows the world, what they lift in pride and what they lower in prostration. Here it is the part pulled along the ground, by people who no longer choose where they go. I am not asked to picture anyone else in that scene. I am asked where my own face is turned today, and whether my doubts are being settled or simply carried. The next verse says Allah created everything by measure.",
+    "reflectionBn": "আগের আয়াত বলেছে, অপরাধীরা গুমরাহী আর জ্বলন্ত আগুনের মধ্যে আছে। এ আয়াত দেখায়, তার শেষ কোথায়। এমন এক দিন, যেদিন তাদের মুখের ভরে আগুনের ভেতর হিঁচড়ে টানা হবে, আর বলা হবে: সাকারের ছোঁয়ার স্বাদ নাও। মুখই তো মানুষের পরিচয়। এ মুখ সে দুনিয়ার সামনে তুলে ধরে, অহংকারে উঁচু করে, সিজদায় মাটিতে রাখে। সেদিন সেই মুখই মাটিতে ঘষটে টানা হবে, আর কোথায় যাচ্ছে তা বেছে নেওয়ার সুযোগ থাকবে না। এ দৃশ্যে অন্য কাউকে বসিয়ে দেখতে আমাকে বলা হয়নি। আমাকে প্রশ্ন করা হচ্ছে, আজ আমার নিজের মুখ কোন দিকে ফেরানো? আমার সন্দেহগুলো কি মীমাংসা হচ্ছে, নাকি শুধু বয়ে বেড়াচ্ছি? পরের আয়াতেই আল্লাহ বলেন, তিনি সব কিছু সৃষ্টি করেছেন নির্ধারিত পরিমাপে।",
+    "pointsEn": [
+      "Where is my face turned for most of the day, and what does it bow to?",
+      "Is there a question of faith I keep circling in doubt instead of seeking an answer to, and whom could I ask this week?",
+      "When I read about the Fire, do I picture other people in it, or do I let the warning reach me first?",
+      "Which part of what Allah has measured out for me am I still quarrelling with in my heart?",
+      "What act of humility could I choose freely today, rather than wait for a humbling I did not choose?"
+    ],
+    "pointsBn": [
+      "দিনের বেশির ভাগ সময় আমার মুখ কোন দিকে ফেরানো থাকে, আর সে মাথা নোয়ায় কার সামনে?",
+      "ঈমানের এমন কোনো প্রশ্ন কি আছে, যার চারপাশে আমি সন্দেহ নিয়ে ঘুরছি, অথচ উত্তর খুঁজছি না? এ সপ্তাহে কাকে জিজ্ঞেস করতে পারি?",
+      "জাহান্নামের কথা পড়লে আমি কি অন্যদের সেখানে কল্পনা করি, নাকি সতর্কবাণীটা আগে নিজের গায়ে লাগতে দিই?",
+      "আল্লাহ আমার জন্য যা মেপে ঠিক করে রেখেছেন, তার কোন অংশ নিয়ে আমার মন এখনো তাঁর সঙ্গে ঝগড়া করছে?",
+      "জোর করে নত হওয়ার দিন আসার আগে, আজ নিজের ইচ্ছায় কোন বিনয়ের কাজটা আমি বেছে নিতে পারি?"
+    ],
+    "lessonEn": "Settle your doubts while there is time and turn your face to Allah in humility today; read the warning about dragged faces as addressed to you, not to others.",
+    "lessonBn": "সময় থাকতে সন্দেহের মীমাংসা করুন, আজই বিনয়ের সঙ্গে আল্লাহর দিকে মুখ ফেরান। মুখের ভরে টেনে নেওয়ার এ সতর্কবাণী অন্যের জন্য নয়, নিজের জন্য পড়ুন।"
   }
 };
 
