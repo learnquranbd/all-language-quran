@@ -15,7 +15,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
 ## WAVE 2 (2026-11-02): more ayahs.
-STATE 2026-11-06: v1701 LIVE (pushed+deployed). Resume: ship drafts with audit/<key>/COMMIT.md for LAUNCHED rows, relaunch the rest, then queue.js. Resume: ship any audit/<key>/COMMIT.md drafts of LAUNCHED rows, relaunch the rest.
+STATE 2026-11-06: v1731 LIVE (pushed+deployed). Resume: ship drafts with audit/<key>/COMMIT.md for LAUNCHED rows, relaunch the rest, then queue.js. Resume: ship any audit/<key>/COMMIT.md drafts of LAUNCHED rows, relaunch the rest.
 RESUMED 2026-11-06 after v1610 (USER: "continue enrich wave, until I say stop, finish all the Tadabbur ayah for this enrich wave"): shipped the 8 waiting drafts as v1611-v1618; 10 drafters; push+deploy in groups (~30). LAUNCHED: 33:29 33:37 33:53 33:66 34:6 34:10 34:16 34:27 34:37 34:52.
 STOPPED 2026-11-06 at v1610 on CONTEXT HIGH; pushed origin+pro and DEPLOYED, live sw.js = lq-v1610 (verified). DRAFTED+gate-ready (not shipped): 31:2 31:25 32:3 32:9 32:15 32:19 33:4 33:13 (33:13: check §5 Ahmad Yathrib report + Qatadah "sent someone" wording before shipping). (This session v1532-v1610 = 79 ayat, 21:81 -> 30:5). ALL 8 in-flight drafts finished (none in flight now). RESUME in a FRESH session: for each in-flight key, if audit/<key>/COMMIT.md exists -> gate.js, ship.sh, commit.sh; if not -> relaunch the drafter (PREP ready). Then queue.js (next prepped: 33:29 33:37 33:53); 10 drafters. NOTE: queue.js does not exclude in-flight keys.
 OPEN (small): shipped 30:3 licensing sentence names "Persians, Iranians" (a present-day people), against the rule; reword to tie Rum/Persia to no present-day state or people (see audit/30_5 report). A stray draft tools/wip/round11/17_26-*.js exists (17:26 not shipped?) - check before drafting 17:26. Stale row "37:134 LAUNCHED" in the table - check.
@@ -396,15 +396,43 @@ New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-tar
 | 43:80 | v1699 | DONE |
 | 44:4 | v1700 | DONE |
 | 44:13 | v1701 | DONE |
-| 44:20 | - | LAUNCHED |
-| 44:32 | - | LAUNCHED |
-| 44:45 | - | LAUNCHED |
-| 44:53 | - | LAUNCHED |
-| 45:5 | - | LAUNCHED |
-| 45:17 | - | LAUNCHED |
-| 45:35 | - | LAUNCHED |
-| 46:5 | - | LAUNCHED |
-| 46:17 | - | LAUNCHED |
+| 44:20 | v1704 | DONE |
+| 44:32 | v1703 | DONE |
+| 44:45 | v1702 | DONE |
+| 44:53 | v1706 | DONE |
+| 45:5 | v1705 | DONE |
+| 45:17 | v1707 | DONE |
+| 45:35 | v1708 | DONE |
+| 46:5 | v1709 | DONE |
+| 46:17 | v1712 | DONE |
+| 46:29 | v1713 | DONE |
+| 47:3 | v1710 | DONE |
+| 47:10 | v1711 | DONE |
+| 47:19-20 | v1716 | DONE |
+| 47:29 | v1715 | DONE |
+| 48:10 | v1717 | DONE |
+| 48:16 | v1714 | DONE |
+| 48:22 | v1718 | DONE |
+| 49:6 | v1721 | DONE |
+| 49:15 | v1719 | DONE |
+| 50:7 | v1722 | DONE |
+| 50:27 | v1720 | DONE |
+| 50:33 | v1723 | DONE |
+| 50:44 | v1725 | DONE |
+| 51:6 | v1724 | DONE |
+| 51:33 | v1729 | DONE |
+| 51:41 | v1726 | DONE |
+| 51:59 | v1728 | DONE |
+| 52:6 | v1727 | DONE |
+| 52:15 | v1730 | DONE |
+| 52:24 | v1731 | DONE |
+| 52:27 | - | LAUNCHED |
+| 52:36 | - | LAUNCHED |
+| 52:44 | - | LAUNCHED |
+| 53:2 | - | LAUNCHED |
+| 53:10 | - | LAUNCHED |
+| 53:19 | - | LAUNCHED |
+| 53:31 | - | LAUNCHED |
 | 21:59 | v1527 | DONE |
 | 21:73 | v1525 | DONE |
 
