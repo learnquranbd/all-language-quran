@@ -895,6 +895,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "56:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "Turning to the Right Hand",
+          "bn": "ডান হাতের দলের দিকে ফেরা"
+        },
+        "p": [
+          {
+            "en": "Wa-ashabu l-yamini ma ashabu l-yamin: and the companions of the right, what are the companions of the right? Five Arabic words, with the name said twice. The verse comes straight after 56:26, where the account of the foremost closes on a saying of peace, peace. Ibn Kathir's Arabic note marks the turn in one sentence: having mentioned the end of the foremost, who are those brought near, Allah joined to them the mention of the companions of the right, whom he calls al-abrar, the righteous.",
+            "bn": "ওয়া আসহাবুল ইয়ামীনি মা আসহাবুল ইয়ামীন: আর ডান দিকের দল, কী সেই ডান দিকের দল? আরবিতে পাঁচটি শব্দ, তাতে নামটা দুবার। আয়াতটি আসে ঠিক ৫৬:২৬-এর পরে, যেখানে অগ্রবর্তীদের বর্ণনা শেষ হয়েছে সালাম, সালাম কথাটি দিয়ে। ইবন কাসীর তাঁর আরবি তাফসীরে একটিমাত্র বাক্যে মোড়টা চিহ্নিত করেন। অগ্রবর্তী, অর্থাৎ নৈকট্যপ্রাপ্তদের পরিণামের কথা বলার পর আল্লাহ তাদের সঙ্গে জুড়ে দিলেন ডান দিকের দলের কথা। এদের তিনি বলেন আল-আবরার, অর্থাৎ নেককার বান্দারা।"
+          },
+          {
+            "en": "Al-Qurtubi chooses a different verb for the same move. The verse, he says, returned to the mention of the stations of the companions of the right, naming them with the word al-maymana that the surah used for them at 56:8. The return is the point. The group was introduced near the opening of the surah, set aside while the foremost were described, and is now taken up again. Its name and the three-way division of 56:7 to 56:10 belong to the article on 56:8 and are not reopened here.",
+            "bn": "একই মোড়কে কুরতুবী প্রকাশ করেন অন্য একটি ক্রিয়া দিয়ে। তাঁর ভাষায়, আয়াতটি ফিরে এল ডান দিকের দলের মর্যাদার কথায়। এখানে তিনি তাদের নাম নেন আল-মাইমানা শব্দে, যে শব্দে সূরাটি ৫৬:৮ আয়াতে তাদের উল্লেখ করেছিল। ফিরে আসাটাই আসল কথা। সূরার শুরুর দিকে দলটির পরিচয় দেওয়া হয়েছিল, তারপর অগ্রবর্তীদের বর্ণনার সময় তাদের কথা থেমে ছিল, আর এখন আবার তা শুরু হলো। তাদের নাম আর ৫৬:৭ থেকে ৫৬:১০ পর্যন্ত তিন দলে ভাগের আলোচনা ৫৬:৮-এর প্রবন্ধের বিষয়, এখানে তা আবার খোলা হচ্ছে না।"
+          },
+          {
+            "en": "What this article follows instead is the verse's own work. It asks a question, and the verses after it answer. The answer runs from 56:28 to 56:34 in a list of trees, shade, water, fruit and raised couches, and the account of this group closes at 56:38 to 56:40. The matching verse for the other side, 56:41, has its own article. Here the focus stays on the five words: what the question asks, why the name is said again, and how the reply begins.",
+            "bn": "এ প্রবন্ধ বরং দেখবে আয়াতটি নিজে কী করে। আয়াতটি প্রশ্ন তোলে, আর পরের আয়াতগুলো উত্তর দেয়। উত্তর চলে ৫৬:২৮ থেকে ৫৬:৩৪ পর্যন্ত: গাছ, ছায়া, পানি, ফল আর উঁচু বিছানার এক তালিকা। এ দলের বর্ণনা শেষ হয় ৫৬:৩৮ থেকে ৫৬:৪০ আয়াতে। অপর পক্ষের জোড়া আয়াত ৫৬:৪১, তার আলাদা প্রবন্ধ আছে। এখানে মনোযোগ থাকবে ওই পাঁচটি শব্দেই: প্রশ্নটা কী জানতে চায়, নামটা কেন আবার বলা হলো, আর উত্তর কীভাবে শুরু হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Step Below the Near",
+          "bn": "নৈকট্যপ্রাপ্তদের এক ধাপ নিচে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir supports the order of the passage with a saying of Maymun ibn Mihran, whom he quotes by name: the companions of the right are a rank below those brought near. The abridged English Ibn Kathir gives the same line, that those on the right are lesser in rank than the foremost in faith. The surah's own order agrees. The foremost were named at 56:10 and 56:11 as those brought near, and their reward was set out first; the companions of the right come second.",
+            "bn": "অংশটির এই ক্রমের সমর্থনে ইবন কাসীর নাম ধরে মায়মুন ইবন মিহরানের একটি উক্তি আনেন: ডান দিকের দল নৈকট্যপ্রাপ্তদের চেয়ে এক স্তর নিচে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও একই কথা আছে: ঈমানে অগ্রবর্তীদের তুলনায় ডান দিকের দলের মর্যাদা কম। সূরার নিজের ক্রমও তাই বলে। ৫৬:১০ ও ৫৬:১১ আয়াতে অগ্রবর্তীদের নাম এসেছে নৈকট্যপ্রাপ্ত হিসেবে, তাদের প্রতিদানের বর্ণনা এসেছে আগে। ডান দিকের দল আসে দ্বিতীয় স্থানে।"
+          },
+          {
+            "en": "A lower rank is not a small one. Ibn Kathir's own word for this group, al-abrar, is a word of praise, and the verse that introduces them is built to make the listener wonder at them. The surah keeps the same two tiers to its end. At 56:88 and 56:89 it speaks of the one who was of those brought near, and at 56:90 and 56:91 of the one who was of the companions of the right, greeted with peace. That closing passage has its own article; here it is enough to see the order hold.",
+            "bn": "নিচের স্তর মানে ছোট স্তর নয়। এ দলের জন্য ইবন কাসীরের নিজের শব্দ আল-আবরার, যা প্রশংসার শব্দ। আর যে আয়াতে তাদের কথা ফিরে আসে, তার গড়নই এমন যে শ্রোতা বিস্ময়ে থমকে যায়। সূরাটি শেষ পর্যন্ত এই দুই স্তর ধরে রাখে। ৫৬:৮৮ ও ৫৬:৮৯ আয়াতে আসে নৈকট্যপ্রাপ্তদের একজনের কথা, আর ৫৬:৯০ ও ৫৬:৯১ আয়াতে ডান দিকের দলের একজনের কথা, যাকে সালাম জানানো হয়। শেষের সেই অংশের আলাদা প্রবন্ধ আছে। এখানে শুধু এটুকু দেখার যে ক্রমটা বদলায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their State and Their Ending",
+          "bn": "তাদের হাল আর পরিণাম"
+        },
+        "p": [
+          {
+            "en": "Ma ashabu l-yamin: what are the companions of the right? The name has already said who they are, so the question must be asking something else. Ibn Kathir spells it out in three short questions: what thing are the companions of the right, what is their state, and how will their end be? On his reading the verse asks about condition and outcome. The abridged English renders it the same way: who are those on the right, what is their condition and what will their final destination be like.",
+            "bn": "মা আসহাবুল ইয়ামীন: কী সেই ডান দিকের দল? তারা কারা, নামেই তা বলা হয়ে গেছে। তাই প্রশ্নটা অন্য কিছু জানতে চাইছে। ইবন কাসীর তিনটি ছোট প্রশ্নে কথাটা খুলে বলেন: ডান দিকের দল কোন জিনিস, তাদের অবস্থা কেমন, আর তাদের পরিণাম কেমন হবে? তাঁর পাঠে আয়াতটি জানতে চায় অবস্থা আর শেষ ফল। সংক্ষিপ্ত ইংরেজি সংস্করণও একইভাবে বলে: ডান দিকের লোকেরা কারা, তাদের অবস্থা কী, আর তাদের শেষ গন্তব্য কেমন হবে।"
+          },
+          {
+            "en": "At-Tabari frames the verse as Allah's address to His Prophet Muhammad ﷺ, and then glosses the question: what thing are they, what is theirs, and what good has been prepared for them? He supports the gloss with a report through his own chain, Bishr from Yazid from Sa'id, reaching Qatada, who said of this verse: what is theirs, and what has been prepared for them. In both wordings the question looks forward. It is less about the people than about what is waiting for them.",
+            "bn": "তাবারী আয়াতটিকে দেখেন তাঁর নবী মুহাম্মাদ ﷺ-এর প্রতি আল্লাহর সম্বোধন হিসেবে। তারপর প্রশ্নটির ব্যাখ্যা দেন: তারা কোন জিনিস, তাদের জন্য কী আছে, আর তাদের জন্য কী কল্যাণ প্রস্তুত রাখা হয়েছে? এ ব্যাখ্যার পক্ষে তিনি নিজের সনদে একটি বর্ণনা আনেন, বিশর থেকে ইয়াযীদ, তাঁর থেকে সাঈদ, সেখান থেকে কাতাদা পর্যন্ত। কাতাদা এ আয়াত সম্পর্কে বলেছেন: তাদের জন্য কী আছে, আর তাদের জন্য কী প্রস্তুত রাখা হয়েছে। দুই ভাষ্যেই প্রশ্নটা সামনের দিকে তাকায়। লোকগুলোর চেয়ে বেশি জানতে চায়, তাদের জন্য কী অপেক্ষা করছে।"
+          },
+          {
+            "en": "The word prepared matters. A reward described as prepared is already in place before the people arrive. Qatada's gloss, carried by at-Tabari, turns the question into a pointer: look at what is ready for them. The verses that follow are then less a separate passage than the content of that readiness, listed item by item. This is why several commentators treat 56:27 together with what follows it, as the next sections show.",
+            "bn": "প্রস্তুত শব্দটা গুরুত্বপূর্ণ। যে প্রতিদানকে প্রস্তুত বলা হয়, তা মানুষগুলো পৌঁছানোর আগেই তৈরি থাকে। তাবারীর আনা কাতাদার ব্যাখ্যা প্রশ্নটাকে একটা ইশারায় পরিণত করে: দেখো, তাদের জন্য কী তৈরি আছে। তখন পরের আয়াতগুলো আর আলাদা কোনো অংশ থাকে না, হয়ে ওঠে সেই প্রস্তুতির একেকটি জিনিসের তালিকা। এ কারণেই কয়েকজন তাফসীরকার ৫৬:২৭-কে পরের আয়াতগুলোর সঙ্গে মিলিয়ে পড়েন, পরের অংশগুলোতে তা দেখা যাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said Again to Magnify",
+          "bn": "মহিমা বোঝাতে আবার বলা"
+        },
+        "p": [
+          {
+            "en": "Why say the name again rather than ask, what are they? Al-Qurtubi answers directly: the repetition is to magnify the bliss in which they are. On his reading the weight falls on the na'im, the blessing itself; the name is said twice because what it holds is great. As-Sa'di puts the weight on the people: their affair is great and their state immense. Al-Baghawi uses the language of wonder. Allah mentioned the companions of the right, he says, and expressed wonder at their affair.",
+            "bn": "কী তারা, এটুকু না বলে নামটা আবার কেন বলা হলো? কুরতুবী সরাসরি উত্তর দেন: তারা যে নিয়ামতের মধ্যে আছে, তার মহত্ত্ব বোঝাতেই এই পুনরাবৃত্তি। তাঁর পাঠে ভার পড়ে নাঈম, অর্থাৎ নিয়ামতের উপর। নামটা দুবার আসে, কারণ তার ভেতরে যা আছে তা বিশাল। সা'দী ভার রাখেন মানুষগুলোর উপর: তাদের ব্যাপার মহান, তাদের অবস্থা বিরাট। বাগাভী বিস্ময়ের ভাষা বেছে নেন। তাঁর কথায়, আল্লাহ ডান দিকের দলের কথা বললেন এবং তাদের ব্যাপারে বিস্ময় প্রকাশ করলেন।"
+          },
+          {
+            "en": "The Muyassar turns the question into an exclamation: and the companions of the right, how great is their standing and their recompense! It holds both sides at once, the rank of the people and the size of the reward. Set side by side, the four notes stress different things: al-Qurtubi the bliss, as-Sa'di their condition, al-Baghawi wonder, the Muyassar standing and reward together. None of them argues against another in the text consulted, and the readings sit together without strain.",
+            "bn": "মুয়াসসার প্রশ্নটাকে বিস্ময়সূচক বাক্যে বদলে দেয়: আর ডান দিকের দল, কত মহান তাদের মর্যাদা আর প্রতিদান! এতে দুই দিকই একসঙ্গে ধরা আছে, মানুষগুলোর মর্যাদা আর প্রতিদানের বিশালতা। পাশাপাশি রাখলে চারটি ব্যাখ্যার জোর চার জায়গায়। কুরতুবীর জোর নিয়ামতে, সা'দীর জোর তাদের অবস্থায়, বাগাভীর জোর বিস্ময়ে, আর মুয়াসসারের জোর মর্যাদা ও প্রতিদান দুটোতেই। যে লেখা দেখা হয়েছে, তাতে কেউ কারও বিরোধিতা করেননি। পাঠগুলো স্বচ্ছন্দে পাশাপাশি থাকে।"
+          },
+          {
+            "en": "The two translations on this site divide the same way. The English keeps the question: what are the companions of the right? The Bengali renders it as praise: how fortunate is the group of the right. Neither loses the verse, because the commentators themselves read the question as one that already carries its answer in its tone. A question of this kind is not asked to gather information. It is asked so that the listener stops, waits, and expects something remarkable to follow.",
+            "bn": "এ সাইটের দুই অনুবাদও একইভাবে দুই দিকে যায়। ইংরেজি অনুবাদ প্রশ্নটাই রাখে: ডান দিকের দল কী? বাংলা অনুবাদ একে প্রশংসায় রূপ দেয়: কত ভাগ্যবান ডান দিকের দল! কোনোটাতেই আয়াতের অর্থ হারায় না। কারণ তাফসীরকারেরা নিজেরাই প্রশ্নটাকে এমনভাবে পড়েছেন যে তার সুরেই উত্তর লুকিয়ে আছে। এ ধরনের প্রশ্ন তথ্য জানার জন্য করা হয় না। করা হয় যাতে শ্রোতা থামে, অপেক্ষা করে, আর আশা করে যে অসাধারণ কিছু আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Led Right, Book in Hand",
+          "bn": "ডানে চলা, ডান হাতে আমলনামা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says plainly who is meant. The companions of the right are those who are taken along the right-hand side on the Day of Resurrection, those who were given their books in their right hands. His gloss joins two images in one sentence: a direction of travel and the hand that receives the record. He does not set them against each other; both describe the same people on the same Day. This is his own explanation, given before any report.",
+            "bn": "কাদের কথা বলা হচ্ছে, তাবারী তা সোজাসুজি বলেন। ডান দিকের দল তারা, কিয়ামতের দিন যাদের ডান দিকের পথে নিয়ে যাওয়া হবে, যাদের আমলনামা দেওয়া হয়েছে তাদের ডান হাতে। তাঁর ব্যাখ্যা এক বাক্যে দুটি ছবি জুড়ে দেয়: চলার দিক, আর যে হাতে আমলনামা আসে। দুটিকে তিনি পরস্পরের বিপরীতে দাঁড় করান না। দুটিই একই দিনে একই মানুষদের বর্ণনা। এটা তাঁর নিজের ব্যাখ্যা, কোনো বর্ণনা আনার আগেই দেওয়া।"
+          },
+          {
+            "en": "He then records a second view, introduced with the words it has been said: that they are the children of the believers. He gives it a chain of his own, from Muhammad ibn Ma'mar through Abu Hisham al-Makhzumi, 'Abd al-Wahid, al-A'mash and 'Uthman ibn Qays, to Zadhan Abu 'Amr, who said he heard 'Ali ibn Abi Talib (RA) say of this verse: the companions of the right are the children of the believers. This is a Companion's statement as reported, not a saying of the Prophet ﷺ.",
+            "bn": "এরপর তিনি দ্বিতীয় একটি মত উল্লেখ করেন, 'বলা হয়েছে' কথাটি দিয়ে: তারা হলো মুমিনদের শিশুসন্তান। এর জন্য তিনি নিজের একটি সনদ দেন। মুহাম্মাদ ইবন মা'মার থেকে আবু হিশাম আল-মাখযুমী, আব্দুল ওয়াহিদ, আল-আ'মাশ ও উসমান ইবন কায়স হয়ে যাযান আবু আমর পর্যন্ত। যাযান বলেছেন, তিনি আলী ইবন আবী তালিব (রাঃ)-কে এ আয়াত সম্পর্কে বলতে শুনেছেন: ডান দিকের দল হলো মুমিনদের শিশুসন্তান। এটি একজন সাহাবীর উক্তি, যেমনটা বর্ণিত হয়েছে। নবী ﷺ-এর বাণী নয়।"
+          },
+          {
+            "en": "At-Tabari does not weigh the two views against each other in this note, and he gives no judgement on the chain. The other commentaries consulted for this verse do not mention the children at all: Ibn Kathir calls the group the righteous, Ma'arif al-Qur'an speaks of believers, and the rest speak of their reward. This article keeps both views as at-Tabari records them, his own gloss and the report from 'Ali (RA), and does not choose between them.",
+            "bn": "এই আলোচনায় তাবারী দুই মতের মধ্যে তুলনা করেন না, সনদ নিয়েও কোনো মন্তব্য করেন না। এ আয়াতের জন্য দেখা অন্য তাফসীরগুলো শিশুদের কথা একেবারেই বলে না। ইবন কাসীর দলটিকে বলেন নেককার, মাআরিফুল কুরআন বলে মুমিনদের কথা, আর বাকিরা কথা বলেন তাদের প্রতিদান নিয়ে। তাবারী যেভাবে লিখে রেখেছেন, এ প্রবন্ধ দুটি মতই সেভাবে রাখে: তাঁর নিজের ব্যাখ্যা, আর আলী (রাঃ)-এর বর্ণনা। কোনোটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Room for the Forgiven",
+          "bn": "ক্ষমাপ্রাপ্তদের জন্য জায়গা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, citing the commentary called Mazhari, widens the group. The people of the right, it says, are in the first place the God-fearing and the righteous believers. Sinful believers will also join them: some through the sheer grace of Allah, others forgiven through the intercession of a prophet or a friend of Allah. Some will be punished for their sins first, and after that punishment they too will be purified and will join the people of the right.",
+            "bn": "মাআরিফুল কুরআন তাফসীরে মাযহারীর বরাতে দলটির পরিধি বাড়িয়ে দেখায়। তার কথায়, ডান দিকের দল প্রথমত মুত্তাকী ও নেককার মুমিনরা। গুনাহগার মুমিনরাও তাদের সঙ্গে যুক্ত হবে। কেউ শুধু আল্লাহর অনুগ্রহে, কেউ কোনো নবী বা আল্লাহর কোনো ওলীর সুপারিশে মাফ পেয়ে। কাউকে আগে তার গুনাহের শাস্তি ভোগ করতে হবে। সেই শাস্তির পর তারাও পরিশুদ্ধ হয়ে ডান দিকের দলে মিলিত হবে।"
+          },
+          {
+            "en": "For these believers, Ma'arif al-Qur'an explains, the Fire works as a cleansing of the dross of their sins rather than as the end of their story. This reading belongs to Ma'arif al-Qur'an and its source; the other notes consulted for this verse do not discuss it. What it offers the reader is hope with its conditions intact: the way to the right is open to believers who fell short, and no one is told in advance who they are. It is a reason to repent, not to delay.",
+            "bn": "মাআরিফুল কুরআন ব্যাখ্যা করে, এই মুমিনদের জন্য আগুন তাদের গল্পের শেষ নয়। তা বরং তাদের গুনাহের ময়লা ধুয়ে দেওয়ার উপায়। এ পাঠ মাআরিফুল কুরআন ও তার উৎসের। এ আয়াতের জন্য দেখা অন্য তাফসীরগুলো এ নিয়ে কিছু বলে না। পাঠকের জন্য এতে আছে শর্তসহ আশা। যে মুমিনরা পিছিয়ে পড়েছে, ডান দিকের পথ তাদের জন্যও খোলা, আর কারা তারা, আগে থেকে কাউকে বলা হয়নি। এটা তওবার কারণ, দেরি করার অজুহাত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Answer Opens in Trees",
+          "bn": "উত্তরের শুরু গাছের সারিতে"
+        },
+        "p": [
+          {
+            "en": "The question does not wait long. Ibn Kathir's Arabic note ends on the words: then He explained that, and said. The abridged English is plainer still: Allah next answers this question by saying, among lote trees with thorns removed. The Muyassar shows the same link in its layout. Its gloss for 56:27 to 56:34 is a single sentence: after the exclamation it runs straight on to the list, so that the question and its answer are read in one breath.",
+            "bn": "প্রশ্নটা বেশিক্ষণ অপেক্ষায় থাকে না। ইবন কাসীরের আরবি আলোচনা শেষ হয় এই কথায়: তারপর তিনি তা ব্যাখ্যা করে বললেন। সংক্ষিপ্ত ইংরেজি সংস্করণ আরও সোজা: আল্লাহ এরপর এ প্রশ্নের উত্তর দেন এই বলে, কাঁটা ছাড়ানো বরই গাছের মাঝে। মুয়াসসারের বিন্যাসেও একই যোগসূত্র। ৫৬:২৭ থেকে ৫৬:৩৪ পর্যন্ত তার ব্যাখ্যা একটিমাত্র বাক্য। বিস্ময়ের পরই সে সরাসরি তালিকায় চলে যায়, ফলে প্রশ্ন আর উত্তর এক নিঃশ্বাসে পড়া হয়।"
+          },
+          {
+            "en": "That list, in the Muyassar's words, is lote trees with no thorns, bananas stacked on each other, shade that lasts and does not fade, water flowing without end, abundant fruit that neither runs out nor is withheld, and furnishings raised up on couches. On the first item Ibn Kathir accepts two early meanings together, thornless and laden with fruit, and sets it against the lote tree of this world, thorny and sparse in fruit. The second tree has had its own article at 56:29; the rest await theirs.",
+            "bn": "মুয়াসসারের ভাষায় তালিকাটি এমন: কাঁটাহীন বরই গাছ, থরে থরে সাজানো কলা, স্থায়ী ছায়া যা সরে যায় না, অবিরাম বয়ে চলা পানি, প্রচুর ফল যা ফুরোয় না, কেউ আটকেও রাখে না, আর আসনের উপর উঁচু করে রাখা বিছানা। প্রথম জিনিসটির ব্যাপারে ইবন কাসীর পূর্বসূরিদের দুটি অর্থ একসঙ্গে মেনে নেন: কাঁটাহীন, আর ফলে ভরা। দুনিয়ার বরই গাছ কাঁটায় ভরা, ফল কম, তিনি এর সঙ্গে তুলনা টানেন। দ্বিতীয় গাছটির প্রবন্ধ ৫৬:২৯-এ আছে, বাকিগুলো যার যার জায়গায় আসবে।"
+          },
+          {
+            "en": "The account of this group closes at 56:38 with the words for the companions of the right, and then 56:39 and 56:40: a company of the former peoples and a company of the later. The abridged Ibn Kathir reads these as a multitude of those on the right coming from the earlier generations and a multitude from the later ones. So the question of 56:27 is framed on both sides: asked at the start, and answered by the time the group is named again.",
+            "bn": "এ দলের বর্ণনা শেষ হয় ৫৬:৩৮ আয়াতে, 'ডান দিকের দলের জন্য' কথাটি দিয়ে। তারপর ৫৬:৩৯ ও ৫৬:৪০: পূর্ববর্তীদের মধ্য থেকে এক বড় দল, আর পরবর্তীদের মধ্য থেকে এক বড় দল। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ এর অর্থ করে: ডান দিকের দলের একটি বড় অংশ আসবে আগের প্রজন্মগুলো থেকে, আরেকটি বড় অংশ পরের প্রজন্মগুলো থেকে। এভাবে ৫৬:২৭-এর প্রশ্ন দুই দিক থেকে বাঁধা। শুরুতে প্রশ্ন, আর দলের নাম আবার আসার আগেই উত্তর পূর্ণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Under a Shade Unending",
+          "bn": "যে ছায়া ফুরোয় না"
+        },
+        "p": [
+          {
+            "en": "No commentary consulted for this verse attaches a saying of the Prophet ﷺ to 56:27 itself. The nearest sound narration belongs to the answer. Abu Hurayrah (RA) reported that the Prophet ﷺ said: \"In Paradise there is a tree which is so big that a rider can travel in its shade for one hundred years without passing it; and if you wish, you can recite: 'In shade long extended.'\" Al-Bukhari records it in his Sahih (4881), and the recitation points to 56:30.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর ৫৬:২৭-এর সঙ্গে সরাসরি নবী ﷺ-এর কোনো বাণী যুক্ত করেনি। সবচেয়ে কাছের সহীহ বর্ণনাটি উত্তরের অংশের। আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"জান্নাতে এমন একটি বিশাল গাছ আছে, যার ছায়ায় একজন আরোহী একশো বছর চলেও তা পার হতে পারবে না। চাইলে তোমরা পড়ো: 'আর বিস্তৃত ছায়া।'\" বুখারী এটি তাঁর সহীহ গ্রন্থে এনেছেন (৪৮৮১), আর যে অংশ পড়তে বলা হয়েছে তা ৫৬:৩০।"
+          },
+          {
+            "en": "Ibn Kathir cites the same report under 56:30 and adds that Muslim also collected it. It is quoted here for one reason: it shows the scale of what the question in 56:27 was pointing to. The verse asked, what are the companions of the right? Part of the answer is a shade so wide that a hundred years of riding would not cross it. A question asked in this way is meant to be heard while there is still time to act on it.",
+            "bn": "ইবন কাসীর ৫৬:৩০-এর আলোচনায় একই বর্ণনা এনেছেন এবং বলেছেন, মুসলিমও এটি সংকলন করেছেন। এখানে বর্ণনাটি আনা একটিমাত্র কারণে: ৫৬:২৭-এর প্রশ্ন কোন বিশালতার দিকে ইশারা করছিল, তা বোঝাতে। আয়াত জানতে চেয়েছিল, কী সেই ডান দিকের দল? উত্তরের একটা অংশ এমন এক ছায়া, যা একজন আরোহী একশো বছর চলেও পার হতে পারবে না। এভাবে করা প্রশ্ন শোনানো হয় এমন সময়ে, যখন সে অনুযায়ী আমল করার সুযোগ এখনো আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "56:29": {
     "sections": [
       {

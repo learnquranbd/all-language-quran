@@ -28009,6 +28009,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The foremost are seated on couches woven with gold because they hurried towards good; the way is still open, so hurry today.",
     "lessonBn": "অগ্রবর্তীরা সোনায় বোনা আসনে বসবে, কারণ তারা ভালো কাজে এগিয়ে গিয়েছিল। পথ এখনো খোলা, তাই আজই এগিয়ে যান।"
+  },
+  "56:27": {
+    "reflectionEn": "The account of the foremost has just closed on a single word, peace, peace. Then the verse turns: the companions of the right, and what are the companions of the right? The name is said twice, and the question hangs in the air like a door held open. It is not asking who they are. It asks what awaits them, and the very next verses answer: lote trees stripped of thorns, shade that stretches on, water that keeps pouring, fruit that is never cut off or withheld. A question this generous is meant to make the listener lean forward. Am I living as someone who expects to be asked about? And is my longing for that shade strong enough to move me today?",
+    "reflectionBn": "অগ্রবর্তীদের বর্ণনা এইমাত্র শেষ হলো একটি কথায়: সালাম, সালাম। তারপর আয়াত মোড় নেয়: আর ডান দিকের দল, কী চমৎকার সেই ডান দিকের দল! নামটা দুবার আসে, আর প্রশ্নটা খোলা দরজার মতো ঝুলে থাকে। এখানে জানতে চাওয়া হচ্ছে না তারা কারা। জানতে চাওয়া হচ্ছে তাদের জন্য কী অপেক্ষা করছে। ঠিক পরের আয়াতগুলোই উত্তর দেয়: কাঁটা ছাড়ানো বরই গাছ, দূর পর্যন্ত বিছানো ছায়া, অবিরাম ঝরতে থাকা পানি, এমন ফল যা কখনো ফুরোয় না, কেউ আটকেও রাখে না। এমন উদার প্রশ্ন শ্রোতাকে সামনে ঝুঁকে শুনতে বাধ্য করে। আমি কি এমনভাবে বাঁচছি যেন আমাকে নিয়েও এ প্রশ্ন হতে পারে? আর সেই ছায়ার টান কি আজ আমাকে নড়াতে পারছে?",
+    "pointsEn": [
+      "When I picture the people of the right, do I picture myself among them, and what in my week makes that hope reasonable?",
+      "The question is about their state and their reward; what reward am I actually working towards, and does my day show it?",
+      "The answer comes in trees, shade and water that the first hearers knew; which blessing of this world could I let point my longing to the next?",
+      "The foremost are named first and the right after them; am I content to aim low, or do I still reach for the highest rank?",
+      "Whom have I quietly placed outside this group in my mind, when the verse names no one at all?"
+    ],
+    "pointsBn": [
+      "ডান দিকের দলের কথা ভাবলে আমি কি নিজেকে তাদের মধ্যে কল্পনা করি? আমার এ সপ্তাহের কোন আমল সেই আশাকে যুক্তিসংগত করে?",
+      "প্রশ্নটা তাদের অবস্থা আর প্রতিদান নিয়ে। আমি আসলে কোন প্রতিদানের জন্য খাটছি, আর আমার দিনটা কি তার সাক্ষ্য দেয়?",
+      "উত্তর আসে গাছ, ছায়া আর পানির ছবিতে, যা প্রথম শ্রোতারা চিনত। দুনিয়ার কোন নিয়ামতকে আমি আখিরাতের দিকে আমার টান বাড়াতে দিতে পারি?",
+      "অগ্রবর্তীদের কথা আগে, ডান দিকের দলের কথা পরে। আমি কি নিচু লক্ষ্যেই সন্তুষ্ট, নাকি এখনো সবচেয়ে উঁচু মর্যাদার দিকে হাত বাড়াই?",
+      "আয়াতটি কারও নাম নেয়নি। তবু মনে মনে আমি কাকে এ দলের বাইরে রেখে দিয়েছি?"
+    ],
+    "lessonEn": "The Qur'an asks about the people of the right so that you lean in for the answer; let the promised shade and fruit draw you to deeds while deeds are still possible.",
+    "lessonBn": "কুরআন ডান দিকের দলের কথা প্রশ্ন করে বলে, যাতে আপনি উত্তরের দিকে কান পাতেন। প্রতিশ্রুত ছায়া আর ফলের টান আপনাকে আমলের দিকে নিয়ে যাক, যতক্ষণ আমলের সময় আছে।"
   }
 };
 
