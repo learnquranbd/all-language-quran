@@ -25149,6 +25149,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Knowing that Allah created everything is the start, not the end: let that knowledge turn into praise and thanks given to Him alone.",
     "lessonBn": "আল্লাহই সবকিছু সৃষ্টি করেছেন, এ জ্ঞান শুরু মাত্র, শেষ নয়। এই জ্ঞানকে প্রশংসা আর শুকরিয়ায় পরিণত করুন, যা কেবল তাঁরই প্রাপ্য।"
+  },
+  "32:3": {
+    "reflectionEn": "Two verses in, the surah has already said that this Book comes down from the Lord of the worlds and holds no doubt. Then the old charge breaks in: he made it up. The reply is short. It is the truth from your Lord, sent so that you may warn a people whom no warner had reached before you, and perhaps they will be guided. A slander is not met with a counter-slander but with a purpose: a people left long without a reminder, and a hope held open for them. The charge tried to shut a door; the verse hangs the word perhaps on it. When I hear the truth called an invention, do I answer with heat, or with the reason it came?",
+    "reflectionBn": "সূরার মাত্র দুটি আয়াত পেরিয়েছে। এর মধ্যেই বলা হয়ে গেছে, এ কিতাব বিশ্বজগতের রবের কাছ থেকে নাযিল, এতে কোনো সন্দেহ নেই। ঠিক তখনই পুরোনো অভিযোগটা ঢুকে পড়ে: সে নিজে বানিয়েছে। জবাব খুব ছোট। এ তোমার রবের পক্ষ থেকে সত্য, পাঠানো হয়েছে যেন তুমি এমন এক জাতিকে সতর্ক করো, যাদের কাছে তোমার আগে কোনো সতর্ককারী পৌঁছায়নি, হয়তো তারা পথ পাবে। অপবাদের জবাবে এখানে পাল্টা অপবাদ নেই, আছে একটা উদ্দেশ্য। দীর্ঘদিন উপদেশ না পাওয়া এক জাতি, আর তাদের জন্য খোলা রাখা একটা আশা। অভিযোগটা দরজা বন্ধ করতে চেয়েছিল, আয়াত সেই দরজায় ঝুলিয়ে দিল 'হয়তো' শব্দটি। সত্যকে কেউ বানোয়াট বললে আমি কি রাগ দিয়ে জবাব দিই, নাকি সত্যটা কেন এসেছে সেটা দিয়ে?",
+    "pointsEn": [
+      "When something true unsettles me, do I reach first for 'someone made this up' before I ask whether it is true?",
+      "When my faith is mocked, is my reply shorter and calmer than the mockery, or louder than it?",
+      "Who around me has never had anyone sit with them and speak of Allah gently, and could I be the first?",
+      "Do I read the Qur'an as the truth sent to me from my Lord, or as a text I am still deciding whether to trust?",
+      "The verse ends on 'perhaps they will be guided': do I give up on people sooner than the verse does?"
+    ],
+    "pointsBn": [
+      "কোনো সত্য কথা যখন আমাকে অস্বস্তিতে ফেলে, তখন সেটা সত্য কি না ভাবার আগেই কি আমি বলে ফেলি, 'এটা কারও বানানো'?",
+      "আমার ঈমান নিয়ে কেউ ঠাট্টা করলে আমার জবাব কি ঠাট্টার চেয়ে ছোট আর শান্ত হয়, নাকি তার চেয়েও চড়া?",
+      "আমার আশপাশে কে আছে, যার পাশে কেউ কখনো বসে নরম সুরে আল্লাহর কথা বলেনি? আমি কি সেই প্রথম মানুষটি হতে পারি?",
+      "কুরআনকে কি আমি আমার রবের কাছ থেকে আসা সত্য হিসেবে পড়ি, নাকি এমন এক লেখা হিসেবে, যাকে বিশ্বাস করব কি না এখনো ঠিক করিনি?",
+      "আয়াতের শেষ কথা 'হয়তো তারা পথ পাবে'। মানুষের ব্যাপারে আমি কি আয়াতের আগেই হাল ছেড়ে দিই?"
+    ],
+    "lessonEn": "Answer the charge against the truth with the truth itself and the purpose it came for, and keep hope alive for those no one has yet warned.",
+    "lessonBn": "সত্যের বিরুদ্ধে অভিযোগের জবাব দিন সত্য দিয়েই, আর সে কেন এসেছে তা দিয়ে। যাদের কাছে এখনো কেউ সতর্কবাণী নিয়ে যায়নি, তাদের ব্যাপারে আশা ছাড়বেন না।"
   }
 };
 

@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "32:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Charge Breaks In",
+          "bn": "মাঝপথে ঢুকে পড়া অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "The surah opens with Alif Lam Mim and a plain statement in 32:2: the revelation of the Book, in which there is no doubt, from the Lord of the worlds. The next verse does not carry that statement forward. It turns: am yaquluna iftarahu, or do they say he invented it? Al-Qurtubi calls this the detached am, read as bal together with the question's alif: rather, do they say? It marks, he says, a move from one subject to another. Allah affirmed that the Book is sent down beyond doubt, then turned from that to their saying.",
+            "bn": "সূরার শুরু আলিফ-লাম-মীম দিয়ে, তারপর ৩২:২ আয়াতে একটি সোজা ঘোষণা: এ কিতাব বিশ্বজগতের রবের কাছ থেকে নাযিল, এতে কোনো সন্দেহ নেই। পরের আয়াত সেই ঘোষণাকে সামনে টেনে নিয়ে যায় না, বরং মোড় নেয়: আম ইয়াকূলূনাফতারাহ, নাকি তারা বলে, সে এটা বানিয়েছে? কুরতুবী এই 'আম'-কে বলেন বিচ্ছিন্ন 'আম', যার অর্থ দাঁড়ায় 'বাল' আর প্রশ্নের আলিফ একসঙ্গে: বরং তারা কি বলে? তাঁর মতে এটি এক প্রসঙ্গ থেকে আরেক প্রসঙ্গে যাওয়ার চিহ্ন। আল্লাহ আগে প্রতিষ্ঠা করলেন যে কিতাবটি নিঃসন্দেহে তাঁর নাযিল করা। তারপর সেখান থেকে ফিরলেন তাদের কথার দিকে।"
+          },
+          {
+            "en": "At-Tabari reads the same am as a question that holds them to what they say, and explains the usage: when the Arabs break into a speech, part of which has already gone before, with a question, they ask it with am. He also records that some took am here in the sense of wa, and they say, carrying the force of bal. Al-Baghawi gathers further options. The mim may be a connective, giving a-yaquluna, a question of rebuke; am may stand for wa; or something is left unsaid, as if the full sentence ran: so will they believe, or do they say he invented it?",
+            "bn": "তাবারী একই 'আম'-কে পড়েন এমন প্রশ্ন হিসেবে, যা তাদের নিজেদের কথার মুখোমুখি দাঁড় করায়। ব্যবহারটাও তিনি বুঝিয়ে দেন। আরবরা কোনো কথার মাঝখানে, যার কিছু অংশ আগেই বলা হয়ে গেছে, প্রশ্ন ঢুকিয়ে দিলে সেটা 'আম' দিয়েই করে। তিনি এ-ও উল্লেখ করেন যে কেউ কেউ এখানে 'আম'-কে 'ওয়া' অর্থে নিয়েছেন, অর্থাৎ 'আর তারা বলে', যাতে 'বাল'-এর জোরও আছে। বাগাভী আরও কয়েকটি সম্ভাবনা জড়ো করেন। হয়তো 'মীম' এখানে সংযোজক মাত্র, তখন দাঁড়ায় 'আ-ইয়াকূলূন', ভর্ৎসনার প্রশ্ন। হয়তো 'আম' মানে 'ওয়া'। আবার হয়তো কিছু কথা উহ্য, পুরো বাক্যটা যেন এমন: তারা কি ঈমান আনবে, নাকি বলবে যে সে বানিয়েছে?"
+          },
+          {
+            "en": "For the reader the grammar carries a mood. The charge is not given a verse of its own. It arrives as a question inside a passage about certainty, as though it had cut into a claim it could not answer. The opening letters and the statement of 32:2 are the setting here, not the subject. The subject of this verse is the accusation and, much more, what Allah says in reply to it.",
+            "bn": "পাঠকের জন্য এই ব্যাকরণের ভেতরে একটা সুরও আছে। অভিযোগটি নিজের জন্য আলাদা আয়াত পায়নি। নিশ্চয়তার কথা চলার মাঝখানে সে আসে একটা প্রশ্ন হয়ে, যেন এমন এক দাবির ভেতরে ঢুকে পড়েছে, যার জবাব তার কাছে নেই। শুরুর হরফগুলো আর ৩২:২ আয়াতের ঘোষণা এখানে পটভূমি, মূল বিষয় নয়। এ আয়াতের বিষয় অভিযোগটি, আর তার চেয়েও বেশি, সেই অভিযোগের জবাবে আল্লাহ যা বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Of His Own Making",
+          "bn": "নিজের মন থেকে বানানো"
+        },
+        "p": [
+          {
+            "en": "Iftarahu: he invented it. Ibn Kathir glosses the word as ikhtalaqahu min tilqa'i nafsih, he fabricated it of his own accord. Al-Qurtubi gives two verbs, he contrived it and he fabricated it. At-Tabari puts the charge in the mouths of those who associate partners with Allah: Muhammad fabricated this Book from himself, and they deny him. Tanwir al-Miqbas, the commentary attributed to Ibn 'Abbas, names the speakers as the disbelievers of Makkah. The charge is about where the words came from: a man, they say, and not his Lord.",
+            "bn": "ইফতারাহু: সে এটা বানিয়েছে। ইবন কাসীর শব্দটির ব্যাখ্যা দেন 'ইখতালাকাহু মিন তিলকায়ি নাফসিহ', অর্থাৎ নিজের পক্ষ থেকে গড়ে নিয়েছে। কুরতুবী দুটি ক্রিয়া ব্যবহার করেন: সে এটা ফেঁদেছে, সে এটা গড়েছে। তাবারী অভিযোগটি তুলে দেন আল্লাহর সঙ্গে শরিককারীদের মুখে: মুহাম্মাদ এই কিতাব নিজের কাছ থেকে বানিয়েছে। এভাবে তারা তাঁকে মিথ্যাবাদী বলে। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস বক্তাদের চিহ্নিত করে মক্কার কাফির হিসেবে। তাই অভিযোগের আসল কথা হলো উৎস: তাদের দাবি, এ কথা এসেছে এক মানুষের কাছ থেকে, তাঁর রবের কাছ থেকে নয়।"
+          },
+          {
+            "en": "As-Sa'di weighs what that one word contains. He calls it among the greatest acts of daring, and counts three things inside it: it denies that the speech is Allah's, it throws at Muhammad ﷺ the gravest kind of lie, and it claims that created beings could produce speech like the speech of the Creator. Each of these, he says, is an enormity in itself. Read this way, the accusation is a bundle of claims, and the rest of the verse answers it at the root.",
+            "bn": "সা'দী মেপে দেখেন, এই একটা শব্দের ভেতরে কী কী আছে। তাঁর মতে এটা সবচেয়ে বড় দুঃসাহসগুলোর একটি, আর এর ভেতরে তিনি তিনটি জিনিস গোনেন। এক, আল্লাহর কালামকে অস্বীকার করা। দুই, মুহাম্মাদ ﷺ-এর উপর সবচেয়ে জঘন্য মিথ্যার অপবাদ দেওয়া। তিন, এই দাবি করা যে সৃষ্টি স্রষ্টার কালামের মতো কালাম বানাতে পারে। তিনি বলেন, এর প্রতিটি আলাদাভাবেই গুরুতর ব্যাপার। এভাবে দেখলে অভিযোগটা কয়েকটা দাবির এক পুঁটলি। আয়াতের বাকি অংশ সেই পুঁটলির জবাব দেয় একেবারে গোড়া থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rather, It Is the Truth",
+          "bn": "বরং এটাই সত্য"
+        },
+        "p": [
+          {
+            "en": "Bal huwa al-haqqu min rabbik: rather, it is the truth from your Lord. Al-Qurtubi says only that here Allah gave them the lie in their claim of fabrication. At-Tabari spells it out in Allah's voice: it is not as you claim, that Muhammad fabricated it; rather it is the truth and the true word from your Lord, O Muhammad, which He sent down to you. The Muyassar adds an adjective, al-haqq al-thabit, the truth that stands firm, sent down to you, O Messenger. Tanwir al-Miqbas adds that Jibril brought it down to him.",
+            "bn": "বাল হুওয়াল হাক্কু মির রাব্বিক: বরং এটা তোমার রবের পক্ষ থেকে সত্য। কুরতুবী শুধু এটুকু বলেন যে এখানে আল্লাহ বানানোর দাবিতে তাদের মিথ্যাবাদী সাব্যস্ত করেছেন। তাবারী কথাটা খুলে বলেন আল্লাহর ভাষায়: তোমরা যেমন দাবি করছ যে মুহাম্মাদ এটা বানিয়েছে, ব্যাপারটা তেমন নয়। বরং হে মুহাম্মাদ, এ তোমার রবের কাছ থেকে আসা সত্য ও সত্যবাণী, যা তিনি তোমার কাছে নাযিল করেছেন। মুয়াসসার একটি বিশেষণ যোগ করে: আল-হাক্কুস সাবিত, এমন সত্য যা অটল, হে রাসূল, তোমার কাছে নাযিল করা। তানবীরুল মিকবাস যোগ করে, জিবরীল তা তাঁর কাছে নিয়ে এসেছেন।"
+          },
+          {
+            "en": "As-Sa'di ties the word al-haqq to the description in 41:42: the truth that falsehood cannot approach from before it or from behind it, a revelation from One Wise and Praiseworthy. On min rabbik he adds that Allah sent it down as a mercy to His servants. Later he gathers the threads of the opening verses into one argument. It is from the Lord of the worlds; it is the truth, and the truth is to be accepted in every case; and there is no ground for doubt in it at all, neither a report that fails to match reality nor a meaning left obscure.",
+            "bn": "সা'দী 'আল-হাক্ক' শব্দটিকে মিলিয়ে দেন ৪১:৪২ আয়াতের বর্ণনার সঙ্গে: এমন সত্য, যার কাছে মিথ্যা আসতে পারে না সামনে থেকেও না, পেছন থেকেও না, প্রজ্ঞাময় ও প্রশংসিত সত্তার কাছ থেকে নাযিল। 'মির রাব্বিক' প্রসঙ্গে তিনি যোগ করেন, আল্লাহ এটা নাযিল করেছেন বান্দাদের প্রতি রহমত হিসেবে। পরে তিনি শুরুর আয়াতগুলোর সুতো একসঙ্গে বেঁধে একটি যুক্তি দাঁড় করান। এ কিতাব বিশ্বজগতের রবের কাছ থেকে। এটা সত্য, আর সত্য সব অবস্থাতেই গ্রহণযোগ্য। এতে সন্দেহের কোনো জায়গা নেই: এমন কোনো খবর নেই যা বাস্তবের সঙ্গে মেলে না, এমন কোনো অর্থও নেই যা অস্পষ্ট থেকে গেছে।"
+          },
+          {
+            "en": "Abul A'la Maududi, in Tafhim al-Qur'an, asks why the reply is so brief. In his reading the listeners knew the man who brought the Qur'an, the setting he brought it in and the effect it was having in Makkah, so to state its truth plainly was enough. Argument, he says, would have weakened the reply rather than strengthened it. His comparison is a bright day: if a stubborn person calls it night, you answer by pointing at the daylight, and any proof added after that weakens the answer.",
+            "bn": "আবুল আ'লা মওদূদী তাঁর তাফহীমুল কুরআনে প্রশ্ন তোলেন, জবাবটা এত ছোট কেন? তাঁর পাঠে, শ্রোতারা জানত কুরআন কে নিয়ে এসেছেন, কোন পরিবেশে এনেছেন, আর মক্কার সমাজে এর কী প্রভাব পড়ছে। তাই এর সত্যতা সোজাসুজি বলে দেওয়াই যথেষ্ট ছিল। তাঁর মতে এখানে যুক্তির পর যুক্তি সাজালে জবাব শক্ত না হয়ে বরং দুর্বল হতো। তিনি তুলনা দেন ঝলমলে দিনের সঙ্গে। কোনো একগুঁয়ে লোক সেটাকে রাত বললে আপনি শুধু রোদের দিকে আঙুল তোলেন। এরপর যত প্রমাণ জুড়বেন, জবাব ততই দুর্বল দেখাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Pause Falls",
+          "bn": "থামার জায়গা কোথায়"
+        },
+        "p": [
+          {
+            "en": "Li-tundhira: so that you may warn. Al-Qurtubi notes two ways to hang this clause. If it attaches directly to the words before it, the reciter does not pause at min rabbik. If it attaches to a verb left unsaid, anzalahu li-tundhira, He sent it down so that you may warn, then a pause there is allowed. At-Tabari's paraphrase already supplies that verb: He sent it down to you so that you may warn. The Jalalayn adds a single word, warn thereby, which makes the Qur'an itself the means of the warning.",
+            "bn": "লিতুনযিরা: যাতে তুমি সতর্ক করো। কুরতুবী দেখান, এই অংশটিকে আগের কথার সঙ্গে দুইভাবে জোড়া যায়। যদি এটা সরাসরি আগের শব্দগুলোর সঙ্গে যুক্ত হয়, তবে তিলাওয়াতকারী 'মির রাব্বিক'-এ থামবেন না। আর যদি এটা যুক্ত হয় এক উহ্য ক্রিয়ার সঙ্গে, 'আনযালাহু লিতুনযিরা', অর্থাৎ তিনি এটা নাযিল করেছেন যাতে তুমি সতর্ক করো, তবে সেখানে থামা চলে। তাবারীর ব্যাখ্যায় সেই ক্রিয়াটি আগে থেকেই আছে: তিনি এটা তোমার কাছে নাযিল করেছেন, যাতে তুমি সতর্ক করো। জালালাইন শুধু একটি শব্দ যোগ করে, 'এর দ্বারা' সতর্ক করো। এতে কুরআন নিজেই হয়ে ওঠে সতর্ক করার মাধ্যম।"
+          },
+          {
+            "en": "At-Tabari also names the content of the warning: to warn a people of Allah's might and His assault, lest it come down on them for their disbelief in Him. Al-Qurtubi defines the nadhir as al-mu'allim al-mukhawwif, the one who makes known and makes afraid. He parses the clause closely too: ma is a negation, the min before nadhir is a connective particle, and nadhir stands as the subject. A warner in this sense brings knowledge as well as alarm, and the verse sets the Prophet ﷺ in that role towards a particular people.",
+            "bn": "সতর্কবাণীর বিষয়বস্তুও তাবারী বলে দেন: এক জাতিকে আল্লাহর শাস্তি ও তাঁর পাকড়াও সম্পর্কে সতর্ক করা, যাতে কুফরির কারণে তা তাদের উপর নেমে না আসে। কুরতুবী 'নাযীর'-এর সংজ্ঞা দেন 'আল-মু'আল্লিমুল মুখাওয়িফ', অর্থাৎ যে জানিয়ে দেয় এবং ভয় দেখায়। বাক্যটির খুঁটিনাটিও তিনি বিশ্লেষণ করেন: 'মা' এখানে না-বাচক, 'নাযীর'-এর আগের 'মিন' একটি সংযোজক অব্যয়, আর 'নাযীর' বাক্যের কর্তা। এই অর্থে সতর্ককারী শুধু ভয় দেখান না, জ্ঞানও পৌঁছে দেন। আয়াতটি নবী ﷺ-কে একটি নির্দিষ্ট জাতির প্রতি ঠিক এই ভূমিকায় দাঁড় করায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Nation, or an Interval",
+          "bn": "এক জাতি, নাকি এক বিরতিকাল"
+        },
+        "p": [
+          {
+            "en": "Who is the people in question? At-Tabari answers directly: those to whom your Lord sent you, O Muhammad, and they are his own people, Quraysh; no warner had come to them before you. Tanwir al-Miqbas also names Quraysh. At-Tabari then cites Qatada through his chain: they were an unlettered nation, umma ummiyya, and no warner came to them before Muhammad ﷺ. Al-Qurtubi and al-Baghawi both relay the same words from Qatada, and al-Qurtubi adds that he means Quraysh. At-Tabari closes by saying that the people of interpretation held the same view.",
+            "bn": "কোন জাতির কথা বলা হচ্ছে? তাবারীর জবাব সরাসরি: হে মুহাম্মাদ, যাদের কাছে তোমার রব তোমাকে পাঠিয়েছেন। তারা তাঁর নিজের জাতি, কুরাইশ। তোমার আগে তাদের কাছে কোনো সতর্ককারী আসেনি। তানবীরুল মিকবাসও কুরাইশের নাম নেয়। এরপর তাবারী নিজের সনদে কাতাদা থেকে বর্ণনা আনেন: তারা ছিল এক নিরক্ষর জাতি, উম্মাহ উম্মিয়্যাহ। মুহাম্মাদ ﷺ-এর আগে তাদের কাছে কোনো সতর্ককারী আসেনি। কুরতুবী ও বাগাভী দুজনেই কাতাদার এই কথা উদ্ধৃত করেন, আর কুরতুবী যোগ করেন, তিনি কুরাইশকেই বুঝিয়েছেন। তাবারী শেষে বলেন, তাফসীরবিদরাও এই মতই দিয়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi also report a second identification, from Ibn 'Abbas and Muqatil: the verse concerns the fatra, the interval between 'Isa and Muhammad, peace be upon them both, and the people who lived in it. Al-Qurtubi then adds a third view: Allah's proof was already established against them through the warning of the messengers who came earlier, even though they had not seen a messenger themselves. He notes that he has discussed this meaning before, and he sets the three views side by side without ranking them.",
+            "bn": "কুরতুবী ও বাগাভী আরেকটি ব্যাখ্যাও উল্লেখ করেন, ইবন আব্বাস ও মুকাতিল থেকে: আয়াতটি ফাতরা নিয়ে, অর্থাৎ ঈসা (আঃ) ও মুহাম্মাদ ﷺ-এর মধ্যবর্তী বিরতিকাল, আর সে সময়ের মানুষদের নিয়ে। কুরতুবী এরপর তৃতীয় একটি মত আনেন। আগের রাসূলদের সতর্কবাণীর মাধ্যমেই তাদের বিরুদ্ধে আল্লাহর প্রমাণ প্রতিষ্ঠিত হয়ে গিয়েছিল, যদিও তারা নিজের চোখে কোনো রাসূল দেখেনি। তিনি জানান, এই অর্থ নিয়ে আগেও আলোচনা করেছেন। তিনটি মত তিনি পাশাপাশি রাখেন, কোনোটিকে অন্যটির উপরে তোলেন না।"
+          },
+          {
+            "en": "The views are not quite the same claim. Qatada's frames the matter by the people: an unlettered nation to whom no warner had come. Ibn 'Abbas's and Muqatil's frames it by time: the interval after 'Isa, before the last Messenger was sent. The third view speaks to a different question, whether such a people stood under any proof at all, and answers that they did. Each raises the question the next section takes up.",
+            "bn": "মতগুলো হুবহু এক দাবি নয়। কাতাদা বিষয়টা দেখেন জাতির দিক থেকে: এক নিরক্ষর জাতি, যাদের কাছে কোনো সতর্ককারী আসেনি। ইবন আব্বাস ও মুকাতিল দেখেন সময়ের দিক থেকে: ঈসা (আঃ)-এর পরের সেই বিরতিকাল, শেষ রাসূল আসার আগ পর্যন্ত। তৃতীয় মতটি আসলে ভিন্ন এক প্রশ্নের জবাব দেয়: এমন জাতির উপর আদৌ কোনো প্রমাণ ছিল কি না। এর উত্তর, ছিল। প্রতিটি মতই এমন এক প্রশ্ন তোলে, যা পরের অংশের বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then What of Hud and Salih?",
+          "bn": "তবে হূদ ও সালিহের কী হবে?"
+        },
+        "p": [
+          {
+            "en": "The Qur'an itself tells of messengers sent long before: to 'Ad their brother Hud (7:65), to Thamud their brother Salih (7:73), to Madyan Shu'ayb (7:85). It shows Ibrahim raising the foundations of the House with Isma'il (2:127). And 35:24 says there was no nation but that a warner had passed among it. How, then, can this verse say that no warner came to them before you? The commentaries read here give two answers.",
+            "bn": "কুরআন নিজেই জানায়, বহু আগে বিভিন্ন জাতির কাছে রাসূল এসেছিলেন। আদ জাতির কাছে তাদের ভাই হূদ (আঃ) (৭:৬৫), সামূদের কাছে তাদের ভাই সালিহ (আঃ) (৭:৭৩), মাদইয়ানের কাছে শু'আইব (আঃ) (৭:৮৫)। কুরআন দেখায়, ইবরাহীম (আঃ) ইসমাঈল (আঃ)-কে সঙ্গে নিয়ে কা'বার ভিত তুলছেন (২:১২৭)। আবার ৩৫:২৪ আয়াত বলে, এমন কোনো জাতি নেই যাদের মধ্যে কোনো সতর্ককারী আসেননি। তাহলে এ আয়াত কীভাবে বলে, তোমার আগে তাদের কাছে কোনো সতর্ককারী আসেনি? এখানে যেসব তাফসীর দেখা হয়েছে, সেগুলো দুইভাবে এর জবাব দেয়।"
+          },
+          {
+            "en": "Maududi answers by time. In his account the light of faith in Arabia was first spread by Hud and Salih, then by Ibrahim and Isma'il, and the last prophet raised in Arabia before the Prophet ﷺ was Shu'ayb, a very long time earlier. So no warner had come does not mean that none had ever come; it means the people had long stood in need of one. As-Sa'di's gloss runs close: they were in a state of urgent need for a messenger and a Book, because the warner was absent.",
+            "bn": "মওদূদী জবাব দেন সময় দিয়ে। তাঁর বর্ণনায় আরবে ঈমানের আলো প্রথম ছড়ান হূদ ও সালিহ (আঃ), তারপর ইবরাহীম ও ইসমাঈল (আঃ)। আর নবী ﷺ-এর আগে আরবে সর্বশেষ যে নবী এসেছিলেন, তিনি শু'আইব (আঃ), সে-ও বহু বহু আগের কথা। তাই 'কোনো সতর্ককারী আসেনি' মানে কখনো কেউ আসেনি, তা নয়। এর মানে, দীর্ঘকাল ধরে এ জাতির একজন সতর্ককারীর প্রয়োজন ছিল। সা'দীর ব্যাখ্যাও এর কাছাকাছি। তাঁর মতে তারা ছিল রাসূল পাঠানো ও কিতাব নাযিলের তীব্র প্রয়োজনের অবস্থায়, কারণ তাদের মধ্যে কোনো সতর্ককারী ছিলেন না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an answers by the word. Here nadhir means a messenger in the technical sense: no messenger had appeared among Quraysh before the Prophet ﷺ. In 35:24 the word carries its general sense, anyone who calls people to Allah, a prophet, a deputy, or a scholar of the religion. It cites Abu Hayyan that the call to tawhid never ceased anywhere, so it could have reached the Arabs through the learned, without a prophet in person. Maududi measures the silence in centuries; Ma'arif narrows the word.",
+            "bn": "মাআরিফুল কুরআন জবাব দেয় শব্দ দিয়ে। এখানে 'নাযীর' মানে পারিভাষিক অর্থে রাসূল। অর্থাৎ নবী ﷺ-এর আগে কুরাইশের মধ্যে কোনো রাসূল আবির্ভূত হননি। ৩৫:২৪ আয়াতে শব্দটি তার সাধারণ আভিধানিক অর্থে এসেছে: যে-ই মানুষকে আল্লাহর দিকে ডাকে, নবী হোন, তাঁদের প্রতিনিধি হোন, বা দ্বীনের আলেম। মাআরিফ আবূ হাইয়ানের উদ্ধৃতি দেয় যে তাওহীদের দাওয়াত কোনো কালে, কোনো জায়গায় থেমে থাকেনি। তাই নবী নিজে না এলেও আলেমদের মাধ্যমে সে ডাক আরবদের কাছে পৌঁছে থাকতে পারে। মওদূদী নীরবতাকে মাপেন শতাব্দী দিয়ে, মাআরিফ শব্দটির পরিধি ছোট করে আনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keepers of Ibrahim's Way",
+          "bn": "ইবরাহীমের পথ যাঁরা আঁকড়ে ছিলেন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an brings evidence for its reading. Before the mission, it says, some people held firmly to the religion of Ibrahim and Isma'il, believed in Allah's oneness and shunned the worship of idols. It names Zayd ibn 'Amr ibn Nufayl, who died before the Prophet ﷺ was sent, and Waraqa ibn Nawfal, who lived into its first days. Its conclusion: the people of Arabia were not wholly cut off from the call to faith, yet no prophet as such had appeared among them.",
+            "bn": "মাআরিফুল কুরআন নিজের পাঠের পক্ষে প্রমাণ আনে। তার ভাষ্যে, নবুওয়াতের আগেও কিছু মানুষ ইবরাহীম ও ইসমাঈল (আঃ)-এর দ্বীন শক্ত করে ধরে রেখেছিলেন। তাঁরা আল্লাহর একত্বে বিশ্বাস করতেন, মূর্তিপূজা থেকে দূরে থাকতেন। মাআরিফ নাম নেয় যায়দ ইবন আমর ইবন নুফাইলের, যিনি নবী ﷺ প্রেরিত হওয়ার আগেই মারা যান। আরও নাম নেয় ওয়ারাকা ইবন নাওফালের, যিনি নবুওয়াতের একেবারে প্রথম দিনগুলো পর্যন্ত বেঁচে ছিলেন। তার সিদ্ধান্ত: আরবের মানুষ ঈমানের ডাক থেকে পুরোপুরি বিচ্ছিন্ন ছিল না, তবে নবী বলতে যা বোঝায়, তেমন কেউ তাদের মধ্যে আসেননি।"
+          },
+          {
+            "en": "Al-Bukhari's Sahih carries a report from 'Abdullah ibn 'Umar (RA) about Zayd, though it is not attached to this verse. Zayd used to fault Quraysh for their slaughtering and would say: \"Allah has created the sheep and He has sent the water for it from the sky, and He has grown the grass for it from the earth; yet you slaughter it in other than the Name of Allah.\" None of the tafsirs fetched for 32:3 attaches a sound hadith to the verse itself.",
+            "bn": "সহীহ বুখারীতে আবদুল্লাহ ইবন উমর (রাঃ) থেকে যায়দ সম্পর্কে একটি বর্ণনা আছে, যদিও তা এ আয়াতের সঙ্গে যুক্ত নয়। যায়দ কুরাইশের পশু যবেহের রীতির নিন্দা করতেন আর বলতেন: \"ছাগল আল্লাহ সৃষ্টি করেছেন, আকাশ থেকে তার জন্য পানি নামিয়েছেন, মাটি থেকে তার জন্য ঘাস জন্মিয়েছেন। তারপর তোমরা আল্লাহর নাম ছাড়া অন্য কিছুর নামে তাকে যবেহ করো।\" ৩২:৩ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left Open With Perhaps",
+          "bn": "'হয়তো' দিয়ে খোলা দরজা"
+        },
+        "p": [
+          {
+            "en": "La'allahum yahtadun: perhaps they will be guided. Ibn Kathir glosses it as: that they may follow the truth. At-Tabari: that the path of truth may become clear to them, so that they know it and believe in it. As-Sa'di: guided out of their straying, so that they know the truth and prefer it. The Muyassar adds the last step: and believe in you. At-Tabari has already named the people to be warned as Quraysh, the same people who were saying he invented it. The verse that opened on their charge closes on hope for them.",
+            "bn": "লা'আল্লাহুম ইয়াহতাদূন: হয়তো তারা পথ পাবে। ইবন কাসীর এর ব্যাখ্যা দেন: যাতে তারা সত্যের অনুসরণ করে। তাবারীর ব্যাখ্যা: যাতে সত্যের পথ তাদের কাছে স্পষ্ট হয়, তারা তা চিনে নেয় এবং তাতে ঈমান আনে। সা'দীর ব্যাখ্যা: পথভ্রষ্টতা থেকে বেরিয়ে আসে, সত্যকে চেনে এবং তাকেই বেছে নেয়। মুয়াসসার শেষ ধাপটা যোগ করে: আর তোমার উপর ঈমান আনে। তাবারী আগেই বলে দিয়েছেন, যাদের সতর্ক করার কথা তারা কুরাইশ, অর্থাৎ ঠিক তারাই, যারা বলছিল সে এটা বানিয়েছে। যে আয়াত শুরু হয়েছিল তাদের অভিযোগ দিয়ে, তা শেষ হয় তাদেরই জন্য আশার কথায়।"
+          },
+          {
+            "en": "This needs saying plainly. The verse reports what the idolaters of Makkah said in their day, and answers them. It licenses nothing against any living person or community: not contempt for someone who doubts the Qur'an today, and not the name of these accusers for anyone. What it hands the reader is the shape of an answer. State the truth plainly, name the purpose it came for, and leave the door open with perhaps, as the verse itself does for the very people who made the charge.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি মক্কার মুশরিকরা তাদের সময়ে যা বলেছিল, তা উল্লেখ করে তার জবাব দেয়। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটা কোনো অনুমতি দেয় না। আজ কেউ কুরআন নিয়ে সন্দেহ করলে তাকে তুচ্ছ করার অনুমতিও নেই, কাউকে এই অভিযোগকারীদের নামে ডাকার অনুমতিও নেই। পাঠকের হাতে আয়াতটি তুলে দেয় জবাবের একটা ধরন। সত্যটা সোজা ভাষায় বলুন, সেটা কেন এসেছে তা বলুন, আর 'হয়তো' বলে দরজা খোলা রাখুন। আয়াত নিজেও ঠিক এটাই করেছে, সেই মানুষদের জন্যই, যারা অভিযোগটা তুলেছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "32:4": {
     "sections": [
       {
