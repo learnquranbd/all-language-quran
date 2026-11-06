@@ -307,6 +307,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "76:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Blaze to the Cup",
+          "bn": "আগুনের পরেই পেয়ালা"
+        },
+        "p": [
+          {
+            "en": "Inna al-abrara yashrabuna min ka'sin kana mizajuha kafura: indeed the righteous will drink from a cup whose mixture is kafur. The verse stands directly after 76:4, where Allah says He has prepared chains, shackles and a blaze for the disbelievers. Ibn Kathir marks the hinge in a single clause: having mentioned the blaze He prepared for those wretched ones, He then said this. 76:3 had already named the two outcomes, grateful or ungrateful. Count the verses that follow: one for the first end, and from here to 76:22 for the second.",
+            "bn": "ইন্নাল আবরারা ইয়াশরাবূনা মিন কা'সিন কানা মিযাজুহা কাফূরা: নিশ্চয়ই নেককারেরা এমন পেয়ালা থেকে পান করবে, যার মিশ্রণ কাফূর। আয়াতটি এসেছে ঠিক ৭৬:৪-এর পরে। সেখানে আল্লাহ বলছেন, কাফিরদের জন্য তিনি শেকল, বেড়ি আর জ্বলন্ত আগুন প্রস্তুত রেখেছেন। ইবন কাসীর এক বাক্যে মোড়টা দেখিয়ে দেন: ওই হতভাগাদের জন্য প্রস্তুত আগুনের কথা বলার পর তিনি এ কথা বললেন। ৭৬:৩ আগেই দুই পরিণতির নাম বলে দিয়েছে: কৃতজ্ঞ, নয়তো অকৃতজ্ঞ। এবার আয়াত গুনে দেখুন। প্রথম পরিণতির জন্য একটি আয়াত, আর দ্বিতীয়টির জন্য এখান থেকে ৭৬:২২ পর্যন্ত।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the order the same way: after the punishment of the disbelievers come great bounties for the believers and the righteous, and among them drinks are mentioned first. The Muyassar gives the plain sense: the people of obedience and sincerity, who render Allah His due, will drink on the Day of Resurrection from a cup of wine mixed with the finest of fragrances, the water of kafur. 76:4 states what awaits those who reject; it names no living person and licenses nothing against anyone.",
+            "bn": "মাআরিফুল কুরআনও ক্রমটা এভাবেই পড়ে। কাফিরদের শাস্তির পর আসে মুমিন ও নেককারদের জন্য বিশাল নিয়ামতের কথা, আর তার মধ্যে প্রথমে পানীয়। মুয়াসসার সোজা অর্থটা দেয়: আনুগত্য ও ইখলাসের লোকেরা, যারা আল্লাহর হক আদায় করে, কিয়ামতের দিন এমন পেয়ালা থেকে পান করবে, যাতে আছে শ্রেষ্ঠ সুগন্ধে মেশানো শরাব, আর সেই সুগন্ধ কাফূরের পানি। ৭৬:৪ জানায় অস্বীকারকারীদের জন্য কী অপেক্ষা করছে। কোনো জীবিত মানুষের নাম সেখানে নেই, কারও বিরুদ্ধে কিছু করার অনুমতিও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Abrar, Defined by Obedience",
+          "bn": "আবরার: আনুগত্যে যাদের পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Who are al-abrar? At-Tabari answers with deeds: those who were dutiful through obeying their Lord, in performing what He made obligatory and avoiding disobedience to Him. Al-Baghawi says they are the believers truthful in their faith and obedient to their Lord. He also gives the grammar. The singular may be baarr, on the pattern of shahid and ashhad or nasir and ansar, or barr, on the pattern of nahr and anhar. Either way the word names a settled quality.",
+            "bn": "আবরার কারা? তাবারী উত্তর দেন আমল দিয়ে: যারা রবের আনুগত্যের মাধ্যমে সদাচারী হয়েছে, তাঁর ফরজগুলো আদায় করেছে আর তাঁর নাফরমানি থেকে দূরে থেকেছে। বাগাভী বলেন, তারা সেই মুমিনেরা, যারা ঈমানে সত্যবাদী আর রবের অনুগত। ব্যাকরণটাও তিনি জানান। একবচন হতে পারে আলিফসহ 'বার্‌র', যেমন শাহিদ থেকে আশহাদ বা নাসির থেকে আনসার। আবার হতে পারে আলিফ ছাড়া 'বার্‌র', যেমন নাহর থেকে আনহার। যে রূপেই হোক, শব্দটা এক স্থায়ী গুণের নাম।"
+          },
+          {
+            "en": "Al-Qurtubi opens with a short definition: the abrar are the people of truthfulness, and the barr is the one who carries out Allah's command. He adds, as something said, that the barr is the one who affirms Allah's oneness. Then he quotes al-Jawhari's Sihah: one says that a man yabirru his Creator, meaning he obeys Him, and that a mother is barra to her child. One root holds both duty to the Creator and a mother's tenderness.",
+            "bn": "কুরতুবী শুরু করেন ছোট্ট এক সংজ্ঞা দিয়ে: আবরার হলো সত্যবাদীরা, আর বার্‌র সেই ব্যক্তি, যে আল্লাহর হুকুম পালন করে। তিনি 'বলা হয়' বলে আরেকটি মতও আনেন: বার্‌র মানে তাওহীদে বিশ্বাসী। তারপর জাওহারীর সিহাহ থেকে উদ্ধৃত করেন। আরবরা বলে, অমুক তার স্রষ্টার প্রতি 'ইয়াবিররু', মানে সে তাঁর আনুগত্য করে। আবার বলে, মা তার সন্তানের প্রতি 'বার্‌রা', মানে স্নেহময়ী। একই ধাতুতে ধরা আছে স্রষ্টার প্রতি দায়িত্ব আর মায়ের মমতা।"
+          },
+          {
+            "en": "Qatadah, in al-Qurtubi's record, ties the name to what comes next: the abrar are those who render Allah His due and fulfil the vow. That second phrase is the wording of 76:7, which begins the surah's account of what these people did. Those deeds have their own verses and are not retold here; this one gives them only a name and a drink.",
+            "bn": "কুরতুবীর বর্ণনায় কাতাদা সামনের কথার সঙ্গে এর যোগ দেখিয়ে দেন: আবরার তারা, যারা আল্লাহর হক আদায় করে আর মানত পূর্ণ করে। শেষ অংশটা হুবহু ৭৬:৭-এর ভাষা। সেখান থেকেই সূরা শুরু করে এই মানুষগুলোর কাজের বিবরণ। সেসব আমলের জন্য আলাদা আয়াত আছে, এখানে তার পুনরাবৃত্তি নেই। এ আয়াত তাদের দেয় শুধু একটা নাম আর একটা পানীয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Even an Ant Harmed",
+          "bn": "একটা পিঁপড়াও কষ্ট পায় না"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di describes al-abrar from the inside out. They are those whose hearts became barr through what filled them: love of Allah, knowledge of Him, and beautiful character. Because the hearts were so, the limbs became so as well, and they put them to work in deeds of birr. In his definition goodness is first a condition of the heart, and the visible acts are what that condition produces.",
+            "bn": "সা'দী আবরারের বর্ণনা দেন ভেতর থেকে বাইরের দিকে। তারা সেই মানুষ, যাদের অন্তর নেককার হয়েছে ভেতরে যা ছিল তার কারণে: আল্লাহর ভালোবাসা, তাঁর পরিচয়, আর সুন্দর চরিত্র। অন্তর এমন হওয়ায় অঙ্গপ্রত্যঙ্গও নেককার হয়েছে, আর তারা সেগুলোকে খাটিয়েছে নেক আমলে। তাঁর সংজ্ঞায় ভালো হওয়া আগে অন্তরের অবস্থা। চোখে পড়া আমলগুলো সেই অবস্থারই ফল।"
+          },
+          {
+            "en": "Al-Qurtubi gathers sayings that push the word outward. Al-Hasan said: the barr is the one who does not harm even the dharr, the smallest ants. Al-Qurtubi also relays two reports ascribed to the Prophet ﷺ on why they are called abrar, one of them through Ibn 'Umar (RA). He names no collector and no chain for either report, so their wording is not quoted, and this page sets them aside and keeps al-Hasan's line as al-Hasan's own.",
+            "bn": "কুরতুবী এমন কিছু উক্তি জড়ো করেন, যা শব্দটাকে বাইরের দিকে ছড়িয়ে দেয়। হাসান বলেছেন: বার্‌র সেই ব্যক্তি, যে ক্ষুদ্রতম পিঁপড়াকেও কষ্ট দেয় না। কেন তাদের আবরার বলা হয়, সে বিষয়ে কুরতুবী নবী ﷺ-এর নামে দুটি বর্ণনাও আনেন, তার একটি ইবন উমর (রাঃ) থেকে। দুটো বর্ণনার কোনোটির সংগ্রাহক বা সনদ তিনি উল্লেখ করেননি। তাই সেগুলোর শব্দ উদ্ধৃত করা হলো না, এ লেখা সেগুলোর উপর ভর করে না। হাসানের কথাটা থাকছে হাসানেরই কথা হিসেবে।"
+          },
+          {
+            "en": "None of the tafsirs read for this verse attaches a sound hadith to 76:5 itself. A general narration on the same word is in Sahih Muslim, not tied to this verse by any of them. An-Nawwas ibn Sam'an said he asked the Messenger of Allah ﷺ about birr and sin, and he said: \"Birr is good character, and sin is what rankles in your chest and you dislike that people should come to know of it\" (Muslim 2553). It sits close to as-Sa'di's emphasis on character.",
+            "bn": "এ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটিই ৭৬:৫-এর সঙ্গে সরাসরি কোনো সহীহ হাদীস যুক্ত করেনি। একই শব্দ নিয়ে একটি সাধারণ বর্ণনা আছে সহীহ মুসলিমে, যা তাঁদের কেউ এ আয়াতের সঙ্গে জোড়েননি। নাওয়াস ইবন সাম'আন (রাঃ) বলেন, তিনি রাসূলুল্লাহ ﷺ-কে নেকি ও গুনাহ সম্পর্কে জিজ্ঞেস করেছিলেন। তিনি বললেন: \"নেকি হলো সুন্দর চরিত্র। আর গুনাহ হলো তা, যা তোমার বুকে খচখচ করে এবং মানুষ তা জেনে ফেলুক, তা তুমি অপছন্দ করো\" (মুসলিম ২৫৫৩)। চরিত্রের উপর সা'দীর জোরের সঙ্গে এ হাদীসের মিল স্পষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ka's Is Never Empty",
+          "bn": "কা'স কখনো খালি নয়"
+        },
+        "p": [
+          {
+            "en": "Yashrabuna min ka'sin: they drink from a cup. At-Tabari defines a ka's as any vessel that has drink in it. Al-Qurtubi tightens the definition: in the language, a ka's is a vessel containing drink, and when there is no drink in it, it is not called a ka's. He cites a line from 'Amr ibn Kulthum to show the usage. The word itself, then, already holds something to drink. Ibn 'Abbas, in al-Qurtubi's report, said that what is meant is wine.",
+            "bn": "ইয়াশরাবূনা মিন কা'স: তারা পেয়ালা থেকে পান করবে। তাবারীর সংজ্ঞায় কা'স হলো এমন যেকোনো পাত্র, যাতে পানীয় আছে। কুরতুবী সংজ্ঞাটা আরও আঁটসাঁট করেন। ভাষার দিক থেকে কা'স সেই পাত্র, যাতে পানীয় আছে। পানীয় না থাকলে তাকে কা'স বলা হয় না। প্রয়োগ দেখাতে তিনি আমর ইবন কুলসূমের একটি পঙক্তি আনেন। মানে শব্দটার ভেতরেই পান করার জিনিস ধরা আছে। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন, এখানে উদ্দেশ্য শরাব।"
+          },
+          {
+            "en": "As-Sa'di reads it the same way: a delicious drink of wine that has been mixed with kafur, blended with it to cool it and break its sharpness. Kana mizajuha: its mixture was. Al-Qurtubi glosses mizaj as what is blended and mingled into a drink, citing a line of Hassan in which a drink's mixture is honey and water. He also treats kana here as an added word, so the sense is simply a cup whose mixture is kafur.",
+            "bn": "সা'দীও তা-ই বলেন: শরাবের এক সুস্বাদু পানীয়, যাতে কাফূর মেশানো হয়েছে, যেন তা ঠান্ডা হয় আর তার ঝাঁঝ ভাঙে। কানা মিযাজুহা: তার মিশ্রণ ছিল। কুরতুবী মিযাজের ব্যাখ্যা দেন, পানীয়ের সঙ্গে যা মেশানো ও গুলিয়ে দেওয়া হয়। প্রমাণ হিসেবে হাসসানের একটি পঙক্তি আনেন, যেখানে এক পানীয়ের মিশ্রণ মধু আর পানি। তাঁর মতে এখানে 'কানা' অতিরিক্ত শব্দ। অর্থ দাঁড়ায় সোজা: এমন পেয়ালা, যার মিশ্রণ কাফূর।"
+          },
+          {
+            "en": "'Ikrimah read the word differently. Al-Qurtubi and al-Baghawi both record him saying that mizajuha means its taste. On his reading the verse speaks less of something poured in than of how the drink tastes. Neither al-Qurtubi nor al-Baghawi chooses between blend and flavour; both list the two, and either way the drink's character is kafur.",
+            "bn": "ইকরিমা শব্দটা পড়েছেন অন্যভাবে। কুরতুবী ও বাগাভী দুজনেই তাঁর উক্তি এনেছেন: মিযাজুহা মানে তার স্বাদ। তাঁর পাঠে আয়াতের কথা ঢেলে দেওয়া কোনো জিনিস নিয়ে নয়, পানীয়ের স্বাদ নিয়ে। মিশ্রণ নাকি স্বাদ, কুরতুবী বা বাগাভী কেউই এর একটা বেছে নেননি, দুজনেই দুটো মত রেখেছেন। যেটাই হোক, পানীয়ের বৈশিষ্ট্য কাফূর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Substance, Simile or Spring",
+          "bn": "বস্তু, উপমা, নাকি ঝরনা"
+        },
+        "p": [
+          {
+            "en": "What is the kafur? The first reading takes it as the substance known by that name, camphor. Ibn Kathir says its properties are known, coolness and a good scent, together with the delight that is added to it in Paradise. At-Tabari explains the verse as a drink like kafur in the pleasantness of its scent, and states that the general body of interpreters took kafur as a description of the drink. He cites Mujahid, who said it is mixed, and Qatadah: a people for whom it is mixed with kafur and sealed with musk.",
+            "bn": "কাফূর আসলে কী? প্রথম পাঠ একে ধরে ওই নামের পরিচিত বস্তু হিসেবে, অর্থাৎ কর্পূর। ইবন কাসীর বলেন, এর গুণ সবার জানা, শীতলতা আর সুগন্ধ। জান্নাতে এর সঙ্গে যুক্ত হবে বাড়তি স্বাদ। তাবারী আয়াতের ব্যাখ্যা দেন এমন পানীয় হিসেবে, যা সুবাসে কাফূরের মতো। তিনি জানান, তাফসীরকারদের অধিকাংশ কাফূরকে পানীয়ের বিশেষণ হিসেবে নিয়েছেন। মুজাহিদের কথা আনেন: তা মেশানো হবে। কাতাদার কথাও আনেন: এমন এক দল, যাদের জন্য তা কাফূরে মেশানো হবে আর মুশক দিয়ে মুখ বন্ধ করা হবে।"
+          },
+          {
+            "en": "The second reading makes Kafur a name. Al-Qurtubi reports Ibn 'Abbas: it is the name of a spring of water in Paradise, called the spring of Kafur, and the water of that spring is blended into the drink. Al-Baghawi gives the same from 'Ata' and al-Kalbi. At-Tabari mentions it with the words it has been said, and al-Qurtubi, on 76:6, records al-Farra' holding it. Ma'arif al-Qur'an also reports some commentators taking it as a fountain.",
+            "bn": "দ্বিতীয় পাঠে কাফূর একটা নাম। কুরতুবী ইবন আব্বাস (রাঃ)-এর কথা আনেন: এটি জান্নাতের এক পানির ঝরনার নাম, যাকে বলা হয় কাফূরের ঝরনা। সেই ঝরনার পানি পানীয়ের সঙ্গে মেশানো হবে। বাগাভী একই কথা আনেন আতা ও কালবী থেকে। তাবারী এটি উল্লেখ করেন 'বলা হয়েছে' বলে। আর ৭৬:৬-এর আলোচনায় কুরতুবী জানান, ফাররাও এ মত পোষণ করতেন। মাআরিফুল কুরআনও জানায়, কিছু তাফসীরকার একে ঝরনা ধরেছেন।"
+          },
+          {
+            "en": "A third reading makes it a likeness. Al-Baghawi gives it from the scholars of meanings: like kafur in its whiteness, its good scent and its coolness, because kafur is not drunk, just as hatta idha ja'alahu naran in 18:96 means until he made it like fire. Al-Qurtubi carries the same under it was said, with another view: the kafur is in its scent, not its taste. The commentators keep these side by side, and so does this page.",
+            "bn": "তৃতীয় পাঠে এটি উপমা। বাগাভী এ মত আনেন অর্থবিদ আলেমদের থেকে: শুভ্রতায়, সুগন্ধে আর শীতলতায় কাফূরের মতো, কারণ কাফূর পান করার জিনিস নয়। যেমন ১৮:৯৬-এ 'হাত্তা ইযা জা'আলাহূ নারা' মানে, যতক্ষণ না তিনি তাকে আগুনের মতো করলেন। কুরতুবীও 'বলা হয়' বলে এ মত আনেন, সঙ্গে আরেকটি: কাফূর থাকবে এর ঘ্রাণে, স্বাদে নয়। তাফসীরকারেরা মতগুলো পাশাপাশি রেখেছেন, এ লেখাও তা-ই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Our Word for His Gift",
+          "bn": "আমাদের শব্দে তাঁর দান"
+        },
+        "p": [
+          {
+            "en": "Whichever reading one takes, several commentators draw a limit. Al-Qurtubi records Muqatil: it is not the kafur of this world, but Allah named what is with Him by the names of what is with you, so that hearts might find their way to it. The word is borrowed because it is the one we have; it points towards the thing without describing it in full.",
+            "bn": "যে পাঠই নেওয়া হোক, একাধিক তাফসীরকার একটা সীমা টেনে দেন। কুরতুবী মুকাতিলের কথা আনেন: এটা দুনিয়ার কাফূর নয়। বরং আল্লাহ তাঁর কাছে যা আছে, তার নাম দিয়েছেন তোমাদের কাছে যা আছে তার নামে, যাতে অন্তর সেদিকে পথ পায়। শব্দটা ধার করা, কারণ আমাদের কাছে এ শব্দটাই আছে। তা জিনিসটার দিকে ইশারা করে, পূর্ণ বিবরণ দেয় না।"
+          },
+          {
+            "en": "As-Sa'di turns the same limit into a rule. This kafur, at the height of delight, is free of everything that spoils or troubles, the defects found in the kafur of this world. Then he generalises: whatever defect exists in this world in the things Allah names as being in Paradise will be absent in the hereafter. He gives examples from the Qur'an, among them the thornless lote trees and the talh trees layered with fruit in 56:28 and 56:29, and 43:71, which says Paradise holds whatever souls desire and eyes delight in.",
+            "bn": "সা'দী একই সীমাকে একটা নিয়মে রূপ দেন। চরম স্বাদের এই কাফূর সব রকম কলুষ আর বিরক্তিকর জিনিস থেকে মুক্ত, যা দুনিয়ার কাফূরে পাওয়া যায়। তারপর তিনি কথাটা সাধারণ করে বলেন: আল্লাহ জান্নাতে যেসব জিনিসের নাম নিয়েছেন, দুনিয়াতে সেগুলোর যে ত্রুটি আছে, আখিরাতে তা থাকবে না। কুরআন থেকে তিনি উদাহরণ দেন। তার মধ্যে আছে ৫৬:২৮ ও ৫৬:২৯-এর কাঁটাহীন কুলগাছ আর থরে থরে ফলে ভরা তালহ গাছ, আর ৪৩:৭১, যেখানে বলা হয়েছে জান্নাতে থাকবে মন যা চায় আর চোখ যাতে তৃপ্ত হয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an makes a related point in plain terms: if camphor is taken in its popular sense, that does not mean the camphor of Paradise is the same as the camphor of this world, since the worldly kind is not palatable. This page goes no further than these texts. The verse gives a name and the commentators give its known qualities, coolness, fragrance and whiteness; what the drink truly is, and how it is mixed, is left with Allah.",
+            "bn": "মাআরিফুল কুরআন একই রকম কথা বলে সহজ ভাষায়। কর্পূরকে প্রচলিত অর্থে নিলেও তার মানে এই নয় যে জান্নাতের কর্পূর আর দুনিয়ার কর্পূর এক, কারণ দুনিয়ার কর্পূর খাওয়ার উপযোগী নয়। এ লেখা এই বক্তব্যগুলোর বাইরে যাচ্ছে না। আয়াত একটা নাম দিয়েছে, তাফসীরকারেরা দিয়েছেন তার পরিচিত গুণ: শীতলতা, সুবাস, শুভ্রতা। পানীয়টা আসলে কী, কীভাবেই বা মেশানো হবে, সেই জ্ঞান আল্লাহর কাছেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Spring Led Where They Will",
+          "bn": "ইচ্ছেমতো বইয়ে নেওয়া ঝরনা"
+        },
+        "p": [
+          {
+            "en": "The sentence does not end at kafur. 76:6 continues: 'aynan yashrabu biha 'ibadu llahi yufajjirunaha tafjira, a spring from which Allah's servants drink, making it gush forth abundantly. At-Tabari shows how the reading of kafur shapes the grammar. If Kafur is a spring, the word 'aynan explains it. If kafur describes the drink, 'aynan states where the mixture comes from. It may also be the object of they drink, or a word of praise. Al-Qurtubi gives az-Zajjaj's reading, from a spring.",
+            "bn": "বাক্যটা কাফূরে এসে থামে না। ৭৬:৬ বলে: আইনান ইয়াশরাবু বিহা ইবাদুল্লাহি ইউফাজ্জিরূনাহা তাফজীরা, এমন এক ঝরনা, যা থেকে আল্লাহর বান্দারা পান করবে, আর তারা তা ইচ্ছেমতো প্রবাহিত করবে। কাফূরের পাঠ কীভাবে ব্যাকরণ বদলে দেয়, তাবারী তা দেখান। কাফূর যদি ঝরনার নাম হয়, তবে 'আইনান' শব্দটা তার ব্যাখ্যা। কাফূর যদি পানীয়ের বিশেষণ হয়, তবে 'আইনান' জানায় মিশ্রণটা কোথা থেকে আসে। এটি 'তারা পান করবে' ক্রিয়ার কর্মও হতে পারে, আবার প্রশংসাসূচক শব্দও। কুরতুবী আনেন যাজ্জাজের পাঠ: ঝরনা থেকে।"
+          },
+          {
+            "en": "Yashrabu biha: literally, they drink with it. Al-Farra', quoted by at-Tabari and al-Qurtubi, says drinking with it and drinking it mean the same, carrying the sense of being quenched by it. Ibn Kathir says the verb takes on the meaning of quenching, which is why it is joined to bi. Who are 'ibad Allah? Al-Baghawi reports Ibn 'Abbas: the friends of Allah. At-Tabari: the servants of Allah whom He admits into Paradise. Ibn Kathir: the near ones among Allah's servants, who drink this spring pure and unmixed, while for the abrar it is mixed.",
+            "bn": "ইয়াশরাবু বিহা: শাব্দিক অর্থে, তা দিয়ে পান করে। তাবারী ও কুরতুবী ফাররার কথা আনেন: 'তা দিয়ে পান করা' আর 'তা পান করা' একই অর্থ, সঙ্গে আছে তৃষ্ণা মেটার ভাব। ইবন কাসীর বলেন, ক্রিয়াটি তৃপ্ত হওয়ার অর্থ ধারণ করেছে, তাই 'বি' দিয়ে যুক্ত হয়েছে। ইবাদুল্লাহ, আল্লাহর বান্দা কারা? বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন: আল্লাহর ওলিরা। তাবারী বলেন: আল্লাহর সেই বান্দারা, যাদের তিনি জান্নাতে প্রবেশ করাবেন। ইবন কাসীরের মতে তারা আল্লাহর নৈকট্যপ্রাপ্ত বান্দা। তারা এই ঝরনা খাঁটি অবস্থায় পান করবে, কিছু না মিশিয়ে, আর আবরারদের জন্য তা মেশানো হবে।"
+          },
+          {
+            "en": "Yufajjirunaha tafjira: they make it gush. Mujahid, in at-Tabari and Ibn Kathir, said they lead it wherever they wish. Qatadah said its water is obedient to them, and Sufyan said they turn it wherever they want. At-Tabari adds: from their dwellings and their palaces, as they please. As-Sa'di draws a further point from the word spring: they need not fear the cup running out, because it has a source that does not stop, ever overflowing, and they may turn it to gardens or between their homes.",
+            "bn": "ইউফাজ্জিরূনাহা তাফজীরা: তারা তা উৎসারিত করবে। তাবারী ও ইবন কাসীরের বর্ণনায় মুজাহিদ বলেন, তারা যেখানে চাইবে সেখানে তা টেনে নিয়ে যাবে। কাতাদা বলেন, তার পানি তাদের অনুগত। সুফইয়ান বলেন, তারা যেদিকে চাইবে সেদিকে তা ঘুরিয়ে দেবে। তাবারী যোগ করেন: নিজেদের বাসস্থান আর প্রাসাদ থেকে, যেমন খুশি। 'ঝরনা' শব্দ থেকে সা'দী আরেকটা কথা বের করেন। পেয়ালা ফুরিয়ে যাওয়ার ভয় তাদের নেই, কারণ এর উৎস কখনো থামে না, সারাক্ষণ উপচে পড়ছে। তারা চাইলে তা বাগানের দিকে বইয়ে দেবে, কিংবা ঘরবাড়ির মাঝখান দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Coolness, and a Name to Earn",
+          "bn": "শীতলতা, আর অর্জনের মতো এক নাম"
+        },
+        "p": [
+          {
+            "en": "Two voices set kafur beside ginger. Ibn Kathir quotes al-Hasan: the coolness of kafur within the pleasantness of zanjabil, and then brings in 76:6. Ibn Kaysan, in al-Qurtubi and al-Baghawi, said the drink is perfumed with musk, kafur and ginger. Ginger is named in the surah at 76:17, and the article on 76:12 to 76:22 takes up what is said there. Al-Qurtubi also relays a report on four springs of Paradise from al-Hakim at-Tirmidhi, without a grading; nothing here rests on it.",
+            "bn": "দুজন আলেম কাফূরকে আদার পাশে রেখেছেন। ইবন কাসীর হাসানের কথা আনেন: আদার মনোরম স্বাদের ভেতরে কাফূরের শীতলতা। তারপর তিনি ৭৬:৬ উল্লেখ করেন। কুরতুবী ও বাগাভীর বর্ণনায় ইবন কাইসান বলেন, পানীয়টি সুবাসিত হবে মুশক, কাফূর আর আদা দিয়ে। এ সূরায় আদার নাম এসেছে ৭৬:১৭ আয়াতে। সেখানে কী বলা হয়েছে, ৭৬:১২ থেকে ৭৬:২২-এর লেখায় তার আলোচনা আছে। কুরতুবী হাকীম তিরমিযী থেকে জান্নাতের চারটি ঝরনা নিয়ে একটি বর্ণনাও আনেন, কোনো মান উল্লেখ ছাড়া। এ লেখার কিছুই সেটির উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "What follows is this page's own reflection. The verse before speaks of fire; this one answers with coolness, and gives the people a name before it gives them anything else. In these glosses al-abrar is not a title handed out at the gate. In at-Tabari's it is earned by obedience, in as-Sa'di's it grows from the heart outward, and in al-Hasan's line it reaches as far as an ant. The drink cannot be pictured. The name can be checked, today, against how one treats the Lord and the people nearest at hand.",
+            "bn": "এর পরের কথাগুলো এ লেখার নিজস্ব ভাবনা। আগের আয়াত আগুনের কথা বলে, এ আয়াত জবাব দেয় শীতলতা দিয়ে। আর কিছু দেওয়ার আগে মানুষগুলোকে একটা নাম দেয়। এসব ব্যাখ্যায় আবরার এমন কোনো উপাধি নয়, যা দরজায় পৌঁছে হাতে তুলে দেওয়া হয়। তাবারীর ব্যাখ্যায় তা অর্জিত হয় আনুগত্যে। সা'দীর ব্যাখ্যায় তা বেড়ে ওঠে অন্তর থেকে বাইরের দিকে। হাসানের কথায় তা পৌঁছে যায় একটা পিঁপড়া পর্যন্ত। পানীয়টার ছবি আঁকা যায় না। কিন্তু নামটা আজই যাচাই করা যায়: রবের সঙ্গে আর হাতের কাছের মানুষদের সঙ্গে আমি কেমন আচরণ করি।"
+          }
+        ]
+      }
+    ]
+  },
   "76:8": {
     "sections": [
       {

@@ -29087,6 +29087,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give from what you yourself want, not only from what is left over, and feed those who can never repay you.",
     "lessonBn": "শুধু বেঁচে যাওয়া জিনিস থেকে নয়, নিজের পছন্দের জিনিস থেকেও দিন, আর তাদের খাওয়ান, যারা কোনোদিন প্রতিদান দিতে পারবে না।"
+  },
+  "76:5": {
+    "reflectionEn": "One verse names chains, shackles and a blaze for those who refuse. The next turns at once: the righteous will drink from a cup whose mixture is kafur. Their name, al-abrar, describes people for whom doing good has become a settled way, towards their Lord and towards those around them, not a single good deed now and then. The drink is described with a word people already knew for coolness and a clean scent, yet what waits there is not the thing we know here, and the verse does not ask me to picture it. It asks which road I am walking. Is goodness the shape of my ordinary days, or something I reach for only when it costs me nothing?",
+    "reflectionBn": "এক আয়াতে অস্বীকারকারীদের জন্য শেকল, বেড়ি আর জ্বলন্ত আগুনের কথা। পরের আয়াতেই মোড় ঘুরে যায়: নেককারেরা এমন পেয়ালা থেকে পান করবে, যার মিশ্রণ কাফূর। তাদের নাম আল-আবরার। এ নাম তাদের, ভালো কাজ যাদের কাছে মাঝেমধ্যের একটা ঘটনা নয়, বরং অভ্যাস হয়ে গেছে, রবের সঙ্গেও, আশপাশের মানুষের সঙ্গেও। পানীয়টার বর্ণনায় এসেছে এমন একটা শব্দ, যার শীতলতা আর পরিচ্ছন্ন সুবাস মানুষ আগে থেকেই চেনে। তবু সেখানে যা অপেক্ষা করছে, তা এখানকার চেনা জিনিস নয়। আয়াত আমাকে তার ছবি আঁকতে বলে না। জিজ্ঞেস করে, আমি কোন পথে হাঁটছি। ভালো কাজ কি আমার সাধারণ দিনগুলোর চেহারা, নাকি শুধু তখনই করি, যখন তাতে কোনো খরচ নেই?",
+    "pointsEn": [
+      "If one word had to describe my goodness, would it be a settled habit or an occasional act?",
+      "Who among the people around me, family or stranger, could honestly say I have never harmed them?",
+      "When I hear about Paradise, do I fill the silence with my own imagining, or let the words the Qur'an chose be enough?",
+      "What small good deed do I do for Allah's sake that I would like to become a fixed part of who I am?",
+      "Which road do my last seven days point to, if I read them as honestly as this verse reads people?"
+    ],
+    "pointsBn": [
+      "আমার ভালোত্বকে যদি এক শব্দে বলতে হয়, সেটা কি পাকা অভ্যাস, নাকি মাঝেমধ্যের একটা কাজ?",
+      "আশপাশের মানুষদের মধ্যে, আপনজন হোক বা অচেনা, কে সত্যি করে বলতে পারবে যে আমি কখনো তাকে কষ্ট দিইনি?",
+      "জান্নাতের কথা শুনলে আমি কি ফাঁকা জায়গাগুলো নিজের কল্পনা দিয়ে ভরাই, নাকি কুরআন যে শব্দ বেছে নিয়েছে তাতেই সন্তুষ্ট থাকি?",
+      "আল্লাহর জন্য করা কোন ছোট্ট নেক কাজটা আমি চাই আমার স্বভাবের স্থায়ী অংশ হয়ে যাক?",
+      "এ আয়াত যেভাবে মানুষকে পড়ে, সেভাবে সৎভাবে পড়লে আমার গত সাত দিন কোন পথের দিকে ইশারা করে?"
+    ],
+    "lessonEn": "The righteous are promised a cup cool and fragrant beyond anything here; let goodness become your settled habit towards Allah and people, not an occasional act.",
+    "lessonBn": "নেককারদের জন্য প্রতিশ্রুত পেয়ালা এখানকার যেকোনো কিছুর চেয়ে শীতল ও সুবাসিত। ভালো কাজকে মাঝেমধ্যের ঘটনা নয়, আল্লাহ ও মানুষের প্রতি আপনার পাকা অভ্যাস বানিয়ে নিন।"
   }
 };
 
