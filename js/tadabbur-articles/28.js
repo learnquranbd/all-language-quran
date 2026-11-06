@@ -2063,6 +2063,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:67": {
+    "sections": [
+      {
+        "h": {
+          "en": "When Every Answer Goes Dark",
+          "bn": "সব জবাব যখন হারিয়ে যায়"
+        },
+        "p": [
+          {
+            "en": "Surah al-Qasas has set its listener on the Day of Resurrection. In 28:62 Allah calls the idolaters and asks where the partners they used to claim have gone. In 28:63 the ones who led them disown them: we led them astray as we ourselves were astray, and it was not us they worshipped. In 28:64 they are told to call on those partners; they call, and no one answers, and they see the punishment. Ibn Kathir, in the abridged English, reads the first question as rebuke and warning.",
+            "bn": "সূরা কাসাস শ্রোতাকে দাঁড় করিয়েছে কিয়ামতের দিনে। ২৮:৬২ আয়াতে আল্লাহ মুশরিকদের ডেকে জিজ্ঞেস করেন, যাদের তোমরা আমার শরীক বলে দাবি করতে, তারা কোথায়? ২৮:৬৩ আয়াতে যারা তাদের পথ দেখিয়েছিল, তারাই দায় অস্বীকার করে। তারা বলে, আমরা নিজেরা যেমন বিভ্রান্ত ছিলাম, তেমনি এদেরও বিভ্রান্ত করেছি, এরা আসলে আমাদের ইবাদত করত না। ২৮:৬৪ আয়াতে বলা হয়, ডাকো তোমাদের শরীকদের। তারা ডাকে, কেউ সাড়া দেয় না, আর তারা আযাব চোখের সামনে দেখে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ প্রথম প্রশ্নটিকে পড়ে ভর্ৎসনা ও সতর্কবাণী হিসেবে।"
+          },
+          {
+            "en": "Then 28:65 asks a second question: what answer did you give the messengers? In 28:66 the news goes blind upon them, and they cannot ask one another. Ibn Kathir cites Mujahid that the proof will be hidden from them, so that, he adds, they cannot ask one another for help through their ties of kinship. Ma'arif al-Qur'an draws a conclusion from the whole passage: whoever chooses to follow those who lead him wrong, with clear arguments and the right road before him, has no excuse to offer. Into that silence comes 28:67.",
+            "bn": "তারপর ২৮:৬৫ আয়াতে দ্বিতীয় প্রশ্ন: রাসূলদের তোমরা কী জবাব দিয়েছিলে? ২৮:৬৬ আয়াতে সব খবর তাদের কাছে অন্ধকার হয়ে যায়, একে অন্যকে জিজ্ঞেস করারও উপায় থাকে না। ইবন কাসীর মুজাহিদের কথা আনেন: প্রমাণ তাদের কাছ থেকে আড়াল হয়ে যাবে। তিনি যোগ করেন, তাই রক্তের সম্পর্কের দোহাই দিয়ে তারা একে অন্যের কাছে সাহায্যও চাইতে পারবে না। মাআরিফুল কুরআন গোটা অংশ থেকে একটি সিদ্ধান্ত টানে। সামনে স্পষ্ট দলিল আর সঠিক পথ থাকার পরও যে নিজের ইচ্ছায় পথভ্রষ্টকারীদের পেছনে চলে, তার দেওয়ার মতো কোনো অজুহাত নেই। এই নীরবতার ভেতরেই আসে ২৮:৬৭।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Repented Back in the World",
+          "bn": "তওবা হয়েছিল দুনিয়াতেই"
+        },
+        "p": [
+          {
+            "en": "Fa-amma: but as for. The particle marks a turn, and here it sets one person apart from the whole crowd of 28:62 to 28:66. Man taba wa amana wa 'amila salihan: one who repented, believed and did righteous work. All three verbs are in the past tense, while the verse is still standing on the Day it has been describing. Ibn Kathir settles where each half belongs. The repenting, believing and doing, he says, were in this world, fi ad-dunya; the success he places on the Day of Resurrection.",
+            "bn": "ফাআম্মা: তবে যে। শব্দটি মোড় ঘোরায়, আর এখানে ২৮:৬২ থেকে ২৮:৬৬ পর্যন্ত গোটা ভিড় থেকে একজন মানুষকে আলাদা করে দাঁড় করায়। মান তাবা ওয়া আমানা ওয়া আমিলা সালিহা: যে তওবা করেছিল, ঈমান এনেছিল আর সৎকাজ করেছিল। তিনটি ক্রিয়াই অতীত কালের, অথচ আয়াতটি তখনও দাঁড়িয়ে আছে সেই দিনে, যার বর্ণনা চলছিল। কোন অংশ কোথায়, ইবন কাসীর তা স্পষ্ট করে দেন। তাঁর ভাষায় তওবা, ঈমান আর আমল ছিল এই দুনিয়ায়, ফিদ দুনইয়া। আর সাফল্যকে তিনি রাখেন কিয়ামতের দিনে।"
+          },
+          {
+            "en": "That reading makes the verse a report from the far side. Those standing in the scene have no more time to repent; their answers have gone dark. The one who is saved there is the one who had already turned, back in the life where turning was possible. As-Sa'di frames the link from the other direction: having mentioned how creation will be questioned about what they worshipped and about their messengers, Allah mentions the road by which a servant is rescued from His punishment. The question of 28:65 has an answer, and it is lived before the Day.",
+            "bn": "এভাবে পড়লে আয়াতটি হয়ে যায় ওপারের এক খবর। দৃশ্যে যারা দাঁড়িয়ে, তওবার সময় তাদের ফুরিয়ে গেছে, তাদের জবাবও অন্ধকারে হারিয়েছে। সেখানে যে রক্ষা পায়, সে আগেই ফিরে এসেছিল, সেই জীবনে, যেখানে ফেরা সম্ভব ছিল। সা'দী একই যোগসূত্র দেখান অন্য দিক থেকে। সৃষ্টিকে তাদের মাবুদ আর তাদের রাসূলদের নিয়ে প্রশ্ন করা হবে, এ কথা বলার পর আল্লাহ সেই পথের কথা বলেছেন, যে পথে বান্দা তাঁর আযাব থেকে বাঁচে। ২৮:৬৫ আয়াতের প্রশ্নের একটা জবাব আছে। সে জবাব ওই দিনের আগেই জীবন দিয়ে দিতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning From Partners and Sins",
+          "bn": "শরীক ও গুনাহ থেকে ফেরা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads man taba as an idolater who repented, and he unfolds the word in a chain of verbs. He turned, anaba, and came back to the truth; he made divinity sincerely Allah's; he singled Allah out for worship and associated nothing in that worship. For at-Tabari the repentance here is first of all a change in whom the heart worships: what had been divided among partners is gathered onto Allah alone. That fits the scene, since the question just put to the crowd was where are My partners.",
+            "bn": "তাবারী মান তাবা-কে পড়েন এভাবে: মুশরিকদের মধ্যে যে তওবা করেছে। তারপর শব্দটিকে তিনি খুলে দেখান একের পর এক ক্রিয়া দিয়ে। সে ফিরে এসেছে, আনাবা, আর হকের দিকে প্রত্যাবর্তন করেছে। উলূহিয়্যাতকে খাঁটিভাবে আল্লাহর জন্য করেছে। ইবাদত কেবল তাঁরই জন্য রেখেছে, তাতে কাউকে শরীক করেনি। তাবারীর কাছে এখানে তওবা মানে আগে অন্তরের মাবুদ বদলানো। যে ইবাদত অনেক শরীকের মধ্যে ভাগ হয়ে ছিল, তা এক আল্লাহর দিকে জড়ো হয়। দৃশ্যের সঙ্গে এ পাঠ মিলে যায়, কারণ ভিড়কে এইমাত্র জিজ্ঞেস করা হয়েছে, আমার শরীকেরা কোথায়?"
+          },
+          {
+            "en": "Al-Qurtubi is briefer: taba means from shirk. The Muyassar reads the same context, saying whoever repented from among the idolaters and made his worship sincerely Allah's. So three of the commentators fetched for this verse read the repentance through the people of 28:62, those who had called on partners besides Allah. The verse itself names no group. It says only man, whoever, and lets the scene supply the case nearest to hand, without closing the word to anyone else.",
+            "bn": "কুরতুবী আরও সংক্ষেপে বলেন: তাবা মানে শিরক থেকে তওবা। মুয়াসসারও একই প্রসঙ্গ ধরে। তার ভাষায়, মুশরিকদের মধ্যে যে তওবা করেছে আর ইবাদতকে খাঁটিভাবে আল্লাহর জন্য করেছে। তাহলে এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার তিনটিই তওবাকে পড়ছে ২৮:৬২ আয়াতের লোকদের দিক থেকে, যারা আল্লাহ ছাড়া শরীকদের ডাকত। আয়াত নিজে কোনো দলের নাম নেয় না। সে শুধু বলে মান, যে-ই হোক। দৃশ্য হাতের কাছের উদাহরণটা জুগিয়ে দেয়, কিন্তু শব্দটিকে আর কারও জন্য বন্ধ করে না।"
+          },
+          {
+            "en": "As-Sa'di widens the field. He describes the person saved as marked by repentance from shirk and from sins, al-ma'asi. This is not a dispute with the others, since none of them says sins are left out; it is a difference of emphasis. At-Tabari, al-Qurtubi and the Muyassar stay with the case the context presents, and as-Sa'di draws out the rule for every servant. Read together, they leave no one outside the verse: the idolater who turns to the worship of Allah alone, and the believer who turns back from a sin.",
+            "bn": "সা'দী ক্ষেত্রটা আরও বড় করেন। তাঁর বর্ণনায় যে রক্ষা পায়, তার পরিচয় শিরক থেকে তওবা এবং গুনাহ থেকেও তওবা, আল-মাআসী। এটা অন্যদের সঙ্গে বিরোধ নয়, কারণ তাঁদের কেউই বলেননি যে গুনাহ এর বাইরে। পার্থক্যটা জোর দেওয়ার জায়গায়। তাবারী, কুরতুবী আর মুয়াসসার প্রসঙ্গ যে উদাহরণ সামনে আনে, তার সঙ্গেই থাকেন। আর সা'দী সেখান থেকে প্রত্যেক বান্দার জন্য নিয়মটা বের করে আনেন। একসঙ্গে পড়লে আয়াতের বাইরে কেউ থাকে না। শিরক ছেড়ে এক আল্লাহর ইবাদতে ফেরা মানুষও এর ভেতরে, গুনাহ থেকে ফেরা মুমিনও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith That Takes a Shape",
+          "bn": "যে ঈমান আকার নেয়"
+        },
+        "p": [
+          {
+            "en": "Amana, he believed. At-Tabari glosses it as affirming his Prophet Muhammad ﷺ, and al-Qurtubi with the single word saddaqa, he affirmed as true. As-Sa'di divides it in two: he believed in Allah and so worshipped Him, and he believed in His messengers and so affirmed them. That pairing mirrors the two questions as-Sa'di names before it. The first, in 28:62, was about whom they worshipped; the second, in 28:65, was about how they answered the messengers. The believer of this verse has an answer to each.",
+            "bn": "আমানা, সে ঈমান এনেছে। তাবারীর ব্যাখ্যায় এর মানে তার নবী মুহাম্মাদ ﷺ-কে সত্য বলে মেনে নেওয়া। কুরতুবী বলেন এক শব্দে: সাদ্দাকা, সে সত্য বলে মেনেছে। সা'দী একে দুই ভাগে দেখান। সে আল্লাহর উপর ঈমান এনেছে, তাই তাঁর ইবাদত করেছে। তাঁর রাসূলদের উপর ঈমান এনেছে, তাই তাঁদের সত্য বলে মেনেছে। এই জোড়া সা'দীর আগে উল্লেখ করা দুই প্রশ্নের সঙ্গে মিলে যায়। ২৮:৬২ আয়াতের প্রশ্ন ছিল, তারা কার ইবাদত করত। ২৮:৬৫ আয়াতের প্রশ্ন ছিল, রাসূলদের তারা কী জবাব দিয়েছিল। এ আয়াতের মুমিনের কাছে দুটোরই জবাব আছে।"
+          },
+          {
+            "en": "'Amila salihan, he did righteous work. At-Tabari: he acted on what Allah commanded him to do in His Book and on the tongue of His Messenger. The Muyassar: he did what Allah and His Messenger commanded. Al-Qurtubi gives it two layers, that he performed the obligations and did much of the voluntary. As-Sa'di adds a condition of manner, that the work be done following the messengers. Between them they measure a good deed not by how it feels to the doer, but by what the revelation asked for, done the way the Messenger did it.",
+            "bn": "আমিলা সালিহা, সে সৎকাজ করেছে। তাবারী বলেন, আল্লাহ তাঁর কিতাবে এবং তাঁর রাসূলের মুখে যা করতে আদেশ দিয়েছেন, সে তা করেছে। মুয়াসসার বলে, আল্লাহ ও তাঁর রাসূল যা আদেশ করেছেন, সে তা পালন করেছে। কুরতুবী এতে দুটি স্তর দেখান: সে ফরযগুলো আদায় করেছে, আর নফল করেছে বেশি বেশি। সা'দী জুড়ে দেন পদ্ধতির শর্ত। আমলটা হতে হবে রাসূলদের অনুসরণ করে। সব মিলিয়ে তাঁরা নেক আমল মাপেন করনেওয়ালার ভালো লাগা দিয়ে নয়। মাপকাঠি হলো ওহী যা চেয়েছে, আর রাসূল যেভাবে করেছেন সেভাবে করা।"
+          },
+          {
+            "en": "The three also come in an order. Repentance clears the ground, faith is what stands on it, and work is how that faith shows in a life. The verse offers none of them as a stand-in for the others, and the commentators read them as one description of one person. As-Sa'di says so outright at the end of his comment: the success belongs to whoever gathers these traits, and there is no road to it without them. A repentance with no faith behind it, or a faith that never reaches the hands, is not the whole of what the verse describes.",
+            "bn": "তিনটি আসে একটা ক্রমে। তওবা জমি পরিষ্কার করে, ঈমান সেই জমিতে দাঁড়ায়, আর আমল দেখায় সেই ঈমান জীবনে কেমন চেহারা নিয়েছে। আয়াত কোনোটিকে অন্যটির বদলি হিসেবে দেয়নি, আর তাফসীরকারেরা তিনটিকে পড়েন একই মানুষের একটি বর্ণনা হিসেবে। সা'দী তাঁর আলোচনার শেষে কথাটা সোজাসুজি বলেন। সাফল্য তার, যে এই গুণগুলো একসঙ্গে জোগাড় করে, আর এগুলো ছাড়া সাফল্যে পৌঁছানোর কোনো পথ নেই। পেছনে ঈমান নেই এমন তওবা, কিংবা হাত পর্যন্ত পৌঁছায় না এমন ঈমান, আয়াতের পুরো ছবি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Perhaps That Binds",
+          "bn": "আশার শব্দে পাকা ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "Fa-'asa an yakuna min al-muflihin: then perhaps he will be among the successful. In ordinary speech 'asa voices a hope, and the translations this app shows keep that surface. The Bengali reads asha kara jay, it may be hoped. The English adds a bracket: it is expected, that is, promised by Allah. That bracket agrees with the commentators. Three of them, in the texts fetched for this verse, say the same thing in nearly the same words, and they state it as a rule about the word whenever Allah is the one who says it.",
+            "bn": "ফাআসা আঁই ইয়াকূনা মিনাল মুফলিহীন: আশা করা যায় সে সফলদের অন্তর্ভুক্ত হবে। সাধারণ কথায় আসা শব্দটি আশা প্রকাশ করে, আর এই অ্যাপে দেখানো অনুবাদগুলো সেই বাইরের অর্থটাই রেখেছে। বাংলায় আছে, আশা করা যায়। ইংরেজি অনুবাদ বন্ধনীতে যোগ করেছে: প্রত্যাশিত, অর্থাৎ আল্লাহর প্রতিশ্রুত। বন্ধনীর কথাটা তাফসীরকারদের সঙ্গে মিলে যায়। এ আয়াতের জন্য যে লেখাগুলো দেখা হয়েছে, তাতে তিনজন প্রায় একই ভাষায় একই কথা বলেন। আর তাঁরা কথাটা বলেন শব্দটির একটি নিয়ম হিসেবে, যখনই বক্তা স্বয়ং আল্লাহ।"
+          },
+          {
+            "en": "At-Tabari closes his comment with it: 'asa min Allah wajib, perhaps from Allah is binding. Al-Qurtubi writes 'asa min Allah wajiba, in the same sense. Ibn Kathir uses a near synonym, mujiba, and gives the ground: this will come to pass by Allah's grace and favour, la mahala, without fail. His abridged English puts it that the word, used of Allah, implies the thing described will inevitably come to pass. The certainty does not rest on the weight of the deed. Ibn Kathir rests it on Allah's fadl and mann, His grace and His gift.",
+            "bn": "তাবারী তাঁর ব্যাখ্যা শেষ করেন এ কথা দিয়ে: আসা মিনাল্লাহি ওয়াজিব, আল্লাহর পক্ষ থেকে আসা মানে অবধারিত। কুরতুবীও লেখেন আসা মিনাল্লাহি ওয়াজিবা, একই অর্থে। ইবন কাসীর কাছাকাছি একটি শব্দ ব্যবহার করেন, মূজিবা, আর কারণও বলে দেন। এটা ঘটবেই আল্লাহর অনুগ্রহ ও দানে, লা মাহালা, কোনো সন্দেহ ছাড়াই। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে আছে, আল্লাহর বেলায় শব্দটি বোঝায় যে বর্ণিত বিষয় অবশ্যই ঘটবে। নিশ্চয়তাটা আমলের ওজনের উপর দাঁড়িয়ে নেই। ইবন কাসীর একে দাঁড় করান আল্লাহর ফযল আর মান্নের উপর, তাঁর অনুগ্রহ আর তাঁর দানের উপর।"
+          },
+          {
+            "en": "Two of the commentators also leave the word out when they paraphrase. At-Tabari restates the clause as fa-huwa min al-munjihin, then he is among those who succeed, and the Muyassar writes fa-huwa min al-fa'izin, then he is among the winners. Neither keeps a perhaps in his own sentence. Because the rule is stated of 'asa from Allah in general, it reaches other verses too: 9:102, perhaps Allah will turn to them in forgiveness, and 66:8, perhaps your Lord will remove your misdeeds. Each is spoken of people who turn back to Him.",
+            "bn": "দুজন তাফসীরকার নিজের ভাষায় কথাটা বলার সময় শব্দটাই বাদ দেন। তাবারী বাক্যটিকে বলেন এভাবে: ফাহুয়া মিনাল মুনজিহীন, তাহলে সে সফলকামদের একজন। মুয়াসসার লেখে: ফাহুয়া মিনাল ফাইযীন, তাহলে সে বিজয়ীদের একজন। কারও নিজের বাক্যে আশার শব্দটি নেই। নিয়মটি যেহেতু আল্লাহর পক্ষ থেকে আসা সম্পর্কে সাধারণভাবে বলা, তাই অন্য আয়াতেও তা খাটে। যেমন ৯:১০২, আশা করা যায় আল্লাহ তাদের তওবা কবুল করবেন। আর ৬৬:৮, আশা করা যায় তোমাদের রব তোমাদের গুনাহগুলো মুছে দেবেন। দুটিই বলা হয়েছে এমন মানুষদের নিয়ে, যারা তাঁর দিকে ফিরে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gaining the Sought, Spared the Feared",
+          "bn": "চাওয়া পাওয়া, ভয় থেকে মুক্তি"
+        },
+        "p": [
+          {
+            "en": "Al-muflihun, the successful, gathers several glosses. At-Tabari calls them al-munjihin, those whose effort comes good, who attain what they sought from Allah, and who dwell for ever in His gardens. Al-Qurtubi: those who win happiness, al-fa'izin bi-s-sa'ada. Al-Baghawi in two words: as-su'ada' an-najin, the happy and the saved. As-Sa'di pairs a gain with an escape: an-najihin bi-l-matlub, an-najin min al-marhub, those who reach what is sought and are rescued from what is feared. Success here has two faces, something gained and something escaped.",
+            "bn": "আল-মুফলিহূন, সফলকামেরা। শব্দটির কয়েকটি ব্যাখ্যা পাওয়া যায়। তাবারী তাদের বলেন আল-মুনজিহীন, যাদের চেষ্টা সফল হয়েছে, আল্লাহর কাছে যা চেয়েছিল তা পেয়েছে, আর যারা চিরকাল থাকবে তাঁর জান্নাতে। কুরতুবীর ভাষায়, যারা সৌভাগ্য লাভ করেছে, আল-ফাইযীনা বিস সাআদাহ। বাগাভী বলেন দুই শব্দে: আস-সুআদা আন-নাজীন, সৌভাগ্যবান ও মুক্তিপ্রাপ্ত। সা'দী একটি প্রাপ্তির পাশে একটি মুক্তি রাখেন: আন-নাজিহীনা বিল মাতলূব, আন-নাজীনা মিনাল মারহূব। অর্থাৎ যারা কাঙ্ক্ষিত জিনিস পেয়েছে আর ভয়ের জিনিস থেকে বেঁচেছে। সাফল্যের তাই দুটি দিক: কিছু পাওয়া, আর কিছু থেকে রক্ষা।"
+          },
+          {
+            "en": "On when the success falls, two of the fetched texts differ. Ibn Kathir, as already seen, places it on the Day of Resurrection: the deeds in this world, the success then. The Muyassar says the one who repents is among the winners fi ad-darayn, in both abodes, this world and the next. Both readings are in the texts, and this article leaves them side by side. In the scene the verse closes, the Day is plainly in view; the Muyassar's phrase lets the success reach back into the life where the repentance was made.",
+            "bn": "সাফল্য কখন মিলবে, এ নিয়ে দেখা দুটি লেখা আলাদা কথা বলে। ইবন কাসীর, আগেই দেখা গেছে, একে রাখেন কিয়ামতের দিনে: আমল দুনিয়ায়, সাফল্য তখন। মুয়াসসার বলে, তওবাকারী বিজয়ীদের একজন ফিদ দারাইন, দুই জগতেই, এই দুনিয়ায় এবং আখিরাতে। দুই পাঠই লেখায় আছে, আর এই প্রবন্ধ দুটিকে পাশাপাশি রেখে দেয়। আয়াত যে দৃশ্যের ইতি টানে, সেখানে কিয়ামতের দিনটি স্পষ্টভাবে চোখের সামনে। আর মুয়াসসারের কথাটি সাফল্যকে পৌঁছে দেয় সেই জীবন পর্যন্ত, যেখানে তওবাটা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Exception Heard Elsewhere",
+          "bn": "অন্য সূরাতেও একই ব্যতিক্রম"
+        },
+        "p": [
+          {
+            "en": "The same three verbs, in the same order, stand elsewhere in the Qur'an, and each time right after a picture of loss. In 19:60, after successors who neglected prayer and pursued desires, comes illa man taba wa amana wa 'amila salihan: except one who repents, believes and does righteousness, for those will enter Paradise. In 25:70, after grave sins and a punishment multiplied, the same exception opens again, and Allah will replace their evil deeds with good. In 20:82 Allah says of Himself: I am the Perpetual Forgiver of whoever repents, believes and does righteousness.",
+            "bn": "একই তিনটি ক্রিয়া, একই ক্রমে, কুরআনের অন্য জায়গাতেও আছে, আর প্রতিবারই ক্ষতির একটি ছবির ঠিক পরে। ১৯:৬০ আয়াতে, যে উত্তরসূরিরা নামায নষ্ট করেছিল আর প্রবৃত্তির পেছনে ছুটেছিল তাদের কথার পর আসে: ইল্লা মান তাবা ওয়া আমানা ওয়া আমিলা সালিহা। তবে যে তওবা করে, ঈমান আনে আর সৎকাজ করে, তারা জান্নাতে প্রবেশ করবে। ২৫:৭০ আয়াতে বড় বড় গুনাহ আর দ্বিগুণ শাস্তির কথার পর একই ব্যতিক্রম আবার খোলে, আর আল্লাহ তাদের মন্দগুলোকে নেকিতে বদলে দেবেন। ২০:৮২ আয়াতে আল্লাহ নিজের সম্পর্কে বলেন: যে তওবা করে, ঈমান আনে আর সৎকাজ করে, আমি তার জন্য অতি ক্ষমাশীল।"
+          },
+          {
+            "en": "None of the commentators fetched for this verse attaches a hadith to it. A general narration on the open door of repentance, not tied to this verse, is in Sahih Muslim (2759), from Abu Musa, from the Prophet ﷺ: Allah, Mighty and Majestic, stretches out His hand by night so that the one who did wrong by day may repent, and stretches out His hand by day so that the one who did wrong by night may repent, until the sun rises from where it sets. Muslim placed it in his Sahih.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তওবার খোলা দরজা নিয়ে একটি সাধারণ বর্ণনা আছে সহীহ মুসলিমে (২৭৫৯), যা এ আয়াতের সঙ্গে বাঁধা নয়। আবু মূসা (রাঃ) নবী ﷺ থেকে বর্ণনা করেন: মহান ও মহিমাময় আল্লাহ রাতে তাঁর হাত প্রসারিত করেন, যাতে দিনে যে অন্যায় করেছে সে তওবা করে। আর দিনে তাঁর হাত প্রসারিত করেন, যাতে রাতে যে অন্যায় করেছে সে তওবা করে। এভাবে চলবে যতক্ষণ না সূর্য তার অস্ত যাওয়ার দিক থেকে উদিত হয়। ইমাম মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Still Present Tense for Us",
+          "bn": "আমাদের জন্য সময় এখনো আছে"
+        },
+        "p": [
+          {
+            "en": "The verse is spoken inside a scene about idolaters on the Day of Resurrection, and it describes what that scene describes. It names no one living. It gives no one a licence to point at a person or a community today and place them in the crowd of 28:62, or to say of anyone that the door has shut on them. While a person is alive, the past-tense verbs of this verse still lie ahead of them. Whoever repents, believes and does good is the person the verse promises, whatever he or she was before.",
+            "bn": "আয়াতটি বলা হয়েছে কিয়ামতের দিনের মুশরিকদের এক দৃশ্যের ভেতরে, আর দৃশ্যটি যা বর্ণনা করে, আয়াতও তা-ই বর্ণনা করে। জীবিত কারও নাম এতে নেই। আজ কোনো মানুষ বা কোনো সম্প্রদায়ের দিকে আঙুল তুলে তাদের ২৮:৬২ আয়াতের ভিড়ে দাঁড় করানোর অনুমতি এ আয়াত কাউকে দেয় না। কারও সম্পর্কে দরজা বন্ধ হয়ে গেছে, এ কথা বলারও অনুমতি দেয় না। মানুষ যতদিন বেঁচে আছে, এ আয়াতের অতীত কালের ক্রিয়াগুলো তার জন্য এখনো সামনে পড়ে আছে। আগে সে যা-ই থাকুক, যে তওবা করে, ঈমান আনে আর সৎকাজ করে, আয়াতের ওয়াদা তারই জন্য।"
+          },
+          {
+            "en": "The verse also guards against the opposite mistake. As-Sa'di's closing line, that there is no road to success without these things, leaves no room for leaning on family or name, the ties of kinship that, in Ibn Kathir's reading of 28:66, bring no help on that Day. What it asks is within anyone's reach: to turn, to believe, to do the good the Messenger showed. Allah's perhaps, as the commentators read it, is a promise. The time to take it up is now, before the questions of 28:62 and 28:65 are asked.",
+            "bn": "আয়াত উল্টো দিকের ভুল থেকেও সাবধান করে। সা'দীর শেষ কথা, এগুলো ছাড়া সাফল্যের কোনো পথ নেই, বংশ বা নামের উপর ভরসা করার জায়গা রাখে না। ইবন কাসীরের ২৮:৬৬ আয়াতের ব্যাখ্যায় সেই আত্মীয়তার বন্ধনও ওই দিন কোনো কাজে আসে না। আয়াত যা চায়, তা সবার নাগালের মধ্যে: ফিরে আসা, ঈমান আনা, আর রাসূল যে নেক আমল দেখিয়েছেন তা করা। তাফসীরকারদের পাঠে আল্লাহর আশার শব্দটি আসলে ওয়াদা। সেটা লুফে নেওয়ার সময় এখনই, ২৮:৬২ আর ২৮:৬৫ আয়াতের প্রশ্নগুলো আসার আগে।"
+          }
+        ]
+      }
+    ]
+  },
   "28:70": {
     "sections": [
       {

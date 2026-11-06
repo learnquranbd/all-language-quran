@@ -24829,6 +24829,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Turning from what Allah has made clear, with nothing better in hand, is desire leading you. Walk instead by the guidance you have already been shown.",
     "lessonBn": "হাতে ভালো কিছু না নিয়েই আল্লাহর স্পষ্ট করা পথ থেকে মুখ ফেরানো মানে প্রবৃত্তির পেছনে চলা। তাই যে হিদায়াত আপনাকে দেখানো হয়েছে, সেটা ধরেই চলুন।"
+  },
+  "28:67": {
+    "reflectionEn": "The scene before this verse is a courtroom with no defence. The idolaters are asked where the partners they claimed have gone, and those who led them disown them. They are asked what answer they gave the messengers, and every reply goes dark; they cannot even ask one another. Then a single word turns the page: but as for one who repented, believed and did good. The verbs are in the past. That repentance was made before the Day, in the life we are living now. The verse says perhaps he will be among the successful, and when Allah says perhaps, it is a promise. So the question is not whether the door is open. It is whether I will walk through it while there is still time.",
+    "reflectionBn": "এ আয়াতের আগের দৃশ্যটা এমন এক আদালতের, যেখানে নিজের পক্ষে বলার মতো কিছুই নেই। মুশরিকদের জিজ্ঞেস করা হয়, যাদের তোমরা আমার শরীক বলতে, তারা কোথায়? যারা তাদের পথ ভুলিয়েছিল, তারাই তখন তাদের দায় ঝেড়ে ফেলে। তারপর প্রশ্ন আসে, রাসূলদের তোমরা কী জবাব দিয়েছিলে? সব কথা তখন অন্ধকারে হারিয়ে যায়, একে অন্যকে জিজ্ঞেস করারও উপায় থাকে না। ঠিক সেখানে একটি শব্দে পাতা উল্টে যায়: তবে যে তওবা করেছিল, ঈমান এনেছিল আর সৎকাজ করেছিল। ক্রিয়াগুলো অতীত কালের। সেই তওবা হয়ে গিয়েছিল ওই দিনের আগেই, এই জীবনে, যে জীবন আমরা এখন কাটাচ্ছি। আয়াত বলছে, আশা করা যায় সে সফলদের দলে থাকবে। আর আল্লাহ যখন আশার কথা বলেন, সেটা তাঁর ওয়াদা। তাই দরজা খোলা আছে কি না, প্রশ্ন সেটা নয়। প্রশ্ন হলো, সময় থাকতে আমি সে দরজা দিয়ে ঢুকব কি না।",
+    "pointsEn": [
+      "Is there something I keep meaning to repent of later, as though later were guaranteed to me?",
+      "The verse joins repenting, believing and doing good. Which of the three comes easiest to me, and which do I keep putting off?",
+      "When I am tempted to write someone off as beyond return, or to write myself off, what does this verse say back to me?",
+      "If I were asked today what answer I gave the messengers, what would the way I actually live this week reply?",
+      "Do I hear Allah's perhaps as a reason to hesitate, or as a promise worth acting on now?"
+    ],
+    "pointsBn": [
+      "কোন গুনাহর তওবা আমি পরে করব বলে ফেলে রাখছি, যেন পরের সময়টা আমার জন্য নিশ্চিত করা আছে?",
+      "আয়াতটি তওবা, ঈমান আর সৎকাজকে এক সুতোয় গেঁথেছে। তিনটির কোনটা আমার কাছে সহজ, আর কোনটা আমি বারবার পিছিয়ে দিই?",
+      "কাউকে ফেরার অযোগ্য বলে বাতিল করে দিতে ইচ্ছে হলে, কিংবা নিজেকেই বাতিল করে দিতে ইচ্ছে হলে, এ আয়াত আমাকে কী বলে?",
+      "আজ যদি জিজ্ঞেস করা হয় রাসূলদের আমি কী জবাব দিয়েছি, এ সপ্তাহে আমার চলাফেরা কী উত্তর দেবে?",
+      "আল্লাহর 'আশা করা যায়' কথাটা কি আমাকে দ্বিধায় ফেলে, নাকি এখনই কাজে নামার মতো এক ওয়াদা হয়ে কানে বাজে?"
+    ],
+    "lessonEn": "Repentance, faith and good deeds are gathered in this life. Whoever gathers them has Allah's promise of success, and that door stays open to anyone.",
+    "lessonBn": "তওবা, ঈমান আর সৎকাজ জোগাড় করতে হয় এই জীবনেই। যে এগুলো একসঙ্গে জোগাড় করে, তার জন্য আছে আল্লাহর দেওয়া সাফল্যের ওয়াদা, আর সে দরজা সবার জন্য খোলা।"
   }
 };
 
