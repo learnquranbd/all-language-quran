@@ -26329,6 +26329,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Live as someone whose record will be set down in full light before a Judge who wrongs no one: add good, repent of wrong, and be fair to others.",
     "lessonBn": "এমনভাবে চলুন যেন আপনার আমলনামা পূর্ণ আলোয় এমন বিচারকের সামনে রাখা হবে, যিনি কারও উপর যুলম করেন না: নেকি বাড়ান, গুনাহ থেকে তওবা করুন, আর মানুষের প্রতি ইনসাফ করুন।"
+  },
+  "40:9": {
+    "reflectionEn": "The angels' prayer for the believers ends on one more request: protect them from the evils. Then they give the reason in a single line: whoever You protect from the evils on that Day, You have had mercy on him, and that is the great success. The word can mean the wrongs a person did, or what those wrongs bring upon him, and the request holds both. Notice what it does not ask for. It does not ask that the believers be found without fault. It asks that their faults not be the end of them. Somewhere above me, my past is being prayed over. Do I ask the same for myself, and do I keep adding to what needs covering?",
+    "reflectionBn": "মু'মিনদের জন্য ফেরেশতাদের দোয়া শেষ হয় আরও একটি আবেদনে: তাদের মন্দ থেকে রক্ষা করো। তারপর এক কথায় কারণটাও বলে দেন: সেদিন তুমি যাকে মন্দ থেকে বাঁচালে, তার উপর তো রহম করলে, আর সেটাই মহাসাফল্য। এখানে মন্দ বলতে মানুষের করা গুনাহ বোঝাতে পারে, আবার সেই গুনাহ তার উপর যা ডেকে আনে তা-ও বোঝাতে পারে। আবেদনটা দুটোকেই ধরে রাখে। খেয়াল করুন, কী চাওয়া হয়নি। মু'মিনরা নিখুঁত প্রমাণিত হোক, এমন কথা দোয়ায় নেই। ফেরেশতারা চান, তাদের দোষ যেন তাদের সর্বনাশ ডেকে না আনে। আমার অতীত নিয়েও ওপরে কোথাও দোয়া চলছে। আমি কি নিজের জন্য একই জিনিস চাই? আর যা ঢেকে দেওয়া দরকার, তার বোঝা কি এখনো বাড়িয়েই চলেছি?",
+    "pointsEn": [
+      "Which of my past wrongs do I most need to be shielded from, and have I ever asked Allah plainly for that?",
+      "Do I ask only to be spared the punishment, or also to be kept from the wrongs that lead to it?",
+      "When I picture success, what comes to mind first, and how does it weigh against being spared on that Day?",
+      "The angels pray for people they will never meet. Whom could I pray for today without their knowing?",
+      "If my own wrongs are what stand between me and mercy, which one am I still holding on to?"
+    ],
+    "pointsBn": [
+      "অতীতের কোন গুনাহ থেকে রক্ষা পাওয়া আমার সবচেয়ে বেশি দরকার? আল্লাহর কাছে কি কখনো সোজাসুজি সেটা চেয়েছি?",
+      "আমি কি শুধু শাস্তি থেকে বাঁচতে চাই, নাকি যে গুনাহ শাস্তির দিকে টেনে নেয়, তা থেকেও দূরে থাকতে চাই?",
+      "সাফল্যের কথা ভাবলে প্রথমে কী মনে আসে? সেদিন রক্ষা পাওয়ার পাশে রাখলে তার ওজন কতটুকু?",
+      "ফেরেশতারা এমন মানুষদের জন্য দোয়া করেন, যাদের সঙ্গে তাঁদের কখনো দেখা হবে না। আজ আমি কার জন্য তার অজান্তে দোয়া করতে পারি?",
+      "আমার নিজের গুনাহই যদি আমার আর রহমতের মাঝে দেয়াল হয়ে থাকে, তবে কোনটা এখনো আঁকড়ে ধরে আছি?"
+    ],
+    "lessonEn": "Ask Allah, as the angels ask for you, to shield you from your wrongs and what they bring, for whoever is shielded that Day has found mercy and the great success.",
+    "lessonBn": "ফেরেশতারা যেমন আপনার জন্য চান, আপনিও আল্লাহর কাছে চান: গুনাহ আর গুনাহর পরিণাম থেকে যেন তিনি রক্ষা করেন। সেদিন যে রক্ষা পেল, সে-ই রহমত পেল, সে-ই পেল মহাসাফল্য।"
   }
 };
 

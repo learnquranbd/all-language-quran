@@ -303,6 +303,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Prayer Closes",
+          "bn": "দোয়ার শেষ আবেদন"
+        },
+        "p": [
+          {
+            "en": "This verse is the last link in a prayer. In 40:7 the angels who bear the Throne, and those around it, ask forgiveness for those who believe; in 40:8 they ask that the believers and the righteous of their families be admitted to the gardens of 'adn. Here, joined by a single wa, comes the final request: wa qihimu as-sayyi'at, and protect them from the evils. At-Tabari introduces it as Allah telling what His angels say. The speakers are still those angels, and the people prayed for are still the believers on earth.",
+            "bn": "এ আয়াত একটি দোয়ার শেষ কড়া। ৪০:৭ আয়াতে আরশ বহনকারী ফেরেশতারা আর তাঁর চারপাশের ফেরেশতারা মু'মিনদের জন্য ক্ষমা চান। ৪০:৮ আয়াতে তাঁরা চান, মু'মিনরা আর তাদের পরিবারের নেককাররা যেন চিরস্থায়ী জান্নাতে প্রবেশ করে। এবার একটিমাত্র ওয়া দিয়ে জুড়ে আসে শেষ আবেদন: ওয়া কিহিমুস সাইয়িআত, আর তাদের মন্দ থেকে রক্ষা করো। তাবারী আয়াতটির শুরুতে বলেন, আল্লাহ এখানে তাঁর ফেরেশতাদের কথা জানাচ্ছেন। বক্তা সেই একই ফেরেশতারা, আর যাদের জন্য দোয়া, তারাও পৃথিবীর সেই মু'মিনরাই।"
+          },
+          {
+            "en": "The verb is not new to the prayer. Qi is the imperative of waqa, and the angels have already used it, asking in 40:7 that the believers be protected from the punishment of the Blaze. Al-Qurtubi gives the root: waqahu Allah yaqihi wiqayatan, with a kasra under the waw, meaning He guarded him. So the prayer that began by asking for guarding from the Fire ends by asking for guarding again, this time from something named more widely.",
+            "bn": "ক্রিয়াটি এ দোয়ায় নতুন নয়। কি হলো ওয়াকা ক্রিয়ার আদেশবাচক রূপ। ফেরেশতারা ৪০:৭ আয়াতেই একবার তা বলেছেন, যখন চেয়েছেন মু'মিনদের যেন জাহান্নামের আযাব থেকে রক্ষা করা হয়। কুরতুবী শব্দের মূলটা দেখিয়ে দেন: ওয়াকাহুল্লাহু ইয়াকীহি ওয়িকায়াতান, ওয়াওয়ের নিচে যের দিয়ে। এর মানে, আল্লাহ তাকে হেফাজত করলেন। তাই যে দোয়া শুরু হয়েছিল আগুন থেকে হেফাজতের আবেদনে, তা শেষও হচ্ছে হেফাজতের আবেদনে। তবে এবার যা থেকে রক্ষা চাওয়া হচ্ছে, তার নাম আরও বিস্তৃত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sins, or What Sins Bring",
+          "bn": "গুনাহ, নাকি গুনাহর ফল"
+        },
+        "p": [
+          {
+            "en": "A first group of readings takes as-sayyi'at to mean the consequence of evil deeds rather than the deeds. At-Tabari explains qihim as: turn away from them the evil outcome of their sins, and he gives the angels' meaning in their own voice: do not take them to account for those sins and punish them for them. He reports from Qatada, with his chain, that as-sayyi'at here means al-'adhab, the punishment, and says the people of interpretation held the same. The Muyassar repeats his gloss almost word for word: turn away from them the evil outcome of their sins, and do not take them to account for them.",
+            "bn": "এক দল ব্যাখ্যায় আস-সাইয়িআত মানে মন্দ কাজ নয়, মন্দ কাজের পরিণাম। তাবারী কিহিম-এর ব্যাখ্যা দেন এভাবে: তাদের গুনাহর মন্দ পরিণাম তাদের থেকে সরিয়ে দাও। ফেরেশতাদের মুখেই তিনি অর্থটা বলিয়ে দেন: এসব গুনাহর জন্য তাদের পাকড়াও করো না, এর জন্য তাদের শাস্তি দিয়ো না। নিজের সনদে তিনি কাতাদা থেকে বর্ণনা করেন, এখানে আস-সাইয়িআত মানে আল-আযাব, অর্থাৎ শাস্তি। তিনি আরও বলেন, ব্যাখ্যাকারেরা এ অর্থই বলেছেন। মুয়াসসার প্রায় হুবহু তাঁর কথাই বলে: তাদের গুনাহর মন্দ পরিণাম সরিয়ে দাও, এর জন্য তাদের পাকড়াও করো না।"
+          },
+          {
+            "en": "Al-Baghawi is shorter still: as-sayyi'at are al-'uqubat, the punishments. He then adds, under the words it is said, that the meaning is jaza' as-sayyi'at, the recompense of evil deeds. Al-Qurtubi gives a similar reading as an implied wording: it is said, he reports, that the sense is qihim 'adhab as-sayyi'at, protect them from the punishment of the evil deeds. On these readings the word names what befalls a person, and the angels ask that the punishment due for the believers' sins never reach them.",
+            "bn": "বাগাভী আরও সংক্ষেপে বলেন: আস-সাইয়িআত মানে আল-উকূবাত, শাস্তিসমূহ। তারপর 'বলা হয়' কথাটি জুড়ে তিনি আরেকটি অর্থ আনেন: জাযাউস সাইয়িআত, মন্দ কাজের প্রতিফল। কুরতুবীও কাছাকাছি একটি ব্যাখ্যা দেন, উহ্য শব্দ ধরে নিয়ে। তিনি জানান, কারও কারও মতে বাক্যের আসল রূপ হলো কিহিম আযাবাস সাইয়িআত, তাদের মন্দ কাজের শাস্তি থেকে রক্ষা করো। এসব ব্যাখ্যায় শব্দটি বোঝায় মানুষের উপর যা নেমে আসে তা। ফেরেশতারা চান, মু'মিনদের গুনাহর জন্য যে শাস্তি প্রাপ্য, তা যেন কখনো তাদের কাছে না পৌঁছায়।"
+          },
+          {
+            "en": "A second group widens the word. As-Sa'di explains as-sayyi'at as the evil deeds and their recompense together, and gives the reason for the name: they are called evils because they grieve the one who did them, tasu'u sahibaha. Ibn Kathir leaves both open with a single or: protect them from doing them, or from their evil consequence for whoever did them. Al-Qurtubi, before his implied wording, reports Qatada as saying: protect them from what grieves them. At-Tabari's chain from Qatada gave the punishment, so these sources carry Qatada with two glosses, the second wider in its wording than the first.",
+            "bn": "আরেক দল শব্দটিকে আরও প্রশস্ত করে দেখে। সা'দীর ব্যাখ্যায় আস-সাইয়িআত মানে মন্দ আমল আর তার প্রতিফল, দুটোই। নামের কারণও তিনি বলেন: এগুলোকে মন্দ বলা হয়, কারণ এগুলো যে করে তাকেই কষ্ট দেয়, তাসূউ সাহিবাহা। ইবন কাসীর একটিমাত্র 'অথবা' দিয়ে দুটো পথই খোলা রাখেন: তাদের রক্ষা করো মন্দ কাজ করা থেকে, অথবা যে তা করেছে তার উপর সেই কাজের কুফল থেকে। কুরতুবী উহ্য শব্দের ব্যাখ্যার আগে কাতাদার কথা আনেন: যা তাদের কষ্ট দেয়, তা থেকে তাদের রক্ষা করো। তাবারীর সনদে কাতাদার ব্যাখ্যা ছিল শাস্তি। ফলে এ উৎসগুলোতে কাতাদার দুটি ব্যাখ্যা পাওয়া যায়, আর দ্বিতীয়টির শব্দ প্রথমটির চেয়ে প্রশস্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sins Done Before Repenting",
+          "bn": "তওবার আগের গুনাহ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari is precise about which sins he means: those they had committed before their repentance and their turning back, qabla tawbatihim wa inabatihim. That fits the people the prayer has already named. In 40:7 the forgiveness asked for is for those who repented and followed Allah's way. On his reading the angels are not asking that people be spared for sins they persist in. They ask that what the repentant did before their repentance not be held against them, and that no punishment for it ever reach them.",
+            "bn": "কোন গুনাহর কথা, তাবারী তা স্পষ্ট করে বলেন: তওবা ও আল্লাহর দিকে ফিরে আসার আগে তারা যেসব গুনাহ করেছিল, কাবলা তাওবাতিহিম ওয়া ইনাবাতিহিম। দোয়ায় যাদের কথা আগেই এসেছে, তাদের সঙ্গে এ ব্যাখ্যা মিলে যায়। ৪০:৭ আয়াতে ক্ষমা চাওয়া হয়েছে তাদের জন্য, যারা তওবা করেছে আর আল্লাহর পথ অনুসরণ করেছে। তাবারীর ব্যাখ্যায় ফেরেশতারা এমন গুনাহর মাফ চাইছেন না, যাতে মানুষ এখনো লেগে আছে। তাঁরা চাইছেন, তওবাকারীরা তওবার আগে যা করেছিল তার জন্য যেন তাদের ধরা না হয়, আর তার কোনো শাস্তি যেন কখনো তাদের ছুঁতে না পারে।"
+          },
+          {
+            "en": "The reading that includes the deeds points further. If as-sayyi'at means the evil deeds themselves, then protection from them also concerns this life, where deeds are done. As-Sa'di draws that out under the next clause: whoever You protect from the evils, You have granted success in good deeds and in their good recompense. On his gloss the request reaches the rest of a believer's life as well as his past. At-Tabari and the Muyassar keep to the consequence; as-Sa'di joins deed and recompense; Ibn Kathir names both without choosing between them.",
+            "bn": "আমলকেও যে ব্যাখ্যা ধরে, তা আরও দূর পর্যন্ত যায়। আস-সাইয়িআত যদি মন্দ আমলই হয়, তবে তা থেকে রক্ষা পাওয়ার প্রশ্নটা এ দুনিয়ারও, কারণ আমল তো এখানেই হয়। সা'দী পরের বাক্যের ব্যাখ্যায় কথাটা খুলে বলেন: যাকে তুমি মন্দ থেকে রক্ষা করলে, তাকে তুমি নেক আমল আর তার উত্তম প্রতিফলের তাওফীক দিলে। তাঁর ব্যাখ্যায় দোয়াটা মু'মিনের অতীত ছাড়িয়ে তার বাকি জীবন পর্যন্ত পৌঁছে যায়। তাবারী আর মুয়াসসার থাকেন পরিণামের অর্থে। সা'দী আমল আর প্রতিফল দুটোকে একসঙ্গে ধরেন। ইবন কাসীর দুটোরই নাম নেন, কোনোটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Day the Verse Names",
+          "bn": "আয়াতে বলা সেই দিন"
+        },
+        "p": [
+          {
+            "en": "The second sentence turns from request to statement: wa man taqi as-sayyi'ata yawma'idhin faqad rahimtah, and whomever You protect from the evils on that Day, You have had mercy on him. Taqi is the same verb once more, now inside a condition. Ibn Kathir and as-Sa'di both gloss yawma'idhin as the Day of Resurrection, and at-Tabari explains it the same way, yawm al-qiyama. The Muyassar names it by what happens on it: yawm al-hisab, the Day of Reckoning.",
+            "bn": "দ্বিতীয় বাক্যে আবেদন থেকে কথা ঘুরে যায় ঘোষণায়: ওয়া মান তাকিস সাইয়িআতি ইয়াওমাইযিন ফাকাদ রাহিমতাহ, সেদিন তুমি যাকে মন্দ থেকে রক্ষা করলে, তার উপর তো রহম করলে। তাকি সেই একই ক্রিয়া, এবার শর্তের ভেতরে। ইবন কাসীর আর সা'দী দুজনেই ইয়াওমাইযিন-এর ব্যাখ্যা করেন কিয়ামতের দিন বলে। তাবারীর ব্যাখ্যাও তা-ই, ইয়াওমুল কিয়ামাহ। মুয়াসসার দিনটির নাম দেয় সেদিন যা ঘটবে তা দিয়ে: ইয়াওমুল হিসাব, হিসাবের দিন।"
+          },
+          {
+            "en": "The time word sits only in the second sentence. The request itself, protect them from the evils, carries no day, and this is where the two readings part most clearly. For at-Tabari, the second sentence restates the first: whomever You turn away from the evil outcome of his sins on the Day of Resurrection, You have had mercy on him. On as-Sa'di's gloss, which includes the deeds themselves, the request also reaches what is done before that Day, and the second sentence names the Day on which its outcome is seen.",
+            "bn": "সময়ের শব্দটি আছে শুধু দ্বিতীয় বাক্যে। মূল আবেদনে, তাদের মন্দ থেকে রক্ষা করো, কোনো দিনের উল্লেখ নেই। দুই ব্যাখ্যা এখানেই সবচেয়ে স্পষ্টভাবে আলাদা হয়ে যায়। তাবারীর কাছে দ্বিতীয় বাক্য প্রথমটিরই পুনরুক্তি: কিয়ামতের দিন যার গুনাহর মন্দ পরিণাম তুমি সরিয়ে দিলে, তার উপর তুমি রহম করলে। সা'দীর ব্যাখ্যায় আমলও শামিল। সে ব্যাখ্যা ধরলে আবেদনটা সেই দিনের আগে যা করা হয়, তাকেও ধরে। আর দ্বিতীয় বাক্য সেই দিনের নাম বলে, যেদিন এর ফল চোখে পড়বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shielding Called Mercy",
+          "bn": "রক্ষা পাওয়াই রহমত"
+        },
+        "p": [
+          {
+            "en": "Faqad rahimtah: then You have had mercy on him. The commentators say what that mercy consists of. At-Tabari: You have had mercy on him, and so saved him from Your punishment. Ibn Kathir: You were gentle with him, latafta bihi, and rescued him from the punishment. The Muyassar: You have had mercy on him and favoured him with rescue from Your punishment. Al-Qurtubi names the other side of it: mercy by entry into Paradise. Most of them stress what is escaped; al-Qurtubi stresses where whoever escapes arrives.",
+            "bn": "ফাকাদ রাহিমতাহ: তবে তো তুমি তার উপর রহম করলে। সেই রহমত কী, তাফসীরকারেরা তা বলে দেন। তাবারী বলেন: তুমি তার উপর রহম করলে, তাই তাকে তোমার আযাব থেকে বাঁচালে। ইবন কাসীর বলেন: তুমি তার প্রতি কোমল হলে, লাতাফতা বিহী, আর তাকে শাস্তি থেকে উদ্ধার করলে। মুয়াসসার বলে: তুমি তার উপর রহম করলে, আর তোমার আযাব থেকে মুক্তি দিয়ে তাকে অনুগ্রহ করলে। কুরতুবী বলেন অন্য দিকটার কথা: জান্নাতে প্রবেশ করিয়ে রহম করা। বেশিরভাগের জোর কী থেকে বাঁচা গেল তার উপর। কুরতুবীর জোর, যে বাঁচল সে কোথায় পৌঁছাল তার উপর।"
+          },
+          {
+            "en": "As-Sa'di gives a reason why protection from evils should be called mercy at all. Your mercy, he explains, in the angels' address to their Lord, has never ceased to flow over the servants; nothing holds it back except the servants' own sins and evil deeds. So whoever is protected from those has had the one barrier removed, and mercy reaches him as it was always ready to. It shows where the obstacle lies: on the servant's side, never on Allah's.",
+            "bn": "মন্দ থেকে রক্ষা পাওয়াকে রহমত বলা হলো কেন, সা'দী তার কারণ দেখান। ফেরেশতাদের মুখে রবের প্রতি সম্বোধন হিসেবে তিনি ব্যাখ্যা করেন: তোমার রহমত বান্দাদের উপর সবসময় বয়ে চলেছে, কখনো থামেনি। বান্দাদের নিজেদের গুনাহ আর মন্দ আমল ছাড়া আর কিছুই তা আটকায় না। তাই যে এগুলো থেকে রক্ষা পেল, তার সামনের একমাত্র বাধাটা সরে গেল। রহমত তো পৌঁছানোর জন্য তৈরিই ছিল, এবার তার কাছে পৌঁছে গেল। বাধা কোথায়, বাক্যটি তা দেখিয়ে দেয়: বান্দার দিকে, আল্লাহর দিকে কখনো নয়।"
+          },
+          {
+            "en": "The word itself ties the end of the prayer to its beginning. The angels opened, in 40:7, by addressing their Lord as the One who has encompassed all things in mercy and knowledge, rahmatan wa 'ilman. They close with rahimtahu, You have had mercy on him. Between these they have asked for forgiveness, for protection from the Blaze, for admission to the gardens, and now for protection from the evils. The prayer starts from a mercy wide enough for everything and ends with that mercy reaching one person.",
+            "bn": "শব্দটিই দোয়ার শেষকে শুরুর সঙ্গে বেঁধে দেয়। ৪০:৭ আয়াতে ফেরেশতারা শুরু করেছিলেন রবকে এভাবে ডেকে: তুমি রহমত ও জ্ঞানে সবকিছু ঘিরে রেখেছ, রাহমাতান ওয়া ইলমা। শেষ করছেন রাহিমতাহু দিয়ে, তুমি তার উপর রহম করলে। এ দুইয়ের মাঝখানে তাঁরা চেয়েছেন ক্ষমা, জাহান্নাম থেকে রক্ষা, জান্নাতে প্রবেশ, আর এখন মন্দ থেকে রক্ষা। দোয়ার শুরু এমন রহমত থেকে, যা সবকিছুকে ঘিরে আছে। আর শেষ সেই রহমতের একজন মানুষের কাছে পৌঁছানোয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Success Without Equal",
+          "bn": "যে সাফল্যের তুলনা নেই"
+        },
+        "p": [
+          {
+            "en": "Wa dhalika huwa al-fawz al-'azim: and that is the great success. At-Tabari gives the reason it deserves the name: whoever is saved from the Fire and admitted to Paradise has succeeded, and that, beyond doubt, is the great success. Al-Qurtubi renders it an-najat al-kabira, the great deliverance. The Muyassar calls it az-zafar al-'azim, the great triumph, and adds that there is no success like it.",
+            "bn": "ওয়া যালিকা হুওয়াল ফাওযুল আযীম: আর সেটাই মহাসাফল্য। তাবারী বলেন, কেন এ নাম তার প্রাপ্য: যে জাহান্নাম থেকে বেঁচে গেল আর জান্নাতে প্রবেশ করল, সে সফল হলো। নিঃসন্দেহে এটাই মহাসাফল্য। কুরতুবী একে বলেন আন-নাজাতুল কাবীরা, বড় মুক্তি। মুয়াসসার একে বলে আয-যাফারুল আযীম, মহাবিজয়, আর যোগ করে, এর মতো কোনো সাফল্য নেই।"
+          },
+          {
+            "en": "As-Sa'di asks what dhalika, that, points to, and answers with two things together: the removal of what is feared, through protection from the evils, and the gaining of what is loved, through the gaining of mercy. That, he says, is the success with no like, and those who compete do not compete for anything better. The prayer thus ends on a definition. The highest outcome a believer can reach is named in the plainest terms: shielded from what harms him, and given what he hoped for.",
+            "bn": "যালিকা, অর্থাৎ 'সেটা', কোন দিকে ইঙ্গিত করছে, সা'দী সে প্রশ্ন তোলেন। উত্তরে তিনি দুটি জিনিস একসঙ্গে বলেন। এক, মন্দ থেকে রক্ষা পেয়ে ভয়ের জিনিসটা দূর হওয়া। দুই, রহমত পেয়ে প্রিয় জিনিসটা হাতে আসা। তাঁর ভাষায়, এটাই সেই সাফল্য, যার মতো আর কোনো সাফল্য নেই। প্রতিযোগীরা এর চেয়ে উত্তম কিছুর জন্য প্রতিযোগিতা করে না। এভাবে দোয়াটি শেষ হয় একটি সংজ্ঞায়। একজন মু'মিন সর্বোচ্চ যা পেতে পারে, তার নাম এখানে সবচেয়ে সহজ ভাষায়: যা ক্ষতি করে তা থেকে রক্ষা, আর যার আশা ছিল তা পাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Courtesy of the Askers",
+          "bn": "যাঁরা চাইলেন, তাঁদের আদব"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends his comment on this verse by reflecting on the whole prayer. It shows, he says, the angels' complete knowledge of their Lord, and their approach to Him through His beautiful names, the names He loves His servants to use when calling on Him, each fitting what is asked. Because they were asking for mercy, and for the removal of what a human nature, whose deficiency Allah knows, tends to bring about, they approached Him as the Merciful, the Knowing. That is the opening address of 40:7, seen from its end.",
+            "bn": "সা'দী এ আয়াতের ব্যাখ্যা শেষ করেন পুরো দোয়াটি নিয়ে ভেবে। তিনি বলেন, এতে ফুটে ওঠে রব সম্পর্কে ফেরেশতাদের পূর্ণ জ্ঞান। ফুটে ওঠে তাঁর সুন্দর নামগুলোর ওসিলায় তাঁর কাছে চাওয়া। এই নামগুলো ধরে ডাকাই আল্লাহ তাঁর বান্দাদের কাছে পছন্দ করেন, আর প্রতিটি নাম যা চাওয়া হচ্ছে তার সঙ্গে মানানসই। মানুষের স্বভাবের দুর্বলতা আল্লাহ জানেন, আর সে স্বভাব যা ঘটায় তা-ও জানেন। ফেরেশতারা চাইছিলেন রহমত, আর সেই স্বভাবের ছাপ মুছে দেওয়া। তাই তাঁরা তাঁকে ডেকেছেন রহীম ও আলীম হিসেবে। ৪০:৭ আয়াতের শুরুর সম্বোধনটাই এখানে শেষ থেকে দেখা যায়।"
+          },
+          {
+            "en": "It shows too, he goes on, their complete courtesy with Allah. They acknowledge His lordship over them, in both its general and its particular sense. They claim no share in the matter. Their prayer comes, in his words, from one who is poor in his very being in every respect, and who presumes on no state of his own before his Lord; whatever is granted is purely His favour, His generosity and His kindness. The angels, near to Him as they are, still ask as those who have nothing of their own to offer.",
+            "bn": "তিনি আরও বলেন, এতে ফুটে ওঠে আল্লাহর সঙ্গে তাঁদের পূর্ণ আদব। তাঁরা নিজেদের উপর তাঁর রুবুবিয়াত স্বীকার করেন, সাধারণ অর্থেও, বিশেষ অর্থেও। বিষয়টিতে নিজেদের কোনো ভাগ আছে বলে দাবি করেন না। সা'দীর ভাষায়, তাঁদের দোয়া আসে এমন একজনের কাছ থেকে, যে সত্তাগতভাবেই সব দিক থেকে মুখাপেক্ষী। নিজের কোনো অবস্থার জোরে সে রবের উপর দাবি খাটায় না। যা মেলে, তা কেবল তাঁর অনুগ্রহ, তাঁর দয়া আর তাঁর ইহসান। আল্লাহর এত কাছের ফেরেশতারাও চান এমনভাবে, যেন দেওয়ার মতো নিজের কিছুই তাঁদের নেই।"
+          },
+          {
+            "en": "Third, their full accord with their Lord: they love the deeds He loves, the worship they themselves perform with the effort of lovers, and the people He loves, the believers. Out of that love, as-Sa'di says, they prayed for them and strove for their good, since praying for someone is among the clearest proofs of loving him; one prays only for those one loves. He adds a point about reading. The detail Allah gives of their prayer, after the bare words they ask forgiveness for those who believe, teaches how to ponder the Book: not stopping at a word's meaning, but following it to what it requires.",
+            "bn": "তৃতীয়ত, রবের সঙ্গে তাঁদের পূর্ণ মিল। আল্লাহ যে আমল ভালোবাসেন, তাঁরা তা ভালোবাসেন। সেই ইবাদত তাঁরা নিজেরাই করেন প্রেমিকের মতো প্রাণপণে। আর আল্লাহ যাদের ভালোবাসেন, সেই মু'মিনদেরও তাঁরা ভালোবাসেন। সা'দী বলেন, এ ভালোবাসা থেকেই তাঁরা মু'মিনদের জন্য দোয়া করেছেন, তাদের কল্যাণের জন্য চেষ্টা করেছেন। কারও জন্য দোয়া করা তাকে ভালোবাসার সবচেয়ে স্পষ্ট প্রমাণগুলোর একটি, কারণ মানুষ দোয়া করে কেবল প্রিয়জনের জন্য। এরপর তিনি পড়ার ব্যাপারে একটি কথা যোগ করেন। তারা মু'মিনদের জন্য ক্ষমা চায়, এ ছোট কথাটির পর আল্লাহ তাঁদের দোয়ার যে বিস্তারিত বিবরণ দিয়েছেন, তা শেখায় কীভাবে কিতাব নিয়ে তাদাব্বুর করতে হয়। শব্দের অর্থে থেমে না গিয়ে দেখতে হয়, সে অর্থ কী কী দাবি করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truest Well-Wishers Above",
+          "bn": "ওপরে সবচেয়ে বড় কল্যাণকামী"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes his comment on this verse with a remark of Mutarrif, given with two chains. In one, Mutarrif says: We found the most sincere of servants towards servants to be the angels, and the most deceiving of servants towards servants to be the devils; and he recited, Those who bear the Throne and those around it glorify their Lord with praise. In the other: We found the most deceiving of Allah's servants towards Allah's servants to be the devils, and the most sincere to be the angels. Ibn Kathir and Ma'arif al-Qur'an carry the remark too, as the article on 40:8 sets out.",
+            "bn": "তাবারী এ আয়াতের ব্যাখ্যা শেষ করেন মুতাররিফের একটি কথা দিয়ে, দুটি সনদে। এক বর্ণনায় মুতাররিফ বলেন: আমরা দেখেছি, বান্দাদের প্রতি বান্দাদের মধ্যে সবচেয়ে বেশি কল্যাণকামী ফেরেশতারা, আর বান্দাদের সঙ্গে সবচেয়ে বেশি প্রতারণাকারী শয়তানরা। তারপর তিনি পড়েন: যারা আরশ বহন করে আর যারা তার চারপাশে আছে, তারা তাদের রবের প্রশংসাসহ তাসবীহ পাঠ করে। অন্য বর্ণনায়: আমরা দেখেছি, আল্লাহর বান্দাদের সঙ্গে সবচেয়ে বেশি প্রতারণাকারী শয়তানরা, আর সবচেয়ে বেশি কল্যাণকামী ফেরেশতারা। ইবন কাসীর আর মাআরিফুল কুরআনেও কথাটি আছে, যা ৪০:৮ আয়াতের প্রবন্ধে এসেছে।"
+          },
+          {
+            "en": "No tafsir consulted here attaches a hadith of the Prophet ﷺ to this verse in particular. The narration Ibn Kathir brings on the passage, from Sahih Muslim, about the angel's Amin when a believer prays for an absent brother, belongs to the passage as a whole and is treated with 40:8. Nor do these sources give an occasion of revelation for 40:9.",
+            "bn": "এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে আলাদাভাবে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। ইবন কাসীর পুরো অংশটির আলোচনায় সহীহ মুসলিম থেকে যে বর্ণনা আনেন, অনুপস্থিত ভাইয়ের জন্য মু'মিনের দোয়ায় ফেরেশতার আমীন বলার কথা, তা পুরো অংশের সঙ্গে সম্পর্কিত। সেটি আলোচিত হয়েছে ৪০:৮ আয়াতের সঙ্গে। এ উৎসগুলো ৪০:৯ আয়াতের কোনো শানে নুযূলও দেয় না।"
+          },
+          {
+            "en": "The verse leaves the reader with a hope and a task. The hope: a believer who has repented is being prayed for, in words Allah Himself has recorded, by angels who ask that his wrongs and what they bring not be the end of him. The task: to ask the same for oneself, and to stop adding to what needs covering. As-Sa'di, in the middle of his reflection, turns the verse into his own prayer, with its own verb, yaqina, asking Allah to protect us from the evil of our own selves, which blocks and holds back the arrival of His mercy.",
+            "bn": "আয়াতটি পাঠকের হাতে রেখে যায় একটি আশা আর একটি দায়িত্ব। আশাটা হলো: তওবাকারী মু'মিনের জন্য ফেরেশতারা দোয়া করছেন, আর সে দোয়ার কথা আল্লাহ নিজেই কুরআনে লিখে রেখেছেন। তাঁরা চাইছেন, তার গুনাহ আর গুনাহর পরিণাম যেন তার সর্বনাশ না হয়। দায়িত্বটা হলো: নিজের জন্যও একই জিনিস চাওয়া, আর যা ঢেকে দেওয়া দরকার, তার বোঝা আর না বাড়ানো। সা'দী তাঁর ভাবনার মাঝখানে আয়াতটিকে নিজের দোয়ায় পরিণত করেন, আয়াতের ক্রিয়াটি দিয়েই, ইয়াকিনা। তিনি আল্লাহর কাছে চান, তিনি যেন আমাদের নিজেদের নফসের অনিষ্ট থেকে রক্ষা করেন, যা তাঁর রহমত পৌঁছাতে বাধা দেয়, দেরি করায়।"
+          }
+        ]
+      }
+    ]
+  },
   "40:15": {
     "sections": [
       {
