@@ -25369,6 +25369,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Faith counts while it is still within reach. Believe and turn back now, not when fear forces out the words and the time for them has gone.",
     "lessonBn": "ঈমান কাজে আসে যতক্ষণ তা হাতের নাগালে থাকে। ভয় যখন মুখ দিয়ে কথাটা বের করে নেবে আর তার সময়ও পেরিয়ে যাবে, তখন নয়, এখনই ঈমান আনুন, এখনই ফিরে আসুন।"
+  },
+  "33:29": {
+    "reflectionEn": "One verse set out the world and its adornment, with a gift and a gracious parting. This one sets out the other road: if you want Allah, His Messenger and the home of the Hereafter, a great reward is prepared for the doers of good among you. The reward is not promised for a title, even the highest title a woman could hold, but for doing good. The answer came without delay, in the very words of the verse, and every one of the wives gave it. So I ask what I actually want, beneath what I say I want. When comfort and closeness to Allah pull in different directions, which way do I lean, and would I need time to decide?",
+    "reflectionBn": "আগের আয়াতে ছিল দুনিয়া আর তার জৌলুস, সঙ্গে উপহার আর সম্মানের সঙ্গে বিদায়। এ আয়াতে আরেক পথ: তোমরা যদি আল্লাহ, তাঁর রাসূল আর আখিরাতের ঘর চাও, তবে তোমাদের মধ্যে যারা সৎকর্মশীল, তাদের জন্য মহা পুরস্কার প্রস্তুত। পুরস্কারের কথা কোনো পদবির জন্য বলা হয়নি, এমনকি একজন নারী যে সর্বোচ্চ পদবি পেতে পারেন, তার জন্যও না। বলা হয়েছে সৎকর্মের জন্য। জবাব এসেছিল দেরি না করে, আয়াতেরই শব্দে, আর প্রত্যেক স্ত্রী সেই একই জবাব দিয়েছিলেন। তাই নিজেকে জিজ্ঞেস করি, মুখে যা চাই বলি, তার নিচে আসলে কী চাই? আরাম আর আল্লাহর নৈকট্য যখন দুই দিকে টানে, আমি কোন দিকে ঝুঁকি? আর সিদ্ধান্ত নিতে কি আমার সময় লাগত?",
+    "pointsEn": [
+      "If someone asked me today what I want most, would my honest answer match the three things this verse names?",
+      "Where am I relying on a name, a family or a position to carry me, when the verse ties reward to doing good?",
+      "What comfort have I asked for this year that I could have done without, for the sake of someone I love?",
+      "When a choice between ease and obedience reaches me, do I answer at once, or do I look for reasons to delay?",
+      "Whose good example could I follow this week, the way the others followed the first answer?"
+    ],
+    "pointsBn": [
+      "আজ কেউ যদি জিজ্ঞেস করে আমি সবচেয়ে বেশি কী চাই, আমার সৎ উত্তর কি এ আয়াতের নাম নেওয়া তিনটি জিনিসের সঙ্গে মিলবে?",
+      "আয়াত পুরস্কারকে বেঁধেছে সৎকর্মের সঙ্গে। অথচ কোথায় আমি নাম, বংশ বা পদের ভরসায় বসে আছি?",
+      "এ বছর কোন আরামটা চেয়েছি, যা প্রিয় কারও খাতিরে না চাইলেও চলত?",
+      "আরাম আর আনুগত্যের মধ্যে বেছে নেওয়ার মুহূর্ত এলে আমি কি সঙ্গে সঙ্গে জবাব দিই, নাকি দেরি করার অজুহাত খুঁজি?",
+      "প্রথম জবাবটি যেভাবে অন্যরা অনুসরণ করেছিলেন, এ সপ্তাহে আমি কার ভালো দৃষ্টান্ত অনুসরণ করতে পারি?"
+    ],
+    "lessonEn": "Let Allah, His Messenger and the Hereafter be what you truly want, and remember that the reward is tied to doing good, not to any name or rank.",
+    "lessonBn": "আল্লাহ, তাঁর রাসূল আর আখিরাতকেই আপনার আসল চাওয়া বানান, আর মনে রাখুন, পুরস্কার বাঁধা সৎকর্মের সঙ্গে, কোনো নাম বা পদের সঙ্গে নয়।"
   }
 };
 

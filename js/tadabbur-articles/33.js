@@ -1031,6 +1031,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Second Condition",
+          "bn": "দ্বিতীয় শর্তটি"
+        },
+        "p": [
+          {
+            "en": "Wa-in kuntunna turidna Allaha wa-rasulahu wa-d-dara al-akhirah: and if you desire Allah and His Messenger and the home of the Hereafter. The verse opens with the same frame as 33:28, in kuntunna turidna, if you desire, so the two conditions stand side by side and the wives hear both before they answer. This verse is the half that every one of them chose.",
+            "bn": "ওয়া ইন কুনতুন্না তুরিদনাল্লাহা ওয়া রাসূলাহু ওয়াদ্দারাল আখিরাহ: আর তোমরা যদি আল্লাহ, তাঁর রাসূল ও আখিরাতের ঘর চাও। আয়াতটি শুরু হয়েছে ৩৩:২৮-এর হুবহু একই কাঠামোয়, ইন কুনতুন্না তুরিদনা, যদি তোমরা চাও। ফলে দুটি শর্ত পাশাপাশি দাঁড়ায়, আর জবাব দেওয়ার আগে স্ত্রীগণ দুটিই শুনে নেন। এ আয়াত সেই দিকের কথা, যা তাঁদের প্রত্যেকে বেছে নিয়েছিলেন।"
+          },
+          {
+            "en": "Against the world the verse sets not poverty or hardship, but three things joined under one verb: Allah, His Messenger, and the home of the Hereafter. Ibn Kathir describes this side of the choice as patience with the narrowness of the Prophet's circumstances, for which there is abundant reward with Allah. The verse itself names no hardship at all; it names whom they would be choosing. The verses that follow, 33:30 and 33:31, then address the wives as a household whose deeds weigh double, in warning and in reward.",
+            "bn": "দুনিয়ার বিপরীতে আয়াত দারিদ্র্য বা কষ্ট রাখেনি, রেখেছে একটি ক্রিয়ার নিচে তিনটি জিনিস: আল্লাহ, তাঁর রাসূল আর আখিরাতের ঘর। ইবন কাসীর এ দিকটিকে বলেন নবী ﷺ-এর অভাবের সংসারে ধৈর্য ধরে থাকা, যার জন্য আল্লাহর কাছে আছে বিপুল সওয়াব। কিন্তু আয়াত নিজে কোনো কষ্টের নামই নেয়নি। নাম নিয়েছে তাঁদের, যাঁদের তাঁরা বেছে নিচ্ছেন। এরপর ৩৩:৩০ ও ৩৩:৩১ আয়াত স্ত্রীগণকে সম্বোধন করে এমন এক পরিবার হিসেবে, যাঁদের আমলের ওজন দ্বিগুণ, সতর্কবাণীতেও, পুরস্কারেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wanting Allah Himself",
+          "bn": "চাওয়া যখন আল্লাহকেই"
+        },
+        "p": [
+          {
+            "en": "What does it mean to desire Allah? At-Tabari answers in one line: if you desire the pleasure of Allah and the pleasure of His Messenger, and obedience to them both, then obey them. Al-Muyassar gives the same three objects, the pleasure of Allah, the pleasure of His Messenger, and what Allah has prepared for them in the home of the Hereafter, and then states what that desire asks of them: be patient with the state you are in, and obey Allah and His Messenger. For neither is the wanting a mere feeling.",
+            "bn": "আল্লাহকে চাওয়ার মানে কী? তাবারী এক বাক্যে উত্তর দেন: তোমরা যদি আল্লাহর সন্তুষ্টি, তাঁর রাসূলের সন্তুষ্টি আর তাঁদের দুজনের আনুগত্য চাও, তবে তাঁদের আনুগত্য করো। মুয়াসসারও একই তিনটি জিনিসের নাম নেয়: আল্লাহর সন্তুষ্টি, রাসূলের সন্তুষ্টি, আর আখিরাতের ঘরে আল্লাহ তাঁদের জন্য যা প্রস্তুত রেখেছেন। তারপর বলে দেয় এ চাওয়া তাঁদের কাছে কী দাবি করে: যে অবস্থায় আছ, তাতে ধৈর্য ধরো, আর আল্লাহ ও তাঁর রাসূলের আনুগত্য করো। দুজনের কারও কাছেই এ চাওয়া শুধু মনের অনুভূতি নয়।"
+          },
+          {
+            "en": "As-Sa'di reads the verb as naming a final aim: these things are what you want, and the furthest end of your purpose. Once Allah, His Messenger and Paradise are yours, he says, you would not mind whether the world is wide or narrow, easy or hard. You would be content with whatever came easily from the Messenger of Allah, and would not ask of him what weighs on him. On this reading the size of the provision stops being the question.",
+            "bn": "সা'দী ক্রিয়াটিকে পড়েন চূড়ান্ত লক্ষ্যের নাম হিসেবে: এগুলোই তোমাদের চাওয়া, তোমাদের উদ্দেশ্যের শেষ সীমা। তিনি বলেন, আল্লাহ, তাঁর রাসূল আর জান্নাত যখন তোমাদের হয়ে যায়, তখন দুনিয়া প্রশস্ত না সংকীর্ণ, সহজ না কঠিন, তাতে তোমাদের কিছু যায় আসে না। রাসূলুল্লাহ ﷺ-এর কাছ থেকে সহজে যা আসে, তাতেই তোমরা তুষ্ট থাকবে, আর তাঁর কাছে এমন কিছু চাইবে না, যা তাঁর জন্য ভারী। এ পাঠে বরাদ্দ কতটুকু, সে প্রশ্নই আর থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reward Named for Doing Good",
+          "bn": "পুরস্কারের শর্ত সৎকর্ম"
+        },
+        "p": [
+          {
+            "en": "Then the promise: fa-inna Allaha a'adda lil-muhsinati minkunna ajran 'aziman, then Allah has prepared for the doers of good among you a great reward. At-Tabari glosses al-muhsinat as those of them who act by the command of Allah and the command of His Messenger. The verb a'adda, has prepared, is in the past tense, so the reward is spoken of as already made ready. What lies beyond their choice is already set aside.",
+            "bn": "তারপর প্রতিশ্রুতি: ফাইন্নাল্লাহা আআদ্দা লিলমুহসিনাতি মিনকুন্না আজরান আযীমা, তবে তোমাদের মধ্যে যারা সৎকর্মশীল, আল্লাহ তাদের জন্য মহা পুরস্কার প্রস্তুত রেখেছেন। তাবারী মুহসিনাতের ব্যাখ্যা দেন: তাঁদের মধ্যে যাঁরা আল্লাহর আদেশ ও তাঁর রাসূলের আদেশ মেনে আমল করেন। আআদ্দা, প্রস্তুত রেখেছেন, অতীত কালের ক্রিয়া। অর্থাৎ পুরস্কারের কথা বলা হচ্ছে আগে থেকেই তৈরি করে রাখা জিনিস হিসেবে। সিদ্ধান্তের ওপারে যা আছে, তা আগেই তুলে রাখা।"
+          },
+          {
+            "en": "As-Sa'di notices where the reward is attached. Allah set it upon their being described by ihsan, he says, because that is the cause that calls for it, and not upon their being the Messenger's wives; that alone does not suffice, and without ihsan it would benefit nothing. He adds at once that all of them chose Allah, His Messenger and the home of the Hereafter, and not one stayed behind. This casts no doubt on them; even the highest honour rests on deeds, and the same words, ajran 'aziman, close 33:35 for every believing man and woman.",
+            "bn": "পুরস্কারটা কিসের সঙ্গে বাঁধা, সা'দী সেদিকে নজর দেন। তিনি বলেন, আল্লাহ পুরস্কার রেখেছেন তাঁদের ইহসানের গুণের উপর, কারণ সেটাই পুরস্কারের আসল কারণ। রাসূলের স্ত্রী হওয়ার উপর রাখেননি। শুধু স্ত্রী হওয়া যথেষ্ট নয়, ইহসান না থাকলে তাতে কোনো লাভই হতো না। সঙ্গে সঙ্গেই তিনি যোগ করেন, তাঁরা সবাই আল্লাহ, তাঁর রাসূল ও আখিরাতের ঘর বেছে নিয়েছিলেন, একজনও পিছিয়ে থাকেননি। এতে তাঁদের কারও প্রতি সন্দেহ নেই। সর্বোচ্চ মর্যাদাও দাঁড়িয়ে থাকে আমলের উপর। আর একই শব্দ, আজরান আযীমা, ৩৩:৩৫ আয়াতের শেষে এসেছে প্রত্যেক মু'মিন পুরুষ ও নারীর জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Her Reply as Muslim Records",
+          "bn": "মুসলিমের বর্ণনায় তাঁর উত্তর"
+        },
+        "p": [
+          {
+            "en": "Muslim records Aishah's account in his Sahih (1475), and in his wording, given here alone, the Prophet ﷺ recites this verse in full. Aishah said: 'When the Messenger of Allah ﷺ was commanded to give his wives the choice, he began with me and said: I am going to mention a matter to you, and there is no blame on you if you do not hasten until you have consulted your parents. She said: He knew that my parents would never tell me to leave him. She said: Then he said:'",
+            "bn": "মুসলিম তাঁর সহীহ গ্রন্থে (১৪৭৫) আয়িশা (রাঃ)-এর বর্ণনাটি এনেছেন। তাঁর শব্দে নবী ﷺ এ আয়াতটি পুরোটা তিলাওয়াত করেন, তাই এখানে শুধু সেই শব্দই দেওয়া হলো। আয়িশা (রাঃ) বলেন: 'রাসূলুল্লাহ ﷺ-কে যখন তাঁর স্ত্রীদের ইখতিয়ার দেওয়ার আদেশ দেওয়া হলো, তিনি আমাকে দিয়ে শুরু করলেন। বললেন: আমি তোমাকে একটা বিষয় বলব। তোমার বাবা-মায়ের সঙ্গে পরামর্শ না করা পর্যন্ত তাড়াহুড়া না করলে তোমার কোনো দোষ নেই। তিনি বলেন: তিনি জানতেন, আমার বাবা-মা কখনো আমাকে তাঁকে ছেড়ে যেতে বলবেন না। তিনি বলেন: তারপর তিনি বললেন,'"
+          },
+          {
+            "en": "'Allah, Mighty and Majestic, has said: O Prophet, say to your wives, If you desire the life of this world and its adornment, then come, I will provide for you and release you with a gracious release. And if you desire Allah and His Messenger and the home of the Hereafter, then Allah has prepared for the doers of good among you a great reward. She said: So I said: About which of this should I consult my parents? For I desire Allah and His Messenger and the home of the Hereafter. She said: Then the wives of the Messenger of Allah ﷺ did as I had done.'",
+            "bn": "'মহান ও মহিমান্বিত আল্লাহ বলেছেন: হে নবী, তোমার স্ত্রীদের বলো, তোমরা যদি দুনিয়ার জীবন ও তার জৌলুস চাও, তবে এসো, আমি তোমাদের ভোগসামগ্রী দিই আর সুন্দরভাবে বিদায় দিই। আর যদি তোমরা আল্লাহ, তাঁর রাসূল ও আখিরাতের ঘর চাও, তবে তোমাদের মধ্যে যারা সৎকর্মশীল, আল্লাহ তাদের জন্য মহা পুরস্কার প্রস্তুত রেখেছেন। তিনি বলেন: আমি বললাম, এর কোন ব্যাপারে আমি বাবা-মায়ের পরামর্শ নেব? আমি তো আল্লাহ, তাঁর রাসূল ও আখিরাতের ঘরই চাই। তিনি বলেন: তারপর রাসূলুল্লাহ ﷺ-এর স্ত্রীগণ আমার মতোই করলেন।'"
+          },
+          {
+            "en": "Notice the shape of her reply: fa-inni uridu Allaha wa-rasulahu wa-d-dara al-akhirah. She answered in the verse's own words, turning turidna, you desire, into uridu, I desire, and adding nothing to the three things it names. At-Tabari's other routes vary slightly; in one she says she will not consult her parents, Abu Bakr and Umm Ruman, over it, and the Prophet ﷺ laughed. The reply was not a negotiation. It was the verse, returned to the one who recited it.",
+            "bn": "তাঁর উত্তরের গড়নটা খেয়াল করুন: ফাইন্নী উরীদুল্লাহা ওয়া রাসূলাহু ওয়াদ্দারাল আখিরাহ। তিনি জবাব দিয়েছেন আয়াতেরই শব্দে। তুরিদনা, তোমরা চাও, হয়ে গেল উরীদু, আমি চাই। আয়াত যে তিনটি জিনিসের নাম নিয়েছে, তার সঙ্গে তিনি কিছুই যোগ করেননি। তাবারীর অন্য সূত্রগুলোতে শব্দ সামান্য আলাদা। একটি বর্ণনায় তিনি বলেন, এ ব্যাপারে তিনি তাঁর বাবা-মা আবু বকর ও উম্মে রূমানের পরামর্শ নেবেন না, আর তাতে নবী ﷺ হেসে ফেলেন। এ উত্তর কোনো দর কষাকষি ছিল না। যিনি আয়াত পড়ে শোনালেন, আয়াতটিই তাঁকে ফিরিয়ে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Answer From Every Room",
+          "bn": "প্রতিটি ঘর থেকে একই উত্তর"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and Ibn Kathir carry reports of how the others answered. In one route from Abu Salamah, after Aishah's reply the Prophet ﷺ went round the rooms, saying that Aishah had said such and such, and they said: we say what Aishah said. Qatadah, in at-Tabari, says that he began with Aishah, the most beloved of them to him, and when she chose Allah, His Messenger and the home of the Hereafter, joy was seen in the face of the Messenger of Allah ﷺ, and the others followed one after another.",
+            "bn": "অন্যরা কীভাবে উত্তর দিলেন, তা এসেছে তাবারী ও ইবন কাসীরের আনা বর্ণনায়। আবু সালামার এক সূত্রে আছে, আয়িশা (রাঃ)-এর উত্তরের পর নবী ﷺ একে একে কামরাগুলোতে গেলেন আর বললেন, আয়িশা এমন এমন বলেছে। তাঁরা বললেন: আয়িশা যা বলেছে, আমরাও তা-ই বলি। তাবারীতে কাতাদা বলেন, তিনি শুরু করেছিলেন আয়িশা (রাঃ)-কে দিয়ে, যিনি ছিলেন তাঁর সবচেয়ে প্রিয়। তিনি যখন আল্লাহ, তাঁর রাসূল ও আখিরাতের ঘর বেছে নিলেন, রাসূলুল্লাহ ﷺ-এর চেহারায় আনন্দ দেখা গেল। তারপর বাকিরা একের পর এক একই পথে এলেন।"
+          },
+          {
+            "en": "The reports name the nine who were with him then. At-Tabari from Ikrimah and from Qatadah, and al-Baghawi, list five of Quraysh, Aishah, Hafsah, Umm Habibah, Sawdah and Umm Salamah, and with them Safiyyah bint Huyayy, Maymunah bint al-Harith, Zaynab bint Jahsh and Juwayriyah bint al-Harith. Ibn Kathir counts it among Aishah's distinctions that the rest of his wives took her as their example and said as she had said. None is lessened by it: in at-Tabari's report each heard the verses recited to her in turn and gave the same answer.",
+            "bn": "সে সময় যে ৯ জন তাঁর সঙ্গে ছিলেন, বর্ণনাগুলো তাঁদের নাম বলে। তাবারী ইকরিমা ও কাতাদা থেকে, আর বাগাভী, কুরাইশের পাঁচজনের নাম দেন: আয়িশা, হাফসা, উম্মে হাবীবা, সাওদা ও উম্মে সালামা। তাঁদের সঙ্গে সাফিয়্যা বিনতে হুয়াই, মাইমূনা বিনতে হারিস, যাইনাব বিনতে জাহশ ও জুওয়াইরিয়া বিনতে হারিস (রাঃ)। ইবন কাসীর আয়িশা (রাঃ)-এর বৈশিষ্ট্যের মধ্যে গণ্য করেন যে বাকি স্ত্রীগণ তাঁকে দৃষ্টান্ত হিসেবে নিলেন আর তিনি যা বলেছিলেন, তা-ই বললেন। এতে কারও মর্যাদা কমে না। তাবারীর বর্ণনায় প্রত্যেককে আলাদা করে আয়াত পড়ে শোনানো হয়, আর প্রত্যেকে একই উত্তর দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Choice Allah Thanked",
+          "bn": "যে সিদ্ধান্তের কদর করলেন আল্লাহ"
+        },
+        "p": [
+          {
+            "en": "Qatadah, from al-Hasan in at-Tabari and in his own words in al-Baghawi, says that when they chose Allah and His Messenger, Allah thanked them for it and revealed: 'It is not lawful for you to take women after this, nor to exchange them for other wives, even if their beauty pleases you' (33:52). He restricted him to them, at-Tabari's report adds, and they were the nine who had chosen Allah and His Messenger. Revelation, on this reading, answered their choice.",
+            "bn": "কাতাদা, তাবারীতে হাসান থেকে আর বাগাভীতে নিজের কথায়, বলেন: তাঁরা যখন আল্লাহ ও তাঁর রাসূলকে বেছে নিলেন, আল্লাহ এর জন্য তাঁদের প্রতি কৃতজ্ঞতা জানালেন এবং নাযিল করলেন: 'এরপর তোমার জন্য আর কোনো নারী হালাল নয়, তাঁদের বদলে অন্য স্ত্রী গ্রহণও নয়, যদিও তাদের সৌন্দর্য তোমাকে মুগ্ধ করে' (৩৩:৫২)। তাবারীর বর্ণনা যোগ করে, আল্লাহ তাঁকে তাঁদের মধ্যেই সীমিত করে দিলেন, আর তাঁরা সেই ৯ জন, যাঁরা আল্লাহ ও তাঁর রাসূলকে বেছে নিয়েছিলেন। এ পাঠে তাঁদের সিদ্ধান্তের জবাব দিয়েছে ওহি নিজে।"
+          },
+          {
+            "en": "Ibn Kathir says that after this Allah joined for them the good of this world and the happiness of the Hereafter. By this choice, as-Sa'di says, they were made ready for the best degrees of Paradise, and to be his wives in this world and the next; the choice became a cause for their reward to grow and be multiplied, and for a rank no other women share. For this reason, he says, the verses after it follow, where 33:31 promises that whoever of them obeys Allah and His Messenger and does good will be given her reward twice.",
+            "bn": "ইবন কাসীর বলেন, এরপর আল্লাহ তাঁদের জন্য দুনিয়ার কল্যাণ আর আখিরাতের সৌভাগ্য একসঙ্গে মিলিয়ে দিলেন। সা'দীর মতে এ সিদ্ধান্তের মধ্য দিয়ে তাঁরা জান্নাতের শ্রেষ্ঠ স্তরের জন্য প্রস্তুত হলেন, দুনিয়া ও আখিরাত দুই জায়গাতেই তাঁর স্ত্রী থাকার জন্যও। এ সিদ্ধান্ত হলো তাঁদের সওয়াব বেড়ে বহুগুণ হওয়ার কারণ, আর এমন এক মর্যাদার কারণ, যা অন্য কোনো নারীর নেই। তিনি বলেন, এ জন্যই পরের আয়াতগুলো এসেছে। সেখানে ৩৩:৩১ প্রতিশ্রুতি দেয়, তাঁদের মধ্যে যে আল্লাহ ও তাঁর রাসূলের অনুগত থাকবে আর সৎকাজ করবে, তাকে দ্বিগুণ পুরস্কার দেওয়া হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Choice Secured",
+          "bn": "এ ইখতিয়ারে যা সুরক্ষিত হলো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di lists many benefits in this choice. One is Allah's care for His Messenger, sparing him the weight of his wives' many worldly requests. Another is that it freed him from the burden of their claims, giving if he wished and withholding if he wished; here he cites 33:38, that there is no blame upon the Prophet in what Allah has ordained for him. A third is that it kept his household clear of any wife who might put the world before Allah, His Messenger and the Hereafter.",
+            "bn": "সা'দী এ ইখতিয়ারের অনেকগুলো উপকার গুনে দেখান। একটি হলো তাঁর রাসূলের প্রতি আল্লাহর যত্ন। স্ত্রীদের অনেক দুনিয়াবি চাওয়ার ভার থেকে আল্লাহ তাঁকে রেহাই দিলেন। আরেকটি হলো, তাঁদের পাওনার দায় থেকে তিনি মুক্ত হলেন, ইচ্ছা হলে দেবেন, ইচ্ছা হলে দেবেন না। এখানে সা'দী ৩৩:৩৮ আয়াত উদ্ধৃত করেন: আল্লাহ নবীর জন্য যা নির্ধারণ করেছেন, তাতে তাঁর কোনো দোষ নেই। তৃতীয়টি হলো, দুনিয়াকে আল্লাহ, তাঁর রাসূল ও আখিরাতের উপরে রাখবে, এমন কোনো স্ত্রী থেকে তাঁর ঘর মুক্ত রইল।"
+          },
+          {
+            "en": "Other benefits concern the wives themselves. As-Sa'di says the choice kept them safe from sin and from exposure to the displeasure of Allah and His Messenger, cutting off any discontent before it could take root. It showed their high standing and the height of their aims, since Allah, His Messenger and the Hereafter were what they wanted, rather than the world and its debris. And it called them to contentment, in which the heart is settled and the chest opened, and the greed of craving falls away.",
+            "bn": "অন্য উপকারগুলো স্ত্রীগণের নিজেদের। সা'দী বলেন, এ ইখতিয়ার তাঁদের গুনাহ থেকে আর আল্লাহ ও তাঁর রাসূলের অসন্তুষ্টির মুখে পড়া থেকে রক্ষা করল। কোনো অসন্তোষ শিকড় গাড়ার আগেই তা কেটে দিল। এতে প্রকাশ পেল তাঁদের উঁচু মর্যাদা আর উঁচু লক্ষ্য, কারণ তাঁদের চাওয়া ছিল আল্লাহ, তাঁর রাসূল ও আখিরাত, দুনিয়া আর তার তুচ্ছ সামগ্রী নয়। আর এটি তাঁদের ডাকল অল্পে তুষ্টির দিকে। সেই তুষ্টিতে মন স্থির হয়, বুক খুলে যায়, আর লোভের অস্থির তাড়না ঝরে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Was Choosing Him a Divorce?",
+          "bn": "তাঁকে বেছে নেওয়া কি তালাক?"
+        },
+        "p": [
+          {
+            "en": "What happened to the wives themselves Aishah states plainly. Al-Bukhari (5262) records from Masruq that she said: 'The Messenger of Allah ﷺ gave us the choice, and we chose Allah and His Messenger, and he did not count that against us as anything.' Al-Baghawi cites the same narration through al-Bukhari's chain. Their marriages went on exactly as before. The jurists' long differences concern the wider law of a husband who gives his wife such a choice; only an outline belongs here.",
+            "bn": "স্ত্রীগণের নিজেদের বেলায় কী ঘটেছিল, আয়িশা (রাঃ) তা পরিষ্কার বলে দিয়েছেন। বুখারী (৫২৬২) মাসরূক থেকে বর্ণনা করেন, তিনি বলেছেন: 'রাসূলুল্লাহ ﷺ আমাদের ইখতিয়ার দিয়েছিলেন, আমরা আল্লাহ ও তাঁর রাসূলকে বেছে নিয়েছিলাম, আর তিনি সেটাকে আমাদের বিপক্ষে কিছুই গণ্য করেননি।' বাগাভী বুখারীর সনদেই একই বর্ণনা আনেন। তাঁদের বিয়ে যেমন ছিল তেমনই রইল। তাফসীরকারেরা বিস্তারিত যে মতভেদ লিখেছেন, তা আরও বড় একটি বিধান নিয়ে: কোনো স্বামী যদি স্ত্রীকে এ ধরনের ইখতিয়ার দেন। এখানে তার শুধু একটা রূপরেখাই আসবে।"
+          },
+          {
+            "en": "First, what kind of choice was this? Al-Baghawi reports that al-Hasan, Qatadah and most scholars held it was not a handing over of divorce to the wives, only a promise that he would part from them if they chose the world; their sign is that he told Aishah not to hasten, while a delegated divorce calls for an answer on the spot. Others held that it was, so that choosing themselves would have been a divorce. Ma'arif al-Qur'an cites Bayan ul-Qur'an: the verse bears both, and that neither need be fixed without a decisive text.",
+            "bn": "প্রথম প্রশ্ন, এটি কোন ধরনের ইখতিয়ার ছিল। বাগাভী জানান, হাসান, কাতাদা ও অধিকাংশ আলিমের মতে এটি স্ত্রীদের হাতে তালাকের ক্ষমতা তুলে দেওয়া ছিল না। এটি ছিল শুধু এ প্রতিশ্রুতি যে তাঁরা দুনিয়া বেছে নিলে তিনি তাঁদের থেকে আলাদা হয়ে যাবেন। তাঁদের দলিল, তিনি আয়িশা (রাঃ)-কে তাড়াহুড়া করতে নিষেধ করেছিলেন, অথচ তালাকের ক্ষমতা অর্পণ করলে উত্তর দিতে হয় তখনই। অন্যদের মতে এটি সেই অর্পণই ছিল, ফলে নিজেদের বেছে নিলে তালাক হয়ে যেত। মাআরিফুল কুরআন বায়ানুল কুরআনের লেখকের কথা আনে: আয়াতে দুই সম্ভাবনাই আছে, আর অকাট্য দলিল ছাড়া কোনোটি নির্দিষ্ট করার দরকার নেই।"
+          },
+          {
+            "en": "Second, what if a wife given such a choice chooses her husband? Al-Qurtubi reports that the majority of the early authorities and the jurists held that no divorce falls at all, the view of Umar, Ali, Ibn Mas'ud, Zayd ibn Thabit, Ibn Abbas and Aishah; it is also reported from Ali and Zayd that it counts as one final divorce, the view of al-Hasan al-Basri and al-Layth. Al-Baghawi likewise gives the first as the view of most scholars. Both record further differences over a wife who chooses herself. This article gives no ruling; a reader facing the question should ask a qualified scholar.",
+            "bn": "দ্বিতীয় প্রশ্ন, এমন ইখতিয়ার পেয়ে স্ত্রী যদি স্বামীকেই বেছে নেন, তখন কী হয়। কুরতুবী জানান, পূর্বসূরিদের ও ফকীহদের অধিকাংশের মতে তখন কোনো তালাকই হয় না। এ মত উমর, আলী, ইবন মাসঊদ, যায়দ ইবন সাবিত, ইবন আব্বাস ও আয়িশা (রাঃ)-এর। আলী ও যায়দ থেকে এ কথাও বর্ণিত যে তা এক বায়েন তালাক গণ্য হবে, আর এ মত হাসান বসরী ও লাইসের। বাগাভীও প্রথম মতটিকে অধিকাংশ আলিমের মত বলেন। যে স্ত্রী নিজেকে বেছে নেন, তাঁর ব্যাপারে দুজনেই আরও মতভেদ লিখেছেন। এ প্রবন্ধ কোনো ফয়সালা দেয় না। যাঁর সামনে এ প্রশ্ন আছে, তিনি একজন যোগ্য আলিমের কাছে জিজ্ঞেস করবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Wanting Beneath the Words",
+          "bn": "কথার নিচের আসল চাওয়া"
+        },
+        "p": [
+          {
+            "en": "This verse was spoken to one household, at one moment, under revelation. Nothing in it faults the wives for having asked; the commentators who record the request also record that every one of them chose as the verse invites, and was thanked for it. It gives no licence to speak of the Mothers of the Believers with anything but honour, and no licence to turn this offer into a threat inside a marriage.",
+            "bn": "এ আয়াত বলা হয়েছিল একটি পরিবারকে, একটি নির্দিষ্ট মুহূর্তে, ওহির মাধ্যমে। স্ত্রীগণ যে কিছু চেয়েছিলেন, তার জন্য আয়াত তাঁদের দোষ দেয় না। যে তাফসীরকারেরা সেই চাওয়ার কথা লিখেছেন, তাঁরাই লিখেছেন যে তাঁদের প্রত্যেকে এ আয়াতের আহ্বান মেনে বেছে নিয়েছিলেন, আর আল্লাহ এর জন্য তাঁদের কদর করেছেন। মু'মিনদের মায়েদের কথা সম্মান ছাড়া অন্যভাবে বলার কোনো অনুমতি এ আয়াত দেয় না। দাম্পত্যের ভেতরে এ প্রস্তাবকে হুমকি বানানোরও কোনো অনুমতি দেয় না।"
+          },
+          {
+            "en": "For the reader the verse leaves a question about wanting rather than doing. As-Sa'di called these three things the furthest end of their purpose, and every life has some such end, whether or not it is ever said aloud. The verse names the one worth having, and it ties the reward to doing good, so that no one is carried by a name or a place. Aishah's answer shows what it looks like when that end is already settled: there was nothing to consult about, and no time was needed to decide.",
+            "bn": "পাঠকের জন্য আয়াতটি একটা প্রশ্ন রেখে যায়, কাজ নিয়ে নয়, চাওয়া নিয়ে। সা'দী এই তিনটি জিনিসকে বলেছেন তাঁদের উদ্দেশ্যের শেষ সীমা। প্রত্যেক জীবনেরই এমন একটা শেষ সীমা থাকে, মুখে বলা হোক বা না হোক। আয়াত সেই লক্ষ্যের নাম বলে দেয়, যা পাওয়ার মতো। আর পুরস্কারকে বাঁধে সৎকর্মের সঙ্গে, যাতে কেউ শুধু নাম বা অবস্থানের জোরে পার না পায়। আয়িশা (রাঃ)-এর উত্তর দেখায়, লক্ষ্যটা আগে থেকেই স্থির থাকলে কেমন হয়: পরামর্শ করার কিছু ছিল না, সিদ্ধান্ত নিতে সময়ও লাগেনি।"
+          }
+        ]
+      }
+    ]
+  },
   "33:35": {
     "sections": [
       {
