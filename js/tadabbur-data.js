@@ -26789,6 +26789,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Feeling guided is not proof of guidance: keep measuring your own road against Allah's reminder, and use this verse to examine yourself, never to brand others.",
     "lessonBn": "হিদায়াতের উপর আছি, এই অনুভূতি হিদায়াতের প্রমাণ নয়। নিজের পথ বারবার আল্লাহর উপদেশের সাথে মিলিয়ে দেখুন, আর এ আয়াত দিয়ে নিজেকে যাচাই করুন, অন্যের গায়ে তকমা লাগাতে নয়।"
+  },
+  "43:26": {
+    "reflectionEn": "The argument just before this verse ran: we found our fathers on a way, and we walk in their footsteps. So the Qur'an turns to the most honoured father of them all. Ibrahim stands before his own father and his own people and says: I am free of what you worship, except the One who created me, for He will guide me. He does not leave his family; he leaves what it worships. And his break is never left empty. Its other half is one attachment, to the One who made him, and a calm certainty that the Maker is also the Guide. What do I hold on to only because I found it held? And who is the One I would never let go?",
+    "reflectionBn": "এ আয়াতের ঠিক আগে কাফেরদের যুক্তি ছিল: আমরা বাপদাদাকে এক পথে পেয়েছি, আমরা তাদেরই পায়ের ছাপ ধরে চলি। তখন কুরআন ফিরে তাকায় তাদের সবচেয়ে সম্মানিত পূর্বপুরুষের দিকে। ইবরাহীম (আঃ) নিজের পিতা আর নিজের জাতির সামনে দাঁড়িয়ে বলেন: তোমরা যার ইবাদত কর, তা থেকে আমি মুক্ত, শুধু তিনি ছাড়া যিনি আমাকে সৃষ্টি করেছেন, তিনিই আমাকে পথ দেখাবেন। তিনি পরিবার ছাড়েননি, ছেড়েছেন তাদের উপাস্যগুলো। আর এই বিচ্ছেদ ফাঁকা থাকেনি। তার অন্য অর্ধেক হলো একটিমাত্র বন্ধন, সেই সত্তার সঙ্গে যিনি তাঁকে বানিয়েছেন। সঙ্গে শান্ত এক বিশ্বাস: যিনি সৃষ্টি করেছেন, পথও তিনিই দেখাবেন। আমি কোন জিনিস আঁকড়ে আছি শুধু এ কারণে যে চারপাশে সবাইকে তা আঁকড়ে থাকতে দেখেছি? আর কোন সত্তাকে আমি কখনোই ছাড়ব না?",
+    "pointsEn": [
+      "Is there something I keep doing only because I found it around me, without ever asking whether Allah sent down any authority for it?",
+      "Ibrahim's refusal came joined to an attachment. When I turn away from something false, what exactly am I turning towards?",
+      "Do I trust that the One who made me will also guide me, or do I act as if guidance rests on my cleverness alone?",
+      "Where might my silence be taken as agreement with something I know to be false?",
+      "What word do I hope will remain in those who come after me?"
+    ],
+    "pointsBn": [
+      "এমন কিছু কি আছে যা আমি করে যাচ্ছি শুধু চারপাশে দেখে এসেছি বলে, অথচ কখনো খুঁজে দেখিনি আল্লাহ এর পক্ষে কোনো দলিল নাযিল করেছেন কি না?",
+      "ইবরাহীম (আঃ)-এর অস্বীকারের সঙ্গে জোড়া ছিল এক বন্ধন। আমি যখন কোনো মিথ্যা থেকে মুখ ফেরাই, ঠিক কার দিকে মুখ ফেরাই?",
+      "যিনি আমাকে বানিয়েছেন, তিনিই পথ দেখাবেন, এ ভরসা কি আমার আছে? নাকি আমি এমনভাবে চলি যেন হিদায়াত শুধু আমার বুদ্ধির উপর নির্ভর করে?",
+      "কোথায় আমার চুপ থাকাকে এমন কিছুর প্রতি সম্মতি ধরে নেওয়া হতে পারে, যাকে আমি মিথ্যা বলে জানি?",
+      "আমার পরে যারা আসবে, তাদের মাঝে কোন কথাটি টিকে থাকুক বলে আমি আশা করি?"
+    ],
+    "lessonEn": "Free your worship of everything besides Allah, and hold fast to the One who created you, trusting that He who made you will also guide you.",
+    "lessonBn": "আল্লাহ ছাড়া আর সবকিছু থেকে নিজের ইবাদতকে মুক্ত রাখুন, আর যিনি আপনাকে সৃষ্টি করেছেন তাঁকেই আঁকড়ে ধরুন, এই ভরসায় যে যিনি বানিয়েছেন তিনিই পথ দেখাবেন।"
   }
 };
 

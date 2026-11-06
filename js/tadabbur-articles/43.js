@@ -1051,6 +1051,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:26": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Forefather Brought Forward",
+          "bn": "সামনে আনা হলো পূর্বপুরুষকে"
+        },
+        "p": [
+          {
+            "en": "The verse does not arrive out of nowhere. From 43:22 the people of Makkah have one answer to the call: we found our fathers upon a way, and in their footsteps we are guided. 43:23 says the affluent of every earlier town said the same, 43:24 has the warner ask whether they would hold to it even against better guidance, and 43:25 ends on the fate of the deniers. Then comes wa-idh qala Ibrahim, and when Ibrahim said. The Muyassar reads it as an address to the Messenger: mention, O Messenger, when Ibrahim said this.",
+            "bn": "আয়াতটি হঠাৎ করে আসেনি। ৪৩:২২ থেকেই মক্কার লোকদের দাওয়াতের জবাব একটাই: আমরা বাপদাদাকে এক পথের উপর পেয়েছি, তাদের পায়ের ছাপ ধরেই আমরা হিদায়াতপ্রাপ্ত। ৪৩:২৩ জানায়, আগের প্রতিটি জনপদের বিত্তশালীরাও একই কথা বলেছিল। ৪৩:২৪ আয়াতে সতর্ককারী জিজ্ঞেস করেন, এর চেয়ে ভালো হিদায়াত নিয়ে এলেও কি তোমরা ওটাই আঁকড়ে থাকবে? আর ৪৩:২৫ শেষ হয় মিথ্যারোপকারীদের পরিণতিতে। এরপরই আসে ওয়া ইয কালা ইবরাহীম: আর যখন ইবরাহীম বলেছিলেন। মুয়াসসার একে রাসূলের প্রতি সম্বোধন হিসেবে পড়ে: হে রাসূল, স্মরণ করুন, যখন ইবরাহীম এ কথা বলেছিলেন।"
+          },
+          {
+            "en": "At-Tabari and the Muyassar both describe Ibrahim's father and people as those who worshipped what the Prophet's own people worshipped, and at-Tabari reads the verse into the pattern just set out: they denied him, so We took retribution from them as from the nations before them who denied their messengers. Ibn Kathir names why this ancestor is brought forward: Quraysh traced to him both their lineage and their way of religion. As-Sa'di widens the circle to the People of the Book and the idolaters, each claiming to be on his path. The appeal to fathers is answered with a father.",
+            "bn": "তাবারী ও মুয়াসসার দুজনেই বলেন, ইবরাহীম (আঃ)-এর পিতা ও জাতি সেসব জিনিসেরই ইবাদত করত, যার ইবাদত করত নবী ﷺ-এর নিজের কওম। তাবারী আয়াতটিকে আগের ধারার সঙ্গেই মিলিয়ে পড়েন: তারা তাঁকে মিথ্যা বলল, তাই আমি তাদের থেকে প্রতিশোধ নিলাম, যেমন নিয়েছিলাম আগের সেসব জাতি থেকে যারা নিজেদের রাসূলদের মিথ্যা বলেছিল। এই পূর্বপুরুষকেই কেন সামনে আনা হলো, ইবন কাসীর তার কারণ বলেন: কুরাইশ বংশ আর ধর্মপথ দুটোই তাঁর সঙ্গে জুড়ত। সা'দী পরিধিটা আরও বড় করেন। আহলে কিতাব আর মুশরিক, সবাই দাবি করত তারা তাঁর পথে আছে। বাপদাদার দোহাইয়ের জবাব এল এক বাপেরই কথা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bara', a Noun in Place",
+          "bn": "বারা: বিশেষণের আসনে মাসদার"
+        },
+        "p": [
+          {
+            "en": "The key word is bara'. Ibrahim (AS) does not use bari', the ordinary describing word for one who is free of something. At-Tabari, al-Qurtubi and al-Baghawi explain bara' in the same terms: it is a masdar, a verbal noun, set in the place of an adjective. At-Tabari gives the usage behind it. The Arabs do not make bara' dual, plural or feminine, so they say nahnu al-bara' wa-l-khala', we are free and clear, keeping the one form, because it is a masdar. Al-Baghawi glosses it in a single word: bara', that is, bari'.",
+            "bn": "মূল শব্দটি হলো বারা। ইবরাহীম (আঃ) এখানে বারী বলেননি, যা কোনো কিছু থেকে মুক্ত লোককে বোঝাতে সাধারণ বিশেষণ। তাবারী, কুরতুবী ও বাগাভী বারা শব্দটির ব্যাখ্যা দেন একই ভাষায়: এটি মাসদার, অর্থাৎ ক্রিয়াবাচক বিশেষ্য, বসানো হয়েছে বিশেষণের জায়গায়। তাবারী এর পেছনের আরবি ব্যবহারটাও বলে দেন। আরবরা বারা শব্দকে দ্বিবচন, বহুবচন বা স্ত্রীলিঙ্গে বদলায় না। তাই বলে, নাহনুল বারা ওয়াল খালা, আমরা মুক্ত, আমরা দায়হীন। রূপ একটাই থাকে, কারণ শব্দটি মাসদার। বাগাভী এক শব্দে অর্থ বলে দেন: বারা মানে বারী।"
+          },
+          {
+            "en": "Al-Qurtubi spells out why the form stays fixed. Bara' is used for one person and for more because the meaning is dhu al-bara', one who holds disavowal, and dhawu al-bara', those who hold it. He quotes the lexicographer al-Jawhari: I freed myself of such a thing and I am bara' of it, a word not made dual or plural, since it was a masdar in origin. Say bari' instead, al-Jawhari goes on, and it takes dual, plural and feminine, with plurals such as bura'a', bira', abra' and abriya'.",
+            "bn": "রূপটা কেন একই থাকে, কুরতুবী তা খুলে বলেন। বারা একজনের জন্যও চলে, বহুজনের জন্যও। কারণ এর অর্থ যুল বারা, অর্থাৎ সম্পর্কচ্ছেদের অধিকারী একজন, কিংবা যাউল বারা, সম্পর্কচ্ছেদের অধিকারী অনেকে। তিনি অভিধানবিদ জাওহারীর কথা উদ্ধৃত করেন: আমি অমুক জিনিস থেকে নিজেকে মুক্ত করেছি, আমি তা থেকে বারা। শব্দটির দ্বিবচন বা বহুবচন হয় না, কারণ মূলে এটি মাসদার। জাওহারী আরও বলেন, এর বদলে বারী বললে দ্বিবচন, বহুবচন, স্ত্রীলিঙ্গ সবই হয়। তার বহুবচনের মধ্যে আছে বুরাআ, বিরা, আবরা ও আবরিয়া।"
+          },
+          {
+            "en": "At-Tabari adds, with the words it is mentioned, that in the reading of Abdullah the word was bari', with a ya'. The Qur'an itself puts both kinds of form on Ibrahim's tongue. In 6:78, after the sun has set, he says inni bari'un mimma tushrikun, I am free of what you associate. In 60:4 he and those with him tell their people inna bura'a'u minkum, using one of the plurals al-Jawhari lists. In 43:26 he uses the masdar, the form that does not change for one or many. The commentaries fetched do not say why it was chosen here, and this article does not guess.",
+            "bn": "তাবারী 'উল্লেখ করা হয়' বলে আরও জানান, আবদুল্লাহর কিরাআতে শব্দটি ছিল ইয়া সহ বারী। কুরআন নিজেই দুই ধরনের রূপ ইবরাহীম (আঃ)-এর মুখে রেখেছে। ৬:৭৮ আয়াতে সূর্য ডুবে যাওয়ার পর তিনি বলেন, ইন্নী বারীউম মিম্মা তুশরিকূন: তোমরা যা শরিক কর, তা থেকে আমি মুক্ত। ৬০:৪ আয়াতে তিনি ও তাঁর সঙ্গীরা নিজেদের কওমকে বলেন, ইন্না বুরাআউ মিনকুম। এখানে এসেছে জাওহারীর তালিকার একটি বহুবচন। আর ৪৩:২৬ আয়াতে তিনি বলেন মাসদারটি, যার রূপ একজন বা বহুজনের জন্য বদলায় না। এখানে কেন এই রূপ বেছে নেওয়া হলো, সংগৃহীত তাফসীরগুলো তা বলে না। এই লেখাও তা নিয়ে অনুমান করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Free of What, Precisely",
+          "bn": "মুক্তি ঠিক কী থেকে"
+        },
+        "p": [
+          {
+            "en": "The verse names the object itself: mimma ta'budun, of what you worship. At-Tabari and the Muyassar both complete it with min dun Allah, besides Allah. The father is named before the people, and Ibn Kathir's Arabic keeps the break tied to the worship: he freed himself of his father and his people in their worship of idols. As-Sa'di gives bara' three strands: hating it, keeping away from it, and being hostile to those who hold to it. He then gives the exception its counterpart: except Him who created me, for Him I take as my protector.",
+            "bn": "আয়াতটি বস্তুটির নাম নিজেই বলে দেয়: মিম্মা তা'বুদূন, তোমরা যার ইবাদত কর তা থেকে। তাবারী ও মুয়াসসার দুজনেই এর সঙ্গে যোগ করেন মিন দূনিল্লাহ, আল্লাহকে বাদ দিয়ে। পিতার নাম আসে কওমের আগে। ইবন কাসীরের আরবি ভাষ্য বিচ্ছেদটাকে ইবাদতের সঙ্গেই বেঁধে রাখে: মূর্তিপূজার ব্যাপারে তিনি পিতা ও কওম থেকে নিজেকে মুক্ত করলেন। সা'দী বারা শব্দে তিনটি স্তর দেখান: তার প্রতি ঘৃণা, তা থেকে দূরে থাকা, আর যারা তা আঁকড়ে আছে তাদের সঙ্গে শত্রুতা। তারপর ব্যতিক্রমটির পাল্টা দিকও বলেন: শুধু যিনি আমাকে সৃষ্টি করেছেন তিনি ছাড়া, তাঁকেই আমি অভিভাবক বানাই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a lesson from the spoken form of the stand. Whoever lives among people who are misguided or caught in bad deeds, where his silence could be taken as agreement, has not done enough by correcting his own beliefs and deeds; he must disown theirs as well. Ibrahim (AS), it says, did both: he made his belief and conduct plainly different, and he declared his disowning aloud. The verse records the words he said to his own household and people, face to face, about what they worshipped.",
+            "bn": "মাআরিফুল কুরআন অবস্থানটির মুখে উচ্চারিত রূপ থেকে একটি শিক্ষা টানে। কেউ যদি এমন লোকদের মাঝে থাকে যারা পথভ্রষ্ট বা মন্দ কাজে জড়িত, আর তার চুপ থাকাকে সম্মতি বলে ধরে নেওয়া যেতে পারে, তবে শুধু নিজের বিশ্বাস ও আমল ঠিক করে নেওয়া যথেষ্ট নয়। তাদের বিশ্বাস ও কাজ থেকে নিজের সম্পর্কহীনতাও তাকে জানাতে হবে। মাআরিফের মতে ইবরাহীম (আঃ) দুটোই করেছিলেন। নিজের বিশ্বাস আর আচরণকে স্পষ্টভাবে আলাদা রেখেছিলেন, আবার মুখেও ঘোষণা দিয়েছিলেন। আয়াতে ধরা আছে সেই কথা, যা তিনি নিজের পরিবার আর কওমকে সামনাসামনি বলেছিলেন, তাদের উপাস্য নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Connected or Standing Apart",
+          "bn": "যুক্ত, নাকি আলাদা দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "Then 43:27 begins illa alladhi fatarani, except Him who created me. The grammarians ask of an exception whether it is connected, drawn out of the group just named, or disconnected, standing outside it. Al-Qurtubi gives the connected reading first, because they worshipped Allah along with their gods, and supports it from Qatada: they used to say, Allah is our Lord, alongside their worship of idols. On that reading Ibrahim (AS) disowns all that they worship and excepts from it Him whom they, by their own word, also worshipped.",
+            "bn": "এরপর ৪৩:২৭ আয়াতের শুরু: ইল্লাল্লাযী ফাতারানী, শুধু তিনি ছাড়া যিনি আমাকে সৃষ্টি করেছেন। কোনো ব্যতিক্রম দেখলে ব্যাকরণবিদেরা প্রশ্ন তোলেন, এটি কি যুক্ত, মানে সদ্য উল্লেখ করা দল থেকেই বের করে আনা? নাকি বিচ্ছিন্ন, মানে সেই দলের বাইরে দাঁড়ানো? কুরতুবী প্রথমে যুক্ত পাঠটি দেন, কারণ তারা নিজেদের উপাস্যদের সঙ্গে আল্লাহরও ইবাদত করত। এর সমর্থনে তিনি কাতাদার কথা আনেন: মূর্তিপূজার পাশাপাশি তারা বলত, আল্লাহ আমাদের রব। এই পাঠে ইবরাহীম (আঃ) তাদের সব উপাস্য থেকে সম্পর্ক ছিন্ন করছেন, আর তা থেকে বাদ রাখছেন সেই সত্তাকে, যাঁর ইবাদত তারা নিজেদের মুখের কথাতেই করত।"
+          },
+          {
+            "en": "At-Tabari's paraphrase runs the same way: I am free of whatever you worship, except of Him who created me. He relays Qatada at more length: kayadahum, he matched wits with them, for they used to say Allah is our Lord, and if you ask them who created the heavens and the earth they will surely say Allah; so he did not disown his Lord. That wording is found at 31:25 and 39:38, and this surah reports the same kind of answer at 43:9 and 43:87.",
+            "bn": "তাবারীর ব্যাখ্যাও একই ধারায় চলে: তোমরা যা কিছুর ইবাদত কর, সব থেকে আমি মুক্ত, শুধু তিনি ছাড়া যিনি আমাকে সৃষ্টি করেছেন। তিনি কাতাদার কথা আরও বিস্তারে আনেন। কাতাদা বলেন, কায়াদাহুম: ইবরাহীম তাদেরকে তাদের নিজেদের দাবি দিয়েই ধরলেন। কারণ তারা বলত, আল্লাহ আমাদের রব। আর তাদের জিজ্ঞেস করলে, আসমান ও জমিন কে সৃষ্টি করেছেন, তারা অবশ্যই বলবে, আল্লাহ। তাই তিনি নিজের রব থেকে সম্পর্ক ছিন্ন করেননি। এই শব্দগুচ্ছ পাওয়া যায় ৩১:২৫ ও ৩৯:৩৮ আয়াতে। আর এই সূরাতেই ৪৩:৯ ও ৪৩:৮৭ আয়াতে একই ধরনের জবাবের কথা আছে।"
+          },
+          {
+            "en": "Al-Qurtubi also allows the exception to be disconnected: but Him who created me, He will guide me. On this reading the clause is not drawn out of what they worshipped at all; it turns away from all of it to Him. The same question was put to Ibrahim's exception in 26:77, except the Lord of the worlds, and the article on 26:76 gives the commentators there by name. Here al-Qurtubi's two readings stand side by side, the first with Qatada and at-Tabari's paraphrase behind it, and this article does not choose between them.",
+            "bn": "কুরতুবী ব্যতিক্রমটিকে বিচ্ছিন্ন ধরারও সুযোগ রাখেন। তখন অর্থ দাঁড়ায়: বরং যিনি আমাকে সৃষ্টি করেছেন, তিনিই আমাকে পথ দেখাবেন। এই পাঠে বাক্যাংশটি তাদের উপাস্যদের ভেতর থেকে মোটেই বের করে আনা নয়। এটি সবকিছু থেকে মুখ ফিরিয়ে তাঁর দিকে ফেরা। ইবরাহীম (আঃ)-এর আরেকটি ব্যতিক্রম নিয়েও একই প্রশ্ন উঠেছে, ২৬:৭৭ আয়াতে: রাব্বুল আলামীন ছাড়া। সেখানকার তাফসীরকারদের নাম ২৬:৭৬ আয়াতের লেখায় দেওয়া আছে। এখানে কুরতুবীর দুই পাঠ পাশাপাশি থাকল। প্রথমটির পেছনে আছে কাতাদা আর তাবারীর ব্যাখ্যা। এই লেখা দুটির কোনোটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Who Made Me Guides",
+          "bn": "যিনি গড়েছেন, তিনিই পথ দেখান"
+        },
+        "p": [
+          {
+            "en": "Fatarani is glossed as khalaqani, He created me, by at-Tabari, by as-Suddi in at-Tabari's report, by al-Baghawi and by the Muyassar. Then fa-innahu sa-yahdin, for He will guide me. At-Tabari: He will set me upright on the true religion and grant me success in following the path of right guidance. Al-Baghawi: He will direct me to His religion. As-Sa'di draws the two verbs together: just as He created me and arranged what sets right my body and my worldly life, so He will guide me to what sets right my religion and my Hereafter.",
+            "bn": "ফাতারানী শব্দের অর্থ খালাকানী, তিনি আমাকে সৃষ্টি করেছেন। এ অর্থ দিয়েছেন তাবারী, তাবারীর বর্ণনায় সুদ্দী, বাগাভী এবং মুয়াসসার। তারপর ফাইন্নাহু সাইয়াহদীন: তিনিই আমাকে পথ দেখাবেন। তাবারীর ব্যাখ্যা: তিনি আমাকে সত্য দ্বীনের উপর সোজা করে রাখবেন, আর হিদায়াতের পথ অনুসরণের তাওফীক দেবেন। বাগাভীর ব্যাখ্যা: তিনি আমাকে তাঁর দ্বীনের দিকে পথ দেখাবেন। সা'দী দুই ক্রিয়াকে এক সুতোয় গাঁথেন। যিনি আমাকে সৃষ্টি করেছেন এবং আমার শরীর আর দুনিয়ার যা কিছু ভালো তার ব্যবস্থা করেছেন, তিনিই আমাকে পথ দেখাবেন সেদিকে, যাতে আমার দ্বীন আর আখিরাতের কল্যাণ।"
+          },
+          {
+            "en": "Al-Qurtubi names the spirit of the words: Ibrahim (AS) said this out of trust in Allah, and to alert his people that guidance comes from his Lord. The Qur'an pairs the same two ideas in his other words. In 6:79, straight after I am free of what you associate, he says: I have turned my face to the One who originated, fatara, the heavens and the earth. In 37:99 he says: I am going to my Lord; He will guide me, with the same verb, sa-yahdin. And in 26:78 his Lord is Him who created me, and it is He who guides me.",
+            "bn": "কুরতুবী কথাগুলোর ভেতরের মেজাজটা বলে দেন: ইবরাহীম (আঃ) এ কথা বলেছিলেন আল্লাহর উপর ভরসা থেকে, আর নিজের কওমকে সজাগ করতে যে হিদায়াত আসে তাঁর রবের কাছ থেকেই। কুরআন তাঁর অন্য কথাতেও এই দুটি ভাবকে জোড়া বেঁধে রেখেছে। ৬:৭৯ আয়াতে, তোমরা যা শরিক কর তা থেকে আমি মুক্ত বলার ঠিক পরেই তিনি বলেন: আমি মুখ ফিরিয়েছি তাঁর দিকে, যিনি আসমান ও জমিন সৃষ্টি করেছেন। সেখানেও ক্রিয়াটি ফাতারা। ৩৭:৯৯ আয়াতে বলেন: আমি আমার রবের দিকে চললাম, তিনিই আমাকে পথ দেখাবেন। ক্রিয়াটিও সেই একই, সাইয়াহদীন। আর ২৬:৭৮ আয়াতে তাঁর রব হলেন সেই সত্তা, যিনি আমাকে সৃষ্টি করেছেন, অতঃপর তিনিই আমাকে পথ দেখান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Sentence, Kept Alive",
+          "bn": "এক বাক্য, যা বেঁচে রইল"
+        },
+        "p": [
+          {
+            "en": "43:28 continues: and he made it a word remaining among his descendants, that they might return. At-Tabari says what the word was: the saying I am free of what you worship, except Him who created me, which is the saying la ilaha illallah. Read that way, the two verses hold the shape of the phrase: every object of worship denied, then one exception. In at-Tabari's reports Mujahid, Qatada and as-Suddi name the word la ilaha illallah, while Ibn Zayd says it was Islam, reciting 2:131. Ibn Kathir says Ibn Zayd's view returns to the group's.",
+            "bn": "৪৩:২৮ আয়াতে বলা হয়েছে: আর তিনি একে তাঁর বংশধরদের মাঝে টিকে থাকা এক কালিমা বানিয়ে দিলেন, যাতে তারা ফিরে আসে। কালিমাটি কী, তাবারী তা বলে দেন: তোমরা যার ইবাদত কর তা থেকে আমি মুক্ত, শুধু তিনি ছাড়া যিনি আমাকে সৃষ্টি করেছেন। আর এটাই লা ইলাহা ইল্লাল্লাহর কথা। এভাবে পড়লে দুই আয়াতে কালিমাটির গড়নই ধরা পড়ে: প্রথমে সব উপাস্যকে অস্বীকার, তারপর একটিমাত্র ব্যতিক্রম। তাবারীর বর্ণনায় মুজাহিদ, কাতাদা ও সুদ্দী কালিমাটিকে লা ইলাহা ইল্লাল্লাহ বলেছেন। ইবন যায়দ বলেছেন, তা ইসলাম, আর প্রমাণে ২:১৩১ পড়েছেন। ইবন কাসীর বলেন, ইবন যায়দের মতও শেষে দলের মতেই গিয়ে মেলে।"
+          },
+          {
+            "en": "Who made it remain? Al-Qurtubi says the pronoun in ja'alaha points back to except Him who created me, and that the doer is Allah: Allah made this word and saying remain among his offspring. The Muyassar makes Ibrahim (AS) the doer: he made the word of tawhid remain among those after him. As-Sa'di explains how it lasted: it was well known from him, he enjoined it on his children, and his sons such as Ishaq and Ya'qub enjoined it on each other, and he cites 2:130. The two readings of the doer are kept here as they stand.",
+            "bn": "কালিমাটিকে টিকিয়ে রাখলেন কে? কুরতুবী বলেন, জাআলাহা শব্দের সর্বনাম ফিরে যায় 'শুধু তিনি ছাড়া যিনি আমাকে সৃষ্টি করেছেন' কথাটির দিকে, আর কর্তা আল্লাহ। অর্থাৎ আল্লাহ এই কালিমা ও কথাটিকে তাঁর বংশধরদের মাঝে টিকিয়ে রাখলেন। মুয়াসসার কর্তা ধরেন ইবরাহীম (আঃ)-কে: তিনি তাওহীদের কালিমাকে পরবর্তীদের মাঝে টিকিয়ে রেখে গেলেন। কীভাবে তা টিকে রইল, সা'দী তা ব্যাখ্যা করেন। কথাটি তাঁর নামে সুপরিচিত ছিল, তিনি সন্তানদের এর ওসিয়ত করেছিলেন, আর তাঁর ছেলেরা, যেমন ইসহাক ও ইয়াকুব, একে অপরকে এর ওসিয়ত করেছিলেন। প্রমাণে তিনি ২:১৩০ আয়াত আনেন। কর্তা নিয়ে দুই মত এখানে যেমন আছে তেমনই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denial Joined to Affirmation",
+          "bn": "অস্বীকারের সঙ্গে জোড়া স্বীকৃতি"
+        },
+        "p": [
+          {
+            "en": "None of the tafsir texts fetched for this verse attaches a hadith to it. A sound narration, not tied to this verse, joins the same two halves. Sahih Muslim (23) records, through Abu Malik from his father, that he heard the Messenger of Allah ﷺ say: He who professed that there is no god but Allah and made a denial of everything which the people worship beside Allah, his property and blood became inviolable, and their affairs rest with Allah.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। একটি সহীহ বর্ণনা, যা এ আয়াতের সঙ্গে বাঁধা নয়, একই দুই অর্ধেককে একসঙ্গে জোড়ে। সহীহ মুসলিম (২৩) আবু মালিকের সূত্রে তাঁর পিতা থেকে বর্ণনা করে, তিনি রাসূলুল্লাহ ﷺ-কে বলতে শুনেছেন: যে লা ইলাহা ইল্লাল্লাহ বলল, আর আল্লাহকে ছাড়া যা কিছুর ইবাদত করা হয় তা অস্বীকার করল, তার সম্পদ ও রক্ত হারাম হয়ে গেল, আর তার হিসাব আল্লাহর কাছে।"
+          },
+          {
+            "en": "The narration does not let the first half stand alone. Saying there is no god but Allah is joined to the denial of whatever is worshipped besides Him, much as Ibrahim's sentence joins I am free of what you worship to except Him who created me. And what the narration secures is protection: whoever says it is safe in his life and property, and his reckoning is with Allah. It guards people. It hands no one a verdict to pass on anyone else.",
+            "bn": "বর্ণনাটি প্রথম অর্ধেককে একা দাঁড়াতে দেয় না। লা ইলাহা ইল্লাল্লাহ বলার সঙ্গে জোড়া থাকে আল্লাহ ছাড়া যা কিছুর ইবাদত হয় তার অস্বীকার। ঠিক যেমন ইবরাহীম (আঃ)-এর বাক্যে 'তোমরা যার ইবাদত কর তা থেকে আমি মুক্ত' কথার সঙ্গে জোড়া 'শুধু তিনি ছাড়া যিনি আমাকে সৃষ্টি করেছেন'। আর বর্ণনাটি যা নিশ্চিত করে তা হলো সুরক্ষা। যে এ কথা বলে, তার জান ও মাল নিরাপদ, তার হিসাব আল্লাহর হাতে। হাদীসটি মানুষকে আগলে রাখে। অন্য কারও উপর রায় দেওয়ার অধিকার এটি কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said Then, Weighed Within",
+          "bn": "সেদিন উচ্চারিত, আজ নিজের ভেতরে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what Ibrahim (AS) said to his own father and people about what they worshipped, and the Qur'an reports it as his words in his time. It licenses nothing against any living person or community. It gives no reader the right to pronounce bara' on neighbours, relatives or any group today, and the word in this verse is aimed at what was worshipped. Ibrahim's people stand in the Qur'an as an account to be recited and learned from, never as a name to be fastened on anyone now.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ইবরাহীম (আঃ) নিজের পিতা ও কওমকে তাদের উপাস্য নিয়ে যা বলেছিলেন, আয়াতটি তারই বর্ণনা। কুরআন একে তাঁর কথা হিসেবে, তাঁর সময়ের কথা হিসেবেই জানায়। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো প্রতিবেশী, আত্মীয় বা কোনো দলের বিরুদ্ধে বারা ঘোষণা করার অধিকার এটি কোনো পাঠককে দেয় না। এ আয়াতে শব্দটির লক্ষ্য ছিল উপাস্যগুলো। ইবরাহীম (আঃ)-এর কওম কুরআনে আছে পড়ার আর শেখার মতো এক বিবরণ হয়ে, আজকের কারও গায়ে সেঁটে দেওয়ার মতো নাম হয়ে নয়।"
+          },
+          {
+            "en": "What the verse asks is turned on the reader. The Makkans' answer was: this is how we found our fathers. Ibrahim's was: I am free of it, except Him who made me. Each of us inherits habits, loyalties and assumptions, and some have never been weighed. The question is not whether we have forefathers, but whether we would let go of what they handed down if it stood between us and Him who created us, and whether our trust that He will guide us is real.",
+            "bn": "আয়াতের প্রশ্নটা ঘুরে আসে পাঠকের দিকেই। মক্কাবাসীর জবাব ছিল: বাপদাদাকে আমরা এভাবেই পেয়েছি। ইবরাহীম (আঃ)-এর জবাব: আমি এ থেকে মুক্ত, শুধু তিনি ছাড়া যিনি আমাকে বানিয়েছেন। আমরা প্রত্যেকেই কিছু অভ্যাস, কিছু টান, কিছু ধরে নেওয়া বিশ্বাস উত্তরাধিকারে পাই। তার কিছু কখনো যাচাই করা হয়নি। প্রশ্ন এটা নয় যে আমাদের পূর্বপুরুষ আছে কি না। প্রশ্ন হলো, তাদের দেওয়া কোনো কিছু যদি আমাদের আর আমাদের স্রষ্টার মাঝে দেয়াল হয়ে দাঁড়ায়, আমরা কি তা ছাড়তে পারব? আর তিনিই পথ দেখাবেন, এই ভরসা কি আমাদের সত্যিই আছে?"
+          },
+          {
+            "en": "The break also has a direction. Ibrahim (AS) did not stop at bara'; he went on to fa-innahu sa-yahdin. A disavowal that names nothing to turn to would be rejection alone. The verse joins the two halves, and 43:28 says the joined sentence was kept as a word among those who came after him, that they might return. It belongs now on the reader's own tongue, said with its meaning understood, and lived in what that reader worships.",
+            "bn": "বিচ্ছেদেরও একটা দিক আছে। ইবরাহীম (আঃ) বারা বলেই থামেননি, এগিয়ে গেছেন ফাইন্নাহু সাইয়াহদীন পর্যন্ত। যে অস্বীকার কোনো আশ্রয়ের নাম নেয় না, তা নিছক প্রত্যাখ্যান। আয়াতটি দুই অর্ধেককে জুড়ে দেয়। আর ৪৩:২৮ জানায়, জোড়া লাগানো সেই বাক্যই তাঁর পরবর্তীদের মাঝে এক কালিমা হয়ে রয়ে গেল, যাতে তারা ফিরে আসে। এখন তার জায়গা পাঠকের নিজের মুখে। অর্থ বুঝে উচ্চারণ করা, আর নিজের ইবাদতে তা বাস্তবে রূপ দেওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "43:32": {
     "sections": [
       {
