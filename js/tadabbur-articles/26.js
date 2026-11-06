@@ -4151,6 +4151,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:136": {
+    "sections": [
+      {
+        "h": {
+          "en": "The First Words 'Ad Speak",
+          "bn": "‘আদের মুখে প্রথম কথা"
+        },
+        "p": [
+          {
+            "en": "From 26:124 to 26:135 the voice has been Hud's alone. He has called, reminded and warned, and his last sentence was that he fears for them the punishment of a terrible day. Now, for the first time in the passage, his people answer. Qalu sawa'un 'alayna a-wa'azta am lam takun mina l-wa'izin: they said, it is all the same to us whether you advise or are not of the advisers. Nine Arabic words, and not one of them takes up anything Hud actually said.",
+            "bn": "২৬:১২৪ থেকে ২৬:১৩৫ পর্যন্ত কথা বলছিলেন কেবল হূদ (আঃ)। তিনি ডেকেছেন, মনে করিয়ে দিয়েছেন, সতর্ক করেছেন। তাঁর শেষ কথা ছিল, এক ভয়াবহ দিনের শাস্তির আশঙ্কা তিনি তাদের জন্য করেন। এবার এই অংশে প্রথমবারের মতো তাঁর কওম মুখ খোলে। কালূ সাওয়াউন ‘আলাইনা আ-ওয়া‘আযতা আম লাম তাকুন মিনাল ওয়া‘ইযীন: তারা বলল, তুমি নসীহত করো বা নসীহতকারীদের দলে না-ই থাকো, আমাদের কাছে সবই সমান। আরবিতে নয়টি শব্দ। হূদ (আঃ) যা বলেছেন, তার একটা কথাও এর কোনো শব্দ ছুঁয়ে দেখে না।"
+          },
+          {
+            "en": "Ibn Kathir sets the scene before he explains a word. Allah, he says, is telling of the reply of Hud's people after he had cautioned and warned them, drawn them with hope and held fear before them, and made the truth clear and plain. His gloss of their answer is short: we will not turn back from what we are on. He then joins it to their words in 11:53: we will not leave our gods on your say-so, and we are not believers in you.",
+            "bn": "কোনো শব্দের ব্যাখ্যায় যাওয়ার আগে ইবন কাসীর প্রেক্ষাপটটা দাঁড় করান। তিনি বলেন, আল্লাহ এখানে হূদ (আঃ)-এর কওমের জবাব জানাচ্ছেন। তিনি তাদের সাবধান করেছিলেন, সতর্ক করেছিলেন, আশা দেখিয়েছিলেন, ভয়ও দেখিয়েছিলেন, আর সত্যকে খুলে স্পষ্ট করে দিয়েছিলেন। এরপরই এল এই জবাব। তাদের কথার অর্থ তিনি সংক্ষেপে বলেন: আমরা যে পথে আছি, তা থেকে ফিরব না। তারপর তিনি এটিকে জুড়ে দেন ১১:৫৩ আয়াতে তাদের কথার সঙ্গে: তোমার কথায় আমরা আমাদের উপাস্যদের ছাড়ব না, আর তোমার উপর আমরা ঈমানও আনব না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Level in Their Eyes",
+          "bn": "তাদের চোখে সব এক মাপের"
+        },
+        "p": [
+          {
+            "en": "Sawa'un is the word for things that weigh the same, and the commentators gloss it with near synonyms. Al-Baghawi writes mustawin 'indana, level with us. At-Tabari has 'Ad say to their prophet: your admonishing us and your leaving off admonition are evenly matched with us, so we will never believe you, nor accept as true what you have brought us. The Muyassar puts it as: your reminding and frightening us and your leaving it are equal to us, so we will not believe you.",
+            "bn": "সাওয়াউন শব্দটি এমন জিনিসের জন্য, যা ওজনে সমান। তাফসীরকারেরা এর ব্যাখ্যা দেন কাছাকাছি অর্থের শব্দে। বাগাভী লেখেন মুস্তাউইন ‘ইনদানা, আমাদের কাছে সমতল, এক মাপের। তাবারীর বর্ণনায় ‘আদ তাদের নবীকে বলছে: তোমার নসীহত করা আর নসীহত ছেড়ে দেওয়া, আমাদের কাছে দুটোই সমান ভারী। তাই আমরা কখনো তোমার উপর ঈমান আনব না, তুমি যা এনেছ তা সত্য বলেও মানব না। মুয়াসসারের ভাষায়: তোমার মনে করিয়ে দেওয়া, ভয় দেখানো আর তা না করা, আমাদের কাছে সমান। কাজেই আমরা তোমার উপর ঈমান আনব না।"
+          },
+          {
+            "en": "Al-Qurtubi's gloss goes a step further: all of that is the same to us; we do not listen to you, and we do not turn aside for what you say. Notice how each of these readings runs on past the word itself. At-Tabari and the Muyassar both close with so we will not believe; al-Qurtubi closes with a refusal to listen. In their hands sawa' is not a neutral weighing of two options. It is a decision already taken, stated as if it were only an observation.",
+            "bn": "কুরতুবী আরও এক ধাপ এগিয়ে যান: এর সবই আমাদের কাছে সমান। আমরা তোমার কথা শুনি না, তুমি যা বলো তার দিকে ফিরেও তাকাই না। লক্ষ করুন, প্রতিটি ব্যাখ্যা শব্দটার অর্থে থেমে থাকে না। তাবারী আর মুয়াসসার দুজনেই শেষ করেন 'তাই আমরা ঈমান আনব না' বলে। কুরতুবী শেষ করেন না-শোনার ঘোষণায়। তাঁদের ব্যাখ্যায় সাওয়া মানে দুই বিকল্পকে নিরপেক্ষভাবে মেপে দেখা নয়। এ এক আগেই নিয়ে রাখা সিদ্ধান্ত, যাকে শুধু একটা পর্যবেক্ষণের মতো করে বলা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speech Meant to Soften",
+          "bn": "মন নরম করার কথা"
+        },
+        "p": [
+          {
+            "en": "What exactly were they waving away? Al-Baghawi defines the word they used: al-wa'z is speech that softens the heart by mentioning the promise and the threat. The Muyassar's paraphrase names the same two strands, reminding and frightening. That is a fair description of everything Hud had just done: he named the gifts they lived on, and he named the terrible day he feared for them. 'Ad did not mistake his words for something else. They called it by its right name, wa'z, and set it aside.",
+            "bn": "তারা আসলে কী উড়িয়ে দিচ্ছিল? তারা যে শব্দ ব্যবহার করেছে, বাগাভী তার সংজ্ঞা দেন: ওয়া‘য হলো এমন কথা, যা ওয়াদা আর হুঁশিয়ারির কথা মনে করিয়ে দিয়ে অন্তর নরম করে। মুয়াসসারের ব্যাখ্যাতেও সেই দুই সুতো: মনে করিয়ে দেওয়া আর ভয় দেখানো। হূদ (আঃ) এইমাত্র ঠিক এ কাজটাই করেছিলেন। একদিকে নিয়ামতগুলোর কথা বলেছিলেন, অন্যদিকে সেই ভয়াবহ দিনের কথা, যার আশঙ্কা তিনি তাদের জন্য করতেন। ‘আদ তাঁর কথাকে অন্য কিছু ভেবে ভুল করেনি। তারা একে ঠিক নামেই ডেকেছে, ওয়া‘য, তারপর সরিয়ে রেখেছে।"
+          },
+          {
+            "en": "Al-Baghawi also relays a gloss from al-Kalbi that bends the word toward command: you forbade us, or you were not of those who forbid us. On that reading the reply answers Hud's prohibitions as much as his reminders, the things he had told them to stop. Either way the target is the same. The speech that was meant to reach the heart is named and then declared to change nothing, which is a harder thing to answer than an argument, because it offers nothing to argue with.",
+            "bn": "বাগাভী কালবী থেকে আরেকটি ব্যাখ্যা উদ্ধৃত করেন, যা শব্দটিকে নিষেধের দিকে টেনে নেয়: তুমি আমাদের নিষেধ করো, অথবা আমাদের নিষেধকারীদের দলে না-ই থাকো। এ ব্যাখ্যায় জবাবটা শুধু হূদ (আঃ)-এর মনে করিয়ে দেওয়ার বিরুদ্ধে নয়, তাঁর নিষেধগুলোর বিরুদ্ধেও, যেসব কাজ তিনি তাদের ছেড়ে দিতে বলেছিলেন। যেভাবেই পড়া হোক, লক্ষ্য একটাই। যে কথা অন্তরে পৌঁছানোর জন্য বলা, তাকে চিনে নিয়েই ঘোষণা করা হলো, এতে কিছুই বদলাবে না। যুক্তির জবাব দেওয়া যায়। কিন্তু এমন কথার জবাব দেওয়া কঠিন, কারণ এতে তর্ক করার মতো কিছুই থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Halves That Do Not Match",
+          "bn": "দুই ভাগ, দুই গড়ন"
+        },
+        "p": [
+          {
+            "en": "Look at the shape of the sentence. The first half is a verb addressed to Hud: a-wa'azta, did you admonish. The second half is not the matching verb, or did you not admonish. It is am lam takun mina l-wa'izin, or were you not of the admonishers, a phrase about belonging to a class of people. None of the commentaries fetched for this verse remarks on the shift. At-Tabari and the Muyassar paraphrase the second half simply as leaving admonition off, while al-Kalbi's gloss keeps the same form: of those who forbid.",
+            "bn": "বাক্যের গড়নটা খেয়াল করুন। প্রথম ভাগে হূদ (আঃ)-কে উদ্দেশ করে একটি ক্রিয়া: আ-ওয়া‘আযতা, তুমি কি নসীহত করেছ। দ্বিতীয় ভাগে কিন্তু তার জোড়া ক্রিয়া নেই, অর্থাৎ 'নাকি নসীহত করোনি' বলা হয়নি। বলা হয়েছে আম লাম তাকুন মিনাল ওয়া‘ইযীন, নাকি তুমি নসীহতকারীদের দলভুক্ত ছিলে না। এ কথা একটা শ্রেণির অন্তর্ভুক্ত হওয়া নিয়ে। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এই পরিবর্তন নিয়ে মন্তব্য করেনি। তাবারী ও মুয়াসসার দ্বিতীয় ভাগের অর্থ করেন কেবল নসীহত ছেড়ে দেওয়া। আর কালবীর ব্যাখ্যা একই গড়ন ধরে রাখে: নিষেধকারীদের দলে।"
+          },
+          {
+            "en": "So what follows is a reflection on the wording, not a reading from the commentators. The second half lets 'Ad set Hud inside a category rather than answer him as a man. Whether he speaks to them once or takes his place among all the admonishers there have ever been, his words go into the same drawer. A person can be dismissed that way without being heard at all: by deciding in advance what kind of speaker he is, and therefore what his speech is worth.",
+            "bn": "তাই এখানে যা বলা হচ্ছে, তা শব্দের গড়ন নিয়ে আমাদের ভাবনা, তাফসীরকারদের কোনো ব্যাখ্যা নয়। দ্বিতীয় ভাগের গড়নে ‘আদ হূদ (আঃ)-কে একজন মানুষ হিসেবে জবাব না দিয়ে একটা শ্রেণির মধ্যে ঢুকিয়ে দিতে পারে। তিনি একবার কথা বলুন, কিংবা দুনিয়ার সব নসীহতকারীর সারিতে গিয়ে দাঁড়ান, তাঁর কথা গিয়ে পড়বে একই খোপে। কাউকে এভাবে না শুনেই বাতিল করে দেওয়া যায়। আগেভাগে ঠিক করে নিলেই হলো, সে কোন ধরনের বক্তা, আর সে হিসেবে তার কথার দাম কত।"
+          },
+          {
+            "en": "Al-Qurtubi records a point of recitation on the verb itself. Al-'Abbas transmitted from Abu 'Amr, and Bishr from al-Kisa'i, a-wa'azta with the za' merged into the ta' that follows. Al-Qurtubi calls this far from right, because za' is a letter of itbaq, and such a letter merges only into one very close to it, like it and sharing its point of articulation. The question is one of pronouncing two letters; it leaves the sense of the reply untouched.",
+            "bn": "ক্রিয়াটির তিলাওয়াত নিয়ে কুরতুবী একটি বিষয় উল্লেখ করেন। ‘আব্বাস আবূ ‘আমর থেকে, আর বিশর কিসাঈ থেকে বর্ণনা করেছেন, আ-ওয়া‘আযতা শব্দে যোয়া হরফটিকে পরের তা হরফের মধ্যে মিলিয়ে পড়া। কুরতুবী একে দূরবর্তী বলেন। কারণ যোয়া হলো ইতবাকের হরফ। এমন হরফ কেবল সেই হরফেই মেলে, যা তার খুব কাছের, তার মতো, আর একই উচ্চারণস্থলের। প্রশ্নটা দুটি হরফের উচ্চারণ নিয়ে। জবাবের অর্থে এতে কোনো পরিবর্তন আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Furthest Reach of Defiance",
+          "bn": "ঔদ্ধত্যের শেষ সীমা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the tone before the words. They said it, he writes, in stubborn opposition to the truth and giving the lie to their prophet: the whole of it stands level for us. Then he passes judgement on the state the sentence reveals. This, he says, is the utmost of insolence, ghayat al-'utuw. The worst thing in the reply, on his reading, is not a counter-claim, since they make none. It is what the reply shows about how far they had travelled.",
+            "bn": "সাদী শব্দের আগে কণ্ঠস্বরটা পড়েন। তিনি লেখেন, সত্যের বিরুদ্ধে জেদ ধরে আর নিজেদের নবীকে মিথ্যা বলে তারা এ কথা বলেছিল: সবটাই আমাদের কাছে এক সমান। তারপর বাক্যটি যে অবস্থা প্রকাশ করে, তার উপর তিনি রায় দেন। তাঁর ভাষায়, এ হলো ঔদ্ধত্যের চরম সীমা, গায়াতুল ‘উতুউ। তাঁর পাঠে জবাবের সবচেয়ে ভয়ংকর দিক কোনো পাল্টা দাবি নয়, কারণ তারা কোনো দাবিই তোলেনি। ভয়ংকর দিক হলো, জবাবটা দেখিয়ে দেয় তারা কতদূর চলে গিয়েছিল।"
+          },
+          {
+            "en": "He explains why. Here is a people whose condition had reached the point where the admonitions of Allah, which melt the deaf, hard, solid mountains and make the hearts of people of understanding crack, were the same to them whether present or absent. Such a people, he goes on, had come to the end of their wrongdoing; their wretchedness had grown severe, and hope of their guidance had been cut off. And that, he says, is why they went on to say the words of 26:137.",
+            "bn": "কেন, তা তিনি ব্যাখ্যা করেন। এ এমন এক জাতি, যাদের অবস্থা এমন জায়গায় পৌঁছেছিল যে আল্লাহর নসীহত, যা নিরেট কঠিন পাহাড়কেও গলিয়ে দেয় আর বুদ্ধিমানদের অন্তর ফাটিয়ে দেয়, তা থাকা আর না থাকা তাদের কাছে সমান হয়ে গিয়েছিল। তিনি আরও বলেন, এমন জাতির জুলুম তার শেষ প্রান্তে পৌঁছে গেছে। তাদের দুর্ভাগ্য প্রবল হয়েছে, আর তাদের হিদায়াতের আশা ছিন্ন হয়ে গেছে। আর এ কারণেই, তাঁর ভাষায়, তারা ২৬:১৩৭ আয়াতের কথাগুলো বলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Ibn Kathir Hears an Echo",
+          "bn": "ইবন কাসীর যেখানে প্রতিধ্বনি শোনেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir does not leave the verse on its own. And so the matter is, he writes, and cites 2:6: those who disbelieve, it is the same to them whether you warn them or do not warn them; they will not believe. He adds 10:96 and 10:97: those against whom the word of your Lord has come true will not believe, even if every sign comes to them, until they see the painful punishment. The same word, sawa', joins the reply of 'Ad to the opening of al-Baqarah.",
+            "bn": "ইবন কাসীর আয়াতটিকে একা রেখে দেন না। তিনি লেখেন, ব্যাপারটা এমনই, আর উদ্ধৃত করেন ২:৬: যারা কুফরি করেছে, তুমি তাদের সতর্ক করো বা না করো, তাদের কাছে সমান, তারা ঈমান আনবে না। এর সঙ্গে তিনি যোগ করেন ১০:৯৬ ও ১০:৯৭: যাদের ব্যাপারে তোমার রবের বাণী সত্য হয়ে গেছে, তারা ঈমান আনবে না, যদিও তাদের কাছে সব নিদর্শন এসে যায়, যতক্ষণ না তারা যন্ত্রণাদায়ক শাস্তি দেখে। একই শব্দ সাওয়া ‘আদের জবাবকে জুড়ে দেয় সূরা বাকারার শুরুর সঙ্গে।"
+          },
+          {
+            "en": "Set the two side by side and one difference is plain on the page. In 2:6 the words it is the same to them are Allah's, spoken about a people. In 26:136 the words it is the same to us are the people's own, spoken about themselves. Ibn Kathir draws the link and does not develop it further, and nothing more is attributed to him here. What the pairing shows the reader is simply that the posture 'Ad announce aloud is one the Qur'an names elsewhere.",
+            "bn": "আয়াত দুটি পাশাপাশি রাখলে একটা পার্থক্য পাতাতেই চোখে পড়ে। ২:৬ আয়াতে 'তাদের কাছে সমান' কথাটি আল্লাহর, একটি দল সম্পর্কে বলা। ২৬:১৩৬ আয়াতে 'আমাদের কাছে সমান' কথাটি ওই জাতির নিজের, নিজেদের সম্পর্কেই বলা। ইবন কাসীর যোগসূত্রটা টানেন, এর বেশি বিস্তার করেন না। তাই তাঁর নামে এখানে আর কিছু বলা হচ্ছে না। পাঠকের জন্য এই জোড়া শুধু এটুকু দেখায় যে ‘আদ যে মনোভাব গলা উঁচিয়ে ঘোষণা করেছিল, কুরআন অন্য জায়গাতেও সেই মনোভাবের নাম নিয়েছে।"
+          },
+          {
+            "en": "The next two verses show what the indifference rested on. Ibn Kathir records two readings of 26:137, khalq and khuluq. On the reading khuluq, he says, they meant the religion of the ancients, their fathers and grandfathers: we follow them, we live as they lived and die as they died, and there is no resurrection and no judgement. Hence 26:138, and we are not to be punished. None of the commentaries fetched for this verse attaches a hadith or an occasion of revelation to it.",
+            "bn": "পরের দুটি আয়াত দেখায়, এই উদাসীনতা কিসের উপর দাঁড়িয়ে ছিল। ইবন কাসীর ২৬:১৩৭ আয়াতের দুটি পাঠ উল্লেখ করেন, খালক ও খুলুক। তিনি বলেন, খুলুক পাঠ অনুযায়ী তাদের কথার অর্থ ছিল পূর্বপুরুষদের, তাদের বাপ-দাদার ধর্ম: আমরা তাদেরই অনুসরণ করি, তারা যেভাবে বেঁচেছে আমরাও সেভাবে বাঁচব, যেভাবে মরেছে সেভাবে মরব। কোনো পুনরুত্থান নেই, কোনো বিচারও নেই। এ কারণেই ২৬:১৩৮ আয়াতে তারা বলে, আমাদের শাস্তি দেওয়া হবে না। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verdict Not Ours to Pass",
+          "bn": "এ রায় দেওয়ার ভার আমাদের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what 'Ad said to Hud, and 26:139 tells what followed: they denied him, and they were destroyed. It describes that people and that reply, and it licenses nothing against any living person or community. It gives no one a label to fasten on a congregation that seems unmoved, a relative who walks away from advice, or a neighbour who does not pray. The verses Ibn Kathir joins to it speak of those against whom the word of the Lord has come true, and that knowledge belongs to Allah alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায় ‘আদ হূদ (আঃ)-কে কী বলেছিল, আর ২৬:১৩৯ আয়াত জানায় এরপর কী ঘটল: তারা তাঁকে অস্বীকার করল, আর তাদের ধ্বংস করা হলো। আয়াত বর্ণনা করে ওই জাতি আর তাদের ওই জবাবের কথা। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। যে জামাতকে উদাসীন মনে হয়, যে আত্মীয় উপদেশ শুনে সরে যায়, যে প্রতিবেশী নামাজ পড়ে না, কারও গায়ে এ আয়াতের তকমা লাগানোর অধিকার কাউকে দেওয়া হয়নি। ইবন কাসীর যে আয়াতগুলো জুড়ে দেন, সেখানে কথা তাদের নিয়ে, যাদের উপর রবের বাণী সত্য হয়ে গেছে। সে জ্ঞান কেবল আল্লাহর।"
+          },
+          {
+            "en": "There is a quieter misuse too, aimed at oneself as the adviser. Someone who has given counsel and met a shrug can be tempted to cast himself as Hud and the other person as 'Ad, and walk away. The verse does not hand out those roles. Al-Baghawi's definition is a better guide for anyone who advises: speech meant to soften a heart. Counsel offered as a weapon, or recalled later as proof of the other's ruin, has already stopped being wa'z in that sense.",
+            "bn": "আরেকটা নীরব অপব্যবহারও আছে, যার লক্ষ্য উপদেশদাতা নিজে। কেউ নসীহত করে উদাসীনতা পেলে নিজেকে হূদ (আঃ)-এর জায়গায় আর অন্যজনকে ‘আদের জায়গায় বসিয়ে সরে যেতে প্রলুব্ধ হতে পারে। আয়াত কাউকে এ ভূমিকা বিলিয়ে দেয় না। যে উপদেশ দেয়, তার জন্য বাগাভীর সংজ্ঞাই ভালো পথনির্দেশ: যে কথা অন্তর নরম করার জন্য বলা হয়। নসীহত যদি অস্ত্র হিসেবে ছোড়া হয়, কিংবা পরে অন্যের সর্বনাশের প্রমাণ হিসেবে মনে রাখা হয়, তবে সে অর্থে তা আর ওয়া‘য থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Reminders Stop Landing",
+          "bn": "নসীহত যখন আর গায়ে লাগে না"
+        },
+        "p": [
+          {
+            "en": "The reader's own danger is rarely a loud refusal. It is the slow arrival of sameness. A verse recited every week, a Friday sermon on a familiar theme, a friend's gentle word about a habit: each can be heard so often that it stops landing. Nobody decides to say it is all the same to me. It is reached one unheeded reminder at a time, until speech that as-Sa'di says would melt mountains passes over a heart like weather over stone.",
+            "bn": "পাঠকের নিজের বিপদ সাধারণত সশব্দ প্রত্যাখ্যান নয়। বিপদ হলো ধীরে ধীরে সবকিছু এক রকম হয়ে যাওয়া। প্রতি সপ্তাহে শোনা একটা আয়াত, চেনা বিষয়ে জুমার খুতবা, কোনো অভ্যাস নিয়ে বন্ধুর নরম একটা কথা। এর প্রতিটিই এত বেশিবার শোনা হতে পারে যে আর গায়ে লাগে না। কেউ ভেবেচিন্তে বলে না, আমার কাছে সবই সমান। একেকটা উপদেশ অবহেলায় পার হতে হতে মানুষ সেখানে পৌঁছে যায়। শেষে যে কথা সাদীর ভাষায় পাহাড় গলিয়ে দেয়, তা অন্তরের উপর দিয়ে বয়ে যায় পাথরের উপর দিয়ে বয়ে যাওয়া বাতাসের মতো।"
+          },
+          {
+            "en": "The sign is often small. A reminder begins with a familiar opening, and the mind has already supplied the ending and moved on. A warning about a habit is met with I know, and the knowing becomes the reason nothing changes. 'Ad's reply shows where that road can end, but it starts much nearer home: in the moment a person treats having heard something as the same as having answered it. Hearing was never the whole of what a reminder asks.",
+            "bn": "লক্ষণটা প্রায়ই ছোট। কোনো নসীহত চেনা কথায় শুরু হয়, আর মন শেষটা আগেই আন্দাজ করে নিয়ে অন্যদিকে চলে যায়। কোনো অভ্যাস নিয়ে সতর্ক করলে জবাব আসে, জানি তো। আর এই জানাটাই হয়ে দাঁড়ায় কিছু না বদলানোর কারণ। ‘আদের জবাব দেখায় এ পথ কোথায় গিয়ে শেষ হতে পারে। কিন্তু শুরুটা অনেক কাছে: যে মুহূর্তে মানুষ কোনো কথা শুনে ফেলাকেই তার জবাব দেওয়া বলে ধরে নেয়। নসীহত কখনো শুধু শোনাটুকু চায়নি।"
+          },
+          {
+            "en": "Al-Qurtubi's gloss names two separate failures: we do not listen to you, and we do not turn aside for what you say. One can hear and still not turn. So the test is not whether a reminder is familiar, but whether it still moves anything. Pick one admonition you know by heart and hear it this week as if it were said to you alone. Then let it change one small thing. A heart that still bends a little when warned is a gift worth guarding.",
+            "bn": "কুরতুবীর ব্যাখ্যায় দুটি আলাদা ব্যর্থতার নাম আছে: আমরা তোমার কথা শুনি না, আর তুমি যা বলো তার দিকে ফিরে তাকাই না। শুনেও না ফেরা সম্ভব। তাই পরীক্ষা এটা নয় যে উপদেশটা চেনা কি না। পরীক্ষা হলো, তা এখনো ভেতরে কিছু নাড়া দেয় কি না। মুখস্থ কোনো একটা নসীহত বেছে নিন, আর এ সপ্তাহে এমনভাবে শুনুন যেন কেবল আপনাকেই বলা হচ্ছে। তারপর তাকে অন্তত একটা ছোট জিনিস বদলাতে দিন। সতর্ক করলে যে অন্তর এখনো একটু নত হয়, তা আগলে রাখার মতো এক নিয়ামত।"
+          }
+        ]
+      }
+    ]
+  },
   "26:142": {
     "sections": [
       {

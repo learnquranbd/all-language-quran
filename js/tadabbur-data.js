@@ -24331,6 +24331,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not let victory, numbers or the crowd decide what is true for you; weigh the claim itself, and follow the truth even when it is not winning.",
     "lessonBn": "কে জিতল, কতজন, ভিড় কোন দিকে, এসব দিয়ে সত্য ঠিক করবেন না। দাবিটাকেই মেপে দেখুন, আর সত্য জিতছে না মনে হলেও তার পেছনেই চলুন।"
+  },
+  "26:136": {
+    "reflectionEn": "Hud has reminded his people of every gift they live on and told them plainly that he fears for them a terrible day. Their answer does not argue with a single word. It simply shrugs: advise us or don't, it is all the same to us. They are not saying he is wrong. They are saying he does not matter. The verse records a people, and passes no sentence on anyone alive today. It does hold up a mirror. A heart can reach that shrug slowly, one unheeded reminder at a time, until a verse that once stopped me now slides past. When did a reminder last actually change what I did?",
+    "reflectionBn": "হূদ (আঃ) তাঁর কওমকে মনে করিয়ে দিয়েছেন, যেসব নিয়ামতের উপর তারা বেঁচে আছে সবই কার দেওয়া। সোজা ভাষায় বলেছেন, এক ভয়াবহ দিনের শাস্তির ভয় তিনি তাদের জন্য করছেন। জবাবে তারা একটা কথারও খণ্ডন করে না। শুধু কাঁধ ঝাঁকায়: নসীহত করো বা না করো, আমাদের কাছে সবই সমান। তারা বলছে না যে তিনি ভুল বলছেন। বলছে, তাঁর কথার কোনো দামই নেই। আয়াতটি একটি জাতির কথা জানায়, আজকের কোনো মানুষের উপর রায় দেয় না। তবে একটা আয়না তুলে ধরে। একেকটা উপদেশ অবহেলায় পার হতে হতে মন ধীরে ধীরে ওই কাঁধ ঝাঁকানোয় পৌঁছে যেতে পারে। যে আয়াত একদিন আমাকে থামিয়ে দিত, আজ তা গা ঘেঁষে চলে যায়। শেষ কবে কোনো নসীহত সত্যিই আমার কাজ বদলে দিয়েছে?",
+    "pointsEn": [
+      "Which reminder have I heard so often that I now hear the voice and miss the words?",
+      "When someone advises me, do I weigh what they said, or only decide whether they have the standing to say it?",
+      "Is there a warning I have neither answered nor obeyed, only filed away as something I already know?",
+      "What would it look like this week to listen to one verse as if it were addressed to me alone?",
+      "Can I notice the first small shrug in myself before it hardens into all the same to me?"
+    ],
+    "pointsBn": [
+      "কোন উপদেশ এত বেশি শুনেছি যে এখন কণ্ঠটা কানে আসে, কথাগুলো আর আসে না?",
+      "কেউ নসীহত করলে আমি কি তার কথাটা ওজন করি, নাকি শুধু ভাবি তার বলার যোগ্যতা আছে কি না?",
+      "এমন কোনো সতর্কবাণী কি আছে, যার জবাবও দিইনি, মেনেও চলিনি, শুধু 'এ তো জানা কথা' বলে তুলে রেখেছি?",
+      "এ সপ্তাহে একটা আয়াত এমনভাবে শোনা কেমন হবে, যেন তা কেবল আমাকেই বলা হচ্ছে?",
+      "'সবই সমান' কথাটা শক্ত হয়ে বসার আগে নিজের ভেতরের প্রথম ছোট্ট উদাসীনতাটুকু কি আমি টের পাই?"
+    ],
+    "lessonEn": "The danger is not only rejecting a reminder but ceasing to feel it; guard the heart that still softens when it is warned, before advice and silence sound the same.",
+    "lessonBn": "বিপদ শুধু উপদেশ প্রত্যাখ্যানে নয়, উপদেশ আর গায়ে না লাগাতেও। সতর্ক করলে যে মন এখনো নরম হয়, তাকে আগলে রাখুন, যেন নসীহত আর নীরবতা একসময় একই রকম না শোনায়।"
   }
 };
 
