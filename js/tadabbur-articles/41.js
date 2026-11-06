@@ -1631,6 +1631,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:39": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Sky to the Soil",
+          "bn": "আকাশ থেকে মাটির দিকে"
+        },
+        "p": [
+          {
+            "en": "The previous sign was overhead. 41:37 named the night, the day, the sun and the moon as signs of Allah, and forbade bowing to the sun or the moon: bow to Allah who created them. 41:38 answered a proud refusal with those near your Lord, who glorify Him night and day and never tire. That verse is a place of prostration, a matter the article on 41:37 has set out. Then the passage lowers its gaze, from the sky to the ground under the reader's feet.",
+            "bn": "আগের নিদর্শনটি ছিল মাথার উপরে। ৪১:৩৭ আয়াতে রাত, দিন, সূর্য আর চাঁদকে আল্লাহর নিদর্শন বলা হয়েছে, আর সূর্য বা চাঁদকে সিজদা করতে নিষেধ করা হয়েছে। সিজদা করতে হবে আল্লাহকে, যিনি এগুলো সৃষ্টি করেছেন। ৪১:৩৮ আয়াত অহংকারী অস্বীকারের জবাব দেয় তোমার রবের কাছে যারা আছে তাদের কথা বলে, যারা দিনরাত তাঁর তাসবীহ করে আর কখনো ক্লান্ত হয় না। ওই আয়াত সিজদার আয়াত, যার আলোচনা ৪১:৩৭-এর প্রবন্ধে আছে। এরপর আলোচনা দৃষ্টি নামিয়ে আনে আকাশ থেকে পাঠকের পায়ের নিচের মাটিতে।"
+          },
+          {
+            "en": "The new verse opens exactly as 41:37 did, wa-min ayatihi, and among His signs. Ibn Kathir's abridged English treats 41:37 to 41:39 as a single passage in which Allah reminds His creation of His power, that He has no equal and is able to do all things. This verse, he says, shows signs of His ability to bring the dead back to life.",
+            "bn": "নতুন আয়াতটি শুরু হয় ঠিক ৪১:৩৭-এর মতো করেই: ওয়া মিন আয়াতিহী, আর তাঁর নিদর্শনগুলোর মধ্যে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৪১:৩৭ থেকে ৪১:৩৯ পর্যন্ত এক টানা আলোচনা হিসেবে পড়ে। সেখানে আল্লাহ তাঁর সৃষ্টিকে নিজের ক্ষমতার কথা মনে করিয়ে দেন: তাঁর কোনো সমকক্ষ নেই, তিনি সবকিছু করতে সক্ষম। আর এ আয়াত, তাঁর ভাষায়, মৃতকে আবার জীবিত করার ক্ষমতার নিদর্শন দেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sign Pointing Where",
+          "bn": "নিদর্শনের ইশারা কোন দিকে"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators fix the sign on one target. Ibn Kathir reads among His signs as signs of His power to bring the dead back. At-Tabari makes it among the proofs and evidences of His power to spread out the dead after they have decayed, and to return them to their form as it was after they had perished. Al-Qurtubi: among His signs that show He gives life to the dead. Al-Baghawi says simply: proofs of His power. On this reading the verse has a single aim, and its own closing clause names it.",
+            "bn": "বেশির ভাগ তাফসীরকার নিদর্শনটিকে একটি লক্ষ্যে বেঁধে দেন। ইবন কাসীর 'তাঁর নিদর্শনগুলোর মধ্যে' কথাটি পড়েন মৃতদের ফিরিয়ে আনার ক্ষমতার নিদর্শন হিসেবে। তাবারীর ভাষায়, এগুলো আল্লাহর সেই ক্ষমতার প্রমাণ ও দলিল, যা দিয়ে তিনি পচে-গলে যাওয়া মৃতদের আবার ছড়িয়ে দেবেন, বিলীন হওয়ার পর আগের আকৃতিতে ফিরিয়ে আনবেন। কুরতুবী বলেন, তাঁর এমন নিদর্শন, যা দেখায় তিনি মৃতকে জীবিত করেন। বাগাভী শুধু বলেন, তাঁর ক্ষমতার দলিল। এ পাঠে আয়াতের লক্ষ্য একটাই, আর আয়াতের শেষ বাক্যই সেটার নাম বলে দেয়।"
+          },
+          {
+            "en": "As-Sa'di reads wider. For him the signs point to the perfection of Allah's power and to His being alone in sovereignty, in the ordering of affairs, and in oneness. Al-Muyassar likewise opens with among the marks of Allah's oneness and power. Neither sets the resurrection aside; both go on to it in their next sentences. But by naming oneness they let the sign bear also on whom to worship, which ties it back to the command of 41:37. The two framings are recorded here as each commentator gives them.",
+            "bn": "সা'দী আরও বিস্তৃতভাবে পড়েন। তাঁর মতে এ নিদর্শনগুলো ইশারা করে আল্লাহর পূর্ণ ক্ষমতার দিকে, আর রাজত্বে, পরিচালনায় ও একত্বে তাঁর একক হওয়ার দিকে। মুয়াসসারও শুরু করে এভাবে: আল্লাহর একত্ব ও ক্ষমতার নিদর্শনগুলোর মধ্যে। দুজনের কেউই পুনরুত্থানের কথা বাদ দেননি, পরের বাক্যেই সেখানে পৌঁছেছেন। তবে একত্বের কথা তুলে তাঁরা নিদর্শনটিকে ইবাদতের প্রশ্নের সঙ্গেও জুড়ে দেন: ইবাদত কার জন্য। এতে আয়াতটি ৪১:৩৭-এর নির্দেশের সঙ্গে আবার মিলে যায়। দুই ধরনের ব্যাখ্যাই এখানে রাখা হল, যেভাবে প্রত্যেক তাফসীরকার দিয়েছেন।"
+          },
+          {
+            "en": "A second, smaller difference lies in the words anna-ka tara, that you see. At-Tabari reads the you as the Prophet: that you, O Muhammad, see the earth. Al-Qurtubi says the address is to every person of reason. The first hears the Prophet ﷺ being shown the sign; the second hears it shown to anyone with a mind to use. Either way, the sign is something seen with the eyes, not a report that has to be taken on trust.",
+            "bn": "আরেকটি ছোট পার্থক্য আছে আন্নাকা তারা, অর্থাৎ 'তুমি দেখ' কথাটিতে। তাবারী এখানে 'তুমি' বলতে নবীকে বোঝেন: হে মুহাম্মাদ, তুমি দেখ জমিনকে। কুরতুবী বলেন, এ সম্বোধন প্রত্যেক বুদ্ধিমান মানুষের প্রতি। এক পাঠে নবী ﷺ-কে নিদর্শনটি দেখানো হচ্ছে। অন্য পাঠে দেখানো হচ্ছে চিন্তা করার মতো বুদ্ধি আছে এমন যে কাউকে। যেভাবেই পড়া হোক, নিদর্শনটি চোখে দেখার জিনিস, বিশ্বাস করে মেনে নিতে হয় এমন কোনো খবর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Grey, Crumbled and Quiet",
+          "bn": "ধূসর, ঝুরঝুরে, নিথর"
+        },
+        "p": [
+          {
+            "en": "The earth in the verse is khashi'ah. At-Tabari glosses it darisah ghabra': worn away and dust-coloured, with no plants and no crops in it. He supports this through his chains: Qatadah said dusty and broken up, and as-Suddi said dry and crumbled. Al-Baghawi has dry, dusty, with nothing growing. Ibn Kathir explains it with a different word, hamidah, lifeless with nothing growing in it, and then adds, rather, it is dead. Al-Muyassar has dry ground without plants, and as-Sa'di says only that nothing grows in it.",
+            "bn": "আয়াতে জমিনকে বলা হয়েছে খাশিআহ। তাবারী এর ব্যাখ্যা দেন দারিসাহ গাবরা: ক্ষয়ে যাওয়া, ধুলোর রঙের মাটি, যাতে না আছে কোনো উদ্ভিদ, না কোনো ফসল। নিজের সনদে তিনি এর সমর্থন আনেন। কাতাদা বলেছেন, ধূলিমলিন আর ভেঙে চুরচুর। সুদ্দী বলেছেন, শুকনো আর ঝুরঝুরে। বাগাভী বলেন, শুকনো, ধূলিমলিন, কিছুই জন্মায় না। ইবন কাসীর ব্যাখ্যা করেন ভিন্ন একটি শব্দে, হামিদাহ: প্রাণহীন, কিছুই গজায় না। তারপর যোগ করেন, বরং তা মৃত। মুয়াসসার বলে, শুকনো, উদ্ভিদহীন জমি। আর সা'দী শুধু বলেন, তাতে কোনো উদ্ভিদ নেই।"
+          },
+          {
+            "en": "Al-Qurtubi glosses the word as dry and barren, and then remarks that this is the earth being described with khushu'. He brings a line of an-Nabighah to show the usage: ashes like the kohl of the eye, which I barely make out, and a trench like the stump of a basin, notched and khashi'. Al-Qurtubi adds that a baldah khashi'ah is a town grey with dust with no dwelling left in it, and that one also speaks of a makan khashi', a khashi' place.",
+            "bn": "কুরতুবী শব্দটির অর্থ করেন শুকনো ও অনুর্বর। তারপর মন্তব্য করেন, এখানে জমিনকে খুশূ' গুণে গুণান্বিত করা হয়েছে। শব্দটির এমন ব্যবহার দেখাতে তিনি নাবিগার একটি পঙক্তি আনেন: চোখের সুরমার মতো ছাই, যা আমি বহু কষ্টে চিনতে পারি, আর হাউজের গোড়ার মতো একটি খাদ, ভাঙা কিনারা, খাশি'। কুরতুবী আরও বলেন, বালদাহ খাশিআহ মানে এমন জনপদ, যা ধুলোয় ধূসর, যেখানে থাকার মতো কোনো ঘর আর অবশিষ্ট নেই। মাকান খাশি', অর্থাৎ খাশি' জায়গা, কথাটিও বলা হয়।"
+          },
+          {
+            "en": "The glosses agree on what the ground looks like: dry, dust-coloured, broken, empty of growth. Ibn Kathir's choice of hamidah is worth a glance, because hamidah is the very word 22:5 uses for the same scene before the same ihtazzat wa-rabat. What this verse adds is its own word for the ground. In place of hamidah, lifeless, it says khashi'ah, a word the Qur'an also uses of people.",
+            "bn": "জমিন দেখতে কেমন, এ নিয়ে ব্যাখ্যাগুলো একমত: শুকনো, ধুলোর রঙের, ভাঙাচোরা, কোনো কিছু গজায় না। ইবন কাসীর যে হামিদাহ শব্দটি বেছে নিলেন, সেটা একটু খেয়াল করার মতো। ২২:৫ আয়াত ঠিক এই দৃশ্যের জন্য, ঠিক একই ইহতাযযাত ওয়া রাবাতের আগে, এই হামিদাহ শব্দটিই ব্যবহার করে। এ আয়াত যোগ করে মাটির জন্য নিজস্ব একটি শব্দ। প্রাণহীন অর্থে হামিদাহ না বলে এখানে বলা হয়েছে খাশিআহ, আর এ শব্দ কুরআন মানুষের বেলায়ও ব্যবহার করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground With Its Head Lowered",
+          "bn": "মাথা নুইয়ে থাকা মাটি"
+        },
+        "p": [
+          {
+            "en": "Elsewhere in the Qur'an the same root falls on people. In 20:108 voices are lowered, khasha'at, before the Most Merciful, so that you hear only a murmur. In 68:43 eyes are khashi'ah and humiliation covers them, and they used to be called to prostration while they were sound. In each case khushu' is something in a person brought low. Al-Qurtubi registers the move in one clause when he says that here the earth is being described with khushu'.",
+            "bn": "কুরআনের অন্য জায়গায় একই ধাতু এসেছে মানুষের বেলায়। ২০:১০৮ আয়াতে দয়াময়ের সামনে কণ্ঠস্বরগুলো নিচু হয়ে যায়, খাশাআত, তখন মৃদু গুঞ্জন ছাড়া কিছুই শোনা যায় না। ৬৮:৪৩ আয়াতে চোখগুলো খাশিআহ, লাঞ্ছনা তাদের ঢেকে ফেলে, অথচ সুস্থ থাকা অবস্থায় তাদের সিজদার দিকে ডাকা হত। প্রতিটি জায়গায় খুশূ' মানে মানুষের ভেতরের বা বাইরের কিছু নত হয়ে যাওয়া। কুরতুবী এক বাক্যে সেটাই ধরিয়ে দেন: এখানে জমিনকে খুশূ' দিয়ে বর্ণনা করা হয়েছে।"
+          },
+          {
+            "en": "There is also the verse's place. It comes straight after a verse of prostration. The passage has just told people to put their foreheads down to Allah alone, and has pointed to those near Him who never tire of glorifying Him. Then it shows the ground lying low. None of the commentators consulted here draws that link, and this article offers it only as something a reader may notice, not as their reading. What the text itself does is plain. It gives the earth a word of humility, and then it gives that humbled earth life.",
+            "bn": "আয়াতটির অবস্থানও লক্ষ করার মতো। এটি এসেছে সিজদার আয়াতের ঠিক পরে। আলোচনাটি সবেমাত্র মানুষকে বলেছে শুধু আল্লাহর সামনে কপাল রাখতে, আর দেখিয়েছে তাঁর কাছে যারা আছে, যারা তাঁর তাসবীহ করতে কখনো ক্লান্ত হয় না। তারপরই দেখায় নিচু হয়ে পড়ে থাকা মাটি। এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ যোগসূত্র টানেনি। তাই এ প্রবন্ধ একে তাফসীরকারদের ব্যাখ্যা বলছে না, পাঠকের চোখে পড়তে পারে এমন একটি বিষয় হিসেবে রাখছে। পাঠ্য নিজে যা করে, তা স্পষ্ট। জমিনকে বিনয়ের একটি শব্দ দেয়, তারপর সেই বিনীত জমিনকেই জীবন দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stirred, or Glad at the Rain",
+          "bn": "নড়ে ওঠা, নাকি বৃষ্টিতে খুশি"
+        },
+        "p": [
+          {
+            "en": "Then: when We send down water upon it, ihtazzat. At-Tabari explains: when We send down rain from the sky upon this khashi'ah earth, it stirs with plants, that is, it moves with them. He gives Mujahid through his chain: ihtazzat, with the plants. As-Sa'di says the same, it moved with plants. Al-Muyassar puts it in two steps: life crept into it, and it moved with plants. Al-Qurtubi also relays Mujahid, and grounds the verb in ordinary speech: ihtazza al-insan, a man moved.",
+            "bn": "তারপর: যখন আমি এর উপর পানি বর্ষণ করি, ইহতাযযাত। তাবারী ব্যাখ্যা করেন, আকাশ থেকে এই খাশিআহ জমিনে যখন বৃষ্টি নামাই, তখন তা উদ্ভিদ নিয়ে নড়ে ওঠে, মানে উদ্ভিদের সঙ্গে নড়াচড়া করে। নিজের সনদে তিনি মুজাহিদের কথা আনেন: ইহতাযযাত, উদ্ভিদ নিয়ে। সা'দীও একই কথা বলেন, উদ্ভিদ নিয়ে নড়ে উঠল। মুয়াসসার কথাটি বলে দুই ধাপে: তাতে প্রাণের সঞ্চার হল, আর উদ্ভিদ নিয়ে তা নড়ে উঠল। কুরতুবীও মুজাহিদের কথা উদ্ধৃত করেন, আর ক্রিয়াটির শিকড় দেখান রোজকার ভাষায়: ইহতাযযাল ইনসান, মানুষটি নড়ে উঠল।"
+          },
+          {
+            "en": "Al-Qurtubi adds a line of verse with the same verb: you see him like a sword's blade, stirring towards generosity, when you find nothing to hope for from a man of evil. Then he records a second reading with it has been said: ihtazzat means it rejoiced at the rain, and rabat means it swelled with plants. When the earth splits open with plants it is described as laughing, so describing it as rejoicing is also allowed. He gives this as a reported view, not as his own choice.",
+            "bn": "কুরতুবী একই ক্রিয়ার ব্যবহার দেখাতে একটি কবিতার পঙক্তি আনেন: তুমি তাকে দেখবে তলোয়ারের ফলার মতো, দানের দিকে চঞ্চল হয়ে ওঠে, যখন কোনো মন্দ লোকের কাছে আশা করার মতো কিছুই পাও না। তারপর 'বলা হয়েছে' বলে দ্বিতীয় একটি ব্যাখ্যা উল্লেখ করেন। ইহতাযযাত মানে বৃষ্টিতে জমিন খুশি হল, আর রাবাত মানে উদ্ভিদ নিয়ে ফুলে উঠল। উদ্ভিদ নিয়ে মাটি যখন ফেটে যায়, তখন তাকে হাসছে বলে বর্ণনা করা হয়। কাজেই খুশি হওয়ার বর্ণনাও চলে। মতটি তিনি বর্ণিত মত হিসেবেই রাখেন, নিজের বাছাই হিসেবে নয়।"
+          },
+          {
+            "en": "These are the meanings the sources give the verb: movement with growing plants, or a gladness at the rain. None of the commentators consulted reads it as a technical claim about soil, and this article does not either. The verse describes what anyone who works the land has watched: water on hard ground, and the ground answering. Its force does not depend on any later discovery.",
+            "bn": "উৎসগুলো ক্রিয়াটির এ দুটি অর্থই দেয়: গজানো উদ্ভিদের সঙ্গে নড়ে ওঠা, অথবা বৃষ্টিতে খুশি হওয়া। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই একে মাটি নিয়ে কোনো কারিগরি দাবি হিসেবে পড়েনি, এ প্রবন্ধও পড়ছে না। যে মানুষ জমিতে কাজ করে, সে যা বারবার দেখেছে, আয়াত সেটাই বর্ণনা করে: শক্ত মাটিতে পানি পড়ে, আর মাটি সাড়া দেয়। এর জোর পরবর্তী কালের কোনো আবিষ্কারের উপর নির্ভর করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swelling Before the Shoot",
+          "bn": "অঙ্কুরের আগেই ফুলে ওঠা"
+        },
+        "p": [
+          {
+            "en": "Wa-rabat: and it swelled. At-Tabari glosses it intafakhat, it puffed up, and as-Suddi says the same in his chain. Qatadah, also in at-Tabari, says the rain is recognised in the earth's rising, its rabw. Mujahid gives a sharper sense: rabat for the plants means it rose before it sprouted. Al-Qurtubi relays the same from Mujahid. Al-Muyassar combines both glosses: it swelled and rose.",
+            "bn": "ওয়া রাবাত: আর তা ফুলে উঠল। তাবারী এর অর্থ করেন ইনতাফাখাত, ফেঁপে উঠল। সুদ্দীও নিজের সনদে একই কথা বলেন। তাবারীর বর্ণনায় কাতাদা বলেন, জমিনের উঁচু হয়ে ওঠা, তার রাবউ দেখেই বৃষ্টি চেনা যায়। মুজাহিদ আরও সূক্ষ্ম অর্থ দেন: উদ্ভিদের জন্য রাবাত, অর্থাৎ অঙ্কুর বের হওয়ার আগেই মাটি উঁচু হয়ে উঠল। কুরতুবীও মুজাহিদের এ কথা উদ্ধৃত করেন। মুয়াসসার দুটোকে মিলিয়ে বলে, ফুলে উঠল আর উঁচু হল।"
+          },
+          {
+            "en": "Al-Qurtubi then works through the order. If rising comes before sprouting while the stirring comes with the plants, the words are in inverted order, taqdim wa-ta'khir, and the sense is it swelled and then stirred. He loosens this at once. Both the stirring and the swelling may happen before the plant leaves the soil, or after it reaches the surface. A raised place is called rabwah or rabiyah; the plant moves to break through, then grows in body, in height and breadth. Or the two may be one: the moment the plants come out.",
+            "bn": "এরপর কুরতুবী ক্রমটি নিয়ে ভাবেন। অঙ্কুর বের হওয়ার আগে যদি মাটি উঁচু হয়, আর নড়ে ওঠা যদি হয় উদ্ভিদের সঙ্গে, তবে শব্দ দুটি আগে-পিছে বসেছে, যাকে বলে তাকদীম ও তা'খীর। তখন অর্থ দাঁড়ায়: ফুলে উঠল, তারপর নড়ে উঠল। পরক্ষণেই তিনি কথাটা শিথিল করেন। নড়ে ওঠা আর ফুলে ওঠা দুটোই হতে পারে উদ্ভিদ মাটি ছেড়ে বের হওয়ার আগে, আবার উপরিভাগে পৌঁছানোর পরেও। উঁচু জায়গাকে বলা হয় রাবওয়াহ বা রাবিয়াহ। উদ্ভিদ বেরিয়ে আসতে নড়ে, তারপর দৈর্ঘ্যে-প্রস্থে দেহে বাড়ে। অথবা দুটি একই জিনিস: উদ্ভিদ বেরিয়ে আসার মুহূর্ত।"
+          },
+          {
+            "en": "He also records a variant reading: Abu Ja'far and Khalid read wa-raba'at, meaning it grew great, which he takes from the word rabi'ah. Whatever the order, the commentators agree on what comes out. Ibn Kathir says it brought forth beautiful colours of crops and fruits. As-Sa'di says it put forth every delightful kind, by which He gives life to His servants and to the lands. The order itself stays open, as al-Qurtubi left it.",
+            "bn": "তিনি একটি ভিন্ন কিরাআতও উল্লেখ করেন। আবু জা'ফর ও খালিদ পড়েছেন ওয়া রাবাআত, অর্থ বড় হয়ে উঠল। তিনি একে রাবীআহ শব্দ থেকে নেন। ক্রম যা-ই হোক, যা বের হয়ে আসে তা নিয়ে তাফসীরকারেরা একমত। ইবন কাসীর বলেন, জমিন বের করল ফসল আর ফলের নানা সুন্দর রং। সা'দী বলেন, জমিন উৎপন্ন করল সব ধরনের মনোরম উদ্ভিদ, যা দিয়ে তিনি বান্দাদের আর জনপদগুলোকে জীবন দেন। ক্রমের প্রশ্নটি খোলাই থাকছে, কুরতুবী যেভাবে রেখে গেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Who Revived It",
+          "bn": "যিনি একে জীবিত করলেন"
+        },
+        "p": [
+          {
+            "en": "Inna alladhi ahyaha la-muhyi al-mawta: He who gave it life is the giver of life to the dead. At-Tabari spells out the step. He who revived this worn-away earth, brought plants out of it and made it stir with crops after its dryness and ruin, by the rain sent down on it, is able to revive the dead of the children of Adam after their death. He says this is how the people of interpretation explained it, and cites one of them.",
+            "bn": "ইন্নাল্লাযী আহইয়াহা লামুহইল মাওতা: যিনি একে জীবন দিয়েছেন, তিনিই মৃতদের জীবনদাতা। তাবারী ধাপটি খুলে বলেন। শুকনো আর বিরান হয়ে যাওয়ার পর যিনি বৃষ্টি নামিয়ে এই ক্ষয়ে যাওয়া জমিনকে জীবিত করলেন, তা থেকে উদ্ভিদ বের করলেন, ফসল দিয়ে তাকে নাড়িয়ে তুললেন, তিনি আদমসন্তানদের মৃতদেরও মৃত্যুর পর জীবিত করতে সক্ষম। তাবারী বলেন, তাফসীরের আলেমরা এভাবেই ব্যাখ্যা করেছেন। তারপর তাঁদের একজনের কথা উদ্ধৃত করেন।"
+          },
+          {
+            "en": "That one is as-Suddi: as He gives life to the earth with rain, so He gives life to the dead with water on the Day of Resurrection, between the two blasts. As-Sa'di places the raising: He will give life to the dead from their graves, to the day of their resurrection and their rising. Al-Muyassar and as-Sa'di close on almost the same sentence. As His power did not fall short of reviving the earth after its death, it will not fall short of reviving the dead.",
+            "bn": "সেই একজন হলেন সুদ্দী। তিনি বলেন, আল্লাহ যেমন বৃষ্টি দিয়ে জমিনকে জীবিত করেন, তেমনি কিয়ামতের দিন দুই ফুঁৎকারের মাঝে পানি দিয়ে মৃতদের জীবিত করবেন। সা'দী জানান পুনরুত্থান কোথা থেকে হবে: তিনি মৃতদের কবর থেকে জীবিত করবেন, তাদের উত্থান আর পুনরুজ্জীবনের দিন পর্যন্ত। মুয়াসসার আর সা'দী প্রায় একই বাক্যে শেষ করেন। জমিনকে তার মৃত্যুর পর জীবিত করতে তাঁর ক্ষমতা যেমন অক্ষম হয়নি, মৃতদের জীবিত করতেও তেমনি অক্ষম হবে না।"
+          },
+          {
+            "en": "None of the commentators consulted attaches a hadith to this verse. A general narration in Sahih al-Bukhari, number 4935, which none of them ties to it, speaks of the water as-Suddi mentions. Abu Huraira (RA) said, 'Allah's Messenger ﷺ said: Between the two sounds of the trumpet, there will be forty.' Somebody asked Abu Huraira, 'Forty days?' But he refused to reply. Then he asked, 'Forty months?' He refused to reply. Then he asked, 'Forty years?' Again, he refused to reply.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। সহীহ বুখারীর ৪৯৩৫ নম্বর হাদীসটি একটি সাধারণ বর্ণনা, তাঁদের কেউ একে এ আয়াতের সঙ্গে জোড়েননি। তবে সুদ্দী যে পানির কথা বলেছেন, এতে সে পানির উল্লেখ আছে। আবু হুরায়রা (রাঃ) বলেন, আল্লাহর রাসূল ﷺ বলেছেন, 'দুই ফুঁৎকারের মাঝে থাকবে চল্লিশ।' একজন আবু হুরায়রাকে জিজ্ঞেস করল, 'চল্লিশ দিন?' তিনি উত্তর দিতে অস্বীকার করলেন। লোকটি আবার জিজ্ঞেস করল, 'চল্লিশ মাস?' তিনি উত্তর দিতে অস্বীকার করলেন। এরপর জিজ্ঞেস করল, 'চল্লিশ বছর?' এবারও তিনি উত্তর দিতে অস্বীকার করলেন।"
+          },
+          {
+            "en": "Abu Huraira (RA) added, 'Then (after this period) Allah will send water from the sky and then the dead bodies will grow like vegetation grows. There is nothing of the human body that does not decay except one bone; that is the little bone at the end of the coccyx of which the human body will be recreated on the Day of Resurrection.' Al-Bukhari places it in his Sahih with no further grading.",
+            "bn": "আবু হুরায়রা (রাঃ) আরও বলেন, 'তারপর (এ সময়ের পর) আল্লাহ আকাশ থেকে পানি পাঠাবেন, আর মৃতদেহগুলো গজিয়ে উঠবে যেমন শাকসবজি গজায়। মানুষের দেহের এমন কিছু নেই যা ক্ষয়ে যায় না, শুধু একটি হাড় ছাড়া। সেটি মেরুদণ্ডের শেষ প্রান্তের ছোট্ট হাড়, কিয়ামতের দিন যা থেকে মানবদেহকে আবার গড়া হবে।' বুখারী একে নিজের সহীহতে রেখেছেন, আলাদা কোনো মান উল্লেখ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wider Than the Field",
+          "bn": "মাঠের চেয়েও বিস্তৃত"
+        },
+        "p": [
+          {
+            "en": "The verse closes: innahu 'ala kulli shay'in qadir, He has power over all things. At-Tabari glosses: your Lord, O Muhammad, has power to give His creation life after death and over everything He wills; nothing He wants is beyond Him. The field proves one thing, the raising of the dead. The last clause reaches past it to everything. 30:50 ends on almost the same pair of clauses, and al-Qurtubi notes only that the point has come before in more than one place.",
+            "bn": "আয়াতের শেষ কথা: ইন্নাহূ আলা কুল্লি শাইয়িন কাদীর, নিশ্চয়ই তিনি সবকিছুর উপর ক্ষমতাবান। তাবারীর ব্যাখ্যা: হে মুহাম্মাদ, তোমার রব মৃত্যুর পর তাঁর সৃষ্টিকে জীবন দিতে সক্ষম, আর তিনি যা চান তার সবকিছুতেই সক্ষম। তিনি যা চান, কোনো কিছুই তাঁকে অপারগ করতে পারে না। মাঠ প্রমাণ করে একটি কথা, মৃতদের পুনরুত্থান। শেষ বাক্য তার সীমা ছাড়িয়ে সবকিছুতে পৌঁছে যায়। ৩০:৫০ আয়াতও প্রায় এই দুই বাক্যেই শেষ হয়েছে। কুরতুবী শুধু বলেন, কথাটি আগে একাধিক জায়গায় এসেছে।"
+          },
+          {
+            "en": "The verse gives a practice as well as a proof. Every time rain falls on dry ground, the argument repeats itself in front of you, and on al-Qurtubi's reading of that you see, the address includes you. And the order in the verse is worth keeping. The ground lies low first, khashi'ah, and only then does the water come down and the life begin.",
+            "bn": "আয়াতটি শুধু প্রমাণ দেয় না, একটি অভ্যাসও শেখায়। শুকনো মাটিতে যতবার বৃষ্টি পড়ে, যুক্তিটি ততবার আপনার চোখের সামনে নতুন করে ঘটে। আর কুরতুবীর পাঠে 'তুমি দেখ' সম্বোধনের মধ্যে আপনিও আছেন। আয়াতের ক্রমটিও মনে রাখার মতো। আগে মাটি নিচু হয়ে পড়ে থাকে, খাশিআহ হয়ে। তারপরই পানি নামে, আর শুরু হয় জীবন।"
+          }
+        ]
+      }
+    ]
+  },
   "41:44": {
     "sections": [
       {

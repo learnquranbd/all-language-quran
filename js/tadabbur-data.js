@@ -26589,6 +26589,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an came clear and in its hearers' own tongue; whether it guides and heals or leaves a person deaf and blind depends on the heart that receives it.",
     "lessonBn": "কুরআন এসেছে স্পষ্ট হয়ে, শ্রোতাদের নিজের ভাষায়। তা হিদায়াত ও শিফা হবে, নাকি মানুষকে বধির ও অন্ধ রেখে দেবে, সেটা নির্ভর করে গ্রহণকারী মনের উপর।"
+  },
+  "41:39": {
+    "reflectionEn": "Walk past a bare plot in the dry months: grey, cracked, flat, nothing in it worth a second look. The verse calls such ground khashi'ah, lowered and still, a word the Qur'an also uses for a humbled face. Then the rain comes, and within days the same soil stirs, lifts and turns green. The verse does not stop at the field. The One who gave that ground life, it says, will give life to the dead, for He has power over everything. The argument asks for nothing hidden. It asks me to look at what I have already seen many times. So what does my eye do with a field after rain? Do I see only weather, or a promise about my own grave?",
+    "reflectionBn": "শুকনো মৌসুমে একখণ্ড খালি জমির পাশ দিয়ে হেঁটে যান। ধূসর, ফাটা, সমতল মাটি, দ্বিতীয়বার তাকানোর মতো কিছু নেই। আয়াত এমন জমিকে বলে খাশিআহ: নুয়ে পড়া, নিথর। কুরআন এই শব্দই ব্যবহার করে অবনত চেহারার বেলায়। তারপর বৃষ্টি নামে, আর কদিনের মধ্যেই সেই মাটি নড়ে ওঠে, ফুলে ওঠে, সবুজ হয়ে যায়। আয়াত কিন্তু মাঠে থেমে থাকে না। বলে, যিনি ওই জমিকে জীবন দিলেন, তিনিই মৃতদের জীবন দেবেন, কারণ সবকিছুর উপর তাঁর ক্ষমতা আছে। এ যুক্তি অদৃশ্য কিছু দেখতে বলে না। যা আমি বহুবার দেখেছি, শুধু সেদিকে চোখ ফেরাতে বলে। বৃষ্টির পরের মাঠ দেখে আমার চোখ তাহলে কী করে? আমি কি শুধু আবহাওয়া দেখি, নাকি নিজের কবর নিয়ে একটা প্রতিশ্রুতিও দেখি?",
+    "pointsEn": [
+      "The last time I saw dry ground turn green after rain, did the raising of the dead cross my mind at all?",
+      "Do I expect to be brought back to life the way I expect the next rain, or is it an idea I agree with from a distance?",
+      "The ground lies low and still before the water reaches it; how low do I lie before Allah when I ask Him for something?",
+      "If His power covers everything, what in my own life am I still treating as too hard for Him?",
+      "What would change in how I live this week if I took the green field as a message addressed to me?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন বৃষ্টির পর শুকনো মাটিকে সবুজ হতে দেখেছি, মৃতদের আবার জীবিত হওয়ার কথা কি একবারও মনে এসেছে?",
+      "পরের বৃষ্টি যেমন নিশ্চিতভাবে আশা করি, মৃত্যুর পর আবার জীবিত হওয়াকে কি তেমনি আশা করি? নাকি দূর থেকে মেনে নেওয়া একটা ধারণা মাত্র?",
+      "পানি পৌঁছানোর আগে মাটি নিচু হয়ে নিথর পড়ে থাকে। আল্লাহর কাছে কিছু চাওয়ার সময় আমি নিজেকে কতটা নিচু করি?",
+      "তাঁর ক্ষমতা যদি সবকিছুকে ঘিরে থাকে, তবে আমার জীবনের কোন বিষয়টাকে আমি এখনো তাঁর জন্য কঠিন মনে করছি?",
+      "সবুজ মাঠকে যদি আমার কাছে পাঠানো বার্তা হিসেবে নিই, তাহলে এ সপ্তাহে আমার চলাফেরায় কী বদলাবে?"
+    ],
+    "lessonEn": "Whenever rain revives dry ground, remember that the One who gives it life will raise the dead, and let what you have seen settle your certainty about the return.",
+    "lessonBn": "বৃষ্টি যখনই শুকনো মাটিকে জীবিত করে, মনে রাখুন, যিনি তাকে জীবন দেন তিনিই মৃতদের জীবিত করবেন। চোখে দেখা এই দৃশ্য দিয়েই আখিরাতের প্রতি আপনার বিশ্বাস দৃঢ় করুন।"
   }
 };
 
