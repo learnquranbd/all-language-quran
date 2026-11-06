@@ -29287,6 +29287,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Fire's only 'except' is worse than what it answers. Thank Allah for every cool drink now, and change the deeds you would not want matched.",
     "lessonBn": "জাহান্নামের একমাত্র 'ছাড়া' যা দেয়, তা অভাবের চেয়েও ভয়ংকর। আজকের প্রতিটি ঠান্ডা চুমুকের জন্য আল্লাহর শুকরিয়া আদায় করুন, আর যে আমল হুবহু মিলিয়ে ফেরত পেতে চান না, তা এখনই বদলে ফেলুন।"
+  },
+  "79:10": {
+    "reflectionEn": "They ask it as people who have already settled the matter: will we really be taken back to where we began, when we are crumbled bones? One sense of the word they use pictures a traveller turning round and walking back along his own tracks. They say it in scorn. The verses around it do not: hearts that Day are trembling, eyes are cast down, and the return they mocked needs only a single cry. The question they asked to dismiss the Hereafter is worth asking honestly. If I am to be brought back along this road, what have I left lying on it? What would I want to find there, and what would I rather never meet again?",
+    "reflectionBn": "প্রশ্নটা তারা এমনভাবে করে, যেন ব্যাপারটার মীমাংসা আগেই হয়ে গেছে: আমরা যখন গুঁড়ো হয়ে যাওয়া হাড় হয়ে যাব, তখনো কি আমাদের শুরুর জায়গায় ফিরিয়ে নেওয়া হবে? তাদের ব্যবহার করা শব্দটার একটি অর্থে ছবিটা এমন: এক পথিক ঘুরে দাঁড়িয়ে নিজের পায়ের ছাপ ধরে পেছনে হাঁটছে। কথাটা তারা বলে তাচ্ছিল্য করে। কিন্তু আশপাশের আয়াতগুলোর সুরে কোনো তাচ্ছিল্য নেই। সেদিন হৃদয় কাঁপবে, দৃষ্টি নত থাকবে, আর যে ফেরাকে তারা ঠাট্টা করেছিল, তার জন্য একটি ডাকই যথেষ্ট। আখিরাতকে উড়িয়ে দিতে তারা যে প্রশ্ন করেছিল, সেটাই সৎভাবে নিজেকে করা দরকার। এই পথ ধরে যদি আমাকে ফিরিয়ে আনা হয়, পথে কী কী ফেলে এসেছি? সেখানে কী পেতে চাই, আর কোনটার মুখোমুখি আর কখনো হতে চাই না?",
+    "pointsEn": [
+      "Which stretch of my life would I least like to walk back through, and what in it can I still put right today?",
+      "When the return is mentioned, do I treat it as a fact to prepare for or as a topic to argue about?",
+      "The deniers called the return a losing deal. What am I trading away now that would look like a loss on that Day?",
+      "What good am I putting off because, somewhere inside, I assume the reckoning is still far away?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন অংশ দিয়ে আবার হেঁটে যেতে আমার সবচেয়ে অস্বস্তি হবে? তার মধ্যে কোনটা আজও শুধরে নেওয়া যায়?",
+      "ফিরে যাওয়ার কথা উঠলে আমি কি একে প্রস্তুতি নেওয়ার মতো সত্য হিসেবে নিই, নাকি তর্কের বিষয় বানাই?",
+      "অস্বীকারকারীরা এই ফেরাকে লোকসানের কারবার বলেছিল। আজ আমি কী বিকিয়ে দিচ্ছি, যা সেদিন লোকসান বলে প্রমাণিত হবে?",
+      "মনের গভীরে হিসাবের দিনটাকে দূরে ভাবি বলে কোন নেক কাজ আমি পিছিয়ে রাখছি?"
+    ],
+    "lessonEn": "Those who mocked the return will face it all the same; live as one who will walk back over every step taken, and make those steps worth meeting again.",
+    "lessonBn": "যারা ফিরে যাওয়াকে ঠাট্টা করেছিল, তাদেরও ফিরতে হবে। এমনভাবে বাঁচুন যেন ফেলে আসা প্রতিটি পদক্ষেপের উপর দিয়ে আবার হাঁটতে হবে, আর সেগুলো যেন আবার দেখার মতো হয়।"
   }
 };
 

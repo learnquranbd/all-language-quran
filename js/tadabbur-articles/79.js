@@ -303,6 +303,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "79:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words in the Deniers' Mouths",
+          "bn": "অস্বীকারকারীদের মুখে পাঁচটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Yaquluna a-inna la-mardududuna fi al-hafira: they say, will we really be returned to al-hafira? The verse is five Arabic words, and each of them belongs to people being quoted. It follows two verses about a Day: hearts that Day trembling, their eyes cast down. Then the scene turns to what these same people say now. As-Sa'di, whose comment on the words is filed with the next verse, says the speakers are the disbelievers in this world, speaking by way of denial.",
+            "bn": "ইয়াকূলূনা আইন্না লামারদূদূনা ফিল হাফিরাহ: তারা বলে, আমাদের কি সত্যিই আল-হাফিরায় ফিরিয়ে নেওয়া হবে? আয়াতটি আরবিতে পাঁচটি শব্দ, আর প্রতিটি শব্দই এমন লোকদের, যাদের কথা এখানে উদ্ধৃত হচ্ছে। এর ঠিক আগের দুই আয়াতে এক দিনের ছবি: সেদিন হৃদয় কাঁপবে, দৃষ্টি নত থাকবে। তারপরই দৃশ্য ঘুরে যায় এই লোকেরা এখন কী বলে, সেদিকে। সা'দীর ব্যাখ্যা পরের আয়াতের সঙ্গে রাখা আছে। তিনি বলেন, বক্তারা হলো দুনিয়ার কাফিররা, আর কথাটা তারা বলে মিথ্যা প্রতিপন্ন করার জন্য।"
+          },
+          {
+            "en": "At-Tabari names them: those who deny the resurrection, from the idolaters of Quraysh, who answer this way when told that they will be raised after death. Ibn Kathir has the idolaters of Quraysh and whoever says what they said in denying the return. Al-Baghawi keeps it general: those who deny the resurrection. The question is built with a-inna and the emphatic la, a firm statement turned into a question. Al-Qurtubi says they spoke denying and marvelling, and sets their words beside another saying of theirs: will we really be raised as a new creation?",
+            "bn": "তাবারী তাদের পরিচয় দেন: কুরাইশের মুশরিকদের মধ্যে যারা পুনরুত্থান অস্বীকার করত, মৃত্যুর পর আবার ওঠানো হবে শুনলে তারা এভাবেই জবাব দিত। ইবন কাসীরের কথায়, কুরাইশের মুশরিকরা এবং ফিরে আসাকে অস্বীকার করতে গিয়ে যারা তাদের মতো কথা বলে। বাগাভী কথাটা সাধারণ রাখেন: পুনরুত্থান অস্বীকারকারীরা। প্রশ্নটা গড়া হয়েছে আইন্না আর জোর দেওয়ার লাম দিয়ে। জোরালো এক দাবিকে যেন প্রশ্ন বানিয়ে ফিরিয়ে দেওয়া হচ্ছে। কুরতুবী বলেন, তারা কথাটা বলেছিল অস্বীকার আর বিস্ময় নিয়ে। পাশে তিনি রাখেন তাদেরই আরেকটি কথা: আমাদের কি সত্যিই নতুন সৃষ্টি হিসেবে ওঠানো হবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Back Along One's Own Tracks",
+          "bn": "নিজের পায়ের ছাপ ধরে পেছনে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own explanation comes first: will we be returned to our former state before death, coming back alive as we were before we perished? He takes it from an Arab expression, raja'a fulan 'ala hafiratihi, so-and-so went back on his hafira, meaning he returned the way he came. He cites a line of verse: back to al-hafira, with baldness and grey hair? God forbid such folly and recklessness. Al-Qurtubi gives the line as recited by Ibn al-A'rabi and glosses it: am I to go back to the courting of my youth after I have gone grey and bald?",
+            "bn": "তাবারী প্রথমে নিজের ব্যাখ্যা দেন: মৃত্যুর আগে আমরা যে অবস্থায় ছিলাম, আমাদের কি সেখানে ফিরিয়ে নেওয়া হবে, ধ্বংস হওয়ার আগে যেমন জীবিত ছিলাম তেমন? অর্থটা তিনি নেন আরবদের এক কথা থেকে: রাজাআ ফুলানুন আলা হাফিরাতিহি, অমুক তার হাফিরার উপর ফিরে গেল, মানে যে পথে এসেছিল সে পথেই ফিরল। প্রমাণ হিসেবে তিনি এক কবিতার চরণ আনেন: টাক আর পাকা চুল নিয়ে আবার সেই হাফিরায়? এমন নির্বুদ্ধিতা আর চপলতা থেকে আল্লাহর আশ্রয়। কুরতুবী চরণটি ইবনুল আরাবীর আবৃত্তি বলে উল্লেখ করেন এবং ব্যাখ্যা দেন: চুল পেকে মাথায় টাক পড়ার পর আমি কি আবার যৌবনের প্রেম-খেলায় ফিরে যাব?"
+          },
+          {
+            "en": "At-Tabari then gives the early glosses with their chains. Ibn Abbas, in one chain, says al-hafira means life; in another he explains the verse as: shall we live after our death and be raised from this place of ours? Qatada, in two chains, says: shall we be raised as a new creation? A report from Muhammad ibn Qays or Muhammad ibn Ka'b al-Qurazi, the narrator unsure which, says: into life. As-Suddi says the same. At-Tabari adds that the people of interpretation spoke along the lines he gave.",
+            "bn": "এরপর তাবারী সনদসহ প্রথম যুগের ব্যাখ্যাগুলো তুলে ধরেন। এক সনদে ইবন আব্বাস (রাঃ) বলেন, আল-হাফিরা মানে জীবন। আরেক সনদে তিনি আয়াতের অর্থ করেন এভাবে: মৃত্যুর পর আমরা কি আবার বাঁচব, আর আমাদের এই জায়গা থেকে কি আমাদের ওঠানো হবে? কাতাদা দুই সনদে বলেন: আমাদের কি নতুন সৃষ্টি হিসেবে ওঠানো হবে? মুহাম্মাদ ইবন কায়স অথবা মুহাম্মাদ ইবন কা'ব আল-কুরাযী থেকে একটি বর্ণনা আছে, কোনজন তা নিয়ে বর্ণনাকারী নিশ্চিত নন: জীবনে ফেরা। সুদ্দীও একই কথা বলেন। তাবারী যোগ করেন, ব্যাখ্যাকারেরা তাঁর দেওয়া অর্থের কাছাকাছি কথাই বলেছেন।"
+          },
+          {
+            "en": "Al-Baghawi words it as a return to the first condition and the beginning of the matter, so that we become alive after death as we were. Among the Arabs, he says, al-hafira is a name for the start of a thing, its first point. Al-Qurtubi credits Qatada with the same expression and the same sense: he returned from where he came. The Muyassar puts it most simply: will we be returned, after our death, to what we were, living on the earth? The picture underneath is a road, and someone at its end turned back to where it began.",
+            "bn": "বাগাভীর ভাষায়, প্রথম অবস্থা আর শুরুর দিকে ফেরা, যাতে মৃত্যুর পর আমরা আগের মতো জীবিত হয়ে উঠি। তিনি বলেন, আরবদের কাছে আল-হাফিরা কোনো কিছুর শুরু, তার প্রথম বিন্দুর নাম। কুরতুবী একই প্রবাদ আর একই অর্থ কাতাদার নামে উল্লেখ করেন: যেখান থেকে এসেছিল, সেখানে ফিরে গেল। মুয়াসসার সবচেয়ে সহজ করে বলে: মৃত্যুর পর আমরা পৃথিবীতে যেমন জীবিত ছিলাম, আমাদের কি তেমন অবস্থায় ফিরিয়ে আনা হবে? সব ব্যাখ্যার নিচে একটা ছবি আছে: একটা পথ, আর পথের শেষে পৌঁছে যাকে আবার শুরুর জায়গায় ফিরিয়ে দেওয়া হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Payment at the First Word",
+          "bn": "প্রথম কথাতেই দাম মেটানো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gathers more of the word's uses. There is a proverb, an-naqd 'inda al-hafira, payment at al-hafira, and he reports Ya'qub's explanation of it: at the first word, the moment the bargain is struck. People also say that two parties met and fought 'inda al-hafira, at the very first moment of meeting. In each use al-hafira is the starting point of something. Al-Qurtubi brings the proverb to explain the word, and does not read the verse as being about trade.",
+            "bn": "কুরতুবী শব্দটির আরও কিছু ব্যবহার জড়ো করেন। একটি প্রবাদ আছে: আন-নাকদু ইন্দাল হাফিরা, দাম মেটানো হাফিরাতে। ইয়াকুবের ব্যাখ্যা তিনি উল্লেখ করেন: প্রথম কথাতেই, দরদাম মিটে যাওয়ার মুহূর্তে। আরবরা আরও বলে, দুই দল মুখোমুখি হয়ে হাফিরাতেই লড়াই শুরু করল, মানে দেখা হওয়ার প্রথম মুহূর্তেই। প্রতিটি ব্যবহারে আল-হাফিরা কোনো কিছুর সূচনাবিন্দু। প্রবাদটি কুরতুবী আনেন শব্দের অর্থ বোঝাতে। আয়াতটিকে তিনি কেনাবেচার কথা হিসেবে পড়েন না।"
+          },
+          {
+            "en": "He then records, under it is said, that al-hafira is al-'ajila, the life close at hand: will we be returned to this world and become alive as we were? A poet's line is cited for it: I have sworn never to forget you, so know it, until people are returned in al-hafira. And he reports Ibn Abbas: al-hafira, in the speech of the Arabs, is this world. On these glosses the deniers' question is whether the story can loop from its end back to its first page, and they assume it cannot.",
+            "bn": "এরপর তিনি 'বলা হয়' কথাটি দিয়ে উল্লেখ করেন, আল-হাফিরা মানে আল-আজিলা, হাতের কাছের এই জীবন: আমাদের কি দুনিয়ায় ফিরিয়ে এনে আগের মতো জীবিত করা হবে? এর পক্ষে এক কবির চরণ আনা হয়: শপথ করেছি তোমাদের কখনো ভুলব না, জেনে রেখো, যতদিন না মানুষকে হাফিরায় ফিরিয়ে আনা হয়। তিনি ইবন আব্বাস (রাঃ)-এর কথাও আনেন: আরবদের ভাষায় আল-হাফিরা মানে দুনিয়া। এসব ব্যাখ্যা ধরলে অস্বীকারকারীদের প্রশ্ন দাঁড়ায় এই: কাহিনির শেষ পাতা থেকে কি আবার প্রথম পাতায় ফেরা যায়? তাদের ধারণা, যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground Dug Open for Graves",
+          "bn": "কবরের জন্য খোঁড়া মাটি"
+        },
+        "p": [
+          {
+            "en": "A second reading takes the word from hafr, digging. At-Tabari reports that others said al-hafira is the dug earth in which their graves were dug. They read the active form with a passive sense, as in min ma'in dafiq, from fluid poured out, in 86:6, where dafiq means poured. He gives Mujahid's words in two chains: the earth; we are raised as a new creation. Al-Qurtubi gives the same reading, hafira in the sense of mahfura, dug, and compares 'ishatin radiya, a pleasing life, where the active form also carries a passive meaning.",
+            "bn": "দ্বিতীয় একটি ব্যাখ্যা শব্দটিকে নেয় হাফর, মানে খোঁড়া থেকে। তাবারী জানান, অন্যরা বলেছেন: আল-হাফিরা সেই খোঁড়া মাটি, যেখানে তাদের কবর খোঁড়া হয়েছিল। কর্তৃবাচক রূপকে তারা কর্মবাচক অর্থে পড়েছেন, যেমন ৮৬:৬ আয়াতে মিন মাইন দাফিক, সবেগে নির্গত পানি থেকে, যেখানে দাফিক মানে যা ঢেলে দেওয়া হয়। দুই সনদে তিনি মুজাহিদের কথা আনেন: মাটি; আমাদের নতুন সৃষ্টি হিসেবে ওঠানো হবে। কুরতুবীও এই ব্যাখ্যা দেন: হাফিরা মানে মাহফূরা, খোঁড়া। তুলনা করেন ঈশাতির রাদিয়ার সঙ্গে, সন্তোষজনক জীবন, যেখানেও কর্তৃবাচক রূপ কর্মবাচক অর্থ বহন করে।"
+          },
+          {
+            "en": "In al-Qurtubi the sense becomes: will we be returned alive in our graves? He credits it to Mujahid, al-Khalil and al-Farra'. Ibn Kathir gives only this reading. Al-hafira, he says, is the graves, and he credits that to Mujahid. The deniers thought resurrection far-fetched once they had gone into the graves, after their bodies were torn apart and their bones broken down and rotted. Ibn Kathir's al-hafira is the place a body ends up, where at-Tabari's is the life a person started from.",
+            "bn": "কুরতুবীর কাছে অর্থ দাঁড়ায়: আমাদের কি কবরের ভেতরেই আবার জীবিত করা হবে? তিনি এ মত মুজাহিদ, খলীল আর ফাররার নামে উল্লেখ করেন। ইবন কাসীর কেবল এই ব্যাখ্যাটিই দেন। তাঁর কথায় আল-হাফিরা মানে কবর, আর এ কথা তিনি মুজাহিদের নামে বলেন। কবরে চলে যাওয়ার পর, দেহ ছিন্নভিন্ন হয়ে হাড় ভেঙে পচে যাওয়ার পর আবার ওঠানোকে অস্বীকারকারীরা অসম্ভব মনে করত। ইবন কাসীরের আল-হাফিরা তাই দেহের শেষ ঠিকানা। আর তাবারীর আল-হাফিরা সেই জীবন, যেখান থেকে মানুষ যাত্রা শুরু করেছিল।"
+          },
+          {
+            "en": "Two more glosses come under it is said. Al-Qurtubi and al-Baghawi both record that the earth is called hafira because it is where hooves, hawafir, rest; al-Qurtubi notes that the foot is likewise called ard because it stands on the earth. The meaning, in al-Baghawi: will we be returned to the earth and raised as a new creation, walking on it? Al-Qurtubi also records Abu Haywa reading a shorter form of the word, without its alif, and a gloss on that form under it is said: earth gone foul with the bodies of its dead, from an expression for teeth decaying at the root.",
+            "bn": "'বলা হয়' কথাটি দিয়ে আরও দুটি ব্যাখ্যা আসে। কুরতুবী ও বাগাভী দুজনেই উল্লেখ করেন, মাটিকে হাফিরা বলা হয় কারণ সেখানে খুর, হাওয়াফির, এসে থামে। কুরতুবী আরও বলেন, একইভাবে পা-কেও আরদ বলা হয়, কারণ তা মাটির উপর থাকে। বাগাভীর ভাষায় অর্থ: আমাদের কি মাটিতে ফিরিয়ে এনে নতুন সৃষ্টি হিসেবে ওঠানো হবে, যাতে আমরা তার উপর হাঁটি? কুরতুবী আবু হাইওয়ার একটি কিরাআতও উল্লেখ করেন, যেখানে শব্দটি আলিফ ছাড়া ছোট রূপে পড়া হয়েছে। সেই রূপের একটি ব্যাখ্যাও তিনি 'বলা হয়' দিয়ে আনেন: মৃতদের দেহে দুর্গন্ধময় হয়ে ওঠা মাটি। এটি এসেছে গোড়া থেকে দাঁত পচে যাওয়ার একটি আরবি কথা থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Listed Among the Fire's",
+          "bn": "আগুনের নামগুলোর একটি"
+        },
+        "p": [
+          {
+            "en": "A third reading is far darker. At-Tabari reports Ibn Zayd: al-hafira is the Fire. Ibn Zayd recited the next verse, that would then be a losing return, and said: how many names it has! It is the Fire, al-Jahim, Saqar, Jahannam, al-Hawiya, al-Hafira, Laza and al-Hutama. Al-Baghawi records Ibn Zayd's view in one line. Al-Qurtubi gives it too and adds that Muqatil and Zayd ibn Aslam said al-hafira is one of the names of the Fire.",
+            "bn": "তৃতীয় ব্যাখ্যাটি অনেক বেশি ভয়ের। তাবারী ইবন যায়দের কথা আনেন: আল-হাফিরা মানে জাহান্নামের আগুন। ইবন যায়দ পরের আয়াতটি পড়েন, তাহলে তো সেটা হবে লোকসানের ফেরা, তারপর বলেন: এর কত নাম! আন-নার, আল-জাহীম, সাকার, জাহান্নাম, আল-হাবিয়া, আল-হাফিরা, লাযা আর আল-হুতামা। বাগাভী ইবন যায়দের মতটি এক বাক্যে উল্লেখ করেন। কুরতুবীও এটি আনেন এবং যোগ করেন, মুকাতিল ও যায়দ ইবন আসলাম বলেছেন আল-হাফিরা আগুনের নামগুলোর একটি।"
+          },
+          {
+            "en": "On the next verse, at-Tabari reports Ibn Zayd again: what return could be more of a loss? They were brought to life and then went to the Fire, so it was a return of evil. Read this way, the deniers' own word names where such a return would lead. The commentators do not rank the readings alike. At-Tabari, al-Qurtubi and al-Baghawi lead with the first state; Ibn Kathir gives only the graves; the Fire is recorded from Ibn Zayd and others. This article leaves them side by side.",
+            "bn": "পরের আয়াতের আলোচনায় তাবারী আবার ইবন যায়দের কথা আনেন: এর চেয়ে বড় লোকসানের ফেরা আর কী হতে পারে? তাদের জীবিত করা হলো, তারপর তারা গেল আগুনে। ফেরাটা তাই হলো মন্দ ফেরা। এভাবে পড়লে অস্বীকারকারীদের নিজেদের শব্দটিই বলে দেয়, এমন ফেরা কোথায় গিয়ে শেষ হবে। মুফাসসিররা অবশ্য ব্যাখ্যাগুলোকে একই ক্রমে সাজান না। তাবারী, কুরতুবী ও বাগাভী শুরু করেন প্রথম অবস্থা দিয়ে। ইবন কাসীর কেবল কবরের কথা বলেন। আর আগুনের ব্যাখ্যাটি এসেছে ইবন যায়দ ও আরও কয়েকজনের কাছ থেকে। এই লেখা কোনো একটির পক্ষ না নিয়ে সবগুলো পাশাপাশি রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hollow Bones and a Bad Bargain",
+          "bn": "ফাঁপা হাড় আর লোকসানের সওদা"
+        },
+        "p": [
+          {
+            "en": "The question runs on into 79:11: even when we are nakhira bones? At-Tabari reports that the readers of Madina, the Hijaz and Basra read nakhira, meaning decayed, while the readers of Kufa read nakhira with an alif, meaning hollow, so that the winds whistle through them as they pass. He judged the form without the alif the more eloquent, yet preferred the other, to match the verse endings around it. Ibn Kathir reports Ibn Abbas: it is the bone when it has decayed and the wind enters it.",
+            "bn": "প্রশ্নটা গড়িয়ে যায় ৭৯:১১ আয়াতে: আমরা যখন নাখিরা হাড় হয়ে যাব, তখনো? তাবারী জানান, মদীনা, হিজায আর বসরার কারীরা পড়েছেন নাখিরা, মানে পচে যাওয়া। কুফার কারীরা পড়েছেন আলিফসহ নাখিরা, মানে ফাঁপা, যার ভেতর দিয়ে বাতাস বয়ে যাওয়ার সময় শিস কাটে। তাঁর মতে আলিফ ছাড়া রূপটি বেশি বিশুদ্ধ, তবু আশপাশের আয়াতের শেষের সঙ্গে মেলাতে তিনি অন্যটিকেই বেশি পছন্দ করেন। ইবন কাসীর ইবন আব্বাস (রাঃ)-এর কথা আনেন: এ সেই হাড়, যা পচে গেছে আর যার ভেতরে বাতাস ঢোকে।"
+          },
+          {
+            "en": "Then 79:12: they say, that would then be a losing return. At-Tabari takes it word by word: tilka, that return to life after death; idhan, now; karra, a return; khasira, ghabina, a deal in which a person is cheated. Ibn Kathir reports Muhammad ibn Ka'b: Quraysh said, if Allah brings us to life after we die, we will surely be losers. As-Sa'di says they thought it far-fetched that Allah would raise them after they had become crumbled bones, out of ignorance of His power and boldness against Him. The answer follows in 79:13 and 79:14, treated in its own article.",
+            "bn": "তারপর ৭৯:১২: তারা বলে, তাহলে তো সেটা হবে লোকসানের ফেরা। তাবারী প্রতিটি শব্দ খুলে বলেন: তিলকা মানে মৃত্যুর পর জীবিত হয়ে সেই ফেরা; ইযান মানে এখন; কাররা মানে ফেরা; খাসিরা মানে গাবিনা, যে কারবারে মানুষ ঠকে যায়। ইবন কাসীর মুহাম্মাদ ইবন কা'বের কথা আনেন: কুরাইশ বলেছিল, মরার পর আল্লাহ যদি আমাদের জীবিত করেন, তাহলে আমরা নিশ্চয়ই ক্ষতিগ্রস্ত হব। সা'দী বলেন, গুঁড়ো হাড় হয়ে যাওয়ার পর আল্লাহ তাদের ওঠাবেন, এ কথা তারা অসম্ভব ভেবেছিল তাঁর ক্ষমতা সম্পর্কে অজ্ঞতা আর তাঁর বিরুদ্ধে দুঃসাহস থেকে। জবাব আসে ৭৯:১৩ ও ৭৯:১৪ আয়াতে, যার আলোচনা আলাদা লেখায় আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Earth Told to Gather",
+          "bn": "মাটিকে জড়ো করার আদেশ"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs consulted attaches a hadith of the Prophet ﷺ or a cause of revelation to this verse. A narration in Sahih al-Bukhari, number 3481, not linked to the verse by al-Bukhari or by these commentators, meets the same doubt. In al-Bukhari's wording: Narrated Abu Huraira: The Prophet ﷺ said, \"A man used to do sinful deeds, and when death came to him, he said to his sons, 'After my death, burn me and then crush me, and scatter the powder in the air, for by Allah, if Allah has control over me, He will give me such a punishment as He has never given to anyone else.'",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস বা নাযিলের কোনো প্রেক্ষাপট জোড়ে না। সহীহ বুখারীর ৩৪৮১ নম্বর বর্ণনাটি বুখারী নিজে বা এই মুফাসসিররা আয়াতের সঙ্গে যুক্ত করেননি, তবু একই সংশয়ের মুখোমুখি দাঁড়ায়। বুখারীর ভাষায়: আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"এক লোক গুনাহের কাজ করত। মৃত্যু যখন উপস্থিত হলো, সে ছেলেদের বলল, 'আমি মারা গেলে আমাকে পুড়িয়ে ফেলবে, তারপর পিষে গুঁড়ো করবে, তারপর বাতাসে উড়িয়ে দেবে। আল্লাহর কসম, আল্লাহ যদি আমাকে ধরতে পারেন, তাহলে এমন শাস্তি দেবেন যা আর কাউকে দেননি।'"
+          },
+          {
+            "en": "The narration continues: \"When he died, his sons did accordingly. Allah ordered the earth saying, 'Collect what you hold of his particles.' It did so, and behold! There he was (the man) standing. Allah asked (him), 'What made you do what you did?' He replied, 'O my Lord! I was afraid of You.' So Allah forgave him.\" Another narrator said \"The man said, Fear of You, O Lord!\" The report is in al-Bukhari's Sahih, and the page adds no further grading.",
+            "bn": "বর্ণনাটি এগিয়ে চলে: \"সে মারা গেলে তার সঙ্গে তা-ই করা হলো। আল্লাহ মাটিকে আদেশ করলেন, 'তোমার মধ্যে তার যা কিছু আছে, জড়ো করো।' মাটি তা-ই করল, আর দেখা গেল সে দাঁড়িয়ে আছে। আল্লাহ জিজ্ঞেস করলেন, 'কিসে তোমাকে এ কাজ করতে বাধ্য করল?' সে বলল, 'হে আমার রব, আপনার ভয়।' তখন আল্লাহ তাকে ক্ষমা করে দিলেন।\" অন্য এক বর্ণনাকারী বলেছেন, লোকটি বলেছিল: 'হে রব, আপনার ভয়ে।' বর্ণনাটি বুখারীর সহীহ গ্রন্থে আছে, পৃষ্ঠাটি আলাদা কোনো মান উল্লেখ করেনি।"
+          },
+          {
+            "en": "The deniers in 79:10 and 79:11 ask whether anything can come back from crumbled bones. In this narration a body is burnt, ground and scattered on the wind, and one command to the earth gathers it. The narration says nothing about this verse, and this article builds no ruling on it. It does show, in the Prophet's ﷺ own words as al-Bukhari records them, that how little remains of a body places no limit on its return.",
+            "bn": "৭৯:১০ ও ৭৯:১১ আয়াতের অস্বীকারকারীরা জানতে চায়, গুঁড়ো হাড় থেকে কিছু কি ফিরে আসতে পারে? এই বর্ণনায় একটি দেহকে পুড়িয়ে, পিষে বাতাসে ছড়িয়ে দেওয়া হয়েছে, আর মাটির প্রতি একটিমাত্র আদেশে তা আবার জড়ো হয়েছে। বর্ণনাটি এই আয়াত নিয়ে কিছু বলে না, আর এই লেখাও এর উপর কোনো বিধান দাঁড় করাচ্ছে না। তবে বুখারী নবী ﷺ-এর যে কথা লিপিবদ্ধ করেছেন, তা দেখিয়ে দেয়: দেহের কতটুকু অবশিষ্ট আছে, তাতে ফিরে আসার পথে কোনো সীমা তৈরি হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Question, Asked Honestly",
+          "bn": "তাদের প্রশ্ন, সৎভাবে করা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what a group of deniers said, people at-Tabari and Ibn Kathir identify as the idolaters of Quraysh, and it describes only what the text describes. It licenses nothing against any living person or community, and gives no one a label to pin on a neighbour, a relative or a stranger who has doubts. The Qur'an quotes their words in order to answer them, and the answer that follows is about Allah's power to bring back, not about the speakers' worth.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একদল অস্বীকারকারীর কথা জানায়, তাবারী ও ইবন কাসীর যাদের কুরাইশের মুশরিক বলে চিহ্নিত করেন। পাঠ যতটুকু বর্ণনা করে, আয়াতটি ততটুকুই বলে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো অনুমতি দেয় না। সংশয়ে থাকা প্রতিবেশী, আত্মীয় বা অচেনা কারও গায়ে লাগানোর কোনো তকমাও এখানে নেই। কুরআন তাদের কথা উদ্ধৃত করেছে জবাব দেওয়ার জন্য, আর পরের জবাবটি আল্লাহর ফিরিয়ে আনার ক্ষমতা নিয়ে, বক্তাদের মূল্য নিয়ে নয়।"
+          },
+          {
+            "en": "The question itself is worth borrowing. In its first sense al-hafira is the road a person came by, the life lived before death. A reader can ask, without scorn, what that road holds: which words, which debts, which kindnesses left half done. The deniers in 79:12 feared the return would be a loss; for a person still on the road, whether it is a loss is not yet settled. That is the mercy hidden inside a mocking question.",
+            "bn": "প্রশ্নটা নিজের জন্য ধার নেওয়া যায়। প্রথম অর্থে আল-হাফিরা সেই পথ, যে পথে মানুষ এসেছে, মৃত্যুর আগের সেই জীবন। পাঠক তাচ্ছিল্য ছাড়া নিজেকে জিজ্ঞেস করতে পারেন: এই পথে কী কী পড়ে আছে? কোন কথা, কোন দেনা, কোন অর্ধেক করে রাখা নেক কাজ? ৭৯:১২ আয়াতে অস্বীকারকারীরা ভেবেছিল ফেরাটা হবে লোকসানের। কিন্তু যে এখনো পথের উপর আছে, তার বেলায় লোকসান হবে কি না, সে হিসাব এখনো চূড়ান্ত হয়নি। ঠাট্টার এক প্রশ্নের ভেতরে লুকিয়ে থাকা রহমত এটাই।"
+          }
+        ]
+      }
+    ]
+  },
   "79:14": {
     "sections": [
       {
