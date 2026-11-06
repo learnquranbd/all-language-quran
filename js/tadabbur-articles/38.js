@@ -303,6 +303,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Words Close the Roll",
+          "bn": "সাত শব্দে তালিকার সমাপ্তি"
+        },
+        "p": [
+          {
+            "en": "Wa-thamudu wa-qawmu lutin wa-ashabu l-aykati, ula'ika l-ahzab: and Thamud, and the people of Lut, and the companions of the thicket; those are the parties. The verse is seven Arabic words long. It finishes a list that 38:12 began with kadhdhabat qablahum, before them there denied: the people of Nuh (AS), 'Ad, and Pharaoh of the stakes. Here three more names are added, and the list closes on two words that gather all six. Then 38:14 gives the verdict: each of them denied the messengers, so My penalty was due.",
+            "bn": "ওয়া সামূদু ওয়া কাওমু লূতিন ওয়া আসহাবুল আইকাহ, উলাইকাল আহযাব: আর সামূদ, লূতের জাতি ও ঝোপবনের অধিবাসীরা; ওরাই ছিল দলবদ্ধ বাহিনী। আরবিতে আয়াতটি সাতটি শব্দের। ৩৮:১২ আয়াত একটা তালিকা শুরু করেছিল কাযযাবাত কাবলাহুম দিয়ে, অর্থাৎ তাদের আগেও মিথ্যা বলেছিল নূহ (আঃ)-এর জাতি, ‘আদ আর খুঁটির অধিপতি ফেরাউন। এখানে যোগ হলো আরও তিনটি নাম, আর তালিকা শেষ হলো দুটি শব্দে, যা ছয়টি জাতিকেই এক জায়গায় জড়ো করে। এরপর ৩৮:১৪ রায় শোনায়: এদের প্রত্যেকেই রসূলদের মিথ্যা বলেছিল, তাই আমার শাস্তি অবধারিত হলো।"
+          },
+          {
+            "en": "The list answers the Makkan chiefs of the surah's opening, and 38:11 had already called them a host, defeated there, one of the ahzab. The word now returns. The article on 38:11 and 38:12 deals with that verse and with Pharaoh's stakes; this one stays with the three new names and the two closing words. Across the two verses the six are named in different ways: two by the prophet sent to them, Nuh and Lut (AS); two by a tribal name, 'Ad and Thamud; one by its ruler; and one by a place, the thicket.",
+            "bn": "তালিকাটি সূরার শুরুর মক্কার সর্দারদের জবাব। ৩৮:১১ আয়াত আগেই তাদের বলেছে এক বাহিনী, যা সেখানেই পরাজিত হবে, আহযাবেরই একটি দল। শব্দটি এখানে আবার ফিরে এল। ৩৮:১১ ও ৩৮:১২ নিয়ে যে প্রবন্ধ, সেখানে ওই আয়াত আর ফেরাউনের খুঁটির আলোচনা আছে। এ প্রবন্ধ থাকবে নতুন তিনটি নাম আর শেষের দুটি শব্দ নিয়ে। খেয়াল করুন, দুই আয়াতে ছয়টি জাতির পরিচয় এসেছে চার রকমভাবে। দুটি জাতি পরিচিত তাদের কাছে পাঠানো নবীর নামে, নূহ ও লূত (আঃ)। দুটি গোত্রের নামে, ‘আদ ও সামূদ। একটি তার শাসকের নামে। আর একটি একটা জায়গার নামে, ঝোপবন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Names Needing No Story",
+          "bn": "গল্প ছাড়াই দুটি নাম"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di glosses Thamud in two words: qawm Salih, the people of Salih (AS). The Qur'an introduces them so in 7:73: and to Thamud, their brother Salih. The people of Lut (AS) receive no gloss at all in the commentaries read for this verse; they are named by the prophet sent to them, as in 7:80, where Lut speaks to his people. At-Tabari passes over both in a single sentence: he has already given the reports of all of these earlier in his book. Ibn Kathir, in the English abridgment, says the same of the Qur'an: their stories have been told in detail in numerous places.",
+            "bn": "সা'দী সামূদের পরিচয় দেন দুই শব্দে: কাওমু সালিহ, সালিহ (আঃ)-এর জাতি। কুরআনও ৭:৭৩ আয়াতে তাদের এভাবেই পরিচয় করায়: আর সামূদের কাছে তাদের ভাই সালিহকে। লূত (আঃ)-এর জাতির জন্য এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিতেই আলাদা ব্যাখ্যা নেই। তাদের নাম এসেছে তাদের কাছে পাঠানো নবীর নামে, যেমন ৭:৮০ আয়াতে লূত নিজের জাতিকে সম্বোধন করেন। তাবারী দুটোকেই এক বাক্যে পার হয়ে যান। তাঁর কথা, এদের সবার খবর তিনি নিজের কিতাবে আগেই বলে এসেছেন। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত রূপ কুরআন সম্পর্কে একই কথা বলে: তাদের কাহিনি বহু জায়গায় বিস্তারিত এসেছে।"
+          },
+          {
+            "en": "So the verse tells no story; it names. A hearer who knows the Qur'an catches each name and supplies what it carries, and the commentators leave him to do so. The grouping is not new either. In 11:89 Shu'ayb (AS) warns his own people that what struck the people of Nuh, of Hud or of Salih could strike them too, and adds: and the people of Lut are not far from you. In 50:12 to 50:14 a longer roll call includes Thamud, the brethren of Lut and the companions of the thicket, and ends, much as 38:14 does, with each of them denying the messengers.",
+            "bn": "তাই আয়াতটি কোনো কাহিনি বলে না, শুধু নাম নেয়। কুরআন জানা শ্রোতা প্রতিটি নাম শুনেই বুঝে নেন তার পেছনে কী আছে, আর তাফসীরকারেরা সে কাজটা তাঁর উপরই ছেড়ে দেন। এই নামগুলো একসঙ্গে আসাও নতুন নয়। ১১:৮৯ আয়াতে শুআইব (আঃ) নিজের জাতিকে সতর্ক করেন: নূহ, হূদ বা সালিহের জাতির উপর যা এসেছিল, তোমাদের উপরও তা আসতে পারে। তারপর যোগ করেন: আর লূতের জাতি তো তোমাদের থেকে দূরে নয়। ৫০:১২ থেকে ৫০:১৪ আয়াতে আরও লম্বা এক তালিকায় আছে সামূদ, লূতের ভাইয়েরা আর ঝোপবনের অধিবাসীরা। সে তালিকাও শেষ হয় প্রায় ৩৮:১৪ আয়াতের মতো করে: এদের প্রত্যেকে রসূলদের মিথ্যা বলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Dove Weeping in Thickets",
+          "bn": "ঝোপের ডালে ঘুঘুর কান্না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses ashab al-ayka as ashab al-ghayda, the people of the thicket, and as-Suddi, in his chain, says the same. He then gives a definition from Abu 'Amr ibn al-'Ala', which reached him, he says, through Ma'mar ibn al-Muthanna: al-ayka is a haraja, a dense stand of nab' and sidr trees, the intertwined part of it. He supports the sense with a line of verse: is it at the weeping of a dove in an ayka that your tears spill over the back of the mahmil? The mahmil, he explains, is the sword-belt. The people of interpretation, he adds, said much as he did.",
+            "bn": "তাবারী আসহাবুল আইকার অর্থ করেন আসহাবুল গাইদাহ, ঘন ঝোপবনের অধিবাসী। নিজের সনদে সুদ্দীও একই কথা বলেন। তারপর তাবারী আবু আমর ইবনুল আলার একটি সংজ্ঞা আনেন, যা তাঁর ভাষায় তাঁর কাছে পৌঁছেছে মা'মার ইবনুল মুসান্নার মাধ্যমে: আইকা হলো হারাজা, নাব' আর সিদর গাছের ঘন ঝাড়, যার ডালপালা একটার সঙ্গে আরেকটা জড়িয়ে আছে। অর্থটির সমর্থনে তিনি এক কবির পঙ্‌ক্তি আনেন: আইকার ডালে এক ঘুঘুর কান্না শুনেই কি তোমার চোখের পানি মাহমিলের উপর ঝরে পড়ছে? মাহমিল, তিনি বুঝিয়ে দেন, তলোয়ার ঝোলানোর ফিতা। তাফসীরবিদেরাও প্রায় এ কথাই বলেছেন, যোগ করেন তাবারী।"
+          },
+          {
+            "en": "Qatada, through at-Tabari, says they were people of trees, and most of their trees were the dawm. As-Sa'di reads al-ayka as trees and gardens closely intertwined; al-Muyassar, explaining 38:11 to 38:14 together, says trees and orchards. Both add that they are the people of Shu'ayb (AS). Whether that people and Madyan were one nation is a question the commentators dispute; it is set out in the articles on 15:78, 26:178 and 26:188, and none of the texts read for this verse takes it further. The glosses agree on one picture: dense growth, shaded and tangled.",
+            "bn": "তাবারীর সূত্রে কাতাদা বলেন, তারা ছিল গাছপালার মানুষ, আর তাদের বেশির ভাগ গাছ ছিল দাওম। সা'দী আইকার অর্থ করেন ঘন হয়ে জড়িয়ে থাকা গাছ আর বাগান। ৩৮:১১ থেকে ৩৮:১৪ একসঙ্গে ব্যাখ্যা করতে গিয়ে মুয়াসসার বলে গাছপালা আর ফলের বাগান। দুজনেই যোগ করেন, এরা শুআইব (আঃ)-এর জাতি। এরা আর মাদইয়ান একই জাতি কি না, তা নিয়ে তাফসীরকারদের মতভেদ আছে। ১৫:৭৮, ২৬:১৭৮ ও ২৬:১৮৮ আয়াতের প্রবন্ধে সে আলোচনা এসেছে, আর এ আয়াতের জন্য পড়া কোনো লেখা তার বেশি কিছু বলে না। সব ব্যাখ্যা মিলে একটাই ছবি দাঁড়ায়: ঘন, ছায়াঢাকা, জট পাকানো সবুজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Laykata, or al-Aykati",
+          "bn": "লাইকাতা, নাকি আল-আইকাতি"
+        },
+        "p": [
+          {
+            "en": "The word itself is recited in two ways. Al-Qurtubi reports that Nafi', Ibn Kathir and Ibn 'Amir read Laykata, with a fatha on the lam and on the final ta', and without the hamza; the remaining readers pronounced the hamza and put a kasra on the ta', al-aykati. The Ibn Kathir here is the reciter, not the commentator of the same name quoted elsewhere in this article. Al-Qurtubi adds that the matter was dealt with earlier, under Surah ash-Shu'ara, and does not repeat it. The Arabic printed with this verse carries the hamza and the kasra, the second of the two readings.",
+            "bn": "শব্দটি নিজেই দুইভাবে তিলাওয়াত হয়। কুরতুবী জানান, নাফি', ইবন কাসীর ও ইবন আমির পড়েছেন লাইকাতা: লামে যবর, শেষের তা-তেও যবর, আর হামযা ছাড়া। বাকি কারিরা হামযা উচ্চারণ করেছেন এবং তা-তে যের দিয়েছেন: আল-আইকাতি। এখানে ইবন কাসীর মানে কারি ইবন কাসীর, এ প্রবন্ধের অন্য জায়গায় উদ্ধৃত একই নামের মুফাসসির নন। কুরতুবী আরও বলেন, বিষয়টি আগে সূরা আশ-শুআরায় আলোচিত হয়েছে, তাই এখানে আর দোহরান না। এ আয়াতের সঙ্গে ছাপা আরবি পাঠে হামযা ও যের দুটোই আছে, অর্থাৎ দ্বিতীয় পাঠটি।"
+          },
+          {
+            "en": "The written form deserves a look as well. In the Arabic text of this verse, as in 26:176, the word is spelt without the alif before the lam: لْـَٔيْكَةِ. In 15:78 and 50:14 the same phrase is written with it: ٱلْأَيْكَةِ. The text shows the difference in spelling; the commentaries read for this verse do not explain it, and no explanation is offered here. Whichever way it is recited, the people meant are the same: the companions of the thicket, whom as-Sa'di and al-Muyassar both name as the people of Shu'ayb (AS).",
+            "bn": "লেখার রূপটিও একবার দেখে নেওয়া দরকার। এ আয়াতের আরবি পাঠে, ২৬:১৭৬ আয়াতের মতোই, শব্দটি লামের আগে আলিফ ছাড়া লেখা: لْـَٔيْكَةِ। অথচ ১৫:৭৮ ও ৫০:১৪ আয়াতে একই শব্দবন্ধ লেখা আলিফসহ: ٱلْأَيْكَةِ। বানানের এই পার্থক্য পাঠেই চোখে পড়ে। কিন্তু এ আয়াতের জন্য পড়া তাফসীরগুলো এর কোনো কারণ বলে না, তাই এখানেও কোনো কারণ দেওয়া হলো না। যেভাবেই পড়া হোক, উদ্দেশ্য একই জাতি: ঝোপবনের অধিবাসীরা, সা'দী ও মুয়াসসার দুজনেই যাদের বলেছেন শুআইব (আঃ)-এর জাতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Parties in the Full Sense",
+          "bn": "পুরো অর্থেই দলবদ্ধ"
+        },
+        "p": [
+          {
+            "en": "Ula'ika l-ahzab: those are the parties. Ma'arif al-Qur'an records two explanations. In the first, the sentence describes the word groups in 38:11: these are the groups, the confederates, that the earlier verse pointed to, and Maulana Thanavi, it says, followed this explanation. In the second, which it credits to other commentators and closes with al-Qurtubi's name, the sense is that these were the groups that were really strong, not the people of Makkah. The people of Nuh, 'Ad, Thamud and others like them held real power, and beside them the Makkan idolaters were nothing.",
+            "bn": "উলাইকাল আহযাব: ওরাই ছিল দলবদ্ধ বাহিনী। মাআরিফুল কুরআন এর দুটি ব্যাখ্যা লিখে রাখে। প্রথম ব্যাখ্যায় বাক্যটি ৩৮:১১ আয়াতের আহযাব শব্দের বিবরণ: আগের আয়াত যে দল বা জোটের দিকে ইঙ্গিত করেছিল, এরাই তারা। মাআরিফুল কুরআন জানায়, মাওলানা থানভী এই ব্যাখ্যাই গ্রহণ করেছেন। দ্বিতীয় ব্যাখ্যাটি সে অন্য তাফসীরকারদের নামে আনে, শেষে কুরতুবীর নাম দিয়ে। এ ব্যাখ্যায় অর্থ দাঁড়ায়, আসলে শক্তিশালী দল ছিল এরাই, মক্কার এই লোকেরা নয়। সত্যিকারের শক্তি আর ক্ষমতা ছিল নূহের জাতি, ‘আদ, সামূদ ও তাদের মতো জাতিগুলোর হাতে। তাদের পাশে মক্কার মুশরিকরা কিছুই নয়।"
+          },
+          {
+            "en": "Al-Qurtubi's own wording, in the text read for this verse, takes the second line. Ula'ika l-ahzab, he says, means they are the ones described by strength and great numbers, ka-qawlika fulanun huwa r-rajul: as when you say, so-and-so is the man. The comparison carries the point. That sentence does not merely pick a person out; it says he has the full measure of what a man should be. On this reading the two words are less a label than a verdict on scale: if any people deserved the name of parties, it was these.",
+            "bn": "এ আয়াতের জন্য পড়া কুরতুবীর নিজের লেখা দ্বিতীয় পথটাই ধরে। তিনি বলেন, উলাইকাল আহযাব মানে শক্তি আর সংখ্যার বিশেষণ যাদের প্রাপ্য, তারা এরাই। উদাহরণ দেন: কা-কাওলিকা ফুলানুন হুওয়ার রাজুল, যেমন আপনি বলেন, অমুকই তো আসল পুরুষ। তুলনাটাই কথাটা বুঝিয়ে দেয়। ওই বাক্য কেবল একজন মানুষকে চিনিয়ে দেয় না, বলে যে পুরুষের যা গুণ থাকা উচিত, তার পুরোটাই তার আছে। এ পাঠে দুটি শব্দ নিছক কোনো তকমা নয়, বরং মাপের রায়। দলবদ্ধ বাহিনী নামটা কারও প্রাপ্য হয়ে থাকলে, তা এদেরই।"
+          },
+          {
+            "en": "Ibn Kathir reads the words in the same way and spells out the contrast: they were more numerous than you and stronger, with more wealth and more children, and none of it defended them in the least from the punishment of Allah when the command of your Lord came. That leads him straight on to 38:14. Ma'arif al-Qur'an sets its two explanations side by side without choosing between them, and they are left so here: one ties the word back to the host of 38:11, the other ranks the past peoples above the present ones in strength.",
+            "bn": "ইবন কাসীরও শব্দ দুটো একইভাবে পড়েন এবং তুলনাটা খুলে বলেন: তারা তোমাদের চেয়ে সংখ্যায় বেশি ছিল, শক্তিতে প্রবল ছিল, ধনসম্পদ আর সন্তানও ছিল বেশি। কিন্তু তোমার রবের হুকুম যখন এল, এর কিছুই আল্লাহর শাস্তি থেকে তাদের এতটুকু রক্ষা করেনি। এখান থেকেই তিনি সোজা চলে যান ৩৮:১৪ আয়াতে। মাআরিফুল কুরআন নিজের দুটি ব্যাখ্যা পাশাপাশি রাখে, কোনোটিকে বেছে নেয় না। এখানেও সেভাবেই রাখা হলো। একটি শব্দটিকে ৩৮:১১ আয়াতের বাহিনীর সঙ্গে জুড়ে দেয়, অন্যটি শক্তিতে অতীতের জাতিগুলোকে বর্তমানের চেয়ে উপরে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Banded on One Refusal",
+          "bn": "এক অস্বীকারে জোটবদ্ধ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss joins the two halves of the passage. These, Allah says, are the gathered companies, the parties banded together on disobedience to Allah and disbelief in Him; and among them, O Muhammad, are the idolaters of your own people, who are being led along their road. Al-Baghawi says the same in fewer words: those who banded together against the prophets, and so He made known that the idolaters of Quraysh are one party of these parties. In both glosses the Makkans stand inside the list, not beside it.",
+            "bn": "তাবারীর ব্যাখ্যা অনুচ্ছেদের দুই অংশকে জুড়ে দেয়। আল্লাহ বলছেন, এরা সেই জমায়েত হওয়া দলগুলো, আল্লাহর নাফরমানি আর তাঁর সঙ্গে কুফরির উপর যারা জোট বেঁধেছিল। আর হে মুহাম্মাদ, এদেরই মধ্যে আছে তোমার নিজের জাতির মুশরিকরা, যাদের ওই একই পথে চালিয়ে নেওয়া হচ্ছে। বাগাভী একই কথা বলেন আরও কম শব্দে: যারা নবীদের বিরুদ্ধে জোট বেঁধেছিল। এভাবে আল্লাহ জানিয়ে দিলেন, কুরাইশের মুশরিকরা এই দলগুলোরই একটি দল। দুই ব্যাখ্যাতেই মক্কাবাসীরা তালিকার পাশে দাঁড়িয়ে নেই, তালিকার ভেতরেই আছে।"
+          },
+          {
+            "en": "This is where the readings of the previous section differ in emphasis. For at-Tabari and al-Baghawi, ula'ika l-ahzab draws a line from the past to the present: the hearers belong to the same company. For al-Qurtubi and Ibn Kathir it measures a distance: the past peoples were stronger than the hearers had ever been. Each route ends in a warning, though they reach it differently. The commentators do not argue the point against one another in these texts, and both are recorded here as they give them.",
+            "bn": "আগের অংশের পাঠগুলোর জোর এখানে এসে আলাদা হয়ে যায়। তাবারী ও বাগাভীর কাছে উলাইকাল আহযাব অতীত থেকে বর্তমান পর্যন্ত একটা রেখা টানে: শ্রোতারাও সেই একই দলের লোক। কুরতুবী ও ইবন কাসীরের কাছে কথাটা দূরত্ব মাপে: অতীতের জাতিগুলো শ্রোতাদের চেয়ে অনেক বেশি শক্তিশালী ছিল। দুই পথই শেষে সতর্কবাণীতে পৌঁছায়, তবে ভিন্ন ভিন্ন রাস্তায়। এসব লেখায় তাফসীরকারেরা এ নিয়ে একে অপরের সঙ্গে তর্ক করেন না। তাঁরা যেভাবে বলেছেন, দুটো মতই এখানে সেভাবে রাখা হলো।"
+          },
+          {
+            "en": "As-Sa'di and al-Muyassar name what held each party together. As-Sa'di: they gathered with their strength, their numbers and their equipment, bi-quwwatihim wa-'adadihim wa-'udadihim, to push back the truth, and it availed them nothing. The last two words differ by a single vowel: 'adad is a count of heads, 'udad is gear. Al-Muyassar: nations that formed parties on disbelief and denial and gathered upon it. A hizb in these glosses is defined neither by where it lived nor by what it was called, but by what its members agreed to refuse.",
+            "bn": "প্রতিটি দলকে কী একসঙ্গে বেঁধে রেখেছিল, সা'দী ও মুয়াসসার তা বলে দেন। সা'দীর ভাষায়, তারা নিজেদের শক্তি, লোকবল আর সাজসরঞ্জাম নিয়ে জোট বেঁধেছিল সত্যকে ঠেলে সরাতে: বি-কুওয়াতিহিম ওয়া আদাদিহিম ওয়া উদাদিহিম। কিন্তু তা তাদের কোনো কাজে আসেনি। শেষের দুটি শব্দে তফাত শুধু একটি স্বরচিহ্নের। আদাদ মানে মাথা গোনা সংখ্যা, উদাদ মানে সরঞ্জাম। মুয়াসসারের ভাষায়, এরা সেই জাতিগুলো, যারা কুফর ও মিথ্যারোপের উপর দল পাকিয়েছিল আর তাতেই একজোট হয়েছিল। এসব ব্যাখ্যায় একটি হিযবের পরিচয় তার বাসস্থান বা নামে নয়। পরিচয় হলো, তার লোকেরা মিলে কোন জিনিস অস্বীকার করার পণ করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names That Point Nowhere Today",
+          "bn": "নামগুলো আজ কারও দিকে নয়"
+        },
+        "p": [
+          {
+            "en": "None of the tafsir consulted for this verse attaches a hadith to it, so none is reported here, and none of them gives an occasion of revelation for it. The verse sits inside a reply to the Makkan chiefs, and that placement is what the commentators work from. At-Tabari and al-Baghawi name the hearers, the idolaters of Quraysh and of the Prophet's own people ﷺ. Beyond that the texts read here give no setting, and none is supplied.",
+            "bn": "এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটি এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, তাই এখানে কোনো হাদীস উল্লেখ করা হলো না। কোনোটি এর শানে নুযূলও বলেনি। আয়াতটি মক্কার সর্দারদের দেওয়া এক জবাবের ভেতরে বসানো, আর তাফসীরকারেরা কাজ করেন এই অবস্থান থেকেই। তাবারী ও বাগাভী শ্রোতাদের পরিচয় দেন: কুরাইশের মুশরিকরা, নবী ﷺ-এর নিজের জাতির লোকেরা। এর বাইরে এখানে পড়া লেখাগুলো কোনো প্রেক্ষাপট দেয় না, তাই নিজের থেকে কিছু জোড়াও হলো না।"
+          },
+          {
+            "en": "The verse speaks of particular peoples of the past: Thamud, the people of Lut (AS) and the companions of the thicket, alongside the people of Nuh (AS), 'Ad and Pharaoh. It describes what the text describes, their denial and what came of it, and it licenses nothing against any living person or community. It names no present-day people, tribe, land or town, and no reader may identify these nations with anyone alive, or with those who live today where someone imagines their dwellings once stood. Nor does the word ahzab hand anyone a label for the people they happen to oppose.",
+            "bn": "আয়াতটি অতীতের কয়েকটি নির্দিষ্ট জাতির কথা বলে: সামূদ, লূত (আঃ)-এর জাতি আর ঝোপবনের অধিবাসীরা, তাদের সঙ্গে নূহ (আঃ)-এর জাতি, ‘আদ ও ফেরাউন। কুরআন যা বর্ণনা করে, আয়াতটি ঠিক তা-ই বর্ণনা করে: তাদের অস্বীকার আর তার পরিণাম। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো অনুমতি দেয় না। আজকের কোনো জাতি, গোত্র, দেশ বা শহরের নাম এতে নেই। এই জাতিগুলোকে কোনো জীবিত মানুষের সঙ্গে মিলিয়ে দেওয়ার অধিকার কোনো পাঠকের নেই। কারও ধারণায় যেখানে একসময় তাদের বসতি ছিল, আজ সেখানে যারা থাকে, তাদের সঙ্গেও নয়। আহযাব শব্দটাও কাউকে এমন তকমা দেয় না, যা সে নিজের বিরোধীদের গায়ে সেঁটে দিতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Count and Gear, Weighed",
+          "bn": "লোকবল আর সরঞ্জাম, পাল্লায়"
+        },
+        "p": [
+          {
+            "en": "What follows is reflection, the reader's and not the commentators'. As-Sa'di's three words, strength, numbers and gear, describe more than ancient armies. Most people meet the pull of a party in a smaller form: a circle of friends, a family line, a workplace, an online crowd that has already decided what it thinks of a certain truth and of the people who carry it. The weight of being many is real. It makes refusal feel safe, and it makes agreement feel like proof.",
+            "bn": "এরপর যা আসছে তা পাঠকের নিজের ভাবনা, তাফসীরকারদের কথা নয়। সা'দীর তিনটি শব্দ, শক্তি, লোকবল আর সরঞ্জাম, শুধু প্রাচীন বাহিনীর বর্ণনা নয়। দলের টান বেশির ভাগ মানুষ টের পান আরও ছোট আকারে: বন্ধুদের একটা আসর, একটা বংশ, একটা কর্মস্থল, কিংবা অনলাইনের এমন ভিড়, যে আগেই ঠিক করে ফেলেছে কোনো এক সত্য আর তার বাহকদের সম্পর্কে কী ভাববে। দলে ভারী হওয়ার ভারটা সত্যি। এতে অস্বীকার নিরাপদ মনে হয়, আর সবাই একমত হলেই সেটাকে প্রমাণ মনে হয়।"
+          },
+          {
+            "en": "The verse unsettles both feelings. Ibn Kathir's line, that more wealth and more children did not defend them at all, does not condemn wealth or children; it says what they cannot do. A crowd can shelter a person from embarrassment, but not from the outcome of what he chose. So the question this verse leaves is personal. When my own circle closes ranks against a fair word, do I weigh the word, or do I count the people standing around me?",
+            "bn": "আয়াতটি এই দুই অনুভূতিকেই নাড়িয়ে দেয়। ইবন কাসীরের কথা, বেশি সম্পদ আর বেশি সন্তান তাদের মোটেও রক্ষা করেনি, সম্পদ বা সন্তানের নিন্দা নয়। কথাটা বলে, এগুলো কী করতে পারে না। ভিড় মানুষকে লজ্জা থেকে আড়াল করতে পারে, কিন্তু নিজের বেছে নেওয়া পথের পরিণাম থেকে পারে না। তাই আয়াতটি যে প্রশ্ন রেখে যায়, তা একান্ত ব্যক্তিগত। আমার নিজের গণ্ডি যখন কোনো ন্যায্য কথার বিরুদ্ধে কাতার বাঁধে, আমি কি কথাটা ওজন করি, নাকি চারপাশে দাঁড়ানো মানুষগুলো গুনি?"
+          },
+          {
+            "en": "Being in a party is something a person keeps choosing. At-Tabari describes the Makkans as being led along the road of those before them, yet a few verses later, 38:17 turns to the Prophet ﷺ, telling him to be patient over what they say and to remember Dawud (AS), a servant who kept turning back to Allah. Turning back is the other movement the surah holds up. The parties in this verse are named because they held to their refusal together, and any reader can decline to walk the road they took.",
+            "bn": "কোনো দলে থাকা মানুষ প্রতিদিন নতুন করে বেছে নেয়। তাবারী বলেন, মক্কাবাসীদের আগের লোকদের পথেই চালিয়ে নেওয়া হচ্ছে। অথচ কয়েক আয়াত পরেই ৩৮:১৭ নবী ﷺ-এর দিকে ফেরে। তাঁকে বলা হয়, ওরা যা বলে তাতে ধৈর্য ধরুন, আর আমার বান্দা দাঊদ (আঃ)-কে স্মরণ করুন, যিনি বারবার আল্লাহর দিকে ফিরে আসতেন। ফিরে আসা, সূরাটি এই উল্টো চলাটাও সামনে তুলে ধরে। এ আয়াতের দলগুলোর নাম এসেছে, কারণ তারা একসঙ্গে নিজেদের অস্বীকার আঁকড়ে ছিল। তারা যে পথে হেঁটেছিল, সে পথে না হাঁটার স্বাধীনতা প্রত্যেক পাঠকের আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "38:18": {
     "sections": [
       {

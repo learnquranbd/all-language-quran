@@ -26049,6 +26049,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Close your gatherings, your work and your days with praise of Allah, Lord of the worlds, for every blessing in them came from Him alone.",
     "lessonBn": "আপনার মজলিস, কাজ আর দিনের ইতি টানুন সৃষ্টিজগতের রব আল্লাহর প্রশংসা দিয়ে, কারণ এগুলোর প্রতিটি নিয়ামত এসেছে কেবল তাঁরই কাছ থেকে।"
+  },
+  "38:13": {
+    "reflectionEn": "Three more names close the roll call: Thamud, the people of Lut, and the people of the thicket. Then two Arabic words: those are the parties. Each of them had strength, numbers and gear, and the comfort of being many. They gathered on one refusal and held it together, and the crowd did not save them. The verse does not ask me to point at anyone. It asks where I stand when a group I belong to closes ranks against a truth it finds inconvenient. Do I take comfort in how many agree with me? Do I mistake a crowd's confidence for proof? And when a fair word comes from outside my circle, am I still free to hear it?",
+    "reflectionBn": "তালিকার শেষে আরও তিনটি নাম: সামূদ, লূতের জাতি আর ঝোপবনের অধিবাসীরা। তারপর আরবিতে দুটি শব্দ: ওরাই ছিল দলবদ্ধ বাহিনী। প্রত্যেকের ছিল শক্তি, লোকবল, সাজসরঞ্জাম, আর দলে ভারী হওয়ার নিশ্চিন্তি। একটা অস্বীকারের উপর তারা জোট বেঁধেছিল, একসঙ্গে সেটা আঁকড়ে ছিল। ভিড় তাদের বাঁচাতে পারেনি। আয়াতটি আমাকে কারও দিকে আঙুল তুলতে বলে না। বরং জিজ্ঞেস করে, আমার নিজের দল যখন কোনো অস্বস্তিকর সত্যের বিরুদ্ধে কাতার বাঁধে, তখন আমি কোথায় দাঁড়াই? কতজন আমার সঙ্গে একমত, তা দেখেই কি আমি নিশ্চিন্ত হই? ভিড়ের আত্মবিশ্বাসকে কি প্রমাণ ভেবে বসি? আর ন্যায্য কথাটা যদি আমার গণ্ডির বাইরে থেকে আসে, তবু কি তা শোনার মতো মন আমার থাকে?",
+    "pointsEn": [
+      "When I feel sure of something, how much of that certainty comes from evidence, and how much from the number of people around me who agree?",
+      "Is there a group I belong to whose shared dismissal of some truth I have joined without ever weighing it myself?",
+      "What strength do I lean on, whether numbers, money, standing or connections, that I quietly assume would shield me from the outcome of a wrong?",
+      "When I read about peoples who were destroyed, do I look for a lesson for myself, or for a label to put on someone else?",
+      "Which reminder have I put off because it came from someone outside my own circle?"
+    ],
+    "pointsBn": [
+      "কোনো বিষয়ে যখন আমি নিশ্চিত বোধ করি, সেই নিশ্চয়তার কতটা আসে দলিল থেকে, আর কতটা আসে চারপাশে একমত লোকের সংখ্যা থেকে?",
+      "আমার এমন কোনো দল কি আছে, যারা মিলে কোনো সত্যকে উড়িয়ে দেয়, আর আমি নিজে যাচাই না করেই তাতে শামিল হয়েছি?",
+      "লোকবল, টাকা, পদমর্যাদা বা চেনাজানা, কোন শক্তির উপর আমি ভর দিই আর মনে মনে ধরে নিই যে অন্যায় করলেও এটা আমাকে পরিণাম থেকে আড়াল করবে?",
+      "ধ্বংস হয়ে যাওয়া জাতিগুলোর কথা পড়ার সময় আমি কি নিজের জন্য শিক্ষা খুঁজি, নাকি অন্য কারও গায়ে লাগানোর মতো একটা তকমা খুঁজি?",
+      "কোন নসিহতটা আমি ফেলে রেখেছি শুধু এ কারণে যে তা এসেছিল আমার গণ্ডির বাইরের কারও মুখ থেকে?"
+    ],
+    "lessonEn": "Being many does not make a refusal right. Weigh the truth for yourself, even when your own circle has gathered to set it aside.",
+    "lessonBn": "দলে ভারী হলেই অস্বীকার সঠিক হয়ে যায় না। নিজের দল সত্যকে সরিয়ে রাখতে জোট বাঁধলেও আপনি নিজে সত্যটা যাচাই করে দেখুন।"
   }
 };
 
