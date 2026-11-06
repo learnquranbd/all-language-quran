@@ -28649,6 +28649,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an reminds everyone who hears it, but it takes hold in those who guard themselves; read it to be reminded, then act on what it brings back.",
     "lessonBn": "কুরআন যে শোনে তাকেই মনে করিয়ে দেয়, তবে তা গেঁথে যায় তাদের মনে, যারা নিজেদের বাঁচিয়ে চলে। মনে পড়ার জন্য পড়ুন, তারপর যা মনে পড়ল সে অনুযায়ী আমল করুন।"
+  },
+  "70:11": {
+    "reflectionEn": "On that Day no one is out of sight. A man is shown his father, his brother, the friend he once leaned on, and he knows them. Yet no one asks after anyone. Each is taken up with himself. Then the verse turns to the one it calls the criminal, and to a wish: that he could ransom himself from that Day's punishment with his own sons. The bond was real; the verse does not deny it. It says that on that Day a bond cannot buy a way out. Seeing someone is not the same as reaching them. The asking is still open to me now. Whom do I see every day and never truly ask after?",
+    "reflectionBn": "সেদিন কেউ চোখের আড়ালে থাকবে না। মানুষকে দেখানো হবে তার বাবাকে, ভাইকে, একসময় যার উপর ভরসা করত সেই বন্ধুকে। সে তাদের চিনবেও। তবু কেউ কারও খোঁজ নেবে না। প্রত্যেকে নিজেকে নিয়েই ব্যস্ত। তারপর আয়াতটি ফেরে সেই লোকের দিকে, যাকে সে অপরাধী বলেছে, আর তার একটি আকাঙ্ক্ষার দিকে: যদি নিজের ছেলেদের বিনিময়ে সেদিনের আযাব থেকে নিজেকে ছাড়িয়ে নেওয়া যেত! সম্পর্কটা মিথ্যা ছিল না, আয়াত তা অস্বীকারও করে না। শুধু বলে, সেদিন কোনো সম্পর্ক দিয়ে মুক্তি কেনা যাবে না। কাউকে দেখতে পাওয়া আর তার কাছে পৌঁছানো এক কথা নয়। খোঁজ নেওয়ার সুযোগ আমার হাতে এখনো আছে। রোজ যাদের দেখি, তাদের কার খোঁজ আমি সত্যিকারভাবে কখনো নিইনি?",
+    "pointsEn": [
+      "Who do I see every day without ever asking how they really are?",
+      "If I picture being shown my own family on that Day, what do I wish I had said to them now?",
+      "What am I relying on to save me that I have never actually tested against that Day?",
+      "Which deed am I preparing that no son, spouse or friend could ever offer in my place?",
+      "When I am absorbed in my own worries, whose need do I stop noticing?"
+    ],
+    "pointsBn": [
+      "রোজ কাদের দেখি, অথচ কখনো জিজ্ঞেস করি না তারা আসলে কেমন আছে?",
+      "সেদিন নিজের পরিবারকে চোখের সামনে দেখানো হচ্ছে, এ ছবি মনে আনলে আজ তাদের কী বলে রাখতে ইচ্ছে করে?",
+      "নিজেকে বাঁচানোর জন্য কীসের উপর ভরসা করে আছি, যা ওই দিনের মাপে কখনো যাচাই করে দেখিনি?",
+      "এমন কোন আমল তৈরি করছি, যা আমার হয়ে কোনো সন্তান, স্ত্রী বা বন্ধু কখনো দিতে পারবে না?",
+      "নিজের দুশ্চিন্তায় ডুবে থাকলে কার প্রয়োজন আমার চোখে পড়া বন্ধ হয়ে যায়?"
+    ],
+    "lessonEn": "On that Day people will see their nearest and still not ask after them; ask after yours now, and prepare the deeds no one else can offer for you.",
+    "lessonBn": "সেদিন মানুষ নিজের সবচেয়ে কাছের জনদের দেখবে, তবু তাদের খোঁজ নেবে না। আপনার কাছের মানুষদের খোঁজ এখনই নিন, আর এমন আমল জোগাড় করুন যা আপনার হয়ে আর কেউ দিতে পারবে না।"
   }
 };
 

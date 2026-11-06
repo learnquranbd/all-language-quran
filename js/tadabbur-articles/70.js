@@ -311,6 +311,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "70:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "Nine Words After a Silence",
+          "bn": "নীরবতার পরে নয়টি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Yubassarunahum; yawaddu al-mujrimu law yaftadi min 'adhabi yawmi'idhin bi-banihi: they will be shown each other; the criminal will wish he could ransom himself from the punishment of that Day by his sons. Nine Arabic words follow a passage that has already shaken the world. In 70:8 the sky becomes like molten residue, in 70:9 the mountains like wool, and in 70:10 no close friend, hamim, asks after a close friend. This verse opens with one word about seeing, and then turns to a wish.",
+            "bn": "ইউবাসসারূনাহুম; ইয়াওয়াদ্দুল মুজরিমু লাও ইয়াফতাদী মিন আযাবি ইয়াওমিইযিন বিবানীহ: তাদেরকে একে অপরকে দেখানো হবে; অপরাধী চাইবে, যদি নিজের ছেলেদের বিনিময়ে সেদিনের আযাব থেকে নিজেকে ছাড়িয়ে নিতে পারত! আরবিতে নয়টি শব্দ। এর আগের আয়াতগুলো গোটা জগৎকে নাড়িয়ে দিয়েছে। ৭০:৮ আয়াতে আকাশ হয়ে যায় গলিত তলানির মতো, ৭০:৯ আয়াতে পাহাড় পশমের মতো, আর ৭০:১০ আয়াতে কোনো অন্তরঙ্গ বন্ধু, হামীম, আরেক বন্ধুর খোঁজ নেয় না। এ আয়াত শুরু হয় দেখা নিয়ে একটি শব্দে, তারপর মোড় নেয় একটি আকাঙ্ক্ষার দিকে।"
+          },
+          {
+            "en": "The first word is a whole clause. Yubassaruna is a form II imperfect verb in the passive: they are made to see. Its waw stands in place of the subject, and the attached -hum is its object, so the word says that some are shown others without naming who does the showing. At-Tabari, setting out the first reading he reports, calls it tabsir Allah iyyahum, Allah's causing them to see. Al-Qurtubi marks where the sentence stops: the speech is complete at yubassarunahum, and then He says, yawaddu al-mujrim.",
+            "bn": "প্রথম শব্দটি নিজেই একটি পূর্ণ বাক্য। ইউবাসসারূনা দ্বিতীয় বাবের বর্তমান-ভবিষ্যৎ কালের ক্রিয়া, কর্মবাচ্যে: তাদের দেখানো হবে। এর ওয়াও কর্তার জায়গায় বসেছে, আর শেষে জোড়া হুম তার কর্ম। ফলে শব্দটি জানায়, কাউকে কাউকে অন্যদের দেখানো হবে, কিন্তু কে দেখাবেন তা বলে না। তাবারী নিজের উদ্ধৃত প্রথম ব্যাখ্যাটি তুলে ধরতে গিয়ে একে বলেন তাবসীরুল্লাহি ইয়্যাহুম, অর্থাৎ আল্লাহ তাদের দেখিয়ে দেন। বাক্য কোথায় থামে, কুরতুবী তা চিহ্নিত করেন। তাঁর মতে কথা পূর্ণ হয়েছে ইউবাসসারূনাহুম-এ এসে। এরপর নতুন কথা শুরু: ইয়াওয়াদ্দুল মুজরিম।"
+          },
+          {
+            "en": "The second sentence is built on a wish. Yawaddu is to wish, and al-Qurtubi glosses it yatamanna, he longs for. Al-mujrim is a form IV active participle, the one who commits crime. Law here is the particle that turns the verb after it into the thing wished for, so the clause reads: he wishes that he could ransom himself. Yaftadi is form VIII, to give a ransom for oneself. And the first ransom the verse names is bi-banihi, by his sons.",
+            "bn": "দ্বিতীয় বাক্যের ভিত্তি একটি আকাঙ্ক্ষা। ইয়াওয়াদ্দু মানে চায়, আর কুরতুবী এর ব্যাখ্যা দেন ইয়াতামান্না দিয়ে: সে মনেপ্রাণে কামনা করে। আল-মুজরিম চতুর্থ বাবের কর্তৃবাচক বিশেষ্য, অর্থাৎ যে অপরাধ করে। এখানে লাও সেই অব্যয়, যা পরের ক্রিয়াটিকে কামনার বিষয়ে পরিণত করে। তাই বাক্যটির অর্থ দাঁড়ায়: সে চায় যেন নিজের মুক্তিপণ দিতে পারে। ইয়াফতাদী অষ্টম বাবের ক্রিয়া, নিজের জন্য মুক্তিপণ দেওয়া। আর আয়াত প্রথম যে মুক্তিপণের নাম নেয়, তা বিবানীহ: তার ছেলেদের দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Shown to Whom",
+          "bn": "কাকে দেখানো হবে কার সামনে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens his comment by saying that the people of interpretation differed over whom the -hum of yubassarunahum refers to, and he sets out three views. The first is the relatives: they are made to recognise their kin, each person his own relative. He reports Ibn 'Abbas, through the chain of Muhammad ibn Sa'd: they will know each other and recognise each other, and then flee from each other. Ibn 'Abbas then recites 80:37: every man among them that Day will have concern enough of his own.",
+            "bn": "তাবারী শুরুতেই জানান, ইউবাসসারূনাহুম-এর হুম কাদের দিকে ফেরে, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। তিনি তিনটি মত তুলে ধরেন। প্রথম মত: এরা আত্মীয়স্বজন। তাদের আপনজনদের চিনিয়ে দেওয়া হবে, প্রত্যেকে চিনবে নিজের আত্মীয়কে। মুহাম্মাদ ইবন সা'দের সনদে তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: তারা একে অপরকে চিনবে, পরস্পর পরিচিত হবে, তারপর একে অপরের কাছ থেকে পালাবে। এরপর ইবন আব্বাস (রাঃ) পড়েন ৮০:৩৭ আয়াত: সেদিন তাদের প্রত্যেকেরই এমন অবস্থা হবে, যা তাকে অন্যদের থেকে বেখেয়াল করে রাখবে।"
+          },
+          {
+            "en": "Qatada belongs to the same group. He glosses the word as they recognise them, they know, and adds an oath: by Allah, people will surely know people, and folk will know folk. The second view is Mujahid's, in at-Tabari's chain through Ibn Abi Najih: the believers are shown the disbelievers. The third is Ibn Zayd's. Those who followed others into disbelief in this world will recognise, in the Fire, the ones they followed; in his words, they see those who led them astray in the world, in the Fire.",
+            "bn": "কাতাদাও এই প্রথম দলের। তিনি শব্দটির অর্থ বলেন, তারা তাদের চিনবে, জানবে। সঙ্গে কসম করে বলেন: আল্লাহর কসম, এক সম্প্রদায় অবশ্যই আরেক সম্প্রদায়কে চিনবে, একদল মানুষ আরেক দলকে। দ্বিতীয় মতটি মুজাহিদের, ইবন আবী নাজীহের সূত্রে তাবারীর সনদে: মুমিনদের দেখানো হবে কাফিরদের। তৃতীয় মত ইবন যায়দের। দুনিয়ায় যারা কুফরিতে অন্যদের অনুসারী ছিল, তারা জাহান্নামে চিনে নেবে তাদের নেতাদের। তাঁর ভাষায়: দুনিয়ায় যারা তাদের পথভ্রষ্ট করেছিল, জাহান্নামে তারা তাদের দেখতে পাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Qurtubi Widens the Circle",
+          "bn": "কুরতুবীর হাতে বৃত্ত বড় হয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets the readings out by pronoun, which makes the disagreement easy to see. On Ibn 'Abbas's reading, they are shown each other and recognise each other, then flee from each other; the subject is the disbelievers and the -hum is their relatives. On Mujahid's, Allah shows the believers the disbelievers on the Day of Resurrection, so the subject is the believers. On Ibn Zayd's, Allah shows the disbelievers in the Fire those who misled them in the world: the followers see the followed.",
+            "bn": "কুরতুবী প্রতিটি ব্যাখ্যা সাজান সর্বনাম ধরে ধরে, ফলে মতভেদটা পরিষ্কার চোখে পড়ে। ইবন আব্বাস (রাঃ)-এর ব্যাখ্যায় তাদের একে অপরকে দেখানো হবে, তারা পরস্পরকে চিনবে, তারপর একে অপরের কাছ থেকে পালাবে। এখানে কর্তা কাফিররা, আর হুম তাদের আত্মীয়রা। মুজাহিদের ব্যাখ্যায় কিয়ামতের দিন আল্লাহ মুমিনদের কাফিরদের দেখাবেন, তাই কর্তা মুমিনরা। ইবন যায়দের ব্যাখ্যায় জাহান্নামে আল্লাহ কাফিরদের দেখাবেন সেই লোকদের, যারা দুনিয়ায় তাদের পথভ্রষ্ট করেছিল। অনুসারীরা দেখবে যাদের অনুসরণ করেছিল তাদের।"
+          },
+          {
+            "en": "He then adds two readings introduced only with it is said. In one, the wronged is shown the one who wronged him, and the slain is shown his killer. In the other, the word refers to the angels: they know the states of people, and drive each group to what befits it. In the text fetched, al-Qurtubi names no preference among them. Al-Baghawi brings one more, from as-Suddi: they are recognised, the believer by the whiteness of his face and the disbeliever by the blackness of his.",
+            "bn": "এরপর তিনি আরও দুটি ব্যাখ্যা আনেন, শুধু 'বলা হয়' কথাটি দিয়ে। একটিতে মজলুমকে দেখানো হবে তার জালিমকে, নিহতকে দেখানো হবে তার হত্যাকারীকে। অন্যটিতে শব্দটি ফেরে ফেরেশতাদের দিকে: তারা মানুষের অবস্থা জানেন, আর প্রত্যেক দলকে তাড়িয়ে নিয়ে যান তার উপযুক্ত ঠিকানায়। যে লেখাটি সংগ্রহ করা হয়েছে, তাতে কুরতুবী এগুলোর কোনোটিকে প্রাধান্য দেননি। বাগাভী আরেকটি ব্যাখ্যা আনেন সুদ্দী থেকে: তাদের চেনা যাবে, মুমিনকে তার চেহারার শুভ্রতায়, কাফিরকে তার চেহারার কালিমায়।"
+          },
+          {
+            "en": "Ibn 'Abbas has a second report in both al-Qurtubi and al-Baghawi: they recognise each other for an hour, al-Baghawi says an hour of the day, and after that they do not recognise each other. On this report the recognition lasts only for a time. The sources keep all these readings side by side, and so does this article. The verse is read as kin shown kin, believers shown disbelievers, followers shown their leaders, victims shown their wrongdoers, or angels knowing every state.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই ইবন আব্বাস (রাঃ)-এর আরেকটি বর্ণনা আনেন: তারা কিছুক্ষণ একে অপরকে চিনবে। বাগাভীর ভাষায়, দিনের কিছুটা সময়। তারপর আর চিনবে না। এ বর্ণনা অনুযায়ী চেনাজানা থাকবে অল্প সময়ের জন্য। সূত্রগুলো এসব ব্যাখ্যা পাশাপাশি রেখেছে, এ লেখাও তা-ই রাখছে। আয়াতটি পড়া হয় নানাভাবে: আত্মীয়কে দেখানো হবে আত্মীয়, মুমিনকে কাফির, অনুসারীকে তার নেতা, মজলুমকে তার জালিম। অথবা ফেরেশতারা জানবেন সবার অবস্থা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Pronoun Read by Its Neighbour",
+          "bn": "পাশের কথা দিয়ে সর্বনাম পড়া"
+        },
+        "p": [
+          {
+            "en": "After giving the three views, at-Tabari names the view he holds the most correct. No close friend asks a close friend about his affair, but they are shown them and recognise them, and then they flee from each other. He supports it with 80:34 to 80:37: the Day a man flees from his brother, his mother and his father, his wife and his sons, every man that Day having concern enough of his own.",
+            "bn": "তিনটি মত বলার পর তাবারী জানান, কোনটি তাঁর কাছে সবচেয়ে সঠিক। কোনো অন্তরঙ্গ বন্ধু আরেক বন্ধুর হাল জিজ্ঞেস করবে না। তবে তাদের দেখানো হবে, তারা চিনবেও, তারপর একে অপরের কাছ থেকে পালাবে। এর সমর্থনে তিনি আনেন ৮০:৩৪ থেকে ৮০:৩৭ আয়াত: সেদিন মানুষ পালাবে তার ভাই থেকে, মা ও বাবা থেকে, স্ত্রী ও ছেলেদের থেকে। সেদিন প্রত্যেকেরই এমন দশা হবে, যা তাকে অন্য সবার কথা ভুলিয়ে রাখবে।"
+          },
+          {
+            "en": "His reason is a reader's reason. This, he says, is closest to what the plain wording points to, because yubassarunahum follows directly upon wa-la yas'alu hamimun hamima, no close friend asks after a close friend. The -hum is therefore more likely to refer to those just mentioned than to anyone else. It is an argument from the order of the words. It also leaves the other views where he found them: Mujahid and Ibn Zayd stay in his commentary, each under his own name.",
+            "bn": "তাঁর যুক্তিটা একজন মনোযোগী পাঠকের যুক্তি। তিনি বলেন, আয়াতের বাহ্যিক শব্দ যেদিকে ইঙ্গিত করে, এ ব্যাখ্যা তার সবচেয়ে কাছাকাছি। কারণ ইউবাসসারূনাহুম এসেছে ঠিক ওয়ালা ইয়াসআলু হামীমুন হামীমা-র পরে, যার অর্থ কোনো বন্ধু বন্ধুর খোঁজ নেবে না। তাই হুম সর্বনামটি অন্য কারও চেয়ে এই সদ্য উল্লিখিত লোকদের দিকেই ফেরার সম্ভাবনা বেশি। এ যুক্তি শব্দের ক্রম থেকে নেওয়া। অন্য মতগুলোও তিনি মুছে দেননি। মুজাহিদ ও ইবন যায়দের কথা তাঁর তাফসীরে রয়ে গেছে, প্রত্যেকটি নিজের নামে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking, or Being Asked About",
+          "bn": "জিজ্ঞেস করা, না জিজ্ঞাসিত হওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's comment also preserves a difference in how the clause before this verse was recited. Most of the reciters of the cities read wa-la yas'alu, with the ya' open: no close friend asks a close friend. Abu Ja'far al-Qari and Shayba read wa-la yus'alu, with it closed: a close friend is not asked about. At-Tabari explains the second reading: nobody says to a close friend, where is your friend? and they seek nothing from each other. He prefers the open reading for the soundness of its meaning and the agreement of the authoritative reciters on it.",
+            "bn": "এ আয়াতের ঠিক আগের বাক্যটি কীভাবে পড়া হয়েছে, সে বিষয়ে একটি ভিন্নতাও তাবারীর আলোচনায় সংরক্ষিত আছে। বিভিন্ন শহরের অধিকাংশ কারী পড়েন ওয়ালা ইয়াসআলু, ইয়া-তে যবর দিয়ে: কোনো বন্ধু বন্ধুর খোঁজ নেবে না। আবু জা'ফর আল-কারী ও শাইবা পড়েন ওয়ালা ইউসআলু, পেশ দিয়ে: কোনো বন্ধুর ব্যাপারে জিজ্ঞেস করা হবে না। দ্বিতীয় পাঠের অর্থ তাবারী খুলে বলেন: কোনো বন্ধুকে বলা হবে না, তোমার বন্ধু কোথায়? আর তারা একে অপরের কাছে কিছু চাইবেও না। তবে তিনি প্রথম পাঠটিকেই গ্রহণ করেন, কারণ এর অর্থ নির্ভুল, আর নির্ভরযোগ্য কারীগণ এতে একমত।"
+          },
+          {
+            "en": "On the open reading, the commentators describe what it is to see and not ask. Al-Qurtubi and al-Baghawi write almost the same sentence: there is no creature at the Resurrection, of jinn or of humankind, who is not in plain view of his companion. A man sees his father, his brother and his kin, and does not ask him. Al-Baghawi adds that he sees his close friend and does not speak to him, because he is taken up with himself; al-Qurtubi says the same of father, brother, kin and clan.",
+            "bn": "প্রথম পাঠ ধরে তাফসীরকারেরা বর্ণনা করেন, দেখেও জিজ্ঞেস না করার অবস্থাটা কেমন। কুরতুবী ও বাগাভী প্রায় একই বাক্য লেখেন: কিয়ামতের দিন জিন বা মানুষের মধ্যে এমন কোনো সৃষ্টি থাকবে না, যে তার সঙ্গীর চোখের সামনে নেই। মানুষ তার বাবাকে দেখবে, ভাইকে দেখবে, আত্মীয়দের দেখবে, কিন্তু কিছু জিজ্ঞেস করবে না। বাগাভী যোগ করেন, সে তার অন্তরঙ্গ বন্ধুকে দেখবে, অথচ তার সঙ্গে কথা বলবে না, কারণ সে নিজেকে নিয়েই ব্যস্ত। বাবা, ভাই, আত্মীয় আর গোষ্ঠী সম্পর্কে কুরতুবীও একই কথা বলেন।"
+          },
+          {
+            "en": "As-Sa'di places the scene inside the heart. The close friend, the relative, sees his relative, and there is no room left in his heart to ask about his state, nor about anything of their companionship and affection; nothing concerns him but himself. Al-Qurtubi also relays, from some reports he does not name, that the people of the Resurrection run from those they knew, fearing the wrongs still owed between them. He names no source or chain for it, so it is given here only as something he relays.",
+            "bn": "সা'দী দৃশ্যটিকে নিয়ে যান মানুষের অন্তরের ভেতরে। অন্তরঙ্গ জন, অর্থাৎ আত্মীয়, তার আত্মীয়কে দেখবে। কিন্তু তার অন্তরে এতটুকু জায়গা থাকবে না যে তার অবস্থা জিজ্ঞেস করে। তাদের সাহচর্য আর ভালোবাসার কোনো কথাও মনে আসবে না। নিজেকে ছাড়া আর কিছু তাকে ভাবাবে না। কুরতুবী আরও উল্লেখ করেন, কিছু বর্ণনায় আছে, কিয়ামতের লোকেরা পরিচিতদের থেকে পালাবে, পাছে পাওনা জুলুমের দাবি ওঠে। তিনি এর কোনো সূত্র বা সনদ উল্লেখ করেননি, তাই এখানে কথাটি শুধু তাঁর উদ্ধৃত বর্ণনা হিসেবেই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Sons Named First",
+          "bn": "সবার আগে ছেলেদের নাম"
+        },
+        "p": [
+          {
+            "en": "Then the wish. Who is al-mujrim? At-Tabari, al-Qurtubi and the Muyassar each gloss him as the disbeliever, al-kafir. Al-Baghawi says he who associates partners with Allah, al-mushrik. As-Sa'di defines him by his end: he upon whom the punishment has become binding. Four of them name him by what he believed, and as-Sa'di by where he ends. On as-Sa'di's reading, the wish in this verse belongs to someone whose sentence is already fixed, which is what gives it its weight.",
+            "bn": "এবার আকাঙ্ক্ষার কথা। আল-মুজরিম কে? তাবারী, কুরতুবী ও মুয়াসসার তিনজনই তাকে বলেন কাফির। বাগাভী বলেন মুশরিক, অর্থাৎ যে আল্লাহর সঙ্গে শরিক করে। সা'দী তাকে চেনান তার পরিণতি দিয়ে: যার উপর আযাব অবধারিত হয়ে গেছে। চারজন তাকে চেনান তার বিশ্বাস দিয়ে, আর সা'দী তার শেষ ঠিকানা দিয়ে। সা'দীর পাঠে এ আয়াতের আকাঙ্ক্ষা এমন মানুষের, যার রায় আগেই চূড়ান্ত হয়ে গেছে। কথাটির ভার এখানেই।"
+          },
+          {
+            "en": "Why the sons first? At-Tabari answers in his own commentary on the verse. Allah began with the sons, then the wife, then the brother, to let His servants know that the disbeliever, from the immensity of the trial that comes down on him that Day, would ransom himself, if he found any way to it, with the people most beloved to him in this world and nearest to him in lineage. Al-Qurtubi's gloss is close: from the punishment of Hell, by the dearest of his relatives in this world, and he is not able to.",
+            "bn": "ছেলেদের নাম আগে কেন? তাবারী এ আয়াতের নিজস্ব ব্যাখ্যায় এর জবাব দেন। আল্লাহ শুরু করেছেন ছেলেদের দিয়ে, তারপর স্ত্রী, তারপর ভাই। উদ্দেশ্য বান্দাদের জানানো: সেদিন কাফিরের উপর যে ভয়াবহ বিপদ নামবে, তার চাপে সে কোনো পথ পেলে নিজেকে ছাড়িয়ে নিতে চাইবে দুনিয়ায় তার সবচেয়ে প্রিয় মানুষদের দিয়ে, বংশে যারা তার সবচেয়ে কাছের। কুরতুবীর ব্যাখ্যাও কাছাকাছি: জাহান্নামের আযাব থেকে বাঁচতে সে মুক্তিপণ দিতে চাইবে দুনিয়ার সবচেয়ে প্রিয় আত্মীয়দের দিয়ে, কিন্তু তা পারবে না।"
+          },
+          {
+            "en": "This verse itself names only the sons. The wife and the brother come in 70:12, the sheltering kin in 70:13, and everyone on earth in 70:14, before 70:15 answers: by no means. Ibn Kathir, writing on the whole passage, says no ransom will be accepted from him. The longer list and its refusal are taken up under 70:13. Here the weight sits on the first name. On the reading at-Tabari prefers, the man has just been shown the very people he would offer.",
+            "bn": "এ আয়াত নিজে শুধু ছেলেদের নাম নেয়। স্ত্রী ও ভাইয়ের কথা আসে ৭০:১২ আয়াতে, আশ্রয়দাতা গোষ্ঠীর কথা ৭০:১৩ আয়াতে, আর পৃথিবীর সবার কথা ৭০:১৪ আয়াতে। তারপর ৭০:১৫ আয়াত জবাব দেয়: কখনোই নয়। ইবন কাসীর পুরো অংশের আলোচনায় বলেন, তার কাছ থেকে কোনো মুক্তিপণ গ্রহণ করা হবে না। দীর্ঘ তালিকা আর তার প্রত্যাখ্যান নিয়ে আলোচনা আছে ৭০:১৩ আয়াতের অধীনে। এখানে ভার পড়েছে প্রথম নামটির উপর। তাবারী যে ব্যাখ্যা পছন্দ করেন, সে অনুযায়ী এই মানুষটিকে একটু আগেই দেখানো হয়েছে ঠিক সেই লোকদের, যাদের সে বিনিময়ে দিতে চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Scene, Not a Verdict",
+          "bn": "এ এক দৃশ্য, কারও বিচার নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a man the Qur'an calls al-mujrim, on the Day of Judgement, wishing to buy his release with his own sons. It licenses nothing against any living person or community. It does not let anyone fix this name on a relative, a rival or a whole people today, or treat any family as already lost. Mujahid's reading, in which the believers are shown the disbelievers, describes that Day. It hands no believer now the seat of the judge.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: কুরআন যাকে আল-মুজরিম বলেছে, বিচার দিবসে সে নিজের ছেলেদের দিয়ে মুক্তি কিনতে চাইবে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজ কোনো আত্মীয়, প্রতিপক্ষ বা গোটা কোনো জাতির গায়ে এই নাম সেঁটে দেওয়ার অধিকার এটি কাউকে দেয় না। কোনো পরিবারকে আগেভাগে ধ্বংসপ্রাপ্ত ধরে নেওয়ারও না। মুজাহিদের ব্যাখ্যায় মুমিনদের কাফিরদের দেখানো হবে, সে কথা ওই দিনের বর্ণনা। আজকের কোনো মুমিনকে তা বিচারকের আসনে বসায় না।"
+          },
+          {
+            "en": "Nor are the sons framed as guilty. They are named only as the dearest thing the man could offer, and at-Tabari reads them exactly that way. On hadith: none of the eight commentaries fetched for this verse attaches a hadith to 70:11, so none is given here. The one narration Ibn Kathir quotes in this passage concerns 70:18, on holding back wealth, and belongs there. The sources report no occasion of revelation for the verse either. What they give is a word read many ways, a recitation difference and a wish.",
+            "bn": "ছেলেদেরও দোষী হিসেবে দেখানো হয়নি। তাদের নাম এসেছে শুধু এ কারণে যে মানুষটির কাছে বিনিময়ে দেওয়ার মতো সবচেয়ে প্রিয় জিনিস তারাই। তাবারীও তাদের ঠিক এভাবেই পড়েন। হাদীস প্রসঙ্গে: এ আয়াতের জন্য যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিই ৭০:১১ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই এখানে কোনো হাদীস আনা হলো না। এ অংশে ইবন কাসীর যে একটি বর্ণনা উদ্ধৃত করেন, তা ৭০:১৮ আয়াতের, সম্পদ আটকে রাখা নিয়ে, আর সেখানেই তার জায়গা। আয়াতটির কোনো শানে নুযূলও সূত্রগুলো উল্লেখ করেনি। তারা দিয়েছে বহু অর্থের একটি শব্দ, পাঠের একটি ভিন্নতা, আর একটি আকাঙ্ক্ষা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While the Asking Is Still Open",
+          "bn": "খোঁজ নেওয়ার দরজা যতক্ষণ খোলা"
+        },
+        "p": [
+          {
+            "en": "For a reader now, the verse pulls apart two things that usually go together: seeing a person and asking after them. On that Day, as the commentators describe it, the seeing remains and the asking is gone. As-Sa'di names what goes with it: the questions about each other's state, and everything that belonged to companionship and affection. Today the two still go together. The face we see across a table can still be asked how it is, and the asking still counts for something.",
+            "bn": "আজকের পাঠকের জন্য আয়াতটি এমন দুটি জিনিসকে আলাদা করে দেখায়, যা সাধারণত একসঙ্গে থাকে: কাউকে দেখা আর তার খোঁজ নেওয়া। তাফসীরকারদের বর্ণনায় সেদিন দেখাটা থাকবে, খোঁজ নেওয়াটা থাকবে না। সা'দী বলে দেন, এর সঙ্গে আর কী হারায়: একে অপরের হাল জানতে চাওয়া, আর সাহচর্য ও ভালোবাসার সব কথা। আজ দুটো এখনো একসঙ্গেই আছে। টেবিলের ওপাশে যে মুখটা দেখি, তাকে এখনো জিজ্ঞেস করা যায়, কেমন আছ। আর সেই জিজ্ঞাসার এখনো মূল্য আছে।"
+          },
+          {
+            "en": "The second half of the verse turns the eye to what will be carried. The man's wish is for a ransom made of people, and the people he would offer are the dearest he had. That wish is not granted, and the verses that follow say so plainly. What will answer for a person on that Day is not anyone he can hand over. It is what he prepares now, while the faces around him can still be reached, served and loved for the sake of Allah.",
+            "bn": "আয়াতের দ্বিতীয় অংশ চোখ ফেরায় সেদিকে, যা সঙ্গে নিয়ে যেতে হবে। মানুষটি চায় মানুষ দিয়ে তৈরি মুক্তিপণ, আর যাদের সে দিতে চায়, তারাই ছিল তার সবচেয়ে প্রিয়। সে আকাঙ্ক্ষা পূরণ হয় না, পরের আয়াতগুলো তা স্পষ্ট করেই বলে দেয়। সেদিন মানুষের হয়ে জবাব দেবে না এমন কেউ, যাকে সে বিনিময়ে তুলে দিতে পারে। জবাব দেবে সেই আমল, যা সে এখন জোগাড় করছে। এখন, যখন চারপাশের মুখগুলোর কাছে এখনো পৌঁছানো যায়, তাদের সেবা করা যায়, আল্লাহর জন্য তাদের ভালোবাসা যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "70:13": {
     "sections": [
       {
