@@ -28389,6 +28389,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Life is a trade judged on one Day. Spend your days on faith and righteous deeds, and settle what you owe others while settling is still possible.",
     "lessonBn": "জীবন এক লেনদেন, যার হিসাব হবে একদিনে। দিনগুলো ঈমান আর নেক আমলে খরচ করুন, আর অন্যের যে হক আপনার কাছে আছে, সুযোগ থাকতেই তা মিটিয়ে নিন।"
+  },
+  "67:17": {
+    "reflectionEn": "The verse before this one asked about the ground under your feet. This one asks about the sky over your head: do you feel secure that He who is in the heaven will not send against you a wind that carries stones? It is not a forecast, and it is no key for reading any storm in the news. It is aimed at a feeling: the calm of people spared for so long that they have taken being spared for being safe. Then you will know how My warning was, it ends. That knowing comes to everyone. It can come now, as a warning heeded, or later, when it helps no one. The verse asks me to read myself, not the sky.",
+    "reflectionBn": "আগের আয়াত প্রশ্ন করেছিল পায়ের নিচের মাটি নিয়ে। এ আয়াত প্রশ্ন করে মাথার উপরের আকাশ নিয়ে: যিনি আকাশে আছেন, তিনি তোমাদের উপর পাথরভরা ঝড়ো হাওয়া পাঠাবেন না, এ ব্যাপারে কি তোমরা নিশ্চিন্ত? এটা আবহাওয়ার পূর্বাভাস নয়। খবরে দেখা কোনো ঝড়ের মানে বের করার চাবিও নয়। প্রশ্নটা তাক করা একটা অনুভূতির দিকে। অনেক দিন ধরে রেহাই পেতে পেতে মানুষ রেহাই পাওয়াকেই নিরাপত্তা ভেবে বসে, সেই নিশ্চিন্ত ভাবটার দিকে। আয়াতের শেষ কথা: তখন তোমরা জানবে, আমার সতর্কবাণী কেমন ছিল। এই জানা সবার কাছেই আসবে। আসতে পারে এখন, সতর্কবাণী মেনে নেওয়ার রূপে। আবার আসতে পারে পরে, যখন তাতে আর কারও কোনো লাভ হবে না। আয়াতটি আমাকে আকাশ পড়তে বলে না, নিজেকে পড়তে বলে।",
+    "pointsEn": [
+      "Where in my life have I taken a long respite for a permanent safety?",
+      "When a warning in the Qur'an reaches me, do I apply it first to myself, or reach to fit it onto other people?",
+      "If I already knew how this warning turns out, what would I change about today?",
+      "What reminds me, on an ordinary calm day, that the ground beneath me and the sky above me are held by Someone?",
+      "Do I treat being spared as a gift to give thanks for, or as proof that nothing will ever happen?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন জায়গায় আমি লম্বা অবকাশকে চিরস্থায়ী নিরাপত্তা ভেবে বসে আছি?",
+      "কুরআনের কোনো সতর্কবাণী কানে এলে আমি কি আগে নিজের উপর খাটাই, নাকি অন্য লোকের গায়ে লাগানোর জায়গা খুঁজি?",
+      "এই সতর্কবাণীর শেষ পরিণতি যদি আজই জানতাম, তাহলে আজকের দিনে কী বদলাতাম?",
+      "সাধারণ শান্ত একটা দিনে কোন জিনিস আমাকে মনে করিয়ে দেয় যে পায়ের নিচের মাটি আর মাথার উপরের আকাশ কেউ একজন ধরে রেখেছেন?",
+      "রেহাই পাওয়াকে আমি কি শোকর আদায়ের মতো নিয়ামত মনে করি, নাকি এর প্রমাণ মনে করি যে কখনো কিছুই হবে না?"
+    ],
+    "lessonEn": "Do not take being spared for being safe; heed the warning now, while knowing it can still help you.",
+    "lessonBn": "রেহাই পাওয়াকে নিরাপদ থাকা ভেবে বসবেন না; সতর্কবাণী এখনই মেনে নিন, যখন তা জানা এখনো আপনার কাজে আসতে পারে।"
   }
 };
 

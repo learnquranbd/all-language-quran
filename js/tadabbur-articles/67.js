@@ -739,6 +739,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "67:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sky After the Ground",
+          "bn": "মাটির পরে আকাশের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Surah al-Mulk has just set the earth before its listeners as a gift: made tame beneath them, walked on, eaten from. The next two verses turn the gift into a question. 67:16 asks: do you feel secure that He who is in the heaven will not make the earth swallow you, and then it sways? 67:17 asks the same question from the other direction. Or do you feel secure that He who is in the heaven will not send against you a hasib? One threat rises from below, one falls from above.",
+            "bn": "সূরা মুলক এইমাত্র শ্রোতাদের সামনে জমিনকে তুলে ধরেছে একটা উপহার হিসেবে। জমিন তাদের বশে, তার উপর দিয়ে তারা হাঁটে, তার রিযিক খায়। পরের দুই আয়াত সেই উপহারকেই প্রশ্নে বদলে দেয়। ৬৭:১৬ জিজ্ঞেস করে: যিনি আকাশে আছেন, তিনি তোমাদের নিয়ে জমিন ধসিয়ে দেবেন না, আর তা তখন থরথর করে দুলবে না, এ ব্যাপারে কি তোমরা নিশ্চিন্ত? ৬৭:১৭ একই প্রশ্ন করে উল্টো দিক থেকে। নাকি তোমরা নিশ্চিন্ত যে, যিনি আকাশে আছেন তিনি তোমাদের উপর হাসিব পাঠাবেন না? একটা বিপদ উঠে আসে নিচ থেকে, আরেকটা নেমে আসে উপর থেকে।"
+          },
+          {
+            "en": "Between the two stands one listener, and what the verses press on is his calm. Amintum is from the root of amn, safety: the feeling that nothing will happen. The Muyassar names who is first addressed, the disbelievers of Mecca, and at-Tabari, commenting on the pair, addresses them as you who disbelieve. The verse then closes on a promise of knowledge: fa-sa-ta'lamuna kayfa nadhir, then you will know how My warning was. The sections below take its three parts in turn: who is in the heaven, the hasib, and the knowing.",
+            "bn": "দুই আয়াতের মাঝখানে দাঁড়িয়ে আছে একজন শ্রোতা। আয়াত দুটি চাপ দেয় তার নিশ্চিন্ত মনের উপর। আমিনতুম শব্দ এসেছে আমন থেকে, যার মানে নিরাপত্তা, অর্থাৎ কিছুই হবে না এমন একটা অনুভূতি। প্রথমে কাদের উদ্দেশে বলা, মুয়াসসার তা জানিয়ে দেয়: মক্কার কাফিররা। তাবারীও এই দুই আয়াতের ব্যাখ্যায় তাদের সম্বোধন করেন 'হে কাফিররা' বলে। আয়াতের শেষে আছে জানার এক প্রতিশ্রুতি: ফাসাতা'লামূনা কাইফা নাযীর, তখন তোমরা জানবে আমার সতর্কবাণী কেমন ছিল। নিচের অংশগুলো আয়াতের তিনটি অংশ একে একে দেখবে: আকাশে যিনি আছেন, হাসিব, আর সেই জানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is in the Heaven",
+          "bn": "আকাশে যিনি আছেন"
+        },
+        "p": [
+          {
+            "en": "Man fi s-sama', literally he who is in the heaven, appears word for word in both verses. The commentators fetched for this verse gloss it briefly. At-Tabari says only: and He is Allah. As-Sa'di, on the same phrase in 67:16, writes: He is Allah the Exalted, al-'ali 'ala khalqihi, high above His creation. The Muyassar renders it in both verses as Allah who is above the heaven, and adds a sentence: in the verse is an affirmation of highness for Allah, as befits His majesty. Ma'arif al-Qur'an has the Supreme Being in the heaven.",
+            "bn": "মান ফিস সামা, শব্দে শব্দে অর্থ: যিনি আকাশে আছেন। দুই আয়াতেই কথাটা হুবহু এসেছে। এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, সেগুলো এর ব্যাখ্যা দেয় সংক্ষেপে। তাবারী শুধু বলেন: আর তিনি আল্লাহ। ৬৭:১৬-এর একই শব্দের ব্যাখ্যায় সা'দী লেখেন: তিনি মহান আল্লাহ, আল-আলিয়্যু আলা খালকিহি, অর্থাৎ নিজের সৃষ্টির ঊর্ধ্বে। মুয়াসসার দুই আয়াতেই এর অর্থ করে: আল্লাহ, যিনি আকাশের ঊর্ধ্বে। সঙ্গে একটি বাক্য যোগ করে: এ আয়াতে আল্লাহর জন্য উচ্চতা সাব্যস্ত হয়, যেমনটি তাঁর মহিমার উপযুক্ত। মাআরিফুল কুরআন লেখে: আকাশে যে সর্বোচ্চ সত্তা আছেন।"
+          },
+          {
+            "en": "A second gloss, reported from Ibn 'Abbas by both al-Qurtubi and al-Baghawi at 67:16, reads the question with one word supplied: do you feel secure from the punishment of Him who is in the heaven, if you disobey Him? On that reading the security being questioned is security from punishment, which is exactly what the two verses go on to describe: the ground giving way, the stones arriving. The phrase names the One whose threat it is, and the threat is the point of the sentence.",
+            "bn": "আরেকটি ব্যাখ্যা ইবন আব্বাস (রাঃ) থেকে বর্ণিত, যা কুরতুবী ও বাগাভী দুজনেই ৬৭:১৬-এ উল্লেখ করেছেন। তাতে প্রশ্নটার সঙ্গে একটি শব্দ যোগ করে পড়া হয়: যিনি আকাশে আছেন, তাঁর নাফরমানি করলে তাঁর শাস্তি থেকে কি তোমরা নিশ্চিন্ত? এ পাঠে যে নিরাপত্তা নিয়ে প্রশ্ন, তা শাস্তি থেকে নিরাপত্তা। দুই আয়াত ঠিক সেটারই বর্ণনা দেয়: পায়ের নিচে মাটি সরে যাওয়া, উপর থেকে পাথর নেমে আসা। শব্দগুচ্ছটি বলে দেয় হুমকিটা কার, আর বাক্যের আসল কথা সেই হুমকি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Qurtubi Lays Out the Readings",
+          "bn": "কুরতুবীর সাজানো ব্যাখ্যাগুলো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gathers the fuller list at 67:16, where the phrase opens the pair. After Ibn 'Abbas, he gives, under it is said: do you feel secure from Him whose power, authority, Throne and kingdom are in the heaven. He explains why the heaven is named although His dominion covers everything: to show that God is He whose power is carried out in the heaven, not those they venerate on earth. Others, he reports, take the phrase to point to the angels, or to Jibril, the angel entrusted with punishment.",
+            "bn": "পূর্ণ তালিকাটা কুরতুবী সাজিয়েছেন ৬৭:১৬-এ, যেখানে শব্দগুচ্ছ দিয়ে জোড়ার শুরু। ইবন আব্বাস (রাঃ)-এর কথার পর তিনি 'বলা হয়' দিয়ে আনেন: যাঁর ক্ষমতা, কর্তৃত্ব, আরশ ও রাজত্ব আকাশে, তাঁর থেকে কি তোমরা নিশ্চিন্ত? তাঁর রাজত্ব তো সবকিছু জুড়ে, তবু আকাশের নাম কেন? তিনি কারণ বলেন: যাতে বোঝা যায়, ইলাহ তিনিই যাঁর ক্ষমতা আকাশে কার্যকর। তারা জমিনে যাদের সম্মান করে, তারা নয়। তিনি আরও জানান, কেউ কেউ বলেছেন শব্দগুচ্ছটি ফেরেশতাদের দিকে ইঙ্গিত করে। কারও মতে জিবরীলের দিকে, যিনি শাস্তির দায়িত্বে নিযুক্ত ফেরেশতা।"
+          },
+          {
+            "en": "He then adds a possibility of his own: do you feel secure from the Creator of those in the heaven, that He will make the earth swallow you as He made it swallow Qarun? Next he reports what he calls the verifiers: from Him who is above the heaven, as in fa-sihu fi l-ard, travel in the land, 9:2, meaning upon it; not by contact or occupying a place, but by subduing and governing. Or from Him who is over the heaven, as in fi judhu' an-nakhl, on the trunks of palms, 20:71: its Governor and Owner, as one says a man is over Iraq and the Hijaz.",
+            "bn": "এরপর তিনি নিজের পক্ষ থেকে একটা সম্ভাবনা যোগ করেন: যিনি আকাশবাসীদের স্রষ্টা, তিনি কারূনকে যেমন জমিনে ধসিয়ে দিয়েছিলেন, তোমাদেরও তেমন ধসিয়ে দেবেন না, এ ব্যাপারে কি তোমরা নিশ্চিন্ত? তারপর তিনি বর্ণনা করেন তাঁর ভাষায় 'মুহাক্কিক'দের মত। এক মতে অর্থ: যিনি আকাশের উপরে। যেমন ৯:২ আয়াতে ফাসীহূ ফিল আরদ, জমিনে বিচরণ করো, মানে জমিনের উপরে। এ উপরে থাকা স্পর্শ বা স্থান দখল করে নয়, বরং পরাক্রম ও পরিচালনায়। আরেক মতে অর্থ: যিনি আকাশের উপর কর্তৃত্বশীল। যেমন ২০:৭১ আয়াতে ফী জুযূইন নাখল, খেজুর গাছের কাণ্ডের উপর। অর্থাৎ তিনি আকাশের পরিচালক ও মালিক, যেমন বলা হয় অমুক ইরাক ও হিজাযের উপর, মানে সেখানকার শাসক ও আমীর।"
+          },
+          {
+            "en": "Al-Qurtubi goes on: the reports on this subject are many, sound and widespread, pointing to highness, and what is meant by them is to honour Him and declare Him above lowness, describing Him with highness and greatness, not with places, directions and limits. Hands are raised to the heaven in supplication, he says, because the heaven is where revelation descends and rain comes down, as Allah made the Ka'ba the qibla for supplication and prayer. This article sets these wordings side by side as the commentators give them, and weighs none of them against another.",
+            "bn": "কুরতুবী আরও বলেন: এ বিষয়ে বর্ণনা অনেক, সহীহ ও ব্যাপকভাবে প্রচলিত, আর সেগুলো উচ্চতার দিকে ইঙ্গিত করে। এর উদ্দেশ্য তাঁর সম্মান প্রকাশ করা আর তাঁকে নিচুতা থেকে পবিত্র ঘোষণা করা। তাঁর গুণ বর্ণনা হয় উচ্চতা ও মহত্ত্ব দিয়ে, স্থান, দিক ও সীমা দিয়ে নয়। দোয়ায় হাত আকাশের দিকে কেন ওঠে, তারও কারণ তিনি বলেন: আকাশ থেকে ওহী নামে, বৃষ্টি নামে। যেমন আল্লাহ কাবাকে দোয়া ও নামাযের কিবলা বানিয়েছেন। এ লেখা তাফসীরকারদের ভাষাগুলো যেভাবে আছে সেভাবেই পাশাপাশি রাখল, একটাকে আরেকটার উপর ভারী করল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hasib: Pebbles in the Wind",
+          "bn": "হাসিব: বাতাসে কাঁকর"
+        },
+        "p": [
+          {
+            "en": "The second threat is one word, hasib, and the commentators agree on its core: something sent from above that strikes with small stones. Ibn Kathir: a wind carrying gravel that will crush you. At-Tabari: dust with small pebbles in it. The Muyassar: a wind that pelts you with small stones. As-Sa'di keeps the word's verb in view, yahsibukum: a punishment from the sky that pelts you, by which Allah takes retribution on you. The Bengali translation used here has a storm wind that rains stones.",
+            "bn": "দ্বিতীয় হুমকিটা একটিমাত্র শব্দ: হাসিব। এর মূল অর্থে তাফসীরকারেরা একমত: উপর থেকে পাঠানো এমন কিছু, যা ছোট ছোট পাথর দিয়ে আঘাত করে। ইবন কাসীর বলেন: কাঁকরভরা বাতাস, যা তোমাদের চূর্ণ করে দেবে। তাবারী বলেন: ধুলা, যার ভেতরে ছোট ছোট নুড়ি। মুয়াসসার বলে: এমন বাতাস, যা তোমাদের উপর ছোট পাথর ছুড়ে মারবে। সা'দী শব্দটার ক্রিয়ারূপ মাথায় রাখেন, ইয়াহসিবুকুম: আকাশ থেকে আসা শাস্তি, যা তোমাদের উপর পাথর ছোড়ে, আর যার মাধ্যমে আল্লাহ তোমাদের থেকে প্রতিশোধ নেন। এখানে ব্যবহৃত বাংলা অনুবাদে আছে: পাথর বর্ষণকারী ঝড়ো হাওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi lists three pictures. First, stones from the sky, as He sent them on the people of Lut (AS) and on the Companions of the Elephant. Then, under it is said, a wind with stones and pebbles in it. Then, again under it is said, a cloud with stones in it. Al-Baghawi has a wind bearing stones, as was done to the people of Lut (AS). The pictures differ in what carries the stones, wind, cloud or nothing at all, and agree that they come from above.",
+            "bn": "কুরতুবী তিনটি ছবি দেন। প্রথমটি: আকাশ থেকে পাথর, যেমন তিনি লূত (আঃ)-এর কওম আর হাতিওয়ালাদের উপর পাঠিয়েছিলেন। তারপর 'বলা হয়' দিয়ে: পাথর আর নুড়িভরা বাতাস। আবার 'বলা হয়' দিয়ে: পাথরভরা মেঘ। বাগাভী বলেন: পাথরবাহী বাতাস, যেমনটি করা হয়েছিল লূত (আঃ)-এর কওমের সঙ্গে। ছবিগুলোর তফাত পাথর কে বয়ে আনে তা নিয়ে: বাতাস, মেঘ, নাকি কিছুই না। তবে সব ছবিতেই পাথর আসে উপর থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Word Has Fallen Before",
+          "bn": "এ শব্দ আগে যেখানে নেমেছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the verse beside 17:68, which asks the same question with the same pair of threats: do you then feel secure that He will not make a side of the land swallow you, or send against you a hasib? Then you will find no one to protect you. And thus, he says, He threatens them here with then you will know how My warning was. The pairing is not a one-off image in al-Mulk. In al-Isra' it follows 17:67, on people who call on Him alone at sea and turn away once He brings them to land.",
+            "bn": "ইবন কাসীর আয়াতটিকে রাখেন ১৭:৬৮-এর পাশে। সেখানেও একই প্রশ্ন, একই জোড়া হুমকি: তোমরা কি নিশ্চিন্ত যে তিনি স্থলভাগের কোনো এক পাশে তোমাদের ধসিয়ে দেবেন না, কিংবা তোমাদের উপর হাসিব পাঠাবেন না? তখন তোমরা নিজেদের জন্য কোনো রক্ষাকারী পাবে না। তিনি বলেন, এখানেও তিনি এভাবেই হুমকি দিচ্ছেন: তখন তোমরা জানবে আমার সতর্কবাণী কেমন ছিল। জোড়াটা তাই সূরা মুলকের একক কোনো ছবি নয়। সূরা ইসরায় এর আগে আছে ১৭:৬৭, এমন মানুষদের কথা, যারা সাগরে বিপদে পড়ে শুধু তাঁকেই ডাকে, আর তিনি ডাঙায় পৌঁছে দিলে মুখ ফিরিয়ে নেয়।"
+          },
+          {
+            "en": "Elsewhere the Qur'an uses the word for what already happened. 54:34: We sent upon them a hasib, except the family of Lut (AS). And 29:40, listing nations seized each for its sin, names both threats of al-Mulk as past events: some upon whom We sent a hasib, some seized by the blast, some whom We made the earth swallow, some whom We drowned. That same verse ends: Allah did not wrong them, but they wronged themselves. The next verse here, 67:18, points the listener to them: those before them denied, and how was My reproach.",
+            "bn": "অন্য জায়গায় কুরআন এ শব্দ ব্যবহার করেছে যা আগে ঘটে গেছে তার জন্য। ৫৪:৩৪: আমি তাদের উপর হাসিব পাঠিয়েছিলাম, লূত (আঃ)-এর পরিবার ছাড়া। আর ২৯:৪০ আয়াতে যেসব জাতিকে তাদের গুনাহর কারণে পাকড়াও করা হয়েছিল, তাদের তালিকায় সূরা মুলকের দুটি হুমকিই আছে অতীতের ঘটনা হিসেবে। কারও উপর পাঠানো হয়েছিল হাসিব, কাউকে ধরেছিল বিকট আওয়াজ, কাউকে জমিনে ধসিয়ে দেওয়া হয়েছিল, কাউকে ডুবিয়ে দেওয়া হয়েছিল। সেই আয়াতই শেষ হয় এ কথায়: আল্লাহ তাদের উপর যুলম করেননি, তারা নিজেরাই নিজেদের উপর যুলম করেছিল। এখানে পরের আয়াত ৬৭:১৮ শ্রোতার দৃষ্টি তাদের দিকেই ফেরায়: তাদের আগের লোকেরাও অস্বীকার করেছিল, তখন কেমন ছিল আমার শাস্তি!"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kayfa Nadhir: Knowing How",
+          "bn": "কাইফা নাযীর: কেমন, তা জানা"
+        },
+        "p": [
+          {
+            "en": "The verse ends: fa-sa-ta'lamuna kayfa nadhir. The last word ends on a kasra, and al-Qurtubi and al-Baghawi both gloss it inzari, My warning. Ibn Kathir: how My warning is, and what the end is of whoever lags behind it and denies it. At-Tabari: you will know, you who deny, how the outcome of My warning to you is, since you denied it and turned it back on My Messenger. Ma'arif al-Qur'an renders the verb you will soon come to know.",
+            "bn": "আয়াতের শেষ কথা: ফাসাতা'লামূনা কাইফা নাযীর। শেষ শব্দটা শেষ হয়েছে যের দিয়ে। কুরতুবী ও বাগাভী দুজনেই এর অর্থ করেন ইনযারী, আমার সতর্কবাণী। ইবন কাসীর বলেন: আমার সতর্কবাণী কেমন, আর যে তা থেকে পিছিয়ে থাকে ও তাকে মিথ্যা বলে, তার পরিণতি কী। তাবারী বলেন: হে অস্বীকারকারীরা, তোমরা জানবে তোমাদের প্রতি আমার সতর্কবাণীর পরিণাম কেমন হয়। কারণ তোমরা তা মিথ্যা বলেছ আর আমার রাসূলের মুখের উপর ফিরিয়ে দিয়েছ। মাআরিফুল কুরআন ক্রিয়াটির অর্থ করে: তোমরা শিগগিরই জানতে পারবে।"
+          },
+          {
+            "en": "Al-Qurtubi records a second reading under it is said: nadhir in the sense of the warner, meaning Muhammad ﷺ, so that you will know his truthfulness and the outcome of your denying him. As-Sa'di widens the word to every warning sent: how what the messengers and the books warned you of comes upon you. On either reading the knowing is certain. The open question is only what kind of knowing it will be, and the commentators answer that in the same breath.",
+            "bn": "কুরতুবী 'বলা হয়' দিয়ে দ্বিতীয় একটি পাঠ উল্লেখ করেন: নাযীর মানে সতর্ককারী, অর্থাৎ মুহাম্মাদ ﷺ। তখন অর্থ দাঁড়ায়: তোমরা জানবে তিনি কত সত্যবাদী, আর তাঁকে মিথ্যা বলার পরিণাম কী। সা'দী শব্দটাকে ছড়িয়ে দেন পাঠানো সব সতর্কবাণীর উপর: রাসূলগণ আর কিতাবসমূহ তোমাদের যা থেকে সতর্ক করেছে, তা কীভাবে তোমাদের উপর এসে পড়ে। যে পাঠই ধরা হোক, জানাটা নিশ্চিত। প্রশ্ন শুধু এটুকু: সেই জানা কোন ধরনের জানা হবে। তাফসীরকারেরা একই নিঃশ্বাসে তার জবাবও দেন।"
+          },
+          {
+            "en": "Al-Baghawi says when: in the hereafter and at death, when you see the punishment with your own eyes. The Muyassar adds the cost: you will know how My warning to you was when you see the punishment, and knowledge will not benefit you then. Ma'arif al-Qur'an draws the conclusion for the present: they will realise how true the warning was, but by then it will be too late, and now, while they are safe and sound, is the time to give it thought.",
+            "bn": "কখন জানবে, বাগাভী তা বলেন: আখিরাতে আর মৃত্যুর সময়, যখন শাস্তি নিজের চোখে দেখবে। মুয়াসসার যোগ করে এর মূল্য: শাস্তি চোখে দেখার পর তোমরা জানবে তোমাদের প্রতি আমার সতর্কবাণী কেমন ছিল, কিন্তু সে সময় এ জানা তোমাদের কোনো কাজে আসবে না। মাআরিফুল কুরআন এ থেকে বর্তমানের জন্য সিদ্ধান্ত টানে: তারা বুঝবে সতর্কবাণী কত সত্য ছিল, কিন্তু তখন বড্ড দেরি হয়ে যাবে। এখন, যখন তারা নিরাপদ ও সুস্থ, ভেবে দেখার সময় এখনই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Respite Mistaken for Safety",
+          "bn": "অবকাশকে নিরাপত্তা ভাবা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens the passage at 67:16 by reading the threat as mercy. This too, he writes, is from His gentleness and mercy with His creatures: He is able to punish them, because some of them disbelieve in Him and worship others with Him, and yet He is forbearing, He pardons, He defers and does not hasten. He cites 35:45: if Allah were to take people to task for what they earned, He would not leave a creature on its surface, but He defers them to a named term.",
+            "bn": "ইবন কাসীর ৬৭:১৬-এ এই অংশ শুরু করেন হুমকিটাকে রহমত হিসেবে পড়ে। তিনি লেখেন, এটাও সৃষ্টির প্রতি তাঁর কোমলতা ও রহমতের অংশ। তিনি তাদের শাস্তি দিতে সক্ষম, কারণ তাদের কেউ কেউ তাঁকে অস্বীকার করে আর তাঁর সঙ্গে অন্যের ইবাদত করে। তবু তিনি সহনশীল, মাফ করে দেন, সময় দেন, তাড়াহুড়ো করেন না। তিনি দলীল আনেন ৩৫:৪৫ থেকে: আল্লাহ যদি মানুষকে তাদের কামাইয়ের জন্য পাকড়াও করতেন, তবে ভূপৃষ্ঠে কোনো প্রাণীকেই ছাড়তেন না। কিন্তু তিনি তাদের একটা নির্ধারিত মেয়াদ পর্যন্ত অবকাশ দেন।"
+          },
+          {
+            "en": "As-Sa'di draws the other side of the same fact. Do not think, he writes, that your feeling secure from Allah's punishing you from the earth and from the sky will benefit you; you will meet the outcome of your affair whether time is long for you or short. Those before you denied as you deny, and Allah destroyed them, hastening a worldly punishment before the punishment of the hereafter, so beware lest what struck them strike you. The delay is real. Taking it for safety is the mistake.",
+            "bn": "সা'দী একই সত্যের অন্য দিকটা দেখান। তিনি লেখেন, জমিন আর আকাশ থেকে আল্লাহর শাস্তি আসবে না, এই নিশ্চিন্ত ভাব তোমাদের কোনো কাজে আসবে, এমনটা ভেবো না। সময় লম্বা হোক বা ছোট, নিজেদের কাজের পরিণতি তোমরা পাবেই। তোমাদের আগের লোকেরাও অস্বীকার করেছিল, যেমন তোমরা করছ। আল্লাহ তাদের ধ্বংস করেছেন, আখিরাতের শাস্তির আগে দুনিয়ার শাস্তি তাড়াতাড়ি দিয়েছেন। তাই সাবধান হও, যা তাদের উপর এসেছিল, তা যেন তোমাদের উপরও না আসে। অবকাশটা সত্য। ভুলটা হলো একে নিরাপত্তা ভেবে বসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning, Not a Weather Report",
+          "bn": "সতর্কবাণী, আবহাওয়ার খবর নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a question put to people who denied the warning, with destroyed nations of the past as its witnesses. It licenses nothing against any living person or community. It does not say that a storm, a hailstorm, an earthquake or any disaster that strikes a people today is this hasib, or a verdict on their guilt. No one has been given that knowledge, and the verse claims none. Its question is addressed to the listener's own sense of being safe.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: সতর্কবাণী অস্বীকারকারীদের প্রতি একটি প্রশ্ন, যার সাক্ষী অতীতের ধ্বংস হওয়া জাতিগুলো। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজ কোনো জনপদে ঝড়, শিলাবৃষ্টি, ভূমিকম্প বা অন্য কোনো দুর্যোগ এলে সেটাই এই হাসিব, কিংবা তা তাদের অপরাধের রায়, এমন কথা আয়াত বলে না। এ জ্ঞান কাউকে দেওয়া হয়নি, আয়াতও এমন দাবি করে না। এর প্রশ্নটা শ্রোতার নিজের নিশ্চিন্ত মনের দিকে।"
+          },
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it or gives an occasion for its revelation, so this article cites neither. What is left is the question itself, put in the second person to whoever hears it. The surah has already named the alternative to false security, five verses back in 67:12: those who fear their Lord unseen will have forgiveness and a great reward. Two verses on, 67:19 turns the listener's eyes upward again, this time to birds held aloft by ar-Rahman.",
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, নাযিলের কোনো প্রেক্ষাপটও বলেনি। তাই এ লেখাতেও দুটির কোনোটি নেই। বাকি থাকে প্রশ্নটা নিজেই, যে শোনে তাকেই সরাসরি সম্বোধন করে করা। মিথ্যা নিশ্চিন্ততার বিকল্প সূরাটি পাঁচ আয়াত আগেই বলে দিয়েছে, ৬৭:১২ আয়াতে: যারা না দেখেই তাদের রবকে ভয় করে, তাদের জন্য আছে মাগফিরাত আর মহা পুরস্কার। দুই আয়াত পরে ৬৭:১৯ শ্রোতার চোখ আবার উপরে তোলে, এবার আকাশে পাখিদের দিকে, যাদের ধরে রাখেন আর-রহমান।"
+          }
+        ]
+      }
+    ]
+  },
   "67:19": {
     "sections": [
       {
