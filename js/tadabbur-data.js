@@ -25949,6 +25949,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A warning you pass every day can stop being seen. Let the familiar reminders of the end reach your reasoning, and draw their lesson for yourself.",
     "lessonBn": "যে সতর্কবাণীর পাশ দিয়ে রোজ যান, একসময় তা আর চোখে পড়ে না। শেষ পরিণতির চেনা স্মরণ-চিহ্নগুলোকে বিবেক পর্যন্ত পৌঁছাতে দিন, আর শিক্ষাটা নিজের জন্য নিন।"
+  },
+  "37:144": {
+    "reflectionEn": "The whole verse hangs on a single \"had he not\". Had Yunus (AS) not been among those who glorify Allah, the belly of the fish would have held him until the Day the dead are raised. Not for a night or a season, but for all the time this world has left, a grave swimming through the sea. What opened that darkness was something he had been doing all along. Some read it as prayer kept up in the easy days, long before the storm; others as the glorifying he raised from inside the dark. Either way, the rescue did not begin when the trouble did. So I ask myself: when my own dark comes, what will Allah find that I have already been saying to Him?",
+    "reflectionBn": "পুরো আয়াতটা ঝুলে আছে একটা \"যদি না\"-র উপর। ইউনুস (আঃ) যদি আল্লাহর তাসবীহকারীদের একজন না হতেন, তবে মৃতদের ওঠানোর দিন পর্যন্ত মাছের পেটই তাঁকে আটকে রাখত। এক রাত বা এক মৌসুম নয়, দুনিয়ার বাকি গোটা সময়টা। সাগরে ভেসে বেড়ানো এক কবর। সেই অন্ধকার যা খুলে দিল, তা তিনি আগে থেকেই করে আসছিলেন। কেউ বুঝেছেন সেটা সুখের দিনগুলোর নামাজ, ঝড় আসার অনেক আগের। কেউ বুঝেছেন অন্ধকারের ভেতর থেকে তোলা তাঁর তাসবীহ। যেটাই হোক, বিপদ যখন শুরু হলো, উদ্ধার তখন শুরু হয়নি। তাই নিজেকে জিজ্ঞেস করি: আমার অন্ধকার যেদিন আসবে, আল্লাহ সেদিন আমার মুখে কী পাবেন, যা আমি আগে থেকেই তাঁকে বলে আসছি?",
+    "pointsEn": [
+      "If hardship came tomorrow, which remembrance of Allah is already a habit in my ordinary days?",
+      "Do I turn to Allah mostly when I am cornered, and what would change if I turned to Him while things are easy?",
+      "Which small, steady act of worship could I begin this week and keep, so that it is already there when I need it?",
+      "When I am in a tight place, do my first words declare Allah free of every flaw, or do they blame everyone except me?",
+      "Do I treat the trial I am inside as the end of my story, or as a place where glorifying Allah can still change everything?"
+    ],
+    "pointsBn": [
+      "কাল যদি বিপদ আসে, আল্লাহর কোন জিকিরটা আমার সাধারণ দিনগুলোতে ইতিমধ্যে অভ্যাস হয়ে আছে?",
+      "আমি কি শুধু কোণঠাসা হলেই আল্লাহর দিকে ফিরি? সুখের সময়ে ফিরলে আমার ভেতরে কী বদলাত?",
+      "ছোট কোন নিয়মিত আমল এ সপ্তাহে শুরু করে ধরে রাখতে পারি, যাতে দরকারের দিনে তা আগে থেকেই থাকে?",
+      "সংকটে পড়লে আমার প্রথম কথাগুলো কি আল্লাহকে সব দোষ থেকে পবিত্র ঘোষণা করে, নাকি নিজেকে ছাড়া সবাইকে দোষ দেয়?",
+      "যে পরীক্ষার ভেতরে আছি, তাকে কি আমি গল্পের শেষ ধরে নিই, নাকি এমন জায়গা ভাবি যেখানে তাসবীহ এখনো সব বদলে দিতে পারে?"
+    ],
+    "lessonEn": "Remember Allah in your easy days. The glorifying you keep up now is what reaches you in the darkest place you may one day find yourself.",
+    "lessonBn": "সুখের দিনে আল্লাহকে স্মরণ করুন। আজ যে তাসবীহ ধরে রাখছেন, একদিন সবচেয়ে অন্ধকার জায়গায় পড়লে সেটাই আপনার কাছে পৌঁছাবে।"
   }
 };
 

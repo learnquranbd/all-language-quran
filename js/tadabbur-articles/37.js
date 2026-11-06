@@ -5535,6 +5535,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:144": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where 'Had He Not' Lands",
+          "bn": "\"যদি না\"-র জবাব"
+        },
+        "p": [
+          {
+            "en": "Lalabitha fi batnihi ila yawmi yub'athun: he would surely have stayed in its belly until the Day they are raised. The verse does not stand alone. It completes the sentence that 37:143 opens, fa-lawla annahu kana mina-l-musabbihin, had he not been among those who glorify. The la- at the head of lalabitha answers that lawla, and the whole verse describes a scene that never took place: a door the Qur'an shows us only to tell us that it stayed shut.",
+            "bn": "লালাবিসা ফী বাতনিহী ইলা ইয়াওমি ইউব'আসূন: তবে তিনি অবশ্যই তার পেটে থেকে যেতেন সেই দিন পর্যন্ত, যেদিন তাদের ওঠানো হবে। আয়াতটি একা দাঁড়িয়ে নেই। ৩৭:১৪৩ যে বাক্য শুরু করেছে, এ আয়াত তা শেষ করে: ফালাওলা আন্নাহু কানা মিনাল মুসাব্বিহীন, তিনি যদি তাসবীহকারীদের একজন না হতেন। লালাবিসা-র শুরুর লাম ওই লাওলা-র জবাব। ফলে পুরো আয়াতটা এমন এক দৃশ্য, যা কখনো ঘটেনি। কুরআন একটা দরজা দেখায় শুধু এটুকু জানাতে যে দরজাটা বন্ধই থেকেছে।"
+          },
+          {
+            "en": "At-Tabari glosses it plainly: he would have remained in the belly of the fish until the Day of Resurrection, the day on which Allah raises His creation, held there confined. Then he turns the sentence round: but he was among those who remembered Allah before the trial, so Allah remembered him in the state of the trial, rescued him and delivered him. Note the plural, they are raised. In a verse about one man inside one fish, the Qur'an names the Day that waits for all creation.",
+            "bn": "তাবারী সোজা ভাষায় ব্যাখ্যা দেন: তিনি কিয়ামতের দিন পর্যন্ত মাছের পেটে আটকা পড়ে থাকতেন, যেদিন আল্লাহ তাঁর সৃষ্টিকে আবার ওঠাবেন। তারপর তাবারী কথাটা ঘুরিয়ে দেন: কিন্তু বিপদের আগে থেকেই তিনি আল্লাহকে স্মরণ করতেন, তাই বিপদের মধ্যে আল্লাহ তাঁকে স্মরণ করলেন, উদ্ধার করলেন, মুক্তি দিলেন। খেয়াল করুন বহুবচনটা: তাদের ওঠানো হবে। একটা মাছের ভেতরে একজন মানুষের কথা বলতে গিয়ে কুরআন সেই দিনের নাম নেয়, যা গোটা সৃষ্টির জন্য অপেক্ষা করছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Grave That Would Swim",
+          "bn": "সাগরে ভাসমান এক কবর"
+        },
+        "p": [
+          {
+            "en": "Several commentators give the stay its true name. Qatada, in a report at-Tabari carries, says the belly of the fish would have become a grave for him until the Day of Resurrection. Al-Baghawi uses the same image, that the fish's belly would have become his grave, and al-Muyassar says it would have been his grave until the Day of Resurrection. As-Sa'di says only that it would have been his burial place. Al-Qurtubi opens with two words, as a penalty for him, and then gives the same image of the belly as his grave.",
+            "bn": "কয়েকজন মুফাসসির এই থেকে যাওয়ার আসল নামটা বলে দেন। তাবারীর বর্ণিত এক রিওয়ায়েতে কাতাদা বলেন, মাছের পেট কিয়ামত পর্যন্ত তাঁর কবর হয়ে যেত। বাগাভীও একই ছবি আঁকেন: মাছের পেটই হতো তাঁর কবর। মুয়াসসার বলে, কিয়ামতের দিন পর্যন্ত সেটাই হতো তাঁর কবর। সা'দী শুধু বলেন, সেটা হতো তাঁর সমাধি। কুরতুবী শুরু করেন দুটি শব্দে, তাঁর জন্য শাস্তিস্বরূপ। তারপর তিনিও একই কথা বলেন: মাছের পেট হতো তাঁর কবর।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an closes off a literal misreading. It is wrong, it says, to take the verse to mean that the fish itself would have gone on living right up to the Last Day. The sense is that the very belly of that fish would have been made his grave. Until the Day they are raised measures how long he would have lain where he was buried, not a lifespan promised to a sea creature. And even this worst outcome ends at that Day: no grave, however strange, is the last word.",
+            "bn": "মাআরিফুল কুরআন একটা আক্ষরিক ভুল বোঝার পথ বন্ধ করে দেয়। তার মতে, আয়াত থেকে এমন ধারণা করা ভুল যে মাছটা নিজে কিয়ামত পর্যন্ত বেঁচে থাকত। আসল অর্থ হলো, ওই মাছের পেটকেই তাঁর কবর বানিয়ে দেওয়া হতো। \"যেদিন তাদের ওঠানো হবে, সেদিন পর্যন্ত\" কথাটা মাপছে কবরে তিনি কতকাল শুয়ে থাকতেন, কোনো সামুদ্রিক প্রাণীর আয়ু নয়। আর এই সবচেয়ে খারাপ পরিণতিও শেষ হয় সেই দিনে। কবর যত অদ্ভুতই হোক, শেষ কথা সে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prayer Kept in Easy Days",
+          "bn": "সুখের দিনের নামাজ"
+        },
+        "p": [
+          {
+            "en": "What, then, was the glorifying that saved him? At-Tabari says the people of interpretation differed over when it took place, and the first side holds that it came before the trial. Qatada, in two chains at-Tabari gives, says he prayed a great deal in times of ease, and Allah saved him by that; in the second chain, that he used to pray long in ease. Abu al-Aliya says he had righteous deeds in what had gone before. This is the reading at-Tabari himself takes in his gloss.",
+            "bn": "তাহলে যে তাসবীহ তাঁকে বাঁচাল, সেটা কী ছিল? তাবারী জানান, এটা কখন হয়েছিল, তা নিয়ে তাফসীরকারদের মতভেদ আছে। প্রথম পক্ষের মতে, তা ছিল বিপদের আগে। তাবারী দুটি সনদে কাতাদার কথা আনেন। একটিতে আছে, সুখের দিনে তিনি অনেক নামাজ পড়তেন, আর আল্লাহ তা দিয়েই তাঁকে বাঁচালেন। অন্যটিতে আছে, সুখের সময় তিনি লম্বা নামাজ পড়তেন। আবুল আলিয়া বলেন, অতীতে তাঁর নেক আমল ছিল। তাবারী নিজেও তাঁর ব্যাখ্যায় এ মতটাই নেন।"
+          },
+          {
+            "en": "Ibn Kathir gives the same view: had it not been for the deeds that came before, in ease. He names ad-Dahhak ibn Qays, Abu al-Aliya, Wahb ibn Munabbih, Qatada and more than one other, and says Ibn Jarir chose it. A second question runs alongside: what kind of glorifying. At-Tabari reports from Ibn Abbas, Sa'id ibn Jubayr and as-Suddi that al-musabbihin here means those who pray, and Ibn Kathir adds names to that gloss, among them al-Hasan and Ata' ibn as-Sa'ib. Some, he notes, said outright that Yunus (AS) had been among those who pray before that.",
+            "bn": "ইবন কাসীরও একই মত আনেন: সুখের দিনে আগে থেকে করা আমল না থাকলে। তিনি নাম নেন দাহহাক ইবন কায়স, আবুল আলিয়া, ওয়াহব ইবন মুনাব্বিহ, কাতাদা এবং আরও অনেকের। বলেন, ইবন জারীর তাবারী এ মতই বেছে নিয়েছেন। এর পাশাপাশি আরেকটা প্রশ্নও চলে: তাসবীহটা কোন ধরনের? তাবারী ইবন আব্বাস, সাঈদ ইবন জুবাইর ও সুদ্দী থেকে আনেন যে এখানে মুসাব্বিহীন মানে নামাজি। ইবন কাসীর এ ব্যাখ্যায় আরও নাম যোগ করেন, তাঁদের মধ্যে হাসান ও আতা ইবনুস সাইব। তিনি জানান, কেউ কেউ খোলাখুলি বলেছেন যে ইউনুস (আঃ) এর আগে থেকেই নামাজিদের একজন ছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Hasan Swears, Qatada Refuses",
+          "bn": "হাসানের কসম, কাতাদার আপত্তি"
+        },
+        "p": [
+          {
+            "en": "The other side places the glorifying inside the fish, and at-Tabari records it through a pointed exchange. Imran al-Qattan heard al-Hasan say of this verse: by Allah, it was nothing but a prayer he began in the belly of the fish. Imran took that to Qatada, who rejected it and said: by Allah, he used to pray a great deal in ease. Two early teachers, each swearing by Allah, read the same words differently. At-Tabari adds a third shade: some said it was glorifying, tasbih, and not prayer at all.",
+            "bn": "অন্য পক্ষ তাসবীহটাকে রাখে মাছের পেটের ভেতরে। তাবারী এটা আনেন একটা ধারালো কথোপকথনের মধ্য দিয়ে। ইমরান আল-কাত্তান শুনলেন, হাসান এ আয়াত সম্পর্কে বলছেন: আল্লাহর কসম, তা ছিল কেবল এক নামাজ, যা তিনি মাছের পেটে শুরু করেছিলেন। ইমরান কথাটা কাতাদার কাছে নিয়ে গেলেন। কাতাদা তা মানলেন না, বললেন: আল্লাহর কসম, সুখের দিনে তিনি অনেক নামাজ পড়তেন। প্রথম যুগের দুই শিক্ষক, দুজনেই আল্লাহর কসম খেয়ে একই শব্দ দুইভাবে বুঝলেন। তাবারী আরেকটা মতও যোগ করেন: কেউ বলেছেন, তা ছিল তাসবীহ, নামাজ মোটেও নয়।"
+          },
+          {
+            "en": "A further reading names the very words. Ibn Kathir reports from Sa'id ibn Jubayr and others that the glorifying meant is his call in 21:87 and 21:88: there is no god but You, glory be to You, I have been among the wrongdoers; so We answered him. At-Tabari gives Sa'id's account of the moment: he said those words, and when he had said them the fish cast him out. Sa'id's name thus stands on two lines of the record, since at-Tabari also gives him for those who pray. The supplication has its own article at 21:87.",
+            "bn": "আরেকটা ব্যাখ্যা সরাসরি শব্দগুলোর নাম নেয়। ইবন কাসীর সাঈদ ইবন জুবাইর ও অন্যদের থেকে আনেন যে এখানে তাসবীহ মানে ২১:৮৭ ও ২১:৮৮ আয়াতের সেই ডাক: আপনি ছাড়া কোনো ইলাহ নেই, আপনি পবিত্র, আমি জালিমদের একজন ছিলাম। তারপর আমি তাঁর ডাকে সাড়া দিলাম। মুহূর্তটার বিবরণ তাবারী আনেন সাঈদের মুখে: তিনি কথাগুলো বললেন, আর বলা শেষ হতেই মাছ তাঁকে উগরে দিল। এভাবে সাঈদের নাম দুই জায়গায় পাওয়া যায়, কারণ নামাজিদের মতের পক্ষেও তাবারী তাঁর নাম আনেন। দোয়াটির নিজস্ব আলোচনা আছে ২১:৮৭ আয়াতে।"
+          },
+          {
+            "en": "Some commentators hold the two together. Al-Muyassar names both in a single sentence: but for his abundant worship and righteous deeds before he fell into the belly of the fish, and his glorifying while in it with the words of 21:87, he would have stayed there, and it would have become his grave. As-Sa'di likewise says that Allah saved him because of his glorifying and his worship of Allah. The question of timing stays where the early teachers left it: a difference, with names on each side.",
+            "bn": "কোনো কোনো মুফাসসির দুটোকে একসঙ্গে ধরেন। মুয়াসসার এক বাক্যেই দুটোর নাম নেয়: মাছের পেটে পড়ার আগের তাঁর প্রচুর ইবাদত ও নেক আমল, আর পেটের ভেতরে ২১:৮৭ আয়াতের কথাগুলো দিয়ে তাঁর তাসবীহ। এ দুটো না থাকলে তিনি সেখানেই থেকে যেতেন, আর সেটাই হতো তাঁর কবর। সা'দীও বলেন, তাঁর তাসবীহ আর আল্লাহর ইবাদতের কারণেই আল্লাহ তাঁকে বাঁচিয়েছেন। সময়ের প্রশ্নটা থাকে সেখানেই, যেখানে প্রথম যুগের শিক্ষকেরা রেখে গেছেন: একটা মতভেদ, দুই পক্ষেই নাম আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sermon from the Minbar",
+          "bn": "মিম্বার থেকে এক খুতবা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari preserves a sermon. Maymun ibn Mihran heard ad-Dahhak ibn Qays say from his minbar: remember Allah in ease and He will remember you in hardship. Yunus was a servant of Allah who remembered Him, so when hardship struck him he called on Allah, and Allah said: had he not been of those who glorify, he would have stayed in its belly until the Day they are raised. So Allah remembered him for what had come from him. The ease came first; the hardship found something already there.",
+            "bn": "তাবারী একটা খুতবা সংরক্ষণ করেছেন। মায়মুন ইবন মিহরান শুনেছেন, দাহহাক ইবন কায়স মিম্বারে দাঁড়িয়ে বলছেন: সুখের দিনে আল্লাহকে স্মরণ করো, কষ্টের দিনে তিনি তোমাদের স্মরণ করবেন। ইউনুস ছিলেন আল্লাহর এক জিকিরকারী বান্দা। কষ্ট যখন এল, তিনি আল্লাহকে ডাকলেন, আর আল্লাহ বললেন: তিনি যদি তাসবীহকারীদের একজন না হতেন, তবে যেদিন তাদের ওঠানো হবে সেদিন পর্যন্ত তার পেটে থেকে যেতেন। তাঁর আগের আমলের কারণেই আল্লাহ তাঁকে স্মরণ করলেন। সুখের দিন আগে এসেছিল। কষ্টের দিন এসে দেখল, কিছু একটা আগে থেকেই জমা আছে।"
+          },
+          {
+            "en": "Then ad-Dahhak set a second figure beside him. Pharaoh was a tyrant and a transgressor, and when drowning overtook him he said, in the words of 10:90, I believe that there is no god but the One in whom the Children of Israel believe, and I am of those who submit. The answer is the next verse, 10:91: now, when you disobeyed before and were among the corrupters? Ad-Dahhak drew it into one line and repeated it: so remember Allah in ease, and He will remember you in hardship.",
+            "bn": "এরপর দাহহাক তাঁর পাশে আরেকজনকে দাঁড় করালেন। ফেরাউন ছিল অত্যাচারী ও সীমালঙ্ঘনকারী। ডুবে যাওয়া যখন তাকে ধরে ফেলল, সে বলল, ১০:৯০ আয়াতের ভাষায়: আমি ঈমান আনলাম যে বনী ইসরাঈল যাঁর উপর ঈমান এনেছে, তিনি ছাড়া কোনো ইলাহ নেই, আর আমি মুসলিমদের একজন। জবাব আসে পরের আয়াতে, ১০:৯১: এখন? অথচ আগে তুমি নাফরমানি করেছ, আর ছিলে ফাসাদকারীদের দলে। দাহহাক পুরো কথাটা এক লাইনে বেঁধে আবার বললেন: তাই সুখের দিনে আল্লাহকে স্মরণ করো, কষ্টের দিনে তিনি তোমাদের স্মরণ করবেন।"
+          },
+          {
+            "en": "The sermon sets one prophet beside one tyrant, each in water, each calling out. It describes what the Qur'an describes about Pharaoh, and it licenses nothing against any living person or community: no reader may point at another and declare his late calling worthless. Its lesson turns inward, to the reader's own easy days. Qatada, in a report at-Tabari also carries, quoted an old saying of wisdom to the same end: righteous deeds lift their owner when he stumbles, and when he is thrown down he finds something to lean on.",
+            "bn": "খুতবাটা একজন নবী আর একজন অত্যাচারীকে পাশাপাশি রাখে। দুজনেই পানিতে, দুজনেই ডাকছে। ফেরাউন সম্পর্কে কুরআন যা বলেছে, খুতবা ঠিক তাই বলে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ থেকে কোনো অনুমতি মেলে না। কোনো পাঠক অন্যের দিকে আঙুল তুলে বলতে পারে না যে তার দেরিতে ডাকা বৃথা। শিক্ষাটা ফেরে ভেতরের দিকে, পাঠকের নিজের সুখের দিনগুলোর দিকে। তাবারীর আনা এক রিওয়ায়েতে কাতাদা একই কথার সমর্থনে পুরোনো এক প্রজ্ঞার বাণী শোনান: নেক আমল তার মালিককে হোঁচট খেলে তুলে ধরে, আর সে আছাড় খেলে হেলান দেওয়ার কিছু পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Faint Voice, Well Known",
+          "bn": "দুর্বল, তবু চেনা কণ্ঠ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and Ibn Kathir both carry a longer report, from Yazid ar-Raqashi, from Anas ibn Malik, with the narrator's own hedge: I know only that Anas raised it to the Prophet ﷺ. In it, when Yunus (AS) called with those words in the belly of the fish, the call came up to the Throne. The angels said: Lord, a weak voice, known, from a strange land. Allah said: My servant Yunus. They said: Your servant Yunus, from whom accepted deeds and answered prayers never stopped rising?",
+            "bn": "তাবারী ও ইবন কাসীর দুজনেই একটা দীর্ঘ রিওয়ায়েত আনেন, ইয়াযীদ আর-রাকাশী থেকে, আনাস ইবন মালিক (রাঃ) থেকে। সঙ্গে আছে বর্ণনাকারীর নিজের সতর্কতা: আমি শুধু এটুকু জানি যে আনাস এটাকে নবী ﷺ পর্যন্ত পৌঁছে দিতেন। বর্ণনায় আছে, ইউনুস (আঃ) মাছের পেটে ওই কথাগুলো দিয়ে ডাকলেন, আর সেই ডাক আরশ পর্যন্ত পৌঁছাল। ফেরেশতারা বললেন: হে রব, এক দুর্বল কণ্ঠ, চেনা, অচেনা এক দেশ থেকে আসছে। আল্লাহ বললেন: আমার বান্দা ইউনুস। তাঁরা বললেন: আপনার বান্দা ইউনুস, যার কবুল হওয়া আমল আর মঞ্জুর হওয়া দোয়া কখনো ওঠা থামেনি?"
+          },
+          {
+            "en": "They asked: Lord, will You not have mercy on what he used to do in ease, and save him in the trial? He said: yes, and commanded the fish, and it cast him onto the open shore. Ibn Kathir offers this as pointing to the first view, and adds a condition in his own words: if the report is sound. That condition stays with it here. Al-Qurtubi relays a similar report through at-Tabari from Abu Hurayra, where the angels recall the righteous servant whose good deeds rose every day and night, and intercede.",
+            "bn": "তাঁরা আরও বললেন: হে রব, সুখের দিনে তিনি যা করতেন, তার খাতিরে কি আপনি দয়া করবেন না, বিপদ থেকে তাঁকে বাঁচাবেন না? আল্লাহ বললেন: অবশ্যই। তারপর মাছকে হুকুম দিলেন, আর মাছ তাঁকে খোলা তীরে ফেলে দিল। ইবন কাসীর এ বর্ণনা আনেন প্রথম মতের পক্ষের ইঙ্গিত হিসেবে, তবে নিজের ভাষায় একটা শর্ত জুড়ে দেন: যদি খবরটা সহীহ হয়। এখানেও শর্তটা তার সঙ্গেই থাকল। কুরতুবী তাবারীর সূত্রে আবু হুরায়রা (রাঃ) থেকে প্রায় একই রকম এক বর্ণনা আনেন। সেখানে ফেরেশতারা সেই নেক বান্দার কথা মনে করেন, যার নেক আমল প্রতি দিন-রাত উপরে উঠত, তারপর তাঁর জন্য সুপারিশ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Narrations, Weighed Apart",
+          "bn": "দুই বর্ণনা, আলাদা পাল্লায়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir also gives a line from Ibn Abbas without naming a collection: make yourself known to Allah in ease, and He will know you in hardship. The line is not in at-Tirmidhi's wording of the well-known counsel Ibn Abbas heard from the Prophet ﷺ (Tirmidhi 2516), which at-Tirmidhi grades hasan sahih. So the grading cannot be carried over to it. The line stays where Ibn Kathir set it, a general narration not attached to this verse, and its sense is the one ad-Dahhak preached from his minbar.",
+            "bn": "ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে একটা বাক্যও আনেন, কোনো হাদীসগ্রন্থের নাম না নিয়ে: সুখের দিনে আল্লাহর সঙ্গে পরিচয় গড়ে তোলো, কষ্টের দিনে তিনি তোমাকে চিনবেন। ইবন আব্বাস নবী ﷺ-এর কাছ থেকে যে প্রসিদ্ধ উপদেশ শুনেছিলেন, তিরমিযী তা বর্ণনা করেছেন (তিরমিযী ২৫১৬) এবং হাসান সহীহ বলেছেন। কিন্তু তিরমিযীর সেই ভাষ্যে এ বাক্যটা নেই। তাই সেই মান এই বাক্যের গায়ে লাগানো যায় না। বাক্যটা থাকে ইবন কাসীর যেখানে রেখেছেন সেখানেই: একটা সাধারণ বর্ণনা, এ আয়াতের সঙ্গে জোড়া নয়। এর মর্ম দাহহাকের মিম্বারের খুতবার সঙ্গেই মেলে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an attaches here a hadith from Sa'd on the supplication; the wording given is at-Tirmidhi's. At-Tirmidhi (3505) relates from Sa'd that the Messenger of Allah ﷺ said: the supplication of Dhun-Nun, when he supplicated while in the belly of the whale, was: there is none worthy of worship except You, glory to You, indeed I have been of the transgressors. So indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him. In the text fetched, at-Tirmidhi gives it no grading; he notes only a variation in its chain.",
+            "bn": "মাআরিফুল কুরআন এখানে দোয়াটির বিষয়ে সা'দ (রাঃ)-এর একটি হাদীস জুড়ে দেয়। এখানে দেওয়া ভাষ্যটি তিরমিযীর। তিরমিযী (৩৫০৫) সা'দ (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: যুন-নূন মাছের পেটে থাকা অবস্থায় যে দোয়া করেছিলেন, তা হলো: আপনি ছাড়া কোনো ইলাহ নেই, আপনি পবিত্র, নিশ্চয়ই আমি জালিমদের একজন ছিলাম। কোনো মুসলিম যে কোনো বিষয়ে এ দোয়া করলে আল্লাহ অবশ্যই তার ডাকে সাড়া দেন। যে পাঠ আনা হয়েছে, তাতে তিরমিযী এর কোনো মান উল্লেখ করেননি। তিনি শুধু সনদের একটা ভিন্নতার কথা বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Hour Against an Age",
+          "bn": "কয়েক দিন, নাকি কিয়ামত পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "How long he actually stayed, al-Qurtubi records as a matter of wide difference: forty days for as-Suddi, al-Kalbi and Muqatil ibn Sulayman; twenty for ad-Dahhak; seven for Ata'; three for Muqatil ibn Hayyan; and, in another view, a single hour. He ends with Allah knows best. Whatever the count, set it beside this verse. The stay he was spared would have run to the Day of Resurrection. Days, or perhaps an hour, against an age: that is the measure of what his glorifying turned aside.",
+            "bn": "তিনি আসলে কতদিন ছিলেন, এ নিয়ে কুরতুবী বড় মতভেদের কথা জানান। সুদ্দী, কালবী ও মুকাতিল ইবন সুলাইমানের মতে ৪০ দিন। দাহহাকের মতে ২০ দিন। আতার মতে ৭ দিন। মুকাতিল ইবন হাইয়ানের মতে ৩ দিন। আরেক মতে মাত্র এক ঘণ্টা। শেষে তিনি বলেন, আল্লাহই ভালো জানেন। সংখ্যাটা যা-ই হোক, এ আয়াতের পাশে রেখে দেখুন। যে থাকা থেকে তিনি রক্ষা পেলেন, তা চলত কিয়ামতের দিন পর্যন্ত। কয়েক দিন, হয়তো এক ঘণ্টা, আর তার বিপরীতে এক যুগ। তাঁর তাসবীহ কতটা ফিরিয়ে দিল, এ-ই তার মাপ।"
+          },
+          {
+            "en": "As-Sa'di closes his short note by widening the verse: and likewise Allah saves the believers when they fall into hardships. The words echo 21:88, and thus do We save the believers. Ma'arif al-Qur'an draws the same lesson from this passage: glorifying Allah and seeking His forgiveness have a proven effect of their own in removing distress. The verse itself names no number of repetitions and no formula. It names a servant who glorified his Lord, and the mercy that answered him.",
+            "bn": "সা'দী তাঁর ছোট্ট ব্যাখ্যা শেষ করেন আয়াতটাকে প্রশস্ত করে: আর এভাবেই আল্লাহ মুমিনদের বাঁচান, যখন তারা কঠিন বিপদে পড়ে। কথাটায় ২১:৮৮ আয়াতের প্রতিধ্বনি: আর এভাবেই আমি মুমিনদের উদ্ধার করি। মাআরিফুল কুরআনও এ অংশ থেকে একই শিক্ষা নেয়: তাসবীহ আর ইস্তিগফারের নিজস্ব প্রমাণিত প্রভাব আছে কষ্ট দূর করায়। আয়াত নিজে কোনো গোনা সংখ্যা বা বাঁধা শব্দের কথা বলে না। সে বলে এমন এক বান্দার কথা, যিনি রবের তাসবীহ করেছিলেন, আর সেই রহমতের কথা, যা তাঁর ডাকে সাড়া দিয়েছিল।"
+          },
+          {
+            "en": "So the verse leaves a quiet question for the reader. The shore, the gourd vine and the hundred thousand who believed all lie ahead in the next verses, and every one of them hangs on this conditional. Whichever reading of the glorifying one follows, before the trial or inside it, the way out began with a servant who turned to his Lord. The easy days are where that habit is built. What I say to Allah when nothing is wrong may be the very thing that reaches me when everything is.",
+            "bn": "তাই আয়াতটা পাঠকের জন্য একটা নিঃশব্দ প্রশ্ন রেখে যায়। তীর, লাউয়ের লতা, আর এক লাখ মানুষের ঈমান আনা, সবই সামনের আয়াতগুলোতে। আর তার প্রত্যেকটা ঝুলে আছে এই শর্তের উপর। তাসবীহ নিয়ে যে ব্যাখ্যাই মানুন, বিপদের আগে হোক বা ভেতরে, বেরোনোর পথ শুরু হয়েছিল এমন এক বান্দা থেকে, যিনি রবের দিকে ফিরেছিলেন। সেই অভ্যাস গড়ে ওঠে সুখের দিনগুলোতে। কোনো সমস্যা না থাকার দিনে আমি আল্লাহকে যা বলি, সব কিছু ভেঙে পড়ার দিনে হয়তো সেটাই আমার কাছে পৌঁছাবে।"
+          }
+        ]
+      }
+    ]
+  },
   "37:150": {
     "sections": [
       {
