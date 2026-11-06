@@ -26189,6 +26189,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let the Qur'an's warning of the Fire do what it was told for: turn its fear into leaving sin and doing what Allah has asked of you.",
     "lessonBn": "কুরআন জাহান্নামের যে সতর্কবাণী শুনিয়েছে, তাকে তার আসল কাজ করতে দিন: সেই ভয় যেন আপনাকে গুনাহ ছাড়তে আর আল্লাহর হুকুম পালন করতে চালিত করে।"
+  },
+  "39:3": {
+    "reflectionEn": "The verse begins by asking for attention: take note, pure religion belongs to Allah. Then it quotes people who never claimed to have forgotten Him. Their own words name Him: we worship these others only so they bring us nearer to Allah. They wanted closeness, and went looking for it through what He had not given leave for. The verse does not stop to argue. It says Allah will judge what they differ over, and that He does not guide one who lies about Him and keeps refusing His gifts. The question it leaves with me is quieter. When I do something good, who else am I hoping will notice? And how much of what I call devotion is still mixed with wanting to be seen?",
+    "reflectionBn": "আয়াতের শুরুতেই মনোযোগ চাওয়া হয়েছে: জেনে রাখো, খাঁটি দ্বীন কেবল আল্লাহরই। তারপর আয়াত এমন লোকদের কথা তুলে আনে, যারা আল্লাহকে ভুলে গেছে বলে দাবি করেনি। তাদের নিজেদের কথাতেই তাঁর নাম আছে: আমরা এদের ইবাদত করি কেবল এজন্য যে এরা আমাদের আল্লাহর কাছাকাছি পৌঁছে দেবে। তারা নৈকট্য চেয়েছিল, কিন্তু খুঁজতে গেছে এমন পথে, যার অনুমতি তিনি দেননি। আয়াত এখানে তর্কে যায় না। শুধু জানায়, তাদের মতভেদের ফয়সালা আল্লাহ করবেন, আর যে তাঁর নামে মিথ্যা বলে ও বারবার তাঁর নিয়ামত অস্বীকার করে, তাকে তিনি পথ দেখান না। আমার জন্য যে প্রশ্নটা রেখে যায়, তা আরও নিচু গলার। কোনো ভালো কাজ করার সময় আর কার চোখে পড়ার আশা করি? আর যাকে আমি ইবাদত বলি, তার কতটুকু এখনো লোক দেখানোর ইচ্ছার সঙ্গে মিশে আছে?",
+    "pointsEn": [
+      "When I did my last good deed, whose approval besides His was I also hoping for?",
+      "Is there any act of worship I keep up mainly because people would notice if I stopped?",
+      "Do I ever turn to Allah as though He were far off and needed reminding of me, when He knows my need before I speak?",
+      "When I disagree with others about faith, do I leave the final judgment to Allah, as this verse does, or do I start handing it out myself?",
+      "Which of His gifts have I used this week without once thanking the One who gave it?"
+    ],
+    "pointsBn": [
+      "শেষ যে ভালো কাজটা করেছি, তাতে আল্লাহ ছাড়া আর কার প্রশংসার আশাও মনে ছিল?",
+      "এমন কোনো ইবাদত কি আছে, যা আমি টিকিয়ে রেখেছি মূলত এ কারণে যে ছেড়ে দিলে লোকে টের পাবে?",
+      "আমি কি কখনো আল্লাহর দিকে এমনভাবে ফিরি, যেন তিনি অনেক দূরে, আমার কথা তাঁকে মনে করিয়ে দিতে হবে? অথচ মুখ খোলার আগেই তিনি আমার প্রয়োজন জানেন।",
+      "ঈমানের প্রশ্নে অন্যদের সঙ্গে মতভেদ হলে আমি কি শেষ ফয়সালা আল্লাহর হাতে ছেড়ে দিই, যেমন এ আয়াত ছেড়ে দিয়েছে? নাকি নিজেই রায় দিতে শুরু করি?",
+      "এ সপ্তাহে তাঁর দেওয়া কোন কোন নিয়ামত ভোগ করেছি, অথচ দাতাকে একবারও শুকরিয়া জানাইনি?"
+    ],
+    "lessonEn": "Keep your worship for Allah alone, unmixed with any wish for others' praise, and leave to Him the judgment on what people differ over.",
+    "lessonBn": "আপনার ইবাদত কেবল আল্লাহর জন্য রাখুন, অন্যের প্রশংসা পাওয়ার ইচ্ছা তাতে মিশতে দেবেন না। আর মানুষের মতভেদের ফয়সালা তাঁর হাতেই ছেড়ে দিন।"
   }
 };
 

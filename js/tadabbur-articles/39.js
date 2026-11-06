@@ -11,6 +11,170 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "39:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "Alā After the Command",
+          "bn": "আদেশের পরে 'আলা'"
+        },
+        "p": [
+          {
+            "en": "Surah az-Zumar opens with two statements and a command. 39:1 says the Book is sent down from Allah, the Mighty, the Wise. 39:2 tells the Prophet ﷺ that it came down with the truth, so worship Allah, making religion sincerely His. 39:3 then begins with alā, a particle that calls the hearer to attend, and states as a fact what 39:2 had given as an order: to Allah belongs the pure religion. As-Sa'di calls the sentence a confirmation of the command to sincerity.",
+            "bn": "সূরা যুমার শুরু হয় দুটি ঘোষণা আর একটি আদেশ দিয়ে। ৩৯:১ বলে, এ কিতাব নাযিল হয়েছে মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর কাছ থেকে। ৩৯:২ নবী ﷺ-কে জানায়, কিতাবটি সত্যসহ নেমেছে, অতএব দ্বীনকে তাঁর জন্য খাঁটি করে আল্লাহর ইবাদত করো। এরপর ৩৯:৩ শুরু হয় 'আলা' দিয়ে। এ অব্যয় শ্রোতাকে সজাগ হতে ডাকে। ৩৯:২ যা আদেশ আকারে দিয়েছিল, এখানে তা-ই বলা হচ্ছে সত্য হিসেবে: খাঁটি দ্বীন আল্লাহরই। সা'দী এ বাক্যকে বলেন ইখলাসের আদেশের পাকাপোক্ত সমর্থন।"
+          },
+          {
+            "en": "The rest of the verse turns to those who ignored the command. It quotes them, answers them with a promise of judgment, and closes by describing the person Allah does not guide. As-Sa'di traces this order: having commanded tawhid and sincerity, Allah forbade associating others with Him and told of the blame that falls on whoever does so.",
+            "bn": "আয়াতের বাকি অংশ ফেরে তাদের দিকে, যারা আদেশটি মানেনি। তাদের কথা উদ্ধৃত করে, জবাবে ফয়সালার প্রতিশ্রুতি দেয়, আর শেষ করে এমন মানুষের বর্ণনায়, যাকে আল্লাহ পথ দেখান না। সা'দী এ ক্রমটাই দেখান। তাওহীদ ও ইখলাসের আদেশ দেওয়ার পর আল্লাহ শিরক নিষেধ করেছেন, আর যে শিরক করে তার নিন্দার কথা জানিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Religion With Nothing Mixed In",
+          "bn": "যে দ্বীনে কিছু মেশানো নেই"
+        },
+        "p": [
+          {
+            "en": "Ad-dīn here is taken by at-Tabari as worship and obedience: to Allah alone they belong, pure, with no share in them for anyone else. His reason is ownership. Everything besides Allah is His property, and the one owned owes obedience to its owner, not to one who owns nothing of it. Al-Muyassar says the same in fewer words: complete obedience, free of shirk. Al-Qurtubi defines al-khāliṣ simply as that which nothing mixes with.",
+            "bn": "তাবারী এখানে দ্বীন অর্থ নেন ইবাদত ও আনুগত্য। এ দুটো কেবল আল্লাহর, খাঁটিভাবে, তাতে আর কারও কোনো অংশ নেই। তাঁর যুক্তি মালিকানা। আল্লাহ ছাড়া যা কিছু আছে সবই তাঁর মালিকানায়। আর যে মালিকানাধীন, তার আনুগত্য পাওনা মালিকের, এমন কারও নয় যে তার কিছুরই মালিক নয়। মুয়াসসার একই কথা বলে আরও অল্পে: শিরকমুক্ত পূর্ণ আনুগত্য। কুরতুবী আল-খালিসের সংজ্ঞা দেন সাদামাটাভাবে: যাতে কিছু মেশে না।"
+          },
+          {
+            "en": "Ibn Kathir reads the phrase from the side of acceptance: Allah accepts no deed unless its doer made it sincerely for Him alone, with no partner. Qatada gave a shorter gloss, which at-Tabari reports with his chain and Ibn Kathir and al-Baghawi repeat: the pure religion is the testimony that there is no god but Allah. Al-Baghawi adds two readings, each under it is said: that none but Allah is entitled to the pure religion, and that the religion pure of shirk is Allah's.",
+            "bn": "ইবন কাসীর বাক্যটি পড়েন কবুলের দিক থেকে। যে আমল কেবল আল্লাহর জন্য, শরিক ছাড়া, খাঁটি করে করা হয়নি, আল্লাহ তা কবুল করেন না। কাতাদা আরও সংক্ষেপে অর্থ বলেছেন। তাবারী নিজের সনদে তা বর্ণনা করেন, ইবন কাসীর ও বাগাভীও তা আনেন: খাঁটি দ্বীন হলো এ সাক্ষ্য যে আল্লাহ ছাড়া কোনো ইলাহ নেই। বাগাভী 'বলা হয়' দিয়ে আরও দুটি অর্থ যোগ করেন। একটি: খাঁটি দ্বীন পাওয়ার হকদার আল্লাহ ছাড়া কেউ নয়। অন্যটি: শিরক থেকে মুক্ত দ্বীনই আল্লাহর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Love, Fear and Hope Unshared",
+          "bn": "ভালোবাসা, ভয়, আশা অবিভক্ত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di looks inward. The pure religion, he says, is the religion Allah approved for Himself and for the best of His creation, because it contains devotion to Allah in loving Him, fearing Him and hoping in Him, and turning to Him both in worship and in seeking what His servants need. That, he writes, is what sets hearts right, purifies and cleanses them. Shirk in any act of worship does the opposite: it corrupts hearts, souls, this world and the next.",
+            "bn": "সা'দী দৃষ্টি ফেরান ভেতরের দিকে। তাঁর মতে খাঁটি দ্বীন সেটাই, যা আল্লাহ নিজের জন্য আর তাঁর শ্রেষ্ঠ বান্দাদের জন্য পছন্দ করেছেন। কারণ এতে আছে আল্লাহর প্রতি একনিষ্ঠ ভক্তি: তাঁকে ভালোবাসা, তাঁকে ভয় করা, তাঁর কাছে আশা রাখা। আরও আছে তাঁর দিকে ফেরা, ইবাদতেও, বান্দার প্রয়োজন চাওয়াতেও। সা'দী লেখেন, এটাই অন্তরকে ঠিক করে, পবিত্র ও পরিচ্ছন্ন করে। ইবাদতের যেকোনো অংশে শিরক করে এর উল্টো কাজ। তা অন্তর, রূহ, দুনিয়া ও আখিরাত সবই নষ্ট করে।"
+          },
+          {
+            "en": "He adds that Allah is free of any such shirk and has no part in it, and that He is the most self-sufficient of partners from partnership. The wording echoes a narration in Sahih Muslim, 2985, which is general and not tied to this verse by any fetched tafsir. Abu Hurayra reports that the Messenger of Allah ﷺ said that Allah said: I am the most self-sufficient of partners from partnership; whoever does a deed in which he associates another with Me, I leave him and his partnership.",
+            "bn": "সা'দী আরও বলেন, আল্লাহ এমন শিরক থেকে মুক্ত, এতে তাঁর কোনো অংশ নেই। শরিকদের মধ্যে শিরক থেকে তিনিই সবচেয়ে বেশি অমুখাপেক্ষী। কথাটি সহীহ মুসলিমের ২৯৮৫ নম্বর বর্ণনার প্রতিধ্বনি। বর্ণনাটি সাধারণ, যেসব তাফসীর দেখা হয়েছে তার কোনোটি একে এ আয়াতের সঙ্গে জোড়েনি। আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন, আল্লাহ বলেন: শরিকদের মধ্যে শিরক থেকে আমিই সবচেয়ে অমুখাপেক্ষী। কেউ যদি এমন আমল করে, যাতে আমার সঙ্গে অন্য কাউকে শরিক করে, আমি তাকে ও তার শিরককে ছেড়ে দিই।"
+          },
+          {
+            "en": "Al-Qurtubi relays, from al-Hasan from Abu Hurayra, a report in which the Prophet ﷺ recites this verse to a man who gave for Allah's sake and for people's praise. He names no collector and gives no grading, so this article does not lean on it. He also reports Ibn al-'Arabi taking the verse as proof that intention is required in every act, ablution above all, against Abu Hanifa and al-Walid ibn Muslim from Malik, who held that ablution is valid without it.",
+            "bn": "কুরতুবী হাসান থেকে, তিনি আবু হুরায়রা (রাঃ) থেকে একটি বর্ণনা আনেন। তাতে নবী ﷺ এমন এক ব্যক্তিকে এ আয়াত পড়ে শোনান, যে দান করত আল্লাহর জন্যও, মানুষের প্রশংসার জন্যও। কুরতুবী কোনো সংকলকের নাম বা মান উল্লেখ করেননি, তাই এ লেখা ওই বর্ণনার উপর ভর দেয় না। তিনি ইবনুল আরাবীর মতও আনেন। তাঁর মতে আয়াতটি প্রমাণ করে যে প্রতিটি আমলে নিয়ত জরুরি, আর এর মধ্যে সবচেয়ে বড় হলো অজু। এ মতের বিপক্ষে আছেন আবু হানিফা, আর মালিক থেকে ওয়ালীদ ইবন মুসলিমের বর্ণনাও। তাঁদের মতে নিয়ত ছাড়াও অজু হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Unspoken 'They Say'",
+          "bn": "না-বলা 'তারা বলে'"
+        },
+        "p": [
+          {
+            "en": "The verse quotes the idolaters without a verb of saying. Al-Qurtubi notes that the predicate is left out, meaning they said: we worship them only to bring us near. Al-Baghawi gives the same sense, and both report that Ibn Mas'ud and Ibn 'Abbas recited it with the verb present, qālū mā na'buduhum; al-Qurtubi adds Mujahid to them. At-Tabari, through as-Suddi, also records qālū in Abdullah's reading. The standard text leaves the verb implied.",
+            "bn": "মুশরিকদের কথা আয়াত উদ্ধৃত করে, কিন্তু 'বলে' ক্রিয়াটা উল্লেখ না করেই। কুরতুবী বলেন, এখানে খবর উহ্য আছে, অর্থাৎ তারা বলেছিল: আমরা এদের ইবাদত করি শুধু এজন্য যে এরা আমাদের কাছে পৌঁছে দেবে। বাগাভীও একই অর্থ দেন। দুজনেই জানান, ইবন মাসঊদ ও ইবন আব্বাস ক্রিয়াসহ পড়তেন: কালূ মা না'বুদুহুম। কুরতুবী তাঁদের সঙ্গে মুজাহিদের নামও যোগ করেন। তাবারীও সুদ্দীর সূত্রে আবদুল্লাহর কিরাআতে 'কালূ' থাকার কথা লেখেন। প্রচলিত পাঠে ক্রিয়াটা উহ্য।"
+          },
+          {
+            "en": "Ubayy's reading, reported by at-Tabari and by al-Qurtubi from an-Nahhas, turns the quotation into direct address: we worship you only so that you bring us near. At-Tabari explains that in reported speech the absent party is sometimes treated as addressed and sometimes left absent. On zulfā, at-Tabari glosses nearness and rank, as-Suddi says rank, and Ibn Zayd says nearness. Al-Qurtubi and al-Baghawi describe it as a noun standing in for the verbal noun, as if it read li-yuqarribūnā taqrīban, to bring us near with a nearing.",
+            "bn": "উবাই-এর কিরাআত তাবারী জানান, কুরতুবীও নাহহাসের বরাতে আনেন। সেখানে উদ্ধৃতিটা সরাসরি সম্বোধন: আমরা তোমাদের ইবাদত করি শুধু এজন্য যে তোমরা আমাদের কাছে পৌঁছে দেবে। তাবারী ব্যাখ্যা করেন, কারও কথা বর্ণনা করার সময় অনুপস্থিতকে কখনো সম্বোধিতের মতো ধরা হয়, কখনো অনুপস্থিতই রাখা হয়। যুলফা শব্দের অর্থ তাবারী করেন নৈকট্য ও মর্যাদা, সুদ্দী বলেন মর্যাদা, ইবন যায়দ বলেন নৈকট্য। কুরতুবী ও বাগাভী বলেন, শব্দটি বিশেষ্য, বসেছে ক্রিয়াবাচক বিশেষ্যের জায়গায়। যেন বলা হয়েছে: লি-ইউকাররিবূনা তাকরীবা, অর্থাৎ আমাদের নৈকট্যে পৌঁছে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Images Made for Angels",
+          "bn": "ফেরেশতাদের নামে গড়া মূর্তি"
+        },
+        "p": [
+          {
+            "en": "Who were the awliyā', the patrons taken besides Him? Al-Qurtubi and al-Baghawi say the idols. At-Tabari reports Mujahid with a wider frame: Quraysh said this of their idols, and those before them said it of the angels, of 'Isa son of Maryam (AS) and of 'Uzayr. Ibn Kathir explains the link between idol and angel. By their own claim, they had made idols in the image of the angels brought near, and worshipped those images as if worshipping the angels themselves.",
+            "bn": "আল্লাহকে ছেড়ে যাদের আউলিয়া, অর্থাৎ অভিভাবক বানানো হয়েছিল, তারা কারা? কুরতুবী ও বাগাভী বলেন, মূর্তিগুলো। তাবারী মুজাহিদের একটি বক্তব্য আনেন, যার পরিসর আরও বড়। কুরাইশ এ কথা বলত তাদের মূর্তি সম্পর্কে, আর তাদের আগের লোকেরা বলত ফেরেশতাদের, মারইয়াম-পুত্র ঈসা (আঃ) ও উযাইর সম্পর্কে। মূর্তি আর ফেরেশতার সম্পর্কটা ইবন কাসীর খুলে বলেন। তাদের নিজেদের দাবি অনুযায়ী তারা নৈকট্যপ্রাপ্ত ফেরেশতাদের আকৃতিতে মূর্তি গড়েছিল। সেই মূর্তির পূজাকে তারা ফেরেশতাদেরই ইবাদতের জায়গায় বসিয়েছিল।"
+          },
+          {
+            "en": "What did they want from it? Ibn Kathir says intercession with Allah for victory, provision and the worldly matters that befell them; the return after death they denied outright. Qatada, as-Suddi, Malik from Zayd ibn Aslam, and Ibn Zayd, as he reports, gloss the phrase as: so that they intercede for us and bring us near to Him in rank. Ma'arif al-Qur'an adds that they knew the idols had no awareness or power, yet hoped the angels would be pleased with the reverence shown to their images.",
+            "bn": "এর বিনিময়ে তারা কী চাইত? ইবন কাসীর বলেন, আল্লাহর কাছে সুপারিশ, বিজয়ের জন্য, রিজিকের জন্য, দুনিয়ার যেসব বিপদ-আপদ আসত তার জন্য। মৃত্যুর পর ফিরে যাওয়াকে তারা সরাসরি অস্বীকার করত। তাঁর বর্ণনায় কাতাদা, সুদ্দী, যায়দ ইবন আসলাম থেকে মালিক, আর ইবন যায়দ বাক্যটির অর্থ করেন: যাতে তারা আমাদের জন্য সুপারিশ করে আর তাঁর কাছে আমাদের মর্যাদায় নিকটবর্তী করে। মাআরিফুল কুরআন যোগ করে, তারা জানত মূর্তির কোনো চেতনা বা ক্ষমতা নেই। তবু আশা করত, মূর্তিকে দেখানো সম্মানে সেই ফেরেশতারা খুশি হবে, যাদের আকৃতিতে মূর্তি গড়া।"
+          },
+          {
+            "en": "Their own words show they did not deny Allah. Qatada, in al-Qurtubi and al-Baghawi, describes the exchange: asked who their Lord was, who created them and the heavens and the earth, they answered Allah; asked then what their worship of the idols meant, they said it was to bring them near. Ibn Kathir cites their pilgrimage talbiya before Islam: at Your service, You have no partner, except a partner who is Yours; You own him and what he owns.",
+            "bn": "তাদের নিজেদের কথাতেই বোঝা যায়, তারা আল্লাহকে অস্বীকার করত না। কুরতুবী ও বাগাভীতে কাতাদা কথোপকথনটা তুলে ধরেন। তাদের জিজ্ঞেস করা হতো, তোমাদের রব কে, কে তোমাদের সৃষ্টি করেছেন, কে আসমান ও জমিন সৃষ্টি করেছেন? তারা বলত, আল্লাহ। তখন জিজ্ঞেস করা হতো, তাহলে মূর্তিপূজার মানে কী? তারা বলত, এরা আমাদের কাছে পৌঁছে দেবে। ইবন কাসীর ইসলামের আগে তাদের হজের তালবিয়া উদ্ধৃত করেন: আমি হাজির, তোমার কোনো শরিক নেই, শুধু সেই শরিক ছাড়া যে তোমারই। তুমি তার মালিক, আর সে যা কিছুর মালিক তারও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Like a Royal Court",
+          "bn": "রাজদরবারের মতো নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di names the reasoning behind the excuse: they measured Allah, who has no likeness, against kings. A king can only be reached through notables, intercessors and ministers who carry the subjects' needs to him and soften him toward them. He calls this among the most corrupt of analogies, because it equates Creator and creature despite the vast difference between them, known by reason, by revelation and by the natural disposition alike.",
+            "bn": "অজুহাতের পেছনের যুক্তিটা সা'দী ধরিয়ে দেন। যাঁর কোনো সদৃশ নেই, সেই আল্লাহকে তারা মেপেছিল রাজাদের মাপে। রাজার কাছে পৌঁছাতে হয় গণ্যমান্য লোক, সুপারিশকারী আর মন্ত্রীদের মাধ্যমে। তারাই প্রজাদের প্রয়োজন রাজার কাছে তোলে, রাজার মন নরম করে। সা'দী একে বলেন সবচেয়ে বিকৃত তুলনাগুলোর একটি। কারণ এতে স্রষ্টা আর সৃষ্টিকে সমান করা হয়, অথচ দুয়ের মধ্যে বিশাল ফারাক। বিবেক, ওহি আর স্বভাবজাত বোধ, তিনটিই সে ফারাক চেনে।"
+          },
+          {
+            "en": "Kings, he writes, do not know their subjects' conditions and need someone to inform them; they may feel no mercy for the needy and need someone to move them; they fear their ministers and grant requests to keep them content; and they are poor, and may refuse for fear of want. Allah's knowledge encompasses the outward and inward of every matter. He is the Most Merciful of those who show mercy, more merciful to His servants than they are to themselves or their parents are to them.",
+            "bn": "সা'দী লেখেন, রাজারা প্রজাদের অবস্থা জানেন না, তাই জানানোর লোক লাগে। অভাবী মানুষের প্রতি তাঁদের মনে হয়তো দয়াই নেই, তাই দয়া জাগানোর লোক লাগে। তাঁরা মন্ত্রীদের ভয় পান, তাদের মন রাখতে আবদার পূরণ করেন। আর তাঁরা নিজেরাও অভাবী, অভাবের ভয়ে হয়তো ফিরিয়ে দেন। আল্লাহর জ্ঞান প্রতিটি বিষয়ের বাইরে-ভেতরে সবকিছু ঘিরে আছে। তিনি দয়ালুদের মধ্যে সবচেয়ে দয়ালু। বান্দারা নিজেদের প্রতি যতটা দয়ালু, তাদের বাবা-মা তাদের প্রতি যতটা দয়ালু, তিনি তার চেয়েও বেশি।"
+          },
+          {
+            "en": "His wealth is complete: if all creation, first to last, gathered on one plain and asked, and He gave each what they asked, it would lessen what He has no more than a needle dipped in the sea lessens it. Every intercessor fears Him, none intercedes without His leave, and all intercession is His. Ibn Kathir makes the same point of the angels: all are servants who intercede only by His leave, for one He is pleased with, unlike princes at a king's court. Ma'arif al-Qur'an cites 53:26.",
+            "bn": "তাঁর ঐশ্বর্য পরিপূর্ণ। প্রথম থেকে শেষ পর্যন্ত সব সৃষ্টি যদি এক ময়দানে জড়ো হয়ে চায়, আর তিনি প্রত্যেককে তার চাওয়া দিয়ে দেন, তবু তাঁর ভান্ডার কমবে না, সাগরে সুঁই ডুবিয়ে তুললে সাগর যতটুকু কমে, তার বেশি নয়। প্রত্যেক সুপারিশকারী তাঁকে ভয় করে, তাঁর অনুমতি ছাড়া কেউ সুপারিশ করে না, আর সব সুপারিশ তাঁরই হাতে। ইবন কাসীর ফেরেশতাদের সম্পর্কে একই কথা বলেন। তারা সবাই বান্দা, সুপারিশ করে কেবল তাঁর অনুমতিতে, যার প্রতি তিনি সন্তুষ্ট তার জন্য। রাজদরবারের আমির-উমারার মতো নয়। মাআরিফুল কুরআন উদ্ধৃত করে ৫৩:২৬।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Judged Between",
+          "bn": "কাদের মধ্যে ফয়সালা"
+        },
+        "p": [
+          {
+            "en": "Inna Allāha yaḥkumu baynahum: Allah will judge between them in what they differ over. The commentators agree the judgment is on the Day of Resurrection, but they draw the circle differently. At-Tabari has Allah decide between these factions who took patrons besides Him in this world, over their differing worship, by sending them all to Hell, except whoever made religion sincerely Allah's, affirmed His oneness and associated nothing with Him. Al-Qurtubi widens it to the people of the religions, each recompensed as deserved.",
+            "bn": "ইন্নাল্লাহা ইয়াহকুমু বাইনাহুম: তারা যে বিষয়ে মতভেদ করছে, আল্লাহ তাদের মধ্যে তার ফয়সালা করবেন। তাফসীরকারেরা একমত, এ ফয়সালা কিয়ামতের দিন। কিন্তু গণ্ডিটা তাঁরা আঁকেন ভিন্নভাবে। তাবারীর মতে দুনিয়াতে যেসব দল আল্লাহকে ছেড়ে অভিভাবক ধরেছিল, তাদের নানা রকম ইবাদত নিয়ে মতভেদের ফয়সালা আল্লাহ করবেন সবাইকে জাহান্নামে দিয়ে। বাদ থাকবে কেবল সে, যে দ্বীনকে আল্লাহর জন্য খাঁটি করেছে, তাঁকে এক বলে মেনেছে, তাঁর সঙ্গে কিছু শরিক করেনি। কুরতুবী গণ্ডিটা বড় করেন সব ধর্মের অনুসারী পর্যন্ত। প্রত্যেকে পাবে যা তার প্রাপ্য।"
+          },
+          {
+            "en": "Al-Muyassar and as-Sa'di read the two sides as the sincere believers and those who associate others with Allah; as-Sa'di adds that the sentence carries a warning to the latter, and that His verdict is already known: the sincere in gardens of bliss, and Paradise forbidden to whoever associates partners with Him. Ibn Kathir keeps it to all creatures, each repaid for his deeds, and cites 34:40 and 34:41, where the angels, asked whether these people worshipped them, disown them.",
+            "bn": "মুয়াসসার ও সা'দী দুই পক্ষকে পড়েন এভাবে: একদিকে খাঁটি মুমিনেরা, অন্যদিকে যারা আল্লাহর সঙ্গে অন্যকে শরিক করে। সা'দী যোগ করেন, বাক্যটির ভেতরে দ্বিতীয় দলের জন্য হুঁশিয়ারি আছে, আর তাঁর রায় আগেই জানা। খাঁটি মুমিনেরা থাকবে নিয়ামতের জান্নাতে, আর যে শিরক করে তার জন্য জান্নাত হারাম। ইবন কাসীর ফয়সালাকে রাখেন সব সৃষ্টির উপর, প্রত্যেকে পাবে নিজের আমলের প্রতিদান। তিনি উদ্ধৃত করেন ৩৪:৪০ ও ৩৪:৪১। সেখানে ফেরেশতাদের জিজ্ঞেস করা হয়, এরা কি তোমাদের ইবাদত করত? তারা এদের সঙ্গে সম্পর্ক অস্বীকার করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lying and Refusing Gifts",
+          "bn": "মিথ্যা আর নিয়ামত অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "The verse closes: Allah does not guide whoever is kādhib kaffār. At-Tabari reads kādhib as a person who fabricates against Allah, says what is false about Him and ascribes to Him what is not His attribute, such as claiming He has a child; kaffār as someone ungrateful for His blessings, denying His lordship. Al-Baghawi ties the lie to this verse's excuse: whoever says the gods intercede has lied, and taking gods besides Him is enough as a lie and as disbelief.",
+            "bn": "আয়াতের শেষ কথা: যে কাযিব ও কাফফার, আল্লাহ তাকে পথ দেখান না। তাবারীর মতে কাযিব সে, যে আল্লাহর নামে মিথ্যা রচনা করে, তাঁর সম্পর্কে বাতিল কথা বলে, তাঁর প্রতি এমন কিছু আরোপ করে যা তাঁর গুণ নয়, যেমন তাঁর সন্তান আছে বলে দাবি করা। আর কাফফার সে, যে তাঁর নিয়ামতের নাশোকরি করে, তাঁর রুবূবিয়্যাত অস্বীকার করে। বাগাভী মিথ্যাটাকে জোড়েন এ আয়াতের অজুহাতের সঙ্গে। যে বলে উপাস্যরা সুপারিশ করবে, সে মিথ্যা বলেছে। আল্লাহকে ছেড়ে উপাস্য ধরাটাই মিথ্যা ও কুফর হিসেবে যথেষ্ট।"
+          },
+          {
+            "en": "Ibn Kathir describes a person whose intent is lying and fabrication against Allah, and whose heart rejects His signs and proofs. As-Sa'di dwells on why guidance does not reach such a person: lying or disbelief has become his settled description, so that admonitions and signs come to him and it does not leave him. He denies them, and so he has shut the door on himself, and is punished by a seal on his heart. Al-Muyassar puts it as not being granted success toward the straight path.",
+            "bn": "ইবন কাসীর এমন মানুষের কথা বলেন, যার উদ্দেশ্যই আল্লাহর নামে মিথ্যা ও অপবাদ রচনা, আর যার অন্তর তাঁর নিদর্শন ও প্রমাণ অস্বীকার করে। এমন মানুষের কাছে হেদায়েত পৌঁছায় না কেন, সা'দী তা নিয়ে থামেন। মিথ্যা বা কুফর তার স্থায়ী পরিচয় হয়ে গেছে। উপদেশ আসে, নিদর্শন আসে, তবু সে স্বভাব যায় না। সে এগুলো অস্বীকার করে। এভাবে নিজের দরজা সে নিজেই বন্ধ করেছে, আর শাস্তি হিসেবে তার অন্তরে মোহর পড়েছে। মুয়াসসার কথাটা বলে এভাবে: সরল পথের হেদায়েতের তাওফীক সে পায় না।"
+          },
+          {
+            "en": "Al-Qurtubi gives a different emphasis: whoever the decree has preceded with disbelief does not come to guidance, meaning the religion Allah approved, Islam, as in 5:3. He presents this as a reply to some theologians on the question of decree. As-Sa'di's account dwells on the person's own repeated refusal; al-Qurtubi's on what was decreed beforehand. The two are stated here as each wrote them, without choosing between them.",
+            "bn": "কুরতুবীর জোর অন্য জায়গায়। যার ব্যাপারে কুফরের ফয়সালা আগেই হয়ে আছে, সে হেদায়েত পায় না, অর্থাৎ আল্লাহর পছন্দের দ্বীন ইসলামের দিশা পায় না, যেমন ৫:৩ আয়াতে আছে। তিনি এটাকে তাকদীর প্রশ্নে কিছু কালামশাস্ত্রবিদের জবাব হিসেবে পেশ করেন। সা'দীর বর্ণনার জোর মানুষটির নিজের বারবার ফিরিয়ে দেওয়ায়। কুরতুবীর জোর আগে থেকে নির্ধারিত বিষয়ে। দুজনের কথা এখানে রাখা হলো যেভাবে তাঁরা লিখেছেন, কোনোটিকে বেছে না নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighing One's Own Intention",
+          "bn": "নিজের নিয়ত মেপে দেখা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse quotes the idolaters in the time of the Prophet ﷺ, who served idols and images in the hope of being brought near, and it describes what the text describes. It names no living person or community, and it gives no licence to apply its words to any present-day Muslim, practice or group, or to settle current disputes among Muslims with it. Its own closing sentence leaves the judgment of what people differ over to Allah on the Day of Resurrection.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-এর যুগের মুশরিকদের কথা উদ্ধৃত করে, যারা নৈকট্যের আশায় মূর্তি ও প্রতিমার পূজা করত। আয়াতে যা আছে, আয়াত তা-ই বর্ণনা করে। এতে কোনো জীবিত মানুষ বা সম্প্রদায়ের নাম নেই। আজকের কোনো মুসলিম, কোনো আমল বা কোনো দলের উপর এর কথা চাপিয়ে দেওয়ার অনুমতি এ আয়াত দেয় না, মুসলিমদের বর্তমান বিতর্কের মীমাংসাও এ দিয়ে করার নয়। আয়াতের নিজের বাক্যই মানুষের মতভেদের ফয়সালা ছেড়ে দিয়েছে কিয়ামতের দিন আল্লাহর হাতে।"
+          },
+          {
+            "en": "What the verse asks of its reader points inward. Its first sentence is a standard to measure oneself against: is my religion pure, with nothing mixed in? Ibn Kathir makes that a question of acceptance, and as-Sa'di a question of the heart's love, fear and hope. The excuse it quotes shows how a person can believe in Allah and still hand part of his worship elsewhere. Its honest use is to check one's own intention before each deed.",
+            "bn": "আয়াত পাঠকের কাছে যা চায়, তা ভেতরের দিকে ফেরানো। এর প্রথম বাক্যটা নিজেকে মাপার মানদণ্ড: আমার দ্বীন কি খাঁটি, তাতে কি কিছু মেশানো নেই? ইবন কাসীরের ব্যাখ্যায় এটা কবুল হওয়ার প্রশ্ন, সা'দীর ব্যাখ্যায় অন্তরের ভালোবাসা, ভয় আর আশার প্রশ্ন। আয়াত যে অজুহাত উদ্ধৃত করে, তা দেখায় মানুষ আল্লাহকে বিশ্বাস করেও কীভাবে ইবাদতের একটা অংশ অন্যত্র দিয়ে ফেলতে পারে। আয়াতের সৎ ব্যবহার তাই একটাই: প্রতিটি আমলের আগে নিজের নিয়ত যাচাই করা।"
+          }
+        ]
+      }
+    ]
+  },
   "39:5": {
     "sections": [
       {
