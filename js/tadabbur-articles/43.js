@@ -2947,6 +2947,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:80": {
+    "sections": [
+      {
+        "h": {
+          "en": "Unheard, or So They Supposed",
+          "bn": "তারা ভেবেছিল কেউ শোনে না"
+        },
+        "p": [
+          {
+            "en": "The passage before this verse stands at the edge of Hell. In 43:74 to 43:78 the criminals call on Malik, the keeper of Hell in Ibn Kathir's gloss, to have their Lord finish them, and are told they will remain, because the truth came to them and most of them hated it. 43:79 then turns to the deniers in this world: have they settled on a plan? Allah too is settling. The abridged English Ibn Kathir reads what follows as said in refutation of them.",
+            "bn": "এ আয়াতের ঠিক আগের অংশটা জাহান্নামের কিনারায় দাঁড়িয়ে। ৪৩:৭৪ থেকে ৪৩:৭৮ আয়াতে অপরাধীরা মালিককে ডাকে, যাকে ইবন কাসীর জাহান্নামের রক্ষী বলে চিনিয়ে দেন। তারা চায়, তার রব যেন তাদের শেষ করে দেন। জবাব আসে, তোমরা এখানেই থাকবে। তারপর কারণটাও বলা হয়: তাদের কাছে সত্য আনা হয়েছিল, কিন্তু তাদের বেশির ভাগ সেটা অপছন্দ করত। ৪৩:৭৯ আয়াত আবার দুনিয়ার অস্বীকারকারীদের দিকে ফেরে। জিজ্ঞেস করে, তারা কি কোনো পরিকল্পনা পাকা করে ফেলেছে? জবাব দেয়, আল্লাহও পাকা করছেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে এর পরের কথাগুলো তাদের খণ্ডন হিসেবেই এসেছে।"
+          },
+          {
+            "en": "Then the verse itself: am yahsabuna anna la nasma'u sirrahum wa najwahum; bala wa rusuluna ladayhim yaktubun. Or do they think that We do not hear their secret and their private counsel? Yes, and Our messengers are with them, writing. Eleven Arabic words: a question, a short answer, and a clause that adds witnesses. The verse before dealt with what the deniers decided. This verse goes beneath the decision, to the talk that produced it and the thoughts behind the talk.",
+            "bn": "এবার আয়াতটি: আম ইয়াহসাবূনা আন্না লা নাসমাউ সিররাহুম ওয়া নাজওয়াহুম; বালা ওয়া রুসুলুনা লাদাইহিম ইয়াকতুবূন। তারা কি মনে করে, আমি তাদের গোপন কথা আর চুপিচুপি পরামর্শ শুনি না? অবশ্যই শুনি, আর আমার দূতেরা তাদের কাছে থেকে লিখে চলেছে। আরবিতে ১১টি শব্দ। গঠনটা এমন: প্রশ্ন, ছোট্ট জবাব, তারপর সাক্ষী যোগ করা একটা বাক্যাংশ। আগের আয়াতের বিষয় ছিল অস্বীকারকারীরা কী সিদ্ধান্ত নিল। এ আয়াত সিদ্ধান্তের নিচে নেমে যায়। যে আলাপ থেকে সিদ্ধান্ত জন্মাল, আর আলাপের পেছনে যে চিন্তা ছিল, সেখানে পৌঁছায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Sirr Ends and Najwa Begins",
+          "bn": "সির আর নাজওয়ার সীমারেখা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes both words as speech. His paraphrase: do these who associate partners with Allah suppose that We do not hear what they hid from people of their talk, and what they consulted on among themselves and confided to one another, leaving others out? On this reading sirr is speech kept back from people at large, and najwa is speech passed around inside a closed circle. In the answer he joins them again: We know what they confided among themselves and what they hid from people of the secret of their talk.",
+            "bn": "তাবারী দুটো শব্দকেই কথা হিসেবে পড়েন। তাঁর ব্যাখ্যা: আল্লাহর সঙ্গে শরিককারী এই লোকেরা কি ভাবে, মানুষের কাছ থেকে নিজেদের যে কথা তারা লুকিয়েছে, আর নিজেদের মধ্যে যে বিষয়ে পরামর্শ করেছে ও অন্যদের বাদ দিয়ে কানাকানি করেছে, তা আমি শুনি না? এ পাঠে সির হলো সাধারণ মানুষের কাছ থেকে আড়াল করা কথা। আর নাজওয়া হলো একটা বন্ধ গণ্ডির ভেতরে চালাচালি হওয়া কথা। জবাবের ব্যাখ্যায় এসে তিনি দুটোকে আবার এক করে দেন: তারা নিজেদের মধ্যে যা কানাকানি করেছে, আর মানুষের কাছ থেকে যে গোপন কথা লুকিয়েছে, সবই আমি জানি।"
+          },
+          {
+            "en": "Al-Qurtubi moves the sirr inward. It is ma yusirrunahu fi anfusihim, what they conceal within themselves, while the najwa is what they confide to one another. The Muyassar uses the same pair of phrases almost word for word. Al-Baghawi words it differently: what they conceal from others, and what they confide among themselves. His definition of the secret turns on who is kept out, which brings him closer to at-Tabari than to al-Qurtubi. Read side by side, the three already differ on whether a sirr has to be spoken at all.",
+            "bn": "কুরতুবী সিরকে ভেতরের দিকে সরিয়ে আনেন। তাঁর মতে সির হলো মা ইউসিররূনাহু ফী আনফুসিহিম, যা তারা নিজেদের মনের ভেতরে লুকিয়ে রাখে। আর নাজওয়া হলো যা তারা একে অন্যের কাছে চুপিচুপি বলে। মুয়াসসার প্রায় হুবহু একই দুটো বাক্যাংশ ব্যবহার করে। বাগাভীর ভাষা আলাদা: যা তারা অন্যদের কাছ থেকে লুকায়, আর যা নিজেদের মধ্যে কানাকানি করে। তাঁর সংজ্ঞায় গোপন কথার পরিচয় ঠিক হয় কাকে বাইরে রাখা হলো তা দিয়ে। এ দিক থেকে তিনি কুরতুবীর চেয়ে তাবারীর কাছাকাছি। তিনজনকে পাশাপাশি রাখলেই দেখা যায়, সির মুখে উচ্চারিত হওয়া জরুরি কি না, সে প্রশ্নে তাঁদের মধ্যে পার্থক্য আছে।"
+          },
+          {
+            "en": "As-Sa'di draws the line most sharply. The sirr is what they never put into words; it is a secret in their hearts. The najwa is their hidden speech, whispered among themselves. The first covers thought never voiced, the second words voiced but kept low. Ibn Kathir goes another way. His gloss on the pair is sirrahum wa 'alaniyatahum, their secret and their open talk, and the abridged English gives it as what they say secretly and openly. On his reading the verse spans everything, hidden and public alike.",
+            "bn": "সবচেয়ে স্পষ্ট রেখা টানেন সা'দী। তাঁর মতে সির হলো যা তারা কখনো মুখে আনেনি, যা তাদের অন্তরে লুকানো এক গোপন কথা। আর নাজওয়া হলো তাদের চাপা কথা, যা তারা একে অন্যের কানে কানে বলে। তাহলে প্রথম শব্দ ধরছে না-বলা চিন্তাকে, দ্বিতীয়টা ধরছে বলা কিন্তু নিচু করে রাখা কথাকে। ইবন কাসীর একেবারে অন্য পথে যান। শব্দ দুটোর ব্যাখ্যায় তিনি বলেন সিররাহুম ওয়া আলানিয়াতাহুম, তাদের গোপন ও প্রকাশ্য কথা। সংক্ষিপ্ত ইংরেজি সংস্করণেও আছে: যা তারা গোপনে ও খোলাখুলি বলে। তাঁর পাঠে আয়াতটি গোপন আর প্রকাশ্য, সবকিছুকেই ঘিরে ফেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Guess That Became Permission",
+          "bn": "যে অনুমান ছাড়পত্র হয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "The verb is yahsabun, and at-Tabari glosses it with yazunnu: do they suppose, do they reckon. As-Sa'di says how they arrived at the supposition, bi-jahlihim wa zulmihim, through their ignorance and their wrongdoing. At-Tabari then spells out what the supposition was for. They thought We do not hear, fa-la nu'aqibuhum 'alayhi li-khafa'ihi 'alayna: so that We would not punish them for it, since it was hidden from Us. In his reading the mistake about hearing was really a mistake about consequence. What they hoped went unheard, they hoped would also go unanswered.",
+            "bn": "ক্রিয়াটি ইয়াহসাবূন, আর তাবারী এর অর্থ দেন ইয়াযুন্নু দিয়ে: তারা কি ধারণা করে, তারা কি হিসাব কষে রেখেছে। এ ধারণায় তারা কীভাবে পৌঁছাল, সা'দী তা বলেন: বিজাহলিহিম ওয়া যুলমিহিম, নিজেদের অজ্ঞতা আর অন্যায়ের কারণে। তারপর তাবারী খুলে বলেন, এ ধারণার উদ্দেশ্য কী ছিল। তারা ভেবেছিল আমি শুনি না, ফালা নুআকিবুহুম আলাইহি লিখাফাইহি আলাইনা: ফলে আমি সে জন্য তাদের শাস্তি দেব না, কারণ বিষয়টা আমার কাছে অজানা থেকে গেছে। তাঁর পাঠে শোনা নিয়ে ভুলটা আসলে পরিণাম নিয়ে ভুল। যা কেউ শুনবে না বলে তারা আশা করেছিল, তার কোনো জবাবদিহিও হবে না বলে আশা করেছিল।"
+          },
+          {
+            "en": "As-Sa'di makes the same link from the other end. It was for this reason, he says, that they pressed on into acts of disobedience, supposing that these carried no consequence and no requital for whatever of them was hidden. The supposition did not stay an opinion about what Allah can hear; it turned into licence. Read together, the two show a chain: what a person believes is unheard, he comes to treat as beyond account, and what he treats as beyond account, he goes on to do. The verse's question breaks the chain at its first link.",
+            "bn": "সা'দী একই সংযোগ টানেন উল্টো দিক থেকে। তিনি বলেন, এ কারণেই তারা নাফরমানির কাজে এগিয়ে গেছে। ভেবেছে, এসবের কোনো দায় নেই, আর যা গোপনে ঘটে তার কোনো প্রতিদানও নেই। অর্থাৎ ধারণাটা আল্লাহ কী শোনেন সে বিষয়ে নিছক মত হয়ে থাকেনি, ছাড়পত্র হয়ে গেছে। দুজনকে একসঙ্গে পড়লে একটা শিকল চোখে পড়ে। মানুষ যা অশ্রুত বলে বিশ্বাস করে, তাকে হিসাবের বাইরে ধরে নেয়। আর যা হিসাবের বাইরে ধরে নেয়, তা করেই চলে। আয়াতের প্রশ্নটা শিকলের প্রথম কড়াতেই আঘাত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bala: Hearing, Then Knowing",
+          "bn": "বালা: শোনা, তারপর জানা"
+        },
+        "p": [
+          {
+            "en": "The answer opens with one word, bala, which the translation gives as Yes, We do. The commentators fill it out. Al-Qurtubi, al-Baghawi and the Muyassar each write it the same way: bala nasma'u wa na'lamu, yes, We hear and We know. At-Tabari puts the reply in terms of knowledge alone: bal nahnu na'lamu, rather We know what they confided among themselves. As-Sa'di does the same, We know their secret and their private talk, and Ibn Kathir says, We know what they are engaged in. None of them leaves the answer at hearing.",
+            "bn": "জবাব শুরু হয় একটি শব্দে, বালা, অনুবাদে যার অর্থ: অবশ্যই শুনি। তাফসীরকারেরা কথাটা পূর্ণ করে দেন। কুরতুবী, বাগাভী আর মুয়াসসার একইভাবে লেখেন: বালা নাসমাউ ওয়া না'লামু, অবশ্যই আমি শুনি এবং জানি। তাবারী জবাবটা দেন শুধু জ্ঞানের ভাষায়: বাল নাহনু না'লামু, বরং তারা নিজেদের মধ্যে যা কানাকানি করেছে আমি তা জানি। সা'দীও তাই বলেন, আমি তাদের গোপন কথা আর কানাকানি জানি। ইবন কাসীর বলেন, তারা যে অবস্থায় আছে আমি তা জানি। কেউই জবাবটাকে শুধু শোনায় থামিয়ে রাখেননি।"
+          },
+          {
+            "en": "That addition matters beside the readings of sirr. If the secret is a thought never spoken, as as-Sa'di has it, then there is no sound to hear, and only knowledge reaches it. If it is whispered speech, as at-Tabari has it, then hearing reaches it directly. The commentators' pairing of hear and know covers both cases, so the answer holds on any reading of sirr. Then the verse adds a second line of witness.",
+            "bn": "সিরের পাঠগুলোর পাশে রাখলে বোঝা যায়, এই যোগ কেন জরুরি। সা'দীর মতো যদি গোপন কথা হয় এমন চিন্তা যা কখনো উচ্চারিত হয়নি, তাহলে শোনার মতো কোনো আওয়াজই নেই, সেখানে পৌঁছায় কেবল জ্ঞান। আর তাবারীর মতো যদি তা হয় চাপা গলার কথা, তাহলে শোনাই সরাসরি সেখানে পৌঁছে যায়। শোনা আর জানা, দুটোকে জোড়া দিয়ে তাফসীরকারেরা দুই অবস্থাই ঢেকে দেন। ফলে সিরের যে পাঠই নেওয়া হোক, জবাবটা টিকে থাকে। তারপর আয়াতে আরেক সারি সাক্ষী যোগ হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Scribes Who Stay Beside Them",
+          "bn": "পাশে থাকা লেখক ফেরেশতা"
+        },
+        "p": [
+          {
+            "en": "Wa rusuluna ladayhim yaktubun: and Our messengers are with them, writing. The messengers here are not prophets. At-Tabari's paraphrase is hafazatuna, Our guardians, and he relays from as-Suddi a single word for them, al-hafaza, the guardian angels. Al-Baghawi says they are from the angels, meaning the hafaza. The Muyassar calls them al-mala'ika al-kiram al-hafaza, the noble guardian angels, and as-Sa'di the noble angels. On ladayhim, at-Tabari says it means 'indahum, with them, and relays the same gloss from Qatada: they are near, not observing from somewhere else.",
+            "bn": "ওয়া রুসুলুনা লাদাইহিম ইয়াকতুবূন: আর আমার দূতেরা তাদের কাছে থেকে লিখে চলেছে। এখানে দূত মানে নবী নন। তাবারীর ব্যাখ্যায় তারা হাফাযাতুনা, আমার রক্ষী ফেরেশতারা। সুদ্দী থেকে তিনি তাদের জন্য একটিমাত্র শব্দ বর্ণনা করেন: আল-হাফাযা, রক্ষী ফেরেশতা। বাগাভী বলেন, তারা ফেরেশতাদের মধ্য থেকে, অর্থাৎ হাফাযা। মুয়াসসার তাদের বলে আল-মালাইকাতুল কিরাম আল-হাফাযা, সম্মানিত রক্ষী ফেরেশতা। সা'দী বলেন সম্মানিত ফেরেশতা। লাদাইহিম শব্দের অর্থ তাবারী দেন ইনদাহুম, তাদের কাছে। কাতাদা থেকেও তিনি একই ব্যাখ্যা আনেন। তারা কাছেই আছে, দূরে কোথাও বসে দেখছে না।"
+          },
+          {
+            "en": "What they write differs by commentator. At-Tabari keeps to the verse's subject, speech: they write what the deniers uttered in their talk. Ibn Kathir widens the record to deeds, the angels write their actions, small and great. The Muyassar says everything they did. Al-Qurtubi and the Muyassar both use the phrase yaktubuna 'alayhim, they write against them, so the record is evidence, not a neutral diary. Al-Baghawi and Ibn Kathir introduce the angels with aydan, also: a second witness beside Allah's own knowing.",
+            "bn": "তারা কী লেখে, সে বিষয়ে তাফসীরকারদের কথা এক রকম নয়। তাবারী আয়াতের বিষয়েই থাকেন, আর বিষয়টা কথা। অস্বীকারকারীরা যা উচ্চারণ করেছে, আলাপে যা বলেছে, ফেরেশতারা তা লেখে। ইবন কাসীর লেখার পরিধি আমল পর্যন্ত বাড়িয়ে দেন: ফেরেশতারা তাদের ছোট-বড় সব আমল লিখে রাখে। মুয়াসসার বলে, তারা যা কিছু করেছে সবই। কুরতুবী আর মুয়াসসার দুজনেই বলেন ইয়াকতুবূনা আলাইহিম, তাদের বিরুদ্ধে লেখে। তাই এ খাতা নিরপেক্ষ দিনলিপি নয়, বরং পেশ করার মতো প্রমাণ। বাগাভী আর ইবন কাসীর ফেরেশতাদের কথা আনেন আইদান শব্দ দিয়ে, অর্থাৎ এরাও। আল্লাহর নিজের জানার পাশে এ হলো দ্বিতীয় সাক্ষী।"
+          },
+          {
+            "en": "As-Sa'di carries the record forward to its use. The angels write all that the deniers did, and it will be kept against them until they arrive at the Day of Resurrection; there they will find what they did set out before them, and your Lord wrongs no one. Read with that last clause, the writing does not suggest that anything could slip past Allah. It means the reckoning will rest on a record the person judged sees for himself, and that nothing is charged to anyone that he did not do.",
+            "bn": "সা'দী খাতাটাকে তার ব্যবহারের জায়গা পর্যন্ত নিয়ে যান। অস্বীকারকারীরা যা করেছে, ফেরেশতারা সব লেখে। কিয়ামতে পৌঁছানো পর্যন্ত তা তাদের বিরুদ্ধে সংরক্ষিত থাকবে। সেখানে তারা নিজেদের কাজ সামনে হাজির পাবে, আর আপনার রব কারও প্রতি জুলুম করেন না। তাঁর শেষ বাক্যাংশের আলোয় পড়লে বোঝা যায়, লেখার মানে এই নয় যে আল্লাহর কাছ থেকে কিছু ফসকে যেতে পারে। এর মানে, হিসাব দাঁড়াবে এমন এক দলিলের ওপর, যা বিচারাধীন মানুষ নিজের চোখে দেখবে। আর কারও ঘাড়ে এমন কিছু চাপানো হবে না, যা সে করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Between the Ka'bah and Its Curtains",
+          "bn": "কাবা আর তার গিলাফের মাঝে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari mentions, with the word dhukira, that the verse came down about three men who disputed whether Allah hears His servants. His chain ends with Muhammad ibn Ka'b al-Qurazi, who says: while three men were between the Ka'bah and its curtains, two of Quraysh and one of Thaqif, or two of Thaqif and one of Quraysh, one asked, Do you think Allah hears our talk? One answered, When you speak aloud He hears, and in secret He does not. Another said, If He hears when you speak openly, He hears when you speak in secret. Then the verse came down.",
+            "bn": "তাবারী যুকিরা শব্দ দিয়ে জানান যে আয়াতটি নাজিল হয়েছিল তিনজন লোককে নিয়ে, যারা তর্ক করছিল আল্লাহ বান্দাদের কথা শোনেন কি না। তাঁর সনদ শেষ হয় মুহাম্মাদ ইবন কা'ব কুরাযীতে। তিনি বলেন: তিনজন লোক কাবা আর তার গিলাফের মাঝখানে ছিল। দুজন কুরাইশের, একজন সাকীফের, অথবা দুজন সাকীফের, একজন কুরাইশের। একজন জিজ্ঞেস করল, তোমাদের কী মনে হয়, আল্লাহ কি আমাদের কথা শোনেন? একজন বলল, জোরে বললে শোনেন, চুপিচুপি বললে শোনেন না। আরেকজন বলল, প্রকাশ্যে বললে যদি শোনেন, তাহলে গোপনে বললেও শোনেন। তখন আয়াতটি নাজিল হলো।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same report, opening it with ruwiya, it is reported, and naming Muhammad ibn Ka'b as the one who said it. As at-Tabari gives it, the chain stops with Muhammad ibn Ka'b and names no Companion who was present, and neither commentator records a grading for it. It is a report the commentators relay, and this article does not treat it as the verse's established occasion. No sound hadith attached to 43:80 itself appears in the sources fetched for this verse.",
+            "bn": "কুরতুবীও একই বর্ণনা আনেন। তিনি শুরু করেন রুউইয়া শব্দ দিয়ে, অর্থাৎ 'বর্ণিত আছে', আর বলেন কথাটি মুহাম্মাদ ইবন কা'বের। তাবারী যেভাবে এনেছেন, তাতে সনদ মুহাম্মাদ ইবন কা'বেই থেমে যায়। ঘটনাস্থলে উপস্থিত কোনো সাহাবির নাম তাতে নেই। দুই তাফসীরকারের কেউই এর কোনো মান উল্লেখ করেননি। তাই এটি তাফসীরকারদের বর্ণিত একটি রিওয়ায়াত মাত্র, এ লেখায় একে আয়াতের প্রতিষ্ঠিত শানে নুযূল হিসেবে ধরা হচ্ছে না। এ আয়াতের জন্য সংগ্রহ করা উৎসগুলোতে ৪৩:৮০-এর সঙ্গে সরাসরি যুক্ত কোনো সহীহ হাদীস পাওয়া যায়নি।"
+          },
+          {
+            "en": "Al-Qurtubi adds a pointer: this meaning, he says, has already been given from Ibn Mas'ud in Surat Fussilat. Al-Bukhari's Sahih (4817) carries a report from Abdullah, Ibn Mas'ud, of a near-identical exchange among three men at the House, and there the verse sent down is 41:22, on ears, eyes and skins bearing witness. What both accounts share with this verse is the error itself, that loud speech reaches Allah and low speech does not, and the plain reasoning of the man who answered rightly, which 43:80 confirms and then extends to the written record.",
+            "bn": "কুরতুবী একটি ইঙ্গিতও যোগ করেন: এ অর্থ সূরা ফুসসিলাতে ইবন মাসউদ (রাঃ) থেকে আগেই এসেছে। সহীহ বুখারীতে (৪৮১৭) আব্দুল্লাহ ইবন মাসউদ (রাঃ) থেকে প্রায় একই রকম এক কথোপকথনের বর্ণনা আছে, কাবাঘরের কাছে তিনজন লোকের মধ্যে। সেখানে যে আয়াত নাজিল হয়েছিল বলে উল্লেখ আছে, তা ৪১:২২, যেখানে কান, চোখ আর চামড়ার সাক্ষ্যের কথা। দুই বর্ণনার সঙ্গে এ আয়াতের মিল হলো ভুলটায়: জোরের কথা আল্লাহ শোনেন, নিচু গলার কথা শোনেন না। আর মিল সঠিক জবাব দেওয়া লোকটির সহজ যুক্তিতে, যা ৪৩:৮০ সত্য বলে নিশ্চিত করে, তারপর লেখার খাতা পর্যন্ত বাড়িয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Deniers Under Question",
+          "bn": "প্রশ্নের মুখে অস্বীকারকারীরা"
+        },
+        "p": [
+          {
+            "en": "The commentators are clear about whom the question is put to. At-Tabari and the Muyassar both name them as ha'ula'i al-mushrikun billah, these who associate partners with Allah: the deniers whose dislike of the truth 43:78 describes and whose plotting 43:79 answers. The verse describes a group who opposed the message in the Prophet's ﷺ time and supposed their private talk went unheard. It licenses nothing against any living person or community. It gives no warrant to read hidden plots into other people's quiet talk, or to claim to know another person's heart.",
+            "bn": "প্রশ্নটা কাদের করা হচ্ছে, তাফসীরকারেরা তা স্পষ্ট করে দেন। তাবারী আর মুয়াসসার দুজনেই তাদের বলেন হাউলাইল মুশরিকূনা বিল্লাহ, আল্লাহর সঙ্গে শরিককারী এই লোকেরা। এরাই সেই অস্বীকারকারী, সত্যের প্রতি যাদের বিরাগের কথা ৪৩:৭৮ আয়াতে, আর যাদের ষড়যন্ত্রের জবাব ৪৩:৭৯ আয়াতে। আয়াতটি বর্ণনা করে নবী ﷺ-এর যুগের এমন একদল লোক, যারা দাওয়াতের বিরোধিতা করেছিল আর ভেবেছিল তাদের গোপন আলাপ কেউ শোনে না। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। অন্যের নিচু গলার আলাপে গোপন ষড়যন্ত্র খোঁজার, কিংবা কারও মনের ভেতরে কী আছে তা জানার দাবি করার কোনো অধিকারও কাউকে দেয় না।"
+          },
+          {
+            "en": "Its reach toward a reader runs the other way, inward. The supposition it exposes is not a doctrine anyone has to profess. A believer who would never say that Allah does not hear can still speak, in a closed room or a private message, as though He did not. The chain at-Tabari and as-Sa'di trace, from supposing a thing is hidden to treating it as beyond account to doing it, can run in a person's habits while his creed stays sound. That is where the verse meets its reader.",
+            "bn": "পাঠকের দিকে এ আয়াতের পৌঁছানোটা উল্টো দিকে, ভেতরের দিকে। যে ধারণা আয়াতটি ফাঁস করে দেয়, তা কাউকে মতবাদ হিসেবে ঘোষণা করতে হয় না। যে মুমিন কখনো বলবেন না যে আল্লাহ শোনেন না, তিনিও বন্ধ ঘরে বা একান্ত বার্তায় এমনভাবে কথা বলতে পারেন, যেন তিনি শোনেন না। তাবারী আর সা'দী যে শিকল দেখান, গোপন ভাবা থেকে হিসাবের বাইরে ধরা, তারপর করে ফেলা, তা মানুষের অভ্যাসে চলতে পারে, অথচ তার আকীদা ঠিকই থাকে। আয়াতটি পাঠকের সঙ্গে মেলে ঠিক এই জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Alone, Yet Never Unheard",
+          "bn": "একা, তবু অশ্রুত নয়"
+        },
+        "p": [
+          {
+            "en": "The awareness this verse asks for has a name, muraqabah: living with the knowledge that Allah is watching. The verse gives it two layers. The first is the sirr, on as-Sa'di's reading the thought that is never spoken: the intention behind a kindness, the grudge kept in silence, the plan not yet told to anyone. There the witness is the One who knows. The second is the najwa, words said low among a few. There the angels are writing too, and on al-Qurtubi's wording they are writing against the speaker.",
+            "bn": "এ আয়াত যে সচেতনতা চায়, তার একটা নাম আছে: মুরাকাবা, অর্থাৎ আল্লাহ দেখছেন, এ জ্ঞান নিয়ে বেঁচে থাকা। আয়াতটি একে দুই স্তরে ভাগ করে দেয়। প্রথম স্তর সির। সা'দীর পাঠে এটা সেই চিন্তা, যা কখনো মুখে আসেনি। কোনো ভালো কাজের পেছনের নিয়ত, চুপচাপ পুষে রাখা ক্ষোভ, এখনো কাউকে না বলা পরিকল্পনা। সেখানে সাক্ষী তিনিই, যিনি জানেন। দ্বিতীয় স্তর নাজওয়া, কয়েকজনের মধ্যে নিচু গলায় বলা কথা। সেখানে ফেরেশতারাও লিখছে, আর কুরতুবীর ভাষায় তারা লিখছে বক্তার বিরুদ্ধে।"
+          },
+          {
+            "en": "Today's najwa is often typed rather than whispered: a group chat, a late conversation, a meeting after the meeting. People say there what they would never say in the open, and Ibn Kathir's gloss already erases that line, since he reads the verse as covering what is said secretly and openly. Muraqabah does not mean living in fear of being caught. It means letting the private person and the public person become the same person, so that what is written in either place could be read aloud without shame.",
+            "bn": "আজকের নাজওয়া প্রায়ই ফিসফিস করে নয়, লিখে হয়: গ্রুপ চ্যাট, গভীর রাতের আলাপ, মিটিং শেষের আরেক মিটিং। মানুষ সেখানে এমন কথা বলে, যা প্রকাশ্যে কখনো বলত না। অথচ ইবন কাসীরের ব্যাখ্যা এই সীমারেখা আগেই মুছে দিয়েছে, কারণ তাঁর পাঠে আয়াতটি গোপন ও প্রকাশ্য দুই রকম কথাকেই ঘিরে রাখে। মুরাকাবা মানে ধরা পড়ার ভয়ে দিন কাটানো নয়। এর মানে, একান্তের মানুষটি আর প্রকাশ্যের মানুষটি যেন একই মানুষ হয়ে ওঠে। যাতে দুই জায়গার যা কিছু লেখা হচ্ছে, তা লজ্জা ছাড়াই সবার সামনে পড়ে শোনানো যায়।"
+          },
+          {
+            "en": "A simple practice follows. Before a private conversation turns to someone who is absent, or to a plan that would not survive daylight, turn the verse's question on yourself: do I suppose this is unheard? The answer is already given: yes, and writers are present. And for the sirr that no one else will ever know, the intention in the heart, the same knowledge works the other way: a good intention kept quiet is known to Him as well, even if no one else ever learns of it.",
+            "bn": "এ থেকে একটা সহজ অভ্যাস বেরিয়ে আসে। একান্ত আলাপ যখন কোনো অনুপস্থিত মানুষের দিকে ঘুরতে থাকে, কিংবা এমন পরিকল্পনার দিকে যা দিনের আলোয় টিকবে না, তখন আয়াতের প্রশ্নটা নিজের দিকে ঘুরিয়ে জিজ্ঞেস করুন: আমি কি ভাবছি, এটা কেউ শুনছে না? জবাব আগেই দেওয়া আছে: অবশ্যই শুনছেন, আর লেখকেরাও হাজির। আর যে সির অন্য কেউ কখনো জানবে না, মনের সেই নিয়ত, সেখানে একই জ্ঞান উল্টো দিকেও কাজ করে। চুপচাপ রাখা ভালো নিয়তও তিনি জানেন, আর কেউ কোনো দিন না জানলেও।"
+          }
+        ]
+      }
+    ]
+  },
   "43:81": {
     "sections": [
       {

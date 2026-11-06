@@ -26869,6 +26869,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let the signs of the Hour settle doubt, not feed speculation: be certain that it is coming, and answer that certainty by following the straight path today.",
     "lessonBn": "কিয়ামতের আলামত যেন সন্দেহ দূর করে, জল্পনা না বাড়ায়। কিয়ামত আসছেই, এ ব্যাপারে নিশ্চিত থাকুন, আর সেই নিশ্চয়তার জবাব দিন আজই সরল পথে চলে।"
+  },
+  "43:80": {
+    "reflectionEn": "A few people talk in low voices, sure that what stays quiet stays theirs. The verse before asks whether they have settled on a plan; this one asks what they think about their whispers. Do they suppose that We do not hear their secret and their private talk? Yes, comes the answer, and Our messengers are with them, writing. Two things are named: the secret a person keeps inside, and the words passed quietly between a few. Neither is out of reach, and neither goes unrecorded. The verse speaks of deniers, yet it reaches me too. What do I say when I am sure no one is listening? What do I keep in my heart that I would never say aloud?",
+    "reflectionBn": "কয়েকজন মানুষ নিচু গলায় কথা বলছে। তাদের বিশ্বাস, যা চুপিচুপি বলা হয় তা তাদের নিজেদের মধ্যেই থেকে যায়। আগের আয়াত জিজ্ঞেস করেছিল, তারা কি কোনো পরিকল্পনা পাকা করে ফেলেছে? এ আয়াত জিজ্ঞেস করে, নিজেদের কানাকানি নিয়ে তারা কী ভাবে। তারা কি মনে করে, আমি তাদের গোপন কথা আর চুপিচুপি আলাপ শুনি না? জবাব আসে: অবশ্যই শুনি, আর আমার দূতেরা তাদের কাছেই থেকে লিখে চলেছে। দুটো জিনিসের নাম এসেছে। একটা মানুষের মনের ভেতরে রাখা গোপন কথা, আরেকটা কয়েকজনের মধ্যে নিচু স্বরে চালাচালি হওয়া কথা। কোনোটাই নাগালের বাইরে নয়, কোনোটাই লেখার বাইরে থাকে না। আয়াতটি অস্বীকারকারীদের কথা বলে, তবু আমার কাছেও এসে পৌঁছায়। কেউ শুনছে না বলে যখন নিশ্চিত থাকি, তখন আমি কী বলি? আর মনের ভেতরে কী রাখি, যা কখনো মুখে আনতাম না?",
+    "pointsEn": [
+      "What did I say this week in a low voice that I would not want to find written down?",
+      "When I am sure no one is listening, does my speech change, and in which direction?",
+      "Is there a secret in my heart, an intention or a grudge, that I treat as if it had no witness?",
+      "When a few of us gather privately, do we plan what is good, or what we would rather keep hidden?",
+      "How would my private hours look if I remembered, before I spoke, that they are being written?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে নিচু গলায় এমন কী বলেছি, যা লেখা অবস্থায় খুঁজে পেলে আমার ভালো লাগবে না?",
+      "কেউ শুনছে না বলে নিশ্চিত হলে আমার কথা কি বদলে যায়? বদলালে কোন দিকে?",
+      "মনের ভেতরে এমন কোনো গোপন নিয়ত বা ক্ষোভ কি আছে, যাকে আমি এমনভাবে রাখি যেন তার কোনো সাক্ষী নেই?",
+      "আমরা কয়েকজন আড়ালে একসঙ্গে বসলে কী নিয়ে পরামর্শ করি? ভালো কাজ নিয়ে, নাকি এমন কিছু নিয়ে যা লুকিয়ে রাখতে চাই?",
+      "কথা বলার আগে যদি মনে রাখতাম যে সব লেখা হচ্ছে, তাহলে আমার একান্ত সময়গুলো কেমন হতো?"
+    ],
+    "lessonEn": "Allah hears the secret you keep and the words you whisper, and His angels write; let what you say and plan in private be what you would say before Him.",
+    "lessonBn": "আপনার মনের গোপন কথা আর চুপিচুপি বলা কথা আল্লাহ শোনেন, তাঁর ফেরেশতারা লিখে রাখে। তাই আড়ালে যা বলেন আর যা পরিকল্পনা করেন, তা যেন তাঁর সামনে বলার মতো হয়।"
   }
 };
 
