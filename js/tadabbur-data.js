@@ -27149,6 +27149,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never answer your parents with contempt when they call you to Allah, and if you are a parent, keep calling and keep praying for a child who turns away.",
     "lessonBn": "মা-বাবা যখন আল্লাহর দিকে ডাকেন, অবজ্ঞা দিয়ে জবাব দেবেন না। আর আপনি মা-বাবা হলে, মুখ ফিরিয়ে নেওয়া সন্তানকে ডাকতে থাকুন, তার জন্য দোয়াও চালিয়ে যান।"
+  },
+  "46:29": {
+    "reflectionEn": "A few of the jinn are turned toward a man reciting, and the first thing they say to one another is a single word: ansitu, be silent. They had not come to argue or to bargain. They hushed each other, listened until the recitation was over, and then went back to their own people carrying what they had heard as a warning. The verse comes straight after a passage about people who were given hearing, sight and hearts that availed them nothing. These listeners stopped, and let the words in. When the Qur'an is recited near me, do I go quiet inside, or only on the outside? And when it ends, does anything of it travel home with me?",
+    "reflectionBn": "এক ব্যক্তি কুরআন পড়ছেন, আর জিনদের ছোট একটি দলকে তাঁর দিকে ফিরিয়ে আনা হলো। এসে তারা প্রথমে একে অন্যকে একটা কথাই বলল: আনসিতু, চুপ করো। তর্ক করতে বা দরদাম করতে তারা আসেনি। একে অন্যকে চুপ করিয়ে তারা শুনতে থাকল, পড়া শেষ হওয়া পর্যন্ত। তারপর যা শুনেছে তা সতর্কবাণী হিসেবে নিয়ে ফিরে গেল নিজেদের সম্প্রদায়ের কাছে। ঠিক আগের আয়াতগুলোতে এমন মানুষের কথা, যাদের কান, চোখ আর অন্তর দেওয়া হয়েছিল, অথচ কোনো কাজে আসেনি। আর এই শ্রোতারা থেমেছে, কথাগুলোকে ভেতরে ঢুকতে দিয়েছে। আমার পাশে যখন কুরআন পড়া হয়, আমি কি ভেতর থেকে চুপ হই, নাকি শুধু বাইরে থেকে? আর পড়া শেষ হলে তার কিছু কি আমার সঙ্গে ঘরে ফেরে?",
+    "pointsEn": [
+      "When I hear the Qur'an recited, in prayer or from a phone in the next room, what do I do first: fall silent, or carry on with what I was doing?",
+      "What keeps talking inside me while the verses are being read: worries, plans, or replies I am rehearsing to someone?",
+      "Who helps me say hush to myself when it matters, and for whom have I done the same?",
+      "From the last passage I heard recited, what did I carry home, and with whom did I share it?",
+      "Am I quicker to talk about the Qur'an than to sit and listen to it?"
+    ],
+    "pointsBn": [
+      "নামাজে হোক বা পাশের ঘরে কারও ফোনে, কুরআনের তিলাওয়াত কানে এলে আমি প্রথমে কী করি: চুপ হয়ে যাই, নাকি যা করছিলাম তা-ই চালিয়ে যাই?",
+      "আয়াত পড়া হওয়ার সময় আমার ভেতরে কী কথা বলতে থাকে: দুশ্চিন্তা, পরিকল্পনা, নাকি কাউকে দেওয়ার জন্য মনে মনে সাজানো জবাব?",
+      "দরকারের মুহূর্তে কে আমাকে নিজেকে চুপ করাতে সাহায্য করে? আর আমি কার জন্য সেই কাজটা করেছি?",
+      "শেষবার যে অংশটুকু তিলাওয়াত শুনেছি, তার কী আমি ঘরে নিয়ে ফিরেছি, আর কাকে তা জানিয়েছি?",
+      "কুরআন নিয়ে কথা বলায় আমি কি বেশি তৎপর, বসে মন দিয়ে শোনার চেয়ে?"
+    ],
+    "lessonEn": "When the Qur'an is recited, fall silent and listen with your whole attention, then carry what you heard home to your people as sincere counsel.",
+    "lessonBn": "কুরআন তিলাওয়াত হলে চুপ হয়ে পুরো মনোযোগ দিয়ে শুনুন, তারপর যা শুনলেন তা আন্তরিক নসিহত হিসেবে নিজের লোকদের কাছে পৌঁছে দিন।"
   }
 };
 

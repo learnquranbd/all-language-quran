@@ -1055,6 +1055,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "46:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Rebuke Framed as Memory",
+          "bn": "স্মরণের মোড়কে ভর্ৎসনা"
+        },
+        "p": [
+          {
+            "en": "Wa-idh sarafna ilayka: and when We turned toward you. The verse opens with the Qur'an's familiar call to remember, and at-Tabari reads it as a reproach: Allah is upbraiding the disbelievers of Quraysh for rejecting what the jinn believed in. Al-Qurtubi uses the word tawbikh, rebuke, and spells it out. The jinn heard the Qur'an, believed in it and knew it was from Allah, while you turn away and persist. The placement sharpens the point, since the verses just before speak of 'Ad, whose hearing, sight and hearts availed them nothing.",
+            "bn": "ওয়া ইয সারাফনা ইলাইকা: আর যখন আমি তোমার দিকে ফিরিয়ে দিলাম। কুরআনের চেনা ভঙ্গিতে আয়াতটি শুরু হয় স্মরণ করার ডাক দিয়ে। তাবারী একে পড়েন তিরস্কার হিসেবে। জিনেরা যার উপর ঈমান এনেছে, কুরাইশের কাফিরেরা তা অস্বীকার করেছে, আর আল্লাহ সেজন্য তাদের ভর্ৎসনা করছেন। কুরতুবী শব্দটিই বলে দেন: তাওবীখ, ধমক। জিনেরা কুরআন শুনল, ঈমান আনল, জানল যে এ আল্লাহর কাছ থেকে এসেছে, আর তোমরা মুখ ফিরিয়ে কুফরিতে অটল থাকলে। আয়াতের অবস্থানও কথাটাকে ধারালো করে। ঠিক আগের আয়াতগুলো আদ জাতির কথা বলে, যাদের কান, চোখ আর অন্তর কোনো কাজে আসেনি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the contrast for the people of Makkah: even the jinn, more proud than you, had their hearts softened on hearing the Qur'an, while you, given more sense, still refuse. As-Sa'di adds why the jinn had to hear at all. The Prophet ﷺ was sent to all creation, humans and jinn alike. Humans he could invite and warn himself; the jinn Allah turned to him by His own power. The reproach is aimed at those who rejected him then, and it licenses nothing against any person or community living now.",
+            "bn": "মাআরিফুল কুরআন মক্কাবাসীর সামনে তুলনাটা দাঁড় করায়। তোমাদের চেয়েও অহংকারী জিনদের অন্তর কুরআন শুনে নরম হয়ে গেল, অথচ বেশি বুদ্ধি পেয়েও তোমরা মানছ না। জিনদের শোনার দরকার কেন ছিল, সা'দী সে কথা যোগ করেন। নবী ﷺ প্রেরিত হয়েছিলেন সমস্ত সৃষ্টির কাছে, মানুষ ও জিন দুয়ের কাছেই। মানুষকে তিনি নিজেই দাওয়াত দিতে ও সতর্ক করতে পারতেন। আর জিনদের আল্লাহ নিজ কুদরতে তাঁর দিকে ফিরিয়ে আনলেন। এ তিরস্কার তখনকার অস্বীকারকারীদের প্রতি। আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Small Band, Turned Aside",
+          "bn": "ফিরিয়ে আনা ছোট্ট দল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi glosses sarafna as We directed and We sent, and links the word to another turning: the jinn had been turned away from stealing the news of the sky by shooting stars, which had not happened since 'Isa (AS) until the Prophet ﷺ was sent. At-Tabari reports from Sa'id ibn Jubayr that they were turned toward the Prophet ﷺ by that very event. They reasoned that what had happened in the sky was for something on earth, and went looking. The guarded sky itself is the subject of 72:8.",
+            "bn": "কুরতুবী সারাফনার অর্থ করেন: আমি অভিমুখী করলাম, পাঠালাম। শব্দটিকে তিনি জুড়ে দেন আরেকটি ফেরানোর সঙ্গে। উল্কার আঘাতে জিনদের আকাশের খবর চুরি করা থেকে ফিরিয়ে দেওয়া হয়েছিল। ঈসা (আঃ)-এর পর থেকে নবী ﷺ-এর আগমন পর্যন্ত এমনটা আর ঘটেনি। তাবারী সাঈদ ইবন জুবাইর থেকে বর্ণনা করেন, ঠিক এই ঘটনাই তাদের নবী ﷺ-এর দিকে নিয়ে আসে। তারা ভাবল, আকাশে যা ঘটেছে তার কারণ নিশ্চয়ই পৃথিবীতে ঘটা কিছু, তাই খুঁজতে বের হলো। পাহারা দেওয়া আকাশের প্রসঙ্গটি ৭২:৮ আয়াতের আলোচ্য বিষয়।"
+          },
+          {
+            "en": "Nafaran min al-jinn: a small band of the jinn. How many, the verse does not say, and at-Tabari records the difference. Ibn 'Abbas, through 'Ikrima, says seven, from the people of Nasibin, whom the Prophet ﷺ made messengers to their people; Zirr ibn Hubaysh says nine, one of them called Zawba'a. Al-Qurtubi adds views on where they came from: Qatada says Nineveh, Mujahid Harran, 'Ikrima the island of Mosul. Ibn Kathir, after listing counts from seven to twelve thousand, suggests the spread itself may show they came to him more than once.",
+            "bn": "নাফারাম মিনাল জিন: জিনদের ছোট একটি দল। সংখ্যা কত, আয়াত বলে না, আর তাবারী মতভেদটা লিখে রাখেন। ইকরিমার সূত্রে ইবন আব্বাস বলেন, তারা ছিল ৭ জন, নাসীবীনের অধিবাসী, নবী ﷺ তাদের নিজ সম্প্রদায়ের কাছে দূত বানিয়ে পাঠান। যির ইবন হুবাইশ বলেন ৯ জন, যাদের একজনের নাম যাওবাআ। তারা কোথা থেকে এসেছিল, সে নিয়ে কুরতুবী আরও কয়েকটি মত যোগ করেন। কাতাদা বলেন নিনেভা, মুজাহিদ বলেন হাররান, ইকরিমা বলেন মসুলের জাযীরা। ইবন কাসীর ৭ জন থেকে ১২ হাজার পর্যন্ত নানা সংখ্যা তুলে ধরে বলেন, এই ভিন্নতাই হয়তো প্রমাণ যে তারা একাধিকবার তাঁর কাছে এসেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Valley of Nakhlah",
+          "bn": "নাখলা উপত্যকার রাত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi both open with what they call the commentators' account, and al-Qurtubi names Ibn 'Abbas, Sa'id ibn Jubayr and Mujahid among them. After Abu Talib died, the Prophet ﷺ went alone to at-Ta'if to ask Thaqif for support, and was refused and mocked. On the way back to Makkah, at Batn Nakhlah, he stood in the night to pray, and a band of the jinn of Nasibin passed and listened. Al-Baghawi gives the Ta'if episode at length, through Ibn Ishaq from Muhammad ibn Ka'b al-Qurazi.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই শুরু করেন যাকে তাঁরা মুফাসসিরদের বর্ণনা বলেন, আর কুরতুবী তাঁদের মধ্যে ইবন আব্বাস, সাঈদ ইবন জুবাইর ও মুজাহিদের নাম নেন। আবু তালিবের মৃত্যুর পর নবী ﷺ একা তাইফে যান সাকীফ গোত্রের সাহায্য চাইতে। তারা ফিরিয়ে দেয়, উপহাসও করে। মক্কায় ফেরার পথে বাতনে নাখলায় তিনি রাতে নামাজে দাঁড়ান। তখন নাসীবীনের জিনদের একটি দল পাশ দিয়ে যাচ্ছিল, তারা থেমে শুনতে লাগল। তাইফের ঘটনা বাগাভী বিস্তারিত আনেন, ইবন ইসহাকের সূত্রে মুহাম্মাদ ইবন কা'ব আল-কুরাযী থেকে।"
+          },
+          {
+            "en": "Ibn Kathir accepts the report that the Prophet ﷺ spent that night at Nakhlah reciting, but finds the claim that the jinn listened on that night open to question. Their listening, he argues, came at the very beginning of revelation, as Ibn 'Abbas's report shows, while the Ta'if journey followed his uncle's death, a year or two before the Hijra. So the commentators place the event differently: al-Qurtubi and al-Baghawi on the road back from at-Ta'if, Ibn Kathir near the start of the mission. Both placements are left standing here.",
+            "bn": "ইবন কাসীর মেনে নেন যে নবী ﷺ সেই রাত নাখলায় কাটিয়েছিলেন এবং কুরআন পড়েছিলেন। কিন্তু জিনেরা যে সেই রাতেই শুনেছিল, এ দাবিকে তিনি প্রশ্নসাপেক্ষ বলেন। তাঁর যুক্তি, ইবন আব্বাসের বর্ণনা দেখায় জিনদের শোনা ছিল ওহীর একেবারে শুরুর দিকে। আর তাইফ সফর হয়েছিল চাচার মৃত্যুর পর, হিজরতের এক-দুই বছর আগে। তাই ঘটনার সময় নিয়ে মুফাসসিরদের মত আলাদা। কুরতুবী ও বাগাভী একে রাখেন তাইফ থেকে ফেরার পথে, ইবন কাসীর রাখেন নবুওয়াতের শুরুর কাছাকাছি। দুটি মতই এখানে পাশাপাশি রইল।"
+          },
+          {
+            "en": "Even the prayer differs. Ibn 'Abbas's report in Sahih Muslim has the Prophet ﷺ heading with some companions toward the market of 'Ukaz and leading them in the dawn prayer at Nakhl, on the way. Ibn Kathir also records, from Imam Ahmad, a report of az-Zubayr placing it at Nakhlah during the 'Isha prayer, and notes that Ahmad alone recorded it. Al-Qurtubi's own entry first speaks of a night prayer and later of the Fajr. What these accounts share is the valley of Nakhlah and a Prophet standing in prayer, reciting.",
+            "bn": "নামাজটা কোন ওয়াক্তের, তা নিয়েও ভিন্নতা আছে। সহীহ মুসলিমে ইবন আব্বাসের বর্ণনায় নবী ﷺ কয়েকজন সাহাবিকে নিয়ে উকাযের বাজারের দিকে যাচ্ছিলেন, আর পথে নাখলে তাঁদের নিয়ে ফজরের নামাজ পড়ছিলেন। ইবন কাসীর ইমাম আহমাদ থেকে যুবাইরের একটি বর্ণনাও আনেন, যাতে ঘটনাটি নাখলায় ইশার নামাজের সময়। তিনি জানিয়ে দেন, এটি শুধু আহমাদই বর্ণনা করেছেন। কুরতুবীর নিজের আলোচনায় প্রথমে রাতের নামাজের কথা, পরে ফজরের। এসব বর্ণনার মিল দুই জায়গায়: নাখলা উপত্যকা, আর নামাজে দাঁড়িয়ে কুরআন পড়তে থাকা নবী ﷺ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Neither Recited Nor Saw",
+          "bn": "তিনি পড়েও শোনাননি, দেখেনওনি"
+        },
+        "p": [
+          {
+            "en": "Sahih Muslim 449 opens with a sentence from Ibn 'Abbas (RA) that bears directly on this verse: “The Messenger of Allah (ﷺ) neither recited the Qur'an to the Jinn nor did he see them.” The report then tells of the sky barred to the devils and their search east and west, the story already quoted in full from al-Bukhari under 72:8 and not retold here. Muslim placed it in his Sahih, and that placement is his grading. For this verse its weight lies in that first line.",
+            "bn": "সহীহ মুসলিম ৪৪৯ শুরু হয় ইবন আব্বাস (রাঃ)-এর এমন একটি বাক্য দিয়ে, যা সরাসরি এ আয়াতের সঙ্গে যুক্ত: “রাসূলুল্লাহ ﷺ জিনদের কুরআন পড়ে শোনাননি, তাদের দেখেনওনি।” এরপর বর্ণনাটি বলে শয়তানদের জন্য আকাশ বন্ধ হয়ে যাওয়া আর পূর্ব-পশ্চিমে তাদের খোঁজাখুঁজির কথা। সে কাহিনি বুখারী থেকে পুরোটা ৭২:৮ আয়াতের আলোচনায় এসেছে, এখানে আর বলা হলো না। মুসলিম একে নিজের সহীহ গ্রন্থে রেখেছেন, সেটাই তাঁর মূল্যায়ন। এ আয়াতের জন্য বর্ণনাটির ওজন ওই প্রথম বাক্যেই।"
+          },
+          {
+            "en": "At-Tabari carries the same point from Ibn 'Abbas by another chain: the Prophet ﷺ did not know they had listened to him as he recited. Ibn Kathir adds al-Hasan al-Basri: he was not aware of their affair until Allah sent down to him the news of them. On this reading the listening ran one way. The jinn heard a man at prayer who did not know they were there, and he learned of them by revelation, which is how Surat al-Jinn opens in 72:1: say, it has been revealed to me that a band of the jinn listened.",
+            "bn": "তাবারী ভিন্ন সনদে ইবন আব্বাস থেকে একই কথা আনেন: নবী ﷺ কুরআন পড়ার সময় জানতেন না যে তারা শুনছে। ইবন কাসীর যোগ করেন হাসান বাসরীর কথা: আল্লাহ তাদের খবর নাজিল করার আগ পর্যন্ত তিনি তাদের ব্যাপারে টের পাননি। এই পাঠে শোনাটা ছিল একতরফা। নামাজরত এক ব্যক্তির তিলাওয়াত জিনেরা শুনল, তিনি জানতেনও না তারা আছে। পরে ওহীর মাধ্যমে তিনি তাদের কথা জানলেন। সূরা জিন ৭২:১ আয়াতে ঠিক এভাবেই শুরু হয়: বলো, আমার কাছে ওহী এসেছে যে জিনদের একটি দল মনোযোগ দিয়ে শুনেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Night He Was Missed",
+          "bn": "যে রাতে তাঁকে পাওয়া যায়নি"
+        },
+        "p": [
+          {
+            "en": "A second report in Sahih Muslim, 450, comes from Ibn Mas'ud (RA), and it is quoted here whole: “Dawud reported from 'Amir who said: I asked 'Alqama if Ibn Mas'ud was present with the Messenger of Allah (ﷺ) on the night of the Jinn (the night when the Prophet met them). He (Ibn Mas'ud) said: No, but we were in the company of the Messenger of Allah (ﷺ) one night and we missed him. We searched for him in the valleys and the hills and said: He has either been taken away (by jinn) or has been secretly killed.",
+            "bn": "সহীহ মুসলিমের দ্বিতীয় একটি বর্ণনা, ৪৫০, এসেছে ইবন মাসঊদ (রাঃ) থেকে। এখানে তার পুরোটা দেওয়া হলো: “দাউদ আমির থেকে বর্ণনা করেন, তিনি বলেন: আমি আলকামাকে জিজ্ঞেস করলাম, জিনের রাতে (যে রাতে নবী ﷺ তাদের সঙ্গে সাক্ষাৎ করেন) ইবন মাসঊদ কি রাসূলুল্লাহ ﷺ-এর সঙ্গে ছিলেন? তিনি (ইবন মাসঊদ) বললেন: না। তবে এক রাতে আমরা রাসূলুল্লাহ ﷺ-এর সঙ্গে ছিলাম, হঠাৎ তাঁকে আর পেলাম না। উপত্যকায় আর পাহাড়ি গিরিপথে তাঁকে খুঁজলাম। বললাম: হয় (জিনেরা) তাঁকে উড়িয়ে নিয়ে গেছে, নয়তো গোপনে হত্যা করা হয়েছে।"
+          },
+          {
+            "en": "“We spent the worst night which people could ever spend. When it was dawn we saw him coming from the side of Hira'. We said: Messenger of Allah, we missed you and searched for you, but we could not find you and we spent the worst night which people could ever spend. He (the Holy Prophet) said: There came to me an inviter on behalf of the Jinn and I went along with him and recited to them the Qur'an. He then went along with us and showed us their traces and traces of their embers.",
+            "bn": "“মানুষ যত খারাপ রাত কাটাতে পারে, আমরা তার মধ্যে সবচেয়ে খারাপ রাতটি কাটালাম। ভোর হলে দেখি তিনি হেরার দিক থেকে আসছেন। আমরা বললাম: হে আল্লাহর রাসূল, আপনাকে না পেয়ে আমরা খুঁজেছি, কিন্তু পাইনি, আর মানুষ যত খারাপ রাত কাটাতে পারে, তার মধ্যে সবচেয়ে খারাপ রাতটি কাটিয়েছি। তিনি বললেন: জিনদের পক্ষ থেকে এক আহ্বানকারী আমার কাছে এসেছিল। আমি তার সঙ্গে গেলাম এবং তাদের কুরআন পড়ে শোনালাম। এরপর তিনি আমাদের সঙ্গে নিয়ে গিয়ে তাদের চিহ্ন আর তাদের আগুনের চিহ্ন দেখালেন।"
+          },
+          {
+            "en": "“They (the Jinn) asked him (the Holy Prophet) about their provision and he said: Every bone on which the name of Allah is recited is your provision. The time it will fall in your hand it would be covered with flesh, and the dung of (the camels) is fodder for your animals. The Messenger of Allah (ﷺ) said: Don't perform istinja with these (things) for these are the food of your brothers (Jinn).” Muslim placed it in his Sahih. Here, the Prophet ﷺ went deliberately, at an inviter's call, and recited.",
+            "bn": "“তারা (জিনেরা) তাঁর কাছে নিজেদের খাবারের কথা জিজ্ঞেস করল। তিনি বললেন: যে হাড়ের উপর আল্লাহর নাম নেওয়া হয়েছে, তা তোমাদের খাবার। তোমাদের হাতে পড়ামাত্র তা গোশতে ভরে যাবে। আর (উটের) গোবর তোমাদের পশুর খাদ্য। রাসূলুল্লাহ ﷺ বললেন: এগুলো দিয়ে ইসতিনজা কোরো না, কারণ এ তোমাদের (জিন) ভাইদের খাবার।” মুসলিম একে তাঁর সহীহ গ্রন্থে রেখেছেন। এখানে নবী ﷺ এক আহ্বানকারীর ডাকে জেনে-বুঝে গিয়েছিলেন এবং কুরআন পড়ে শুনিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Occasions, Not One",
+          "bn": "একটি নয়, দুটি ঘটনা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari sets out the disagreement without settling it. On how they came, some said they came to learn what had changed in the sky, the Prophet ﷺ unaware of them, as from Ibn 'Abbas and al-Hasan; others said he was commanded to recite to them and they were gathered for him, as Qatada reports. On where, Ibn Mas'ud said al-Hajun in Makkah, others Nakhlah. He also notes that Ibn 'Abbas's report of the Prophet ﷺ making the seven messengers cannot sit with his report that he did not know of them, unless he learned of them before they left, and that is not in the report.",
+            "bn": "তাবারী মতভেদটা সাজিয়ে দেন, মীমাংসা করেন না। তারা কীভাবে এসেছিল? কেউ বলেন, আকাশে কী বদলাল তা জানতে এসেছিল, নবী ﷺ টেরও পাননি, যেমন ইবন আব্বাস ও হাসান থেকে বর্ণিত। অন্যরা বলেন, তাঁকে তাদের কুরআন শোনানোর আদেশ দেওয়া হয়েছিল এবং তাদের তাঁর জন্য জড়ো করা হয়েছিল, যেমন কাতাদা বর্ণনা করেন। কোথায়? ইবন মাসঊদ বলেন মক্কার হাজূনে, অন্যরা বলেন নাখলায়। তাবারী আরও দেখান, নবী ﷺ ৭ জনকে দূত বানিয়েছিলেন, ইবন আব্বাসের এ বর্ণনা তাঁরই আরেক বর্ণনার সঙ্গে মেলে না, যেখানে নবী ﷺ তাদের কথা জানতেন না। মেলে কেবল যদি তারা ফিরে যাওয়ার আগে তিনি জেনে থাকেন, কিন্তু বর্ণনাটিতে সে কথা নেই।"
+          },
+          {
+            "en": "Ibn Kathir reads that pair as Ibn 'Abbas narrating both stories, and offers the reconciliation: perhaps the first time they heard him without his perceiving them, as Ibn 'Abbas said, and afterwards came to him, as Ibn Mas'ud narrated. He also allows that the Prophet ﷺ went out alone the first time and with Ibn Mas'ud on a later night. Al-Qurtubi concludes that, on this reckoning, the night of the jinn was two nights. Ma'arif al-Qur'an says the narrations describe different incidents at different times, so they do not contradict each other.",
+            "bn": "ইবন কাসীর এই দুই বর্ণনাকে দেখেন এভাবে যে ইবন আব্বাস দুটি ঘটনাই বর্ণনা করেছেন। তিনি সমন্বয়ের পথও দেখান: হয়তো প্রথমবার জিনেরা তাঁর অজান্তে তাঁর তিলাওয়াত শুনেছিল, যেমন ইবন আব্বাস বলেন। পরে তারা দল বেঁধে তাঁর কাছে এসেছিল, যেমন ইবন মাসঊদ বর্ণনা করেন। তিনি এ সম্ভাবনাও রাখেন যে প্রথমবার নবী ﷺ একাই গিয়েছিলেন, আর পরের কোনো রাতে ইবন মাসঊদ সঙ্গে ছিলেন। কুরতুবীর সিদ্ধান্ত, এ হিসাবে জিনের রাত ছিল দুটি। মাআরিফুল কুরআন বলে, বর্ণনাগুলো ভিন্ন ভিন্ন সময়ের ভিন্ন ঘটনার, তাই এগুলোর মধ্যে কোনো বিরোধ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hush, They Told One Another",
+          "bn": "একে অন্যকে বলল: চুপ"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma hadaruhu: and when they attended it. Al-Qurtubi gives two readings of the pronoun: they came into the Prophet's presence, or they came to the Qur'an and the hearing of it. Qalu ansitu: they said, be silent. At-Tabari and the Muyassar take it as one saying to another, be quiet so that we may hear the Qur'an. Zirr ibn Hubaysh, in at-Tabari, gives the word they used: sah, hush. Ibn Kathir records the same word from Ibn Mas'ud.",
+            "bn": "ফালাম্মা হাদারূহু: যখন তারা সেখানে উপস্থিত হলো। সর্বনামটির দুটি অর্থ কুরতুবী উল্লেখ করেন। তারা নবী ﷺ-এর কাছে উপস্থিত হলো, অথবা কুরআন আর তা শোনার কাছে উপস্থিত হলো। কালূ আনসিতূ: তারা বলল, চুপ করো। তাবারী ও মুয়াসসার বলেন, তারা একে অন্যকে বলল: চুপ থাকো, যাতে আমরা কুরআন শুনতে পারি। তাবারীর বর্ণনায় যির ইবন হুবাইশ তাদের মুখের শব্দটাই জানিয়ে দেন: সাহ, অর্থাৎ চুপ! ইবন কাসীর একই শব্দ ইবন মাসঊদ থেকে আনেন।"
+          },
+          {
+            "en": "At-Tabari quotes Qatada's comment: the group knew they would not understand until they fell silent. Al-Baghawi has them say, be quiet, so that nothing comes between us and the listening; they were so eager, he adds, that they nearly fell on top of each other. The verse records no question put to the reciter and no objection raised. The first word it reports from these listeners is an instruction they gave themselves.",
+            "bn": "তাবারী কাতাদার মন্তব্য উদ্ধৃত করেন: দলটি জানত, চুপ না করলে তারা কিছুই বুঝবে না। বাগাভীর বর্ণনায় তারা বলে, চুপ করো, যাতে আমাদের আর শোনার মাঝে কিছুই আড়াল না হয়। তিনি যোগ করেন, আগ্রহের চোটে তারা প্রায় একে অন্যের উপর পড়ে যাচ্ছিল। তিলাওয়াতকারীর কাছে কোনো প্রশ্ন, কোনো আপত্তি, আয়াতে কিছুই নেই। এই শ্রোতাদের মুখ থেকে আয়াত প্রথম যে কথা জানায়, তা নিজেদের প্রতি নিজেদেরই নির্দেশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Finished, Then Homeward",
+          "bn": "পড়া শেষে ঘরের পথে"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma qudiya: and when it was finished. At-Tabari explains it as the Prophet ﷺ finishing his reading and recitation, and records from Ibn 'Abbas, by another chain, that it means when he finished the prayer. Al-Qurtubi notes a reading qada, in the active voice, with the Prophet ﷺ as its subject. Wallaw ila qawmihim mundhirin: they turned back to their people as warners. At-Tabari explains it as warning them of Allah's punishment for disbelieving in Him.",
+            "bn": "ফালাম্মা কুদিয়া: যখন শেষ হলো। তাবারী এর ব্যাখ্যা দেন, নবী ﷺ যখন পড়া ও তিলাওয়াত শেষ করলেন। ভিন্ন সনদে ইবন আব্বাস থেকে তিনি আনেন, এর অর্থ যখন তিনি নামাজ শেষ করলেন। কুরতুবী একটি কিরাআতের কথা জানান, কাদা, কর্তৃবাচ্যে, যার কর্তা নবী ﷺ। ওয়াল্লাও ইলা কাওমিহিম মুনযিরীন: তারা নিজেদের সম্প্রদায়ের কাছে সতর্ককারী হয়ে ফিরে গেল। তাবারীর ব্যাখ্যায়, আল্লাহকে অস্বীকার করলে তাঁর আযাব আসবে, এই বলে তারা সতর্ক করছিল।"
+          },
+          {
+            "en": "As-Sa'di says they had taken it in and it had marked them, so they went out of sincere counsel for their people and to establish Allah's proof over them, and Allah appointed them as a help to His Messenger in spreading his call among the jinn. Al-Baghawi has them warning by the Messenger's command. Al-Qurtubi reads 46:31, respond to the caller of Allah and believe in him, as proof that they believed, for otherwise they would not have warned. What they said fills 46:30 to 46:32.",
+            "bn": "সা'দী বলেন, তারা কথাগুলো আত্মস্থ করেছিল, আর তা তাদের মনে দাগ কেটেছিল। তাই নিজেদের লোকদের প্রতি আন্তরিক কল্যাণকামনা থেকে এবং তাদের উপর আল্লাহর হুজ্জত কায়েম করতে তারা ফিরে গেল। আল্লাহ তাদের নিযুক্ত করলেন জিনদের মধ্যে রাসূলের দাওয়াত ছড়ানোর কাজে তাঁর সহায়ক হিসেবে। বাগাভীর মতে তারা সতর্ক করছিল রাসূলের নির্দেশে। কুরতুবী ৪৬:৩১ আয়াতকে প্রমাণ হিসেবে নেন যে তারা ঈমান এনেছিল: আল্লাহর আহ্বানকারীর ডাকে সাড়া দাও, তাঁর প্রতি ঈমান আনো। ঈমান না আনলে তারা সতর্ক করত না। তারা কী বলেছিল, তা আছে ৪৬:৩০ থেকে ৪৬:৩২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silence Before Understanding",
+          "bn": "বোঝার আগে নীরবতা"
+        },
+        "p": [
+          {
+            "en": "The lesson here rests on what the verse says, not on what is unknown about the jinn. Listeners who had come for another reason heard the Qur'an, and the first thing they did was quiet each other. Qatada's line gives the reason: there was no understanding until there was silence. Listening in this verse is chosen and kept, even enforced among companions. It is not a sound passing somewhere in the background while the mind is elsewhere.",
+            "bn": "এখানকার শিক্ষা দাঁড়িয়ে আছে আয়াতে যা বলা আছে তার উপর, জিনদের সম্পর্কে যা অজানা তার উপর নয়। অন্য কারণে আসা কিছু শ্রোতা কুরআন শুনল, আর প্রথমেই তারা একে অন্যকে চুপ করাল। কারণটা কাতাদার কথায় আছে: চুপ না হওয়া পর্যন্ত বোঝা আসে না। এ আয়াতে শোনা মানে বেছে নেওয়া আর ধরে রাখা মনোযোগ, সঙ্গীদের মধ্যে একে অন্যকে মনে করিয়ে দিয়ে। মন অন্য কোথাও রেখে পেছনে বাজতে থাকা কোনো আওয়াজ এ শোনা নয়।"
+          },
+          {
+            "en": "Recitation surrounds many of us now, in prayer, in cars, from phones left playing. The verse's order is plain: come near, fall quiet, hear it through to the end, then carry it home as sincere counsel and not as a weapon. The passage before it shows the other path, with hearing, sight and hearts given and left unused. What separated the two was what each listener did with a moment of silence.",
+            "bn": "তিলাওয়াত এখন আমাদের অনেকের চারপাশেই বাজে: নামাজে, গাড়িতে, চালু রেখে দেওয়া ফোনে। আয়াতের ধাপগুলো সহজ। কাছে আসুন, চুপ হোন, শেষ পর্যন্ত শুনুন। তারপর যা শুনলেন তা আন্তরিক নসিহত হিসেবে ঘরে নিয়ে যান, অস্ত্র হিসেবে নয়। আগের আয়াতগুলো অন্য পথটাও দেখায়: কান, চোখ আর অন্তর পেয়েও কাজে না লাগানো। দুই পথের তফাত গড়ে দিল একটিই জিনিস, নীরবতার এক মুহূর্তকে কে কীভাবে কাজে লাগাল।"
+          }
+        ]
+      }
+    ]
+  },
   "46:35": {
     "sections": [
       {
