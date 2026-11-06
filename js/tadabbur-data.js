@@ -24231,6 +24231,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Turning from God's reminders hardens into denial, and what is mocked returns as news. Meet each reminder as new, and use the time before any consequence to turn back.",
     "lessonBn": "আল্লাহর উপদেশ থেকে মুখ ফেরানো একসময় অস্বীকারে জমে যায়, আর বিদ্রূপের জিনিস খবর হয়ে ফেরে। প্রতিটি উপদেশকে নতুন করে গ্রহণ করুন, আর পরিণাম আসার আগের সময়টুকু ফিরে আসার কাজে লাগান।"
+  },
+  "26:28": {
+    "reflectionEn": "Pharaoh has run out of answers, so he calls the messenger mad. Musa does not reply in kind. He points to something everyone in that hall had seen that morning and would see again by evening: the sun coming up in the east and going down in the west, and all that lies between. That, he says, is his Lord. Then he turns the charge around with a single quiet condition: if you would only use your reason. The man accused of losing his mind is the one asking the court to think. Every sunrise still makes that argument, where no one can miss it. When I am mocked for something true, do I answer with heat, or with plain evidence and an invitation to think?",
+    "reflectionBn": "ফেরাউনের হাতে আর কোনো জবাব নেই, তাই সে রাসূলকে পাগল বলে বসল। মূসা (আঃ) পাল্টা গালি দিলেন না। তিনি দেখালেন এমন জিনিস, যা দরবারের সবাই সেদিন সকালে দেখেছে, সন্ধ্যায় আবার দেখবে: পূর্বে সূর্যের ওঠা, পশ্চিমে ডোবা, আর এ দুয়ের মাঝে যা কিছু আছে। বললেন, তিনিই আমার রব। তারপর ছোট্ট একটা শর্ত জুড়ে অভিযোগটা তাদের দিকেই ফিরিয়ে দিলেন: যদি তোমাদের বুদ্ধি থাকে। যাকে বলা হলো পাগল, দরবারকে ভেবে দেখতে বলছেন তিনিই। প্রতিটি সূর্যোদয় আজও সেই যুক্তি সবার চোখের সামনে মেলে ধরে। সত্য কথার জন্য কেউ আমাকে ঠাট্টা করলে আমি কি রাগ দিয়ে জবাব দিই, নাকি পরিষ্কার প্রমাণ দেখিয়ে তাকে ভেবে দেখতে ডাকি?",
+    "pointsEn": [
+      "When did I last watch a sunrise or a sunset and let it point me to the One who keeps its order?",
+      "When someone mocks me for a truth I hold, is my first reply an insult or an argument?",
+      "Which of my convictions would I quietly drop if the people around me laughed at it?",
+      "Is there a question on which I have stopped using my own reason because the powerful or the crowd have already decided it?",
+      "Whatever authority I hold has an edge; where does mine end, and do I act as if it did not?"
+    ],
+    "pointsBn": [
+      "শেষ কবে সূর্যোদয় বা সূর্যাস্ত দেখে মনটাকে সেই সত্তার দিকে যেতে দিয়েছি, যিনি এর নিয়ম ধরে রেখেছেন?",
+      "আমার বিশ্বাসের কোনো সত্য নিয়ে কেউ ঠাট্টা করলে আমার প্রথম জবাবটা কী হয়, গালি না যুক্তি?",
+      "আশপাশের লোকেরা হাসলে আমার কোন বিশ্বাসটা আমি চুপচাপ ছেড়ে দেব?",
+      "এমন কোনো প্রশ্ন কি আছে, যেখানে ক্ষমতাবানরা বা ভিড় আগেই রায় দিয়ে দিয়েছে বলে আমি নিজের বুদ্ধি খাটানো বন্ধ করে দিয়েছি?",
+      "আমার হাতে যে কর্তৃত্বই থাকুক, তার একটা সীমা আছে। আমারটা কোথায় শেষ হয়, আর আমি কি এমন আচরণ করি যেন তা শেষই হয় না?"
+    ],
+    "lessonEn": "When you are mocked for the truth, answer with plain evidence and a call to think, not insult; every sunrise and sunset already points to its Lord.",
+    "lessonBn": "সত্যের জন্য ঠাট্টার শিকার হলে গালি নয়, পরিষ্কার প্রমাণ আর ভেবে দেখার আহ্বান দিয়ে জবাব দিন; প্রতিটি সূর্যোদয় আর সূর্যাস্ত আগেই তার রবের দিকে ইশারা করছে।"
   }
 };
 

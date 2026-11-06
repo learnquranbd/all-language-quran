@@ -887,6 +887,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Reply to 'Mad'",
+          "bn": "পাগল বলার জবাব"
+        },
+        "p": [
+          {
+            "en": "The exchange began with a question meant as a dismissal. Pharaoh asked, 'And what is the Lord of the worlds?' (26:23), and Musa (AS) answered: the Lord of the heavens and the earth and all between them, if you would be certain (26:24). Pharaoh turned to those around him: 'Do you not hear?' (26:25). Musa answered again, naming their Lord and their forefathers' Lord (26:26). Then Pharaoh moved from God to the man: 'Your messenger who has been sent to you is mad' (26:27). This verse is the reply.",
+            "bn": "কথোপকথনের শুরুটাই ছিল তাচ্ছিল্যের প্রশ্ন দিয়ে। ফেরাউন জিজ্ঞেস করল, ‘বিশ্বজগতের প্রতিপালক আবার কী?’ (২৬:২৩)। মূসা (আঃ) জবাব দিলেন: তিনি আসমান, যমীন আর এ দুয়ের মাঝের সবকিছুর রব, যদি তোমরা নিশ্চিত বিশ্বাস করতে চাও (২৬:২৪)। ফেরাউন চারপাশের লোকদের দিকে ফিরে বলল, ‘তোমরা শুনছ তো?’ (২৬:২৫)। মূসা (আঃ) আবার জবাব দিলেন, তাদের রব আর তাদের পূর্বপুরুষদের রবের কথা বলে (২৬:২৬)। এবার ফেরাউন আল্লাহর প্রসঙ্গ ছেড়ে মানুষটাকে ধরল: ‘তোমাদের কাছে পাঠানো তোমাদের এই রাসূল তো পাগল’ (২৬:২৭)। এ আয়াত তারই জবাব।"
+          },
+          {
+            "en": "Ibn Kathir names who this reply was for. Musa spoke, he says, to those into whom Pharaoh had planted his doubt; the abridged English renders it 'those in whose hearts Fir'awn had planted doubts.' So the answer is not aimed at the king alone. It is aimed at the court he was trying to win with a sneer, and it gives them something to look at instead of someone to laugh at: rabbu al-mashriqi wa-l-maghribi wa-ma baynahuma, the Lord of the east and the west and all between them.",
+            "bn": "জবাবটা কাদের উদ্দেশে, ইবন কাসীর তা বলে দেন। তাঁর ভাষায়, মূসা (আঃ) কথা বলছিলেন তাদের সঙ্গে, যাদের মনে ফেরাউন নিজের সন্দেহ ঢুকিয়ে দিয়েছিল। ইংরেজি সংক্ষিপ্ত সংস্করণেও আছে, যাদের অন্তরে ফেরাউন সন্দেহ বুনে দিয়েছিল। তাই জবাবের লক্ষ্য শুধু রাজা নয়। লক্ষ্য সেই দরবার, যাকে সে বিদ্রূপ দিয়ে নিজের দিকে টানতে চাইছিল। হাসির পাত্র না দিয়ে মূসা (আঃ) তাদের সামনে রাখলেন দেখার মতো কিছু: রাব্বুল মাশরিকি ওয়াল মাগরিবি ওয়া মা বাইনাহুমা, পূর্ব ও পশ্চিম আর এ দুয়ের মাঝের সবকিছুর রব।"
+          },
+          {
+            "en": "Set beside his first answer, the shape is plain in the Arabic. Both answers name a pair and then add wa-ma baynahuma, and all that lies between them. Both close on a condition. The first was in kuntum muqinin, if you would be certain; this one is in kuntum ta'qilun, if you would use your reason. Pharaoh had just questioned Musa's sanity, and the reply ends by asking about the court's. What the commentators make of that ending is taken up below.",
+            "bn": "প্রথম জবাবের পাশে রাখলে আরবিতে গড়নটা পরিষ্কার চোখে পড়ে। দুই জবাবেই একটা জোড়ার নাম, তারপর ওয়া মা বাইনাহুমা, আর এ দুয়ের মাঝে যা আছে। দুটোই শেষ হয় একটা শর্তে। প্রথমটা ছিল ইন কুনতুম মূকিনীন, যদি তোমরা নিশ্চিত হতে চাও। এটা ইন কুনতুম তা'কিলূন, যদি তোমাদের বুদ্ধি থাকে। ফেরাউন এইমাত্র মূসা (আঃ)-এর মাথা ঠিক আছে কি না প্রশ্ন তুলেছে, আর জবাব শেষ হচ্ছে দরবারের বুদ্ধির প্রশ্ন দিয়ে। এই শেষ কথাটা নিয়ে তাফসীরকারেরা কী বলেন, তা সামনে আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Stars Come Up",
+          "bn": "যেখানে তারারা ওঠে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains the east and the west through what moves across them. He it is who made the east a place of rising, from which the heavenly bodies come up, and the west a place of setting, into which they go down, fixed stars and planets alike, together with the order to which He has subjected them and by which He has measured them. In this reading the east and the west are the ends of a motion nobody in that hall had arranged.",
+            "bn": "পূর্ব আর পশ্চিমকে ইবন কাসীর ব্যাখ্যা করেন সেগুলোর ওপর দিয়ে যা চলাচল করে তা দিয়ে। তিনিই পূর্বকে বানিয়েছেন উদয়ের জায়গা, যেখান থেকে আকাশের জ্যোতিষ্কগুলো ওঠে। আর পশ্চিমকে বানিয়েছেন অস্তের জায়গা, যেখানে সেগুলো ডুবে যায়। স্থির তারা আর চলমান গ্রহ, সবই এর মধ্যে পড়ে। সঙ্গে আছে সেই নিয়ম, যার অধীনে তিনি এদের বেঁধে দিয়েছেন আর মেপে ঠিক করে দিয়েছেন। এ ব্যাখ্যায় পূর্ব আর পশ্চিম হলো এমন চলমান ধারার প্রান্ত, যার ব্যবস্থা দরবারের কেউ করেনি।"
+          },
+          {
+            "en": "At-Tabari reads the phrase as ownership of the sun's path: He to whose worship I call you and Pharaoh is the owner of the sun's rising and its setting and of whatever lies between them. Al-Muyassar widens what lies between: the east and the west and what is between them, and what comes to be in them of light and darkness. Light and darkness are the stuff of every day lived in Egypt. The proof is not hidden in a scroll; it crosses the sky over the king's own palace.",
+            "bn": "তাবারী বাক্যটিকে পড়েন সূর্যের পথের মালিকানা হিসেবে। যাঁর ইবাদতের দিকে আমি তোমাদের আর ফেরাউনকে ডাকছি, তিনি সূর্যের ওঠা আর ডোবার মালিক, আর এ দুয়ের মাঝে যা আছে তারও। মুয়াসসার মাঝের অংশটাকে আরও ছড়িয়ে দেয়: পূর্ব, পশ্চিম আর এ দুয়ের মাঝের সবকিছু, সঙ্গে এগুলোতে যত আলো আর অন্ধকার জন্ম নেয়। মিসরে কাটানো প্রতিটি দিনই তো আলো আর অন্ধকারে গড়া। প্রমাণটা কোনো পুঁথিতে লুকানো নেই, রাজার নিজের প্রাসাদের মাথার ওপর দিয়েই তা আকাশ পার হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then Let Him Reverse It",
+          "bn": "পারলে উল্টে দেখাক"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws a challenge out of the verse. If the one who claims to be your lord and your god is telling the truth, he writes, then let him reverse the matter: let him make the east a west and the west an east. The argument does not ask Pharaoh to admit anything. It asks him to do something. A lord over the east and the west would govern which is which. A king who cannot move the sunrise has, by that test, no claim to the title.",
+            "bn": "ইবন কাসীর আয়াত থেকে একটা চ্যালেঞ্জ বের করে আনেন। তিনি লেখেন, যে নিজেকে তোমাদের রব আর ইলাহ বলে দাবি করে, সে যদি সত্যবাদী হয়, তবে ব্যাপারটা উল্টে দিক। পূর্বকে পশ্চিম বানাক, পশ্চিমকে পূর্ব। এ যুক্তি ফেরাউনকে কিছু মেনে নিতে বলে না, কিছু করে দেখাতে বলে। পূর্ব-পশ্চিমের যিনি রব, কোনটা পূর্ব আর কোনটা পশ্চিম, সেটাও তাঁরই হাতে। যে রাজা সূর্যোদয়ের জায়গা নড়াতে পারে না, এই পরীক্ষায় রব উপাধিতে তার কোনো দাবি টেকে না।"
+          },
+          {
+            "en": "Ibn Kathir then makes the link to Ibrahim (AS), introducing it with 'as Allah tells about'. He quotes 2:258: the man who disputed with Ibrahim about his Lord, because Allah had given him kingship. Ibrahim said, 'My Lord is the One who gives life and causes death'; the king said, 'I give life and cause death.' Ibrahim said, 'Allah brings the sun from the east, so bring it from the west,' and the one who disbelieved was dumbfounded. Another king, the same sun, and the same test.",
+            "bn": "এরপর ইবন কাসীর যোগসূত্র টানেন ইবরাহীম (আঃ)-এর সঙ্গে, ‘যেমনটা আল্লাহ জানিয়েছেন’ বলে। তিনি ২:২৫৮ উদ্ধৃত করেন। আল্লাহ যাকে রাজত্ব দিয়েছিলেন, সে ইবরাহীম (আঃ)-এর সঙ্গে তাঁর রবকে নিয়ে বিতর্ক করেছিল। ইবরাহীম (আঃ) বললেন, ‘আমার রব তিনি, যিনি জীবন দেন আর মৃত্যু ঘটান।’ রাজা বলল, ‘আমিও জীবন দিই, মৃত্যু ঘটাই।’ ইবরাহীম (আঃ) বললেন, ‘আল্লাহ তো সূর্যকে পূর্ব দিক থেকে আনেন, তুমি তা পশ্চিম দিক থেকে আনো।’ তখন সেই কাফির হতভম্ব হয়ে গেল। রাজা আলাদা, সূর্য সেই একই, পরীক্ষাও এক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rule That Ended at al-'Arish",
+          "bn": "আরীশে থেমে যাওয়া রাজত্ব"
+        },
+        "p": [
+          {
+            "en": "At-Tabari hears a contrast inside the phrase. Musa is calling them to the owner of the sun's rising and setting, he explains, and not to the worship of the kings of Egypt who had ruled it before Pharaoh, for your fathers, and then passed away, nor to the worship of Pharaoh, its present king. The verse sets against all of them the Lord whose rule covers where the sun comes up and where it goes down.",
+            "bn": "তাবারী বাক্যের ভেতরে একটা বৈপরীত্য শুনতে পান। তাঁর ব্যাখ্যায়, মূসা (আঃ) তাদের ডাকছেন সূর্যের ওঠা আর ডোবার মালিকের দিকে। ফেরাউনের আগে যে মিসরীয় রাজারা তোমাদের বাপ-দাদাদের ওপর রাজত্ব করে চলে গেছে, তাদের ইবাদতের দিকে নয়। বর্তমান রাজা ফেরাউনের ইবাদতের দিকেও নয়। আয়াতটি তাদের সবার বিপরীতে দাঁড় করায় সেই রবকে, যাঁর রাজত্ব সূর্য যেখানে ওঠে আর যেখানে ডোবে, সবটা জুড়ে।"
+          },
+          {
+            "en": "Then at-Tabari gives the fact that made the point hard to answer. Musa told them what they knew to be the plain truth, for neither Pharaoh nor any king of Egypt before him had a rule that reached beyond al-'Arish of Egypt. It became clear to Pharaoh and the people around him, at-Tabari continues, that He whom Musa called them to worship is al-malik alladhi yamliku al-muluk, the King who owns the kings. It was then, he says, that Pharaoh spoke out of arrogance towards the truth.",
+            "bn": "তারপর তাবারী সেই তথ্যটা দেন, যার জবাব দেওয়া কঠিন ছিল। মূসা (আঃ) তাদের এমন কথা বললেন, যাকে তারা নিজেরাই স্পষ্ট সত্য বলে জানত। কারণ ফেরাউন বা তার আগের কোনো মিসরীয় রাজার রাজত্বই মিসরের আরীশ ছাড়িয়ে যায়নি। তাবারী আরও বলেন, ফেরাউন আর তার আশপাশের লোকদের কাছে তখন পরিষ্কার হয়ে গেল, মূসা (আঃ) যাঁর ইবাদতের দিকে ডাকছেন, তিনি আল-মালিকুল্লাযী ইয়ামলিকুল মুলূক, সেই বাদশাহ যিনি বাদশাহদেরও মালিক। তাঁর ভাষায়, ঠিক তখনই ফেরাউন সত্যের প্রতি অহংকারে মুখ খুলল।"
+          },
+          {
+            "en": "Al-Qurtubi puts the same contrast as a direct address to the king. His dominion is not like yours, he paraphrases: you own a single country, your command does not pass in any other, and the one you would not have die dies all the same. The One who sent me owns the east and the west and all between them. His second clause reaches past borders to death itself. A king can draw a frontier and guard it; he cannot keep alive a single person he wants to keep.",
+            "bn": "কুরতুবী একই বৈপরীত্যকে রাখেন সরাসরি রাজার উদ্দেশে বলা কথা হিসেবে। তাঁর ভাষ্যে কথাটা এমন: তাঁর রাজত্ব তোমার রাজত্বের মতো নয়। তুমি মাত্র একটা দেশের মালিক, অন্য কোথাও তোমার হুকুম চলে না। আর যার মৃত্যু তুমি চাও না, সে-ও মরে যায়। আমাকে যিনি পাঠিয়েছেন, তিনি পূর্ব-পশ্চিম আর এ দুয়ের মাঝের সবকিছুর মালিক। কুরতুবীর দ্বিতীয় কথাটা সীমান্ত পেরিয়ে মৃত্যু পর্যন্ত পৌঁছে যায়। রাজা সীমান্ত টানতে পারে, পাহারাও বসাতে পারে। কিন্তু যাকে সে বাঁচিয়ে রাখতে চায়, তেমন একজনকেও সে বাঁচিয়ে রাখতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Reason Had Failed?",
+          "bn": "বুদ্ধি হারাল আসলে কে?"
+        },
+        "p": [
+          {
+            "en": "The closing words, in kuntum ta'qilun, are where the reply meets the accusation. At-Tabari glosses them simply: if you have minds with which you understand what is said to you, and grasp what you hear of what is made plain to you. Al-Muyassar adds where reason would lead: this obliges belief in Him alone, if you are people of reason and reflection. Read this way, the condition is not a threat. It is a door left open to anyone in the hall still willing to think.",
+            "bn": "শেষ কথাগুলো, ইন কুনতুম তা'কিলূন, এখানেই জবাব গিয়ে অভিযোগের মুখোমুখি দাঁড়ায়। তাবারী এর সোজা ব্যাখ্যা দেন: যদি তোমাদের এমন বুদ্ধি থাকে, যা দিয়ে তোমাদের বলা কথা বুঝতে পারো, আর যা খুলে বলা হচ্ছে তা শুনে ধরতে পারো। মুয়াসসার জুড়ে দেয়, বুদ্ধি কোথায় নিয়ে যায়: তোমরা যদি বুদ্ধি আর চিন্তার মানুষ হও, তবে এ কথা দাবি করে কেবল তাঁর ওপরই ঈমান আনা। এভাবে পড়লে শর্তটা কোনো হুমকি নয়। দরবারে যে এখনো ভাবতে রাজি, তার জন্য খোলা রাখা একটা দরজা।"
+          },
+          {
+            "en": "As-Sa'di reads the condition as Musa's answer to Pharaoh's denial and his setting aside of the Lord of the worlds. I have given you, he has Musa say, a clarity that anyone with the least hold on reason can understand, so why do you feign ignorance of what I tell you? Then as-Sa'di names the turn outright: in it is a hint and a pointer that the madness you threw at Musa is your own sickness. You charged the soundest of minds with madness, while the mad ones are you.",
+            "bn": "সা'দীর মতে শর্তটা ফেরাউনের অস্বীকার আর বিশ্বজগতের রবকে বাতিল করে দেওয়ার জবাব। তাঁর ভাষ্যে মূসা (আঃ) যেন বলছেন: আমি তোমাদের এমন পরিষ্কার করে বলেছি, যার সামান্য বুদ্ধি আছে সে-ও বুঝবে। তাহলে আমার কথা না বোঝার ভান করছ কেন? এরপর সা'দী উল্টো দিকে ঘোরার ব্যাপারটা সরাসরি বলে দেন। এখানে ইশারা আছে যে, মূসা (আঃ)-এর গায়ে তোমরা যে পাগলামির তকমা লাগালে, সেটা তোমাদেরই রোগ। সবচেয়ে সুস্থ বুদ্ধির মানুষটিকে তোমরা পাগল বললে, অথচ পাগল আসলে তোমরাই।"
+          },
+          {
+            "en": "As-Sa'di presses it with questions of his own. Your minds left you, he writes, when you denied the most evident of all that exists, the Creator of the earth and the heavens and what is between them. If you deny Him, what do you affirm? He closes with an oath that the mad, who are no better than beasts, have more sense than that court, and grazing cattle more guidance. These are as-Sa'di's words about that court; the verse itself keeps to a single quiet condition.",
+            "bn": "সা'দী নিজের কয়েকটা প্রশ্ন দিয়ে কথাটা আরও চেপে ধরেন। তিনি লেখেন, অস্তিত্বের মধ্যে যিনি সবচেয়ে স্পষ্ট, আসমান, যমীন আর এ দুয়ের মাঝের সবকিছুর স্রষ্টা, তাঁকে অস্বীকার করতে গিয়েই তোমাদের বুদ্ধি লোপ পেয়েছে। তাঁকেই যদি অস্বীকার করো, তবে মানো কী? শেষে তিনি কসম খেয়ে বলেন, যে পাগলেরা পশুর পর্যায়ের, তারাও ওই দরবারের চেয়ে বেশি বুদ্ধিমান, আর চরে বেড়ানো গবাদি পশুও তাদের চেয়ে বেশি পথ চেনে। এ কথাগুলো সেই দরবার নিয়ে সা'দীর নিজের। আয়াত নিজে থেমে থাকে একটিমাত্র শান্ত শর্তে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known by What He Does",
+          "bn": "কাজ দিয়েই তাঁকে চেনা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in the passage covering the whole exchange, holds that Pharaoh's opening question was never about God's nature or substance, and calls the philosophers and others who read it that way mistaken: Pharaoh did not believe in a Creator in the first place. So Musa's answers, this verse included, are not definitions. Each is evidence set before a man who denied there was anything to define.",
+            "bn": "গোটা কথোপকথন জুড়ে লেখা অংশে ইবন কাসীর বলেন, ফেরাউনের প্রথম প্রশ্নটা আল্লাহর স্বরূপ বা সত্তা নিয়ে ছিল না। যে দার্শনিকরা ও অন্যরা একে তেমন প্রশ্ন ধরে নিয়েছেন, তাঁর মতে তাঁরা ভুল করেছেন, কারণ ফেরাউন তো স্রষ্টাকেই বিশ্বাস করত না। তাই মূসা (আঃ)-এর জবাবগুলো, এ আয়াতসহ, কোনো সংজ্ঞা নয়। প্রতিটি জবাব আসলে প্রমাণ, এমন একজনের সামনে রাখা, যে মনে করত সংজ্ঞা দেওয়ার মতো কিছুর অস্তিত্বই নেই।"
+          },
+          {
+            "en": "Al-Qurtubi records a further reading under 'it is said' (qila): Musa knew that the aim of the question was to come to know the One being asked about, so he answered with what is the way to knowing the Lord today. The two readings start from different places, one from what Pharaoh meant, the other from what Musa understood the question to need. Both leave Musa answering with what God does rather than with what He is, and the sunrise is something He does every day.",
+            "bn": "কুরতুবী ‘বলা হয়’ (কীলা) শব্দে আরেকটি ব্যাখ্যা তুলে ধরেন। মূসা (আঃ) জানতেন, প্রশ্নের উদ্দেশ্য হলো যাঁর সম্পর্কে জিজ্ঞেস করা হচ্ছে তাঁকে চেনা। তাই তিনি জবাব দিলেন এমন কথায়, যা আজকের দিনে রবকে চেনার পথ। দুই ব্যাখ্যার শুরু দুই জায়গা থেকে। একটা দেখে ফেরাউন কী বোঝাতে চেয়েছিল, অন্যটা দেখে মূসা (আঃ) প্রশ্নটার কী জবাব দরকার বলে বুঝেছিলেন। তবে দুটোতেই মূসা (আঃ) জবাব দেন আল্লাহ কী করেন তা দিয়ে, তিনি কী, তা দিয়ে নয়। আর সূর্যোদয় এমন কাজ, যা তিনি প্রতিদিন করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Proof Gives Way to Prison",
+          "bn": "যুক্তি হেরে গেলে কারাগার"
+        },
+        "p": [
+          {
+            "en": "What follows the verse shows how the argument landed. Al-Qurtubi says that once Pharaoh was cut off in the matter of proof, he fell back on domineering and force and threatened Musa with prison, the threat of 26:29. Ibn Kathir says the same in his own words: when Pharaoh was beaten and his argument broke, he turned to the use of his standing, his strength and his authority, believing that this would serve him and take effect against Musa.",
+            "bn": "আয়াতের পরে যা ঘটে, তা দেখায় যুক্তিটা কোথায় গিয়ে লেগেছিল। কুরতুবী বলেন, প্রমাণের ময়দানে ফেরাউন যখন আটকে গেল, তখন সে ফিরে গেল দাপট আর জোরের দিকে, মূসা (আঃ)-কে কারাগারের হুমকি দিল। এটাই ২৬:২৯ আয়াতের হুমকি। ইবন কাসীরও নিজের ভাষায় একই কথা বলেন। ফেরাউন হেরে গেল, তার যুক্তি ভেঙে পড়ল, তখন সে হাত বাড়াল নিজের প্রতিপত্তি, শক্তি আর ক্ষমতার দিকে। সে ভেবেছিল, এতে তার কাজ হবে, আর মূসা (আঃ)-এর ওপর তা খাটবে।"
+          },
+          {
+            "en": "Al-Qurtubi notices what Pharaoh did not say. He did not ask, What is your proof that this god sent you? To ask that, al-Qurtubi explains, would have been to admit that there is a god other than himself. So the king who opened with a question ends without a question. He cannot afford the obvious next question, because asking it would concede the debate. In this reading, threat is what remains to a claim that cannot survive being examined.",
+            "bn": "ফেরাউন কী বলেনি, কুরতুবী সেটা খেয়াল করেন। সে জিজ্ঞেস করেনি, এই ইলাহ যে তোমাকে পাঠিয়েছেন, তার প্রমাণ কী? কুরতুবীর ব্যাখ্যায়, এ প্রশ্ন করা মানেই মেনে নেওয়া যে তাকে ছাড়া আরেকজন ইলাহ আছেন। তাই যে রাজা প্রশ্ন দিয়ে শুরু করেছিল, সে শেষ করে প্রশ্ন ছাড়াই। পরের স্বাভাবিক প্রশ্নটা করার সাহস তার নেই, কারণ প্রশ্ন করলেই বিতর্কে হার মেনে নেওয়া হয়। এ ব্যাখ্যায়, যে দাবি যাচাইয়ের সামনে টেকে না, তার হাতে শেষ পর্যন্ত থাকে কেবল হুমকি।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation; the verse belongs to the running exchange of 26:23 to 26:29 and is read inside it. Read that way, its lesson is partly about sequence. Evidence came first, mockery answered it, evidence came again with an invitation to think, and only then did power reach for a cell. Anyone who holds authority can ask which of those steps they are standing on.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জোড়েনি, নাযিলের কোনো প্রেক্ষাপটও দেয়নি। আয়াতটি ২৬:২৩ থেকে ২৬:২৯ পর্যন্ত চলা কথোপকথনের অংশ, আর সেই ধারার ভেতরেই একে পড়তে হয়। এভাবে পড়লে এর শিক্ষার একটা দিক হলো ধাপের ক্রম। আগে এল প্রমাণ, জবাবে এল বিদ্রূপ। আবার এল প্রমাণ, সঙ্গে ভেবে দেখার আহ্বান। তারপরই কেবল ক্ষমতা হাত বাড়াল কারাগারের দিকে। যার হাতে কর্তৃত্ব আছে, সে নিজেকে জিজ্ঞেস করতে পারে, এই ধাপগুলোর কোনটায় সে দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Court, Not a People",
+          "bn": "এক দরবার, কোনো জাতি নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse records what one king and his court said, and what God's messenger said back to them, in one confrontation in Egypt. It describes what that court did, its denial and its mockery, and licenses nothing against any living person or community, in Egypt or anywhere else. Calling a messenger mad was their act, and the Qur'an reports it as theirs. Nor does it license calling an opponent mad for refusing an argument; as-Sa'di's turnabout is a commentator's reading of that one scene.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি মিসরের এক মুখোমুখি ঘটনায় একজন রাজা আর তার দরবারের কথা, আর তার জবাবে আল্লাহর রাসূলের কথা বর্ণনা করে। এতে সেই দরবারের কাজ, তাদের অস্বীকার আর বিদ্রূপের বর্ণনা আছে। মিসরে হোক বা অন্য কোথাও, জীবিত কোনো মানুষ বা কোনো জাতির বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। রাসূলকে পাগল বলা ছিল তাদের কাজ, আর কুরআন সেটা তাদের কাজ হিসেবেই উল্লেখ করেছে। কেউ যুক্তি না মানলে তাকে পাগল বলার অনুমতিও এখানে নেই। সা'দীর উল্টো দিকে ঘোরানোর কথাটা ওই একটি দৃশ্য নিয়ে এক তাফসীরকারের ব্যাখ্যা।"
+          },
+          {
+            "en": "Notice, too, how the reply is built. Musa (AS) is called insane before the court and answers with the sky and a condition. The verse puts no insult on his tongue; at-Tabari's gloss on its closing words is a plain 'if you have minds to understand what is said to you.' Whatever severity the commentators find in the turn, the words the Qur'an gives Musa are an argument and an invitation, in the same pattern as his first answer in 26:24.",
+            "bn": "জবাবটা কীভাবে গড়া, সেটাও লক্ষ করার মতো। দরবারের সামনে মূসা (আঃ)-কে পাগল বলা হলো, আর তিনি জবাব দিলেন আকাশ আর একটা শর্ত দিয়ে। আয়াত তাঁর মুখে কোনো গালি রাখেনি। শেষ কথাগুলোর ব্যাখ্যায় তাবারী সাদামাটা ভাষায় বলেন, যদি তোমাদের বলা কথা বোঝার মতো বুদ্ধি থাকে। এই ঘোরানোর মধ্যে তাফসীরকারেরা যত কঠোরতাই দেখুন, কুরআন মূসা (আঃ)-এর মুখে যে কথা দিয়েছে তা যুক্তি আর আহ্বান। ২৬:২৪ আয়াতে তাঁর প্রথম জবাবের গড়নও ছিল ঠিক এমনই।"
+          },
+          {
+            "en": "The reader is left with an argument that renews itself without anyone's help. The sun came up this morning in the east and will go down tonight in the west, and nothing between them asked a ruler's leave. Musa (AS) asked the court to reason from that. The question the verse leaves is personal: when the evidence is as plain as morning and the room around me is laughing, do I stop thinking with the room, or keep looking at the sky?",
+            "bn": "পাঠকের হাতে থেকে যায় এমন এক যুক্তি, যা কারও সাহায্য ছাড়াই রোজ নতুন হয়। আজ সকালে সূর্য পূর্বে উঠেছে, রাতে পশ্চিমে ডুববে, আর এ দুয়ের মাঝের কোনো কিছুই কোনো শাসকের অনুমতি চায়নি। মূসা (আঃ) দরবারকে এখান থেকেই ভাবতে বলেছিলেন। আয়াতটি যে প্রশ্ন রেখে যায়, তা একান্ত ব্যক্তিগত। প্রমাণ যখন সকালের আলোর মতো পরিষ্কার, আর আমার চারপাশের লোকেরা হাসছে, তখন কি আমি ঘরভর্তি লোকের সঙ্গে ভাবনা থামিয়ে দিই, নাকি আকাশের দিকে তাকিয়েই থাকি?"
+          }
+        ]
+      }
+    ]
+  },
   "26:34": {
     "sections": [
       {
