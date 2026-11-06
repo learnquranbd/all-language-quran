@@ -26849,6 +26849,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A promise made to Allah in hardship is meant to be kept in ease; turn back to Him for His own sake, not only to have the trouble lifted.",
     "lessonBn": "বিপদের দিনে আল্লাহকে দেওয়া কথা সুদিনেও রাখতে হয়। তাঁর দিকে ফিরুন তাঁরই জন্য, শুধু বিপদ সরানোর জন্য নয়।"
+  },
+  "43:61": {
+    "reflectionEn": "After the quarrel over the son of Maryam, the Qur'an says something about him that reaches far beyond that room: he is knowledge of the Hour. Most commentators read it of his descent before the Day; others read it of the Qur'an itself. Either way, the verse hands over no date. It gives a sign, and then two commands: do not doubt it, and follow. It is easy to treat the Hour as a puzzle, to collect signs and trade guesses. The verse turns that energy elsewhere. Certainty about the end is meant to straighten the road now. If I believed, without a trace of doubt, that the Hour is coming, what would I stop doing today, and whom would I follow more closely?",
+    "reflectionBn": "মারইয়াম-পুত্রকে নিয়ে ঝগড়ার পর কুরআন তাঁর সম্পর্কে এমন এক কথা বলে, যা সেই মজলিস ছাড়িয়ে বহু দূর যায়: তিনি কিয়ামতের জ্ঞান। বেশির ভাগ তাফসীরকার একে বুঝেছেন কিয়ামতের আগে তাঁর নেমে আসা অর্থে। কেউ কেউ বলেছেন, এখানে কথা কুরআনের। যেভাবেই পড়ুন, আয়াত কোনো তারিখ জানায় না। দেয় একটা নিদর্শন, তারপর দুটি আদেশ: এতে সন্দেহ কোরো না, আর অনুসরণ কর। কিয়ামতকে ধাঁধা বানিয়ে ফেলা সহজ। আলামত জমানো, অনুমানের লেনদেন। আয়াত সেই উৎসাহকে অন্য দিকে ঘুরিয়ে দেয়। শেষ নিয়ে নিশ্চয়তার কাজ হলো আজকের পথটা সোজা করা। কিয়ামত আসছেই, এ কথা যদি আমি একটুও সন্দেহ ছাড়া বিশ্বাস করতাম, আজ কোন কাজটা ছেড়ে দিতাম? আর কার অনুসরণ আরও কাছ থেকে করতাম?",
+    "pointsEn": [
+      "When I hear talk about the signs of the Hour, does it move me to prepare, or only to speculate?",
+      "Is there a corner of my belief in the Hereafter where doubt has quietly settled, and what keeps feeding it?",
+      "The verse joins certainty to following. Where does my following of the Messenger ﷺ fall short of what I say I believe?",
+      "If the straight path is the one with no crookedness in it, which bend in my own road do I already know about?",
+      "Do I speak about future events with the humility of someone who knows that only Allah knows their time?"
+    ],
+    "pointsBn": [
+      "কিয়ামতের আলামত নিয়ে কথা শুনলে তা কি আমাকে প্রস্তুতির দিকে ঠেলে, নাকি শুধু জল্পনার দিকে?",
+      "আখিরাতের উপর আমার বিশ্বাসের কোনো কোণে কি চুপিচুপি সন্দেহ বাসা বেঁধেছে? কী তাকে খোরাক জোগায়?",
+      "আয়াত নিশ্চয়তার সঙ্গে অনুসরণকে জুড়ে দিয়েছে। মুখে যা বিশ্বাস করি বলি, রাসূল ﷺ-এর অনুসরণে আমি তার চেয়ে কোথায় পিছিয়ে আছি?",
+      "সরল পথ মানে যে পথে কোনো বাঁক নেই। নিজের পথের কোন বাঁকটা আমি আগে থেকেই চিনি?",
+      "ভবিষ্যতের ঘটনা নিয়ে কথা বলার সময় আমার কথায় কি সেই বিনয় থাকে, যে জানে এর সময় শুধু আল্লাহই জানেন?"
+    ],
+    "lessonEn": "Let the signs of the Hour settle doubt, not feed speculation: be certain that it is coming, and answer that certainty by following the straight path today.",
+    "lessonBn": "কিয়ামতের আলামত যেন সন্দেহ দূর করে, জল্পনা না বাড়ায়। কিয়ামত আসছেই, এ ব্যাপারে নিশ্চিত থাকুন, আর সেই নিশ্চয়তার জবাব দিন আজই সরল পথে চলে।"
   }
 };
 

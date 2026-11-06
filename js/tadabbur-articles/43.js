@@ -2367,6 +2367,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:61": {
+    "sections": [
+      {
+        "h": {
+          "en": "Ten Words, Three Questions",
+          "bn": "দশ শব্দে তিন প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "This verse closes a passage about the son of Maryam. In 43:57 his example was put forward and the Prophet's ﷺ people raised a clamour. In 43:59 he was called a servant whom Allah favoured and made an example for the Children of Israel; that quarrel and its setting are treated in their own place and not retold here. In 43:60 Allah says that had He willed, He would have made angels among them, succeeding one another on the earth. Then comes wa-innahu la-'ilmun li-s-sa'ah: and indeed he, or it, is knowledge of the Hour.",
+            "bn": "মারইয়াম-পুত্রকে নিয়ে যে আলোচনা, এ আয়াতে তা শেষ হয়। ৪৩:৫৭ আয়াতে তাঁর দৃষ্টান্ত সামনে আনা হলে নবী ﷺ-এর জাতি হট্টগোল শুরু করে। ৪৩:৫৯ আয়াতে বলা হয়, তিনি একজন বান্দা, আল্লাহ তাঁর উপর অনুগ্রহ করেছেন এবং বনী ইসরাঈলের জন্য তাঁকে দৃষ্টান্ত বানিয়েছেন। সেই ঝগড়া আর তার প্রেক্ষাপট নিজ জায়গায় আলোচিত হয়েছে, এখানে আবার বলা হবে না। ৪৩:৬০ আয়াতে আল্লাহ বলেন, তিনি চাইলে তাদের মধ্য থেকেই ফেরেশতা বানাতেন, যারা পৃথিবীতে একে অপরের স্থলাভিষিক্ত হতো। তারপর আসে: ওয়া ইন্নাহু লা-ইলমুল লিস-সাআহ, আর নিশ্চয়ই তিনি, বা তা, কিয়ামতের জ্ঞান।"
+          },
+          {
+            "en": "Ten Arabic words carry three questions that the commentators answer differently. To whom, or to what, does the pronoun in innahu return? Is the word 'ilm, knowledge, or 'alam, a mark, as some early readers recited it? And who speaks the command wa-ttabi'un, follow me: Allah Himself, or His Messenger ﷺ conveying from Him? The sections below take these in turn, then the hadith the commentators bring under the verse, and then its two closing commands.",
+            "bn": "আরবি দশটি শব্দের ভেতরে তিনটি প্রশ্ন আছে, আর তাফসীরকারেরা সেগুলোর উত্তর দেন ভিন্ন ভিন্নভাবে। ইন্নাহু শব্দের সর্বনাম কার দিকে, বা কিসের দিকে ফেরে? শব্দটি কি ইলম, অর্থাৎ জ্ঞান, নাকি আলাম, অর্থাৎ চিহ্ন, যেমনটা প্রথম যুগের কোনো কোনো কারী পড়েছেন? আর ওয়াত্তাবিঊন, আমার অনুসরণ কর, এ আদেশ কার মুখের? আল্লাহর নিজের, নাকি তাঁর রাসূল ﷺ তাঁর পক্ষ থেকে পৌঁছে দিচ্ছেন? নিচের অংশগুলো একে একে এসব দেখবে। তারপর আসবে আয়াতের অধীনে আনা হাদীস, আর শেষে আয়াতের দুটি আদেশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Descent Before the Day",
+          "bn": "কিয়ামতের আগে তাঁর অবতরণ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins by saying that the people of interpretation differed over the ha in wa-innahu: what it refers to, and whom it mentions. Some said it refers to 'Isa (AS). He gives their sense: his appearance is a sign by which the coming of the Hour is known, because his appearance is among its conditions, ashratiha, and his descent to the earth points to the passing of this world and the approach of the next. He then lists the early authorities who held it, chain by chain, as is his habit.",
+            "bn": "তাবারী শুরুতেই বলেন, ওয়া ইন্নাহু শব্দের হা নিয়ে তাফসীরবিদদের মধ্যে মতভেদ আছে: এটা কিসের দিকে ইঙ্গিত করে, কার কথা বলে। একদল বলেছেন, এখানে কথা ঈসা (আঃ)-এর। তাঁদের বক্তব্য তাবারী এভাবে তুলে ধরেন: তাঁর আবির্ভাব এমন এক চিহ্ন, যা দিয়ে কিয়ামতের আগমন জানা যায়। কারণ তাঁর আবির্ভাব কিয়ামতের শর্তগুলোর একটি, আর পৃথিবীতে তাঁর নেমে আসা জানিয়ে দেয় যে দুনিয়া ফুরিয়ে আসছে, আখিরাত এগিয়ে আসছে। তারপর নিজের রীতি মেনে তিনি এ মতের পূর্বসূরিদের নাম দেন, প্রত্যেকের সনদসহ।"
+          },
+          {
+            "en": "From Ibn 'Abbas (RA) he brings several routes: the emergence of 'Isa son of Maryam, and in another, his descent. Mujahid says a sign of the Hour, the emergence of 'Isa son of Maryam before the Day of Resurrection. Qatadah, as-Suddi, ad-Dahhak and Ibn Zayd say the same in their own words, and ad-Dahhak adds his descent from the heaven. One report has Ibn 'Abbas wondering aloud: I do not know whether people have learned the explanation of this verse, or have not noticed it. The answer he gives is the descent of 'Isa son of Maryam.",
+            "bn": "ইবন আব্বাস (রাঃ) থেকে তাবারী কয়েকটি সূত্রে আনেন: ঈসা ইবন মারইয়ামের আবির্ভাব। আরেক সূত্রে শব্দটা হলো তাঁর অবতরণ। মুজাহিদ বলেন, কিয়ামতের নিদর্শন, অর্থাৎ কিয়ামত দিবসের আগে ঈসা ইবন মারইয়ামের আবির্ভাব। কাতাদা, সুদ্দী, দাহহাক আর ইবন যায়দও নিজ নিজ ভাষায় একই কথা বলেন। দাহহাক যোগ করেন, আকাশ থেকে তাঁর নেমে আসা। এক বর্ণনায় ইবন আব্বাস যেন নিজেকেই প্রশ্ন করছেন: জানি না, মানুষ কি এ আয়াতের ব্যাখ্যা জেনে গেছে, নাকি খেয়ালই করেনি? তারপর নিজেই উত্তর দেন: ঈসা ইবন মারইয়ামের অবতরণ।"
+          },
+          {
+            "en": "Through 'Awf, at-Tabari also has al-Hasan, alongside Abu Malik, saying the descent of 'Isa son of Maryam. Al-Baghawi states it without hesitation: the pronoun means 'Isa (AS), and his descent is among the conditions of the Hour, by which its nearness is known. The Muyassar reads the verse the same way, saying that the descent of 'Isa before the Day of Resurrection is evidence that the Hour is near. Ma'arif al-Qur'an says that most exegetes have taken the verse in this sense, and it calls his return in the last days proved by mutawatir hadith.",
+            "bn": "আওফের সূত্রে তাবারী হাসানের কথাও আনেন, আবু মালিকের সঙ্গে মিলিয়ে: ঈসা ইবন মারইয়ামের অবতরণ। বাগাভী কোনো দ্বিধা ছাড়াই বলেন, সর্বনাম দিয়ে বোঝানো হয়েছে ঈসা (আঃ)-কে। তাঁর অবতরণ কিয়ামতের শর্তগুলোর একটি, যা দিয়ে কিয়ামতের নৈকট্য বোঝা যায়। মুয়াসসারও আয়াতটি এভাবেই পড়ে: কিয়ামত দিবসের আগে ঈসার নেমে আসা প্রমাণ করে যে কিয়ামত কাছে। মাআরিফুল কুরআন বলে, বেশির ভাগ তাফসীরকার আয়াতটি এ অর্থেই নিয়েছেন। শেষ যুগে তাঁর ফিরে আসা মুতাওয়াতির হাদীসে প্রমাণিত, এ কথাও সে জানায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Book as the Herald",
+          "bn": "কুরআনই যখন বার্তাবাহক"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gives the other view: the ha refers to the Qur'an. The sense becomes, this Qur'an is knowledge of the Hour; it teaches you that the Hour will be established, and tells you of it and of its terrors. His support for it is brief. Through Qatadah: al-Hasan used to say, this Qur'an. Again through Qatadah: some people used to say, the Qur'an is knowledge of the Hour. Al-Hasan therefore stands on both sides of at-Tabari's lists, reached through two different narrators, 'Awf for the descent and Qatadah for the Qur'an.",
+            "bn": "এরপর তাবারী দ্বিতীয় মতটি আনেন: হা ফিরেছে কুরআনের দিকে। তখন অর্থ দাঁড়ায়, এই কুরআনই কিয়ামতের জ্ঞান। কিয়ামত যে কায়েম হবে, কুরআন তা জানায়, আর জানায় তার খবর ও তার বিভীষিকার কথা। এ মতের পক্ষে তাঁর প্রমাণ অল্প। কাতাদার সূত্রে: হাসান বলতেন, এ হলো কুরআন। আবার কাতাদার সূত্রে: কিছু লোক বলত, কুরআনই কিয়ামতের জ্ঞান। ফলে তাবারীর দুই তালিকাতেই হাসানের নাম আছে, দুজন আলাদা বর্ণনাকারীর মাধ্যমে। অবতরণের মত এসেছে আওফের সূত্রে, কুরআনের মত কাতাদার সূত্রে।"
+          },
+          {
+            "en": "Al-Qurtubi opens with this view rather than the other. Al-Hasan, Qatadah and Sa'id ibn Jubayr, he says, meant the Qur'an, because it points to the nearness of the Hour's coming, or because through it the Hour is known, with its terrors and its states. He then gives Ibn 'Abbas, Mujahid, ad-Dahhak, as-Suddi, and Qatadah once more, for the emergence of 'Isa (AS) as one of the signs of the Hour, since Allah sends him down from the heaven shortly before it. Al-Baghawi credits the Qur'an reading to al-Hasan and a group.",
+            "bn": "কুরতুবী কিন্তু শুরু করেন এই মত দিয়েই। তিনি বলেন, হাসান, কাতাদা আর সাঈদ ইবন জুবাইর এখানে কুরআনকে বুঝিয়েছেন। কারণ কুরআন কিয়ামতের আগমন যে কাছে তা দেখিয়ে দেয়, অথবা কুরআন দিয়েই কিয়ামত আর তার বিভীষিকা ও অবস্থা জানা যায়। এরপর তিনি আনেন ইবন আব্বাস, মুজাহিদ, দাহহাক, সুদ্দী আর আবারও কাতাদাকে। তাঁদের মতে এ হলো ঈসা (আঃ)-এর আবির্ভাব, যা কিয়ামতের নিদর্শনগুলোর একটি। কারণ কিয়ামতের অল্প আগে আল্লাহ তাঁকে আকাশ থেকে নামিয়ে দেবেন। বাগাভী কুরআনের মতটি হাসান ও একদল আলেমের নামে উল্লেখ করেন।"
+          },
+          {
+            "en": "Ibn Kathir weighs the two and decides. The view Qatadah reported from al-Hasan al-Basri and Sa'id ibn Jubayr, that the pronoun returns to the Qur'an, he places even further from the mark than a view he has already questioned. The sound view, he says, is that it returns to 'Isa, because the passage is about him, and that the meaning is his descent before the Day of Resurrection. He supports it with 4:159, reading before his death as before the death of 'Isa. At-Tabari, by contrast, sets out both views and states no preference between them. The difference is kept here as the sources keep it.",
+            "bn": "ইবন কাসীর দুই মত মেপে দেখে সিদ্ধান্ত দেন। কাতাদা হাসান বসরী ও সাঈদ ইবন জুবাইর থেকে যে মত বর্ণনা করেছেন, অর্থাৎ সর্বনাম কুরআনের দিকে ফেরে, তাঁর মতে সেটা আরও দূরের কথা, এমনকি যে মতে তিনি আগেই আপত্তি তুলেছেন তার চেয়েও। সঠিক মত, তিনি বলেন, সর্বনাম ফেরে ঈসার দিকে, কেননা আলোচনা চলছে তাঁকে নিয়েই। আর অর্থ হলো কিয়ামত দিবসের আগে তাঁর অবতরণ। প্রমাণ হিসেবে তিনি আনেন ৪:১৫৯, যেখানে তাঁর মৃত্যুর আগে কথাটিকে তিনি পড়েন ঈসার মৃত্যুর আগে অর্থে। তাবারী অবশ্য দুটি মতই তুলে ধরেন, কোনোটিকে প্রাধান্য দেন না। সূত্রগুলো মতভেদটা যেভাবে রেখেছে, এখানেও তা সেভাবেই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Miracles, Birth, or the Messenger",
+          "bn": "মুজিযা, জন্ম, নাকি রাসূল"
+        },
+        "p": [
+          {
+            "en": "Two commentators record a reading that keeps the pronoun on 'Isa (AS) but looks back to his mission rather than forward to his return. Al-Qurtubi gives it under it is said, from Ibn Ishaq: 'Isa's raising of the dead is evidence for the Hour and for the raising of the dead. Ibn Kathir reports Ibn Ishaq's explanation as what 'Isa was sent with, raising the dead and healing the born-blind, the leper and other sicknesses, and comments in a single phrase, fi hadha nazar: this is open to question. That is the view he then ranks above the Qur'an reading.",
+            "bn": "দুজন তাফসীরকার আরেকটি ব্যাখ্যা আনেন। এতেও সর্বনাম ঈসা (আঃ)-এর দিকেই ফেরে, তবে দৃষ্টি তাঁর ফিরে আসার দিকে নয়, পেছনে তাঁর নবুওয়াতের কাজের দিকে। কুরতুবী 'বলা হয়' বলে ইবন ইসহাকের কথা আনেন: ঈসার হাতে মৃতকে জীবিত করা কিয়ামত আর মৃতদের পুনরুত্থানের প্রমাণ। ইবন কাসীর ইবন ইসহাকের ব্যাখ্যা উল্লেখ করেন এভাবে: ঈসাকে যা দিয়ে পাঠানো হয়েছিল, মৃতকে জীবিত করা, জন্মান্ধ, কুষ্ঠরোগী ও অন্য রোগীদের সারিয়ে তোলা। তারপর ছোট্ট মন্তব্য করেন, ফী হাযা নাযার: এতে আপত্তির জায়গা আছে। তবু কুরআনের মতটির চেয়ে এ মতকেই তিনি কাছের মনে করেন।"
+          },
+          {
+            "en": "As-Sa'di offers two readings joined by or. In the first, 'Isa (AS) is evidence for the Hour because the One able to bring him into being from a mother without a father is able to raise the dead from their graves. In the second, 'Isa will descend at the end of time, and his descent will be one of the signs of the Hour. He leaves the two side by side. Ma'arif al-Qur'an gives the same pair: the birth without a father shows that Allah creates without apparent causes, so raising the dead is not difficult for Him; then the descent, which it says most exegetes favour.",
+            "bn": "সা'দী দুটি ব্যাখ্যা দেন, মাঝখানে 'অথবা' রেখে। প্রথমটিতে ঈসা (আঃ) কিয়ামতের প্রমাণ এভাবে: যিনি বাবা ছাড়া শুধু মা থেকে তাঁকে সৃষ্টি করতে পারেন, তিনি মৃতদের কবর থেকে ওঠাতেও পারেন। দ্বিতীয়টিতে ঈসা শেষ যুগে নেমে আসবেন, আর তাঁর নেমে আসা হবে কিয়ামতের আলামতগুলোর একটি। দুটিকে তিনি পাশাপাশি রেখে দেন। মাআরিফুল কুরআনও একই জোড়া আনে। বাবা ছাড়া জন্ম দেখায়, বাহ্যিক কোনো উপকরণ ছাড়াই আল্লাহ সৃষ্টি করেন, কাজেই মৃতকে জীবিত করা তাঁর জন্য কঠিন কিছু নয়। তারপর আসে অবতরণের ব্যাখ্যা, যাকে সে বলে বেশির ভাগ তাফসীরকারের মত।"
+          },
+          {
+            "en": "Al-Qurtubi then adds a possibility of his own, marked qultu, I say, and yahtamil, it may be: the pronoun might refer to Muhammad ﷺ. He supports it with the Prophet's ﷺ words, which he describes him saying while joining the forefinger and the middle finger. That wording stands in Sahih al-Bukhari 6504, from Anas (RA): \"I have been sent, and the Hour, like these two.\" Al-Qurtubi adds al-Hasan's saying that the first of its signs is Muhammad ﷺ. He offers this as a possibility, not as an early authority's report, and it is recorded here in the same way.",
+            "bn": "এরপর কুরতুবী নিজের দিক থেকে একটি সম্ভাবনা যোগ করেন। শুরুতে বলেন কুলতু, আমি বলি, আর শব্দ বাছেন ইয়াহতামিল, হতে পারে। সর্বনাম হয়তো মুহাম্মাদ ﷺ-এর দিকে ফেরে। প্রমাণ হিসেবে তিনি আনেন নবী ﷺ-এর একটি কথা, যা বলার সময় তিনি তর্জনী আর মধ্যমা আঙুল একসঙ্গে মিলিয়েছিলেন বলে কুরতুবী বর্ণনা করেন। কথাটি সহীহ বুখারীর ৬৫০৪ নম্বরে আনাস (রাঃ) থেকে আছে: \"আমাকে আর কিয়ামতকে পাঠানো হয়েছে এ দুটির মতো করে।\" কুরতুবী হাসানের একটি উক্তিও যোগ করেন: কিয়ামতের প্রথম আলামত মুহাম্মাদ ﷺ। কুরতুবী এটি দিয়েছেন একটি সম্ভাবনা হিসেবে, পূর্বসূরিদের বর্ণনা হিসেবে নয়। এখানেও তা সেভাবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "'Ilm or 'Alam: One Vowel",
+          "bn": "ইলম না আলাম: একটি স্বরচিহ্ন"
+        },
+        "p": [
+          {
+            "en": "The second question turns on one vowel. At-Tabari reports that the readers of the cities agreed on 'ilm, with the 'ayn read with i: knowledge. From Ibn 'Abbas, Qatadah and ad-Dahhak he reports 'alam, read with a: a mark or signpost. He chooses 'ilm, because the authority of the readers agrees on it, and notes that Ubayy's reading is said to have been la-dhikrun li-s-sa'ah, a reminder of the Hour, which he takes as confirming 'ilm. Al-Qurtubi lists the 'alam readers as Ibn 'Abbas, Abu Hurayrah, Qatadah, Malik ibn Dinar and ad-Dahhak, and glosses it as amara, a sign.",
+            "bn": "দ্বিতীয় প্রশ্নটা একটিমাত্র স্বরচিহ্নের। তাবারী জানান, বিভিন্ন শহরের কারীরা একমত হয়ে পড়েছেন ইলম, আইনে যের দিয়ে, অর্থাৎ জ্ঞান। ইবন আব্বাস, কাতাদা আর দাহহাক থেকে তিনি বর্ণনা করেন আলাম, যবর দিয়ে, অর্থাৎ চিহ্ন বা নিশানা। তাবারী ইলম পড়াকেই বেছে নেন, কারণ কারীদের মধ্যে যাঁদের কথা প্রমাণ, তাঁরা এতে একমত। তিনি আরও বলেন, উবাইয়ের কিরাআত ছিল বলে বর্ণিত আছে লা-যিকরুল লিস-সাআহ, কিয়ামতের স্মারক, আর এটা ইলম পড়াকেই সমর্থন করে। কুরতুবী আলাম পাঠকারীদের নাম দেন ইবন আব্বাস, আবু হুরায়রা, কাতাদা, মালিক ইবন দীনার ও দাহহাক, আর এর অর্থ করেন আমারা, অর্থাৎ নিদর্শন।"
+          },
+          {
+            "en": "Ibn Kathir uses the other reading to support his choice: 'alam, he says, means a mark and a proof that the Hour will happen. Al-Qurtubi also records from 'Ikrimah a form with two lams, which he says goes against the written copies of the Qur'an. Whichever vowel is read, neither word supplies a date. A sign says that the Hour is coming, not when. The knowledge of its time is kept with Allah in 43:85,, whose own study covers that clause.",
+            "bn": "ইবন কাসীর এই দ্বিতীয় কিরাআতকে নিজের মতের সমর্থনে আনেন। তাঁর ব্যাখ্যায় আলাম মানে নিশানা, কিয়ামত যে ঘটবেই তার প্রমাণ। কুরতুবী ইকরিমা থেকে দুই লামসহ আরেকটি রূপও উল্লেখ করেন, তবে বলেন, তা মুসহাফের লিখিত পাঠের বিপরীত। যে স্বরচিহ্নেই পড়ুন, কোনো শব্দই তারিখ দেয় না। নিদর্শন জানায় কিয়ামত আসছে, কবে আসছে তা নয়। ৪৩:৮৫ আয়াত কিয়ামতের সময়ের জ্ঞান আল্লাহর কাছেই রেখেছে, সে আয়াতের আলোচনায় তা এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Sahih Collections Record",
+          "bn": "সহীহ গ্রন্থে যা আছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir writes that the hadiths from the Messenger of Allah ﷺ are mutawatir in reporting the descent of 'Isa (AS) before the Day of Resurrection, as a just imam and an equitable judge. Al-Baghawi brings one under this verse with his own chain running through Muhammad ibn Isma'il, al-Bukhari. Its wording stands in Sahih al-Bukhari 3449, from Abu Hurayrah (RA): the Messenger of Allah ﷺ said, \"How will you be when the son of Maryam descends among you, and your imam is from among you?\"",
+            "bn": "ইবন কাসীর লেখেন, কিয়ামত দিবসের আগে ঈসা (আঃ)-এর অবতরণের খবর রাসূলুল্লাহ ﷺ থেকে মুতাওয়াতির হাদীসে এসেছে, তিনি আসবেন ন্যায়পরায়ণ ইমাম আর ইনসাফকারী বিচারক হয়ে। বাগাভী এ আয়াতের অধীনে একটি হাদীস আনেন নিজের সনদে, যা মুহাম্মাদ ইবন ইসমাঈল, অর্থাৎ ইমাম বুখারীর মধ্য দিয়ে গেছে। হাদীসটির ভাষ্য সহীহ বুখারীর ৩৪৪৯ নম্বরে আবু হুরায়রা (রাঃ) থেকে আছে। রাসূলুল্লাহ ﷺ বলেছেন: \"তোমাদের অবস্থা কেমন হবে, যখন মারইয়ামের পুত্র তোমাদের মাঝে নেমে আসবেন, আর তোমাদের ইমাম হবেন তোমাদেরই একজন?\""
+          },
+          {
+            "en": "Al-Bukhari records at 3448, also from Abu Hurayrah (RA), that the Messenger of Allah ﷺ said: \"By Him in whose hand is my soul, the son of Maryam will soon descend among you as a just judge. He will break the cross, kill the swine and set aside the jizya, and wealth will flow until no one accepts it, until a single prostration is better than the world and all it holds.\" Abu Hurayrah then said: recite if you wish, 4:159. Muslim records the narration too, at 155, with Ibn Abi Dhi'b's gloss: he leads you by your Lord's Book and your Prophet's Sunnah.",
+            "bn": "বুখারী ৩৪৪৮ নম্বরে, আবু হুরায়রা (রাঃ) থেকেই, বর্ণনা করেন যে রাসূলুল্লাহ ﷺ বলেছেন: \"যাঁর হাতে আমার প্রাণ, তাঁর কসম, অচিরেই মারইয়ামের পুত্র তোমাদের মাঝে ন্যায়বিচারক হয়ে নেমে আসবেন। তিনি ক্রুশ ভেঙে ফেলবেন, শূকর হত্যা করবেন, জিযিয়া তুলে দেবেন। সম্পদ এত উপচে পড়বে যে কেউ তা নিতে চাইবে না, এমনকি একটি সিজদা দুনিয়া ও তার সবকিছুর চেয়ে উত্তম হবে।\" এরপর আবু হুরায়রা বলতেন: চাইলে পড়ো, ৪:১৫৯। মুসলিমও ১৫৫ নম্বরে বর্ণনাটি এনেছেন, সঙ্গে ইবন আবী যি'বের ব্যাখ্যা: তিনি তোমাদের নেতৃত্ব দেবেন তোমাদের রবের কিতাব আর তোমাদের নবীর সুন্নাহ দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi reports his scholars' conclusion from such texts: 'Isa (AS) descends renewing the religion of the Prophet ﷺ, not with a new law. This needs saying plainly: these narrations describe what 'Isa (AS) will do when Allah sends him down, at a time Allah alone knows. They license nothing against any living person or community, and they give no one today a warrant to act in his place. The commentators also relay longer reports, some with no source given and some not found in these collections; they are left out here.",
+            "bn": "এসব বর্ণনা থেকে কুরতুবী তাঁর আলেমদের সিদ্ধান্ত উল্লেখ করেন: ঈসা (আঃ) নেমে আসবেন নবী ﷺ-এর দীনকে নতুন করে জাগিয়ে তুলতে, নতুন কোনো শরীআত নিয়ে নয়। একটা কথা সোজাসুজি বলা দরকার। এসব বর্ণনা জানায়, আল্লাহ যখন ঈসা (আঃ)-কে নামাবেন, তখন তিনি কী করবেন। সে সময় কবে, তা আল্লাহই জানেন। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ বর্ণনা কোনো অনুমতি দেয় না, আর আজ কাউকে তাঁর জায়গায় দাঁড়িয়ে কাজ করার অধিকারও দেয় না। তাফসীরকারেরা আরও লম্বা কিছু বর্ণনা আনেন, কোনোটির সূত্র উল্লেখ নেই, কোনোটি এই গ্রন্থগুলোতে পাওয়া যায় না। সেগুলো এখানে বাদ রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Do Not Doubt, and Follow",
+          "bn": "সন্দেহ নয়, অনুসরণ"
+        },
+        "p": [
+          {
+            "en": "Fa-la tamtarunna biha: so do not doubt it, and the commentators take it to mean the Hour. At-Tabari addresses everyone: do not doubt it or its coming, O people. Al-Qurtubi gives as-Suddi: do not deny it and do not argue about it, for it is bound to happen. Al-Baghawi gives Ibn 'Abbas: do not deny it. As-Sa'di is the sharpest of them: do not doubt that the Hour will be established, for doubt about it is disbelief. The verse asks for certainty before it asks for anything else.",
+            "bn": "ফালা তামতারুন্না বিহা: অতএব এতে সন্দেহ কোরো না। তাফসীরকারেরা বলেন, এখানে কথা কিয়ামতের। তাবারী কথাটা সবার দিকে ফেরান: হে মানুষ, কিয়ামত আর তার আগমন নিয়ে সন্দেহ কোরো না। কুরতুবী আনেন সুদ্দীর কথা: একে অস্বীকার কোরো না, এ নিয়ে তর্কও কোরো না, কারণ তা ঘটবেই। বাগাভী আনেন ইবন আব্বাসের কথা: একে মিথ্যা বোলো না। সা'দী সবচেয়ে কড়া: কিয়ামত কায়েম হওয়া নিয়ে সন্দেহ কোরো না, কেননা এতে সন্দেহ করা কুফর। অন্য কিছু চাওয়ার আগে আয়াত চায় নিশ্চয়তা।"
+          },
+          {
+            "en": "Then wa-ttabi'un, and follow me. At-Tabari makes Allah the speaker: obey Me, act on what I have commanded you and refrain from what I have forbidden you. The Muyassar and al-Qurtubi gloss it as the Messenger's ﷺ words: follow me in what I tell you, or convey to you, from Allah. Either way the path ends in one place. At-Tabari calls it a road with no crookedness in it; al-Qurtubi says to Allah, that is, to His Garden. The same closing words return in 43:64, from 'Isa (AS) himself.",
+            "bn": "এরপর ওয়াত্তাবিঊন, আর আমার অনুসরণ কর। তাবারীর মতে বক্তা আল্লাহ নিজে: আমার আনুগত্য কর, যা আদেশ করেছি তা পালন কর, যা নিষেধ করেছি তা থেকে বিরত থাকো। মুয়াসসার আর কুরতুবী একে রাসূল ﷺ-এর কথা হিসেবে ব্যাখ্যা করেন: আল্লাহর পক্ষ থেকে যা জানাই বা পৌঁছে দিই, তাতে আমার অনুসরণ কর। যেভাবেই পড়ুন, পথ শেষ হয় একই জায়গায়। তাবারী একে বলেন এমন পথ, যাতে কোনো বাঁক নেই। কুরতুবী বলেন, আল্লাহর দিকে, অর্থাৎ তাঁর জান্নাতের দিকে। শেষের এই কথাগুলো ৪৩:৬৪ আয়াতে আবার আসে, ঈসা (আঃ)-এর নিজের মুখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Certain, Without a Calendar",
+          "bn": "নিশ্চিত, তবে তারিখ ছাড়া"
+        },
+        "p": [
+          {
+            "en": "Read for oneself, the verse turns attention from a quarrel to a certainty. Whichever referent a reader follows, 'Isa (AS), the Qur'an or the Messenger ﷺ, the sign does the same work: it makes the Hour sure, not datable. Someone who turns the signs into a calendar, matching headlines to narrations, takes from the verse what it does not give and leaves what it does. What it gives is two commands. Do not doubt, and follow. A day can be measured against both.",
+            "bn": "নিজের জন্য পড়লে দেখা যায়, আয়াত মনোযোগ সরিয়ে নেয় ঝগড়া থেকে নিশ্চয়তার দিকে। পাঠক সর্বনামটি যার দিকেই ফেরান, ঈসা (আঃ), কুরআন বা রাসূল ﷺ, নিদর্শনের কাজ একই: কিয়ামতকে নিশ্চিত করা, তার তারিখ জানানো নয়। যে আলামতগুলোকে ক্যালেন্ডার বানিয়ে খবরের শিরোনামের সঙ্গে বর্ণনা মেলাতে বসে, সে আয়াত থেকে নেয় যা আয়াত দেয়নি, আর ফেলে রাখে যা দিয়েছে। আয়াত দিয়েছে দুটি আদেশ। সন্দেহ কোরো না, আর অনুসরণ কর। প্রতিটি দিন এই দুটি দিয়ে মেপে দেখা যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "43:65": {
     "sections": [
       {
