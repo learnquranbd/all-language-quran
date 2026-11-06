@@ -23731,6 +23731,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What Allah made to serve you is a reason for thanks: say His name over it, eat from it, and feed the needy, both those who ask and those who do not.",
     "lessonBn": "আল্লাহ যা আপনার সেবায় লাগিয়েছেন, তা শোকরের কারণ। তার উপর তাঁর নাম নিন, তা থেকে খান, আর অভাবীদের খাওয়ান, যারা চায় তাদেরও, যারা চায় না তাদেরও।"
+  },
+  "22:60": {
+    "reflectionEn": "Someone wrongs you, and the Qur'an does not pretend you felt nothing. It allows an answer, but only the like of what was done, and not a measure more. Then it goes further. If the one who wronged you comes back and wrongs you again because you answered, Allah Himself promises to help you. And then, where you might expect the verse to end on power, it ends on two names: Pardoning, Forgiving. The door to fairness is open, and the verse points past it to something higher. Most of my grievances are small, but the urge to win them is not. When I am hurt, do I keep the score exact, or do I add a little interest? And can I let some debts go entirely?",
+    "reflectionBn": "কেউ আপনার উপর অন্যায় করল। কুরআন ভান করে না যে আপনার কিছুই লাগেনি। জবাব দেওয়ার অনুমতি সে দেয়, তবে ঠিক যতটুকু করা হয়েছে ততটুকুই, এক চুলও বেশি নয়। তারপর আরও এগোয়। জবাব দেওয়ার কারণে যদি অন্যায়কারী ফিরে এসে আবার আপনার উপর চড়াও হয়, আল্লাহ নিজেই আপনাকে সাহায্যের ওয়াদা দেন। আর ঠিক যেখানে মনে হয় আয়াত শক্তির কথায় শেষ হবে, সেখানে এসে সে থামে দুটি নামে: মাফকারী, ক্ষমাশীল। ন্যায্য বদলার দরজা খোলা, কিন্তু আয়াত তার ওপারে আরও উঁচু কিছুর দিকে ইশারা করে। আমার বেশিরভাগ ক্ষোভই ছোট, কিন্তু জেতার জেদটা ছোট নয়। আঘাত পেলে আমি কি হিসাব ঠিক ঠিক রাখি, নাকি একটু সুদ জুড়ে দিই? আর কিছু পাওনা কি পুরোপুরি ছেড়ে দিতে পারি?",
+    "pointsEn": [
+      "The last time someone hurt me, was my answer the same size as the hurt, or did I make it a little bigger?",
+      "Which grievance am I still carrying that I could settle today by simply letting it go?",
+      "When I take back what is mine, do I stop there, or do I keep reminding the other person of what they did?",
+      "If Allah describes Himself as Pardoning and Forgiving right after allowing a fair answer, what is He inviting me towards?",
+      "Is there someone who answered my wrong fairly, and whom I then wronged again for answering?"
+    ],
+    "pointsBn": [
+      "শেষবার কেউ যখন আমাকে আঘাত দিল, আমার জবাব কি আঘাতের সমান ছিল, নাকি একটু বাড়িয়ে দিয়েছিলাম?",
+      "কোন ক্ষোভ আমি এখনো বয়ে বেড়াচ্ছি, যা আজই শুধু ছেড়ে দিয়ে মিটিয়ে ফেলা যায়?",
+      "নিজের হক ফিরিয়ে নেওয়ার পর আমি কি থেমে যাই, নাকি বারবার মনে করিয়ে দিই সে আমার সঙ্গে কী করেছিল?",
+      "ন্যায্য বদলার অনুমতি দেওয়ার ঠিক পরেই আল্লাহ যখন নিজেকে মাফকারী ও ক্ষমাশীল বলে পরিচয় দেন, তিনি আমাকে কোন দিকে ডাকছেন?",
+      "এমন কেউ কি আছে, যে আমার অন্যায়ের ন্যায্য জবাব দিয়েছিল, আর জবাব দেওয়ার জন্য আমি তার উপর আবার অন্যায় করেছি?"
+    ],
+    "lessonEn": "If you answer a wrong, answer only its equal and never more; better still, pardon, because the One who promises to help the wronged is Himself Pardoning and Forgiving.",
+    "lessonBn": "অন্যায়ের জবাব দিলে ঠিক সমান জবাব দিন, এক বিন্দুও বেশি নয়। তার চেয়েও ভালো, মাফ করে দিন, কারণ মজলুমকে সাহায্যের ওয়াদা যিনি দেন, তিনি নিজেই মাফকারী, ক্ষমাশীল।"
   }
 };
 

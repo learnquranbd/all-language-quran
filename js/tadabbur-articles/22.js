@@ -2383,6 +2383,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:60": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Hinge Called Dhalika",
+          "bn": "যালিকা: দুই কথার জোড়া"
+        },
+        "p": [
+          {
+            "en": "The verse opens with one word, dhalika, that is so, and then turns to a new subject. The two verses before it promised the emigrants who were killed or died on Allah's road a good provision and an entrance they will be pleased with. Al-Muyassar, al-Baghawi and al-Qurtubi all read dhalika as a seal on that: that is the matter We have related to you. Al-Qurtubi adds a note of grammar: the word is in the nominative case.",
+            "bn": "আয়াতটি শুরু হয় একটি শব্দে, যালিকা, অর্থাৎ এ-ই হলো কথা। তারপরই প্রসঙ্গ বদলায়। আগের দুই আয়াতে ওয়াদা ছিল, যারা আল্লাহর পথে হিজরত করে নিহত হয়েছে বা মারা গেছে, তারা পাবে উত্তম রিযক আর এমন প্রবেশস্থল, যাতে তারা খুশি হবে। মুয়াসসার, বাগাভী ও কুরতুবী তিনজনই যালিকাকে সেই কথার সমাপ্তি হিসেবে পড়েন: এ-ই সেই বিষয়, যা আমি তোমাকে শুনিয়েছি। কুরতুবী ব্যাকরণটাও বলে দেন: শব্দটি রফা অবস্থায় আছে।"
+          },
+          {
+            "en": "At-Tabari makes the hinge do more work. For him, dhalika means: this is for those who emigrated and were then killed or died, and they have, besides that, a further promise, that Allah will help them against the idolaters who wronged them and drove them from their homes. So the help named in this verse is, in his reading, an addition to the reward of the verses before, not a change of subject. That reward is told in its own place; here it is only the doorway.",
+            "bn": "তাবারীর কাছে এই জোড়ার কাজ আরও বেশি। তাঁর ব্যাখ্যায় যালিকা মানে: এ হলো তাদের জন্য, যারা হিজরত করেছে, তারপর নিহত হয়েছে বা মারা গেছে। এর সঙ্গে তাদের জন্য আরেকটি ওয়াদাও আছে। যে মুশরিকরা তাদের উপর জুলুম করেছে আর ঘরবাড়ি থেকে বের করে দিয়েছে, তাদের বিরুদ্ধে আল্লাহ তাদের সাহায্য করবেন। অর্থাৎ তাবারীর পাঠে এ আয়াতের সাহায্যের কথা আগের আয়াতের প্রতিদানের সঙ্গে বাড়তি পাওনা, প্রসঙ্গ বদল নয়। সেই প্রতিদানের আলোচনা নিজ জায়গায় আছে। এখানে তা কেবল প্রবেশপথ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Requital Wearing Punishment's Name",
+          "bn": "বদলার গায়ে শাস্তির নাম"
+        },
+        "p": [
+          {
+            "en": "Then the new clause: wa-man 'aqaba bi-mithli ma 'uqiba bihi, and whoever penalises with the like of that with which he was penalised. Both verbs come from the root '-q-b, the word for punishment. Yet the first person did nothing that deserves the name. He was wronged, and he answered. Al-Baghawi says it directly: the first 'iqab here means jaza', a requital, and the phrase means he repaid the wrongdoer with the like of his wrong.",
+            "bn": "এরপর নতুন বাক্য: ওয়া মান আকাবা বিমিসলি মা উকিবা বিহি, আর যে ব্যক্তি ঠিক ততটুকুই শাস্তি দেয়, যতটুকু তাকে দেওয়া হয়েছিল। দুটি ক্রিয়াই আইন-কাফ-বা ধাতু থেকে, যার অর্থ শাস্তি। অথচ প্রথম মানুষটি এমন কিছু করেনি যাকে শাস্তি বলা যায়। তার উপর জুলুম হয়েছিল, সে জবাব দিয়েছে। বাগাভী সোজা বলে দেন: এখানে প্রথম ইকাব মানে জাযা, অর্থাৎ বদলা। বাক্যের অর্থ, সে জালিমকে তার জুলুমের সমান প্রতিদান দিয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi explains why the Qur'an chose the harsher word anyway. The requital is called a punishment because the two acts are equal in their outward form. He sets it beside two other verses built the same way: the recompense of an evil is an evil like it (42:40), and whoever transgresses against you, transgress against him with the like of what he did to you (2:194). In each, the answer borrows the name of the wrong it answers, and in each, the like is what it is held to.",
+            "bn": "কুরআন তবু কেন কড়া শব্দটাই বেছে নিল, কুরতুবী তার ব্যাখ্যা দেন। বাহ্যিক চেহারায় দুটি কাজ একই রকম, তাই বদলাকেও শাস্তি বলা হয়েছে। এর পাশে তিনি একই ধাঁচের আরও দুটি আয়াত রাখেন। মন্দের প্রতিফল তারই মতো মন্দ (৪২:৪০)। আর যে তোমাদের উপর বাড়াবাড়ি করে, তোমরাও তার উপর ততটুকু বাড়াবাড়ি করো, যতটুকু সে করেছে (২:১৯৪)। প্রতিটি জায়গায় জবাবটা যে অন্যায়ের জবাব, তারই নাম ধার করে। আর প্রতিটি জায়গায় জবাব বাঁধা থাকে সেই সমানের মধ্যে।"
+          },
+          {
+            "en": "Who is the one answering? Al-Baghawi relays al-Hasan: he fought the idolaters as they had fought him. Ibn Jurayj, in at-Tabari, also reads the verse about the idolaters who wronged the Prophet ﷺ, and then adds a short second line: he said it concerns qisas as well, the law of equal retribution. So the clause is read about a community under attack and, alongside that, about the legal answer to an injury.",
+            "bn": "জবাবদাতা কে? বাগাভী হাসানের কথা উদ্ধৃত করেন: মুশরিকরা যেভাবে তার সঙ্গে লড়েছে, সে-ও তাদের সঙ্গে সেভাবে লড়েছে। তাবারীর বর্ণনায় ইবন জুরাইজও আয়াতটি পড়েন সেই মুশরিকদের প্রসঙ্গে, যারা নবী ﷺ-এর উপর জুলুম করেছিল। তারপর ছোট্ট একটা কথা জুড়ে দেন: তিনি কিসাসের ব্যাপারেও এটা বলেছেন, অর্থাৎ সমান বদলার বিধানের ব্যাপারে। ফলে বাক্যটির এক পাঠ আক্রান্ত এক জামাআতকে নিয়ে, আর তার পাশাপাশি আরেক পাঠ আঘাতের আইনি জবাব নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Like, and No More",
+          "bn": "সমান, এক চুলও বেশি নয়"
+        },
+        "p": [
+          {
+            "en": "Everything in the permission hangs on one word, mithl, the like. Al-Muyassar puts the rule in plain terms: whoever is attacked and wronged has been given leave to meet the offender with the like of his deed, and there is no blame on him. As-Sa'di uses almost the same words. It is permissible for the injured party to answer the one who injured him with the like of his injury, and if he does so, there is no way against him and he is not to be reproached.",
+            "bn": "পুরো অনুমতিটা ঝুলে আছে একটি শব্দে: মিসল, অর্থাৎ সমান। মুয়াসসার নিয়মটা সাদা ভাষায় বলেন। যার উপর হামলা হয়েছে, জুলুম হয়েছে, তাকে অনুমতি দেওয়া হয়েছে অপরাধীর কাজের সমান জবাব দিতে, আর এতে তার কোনো দোষ নেই। সা'দীও প্রায় একই কথা বলেন। যার ক্ষতি করা হয়েছে, সে ক্ষতিকারীকে তার ক্ষতির সমান জবাব দিতে পারে। এমন করলে তার বিরুদ্ধে কোনো অভিযোগের পথ থাকে না, তাকে তিরস্কারও করা যায় না।"
+          },
+          {
+            "en": "Read the other way, the same word is a ceiling. The leave covers the like of what was done, and nothing in the clause reaches past it. Ma'arif al-Qur'an describes the result: the one who retaliates serves a full measure of retribution, and that should place the two of them on even terms, as quits. The account is closed at that point. Whatever goes beyond the like is no longer an answer to the first wrong; it is a fresh wrong, and the verse has given it no cover.",
+            "bn": "উল্টো দিক থেকে পড়লে এই একই শব্দ একটা সীমারেখা। অনুমতি কেবল যা করা হয়েছে তার সমানটুকুর জন্য, বাক্যের কোথাও এর বাইরের কিছু নেই। মাআরিফুল কুরআন ফলটা বর্ণনা করে। যে বদলা নেয়, সে পূর্ণ মাপে প্রতিশোধ নিয়েছে। এতে দুজন সমান সমান হয়ে যাওয়ার কথা, কারও কাছে কারও পাওনা আর থাকে না। হিসাব সেখানেই বন্ধ। সমানের বাইরে যা যায়, তা আর প্রথম অন্যায়ের জবাব থাকে না। সেটা নতুন এক অন্যায়, আর আয়াত তাকে কোনো আশ্রয় দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wronged After Taking His Due",
+          "bn": "হক নেওয়ার পর আবার জুলুম"
+        },
+        "p": [
+          {
+            "en": "Then comes thumma bughiya 'alayhi, then he is wronged, from baghy, aggression that oversteps. Here the commentators part ways over what the then refers to. Al-Muyassar, as-Sa'di and Ma'arif al-Qur'an take it as a second wrong. The account was settled, and then the offender came back and attacked again; Ma'arif pictures him incensed at the retaliation. Al-Muyassar and as-Sa'di give the reason Allah sides with him: it is not allowed to wrong a man because he took his own due.",
+            "bn": "এরপর আসে সুম্মা বুগিয়া আলাইহি, তারপর তার উপর জুলুম করা হয়। বাগই মানে সীমা ছাড়ানো আগ্রাসন। এখানে এসে তাফসীরকারদের পথ আলাদা হয়ে যায়, 'তারপর' শব্দটি কোন ঘটনার দিকে ইশারা করছে তা নিয়ে। মুয়াসসার, সা'দী আর মাআরিফুল কুরআন একে দ্বিতীয় জুলুম হিসেবে পড়েন। হিসাব মিটে গিয়েছিল। তারপর অপরাধী ফিরে এসে আবার হামলা করল। মাআরিফের ছবিতে সে বদলা খেয়ে রাগে জ্বলছে। আল্লাহ কেন তার পক্ষে, মুয়াসসার ও সা'দী সে কারণও বলেন: নিজের হক আদায় করে নেওয়ার কারণে কারও উপর জুলুম করা জায়েজ নয়।"
+          },
+          {
+            "en": "At-Tabari's text reads the then differently. In the occasion report he relays, bughiya 'alayhi is glossed as being attacked first, made to fight while he was unwilling. The aggression meant is the first, the thing that forced the answer. Al-Baghawi and al-Qurtubi read it as the wider wrong done to the believers. For al-Baghawi it was being driven from their homes until the idolaters forced the believers to leave their lands; for al-Qurtubi it was harsh words and being pushed out of the homeland.",
+            "bn": "তাবারীর পাঠে 'তারপর' অন্য অর্থ বহন করে। তিনি শানে নুযূলের যে বর্ণনা আনেন, তাতে বুগিয়া আলাইহির ব্যাখ্যা হলো: তার বিরুদ্ধে আগে যুদ্ধ শুরু করা হয়েছে, অথচ সে লড়তে চায়নি। এখানে আগ্রাসনটা প্রথমটিই, যা তাকে জবাব দিতে বাধ্য করেছে। বাগাভী ও কুরতুবী একে পড়েন মুমিনদের উপর হওয়া বৃহত্তর জুলুম হিসেবে। বাগাভীর কাছে তা হলো ঘর থেকে বের করে দেওয়া। মুশরিকরা এমন অবস্থা তৈরি করেছিল যে মুমিনরা নিজেদের দেশ ছাড়তে বাধ্য হয়। কুরতুবীর কাছে তা কটু কথা আর জন্মভূমি থেকে উৎখাত করা।"
+          },
+          {
+            "en": "The two readings are not resolved in the texts, and they need not be. On the first, the verse protects a man who has already been made whole and is struck again for it. On the second, it describes a believer who answered aggression he never wanted. Either way the help is promised to the wronged party, and either way whoever receives it has stayed inside the like. Neither reading turns the promise towards whoever goes first or goes further.",
+            "bn": "তাফসীরগুলোতে এ দুই পাঠের মীমাংসা হয়নি, হওয়ার দরকারও নেই। প্রথম পাঠে আয়াত সেই মানুষকে রক্ষা করে, যার পাওনা মিটে গেছে, আর সেজন্যই যার উপর আবার আঘাত আসে। দ্বিতীয় পাঠে আয়াত এমন এক মুমিনের কথা বলে, যে না চাইতেই আসা আগ্রাসনের জবাব দিয়েছে। দুই পাঠেই সাহায্যের ওয়াদা মজলুমের জন্য। দুই পাঠেই যে সাহায্য পায়, সে সমানের সীমার ভেতরে থেকেছে। কোনো পাঠেই এ ওয়াদা তার দিকে যায় না, যে আগে হাত তোলে বা সীমা ছাড়িয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Skirmish in the Sacred Month",
+          "bn": "হারাম মাসের এক সংঘর্ষ"
+        },
+        "p": [
+          {
+            "en": "Several commentators record an occasion. Ibn Kathir says that Muqatil ibn Hayyan and Ibn Jurayj mentioned it was revealed about a small party of Companions who met a band of idolaters in the month of Muharram. The Muslims pleaded with them not to fight in the sacred month; the idolaters refused anything but fighting and wronged them. So the Muslims fought, and Allah gave them victory. Al-Baghawi gives the same account without a name and dates it to two nights before Muharram ended.",
+            "bn": "কয়েকজন তাফসীরকার একটি শানে নুযূল উল্লেখ করেন। ইবন কাসীর বলেন, মুকাতিল ইবন হাইয়ান ও ইবন জুরাইজ জানিয়েছেন, আয়াতটি নাযিল হয় সাহাবীদের ছোট্ট এক দলকে নিয়ে। মুহাররম মাসে মুশরিকদের এক দলের সঙ্গে তাঁদের দেখা হয়। মুসলমানরা মিনতি করেন, হারাম মাসে যেন লড়াই না হয়। মুশরিকরা লড়াই ছাড়া আর কিছুতে রাজি হয়নি, তারা জুলুম করে বসে। তখন মুসলমানরা লড়েন, আর আল্লাহ তাঁদের বিজয় দেন। বাগাভী একই ঘটনা কারও নাম ছাড়া আনেন, আর তারিখ দেন মুহাররম শেষ হওয়ার দুই রাত আগে।"
+          },
+          {
+            "en": "Al-Qurtubi gives it from Muqatil with more texture. The idolaters of Makkah told one another that the companions of Muhammad ﷺ dislike fighting in the sacred month, so charge them. The Muslims stood firm and were helped, but something stayed in their hearts over having fought in that month, and the verse came down. At-Tabari reports the same story but opens it with the words: some of them claimed. He gives it no name and no chain, after first quoting Ibn Jurayj's more general reading.",
+            "bn": "কুরতুবী ঘটনাটি আনেন মুকাতিল থেকে, আরও খুঁটিনাটিসহ। মক্কার মুশরিকরা একে অপরকে বলল, মুহাম্মাদ ﷺ-এর সাথীরা হারাম মাসে লড়তে চায় না, কাজেই ওদের উপর হামলে পড়ো। মুসলমানরা অটল থাকলেন, আল্লাহ তাঁদের সাহায্য করলেন। তবু সেই মাসে লড়াই করা নিয়ে তাঁদের মনে খচখচানি রয়ে গেল, তখন আয়াতটি নাযিল হয়। তাবারীও একই কাহিনি আনেন, তবে শুরু করেন এ কথায়: তাঁদের কেউ কেউ দাবি করতেন। কারও নাম বা সনদ তিনি দেন না। তার আগে তিনি ইবন জুরাইজের আরও সাধারণ ব্যাখ্যাটি উদ্ধৃত করে নিয়েছেন।"
+          },
+          {
+            "en": "That is the extent of what these sources hold. None of the commentaries fetched for this verse attaches a hadith to it, and none of them takes up whether this passage was revealed in Makkah or in Madinah. The occasion, then, is a report the mufassirs relay with varying confidence, and the verse's wording is general. It speaks of whoever answers a wrong with its like, which is how al-Muyassar and as-Sa'di explain it, as a rule about any person wronged.",
+            "bn": "এই সূত্রগুলোতে এর বেশি কিছু নেই। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। এ অংশ মক্কায় নাযিল হয়েছে নাকি মদীনায়, সে প্রশ্নও কেউ তোলেননি। শানে নুযূলটি তাই এমন এক বর্ণনা, যা মুফাসসিররা ভিন্ন ভিন্ন মাত্রার আস্থায় উদ্ধৃত করেন। আর আয়াতের ভাষা সাধারণ। সে বলে, যে-ই অন্যায়ের সমান জবাব দেয়। মুয়াসসার ও সা'দী আয়াতটি এভাবেই ব্যাখ্যা করেন, যে কোনো মজলুম মানুষের ব্যাপারে এক নিয়ম হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Help Sworn to the Wronged",
+          "bn": "মজলুমের জন্য কসমের ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "La-yansurannahu Allah: Allah will surely help him. The verb carries the emphatic ending of an oath, and the same ending ran through the two promises before it, la-yarzuqannahum and la-yudkhilannahum. Al-Qurtubi names who was meant first: Allah will help Muhammad ﷺ and his companions, because the disbelievers had wronged them. Ma'arif al-Qur'an ties the promise back to an earlier verse of the surah, and indeed Allah is able to give them victory (22:39), and reads this verse as extending that help to the person wronged a second time.",
+            "bn": "লাইয়ানসুরান্নাহুল্লাহ: আল্লাহ অবশ্যই তাকে সাহায্য করবেন। ক্রিয়াটির শেষে কসমের জোরালো রূপ। আগের দুই ওয়াদাতেও ছিল ঠিক এই রূপ: লাইয়ারযুকান্নাহুম আর লাইউদখিলান্নাহুম। প্রথমে কারা উদ্দেশ্য, কুরতুবী তা বলে দেন। আল্লাহ সাহায্য করবেন মুহাম্মাদ ﷺ ও তাঁর সাহাবীদের, কারণ কাফিররা তাঁদের উপর জুলুম করেছিল। মাআরিফুল কুরআন ওয়াদাটিকে জুড়ে দেয় এই সূরারই আগের এক আয়াতের সঙ্গে: আর আল্লাহ অবশ্যই তাদের সাহায্য করতে সক্ষম (২২:৩৯)। তার পাঠে এ আয়াত সেই সাহায্যকে প্রসারিত করে দ্বিতীয়বার জুলুমের শিকার মানুষটির দিকেও।"
+          },
+          {
+            "en": "As-Sa'di draws an inference from the promise that turns it gently against the urge to retaliate. If Allah helps the person who repaid a wrong with its like and was then wronged again, then the person who in the first place punished no one when he was wronged and injured is nearer still to that help. The promise covers the man who took his due. It reaches further, in as-Sa'di's reasoning, towards the man who did not take it at all.",
+            "bn": "সা'দী এই ওয়াদা থেকে এক সিদ্ধান্ত টানেন, যা নরমভাবে বদলার ঝোঁকের বিপরীতে দাঁড়ায়। যে সমান বদলা নিয়েছে, তারপর আবার জুলুমের শিকার হয়েছে, আল্লাহ যদি তাকে সাহায্য করেন, তবে যে শুরু থেকেই জুলুম ও আঘাতের পরও কাউকে শাস্তি দেয়নি, সাহায্য তার আরও কাছে। হক আদায় করে নেওয়া মানুষটিও ওয়াদার ভেতরে আছে। কিন্তু সা'দীর যুক্তিতে ওয়াদা আরও বেশি করে পৌঁছায় তার কাছে, যে হকটা আদৌ আদায় করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why It Ends on Pardon",
+          "bn": "শেষ কথা কেন মাফ"
+        },
+        "p": [
+          {
+            "en": "Inna Allaha la-'afuwwun ghafur: indeed Allah is Pardoning, Forgiving. A verse about answering a wrong closes on two names of mercy, and the commentators explain the pairing in different ways. At-Tabari applies both names to the person who answered. Allah is the possessor of pardon and overlooking for whoever took redress from the man who wronged him, after being wronged; and forgiving for what he did to the man who began the wrong, the like of what was done to him, not punishing him for it.",
+            "bn": "ইন্নাল্লাহা লাআফুউউন গাফূর: নিশ্চয়ই আল্লাহ মাফকারী, ক্ষমাশীল। অন্যায়ের জবাব নিয়ে যে আয়াত, তার শেষে রহমতের দুটি নাম। এই জোড়ার ব্যাখ্যা তাফসীরকাররা দেন ভিন্ন ভিন্নভাবে। তাবারী দুটি নামই প্রয়োগ করেন জবাবদাতার উপর। যে জুলুমের শিকার হয়ে জালিমের কাছ থেকে প্রতিকার নিয়েছে, আল্লাহ তার প্রতি মাফ ও উদারতার মালিক। আর যে প্রথম জুলুম শুরু করেছিল, তার সঙ্গে সে যা করেছে, অর্থাৎ নিজের সঙ্গে যা হয়েছিল তার সমান, তা আল্লাহ ক্ষমা করেন, এর জন্য তাকে শাস্তি দেন না।"
+          },
+          {
+            "en": "Al-Qurtubi ties the names to the occasion. Allah pardoned the believers their sins and their fighting in the sacred month, and covered it. Al-Baghawi keeps it wider: He pardoned the believers' misdeeds and forgave their sins. Ma'arif al-Qur'an, citing Ruh al-Ma'ani, sees a worry being answered. The Qur'an elsewhere prefers pardon, so a reader might think the retaliator loses Allah's support. The closing names remove that doubt: Allah will not punish him for this lapse, and will help him if wronged again.",
+            "bn": "কুরতুবী নাম দুটিকে জুড়ে দেন শানে নুযূলের সঙ্গে। আল্লাহ মুমিনদের গুনাহ আর হারাম মাসে তাঁদের লড়াই মাফ করে দিয়েছেন, ঢেকে রেখেছেন। বাগাভী কথাটা রাখেন আরও ব্যাপক: তিনি মুমিনদের ভুলত্রুটি মাফ করেছেন, তাঁদের গুনাহ ক্ষমা করেছেন। মাআরিফুল কুরআন রূহুল মাআনীর বরাতে এখানে এক দুশ্চিন্তার জবাব দেখে। কুরআন অন্যত্র মাফ করাকেই বেশি পছন্দ করে, তাই কেউ ভাবতে পারে, বদলা নিলে আল্লাহর সাহায্য হাতছাড়া হবে। শেষের নাম দুটি সেই সংশয় দূর করে। এই ত্রুটির জন্য আল্লাহ তাকে শাস্তি দেবেন না, আবার জুলুম হলে তাকে সাহায্যও করবেন।"
+          },
+          {
+            "en": "As-Sa'di reads the names as a call to the wronged themselves. Pardon and forgiveness are Allah's settled attribute, and His dealing with His servants at every moment. So, he says, you who are wronged and injured ought to pardon, overlook and forgive, so that Allah may treat you as you treat His servants, and he cites 42:40: whoever pardons and makes peace, his reward is with Allah. Al-Muyassar gives the general sense, that He does not hasten punishment on sinners but forgives them.",
+            "bn": "সা'দী নাম দুটিকে পড়েন খোদ মজলুমদের প্রতি এক আহ্বান হিসেবে। মাফ আর ক্ষমা আল্লাহর স্থায়ী গুণ, প্রতিটি মুহূর্তে বান্দাদের সঙ্গে এটাই তাঁর আচরণ। তাই তিনি বলেন, হে জুলুম ও আঘাতের শিকার মানুষেরা, তোমাদের উচিত মাফ করা, এড়িয়ে যাওয়া, ক্ষমা করা। তাহলে তোমরা তাঁর বান্দাদের সঙ্গে যেমন আচরণ করো, আল্লাহও তোমাদের সঙ্গে তেমন করবেন। এর সমর্থনে তিনি আনেন ৪২:৪০: যে মাফ করে ও সংশোধন করে, তার প্রতিদান আল্লাহর জিম্মায়। মুয়াসসার দেন সাধারণ অর্থ। গুনাহগারদের তিনি তাড়াহুড়ো করে শাস্তি দেন না, বরং ক্ষমা করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ceiling, and a Higher Door",
+          "bn": "এক সীমা, আর উঁচু এক দরজা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what its text describes: a party wronged, an answer held to the like, help promised against renewed aggression, and two names of pardon. It sets a limit on retaliation and praises pardon. It licenses nothing against any living person or community, and it gives no individual a warrant for private revenge. The commentators read the permission through the bound of equivalence, and as-Sa'di and Ma'arif al-Qur'an through the preference for pardon. To use it to justify going further is to read past its own words.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত বর্ণনা করে কেবল তা-ই, যা তার ভাষায় আছে: এক পক্ষ জুলুমের শিকার, তার জবাব সমানের মধ্যে বাঁধা, নতুন আগ্রাসনের বিরুদ্ধে সাহায্যের ওয়াদা, আর মাফের দুটি নাম। আয়াত বদলার উপর সীমা টেনে দেয় আর মাফ করার প্রশংসা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে সে কিছুরই অনুমতি দেয় না। কোনো ব্যক্তিকে নিজ হাতে প্রতিশোধ নেওয়ার ছাড়পত্রও দেয় না। তাফসীরকাররা অনুমতিটা পড়েন সমতার সীমা দিয়ে, আর সা'দী ও মাআরিফুল কুরআন পড়েন মাফের শ্রেষ্ঠত্ব দিয়ে। একে আরও এগিয়ে যাওয়ার অজুহাত বানানো মানে আয়াতের নিজের কথার বাইরে চলে যাওয়া।"
+          },
+          {
+            "en": "The sources do not weigh the permitted answer the same way. Al-Muyassar and as-Sa'di say there is no blame on whoever takes his like. Ma'arif al-Qur'an, setting it beside 42:40, 42:43 and 2:237, which praise pardon and patience, calls it a departure from the course Allah prefers, which the closing names then cover. Both agree on the ceiling and on what lies above it. The next two verses turn to Him who makes night enter day, who hears and sees, and who alone is the Truth.",
+            "bn": "অনুমোদিত জবাবকে সূত্রগুলো এক পাল্লায় মাপে না। মুয়াসসার ও সা'দী বলেন, যে সমান বদলা নেয়, তার কোনো দোষ নেই। মাআরিফুল কুরআন একে রাখে ৪২:৪০, ৪২:৪৩ ও ২:২৩৭ আয়াতের পাশে, যেগুলো মাফ আর সবরের প্রশংসা করে। তার মতে এ পথ আল্লাহর পছন্দের পথের উল্টো, আর শেষের নাম দুটি সেটুকু ঢেকে দেয়। সীমা কোথায় আর তার উপরে কী, এ নিয়ে দুই পক্ষই একমত। পরের দুই আয়াত চোখ ফেরায় তাঁর দিকে, যিনি রাতকে দিনে প্রবেশ করান, যিনি সব শোনেন, সব দেখেন, আর যিনি একাই সত্য।"
+          },
+          {
+            "en": "For a reader, the verse is a measure to carry into small quarrels as much as large ones. A wrong may be answered, but only with its equal, and the equal is harder to keep than it sounds, because hurt always feels larger from the inside. Above that line the verse opens a higher door, the quality by which Allah Himself is described. The question it leaves is not whether I may answer, but whether I need to, and whether I can stop where the like ends.",
+            "bn": "পাঠকের জন্য আয়াতটি এক মাপকাঠি, যা বড় বিবাদের মতো ছোট ঝগড়াতেও কাজে লাগে। অন্যায়ের জবাব দেওয়া যায়, তবে কেবল তার সমান দিয়ে। আর এই সমান ধরে রাখা যত সহজ শোনায়, আসলে তত সহজ নয়। ভেতর থেকে আঘাত সবসময় বড় মনে হয়। সেই রেখার উপরে আয়াত খুলে দেয় আরও উঁচু এক দরজা, যে গুণে আল্লাহ নিজেকে পরিচয় দিয়েছেন। আয়াত যে প্রশ্ন রেখে যায়, তা এই নয় যে আমি জবাব দিতে পারি কি না। প্রশ্ন হলো, জবাব দেওয়া আদৌ দরকার কি না, আর সমান যেখানে শেষ, সেখানে আমি থামতে পারি কি না।"
+          }
+        ]
+      }
+    ]
+  },
   "22:65": {
     "sections": [
       {
