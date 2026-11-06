@@ -27949,6 +27949,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Count Allah's management of your days among His favours, the turnings you did not choose as well as the gifts you asked for, for He knows better what benefits you.",
     "lessonBn": "আপনার দিনগুলো আল্লাহ যেভাবে সাজান, সেটাকেও তাঁর নিয়ামতের হিসাবে ধরুন। যে মোড় আপনি বেছে নেননি আর যে দান আপনি চেয়ে পেয়েছেন, দুটোই। কারণ কীসে আপনার উপকার, তা তিনিই ভালো জানেন।"
+  },
+  "55:72": {
+    "reflectionEn": "After the good and beautiful ones of 55:70, the surah adds four words: hur, maqsurat, in pavilions. Maqsurat comes from a root that means to hold something back. The early readers heard two things in it. They are kept within their dwellings, sheltered, not left to wander the roads. And they have kept their own eyes and hearts for their spouses, wanting no one in their place. Some held that the word carries both at once. Here, being kept is honour and protection, not a cage: what is precious is guarded. So the verse turns back on me. What have I left open to every passing eye that should be kept, and are my own eyes and heart kept for what Allah has made mine?",
+    "reflectionBn": "৫৫:৭০ আয়াতের উত্তম ও সুন্দরীদের কথার পর সূরা আরও চারটি শব্দ যোগ করে: হূর, মাকসুরাত, তাঁবুর ভেতরে। মাকসুরাত শব্দের মূলে আছে ধরে রাখা, আটকে রাখার অর্থ। প্রথম যুগের ব্যাখ্যাকারেরা এতে দুটি কথা শুনেছেন। এক, তারা নিজেদের আবাসে সুরক্ষিত, পথে পথে ঘুরে বেড়ায় না। দুই, তারা নিজেদের চোখ আর মন স্বামীদের জন্যই রেখে দিয়েছে, তাদের জায়গায় আর কাউকে চায় না। কেউ কেউ বলেছেন, শব্দটি দুটি অর্থই একসঙ্গে ধারণ করে। এখানে আগলে রাখা মানে সম্মান আর হেফাজত, খাঁচা নয়। যা মূল্যবান, তাকেই যত্নে রাখা হয়। তাই আয়াতটি প্রশ্ন ফিরিয়ে দেয় আমার দিকে। আমার কোন জিনিস সবার চোখের সামনে খোলা পড়ে আছে, যা ঢেকে রাখার কথা ছিল? আর আমার চোখ ও মন কি আল্লাহ যা আমার জন্য হালাল করেছেন, তার মধ্যেই থাকে?",
+    "pointsEn": [
+      "What precious thing in my life have I left open to every passer-by, when it deserved to be sheltered?",
+      "Are my eyes and my heart kept for the one Allah has made lawful to me, or do they wander?",
+      "When I think of Paradise, do I long for its purity and honour, or only for its pleasures?",
+      "Do I see modesty and restraint as a loss, or as the way something precious is honoured?",
+      "Which favour of my Lord, named in this surah, have I passed over today without a word of thanks?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন মূল্যবান জিনিস আমি সবার সামনে খোলা রেখে দিয়েছি, অথচ তা আগলে রাখার যোগ্য ছিল?",
+      "আমার চোখ আর মন কি সেই মানুষের জন্যই রাখা, যাকে আল্লাহ আমার জন্য হালাল করেছেন? নাকি এদিক-ওদিক ঘুরে বেড়ায়?",
+      "জান্নাতের কথা ভাবলে আমি কি তার পবিত্রতা আর সম্মান চাই, নাকি শুধু তার ভোগের দিকটাই?",
+      "লজ্জা আর সংযমকে আমি কি ক্ষতি মনে করি, নাকি বুঝি যে মূল্যবান জিনিসকে এভাবেই সম্মান দেওয়া হয়?",
+      "এ সূরায় নাম ধরে বলা আমার রবের কোন নি'মাতটি আজ আমি শুকরিয়ার একটি কথাও না বলে পার হয়ে গেছি?"
+    ],
+    "lessonEn": "Guard what is precious, and keep your eyes and heart for what Allah has made yours: in Paradise, being kept is a mark of honour.",
+    "lessonBn": "যা মূল্যবান তা আগলে রাখুন, আর নিজের চোখ ও মন রাখুন আল্লাহ যা আপনার জন্য হালাল করেছেন তার মধ্যেই। জান্নাতে এভাবে আগলে রাখা হওয়াই সম্মানের চিহ্ন।"
   }
 };
 

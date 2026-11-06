@@ -2499,6 +2499,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "55:72": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words Between Refrains",
+          "bn": "দুই প্রশ্নের মাঝে চার শব্দ"
+        },
+        "p": [
+          {
+            "en": "Hurun maqsuratun fil-khiyam: hur, kept in the pavilions. Four Arabic words, set between two returns of the refrain, so which of the favours of your Lord would you deny? The verse belongs to the second pair of gardens, introduced at 55:62, and it follows straight on from 55:70: in them are good and beautiful ones. At-Tabari makes the link explicit. Allah, he says, is here giving news about those same good and beautiful ones. The verse does not open a new subject; it describes them further.",
+            "bn": "হূরুম মাকসুরাতুন ফিল খিয়াম: হূর, তাঁবুর ভেতরে সংরক্ষিত। আরবিতে মাত্র চারটি শব্দ, দুই দিকে একই প্রশ্নের পুনরাবৃত্তি: তোমাদের রবের কোন কোন নি'মাতকে অস্বীকার করবে? আয়াতটি দ্বিতীয় জোড়া বাগানের বর্ণনার অংশ, যার শুরু ৫৫:৬২ আয়াতে। ঠিক আগের ৫৫:৭০ আয়াতে বলা হয়েছে, সেখানে আছে উত্তম ও সুন্দরীরা। তাবারী দুই আয়াতের যোগসূত্র খুলে বলেন। তাঁর মতে আল্লাহ এখানে সেই উত্তম ও সুন্দরীদের সম্পর্কেই আরও খবর দিচ্ছেন। নতুন কোনো প্রসঙ্গ শুরু হচ্ছে না, আগের বর্ণনাই আরেকটু এগোচ্ছে।"
+          },
+          {
+            "en": "Al-Muyassar compresses the whole verse into a few words of its own: hur, veiled and protected, in the pavilions. Two features carry the description, then, and the commentators below spend most of their effort on them. The first is the word maqsurat, from a root that means holding back, and the question of who is held and how. The second is the khiyam, the pavilions, and what they are made of. The word hur itself is discussed in other articles, so here it gets only a short look.",
+            "bn": "মুয়াসসার পুরো আয়াতটি নিজের কয়েকটি শব্দে গুটিয়ে আনেন: হূর, পর্দার আড়ালে, সুরক্ষিত, তাঁবুর ভেতরে। তাহলে বর্ণনার ভার দুটি জিনিসের উপর, আর নিচের তাফসীরকারেরা বেশির ভাগ কথা বলেছেন এ দুটি নিয়েই। প্রথমটি মাকসুরাত শব্দ। এর মূলে আছে আটকে রাখার অর্থ, আর প্রশ্ন হলো কে আটকানো, কীভাবে। দ্বিতীয়টি খিয়াম, অর্থাৎ তাঁবু, আর সেগুলো কী দিয়ে তৈরি। হূর শব্দটি নিয়ে অন্য প্রবন্ধে আলোচনা হয়েছে, তাই এখানে তাকে শুধু সংক্ষেপে দেখা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "White in Heart and Eye",
+          "bn": "মনে ও চোখে শুভ্র"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses hur as white, and explains it as the plural of hawra', the white one. He has set out the word's evidence earlier in his commentary, he says, and does not repeat it. He then lists early readers who said the same. Mujahid, through several chains, says simply: white. Through another chain Mujahid says only: the women. Ad-Dahhak describes the hawra' as the wide-eyed, beautiful one, and Sufyan as black within white. Al-Qurtubi's definition is close to Sufyan's: the white of the eye intensely white, and its black intensely black.",
+            "bn": "তাবারী হূর শব্দের অর্থ বলেন শুভ্র। এটি হাওরা-র বহুবচন, আর হাওরা মানে শুভ্র নারী। শব্দটির প্রমাণ তিনি তাফসীরের আগের অংশে দিয়েছেন বলে এখানে আর পুনরাবৃত্তি করেন না। তারপর তিনি সেই প্রথম যুগের ব্যাখ্যাকারদের নাম আনেন, যারা একই কথা বলেছেন। মুজাহিদ কয়েকটি সূত্রে শুধু বলেন: শুভ্র। আরেক সূত্রে মুজাহিদের কথা কেবল এটুকু: নারীরা। দাহহাকের কাছে হাওরা হলো বড় চোখের সুন্দরী, আর সুফইয়ানের কাছে সাদার মধ্যে কালো। কুরতুবীর সংজ্ঞাও সুফইয়ানের কাছাকাছি: চোখের সাদা অংশ গভীর সাদা, কালো অংশ গভীর কালো।"
+          },
+          {
+            "en": "One report in at-Tabari reaches beyond the eye. Through Jarir, from Mansur, Mujahid says of this verse: al-hur, white in their hearts, their selves and their eyes. Whiteness here becomes a word for purity, inward as well as outward. It sits well beside the next word, which in Mujahid's own reading is about hearts and eyes kept for one person. What they share is that hur is a word of beauty, and that the clarity of the eye is the first thing it names.",
+            "bn": "তাবারীর একটি বর্ণনা চোখের সীমা ছাড়িয়ে যায়। জারীর মানসূর থেকে, তিনি মুজাহিদ থেকে এ আয়াত সম্পর্কে বর্ণনা করেন: হূর মানে যাদের মন, প্রাণ আর চোখ শুভ্র। শুভ্রতা এখানে পবিত্রতার নাম হয়ে দাঁড়ায়, ভেতরের ও বাইরের দুটোরই। পরের শব্দটির সঙ্গে কথাটি বেশ মানিয়ে যায়, কারণ মুজাহিদের নিজের ব্যাখ্যায় সে শব্দ এমন মন আর চোখের কথা বলে, যা একজনের জন্যই রাখা। তাদের সবার মিল এখানে যে হূর সৌন্দর্যের শব্দ, আর তার প্রথম পরিচয় চোখের স্বচ্ছতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qasr, the Holding Back",
+          "bn": "কাসর মানে আটকে রাখা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi turns to the dictionary for maqsurat. He quotes al-Sihah: qasartu ash-shay', I held the thing back, and from it comes the maqsura of the congregational mosque, the enclosed space within it. Qasartu ash-shay' 'ala kadha means that I kept a thing to one object and did not let it pass to another. And a woman is called qasira or qasura when she is maqsura in the house, not left to go out. So the root holds two ideas: enclosure in a place, and keeping something to one object alone.",
+            "bn": "মাকসুরাত শব্দের জন্য কুরতুবী অভিধানের কাছে যান। তিনি আস-সিহাহ থেকে উদ্ধৃত করেন: কাসারতুশ শাই মানে আমি জিনিসটি আটকে রাখলাম। জামে মসজিদের মাকসুরা, অর্থাৎ ভেতরের ঘেরা অংশটির নামও এখান থেকেই। কাসারতুশ শাই আলা কাযা মানে, আমি জিনিসটিকে একটি কিছুর মধ্যেই সীমিত রাখলাম, অন্য দিকে যেতে দিলাম না। আর কোনো নারীকে কাসীরা বা কাসূরা বলা হয়, যখন তাকে ঘরে আগলে রাখা হয়, বাইরে বের হতে ছাড়া হয় না। তাহলে এ ধাতুর ভেতরে দুটি ভাব: কোনো জায়গায় ঘেরা থাকা, আর কোনো কিছুকে একটি লক্ষ্যেই সীমিত রাখা।"
+          },
+          {
+            "en": "He adds a line of the poet Kuthayyir, who speaks of women he calls qasira, and then explains himself: he meant women kept within the curtained chambers, qasirat al-hijal, and not short-stepped women. Al-Baghawi gives the same usage in a sentence: a woman is called maqsura and qasira when she is mukhaddara, kept behind the curtain, covered, and does not go out. Both commentators, then, first read the word as a description of where she is, sheltered and guarded, before any question of her own choosing arises.",
+            "bn": "এরপর তিনি কবি কুসাইয়্যিরের একটি পঙ্‌ক্তি আনেন। কবি কিছু নারীকে কাসীরা বলেছেন, তারপর নিজেই ব্যাখ্যা দিয়েছেন: আমি বুঝিয়েছি পর্দাঘেরা কক্ষে রাখা নারী, কাসীরাতুল হিজাল, ছোট ছোট পা ফেলা নারী নয়। বাগাভীও এক বাক্যে একই ব্যবহার দেখান: কোনো নারীকে মাকসুরা ও কাসীরা বলা হয়, যখন সে মুখাদ্দারা, অর্থাৎ পর্দার আড়ালে, ঢাকা, বাইরে বের হয় না। দুজন তাফসীরকারই তাই শব্দটিকে প্রথমে পড়েন সে কোথায় আছে তার বর্ণনা হিসেবে: আশ্রয়ে, সুরক্ষায়। তার নিজের ইচ্ছার প্রশ্ন আসে এরপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept, or Keeping to Them",
+          "bn": "সংরক্ষিত, নাকি তাদেরই জন্য"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that the people of interpretation differed over maqsurat, and he records both sides by name. The first group says they are restricted to their spouses: they seek no replacement for them and do not lift their eyes to other men. This is Mujahid, through many chains: their glances and their selves were kept to their spouses. In one wording he says their selves, their hearts and their eyes, so that they want no one else. Ar-Rabi' says the same: they restricted their glances to their spouses.",
+            "bn": "তাবারী জানান, মাকসুরাত শব্দের ব্যাখ্যায় তাফসীরকারদের মধ্যে মতভেদ আছে, আর তিনি দুই পক্ষকেই নামসহ উল্লেখ করেন। প্রথম দলের মতে তারা স্বামীদের জন্যই সীমিত। তারা স্বামীর বদলে আর কাউকে চায় না, অন্য পুরুষের দিকে চোখ তোলে না। অনেকগুলো সূত্রে এটি মুজাহিদের মত: তাদের দৃষ্টি আর তাদের মন স্বামীদের জন্যই আটকে রাখা। এক বর্ণনায় তিনি বলেন, তাদের প্রাণ, তাদের হৃদয় আর তাদের চোখ, ফলে তারা আর কাউকে চায় না। রাবী'ও একই কথা বলেন: তারা দৃষ্টি স্বামীদের উপর সীমিত রেখেছে।"
+          },
+          {
+            "en": "The second group says the word means they are kept in the curtained chambers. Abu al-'Aliya: kept in the pavilions. Ibn Abbas (RA), through Mujahid: kept. Muhammad ibn Ka'b: kept in the curtained chambers. Mujahid, through Ibn Abi Najih: they do not leave the pavilions. Ad-Dahhak: kept in the pavilions, they do not go out of them. Al-Hasan: kept, not roaming about the streets. Mujahid's name, then, stands on both sides, through different students. Abu Salih gives a gloss of another kind: the virgins of Paradise. Al-Qurtubi records the second reading as well, from Ibn Abbas.",
+            "bn": "দ্বিতীয় দলের মতে শব্দটির অর্থ, তাদের পর্দাঘেরা কক্ষে রাখা হয়েছে। আবুল আলিয়া বলেন: তাঁবুর ভেতরে রাখা। মুজাহিদের সূত্রে ইবন আব্বাস (রাঃ) বলেন: আগলে রাখা। মুহাম্মাদ ইবন কা'ব বলেন: পর্দাঘেরা কক্ষে রাখা। ইবন আবী নাজীহের সূত্রে মুজাহিদ বলেন: তারা তাঁবু ছেড়ে যায় না। দাহহাক বলেন: তাঁবুর ভেতরে রাখা, সেখান থেকে বের হয় না। হাসান বলেন: আগলে রাখা, পথে পথে ঘুরে বেড়ায় না। দেখা যাচ্ছে, ভিন্ন ভিন্ন ছাত্রের সূত্রে মুজাহিদের নাম দুই পক্ষেই আছে। আবূ সালিহের ব্যাখ্যা অন্য রকম: জান্নাতের কুমারীরা। কুরতুবীও ইবন আব্বাস থেকে দ্বিতীয় ব্যাখ্যাটি উল্লেখ করেন।"
+          },
+          {
+            "en": "At-Tabari then gives his own judgement. Al-qasr, he says, is confinement, al-habs. Allah described them as maqsurat in the pavilions and did not limit the description to one of the two meanings rather than the other; He made it general. So the right course is to keep the statement general as He did: they are kept in the pavilions, and kept to their spouses, wanting no one else. Al-Baghawi likewise sets the two side by side, kept and veiled in the chambers, then Mujahid's reading, and chooses neither.",
+            "bn": "এরপর তাবারী নিজের সিদ্ধান্ত জানান। তাঁর মতে কাসর মানে হাবস, অর্থাৎ আটকে রাখা। আল্লাহ তাদের বর্ণনা দিয়েছেন তাঁবুতে মাকসুরাত বলে, দুই অর্থের কোনো একটিতে বর্ণনাটি সীমিত করেননি, বরং ব্যাপক রেখেছেন। তাই সঠিক পথ হলো, তিনি যেমন ব্যাপক রেখেছেন, আমরাও তেমনি রাখব। তারা তাঁবুতে সংরক্ষিত, আবার স্বামীদের জন্যই নিবেদিত, আর কাউকে চায় না। বাগাভীও দুটি মত পাশাপাশি রাখেন। প্রথমে বলেন, পর্দাঘেরা কক্ষে রাখা ও ঢাকা। তারপর আনেন মুজাহিদের ব্যাখ্যা। কোনোটিকে তিনি বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Description Ranks Higher",
+          "bn": "কোন বর্ণনার মর্যাদা বেশি"
+        },
+        "p": [
+          {
+            "en": "Both al-Qurtubi and Ibn Kathir compare this verse with the first pair of gardens, where 55:56 says that in them are those who restrain their glances, qasirat at-tarf. They reach opposite conclusions. The article on 37:48 noted that al-Qurtubi deferred the word maqsurat to its own place; here is what he says of it. In the first two gardens, he observes, Allah said the women had restricted their glances to their spouses and did not say they were maqsurat. That, he says, shows that the maqsurat are higher and better.",
+            "bn": "কুরতুবী আর ইবন কাসীর দুজনেই এ আয়াতকে প্রথম জোড়া বাগানের সঙ্গে মিলিয়ে দেখেন। সেখানে ৫৫:৫৬ আয়াতে আছে, তাতে থাকবে দৃষ্টি সংযতকারিণীরা, কাসিরাতুত তারফ। কিন্তু দুজনের সিদ্ধান্ত একেবারে উল্টো। ৩৭:৪৮ আয়াতের প্রবন্ধে বলা হয়েছিল, কুরতুবী মাকসুরাত শব্দের আলোচনা তার নিজের জায়গার জন্য রেখে দিয়েছিলেন। এখানে সেই আলোচনা। তিনি লক্ষ করেন, প্রথম দুই বাগানে আল্লাহ বলেছেন, নারীরা নিজেদের দৃষ্টি স্বামীদের উপর সীমিত রেখেছে। সেখানে তাদের মাকসুরাত বলা হয়নি। কুরতুবীর মতে এতে বোঝা যায়, মাকসুরাতরাই উচ্চতর ও শ্রেষ্ঠ।"
+          },
+          {
+            "en": "Ibn Kathir reads it the other way. There, he says, the verse said fihinna qasiratu at-tarf, and here hurun maqsurat; and there is no doubt that she who has restricted her own glance is better than she who has been restricted, even though all of them are kept behind the curtain. His point turns on who acts. Al-Qurtubi's point turns on what is added: the second description carries a word the first does not. Both views are on record, and the sources consulted do not settle between them.",
+            "bn": "ইবন কাসীর পড়েন উল্টো দিক থেকে। তিনি বলেন, সেখানে আয়াতে আছে ফীহিন্না কাসিরাতুত তারফ, আর এখানে হূরুম মাকসুরাত। এতে কোনো সন্দেহ নেই যে, যে নারী নিজেই নিজের দৃষ্টি সংযত রেখেছে, সে তার চেয়ে উত্তম, যার দৃষ্টি সংযত রাখা হয়েছে। যদিও তারা সবাই পর্দার আড়ালে থাকা নারী। তাঁর যুক্তির কেন্দ্র হলো কাজটা কে করছে। কুরতুবীর যুক্তির কেন্দ্র অন্য জায়গায়: দ্বিতীয় বর্ণনায় এমন একটি শব্দ আছে, যা প্রথমটিতে নেই। দুটি মতই লিপিবদ্ধ, আর সংগৃহীত উৎসগুলো এর মীমাংসা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dwellings of Hollow Pearl",
+          "bn": "ফাঁপা মুক্তার আবাস"
+        },
+        "p": [
+          {
+            "en": "Then fil-khiyam, in the pavilions. At-Tabari says the khiyam here are houses. The Arabs, he notes, also call the litters that women ride in khiyam, and he quotes a line of Labid on the tribe's women setting out, their khiyam creaking; but in this verse, he says, houses are meant. As-Sa'di says the hur are kept in pavilions of pearl. Most of the early reports at-Tabari gathers go straight to one question: what are the pavilions made of?",
+            "bn": "এরপর ফিল খিয়াম, তাঁবুর ভেতরে। তাবারী বলেন, এখানে খিয়াম মানে ঘর। তিনি জানান, আরবরা নারীদের বাহন-হাওদাকেও খিয়াম বলে। এর সাক্ষী হিসেবে তিনি লাবীদের একটি পঙ্‌ক্তি আনেন, যেখানে গোত্রের নারীরা যাত্রা শুরু করে আর তাদের খিয়াম ক্যাঁচক্যাঁচ করে। তবে এ আয়াতে, তাঁর মতে, ঘরই উদ্দেশ্য। সা'দী বলেন, হূরদের রাখা হয়েছে মুক্তার তাঁবুতে। তাবারী যে প্রাচীন বর্ণনাগুলো জড়ো করেছেন, তার বেশির ভাগ সরাসরি একটি প্রশ্নে যায়: তাঁবুগুলো কী দিয়ে তৈরি?"
+          },
+          {
+            "en": "Their answer comes almost in one voice: hollow pearl. At-Tabari relays that Umar ibn al-Khattab (RA) asked, do you know what hurun maqsuratun fil-khiyam is? The pavilions are hollow pearl. Sa'id ibn Jubayr, Mujahid, ad-Dahhak, 'Amr ibn Maymun and al-Hasan say the same. From Ibn Abbas (RA), through several chains, comes a measure: the pavilion is a hollow pearl, a farsakh by a farsakh, with four thousand doors of gold; in one chain, four farsakhs by four. Through Mujahid, Ibn Abbas says simply: houses of pearl.",
+            "bn": "তাঁদের উত্তর প্রায় এক সুরে: ফাঁপা মুক্তা। তাবারী বর্ণনা করেন, উমর ইবনুল খাত্তাব (রাঃ) জিজ্ঞেস করেছিলেন, তোমরা কি জানো হূরুম মাকসুরাতুন ফিল খিয়াম কী? তারপর বলেন, খিয়াম হলো ফাঁপা মুক্তা। সাঈদ ইবন জুবাইর, মুজাহিদ, দাহহাক, আমর ইবন মাইমূন আর হাসানও একই কথা বলেন। কয়েকটি সূত্রে ইবন আব্বাস (রাঃ) থেকে একটি মাপও এসেছে: তাঁবুটি এক ফাঁপা মুক্তা, দৈর্ঘ্যে-প্রস্থে এক ফারসাখ করে, তাতে সোনার চার হাজার দরজা। এক সূত্রে মাপটি দৈর্ঘ্যে-প্রস্থে চারটি করে ফারসাখ। মুজাহিদের সূত্রে ইবন আব্বাসের কথা আরও সংক্ষিপ্ত: মুক্তার ঘর।"
+          },
+          {
+            "en": "Ibn Kathir adds a saying of Abu ad-Darda' (RA), through Ibn Abi Hatim: the pavilion is a single pearl, with seventy doors of pearl. Mujahid, through one chain, widens the materials: the pavilions are pearl and silver, as it is said, and Allah knows best. Qatada relays something said in his day, that the believer's dwelling in Paradise takes a rider on a fine horse three nights to cross. These are words of Companions and of those who came after them. The Prophet's own words on the pavilion come next.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে আবুদ দারদা (রাঃ)-এর একটি উক্তি যোগ করেন: তাঁবুটি একটিমাত্র মুক্তা, তাতে মুক্তার সত্তরটি দরজা। এক সূত্রে মুজাহিদ উপাদানের তালিকা আরেকটু বাড়ান: তাঁবুগুলো মুক্তা আর রুপার, এমনটাই বলা হয়, আল্লাহই ভালো জানেন। কাতাদা তাঁর সময়ে প্রচলিত একটি কথা বর্ণনা করেন: জান্নাতে মুমিনের আবাস এত বড় যে উৎকৃষ্ট ঘোড়ার আরোহীর তা পার হতে পুরো তিনটি রাত লাগে। এগুলো সাহাবি ও তাঁদের পরবর্তীদের কথা। তাঁবু সম্পর্কে নবী ﷺ-এর নিজের বাণী আসছে পরের অংশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sixty Miles of One Pearl",
+          "bn": "একটি মুক্তা, ষাট মাইল"
+        },
+        "p": [
+          {
+            "en": "Muslim records in his Sahih (no. 2838) from Abdullah ibn Qais, Abu Musa (RA), that the Prophet ﷺ said: \"Indeed, for the believer in Paradise there is a tent of a single hollow pearl, its length sixty miles. The believer has family in it, whom he visits, and they do not see one another.\" Muslim includes it in his Sahih, the collection he gathered from reports he judged sound. Ibn Kathir quotes this wording under the verse, and al-Baghawi brings the same report through al-Bukhari's chain, beside the word khiyam.",
+            "bn": "ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (হাদিস ২৮৩৮) আবদুল্লাহ ইবন কাইস, অর্থাৎ আবূ মূসা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"নিশ্চয়ই জান্নাতে মুমিনের জন্য রয়েছে একটিমাত্র ফাঁপা মুক্তার তাঁবু, যার দৈর্ঘ্য ষাট মাইল। তাতে মুমিনের পরিবার-পরিজন থাকবে, সে তাদের কাছে যাতায়াত করবে, আর তারা একে অন্যকে দেখতে পাবে না।\" মুসলিম এটি তাঁর সহীহ গ্রন্থে রেখেছেন, যে গ্রন্থ তিনি সাজিয়েছেন নিজের বিচারে বিশুদ্ধ বর্ণনা দিয়ে। ইবন কাসীর আয়াতের আলোচনায় এই শব্দেই হাদিসটি উদ্ধৃত করেন। বাগাভী খিয়াম শব্দের পাশে একই বর্ণনা আনেন বুখারীর সনদ ধরে।"
+          },
+          {
+            "en": "Al-Bukhari also records it from the same Companion (no. 4879). In his narration the pearl is sixty miles wide, there is family in each of its corners who do not see the others, and the believers visit them; the narration then goes on to the two gardens of silver and two of gold, quoted in the article on 55:62. Muslim's own chains differ in one word. In the first the sixty miles are the pearl's length, in the second its breadth, and in the third its height into the sky.",
+            "bn": "ইমাম বুখারীও একই সাহাবি থেকে হাদিসটি বর্ণনা করেছেন (হাদিস ৪৮৭৯)। তাঁর বর্ণনায় মুক্তাটি প্রস্থে ষাট মাইল। এর প্রতিটি কোণে পরিবার থাকবে, তারা অন্যদের দেখবে না, আর মুমিনরা তাদের কাছে যাতায়াত করবে। এরপর বর্ণনাটি রুপার দুটি আর সোনার দুটি বাগানের কথায় যায়, যা ৫৫:৬২ আয়াতের প্রবন্ধে উদ্ধৃত হয়েছে। মুসলিমের নিজের সনদগুলোতেও একটি শব্দে পার্থক্য আছে। প্রথম বর্ণনায় ষাট মাইল মুক্তাটির দৈর্ঘ্য, দ্বিতীয়টিতে প্রস্থ, আর তৃতীয়টিতে আকাশের দিকে উচ্চতা।"
+          },
+          {
+            "en": "The hadith does not name the verse. It is the commentators who set it here, beside the word khiyam, and what it adds is the pearl itself, its size, and the privacy of those within it. Some other narrations that al-Qurtubi and al-Baghawi bring under this verse come without a named collection or grading in the text consulted, and they are left out of this page. None of the commentaries consulted gives a cause of revelation for the verse; its place is simply the run of descriptions in the second pair of gardens.",
+            "bn": "হাদিসে আয়াতটির নাম নেই। তাফসীরকারেরাই একে এখানে, খিয়াম শব্দের পাশে বসিয়েছেন। হাদিসটি যা যোগ করে তা হলো মুক্তাটি নিজে, তার বিশালতা, আর ভেতরের মানুষদের আড়াল। কুরতুবী ও বাগাভী এ আয়াতের আলোচনায় আরও কিছু বর্ণনা এনেছেন, কিন্তু যে পাঠ দেখা হয়েছে তাতে সেগুলোর কোনো সংকলনের নাম বা মান উল্লেখ নেই। তাই এ পাতায় সেগুলো রাখা হয়নি। সংগৃহীত কোনো তাফসীরে এ আয়াতের শানে নুযূল নেই। আয়াতটির জায়গা কেবল দ্বিতীয় জোড়া বাগানের ধারাবাহিক বর্ণনার ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sheltered, Not Shut In",
+          "bn": "আগলে রাখা, বন্দি নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di adds two things the other glosses leave unsaid. The hur are kept in the pavilions of pearl, he says, having readied and prepared themselves for their spouses. And their being kept does not rule out their going out into the gardens and meadows of Paradise, as is the custom of the daughters of kings and their like, women kept behind the curtain and modest. Being maqsura, in his reading, is a mark of rank and shelter. It is not a description of a prison.",
+            "bn": "সা'দী এমন দুটি কথা যোগ করেন, যা অন্যদের ব্যাখ্যায় নেই। তিনি বলেন, হূররা মুক্তার তাঁবুতে রয়েছে, স্বামীদের জন্য নিজেদের প্রস্তুত করে, সাজিয়ে। আর এভাবে রাখা হওয়ার মানে এই নয় যে তারা জান্নাতের বাগান আর উদ্যানে বের হয় না। রাজকন্যা ও তাদের মতো পর্দানশীন, লাজুক নারীদের বেলায় এটাই চিরাচরিত রীতি। তাঁর ব্যাখ্যায় মাকসুরা হওয়া মর্যাদা আর আশ্রয়ের চিহ্ন। এটি কোনো কারাগারের বর্ণনা নয়।"
+          },
+          {
+            "en": "Al-Qurtubi's own gloss points the same way: kept with the keeping of protection and honour, habs siyana wa-takrima. Set beside at-Tabari's judgement that both readings stand, the verse gives a picture of honour twice over. They are sheltered in a dwelling of pearl, and they themselves have kept their eyes and hearts for one person. The verse describes what Paradise holds for its people. This page draws no ruling for this world from it.",
+            "bn": "কুরতুবীর নিজের ব্যাখ্যাও একই দিকে ইঙ্গিত করে: হাবসু সিয়ানাতিন ওয়া তাকরিমাহ, অর্থাৎ হেফাজত আর সম্মানের জন্য আগলে রাখা। তাবারীর সিদ্ধান্তের সঙ্গে মিলিয়ে পড়লে, যেখানে দুটি ব্যাখ্যাই টিকে থাকে, আয়াতটি দুইভাবে সম্মানের ছবি আঁকে। তারা মুক্তার আবাসে সুরক্ষিত, আবার নিজেরাই নিজেদের চোখ আর মন একজনের জন্য রেখে দিয়েছে। আয়াতটি জান্নাতবাসীদের জন্য জান্নাতে কী আছে, তার বর্ণনা। এ পাতা এখান থেকে দুনিয়ার কোনো বিধান বের করছে না।"
+          },
+          {
+            "en": "Then the refrain returns at 55:73: so which of the favours of your Lord would you deny? What the verse leaves with its reader is a question about what one guards. Paradise keeps what is precious sheltered, and keeps hearts faithful. In this life a believer is asked for the same two things in his own measure: to guard what is his to guard, and to keep his eyes and heart for what Allah has made lawful to him.",
+            "bn": "এরপর ৫৫:৭৩ আয়াতে আবার সেই প্রশ্ন: তোমাদের রবের কোন কোন নি'মাতকে অস্বীকার করবে? পাঠকের হাতে আয়াতটি একটি প্রশ্ন রেখে যায়: আমি কী আগলে রাখি? জান্নাত মূল্যবান জিনিসকে আশ্রয়ে রাখে, আর হৃদয়কে রাখে বিশ্বস্ত। এ দুনিয়াতেও মুমিনের কাছে নিজের সাধ্যমতো এ দুটিই চাওয়া হয়। যা তার আগলে রাখার, তা সে আগলে রাখবে। আর নিজের চোখ ও মন রাখবে আল্লাহ যা তার জন্য হালাল করেছেন, তার মধ্যেই।"
+          }
+        ]
+      }
+    ]
+  },
   "55:76": {
     "sections": [
       {
