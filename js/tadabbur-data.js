@@ -24549,6 +24549,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Years of ease are a respite, not a reward. Whatever they hold weighs nothing at the end unless it was spent on what lasts, so spend yours that way now.",
     "lessonBn": "আরামের বছরগুলো পুরস্কার নয়, অবকাশ। স্থায়ী কিছুর পেছনে খরচ না হলে শেষ মুহূর্তে এগুলোর কোনো ওজন থাকে না, তাই নিজের বছরগুলো এখনই সেভাবে খরচ করুন।"
+  },
+  "26:222": {
+    "reflectionEn": "Shall I tell you upon whom the devils descend? The Qur'an answers its own question: upon every sinful liar, the one whose tongue is false and whose deeds are foul. The charge against the Prophet ﷺ was that a devil fed him his words. The reply does not begin by arguing over the words; it points at the kind of person devils choose, and leaves the listener to compare. They pass on scraps they overheard, and most of them lie. One true word can carry a hundred false ones on its back. So the verse is also a mirror. What do I pass on that I only half heard? And does my speech make me someone truth can rest with, or someone lies settle on?",
+    "reflectionBn": "শয়তানরা কার কাছে নামে, তোমাদের কি বলে দেব? প্রশ্নটা কুরআন নিজেই তোলে, উত্তরও নিজেই দেয়: প্রত্যেক মিথ্যুক পাপীর কাছে। যার মুখে মিথ্যা, কাজে অনাচার, তার কাছে। নবী ﷺ-এর বিরুদ্ধে অভিযোগ ছিল, কোনো শয়তান তাঁর মুখে কথা তুলে দেয়। জবাবে কুরআন আগে কথাগুলো নিয়ে তর্কে যায় না। সে দেখিয়ে দেয় শয়তানরা কেমন মানুষ বেছে নেয়, তারপর মিলিয়ে দেখার ভার শ্রোতার উপর ছেড়ে দেয়। তারা চুরি করে শোনা টুকরো কথা চালান করে, আর তাদের বেশির ভাগই মিথ্যাবাদী। একটা সত্য কথার পিঠে চেপে আসতে পারে একশো মিথ্যা। তাই আয়াতটা আমার জন্যও আয়না। আধাআধি শুনে কোন কথা আমি অন্যের কানে তুলে দিই? আর আমার কথাবার্তা কি আমাকে এমন মানুষ বানায় যার কাছে সত্য টেকে, নাকি এমন মানুষ যার উপর মিথ্যা এসে জেঁকে বসে?",
+    "pointsEn": [
+      "When a claim impresses me because one prediction came true, do I ask what else came with it?",
+      "What did I repeat this week that I had only overheard and never checked?",
+      "Is there a habit of small lies in my speech that I no longer notice because it is so familiar?",
+      "Before I accept a message, do I look at the honesty of the one who brings it?",
+      "Have I ever turned to a fortune-teller, a horoscope or a reading for what only Allah knows?"
+    ],
+    "pointsBn": [
+      "একটা ভবিষ্যদ্বাণী মিলে গেছে বলে যখন কোনো দাবি আমাকে মুগ্ধ করে, তখন কি জিজ্ঞেস করি তার সঙ্গে আর কী কী এসেছে?",
+      "এ সপ্তাহে কোন কথা আমি শুধু কানে শুনেই আবার বলেছি, একবারও যাচাই করিনি?",
+      "আমার কথায় ছোট ছোট মিথ্যার এমন কোনো অভ্যাস কি আছে, যা এত চেনা হয়ে গেছে যে আর চোখেই পড়ে না?",
+      "কোনো বার্তা মেনে নেওয়ার আগে কি দেখি, যে বয়ে আনছে সে কতটা সত্যবাদী?",
+      "যা কেবল আল্লাহই জানেন, তা জানতে কি কখনো গণক, রাশিফল বা ভাগ্যগণনার দ্বারস্থ হয়েছি?"
+    ],
+    "lessonEn": "Lies draw to liars. Guard your tongue from falsehood, test what you hear before you pass it on, and never seek the unseen from those who mix one truth with a hundred lies.",
+    "lessonBn": "মিথ্যা মিথ্যুকের কাছেই ভিড়ে। জবানকে মিথ্যা থেকে বাঁচান, শোনা কথা যাচাই না করে ছড়াবেন না, আর যারা এক সত্যের সঙ্গে একশো মিথ্যা মেশায়, তাদের কাছে গায়েবের খবর খুঁজবেন না।"
   }
 };
 

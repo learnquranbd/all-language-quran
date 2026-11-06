@@ -7699,6 +7699,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:222": {
+    "sections": [
+      {
+        "h": {
+          "en": "Asked and Answered at Once",
+          "bn": "প্রশ্নের সঙ্গেই উত্তর"
+        },
+        "p": [
+          {
+            "en": "Hal unabbi'ukum 'ala man tanazzalu ash-shayatin: shall I tell you upon whom the devils descend? The question in 26:221 is not left hanging. The next verse answers it in five Arabic words, tanazzalu 'ala kulli affakin athim: they descend upon every sinful liar. A little earlier, 26:210 to 26:212 had said that the devils did not bring this Qur'an down, that it is not fitting for them, that they could not do it, and that they are kept away from hearing it. Now the passage turns from what the devils cannot carry to the people they do visit.",
+            "bn": "হাল উনাব্বিউকুম আলা মান তানাযযালুশ শায়াতীন: শয়তানরা কার কাছে নামে, তোমাদের কি বলে দেব? ২৬:২২১ আয়াতের এই প্রশ্ন ঝুলে থাকে না। পরের আয়াতই পাঁচটি আরবি শব্দে উত্তর দেয়: তানাযযালু আলা কুল্লি আফফাকিন আসীম, তারা নামে প্রত্যেক মিথ্যুক পাপীর কাছে। এর কিছু আগে ২৬:২১০ থেকে ২৬:২১২ আয়াতে বলা হয়েছে, শয়তানরা এ কুরআন নিয়ে নামেনি। এ কাজ তাদের সাজে না, তাদের সে ক্ষমতাও নেই, আর শোনা থেকেই তাদের দূরে রাখা হয়েছে। এবার আলোচনা ঘুরে যায়। শয়তানরা কী বইতে পারে না, সে কথা শেষ। এখন কথা, তারা আসলে কাদের কাছে যায়।"
+          },
+          {
+            "en": "Ibn Kathir reads the passage as addressed to those idolaters who claimed that what the Messenger brought was not the truth: that he had made it up himself, or that a ra'iyy, a familiar from the jinn, brought it to him. Allah, he says, cleared His Messenger of their claim and made plain that what he brought is His revelation, sent down by a noble, trustworthy and great angel. As-Sa'di calls the verses a reply to those who said a devil comes down on Muhammad ﷺ, and to those who said he was a poet. Al-Baghawi too calls it the answer to their saying that a devil descends on him.",
+            "bn": "ইবন কাসীরের পাঠে এ আয়াতগুলোর লক্ষ্য সেই মুশরিকরা, যারা দাবি করত রাসূল যা এনেছেন তা সত্য নয়। হয় তিনি নিজে বানিয়েছেন, নয়তো জিনদের মধ্য থেকে কোনো রায়ী, অর্থাৎ সঙ্গী জিন, তাঁকে এনে দেয়। ইবন কাসীর বলেন, আল্লাহ তাদের এ অপবাদ থেকে তাঁর রাসূলকে মুক্ত ঘোষণা করেছেন। জানিয়ে দিয়েছেন, তিনি যা এনেছেন তা আল্লাহরই ওহি, যা নিয়ে নেমেছেন এক সম্মানিত, বিশ্বস্ত, মহান ফেরেশতা। সা'দী আয়াতগুলোকে বলেন তাদের জবাব, যারা বলত মুহাম্মাদ ﷺ-এর উপর শয়তান নামে, আর যারা বলত তিনি কবি। বাগাভীও একে বলেন তাদের সেই কথার জবাব: তাঁর উপর শয়তান নামে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "False in Word, Foul in Deed",
+          "bn": "মুখে মিথ্যা, কাজে পাপ"
+        },
+        "p": [
+          {
+            "en": "Each of the two words carries half of the portrait. For Ibn Kathir, affak is the one who lies much in what he says, and athim is the fajir, the wicked, in what he does. That, he says, is the person the devils descend upon, such as the soothsayers and those who go their way among the lying and the corrupt, for the devils too are liars and corrupt. As-Sa'di draws the same line: affak is a great liar, much given to false speech and fabricated falsehood, and athim is sinful in deed, with many acts of disobedience.",
+            "bn": "দুটি শব্দ ছবিটার দুই অর্ধেক এঁকে দেয়। ইবন কাসীরের ব্যাখ্যায় আফফাক সেই লোক, যে কথায় খুব মিথ্যা বলে। আর আসীম মানে ফাজির, কাজে যে অনাচারী। তিনি বলেন, এ লোকের কাছেই শয়তানরা নামে, যেমন গণকেরা এবং মিথ্যুক ও পাপাচারীদের মধ্যে যারা তাদের পথে চলে। কারণ শয়তানরা নিজেরাও মিথ্যুক, পাপাচারী। সা'দীও একই ভাগ করেন। আফফাক মানে বড় মিথ্যাবাদী, মিথ্যা কথা আর বানানো অসত্য যার মুখে লেগেই থাকে। আসীম মানে কাজে গুনাহগার, যার নাফরমানির শেষ নেই।"
+          },
+          {
+            "en": "As-Sa'di then adds the clause that holds the verse together: this is the one on whom the devils descend, and his state matches theirs. At-Tabari glosses affak as a lying slanderer, kadhdhab bahhat, and athim as one who commits sin, and relays from Mujahid, by more than one chain, that it means a liar from among people. Al-Baghawi gives the same pair, a liar and a wicked man, and the Muyassar speaks of a liar of many sins from among the soothsayers. The mufassirs here differ in wording, not in the picture.",
+            "bn": "এরপর সা'দী এমন এক কথা জুড়ে দেন, যা গোটা আয়াতকে এক সুতোয় বাঁধে: এর উপরই শয়তানরা নামে, কারণ তার অবস্থা তাদের অবস্থার সঙ্গে মেলে। তাবারী আফফাকের অর্থ করেন কাযযাব বাহহাত, মিথ্যুক অপবাদদাতা। আসীম মানে যে গুনাহ করে। তিনি একাধিক সনদে মুজাহিদ থেকে আনেন, এর অর্থ মানুষের মধ্যকার মিথ্যুক। বাগাভীও একই জোড়া দেন, মিথ্যুক আর পাপাচারী। মুয়াসসার বলে, গণকদের মধ্যকার বহু গুনাহে ডুবে থাকা মিথ্যুক। এখানে মুফাসসিরদের শব্দে ফারাক আছে, ছবিতে নেই।"
+          },
+          {
+            "en": "Al-Qurtubi pauses on the verb itself. He says tanazzalu, they descend, was chosen because the devils are mostly found in the air and pass through the wind. Al-Baghawi glosses it as tatanazzalu, the fuller form of the same verb. The verse then says kull, every. It names no one; it draws a description, and the commentators reach for the soothsayers as its plainest case. Whoever answers to the description is the kind of person the verse is speaking about, and whoever does not answer to it is outside it.",
+            "bn": "কুরতুবী থামেন ক্রিয়াটার উপর। তাঁর মতে তানাযযালু, অর্থাৎ তারা নামে, শব্দটা আনা হয়েছে এ কারণে যে শয়তানদের বেশির ভাগ বাস শূন্যে, তারা চলাচল করে বাতাসে ভেসে। বাগাভী এর অর্থ করেন তাতানাযযালু, একই ক্রিয়ার পূর্ণ রূপ। এরপর আয়াত বলে কুল্লু, প্রত্যেক। এখানে কারও নাম নেই, আছে কেবল এক বৈশিষ্ট্যের বর্ণনা। আর তাফসীরকারেরা তার সবচেয়ে স্পষ্ট নমুনা হিসেবে গণকদের কথা আনেন। এ বর্ণনা যার সঙ্গে মেলে, আয়াত তার মতো লোকের কথাই বলছে। যার সঙ্গে মেলে না, সে এর বাইরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Qatada Points",
+          "bn": "কাতাদা যাদের দেখান"
+        },
+        "p": [
+          {
+            "en": "Who are these liars, in the world the first hearers knew? At-Tabari relays from Qatada, through Ma'mar and 'Abd ar-Razzaq: they are the soothsayers, the kahins; the jinn steal a hearing and then bring it to their allies among humans. Al-Baghawi relays the same from Qatada in nearly the same words. Mujahid's gloss, as at-Tabari gives it, is wider: a liar from among people. Ibn Kathir holds the two together: the soothsayers, and whoever goes their way among the lying and the corrupt. The Muyassar uses the same phrase, those who go their way.",
+            "bn": "প্রথম শ্রোতারা যে দুনিয়া চিনত, সেখানে এই মিথ্যুকেরা কারা? তাবারী মা'মার ও আবদুর রাযযাকের সূত্রে কাতাদা থেকে আনেন: এরা হলো গণক, কাহিনরা। জিনেরা চুরি করে আসমানের কথা শোনে, তারপর মানুষের মধ্যে তাদের বন্ধুদের কাছে তা পৌঁছে দেয়। বাগাভীও কাতাদা থেকে প্রায় একই ভাষায় এ কথা আনেন। তাবারীর উদ্ধৃতিতে মুজাহিদের ব্যাখ্যা আরও বিস্তৃত: মানুষের মধ্যকার মিথ্যুক। ইবন কাসীর দুই ব্যাখ্যাকে একসঙ্গে ধরেন: গণকেরা, আর মিথ্যুক ও পাপাচারীদের মধ্যে যারা তাদের পথে চলে। মুয়াসসারও একই কথা বলে: যারা তাদের পথ ধরে।"
+          },
+          {
+            "en": "So the commentators do not shrink the verse to a profession. The soothsayer was the case everyone in Makkah could picture: Ibn Kathir's opening has the idolaters claiming that a familiar from the jinn brought the Prophet ﷺ his words, which is exactly what a soothsayer was said to have. But the verse describes speech and deeds, not a job title. Ibn Kathir's closing clause gives the reason the devils choose such people at all: the devils are themselves liars and corrupt, and they descend on those who resemble them.",
+            "bn": "তাই তাফসীরকারেরা আয়াতকে কোনো এক পেশার মধ্যে আটকে ফেলেন না। মক্কার সবাই যে ছবি চোখের সামনে আনতে পারত, তা ছিল গণকের ছবি। ইবন কাসীরের শুরুর কথাতেই আছে, মুশরিকরা দাবি করত জিনদের কোনো সঙ্গী নবী ﷺ-কে কথাগুলো এনে দেয়। গণকের বেলায় ঠিক এ কথাই বলা হতো। তবে আয়াতের বর্ণনা কথা আর কাজের, কোনো পদবির নয়। শয়তানরা এমন লোক কেন বেছে নেয়, তার কারণ ইবন কাসীরের শেষ বাক্যে: শয়তানরা নিজেরাই মিথ্যুক ও পাপাচারী, আর তারা নামে তাদেরই কাছে, যারা তাদের মতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Snatched, a Hundred Lies",
+          "bn": "এক কথা চুরি, শত মিথ্যা"
+        },
+        "p": [
+          {
+            "en": "On the next verse Ibn Kathir says the matter is established by a sound hadith, and quotes it from al-Bukhari. In al-Bukhari's wording (Sahih al-Bukhari 7561), 'A'ishah (RA) said: some people asked the Prophet ﷺ about the soothsayers, and he said, \"They are nothing.\" They said, \"O Messenger of Allah, they speak of a thing that turns out true.\" The Prophet ﷺ said: \"That word is from the truth. The jinni snatches it and cackles it into the ear of his ally like the cackling of a hen, and they mix into it more than a hundred lies.\"",
+            "bn": "পরের আয়াতের আলোচনায় ইবন কাসীর বলেন, বিষয়টা এক সহীহ হাদীস দিয়ে প্রতিষ্ঠিত, আর তিনি তা বুখারী থেকে উদ্ধৃত করেন। সহীহ বুখারীর ৭৫৬১ নম্বর হাদীসের ভাষায় আয়েশা (রাঃ) বলেন: কিছু লোক নবী ﷺ-কে গণকদের সম্পর্কে জিজ্ঞেস করল। তিনি বললেন, \"ওরা কিছুই নয়।\" তারা বলল, \"হে আল্লাহর রাসূল, ওরা তো এমন কথাও বলে যা সত্য হয়ে যায়।\" নবী ﷺ বললেন: \"ওই কথাটা সত্যেরই অংশ। জিন সেটা ছোঁ মেরে নিয়ে যায়, তারপর মুরগির কককক আওয়াজের মতো করে তার বন্ধুর কানে ঢেলে দেয়। এরপর তারা তার সঙ্গে একশোরও বেশি মিথ্যা মিশিয়ে দেয়।\""
+          },
+          {
+            "en": "His first words are the verdict: they are nothing. The questioners pressed him with the thing that impressed them, a prediction that came true, and he explained it without granting it any authority. One word of truth is stolen and more than a hundred lies are mixed in. As-Sa'di, on the next verse, draws the consequence: the truth is mixed with falsehood, and the truth fades away because there is so little of it and because no one can tell which part it is. The single true word is the very thing that sells the hundred lies.",
+            "bn": "তাঁর প্রথম কথাতেই রায় হয়ে গেছে: ওরা কিছুই নয়। প্রশ্নকারীরা তাঁর সামনে সেই জিনিসটাই তুলল যা তাদের মুগ্ধ করেছিল, একটা ভবিষ্যদ্বাণী মিলে যাওয়া। তিনি কারণটা বুঝিয়ে দিলেন, কিন্তু তাকে কোনো মর্যাদা দিলেন না। সত্যের একটা কথা চুরি হয়, আর তাতে মেশে একশোরও বেশি মিথ্যা। সা'দী পরের আয়াতে এর ফল দেখান: সত্য মিথ্যার সঙ্গে মিশে যায়। আর পরিমাণে এত কম বলে এবং কোনটা সত্য তা জানা যায় না বলে সত্যটুকুও মিলিয়ে যায়। ওই একটা সত্য কথাই একশো মিথ্যাকে বাজারে চালিয়ে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir sets a longer report beside it, which he says al-Bukhari alone narrated, from Abu Hurayrah (RA): when Allah decrees a matter in heaven the angels beat their wings in submission, and the eavesdroppers, one above another, pass a word down until it reaches the tongue of the sorcerer or the soothsayer. Sometimes the shooting star catches the eavesdropper before he passes it on, and sometimes he passes it on first, and a hundred lies are told with it. At-Tabari, under the next verse, relays 'A'ishah's (RA) own words to the same effect.",
+            "bn": "ইবন কাসীর এর পাশে আবু হুরায়রা (রাঃ) থেকে আরেকটু দীর্ঘ একটি বর্ণনা রাখেন, যা তাঁর কথায় কেবল বুখারীই এনেছেন। আল্লাহ যখন আসমানে কোনো বিষয়ের ফয়সালা করেন, ফেরেশতারা বিনয়ে ডানা ঝাপটায়। আর চুরি করে শোনার দল, একজনের উপর আরেকজন, কথাটা নিচে চালান করতে থাকে, শেষে তা পৌঁছায় জাদুকর বা গণকের জিভে। কখনো চালান করার আগেই উল্কা চোরকে ধরে ফেলে। কখনো ধরা পড়ার আগেই সে চালান করে দেয়, আর তার সঙ্গে বলা হয় একশো মিথ্যা। তাবারী পরের আয়াতে একই মর্মে আয়েশা (রাঃ)-এর নিজের কথা আনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Lies Are Meant?",
+          "bn": "মিথ্যাটা আসলে কার?"
+        },
+        "p": [
+          {
+            "en": "Yulquna as-sam': they pass on what is heard. At-Tabari explains that the devils cast what they managed to overhear onto every sinful liar among their allies from the children of Adam, and Mujahid, through him, says the devils cast whatever they heard onto every liar. Al-Baghawi has them listening to the angels by stealth and casting it to the soothsayers. Ibn Kathir describes the whole chain: they steal a hearing from heaven, catch a word of the knowledge of the unseen, add a hundred lies, and cast it to their human allies, who then tell it on.",
+            "bn": "ইউলকূনাস সাম': তারা শোনা কথা চালান করে। তাবারী বুঝিয়ে দেন, শয়তানরা যা কিছু চুরি করে শুনতে পারে, তা ফেলে দেয় আদমসন্তানদের মধ্যে তাদের বন্ধু প্রত্যেক মিথ্যুক পাপীর কাছে। তাঁর সূত্রে মুজাহিদ বলেন, শয়তানরা যা শোনে তা-ই প্রত্যেক মিথ্যুকের কাছে ফেলে দেয়। বাগাভীর বর্ণনায় তারা লুকিয়ে ফেরেশতাদের কথা শোনে, তারপর গণকদের কাছে তা পৌঁছে দেয়। ইবন কাসীর পুরো শিকলটা দেখান। তারা আসমান থেকে চুরি করে শোনে, গায়েবের জ্ঞানের একটা কথা ধরে ফেলে, তাতে একশো মিথ্যা জোড়ে, তারপর মানুষের মধ্যকার বন্ধুদের কাছে ফেলে দেয়, আর তারা তা অন্যদের বলে বেড়ায়।"
+          },
+          {
+            "en": "Then wa-aktharuhum kadhibun, and most of them are liars, and here the commentators part over the pronoun. Al-Qurtubi makes 'they pass on what is heard' a description of the devils and refers 'most of them' to the soothsayers, then adds, under 'it is said', that it refers to the devils. At-Tabari reads it of those on whom the devils descend: most of them lie in what they say and report. As-Sa'di reads it of the content: most of what is cast to the liar is false, so that he is right about one thing and lies a hundred times along with it.",
+            "bn": "এরপর ওয়া আকসারুহুম কাযিবূন: আর তাদের বেশির ভাগই মিথ্যাবাদী। এখানে সর্বনামটা কার দিকে ফিরছে, তা নিয়ে তাফসীরকারদের পথ আলাদা হয়ে যায়। কুরতুবী 'শোনা কথা চালান করে' অংশকে শয়তানদের বৈশিষ্ট্য ধরেন, আর 'তাদের বেশির ভাগ' বলতে বোঝেন গণকদের। তারপর 'বলা হয়' কথাটি দিয়ে আরেক মত আনেন: এটা শয়তানদের দিকে ফেরে। তাবারীর পাঠে এরা সেই লোক, যাদের কাছে শয়তান নামে। তাদের বেশির ভাগ যা বলে আর যে খবর দেয়, তাতে মিথ্যা বলে। সা'দী একে পড়েন বিষয়বস্তুর দিক থেকে: যা চালান হয় তার বেশির ভাগই মিথ্যা। একটা কথায় সত্য, আর তার সঙ্গে একশো মিথ্যা।"
+          },
+          {
+            "en": "The readings stand side by side in the sources, and this article takes no side between them. Whether the lying belongs chiefly to the human liar, to the devil who feeds him, or to the mixture that passes between them, what reaches the listener is overwhelmingly false. Ibn Kathir names the effect plainly: people believe them in everything they say because of that one word heard from heaven. One accurate hit is made to vouch for a hundred claims no one has checked, and that is how the trade survives.",
+            "bn": "মতগুলো তাফসীরে পাশাপাশি আছে, আর এ লেখা কোনোটার পক্ষ নেয় না। মিথ্যার দায় মূলত মানুষ মিথ্যুকের হোক, তাকে কথা জোগানো শয়তানের হোক, কিংবা দুজনের মধ্যে হাতবদল হওয়া মিশেলের হোক, শ্রোতার কাছে যা পৌঁছায় তার প্রায় সবটাই মিথ্যা। ইবন কাসীর ফলটা সোজা ভাষায় বলেন: আসমান থেকে শোনা ওই একটা কথার জোরে মানুষ তাদের সব কথাই বিশ্বাস করে বসে। একবার মিলে যাওয়া একটা কথাকে বানানো হয় শত অযাচাই দাবির জামিনদার। এভাবেই এ কারবার টিকে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Carriers Side by Side",
+          "bn": "পাশাপাশি দুই বাহক"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes the passage by setting the Messenger against this portrait. This, he says, is the description of those the devils descend upon, and of what they reveal to them. As for Muhammad ﷺ, his state differs from theirs by the widest gap: he is the truthful, the trustworthy, righteous and rightly guided, joining goodness of heart, truthfulness of tongue and deeds kept clean of the forbidden. The revelation sent down on him from Allah comes guarded and preserved, holding a great truth with no doubt in it.",
+            "bn": "সা'দী এ ছবির মুখোমুখি দাঁড় করান রাসূলকে। তিনি বলেন, এ হলো তাদের বৈশিষ্ট্য যাদের কাছে শয়তান নামে, আর এ হলো তাদের কাছে শয়তানের পাঠানো বার্তার ধরন। আর মুহাম্মাদ ﷺ-এর অবস্থা এসবের থেকে সবচেয়ে দূরে। তিনি সত্যবাদী, বিশ্বস্ত, নেককার, সঠিক পথের পথিক। তাঁর মধ্যে মিলেছে অন্তরের সততা, জবানের সত্যবাদিতা আর হারাম থেকে পবিত্র আমল। আল্লাহর কাছ থেকে তাঁর উপর যে ওহি নামে, তা আসে পাহারায় ঘেরা, সুরক্ষিত হয়ে, এমন মহাসত্য নিয়ে যাতে কোনো সন্দেহ নেই।"
+          },
+          {
+            "en": "Then he asks: are the two alike, people of understanding? Could anyone confuse them, except one unable to tell things apart? Ibn Kathir makes the same point from the other side: the devils have no desire for anything like this Qur'an, and descend only on those who resemble them. The argument asks the hearers to weigh a message by the honesty of its carrier. They knew the soothsayers, and they knew the man; the verse asks them to set the two portraits next to each other.",
+            "bn": "তারপর তিনি প্রশ্ন রাখেন: হে বুদ্ধিমানেরা, এ দুই কি সমান? যে জিনিসে জিনিসে ফারাক করতে পারে না, সে ছাড়া কেউ কি এ দুটোকে গুলিয়ে ফেলতে পারে? ইবন কাসীর একই কথা বলেন উল্টো দিক থেকে। এ কুরআনের মতো কিছুর প্রতি শয়তানদের কোনো আগ্রহই নেই, তারা নামে কেবল তাদের মতো লোকদের কাছে। যুক্তিটা শ্রোতাকে বলে বার্তাকে মাপতে বাহকের সততা দিয়ে। তারা গণকদের চিনত, এই মানুষটাকেও চিনত। আয়াত তাদের বলে দুটো ছবি পাশাপাশি রেখে দেখতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Description, Not a Sentence",
+          "bn": "ছবি আঁকা, রায় দেওয়া নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a type, the sinful liar on whom devils descend, for which the commentators give the soothsayers as the example. It licenses nothing against any living person or community. No reader may take it to brand a named neighbour, rival, preacher or group a devil's mouthpiece or a sinful liar. The commentators fetched for this verse explain its words; none of them hands the reader a list of names to fill in.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বলে, যতটুকু তাতে আছে: এক ধরনের মানুষের বর্ণনা, সেই মিথ্যুক পাপী যার কাছে শয়তান নামে। তাফসীরকারেরা তার নমুনা হিসেবে গণকদের কথা বলেন। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। নাম ধরে কোনো প্রতিবেশী, প্রতিপক্ষ, বক্তা বা দলকে শয়তানের মুখপাত্র কিংবা মিথ্যুক পাপী বলে দাগানোর হাতিয়ার এটা নয়। এ আয়াতের যেসব তাফসীর দেখা হয়েছে, সেগুলো শব্দের অর্থ বোঝায়। কোনোটিই পাঠকের হাতে নামের তালিকা ধরিয়ে দেয় না।"
+          },
+          {
+            "en": "There is a quieter misuse as well: treating every sharp insight or lucky guess as the work of devils. The hadith does not do this. It answers a question about the soothsayers, explains why some of what they say comes true, and stops there. What the verse hands the reader is a way to weigh a claim and the one who carries it, not a warrant to pass sentence on anyone.",
+            "bn": "আরেকটা অপব্যবহার আছে, একটু চুপিসারে। প্রতিটি তীক্ষ্ণ বোধ বা হঠাৎ মিলে যাওয়া অনুমানকে শয়তানের কাজ বলে ধরে নেওয়া। হাদীসটা তা করে না। সে গণকদের নিয়ে একটা প্রশ্নের জবাব দেয়, তাদের কিছু কথা কেন মিলে যায় তা বুঝিয়ে দেয়, তারপর থেমে যায়। আয়াত পাঠকের হাতে তুলে দেয় একটা দাবি আর তার বাহককে মেপে দেখার উপায়। কাউকে সাজা শোনানোর পরোয়ানা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarding the Tongue and Ear",
+          "bn": "জবান আর কানের পাহারা"
+        },
+        "p": [
+          {
+            "en": "Turned towards the reader, the verse is first about one's own speech. As-Sa'di's phrase, that the liar's state matches the devils' state, is hard to read slowly. Affak is not one lie but many; athim is not one sin but a habit of them. The way into that portrait is gradual: the small invention that improves a story, the exaggeration that wins an argument. Truthfulness is the step away from it, taken one sentence at a time.",
+            "bn": "পাঠকের দিকে ফিরলে আয়াতটা আগে কথা বলে নিজের জবান নিয়ে। সা'দীর কথা, মিথ্যুকের অবস্থা শয়তানের অবস্থার সঙ্গে মেলে, ধীরে পড়লে অস্বস্তি জাগায়। আফফাক মানে একটা মিথ্যা নয়, অনেক মিথ্যা। আসীম মানে একটা গুনাহ নয়, গুনাহের অভ্যাস। ওই ছবির দিকে মানুষ এগোয় ধাপে ধাপে। গল্পটা জমাতে একটু বানিয়ে বলা, তর্কে জিততে একটু বাড়িয়ে বলা। সত্যবাদিতা হলো তা থেকে সরে আসার পথ, প্রতিটি বাক্যে একটু একটু করে।"
+          },
+          {
+            "en": "It is also about the ear. The devils' trade, in these verses, is scraps overheard and passed on, and a reader who forwards every rumour, or trusts a source because it was right once, is doing in a small way what the verse describes. And it is about where to seek the unseen. Asked about the soothsayers, the Prophet ﷺ said, they are nothing; and Ibn Kathir and the Muyassar extend the verse to those who go their way. Leave the unseen with Allah, and pass on only what you know.",
+            "bn": "আয়াতটা কানের কথাও বলে। এ আয়াতগুলোতে শয়তানের কারবার হলো চুরি করে শোনা টুকরো কথা চালান করা। যে পাঠক প্রতিটি গুজব অন্যকে পাঠিয়ে দেন, কিংবা কোনো সূত্র একবার মিলে গেছে বলেই তাকে ভরসা করেন, তিনিও ছোট আকারে সেটাই করছেন যা আয়াত বর্ণনা করে। আর আয়াত বলে গায়েবের খবর কোথায় খুঁজবেন সে কথাও। গণকদের নিয়ে জিজ্ঞেস করা হলে নবী ﷺ বলেছিলেন, ওরা কিছুই নয়। ইবন কাসীর আর মুয়াসসার আয়াতকে তাদের পথে চলা লোকদের পর্যন্ত টেনে নেন। গায়েবকে আল্লাহর কাছে ছেড়ে দিন, আর যা জানেন কেবল তা-ই অন্যকে বলুন।"
+          }
+        ]
+      }
+    ]
+  },
   "26:227": {
     "sections": [
       {
