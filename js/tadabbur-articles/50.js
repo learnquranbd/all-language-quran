@@ -1646,5 +1646,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "50:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "When the Ground Lets Go",
+          "bn": "মাটি যখন ছেড়ে দেয়"
+        },
+        "p": [
+          {
+            "en": "The verse has nine Arabic words in two clauses. Yawma tashaqqaqu al-ardu 'anhum sira'an: on the Day the earth splits away from them, hastening. Then dhalika hashrun 'alayna yasir: that is a gathering, easy for Us. It closes a short run that began at 50:41 with a command to listen for the Day the caller calls from a near place. Verse 50:42 names the Shout heard in truth and calls that the Day of emergence, and 50:43 says: it is We who give life and cause death, and to Us is the destination.",
+            "bn": "আয়াতে আরবি শব্দ নয়টি, বাক্যাংশ দুটি। ইয়াওমা তাশাক্কাকুল আরদু আনহুম সিরাআ: যেদিন পৃথিবী ফেটে গিয়ে তাদের থেকে সরে যাবে, আর তারা দ্রুত বেরিয়ে আসবে। তারপর যালিকা হাশরুন আলাইনা ইয়াসীর: এই সমবেত করা আমার জন্য সহজ। ছোট একটি ধারাবাহিকতার শেষ কথা এটি। শুরু ৫০:৪১ আয়াতে, যেখানে আদেশ এসেছে: কান পেতে শোন সেই দিনের জন্য, যেদিন ঘোষণাকারী কাছের এক জায়গা থেকে ডাকবে। ৫০:৪২ আয়াত বলে, সেদিন তারা সত্যিই সেই প্রচণ্ড আওয়াজ শুনবে, আর সেটাই বের হওয়ার দিন। ৫০:৪৩ আয়াত বলে: আমিই জীবন দিই, আমিই মৃত্যু দিই, আর আমার কাছেই সবার ফিরে আসা।"
+          },
+          {
+            "en": "Read in that order, the verse is the scene the previous lines were building towards. The call comes, the Shout is heard, life is given back, and now the ground itself opens. The Muyassar reads 50:43 and 50:44 as a single passage: Allah gives life to creation and causes it to die in this world, and all return to Him on the Day of Resurrection for reckoning and recompense, on the Day the earth cracks open from the dead buried in it and they come out hurrying towards the caller.",
+            "bn": "এই ক্রমে পড়লে বোঝা যায়, আগের আয়াতগুলো যে দৃশ্যের দিকে এগোচ্ছিল, এ আয়াত সেই দৃশ্য। ডাক আসে, আওয়াজ শোনা যায়, প্রাণ ফিরিয়ে দেওয়া হয়, আর এবার মাটি নিজেই খুলে যায়। মুয়াসসার ৫০:৪৩ ও ৫০:৪৪ আয়াতকে একসঙ্গে ব্যাখ্যা করেছে। আল্লাহ দুনিয়াতে সৃষ্টিকে জীবন দেন, আবার মৃত্যু দেন। কিয়ামতের দিন হিসাব আর প্রতিদানের জন্য সবাইকে তাঁর কাছেই ফিরতে হবে। সেদিন মাটি ফেটে যাবে তার ভেতরে কবর দেওয়া মৃতদের উপর থেকে, আর তারা আহ্বানকারীর দিকে দ্রুত বেরিয়ে আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Split Away From Them",
+          "bn": "তাদের উপর থেকে ফেটে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses tashaqqaqu with one verb, tasadda'u, it cracks apart from them. The Muyassar uses the same verb and names whom the earth opens from: al-mawta al-maqburin biha, the dead who are buried in it. As-Sa'di explains the pronoun 'anhum in the same way: from the dead. Al-Qurtubi records two recitations of the word. The Kufans read tashaqqaqu, with a light shin, one of the two letters ta having been dropped; the rest merge the ta into the shin and read tashshaqqaqu. He records this as a matter of recitation and draws no difference of meaning from it.",
+            "bn": "তাশাক্কাকু: পৃথিবী ফেটে যাবে। তাবারী এর ব্যাখ্যা দেন এক শব্দে, তাসাদ্দাউ, অর্থাৎ তাদের উপর থেকে মাটি চৌচির হয়ে যাবে। মুয়াসসারও একই ক্রিয়া ব্যবহার করে, আর বলে দেয় কাদের উপর থেকে: আল-মাওতা আল-মাকবূরীনা বিহা, মাটিতে কবর দেওয়া মৃতরা। সা'দীও আনহুম সর্বনামের ব্যাখ্যা দেন এভাবে: মৃতদের থেকে। কুরতুবী শব্দটির দুটি কিরাআত উল্লেখ করেছেন। কূফার কারীরা পড়েন তাশাক্কাকু, শীন হালকা করে, দুটি তা-এর একটি বাদ দিয়ে। বাকিরা তা-কে শীনের সঙ্গে মিলিয়ে পড়েন তাশ্‌শাক্কাকু। তিনি বিষয়টি তিলাওয়াতের প্রসঙ্গ হিসেবেই উল্লেখ করেন, অর্থের কোনো পার্থক্য টানেন না।"
+          },
+          {
+            "en": "Sira'an, hastening, gets a short note from at-Tabari on its grammar. It is in the accusative as a hal, a word describing the state of those meant by the pronoun in 'anhum. The meaning, he says, is: on the Day the earth splits from them and they come out of it hastening. The verse leaves the coming out unsaid, because the splitting of the earth already points to it. Al-Baghawi says sira'an is the plural of sari', quick, and supplies the same missing verb: yakhrujuna sira'an, they come out quickly.",
+            "bn": "সিরাআ, অর্থাৎ দ্রুত। তাবারী এর ব্যাকরণ নিয়ে ছোট একটি মন্তব্য করেছেন। শব্দটি হাল হিসেবে যবরযুক্ত, আনহুম সর্বনামে যাদের কথা বলা হয়েছে, তাদের অবস্থার বর্ণনা। তাঁর মতে অর্থ দাঁড়ায়: যেদিন মাটি তাদের উপর থেকে ফেটে যাবে, আর তারা সেখান থেকে দ্রুত বেরিয়ে আসবে। বেরিয়ে আসার কথাটা আয়াত মুখে বলেনি, কারণ মাটি ফেটে যাওয়ার কথাতেই তা বোঝা যায়। বাগাভী বলেন, সিরাআ হলো সারী শব্দের বহুবচন, যার অর্থ দ্রুতগামী। তিনিও অনুক্ত ক্রিয়াটি জুড়ে দেন: ইয়াখরুজূনা সিরাআ, তারা দ্রুত বেরিয়ে আসবে।"
+          },
+          {
+            "en": "The verb the commentators supply is one the passage has already used. Verse 50:42 called this the yawm al-khuruj, the Day of coming out, from the same root as yakhrujun. The word sira'an returns elsewhere in the Qur'an for the same moment. In 70:43 they come out of the graves sira'an, as if racing towards a set mark, and 36:51 has them hastening from the graves to their Lord once the Horn is blown.",
+            "bn": "তাফসীরকারেরা যে ক্রিয়াটি জুড়ে দেন, এই অংশেই তা আগে এসেছে। ৫০:৪২ আয়াত দিনটির নাম দিয়েছে ইয়াওমুল খুরূজ, বের হওয়ার দিন। ইয়াখরুজূন শব্দও এসেছে একই ধাতু থেকে। কুরআনের অন্য জায়গাতেও এই মুহূর্তের জন্য সিরাআ শব্দটি ফিরে এসেছে। ৭০:৪৩ আয়াতে তারা কবর থেকে বের হবে সিরাআ, যেন কোনো লক্ষ্যের দিকে ছুটে যাচ্ছে। ৩৬:৫১ আয়াতে শিঙ্গায় ফুঁ দেওয়ার পর তারা কবর থেকে তাদের রবের দিকে ছুটে আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hastening, but Towards What",
+          "bn": "ছুটে চলা, কিন্তু কোন দিকে"
+        },
+        "p": [
+          {
+            "en": "The verse says how they come out but not where they go, and the commentators fill the gap. As-Sa'di: they hasten to answer the caller who summons them, to the standing-place of the Resurrection. The Muyassar: they come out hurrying towards the caller. Ibn Kathir: they rise to the station of reckoning hastening, mubadirin ila amri llah, rushing to the command of Allah. He supports this with 54:8: racing ahead towards the Caller, while the disbelievers say, this is a difficult Day.",
+            "bn": "আয়াতটি বলে তারা কীভাবে বের হবে, কিন্তু কোথায় যাবে তা বলে না। এ ফাঁকটুকু তাফসীরকারেরা পূরণ করেন। সা'দী বলেন: যিনি তাদের ডাকছেন, তাঁর ডাকে সাড়া দিতে তারা ছুটবে কিয়ামতের ময়দানের দিকে। মুয়াসসার বলে: তারা আহ্বানকারীর দিকে দ্রুত বেরিয়ে আসবে। ইবন কাসীর বলেন: তারা হিসাবের জায়গার দিকে দ্রুত উঠে দাঁড়াবে, মুবাদিরীনা ইলা আমরিল্লাহ, আল্লাহর হুকুমের দিকে তাড়াহুড়া করে। এর সমর্থনে তিনি ৫৪:৮ আয়াত আনেন: তারা আহ্বানকারীর দিকে ছুটে আসবে, আর কাফিররা বলবে, এ তো কঠিন দিন।"
+          },
+          {
+            "en": "Ibn Kathir also cites 17:52: on the Day He will call you, and you will respond with praise of Him and think you had stayed only a little while. At-Tabari, on the second half of the verse, places the gathering in mawqif al-hisab, the station of reckoning, which is where Ibn Kathir sends them too. Across these readings the call comes and the answer follows at once.",
+            "bn": "ইবন কাসীর ১৭:৫২ আয়াতও উদ্ধৃত করেন: যেদিন তিনি তোমাদের ডাকবেন, আর তোমরা তাঁর প্রশংসা করতে করতে সাড়া দেবে, আর মনে করবে খুব অল্প সময়ই ছিলে। আয়াতের দ্বিতীয় অংশের ব্যাখ্যায় তাবারী সমাবেশের জায়গা বলেছেন মাওকিফুল হিসাব, হিসাবের জায়গা। ইবন কাসীরও তাদের সেখানেই পাঠান। এসব ব্যাখ্যায় ডাক আসে আর সঙ্গে সঙ্গে সাড়াও আসে।"
+          },
+          {
+            "en": "Two of the texts name a place. Al-Qurtubi says they hasten ila al-munadi, to the caller, sahib as-sur, the one who holds the Horn, ila Bayt al-Maqdis, to Jerusalem. Ma'arif al-Qur'an says the Prophetic tradition indicates the hurrying will be towards Syria, where the Dome of the Rock stands, and that Israfil (AS) will stand on it and call the people. The narration Ma'arif quotes in support points towards Syria but does not itself mention the Dome. The other commentaries consulted name no place and speak only of the station.",
+            "bn": "দুটি গ্রন্থে একটি জায়গার নাম এসেছে। কুরতুবী বলেন, তারা ছুটবে ইলাল মুনাদী, আহ্বানকারীর দিকে, সাহিবুস সূর, অর্থাৎ শিঙ্গাধারীর দিকে, ইলা বাইতিল মাকদিস, বাইতুল মাকদিসের দিকে। মাআরিফুল কুরআন বলে, হাদিস থেকে বোঝা যায় এই ছুটে চলা হবে শামের দিকে, যেখানে কুব্বাতুস সাখরা অবস্থিত। ইসরাফীল (আঃ) তার উপর দাঁড়িয়ে মানুষকে ডাকবেন। তবে সমর্থনে মাআরিফ যে বর্ণনাটি উদ্ধৃত করে, তাতে শামের দিকে ইশারা আছে, কুব্বার উল্লেখ নেই। যে অন্য তাফসীরগুলো দেখা হয়েছে, সেগুলো কোনো জায়গার নাম বলে না, শুধু দাঁড়ানোর জায়গার কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain, Then the Souls Return",
+          "bn": "বৃষ্টি, তারপর রূহের ফেরা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir describes how the splitting comes about: rain sent down from the sky by which the bodies grow in their graves as seeds grow in moist soil, then the blowing of the Horn, the souls returning to their bodies, and the earth splitting from them as they rise, hastening, to the reckoning. In the passage on this verse he names no narrator and no collection for this account, so it is given here only as his description, and nothing rests on its details. A reader of Qaf will hear in it the rain of 50:9 to 50:11, which ended: thus is the emergence.",
+            "bn": "মাটি কীভাবে ফেটে যাবে, ইবন কাসীর তার একটি বিবরণ দেন: আকাশ থেকে বৃষ্টি নামবে, তাতে কবরের ভেতরে দেহগুলো গজিয়ে উঠবে, যেমন ভেজা মাটিতে বীজ গজায়; তারপর শিঙ্গায় ফুঁ, রূহগুলো নিজ নিজ দেহে ফিরে আসা, আর মাটি ফেটে তারা দ্রুত হিসাবের দিকে উঠে দাঁড়াবে। এ আয়াতের আলোচনায় তিনি এ বিবরণের কোনো বর্ণনাকারী বা হাদীসগ্রন্থের নাম বলেননি। তাই এটি এখানে কেবল তাঁর বিবরণ হিসেবে রইল, এর খুঁটিনাটির উপর কিছু দাঁড়িয়ে নেই। সূরা কাফের পাঠক এখানে ৫০:৯ থেকে ৫০:১১ আয়াতের বৃষ্টির কথা মনে করবেন, যার শেষ কথা ছিল: এভাবেই হবে বের হওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi relays a long report transmitted by 'Ali ibn Ma'bad from Abu Hurayra (RA) about the blowing of resurrection, close in wording to Ibn Kathir's account. He gives it no grading here, none of the texts consulted grades it, and it could not be checked against a hadith collection for this article. It is mentioned only as what he relays, not as established hadith, and its wording is not quoted.",
+            "bn": "কুরতুবী আলী ইবন মা'বাদের সূত্রে আবু হুরায়রা (রাঃ) থেকে পুনরুত্থানের শিঙ্গা ফুঁ দেওয়া নিয়ে একটি দীর্ঘ বর্ণনা আনেন, যার ভাষা ইবন কাসীরের বিবরণের কাছাকাছি। তিনি এখানে এর কোনো মান উল্লেখ করেননি, যেসব লেখা দেখা হয়েছে তার কোনোটিও এর মান বলেনি, আর এই লেখার জন্য কোনো হাদীস সংকলনে তা মিলিয়ে দেখা যায়নি। তাই এটি কেবল তাঁর আনা বর্ণনা হিসেবে উল্লেখ করা হলো, প্রতিষ্ঠিত হাদীস হিসেবে নয়, আর এর শব্দ উদ্ধৃত করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The First the Earth Releases",
+          "bn": "মাটি যাঁকে প্রথম ছেড়ে দেবে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches one line of hadith to the verse. He cites it from Sahih Muslim through Anas (RA): the Messenger of Allah ﷺ said, ana awwalu man tanshaqqu 'anhu al-ard, I am the first for whom the earth splits open. The verb is the verse's own, from the root sh-q-q. The chain through Anas could not be checked on a page fetched for this article. The line itself, however, appears in two narrations that could be checked, one in al-Bukhari and one in Muslim.",
+            "bn": "ইবন কাসীর আয়াতটির সঙ্গে একটি হাদিসের বাক্য জুড়ে দেন। তিনি সহীহ মুসলিম থেকে আনাস (রাঃ)-এর সূত্রে উদ্ধৃত করেন: রাসূলুল্লাহ ﷺ বলেছেন, আনা আওয়ালু মান তানশাক্কু আনহুল আরদ, আমিই প্রথম, যাঁর উপর থেকে মাটি ফেটে যাবে। ক্রিয়াটি আয়াতেরই ক্রিয়া, শ-ক-ক ধাতু থেকে। আনাসের সূত্রটি এ লেখার জন্য খোলা কোনো পাতায় যাচাই করা যায়নি। তবে বাক্যটি এমন দুটি বর্ণনায় আছে, যা যাচাই করা গেছে। একটি বুখারীতে, অন্যটি মুসলিমে।"
+          },
+          {
+            "en": "Al-Bukhari (2412) narrates from Abu Sa'id al-Khudri (RA) that a Jew complained that one of the Ansar had slapped him for swearing by the One who chose Moses over humankind. The Prophet ﷺ said: \"Do not give a prophet superiority over another, for on the Day of Resurrection all the people will fall unconscious and I will be the first to emerge from the earth, and will see Moses standing and holding one of the legs of the Throne. I will not know whether Moses has fallen unconscious or the first unconsciousness was sufficient for him.\"",
+            "bn": "বুখারী (২৪১২) আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন: এক ইহুদি অভিযোগ করল, আনসারের এক ব্যক্তি তাকে চড় মেরেছে, কারণ সে কসম খেয়েছিল সেই সত্তার নামে, যিনি মূসাকে সব মানুষের উপর মনোনীত করেছেন। নবী ﷺ বললেন: \"নবীদের একজনকে আরেকজনের উপর শ্রেষ্ঠত্ব দিয়ো না। কিয়ামতের দিন সব মানুষ বেহুঁশ হয়ে পড়বে, আর আমিই প্রথম, যাঁর উপর থেকে মাটি ফেটে যাবে। তখন দেখব, মূসা আরশের একটি পায়া ধরে দাঁড়িয়ে আছেন। আমি জানি না, তিনি বেহুঁশ হওয়াদের মধ্যে ছিলেন, নাকি প্রথম বেহুঁশ হওয়াই তাঁর জন্য যথেষ্ট গণ্য হয়েছে।\""
+          },
+          {
+            "en": "Muslim (2278) narrates from Abu Hurayra (RA) that the Messenger of Allah ﷺ said: \"I am the master of the children of Adam on the Day of Resurrection, the first for whom the grave splits open, the first to intercede, and the first whose intercession is accepted.\" Neither collector places these words under 50:44; the link is Ibn Kathir's. Notice where the first narration put the honour. It came in the course of calming a quarrel, together with an instruction not to rank the prophets against one another.",
+            "bn": "মুসলিম (২২৭৮) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"কিয়ামতের দিন আমি আদম সন্তানদের নেতা। আমিই প্রথম, যাঁর উপর থেকে কবর ফেটে যাবে। আমিই প্রথম সুপারিশকারী, আর আমার সুপারিশই প্রথম কবুল হবে।\" দুই সংকলকের কেউই এ কথাগুলো ৫০:৪৪ আয়াতের অধীনে আনেননি। সংযোগটা ইবন কাসীরের। প্রথম বর্ণনায় মর্যাদার কথাটা কোথায় এসেছে, তা লক্ষ করার মতো। একটি ঝগড়া থামানোর সময় তিনি কথাটি বলেছেন, আর সঙ্গে নির্দেশ দিয়েছেন নবীদের একজনকে আরেকজনের বিপরীতে দাঁড় করিয়ে মর্যাদা মাপতে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Riding, Walking, on Their Faces",
+          "bn": "আরোহী, পদচারী, মুখে ভর দিয়ে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens his hadith note with a sentence of his own: wa-qad zadat as-sunnatu hadhihi al-ayata bayanan, the Sunna has added clarity to this verse. He cites at-Tirmidhi from Mu'awiya ibn Hayda (RA): the Prophet ﷺ pointed with his hand towards ash-Sham and said, from here to here you will be gathered, riding and walking, and dragged on your faces on the Day of Resurrection. Ma'arif al-Qur'an quotes the same narration from Jami' at-Tirmidhi under this verse.",
+            "bn": "কুরতুবী তাঁর হাদিসের আলোচনা শুরু করেন নিজের একটি বাক্য দিয়ে: ওয়া কাদ যাদাতিস সুন্নাতু হাযিহিল আয়াতা বায়ানা, সুন্নাহ এ আয়াতকে আরও স্পষ্ট করেছে। তিনি তিরমিযী থেকে মুআবিয়া ইবন হাইদা (রাঃ)-এর বর্ণনা আনেন: নবী ﷺ হাত দিয়ে শামের দিকে ইশারা করে বললেন, এখান থেকে ওখানে তোমাদের সমবেত করা হবে, কেউ আরোহী, কেউ পায়ে হেঁটে, আর কিয়ামতের দিন তোমাদের মুখের উপর টেনে নেওয়া হবে। মাআরিফুল কুরআনও এ আয়াতের ব্যাখ্যায় জামি' তিরমিযী থেকে একই বর্ণনা উদ্ধৃত করেছে।"
+          },
+          {
+            "en": "The wording fetched for this article is at-Tirmidhi (2424), through Bahz ibn Hakim from his father from his grandfather: \"You shall be gathered walking, riding, and dragged upon your faces.\" At-Tirmidhi grades it hasan. This short wording has no gesture towards ash-Sham; that detail belongs to the longer form al-Qurtubi gives. Like 54:8, the narration describes conditions on that Day. It gives no one a licence to assign any living person or community to any of them.",
+            "bn": "এ লেখার জন্য যে পাঠটি খুলে দেখা হয়েছে, তা তিরমিযী (২৪২৪), বাহয ইবন হাকীম থেকে, তিনি তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে: \"তোমাদের সমবেত করা হবে পায়ে হাঁটা অবস্থায়, আরোহী অবস্থায়, আর মুখের উপর টেনে নেওয়া অবস্থায়।\" তিরমিযী একে হাসান বলেছেন। এই ছোট পাঠে শামের দিকে ইশারার কথা নেই। সে অংশটুকু কুরতুবীর উদ্ধৃত দীর্ঘ পাঠের। ৫৪:৮ আয়াতের মতো এ বর্ণনাও সেদিনের অবস্থার বর্ণনা। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়কে এর কোনো এক দলে বসিয়ে দেওয়ার অধিকার এটি কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Light Work for Their Lord",
+          "bn": "তাঁর কাছে যা একেবারে হালকা"
+        },
+        "p": [
+          {
+            "en": "Dhalika hashrun 'alayna yasir: that is a gathering, easy for Us. At-Tabari explains it as their being gathered, jam'uhum, in the station of reckoning, which is easy and simple for Us. Al-Baghawi glosses hashr with a single word, jam', a bringing together. Al-Qurtubi says hayyin sahl, light and easy. As-Sa'di says it is easy for Allah, la ta'aba fihi wa-la kulfa, with no fatigue in it and no burden.",
+            "bn": "যালিকা হাশরুন আলাইনা ইয়াসীর: এই সমবেত করা আমার জন্য সহজ। তাবারী ব্যাখ্যা করেন: হিসাবের জায়গায় তাদের একত্র করা, জাম'উহুম, আমার জন্য সহজ ও হালকা। বাগাভী হাশরের অর্থ বলেন এক শব্দে, জাম', একত্র করা। কুরতুবী বলেন হাইয়িন সাহল, হালকা ও সহজ। সা'দী বলেন, এটি আল্লাহর জন্য সহজ, লা তাআবা ফীহি ওয়া লা কুলফা, এতে কোনো ক্লান্তি নেই, কোনো কষ্টও নেই।"
+          },
+          {
+            "en": "Ibn Kathir reads hashr from a slightly different side: tilka i'adatun sahlatun 'alayna, that is a restoration easy for Us. His gloss looks at the remaking of the dead; at-Tabari's looks at their assembly. The two glosses sit together without strain, since the verse has just shown both, bodies brought out of the ground and a crowd on the move. Ibn Kathir supports his reading with 54:50, Our command is but one, like a glance of the eye, and 31:28, your creation and your resurrection are only as that of a single soul.",
+            "bn": "ইবন কাসীর হাশর শব্দটিকে একটু অন্য দিক থেকে দেখেন: তিলকা ই'আদাতুন সাহলাতুন আলাইনা, এ পুনর্গঠন আমার জন্য সহজ। তাঁর দৃষ্টি মৃতদের নতুন করে গড়ার দিকে, আর তাবারীর দৃষ্টি তাদের এক জায়গায় জড়ো করার দিকে। দুটি ব্যাখ্যা পাশাপাশি অনায়াসে চলে, কারণ আয়াত এইমাত্র দুটোই দেখিয়েছে: মাটি থেকে দেহ বেরিয়ে আসছে, আর এক বিশাল জনতা ছুটে চলেছে। ইবন কাসীর এর সমর্থনে আনেন ৫৪:৫০ আয়াত, আমার আদেশ তো একটিই, চোখের পলকের মতো। আর ৩১:২৮ আয়াত, তোমাদের সবার সৃষ্টি ও পুনরুত্থান একজন মানুষের মতোই।"
+          },
+          {
+            "en": "As-Sa'di's phrase, no fatigue, sounds like the surah talking to itself. Verse 50:38 ended: and no weariness touched Us, and 50:15 asked, did We fail at the first creation? The English abridgement of Ibn Kathir, at 50:43, adds that Allah begins creation and then brings it back, and that the second is easier for Him, which is the wording of 30:27. The ease named at the end of 50:44 is the close of an argument Qaf has been making since its opening verses.",
+            "bn": "সা'দীর কথা, কোনো ক্লান্তি নেই, যেন সূরাটির নিজেরই প্রতিধ্বনি। ৫০:৩৮ আয়াতের শেষ কথা: আর কোনো ক্লান্তি আমাকে স্পর্শ করেনি। ৫০:১৫ আয়াত প্রশ্ন করেছে, আমি কি প্রথম সৃষ্টিতে অক্ষম হয়ে পড়েছিলাম? ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৫০:৪৩ আয়াতে যোগ করে, আল্লাহ সৃষ্টির সূচনা করেন, তারপর তা ফিরিয়ে আনেন, আর দ্বিতীয়টি তাঁর জন্য আরও সহজ। এ কথা ৩০:২৭ আয়াতেরই ভাষা। ৫০:৪৪ আয়াতের শেষে যে সহজতার কথা, তা আসলে সেই যুক্তির উপসংহার, যা সূরা কাফ শুরু থেকেই দিয়ে আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Distant to Them, Easy for Him",
+          "bn": "তাদের কাছে দূর, তাঁর কাছে সহজ"
+        },
+        "p": [
+          {
+            "en": "Set 50:44 beside 50:3. The deniers said: when we have died and become dust? Dhalika raj'un ba'id, that is a distant return. Near the end of the surah comes a sentence that opens with the same word: dhalika hashrun 'alayna yasir. One dhalika weighs the return by human reckoning and calls it far; the other weighs it by Allah's and calls it easy. Between them stand 50:11, kadhalika al-khuruj, thus is the emergence, and 50:42, dhalika yawm al-khuruj. This pairing is a reading of the surah's own text, not a statement from the commentaries.",
+            "bn": "৫০:৪৪ আয়াতকে ৫০:৩ আয়াতের পাশে রাখুন। অস্বীকারকারীরা বলেছিল: আমরা মরে মাটি হয়ে যাওয়ার পর? যালিকা রাজ'উন বাঈদ, এ ফিরে আসা তো বহু দূরের কথা। সূরার শেষের দিকে আরেকটি বাক্য শুরু হয় একই শব্দে: যালিকা হাশরুন আলাইনা ইয়াসীর। প্রথম যালিকা ফিরে আসাকে মাপে মানুষের হিসাবে, তাই দূর বলে। দ্বিতীয়টি মাপে আল্লাহর হিসাবে, তাই সহজ বলে। এ দুইয়ের মাঝে আছে ৫০:১১ আয়াত, কাযালিকাল খুরূজ, এভাবেই হবে বের হওয়া, আর ৫০:৪২ আয়াত, যালিকা ইয়াওমুল খুরূজ। এই জোড়া মেলানো সূরার নিজের ভাষা থেকে করা পাঠ, তাফসীরগ্রন্থের কোনো বক্তব্য নয়।"
+          },
+          {
+            "en": "On that Day no one chooses to hasten; the ground opens and everyone runs. The choice lies on this side of the grave, in what a person hurries towards while the earth still covers nothing of him. The next verse, 50:45, turns to the Prophet ﷺ and tells him to remind by the Qur'an whoever fears the threat. This verse is part of that reminder, given early enough to be acted on.",
+            "bn": "সেদিন ছুটবে কি না, সে সিদ্ধান্ত কারও থাকবে না। মাটি খুলবে, আর সবাই ছুটবে। সিদ্ধান্তের জায়গা কবরের এপারে। মাটি এখনো যখন তাকে ঢেকে ফেলেনি, তখন সে কিসের দিকে ছুটছে, সেটাই আসল প্রশ্ন। পরের আয়াত, ৫০:৪৫, নবী ﷺ-কে সম্বোধন করে বলে: যে আমার সতর্কবাণীকে ভয় করে, তাকে কুরআন দিয়ে উপদেশ দাও। এ আয়াতও সেই উপদেশেরই অংশ, যা এসেছে এত আগে, যাতে এখনই তার উপর আমল করা যায়।"
+          }
+        ]
+      }
+    ]
   }
 });

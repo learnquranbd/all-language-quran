@@ -27389,6 +27389,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The reckoning is stated as certain; let that certainty show in how you live today, settling your accounts before they are settled for you.",
     "lessonBn": "হিসাবের দিনকে আল্লাহ নিশ্চিত বলে ঘোষণা করেছেন। সেই নিশ্চয়তা আজকের জীবনে ফুটিয়ে তুলুন, আর হিসাবের দিন আসার আগেই নিজের হিসাব নিজে মিটিয়ে নিন।"
+  },
+  "50:44": {
+    "reflectionEn": "Every grave on earth is a closed door, and this verse names the Day it opens. The ground that held them splits away from them, and they come out hastening, not dragging their feet, towards a call no one can ignore. The people who first heard it had said, when we are dust, that is a distant return. The verse answers in its own words: that is a gathering, easy for Us. What seems far to the one who doubts is light for the One who made the first creation and was touched by no weariness. So the question is not whether I will answer that call. It is what I will be carrying when I do, and whether I am already moving towards it.",
+    "reflectionBn": "পৃথিবীর প্রতিটি কবর যেন বন্ধ দরজা। এ আয়াত সেই দিনের কথা বলে, যেদিন দরজাগুলো খুলে যাবে। যে মাটি এতদিন তাদের ধরে রেখেছিল, সে ফেটে গিয়ে তাদের ছেড়ে দেবে। তারা বেরিয়ে আসবে দ্রুত, পা টেনে টেনে নয়, এমন এক ডাকের দিকে যা কেউ উপেক্ষা করতে পারবে না। প্রথম যারা এ কথা শুনেছিল, তারা বলেছিল: মরে মাটি হয়ে যাওয়ার পর ফিরে আসা তো বহু দূরের কথা। আয়াত নিজের ভাষায় জবাব দেয়: এই সমবেত করা আমার জন্য সহজ। সন্দেহকারীর কাছে যা দূরের, প্রথম সৃষ্টি যিনি করেছেন আর যাঁকে কোনো ক্লান্তি স্পর্শ করেনি, তাঁর কাছে তা হালকা। তাই প্রশ্নটা এ নয় যে আমি সেই ডাকে সাড়া দেব কি না। প্রশ্ন হলো, সাড়া দেওয়ার দিন আমার সঙ্গে কী থাকবে, আর আমি কি এখন থেকেই সেদিকে এগোচ্ছি?",
+    "pointsEn": [
+      "When I picture my own grave, do I picture an ending, or a door that will one day open?",
+      "Which part of my life am I living as though the return were distant, as those first listeners said?",
+      "Everyone will hasten on that Day; what am I hastening towards today, and is it worth the speed?",
+      "If gathering all of creation is easy for Allah, which burden of mine am I treating as too heavy for Him?",
+      "What would I want to be holding when the earth gives me back?"
+    ],
+    "pointsBn": [
+      "নিজের কবরের কথা ভাবলে আমার চোখে কী ভাসে, সবকিছুর শেষ, নাকি এমন এক দরজা যা একদিন খুলে যাবে?",
+      "সেই প্রথম শ্রোতাদের মতো জীবনের কোন অংশটা আমি এমনভাবে কাটাচ্ছি, যেন ফিরে যাওয়া বহু দূরের ব্যাপার?",
+      "সেদিন সবাই ছুটবে। আজ আমি কিসের পেছনে ছুটছি, আর সেটা কি এই দৌড়ের যোগ্য?",
+      "গোটা সৃষ্টিকে একত্র করা যদি আল্লাহর জন্য সহজ হয়, তাহলে আমার কোন বোঝাটাকে আমি তাঁর জন্যও ভারী মনে করছি?",
+      "মাটি যেদিন আমাকে ফিরিয়ে দেবে, সেদিন আমার হাতে কী থাকুক বলে আমি চাই?"
+    ],
+    "lessonEn": "The return that seems distant is easy for Allah; live now as someone who will be called out of the ground and will hasten to answer.",
+    "lessonBn": "যে ফিরে যাওয়াকে দূরের মনে হয়, আল্লাহর জন্য তা সহজ। তাই এমনভাবে বাঁচুন, যেন একদিন আপনাকে মাটি থেকে ডেকে তোলা হবে আর আপনি সাড়া দিতে ছুটবেন।"
   }
 };
 
