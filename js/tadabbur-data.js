@@ -26009,6 +26009,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not hang your obedience on what you lack. The reminder they wished for has reached you, and the measure is what you do with it now.",
     "lessonBn": "যা নেই তার উপর আনুগত্য ঝুলিয়ে রাখবেন না। তারা যে উপদেশের আকাঙ্ক্ষা করেছিল, তা আপনার কাছে পৌঁছে গেছে। এখন তা নিয়ে আপনি কী করছেন, সেটাই মাপকাঠি।"
+  },
+  "37:160": {
+    "reflectionEn": "The passage has just recorded a claim about Allah: a lineage, daughters, a family He never had. Then it exalts Him above it all and adds four words: except the chosen servants of Allah. Some read them as the ones spared when the claimants are brought to account; others as the ones whose words about Him need no correcting, because they say of Him only what befits Him. Either way, the verse leaves a door in the wall. Some never joined the claim. That asks something of me. When I speak about Allah, in prayer, in argument or in passing talk, would my words stand without needing to be set right? And is my sincerity a title I hold, or a gift I ask Him to keep?",
+    "reflectionBn": "এর ঠিক আগে আয়াতগুলো আল্লাহ সম্পর্কে একটি দাবি তুলে ধরেছে: বংশ, কন্যা, এমন এক পরিবার যা তাঁর কখনো ছিল না। তারপর ঘোষণা এসেছে যে তিনি এসব থেকে পবিত্র, আর সঙ্গে চারটি শব্দ: তবে আল্লাহর একনিষ্ঠ বান্দারা নয়। কেউ পড়েন, দাবিদারদের যখন হিসাবের জন্য হাজির করা হবে, এরা তখন রেহাই পাবে। কেউ পড়েন, এরা সেই লোক যাদের কথা শুধরে দিতে হয় না, কারণ তারা আল্লাহর ব্যাপারে কেবল তা-ই বলে যা তাঁর মর্যাদার উপযুক্ত। যেভাবেই পড়া হোক, আয়াতটি দেয়ালে একটা দরজা রেখে দেয়। কেউ কেউ ওই দাবিতে কখনো যোগ দেয়নি। কথাটা আমার কাছেও কিছু চায়। দোয়ায়, তর্কে বা সাধারণ আলাপে যখন আল্লাহর কথা বলি, আমার কথাগুলো কি শুধরে দেওয়ার দরকার ছাড়াই টিকে থাকবে? আর আমার একনিষ্ঠতা কি আমার অর্জিত কোনো পদবি, নাকি এক দান, যা ধরে রাখার জন্য তাঁর কাছেই চাইতে হয়?",
+    "pointsEn": [
+      "When I describe Allah in a du'a, a lesson or an argument, do my words come from what He has said of Himself, or from my own guesses?",
+      "Which saying about Allah or His decree do I repeat without ever asking whether it befits Him?",
+      "Do I treat sincerity as a rank I already hold, or as a gift I must keep asking Him to preserve?",
+      "When the people around me drift into a claim I know is false, am I steady enough to be the exception?",
+      "How much of my worship would remain if no one but Allah ever saw it?"
+    ],
+    "pointsBn": [
+      "দোয়ায়, আলোচনায় বা তর্কে যখন আল্লাহর বর্ণনা দিই, আমার কথাগুলো কি আসে তিনি নিজের সম্পর্কে যা বলেছেন সেখান থেকে, নাকি আমার নিজের অনুমান থেকে?",
+      "আল্লাহ বা তাঁর তাকদীর নিয়ে কোন কথাটা আমি বারবার বলি, অথচ কখনো ভেবে দেখিনি তা তাঁর মর্যাদার উপযুক্ত কি না?",
+      "একনিষ্ঠতাকে কি আমি এমন এক মর্যাদা ভাবি যা আমার হাতে আছেই, নাকি এমন এক দান, যা টিকিয়ে রাখার জন্য তাঁর কাছে বারবার চাইতে হয়?",
+      "চারপাশের মানুষ যখন এমন কোনো দাবির দিকে গড়িয়ে যায় যা আমি মিথ্যা বলে জানি, আমি কি ব্যতিক্রম হয়ে থাকার মতো অবিচল?",
+      "আল্লাহ ছাড়া আর কেউ কখনো না দেখলে আমার ইবাদতের কতটুকু বাকি থাকত?"
+    ],
+    "lessonEn": "Speak of Allah only with what befits Him, and ask Him to make you one of His sincere servants: sincerity is His gift to guard, not a title to claim.",
+    "lessonBn": "আল্লাহর ব্যাপারে কেবল তা-ই বলুন যা তাঁর মর্যাদার উপযুক্ত, আর তাঁর কাছে চান যেন তিনি আপনাকে তাঁর একনিষ্ঠ বান্দাদের একজন করেন। একনিষ্ঠতা দাবি করার পদবি নয়, তাঁর দেওয়া এক দান, যা আগলে রাখতে হয়।"
   }
 };
 

@@ -6275,6 +6275,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:160": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Exception With No Verb",
+          "bn": "ক্রিয়াহীন এক ব্যতিক্রম"
+        },
+        "p": [
+          {
+            "en": "Illa 'ibada Allahi al-mukhlasin: except the chosen servants of Allah. The verse is four words long and has no verb of its own. It follows two verses directly. At 37:158 the claimants made a lineage between Allah and al-jinna, and al-jinna know that they will be brought; at 37:159 comes the glorification, exalted is Allah above what they describe. An exception with illa takes something out of a statement already made, so these four words cannot stand alone. They lean back on a sentence, and the question is which one.",
+            "bn": "ইল্লা ইবাদাল্লাহিল মুখলাসীন: তবে আল্লাহর একনিষ্ঠ বান্দারা নয়। আয়াতটি মাত্র চারটি শব্দের, এর নিজের কোনো ক্রিয়া নেই। এটি সরাসরি দুটি আয়াতের পরে এসেছে। ৩৭:১৫৮-এ দাবিদাররা আল্লাহ ও আল-জিন্নার মাঝে বংশ-সম্পর্ক জুড়ে দিয়েছে, আর আল-জিন্না জানে যে তাদের হাজির করা হবে। ৩৭:১৫৯-এ এসেছে তাসবীহ: তারা যা বর্ণনা করে, আল্লাহ তা থেকে পবিত্র। ইল্লা দিয়ে যে ব্যতিক্রম, তা আগেই বলা কোনো বাক্য থেকে কিছু একটা বের করে আনে। তাই এই চার শব্দ একা দাঁড়াতে পারে না। এরা পেছনের কোনো বাক্যের উপর ভর দেয়। প্রশ্ন হলো, কোন বাক্যের উপর?"
+          },
+          {
+            "en": "Two sentences stand within reach. One ends innahum la-muhdarun, they will surely be brought. The other ends 'amma yasifun, above what they describe. Attach the exception to the first, and the sincere servants are those who will not be brought. Attach it to the second, and they are those outside the describers, or those whose description of Allah is not something He is exalted above. The commentators read for this page divide along this line. Who is brought, and to what, belongs to 37:158 and is not retold here.",
+            "bn": "হাতের কাছে দুটি বাক্য। একটির শেষে আছে ইন্নাহুম লামুহদারূন, তাদের অবশ্যই হাজির করা হবে। অন্যটির শেষে আছে আম্মা ইয়াসিফূন, তারা যা বর্ণনা করে তা থেকে। ব্যতিক্রমটিকে প্রথম বাক্যের সঙ্গে জুড়লে একনিষ্ঠ বান্দারা হলেন তারা, যাদের হাজির করা হবে না। দ্বিতীয়টির সঙ্গে জুড়লে তারা হলেন বর্ণনাকারীদের দলের বাইরের মানুষ, অথবা এমন মানুষ যাদের দেওয়া বর্ণনা থেকে আল্লাহকে পবিত্র ঘোষণা করার দরকার পড়ে না। এ লেখার জন্য পড়া তাফসীরকারেরা ঠিক এই রেখা ধরে দুই ভাগ হয়েছেন। কাকে হাজির করা হবে এবং কীসের জন্য, সে আলোচনা ৩৭:১৫৮-এর, এখানে তা আবার বলা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spared When the Claimants Come",
+          "bn": "দাবিদারদের হাজিরায় যারা রেহাই পায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the verse as the close of 37:158. He restates the whole sentence in one line: al-jinna have known that those who said the angels are the daughters of Allah will be brought to the punishment, except the servants of Allah whom He made sincere for His mercy and created for His Paradise. His paraphrase runs straight from being brought to the exception. The glorification of 37:159 does not appear in it, and the sincere servants are named as the ones left out of the summons to punishment.",
+            "bn": "তাবারী আয়াতটিকে ৩৭:১৫৮-এর সমাপ্তি হিসেবে পড়েন। পুরো বাক্যটা তিনি একটি লাইনে আবার বলেন: আল-জিন্না জানে, যারা বলেছে ফেরেশতারা আল্লাহর কন্যা, তাদের শাস্তির জন্য হাজির করা হবে। তবে আল্লাহর সেই বান্দারা নয়, যাদের তিনি নিজের রহমতের জন্য একনিষ্ঠ করে নিয়েছেন আর নিজের জান্নাতের জন্য সৃষ্টি করেছেন। তাঁর ব্যাখ্যা হাজির করার কথা থেকে সোজা ব্যতিক্রমে চলে যায়। ৩৭:১৫৯-এর তাসবীহ সেখানে আসেনি। শাস্তির ডাক থেকে যাদের বাদ রাখা হয়েছে, একনিষ্ঠ বান্দাদের তিনি সেই দল হিসেবেই চিহ্নিত করেন।"
+          },
+          {
+            "en": "Al-Baghawi says it in grammatical terms and without hedging: this is an exception from al-muhdarin, those who are brought, meaning that they are not brought. Al-Qurtubi's comment on this verse is a single line: except the sincere servants of Allah, for they are saved from the Fire. He does not name the word the exception is taken from, but saved from the Fire answers the sense he records from Qatada for la-muhdarun at 37:158, brought into the Fire.",
+            "bn": "বাগাভী কথাটা বলেন ব্যাকরণের ভাষায়, কোনো দ্বিধা ছাড়া: এটি আল-মুহদারীন, অর্থাৎ যাদের হাজির করা হবে, তাদের থেকে ব্যতিক্রম। মানে, এদের হাজির করা হবে না। এ আয়াতে কুরতুবীর মন্তব্য মাত্র এক লাইনের: তবে আল্লাহর একনিষ্ঠ বান্দারা নয়, কারণ তারা জাহান্নাম থেকে মুক্তি পাবে। ব্যতিক্রমটি কোন শব্দ থেকে, তা তিনি নাম ধরে বলেন না। তবে জাহান্নাম থেকে মুক্তির কথাটা ৩৭:১৫৮-এর লামুহদারূন শব্দের সেই অর্থের জবাব, যা তিনি কাতাদা থেকে উদ্ধৃত করেছেন: জাহান্নামে হাজির করা।"
+          },
+          {
+            "en": "Read this way, the verse makes a promise inside a warning. A summons hangs over those who invented a family for Allah, and the sentence does not end before it marks out the people it will not reach. Their safety is tied, in at-Tabari's wording, to something Allah did for them: He made them sincere for His mercy. The exception describes what He chose to do with them, set against the fate of a claim they never joined.",
+            "bn": "এভাবে পড়লে আয়াতটি সতর্কবাণীর ভেতরেই একটা প্রতিশ্রুতি দেয়। যারা আল্লাহর জন্য পরিবার বানিয়েছে, তাদের মাথার উপর ঝুলছে একটি ডাক। বাক্যটি শেষ হওয়ার আগেই চিহ্নিত করে দেয়, এই ডাক কাদের কাছে পৌঁছাবে না। তাবারীর ভাষায় তাদের নিরাপত্তা বাঁধা আছে এমন কিছুর সঙ্গে, যা আল্লাহ তাদের জন্য করেছেন: তিনি তাদের নিজের রহমতের জন্য একনিষ্ঠ করে নিয়েছেন। ব্যতিক্রমটি বর্ণনা করে, আল্লাহ তাদের নিয়ে কী করতে চেয়েছেন। আর তা দাঁড় করানো হয়েছে এমন এক দাবির পরিণতির বিপরীতে, যাতে তারা কখনো যোগ দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Outside the Describers' Circle",
+          "bn": "বর্ণনাকারীদের বৃত্তের বাইরে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir begins by naming the kind of exception: istithna' munqati', a discontinuous exception, and he adds that it follows an affirmative statement. In a discontinuous exception, what is taken out was never inside the group to begin with. The sincere servants were never among those who gave Allah a lineage, so illa here works close to but. Exalted is Allah above what they describe; the sincere servants of Allah, though, are another matter. They are not caught in the description, because they never made it.",
+            "bn": "ইবন কাসীর শুরু করেন ব্যতিক্রমের ধরন বলে দিয়ে: ইসতিসনা মুনকাতি, অর্থাৎ বিচ্ছিন্ন ব্যতিক্রম। সঙ্গে যোগ করেন, এটি এসেছে একটি হ্যাঁ-বাচক বক্তব্যের পরে। বিচ্ছিন্ন ব্যতিক্রমে যা বাদ দেওয়া হয়, তা শুরু থেকেই ওই দলের ভেতরে ছিল না। একনিষ্ঠ বান্দারা কখনো আল্লাহর জন্য বংশ বানানো লোকদের দলে ছিলেন না। তাই এখানে ইল্লা প্রায় কিন্তু শব্দের কাজ করে। তারা যা বর্ণনা করে, আল্লাহ তা থেকে পবিত্র। কিন্তু আল্লাহর একনিষ্ঠ বান্দাদের কথা আলাদা। ওই বর্ণনায় তারা জড়ান না, কারণ এমন বর্ণনা তারা কখনো দেননি।"
+          },
+          {
+            "en": "He then opens a second possibility: unless the pronoun in 'amma yasifun refers to all people, in which case Allah excepted the sincere from among them. He identifies them in the same breath: those who follow the truth sent down to every prophet and messenger. On this line the describers are humankind at large, and the sincere are carved out of it. The abridged English rendering of his tafsir carries only this second line.",
+            "bn": "তারপর তিনি দ্বিতীয় একটি সম্ভাবনা খোলেন: যদি না আম্মা ইয়াসিফূন-এর সর্বনামটি সব মানুষের দিকে ফেরে। সে ক্ষেত্রে আল্লাহ তাদের মধ্য থেকে একনিষ্ঠদের আলাদা করে নিয়েছেন। একই সঙ্গে তিনি তাদের পরিচয়ও দেন: যারা প্রত্যেক নবী ও রাসূলের উপর নাযিল হওয়া সত্যের অনুসারী। এই ধারায় বর্ণনাকারীরা গোটা মানবজাতি, আর একনিষ্ঠরা তাদের ভেতর থেকে আলাদা করা একটি দল। ইবন কাসীরের তাফসীরের সংক্ষিপ্ত ইংরেজি রূপে কেবল এই দ্বিতীয় ধারাটিই আছে।"
+          },
+          {
+            "en": "Then he turns to at-Tabari by name. Ibn Jarir, he writes, made this exception from innahum la-muhdarun, and in what he said there is nazar, a point that needs looking into. The passage read for this page does not give his reason, so none is supplied here. The disagreement stands as the texts leave it. At-Tabari and al-Baghawi take the exception from those who are brought, with al-Qurtubi's gloss pointing the same way. Ibn Kathir takes it from what they describe, and records his reservation about at-Tabari's reading.",
+            "bn": "এরপর তিনি নাম ধরে তাবারীর প্রসঙ্গে আসেন। তিনি লেখেন, ইবন জারীর এই ব্যতিক্রমকে ইন্নাহুম লামুহদারূন থেকে ধরেছেন, আর তাঁর এ কথায় নাযার আছে, অর্থাৎ বিষয়টি ভেবে দেখার মতো। এ লেখার জন্য পড়া অংশে তিনি আপত্তির কারণ বলেননি, তাই এখানেও কোনো কারণ জুড়ে দেওয়া হচ্ছে না। মতভেদটি যেমন আছে, তেমনই থাকুক। তাবারী ও বাগাভী ব্যতিক্রমটি ধরেন যাদের হাজির করা হবে তাদের থেকে, আর কুরতুবীর ব্যাখ্যাও সেদিকেই ইঙ্গিত করে। ইবন কাসীর এটি ধরেন তারা যা বর্ণনা করে তা থেকে, এবং তাবারীর পাঠ নিয়ে নিজের আপত্তির কথা লিখে রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Correction Required",
+          "bn": "সংশোধনের প্রয়োজন নেই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the second side its sharpest form. At 37:159 he glosses the glorification as Allah, the Mighty King, the Perfect, the Forbearing, declared free of every description the idolaters gave Him out of their disbelief and shirk. Then at this verse: He did not declare Himself free of what they described Him with, because they described Him only with what befits His majesty, and by that they were mukhlasin. The exception, for him, is taken from the declaration itself. Their speech about Allah is the one speech in the passage He does not set aside.",
+            "bn": "দ্বিতীয় পক্ষের কথাকে সবচেয়ে ধারালো রূপ দেন সা'দী। ৩৭:১৫৯-এ তিনি তাসবীহের ব্যাখ্যা দেন এভাবে: মহান অধিপতি, পূর্ণাঙ্গ, সহনশীল আল্লাহ সেই সব বর্ণনা থেকে পবিত্র, যা মুশরিকরা তাদের কুফর ও শিরকের কারণে তাঁর উপর আরোপ করেছে। তারপর এ আয়াতে বলেন: তারা তাঁর যে বর্ণনা দিয়েছে, তা থেকে তিনি নিজেকে পবিত্র ঘোষণা করেননি। কারণ তারা তাঁর বর্ণনা দিয়েছে কেবল তা দিয়ে, যা তাঁর মহিমার উপযুক্ত। আর এ কারণেই তারা মুখলাস। তাঁর মতে ব্যতিক্রমটি নেওয়া হয়েছে পবিত্রতার ঘোষণা থেকেই। এই অংশে আল্লাহ সম্পর্কে যত কথা এসেছে, তার মধ্যে একমাত্র এদের কথাই তিনি নাকচ করেন না।"
+          },
+          {
+            "en": "The Muyassar opens its gloss with lakin, but, so that the verse reads as a fresh sentence rather than a carving-out: but the servants of Allah, sincere to Him in their worship, do not describe Him except with what befits His majesty. Al-Jalalayn calls the exception discontinuous outright, and gives the reason in the same clause: the devoted servants declare that Allah transcends what such people attribute to Him. Tanwir al-Miqbas sets the two readings side by side, first those who do not invent lies about Allah, then, under it is also said, those spared the torment awaiting the claimants.",
+            "bn": "মুয়াসসার ব্যাখ্যা শুরু করে লাকিন, অর্থাৎ কিন্তু শব্দ দিয়ে। ফলে আয়াতটি কোনো দল থেকে কাউকে আলাদা করার বদলে নতুন একটি বাক্য হয়ে দাঁড়ায়: কিন্তু আল্লাহর যে বান্দারা ইবাদতে তাঁর প্রতি একনিষ্ঠ, তারা তাঁর বর্ণনা দেয় কেবল তা দিয়ে, যা তাঁর মহিমার উপযুক্ত। জালালাইন সরাসরি বলে, ব্যতিক্রমটি বিচ্ছিন্ন। কারণটাও একই বাক্যে দেয়: এই নিবেদিত বান্দারা ঘোষণা করে যে ওই লোকেরা আল্লাহর উপর যা আরোপ করে, তিনি তার ঊর্ধ্বে। তানবীরুল মিকবাস দুটি পাঠ পাশাপাশি রাখে। প্রথমে বলে, এরা আল্লাহর নামে মিথ্যা বানায় না। তারপর 'আরও বলা হয়' কথাটি দিয়ে আনে, দাবিদারদের জন্য অপেক্ষমাণ শাস্তি থেকে এরা রেহাই পাবে।"
+          },
+          {
+            "en": "On this reading the verse sets a measure for speech about Allah. The glorification at 37:159 is a correction: it clears Him of what the claimants said. The sincere servants are those whose words leave nothing to correct. The test, in both as-Sa'di and the Muyassar, is whether a description befits His majesty. It is not enough to avoid the grossest claim. Every word said of Him is measured against what is fitting for Him.",
+            "bn": "এই পাঠে আয়াতটি আল্লাহ সম্পর্কে কথা বলার একটি মাপকাঠি দাঁড় করায়। ৩৭:১৫৯-এর তাসবীহ একধরনের সংশোধন: দাবিদাররা যা বলেছে, তা থেকে আল্লাহকে মুক্ত ঘোষণা করে। একনিষ্ঠ বান্দারা সেই মানুষ, যাদের কথায় শুধরে দেওয়ার মতো কিছু থাকে না। সা'দী ও মুয়াসসার দুজনের কাছেই পরীক্ষাটা হলো, বর্ণনাটি তাঁর মহিমার উপযুক্ত কি না। সবচেয়ে জঘন্য দাবি থেকে দূরে থাকাই যথেষ্ট নয়। তাঁর ব্যাপারে বলা প্রতিটি শব্দ মাপা হয় তাঁর উপযুক্ততার নিক্তিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made Pure, and Purely Devoted",
+          "bn": "খাঁটি করে নেওয়া, খাঁটি হয়ে থাকা"
+        },
+        "p": [
+          {
+            "en": "Al-mukhlasin is a passive form: those who have been made pure, set apart for Him. At-Tabari's gloss turns the passive round and names the doer: the servants whom He made sincere, akhlasahum, for His mercy, and created for His Paradise. The abridged English Ibn Kathir renders the word as those whom He chooses, and the English translation printed with the verse has the chosen servants. In each of these the act begins with Allah.",
+            "bn": "আল-মুখলাসীন কর্মবাচ্য রূপ: যাদের খাঁটি করে নেওয়া হয়েছে, তাঁর জন্য আলাদা করে রাখা হয়েছে। তাবারী নিজের ব্যাখ্যায় কর্মবাচ্যটিকে ঘুরিয়ে কর্তার নাম বলে দেন: সেই বান্দারা, যাদের তিনি নিজের রহমতের জন্য একনিষ্ঠ করে নিয়েছেন, আখলাসাহুম, আর নিজের জান্নাতের জন্য সৃষ্টি করেছেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি রূপে শব্দটির অর্থ করা হয়েছে, যাদের তিনি বেছে নেন। আয়াতের সঙ্গে ছাপা ইংরেজি অনুবাদেও আছে, বেছে নেওয়া বান্দারা। এর প্রতিটিতে কাজের শুরু আল্লাহর দিক থেকে।"
+          },
+          {
+            "en": "Others gloss the word by what shows in the servants. The Muyassar has those sincere to Him in their worship. Tanwir al-Miqbas has those sincere in professing His Oneness and in their worship. Ibn Kathir, in the Arabic, identifies them by what they follow, the truth sent down to every prophet and messenger. As-Sa'di ties the name to their speech: because they described Allah only with what befits Him, by that they were mukhlasin. Here the word is read through its fruit.",
+            "bn": "অন্যরা শব্দটির ব্যাখ্যা দেন বান্দাদের মধ্যে যা দেখা যায় তা দিয়ে। মুয়াসসারের ভাষায়, যারা ইবাদতে তাঁর প্রতি একনিষ্ঠ। তানবীরুল মিকবাসের ভাষায়, যারা তাঁর একত্ব স্বীকারে ও ইবাদতে একনিষ্ঠ। আরবি ইবন কাসীর তাদের চেনান তারা যা অনুসরণ করে তা দিয়ে: প্রত্যেক নবী ও রাসূলের উপর নাযিল হওয়া সত্য। সা'দী নামটিকে জুড়ে দেন তাদের কথার সঙ্গে: তারা আল্লাহর বর্ণনা দিয়েছে কেবল তাঁর উপযুক্ত কথা দিয়ে, আর এ কারণেই তারা মুখলাস। এখানে শব্দটিকে পড়া হয় তার ফল দিয়ে।"
+          },
+          {
+            "en": "None of the commentaries read for this verse raises a variant reading of the word, so this page does not discuss one. The two kinds of gloss do not pull against each other. One names the gift and the other names how the gift shows, and at-Tabari's own phrase holds both, sincere because He made them so, for His mercy. Sincerity is not a title one takes and then defends. It is something received from Him, and the right response to it is to ask Him to keep it.",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীরে শব্দটির ভিন্ন কোনো কিরাআতের কথা আসেনি, তাই এ লেখায় তা আলোচনা করা হচ্ছে না। দুই ধরনের ব্যাখ্যা পরস্পরের বিরোধী নয়। একটি বলে দানের কথা, অন্যটি বলে সেই দান কীভাবে প্রকাশ পায়। তাবারীর নিজের বাক্যেই দুটো ধরা আছে: তারা একনিষ্ঠ, কারণ তিনিই তাদের এমন করেছেন, নিজের রহমতের জন্য। একনিষ্ঠতা এমন কোনো পদবি নয়, যা কেউ নিজে নিয়ে তারপর তা রক্ষার লড়াই করে। এটি তাঁর কাছ থেকে পাওয়া জিনিস। এর সঠিক জবাব হলো, তিনি যেন তা টিকিয়ে রাখেন, সেই প্রার্থনা করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Refrain Across the Surah",
+          "bn": "সূরাজুড়ে ফিরে আসা এক ধ্বনি"
+        },
+        "p": [
+          {
+            "en": "These exact four words occur four times as an exception in this surah. At 37:40 they follow you will not be recompensed except for what you used to do. At 37:74 they follow look how was the end of those who were warned. At 37:128, in the account of Ilyas (AS), they follow they denied him, so they will surely be brought. And here at 37:160. Each time a sweeping sentence about punishment or an evil end is closing, the same four words open a gap in it.",
+            "bn": "হুবহু এই চারটি শব্দ এ সূরায় ব্যতিক্রম হিসেবে এসেছে চারবার। ৩৭:৪০-এ এরা এসেছে এই কথার পরে: তোমরা যা করতে, কেবল তারই প্রতিফল তোমাদের দেওয়া হবে। ৩৭:৭৪-এ এসেছে এ কথার পরে: দেখো, যাদের সতর্ক করা হয়েছিল তাদের পরিণাম কেমন হয়েছিল। ৩৭:১২৮-এ, ইলিয়াস (আঃ)-এর বর্ণনায়, এসেছে এ কথার পরে: তারা তাঁকে মিথ্যাবাদী বলল, তাই তাদের অবশ্যই হাজির করা হবে। আর এখানে, ৩৭:১৬০-এ। প্রতিবার শাস্তি বা মন্দ পরিণামের এক সর্বব্যাপী বাক্য যখন শেষ হতে চলেছে, তখনই এই চার শব্দ তাতে একটা ফাঁক খুলে দেয়।"
+          },
+          {
+            "en": "One of these bears directly on the question above. At 37:127 and 37:128 the exception comes straight after fa-innahum la-muhdarun, the same word for being brought as in 37:158, with nothing in between. Here a glorification stands between the two. The parallel does not settle the matter, and none of the commentators read for this verse cites it. It shows only why each side has a natural case: elsewhere the surah pairs this exception with being brought, and here the nearest sentence is about describing.",
+            "bn": "এর একটি সরাসরি উপরের প্রশ্নের সঙ্গে যুক্ত। ৩৭:১২৭ ও ৩৭:১২৮-এ ব্যতিক্রমটি এসেছে ঠিক ফাইন্নাহুম লামুহদারূন-এর পরে। হাজির করার এ শব্দটিই ৩৭:১৫৮-এ আছে, আর মাঝে অন্য কিছু নেই। এখানে দুটির মাঝে দাঁড়িয়ে আছে একটি তাসবীহ। এই মিল বিষয়টির মীমাংসা করে না, আর এ আয়াতের জন্য পড়া কোনো তাফসীরকার এটি উল্লেখও করেননি। এটি কেবল দেখায়, কেন দুই পক্ষেরই স্বাভাবিক যুক্তি আছে: অন্য জায়গায় সূরাটি এই ব্যতিক্রমকে হাজির করার কথার সঙ্গে জুড়েছে, আর এখানে সবচেয়ে কাছের বাক্যটি বর্ণনা নিয়ে।"
+          },
+          {
+            "en": "The fifth occurrence turns the phrase around. At 37:169 the disbelievers are quoted: had we a reminder from the former peoples, we would have been the chosen servants of Allah. The title is something they wished to wear, and the very next verse says that they disbelieved in it. The name is not won by claiming it. None of the commentaries fetched for this verse attaches a hadith to it or gives an occasion of revelation, so it is read here from its place in the passage.",
+            "bn": "পঞ্চমবার শব্দগুচ্ছটি উল্টো দিক থেকে আসে। ৩৭:১৬৯-এ কাফিরদের কথা উদ্ধৃত হয়েছে: আগের লোকদের মতো কোনো উপদেশবাণী আমাদের কাছে থাকলে আমরা অবশ্যই আল্লাহর একনিষ্ঠ বান্দা হতাম। উপাধিটা তারা পরতে চেয়েছিল। ঠিক পরের আয়াতই বলে, তারা তা অস্বীকার করল। দাবি করে এ নাম পাওয়া যায় না। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও দেয়নি। তাই এখানে আয়াতটি পড়া হচ্ছে অংশটির ভেতরে এর অবস্থান থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Claim of That Time",
+          "bn": "সে যুগের এক দাবি"
+        },
+        "p": [
+          {
+            "en": "This should be said plainly. The passage describes a claim made by idolaters of that time, that Allah had daughters and a kinship with the jinn, and the answer the Qur'an gave it. It describes what the text describes. It licenses nothing against any living person or community. The commentators speak of those who said the angels are the daughters of Allah; they do not hand a later reader a list of people to place outside the exception.",
+            "bn": "কথাটা স্পষ্ট করে বলা দরকার। এই অংশটি সে যুগের মুশরিকদের একটি দাবির বর্ণনা দেয়, যে আল্লাহর কন্যা আছে আর জিনদের সঙ্গে তাঁর আত্মীয়তা আছে। সঙ্গে দেয় কুরআনের জবাব। আয়াতটি কেবল তা-ই বর্ণনা করে, যা এর পাঠে আছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। তাফসীরকারেরা কথা বলেন তাদের নিয়ে, যারা বলেছিল ফেরেশতারা আল্লাহর কন্যা। পরের যুগের পাঠকের হাতে তারা এমন কোনো তালিকা তুলে দেন না, যাদের ব্যতিক্রমের বাইরে রাখতে হবে।"
+          },
+          {
+            "en": "Nor does the exception give anyone a badge. The verse does not say who, by name, the sincere servants are, and on at-Tabari's gloss it is Allah who makes them so. A reader who counts himself among them by right, and others outside, has missed the direction of the word. The verse invites the reader to ask for a place among those servants, not to sort the people around him into those who have one and those who do not.",
+            "bn": "ব্যতিক্রমটিও কাউকে কোনো ব্যাজ পরিয়ে দেয় না। আয়াতটি নাম ধরে বলে না একনিষ্ঠ বান্দা কারা। তাবারীর ব্যাখ্যায় তাদের এমন করেন আল্লাহই। যে পাঠক নিজেকে অধিকারবলে তাদের একজন ধরে নেয় আর অন্যদের বাইরে ঠেলে দেয়, সে শব্দটির দিকই ভুল বুঝেছে। আয়াতটি পাঠককে ডাকে সেই বান্দাদের মাঝে একটু জায়গা চাইতে। আশপাশের মানুষকে জায়গা-পাওয়া আর জায়গা-না-পাওয়া, এই দুই ভাগে সাজাতে ডাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speech That Stands Unrevised",
+          "bn": "শুধরে দিতে হয় না যে কথা"
+        },
+        "p": [
+          {
+            "en": "Whichever sentence the exception hangs on, the verse leaves a door in the wall. On one reading the sincere are not swept into the summons that awaits the claimants. On the other their words about Allah are the only words in the passage He does not have to be cleared of. The two readings meet in a single picture: servants whose speech about Him is true, and whose end is safe.",
+            "bn": "ব্যতিক্রমটি যে বাক্যের সঙ্গেই জুড়ুক, আয়াতটি দেয়ালে একটা দরজা রেখে দেয়। এক পাঠে, দাবিদারদের জন্য অপেক্ষমাণ ডাকে একনিষ্ঠরা ভেসে যান না। অন্য পাঠে, এই অংশে আল্লাহর ব্যাপারে বলা কথার মধ্যে কেবল তাদের কথা থেকেই তাঁকে মুক্ত ঘোষণা করার দরকার পড়ে না। দুই পাঠ মিলে যায় একটি ছবিতে: এমন বান্দা, যাদের মুখে তাঁর সম্পর্কে কথা সত্য, আর যাদের পরিণাম নিরাপদ।"
+          },
+          {
+            "en": "That turns the verse on the reader. Much is said about Allah in a day: in du'a, in teaching, in argument, in comfort offered to the grieving, in a passing remark about His decree. The test the commentators use is short. Does this befit His majesty? A careful believer can bring that question to each such sentence, keep to what He has said of Himself, and ask, in the words the surah gives, to be among 'ibad Allah al-mukhlasin.",
+            "bn": "এভাবে আয়াতটি ফিরে আসে পাঠকের দিকে। একটা দিনে আল্লাহর ব্যাপারে কত কথাই বলা হয়: দোয়ায়, শিক্ষাদানে, তর্কে, শোকার্ত মানুষকে সান্ত্বনা দিতে গিয়ে, তাঁর তাকদীর নিয়ে হঠাৎ কোনো মন্তব্যে। তাফসীরকারদের পরীক্ষাটা ছোট: এটা কি তাঁর মহিমার উপযুক্ত? একজন সচেতন মুমিন এমন প্রতিটি বাক্যের সামনে প্রশ্নটা রাখতে পারেন। থাকতে পারেন তিনি নিজের সম্পর্কে যা বলেছেন সেটুকুর মধ্যে। আর সূরা যে ভাষা দিয়েছে, সেই ভাষায় চাইতে পারেন, তাকে যেন ইবাদাল্লাহিল মুখলাসীনের মধ্যে রাখা হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "37:166": {
     "sections": [
       {
