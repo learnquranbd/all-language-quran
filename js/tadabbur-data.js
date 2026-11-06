@@ -27809,6 +27809,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are overpowered, call on Allah plainly and trust that His help can come from every side, on a matter He has already measured.",
     "lessonBn": "নিজেকে পরাস্ত মনে হলে সোজা ভাষায় আল্লাহকে ডাকুন, আর ভরসা রাখুন: তাঁর সাহায্য যেকোনো দিক থেকে আসতে পারে, এমন বিষয়ে যা তিনি আগেই মেপে রেখেছেন।"
+  },
+  "53:49": {
+    "reflectionEn": "Four words, and one of them names a star. Long ago some people looked up at a bright star in the night sky and worshipped it; others stopped short of worship but still believed it steered their luck. The verse does not argue with the star or measure it. It names its owner: He is the Lord of ash-Shi'ra. What they bowed to has a Lord, and is held and governed like every other thing He made. The sky has not changed since then. What can change is the place I give to the things in it, and to the things on earth. What do I treat as if it ran my life, when it is itself only something run?",
+    "reflectionBn": "চারটি শব্দ, তার একটি এক তারার নাম। বহু আগে কিছু মানুষ রাতের আকাশে এক উজ্জ্বল তারার দিকে তাকিয়ে তার পূজা করত। অন্যরা পূজা পর্যন্ত যায়নি, তবু বিশ্বাস করত, তাদের ভাগ্য ওই তারাই ঘোরায়। আয়াতটি তারার সঙ্গে তর্ক করে না, তার মাপজোখও করে না। শুধু তার মালিকের নাম বলে দেয়: শি'রার রব তিনিই। যার সামনে তারা মাথা নোয়াত, তারও একজন রব আছেন। তাঁর বানানো আর সব জিনিসের মতো সেটাও তাঁর হাতে বাঁধা, তাঁরই পরিচালনায় চলে। আকাশ সেদিন থেকে বদলায়নি। বদলাতে পারে শুধু এটুকু: আকাশের জিনিসকে, আর জমিনের জিনিসকেও, আমি মনে কোন জায়গা দিই। কোন জিনিসকে আমি এমনভাবে দেখি, যেন সে-ই আমার জীবন চালায়, অথচ সে নিজেই চালিত?",
+    "pointsEn": [
+      "What do I lean on for my sense of luck or safety that is, in the end, something created and governed?",
+      "Is there anything in creation I give a reverence that stops short of worship, yet still takes a share of my heart that belongs to Allah?",
+      "When I see something bright, vast or beautiful, does my thought stop at it, or travel on to its Lord?",
+      "If people called me strange for leaving a custom everyone around me kept, would I still hold to what is true?",
+      "Which of my fears would shrink if I truly believed that the thing I fear has a Lord?"
+    ],
+    "pointsBn": [
+      "ভাগ্য বা নিরাপত্তার ভরসায় আমি কীসের উপর হেলান দিই, যা শেষ পর্যন্ত সৃষ্ট আর অন্যের পরিচালনাধীন একটা জিনিস মাত্র?",
+      "সৃষ্টির মধ্যে এমন কিছু কি আছে, যাকে আমি পূজা করি না ঠিকই, তবু এমন সমীহ করি যে মনের যে অংশটুকু আল্লাহর হক, তার খানিকটা সে নিয়ে নেয়?",
+      "উজ্জ্বল, বিশাল বা সুন্দর কিছু দেখলে আমার ভাবনা কি সেখানেই থেমে যায়, নাকি তার রব পর্যন্ত পৌঁছায়?",
+      "আশপাশের সবাই যে রীতি মেনে চলে, তা ছেড়ে দেওয়ার জন্য লোকে যদি আমাকে অদ্ভুত বলে, তবু কি আমি সত্যের উপর টিকে থাকব?",
+      "যাকে ভয় পাই, তারও একজন রব আছেন, এ কথা সত্যিই বিশ্বাস করলে আমার কোন কোন ভয় ছোট হয়ে আসত?"
+    ],
+    "lessonEn": "Whatever people lift to the place of a lord, a star, a fortune or a person, is itself governed; give your worship and your hope only to its Lord.",
+    "lessonBn": "মানুষ যাকেই রবের আসনে তোলে, তারা হোক, ভাগ্য হোক বা কোনো মানুষ, সে নিজেই অন্যের পরিচালনায় চলে। তাই আপনার ইবাদত আর আশা রাখুন শুধু তার রবের কাছে।"
   }
 };
 

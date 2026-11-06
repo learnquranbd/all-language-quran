@@ -1799,6 +1799,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "53:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Star Between Wealth and Ruin",
+          "bn": "সম্পদ আর ধ্বংসের মাঝে এক তারা"
+        },
+        "p": [
+          {
+            "en": "Wa-annahu huwa rabbu sh-shi'ra: and that it is He who is the Lord of ash-Shi'ra. Four Arabic words, and the last is the name of a star. The verse continues the clauses in this part of an-Najm that open wa-annahu, and that He; the entry on 53:45 traces that list, and this entry does not retell it. Just before it, 53:48 says that it is He who enriches and suffices. Just after it, 53:50 turns to the destruction of the first 'Ad. Between wealth on earth and ruined nations, the verse looks up.",
+            "bn": "ওয়া আন্নাহূ হুওয়া রাব্বুশ শি'রা: আর এই যে, শি'রার রব তিনিই। আরবিতে চারটি শব্দ, শেষ শব্দটি এক তারার নাম। সূরা নাজমের এ অংশে ওয়া আন্নাহূ, আর এই যে তিনি, দিয়ে শুরু হওয়া বাক্যের যে সারি চলছে, আয়াতটি তারই আরেকটি কড়ি। সারিটার বিবরণ আছে ৫৩:৪৫-এর আলোচনায়, এখানে তা আবার বলা হবে না। ঠিক আগে ৫৩:৪৮ বলে, তিনিই অভাবমুক্ত করেন, তিনিই যথেষ্ট দেন। ঠিক পরে ৫৩:৫০ চলে যায় প্রথম আদ জাতির ধ্বংসের কথায়। জমিনের সম্পদ আর ধ্বংস হওয়া জাতির মাঝখানে আয়াতটি চোখ তোলে আকাশের দিকে।"
+          },
+          {
+            "en": "The English translations most readers meet render ash-Shi'ra as Sirius, and Ma'arif al-Qur'an and the English abridgement of Ibn Kathir both give that name; the Bengali translation shown with the verse glosses it as lubdhak. One feature of the wording is easy to check: the pronoun huwa, it is He, stands in this verse as it does in 53:43, 53:44 and 53:48, while 53:45, 53:47 and 53:50 run without it. None of the commentators fetched for this verse remarks on that pattern, so this article notes it and draws nothing from it.",
+            "bn": "পাঠকের হাতে যে ইংরেজি অনুবাদগুলো সাধারণত পৌঁছায়, সেগুলোতে শি'রাকে বলা হয়েছে সিরিয়াস। মাআরিফুল কুরআন আর ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ, দুটোতেই এই নাম আছে। আয়াতের সঙ্গে দেওয়া বাংলা অনুবাদে বন্ধনীতে লেখা আছে লুব্ধক নক্ষত্র। শব্দবিন্যাসের একটা ছোট বৈশিষ্ট্য যে কেউ মিলিয়ে দেখতে পারেন। হুওয়া সর্বনামটি, অর্থাৎ তিনিই, এ আয়াতে আছে, যেমন আছে ৫৩:৪৩, ৫৩:৪৪ আর ৫৩:৪৮-এ। অথচ ৫৩:৪৫, ৫৩:৪৭ আর ৫৩:৫০ চলে এটি ছাড়াই। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এই ধারা নিয়ে কিছু বলে না। তাই এখানে কেবল বিষয়টা চোখে পড়ানো হলো, এ থেকে কোনো সিদ্ধান্ত টানা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Star That Follows al-Jawza'",
+          "bn": "জাওযার পিছু পিছু যে তারা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with a paraphrase that turns the verse towards the Prophet ﷺ: and that your Lord, O Muhammad, is the Lord of ash-Shi'ra. By ash-Shi'ra, he says, is meant the star that bears this name, a star that some of the people of the Jahiliyya worshipped besides Allah. The people of interpretation said the same, and he lists them. From Ibn 'Abbas: it is the star that is called ash-Shi'ra. From Mujahid, by several chains: the star behind al-Jawza', which they used to worship; it was worshipped in the Jahiliyya; and in a third report, mirzam al-Jawza'.",
+            "bn": "তাবারী শুরু করেন আয়াতের এমন এক ভাবার্থ দিয়ে, যা কথাটাকে নবী ﷺ-এর দিকে ফিরিয়ে দেয়: হে মুহাম্মাদ, তোমার রবই শি'রার রব। তাঁর ব্যাখ্যায় শি'রা মানে ওই নামেরই এক তারা। জাহিলিয়াতের কিছু লোক আল্লাহকে বাদ দিয়ে তার পূজা করত। তিনি জানান, তাফসীরকারেরাও একই কথা বলেছেন, তারপর তাঁদের বর্ণনা একে একে আনেন। ইবন আব্বাস (রাঃ) থেকে: এ সেই তারা, যাকে শি'রা বলে ডাকা হয়। মুজাহিদ থেকে কয়েকটি সূত্রে: জাওযার পেছনের তারা, লোকে যার পূজা করত। আরেক বর্ণনায়: জাহিলিয়াতে এর পূজা হতো। তৃতীয় বর্ণনায়: মিরযামুল জাওযা।"
+          },
+          {
+            "en": "From Qatada: a tribe of the Arabs used to worship ash-Shi'ra, this star that you have seen, and a narrator in the chain adds that he meant the star that follows al-Jawza'. A second report from him says that people in the Jahiliyya worshipped this star called ash-Shi'ra. Ibn Kathir gathers the same four, Ibn 'Abbas, Mujahid, Qatada and Ibn Zayd, into one line: it is this blazing star called mirzam al-Jawza', which a group of the Arabs used to worship. The Muyassar is shorter still: a bright star that some in the Jahiliyya worshipped besides Allah.",
+            "bn": "কাতাদা থেকে: আরবদের একটি গোত্র শি'রার পূজা করত, তোমরা যে তারাটা দেখেছ, সেটারই। সনদের এক বর্ণনাকারী যোগ করেন, তিনি বোঝাতে চেয়েছেন জাওযার পিছু পিছু চলা তারাটিকে। কাতাদার আরেক বর্ণনায় আছে, জাহিলিয়াতের কিছু মানুষ শি'রা নামের এই তারার পূজা করত। ইবন কাসীর এই চারজনকে, অর্থাৎ ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা আর ইবন যায়দকে, এক বাক্যে এনে বলেন: এ হলো মিরযামুল জাওযা নামের জ্বলজ্বলে তারা, আরবদের একটি দল যার পূজা করত। মুয়াসসার আরও সংক্ষেপে বলে: এক উজ্জ্বল তারা, জাহিলিয়াতের কিছু লোক আল্লাহকে বাদ দিয়ে যার পূজা করত।"
+          },
+          {
+            "en": "All of these sources place ash-Shi'ra by al-Jawza', another name from the Arabs' night sky: behind it, after it, following it. This article makes no claim of its own about where the star sits in modern astronomy, and draws no scientific lesson or wonder from the verse. The verse does not ask the reader to find the star or measure it. It names the star only to say whose it is, and that is the question the rest of this article follows.",
+            "bn": "এই সব সূত্রই শি'রার অবস্থান বোঝায় জাওযার সঙ্গে মিলিয়ে, যা আরবদের রাতের আকাশের আরেকটি নাম। কখনো তার পেছনে, কখনো তার পরে, কখনো তার পিছু পিছু। আধুনিক জ্যোতির্বিজ্ঞানে তারাটির অবস্থান কোথায়, এ নিয়ে এই আলোচনা নিজে থেকে কোনো দাবি করে না। আয়াত থেকে কোনো বৈজ্ঞানিক শিক্ষা বা বিস্ময়ও টেনে আনে না। আয়াতটি পাঠককে তারা খুঁজে বের করতে বা মাপতে বলে না। তারার নাম নেয় শুধু এটুকু বলার জন্য যে সে কার। বাকি আলোচনা সেই প্রশ্নের পেছনেই চলবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-'Abur and al-Ghumaysa'",
+          "bn": "আবূর আর গুমাইসা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi adds a distinction. There are two shi'ras, he says: one is called al-'Abur, and the other al-Ghumaysa', named so because it is the fainter of the two, and al-majarra, the Milky Way, lies between them. What is meant in this verse is ash-Shi'ra al-'Abur. As-Sa'di agrees on the identification: it is the well-known star called ash-Shi'ra al-'Abur, which is named al-Mirzam.",
+            "bn": "বাগাভী একটা পার্থক্য যোগ করেন। তাঁর কথায় শি'রা আসলে দুটি। একটির নাম আবূর, অন্যটির গুমাইসা। দ্বিতীয়টির এ নাম, কারণ দুটোর মধ্যে সেটি বেশি অনুজ্জ্বল। আর দুটোর মাঝখানে আছে মাজাররা, অর্থাৎ ছায়াপথ। তিনি বলেন, এ আয়াতে বোঝানো হয়েছে শি'রা আবূরকে। সা'দীও একই তারার কথা বলেন: এ হলো শি'রা আবূর নামে পরিচিত তারা, যাকে মিরযামও বলা হয়।"
+          },
+          {
+            "en": "Al-Qurtubi describes ash-Shi'ra as the bright star that rises after al-Jawza', and says its rising comes in the fierceness of the heat. He too names the two shi'ras, placing al-'Abur in al-Jawza' and al-Ghumaysa' in adh-Dhira', and adds that the Arabs claimed the two were sisters of Suhayl. He quotes a line of poetry that ties the passing of the month of Aylul and the lifting of summer's heat to ash-Shi'ra al-'Abur. These are his statements, not the article's.",
+            "bn": "কুরতুবী শি'রাকে বলেন সেই উজ্জ্বল তারা, যা জাওযার পরে উদিত হয়। তাঁর কথায় এর উদয় ঘটে প্রচণ্ড গরমের সময়। তিনিও দুই শি'রার নাম নেন। আবূরকে রাখেন জাওযায়, গুমাইসাকে যিরা'য়। সঙ্গে জানান, আরবদের দাবি ছিল, এ দুজন সুহাইলের বোন। তিনি একটি কবিতার চরণ উদ্ধৃত করেন, যেখানে আইলূল মাস পেরোনো আর গ্রীষ্মের তাপ কমে আসার সঙ্গে শি'রা আবূরের নাম জুড়ে দেওয়া আছে। এগুলো তাঁরই বক্তব্য, এই আলোচনার নিজের নয়।"
+          },
+          {
+            "en": "He then relays, under the words it is said, something he himself calls part of the Arabs' khurafat, their fables. Suhayl and ash-Shi'ra were husband and wife; Suhayl went down southwards and became Yemeni; al-'Abur followed him, crossing the Milky Way, and so was called the crosser; al-Ghumaysa' stayed behind and wept for Suhayl until her eyes grew bleary, hence her name. Al-Qurtubi labels the tale as fable, and it is reported here only as that. It shows how full of stories the sky was for the verse's first hearers.",
+            "bn": "এরপর 'বলা হয়' কথাটি দিয়ে তিনি এমন একটি কাহিনি আনেন, যাকে তিনি নিজেই বলেন আরবদের খুরাফাত, অর্থাৎ উপকথা। সুহাইল আর শি'রা ছিল স্বামী-স্ত্রী। সুহাইল দক্ষিণে নেমে গিয়ে ইয়ামানি হয়ে গেল। আবূর তার পিছু নিয়ে ছায়াপথ পার হয়ে গেল, তাই তার নাম হলো আবূর, অর্থাৎ পার হওয়া জন। গুমাইসা রয়ে গেল, সুহাইলের জন্য কাঁদতে কাঁদতে তার চোখ ঝাপসা হয়ে গেল, সেখান থেকেই তার নাম। কুরতুবী নিজেই কাহিনিটাকে উপকথা বলেছেন, এখানেও তা কেবল উপকথা হিসেবেই এল। এ থেকে বোঝা যায়, আয়াতের প্রথম শ্রোতাদের কাছে আকাশ কত গল্পে ভরা ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lord of All, Yet One Named",
+          "bn": "সবকিছুর রব, তবু একটির নাম"
+        },
+        "p": [
+          {
+            "en": "Allah is Lord of everything, so why name this one star? Al-Qurtubi asks the question outright and answers it: He mentioned that He is the Lord of ash-Shi'ra, though He is Lord of other things as well, because the Arabs used to worship it, so Allah let them know that ash-Shi'ra is marbub, laysa bi-rabb: a thing under lordship, not a lord. The answer sits inside the verse's own word. The star is not the rabb; it has one.",
+            "bn": "আল্লাহ তো সবকিছুর রব, তাহলে বিশেষ করে এই একটি তারার নাম কেন? কুরতুবী প্রশ্নটা সরাসরি তোলেন, জবাবও দেন। তিনি অন্য সবকিছুরও রব, তবু নিজেকে শি'রার রব বলে উল্লেখ করেছেন, কারণ আরবরা এর পূজা করত। তাই আল্লাহ তাদের জানিয়ে দিলেন, শি'রা মারবূব, রব নয়। অর্থাৎ সে প্রতিপালিত, প্রতিপালক নয়। জবাবটা আয়াতের নিজের শব্দেই লুকিয়ে আছে। তারাটি রব নয়, তারও একজন রব আছেন।"
+          },
+          {
+            "en": "As-Sa'di gives the same reason, more broadly. Allah singled the star out, though He is Lord of everything, because it was among the things worshipped in the Jahiliyya; so He informed them that the whole kind of thing the idolaters worship is marbub, mudabbar, makhluq: under lordship, managed, created. How then, he asks, can it be taken as a god alongside Allah? Ma'arif al-Qur'an says that some Arab tribes worshipped the star because they regarded it as a source of good or bad luck, and that Allah names it to refute that notion: He is its Lord too.",
+            "bn": "সা'দী একই কারণ বলেন, আরও ব্যাপক করে। আল্লাহ সবকিছুর রব হয়েও এই তারাকে আলাদা করে উল্লেখ করেছেন, কারণ জাহিলিয়াতে যাদের পূজা হতো, এটি তাদের একটি। এভাবে তিনি জানিয়ে দিলেন, মুশরিকরা যে জাতের জিনিসের পূজা করে, তার সবই মারবূব, মুদাব্বার, মাখলূক: প্রতিপালিত, পরিচালিত, সৃষ্ট। সা'দীর প্রশ্ন, তাহলে আল্লাহর সঙ্গে তাকে ইলাহ বানানো যায় কী করে? মাআরিফুল কুরআন বলে, আরবের কিছু গোত্র তারাটিকে সৌভাগ্য বা দুর্ভাগ্যের উৎস মনে করত বলেই তার পূজা করত। সেই ভুল ধারণা খণ্ডন করতে আল্লাহ এর নাম নিয়েছেন: এরও রব তিনিই।"
+          },
+          {
+            "en": "Ibn Zayd, in a report at-Tabari carries, puts the point as a direct address: it used to be worshipped in the Jahiliyya, so He said, do you worship this and leave its Lord? Worship its Lord. So the commentators agree on why the star is named and differ only in emphasis: al-Qurtubi and as-Sa'di on its status as a thing under lordship, Ma'arif al-Qur'an on the belief about luck, Ibn Zayd on the command to turn to its Lord.",
+            "bn": "তাবারীর আনা এক বর্ণনায় ইবন যায়দ কথাটা বলেন সরাসরি সম্বোধনের ঢঙে। জাহিলিয়াতে এর পূজা হতো, তাই তিনি বললেন: তোমরা এর পূজা কর আর এর রবকে ছেড়ে দাও? এর রবের ইবাদত কর। তাহলে তারাটির নাম নেওয়ার কারণে তাফসীরকারেরা একমত, পার্থক্য শুধু জোরের জায়গায়। কুরতুবী আর সা'দীর জোর তারার অবস্থানে, সে প্রতিপালিত জিনিস মাত্র। মাআরিফুল কুরআনের জোর ভাগ্য-বিশ্বাসে। ইবন যায়দের জোর তার রবের দিকে ফেরার আদেশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Bowed to the Star",
+          "bn": "কারা তারাটির পূজা করত"
+        },
+        "p": [
+          {
+            "en": "On who worshipped it, the sources part ways. At-Tabari's reports keep it general: some of the people of the Jahiliyya, a tribe of the Arabs in Qatada's words, people in the Jahiliyya. Ibn Kathir says a group of the Arabs. Al-Qurtubi marks the question as a disagreement and gives two answers. As-Suddi said that Himyar and Khuza'a used to worship it. Another, unnamed, said that the first to worship it was Abu Kabsha, one of the Prophet's ﷺ forefathers on the side of his mothers.",
+            "bn": "পূজা কারা করত, এ প্রশ্নে সূত্রগুলো এক জায়গায় থাকে না। তাবারীর বর্ণনাগুলো কথাটা সাধারণভাবে রাখে: জাহিলিয়াতের কিছু লোক, কাতাদার ভাষায় আরবদের একটি গোত্র, জাহিলিয়াতের কিছু মানুষ। ইবন কাসীর বলেন, আরবদের একটি দল। কুরতুবী বিষয়টাকে মতভেদ হিসেবে চিহ্নিত করে দুটি জবাব দেন। সুদ্দী বলেছেন, হিময়ার আর খুযাআ এর পূজা করত। আরেকজন, যাঁর নাম কুরতুবী বলেননি, বলেছেন: প্রথম যে এর পূজা করে, সে আবু কাবশা, মায়ের দিক থেকে নবী ﷺ-এর পূর্বপুরুষদের একজন।"
+          },
+          {
+            "en": "Al-Baghawi names Khuza'a alone and says how it began. The one who set the practice for them was a man from among their nobles called Abu Kabsha. He worshipped the star and gave his reason: the stars cross the sky breadthwise, and ash-Shi'ra crosses it lengthwise, so it is unlike them. Then Khuza'a worshipped it. That is Abu Kabsha's argument as al-Baghawi reports it, not a description of the sky from this article. And the argument fails on its own terms: a thing that moves differently is still a thing that is moved.",
+            "bn": "বাগাভী শুধু খুযাআর নাম নেন, আর বলেন ব্যাপারটা শুরু হলো কীভাবে। তাদের জন্য এ রীতি চালু করেছিল তাদের অভিজাতদের একজন, যার নাম আবু কাবশা। সে নিজে তারাটির পূজা করত, আর এর একটা যুক্তিও দিত। অন্য তারাগুলো আকাশ পাড়ি দেয় আড়াআড়ি, আর শি'রা পাড়ি দেয় লম্বালম্বি। তাই সে অন্যদের মতো নয়। এরপর খুযাআ তার পূজা শুরু করে। এ হলো বাগাভীর বর্ণনায় আবু কাবশার যুক্তি। আকাশের বিবরণ হিসেবে এই আলোচনা তা দিচ্ছে না। আর যুক্তিটা নিজের জায়গাতেই টেকে না। যে আলাদাভাবে চলে, সে-ও তো কারও চালানোতেই চলে।"
+          },
+          {
+            "en": "So Abu Kabsha has two descriptions: a maternal forefather of the Prophet ﷺ in the unnamed report al-Qurtubi relays, a nobleman of Khuza'a in al-Baghawi. The two are set side by side here, without a ruling between them. One thing needs saying plainly. The verse names a star and a worship that once was, and the commentators name tribes. None of it licenses anything against Khuza'a, Himyar or any living person, family or community; the verse describes what it describes and passes no sentence on anyone alive today.",
+            "bn": "তাহলে আবু কাবশার পরিচয় দুটি। কুরতুবীর আনা নামহীন বর্ণনায় তিনি নবী ﷺ-এর মায়ের দিকের এক পূর্বপুরুষ, বাগাভীর বর্ণনায় খুযাআর এক অভিজাত ব্যক্তি। দুটোই এখানে পাশাপাশি রাখা হলো, কোনোটির পক্ষে রায় দেওয়া হলো না। একটা কথা সোজাসুজি বলা দরকার। আয়াতটি একটি তারার নাম নেয়, আর এমন এক পূজার দিকে ইঙ্গিত করে, যা একসময় ছিল। গোত্রের নাম নেন তাফসীরকারেরা। এর কিছুই খুযাআ, হিময়ার বা আজকের কোনো জীবিত মানুষ, পরিবার বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজ বেঁচে থাকা কারও বিরুদ্ধে কোনো রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Nickname From a Star-Worshipper",
+          "bn": "তারাপূজারির নামে দেওয়া উপনাম"
+        },
+        "p": [
+          {
+            "en": "The name came back in an unexpected place. Al-Baghawi says that when the Messenger of Allah ﷺ came out against the Arabs' religion, they called him Ibn Abi Kabsha, son of Abu Kabsha, for differing from them, as Abu Kabsha had differed from them in worshipping ash-Shi'ra. Al-Qurtubi ties the nickname to the ancestry instead: that is why the idolaters of Quraysh called the Prophet ﷺ Ibn Abi Kabsha when he called to Allah and opposed their religions, and they said, what we have suffered from Ibn Abi Kabsha!",
+            "bn": "নামটা আবার ফিরে এসেছিল এক অপ্রত্যাশিত জায়গায়। বাগাভী বলেন, আল্লাহর রাসূল ﷺ যখন আরবদের ধর্মের বিপরীতে দাঁড়ালেন, তারা তাঁকে ডাকতে লাগল ইবন আবী কাবশা, অর্থাৎ আবু কাবশার ছেলে। কারণ তিনি তাদের থেকে আলাদা পথ ধরেছিলেন, যেমন শি'রার পূজা করে আবু কাবশা তাদের থেকে আলাদা হয়েছিল। কুরতুবী উপনামটাকে জোড়েন বংশের সঙ্গে। তাঁর কথায়, এ কারণেই নবী ﷺ যখন আল্লাহর দিকে ডাকলেন আর তাদের ধর্মগুলোর বিরোধিতা করলেন, কুরাইশের মুশরিকরা তাঁকে ইবন আবী কাবশা বলত। তারা বলত, ইবন আবী কাবশার হাতে আমরা কী দুর্ভোগই না পোহাচ্ছি!"
+          },
+          {
+            "en": "Al-Qurtubi adds that Abu Sufyan, on the day of the conquest, standing in a narrow pass as the armies of the Messenger of Allah ﷺ went by, said: the affair of Ibn Abi Kabsha has become great. The same words also appear in Sahih al-Bukhari 7, in a different setting. There Ibn 'Abbas relays from Abu Sufyan how Heraclius questioned him and had the Prophet's ﷺ letter read; the court grew loud, they were put out, and Abu Sufyan said to his companions: \"The affair of Ibn Abi Kabsha has grown great; the king of Banu al-Asfar fears him.\"",
+            "bn": "কুরতুবী আরও জানান, বিজয়ের দিন আবু সুফিয়ান এক সরু গিরিপথে দাঁড়িয়ে ছিলেন, পাশ দিয়ে আল্লাহর রাসূল ﷺ-এর বাহিনী এগিয়ে যাচ্ছিল। তখন তিনি বললেন, ইবন আবী কাবশার ব্যাপারটা তো বিরাট হয়ে উঠেছে। একই কথা সহীহ বুখারীর ৭ নম্বর হাদীসেও আছে, তবে ভিন্ন প্রেক্ষাপটে। সেখানে ইবন আব্বাস (রাঃ) আবু সুফিয়ানের মুখে শোনা ঘটনা বর্ণনা করেন। হিরাক্লিয়াস তাঁকে প্রশ্ন করলেন, নবী ﷺ-এর চিঠি পড়ানো হলো। দরবারে হইচই শুরু হলো, তাঁদের বের করে দেওয়া হলো। তখন আবু সুফিয়ান সঙ্গীদের বললেন: \"ইবন আবী কাবশার ব্যাপারটা তো বিরাট হয়ে উঠেছে, বনু আসফারের বাদশাহও তাঁকে ভয় পায়।\""
+          },
+          {
+            "en": "That narration is not attached to this verse and does not explain the nickname; it shows only that the name was on Quraysh's lips. No commentary fetched for 53:49 attaches a sound hadith to the verse itself, and none gives an occasion of revelation for it. The man the idolaters named after a star-worshipper was himself calling them away from the star and back to its Lord, which is exactly what these four words do.",
+            "bn": "ওই বর্ণনা এ আয়াতের সঙ্গে যুক্ত নয়, উপনামের কারণও ব্যাখ্যা করে না। এটুকুই দেখায় যে নামটা কুরাইশের মুখে মুখে ছিল। ৫৩:৪৯-এর জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না, কোনো শানে নুযূলও দেয় না। মুশরিকরা যাঁকে এক তারাপূজারির নামে ডাকত, তিনিই তাদের ডেকে ফেরাচ্ছিলেন তারার কাছ থেকে তারার রবের দিকে। এই চারটি শব্দও ঠিক সেই কাজটাই করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reverence That Stops Short",
+          "bn": "পূজা নয়, তবু সমীহ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi widens the verse's reach. Those of the Arabs who did not worship ash-Shi'ra still held it in awe and believed it had an influence on the world. Ma'arif al-Qur'an traces the worship itself to a belief of the same kind, that the star brought good or bad luck. So the verse meets two postures: open worship, and a quieter reverence that never bows but still credits a created thing with steering what happens to people.",
+            "bn": "কুরতুবী আয়াতের নাগাল আরও বড় করে দেন। আরবদের মধ্যে যারা শি'রার পূজা করত না, তারাও একে সমীহ করত। বিশ্বাস করত, জগতের ওপর এর প্রভাব আছে। মাআরিফুল কুরআন পূজার পেছনেও একই ধরনের বিশ্বাস দেখায়: তারাটি সৌভাগ্য বা দুর্ভাগ্য বয়ে আনে। তাহলে আয়াতের সামনে দুই রকম মনোভাব। একটা খোলাখুলি পূজা। অন্যটা নীরব এক সমীহ, যা মাথা নোয়ায় না, অথচ মনে করে সৃষ্ট একটা জিনিস মানুষের ভাগ্যের হাল ধরে আছে।"
+          },
+          {
+            "en": "The verse's answer covers both. If ash-Shi'ra is marbub, as al-Qurtubi puts it, then it is governed, not governing; as-Sa'di's three words, under lordship, managed, created, leave it no share in running the world. This article does not discuss astrology or rule on it; the sources fetched here do not. The verse's own point is enough for reflection: what is ruled cannot be the ruler of my days, however bright it looks.",
+            "bn": "আয়াতের জবাব দুটোকেই ঢেকে দেয়। কুরতুবীর ভাষায় শি'রা যদি মারবূব হয়, তবে সে চালিত, চালক নয়। সা'দীর তিনটি শব্দ, প্রতিপালিত, পরিচালিত, সৃষ্ট, জগৎ চালানোয় তার কোনো ভাগ রাখে না। জ্যোতিষচর্চা নিয়ে এই আলোচনা কিছু বলছে না, এর বিধানও দিচ্ছে না, কারণ এখানে দেখা সূত্রগুলো সে প্রসঙ্গে যায়নি। ভাবনার জন্য আয়াতের নিজের কথাটুকুই যথেষ্ট। যে নিজে শাসিত, সে আমার দিনগুলোর শাসক হতে পারে না, দেখতে যত উজ্জ্বলই হোক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sky That Has a Lord",
+          "bn": "যে আকাশের একজন রব আছেন"
+        },
+        "p": [
+          {
+            "en": "The next verse turns from the star to the ruin of 'Ad. Read where it stands, this line sits between He who enriches and He who destroyed the first 'Ad, and wealth and power are also things people have lifted too high. The star is the plainest case of the three: something visible, beautiful and far beyond reach, and still, in four words, a thing with a Lord.",
+            "bn": "পরের আয়াত তারা থেকে সরে যায় আদ জাতির ধ্বংসের দিকে। আয়াতটি যেখানে বসে আছে, সেখান থেকে পড়লে দেখা যায়, এর একদিকে তিনি, যিনি সম্পদ দেন, অন্যদিকে তিনি, যিনি প্রথম আদকে ধ্বংস করেছেন। সম্পদ আর ক্ষমতাকেও মানুষ বারবার তার প্রাপ্য জায়গার চেয়ে ওপরে তুলেছে। তিনটির মধ্যে তারাটিই সবচেয়ে স্পষ্ট উদাহরণ। চোখে দেখা যায়, সুন্দর, নাগালের বহু বাইরে। তবু চারটি শব্দে সে এমন এক জিনিস, যার একজন রব আছেন।"
+          },
+          {
+            "en": "Few people today bow to a star. The posture al-Qurtubi describes, not worship but a belief that something created steers my fortune, is easier to find: a market, a powerful person's favour, a day or a number thought lucky or unlucky. The verse leaves one question to put to each of them. Does it have a Lord? If it does, hope and fear can go past it, to Him. And a bright star on a clear night becomes what the verse makes it: a reminder of whose it is.",
+            "bn": "আজ খুব কম মানুষই কোনো তারার সামনে মাথা নোয়ায়। কিন্তু কুরতুবী যে মনোভাবের কথা বলেন, পূজা নয়, তবু এই বিশ্বাস যে সৃষ্ট কিছু আমার ভাগ্য চালায়, তা খুঁজে পাওয়া কঠিন নয়। হতে পারে বাজার, কোনো ক্ষমতাবান মানুষের সুনজর, কিংবা এমন কোনো দিন বা সংখ্যা, যাকে শুভ বা অশুভ ভাবা হয়। এদের প্রত্যেককে নিয়ে আয়াত একটাই প্রশ্ন রেখে যায়: এর কি কোনো রব আছেন? যদি থাকেন, তবে আশা আর ভয় এর পাশ কাটিয়ে তাঁর কাছেই যাক। আর পরিষ্কার রাতের উজ্জ্বল তারাটি হয়ে উঠুক আয়াত যা বানিয়েছে তা-ই: সে কার, তার এক স্মরণ।"
+          }
+        ]
+      }
+    ]
+  },
   "53:52": {
     "sections": [
       {
