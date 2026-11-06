@@ -306,5 +306,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "66:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "Named Last, Named by Her Father",
+          "bn": "সবার শেষে, পিতার নামে"
+        },
+        "p": [
+          {
+            "en": "Surat at-Tahrim closes with four women set out as examples. In 66:10 the wife of Nuh and the wife of Lut, married to two righteous servants, are an example for those who disbelieved. In 66:11 the wife of Pharaoh is an example for those who believed. Then comes this verse: wa Maryama-bnata 'Imran, and Maryam, daughter of 'Imran. The first three are each known by a husband. Maryam (AS) is known by no husband at all; the verse names her by her father.",
+            "bn": "সূরা আত-তাহরীম শেষ হয় চারজন নারীর দৃষ্টান্ত দিয়ে। ৬৬:১০ আয়াতে নূহ (আঃ) ও লূত (আঃ)-এর স্ত্রী, যারা দুই নেক বান্দার ঘরে ছিল, তারা কাফিরদের জন্য দৃষ্টান্ত। ৬৬:১১ আয়াতে ফেরাউনের স্ত্রী মুমিনদের জন্য দৃষ্টান্ত। তারপর এই আয়াত: ওয়া মারইয়ামাবনাতা ইমরান, আর ইমরানের কন্যা মারইয়াম। প্রথম তিনজনকে চেনানো হয়েছে স্বামীর পরিচয়ে। মারইয়াম (আঃ)-এর কোনো স্বামীর পরিচয় নেই। আয়াত তাঁকে চেনায় পিতার নামে।"
+          },
+          {
+            "en": "Al-Qurtubi gives two ways to read the opening word. It may mean: and remember Maryam. Or it is joined to the wife of Pharaoh, so that the sense runs: and Allah has set forth an example in Maryam, daughter of 'Imran. On the second reading she is plainly a second example for those who believed, and the pair of believing women answers the pair in 66:10. That verse describes two women as the text describes them; it licenses nothing against any living person or community.",
+            "bn": "শুরুর শব্দটি পড়ার দুটি পথ কুরতুবী দেখান। এর অর্থ হতে পারে: আর মারইয়ামকে স্মরণ করো। অথবা শব্দটি ফেরাউনের স্ত্রীর সঙ্গে যুক্ত, তখন অর্থ দাঁড়ায়: আর আল্লাহ ইমরানের কন্যা মারইয়ামের দৃষ্টান্ত পেশ করেছেন। দ্বিতীয়ভাবে পড়লে তিনি স্পষ্টতই মুমিনদের জন্য দ্বিতীয় দৃষ্টান্ত। তখন মুমিন দুই নারীর জুটি ৬৬:১০ আয়াতের জুটির জবাব হয়ে দাঁড়ায়। ওই আয়াত দুই নারীর কথা ততটুকুই বলে, যতটুকু কুরআন বলেছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি সেখানে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word Farj, Read Two Ways",
+          "bn": "ফারজ শব্দের দুই পাঠ"
+        },
+        "p": [
+          {
+            "en": "Allati ahsanat farjaha: who guarded her chastity. Ibn Kathir glosses the verb as kept it and protected it, and says ihsan means chastity and being free. As-Sa'di says she kept it safe from indecency, because her religion, her chastity and her purity were complete. The Muyassar says she guarded herself and protected herself from zina. On this first and plainest level the commentators agree: the verse praises a woman whose honour no one could touch, and the Qur'an records that praise in her name.",
+            "bn": "আল্লাতী আহসানাত ফারজাহা: যিনি নিজের সতীত্ব রক্ষা করেছিলেন। ইবন কাসীর ক্রিয়াটির ব্যাখ্যা দেন এভাবে: তা হেফাজত করেছেন, নিরাপদ রেখেছেন। তাঁর মতে ইহসান মানে সতীত্ব ও স্বাধীনতা। সা'দী বলেন, দ্বীনদারি, সতীত্ব আর পবিত্রতা পূর্ণ ছিল বলেই তিনি অশ্লীলতা থেকে নিজেকে বাঁচিয়ে রেখেছিলেন। মুয়াসসার বলে, তিনি নিজেকে যিনা থেকে হেফাজত করেছিলেন। এই প্রথম ও সবচেয়ে সরল স্তরে তাফসীরকারেরা একমত। আয়াতটি এমন এক নারীর প্রশংসা করে, যাঁর সম্মানে কেউ হাত দিতে পারেনি। আর কুরআন সেই প্রশংসা তাঁর নাম ধরেই লিখে রেখেছে।"
+          },
+          {
+            "en": "At-Tabari reads the word farj here differently. He explains the clause as: she who kept Jibril (AS) from the opening of her garment, the jayb of her robe. Every split or tear in a garment, he says, is called a farj, and so is every crack in a wall or gap in a roof. Al-Qurtubi reports the commentators as saying that farj here means the jayb, since Jibril breathed into her garment's opening, and he cites 50:6, wa ma laha min furuj, of the sky that has no gaps.",
+            "bn": "তাবারী এখানে ফারজ শব্দটি অন্যভাবে পড়েন। তাঁর ব্যাখ্যায় অংশটির অর্থ: যিনি জিবরীল (আঃ)-কে নিজের জামার গলার ফাঁক থেকে দূরে রেখেছিলেন। আরবিতে একে বলে জাইব। তাবারী বলেন, কাপড়ের যেকোনো চেরা বা ছেঁড়া জায়গাকে ফারজ বলা হয়। দেয়ালের ফাটল কিংবা ছাদের ফাঁককেও বলা হয় ফারজ। কুরতুবী তাফসীরকারদের মত উদ্ধৃত করেন যে এখানে ফারজ মানে জাইব, কারণ জিবরীল ফুঁ দিয়েছিলেন জামার গলার ফাঁকেই। প্রমাণ হিসেবে তিনি আনেন ৫০:৬ আয়াত, ওয়া মা লাহা মিন ফুরূজ, যেখানে আকাশ সম্পর্কে বলা হয়েছে যে তাতে কোনো ফাটল নেই।"
+          },
+          {
+            "en": "Al-Qurtubi adds the reading of Ubayy (RA), fa-nafakhna fi jaybiha min ruhina, and We breathed into her garment's opening of Our spirit, and then a second possibility: that she guarded her chastity in the plain sense, while the spirit was breathed into her garment's opening. So the two senses sit side by side in his text, and neither cancels the other. The commentators speak of these things with restraint, in the language of cloth and covering, and a reader does well to keep the same reserve.",
+            "bn": "কুরতুবী উবাই (রাঃ)-এর পাঠও আনেন: ফানাফাখনা ফী জাইবিহা মিন রূহিনা, আর আমি তার জামার গলার ফাঁকে আমার রূহ থেকে ফুঁকে দিলাম। এরপর তিনি দ্বিতীয় একটি সম্ভাবনার কথা বলেন। হতে পারে তিনি সাধারণ অর্থেই সতীত্ব রক্ষা করেছিলেন, আর রূহ ফুঁকে দেওয়া হয়েছিল জামার গলার ফাঁকে। তাঁর লেখায় তাই দুটি অর্থ পাশাপাশি থাকে, কোনোটি অন্যটিকে বাতিল করে না। তাফসীরকারেরা এসব বিষয়ে কথা বলেন সংযত ভাষায়, কাপড় আর আবরণের ভাষায়। পাঠকেরও উচিত সেই সংযম ধরে রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fihi Here, Fiha in Al-Anbiya",
+          "bn": "এখানে ফীহি, আম্বিয়ায় ফীহা"
+        },
+        "p": [
+          {
+            "en": "Fa-nafakhna fihi min ruhina: so We breathed into it of Our spirit. The same scene appears in 21:91, almost word for word, with one letter different: there it is fa-nafakhna fiha, into her; here it is fihi, into it, a masculine pronoun. Al-Baghawi explains fihi as in the opening of her robe, and says that is why the pronoun is masculine: it points to the garment's opening, not to Maryam (AS) herself. At-Tabari says the same in his own words: into it means into her garment's opening.",
+            "bn": "ফানাফাখনা ফীহি মিন রূহিনা: ফলে আমি তাতে আমার রূহ থেকে ফুঁকে দিলাম। প্রায় একই ভাষায় এ দৃশ্য আছে ২১:৯১ আয়াতে, পার্থক্য কেবল এক হরফে। সেখানে বলা হয়েছে ফীহা, তার মধ্যে। এখানে ফীহি, তাতে, পুংলিঙ্গ সর্বনাম দিয়ে। বাগাভী ব্যাখ্যা করেন, ফীহি মানে তাঁর জামার গলার ফাঁকে। তাঁর মতে এ কারণেই সর্বনামটি পুংলিঙ্গ: এটি মারইয়াম (আঃ)-কে নয়, জামার ফাঁককে বোঝায়। তাবারীও নিজের ভাষায় একই কথা বলেন: তাতে মানে তাঁর জামার গলার ফাঁকে।"
+          },
+          {
+            "en": "At-Tabari supports this with Qatada, who glossed the clause as: so We breathed into her garment's opening of Our spirit. The Muyassar tells it plainly: Allah commanded Jibril (AS) to breathe into the opening of her shirt, the breath reached her womb, and she conceived 'Isa (AS). As-Sa'di says the breath reached Maryam, and from her came 'Isa son of Maryam, the noble messenger and the great master. Read together, the two verses give one event from two sides: where the breath was given, and whom it reached.",
+            "bn": "তাবারী এর সমর্থনে কাতাদার ব্যাখ্যা আনেন: ফলে আমি তার জামার গলার ফাঁকে আমার রূহ থেকে ফুঁকে দিলাম। মুয়াসসার ঘটনাটি সরল ভাষায় বলে। আল্লাহ জিবরীল (আঃ)-কে তাঁর জামার গলার ফাঁকে ফুঁ দিতে আদেশ করলেন। সেই ফুঁ তাঁর গর্ভে পৌঁছল, আর তিনি ঈসা (আঃ)-কে গর্ভে ধারণ করলেন। সা'দী বলেন, ফুঁ পৌঁছেছিল মারইয়ামের কাছে, আর তাঁর থেকে এলেন ঈসা ইবন মারইয়াম, সম্মানিত রাসূল ও মহান নেতা। দুই আয়াত একসঙ্গে পড়লে একই ঘটনা দুই দিক থেকে দেখা যায়: ফুঁ দেওয়া হয়েছিল কোথায়, আর তা পৌঁছেছিল কার কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Spirit Was Meant",
+          "bn": "কোন রূহের কথা"
+        },
+        "p": [
+          {
+            "en": "Min ruhina, of Our spirit. At-Tabari reads it as: from Jibril, and he is the spirit, al-ruh. Ibn Kathir reads it the same way, through the agency of the angel Jibril: Allah sent him to her, he appeared to her in the form of a well-proportioned man, as 19:17 says, and Allah commanded him to breathe with his mouth into the opening of her robe. The breath descended and entered, and from it came the pregnancy with 'Isa (AS). On this reading Our spirit names the messenger who carried out the command.",
+            "bn": "মিন রূহিনা, আমার রূহ থেকে। তাবারীর ব্যাখ্যায় এর অর্থ: জিবরীল থেকে, আর তিনিই রূহ। ইবন কাসীরও একইভাবে পড়েন: ফেরেশতা জিবরীলের মাধ্যমে। আল্লাহ তাঁকে মারইয়ামের কাছে পাঠালেন। তিনি পূর্ণাঙ্গ মানুষের আকৃতিতে তাঁর সামনে এলেন, যেমনটি ১৯:১৭ আয়াতে আছে। আল্লাহ তাঁকে আদেশ করলেন মুখ দিয়ে তাঁর জামার গলার ফাঁকে ফুঁ দিতে। সেই ফুঁ নেমে গিয়ে প্রবেশ করল, আর তা থেকেই হলো ঈসা (আঃ)-এর গর্ভধারণ। এই পাঠে আমার রূহ মানে সেই বার্তাবাহক, যিনি আদেশটি পালন করেছিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi gives a second sense. Fa-nafakhna means We sent Jibril and he breathed into her garment's opening, and min ruhina means a spirit from among Our spirits, which is the spirit of 'Isa (AS); he refers the reader to his full treatment at the end of Surat an-Nisa. So one reading names the bearer and the other names what was borne. Both keep the act with Allah, as the verse does: We breathed. This page reports the two readings and leaves the matter there.",
+            "bn": "কুরতুবী আরেকটি অর্থ দেন। ফানাফাখনা মানে: আমি জিবরীলকে পাঠালাম, আর তিনি তাঁর জামার গলার ফাঁকে ফুঁ দিলেন। আর মিন রূহিনা মানে আমার রূহগুলোর মধ্যে একটি রূহ, আর তা হলো ঈসা (আঃ)-এর রূহ। বিস্তারিত আলোচনার জন্য তিনি পাঠককে সূরা আন-নিসার শেষাংশে ফিরে যেতে বলেন। তাহলে এক পাঠ বাহকের নাম বলে, অন্য পাঠ বলে যা বহন করা হয়েছিল তার কথা। দুটি পাঠই কাজটিকে আল্লাহর বলে রাখে, যেমন আয়াত রেখেছে: আমি ফুঁকে দিলাম। এ লেখা দুটি পাঠই তুলে ধরে, আর এখানেই থামে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Words She Affirmed",
+          "bn": "কোন বাণীকে তিনি সত্য মানলেন"
+        },
+        "p": [
+          {
+            "en": "Wa saddaqat bi-kalimati rabbiha wa kutubih: and she affirmed the words of her Lord and His books. The commentators fill the word kalimat in several ways. In at-Tabari's text it is glossed as: she believed in 'Isa, who is the Word of Allah. Al-Qurtubi takes the words to be what Jibril said to her, I am only the messenger of your Lord, as in 19:19, and reports from Muqatil that the words are 'Isa (AS), and that he is a prophet. Ibn Kathir explains the words and the books as His decree and His law.",
+            "bn": "ওয়া সাদ্দাকাত বিকালিমাতি রাব্বিহা ওয়া কুতুবিহী: আর তিনি তাঁর রবের বাণী ও তাঁর কিতাবসমূহকে সত্য বলে মেনেছিলেন। কালিমাত শব্দটির অর্থ তাফসীরকারেরা নানাভাবে করেছেন। তাবারীর লেখায় এর ব্যাখ্যা: তিনি ঈসার উপর ঈমান এনেছিলেন, যিনি আল্লাহর কালিমা। কুরতুবীর মতে বাণী হলো জিবরীল তাঁকে যা বলেছিলেন: আমি তো কেবল তোমার রবের প্রেরিত দূত, যেমন ১৯:১৯ আয়াতে আছে। মুকাতিল থেকে তিনি বর্ণনা করেন, বাণী মানে ঈসা (আঃ), আর তিনি যে নবী সে কথা। ইবন কাসীর বাণী ও কিতাবের ব্যাখ্যা দেন এভাবে: আল্লাহর তাকদীর ও তাঁর শরীয়ত।"
+          },
+          {
+            "en": "Al-Baghawi takes the words to be the laws Allah laid down for His servants through His revealed words, and the books to be those sent down to Ibrahim, Musa, Dawud and 'Isa (AS). At-Tabari names the Torah and the Injil; Ma'arif al-Qur'an names the Injil, the Zabur and the Torah, and takes the words of her Lord to be the scriptures revealed to the prophets. As-Sa'di reads the whole phrase as praise of her knowledge: affirming Allah's words covers both what He commands in religion and what He decrees in creation.",
+            "bn": "বাগাভীর মতে বাণী মানে সেই বিধান, যা আল্লাহ তাঁর নাযিল করা কালাম দিয়ে বান্দাদের জন্য নির্ধারণ করেছেন। আর কিতাব মানে ইবরাহীম, মূসা, দাউদ ও ঈসা (আঃ)-এর উপর নাযিল হওয়া কিতাবগুলো। তাবারী নাম নেন তাওরাত ও ইঞ্জীলের। মাআরিফুল কুরআন নাম নেয় ইঞ্জীল, যাবূর ও তাওরাতের, আর রবের বাণী বলতে বোঝে নবীদের উপর নাযিল হওয়া সহীফাগুলো। সা'দী পুরো বাক্যটিকে পড়েন তাঁর জ্ঞানের প্রশংসা হিসেবে। তাঁর মতে আল্লাহর বাণীকে সত্য মানা দুটোকেই শামিল করে: দ্বীনের ব্যাপারে তাঁর আদেশ, আর সৃষ্টির ব্যাপারে তাঁর ফয়সালা।"
+          },
+          {
+            "en": "As-Sa'di adds that affirming the books requires knowing what is in them, and that comes only through knowledge and practice. There is also a difference of recitation. Al-Baghawi reports that the people of Basra and Hafs read kutubihi, His books, in the plural, while the others read kitabihi, His book, in the singular, which also means many. Al-Qurtubi likewise says the singular denotes the whole kind, every book Allah sent down. On either recitation, then, her affirmation reaches every book that Allah revealed.",
+            "bn": "সা'দী আরও বলেন, কিতাবকে সত্য মানতে হলে তাতে কী আছে তা জানতে হয়। আর তা আসে কেবল জ্ঞান ও আমলের মধ্য দিয়ে। এখানে কিরাআতেরও একটি পার্থক্য আছে। বাগাভী জানান, বসরার কারীগণ ও হাফস পড়েছেন কুতুবিহী, তাঁর কিতাবসমূহ, বহুবচনে। অন্যরা পড়েছেন কিতাবিহী, তাঁর কিতাব, একবচনে, তবে তাতেও বহু কিতাবই বোঝায়। কুরতুবীও বলেন, একবচন এখানে গোটা শ্রেণিকে বোঝায়, অর্থাৎ আল্লাহর নাযিল করা প্রতিটি কিতাব। তাহলে যেভাবেই পড়া হোক, তাঁর সত্য মানা আল্লাহর নাযিল করা প্রতিটি কিতাব পর্যন্ত পৌঁছে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counted Among the Qanitin",
+          "bn": "কানিতীনদের কাতারে"
+        },
+        "p": [
+          {
+            "en": "Wa kanat mina-l-qanitin: and she was of the devout. Qatada, in at-Tabari, and al-Qurtubi both gloss qanitin as the obedient. As-Sa'di fills it out: those who obey Allah and keep to His obedience with awe and humility. The word is a masculine plural, though she is a woman. Al-Baghawi explains that the sense is of the people who were qanitin, obedient to their Lord, and that is why the verse does not say qanitat. Al-Qurtubi gives the same reason: she was of the qanitin as a people.",
+            "bn": "ওয়া কানাত মিনাল কানিতীন: আর তিনি ছিলেন অনুগতদের একজন। তাবারীর বর্ণনায় কাতাদা এবং কুরতুবী দুজনেই কানিতীন মানে করেন আনুগত্যশীল। সা'দী অর্থটা আরও খুলে বলেন: যারা আল্লাহর আনুগত্য করে, আর ভয় ও বিনয়ের সঙ্গে সেই আনুগত্যে লেগে থাকে। মারইয়াম (আঃ) নারী, অথচ শব্দটি পুংলিঙ্গ বহুবচন। বাগাভী ব্যাখ্যা দেন, অর্থ হলো তিনি সেই সম্প্রদায়ের অন্তর্ভুক্ত ছিলেন, যারা রবের অনুগত। এ কারণেই আয়াতে কানিতাত বলা হয়নি। কুরতুবীও একই কারণ দেখান: তিনি ছিলেন অনুগত লোকদের দলভুক্ত।"
+          },
+          {
+            "en": "Both add further readings. Al-Baghawi reports from 'Ata' that the qanitin are those who pray, and allows that the word may mean her own kin and clan, who were people of righteousness obedient to Allah; al-Qurtubi has the same possibility about her household, and a view that it means those who pray between Maghrib and 'Isha'. The surah itself uses the feminine form in 66:5, qanitat, among the qualities of believing wives, and in 3:43 the angels tell Maryam directly: uqnuti li-rabbiki, be devoutly obedient to your Lord.",
+            "bn": "দুজনেই আরও কিছু ব্যাখ্যা যোগ করেন। বাগাভী আতা থেকে বর্ণনা করেন, কানিতীন মানে যারা নামায পড়ে। তিনি এ সম্ভাবনাও রাখেন যে শব্দটি দিয়ে তাঁর আত্মীয়-স্বজন ও গোত্রকে বোঝানো হয়েছে, যারা ছিল নেককার ও আল্লাহর অনুগত। কুরতুবীও তাঁর পরিবার সম্পর্কে একই সম্ভাবনার কথা বলেন। তিনি আরেকটি মতও আনেন: মাগরিব ও ইশার মাঝে যারা নামায পড়ে। এই সূরাতেই ৬৬:৫ আয়াতে স্ত্রীলিঙ্গ রূপ কানিতাত এসেছে মুমিন স্ত্রীদের গুণের তালিকায়। আর ৩:৪৩ আয়াতে ফেরেশতারা মারইয়ামকে সরাসরি বলেন: উকনুতী লিরাব্বিকি, তোমার রবের একনিষ্ঠ আনুগত্য করো।"
+          },
+          {
+            "en": "As-Sa'di draws the two halves of the verse together. Affirming the words and the books, he says, describes her perfection in knowledge; being among the qanitin describes her perfection in action. And so, he concludes, she was a siddiqah, for siddiqiyyah is the perfection of knowledge and action together. On this reading the verse ends with a portrait in two strokes: what she knew and accepted, and what she kept on doing. Neither half is presented as enough without the other.",
+            "bn": "সা'দী আয়াতের দুই অংশকে এক সূত্রে বাঁধেন। তাঁর মতে বাণী ও কিতাবকে সত্য মানা তাঁর জ্ঞানের পূর্ণতার বর্ণনা। আর কানিতীনদের একজন হওয়া তাঁর আমলের পূর্ণতার বর্ণনা। তাই তাঁর সিদ্ধান্ত, তিনি ছিলেন সিদ্দীকা। কারণ সিদ্দীকিয়্যাত মানে জ্ঞান ও আমল দুটোরই পূর্ণতা। এভাবে পড়লে আয়াত শেষ হয় দুই রেখায় আঁকা একটি ছবিতে: তিনি কী জেনেছিলেন ও মেনেছিলেন, আর কী নিয়মিত করে যেতেন। কোনো অংশকেই অন্যটি ছাড়া যথেষ্ট বলে দেখানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Few Women Reached Perfection",
+          "bn": "পূর্ণতায় পৌঁছানো অল্প কজন নারী"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his commentary on the surah with a hadith he cites from both Sahihs. Sahih al-Bukhari (3411) records from Abu Musa (RA) that the Messenger of Allah ﷺ said: \"Many among men reached perfection, but none among women reached it except Asiyah, the wife of Pharaoh, and Maryam, daughter of 'Imran. And the excellence of 'A'ishah over other women is like the excellence of tharid over all other food.\" The two women whom 66:11 and 66:12 set forth as examples are the two named here.",
+            "bn": "ইবন কাসীর সূরার তাফসীর শেষ করেন একটি হাদীস দিয়ে, যা তিনি দুই সহীহ গ্রন্থ থেকে উদ্ধৃত করেন। সহীহ বুখারী (৩৪১১)-তে আবূ মূসা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: \"পুরুষদের মধ্যে অনেকেই পূর্ণতায় পৌঁছেছে। কিন্তু নারীদের মধ্যে ফেরাউনের স্ত্রী আসিয়া আর ইমরানের কন্যা মারইয়াম ছাড়া কেউ পূর্ণতায় পৌঁছায়নি। আর অন্য নারীদের উপর আয়েশার মর্যাদা তেমন, যেমন অন্য সব খাবারের উপর সারীদের মর্যাদা।\" ৬৬:১১ ও ৬৬:১২ আয়াত যে দুই নারীকে দৃষ্টান্ত হিসেবে পেশ করেছে, হাদীসে নাম এসেছে ঠিক তাঁদের দুজনেরই।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both relay a second narration, which at-Tirmidhi records (3878) from Anas (RA): the Prophet ﷺ said, \"Sufficient for you among the women of the worlds are Maryam daughter of 'Imran, Khadijah daughter of Khuwaylid, Fatimah daughter of Muhammad, and Asiyah the wife of Pharaoh.\" At-Tirmidhi grades it sahih. Neither hadith is reported as the occasion of this verse; they are general narrations about Maryam (AS), which the commentators place here because the verse names her. The tafsirs read here cite no cause of revelation for it.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই আরেকটি বর্ণনা আনেন, যা তিরমিযী (৩৮৭৮) আনাস (রাঃ) থেকে লিপিবদ্ধ করেছেন। নবী ﷺ বলেছেন: \"বিশ্বের নারীদের মধ্যে তোমার জন্য যথেষ্ট ইমরানের কন্যা মারইয়াম, খুওয়াইলিদের কন্যা খাদীজা, মুহাম্মাদের কন্যা ফাতিমা আর ফেরাউনের স্ত্রী আসিয়া।\" তিরমিযী একে সহীহ বলেছেন। কোনো হাদীসকেই এ আয়াত নাযিলের প্রেক্ষাপট হিসেবে বর্ণনা করা হয়নি। এগুলো মারইয়াম (আঃ) সম্পর্কে সাধারণ বর্ণনা। আয়াতে তাঁর নাম আছে বলে তাফসীরকারেরা এখানে সেগুলো এনেছেন। এখানে পড়া তাফসীরগুলোতে আয়াতটির কোনো শানে নুযূলের উল্লেখ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Honour Held in Common",
+          "bn": "যে সম্মান অনেকের হৃদয়ে"
+        },
+        "p": [
+          {
+            "en": "Maryam (AS) is honoured by Christians too, who know her as Mary, the mother of Jesus, and read her story through their own scripture and creeds. That shared honour is a meeting point, not a battlefield. This verse argues with no one: it praises a woman for her chastity, her belief and her obedience. A Muslim who reads it has no reason to belittle anyone else's love for her, and the verse licenses no contempt, mockery or harm toward any community. Where the two traditions differ, the difference can be stated calmly.",
+            "bn": "মারইয়াম (আঃ)-কে খ্রিস্টানরাও সম্মান করেন। তাঁদের কাছে তিনি মেরি, যিশুর মা, আর তাঁর কাহিনি তাঁরা পড়েন নিজেদের ধর্মগ্রন্থ ও বিশ্বাসের আলোকে। এই অভিন্ন সম্মান বিবাদের জায়গা নয়, মিলনের জায়গা। এ আয়াত কারও সঙ্গে তর্ক করে না। এটি এক নারীর প্রশংসা করে তাঁর সতীত্ব, ঈমান ও আনুগত্যের জন্য। একজন মুসলিম এটি পড়ে অন্য কারও ভালোবাসাকে ছোট করার কোনো কারণ পান না। কোনো সম্প্রদায়কে অবজ্ঞা, উপহাস বা ক্ষতি করার অনুমতিও এ আয়াত দেয় না। যেখানে দুই ঐতিহ্যের পার্থক্য আছে, সেখানে শান্তভাবে তা বলা যায়।"
+          },
+          {
+            "en": "Notice, finally, whom the example is for. The verse before names Pharaoh's wife as an example lil-ladhina amanu, for those who believed, and this verse continues that sentence. The believers addressed are men and women alike. A surah that began in the Prophet's ﷺ own household ends by holding up two women as the model for the whole community. Neither is praised for a husband's rank or a family's name; each is praised for what she did herself, which is the point 66:10 makes from the other side.",
+            "bn": "শেষে খেয়াল করুন, দৃষ্টান্তটি কাদের জন্য। আগের আয়াত ফেরাউনের স্ত্রীকে দৃষ্টান্ত বানিয়েছে লিল্লাযীনা আমানূ, মুমিনদের জন্য। এ আয়াত সেই বাক্যেরই ধারাবাহিকতা। আর মুমিন বলতে এখানে নারী-পুরুষ সবাই। যে সূরার শুরু নবী ﷺ-এর নিজের ঘরের ঘটনা দিয়ে, তার শেষে গোটা উম্মাহর সামনে আদর্শ হিসেবে দাঁড় করানো হয়েছে দুজন নারীকে। তাঁদের কারও প্রশংসা স্বামীর পদমর্যাদা বা বংশের নামের জন্য নয়। প্রত্যেকের প্রশংসা হয়েছে নিজের আমলের জন্য। ৬৬:১০ আয়াত উল্টো দিক থেকে ঠিক এই কথাটাই বলে।"
+          },
+          {
+            "en": "So the verse leaves three things for any reader to carry. Guard what is yours to guard, whether anyone is watching or not. Accept what your Lord has said, and learn enough of it to know what you are accepting, since as-Sa'di ties affirmation to knowledge. And keep obeying, not in a burst but as a settled habit, the way the qanitin do. Maryam (AS) is named in the Qur'an for exactly these, and every one of them is within reach of an ordinary believer.",
+            "bn": "তাহলে আয়াতটি যেকোনো পাঠকের হাতে তিনটি জিনিস তুলে দেয়। আপনার যা রক্ষা করার, তা রক্ষা করুন, কেউ দেখুক বা না দেখুক। রব যা বলেছেন তা মেনে নিন, আর এতটুকু শিখুন যাতে বোঝেন কী মেনে নিচ্ছেন। কারণ সা'দী সত্য মানাকে জ্ঞানের সঙ্গে জুড়েছেন। আর আনুগত্য চালিয়ে যান, হঠাৎ উচ্ছ্বাসে নয়, স্থির অভ্যাসে, যেমন করে কানিতীনরা করে। কুরআনে মারইয়াম (আঃ)-এর নাম এসেছে ঠিক এই গুণগুলোর জন্যই। আর এর প্রতিটিই একজন সাধারণ মুমিনের নাগালের মধ্যে।"
+          }
+        ]
+      }
+    ]
   }
 });

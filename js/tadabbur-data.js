@@ -28409,6 +28409,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not take being spared for being safe; heed the warning now, while knowing it can still help you.",
     "lessonBn": "রেহাই পাওয়াকে নিরাপদ থাকা ভেবে বসবেন না; সতর্কবাণী এখনই মেনে নিন, যখন তা জানা এখনো আপনার কাজে আসতে পারে।"
+  },
+  "66:12": {
+    "reflectionEn": "The surah closes with four women. Two lived beside prophets and are named as a warning; one lived beside Pharaoh and is named as a model. The last is named by no husband at all, only by her father: Maryam, daughter of 'Imran. Three things are said of her. She guarded her chastity. She affirmed the words of her Lord and His books. And she was among the devout, those who keep on obeying. None depends on who stood beside her; each is her own doing, kept up. The verse holds her up as an example for all who believe, men as much as women. What is mine to guard, what has my Lord said that I still have to take in, and do I keep at it?",
+    "reflectionBn": "সূরাটি শেষ হয় চারজন নারীর কথায়। দুজন ছিলেন নবীদের ঘরে, তবু তাঁদের নাম এসেছে সতর্কবাণী হয়ে। একজন ছিলেন ফেরাউনের ঘরে, অথচ তাঁর নাম এসেছে আদর্শ হয়ে। শেষজনকে কোনো স্বামীর নামে চেনানো হয়নি, চেনানো হয়েছে পিতার নামে: ইমরানের কন্যা মারইয়াম। তাঁর সম্পর্কে তিনটি কথা বলা হয়েছে। তিনি নিজের সতীত্ব রক্ষা করেছেন। তিনি রবের বাণী ও তাঁর কিতাবসমূহকে সত্য বলে মেনেছেন। আর তিনি ছিলেন অনুগতদের একজন, যারা আনুগত্যে লেগে থাকে। এর কোনোটিই পাশে কে ছিল তার উপর নির্ভর করেনি। প্রতিটি তাঁর নিজের আমল, যা তিনি ধরে রেখেছিলেন। আয়াতটি তাঁকে সব মুমিনের জন্য দৃষ্টান্ত বানিয়েছে, নারী-পুরুষ সবার জন্য। আমার কী রক্ষা করার দায়িত্ব? রব যা বলেছেন, তার কতটুকু এখনো আমার ভেতরে ঢোকেনি? আর আমি কি লেগে আছি?",
+    "pointsEn": [
+      "What has Allah placed in my keeping, and do I guard it as a trust or only when someone is watching?",
+      "When I say I believe Allah's words, how much of them have I actually read and understood?",
+      "Is my obedience a season that comes and goes, or a habit I keep up through ordinary, unremarkable days?",
+      "Do I lean on the faith of the people around me, a parent, a spouse or a community, as if it could stand in for my own?",
+      "When I picture a model believer, do the women the Qur'an holds up come to mind as readily as the men?"
+    ],
+    "pointsBn": [
+      "আল্লাহ আমার কাছে কী আমানত রেখেছেন? আমি কি তা আমানত হিসেবেই রক্ষা করি, নাকি কেবল কেউ দেখছে বলে?",
+      "আল্লাহর বাণীতে বিশ্বাস করি বলে দাবি করি। তার কতটুকু আমি সত্যিই পড়েছি আর বুঝেছি?",
+      "আমার আনুগত্য কি মৌসুমের মতো আসে আর যায়, নাকি সাদামাটা দিনগুলোতেও তা অভ্যাস হয়ে টিকে থাকে?",
+      "মা-বাবা, স্বামী-স্ত্রী বা চারপাশের মানুষের ঈমানের উপর কি আমি এমনভাবে ভর দিই, যেন তা আমার নিজের ঈমানের জায়গা নিতে পারে?",
+      "আদর্শ মুমিনের কথা ভাবলে কুরআন যে নারীদের সামনে তুলে ধরেছে, তাঁদের কথা কি পুরুষদের মতোই সহজে মনে আসে?"
+    ],
+    "lessonEn": "Guard what Allah has entrusted to you, believe His words with understanding, and keep obeying steadily; your own faith, not anyone's beside you, is what makes you an example.",
+    "lessonBn": "আল্লাহ যা আমানত দিয়েছেন তা রক্ষা করুন, বুঝে-শুনে তাঁর বাণীতে বিশ্বাস রাখুন, আর অবিচল থেকে আনুগত্য করে যান। পাশের মানুষের নয়, আপনার নিজের ঈমানই আপনাকে দৃষ্টান্ত বানায়।"
   }
 };
 
