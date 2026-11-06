@@ -29247,6 +29247,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Right after the warning, Allah holds out a shelter: shades and springs for those who guard against denial. Let fear turn into hope, and hope into keeping His commands.",
     "lessonBn": "সতর্কবাণীর ঠিক পরেই আল্লাহ এক আশ্রয়ের কথা শোনান: যারা অস্বীকার থেকে বেঁচে থাকে, তাদের জন্য ছায়া আর ঝর্ণা। ভয়কে আশায় বদলে নিন, আর আশাকে বদলে নিন তাঁর হুকুম মেনে চলায়।"
+  },
+  "77:48": {
+    "reflectionEn": "Just before, the deniers are told to eat and enjoy themselves a little. Then comes a plain charge: when they are told to bow, they do not bow. Nothing in the verse says they could not. The command is one word, and the refusal is hardly longer. Bowing is the moment the back bends and the head comes down. It costs no money and only a few seconds. What it costs is pride. So the verse asks less about what I know and more about my back. When the call comes, to the prayer or to a truth I would rather not admit, do I bend? Or do I stay upright and unmoved, with good reasons for remaining exactly as I am?",
+    "reflectionBn": "এর ঠিক আগে অস্বীকারকারীদের বলা হয়েছে, কিছুদিন খেয়ে নাও, ভোগ করে নাও। তারপর আসে সোজা একটা অভিযোগ: তাদের যখন বলা হয় রুকু করো, তারা রুকু করে না। আয়াত কোথাও বলে না যে তারা পারত না। আদেশটা এক শব্দের, আর অস্বীকারটাও প্রায় ততটুকুই। রুকু মানে পিঠ বাঁকানো, মাথা নামিয়ে আনা। এতে টাকা লাগে না, সময় লাগে কয়েক মুহূর্ত। দাম যা দিতে হয়, তা হলো অহংকার। তাই আয়াতের প্রশ্ন আমার জ্ঞান নিয়ে যতটা, তার চেয়ে বেশি আমার পিঠ নিয়ে। ডাক যখন আসে, নামাজের দিকে হোক বা এমন কোনো সত্যের দিকে যা মানতে মন চায় না, আমি কি নত হই? নাকি সোজা হয়ে দাঁড়িয়েই থাকি, যেমন আছি তেমন থাকার পক্ষে হাজারটা যুক্তি নিয়ে?",
+    "pointsEn": [
+      "When I hear the call to prayer, what is the first thing I actually do, and what does that tell me about whom I am listening to?",
+      "Is there a truth I have been told plainly that I still have not bowed to, because bending to it would cost me face?",
+      "In my own prayer, do I give the bowing its full time, or hurry through it to reach the end?",
+      "Would I accept a correction from someone younger or less learned than me, or would I first look for a way to prove them wrong?",
+      "If one day my back will show what I did with it, what is it learning from me now?"
+    ],
+    "pointsBn": [
+      "আজান শুনলে আমি আসলে প্রথমে কী করি? আর তা থেকে বোঝা যায় আমি কার কথা শুনছি?",
+      "এমন কোনো সত্য কি আছে যা আমাকে পরিষ্কার করে বলা হয়েছে, অথচ মান-সম্মানের ভয়ে আমি এখনো তার সামনে মাথা নোয়াইনি?",
+      "নিজের নামাজে আমি কি রুকুকে তার পূর্ণ সময় দিই, নাকি শেষে পৌঁছানোর তাড়ায় দ্রুত পার করে দিই?",
+      "আমার চেয়ে বয়সে ছোট বা কম জানা কেউ ভুল ধরিয়ে দিলে আমি কি তা মেনে নিই, নাকি আগে তাকে ভুল প্রমাণের রাস্তা খুঁজি?",
+      "একদিন যদি আমার পিঠই বলে দেয় আমি তাকে দিয়ে কী করেছি, তবে আজ সে আমার কাছ থেকে কী শিখছে?"
+    ],
+    "lessonEn": "When the call to bow comes, in prayer or before a plain truth, bend to it readily; refusing it is a matter of pride, not of being unable.",
+    "lessonBn": "রুকুর ডাক যখন আসে, নামাজে হোক বা স্পষ্ট কোনো সত্যের সামনে, দেরি না করে নত হোন। না মানাটা অক্ষমতা নয়, অহংকার।"
   }
 };
 

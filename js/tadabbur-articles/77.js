@@ -1770,5 +1770,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "77:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "Told to Bow, Still Standing",
+          "bn": "রুকুর ডাক, তবু দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "Wa-idha qila lahumu irka'u la yarka'un: and when it is said to them, bow, they do not bow. The verse is six Arabic words, and its last two are one verb set against itself, the command irka'u and its refusal la yarka'un. It follows straight on from 77:46, where the deniers are told to eat and enjoy themselves a little because they are criminals, and from the refrain of 77:47. Then the address changes. A moment ago they were spoken to directly; here they are spoken about.",
+            "bn": "ওয়া ইযা কীলা লাহুমুরকাঊ লা ইয়ারকাঊন: আর যখন তাদের বলা হয়, রুকু করো, তারা রুকু করে না। আয়াতটি আরবিতে ছয়টি শব্দের। শেষের দুটি আসলে একই ক্রিয়া, একবার আদেশ হয়ে, একবার অস্বীকার হয়ে: ইরকাঊ, আর লা ইয়ারকাঊন। ঠিক আগে ৭৭:৪৬ আয়াতে অস্বীকারকারীদের বলা হয়েছে, অল্প কিছুদিন খেয়ে নাও, ভোগ করে নাও, তোমরা তো অপরাধী। তারপর ৭৭:৪৭-এর ধুয়া। এরপরেই সম্বোধনের ধরন বদলে যায়। একটু আগেও কথা বলা হচ্ছিল সরাসরি তাদের সঙ্গে, এখন বলা হচ্ছে তাদের সম্পর্কে।"
+          },
+          {
+            "en": "Two details in the wording are worth noticing before the commentators speak. Qila is passive, it is said, and the verse does not name who says it. And the refusal is in the present tense, la yarka'un, they do not bow, which reads as what they do whenever the call comes rather than a single lapse. At-Tabari keeps the verse tied to its neighbours. When it is said to these criminals, he paraphrases, the ones who deny Allah's threat, bow, they do not bow. The readings begin with the word for bowing itself.",
+            "bn": "তাফসীরকারদের কথায় যাওয়ার আগে শব্দচয়নের দুটি দিক খেয়াল করার মতো। কীলা কর্মবাচ্য, অর্থাৎ বলা হয়। কে বলে, আয়াত তা জানায় না। আর অস্বীকারটা বর্তমান কালে: লা ইয়ারকাঊন, তারা রুকু করে না। পড়লে মনে হয়, এটা একবারের ভুল নয়, ডাক এলেই তারা এমন করে। তাবারী আয়াতটিকে আশপাশের আয়াতের সঙ্গে বেঁধে রাখেন। তাঁর ব্যাখ্যায়: আল্লাহর সতর্কবাণী অস্বীকারকারী এই অপরাধীদের যখন বলা হয় রুকু করো, তারা রুকু করে না। ব্যাখ্যার মতভেদ শুরু হয় রুকু শব্দটি থেকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prayer, or Bending to Truth",
+          "bn": "নামাজ, নাকি সত্যের সামনে নত হওয়া"
+        },
+        "p": [
+          {
+            "en": "Most of the commentaries fetched for this verse read irka'u as pray. At-Tabari reports it from Mujahid in a single word: salli, pray. Al-Baghawi glosses the pair the same way, pray, and they do not pray, and al-Qurtubi gives that reading first, naming Mujahid. The Muyassar widens it a little: pray to Allah and humble yourselves before Him, and they neither humble themselves nor pray, but persist in their arrogance. Ibn Kathir names the setting: when these ignorant disbelievers are told to be among those who pray with the congregation, they refuse and hold themselves above it.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার বেশিরভাগ ইরকাঊ-র অর্থ করে: নামাজ পড়ো। তাবারী মুজাহিদ থেকে এক শব্দে এ অর্থ আনেন: সাল্লূ, নামাজ পড়ো। বাগাভীও শব্দজোড়ার ব্যাখ্যা একইভাবে দেন: নামাজ পড়ো, আর তারা নামাজ পড়ে না। কুরতুবীও মুজাহিদের নাম নিয়ে এ ব্যাখ্যাই সবার আগে আনেন। মুয়াসসার অর্থটা একটু ছড়িয়ে দেয়: আল্লাহর জন্য নামাজ পড়ো, তাঁর সামনে বিনীত হও। তারা বিনীতও হয় না, নামাজও পড়ে না, বরং অহংকারে অটল থাকে। ইবন কাসীর প্রেক্ষাপটটা বলে দেন: এই অজ্ঞ কাফিরদের যখন জামাআতের সঙ্গে নামাজিদের দলে শামিল হতে বলা হয়, তারা সরে থাকে, নিজেদের তার ঊর্ধ্বে মনে করে।"
+          },
+          {
+            "en": "As-Sa'di counts the refusal among their crimes. They were commanded to pray, which he calls the noblest of acts of worship, and told to bow, and they refused. Then he asks two questions and leaves them hanging: what crime is above this, and what denial exceeds it? On this reading one part of the prayer stands for the whole of it. Ma'arif al-Qur'an says so in as many words: ruku' is a part of the prayer, but here it refers to the whole prayer.",
+            "bn": "সা'দী এই অস্বীকারকে তাদের অপরাধের তালিকায় রাখেন। তাদের নামাজের আদেশ দেওয়া হয়েছিল, যাকে তিনি সব ইবাদতের মধ্যে শ্রেষ্ঠ বলেন। বলা হয়েছিল, রুকু করো, আর তারা মানেনি। এরপর তিনি দুটি প্রশ্ন রেখে দেন, জবাব দেন না: এর চেয়ে বড় অপরাধ আর কী? এর চেয়ে বেশি অস্বীকার আর কোনটা? এই ব্যাখ্যায় নামাজের একটি অংশ গোটা নামাজের হয়ে দাঁড়িয়েছে। মাআরিফুল কুরআন কথাটা খোলাখুলিই বলে: রুকু নামাজের একটি অংশ, কিন্তু এখানে তা দিয়ে পুরো নামাজ বোঝানো হয়েছে।"
+          },
+          {
+            "en": "Ma'arif, citing Ruh al-Ma'ani, gives the other reading and calls it the view of most commentators: ruku' in its first sense, to bow down and submit, so that they refused to submit to the divine commands. The Arabic commentaries fetched here put the prayer first. Al-Qurtubi records the wider reading under an unnamed it was said: when told to humble themselves to the truth, they do not. The verse then covers prayer and more, and prayer is named because it is the root of the laws after tawhid. A last it was said makes it the command to believe, since prayer is not valid without faith.",
+            "bn": "মাআরিফুল কুরআন রূহুল মাআনীর বরাতে অন্য ব্যাখ্যাটিও আনে, আর বলে এটাই অধিকাংশ তাফসীরকারের মত: রুকু শব্দের মূল অর্থে, অর্থাৎ ঝুঁকে পড়া ও আত্মসমর্পণ করা। মানে, আল্লাহর আদেশের সামনে নত হতে তারা অস্বীকার করেছিল। তবে এখানে দেখা আরবি তাফসীরগুলো নামাজের অর্থটাই আগে আনে। কুরতুবী বিস্তৃত অর্থটি আনেন কারও নাম না নিয়ে, 'বলা হয়েছে' দিয়ে: তাদের যখন বলা হয় সত্যের সামনে বিনীত হও, তারা বিনীত হয় না। তখন আয়াতটি নামাজের সঙ্গে আরও অনেক কিছু জুড়ে নেয়। আর নামাজের নাম আলাদা করে আসার কারণ, তাওহীদের পর শরীআতের বিধানগুলোর মূল নামাজ। শেষ আরেকটি মতে আদেশটা ঈমান আনার, কারণ ঈমান ছাড়া নামাজ শুদ্ধ হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This World or That Day",
+          "bn": "দুনিয়ায়, নাকি কিয়ামতে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records a real disagreement about when the words are said. Some said it will be in the Hereafter, when they are called to prostrate and cannot. He gives this from Ibn Abbas: they will be called on the Day of Resurrection to prostrate and will be unable to, because they did not prostrate to Allah in the world. Al-Baghawi and al-Qurtubi also relay this reading from Ibn Abbas, that the words are said to them in the Hereafter, when they are called to prostration and cannot.",
+            "bn": "কথাটা কখন বলা হয়, এ নিয়ে তাবারী একটি সত্যিকারের মতভেদ লিপিবদ্ধ করেন। কারও মতে, এ কথা বলা হবে আখিরাতে, যখন তাদের সিজদার দিকে ডাকা হবে আর তারা পারবে না। তাবারী মতটি আনেন ইবন আব্বাস (রাঃ) থেকে: কিয়ামতের দিন তাদের সিজদার দিকে ডাকা হবে, কিন্তু তারা সিজদা করতে পারবে না, কারণ দুনিয়ায় তারা আল্লাহকে সিজদা করত না। বাগাভী আর কুরতুবীও ইবন আব্বাস (রাঃ) থেকে এই ব্যাখ্যা আনেন: আখিরাতে যখন তাদের সিজদার দিকে ডাকা হবে, তখনই এ কথা বলা হবে, আর তারা পারবে না।"
+          },
+          {
+            "en": "Others said it was said to them in this world, and at-Tabari gives that view from Qatada. Al-Qurtubi sets the two side by side in their shortest form: Ibn Abbas, this is said to them in the Hereafter; Qatada, this is in the world. At-Tabari also lists, as a saying of its own, that bowing in this place means the prayer, and he gives it from Mujahid. On every one of these views the command is real: it reaches the deniers, and they turn it down.",
+            "bn": "অন্যদের মতে কথাটা তাদের বলা হয়েছিল দুনিয়াতেই। তাবারী এ মত আনেন কাতাদা থেকে। কুরতুবী দুটি মত পাশাপাশি রাখেন একেবারে সংক্ষেপে। ইবন আব্বাস (রাঃ) বলেন, এ কথা তাদের বলা হবে আখিরাতে। কাতাদা বলেন, এটা দুনিয়ার ব্যাপার। তাবারী আলাদা একটি মত হিসেবে এটাও রাখেন যে এখানে রুকু মানে নামাজ, আর তা আনেন মুজাহিদ থেকে। যে মতই ধরা হোক, আদেশটা সত্যিকারের। তা অস্বীকারকারীদের কাছে পৌঁছায়, আর তারা তা ফিরিয়ে দেয়।"
+          },
+          {
+            "en": "Then at-Tabari gives his own preference, and it does not pick one of the two times. The most fitting thing to say, he writes, is that this is news from Allah about these criminal people: they opposed Him in His command and His prohibition, not doing what He commanded and not refraining from what He forbade. For him, then, the refused bow sums up a whole life of refusal. The verse names one posture, and at-Tabari reads in it every command they would not carry out.",
+            "bn": "এরপর তাবারী নিজের পছন্দের মত জানান, আর তাতে তিনি দুই সময়ের কোনোটিকেই বেছে নেন না। তিনি লেখেন, সবচেয়ে সংগত কথা হলো: এটা এই অপরাধী লোকদের সম্পর্কে আল্লাহর দেওয়া খবর। তারা আল্লাহর আদেশ-নিষেধে তাঁর বিরোধিতা করত। তাঁর আদেশ মানত না, তাঁর নিষেধ থেকেও বিরত থাকত না। তাই তাবারীর কাছে রুকু না করাটা গোটা জীবনের নাফরমানির সারকথা। আয়াত একটিমাত্র ভঙ্গির নাম নেয়, আর তাবারী তাতে পড়েন সেই সব আদেশ, যা তারা পালন করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Can a Command Reach There?",
+          "bn": "সেখানে কি আদেশ চলে?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then brings in Ibn al-Arabi, who first takes the verse as proof that bowing is obligatory and a pillar of the prayer, on which, he says, there is consensus. He then answers those who placed the verse on the Day of Resurrection. That Day, he argues, is not an abode of obligation, where a command could be given whose refusal brings woe and punishment. They are called to prostrate there, he says, as a disclosure of how people stood in the world.",
+            "bn": "এরপর কুরতুবী ইবনুল আরাবীর কথা আনেন। তিনি প্রথমে আয়াতটিকে দলিল হিসেবে নেন যে রুকু ফরজ, নামাজের রুকন। তাঁর ভাষায়, এ বিষয়ে ইজমা হয়ে গেছে। তারপর তিনি তাদের জবাব দেন, যারা আয়াতটিকে কিয়ামতের দিনের সঙ্গে জুড়েছেন। তাঁর যুক্তি, সেদিন তো দায়িত্ব পালনের জগৎ নয়, যেখানে এমন আদেশ দেওয়া যায় যা না মানলে দুর্ভোগ আর শাস্তি আসে। সেখানে সিজদার দিকে ডাকা হবে মানুষের দুনিয়ার অবস্থা খুলে দেখানোর জন্য।"
+          },
+          {
+            "en": "He continues: whoever used to prostrate for Allah is enabled to prostrate, and whoever prostrated for show, for others, finds his back become a single plate. The scene he describes is that of 68:42 and 68:43: a Day when they are called to prostration and cannot, their eyes downcast and humiliation covering them, though they used to be called to prostrate while they were sound. Ibn Abbas's report in at-Tabari had already joined the two times: they cannot prostrate then because they did not prostrate to Allah in the world.",
+            "bn": "তিনি আরও বলেন: যে আল্লাহর জন্য সিজদা করত, তাকে সিজদা করার সামর্থ্য দেওয়া হবে। আর যে অন্যকে দেখানোর জন্য সিজদা করত, তার পিঠ জোড়াহীন পাতের মতো শক্ত হয়ে যাবে। তিনি যে দৃশ্যের কথা বলছেন, তা ৬৮:৪২ ও ৬৮:৪৩ আয়াতের দৃশ্য। সেদিন তাদের সিজদার দিকে ডাকা হবে, তারা পারবে না। তাদের চোখ থাকবে নত, লাঞ্ছনা তাদের ঢেকে ফেলবে। অথচ সুস্থ থাকার সময়ও তাদের সিজদার দিকে ডাকা হতো। তাবারীতে ইবন আব্বাস (রাঃ)-এর বর্ণনা আগেই দুই সময়কে জুড়ে দিয়েছে: সেদিন তারা সিজদা করতে পারবে না, কারণ দুনিয়ায় তারা আল্লাহকে সিজদা করত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Muqatil Said of Thaqif",
+          "bn": "সাকীফ নিয়ে মুকাতিলের বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays from Muqatil that the verse came down about Thaqif, who refused the prayer, and that in Muqatil's account they objected to bending as a disgrace for them. Al-Qurtubi gives it without a chain. Muqatil's account then carries words of the Prophet ﷺ about bowing and prostration. They are not confirmed on any collection page fetched for this article and carry no grading here, so they are mentioned and not quoted, and nothing in this article rests on them.",
+            "bn": "কুরতুবী মুকাতিল থেকে বর্ণনা করেন যে আয়াতটি নাজিল হয়েছিল সাকীফ গোত্রকে নিয়ে, যারা নামাজ পড়তে অস্বীকার করেছিল। মুকাতিলের বর্ণনায়, তারা আপত্তি তুলেছিল যে ঝুঁকে পড়া তাদের জন্য অপমানের। কুরতুবী এটি কোনো সনদ ছাড়াই আনেন। মুকাতিলের বর্ণনায় এরপর রুকু ও সিজদা প্রসঙ্গে নবী ﷺ-এর কিছু কথাও আছে। এ লেখার জন্য দেখা কোনো হাদীসগ্রন্থের পাতায় সেগুলোর সমর্থন মেলেনি, এখানে সেগুলোর কোনো মানও নির্ণীত নেই। তাই সেগুলোর শুধু উল্লেখ রইল, উদ্ধৃতি নয়। এ লেখার কোনো কথা সেগুলোর উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "The report sits beside a question of placement. In his opening to the surah, al-Qurtubi says it is Meccan in the view of al-Hasan, Ikrima, Ata and Jabir, while Ibn Abbas and Qatada excepted one verse from that, this one, which they counted Madinan. He also relays from Ibn Abbas the Hereafter reading above, and leaves the two reports from him as they are. This article treats the Thaqif report as relayed, not established, and reads the verse where it stands in the surah, among the warnings to the deniers.",
+            "bn": "এই বর্ণনার পাশে আছে আয়াতের অবস্থান নিয়ে একটি প্রশ্ন। সূরার শুরুতে কুরতুবী বলেন, হাসান, ইকরিমা, আতা ও জাবিরের মতে সূরাটি মাক্কী। তবে ইবন আব্বাস (রাঃ) ও কাতাদা এর থেকে একটি আয়াত আলাদা করেন, এই আয়াতটিই, যা তাঁদের মতে মাদানী। আবার ইবন আব্বাস (রাঃ) থেকেই কুরতুবী ওপরের আখিরাতের ব্যাখ্যাটিও আনেন, আর তাঁর এই দুটি বর্ণনা যেমন আছে তেমনই রেখে দেন। এ লেখা সাকীফের বর্ণনাকে বর্ণিত কথা হিসেবেই দেখে, প্রতিষ্ঠিত সত্য হিসেবে নয়। আয়াতটিকে পড়ে সূরার ভেতরে তার নিজের জায়গায়, অস্বীকারকারীদের প্রতি সতর্কবাণীগুলোর মাঝে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prostration Made for Show",
+          "bn": "লোক দেখানো সিজদার পরিণাম"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a sound hadith to it, and this article borrows none to fill the gap. There is, though, a narration whose words describe the scene of 68:42, and it is set here only as background to the Hereafter reading, not as an explanation of 77:48. Al-Bukhari includes it in his Sahih; it is number 4919 in the Dar-us-Salam numbering, and the English below is the wording given on that page.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি, আর ফাঁক ভরাতে এ লেখাও অন্য জায়গা থেকে হাদীস ধার করছে না। তবে একটি বর্ণনা আছে, যার ভাষা ৬৮:৪২ আয়াতের দৃশ্যের কথা বলে। এখানে তা আনা হলো কেবল আখিরাতের ব্যাখ্যাটির পটভূমি হিসেবে, ৭৭:৪৮ আয়াতের ব্যাখ্যা হিসেবে নয়। ইমাম বুখারী এটি তাঁর সহীহ গ্রন্থে এনেছেন। দারুস সালামের ক্রমে এটি ৪৯১৯ নম্বর হাদীস, আর নিচের অনুবাদ সেই পাতার ভাষ্য অনুসারে।"
+          },
+          {
+            "en": "Abu Sa'id narrated: I heard the Prophet ﷺ saying, \"Our Lord Allah will lay bare His Shin, and then all the Believers, men and women, will prostrate themselves before Him, but there will remain those who used to prostrate in the world for showing off and for gaining good reputation. Such people will try to prostrate (on the Day of Judgment) but their backs will be as stiff as if it is one bone (a single vertebra).\" Ibn al-Arabi's phrase in al-Qurtubi, a back become a single plate, uses the hadith's own Arabic words, tabaqan wahidan.",
+            "bn": "আবু সাঈদ (রাঃ) বলেন, আমি নবী ﷺ-কে বলতে শুনেছি: \"আমাদের রব আল্লাহ তাঁর পায়ের নলা উন্মোচন করবেন। তখন সব মুমিন পুরুষ ও নারী তাঁকে সিজদা করবে। বাকি থেকে যাবে তারা, যারা দুনিয়ায় সিজদা করত লোক দেখানো আর সুনাম কুড়ানোর জন্য। এমন লোকেরা (বিচারের দিন) সিজদা করতে চাইবে, কিন্তু তাদের পিঠ এমন শক্ত হয়ে যাবে, যেন তা একটিমাত্র হাড় (একটিমাত্র কশেরুকা)।\" কুরতুবীতে ইবনুল আরাবী পিঠ এক পাত হয়ে যাওয়ার যে কথা বলেন, তাতে তিনি এই হাদীসেরই আরবি শব্দ ব্যবহার করেছেন: তাবাকান ওয়াহিদা।"
+          },
+          {
+            "en": "The narration's own focus falls on people who did prostrate in the world, but for show and for reputation. That turns this passage's warning inward. The deniers of 77:48 refused to bow when they were told to; the narration warns that a prostration made for an audience can also fail on that Day. So for a reader who does pray, the verse leaves a second question beside the first: not only whether I bow, but for whom.",
+            "bn": "বর্ণনাটির নজর তাদের দিকে, যারা দুনিয়ায় সিজদা ঠিকই করত, তবে লোক দেখানো আর সুনামের জন্য। এতে এই আয়াতগুলোর সতর্কবাণী নিজের দিকে ফিরে আসে। ৭৭:৪৮-এর অস্বীকারকারীরা রুকুর ডাক পেয়েও রুকু করেনি। আর হাদীসটি সতর্ক করে, মানুষকে দেখানোর জন্য করা সিজদাও সেদিন কাজে না-ও আসতে পারে। তাই যিনি নামাজ পড়েন, আয়াতটি তাঁর সামনেও প্রথম প্রশ্নের পাশে আরেকটি প্রশ্ন রেখে যায়: আমি নত হই কি না, শুধু তা-ই নয়, কার জন্য নত হই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Boy Tells Malik to Bow",
+          "bn": "বালকের কথায় মালিকের রুকু"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays an anecdote, introduced with it is mentioned and given with no chain. Malik entered the mosque after the afternoon prayer. He did not hold that one should pray at that hour, so he sat down without praying. A boy said to him: Shaykh, stand and bow. He stood up and prayed, and did not argue with the boy from the view he held. When he was asked about it, he said: I feared I would be among those who, when told to bow, do not bow.",
+            "bn": "কুরতুবী একটি ঘটনা আনেন 'উল্লেখ আছে' বলে, কোনো সনদ ছাড়া। ইমাম মালিক আসরের নামাজের পর মসজিদে ঢুকলেন। ওই সময়ে নামাজ পড়ার পক্ষে তিনি ছিলেন না, তাই নামাজ না পড়েই বসে পড়লেন। এক বালক তাঁকে বলল: শায়খ, উঠুন, রুকু করুন। তিনি উঠে নামাজ পড়লেন, নিজের মত দিয়ে বালকের সঙ্গে তর্ক করলেন না। পরে এ নিয়ে জিজ্ঞেস করা হলে বললেন: ভয় হলো, আমি না আবার তাদের দলে পড়ে যাই, যাদের রুকু করতে বলা হলে রুকু করে না।"
+          },
+          {
+            "en": "The story is worth keeping because Malik was not refusing anything out of pride. He had a reason, held as a matter of scholarship, and he set it aside for the moment rather than answer the word irka'u with a no. Read that way, the verse reaches past the deniers it describes to anyone with a ready argument for not bending. Qatada's line under the verse, in at-Tabari, points the same way more briefly: hold to bowing well, for the prayer has a standing with Allah.",
+            "bn": "ঘটনাটি মনে রাখার মতো, কারণ মালিক অহংকার থেকে কিছু অস্বীকার করছিলেন না। তাঁর কারণ ছিল, আর তা ছিল ইলমের ভিত্তিতে নেওয়া মত। তবু ইরকাঊ শব্দের জবাবে 'না' বলার বদলে সে মুহূর্তে তিনি মতটি পাশে সরিয়ে রাখলেন। এভাবে পড়লে আয়াতটি তার বর্ণিত অস্বীকারকারীদের ছাড়িয়ে পৌঁছে যায় এমন যে কারও কাছে, যার হাতে নত না হওয়ার পক্ষে যুক্তি তৈরি থাকে। তাবারীতে আয়াতটির নিচে কাতাদার কথাও আরও সংক্ষেপে একই দিকে ইশারা করে: সুন্দর করে রুকু করাকে আঁকড়ে ধরো, কারণ আল্লাহর কাছে নামাজের বিশেষ মর্যাদা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Tenth Woe, the Last Question",
+          "bn": "দশম দুর্ভোগ, শেষ প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Then 77:49: woe that day to the deniers. It is the tenth time the line sounds in this surah, which first gave it at 77:15, and it is the last. Ibn Kathir passes straight from the refusal to the refrain: they refuse the prayer and turn from it in arrogance, and thus, he writes, Allah says: woe that day to the deniers. In this verse the woe does not follow a denial spoken in words. It follows a back that would not bend.",
+            "bn": "এরপর ৭৭:৪৯: সেদিন দুর্ভোগ অস্বীকারকারীদের জন্য। এ সূরায় কথাটি এ নিয়ে দশমবার এল। প্রথম এসেছিল ৭৭:১৫ আয়াতে, আর এখানেই শেষবার। ইবন কাসীর অস্বীকার থেকে সোজা ধুয়ায় চলে যান: তারা নামাজ ফিরিয়ে দেয়, অহংকারে মুখ ঘুরিয়ে নেয়, আর তাই, তিনি লেখেন, আল্লাহ বলেন: সেদিন দুর্ভোগ অস্বীকারকারীদের জন্য। এ আয়াতে দুর্ভোগ মুখে উচ্চারিত কোনো অস্বীকারের পরে আসে না। আসে এমন এক পিঠের পরে, যা বাঁকতে রাজি হয়নি।"
+          },
+          {
+            "en": "Then the surah closes with a question, 77:50: in what speech after it will they believe? Ibn Kathir explains: if they do not believe in this Qur'an, then what talk will they believe in? He sets beside it 45:6, which asks in what speech after Allah and His signs they will believe. The same closing words, fa-bi-ayyi hadithin ba'dahu yu'minun, also end 7:185, after a call to look into the dominion of the heavens and the earth, and the thought that their term may already have drawn near.",
+            "bn": "তারপর সূরা শেষ হয় একটি প্রশ্নে, ৭৭:৫০: এরপর আর কোন কথায় তারা ঈমান আনবে? ইবন কাসীর ব্যাখ্যা করেন: তারা যদি এই কুরআনে ঈমান না আনে, তবে আর কোন কথায় আনবে? এর পাশে তিনি রাখেন ৪৫:৬, যেখানে প্রশ্ন: আল্লাহ ও তাঁর আয়াতের পর আর কোন কথায় তারা ঈমান আনবে? হুবহু একই শেষ শব্দগুলো, ফাবিআইয়ি হাদীসিম বা'দাহূ ইউ'মিনূন, ৭:১৮৫ আয়াতেরও সমাপ্তি। সেখানে আগে আছে আসমান ও জমিনের রাজত্বের দিকে তাকানোর আহ্বান, আর এই ভাবনা যে তাদের নির্ধারিত সময় হয়তো ঘনিয়ে এসেছে।"
+          },
+          {
+            "en": "The people described here are described as the text describes them: the deniers of this surah, on the Day it portrays. The verse licenses nothing against any living person or community, and gives no one the right to point at a neighbour who misses a prayer and place him among them. Its question is turned on the reader. Malik heard it in a boy's voice and stood up. The call to bow still comes five times a day, and the verse asks what my back does when it hears it.",
+            "bn": "এখানে যাদের কথা বলা হয়েছে, তাদের বর্ণনা ঠিক ততটুকুই, যতটুকু আয়াত দেয়: এ সূরার অস্বীকারকারীরা, সূরা যে দিনের ছবি আঁকে সেই দিনে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে আয়াতটি কোনো অনুমতি দেয় না। নামাজ ছুটে যাওয়া কোনো প্রতিবেশীর দিকে আঙুল তুলে তাকে তাদের দলে ফেলার অধিকারও কাউকে দেয় না। এর প্রশ্নটা পাঠকের নিজের দিকে ফেরানো। মালিক তা শুনেছিলেন এক বালকের কণ্ঠে, আর উঠে দাঁড়িয়েছিলেন। রুকুর ডাক আজও দিনে পাঁচবার আসে। আয়াত জানতে চায়, সে ডাক শুনে আমার পিঠ কী করে।"
+          }
+        ]
+      }
+    ]
   }
 });
