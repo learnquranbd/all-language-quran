@@ -28369,6 +28369,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give without turning your giving into a leash, and never fear that anyone who cuts off help can cut off what Allah provides.",
     "lessonBn": "দানকে কারও গলার দড়ি বানাবেন না। আর ভয় পাবেন না যে কেউ সাহায্য বন্ধ করে দিলে আল্লাহর দেওয়া রিজিকও বন্ধ হয়ে যাবে।"
+  },
+  "64:9": {
+    "reflectionEn": "The surah takes its name from this verse: the Day of at-taghabun, a word drawn from buying and selling. Ghabn is being taken in a deal, handing over something of worth and getting less back. Here every life is a trade, and on one Day the whole ledger is opened at once. Some find they gave little and received a garden that does not end. Others find they gave everything for what does not last. A trade in this world can be undone or made up in the next deal; this one cannot. The verse does not leave me with the fear alone. It names the price at once: believe, do what is right, and He will wipe out the misdeeds. What am I trading my days for?",
+    "reflectionBn": "এ আয়াত থেকেই সূরার নাম: তাগাবুনের দিন। শব্দটা এসেছে কেনাবেচা থেকে। গাবন মানে লেনদেনে ঠকে যাওয়া, দামি জিনিস দিয়ে কম দামের জিনিস হাতে পাওয়া। এখানে গোটা জীবনটাই এক লেনদেন, আর একদিন সব হিসাবের খাতা একসঙ্গে খোলা হবে। কেউ দেখবে, সে দিয়েছিল সামান্য, পেয়েছে এমন বাগান যার শেষ নেই। কেউ দেখবে, সব দিয়ে সে কিনেছিল এমন কিছু যা টেকে না। দুনিয়ার ঠকা ফেরত দিয়ে বা পরের সওদায় পুষিয়ে নেওয়া যায়, এটা যায় না। তবে আয়াতটি শুধু ভয় দেখিয়ে থামে না। দামটা সঙ্গে সঙ্গে বলে দেয়: ঈমান আনো, নেক আমল করো, তিনি গুনাহ মুছে দেবেন। আমার দিনগুলো আমি কিসের বিনিময়ে বেচে দিচ্ছি?",
+    "pointsEn": [
+      "If my days so far were a trade, what have I been paying, and what have I been getting back for it?",
+      "Which of my habits would look like a bad bargain on a Day when every account is opened together?",
+      "Is there anyone I have wronged, in word or in wealth, whom I can still put right while settling is possible?",
+      "Do I count myself safe, or do I also fear the loss of the good I could have done and left undone?",
+      "What one act of faith and righteousness could I add this week to the side of the scale I hope to stand on?"
+    ],
+    "pointsBn": [
+      "আমার এ পর্যন্ত কাটানো দিনগুলো যদি একটা লেনদেন হয়, তবে আমি কী দিয়ে যাচ্ছি, আর বিনিময়ে কী পাচ্ছি?",
+      "যেদিন সবার হিসাব একসঙ্গে খোলা হবে, সেদিন আমার কোন অভ্যাসগুলো লোকসানের সওদা বলে ধরা পড়বে?",
+      "কথায় বা সম্পদে এমন কারও উপর কি অন্যায় করেছি, যার সঙ্গে মিটমাট করার সুযোগ এখনো আছে?",
+      "আমি কি নিজেকে নিরাপদ ধরে বসে আছি, নাকি যে নেক কাজগুলো করতে পারতাম অথচ করিনি, তা হারানোর ভয়ও আমার আছে?",
+      "এ সপ্তাহে ঈমান আর নেক আমলের কোন একটি কাজ আমি সেই পাল্লায় যোগ করতে পারি, যেদিকে দাঁড়াতে চাই?"
+    ],
+    "lessonEn": "Life is a trade judged on one Day. Spend your days on faith and righteous deeds, and settle what you owe others while settling is still possible.",
+    "lessonBn": "জীবন এক লেনদেন, যার হিসাব হবে একদিনে। দিনগুলো ঈমান আর নেক আমলে খরচ করুন, আর অন্যের যে হক আপনার কাছে আছে, সুযোগ থাকতেই তা মিটিয়ে নিন।"
   }
 };
 

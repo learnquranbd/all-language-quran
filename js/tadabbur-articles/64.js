@@ -311,6 +311,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "64:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Day Given Two Names",
+          "bn": "এক দিনের দুই নাম"
+        },
+        "p": [
+          {
+            "en": "Yawma yajma'ukum li-yawmi-l-jam': the Day He gathers you for the Day of Gathering. The verse opens on a time word with nothing visibly governing it, and al-Qurtubi offers three answers. It may hang on la-tunabba'unna, you will surely be informed, in 64:7; or on khabir, Aware, closing 64:8, since that word carries a threat: Allah will requite you on the Day He gathers you; or on an implied remember. The Muyassar and as-Sa'di both open with that command.",
+            "bn": "ইয়াওমা ইয়াজমাউকুম লিইয়াওমিল জাম: যেদিন তিনি তোমাদের একত্র করবেন একত্র হওয়ার দিনের জন্য। আয়াতটি শুরু হয়েছে সময়বাচক শব্দ দিয়ে, অথচ তাকে কোন শব্দ নিয়ন্ত্রণ করছে, তা চোখে পড়ে না। কুরতুবী এর তিনটি উত্তর দেন। হয় ৬৪:৭-এর লাতুনাব্বাউন্না, তোমাদের অবশ্যই জানিয়ে দেওয়া হবে। নয়তো ৬৪:৮-এর শেষ শব্দ খাবীর, সম্যক অবগত, কারণ এতে হুমকির সুর আছে: যেদিন তিনি তোমাদের একত্র করবেন, সেদিন আল্লাহ প্রতিফল দেবেন। অথবা উহ্য আদেশ: স্মরণ করো। মুয়াসসার আর সা'দী দুজনেই ব্যাখ্যা শুরু করেন এই আদেশ দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi notes that most read yajma'ukum, He gathers, with ya', since Allah's name came first, while Ya'qub and others read najma'ukum, We gather, with nun, matching the We of 64:8. Either way the Day carries two names in one breath. Ibn Kathir explains the first as the Day of Resurrection, and Ma'arif al-Qur'an says plainly that both are its names.",
+            "bn": "কুরতুবী জানান, অধিকাংশ কারী পড়েন ইয়াজমাউকুম, তিনি একত্র করবেন, ইয়া দিয়ে, কারণ আল্লাহর নাম আগে এসেছে। আর ইয়াকূবসহ কয়েকজন পড়েন নাজমাউকুম, আমি একত্র করব, নূন দিয়ে, ৬৪:৮-এর 'আমি'-র সঙ্গে মিল রেখে। যেভাবেই পড়া হোক, একই নিঃশ্বাসে দিনটির দুই নাম উচ্চারিত হয়। ইবন কাসীর প্রথম নামটির ব্যাখ্যা দেন কিয়ামতের দিন বলে। আর মাআরিফুল কুরআন সোজাসুজি বলে, দুটোই কিয়ামতের নাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gathered, and Gathered With",
+          "bn": "কারা একত্র হবে, কিসের সঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Who is gathered? Ibn Kathir: the first and the last, on one plain, where a caller makes them all hear and the sight takes them all in, as in 11:103, a Day for which mankind is gathered, and in 56:49 and 56:50. Al-Baghawi widens the circle to the people of the heavens and the earth, and at-Tabari gives the purpose in a word: the creatures are gathered lil-'ard, for the presentation.",
+            "bn": "কারা একত্র হবে? ইবন কাসীর বলেন: আগের ও পরের সবাই, একই প্রান্তরে, যেখানে একজন আহ্বানকারীর ডাক সবাই শুনবে, আর দৃষ্টি সবাইকে একসঙ্গে দেখতে পাবে। তিনি পাশে রাখেন ১১:১০৩, যেদিন সব মানুষকে একত্র করা হবে, আর ৫৬:৪৯ ও ৫৬:৫০। বাগাভী বৃত্তটা আরও বড় করেন: আসমান ও যমীনের সব অধিবাসী। আর তাবারী উদ্দেশ্যটা বলেন এক শব্দে: সৃষ্টিকে একত্র করা হবে লিল-আরদ, হাজির করার জন্য।"
+          },
+          {
+            "en": "Al-Qurtubi keeps that plain meaning, adding mankind and jinn, and then lists other readings, each under it is said. It is the Day Allah brings every servant together with his deeds; the Day the wrongdoer and the person he wronged meet; the Day every prophet is gathered with his community; the Day the reward of the obedient and the punishment of the disobedient are brought together. He ranks none above the rest, and the wronged return below.",
+            "bn": "কুরতুবী এই সাধারণ অর্থটা রাখেন, সঙ্গে যোগ করেন মানুষ ও জিন। তারপর 'বলা হয়' বলে আরও কয়েকটি ব্যাখ্যা আনেন। এ সেই দিন, যেদিন আল্লাহ প্রত্যেক বান্দাকে তার আমলের সঙ্গে মিলিয়ে দেবেন। যেদিন জালিম আর মজলুম মুখোমুখি হবে। যেদিন প্রত্যেক নবী তাঁর উম্মতের সঙ্গে একত্র হবেন। যেদিন অনুগতদের পুরস্কার আর নাফরমানদের শাস্তি একসঙ্গে সামনে আসবে। কোনোটিকে তিনি অন্যগুলোর উপরে রাখেননি। মজলুমের কথা নিচে আবার ফিরে আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Borrowed From Trade",
+          "bn": "বাজারের ভাষা থেকে নেওয়া শব্দ"
+        },
+        "p": [
+          {
+            "en": "At-taghabun is built on ghabn, which al-Qurtubi defines as naqs, a shortfall. The Arabs say ghabanahu when a man took a thing from another below its worth, and ghabantu fulanan when you traded with someone and the loss fell on him while the upper hand was yours. Al-Baghawi adds that ghabn is fawt al-hazz, missing one's share, and that taghabun is the pattern of mutual action: a deal between parties, one of whom loses.",
+            "bn": "তাগাবুন শব্দের মূলে আছে গাবন। কুরতুবী এর অর্থ বলেন নাকস, অর্থাৎ ঘাটতি। আরবরা বলে গাবানাহু, যখন কেউ অন্যের কাছ থেকে কোনো জিনিস তার ন্যায্য দামের চেয়ে কমে নিয়ে নেয়। আর বলে গাবানতু ফুলানান, যখন আপনি কারও সঙ্গে বেচাকেনা করলেন, লোকসানটা পড়ল তার ঘাড়ে, আর লাভ রইল আপনার হাতে। বাগাভী যোগ করেন, গাবন হলো ফাওতুল হাজ্জ, নিজের প্রাপ্য ভাগটা হাতছাড়া হওয়া। আর তাগাবুন শব্দের গড়ন পারস্পরিক কাজের: কয়েক পক্ষের এক লেনদেন, যাতে একজন ঠকে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an adds a distinction from ar-Raghib al-Isfahani: ghubina, in the passive, is said of a loss in money, while ghabina is said of a lapse in judgement. The mutual form, it says, usually means two parties causing or exposing each other's loss, but here the sense runs one way: the Day lays bare the loss of those who disbelieved, an accepted use of the form as well.",
+            "bn": "মাআরিফুল কুরআন রাগিব ইসফাহানী থেকে একটি পার্থক্য তুলে আনে। কর্মবাচ্যে গুবিনা বলা হয় টাকাপয়সার লোকসানে। আর গাবিনা বলা হয় যখন কারও বিচারবুদ্ধিতে ঘাটতি পড়ে। মাআরিফ বলে, পারস্পরিক গড়নের শব্দে সাধারণত বোঝায় দুই পক্ষ একে অন্যকে লোকসানে ফেলছে বা একে অন্যের লোকসান প্রকাশ করছে। কিন্তু এখানে অর্থটা একমুখী: সেদিন কাফিরদের লোকসান প্রকাশ হয়ে পড়বে। এমন ব্যবহারও শব্দটির স্বীকৃত ব্যবহার।"
+          },
+          {
+            "en": "But what deal was struck, that anyone could be cheated in it? Al-Qurtubi raises the objection and answers that the word is a likeness from buying and selling, as in 2:16, those who bought misguidance with guidance and whose trade did not profit. The people of Paradise bought the Hereafter and paid for it with the world; the people of the Fire bought the world and paid with the Hereafter. It is an exchange, he says, by extension and figure.",
+            "bn": "কিন্তু লেনদেনটা হলো কোথায়, যে কেউ তাতে ঠকবে? আপত্তিটা কুরতুবী নিজেই তোলেন। তাঁর উত্তর: শব্দটি কেনাবেচা থেকে নেওয়া উপমা, যেমন ২:১৬ আয়াতে, যারা হিদায়াতের বদলে গোমরাহি কিনেছে, তাদের ব্যবসায় লাভ হয়নি। জান্নাতবাসীরা আখিরাত কিনেছে, দাম দিয়েছে দুনিয়া ছেড়ে। জাহান্নামবাসীরা দুনিয়া কিনেছে, দাম দিয়েছে আখিরাত ছেড়ে। কুরতুবী বলেন, এ বিনিময় প্রসারিত ও রূপক অর্থে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Early Readers on Taghabun",
+          "bn": "প্রথম যুগের ব্যাখ্যায় তাগাবুন"
+        },
+        "p": [
+          {
+            "en": "The earliest explanation is from Ibn 'Abbas (RA). At-Tabari carries it through 'Ali ibn Abi Talha: one of the names of the Day of Resurrection, which Allah made great and warned His servants of. Ibn Kathir gives the reason with it: the people of Paradise get the better of the people of the Fire. At-Tabari makes that his own gloss, says the people of interpretation said the same, and gives Mujahid and Qatada with their chains in nearly those words.",
+            "bn": "সবচেয়ে প্রাচীন ব্যাখ্যাটি ইবন আব্বাস (রাঃ)-এর। তাবারী আলী ইবন আবী তালহার সূত্রে বর্ণনা করেন: এটি কিয়ামতের দিনের একটি নাম, আল্লাহ দিনটিকে মহান করেছেন আর বান্দাদের এ সম্পর্কে সতর্ক করেছেন। ইবন কাসীর সঙ্গে কারণটাও দেন: জান্নাতবাসীরা জাহান্নামবাসীদের উপর জিতে যাবে। তাবারী এটিকেই নিজের ব্যাখ্যা হিসেবে নেন, বলেন ব্যাখ্যাকারেরা এমনই বলেছেন, তারপর সনদসহ মুজাহিদ ও কাতাদার কথা আনেন। দুজনের কথা প্রায় হুবহু এক।"
+          },
+          {
+            "en": "Ibn Kathir closes with Muqatil ibn Hayyan: there is no taking-the-better greater than that these enter Paradise and those are led away to the Fire. The Muyassar spells out the same picture with a careful balance. On that Day the disparity between creatures becomes visible, and the believers get the better of the disbelievers and the sinners: the people of faith enter Paradise by Allah's mercy, and the people of disbelief enter the Fire by Allah's justice. Paradise is named as mercy, and the Fire as justice.",
+            "bn": "ইবন কাসীর শেষ করেন মুকাতিল ইবন হাইয়ানের কথায়: এরা জান্নাতে ঢুকবে আর ওদের জাহান্নামে নিয়ে যাওয়া হবে, এর চেয়ে বড় ঠকা আর হয় না। মুয়াসসার একই ছবি আঁকে, তবে মাপা ভারসাম্যে। সেদিন সৃষ্টির মধ্যকার ব্যবধান চোখের সামনে এসে যাবে। মু'মিনরা কাফির আর ফাসিকদের উপর জিতে যাবে। ঈমানদাররা জান্নাতে যাবে আল্লাহর রহমতে, কুফরের লোকেরা জাহান্নামে যাবে আল্লাহর ইনসাফে। জান্নাতকে বলা হলো রহমত, আর জাহান্নামকে ইনসাফ।"
+          },
+          {
+            "en": "As-Sa'di draws the scene at length. Allah halts the first and the last in a vast and fearful standing and tells them what they did. Then the difference shows: some are raised to the highest of 'Illiyyin, to lofty chambers holding every delight; others are lowered to the lowest of the low, a place of grief and severe punishment, the fruit of what they sent ahead in their lives. The criminals learn they stood on nothing, and that they are the losers.",
+            "bn": "সা'দী দৃশ্যটা আঁকেন বিস্তারে। আল্লাহ আগের ও পরের সবাইকে এক ভয়ংকর বিশাল অবস্থানে দাঁড় করাবেন, আর তারা যা করেছে তা জানিয়ে দেবেন। তখনই ব্যবধানটা স্পষ্ট হবে। কাউকে তোলা হবে ইল্লিয়্যীনের সর্বোচ্চ স্তরে, সব আনন্দে ভরা উঁচু কক্ষে। কাউকে নামানো হবে সবচেয়ে নিচে, দুঃখ আর কঠিন আযাবের জায়গায়। সা'দী বলেন, এ হলো জীবনে তারা আগে যা পাঠিয়েছে তারই ফল। অপরাধীরা তখন বুঝবে, তারা আসলে কিছুর উপরই ছিল না, আর তারাই ক্ষতিগ্রস্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Houses, One Taken",
+          "bn": "দুটি ঘর, একটি হাতছাড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then gives the reading that makes the trade literal. Allah divided creation into a party for the Garden and a party for the Fire, and the places of all are laid out in both. When a servant is forsaken and joins the people of the Fire, the one granted success receives his place in the Garden, and the successful one's place in the Fire goes to him. It is as if an exchange took place, and so taghabun happened. Elsewhere, he adds, this is told as inheritance, as in Surah al-Mu'minun.",
+            "bn": "এরপর কুরতুবী এমন ব্যাখ্যা দেন, যাতে লেনদেনটা প্রায় আক্ষরিক হয়ে যায়। আল্লাহ সৃষ্টিকে ভাগ করেছেন জান্নাতের দল আর জাহান্নামের দলে, আর সবার জায়গা দুই জায়গাতেই রাখা আছে। কোনো বান্দা তাওফীক থেকে বঞ্চিত হয়ে জাহান্নামীদের দলে গেলে, তাওফীকপ্রাপ্ত একজন জান্নাতে তার জায়গাটা পেয়ে যায়। আর জাহান্নামে তাওফীকপ্রাপ্তের যে জায়গা ছিল, তা যায় বঞ্চিতের ভাগে। কুরতুবী বলেন, যেন বিনিময় হয়ে গেল, আর এভাবেই তাগাবুন ঘটল। তিনি যোগ করেন, অন্যত্র একে বলা হয়েছে উত্তরাধিকার, যেমন সূরা মু'মিনূনে।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi both give the commentators' definition that follows: al-maghbun is the one cheated of his family and his dwellings in Paradise. Ma'arif al-Qur'an fills in the scene from narrations. Each person has two abodes. Believers are shown the abode in the Fire they were spared, so their thanks deepens; disbelievers are shown the abode in Paradise they forfeited, so their regret sharpens. One such narration, from Ibn Majah (4341), is quoted with its grading at 23:11 and not repeated here.",
+            "bn": "বাগাভী ও কুরতুবী দুজনেই এ থেকে আসা তাফসীরকারদের সংজ্ঞাটি দেন: মাগবূন হলো সে, যে জান্নাতে নিজের পরিবার আর ঘরবাড়ি হারিয়ে ঠকেছে। মাআরিফুল কুরআন বিভিন্ন বর্ণনা থেকে দৃশ্যটা পূর্ণ করে। প্রত্যেকের দুটি ঘর। মু'মিনদের দেখানো হবে জাহান্নামের সেই ঘর, যা থেকে তারা বেঁচে গেছে, যাতে শোকর আরও গভীর হয়। কাফিরদের দেখানো হবে জান্নাতের সেই ঘর, যা তারা হারিয়েছে, যাতে আফসোস আরও তীব্র হয়। এমন একটি বর্ণনা ইবন মাজাহতে আছে (৪৩৪১)। এর শব্দ ও মান ২৩:১১ আয়াতে আলোচিত হয়েছে, এখানে পুনরাবৃত্তি করা হলো না।"
+          },
+          {
+            "en": "Al-Qurtubi also records az-Zajjaj, who carries the word inside the Garden itself: the one whose rank is raised in Paradise gets the better of the one whose rank is below his. On that reading taghabun is not only the gap between the two destinations. It also runs between neighbours in the same Garden, where one rank looks up at another and knows what more it might have had.",
+            "bn": "কুরতুবী যাজ্জাজের কথাও আনেন, যিনি শব্দটিকে জান্নাতের ভেতরেও নিয়ে যান: জান্নাতে যার মর্যাদা উঁচু, সে তার চেয়ে নিচের স্তরের লোকের উপর জিতে যায়। এ ব্যাখ্যায় তাগাবুন কেবল দুই ঠিকানার ব্যবধান নয়। একই জান্নাতের প্রতিবেশীদের মধ্যেও তা চলে। নিচের স্তর উপরের দিকে তাকিয়ে বোঝে, আরও কতটা পাওয়া যেত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Wronged Are Paid",
+          "bn": "মজলুম যেদিন পাওনা পাবে"
+        },
+        "p": [
+          {
+            "en": "A second strand ties the word to wrongs between people. Al-Qurtubi listed the meeting of wrongdoer and wronged among the meanings of the Day of Gathering, and Ma'arif al-Qur'an, explaining the name at-taghabun, brings two narrations on how that account is settled. The first, cited through al-Mazhari, is the hadith of the bankrupt, which Sahih Muslim records at 2581: the man who comes with prayer, fasting and zakah, having also abused, slandered, seized wealth and shed blood. It is quoted in full at 26:183.",
+            "bn": "আরেকটি ধারা শব্দটিকে মানুষে মানুষে অন্যায়ের সঙ্গে জুড়ে দেয়। কুরতুবী একত্র হওয়ার দিনের অর্থের মধ্যে জালিম আর মজলুমের মুখোমুখি হওয়ার কথা বলেছিলেন। আর মাআরিফুল কুরআন তাগাবুন নামের ব্যাখ্যায় দুটি বর্ণনা আনে, সেই হিসাব কীভাবে মেটানো হবে তা নিয়ে। প্রথমটি মাযহারীর সূত্রে, দেউলিয়া ব্যক্তির হাদীস, যা সহীহ মুসলিমে আছে (২৫৮১)। সে আসবে নামাজ, রোজা আর যাকাত নিয়ে, অথচ কাউকে গালি দিয়েছে, কারও নামে অপবাদ দিয়েছে, কারও সম্পদ খেয়েছে, কারও রক্ত ঝরিয়েছে। পুরো হাদীসটি ২৬:১৮৩ আয়াতে উদ্ধৃত হয়েছে।"
+          },
+          {
+            "en": "Ma'arif cites the second from Sahih al-Bukhari (2449), from Abu Hurayrah (RA). Allah's Messenger ﷺ said: \"Whoever has oppressed another person concerning his reputation or anything else, he should beg him to forgive him before the Day of Resurrection when there will be no money (to compensate for wrong deeds), but if he has good deeds, those good deeds will be taken from him according to his oppression which he has done, and if he has no good deeds, the sins of the oppressed person will be loaded on him.\" Neither narration names this verse; Ma'arif brings them to explain the name.",
+            "bn": "দ্বিতীয়টি মাআরিফ উদ্ধৃত করে সহীহ বুখারী থেকে (২৪৪৯), আবু হুরায়রা (রাঃ)-এর সূত্রে। রাসূলুল্লাহ ﷺ বলেছেন: \"কারও সম্মানহানি বা অন্য কোনো বিষয়ে যে তার উপর জুলুম করেছে, সে যেন আজই তার কাছ থেকে মাফ চেয়ে নেয়, সেই দিন আসার আগে, যেদিন কোনো দিনার বা দিরহাম থাকবে না। তার কোনো নেক আমল থাকলে, জুলুমের পরিমাণ অনুযায়ী তা তার কাছ থেকে নিয়ে নেওয়া হবে। আর তার কোনো নেকি না থাকলে, মজলুমের গুনাহ নিয়ে তার উপর চাপিয়ে দেওয়া হবে।\" কোনো বর্ণনাতেই এ আয়াতের উল্লেখ নেই। নামটির ব্যাখ্যা হিসেবে মাআরিফ এগুলো এনেছে।"
+          },
+          {
+            "en": "Al-Qurtubi relays from al-Hasan and Qatada a saying that opens with it has reached us: taghabun lies in three kinds of men. One taught knowledge he neglected himself and was wretched by it, while his student acted on it and was saved. One gathered wealth by means he will be asked about, clung to it, fell short in obedience for it, and left it to an heir who spent it in obedience. And one owned a slave who obeyed his Lord and was happy, while the master disobeyed and was wretched.",
+            "bn": "কুরতুবী হাসান ও কাতাদা থেকে একটি কথা উদ্ধৃত করেন, যা শুরু হয় 'আমাদের কাছে পৌঁছেছে' বলে: তাগাবুন ঘটে তিনটি শ্রেণির মানুষের বেলায়। একজন অন্যকে ইলম শিখিয়েছে, অথচ নিজে তা অবহেলা করে হতভাগা হয়েছে, আর তার ছাত্র সে অনুযায়ী আমল করে মুক্তি পেয়েছে। আরেকজন এমন পথে সম্পদ জমিয়েছে যার জবাব দিতে হবে, আঁকড়ে রেখেছে, এর জন্য রবের আনুগত্যে ত্রুটি করেছে, তারপর রেখে গেছে এমন উত্তরাধিকারীর জন্য, যে তা আনুগত্যে খরচ করেছে। আর তৃতীয়জনের এক গোলাম রবের আনুগত্য করে সৌভাগ্যবান হয়েছে, অথচ মনিব নাফরমানি করে হতভাগা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Loss Nothing Makes Good",
+          "bn": "যে ক্ষতি আর পূরণ হয় না"
+        },
+        "p": [
+          {
+            "en": "The loss is not the disbeliever's alone. Al-Baghawi and al-Qurtubi both say that on that Day the loss of every disbeliever appears, for leaving faith, and of every believer, for falling short in ihsan; al-Qurtubi adds, and for wasting the days. Ma'arif al-Qur'an likens the name to the Day of Regret in 19:39 and cites Ruh al-Ma'ani: the wrongdoers regret their wrongs, the righteous regret their shortfalls in good deeds, and so everyone feels a loss.",
+            "bn": "ক্ষতিটা কেবল কাফিরের নয়। বাগাভী ও কুরতুবী দুজনেই বলেন, সেদিন প্রত্যেক কাফিরের ক্ষতি প্রকাশ পাবে ঈমান ছেড়ে দেওয়ার কারণে, আর প্রত্যেক মু'মিনের ক্ষতি প্রকাশ পাবে ইহসানে ত্রুটির কারণে। কুরতুবী যোগ করেন: আর দিনগুলো নষ্ট করার কারণে। মাআরিফুল কুরআন নামটিকে মিলিয়ে দেখে ১৯:৩৯ আয়াতের আফসোসের দিনের সঙ্গে, আর রূহুল মাআনী থেকে উদ্ধৃত করে: জালিমরা আফসোস করবে নিজেদের জুলুমের জন্য, নেককাররা নেক আমলে নিজেদের ঘাটতির জন্য। তাই সেদিন প্রত্যেকেই কোনো না কোনো ক্ষতি টের পাবে।"
+          },
+          {
+            "en": "Al-Qurtubi then quotes Ibn al-'Arabi on a point of law drawn from the verse. Some scholars of his school reasoned that since Allah assigned taghabun to the Day of Resurrection, gross ghabn has no standing in worldly sales: goods sold at more than a third above their worth may be returned. Ibn al-'Arabi calls the question long and gives its core: cheating is forbidden as deception, but a little of it no one can avoid, so it stands, while much can be guarded against, so it is returned.",
+            "bn": "এরপর কুরতুবী ইবনুল আরাবীর একটি ফিকহি আলোচনা উদ্ধৃত করেন, যা এ আয়াত থেকেই বের করা। তাঁর মাযহাবের কিছু আলিম যুক্তি দিয়েছেন: আল্লাহ যখন তাগাবুনকে কিয়ামতের দিনের সঙ্গে নির্দিষ্ট করেছেন, তখন দুনিয়ার কেনাবেচায় বড় রকমের ঠকানোর বৈধতা নেই। ন্যায্য দামের চেয়ে এক-তৃতীয়াংশের বেশিতে বেচা পণ্য ফেরত দেওয়া যায়। ইবনুল আরাবী বলেন, প্রশ্নটি দীর্ঘ আলোচনার, তবে মূল কথাটা তিনি দেন। ঠকানো হারাম, কারণ তা প্রতারণা। কিন্তু সামান্য ঠকা থেকে কেউই বাঁচতে পারে না, তাই সেটুকু চলে যায়। বেশি ঠকা থেকে সাবধান থাকা যায়, তাই তা ফেরতযোগ্য।"
+          },
+          {
+            "en": "From that he draws a meaning for the verse: that is the Day of the taghabun that is never made good. Worldly ghabn is recovered either by returning the goods or by profit in another sale, he says, but whoever loses the Garden has no recovery, ever. Al-Qurtubi says the same in his own words: taghabun can happen on other days, but the verse means the kind whose end admits no repair. Every other bad bargain in a life can still be set right.",
+            "bn": "এ থেকে তিনি আয়াতের একটি অর্থ বের করেন: সেটা এমন তাগাবুনের দিন, যার ক্ষতি আর কখনো পূরণ হয় না। তাঁর ভাষায়, দুনিয়ার ঠকা পুষিয়ে নেওয়া যায় পণ্য ফেরত দিয়ে, নয়তো অন্য কোনো বেচাকেনায় লাভ করে। কিন্তু যে জান্নাত হারাল, তার আর কোনো পূরণ নেই, কোনোদিন না। কুরতুবীও নিজের ভাষায় একই কথা বলেন: অন্য দিনেও তাগাবুন ঘটতে পারে, তবে আয়াতে বোঝানো হয়েছে সেই তাগাবুন, যার শেষ পরিণামের আর কোনো মেরামত নেই। জীবনের বাকি সব বাজে সওদা এখনো শুধরে নেওয়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Price Named at Once",
+          "bn": "দামটা সঙ্গে সঙ্গেই বলা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di hears the rest of the verse as an answer, as if someone asked: by what, then, come success and ruin? So Allah named the causes. Wa man yu'min billah: whoever believes in Allah, with a complete faith covering all He commanded belief in. Wa ya'mal salihan: and does righteousness, obligatory and voluntary, giving Allah His rights and His servants theirs. At-Tabari glosses the pair: whoever affirms Allah, obeys Him, and stops at His command and prohibition.",
+            "bn": "সা'দী আয়াতের বাকি অংশকে শোনেন একটা প্রশ্নের উত্তর হিসেবে। যেন কেউ জিজ্ঞেস করল: তাহলে সফলতা আর সর্বনাশ আসে কিসের মাধ্যমে? তখন আল্লাহ কারণগুলো বলে দিলেন। ওয়া মাই ইউ'মিন বিল্লাহ: যে আল্লাহর উপর ঈমান আনে, পূর্ণ ঈমান, আল্লাহ যা কিছুর উপর ঈমান আনতে বলেছেন তার সবটাকে ঘিরে। ওয়া ইয়া'মাল সালিহা: আর নেক আমল করে, ফরজ ও নফল দুটোই, আল্লাহর হক আর বান্দার হক আদায় করে। তাবারীও এই জোড়ার ব্যাখ্যা দেন: যে আল্লাহকে সত্য বলে মানে, তাঁর আনুগত্য করে, আর তাঁর আদেশ-নিষেধের সীমায় থেমে যায়।"
+          },
+          {
+            "en": "Then the promise. Yukaffir 'anhu sayyi'atihi, at-Tabari says, means He erases his sins; al-Baghawi records that the people of Madinah and Syria read nukaffir and nudkhilhu, We remove and We admit, with nun. The gardens are orchards with rivers running beneath their trees, in at-Tabari, or beneath their palaces, in the Muyassar. Khalidina fiha abadan: staying there forever, says at-Tabari, neither dying nor leaving. And that is al-fawz al-'azim: in at-Tabari, the great deliverance; in the Muyassar, the success after which there is no other.",
+            "bn": "তারপর প্রতিশ্রুতি। ইউকাফফির আনহু সাইয়িআতিহ, তাবারী বলেন, এর অর্থ তিনি তার গুনাহ মুছে দেবেন। বাগাভী জানান, মদীনা ও শামের কারীরা পড়েছেন নুকাফফির ও নুদখিলহু, নূন দিয়ে: আমি মুছে দেব, আমি প্রবেশ করাব। জান্নাত হলো এমন বাগান, তাবারীর ভাষায় যার গাছের নিচ দিয়ে নদী বয়ে যায়, মুয়াসসারের ভাষায় যার প্রাসাদের নিচ দিয়ে। খালিদীনা ফীহা আবাদা: তাবারী বলেন, সেখানে চিরকাল থাকবে, মরবেও না, বেরও হবে না। আর এটাই আল-ফাওযুল আযীম: তাবারীর কাছে মহা মুক্তি, মুয়াসসারের কাছে এমন সাফল্য, যার পরে আর কোনো সাফল্য নেই।"
+          },
+          {
+            "en": "Ibn Kathir reads this verse with the next, where those who disbelieved and denied are named the companions of the Fire (64:10). The verse describes two outcomes on one Day and licenses nothing against any living person or community; it gives no one the right to say who will be found the loser. What it gives the reader is the terms, stated while the market is still open: believe, do right, settle what you owe, before the books close.",
+            "bn": "ইবন কাসীর এ আয়াতকে পড়েন পরের আয়াতের সঙ্গে, যেখানে যারা কুফরি করেছে আর আয়াতগুলোকে মিথ্যা বলেছে, তাদের বলা হয়েছে জাহান্নামের অধিবাসী (৬৪:১০)। আয়াতটি বর্ণনা করে একই দিনে দুই পরিণাম, এর বেশি কিছু নয়। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। কে সেদিন ক্ষতিগ্রস্ত বলে প্রমাণিত হবে, তা বলার অধিকারও কাউকে দেওয়া হয়নি। পাঠকের হাতে আয়াত তুলে দেয় শর্তগুলো, বাজার খোলা থাকতেই: ঈমান আনুন, নেক আমল করুন, অন্যের পাওনা মিটিয়ে দিন, খাতা বন্ধ হওয়ার আগেই।"
+          }
+        ]
+      }
+    ]
+  },
   "64:11": {
     "sections": [
       {
