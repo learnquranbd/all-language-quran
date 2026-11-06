@@ -1739,6 +1739,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "Who, Where, and How",
+          "bn": "কারা, কোথায়, কীভাবে"
+        },
+        "p": [
+          {
+            "en": "Hum wa azwajuhum fi zilalin 'ala l-ara'iki muttaki'un: they and their spouses, in shades, on couches, reclining. The verse is seven Arabic words, and it follows directly on 36:55, which said that the companions of Paradise are, on this Day, occupied and rejoicing. That verse gave a state of the heart. This one gives a scene: who is present, where they are, and how they sit. Al-Muyassar renders it in a single line: they and their spouses enjoying the bliss of sitting on adorned beds beneath spreading shades.",
+            "bn": "হুম ওয়া আযওয়াজুহুম ফী যিলালিন আলাল আরাইকি মুত্তাকিঊন: তারা আর তাদের জীবনসঙ্গীরা, ছায়ায়, আসনের উপর, হেলান দিয়ে। আয়াতটি আরবিতে সাতটি শব্দের, আর এসেছে ঠিক ৩৬:৫৫ আয়াতের পরে। সেখানে বলা হয়েছিল, জান্নাতবাসীরা সেদিন আনন্দে মশগুল। আগের আয়াত দেখিয়েছে মনের অবস্থা। এ আয়াত আঁকে একটা দৃশ্য: কারা আছে, কোথায় আছে, কীভাবে বসে আছে। মুয়াসসার পুরোটা এক বাক্যে বলে দেয়: তারা ও তাদের জীবনসঙ্গীরা ঘন ছায়ার নিচে সাজানো পালঙ্কে বসার নিয়ামত উপভোগ করবে।"
+          },
+          {
+            "en": "Al-Qurtubi reads the grammar two ways. Hum may be a subject, with the rest of the verse as its predicate, so that the verse stands as a sentence of its own. Or hum may be an emphasis of the pronoun already inside fakihun, with azwajuhum joined to it and muttaki'un a further description attached to fakihun. On that reading the two verses run as one sentence: rejoicing, they and their spouses, reclining. Either way, the spouses sit inside the same sentence as the companions of Paradise, not in a footnote to it.",
+            "bn": "কুরতুবী আয়াতের ব্যাকরণ দুভাবে পড়েন। এক, 'হুম' উদ্দেশ্য, আর আয়াতের বাকি অংশ তার বিধেয়। তখন আয়াতটি নিজেই একটা পূর্ণ বাক্য। দুই, 'হুম' আগের আয়াতের 'ফাকিহূন' শব্দের ভেতরে থাকা সর্বনামকে জোর দিচ্ছে, 'আযওয়াজুহুম' তার সঙ্গে যুক্ত, আর 'মুত্তাকিঊন' ফাকিহূনেরই আরেকটা বিশেষণ। এভাবে পড়লে দুই আয়াত মিলে একটাই বাক্য: আনন্দে মগ্ন তারা ও তাদের জীবনসঙ্গীরা, হেলান দিয়ে বসা। যেভাবেই পড়ুন, জীবনসঙ্গীরা জান্নাতবাসীদের সঙ্গে একই বাক্যের ভেতরে বসে আছে, তার কোনো পাদটীকায় নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spouses as the Commentators Gloss",
+          "bn": "আযওয়াজ শব্দের তাফসীর"
+        },
+        "p": [
+          {
+            "en": "Who are the azwaj here? Mujahid answers with one word, hala'iluhum, their lawful wives, and Ibn Kathir and at-Tabari both carry it from him; al-Baghawi gives the same gloss. At-Tabari's own sentence is broader. Hum, he says, means the companions of Paradise, and azwajuhum means their spouses from among the people of Paradise, in Paradise. He then quotes Mujahid through his chain: their lawful wives, in shades. The early gloss and at-Tabari's frame agree on the main point. These are spouses who are themselves people of the Garden.",
+            "bn": "এখানে 'আযওয়াজ' কারা? মুজাহিদ এক শব্দে জবাব দেন: হালাইলুহুম, তাদের বৈধ স্ত্রীরা। ইবন কাসীর ও তাবারী দুজনেই তাঁর এ কথা উদ্ধৃত করেছেন, বাগাভীও একই ব্যাখ্যা দেন। তাবারীর নিজের বাক্যটি আরেকটু প্রশস্ত। তিনি বলেন, 'হুম' মানে জান্নাতবাসীরা, আর 'আযওয়াজুহুম' মানে জান্নাতে তাদের সেই জীবনসঙ্গীরা, যারা নিজেরাও জান্নাতবাসী। এরপর তিনি নিজের সনদে মুজাহিদের কথাটি আনেন: তাদের বৈধ স্ত্রীরা, ছায়ার নিচে। প্রাচীন ব্যাখ্যা আর তাবারীর কাঠামো মূল কথায় একমত। এরা এমন জীবনসঙ্গী, যারা নিজেরাই জান্নাতের মানুষ।"
+          },
+          {
+            "en": "Two of the later commentaries widen the word. As-Sa'di explains azwajuhum as from among al-hur al-'in, who have gathered beauty of face and body together with beauty of character. Ma'arif al-Qur'an says the word as used here includes both the hur of Paradise and the wives of this mortal world. So the sources consulted give three framings: Mujahid's lawful wives, as-Sa'di's hur, and Ma'arif's both together. They are stated here as the commentators state them, side by side, and this article does not choose between them.",
+            "bn": "পরের যুগের দুটি তাফসীর শব্দটির পরিসর বাড়িয়েছে। সা'দী 'আযওয়াজুহুম'-এর ব্যাখ্যা দেন হূরুল ঈন দিয়ে, যাদের মধ্যে চেহারা ও দেহের সৌন্দর্যের সঙ্গে চরিত্রের সৌন্দর্যও একত্র হয়েছে। মাআরিফুল কুরআন বলে, এখানে শব্দটি জান্নাতের হূর এবং দুনিয়ার স্ত্রী, দুই-ই বোঝায়। তাহলে যেসব উৎস দেখা হয়েছে, তাতে তিনটি ব্যাখ্যা পাওয়া গেল: মুজাহিদের বৈধ স্ত্রী, সা'দীর হূর, আর মাআরিফের দুটো একসঙ্গে। তাফসীরকারেরা যেভাবে বলেছেন, এখানে সেভাবেই পাশাপাশি রাখা হলো। এ লেখা তাদের মধ্যে কোনোটিকে বেছে নিচ্ছে না।"
+          },
+          {
+            "en": "What the verse itself says is spare. It names companionship, shade and couches, and stops. The commentators who gloss the word do so in a phrase and move on, and this article keeps to that restraint. It adds no description of the spouses of Paradise beyond what the sources consulted for this verse state. The dignity of the picture lies in its quietness: two who belong to each other, at rest together, with nothing left to fear. That is enough for the verse, and it is enough for a reader who hopes for it.",
+            "bn": "আয়াত নিজে যা বলে, তা খুবই সংযত। সে উল্লেখ করে সাহচর্য, ছায়া আর আসন, তারপর থেমে যায়। যে তাফসীরকারেরা শব্দটির ব্যাখ্যা দিয়েছেন, তাঁরাও এক কথায় বলে সামনে এগিয়ে গেছেন। এ লেখাও সেই সংযম মেনে চলে। এ আয়াতের জন্য দেখা উৎসগুলো যা বলেছে, তার বাইরে জান্নাতের জীবনসঙ্গীদের কোনো বর্ণনা এখানে যোগ করা হয়নি। ছবিটির মর্যাদা তার নীরবতায়: পরস্পরের আপন দুজন মানুষ, একসঙ্গে বিশ্রামে, ভয়ের আর কিছু বাকি নেই। আয়াতের জন্য এটুকুই যথেষ্ট, আর যে পাঠক এর আশা করেন, তাঁর জন্যও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Households That Enter Together",
+          "bn": "একসঙ্গে প্রবেশের প্রতিশ্রুতি"
+        },
+        "p": [
+          {
+            "en": "The Qur'an speaks of this pairing in other places too. In 13:23 the people of understanding enter gardens of perpetual residence, and with them whoever was righteous among their forefathers, their spouses and their offspring. In 40:8 the angels who bear the Throne, and those around it, pray with nearly the same words: our Lord, admit them to the gardens You promised them, and whoever was righteous among their forefathers, spouses and offspring. When 36:56 shows the believer and the spouse side by side in the shade, it is showing one face of that promise.",
+            "bn": "এই জুটির কথা কুরআন অন্য জায়গাতেও বলেছে। ১৩:২৩ আয়াতে বোধসম্পন্ন মানুষেরা স্থায়ী জান্নাতে প্রবেশ করে, আর তাদের সঙ্গে প্রবেশ করে তাদের পিতৃপুরুষ, স্বামী-স্ত্রী ও সন্তানদের মধ্যে যারা নেককার। ৪০:৮ আয়াতে আরশ বহনকারী ফেরেশতারা ও তার চারপাশের ফেরেশতারা প্রায় একই কথায় দোয়া করেন: হে আমাদের রব, তাদের সেই জান্নাতে প্রবেশ করান যার ওয়াদা আপনি দিয়েছেন, আর তাদের পিতৃপুরুষ, স্বামী-স্ত্রী ও সন্তানদের মধ্যে যারা নেককার তাদেরও। ৩৬:৫৬ আয়াত যখন মুমিন আর তার জীবনসঙ্গীকে ছায়ার নিচে পাশাপাশি দেখায়, তখন সেই প্রতিশ্রুতিরই একটা দিক দেখায়।"
+          },
+          {
+            "en": "Both verses carry a condition: man salaha, whoever was righteous. The pairing is not a family name that carries anyone in by itself. Each spouse answers for their own deeds, as 36:54 has just said: you will be repaid only for what you used to do. Yet the promise is a real comfort. A marriage in which each helps the other to pray, to be patient and to forgive is a marriage working toward that shade. For the righteous, these verses promise, the bond of this world can be carried through.",
+            "bn": "দুটি আয়াতেই একটা শর্ত আছে: মান সালাহা, যে নেককার। পরিবারের নাম নিজে কাউকে জান্নাতে নিয়ে যায় না। প্রত্যেক স্বামী বা স্ত্রী নিজের আমলের জবাব নিজেই দেবে, যেমন ৩৬:৫৪ আয়াত এইমাত্র বলেছে: তোমরা যা করতে, কেবল তারই প্রতিফল পাবে। তবু প্রতিশ্রুতিটা সত্যিকারের সান্ত্বনা। যে দাম্পত্যে দুজন দুজনকে নামাজে, ধৈর্যে আর মাফ করে দেওয়ায় সাহায্য করে, সে দাম্পত্য সেই ছায়ার দিকেই এগোচ্ছে। এই আয়াতগুলোর প্রতিশ্রুতি অনুযায়ী, নেককারদের বেলায় দুনিয়ার বন্ধন ওপারেও টিকে থাকতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Zilal, or Zulal",
+          "bn": "যিলাল, নাকি যুলাল"
+        },
+        "p": [
+          {
+            "en": "The word for shades reaches us in two readings. Al-Qurtubi gives the reading of the generality as fi zilalin, with the first letter under kasra and an alif before the last. He reports that Ibn Mas'ud (RA), 'Ubayd ibn 'Umayr, al-A'mash, Yahya, Hamza, al-Kisa'i and Khalaf read fi zulalin, with damma and no alif. Al-Baghawi names Hamza and al-Kisa'i for the second and the generality for the first. Both commentators give the morphology the same way: zilal is the plural of zill, shade, and zulal is the plural of zulla.",
+            "bn": "ছায়ার শব্দটি আমাদের কাছে এসেছে দুই কিরাআতে। কুরতুবী জানান, অধিকাংশের কিরাআত হলো 'ফী যিলালিন', প্রথম হরফে যের আর শেষ হরফের আগে আলিফ। তিনি বর্ণনা করেন, ইবন মাসঊদ (রাঃ), উবাইদ ইবন উমাইর, আ'মাশ, ইয়াহইয়া, হামযা, কিসাঈ ও খালাফ পড়েছেন 'ফী যুলালিন', পেশ দিয়ে, আলিফ ছাড়া। বাগাভী দ্বিতীয় কিরাআতের জন্য হামযা ও কিসাঈর নাম নেন, আর প্রথমটি বলেন অধিকাংশের। শব্দের গঠন দুজনেই একইভাবে ব্যাখ্যা করেন: 'যিলাল' হলো 'যিল্ল' বা ছায়ার বহুবচন, আর 'যুলাল' হলো 'যুল্লা'-র বহুবচন।"
+          },
+          {
+            "en": "At-Tabari reports both readings and opens up the first. Zulal, he says, is the plural of zulla, formed the way hulla makes hulal. If zilal is read, the word can bear two senses. It may be the plural of the word for shade in the sense of kinn, a shelter: they and their spouses are under cover, not exposed to the sun as the people of this world are, because there is no sun there. Or it may also be a plural of zulla, the way khulla makes khilal and qulla makes qilal.",
+            "bn": "তাবারী দুই কিরাআতই উল্লেখ করেন, তারপর প্রথমটির ভেতরটা খুলে দেখান। তিনি বলেন, 'যুলাল' হলো 'যুল্লা'-র বহুবচন, যেমন 'হুল্লা' থেকে 'হুলাল'। আর কেউ 'যিলাল' পড়লে শব্দটিতে দুটি অর্থের সুযোগ থাকে। এক, এটি সেই ছায়ার বহুবচন, যার মানে 'কিন্ন' বা আশ্রয়। তখন অর্থ দাঁড়ায়: তারা ও তাদের জীবনসঙ্গীরা আড়ালের ভেতরে, দুনিয়ার মানুষের মতো রোদে পোড়ে না, কারণ সেখানে কোনো সূর্যই নেই। দুই, এটিও 'যুল্লা'-রই আরেক বহুবচন, যেমন 'খুল্লা' থেকে 'খিলাল' আর 'কুল্লা' থেকে 'কিলাল'।"
+          },
+          {
+            "en": "So the two readings can meet in one word. Mujahid's own gloss, in at-Tabari's chain, is phrased with the second form: their lawful wives, fi zulal. In the text fetched for this verse, at-Tabari does not prefer one reading over the other, and nothing in the verse's teaching turns on the choice. Whether the picture is of many shades or of many sheltering coverings, it is of people kept from the heat, with something kind spread above their heads.",
+            "bn": "ফলে দুই কিরাআত একই শব্দে এসে মিলতে পারে। তাবারীর সনদে মুজাহিদের নিজের ব্যাখ্যাটিও এসেছে দ্বিতীয় রূপে: তাদের বৈধ স্ত্রীরা, 'ফী যুলাল'। এ আয়াতের জন্য যে লেখা আনা হয়েছে, তাতে তাবারী কোনো কিরাআতকে অন্যটির উপর প্রাধান্য দেননি। আয়াতের শিক্ষাও এ বাছাইয়ের উপর নির্ভর করে না। অনেক ছায়া হোক বা অনেক আচ্ছাদন, ছবিটা একই: তাপ থেকে সুরক্ষিত কিছু মানুষ, যাদের মাথার উপর মমতার মতো কিছু বিছানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shade With No Sun Above",
+          "bn": "যে ছায়ার উপরে সূর্য নেই"
+        },
+        "p": [
+          {
+            "en": "What casts the shade? Ibn Kathir glosses fi zilal directly: in the shade of trees. Al-Muyassar calls them al-zilal al-warifa, shades that spread wide. At-Tabari's explanation looks at what is absent: they are not exposed to a sun as people of this world are, for there is no sun there. The Qur'an makes a similar point with the same couches in 76:13: reclining therein on al-ara'ik, they will see there neither burning sun nor bitter cold. The two verses read well side by side.",
+            "bn": "ছায়াটা কিসের? ইবন কাসীর 'ফী যিলাল'-এর সরাসরি ব্যাখ্যা দেন: গাছের ছায়ায়। মুয়াসসার বলে 'আয-যিলালুল ওয়ারিফা', চারদিকে ছড়িয়ে থাকা ঘন ছায়া। তাবারীর ব্যাখ্যা নজর দেয় যা নেই তার দিকে: দুনিয়ার মানুষের মতো তারা রোদে পুড়বে না, কারণ সেখানে সূর্যই নেই। কুরআন ৭৬:১৩ আয়াতে একই আসনের কথা বলে কাছাকাছি কথাই বলেছে: সেখানে তারা আরাইকের উপর হেলান দিয়ে বসবে, সেখানে না দেখবে প্রখর রোদ, না কনকনে শীত। দুটি আয়াত পাশাপাশি পড়লে ভালো বোঝা যায়।"
+          },
+          {
+            "en": "None of the commentaries consulted attaches a sound hadith to this verse. A general narration on the shade of Paradise, which none of them ties to this verse, is recorded by al-Bukhari in his Sahih from Anas ibn Malik (RA): the Prophet ﷺ said, \"There is a tree in Paradise (which is so big and huge that) if a rider travels in its shade for one hundred years, he would not be able to cross it.\" It is quoted here only to show that the Sunnah, too, speaks of the Garden's shade in the language of vastness.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। জান্নাতের ছায়া নিয়ে একটি সাধারণ বর্ণনা আছে, যা তাঁদের কেউ এ আয়াতের সঙ্গে জোড়েননি। বুখারী তাঁর সহীহ গ্রন্থে আনাস ইবন মালিক (রাঃ) থেকে তা এনেছেন: নবী ﷺ বলেছেন, \"জান্নাতে এমন একটি গাছ আছে, যার ছায়ায় কোনো আরোহী একশো বছর চললেও তা পার হতে পারবে না।\" এখানে এটি আনা হলো কেবল এটুকু দেখাতে যে সুন্নাহও জান্নাতের ছায়ার কথা বলে বিশালতার ভাষায়।"
+          },
+          {
+            "en": "Shade is a gift best understood by those who have stood without it. The first hearers of the Qur'an knew a fierce midday sun, and many readers today know the same heat through a long summer. The verse does not open its scene of reward with gold or with crowds. It opens with relief: people out of the glare, beside the ones they love, sitting down at last. Before any particular pleasure is named, a burden is lifted, and the reader is invited to feel that first.",
+            "bn": "ছায়ার কদর সবচেয়ে ভালো বোঝে সে, যে ছায়া ছাড়া রোদে দাঁড়িয়েছে। কুরআনের প্রথম শ্রোতারা দুপুরের কড়া রোদ চিনতেন, আর আজকের অনেক পাঠকও লম্বা গরমের দিনে সেই তাপ চেনেন। পুরস্কারের দৃশ্য আয়াতটি সোনা বা ভিড় দিয়ে শুরু করে না। শুরু করে স্বস্তি দিয়ে: রোদের ঝাঁজ থেকে সরে আসা মানুষ, প্রিয়জনের পাশে, অবশেষে বসে পড়েছে। আলাদা করে কোনো সুখের নাম নেওয়ার আগেই একটা বোঝা নামিয়ে দেওয়া হয়। পাঠককে আগে সেটাই অনুভব করতে ডাকা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Beds Beneath a Canopy",
+          "bn": "চাঁদোয়ার নিচে পালঙ্ক"
+        },
+        "p": [
+          {
+            "en": "Al-ara'ik is the plural of arika, which al-Qurtubi compares in pattern to safina and safa'in. Ibn Kathir gathers the early explanation in a single list: Ibn 'Abbas (RA), Mujahid, 'Ikrima, Muhammad ibn Ka'b, al-Hasan, Qatada, as-Suddi and Khusayf all said that al-ara'ik are beds beneath canopies, the hijal. At-Tabari's chains show shades within that agreement. Al-Hasan, asked by a man, said they are the canopies themselves; Qatada said canopies with beds in them. At-Tabari's own definition joins the parts: canopies in which there are beds and furnishings.",
+            "bn": "'আরাইক' হলো 'আরীকা'-র বহুবচন। কুরতুবী এর গঠনকে তুলনা করেন 'সাফীনা' ও 'সাফাইন'-এর সঙ্গে। ইবন কাসীর প্রাচীন ব্যাখ্যাটি এক তালিকায় জড়ো করেছেন: ইবন আব্বাস (রাঃ), মুজাহিদ, ইকরিমা, মুহাম্মাদ ইবন কা'ব, হাসান, কাতাদা, সুদ্দী ও খুসাইফ সবাই বলেছেন, আরাইক হলো 'হিজাল' বা চাঁদোয়ার নিচে রাখা পালঙ্ক। তাবারীর সনদগুলো দেখায়, এই ঐকমত্যের ভেতরেও সূক্ষ্ম তারতম্য আছে। এক ব্যক্তির প্রশ্নের জবাবে হাসান বলেছিলেন, আরাইক হলো চাঁদোয়াগুলোই। কাতাদা বলেছেন, এমন চাঁদোয়া যার ভেতরে পালঙ্ক। তাবারীর নিজের সংজ্ঞা সব অংশ জুড়ে দেয়: এমন চাঁদোয়া, যার ভেতরে আছে পালঙ্ক ও বিছানা।"
+          },
+          {
+            "en": "At the edge of the word there is a real difference of usage. At-Tabari reports that some claimed every bed or spread is an arika, and cited a line of the poet Dhu r-Rumma for it. Al-Baghawi reports Tha'lab saying the opposite: it is not an arika until there is a canopy over it. As-Sa'di adds that the couches are adorned with beautiful, ornamented coverings. Ibn Kathir closes with a modest remark of his own: their counterpart in this world is the couches of his day set beneath canopies, and Allah knows best.",
+            "bn": "শব্দটির সীমানায় ব্যবহার নিয়ে সত্যিকারের মতভেদ আছে। তাবারী জানান, কেউ কেউ দাবি করতেন যে যেকোনো বিছানা বা শয্যাই আরীকা, আর এর পক্ষে তাঁরা কবি যুর-রুম্মার একটি পঙক্তি পেশ করতেন। বাগাভী বর্ণনা করেন সা'লাবের উল্টো কথা: মাথার উপর চাঁদোয়া না থাকলে তা আরীকা হয় না। সা'দী যোগ করেন, আসনগুলো সুন্দর, নকশাদার আবরণে সাজানো। ইবন কাসীর শেষ করেন নিজের এক বিনীত মন্তব্যে: দুনিয়ায় এর কাছাকাছি নজির হলো তাঁর যুগের চাঁদোয়ার নিচে পাতা পালঙ্ক। আর আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reclining, With Nothing Pending",
+          "bn": "হেলান দিয়ে, কোনো তাড়া ছাড়া"
+        },
+        "p": [
+          {
+            "en": "The verse ends on muttaki'un, reclining. Al-Baghawi glosses it in two words: dhawu ittika', people of reclining. As-Sa'di fills it out: they recline upon the couches with a reclining of complete rest, tranquillity and delight. The posture says what the words need not. A person leans back only when nothing is pressing, no duty is waiting at the door, and no danger is near. It is the body's way of saying that the work is finished and that the person resting is safe.",
+            "bn": "আয়াতের শেষ শব্দ 'মুত্তাকিঊন', হেলান দিয়ে বসা। বাগাভী দুই শব্দে এর ব্যাখ্যা দেন: 'যাউ ইত্তিকা', হেলান দেওয়া মানুষ। সা'দী কথাটা ভরিয়ে তোলেন: তারা আসনগুলোর উপর হেলান দেবে পরিপূর্ণ বিশ্রাম, প্রশান্তি ও আনন্দের সঙ্গে। ভঙ্গিটাই সেই কথা বলে দেয়, যা শব্দে বলার দরকার পড়ে না। মানুষ তখনই গা এলিয়ে দেয়, যখন কোনো তাড়া নেই, দরজায় কোনো দায়িত্ব অপেক্ষা করছে না, কাছে কোনো বিপদও নেই। কাজ শেষ, আর যে বিশ্রাম নিচ্ছে সে নিরাপদ, শরীর এভাবেই তা জানিয়ে দেয়।"
+          },
+          {
+            "en": "Set this beside the verses just before it. In 36:51 the Horn is blown and people hasten from their graves to their Lord; in 36:53 one cry, and all are brought present. The passage has been full of motion and summons. Then, for the people of the Garden, the motion stops, and they are leaning back in shade. Most of us rarely rest here without something still on the mind. For a believer who is tired now, that promised stillness is not an escape from effort but its horizon.",
+            "bn": "আয়াতটিকে ঠিক আগের আয়াতগুলোর পাশে রাখুন। ৩৬:৫১ আয়াতে শিঙ্গায় ফুঁ দেওয়া হয়, আর মানুষ কবর থেকে রবের দিকে ছুটে আসে। ৩৬:৫৩ আয়াতে একটিমাত্র আওয়াজ, আর সবাইকে হাজির করা হয়। গোটা অংশটা জুড়ে ছিল ছোটাছুটি আর তলব। তারপর জান্নাতবাসীদের বেলায় সেই ছোটাছুটি থেমে যায়, তারা ছায়ায় হেলান দিয়ে বসে। এ দুনিয়ায় আমরা কদাচিৎ এমন বিশ্রাম পাই, যখন মনে কোনো চিন্তা ঝুলে নেই। আজ যে মুমিন ক্লান্ত, প্রতিশ্রুত সেই স্থিরতা তার জন্য পরিশ্রম থেকে পালানো নয়, বরং পরিশ্রমেরই গন্তব্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hope Held by Two",
+          "bn": "দুজনে মিলে এক আশা"
+        },
+        "p": [
+          {
+            "en": "The lesson of the verse is hope, and it is hope with a footing. The scene comes straight after the declaration of 36:54 that no soul will be wronged and each will be repaid for what it did. The shade and the couches are the reward side of that justice. So the verse does not invite a believer to dream idly. It invites them to work toward a promise that has been stated plainly, and to expect from a Lord who keeps His word.",
+            "bn": "আয়াতের শিক্ষা আশা, আর সে আশার পায়ের নিচে মাটি আছে। দৃশ্যটি এসেছে ৩৬:৫৪ আয়াতের ঘোষণার ঠিক পরে: কারও উপর জুলুম হবে না, প্রত্যেকে নিজের কাজেরই প্রতিফল পাবে। ছায়া আর আসন সেই ন্যায়বিচারের পুরস্কারের দিক। তাই আয়াতটি মুমিনকে অলস স্বপ্ন দেখতে ডাকে না। ডাকে স্পষ্ট ভাষায় দেওয়া একটি প্রতিশ্রুতির দিকে কাজ করে এগোতে, আর এমন রবের কাছে আশা রাখতে, যিনি কথা রাখেন।"
+          },
+          {
+            "en": "The hope can also be shared. In 25:74 the servants of the Most Merciful pray: our Lord, grant us from our spouses and offspring comfort to our eyes. A couple who make that prayer are reaching toward this scene, and they can help each other toward it in ordinary ways: rising for prayer, holding the tongue in anger, forgiving quickly. Each still answers for their own deeds, yet neither need walk alone. The fruit of 36:57 and the greeting of peace in 36:58 belong to their own pages.",
+            "bn": "এ আশা ভাগ করেও নেওয়া যায়। ২৫:৭৪ আয়াতে দয়াময়ের বান্দারা দোয়া করে: হে আমাদের রব, আমাদের স্বামী-স্ত্রী ও সন্তানদের মধ্য থেকে আমাদের চোখের শীতলতা দান করুন। যে দম্পতি এ দোয়া করে, তারা আসলে এই দৃশ্যের দিকেই হাত বাড়ায়। সাধারণ কাজেই তারা একে অন্যকে সেদিকে এগিয়ে দিতে পারে: নামাজে ওঠা, রাগের সময় জিভ সামলানো, তাড়াতাড়ি মাফ করে দেওয়া। প্রত্যেকে তবু নিজের আমলের জবাব নিজেই দেবে, কিন্তু কাউকে একা হাঁটতে হবে না। ৩৬:৫৭ আয়াতের ফলমূল আর ৩৬:৫৮ আয়াতের সালাম, সেগুলোর কথা তাদের নিজেদের পাতায়।"
+          }
+        ]
+      }
+    ]
+  },
   "36:60": {
     "sections": [
       {

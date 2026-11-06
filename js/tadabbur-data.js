@@ -25629,6 +25629,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are doubted for carrying the truth, rest on your Lord's knowledge rather than the crowd's approval, and keep delivering it clearly.",
     "lessonBn": "সত্য বহন করার জন্য যখন লোকে আপনাকে সন্দেহ করে, তখন ভিড়ের সম্মতির বদলে আপনার রবের জানার উপর ভরসা রাখুন, আর স্পষ্ট করে পৌঁছে দিতে থাকুন।"
+  },
+  "36:56": {
+    "reflectionEn": "The verse before says the people of Paradise are busy in joy. This one tells us they are not alone in it: they and their spouses, in shade, reclining on couches. Nothing in the picture is hurried. After the long running of that Day, the rising from the graves and the standing for account, the first scene of reward is people resting together where no sun can scorch them. Elsewhere the Qur'an speaks of the righteous among a believer's spouses entering the Garden with them. So a marriage can be a road that leads somewhere. What I build with the one beside me now, the patience, the prayers, the forgiving, may be what we sit down to together in that shade.",
+    "reflectionBn": "আগের আয়াত বলেছে, জান্নাতবাসীরা আনন্দে মশগুল। এ আয়াত জানায়, সেই আনন্দে তারা একা নয়। তারা আর তাদের সঙ্গী-সঙ্গিনীরা থাকবে ছায়ায়, হেলান দিয়ে বসবে আসনে। ছবিটার কোথাও তাড়াহুড়ো নেই। সেদিনের দীর্ঘ ছোটাছুটির পর, কবর থেকে ওঠা আর হিসাবের জন্য দাঁড়ানোর পর, পুরস্কারের প্রথম দৃশ্য হলো একসঙ্গে বিশ্রাম, যেখানে কোনো রোদ পোড়াবে না। কুরআন অন্য জায়গায় বলেছে, মুমিনের স্বামী-স্ত্রীর মধ্যে যারা নেককার, তারাও তার সঙ্গে জান্নাতে ঢুকবে। তাহলে দাম্পত্য এমন এক পথ হতে পারে, যা কোথাও গিয়ে পৌঁছায়। পাশের মানুষটির সঙ্গে আজ যা গড়ছি, ধৈর্য, দোয়া, মাফ করে দেওয়া, হয়তো সেটাই একদিন সেই ছায়ায় দুজনে বসে ফিরে পাব।",
+    "pointsEn": [
+      "If that shade were promised to me and the person closest to me together, what would I change in how I treat them this week?",
+      "Do I pray for my spouse's place in Paradise as earnestly as I pray for my own?",
+      "Is my home a place where faith is helped or hindered, and what one thing would make it more of a help?",
+      "What in my days is rushed and anxious that I could hand to Allah in hope that He turns it, one day, into rest?",
+      "When I picture reward, do I picture it alone, or with the people I love who also love Allah?"
+    ],
+    "pointsBn": [
+      "সেই ছায়া যদি আমার আর আমার সবচেয়ে কাছের মানুষটির জন্য একসঙ্গে প্রতিশ্রুত হয়, তবে এ সপ্তাহে তার সঙ্গে আমার আচরণে কী বদলাব?",
+      "নিজের জান্নাতের জন্য যতটা আন্তরিকভাবে দোয়া করি, জীবনসঙ্গীর জান্নাতের জন্যও কি ততটাই করি?",
+      "আমার ঘর কি ঈমানকে এগিয়ে দেয়, নাকি পিছিয়ে দেয়? কোন একটা জিনিস বদলালে ঘরটা ঈমানের আরও সহায় হতো?",
+      "আমার দিনগুলোর কোন তাড়াহুড়ো আর দুশ্চিন্তা আমি আল্লাহর হাতে সঁপে দিতে পারি, এই আশায় যে একদিন তিনি তাকে বিশ্রামে বদলে দেবেন?",
+      "পুরস্কারের কথা ভাবলে আমি কি নিজেকে একা কল্পনা করি, নাকি সেই প্রিয় মানুষদের সঙ্গে, যারা আল্লাহকেও ভালোবাসে?"
+    ],
+    "lessonEn": "Paradise is pictured as rest shared with one's spouse. Help the one beside you toward Allah, so that your companionship here may continue there, in the shade of the Garden.",
+    "lessonBn": "জান্নাতের ছবি আঁকা হয়েছে জীবনসঙ্গীর সঙ্গে ভাগ করে নেওয়া বিশ্রাম হিসেবে। পাশের মানুষটিকে আল্লাহর দিকে এগিয়ে দিন, যেন এখানকার সাহচর্য সেখানেও, জান্নাতের ছায়ায়, অটুট থাকে।"
   }
 };
 
