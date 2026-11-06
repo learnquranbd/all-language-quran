@@ -451,6 +451,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "56:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Forerunners Sit",
+          "bn": "অগ্রবর্তীদের বসার জায়গা"
+        },
+        "p": [
+          {
+            "en": "Surah al-Waqi'ah has named the forerunners and called them those brought near (56:10 and 56:11). It has placed them in the Gardens of Bliss (56:12) and counted them: a large company from the earlier ones, and a few from the later (56:13 and 56:14). Then comes this verse, three Arabic words: 'ala sururin mawdunah, on couches mawdunah. Al-Qurtubi supplies the subject that the verse leaves unspoken. The forerunners, in the Garden, are on couches; their sitting places are couches. The first thing the surah tells of their reward is where they sit.",
+            "bn": "সূরা ওয়াকিয়া অগ্রবর্তীদের নাম নিয়েছে এবং তাদের বলেছে নৈকট্যপ্রাপ্ত (৫৬:১০ ও ৫৬:১১)। তাদের রেখেছে নিয়ামতে ভরা জান্নাতে (৫৬:১২), আর তাদের হিসাবও দিয়েছে: পূর্ববর্তীদের মধ্য থেকে বড় একটি দল, পরবর্তীদের মধ্য থেকে অল্প কয়েকজন (৫৬:১৩ ও ৫৬:১৪)। তারপর এই আয়াত, আরবিতে মাত্র তিনটি শব্দ: আলা সুরুরিম মাওদূনা, মাওদূনা আসনের উপর। আয়াতে কর্তার নাম নেই, কুরতুবী সেটা জুড়ে দেন। জান্নাতে অগ্রবর্তীরা থাকবে আসনের উপর, আসনগুলোই তাদের বসার জায়গা। প্রতিদানের কথা শুরুই হয় তারা কোথায় বসবে তা দিয়ে।"
+          },
+          {
+            "en": "The Muyassar reads 56:13 to 56:16 as one sentence. A large company from the first part of this nation and from other nations, with a few from its last part, enter the Gardens on couches woven with gold, reclining on them and facing one another. The list then goes on with youths, cups, fruit and fowl (56:17 to 56:21), and in 56:24 it is called a reward for what they used to do. The word sururin is taken up at 52:20, and the reclining belongs to the next verse; this article stays with the single adjective, mawdunah.",
+            "bn": "মুয়াসসার ৫৬:১৩ থেকে ৫৬:১৬ পর্যন্ত আয়াতগুলোকে এক বাক্যে পড়ে। এই উম্মতের প্রথম দিকের এবং অন্য উম্মতগুলোর বড় একটি দল, আর এই উম্মতের শেষ দিকের অল্প কয়েকজন জান্নাতে ঢুকবে। তারা থাকবে সোনায় বোনা আসনে, তাতে হেলান দিয়ে, একে অন্যের মুখোমুখি। এরপর তালিকা এগিয়ে চলে কিশোর সেবক, পানপাত্র, ফল আর পাখির গোশতের দিকে (৫৬:১৭ থেকে ৫৬:২১)। আর ৫৬:২৪ আয়াতে এসবকে বলা হয় তাদের আমলের প্রতিদান। সুরুর শব্দের আলোচনা এসেছে ৫২:২০ আয়াতে, আর হেলান দিয়ে বসার কথা পরের আয়াতের। এ লেখা থাকবে একটিমাত্র বিশেষণ নিয়ে: মাওদূনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Strand Laid Over Strand",
+          "bn": "সুতোর উপর সুতো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with his own gloss: on top of couches that are woven, manshujah, with some of the work passed into the rest, the way the rings of a coat of mail are set one over another, doubled. Al-Baghawi says nearly the same in fewer words: woven, as the rings of mail are woven so that one enters into another. Neither is picturing a flat cloth. Both describe a close, interlocking work, layer passed through layer, the kind that lets armour hold under a blow.",
+            "bn": "তাবারী শুরু করেন নিজের ব্যাখ্যা দিয়ে: এমন আসনের উপর, যা বোনা, মানসূজা। বুননের এক অংশ ঢুকে গেছে আরেক অংশের ভেতরে, ঠিক যেভাবে বর্মের কড়াগুলো একটার উপর আরেকটা বসিয়ে দ্বিগুণ করে জোড়া হয়। বাগাভী কম কথায় প্রায় একই কথা বলেন: বোনা, যেমন বর্মের কড়া বোনা হয় আর একটা আরেকটার ভেতরে ঢুকে যায়। দুজনের কেউই সমতল কাপড়ের ছবি আঁকছেন না। দুজনই বর্ণনা করছেন ঘন, একটার ভেতর আরেকটা গাঁথা কাজ। এমন বুনন বলেই আঘাতের মুখেও বর্ম টিকে থাকে।"
+          },
+          {
+            "en": "Al-Qurtubi defines the root. Al-wadn, he says, is doubled weaving and stacking, an-nadd. He gives an everyday use: it is said that a man wadana stone and baked brick, one piece over another, and what he built is mawdun. A coat of mail mawdunah is one firmly made in its weave. A couch mawdun, he concludes, is one whose surface is like something woven. The word therefore carries two ideas together: pieces laid over one another, and the strength that such layering gives.",
+            "bn": "কুরতুবী ধাতুটির সংজ্ঞা দেন। তাঁর ভাষায় ওয়াদন মানে দ্বিগুণ বুনন আর থরে থরে সাজানো, যাকে বলে নাদ্দ। প্রতিদিনের ভাষা থেকে উদাহরণও দেন। বলা হয়, অমুক পাথর আর পোড়া ইট একটার উপর আরেকটা ওয়াদানা করেছে, অর্থাৎ থরে থরে বসিয়েছে, আর তার গাঁথা জিনিসটা মাওদূন। মাওদূনা বর্ম হলো যার বুনন মজবুত। আর মাওদূন আসন, তাঁর উপসংহারে, যার উপরিভাগ বোনা জিনিসের মতো। শব্দটির ভেতরে তাই দুটি ধারণা একসঙ্গে আছে। একটার উপর আরেকটা রাখা, আর সেভাবে রাখার ফলে যে মজবুতি আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Of the Weaving of Dawud",
+          "bn": "দাউদের বুনন"
+        },
+        "p": [
+          {
+            "en": "To show the word in use, at-Tabari quotes the poet al-A'sha, and al-Qurtubi quotes the same line: wa-min nasji Dawuda mawdunatan, tusaqu ma'a l-hayyi 'iran fa-'ira. Of Dawud's weaving, close-woven, carried along with the tribe, caravan after caravan. The poet is describing coats of mail carried along with the tribe. He calls fine mail the weaving of Dawud, and the adjective he picks for it is mawdunah. Al-Qurtubi then adds a second line by the same poet in which the word appears again.",
+            "bn": "শব্দটি কীভাবে ব্যবহৃত হতো তা দেখাতে তাবারী কবি আ'শার একটি চরণ উদ্ধৃত করেন, কুরতুবীও একই চরণ আনেন: ওয়া মিন নাসজি দাউদা মাওদূনাতান, তুসাকু মাআল হাইয়ি ইরান ফাইরা। অর্থাৎ দাউদের বুননের ঘন গাঁথা বর্ম, গোত্রের সঙ্গে বয়ে নেওয়া হচ্ছে কাফেলার পর কাফেলায়। কবি বলছেন গোত্রের সঙ্গে বয়ে নেওয়া বর্মের কথা। উৎকৃষ্ট বর্মকে তিনি বলেন দাউদের বুনন, আর তার বিশেষণ হিসেবে বেছে নেন মাওদূনা শব্দটিই। কুরতুবী এরপর একই কবির আরেকটি চরণ আনেন, যেখানে শব্দটি আবার এসেছে।"
+          },
+          {
+            "en": "The poet's phrase names Dawud, and the Qur'an too ties the making of mail to him. Allah says He taught Dawud (AS) the making of garments for people, to guard them in their battles (21:80). He softened iron for him and told him to make full coats and to measure the links (34:10 and 34:11). Al-A'sha's line shows that, to an Arab ear, mawdunah called up exactly this craft: rings passed through rings, doubled and closely fitted. That is the craft the commentators reach for when they explain the couches of the forerunners.",
+            "bn": "কবির কথায় দাউদের নাম আছে, আর কুরআনও বর্ম তৈরির কাজকে তাঁর সঙ্গেই জুড়েছে। আল্লাহ বলেন, তিনি দাউদ (আঃ)-কে মানুষের জন্য পোশাক বানানো শিখিয়েছিলেন, যাতে যুদ্ধে তা তাদের রক্ষা করে (২১:৮০)। তাঁর জন্য লোহা নরম করে দিয়েছিলেন, আর বলেছিলেন পূর্ণ বর্ম বানাতে ও কড়াগুলো মেপে জুড়তে (৩৪:১০ ও ৩৪:১১)। আ'শার চরণ দেখায়, আরবের কানে মাওদূনা শুনলে ঠিক এই কারিগরির ছবিই ভেসে উঠত। কড়ার ভেতর কড়া, দ্বিগুণ করে, আঁটসাঁট করে বসানো। অগ্রবর্তীদের আসনের ব্যাখ্যায় তাফসীরকারেরা এই কারিগরিই টেনে আনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Girth Strap and Laid Brick",
+          "bn": "উটের পেটি আর গাঁথা ইট"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's second witness comes from the saddle. The wadin of a she-camel is her girth strap, a band of leather thongs woven one upon another and doubled, like the rings of mail. Wadin, he notes, stands for mawdun: the pattern fa'il is used in place of maf'ul, just as qatil, slain, is said for maqtul. Al-Qurtubi gives the same derivation and quotes a half-line about a camel: ilayka ta'du qaliqan wadinuha, towards you she runs, her girth strap shaking.",
+            "bn": "তাবারীর দ্বিতীয় সাক্ষী আসে উটের সাজ থেকে। উটনীর ওয়াদীন হলো তার পেটের নিচের বাঁধন, চামড়ার ফিতা একটার উপর আরেকটা বুনে দ্বিগুণ করা, ঠিক বর্মের কড়ার মতো। তাবারী বলেন, ওয়াদীন আসলে মাওদূন অর্থেই। ফাঈল ওজনটা এখানে মাফঊলের জায়গায় বসেছে, যেমন মাকতূল অর্থে বলা হয় কাতীল, নিহত। কুরতুবীও একই ব্যুৎপত্তি দেন, আর উট নিয়ে আধখানা একটি চরণ আনেন: ইলাইকা তা'দূ কালিকান ওয়াদীনুহা, তোমার দিকে সে ছুটে আসে, তার পেটের বাঁধন দুলতে থাকে।"
+          },
+          {
+            "en": "In Ibn Kathir's summary of Ibn Jarir, that is at-Tabari, the camel's strap is braided, madfur, and the summary goes on: so too the couches in the Garden are braided with gold and pearls. At-Tabari adds a usage he reports as heard from some Arabs: the courses of baked brick are mawdun one upon another, meaning set close, in rows. Armour, strap and brickwork are different things, but each is made strong by pieces laid against each other, and that shared picture matters for the difference that follows.",
+            "bn": "ইবন কাসীর ইবন জারীর, অর্থাৎ তাবারীর বক্তব্যের যে সারকথা আনেন, তাতে উটের বাঁধনকে বলা হয়েছে মাদফূর, বেণির মতো পাকানো। সারকথা এগিয়ে বলে, জান্নাতের আসনগুলোও তেমনি সোনা আর মুক্তা দিয়ে পাকিয়ে বোনা। তাবারী আরও একটি ব্যবহার আনেন, যা তাঁর ভাষ্যমতে কিছু আরবের মুখে শোনা গেছে। পোড়া ইটের সারি একটার উপর আরেকটা মাওদূন, মানে ঘন করে সারি বেঁধে বসানো। বর্ম, বাঁধন আর ইটের গাঁথনি আলাদা জিনিস। তবু প্রতিটিই মজবুত হয় একটার গায়ে আরেকটা টুকরো বসিয়ে। সামনের মতভেদ বুঝতে এই অভিন্ন ছবিটা কাজে লাগবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Threaded With Gold and Gems",
+          "bn": "সোনা আর রত্নে গাঁথা"
+        },
+        "p": [
+          {
+            "en": "The gloss reported most widely is marmulah bi-dh-dhahab, woven with gold. At-Tabari gives it from Ibn 'Abbas through Mujahid, and from Mujahid himself by several chains. Ibn Kathir names Ibn 'Abbas and adds that Mujahid, 'Ikrimah, Sa'id ibn Jubayr, Zayd ibn Aslam, Qatadah, ad-Dahhak and others said the same. Ma'arif al-Qur'an reports the gloss from Ibn 'Abbas, cloth woven or worked with gold thread, as recorded by Ibn Jarir, Ibn Abi Hatim, al-Bayhaqi and others. The Muyassar gives this reading and no other.",
+            "bn": "সবচেয়ে বেশি বর্ণিত ব্যাখ্যাটি হলো মারমূলা বিয্‌যাহাব, সোনা দিয়ে বোনা। তাবারী এটি আনেন মুজাহিদের সূত্রে ইবন আব্বাস (রাঃ) থেকে, আবার একাধিক সনদে মুজাহিদের নিজের কথা হিসেবেও। ইবন কাসীর ইবন আব্বাস (রাঃ)-এর নাম নিয়ে জানান, মুজাহিদ, ইকরিমা, সাঈদ ইবন জুবায়র, যায়দ ইবন আসলাম, কাতাদা, দাহহাক এবং আরও অনেকে একই কথা বলেছেন। মাআরিফুল কুরআন ইবন আব্বাস (রাঃ)-এর ব্যাখ্যাটি আনে এভাবে: সোনার সুতোয় বোনা বা কারুকাজ করা কাপড়। সঙ্গে জানায়, ইবন জারীর, ইবন আবী হাতিম, বায়হাকী প্রমুখ তা বর্ণনা করেছেন। মুয়াসসার শুধু এই ব্যাখ্যাটিই দেয়, অন্য কোনোটি নয়।"
+          },
+          {
+            "en": "Others set stones into the gold. 'Ikrimah, in at-Tabari's chain, says mushabbakah, latticed with pearl and ruby. As-Suddi, in Ibn Kathir, says woven with gold and pearl. Al-Qurtubi gathers what he calls the account in the commentaries: woven with rods of gold, latticed with pearl, ruby and zabarjad. Ma'mar, in at-Tabari, says woven and latticed. Ibn Zayd names a plainer material: woven with leather, like the camel's strap. And ad-Dahhak, in at-Tabari's chain, defines al-wadn as latticing and weaving: the middle of the couch is latticed and woven.",
+            "bn": "কেউ কেউ সোনার সঙ্গে পাথরও বসিয়েছেন। তাবারীর সনদে ইকরিমা বলেন মুশাব্বাকা, মুক্তা আর ইয়াকূত দিয়ে জালির মতো গাঁথা। ইবন কাসীরের বর্ণনায় সুদ্দী বলেন, সোনা আর মুক্তা দিয়ে বোনা। কুরতুবী তাফসীরের কিতাবগুলোতে যা আছে তা একত্র করেন: সোনার শলাকা দিয়ে বোনা, মুক্তা, ইয়াকূত আর যাবারজাদ দিয়ে জালির মতো গাঁথা। তাবারীর বর্ণনায় মা'মার বলেন, জালির মতো বোনা। ইবন যায়দ সাদামাটা উপাদানের কথা বলেন: চামড়া দিয়ে বোনা, উটের পেটির মতো। আর তাবারীর সনদে দাহহাক ওয়াদনের সংজ্ঞা দেন জালি করা ও বোনা বলে। আসনের মাঝখানটা জালির মতো বোনা।"
+          },
+          {
+            "en": "Qatadah, in at-Tabari, adds a word that is about comfort more than ornament. The mawdunah, he says, are the woven ones, and they are awthar as-surur, the softest and most cushioned of couches. The commentators' pictures are of gold and gems that catch the eye, and Qatadah's remark reminds the reader that the couch is also a place to rest. Those who hurried in this world, and often gave up rest for the sake of good, are seated there on what Qatadah calls the softest of couches.",
+            "bn": "তাবারীর বর্ণনায় কাতাদা এমন একটি কথা যোগ করেন, যা সাজের চেয়ে আরামের বিষয়ে বেশি। তিনি বলেন, মাওদূনা মানে বোনা আসন, আর সেগুলো আওসারুস সুরুর, অর্থাৎ সবচেয়ে নরম ও আরামদায়ক আসন। তাফসীরকারদের আঁকা ছবিতে আছে সোনা আর রত্নের ঝলক, যা চোখ টানে। কাতাদার কথা মনে করিয়ে দেয়, আসন বিশ্রামেরও জায়গা। দুনিয়ায় যারা ভালো কাজে তাড়াহুড়া করেছে, নেকির জন্য প্রায়ই নিজের আরাম ছেড়ে দিয়েছে, সেখানে তারা বসবে এমন আসনে, যাকে কাতাদা বলেন সবচেয়ে নরম আসন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Woven, or Set in Rows",
+          "bn": "বোনা, নাকি সারিবদ্ধ"
+        },
+        "p": [
+          {
+            "en": "One report goes another way. At-Tabari introduces it with the words others said: the meaning is masfufah, set in rows, and he gives it from Ibn 'Abbas through 'Ali. Al-Qurtubi also reports from Ibn 'Abbas that mawdunah means masfufah, and links it to another verse of the Qur'an: on couches set in rows (52:20). So two glosses come down from Ibn 'Abbas, woven with gold and set in rows, and the commentators record both of them.",
+            "bn": "একটি বর্ণনা ভিন্ন দিকে যায়। তাবারী সেটি আনেন 'অন্যরা বলেছেন' কথাটি দিয়ে: এর অর্থ মাসফূফা, সারি করে সাজানো। এটি তিনি আনেন আলীর সূত্রে ইবন আব্বাস (রাঃ) থেকে। কুরতুবীও ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন যে মাওদূনা মানে মাসফূফা, আর কুরআনের আরেকটি আয়াতের সঙ্গে তা মিলিয়ে দেখান: সারিবদ্ধ আসনের উপর (৫২:২০)। ফলে ইবন আব্বাস (রাঃ) থেকে দুটি ব্যাখ্যা এসেছে। একটি সোনায় বোনা, অন্যটি সারিবদ্ধ। তাফসীরকারেরা দুটিই লিপিবদ্ধ করেছেন।"
+          },
+          {
+            "en": "The reports about ad-Dahhak differ too. At-Tabari's chain gives him the weaving reading quoted above. Al-Baghawi, after his gloss of woven mail and the commentators' gold and gems, names ad-Dahhak for masfufah. At-Tabari's own opening gloss is the weaving, and he places the row reading under others said. This article reports both readings, as the commentators themselves do, and does not choose between them.",
+            "bn": "দাহহাকের বর্ণনাতেও পার্থক্য আছে। তাবারীর সনদে তাঁর মুখে এসেছে বুননের ব্যাখ্যা, যা উপরে বলা হলো। বাগাভী বর্মের মতো বোনা বলার পর এবং তাফসীরকারদের সোনা আর রত্নের কথা আনার পর দাহহাকের নামে আনেন মাসফূফা অর্থটি। তাবারী নিজে যে ব্যাখ্যা দিয়ে শুরু করেন তা বুননের, আর সারির ব্যাখ্যাটি রাখেন 'অন্যরা বলেছেন' শিরোনামে। এ প্রবন্ধ দুটি ব্যাখ্যাই উল্লেখ করছে, যেমন তাফসীরকারেরা করেছেন। কোনোটিকে বেছে নিচ্ছে না।"
+          },
+          {
+            "en": "The root makes room for both. Al-Qurtubi's own examples include stone and brick laid one over another, and he says a coat of mail mawdunah is firmly made in its weave, like something masfufah. At-Tabari's brick, heard from the Arabs, is set close and in rows. Weaving lays strands over each other, and a row sets seats beside each other. In both pictures things are put in order and joined closely, and neither picture is loose or careless.",
+            "bn": "ধাতুটির ভেতরে দুটির জন্যই জায়গা আছে। কুরতুবীর নিজের উদাহরণেই আছে একটার উপর আরেকটা গাঁথা পাথর ও ইট। তিনি বলেন, মাওদূনা বর্ম মানে মজবুত করে বোনা বর্ম, মাসফূফার মতো। তাবারী আরবদের মুখে শোনা যে ইটের কথা আনেন, তাও ঘন করে সারি বেঁধে বসানো। বুননে সুতো পড়ে সুতোর উপর, আর সারিতে আসন বসে আসনের পাশে। দুই ছবিতেই সবকিছু সাজানো আর আঁটসাঁট করে জোড়া। কোনোটিতেই ঢিলেঢালা বা অগোছালো কিছু নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Adornment Only He Knows",
+          "bn": "যে সাজ কেবল তিনিই জানেন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's gloss is the widest of all. The couches are woven with gold and silver, pearl and gem, and other adornments that none knows but Allah. He names the materials people know and then says plainly that the full adornment lies beyond them. The commentators reach for gold, pearl and ruby because those were the finest things their hearers had seen. The verse itself names no material at all, and as-Sa'di's last clause keeps that silence in view.",
+            "bn": "সা'দীর ব্যাখ্যা সবচেয়ে বিস্তৃত। আসনগুলো বোনা সোনা ও রুপা, মুক্তা ও রত্ন দিয়ে, আরও এমন সব সাজ দিয়ে যা আল্লাহ ছাড়া কেউ জানে না। মানুষের চেনা উপাদানগুলোর নাম তিনি নেন, তারপর সোজাসুজি বলে দেন, পুরো সাজ সেসবের বাইরে। তাফসীরকারেরা সোনা, মুক্তা আর ইয়াকূতের কথা আনেন, কারণ শ্রোতারা এর চেয়ে দামি কিছু দেখেনি। আয়াত নিজে কোনো উপাদানের নামই নেয়নি, আর সা'দীর শেষ কথাটি সেই নীরবতাকে চোখের সামনে রাখে।"
+          },
+          {
+            "en": "None of the commentaries consulted attaches a hadith to this verse. A general narration, not tied to 56:15, matches as-Sa'di's last words. In Sahih al-Bukhari (3244), Abu Hurayrah reports that the Messenger of Allah ﷺ said: Allah said, I have prepared for My righteous servants what no eye has seen, no ear has heard, and has never occurred to a human heart. Then recite, if you wish: no soul knows what has been hidden for them of the comfort of eyes (32:17).",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ হাদীস, যা ৫৬:১৫ আয়াতের সঙ্গে সম্পৃক্ত নয়, সা'দীর শেষ কথার সঙ্গে মিলে যায়। সহীহ বুখারীতে (৩২৪৪) আবূ হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আল্লাহ বলেন, আমি আমার নেক বান্দাদের জন্য এমন জিনিস প্রস্তুত রেখেছি যা কোনো চোখ দেখেনি, কোনো কান শোনেনি, কোনো মানুষের মনে কল্পনাও জাগেনি। চাইলে পড়ো: কেউ জানে না তাদের জন্য চোখজুড়ানো কী লুকিয়ে রাখা হয়েছে (৩২:১৭)।"
+          },
+          {
+            "en": "Seen this way, the gold and gems of the commentaries are a floor and not a ceiling. They tell the listener that the seat is at least as fine as the finest thing he has ever seen, and as-Sa'di and the hadith add that it is finer than he can picture. Hope does not need the details. It needs only to trust Him who prepared the seat, and to keep walking, however slowly, towards the place where it waits.",
+            "bn": "এভাবে দেখলে তাফসীরের সোনা আর রত্ন হলো সর্বনিম্ন সীমা, সর্বোচ্চ নয়। শ্রোতাকে তা জানায়, আসনটি অন্তত তার দেখা সবচেয়ে সুন্দর জিনিসের মতো সুন্দর। আর সা'দীর কথা ও হাদীস যোগ করে, তা তার কল্পনার চেয়েও সুন্দর। আশার জন্য খুঁটিনাটি জানা জরুরি নয়। জরুরি শুধু যিনি আসনটি প্রস্তুত করেছেন তাঁর উপর ভরসা রাখা, আর ধীরে হলেও সেই জায়গার দিকে হাঁটতে থাকা, যেখানে আসনটি অপেক্ষা করছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Seat Is Still Being Earned",
+          "bn": "আসনটি এখনো অর্জনের সুযোগ আছে"
+        },
+        "p": [
+          {
+            "en": "The couches are set for the forerunners, and the surah names them by one quality: they went ahead. In 56:24 the whole list of their blessings is called a reward for what they used to do. The reward is pictured, and the path to it is named in the same breath. The picture is therefore more than a prize to admire from a distance. It is an invitation, set before people who are still alive and still able to go ahead.",
+            "bn": "আসনগুলো রাখা হয়েছে অগ্রবর্তীদের জন্য, আর সূরা তাদের চিনিয়েছে একটিমাত্র গুণে: তারা এগিয়ে গিয়েছিল। ৫৬:২৪ আয়াতে তাদের নিয়ামতের পুরো তালিকাকে বলা হয়েছে তারা যা করত তার প্রতিদান। প্রতিদানের ছবি আঁকা হয়েছে, আর একই সঙ্গে সেখানে পৌঁছার পথের নামও বলা হয়েছে। তাই এ ছবি দূর থেকে মুগ্ধ হয়ে দেখার মতো কোনো পুরস্কার মাত্র নয়। এ এক দাওয়াত, যা রাখা হয়েছে এমন মানুষদের সামনে, যারা এখনো বেঁচে আছে, এখনো এগিয়ে যাওয়ার সুযোগ যাদের হাতে।"
+          },
+          {
+            "en": "The count in 56:14 leaves a door open: a few from the later ones. Ibn Kathir, in his comment on these verses, reports a difference over who the earlier and the later are, either earlier nations and this one, or the earlier and later generations of this nation. On either reading, the later have a place among the forerunners. Whoever reads the verse today is among the later, and the verse does not shut them out.",
+            "bn": "৫৬:১৪ আয়াতের হিসাব একটি দরজা খোলা রাখে: পরবর্তীদের মধ্য থেকে অল্প কয়েকজন। ইবন কাসীর এ আয়াতগুলোর আলোচনায় একটি মতভেদ উল্লেখ করেন, পূর্ববর্তী আর পরবর্তী বলতে কাদের বোঝানো হয়েছে। এক মতে আগের উম্মতগুলো আর এই উম্মত। অন্য মতে এই উম্মতেরই আগের ও পরের প্রজন্ম। যে মতই ধরা হোক, পরবর্তীদের জন্যও অগ্রবর্তীদের মাঝে জায়গা আছে। আজ যিনি আয়াতটি পড়ছেন, তিনি পরবর্তীদেরই একজন, আর আয়াত তাঁকে বাইরে রাখেনি।"
+          },
+          {
+            "en": "A reflection, offered as a reflection and not as a reading of the word: every picture the commentators use for mawdunah is of something made strong by many small pieces laid together, rings in mail, thongs in a strap, bricks in a course. Hurrying towards good is seldom one great leap. It is the prayer prayed on time today, the kindness not put off, the repentance made tonight rather than next year. The forerunners did not wait for a better day, and with Allah's help neither need we.",
+            "bn": "শব্দের ব্যাখ্যা হিসেবে নয়, নিছক ভাবনা হিসেবে একটি কথা বলা যায়। মাওদূনা বোঝাতে তাফসীরকারেরা যত ছবি এনেছেন, সবই এমন জিনিসের, যা মজবুত হয় অনেক ছোট টুকরো পাশাপাশি গেঁথে। বর্মে কড়া, বাঁধনে ফিতা, গাঁথনিতে ইট। ভালো কাজে এগিয়ে যাওয়াও সাধারণত এক লাফে হয় না। আজকের নামাজটা সময়মতো পড়া, সদাচরণটা পিছিয়ে না রাখা, তওবাটা আগামী বছরের জন্য তুলে না রেখে আজ রাতেই করে ফেলা। অগ্রবর্তীরা ভালো দিনের অপেক্ষায় বসে থাকেনি। আল্লাহর সাহায্যে আমাদেরও বসে থাকার দরকার নেই।"
+          }
+        ]
+      }
+    ]
+  },
   "56:17": {
     "sections": [
       {

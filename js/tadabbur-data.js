@@ -27989,6 +27989,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah names the people of the right and magnifies their standing; spend your days on deeds that would place you among them, and leave the sorting of others to Him.",
     "lessonBn": "আল্লাহ ডান দিকের দলের নাম নিয়ে তাদের মর্যাদাকে বড় করে তুলে ধরেন; এমন আমলে দিন কাটান যা আপনাকে তাদের দলে রাখবে, আর অন্যদের ভাগ করার কাজ তাঁর হাতেই ছেড়ে দিন।"
+  },
+  "56:15": {
+    "reflectionEn": "The forerunners have just been named, a crowd from the earlier ones and a few from the later. The first thing the surah tells of their reward is where they sit: on couches mawdunah. The commentators explain the word as woven, strand laid over strand, the way links of mail are doubled, and most say the weave is of gold, with pearls and gems set in it. What strikes me is that those seated here are the ones who hurried. They did not wait for a better moment to do good. The verse does not close the list; a few from the later generations are still to come. What good am I putting off today that I could hurry towards now?",
+    "reflectionBn": "অগ্রবর্তীদের কথা এইমাত্র বলা হলো: পূর্ববর্তীদের মধ্য থেকে অনেকে, পরবর্তীদের মধ্য থেকে অল্প কয়েকজন। তাদের প্রতিদানের প্রথম যে কথাটি সূরা শোনায়, তা হলো তারা কোথায় বসবে: মাওদূনা আসনে। তাফসীরকারেরা শব্দটির ব্যাখ্যা দেন বোনা, সুতোর উপর সুতো, ঠিক যেমন বর্মের কড়া একটার উপর আরেকটা জোড়া দেওয়া হয়। বেশির ভাগের মতে সে বুনন সোনার, তাতে মুক্তা আর রত্ন বসানো। আমাকে যা ভাবায় তা হলো, এ আসনে যারা বসবে তারা দুনিয়ায় তাড়াহুড়া করেছিল ভালো কাজে। নেক আমলের জন্য তারা সুবিধামতো সময়ের অপেক্ষায় বসে থাকেনি। আর তালিকাটা বন্ধও হয়ে যায়নি, পরবর্তীদের মধ্য থেকেও কয়েকজন আসবে। কোন ভালো কাজটা আমি আজও পিছিয়ে রাখছি, যার দিকে এখনই এগোতে পারতাম?",
+    "pointsEn": [
+      "Which good deed have I been postponing until I feel more ready, and what would it take to begin it this week?",
+      "When I picture the reward of the Garden, does it move me to act, or only to wish?",
+      "The few from the later generations are still being gathered. Do I live as though that door were closed to me?",
+      "A weave holds because strand is laid over strand. Which small, repeated good am I building day by day?",
+      "Do I hurry as readily towards prayer and kindness as I do towards the comforts of this world?"
+    ],
+    "pointsBn": [
+      "কোন নেক কাজটা আমি 'আরেকটু প্রস্তুত হয়ে নিই' বলে ফেলে রেখেছি? এ সপ্তাহেই শুরু করতে আমার কী লাগবে?",
+      "জান্নাতের প্রতিদানের কথা ভাবলে তা কি আমাকে আমলে টেনে নেয়, নাকি শুধু মনে আশা জাগিয়েই থেমে যায়?",
+      "পরবর্তীদের মধ্য থেকে সেই অল্প কয়েকজনকে এখনো জড়ো করা হচ্ছে। আমি কি এমনভাবে চলি, যেন সে দরজা আমার জন্য বন্ধ?",
+      "সুতোর উপর সুতো পড়ে বলেই বুনন টেকে। কোন ছোট, নিয়মিত ভালো কাজটা আমি দিনে দিনে গেঁথে চলেছি?",
+      "দুনিয়ার আরামের দিকে যেমন ছুটে যাই, নামাজ আর সদাচরণের দিকেও কি তেমনই ছুটি?"
+    ],
+    "lessonEn": "The foremost are seated on couches woven with gold because they hurried towards good; the way is still open, so hurry today.",
+    "lessonBn": "অগ্রবর্তীরা সোনায় বোনা আসনে বসবে, কারণ তারা ভালো কাজে এগিয়ে গিয়েছিল। পথ এখনো খোলা, তাই আজই এগিয়ে যান।"
   }
 };
 
