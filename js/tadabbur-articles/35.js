@@ -735,6 +735,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "35:24": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Only a Warner",
+          "bn": "কেবল সতর্ককারী, তারপর"
+        },
+        "p": [
+          {
+            "en": "The verses just before this one set out pairs that are not equal: the blind and the seeing, the darknesses and the light, the shade and the scorching heat, the living and the dead (35:19 to 35:22). The Muyassar reads them as two kinds of people: one blind to Allah's religion, the other who has seen the path of truth and follows it; hearts alive with faith and hearts dead with disbelief. Then 35:22 closes on a hard line: you cannot make those in the graves hear.",
+            "bn": "এ আয়াতের ঠিক আগে কয়েক জোড়া জিনিসের কথা এসেছে, যারা সমান নয়: অন্ধ আর চক্ষুষ্মান, অন্ধকার আর আলো, ছায়া আর তপ্ত রোদ, জীবিত আর মৃত (৩৫:১৯ থেকে ৩৫:২২)। মুয়াসসার এগুলোকে দুই ধরনের মানুষ হিসেবে পড়ে। একজন আল্লাহর দ্বীন দেখতে পায় না। অন্যজন সত্যের পথ দেখেছে এবং সে পথে চলছে। এক দিকে ঈমানে জীবিত অন্তর, অন্য দিকে কুফরে মৃত অন্তর। তারপর ৩৫:২২ শেষ হয় এক কঠিন কথায়: যারা কবরে আছে, তুমি তাদের শোনাতে পারবে না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an explains that the hearing denied there is a particular kind, the hearing that benefits, through which a listener leaves the false and takes up the true. Ibn Kathir, in the abridged English, glosses 35:23, you are only a warner, as: all you have to do is to convey the Message and warn them. Then comes inna arsalnaka, indeed We have sent you. Told what he cannot do, open a dead heart, the Prophet ﷺ now hears what Allah has done. And a word the previous verse left out appears: before nadhir, warner, stands bashir, bringer of good news.",
+            "bn": "মাআরিফুল কুরআন ব্যাখ্যা করে, সেখানে যে শোনানোর কথা অস্বীকার করা হয়েছে তা বিশেষ এক ধরনের শোনা। এমন শোনা, যা কাজে আসে, যার ফলে শ্রোতা মিথ্যা ছেড়ে সত্য গ্রহণ করে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৩৫:২৩-এর 'তুমি কেবল একজন সতর্ককারী' কথাটির ব্যাখ্যা দেয় এভাবে: তোমার কাজ শুধু বার্তা পৌঁছে দেওয়া আর তাদের সতর্ক করা। এরপর আসে ইন্না আরসালনাকা: নিশ্চয়ই আমি তোমাকে পাঠিয়েছি। মৃত অন্তর খুলে দেওয়া যে তাঁর সাধ্যে নেই, নবী ﷺ তা শুনেছেন। এবার শুনছেন আল্লাহ নিজে কী করেছেন। আর আগের আয়াতে যে শব্দটি ছিল না, তা এখানে এসেছে: নাযীর, সতর্ককারীর আগে বাশীর, সুসংবাদদাতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent With Which Truth",
+          "bn": "কোন সত্য নিয়ে পাঠানো"
+        },
+        "p": [
+          {
+            "en": "Bi'l-haqq: with the truth. The commentators fill the word in differently. At-Tabari reads it as faith in Allah and the laws of the religion He made obligatory on His servants, and the Muyassar repeats that gloss almost word for word. Tanwir al-Miqbas, the commentary attributed to Ibn 'Abbas, takes it as the Qur'an. Al-Jalalayn gives a single word, al-huda, right guidance.",
+            "bn": "বিলহাক্ক: সত্যসহ। শব্দটির ভেতরে তাফসীরকারেরা ভিন্ন ভিন্ন জিনিস দেখেন। তাবারীর মতে এর অর্থ আল্লাহর প্রতি ঈমান এবং দ্বীনের সেই বিধানগুলো, যা তিনি তাঁর বান্দাদের উপর ফরজ করেছেন। মুয়াসসার প্রায় হুবহু একই ব্যাখ্যা দেয়। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস বলে, সত্য মানে কুরআন। জালালাইন একটি শব্দেই কাজ সারে: আল-হুদা, হেদায়েত।"
+          },
+          {
+            "en": "As-Sa'di reads the phrase on three levels at once. First, the bare fact of Allah sending him was truth, because He sent him in a fatra, an interval when the messengers had ceased, the paths had been effaced and knowledge worn away, and the need for him was great; so Allah sent him as a mercy to the worlds. Second, the religion he brought, the upright religion and the straight path, is truth and not falsehood. Third, the Qur'an and the wise reminder it holds are truth and honest speech.",
+            "bn": "সা'দী কথাটি একসঙ্গে তিনটি স্তরে পড়েন। প্রথমত, আল্লাহ যে তাঁকে পাঠিয়েছেন, এই পাঠানোটাই সত্য। কারণ তাঁকে পাঠানো হয়েছিল এক ফাতরার সময়ে। তখন রাসূলদের আগমন বহুদিন বন্ধ, পথগুলো মুছে গেছে, ইলম ক্ষয়ে গেছে, আর তাঁর আগমনের প্রয়োজন ছিল প্রবল। তাই আল্লাহ তাঁকে পাঠালেন জগৎবাসীর জন্য রহমত করে। দ্বিতীয়ত, তিনি যে দ্বীন এনেছেন, সেই সঠিক দ্বীন ও সরল পথ সত্য, বাতিল নয়। তৃতীয়ত, কুরআন এবং তাতে থাকা প্রজ্ঞাময় উপদেশ সত্য ও সঠিক কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good News Named First",
+          "bn": "আগে সুসংবাদের নাম"
+        },
+        "p": [
+          {
+            "en": "Bashiran wa nadhiran: a bringer of good news and a warner. The commentators agree on the pair and differ only in how they name its two audiences. At-Tabari: bringing good news of Paradise to whoever believes you and accepts from you the sincere counsel, an-nasiha, that you brought from Allah; warning whoever denies you and rejects it. Al-Qurtubi: good news of Paradise to the people of obedience to Him, and a warning of the Fire to the people of disobedience. Ibn Kathir keeps it shortest: good news for the believers, a warning for the disbelievers.",
+            "bn": "বাশীরান ওয়া নাযীরা: সুসংবাদদাতা ও সতর্ককারী। এই জোড়া নিয়ে তাফসীরকারেরা একমত। পার্থক্য শুধু এর দুই শ্রোতাকে তাঁরা কী নামে ডাকেন, সেখানে। তাবারী বলেন: যে তোমাকে সত্য বলে মানে এবং আল্লাহর কাছ থেকে আনা তোমার নাসীহা, অর্থাৎ আন্তরিক উপদেশ গ্রহণ করে, তাকে জান্নাতের সুসংবাদ দাও। আর যে তোমাকে মিথ্যা বলে এবং তা ফিরিয়ে দেয়, তাকে সতর্ক কর। কুরতুবী বলেন: আল্লাহর আনুগত্যকারীদের জন্য জান্নাতের সুসংবাদ, নাফরমানদের জন্য জাহান্নামের সতর্কবাণী। ইবন কাসীর সবচেয়ে ছোট করে বলেন: মুমিনদের জন্য সুসংবাদ, কাফিরদের জন্য সতর্কবাণী।"
+          },
+          {
+            "en": "Al-Jalalayn draws the line by response: good news to whoever answers the call, a warning to whoever does not. The Muyassar ties the good news to whoever believes you and acts on your guidance, and the warning to whoever denies you and disobeys you, of the Fire. As-Sa'di adds a dimension of time. The good news is of Allah's reward, al-'ajil wa al-ajil, the near and the deferred; the warning is of His punishment, near and deferred as well.",
+            "bn": "জালালাইন রেখা টানে সাড়া দেওয়া দিয়ে: যে ডাকে সাড়া দেয় তার জন্য সুসংবাদ, যে দেয় না তার জন্য সতর্কবাণী। মুয়াসসার সুসংবাদ জুড়ে দেয় তার সঙ্গে, যে তোমাকে বিশ্বাস করে এবং তোমার দেখানো পথে আমল করে। আর জাহান্নামের সতর্কবাণী তার জন্য, যে তোমাকে মিথ্যা বলে এবং তোমার নাফরমানি করে। সা'দী এতে সময়ের একটা মাত্রা যোগ করেন। সুসংবাদ আল্লাহর প্রতিদানের, আল-আজিল ওয়াল-আজিল, নিকটের ও পরের। সতর্কবাণীও তাঁর শাস্তির, নিকটের ও পরের।"
+          },
+          {
+            "en": "At-Tabari's word for the message deserves a pause. He does not call what the Prophet ﷺ brought a command or a threat here, but nasiha, the counsel of someone who wants your good. Seen that way, the warning is part of the counsel, not its opposite. The two titles describe one stance toward people: wanting them safe, the Prophet ﷺ told them both what lay ahead if they came and what lay ahead if they turned away.",
+            "bn": "বার্তাটির জন্য তাবারী যে শব্দ বেছে নিয়েছেন, তা নিয়ে একটু থামা দরকার। নবী ﷺ যা এনেছিলেন, এখানে তিনি তাকে হুকুম বা হুমকি বলেননি, বলেছেন নাসীহা। নাসীহা মানে এমন মানুষের উপদেশ, যে আপনার ভালো চায়। এভাবে দেখলে সতর্কবাণী উপদেশের বিপরীত নয়, উপদেশেরই অংশ। দুটি উপাধি তাই মানুষের প্রতি একই মনোভাবের দুই দিক। নবী ﷺ চেয়েছিলেন মানুষ নিরাপদ থাকুক। তাই তিনি জানিয়ে দিয়েছেন, এলে সামনে কী আছে, আর মুখ ফিরিয়ে নিলে কী আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Man Who Saw the Army",
+          "bn": "যে লোক সেনাদল দেখেছিল"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it. A sound narration that is not attached to the verse does show what the word nadhir meant to its first hearers. Al-Bukhari records, as number 6482 in the Dar-us-Salam numbering, from Abu Musa that Allah's Messenger ﷺ said: \"My example and the example of the message with which Allah has sent me is like that of a man who came to some people and said, 'I have seen with my own eyes the enemy forces, and I am a naked warner (to you) so save yourself, save yourself!'\"",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সহীহ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, কিন্তু প্রথম শ্রোতাদের কাছে নাযীর শব্দের অর্থ কী ছিল তা দেখিয়ে দেয়। বুখারী, দারুস সালামের ক্রম অনুযায়ী ৬৪৮২ নম্বরে, আবু মূসা (রাঃ) থেকে বর্ণনা করেছেন, রাসূলুল্লাহ ﷺ বলেছেন: \"আমার উদাহরণ এবং আল্লাহ আমাকে যে বার্তা দিয়ে পাঠিয়েছেন তার উদাহরণ এমন এক লোকের মতো, যে এক সম্প্রদায়ের কাছে এসে বলল, আমি নিজের চোখে শত্রুসেনা দেখেছি, আর আমি এক নগ্ন সতর্ককারী। কাজেই বাঁচো, বাঁচো!\""
+          },
+          {
+            "en": "He went on: \"A group of them obeyed him and went out at night, slowly and stealthily and were safe, while another group did not believe him and thus the army took them in the morning and destroyed them.\" Read beside the verse, it holds both titles in one man. The warning, the army is coming, carries a way out inside it, save yourselves, and for whoever acts on it the warning is the good news. The people split as the two audiences split: some heeded, some did not believe.",
+            "bn": "তিনি আরও বললেন: \"তাদের একদল তার কথা মানল, রাতের বেলা ধীরে ধীরে চুপিসারে বেরিয়ে গেল এবং বেঁচে গেল। আরেক দল তাকে বিশ্বাস করল না, ফলে সকালে সেনাদল এসে তাদের ধরে ফেলল এবং ধ্বংস করে দিল।\" তবু আয়াতের পাশে রেখে পড়লে দেখা যায়, দুটি উপাধি এখানে একই মানুষের মধ্যে। সেনাদল আসছে, এই সতর্কবাণীর ভেতরেই আছে বাঁচার পথ। যে সে অনুযায়ী কাজ করে, তার কাছে সতর্কবাণীটাই সুসংবাদ। আর মানুষ ভাগ হয়ে যায় সেই দুই শ্রোতার মতো: কেউ কথা মানে, কেউ বিশ্বাস করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Nation Left Unwarned",
+          "bn": "সতর্কবাণী ছাড়া কোনো জাতি নয়"
+        },
+        "p": [
+          {
+            "en": "Wa in min ummatin illa khala fiha nadhir. At-Tabari's paraphrase shows the shape of the sentence: wa ma min umma, there is no nation, then the exception, but that a warner passed among it before you. Al-Qurtubi and al-Baghawi both gloss khala as salafa, went before, and al-Baghawi adds fima mada, among those that have passed. As-Sa'di names the scope as al-umam al-madiya wa al-qurun al-khaliya, the past nations and the bygone generations.",
+            "bn": "ওয়া ইন মিন উম্মাতিন ইল্লা খালা ফীহা নাযীর। তাবারীর ব্যাখ্যামূলক অনুবাদে বাক্যের গড়নটা ধরা পড়ে: ওয়া মা মিন উম্মাহ, এমন কোনো জাতি নেই। তারপর ব্যতিক্রম: যার মধ্যে তোমার আগে একজন সতর্ককারী আসেননি। কুরতুবী ও বাগাভী দুজনেই খালা শব্দের অর্থ করেন সালাফা, অর্থাৎ আগে গত হয়েছে। বাগাভী যোগ করেন ফীমা মাদা, যারা অতীত হয়ে গেছে তাদের মধ্যে। সা'দী এর পরিধি বলেন আল-উমামুল মাদিয়া ওয়াল-কুরূনুল খালিয়া, অতীতের জাতিসমূহ আর বিগত প্রজন্মগুলো।"
+          },
+          {
+            "en": "Ibn Kathir widens the frame to the whole human line: there was no nation of the children of Adam but Allah sent warners to them, and azaha 'anhum al-'ilal, removed their excuses. He sets two verses beside it. 13:7: you are only a warner, and for every people is a guide. 16:36: We certainly sent into every nation a messenger, saying, worship Allah and avoid taghut. The verses on this, he adds, are many. At-Tabari names what the warner warned of: ba'sana, Our might, falling on them for their disbelief in Allah.",
+            "bn": "ইবন কাসীর ফ্রেমটা বড় করে গোটা মানবজাতি পর্যন্ত নিয়ে যান: আদম সন্তানদের এমন কোনো জাতি নেই, যাদের কাছে আল্লাহ সতর্ককারী পাঠাননি এবং আযাহা আনহুমুল ইলাল, তাদের অজুহাতগুলো দূর করে দেননি। পাশে তিনি দুটি আয়াত রাখেন। ১৩:৭: তুমি তো কেবল একজন সতর্ককারী, আর প্রত্যেক সম্প্রদায়ের জন্য আছে একজন পথপ্রদর্শক। ১৬:৩৬: আমি প্রত্যেক জাতির মধ্যে একজন রাসূল পাঠিয়েছি এই বার্তা দিয়ে যে, আল্লাহর ইবাদত কর আর তাগূতকে বর্জন কর। তিনি বলেন, এ বিষয়ে আয়াত অনেক। তাবারী জানান সতর্ককারী কীসের ভয় দেখাতেন: বা'সানা, আমার পাকড়াও, যা আল্লাহকে অস্বীকারের কারণে তাদের উপর নেমে আসবে।"
+          },
+          {
+            "en": "As-Sa'di gives the reason with a phrase from 8:42. The warner came to establish Allah's proof over them, so that whoever perished would perish upon clear evidence, and whoever lived would live upon clear evidence. The point is fairness: no people was judged by a message it never received. At-Tabari adds a qualifier of his own. The nations he means are al-umam ad-da'ina bi-milla, the nations that held to some religion. His wording describes communities that followed a creed, and he does not go on to discuss any others.",
+            "bn": "সা'দী কারণটা বলেন ৮:৪২ আয়াতের একটি অংশ দিয়ে। সতর্ককারী এসেছিলেন তাদের উপর আল্লাহর হুজ্জত, অর্থাৎ প্রমাণ কায়েম করতে, যাতে যে ধ্বংস হয় সে স্পষ্ট প্রমাণ দেখেই ধ্বংস হয়, আর যে বেঁচে থাকে সে স্পষ্ট প্রমাণ দেখেই বেঁচে থাকে। মূল কথা ইনসাফ। যে বার্তা কোনো জাতির কাছে পৌঁছায়নি, তা দিয়ে তাদের বিচার করা হয়নি। তাবারী নিজের দিক থেকে একটি শর্ত জুড়ে দেন। তাঁর কথায় জাতি মানে আল-উমামুদ দাইনা বিমিল্লাহ, যে জাতিগুলো কোনো না কোনো ধর্ম মেনে চলত। তাঁর শব্দ কোনো আকীদা অনুসরণকারী সম্প্রদায়ের কথা বলে। অন্যদের নিয়ে তিনি আর আলোচনা করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prophet in Every Nation?",
+          "bn": "প্রত্যেক জাতিতে নবী?"
+        },
+        "p": [
+          {
+            "en": "Who counts as the warner? Several texts name him outright. Al-Qurtubi: salafa fiha nabi, a prophet went before in it. Al-Baghawi: nabi mundhir, a prophet who warns. Al-Jalalayn: a prophet to warn it. At-Tabari reports through his chain from Qatada: every nation had a messenger, and Tanwir al-Miqbas likewise reads a warning messenger. Others keep the verse's own word. Ibn Kathir speaks of an-nudhur, warners, in the plural, and as-Sa'di and the Muyassar of a warner who came, without saying whether that warner was himself a prophet.",
+            "bn": "সতর্ককারী বলতে কাকে বোঝায়? কয়েকটি তাফসীর সরাসরি নাম বলে দেয়। কুরতুবী: সালাফা ফীহা নাবিয়্যুন, তার মধ্যে একজন নবী আগে গত হয়েছেন। বাগাভী: নাবিয়্যুন মুনযির, সতর্ককারী একজন নবী। জালালাইন: একজন নবী, যিনি তাদের সতর্ক করেন। তাবারী নিজের সনদে কাতাদা থেকে বর্ণনা করেন: প্রত্যেক জাতির একজন রাসূল ছিলেন। তানবীরুল মিকবাসও পড়ে সতর্ককারী একজন রাসূল। অন্যরা আয়াতের নিজের শব্দটিই রেখে দেন। ইবন কাসীর বলেন আন-নুযুর, বহুবচনে সতর্ককারীরা। সা'দী ও মুয়াসসার বলেন একজন সতর্ককারী এসেছিলেন, কিন্তু তিনি নিজে নবী ছিলেন কি না, তা বলেন না।"
+          },
+          {
+            "en": "Maududi, in Tafhim al-Qur'an, affirms the broad claim and cites 13:7, 15:10, 16:36 and 26:208: We did not destroy any city except that it had warners. Then he adds two cautions so that no misunderstanding remains. One and the same prophet is enough for the lands his message reaches; prophets need not be sent to every separate habitation and community. And no new prophet needs to be sent as long as the message, teaching and guidance of a previous one remain safe and intact; a separate prophet for every race and generation is not necessary.",
+            "bn": "মওদূদী তাফহীমুল কুরআনে মূল দাবিটা মেনে নেন এবং ১৩:৭, ১৫:১০, ১৬:৩৬ ও ২৬:২০৮ আয়াত উল্লেখ করেন। শেষ আয়াতটি বলে: আমি এমন কোনো জনপদ ধ্বংস করিনি, যার জন্য সতর্ককারী ছিল না। এরপর কোনো ভুল বোঝাবুঝি যাতে না থাকে, সেজন্য তিনি দুটি সতর্কতা যোগ করেন। প্রথমত, একজন নবীর বার্তা যত দেশে পৌঁছায়, সেসব দেশের জন্য তিনিই যথেষ্ট। প্রত্যেক আলাদা জনপদ ও সম্প্রদায়ে আলাদা নবী পাঠানো জরুরি নয়। দ্বিতীয়ত, আগের নবীর বার্তা, শিক্ষা ও হেদায়েত যতদিন অক্ষত থাকে, ততদিন নতুন নবীর প্রয়োজন হয় না। প্রত্যেক জাতি ও প্রজন্মের জন্য আলাদা নবী জরুরি নয়।"
+          },
+          {
+            "en": "The two are not quite the same claim. The glosses that say a prophet went before in every nation describe the warner by his office. Maududi describes the warning by its reach: what must pass among a nation is a prophet's message, which may come to it from beyond its own borders and generation. The fetched texts do not rank them, and neither does this article. Both hold the substance the verse insists on: no nation was left without the warning.",
+            "bn": "দুটি কথা হুবহু এক দাবি নয়। যে ব্যাখ্যাগুলো বলে প্রত্যেক জাতিতে একজন নবী আগে গত হয়েছেন, সেগুলো সতর্ককারীকে চেনায় তাঁর পদ দিয়ে। মওদূদী সতর্কবাণীকে চেনান তার পৌঁছানো দিয়ে। কোনো জাতির মধ্যে যা পৌঁছাতে হবে তা একজন নবীর বার্তা, আর সেই বার্তা তাদের নিজেদের সীমানা ও প্রজন্মের বাইরে থেকেও আসতে পারে। আনা তাফসীরগুলো এ দুই পাঠের মধ্যে কোনোটিকে এগিয়ে রাখে না, এ লেখাও রাখবে না। দুই পাঠই আয়াতের মূল কথাটা ধরে রাখে: কোনো জাতিকেই সতর্কবাণী ছাড়া রাখা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Except the Arabs?",
+          "bn": "আরবরা বাদে?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi closes his short comment with one report: qala Ibn Jurayj: illa al-'Arab, Ibn Jurayj said: except the Arabs. It touches a question other verses raise. 32:3 speaks of a people to whom no warner has come before you, and 36:6 of a people whose forefathers were not warned. The commentators' answers on 32:3 are set out in the article on that verse and are not repeated here. On this verse, Ibn Jurayj's line in al-Qurtubi is the one fetched text that names the Arabs as an exception.",
+            "bn": "কুরতুবী তাঁর সংক্ষিপ্ত আলোচনা শেষ করেন একটি বর্ণনা দিয়ে: কালা ইবন জুরাইজ: ইল্লাল আরব। ইবন জুরাইজ বলেছেন: আরবরা বাদে। এটি এমন এক প্রশ্ন ছুঁয়ে যায়, যা অন্য আয়াতেও ওঠে। ৩২:৩ বলে এমন এক সম্প্রদায়ের কথা, যাদের কাছে তোমার আগে কোনো সতর্ককারী আসেনি। ৩৬:৬ বলে এমন সম্প্রদায়ের কথা, যাদের পূর্বপুরুষদের সতর্ক করা হয়নি। ৩২:৩ আয়াতে তাফসীরকারদের জবাব সেই আয়াতের লেখায় বলা আছে, এখানে আর পুনরাবৃত্তি করা হলো না। এ আয়াতের জন্য আনা লেখাগুলোর মধ্যে কেবল কুরতুবীর উদ্ধৃত ইবন জুরাইজের কথাতেই আরবদের ব্যতিক্রম বলা হয়েছে।"
+          },
+          {
+            "en": "What the texts do not do is name the warners. Which prophet went to which of the many peoples of the earth, the commentators fetched here leave unsaid, and the Qur'an says of the messengers in 4:164: some We have related to you before, and some We have not related to you; 40:78 says the same. Any list of the unnamed, fixed to particular peoples or lands, goes beyond what these sources say. The verse asks the reader to believe that the warning came, not to guess where it went.",
+            "bn": "লেখাগুলো যা করে না, তা হলো সতর্ককারীদের নাম বলা। পৃথিবীর অসংখ্য জাতির কোনটির কাছে কোন নবী গিয়েছিলেন, এখানে আনা তাফসীরগুলো তা বলে না। আর কুরআন ৪:১৬৪ আয়াতে রাসূলদের সম্পর্কে বলে: কিছু রাসূলের কথা আমি তোমাকে আগে শুনিয়েছি, আর কিছু রাসূলের কথা তোমাকে শোনাইনি। ৪০:৭৮ আয়াতও একই কথা বলে। নাম না জানা সতর্ককারীদের কোনো তালিকা বানিয়ে নির্দিষ্ট জাতি বা দেশের সঙ্গে জুড়ে দেওয়া এসব সূত্রের বাইরে চলে যায়। আয়াত পাঠকের কাছে চায় বিশ্বাস করতে যে সতর্কবাণী এসেছিল, কোথায় গিয়েছিল তা আন্দাজ করতে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not the First Messenger",
+          "bn": "প্রথম রাসূল নন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di joins the two halves of the verse with a short sentence: wa lasta bi-bid'in min ar-rusul, and you are not something new among the messengers. The phrase echoes 46:9, where the Prophet ﷺ is told to say, I am not something original among the messengers. Read that way, the second half of 35:24 is consolation: he is not a lone voice in history. The next verse carries the thought on. If they deny you, those before them denied too, though their messengers came with clear proofs, written ordinances and the enlightening Scripture (35:25).",
+            "bn": "সা'দী আয়াতের দুই অংশ জোড়া দেন একটি ছোট বাক্যে: ওয়া লাসতা বিবিদইন মিনার রুসুল, তুমি রাসূলদের মধ্যে নতুন কিছু নও। কথাটি ৪৬:৯ আয়াতের প্রতিধ্বনি, যেখানে নবী ﷺ-কে বলতে বলা হয়েছে: আমি রাসূলদের মধ্যে নতুন কেউ নই। এভাবে পড়লে ৩৫:২৪-এর দ্বিতীয় অংশ এক সান্ত্বনা। ইতিহাসে তিনি একা কণ্ঠ নন। পরের আয়াত কথাটা আরও এগিয়ে নেয়। তারা যদি তোমাকে মিথ্যা বলে, তবে তাদের আগের লোকেরাও মিথ্যা বলেছিল, অথচ তাদের রাসূলগণ এসেছিলেন সুস্পষ্ট প্রমাণ, লিখিত বিধান আর আলোকিত কিতাব নিয়ে (৩৫:২৫)।"
+          },
+          {
+            "en": "This needs saying plainly. At-Tabari speaks of warners who warned their nations of Allah's might for their disbelief, and 35:26 tells of those who disbelieved being seized. These verses describe what they describe about past nations and their messengers. They license nothing against any living person or community, and they give no one a warrant to declare where any people today stands. The verses just before drew the line for the warner himself: he was sent to warn, to bring good news and to convey, and guidance belonged to Allah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাবারী এমন সতর্ককারীদের কথা বলেন, যাঁরা নিজেদের জাতিকে কুফরের কারণে আল্লাহর পাকড়াওয়ের ভয় দেখিয়েছিলেন। আর ৩৫:২৬ বলে, যারা কুফরী করেছিল তাদের পাকড়াও করা হয়েছিল। এ আয়াতগুলো অতীতের জাতি ও তাদের রাসূলদের সম্পর্কে যা বলে, শুধু সেটুকুই বলে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো কিছুর অনুমতি দেয় না। আজকের কোনো জাতি কোথায় দাঁড়িয়ে আছে, তা ঘোষণা করার অধিকারও কাউকে দেয় না। আগের আয়াতগুলো স্বয়ং সতর্ককারীর সীমাও টেনে দিয়েছে। তাঁকে পাঠানো হয়েছিল সতর্ক করতে, সুসংবাদ দিতে আর বার্তা পৌঁছে দিতে। হেদায়েত আল্লাহর হাতে।"
+          },
+          {
+            "en": "And it points at the reader. The verse says no nation was left without a warner; for a reader today the warner's message is not a distant rumour but a Book within reach. The two titles still arrive in their order. The good news comes first, of a reward near and deferred, and the warning stands beside it. What the verse leaves to each of us is the choice the people in the Prophet's ﷺ parable faced: to heed him who has seen, or to wait for the morning.",
+            "bn": "আর আয়াতটি পাঠকের দিকেও আঙুল তোলে। আয়াত বলছে, কোনো জাতিকে সতর্ককারী ছাড়া রাখা হয়নি। আজকের পাঠকের কাছে সতর্ককারীর বার্তা দূরের কোনো গুজব নয়, হাতের কাছেই থাকা এক কিতাব। দুটি উপাধি এখনো সেই ক্রমেই আসে। আগে সুসংবাদ, নিকটের ও পরের প্রতিদানের। আর তার পাশেই সতর্কবাণী। নবী ﷺ-এর উদাহরণের সেই লোকগুলো যে বাছাইয়ের সামনে দাঁড়িয়েছিল, আয়াত আমাদের প্রত্যেককে সেই বাছাইয়ের সামনেই রেখে যায়: যিনি দেখেছেন তাঁর কথা মানা, নাকি সকাল হওয়ার অপেক্ষায় বসে থাকা।"
+          }
+        ]
+      }
+    ]
+  },
   "35:28": {
     "sections": [
       {

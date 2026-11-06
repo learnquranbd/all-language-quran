@@ -25489,6 +25489,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Treat Satan as the enemy he is: refuse his suggestions, answer them with obedience to Allah, and keep in mind where his invitation leads.",
     "lessonBn": "শয়তানকে তার আসল পরিচয়ে, শত্রু হিসেবেই নিন। তার কুমন্ত্রণা ফিরিয়ে দিন, আল্লাহর আনুগত্য দিয়ে তার জবাব দিন, আর মনে রাখুন তার ডাক কোথায় নিয়ে যায়।"
+  },
+  "35:24": {
+    "reflectionEn": "The verse before this one said the Prophet was only a warner. This one says what he was sent with: the truth, and with it good news first, then the warning. Then the view widens far beyond Makkah. There was no nation but a warner had passed among it. No people in the long record of humankind was left to guess its own way to its Lord. That is a mercy, and it is also a claim on me. The message has reached me, in my own language, in my own home. I cannot say that no one told me. What is left is the question of what I do with the good news and the warning, now that both are in my hands.",
+    "reflectionBn": "আগের আয়াত বলেছে, নবী ﷺ কেবল একজন সতর্ককারী। এ আয়াত বলছে তাঁকে কী দিয়ে পাঠানো হয়েছে: সত্য দিয়ে। আর সেই সত্যের সঙ্গে আগে সুসংবাদ, তারপর সতর্কবাণী। এরপর দৃষ্টি মক্কা ছাড়িয়ে বহুদূর ছড়িয়ে যায়। এমন কোনো জাতি নেই, যার মধ্যে একজন সতর্ককারী আসেননি। মানুষের দীর্ঘ ইতিহাসে কোনো জাতিকেই আন্দাজে হাতড়ে রবের পথ খুঁজতে ছেড়ে দেওয়া হয়নি। এটা রহমত, আবার আমার উপর এক দাবিও। বার্তাটা আমার কাছে পৌঁছে গেছে, আমার নিজের ভাষায়, আমার নিজের ঘরে। আমি বলতে পারি না যে কেউ আমাকে জানায়নি। বাকি থাকে শুধু একটা প্রশ্ন: সুসংবাদ আর সতর্কবাণী দুটোই যখন হাতে এসে গেছে, এখন আমি এগুলো নিয়ে কী করব?",
+    "pointsEn": [
+      "When I think of the Prophet's message, do I hear its good news first, or only its warning?",
+      "If no nation was left without a warner, what excuse am I still keeping in reserve for myself?",
+      "Which part of the message have I heard many times without letting it change a single thing?",
+      "When I pass the message on, do I carry both halves, hope and warning, or only the half that suits my mood?",
+      "Who first brought the truth to me, and have I ever thanked Allah for them by name?"
+    ],
+    "pointsBn": [
+      "নবী ﷺ-এর বার্তার কথা ভাবলে আমি কি আগে তার সুসংবাদটা শুনি, নাকি কেবল সতর্কবাণীটাই?",
+      "কোনো জাতিকেই যদি সতর্ককারী ছাড়া রাখা না হয়ে থাকে, তবে নিজের জন্য কোন অজুহাতটা আমি এখনো জমিয়ে রেখেছি?",
+      "বার্তার কোন অংশটা আমি বহুবার শুনেছি, অথচ তা আমার জীবনের একটা জিনিসও বদলাতে দিইনি?",
+      "অন্যের কাছে বার্তা পৌঁছানোর সময় আমি কি দুটো দিকই নিয়ে যাই, আশা আর সতর্কতা, নাকি কেবল সেই দিকটা, যা আমার মেজাজের সঙ্গে মেলে?",
+      "সত্যটা প্রথম কে আমার কাছে পৌঁছে দিয়েছিলেন? তাঁর নাম ধরে কখনো কি আল্লাহর কাছে শুকরিয়া জানিয়েছি?"
+    ],
+    "lessonEn": "Allah left no people without a warner, and the message has reached you; take its good news with hope and its warning with care, and keep no excuse.",
+    "lessonBn": "আল্লাহ কোনো জাতিকে সতর্ককারী ছাড়া রাখেননি, আর বার্তা আপনার কাছে পৌঁছে গেছে। এর সুসংবাদ নিন আশা নিয়ে, সতর্কবাণী নিন সাবধানে, আর কোনো অজুহাত জমিয়ে রাখবেন না।"
   }
 };
 
