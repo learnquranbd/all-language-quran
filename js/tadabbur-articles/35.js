@@ -1327,6 +1327,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "35:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Cry Raised for Rescue",
+          "bn": "উদ্ধারের জন্য আর্তনাদ"
+        },
+        "p": [
+          {
+            "en": "The preceding verse has set the scene: for those who disbelieve there is the fire of Jahannam, where death is not decreed for them and the punishment is not lightened. Then comes wa-hum yastarikhuna fiha: and they cry out in it. At-Tabari explains the verb as a form built on surakh, a scream, whose t turned into an emphatic t because that sound is made close to the s before it.",
+            "bn": "আগের আয়াতই দৃশ্যটা সাজিয়ে দিয়েছে। যারা কুফরি করে, তাদের জন্য জাহান্নামের আগুন। সেখানে তাদের মৃত্যুর ফয়সালা হবে না, শাস্তিও হালকা হবে না। এরপর আসে ওয়া হুম ইয়াসতারিখূনা ফীহা: আর তারা সেখানে চিৎকার করবে। তাবারী বলেন, ক্রিয়াটি গড়ে উঠেছে সুরাখ, অর্থাৎ চিৎকার শব্দ থেকে। এর গঠনের ‘ত’ বদলে ভারী ‘ত্ব’ হয়েছে, কারণ ‘ত্ব’-এর উচ্চারণস্থান আগের ‘স্বাদ’-এর কাছাকাছি।"
+          },
+          {
+            "en": "Al-Qurtubi gives the sense: they call for rescue in the Fire at the top of their voices; the sarikh is the one who cries for help and the musrikh the one who answers. Al-Baghawi and as-Sa'di say much the same. The cry has words, rabbana akhrijna, our Lord, bring us out, and al-Qurtubi and the Muyassar spell out where to: out of Jahannam and back to the world. They are not asking for the heat to ease. They are asking for a second life on earth.",
+            "bn": "কুরতুবী অর্থটা খুলে বলেন: আগুনের ভেতরে তারা গলা ফাটিয়ে উদ্ধারের জন্য ডাকবে। যে সাহায্যের জন্য চিৎকার করে সে সারিখ, আর যে সেই ডাকে সাড়া দেয় সে মুসরিখ। বাগাভী আর সা'দীও প্রায় একই কথা বলেন। চিৎকারের ভাষাও আছে: রব্বানা আখরিজনা, হে আমাদের রব, আমাদের বের করে দিন। কোথায় যেতে চায়, কুরতুবী আর মুয়াসসার তা স্পষ্ট করে দেন: জাহান্নাম থেকে বের হয়ে আবার দুনিয়ায়। আগুনের তাপ একটু কমুক, এ তাদের চাওয়া নয়। তারা চায় পৃথিবীতে আরেকটা জীবন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Promise Made Too Late",
+          "bn": "সময় পেরিয়ে যাওয়া প্রতিশ্রুতি"
+        },
+        "p": [
+          {
+            "en": "Na'mal salihan ghayra alladhi kunna na'mal: we will do righteousness, other than what we used to do. At-Tabari glosses it: we will act in obedience to You, not in the disobedience we committed before. Al-Qurtubi reports from Ibn Abbas that the good they promise is to say la ilaha illa Allah, and reads what they used to do as shirk: we will believe instead of disbelieving and obey instead of disobeying. The Muyassar says the same: we will believe in place of disbelief.",
+            "bn": "না‘মাল সালিহান গাইরাল্লাযী কুন্না না‘মাল: আমরা সৎকাজ করব, আগে যা করতাম তা নয়। তাবারীর ব্যাখ্যায়: আমরা আপনার আনুগত্যের কাজ করব, আগে যে নাফরমানি করতাম তা নয়। কুরতুবী ইবন আব্বাস (রাঃ)-এর বরাতে বলেন, তাদের প্রতিশ্রুত সৎকাজ হলো লা ইলাহা ইল্লাল্লাহ বলা। আর ‘আগে যা করতাম’ বলতে তিনি বোঝেন শিরক। অর্থাৎ কুফরের বদলে ঈমান আনব, নাফরমানির বদলে আনুগত্য করব। মুয়াসসারও একই কথা বলে: আমরা কুফরের জায়গায় ঈমান আনব।"
+          },
+          {
+            "en": "As-Sa'di notices what the plea concedes: they confessed their sin and recognised that Allah had been just with them, but they asked for the return outside its time. Ibn Kathir looks at the other side. The Lord knows that if He returned them they would go back to what they were forbidden, and that they are lying, in the wording of 6:28. So He does not answer them, and Ibn Kathir sets beside this verse 40:11 and 40:12, where the same people ask whether there is any way out.",
+            "bn": "এই কাকুতির ভেতরে তারা কী মেনে নিচ্ছে, সা'দী সেদিকে চোখ ফেরান। তারা নিজেদের গুনাহ স্বীকার করেছে, আর বুঝেছে যে আল্লাহ তাদের সঙ্গে ইনসাফই করেছেন। কিন্তু ফিরে যাওয়ার আবদার করেছে অসময়ে। ইবন কাসীর দেখেন অন্য দিকটা। রব জানেন, ফিরিয়ে দিলে তারা আবার সেই কাজেই ফিরবে যা থেকে তাদের নিষেধ করা হয়েছিল, আর তারা মিথ্যাবাদী। কথাটা ৬:২৮ আয়াতের ভাষায়। তাই তিনি তাদের ডাকে সাড়া দেন না। ইবন কাসীর এর পাশে রাখেন ৪০:১১ ও ৪০:১২ আয়াত, যেখানে এরাই জিজ্ঞেস করে, বের হওয়ার কোনো পথ আছে কি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Did We Not Give You Years",
+          "bn": "আমি কি তোমাদের আয়ু দিইনি"
+        },
+        "p": [
+          {
+            "en": "The reply opens a-wa-lam nu'ammirkum: did We not give you life long enough? Al-Qurtubi notes that this answers their plea, with the words it will be said to them left unspoken. Ma yatadhakkaru fihi man tadhakkar: long enough for whoever would take heed to take heed in it. Ibn Kathir paraphrases: did you not live lifetimes in the world in which, had you been people who profit from the truth, you would have profited from it?",
+            "bn": "জবাব শুরু হয় আওয়া লাম নু‘আম্মিরকুম দিয়ে: আমি কি তোমাদের যথেষ্ট আয়ু দিইনি? কুরতুবী বলেন, এটা তাদের কাকুতির জবাব, তবে ‘তাদের বলা হবে’ কথাটা উহ্য। মা ইয়াতাযাক্কারু ফীহি মান তাযাক্কার: এতটা আয়ু, যার ভেতরে কেউ উপদেশ নিতে চাইলে নিতে পারত। ইবন কাসীরের ভাষায়: তোমরা কি দুনিয়ায় এতটা কাল বেঁচে থাকোনি যে, সত্য থেকে লাভ নেওয়ার মানুষ হলে ওই সময়েই লাভ নিতে পারতে?"
+          },
+          {
+            "en": "As-Sa'di turns the question into an account of what was given. We let you enjoy the world, poured provision on you, lengthened your lives, sent you sign after sign, brought you the warnings, and tried you with good times and hard ones so that you would turn back to Us. No warning worked on you. We held back the punishment until your terms were complete and you left the abode where change was possible. And now you ask to return? Far from it, he writes: the time has passed.",
+            "bn": "সা'দী প্রশ্নটাকে খুলে দেন দেওয়া জিনিসের হিসাবে। আমি তোমাদের দুনিয়া ভোগ করতে দিয়েছি, রিজিক ঢেলে দিয়েছি, আয়ু বাড়িয়ে দিয়েছি। একের পর এক নিদর্শন পাঠিয়েছি, সতর্কবাণী পৌঁছে দিয়েছি। সুখে আর কষ্টে পরীক্ষা করেছি, যাতে তোমরা আমার দিকে ফেরো। কোনো সতর্কবাণী তোমাদের উপর কাজ করেনি। শাস্তি পিছিয়ে রেখেছি, যতক্ষণ না তোমাদের মেয়াদ ফুরিয়েছে আর তোমরা সুযোগের ঘর ছেড়ে চলে এসেছ। এখন ফিরে যেতে চাও? তিনি লেখেন, তা অনেক দূরের কথা। সে সময় পেরিয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seventeen to Sixty",
+          "bn": "সতেরো থেকে ষাট"
+        },
+        "p": [
+          {
+            "en": "How long is long enough? At-Tabari says plainly that the commentators differed, and Ibn Kathir sets out the reports from the youngest age up. From Ali ibn al-Husayn Zayn al-Abidin: seventeen years. From Qatada: eighteen, with a warning attached: know that a long life is a proof against you, so we seek refuge in Allah from being reproached for it; this verse came down, and among them was a youth of eighteen. From Wahb ibn Munabbih: twenty.",
+            "bn": "কতটা আয়ু হলে ‘যথেষ্ট’? তাবারী সোজাসুজি বলেন, মুফাসসিররা এ নিয়ে মতভেদ করেছেন। ইবন কাসীর বর্ণনাগুলো সাজান সবচেয়ে কম বয়স থেকে উপরের দিকে। আলী ইবনুল হুসাইন যাইনুল আবেদীন থেকে: সতেরো বছর। কাতাদা থেকে: আঠারো, সঙ্গে এক সতর্কবাণী। জেনে রাখো, লম্বা আয়ু তোমার বিরুদ্ধে দলিল, তাই এর জন্য তিরস্কৃত হওয়া থেকে আমরা আল্লাহর আশ্রয় চাই। এ আয়াত যখন নাযিল হয়, তাদের মধ্যে আঠারো বছরের তরুণও ছিল। ওয়াহব ইবন মুনাব্বিহ থেকে: ২০ বছর।"
+          },
+          {
+            "en": "Al-Baghawi gives eighteen from Ata, Qatada and al-Kalbi, and before them, under it is said, puberty itself. Then comes forty, which Ibn Kathir and al-Baghawi both give from al-Hasan. At-Tabari and Ibn Kathir carry Masruq's advice: when any of you reaches forty, let him be on his guard before Allah. At-Tabari also narrates, through Mujahid, that Ibn Abbas said the age at which Allah left the son of Adam no excuse is forty years.",
+            "bn": "বাগাভী আঠারোর মত আনেন আতা, কাতাদা আর কালবী থেকে। তার আগে ‘বলা হয়’ বলে উল্লেখ করেন বালেগ হওয়ার বয়স। এরপর চল্লিশ। ইবন কাসীর ও বাগাভী দুজনেই এ মত আনেন হাসান বসরী থেকে। তাবারী ও ইবন কাসীর মাসরূকের উপদেশটি বর্ণনা করেন: তোমাদের কেউ চল্লিশে পৌঁছালে সে যেন আল্লাহর ব্যাপারে সাবধান হয়ে যায়। তাবারী মুজাহিদের সূত্রে আরও বর্ণনা করেন, ইবন আব্বাস (রাঃ) বলেছেন: যে বয়সে আল্লাহ আদমসন্তানের অজুহাত শেষ করে দিয়েছেন, তা চল্লিশ বছর।"
+          },
+          {
+            "en": "Then sixty. At-Tabari has it from Ibn Abbas by two further routes, again through Mujahid, and from Ali: the age Allah gave you is sixty years. Al-Qurtubi lists Ali, Ibn Abbas and Abu Hurayra for sixty. Ma'arif al-Qur'an reads seventeen and eighteen as two estimates of puberty, which comes to some a year before others. From then a person has reason enough to tell true from false, it says, and sixty is the span after which no excuse is left.",
+            "bn": "তারপর ষাট। তাবারী ইবন আব্বাস (রাঃ) থেকে এ মত আনেন আরও দুটি সূত্রে, এবারও মুজাহিদের মাধ্যমে। আলী (রাঃ) থেকেও আনেন: আল্লাহ তোমাদের যে আয়ু দিয়েছেন, তা ষাট বছর। কুরতুবী ষাটের পক্ষে নাম নেন আলী, ইবন আব্বাস ও আবু হুরায়রা (রাঃ)-এর। মাআরিফুল কুরআন সতেরো আর আঠারোকে বালেগ হওয়ার বয়সের দুটি আন্দাজ হিসেবে পড়ে। কেউ একজন এক বছর আগে বালেগ হয়, কেউ পরে। তার মতে তখন থেকেই মানুষ সত্য-মিথ্যা চেনার মতো বুদ্ধি পায়, আর ষাট এমন দীর্ঘ সময় যার পর কোনো অজুহাত বাকি থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forty or Sixty",
+          "bn": "চল্লিশ, না ষাট"
+        },
+        "p": [
+          {
+            "en": "Between forty and sixty the commentators do not merely list; they disagree. At-Tabari chooses forty as the reading closer to the verse. His reason is that at forty a person's reason and understanding reach their height, and what comes before and after falls short of it. He adds a second reason: the report from the Prophet ﷺ he cites for sixty has in its chain, he says, some whose transmission must be checked.",
+            "bn": "চল্লিশ আর ষাট নিয়ে মুফাসসিররা শুধু মত গুনে যান না, তাঁরা দ্বিমত করেন। তাবারী আয়াতের অর্থের বেশি কাছাকাছি মনে করেন চল্লিশকে। তাঁর যুক্তি: চল্লিশে মানুষের বুদ্ধি আর বোঝার ক্ষমতা পূর্ণতায় পৌঁছে, আগে বা পরে তা ওই পূর্ণতার চেয়ে কম থাকে। দ্বিতীয় একটি কারণও তিনি দেন। ষাটের পক্ষে নবী ﷺ থেকে যে বর্ণনা তিনি এনেছেন, তাঁর ভাষায় তার সনদে এমন কিছু বর্ণনাকারী আছেন, যাঁদের বর্ণনা যাচাই করে নিতে হয়।"
+          },
+          {
+            "en": "Ibn Kathir answers him by name. The sixty report from Ibn Abbas is the sounder report, he says, and correct in itself, because of the hadith established on the point, not as Ibn Jarir claimed. He gathers its routes through Sa'id al-Maqburi from Abu Hurayra and concludes that it is sound: the route accepted by al-Bukhari, whom he calls the master of this craft, would suffice alone, and Ibn Jarir's remark is not to be heeded against it. Yet of another report, 'where are the sons of sixty?', he says a narrator in it leaves it open to question.",
+            "bn": "ইবন কাসীর তাবারীর নাম ধরে জবাব দেন। তিনি বলেন, ইবন আব্বাস (রাঃ) থেকে ষাটের বর্ণনাটিই বেশি বিশুদ্ধ, আর বাস্তবেও সেটাই সঠিক। কারণ এ বিষয়ে হাদীস প্রমাণিত, ইবন জারীর যেমন দাবি করেছেন তেমন নয়। তিনি সাঈদ মাকবুরীর মাধ্যমে আবু হুরায়রা (রাঃ) থেকে আসা সূত্রগুলো একত্র করেন এবং সিদ্ধান্ত দেন যে হাদীসটি সহীহ। বুখারী যে সূত্রটি গ্রহণ করেছেন, শুধু সেটাই যথেষ্ট ছিল। বুখারীকে তিনি বলেন এ শাস্ত্রের ওস্তাদ, আর তাঁর বিপরীতে ইবন জারীরের আপত্তিতে কান দেওয়ার দরকার নেই। তবে ‘ষাট বছরের লোকেরা কোথায়?’ এই আরেকটি বর্ণনা সম্পর্কে তিনি বলেন, এক বর্ণনাকারীর কারণে এতে আপত্তির জায়গা আছে।"
+          },
+          {
+            "en": "Al-Qurtubi keeps both standing. Having named those who said sixty, he says that forty too has a sound basis, citing 46:15, until when he reached his full strength and reached forty years. He reports Malik as saying that the scholars of his city sought the world and knowledge and mixed with people until forty came to them; then they withdrew and busied themselves with the Resurrection until death came.",
+            "bn": "কুরতুবী দুটো মতই টিকিয়ে রাখেন। ষাটের পক্ষের নামগুলো বলার পর তিনি বলেন, চল্লিশের মতেরও শক্ত ভিত্তি আছে। দলিল হিসেবে আনেন ৪৬:১৫ আয়াত: অবশেষে যখন সে পূর্ণ শক্তিতে পৌঁছাল এবং চল্লিশ বছরে পা দিল। তিনি ইমাম মালিকের একটি কথাও আনেন। তাঁর শহরের আলেমরা দুনিয়া আর ইলম দুটোই খুঁজতেন, মানুষের সঙ্গে মিশতেন, যতক্ষণ না বয়স চল্লিশ হতো। চল্লিশ হলে তাঁরা মানুষ থেকে সরে যেতেন আর মৃত্যু পর্যন্ত কিয়ামতের প্রস্তুতিতে ডুবে থাকতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Excuse Runs Out",
+          "bn": "যখন অজুহাত ফুরিয়ে যায়"
+        },
+        "p": [
+          {
+            "en": "The narration the commentators lean on is in Sahih al-Bukhari, number 6419 in the Darussalam numbering. In that edition's English it reads: Narrated Abu Huraira: The Prophet (ﷺ) said, \"Allah will not accept the excuse of any person whose instant of death is delayed till he is sixty years of age.\" The Arabic verb is a'dhara: Allah has done with excuses towards a man whose term He postponed until He brought him to sixty. Al-Bukhari placed it in his Sahih.",
+            "bn": "মুফাসসিররা যে বর্ণনার উপর ভর দেন, তা সহীহ বুখারীতে আছে, দারুস সালাম নম্বর অনুযায়ী ৬৪১৯। সে সংস্করণের ইংরেজি ভাষ্যে আছে: আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন, যার মৃত্যুর মুহূর্ত ষাট বছর বয়স পর্যন্ত পিছিয়ে দেওয়া হয়েছে, আল্লাহ তার কোনো অজুহাত কবুল করবেন না। আরবি ক্রিয়াটি আ‘যারা। যে মানুষের মেয়াদ আল্লাহ পিছিয়ে দিয়ে তাকে ষাটে পৌঁছে দিয়েছেন, তার অজুহাতের পালা তিনি শেষ করে দিয়েছেন। হাদীসটি বুখারী তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন।"
+          },
+          {
+            "en": "The hadith's wording does not mention the verse. The link is made in al-Bukhari's chapter heading, which al-Qurtubi quotes: whoever reaches sixty, Allah has left him no excuse in life, because of His words did We not give you life long enough, and the warner came to you, meaning grey hair. Al-Qurtubi then cites al-Khattabi: a'dhara ilayhi means He brought him to the utmost limit of excuse. The explanation goes on: sixty is near the time when deaths crowd in, the age of turning back, humility and waiting to meet Allah.",
+            "bn": "হাদীসের ভাষায় আয়াতটির উল্লেখ নেই। সংযোগটা ঘটিয়েছে বুখারীর অধ্যায়-শিরোনাম, যা কুরতুবী উদ্ধৃত করেন: যে ষাটে পৌঁছায়, আয়ুর ব্যাপারে আল্লাহ তার অজুহাত শেষ করে দিয়েছেন। কারণ আল্লাহ বলেছেন, আমি কি তোমাদের যথেষ্ট আয়ু দিইনি, আর তোমাদের কাছে সতর্ককারী এসেছিল। সতর্ককারী মানে পাকা চুল। এরপর কুরতুবী খাত্তাবীর কথা আনেন: আ‘যারা ইলাইহি মানে তাকে অজুহাতের শেষ সীমায় পৌঁছে দিয়েছেন। ব্যাখ্যাটি আরও এগোয়: ষাট মৃত্যুর ভিড়ের খুব কাছের বয়স। এ বয়স আল্লাহর দিকে ফেরার, বিনয়ের, আর তাঁর সাক্ষাতের অপেক্ষার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Prophet or Grey Hair",
+          "bn": "নবী ﷺ, নাকি পাকা চুল"
+        },
+        "p": [
+          {
+            "en": "Wa ja'akumu n-nadhir: and the warner came to you. Who is the warner? Ibn Kathir names those who said grey hair: Ibn Abbas, Ikrima, Abu Ja'far al-Baqir, Qatada and Sufyan ibn Uyayna. Al-Baghawi gives it from Ikrima, Sufyan and Waki', in the sense: did We not give you life until you turned grey? On the other side, Ibn Kathir has as-Suddi and Ibn Zayd saying it is the Messenger ﷺ, with Ibn Zayd reciting 53:56, this is a warner of the warners of old.",
+            "bn": "ওয়া জা-আকুমুন নাযীর: আর তোমাদের কাছে সতর্ককারী এসেছিল। কে এই সতর্ককারী? ইবন কাসীর তাঁদের নাম বলেন যাঁরা বলেছেন পাকা চুল: ইবন আব্বাস (রাঃ), ইকরিমা, আবু জা‘ফর বাকির, কাতাদা ও সুফইয়ান ইবন উয়াইনা। বাগাভী এ মত আনেন ইকরিমা, সুফইয়ান ও ওয়াকী‘ থেকে, এই অর্থে: আমি কি তোমাদের এতটা আয়ু দিইনি যে চুল পেকে গেছে? অন্য পক্ষে ইবন কাসীর আনেন সুদ্দী ও ইবন যায়দের মত: সতর্ককারী হলেন রাসূল ﷺ। ইবন যায়দ এর সমর্থনে পড়েন ৫৩:৫৬ আয়াত: ইনি পূর্ববর্তী সতর্ককারীদের মতোই এক সতর্ককারী।"
+          },
+          {
+            "en": "Al-Baghawi calls the Prophet ﷺ the view of most commentators, and the Muyassar simply writes: the Prophet ﷺ came to you. Ibn Kathir takes this side: it is the sound report from Qatada, who said Allah argued against them with their life-span and the messengers; it is Ibn Jarir's choice and the more apparent meaning, because of 43:77 and 43:78, 17:15, and 67:8 and 67:9. One detail does not line up. Al-Qurtubi counts at-Tabari among those who said grey hair, yet at-Tabari's own text gives the Prophet ﷺ from Ibn Zayd, grey hair under it is said, and closes with a warner who brought them what came from their Lord.",
+            "bn": "বাগাভী বলেন, সতর্ককারী মুহাম্মাদ ﷺ, আর এটাই অধিকাংশ মুফাসসিরের মত। মুয়াসসার সোজা লেখে: তোমাদের কাছে নবী ﷺ এসেছিলেন। ইবন কাসীর এই পক্ষ নেন। তাঁর মতে কাতাদা থেকে বিশুদ্ধ বর্ণনা এটাই: আল্লাহ তাদের বিরুদ্ধে দলিল দাঁড় করিয়েছেন আয়ু দিয়ে আর রাসূলদের দিয়ে। এটাই ইবন জারীরের পছন্দ এবং আয়াতের বাহ্যিক অর্থ, প্রমাণ ৪৩:৭৭ ও ৪৩:৭৮, ১৭:১৫, আর ৬৭:৮ ও ৬৭:৯ আয়াত। একটা খুঁটিনাটি অবশ্য মেলে না। কুরতুবী তাবারীকে পাকা চুলের পক্ষে গণ্য করেন। অথচ তাবারীর নিজের লেখায় ইবন যায়দ থেকে আসে নবী ﷺ-এর মত, পাকা চুল আসে ‘বলা হয়’ দিয়ে। আর শেষে তিনি বলেন এমন সতর্ককারীর কথা, যিনি রবের কাছ থেকে বাণী নিয়ে এসেছিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi widens the field. Some said the warner is the Qur'an, some fever, some the death of family and relatives, some the full ripening of reason. Grey hair, fever and the death of loved ones, he says, are all warnings of death, while the Prophet ﷺ was sent as a warner to cut off people's arguments, citing 4:165. Ma'arif al-Qur'an likewise sees no contradiction: grey hair can carry the warning alongside the prophets and the scholars who carry on their mission.",
+            "bn": "কুরতুবী পরিসরটা আরও বাড়িয়ে দেন। কেউ বলেছেন সতর্ককারী কুরআন, কেউ জ্বর, কেউ পরিবার ও আত্মীয়দের মৃত্যু, কেউ বুদ্ধির পূর্ণতা। তাঁর মতে পাকা চুল, জ্বর, আপনজনের মৃত্যু, সবই মৃত্যুর সতর্কবার্তা। আর নবী ﷺ-কে পাঠানো হয়েছে সতর্ককারী করে, যাতে মানুষের অজুহাতের পথ বন্ধ হয়। এখানে তিনি আনেন ৪:১৬৫ আয়াত। মাআরিফুল কুরআনও এতে কোনো বিরোধ দেখে না। তার মতে নবীগণ এবং তাঁদের দায়িত্ব বহনকারী আলেমদের পাশাপাশি পাকা চুলও সতর্কবার্তা বয়ে আনতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taste, and No Helper",
+          "bn": "স্বাদ নাও, সাহায্যকারী নেই"
+        },
+        "p": [
+          {
+            "en": "Fa-dhuqu fa-ma li-z-zalimina min nasir: so taste, for the wrongdoers have no helper. Al-Qurtubi: taste the punishment of Jahannam, because you neither took the lesson nor heeded the warning; no helper means none to hold off Allah's punishment. Ibn Kathir: taste it as recompense for opposing the prophets throughout your lives. As-Sa'di: no helper to bring them out or lighten the punishment, the very things they asked for. The verse began with a cry for rescue, and it ends with no one to answer it.",
+            "bn": "ফাযূকূ ফামা লিয-যালিমীনা মিন নাসীর: অতএব স্বাদ নাও, যালিমদের কোনো সাহায্যকারী নেই। কুরতুবী বলেন: জাহান্নামের শাস্তির স্বাদ নাও, কারণ তোমরা শিক্ষাও নাওনি, সতর্কবাণীও মানোনি। আর সাহায্যকারী নেই মানে আল্লাহর শাস্তি ঠেকানোর কেউ নেই। ইবন কাসীর বলেন: জীবনভর নবীদের বিরোধিতার প্রতিফল হিসেবে এর স্বাদ নাও। সা'দী বলেন: এমন কেউ নেই যে তাদের বের করবে, কিংবা শাস্তি হালকা করবে। ঠিক এগুলোই তারা চেয়েছিল। আয়াত শুরু হয়েছিল উদ্ধারের আর্তনাদ দিয়ে, আর শেষ হয় এমন জায়গায় যেখানে সে ডাকে সাড়া দেওয়ার কেউ নেই।"
+          },
+          {
+            "en": "The verse describes what the text describes: the plea of those it calls the wrongdoers, in the Fire, and the answer they are given. It licenses nothing against any living person or community. It hands no reader the right to say who among the living will stand where these people stand, or to read anyone's grey hair or long life as a verdict on them. The question it repeats, did We not give you life long enough, is put to every reader about his own years.",
+            "bn": "আয়াতটি ঠিক ততটুকুই বলে, যতটুকু এর ভাষায় আছে: আগুনের ভেতরে যাদের যালিম বলা হয়েছে তাদের কাকুতি, আর তাদের দেওয়া জবাব। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। জীবিতদের মধ্যে কে একদিন এদের জায়গায় দাঁড়াবে, তা বলার অধিকার এ আয়াত কোনো পাঠককে দেয় না। কারও পাকা চুল বা লম্বা আয়ুকে তার বিরুদ্ধে রায় হিসেবে পড়ারও অধিকার দেয় না। ‘আমি কি তোমাদের যথেষ্ট আয়ু দিইনি’, এ প্রশ্ন প্রত্যেক পাঠকের সামনে রাখা হয়েছে তার নিজের বছরগুলো নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counting One's Own Years",
+          "bn": "নিজের বয়সের হিসাব"
+        },
+        "p": [
+          {
+            "en": "The commentators' numbers make a strange kind of calendar. Seventeen, eighteen, twenty, forty, sixty: whatever age the reader is, one of those thresholds is behind him or ahead of him, and none of them promises that more years will follow. Qatada's sentence cuts closest: a long life is a proof against you. Masruq's advice at forty turns the same thought into practice. The verse does not ask the people of the Fire how well they meant. It asks about the years they were given.",
+            "bn": "মুফাসসিরদের বলা সংখ্যাগুলো যেন এক অদ্ভুত ক্যালেন্ডার। সতেরো, আঠারো, ২০, চল্লিশ, ষাট। পাঠকের বয়স যা-ই হোক, এর কোনো একটা সীমা হয় পেছনে ফেলে এসেছেন, নয়তো সামনে আছে। আর কোনোটাই এই নিশ্চয়তা দেয় না যে এরপরও বছর আসবে। কাতাদার কথাটা সবচেয়ে গভীরে বেঁধে: লম্বা আয়ু তোমার বিরুদ্ধে দলিল। চল্লিশে মাসরূকের উপদেশ সেই একই ভাবনাকে আমলে নামিয়ে আনে। আয়াতটি জাহান্নামবাসীদের জিজ্ঞেস করে না, তাদের নিয়ত কতটা ভালো ছিল। জিজ্ঞেস করে, তাদের যে বছরগুলো দেওয়া হয়েছিল সেগুলোর কথা।"
+          },
+          {
+            "en": "Their plea is close to words people say every day in this world: I will change, I will do better, not the way I used to. In the Fire the promise is made where it can no longer be kept. Here it still can. A reader might count the years already given, name the thing he would beg to come back and change, and change it now. As-Sa'di called this world the abode where change is possible, and the warner, on any of the commentators' readings, has already come.",
+            "bn": "তাদের কাকুতি দুনিয়ার মানুষের রোজকার কথার খুব কাছাকাছি: আমি বদলাব, আরও ভালো হব, আগের মতো আর নয়। জাহান্নামে এ প্রতিশ্রুতি দেওয়া হয় এমন জায়গায়, যেখানে তা আর রক্ষা করা যায় না। এখানে এখনো যায়। পাঠক চাইলে এরই মধ্যে পাওয়া বছরগুলো গুনে দেখতে পারেন। যে জিনিসটা বদলানোর জন্য তিনি ফিরে আসার কাকুতি করতেন, তার নাম দিতে পারেন, তারপর এখনই সেটা বদলে ফেলতে পারেন। সা'দী দুনিয়াকে বলেছেন সুযোগের ঘর। আর মুফাসসিরদের যে ব্যাখ্যাই ধরা হোক, সতর্ককারী এরই মধ্যে এসে গেছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "35:42": {
     "sections": [
       {

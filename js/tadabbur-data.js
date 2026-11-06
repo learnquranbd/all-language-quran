@@ -25549,6 +25549,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah needs no army to end what defies Him; one shout was enough. Do not mistake His patience for weakness, and turn to Him before your own sudden stillness comes.",
     "lessonBn": "যা তাঁর অবাধ্য হয়, তা শেষ করতে আল্লাহর কোনো বাহিনীর দরকার হয় না, একটি আওয়াজই যথেষ্ট ছিল। তাঁর সহনশীলতাকে দুর্বলতা ভাববেন না, আর নিজের হঠাৎ থেমে যাওয়ার দিন আসার আগেই তাঁর দিকে ফিরে আসুন।"
+  },
+  "35:37": {
+    "reflectionEn": "A voice rises out of the Fire, then many: our Lord, bring us out, and we will do good, not what we used to do. It may be the most sincere promise they have ever made, and it comes too late. The answer is a question: did We not give you life long enough for anyone who would remember to remember, and did the warner not come to you? Nothing is said about how long their days were, only that they were enough. The verse is not about them alone. I am living inside the years that question will ask about. How many have already gone, and what in them would I want to do differently, while doing differently is still possible?",
+    "reflectionBn": "আগুনের ভেতর থেকে একটা আওয়াজ ওঠে, তারপর অনেকগুলো: হে আমাদের রব, আমাদের বের করে দিন, আমরা ভালো কাজ করব, আগে যা করতাম তা নয়। হয়তো জীবনে এর চেয়ে আন্তরিক প্রতিশ্রুতি তারা কখনো দেয়নি। কিন্তু তা এসেছে বড় দেরিতে। জবাব আসে প্রশ্নের আকারে: আমি কি তোমাদের এতটা আয়ু দিইনি, যাতে যে উপদেশ নিতে চায় সে নিতে পারত? আর সতর্ককারী কি তোমাদের কাছে আসেনি? তাদের জীবন কত লম্বা ছিল, আয়াত তা বলে না। শুধু বলে, যথেষ্ট ছিল। এ আয়াত শুধু তাদের কথা নয়। যে বছরগুলো নিয়ে একদিন এই প্রশ্ন হবে, আমি এখন সেগুলোর ভেতরেই বেঁচে আছি। কতগুলো বছর এরই মধ্যে চলে গেছে? তার কোনটা আমি অন্যভাবে কাটাতে চাইতাম? অন্যভাবে কাটানোর সুযোগ তো এখনো হাতে আছে।",
+    "pointsEn": [
+      "If I were given the return they beg for, what is the first thing I would change, and why have I not changed it already?",
+      "How many years have I been given so far, and which of them did I spend as though more were guaranteed?",
+      "What warnings have already reached me: a verse that stopped me, a death in the family, an illness, a first grey hair?",
+      "Do I keep promising myself that I will do better later, in words close to the ones the people of the Fire use too late?",
+      "Who reminded me of Allah this year, and did I act on the reminder or only thank them for it?"
+    ],
+    "pointsBn": [
+      "তারা যে ফিরে আসার জন্য কাকুতি করবে, সে সুযোগ যদি আমাকে দেওয়া হতো, প্রথমে কী বদলাতাম? আর সেটা এখনো কেন বদলাইনি?",
+      "এ পর্যন্ত আমাকে কত বছর আয়ু দেওয়া হয়েছে? তার কোন বছরগুলো কাটিয়েছি এমনভাবে, যেন আরও সময় পাওয়া নিশ্চিত?",
+      "কোন কোন সতর্কবার্তা এরই মধ্যে আমার কাছে পৌঁছেছে: থমকে দেওয়া কোনো আয়াত, পরিবারের কারও মৃত্যু, কোনো অসুখ, প্রথম পাকা চুল?",
+      "আমি কি নিজেকে বারবার কথা দিই যে পরে ভালো হব? জাহান্নামবাসীরা দেরিতে যে কথা বলবে, আমার কথা কি তার খুব কাছাকাছি নয়?",
+      "এ বছর কে আমাকে আল্লাহর কথা মনে করিয়ে দিয়েছে? সে কথা মতো কি আমল করেছি, নাকি শুধু তাকে ধন্যবাদ দিয়েছি?"
+    ],
+    "lessonEn": "The years you have now are the time to remember and to change; the return the people of the Fire will beg for is the life already in your hands.",
+    "lessonBn": "এখন যে বছরগুলো আপনার হাতে, সেটাই উপদেশ নেওয়ার আর বদলে যাওয়ার সময়। জাহান্নামবাসীরা যে ফিরে আসার জন্য কাকুতি করবে, সে জীবন আজ আপনার হাতেই আছে।"
   }
 };
 
