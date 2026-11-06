@@ -579,6 +579,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "81:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Stars, Night and Dawn",
+          "bn": "তারা, রাত আর ভোরের পরে"
+        },
+        "p": [
+          {
+            "en": "Innahu la-qawlu rasulin karim: indeed, it is the word of a noble messenger. Four words in Arabic, and they carry the weight of everything sworn in 81:15 to 81:18. Al-Qurtubi opens his comment with a single clause: this is the answer to the oath. The stars that draw back and run their courses and set, the night as it closes in, the dawn as it breathes: all of it was sworn so that this sentence could follow. The Muyassar folds oaths and answer into one sentence, from the stars whose light is hidden by day to the claim that the Qur'an is the conveying of a noble messenger.",
+            "bn": "ইন্নাহু লাকাওলু রাসূলিন কারীম: নিশ্চয়ই এ এক সম্মানিত রাসূলের বাণী। আরবিতে মাত্র চারটি শব্দ, অথচ ৮১:১৫ থেকে ৮১:১৮ পর্যন্ত যত শপথ, সবগুলোর ভার এরা বহন করে। কুরতুবী তাঁর আলোচনা শুরু করেন এক বাক্যে: এটাই শপথের জবাব। পিছিয়ে যাওয়া, চলতে চলতে আড়ালে লুকানো তারা, ঘনিয়ে আসা রাত, নিঃশ্বাস ফেলা ভোর, এ সবের শপথ করা হয়েছে এই বাক্যটি বলার জন্যই। মুয়াসসার শপথ আর জবাবকে একটি বাক্যে গেঁথে দেয়। দিনের বেলা যে তারার আলো লুকিয়ে থাকে, সেখান থেকে শুরু করে সে পৌঁছে যায় এই দাবিতে: কুরআন এক সম্মানিত রাসূলের পৌঁছে দেওয়া বাণী।"
+          },
+          {
+            "en": "The verse opens with a pronoun, innahu, it, and names nothing for the pronoun to point back to. None of the things sworn by is the it. The commentators supply the missing noun without hesitation. Al-Baghawi writes: it, meaning the Qur'an. At-Tabari begins his gloss with this Qur'an. The word Qur'an itself does not occur anywhere in at-Takwir. The surah has spent fourteen verses on the end of the world, and now a pronoun lands on a speech that has not yet been named, as though everyone listening already knew which speech was in dispute.",
+            "bn": "আয়াতটি শুরু হয় একটি সর্বনাম দিয়ে: ইন্নাহু, নিশ্চয়ই তা। কিন্তু এ 'তা' কাকে বোঝাচ্ছে, আগে তার কোনো নাম নেই। যেসব জিনিসের শপথ করা হলো, তাদের কোনোটাই এই 'তা' নয়। তাফসীরকারেরা কোনো দ্বিধা ছাড়াই শূন্য জায়গাটা ভরে দেন। বাগাভী লেখেন: তা, অর্থাৎ কুরআন। তাবারী তাঁর ব্যাখ্যা শুরু করেন 'এই কুরআন' দিয়ে। পুরো সূরা তাকভীরে কুরআন শব্দটি একবারও আসেনি। চৌদ্দটি আয়াত জুড়ে সূরাটি দুনিয়ার শেষের কথা বলেছে। তারপর হঠাৎ একটি সর্বনাম এসে পড়ে এমন এক বাণীর উপর, যার নাম তখনো নেওয়া হয়নি। যেন শ্রোতারা সবাই আগে থেকেই জানত, কোন বাণী নিয়ে বিবাদ চলছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sworn on a Lofty Sanad",
+          "bn": "সনদের উচ্চতার উপর শপথ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di says what the oaths are for. On 81:18 he calls the stars, the night and the dawn great signs, and says that Allah swore by them upon the loftiness of the Qur'an's sanad, its majesty, and its protection from every accursed devil. Then, he writes, He said: indeed, it is the word of a noble messenger. Sanad is the word for a chain of transmission, the line of carriers through whom a report reaches the one who hears it. As-Sa'di applies the word to the Qur'an itself, and on his reading the oath is sworn on how high that chain reaches.",
+            "bn": "শপথগুলো কীসের জন্য, সা'দী তা বলে দেন। ৮১:১৮-এর আলোচনায় তিনি তারা, রাত আর ভোরকে বলেন মহান নিদর্শন। তাঁর ভাষায়, আল্লাহ এগুলোর শপথ করেছেন কুরআনের সনদের উচ্চতা, তার মহিমা, আর প্রত্যেক বিতাড়িত শয়তান থেকে তার সুরক্ষার উপর। তারপর, তিনি লেখেন, আল্লাহ বললেন: নিশ্চয়ই এ এক সম্মানিত রাসূলের বাণী। সনদ মানে বর্ণনার ধারা, যাদের হাত ঘুরে একটি খবর শ্রোতার কাছে পৌঁছায়। সা'দী শব্দটি খাটিয়েছেন খোদ কুরআনের উপর। তাঁর পাঠে শপথটা করা হয়েছে এ কথার উপর যে, এই ধারা কত উঁচুতে গিয়ে পৌঁছেছে।"
+          },
+          {
+            "en": "The chain has few links, and as-Sa'di names them with a verse from another surah. Jibril (AS), he says, brought it down from Allah, as Allah said in 26:192 to 26:194: it is the revelation of the Lord of the worlds; the Trustworthy Spirit brought it down upon your heart, that you may be among the warners. From the Lord of the worlds, through the Spirit, onto the heart of the Prophet ﷺ: that is the sanad the oaths are sworn on. Who the Spirit is has its own page under 26:193. Here it matters only that as-Sa'di reads the two passages as one claim.",
+            "bn": "এ ধারায় কড়ি খুব কম, আর সা'দী অন্য এক সূরার আয়াত দিয়ে সেগুলোর নাম বলে দেন। তিনি বলেন, জিবরাঈল (আঃ) এটি আল্লাহর কাছ থেকে নিয়ে নেমেছেন, যেমন আল্লাহ ২৬:১৯২ থেকে ২৬:১৯৪ আয়াতে বলেছেন: এটি জগতসমূহের রবের নাজিল করা। বিশ্বস্ত রূহ এটি নিয়ে নেমেছেন আপনার হৃদয়ে, যাতে আপনি সতর্ককারীদের একজন হন। জগতসমূহের রব থেকে, রূহের মাধ্যমে, নবী ﷺ-এর হৃদয় পর্যন্ত: শপথগুলো এই সনদের উপরই। রূহ কে, সে আলোচনা আছে ২৬:১৯৩-এর পাতায়। এখানে শুধু এটুকু দরকার যে, সা'দী দুই জায়গার কথাকে একই দাবি হিসেবে পড়েন।"
+          },
+          {
+            "en": "The third thing as-Sa'di names, protection from every accursed devil, is answered at the end of the passage, in 81:25: and it is not the word of an outcast devil. So the answer to the oath opens by saying who did carry the speech and closes by saying who did not. Between those two statements stand the qualities of the carrier in 81:20 and 81:21 and the defence of the Prophet ﷺ in 81:22 to 81:24. This verse names the carrier first, and the rest of the passage leans on it.",
+            "bn": "সা'দীর বলা তৃতীয় বিষয়, প্রত্যেক বিতাড়িত শয়তান থেকে সুরক্ষা, তার জবাব আসে অংশটির শেষে, ৮১:২৫ আয়াতে: আর এটি কোনো বিতাড়িত শয়তানের কথা নয়। অর্থাৎ শপথের জবাব শুরু হয় কে এ বাণী বয়ে এনেছেন তা বলে, আর শেষ হয় কে বয়ে আনেনি তা বলে। এ দুই কথার মাঝখানে আছে ৮১:২০ ও ৮১:২১-এ বাহকের গুণাবলি, আর ৮১:২২ থেকে ৮১:২৪-এ নবী ﷺ-এর পক্ষে জবাব। বাহকের কথা আসে সবার আগে, এই আয়াতে, আর অংশটির বাকি সবকিছু এর উপর ভর দিয়ে দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Conveyed, Not Composed",
+          "bn": "পৌঁছে দেওয়া, রচনা নয়"
+        },
+        "p": [
+          {
+            "en": "The phrase qawlu rasul, the word of a messenger, needs a verb to open it, and each commentator supplies one. Ibn Kathir writes that this Qur'an is the tabligh, the conveying, of a noble messenger, and the Muyassar uses the same word. At-Tabari writes tanzil, the sending down: the sending down of a noble messenger, Jibril, who brought it down to Muhammad ibn Abdullah. Al-Baghawi says Jibril brought it down from Allah, and as-Sa'di says the same. Al-Qurtubi gives the sense as a messenger from Allah who is noble in Allah's sight.",
+            "bn": "কাওলু রাসূল, রাসূলের বাণী: কথাটা খুলতে একটা ক্রিয়া লাগে, আর প্রত্যেক তাফসীরকার নিজের মতো একটা জুড়ে দেন। ইবন কাসীর লেখেন, এই কুরআন এক সম্মানিত রাসূলের তাবলীগ, মানে পৌঁছে দেওয়া। মুয়াসসারও একই শব্দ ব্যবহার করে। তাবারী লেখেন তানযীল, নামিয়ে আনা: এক সম্মানিত রাসূলের নামিয়ে আনা বাণী। সেই রাসূল জিবরাঈল, যিনি এটি নিয়ে নেমেছেন মুহাম্মাদ ইবন আব্দুল্লাহর কাছে। বাগাভী বলেন, জিবরাঈল এটি আল্লাহর কাছ থেকে নিয়ে নেমেছেন। সা'দীর কথাও তাই। কুরতুবীর ব্যাখ্যায় অর্থ দাঁড়ায়: আল্লাহর পক্ষ থেকে আসা এক রাসূল, যিনি আল্লাহর কাছে সম্মানিত।"
+          },
+          {
+            "en": "Al-Qurtubi then explains why the speech is ascribed to a messenger at all. Allah, he says, attributed the speech to Jibril and then carried it past him with the words tanzilun min rabbi l-'alamin, a revelation from the Lord of the worlds, so that those who seek certainty in their belief would know that the speech is Allah's. The words he quotes do not occur in at-Takwir. They stand in 69:43, directly after al-Haqqa repeats this verse word for word in 69:40, and again in 56:80. Al-Qurtubi reads this surah's sentence together with its completion elsewhere.",
+            "bn": "বাণীটাকে রাসূলের সঙ্গে জোড়া হলো কেন, কুরতুবী এরপর তার ব্যাখ্যা দেন। তিনি বলেন, আল্লাহ বাণীটিকে প্রথমে জিবরাঈলের দিকে সম্পর্কিত করেছেন। তারপর তানযীলুম মির রাব্বিল আলামীন, জগতসমূহের রবের পক্ষ থেকে নাজিল করা, এ কথা বলে সম্পর্কটাকে তাঁকে ছাড়িয়ে নিয়ে গেছেন। উদ্দেশ্য, যারা ঈমানে নিশ্চিত হতে চায়, তারা যেন জানে যে বাণী আল্লাহরই। যে কথাগুলো তিনি উদ্ধৃত করেন, সেগুলো সূরা তাকভীরে নেই। আছে ৬৯:৪৩ আয়াতে, যেখানে ঠিক আগে ৬৯:৪০-এ সূরা হাক্কাহ এই আয়াতটিই হুবহু বলেছে। একই কথা আবার আছে ৫৬:৮০ আয়াতে। কুরতুবী এ সূরার বাক্যটিকে পড়েন অন্য জায়গায় থাকা তার পরিপূরকের সঙ্গে মিলিয়ে।"
+          },
+          {
+            "en": "In every gloss gathered here the messenger carries the speech; he does not make it. The ascription names the hands it passed through, and al-Qurtubi's phrase from 69:43 names where it began. How the commentators read the same four words where they recur in al-Haqqa, and whom they take the messenger to be there, is set out on the page for 69:41. This verse needs only the point al-Qurtubi makes here: the speech is truly ascribed to its carrier, and it remains Allah's.",
+            "bn": "এখানে সংগৃহীত প্রতিটি ব্যাখ্যায় রাসূল হলেন বাণীর বাহক, রচয়িতা নন। বাণীকে তাঁর দিকে সম্পর্কিত করা মানে, কোন হাত ঘুরে তা এসেছে তার নাম বলা। আর কোথা থেকে শুরু, তা বলে দেয় ৬৯:৪৩-এর যে কথা কুরতুবী উদ্ধৃত করেন। সূরা হাক্কাহতে এই চারটি শব্দ আবার এসেছে। সেখানে তাফসীরকারেরা কথাটা কীভাবে পড়েছেন, আর রাসূল বলতে কাকে বুঝেছেন, সে আলোচনা আছে ৬৯:৪১-এর পাতায়। এ আয়াতের জন্য দরকার শুধু কুরতুবীর এখানকার কথাটুকু: বাণীটি সত্যিই তার বাহকের দিকে সম্পর্কিত, আর তবুও তা আল্লাহরই বাণী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qatada, by Two Routes",
+          "bn": "দুই পথে কাতাদার কথা"
+        },
+        "p": [
+          {
+            "en": "Who is the noble messenger? At-Tabari answers Jibril, and adds that the people of interpretation said the same. He gives the view from Qatada by two separate routes, one through Sa'id and one through Ma'mar, and both end in the same short gloss: it is Jibril. Al-Qurtubi names al-Hasan, Qatada and ad-Dahhak for it. Ibn Kathir gives a longer list of early authorities that opens with Ibn Abbas. The Muyassar, al-Baghawi and as-Sa'di name Jibril (AS) without discussing any alternative. On this question the commentaries consulted here speak almost with one voice.",
+            "bn": "সম্মানিত রাসূলটি কে? তাবারীর জবাব: জিবরাঈল। সঙ্গে তিনি যোগ করেন, তাফসীরবিদেরাও একই কথা বলেছেন। এ মত তিনি কাতাদা থেকে আনেন দুটি আলাদা সূত্রে, একটি সাঈদের মাধ্যমে, অন্যটি মা'মারের মাধ্যমে। দুটিরই শেষ একই ছোট্ট ব্যাখ্যায়: তিনি জিবরাঈল। কুরতুবী এ মতের পক্ষে নাম নেন হাসান, কাতাদা আর দাহহাকের। ইবন কাসীর দেন পূর্বসূরিদের আরও লম্বা তালিকা, যার শুরু ইবন আব্বাস দিয়ে। মুয়াসসার, বাগাভী আর সা'দী অন্য কোনো মতের আলোচনা না করেই জিবরাঈল (আঃ)-এর নাম বলেন। এ প্রশ্নে এখানে দেখা তাফসীরগুলো প্রায় এক সুরে কথা বলে।"
+          },
+          {
+            "en": "Almost, because al-Qurtubi also records another reading, introduced only with the words it is said and with no authority named: the messenger is Muhammad ﷺ. Ma'arif al-Qur'an likewise notes that some commentators took it that way. On 81:21 al-Qurtubi shows how that reading would run. Possessed of power would then mean power to convey the message, and obeyed would mean obeyed by whoever obeys Allah. Every commentary consulted here adopts the first identification; the second is reported as they report it, with its own internal logic, and is not weighed further here.",
+            "bn": "প্রায় বলছি, কারণ কুরতুবী আরেকটি মতও উল্লেখ করেন। মতটি তিনি আনেন শুধু 'বলা হয়' কথাটি দিয়ে, কারও নাম না নিয়ে: রাসূল মানে মুহাম্মাদ ﷺ। মাআরিফুল কুরআনও জানায়, কিছু তাফসীরকার এভাবে বুঝেছেন। ৮১:২১-এর আলোচনায় কুরতুবী দেখান, এ মত ধরলে পরের গুণগুলোর অর্থ কী দাঁড়ায়। শক্তিশালী মানে তখন বার্তা পৌঁছে দেওয়ার শক্তি। আর মান্য মানে, যে আল্লাহর আনুগত্য করে, সে তাঁরও আনুগত্য করে। এখানে দেখা প্রত্যেক তাফসীর প্রথম মতটি গ্রহণ করে। দ্বিতীয়টি তাঁরা যেভাবে উল্লেখ করেছেন, এখানেও সেভাবেই রাখা হলো, তার নিজস্ব যুক্তিসহ। এর বেশি ওজন করা এ পাতার কাজ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Next Verses Supply",
+          "bn": "পরের আয়াতগুলো যা জোগায়"
+        },
+        "p": [
+          {
+            "en": "The identification does not rest on reports alone. This verse leaves the noble messenger undescribed, and 81:20 and 81:21 complete the portrait: possessed of power, secure in rank with the Owner of the Throne, obeyed there, trustworthy. At-Tabari glosses each quality with Jibril in view. Possessed of power means not unequal to whatever he was charged with. Obeyed there means obeyed in heaven, where the angels obey him. Trustworthy means trusted by Allah with His revelation, His message and whatever else He entrusted to him. Under those verses he cites the identification again from Abu Salih, Maymun ibn Mihran, Ibn Abbas and ad-Dahhak.",
+            "bn": "এ চিহ্নিতকরণ শুধু বর্ণনার উপর দাঁড়িয়ে নেই। এ আয়াত সম্মানিত রাসূলের আর কোনো বিবরণ দেয় না। ছবিটা পূর্ণ করে ৮১:২০ ও ৮১:২১: তিনি শক্তিশালী, আরশের মালিকের কাছে মর্যাদায় সুপ্রতিষ্ঠিত, সেখানে মান্য, বিশ্বস্ত। তাবারী প্রতিটি গুণের ব্যাখ্যা দেন জিবরাঈলকে সামনে রেখে। শক্তিশালী মানে, যে দায়িত্ব তাঁকে দেওয়া হয়েছে, তাতে তিনি অক্ষম নন। সেখানে মান্য মানে আসমানে মান্য, ফেরেশতারা তাঁর কথা মানে। বিশ্বস্ত মানে, আল্লাহ তাঁর ওহি, তাঁর বার্তা আর যা কিছু তাঁর হাতে আমানত রেখেছেন, সবকিছুতে তিনি আল্লাহর কাছে বিশ্বস্ত। ওই আয়াতগুলোর নিচে তাবারী আবু সালিহ, মাইমূন ইবন মিহরান, ইবন আব্বাস ও দাহহাক থেকেও একই চিহ্নিতকরণ আনেন।"
+          },
+          {
+            "en": "As-Sa'di's gloss of trustworthy bears most directly on this verse. Jibril, he writes on 81:21, is a keeper of trust who carries out what he is commanded, adding nothing and taking nothing away, and not going beyond the limit set for him. That is what makes the ascription in 81:19 safe. A speech can be called the word of its carrier without doubt about its source only if the carrier is known to deliver it whole. The details of those two verses belong to their own pages; here they serve only to say who carried the word and how.",
+            "bn": "বিশ্বস্ত শব্দের যে ব্যাখ্যা সা'দী দেন, তা এ আয়াতের সঙ্গে সবচেয়ে সরাসরি জড়িত। ৮১:২১-এর আলোচনায় তিনি লেখেন, জিবরাঈল আমানতদার, যা আদেশ করা হয় তা পালন করেন। তিনি কিছু বাড়ান না, কিছু কমান না, তাঁর জন্য টেনে দেওয়া সীমা ছাড়িয়ে যান না। ৮১:১৯-এ বাণীটিকে তাঁর দিকে সম্পর্কিত করা নিরাপদ এ কারণেই। বাহক পুরো বাণী অবিকল পৌঁছে দেন, এ কথা জানা থাকলে তবেই বাণীকে তার বাহকের কথা বলা যায়, উৎস নিয়ে কোনো সন্দেহ না জাগিয়ে। ওই দুই আয়াতের খুঁটিনাটি তাদের নিজেদের পাতার বিষয়। এখানে তারা শুধু জানায়, বাণীটি কে বয়ে এনেছেন, আর কীভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Karim, Three Ways Glossed",
+          "bn": "কারীম শব্দের তিন ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Karim is the verse's last word and its only adjective, and the commentators do not give it a single sense. For al-Qurtubi it describes standing: karim 'ala Allah, honoured in Allah's sight. For as-Sa'di it describes character. Allah called him noble, he writes, for the nobility of his character and the abundance of his praiseworthy qualities, for he is the best of the angels and the greatest of them in rank with his Lord. Ibn Kathir calls him a noble angel, good in character and radiant in appearance, as the English abridgement renders his Arabic.",
+            "bn": "কারীম আয়াতের শেষ শব্দ, আর একমাত্র বিশেষণ। তাফসীরকারেরা এর একটিমাত্র অর্থ দেন না। কুরতুবীর কাছে শব্দটি মর্যাদার কথা বলে: কারীমুন আলাল্লাহ, আল্লাহর দৃষ্টিতে সম্মানিত। সা'দীর কাছে এটি চরিত্রের কথা। তিনি লেখেন, আল্লাহ তাঁকে কারীম বলেছেন তাঁর চরিত্রের মহত্ত্ব আর প্রশংসনীয় গুণের প্রাচুর্যের কারণে। কেননা তিনি ফেরেশতাদের মধ্যে শ্রেষ্ঠ, আর তাঁর রবের কাছে মর্যাদায় সবার বড়। ইবন কাসীর তাঁকে বলেন সম্ভ্রান্ত ফেরেশতা, সুন্দর চরিত্রের, উজ্জ্বল চেহারার। ইংরেজি সংক্ষিপ্ত সংস্করণ তাঁর আরবিকে এভাবেই অনুবাদ করেছে।"
+          },
+          {
+            "en": "The three glosses do not contradict one another, and none of the commentators sets one against another. Each names a ground of honour: standing with the Sender, nobility of character, and, in Ibn Kathir's gloss, radiance of appearance as well. The verse itself places the adjective on the carrier and says nothing more about him. It is 81:20 that begins to say what the honour consists of, and as-Sa'di, as the next section shows, draws the whole description back to the message it was given to carry.",
+            "bn": "তিনটি ব্যাখ্যা পরস্পরবিরোধী নয়, আর কোনো তাফসীরকারও একটিকে অন্যটির বিপক্ষে দাঁড় করান না। প্রতিটি সম্মানের একটা ভিত্তির কথা বলে: প্রেরকের কাছে মর্যাদা, চরিত্রের মহত্ত্ব, আর ইবন কাসীরের ব্যাখ্যায় এর সঙ্গে চেহারার উজ্জ্বলতাও। আয়াত নিজে বিশেষণটি বসিয়ে দেয় বাহকের উপর, তাঁর সম্পর্কে আর কিছু বলে না। সম্মানটা আসলে কী, তা বলতে শুরু করে ৮১:২০। আর সা'দী, পরের অংশে যেমন দেখা যাবে, পুরো বিবরণটাকে ফিরিয়ে আনেন সেই বাণীর দিকে, যা বহনের দায়িত্ব তাঁকে দেওয়া হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kings and Their Envoys",
+          "bn": "রাজা আর তাঁদের দূত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes his comment on 81:21 by turning the praise of the messenger into a statement about the message. All of this, he writes, points to the honour of the Qur'an with Allah, since He sent it with this noble angel, described with those perfect qualities. Then he adds an observation from ordinary life: it is the custom that kings do not send one who is honoured by them except on the most important of tasks and with the noblest of messages. The rank of the envoy, on his reading, tells the hearer the weight of what the envoy carries.",
+            "bn": "৮১:২১-এর আলোচনা শেষ করতে গিয়ে সা'দী রাসূলের প্রশংসাকে বাণীর প্রশংসায় বদলে দেন। তিনি লেখেন, এসব কিছু প্রমাণ করে আল্লাহর কাছে কুরআনের মর্যাদা কত বড়। কারণ তিনি এটি পাঠিয়েছেন এই সম্মানিত ফেরেশতার হাতে, যিনি এমন পূর্ণ গুণে গুণান্বিত। তারপর তিনি জুড়ে দেন সাধারণ জীবনের একটা পর্যবেক্ষণ: রাজাদের রীতি হলো, নিজেদের কাছে যিনি সম্মানিত, তাঁকে তাঁরা পাঠান কেবল সবচেয়ে জরুরি কাজে আর সবচেয়ে মর্যাদাপূর্ণ বার্তা দিয়ে। তাঁর পাঠে দূতের মর্যাদা শ্রোতাকে জানিয়ে দেয়, দূত কী বয়ে আনছেন, তার ওজন কত।"
+          },
+          {
+            "en": "The comparison works because everyone has seen it. A grave message goes with someone trusted and senior; a passing note goes with whoever is at hand. On as-Sa'di's reading, the oaths of 81:15 to 81:18 are sworn on the height of the Qur'an's chain, and the honour of its carrier is offered as evidence for the worth of what passed along it. The hearer is asked to look past the man reciting in Makkah to the angel who brought it to him, and past both to Him who sent it.",
+            "bn": "তুলনাটা কাজ করে, কারণ এমনটা সবাই দেখেছে। গুরুতর বার্তা যায় বিশ্বস্ত ও উঁচু পদের কারও হাতে। মামুলি চিরকুট যায় হাতের কাছে যে থাকে, তার হাতে। সা'দীর পাঠে ৮১:১৫ থেকে ৮১:১৮-এর শপথগুলো করা হয়েছে কুরআনের ধারার উচ্চতার উপর। আর তার বাহকের সম্মানকে পেশ করা হয়েছে সেই ধারা বেয়ে আসা জিনিসের মূল্যের প্রমাণ হিসেবে। শ্রোতাকে বলা হচ্ছে, মক্কায় যে মানুষটি তিলাওয়াত করছেন, তাঁকে ছাড়িয়ে দেখুন কে তাঁর কাছে এটি এনেছেন। তারপর দুজনকেই ছাড়িয়ে দেখুন, কে এটি পাঠিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard at the Dawn Prayer",
+          "bn": "ফজরের তিলাওয়াতে শোনা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith or an occasion of revelation to 81:19. The only report from the Prophet ﷺ that Ibn Kathir brings into his comment on 81:15 to 81:24 belongs to the oaths before it. Sahih Muslim (456) records from 'Amr ibn Hurayth: I heard the Messenger of Allah ﷺ recite in the morning prayer, wa-l-layli idha 'as'as, and by the night as it closes in. It concerns 81:17, it is not attached to this verse, and it says nothing about the noble messenger. It shows only that this oath was heard at dawn, in the Prophet's ﷺ own recitation.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর ৮১:১৯-এর সঙ্গে কোনো হাদীস বা নাজিলের প্রেক্ষাপট জুড়ে দেয় না। ৮১:১৫ থেকে ৮১:২৪-এর আলোচনায় ইবন কাসীর নবী ﷺ থেকে যে একটিমাত্র বর্ণনা আনেন, তা আগের শপথের আয়াতগুলোর। সহীহ মুসলিম (৪৫৬) আমর ইবন হুরাইস (রাঃ) থেকে বর্ণনা করে: আমি রাসূলুল্লাহ ﷺ-কে ফজরের নামাজে ওয়াল-লাইলি ইযা আস'আস পড়তে শুনেছি, শপথ রাতের যখন তা ঘনিয়ে আসে। বর্ণনাটি ৮১:১৭-এর, এ আয়াতের সঙ্গে যুক্ত নয়, আর সম্মানিত রাসূল সম্পর্কে কিছু বলে না। এটুকুই দেখায় যে এই শপথ ভোরবেলা শোনা গেছে, নবী ﷺ-এর নিজের তিলাওয়াতে।"
+          },
+          {
+            "en": "What the verse asks of a reader is small to say and large to keep. It asks that the Qur'an be heard as a word that arrived: carried, not composed by its carrier, and sent by way of an envoy whom the commentators describe as honoured, strong and trustworthy. Each recitation since is a further handing on. A reader who keeps that in view will treat the text as something entrusted, adding nothing and dropping nothing, which is the very quality as-Sa'di found in the angel who first carried it down.",
+            "bn": "আয়াতটি পাঠকের কাছে যা চায়, তা বলা সহজ, ধরে রাখা কঠিন। চায়, কুরআনকে শোনা হোক এমন এক বাণী হিসেবে, যা এসে পৌঁছেছে। বাহক তা বয়ে এনেছেন, রচনা করেননি। আর তা এসেছে এমন এক দূতের হাত হয়ে, তাফসীরকারেরা যাঁকে বলেন সম্মানিত, শক্তিশালী, বিশ্বস্ত। তারপর থেকে প্রতিটি তিলাওয়াত সেই হাতবদলেরই আরেক ধাপ। এ কথা যে পাঠক মনে রাখেন, তিনি এই বাণীকে আমানত হিসেবে আগলে রাখবেন, কিছু যোগ না করে, কিছু বাদ না দিয়ে। সা'দী ঠিক এই গুণটিই দেখেছিলেন সেই ফেরেশতার মধ্যে, যিনি প্রথম এটি নিয়ে নেমে এসেছিলেন।"
+          }
+        ]
+      }
+    ]
+  },
   "81:22": {
     "sections": [
       {

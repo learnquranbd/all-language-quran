@@ -29465,6 +29465,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The laughing faces of that Day show what their hearts already know; prepare that face now with prayer, ablution and effort for Allah, and keep hoping.",
     "lessonBn": "সেদিনের হাস্যোজ্জ্বল মুখ দেখায় তাদের হৃদয় যা জেনে গেছে। নামায, অজু আর আল্লাহর জন্য চেষ্টা দিয়ে সেই মুখ আজই তৈরি করুন, আর আশা ধরে রাখুন।"
+  },
+  "81:19": {
+    "reflectionEn": "Three oaths come first: by the stars that draw back, by the night as it closes in, by the dawn as it breathes. Then comes what they were sworn for: it is the word of a noble messenger. The speech is named after the one who carried it, and the verses that follow describe him as strong, honoured near the Lord of the Throne, obeyed there and trustworthy. A letter is weighed partly by the one who brings it, and this one came by a carrier described in those terms. Every time I open the Qur'an, I hold something that came down that chain with nothing added and nothing lost. Do I receive it that way, or as one more text among the many I skim each day?",
+    "reflectionBn": "আগে আসে তিনটি শপথ: পিছিয়ে যাওয়া তারার শপথ, ঘনিয়ে আসা রাতের শপথ, নিঃশ্বাস ফেলা ভোরের শপথ। তারপর আসে সেই কথা, যার জন্য এত শপথ: এ এক সম্মানিত রাসূলের বাণী। বাণীটাকে জুড়ে দেওয়া হয়েছে তার বাহকের নামের সঙ্গে। পরের আয়াতগুলো সেই বাহকের পরিচয় দেয়: তিনি শক্তিশালী, আরশের মালিকের কাছে মর্যাদাবান, সেখানে তাঁর কথা মানা হয়, আর তিনি বিশ্বস্ত। চিঠির ওজন কিছুটা বোঝা যায় কে সেটা বয়ে আনল তা দেখে। এ চিঠি এসেছে এমন এক বাহকের হাতে। কুরআন খুললেই আমার হাতে থাকে সেই জিনিস, যা এ ধারা বেয়ে নেমে এসেছে, কিছু যোগ হয়নি, কিছু হারায়নি। আমি কি সেভাবেই একে গ্রহণ করি? নাকি রোজ যত লেখায় চোখ বুলিয়ে যাই, এটাও তার একটা?",
+    "pointsEn": [
+      "When I open the Qur'an, do I remember the chain it came down, from its Lord, through a trustworthy messenger, to the Prophet ﷺ, and on to me?",
+      "If an honoured envoy is sent only with a weighty letter, what does that say about the letter I leave closed on the shelf?",
+      "What claim did I accept this week without asking who carried it to me and where it came from?",
+      "How carefully do I pass on words that were entrusted to me, without adding to them or cutting them short?",
+      "Does knowing who brought this message change how closely I listen when it is recited?"
+    ],
+    "pointsBn": [
+      "কুরআন খোলার সময় কি মনে রাখি, কোন ধারা বেয়ে এটা নেমে এসেছে? তার রবের কাছ থেকে, এক বিশ্বস্ত রাসূলের হাত হয়ে, নবী ﷺ পর্যন্ত, তারপর আমার কাছে।",
+      "সম্মানিত দূতকে যদি কেবল গুরুত্বপূর্ণ চিঠি দিয়েই পাঠানো হয়, তবে তাকে বন্ধ করে রাখা যে চিঠিটা আমার তাকে পড়ে আছে, তার ওজন কত?",
+      "এ সপ্তাহে কোন কথাটা মেনে নিয়েছি, অথচ জিজ্ঞেস করিনি কে সেটা আমার কাছে আনল আর কোথা থেকে আনল?",
+      "যে কথা আমার কাছে আমানত হিসেবে আসে, তা কি কিছু না বাড়িয়ে, কিছু না কমিয়ে অন্যের কাছে পৌঁছে দিই?",
+      "এ বাণী কে বয়ে এনেছেন, তা জানার পর তিলাওয়াত শোনার সময় আমার মনোযোগ কি একটুও বদলায়?"
+    ],
+    "lessonEn": "Receive the Qur'an as a message carried by an honoured, trustworthy messenger from its Lord, and pass on what is entrusted to you with the same care.",
+    "lessonBn": "কুরআনকে গ্রহণ করুন তার রবের কাছ থেকে এক সম্মানিত, বিশ্বস্ত রাসূলের বয়ে আনা বাণী হিসেবে, আর আপনার কাছে যা আমানত রাখা হয়, তাও একই যত্নে অন্যের কাছে পৌঁছে দিন।"
   }
 };
 
