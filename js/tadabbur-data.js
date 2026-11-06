@@ -28029,6 +28029,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an asks about the people of the right so that you lean in for the answer; let the promised shade and fruit draw you to deeds while deeds are still possible.",
     "lessonBn": "কুরআন ডান দিকের দলের কথা প্রশ্ন করে বলে, যাতে আপনি উত্তরের দিকে কান পাতেন। প্রতিশ্রুত ছায়া আর ফলের টান আপনাকে আমলের দিকে নিয়ে যাক, যতক্ষণ আমলের সময় আছে।"
+  },
+  "55:58": {
+    "reflectionEn": "Two verses back, the companions of the Garden were described by what they hold back: their glances. Now they are described by what they are like. Three words, two precious things: rubies and coral. The verse names the gems and leaves the likeness unsaid, and those who explained it found clarity and whiteness in it, a stone so clear that a thread passed through it can be seen from outside. None of this is meant to be pictured in full; it is a promise held out to those who fear the standing before their Lord. So the question turns back on me. What am I working towards with the longing I give to things that fade? And is there anything inside me I would not want seen through?",
+    "reflectionBn": "দুই আয়াত আগে জান্নাতের সঙ্গিনীদের পরিচয় এসেছিল তাঁদের সংযমে: তাঁদের দৃষ্টি তাঁরা ধরে রাখেন। এবার পরিচয় আসছে তাঁরা দেখতে কেমন, তা দিয়ে। মাত্র তিনটি শব্দ, দুটি দামি জিনিস: ইয়াকূত আর মারজান। কোন দিক থেকে মিল, আয়াত তা বলে না। যাঁরা আয়াতটি ব্যাখ্যা করেছেন, তাঁরা এর মধ্যে পেয়েছেন স্বচ্ছতা আর শুভ্রতা। এমন স্বচ্ছ পাথর যে ভেতর দিয়ে সুতো গলালে বাইরে থেকে সুতোটা দেখা যায়। এর পুরো ছবি আঁকা উদ্দেশ্য নয়। এ এক প্রতিশ্রুতি, যারা রবের সামনে দাঁড়ানোকে ভয় করে তাদের জন্য। তাই প্রশ্নটা ফিরে আসে আমার দিকে। যা ক্ষয়ে যায় তার জন্য যে আকুলতা আমি খরচ করি, সেই আকুলতা নিয়ে কোন জিনিসের জন্য আমি কাজ করছি? আর আমার ভেতরে কি এমন কিছু আছে, যা বাইরে থেকে দেখা যাক তা আমি চাই না?",
+    "pointsEn": [
+      "When I hear Paradise described, does it move me to act today, or only to imagine?",
+      "What do I want in this world badly enough that it competes with what Allah has promised?",
+      "If my inner self were as clear as that stone, what would someone see through it that I keep hidden?",
+      "Am I content with what Allah has chosen to tell of the unseen, or do I fill the gaps with pictures of my own?",
+      "The next verse asks which of my Lord's favours I would deny. Which favour have I treated lately as something owed to me?"
+    ],
+    "pointsBn": [
+      "জান্নাতের বর্ণনা শুনে আমি কি আজই কিছু করতে উঠে দাঁড়াই, নাকি শুধু কল্পনায় ডুবে থাকি?",
+      "দুনিয়ার কোন জিনিস আমি এতটা চাই যে আল্লাহর প্রতিশ্রুতির সঙ্গে সে পাল্লা দেয়?",
+      "আমার ভেতরটা যদি ওই পাথরের মতো স্বচ্ছ হত, তবে বাইরে থেকে কেউ এমন কী দেখে ফেলত, যা আমি লুকিয়ে রাখি?",
+      "গায়েবের যতটুকু আল্লাহ জানিয়েছেন, আমি কি তাতেই সন্তুষ্ট, নাকি ফাঁকগুলো নিজের বানানো ছবি দিয়ে ভরাট করি?",
+      "পরের আয়াত জিজ্ঞেস করে, রবের কোন নিয়ামত আমি অস্বীকার করব। ইদানীং কোন নিয়ামতকে আমি নিজের পাওনা ভেবে বসে আছি?"
+    ],
+    "lessonEn": "Let Allah's promise of what is lasting and pure draw you to work for it now, and aim for an inner life as clear as the likeness it uses.",
+    "lessonBn": "যা স্থায়ী ও পবিত্র, আল্লাহর সেই প্রতিশ্রুতি যেন আপনাকে এখনই তার জন্য কাজে টেনে আনে, আর আয়াতের উপমার মতো স্বচ্ছ এক ভেতরজীবনের দিকে আপনি এগোতে থাকুন।"
   }
 };
 

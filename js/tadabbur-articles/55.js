@@ -1923,6 +1923,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "55:58": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words, Two Gems",
+          "bn": "তিন শব্দে দুই রত্ন"
+        },
+        "p": [
+          {
+            "en": "Ka-annahunna al-yaqutu wa-l-marjan: as if they were rubies and coral. The verse is three words long and has no verb of its own. Its pronoun reaches back past the refrain of 55:57 to 55:56, where women restraining their glances, untouched before by man or jinn, were placed in the gardens. At-Tabari's paraphrase makes the link plain: it is as if these qasirat at-tarf, who are in these two gardens, were the ruby in their clarity. The two gardens are those promised in 55:46 to whoever fears the standing before his Lord.",
+            "bn": "কাআন্নাহুন্নাল ইয়াকূতু ওয়াল মারজান: তারা যেন পদ্মরাগ ও প্রবাল। আয়াতে শব্দ মোটে তিনটি, নিজস্ব কোনো ক্রিয়াও নেই। এর সর্বনাম ৫৫:৫৭-এর প্রশ্ন পেরিয়ে ফিরে যায় ৫৫:৫৬-তে। সেখানে বাগানে রাখা হয়েছে সংযত দৃষ্টির নারীদের, যাদের আগে কোনো মানুষ বা জিন স্পর্শ করেনি। তাবারীর ব্যাখ্যায় যোগসূত্রটা পরিষ্কার: দুই বাগানের এই কাসিরাতুত তারফ যেন স্বচ্ছতায় ইয়াকূত। আর এই দুই বাগান সেগুলোই, যার প্রতিশ্রুতি ৫৫:৪৬ দিয়েছে রবের সামনে দাঁড়ানোকে যে ভয় করে তাকে।"
+          },
+          {
+            "en": "Ibn Kathir opens his note with a phrase about purpose: thumma qala yan'atuhunna li-l-khuttab, then He said, describing them for those who would seek them. The likeness, on his reading, is held out to people who still have time to ask for it, and the surah has already named the price at 55:46. Qasirat at-tarf itself, and what the commentators said of the restrained glance, has its own article at 37:48, where the phrase also occurs, and is not retold here. This article stays with the likeness, the reports attached to it, and the restraint the sources keep.",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শুরু করেন উদ্দেশ্য বলে দিয়ে: সুম্মা কালা ইয়ান‘আতুহুন্না লিল-খুত্তাব, অর্থাৎ যারা তাঁদের পেতে চায়, তাদের জন্য আল্লাহ তাঁদের গুণ বর্ণনা করলেন। তাঁর পড়া অনুযায়ী উপমাটি তাদের সামনে রাখা, যাদের হাতে চাওয়ার সময় এখনো আছে। দামটা কী, সূরা তা আগেই ৫৫:৪৬-এ বলে দিয়েছে। কাসিরাতুত তারফ শব্দবন্ধ এবং সংযত দৃষ্টি নিয়ে তাফসীরকারদের কথা ৩৭:৪৮-এর আলাদা প্রবন্ধে আছে, এখানে আর বলা হচ্ছে না। এ প্রবন্ধ থাকবে উপমাটির সঙ্গে, এর সঙ্গে জোড়া বর্ণনাগুলোর সঙ্গে, আর সূত্রগুলো যে সংযম ধরে রাখে তার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Likeness Left Unexplained",
+          "bn": "যে উপমার ব্যাখ্যা আয়াতে নেই"
+        },
+        "p": [
+          {
+            "en": "The verse names two precious things and does not say in what respect the women resemble them. The two shortest commentaries fill that gap in a line each. The Muyassar: these wives from among the hur are the ruby and the coral fi safa'ihinna wa jamalihinna, in their clarity and their beauty. As-Sa'di: that is li-safa'ihinna wa jamali manzarihinna wa baha'ihinna, for their clarity, the beauty of their appearance, and their splendour. Both put clarity first, and as-Sa'di adds a third quality, baha', which names splendour rather than prettiness alone.",
+            "bn": "আয়াতটি দুটি দামি জিনিসের নাম নেয়, কিন্তু কোন দিক থেকে মিল, তা বলে না। সবচেয়ে ছোট দুটি তাফসীর এক লাইনেই সেই ফাঁক পূরণ করে। মুয়াসসার বলে: হুরদের মধ্য থেকে এই স্ত্রীরা ফী সাফাইহিন্না ওয়া জামালিহিন্না, অর্থাৎ স্বচ্ছতায় ও সৌন্দর্যে যেন ইয়াকূত ও মারজান। সা'দী বলেন: লিসাফাইহিন্না ওয়া জামালি মানযারিহিন্না ওয়া বাহাইহিন্না, তাঁদের স্বচ্ছতা, দেখতে সুন্দর হওয়া আর তাঁদের দীপ্তির কারণে। দুজনেই স্বচ্ছতাকে আগে রেখেছেন। সা'দী জুড়েছেন তৃতীয় একটি গুণ, বাহা, যা শুধু রূপ নয়, জাঁকালো দীপ্তির কথা বলে।"
+          },
+          {
+            "en": "The longer commentaries do something more precise. They divide the likeness between the two gems, so that each lends one quality: the ruby its clarity, the marjan its whiteness. That division, and a small disagreement inside it about what marjan means here, is the subject of the next two sections. None of the commentaries consulted for this verse stops to discuss the particle ka-anna, as if, or why the comparison is left unexplained, so this article offers no theory of its own about the grammar and moves on to what they did say.",
+            "bn": "বড় তাফসীরগুলো আরও সূক্ষ্ম কাজ করে। তারা উপমাটিকে দুই রত্নের মধ্যে ভাগ করে দেয়, যাতে প্রত্যেকে একটি করে গুণ দেয়। ইয়াকূত দেয় স্বচ্ছতা, মারজান দেয় শুভ্রতা। এই ভাগ, আর এখানে মারজান মানে কী, তা নিয়ে এর ভেতরের ছোট একটি মতভেদ, পরের দুই অংশের বিষয়। কাআন্না অর্থাৎ 'যেন' অব্যয়টি নিয়ে, কিংবা মিলের দিকটা কেন খুলে বলা হয়নি তা নিয়ে, এ আয়াতের জন্য দেখা কোনো তাফসীর থামেনি। তাই ব্যাকরণ নিয়ে এ প্রবন্ধ নিজের কোনো তত্ত্ব দাঁড় করাচ্ছে না। তাঁরা যা বলেছেন, সেদিকেই এগোনো যাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Thread Inside the Stone",
+          "bn": "পাথরের ভেতরের সুতো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reports the common reading from a line of early authorities: Mujahid, al-Hasan, as-Suddi, Ibn Zayd and others said fi safa' al-yaqut wa bayad al-marjan, in the clarity of the ruby and the whiteness of the marjan. At-Tabari records the same pair from Sufyan, and in three chains from Qatada. One of Qatada's wordings makes the joining explicit: shubbiha bihinna safa' al-yaqut fi bayad al-marjan, the likeness drawn for them is the clarity of the ruby within the whiteness of the marjan. On this reading the two gems are not two pictures but one quality laid over another.",
+            "bn": "ইবন কাসীর আগের যুগের একদল আলিমের সাধারণ পাঠটি জানান। মুজাহিদ, হাসান, সুদ্দী, ইবন যায়দ ও আরও অনেকে বলেছেন: ফী সাফাইল ইয়াকূত ওয়া বায়াদিল মারজান, ইয়াকূতের স্বচ্ছতায় আর মারজানের শুভ্রতায়। তাবারী একই জোড়া বর্ণনা করেন সুফইয়ান থেকে, আর তিনটি সনদে কাতাদা থেকে। কাতাদার একটি ভাষ্যে দুটিকে জুড়ে দেওয়ার কথা সরাসরি এসেছে: শুব্বিহা বিহিন্না সাফাআল ইয়াকূতি ফী বায়াদিল মারজান। অর্থাৎ মারজানের শুভ্রতার ভেতরে ইয়াকূতের স্বচ্ছতা, এই দিয়ে তাঁদের উপমা দেওয়া হয়েছে। এ পাঠে দুই রত্ন আলাদা দুটি ছবি নয়, একটি গুণের উপর আরেকটি গুণের প্রলেপ।"
+          },
+          {
+            "en": "At-Tabari's own gloss goes further and gives the clarity a particular sense. They are, he writes, like the ruby in their clarity, al-yaqut alladhi yura al-silk alladhi fihi min wara'ih, the ruby whose thread inside is seen from behind it; so too the marrow of their shins is seen from behind their bodies; and in their beauty they are the ruby and the marjan. He adds that the people of interpretation said much the same. The image of the threaded stone is not his own invention: it comes from a narration through 'Abdullah ibn Mas'ud (RA), which needs a section to itself.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা আরও এক ধাপ এগিয়ে স্বচ্ছতাকে একটি নির্দিষ্ট অর্থ দেয়। তিনি লেখেন, স্বচ্ছতায় তাঁরা সেই ইয়াকূতের মতো, যার ভেতরে রাখা সুতো পেছন থেকে দেখা যায়। ঠিক তেমনি তাঁদের দেহের আড়াল থেকে পায়ের নলার মজ্জা দেখা যায়। আর সৌন্দর্যে তাঁরা ইয়াকূত ও মারজান। তিনি যোগ করেন, ব্যাখ্যাকারেরাও প্রায় একই কথা বলেছেন। সুতো-গলানো পাথরের ছবিটা তাঁর নিজের বানানো নয়। এটি এসেছে আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর সূত্রে আসা একটি বর্ণনা থেকে, যার জন্য আলাদা একটি অংশ দরকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Coral, or the Whiteness of Pearl",
+          "bn": "প্রবাল, নাকি মুক্তার শুভ্রতা"
+        },
+        "p": [
+          {
+            "en": "The English rendering on this site says coral, and the Bengali says prabal. Yet the early reports speak of the whiteness of the marjan, and Ibn Kathir draws the consequence in a short clause: fa-ja'alu al-marjan hahuna al-lu'lu', so here they took marjan to be the pearl. At-Tabari's report from Ibn Zayd says it in so many words: like the ruby in clarity and the marjan in whiteness; the clarity is the clarity of the ruby, and the whiteness is bayad al-lu'lu', the whiteness of the pearl.",
+            "bn": "এ সাইটের ইংরেজি অনুবাদে আছে কোরাল, বাংলায় প্রবাল। অথচ প্রাচীন বর্ণনাগুলো মারজানের শুভ্রতার কথা বলে। ইবন কাসীর ছোট্ট এক বাক্যে এর ফল টেনে আনেন: ফাজা‘আলুল মারজানা হাহুনাল লু'লু'। অর্থাৎ এখানে তাঁরা মারজানকে মুক্তা ধরেছেন। তাবারী ইবন যায়দ থেকে যে বর্ণনা আনেন, তাতে কথাটা একেবারে খোলাখুলি। স্বচ্ছতায় তাঁরা ইয়াকূতের মতো, শুভ্রতায় মারজানের মতো। স্বচ্ছতা মানে ইয়াকূতের স্বচ্ছতা, আর শুভ্রতা মানে বায়াদুল লু'লু', মুক্তার শুভ্রতা।"
+          },
+          {
+            "en": "Not every report puts it that way. At-Tabari's report from as-Suddi reads safa' al-yaqut wa husn al-marjan, the clarity of the ruby and the beauty of the marjan, naming beauty rather than whiteness. Ibn Kathir, for his part, lists as-Suddi among those who said whiteness. At-Tabari's report from al-Hasan keeps to whiteness alone: fi bayad al-marjan. At-Tabari's own paraphrase, as the last section showed, ends with beauty too: in their beauty they are the ruby and the marjan. So the second gem lends whiteness in most of the reports and beauty in some, and the identification with pearl is stated by Ibn Zayd and drawn out by Ibn Kathir.",
+            "bn": "সব বর্ণনা অবশ্য একভাবে বলে না। তাবারী সুদ্দী থেকে যা আনেন তাতে আছে সাফাউল ইয়াকূত ওয়া হুসনুল মারজান, ইয়াকূতের স্বচ্ছতা আর মারজানের সৌন্দর্য। এখানে শুভ্রতা নয়, সৌন্দর্যের কথা। অথচ ইবন কাসীর সুদ্দীকে গুনেছেন শুভ্রতার কথা বলা আলিমদের মধ্যে। হাসান থেকে তাবারীর বর্ণনায় শুধু শুভ্রতা: ফী বায়াদিল মারজান। আগের অংশে দেখা গেছে, তাবারীর নিজের ব্যাখ্যাও শেষ হয় সৌন্দর্য দিয়ে: সৌন্দর্যে তাঁরা ইয়াকূত ও মারজান। তাহলে দ্বিতীয় রত্নটি বেশির ভাগ বর্ণনায় দেয় শুভ্রতা, কয়েকটিতে সৌন্দর্য। আর মারজানকে মুক্তা বলে চিহ্নিত করার কথা স্পষ্ট বলেছেন ইবন যায়দ, তা থেকে সিদ্ধান্ত টেনেছেন ইবন কাসীর।"
+          },
+          {
+            "en": "This is a small difference, and it is best kept as one. The translations give the word its common sense; the early authorities quoted here heard whiteness in it, and some of them pearl. None of the commentaries consulted for this verse argues the point out or calls the other view mistaken, so this article does not settle it either. On every reading the likeness praises the same thing: a beauty of colour joined to a clarity that nothing clouds, offered by Allah as part of what He has prepared.",
+            "bn": "মতভেদটা ছোট, আর ছোট মতভেদ হিসেবেই একে রাখা ভালো। অনুবাদে শব্দটির প্রচলিত অর্থই এসেছে। এখানে উদ্ধৃত প্রাচীন আলিমেরা এতে শুভ্রতা শুনেছেন, তাঁদের কেউ কেউ মুক্তা। এ আয়াতের জন্য দেখা কোনো তাফসীর বিষয়টি নিয়ে বিতর্ক করেনি, অন্য মতকে ভুলও বলেনি। তাই এ প্রবন্ধও কোনো রায় দিচ্ছে না। যে পাঠই ধরা হোক, উপমাটি একই জিনিসের প্রশংসা করে। রঙের সৌন্দর্য, তার সঙ্গে এমন স্বচ্ছতা যাকে কিছুই ঘোলা করে না। আর এ সবই আল্লাহ তাঁর প্রস্তুত করা নিয়ামতের অংশ হিসেবে সামনে রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibn Mas'ud's Words, or the Prophet's",
+          "bn": "ইবন মাসঊদের কথা, নাকি নবীর ﷺ"
+        },
+        "p": [
+          {
+            "en": "At-Tirmidhi records the narration in his Jami' (2533), and it is quoted here in the quranx English. 'Abdullah bin Mas'ud narrated that the Prophet ﷺ said: \"Indeed, a woman from the wives of the people of Paradise, the whiteness of her shin is visible through seventy garments until her marrow is seen, and that is because Allah, the Exalted, says: As if they are corundum and Marjan. So, as for the corundum, it is a stone that if you were to enter a wire through it, then you polished its cloudiness away, you would surely be able to see it through it.\" Corundum is the translator's word for yaqut.",
+            "bn": "তিরমিযী তাঁর জামি‘-তে (২৫৩৩) বর্ণনাটি এনেছেন। এখানে তা quranx-এর ইংরেজি থেকে বাংলায় দেওয়া হলো। আবদুল্লাহ ইবন মাসঊদ (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"জান্নাতবাসীদের স্ত্রীদের মধ্যে একজন নারীর পায়ের নলার শুভ্রতা সত্তরটি পোশাকের ভেতর দিয়েও দেখা যায়, এমনকি তার মজ্জাও দেখা যায়। কারণ মহান আল্লাহ বলেন: তারা যেন ইয়াকূত ও মারজান। আর ইয়াকূত হলো এমন এক পাথর, যার ভেতর দিয়ে তুমি যদি সুতো ঢুকিয়ে দাও, তারপর তার ঘোলাটে ভাব ঘষে পরিষ্কার করো, তবে নিশ্চয়ই তার ভেতর দিয়ে সুতোটা দেখতে পাবে।\" ইংরেজি অনুবাদক ইয়াকূতের জায়গায় কোরান্ডাম শব্দ ব্যবহার করেছেন।"
+          },
+          {
+            "en": "At-Tirmidhi does not leave the matter there. In the entry that follows (2534) he gives the same narration from Ibn Mas'ud through Abu al-Ahwas, similar in meaning, and notes that it was not raised to the Prophet ﷺ. Then he weighs the two: this is more correct than the narration of 'Abidah bin Humaid, and Jarir and more than one other reported it from 'Ata' bin as-Sa'ib without raising it. He closes: the companions of 'Ata' did not narrate it in marfu' form, wa hadha asahh, and this is more correct.",
+            "bn": "তিরমিযী কথাটা এখানেই শেষ করেননি। পরের হাদীসে (২৫৩৪) তিনি একই বর্ণনা আনেন আবুল আহওয়াসের সূত্রে, ইবন মাসঊদ থেকে, অর্থে প্রায় একই। সঙ্গে জানান, এ সূত্রে কথাটি নবী ﷺ পর্যন্ত পৌঁছানো হয়নি। তারপর তিনি দুটিকে মেপে দেখেন। তাঁর মতে এটি আবীদা ইবন হুমাইদের বর্ণনার চেয়ে বেশি সঠিক। জারীর এবং আরও অনেকে আতা ইবনুস সাইব থেকে এটি বর্ণনা করেছেন নবী ﷺ পর্যন্ত না পৌঁছিয়ে। শেষে তিনি বলেন: আতার শিষ্যরা এটি মারফূ‘ আকারে বর্ণনা করেননি, ওয়া হাযা আসাহ্হ, আর এটিই বেশি সঠিক।"
+          },
+          {
+            "en": "So by the collector's own judgement, the sounder form stops at Ibn Mas'ud (RA): the words are his, not the Prophet's ﷺ. Al-Qurtubi gives at-Tirmidhi's raised form and adds wa yurwa mawqufan, it is also reported as stopping at the Companion. Ibn Kathir notes that at-Tirmidhi recorded it, then recorded it stopped and said that was more correct. At-Tabari carries the raised chain once and the form stopped at Ibn Mas'ud twice, and in one of these Ibn Mas'ud asks: do you not see that the ruby is a stone, and if you put a thread in it you would see the thread from behind the stone?",
+            "bn": "তাহলে সংকলকের নিজের বিচারে বেশি নির্ভরযোগ্য রূপটি থেমে যায় ইবন মাসঊদ (রাঃ)-এ। কথাগুলো তাঁর, নবী ﷺ-এর নয়। কুরতুবী তিরমিযীর মারফূ‘ রূপটি দিয়ে যোগ করেন: ওয়া ইউরওয়া মাওকূফান, এটি সাহাবী পর্যন্ত থেমে থাকা রূপেও বর্ণিত। ইবন কাসীর জানান, তিরমিযী এটি বর্ণনা করেছেন, তারপর মাওকূফ রূপেও এনেছেন এবং সেটিকে বেশি সঠিক বলেছেন। তাবারী মারফূ‘ সনদটি আনেন একবার, আর ইবন মাসঊদে থেমে যাওয়া রূপ দুবার। তার একটিতে ইবন মাসঊদ জিজ্ঞেস করেন: তুমি কি দেখো না, ইয়াকূত তো একটা পাথর, তাতে সুতো ঢোকালে পাথরের পেছন থেকে সুতোটা দেখা যায়?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Red Drink in White Glass",
+          "bn": "সাদা কাচে লাল পানীয়"
+        },
+        "p": [
+          {
+            "en": "A second image runs beside the first, and three of the commentaries carry it. At-Tabari, al-Qurtubi and al-Baghawi all record 'Amr ibn Maymun, the man through whom Ibn Mas'ud's report passes in every chain above, saying in his own words: a woman of the hur al-'in wears seventy garments, and the marrow of her shin is seen from behind them kama yura al-sharab al-ahmar fi al-zujaja al-bayda', as red drink is seen in a white glass. It is reported as his saying, not as a narration from the Prophet ﷺ.",
+            "bn": "প্রথম ছবির পাশাপাশি আরেকটি ছবিও আছে, তিনটি তাফসীরে তা এসেছে। তাবারী, কুরতুবী ও বাগাভী সবাই আমর ইবন মাইমূনের কথা বর্ণনা করেন। ওপরের প্রতিটি সনদে ইবন মাসঊদের বর্ণনা তাঁর হাত দিয়েই এসেছে। তিনি নিজের ভাষায় বলেন: হুরুল ‘ঈনের একজন নারী সত্তরটি পোশাক পরে থাকে, আর সেগুলোর আড়াল থেকে তার পায়ের নলার মজ্জা দেখা যায়, কামা ইউরাশ শারাবুল আহমারু ফিয যুজাজাতিল বায়দা, যেমন সাদা কাচের পাত্রে লাল পানীয় দেখা যায়। এটি তাঁর নিজের উক্তি হিসেবেই বর্ণিত, নবী ﷺ-এর হাদীস হিসেবে নয়।"
+          },
+          {
+            "en": "Set side by side, the thread in the stone and the drink in the glass say one thing. Each is something seen through something else, and in each the outer layer hides nothing because it is pure. That is how at-Tabari reads safa', and the Muyassar and as-Sa'di keep the same word without the picture. The texts say no more than this. They give no further detail of body or form, and this article does not supply any. What they praise is a purity so complete that the outward does not conceal the inward.",
+            "bn": "পাথরের ভেতরের সুতো আর কাচের ভেতরের পানীয়, দুটিকে পাশাপাশি রাখলে একই কথা বলে। দুটিতেই একটা জিনিস আরেকটার ভেতর দিয়ে দেখা যায়। আর বাইরের আবরণ কিছুই লুকায় না, কারণ সে নিজেই নির্মল। তাবারী সাফা শব্দটি এভাবেই পড়েন। মুয়াসসার ও সা'দী ছবিটা না এনে একই শব্দ ধরে রাখেন। সূত্রগুলো এর বেশি কিছু বলে না। দেহ বা গড়ন নিয়ে আর কোনো খুঁটিনাটি তারা দেয় না, এ প্রবন্ধও দেবে না। তারা যার প্রশংসা করে, তা এমন পূর্ণ নির্মলতা, যেখানে বাইরেটা ভেতরটাকে ঢেকে রাখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sahih Report Set Alongside",
+          "bn": "পাশে রাখা এক সহীহ বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Sahih Muslim (2834a) records that people argued, out of pride or in discussion, whether men or women would be more in Paradise. Abu Hurayrah (RA) answered with the Prophet's ﷺ words, quoted in the quranx English: \"The (members) of the first group to get into Paradise would have their faces as bright as full moon during the night, and the next to this group would have their faces as bright as the shining stars in the sky, and every person would have two wives and the marrow of their shanks would glimmer beneath the flesh and there would be none without a wife in Paradise.\"",
+            "bn": "সহীহ মুসলিম (২৮৩৪ক) জানায়, লোকেরা গর্ব করে কিংবা আলোচনার ছলে তর্ক করছিল, জান্নাতে পুরুষ বেশি হবে নাকি নারী। আবু হুরায়রা (রাঃ) জবাবে নবী ﷺ-এর কথা শোনান, quranx-এর ইংরেজি থেকে: \"জান্নাতে প্রথম যে দল প্রবেশ করবে, তাদের চেহারা হবে পূর্ণিমার রাতের চাঁদের মতো উজ্জ্বল। তাদের পরের দলের চেহারা হবে আকাশের ঝলমলে তারার মতো। প্রত্যেকের দুজন স্ত্রী থাকবে, মাংসের নিচে তাদের পায়ের নলার মজ্জা ঝিলিক দেবে। আর জান্নাতে স্ত্রীহীন কেউ থাকবে না।\""
+          },
+          {
+            "en": "Ibn Kathir cites it on this verse, and adds that the hadith is in both Sahihs through Hammam ibn Munabbih and Abu Zur'a; al-Baghawi quotes it with his own chain, by way of al-A'raj. The marrow clause is the link: the same transparency the commentators find in the ruby. Al-Bukhari's wording by Hammam's route is quoted in full at 19:62 and is not repeated here. The hadith is not tied to the words of this verse. Ibn Kathir places it beside the verse because it describes the same people; neither he nor Muslim says it explains ka-annahunna.",
+            "bn": "ইবন কাসীর এ আয়াতের আলোচনায় এটি আনেন এবং যোগ করেন, হাম্মাম ইবন মুনাব্বিহ ও আবু যুর‘আর সূত্রে হাদীসটি দুই সহীহ গ্রন্থেই আছে। বাগাভী নিজের সনদে, আ‘রাজের সূত্র ধরে, এটি উদ্ধৃত করেন। যোগসূত্র হলো মজ্জার কথাটি, তাফসীরকারেরা ইয়াকূতের মধ্যে যে স্বচ্ছতা দেখেন, সেটিই। হাম্মামের সূত্রে বুখারীর পূর্ণ ভাষ্য ১৯:৬২-এর প্রবন্ধে আছে, এখানে আবার দেওয়া হলো না। হাদীসটি এ আয়াতের শব্দের সঙ্গে সরাসরি বাঁধা নয়। একই মানুষদের বর্ণনা দেয় বলে ইবন কাসীর এটি আয়াতের পাশে রেখেছেন। তিনি বা মুসলিম কেউই বলেননি যে এটি কাআন্নাহুন্নার ব্যাখ্যা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clear All the Way Through",
+          "bn": "ভেতর পর্যন্ত স্বচ্ছ"
+        },
+        "p": [
+          {
+            "en": "The refrain returns at once, at 55:59: so which of the favours of your Lord would you deny? Then 55:60 asks whether the reward for good is anything but good, and that verse has its own article. The placement matters. The likeness stands between a promise and a question, and the question treats it as a favour to be acknowledged. It is not offered as a picture to dwell on for its own sake, and the commentators' brevity on it, a line or two each beyond the reports, keeps to that.",
+            "bn": "প্রশ্নটি সঙ্গে সঙ্গে ফিরে আসে ৫৫:৫৯-এ: অতএব তোমরা তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে? তারপর ৫৫:৬০ জিজ্ঞেস করে, উত্তম কাজের প্রতিদান উত্তম ছাড়া আর কী হতে পারে। সে আয়াতের আলাদা প্রবন্ধ আছে। আয়াতের অবস্থানটা লক্ষ করার মতো। উপমাটি দাঁড়িয়ে আছে একটি প্রতিশ্রুতি আর একটি প্রশ্নের মাঝখানে, আর প্রশ্নটি একে গণ্য করে স্বীকার করার মতো এক নিয়ামত হিসেবে। নিছক কল্পনায় ডুবে থাকার ছবি হিসেবে একে সামনে রাখা হয়নি। বর্ণনাগুলোর বাইরে তাফসীরকারেরা এক-দুই লাইনের বেশি বলেননি, সেই সংযম এ কথাই মেনে চলে।"
+          },
+          {
+            "en": "What follows is this article's own reading, not a commentator's. The quality the sources praise most is a clarity in which what is inside shows through what covers it. Nobody can make himself a ruby, but the image can still be held up as a mirror. Does what I carry inside match what I show? Would I be content for it to be seen through? And the longing the verse awakens has a direction the surah has already given at 55:46: not towards the imagination, but towards fearing the standing before the Lord, and living accordingly.",
+            "bn": "এখান থেকে যা বলা হচ্ছে, তা এ প্রবন্ধের নিজের পাঠ, কোনো তাফসীরকারের নয়। সূত্রগুলো যে গুণের প্রশংসা সবচেয়ে বেশি করে, তা এমন স্বচ্ছতা যেখানে ঢাকনার ভেতর দিয়ে ভেতরটা দেখা যায়। কেউ নিজেকে ইয়াকূত বানাতে পারে না। তবু ছবিটা আয়নার মতো সামনে ধরা যায়। আমার ভেতরে যা আছে, বাইরে যা দেখাই তার সঙ্গে কি তা মেলে? কেউ ভেতর পর্যন্ত দেখে ফেললে কি আমি স্বস্তিতে থাকব? আর আয়াতটি যে আকুলতা জাগায়, তার দিক সূরা আগেই ৫৫:৪৬-এ ঠিক করে দিয়েছে। কল্পনার দিকে নয়, রবের সামনে দাঁড়ানোর ভয়ের দিকে, আর সেই ভয় অনুযায়ী জীবন গড়ার দিকে।"
+          }
+        ]
+      }
+    ]
+  },
   "55:60": {
     "sections": [
       {
