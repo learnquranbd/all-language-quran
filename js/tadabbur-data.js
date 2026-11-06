@@ -29267,6 +29267,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the call to bow comes, in prayer or before a plain truth, bend to it readily; refusing it is a matter of pride, not of being unable.",
     "lessonBn": "রুকুর ডাক যখন আসে, নামাজে হোক বা স্পষ্ট কোনো সত্যের সামনে, দেরি না করে নত হোন। না মানাটা অক্ষমতা নয়, অহংকার।"
+  },
+  "78:25": {
+    "reflectionEn": "The verse before has shut two doors: no coolness there, and no drink. Then comes the word except, and a thirsty listener leans in, hoping for relief. What follows is only two things: water boiled to the end of its heat, and ghassaq, a flow described as foul, or as a cold past bearing. The exception gives nothing that was wished for. The next verse calls it a fitting recompense, matched to what was done. Today I drink cold water without a thought, and I still have time to change what I do. The verse speaks of those who denied the reckoning, not of anyone I may judge. Which of my deeds would I want matched, and which would I rather undo while I can?",
+    "reflectionBn": "আগের আয়াত দুটো দরজা বন্ধ করে দিয়েছে: সেখানে শীতলতা নেই, পানীয়ও নেই। তারপর আসে 'ছাড়া' শব্দটি। তৃষ্ণার্ত শ্রোতা কান খাড়া করে, হয়তো এবার কিছু স্বস্তি মিলবে। কিন্তু যা আসে তা মাত্র দুটি জিনিস: ফুটতে ফুটতে শেষ মাত্রায় পৌঁছানো গরম পানি, আর গাসসাক। গাসসাককে কেউ বলেছেন দুর্গন্ধময় পুঁজ, কেউ বলেছেন সহ্যের বাইরে ঠান্ডা। এই ব্যতিক্রমে চাওয়ার মতো কিছুই নেই। পরের আয়াত একে বলে উপযুক্ত প্রতিফল, যা করা হয়েছে তার সঙ্গে মেলানো। আজ আমি ঠান্ডা পানি পান করি কোনো ভাবনা ছাড়াই, আর এখনো আমার হাতে সময় আছে নিজের কাজ বদলানোর। আয়াতটি তাদের কথা বলছে যারা হিসাবকে অস্বীকার করেছিল, এমন কারও কথা নয় যার বিচার করার অধিকার আমার আছে। তাহলে আমার কোন আমলটা হুবহু মিলিয়ে ফেরত পেতে চাই, আর কোনটা সময় থাকতেই মুছে ফেলতে চাই?",
+    "pointsEn": [
+      "When did I last drink cold water and actually thank Allah for it?",
+      "Is there an 'except' I am quietly counting on, a hope of relief I have done nothing to prepare for?",
+      "If my recompense were matched exactly to this week's deeds, which deed would I most want to change?",
+      "Do I hear verses about the Fire as news about other people, or as a warning sent to me while there is still time?",
+      "What one wrong can I stop or repair today, before a reckoning I have been living as if it will never come?"
+    ],
+    "pointsBn": [
+      "শেষ কবে ঠান্ডা পানি পান করে সত্যিই আল্লাহর শুকরিয়া আদায় করেছি?",
+      "মনে মনে কি এমন কোনো 'ছাড়া'-র উপর ভরসা করে বসে আছি, এমন কোনো রেহাইয়ের আশা, যার জন্য আমি কোনো প্রস্তুতিই নিইনি?",
+      "এ সপ্তাহের আমলের সঙ্গে হুবহু মিলিয়ে যদি প্রতিফল দেওয়া হয়, কোন কাজটা আমি সবার আগে বদলাতে চাইব?",
+      "জাহান্নামের বর্ণনার আয়াত শুনলে কি মনে করি এটা অন্যদের খবর, নাকি ভাবি সময় থাকতেই আমাকে সতর্ক করা হচ্ছে?",
+      "যে হিসাবের দিন কখনো আসবে না ভেবে চলছি, তা আসার আগে আজই কোন একটা অন্যায় থামাতে বা শুধরে নিতে পারি?"
+    ],
+    "lessonEn": "The Fire's only 'except' is worse than what it answers. Thank Allah for every cool drink now, and change the deeds you would not want matched.",
+    "lessonBn": "জাহান্নামের একমাত্র 'ছাড়া' যা দেয়, তা অভাবের চেয়েও ভয়ংকর। আজকের প্রতিটি ঠান্ডা চুমুকের জন্য আল্লাহর শুকরিয়া আদায় করুন, আর যে আমল হুবহু মিলিয়ে ফেরত পেতে চান না, তা এখনই বদলে ফেলুন।"
   }
 };
 

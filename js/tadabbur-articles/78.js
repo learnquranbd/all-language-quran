@@ -739,6 +739,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "78:25": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Exception That Gives Nothing",
+          "bn": "যে ব্যতিক্রমে কিছুই মেলে না"
+        },
+        "p": [
+          {
+            "en": "Illa hamiman wa ghassaqa: except scalding water and ghassaq. The verse has three Arabic words, and the first carries the shape of the passage. The verse before, 78:24, has said that the transgressors will taste there neither coolness nor drink. Then an exception follows, and in ordinary speech an exception opens a door. Here it opens onto two things that make the lack worse, not better. The verse after, 78:26, gathers the whole into two words, jaza'an wifaqa: a recompense that fits.",
+            "bn": "ইল্লা হামীমান ওয়া গাসসাকা: ফুটন্ত পানি আর গাসসাক ছাড়া। আরবিতে আয়াতটি মাত্র তিনটি শব্দের, আর গোটা অংশের গড়ন ধরা আছে প্রথম শব্দটিতেই। আগের আয়াত ৭৮:২৪ বলেছে, সীমালঙ্ঘনকারীরা সেখানে শীতলতাও পাবে না, পানীয়ও পাবে না। তারপর আসে একটা ব্যতিক্রম। সাধারণ কথায় ব্যতিক্রম মানে কোথাও একটা দরজা খোলা। কিন্তু এখানে সেই দরজা খোলে এমন দুটি জিনিসের দিকে, যা অভাবকে কমায় না, আরও বাড়ায়। পরের আয়াত ৭৮:২৬ পুরো ব্যাপারটাকে দুই শব্দে বেঁধে দেয়: জাযাআন ওয়িফাকা, মাপমতো প্রতিফল।"
+          },
+          {
+            "en": "Much of what the commentators say about these two words has already been set out on 38:57, the only other verse that pairs hamim with ghassaq: the two recitations of ghassaq, the full range of its meanings, and how the scholars weigh them. That ground is not walked again here. This article stays with what the commentaries fetched for 78:25 itself say: how the exception is built, which lack each of the two things answers, and how at-Tabari draws the meanings of ghassaq together.",
+            "bn": "এই দুই শব্দ নিয়ে তাফসীরকারদের অনেক কথা ৩৮:৫৭-এর আলোচনায় আগেই এসে গেছে। কুরআনে হামীম আর গাসসাক একসঙ্গে আছে কেবল ওই আয়াতে আর এখানে। গাসসাকের দুই রকম কিরাআত, এর অর্থের পুরো তালিকা, আর আলেমরা কোন অর্থকে কতটা ভারী মনে করেন, সবই সেখানে আছে। এখানে সে পথে আবার হাঁটা হবে না। এ লেখা থাকবে ৭৮:২৫-এর জন্য আনা তাফসীরগুলোর কথার মধ্যে: ব্যতিক্রমটা কীভাবে গড়া, দুটি জিনিস কোন অভাবের জবাবে এসেছে, আর তাবারী গাসসাকের অর্থগুলোকে কীভাবে এক জায়গায় আনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Lack Each One Answers",
+          "bn": "কোন অভাবের জবাবে কোনটি"
+        },
+        "p": [
+          {
+            "en": "Two things are denied in 78:24 and two are named in 78:25, and the commentators ask how they line up. Ibn Kathir reports Abu al-'Aliya: the hamim is excepted from the coolness, and the ghassaq from the drink. He adds that ar-Rabi' ibn Anas said the same, and the abridged English Ibn Kathir carries the pairing in the same form. On this reading the two verses run in parallel order, coolness then drink, hamim then ghassaq, so that the hottest of things stands exactly where coolness was refused.",
+            "bn": "৭৮:২৪ আয়াতে দুটি জিনিস অস্বীকার করা হয়েছে, আর ৭৮:২৫ আয়াতে দুটি জিনিসের নাম এসেছে। তাফসীরকাররা প্রশ্ন তোলেন, কোনটা কোনটার সঙ্গে মেলে? ইবন কাসীর আবুল আলিয়ার কথা আনেন: শীতলতা থেকে ব্যতিক্রম হামীম, আর পানীয় থেকে ব্যতিক্রম গাসসাক। তিনি জানান, রাবী' ইবন আনাসও একই কথা বলেছেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও জোড়াটা এভাবেই আছে। এ পাঠে দুই আয়াতের ক্রম পাশাপাশি চলে: আগে শীতলতা, পরে পানীয়; আগে হামীম, পরে গাসসাক। ফলে যেখানে শীতলতা চাওয়া হয়েছিল, ঠিক সেখানেই দাঁড়িয়ে যায় সবচেয়ে গরম জিনিসটি।"
+          },
+          {
+            "en": "At-Tabari pairs them the other way. His paraphrase reads: they will taste there neither coolness nor drink, except hamim that has been boiled until its heat reached its end, and no coolness except ghassaq. On his wording the scalding water is the only drink and the ghassaq is the only coolness, which suits those early voices, met below, who make ghassaq a cold beyond bearing. The fetched commentaries do not set the two pairings against each other, and this article leaves both standing as they were given.",
+            "bn": "তাবারী জোড়া মেলান উল্টো দিক থেকে। তাঁর ব্যাখ্যার ভাষা এমন: তারা সেখানে শীতলতা বা পানীয় কিছুই আস্বাদন করবে না, শুধু এমন হামীম ছাড়া যা ফুটিয়ে ফুটিয়ে উত্তাপের শেষ সীমায় নেওয়া হয়েছে; আর শীতলতা বলতে পাবে কেবল গাসসাক। তাঁর এ কথায় ফুটন্ত পানিই একমাত্র পানীয়, আর গাসসাকই একমাত্র শীতলতা। প্রথম যুগের যাঁরা গাসসাককে সহ্যের অতীত ঠান্ডা বলেছেন, তাঁদের কথার সঙ্গে এ পাঠ মিলে যায়; তাঁদের কথা নিচে আসছে। আনা তাফসীরগুলো দুই জোড়াকে মুখোমুখি দাঁড় করায়নি। এ লেখাও দুটোকেই যেমন বলা হয়েছে তেমন রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cut Off, or Standing In",
+          "bn": "বিচ্ছিন্ন, নাকি বদলি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi asks what kind of exception this is, and his answer turns on one word in the verse before. For those who take bard in 78:24 to mean sleep, he says, the exception is munqati', cut off: what follows except is not of the same kind as what was denied, so the word works more like but. For those who take bard as coolness, hamim and ghassaq are a badal, a substitute put in the place of what was refused. The grammar of 78:25 is settled by how one reads 78:24.",
+            "bn": "কুরতুবী জানতে চান, এ ব্যতিক্রম কোন ধরনের। তাঁর উত্তর ঝুলে আছে আগের আয়াতের একটি শব্দের উপর। যাঁরা ৭৮:২৪-এর 'বার্দ' শব্দের অর্থ ঘুম ধরেন, তাঁদের মতে এখানে ব্যতিক্রমটি মুনকাতি', মানে বিচ্ছিন্ন। 'ছাড়া'-র পরে যা আসে তা অস্বীকার করা জিনিসের জাতের নয়, তাই শব্দটা কাজ করে 'বরং'-এর মতো। আর যাঁরা 'বার্দ' মানে শীতলতা ধরেন, তাঁদের মতে হামীম আর গাসসাক বাদাল, অর্থাৎ যা দেওয়া হয়নি তার জায়গায় বসানো বদলি। ৭৮:২৫-এর ব্যাকরণ তাই ঠিক হয় ৭৮:২৪ কীভাবে পড়া হচ্ছে তা দিয়ে।"
+          },
+          {
+            "en": "The sleep reading is carried by those who report it, not argued for by them. Ibn Kathir says Ibn Jarir mentions it with it was said, citing a line of verse by al-Kindi in which bard means drowsiness and sleep, and assigns it to no one. Ibn Kathir adds that Ibn Abi Hatim narrated it through as-Suddi from Murra at-Tayyib, that it is also transmitted from Mujahid, and that al-Baghawi reported it from Abu 'Ubayda and al-Kisa'i. The reading belongs to 78:24; here it bears only on the grammar.",
+            "bn": "ঘুমের অর্থটা যাঁরা এনেছেন, তাঁরা তা বর্ণনা করেছেন, পক্ষে যুক্তি দাঁড় করাননি। ইবন কাসীর বলেন, ইবন জারীর 'বলা হয়' বলে কথাটি উল্লেখ করেছেন, সঙ্গে কিন্দীর একটি কবিতার পঙক্তি দিয়েছেন, যেখানে 'বার্দ' মানে তন্দ্রা ও ঘুম। কিন্তু কার মত, তা তিনি বলেননি। ইবন কাসীর আরও জানান, ইবন আবী হাতিম এটি সুদ্দীর সূত্রে মুররা আত-তাইয়িব থেকে বর্ণনা করেছেন, মুজাহিদ থেকেও এটি এসেছে, আর বাগাভী এটি আবু উবাইদা ও কিসাঈ থেকে উল্লেখ করেছেন। মতটির আসল জায়গা ৭৮:২৪। এখানে এর প্রভাব শুধু ব্যাকরণে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heat Taken to Its Limit",
+          "bn": "উত্তাপের শেষ সীমা"
+        },
+        "p": [
+          {
+            "en": "The first of the two raises little dispute. At-Tabari describes hamim as water boiled until its heat has reached its end, like al-muhl that roasts the faces, the words of 18:29. As-Sa'di calls it hot water that roasts their faces and cuts through their bowels, close to the wording of 47:15. Al-Qurtubi gives Abu 'Ubayda's plain gloss, hot water, and al-Muyassar says the same. Ma'arif al-Qur'an describes intensely boiling water that would burn the face brought near it and cut the organs it entered.",
+            "bn": "দুটির মধ্যে প্রথমটি নিয়ে মতভেদ সামান্য। তাবারী বলেন, হামীম এমন পানি যা ফুটিয়ে উত্তাপের শেষ সীমায় নেওয়া হয়েছে। তা যেন 'মুহল', যা মুখমণ্ডল ঝলসে দেয়; কথাটি ১৮:২৯ আয়াতের। সা'দীর ভাষায়, এ গরম পানি তাদের মুখ ঝলসে দেয় আর নাড়িভুঁড়ি কেটে ফেলে, যা ৪৭:১৫ আয়াতের কথার খুব কাছাকাছি। কুরতুবী আবু উবাইদার সাদামাটা ব্যাখ্যা আনেন: গরম পানি। মুয়াসসারও তা-ই বলে। মাআরিফুল কুরআনের বর্ণনায় এ পানি এত ফুটন্ত যে মুখের কাছে আনলে মুখের মাংস পুড়ে যায়, আর পেটে গেলে ভেতরের অঙ্গ টুকরো টুকরো করে দেয়।"
+          },
+          {
+            "en": "Al-Qurtubi adds a note from an-Nahhas on the root. The origin of hamim, an-Nahhas says, is hot water, and from it were drawn hammam, the bathhouse, and humma, fever, and the word yahmum in 56:43; what is meant by all of them is heat at its extreme. Ibn Zayd, in at-Tabari and al-Qurtubi, reads hamim differently, as the tears of their own eyes, gathered in trenches of the Fire in at-Tabari's wording and in pools in al-Qurtubi's, and given them to drink. That reading has its place in the article on 38:57.",
+            "bn": "কুরতুবী শব্দমূল নিয়ে নাহহাসের একটি কথা যোগ করেন। নাহহাস বলেন, হামীমের মূল অর্থ গরম পানি। এখান থেকেই এসেছে 'হাম্মাম', গোসলখানা; 'হুম্মা', জ্বর; আর ৫৬:৪৩ আয়াতের 'ইয়াহমূম' শব্দটি। এদের সবগুলো দিয়েই বোঝানো হয় উত্তাপের চরম মাত্রা। ইবন যায়দ, তাবারী ও কুরতুবী দুজনের বর্ণনায়, হামীমকে পড়েন ভিন্নভাবে। তাঁর মতে এ হলো তাদেরই চোখের পানি, যা জমিয়ে তাদের পান করতে দেওয়া হয়। তাবারীর ভাষায় তা জমে জাহান্নামের খাদে, কুরতুবীর ভাষায় পুকুরে। এ মতের আলোচনা ৩৮:৫৭-এর লেখায় আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Discharge, Bitter Cold, Stench",
+          "bn": "পুঁজ, তীব্র ঠান্ডা, দুর্গন্ধ"
+        },
+        "p": [
+          {
+            "en": "On ghassaq, at-Tabari says outright that the people of interpretation differed, and he sorts them into three groups. The first say it is what flowed from the pus of the people of Hell. 'Atiyya ibn Sa'd: what flows from their skins. 'Ikrima: what comes out of their eyes, of pus and blood. Ibrahim and Abu Razin: the washings of the people of the Fire, or in another report of the same words, what flows of their pus. Qatada: we used to be told it is what flows between his skin and his flesh. Sufyan, within the same list, adds: it reached me that it is what flows of their tears.",
+            "bn": "গাসসাক নিয়ে তাবারী সোজাসুজি বলেন, ব্যাখ্যাকারদের মধ্যে মতভেদ হয়েছে। তিনি তাঁদের তিনটি দলে ভাগ করেন। প্রথম দলের মতে এ হলো জাহান্নামবাসীদের পুঁজ থেকে যা গড়িয়ে পড়ে। আতিয়্যা ইবন সা'দ বলেন: তাদের চামড়া থেকে যা ঝরে। ইকরিমা বলেন: তাদের চোখ থেকে যে পুঁজ আর রক্ত বের হয়। ইবরাহীম ও আবু রাযীন বলেন: জাহান্নামবাসীদের ধোয়ানি; একই কথার আরেক বর্ণনায়, তাদের পুঁজ থেকে যা গড়ায়। কাতাদা বলেন: আমাদের বলা হতো, গাসসাক হলো চামড়া আর মাংসের মাঝখান থেকে যা ঝরে। এই তালিকাতেই সুফিয়ান যোগ করেন: আমার কাছে পৌঁছেছে, এ হলো তাদের চোখের পানি থেকে যা গড়ায়।"
+          },
+          {
+            "en": "The second group make it the zamharir, the bitter cold. At-Tabari reports this from Ibn Abbas (RA), and from Abu al-'Aliya and ar-Rabi'. Mujahid, in three chains: what they cannot bear to taste for its cold. Al-Baghawi gives Ibn Abbas (RA) the fuller wording: the zamharir that burns them with its cold. The third group make it the stinking. At-Tabari reports 'Abd Allah ibn Burayda: ghassaq is the stinking, and the word is Tukhari.",
+            "bn": "দ্বিতীয় দলের মতে গাসসাক হলো যামহারীর, হাড়কাঁপানো ঠান্ডা। তাবারী এ মত বর্ণনা করেন ইবন আব্বাস (রাঃ) থেকে, আর আবুল আলিয়া ও রাবী' থেকে। মুজাহিদ তিনটি সূত্রে বলেন: এমন জিনিস, যার ঠান্ডার জন্য তারা তা মুখে নিতে পারে না। বাগাভী ইবন আব্বাস (রাঃ)-এর কথা আরেকটু পূর্ণ করে আনেন: এমন যামহারীর, যা তার ঠান্ডা দিয়ে তাদের পুড়িয়ে দেয়। তৃতীয় দলের মতে গাসসাক মানে দুর্গন্ধময়। তাবারী আবদুল্লাহ ইবন বুরাইদার কথা আনেন: গাসসাক মানে দুর্গন্ধযুক্ত, আর শব্দটি তুখারী ভাষার।"
+          },
+          {
+            "en": "The other commentators mostly choose. Al-Qurtubi gives the pus and discharge of the people of the Fire first, and the zamharir only under it was said. As-Sa'di calls it the discharge of the people of the Fire, at the utmost of stench and loathsome to taste; al-Muyassar and Ma'arif al-Qur'an keep to discharge alone. Al-Qurtubi also notes that Hamza and al-Kisa'i read the word with the sin doubled, and refers back to Surah Sad, where 38:57 takes up the two recitations in full.",
+            "bn": "অন্য তাফসীরকাররা সাধারণত একটি বেছে নেন। কুরতুবী আগে বলেন জাহান্নামবাসীদের পুঁজ ও রস, আর যামহারীরের কথা আনেন শুধু 'বলা হয়' বলে। সা'দীর মতে এ হলো জাহান্নামবাসীদের পুঁজ, যার দুর্গন্ধ চরমে আর স্বাদ ঘৃণ্য। মুয়াসসার আর মাআরিফুল কুরআন কেবল পুঁজের অর্থটাই রাখে। কুরতুবী আরও জানান, হামযা ও কিসাঈ শব্দটি পড়েছেন সীন হরফে তাশদীদ দিয়ে। এ নিয়ে তিনি পাঠককে সূরা সোয়াদে ফেরত পাঠান, যেখানে ৩৮:৫৭ আয়াতে দুই কিরাআতের পুরো আলোচনা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Joins the Three",
+          "bn": "তিন অর্থ এক সুতোয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gives his own view, and on this verse he does not simply pick one group. Ghassaq, he says, is of the pattern fa''al, from the Arab saying ghasaqat 'aynu fulan, when a man's eye runs with tears, and ghasaqa al-jurh, when a wound runs with pus. From the same root, he says, comes ghasiq in 113:3, the night when it settles: night that covers things, the point being its rush upon them like the rush of a flowing flood.",
+            "bn": "এরপর তাবারী নিজের মত দেন, আর এ আয়াতে তিনি শুধু একটা দল বেছে নিয়ে থামেন না। তিনি বলেন, গাসসাক শব্দটি 'ফাআল' ছাঁচের। এর মূলে আরবদের কথা: 'গাসাকাত আইনু ফুলান', যখন কারও চোখ দিয়ে পানি গড়ায়; আর 'গাসাকাল জুরহ', যখন ক্ষত থেকে পুঁজ ঝরে। তাঁর মতে একই মূল থেকে এসেছে ১১৩:৩ আয়াতের 'গাসিক', রাত যখন নেমে আসে। রাত সবকিছু ঢেকে দেয়। আর বোঝানো হয়েছে তার ঝাঁপিয়ে পড়া, ঠিক যেভাবে গড়িয়ে আসা স্রোত সবকিছুর উপর আছড়ে পড়ে।"
+          },
+          {
+            "en": "If ghassaq is a flowing thing, at-Tabari concludes, then what Allah has promised these people they will taste of drink in the Hereafter is the flow from the zamharir in Hell, which joins stench to the severity of its cold. He then raises an objection against himself: the zamharir is the utmost of cold, so how can it flow? His answer is that a cold which cannot be borne or endured belongs to the description of what flows from their bodies, of pus and discharge.",
+            "bn": "তাবারীর সিদ্ধান্ত: গাসসাক যদি গড়িয়ে পড়া কিছু হয়, তবে আখিরাতে এ লোকদের যে পানীয় আস্বাদনের কথা আল্লাহ জানিয়েছেন, তা হলো জাহান্নামের যামহারীর থেকে গড়িয়ে আসা রস। তাতে প্রচণ্ড ঠান্ডার সঙ্গে মিশে আছে দুর্গন্ধ। এরপর তিনি নিজেই একটা আপত্তি তোলেন: যামহারীর তো ঠান্ডার শেষ সীমা, তা আবার গড়ায় কী করে? তাঁর উত্তর: যে ঠান্ডা সহ্য করা যায় না, বয়ে নেওয়া যায় না, সেটাই তাদের শরীর থেকে ঝরে পড়া পুঁজ আর রসের বৈশিষ্ট্য।"
+          },
+          {
+            "en": "Ibn Kathir, in the Arabic text on this verse, reaches a similar joined picture by another road. Ghassaq, he says, is what gathers from the pus of the people of the Fire, their sweat, their tears and their wounds; it is cold beyond bearing for its cold, and not to be faced for its stench. He says he has already spoken on ghassaq in Surah Sad and will not repeat it, and asks Allah's protection from it. The single-sense readings above and these joined ones stand side by side.",
+            "bn": "এ আয়াতে ইবন কাসীরের আরবি তাফসীরও অন্য পথে প্রায় একই রকম মেলানো ছবিতে পৌঁছায়। তিনি বলেন, গাসসাক হলো জাহান্নামবাসীদের পুঁজ, ঘাম, চোখের পানি আর ক্ষতের রস, যা এক জায়গায় জমে। এর ঠান্ডা এমন যে সহ্য করা যায় না, আর দুর্গন্ধ এমন যে সামনে দাঁড়ানো যায় না। তিনি জানান, গাসসাক নিয়ে সূরা সোয়াদে আগেই বলেছেন, তাই এখানে আর বলছেন না। সঙ্গে তিনি এ থেকে আল্লাহর আশ্রয় চান। ওপরের এক-অর্থের পাঠগুলো আর এই মেলানো পাঠগুলো পাশাপাশিই থাকছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named, Then Set Aside",
+          "bn": "উল্লেখ আছে, ভিত্তি নেই"
+        },
+        "p": [
+          {
+            "en": "Straight after his conclusion, at-Tabari carries a narration traced to the Prophet ﷺ from Abu Sa'id al-Khudri (RA) about ghassaq, through 'Abd Allah ibn al-Mubarak and Rishdin ibn Sa'd. At-Tirmidhi records a report on ghassaq from Abu Sa'id, traced to the Prophet ﷺ (2584), also through Ibn al-Mubarak and Rishdin. He himself says that he knows it only through Rishdin ibn Sa'd, that there is criticism of Rishdin, and that he has been spoken against for his memory. With that reservation from its own collector, it is mentioned here and nothing is built on it.",
+            "bn": "নিজের সিদ্ধান্ত জানানোর ঠিক পরেই তাবারী গাসসাক নিয়ে একটি বর্ণনা আনেন, যা আবু সাঈদ খুদরী (রাঃ)-এর মাধ্যমে নবী ﷺ পর্যন্ত পৌঁছানো হয়েছে। এর সূত্রে আছেন আবদুল্লাহ ইবনুল মুবারক ও রিশদীন ইবন সা'দ। তিরমিযীও আবু সাঈদ (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছানো গাসসাক বিষয়ক একটি বর্ণনা এনেছেন (২৫৮৪), সেটিও ইবনুল মুবারক ও রিশদীনের সূত্রে। তিরমিযী নিজেই বলেন, এটি তিনি কেবল রিশদীন ইবন সা'দের সূত্রেই চেনেন, রিশদীনকে নিয়ে আপত্তি আছে, আর স্মৃতিশক্তির কারণে তাঁর সমালোচনা হয়েছে। সংকলকের নিজের এই আপত্তির কারণে বর্ণনাটির শুধু উল্লেখ থাকছে, এর উপর কিছু দাঁড় করানো হচ্ছে না।"
+          },
+          {
+            "en": "At-Tabari also has a saying of 'Abd Allah ibn 'Amr (RA) describing ghassaq, which reaches him only by I was told, without naming who told him, and then through Ibn Lahi'a; it is the Companion's own speech, not a word of the Prophet ﷺ, and the article on 38:57 already gives it. None of the commentaries fetched for this verse attaches to it a hadith that its collector graded sound, and none gives an occasion of revelation. The verse is read in its place, within the passage running from 78:21 to 78:30.",
+            "bn": "তাবারী গাসসাকের বর্ণনায় আবদুল্লাহ ইবন আমর (রাঃ)-এর একটি কথাও আনেন। তবে তা তাঁর কাছে পৌঁছেছে শুধু 'আমাকে বলা হয়েছে' বলে, কে বলেছেন তার নাম ছাড়া, আর তারপর ইবন লাহীআর সূত্রে। এটি সাহাবীর নিজের কথা, নবী ﷺ-এর বাণী নয়, আর ৩৮:৫৭-এর লেখায় এটি আগেই এসেছে। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে এমন কোনো হাদীস জোড়েনি, যাকে তার সংকলক সহীহ বলেছেন। কোনো শানে নুযূলও তারা দেয়নি। আয়াতটিকে তাই পড়তে হয় তার নিজের জায়গায়, ৭৮:২১ থেকে ৭৮:৩০ পর্যন্ত বর্ণনার ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measured Against the Deeds",
+          "bn": "আমলের মাপে মাপা"
+        },
+        "p": [
+          {
+            "en": "The next verse names what all this is: jaza'an wifaqa, a recompense in agreement. Ibn Kathir explains that what befalls them of this punishment accords with the evil deeds they used to do in this life, and says Mujahid, Qatada and others said so. Al-Muyassar, which treats 78:21 to 78:26 as one passage, calls it a just recompense, matching the deeds they used to do in the world. Then 78:27 and 78:28 give the reason: they did not expect a reckoning, and they denied Allah's signs outright.",
+            "bn": "পরের আয়াত এর নাম দেয়: জাযাআন ওয়িফাকা, সামঞ্জস্যপূর্ণ প্রতিফল। ইবন কাসীর বুঝিয়ে বলেন, এই শাস্তির যা কিছু তাদের উপর আসবে, তা দুনিয়ায় তাদের করা মন্দ আমলের সঙ্গে মিলিয়ে। তিনি জানান, মুজাহিদ, কাতাদা ও অন্যরা এমনই বলেছেন। মুয়াসসার ৭৮:২১ থেকে ৭৮:২৬ আয়াতকে একটি অংশ ধরে একসঙ্গে ব্যাখ্যা করে, আর একে বলে ন্যায্য প্রতিফল, দুনিয়ায় তারা যা করত তার সঙ্গে মানানসই। এরপর ৭৮:২৭ ও ৭৮:২৮ আয়াত কারণটা জানিয়ে দেয়: তারা কোনো হিসাবের আশা করত না, আর আল্লাহর নিদর্শনগুলোকে পুরোপুরি অস্বীকার করেছিল।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes the drink of at-taghin, the transgressors named in 78:22, whom 78:27 and 78:28 describe as deniers of the reckoning and of Allah's signs. It describes what it describes, and licenses nothing against any living person or community. It hands no reader a list of names, and gives no one the right to say who will taste these things. Each person's end is with Allah. The commentators' details are reported above only as far as they go, and nothing is added to them.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বলছে আত-তাগীনের পানীয়ের কথা, অর্থাৎ ৭৮:২২ আয়াতে যাদের সীমালঙ্ঘনকারী বলা হয়েছে, আর ৭৮:২৭ ও ৭৮:২৮ আয়াত যাদের বর্ণনা দেয় হিসাব আর আল্লাহর নিদর্শন অস্বীকারকারী হিসেবে। আয়াত যা বলে, শুধু তা-ই বলে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। পাঠকের হাতে এটি কারও নামের তালিকা তুলে দেয় না, আর কে এসব আস্বাদন করবে তা বলার অধিকারও কাউকে দেয় না। প্রত্যেকের শেষ পরিণতি আল্লাহর হাতে। তাফসীরকারদের কথা এখানে ততটুকুই আনা হয়েছে, যতটুকু তাঁরা বলেছেন; এর সঙ্গে কিছু যোগ করা হয়নি।"
+          },
+          {
+            "en": "What, then, does the verse leave a reader who is not there but here? The coolness and the drink that 78:24 withholds are the very things most of us take several times a day without a thought. To thank Allah for them is the first answer. The second is what 78:26 points to: if the recompense is cut to fit the deeds, the deeds can still be changed while hearing is still in this world. And at 78:31 the surah turns at once to the God-fearing and their attainment.",
+            "bn": "তাহলে যে পাঠক সেখানে নয়, এখানে আছেন, তাঁর জন্য আয়াতটি কী রেখে যায়? ৭৮:২৪ আয়াত যে শীতলতা আর পানীয় থেকে বঞ্চিত করার কথা বলে, আমরা বেশিরভাগ মানুষ দিনে কয়েকবার তা পাই, কোনো ভাবনা ছাড়াই। এর জন্য আল্লাহর শুকরিয়া আদায় করা প্রথম জবাব। দ্বিতীয় জবাবের দিকে ইশারা করে ৭৮:২৬: প্রতিফল যদি আমলের মাপে কাটা হয়, তবে এই দুনিয়ায় সতর্কবাণী শোনার সময় থাকতেই আমল বদলানো যায়। আর ৭৮:৩১ আয়াতে সূরাটি সঙ্গে সঙ্গে ফিরে যায় মুত্তাকীদের দিকে, তাদের সাফল্যের কথায়।"
+          }
+        ]
+      }
+    ]
+  },
   "78:32": {
     "sections": [
       {
