@@ -171,6 +171,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "51:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words After Four Oaths",
+          "bn": "চার শপথের পর তিন শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa-inna d-dina la-waqi': and indeed, the recompense will surely occur. The verse is three words long in Arabic, and it completes the answer to the four oaths that open Surat adh-Dhariyat. Ibn Kathir's English abridgement relays how 'Ali ibn Abi Talib (RA), asked by Ibn al-Kawwa' at Kufa, named the four: the winds, the clouds, the ships and the angels. Ma'arif al-Qur'an adds that Ibn Kathir held the ascription of this explanation to the Prophet ﷺ weak, and that it is also reported as a saying of 'Umar and 'Ali (RA). That scene belongs to 51:1 and is treated there.",
+            "bn": "ওয়া ইন্নাদ দীনা লাওয়াকি': আর নিশ্চয়ই প্রতিফল অবশ্যই ঘটবে। আরবিতে আয়াতটি মাত্র তিনটি শব্দের। সূরা আয-যারিয়াত যে চারটি শপথ দিয়ে শুরু, তার জবাব এখানে এসে পূর্ণ হয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ জানায়, কূফায় ইবনুল কাওয়া প্রশ্ন করলে আলী ইবন আবী তালিব (রাঃ) চারটির পরিচয় দেন: বাতাস, মেঘ, নৌকা আর ফেরেশতা। মাআরিফুল কুরআন যোগ করে, এই ব্যাখ্যাকে নবী ﷺ-এর কথা হিসেবে বর্ণনা করাকে ইবন কাসীর দুর্বল বলেছেন, আর তা উমর ও আলী (রাঃ)-এর উক্তি হিসেবেও বর্ণিত। সেই ঘটনা ৫১:১ আয়াতের আলোচনায় আছে, এখানে আর নয়।"
+          },
+          {
+            "en": "What matters here is where the answer begins and ends. Al-Baghawi marks the start on 51:5: then He mentioned what is sworn upon, and quotes it. Both he and al-Qurtubi mark the end right after this verse, with the same phrase: then He began another oath, by the heaven with its pathways. So the answer to the opening oaths is exactly two verses, 51:5 and 51:6. Ibn Kathir's English abridgement sums them up as a vow from Allah that the Resurrection shall come to pass. This article stays with the second line, read beside the first.",
+            "bn": "এখানে আসল কথা হলো, জবাবটা কোথায় শুরু আর কোথায় শেষ। শুরুটা বাগাভী চিহ্নিত করেন ৫১:৫ আয়াতে: তারপর তিনি উল্লেখ করলেন যার উপর শপথ করা হয়েছে, বলে তিনি আয়াতটি উদ্ধৃত করেন। শেষটা তিনি ও কুরতুবী দুজনেই দেখান ঠিক এই আয়াতের পরে, একই কথায়: তারপর তিনি আরেকটি শপথ শুরু করলেন, পথে ভরা আকাশের শপথ। অর্থাৎ শুরুর শপথগুলোর জবাব ঠিক দুটি আয়াত, ৫১:৫ ও ৫১:৬। ইবন কাসীরের ইংরেজি সংক্ষেপ দুটিকে এক কথায় বলে: পুনরুত্থান যে ঘটবেই, এ তারই উপর আল্লাহর শপথ। এ লেখা দ্বিতীয় লাইনটিকে নিয়ে, প্রথমটির পাশে রেখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reckoning, Requital, or Both",
+          "bn": "হিসাব, প্রতিদান, নাকি দুটোই"
+        },
+        "p": [
+          {
+            "en": "The commentators gloss ad-din with a small set of words. Ibn Kathir's Arabic is among the briefest: wa-huwa al-hisab, and it is the reckoning. At-Tabari records the same one-word answer from Mujahid, through Ibn Abi Najih: al-hisab. Al-Baghawi joins two words, the reckoning and the recompense, al-hisab wa-l-jaza'. Al-Qurtubi takes the second alone, al-jaza'. As-Sa'di gives a fuller phrase: ad-din, which is the day of recompense and of reckoning for deeds. The Muyassar speaks of the reckoning and the reward for deeds.",
+            "bn": "তাফসীরকারেরা আদ-দীনের ব্যাখ্যা দেন অল্প কয়েকটি শব্দে। ইবন কাসীরের আরবি ভাষ্য খুবই সংক্ষিপ্ত: ওয়া হুয়াল হিসাব, আর তা হলো হিসাব। তাবারী ইবন আবী নাজীহের সূত্রে মুজাহিদ থেকে ঠিক এক শব্দের একই জবাব আনেন: আল-হিসাব। বাগাভী দুটি শব্দ পাশাপাশি রাখেন, হিসাব ও প্রতিদান, আল-হিসাব ওয়াল জাযা। কুরতুবী নেন শুধু দ্বিতীয়টি, আল-জাযা। সা'দী একটু বড় করে বলেন: আদ-দীন, অর্থাৎ প্রতিদান আর আমলের হিসাবের দিন। মুয়াসসার বলে, আমলের হিসাব আর তার প্রতিদানের কথা।"
+          },
+          {
+            "en": "At-Tabari's own gloss is the widest. The verse means, he says, that the reckoning, the reward and the punishment are wajib, binding, and that Allah requites His servants for their deeds; the people of interpretation, he adds, said the same. He then gives Qatadah by two routes. In one, Qatadah reads 51:5 and 51:6 together and says: that is the Day of Resurrection, a day on which people are requited for their deeds. In the other: the day on which Allah requites the servants for their deeds.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা সবচেয়ে বিস্তৃত। তিনি বলেন, আয়াতের অর্থ হলো হিসাব, পুরস্কার আর শাস্তি ওয়াজিব, অর্থাৎ অবধারিত। আল্লাহ তাঁর বান্দাদের তাদের আমলের প্রতিদান দেবেন। তাফসীরবিদেরাও এ কথাই বলেছেন বলে তিনি জানান। এরপর তিনি দুই সূত্রে কাতাদার কথা আনেন। একটি সূত্রে কাতাদা ৫১:৫ ও ৫১:৬ একসঙ্গে পড়ে বলেন: সেটা কিয়ামতের দিন, যেদিন মানুষকে তাদের আমলের প্রতিদান দেওয়া হবে। অন্য সূত্রে: যেদিন আল্লাহ বান্দাদের তাদের আমলের প্রতিদান দেবেন।"
+          },
+          {
+            "en": "Set side by side, the glosses fall on two sides of one event. Some name the accounting, the weighing of what was done. Some name what follows from it, the requital. Al-Baghawi, as-Sa'di and at-Tabari hold both, and none of the sources treats the two as rival readings. None of them, either, takes ad-din here in the sense it carries in 109:6, for you is your religion and for me is mine. In this verse the word looks forward, to a day when deeds are answered.",
+            "bn": "ব্যাখ্যাগুলো পাশাপাশি রাখলে দেখা যায়, সেগুলো একই ঘটনার দুই দিকে পড়ে। কেউ নাম দেন হিসাবের, অর্থাৎ যা করা হয়েছে তা মাপার। কেউ নাম দেন তার পরে যা আসে, সেই প্রতিদানের। বাগাভী, সা'দী আর তাবারী দুটোই ধরে রাখেন, আর কোনো উৎসই এ দুটিকে পরস্পরবিরোধী পাঠ হিসেবে দেখে না। ১০৯:৬ আয়াতে দীন যে অর্থে এসেছে, তোমাদের জন্য তোমাদের দীন আর আমার জন্য আমার দীন, সে অর্থেও কেউ এখানে শব্দটি নেননি। এ আয়াতে শব্দটি সামনের দিকে তাকায়, সেই দিনের দিকে, যেদিন আমলের জবাব দিতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Raised First, Then Requited",
+          "bn": "আগে পুনরুত্থান, পরে প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "How do the two lines of the answer divide the work? At-Tabari reads 51:5 this way: what you are promised, O people, of the rising of the Hour and the raising of the dead from their graves is true, meaning it will be, a certain truth. Then, on 51:6, comes the reckoning, the reward and the punishment. On his reading the first line promises the raising and the second the requital. The Muyassar divides it in the same way: resurrection and reckoning are a certain truth, and the reckoning and reward for deeds will come about without fail.",
+            "bn": "জবাবের দুই লাইন কাজটা কীভাবে ভাগ করে নেয়? তাবারী ৫১:৫ পড়েন এভাবে: হে মানুষ, কিয়ামত কায়েম হওয়া আর কবর থেকে মৃতদের ওঠানোর যে ওয়াদা তোমাদের দেওয়া হয়েছে, তা সত্য, অর্থাৎ তা ঘটবেই, নিশ্চিত সত্য। তারপর ৫১:৬ আয়াতে আসে হিসাব, পুরস্কার আর শাস্তি। তাঁর পাঠে প্রথম লাইন পুনরুত্থানের ওয়াদা দেয়, দ্বিতীয় লাইন প্রতিদানের। মুয়াসসারও একইভাবে ভাগ করে: পুনরুত্থান ও হিসাব নিশ্চিত সত্য, আর আমলের হিসাব ও প্রতিদান অবশ্যই ঘটবে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi place the promise of 51:5 elsewhere. For al-Baghawi, what you are promised is the reward and the punishment. Al-Qurtubi widens it: what you are promised of good and of evil, of reward and of punishment. On their reading the first line already speaks of the outcome, and the second names it again as the recompense. The difference is kept here as it stands: at-Tabari reads the promise of 51:5 as the Hour and the resurrection, al-Qurtubi and al-Baghawi as reward and punishment.",
+            "bn": "কুরতুবী ও বাগাভী ৫১:৫ আয়াতের ওয়াদাকে অন্য জায়গায় রাখেন। বাগাভীর মতে যে ওয়াদা দেওয়া হয়েছে তা হলো পুরস্কার ও শাস্তি। কুরতুবী আরও প্রশস্ত করে বলেন: ভালো ও মন্দ, পুরস্কার ও শাস্তি, যা কিছুর ওয়াদা তোমাদের দেওয়া হয়েছে। তাঁদের পাঠে প্রথম লাইনই পরিণতির কথা বলে, আর দ্বিতীয় লাইন সেটাকেই প্রতিফল নামে আবার উল্লেখ করে। মতভেদটা এখানে যেমন আছে তেমনই রাখা হলো। তাবারী ৫১:৫ আয়াতের ওয়াদাকে পড়েন কিয়ামত ও পুনরুত্থান হিসেবে, কুরতুবী ও বাগাভী পড়েন পুরস্কার ও শাস্তি হিসেবে।"
+          },
+          {
+            "en": "Qatadah, in the first of at-Tabari's two reports from him, does not divide the lines at all. He reads them as one statement about one day: the Day of Resurrection, on which people are requited for their deeds. Whichever way the lines are divided, they meet at the same point. The raising of the dead is not an end in itself in any of these readings. It is the doorway to the account, and the account is what 51:6 names.",
+            "bn": "তাবারীর আনা কাতাদার দুই বর্ণনার প্রথমটিতে কাতাদা লাইন দুটিকে আদৌ ভাগ করেন না। তিনি দুটিকে পড়েন একই দিনের বিষয়ে একটিমাত্র ঘোষণা হিসেবে: কিয়ামতের দিন, যেদিন মানুষকে তাদের আমলের প্রতিদান দেওয়া হবে। লাইন দুটি যেভাবেই ভাগ করা হোক, শেষে তারা এক বিন্দুতে মেলে। এই পাঠগুলোর কোনোটিতেই মৃতদের ওঠানো নিজেই শেষ কথা নয়। তা হিসাবের দরজা, আর সেই হিসাবেরই নাম নেয় ৫১:৬।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A True Report, a Certain Event",
+          "bn": "সত্য খবর, অবধারিত ঘটনা"
+        },
+        "p": [
+          {
+            "en": "The two lines also differ in their final word. Verse 51:5 ends in sadiq, true. Al-Qurtubi explains it as there being no lie in it, and notes that la-sadiq stands for la-sidq, a noun set in the place of the verbal noun. Ibn Kathir's Arabic glosses it as li-khabar sidq, a truthful report. At-Tabari records the same grammatical point after a report from Mujahid. The first line, then, is about the promise as speech: what has been said about the coming day is true.",
+            "bn": "দুই লাইনের শেষ শব্দেও তফাত আছে। ৫১:৫ আয়াত শেষ হয় সাদিক শব্দে, সত্য। কুরতুবী বলেন, এর মধ্যে কোনো মিথ্যা নেই। তিনি আরও জানান, লাসাদিক আসলে লাসিদক অর্থে, ক্রিয়াবাচক বিশেষ্যের জায়গায় বিশেষ্য বসানো হয়েছে। ইবন কাসীরের আরবি ভাষ্যে এর অর্থ লিখাবারি সিদক, সত্য খবর। মুজাহিদের এক বর্ণনার পরে তাবারীও একই ব্যাকরণগত কথা উল্লেখ করেন। তাহলে প্রথম লাইনটি ওয়াদাকে দেখে কথা হিসেবে: আসন্ন দিনটি সম্পর্কে যা বলা হয়েছে, তা সত্য।"
+          },
+          {
+            "en": "Verse 51:6 ends in waqi', and here each commentator reaches for a different shade. Ibn Kathir: ka'in la mahala, it will be, with no way around it. Al-Baghawi, and Ibn Zayd in at-Tabari: la-ka'in, it will surely be. At-Tabari himself: wajib, binding. As-Sa'di: inevitable, ma lahu min dafi', with nothing to turn it away. Al-Qurtubi gives the most immediate wording: al-jaza' nazilun bikum, the requital is coming down upon you. Being, necessity, the absence of any defence, and nearness: four angles on one word.",
+            "bn": "৫১:৬ আয়াত শেষ হয় ওয়াকি' শব্দে, আর এখানে প্রত্যেক তাফসীরকার ভিন্ন এক দিক তুলে ধরেন। ইবন কাসীর: কাইনুন লা মাহালা, তা ঘটবেই, এড়ানোর কোনো পথ নেই। বাগাভী, আর তাবারীর বর্ণনায় ইবন যায়দ: লাকাইন, তা অবশ্যই হবে। তাবারী নিজে বলেন ওয়াজিব, অবধারিত। সা'দী বলেন অনিবার্য, মা লাহু মিন দাফি', কেউ তা ঠেকাতে পারবে না। সবচেয়ে কাছের ছবিটা কুরতুবীর: আল-জাযাউ নাযিলুন বিকুম, প্রতিদান তোমাদের উপর নেমে আসছে। হওয়া, অবধারিত হওয়া, ঠেকানোর উপায় না থাকা, আর কাছে এসে পড়া: একটি শব্দের চারটি দিক।"
+          },
+          {
+            "en": "So the pair moves from word to event. The report is true, and what it reports will happen. A person can grant that a promise is true and still feel it as distant, a statement rather than a coming fact; the second line closes that gap. The Qur'an joins the two halves elsewhere in a single verse. In 77:7, after another set of oaths, it says innama tu'aduna la-waqi': what you are promised will surely occur. And in 52:7: the punishment of your Lord will surely occur.",
+            "bn": "অর্থাৎ জোড়াটা কথা থেকে ঘটনার দিকে এগোয়। খবরটা সত্য, আর খবরে যা বলা হয়েছে তা ঘটবে। মানুষ কোনো ওয়াদাকে সত্য বলে মেনেও তাকে দূরের জিনিস ভাবতে পারে, আসন্ন বাস্তব নয়, শুধু একটা বক্তব্য। দ্বিতীয় লাইন সেই ফাঁকটা বন্ধ করে দেয়। কুরআন অন্য জায়গায় দুই অংশকে একটি আয়াতেই জুড়েছে। ৭৭:৭ আয়াতে আরেক দফা শপথের পর বলা হয়েছে ইন্নামা তূআদূনা লাওয়াকি': তোমাদের যে ওয়াদা দেওয়া হয়েছে, তা অবশ্যই ঘটবে। আর ৫২:৭ আয়াতে: তোমার রবের শাস্তি অবশ্যই ঘটবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Oaths, Two Answers",
+          "bn": "দুই শপথ, দুই জবাব"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's remark that a new oath begins after this verse has a consequence for how the passage reads. He quotes the second oath together with its answer: by the heaven with its pathways, indeed you are in differing speech, 51:7 and 51:8. The first oath is answered with what is fixed: the promise is true and the recompense will occur. The second is answered with the state of those who hear it: they disagree. Ibn Kathir's English abridgement describes their opinions as confused, not connecting or conforming to each other.",
+            "bn": "এই আয়াতের পরে নতুন শপথ শুরু হয়, কুরতুবীর এই মন্তব্য অংশটি পড়ার ধরনকেও প্রভাবিত করে। দ্বিতীয় শপথটি তিনি জবাবসহ উদ্ধৃত করেন: পথে ভরা আকাশের শপথ, তোমরা অবশ্যই পরস্পরবিরোধী কথায় আছ, ৫১:৭ ও ৫১:৮। প্রথম শপথের জবাব যা স্থির তা দিয়ে: ওয়াদা সত্য, প্রতিফল ঘটবেই। দ্বিতীয় শপথের জবাব শ্রোতাদের অবস্থা দিয়ে: তারা মতভেদে জড়িয়ে আছে। ইবন কাসীরের ইংরেজি সংক্ষেপ তাদের মতামতকে বলে এলোমেলো, যার একটির সঙ্গে আরেকটির মিল নেই।"
+          },
+          {
+            "en": "Read in that order, the surah sets a fixed fact beside the unsettled talk about it. The fact is sworn first, before any doubt is voiced. The talk then gathers until 51:12, where those the surah calls al-kharrasun ask when the Day of ad-din will be, and the word of this verse returns in their mouths. That question is studied in its own article. Here it is enough to notice that the disagreement of 51:8 moves nothing in 51:6. What is waqi' does not wait for agreement.",
+            "bn": "এই ক্রমে পড়লে দেখা যায়, সূরাটি একটি স্থির সত্যের পাশে রেখেছে তা নিয়ে অস্থির কথাবার্তা। সত্যটার উপর শপথ আসে আগে, কোনো সন্দেহ মুখে আসার আগেই। তারপর কথাবার্তা জমতে জমতে পৌঁছায় ৫১:১২ আয়াতে, যেখানে সূরা যাদের খাররাসূন বলেছে, তারা জিজ্ঞেস করে দীনের দিন কবে। এই আয়াতের শব্দটাই তখন তাদের মুখে ফিরে আসে। সে প্রশ্নের আলোচনা তার নিজের লেখায় আছে। এখানে শুধু এটুকু লক্ষ করার মতো যে ৫১:৮ আয়াতের মতভেদ ৫১:৬ আয়াতের কিছুই নড়াতে পারে না। যা অবধারিত, তা কারও সম্মতির অপেক্ষায় থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Everyone Who Hears",
+          "bn": "যে শোনে, তারই উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "Two of the commentators supply an address in their paraphrase. At-Tabari writes: what you are promised, O people. The Muyassar does the same: what you are promised, O people, of resurrection and reckoning. The promise is not narrowed to the deniers described in 51:8 to 51:12. It is spoken to people as such, and so the recompense of 51:6 is every listener's recompense, the believer's included. As-Sa'di describes the oath as sworn by created things in which Allah placed benefit, upon this: that His promise is true and the recompense will happen.",
+            "bn": "দুজন তাফসীরকার তাঁদের ব্যাখ্যায় একটি সম্বোধন জুড়ে দেন। তাবারী লেখেন: হে মানুষ, তোমাদের যে ওয়াদা দেওয়া হয়েছে। মুয়াসসারও তাই: হে মানুষ, পুনরুত্থান ও হিসাবের যে ওয়াদা তোমাদের দেওয়া হয়েছে। ৫১:৮ থেকে ৫১:১২ আয়াতে যে অস্বীকারকারীদের বর্ণনা, ওয়াদাটা শুধু তাদের মধ্যে সীমিত নয়। কথাটা মানুষমাত্রের উদ্দেশে, তাই ৫১:৬ আয়াতের প্রতিফল প্রত্যেক শ্রোতার প্রতিফল, মুমিনেরটাও। সা'দী বলেন, এ শপথ আল্লাহ করেছেন এমন সব সৃষ্টির নামে, যাতে তিনি কল্যাণ রেখেছেন, আর শপথটা এই কথার উপর: তাঁর ওয়াদা সত্য, আর প্রতিফল ঘটবেই।"
+          },
+          {
+            "en": "As-Sa'di then ends his note with a question in two halves: when the Truthful, the Mighty has informed of it, sworn to it and set up its proofs, why do the deniers deny it, and why do those who work turn away from working for it? The first half is about disbelief. The second is about something a believer can fall into while holding the right creed: accepting the recompense in principle and doing nothing in preparation for it. The verse's certainty leaves neither posture standing.",
+            "bn": "এরপর সা'দী তাঁর আলোচনা শেষ করেন দুই ভাগের একটি প্রশ্নে: সত্যবাদী, মহান সত্তা যখন এর খবর দিয়েছেন, এর উপর শপথ করেছেন আর এর প্রমাণ দাঁড় করিয়েছেন, তখন অস্বীকারকারীরা কেন অস্বীকার করে, আর আমলকারীরা কেন এর জন্য আমল করা থেকে মুখ ফিরিয়ে নেয়? প্রথম ভাগটা কুফরের কথা। দ্বিতীয় ভাগটা এমন জিনিস, যাতে আকীদা ঠিক রেখেও মুমিন পড়ে যেতে পারে: নীতিগতভাবে প্রতিফল মেনে নেওয়া, অথচ তার জন্য কোনো প্রস্তুতি না নেওয়া। আয়াতের নিশ্চয়তা এ দুই অবস্থার কোনোটিকেই দাঁড়াতে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Feet Can Move",
+          "bn": "পা নড়ার আগে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it. One narration, not tied to this verse, shows what the reckoning named here will ask. At-Tirmidhi (2417) records from Abu Barza al-Aslami (RA) that the Messenger of Allah ﷺ said: the two feet of a servant will not move on the Day of Resurrection until he is asked about his life and how he spent it, about his knowledge and what he did with it, about his wealth, where he earned it and on what he spent it, and about his body and how he wore it out.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস জোড়েনি। একটি বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, তবে এখানে যে হিসাবের কথা, তাতে কী জিজ্ঞেস করা হবে তা দেখায়। তিরমিযী (২৪১৭) আবূ বারযা আল-আসলামী (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: কিয়ামতের দিন বান্দার দুই পা নড়বে না, যতক্ষণ না তাকে জিজ্ঞেস করা হবে তার জীবন সম্পর্কে, কীসে তা শেষ করেছে; তার জ্ঞান সম্পর্কে, তা দিয়ে কী করেছে; তার সম্পদ সম্পর্কে, কোথা থেকে উপার্জন করেছে আর কোথায় খরচ করেছে; আর তার দেহ সম্পর্কে, কীসে তা ক্ষয় করেছে।"
+          },
+          {
+            "en": "At-Tirmidhi grades it hasan sahih. Set beside at-Tabari's gloss, that Allah requites His servants for their deeds, the narration fills in what deeds means. It is not only the dramatic acts. It is the hours of a life, what was done with what a person learned, the source of every income and the path of every expense, and the use made of the body itself. The recompense of 51:6 is general in its wording, and this narration shows how close to ordinary days that generality reaches.",
+            "bn": "তিরমিযী হাদীসটিকে হাসান সহীহ বলেছেন। আল্লাহ বান্দাদের তাদের আমলের প্রতিদান দেবেন, তাবারীর এই ব্যাখ্যার পাশে রাখলে বর্ণনাটি বুঝিয়ে দেয় আমল বলতে কী বোঝায়। শুধু বড় বড় কাজ নয়। জীবনের প্রতিটি ঘণ্টা, যা শিখেছি তা দিয়ে কী করেছি, প্রতিটি আয়ের উৎস আর প্রতিটি খরচের পথ, আর নিজের দেহকে কীসে লাগিয়েছি, সবই এর মধ্যে। ৫১:৬ আয়াতের প্রতিফলের কথা শব্দে সাধারণ, আর এ বর্ণনা দেখায় সেই সাধারণ কথা আমাদের রোজকার দিনের কত কাছে এসে পৌঁছায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Certainty That Shows in Conduct",
+          "bn": "যে বিশ্বাস আমলে দেখা যায়"
+        },
+        "p": [
+          {
+            "en": "The verse states the recompense with no condition and no time. It does not say if, and it does not say when. That leaves the reader with only one open question, which is the reader's own state. Certainty of accountability is not meant to stay a sentence in the creed. As-Sa'di's question puts the test plainly: a promise that has been told, sworn to and proved should change the work of those who accept it. If it changes nothing, something in the acceptance is missing.",
+            "bn": "আয়াতটি প্রতিফলের কথা বলে কোনো শর্ত ছাড়া, কোনো সময় উল্লেখ ছাড়া। যদি বলে না, কবে তাও বলে না। ফলে পাঠকের সামনে খোলা থাকে একটিমাত্র প্রশ্ন, আর তা তার নিজের অবস্থা নিয়ে। হিসাবের নিশ্চয়তা শুধু আকীদার একটি বাক্য হয়ে থাকার জন্য নয়। সা'দীর প্রশ্ন পরীক্ষাটা সোজাসুজি সামনে রাখে: যে ওয়াদার খবর দেওয়া হয়েছে, যার উপর শপথ করা হয়েছে আর যার প্রমাণ দেওয়া হয়েছে, তা মেনে নেওয়া মানুষের আমল বদলে দেওয়ার কথা। কিছুই না বদলালে মেনে নেওয়ার মধ্যেই কোথাও ঘাটতি আছে।"
+          },
+          {
+            "en": "In practice this looks small. A debt repaid before it is demanded. A wrong admitted to the person wronged while that is still possible. Time not left to drain away unnoticed. Knowledge acted on rather than collected. Earnings checked at their source. None of this needs a dramatic turning. It needs only that the reckoning be treated as what the verse says it is, waqi', something that will fall whether or not it is expected, and that it be allowed to reach today and not only the end of life.",
+            "bn": "বাস্তবে এর চেহারা ছোট ছোট কাজে। চাওয়ার আগেই ঋণ শোধ করা। যার উপর অন্যায় হয়েছে, সময় থাকতেই তার কাছে দোষ স্বীকার করা। সময়কে অজান্তে গড়িয়ে যেতে না দেওয়া। জ্ঞান জমিয়ে না রেখে তার উপর আমল করা। উপার্জনের উৎস যাচাই করা। এর কোনোটার জন্য নাটকীয় কোনো বাঁক লাগে না। দরকার শুধু হিসাবকে আয়াত যা বলেছে সেভাবেই নেওয়া: ওয়াকি', যা ঘটবেই, কেউ তার অপেক্ষায় থাকুক বা না থাকুক। আর দরকার সেই হিসাবকে জীবনের শেষ প্রান্তে ফেলে না রেখে আজকের দিন পর্যন্ত আসতে দেওয়া।"
+          },
+          {
+            "en": "There is also mercy in the way the answer is given. The reckoning is not hidden until it arrives. It is announced in advance, sworn to by the winds and clouds a person meets every day, and paired with a promise that the report is true. A warning given early is a chance given early. The three words of 51:6 close an oath, but for the one who hears them now, they open a period of preparation that lasts exactly as long as a life.",
+            "bn": "জবাব দেওয়ার ধরনেও রহমত আছে। হিসাবটা আসার আগ পর্যন্ত লুকিয়ে রাখা হয়নি। আগেই তার ঘোষণা এসেছে, মানুষ রোজ যে বাতাস আর মেঘ দেখে তার নামে শপথ করে, আর সঙ্গে আছে এই ওয়াদা যে খবরটা সত্য। আগে দেওয়া সতর্কবাণী মানে আগে দেওয়া সুযোগ। ৫১:৬ আয়াতের তিনটি শব্দ একটি শপথের সমাপ্তি টানে। কিন্তু আজ যে শুনছে, তার জন্য সেগুলো প্রস্তুতির একটা সময় খুলে দেয়, যা ঠিক একটা জীবনের সমান দীর্ঘ।"
+          }
+        ]
+      }
+    ]
+  },
   "51:12": {
     "sections": [
       {

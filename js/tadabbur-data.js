@@ -27369,6 +27369,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Fear Allah where only He sees you, as One whose mercy you hope for, and keep turning your heart back to Him until you meet Him.",
     "lessonBn": "যেখানে শুধু আল্লাহ আপনাকে দেখছেন, সেখানে তাঁকে ভয় করুন, এমন একজন হিসেবে যাঁর রহমতের আশা আপনি করেন। আর তাঁর সঙ্গে সাক্ষাৎ পর্যন্ত অন্তরকে বারবার তাঁর দিকে ফিরিয়ে আনুন।"
+  },
+  "51:6": {
+    "reflectionEn": "Four oaths open the surah: the scattering winds, the clouds that bear their load, the ships that run with ease, the angels who distribute by command. Then the answer comes in two short lines. What you are promised is true, and the recompense will surely occur. Ad-din here is the reckoning and the requital, the day when deeds are weighed and answered. The verse is three words long, and it leaves no room for perhaps. Nothing in it asks whether the account will come, only whether I will be ready when it does. A person can believe this firmly and still live as though the account were somebody else's. What would change today if I held it as certain as it is stated?",
+    "reflectionBn": "সূরাটা খোলে চারটি শপথ দিয়ে: ধুলো ওড়ানো বাতাস, ভারী বোঝা বয়ে চলা মেঘ, সহজে ভেসে চলা নৌকা, আর আদেশ বণ্টনকারী ফেরেশতা। তারপর ছোট দুই লাইনে আসে জবাব। তোমাদের যে ওয়াদা দেওয়া হয়েছে তা সত্য, আর প্রতিফল অবশ্যই ঘটবে। এখানে আদ-দীন মানে হিসাব আর প্রতিদান, যেদিন আমল মাপা হবে আর তার জবাব মিলবে। আয়াতটি মাত্র তিন শব্দের, তাতে হয়তো বলার কোনো জায়গা নেই। হিসাব আসবে কি না, সে প্রশ্ন এখানে ওঠেই না। প্রশ্ন একটাই: যখন আসবে, আমি কি তৈরি থাকব? মানুষ মনে মনে এটা পাকা বিশ্বাস করেও এমনভাবে চলতে পারে, যেন হিসাবটা অন্য কারও। আয়াত যতটা নিশ্চিত করে বলেছে, আমি যদি ততটাই নিশ্চিত হয়ে এটা ধরে রাখি, আজকের দিনটা কোথায় বদলাত?",
+    "pointsEn": [
+      "If I am certain the reckoning will come, which part of my week does not yet look like it?",
+      "Is there a wrong I have done to someone that I am quietly hoping will never be counted?",
+      "When I hear of the Day of Recompense, does it move me to act, or only to talk?",
+      "Which of my habits would I keep exactly as it is if I knew it would be read back to me?",
+      "What is one account I can settle today, with Allah or with a person, before it is settled for me?"
+    ],
+    "pointsBn": [
+      "হিসাব যে আসবে তাতে যদি আমি নিশ্চিত হই, তবে আমার সপ্তাহের কোন অংশটা এখনো সে বিশ্বাসের মতো দেখায় না?",
+      "কারও প্রতি করা এমন কোনো অন্যায় কি আছে, যা নিয়ে আমি চুপচাপ আশা করি যে তা কখনো হিসাবে উঠবে না?",
+      "প্রতিফল দিবসের কথা শুনলে তা কি আমাকে কাজে নামায়, নাকি শুধু কথায় আটকে রাখে?",
+      "আমার কোন অভ্যাসটা আমি ঠিক এভাবেই রেখে দিতাম, যদি জানতাম একদিন তা আমাকে পড়ে শোনানো হবে?",
+      "আল্লাহর সঙ্গে হোক বা কোনো মানুষের সঙ্গে, এমন কোন হিসাবটা হিসাবের দিন আসার আগে আজই মিটিয়ে ফেলতে পারি?"
+    ],
+    "lessonEn": "The reckoning is stated as certain; let that certainty show in how you live today, settling your accounts before they are settled for you.",
+    "lessonBn": "হিসাবের দিনকে আল্লাহ নিশ্চিত বলে ঘোষণা করেছেন। সেই নিশ্চয়তা আজকের জীবনে ফুটিয়ে তুলুন, আর হিসাবের দিন আসার আগেই নিজের হিসাব নিজে মিটিয়ে নিন।"
   }
 };
 
