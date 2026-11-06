@@ -1307,6 +1307,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:40": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Clauses, One Measure",
+          "bn": "তিন বাক্যাংশ, এক মাপ"
+        },
+        "p": [
+          {
+            "en": "The signs here come in a row: the night stripped of its day, the sun running to a resting place, the moon measured out in stations (36:37 to 36:39). This verse sets the lights already named side by side and says how they stand towards each other. La ash-shamsu yanbaghi laha an tudrika al-qamar: it is not for the sun to overtake the moon. Wa la al-laylu sabiqu an-nahar: nor does the night outstrip the day. Wa kullun fi falakin yasbahun: each swims in an orbit.",
+            "bn": "এ অংশে নিদর্শন আসছে সারি বেঁধে: রাত, যার ভেতর থেকে দিনকে খুলে নেওয়া হয়; সূর্য, যে তার থামার জায়গার দিকে ছুটে চলে; চাঁদ, যার জন্য মনযিল মেপে দেওয়া হয়েছে (৩৬:৩৭ থেকে ৩৬:৩৯)। এ আয়াত আগে নাম আসা আলোগুলোকে পাশাপাশি রেখে দেখায় একে অপরের সঙ্গে তাদের সম্পর্ক কী। লাশ-শামসু ইয়াম্বাগী লাহা আন তুদরিকাল কামার: চাঁদকে ধরে ফেলা সূর্যের কাজ নয়। ওয়া লাল-লাইলু সাবিকুন নাহার: রাতও দিনকে ছাড়িয়ে যায় না। ওয়া কুল্লুন ফী ফালাকিন ইয়াসবাহূন: প্রত্যেকে এক কক্ষপথে সাঁতরে চলে।"
+          },
+          {
+            "en": "Yanbaghi is the hinge. At-Tabari glosses it as yasluhu: overtaking the moon is not fitting for the sun, not something its place allows. Al-Qurtubi notes the grammar: ash-shams is a nominative subject, since la cannot govern a definite noun. The line denies the sun's permission more than its power; the greatest light in the sky is described by what it may not do. The Muyassar gathers the whole verse into a single phrase: each has a time that Allah measured for it, which it does not pass beyond.",
+            "bn": "মূল শব্দ ইয়াম্বাগী। তাবারী এর অর্থ করেন ইয়াসলুহু দিয়ে: চাঁদকে ধরে ফেলা সূর্যের জন্য সংগত নয়, তার অবস্থান তা মানায় না। কুরতুবী ব্যাকরণের দিকটা দেখান। আশ-শামস এখানে উদ্দেশ্য হিসেবে পেশযুক্ত, কারণ 'লা' অব্যয় নির্দিষ্ট বিশেষ্যের উপর কাজ করে না। আয়াত সূর্যের শক্তির চেয়ে বেশি অস্বীকার করছে তার অনুমতি। আকাশের সবচেয়ে বড় আলোর পরিচয় দেওয়া হচ্ছে সে কী করতে পারে না তা দিয়ে। মুয়াসসার পুরো আয়াতকে এক কথায় বেঁধেছে: প্রত্যেকের জন্য আল্লাহ একটা সময় মেপে দিয়েছেন, সে তা পেরিয়ে যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Keeps Its Own Dominion",
+          "bn": "যার যার রাজত্ব যার যার"
+        },
+        "p": [
+          {
+            "en": "The commonest reading turns on sultan, dominion. Ibn Kathir relays 'Ikrima: each of the two has its sultan, so it is not for the sun to rise at night; the sun's dominion is by day and the moon's by night. As-Sa'di reads the overtaking as the sun reaching the moon in the moon's own dominion, the night, where the sun cannot be present. Al-Baghawi gives it as one view among several: neither enters the other's dominion, so the sun does not rise by night, nor the moon by day with its light.",
+            "bn": "সবচেয়ে প্রচলিত ব্যাখ্যা দাঁড়িয়ে আছে 'সুলতান' শব্দের উপর, অর্থাৎ রাজত্ব। ইবন কাসীর ইকরিমার কথা আনেন: দুজনের প্রত্যেকের নিজস্ব সুলতান আছে, তাই রাতে সূর্য ওঠা তার কাজ নয়। দিনে রাজত্ব সূর্যের, রাতে চাঁদের। সা'দীও ধরে ফেলাকে এভাবে বোঝেন: সূর্য চাঁদকে ধরবে চাঁদের নিজের রাজত্বে, অর্থাৎ রাতে, অথচ রাতে সূর্যের উপস্থিত থাকাই সম্ভব নয়। বাগাভী একে কয়েকটি মতের একটি হিসেবে আনেন: কেউ অন্যের রাজত্বে ঢোকে না। রাতে সূর্য ওঠে না, আর দিনে চাঁদ তার আলো নিয়ে ওঠে না।"
+          },
+          {
+            "en": "A sharper form puts a limit on both sides. At-Tabari, with his chain to Qatada: each has a bound and a mark which it does not pass and does not fall short of; when the rule of this comes, the rule of that goes. Al-Qurtubi quotes the same words from Qatada, while Ibn Kathir gives nearly identical wording under Mujahid's name. The sentence is shared; the name attached to it differs between the books. The sun is barred from going too far, and also from stopping short.",
+            "bn": "একই ব্যাখ্যার আরও ধারালো রূপ দুই দিকেই সীমা টানে। তাবারী নিজের সনদে কাতাদা থেকে আনেন: প্রত্যেকের একটা সীমা ও চিহ্ন আছে, সে তা ছাড়িয়েও যায় না, তার আগে থেমেও যায় না। এর রাজত্ব এলে ওর রাজত্ব চলে যায়। কুরতুবীও একই কথা কাতাদা থেকে আনেন, আর ইবন কাসীর প্রায় হুবহু কথাটি আনেন মুজাহিদের নামে। বাক্য অভিন্ন, কিন্তু কার নামে এসেছে তা বইভেদে আলাদা। সূর্যকে বেশি দূর যেতে দেওয়া হয়নি, আবার আগেভাগে থেমে যেতেও দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Light Gives Way",
+          "bn": "কার আলো সরে দাঁড়ায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own reading goes by light. It is not fitting for the sun to overtake the moon so that its light carries the moon's light away, for then all times would be day with no night in them; nor does the night slip past the day so that its darkness removes the day's brightness, for then all times would be night. The people of interpretation, he adds, said much the same in differing words. Read this way, the verse sketches a world no one could live in if either side won.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা আলোকে ঘিরে। সূর্য চাঁদকে ধরে ফেলে নিজের আলো দিয়ে চাঁদের আলো মুছে দেবে, এটা তার জন্য সংগত নয়। তা হলে সব সময়ই হতো দিন, রাত বলে কিছু থাকত না। রাতও দিনকে পেরিয়ে গিয়ে নিজের অন্ধকারে দিনের আলো মুছে দেয় না। তা হলে সব সময়ই হতো রাত। তিনি যোগ করেন, ব্যাখ্যাকারেরা ভিন্ন শব্দে মোটামুটি এ কথাই বলেছেন। এভাবে পড়লে আয়াত এমন এক জগতের ছবি আঁকে, যেখানে কোনো পক্ষ জিতে গেলে মানুষের বেঁচে থাকাই সম্ভব হতো না।"
+          },
+          {
+            "en": "The early voices he collects put it in their own ways. Ad-Dahhak: when the sun rises the moon has no light, and when the moon rises with its light the sun has none. Abu Salih: neither reaches the other's light. Mujahid, by two chains in at-Tabari, says something else: the light of each does not resemble the light of the other, and that is not fitting for them. Al-Qurtubi lists all three, and reports the light reading in meaning from Ibn 'Abbas as well as from ad-Dahhak.",
+            "bn": "তাবারী প্রথম যুগের যে কথাগুলো জড়ো করেন, সেগুলো নিজ নিজ ভঙ্গিতে এ কথাই বলে। দাহহাক বলেন: সূর্য উঠলে চাঁদের আলো থাকে না, আর চাঁদ তার আলো নিয়ে উঠলে সূর্যের আলো থাকে না। আবু সালিহ বলেন: কেউ অন্যের আলো ধরতে পারে না। তাবারীতে দুটি সনদে মুজাহিদ অন্য কথা বলেন: একটির আলো অন্যটির আলোর মতো নয়, আর তা তাদের জন্য সংগতও নয়। কুরতুবী তিনটিই উল্লেখ করেন, আর জানান যে আলোর ব্যাখ্যাটি অর্থগতভাবে দাহহাকের পাশাপাশি ইবন আব্বাস (রাঃ) থেকেও বর্ণিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Crescent Night, Full-Moon Night",
+          "bn": "নতুন চাঁদের রাত, পূর্ণিমার রাত"
+        },
+        "p": [
+          {
+            "en": "Some read the clause about a particular night. Ibn Kathir has 'Abd ar-Razzaq relay from al-Hasan: that is the night of the new crescent. Al-Qurtubi explains: on that night the two do not meet in the sky; the sun does not stay until the moon rises, but once it has set, the moon appears. Yahya ibn Sallam, in al-Qurtubi, names the opposite night: the sun does not overtake the moon on the night of the full moon, because the moon hurries to set before the sun rises.",
+            "bn": "কেউ কেউ বাক্যাংশটিকে নির্দিষ্ট এক রাতের কথা ধরে পড়েন। ইবন কাসীর জানান, আবদুর রাযযাক হাসান থেকে বর্ণনা করেছেন: এ হলো নতুন চাঁদের রাত। কুরতুবী এর ব্যাখ্যা দেন। ওই রাতে দুজন আকাশে একসঙ্গে থাকে না। চাঁদ ওঠা পর্যন্ত সূর্য থেকে যায় না, বরং সূর্য ডুবলে চাঁদ দেখা দেয়। কুরতুবীর বর্ণনায় ইয়াহইয়া ইবন সাল্লাম বলেন উল্টো রাতের কথা। পূর্ণিমার রাতে সূর্য চাঁদকে ধরতে পারে না, কারণ সূর্য ওঠার আগেই চাঁদ তাড়াতাড়ি অস্ত যায়।"
+          },
+          {
+            "en": "Others read it as position or pace. Ibn 'Abbas, in at-Tabari: when the two are together in the sky, one is ahead of the other, and when they set, one sets ahead of the other; al-Qurtubi adds that they move in stations they do not share. An-Nahhas, as al-Qurtubi quotes him, picks out one view as the best and clearest, which cannot be pushed aside: the moon's course is swift, and the sun does not catch it in its running. Whichever is taken, the sun is described by a line it does not cross.",
+            "bn": "অন্যরা একে অবস্থান বা গতির কথা হিসেবে পড়েন। তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন: দুজন আকাশে একসঙ্গে থাকলে একজন থাকে অন্যজনের সামনে, আর অস্ত যাওয়ার সময়ও একজন অস্ত যায় অন্যজনের আগে। কুরতুবী যোগ করেন, তারা এমন মনযিলে চলে যা দুজনে ভাগাভাগি করে না। কুরতুবীর উদ্ধৃতিতে নাহহাস একটি মতকে সবচেয়ে ভালো ও সবচেয়ে স্পষ্ট বলেন, যা ঠেলে সরানো যায় না: চাঁদের চলা দ্রুত, আর সূর্য নিজের চলার পথে তাকে ধরতে পারে না। যে ব্যাখ্যাই নিন, সূর্যের পরিচয় মেলে এমন এক রেখা দিয়ে, যা সে পার হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Gap Between Them",
+          "bn": "মাঝে কোনো ফাঁক নেই"
+        },
+        "p": [
+          {
+            "en": "The second clause turns from the two lights to the two times. At-Tabari reads sabiq as fa'it: the night does not slip past the day so that its darkness takes the day's light away. Mujahid, in at-Tabari and Ibn Kathir: the two seek each other swiftly, one stripped away from the other. Ibn Kathir draws it out: there is no pause between night and day; each follows the other with no delay, because both are made subservient, constant, pursuing one another in earnest.",
+            "bn": "দ্বিতীয় বাক্যাংশ দুই আলো ছেড়ে দুই সময়ের দিকে ফেরে। তাবারী 'সাবিক'-এর অর্থ করেন 'ফাইত' দিয়ে: রাত দিনকে ফাঁকি দিয়ে পেরিয়ে যায় না যে তার অন্ধকার দিনের আলো মুছে দেবে। তাবারী ও ইবন কাসীরের বর্ণনায় মুজাহিদ বলেন: দুজন দ্রুতবেগে একে অপরকে খোঁজে, একটি অন্যটির ভেতর থেকে খুলে বেরিয়ে আসে। ইবন কাসীর অর্থটা খুলে বলেন। রাত আর দিনের মাঝে কোনো বিরতি নেই, একটি অন্যটির পেছনে আসে দেরি না করে। কারণ দুটোকেই অনুগত করে রাখা হয়েছে, তারা অবিরাম চলে আর আন্তরিকভাবে একে অপরের পিছু নেয়।"
+          },
+          {
+            "en": "Others read it as sequence. 'Ikrima, in Ibn Kathir: once there has been a night, another night is not to come until there has been a day. Al-Baghawi agrees: no night is joined to another without a day between them, and the two take turns by a known reckoning, neither coming before its time. Ad-Dahhak, in Ibn Kathir, said the night does not go from here until the day comes from here, and pointed to the east. In at-Tabari's report he places the matter in Allah's decree and knowledge.",
+            "bn": "অন্যরা একে ক্রমের কথা হিসেবে পড়েন। ইবন কাসীরের বর্ণনায় ইকরিমা বলেন: একটা রাত গেলে দিন না আসা পর্যন্ত আরেকটা রাত আসবে না। বাগাভীও তাই বলেন: মাঝে দিনের ব্যবধান ছাড়া এক রাত আরেক রাতের সঙ্গে জোড়া লাগে না। দুজন পালা করে আসে জানা হিসাবে, কেউ নিজের সময়ের আগে আসে না। ইবন কাসীরের বর্ণনায় দাহহাক বলেন, এদিক দিয়ে দিন না আসা পর্যন্ত এদিক দিয়ে রাত যায় না, আর হাত দিয়ে পূর্ব দিকে ইশারা করেন। তাবারীর বর্ণনায় তিনি বিষয়টিকে আল্লাহর ফয়সালা ও জ্ঞানের সঙ্গে জুড়ে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like the Whorl of a Spindle",
+          "bn": "টাকুর চাকতির মতো"
+        },
+        "p": [
+          {
+            "en": "Then the closing words: wa kullun fi falakin yasbahun. The early explanations of falak reach for things a listener could hold. At-Tabari relays from Ibn 'Abbas, by two chains through Sa'id ibn Jubayr: a falak like the whorl of a spindle. Ibn Kathir gives the image from Ibn 'Abbas and others of the early generations, and adds Mujahid: the falak is like the iron of a millstone, or like a spindle's whorl; the spindle turns only by it, and it turns only by the spindle.",
+            "bn": "তারপর শেষ কথাগুলো: ওয়া কুল্লুন ফী ফালাকিন ইয়াসবাহূন। ফালাকের প্রথম যুগের ব্যাখ্যাগুলো এমন জিনিসের উপমা টানে, যা শ্রোতা হাতে নিয়ে দেখতে পারে। তাবারী সাঈদ ইবন জুবাইরের মাধ্যমে দুটি সনদে ইবন আব্বাস (রাঃ) থেকে আনেন: এ এমন ফালাক, যেমন টাকুর ঘোরানো চাকতি। ইবন কাসীর একই উপমা আনেন ইবন আব্বাস (রাঃ) ও প্রথম যুগের আরও অনেকের কাছ থেকে। সঙ্গে মুজাহিদের কথা যোগ করেন: ফালাক যাঁতার লোহার মতো, কিংবা টাকুর চাকতির মতো। চাকতি ছাড়া টাকু ঘোরে না, আর টাকু ছাড়া চাকতিও ঘোরে না।"
+          },
+          {
+            "en": "Others give falak as the circuit of the sky. Qatada, in at-Tabari: they swim in the falak of the sky. Ibn Kathir says they revolve in the falak of the sky, naming Ibn 'Abbas, 'Ikrima, ad-Dahhak, al-Hasan, Qatada and 'Ata' al-Khurasani. He then records 'Abd ar-Rahman ibn Zayd ibn Aslam placing the falak between the sky and the earth, and calls that very strange, indeed munkar. Al-Qurtubi, citing ath-Tha'labi and al-Mawardi, relays that view from al-Hasan: the lights are in a falak between sky and earth, not fastened, for fastened they would not run.",
+            "bn": "অন্যরা ফালাককে আকাশের আবর্তন হিসেবে ব্যাখ্যা করেন। তাবারীর বর্ণনায় কাতাদা বলেন: তারা আকাশের ফালাকে সাঁতরে চলে। ইবন কাসীর বলেন, তারা আকাশের ফালাকে ঘোরে, আর এ মতের জন্য নাম নেন ইবন আব্বাস (রাঃ), ইকরিমা, দাহহাক, হাসান, কাতাদা ও আতা আল-খুরাসানীর। তারপর তিনি আবদুর রহমান ইবন যায়দ ইবন আসলামের কথা আনেন যে ফালাক আকাশ ও পৃথিবীর মাঝখানে, আর একে বলেন খুবই অদ্ভুত, বরং মুনকার। কুরতুবী সা'লাবী ও মাওয়ারদীর সূত্রে এ মতটিই হাসান থেকে আনেন: আলোগুলো আকাশ ও পৃথিবীর মাঝখানে এক ফালাকে আছে, কোথাও আটকানো নয়। আটকানো থাকলে তারা চলতে পারত না।"
+          },
+          {
+            "en": "So al-Hasan's name stands in Ibn Kathir's list for the sky and in al-Qurtubi's report for the space beneath it; the reports disagree, and are kept as they stand. Ma'arif al-Qur'an takes falak by its literal sense: not the sky, but the orbit in which a star moves, and it notes the same words close 21:33. It then argues, in its own name, that the verse sets the moon in its own orbit, not inside a sky as Ptolemy's astronomy supposed, and that recent investigation and the journey to the moon have made this certain. That argument is Ma'arif's; the verse's lesson does not rest on any astronomy.",
+            "bn": "ফলে হাসানের নাম ইবন কাসীরের তালিকায় আছে আকাশের পক্ষে, আর কুরতুবীর বর্ণনায় তার নিচের শূন্যের পক্ষে। বর্ণনাগুলোর এ মতভেদ যেমন আছে, এখানে তেমনই রাখা হলো। মাআরিফুল কুরআন ফালাককে শব্দের নিজস্ব অর্থে নেয়: আকাশ নয়, বরং সেই কক্ষপথ যেখানে কোনো তারা চলে। মাআরিফ এ-ও মনে করিয়ে দেয় যে ২১:৩৩ আয়াতও শেষ হয়েছে ঠিক এ শব্দগুলো দিয়ে। এরপর নিজের পক্ষ থেকে যুক্তি দেয়, আয়াত চাঁদকে রাখে তার নিজের কক্ষপথে, টলেমির জ্যোতির্বিদ্যার ধারণামতো কোনো আকাশের ভেতরে নয়। মাআরিফের মতে সাম্প্রতিক গবেষণা ও চাঁদে মানুষের পৌঁছানো একে নিশ্চিত করেছে। এ যুক্তি মাআরিফের নিজের। আয়াতের শিক্ষা কোনো জ্যোতির্বিদ্যার উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swimming Words for Moving Lights",
+          "bn": "চলমান আলোর জন্য সাঁতারের শব্দ"
+        },
+        "p": [
+          {
+            "en": "Yasbahun is the verb for swimming, and the mufassirs give its sense in words of motion. At-Tabari, Mujahid, al-Baghawi and the Muyassar say yajrun, they run. Ibn 'Abbas, in at-Tabari, says dawaranan: they swim by turning. Ibn Kathir has yaduruna, they revolve, and al-Qurtubi gives both, run and, by another view, revolve. As-Sa'di chooses a phrase that holds time inside it: yataraddaduna 'ala ad-dawam, they go and come back without end.",
+            "bn": "ইয়াসবাহূন সাঁতার কাটার ক্রিয়া, আর মুফাসসিরেরা এর অর্থ দেন চলার শব্দ দিয়ে। তাবারী, মুজাহিদ, বাগাভী ও মুয়াসসার বলেন ইয়াজরূন, তারা ছুটে চলে। তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন দাওয়ারানান: ঘুরে ঘুরে সাঁতরায়। ইবন কাসীর বলেন ইয়াদূরূন, তারা ঘোরে। কুরতুবী দুটিই দেন: ছুটে চলে, আর আরেক মতে ঘোরে। সা'দী এমন একটি কথা বেছে নেন যার ভেতরে সময়ও ধরা আছে: ইয়াতারাদ্দাদূনা আলাদ-দাওয়াম, তারা অবিরাম যায় আর ফিরে আসে।"
+          },
+          {
+            "en": "Al-Qurtubi also notices the form. The verse does not say tasbahu, the form Arabic would normally use for a group of things without reason; it says yasbahun, the plural for beings that reason, because it describes them with the action of those who understand. And who are the 'each'? At-Tabari and Ibn Kathir take kull as the four just named: the sun, the moon, the night and the day. Al-Qurtubi, as-Sa'di and the Muyassar take it as the sun, the moon and the stars. Both readings are held.",
+            "bn": "কুরতুবী শব্দের রূপটাও খেয়াল করেন। বিবেকহীন বস্তুর দলের জন্য আরবি ভাষা সাধারণত যে রূপ ব্যবহার করে, সেই 'তাসবাহু' আয়াতে আসেনি। এসেছে 'ইয়াসবাহূন', যা বোধসম্পন্ন সত্তার বহুবচন। কারণ তাদের বর্ণনা দেওয়া হয়েছে বোধসম্পন্নদের কাজ দিয়ে। আর 'প্রত্যেকে' বলতে কারা? তাবারী ও ইবন কাসীর 'কুল্ল' বলতে ধরেন সদ্য উল্লেখ করা চারটিকে: সূর্য, চাঁদ, রাত ও দিন। কুরতুবী, সা'দী ও মুয়াসসার ধরেন সূর্য, চাঁদ ও তারাদের। দুটি ব্যাখ্যাই প্রচলিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Until the Order Is Undone",
+          "bn": "যেদিন এ নিয়ম ভাঙবে"
+        },
+        "p": [
+          {
+            "en": "The order is not presented as everlasting. Al-Qurtubi says neither enters on the other to take its rule away until Allah annuls what He arranged and the sun rises from its place of setting, which he explains at the end of Surat al-An'am. Al-Baghawi says that when the two come together and each overtakes the other, the Hour is established. Al-Qurtubi reads the joining of the sun and the moon in 75:9 as a sign of the world's end and the Hour's arrival.",
+            "bn": "এ শৃঙ্খলাকে চিরস্থায়ী বলে দেখানো হয়নি। কুরতুবী বলেন, কেউ অন্যের উপর ঢুকে তার কর্তৃত্ব কেড়ে নেয় না, যতদিন না আল্লাহ নিজের সাজানো ব্যবস্থা বাতিল করেন আর সূর্য তার অস্তের দিক থেকে ওঠে। এর ব্যাখ্যা তিনি সূরা আনআমের শেষে দিয়েছেন। বাগাভী বলেন, দুজন যখন মিলে যাবে আর প্রত্যেকে অন্যকে ধরে ফেলবে, তখন কিয়ামত কায়েম হবে। ৭৫:৯ আয়াতে সূর্য ও চাঁদকে একত্র করার কথাকে কুরতুবী পড়েন দুনিয়ার শেষ আর কিয়ামত আসার আলামত হিসেবে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. The sun's rising from the west, to which al-Qurtubi points, is the subject of a narration that al-Bukhari records in his Sahih under 6:158, not under this verse. Abu Hurayra (RA) reported that Allah's Messenger ﷺ said: \"The Hour will not be established until the sun rises from the West: and when the people see it, then whoever will be living on the surface of the earth will have faith, and that is (the time) when no good will it do to a soul to believe then, if it believed not before.\"",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জোড়েনি। কুরতুবী যে পশ্চিম দিক থেকে সূর্য ওঠার দিকে ইঙ্গিত করেন, সে বিষয়ে একটি হাদীস বুখারী তাঁর সহীহ গ্রন্থে ৬:১৫৮ আয়াতের অধীনে এনেছেন, এ আয়াতের অধীনে নয়। আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"পশ্চিম দিক থেকে সূর্য না ওঠা পর্যন্ত কিয়ামত কায়েম হবে না। মানুষ যখন তা দেখবে, তখন পৃথিবীর উপর যারা থাকবে সবাই ঈমান আনবে। আর সেটাই সেই সময়, যখন কোনো প্রাণের ঈমান তার কোনো উপকারে আসবে না, যদি সে আগে ঈমান না এনে থাকে।\""
+          },
+          {
+            "en": "Until then, al-Qurtubi says, the alternation serves Allah's servants, and he names its purposes in the Qur'an's own words: that you may know the number of years and the reckoning (10:5); the night for rest and the day for seeking His bounty (28:73); and sleep made a rest (78:9), which he explains as rest for the body from the day's work. The order that cannot be broken is also an order made for us.",
+            "bn": "কুরতুবী বলেন, ততদিন এ পালাবদল চলছে বান্দাদের প্রয়োজন পূরণের জন্য। এর উদ্দেশ্য তিনি দেখান কুরআনের ভাষাতেই: যাতে তোমরা বছরের সংখ্যা আর হিসাব জানতে পারো (১০:৫); রাত বিশ্রামের জন্য আর দিন তাঁর অনুগ্রহ খোঁজার জন্য (২৮:৭৩); আর ঘুমকে বানানো হয়েছে বিশ্রাম (৭৮:৯), যার ব্যাখ্যায় তিনি বলেন দিনের কাজের পর শরীরের আরাম। যে শৃঙ্খলা ভাঙা যায় না, সেটাই আমাদের জন্য সাজানো শৃঙ্খলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Humbled by a Measured Sky",
+          "bn": "মাপা আকাশের সামনে নত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes his comment by naming what all this shows. Every part of it, he says, is a plain proof and a dazzling evidence of the greatness of the Creator and the greatness of His attributes, above all, in this place, His power, His wisdom and His knowledge. The verse gives no command. It shows the largest things a person can see, each held to a measure it did not choose, and leaves the listener to reach the words 36:36 has already voiced: glory to Him who created.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন এসবের শিক্ষাটা বলে দিয়ে। তাঁর মতে এর প্রতিটি অংশ স্রষ্টার মহত্ত্ব আর তাঁর গুণাবলির মহত্ত্বের স্পষ্ট দলিল ও উজ্জ্বল প্রমাণ। বিশেষ করে এ জায়গায় প্রমাণ মেলে তাঁর কুদরত, হিকমত আর ইলমের। আয়াত কোনো আদেশ দেয় না। মানুষ চোখে যা দেখতে পায় তার মধ্যে সবচেয়ে বড় জিনিসগুলো দেখিয়ে দেয়, যাদের প্রত্যেকে এমন এক মাপে বাঁধা যা সে নিজে বেছে নেয়নি। তারপর শ্রোতাকে ছেড়ে দেয় সেই কথায় পৌঁছাতে, যা ৩৬:৩৬ আয়াত আগেই বলে দিয়েছে: পবিত্র তিনি, যিনি সৃষ্টি করেছেন।"
+          },
+          {
+            "en": "That is where humility begins. The sun cannot take a single hour from the night, and the night cannot add an hour to itself. We, by contrast, are tempted to treat every limit as an insult: the strength of the body, the bounds Allah set on what is lawful. The verse sets us inside a world of kept limits and asks whether we mean to be the only thing in it that will not keep its place. Accepting the measure is not defeat; it is standing where the sun stands, under Him who measured both.",
+            "bn": "বিনয়ের শুরু এখান থেকেই। সূর্য রাতের একটা প্রহরও কেড়ে নিতে পারে না, রাতও নিজের সঙ্গে একটা প্রহর জুড়ে নিতে পারে না। অথচ আমাদের মন প্রতিটি সীমাকেই অপমান ভাবতে চায়: শরীরের শক্তি, হালালের যে গণ্ডি আল্লাহ বেঁধে দিয়েছেন। আয়াতটি আমাদের দাঁড় করায় এমন এক জগতে, যেখানে সবাই নিজের সীমা মেনে চলে। তারপর প্রশ্ন রাখে: সেখানে কি আমরাই হব একমাত্র জিনিস, যে নিজের জায়গায় থাকবে না? মাপ মেনে নেওয়া হার নয়। এ হলো সূর্য যেখানে দাঁড়িয়ে আছে সেখানেই দাঁড়ানো, তাঁর অধীনে, যিনি দুজনকেই মেপে দিয়েছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "36:47": {
     "sections": [
       {

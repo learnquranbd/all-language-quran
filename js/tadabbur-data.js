@@ -25669,6 +25669,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Those Allah calls as witnesses to His Oneness are servants who recite His reminder, so let His words be what you recite and pass on.",
     "lessonBn": "আল্লাহ তাঁর একত্বের সাক্ষী হিসেবে যাদের ডাকেন, তারা তাঁর জিকির পাঠকারী বান্দা। তাই আপনার মুখে যা পাঠ হয় আর যা আপনি অন্যকে পৌঁছে দেন, তা হোক তাঁরই কালাম।"
+  },
+  "36:40": {
+    "reflectionEn": "Every evening the sun hands the sky to the moon, and it never once comes back early to take it back. The night does not arrive twice before the morning, and the day does not linger into hours that belong to the dark. Each keeps to its own time and its own track, and keeps moving, swimming, as the verse says, in its course. The mightiest light we can see is held inside a limit it cannot cross, and nothing in that sky quarrels with its place. Then I look at my own day: hours spilled past their edges, limits treated as suggestions, rest refused and work put off. If the sun keeps the bounds it was given, what keeps me from keeping mine?",
+    "reflectionBn": "প্রতিদিন সন্ধ্যায় সূর্য আকাশটা চাঁদের হাতে ছেড়ে দেয়। একবারও সময়ের আগে ফিরে এসে তা কেড়ে নেয় না। সকাল না হতেই দ্বিতীয় রাত নামে না, আবার অন্ধকারের পাওনা প্রহরে দিনও ঢুকে বসে থাকে না। প্রত্যেকে নিজের সময়ে, নিজের পথে চলছে। আয়াতের ভাষায়, প্রত্যেকে নিজ কক্ষপথে সাঁতরে চলেছে। চোখে দেখা সবচেয়ে প্রবল আলোটাও বাঁধা আছে এমন এক সীমায়, যা সে পার হতে পারে না। ওই আকাশে কেউ নিজের জায়গা নিয়ে ঝগড়া করে না। তারপর তাকাই নিজের দিনের দিকে। কত প্রহর সীমা ছাপিয়ে গড়িয়ে গেছে, কত সীমাকে নিছক পরামর্শ ভেবেছি, বিশ্রাম ফিরিয়ে দিয়েছি, কাজ ফেলে রেখেছি। সূর্য যদি তার দেওয়া সীমা মেনে চলে, আমাকে আমার সীমা মানতে বাধা দিচ্ছে কে?",
+    "pointsEn": [
+      "Which of Allah's limits in my week do I treat as a suggestion rather than a line I do not cross?",
+      "When did I last look at the sky long enough for its order to make me quieter before its Maker?",
+      "Do I give my night its rest and my day its work, or do I let each one spill into the other?",
+      "What would change if I saw the limits on my strength and my time as part of His measuring rather than as a failure?",
+      "Has the regularity of every sunrise made me grateful, or has it only taught me to stop noticing?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে আল্লাহর কোন সীমাকে আমি পার না হওয়ার রেখা না ভেবে নিছক পরামর্শ ভেবে চলছি?",
+      "শেষ কবে এতক্ষণ আকাশের দিকে তাকিয়েছি যে তার শৃঙ্খলা আমাকে তার স্রষ্টার সামনে চুপ করিয়ে দিয়েছে?",
+      "আমার রাত কি তার বিশ্রাম পায়, আর দিন কি তার কাজ? নাকি একটাকে অন্যটার ভেতরে গড়িয়ে যেতে দিই?",
+      "নিজের শক্তি আর সময়ের সীমাকে ব্যর্থতা না ভেবে যদি তাঁর মেপে দেওয়া ব্যবস্থার অংশ ভাবতাম, তাহলে কী বদলাত?",
+      "রোজকার সূর্যোদয়ের নিয়মিততা কি আমাকে কৃতজ্ঞ করেছে, নাকি শুধু খেয়াল না করার অভ্যাস শিখিয়েছে?"
+    ],
+    "lessonEn": "The sun cannot overtake the moon, nor the night outrun the day; each keeps the bounds He measured. Let that order humble you, and keep within the limits He has set for you.",
+    "lessonBn": "সূর্য চাঁদকে ধরতে পারে না, রাতও দিনকে ছাড়িয়ে যেতে পারে না; প্রত্যেকে তাঁর মেপে দেওয়া সীমায় চলে। এই শৃঙ্খলা আপনাকে বিনয়ী করুক, আর তিনি আপনার জন্য যে সীমা বেঁধে দিয়েছেন তার ভেতরে থাকুন।"
   }
 };
 
