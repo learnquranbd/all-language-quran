@@ -26529,6 +26529,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not dress a refusal as an inability: before saying a truth cannot reach you, ask whether the covering, the heaviness and the screen are ones you chose.",
     "lessonBn": "অস্বীকারকে অক্ষমতার পোশাক পরাবেন না। কোনো সত্য আপনার কাছে পৌঁছায় না বলার আগে ভেবে দেখুন, আবরণ, ভার আর পর্দা আপনি নিজেই বেছে নিয়েছেন কি না।"
+  },
+  "41:11": {
+    "reflectionEn": "The sky was still smoke, and the earth had already been made beneath it. Then Allah said to the two of them: come, willingly or unwillingly. The verse leaves no third way. Whatever His command reaches will arrive; the only question is how it arrives. Their answer takes two words in Arabic: we come willingly. Heaven and earth, with no will set against His, chose the better of the two doors. I have a will of my own, and the same two doors stand in front of me every day: in the prayer I delay, in the duty I put off, in the decree I did not choose. When I obey, do I come like one who comes gladly, or like one who is dragged?",
+    "reflectionBn": "আকাশ তখনো ধোঁয়া, আর তার নিচে পৃথিবী আগেই তৈরি হয়ে গেছে। তারপর আল্লাহ দুজনকেই বললেন: এসো, ইচ্ছায় হোক বা অনিচ্ছায়। তৃতীয় কোনো পথ আয়াতে নেই। তাঁর হুকুম যার কাছে পৌঁছায়, সে আসবেই। প্রশ্ন শুধু কীভাবে আসবে। আরবিতে দুই শব্দে তাদের জবাব: আমরা স্বেচ্ছায় এলাম। আকাশ আর পৃথিবীর এমন কোনো ইচ্ছা ছিল না যা তাঁর ইচ্ছার বিরুদ্ধে দাঁড়ায়। তারা দুই দরজার ভালোটাই বেছে নিল। আমার তো নিজের ইচ্ছা আছে। ওই দুই দরজা রোজ আমার সামনেও খোলে: যে নামায পিছিয়ে দিই তাতে, যে দায়িত্ব ফেলে রাখি তাতে, যে তাকদীর আমি বেছে নিইনি তাতে। আমি যখন হুকুম মানি, তখন কি খুশিমনে আসি, নাকি আমাকে টেনে আনতে হয়?",
+    "pointsEn": [
+      "Which of Allah's commands am I still answering unwillingly: doing it in the end, but with a heavy heart and a long delay?",
+      "When a decree comes that I did not choose, what would it look like for me to say, in my own way, we come willingly?",
+      "Heaven and earth answered the moment they were called; what keeps me standing at the door of a plain obligation I already know?",
+      "Whom do I serve gladly and quickly at work or at home, and do I give my Lord at least that much readiness?",
+      "If everything around me, sky and ground alike, has already said yes, where in my own day am I the one still holding back?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন হুকুমের জবাব আমি এখনো অনিচ্ছায় দিচ্ছি? শেষমেশ কাজটা করি ঠিকই, কিন্তু ভারী মনে আর অনেক দেরিতে।",
+      "যে তাকদীর আমি বেছে নিইনি, তা যখন সামনে আসে, তখন নিজের মতো করে 'আমরা স্বেচ্ছায় এলাম' বলাটা আমার বেলায় কেমন হতো?",
+      "ডাক আসামাত্র আকাশ আর পৃথিবী সাড়া দিয়েছিল। যে সোজা দায়িত্বটা আমি আগে থেকেই জানি, তার দরজায় আমি দাঁড়িয়ে আছি কেন?",
+      "কাজের জায়গায় বা ঘরে কাকে আমি খুশিমনে আর তাড়াতাড়ি সেবা দিই? আমার রবকে কি অন্তত ততটুকু তৎপরতা দিই?",
+      "আকাশ আর মাটি, চারপাশের সবকিছু যদি আগেই হ্যাঁ বলে থাকে, তবে আমার দিনের কোন জায়গায় আমিই এখনো পিছিয়ে আছি?"
+    ],
+    "lessonEn": "Everything comes to Allah's command, willingly or not; heaven and earth chose to come willingly, so bring your own obedience gladly rather than by compulsion.",
+    "lessonBn": "আল্লাহর হুকুমের কাছে সবকিছুই আসে, ইচ্ছায় বা অনিচ্ছায়। আকাশ আর পৃথিবী স্বেচ্ছায় আসাটাই বেছে নিয়েছিল। আপনিও নিজের আনুগত্য খুশিমনে নিয়ে আসুন, বাধ্য হয়ে নয়।"
   }
 };
 

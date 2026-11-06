@@ -299,6 +299,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "Turning to a Sky of Smoke",
+          "bn": "ধোঁয়ার আকাশের দিকে"
+        },
+        "p": [
+          {
+            "en": "The passage began at 41:9 with a question to those who disbelieve in Him who created the earth in two days and set up rivals to Him, and 41:10 added its mountains, its blessing and its measured provisions. Our verse turns upward: thumma istawa ila as-sama'i wa hiya dukhan, then He turned to the heaven while it was smoke. He said to it and to the earth, come, willingly or unwillingly, and the two of them answered, we come willingly.",
+            "bn": "অংশটি শুরু হয়েছিল ৪১:৯ আয়াতে এক প্রশ্ন দিয়ে: যিনি দুই দিনে পৃথিবী সৃষ্টি করেছেন, তোমরা কি তাঁকেই অস্বীকার করছ আর তাঁর সমকক্ষ দাঁড় করাচ্ছ? ৪১:১০ আয়াত তাতে যোগ করেছে পাহাড়, বরকত আর মাপা রিযিক। আমাদের আয়াত এবার উপরের দিকে ফেরে: সুম্মাস্তাওয়া ইলাস সামায়ি ওয়া হিয়া দুখান, তারপর তিনি আকাশের দিকে মনোনিবেশ করলেন, তখন তা ছিল ধোঁয়া। তিনি আকাশ ও পৃথিবীকে বললেন, এসো, ইচ্ছায় হোক বা অনিচ্ছায়। দুজনেই জবাব দিল, আমরা স্বেচ্ছায় এলাম।"
+          },
+          {
+            "en": "The first word already carries a question. As-Sa'di glosses thumma plainly as after He created the earth. Al-Qurtubi reads it differently: thumma, he says, refers to moving the heaven from the state of smoke to the state of density. On his reading the particle marks a stage in the heaven's own making, and not only its place after the earth. Ibn Kathir ties the two together in another way, describing the smoke as vapour that rose from the water when the earth was created.",
+            "bn": "প্রথম শব্দেই একটা প্রশ্ন লুকিয়ে আছে। সা'দী 'সুম্মা' শব্দের সোজা অর্থ করেন: পৃথিবী সৃষ্টির পর। কুরতুবী একে অন্যভাবে পড়েন। তাঁর মতে 'সুম্মা' বোঝায় আকাশকে ধোঁয়ার অবস্থা থেকে ঘন অবস্থায় নিয়ে যাওয়া। এ পাঠে শব্দটি আকাশের নিজের গড়ে ওঠার একটি ধাপ চিহ্নিত করে, শুধু পৃথিবীর পরে তার স্থান নয়। ইবন কাসীর দুটি কথাকে জোড়েন আরেক পথে। তিনি বলেন, ধোঁয়াটি ছিল সেই বাষ্প, যা পৃথিবী সৃষ্টির সময় পানি থেকে উঠেছিল।"
+          },
+          {
+            "en": "Readers who know 79:27 to 79:30, where the heaven is built and the earth is spread after that, will ask which came first. That question, with the answer of Ibn 'Abbas (RA) that Ibn Kathir says al-Bukhari recorded, is set out in the article on 41:12 and is not retold here. This article stays with what 41:11 itself raises: the turning, the smoke, the command and the answer.",
+            "bn": "যাঁরা ৭৯:২৭ থেকে ৭৯:৩০ আয়াত জানেন, সেখানে আকাশ নির্মাণের কথা আছে আর তার পরে পৃথিবী বিছানোর কথা। তাঁরা জানতে চাইবেন, কোনটি আগে। সেই প্রশ্ন আর তার জবাবে ইবন আব্বাস (রাঃ)-এর বক্তব্য, যা ইবন কাসীরের ভাষ্যমতে বুখারী সংকলন করেছেন, ৪১:১২ আয়াতের প্রবন্ধে বিস্তারিত আছে। এখানে তার পুনরাবৃত্তি হবে না। এ প্রবন্ধ থাকবে ৪১:১১ আয়াত নিজে যা তোলে তার সঙ্গে: মনোনিবেশ, ধোঁয়া, হুকুম আর জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rose, Intended, Set Out",
+          "bn": "উঠলেন, ইচ্ছা করলেন, মনোযোগ দিলেন"
+        },
+        "p": [
+          {
+            "en": "Istawa ila is glossed in several ways in the texts consulted here. At-Tabari says it means He rose to the heaven, irtafa'a, and refers the reader back to where he set out the scholars' views on the word earlier in his work. As-Sa'di and the Muyassar both gloss it as qasada, He directed Himself to it. Al-Baghawi says He set out, 'amada, to create the heaven, and al-Qurtubi joins the two: He set out to create it and intended to make it even and whole.",
+            "bn": "ইসতাওয়া ইলা শব্দের ব্যাখ্যা এখানে দেখা তাফসীরগুলোতে একাধিক। তাবারী বলেন, এর অর্থ তিনি আকাশের দিকে উঠলেন, ইরতাফাআ। শব্দটি নিয়ে আলেমদের মতামত তিনি আগেই বিস্তারিত বলেছেন, পাঠককে সেখানেই ফিরিয়ে দেন। সা'দী ও মুয়াসসার দুজনেই এর অর্থ করেন 'কাসাদা', অর্থাৎ তিনি তার দিকে মনোনিবেশ করলেন। বাগাভী বলেন, তিনি আকাশ সৃষ্টির দিকে মন দিলেন, 'আমাদা'। কুরতুবী দুটো একসঙ্গে বলেন: তিনি আকাশ সৃষ্টির দিকে মন দিলেন এবং তাকে সুবিন্যস্ত ও পূর্ণ করার ইচ্ছা করলেন।"
+          },
+          {
+            "en": "Al-Qurtubi then records a difference among the scholars about the word itself. On most views, he says, istiwa' here is an attribute of action, and he points to 2:29, then He turned to the heaven and made them seven heavens. He reports from Abu Salih, from Ibn 'Abbas (RA), that it means His command ascended to the heaven, and says al-Hasan held the same. Those who hold that it is an attribute of the essence, he adds, say that the istiwa' was in eternity, with His attributes.",
+            "bn": "এরপর কুরতুবী শব্দটি নিয়েই আলেমদের মধ্যে একটি মতভেদ উল্লেখ করেন। তিনি বলেন, অধিকাংশ মতে এখানে ইসতিওয়া কর্মগত গুণ। প্রমাণ হিসেবে তিনি ২:২৯ আয়াত আনেন: তারপর তিনি আকাশের দিকে মনোনিবেশ করলেন এবং তাকে সাতটি আকাশে বিন্যস্ত করলেন। আবু সালিহের সূত্রে তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এর মানে তাঁর হুকুম আকাশের দিকে উঠে গেল। তিনি জানান, হাসানেরও একই মত। আর যাঁরা একে সত্তাগত গুণ বলেন, তাঁদের মতে এই ইসতিওয়া অনাদিকালেই, তাঁর গুণাবলিসহ।"
+          },
+          {
+            "en": "These are the commentators' positions; the article reports them without choosing. Under every gloss the verse keeps its order: the earth had been made and provided for, and then the heaven became the object of His creating. Al-Qurtubi's view of thumma, a move from smoke to density, fits it. The rest of the verse is about what that heaven was when it was addressed, and what it was asked to do.",
+            "bn": "এগুলো তাফসীরকারদের নিজস্ব মত। প্রবন্ধ এর কোনোটিকে বেছে নেয় না, শুধু বর্ণনা করে। তবে যে ব্যাখ্যাই নিন, আয়াতের ক্রম একই থাকে: পৃথিবী তৈরি হয়েছে, তার রিযিকের ব্যবস্থা হয়েছে, তারপর আকাশ হলো তাঁর সৃষ্টিকর্মের লক্ষ্য। 'সুম্মা' নিয়ে কুরতুবীর ব্যাখ্যা, ধোঁয়া থেকে ঘনত্বের দিকে যাত্রা, এর সঙ্গে মিলে যায়। আয়াতের বাকি অংশ বলে, ডাক আসার সময় আকাশ কী অবস্থায় ছিল, আর তাকে কী করতে বলা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Vapour Off the Waters",
+          "bn": "পানি থেকে ওঠা বাষ্প"
+        },
+        "p": [
+          {
+            "en": "Wa hiya dukhan: while it was smoke. The commentators consulted here explain the smoke from the water. Ibn Kathir calls it the vapour of the water that rose from it when the earth was created. Al-Baghawi says that smoke was the vapour of the water. As-Sa'di describes a smoke that had risen over the face of the water. The Muyassar simply says the heaven had been smoke before. Al-Qurtubi says the smoke came from the breathing of the water when it breathed out.",
+            "bn": "ওয়া হিয়া দুখান: তখন তা ছিল ধোঁয়া। এখানে দেখা তাফসীরকারেরা ধোঁয়ার ব্যাখ্যা দেন পানি দিয়ে। ইবন কাসীর বলেন, এটি পানির বাষ্প, যা পৃথিবী সৃষ্টির সময় পানি থেকে উঠেছিল। বাগাভী বলেন, সেই ধোঁয়া ছিল পানির বাষ্প। সা'দীর বর্ণনায় ধোঁয়াটি পানির উপরিভাগ থেকে উঠে এসেছিল। মুয়াসসার শুধু বলে, আকাশ আগে থেকেই ধোঁয়া ছিল। কুরতুবী বলেন, ধোঁয়া এসেছিল পানির নিঃশ্বাস থেকে, যখন পানি শ্বাস ছেড়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi does not repeat his evidence here. He says the account was given under Surat al-Baqarah, from Ibn Mas'ud (RA) and others. This article has not checked that earlier passage, so it reports only what he says on this verse. Their accounts agree on this much: the heaven, at the moment of the address, was not yet the built and adorned sky of 41:12, but something unformed that had risen from the waters.",
+            "bn": "কুরতুবী এখানে নিজের দলিল আবার তুলে ধরেন না। তিনি বলেন, বর্ণনাটি সূরা বাকারায় ইবন মাসউদ (রাঃ) ও অন্যদের সূত্রে আগেই এসেছে। সেই আগের অংশ এ প্রবন্ধে যাচাই করা হয়নি, তাই এ আয়াতে তিনি যা বলেন শুধু সেটুকুই এখানে আছে। এটুকুতে তাঁদের বর্ণনা মিলে যায়। ডাক আসার মুহূর্তে আকাশ তখনো ৪১:১২ আয়াতের সেই নির্মিত, সজ্জিত আকাশ হয়ে ওঠেনি। তা ছিল পানি থেকে ওঠা আকারহীন কিছু।"
+          },
+          {
+            "en": "None of the commentaries consulted here reads the word smoke as a statement about physics or the early universe. They speak of water and vapour, and of the stage at which Allah turned to the heaven and made it what it became. The article follows them, and it adds no scientific claim of its own, in either direction. The verse's own interest is plain: it shows the heaven at its most formless, and that is when it was spoken to and obeyed.",
+            "bn": "এখানে দেখা কোনো তাফসীর 'ধোঁয়া' শব্দকে পদার্থবিদ্যা বা মহাবিশ্বের আদি অবস্থা নিয়ে কোনো বক্তব্য হিসেবে পড়েনি। তাঁরা কথা বলেন পানি আর বাষ্প নিয়ে, আর সেই ধাপ নিয়ে, যখন আল্লাহ আকাশের দিকে মনোনিবেশ করলেন এবং তাকে তার পরের রূপ দিলেন। প্রবন্ধও তাঁদের পথেই চলে। পক্ষে বা বিপক্ষে, বিজ্ঞান নিয়ে নিজের কোনো দাবি যোগ করে না। আয়াতের নিজের আগ্রহ স্পষ্ট। আকাশ যখন সবচেয়ে আকারহীন, তখনই তাকে ডাকা হয়েছে, আর তখনই সে মেনেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bring Out What I Placed",
+          "bn": "যা রেখেছি তা বের করে আনো"
+        },
+        "p": [
+          {
+            "en": "I'tiya: come, the two of you. At-Tabari takes it as a command to bring forth what had been created in them. Allah said to the heaven and the earth, in his paraphrase: as for you, heaven, bring up the sun, the moon and the stars I created in you; as for you, earth, bring out the trees, the fruits and the plants, and split open for the rivers. Their answer, we come, then means we have brought what You placed in us, answering Your command and not disobeying it.",
+            "bn": "ই'তিয়া: তোমরা দুজন এসো। তাবারী একে পড়েন, তাদের ভেতরে যা সৃষ্টি করা হয়েছে তা বের করে আনার হুকুম হিসেবে। তাঁর ভাষায় আল্লাহ আকাশ ও পৃথিবীকে বললেন: হে আকাশ, তোমার মধ্যে আমি যে সূর্য, চাঁদ আর তারা সৃষ্টি করেছি, তা উদিত করো। হে পৃথিবী, তোমার মধ্যে যে গাছ, ফল আর উদ্ভিদ সৃষ্টি করেছি, তা বের করো, আর নদীর জন্য ফেটে যাও। তখন 'আমরা এলাম' জবাবের মানে দাঁড়ায়: তুমি আমাদের মধ্যে যা রেখেছ, তা নিয়ে এসেছি। তোমার হুকুমে সাড়া দিচ্ছি, অমান্য করছি না।"
+          },
+          {
+            "en": "At-Tabari supports this with a report from Mujahid, from Ibn 'Abbas (RA): Allah said to the heavens, bring up My sun and My moon and My stars, and to the earth, split open your rivers and bring out your fruits. Ibn Kathir cites the same chain and notes that Ibn Jarir, at-Tabari, chose this reading. Al-Qurtubi's wording of it adds winds and clouds for the heaven. Through Tawus, at-Tabari reports from Ibn 'Abbas (RA) that i'tiya means give, and atayna, we have given.",
+            "bn": "তাবারী এর সমর্থনে মুজাহিদের সূত্রে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন: আল্লাহ আকাশমণ্ডলীকে বললেন, আমার সূর্য, আমার চাঁদ আর আমার তারাগুলো উদিত করো। আর পৃথিবীকে বললেন, তোমার নদীগুলো চিরে বের করো, তোমার ফল বের করো। ইবন কাসীর একই সূত্র উদ্ধৃত করে জানান, ইবন জারীর, অর্থাৎ তাবারী, এই ব্যাখ্যাই গ্রহণ করেছেন। কুরতুবীর উদ্ধৃতিতে আকাশের বেলায় বাতাস আর মেঘও যুক্ত হয়েছে। তাউসের সূত্রে তাবারী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, 'ই'তিয়া' মানে দাও, আর 'আতাইনা' মানে আমরা দিলাম।"
+          },
+          {
+            "en": "That gloss matches a reading al-Qurtubi records: Ibn 'Abbas, Mujahid, Sa'id ibn Jubayr and 'Ikrimah read the verb with a long vowel, atiya, give, so that the sense is give obedience from yourselves, and they said, we have given it. Al-Baghawi reads the common wording as a figure of speech: come to what I command you means do it, as one says, come to what is best. The Muyassar and as-Sa'di gloss it as submit to My command.",
+            "bn": "এই ব্যাখ্যার সঙ্গে মেলে কুরতুবীর উল্লেখ করা এক কিরাআত। ইবন আব্বাস, মুজাহিদ, সাঈদ ইবন জুবাইর ও ইকরিমা ক্রিয়াটি দীর্ঘ স্বরে পড়েছেন, 'আতিয়া', অর্থাৎ দাও। তখন মানে দাঁড়ায়: নিজেদের পক্ষ থেকে আনুগত্য দাও। আর তারা বলল, আমরা দিলাম। প্রচলিত পাঠকে বাগাভী পড়েন একটি বাকরীতি হিসেবে। আমি যা হুকুম করি তার দিকে এসো, মানে তা করো, যেমন লোকে বলে, যা সবচেয়ে ভালো তার দিকে এসো। মুয়াসসার ও সা'দী এর অর্থ করেন: আমার হুকুমের কাছে নত হও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gladly, or Under Compulsion",
+          "bn": "খুশিমনে, নয়তো বাধ্য হয়ে"
+        },
+        "p": [
+          {
+            "en": "Taw'an aw karhan: willingly or unwillingly. Ibn Kathir paraphrases it as respond to My command and yield to My action, whether obedient or compelled. The Muyassar has submit to My command, choosing or forced. As-Sa'di draws out what the pair implies: the command will be carried out in any case, so the only choice left is the manner of coming. Al-Baghawi, in a passage he gives from Ibn 'Abbas (RA), has the plainest form: do what I command you willingly, or else I will drive you to it until you do it unwillingly.",
+            "bn": "তাওআন আও কারহান: ইচ্ছায় অথবা অনিচ্ছায়। ইবন কাসীর এর ব্যাখ্যা করেন: আমার হুকুমে সাড়া দাও, আমার কাজের কাছে নিজেদের ছেড়ে দাও, অনুগত হয়ে হোক বা বাধ্য হয়ে। মুয়াসসারের ভাষায়: আমার হুকুমের কাছে নত হও, স্বেচ্ছায় হোক বা জোরে। সা'দী জোড়াটির ভেতরের কথা খুলে বলেন। হুকুম কার্যকর হবেই, বাকি থাকে শুধু আসার ধরন বেছে নেওয়া। বাগাভী ইবন আব্বাস (রাঃ) থেকে যে অংশ আনেন, তাতে কথাটা সবচেয়ে সোজা: আমি যা হুকুম করি, খুশিমনে করো। নইলে তোমাদের তাতে বাধ্য করব, যতক্ষণ না অনিচ্ছায় করো।"
+          },
+          {
+            "en": "Ibn Kathir adds a saying of al-Hasan al-Basri, which he says Ibn Abi Hatim narrated: had the two refused His command, He would have punished them with a punishment whose pain they would feel. Then comes the answer, read by the commentators as complete surrender. The Muyassar and as-Sa'di use almost the same words for it: we have no will that opposes Your will. At-Tabari has them say: we came answering Your command, we do not disobey it.",
+            "bn": "ইবন কাসীর এখানে হাসান বসরীর একটি উক্তি যোগ করেন, যা তাঁর ভাষ্যমতে ইবন আবী হাতিম বর্ণনা করেছেন: দুজনে যদি তাঁর হুকুম মানতে অস্বীকার করত, তিনি তাদের এমন শাস্তি দিতেন যার ব্যথা তারা টের পেত। তারপর আসে জবাব, আর তাফসীরকারেরা একে পড়েন পূর্ণ আত্মসমর্পণ হিসেবে। মুয়াসসার আর সা'দী প্রায় একই কথা বলেন: আপনার ইচ্ছার বিরোধী কোনো ইচ্ছা আমাদের নেই। তাবারীর ভাষায় তারা বলে: আমরা আপনার হুকুমে সাড়া দিয়ে এসেছি, তা অমান্য করি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Real Words, or Their State?",
+          "bn": "সত্যিকারের কথা, নাকি অবস্থার ভাষা?"
+        },
+        "p": [
+          {
+            "en": "Did the heaven and the earth really speak? Al-Qurtubi sets out the question. It is said, he reports, that the command was a command of subjection, as if to say be, and they were, in the manner of 16:40; on that view it was said before the two were created. On the first view, bring out what I placed in you, it was said after their creation, and he calls that the view of the majority. He then gives, from al-Mawardi, two ways of reading Allah's address: a speech He spoke, or a power He showed them that took the place of speech.",
+            "bn": "আকাশ আর পৃথিবী কি সত্যিই কথা বলেছিল? কুরতুবী প্রশ্নটি তুলে ধরেন। এক মতে হুকুমটি ছিল বশীভূত করার হুকুম, যেন বলা হলো 'হও', আর তারা হয়ে গেল, ১৬:৪০ আয়াতের ধরনে। এ মতে কথাটি বলা হয়েছিল দুটোর সৃষ্টির আগে। আর প্রথম মতে, অর্থাৎ 'তোমাদের মধ্যে যা রেখেছি তা বের করো', কথাটি বলা হয়েছিল সৃষ্টির পরে। কুরতুবী একে অধিকাংশ আলেমের মত বলেন। এরপর তিনি মাওয়ার্দী থেকে আল্লাহর সম্বোধনের দুটি দিক আনেন: হয় তা ছিল তাঁর উচ্চারিত কথা, নয়তো তাঁর এমন এক কুদরত যা তাদের সামনে প্রকাশ পেয়ে কথার কাজ করেছে।"
+          },
+          {
+            "en": "On their reply he again gives two views. In the first, their obedience showed itself as they yielded and answered, and that showing stood in place of speech, as in a rajaz line: the pool filled up and said, enough for me. In the second, which he gives as the view of most scholars, Allah created speech in them and they spoke as He willed. He adds from Abu Nasr as-Saksaki that the spot of the Ka'bah spoke from the earth, and what lies opposite it from the heaven, and that there Allah placed His sanctuary.",
+            "bn": "তাদের জবাব নিয়েও তিনি দুটি মত আনেন। প্রথম মতে, তারা যখন নত হলো আর সাড়া দিল, তাদের আনুগত্য প্রকাশ পেল, আর সেই প্রকাশই কথার জায়গা নিল। যেমন এক রাজায কবিতায় আছে: হাউজ ভরে গেল, আর বলল, আমার যথেষ্ট হয়েছে। দ্বিতীয় মত, যাকে তিনি অধিকাংশ আলেমের মত বলেন: আল্লাহ তাদের মধ্যে বাকশক্তি সৃষ্টি করেছিলেন, আর তারা তাঁর ইচ্ছামতো কথা বলেছিল। আবু নাসর সাকসাকী থেকে তিনি যোগ করেন, পৃথিবী থেকে কথা বলেছিল কাবার জায়গা, আর আকাশ থেকে তার ঠিক সোজাসুজি অংশ। সেখানেই আল্লাহ তাঁর হারাম স্থাপন করেছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reports the same division. Some exegetes, it says, take the exchange as a metaphor for the readiness of heaven and earth to obey every order; Ibn 'Atiyyah and other scholars say it is real, not metaphor, and that the author of al-Bahr al-Muhit judged this the best explanation. Ibn Kathir mentions, under it is said, that the speaking part of the earth was the place of the Ka'bah; Ma'arif names the part of the sky above it as al-Bayt al-Ma'mur. Both sides are kept here; the article takes neither.",
+            "bn": "মাআরিফুল কুরআনও একই বিভাজন তুলে ধরে। কিছু তাফসীরকারের মতে, এই কথোপকথন রূপক, প্রতিটি হুকুম মানতে আকাশ ও পৃথিবীর প্রস্তুতির ছবি। ইবন আতিয়্যাহ ও অন্য আলেমেরা বলেন, এটি রূপক নয়, বাস্তব। আর আল-বাহরুল মুহীতের লেখক এ ব্যাখ্যাকেই সবচেয়ে উপযুক্ত বলেছেন। ইবন কাসীর 'বলা হয়' কথাটি দিয়ে উল্লেখ করেন যে, পৃথিবীর যে অংশ কথা বলেছিল তা কাবার জায়গা। আর কাবার ঠিক উপরে আকাশের যে অংশ, মাআরিফ তাকে বাইতুল মা'মূর বলে চিহ্নিত করে। দুটো মতই এখানে রাখা হলো, প্রবন্ধ কোনোটির পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Speakers, a Plural Answer",
+          "bn": "বক্তা দুজন, জবাব বহুবচনে"
+        },
+        "p": [
+          {
+            "en": "Qalata atayna ta'i'in: the verb they said is dual and feminine, since heaven and earth are both feminine in Arabic, yet the closing word is masculine plural, ta'i'in, and not ta'i'atayn. At-Tabari records three explanations. The pronoun in atayna is the same as men use when they speak of themselves, so the adjective follows it. Some grammarians said the word refers to the heavens and the earth and all who are in them. Others said that once the two spoke, they resembled the sons of Adam.",
+            "bn": "কালাতা আতাইনা তায়িঈন। 'কালাতা' ক্রিয়াটি দ্বিবচন ও স্ত্রীলিঙ্গ, কারণ আরবিতে আকাশ ও পৃথিবী দুটোই স্ত্রীলিঙ্গ। অথচ শেষ শব্দ 'তায়িঈন' পুংলিঙ্গ বহুবচন, 'তায়িআতাইন' নয়। তাবারী তিনটি ব্যাখ্যা উল্লেখ করেন। প্রথমত, 'আতাইনা'-র সর্বনাম সেটাই, যা পুরুষেরা নিজেদের কথা বলতে ব্যবহার করে, তাই বিশেষণও তার অনুসরণ করেছে। কিছু ব্যাকরণবিদ বলেছেন, শব্দটি আকাশমণ্ডলী, পৃথিবী এবং এদের মধ্যে যারা আছে সবাইকে বোঝায়। অন্যেরা বলেছেন, দুজনে যখন কথা বলল, তখন তারা আদম সন্তানদের মতো হয়ে গেল।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi keep both of the later explanations. Al-Qurtubi notes that the word follows neither the dual form nor a feminine plural, and compares 12:4, where Yusuf (AS) sees the stars, the sun and the moon sajidin, prostrating, in the form used for beings who reason. Ibn Kathir reports from at-Tabari, citing some scholars of Arabic, a fuller sense: we answer You, obedient with all that is in us, all that You will create in us of angels, jinn and humans, obedient to You.",
+            "bn": "বাগাভী ও কুরতুবী শেষের দুটো ব্যাখ্যাই রাখেন। কুরতুবী দেখান, শব্দটি দ্বিবচনের রূপও নেয়নি, স্ত্রীলিঙ্গ বহুবচনের রূপও নয়। তুলনা হিসেবে তিনি ১২:৪ আয়াত আনেন, যেখানে ইউসুফ (আঃ) তারা, সূর্য ও চাঁদকে দেখেন 'সাজিদীন', সিজদারত। শব্দটির রূপ সেখানেও বুদ্ধিমান সত্তার জন্য ব্যবহৃত রূপ। ইবন কাসীর তাবারীর সূত্রে কিছু আরবি ভাষাবিদের বরাতে আরও বিস্তৃত অর্থ আনেন: আমরা আপনার ডাকে সাড়া দিচ্ছি, আমাদের ভেতরে যা আছে সবকিছু নিয়ে অনুগত হয়ে। আমাদের মধ্যে আপনি যত ফেরেশতা, জিন ও মানুষ সৃষ্টি করবেন, সবাই আপনার অনুগত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Our Own Willing Answer",
+          "bn": "আমাদের নিজের স্বেচ্ছা-জবাব"
+        },
+        "p": [
+          {
+            "en": "No tafsir consulted here attaches a sound hadith to this verse. The report from Ibn 'Abbas (RA) on the order of creation, which Ibn Kathir says al-Bukhari recorded, is a Companion's explanation of the whole passage rather than a saying of the Prophet ﷺ, and it is treated under 41:12. The same pair of words returns in 3:83: to Him submits whoever is in the heavens and the earth, willingly and unwillingly. The Muyassar explains it there: the believers willingly, and others against their will in hardship, when it no longer helps them.",
+            "bn": "এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। সৃষ্টির ক্রম নিয়ে ইবন আব্বাস (রাঃ)-এর যে বক্তব্য, যা ইবন কাসীরের ভাষ্যমতে বুখারী সংকলন করেছেন, তা পুরো অংশ নিয়ে একজন সাহাবীর ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। ৪১:১২ আয়াতের প্রবন্ধে তা আলোচিত হয়েছে। একই শব্দজোড়া ফিরে আসে ৩:৮৩ আয়াতে: আকাশমণ্ডলী ও পৃথিবীতে যে আছে, সবাই তাঁর কাছে আত্মসমর্পণ করেছে, ইচ্ছায় ও অনিচ্ছায়। মুয়াসসার সেখানে ব্যাখ্যা দেয়: মুমিনেরা স্বেচ্ছায়, আর অন্যেরা বিপদের সময় নিজের অনিচ্ছায়, যখন তাতে আর কোনো লাভ হয় না।"
+          },
+          {
+            "en": "That is where the verse turns to the reader. Heaven and earth were offered two ways of coming and chose the better, with no will set against their Lord's. A human being has a will, and the same two ways remain open. What He wills of His creation comes to pass in any case, as as-Sa'di said of this command. What is left to us is the manner in which we come to what He commands: gladly, in the prayer and the duty, or late and resentful. Heaven and earth said, we come willingly. That answer is still available.",
+            "bn": "এখানেই আয়াত পাঠকের দিকে ফেরে। আকাশ আর পৃথিবীর সামনে আসার দুটো পথ ছিল, তারা ভালোটাই বেছে নিল। রবের ইচ্ছার বিরুদ্ধে তাদের কোনো ইচ্ছা ছিল না। মানুষের ইচ্ছা আছে, আর তার সামনেও ওই দুই পথ খোলা। সৃষ্টির ব্যাপারে তিনি যা চান, তা ঘটবেই, এ হুকুম নিয়ে সা'দী যেমন বলেছেন। আমাদের হাতে থাকে শুধু তাঁর হুকুমের কাছে আসার ধরন: নামায আর দায়িত্বে খুশিমনে, নাকি দেরিতে আর বিরক্ত মনে। আকাশ আর পৃথিবী বলেছিল, আমরা স্বেচ্ছায় এলাম। সেই জবাব আজও দেওয়া যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "41:12": {
     "sections": [
       {
