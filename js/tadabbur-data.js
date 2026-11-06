@@ -27929,6 +27929,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Thank Allah for the gifts that never stop, and let good well up from you freely, as the springs of the second gardens gush without ceasing.",
     "lessonBn": "যে দান কখনো থামে না, তার জন্য আল্লাহর শুকরিয়া আদায় করুন। আর দ্বিতীয় বাগানের ঝরনা যেমন বিরামহীন উথলে ওঠে, তেমনি আপনার ভেতর থেকেও কল্যাণ অকাতরে উথলে উঠুক।"
+  },
+  "55:30": {
+    "reflectionEn": "Two verses back, everything on the earth was told it would pass, and your Lord's Face would remain. One verse back, everyone in the heavens and the earth was asking of Him, and every day He was about some affair: a sin forgiven, a hardship lifted, one people raised and another lowered. Then the same question comes again: which of your Lord's favours will you deny? This time it counts more than gifts I can hold. It counts turnings too: the door that closed, the plan that changed, the day that went otherwise than I wanted, arranged by One who knows better than I do what will help me. Today He was about some affair in my life. Did I notice it, and did I call it a favour?",
+    "reflectionBn": "দুই আয়াত আগে শোনানো হয়েছে, পৃথিবীতে যা আছে সব মিটে যাবে, থেকে যাবে শুধু আপনার রবের চেহারা। এক আয়াত আগে দেখানো হয়েছে, আসমান ও জমিনের সবাই তাঁর কাছেই চাইছে, আর তিনি প্রতিদিন কোনো না কোনো কাজে আছেন: কারও গুনাহ মাফ করছেন, কারও বিপদ সরাচ্ছেন, এক দলকে উঁচুতে তুলছেন, আরেক দলকে নামিয়ে দিচ্ছেন। তারপর আবার সেই প্রশ্ন: তোমাদের রবের কোন নিয়ামত তোমরা অস্বীকার করবে? এবার হিসাবে আসে শুধু হাতে পাওয়া দান নয়। আসে জীবনের মোড়গুলোও। যে দরজা বন্ধ হয়ে গেল, যে পরিকল্পনা বদলে গেল, যে দিনটা আমার ইচ্ছামতো গেল না, সবই সাজিয়েছেন এমন একজন, যিনি আমার চেয়ে ভালো জানেন কীসে আমার উপকার। আজও আমার জীবনে তিনি কোনো একটা কাজে ছিলেন। আমি কি তা খেয়াল করেছি? আর সেটাকে কি নিয়ামত বলে চিনেছি?",
+    "pointsEn": [
+      "Which turning in my life did I resent at the time, that I can now see was arranged for my good?",
+      "When I hear that everything on the earth will pass, do I grip harder at what I have, or turn towards the One who remains?",
+      "Everyone in the heavens and the earth asks of Him; when did I last ask Him for something plainly, naming what I need?",
+      "If He is about some affair in my life every day, what have I been putting down to chance?",
+      "When this question is recited, do I let it pass like a chorus, or do I stop and answer it?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন মোড় তখন আমার একদম ভালো লাগেনি, অথচ এখন বুঝি সেটা আমার ভালোর জন্যই সাজানো ছিল?",
+      "পৃথিবীর সব কিছু মিটে যাবে, এ কথা শুনে আমি কি হাতের জিনিস আরও আঁকড়ে ধরি, নাকি যিনি থেকে যান তাঁর দিকে ফিরি?",
+      "আসমান ও জমিনের সবাই তাঁর কাছে চায়। শেষ কবে আমি নিজের প্রয়োজনের নাম ধরে সোজাসুজি তাঁর কাছে চেয়েছি?",
+      "তিনি যদি প্রতিদিন আমার জীবনে কোনো না কোনো কাজে থাকেন, তবে কোন কোন ঘটনাকে আমি এতদিন নিছক কপালের খেলা ভেবে এসেছি?",
+      "এ প্রশ্ন যখন তিলাওয়াত হয়, আমি কি তা গানের ধুয়ার মতো পার হতে দিই, নাকি থেমে জবাব দিই?"
+    ],
+    "lessonEn": "Count Allah's management of your days among His favours, the turnings you did not choose as well as the gifts you asked for, for He knows better what benefits you.",
+    "lessonBn": "আপনার দিনগুলো আল্লাহ যেভাবে সাজান, সেটাকেও তাঁর নিয়ামতের হিসাবে ধরুন। যে মোড় আপনি বেছে নেননি আর যে দান আপনি চেয়ে পেয়েছেন, দুটোই। কারণ কীসে আপনার উপকার, তা তিনিই ভালো জানেন।"
   }
 };
 

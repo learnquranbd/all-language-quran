@@ -1039,6 +1039,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "55:30": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Eighth Time of Asking",
+          "bn": "অষ্টমবারের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Fa-bi-ayyi ala'i rabbikuma tukadhdhiban: so which of the favours of your Lord will you two deny? Counted in the Arabic text, these four words stand as a whole verse thirty-one times in Surah ar-Rahman, and this is the eighth. The first, at 55:13, has its own article, which sets out what ala' means, why the verb is dual and why jinn and mankind are the two addressed. None of that is repeated here. This article asks a narrower question: what has the eighth asking just been asked about?",
+            "bn": "ফাবিআইয়ি আলা-ই রাব্বিকুমা তুকাযযিবান: তাহলে তোমাদের রবের কোন নিয়ামতকে তোমরা দুজন অস্বীকার করবে? আরবি পাঠে গুনলে দেখা যায়, এই চারটি শব্দ সূরা আর-রহমানে পুরো একটি আয়াত হয়ে এসেছে একত্রিশবার। এটি তার অষ্টম। প্রথমটি ৫৫:১৩ আয়াতে, তার আলাদা প্রবন্ধ আছে। আলা শব্দের অর্থ, ক্রিয়াটি কেন দ্বিবচন, আর কেন জিন ও মানুষ এখানে দুই শ্রোতা, সে আলোচনা সেখানেই হয়েছে। এখানে তার পুনরাবৃত্তি নেই। এ প্রবন্ধের প্রশ্ন আরও ছোট: অষ্টমবার প্রশ্নটা ঠিক কোন কথার পরে এল?"
+          },
+          {
+            "en": "The answer is a short passage. At 55:26 and 55:27, everyone upon the earth is perishing, and the Face of your Lord remains, Owner of Majesty and Honour; the refrain follows at 55:28. At 55:29, whoever is in the heavens and the earth asks of Him, and every day He is about some affair; then comes this verse. At 55:31 the surah turns to a warning: We shall attend to you, O two weighty kinds. The eighth asking stands between what He does every day and the reckoning that is coming.",
+            "bn": "জবাব আছে ছোট্ট একটি অংশে। ৫৫:২৬ ও ৫৫:২৭ আয়াতে বলা হয়েছে, পৃথিবীর উপরে যারা আছে সবাই মিটে যাবে, আর থেকে যাবে আপনার রবের চেহারা, যিনি মহিমা ও সম্মানের অধিকারী। তার পরেই ৫৫:২৮ আয়াতে এই প্রশ্ন। তারপর ৫৫:২৯ আয়াত: আসমান ও জমিনে যে-ই আছে, তাঁর কাছেই চায়, আর প্রতিদিন তিনি কোনো না কোনো কাজে আছেন। এর পরেই আমাদের আয়াত। ৫৫:৩১ আয়াতে সূরা মোড় নেয় সতর্কবাণীর দিকে: হে দুই ভারী জাতি, শিগগিরই আমি তোমাদের দিকে মন দেব। অষ্টম প্রশ্নটা তাই দাঁড়িয়ে আছে দুইয়ের মাঝখানে। একদিকে তিনি প্রতিদিন যা করছেন, অন্যদিকে সামনে আসা হিসাবের দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Lengthens His Gloss",
+          "bn": "তাবারীর ব্যাখ্যা এবার লম্বা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss on most of these refrains is a single line. At 55:16 he writes: which favour of your Lord, O two weighty kinds, from among these favours, do you two deny? At 55:28, straight after the passing of everyone on the earth, his wording is almost the same, with favours in the plural. At this verse he lengthens it, and the words he adds point back to the verse just before, about the One who is asked by all and is about some affair every day.",
+            "bn": "এই প্রশ্নের বেশিরভাগ জায়গায় তাবারীর ব্যাখ্যা এক লাইনের। ৫৫:১৬ আয়াতে তিনি লেখেন: হে দুই ভারী জাতি, এই নিয়ামতগুলোর মধ্যে তোমাদের রবের কোন নিয়ামতকে তোমরা দুজন অস্বীকার করবে? ৫৫:২৮ আয়াতে, পৃথিবীর সবার মিটে যাওয়ার কথার ঠিক পরে, তাঁর ভাষা প্রায় একই, শুধু নিয়ামত শব্দটা বহুবচনে। কিন্তু এই আয়াতে এসে তিনি ব্যাখ্যাটা লম্বা করেন। যে কথাগুলো তিনি যোগ করেন, সেগুলো ইশারা করে ঠিক আগের আয়াতের দিকে, যেখানে সবাই তাঁর কাছে চায় আর তিনি প্রতিদিন কোনো না কোনো কাজে থাকেন।"
+          },
+          {
+            "en": "His gloss runs: which of your Lord's favours, O company of jinn and mankind, do you two deny, the favours He has bestowed on you in directing you to your interests, and in His turning you about, which He knows better than you do, in what is most beneficial for you? Two verbal nouns carry the sentence: sarf, a directing, and taqlib, a turning about. Both describe something Allah keeps doing to the listener over time, rather than something handed over once and left in the hand.",
+            "bn": "তাঁর ব্যাখ্যাটা এরকম: হে জিন ও মানুষের দল, তোমাদের রবের কোন নিয়ামত তোমরা দুজন অস্বীকার করবে? সেই নিয়ামত, যা তিনি তোমাদের দিয়েছেন তোমাদেরকে তোমাদের কল্যাণের পথে চালিয়ে, আর তোমাদের ঘুরিয়ে-ফিরিয়ে সেদিকে নিয়ে, যা তোমাদের জন্য সবচেয়ে উপকারী, যে বিষয়ে তিনি তোমাদের চেয়ে বেশি জানেন। বাক্যটার ভার বহন করছে দুটি শব্দ: সারফ, অর্থাৎ কোনো দিকে চালিয়ে নেওয়া, আর তাকলীব, অর্থাৎ ঘুরিয়ে-ফিরিয়ে দেওয়া। দুটোই এমন কাজ, যা আল্লাহ সময় ধরে শ্রোতার সঙ্গে করেই চলেছেন। একবার হাতে তুলে দিয়ে রেখে দেওয়া কোনো জিনিস নয়।"
+          },
+          {
+            "en": "At-Tabari does not list the turnings in this gloss. His own comment on 55:29, the verse before, does: every day He is about the affairs of His creation, relieving the distress of one in distress, raising some people and lowering others. Read beside that, the eighth refrain gathers the raising and the lowering alike into its question. The clause that holds them together is his: what He knows better than you do. On that reading, the listener is not asked to rule on each turning, only not to deny the One who turns it towards benefit.",
+            "bn": "এই ব্যাখ্যায় তাবারী মোড়গুলোর তালিকা দেন না। তালিকা আছে আগের আয়াত ৫৫:২৯-এ তাঁর নিজের আলোচনায়: প্রতিদিন তিনি তাঁর সৃষ্টির নানা কাজে আছেন। বিপদগ্রস্তের বিপদ দূর করেন, এক দলকে উঁচুতে তোলেন, আরেক দলকে নিচে নামান। সে কথার পাশে রেখে পড়লে অষ্টম প্রশ্নটা তোলা আর নামানো দুটোকেই নিজের ভেতরে টেনে নেয়। দুটোকে এক সুতোয় বাঁধে তাবারীরই একটি কথা: যা তিনি তোমাদের চেয়ে বেশি জানেন। এই পাঠে শ্রোতাকে প্রতিটি মোড়ের বিচার করতে বলা হচ্ছে না। বলা হচ্ছে শুধু এটুকু, যিনি মোড় ঘুরিয়ে উপকারের দিকে নেন, তাঁকে অস্বীকার কোরো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Affairs of Each Day",
+          "bn": "প্রতিদিনের কাজগুলো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, whose commentary the abridged English groups from 55:26 to this verse, reads 55:29 as a statement that Allah has no need of anything besides Him, while creation needs Him at every moment; they ask of Him, he says, with the tongue of their state and the tongue of their speech. Ma'arif al-Qur'an, which groups 55:29 with this verse, spells out the need. Those on earth ask for provision, health and comfort here, and for forgiveness, mercy and Paradise hereafter. Those in the heavens neither eat nor drink, but they too need His mercy and grace.",
+            "bn": "সংক্ষিপ্ত ইংরেজি সংস্করণ ইবন কাসীরের আলোচনাকে ৫৫:২৬ থেকে এই আয়াত পর্যন্ত এক দলে রেখেছে। তিনি ৫৫:২৯ আয়াতকে পড়েন এভাবে: আল্লাহর নিজের ছাড়া আর কিছুর প্রয়োজন নেই, অথচ সৃষ্টির প্রতিটি মুহূর্তে তাঁকে প্রয়োজন। তারা তাঁর কাছে চায়, তিনি বলেন, অবস্থার ভাষায় আর মুখের ভাষায়। মাআরিফুল কুরআন ৫৫:২৯ আয়াতকে এই আয়াতের সঙ্গে একসাথে রেখেছে, আর প্রয়োজনটা খুলে বলেছে। জমিনের বাসিন্দারা দুনিয়াতে চায় রিজিক, সুস্থতা, আরাম। আখিরাতে চায় মাগফিরাত, রহমত আর জান্নাত। আসমানের বাসিন্দারা খায় না, পানও করে না, তবু তাঁর রহমত আর অনুগ্রহ তাদেরও দরকার।"
+          },
+          {
+            "en": "What are the affairs? Ibn Kathir gathers early answers. Qatada said the people of the heavens and the earth are never free of need of Him: He gives life to one and death to another, nurtures the small and frees the captive, and He is where the needs of the righteous end, their cry for help and the end of their complaint. From Mujahid, through Ibn Abi Najih: every day He answers a caller, removes a distress, answers one in dire need and forgives a sin. Ma'arif's own list adds that He makes some ill and cures others, and makes the grieving smile.",
+            "bn": "সেই কাজগুলো কী? ইবন কাসীর আগের যুগের কয়েকটি জবাব একসাথে আনেন। কাতাদা বলেছেন, আসমান ও জমিনের কেউই তাঁর থেকে বেপরোয়া নয়। তিনি একজনকে জীবন দেন, আরেকজনকে মৃত্যু, ছোটকে লালন করেন, বন্দিকে মুক্ত করেন। নেক বান্দাদের সব প্রয়োজন গিয়ে শেষ হয় তাঁর কাছে, তিনিই তাদের ফরিয়াদ শোনার জায়গা, তাদের সব অভিযোগের শেষ ঠিকানা। ইবন আবী নাজীহের সূত্রে মুজাহিদ বলেছেন: প্রতিদিন তিনি কোনো ডাকে সাড়া দেন, কোনো বিপদ সরান, কোনো নিরুপায়ের ডাকে সাড়া দেন, কোনো গুনাহ মাফ করেন। মাআরিফুল কুরআনের নিজের তালিকায় আরও আছে: তিনি কাউকে অসুস্থ করেন, কাউকে সারিয়ে তোলেন, দুঃখী মুখে হাসি ফোটান।"
+          },
+          {
+            "en": "Ma'arif notes that the grammar of 55:29 allows two readings. Every day may attach to the verb before it: they ask of Him every day. Others attach it to the clause after it: every day He is about some affair, and Ma'arif's translation, following Maulana Thanawi, takes this second reading. Day, it adds, means time in general rather than the day of the calendar. Then it asks a question of its own. Every creature has countless needs, so who besides the Absolutely Powerful Being, the Lord of Majesty, could answer them every moment?",
+            "bn": "মাআরিফুল কুরআন জানায়, ৫৫:২৯ আয়াতের ব্যাকরণে দুটি পাঠ সম্ভব। প্রতিদিন কথাটা আগের ক্রিয়ার সঙ্গে যুক্ত হতে পারে: তারা প্রতিদিন তাঁর কাছে চায়। অন্য তাফসীরকারেরা একে যুক্ত করেছেন পরের বাক্যের সঙ্গে: প্রতিদিন তিনি কোনো না কোনো কাজে আছেন। মাআরিফের অনুবাদ মাওলানা থানভীর অনুসরণে এই দ্বিতীয় পাঠটাই নিয়েছে। আরও বলা হয়েছে, এখানে দিন মানে ক্যালেন্ডারের একটি দিন নয়, বরং সময় সাধারণভাবে। তারপর মাআরিফ নিজেই একটা প্রশ্ন তোলে। প্রত্যেক সৃষ্টির প্রয়োজন অগণিত। তাহলে মহাপরাক্রমশালী, মহিমার অধিপতি ছাড়া আর কে আছে, যে প্রতিটি মুহূর্তে সেসব প্রয়োজনে সাড়া দিতে পারে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Refrains, One Verse Apart",
+          "bn": "এক আয়াতের ব্যবধানে দুই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The refrains at 55:28 and 55:30 stand only one verse apart, and from 55:28 the question returns at every second verse as far as 55:42. The first of this pair follows the passing of everyone on the earth and the remaining of the Face of your Lord. How an ending can be counted among the favours is taken up in the article on 55:26 and 55:27, with al-Qurtubi's answers and Ibn Kathir's reading of the sequence, and the Face is left there in the commentators' own terms. This article does not reopen either question.",
+            "bn": "৫৫:২৮ আর ৫৫:৩০, দুটি প্রশ্নের মাঝে মাত্র একটি আয়াত। ৫৫:২৮ থেকে শুরু করে ৫৫:৪২ পর্যন্ত প্রশ্নটা ফিরে আসে প্রতি দ্বিতীয় আয়াতে। জোড়ার প্রথমটি আসে পৃথিবীর সবার মিটে যাওয়া আর আপনার রবের চেহারা থেকে যাওয়ার কথার পরে। মৃত্যু ও বিলয় কীভাবে নিয়ামতের হিসাবে আসে, সে আলোচনা আছে ৫৫:২৬ ও ৫৫:২৭ আয়াতের প্রবন্ধে, কুরতুবীর জবাব আর ইবন কাসীরের ক্রমবিন্যাসের পাঠসহ। চেহারার প্রসঙ্গও সেখানে তাফসীরকারদের নিজেদের ভাষাতেই রাখা হয়েছে। এ প্রবন্ধ সেই দুই প্রশ্ন আবার খোলে না।"
+          },
+          {
+            "en": "The second of the pair follows a different kind of verse, and the abridged Ibn Kathir carries the reader from one to the other within a single comment. Only Allah's Honourable Face will remain, it says, because our Lord is the Ever Living who never dies; then, a few lines on, He is rich and free of all wants, and all creatures stand in need of Him in every condition, willingly or unwillingly. The One who remains is also the One who gives now. The refrain at 55:28 comes after the first of these, and the refrain here after the second.",
+            "bn": "জোড়ার দ্বিতীয়টি আসে অন্য ধরনের এক আয়াতের পরে। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ একই আলোচনার ভেতরে পাঠককে একটি থেকে অন্যটিতে নিয়ে যায়। সেখানে বলা হয়, শুধু আল্লাহর সম্মানিত চেহারা থেকে যাবে, কারণ আমাদের রব চিরঞ্জীব, তিনি কখনো মরেন না। কয়েক লাইন পরে বলা হয়, তিনি অভাবমুক্ত, কারও মুখাপেক্ষী নন, আর সব সৃষ্টি প্রতিটি অবস্থায় তাঁর মুখাপেক্ষী, ইচ্ছায় হোক বা অনিচ্ছায়। যিনি থেকে যান, তিনিই এখন দিয়ে চলেছেন। ৫৫:২৮ আয়াতের প্রশ্ন প্রথম কথাটির পরে, আর এখানকার প্রশ্ন দ্বিতীয়টির পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Favour or Power, Read Here",
+          "bn": "নিয়ামত না কুদরত, এই আয়াতে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's text under this verse is the general discussion he gives at the refrains, and it keeps two glosses of ala' side by side. Ala' means favours, an-ni'am, he says, and he calls this the saying of all the commentators. Then he records that Ibn Zayd took it as al-qudra, power, which al-Kalbi also said and Muhammad ibn Ali at-Tirmidhi chose: which power of your Lord do you two deny? The article on 55:13 sets out the two in full. Al-Qurtubi records both, and this article keeps both.",
+            "bn": "এই আয়াতের নিচে কুরতুবীর যে লেখা, তা প্রশ্নটির জায়গাগুলোতে তাঁর সাধারণ আলোচনা। সেখানে আলা শব্দের দুটি ব্যাখ্যা তিনি পাশাপাশি রাখেন। আলা মানে নিয়ামত, তিনি বলেন, আর এটাকে বলেন সব মুফাসসিরের কথা। তারপর লেখেন, ইবন যায়দ এর অর্থ নিয়েছেন কুদরত, অর্থাৎ ক্ষমতা। কালবীও তা-ই বলেছেন, আর মুহাম্মাদ ইবন আলী তিরমিযী এটাই বেছে নিয়েছেন। তখন প্রশ্ন দাঁড়ায়: তোমাদের রবের কোন কুদরতকে তোমরা দুজন অস্বীকার করবে? দুটি মতের পুরো আলোচনা আছে ৫৫:১৩ আয়াতের প্রবন্ধে। কুরতুবী দুটোই লিখে রেখেছেন, এ প্রবন্ধও দুটোই রাখছে।"
+          },
+          {
+            "en": "Placed after 55:29, either gloss has something to hold. As favours, the question asks about what at-Tabari names: the directing and the turning about towards what benefits. As power, it asks about Him who gives life and death, raises and lowers, every day. In al-Qurtubi's quotation, Muhammad ibn Ali at-Tirmidhi says that in every creation after a creation there is a power after a power. As-Sa'di, for his part, keeps to favours and names two kinds in a single line: favours of religion and favours of this world.",
+            "bn": "৫৫:২৯ আয়াতের পরে রাখলে দুটি ব্যাখ্যারই ধরার মতো কিছু থাকে। নিয়ামত অর্থে প্রশ্নটা সেই জিনিস নিয়ে, যার নাম তাবারী নিয়েছেন: কল্যাণের পথে চালিয়ে নেওয়া আর ঘুরিয়ে-ফিরিয়ে উপকারের দিকে আনা। কুদরত অর্থে প্রশ্নটা তাঁকে নিয়ে, যিনি প্রতিদিন জীবন দেন, মৃত্যু দেন, তোলেন, নামান। কুরতুবীর উদ্ধৃতিতে মুহাম্মাদ ইবন আলী তিরমিযী বলেন, প্রতিটি সৃষ্টির পর আরেক সৃষ্টিতে থাকে কুদরতের পর আরেক কুদরত। সা'দী অবশ্য নিয়ামতের অর্থেই থাকেন, আর এক লাইনে দুই রকম নিয়ামতের নাম নেন: দ্বীনের নিয়ামত আর দুনিয়ার নিয়ামত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Asked Puts a Question",
+          "bn": "যাঁর কাছে চাওয়া, তাঁরই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Notice the order of the two verses. At 55:29, yas'aluhu: everyone in the heavens and the earth asks of Him. At 55:30, He whom they ask turns to two of those who ask and puts a question to them. The surah gives no pause between the asking and the question. Ma'arif's own question on 55:29, who besides Him could meet every need every moment, finds its partner here: if no one else could, which of His favours could be denied? The verses set the two side by side and leave the listener to answer.",
+            "bn": "দুই আয়াতের ক্রমটা খেয়াল করুন। ৫৫:২৯ আয়াতে ইয়াসআলুহু: আসমান ও জমিনের সবাই তাঁর কাছে চায়। ৫৫:৩০ আয়াতে যাঁর কাছে সবাই চায়, তিনিই চাওয়াদের মধ্যে দুই জাতির দিকে ফিরে প্রশ্ন রাখেন। চাওয়া আর প্রশ্নের মাঝে সূরা কোনো বিরতি রাখে না। ৫৫:২৯ আয়াতে মাআরিফুল কুরআন যে প্রশ্ন তুলেছিল, প্রতিটি মুহূর্তে সব প্রয়োজন মেটানোর ক্ষমতা তিনি ছাড়া আর কার আছে, তার জোড়া মেলে এখানে। আর কারও যদি না থাকে, তবে তাঁর কোন নিয়ামত অস্বীকার করা যায়? আয়াত দুটি পাশাপাশি দাঁড়িয়ে জবাবটা শ্রোতার হাতে ছেড়ে দেয়।"
+          },
+          {
+            "en": "What would denial look like after such a verse? In the explanation al-Qurtubi quotes from Muhammad ibn Ali at-Tirmidhi, the denial of the two kinds was that they set up, in these very things that came from His dominion and power, a partner who owns with Him and has power with Him. After 55:29 that reading comes close: a need is met, and the credit goes to someone or something else. The verse describes those it addresses and licenses nothing against any living person; each listener is asked it for himself.",
+            "bn": "এমন আয়াতের পরে অস্বীকার দেখতে কেমন? কুরতুবী মুহাম্মাদ ইবন আলী তিরমিযীর যে ব্যাখ্যা উদ্ধৃত করেন, তাতে দুই জাতির অস্বীকার ছিল এই: তাঁর রাজত্ব ও কুদরত থেকে যা কিছু এসেছে, ঠিক সেসব জিনিসেই তারা তাঁর এমন শরিক দাঁড় করিয়েছিল, যে তাঁর সঙ্গে মালিক, তাঁর সঙ্গে ক্ষমতাবান। ৫৫:২৯ আয়াতের পরে এই পাঠটা খুব কাছে চলে আসে। প্রয়োজন মিটল, আর কৃতিত্ব গেল অন্য কারও বা অন্য কিছুর ঘরে। আয়াতটি যাদের সম্বোধন করছে তাদের বর্ণনা দেয় মাত্র। কোনো জীবিত মানুষের বিরুদ্ধে কিছু বলার অনুমতি দেয় না। প্রশ্নটা প্রত্যেক শ্রোতাকে করা হয় তার নিজের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recited Within the Idolaters' Hearing",
+          "bn": "মুশরিকদের কানের কাছে তিলাওয়াত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's comment under this refrain carries a report about the refrain itself. Imam Ahmad, he says, narrated it with a chain through Ibn Lahi'a, from Abu al-Aswad, from Urwa, that Asma' bint Abi Bakr (RA) said: I heard the Messenger of Allah ﷺ reciting while he prayed facing towards the Corner, before he proclaimed openly what he had been commanded, and the idolaters were listening: fa-bi-ayyi ala'i rabbikuma tukadhdhiban. Ibn Kathir attaches no grading to it, and it concerns the refrain in general, not this verse in particular.",
+            "bn": "এই প্রশ্নের নিচে ইবন কাসীরের আলোচনায় প্রশ্নটি নিয়েই একটি বর্ণনা আছে। তিনি বলেন, ইমাম আহমাদ সনদসহ এটি বর্ণনা করেছেন ইবন লাহিআর সূত্রে, আবুল আসওয়াদ থেকে, তিনি উরওয়া থেকে। আসমা বিনত আবী বকর (রাঃ) বলেন: আমি রাসূলুল্লাহ ﷺ-কে রুকনের দিকে মুখ করে নামাযে তিলাওয়াত করতে শুনেছি। তখনো তিনি যা আদিষ্ট হয়েছিলেন তা প্রকাশ্যে ঘোষণা করেননি, আর মুশরিকরা কান পেতে শুনছিল: ফাবিআইয়ি আলা-ই রাব্বিকুমা তুকাযযিবান। ইবন কাসীর বর্ণনাটির কোনো মান উল্লেখ করেননি। আর এটি প্রশ্নটি নিয়ে সাধারণভাবে, বিশেষ করে এই আয়াত নিয়ে নয়।"
+          },
+          {
+            "en": "Ibn Kathir closes the same comment with an answer to the refrain: we say as the jinn who believed said, O Allah, not any of Your favours, our Lord, do we deny; Yours is the praise. Ibn Abbas, he adds, would say: la bi-ayyiha ya rabb, not any of them, O Lord. The jinn's reply comes from the hadith of Jabir (RA) in Jami' at-Tirmidhi (3291), which at-Tirmidhi grades gharib; it is quoted in full in the article on 55:13. No commentary fetched for this verse attaches a sound hadith to 55:30 itself.",
+            "bn": "একই আলোচনা ইবন কাসীর শেষ করেন প্রশ্নটির একটি জবাব দিয়ে: ঈমান আনা জিনরা যা বলেছিল, আমরাও তা-ই বলি। হে আল্লাহ, হে আমাদের রব, তোমার কোনো নিয়ামতকেই আমরা অস্বীকার করি না, সব প্রশংসা তোমারই। তিনি আরও জানান, ইবন আব্বাস (রাঃ) বলতেন: লা বিআইয়িহা ইয়া রব্ব, হে রব, কোনোটাকেই না। জিনদের এই জবাব এসেছে জামি তিরমিযীতে (৩২৯১) জাবির (রাঃ)-এর হাদীসে, যাকে তিরমিযী নিজে গারীব বলেছেন। হাদীসটির পুরো পাঠ আছে ৫৫:১৩ আয়াতের প্রবন্ধে। এই আয়াতের জন্য আনা কোনো তাফসীরে ৫৫:৩০ আয়াতের সঙ্গে নির্দিষ্টভাবে যুক্ত কোনো সহীহ হাদীস পাওয়া যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Naming Yesterday's Turnings",
+          "bn": "গতকালের মোড়গুলোর নাম"
+        },
+        "p": [
+          {
+            "en": "What the commentators draw out at this verse gives a way of listening to it. As-Sa'di's two kinds of favour, of religion and of this world, widen the count beyond money and health. At-Tabari's gloss adds the turnings, including those whose benefit the listener cannot yet see, since He knows better. The early lists in Ibn Kathir and Ma'arif supply the names: a caller answered, a distress removed, a sin forgiven, a sick person cured. A reader who reaches the refrain at 55:30 can stop on one such affair from the day just past and name it.",
+            "bn": "এই আয়াতে তাফসীরকারেরা যা তুলে আনেন, তা আয়াতটা শোনার একটা পথ দেখায়। সা'দীর দুই রকম নিয়ামত, দ্বীনের আর দুনিয়ার, হিসাবটাকে টাকা-পয়সা আর সুস্থতার বাইরে নিয়ে যায়। তাবারীর ব্যাখ্যা এতে যোগ করে জীবনের মোড়গুলো, এমনকি সেগুলোও, যার উপকার শ্রোতা এখনো দেখতে পায় না, কারণ তিনিই ভালো জানেন। ইবন কাসীর ও মাআরিফুল কুরআনের তালিকা নামগুলো জুগিয়ে দেয়: কারও ডাকে সাড়া, কারও বিপদ দূর, কারও গুনাহ মাফ, কোনো রোগীর আরোগ্য। ৫৫:৩০ আয়াতে পৌঁছে পাঠক থামতে পারেন। পেরিয়ে আসা দিনটা থেকে এমন একটা কাজ বেছে নিয়ে তার নাম নিতে পারেন।"
+          },
+          {
+            "en": "This is not a call to treat loss as if it were nothing, or to tell someone in grief that the grief is itself a gift; no commentary fetched for this verse says that. The claim is narrower. The verse before says He is about some affair every day, and this verse asks whether any of it will be denied. At-Tabari's clause, what He knows better than you do, leaves room for a turning that still hurts to be counted under His care, without pretending that it does not hurt.",
+            "bn": "এর মানে এই নয় যে ক্ষতিকে কিছুই না বলে উড়িয়ে দিতে হবে। শোকে থাকা কাউকে এ কথা বলারও সুযোগ নেই যে তার শোকটাই একটা উপহার। এই আয়াতের জন্য আনা কোনো তাফসীর এমন কথা বলে না। দাবিটা এর চেয়ে ছোট। আগের আয়াত বলে, তিনি প্রতিদিন কোনো না কোনো কাজে আছেন, আর এই আয়াত জানতে চায়, তার কোনোটা কি অস্বীকার করা হবে? তাবারীর সেই কথা, যা তিনি তোমাদের চেয়ে বেশি জানেন, জায়গা রাখে এমন মোড়ের জন্যও, যা এখনো ব্যথা দেয়। সেটাকেও তাঁর তত্ত্বাবধানের হিসাবে ধরা যায়, ব্যথা নেই এমন ভান না করেই।"
+          },
+          {
+            "en": "Then the surah moves on quickly. Two verses later, at 55:32, the same four words return, after a warning this time rather than a gift. The listener who has just named one of the day's affairs as a favour, and answered as the believing jinn answered, comes to that warning having already said what the surah asks to hear: not any of Your favours, our Lord, do we deny.",
+            "bn": "তারপর সূরা দ্রুত এগিয়ে যায়। দুই আয়াত পরে, ৫৫:৩২ আয়াতে, একই চারটি শব্দ আবার ফিরে আসে, এবার কোনো দানের পরে নয়, এক সতর্কবাণীর পরে। যে শ্রোতা এইমাত্র দিনের একটি কাজকে নিয়ামত বলে চিনেছেন, আর ঈমান আনা জিনদের মতো জবাব দিয়েছেন, তিনি সেই সতর্কবাণীর কাছে পৌঁছান সূরা যে কথা শুনতে চায় তা আগেই বলে: হে আমাদের রব, তোমার কোনো নিয়ামতকেই আমরা অস্বীকার করি না।"
+          }
+        ]
+      }
+    ]
+  },
   "55:35": {
     "sections": [
       {
