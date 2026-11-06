@@ -24091,6 +24091,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard your heart against wanting another believer's shame to spread, and let an unproven story stop with you; Allah knows what you do not.",
     "lessonBn": "আরেক মুমিনের লজ্জা ছড়িয়ে পড়ুক, এমন চাওয়া থেকে অন্তরকে বাঁচিয়ে রাখুন। অপ্রমাণিত কোনো গল্প আপনার কাছে এসেই থেমে যাক। আল্লাহ জানেন যা আপনি জানেন না।"
+  },
+  "24:14": {
+    "reflectionEn": "The rebuke has already landed. A lie about an innocent believer passed from mouth to mouth, and those who repeated it never asked for proof. Then comes this verse, and it does not soften the charge. It tells them that a great punishment would have touched them for what they plunged into. Only one thing stood in the way: Allah's favour and His mercy, in this world and in the next. He held back the blow and opened the door of repentance, and they came through it. I have spoken about people I could not vouch for. How often has that same favour held back what my words had earned? And have I mistaken His patience for permission to keep talking?",
+    "reflectionBn": "ভর্ৎসনা আগেই এসে গেছে। এক নির্দোষ মু'মিনের নামে মিথ্যা কথা মুখে মুখে ঘুরেছে, আর যারা তা ছড়িয়েছে তারা কেউ প্রমাণ চায়নি। তারপর আসে এ আয়াত। অভিযোগটা এতে একটুও হালকা হয় না। আয়াত জানিয়ে দেয়, যে কথায় তারা ডুবে গিয়েছিল তার জন্য মহা শাস্তি তাদের ছুঁয়ে ফেলত। মাঝখানে বাধা ছিল একটাই: দুনিয়া ও আখিরাতে আল্লাহর অনুগ্রহ আর তাঁর রহমত। তিনি আঘাতটা থামিয়ে রাখলেন, তওবার দরজা খুলে দিলেন, আর তারা সে দরজা দিয়ে ফিরে এল। আমিও এমন মানুষের ব্যাপারে কথা বলেছি, যার সম্পর্কে নিশ্চিত করে কিছু জানতাম না। আমার কথার যা পাওনা ছিল, সেই একই অনুগ্রহ কতবার তা ঠেকিয়ে রেখেছে? আর তাঁর ধৈর্যকে কি আমি কথা চালিয়ে যাওয়ার অনুমতি ভেবে বসেছি?",
+    "pointsEn": [
+      "Which of my words about another person would I not want weighed if Allah's favour were taken away?",
+      "When a consequence is held back from me, do I read it as mercy calling me back, or as proof that what I did was small?",
+      "Have I plunged into a conversation only because everyone around me was in it, without asking whether I knew it to be true?",
+      "When someone who wronged others has repented, do I leave them the room that Allah's mercy left them?",
+      "Whose good name could I help restore this week, by refusing a story or by speaking the good I actually know?"
+    ],
+    "pointsBn": [
+      "আল্লাহর অনুগ্রহ সরে গেলে অন্যের ব্যাপারে আমার কোন কথাগুলো আমি মাপা হোক বলে চাইতাম না?",
+      "কোনো পরিণতি যখন আমার উপর থেকে সরে থাকে, আমি কি তাকে ফিরে আসার ডাক হিসেবে রহমত বলে বুঝি, নাকি ভাবি আমার কাজটা তুচ্ছই ছিল?",
+      "চারপাশের সবাই বলছে বলেই কি আমি কোনো আলাপে ডুবে গেছি, অথচ নিজেকে জিজ্ঞেস করিনি কথাটা সত্য বলে আমি জানি কি না?",
+      "যে মানুষ অন্যের উপর অন্যায় করে তওবা করেছে, আল্লাহর রহমত তার জন্য যে জায়গা রেখেছে, আমি কি তাকে সেটুকু জায়গা দিই?",
+      "এ সপ্তাহে কার সুনাম ফিরিয়ে আনতে আমি হাত লাগাতে পারি, কোনো গল্প ফিরিয়ে দিয়ে কিংবা যে ভালোটা সত্যিই জানি তা বলে?"
+    ],
+    "lessonEn": "If your words about others have not yet brought their punishment, thank Allah's favour and mercy for it, and answer that mercy with repentance rather than more talk.",
+    "lessonBn": "অন্যের ব্যাপারে বলা কথার শাস্তি যদি এখনো আপনাকে না ধরে থাকে, তা আল্লাহর অনুগ্রহ ও রহমতের দান; সে রহমতের জবাব দিন তওবা দিয়ে, আরও কথা দিয়ে নয়।"
   }
 };
 

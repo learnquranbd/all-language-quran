@@ -447,6 +447,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:14": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Lawla That Is Answered",
+          "bn": "যে লাওলার জবাব মেলে"
+        },
+        "p": [
+          {
+            "en": "The passage on the slander opened at 24:11, and two verses of reproach followed, each beginning with the small word lawla. In both the translation reads it as why: why did the believers not think well of one another (24:12), why did the accusers not bring four witnesses (24:13). Verse 14 opens with lawla too, but now it means were it not for. A rebuke for what was left undone becomes a statement of what they were spared.",
+            "bn": "অপবাদের অধ্যায় শুরু হয়েছে ২৪:১১ আয়াতে। তারপর ভর্ৎসনার দুটি আয়াত, দুটিরই শুরু একই ছোট্ট শব্দে: লাওলা। অনুবাদ দুই জায়গাতেই এর অর্থ করেছে 'কেন': মু'মিনরা কেন একে অপরের ব্যাপারে ভালো ধারণা করল না (২৪:১২), অভিযোগকারীরা কেন চারজন সাক্ষী আনল না (২৪:১৩)। ১৪ নম্বর আয়াতও লাওলা দিয়ে শুরু, কিন্তু এবার তার অর্থ 'যদি না থাকত'। যা করা হয়নি তার জন্য তিরস্কার এখানে এসে বদলে যায়। এবার বলা হচ্ছে, কী থেকে তাদের রেহাই দেওয়া হয়েছে।"
+          },
+          {
+            "en": "The same opening, were it not for Allah's favour upon you and His mercy, comes three times in this stretch of the surah. In 24:10 and 24:20 the sentence stops short, the translation marking the gap with an ellipsis; only here is the consequence spoken. Al-Qurtubi gives the grammar: fadl is the subject, its predicate left unexpressed, as the Arabs leave it. The answer of lawla, he adds, is dropped because its like is stated afterwards, and he quotes this verse, lamassakum, as that answer.",
+            "bn": "'তোমাদের প্রতি আল্লাহর অনুগ্রহ ও তাঁর রহমত না থাকলে', এই সূচনা সূরার এ অংশে তিনবার এসেছে। ২৪:১০ ও ২৪:২০ আয়াতে বাক্যটা মাঝপথে থেমে যায়, অনুবাদ সে ফাঁকটা তিনটি বিন্দু দিয়ে দেখায়। কী হতো, তা খুলে বলা হয়েছে কেবল এখানেই। কুরতুবী এ আয়াতের ব্যাখ্যায় ব্যাকরণটা বুঝিয়ে দেন। ফাদল শব্দটি উদ্দেশ্য, আর তার বিধেয় উহ্য, আরবরা যা মুখে আনে না। তিনি আরও বলেন, লাওলার জবাব বাদ দেওয়া হয়েছে কারণ তার মতো জবাব পরে উল্লেখ হয়েছে। তারপর সেই জবাব হিসেবে তিনি এ আয়াতটিই উদ্ধৃত করেন: লামাসসাকুম, তোমাদের ছুঁয়ে ফেলত।"
+          },
+          {
+            "en": "Al-Qurtubi names the tone of the verse in two clauses. It is, he says, an eloquent reproach from Allah, an ʿitab baligh; yet by His mercy He veiled them in this world, and in the Hereafter He has mercy on whoever comes to Him repenting. The verse does not cancel the rebuke before it. It sets the rebuke inside a mercy, so that those who hear it know both what they earned and why it did not reach them.",
+            "bn": "আয়াতের সুর কেমন, কুরতুবী তা দুই কথায় বলে দেন। তাঁর ভাষায় এটি আল্লাহর পক্ষ থেকে গভীর ভর্ৎসনা, ইতাব বালীগ। তবু তিনি নিজ রহমতে দুনিয়ায় তাদের দোষ ঢেকে রেখেছেন, আর আখিরাতে যে তওবা করে তাঁর কাছে আসবে তাকে রহম করবেন। আগের দুই আয়াতের তিরস্কার এ আয়াত মুছে দেয় না। তিরস্কারটাকে সে রহমতের ভেতরে রেখে দেয়। যারা শোনে তারা দুটোই জানে: কী তাদের প্রাপ্য ছিল, আর কেন তা তাদের কাছে পৌঁছায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Those Who Waded In",
+          "bn": "যারা কথায় নেমেছিল তাদের প্রতি"
+        },
+        "p": [
+          {
+            "en": "Whom does the you of this verse address? At-Tabari answers in his paraphrase: O you who plunged into the affair of ʿĀʾishah (RA), spreading the lie and the sin about her. Ibn Kathir opens with the same phrase, you who plunged into her matter. At-Tabari then cites Ibn Zayd, who says that this is for those who spoke and spread that talk. On this reading the verse turns to the speakers.",
+            "bn": "এ আয়াতের 'তোমরা' কারা? তাবারী তাঁর ব্যাখ্যাতেই উত্তর দেন: হে তোমরা, যারা আয়েশা (রাঃ)-র ব্যাপারে কথায় ডুবে গিয়েছিলে আর তাঁর নামে মিথ্যা ও গুনাহের কথা ছড়িয়েছিলে। ইবন কাসীরও শুরু করেন একই কথায়: তোমরা যারা তাঁর বিষয়ে কথায় নেমেছিলে। এরপর তাবারী ইবন যায়দের কথা আনেন। তিনি সোজা বলেন, এ আয়াত তাদের জন্য যারা কথা বলেছিল আর সে কথা ছড়িয়ে দিয়েছিল। এ পাঠে আয়াতের সম্বোধন তাদের প্রতি, যারা মুখ খুলেছিল।"
+          },
+          {
+            "en": "Ibn Kathir then narrows it further. This concerns, he says, those in whom there was faith, on account of which Allah granted them repentance, and he names Mistah, Hassan, and Hamnah bint Jahsh, the sister of Zaynab bint Jahsh. Ma'arif al-Qur'an reads it the same way: the verse came for believers who had by mistake become involved in the slander, then repented and begged Allah's pardon. Both name them as repenters, and the verse reaches them as mercy.",
+            "bn": "ইবন কাসীর এরপর পরিধিটা আরও ছোট করে আনেন। তাঁর কথায়, এ আয়াত তাদের ব্যাপারে যাদের অন্তরে ঈমান ছিল, আর সেই ঈমানের কারণেই আল্লাহ তাদের তওবার তাওফীক দিয়েছেন। তিনি নাম নেন মিসতাহ, হাসসান এবং যায়নাব বিনতে জাহশের বোন হামনা বিনতে জাহশের। মাআরিফুল কুরআনও আয়াতটি একইভাবে পড়ে। সেখানে বলা হয়েছে, এ আয়াত এসেছে সেই মু'মিনদের জন্য, যারা ভুল করে অপবাদে জড়িয়ে পড়েছিল, পরে তওবা করেছিল আর আল্লাহর কাছে ক্ষমা চেয়েছিল। দুই ব্যাখ্যাতেই যাদের নাম আসে, তারা আসে তওবাকারী হিসেবে। আয়াত তাদের কাছে পৌঁছায় রহমত হয়ে।"
+          },
+          {
+            "en": "Ibn Kathir draws one line in the other direction. Those of the hypocrites who plunged into it, such as ʿAbdullah ibn Ubayy ibn Salul and his like, are not meant in this verse, he says, because they had nothing of faith and righteous deeds to equal what they had done or to offset it. The rumour had carried believers and hypocrites along together. The verse, on his reading, separates them again, and the mercy it announces is for those whose faith remained.",
+            "bn": "অন্য দিকেও ইবন কাসীর একটা সীমারেখা টানেন। মুনাফিকদের মধ্যে যারা এ কথায় নেমেছিল, যেমন আবদুল্লাহ ইবন উবাই ইবন সালূল ও তার মতো লোকেরা, তারা এ আয়াতের উদ্দেশ্য নয়। কারণ, তাঁর ভাষায়, তাদের কাছে এমন ঈমান ও নেক আমল ছিল না যা তাদের কাজের সমান হতে পারে বা তার মোকাবিলা করতে পারে। গুজবটা মু'মিন আর মুনাফিক দুই দলকেই একসঙ্গে ভাসিয়ে নিয়েছিল। ইবন কাসীরের পাঠে আয়াত তাদের আবার আলাদা করে দেয়। আয়াতে ঘোষিত রহমত তাদের জন্য, যাদের ঈমান অটুট ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Favour That Stayed the Blow",
+          "bn": "অনুগ্রহ যখন আঘাত থামায়"
+        },
+        "p": [
+          {
+            "en": "The verse pairs two gifts, fadl and rahmah, favour and mercy, and at-Tabari gives each its own work. The favour was His leaving off hastening your punishment; the mercy, His pardoning you; and in this world and the Hereafter he explains as His accepting your repentance. The Muyassar runs on the same line: His goodness covered your religion and your worldly life, so He did not hasten your punishment, and He turned to whoever of you repented.",
+            "bn": "আয়াতে দুটি দান পাশাপাশি এসেছে: ফাদল আর রহমাহ, অনুগ্রহ আর দয়া। তাবারী দুটিকে আলাদা কাজ দেন। তাঁর ভাষায় অনুগ্রহ হলো তিনি তোমাদের শাস্তি তাড়াতাড়ি দেননি। রহমত হলো তিনি তোমাদের মাফ করেছেন। আর 'দুনিয়া ও আখিরাতে' কথাটির ব্যাখ্যা তাঁর কাছে এই: তিনি তোমাদের তওবা কবুল করেছেন। মুয়াসসারও একই পথে চলে। আল্লাহর ইহসান তোমাদের দ্বীন আর দুনিয়া দুটোকেই ঘিরে রেখেছিল। তাই তিনি শাস্তি ত্বরান্বিত করেননি, আর তোমাদের মধ্যে যে তওবা করেছে তার তওবা কবুল করেছেন।"
+          },
+          {
+            "en": "Ibn Kathir divides the two abodes: in this world He accepted their repentance and their turning back to Him, and for the Hereafter He pardoned them on account of their faith. As-Sa'di keeps the pair together, His goodness covering you in both, in your religion and in your worldly life. On each of these readings the mercy is more than a promise for later. Here it had already acted, holding the punishment back and taking the repentance in.",
+            "bn": "ইবন কাসীর দুই জগৎকে আলাদা করে দেখান। দুনিয়ায় আল্লাহ তাদের তওবা আর তাঁর দিকে ফিরে আসা কবুল করেছেন। আখিরাতের জন্য তাদের ঈমানের কারণে তিনি তাদের মাফ করে দিয়েছেন। সা'দী দুটোকে একসঙ্গে রাখেন। তাঁর কথায়, আল্লাহর ইহসান দুই জগতেই তোমাদের ঘিরে রেখেছে, তোমাদের দ্বীনের ব্যাপারেও, দুনিয়ার ব্যাপারেও। এর যেকোনো পাঠেই রহমত শুধু পরকালের ওয়াদা নয়। দুনিয়াতেই সে কাজ করে ফেলেছে: শাস্তি ঠেকিয়ে রেখেছে, তওবা কবুল করেছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an traces the worldly side of that mercy in steps: divine help to accept Islam and its faith; the company of the Prophet ﷺ, which it calls an impediment to punishment; help to repent sincerely and beg Allah's forgiveness; and at last the repentance accepted and the sin pardoned. In the Hereafter, it says, the sign of His favour and mercy is His promise to forgive and overlook. The last step of all waits on the sinner's turning.",
+            "bn": "মাআরিফুল কুরআন এ রহমতের দুনিয়ার দিকটা ধাপে ধাপে দেখায়। প্রথমে এসেছে ইসলাম ও ঈমান গ্রহণের তাওফীক। তারপর নবী ﷺ-এর সাহচর্য, যাকে সে শাস্তির পথে বাধা বলে। তারপর আন্তরিকভাবে তওবা করে আল্লাহর কাছে মাফ চাওয়ার তাওফীক। শেষে তওবা কবুল হয়েছে, গুনাহ মাফ হয়েছে। আখিরাতে এ অনুগ্রহ ও রহমতের নিদর্শন হলো, তিনি ক্ষমা করার আর দোষ উপেক্ষা করার ওয়াদা দিয়েছেন। শেষ ধাপটা অবশ্য গুনাহগারের ফিরে আসার অপেক্ষায় থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Torment Here or There",
+          "bn": "শাস্তি এখানে না ওখানে"
+        },
+        "p": [
+          {
+            "en": "What would the great punishment have been? The commentators differ. At-Tabari places it in this world: it would have touched you, in what you plunged into concerning her, hastened in this life, ʿajilan fi d-dunya. Al-Baghawi relays Ibn ʿAbbas the other way: a punishment with no end to it, meaning in the Hereafter. The reason given is that the punishment of this world had already been named in 24:11, for him who took upon himself the greater portion of it.",
+            "bn": "মহা শাস্তিটা কী হতো? এ প্রশ্নে তাফসীরকারদের মত ভিন্ন। তাবারী একে দুনিয়ার শাস্তি ধরেন। তাঁর কথায়, তাঁর ব্যাপারে যে কথায় তোমরা ডুবে গিয়েছিলে, তার জন্য এ দুনিয়াতেই শাস্তি দ্রুত তোমাদের ছুঁয়ে ফেলত, আজিলান ফিদ-দুনইয়া। বাগাভী ইবন আব্বাসের সূত্রে উল্টো কথা আনেন: এমন শাস্তি যার কোনো শেষ নেই, অর্থাৎ আখিরাতে। কারণ হিসেবে বলা হয়েছে, দুনিয়ার শাস্তির কথা আগেই ২৪:১১ আয়াতে এসে গেছে, যে লোক এর বড় অংশের দায় নিজের কাঁধে নিয়েছিল তার প্রসঙ্গে।"
+          },
+          {
+            "en": "Of that man al-Baghawi adds that the punishment did reach him: he was flogged and given the prescribed penalty. Al-Qurtubi reads both worlds. In his paraphrase the words in this world and the Hereafter follow the punishment, not the mercy: a great punishment would have touched you, because of what you said about ʿĀʾishah (RA), in this world and the Hereafter. Ma'arif al-Qur'an also reads both: a worldly punishment like that sent on earlier peoples, and a severe punishment in the Hereafter besides.",
+            "bn": "সেই লোক সম্পর্কে বাগাভী আরও বলেন, শাস্তি তার উপর এসেছিল: তাকে বেত্রাঘাত করা হয়েছিল আর নির্ধারিত দণ্ড দেওয়া হয়েছিল। কুরতুবী দুই জগৎই ধরেন। তাঁর ব্যাখ্যায় 'দুনিয়া ও আখিরাতে' কথাটি রহমতের পরে নয়, শাস্তির পরে বসে: আয়েশা (রাঃ)-র ব্যাপারে তোমরা যা বলেছ তার কারণে দুনিয়া ও আখিরাতে মহা শাস্তি তোমাদের ছুঁয়ে ফেলত। মাআরিফুল কুরআনও দুটোই ধরে। দুনিয়ায় শাস্তি আসতে পারত, আগের জাতিগুলোর উপর যেমন এসেছিল, আর আখিরাতে আসত কঠিন শাস্তি।"
+          },
+          {
+            "en": "The disagreement is worth keeping as it stands, because each reading teaches something. If the punishment was worldly, the mercy was that Allah did not hasten it. If it was of the Hereafter, the mercy was a pardon that reached past death. If it was both, the debt was larger than either alone. On no reading was it small. The verse that follows says the speakers counted it a light thing while with Allah it was tremendous (24:15).",
+            "bn": "মতভেদটা যেমন আছে তেমনই রাখা ভালো, কারণ প্রতিটি পাঠই কিছু শেখায়। শাস্তি দুনিয়ার হলে রহমত এই যে, আল্লাহ তা ত্বরান্বিত করেননি। আখিরাতের হলে রহমত এমন ক্ষমা, যা মৃত্যুর ওপারেও পৌঁছায়। দুটোই হলে ঋণটা আরও বড়। কোনো পাঠেই ব্যাপারটা ছোট নয়। পরের আয়াতই বলে, যারা কথাটা বলেছিল তারা একে তুচ্ছ ভেবেছিল, অথচ আল্লাহর কাছে তা ছিল গুরুতর (২৪:১৫)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held to Account for Talk",
+          "bn": "কথার জন্যই জবাবদিহি"
+        },
+        "p": [
+          {
+            "en": "The verse names what the punishment would have been for: fi ma afadtum fihi, for that in which you were involved, as the translation has it. Al-Qurtubi defines the word. Al-ifadah is taking up a conversation; one says afada al-qawmu fi l-hadith when people go into a piece of talk. And this, he adds, is the very thing on which the reproach fell. As-Sa'di and al-Baghawi both gloss afadtum with khudtum, you plunged, and at-Tabari and the Muyassar use the same verb in their paraphrase.",
+            "bn": "শাস্তি কী কারণে হতো, আয়াত তা নিজেই বলে দেয়: ফী মা আফাদতুম ফীহি, যে কথায় তোমরা মেতে উঠেছিলে তার জন্য। কুরতুবী শব্দটার অর্থ বুঝিয়ে দেন। ইফাদা মানে কোনো আলাপে লেগে যাওয়া। লোকেরা কোনো কথা নিয়ে মেতে উঠলে আরবিতে বলা হয়, আফাদাল কাওমু ফিল-হাদীস। কুরতুবী আরও বলেন, ভর্ৎসনা এসে পড়েছে ঠিক এ কাজটার উপরেই। সা'দী ও বাগাভী দুজনেই আফাদতুম শব্দের ব্যাখ্যা করেন খুদতুম দিয়ে, অর্থাৎ তোমরা ডুবে গিয়েছিলে। তাবারী আর মুয়াসসারও তাদের ব্যাখ্যায় একই ক্রিয়া ব্যবহার করেন।"
+          },
+          {
+            "en": "Notice the word the verse chooses. It is not a word for inventing a charge. It is afadtum: going into talk, joining a conversation and carrying it on. As-Sa'di is blunt about the weight of that: the great punishment would have touched you because you deserved it by what you said, li-stihqaqikum dhalika bi-ma qultum. Speech alone, on his reading, was enough to earn it. Nothing more had to be done with the hands.",
+            "bn": "আয়াত কোন শব্দটা বেছে নিয়েছে, খেয়াল করুন। অভিযোগ বানানোর কোনো শব্দ এখানে নেই। শব্দটা আফাদতুম: কথায় নেমে পড়া, একটা আলাপে যোগ দিয়ে তা এগিয়ে নেওয়া। এর ভার কতখানি, সা'দী তা সোজাসুজি বলেন: মহা শাস্তি তোমাদের ছুঁয়ে ফেলত, কারণ তোমরা যা বলেছ তার দরুন তোমরা তার যোগ্য হয়ে গিয়েছিলে, লিস্তিহকাকিকুম যালিকা বিমা কুলতুম। তাঁর পাঠে শুধু কথাই সে শাস্তি পাওনা করে দেওয়ার জন্য যথেষ্ট ছিল। হাত দিয়ে আর কিছু করার দরকার পড়েনি।"
+          },
+          {
+            "en": "This is uncomfortable for anyone who has passed on what they heard. Repeating may seem lighter than inventing, and to a degree the passage agrees, since 24:11 sets apart him who took the greater portion. But this verse tells the repeaters that their share was enough to call down a great punishment, held back only by favour. The verses around it go on to tongues and mouths (24:15), and to the words that should have been said instead (24:16).",
+            "bn": "যে কখনো শোনা কথা অন্যকে বলেছে, তার জন্য কথাটা অস্বস্তিকর। মনে হতে পারে, বানানোর চেয়ে বলে বেড়ানো হালকা। কিছুটা অধ্যায়টিও তা মানে, কারণ ২৪:১১ আয়াত বড় অংশের দায় যে নিয়েছিল তাকে আলাদা করে রেখেছে। কিন্তু এ আয়াত যারা কথা ছড়িয়েছিল তাদের জানিয়ে দেয়, তাদের ভাগটাও মহা শাস্তি ডেকে আনার জন্য যথেষ্ট ছিল। তা ঠেকিয়ে রেখেছে কেবল অনুগ্রহ। আশপাশের আয়াতগুলো এরপর জিভ আর মুখের কথা বলে (২৪:১৫), আর বলে তার বদলে কোন কথাটা বলা উচিত ছিল (২৪:১৬)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning With a Condition",
+          "bn": "শর্তে বাঁধা হুঁশিয়ারি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his comment with a rule that reaches well beyond this verse. Such, he says, is the way of every threat that comes for a specific act: it is stated without qualification, yet it is conditioned on there being no repentance, or nothing of righteous deeds to balance it or outweigh it. A threat in the Qur'an against a deed, read this way, is real. It is also not the last word on the person who did the deed.",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শেষ করেন এমন এক নিয়ম দিয়ে, যা এ আয়াত ছাড়িয়ে অনেক দূর যায়। তাঁর কথায়, নির্দিষ্ট কোনো কাজের উপর যে হুঁশিয়ারি আসে, তার ধরন এমনই। কথাটা শর্ত ছাড়া বলা হয়, কিন্তু তা বাঁধা থাকে একটা শর্তে: তওবা না থাকা, কিংবা এমন নেক আমল না থাকা যা তার সমান বা তার চেয়ে ভারী। এভাবে পড়লে কুরআনে কোনো কাজের বিরুদ্ধে হুঁশিয়ারি সত্যি। আবার যে কাজটা করেছে, তার ব্যাপারে সেটাই শেষ কথাও নয়।"
+          },
+          {
+            "en": "He applies the rule to the two groups he has already named. The believers had faith, and Allah made it the means of their repentance, so the threat that their words deserved did not fall on them. The hypocrites had nothing of faith or righteous deeds to set against what they had done, and so, he says, this verse does not speak to them. In his wording both groups had plunged into the same affair. The difference lay in what stood behind each speaker.",
+            "bn": "যে দুই দলের নাম তিনি আগে নিয়েছেন, এ নিয়ম তিনি তাদের উপর খাটান। মু'মিনদের ঈমান ছিল, আর আল্লাহ সে ঈমানকেই তাদের তওবার উপায় বানিয়ে দিয়েছেন। তাই তাদের কথার যে হুঁশিয়ারি পাওনা ছিল, তা তাদের উপর পড়েনি। মুনাফিকদের কাছে নিজেদের কাজের মোকাবিলায় রাখার মতো ঈমান বা নেক আমল কিছুই ছিল না। তাই তাঁর মতে এ আয়াত তাদের উদ্দেশ করে নয়। তাঁর ভাষায় দুই দলই একই ব্যাপারে কথায় নেমেছিল। পার্থক্য ছিল প্রত্যেক বক্তার পেছনে যা দাঁড়িয়ে ছিল তাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Penalty That Purifies",
+          "bn": "যে দণ্ড গুনাহ ধুয়ে দেয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di names one more gift folded into the favour and mercy of this verse. Of Allah's favour upon you, he says, is that He legislated repentance for you and made the punishment a purification for sins, jaʿala l-ʿuqubata mutahhiratan li-dh-dhunub. Ma'arif al-Qur'an notes that some of those involved were in fact punished. On as-Sa'di's reading, a penalty in this world for this sin is not the opposite of mercy. It is one of mercy's forms, clearing the account here so that it is not carried there.",
+            "bn": "এ আয়াতের অনুগ্রহ ও রহমতের ভেতরে আরও একটি দানের কথা সা'দী বলেন। তাঁর ভাষায়, তোমাদের প্রতি আল্লাহর অনুগ্রহের একটি হলো, তিনি তোমাদের জন্য তওবার বিধান দিয়েছেন আর শাস্তিকে গুনাহ থেকে পবিত্র হওয়ার উপায় বানিয়েছেন, জাআলাল উকূবাতা মুতাহহিরাতান লিয-যুনূব। মাআরিফুল কুরআন জানায়, জড়িতদের কয়েকজনকে সত্যিই শাস্তি দেওয়া হয়েছিল। সা'দীর পাঠে এ গুনাহের জন্য দুনিয়ার দণ্ড রহমতের বিপরীত নয়। বরং রহমতেরই এক রূপ, যা হিসাবটা এখানেই মিটিয়ে দেয়, যাতে তা ওপারে বয়ে নিতে না হয়।"
+          },
+          {
+            "en": "Al-Baghawi attaches a report to this verse: ʿAmrah narrated from ʿĀʾishah (RA) that when it came down, the Prophet ﷺ applied the prescribed penalty to four, ʿAbdullah ibn Ubayy, Hassan ibn Thabit, Mistah ibn Uthathah and Hamnah bint Jahsh. At-Tirmidhi records through ʿAmrah from ʿĀʾishah (RA): \"When my innocence was revealed, the Messenger of Allah (ﷺ) stood on the Minbar and mentioned that. He recited the Qur'an, and when he descended, he ordered that two men, and the woman, be beaten as their Hadd.\"",
+            "bn": "বাগাভী এ আয়াতের সঙ্গে একটি বর্ণনা জুড়ে দেন। আমরা আয়েশা (রাঃ) থেকে বর্ণনা করেছেন, এ আয়াত নাযিল হলে নবী ﷺ চারজনের উপর নির্ধারিত দণ্ড কার্যকর করেন। বাগাভী নাম নেন আবদুল্লাহ ইবন উবাই, হাসসান ইবন সাবিত, মিসতাহ ইবন উসাসা ও হামনা বিনতে জাহশের। তিরমিযী সেই আমরার সূত্রেই আয়েশা (রাঃ) থেকে বর্ণনা করেন: \"যখন আমার নির্দোষিতা নাযিল হলো, রাসূলুল্লাহ ﷺ মিম্বারে দাঁড়িয়ে বিষয়টি উল্লেখ করলেন। তিনি কুরআন তিলাওয়াত করলেন। আর নেমে এসে আদেশ দিলেন, দুজন পুরুষ ও সেই নারীকে তাদের হদ হিসেবে প্রহার করা হোক।\""
+          },
+          {
+            "en": "At-Tirmidhi (3181) grades it hasan gharib, known only through Muhammad ibn Ishaq, and its wording speaks of her innocence as a whole, not of this verse alone. Abu Dawud (4474) has it by the same chain, and a second chain (4475), without ʿĀʾishah (RA), names the two men as Hassan ibn Thabit and Mistah ibn Uthathah, an-Nufayli adding that the woman, people say, was Hamnah bint Jahsh. The collections speak of two men and a woman; al-Baghawi's report speaks of four, Ibn Ubayy among them. The difference stays unsettled here.",
+            "bn": "তিরমিযী (৩১৮১) হাদীসটিকে হাসান গরীব বলেছেন, আর জানিয়েছেন যে তা কেবল মুহাম্মাদ ইবন ইসহাকের সূত্রেই জানা যায়। এর ভাষা গোটা নির্দোষিতার কথা বলে, শুধু এ আয়াতের কথা নয়। আবু দাউদ (৪৪৭৪) একই সনদে তা বর্ণনা করেছেন। আরেকটি সনদে (৪৪৭৫), যেখানে আয়েশা (রাঃ)-র উল্লেখ নেই, দুই পুরুষের নাম এসেছে হাসসান ইবন সাবিত ও মিসতাহ ইবন উসাসা। সঙ্গে নুফাইলী যোগ করেছেন, লোকে বলে নারীটি ছিলেন হামনা বিনতে জাহশ। হাদীসগ্রন্থগুলো বলে দুজন পুরুষ ও একজন নারীর কথা, আর বাগাভীর বর্ণনা বলে চারজনের কথা, যাদের মধ্যে ইবন উবাইও আছে। পার্থক্যটা এখানে মীমাংসা না করেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cleared by Revelation",
+          "bn": "ওহির ঘোষণায় নির্দোষ"
+        },
+        "p": [
+          {
+            "en": "This verse stands inside the passage that cleared ʿĀʾishah (RA), and her innocence is the Qur'an's verdict, not an opinion. In her long account, recorded by al-Bukhari (4750) and Muslim (2770), she says that when that state passed from the Prophet ﷺ, the first words he spoke were: \"Aisha, Allah has declared your innocence.\" Allah then sent down, she says, the verses beginning Indeed, those who came with the slander are a group among you, ten verses in all, and this is among them.",
+            "bn": "এ আয়াত সেই অধ্যায়ের ভেতরে, যা আয়েশা (রাঃ)-কে নির্দোষ ঘোষণা করেছে। তাঁর নির্দোষিতা কারও মত নয়, কুরআনের রায়। আল-বুখারী (৪৭৫০) ও মুসলিম (২৭৭০) তাঁর দীর্ঘ বর্ণনা সংরক্ষণ করেছেন। সেখানে তিনি বলেন, ওহির সেই অবস্থা নবী ﷺ-এর উপর থেকে কেটে গেলে তাঁর মুখের প্রথম কথা ছিল: \"আয়েশা, আল্লাহ তোমার নির্দোষিতা ঘোষণা করেছেন।\" তারপর, তাঁর কথায়, আল্লাহ নাযিল করলেন সেই আয়াতগুলো, যার শুরু: যারা অপবাদ নিয়ে এসেছে তারা তোমাদেরই একটি দল। মোট দশটি আয়াত, আর এ আয়াতটি তাদের একটি।"
+          },
+          {
+            "en": "That needs saying plainly. The passage tells what happened in a particular community at a particular time, and its reproach and its mercy are addressed to those who took part. It licenses nothing against any living person or community, including any sect, and no reviving of the charge. What it leaves the reader is a warning about the tongue, a mercy that held back what the tongue had earned, and Allah's admonition never to return to the like of it (24:17).",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। অধ্যায়টি নির্দিষ্ট এক সময়ে নির্দিষ্ট এক সমাজে যা ঘটেছিল তার বর্ণনা দেয়। এর ভর্ৎসনা আর রহমত দুটোই তাদের উদ্দেশে, যারা সে ঘটনায় জড়িয়েছিল। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে, কোনো দল বা মতের বিরুদ্ধেও, এ আয়াত কিছুরই অনুমতি দেয় না। পুরোনো অভিযোগ আবার তোলারও না। পাঠকের জন্য সে রেখে যায় জিভ নিয়ে এক সতর্কবাণী, জিভের পাওনা শাস্তি ঠেকিয়ে রাখা এক রহমত, আর এমন কাজে কখনো না ফেরার জন্য আল্লাহর উপদেশ (২৪:১৭)।"
+          }
+        ]
+      }
+    ]
+  },
   "24:19": {
     "sections": [
       {
