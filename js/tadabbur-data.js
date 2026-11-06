@@ -26129,6 +26129,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whatever authority you hold, judge with truth and keep desire out of your verdicts; remembering the Day of Account is what keeps a judgement straight.",
     "lessonBn": "যে দায়িত্বই আপনার হাতে থাকুক, সত্য দিয়ে বিচার করুন আর রায় থেকে প্রবৃত্তিকে দূরে রাখুন; হিসাবের দিনকে মনে রাখাই রায়কে সোজা রাখে।"
+  },
+  "38:57": {
+    "reflectionEn": "Four Arabic words, and two of them are drinks. The verses before have shown a garden where fruit and drink come at a word; now the same small pointer, this, turns to the transgressors: so let them taste it, boiling water and ghassaq. The commentators give ghassaq more than one meaning, all of them things no one would choose to drink. The verse is not told to frighten me for its own sake. It is told now, while I can still choose what I drink and what I do, and while the way back to Allah is open. A warning heard in time is a mercy. Do I hear it as a description of others, or as a message sent to me?",
+    "reflectionBn": "আরবিতে মাত্র চারটি শব্দ, তার দুটিই পানীয়ের নাম। আগের আয়াতগুলোতে ছিল এক বাগান, যেখানে চাওয়ামাত্র ফল আর পানীয় হাজির হয়। এবার সেই ছোট্ট ইশারা, এই, ফিরল সীমালঙ্ঘনকারীদের দিকে: তাহলে তারা এর স্বাদ নিক, ফুটন্ত পানি আর গাসসাক। গাসসাক শব্দের একাধিক অর্থ তাফসীরকারেরা বলেছেন। প্রতিটিই এমন জিনিস, যা কেউ স্বেচ্ছায় মুখে তুলবে না। আয়াতটি আমাকে ভয় দেখানোর জন্যই ভয় দেখায় না। কথাটা বলা হচ্ছে এখন, যখন কী পান করব আর কী করব তা বেছে নেওয়ার সুযোগ আমার হাতে, আর আল্লাহর দিকে ফেরার পথ খোলা। সময় থাকতে শোনা সতর্কবাণী রহমতেরই অংশ। আমি কি একে অন্যদের বর্ণনা হিসেবে শুনি, নাকি আমার কাছে পাঠানো বার্তা হিসেবে?",
+    "pointsEn": [
+      "When I read of the Fire, do I picture someone else there, or do I ask what in my own life this warning is aimed at?",
+      "What is one habit I already know I should turn back from, and what keeps me postponing it?",
+      "The Garden's drink in 38:51 is called for and given; this drink is handed over. What does that contrast ask of my choices today?",
+      "Do I treat a warning from Allah as bad news, or as a door held open while there is still time?",
+      "How can I speak of these verses to others so that they turn people back, rather than pushing them away?"
+    ],
+    "pointsBn": [
+      "জাহান্নামের কথা পড়লে আমি কি সেখানে অন্য কাউকে কল্পনা করি, নাকি নিজেকে জিজ্ঞেস করি, আমার জীবনের কোন দিকটার দিকে এই সতর্কবাণী তাক করা?",
+      "এমন কোন অভ্যাস আছে, যা থেকে ফেরা দরকার বলে আমি আগে থেকেই জানি? আর কোন জিনিস আমাকে বারবার দেরি করায়?",
+      "৩৮:৫১ আয়াতে জান্নাতের পানীয় চাওয়ামাত্র দেওয়া হয়। আর এই পানীয় চাপিয়ে দেওয়া হয়। এই তফাত আজ আমার বাছাইগুলোর কাছে কী দাবি করে?",
+      "আল্লাহর দেওয়া সতর্কবাণীকে আমি কি দুঃসংবাদ মনে করি, নাকি সময় থাকতে খুলে রাখা এক দরজা?",
+      "এই আয়াতগুলোর কথা অন্যকে কীভাবে বলব, যাতে মানুষ দূরে সরে না গিয়ে ফিরে আসে?"
+    ],
+    "lessonEn": "The Fire's drink is described now so that it never has to be tasted; hear the warning as an open door and turn back to Allah while there is time.",
+    "lessonBn": "জাহান্নামের পানীয়ের বর্ণনা এখনই দেওয়া হলো, যাতে কখনো তার স্বাদ নিতে না হয়। সতর্কবাণীকে খোলা দরজা ভেবে শুনুন, আর সময় থাকতে আল্লাহর দিকে ফিরে আসুন।"
   }
 };
 

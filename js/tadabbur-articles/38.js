@@ -1935,6 +1935,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:57": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Drinks After the Resting Place",
+          "bn": "নিকৃষ্ট বিছানার পর দুই পানীয়"
+        },
+        "p": [
+          {
+            "en": "Hadha fal-yadhuquhu hamimun wa ghassaq: this, so let them taste it, boiling water and ghassaq. The verse has four Arabic words. It comes straight after 38:55 and 38:56, which turn from the Garden to the transgressors, at-taghin, and name their place of return: Hell, where they burn, and a wretched resting place it is. Then 38:58 adds other things of its kind, in pairs. Those three verses are context here; this article stays with the four words, the two drinks they name and what the commentators say each one is.",
+            "bn": "হাযা ফালইয়াযূকূহু হামীমুন ওয়া গাসসাক: এই, তাহলে তারা এর স্বাদ নিক, ফুটন্ত পানি আর গাসসাক। আয়াতে আরবি শব্দ মাত্র চারটি। এর ঠিক আগে ৩৮:৫৫ ও ৩৮:৫৬ আয়াত জান্নাত থেকে মুখ ফিরিয়েছে সীমালঙ্ঘনকারীদের দিকে, যাদের বলা হয়েছে আত-তাগীন। সেখানে তাদের ফেরার জায়গার নামও এসেছে: জাহান্নাম, যেখানে তারা জ্বলবে, আর কত নিকৃষ্ট সেই বিছানা! পরে ৩৮:৫৮ আয়াত যোগ করে একই ধরনের আরও নানা জিনিস, জোড়ায় জোড়ায়। এই তিনটি আয়াত এখানে শুধু প্রেক্ষাপট। এ লেখা থাকবে চারটি শব্দ নিয়েই: কোন দুই পানীয়ের নাম তারা নেয়, আর মুফাসসিরগণ সেগুলোকে কী বলে ব্যাখ্যা করেন।"
+          },
+          {
+            "en": "What does this point to? As-Sa'di says it points to that resting place: this severe punishment, with its disgrace, exposure and exemplary penalty. Al-Baghawi and al-Muyassar both say simply: this punishment. The same pointer runs through the surrounding verses, first holding up the Garden and then the Fire; the article on 38:53 counts it and is not repeated here. What matters for this verse is that the word gathers up what 38:56 has just named and sets it before the listener, before the two drinks are given their names.",
+            "bn": "এই বলতে কীসের দিকে ইশারা? সা'দী বলেন, সেই বিছানার দিকেই। অর্থাৎ এই কঠিন শাস্তি, সঙ্গে লাঞ্ছনা, অপমান আর দৃষ্টান্তমূলক সাজা। বাগাভী ও মুয়াসসার দুজনেই সংক্ষেপে বলেন: এই শাস্তি। একই ইশারা আশপাশের আয়াতগুলোতে বারবার আসে, প্রথমে জান্নাতকে দেখিয়ে, পরে জাহান্নামকে। ৩৮:৫৩ আয়াতের লেখায় সেই গণনা আছে, এখানে আর দোহরানো হলো না। এই আয়াতের বেলায় আসল কথা হলো, ৩৮:৫৬ আয়াত এইমাত্র যার নাম নিয়েছে, শব্দটি তা গুছিয়ে শ্রোতার সামনে রাখে। তারপরই আসে দুই পানীয়ের নাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Sentence Pauses",
+          "bn": "বাক্য কোথায় থামে"
+        },
+        "p": [
+          {
+            "en": "The order of the words has drawn the grammarians. At-Tabari reads the sense as: this is hamim and ghassaq, so let them taste it. The command, he says, is placed early while its meaning comes last. He allows a second reading too: this, so let them taste it, is complete, and then a fresh sentence begins, hamim and ghassaq, meaning of it is hamim and of it is ghassaq. Al-Baghawi reports the first reading from al-Farra'. Al-Qurtubi reports the second, of it this and of it that, as al-Farra''s view.",
+            "bn": "শব্দগুলোর বিন্যাস ব্যাকরণবিদদের নজর কেড়েছে। তাবারী অর্থটা পড়েন এভাবে: এই হলো হামীম আর গাসসাক, কাজেই তারা এর স্বাদ নিক। তাঁর মতে আদেশটা আগে বসেছে, অথচ অর্থের দিক থেকে তার জায়গা শেষে। দ্বিতীয় এক পাঠও তিনি মেনে নেন। সেখানে \"এই, তাহলে তারা এর স্বাদ নিক\" নিজেই পূর্ণ বাক্য। তারপর নতুন করে শুরু: হামীম আর গাসসাক, মানে এর কিছু হামীম, কিছু গাসসাক। বাগাভী প্রথম পাঠটি আনেন ফাররার নামে। আর কুরতুবী দ্বিতীয়টিকে, অর্থাৎ এর কিছু এটা কিছু ওটা, ফাররার মত হিসেবে উল্লেখ করেন।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the options. This can stand as the subject with let them taste it as its predicate, the fa entering because of the alerting force in this; then the reader pauses at fal-yadhuquhu and reads hamim as this is hamim. An-Nahhas, he reports, allows the matter is this. Or this can be the object of an unstated verb that the command explains, as in the phrase Zayd, strike him. Al-Qurtubi calls that reading preferable, again with the pause after the command and hamim and ghassaq read as the matter is hamim and ghassaq.",
+            "bn": "কুরতুবী সম্ভাবনাগুলো সাজিয়ে দেখান। এই শব্দটি উদ্দেশ্য হতে পারে, আর \"তারা এর স্বাদ নিক\" তার বিধেয়। ফা অক্ষরটি এসেছে এই শব্দের ভেতরের সতর্ক করার সুরের কারণে। তখন ফালইয়াযূকূহু-তে থেমে হামীম পড়তে হয় \"এ হলো হামীম\" অর্থে। কুরতুবী জানান, নাহহাস \"ব্যাপারটা এই\" অর্থও অনুমোদন করেন। আবার এই শব্দটি উহ্য এক ক্রিয়ার কর্মও হতে পারে, যার ব্যাখ্যা দেয় পরের আদেশটি। যেমন বলা হয়, যায়দকে, মারো তাকে। কুরতুবীর মতে এই পাঠই উত্তম। এখানেও আদেশের পরে থামতে হয়, আর হামীম ও গাসসাকের অর্থ দাঁড়ায়: ব্যাপারটা হলো হামীম আর গাসসাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water at the End of Heat",
+          "bn": "উত্তাপের শেষ সীমার পানি"
+        },
+        "p": [
+          {
+            "en": "The first drink raises little dispute. Ibn Kathir defines hamim as the hot thing whose heat has reached its end. At-Tabari says it has been boiled until its heat reached its end, and gives the same gloss from as-Suddi. Al-Baghawi calls it hot water whose heat has reached its end. As-Sa'di says it is hot water whose heat has grown intense, which they drink and which cuts through their bowels; the Qur'an itself says of those given boiling water to drink, in 47:15, that it tears their bowels apart.",
+            "bn": "প্রথম পানীয় নিয়ে মতভেদ সামান্য। ইবন কাসীর হামীমের সংজ্ঞা দেন: এমন গরম জিনিস, যার তাপ শেষ সীমায় পৌঁছে গেছে। তাবারী বলেন, একে ফোটানো হয়েছে যতক্ষণ না তাপ চূড়ান্তে পৌঁছায়, আর সুদ্দী থেকেও একই ব্যাখ্যা আনেন। বাগাভীর ভাষায়, এ এমন গরম পানি, যার তাপ শেষ সীমা ছুঁয়েছে। সা'দী বলেন, এ গরম পানি, যার তাপ তীব্র হয়ে উঠেছে। তারা তা পান করবে, আর তা তাদের নাড়িভুঁড়ি কেটে দেবে। কুরআন নিজেও ৪৭:১৫ আয়াতে ফুটন্ত পানি পান করানো লোকদের কথা বলে: তা তাদের নাড়িভুঁড়ি ছিন্নভিন্ন করে দেবে।"
+          },
+          {
+            "en": "One early voice reads hamim differently. Ibn Zayd, in at-Tabari and again in al-Qurtubi, says the hamim is the tears of their own eyes, gathered in pools of the Fire and given to them to drink. The other commentators keep to boiling water. The two readings do not exclude each other, but the commentaries do not reconcile them either, and this article leaves them side by side. The pair hamim and ghassaq appears once more in the Qur'an, in 78:25, after 78:24 says they will taste there neither coolness nor drink.",
+            "bn": "প্রথম যুগের একজন হামীমকে অন্যভাবে পড়েন। তাবারীতে এবং আবার কুরতুবীতে ইবন যাইদের কথা আছে: হামীম হলো তাদের নিজেদের চোখের পানি, জাহান্নামের হাউজে জমা করে তাদেরই পান করানো হবে। অন্য মুফাসসিরগণ ফুটন্ত পানির অর্থেই থাকেন। দুটি ব্যাখ্যা একে অপরকে বাতিল করে না। তবে তাফসীরগুলো এদের মিলিয়েও দেয়নি, তাই এ লেখা দুটিকে পাশাপাশি রেখে দিল। হামীম আর গাসসাকের এই জোড়া কুরআনে আরেকবার এসেছে, ৭৮:২৫ আয়াতে। তার আগে ৭৮:২৪ আয়াত বলে, সেখানে তারা কোনো শীতলতা বা পানীয়ের স্বাদ পাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ghassaq or Ghasaq",
+          "bn": "গাসসাক, নাকি গাসাক"
+        },
+        "p": [
+          {
+            "en": "The second word is recited two ways. Al-Baghawi says Hamza, al-Kisa'i and Hafs read ghassaq with a doubled s, and the others read it light, ghasaq. Al-Qurtubi gives the light reading to the people of Madina, Basra and some of Kufa, and the doubled reading to Yahya ibn Waththab, al-A'mash, Hamza and al-Kisa'i. At-Tabari assigns the light reading to most reciters of the Hijaz and Basra, some Kufans and Sham, who took it as a coined noun, and the doubled reading to most Kufans, who took it from ghasaqa, to flow.",
+            "bn": "দ্বিতীয় শব্দটির দুই রকম কিরাআত আছে। বাগাভী বলেন, হামযা, কিসাঈ ও হাফস পড়েন গাসসাক, অর্থাৎ স-কে দ্বিত্ব করে। বাকিরা পড়েন হালকা করে: গাসাক। কুরতুবীর বর্ণনায় হালকা পাঠ মদিনা, বসরা ও কুফার কিছু লোকের। আর দ্বিত্বের পাঠ ইয়াহইয়া ইবন ওয়াসসাব, আ'মাশ, হামযা ও কিসাঈর। তাবারী হালকা পাঠটি দেন হিজায ও বসরার অধিকাংশ কারী, কুফার কিছু কারী এবং শামের কারীদের নামে, যাঁরা একে স্বতন্ত্র নাম হিসেবে নিয়েছেন। দ্বিত্বের পাঠ তাঁর মতে কুফার অধিকাংশ কারীর, যাঁরা একে নিয়েছেন গাসাকা ধাতু থেকে, যার মানে গড়িয়ে পড়া।"
+          },
+          {
+            "en": "Does the spelling change the sense? Al-Qurtubi reports al-Akhfash: two dialect forms with one meaning. Others, he says, separate them: the light form is a noun like 'adhab, and the doubled form is an intensive, like darrab, one who strikes much. At-Tabari judges both to be readings of learned reciters, so whoever recites either is right, though he finds the doubled form more complete because it is the one known in speech. Al-Qurtubi notes that if the word means what flows, the doubled form is the one to choose, on the pattern of sayyal, much-flowing.",
+            "bn": "বানান বদলালে কি অর্থ বদলায়? কুরতুবী আখফাশের মত আনেন: এ দুটি একই অর্থের দুই আঞ্চলিক রূপ। আবার কেউ কেউ, তিনি বলেন, দুটিকে আলাদা করেন। তাঁদের মতে হালকা রূপটি আযাবের মতো একটি নাম, আর দ্বিত্বের রূপটি আধিক্য বোঝায়, যেমন দাররাব মানে যে খুব মারে। তাবারীর রায়, দুটিই বিজ্ঞ কারীদের পাঠ, তাই যে-কোনোটি পড়লেই পাঠক সঠিক। তবু তাঁর কাছে দ্বিত্বের রূপটি বেশি পূর্ণ, কারণ কথাবার্তায় এটাই প্রচলিত। কুরতুবী বলেন, শব্দটির অর্থ যদি হয় যা গড়িয়ে পড়ে, তবে দ্বিত্বের রূপই বেশি মানানসই, সাইয়াল শব্দের ধাঁচে, যার মানে প্রচুর প্রবাহিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Flows From the Dwellers",
+          "bn": "অধিবাসীদের দেহ থেকে যা ঝরে"
+        },
+        "p": [
+          {
+            "en": "The meaning at-Tabari lists first is the discharge of the people of the Fire. At-Tabari opens his list with it: what flows from their skins, of pus and blood. From Qatada he reports: we used to be told that ghassaq is what flows from between his skin and his flesh. Ibrahim says it is what flows from their bodies and falls from their skins, and Ibn Zayd that it is the pus gathered from their skins in pools, given to them to drink. As-Suddi, in at-Tabari and al-Qurtubi, makes it the tears flowing from their eyes, drunk with the hamim.",
+            "bn": "তাবারী প্রথমে যে অর্থটি আনেন তা হলো জাহান্নামবাসীদের দেহ থেকে ঝরা তরল। তাবারী তাঁর তালিকা এ দিয়েই শুরু করেন: তাদের চামড়া থেকে যে পুঁজ আর রক্ত গড়িয়ে পড়ে। কাতাদা থেকে তিনি বর্ণনা করেন: আমাদের বলা হতো, গাসসাক হলো চামড়া আর মাংসের ফাঁক থেকে যা ঝরে। ইবরাহীমের মতে, তাদের দেহ থেকে যা গড়িয়ে পড়ে আর চামড়া থেকে যা খসে যায়, তা-ই গাসসাক। ইবন যাইদ বলেন, তাদের চামড়া থেকে বেরোনো পুঁজ হাউজে জমা করে তাদেরই পান করানো হবে। তাবারী ও কুরতুবী সুদ্দীর মত আনেন: চোখ থেকে ঝরা অশ্রু, যা হামীমের সঙ্গে পান করানো হবে।"
+          },
+          {
+            "en": "Two more voices belong to this meaning. At-Tabari narrates from 'Abd Allah ibn 'Amr (RA) that he asked what ghassaq is and answered: thick pus; were a drop of it poured out in the west, the people of the east would be filled with its stench. Al-Qurtubi carries the same, and adds Muhammad ibn Ka'b: it is what is wrung from the people of the Fire. Al-Muyassar keeps this sense alone, discharge flowing from their bodies, and as-Sa'di calls it the most loathsome of drinks, of pus and discharge, bitter to taste and foul in smell.",
+            "bn": "এই অর্থের পক্ষে আরও দুটি মত আছে। তাবারী আবদুল্লাহ ইবন আমর (রাঃ) থেকে আনেন: তিনি জিজ্ঞেস করলেন, গাসসাক কী? তারপর নিজেই জবাব দিলেন, ঘন পুঁজ। তার এক ফোঁটা পশ্চিমে ঢেলে দিলে পূর্বের মানুষ দুর্গন্ধে অতিষ্ঠ হয়ে যেত। কুরতুবীও একই কথা আনেন, সঙ্গে মুহাম্মাদ ইবন কা'বের মত: জাহান্নামবাসীদের দেহ নিংড়ে যা বেরোয়। মুয়াসসার কেবল এই অর্থটিই রাখে: তাদের দেহ থেকে গড়িয়ে পড়া পুঁজ। আর সা'দী একে বলেন সবচেয়ে ঘৃণ্য পানীয়, পুঁজ আর ক্ষরণে তৈরি, স্বাদে তিক্ত, গন্ধে জঘন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cold Past Bearing, and Stench",
+          "bn": "অসহ্য শীত, আর দুর্গন্ধ"
+        },
+        "p": [
+          {
+            "en": "A second meaning runs the other way. Al-Baghawi reports Ibn Abbas (RA): it is the zamharir, the bitter cold, which burns them with its cold as the Fire burns them with its heat; al-Qurtubi's text of the same report has it frighten them with its cold. Mujahid and Muqatil, in both, say it is cold that has reached its limit, al-Qurtubi adding snow. At-Tabari reports Mujahid: a cold that cannot be borne. Ibn Kathir takes this side outright: ghassaq is the opposite of hamim, the cold that cannot be endured for the severity of its painful chill.",
+            "bn": "দ্বিতীয় অর্থ চলে উল্টো দিকে। বাগাভী ইবন আব্বাস (রাঃ)-এর কথা আনেন: এ হলো যামহারীর, তীব্র ঠান্ডা, যা তার শীতলতা দিয়ে তাদের পোড়াবে, যেমন আগুন পোড়ায় তার তাপ দিয়ে। কুরতুবীর পাঠে একই বর্ণনায় আছে, শীত দিয়ে তা তাদের ভয় দেখাবে। দুজনের কাছেই মুজাহিদ ও মুকাতিলের মত: এমন ঠান্ডা, যা চরমে পৌঁছেছে। কুরতুবী এর সঙ্গে বরফের কথা যোগ করেন। তাবারী মুজাহিদ থেকে আনেন: এমন শীত, যা সহ্য করা যায় না। ইবন কাসীর সরাসরি এই পক্ষ নেন। তাঁর কথায়, গাসসাক হামীমের বিপরীত, এমন ঠান্ডা যার যন্ত্রণাদায়ক তীব্রতা সহ্য করা যায় না।"
+          },
+          {
+            "en": "A third meaning is smell. Ad-Dahhak, in at-Tabari, says it is said to be the coldest cold, while others say it is the most rank of stenches. At-Tabari also reports 'Abd Allah ibn Buraydah: ghassaq is the stinking, and it is a Tukhari word; al-Baghawi has it was said: the stinking, in the tongue of the Turks. Ka'b, in at-Tabari and al-Qurtubi, calls ghassaq a spring in Hell into which flows the venom of every venomous creature, snake or scorpion. And al-Qurtubi notes, as it was said, a derivation from darkness: ghasaq is the first darkness of night, the word of 17:78.",
+            "bn": "তৃতীয় অর্থ গন্ধের। তাবারীতে দাহহাক বলেন, বলা হয় এ হলো সবচেয়ে কঠিন ঠান্ডা, আবার কেউ বলেন, না, এ হলো সবচেয়ে উৎকট দুর্গন্ধ। তাবারী আবদুল্লাহ ইবন বুরায়দার কথাও আনেন: গাসসাক মানে দুর্গন্ধময়, আর শব্দটি তুখারি ভাষার। বাগাভী 'বলা হয়' কথাটি জুড়ে লেখেন: তুর্কিদের ভাষায় এর অর্থ দুর্গন্ধময়। তাবারী ও কুরতুবীতে কা'বের মত আছে: গাসসাক জাহান্নামের এক ঝরনা, যেখানে সাপ, বিচ্ছুসহ প্রতিটি বিষধর প্রাণীর বিষ এসে জমা হয়। আর কুরতুবী 'বলা হয়' বলে অন্ধকার থেকে আসা এক ব্যুৎপত্তির কথাও জানান। গাসাক হলো রাতের প্রথম আঁধার, ১৭:৭৮ আয়াতের সেই শব্দ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Sense the Scholars Weigh",
+          "bn": "কোন অর্থ কে বেছে নেন"
+        },
+        "p": [
+          {
+            "en": "Here the commentators genuinely differ. At-Tabari holds the most correct view to be that ghassaq is the pus that flows from them, because that is the dominant sense of ghusuq, though he grants the other view a sound aspect. Ibn Kathir names the opposite: intense, unbearable cold. Al-Qurtubi judges Muhammad ibn Ka'b's reading closest to the language, since Arabic says ghasaqa al-jurh when a wound runs with yellow fluid; yet he also cites a line of verse where ghasiq means cold, and notes that night is called ghasiq because it is colder than day.",
+            "bn": "এখানে মুফাসসিরদের মধ্যে সত্যিকারের মতভেদ আছে। তাবারীর মতে সবচেয়ে সঠিক কথা হলো, গাসসাক তাদের দেহ থেকে ঝরা পুঁজ। কারণ গুসূক শব্দের প্রধান অর্থ এটাই। তবে অন্য মতটিরও যুক্তিসংগত দিক আছে, তা তিনি মেনে নেন। ইবন কাসীর ঠিক উল্টোটা বলেন: তীব্র, অসহ্য ঠান্ডা। কুরতুবীর বিচারে মুহাম্মাদ ইবন কা'বের ব্যাখ্যাই ভাষার সবচেয়ে কাছাকাছি। ক্ষত থেকে হলদে পানি বেরোলে আরবরা বলে গাসাকাল জুরহ। আবার তিনি এক কবিতার চরণও আনেন, যেখানে গাসিক মানে ঠান্ডা। আর বলেন, রাতকে গাসিক বলা হয়, কারণ রাত দিনের চেয়ে ঠান্ডা।"
+          },
+          {
+            "en": "Al-Qurtubi closes by allowing two derivations at once: ghassaq may flow and also be black and dark, so that the sense of flowing and the sense of darkness both hold, and Allah knows best. Ibn Kathir's choice of cold fits how he reads the next verse, 38:58, other things of its kind, in pairs: a thing and its opposite, and others he reports give intense cold beside intense heat. Al-Hasan al-Basri, whom he reports, says only: different kinds of punishment, and al-Muyassar says kinds and varieties. This article keeps the meanings side by side, as the sources do, and chooses none.",
+            "bn": "শেষে কুরতুবী একসঙ্গে দুটি ব্যুৎপত্তিই মেনে নেন। গাসসাক গড়িয়েও পড়তে পারে, আবার কালো ও অন্ধকারও হতে পারে। তাতে গড়িয়ে পড়ার অর্থ আর আঁধারের অর্থ দুটিই টেকে, আর আল্লাহই ভালো জানেন। ইবন কাসীরের ঠান্ডার অর্থ বেছে নেওয়া মিলে যায় পরের আয়াত ৩৮:৫৮ নিয়ে তাঁর ব্যাখ্যার সঙ্গে। সেখানে একই ধরনের আরও নানা জিনিস জোড়ায় জোড়ায়, অর্থাৎ একটি জিনিস ও তার বিপরীত। অন্যদের যে মত তিনি আনেন, তাতে তীব্র শীতের পাশে আছে তীব্র উত্তাপ। তিনি হাসান বাসরীর যে কথা আনেন, তাতে আছে শুধু: নানা রকম শাস্তি। মুয়াসসারও বলে, নানা ধরন ও প্রকার। সূত্রগুলোর মতো এ লেখাও অর্থগুলো পাশাপাশি রাখল, কোনোটিকে বেছে নিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Bucket, and a Weak Link",
+          "bn": "এক বালতি, আর দুর্বল এক সূত্র"
+        },
+        "p": [
+          {
+            "en": "One narration traced to the Prophet ﷺ mentions ghassaq by name. At-Tabari gives it from Abu Sa'id al-Khudri (RA), and al-Qurtubi cites it from at-Tirmidhi. At-Tirmidhi records it (2584), in a group of three reports carried by one chain: \"If a bucket of Ghassaq were poured out in the world, the people of the world would rot.\" Of that chain at-Tirmidhi says that he knows the hadith only through Rishdin ibn Sa'd, and that Rishdin has been criticised for his memory. Al-Qurtubi adds that the report fits the first derivation, of flowing.",
+            "bn": "নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনায় গাসসাকের নাম সরাসরি এসেছে। তাবারী এটি আনেন আবু সাঈদ খুদরী (রাঃ) থেকে, আর কুরতুবী উদ্ধৃত করেন তিরমিযী থেকে। তিরমিযী (২৫৮৪) এটি বর্ণনা করেছেন একই সনদের তিনটি বর্ণনার একটি হিসেবে: \"যদি গাসসাকের এক বালতি দুনিয়াতে ঢেলে দেওয়া হতো, তবে দুনিয়ার মানুষ দুর্গন্ধে পচে যেত।\" এই সনদ সম্পর্কে তিরমিযী নিজেই বলেন, রিশদীন ইবন সা'দের সূত্র ছাড়া তিনি হাদিসটি জানেন না, আর স্মৃতিশক্তির কারণে রিশদীনের সমালোচনা হয়েছে। কুরতুবী যোগ করেন, বর্ণনাটি প্রথম ব্যুৎপত্তি, অর্থাৎ গড়িয়ে পড়ার অর্থের সঙ্গেই বেশি মেলে।"
+          },
+          {
+            "en": "So the collector himself has placed a reservation on this report, and it is given here with that reservation, not as the ground of any reading. At-Tabari's route reaches Abu Sa'id through Ibn Wahb, 'Amr ibn al-Harith and Darraj, and no fetched source grades it. None of the commentaries consulted for this verse attaches to it a hadith that its collector graded sound. The meanings above rest on the language and on the early commentators named, not on this narration. Nor do the fetched sources give an occasion of revelation for 38:57; the verse is read in its place, within the description of 38:55 to 38:58.",
+            "bn": "অর্থাৎ সংকলক নিজেই এই বর্ণনার উপর আপত্তির কথা রেখে গেছেন। এখানেও তা সেই আপত্তিসহ উল্লেখ করা হলো, কোনো ব্যাখ্যার ভিত্তি হিসেবে নয়। তাবারীর সনদ ইবন ওয়াহব, আমর ইবনুল হারিস ও দাররাজ হয়ে আবু সাঈদ (রাঃ) পর্যন্ত পৌঁছেছে, আর সংগৃহীত কোনো সূত্র সেই সনদের মান বলেনি। এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটিই এর সঙ্গে এমন হাদিস যুক্ত করেনি, যাকে সংকলক সহীহ বলেছেন। উপরের অর্থগুলো দাঁড়িয়ে আছে ভাষা আর নাম-উল্লেখ করা প্রথম যুগের মুফাসসিরদের উপর, এই বর্ণনার উপর নয়। সংগৃহীত সূত্রগুলোতে ৩৮:৫৭ আয়াতের কোনো শানে নুযূলও নেই। তাই আয়াতটি পড়া হলো তার নিজের জায়গায়, ৩৮:৫৫ থেকে ৩৮:৫৮ পর্যন্ত চলা বর্ণনার ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told Now, Not Tasted Then",
+          "bn": "এখন শোনা, যাতে চাখতে না হয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: the drink of at-taghin, the transgressors named in 38:55, in the Hereafter. It licenses nothing against any living person or community, and gives no one a right to say who will drink it. The commentators' details are reported above only as far as they go, and this article adds nothing to them. The purpose of such a verse is not to linger over suffering. It is a warning, given in this world, to people who can still hear it and still change course.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: আখিরাতে আত-তাগীনের পানীয়, যাদের কথা ৩৮:৫৫ আয়াতে এসেছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কে এ পানীয় পান করবে, তা বলে দেওয়ার অধিকারও কাউকে দেয় না। মুফাসসিরদের দেওয়া বিবরণ উপরে ততটুকুই এসেছে, যতটুকু তাঁরা বলেছেন। এ লেখা তাতে কিছু যোগ করেনি। এমন আয়াতের উদ্দেশ্য কষ্টের ছবিতে ডুবে থাকা নয়। এ এক সতর্কবাণী, দুনিয়াতেই দেওয়া, এমন মানুষদের জন্য যারা এখনো শুনতে পারে, এখনো পথ বদলাতে পারে।"
+          },
+          {
+            "en": "The passage itself points that way. A few verses on, in 38:65, the Messenger ﷺ is told to say: I am only a warner; and 38:66 closes the sentence by naming Allah al-'Aziz al-Ghaffar, the Exalted in Might, the Perpetual Forgiver. The warning and the forgiveness stand in the same breath. For the reader the lesson is not fear for its own sake but turning back today: leaving the wrong one already knows is wrong, asking Allah's forgiveness, and taking up the drink He offers in the Garden of 38:51 by the deeds that lead there.",
+            "bn": "আয়াতগুলোর ধারাও সেদিকেই ইশারা করে। কয়েক আয়াত পরে ৩৮:৬৫ আয়াতে রাসূল ﷺ-কে বলতে বলা হয়েছে: আমি তো কেবল একজন সতর্ককারী। আর ৩৮:৬৬ আয়াত সেই কথা শেষ করে আল্লাহর দুটি নাম দিয়ে: আল-আযীয, মহাপরাক্রমশালী, আল-গাফফার, বারবার ক্ষমাকারী। সতর্কবাণী আর ক্ষমা একই নিঃশ্বাসে এসেছে। পাঠকের শিক্ষা তাই ভয়ের জন্য ভয় নয়, আজই ফিরে আসা। যে অন্যায়কে অন্যায় বলে জানি তা ছেড়ে দেওয়া, আল্লাহর কাছে মাগফিরাত চাওয়া। আর ৩৮:৫১ আয়াতে জান্নাতের যে পানীয়ের কথা এসেছে, সেখানে পৌঁছে দেওয়া আমলের পথ ধরা।"
+          }
+        ]
+      }
+    ]
+  },
   "38:62": {
     "sections": [
       {
