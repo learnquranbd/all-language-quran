@@ -27189,6 +27189,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A past failure does not close the door: the next call may be harder than the one you missed, and answering it is what counts.",
     "lessonBn": "পুরোনো ব্যর্থতা দরজা বন্ধ করে দেয় না। পরের ডাক হয়তো আগেরটার চেয়ে কঠিন হবে, আর সেই ডাকে সাড়া দেওয়াটাই আসল।"
+  },
+  "47:29": {
+    "reflectionEn": "Some people lived among the believers with two faces: warm words on the outside and a grudge pressed down inside. The verse puts one question to them: did you think Allah would never bring it out? What is held down in a heart does not stay held. It leaks into a turn of phrase, a look, a choice made under pressure. The next verse tells the Prophet ﷺ that he would know them by the tilt of their speech, a knowing that Allah gave him. It gives me no such sight into anyone else's heart. So the question turns back on the one reading it. What am I holding down that I hope will never surface, and would I rather clean it out before Allah brings it out?",
+    "reflectionBn": "মুমিনদের মাঝে কিছু মানুষ থাকত দুই চেহারা নিয়ে। বাইরে মিষ্টি কথা, ভেতরে চেপে রাখা বিদ্বেষ। আয়াতটি তাদের একটাই প্রশ্ন করে: তোমরা কি ভেবেছ, আল্লাহ এসব কখনো বের করে আনবেন না? অন্তরে যা চেপে রাখা হয়, তা চাপা থাকে না। কথার কোনো ভঙ্গিতে, কোনো চাহনিতে, চাপের মুখে নেওয়া কোনো সিদ্ধান্তে তা বেরিয়ে আসে। পরের আয়াত নবী ﷺ-কে জানায়, কথার ধরন শুনেই তিনি তাদের চিনবেন। এই চেনা আল্লাহরই দেওয়া। অন্য কারও অন্তর দেখার এমন কোনো ক্ষমতা আয়াতটি আমাকে দেয় না। তাই প্রশ্নটা ফিরে আসে যে পড়ছে তার দিকেই। আমি ভেতরে কী চেপে রেখেছি, যা কোনোদিন বেরিয়ে না পড়ুক বলে আশা করি? আল্লাহ তা বের করে আনার আগেই কি আমি নিজে তা সাফ করে ফেলতে চাই?",
+    "pointsEn": [
+      "Is there a resentment I keep pressed down while my words stay friendly, and toward whom?",
+      "When pressure comes, what comes out of me that I did not know was there?",
+      "Have I ever claimed to read hidden hatred in someone's words, when that knowing was given to the Prophet ﷺ by Allah and not to me?",
+      "Do my words ever carry a second meaning meant to wound, with a way kept open to deny it?",
+      "If what is in my heart were shown today, what would I most want to have cleaned out first?"
+    ],
+    "pointsBn": [
+      "মুখে বন্ধুত্বের কথা বলে কোনো ক্ষোভ কি আমি ভেতরে চেপে রাখি? সেটা কার বিরুদ্ধে?",
+      "চাপ এলে আমার ভেতর থেকে এমন কী বেরিয়ে আসে, যা আছে বলে আমি জানতামই না?",
+      "কারও কথার মধ্যে লুকানো বিদ্বেষ পড়ে ফেলেছি বলে কি কখনো দাবি করেছি? অথচ সেই চেনার ক্ষমতা আল্লাহ দিয়েছিলেন নবী ﷺ-কে, আমাকে নয়।",
+      "আমার কথায় কি কখনো আঘাত করার মতো দ্বিতীয় কোনো অর্থ থাকে, যা পরে অস্বীকার করার পথও খোলা রাখি?",
+      "আজই যদি আমার অন্তরের সবকিছু প্রকাশ হয়ে যেত, কোন জিনিসটা সবার আগে সাফ করে রাখতে চাইতাম?"
+    ],
+    "lessonEn": "Clean out the grudge you keep hidden before it surfaces, for Allah brings hidden things out; and never claim to read hidden hatred in another believer's heart.",
+    "lessonBn": "লুকিয়ে রাখা বিদ্বেষ বেরিয়ে পড়ার আগেই তা অন্তর থেকে সাফ করুন, কারণ আল্লাহ গোপন জিনিস বের করে আনেন। আর অন্য কোনো মুমিনের অন্তরে লুকানো ঘৃণা পড়ে ফেলার দাবি কখনো করবেন না।"
   }
 };
 

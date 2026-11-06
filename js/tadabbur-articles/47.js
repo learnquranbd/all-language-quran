@@ -899,6 +899,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "47:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question After Voided Deeds",
+          "bn": "নষ্ট আমলের পরে এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verses before this one have been describing a group: those who turned back after guidance had become clear to them (47:25), who told those who hated what Allah sent down, we will obey you in part of the matter (47:26), and whose deeds Allah rendered worthless (47:28). Then comes a question: am hasiba alladhina fi qulubihim maradun an lan yukhrija Allahu adghanahum. Or do those in whose hearts is disease think that Allah will never bring out their hatreds? Al-Baghawi and al-Qurtubi both gloss the subject in two words: meaning the hypocrites.",
+            "bn": "এর আগের আয়াতগুলো একটি দলের কথা বলে আসছে। সঠিক পথ স্পষ্ট হওয়ার পরেও তারা পিছনে ফিরে গেছে (৪৭:২৫)। আল্লাহর নাযিল করা বাণী যারা অপছন্দ করে, তাদের তারা বলেছে, কিছু ব্যাপারে আমরা তোমাদের কথা মানব (৪৭:২৬)। আর আল্লাহ তাদের আমল নষ্ট করে দিয়েছেন (৪৭:২৮)। এরপর আসে একটি প্রশ্ন: আম হাসিবাল্লাযীনা ফী কুলূবিহিম মারাদুন আল্লান ইউখরিজাল্লাহু আদগানাহুম। যাদের অন্তরে রোগ আছে, তারা কি ভাবে যে আল্লাহ কখনো তাদের বিদ্বেষ বের করে আনবেন না? বাগাভী ও কুরতুবী দুজনেই দুই শব্দে বলে দেন এরা কারা: মুনাফিকরা।"
+          },
+          {
+            "en": "What is the disease? At-Tabari describes it as doubt in their religion and weakness in their certainty, so that they are left bewildered in recognising the truth. Al-Qurtubi names it in two words, hypocrisy and doubt. As-Sa'di draws the circle wider: a disease of doubt (shubha) or of desire (shahwa), either of which takes the heart out of its health and balance. The first two describe a sickness of belief. As-Sa'di adds a sickness of wanting.",
+            "bn": "রোগটা কী? তাবারীর বর্ণনায় এ হলো দীনের ব্যাপারে সন্দেহ আর বিশ্বাসের দুর্বলতা, যার ফলে সত্য চিনতে গিয়ে তারা দিশেহারা। কুরতুবী দুই শব্দে নাম দেন: নিফাক আর সংশয়। সা'দী পরিধিটা বাড়িয়ে দেন। তাঁর মতে রোগটা হতে পারে সংশয়ের (শুবহা), আবার হতে পারে কামনার (শাহওয়া)। দুটোর যে কোনোটাই অন্তরকে তার সুস্থতা আর ভারসাম্য থেকে বের করে দেয়। প্রথম দুজন বলছেন বিশ্বাসের অসুখের কথা। সা'দী যোগ করছেন চাওয়ার অসুখ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Grudge Held Close",
+          "bn": "বুকে চেপে রাখা ক্ষোভ"
+        },
+        "p": [
+          {
+            "en": "Adghan is the plural of dighn. Ibn Kathir defines it as what souls harbour of envy and rancour towards Islam, its people and those who stand up to support it. Ma'arif al-Qur'an gives secret enmity, rancour and malice. Al-Qurtubi's first definition is what is concealed of the hateful, and he then records that the precise sense was disputed: as-Suddi said their deceit, Ibn Abbas said their envy, Qutrub said their enmity, and others said their rancours. Al-Baghawi also cites Ibn Abbas for envy.",
+            "bn": "আদগান শব্দটি দিগনের বহুবচন। ইবন কাসীরের সংজ্ঞায়, ইসলাম, মুসলমান আর ইসলামের সাহায্যে যারা দাঁড়ায় তাদের প্রতি মনের ভেতরে পুষে রাখা হিংসা ও আক্রোশ। মাআরিফুল কুরআন অর্থ দেয় গোপন শত্রুতা, আক্রোশ, বিদ্বেষ। কুরতুবীর প্রথম সংজ্ঞা: মনের ভেতরে লুকিয়ে রাখা অপ্রীতিকর জিনিস। এরপর তিনি জানান, সূক্ষ্ম অর্থ নিয়ে মতভেদ আছে। সুদ্দী বলেছেন তাদের প্রতারণা, ইবন আব্বাস (রাঃ) বলেছেন তাদের হিংসা, কুতরুব বলেছেন তাদের শত্রুতা, আর কেউ কেউ বলেছেন তাদের আক্রোশ। বাগাভীও ইবন আব্বাস (রাঃ) থেকে হিংসার অর্থটি আনেন।"
+          },
+          {
+            "en": "Al-Qurtubi's word notes carry two pictures. To ittaghana a child is to hold him under one's arm, tucked against the side. And a daghin horse is one that will not give the running it has in it unless it is struck. He draws no lesson from either, but a reader can see the shape of the thing: a grudge is held close and out of sight, and it yields what it holds only under pressure. He also quotes a line of Amr ibn Kulthum: grudge upon grudge spreads against you and brings out the buried disease.",
+            "bn": "শব্দের আলোচনায় কুরতুবী দুটি ছবি রেখে যান। ইদতাগানা মানে শিশুকে বগলের নিচে নিয়ে পাঁজরের সঙ্গে চেপে ধরা। আর দাগিন ঘোড়া সেটি, যার ভেতরে দৌড়ানোর শক্তি আছে, কিন্তু মার না খেলে তা দেয় না। এর কোনোটা থেকে তিনি কোনো শিক্ষা টানেন না। তবু পাঠক জিনিসটার আকার দেখতে পান। ক্ষোভ থাকে বুকের কাছে, চোখের আড়ালে। আর চাপ না এলে সে তার ভেতরের জিনিস বের করে না। কুরতুবী আমর ইবন কুলসুমের একটি পঙক্তিও উদ্ধৃত করেন: ক্ষোভের পর ক্ষোভ তোমার বিরুদ্ধে ছড়িয়ে পড়ে, আর বের করে আনে চাপা পড়া রোগ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brought Out, and Shown to Whom",
+          "bn": "বের করে আনা, কার সামনে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the bringing out as a showing: will Allah not bring out what is in their hearts of grudges against the believers, and show it to them and make it plain, so that the believers come to know their hypocrisy and their bewilderment in their religion? Al-Baghawi says the same in fewer words. Ibn Kathir frames it as their belief that Allah would not uncover their affair to His believing servants, and answers that He will make it clear and plain, so that people of insight understand them.",
+            "bn": "তাবারী বের করে আনাকে পড়েন দেখিয়ে দেওয়া হিসেবে। মুমিনদের বিরুদ্ধে তাদের অন্তরে যে ক্ষোভ, আল্লাহ কি তা বের করে মুমিনদের সামনে স্পষ্ট করে দেবেন না, যাতে মুমিনরা তাদের নিফাক আর দীন নিয়ে তাদের দিশেহারা অবস্থা চিনে ফেলে? বাগাভী একই কথা বলেন আরও সংক্ষেপে। ইবন কাসীর বিষয়টা সাজান তাদের ধারণা হিসেবে: আল্লাহ তাঁর মুমিন বান্দাদের সামনে তাদের ব্যাপারটা খুলে দেবেন না। তাঁর জবাব, অবশ্যই তিনি তা পরিষ্কার করে খুলে দেবেন, যাতে অন্তর্দৃষ্টিসম্পন্ন মানুষেরা তাদের বুঝে ফেলে।"
+          },
+          {
+            "en": "Where did that happen? Ibn Kathir answers: Allah sent down Surat Bara'a about it, laying open their scandals and the acts that pointed to their hypocrisy, and for that reason the surah used to be called al-Fadiha, the Exposer. At-Tabari, commenting on the next verse, relays from Ibn Abbas and from ad-Dahhak that Allah made them known to the Prophet ﷺ in Bara'a, where He said: never pray over any of them who dies (9:84), and: you will never go out with me (9:83).",
+            "bn": "এটা ঘটল কোথায়? ইবন কাসীরের উত্তর: আল্লাহ এ বিষয়ে সূরা বারাআত নাযিল করেন। সেখানে তিনি তাদের কেলেঙ্কারি আর নিফাকের প্রমাণ বহনকারী কাজগুলো খুলে দেখান। এ কারণেই সূরাটির আরেক নাম ছিল আল-ফাদিহা, অর্থাৎ যা মুখোশ খুলে দেয়। পরের আয়াতের আলোচনায় তাবারী ইবন আব্বাস (রাঃ) ও দাহহাক থেকে বর্ণনা আনেন যে আল্লাহ বারাআতেই নবী ﷺ-কে তাদের চিনিয়ে দিয়েছিলেন। সেখানে তিনি বলেন: তাদের কেউ মারা গেলে তুমি কখনো তার জানাযা পড়বে না (৯:৮৪)। আরও বলেন: তোমরা কখনো আমার সঙ্গে বের হবে না (৯:৮৩)।"
+          },
+          {
+            "en": "Notice the form the exposure takes in these readings. In Ibn Kathir's words, what Bara'a lays open is their scandals and the acts they relied on that pointed to their hypocrisy. The grudge is not lifted out of a heart and put on display; it is shown through what its owners did. The knowledge of who held these grudges came from Allah, through the verses He sent, and not from anyone's guess about another person's heart.",
+            "bn": "এই ব্যাখ্যাগুলোতে মুখোশ খোলার ধরনটা খেয়াল করার মতো। ইবন কাসীরের ভাষায়, বারাআত খুলে দেখায় তাদের কেলেঙ্কারি, আর তাদের সেই সব কাজ যা নিফাকের দিকে ইশারা করে। ক্ষোভটাকে অন্তর থেকে তুলে এনে প্রদর্শনীর মতো সাজিয়ে রাখা হয়নি। তা দেখানো হয়েছে তার মালিকদের কাজের মধ্য দিয়ে। কারা এই ক্ষোভ পুষে রাখত, সেই জ্ঞান এসেছিল আল্লাহর কাছ থেকে, তাঁর নাযিল করা আয়াতের মাধ্যমে। অন্যের অন্তর নিয়ে কারও অনুমান থেকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Hardship Draws to the Surface",
+          "bn": "কষ্টের সময় যা ভেসে ওঠে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di answers the question by appeal to Allah's wisdom. To think that Allah will not bring out what is in their hearts is, he says, a thought that does not befit His wisdom, because He must distinguish the truthful from the liar. The Muyassar closes on the same words: yes indeed, Allah distinguishes the truthful from the liar. As-Sa'di then names the means: trial by hardships. Whoever holds firm through them and whose faith endures is the believer in truth.",
+            "bn": "সা'দী প্রশ্নটির জবাব দেন আল্লাহর হিকমতের দিক থেকে। তিনি বলেন, আল্লাহ তাদের অন্তরের জিনিস বের করে আনবেন না, এমন ধারণা তাঁর হিকমতের সঙ্গে মানায় না। কারণ সত্যবাদীকে মিথ্যাবাদী থেকে আলাদা করা তাঁর জন্য অবধারিত। মুয়াসসারও শেষ করে একই কথায়: অবশ্যই, আল্লাহ সত্যবাদীকে মিথ্যাবাদী থেকে আলাদা করেন। এরপর সা'দী উপায়টার নাম বলেন: বিপদ-আপদের পরীক্ষা। যে তাতে অটল থাকে, যার ঈমান তার মধ্যেও টিকে থাকে, সে-ই প্রকৃত মুমিন।"
+          },
+          {
+            "en": "And the other? As-Sa'di describes one whom the trial turns back on his heels, who cannot bear it, and who, when the testing comes, panics and weakens in faith. Then what is in his heart of grudge comes out and his hypocrisy becomes plain. In his reading no one has to dig the grudge out. The person's own conduct under strain does it, which fits the restive horse in al-Qurtubi's word notes: what it holds comes out under pressure.",
+            "bn": "আর অন্যজন? সা'দী এমন একজনের ছবি দেন, পরীক্ষা যাকে পেছনের দিকে ফিরিয়ে দেয়। সে সহ্য করতে পারে না। পরীক্ষা আসতেই সে অস্থির হয়ে পড়ে, তার ঈমান দুর্বল হয়ে যায়। তখন তার অন্তরের ক্ষোভ বেরিয়ে আসে, নিফাক স্পষ্ট হয়ে যায়। এই ব্যাখ্যায় কাউকে খুঁড়ে খুঁড়ে ক্ষোভটা বের করতে হয় না। চাপের মুখে মানুষের নিজের আচরণই তা করে দেয়। কুরতুবীর শব্দ-আলোচনার সেই একগুঁয়ে ঘোড়ার সঙ্গে এর মিল আছে: ভেতরে যা আছে, চাপ এলে তা বেরিয়ে আসে।"
+          },
+          {
+            "en": "Two verses later, 47:31 says it outright: We will surely test you until We make evident those who strive among you and the patient. That verse has its own reflection here. The question of 47:29 is not answered by a sudden unveiling from outside. It is answered, again and again, by ordinary days that ask more of a person than words cost.",
+            "bn": "দুই আয়াত পরে ৪৭:৩১ কথাটা সরাসরি বলে: আমি অবশ্যই তোমাদের পরীক্ষা করব, যতক্ষণ না তোমাদের মধ্যে যারা জিহাদ করে আর যারা ধৈর্য ধরে, তাদের প্রকাশ করে দিই। ওই আয়াত নিয়ে এই সংকলনে আলাদা আলোচনা আছে। ৪৭:২৯-এর প্রশ্নের উত্তর বাইরে থেকে হঠাৎ কোনো পর্দা সরিয়ে আসে না। উত্তর আসে বারবার, সাধারণ দিনগুলোর ভেতর দিয়ে, যখন মুখের কথার চেয়ে বেশি কিছু দিতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Had We Willed, a Mark",
+          "bn": "চাইলে চিহ্ন দিয়েই"
+        },
+        "p": [
+          {
+            "en": "The next verse continues the thought: wa-law nasha'u la-araynakahum fa-la-'araftahum bi-simahum. Had We willed, We would have shown them to you, and you would have known them by their mark. At-Tabari and al-Baghawi take show them to you as make them known to you, and at-Tabari cites the Arab idiom I will show you what I do, meaning I will let you know. Al-Baghawi relays from az-Zajjaj: had We willed, We would have set a sign on the hypocrites by which you would know them.",
+            "bn": "পরের আয়াত ভাবনাটা এগিয়ে নেয়: ওয়ালাও নাশাউ লাআরাইনাকাহুম ফালাআরাফতাহুম বিসীমাহুম। আমি চাইলে তোমাকে তাদের দেখিয়ে দিতাম, আর তুমি তাদের চিহ্ন দেখেই চিনে ফেলতে। তাবারী ও বাগাভী দেখিয়ে দেওয়ার অর্থ নেন চিনিয়ে দেওয়া। তাবারী আরবদের একটি বাকরীতি উদ্ধৃত করেন: আমি কী করি তোমাকে দেখাব, মানে তোমাকে জানাব। বাগাভী যাজ্জাজ থেকে আনেন: আমি চাইলে মুনাফিকদের গায়ে এমন চিহ্ন দিয়ে দিতাম, যা দেখে তুমি তাদের চিনতে।"
+          },
+          {
+            "en": "Ibn Kathir notes what did not happen. Allah did not do this with all the hypocrites, he says, out of a covering He keeps over His creation, carrying affairs on the outward presumption of soundness, and returning secrets to the One who knows them. Ma'arif al-Qur'an makes the same point from the grammar: law, if, signals a supposition that does not occur or is unlikely, so His wisdom and clemency kept the rule that worldly matters are decided by what appears and matters of the heart are left to Allah.",
+            "bn": "যা ঘটেনি, ইবন কাসীর সেটার দিকে দৃষ্টি দেন। তিনি বলেন, আল্লাহ সব মুনাফিকের বেলায় এমনটা করেননি। এর কারণ, তিনি তাঁর সৃষ্টির উপর পর্দা রাখেন। বিষয়গুলোকে তিনি বাইরের নির্দোষ চেহারার উপর চলতে দেন, আর গোপন কথা ফিরিয়ে দেন তাঁর কাছে, যিনি তা জানেন। মাআরিফুল কুরআন একই কথা বলে ব্যাকরণ থেকে। লাও, অর্থাৎ যদি, এমন অনুমান বোঝায় যা ঘটে না বা ঘটার সম্ভাবনা কম। তাই আল্লাহর হিকমত ও সহনশীলতা এই নিয়ম বহাল রেখেছে: দুনিয়ার বিষয়ের ফয়সালা হবে বাইরের অবস্থা দেখে, আর অন্তরের ব্যাপার থাকবে আল্লাহর হাতে।"
+          },
+          {
+            "en": "The commentators differ on how far the showing went. At-Tabari, on the mark, adds that Allah did then make them known to him. Ibn Kathir says He did not do it with all of them. Either way the knowing ran from Allah to His Messenger ﷺ, and on Ma'arif's reading of the if, the general rule for everyone else stayed with what appears.",
+            "bn": "দেখিয়ে দেওয়া কতদূর গড়িয়েছিল, তা নিয়ে মুফাসসিরদের কথায় ফারাক আছে। চিহ্নের আলোচনায় তাবারী যোগ করেন, এরপর আল্লাহ সত্যিই নবী ﷺ-কে তাদের চিনিয়ে দিয়েছিলেন। ইবন কাসীর বলেন, সবার বেলায় তিনি এটা করেননি। যেভাবেই হোক, এই চেনা এসেছিল আল্লাহর কাছ থেকে তাঁর রাসূল ﷺ-এর কাছে। আর মাআরিফুল কুরআনের যদি-র ব্যাখ্যা অনুযায়ী, বাকি সবার জন্য সাধারণ নিয়ম রয়ে গেল বাইরের অবস্থার উপরেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speech Turned From Its Course",
+          "bn": "পথ বাঁকানো কথা"
+        },
+        "p": [
+          {
+            "en": "Wa-la-ta'rifannahum fi lahni l-qawl: and you will surely know them by the tone of their speech. Al-Qurtubi glosses lahn al-qawl as its drift and meaning. He traces the word to lahn in grammar, a departure from the correct form, and relays from Abu Zayd that lahantu lahu means I said something to him that he understood and that stayed hidden from others. Al-Baghawi says the root meaning is turning speech away from its direction.",
+            "bn": "ওয়ালাতা'রিফান্নাহুম ফী লাহনিল কাওল: আর তুমি অবশ্যই তাদের চিনবে তাদের কথার ধরন থেকে। কুরতুবী লাহনুল কাওলের ব্যাখ্যা দেন কথার ভেতরের ইঙ্গিত আর অর্থ হিসেবে। শব্দটির মূল তিনি খুঁজে পান ব্যাকরণের লাহনে, যার মানে শুদ্ধ রূপ থেকে সরে যাওয়া। আবু যায়দ থেকে তিনি আনেন, লাহানতু লাহু মানে আমি তাকে এমন কথা বললাম যা সে বুঝল, অথচ অন্যদের কাছে তা গোপন রইল। বাগাভী বলেন, শব্দটির মূল অর্থ কথাকে তার নিজের দিক থেকে ঘুরিয়ে দেওয়া।"
+          },
+          {
+            "en": "What did that sound like? Al-Baghawi says the Prophet ﷺ would know them by what they hinted at, belittling his affair and that of the Muslims and mocking them. Al-Qurtubi gives another view under it is said: the hypocrites addressed the Prophet ﷺ in words they had agreed on among themselves, and he took what he heard in its usual outward sense until Allah alerted him. Ibn Kathir relays a saying of Uthman (RA): no one hides a secret but Allah shows it on the pages of his face and the slips of his tongue.",
+            "bn": "কথাগুলো শোনাত কেমন? বাগাভী বলেন, তারা যে ইঙ্গিত দিত, তা দিয়েই নবী ﷺ তাদের চিনতেন। সেই ইঙ্গিতে থাকত তাঁর আর মুসলমানদের ব্যাপারকে হেয় করা আর তাদের নিয়ে ঠাট্টা। কুরতুবী 'বলা হয়' কথাটি জুড়ে আরেকটি মত আনেন। মুনাফিকরা নিজেদের মধ্যে ঠিক করে রাখা শব্দে নবী ﷺ-এর সঙ্গে কথা বলত। তিনি শুনতেন আর প্রচলিত বাইরের অর্থেই তা গ্রহণ করতেন, যতক্ষণ না আল্লাহ তাঁকে সতর্ক করে দেন। ইবন কাসীর উসমান (রাঃ)-এর একটি উক্তি আনেন: কেউ কোনো গোপন কথা লুকালে আল্লাহ তা ফুটিয়ে তোলেন তার চেহারার পাতায় আর তার জিভের অসতর্ক কথায়।"
+          },
+          {
+            "en": "As-Sa'di puts it in an image: tongues are the ladles of hearts, and what is in the heart, good or bad, comes up in them. Al-Baghawi and al-Qurtubi then relay from Anas (RA) that after this verse none of the hypocrites was hidden from the Messenger ﷺ, and al-Qurtubi adds from al-Kalbi that after it was revealed no hypocrite spoke in his presence without his knowing him. Al-Qurtubi adds that Allah made it known to him by revelation or by a sign He taught him. Both relay these without a chain or a grading.",
+            "bn": "সা'দী কথাটা বলেন একটি ছবিতে: জিভ হলো অন্তরের হাতা। অন্তরে ভালো-মন্দ যা আছে, জিভ দিয়েই তা উঠে আসে। এরপর বাগাভী ও কুরতুবী আনাস (রাঃ) থেকে বর্ণনা করেন যে এ আয়াতের পর কোনো মুনাফিক রাসূল ﷺ-এর কাছে গোপন থাকেনি। কুরতুবী কালবী থেকে আরও আনেন, আয়াতটি নাযিল হওয়ার পর কোনো মুনাফিক তাঁর সামনে কথা বললেই তিনি তাকে চিনে ফেলতেন। কুরতুবী আরও বলেন, আল্লাহ তাঁকে তা জানিয়েছিলেন ওয়াহীর মাধ্যমে, অথবা এমন কোনো আলামতের মাধ্যমে যা আল্লাহ নিজেই তাঁকে চিনিয়েছিলেন। দুজনেই এসব আনেন কোনো সনদ বা মান উল্লেখ ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearts Are Not Ours to Read",
+          "bn": "অন্তর পড়ার ভার আমাদের নয়"
+        },
+        "p": [
+          {
+            "en": "This has to be said plainly. The verse describes the hypocrites of the Prophet's time as the text describes them, and it licenses nothing against any living Muslim or community. It gives no one the right to accuse others of hidden hatred. The knowing in 47:30 was given to the Messenger ﷺ by Allah, by revelation or a sign Allah taught him, in al-Qurtubi's words. No reader inherits it. Whoever uses this verse to brand a fellow Muslim a secret enemy claims for himself a knowing that came only from Allah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-এর যুগের মুনাফিকদের বর্ণনা দেয়, কুরআন যেভাবে দিয়েছে ঠিক সেভাবে। আজকের কোনো জীবিত মুসলিম বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। অন্যের বিরুদ্ধে লুকানো বিদ্বেষের অভিযোগ তোলার অধিকার এটি কাউকে দেয় না। ৪৭:৩০-এর সেই চেনা আল্লাহ দিয়েছিলেন তাঁর রাসূল ﷺ-কে। কুরতুবীর ভাষায় তা এসেছিল ওয়াহী বা আল্লাহর শেখানো আলামতের মাধ্যমে। কোনো পাঠক তার উত্তরাধিকারী নয়। এ আয়াত দিয়ে যে কোনো মুসলিম ভাইকে গোপন শত্রু বলে দাগ দেয়, সে এমন জ্ঞান নিজের বলে দাবি করে, যা কেবল আল্লাহর কাছ থেকে এসেছিল।"
+          },
+          {
+            "en": "Even with that knowledge, the community dealt with what appeared. Ibn Zayd, relayed by at-Tabari and al-Qurtubi, says Allah showed them to the Prophet ﷺ and ordered that they be put out of the mosque, but they refused to let go of la ilaha illa Allah. Because they held to it, their blood was protected, and by it they married and were given in marriage. Ibn Kathir's phrase fits: affairs are carried on their outward soundness, and secrets are returned to Him who knows them.",
+            "bn": "এই জ্ঞান থাকার পরেও মুসলিম সমাজ চলেছে বাইরের অবস্থা দেখে। তাবারী ও কুরতুবী ইবন যায়দ থেকে আনেন: আল্লাহ নবী ﷺ-কে তাদের দেখিয়ে দিয়েছিলেন এবং মসজিদ থেকে তাদের বের করে দেওয়ার আদেশ দিয়েছিলেন। কিন্তু তারা লা ইলাহা ইল্লাল্লাহ আঁকড়ে থাকল, ছাড়ল না। এই কালিমা ধরে রাখার কারণেই তাদের রক্ত নিরাপদ রইল। এরই ভিত্তিতে তারা বিয়ে করল, তাদের সঙ্গে বিয়েও হলো। ইবন কাসীরের কথাটা এখানে খাপ খায়: বিষয়গুলো চলে বাইরের নির্দোষ চেহারার উপর, আর গোপন কথা ফিরে যায় তাঁর কাছে, যিনি তা জানেন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi cite a hadith for the word alhan; it is a general narration and not attached to this verse. Al-Bukhari (7169) records from Umm Salama (RA) that the Messenger of Allah ﷺ said: I am only a human being, and you bring your disputes to me, and perhaps one of you is more eloquent in his case than another, so I judge according to what I hear. So whoever I give something of his brother's right, let him not take it, for I am only cutting off for him a piece of the Fire. No sound hadith is attached to 47:29 itself in the commentaries read for it.",
+            "bn": "আলহান শব্দের আলোচনায় কুরতুবী ও বাগাভী একটি হাদীস আনেন। হাদীসটি সাধারণ, এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়। বুখারী (৭১৬৯) উম্মে সালামা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আমি তো একজন মানুষমাত্র। তোমরা তোমাদের বিবাদ নিয়ে আমার কাছে আস। হতে পারে তোমাদের কেউ নিজের দাবি অন্যজনের চেয়ে বেশি গুছিয়ে বলতে পারে, আর আমি যা শুনি সে অনুযায়ী ফয়সালা করি। তাই আমি যাকে তার ভাইয়ের হক থেকে কিছু দিয়ে দিই, সে যেন তা না নেয়। কারণ আমি তো তাকে আগুনের একটা টুকরো কেটে দিচ্ছি। এই তাফসীরগুলোতে ৪৭:২৯-এর সঙ্গে কোনো সহীহ হাদীস যুক্ত পাওয়া যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "And Allah Knows Your Deeds",
+          "bn": "আর আল্লাহ তোমাদের আমল জানেন"
+        },
+        "p": [
+          {
+            "en": "Verse 47:30 does not end with the hypocrites. Its last clause turns to everyone listening: wa-Allahu ya'lamu a'malakum, and Allah knows your deeds. At-Tabari explains that whoever among you acts in obedience to Him is not hidden from Him, nor whoever goes against it, and He will repay all of you for them. The address has widened from them to you.",
+            "bn": "৪৭:৩০ আয়াত মুনাফিকদের কথায় শেষ হয় না। তার শেষ বাক্য ফিরে তাকায় শ্রোতাদের সবার দিকে: ওয়াল্লাহু ইয়া'লামু আ'মালাকুম, আর আল্লাহ তোমাদের আমল জানেন। তাবারী ব্যাখ্যা করেন, তোমাদের মধ্যে কে তাঁর আনুগত্যে আমল করে আর কে তার বিপরীত চলে, কেউই তাঁর কাছে গোপন নয়। আর তিনি তোমাদের সবাইকে সে অনুযায়ী প্রতিদান দেবেন। সম্বোধন এখন তাদের থেকে সরে এসেছে তোমাদের দিকে।"
+          },
+          {
+            "en": "So the verse is a poor weapon and a good mirror. As-Sa'di's disease included desire as well as doubt, and a grudge against a brother can sit pressed down in a heart that has never doubted Islam. The question, did you think Allah would never bring it out, is best answered by whoever carries it, and early: not by hiding it more skilfully, but by letting it go. What is cleared out of the heart has nothing left to surface, on the tongue or anywhere else.",
+            "bn": "তাই এ আয়াত অস্ত্র হিসেবে অচল, আয়না হিসেবে চমৎকার। সা'দীর বর্ণনায় রোগের মধ্যে সংশয়ের পাশাপাশি কামনাও ছিল। আর কোনো ভাইয়ের বিরুদ্ধে ক্ষোভ এমন অন্তরেও চেপে বসে থাকতে পারে, ইসলাম নিয়ে যার কখনো কোনো সন্দেহ জাগেনি। তোমরা কি ভেবেছিলে আল্লাহ এটা কখনো বের করে আনবেন না? এ প্রশ্নের সবচেয়ে ভালো জবাব দিতে পারে সে নিজেই, যে ক্ষোভটা বয়ে বেড়াচ্ছে, আর তা আগেভাগেই। আরও নিপুণভাবে লুকিয়ে নয়, বরং ক্ষোভটা ছেড়ে দিয়ে। অন্তর থেকে যা সাফ হয়ে গেছে, জিভে বা অন্য কোথাও তার ভেসে ওঠার আর কিছু থাকে না।"
+          }
+        ]
+      }
+    ]
+  },
   "47:31": {
     "sections": [
       {
