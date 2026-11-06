@@ -26569,6 +26569,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Saying 'our Lord is Allah' is the beginning; staying upright on it, in belief and in obedience, until the end is what the angels' good news is promised to.",
     "lessonBn": "‘আমাদের রব আল্লাহ’ বলা শুরু মাত্র। বিশ্বাসে ও আনুগত্যে শেষ পর্যন্ত এর উপর অবিচল থাকা, ফেরেশতাদের সুসংবাদ তারই জন্য।"
+  },
+  "41:44": {
+    "reflectionEn": "Had it come in a foreign tongue, they would have said: why are its verses not made clear? A foreign book and an Arab messenger? It came in their own language, and they refused it anyway. So the verse stops arguing about language and turns to the listener. The same Qur'an is guidance and healing for those who believe, and for those who do not, a heaviness in the ears and a blindness. They are like people being called from a far place, who hear a voice but not the words. The distance is not in the voice. When I read or hear the Qur'an, am I near enough to catch what it says, or calling it unclear to excuse myself?",
+    "reflectionBn": "বিদেশি ভাষায় এলে তারা বলত: এর আয়াতগুলো স্পষ্ট করে বলা হলো না কেন? কিতাব অনারবি আর রাসূল আরব? কুরআন এল তাদের নিজেদের ভাষাতেই, তবু তারা মানল না। তাই আয়াতটি ভাষা নিয়ে তর্ক থামিয়ে শ্রোতার দিকে ফেরে। একই কুরআন ঈমানদারদের জন্য হিদায়াত আর শিফা। আর যারা ঈমান আনে না, তাদের কানে ভার, চোখে অন্ধত্ব। তারা যেন অনেক দূর থেকে ডাক শুনছে: আওয়াজ কানে আসে, কথা বোঝা যায় না। দূরত্বটা কিন্তু ডাকের মধ্যে নয়। কুরআন যখন পড়ি বা শুনি, আমি কি এতটা কাছে থাকি যে কথাগুলো ধরতে পারি? নাকি নিজের দায় এড়াতে বলি, বোঝা যায় না?",
+    "pointsEn": [
+      "Which part of the Qur'an have I called unclear, when the truth is that I never sat down long enough to understand it?",
+      "Has an objection about the messenger or the manner ever kept me from facing the message itself?",
+      "What doubt, fear or hardness in my heart do I want the Qur'an to heal, and have I asked it to?",
+      "When the same verse moves one person and leaves another cold, what does that tell me about where the difference lies?",
+      "What would help me hear the Qur'an from near this week: its meaning, a quieter hour, or a heart less already decided?"
+    ],
+    "pointsBn": [
+      "কুরআনের কোন অংশকে আমি অস্পষ্ট বলেছি, অথচ আসল কথা হলো বোঝার জন্য যথেষ্ট সময় নিয়ে কখনো বসিইনি?",
+      "রাসূল কে বা কথাটা কীভাবে এল, এমন কোনো আপত্তি কি কখনো আমাকে বার্তাটার মুখোমুখি হতে দেয়নি?",
+      "মনের কোন সন্দেহ, ভয় বা কাঠিন্য আমি চাই কুরআন সারিয়ে দিক? সে জন্য কি কখনো তার কাছে গেছি?",
+      "একই আয়াত একজনকে নাড়িয়ে দেয়, আরেকজনকে ছুঁয়েও যায় না। পার্থক্যটা তাহলে কোথায়?",
+      "এ সপ্তাহে কাছ থেকে কুরআন শুনতে কী আমাকে সাহায্য করবে: অর্থ জানা, একটু নিরিবিলি সময়, নাকি আগে থেকে সিদ্ধান্ত না নেওয়া একটা মন?"
+    ],
+    "lessonEn": "The Qur'an came clear and in its hearers' own tongue; whether it guides and heals or leaves a person deaf and blind depends on the heart that receives it.",
+    "lessonBn": "কুরআন এসেছে স্পষ্ট হয়ে, শ্রোতাদের নিজের ভাষায়। তা হিদায়াত ও শিফা হবে, নাকি মানুষকে বধির ও অন্ধ রেখে দেবে, সেটা নির্ভর করে গ্রহণকারী মনের উপর।"
   }
 };
 

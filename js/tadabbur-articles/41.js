@@ -1631,6 +1631,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Complaint Staged in Advance",
+          "bn": "আগেভাগে সাজানো এক আপত্তি"
+        },
+        "p": [
+          {
+            "en": "Just before this, the surah spoke of those who disbelieved in the Reminder when it came to them, and called the Qur'an a mighty Book that falsehood cannot approach from before it or behind it, 41:41 and 41:42. Then 41:43 told the Prophet ﷺ that nothing is said to him except what was said to the messengers before him. This verse takes up one thing being said to him. It opens with law, the word for a condition that never came true: and had We made it a non-Arabic Qur'an.",
+            "bn": "এর ঠিক আগে সূরাটি তাদের কথা বলেছে, যারা যিকর তথা উপদেশবাণী আসার পর তা অস্বীকার করেছে। কুরআনকে বলেছে এক মহাপরাক্রমশালী কিতাব, যার সামনে বা পেছন থেকে মিথ্যা ঢুকতে পারে না (৪১:৪১ ও ৪১:৪২)। তারপর ৪১:৪৩ আয়াত নবী ﷺ-কে জানিয়েছে, তাঁকে যা বলা হচ্ছে তা আগের রাসূলদেরও বলা হয়েছিল। এ আয়াত ধরেছে তাঁকে বলা তেমনই একটা কথা। শুরু হয়েছে 'লাও' দিয়ে, যা এমন শর্তের শব্দ যা বাস্তবে ঘটেনি: আর আমি যদি একে অনারবি কুরআন বানাতাম।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse as a sequel. Allah had just described the Qur'an's eloquence and the precision of its wording and meaning, and still the idolaters did not believe. So He points out that their disbelief is a disbelief of 'inad and ta'annut, stubbornness and the hunt for difficulties. Ibn Kathir sets it beside 26:198 and 26:199, where even a non-Arab reciting it to them would not have won their belief. That verse imagines a foreign messenger; this verse imagines a foreign book. Either way, the answer they would give is already known.",
+            "bn": "ইবন কাসীর আয়াতটিকে পড়েন আগের কথার ধারাবাহিকতা হিসেবে। আল্লাহ এইমাত্র কুরআনের বাগ্মিতা আর শব্দে ও অর্থে তার নিখুঁত গাঁথুনির কথা বলেছেন। তবু মুশরিকরা ঈমান আনেনি। তাই তিনি ধরিয়ে দেন, তাদের কুফর হলো 'ইনাদ ও তা'আন্নুত, অর্থাৎ জেদ আর ইচ্ছে করে জটিলতা খোঁজা। ইবন কাসীর এর পাশে রাখেন ২৬:১৯৮ ও ২৬:১৯৯ আয়াত, যেখানে কোনো অনারব তাদের কাছে তা পড়ে শোনালেও তারা ঈমান আনত না। সে আয়াত কল্পনা করে বিদেশি রাসূল, আর এ আয়াত কল্পনা করে বিদেশি কিতাব। যেটাই হোক, তাদের জবাব আগে থেকেই জানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Foreign Book, an Arab Prophet",
+          "bn": "কিতাব অনারবি, নবী আরব"
+        },
+        "p": [
+          {
+            "en": "The objection they would have raised has two parts. The first is lawla fussilat ayatuhu: why were its verses not made clear? Al-Qurtubi glosses it as made clear in our language, for we are Arabs and do not understand the foreign tongue. The second is a-a'jamiyyun wa-'arabiyy: something foreign, and an Arab? Al-Baghawi fills in the nouns: a foreign book and an Arab messenger? He calls it a question asked in rejection.",
+            "bn": "তারা যে আপত্তি তুলত, তার দুটি অংশ। প্রথমটি 'লাওলা ফুসসিলাত আয়াতুহু': এর আয়াতগুলো স্পষ্ট করে বলা হলো না কেন? কুরতুবী ব্যাখ্যা করেন: আমাদের ভাষায় স্পষ্ট করা হলো না কেন, আমরা তো আরব, অনারবি ভাষা বুঝি না। দ্বিতীয়টি 'আ-আ'জামিয়্যুন ওয়া 'আরাবিয়্যুন': অনারবি আর আরব? বাগাভী শব্দ দুটো পূরণ করে দেন: কিতাব অনারবি আর রাসূল আরব? তাঁর মতে এটি অস্বীকারের সুরে করা প্রশ্ন।"
+          },
+          {
+            "en": "At-Tabari gathers what the early generation said. Sa'id ibn Jubayr: had this Qur'an been foreign, they would have said, the Qur'an is foreign and Muhammad is an Arab. Mujahid: foreign of speech and Arab of man. As-Suddi gives their voice: we are an Arab people; what have we to do with foreignness? Ibn Kathir reports this meaning from Ibn 'Abbas, Mujahid, 'Ikrima, Sa'id ibn Jubayr, as-Suddi and others, and puts it as a question: how could foreign speech be sent down to an Arab addressee who does not understand it?",
+            "bn": "প্রথম যুগের আলেমরা কী বলেছেন, তাবারী তা একত্র করেন। সাঈদ ইবন জুবাইর বলেন: এ কুরআন অনারবি হলে তারা বলত, কুরআন অনারবি আর মুহাম্মাদ আরব। মুজাহিদ বলেন: কথা অনারবি, মানুষটা আরব। সুদ্দী তাদের মুখের কথাটাই তুলে আনেন: আমরা আরব জাতি, অনারবি ভাষার সঙ্গে আমাদের কী সম্পর্ক? ইবন কাসীর এই অর্থ বর্ণনা করেন ইবন আব্বাস (রাঃ), মুজাহিদ, ইকরিমা, সাঈদ ইবন জুবাইর, সুদ্দী ও অন্যদের সূত্রে। তিনি প্রশ্নটা এভাবে রাখেন: যে আরব শ্রোতা অনারবি ভাষা বোঝে না, তার কাছে অনারবি কথা নাযিল হয় কী করে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question, or a Report",
+          "bn": "প্রশ্ন, নাকি বিবরণ"
+        },
+        "p": [
+          {
+            "en": "The reciters read a-a'jamiyyun in several ways, and al-Qurtubi lists them. Abu Bakr, Hamza and al-Kisa'i read it with two hamzas, both pronounced, as a question. The people of the Hijaz, Abu 'Amr, Ibn Dhakwan and Hafs also read it as a question, but soften the second hamza, following their usual practice. On all of these readings the clause is, in al-Qurtubi's words, a question of rejection, asked by people who had already decided.",
+            "bn": "'আ-আ'জামিয়্যুন' শব্দটি কারীরা একাধিকভাবে পড়েছেন, কুরতুবী তার তালিকা দেন। আবু বাকর, হামযা ও কিসাঈ পড়েছেন দুটি হামযা পুরোপুরি উচ্চারণ করে, প্রশ্নবোধক রূপে। হিজাযের কারীরা, আবু আমর, ইবন যাকওয়ান ও হাফসও প্রশ্ন হিসেবেই পড়েছেন। তবে নিজেদের নিয়ম অনুযায়ী তাঁরা দ্বিতীয় হামযাটি নরম করে উচ্চারণ করেন। কুরতুবীর ভাষায়, এসব পাঠের প্রতিটিতে বাক্যাংশটি অস্বীকারের প্রশ্ন। প্রশ্নকর্তারা আগেই মন ঠিক করে রেখেছে।"
+          },
+          {
+            "en": "Another group read it with a single hamza, as a statement: al-Hasan, Abu al-'Aliya, Nasr ibn 'Asim, al-Mughira, and Hisham from Ibn 'Amir. The sense then, al-Qurtubi says, is: why were its verses not divided, some Arabic for the Arabs to understand and some foreign for the non-Arabs? At-Tabari ties this to a report from Sa'id ibn Jubayr that Quraysh asked for a Qur'an partly foreign and partly Arabic. The report is a Successor's word, not an established occasion of revelation. Ibn Kathir calls this reading more extreme in obstinacy.",
+            "bn": "আরেক দল একটি হামযা দিয়ে, বিবরণ হিসেবে পড়েছেন: হাসান, আবুল আলিয়া, নাসর ইবন আসিম, মুগীরা, আর ইবন আমিরের সূত্রে হিশাম। কুরতুবী বলেন, তখন অর্থ দাঁড়ায়: এর আয়াতগুলো ভাগ করে দেওয়া হলো না কেন, কিছু আরবি যাতে আরবরা বোঝে, কিছু অনারবি যাতে অনারবরা বোঝে? তাবারী এ পাঠকে যুক্ত করেন সাঈদ ইবন জুবাইরের একটি বর্ণনার সঙ্গে, যাতে আছে কুরাইশ এমন কুরআন চেয়েছিল যার কিছু অনারবি, কিছু আরবি। বর্ণনাটি একজন তাবিঈর কথা, নাযিলের প্রতিষ্ঠিত কোনো প্রেক্ষাপট নয়। ইবন কাসীর বলেন, এই পাঠে জেদ আরও চরম।"
+          },
+          {
+            "en": "Both scholars who weigh the readings come down on the same side. At-Tabari says the right reading is the one the reciters of the cities follow, the question, because the authorities agree on it. Al-Qurtubi closes his note: the sound reading is the reading as a question. Yet both readings picture the same people. In one they reject an imagined foreign book; in the other they ask for a mixed one. Either way the objection was ready before any book arrived.",
+            "bn": "যে দুজন আলেম পাঠগুলো যাচাই করেছেন, দুজনেই একই দিকে গেছেন। তাবারী বলেন, সঠিক পাঠ সেটাই যা বিভিন্ন শহরের কারীরা পড়েন, অর্থাৎ প্রশ্নবোধক পাঠ, কারণ প্রামাণ্য আলেমরা এতে একমত। কুরতুবী তাঁর টীকা শেষ করেন এই বলে: বিশুদ্ধ পাঠ প্রশ্নবোধক পাঠ। তবু দুই পাঠেই ছবিটা একই মানুষের। একটিতে তারা কাল্পনিক এক অনারবি কিতাব প্রত্যাখ্যান করে, অন্যটিতে মিশ্র এক কিতাব দাবি করে। যেভাবেই হোক, কিতাব আসার আগেই আপত্তি তৈরি ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Own Tongue, on Purpose",
+          "bn": "নিজেদের ভাষায়, ভেবেচিন্তেই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi asks why the Qur'an came in Arabic at all, and answers from the verse. Allah made clear that He sent it down in their tongue so that its inimitability would be firmly established, since they knew the kinds of speech, verse and prose, better than anyone. When they could not produce its like, that was among the clearest proofs that it is from Allah. Had it come in a foreign tongue, they would have had an easy reply: we know nothing of this language.",
+            "bn": "কুরআন আরবিতে এল কেন, কুরতুবী এ প্রশ্ন তোলেন এবং আয়াত থেকেই উত্তর দেন। আল্লাহ স্পষ্ট করেছেন, তিনি একে তাদের ভাষায় নাযিল করেছেন যাতে এর ই'জায, অর্থাৎ অনুকরণের অসাধ্যতা, পাকাপোক্তভাবে প্রমাণিত হয়। কারণ কবিতা হোক বা গদ্য, কথার নানা ধরন তারা সবার চেয়ে ভালো জানত। তারা যখন এর মতো কিছু আনতে পারল না, সেটাই হলো এটি আল্লাহর পক্ষ থেকে আসার সবচেয়ে স্পষ্ট প্রমাণগুলোর একটি। অনারবি ভাষায় এলে তাদের হাতে সহজ জবাব থাকত: এ ভাষা আমরা জানিই না।"
+          },
+          {
+            "en": "He draws a second point from it: the verse shows that the Qur'an is Arabic, sent down in the language of the Arabs and not foreign, and that when it is carried from Arabic into another language it is no longer Qur'an. As-Sa'di frames the same fact as a gift. Allah sent an Arabic Book to an Arab messenger in his people's tongue, to make things clear to them. He removed from His Book everything that could give the people of falsehood a doubt. The believers benefited from it and were raised by it; the others went the opposite way.",
+            "bn": "এখান থেকে তিনি দ্বিতীয় আরেকটি কথা বের করেন। আয়াতটি দেখায়, কুরআন আরবি, নাযিল হয়েছে আরবদের ভাষায়, অনারবি নয়। আর আরবি থেকে অন্য ভাষায় নিলে তা আর কুরআন থাকে না। সা'দী একই বাস্তবতাকে দেখেন অনুগ্রহ হিসেবে। আল্লাহ আরব রাসূলের উপর তাঁর জাতির ভাষায় আরবি কিতাব নাযিল করেছেন, যাতে তাদের কাছে সব স্পষ্ট হয়। বাতিলপন্থীরা সন্দেহ করতে পারে এমন সবকিছু তিনি নিজের কিতাব থেকে দূর করে দিয়েছেন। মুমিনরা এর থেকে উপকৃত হয়েছে, এর মাধ্যমে উঁচুতে উঠেছে। অন্যদের অবস্থা হয়েছে উল্টো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Healing for Doubt, and More?",
+          "bn": "সন্দেহের শিফা, নাকি আরও বেশি?"
+        },
+        "p": [
+          {
+            "en": "Qul huwa li-lladhina amanu hudan wa-shifa': say, it is, for those who believe, guidance and healing. At-Tabari explains huwa as the Qur'an and the believers as those who believe in Allah and His Messenger. Hudan, he says, is a clear setting out of the truth, and shifa' is healing from ignorance. He cites Qatada: Allah made it light, blessing and healing for the believers. As-Sa'di says it guides them to the path of right conduct and teaches them the useful knowledge by which full guidance is reached.",
+            "bn": "'কুল হুওয়া লিল্লাযীনা আমানূ হুদাওঁ ওয়া শিফা': বলুন, যারা ঈমান এনেছে তাদের জন্য এ হলো হিদায়াত ও শিফা। তাবারী বলেন, 'হুওয়া' মানে কুরআন, আর মুমিন মানে যারা আল্লাহ ও তাঁর রাসূলের উপর ঈমান এনেছে। তাঁর ব্যাখ্যায় হুদা হলো সত্যকে স্পষ্ট করে তুলে ধরা, আর শিফা হলো অজ্ঞতা থেকে আরোগ্য। তিনি কাতাদার কথা আনেন: আল্লাহ একে মুমিনদের জন্য নূর, বরকত ও শিফা বানিয়েছেন। সা'দী বলেন, কুরআন তাদেরকে সঠিক পথের দিকে নিয়ে যায়, আর এমন উপকারী জ্ঞান শেখায় যা দিয়ে পূর্ণ হিদায়াত লাভ হয়।"
+          },
+          {
+            "en": "On what the healing reaches, the commentators differ in range. Ibn Kathir keeps it to the heart: guidance for the believer's heart and healing for the doubts and uncertainty in people's breasts. The Muyassar names the doubts and diseases in the breasts. Al-Baghawi says healing for what is in the hearts, then adds, introduced with it is said, healing from pains. Al-Qurtubi folds both together: Allah made known that the Qur'an is guidance and healing for everyone who believes in it, from doubt, uncertainty and pains.",
+            "bn": "শিফা কতদূর পৌঁছায়, এ নিয়ে তাফসীরকারদের কথার পরিধি এক নয়। ইবন কাসীর একে অন্তরেই সীমিত রাখেন: মুমিনের অন্তরের জন্য হিদায়াত, আর বুকের ভেতরের সন্দেহ ও সংশয়ের শিফা। মুয়াসসার বলে বুকের ভেতরের সন্দেহ ও রোগের কথা। বাগাভী বলেন, অন্তরে যা আছে তার শিফা। তারপর 'বলা হয়' কথাটি দিয়ে যোগ করেন: ব্যথা-বেদনা থেকে শিফা। কুরতুবী দুটোই এক বাক্যে বলেন: আল্লাহ জানিয়ে দিয়েছেন, যে কুরআনের উপর ঈমান আনে তার জন্য এটি হিদায়াত, আর সন্দেহ, সংশয় ও ব্যথা থেকে শিফা।"
+          },
+          {
+            "en": "As-Sa'di names both plainly: healing from sicknesses of the body and of the heart. The reason he gives belongs to the heart: it restrains from bad character and the worst deeds, and urges the sincere repentance that washes away sins. Ma'arif al-Qur'an calls the cure for kufr, shirk, arrogance, envy and greed obvious, and says it heals bodily ailments too, on the evidence of experience. Al-Qurtubi, as-Sa'di and Ma'arif include the body; at-Tabari and Ibn Kathir stay with the heart. The 17:82 article sets out this question; this article gives no ruling on treatment by recitation.",
+            "bn": "সা'দী দুটোই সোজাসুজি উল্লেখ করেন: শরীরের রোগ আর অন্তরের রোগ, দুয়েরই শিফা। তবে কারণ হিসেবে যা বলেন, তা অন্তরের: কুরআন মন্দ চরিত্র আর জঘন্য কাজ থেকে বিরত রাখে, আর এমন খাঁটি তওবার দিকে ডাকে যা গুনাহ ধুয়ে দেয়। মাআরিফুল কুরআন বলে, কুফর, শিরক, অহংকার, হিংসা ও লোভের মতো রোগের শিফা তো স্পষ্ট। অভিজ্ঞতার ভিত্তিতে এটি শরীরের রোগও সারায়। কুরতুবী, সা'দী ও মাআরিফ শরীরকেও ধরেন, আর তাবারী ও ইবন কাসীর থাকেন অন্তরের মধ্যে। ১৭:৮২ আয়াতের প্রবন্ধে প্রশ্নটির বিস্তারিত আলোচনা আছে। তিলাওয়াত দিয়ে চিকিৎসা নিয়ে এ প্রবন্ধ কোনো বিধান দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heavy Ears, Clouded Sight",
+          "bn": "কানে ভার, চোখে আঁধার"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina la yu'minuna fi adhanihim waqr: and those who do not believe, in their ears is a heaviness. At-Tabari describes a weight that keeps them from listening to this Qur'an, a deafness, so that they do not listen to it but turn away. As-Sa'di likewise pairs deafness with turning away. Al-Qurtubi says deafness to hearing the Qur'an, and adds: that is why they urged each other to make noise over it, which recalls their words in 41:26.",
+            "bn": "'ওয়াল্লাযীনা লা ইউ'মিনূনা ফী আযানিহিম ওয়াকর': আর যারা ঈমান আনে না, তাদের কানে আছে ভার। তাবারী বলেন, এ এমন এক ভার, যা তাদেরকে এই কুরআন শোনা থেকে আটকে রাখে, এক রকম বধিরতা। ফলে তারা শোনে না, বরং মুখ ফিরিয়ে নেয়। সা'দীও বধিরতার সঙ্গে মুখ ফিরিয়ে নেওয়ার কথা জুড়ে দেন। কুরতুবী বলেন, কুরআন শোনার ব্যাপারে বধিরতা। সঙ্গে যোগ করেন: এ কারণেই তারা পরস্পরকে কুরআনের সময় হট্টগোল করতে বলত। ৪১:২৬ আয়াতে তাদের সেই কথাই আছে।"
+          },
+          {
+            "en": "Wa-huwa 'alayhim 'aman: and it is a blindness upon them. At-Tabari reads the pronoun as the Qur'an: it is a blindness over the hearts of those who deny it, so they do not see its arguments against them or its admonitions. Qatada says they became blind and deaf to the Qur'an and gained nothing from it. Ibn Zayd says the blindness is disbelief. As-Sa'di explains how the same Book can do this: when they reject the truth, it adds blindness to their blindness. Ibn Kathir sets it beside 17:82, where it adds to the wrongdoers nothing but loss.",
+            "bn": "'ওয়া হুওয়া আলাইহিম 'আমা': আর তা তাদের জন্য অন্ধত্ব। তাবারী সর্বনামটি দিয়ে কুরআনকেই বোঝেন: যারা একে মিথ্যা বলে, তাদের অন্তরের উপর এ এক অন্ধত্ব। ফলে তাদের বিরুদ্ধে এর প্রমাণ আর এর উপদেশ, কিছুই তারা দেখতে পায় না। কাতাদা বলেন, তারা কুরআনের ব্যাপারে অন্ধ ও বধির হয়ে গেছে, এর থেকে কোনো উপকার পায়নি। ইবন যায়দ বলেন, এই অন্ধত্ব হলো কুফর। একই কিতাব কীভাবে এমন করে, সা'দী তা ব্যাখ্যা করেন: তারা যখন সত্য প্রত্যাখ্যান করে, তখন অন্ধত্বের উপর অন্ধত্ব বাড়ে। ইবন কাসীর এর পাশে রাখেন ১৭:৮২ আয়াত, যেখানে বলা হয়েছে, জালিমদের জন্য তা ক্ষতি ছাড়া আর কিছু বাড়ায় না।"
+          },
+          {
+            "en": "Here too there is a second reading. Most reciters read 'aman, a noun. At-Tabari reports that Ibn 'Abbas read 'amin, with the last letter vowelled i, an adjective describing the Qur'an; al-Qurtubi adds 'Abdullah ibn az-Zubayr, 'Amr ibn al-'As, Mu'awiya and Sulayman ibn Qatta, with the sense it is unclear to them. At-Tabari keeps the reading of the majority. Al-Qurtubi notes that Abu 'Ubayd chose it too, because people agreed on it and because a noun matches guidance and healing before it.",
+            "bn": "এখানেও একটি দ্বিতীয় পাঠ আছে। অধিকাংশ কারী পড়েছেন 'আমা', বিশেষ্য হিসেবে। তাবারী জানান, ইবন আব্বাস (রাঃ) পড়েছেন 'আমিন', শেষ অক্ষরে যের দিয়ে, কুরআনের বিশেষণ হিসেবে। কুরতুবী এর সঙ্গে যোগ করেন আবদুল্লাহ ইবন যুবাইর (রাঃ), আমর ইবনুল আস (রাঃ), মুআবিয়া (রাঃ) ও সুলাইমান ইবন কাত্তার নাম। তখন অর্থ হয়: তাদের কাছে তা অস্পষ্ট। তাবারী অধিকাংশের পাঠই গ্রহণ করেন। কুরতুবী জানান, আবু উবাইদও সেটাই বেছে নিয়েছেন। কারণ মানুষ এতে একমত, আর আগের দুটি শব্দ হুদা ও শিফার মতো এটিও বিশেষ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Voice That Never Arrives",
+          "bn": "যে ডাক পৌঁছায় না"
+        },
+        "p": [
+          {
+            "en": "Ula'ika yunadawna min makanin ba'id: those are being called from a far place. At-Tabari reports that the interpreters differed. Some took it as a likeness Allah draws for the blindness of their hearts to what the Qur'an sets out: they are like a man called by a voice from far off, who does not grasp what he is called to. He cites an Arab idiom. To a man slow to understand they say, you are being called from afar; to a quick one, you take things from near. Al-Qurtubi relays the same from the lexicographers.",
+            "bn": "'উলাইকা ইউনাদাওনা মিম মাকানিম বা'ঈদ': তাদেরকে ডাকা হচ্ছে বহু দূরের জায়গা থেকে। তাবারী জানান, মুফাসসিররা এর অর্থ নিয়ে মতভেদ করেছেন। কেউ বলেছেন, এ এক উপমা। কুরআন যা খুলে বলে, তা বোঝার ব্যাপারে তাদের অন্তর অন্ধ, আর আল্লাহ সেটাকে তুলনা করেছেন এমন মানুষের সঙ্গে, যাকে দূর থেকে কেউ ডাকে, কিন্তু কীসের দিকে ডাকছে সে বোঝে না। তাবারী আরবদের একটা বাগধারা আনেন। যে দেরিতে বোঝে, তাকে তারা বলে: তোমাকে দূর থেকে ডাকা হচ্ছে। আর যে চট করে বোঝে, তাকে বলে: তুমি কাছ থেকে ধরো। কুরতুবীও ভাষাবিদদের সূত্রে একই কথা বলেন।"
+          },
+          {
+            "en": "Mujahid, in at-Tabari and Ibn Kathir, says far from their hearts; al-Qurtubi gives the same gloss from 'Ali and Mujahid. Ibn Zayd turns the image toward a lost chance: they let slip the chance to accept the matter from near, by repenting and believing so that it would be accepted from them, and they refused. As-Sa'di says they are called to faith and do not answer, like a man too far off to hear the caller. Ibn Kathir compares 2:171, the one who shouts to what hears only a call and a cry.",
+            "bn": "তাবারী ও ইবন কাসীরের বর্ণনায় মুজাহিদ বলেন: তাদের অন্তর থেকে বহু দূরে। কুরতুবী একই ব্যাখ্যা আনেন আলী (রাঃ) ও মুজাহিদের সূত্রে। ইবন যায়দ ছবিটাকে হারানো সুযোগের দিকে ঘুরিয়ে দেন: কাছ থেকেই বিষয়টা গ্রহণ করার সুযোগ ছিল। তওবা করে ঈমান আনলে তা কবুল হতো, কিন্তু তারা সে সুযোগ নষ্ট করেছে, অস্বীকার করেছে। সা'দী বলেন, তাদেরকে ঈমানের দিকে ডাকা হয়, কিন্তু তারা সাড়া দেয় না, ঠিক যেমন বহু দূরের মানুষ ডাক শুনতে পায় না। ইবন কাসীর তুলনা করেন ২:১৭১ আয়াতের সঙ্গে, যেখানে এমন কিছুকে চিৎকার করে ডাকা হয়, যা হাঁকডাক ছাড়া কিছুই শোনে না।"
+          },
+          {
+            "en": "The second view places the call in the Hereafter. Ad-Dahhak, in at-Tabari, says a man will be called on the Day of Resurrection by the ugliest of his names; al-Qurtubi gives his words as from a far place, and adds that this is harsher in rebuke and disgrace. Al-Qurtubi also records, from the tafsir literature through an-Naqqash, as though they were called from the sky and do not hear. At-Tabari sets the two views side by side and does not choose between them. He also notes that some grammarians made this very clause the missing predicate of 41:41, those who disbelieved in the Reminder.",
+            "bn": "দ্বিতীয় মতে ডাকটা আখিরাতের। তাবারীর বর্ণনায় দাহহাক বলেন, কিয়ামতের দিন মানুষকে তার সবচেয়ে কুৎসিত নামে ডাকা হবে। কুরতুবী তাঁর কথাটা আনেন 'দূরের জায়গা থেকে' শব্দসহ, আর যোগ করেন যে এতে তিরস্কার ও লাঞ্ছনা আরও কঠিন হয়। কুরতুবী তাফসীরের ধারা থেকে নাক্কাশের সূত্রে আরেকটি কথাও উল্লেখ করেন: যেন তাদেরকে আসমান থেকে ডাকা হচ্ছে, আর তারা শুনতে পাচ্ছে না। তাবারী দুই মত পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না। তিনি আরও জানান, কোনো কোনো ব্যাকরণবিদ এই বাক্যাংশটিকেই ৪১:৪১ আয়াতের অনুক্ত বিধেয় ধরেছেন, যে আয়াত শুরু হয়েছে এভাবে: যারা যিকর অস্বীকার করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearing It From Near",
+          "bn": "কাছ থেকে শোনা"
+        },
+        "p": [
+          {
+            "en": "None of the commentators consulted attaches a sound hadith to this verse; they explain it through its words, its readings and other verses. It also needs saying plainly that the verse describes what it describes: the objection the deniers of Quraysh would have raised, and the state of those who refuse the Qur'an once it has come. It licenses nothing against any living person or community, and it ranks no people above another by language. Its whole argument is about an excuse, and about hearts.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তাঁরা আয়াতটি ব্যাখ্যা করেছেন এর শব্দ, এর পাঠভেদ আর অন্যান্য আয়াতের সাহায্যে। কথাটা সোজাসুজি বলাও দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: কুরাইশের অস্বীকারকারীরা কোন আপত্তি তুলত, আর কুরআন আসার পর যারা তা প্রত্যাখ্যান করে তাদের অবস্থা কী। আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। ভাষার কারণে কোনো জাতিকে অন্য জাতির উপরেও তোলে না। এর পুরো যুক্তি একটা অজুহাত নিয়ে, আর অন্তর নিয়ে।"
+          },
+          {
+            "en": "The idiom the commentators cite gives the reader a test. To someone who understands, the Arabs say, you hear from near. The Qur'an is the same Book for both listeners in this verse; what differs is the distance. It is the space between a heart that has already decided and a heart that is still listening. A reader who wants to hear from near can begin small: learn what a passage means, recite it without hurry, and ask it to heal a doubt that is actually there.",
+            "bn": "তাফসীরকাররা যে বাগধারাটি আনেন, তা পাঠকের জন্য একটা পরীক্ষা। যে বোঝে, আরবরা তাকে বলে: তুমি কাছ থেকে শুনছ। এ আয়াতের দুই শ্রোতার জন্য কুরআন একই কিতাব। পার্থক্য শুধু দূরত্বে। তা হলো আগে থেকে মন ঠিক করে ফেলা অন্তর আর এখনো কান পেতে থাকা অন্তরের মাঝের ফাঁক। যে পাঠক কাছ থেকে শুনতে চান, তিনি ছোট করে শুরু করতে পারেন। একটা অংশের অর্থ জেনে নিন, তাড়াহুড়া ছাড়া তিলাওয়াত করুন। আর মনে সত্যিই যে সন্দেহটা আছে, সেটা সারানোর জন্য কুরআনের কাছেই যান।"
+          }
+        ]
+      }
+    ]
+  },
   "41:47": {
     "sections": [
       {
