@@ -24909,6 +24909,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold to your faith when holding it costs you, remember that people's harm is not Allah's punishment, and never look down on those it has shaken.",
     "lessonBn": "ঈমান ধরে রাখতে দাম দিতে হলেও ধরে রাখুন। মনে রাখুন, মানুষের দেওয়া কষ্ট আল্লাহর আজাব নয়। আর যারা সেই কষ্টে টলে গেছে, তাদের কখনো তুচ্ছ ভাববেন না।"
+  },
+  "29:22": {
+    "reflectionEn": "You will not outrun Him on the earth, nor in the heaven, and besides Allah you have no protector and no helper. The sentence closes two doors at once. The first is flight: there is no corner of the world, and no height above it, where a person slips out of His reach. The second is shelter: there is no patron who can stand between a person and what He decides. Spoken to people who denied the Return, it strips away both hopes. Yet the same words point somewhere. If no one can be fled to, then the One who cannot be escaped is also the only protector there is. The way out of His reach does not exist; the way to Him is always open.",
+    "reflectionBn": "পৃথিবীতে আপনি তাঁকে এড়িয়ে যেতে পারবেন না, আকাশেও না। আর আল্লাহ ছাড়া আপনার কোনো অভিভাবক নেই, কোনো সাহায্যকারীও নেই। এক বাক্যে দুটো দরজা বন্ধ হয়ে যায়। প্রথমটা পালানোর দরজা। দুনিয়ার কোনো কোণে, তার উপরের কোনো উচ্চতায়, মানুষ তাঁর নাগালের বাইরে যেতে পারে না। দ্বিতীয়টা আশ্রয়ের দরজা। তিনি যা ফয়সালা করেন, তার আর মানুষের মাঝে দাঁড়াতে পারে এমন কোনো পৃষ্ঠপোষক নেই। পুনরুত্থান অস্বীকারকারীদের উদ্দেশে বলা এ কথা দুটো আশাই কেড়ে নেয়। তবু এই কথাগুলোই একটা দিক দেখিয়ে দেয়। কারও কাছে পালিয়ে যাওয়ার উপায় যখন নেই, তখন যাঁকে এড়ানো যায় না, তিনিই একমাত্র অভিভাবক। তাঁর নাগালের বাইরে যাওয়ার পথ নেই, কিন্তু তাঁর দিকে যাওয়ার পথ সব সময় খোলা।",
+    "pointsEn": [
+      "Where in my life do I behave as if some place, some hour or some privacy puts me out of His sight?",
+      "Whom do I lean on as though they could shield me from what Allah decides?",
+      "When a fault catches up with me, is my first move to hide it or to turn back to Him?",
+      "Which of my plans quietly assumes I can outrun the consequences of what I do?",
+      "If He alone is the protector, what would change in how I ask for help this week?"
+    ],
+    "pointsBn": [
+      "জীবনের কোথায় আমি এমন আচরণ করি, যেন কোনো জায়গা, কোনো সময় বা কোনো আড়াল আমাকে তাঁর দৃষ্টির বাইরে নিয়ে যায়?",
+      "কার উপর আমি এমনভাবে ভর করি, যেন আল্লাহর ফয়সালা থেকে সে আমাকে আড়াল করতে পারবে?",
+      "কোনো ভুল যখন আমার পিছু নেয়, আমার প্রথম চেষ্টা কি তা লুকানো, নাকি তাঁর দিকে ফিরে যাওয়া?",
+      "আমার কোন পরিকল্পনা চুপচাপ ধরে নেয় যে নিজের কাজের পরিণাম আমি এড়িয়ে যেতে পারব?",
+      "তিনিই যদি একমাত্র অভিভাবক হন, তবে এ সপ্তাহে সাহায্য চাওয়ার ধরনে আমার কী বদলানো উচিত?"
+    ],
+    "lessonEn": "No place on earth or above it puts you beyond Allah's reach, and no patron can shield you from Him; so make Him your protector and run toward Him.",
+    "lessonBn": "পৃথিবীর বা তার উপরের কোনো জায়গা আপনাকে আল্লাহর নাগালের বাইরে নেয় না, কোনো পৃষ্ঠপোষকও তাঁর থেকে আড়াল করতে পারে না। তাই তাঁকেই অভিভাবক বানান, তাঁর দিকেই ছুটে যান।"
   }
 };
 

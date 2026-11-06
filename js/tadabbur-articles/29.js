@@ -747,6 +747,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Voice Between Two Frames",
+          "bn": "কাহিনির ফাঁকে কার কণ্ঠ"
+        },
+        "p": [
+          {
+            "en": "The passage opens with Ibrahim (AS) speaking to his people: worship Allah and fear Him, the idols own no provision for you (29:16 and 29:17). It closes the frame at 29:24: and the answer of his people was only that they said, kill him or burn him. Between those two points stand six verses, 29:18 to 29:23, on denial, on how creation begins and is repeated, and, in this verse, on the impossibility of escape. Who is speaking in them is a question the commentators answer in two ways.",
+            "bn": "অংশটা শুরু হয় ইবরাহীম (আঃ)-এর কথা দিয়ে। তিনি তাঁর সম্প্রদায়কে বলছেন: আল্লাহর ইবাদত কর, তাঁকে ভয় কর, এই প্রতিমাগুলো তোমাদের রিযকের মালিক নয় (২৯:১৬ ও ২৯:১৭)। কাহিনির সুতো আবার ফিরে আসে ২৯:২৪ আয়াতে: তাঁর সম্প্রদায়ের জবাব এ ছাড়া আর কিছু ছিল না যে, তাকে হত্যা কর অথবা পুড়িয়ে দাও। এ দুইয়ের মাঝে আছে ছয়টি আয়াত, ২৯:১৮ থেকে ২৯:২৩। সেখানে অস্বীকারের কথা, সৃষ্টির সূচনা ও পুনরাবর্তনের কথা, আর এ আয়াতে পালিয়ে যাওয়ার অসম্ভবতার কথা। এই আয়াতগুলোতে কে কথা বলছেন, সে প্রশ্নের জবাব তাফসীরকারেরা দুইভাবে দেন।"
+          },
+          {
+            "en": "Ibn Kathir sets out both. Qatada, he reports, said of 29:18 that Allah is consoling His Prophet (ﷺ); this, Ibn Kathir notes, implies that the first speech was broken off and these verses set in as a parenthesis up to the answer of his people, and he adds that Ibn Jarir stated the same. At-Tabari's own text bears this out: he reads 29:18 as addressed to people who deny Our messenger Muhammad, and on this verse he glosses the address as O people. Al-Qurtubi records the view that the address is to Quraysh and not from Ibrahim's words.",
+            "bn": "ইবন কাসীর দুটো মতই তুলে ধরেন। তিনি জানান, কাতাদা ২৯:১৮ সম্পর্কে বলেছেন, আল্লাহ এখানে তাঁর নবী ﷺ-কে সান্ত্বনা দিচ্ছেন। ইবন কাসীরের ব্যাখ্যায় এর অর্থ দাঁড়ায়: আগের বক্তব্য থেমে গেছে, আর এই আয়াতগুলো মাঝখানে একটা বন্ধনী হয়ে এসেছে, চলেছে \"তাঁর সম্প্রদায়ের জবাব\" পর্যন্ত। তিনি যোগ করেন, ইবন জারীরও একই কথা স্পষ্ট বলেছেন। তাবারীর নিজের লেখাও তা-ই দেখায়। ২৯:১৮ তিনি পড়েন তাদের উদ্দেশে, যারা আমাদের রাসূল মুহাম্মাদকে অস্বীকার করে। আর এ আয়াতে সম্বোধনের ব্যাখ্যা দেন \"হে মানুষ\" বলে। কুরতুবীও এই মত উল্লেখ করেন যে, সম্বোধনটা কুরাইশের প্রতি, ইবরাহীমের কথা নয়।"
+          },
+          {
+            "en": "The other side has its own names. Ibn Kathir himself writes that the apparent sense of the context is that all of this is the speech of al-Khalil to his people, arguing for the Return, because of what follows it: and the answer of his people was. On 29:19 he opens by saying Allah is telling of al-Khalil guiding them to proof of the Return. Al-Qurtubi also records, on 29:18, that it is said to be from Ibrahim's words. The disagreement stands as it is; the meaning of this verse does not change with it.",
+            "bn": "অন্য মতের পক্ষেও নাম আছে। ইবন কাসীর নিজে লেখেন, প্রসঙ্গের বাহ্যিক অর্থ হলো এর সবটাই খলীল (আঃ)-এর কথা, তাঁর সম্প্রদায়ের সামনে আখিরাতে ফেরার পক্ষে যুক্তি। কারণ এরপরেই আসে: তাঁর সম্প্রদায়ের জবাব ছিল। ২৯:১৯ আয়াতের ব্যাখ্যাও তিনি শুরু করেন এই বলে যে, আল্লাহ জানাচ্ছেন খলীল কীভাবে তাদের পুনরুত্থানের প্রমাণের দিকে পথ দেখিয়েছিলেন। কুরতুবীও ২৯:১৮ আয়াতে উল্লেখ করেন, বলা হয় এটা ইবরাহীমের কথা। মতভেদটা যেমন আছে তেমনই থাক। এতে এ আয়াতের অর্থ বদলায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No One Gets Away",
+          "bn": "কেউ ফসকে যায় না"
+        },
+        "p": [
+          {
+            "en": "Wa-ma antum bi-mu'jizin: and you are not mu'jizin. The word comes from the root of 'ajz, incapacity; a mu'jiz is one who leaves another unable to reach him, the one who gets away. The translation renders it you will not cause failure, and the commentators gloss it in the same direction. Al-Muyassar writes: you are not, O people, the ones who frustrate Allah on the earth or in the heaven if you disobey Him. Among the readings al-Qurtubi gathers is one put simply: they cannot flee, on the earth or in the heaven.",
+            "bn": "ওয়া মা আনতুম বিমু'জিযীন: তোমরা মু'জিয নও। শব্দটা এসেছে 'আজয ধাতু থেকে, যার মানে অক্ষমতা। মু'জিয সে, যে অন্যকে নিজের নাগাল পেতে অক্ষম করে রাখে, অর্থাৎ যে ফসকে বেরিয়ে যায়। অনুবাদে আছে: তোমরা (আল্লাহকে) ব্যর্থ করতে পারবে না। তাফসীরকারদের ব্যাখ্যাও একই দিকে যায়। মুয়াসসার লেখে: হে মানুষ, তোমরা যদি আল্লাহর নাফরমানি কর, তবে পৃথিবীতে বা আকাশে তাঁকে ব্যর্থ করার সাধ্য তোমাদের নেই। কুরতুবী যে ব্যাখ্যাগুলো জড়ো করেন, তার একটা সোজা ভাষায় বলে: তারা পৃথিবীতেও পালাতে পারবে না, আকাশেও না।"
+          },
+          {
+            "en": "As-Sa'di turns the gloss into a direct warning. O you deniers, he writes, emboldened on acts of disobedience: do not suppose that you are left unnoticed, or that you can frustrate Allah on the earth or in the heaven. Do not let your own power deceive you, nor what your souls have dressed up for you about escaping Allah's punishment. You cannot frustrate Allah in any region of the world. The verse, on his reading, answers two illusions at once: that no one is watching, and that someone could get away.",
+            "bn": "সা'দী এই ব্যাখ্যাকে সরাসরি সতর্কবাণীতে রূপ দেন। তিনি লেখেন: হে অস্বীকারকারীরা, যারা নাফরমানিতে দুঃসাহসী হয়ে উঠেছ, ভেবো না তোমাদের ব্যাপারে কেউ বেখবর, কিংবা পৃথিবীতে বা আকাশে তোমরা আল্লাহকে অক্ষম করে দিতে পারবে। নিজেদের শক্তি যেন তোমাদের ধোঁকায় না ফেলে। আল্লাহর শাস্তি থেকে রেহাই পাওয়ার যে ছবি তোমাদের মন সাজিয়ে দিয়েছে, তাও যেন না ফেলে। দুনিয়ার কোনো প্রান্তেই তোমরা আল্লাহকে ব্যর্থ করতে পারবে না। তাঁর পাঠে আয়াতটা একসঙ্গে দুটি ভ্রম ভাঙে: কেউ দেখছে না, আর কেউ পালিয়ে যেতে পারবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Up There to Flee",
+          "bn": "আকাশে কে আছে পালানোর"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi puts the obvious question in plain words. If it is asked, he writes, what is the point of saying nor in the heaven, when the address is to human beings and they are not in the heaven? The phrase is real: people live on the earth, and the verse still names the sky. The commentators give it at least three answers, each keeping the words as they stand.",
+            "bn": "বাগাভী স্বাভাবিক প্রশ্নটা খোলাখুলি তোলেন। তিনি লেখেন: যদি জিজ্ঞেস করা হয়, \"আকাশেও না\" বলার কারণ কী, যখন সম্বোধন মানুষের প্রতি আর মানুষ তো আকাশে থাকে না? প্রশ্নটা বানানো নয়। মানুষের বাস পৃথিবীতে, তবু আয়াত আকাশের নাম নেয়। তাফসীরকারেরা এর অন্তত তিনটি জবাব দেন। প্রতিটি জবাবই শব্দগুলোকে যেমন আছে তেমন রাখে।"
+          },
+          {
+            "en": "The first answer is grammatical. Al-Baghawi and al-Qurtubi both cite al-Farra: the meaning is, nor is anyone in the heaven able to frustrate Him. A word for who has been left unspoken, and al-Qurtubi calls this an obscure point of Arabic, because of a pronoun that does not appear in the second half. The witness is a line of Hassan ibn Thabit (RA): is the one of you who lampoons the Messenger of Allah equal to the one who praises him and helps him? There too the second who is meant but not said.",
+            "bn": "প্রথম জবাব ব্যাকরণের। বাগাভী ও কুরতুবী দুজনেই ফাররার কথা উদ্ধৃত করেন। অর্থ হলো: আকাশে যারা আছে, তারাও তাঁকে ব্যর্থ করতে পারে না। \"যারা\" শব্দটা উহ্য রাখা হয়েছে। কুরতুবী একে আরবি ভাষার এক সূক্ষ্ম জায়গা বলেন, কারণ দ্বিতীয় অংশে একটা সর্বনাম আছে যা চোখে পড়ে না। সাক্ষী হিসেবে আসে হাসসান ইবন সাবিত (রাঃ)-এর একটি পঙ্‌ক্তি: তোমাদের মধ্যে যে আল্লাহর রাসূলের নিন্দা করে, আর যে তাঁর প্রশংসা করে ও তাঁকে সাহায্য করে, তারা কি সমান? সেখানেও দ্বিতীয় \"যে\" বোঝানো হয়েছে, কিন্তু মুখে বলা হয়নি।"
+          },
+          {
+            "en": "At-Tabari gives the same grammatical account, not from al-Farra by name but from a grammarian of Basra, with Hassan's line and an example from ordinary speech: honour whoever came to you and did not come to Zayd, meaning, and whoever did not come to Zayd. Before it he records Ibn Zayd: the people of the earths cannot frustrate Him in the earths, nor the people of the heavens in the heavens, if they disobey Him. Ibn Zayd then recited the phrase from 10:61, not the weight of an atom on the earth or in the heaven.",
+            "bn": "তাবারীও একই ব্যাকরণগত ব্যাখ্যা দেন, তবে ফাররার নামে নয়, বসরার এক ব্যাকরণবিদের বরাতে। সঙ্গে হাসসানের পঙ্‌ক্তি আর রোজকার কথার একটা উদাহরণ: তাকে সম্মান কর, যে তোমার কাছে এসেছে আর যায়দের কাছে যায়নি। মানে, আর যে যায়দের কাছে যায়নি তাকেও। এর আগে তিনি ইবন যায়দের কথা আনেন: পৃথিবীর অধিবাসীরা পৃথিবীতে তাঁকে ব্যর্থ করতে পারে না, আকাশের অধিবাসীরাও আকাশে পারে না, যদি তারা তাঁর নাফরমানি করে। তারপর ইবন যায়দ ১০:৬১ আয়াতের অংশটা পড়েন: পৃথিবীতে বা আকাশে অণু পরিমাণ জিনিসও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Even If You Climbed",
+          "bn": "আকাশে উঠে গেলেও"
+        },
+        "p": [
+          {
+            "en": "The second answer keeps the address on human beings and makes the heaven a supposition. Al-Baghawi and al-Qurtubi cite Qutrub: nor in the heaven, if you were in it. He compares a man who says, so-and-so will not escape me here, nor in Basra, meaning, nor in Basra if he went there. At-Tabari, after preferring the grammarian's account as sounder in meaning to him, adds that whoever took it as nor would you, were you in the heaven, escape Him, would have a tenable reading.",
+            "bn": "দ্বিতীয় জবাবে সম্বোধন মানুষের প্রতিই থাকে, আর আকাশ হয়ে যায় একটা ধরে নেওয়া অবস্থা। বাগাভী ও কুরতুবী কুতরুবের কথা উদ্ধৃত করেন: আকাশেও না, যদি তোমরা সেখানে থাকতে। তিনি তুলনা দেন এমন লোকের সঙ্গে, যে বলে: অমুক এখানে আমার হাত ফসকাবে না, বসরাতেও না। অর্থাৎ বসরায় চলে গেলেও না। তাবারী ব্যাকরণবিদের ব্যাখ্যাকে নিজের কাছে অর্থের দিক থেকে বেশি সঠিক বলেন। তারপর যোগ করেন, কেউ যদি এর অর্থ নেয় \"আকাশে থাকলেও তোমরা তাঁকে ব্যর্থ করতে পারতে না\", তবে সেটাও একটা গ্রহণযোগ্য পথ।"
+          },
+          {
+            "en": "Al-Qurtubi records a third attempt and its refusal. Al-Mubarrad read it as nor anyone in the heaven, taking the elided who as an indefinite noun with in the heaven as its description. Ali ibn Sulayman rejected that as not permissible: an indefinite who must be described, its description works like a relative clause, and the head cannot be dropped while the clause is kept. His own conclusion was that people are addressed with what they understand, and the sense is: had you been in the heaven, you would not have frustrated Allah.",
+            "bn": "কুরতুবী তৃতীয় এক চেষ্টা আর তার প্রত্যাখ্যানও লিখে রাখেন। মুবাররাদ পড়েছিলেন: আকাশে কেউও না। উহ্য \"যে\"-কে তিনি অনির্দিষ্ট বিশেষ্য ধরেন, আর \"আকাশে\" হয় তার বিশেষণ। আলী ইবন সুলাইমান তা নাকচ করেন, বলেন এটা জায়েয নয়। অনির্দিষ্ট \"যে\"-র বিশেষণ লাগবেই, আর সেই বিশেষণ সম্বন্ধবাচক বাক্যের মতো কাজ করে। মূল শব্দটা ফেলে দিয়ে শুধু তার বাক্যাংশ রেখে দেওয়া চলে না। তাঁর নিজের সিদ্ধান্ত: মানুষকে সম্বোধন করা হয় তাদের বোধগম্য ভাষায়। অর্থ হলো, তোমরা আকাশে থাকলেও আল্লাহকে ব্যর্থ করতে পারতে না।"
+          },
+          {
+            "en": "For that reading Ali ibn Sulayman points to 4:78: wherever you may be, death will overtake you, even if you were in towers built high. The two verses share a shape. Each names the most out-of-reach place a person could imagine, the fortified tower in one and the heaven in the other, only to say it would make no difference. Whichever of these answers one prefers, the commentators agree on what the sentence denies: there is no direction, below or above, that leads away from Him.",
+            "bn": "এই পাঠের পক্ষে আলী ইবন সুলাইমান ৪:৭৮ আয়াতের দিকে ইঙ্গিত করেন: তোমরা যেখানেই থাক, মৃত্যু তোমাদের ধরবেই, সুউচ্চ সুদৃঢ় দুর্গে থাকলেও। দুই আয়াতের গড়ন একই রকম। মানুষ যত দুর্গম জায়গা কল্পনা করতে পারে, দুটোই তার নাম নেয়। একটায় মজবুত দুর্গ, অন্যটায় আকাশ। আর বলে, তাতে কিছুই বদলাবে না। এই জবাবগুলোর যেটাই কারও কাছে পছন্দের হোক, আয়াত কী অস্বীকার করছে তাতে তাফসীরকারেরা একমত: নিচে বা উপরে এমন কোনো দিক নেই, যা তাঁর কাছ থেকে দূরে নিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Subduer Above His Servants",
+          "bn": "বান্দাদের উপর পরাক্রমশালী"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the phrase from the side of Him whom no one escapes. No one among the people of His heavens and His earth can frustrate Him, he writes; rather He is the Subduer above His servants. Everything is in fear of Him and in need of Him, and He is free of need of everything besides Himself. The gloss turns a statement about human limits into a statement about divine rule. The reason no one gets away is not only that people are weak, but that He holds every place.",
+            "bn": "ইবন কাসীর বাক্যটা পড়েন তাঁর দিক থেকে, যাঁকে এড়ানো যায় না। তিনি লেখেন: তাঁর আকাশমণ্ডলী ও পৃথিবীর অধিবাসীদের কেউই তাঁকে অক্ষম করতে পারে না। বরং তিনি বান্দাদের উপর পরাক্রমশালী। সবকিছু তাঁকে ভয় করে, সবকিছু তাঁর মুখাপেক্ষী, আর তিনি নিজে ছাড়া আর সবকিছু থেকে অমুখাপেক্ষী। এই ব্যাখ্যায় মানুষের সীমাবদ্ধতার কথাটা হয়ে যায় আল্লাহর কর্তৃত্বের কথা। কেউ যে পালাতে পারে না, তার কারণ শুধু মানুষের দুর্বলতা নয়। কারণ হলো, প্রতিটি জায়গাই তাঁর হাতে।"
+          },
+          {
+            "en": "His wording, the people of His heavens and His earth, matches the answer Ibn Zayd gave. Whether or not the verse means to include those who live above, the gloss does: the dwellers of the heavens are as unable to slip away as those of the earth. The preceding verse has just said that He punishes whom He wills and shows mercy to whom He wills, and to Him you will be turned back (29:21). This verse shuts off the hope of a third outcome: slipping away from both.",
+            "bn": "\"তাঁর আকাশমণ্ডলী ও পৃথিবীর অধিবাসী\", ইবন কাসীরের এই কথাটা ইবন যায়দের জবাবের সঙ্গে মিলে যায়। আয়াত উপরের বাসিন্দাদের ধরতে চায় কি না, সে প্রশ্ন থাক। তাঁর ব্যাখ্যা তাদের ধরে নেয়। আকাশের বাসিন্দারাও পৃথিবীর বাসিন্দাদের মতোই ফসকে যেতে অক্ষম। ঠিক আগের আয়াতে বলা হয়েছে, তিনি যাকে ইচ্ছা শাস্তি দেন, যার প্রতি ইচ্ছা রহমত করেন, আর তাঁর কাছেই তোমাদের ফিরিয়ে নেওয়া হবে (২৯:২১)। এ আয়াত তৃতীয় এক পরিণামের আশাও শেষ করে দেয়: দুটো থেকেই ফসকে বেরিয়ে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Kinds of Backing",
+          "bn": "দুই রকম পৃষ্ঠপোষকতা"
+        },
+        "p": [
+          {
+            "en": "The second half moves from flight to shelter: and you have, besides Allah, no wali and no nasir. At-Tabari separates the two words. The wali is one who takes charge of your affairs; the nasir is one who would help you against Allah if He intended harm for you, and would hold Him back if He brought His punishment down on you. Al-Muyassar gives the same pair almost word for word: a wali who manages your affairs, and a helper to help you against Allah if He intends evil for you.",
+            "bn": "দ্বিতীয় অংশে কথা পালানো থেকে সরে আশ্রয়ের দিকে যায়: আল্লাহ ছাড়া তোমাদের কোনো ওয়ালী নেই, কোনো নাসীরও নেই। তাবারী দুটি শব্দকে আলাদা করেন। ওয়ালী সে, যে তোমাদের বিষয়াদির দায়িত্ব নেয়। নাসীর সে, যে আল্লাহ তোমাদের অনিষ্ট চাইলে তাঁর বিরুদ্ধে তোমাদের সাহায্য করবে, আর তিনি শাস্তি নামালে তা ঠেকাবে। মুয়াসসার প্রায় হুবহু একই জোড়া দেয়: ওয়ালী, যে তোমাদের বিষয় সামলায়, আর সাহায্যকারী, যে আল্লাহ অনিষ্ট চাইলে তাঁর বিরুদ্ধে তোমাদের সাহায্য করবে।"
+          },
+          {
+            "en": "As-Sa'di frames the pair as the two needs of any person. The wali takes charge of you, so that the good of your religion and your worldly life comes to you; the nasir helps you, so that what is hateful is pushed away from you. One secures benefit, the other repels harm. Read this way, the verse does not only deny an ally in a crisis. It denies anyone, besides Allah, who could either bring a person what is good or keep from him what is bad.",
+            "bn": "সা'দী জোড়াটাকে দেখেন যেকোনো মানুষের দুই প্রয়োজন হিসেবে। ওয়ালী আপনার দায়িত্ব নেয়, যাতে দ্বীন ও দুনিয়ার কল্যাণ আপনার কাছে আসে। নাসীর আপনাকে সাহায্য করে, যাতে অপছন্দের জিনিস আপনার কাছ থেকে দূরে সরে। একজন উপকার এনে দেয়, অন্যজন ক্ষতি ঠেকায়। এভাবে পড়লে আয়াতটা শুধু বিপদের দিনের মিত্রকে অস্বীকার করে না। আল্লাহ ছাড়া এমন কাউকেই অস্বীকার করে, যে মানুষের কাছে ভালো এনে দিতে বা মন্দ থেকে তাকে আগলে রাখতে পারে।"
+          },
+          {
+            "en": "Al-Baghawi glosses the pair in Allah's own voice: no wali to keep you from Me, and no helper to help you against My punishment. Al-Qurtubi adds a point of grammar. He notes that nasir may also be read in the nominative, following the position of the phrase rather than its surface form, with the min before wali counted as extra. Either way the sentence says the same plain thing: not one protector, and not one helper.",
+            "bn": "বাগাভী জোড়াটার ব্যাখ্যা দেন আল্লাহর নিজের জবানিতে: এমন কোনো ওয়ালী নেই যে তোমাদের আমার কাছ থেকে আগলে রাখবে, এমন কোনো সাহায্যকারী নেই যে আমার শাস্তির বিরুদ্ধে তোমাদের সাহায্য করবে। কুরতুবী একটা ব্যাকরণের কথা যোগ করেন। তিনি বলেন, নাসীর শব্দটা বাক্যে তার অবস্থান অনুযায়ী পেশ দিয়েও পড়া যায়, তখন ওয়ালীর আগের \"মিন\" ধরা হয় অতিরিক্ত। যেভাবেই পড়া হোক, বাক্যের সোজা কথা একটাই: একজন অভিভাবকও নেই, একজন সাহায্যকারীও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Addressed to Deniers, Then",
+          "bn": "সেদিনের অস্বীকারকারীদের প্রতি"
+        },
+        "p": [
+          {
+            "en": "Whichever voice is heard in it, the verse speaks to a particular audience. On one reading it is Ibrahim's people, who answered his call with kill him or burn him; on the other it is the Quraysh who denied the Prophet (ﷺ). As-Sa'di names them the deniers emboldened on disobedience. The verse describes what it describes, a warning to those who denied the Return in their time, and it licenses nothing against any living person or community.",
+            "bn": "এতে যার কণ্ঠই শোনা যাক, আয়াতটা নির্দিষ্ট শ্রোতাদের উদ্দেশে বলা। একটি মতে তারা ইবরাহীম (আঃ)-এর সম্প্রদায়, যারা তাঁর দাওয়াতের জবাব দিয়েছিল \"তাকে হত্যা কর অথবা পুড়িয়ে দাও\" বলে। অন্য মতে তারা কুরাইশ, যারা নবী ﷺ-কে অস্বীকার করেছিল। সা'দী তাদের বলেন নাফরমানিতে দুঃসাহসী অস্বীকারকারী। আয়াতটা যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: নিজেদের যুগে আখিরাতে ফেরা অস্বীকারকারীদের প্রতি এক সতর্কবাণী। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না।"
+          },
+          {
+            "en": "Its proper reader is the one who hears it spoken to himself. The two doors it closes, flight and outside shelter, are closed for every listener, and the only safe use of the verse is to test one's own hopes against it. None of the commentaries fetched for this verse attaches a hadith to it, and none reports an occasion of revelation for it; what they offer is language and meaning, and that is what this reading has followed. The verse after it turns to those who disbelieve in the meeting with Him (29:23).",
+            "bn": "এর আসল পাঠক সে, যে কথাটা নিজের উদ্দেশে শোনে। যে দুটি দরজা এটি বন্ধ করে, পালানো আর বাইরের আশ্রয়, তা প্রত্যেক শ্রোতার জন্যই বন্ধ। তাই আয়াতটার নিরাপদ ব্যবহার একটাই: নিজের আশাগুলোকে এর সামনে রেখে যাচাই করা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করে না, নাযিলের কোনো উপলক্ষও জানায় না। তারা দেয় ভাষা আর অর্থের ব্যাখ্যা, এই পাঠও সেটাই অনুসরণ করেছে। পরের আয়াত ফেরে তাদের দিকে, যারা তাঁর সাক্ষাৎ অস্বীকার করে (২৯:২৩)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nowhere Away, One Way In",
+          "bn": "দূরে যাওয়ার পথ নেই, কাছে আছে"
+        },
+        "p": [
+          {
+            "en": "Put the two halves of the verse side by side and they make one movement. First, no place takes a person beyond His reach, not the earth and not the heaven. Then, no one besides Him can take charge of a person's affairs or turn harm away. The first half removes the hope of escaping Allah; the second removes the hope of being protected from Allah by another. What is left standing is the only option the verse does not close: to be protected by Allah, from what one fears, by turning to Him.",
+            "bn": "আয়াতের দুই অংশ পাশাপাশি রাখলে একটাই গতি চোখে পড়ে। প্রথমে, কোনো জায়গা মানুষকে তাঁর নাগালের বাইরে নেয় না, পৃথিবীও না, আকাশও না। তারপর, তিনি ছাড়া আর কেউ মানুষের বিষয়ের দায়িত্ব নিতে বা ক্ষতি ঠেকাতে পারে না। প্রথম অংশ আল্লাহর কাছ থেকে পালানোর আশা কেড়ে নেয়। দ্বিতীয় অংশ কেড়ে নেয় অন্য কারও মাধ্যমে আল্লাহর থেকে আগলে থাকার আশা। বাকি থাকে শুধু সেই পথ, যা আয়াত বন্ধ করেনি: তাঁর দিকে ফিরে গিয়ে, যা ভয় পাই তা থেকে তাঁরই আশ্রয়ে থাকা।"
+          },
+          {
+            "en": "As-Sa'di's warning began with the thought that one might be left unnoticed. The cure for that thought is not fear alone but honesty: to live as one who is always within reach, and so to stop arranging life around hiding. The same reach that leaves no way out leaves the door to Him open from every place. A person on the earth is not too far to be seen, and so not too far to return, and to be taken in by the only wali there is.",
+            "bn": "সা'দীর সতর্কবাণী শুরু হয়েছিল এই ধারণা দিয়ে যে, মানুষ হয়তো চোখের আড়ালে থেকে যাবে। এই ধারণার প্রতিকার শুধু ভয় নয়, সততাও। সব সময় নাগালের মধ্যে আছি, এভাবে বাঁচা, আর লুকানোর হিসাবে জীবন সাজানো বন্ধ করা। যে নাগাল থেকে বেরোনোর পথ নেই, সেই নাগালই প্রতিটি জায়গা থেকে তাঁর দিকে দরজা খোলা রাখে। পৃথিবীর কোনো মানুষ এত দূরে নয় যে তাকে দেখা যায় না। তাই এত দূরেও নয় যে ফিরে আসতে পারবে না, আর একমাত্র ওয়ালীর আশ্রয়ে জায়গা পাবে না।"
+          }
+        ]
+      }
+    ]
+  },
   "29:25": {
     "sections": [
       {
