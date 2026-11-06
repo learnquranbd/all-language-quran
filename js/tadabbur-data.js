@@ -28469,6 +28469,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When people pin a label on you, answer with conduct and patience rather than a counter-label, and leave the verdict on who has strayed to the One who knows.",
     "lessonBn": "লোকে আপনার গায়ে কোনো নাম লাগালে পাল্টা নাম নয়, আচরণ আর ধৈর্য দিয়ে জবাব দিন। কে পথ হারিয়েছে, সে রায় ছেড়ে দিন তাঁর হাতে, যিনি জানেন।"
+  },
+  "67:30": {
+    "reflectionEn": "Turn the tap and water comes. Lower the bucket and it comes back full. The last verse of al-Mulk asks a quiet question about exactly that: if the water you live on sank out of reach overnight, who would bring you flowing water? No answer is printed, because none is needed. The verse before it has just said, He is the Most Merciful, and upon Him we rely. Reliance sounds grand in a sermon; here it is as small as a glass on the table. Every sip is held up by a hand I never see. Do I drink as someone who owns the well, or as a guest who is being served?",
+    "reflectionBn": "কল ঘোরালেই পানি আসে। বালতি নামালে ভরা হয়ে ওঠে। সূরা মুলকের শেষ আয়াত ঠিক এই বিষয়েই চুপচাপ একটি প্রশ্ন রাখে: যে পানির উপর তোমার জীবন, তা যদি রাতারাতি নাগালের বাইরে নেমে যায়, কে তোমাকে প্রবহমান পানি এনে দেবে? উত্তর লেখা নেই, কারণ উত্তরের দরকারই নেই। ঠিক আগের আয়াতে বলা হয়েছে, তিনিই দয়াময়, আর তাঁর উপরই আমরা ভরসা করি। ওয়াজের মঞ্চে ভরসা শব্দটা অনেক বড় শোনায়। এখানে তা টেবিলের উপর রাখা এক গ্লাস পানির মতো ছোট আর কাছের। প্রতিটি চুমুক এমন এক হাত ধরে রেখেছে, যা আমি কখনো দেখি না। আমি কি কূপের মালিকের মতো পানি পান করি, নাকি মেহমানের মতো, যাকে খাওয়ানো হচ্ছে?",
+    "pointsEn": [
+      "When did I last drink water and thank the One who brought it to me, rather than the pipe or the bottle?",
+      "Which ordinary blessing in my day do I treat as mine by right, as if it could never sink out of reach?",
+      "If something I depend on were taken tomorrow, to whom would my heart turn first?",
+      "Do I use water as a trust I will be asked about, or as something with no end that costs nothing?",
+      "How can this closing question of al-Mulk become a small habit of gratitude in my home this week?"
+    ],
+    "pointsBn": [
+      "শেষ কবে পানি পান করে পাইপ বা বোতলকে নয়, যিনি পানিটা পৌঁছে দিয়েছেন তাঁকে ধন্যবাদ দিয়েছি?",
+      "আমার দিনের কোন সাধারণ নিয়ামতকে আমি নিজের পাওনা ভাবি, যেন তা কখনো নাগালের বাইরে যেতে পারে না?",
+      "যার উপর আমি নির্ভর করি, কাল যদি তা কেড়ে নেওয়া হয়, আমার মন প্রথমে কার দিকে ফিরবে?",
+      "পানিকে কি আমি এমন আমানত মনে করি যার হিসাব দিতে হবে, নাকি এমন কিছু যা কখনো ফুরায় না, যার কোনো দাম নেই?",
+      "সূরা মুলকের এই শেষ প্রশ্নটি কীভাবে এ সপ্তাহে আমার ঘরে শোকরের একটি ছোট অভ্যাস হয়ে উঠতে পারে?"
+    ],
+    "lessonEn": "Every drop you drink is brought to you by Allah alone, so drink it with thanks and rely on Him, not on the well.",
+    "lessonBn": "যে পানি আপনি পান করেন তার প্রতিটি ফোঁটা আল্লাহ একাই আপনার কাছে পৌঁছে দেন, তাই শোকরের সঙ্গে পান করুন আর কূপের উপর নয়, তাঁর উপর ভরসা রাখুন।"
   }
 };
 

@@ -1166,5 +1166,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "67:30": {
+    "sections": [
+      {
+        "h": {
+          "en": "Al-Mulk Closes on Water",
+          "bn": "পানিতে এসে মুলকের সমাপ্তি"
+        },
+        "p": [
+          {
+            "en": "Qul ara'aytum in asbaha ma'ukum ghawran fa-man ya'tikum bi-ma'in ma'in: say, have you considered, if your water were to sink away, who then could bring you flowing water? This is the last verse of al-Mulk. Ibn Kathir ends his comment on it by noting that the tafsir of Surat Tabarak is complete, and as-Sa'di and al-Qurtubi likewise close the surah with praise of Allah. A surah that opened in 67:1 with the dominion in His hand ends on something as near as the water in a cup.",
+            "bn": "কুল আরাআইতুম ইন আসবাহা মাউকুম গাওরান, ফামান ইয়া'তীকুম বিমাইন মাঈন: বলো, তোমরা কি ভেবে দেখেছ, তোমাদের পানি যদি ভূগর্ভে নেমে যায়, তাহলে কে তোমাদের প্রবহমান পানি এনে দেবে? এটি সূরা মুলকের শেষ আয়াত। ইবন কাসীর এর ব্যাখ্যা শেষ করেন এই কথা বলে যে সূরা তাবারাকের তাফসীর এখানে সমাপ্ত। সা'দী আর কুরতুবীও আল্লাহর প্রশংসা দিয়ে সূরাটি শেষ করেন। যে সূরার শুরু ৬৭:১ আয়াতে, যেখানে রাজত্ব তাঁর হাতে, তার শেষ হয় এমন এক জিনিসে, যা পেয়ালার পানির মতোই কাছের।"
+          },
+          {
+            "en": "The verse is also the last of three in a row that each open with qul, say. In 67:28 the first asks the deniers to consider: whether Allah destroys the Prophet ﷺ and those with him or has mercy on them, who will shelter the disbelievers from a painful punishment? In 67:29 the second states a creed: He is the Most Merciful, we believe in Him and on Him we rely. The third returns to have you considered, and turns from the punishment of the next world to a drink of water in this one.",
+            "bn": "আয়াতটি পরপর এমন তিনটি আয়াতের শেষটি, যাদের প্রতিটি শুরু হয়েছে কুল, অর্থাৎ বলো, দিয়ে। ৬৭:২৮ আয়াতে প্রথমটি অস্বীকারকারীদের ভেবে দেখতে বলে: আল্লাহ নবী ﷺ আর তাঁর সঙ্গীদের ধ্বংস করুন বা তাঁদের উপর দয়া করুন, কাফিরদের মর্মান্তিক শাস্তি থেকে কে আশ্রয় দেবে? ৬৭:২৯ আয়াতে দ্বিতীয়টি একটি আকীদা ঘোষণা করে: তিনিই দয়াময়, আমরা তাঁর উপর ঈমান এনেছি আর তাঁরই উপর ভরসা করি। তৃতীয়টি আবার ফিরে আসে 'তোমরা কি ভেবে দেখেছ' প্রশ্নে, আর পরকালের শাস্তি থেকে মনোযোগ ফেরায় এই দুনিয়ার এক চুমুক পানির দিকে।"
+          },
+          {
+            "en": "At-Tabari reads the command as given to the Prophet ﷺ for these polytheists, whom he calls al-'adilun bi-llah, those who set up equals with Allah. Al-Qurtubi names the audience outright: ya ma'shar Quraysh, O company of Quraysh. The Muyassar also has the Messenger speak to the polytheists, and renders ara'aytum as akhbiruni, tell me. So the verse is first an argument put to a particular people, and only after that a question every reader can hear addressed to himself.",
+            "bn": "তাবারীর পাঠে আদেশটি নবী ﷺ-কে দেওয়া হয়েছে এই মুশরিকদের উদ্দেশে, যাদের তিনি বলেন আল-আদিলূনা বিল্লাহ, অর্থাৎ যারা আল্লাহর সমকক্ষ দাঁড় করায়। কুরতুবী শ্রোতাদের নাম সরাসরি বলেন: ইয়া মা'শারা কুরাইশ, হে কুরাইশের দল। মুয়াসসারেও রাসূল কথা বলছেন মুশরিকদের সঙ্গে, আর সেখানে আরাআইতুম শব্দের অর্থ দেওয়া হয়েছে আখবিরূনী, অর্থাৎ আমাকে বলো। তাই আয়াতটি প্রথমে একটি নির্দিষ্ট জনগোষ্ঠীর সামনে রাখা যুক্তি, তার পরেই এমন এক প্রশ্ন, যা প্রত্যেক পাঠক নিজের দিকে ছোড়া বলে শুনতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ghawr: Beyond the Bucket",
+          "bn": "গাওর: বালতির নাগালের বাইরে"
+        },
+        "p": [
+          {
+            "en": "Ghawr is the word for the water's flight. Al-Qurtubi gives the verb, ghara al-ma'u yaghuru ghawran, the water sank, and glosses it as nadaba, it drained away. Ghawr is the verbal noun, and here it stands where an adjective would be expected: water that is ghawr, not merely gha'ir, sinking. Al-Qurtubi calls this description by the masdar for intensity, as Arabs say of a man that he is 'adl, justice itself, or rida, contentment itself. At-Tabari records the same point, introduced with wa-qila, it has been said.",
+            "bn": "পানির হারিয়ে যাওয়া বোঝাতে শব্দটি গাওর। কুরতুবী ক্রিয়াটি দেন এভাবে: গারাল মাউ ইয়াগূরু গাওরান, পানি নিচে নেমে গেল, আর এর ব্যাখ্যা দেন নাদাবা দিয়ে, অর্থাৎ পানি শুকিয়ে সরে গেল। গাওর হলো ক্রিয়াবাচক বিশেষ্য, অথচ এখানে তা বসেছে বিশেষণের জায়গায়: পানি শুধু গাইর বা নিম্নগামী নয়, পানি যেন নিজেই গাওর। কুরতুবীর মতে এ হলো জোর বোঝাতে মাসদার দিয়ে বিশেষণ দেওয়া, যেমন আরবরা কোনো মানুষকে বলে আদল, যেন সে ন্যায় নিজেই, কিংবা রিদা, যেন সে সন্তুষ্টি নিজেই। তাবারীও একই কথা উল্লেখ করেন, ওয়া কীলা, অর্থাৎ 'বলা হয়েছে' বলে।"
+          },
+          {
+            "en": "The glosses then measure how far the water has gone. At-Tabari and al-Qurtubi say gha'iran, sunken so that the buckets cannot reach it, and at-Tabari has Sa'id ibn Jubayr say the same, la tanaluhu-d-dila'. Qatada and ad-Dahhak, in at-Tabari's report, say only dhahiban, gone. Al-Baghawi adds hands to the buckets. Ibn Kathir goes further down: gone into the earth, sinking, out of reach of iron axes and strong forearms. The Muyassar shuts every door at once: you would not reach it by any means.",
+            "bn": "এরপর ব্যাখ্যাগুলো মেপে দেখায়, পানি কতটা দূরে চলে গেছে। তাবারী ও কুরতুবী বলেন গাইরান, এমনভাবে নেমে গেছে যে বালতি আর তার নাগাল পায় না। তাবারী সাঈদ ইবন জুবাইরের মুখেও একই কথা আনেন: লা তানালুহুদ দিলা। তাবারীর বর্ণনায় কাতাদা ও দাহহাক শুধু বলেন যাহিবান, চলে গেছে। বাগাভী বালতির সঙ্গে হাতও যোগ করেন। ইবন কাসীর আরও গভীরে যান: মাটির ভেতরে নিচের দিকে চলে গেছে, লোহার কোদাল কিংবা শক্ত বাহুও সেখানে পৌঁছাতে পারে না। মুয়াসসার এক কথায় সব দরজা বন্ধ করে দেয়: কোনো উপায়েই তোমরা তার কাছে পৌঁছাতে পারবে না।"
+          },
+          {
+            "en": "Ibn Kathir also sets the word against its opposite: al-gha'ir is the reverse of an-nabi', water that springs up. That pairing prepares the verse's second half. Sinking water is the picture of loss; water that rises and runs over the ground is the picture of supply. The verse does not explain how a well fails. It asks who could undo the failure, and the commentators' buckets, hands and axes show how little human reach can do once the water has gone where only its Creator can follow.",
+            "bn": "ইবন কাসীর শব্দটিকে তার বিপরীতের পাশে রাখেন: আল-গাইর হলো আন-নাবি'র উল্টো, অর্থাৎ যে পানি উপরে উঠে আসে। এই জোড়াটাই আয়াতের দ্বিতীয় অংশের জন্য পথ তৈরি করে। নিচে নেমে যাওয়া পানি হারানোর ছবি; উপরে উঠে মাটির উপর দিয়ে বয়ে চলা পানি জোগানের ছবি। কূপ কীভাবে শুকিয়ে যায়, আয়াত তা ব্যাখ্যা করে না। আয়াত জানতে চায়, এই ক্ষতি কে ফিরিয়ে দিতে পারে। আর তাফসীরকারদের বালতি, হাত আর কোদাল দেখিয়ে দেয়, পানি যখন এমন জায়গায় চলে যায় যেখানে কেবল তার স্রষ্টাই পৌঁছান, তখন মানুষের নাগাল কত সামান্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ma'in, Glossed Four Ways",
+          "bn": "মাঈনের চার রকম ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Ma'in, the water named in the question, gathered several glosses, and each notices something different. Flowing is the most common. Al-Qurtubi gives jarin, running, from Qatada and ad-Dahhak, and at-Tabari reports the same from both. Al-Baghawi has it from Ibn 'Abbas (RA) through 'Ata'. Ibn Kathir stacks three words, nabi', sa'ih, jarin 'ala wajhi-l-ard: springing, spreading, running over the face of the earth. The Muyassar joins two senses in one phrase: water running over the ground, plain to the eyes.",
+            "bn": "প্রশ্নে যে পানির কথা বলা হয়েছে, সেই মাঈন শব্দের কয়েক রকম ব্যাখ্যা এসেছে, আর প্রতিটির নজর ভিন্ন জিনিসে। সবচেয়ে প্রচলিত অর্থ প্রবহমান। কুরতুবী কাতাদা ও দাহহাক থেকে আনেন জারিন, অর্থাৎ বয়ে চলা, আর তাবারীও দুজনের কাছ থেকে একই কথা বর্ণনা করেন। বাগাভী এ অর্থ আনেন ইবন আব্বাস (রাঃ) থেকে, আতার সূত্রে। ইবন কাসীর পরপর তিনটি শব্দ সাজান: নাবি', সাইহ, জারিন আলা ওয়াজহিল আরদ, অর্থাৎ উৎসারিত, ছড়িয়ে পড়া, মাটির বুকে বয়ে চলা। মুয়াসসার একটি বাক্যে দুটি অর্থ জুড়ে দেয়: মাটির উপর দিয়ে বয়ে চলা পানি, যা চোখে স্পষ্ট দেখা যায়।"
+          },
+          {
+            "en": "Visible is the second sense. At-Tabari's own gloss is water that the eyes see on the surface, and he reports Sa'id ibn Jubayr saying simply az-zahir, the evident. Al-Qurtubi carries this sense from Ibn 'Abbas (RA) and names the form behind it: on this reading ma'in is maf'ul, the pattern of something acted upon, water that eyes see. Al-Baghawi sets it squarely against ghawr. Sunken water is beyond hands and buckets; ma'in is water the eyes see and the hands and buckets reach.",
+            "bn": "দ্বিতীয় অর্থ দৃশ্যমান। তাবারীর নিজের ব্যাখ্যা হলো, এমন পানি যা চোখ উপরিভাগে দেখতে পায়। আর তিনি সাঈদ ইবন জুবাইর থেকে বর্ণনা করেন শুধু একটি শব্দ: আয-যাহির, স্পষ্ট। কুরতুবী এ অর্থ আনেন ইবন আব্বাস (রাঃ) থেকে, আর এর পেছনের রূপটিও বলেন: এই পাঠে মাঈন হলো মাফঊল, অর্থাৎ যার উপর কাজ ঘটে, এমন পানি যা চোখ দেখে। বাগাভী একে সরাসরি গাওরের বিপরীতে দাঁড় করান। নেমে যাওয়া পানি হাত ও বালতির নাগালের বাইরে; আর মাঈন হলো সেই পানি, যা চোখে দেখা যায় আর হাত ও বালতি যার নাগাল পায়।"
+          },
+          {
+            "en": "The third sense comes from another root. Al-Qurtubi reports an unnamed view, introduced with wa-qila, that ma'in is from ma'ana al-ma', the water grew plentiful, so the word follows the pattern fa'il and means abundant. He lists this beside the derivation from the eye and does not choose between them. The fourth sense is taste. At-Tabari reports through his chain to Ibn 'Abbas (RA) that bi-ma'in ma'in means bi-ma'in 'adhb, sweet water, and al-Qurtubi carries this as a second report from him. So Ibn 'Abbas is quoted for flowing, visible and sweet, by different routes.",
+            "bn": "তৃতীয় অর্থ এসেছে ভিন্ন এক ধাতু থেকে। কুরতুবী ওয়া কীলা বলে একটি মত আনেন, যার বক্তার নাম নেই: মাঈন এসেছে মাআনাল মা' থেকে, অর্থাৎ পানি প্রচুর হলো। তাহলে শব্দটি ফাঈল ওজনে, আর অর্থ প্রচুর পানি। চোখ থেকে আসা ব্যাখ্যার পাশে তিনি এটিও রাখেন, কোনোটিকে বেছে নেন না। চতুর্থ অর্থ স্বাদের। তাবারী নিজের সনদে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন যে বিমাইন মাঈন মানে বিমাইন আযব, মিঠা পানি। কুরতুবীও এটিকে তাঁর থেকে দ্বিতীয় বর্ণনা হিসেবে আনেন। ফলে ভিন্ন ভিন্ন সূত্রে ইবন আব্বাসের নামে তিনটি অর্থই এসেছে: প্রবহমান, দৃশ্যমান আর মিঠা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Zamzam and the Well of Maymun",
+          "bn": "যমযম আর মাইমূনের কূপ"
+        },
+        "p": [
+          {
+            "en": "Some commentators give the verse a local address. Al-Qurtubi, having named Quraysh as the audience, adds that their water came from two wells, the well of Zamzam and the well of Maymun. Al-Baghawi reports that al-Kalbi and Muqatil said the verse means the water of Zamzam. Neither builds a story on this; they only say whose water was meant first. For the people first addressed, your water was not an abstraction. It was the wells they drew from every day, and the question asked them to picture those wells dry.",
+            "bn": "কিছু তাফসীরকার আয়াতটিকে একটি নির্দিষ্ট জায়গার সঙ্গে যুক্ত করেন। কুরতুবী শ্রোতা হিসেবে কুরাইশের নাম বলার পর জানান, তাদের পানি আসত দুটি কূপ থেকে: যমযম কূপ আর মাইমূনের কূপ। বাগাভী বর্ণনা করেন, কালবী ও মুকাতিল বলেছেন, এখানে উদ্দেশ্য যমযমের পানি। এ নিয়ে কেউই কোনো কাহিনি দাঁড় করান না; তাঁরা শুধু বলেন, প্রথমে কার পানির কথা বলা হয়েছিল। যাদের প্রথম সম্বোধন করা হয়েছিল, তাদের কাছে 'তোমাদের পানি' কোনো বিমূর্ত কথা ছিল না। তা ছিল সেই কূপগুলো, যেখান থেকে তারা রোজ পানি তুলত। আর প্রশ্নটি তাদের বলেছিল সেই কূপগুলোকে শুকনো কল্পনা করতে।"
+          },
+          {
+            "en": "Other commentators keep the reference general. The Muyassar speaks of your water that you drink from. As-Sa'di widens it to all that water does for a household: water that you drink, and with which you water your livestock, your trees and your crops. Ma'arif al-Qur'an pictures the water people draw from their wells with ease, suddenly gone into the depths. The two approaches do not clash. The first audience heard a threat to Zamzam, and every later hearer can hear a threat to whatever well, river or pipe keeps him alive.",
+            "bn": "অন্য তাফসীরকারেরা কথাটিকে সাধারণ রাখেন। মুয়াসসার বলে, তোমাদের সেই পানি, যা তোমরা পান করো। সা'দী একে বিস্তৃত করেন একটি সংসারে পানির সব কাজ পর্যন্ত: যে পানি তোমরা পান করো, যা দিয়ে তোমাদের পশু, গাছপালা আর ফসলে পানি দাও। মাআরিফুল কুরআন এমন ছবি আঁকে: কূপ থেকে মানুষ যে পানি সহজে তুলে আনে, তা হঠাৎ গভীরে হারিয়ে গেছে। দুটি পথ পরস্পরবিরোধী নয়। প্রথম শ্রোতারা শুনেছিল যমযমের উপর হুমকি। আর পরের প্রত্যেক শ্রোতা শুনতে পারেন সেই কূপ, নদী বা পাইপের উপর হুমকি, যা তাকে বাঁচিয়ে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Else Could Bring It?",
+          "bn": "আর কে তা এনে দিতে পারে?"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di names the grammar of the question: istifham bi-ma'na-n-nafy, a question in the sense of a denial. Fa-man ya'tikum, who will bring it to you, means: no one can do this except Allah the Exalted. The Muyassar writes the implied answer into its paraphrase: who other than Allah will bring you flowing water? Ma'arif al-Qur'an makes the same point in plain words: do they have any power through which to obtain pure running water? Obviously, it says, the answer is in the negative.",
+            "bn": "সা'দী প্রশ্নটির ব্যাকরণ চিহ্নিত করেন: ইসতিফহাম বিমা'নান নাফই, অর্থাৎ অস্বীকারের অর্থে প্রশ্ন। ফামান ইয়া'তীকুম, কে তোমাদের তা এনে দেবে, এর মানে: মহান আল্লাহ ছাড়া কেউই তা পারে না। মুয়াসসার নিজের ব্যাখ্যার ভেতরেই উহ্য উত্তরটা লিখে দেয়: আল্লাহ ছাড়া আর কে তোমাদের প্রবহমান পানি এনে দেবে? মাআরিফুল কুরআন একই কথা সহজ ভাষায় বলে: বিশুদ্ধ প্রবহমান পানি পাওয়ার কোনো ক্ষমতা কি তাদের আছে? স্পষ্টতই, সেখানে বলা হয়েছে, উত্তর হলো না।"
+          },
+          {
+            "en": "Al-Qurtubi draws the argument to its end. Asked this, they have no way out except to say that only Allah will bring it. Then, he says, tell them: why do you associate with Him those who are unable to bring it to you? The question does not set out to prove that Allah sends water; it relies on the hearers already knowing it. What it exposes is the gap between that knowledge and a worship shared with others who cannot send a single drop. The hearers' own answer becomes the case against them.",
+            "bn": "কুরতুবী যুক্তিটিকে শেষ পর্যন্ত টেনে নেন। এ প্রশ্নের সামনে তাদের এ কথা বলা ছাড়া কোনো উপায় থাকে না যে আল্লাহ ছাড়া কেউ তা আনবে না। তখন, তিনি বলেন, তাদের বলো: যে তোমাদের কাছে তা আনতে অক্ষম, তাকে কেন তাঁর সঙ্গে শরীক করো? আল্লাহই যে পানি পাঠান, প্রশ্নটি তা প্রমাণ করতে বসে না; শ্রোতারা যে আগে থেকেই তা জানে, প্রশ্নটি তার উপর ভর করে। প্রশ্নটি যা খুলে দেখায় তা হলো এই জানা আর এমন সত্তাদের সঙ্গে ভাগ করা ইবাদতের মাঝের ফাঁক, যারা একটি ফোঁটাও পাঠাতে পারে না। শ্রোতাদের নিজেদের উত্তরই তাদের বিরুদ্ধে প্রমাণ হয়ে দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sunken Water in al-Kahf",
+          "bn": "সূরা কাহফে নেমে যাওয়া পানি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi refers the reader back to what he wrote in Surat al-Kahf on the word and in Surat al-Mu'minun on the meaning. The word ghawr occurs in al-Kahf at 18:41, in the warning given by his companion to the owner of two gardens: or its water will become sunken, so that you will never be able to seek it. There a single man's orchard is threatened; here the water of a whole people. The phrasing is nearly the same, asbaha ma'uha ghawran beside asbaha ma'ukum ghawran.",
+            "bn": "কুরতুবী পাঠককে ফিরিয়ে দেন সূরা কাহফে শব্দটি নিয়ে আর সূরা মু'মিনূনে অর্থটি নিয়ে তাঁর আগের আলোচনার দিকে। গাওর শব্দটি সূরা কাহফে আছে ১৮:৪১ আয়াতে, দুই বাগানের মালিককে তার সঙ্গীর দেওয়া সতর্কবাণীতে: অথবা তার পানি ভূগর্ভে নেমে যাবে, ফলে তুমি কখনো তার খোঁজ পাবে না। সেখানে হুমকি একজন মানুষের বাগানের উপর, এখানে গোটা এক জনগোষ্ঠীর পানির উপর। শব্দগুলোও প্রায় এক: সেখানে আসবাহা মাউহা গাওরান, এখানে আসবাহা মাউকুম গাওরান।"
+          },
+          {
+            "en": "In al-Mu'minun, 23:18 states the rule behind the threat: We sent down water from the sky in measure and settled it in the earth, and We are able to take it away. As-Sa'di introduces 67:30 as Allah telling of His sole ownership of blessings, above all water, from which He made every living thing, in words that echo 21:30. Within al-Mulk, 67:21 has already asked a question of the same shape: who could provide for you if He withheld His provision? At the close, that general provision narrows to water.",
+            "bn": "সূরা মু'মিনূনে ২৩:১৮ আয়াত এই হুমকির পেছনের নিয়মটি বলে দেয়: আমি আকাশ থেকে পরিমিত পানি নামিয়েছি, তারপর তা যমীনে স্থির করে রেখেছি, আর তা সরিয়ে নিতেও আমি অবশ্যই সক্ষম। সা'দী ৬৭:৩০ আয়াতের শুরুতে বলেন, এখানে আল্লাহ জানাচ্ছেন যে সব নিয়ামতের মালিক তিনি একাই, বিশেষ করে পানির, যা থেকে তিনি প্রতিটি প্রাণবান জিনিস বানিয়েছেন। তাঁর কথায় ২১:৩০ আয়াতের প্রতিধ্বনি শোনা যায়। সূরা মুলকের ভেতরেও ৬৭:২১ আয়াত একই গড়নের প্রশ্ন আগেই করেছে: তিনি যদি তাঁর রিযক বন্ধ করে দেন, কে তোমাদের রিযক দেবে? সূরার শেষে এসে সেই সাধারণ রিযক সংকুচিত হয়ে দাঁড়ায় পানিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise for Water in Measure",
+          "bn": "পরিমাণমতো পানির জন্য প্রশংসা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir turns the threat into thanks. No one can bring flowing water except Allah, so it is from His favour and generosity that He made the waters spring up for you and run through every region of the earth, according to what the servants need of little or much. Then he ends: fa-lillahi-l-hamdu wa-l-minna, to Allah belong the praise and the favour. The abridged English Ibn Kathir heads the verse as a reminder of His blessing in springing water, and of the threat that it could be taken away.",
+            "bn": "ইবন কাসীর হুমকিটিকে শোকরে রূপ দেন। আল্লাহ ছাড়া কেউ প্রবহমান পানি আনতে পারে না। তাই এ তাঁর অনুগ্রহ ও দানশীলতা যে তিনি তোমাদের জন্য পানির ধারা উৎসারিত করেছেন আর পৃথিবীর সব অঞ্চলে তা বইয়ে দিয়েছেন, বান্দাদের প্রয়োজন অনুযায়ী, কম হোক বা বেশি। তারপর তিনি শেষ করেন: ফালিল্লাহিল হামদু ওয়াল মিন্নাহ, সব প্রশংসা আর অনুগ্রহ আল্লাহরই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ আয়াতটির শিরোনাম দেয় এভাবে: উৎসারিত পানির নিয়ামতের কথা মনে করানো, আর তা কেড়ে নেওয়ার হুমকি।"
+          },
+          {
+            "en": "Placed after 67:29, the question tests the creed just spoken. There the believers said: He is the Most Merciful, we believe in Him and on Him we rely. The abridged Ibn Kathir explains this as relying on Him in all of our affairs, and cites 11:123, so worship Him and rely upon Him. The very next verse names the most ordinary affair there is. Whoever has truly said that on Him we rely has already answered the question of who brings the water, before it is even asked.",
+            "bn": "৬৭:২৯ আয়াতের পরে এসে প্রশ্নটি সদ্য উচ্চারিত আকীদাটির পরীক্ষা নেয়। সেখানে মুমিনরা বলেছিল: তিনিই দয়াময়, আমরা তাঁর উপর ঈমান এনেছি আর তাঁরই উপর ভরসা করি। সংক্ষিপ্ত ইবন কাসীর এর ব্যাখ্যা দেন, আমাদের সব কাজে তাঁর উপর ভরসা, আর উদ্ধৃত করেন ১১:১২৩ আয়াত: কাজেই তাঁর ইবাদত করো আর তাঁর উপর ভরসা রাখো। ঠিক পরের আয়াতটি এমন এক কাজের নাম নেয়, যার চেয়ে সাধারণ কিছু নেই। যে সত্যিই বলেছে, আমরা তাঁরই উপর ভরসা করি, কে পানি আনে সে প্রশ্নের উত্তর সে প্রশ্ন করার আগেই দিয়ে রেখেছে।"
+          },
+          {
+            "en": "None of the tafsirs read for this verse attaches a sound hadith to it. Al-Baghawi ends his comment with a report from Abu Hurayra (RA) about a surah of thirty verses that interceded for a man, which he names as Tabarak. That report concerns the whole surah, not this verse, and its wording and grading are set out with 67:1 and 67:2. Ma'arif al-Qur'an mentions a tradition about words to say after reciting this verse, but names no collection or grading, so it is not repeated here.",
+            "bn": "এই আয়াতের জন্য পড়া কোনো তাফসীরই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। বাগাভী তাঁর ব্যাখ্যা শেষ করেন আবু হুরায়রা (রাঃ) থেকে একটি বর্ণনা দিয়ে, ত্রিশ আয়াতের এমন এক সূরা সম্পর্কে যা এক ব্যক্তির জন্য সুপারিশ করেছিল, আর তিনি সূরাটির নাম বলেন তাবারাক। সেই বর্ণনা গোটা সূরা নিয়ে, এই আয়াত নিয়ে নয়। এর শব্দ ও মান ৬৭:১ ও ৬৭:২ আয়াতের আলোচনায় দেওয়া আছে। মাআরিফুল কুরআন এই আয়াত তিলাওয়াতের পর কী বলতে হবে সে বিষয়ে একটি বর্ণনার কথা বলে, কিন্তু কোনো গ্রন্থ বা মানের নাম দেয় না। তাই এখানে তা আনা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drinking as a Guest",
+          "bn": "মেহমানের মতো পান করা"
+        },
+        "p": [
+          {
+            "en": "The lesson is dependence, and it sits on the table. The verse does not ask the reader to fear drought or to forecast anything; it asks him to notice that the water he has today is brought, not owned. Ibn Kathir's word for it is fadl, favour, and his response is praise. Whoever reads the last verse of al-Mulk and then drinks a glass of water can practise that praise at once. A guest who is served water also does not pour it on the ground, and reliance on the Giver sits well with care for the gift.",
+            "bn": "শিক্ষাটা নির্ভরতার, আর তা আমাদের খাবার টেবিলেই রাখা। আয়াতটি পাঠককে খরার ভয় দেখায় না, কোনো ভবিষ্যদ্বাণীও করতে বলে না। আয়াত চায়, সে লক্ষ করুক: আজ তার কাছে যে পানি আছে, তা তাকে এনে দেওয়া হয়েছে, সে এর মালিক নয়। ইবন কাসীর একে বলেন ফাদল, অনুগ্রহ, আর তাঁর প্রতিক্রিয়া প্রশংসা। যে সূরা মুলকের শেষ আয়াত পড়ে তারপর এক গ্লাস পানি পান করে, সে তখনই সেই প্রশংসার চর্চা করতে পারে। মেহমানকে পানি দেওয়া হলে সে তা মাটিতে ঢেলে ফেলে না; দাতার উপর ভরসা আর দানের যত্ন একসঙ্গেই চলে।"
+          },
+          {
+            "en": "The verse was first put, as an argument, to people described as setting up equals with Allah. It describes that audience and that argument; it licenses nothing against any living person or community, and gives no one the right to call a shortage of water a punishment on others. Its edge turns inward, asking each reader whether his own reliance matches what 67:29 has just made him say. Al-Mulk opened with Him in whose hand is the dominion, and it closes by asking who else could bring a draught of flowing water.",
+            "bn": "আয়াতটি প্রথমে যুক্তি হিসেবে রাখা হয়েছিল এমন লোকদের সামনে, যাদের বর্ণনা দেওয়া হয়েছে আল্লাহর সমকক্ষ দাঁড় করানো লোক বলে। আয়াত সেই শ্রোতা আর সেই যুক্তির বর্ণনা দেয়; আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। পানির অভাবকে অন্যদের উপর শাস্তি বলে ঘোষণা করার অধিকারও এটি কাউকে দেয় না। এর ধার ভেতরের দিকে ফেরানো: প্রত্যেক পাঠককে এটি জিজ্ঞেস করে, ৬৭:২৯ আয়াত তাকে দিয়ে যা বলিয়েছে, তার নিজের ভরসা কি তার সঙ্গে মেলে? সূরা মুলক শুরু হয়েছিল তাঁকে দিয়ে, রাজত্ব যাঁর হাতে, আর শেষ হয় এই প্রশ্নে: আর কে এক চুমুক প্রবহমান পানি এনে দিতে পারে?"
+          }
+        ]
+      }
+    ]
   }
 });
