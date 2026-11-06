@@ -155,6 +155,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "71:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "Every Time He Called",
+          "bn": "যতবার তিনি ডেকেছেন"
+        },
+        "p": [
+          {
+            "en": "Wa-inni kullama da'awtuhum li-taghfira lahum: and every time I called them, so that You might forgive them. The speaker is Nuh (AS), and he is addressing his Lord. From 71:5 he is giving an account of his mission: I called my people night and day, and in 71:6, my calling only increased them in flight. Ibn Kathir introduces the passage as Nuh's complaint to his Lord about the response he met, after long patience, explaining matters to them and calling them to guidance. This verse shows what that flight looked like.",
+            "bn": "ওয়া ইন্নী কুল্লামা দাআওতুহুম লিতাগফিরা লাহুম: আর যতবারই আমি তাদের ডেকেছি, যেন তুমি তাদের ক্ষমা করো। কথা বলছেন নূহ (আঃ), আর শুনছেন তাঁর রব। ৭১:৫ থেকে তিনি নিজের দাওয়াতের হিসাব দিচ্ছেন: আমি আমার জাতিকে রাতদিন ডেকেছি। ৭১:৬ আয়াতে বলছেন, আমার ডাক তাদের পালানোই শুধু বাড়িয়েছে। ইবন কাসীর এ অংশের পরিচয় দেন রবের কাছে নূহের অভিযোগ হিসেবে। দীর্ঘ ধৈর্যের পর, তাদের সামনে সবকিছু খুলে বলার পর, হিদায়াতের দিকে ডাকার পর যে জবাব তিনি পেয়েছেন, সে কথাই তিনি জানাচ্ছেন। সেই পালানোর চেহারাটা কেমন ছিল, তা দেখায় এই আয়াত।"
+          },
+          {
+            "en": "The word kullama, every time, makes this a pattern rather than a single scene. Each invitation met the same four responses, in the order the verse gives them: they put their fingers in their ears, drew their garments over themselves, persisted, and were arrogant with great arrogance. Al-Muyassar, which explains 71:6 to 71:10 as one passage, glosses the flight of 71:6 as running away from faith and turning aside from it, and moves straight on to these gestures. As-Sa'di says that they refused anything but to press on in their falsehood and to shy away from the truth.",
+            "bn": "কুল্লামা শব্দের অর্থ যতবারই। শব্দটা ঘটনাকে একবারের দৃশ্য থাকতে দেয় না, বানিয়ে দেয় নিয়মিত ধারা। প্রতিটি দাওয়াতের জবাব ছিল একই চারটি কাজ, আয়াতের ক্রমেই: কানে আঙুল দেওয়া, গায়ে কাপড় টেনে নেওয়া, জিদ ধরে থাকা, আর চরম অহংকার করা। মুয়াসসার ৭১:৬ থেকে ৭১:১০ পর্যন্ত এক অংশ হিসেবে ব্যাখ্যা করে। ৭১:৬ আয়াতের পালানোকে সে বোঝায় ঈমান থেকে দূরে ছুটে যাওয়া আর মুখ ফিরিয়ে নেওয়া বলে, তারপর সোজা চলে আসে এই কাজগুলোতে। সা'দী বলেন, বাতিলের উপর আরও এগিয়ে যাওয়া আর হক থেকে সরে থাকা ছাড়া অন্য সব কিছুই তারা প্রত্যাখ্যান করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgiveness Named Before Refusal",
+          "bn": "প্রত্যাখ্যানের আগে ক্ষমার কথা"
+        },
+        "p": [
+          {
+            "en": "Before he reports a single gesture, Nuh (AS) names what the calling was for: li-taghfira lahum, so that You might forgive them. The commentators fill in the step between the call and the pardon. At-Tabari paraphrases: every time I called them to affirm Your oneness, to act in obedience to You and to disown the worship of everything besides You, so that You would forgive them if they did that. Al-Qurtubi: I called them to the cause of forgiveness, which is faith in You and obedience to You. Al-Muyassar: so that it would be a cause of Your forgiving their sins.",
+            "bn": "একটি আচরণের কথাও বলার আগে নূহ (আঃ) জানিয়ে দেন ডাকার উদ্দেশ্য: লিতাগফিরা লাহুম, যেন তুমি তাদের ক্ষমা করো। দাওয়াত আর ক্ষমার মাঝখানের ধাপটা তাফসীরকারেরা খুলে বলেন। তাবারীর ব্যাখ্যায় নূহ (আঃ) বলছেন: যতবার আমি তাদের ডেকেছি তোমার একত্ব মেনে নিতে, তোমার আনুগত্যে আমল করতে, আর তুমি ছাড়া অন্য সবার ইবাদত থেকে সম্পর্ক ছিন্ন করতে, যাতে তারা তা করলে তুমি তাদের ক্ষমা করো। কুরতুবী বলেন: আমি তাদের ডেকেছি ক্ষমার কারণের দিকে, আর সে কারণ হলো তোমার উপর ঈমান ও তোমার আনুগত্য। মুয়াসসার বলে: যাতে তা তাদের গুনাহ মাফের উপলক্ষ হয়।"
+          },
+          {
+            "en": "As-Sa'di puts it most plainly. The call was so that they would respond, and if they responded You would forgive them; so this was purely in their own interest. His word for it is mahd maslahatihim, nothing but their good. Each of the commentators makes the response the road and the forgiveness the end of it. In every gloss, the good that is named belongs to the people called. The people's reply to that call was to stop their ears, which is the subject of everything that follows in the verse.",
+            "bn": "সবচেয়ে সোজা করে বলেন সা'দী। ডাকা হয়েছিল যেন তারা সাড়া দেয়, আর সাড়া দিলে তুমি তাদের ক্ষমা করতে। তাই এতে ছিল খাঁটি তাদেরই কল্যাণ। তাঁর শব্দ মাহদ মাসলাহাতিহিম, অর্থাৎ শুধুই তাদের ভালো। প্রত্যেক তাফসীরকারের কাছে সাড়া দেওয়াটা পথ, আর ক্ষমা সেই পথের শেষ। প্রতিটি ব্যাখ্যায় যে কল্যাণের কথা আসে, তা যাদের ডাকা হচ্ছে তাদেরই। আর এমন ডাকের জবাবে লোকেরা কান বন্ধ করেছিল। আয়াতের বাকি সব কথা সেই জবাব নিয়েই।"
+          },
+          {
+            "en": "One reading belongs to this article, not to the commentators above. Speaking to his Lord after long refusal, Nuh describes his preaching first by the good he hoped it would do them, and only then by what they did to it. The verb in the clause is addressed to Allah: that You might forgive. So the account he gives of his own work begins with mercy, asked for people who were at that moment turning their backs. What the fingers shut out, on this reading, was an offer of pardon.",
+            "bn": "একটা পাঠ এই লেখার নিজের, উপরের তাফসীরকারদের নয়। দীর্ঘ প্রত্যাখ্যানের পর রবের সঙ্গে কথা বলতে গিয়ে নূহ (আঃ) নিজের দাওয়াতের বর্ণনা শুরু করেন সেই কল্যাণ দিয়ে, যা তিনি তাদের জন্য আশা করেছিলেন। তারা দাওয়াতের সঙ্গে কী করেছে, সেটা আসে পরে। বাক্যের ক্রিয়াটি আল্লাহকে উদ্দেশ করে: যেন তুমি ক্ষমা করো। অর্থাৎ নিজের কাজের হিসাব তিনি শুরু করেন রহমত দিয়ে, এমন লোকদের জন্য চেয়ে, যারা ঠিক তখনই মুখ ফিরিয়ে নিচ্ছিল। এ পাঠে আঙুল দিয়ে যা ঠেকানো হয়েছিল, তা ছিল মাফের প্রস্তাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fingers Pushed Into Ears",
+          "bn": "কানের ভেতর আঙুল"
+        },
+        "p": [
+          {
+            "en": "Ja'alu asabi'ahum fi adhanihim: they put their fingers in their ears. On this first gesture the commentators are in full agreement, and the reason they give is hearing. Ibn Kathir: they blocked their ears so that they would not hear what I was calling them to. At-Tabari: so that they would not hear my call to them, and he reports Ibn Zayd: so that they would not hear the speech of Nuh. Al-Baghawi: so that they would not hear my call. Al-Muyassar: so that they would not hear the call of truth.",
+            "bn": "জাআলূ আসাবিআহুম ফী আযানিহিম: তারা কানে আঙুল ঢুকিয়ে দিল। এই প্রথম কাজটির ব্যাপারে তাফসীরকারেরা এক সুরে কথা বলেন, আর কারণ হিসেবে সবাই বলেন শোনার কথা। ইবন কাসীর: আমি যার দিকে ডাকছি তা যেন শুনতে না হয়, সেজন্য তারা কান বন্ধ করেছে। তাবারী: যেন আমার ডাক শুনতে না হয়। সঙ্গে তিনি ইবন যায়দের কথা আনেন: যেন নূহের কথা কানে না আসে। বাগাভী: যেন আমার দাওয়াত শুনতে না হয়। মুয়াসসার: যেন হকের ডাক শুনতে না হয়।"
+          },
+          {
+            "en": "As-Sa'di's phrase is sharper: hadhara sama'i ma yaqulu lahum nabiyyuhum Nuh, on guard against hearing what their prophet Nuh was saying to them. Ibn Kathir sets the verse beside 41:26, where the disbelievers of Quraysh say: do not listen to this Qur'an, and make noise over it so that you may prevail. He calls the two alike. In both places the refusal is aimed at hearing itself, before any word has been weighed. A person who argues back has at least listened; the fingers make sure there is nothing to argue with.",
+            "bn": "সা'দীর ভাষা আরও ধারালো: হাযারা সামাই মা ইয়াকূলু লাহুম নাবিয়্যুহুম নূহ, অর্থাৎ তাদের নবী নূহ (আঃ) যা বলছেন তা শুনে ফেলার ভয়ে সতর্ক থেকে। ইবন কাসীর আয়াতটিকে রাখেন ৪১:২৬ আয়াতের পাশে, যেখানে কুরাইশের কাফেররা বলে: এই কুরআন শুনো না, এতে হট্টগোল করো, হয়তো তোমরা জয়ী হবে। তিনি দুটিকে একই রকম বলেন। দুই জায়গাতেই প্রত্যাখ্যানের নিশানা শোনা নিজেই, কোনো কথা মেপে দেখার আগেই। যে পাল্টা যুক্তি দেয়, সে অন্তত শুনেছে। আঙুল নিশ্চিত করে যে যুক্তি দেওয়ার মতো কিছুই কানে আসবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Cloth Against Sound or Sight",
+          "bn": "শব্দ ঠেকাতে, না দেখা ঠেকাতে"
+        },
+        "p": [
+          {
+            "en": "Wa-staghshaw thiyabahum: and they covered themselves with their garments. Here the commentators part ways on the purpose. A first line reads it as more of the same. At-Tabari: they wrapped themselves in their garments and covered themselves with them so that they would not hear my call, and he adds that the people of interpretation said likewise. Ibn Kathir reports from Sa'id ibn Jubayr and as-Suddi: they covered their heads so that they would not hear what he was saying. On this reading the cloth finishes what the fingers began.",
+            "bn": "ওয়াসতাগশাও সিয়াবাহুম: আর তারা নিজেদের কাপড়ে নিজেদের ঢেকে নিল। উদ্দেশ্য নিয়ে এখানে তাফসীরকারদের পথ আলাদা হয়ে যায়। একদল একে আগের কাজেরই বাড়তি অংশ হিসেবে পড়েন। তাবারী বলেন, তারা কাপড়ে নিজেদের জড়িয়ে নিল, কাপড় দিয়ে ঢেকে নিল, যেন আমার ডাক শুনতে না হয়। তিনি যোগ করেন, ব্যাখ্যাকারেরাও এমনটাই বলেছেন। ইবন কাসীর সাঈদ ইবন জুবাইর ও সুদ্দীর কথা আনেন: তারা মাথা ঢেকে নিল, যেন তিনি যা বলছেন তা শুনতে না হয়। এ পাঠে আঙুল যা শুরু করেছিল, কাপড় তা পুরো করে।"
+          },
+          {
+            "en": "Another line reads it for sight. Al-Qurtubi's own first gloss is that they covered their faces with their garments so that they would not see him. Al-Baghawi has Nuh (AS) say it in the first person: they covered their faces with them so that they would not see me. Al-Muyassar agrees: they covered themselves with their garments so that they would not see me. Taken this way the two gestures divide the work between them: the fingers close the ears to his voice, and the cloth closes the eyes to his face.",
+            "bn": "আরেকদল একে পড়েন দেখার সঙ্গে মিলিয়ে। কুরতুবীর নিজের প্রথম ব্যাখ্যা হলো, তারা কাপড় দিয়ে মুখ ঢেকে নিল, যেন তাঁকে দেখতে না হয়। বাগাভীর বর্ণনায় নূহ (আঃ) নিজেই বলছেন: তারা কাপড়ে মুখ ঢেকে নিল, যেন আমাকে দেখতে না হয়। মুয়াসসারও একমত: তারা কাপড়ে নিজেদের ঢেকে নিল, যেন আমাকে দেখতে না হয়। এভাবে পড়লে দুই কাজ ভাগ করে দায়িত্ব নেয়। আঙুল কান বন্ধ করে তাঁর কণ্ঠের সামনে, আর কাপড় চোখ বন্ধ করে তাঁর চেহারার সামনে।"
+          },
+          {
+            "en": "As-Sa'di reads the covering for what it shows about them rather than for what it blocked. They covered themselves, he says, with a covering that enveloped them, out of distance from the truth and hatred of it. His gloss uses yaghshahum, from the same root as the verse's verb, and at-Tabari's taghashshaw does the same: both explain the word by its own root, a wrapping that closes over a person. The commentators record both purposes, hearing and seeing, and this article does not choose between them.",
+            "bn": "সা'দী কাপড়টাকে দেখেন অন্যভাবে: কী আটকাল তা নয়, বরং এ থেকে তাদের সম্পর্কে কী বোঝা যায়। তাঁর ভাষায়, হক থেকে দূরত্ব আর হকের প্রতি ঘৃণা থেকে তারা নিজেদের এমন আবরণে ঢেকে নিল, যা তাদের ঘিরে ফেলে। তাঁর ব্যাখ্যায় এসেছে ইয়াগশাহুম, আয়াতের ক্রিয়ার একই ধাতু থেকে। তাবারীর তাগাশশাও শব্দও তাই। দুজনেই শব্দটা বোঝান তার নিজের ধাতু দিয়ে: এমন মোড়ক, যা মানুষকে ঢেকে ফেলে। শোনা আর দেখা, দুই উদ্দেশ্যই তাফসীরকারেরা লিখে রেখেছেন। এই লেখা তার কোনো একটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibn 'Abbas, Reported Two Ways",
+          "bn": "ইবন আব্বাস (রাঃ), দুই বর্ণনায়"
+        },
+        "p": [
+          {
+            "en": "A third purpose comes from Ibn 'Abbas (RA), and he is reported on two sides. Ibn Kathir gives, through Ibn Jurayj from Ibn 'Abbas: tanakkaru lahu li-alla ya'rifahum, they disguised themselves from him so that he would not recognise them. (The abridged English renders the narrator as Ibn Jarir; the Arabic reads Ibn Jurayj.) Al-Qurtubi gives Ibn 'Abbas differently: they put their garments over their heads so that they would not hear his speech. The same Companion, in two reports, is cited for not being known and for not hearing. Neither commentator weighs the two here.",
+            "bn": "তৃতীয় একটি উদ্দেশ্য আসে ইবন আব্বাস (রাঃ)-এর কাছ থেকে, আর তাঁর নামে দুই রকম বর্ণনা আছে। ইবন কাসীর ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: তানাক্কারূ লাহু লিআল্লা ইয়ারিফাহুম, তারা তাঁর কাছ থেকে নিজেদের ছদ্মবেশে ঢেকে নিল, যেন তিনি তাদের চিনতে না পারেন। (সংক্ষিপ্ত ইংরেজি সংস্করণে বর্ণনাকারীর নাম ইবন জারীর লেখা, কিন্তু আরবিতে আছে ইবন জুরাইজ।) কুরতুবী ইবন আব্বাস (রাঃ)-এর কথা আনেন অন্যভাবে: তারা মাথার উপর কাপড় টেনে দিল, যেন তাঁর কথা শুনতে না হয়। একই সাহাবীর নামে দুই বর্ণনা: একটিতে চিনতে না দেওয়া, অন্যটিতে না শোনা। কোনো তাফসীরকার এখানে একটিকে অন্যটির উপর প্রাধান্য দেননি।"
+          },
+          {
+            "en": "Al-Qurtubi then sets out the possibilities side by side. Covering with garments may be an addition to stopping the ears, so that they would not hear; or a way of making themselves unknown to him, so that he would fall silent; or a way of making him know that they had turned away from him. He adds a last view under qila, it is said: that the phrase is a figure for enmity, as the Arabs say, so-and-so put on the garments of enmity towards me. On that view no cloth need be pictured at all; the garment is the hostility itself.",
+            "bn": "এরপর কুরতুবী সম্ভাবনাগুলো পাশাপাশি সাজিয়ে দেন। কাপড়ে ঢাকা হতে পারে কান বন্ধ করারই বাড়তি ধাপ, যেন শুনতে না হয়। হতে পারে নিজেদের অচেনা করে তোলা, যাতে তিনি চুপ হয়ে যান। আবার হতে পারে তাঁকে বুঝিয়ে দেওয়া যে তারা তাঁর থেকে মুখ ফিরিয়ে নিয়েছে। শেষে 'বলা হয়' কথাটি দিয়ে তিনি আরেকটি মত আনেন: বাক্যটি শত্রুতার রূপক। আরবরা যেমন বলে, অমুক আমার জন্য শত্রুতার পোশাক পরেছে। এ মতে কোনো কাপড় কল্পনা করারই দরকার নেই। পোশাকটা আসলে শত্রুতা নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Persisting, Then Pride Upon Pride",
+          "bn": "জিদ, তার উপর অহংকার"
+        },
+        "p": [
+          {
+            "en": "Wa-asarru: and they persisted. The commentators gloss it as standing still in what they were already doing. At-Tabari: they held firm to the disbelief they were upon and stayed in it, and he reports Ibn Zayd: persistence is their remaining in evil and disbelief. Ibn Kathir: they continued in what they were upon of shirk and great, hideous disbelief. Al-Qurtubi adds the missing act: they persisted in disbelief and did not repent. As-Sa'di: in their disbelief and their evil. The two gestures before it were refusals; persistence makes them the settled habit of a life.",
+            "bn": "ওয়া আসাররূ: আর তারা জিদ ধরে রইল। তাফসীরকারেরা এর অর্থ করেন যেখানে ছিল সেখানেই দাঁড়িয়ে থাকা। তাবারী বলেন, তারা যে কুফরের উপর ছিল, তাতেই অটল থাকল, সেখানেই রয়ে গেল। ইবন যায়দের কথাও তিনি আনেন: জিদ মানে মন্দ ও কুফরের উপর টিকে থাকা। ইবন কাসীর বলেন, শিরক আর ভয়ংকর বড় কুফরের যে অবস্থায় তারা ছিল, তাতেই চলতে থাকল। কুরতুবী যোগ করেন যে কাজটা হয়নি, সেটা: তারা কুফরে অটল রইল, তওবা করল না। সা'দী: নিজেদের কুফর আর মন্দের উপর। আগের দুই কাজ ছিল প্রত্যাখ্যান। জিদ সেই প্রত্যাখ্যানকে বানিয়ে দেয় জীবনের স্থায়ী অভ্যাস।"
+          },
+          {
+            "en": "Wa-stakbaru stikbara: and they were arrogant with great arrogance. At-Tabari: they grew proud and held themselves too great to yield to the truth and to accept the sincere advice, an-nasiha, that I called them to. His word frames the whole call as counsel given for their sake. Ibn Kathir: they disdained following the truth and submitting to it. Al-Qurtubi gives the pride a reason from Nuh's wider story: they were too proud to accept the truth because they said, as 26:111 reports, shall we believe you when the lowest follow you?",
+            "bn": "ওয়াসতাকবারূ ইসতিকবারা: আর তারা ভীষণ অহংকার করল। তাবারী বলেন, তারা অহংকারী হয়ে উঠল, হকের সামনে মাথা নোয়ানো আর আমি যে আন্তরিক উপদেশের দিকে ডেকেছি তা গ্রহণ করাকে নিজেদের মর্যাদার নিচে মনে করল। তাঁর শব্দ আন-নাসীহা গোটা দাওয়াতকেই তাদের কল্যাণে দেওয়া পরামর্শ বানিয়ে দেয়। ইবন কাসীর: হকের অনুসরণ আর তার কাছে নত হওয়াকে তারা হীন মনে করল। কুরতুবী নূহ (আঃ)-এর বড় কাহিনি থেকে অহংকারের একটা কারণ দেখান। তারা হক মানতে অহংকার করেছিল, কারণ ২৬:১১১ আয়াতের বর্ণনামতে তারা বলেছিল: আমরা কি তোমার উপর ঈমান আনব, অথচ তোমার অনুসারী হলো সবচেয়ে নিচু লোকেরা?"
+          },
+          {
+            "en": "Then the doubled word. Al-Qurtubi says of istikbara only that it is tafkhim, a giving of weight: the verbal noun is there to make the arrogance large. Al-Muyassar renders it as arrogance that was severe, istikbaran shadidan. As-Sa'di ends his note on the verse with a line on where it all led: so their evil increased, and their good grew distant. The verse closes on its heaviest word. Al-Qurtubi and al-Muyassar read the doubling for degree, the size of the pride, while as-Sa'di reads the whole sequence for its result in the people themselves.",
+            "bn": "তারপর সেই দ্বিগুণ শব্দ। ইসতিকবারা সম্পর্কে কুরতুবী শুধু বলেন, এটা তাফখীম, অর্থাৎ ভার বাড়ানো। ক্রিয়াবাচক বিশেষ্যটা এসেছে অহংকারকে বড় করে দেখাতে। মুয়াসসার একে বলে কঠিন অহংকার, ইসতিকবারান শাদীদান। সব মিলিয়ে তারা কোথায় গিয়ে দাঁড়াল, এক বাক্যে তা বলে সা'দী আয়াতের আলোচনা শেষ করেন: ফলে তাদের মন্দ বেড়ে গেল, আর তাদের ভালো দূরে সরে গেল। আয়াত শেষ হয় তার সবচেয়ে ভারী শব্দে। কুরতুবী ও মুয়াসসার এই দ্বিগুণতাকে পড়েন মাত্রা হিসেবে, অহংকার কত বড় ছিল তার মাপ। আর সা'দী পুরো ধারাটাকে পড়েন তার ফল দিয়ে, লোকগুলোর নিজেদের ভেতরে যা ঘটল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Covered From Him, Seen by Allah",
+          "bn": "তাঁর থেকে ঢাকা, আল্লাহর সামনে খোলা"
+        },
+        "p": [
+          {
+            "en": "The Qur'an uses the same verb once more, at 11:5, of people who turn their breasts away to hide themselves: even when they cover themselves with their garments, yastaghshuna thiyabahum, He knows what they conceal and what they declare. None of the commentaries fetched for this verse draws that line; it is this article's own reading of the shared wording. Set side by side, the two verses show the limit of the cloth. It can keep a caller's voice out and a caller's eyes off, but it hides nothing from Allah, to whom Nuh (AS) was making this very report.",
+            "bn": "একই ক্রিয়া কুরআনে আরেকবার এসেছে ১১:৫ আয়াতে, এমন লোকদের সম্পর্কে যারা নিজেদের লুকাতে বুক ঘুরিয়ে নেয়: যখন তারা কাপড়ে নিজেদের ঢেকে নেয়, ইয়াসতাগশূনা সিয়াবাহুম, তখনও তিনি জানেন তারা কী গোপন করে আর কী প্রকাশ করে। এই আয়াতের জন্য আনা কোনো তাফসীর এ দুটিকে মেলায়নি। মিলটা এই লেখার নিজের পাঠ, একই শব্দ দেখে। পাশাপাশি রাখলে দুই আয়াত কাপড়ের সীমা দেখিয়ে দেয়। কাপড় দাওয়াতদাতার কণ্ঠ বাইরে রাখতে পারে, তাঁর চোখ থেকে আড়াল করতে পারে। কিন্তু আল্লাহর কাছ থেকে কিছুই লুকায় না, আর নূহ (আঃ) এই হিসাবটা দিচ্ছিলেন তাঁরই কাছে।"
+          },
+          {
+            "en": "Nor did the gestures end the calling. In 71:8 and 71:9 Nuh goes on: then I called them openly, then I proclaimed to them in public and confided to them in private. Ibn Kathir explains these as openly among the people, with plain speech and a raised voice, and in discussions with them, and says that he tried various kinds of calling to be more effective with them. The fingers and the cloth were the people's answer, repeated every time; the calling was his, and it was repeated too.",
+            "bn": "এসব আচরণে দাওয়াত থেমেও যায়নি। ৭১:৮ ও ৭১:৯ আয়াতে নূহ (আঃ) বলে চলেন: তারপর আমি তাদের প্রকাশ্যে ডেকেছি, তারপর জনসমক্ষে ঘোষণা করেছি, আবার গোপনেও বুঝিয়েছি। ইবন কাসীর এর ব্যাখ্যা দেন: লোকজনের সামনে খোলাখুলি, স্পষ্ট কথায় ও উঁচু গলায়, আর একান্ত আলাপে। তিনি বলেন, তাদের উপর বেশি কাজে লাগাতে নূহ (আঃ) নানা ধরনের দাওয়াত চেষ্টা করেছেন। আঙুল আর কাপড় ছিল লোকদের জবাব, প্রতিবারই। আর দাওয়াত ছিল তাঁর, সেটাও প্রতিবার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Quieter Ways We Stop Ears",
+          "bn": "কান বন্ধের নীরব উপায়"
+        },
+        "p": [
+          {
+            "en": "Two things need saying plainly. None of the commentaries fetched for this verse attaches a hadith or an occasion of revelation to it, so this article cites none. And the verse describes what it describes: an ancient people, as the Qur'an reports them, answering their prophet with fingers, cloth, persistence and pride. It licenses nothing against any living person or community, and gives no one leave to cast those who disagree with them today as Nuh's people. Its use for a reader is as a mirror, turned on the reader.",
+            "bn": "দুটি কথা সোজাসুজি বলা দরকার। এই আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস বা নাযিলের প্রেক্ষাপট জোড়েনি, তাই এই লেখাও কোনোটা আনছে না। আর আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: প্রাচীন এক জাতি, কুরআন যেমন জানিয়েছে, নিজেদের নবীর জবাব দিয়েছিল আঙুল, কাপড়, জিদ আর অহংকারে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজ যারা আপনার সঙ্গে দ্বিমত করে, তাদের নূহের জাতি বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। পাঠকের কাছে এর কাজ আয়নার, যা ঘুরে আসে পাঠকের নিজের দিকেই।"
+          },
+          {
+            "en": "And the mirror has something to show. Few of us have pushed a finger into an ear, but we know the quieter versions: the conversation steered away before it reaches the point, the page closed after its first line, the advice dismissed because of who gave it, the reply prepared while the other person is still speaking. Al-Qurtubi traces the pride to the company that followed Nuh. The verse asks whether we, too, turn down a truth because of who carries it, and whether the call we avoid is the call to our own forgiveness.",
+            "bn": "আর আয়নায় দেখার মতো কিছু আছে। কানে আঙুল আমরা কমই দিয়েছি, কিন্তু এর নীরব রূপগুলো চিনি। আসল কথায় পৌঁছানোর আগেই আলাপ অন্যদিকে ঘুরিয়ে দেওয়া। প্রথম লাইন পড়েই লেখা বন্ধ করে ফেলা। কে বলছে দেখে উপদেশ উড়িয়ে দেওয়া। অন্যজন কথা শেষ করার আগেই জবাব সাজিয়ে রাখা। কুরতুবী অহংকারের শিকড় খুঁজে পান নূহ (আঃ)-এর অনুসারীদের পরিচয়ে। আয়াতটি জিজ্ঞেস করে, আমরাও কি বাহক কে তা দেখে সত্য ফিরিয়ে দিই? যে ডাক এড়িয়ে চলছি, সেটাই কি আমাদের নিজেদের ক্ষমার ডাক?"
+          }
+        ]
+      }
+    ]
+  },
   "71:10": {
     "sections": [
       {

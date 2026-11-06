@@ -28747,6 +28747,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Everyone will hurry on that Day. Choose now what you hurry toward, so that the run you make then ends a road you chose yourself.",
     "lessonBn": "সেই দিন সবাই দৌড়াবে। কিসের দিকে ছুটবেন তা এখনই বেছে নিন, যাতে তখনকার দৌড়টা হয় নিজের বেছে নেওয়া পথেরই শেষ মাথা।"
+  },
+  "71:7": {
+    "reflectionEn": "Nuh tells his Lord what happened each time he called his people, and he names the purpose of the calling first: so that You might forgive them. What they shut out was not a threat but an offer. Their answer was four movements: fingers pushed into their ears, garments drawn over their heads and faces, a settled refusal, and a pride the verse states twice over for weight. None of it was an argument. It was a way of making sure no argument could reach them. The verse invites an honest look inward. Which words of advice do I refuse to hear before they are finished? And when the truth comes close, do I lower the cloth, or lift it?",
+    "reflectionBn": "নূহ (আঃ) তাঁর রবকে জানাচ্ছেন, যতবার তিনি নিজের জাতিকে ডেকেছেন, কী ঘটেছে। ডাকার উদ্দেশ্যটা তিনি বলেন সবার আগে: যেন তুমি তাদের ক্ষমা করো। তারা যা ঠেকিয়ে রাখল, তা কোনো হুমকি ছিল না, ছিল ক্ষমার প্রস্তাব। তাদের জবাব চারটি কাজে: কানে আঙুল ঢোকানো, মাথা-মুখের উপর কাপড় টেনে দেওয়া, জিদ ধরে থাকা, আর এমন অহংকার, যার ভার বোঝাতে আয়াতটি শব্দটা দুবার বলে। এর কোনোটাই যুক্তি নয়। এ ছিল নিশ্চিত হওয়ার উপায়, যাতে কোনো যুক্তি তাদের কাছে পৌঁছাতেই না পারে। আয়াতটি নিজের ভেতরে সৎভাবে তাকাতে ডাকে। কোন উপদেশ শেষ হওয়ার আগেই আমি কান বন্ধ করে দিই? আর সত্য কাছে এলে আমি কি কাপড়টা নামিয়ে দিই, নাকি সরিয়ে ফেলি?",
+    "pointsEn": [
+      "Whose advice do I stop listening to before they finish, and is it the message I dislike or the person bringing it?",
+      "What would change if I heard every honest warning as an invitation to be forgiven rather than an accusation?",
+      "Is there a habit I keep up mostly because giving it up would mean admitting I was wrong?",
+      "When I avoid a person, a lecture or a page, am I protecting my time or protecting myself from a truth?",
+      "If I have to call someone to good again and again, do I keep in mind, as Nuh did, that my aim is their forgiveness?"
+    ],
+    "pointsBn": [
+      "কার উপদেশ আমি শেষ হওয়ার আগেই শোনা বন্ধ করে দিই? আমার আপত্তি কি কথাটায়, নাকি যে বলছে তার উপর?",
+      "প্রতিটি সৎ সতর্কবাণীকে যদি অভিযোগ না ভেবে ক্ষমা পাওয়ার দাওয়াত হিসেবে শুনতাম, তাহলে কী বদলাত?",
+      "এমন কোনো অভ্যাস কি আছে, যা আমি ধরে রেখেছি মূলত এ কারণে যে ছাড়লে স্বীকার করতে হবে আমি ভুল ছিলাম?",
+      "কোনো মানুষ, কোনো আলোচনা বা কোনো লেখা এড়িয়ে চলার সময় আমি কি সময় বাঁচাচ্ছি, নাকি একটা সত্য থেকে নিজেকে লুকাচ্ছি?",
+      "কাউকে যদি বারবার ভালোর দিকে ডাকতে হয়, নূহ (আঃ)-এর মতো আমি কি মনে রাখি যে আমার লক্ষ্য তার ক্ষমা পাওয়া?"
+    ],
+    "lessonEn": "Do not stop your ears or cover your face against good counsel; the call you shut out may be the call to your own forgiveness.",
+    "lessonBn": "ভালো উপদেশের সামনে কানে আঙুল দেবেন না, মুখও ঢাকবেন না। যে ডাক ঠেকিয়ে রাখছেন, হয়তো সেটাই আপনার নিজের ক্ষমার ডাক।"
   }
 };
 
