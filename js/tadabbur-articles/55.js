@@ -1327,6 +1327,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "55:41": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words After a Silence",
+          "bn": "নীরবতার পরে ছয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "Ar-Rahman has reached the Day itself. In 55:37 the sky splits open; 55:39 says that on that Day no human or jinn will be asked about his sin; the refrain follows. Then come six Arabic words: yu'rafu al-mujrimuna bi-simahum fa-yu'khadhu bil-nawasi wal-aqdam, the criminals will be known by their marks and seized by the forelocks and the feet. 55:43 names where they are taken: this is Hell, which the criminals deny. 55:44 has them going round between it and scalding water.",
+            "bn": "আর-রহমান এবার সেই দিনটির ভেতরে এসে দাঁড়িয়েছে। ৫৫:৩৭ আয়াতে আকাশ ফেটে যায়। ৫৫:৩৯ বলে, সেদিন কোনো মানুষ বা জ্বিনকে তার গুনাহ সম্পর্কে জিজ্ঞেস করা হবে না। তারপর ফিরে আসে সেই পুনরাবৃত্ত প্রশ্ন। এরপর আরবিতে ছয়টি শব্দ: ইউ'রাফুল মুজরিমূনা বিসীমাহুম ফাইউ'খাযু বিন্নাওয়াসী ওয়াল আকদাম। অপরাধীদের চেনা যাবে তাদের চিহ্ন দেখে, আর কপালের চুল ও পা ধরে পাকড়াও করা হবে। কোথায় নেওয়া হবে, ৫৫:৪৩ তা জানিয়ে দেয়: এই সেই জাহান্নাম, অপরাধীরা যাকে মিথ্যা বলত। ৫৫:৪৪ আয়াতে তারা ঘুরপাক খায় জাহান্নাম আর ফুটন্ত পানির মাঝে।"
+          },
+          {
+            "en": "Two things stand out before any commentary. Both verbs are passive: yu'rafu, they will be known, and yu'khadhu, they will be seized. The verse does not say who does the knowing or who takes hold; the commentators supply that. And the particle fa joins the two, so that once they are known, they are taken. No hearing is described, no plea, no exchange of words. The verse just before has already said that no one there is asked about his sin.",
+            "bn": "তাফসীরে যাওয়ার আগেই দুটি জিনিস চোখে পড়ে। দুটি ক্রিয়াই কর্মবাচ্য: ইউ'রাফু, তাদের চেনা যাবে, আর ইউ'খাযু, তাদের ধরা হবে। কে চিনবে আর কে ধরবে, আয়াত তা বলে না। সে কথা আসে তাফসীরকারদের কাছ থেকে। আর 'ফা' অব্যয়টি দুটো কাজকে জুড়ে দিয়েছে: চেনা হলো, অমনি ধরা হলো। মাঝখানে কোনো শুনানির কথা নেই, কোনো আবেদন নেই, কথা চালাচালিও নেই। ঠিক আগের আয়াতেই তো বলা হয়ে গেছে, সেখানে কাউকে তার গুনাহ নিয়ে প্রশ্ন করা হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Does the Knowing",
+          "bn": "চিনবে কারা"
+        },
+        "p": [
+          {
+            "en": "Sima is a mark or a sign; Ma'arif al-Qur'an glosses the word simply as a sign. Ibn Kathir explains bi-simahum as marks that appear on them. At-Tabari says whose doing the marks are: the angels will know the criminals by their signs and their marks, the marks with which Allah marks them. On his reading the mark is set on them by Allah. The Muyassar, in a single line, also makes the angels the ones who recognise them.",
+            "bn": "সীমা মানে চিহ্ন বা নিদর্শন। মাআরিফুল কুরআন শব্দটির অর্থ দেয় সোজা কথায়: নিদর্শন। ইবন কাসীর বিসীমাহুম-এর ব্যাখ্যা করেন এভাবে: এমন সব চিহ্ন, যা তাদের গায়ে ফুটে উঠবে। চিহ্নগুলো কার দেওয়া, তাবারী সেটাও বলে দেন। ফেরেশতারা অপরাধীদের চিনবে তাদের নিদর্শন আর চিহ্ন দেখে, যে চিহ্ন আল্লাহ তাদের গায়ে লাগিয়ে দেবেন। তাঁর ব্যাখ্যায় চিহ্নটা তারা নিজেরা বেছে নেয়নি, আল্লাহ তা বসিয়ে দিয়েছেন। মুয়াসসারও এক বাক্যে বলে, যারা চিনবে তারা ফেরেশতা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an likewise says the angels will recognise the guilty by these signs and seize them. So the passive verbs leave no gap in the commentators' picture: those who know are those who take hold. Al-Qurtubi and the Muyassar make the angels the ones who seize, and at-Tabari and Ibn Kathir name them as the zabaniyah; the abridged English Ibn Kathir calls them the angels of punishment. This is the scene 55:39 prepared: recognition without inquiry.",
+            "bn": "মাআরিফুল কুরআনও বলে, ফেরেশতারা এসব নিদর্শন দেখে অপরাধীদের চিনবে আর পাকড়াও করবে। ফলে কর্মবাচ্য ক্রিয়ার যে ফাঁকা জায়গা, তাফসীরকারদের ছবিতে তা আর ফাঁকা থাকে না। যারা চেনে, ধরে তারাই। কুরতুবী আর মুয়াসসার বলেন, ধরবে ফেরেশতারা। তাবারী ও ইবন কাসীর তাদের নাম দেন যাবানিয়া। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তাদের বলে শাস্তির ফেরেশতা। ৫৫:৩৯ যে দৃশ্যের জন্য মন তৈরি করেছিল, এ সেই দৃশ্য: জেরা ছাড়াই চেনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dark Faces, Blue Eyes",
+          "bn": "কালো মুখ, নীল চোখ"
+        },
+        "p": [
+          {
+            "en": "What are the marks? At-Tabari answers in his own explanation and then supports it from two early authorities. From al-Hasan: they will be known by the blackening of their faces and the blueness of their eyes. From Qatadah: blue of eye, black of face. Ibn Kathir reports the same from al-Hasan and Qatadah together, al-Qurtubi from al-Hasan, and al-Baghawi gives it as the meaning without naming anyone. Ma'arif al-Qur'an, giving it from Hasan al-Basri, adds that their faces will turn pale with grief.",
+            "bn": "চিহ্নগুলো কী? তাবারী প্রথমে নিজের ব্যাখ্যায় উত্তর দেন, তারপর দুজন প্রথম যুগের আলিমের বক্তব্য দিয়ে তা মজবুত করেন। হাসান বলেন, তাদের চেনা যাবে মুখের কালো রং আর চোখের নীল রং দেখে। কাতাদা বলেন, নীল চোখ, কালো মুখ। ইবন কাসীর একই কথা হাসান ও কাতাদা দুজনের কাছ থেকে আনেন, কুরতুবী আনেন হাসানের কাছ থেকে। বাগাভী কারও নাম না নিয়ে সরাসরি এটাকেই অর্থ হিসেবে দেন। মাআরিফুল কুরআন কথাটা হাসান বসরীর সূত্রে এনে যোগ করে, দুঃখে তাদের মুখ ফ্যাকাশে হয়ে যাবে।"
+          },
+          {
+            "en": "The commentators tie the marks to other verses. Al-Qurtubi cites 20:102, where Allah says He will gather the criminals on that Day zurqa, blue-eyed, and 3:106, the Day when some faces turn white and some turn black. Al-Baghawi cites 3:106 as well. As these commentators read it, the Qur'an explains the Qur'an here. Neither of those verses, nor this verse, speaks of any colour of eye or skin in this world; each describes what Allah sets on the criminals on that Day.",
+            "bn": "তাফসীরকারেরা এই চিহ্নগুলোকে অন্য আয়াতের সঙ্গে মিলিয়ে পড়েন। কুরতুবী আনেন ২০:১০২, যেখানে আল্লাহ বলেন, সেদিন তিনি অপরাধীদের একত্র করবেন যুরকা অবস্থায়, অর্থাৎ নীল চোখ নিয়ে। সঙ্গে আনেন ৩:১০৬, যেদিন কিছু মুখ উজ্জ্বল হবে আর কিছু মুখ কালো। বাগাভীও ৩:১০৬ উদ্ধৃত করেন। তাঁদের পাঠে এখানে কুরআনই কুরআনের ব্যাখ্যা দিচ্ছে। তবে ওই দুই আয়াত বা এই আয়াত, কোনোটিই দুনিয়ার কারও চোখ বা গায়ের রং নিয়ে কথা বলে না। প্রতিটি আয়াত বলে সেদিন আল্লাহ অপরাধীদের গায়ে কী বসিয়ে দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Asked, Yet Questioned",
+          "bn": "প্রশ্ন নেই, তবু জবাবদিহি"
+        },
+        "p": [
+          {
+            "en": "If no human or jinn is asked about his sin, as 55:39 says, how does that sit with 15:92 and 15:93: by your Lord, We will surely question them all about what they used to do? Ibn Kathir, commenting on 55:39, sets out three answers. The first is that these are two states. Like 77:35 and 77:36, a Day on which they will not speak nor be permitted to excuse themselves, this is one state; in another, all creatures are asked about all their deeds.",
+            "bn": "৫৫:৩৯ বলছে, কোনো মানুষ বা জ্বিনকে তার গুনাহ সম্পর্কে জিজ্ঞেস করা হবে না। অথচ ১৫:৯২ ও ১৫:৯৩ বলে: তোমার রবের শপথ, তারা যা করত সে সম্পর্কে আমি অবশ্যই তাদের সবাইকে জিজ্ঞেস করব। দুটো কথা মেলে কীভাবে? ৫৫:৩৯-এর তাফসীরে ইবন কাসীর তিনটি জবাব সাজান। প্রথম জবাব: এ দুটি আলাদা অবস্থা। ৭৭:৩৫ ও ৭৭:৩৬ আয়াতে এমন এক দিনের কথা আছে, যেদিন তারা কথা বলবে না, ওজর পেশ করার অনুমতিও পাবে না। এটা একটি অবস্থা। আরেক অবস্থায় সব সৃষ্টিকে তাদের সব আমল সম্পর্কে জিজ্ঞেস করা হবে।"
+          },
+          {
+            "en": "For that first answer he cites Qatadah: there was a questioning, then their mouths were sealed and their hands and feet spoke of what they used to do. The second answer, from Ibn Abbas through Ali ibn Abi Talhah: He does not ask them whether they did this or that, since He knows it better than they do; He asks them why they did it. The third, from Mujahid: the angels do not ask about the criminal; they know them by their marks. That answer leads straight into 55:41.",
+            "bn": "প্রথম জবাবের পক্ষে তিনি কাতাদার কথা আনেন: প্রশ্ন একবার হয়েছিল, তারপর তাদের মুখে মোহর মেরে দেওয়া হয়, আর তাদের হাত-পা বলে দেয় তারা কী করত। দ্বিতীয় জবাব আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে। আল্লাহ তাদের জিজ্ঞেস করবেন না, তোমরা কি অমুক কাজ করেছ? কারণ সেটা তিনি তাদের চেয়ে ভালো জানেন। তিনি জিজ্ঞেস করবেন, কেন করেছ? তৃতীয় জবাব মুজাহিদের: ফেরেশতারা অপরাধী সম্পর্কে কাউকে জিজ্ঞেস করবে না, চিহ্ন দেখেই তাদের চিনে নেবে। এই জবাব সোজা গিয়ে মেলে ৫৫:৪১-এর সঙ্গে।"
+          },
+          {
+            "en": "Ibn Kathir adds that this third answer seems to describe the time after they have been ordered to the Fire: at that point they are not asked about their sins, but led to it and thrown in. At-Tabari reads 55:39 more simply. The angels do not ask the criminals about their sins, because Allah has kept those sins on record against them, and their Lord does not ask one of them about another's sins. He also reports Mujahid's line about the marks.",
+            "bn": "ইবন কাসীর যোগ করেন, তৃতীয় জবাবটা যেন সেই সময়ের কথা, যখন তাদের জাহান্নামে নেওয়ার হুকুম হয়ে গেছে। তখন আর গুনাহ নিয়ে প্রশ্ন হয় না, তাদের টেনে নিয়ে গিয়ে সেখানে ফেলে দেওয়া হয়। তাবারী ৫৫:৩৯ পড়েন আরও সরলভাবে। ফেরেশতারা অপরাধীদের গুনাহ নিয়ে প্রশ্ন করবে না, কারণ আল্লাহ সেসব গুনাহ তাদের বিরুদ্ধে সংরক্ষণ করে রেখেছেন। আর একজনের গুনাহ নিয়ে তাদের রব আরেকজনকে প্রশ্ন করবেন না। চিহ্ন নিয়ে মুজাহিদের কথাটিও তিনি বর্ণনা করেন।"
+          },
+          {
+            "en": "At-Tabari relays a report from Ibn Abbas that likens 55:39 to 28:78, the criminals will not be asked about their sins, and to 2:119, you will not be asked about the companions of Hellfire. As-Sa'di, in his comment here, says that when Allah does question them, it is a questioning of rebuke, making them own what they did. He knows it better than they do, but He wills that His conclusive proof and His great wisdom be plain to creation.",
+            "bn": "তাবারী ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন, যেখানে ৫৫:৩৯-কে তুলনা করা হয়েছে ২৮:৭৮-এর সঙ্গে: অপরাধীদের তাদের গুনাহ সম্পর্কে জিজ্ঞেস করা হবে না। তুলনা করা হয়েছে ২:১১৯-এর সঙ্গেও: জাহান্নামীদের সম্পর্কে তোমাকে প্রশ্ন করা হবে না। সাদী এ আয়াতের আলোচনায় বলেন, আল্লাহ যখন তাদের প্রশ্ন করেন, তা ভর্ৎসনার প্রশ্ন, নিজের কাজ নিজের মুখে স্বীকার করিয়ে নেওয়ার প্রশ্ন। তিনি তাদের চেয়ে ভালোই জানেন। তবু তিনি চান, তাঁর অকাট্য প্রমাণ আর মহান প্রজ্ঞা গোটা সৃষ্টির সামনে স্পষ্ট হয়ে উঠুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hair Above the Brow",
+          "bn": "কপালের ওপরের চুল"
+        },
+        "p": [
+          {
+            "en": "Nawasi is the plural of nasiyah. Al-Qurtubi defines it as the hair at the front of the head, and the Muyassar renders the phrase as the front part of their heads; Ma'arif al-Qur'an translates it forelock. At-Tabari's reading is the plainest: the zabaniyah take them by their forelocks and their feet, drag them to Jahannam and hurl them into it. As-Sa'di has them seized by forelocks and feet, thrown into the Fire and dragged in it.",
+            "bn": "নাওয়াসী শব্দটি নাসিয়া-র বহুবচন। কুরতুবী এর অর্থ বলেন মাথার সামনের দিকের চুল। মুয়াসসার বাক্যটির অর্থ দেয় মাথার সামনের অংশ ধরে। মাআরিফুল কুরআন এর ইংরেজি করে ফোরলক, অর্থাৎ কপালের ওপরের চুলের গোছা। তাবারীর ব্যাখ্যা সবচেয়ে সাদামাটা: যাবানিয়া তাদের কপালের চুল আর পা ধরে টেনে নিয়ে যাবে জাহান্নামের দিকে, তারপর ছুড়ে ফেলবে তার ভেতরে। সাদী বলেন, তাদের কপালের চুল আর পা ধরে জাহান্নামে ফেলা হবে, আর সেখানেই টেনে-হিঁচড়ে নেওয়া হবে।"
+          },
+          {
+            "en": "Others describe a binding. Al-Baghawi says the feet are drawn up to the forelocks from behind, and they are thrown into the Fire. Ibn Kathir explains that the zabaniyah gather the forelock with the feet and cast the person in that way. He and al-Qurtubi both report from ad-Dahhak that forelock and feet are joined in a chain behind the back. Ibn Kathir adds from as-Suddi that the forelock is tied to the foot and the back twisted, and, through al-A'mash, from Ibn Abbas: he is taken by forelock and foot and broken as firewood is broken in the oven.",
+            "bn": "অন্যরা বর্ণনা করেন বেঁধে ফেলার ছবি। বাগাভী বলেন, পেছন দিক থেকে পা টেনে এনে কপালের চুলের সঙ্গে মেলানো হবে, তারপর জাহান্নামে ফেলা হবে। ইবন কাসীরের ব্যাখ্যায় যাবানিয়া কপালের চুল আর পা একসঙ্গে জড়ো করে সেই অবস্থাতেই তাকে ছুড়ে দেবে। ইবন কাসীর ও কুরতুবী দুজনেই দাহহাকের বক্তব্য আনেন: পিঠের পেছনে এক শিকলে কপালের চুল আর পা একসঙ্গে বাঁধা হবে। ইবন কাসীর সুদ্দীর কথাও আনেন: কপালের চুল পায়ের সঙ্গে বেঁধে পিঠ মুচড়ে দেওয়া হবে। আমাশের সূত্রে ইবন আব্বাস (রাঃ) থেকে তিনি আনেন: কপালের চুল আর পা ধরে তাকে ভাঙা হবে, যেমন চুলায় দেওয়ার জন্য লাকড়ি ভাঙা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dragged, or Bent Double",
+          "bn": "টেনে নেওয়া, না দুমড়ে ফেলা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gathers further possibilities, each introduced with the words it was said. One: this is done to make the punishment more severe and the disfigurement greater. Another pictures something different: the angels drag them to the Fire, sometimes taking a person by the forelock and dragging him on his face, sometimes by the feet and dragging him on his head. He also reports a second form from ad-Dahhak, in which the feet are taken and joined to the forelock until the back breaks.",
+            "bn": "কুরতুবী আরও কয়েকটি সম্ভাবনা জড়ো করেন, প্রতিটির শুরুতে বলেন 'বলা হয়েছে'। একটি হলো, শাস্তি আরও কঠিন করতে আর চেহারা আরও বিকৃত করতেই এমন করা হবে। আরেকটি অন্য রকম ছবি আঁকে। ফেরেশতারা তাদের টেনে নেবে জাহান্নামের দিকে। কখনো কপালের চুল ধরে মুখের ওপর দিয়ে হিঁচড়ে নেবে, কখনো পা ধরে মাথার ওপর দিয়ে। দাহহাক থেকে তিনি আরেকটি রূপও বর্ণনা করেন: দুই পা ধরে কপালের চুলের সঙ্গে জুড়ে দেওয়া হবে, যতক্ষণ না পিঠ ভেঙে যায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets out the range in three explanations: some will be dragged by the forelocks and others by the feet; or the same person sometimes by one and sometimes by the other; or the forelocks are tied to the feet and they are thrown in. It does not choose among them and closes with Allah knows best. The verse itself gives two words, forelocks and feet. The commentators agree that this is a seizing into the Fire, and differ on how the two are held.",
+            "bn": "মাআরিফুল কুরআন তিনটি ব্যাখ্যায় পুরো পরিসরটা সাজায়। কাউকে টানা হবে কপালের চুল ধরে, কাউকে পা ধরে। অথবা একই মানুষকে কখনো চুল ধরে, কখনো পা ধরে। অথবা কপালের চুল পায়ের সঙ্গে বেঁধে জাহান্নামে ছুড়ে ফেলা হবে। এর কোনোটিকে সে বেছে নেয় না, শেষ করে 'আল্লাহই ভালো জানেন' বলে। আয়াত নিজে দিয়েছে দুটি শব্দ: কপালের চুল আর পা। তাফসীরকারেরা একমত যে এ হলো জাহান্নামের দিকে পাকড়াও। মতভেদ শুধু এ নিয়ে, দুটোকে ধরা হবে কীভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Kinds of Marking",
+          "bn": "দুই রকম চিহ্ন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir does not leave the marks of the criminals standing alone. Commenting on 55:39, he says they are known by their marks just as the believers are known by the ghurrah and tahjil, the brightness of forehead and limbs, from the traces of ablution. The abridged English puts it as the light that will appear on the parts of the body they used to wash. He gives no chain there. A narration in al-Bukhari's Sahih uses those same words; it is not attached to this verse.",
+            "bn": "ইবন কাসীর অপরাধীদের চিহ্নের কথা একা দাঁড় করিয়ে রাখেন না। ৫৫:৩৯-এর তাফসীরে তিনি বলেন, তাদের যেমন চিহ্ন দেখে চেনা যাবে, তেমনি মুমিনদের চেনা যাবে ওজুর চিহ্ন থেকে, কপাল আর হাত-পায়ের ঔজ্জ্বল্য দেখে। আরবিতে একে বলে গুররা ও তাহজীল। সংক্ষিপ্ত ইংরেজি সংস্করণে কথাটা এসেছে এভাবে: ওজুতে তারা শরীরের যে অংশ ধুত, সেখানে আলো ফুটে উঠবে। সেখানে তিনি কোনো সনদ দেননি। বুখারীর সহীহ গ্রন্থে একটি হাদিসে হুবহু এই শব্দগুলো আছে। তবে হাদিসটি এ আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "Abu Hurayrah performed ablution on the roof of the mosque and said he had heard the Prophet ﷺ say: My community will be called on the Day of Resurrection ghurran muhajjalin, from the traces of ablution; so whoever of you is able to lengthen his radiance, let him do so (al-Bukhari 136). Set beside 55:41, as Ibn Kathir's remark invites, it shows the Day carrying two kinds of mark: a mark by which a person is called forward, and a mark by which he is seized.",
+            "bn": "আবু হুরায়রা (রাঃ) মসজিদের ছাদে উঠে ওজু করলেন এবং বললেন, তিনি নবী ﷺ-কে বলতে শুনেছেন: কিয়ামতের দিন আমার উম্মতকে ডাকা হবে গুররান মুহাজ্জালীন নামে, ওজুর চিহ্নের কারণে। তাই তোমাদের মধ্যে যে নিজের ঔজ্জ্বল্য বাড়াতে পারে, সে যেন তা করে (বুখারী ১৩৬)। ইবন কাসীরের মন্তব্যের ইঙ্গিত মেনে এটিকে ৫৫:৪১-এর পাশে রাখলে দেখা যায়, সেদিন চিহ্নও দুই রকম। এক চিহ্ন দেখে মানুষকে সামনে ডেকে নেওয়া হবে, আরেক চিহ্ন দেখে পাকড়াও করা হবে।"
+          },
+          {
+            "en": "As for narrations attached to this verse itself, Ibn Kathir brings one long report through Ibn Abi Hatim, from a man of Kindah who questioned A'ishah, and it ends with these very words. He judges it himself: very strange, with wordings whose attribution to the Prophet is objectionable, and a man in its chain who is not named; such a report, he says, is not used as proof. No sound hadith is attached to 55:41 in the commentaries consulted for it.",
+            "bn": "আর এ আয়াতের সঙ্গেই যুক্ত বর্ণনার কথা যদি বলি, ইবন কাসীর ইবন আবী হাতিমের সূত্রে একটি দীর্ঘ বর্ণনা আনেন। কিনদা গোত্রের এক ব্যক্তি আয়েশা (রাঃ)-কে প্রশ্ন করেছিলেন, আর বর্ণনাটি শেষ হয় এ আয়াতের শব্দ দিয়েই। ইবন কাসীর নিজেই রায় দেন: এটি অত্যন্ত গরীব, এর কিছু শব্দকে নবী ﷺ-এর কথা বলে চালানো আপত্তিকর, আর সনদে এমন একজন আছেন যাঁর নাম বলা হয়নি। এমন বর্ণনা দলিল হিসেবে চলে না, বলেন তিনি। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তাতে ৫৫:৪১-এর সঙ্গে যুক্ত কোনো সহীহ হাদিস নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning Sent Ahead",
+          "bn": "আগেভাগে পাঠানো সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The criminals of 55:41 are a description of the Day, given by the text itself; the verse describes what it describes and licenses nothing against any living person or community. The dark faces and blue eyes the commentators report are marks Allah sets on that Day. They say nothing about anyone's complexion or eye colour in this world, and no reader may read them into a face in front of him. The refrain addresses the two who hear it, and the reader is one of them.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ৫৫:৪১-এর অপরাধীরা কিয়ামতের দিনের এক বর্ণনা, যা আয়াত নিজেই দিয়েছে। আয়াতটি যা বর্ণনা করে শুধু তা-ই বর্ণনা করে, কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। তাফসীরকারদের বর্ণিত কালো মুখ আর নীল চোখ সেদিন আল্লাহর বসানো চিহ্ন। দুনিয়ায় কারও গায়ের রং বা চোখের রং নিয়ে এগুলো কিছুই বলে না। সামনের কোনো মানুষের চেহারায় এসব চিহ্ন খুঁজে বসানোর অধিকার কোনো পাঠকের নেই। পুনরাবৃত্ত প্রশ্নটি যে দুই শ্রোতাকে ডাকে, পাঠক নিজেও তাদের একজন।"
+          },
+          {
+            "en": "Closing his comment on this passage, Ibn Kathir says that punishing the criminals, like favouring the God-fearing, comes from Allah's grace, mercy and justice, and that warnings such as these should move every creature to abandon shirk and disobedience. That is why the refrain follows: which of the favours of your Lord would you deny? Read that way, 55:41 is a favour told in advance. The marks are not yet set. Between now and that Day, what a person will be known by is still being decided.",
+            "bn": "এ অংশের আলোচনা শেষ করতে গিয়ে ইবন কাসীর বলেন, অপরাধীদের শাস্তি দেওয়া আর মুত্তাকীদের সম্মান দেওয়া, দুটোই আল্লাহর অনুগ্রহ, রহমত আর ইনসাফ থেকে আসে। এমন সতর্কবাণী শুনে প্রতিটি সৃষ্টির উচিত শিরক আর নাফরমানি ছেড়ে দেওয়া। সেজন্যই এরপর আসে সেই প্রশ্ন: তোমাদের রবের কোন কোন নিয়ামত তোমরা অস্বীকার করবে? এভাবে পড়লে ৫৫:৪১ আগেভাগে জানিয়ে দেওয়া এক নিয়ামত। চিহ্নগুলো এখনো বসানো হয়নি। আজ থেকে সেদিন পর্যন্ত, কী দেখে একজন মানুষকে চেনা হবে, তা এখনো ঠিক হচ্ছে।"
+          }
+        ]
+      }
+    ]
+  },
   "55:46-47": {
     "sections": [
       {

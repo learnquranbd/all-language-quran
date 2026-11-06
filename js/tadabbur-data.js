@@ -27889,6 +27889,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Thank Allah for the limits He holds in place in His creation, and keep within the bounds He has set for you, never letting one thing overrun another.",
     "lessonBn": "সৃষ্টির মাঝে আল্লাহ যে সীমাগুলো ধরে রেখেছেন তার জন্য শুকরিয়া আদায় করুন, আর তিনি আপনার জন্য যে সীমা বেঁধে দিয়েছেন তার ভেতরে থাকুন, একটাকে দিয়ে আরেকটাকে ডুবিয়ে দেবেন না।"
+  },
+  "55:41": {
+    "reflectionEn": "Just before this verse comes a strange line: on that Day no human or jinn will be asked about his sin. This verse shows why no question is needed. The criminals are known by their marks, and they are seized by the forelocks and the feet. There is no hearing, no defence, no one asking what they did. The mark has already said it. The verse does not send me looking for that mark on other people's faces. It asks what my own deeds will carry when there is nothing left to explain. Then the refrain returns: which of your Lord's favours will you deny? A warning that arrives while there is still time is one of those favours.",
+    "reflectionBn": "এ আয়াতের ঠিক আগে একটা অদ্ভুত কথা আছে: সেদিন কোনো মানুষ বা জ্বিনকে তার গুনাহ সম্পর্কে জিজ্ঞেস করা হবে না। প্রশ্নের দরকার কেন পড়বে না, এ আয়াত তা দেখিয়ে দেয়। অপরাধীদের চেনা যাবে তাদের চিহ্ন দেখে, তারপর কপালের চুল আর পা ধরে তাদের পাকড়াও করা হবে। শুনানি নেই, সাফাই নেই, কী করেছে তা জানতে চাওয়ারও কেউ নেই। চিহ্নই সব বলে দিয়েছে। অন্য মানুষের চেহারায় সেই চিহ্ন খুঁজে বেড়াতে আয়াতটি আমাকে পাঠায় না। বরং জানতে চায়, বোঝানোর মতো যখন আর কিছুই থাকবে না, তখন আমার নিজের আমল কী নিয়ে হাজির হবে। তারপরই ফিরে আসে সেই প্রশ্ন: তোমাদের রবের কোন কোন নিয়ামত তোমরা অস্বীকার করবে? সময় থাকতে যে সতর্কবাণী পৌঁছায়, সেটাও ওই নিয়ামতেরই একটি।",
+    "pointsEn": [
+      "If what I did this past week were marked on my face, which of it would I most want gone before that Day?",
+      "Do I put off repentance because some part of me expects there will be time to explain myself later?",
+      "When I read about the criminals of that Day, do I think first of other people, or of what in me resembles them?",
+      "What good habit, kept up from now on, could become the mark I am known by instead?",
+      "Do I hear a warning like this as a favour sent ahead of time, or only as a threat?"
+    ],
+    "pointsBn": [
+      "গত এক সপ্তাহে যা করেছি তা যদি আমার চেহারায় চিহ্ন হয়ে ফুটে উঠত, সেদিনের আগে তার কোনটা আমি সবচেয়ে বেশি মুছে ফেলতে চাইতাম?",
+      "পরে নিজের পক্ষে বুঝিয়ে বলার সময় পাওয়া যাবে, মনের কোণে এমন ধারণা রেখে কি আমি তওবা পিছিয়ে দিই?",
+      "সেদিনের অপরাধীদের কথা পড়ার সময় আগে কি অন্যদের কথা মনে পড়ে, নাকি নিজের ভেতরে তাদের সঙ্গে যা মেলে সেটার কথা?",
+      "কোন ভালো অভ্যাস এখন থেকে ধরে রাখলে সেটাই হতে পারে আমার পরিচয়ের চিহ্ন?",
+      "এমন সতর্কবাণী কি আমার কাছে আগেভাগে পাঠানো এক নিয়ামত, নাকি কেবলই হুমকি?"
+    ],
+    "lessonEn": "Do not count on explaining yourself on that Day, when the criminals are known by their marks. Turn back now, while a warning can still change what you will be known by.",
+    "lessonBn": "সেদিন নিজের পক্ষে সাফাই দেওয়ার ভরসায় থাকবেন না, যেদিন অপরাধীদের চেনা যাবে তাদের চিহ্ন দেখে। এখনই ফিরে আসুন, যখন সতর্কবাণী এখনো বদলে দিতে পারে কী দিয়ে আপনাকে চেনা হবে।"
   }
 };
 
