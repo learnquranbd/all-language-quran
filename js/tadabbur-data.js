@@ -27029,6 +27029,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Garden clothes the God-conscious and seats them face to face, so turn towards people now, and count what you leave for Allah's sake as kept, not lost.",
     "lessonBn": "জান্নাত তাকওয়াবানদের রেশম পরায় আর মুখোমুখি বসায়। তাই এখনই মানুষের দিকে মুখ ফেরান, আর আল্লাহর জন্য যা ছেড়েছেন তাকে হারানো নয়, জমা রাখা বলে জানুন।"
+  },
+  "45:17": {
+    "reflectionEn": "They were given the Book, judgement and prophethood, and on top of that clear proofs of the matter. Nothing was hidden from them. And still they split, and the verse names the reason in one word: baghyan, envious transgression among themselves. The disagreement was not born of ignorance. It came after the knowledge, from wanting to stand above one another. The very next verse turns to the Prophet ﷺ and says: follow the way you have been given. So this is not a story kept at a safe distance. Knowledge can be held for Allah, or held as rank. When I know something about the religion, does it draw me towards my brother, or give me one more reason to be above him?",
+    "reflectionBn": "তাদের দেওয়া হয়েছিল কিতাব, হুকুম ও নবুওয়াত। তার ওপর দ্বীনের বিষয়ে সুস্পষ্ট প্রমাণ। কিছুই তাদের কাছে গোপন ছিল না। তবু তারা ভাগ হয়ে গেল, আর আয়াত কারণটা বলে দেয় এক শব্দে: বাগইয়ান, নিজেদের মধ্যে হিংসা আর সীমালঙ্ঘন। মতভেদটা অজ্ঞতা থেকে জন্মায়নি। জন্মেছে জ্ঞান আসার পরে, একে অপরের ওপরে ওঠার বাসনা থেকে। ঠিক পরের আয়াতেই আল্লাহ নবী ﷺ-কে বলছেন: যে পথ তোমাকে দেওয়া হয়েছে, তারই অনুসরণ কর। কাজেই এ কাহিনি নিরাপদ দূরত্বে রেখে দেওয়ার মতো নয়। জ্ঞান আল্লাহর জন্য ধরে রাখা যায়, আবার পদমর্যাদার মতোও ধরে রাখা যায়। দ্বীনের কোনো কথা জানলে সেটা কি আমাকে ভাইয়ের কাছে টানে, নাকি তার চেয়ে উঁচুতে থাকার আরেকটা অজুহাত দেয়?",
+    "pointsEn": [
+      "In my last disagreement about the religion, was I looking for the truth, or for the satisfaction of having been right?",
+      "Is there someone I have stopped listening to only because listening would mean admitting he knows more than I do?",
+      "What have I learned about Islam that I have used more to rank people than to change myself?",
+      "When a dispute in my family or circle cannot be settled, can I leave its final verdict to Allah and still keep the tie?",
+      "Which clear thing I already know am I still arguing around instead of acting on?"
+    ],
+    "pointsBn": [
+      "দ্বীনের ব্যাপারে আমার সর্বশেষ মতবিরোধে আমি কি সত্য খুঁজছিলাম, নাকি নিজেকে সঠিক প্রমাণ করার তৃপ্তি?",
+      "এমন কেউ কি আছে, যার কথা আমি শোনা বন্ধ করেছি শুধু এ জন্য যে শুনলে মানতে হবে সে আমার চেয়ে বেশি জানে?",
+      "ইসলামের যা শিখেছি, তার কোনটা আমি নিজেকে বদলানোর চেয়ে মানুষকে ছোট-বড় ভাগ করতে বেশি কাজে লাগিয়েছি?",
+      "পরিবারে বা বন্ধুমহলে কোনো বিরোধ মিটছে না, তার শেষ ফয়সালা আল্লাহর হাতে ছেড়ে দিয়েও কি আমি সম্পর্কটা ধরে রাখতে পারি?",
+      "স্পষ্ট জানা কোন বিষয় নিয়ে আমি এখনো আমল না করে শুধু তর্ক ঘুরিয়ে চলেছি?"
+    ],
+    "lessonEn": "Hold what you know of the religion for Allah, not for rank, and let it bring you nearer your brothers instead of above them.",
+    "lessonBn": "দ্বীনের যা জানেন, তা পদমর্যাদার জন্য নয়, আল্লাহর জন্য ধরে রাখুন, আর সে জ্ঞান যেন আপনাকে ভাইদের চেয়ে উঁচুতে নয়, তাদের কাছে টেনে আনে।"
   }
 };
 

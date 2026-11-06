@@ -611,6 +611,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "45:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "One More Gift, Then a Split",
+          "bn": "আরও এক দান, তারপর বিভেদ"
+        },
+        "p": [
+          {
+            "en": "Wa ataynahum bayyinatin min al-amr: and We gave them clear proofs of the matter. The sentence carries on from 45:16, where Allah lists what He gave the Children of Israel: the Book, al-hukm and prophethood, good things for provision, and preference over the worlds. Ibn Kathir, in the English abridgement, reads 45:16 to 45:20 as one passage. This verse adds one more gift to the list, and then the list turns.",
+            "bn": "ওয়া আতাইনাহুম বাইয়িনাতিম মিনাল আমর: আর আমি তাদের দিয়েছিলাম দ্বীনের বিষয়ে সুস্পষ্ট প্রমাণ। বাক্যটি চলে এসেছে ৪৫:১৬ থেকে। সেখানে আল্লাহ গুনে গুনে বলেছেন বনী ইসরাঈলকে কী কী দিয়েছিলেন: কিতাব, হুকুম ও নবুওয়াত, উত্তম রিযক, আর বিশ্ববাসীর ওপর শ্রেষ্ঠত্ব। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৪৫:১৬ থেকে ৪৫:২০ পর্যন্ত এক টানা অংশ হিসেবে পড়ে। এ আয়াত তালিকায় আরও একটি দান যোগ করে, তারপরই তালিকার মোড় ঘুরে যায়।"
+          },
+          {
+            "en": "After it comes 45:18: thumma ja'alnaka 'ala shari'atin min al-amr, then We put you on a way of the matter, so follow it. The same two words, min al-amr, close the gift in both verses: clear proofs of the matter for them, a set way of the matter for the Prophet ﷺ. Ma'arif al-Qur'an says these verses confirm the messengership of the Final Messenger ﷺ and console him over what his enemies did to him. So the verse has two listeners: a past people whose story is told, and the Prophet ﷺ, addressed as inna rabbaka, your Lord.",
+            "bn": "এর পরেই ৪৫:১৮: সুম্মা জাআলনাকা আলা শারীআতিম মিনাল আমর, তারপর আমি তোমাকে দ্বীনের এক নির্ধারিত পথের ওপর রেখেছি, কাজেই তুমি তারই অনুসরণ কর। দুই আয়াতেই দানের শেষে একই শব্দজোড়া, মিনাল আমর। তাদের জন্য দ্বীনের বিষয়ে সুস্পষ্ট প্রমাণ, আর নবী ﷺ-এর জন্য দ্বীনের এক বাঁধা পথ। মাআরিফুল কুরআন বলে, এ আয়াতগুলো শেষ রাসূল ﷺ-এর রিসালাতকে প্রতিষ্ঠিত করে, আর শত্রুদের হাতে তিনি যা সয়েছেন তাতে তাঁকে সান্ত্বনা দেয়। কাজেই আয়াতের শ্রোতা দুজন। এক অতীত জাতি, যাদের কাহিনি বলা হচ্ছে। আর নবী ﷺ, যাঁকে সম্বোধন করা হচ্ছে ইন্না রাব্বাকা, তোমার রব, বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Clear Proofs Were",
+          "bn": "সুস্পষ্ট প্রমাণগুলো কী ছিল"
+        },
+        "p": [
+          {
+            "en": "The commentators agree that bayyinat are things that make the truth plain, and differ over what they were. Ibn Kathir calls them arguments, proofs and decisive evidences, so that the proof stood against them. The Muyassar names clear laws on the lawful and the unlawful, and indications that show the truth apart from falsehood. At-Tabari ties them to revelation: clear things from Our command, through Our sending down to them the Torah, in which is a detailed explanation of everything.",
+            "bn": "বাইয়িনাত মানে এমন জিনিস, যা সত্যকে স্পষ্ট করে দেয়। এখানে তাফসীরকারেরা একমত। মতভেদ হলো সেগুলো আসলে কী ছিল, তা নিয়ে। ইবন কাসীর বলেন, যুক্তি, প্রমাণ আর অকাট্য দলিল, ফলে তাদের বিরুদ্ধে হুজ্জত প্রতিষ্ঠিত হয়ে গেল। মুয়াসসার বলে, হালাল ও হারামের স্পষ্ট বিধান, আর এমন আলামত যা হক ও বাতিলকে আলাদা করে দেখায়। তাবারী এগুলোকে ওহীর সঙ্গে জোড়েন: আমার আদেশ থেকে স্পষ্ট বিষয়, তাদের কাছে তাওরাত নাযিল করার মাধ্যমে, যাতে আছে সব কিছুর বিস্তারিত বিবরণ।"
+          },
+          {
+            "en": "As-Sa'di reads al-amr another way: the command of decree, which Allah brought to them, and he says these signs were the miracles they saw at the hands of Musa (AS). Al-Qurtubi opens with a report from Ibn 'Abbas (RA) that points forward instead: it means the matter of the Prophet ﷺ and the evidences of his prophethood, that he would emigrate from Tihama to Yathrib and the people of Yathrib would support him. Al-Baghawi takes the same line: the knowledge of Muhammad's ﷺ being sent, and what was made clear to them of his matter.",
+            "bn": "সা'দী আমর শব্দটা পড়েন অন্যভাবে: তাকদীরের আদেশ, যা আল্লাহ তাদের কাছে পৌঁছে দিয়েছিলেন। তাঁর মতে এ নিদর্শনগুলো ছিল সেই মুজিযা, যা তারা মূসা (আঃ)-এর হাতে দেখেছিল। কুরতুবী শুরু করেন ইবন আব্বাস (রাঃ)-এর এক বর্ণনা দিয়ে, যা উল্টো সামনের দিকে ইশারা করে। তাঁর মতে এর অর্থ নবী ﷺ-এর বিষয় আর তাঁর নবুওয়াতের সাক্ষ্যগুলো: তিনি তিহামা থেকে ইয়াসরিবে হিজরত করবেন, আর ইয়াসরিবের লোকেরা তাঁকে সাহায্য করবে। বাগাভীও একই পথে: মুহাম্মাদ ﷺ-এর আগমনের জ্ঞান, আর তাঁর বিষয়ে তাদের কাছে যা স্পষ্ট করে দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "So the readings run in two directions. One looks back to what Israel already held: the Torah, its law, the miracles of Musa (AS). The other looks ahead to a Prophet foretold. Al-Qurtubi carries both, giving the backward-looking one, clear laws on the lawful and unlawful together with miracles, under the words it was said. The texts read here do not choose, and neither does this article. Every reading agrees on the point the verse needs: nothing they later quarrelled over had been left unclear.",
+            "bn": "তাই ব্যাখ্যাগুলো দুই দিকে যায়। একটি পেছনে তাকায়, বনী ইসরাঈলের হাতে যা আগে থেকেই ছিল তার দিকে: তাওরাত, তার শরীআত, মূসা (আঃ)-এর মুজিযা। অন্যটি সামনে তাকায়, এক প্রতিশ্রুত নবীর দিকে। কুরতুবী দুটোই রাখেন। পেছনে তাকানো ব্যাখ্যাটি, অর্থাৎ হালাল-হারামের স্পষ্ট বিধান ও মুজিযা, তিনি আনেন 'বলা হয়েছে' কথাটি দিয়ে। এখানে পড়া তাফসীরগুলো এ দুইয়ের কোনোটিকে বেছে নেয় না, এ লেখাও নেয় না। তবে আয়াতের যে কথাটি দরকার, তাতে সব ব্যাখ্যা একমত: পরে যা নিয়ে তারা ঝগড়া করেছে, তার কিছুই অস্পষ্ট রাখা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only Once the Knowledge Came",
+          "bn": "জ্ঞান আসার পরেই কেবল"
+        },
+        "p": [
+          {
+            "en": "Fa-ma khtalafu illa min ba'di ma ja'ahumu al-'ilm: and they did not differ except after the knowledge had come to them. A negation followed by illa closes every other door: no other time for difference existed. Al-Qurtubi reports two views of which knowledge is meant. An-Naqqash related that it means Yusha' ibn Nun, in whom some of them believed and some disbelieved. Others, under it was said, take it as the prophethood of the Prophet ﷺ, over which they then differed.",
+            "bn": "ফামাখতালাফূ ইল্লা মিম বা'দি মা জাআহুমুল ইলম: জ্ঞান তাদের কাছে আসার পরেই কেবল তারা মতভেদ করেছিল। আগে না-বাচক কথা, তারপর ইল্লা, ফলে অন্য সব সম্ভাবনা বন্ধ হয়ে যায়। মতভেদের আর কোনো সময় ছিল না, এ সময়টা ছাড়া। কোন জ্ঞানের কথা বলা হচ্ছে, সে বিষয়ে কুরতুবী দুটি মত আনেন। নাক্কাশের বর্ণনায় এর অর্থ ইউশা ইবন নূন, যাঁর প্রতি তাদের কেউ ঈমান এনেছিল, কেউ কুফরি করেছিল। আরেক মত, যা তিনি 'বলা হয়েছে' দিয়ে আনেন: এ জ্ঞান হলো নবী ﷺ-এর নবুওয়াত, যা নিয়ে তারা পরে মতভেদ করে।"
+          },
+          {
+            "en": "As-Sa'di describes the knowledge by what it should have done: it was the knowledge that called for there being no difference. The favours Allah gave the Children of Israel, he says, required them to carry them out in the most complete way and to gather on the truth He had made clear to them. Instead the matter was turned round. They treated the favours the opposite of what was due, and divided over the very thing they had been commanded to unite upon.",
+            "bn": "সা'দী জ্ঞানটার পরিচয় দেন, সেটার যা করার কথা ছিল তা দিয়ে: এমন জ্ঞান, যা মতভেদ না থাকাকেই অনিবার্য করে। তাঁর কথায়, আল্লাহ বনী ইসরাঈলকে যেসব নিয়ামত দিয়েছিলেন, অবস্থার দাবি ছিল তারা সেগুলোর হক পূর্ণভাবে আদায় করবে, আর আল্লাহ যে হক স্পষ্ট করে দিয়েছেন তার ওপর এক হবে। কিন্তু ব্যাপারটা উল্টে গেল। যা করা উচিত ছিল, নিয়ামতের সঙ্গে তারা করল তার উল্টো। যে বিষয়ে এক থাকার আদেশ পেয়েছিল, ঠিক সে বিষয়েই তারা বিভক্ত হয়ে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Baghyan and the Wish to Lead",
+          "bn": "বাগইয়ান: নেতৃত্বের লোভ"
+        },
+        "p": [
+          {
+            "en": "Then the verse names the cause: baghyan baynahum, out of baghy among themselves. The commentators read the word as the motive that drove the split. As-Sa'di: what carried them into difference was the baghy of some of them against others, and wrongdoing. The Muyassar says the same and names what the baghy sought: elevation and leadership. At-Tabari is the plainest of all. They differed, he says, in pursuit of positions of leadership, and in abandoning the clear explanation Allah had given in what He sent down to them.",
+            "bn": "এরপর আয়াত কারণটা জানিয়ে দেয়: বাগইয়াম বাইনাহুম, নিজেদের মধ্যে সীমালঙ্ঘনের কারণে। তাফসীরকারেরা শব্দটাকে পড়েন সেই তাড়না হিসেবে, যা বিভক্তির দিকে ঠেলে দিয়েছিল। সা'দী বলেন, তাদের মতভেদে টেনে নিয়েছিল একে অপরের ওপর সীমালঙ্ঘন আর জুলুম। মুয়াসসারও একই কথা বলে, আর জানিয়ে দেয় সে সীমালঙ্ঘন কী চাইছিল: উঁচু আসন আর নেতৃত্ব। তাবারী সবচেয়ে সোজা ভাষায় বলেন। তাঁর মতে তারা মতভেদ করেছিল নেতৃত্বের পদ পাওয়ার আশায়, আর আল্লাহ তাঁর নাযিল করা কিতাবে যে স্পষ্ট বর্ণনা দিয়েছিলেন, তা ছেড়ে দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the meaning ad-Dahhak gave: envy towards the Prophet ﷺ. He then adds a wider reading: some transgressing against others, seeking precedence and leadership. And he turns it at once to the Prophet's ﷺ own listeners: so too the idolaters of your age, O Muhammad; the clear proofs came to them, but they turned away from them out of rivalry for leadership. Ma'arif al-Qur'an, citing Bayan al-Qur'an, says the rejection came not from any lack of arguments and signs, but from jealousy, love of the world and personal desire.",
+            "bn": "কুরতুবী দাহহাকের দেওয়া অর্থ আনেন: নবী ﷺ-এর প্রতি হিংসা। তারপর আরেকটি বিস্তৃত অর্থ যোগ করেন: শ্রেষ্ঠত্ব আর নেতৃত্বের খোঁজে একে অপরের ওপর সীমালঙ্ঘন। আর সঙ্গে সঙ্গে কথাটা ঘুরিয়ে দেন নবী ﷺ-এর নিজের যুগের শ্রোতাদের দিকে। হে মুহাম্মাদ, তোমার যুগের মুশরিকরাও এমনই। সুস্পষ্ট প্রমাণ তাদের কাছে এসেছে, কিন্তু নেতৃত্ব নিয়ে প্রতিযোগিতার কারণে তারা মুখ ফিরিয়ে নিয়েছে। মাআরিফুল কুরআন বায়ানুল কুরআনের বরাতে বলে, প্রত্যাখ্যানের কারণ যুক্তি বা নিদর্শনের অভাব ছিল না। কারণ ছিল হিংসা, দুনিয়ার মোহ আর ব্যক্তিগত খেয়ালখুশি।"
+          },
+          {
+            "en": "Notice where al-Qurtubi's turn leaves the word. Baghy is not the trait of one lineage; he finds the same thing among the idolaters of the Prophet's ﷺ own age. And baynahum, among themselves, puts the cause inside the community: Ibn Kathir reads it as baghy from some of them against others. Read together, the commentators place the failure in the will rather than the mind. The knowledge was there. What was missing was a heart that wanted the truth more than the place at the front, and a scholar can lack it as easily as anyone.",
+            "bn": "কুরতুবীর এ মোড় শব্দটাকে কোথায় দাঁড় করায়, খেয়াল করুন। বাগই কোনো এক বংশের স্বভাব নয়। নবী ﷺ-এর নিজের যুগের মুশরিকদের মধ্যেও তিনি একই জিনিস দেখেন। আর বাইনাহুম, নিজেদের মধ্যে, শব্দটা কারণটাকে সম্প্রদায়ের ভেতরেই রাখে। ইবন কাসীর একে পড়েন তাদের কারও কারও অন্যদের ওপর সীমালঙ্ঘন হিসেবে। সব মিলিয়ে তাফসীরকারেরা ব্যর্থতাটা খুঁজে পান ইচ্ছার মধ্যে, বুদ্ধির মধ্যে নয়। জ্ঞান ছিল। যা ছিল না, তা হলো এমন অন্তর, যে সামনের সারির জায়গার চেয়ে সত্যকে বেশি চায়। আর একজন আলিমেরও তা না থাকতে পারে, অন্য যে কারও মতোই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Right Made Plain",
+          "bn": "হকপন্থী যেদিন স্পষ্ট হবে"
+        },
+        "p": [
+          {
+            "en": "Inna rabbaka yaqdi baynahum yawma al-qiyamati fima kanu fihi yakhtalifun: your Lord will judge between them on the Day of Resurrection concerning what they used to differ over. At-Tabari reads it as spoken to the Prophet ﷺ about those of the Children of Israel who differed out of baghy, after the knowledge and clear explanation that had come to them. On that Day, he says, Allah will give those in the right victory over those in falsehood, by a ruling that settles it. Ibn Kathir: He will decide between them by His just judgement.",
+            "bn": "ইন্না রাব্বাকা ইয়াকদী বাইনাহুম ইয়াওমাল কিয়ামাতি ফীমা কানূ ফীহি ইয়াখতালিফূন: তারা যে বিষয়ে মতভেদ করত, কিয়ামতের দিন তোমার রব সে বিষয়ে তাদের মধ্যে ফয়সালা করবেন। তাবারী একে পড়েন নবী ﷺ-এর প্রতি সম্বোধন হিসেবে, বনী ইসরাঈলের সেই লোকদের সম্পর্কে, যারা জ্ঞান আর স্পষ্ট বর্ণনা আসার পরেও সীমালঙ্ঘন করে মতভেদ করেছিল। তাঁর কথায়, সেদিন আল্লাহ চূড়ান্ত রায় দিয়ে হকপন্থীকে বাতিলপন্থীর ওপর জয়ী করবেন। ইবন কাসীর বলেন, তিনি তাঁর ন্যায়বিচার দিয়ে তাদের মধ্যে মীমাংসা করবেন।"
+          },
+          {
+            "en": "As-Sa'di adds what the judgement will uncover. Allah will separate those in the right from those in falsehood, and also those whom desire, or something else, drove to differ. The Day will rule on the motive as well as the position. That is a sobering thought for anyone who was right on a question for the wrong reason. Al-Qurtubi glosses yaqdi simply: He will rule and decide. What the verse does not do is hand that ruling to anyone before the Day.",
+            "bn": "বিচার কী উন্মোচন করবে, সা'দী তা যোগ করেন। আল্লাহ হকপন্থীকে বাতিলপন্থী থেকে আলাদা করবেন। আলাদা করবেন তাকেও, যাকে খেয়ালখুশি বা অন্য কিছু মতভেদের দিকে ঠেলে দিয়েছিল। অর্থাৎ সেদিনের রায় শুধু অবস্থানের ওপর নয়, নিয়তের ওপরও। যে মানুষ কোনো প্রশ্নে সঠিক ছিল, কিন্তু ভুল উদ্দেশ্যে, তার জন্য কথাটা ভাবনার। কুরতুবী ইয়াকদী শব্দের অর্থ সংক্ষেপে বলেন: তিনি হুকুম দেবেন ও মীমাংসা করবেন। কিন্তু আয়াতটি সে রায় কিয়ামতের আগে কারও হাতে তুলে দেয় না।"
+          },
+          {
+            "en": "So this must be said plainly. The verse describes the Children of Israel of a past age, and in some readings in al-Qurtubi, al-Baghawi and Ma'arif al-Qur'an those who met the Prophet ﷺ. It names no present-day state, nation or people, and it licenses nothing against any living person or community, Jews today included. It gives no one leave to insult, suspect or harm anyone. The verdict it speaks of belongs to Allah, on a Day He has named, and no reader inherits it now.",
+            "bn": "তাই কথাটা সোজাসুজি বলা দরকার। আয়াতটি অতীত যুগের বনী ইসরাঈলের বর্ণনা দেয়। কুরতুবী, বাগাভী ও মাআরিফুল কুরআনে আনা কিছু ব্যাখ্যায় এর মধ্যে আছে নবী ﷺ-এর সমকালীন লোকেরাও। আজকের কোনো রাষ্ট্র, জাতি বা গোষ্ঠীর নাম এতে নেই। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে, আজকের ইহুদিদের বিরুদ্ধেও, আয়াতটি কোনো কিছুর অনুমতি দেয় না। কাউকে গালি দেওয়া, সন্দেহ করা বা ক্ষতি করার অধিকার এ আয়াত কাউকে দেয় না। যে রায়ের কথা এখানে, তা আল্লাহর, তাঁর নির্ধারিত দিনে। কোনো পাঠক আজ সে রায়ের উত্তরাধিকারী নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning Addressed Homeward",
+          "bn": "সতর্কবাণী নিজের ঘরের দিকে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's note on the verse comes to the sentence that decides how it should be read: in this is a warning to this umma against walking their path and aiming at their way. The Muyassar ends in nearly the same words. The English abridgement of Ibn Kathir draws the next step. This is why, it says, Allah follows at once with 45:18: then We put you on a way of the matter, so follow it, and do not follow the desires of those who do not know.",
+            "bn": "আয়াতের আলোচনায় ইবন কাসীর এমন এক বাক্যে পৌঁছান, যা ঠিক করে দেয় আয়াতটি কীভাবে পড়তে হবে: এতে এ উম্মতের জন্য সতর্কবাণী আছে, তারা যেন ওদের পথে না চলে, ওদের তরিকার দিকে না যায়। মুয়াসসারও শেষ করে প্রায় একই কথায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ পরের ধাপটা দেখিয়ে দেয়। সেখানে বলা হয়, এ কারণেই আল্লাহ সঙ্গে সঙ্গে ৪৫:১৮ এনেছেন: তারপর আমি তোমাকে দ্বীনের এক পথের ওপর রেখেছি, কাজেই তারই অনুসরণ কর, আর যারা জানে না তাদের খেয়ালখুশির অনুসরণ করো না।"
+          },
+          {
+            "en": "So the commentators do not leave the verse as a charge sheet against others. Its weight falls on the community that now holds the final Book, because that community has also been given clear proofs, and can also divide after knowledge out of the wish to stand above each other. A Muslim who reads the verse only about someone else has read past the sentence Ibn Kathir wrote for him. No tafsir read for this verse attaches a hadith to it, so none is quoted here.",
+            "bn": "তাই তাফসীরকারেরা আয়াতটিকে অন্যের বিরুদ্ধে অভিযোগপত্র বানিয়ে রাখেন না। এর ভার পড়ে সেই উম্মতের ওপর, শেষ কিতাব এখন যাদের হাতে। কারণ তাদেরও সুস্পষ্ট প্রমাণ দেওয়া হয়েছে, আর তারাও জ্ঞান পাওয়ার পর একে অপরের ওপরে থাকার বাসনায় বিভক্ত হতে পারে। যে মুসলিম আয়াতটি শুধু অন্যদের সম্পর্কে পড়ে, ইবন কাসীর তার জন্যই যে বাক্যটি লিখেছেন, সেটি সে পাশ কাটিয়ে গেছে। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Baghyan Baynahum Elsewhere",
+          "bn": "বাগইয়াম বাইনাহুম আরও যেখানে"
+        },
+        "p": [
+          {
+            "en": "The Qur'an says this more than once, in nearly the same words. 10:93 is also about the Children of Israel, settled and given good provision, and it closes with the very clause that closes this verse: your Lord will judge between them on the Day of Resurrection concerning what they used to differ over. 3:19 uses the same phrase, min ba'di ma ja'ahumu al-'ilmu baghyan baynahum, of those given the Scripture, right after the words that the religion with Allah is Islam. 42:14 says it with tafarraqu, they split, and adds that but for a word already gone out from your Lord, the matter would have been settled between them.",
+            "bn": "কুরআন কথাটা একাধিকবার বলেছে, প্রায় একই শব্দে। ১০:৯৩ আয়াতও বনী ইসরাঈলকে নিয়ে, যাদের উত্তম আবাস আর পবিত্র রিযক দেওয়া হয়েছিল। সে আয়াত শেষ হয় হুবহু এ আয়াতের শেষ বাক্যে: তারা যে বিষয়ে মতভেদ করত, কিয়ামতের দিন তোমার রব সে বিষয়ে তাদের মধ্যে ফয়সালা করবেন। ৩:১৯ আয়াতে একই কথা, মিম বা'দি মা জাআহুমুল ইলমু বাগইয়াম বাইনাহুম, কিতাবপ্রাপ্তদের সম্পর্কে, ঠিক এ ঘোষণার পরে যে আল্লাহর কাছে দ্বীন হলো ইসলাম। ৪২:১৪ আয়াত একই কথা বলে তাফাররাকূ, তারা বিভক্ত হলো, শব্দে। সঙ্গে যোগ করে, তোমার রবের পক্ষ থেকে একটি কথা আগেই স্থির না হয়ে থাকলে তাদের মধ্যে ফয়সালা হয়েই যেত।"
+          },
+          {
+            "en": "2:213 gives the pattern in its widest frame: none differed over the Book except those who were given it, after clear proofs came, baghyan baynahum; and Allah guided the believers to the truth they had differed over. Then 3:105 speaks to the believers directly: do not be like those who split and differed after the clear proofs had come to them. What Ibn Kathir and the Muyassar draw from this verse as a warning, 3:105 says outright as a command.",
+            "bn": "২:২১৩ আয়াত ধারাটাকে দেখায় সবচেয়ে বড় পরিসরে। কিতাব যাদের দেওয়া হয়েছিল, সুস্পষ্ট প্রমাণ আসার পর তারাই নিজেদের মধ্যে সীমালঙ্ঘন করে তা নিয়ে মতভেদ করল। তারপর মতভেদের বিষয়ে আল্লাহ মুমিনদের হকের পথ দেখালেন। এরপর ৩:১০৫ সরাসরি মুমিনদের বলে: তোমরা তাদের মতো হয়ো না, যারা সুস্পষ্ট প্রমাণ আসার পরও বিভক্ত হয়েছে ও মতভেদ করেছে। ইবন কাসীর ও মুয়াসসার এ আয়াত থেকে যে সতর্কবাণী বের করেন, ৩:১০৫ তা সরাসরি আদেশ হিসেবেই বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Learning Without Climbing",
+          "bn": "জ্ঞান, সিঁড়ি নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss gives a test anyone can carry into a disagreement: am I after the truth, or after a position? One way to tell is to ask whether I would be glad if the other person turned out to be right. Another is to watch what I do with something newly learned about the religion. If I act on it before I correct anyone with it, it is working on me. If its first use is to show who knows less, it has begun to work like the baghy the verse describes.",
+            "bn": "তাবারীর ব্যাখ্যা এমন একটা পরীক্ষা দেয়, যা যে কেউ মতবিরোধের সময় সঙ্গে রাখতে পারে: আমি কি সত্য চাইছি, নাকি একটা আসন? বোঝার একটা উপায় হলো নিজেকে জিজ্ঞেস করা, অন্যজন সঠিক প্রমাণিত হলে আমি কি খুশি হব? আরেকটা উপায়, দ্বীনের নতুন শেখা কথাটা দিয়ে আমি কী করি তা লক্ষ করা। কাউকে শুধরে দেওয়ার আগে যদি নিজে আমল করি, তবে জ্ঞানটা আমার ওপর কাজ করছে। আর যদি তার প্রথম ব্যবহার হয় কে কম জানে তা দেখানো, তবে সে জ্ঞান আয়াতে বলা সেই সীমালঙ্ঘনের মতো কাজ করতে শুরু করেছে।"
+          },
+          {
+            "en": "In a hard season, when a family, a masjid committee or a study circle splits over a religious question, the verse offers two things together. It does not pretend the difference is unreal; it says Allah will judge it. And it takes the final verdict out of our hands, which frees us to disagree without contempt. We can state what we hold, with its evidence, and still greet, visit and help the person who holds otherwise, leaving the last word where the verse leaves it.",
+            "bn": "কঠিন সময়ে, যখন কোনো পরিবার, মসজিদ কমিটি বা পাঠচক্র দ্বীনি কোনো প্রশ্নে ভাগ হয়ে যায়, আয়াতটি একসঙ্গে দুটি জিনিস দেয়। মতভেদ যে বাস্তব, তা অস্বীকার করে না। বলে, আল্লাহ এর ফয়সালা করবেন। আবার চূড়ান্ত রায়টা আমাদের হাত থেকে সরিয়ে নেয়, ফলে অবজ্ঞা ছাড়াই দ্বিমত করার সুযোগ থাকে। আমরা দলিলসহ নিজের মত বলতে পারি, তবু ভিন্নমতের মানুষটিকে সালাম দিতে, তার খোঁজ নিতে, তাকে সাহায্য করতে পারি। শেষ কথাটা থাকুক সেখানে, যেখানে আয়াত তা রেখেছে।"
+          },
+          {
+            "en": "For a du'a, the Qur'an supplies one in 3:8: rabbana la tuzigh qulubana ba'da idh hadaytana wa hab lana min ladunka rahmah, innaka anta al-wahhab. Our Lord, let not our hearts deviate after You have guided us, and grant us mercy from Yourself; indeed You are the Bestower. It asks for steadiness after guidance, the very moment this verse warns about. And in the verse's own words, as a supplication composed here: O Allah, You have made the truth clear to us; keep us from differing over it out of envy among ourselves.",
+            "bn": "দোয়ার জন্য কুরআন নিজেই একটি দিয়েছে, ৩:৮ আয়াতে: রাব্বানা লা তুযিগ কুলূবানা বা'দা ইয হাদাইতানা ওয়া হাব লানা মিল লাদুনকা রাহমাহ, ইন্নাকা আনতাল ওয়াহহাব। হে আমাদের রব, হিদায়াত দেওয়ার পর আমাদের অন্তরকে বাঁকা করে দিও না, আর তোমার কাছ থেকে আমাদের রহমত দান কর। নিশ্চয়ই তুমিই মহাদাতা। এ দোয়া চায় হিদায়াতের পরে অবিচল থাকা, ঠিক সেই মুহূর্তে, যার ব্যাপারে এ আয়াত সতর্ক করে। আর আয়াতের নিজের শব্দে, এখানে রচিত একটি দোয়া: হে আল্লাহ, তুমি আমাদের সামনে হক স্পষ্ট করে দিয়েছ। নিজেদের মধ্যে হিংসার বশে তা নিয়ে মতভেদ করা থেকে আমাদের রক্ষা কর।"
+          }
+        ]
+      }
+    ]
+  },
   "45:22": {
     "sections": [
       {
