@@ -27169,6 +27169,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the Qur'an is recited, fall silent and listen with your whole attention, then carry what you heard home to your people as sincere counsel.",
     "lessonBn": "কুরআন তিলাওয়াত হলে চুপ হয়ে পুরো মনোযোগ দিয়ে শুনুন, তারপর যা শুনলেন তা আন্তরিক নসিহত হিসেবে নিজের লোকদের কাছে পৌঁছে দিন।"
+  },
+  "48:16": {
+    "reflectionEn": "The men who stayed at home have just been told they cannot come along for the easy gains. Then, in the same breath, comes another word: you will be called, and this time to face a people of great might. The door they shut on themselves is not bricked up. It opens again, but onto the harder road, not the comfortable one. If they answer, a good reward; if they turn away as they turned away before, a painful punishment. The past failure is named, yet it is not made the final verdict. What matters is what they do when the next call comes. When I have let a duty slip, do I wait for an easy chance to make amends, or answer the hard one when it arrives?",
+    "reflectionBn": "যারা ঘরে বসে ছিল, তাদের এইমাত্র জানিয়ে দেওয়া হয়েছে, সহজ লাভের সফরে তারা সঙ্গী হতে পারবে না। তারপর একই নিঃশ্বাসে আরেকটি কথা আসে: তোমাদের ডাকা হবে, আর এবার ডাক আসবে প্রবল শক্তিধর এক জাতির মুখোমুখি হতে। নিজেরা যে দরজা বন্ধ করেছিল, তা চিরদিনের জন্য গেঁথে দেওয়া হয়নি। দরজা আবার খোলে, তবে আরামের দিকে নয়, কঠিন পথের দিকে। সাড়া দিলে উত্তম প্রতিদান। আগের মতো আবার পিঠ ফেরালে কষ্টদায়ক শাস্তি। পুরোনো ব্যর্থতার কথা স্পষ্ট বলা হলো, কিন্তু সেটাকে শেষ রায় বানানো হলো না। আসল কথা হলো, পরের ডাক এলে তারা কী করে। কোনো দায়িত্ব যখন আমার হাত ফসকে যায়, আমি কি ক্ষতি পোষানোর সহজ সুযোগের অপেক্ষায় বসে থাকি, নাকি কঠিন ডাকটা এলে তাতেই সাড়া দিই?",
+    "pointsEn": [
+      "Which duty did I let pass last time, and what would answering its next call actually cost me?",
+      "Do I offer to help only when the work looks light and the gain looks near?",
+      "When someone has failed me once, do I leave them a way back, as this verse does?",
+      "Do I treat an old failure as my final verdict on myself, instead of a warning for the next test?",
+      "What excuse am I preparing now for a call I already know is coming?"
+    ],
+    "pointsBn": [
+      "গতবার কোন দায়িত্ব আমি হাতছাড়া করেছি? তার পরের ডাকে সাড়া দিতে আসলে আমার কী খরচ হবে?",
+      "কাজ যখন হালকা দেখায় আর লাভ কাছে মনে হয়, শুধু তখনই কি আমি সাহায্যের হাত বাড়াই?",
+      "কেউ একবার আমাকে হতাশ করলে আমি কি তার ফেরার পথ খোলা রাখি, যেমন এ আয়াত রেখেছে?",
+      "পুরোনো কোনো ব্যর্থতাকে কি আমি নিজের উপর শেষ রায় ধরে নিয়েছি, পরের পরীক্ষার সতর্কবার্তা না ভেবে?",
+      "যে ডাক আসবে বলে আমি জানি, তার জন্য এখন থেকেই কোন অজুহাত সাজিয়ে রাখছি?"
+    ],
+    "lessonEn": "A past failure does not close the door: the next call may be harder than the one you missed, and answering it is what counts.",
+    "lessonBn": "পুরোনো ব্যর্থতা দরজা বন্ধ করে দেয় না। পরের ডাক হয়তো আগেরটার চেয়ে কঠিন হবে, আর সেই ডাকে সাড়া দেওয়াটাই আসল।"
   }
 };
 

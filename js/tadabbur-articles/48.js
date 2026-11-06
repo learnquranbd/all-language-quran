@@ -307,6 +307,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "48:16": {
+    "sections": [
+      {
+        "h": {
+          "en": "Shut Out, Then Called Again",
+          "bn": "বাদ পড়া, তারপর নতুন ডাক"
+        },
+        "p": [
+          {
+            "en": "Qul li-l-mukhallafina mina l-a'rab: say to those of the bedouins who were left behind. At-Tabari reads it as Allah's word to His Prophet ﷺ: say, O Muhammad, to the bedouins left behind from marching with you. Al-Qurtubi names what they missed: these are the ones who stayed behind from al-Hudaybiya. The verse before has just told them, you will not follow us, when they asked to come along towards spoils. This verse does not take that refusal back. It speaks of a different summons, one still to come.",
+            "bn": "কুল লিল-মুখাল্লাফীনা মিনাল আ'রাব: বেদুঈনদের মধ্যে যারা পেছনে রয়ে গিয়েছিল, তাদের বলুন। তাবারীর ব্যাখ্যায় এটি নবী ﷺ-এর প্রতি আল্লাহর নির্দেশ: হে মুহাম্মাদ, যে বেদুঈনরা আপনার সঙ্গে রওনা না হয়ে পিছিয়ে ছিল, তাদের বলুন। তারা কোন সফর বাদ দিয়েছিল, কুরতুবী তা স্পষ্ট করেন: এরা হুদায়বিয়া থেকে পিছিয়ে থাকা লোক। আগের আয়াতে গনীমতের দিকে যাওয়ার সময় তারা সঙ্গী হতে চেয়েছিল, আর তাদের বলা হয়েছিল, তোমরা আমাদের অনুসরণ করবে না। এ আয়াত সেই নিষেধ ফিরিয়ে নেয় না। এখানে কথা অন্য একটা ডাকের, যা এখনো আসেনি।"
+          },
+          {
+            "en": "As-Sa'di frames the verse as a test. Allah had said that these bedouins hung back from striving in His way with an excuse that was no excuse, and wanted to go out only when there was no armed strength to meet and no fighting, purely for the spoils. So He said, testing them: you will be called to a people of great might. Ma'arif al-Qur'an reads it as consolation too. Not all who stayed behind were hypocrites, it says; some were sincere, and some later became so. Khaybar was closed to them, yet a harder call would come.",
+            "bn": "সা'দী আয়াতটিকে দেখেন পরীক্ষা হিসেবে। আল্লাহ আগেই জানিয়েছেন, এই বেদুঈনরা তাঁর পথে সংগ্রাম থেকে পিছিয়ে থাকে, আর এমন অজুহাত দেখায় যা আসলে কোনো অজুহাতই নয়। যখন সামনে শক্তিশালী প্রতিপক্ষ নেই, লড়াই নেই, শুধু গনীমত আছে, তখনই তারা বের হতে চায়। তাই তাদের পরীক্ষা করতে আল্লাহ বললেন: তোমাদের ডাকা হবে প্রবল শক্তিধর এক জাতির দিকে। মাআরিফুল কুরআন এতে সান্ত্বনাও দেখে। তার কথায়, পিছিয়ে থাকা সবাই মুনাফিক ছিল না। কেউ ছিল খাঁটি মুসলিম, কেউ পরে খাঁটি হয়েছে। খায়বারের দরজা তাদের জন্য বন্ধ ছিল, কিন্তু এর চেয়ে কঠিন ডাক সামনে আসছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Might Measured on the Field",
+          "bn": "শক্তির মাপ যুদ্ধের ময়দানে"
+        },
+        "p": [
+          {
+            "en": "Sa-tud'awna ila qawmin uli ba'sin shadid: you will be called to a people possessed of severe might. At-Tabari supplies the word the sentence leaves unsaid: called to the fighting of a people, uli ba's, with might in combat, shadid, severe. In his closing judgement he adds a second phrase for it, najda fi l-hurub, valour in wars. The Muyassar keeps to the same line: a people with severe might in fighting. The abridged English Ibn Kathir calls them people experienced at warfare.",
+            "bn": "সাতুদ'আওনা ইলা কাওমিন উলী বা'সিন শাদীদ: তোমাদের ডাকা হবে প্রবল শক্তিধর এক জাতির দিকে। বাক্যে যে শব্দটা উহ্য, তাবারী তা জুড়ে দেন: এক জাতির সঙ্গে লড়াইয়ের দিকে ডাকা হবে। উলী বা'স মানে যুদ্ধে যাদের শক্তি আছে, আর শাদীদ মানে কঠিন। নিজের চূড়ান্ত মত দেওয়ার সময় তিনি আরেকটি কথা যোগ করেন: নাজদা ফিল হুরূব, অর্থাৎ যুদ্ধে সাহসিকতা। মুয়াসসারও একই কথা বলে: লড়াইয়ে কঠিন শক্তির অধিকারী এক জাতি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তাদের বলে যুদ্ধে অভিজ্ঞ লোক।"
+          },
+          {
+            "en": "The verb is passive: you will be called. The verse does not say who will do the calling, and that silence is where the commentators part ways, because whoever the caller is decides which war is meant. As-Sa'di fills it: the Messenger will call you, and those who stood in his place after him among the rightly guided caliphs and the imams. The verse itself names neither the caller nor the people.",
+            "bn": "ক্রিয়াটি কর্মবাচ্যে: তোমাদের ডাকা হবে। কে ডাকবে, আয়াত তা বলে না। এই নীরবতার জায়গাতেই তাফসীরকারদের পথ আলাদা হয়ে যায়। কারণ ডাকদাতা কে, তার উপরই নির্ভর করে কোন যুদ্ধের কথা বলা হচ্ছে। সা'দী শূন্যস্থানটা পূরণ করেন এভাবে: রাসূল তোমাদের ডাকবেন, আর তাঁর পরে তাঁর স্থলাভিষিক্ত খুলাফায়ে রাশিদীন ও ইমামগণ ডাকবেন। আয়াত নিজে ডাকদাতার নামও বলে না, জাতিটির নামও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Hunayn to Persia and Rome",
+          "bn": "হুনায়ন থেকে পারস্য ও রোম"
+        },
+        "p": [
+          {
+            "en": "Who are they? At-Tabari says the people of interpretation differed, and lists the camps with their chains. Some said the people of Persia: so from Ibn 'Abbas (RA) through 'Ata' ibn Abi Rabah, and from Mujahid. Others said Persia and Rome together: 'Abd ar-Rahman ibn Abi Layla, al-Hasan and Ibn Zayd. Others said Hawazin at Hunayn: Sa'id ibn Jubayr and 'Ikrima, who in one chain add Thaqif, while Qatada names Hawazin and Ghatafan on the day of Hunayn. Others said Banu Hanifa with Musaylima the liar, from az-Zuhri. Ka'b said Rome.",
+            "bn": "এরা কারা? তাবারী বলেন, ব্যাখ্যাকারেরা এ নিয়ে মতভেদ করেছেন। তারপর তিনি সনদসহ প্রতিটি দলের কথা সাজান। কেউ বলেছেন পারস্যবাসী। আতা ইবন আবী রাবাহের সূত্রে ইবন আব্বাস (রাঃ) থেকে এবং মুজাহিদ থেকে এমনই এসেছে। কেউ বলেছেন পারস্য ও রোম দুটোই। এ মত আবদুর রহমান ইবন আবী লায়লা, হাসান ও ইবন যায়দের। কেউ বলেছেন হুনায়নের হাওয়াযিন। এ মত সাঈদ ইবন জুবায়র ও ইকরিমার, একটি সনদে তাঁরা সাকীফের নামও যোগ করেন। কাতাদা বলেন হুনায়নের দিনের হাওয়াযিন ও গাতাফান। যুহরীর মতে মিথ্যাবাদী মুসায়লিমার সঙ্গী বনু হানীফা। আর কা'ব বলেন রোম।"
+          },
+          {
+            "en": "Ibn Kathir sets out the same field with a few additions. He reports Thaqif alone from ad-Dahhak, and two further reports from Mujahid: that they are the idol-worshippers, and that they are simply men of great might, with no particular group named. He notes that Banu Hanifa was also reported from Sa'id and 'Ikrima, which matches a chain in at-Tabari where the two of them used to add both Hawazin and Banu Hanifa. Al-Baghawi has az-Zuhri, Muqatil and a group saying Banu Hanifa, the people of al-Yamama, companions of Musaylima.",
+            "bn": "ইবন কাসীরও একই মতগুলো সাজান, সঙ্গে কিছু সংযোজন। দাহহাক থেকে তিনি শুধু সাকীফের কথা আনেন। মুজাহিদ থেকে আরও দুটি বর্ণনা দেন: এক, এরা মূর্তিপূজারী; দুই, এরা কেবল প্রবল শক্তিধর লোক, কোনো নির্দিষ্ট দলের নাম তিনি নেননি। ইবন কাসীর জানান, সাঈদ ও ইকরিমা থেকে বনু হানীফার কথাও বর্ণিত আছে। তাবারীর এক সনদের সঙ্গে এটা মিলে যায়, যেখানে তাঁরা দুজন হাওয়াযিন ও বনু হানীফা দুটোই যোগ করতেন। বাগাভীর বর্ণনায় যুহরী, মুকাতিল ও আরও একদল বলেন: এরা বনু হানীফা, ইয়ামামার অধিবাসী, মুসায়লিমার দলবল।"
+          },
+          {
+            "en": "One of at-Tabari's reports from Qatada describes the call as it came: they were called on the day of Hunayn to Hawazin and Thaqif, and some of them answered well and were eager to strive. That reading makes the Prophet ﷺ himself the caller, which al-Qurtubi will contest below. Every name on this list belongs to the first generations of Islam. The verse speaks of that summons in that time, and nothing in it is a warrant against any people or community alive today.",
+            "bn": "কাতাদা থেকে তাবারীর একটি বর্ণনায় ডাকটা কীভাবে এসেছিল, তার ছবি আছে: হুনায়নের দিন তাদের হাওয়াযিন ও সাকীফের বিরুদ্ধে ডাকা হয়েছিল, আর তাদের কেউ কেউ ভালোভাবে সাড়া দিয়েছিল, সংগ্রামে আগ্রহী হয়েছিল। এই ব্যাখ্যায় ডাকদাতা স্বয়ং নবী ﷺ। কুরতুবী সামনে এর আপত্তি তুলবেন। তালিকার প্রতিটি নাম ইসলামের প্রথম যুগের। আয়াত বলছে সেই যুগের সেই ডাকের কথা। আজ বেঁচে থাকা কোনো জাতি বা সম্প্রদায়ের বিরুদ্ধে এতে কোনো অনুমতিপত্র নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "We Recited It, Not Knowing",
+          "bn": "পড়তাম, কিন্তু জানতাম না"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives a recollection from Rafi' ibn Khadij (RA): by Allah, we used to recite this verse in times past, you will be called to a people of great might, and we did not know who they were, until Abu Bakr (RA) called us to fight Banu Hanifa, and then we knew it was them. Al-Baghawi has the same report in nearly the same words, and Ma'arif al-Qur'an repeats it. Neither tafsir gives it a chain or a grading. Al-Baghawi adds from Ibn Jurayj that 'Umar (RA) called them to fight Persia.",
+            "bn": "কুরতুবী রাফি' ইবন খাদীজ (রাঃ)-এর একটি স্মৃতিচারণ আনেন: আল্লাহর কসম, আগে আমরা এ আয়াত পড়তাম, তোমাদের ডাকা হবে প্রবল শক্তিধর এক জাতির দিকে, কিন্তু জানতাম না তারা কারা। শেষে আবূ বকর (রাঃ) যখন আমাদের বনু হানীফার বিরুদ্ধে লড়াইয়ে ডাকলেন, তখন বুঝলাম এরাই সেই জাতি। বাগাভীতেও প্রায় একই ভাষায় বর্ণনাটি আছে, মাআরিফুল কুরআনও তা উদ্ধৃত করে। কোনো তাফসীরই এর সনদ বা মান উল্লেখ করেনি। বাগাভী ইবন জুরাইজ থেকে আরেকটি কথা যোগ করেন: উমার (রাঃ) তাদের পারস্যের বিরুদ্ধে লড়াইয়ে ডেকেছিলেন।"
+          },
+          {
+            "en": "A last camp says the verse has not yet come to pass. At-Tabari gives this from Abu Hurayra (RA) through az-Zuhri, and al-Baghawi and al-Qurtubi repeat it. Al-Qurtubi answers in a single phrase: the apparent sense of the verse rejects it. Ibn Kathir has az-Zuhri saying the same, that those people have not come yet. He also relays narrators' explanations that match the verse to peoples of later times. Those are glosses by narrators, not the words of the verse, and this article leaves them aside.",
+            "bn": "শেষ দলটি বলে, আয়াতের কথা এখনো ঘটেনি। তাবারী যুহরীর সূত্রে আবূ হুরায়রা (রাঃ) থেকে এ মত আনেন, বাগাভী ও কুরতুবীও তা উল্লেখ করেন। কুরতুবীর জবাব ছোট: আয়াতের বাহ্যিক অর্থই একে প্রত্যাখ্যান করে। ইবন কাসীর যুহরী থেকেও একই কথা আনেন যে, সেই জাতি এখনো আসেনি। পরবর্তী কালের কিছু জাতির সঙ্গে আয়াতটিকে মিলিয়ে দেওয়া কয়েকজন বর্ণনাকারীর ব্যাখ্যাও তিনি উদ্ধৃত করেন। সেগুলো বর্ণনাকারীদের নিজস্ব ব্যাখ্যা, আয়াতের শব্দ নয়। এ লেখা সেগুলো পাশে সরিয়ে রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Leaves Them Unnamed",
+          "bn": "তাবারী নাম বসান না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own verdict is a refusal to choose. The soundest thing to say, he writes, is that Allah told these bedouins they would be called to fight a people of might in combat and valour in wars, and no proof has been set for us, from report or from reason, that Hawazin are meant, or Banu Hanifa, or Persia, or Rome, or any particular people. It may be some of these; it may be others. No statement is sounder, he concludes, than to say what Allah said: they will be called to a people of great might.",
+            "bn": "তাবারীর নিজের রায় হলো, কোনো একটিকে বেছে না নেওয়া। তিনি লেখেন, সবচেয়ে সঠিক কথা এটুকুই: আল্লাহ এই বেদুঈনদের জানিয়েছেন, তাদের এমন এক জাতির সঙ্গে লড়াইয়ে ডাকা হবে যারা যুদ্ধে শক্তিশালী ও সাহসী। কিন্তু হাওয়াযিন, বনু হানীফা, পারস্য, রোম বা নির্দিষ্ট কোনো জাতিকেই বোঝানো হয়েছে, এর পক্ষে কোনো বর্ণনা বা যুক্তির প্রমাণ আমাদের সামনে রাখা হয়নি। এদের কেউ হতে পারে, অন্য কেউও হতে পারে। তাঁর উপসংহার: আল্লাহ যা বলেছেন, তা-ই বলা ছাড়া এর চেয়ে সঠিক কোনো কথা নেই। অর্থাৎ, তাদের ডাকা হবে প্রবল শক্তিধর এক জাতির দিকে।"
+          },
+          {
+            "en": "Ibn Kathir records the same position: Mujahid, in one report, named no group, Ibn Jurayj held this, and it is the choice of Ibn Jarir, that is at-Tabari. Al-Baghawi's report from Ibn Jurayj is different, since there 'Umar (RA) called them to Persia; the two books carry two reports under one name, and both are given here as found. Ma'arif al-Qur'an takes a third line: there is no conflict between the views at all, since the word qawm, people, could take in all these nations.",
+            "bn": "ইবন কাসীরও একই অবস্থান উল্লেখ করেন। মুজাহিদ এক বর্ণনায় কোনো দলের নাম নেননি, ইবন জুরাইজ এ মত পোষণ করতেন, আর ইবন জারীর অর্থাৎ তাবারী এটাই গ্রহণ করেছেন। তবে বাগাভীতে ইবন জুরাইজের যে বর্ণনা, তা আলাদা। সেখানে উমার (রাঃ) তাদের পারস্যের বিরুদ্ধে ডেকেছিলেন। এক নামে দুই কিতাবে দুই রকম বর্ণনা এসেছে, আর এখানে দুটোই যেমন পাওয়া গেছে তেমন রাখা হলো। মাআরিফুল কুরআন তৃতীয় পথ ধরে। তার মতে মতগুলোর মধ্যে আদৌ কোনো বিরোধ নেই, কারণ কাওম অর্থাৎ জাতি শব্দটি এসব জাতিকেই ধারণ করতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Case Made for Two Caliphs",
+          "bn": "দুই খলীফার পক্ষে যুক্তি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws the sharpest conclusion. In this verse, he writes, is evidence that the leadership of Abu Bakr and 'Umar (RA) was valid, because Abu Bakr called these bedouins to fight Banu Hanifa and 'Umar called them to fight Persia and Rome. He rejects the Hunayn reading of 'Ikrima and Qatada for a stated reason: the caller cannot have been the Messenger ﷺ, since he had told them, you will never go out with me and never fight an enemy with me, the words of 9:83. It is known, he adds, that only those two called them after the Prophet ﷺ.",
+            "bn": "কুরতুবী সবচেয়ে জোরালো সিদ্ধান্তটি টানেন। তিনি লেখেন, এ আয়াতে প্রমাণ আছে যে আবূ বকর ও উমার (রাঃ)-এর নেতৃত্ব বৈধ ছিল। কারণ আবূ বকর এই বেদুঈনদের বনু হানীফার বিরুদ্ধে ডেকেছিলেন, আর উমার ডেকেছিলেন পারস্য ও রোমের বিরুদ্ধে। ইকরিমা ও কাতাদার হুনায়ন-ব্যাখ্যা তিনি নাকচ করেন, কারণও বলে দেন। ডাকদাতা রাসূল ﷺ হতে পারেন না, কেননা তিনি তাদের বলে দিয়েছিলেন: তোমরা কখনো আমার সঙ্গে বের হবে না, আমার সঙ্গে কোনো শত্রুর বিরুদ্ধে লড়বে না। এটি ৯:৮৩ আয়াতের ভাষা। তিনি যোগ করেন, নবী ﷺ-এর পরে এই দুজন ছাড়া আর কেউ তাদের ডাকেননি, এটা জানা কথা।"
+          },
+          {
+            "en": "Al-Qurtubi does not leave the other side unheard. He relays az-Zamakhshari: if the Hunayn view is soundly from Qatada, then never with me means, as long as you remain as you are, with sickness in your hearts and wavering in religion. Or, on Mujahid's view, the promise was that they would follow the Messenger ﷺ only as volunteers, with no share in the spoils. He closes with, and Allah knows best. Ma'arif al-Qur'an reports al-Qurtubi's conclusion, and argues that there is no proof the Prophet ﷺ called the bedouins to fight after Khaybar, nor was the foe at Hunayn so formidable.",
+            "bn": "কুরতুবী অপর পক্ষের কথাও শোনান। তিনি যামাখশারীর বক্তব্য উদ্ধৃত করেন: হুনায়নের মতটি যদি কাতাদা থেকে সঠিকভাবে প্রমাণিত হয়, তবে কখনো আমার সঙ্গে নয় কথাটির অর্থ হবে, যতদিন তোমরা অন্তরের রোগ আর দ্বীনের ব্যাপারে দোদুল্যমানতা নিয়ে থাকবে। অথবা মুজাহিদের মত অনুযায়ী, কথা ছিল তারা রাসূল ﷺ-এর পেছনে যাবে কেবল স্বেচ্ছাসেবক হিসেবে, গনীমতে তাদের কোনো ভাগ থাকবে না। শেষে তিনি বলেন, আল্লাহই ভালো জানেন। মাআরিফুল কুরআন কুরতুবীর এই সিদ্ধান্ত উল্লেখ করে। তার যুক্তি, খায়বারের পরে নবী ﷺ বেদুঈনদের লড়াইয়ে ডেকেছিলেন, এমন কোনো প্রমাণ নেই, আর হুনায়নের প্রতিপক্ষও অতটা প্রবল ছিল না।"
+          },
+          {
+            "en": "As-Sa'di reaches a similar point by another road: the verse shows the merit of the rightly guided caliphs who called people to strive against those of great might, and that obeying them in that was obligatory. Against all this stand Qatada's report in at-Tabari, in which the bedouins were called at Hunayn and some answered well, and at-Tabari's own refusal to fix the people at all. These are each scholar's arguments, reported as theirs. The article takes no side on who the caller was.",
+            "bn": "সা'দী অন্য পথ ধরে কাছাকাছি জায়গায় পৌঁছান। তাঁর মতে আয়াতটি খুলাফায়ে রাশিদীনের মর্যাদা দেখায়, যাঁরা প্রবল শক্তিধরদের বিরুদ্ধে সংগ্রামে ডেকেছিলেন। আরও দেখায়, সে ব্যাপারে তাঁদের আনুগত্য করা ওয়াজিব ছিল। এর বিপরীতে আছে তাবারীতে কাতাদার বর্ণনা, যেখানে হুনায়নে বেদুঈনদের ডাকা হয়েছিল আর কেউ কেউ ভালোভাবে সাড়া দিয়েছিল। আছে তাবারীর নিজের অবস্থানও, তিনি জাতিটিকে নির্দিষ্টই করেননি। এগুলো প্রত্যেক আলিমের নিজস্ব যুক্তি, তাঁদের নামেই উল্লেখ করা হলো। ডাকদাতা কে ছিলেন, এ প্রশ্নে এ লেখা কোনো পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fighting, or Islam Without It",
+          "bn": "লড়াই, নয়তো বিনা লড়াইয়ে ইসলাম"
+        },
+        "p": [
+          {
+            "en": "Tuqatilunahum aw yuslimun: you will fight them, or they will submit. At-Tabari glosses it: you will fight those you are called against, or they submit without war or fighting. Al-Qurtubi relays az-Zajjaj to the same effect, that the sense is, or they submit with no fighting. Ibn Kathir: or they enter your religion without a fight, by their own choice. Al-Qurtubi notes that yuslimun is joined to tuqatilunahum: one of the two will happen.",
+            "bn": "তুকাতিলূনাহুম আও ইউসলিমূন: তোমরা তাদের সঙ্গে লড়বে, অথবা তারা আত্মসমর্পণ করবে। তাবারীর ব্যাখ্যা: যাদের বিরুদ্ধে তোমাদের ডাকা হবে, তাদের সঙ্গে তোমরা লড়বে, অথবা তারা যুদ্ধ-বিগ্রহ ছাড়াই আত্মসমর্পণ করবে। কুরতুবী যাজ্জাজের কথা উদ্ধৃত করেন, অর্থ একই: অথবা তারা বিনা লড়াইয়ে আত্মসমর্পণ করবে। ইবন কাসীর বলেন, অথবা তারা লড়াই ছাড়া নিজেদের ইচ্ছায় তোমাদের দ্বীনে প্রবেশ করবে। কুরতুবী লক্ষ করেন, ইউসলিমূন ক্রিয়াটি তুকাতিলূনাহুম-এর সঙ্গে যুক্ত: দুটি বিষয়ের যেকোনো একটি ঘটবে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the reading of Ubayy (RA), aw yuslimu, taking it to mean until they submit, as one says eat or you are full, meaning until you are full. At-Tabari cites the same wording from some readings, and notes that it goes against the copies of the Qur'an in the cities and the body of the reciters, and says reading with it is not permitted in his view. Al-Qurtubi calls the clause the rule for those from whom jizya is not taken, either fighting or Islam with no third, and relays az-Zajjaj: this concerns the idolaters, not the People of the Book.",
+            "bn": "কুরতুবী উবাই (রাঃ)-এর কিরাআত আও ইউসলিমূ উল্লেখ করে এর অর্থ করেন, যতক্ষণ না তারা আত্মসমর্পণ করে। যেমন আরবিতে বলা হয়, খাও অথবা পেট ভরুক, মানে পেট না ভরা পর্যন্ত খাও। তাবারী কোনো কোনো কিরাআতে একই শব্দ পাওয়ার কথা বলেন, তবে জানান, এ পাঠ বিভিন্ন শহরের মুসহাফের বিপরীত, কারীদের সর্বসম্মত পাঠেরও বিপরীত, তাই তাঁর মতে এভাবে পড়া জায়েয নয়। কুরতুবী এ অংশকে বলেন তাদের বিধান, যাদের কাছ থেকে জিযিয়া নেওয়া হয় না: হয় লড়াই, নয় ইসলাম, তৃতীয় কোনো পথ নেই। তিনি যাজ্জাজের কথাও আনেন, এটা মুশরিকদের ব্যাপারে, আহলে কিতাবের ব্যাপারে নয়।"
+          },
+          {
+            "en": "As-Sa'di reads it as a description of what happened: while those peoples were strong they would not pay jizya, so it was Islam or fighting; once worn down, they accepted either Islam or jizya. This needs saying plainly. The verse concerns one historical summons, to particular bedouin tribes, about wars the commentators place in the first generation of Islam. It licenses nothing against any person, people or community living today, and no one may carry its fight them into a present-day conflict. This article draws no ruling of its own from it.",
+            "bn": "সা'দী একে দেখেন যা ঘটেছিল তার বিবরণ হিসেবে। সেই জাতিগুলো যতদিন শক্তিশালী ছিল, তারা জিযিয়া দিতে রাজি ছিল না, তাই হয় ইসলাম নয় লড়াই। শক্তি ক্ষয় হওয়ার পর তারা ইসলাম অথবা জিযিয়া মেনে নেয়। কথাটা সোজাসুজি বলা দরকার। আয়াতটি ইতিহাসের একটি নির্দিষ্ট ডাকের কথা বলছে। ডাক ছিল নির্দিষ্ট কিছু বেদুঈন গোত্রের প্রতি, আর তাফসীরকারেরা সেই যুদ্ধগুলোকে ইসলামের প্রথম যুগেই স্থাপন করেন। আজ জীবিত কোনো ব্যক্তি, জাতি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। এর তাদের সঙ্গে লড়বে কথাটি বর্তমানের কোনো সংঘাতে টেনে আনার অধিকার কারও নেই। এ লেখা আয়াত থেকে নিজের কোনো বিধান বের করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Old Turning Named",
+          "bn": "পুরোনো মুখ ফেরানোর কথা"
+        },
+        "p": [
+          {
+            "en": "Fa-in tuti'u yu'tikumu llahu ajran hasana: if you obey, Allah will give you a good reward. Ibn Kathir explains obeying as answering, going out to strive, and fulfilling what is due from you in it. At-Tabari and the Muyassar name the good reward as Paradise. Al-Qurtubi widens it: spoils and victory in this world, and Paradise in the next. As-Sa'di calls it the reward that Allah and His Messenger ﷺ attached to striving in His way.",
+            "bn": "ফা-ইন তুতীউ ইউ'তিকুমুল্লাহু আজরান হাসানা: যদি তোমরা আনুগত্য কর, আল্লাহ তোমাদের উত্তম প্রতিদান দেবেন। ইবন কাসীর আনুগত্যের ব্যাখ্যা দেন এভাবে: ডাকে সাড়া দেওয়া, সংগ্রামে বের হওয়া, আর তাতে নিজের উপর যা দায়িত্ব তা পালন করা। তাবারী ও মুয়াসসারের মতে উত্তম প্রতিদান হলো জান্নাত। কুরতুবী একে আরও বিস্তৃত করেন: দুনিয়ায় গনীমত ও বিজয়, আখিরাতে জান্নাত। সা'দী বলেন, এ সেই প্রতিদান যা আল্লাহ ও তাঁর রাসূল ﷺ তাঁর পথে সংগ্রামের সঙ্গে জুড়ে দিয়েছেন।"
+          },
+          {
+            "en": "Wa in tatawallaw kama tawallaytum min qabl: and if you turn away as you turned away before. At-Tabari: as you disobeyed His command to march with the Messenger ﷺ to Makka. Ibn Kathir: at the time of al-Hudaybiya, when you were called and stayed behind; al-Baghawi and al-Qurtubi, the year of al-Hudaybiya. The punishment, say at-Tabari, al-Baghawi and al-Qurtubi, is the Fire. The old failure is named exactly, yet the call is still held out. No tafsir fetched for this verse attaches a sound hadith to it.",
+            "bn": "ওয়া ইন তাতাওয়াল্লাও কামা তাওয়াল্লাইতুম মিন কাবল: আর যদি মুখ ফিরিয়ে নাও, যেমন আগে ফিরিয়েছিলে। তাবারী বলেন, যেমন রাসূল ﷺ-এর সঙ্গে মক্কার পথে রওনা হওয়ার আদেশ তোমরা অমান্য করেছিলে। ইবন কাসীরের ভাষায়, হুদায়বিয়ার সময়, যখন তোমাদের ডাকা হয়েছিল আর তোমরা পিছিয়ে ছিলে। বাগাভী ও কুরতুবী বলেন, হুদায়বিয়ার বছর। তাবারী, বাগাভী ও কুরতুবীর মতে শাস্তি হলো জাহান্নাম। পুরোনো ব্যর্থতার কথা হুবহু উল্লেখ হলো, তবু ডাকটা এখনো বাড়িয়ে ধরা আছে। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "Al-Baghawi ends with what the warning stirred: when this verse came down, the people with chronic ailments asked, how will it be for us, O Messenger of Allah? He gives it without a chain, and the answer is the next verse, 48:17, which has its own article. Ma'arif al-Qur'an, citing other works, says that from among the bedouins who stayed behind, Muzayna and Juhayna later fought alongside the Prophet ﷺ. A failure was named, a harder door was opened, and some walked through it.",
+            "bn": "বাগাভী শেষ করেন এই সতর্কবাণী মানুষের মনে কী জাগিয়েছিল তা দিয়ে। আয়াতটি নাযিল হলে দীর্ঘস্থায়ী রোগে ভোগা লোকেরা জিজ্ঞেস করল, হে আল্লাহর রাসূল, আমাদের কী হবে? তিনি কোনো সনদ দেননি। এর জবাব পরের আয়াত ৪৮:১৭, যার নিজস্ব আলোচনা আলাদা আছে। মাআরিফুল কুরআন অন্য গ্রন্থের বরাতে জানায়, পিছিয়ে থাকা বেদুঈনদের মধ্য থেকে মুযায়না ও জুহায়না গোত্র পরে নবী ﷺ-এর সঙ্গে লড়াইয়ে অংশ নিয়েছিল। একটা ব্যর্থতার কথা বলা হলো, একটা কঠিন দরজা খোলা হলো, আর কেউ কেউ সেই দরজা দিয়ে হেঁটে গেল।"
+          }
+        ]
+      }
+    ]
+  },
   "48:17-18": {
     "sections": [
       {
