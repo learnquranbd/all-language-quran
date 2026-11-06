@@ -159,6 +159,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "49:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "From His Chambers to the News",
+          "bn": "হুজরার দরজা থেকে খবরের দিকে"
+        },
+        "p": [
+          {
+            "en": "Surah al-Hujurat opens with manners owed to Allah and His Messenger ﷺ: do not put yourselves ahead of them (49:1), do not raise your voices over his (49:2), and do not call him from behind the chambers (49:4 and 49:5). Then the same call, O you who have believed, turns to something every community handles daily: news. If a fasiq comes to you with a report, make it clear. The next verse keeps the thread, reminding them that the Messenger of Allah is among them.",
+            "bn": "সূরা হুজুরাত শুরু হয় আল্লাহ ও তাঁর রসূল ﷺ-এর প্রতি আদবের কথা দিয়ে। তাঁদের আগে বেড়ে যেয়ো না (৪৯:১), নবীর আওয়াজের উপর আওয়াজ তুলো না (৪৯:২), হুজরার বাইরে থেকে তাঁকে ডেকো না (৪৯:৪ ও ৪৯:৫)। তারপর সেই একই ডাক, হে মু’মিনগণ, এবার এমন এক বিষয়ে ফেরে, যা প্রতিটি সমাজ রোজ সামলায়: খবর। কোনো ফাসিক তোমাদের কাছে খবর নিয়ে এলে তা পরিষ্কার করে নাও। পরের আয়াতও একই সুতো ধরে রাখে। মনে করিয়ে দেয়, আল্লাহর রসূল তাদের মাঝেই আছেন।"
+          },
+          {
+            "en": "The Muyassar puts the verse plainly. O you who believed Allah and His Messenger and acted by His law: if a fasiq brings you a report, make sure of it before you believe it and before you pass it on, until you know it is sound, for fear that you strike an innocent people with a wrong done by you, and then regret it. Two acts are named there, believing and passing on, and the verse asks for a pause before each of them.",
+            "bn": "মুয়াসসার আয়াতটিকে সহজ কথায় বলে দেয়। হে যারা আল্লাহ ও তাঁর রসূলকে সত্য বলে মেনেছ আর তাঁর শরীয়ত অনুযায়ী আমল করেছ: কোনো ফাসিক খবর আনলে তা বিশ্বাস করার আগে, অন্যকে জানানোর আগে যাচাই করে নাও, যতক্ষণ না জানতে পারো সেটা সঠিক। ভয় এই যে, নিজেদের অন্যায়ে নিরপরাধ কোনো সম্প্রদায়কে আঘাত করে বসবে, তারপর অনুতাপ করবে। এখানে দুটি কাজের নাম আছে: বিশ্বাস করা আর ছড়িয়ে দেওয়া। দুটির আগেই আয়াত একটু থামতে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Make It Clear, Hold Firm",
+          "bn": "স্পষ্ট করো, স্থির থাকো"
+        },
+        "p": [
+          {
+            "en": "The command has two readings, and at-Tabari records both. The generality of the readers of Madinah read fa-tathabbatu, hold firm, with the letter tha, and he notes that it is reported to be dotted that way in the codex of 'Abdullah. Others read fa-tabayyanu, make it clear, with the letter ba. He explains the second as: give it time until you know it is sound, and do not hurry to accept it. That, he says, is also the meaning of fa-tathabbatu.",
+            "bn": "আদেশটির দুটি কিরাআত আছে, তাবারী দুটোই উল্লেখ করেন। মদীনার অধিকাংশ কারী পড়তেন ফাতাছাব্বাতূ, অর্থাৎ স্থির থাকো, ছা অক্ষর দিয়ে। তিনি জানান, আবদুল্লাহর মুসহাফে শব্দটি এভাবেই ছা-এর নুকতা দিয়ে লেখা ছিল বলে উল্লেখ আছে। অন্যরা পড়তেন ফাতাবাইয়ানূ, অর্থাৎ স্পষ্ট করে নাও, বা অক্ষর দিয়ে। দ্বিতীয়টির ব্যাখ্যা তাঁর ভাষায়: সময় নাও, যতক্ষণ না জানতে পারো খবরটা সঠিক। গ্রহণ করতে তাড়াহুড়ো করো না। তিনি বলেন, ফাতাছাব্বাতূ-রও অর্থ এটাই।"
+          },
+          {
+            "en": "His verdict on the pair is direct: they are two well-known readings, close in meaning, and whichever of them a reciter reads, he is right. Al-Qurtubi names different readers. In his account Hamzah and al-Kisa'i read fa-tathabbatu, from tathabbut, and the rest read fa-tabayyanu, from tabyin. Each is reported here as he gives it. On what the command asks of the listener, at-Tabari has already said the two readings come to nearly the same thing.",
+            "bn": "দুই কিরাআত নিয়ে তাঁর রায় সোজাসাপ্টা। দুটোই সুপরিচিত কিরাআত, অর্থ কাছাকাছি, যেকোনোটি পড়লেই পাঠক সঠিক। কুরতুবী অবশ্য ভিন্ন কারীদের নাম বলেন। তাঁর বর্ণনায় হামযা ও কিসাঈ পড়েছেন ফাতাছাব্বাতূ, তাছাব্বুত থেকে, আর বাকিরা পড়েছেন ফাতাবাইয়ানূ, তাবয়ীন থেকে। এখানে প্রত্যেকের কথা তাঁর মতো করেই রাখা হলো। আর শ্রোতার কাছে আদেশটা কী চায়, সে প্রশ্নে তাবারী তো আগেই বলেছেন, দুই কিরাআতের অর্থ প্রায় এক।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing al-Jassas, draws out the sense of tathabbatu: do not rush into action; be steady and stand firm where you are; do not be easily moved or shaken; wait until the report is confirmed by other, independent sources. The two readings describe one discipline from two sides. Tabayyun is the work of finding out what actually happened. Tathabbut is the self-restraint that keeps a person from acting before that work is finished.",
+            "bn": "মাআরিফুল কুরআন জাসসাসের বরাতে তাছাব্বুতের অর্থ খুলে বলে। কাজে ঝাঁপিয়ে পড়ো না। স্থির হও, নিজের জায়গায় অটল থাকো। সহজে নড়ে যেয়ো না, টলে যেয়ো না। অপেক্ষা করো, যতক্ষণ না অন্য স্বাধীন সূত্র থেকে খবরটা নিশ্চিত হয়। দুই কিরাআত মিলিয়ে দেখলে একই অনুশাসন দুই দিক থেকে দেখা যায়। তাবাইয়ুন হলো আসলে কী ঘটেছে তা খুঁজে বের করার কাজ। তাছাব্বুত হলো সেই সংযম, যা কাজটা শেষ হওয়ার আগে মানুষকে পদক্ষেপ নিতে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Report Waits",
+          "bn": "কার খবর অপেক্ষায় থাকে"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi glosses bi-naba' simply as bi-khabar, with a report. The weight falls on the bearer, the fasiq, and al-Qurtubi collects what earlier scholars said the word means. Ibn Zayd, Muqatil and Sahl ibn 'Abdullah said the fasiq is the liar. Abu al-Hasan al-Warraq said he is the one who commits sin openly. Ibn Tahir said he is the one who feels no shame before Allah. The three answers differ in scope, but each describes a person whose word cannot simply be taken at face value.",
+            "bn": "বাগাভী বিনাবাইন শব্দের ব্যাখ্যা দেন সংক্ষেপে: বিখাবারিন, অর্থাৎ একটা খবর নিয়ে। মূল ভার পড়ে খবরবাহকের উপর, অর্থাৎ ফাসিকের উপর। শব্দটির অর্থ নিয়ে আগের আলেমরা কী বলেছেন, কুরতুবী তা একত্র করেন। ইবন যায়দ, মুকাতিল ও সাহল ইবন আবদুল্লাহর মতে ফাসিক মানে মিথ্যাবাদী। আবুল হাসান আল-ওয়াররাক বলেন, যে প্রকাশ্যে গুনাহ করে। ইবন তাহির বলেন, যে আল্লাহকে লজ্জা করে না। তিনটি উত্তরের পরিধি আলাদা। তবে প্রতিটিই এমন মানুষের কথা বলে, যার কথা চোখ বুজে মেনে নেওয়া যায় না।"
+          },
+          {
+            "en": "As-Sa'di counts the verse among the manners that people of understanding are to take on and practise. When a fasiq tells them something, they are to make sure of it and not take it bare. To treat his word as the word of a truthful, upright person, and to rule by it, puts lives and property in danger without right, and that is what brings regret. The duty, he says, is verification: if the evidence and surrounding signs show it is true, act on it; if they show it is false, reject it.",
+            "bn": "সা'দী আয়াতটিকে সেই আদবগুলোর মধ্যে গণ্য করেন, যা বুদ্ধিমান মানুষের আয়ত্ত করা ও কাজে লাগানো উচিত। কোনো ফাসিক কিছু জানালে তা যাচাই করতে হবে, যেমন এসেছে তেমনই মেনে নেওয়া চলবে না। তাঁর মতে ফাসিকের খবরকে সত্যবাদী, ন্যায়নিষ্ঠ মানুষের খবরের মর্যাদা দিয়ে সে অনুযায়ী ফয়সালা করলে অন্যায়ভাবে প্রাণ ও সম্পদ নষ্ট হতে পারে। অনুতাপের কারণ সেটাই। তিনি বলেন, ওয়াজিব হলো যাচাই করা। প্রমাণ ও আলামত যদি সত্যের দিকে ইঙ্গিত করে, তবে মেনে নিয়ে আমল করো। যদি মিথ্যার দিকে ইঙ্গিত করে, তবে প্রত্যাখ্যান করো।"
+          },
+          {
+            "en": "From this he draws a three-part rule. The report of the truthful is accepted, the report of the liar is rejected, and the report of the fasiq is suspended until the evidence decides it. That is why, he adds, the early Muslims accepted the narrations of many men from a rebel group who were known for truthfulness, even though they counted them as fasiq. For as-Sa'di the verse says to hold a report until it can be weighed, not to throw it away.",
+            "bn": "এখান থেকে তিনি তিন ভাগের একটি নিয়ম বের করেন। সত্যবাদীর খবর গ্রহণযোগ্য, মিথ্যাবাদীর খবর প্রত্যাখ্যাত, আর ফাসিকের খবর স্থগিত থাকবে, যতক্ষণ না প্রমাণ ফয়সালা দেয়। তিনি যোগ করেন, এ কারণেই সালাফ এক বিদ্রোহী দলের এমন অনেকের বর্ণনা গ্রহণ করতেন, যারা সত্যবাদিতার জন্য পরিচিত ছিল, যদিও তাঁরা তাদের ফাসিক মনে করতেন। সা'দীর কাছে আয়াতের নির্দেশ খবর ছুড়ে ফেলা নয়, ওজন করা না যাওয়া পর্যন্ত ধরে রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Zakat That Never Left",
+          "bn": "যে যাকাত আর আনা হয়নি"
+        },
+        "p": [
+          {
+            "en": "The commentators connect the verse with an episode, and they introduce it with care. At-Tabari writes that it was mentioned that the verse came down about al-Walid ibn 'Uqbah ibn Abi Mu'ayt; al-Qurtubi opens with it is said. Ibn Kathir notes that many commentators mention it, that it is reported by several routes, and that among the best of them is a report in Imam Ahmad's Musnad from al-Harith ibn Dirar, chief of Banu al-Mustaliq and father of Juwayriyah, Mother of the Believers. None of the fetched tafsirs grades these chains further.",
+            "bn": "মুফাসসিরগণ আয়াতটিকে একটি ঘটনার সঙ্গে যুক্ত করেন, আর তা আনেন সাবধানে। তাবারী লেখেন, উল্লেখ আছে যে আয়াতটি ওয়ালীদ ইবন উকবা ইবন আবী মুআইতের ব্যাপারে নাযিল হয়েছিল। কুরতুবী শুরু করেন 'বলা হয়' দিয়ে। ইবন কাসীর জানান, বহু মুফাসসির এটি উল্লেখ করেছেন, কয়েকটি সূত্রে এটি বর্ণিত, আর সেগুলোর মধ্যে উত্তম একটি হলো ইমাম আহমাদের মুসনাদে হারিস ইবন দিরারের বর্ণনা। হারিস ছিলেন বনু মুসতালিকের নেতা, উম্মুল মু’মিনীন জুওয়াইরিয়া (রাঃ)-এর পিতা। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ সনদগুলোর আর কোনো মান নির্ণয় করেনি।"
+          },
+          {
+            "en": "In Ahmad's report al-Harith accepted Islam and zakat and offered to collect it from those of his people who responded, asking that a collector be sent at an agreed time. He gathered it, but no one came, and he feared the delay meant displeasure from Allah and His Messenger. He set out for Madinah with the leaders of his people. Al-Walid had been sent, but partway he grew afraid, turned back, and reported that al-Harith had withheld the zakat and wanted to kill him.",
+            "bn": "আহমাদের বর্ণনায় হারিস ইসলাম ও যাকাত দুটোই গ্রহণ করেন। প্রস্তাব দেন, তাঁর সম্প্রদায়ের যারা সাড়া দেবে, তিনি তাদের যাকাত জমা করবেন। একটা নির্ধারিত সময়ে যেন আদায়কারী পাঠানো হয়। তিনি যাকাত জমা করলেন, কিন্তু কেউ এল না। তাঁর ভয় হলো, এই দেরি হয়তো আল্লাহ ও তাঁর রসূলের অসন্তুষ্টির লক্ষণ। তাই সম্প্রদায়ের নেতাদের নিয়ে তিনি মদীনার পথে রওনা দিলেন। ওদিকে ওয়ালীদকে পাঠানো হয়েছিল। কিন্তু পথের মাঝে তিনি ভয় পেয়ে ফিরে আসেন এবং জানান, হারিস যাকাত দেননি আর তাঁকে হত্যা করতে চেয়েছেন।"
+          },
+          {
+            "en": "A detachment was sent toward al-Harith and met him on the road outside Madinah. Told why they had come, he swore by the One who sent Muhammad with the truth that he had never seen al-Walid, nor had al-Walid come to him. Before the Prophet ﷺ he repeated the oath and explained that he had come only because the envoy was late and he feared displeasure. Al-Harith says the verse then came down. Ibn Kathir adds that at-Tabarani names him al-Harith ibn Sirar, and corrects it to Dirar.",
+            "bn": "হারিসের দিকে একটি দল পাঠানো হলো, মদীনার বাইরে পথে তাদের সঙ্গে তাঁর দেখা হলো। কেন এসেছে শুনে তিনি কসম খেলেন সেই সত্তার নামে, যিনি মুহাম্মাদকে সত্য দিয়ে পাঠিয়েছেন: ওয়ালীদকে তিনি দেখেননি, ওয়ালীদ তাঁর কাছে যাননি। নবী ﷺ-এর সামনেও তিনি একই কসম খেলেন। বললেন, দূত দেরি করায় অসন্তুষ্টির ভয়েই তিনি এসেছেন। হারিস বলেন, তখনই আয়াতটি নাযিল হয়। ইবন কাসীর যোগ করেন, তাবারানী তাঁর নাম লিখেছেন হারিস ইবন সিরার, আর সঠিক নাম হলো দিরার।"
+          },
+          {
+            "en": "Other reports, which at-Tabari gives from Ibn 'Abbas, Umm Salamah, Mujahid, Qatadah and Yazid ibn Ruman, tell it differently: the tribe came out to meet the envoy, gladly in some versions, and he turned back without collecting anything. Umm Salamah's report says Satan suggested to him that they meant to kill him. Al-Baghawi says there had been enmity between him and them before Islam. In Qatadah's account Khalid ibn al-Walid was sent with orders to verify and not hurry, and his scouts heard their call to prayer.",
+            "bn": "তাবারী ইবন আব্বাস, উম্মে সালামা, মুজাহিদ, কাতাদা ও ইয়াযীদ ইবন রূমান থেকে আরও কিছু বর্ণনা আনেন, সেগুলোর বিবরণ আলাদা। সেখানে গোত্রের লোকেরা দূতকে অভ্যর্থনা জানাতে বেরিয়ে আসে, কোনো কোনো বর্ণনায় খুশি মনে। আর তিনি কিছু না নিয়েই ফিরে যান। উম্মে সালামার বর্ণনায় আছে, শয়তান তাঁর মনে কুমন্ত্রণা দিয়েছিল যে তারা তাঁকে হত্যা করতে চায়। বাগাভী বলেন, জাহিলী যুগে তাঁর আর তাদের মধ্যে শত্রুতা ছিল। কাতাদার বর্ণনায় খালিদ ইবনুল ওয়ালীদকে পাঠানো হয়, নির্দেশ ছিল যাচাই করবে, তাড়াহুড়ো করবে না। তাঁর গুপ্তচরেরা তাদের আযান ও নামায শুনতে পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Companion and a Word",
+          "bn": "একজন সাহাবী ও একটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Here the commentators differ. Al-Baghawi, glossing the verse, says the fasiq means al-Walid ibn 'Uqbah. Al-Qurtubi says he was called fasiq in the sense of kadhib, one whose report was untrue. Ma'arif al-Qur'an argues the other way: it is not necessary that the verse calls him fasiq at all, since he had done nothing before this to earn the name, and he conveyed in good faith what he thought was true, though it was not.",
+            "bn": "এখানে মুফাসসিরদের মধ্যে মতভেদ আছে। বাগাভী আয়াতের ব্যাখ্যায় বলেন, ফাসিক বলতে ওয়ালীদ ইবন উকবাকে বোঝানো হয়েছে। কুরতুবী বলেন, তাঁকে ফাসিক বলা হয়েছে কাযিব অর্থে, অর্থাৎ এমন একজন, যাঁর খবর সত্য ছিল না। মাআরিফুল কুরআন উল্টো যুক্তি দেয়। আয়াত যে তাঁকে আদৌ ফাসিক বলছে, তা জরুরি নয়। কারণ এর আগে তিনি এমন কিছু করেননি, যার জন্য এ নাম তাঁর প্রাপ্য হয়। আর তিনি সরল বিশ্বাসে এমন খবর পৌঁছে দিয়েছিলেন, যা তিনি সত্য ভেবেছিলেন, অথচ তা সত্য ছিল না।"
+          },
+          {
+            "en": "Ma'arif then sets the question in a wider frame. Citing al-Alusi, it says that in the view of most scholars the Companions are not infallible and may fall into sin, but they do not persist in it, and it points to Allah's words that He is pleased with them and they with Him (98:8). It concludes that it is not lawful for any of us to regard any of them as fasiq. This article takes no side between these views and passes no verdict on al-Walid. The verse addresses its hearers, not him.",
+            "bn": "এরপর মাআরিফুল কুরআন প্রশ্নটিকে আরও বড় পরিসরে রাখে। আলূসীর বরাতে বলে, অধিকাংশ আলেমের মতে সাহাবীগণ নিষ্পাপ নন, তাঁদের থেকেও গুনাহ হতে পারে। কিন্তু তাঁরা গুনাহে অটল থাকেন না। সঙ্গে আল্লাহর বাণীর দিকে ইঙ্গিত করে: আল্লাহ তাঁদের প্রতি সন্তুষ্ট, তাঁরাও তাঁর প্রতি সন্তুষ্ট (৯৮:৮)। উপসংহারে বলে, আমাদের কারও জন্য তাঁদের কাউকে ফাসিক মনে করা বৈধ নয়। এ লেখা এই ব্যাখ্যাগুলোর কোনো পক্ষ নেয় না, ওয়ালীদ (রাঃ)-এর ব্যাপারে কোনো রায়ও দেয় না। আয়াতের সম্বোধন তাঁর প্রতি নয়, শ্রোতাদের প্রতি।"
+          },
+          {
+            "en": "Two further points follow from the texts. The reports describe one envoy, one tribe and one near-expedition, and in Ibn 'Abbas's report, as at-Tabari gives it, Allah sent down the tribe's excuse in the Book. The verse describes what the reports describe and licenses nothing against any living person or community, nor against anyone who shares a name or lineage with those in the story. And Ma'arif says the plain import of the verse is a general rule about the report of a fasiq. The occasion is where the verse came down, not where its instruction stops.",
+            "bn": "বর্ণনাগুলো থেকে আরও দুটি কথা বেরিয়ে আসে। বর্ণনায় আছে একজন দূত, একটি গোত্র আর প্রায় শুরু হয়ে যাওয়া এক অভিযানের কথা। তাবারীর আনা ইবন আব্বাসের বর্ণনায় আছে, আল্লাহ কিতাবে সেই গোত্রের ওজর নাযিল করলেন। আয়াত শুধু সেটুকুই বলে, যা বর্ণনাগুলো বলে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। কাহিনির কারও সঙ্গে যার নাম বা বংশ মেলে, তার বিরুদ্ধেও না। মাআরিফুল কুরআন আরও বলে, আয়াতের সরল অর্থ হলো ফাসিকের খবর সম্পর্কে একটি সাধারণ নিয়ম। ঘটনাটা আয়াত নাযিলের উপলক্ষ, নির্দেশের সীমা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Haste and the Harm It Does",
+          "bn": "তাড়াহুড়ো আর তার ক্ষতি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the close of the verse this way: make it clear, lest you strike a people innocent of what they were accused of, with an offence committed out of ignorance on your part, and then regret having struck them. Al-Qurtubi glosses bi-jahalah as by mistake, and reads the regret as regret over haste and the abandoning of deliberation. Al-Baghawi names the harm in that episode directly: lest you strike them with killing and fighting.",
+            "bn": "আয়াতের শেষাংশ তাবারী এভাবে পড়েন: স্পষ্ট করে নাও, যাতে এমন সম্প্রদায়কে আঘাত না করো, যাদের উপর আনা অভিযোগ থেকে তারা মুক্ত। তোমাদের অজ্ঞতা থেকে এক অন্যায় ঘটে যাবে, তারপর তাদের আঘাত করার জন্য তোমরা অনুতপ্ত হবে। কুরতুবী বিজাহালাহ-এর অর্থ করেন ভুলবশত। আর অনুতাপকে পড়েন তাড়াহুড়ো ও ধীরস্থিরতা ছেড়ে দেওয়ার অনুতাপ হিসেবে। বাগাভী সেই ঘটনার ক্ষতিটা সরাসরি বলেন: যাতে হত্যা ও যুদ্ধ দিয়ে তাদের আঘাত না করো।"
+          },
+          {
+            "en": "In Qatadah's account, as at-Tabari and Ibn Kathir give it, the Prophet ﷺ used to say: at-tabayyun min Allah, wa-l-'ajalah min ash-shaytan, making clear is from Allah and haste is from Satan. Al-Qurtubi gives it as at-ta'anni, deliberation, in place of at-tabayyun. It comes as part of Qatadah's narrative and none of the fetched tafsirs grades it. Beyond Ahmad's report above, no tafsir fetched for this verse attaches to it a hadith from the six major collections.",
+            "bn": "কাতাদার বর্ণনায়, যেভাবে তাবারী ও ইবন কাসীর এনেছেন, নবী ﷺ বলতেন: আত-তাবাইয়ুনু মিনাল্লাহ, ওয়াল-আজালাতু মিনাশ শাইতান। স্পষ্ট করে নেওয়া আল্লাহর পক্ষ থেকে, আর তাড়াহুড়ো শয়তানের পক্ষ থেকে। কুরতুবী আত-তাবাইয়ুনের জায়গায় এনেছেন আত-তাআন্নী, অর্থাৎ ধীরস্থিরতা। কথাটি এসেছে কাতাদার বিবরণের অংশ হিসেবে, আর যে তাফসীরগুলো দেখা হয়েছে তার কোনোটিই এর মান নির্ণয় করেনি। আগে উল্লেখ করা আহমাদের বর্ণনা ছাড়া, এ আয়াতের জন্য দেখা কোনো তাফসীর ছয়টি প্রধান হাদীসগ্রন্থ থেকে কোনো হাদীস আয়াতটির সঙ্গে যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rule for Every Narrator",
+          "bn": "প্রত্যেক বর্ণনাকারীর জন্য নিয়ম"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir says the command exists so that no one rules on a fasiq's word when he may in fact be lying or mistaken. From it, he notes, groups of scholars refused narrations from a narrator whose state is unknown, since he might be a fasiq, while others accepted them, since only the report of a known fasiq must be verified. Al-Qurtubi takes the stricter line: the verse refutes the claim that every Muslim is upright until a flaw is proven, because verification comes before acceptance.",
+            "bn": "ইবন কাসীর বলেন, আদেশটি এজন্য যে, ফাসিক হয়তো আসলে মিথ্যা বলছে বা ভুল করছে, অথচ কেউ তার কথায় ফয়সালা দিয়ে বসবে। তিনি জানান, এখান থেকেই আলেমদের কয়েকটি দল অজ্ঞাত অবস্থার বর্ণনাকারীর বর্ণনা গ্রহণ করেননি, কারণ সে ফাসিক হতে পারে। অন্যরা গ্রহণ করেছেন, কারণ যাচাইয়ের নির্দেশ কেবল প্রমাণিত ফাসিকের খবরের বেলায়। কুরতুবী কঠোর দিকটি নেন। তাঁর মতে আয়াতটি সেই দাবি খণ্ডন করে যে, দোষ প্রমাণ না হওয়া পর্যন্ত প্রত্যেক মুসলিম ন্যায়নিষ্ঠ। কারণ যাচাই আসে গ্রহণের আগে।"
+          },
+          {
+            "en": "Al-Qurtubi also marks the rule's limits, relaying al-Qushayri on the first of them. Judging by what is most probable, as on two upright witnesses or a qualified scholar's word, is not acting in ignorance; acting in ignorance is accepting a word that yields no such probability. By consensus, he adds, even a fasiq is believed when he says someone sent you this gift. Ma'arif al-Qur'an makes the same point through the verse's stated cause, lest you harm a people: ordinary matters that carry no such harm fall outside the rule.",
+            "bn": "কুরতুবী নিয়মটির সীমাও চিহ্নিত করেন, প্রথমটি কুশাইরীর বরাতে। যা সবচেয়ে সম্ভাব্য, তার ভিত্তিতে ফয়সালা করা অজ্ঞতাবশত কাজ নয়, যেমন দুজন ন্যায়নিষ্ঠ সাক্ষী বা যোগ্য আলেমের কথার ভিত্তিতে। অজ্ঞতাবশত কাজ হলো এমন কথা মেনে নেওয়া, যা থেকে এমন প্রবল ধারণা জন্মায় না। তিনি যোগ করেন, ইজমা অনুযায়ী ফাসিকও যদি বলে, অমুক তোমাকে এই উপহার পাঠিয়েছে, তার কথা গ্রহণ করা হয়। মাআরিফুল কুরআন একই কথা বলে আয়াতে উল্লিখিত কারণ ধরে: যাতে কোনো সম্প্রদায়ের ক্ষতি না করো। যে সাধারণ বিষয়ে এমন ক্ষতির আশঙ্কা নেই, তা এ নিয়মের বাইরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Forwarded Message",
+          "bn": "ফরোয়ার্ড করা খবর"
+        },
+        "p": [
+          {
+            "en": "The Muyassar's two verbs, believing and passing on, fit a forwarded message as well as an envoy's report. A screenshot, a clip or a voice note about a person or a group is a naba' brought by someone whose state the reader rarely knows. The verse asks the hearer to hold it until it is clear, and its warning is about harm done to people, not only about being wrong.",
+            "bn": "মুয়াসসারের দুটি ক্রিয়া, বিশ্বাস করা আর ছড়িয়ে দেওয়া, দূতের আনা খবরের মতো ফরোয়ার্ড করা মেসেজের বেলায়ও খাটে। কোনো মানুষ বা দল নিয়ে একটা স্ক্রিনশট, ভিডিও ক্লিপ বা ভয়েস নোটও এক রকম নাবা, আর যে আনে তার অবস্থা পাঠক কমই জানেন। আয়াত বলে, বিষয়টা পরিষ্কার না হওয়া পর্যন্ত ধরে রাখো। আর তার সতর্কবাণী শুধু ভুল হওয়া নিয়ে নয়, মানুষের ক্ষতি করা নিয়ে।"
+          },
+          {
+            "en": "A general narration, not attached to this verse, says the same of the tongue. Abu Dawud (4992) records from Abu Hurayrah that the Prophet ﷺ said: kafa bi-l-mar'i ithman an yuhaddith bi-kulli ma sami', it is sin enough for a man to relate everything he hears. Abu Dawud notes that only 'Ali ibn Hafs al-Mada'ini gave it a connected chain. Both set a standard for the reader's own conduct; neither is a ruling on anyone else.",
+            "bn": "একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, জিহ্বার ব্যাপারে একই কথা বলে। আবু দাউদ (৪৯৯২) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: কাফা বিল-মারই ইছমান আন ইউহাদ্দিসা বিকুল্লি মা সামিআ। মানুষের গুনাহগার হওয়ার জন্য এটুকুই যথেষ্ট যে, সে যা শোনে তা-ই বলে বেড়ায়। আবু দাউদ জানান, কেবল আলী ইবন হাফস আল-মাদাইনী এর সনদ মুত্তাসিলভাবে বর্ণনা করেছেন। আয়াত ও হাদীস দুটোই পাঠকের নিজের আচরণের মানদণ্ড, অন্য কারও উপর রায় নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "49:10": {
     "sections": [
       {

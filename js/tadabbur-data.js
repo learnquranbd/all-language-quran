@@ -27309,6 +27309,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Others may call you toward wrong, but the answering is yours; own your choices now, while owning them can still change the record.",
     "lessonBn": "অন্যরা অন্যায়ের দিকে ডাকতে পারে, কিন্তু সাড়া দেওয়াটা আপনার। দায় এখনই নিজের কাঁধে নিন, যখন তা মেনে নিলে আমলনামা এখনো বদলাতে পারে।"
+  },
+  "49:6": {
+    "reflectionEn": "A message arrives about a people: they have refused, they mean harm, they have turned away. It comes in a hurry and with its conclusion already drawn. The verse does not tell the believers to ignore it, and it does not tell them to act on it. It tells them to stop and make the matter clear first. The reason sits inside the verse: you might strike a people who did nothing, out of not knowing, and then wake to regret what you did. The danger it names is not only being fooled. It is harming someone innocent and having to live with it. Every report I believe, repeat or act on has a person at the other end of it.",
+    "reflectionBn": "এক সম্প্রদায়ের ব্যাপারে খবর এল: তারা দিতে অস্বীকার করেছে, তারা ক্ষতি করতে চায়, তারা মুখ ফিরিয়ে নিয়েছে। খবরটা আসে তাড়াহুড়োর সঙ্গে, সিদ্ধান্তটাও সঙ্গে নিয়ে। আয়াতটি মু’মিনদের বলে না খবরটা উপেক্ষা করো, আবার বলে না সেই অনুযায়ী কাজে নেমে পড়ো। বলে: থামো, আগে বিষয়টা পরিষ্কার করে নাও। কারণটাও আয়াতের ভেতরেই আছে। হয়তো না জেনে এমন লোকদের উপর আঘাত হানবে, যারা কিছুই করেনি, তারপর নিজের কাজের জন্য অনুতাপ নিয়ে ভোর হবে। আয়াত যে বিপদের কথা বলছে, তা শুধু ঠকে যাওয়া নয়। নিরপরাধ কাউকে কষ্ট দিয়ে সেই বোঝা নিয়ে বেঁচে থাকা। যে খবর আমি বিশ্বাস করি, অন্যকে বলি বা যার ভিত্তিতে কিছু করি, তার অন্য প্রান্তে একজন মানুষ দাঁড়িয়ে আছে।",
+    "pointsEn": [
+      "What did I last repeat or forward about someone without knowing whether it was true?",
+      "When a report confirms what I already suspected, do I check it less carefully than one that surprises me?",
+      "Whose name in my family or community has been hurt by something I said before I knew it?",
+      "What would making it clear first look like for me before I share news about a person or a group?",
+      "If I once acted in haste and someone was harmed, have I gone back to put it right?"
+    ],
+    "pointsBn": [
+      "শেষ কবে কারও ব্যাপারে এমন কথা আমি অন্যকে বলেছি বা ফরোয়ার্ড করেছি, যা সত্য কি না জানতাম না?",
+      "যে খবর আমার আগের সন্দেহকে সমর্থন করে, তা কি আমি চমকে দেওয়া খবরের চেয়ে কম যাচাই করি?",
+      "পরিবারে বা সমাজে কার সুনাম আমার এমন কথায় ক্ষুণ্ণ হয়েছে, যা না জেনেই বলেছিলাম?",
+      "কোনো মানুষ বা দলের ব্যাপারে খবর ছড়ানোর আগে আমার বেলায় আগে পরিষ্কার করে নেওয়ার অর্থ কী হবে?",
+      "কখনো তাড়াহুড়ো করে কিছু করে থাকলে আর তাতে কারও ক্ষতি হলে, আমি কি ফিরে গিয়ে তা শুধরে দিয়েছি?"
+    ],
+    "lessonEn": "Before you believe, repeat or act on a report about others, make sure of it, lest you harm innocent people out of ignorance and live with the regret.",
+    "lessonBn": "অন্যদের ব্যাপারে কোনো খবর বিশ্বাস করা, ছড়ানো বা সে অনুযায়ী কিছু করার আগে যাচাই করে নিন, যাতে না জেনে নিরপরাধ মানুষের ক্ষতি করে অনুতাপের বোঝা বইতে না হয়।"
   }
 };
 
