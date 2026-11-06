@@ -24031,6 +24031,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Everyone will meet the angels. Live now so that the meeting brings good news, instead of demanding new signs while stepping past the ones already given.",
     "lessonBn": "ফেরেশতাদের সঙ্গে সবারই দেখা হবে। এখনই এমনভাবে বাঁচুন যেন সেই সাক্ষাৎ সুসংবাদ নিয়ে আসে। আগে পাওয়া নিদর্শন পাশ কাটিয়ে নতুন নিদর্শনের দাবি করবেন না।"
+  },
+  "24:55": {
+    "reflectionEn": "The verse makes a promise with an oath folded inside it. Those who believe and do good will be made successors on the earth, their religion will be made firm for them, and their fear will be turned into safety. Then, almost quietly, it names what the promise rests on: they worship Me and associate nothing with Me. That clause is the hinge, not an ornament. The promise is not handed to a flag, a name or a party; it is tied to faith that keeps worship whole. It also warns that the gift can be denied once it has come. So the first question is not when the promise will arrive, but whether I am the kind of servant it describes.",
+    "reflectionBn": "আয়াতটি এমন এক প্রতিশ্রুতি দেয়, যার ভেতরে কসম গাঁথা। যারা ঈমান আনে আর নেক আমল করে, তাদের পৃথিবীতে খলিফা বানানো হবে, তাদের দ্বীনকে তাদের জন্য মজবুত করে দেওয়া হবে, আর তাদের ভয়কে বদলে দেওয়া হবে নিরাপত্তায়। তারপর প্রায় নিঃশব্দে আয়াতটি জানিয়ে দেয় প্রতিশ্রুতিটা কিসের উপর দাঁড়িয়ে: তারা আমার ইবাদত করে, আমার সঙ্গে কিছুকে শরীক করে না। এই কথাটা সাজসজ্জা নয়, পুরো প্রতিশ্রুতির কবজা এটাই। কোনো পতাকা, নাম বা দলের হাতে এ প্রতিশ্রুতি তুলে দেওয়া হয়নি। এটা বাঁধা আছে এমন ঈমানের সঙ্গে, যা ইবাদতকে অটুট রাখে। সঙ্গে সতর্কও করা হয়েছে: নিয়ামত এসে যাওয়ার পরও মানুষ তা অস্বীকার করতে পারে। তাই প্রথম প্রশ্ন এটা নয় যে প্রতিশ্রুতি কবে পূরণ হবে। প্রশ্ন হল, আয়াত যে বান্দার কথা বলছে, আমি কি সেই বান্দা?",
+    "pointsEn": [
+      "When I picture safety, do I think of it as something I am owed, or as something that comes with worship kept free of any partner?",
+      "Which fear of people still shapes my choices more than my awareness of Allah does?",
+      "Have I ever handed this promise to a group or a slogan, instead of to the conditions the verse itself names?",
+      "Which safety in my own life have I stopped thanking Allah for, simply because it became ordinary?",
+      "In my worship this week, what crept in beside Allah: being seen, fear of blame, or love of something else?"
+    ],
+    "pointsBn": [
+      "নিরাপত্তার কথা ভাবলে আমি কি একে নিজের পাওনা মনে করি, নাকি বুঝি যে তা আসে শরীকমুক্ত ইবাদতের হাত ধরে?",
+      "মানুষের কোন ভয় এখনো আমার সিদ্ধান্তগুলোকে আল্লাহর ভয়ের চেয়ে বেশি চালায়?",
+      "আমি কি কখনো এ প্রতিশ্রুতিকে কোনো দল বা স্লোগানের হাতে তুলে দিয়েছি, অথচ আয়াত নিজেই এর শর্তগুলো বলে দিয়েছে?",
+      "আমার জীবনের কোন নিরাপত্তার জন্য আমি আল্লাহর শুকরিয়া আদায় করা ছেড়ে দিয়েছি, শুধু এ কারণে যে তা এখন সাধারণ মনে হয়?",
+      "এ সপ্তাহে আমার ইবাদতে আল্লাহর পাশে কী ঢুকে পড়েছে: লোক দেখানো, নিন্দার ভয়, নাকি অন্য কিছুর ভালোবাসা?"
+    ],
+    "lessonEn": "Allah's promise of succession, a firm religion and safety rests on worship that associates nothing with Him; seek its condition rather than claim its reward, and thank Him for every safety.",
+    "lessonBn": "খিলাফত, মজবুত দ্বীন আর নিরাপত্তার যে প্রতিশ্রুতি আল্লাহ দিয়েছেন, তা দাঁড়িয়ে আছে শরীকমুক্ত ইবাদতের উপর। তাই পুরস্কারের দাবি না তুলে শর্তটা পূরণ করুন, আর প্রতিটি নিরাপত্তার জন্য তাঁর শুকরিয়া আদায় করুন।"
   }
 };
 

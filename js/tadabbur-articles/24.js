@@ -1471,6 +1471,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Promise After the Summons",
+          "bn": "আনুগত্যের ডাকের পরেই প্রতিশ্রুতি"
+        },
+        "p": [
+          {
+            "en": "The previous verse tells the Messenger ﷺ to say: obey Allah and obey the Messenger, and if you obey him you will be guided. Then a promise is made to the same listeners. Wa'ada Allahu alladhina amanu minkum: Allah has promised those of you who believe and do righteous deeds. At-Tabari glosses minkum as you people, and explains the righteous deeds as obeying Allah and His Messenger in what they commanded and forbade. The promise picks up exactly where the command left off.",
+            "bn": "আগের আয়াতে রসূল ﷺ-কে বলতে বলা হয়েছে: আল্লাহর আনুগত্য কর, রসূলের আনুগত্য কর, তাঁর আনুগত্য করলে তোমরা হিদায়াত পাবে। এরপর ঠিক সেই শ্রোতাদের কাছেই এল এক প্রতিশ্রুতি। ওয়াআদাল্লাহুল্লাযীনা আমানূ মিনকুম: তোমাদের মধ্যে যারা ঈমান আনে আর নেক আমল করে, আল্লাহ তাদের প্রতিশ্রুতি দিয়েছেন। তাবারী মিনকুম-এর ব্যাখ্যা দেন: হে মানুষ, তোমাদের মধ্যে। আর নেক আমল বলতে তিনি বোঝান আল্লাহ ও তাঁর রসূল যা আদেশ করেছেন ও যা নিষেধ করেছেন, তাতে তাঁদের আনুগত্য। যেখানে আদেশ থেমেছে, প্রতিশ্রুতি ঠিক সেখান থেকেই শুরু।"
+          },
+          {
+            "en": "The wording carries an oath. At-Tabari reports the explanation that a promise is a kind of speech, and so it can be answered the way an oath is answered: as in I promised you, I will surely honour you. Al-Qurtubi and al-Baghawi both take the lam of la-yastakhlifannahum as the reply to an unstated oath, which al-Baghawi spells out: by Allah, He will surely make them successors. Three emphatic verbs then follow one another: succession, establishment and exchange.",
+            "bn": "শব্দগুলোর ভেতরে একটা কসম লুকিয়ে আছে। তাবারী একটি ব্যাখ্যা উল্লেখ করেন: প্রতিশ্রুতিও এক ধরনের কথা, তাই কসমের জবাব যেভাবে আসে, এর জবাবও সেভাবে আসতে পারে। যেমন কেউ বলে, আমি তোমাকে কথা দিলাম, অবশ্যই তোমাকে সম্মান করব। কুরতুবী ও বাগাভী দুজনেই লা-ইয়াসতাখলিফান্নাহুম শব্দের লাম-কে এক অনুচ্চারিত কসমের জবাব ধরেন। বাগাভী তা খুলে বলেন: আল্লাহর কসম, তিনি অবশ্যই তাদের খলিফা বানাবেন। এরপর পরপর আসে জোর দেওয়া তিনটি ক্রিয়া: খলিফা বানানো, প্রতিষ্ঠা দেওয়া আর অবস্থা বদলে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Pledges, One Oath",
+          "bn": "এক কসমে তিন অঙ্গীকার"
+        },
+        "p": [
+          {
+            "en": "The Muyassar sets out the three pledges in one sentence. Allah promised victory to those who believe and do righteous deeds: that He would make them inherit the land of the idolaters and be successors in it, as He did with the believers before them; that He would make their religion, Islam, mighty and firmly settled; and that He would change their state from fear to security, if they worshipped Allah alone, stood firm in obeying Him and associated nothing with Him. The condition is already inside the summary.",
+            "bn": "মুয়াসসার তিনটি অঙ্গীকারকে একটিমাত্র বাক্যে সাজিয়ে দেয়। যারা ঈমান আনে আর নেক আমল করে, আল্লাহ তাদের বিজয়ের প্রতিশ্রুতি দিয়েছেন। মুশরিকদের ভূমির উত্তরাধিকার তিনি তাদের দেবেন, সেখানে তাদের খলিফা বানাবেন, যেমন করেছিলেন আগের মু'মিনদের বেলায়। তাদের দ্বীন ইসলামকে তিনি করবেন মর্যাদাপূর্ণ ও মজবুত। আর ভয়ের অবস্থা বদলে দেবেন নিরাপত্তায়, যদি তারা শুধু আল্লাহর ইবাদত করে, তাঁর আনুগত্যে অবিচল থাকে আর তাঁর সঙ্গে কিছুকে শরীক না করে। লক্ষ করুন, শর্তটা সারকথার ভেতরেই রয়ে গেছে।"
+          },
+          {
+            "en": "What succession means is put in slightly different terms. For at-Tabari, Allah will make them inherit the land of the idolaters among the Arabs and non-Arabs and make them its kings and those who govern it. As-Sa'di says they would be the successors in it, managing its affairs. Ibn Kathir reads a promise to the Messenger ﷺ that his community would become leaders of people and those in authority over them. The establishing of the religion, at-Tabari says, is that Allah will make it smooth and settled for them.",
+            "bn": "খলিফা বানানোর অর্থ তাফসীরকারেরা একটু ভিন্ন ভিন্ন ভাষায় বলেন। তাবারীর মতে আল্লাহ তাদের আরব-অনারব মুশরিকদের ভূমির উত্তরাধিকারী করবেন, তাদের বানাবেন সেখানকার রাজা ও শাসক। সা'দী বলেন, তারাই হবে সেখানকার খলিফা, যারা এর কাজকর্ম পরিচালনা করবে। ইবন কাসীর এখানে রসূল ﷺ-এর প্রতি এক প্রতিশ্রুতি দেখেন: তাঁর উম্মত মানুষের নেতা ও তাদের উপর দায়িত্বশীল হবে। আর দ্বীন প্রতিষ্ঠার অর্থ, তাবারী বলেন, আল্লাহ তাদের জন্য দ্বীনকে সহজ ও স্থির করে দেবেন।"
+          },
+          {
+            "en": "Two words carry recorded readings. Most recite kama istakhlafa, as He made those before them successors; at-Tabari and al-Baghawi report that 'Asim read kama ustukhlifa, as those before them were made successors. In wa-la-yubaddilannahum most read the doubled form, while the reciter Ibn Kathir, Ya'qub and Abu Bakr read the lighter yubdilannahum, says al-Baghawi. At-Tabari prefers the doubled reading and draws the distinction: tabdil changes a state, ibdal removes a thing and puts another in its place. Here the same people's fear is changed into security.",
+            "bn": "দুটি শব্দের পাঠে ভিন্নতা বর্ণিত আছে। বেশির ভাগ কারী পড়েন কামাসতাখলাফা, অর্থাৎ যেমন তিনি পূর্ববর্তীদের খলিফা বানিয়েছিলেন। তাবারী ও বাগাভী জানান, আসিম পড়েছেন কামাসতুখলিফা, অর্থাৎ যেমন পূর্ববর্তীদের খলিফা বানানো হয়েছিল। ওয়া লা-ইউবাদ্দিলান্নাহুম শব্দটি বেশির ভাগ পড়েন তাশদীদসহ। বাগাভী বলেন, কারী ইবন কাসীর, ইয়াকুব ও আবু বকর পড়েছেন হালকা করে, ইউবদিলান্নাহুম। তাবারী তাশদীদের পাঠকেই অগ্রাধিকার দেন এবং পার্থক্যটা বুঝিয়ে দেন। তাবদীল মানে অবস্থা বদলানো, আর ইবদাল মানে এক জিনিস সরিয়ে অন্যটা বসানো। এখানে একই মানুষের ভয় বদলে যাচ্ছে নিরাপত্তায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Successors of an Earlier Age",
+          "bn": "আগের যুগের উত্তরাধিকারীরা"
+        },
+        "p": [
+          {
+            "en": "Kama istakhlafa alladhina min qablihim: as He made those before them successors. At-Tabari names them as the Children of Israel, when Allah destroyed the tyrants in Syria and made them its kings and inhabitants. Al-Baghawi also relays Qatada: as He made Dawud, Sulayman and other prophets successors. Ibn Kathir and as-Sa'di both set beside it the words of Musa (AS) to his people in 7:129: perhaps your Lord will destroy your enemy and make you successors in the land, and see how you act.",
+            "bn": "কামাসতাখলাফাল্লাযীনা মিন কাবলিহিম: যেমন তিনি তাদের পূর্ববর্তীদের খলিফা বানিয়েছিলেন। তাবারী তাদের পরিচয় দেন বনী ইসরাঈল বলে। আল্লাহ যখন শামের জালিমদের ধ্বংস করলেন, তখন তাদেরকেই সেখানকার রাজা ও বাসিন্দা বানালেন। বাগাভী কাতাদার কথাও আনেন: যেমন তিনি দাউদ (আঃ), সুলাইমান (আঃ) ও অন্য নবীদের খলিফা বানিয়েছিলেন। ইবন কাসীর ও সা'দী দুজনেই এর পাশে রাখেন ৭:১২৯ আয়াতে নিজ কওমের প্রতি মূসা (আঃ)-এর কথা: আশা করা যায় তোমাদের রব তোমাদের শত্রুকে ধ্বংস করবেন, তোমাদের দেশে খলিফা বানাবেন, তারপর দেখবেন তোমরা কেমন আমল কর।"
+          },
+          {
+            "en": "Which land is meant? Al-Qurtubi gives two views. One, whose sense he credits to an-Naqqash, is the land of Makkah, because the emigrants had asked Allah for it. The other is the lands of the Arabs and non-Arabs, which Ibn al-Arabi held to be correct. The verse about Musa (AS) carries its own warning in its last words: and see how you act. Read beside it, succession is a trust handed over to be tested, not a reward that closes the account.",
+            "bn": "কোন ভূমির কথা বলা হচ্ছে? কুরতুবী দুটি মত উল্লেখ করেন। একটি মত, যার মর্ম তিনি নাক্কাশের বলে জানান, মক্কার ভূমি, কারণ মুহাজিররা আল্লাহর কাছে এটাই চেয়েছিলেন। অন্য মতে আরব ও অনারবদের দেশসমূহ। ইবনুল আরাবী এ মতকেই সঠিক বলেছেন। মূসা (আঃ)-এর আয়াতটির শেষ কথায় নিজস্ব এক সতর্কবাণী আছে: তারপর দেখবেন তোমরা কেমন আমল কর। এর পাশে রেখে পড়লে বোঝা যায়, খিলাফত হাতে তুলে দেওয়া এক আমানত, যার পরীক্ষা চলতেই থাকে। এটা এমন পুরস্কার নয়, যা পেলেই হিসাব শেষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Armed Morning and Evening",
+          "bn": "সকাল-সন্ধ্যা অস্ত্র হাতে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari introduces it with the words it is mentioned: that it came down when some Companions complained to the Prophet ﷺ of the severe fear of the enemy in which they lived. He then gives, with its chain, a report from Abu al-'Aliya. The Prophet ﷺ stayed ten years in Makkah in fear, calling to Allah in secret and openly; then he was commanded to emigrate to Madinah, and there he and his Companions lived in fear, rising in their weapons and retiring in them.",
+            "bn": "তাবারী শুরু করেন 'উল্লেখ আছে' কথাটি দিয়ে: কিছু সাহাবী শত্রুর তীব্র ভয়ে দিন কাটাচ্ছিলেন, সে কথা তাঁরা নবী ﷺ-এর কাছে জানালে আয়াতটি নাযিল হয়। এরপর তিনি সনদসহ আবুল আলিয়ার একটি বর্ণনা দেন। নবী ﷺ ১০ বছর মক্কায় ভয়ের মধ্যে ছিলেন, গোপনে ও প্রকাশ্যে আল্লাহর দিকে ডাকতেন। তারপর মদীনায় হিজরতের আদেশ এল। সেখানেও তিনি ও তাঁর সাহাবীরা ভয়ে থাকতেন। সকালে উঠতেন অস্ত্র নিয়ে, সন্ধ্যাও কাটাতেন অস্ত্র নিয়ে।"
+          },
+          {
+            "en": "A man said: will a day never come on which we are safe and can lay down our arms? The Prophet ﷺ replied that they would wait only a little before a man among them could sit at ease in a great gathering with no weapon of iron on him, and Allah revealed this verse. Ibn Kathir, al-Qurtubi and al-Baghawi relay the same report from Abu al-'Aliya, and Ibn Kathir adds a line from al-Bara' ibn 'Azib: this verse came down while we were in severe fear. None of the commentators read here grades the report.",
+            "bn": "একজন বললেন: এমন দিন কি কখনো আসবে না, যেদিন আমরা নিরাপদ থাকব আর অস্ত্র নামিয়ে রাখতে পারব? নবী ﷺ জবাব দিলেন, তোমাদের অল্প কিছুদিন অপেক্ষা করতে হবে। তারপর তোমাদের কেউ বিরাট মজলিসে আরাম করে বসে থাকবে, তার গায়ে লোহার কোনো অস্ত্র থাকবে না। তখন আল্লাহ এ আয়াত নাযিল করলেন। ইবন কাসীর, কুরতুবী ও বাগাভীও আবুল আলিয়ার এই বর্ণনাটি আনেন। ইবন কাসীর এর সঙ্গে বারা ইবন আযিব (রাঃ)-এর একটি কথা যোগ করেন: আমরা যখন তীব্র ভয়ের মধ্যে ছিলাম, তখন এ আয়াত নাযিল হয়। এখানে যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই বর্ণনাটির মান নির্ণয় করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Promise Addresses",
+          "bn": "প্রতিশ্রুতি কাদের উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "Here the commentators genuinely differ. Al-Qurtubi opens with a narrow reading: it came down about Abu Bakr and 'Umar, as Malik said. He then records from ad-Dahhak, in the book of an-Naqqash, that it includes the caliphate of Abu Bakr, 'Umar, 'Uthman and 'Ali, because they were people of faith and righteous deeds. Ibn al-Arabi chose this view, he says, and al-Qushayri related it from Ibn 'Abbas. Al-Baghawi writes that the verse holds evidence for the caliphate of as-Siddiq and the imamate of the rightly guided caliphs.",
+            "bn": "এখানে তাফসীরকারদের মধ্যে সত্যিকারের মতভেদ আছে। কুরতুবী শুরু করেন একটি সংকীর্ণ ব্যাখ্যা দিয়ে: মালিকের কথা অনুযায়ী আয়াতটি নাযিল হয়েছে আবু বকর (রাঃ) ও উমর (রাঃ)-এর ব্যাপারে। তারপর তিনি নাক্কাশের গ্রন্থ থেকে দাহহাকের মত আনেন: এতে আবু বকর, উমর, উসমান ও আলী (রাঃ)-এর খিলাফত শামিল, কারণ তাঁরা ছিলেন ঈমান ও নেক আমলের মানুষ। কুরতুবী জানান, ইবনুল আরাবী এ মত গ্রহণ করেছেন, আর কুশাইরী এটি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন। বাগাভী লেখেন, এ আয়াতে সিদ্দীকের খিলাফত ও খুলাফায়ে রাশিদীনের ইমামতের প্রমাণ আছে।"
+          },
+          {
+            "en": "Against this al-Qurtubi sets the view of a group that it is a promise to the whole community, of rule over the earth under the word of Islam, a view Ibn 'Atiyya chose as the succession of the many. Al-Qurtubi himself argues that the change from overpowered to overpowering was not peculiar to the four caliphs but was shared by all the emigrants and others. Recalling the siege described in 33:10 and 33:11, he concludes that the verse is general to the community of Muhammad ﷺ, because narrowing a general wording needs a report that must be accepted.",
+            "bn": "এর বিপরীতে কুরতুবী আরেক দলের মত তুলে ধরেন: এটি পুরো উম্মতের প্রতি প্রতিশ্রুতি, ইসলামের কালিমার অধীনে গোটা পৃথিবীর কর্তৃত্বের। ইবন আতিয়্যা এ মত গ্রহণ করেছেন এবং একে বলেছেন সাধারণ মুসলিমদের খিলাফত। কুরতুবী নিজে যুক্তি দেন, পরাজিত অবস্থা থেকে বিজয়ী অবস্থায় যাওয়া শুধু চারজন খলিফার বৈশিষ্ট্য ছিল না। সব মুহাজির, এমনকি অন্যরাও এতে শরীক ছিলেন। ৩৩:১০ ও ৩৩:১১ আয়াতে বর্ণিত অবরোধের কথা মনে করিয়ে দিয়ে তিনি সিদ্ধান্তে আসেন, আয়াতটি মুহাম্মাদ ﷺ-এর পুরো উম্মতের জন্য সাধারণ। কারণ সাধারণ শব্দকে সীমিত করতে এমন বর্ণনা লাগে, যা মেনে নেওয়া বাধ্যতামূলক।"
+          },
+          {
+            "en": "The others frame the addressees in their own ways. At-Tabari keeps minkum as you people, and relays Mujahid: that is the community of Muhammad ﷺ. Ibn Kathir reads a promise that the Prophet's community would become successors, traces its fulfilment through his lifetime and the caliphates after him, and adds that some of the early generations said the caliphate of Abu Bakr and 'Umar is true in His Book, then recited this verse. As-Sa'di reads a promise to whoever from this community establishes faith and righteous deeds. This article does not choose between these attributed readings.",
+            "bn": "অন্য তাফসীরকারেরা সম্বোধিতদের চিহ্নিত করেন নিজ নিজ ভঙ্গিতে। তাবারী মিনকুম-কে রাখেন 'হে মানুষ, তোমাদের মধ্যে' অর্থে, আর মুজাহিদের কথা আনেন: এরা মুহাম্মাদ ﷺ-এর উম্মত। ইবন কাসীর এখানে দেখেন নবী ﷺ-এর উম্মতের খলিফা হওয়ার প্রতিশ্রুতি। তাঁর জীবদ্দশা আর তাঁর পরের খিলাফতগুলোর ভেতর দিয়ে তিনি এর পূরণ দেখান। সঙ্গে জানান, পূর্বসূরিদের কেউ কেউ বলেছেন, আবু বকর ও উমরের খিলাফত আল্লাহর কিতাবে সত্য, তারপর এ আয়াত তিলাওয়াত করেছেন। সা'দীর মতে প্রতিশ্রুতিটা এ উম্মতের সেই সব মানুষের জন্য, যারা ঈমান ও নেক আমল কায়েম রাখে। এ প্রবন্ধ তাঁদের এসব মতের কোনোটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Traveller From al-Hira",
+          "bn": "হীরা থেকে আসা সেই মুসাফির নারী"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi and Ibn Kathir bring a narration from 'Adiyy ibn Hatim to this clause, though it does not mention the verse. In Sahih al-Bukhari (3595), 'Adiyy says that a man came and complained to the Prophet ﷺ of destitution and poverty, and another complained of robbery by highwaymen. The Prophet said, \"Adi! Have you been to Al-Hira?\" He said he had not, but had been told of it. The Prophet said, \"If you should live for a long time, you will certainly see that a lady in a Howdah traveling from Al-Hira will (safely reach Mecca and) perform the Tawaf of the Ka`ba, fearing none but Allah.\"",
+            "bn": "বাগাভী ও ইবন কাসীর এ অংশের ব্যাখ্যায় আদী ইবন হাতিম (রাঃ)-এর একটি বর্ণনা আনেন, যদিও তাতে আয়াতটির উল্লেখ নেই। সহীহ বুখারীতে (৩৫৯৫) আদী বলেন, এক লোক এসে নবী ﷺ-এর কাছে অভাব-অনটনের কথা জানাল, আরেকজন জানাল পথে ডাকাতির কথা। নবী ﷺ বললেন: \"আদী, তুমি কি হীরা দেখেছ?\" তিনি বললেন, দেখিনি, তবে সে সম্পর্কে শুনেছি। নবী ﷺ বললেন: \"তুমি যদি দীর্ঘ জীবন পাও, অবশ্যই দেখবে, হাওদায় চড়া এক নারী হীরা থেকে রওনা হয়ে এসে কা'বার তাওয়াফ করছে, আল্লাহ ছাড়া কাউকে ভয় করছে না।\""
+          },
+          {
+            "en": "'Adiyy said to himself: what of the robbers of Tayy who have spread evil through the country? The narration goes on to foretell the opening of Khosrau's treasures and a time when no one will accept charity. It closes with 'Adiyy's own witness: \"I saw a lady in a Howdah traveling from Al-Hira till she performed the Tawaf of the Ka`ba, fearing none but Allah. And I was one of those who opened (conquered) the treasures of Khosrau, son of Hurmuz.\" Al-Bukhari placed it in his Sahih. What fulfilment looks like here is a lone traveller crossing the land in safety.",
+            "bn": "আদী মনে মনে ভাবলেন: তাহলে তাই গোত্রের সেই ডাকাতদের কী হবে, যারা গোটা দেশে আতঙ্ক ছড়িয়ে রেখেছে? বর্ণনাটি এরপর কিসরার ধনভান্ডার খুলে যাওয়ার কথা বলে, এমন এক সময়ের কথা বলে যখন সদকা নেওয়ার লোক পাওয়া যাবে না। শেষে আসে আদীর নিজের সাক্ষ্য: \"আমি দেখেছি, হাওদায় চড়া এক নারী হীরা থেকে রওনা হয়ে এসে কা'বার তাওয়াফ করেছে, আল্লাহ ছাড়া কাউকে ভয় করেনি। আর কিসরা ইবন হুরমুযের ধনভান্ডার যারা জয় করেছিল, আমি তাদেরই একজন।\" বুখারী এটি তাঁর সহীহ গ্রন্থে এনেছেন। লক্ষ করুন, এখানে প্রতিশ্রুতি পূরণের ছবিটা কেমন: নিরাপদে দেশ পাড়ি দেওয়া একা এক মুসাফির।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worship With No Partner",
+          "bn": "শরীকহীন ইবাদতের শর্ত"
+        },
+        "p": [
+          {
+            "en": "Ya'budunani la yushrikuna bi shay'a: they worship Me, not associating anything with Me. Al-Qurtubi gives two ways to read its place: a description of their state, meaning while they worship Allah sincerely, or a fresh sentence in praise of them. At-Tabari explains the worship as yielding to Him in obedience and humbling themselves to His command and prohibition, associating no idol or anything else with Him in it. On every reading, the promise does not come apart from the worship.",
+            "bn": "ইয়া'বুদূনানী লা ইউশরিকূনা বী শাইআ: তারা আমার ইবাদত করে, আমার সঙ্গে কিছুকে শরীক করে না। বাক্যে এর অবস্থান কুরতুবী দুইভাবে পড়েন। এক, এটি তাদের অবস্থার বর্ণনা, অর্থাৎ তারা যখন ইখলাসের সঙ্গে আল্লাহর ইবাদত করে। দুই, এটি নতুন বাক্য, তাদের প্রশংসায় বলা। তাবারী ইবাদতের ব্যাখ্যা দেন এভাবে: আনুগত্যে তাঁর সামনে নত হওয়া, তাঁর আদেশ-নিষেধের কাছে নিজেকে বিনীত করা, আর সেই ইবাদতে কোনো মূর্তি বা অন্য কিছুকে তাঁর শরীক না করা। যেভাবেই পড়া হোক, প্রতিশ্রুতি ইবাদত থেকে আলাদা হয় না।"
+          },
+          {
+            "en": "Al-Qurtubi lists four meanings for associating nothing: they worship no god but Me, related by an-Naqqash; they do not show off their worship of Me to anyone; they fear none but Me, from Ibn 'Abbas; they love none but Me, from Mujahid. At-Tabari relays Mujahid differently: they do not fear other than Me. Read that way, the clause and the promise meet. The fear of people that the verse lifts is exchanged for a fear owed to Allah alone, and the safety it promises belongs to those who no longer fear anyone beside Him.",
+            "bn": "শরীক না করার চারটি অর্থ কুরতুবী তুলে ধরেন। নাক্কাশের বর্ণনায়, তারা আমি ছাড়া আর কোনো ইলাহের ইবাদত করে না। দ্বিতীয় অর্থে, আমার ইবাদতে তারা কাউকে দেখানোর নিয়ত রাখে না। ইবন আব্বাস (রাঃ) থেকে, তারা আমি ছাড়া কাউকে ভয় করে না। মুজাহিদ থেকে, তারা আমি ছাড়া কাউকে ভালোবাসে না। তাবারী মুজাহিদের কথা আনেন ভিন্ন ভাষায়: তারা আমি ছাড়া কাউকে ভয় করে না। এভাবে পড়লে শর্ত আর প্রতিশ্রুতি এক জায়গায় এসে মেলে। আয়াত মানুষের যে ভয় তুলে নেয়, তার বদলে আসে শুধু আল্লাহর ভয়। আর প্রতিশ্রুত নিরাপত্তা তাদেরই, যারা তিনি ছাড়া আর কাউকে ভয় করে না।"
+          },
+          {
+            "en": "Ibn Kathir sets beside this clause a narration not tied to the verse, from Mu'adh ibn Jabal. In al-Bukhari's wording (5967), the Prophet said, \"Allah's right upon his slaves is that they should worship Him alone and not worship anything else besides Him,\" and later, \"The right of the slaves upon Allah is that He will not punish them (if they do that).\" As-Sa'di adds that the promise holds until the Hour whenever they keep faith and righteous deeds, and that disbelievers gain the upper hand at times because Muslims fall short in them.",
+            "bn": "এ অংশের পাশে ইবন কাসীর মুআয ইবন জাবাল (রাঃ)-এর একটি বর্ণনা রাখেন, যা আয়াতের সঙ্গে সরাসরি যুক্ত নয়। বুখারীর ভাষ্যে (৫৯৬৭) নবী ﷺ বললেন: \"বান্দাদের উপর আল্লাহর হক হল, তারা শুধু তাঁরই ইবাদত করবে, তাঁর সঙ্গে আর কিছুর ইবাদত করবে না।\" কিছুক্ষণ পরে বললেন: \"আল্লাহর উপর বান্দাদের হক হল, তারা তা করলে তিনি তাদের শাস্তি দেবেন না।\" সা'দী যোগ করেন, তারা যতদিন ঈমান ও নেক আমলে টিকে থাকবে, কিয়ামত পর্যন্ত প্রতিশ্রুতিটা বহাল থাকবে। কখনো কখনো কাফিররা যে উপরে উঠে আসে, তার কারণ ঈমান ও নেক আমলে মুসলিমদের ঘাটতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ingratitude After the Gift",
+          "bn": "নিয়ামত পাওয়ার পর অকৃতজ্ঞতা"
+        },
+        "p": [
+          {
+            "en": "Wa man kafara ba'da dhalika fa-ula'ika humu al-fasiqun: whoever disbelieves after that, those are the defiantly disobedient. At-Tabari records a difference over which kufr is meant. Abu al-'Aliya said it is ingratitude for this blessing, not disbelief in Allah, and at-Tabari judges that closer to the verse, since Allah has just promised a favour and then speaks of whoever denies it afterwards. Al-Qurtubi and al-Baghawi take the same line. Ibn Kathir reads it as leaving obedience after that, and the Muyassar joins the two: denying Allah's favours after the succession, security and establishment.",
+            "bn": "ওয়া মান কাফারা বা'দা যালিকা ফা-উলাইকা হুমুল ফাসিকূন: এরপর যে কুফরি করবে, তারাই নাফরমান। কোন কুফরের কথা বলা হচ্ছে, তা নিয়ে তাবারী মতভেদ উল্লেখ করেন। আবুল আলিয়া বলেছেন, এটা এই নিয়ামতের নাশুকরি, আল্লাহর সঙ্গে কুফরি নয়। তাবারী এ ব্যাখ্যাকেই আয়াতের বেশি কাছাকাছি মনে করেন। কারণ আল্লাহ এইমাত্র এক অনুগ্রহের প্রতিশ্রুতি দিয়েছেন, তারপর বলছেন, এরপর যে তা অস্বীকার করবে। কুরতুবী ও বাগাভীও একই পথ ধরেন। ইবন কাসীর একে পড়েন এরপর আনুগত্য ছেড়ে দেওয়া অর্থে। মুয়াসসার দুটি ব্যাখ্যাকে মিলিয়ে বলে: খিলাফত, নিরাপত্তা ও প্রতিষ্ঠার পরও আল্লাহর নিয়ামত অস্বীকার করা।"
+          },
+          {
+            "en": "Abu al-'Aliya's report, as at-Tabari gives it, goes on: Allah made them prevail over Arabia and they believed, then they grew overbearing, and Allah changed what was with them and brought back the fear He had lifted. Al-Baghawi says the commentators held that the first to deny this blessing were those who killed 'Uthman (RA), after which fear came in and those who had been brothers fought each other.",
+            "bn": "তাবারীর বর্ণনায় আবুল আলিয়ার কথা আরও এগোয়: আল্লাহ তাদের আরব উপদ্বীপে বিজয়ী করলেন, তারা ঈমান আনল। তারপর তারা উদ্ধত হয়ে উঠল, আল্লাহও তাদের অবস্থা বদলে দিলেন, যে ভয় তুলে নিয়েছিলেন, তা আবার ফিরিয়ে আনলেন। বাগাভী জানান, তাফসীরকারদের মতে এ নিয়ামতকে প্রথম অস্বীকার করেছিল উসমান (রাঃ)-এর হত্যাকারীরা। এরপর ভয় ঢুকে পড়ল, আর যারা ভাই ভাই ছিল, তারা একে অন্যের সঙ্গে লড়াইয়ে নামল।"
+          },
+          {
+            "en": "This needs saying plainly. The promise is conditional, sworn to people described by faith, righteous deeds and worship that associates nothing with Allah, and the commentators who describe its fulfilment point first to the Prophet's time and the generation after him. It does not promise political power to any present-day state, movement or group, and no one may use it to legitimise themselves or to brand others the fasiqun of its last line. The verse describes what the text describes and licenses nothing against any living person or community. Its question is put to each reader alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ প্রতিশ্রুতি শর্তযুক্ত। কসম খাওয়া হয়েছে এমন মানুষদের জন্য, যাদের পরিচয় ঈমান, নেক আমল আর শরীকমুক্ত ইবাদত। আর তাফসীরকারেরা এর পূরণের কথা বলতে গিয়ে প্রথমে দেখান নবী ﷺ-এর যুগ ও তাঁর পরের প্রজন্মকে। আজকের কোনো রাষ্ট্র, আন্দোলন বা দলকে এ আয়াত রাজনৈতিক ক্ষমতার প্রতিশ্রুতি দেয় না। নিজেকে বৈধ প্রমাণ করতে, কিংবা অন্যদের এর শেষ বাক্যের ফাসিক বলে দাগাতে কেউ একে ব্যবহার করতে পারে না। আয়াত শুধু তা-ই বলে, যা এর শব্দে আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। এর প্রশ্নটা প্রত্যেক পাঠকের কাছে, একা তার নিজের কাছে।"
+          }
+        ]
+      }
+    ]
+  },
   "24:58": {
     "sections": [
       {
