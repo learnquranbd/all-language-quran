@@ -28509,6 +28509,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Pleasing those you love is good, but never by forbidding what Allah has made lawful; His permission is not yours to withdraw.",
     "lessonBn": "প্রিয়জনকে খুশি রাখা ভালো, কিন্তু আল্লাহর হালাল করা জিনিস হারাম করে নয়। তাঁর দেওয়া অনুমতি ফিরিয়ে নেওয়ার অধিকার আপনার নেই।"
+  },
+  "68:26": {
+    "reflectionEn": "They had set out before dawn, quietly, sure of the harvest. They reached the place and did not know it. Where rows of fruit had stood there was only blackness, and their first words were: we have lost the way. It is a very human first answer. When something we counted on is gone, we look for an error outside ourselves: the wrong road, the wrong turning, someone else's slip. Only in the next verse do they say what had really happened: rather, we have been deprived. Men who had planned to keep the poor out now stood among the deprived. A loss cannot be mended until it is seen for what it is. When mine comes, do I blame the road first?",
+    "reflectionBn": "ফসল নিশ্চিত ধরে নিয়ে তারা ভোর হওয়ার আগেই চুপিচুপি বেরিয়েছিল। জায়গায় পৌঁছে দেখে, চিনতে পারছে না। যেখানে সারি সারি ফল ঝুলত, সেখানে শুধু কালো ছাই। মুখ থেকে প্রথম যে কথা বেরোল: আমরা পথ হারিয়ে ফেলেছি। জবাবটা খুব মানুষের মতো। যার উপর ভরসা ছিল তা হারালে আমরা আগে নিজের বাইরে ভুল খুঁজি: ভুল রাস্তা, ভুল মোড়, অন্য কারও গাফিলতি। আসল কথাটা তারা বলে পরের আয়াতে: না, আমরা তো বঞ্চিত হয়ে গেছি। যারা গরিবকে বাগানে ঢুকতে না দেওয়ার ফন্দি এঁটেছিল, তারাই এখন বঞ্চিতদের কাতারে। ক্ষতিকে ক্ষতি বলে না চিনলে তা সারানোর পথও খোলে না। আমার জীবনে এমন দিন এলে আমিও কি আগে রাস্তার দোষ দিই?",
+    "pointsEn": [
+      "When something I relied on fails, what is my first explanation, and how often does it point away from me?",
+      "Is there a loss in my life that I still call a wrong turning, because naming it plainly would cost me something?",
+      "Who used to share in my good seasons, and have I quietly closed the gate on them?",
+      "How long does it take me to move from 'this cannot be mine' to 'this is mine, and I have lost it'?",
+      "Do I measure what I own by how much is in it, or by whom it was meant to reach?"
+    ],
+    "pointsBn": [
+      "যার উপর ভরসা করেছিলাম তা ব্যর্থ হলে আমার মাথায় প্রথম কোন ব্যাখ্যা আসে? কতবার সে ব্যাখ্যা আমার দিক থেকে আঙুল সরিয়ে নেয়?",
+      "জীবনে এমন কোনো ক্ষতি কি আছে, যাকে আমি এখনো ভুল রাস্তা বলে চালিয়ে দিই, কারণ সোজাসুজি নাম দিলে নিজের কিছু খোয়াতে হবে?",
+      "আমার সুদিনে কারা ভাগ পেত? তাদের সামনে কি আমি চুপচাপ দরজা বন্ধ করে দিয়েছি?",
+      "'এটা আমার হতেই পারে না' থেকে 'এটা আমারই, আর আমি তা হারিয়েছি' পর্যন্ত পৌঁছাতে আমার কত সময় লাগে?",
+      "নিজের সম্পদের মাপ আমি কী দিয়ে করি: তাতে কতটা আছে তা দিয়ে, নাকি তা কাদের কাছে পৌঁছানোর কথা ছিল তা দিয়ে?"
+    ],
+    "lessonEn": "When a blessing is lost, do not first blame the road; see the loss for what it is, and remember that withholding from the poor can leave the withholder deprived.",
+    "lessonBn": "নিয়ামত হারালে আগে রাস্তার দোষ দেবেন না। ক্ষতিকে ক্ষতি বলেই চিনুন, আর মনে রাখুন, গরিবের ভাগ আটকে রাখলে আটকে রাখা মানুষটিই বঞ্চিত হয়ে যেতে পারে।"
   }
 };
 

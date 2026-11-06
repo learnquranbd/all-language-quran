@@ -887,6 +887,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "68:26": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words at the Gate",
+          "bn": "বাগানের মুখে পাঁচ শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma ra'awha qalu inna la-dallun: so when they saw it, they said, we are surely lost. The verse is five Arabic words, and they are the first thing the owners of the garden say once their plan meets what came in the night. The story opened at 68:17 with owners who swore to reap at dawn; a visitation from their Lord came while they slept (68:19 and 68:20); they whispered that no poor person should get in (68:24), and set out early in 68:25, sure of themselves. Those verses are treated in their own places. Here the owners arrive.",
+            "bn": "ফালাম্মা রাআওহা কালূ ইন্না লাদাল্লূন: অতঃপর যখন তারা সেটি দেখল, বলল, আমরা নিশ্চয়ই পথ হারিয়েছি। আয়াতটি আরবিতে পাঁচ শব্দের। রাতে যা ঘটে গেছে, তার মুখোমুখি হয়ে বাগানের মালিকেরা প্রথম যে কথা বলে, এ সেই কথা। কাহিনির শুরু ৬৮:১৭ আয়াতে। মালিকেরা কসম খেয়েছিল, ভোরেই ফল কেটে ঘরে তুলবে। তারা যখন ঘুমিয়ে, তখন রবের পক্ষ থেকে এক আপদ এসে বাগান ঘিরে ফেলে (৬৮:১৯ ও ৬৮:২০)। তারা ফিসফিস করে বলাবলি করে, কোনো মিসকীন যেন ঢুকতে না পারে (৬৮:২৪)। তারপর ৬৮:২৫ আয়াতে নিজেদের উপর পুরো ভরসা নিয়ে সকাল সকাল রওনা দেয়। সেসব আয়াতের আলোচনা নিজ নিজ জায়গায় আছে। এ আয়াত পৌঁছানোর মুহূর্তের।"
+          },
+          {
+            "en": "Ibn Kathir describes what met them. When they reached the garden and looked over it, it was in the state Allah had described: changed from its freshness, its bloom and its abundant fruit into something black and dark, of which nothing could be put to use. Al-Qurtubi's picture is close to his: burnt, with nothing left in it, gone like the black night, so that they looked at it as at ashes. As-Sa'di ties the sight back to 68:20: they saw it as Allah described it, like as-sarim. The verse itself gives none of this detail. It says only that they saw it.",
+            "bn": "ইবন কাসীর বলেন, তারা বাগানে পৌঁছে উপর থেকে তাকাল। আল্লাহ যে অবস্থার কথা বলেছেন, বাগান ঠিক সেই অবস্থায়। সেই সতেজ ভাব, সেই ফুলের বাহার, ফলের সেই প্রাচুর্য, কিছুই নেই। সবকিছু কালো, অন্ধকার, কোনো কিছুই আর কাজে লাগার মতো নয়। কুরতুবীর ছবিও প্রায় একই: পুড়ে গেছে, ভেতরে কিছু নেই, যেন কালো রাত। তারা সেদিকে তাকাচ্ছিল যেন ছাইয়ের স্তূপ দেখছে। সা'দী দৃশ্যটিকে ৬৮:২০ আয়াতের শব্দের সঙ্গে জুড়ে দেন: আল্লাহ যেমন বলেছেন, কাটা ফসলের মতো, তারা বাগানটিকে ঠিক তেমনই দেখল। এসব খুঁটিনাটি অবশ্য আয়াতে নেই। আয়াত শুধু বলে, তারা সেটি দেখল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Garden They Did Not Recognise",
+          "bn": "নিজের বাগান, তবু অচেনা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's account of the first reaction rests on two verbs. When the owners came to their garden and saw its crop burnt, ankaruha wa shakku fiha: they did not recognise it, and they doubted it, wondering whether it was their garden at all. Al-Qurtubi uses the same pair of verbs. Al-Baghawi gives their words more fully: we are mistaking the road, we have lost the place of our garden, this is not our garden. The Muyassar keeps to the plain line: they saw their garden burnt, did not recognise it, and said, we have mistaken the way to it.",
+            "bn": "প্রথম প্রতিক্রিয়ার বর্ণনায় তাবারী দুটি ক্রিয়া ব্যবহার করেন। মালিকেরা বাগানে এসে দেখল ফসল পুড়ে ছারখার। আনকারূহা ওয়া শাক্কূ ফীহা: তারা বাগানটি চিনতে পারল না, তাতে সন্দেহ জাগল, এটা আদৌ তাদের বাগান কি না। কুরতুবীও ঠিক এই দুটি ক্রিয়াই ব্যবহার করেন। বাগাভী তাদের কথাগুলো আরও খুলে বলেন: আমরা রাস্তা ভুল করছি, বাগানের জায়গা হারিয়ে ফেলেছি, এটা আমাদের বাগান নয়। মুয়াসসার সাদামাটা কথায় থাকে: পোড়া বাগান দেখে তারা চিনতে পারল না, বলল, আমরা সেখানে যাওয়ার পথ ভুল করেছি।"
+          },
+          {
+            "en": "At-Tabari brings this reading from Qatada through two chains. In one, Qatada glosses the words as: we have lost the road. In the other: they say, we mistook the road, this is not our garden. Ibn Kathir says the owners believed they had gone the wrong way; we took a road to it other than the right one, and so wandered from it. He attributes this to Ibn Abbas (RA) and others. Ma'arif al-Qur'an puts it in the same order: when they did not find their garden on that spot, they first thought they had lost their way and come to the wrong place.",
+            "bn": "তাবারী এই ব্যাখ্যা কাতাদা থেকে দুটি সনদে আনেন। এক বর্ণনায় কাতাদা শব্দগুলোর অর্থ করেন: আমরা রাস্তা হারিয়েছি। অন্য বর্ণনায়: তারা বলছে, আমরা পথ ভুল করেছি, এটা আমাদের বাগান নয়। ইবন কাসীর বলেন, মালিকদের ধারণা হয়েছিল তারা ভুল রাস্তায় এসেছে। ঠিক পথ ছেড়ে অন্য পথ ধরে আসায় তারা বাগান খুঁজে পায়নি। এ ব্যাখ্যা তিনি ইবন আব্বাস (রাঃ) ও অন্যদের দিকে সম্পর্কিত করেন। মাআরিফুল কুরআনও একই ধারা ধরে বলে: সেই জায়গায় বাগান না পেয়ে তারা প্রথমে ভাবল, নিশ্চয়ই পথ হারিয়ে ভুল জায়গায় চলে এসেছে।"
+          },
+          {
+            "en": "As-Sa'di looks at what lay behind the words. They spoke, he says, out of bewilderment and alarm: we are wandering from it, perhaps it is another garden. The sentence itself is cast as a firm claim, with inna at its head and la- fixed to its last word, so the owners do not ask whether they are lost; they announce it. The same men had set out in 68:25 sure they could carry out their plan. On this first reading, that sureness has not yet broken; it has simply attached itself to a wrong explanation.",
+            "bn": "কথাগুলোর পেছনে মনের অবস্থা কী ছিল, সা'দী সেদিকে তাকান। তাঁর মতে তারা কথাটা বলেছিল দিশাহারা আর আতঙ্কিত হয়ে: আমরা পথ ভুলে ঘুরছি, এটা হয়তো অন্য কোনো বাগান। বাক্যটির গড়নেও জোর আছে। শুরুতে ইন্না, শেষ শব্দের সঙ্গে লা। তাই মালিকেরা জিজ্ঞেস করছে না যে তারা পথ হারিয়েছে কি না। তারা ঘোষণা দিচ্ছে। এরাই ৬৮:২৫ আয়াতে নিশ্চিত হয়ে বেরিয়েছিল যে পরিকল্পনা মতো কাজ সেরে ফেলবে। প্রথম এই পাঠে সেই নিশ্চয়তা তখনো ভাঙেনি। শুধু ভুল একটা ব্যাখ্যার সঙ্গে গিয়ে জুড়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Voice or Two",
+          "bn": "এক কণ্ঠ, নাকি দুই"
+        },
+        "p": [
+          {
+            "en": "The commentators differ on who said what. At-Tabari divides the two sentences between two kinds of speaker. One of them said to his companions, he explains, out of a belief that they had missed the way to their garden and that the one they saw was another: we are lost from the road to our garden. Then one who knew it was their garden, and that they had not mistaken the road, answered in the next verse: rather, we are deprived. Al-Qurtubi also frames the first sentence as some of them speaking to others.",
+            "bn": "কে কোন কথা বলেছিল, তা নিয়ে তাফসীরকারদের মধ্যে ভিন্নতা আছে। তাবারী দুই বাক্যকে দুই ধরনের বক্তার মধ্যে ভাগ করেন। তাঁর ব্যাখ্যায়, তাদের একজন সঙ্গীদের বলল: আমরা বাগানের পথ হারিয়েছি। তার ধারণা ছিল, তারা ভুল পথে এসেছে আর সামনে যা দেখছে তা অন্য বাগান। তখন আরেকজন, যে বুঝতে পেরেছিল এটা তাদেরই বাগান আর পথ ভুল হয়নি, পরের আয়াতের কথাটি বলল: না, আমরা তো বঞ্চিত। কুরতুবীও প্রথম বাক্যটিকে দেখেন তাদের কারও কারও পরস্পরকে বলা কথা হিসেবে।"
+          },
+          {
+            "en": "Ibn Kathir reads the two verses as the same people moving from one state to another. They thought they had lost the way; then, he says, they went back on what they had been saying, became certain that it was the garden, and said: rather, we are deprived. As-Sa'di has the same movement inside each of them: once they had made sure of it and their senses came back to them. The Muyassar and Ma'arif al-Qur'an follow the same order. The plural qalu, they said, can carry either picture, and neither side here is set above the other.",
+            "bn": "ইবন কাসীর দুই আয়াতকে পড়েন একই মানুষের এক অবস্থা থেকে আরেক অবস্থায় যাওয়া হিসেবে। প্রথমে তারা ভেবেছিল পথ হারিয়েছে। তারপর, তিনি বলেন, আগের কথা থেকে সরে এল, নিশ্চিত হলো যে এটাই সেই বাগান, আর বলল: না, আমরা তো বঞ্চিত। সা'দীর বর্ণনায় একই পরিবর্তন ঘটে প্রত্যেকের ভেতরে: যখন তারা ভালো করে যাচাই করল আর তাদের হুঁশ ফিরে এল। মুয়াসসার ও মাআরিফুল কুরআনও এই ক্রমই ধরে। কালূ, অর্থাৎ তারা বলল, বহুবচনের এ ক্রিয়ায় দুই ছবিরই জায়গা আছে। এখানে কোনো পক্ষকে অন্যটির উপরে রাখা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lost, Then Deprived",
+          "bn": "আগে পথহারা, পরে বঞ্চিত"
+        },
+        "p": [
+          {
+            "en": "Whichever way the voices fall, 68:26 is the first of two stages, and 68:27 turns away from it with bal, rather. Ma'arif al-Qur'an describes the turn: when they looked at the surroundings, they saw it was the right place, and the garden had been burnt up. Ibn Kathir gives the second sentence its meaning: rather, this is it, but we have no share in it and no portion. At-Tabari has them deprived of the benefit of their garden by the loss of its crop, and Qatada, in his report, puts it more sharply: rather, we were requited, and so we were deprived.",
+            "bn": "কণ্ঠ একটি হোক বা দুটি, ৬৮:২৬ দুই ধাপের প্রথম ধাপ। ৬৮:২৭ আয়াত বাল, অর্থাৎ বরং, শব্দ দিয়ে সেখান থেকে মুখ ফেরায়। মাআরিফুল কুরআন মোড়টা এভাবে দেখায়: চারপাশে তাকিয়ে তারা বুঝল, জায়গা ঠিকই আছে, বাগানটাই পুড়ে শেষ। ইবন কাসীর দ্বিতীয় বাক্যের অর্থ করেন: বরং এটাই সেই বাগান, কিন্তু এতে আমাদের কোনো ভাগ নেই, কোনো অংশ নেই। তাবারীর ব্যাখ্যায়, ফসল নষ্ট হওয়ায় তারা বাগানের ফায়দা থেকে বঞ্চিত হলো। কাতাদার বর্ণনায় কথাটা আরও তীক্ষ্ণ: বরং আমাদের প্রতিফল দেওয়া হয়েছে, তাই আমরা বঞ্চিত।"
+          },
+          {
+            "en": "As-Sa'di marks what the second stage added: then they knew it was a punishment. Others name the cause. Al-Baghawi has them deprived of its good and its benefit by their withholding from the poor and their leaving off the istithna', the 'if Allah wills'. The Muyassar says deprived of its good because of their resolve on stinginess and on keeping the poor out, and al-Qurtubi, on 68:27, because of what they had done. So the first stage was an error about a place, and the second an admission about themselves. Their confession in 68:29 belongs to that verse.",
+            "bn": "দ্বিতীয় ধাপে নতুন কী যোগ হলো, সা'দী তা ধরিয়ে দেন: তখন তারা বুঝল, এটা শাস্তি। অন্যরা কারণটাও বলেন। বাগাভীর ব্যাখ্যায়, মিসকীনদের ঠেকিয়ে রাখা আর ইসতিসনা, অর্থাৎ 'ইনশাআল্লাহ' বলা ছেড়ে দেওয়ার কারণে তারা বাগানের কল্যাণ ও ফায়দা থেকে বঞ্চিত হলো। মুয়াসসার বলে, কৃপণতা আর মিসকীনদের ঢুকতে না দেওয়ার সংকল্পের কারণে। কুরতুবী ৬৮:২৭ আয়াতে বলেন, নিজেদের কৃতকর্মের কারণে। তাহলে প্রথম ধাপের ভুল ছিল জায়গা নিয়ে, আর দ্বিতীয় ধাপে এল নিজেদের নিয়ে স্বীকারোক্তি। ৬৮:২৯ আয়াতে তাদের দোষ স্বীকারের কথা সে আয়াতেরই বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Astray From What Was Right",
+          "bn": "সঠিক পথ থেকে সরে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a second reading of la-dallun itself. After Qatada's explanation, that they had lost the road to their garden, he adds under the words it is said: we have strayed from what is right in setting out early with the intention of keeping the poor away, and for that we have been punished. On this reading the owners are not confused about a road at all. The admission that the other commentators place in 68:27 is already present in 68:26, and the two verses become a statement and its sharpening rather than an error and its correction.",
+            "bn": "কুরতুবী লাদাল্লূন শব্দেরই আরেকটি পাঠ উল্লেখ করেন। কাতাদার ব্যাখ্যা, অর্থাৎ বাগানের রাস্তা হারানোর কথা বলার পর তিনি 'বলা হয়' কথাটি দিয়ে আনেন: মিসকীনদের ঠেকানোর নিয়তে সকাল সকাল বেরিয়ে আমরা সঠিক পথ থেকে সরে গেছি, আর সে জন্যই আমাদের শাস্তি হয়েছে। এ পাঠে মালিকেরা রাস্তা নিয়ে মোটেই বিভ্রান্ত নয়। অন্য তাফসীরকারেরা যে স্বীকারোক্তি ৬৮:২৭ আয়াতে রাখেন, তা ৬৮:২৬ আয়াতেই চলে আসে। তখন দুই আয়াত আর ভুল ও তার সংশোধন থাকে না। হয়ে যায় একটি কথা, আর পরের আয়াতে তারই আরও ধারালো রূপ।"
+          },
+          {
+            "en": "Most of the commentators consulted here read the word as the road, and al-Qurtubi gives the second reading without weighing it against the first; this article does not choose between them. A reader may still notice where the root d-l-l stands elsewhere. Earlier in this surah, 68:7 says that your Lord knows best who has strayed, dalla, from His way, and every recitation of al-Fatiha ends by asking not to be among ad-dallin in 1:7. That is an observation from the Qur'an's own text, not a claim any of these commentators makes about this verse.",
+            "bn": "এখানে যেসব তাফসীর দেখা হয়েছে, তার বেশিরভাগই শব্দটিকে রাস্তা হারানো অর্থে পড়ে। কুরতুবী দ্বিতীয় পাঠটি আনেন, কিন্তু প্রথমটির সঙ্গে তুলনা করে কোনোটিকে প্রাধান্য দেন না। এ লেখাও কোনো একটিকে বেছে নিচ্ছে না। তবে পাঠক একটা জিনিস খেয়াল করতে পারেন: দ-ল-ল ধাতু কুরআনের আর কোথায় এসেছে। এই সূরারই ৬৮:৭ আয়াত বলে, কে তাঁর পথ থেকে সরে গেছে (দাল্লা), তোমার রব তা সবচেয়ে ভালো জানেন। আর ১:৭ আয়াতে প্রতিবার সূরা ফাতিহা শেষ হয় আদ-দাল্লীন, অর্থাৎ পথভ্রষ্টদের দলে না পড়ার প্রার্থনা দিয়ে। এটা কুরআনের নিজের পাঠ থেকে করা পর্যবেক্ষণ, এ আয়াত নিয়ে এই তাফসীরকারদের কারও দাবি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Reports Add",
+          "bn": "বর্ণনাগুলো যা যোগ করে"
+        },
+        "p": [
+          {
+            "en": "The verse does not say who the owners were or where the garden stood. The commentators, at the opening of the story in 68:17, relay reports that do. Al-Baghawi gives one through al-Kalbi, from Abu Salih, from Ibn Abbas (RA): an orchard in Yemen called ad-Darawan, two farsakhs short of San'a. Al-Qurtubi places it in the land of Yemen, some farsakhs from San'a, adding that it is also said two, and records a report from as-Suddi that they were a people of Yemen. These are reports carried by the commentators, not words of the verse, and nothing in 68:26 turns on them.",
+            "bn": "মালিকেরা কারা ছিল, বাগান কোথায় ছিল, আয়াত তা বলে না। কাহিনির শুরুতে, ৬৮:১৭ আয়াতের আলোচনায়, তাফসীরকারেরা কিছু বর্ণনা আনেন যেখানে এসব কথা আছে। বাগাভী একটি বর্ণনা দেন কালবী থেকে, তিনি আবু সালিহ থেকে, তিনি ইবন আব্বাস (রাঃ) থেকে: ইয়ামানে আদ-দারাওয়ান নামে একটি বাগান, সানআ থেকে দুই ফারসাখ আগে। কুরতুবী বাগানটিকে রাখেন ইয়ামানের মাটিতে, সানআ থেকে কয়েক ফারসাখ দূরে। সঙ্গে বলেন, দুই ফারসাখের কথাও বলা হয়। সুদ্দী থেকেও তিনি বর্ণনা আনেন যে তারা ছিল ইয়ামানের এক সম্প্রদায়। এগুলো তাফসীরকারদের আনা বর্ণনা, আয়াতের শব্দ নয়। ৬৮:২৬ আয়াতের কোনো কথা এগুলোর উপর নির্ভর করে না।"
+          },
+          {
+            "en": "On narrations: none of the commentators consulted on this verse attaches a hadith to it. On 68:27, al-Qurtubi cites a report through Asbat from Ibn Mas'ud (RA), attributed to the Prophet ﷺ, which ties sin to lost provision and ends with a recitation of 68:19 and 68:20. The text fetched names no collection and gives no grading, and it could not be checked here against a graded collection, so this article does not rely on it. The verse's own words carry the point without it.",
+            "bn": "হাদীস প্রসঙ্গে: এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। ৬৮:২৭ আয়াতে কুরতুবী আসবাতের সূত্রে ইবন মাসউদ (রাঃ) থেকে একটি বর্ণনা আনেন, যা নবী ﷺ-এর বাণী হিসেবে উদ্ধৃত। তাতে গুনাহের সঙ্গে রিজিক হারানোর সম্পর্কের কথা আছে, আর শেষে ৬৮:১৯ ও ৬৮:২০ আয়াত তিলাওয়াতের উল্লেখ। যে পাঠ পাওয়া গেছে, তাতে কোনো হাদীসগ্রন্থের নাম নেই, মানের কোনো উল্লেখও নেই। কোনো মানযুক্ত সংকলনের সঙ্গে মিলিয়ে দেখারও সুযোগ হয়নি। তাই এ লেখা এর উপর ভর করছে না। আয়াতের নিজের শব্দই কথাটা বহন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Gate Closes Both Ways",
+          "bn": "বন্ধ দরজা দুই দিকেই"
+        },
+        "p": [
+          {
+            "en": "Read with the verses around it, the owners' journey has a shape. They set out to make sure that no miskin, no poor person, would enter the garden that day (68:24), and they arrived to find nothing in it worth entering for. The word they reach for once the truth lands, mahrumun, deprived, is one the Qur'an uses elsewhere for the needy: in 51:19, in the wealth of the righteous there is a right for the one who asks and al-mahrum, and 70:24 and 70:25 speak of a known right for the same two.",
+            "bn": "আশপাশের আয়াতসহ পড়লে মালিকদের এই যাত্রার একটা আকার চোখে পড়ে। তারা বেরিয়েছিল এটা নিশ্চিত করতে যে সেদিন কোনো মিসকীন বাগানে ঢুকবে না (৬৮:২৪)। পৌঁছে দেখল, ঢোকার মতো কিছুই আর বাগানে নেই। সত্যটা যখন মাথায় ঢুকল, নিজেদের বোঝাতে তারা যে শব্দ বেছে নিল, মাহরূমূন, অর্থাৎ বঞ্চিত, কুরআন অন্য জায়গায় সেই শব্দ ব্যবহার করে অভাবীর জন্য। ৫১:১৯ আয়াতে নেককারদের সম্পদে হক আছে প্রার্থীর আর আল-মাহরূমের। ৭০:২৪ ও ৭০:২৫ আয়াতও এই দুজনের জন্য নির্দিষ্ট হকের কথা বলে।"
+          },
+          {
+            "en": "Men who meant to shut out the deprived ended the morning among them. This is the reader's observation from the Qur'an's own wording, not a claim the commentators make here; what they do say, in al-Baghawi and the Muyassar, is that the owners were deprived because they withheld from the poor and resolved on stinginess. The lesson on stinginess sits in that causal line. A harvest withheld from those with a share in it did not stay with the owners either, and they were left with neither the fruit nor the good of giving it.",
+            "bn": "যারা বঞ্চিতদের বাইরে রাখতে চেয়েছিল, সকাল শেষে তারা নিজেরাই সেই দলে। এটা কুরআনের নিজের শব্দ থেকে পাঠকের পর্যবেক্ষণ, এখানে তাফসীরকারদের দাবি নয়। তাঁরা যা বলেন, বাগাভী ও মুয়াসসারে, তা হলো: মিসকীনদের ঠেকিয়ে রাখা আর কৃপণতার সংকল্পের কারণেই মালিকেরা বঞ্চিত হয়েছে। কৃপণতার শিক্ষা এই কার্যকারণের ভেতরেই। যাদের ভাগ ছিল, তাদের কাছ থেকে আটকে রাখা ফসল মালিকদের হাতেও থাকেনি। ফলও গেল, দেওয়ার কল্যাণটুকুও গেল।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the owners of one garden said at one sight, in a parable set before the deniers of Makkah, and it licenses nothing against any living person or community. It gives no one the right to look at a neighbour's burnt field, failed shop or empty account and announce that this is a punishment for stinginess. The owners reached that verdict about themselves, in their own words. That is the only direction in which the story teaches anyone to apply it: inward, to one's own harvest.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি বাগানের মালিকদের কথা বলে, একটি দৃশ্য দেখে তারা যা বলেছিল, এমন এক উপমায় যা মক্কার অস্বীকারকারীদের সামনে রাখা হয়েছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীর পোড়া খেত, লোকসানে বন্ধ দোকান বা খালি হিসাব দেখে কেউ ঘোষণা দিতে পারে না যে এটা কৃপণতার শাস্তি। মালিকেরা এই রায় দিয়েছিল নিজেদের সম্পর্কে, নিজেদের মুখে। কাহিনি এটা প্রয়োগ করতে শেখায় কেবল একটি দিকে: নিজের ভেতরে, নিজের ফসলের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calling a Loss by Its Name",
+          "bn": "ক্ষতিকে ক্ষতি বলা"
+        },
+        "p": [
+          {
+            "en": "On the reading most of the commentators give, the first words spoken at the ruined garden blamed the road. That is how loss often arrives for anyone: the business failed because of the market, the friendship cooled because of the other person, the prayer slipped because of a busy season. Sometimes the road really was wrong. But the owners had not mistaken any road; at-Tabari's second speaker knew it was their garden, and Ibn Kathir has all of them come back from their first words to certainty. The sight was asking for a different sentence.",
+            "bn": "বেশিরভাগ তাফসীরকারের পাঠে, পোড়া বাগানের সামনে প্রথম কথাতেই দোষ গেল রাস্তার ঘাড়ে। যে কারও জীবনে ক্ষতি প্রায়ই এভাবেই আসে। ব্যবসা ডুবেছে বাজারের কারণে, বন্ধুত্বে টান পড়েছে অন্যজনের দোষে, নামাজ ঢিলে হয়েছে ব্যস্ততার মৌসুমে। কখনো কখনো রাস্তাটা সত্যিই ভুল ছিল। কিন্তু মালিকেরা কোনো রাস্তা ভুল করেনি। তাবারীর দ্বিতীয় বক্তা জানত এটা তাদেরই বাগান, আর ইবন কাসীরের বর্ণনায় তারা সবাই প্রথম কথা থেকে ফিরে এসে নিশ্চিত হয়েছিল। দৃশ্যটা অন্য একটা বাক্য দাবি করছিল।"
+          },
+          {
+            "en": "As-Sa'di says that once their senses came back, they knew it was a punishment. Recognising a loss is not yet repenting of it, and what the owners did next belongs to 68:28 and 68:29. But nothing can be mended while it is still being called a wrong turning. The verse asks the reader for an honest first sentence: when something I counted on lies black before me, can I say 'this is mine, and I have lost it', and then ask what part I played, before I go looking for another road?",
+            "bn": "সা'দী বলেন, হুঁশ ফিরে এলে তারা বুঝল, এটা শাস্তি। ক্ষতি চিনতে পারা মানেই তওবা নয়। মালিকেরা এরপর কী করল, তা ৬৮:২৮ ও ৬৮:২৯ আয়াতের বিষয়। তবে যতক্ষণ কোনো কিছুকে ভুল মোড় বলে চালানো হয়, ততক্ষণ তা সারানো যায় না। আয়াতটি পাঠকের কাছে একটা সৎ প্রথম বাক্য চায়। যার উপর ভরসা ছিল, তা যখন কালো হয়ে সামনে পড়ে থাকে, আমি কি বলতে পারি, 'এটা আমারই, আর আমি তা হারিয়েছি'? তারপর অন্য রাস্তা খুঁজতে যাওয়ার আগে কি জিজ্ঞেস করি, এতে আমার নিজের ভূমিকা কতটুকু?"
+          }
+        ]
+      }
+    ]
+  },
   "68:33": {
     "sections": [
       {
