@@ -1474,5 +1474,145 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "70:43": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Promised Day, Named Again",
+          "bn": "দুবার নাম নেওয়া দিন"
+        },
+        "p": [
+          {
+            "en": "Yawma yakhrujuna mina l-ajdathi sira'an: the Day they come out of the graves, fast. The verse does not open a new sentence. It finishes the one 70:42 began, where the Prophet ﷺ is told to leave the deniers to their idle talk and play until they meet their Day which they are promised. At-Tabari calls this second yawm an explanation of the first: until they meet the Day they are promised, the Day they come out of the ajdath. Al-Qurtubi makes the same link in grammatical terms, calling it a badal, a substitute, for yawmahum before it.",
+            "bn": "ইয়াওমা ইয়াখরুজূনা মিনাল আজদাসি সিরাআন: যেদিন তারা কবর থেকে বের হবে দ্রুত। আয়াতটি নতুন কোনো বাক্য শুরু করে না। ৭০:৪২ যে বাক্য শুরু করেছিল, এটি তারই শেষ অংশ। সেখানে নবী ﷺ-কে বলা হয়েছিল, অস্বীকারকারীদের অনর্থক কথা আর খেলায় মেতে থাকতে দিন, যতক্ষণ না তারা তাদের প্রতিশ্রুত দিনের মুখোমুখি হয়। তাবারী বলেন, এই দ্বিতীয় ইয়াওম প্রথমটির ব্যাখ্যা: প্রতিশ্রুত দিনের সাক্ষাৎ পাওয়া পর্যন্ত, যেদিন তারা আজদাস থেকে বের হবে। কুরতুবী একই সংযোগ দেখান ব্যাকরণের ভাষায়। তাঁর মতে এটি আগের ইয়াওমাহুম শব্দের বদল, অর্থাৎ তার স্থলাভিষিক্ত।"
+          },
+          {
+            "en": "So the promised Day is given a face at once, and the first thing it shows is movement. Ajdath is the plural of jadath, a grave, as at-Tabari and al-Qurtubi both note; the articles on 54:7 and 36:51 look at the word and its scene more closely. Al-Qurtubi records that most read yakhrujuna, they come out, while as-Sulami, al-Mughira and al-A'sha from 'Asim read yukhrajuna, they are brought out. He takes sira'an as a word of state describing them as they emerge: hastening, when they hear the last cry, to answer the caller.",
+            "bn": "প্রতিশ্রুত দিনটি তাই সঙ্গে সঙ্গে একটা চেহারা পায়, আর সেই চেহারার প্রথম জিনিস হলো চলা। আজদাস শব্দটি জাদাস-এর বহুবচন, অর্থ কবর। তাবারী ও কুরতুবী দুজনেই তা উল্লেখ করেন। শব্দটি আর তার দৃশ্য নিয়ে ৫৪:৭ ও ৩৬:৫১-এর আলোচনায় বিস্তারিত কথা আছে। কুরতুবী জানান, অধিকাংশ পাঠে আছে ইয়াখরুজূন, তারা বের হবে। আর সুলামী, মুগীরা ও আ'শা আসিম থেকে পড়েছেন ইউখরাজূন, তাদের বের করা হবে। সিরাআন শব্দটিকে তিনি অবস্থাবাচক ধরেন: শেষ চিৎকার শুনে আহ্বানকারীর ডাকে সাড়া দিতে তারা ছুটে আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Word, Three Vowellings",
+          "bn": "নুসুব পড়ার তিন রীতি"
+        },
+        "p": [
+          {
+            "en": "The word at the centre is nusub, and the reports differ over how it was read. The text on this page, in the recitation of Hafs from 'Asim, has nusub, with both the nun and the sad carrying u. Al-Qurtubi says the general readership read nasb, with a on the nun and no vowel on the sad; that Ibn 'Amir and Hafs read nusub; and that 'Amr ibn Maymun, Abu Raja' and others read nusb. Al-Baghawi also names Ibn 'Amir and Hafs for nusub, and says the rest read nasb.",
+            "bn": "পুরো আয়াতের কেন্দ্রে একটি শব্দ: নুসুব। শব্দটি কীভাবে পড়া হয়েছে, তা নিয়ে বর্ণনাগুলো এক নয়। এই পাতায় যে পাঠ আছে, আসিম থেকে হাফসের রিওয়ায়াত, তাতে শব্দটি নুসুব: নূন ও সোয়াদ দুটোতেই পেশ। কুরতুবী বলেন, সাধারণ কারীরা পড়েছেন নাসব, নূনে যবর আর সোয়াদে সাকিন। ইবন আমির ও হাফস পড়েছেন নুসুব। আর আমর ইবন মাইমূন, আবূ রাজা ও অন্যরা পড়েছেন নুসব। বাগাভীও নুসুব পাঠের জন্য ইবন আমির ও হাফসের নাম নেন, আর বলেন বাকিরা পড়েছেন নাসব।"
+          },
+          {
+            "en": "Ibn Kathir and at-Tabari tell it another way. Ibn Kathir says the majority read nasb, a verbal noun meaning something set up, and that al-Hasan al-Basri read nusub, which he glosses as the idol. At-Tabari writes that the readers of the great cities agreed on the a-vowel, apart from al-Hasan, who is reported to have voweled both letters with u. Neither of them mentions Hafs at this point. The sources do not reconcile these accounts, and this article leaves them side by side rather than choosing between them.",
+            "bn": "ইবন কাসীর ও তাবারীর বর্ণনা আলাদা। ইবন কাসীর বলেন, অধিকাংশ কারী পড়েছেন নাসব, যা ক্রিয়াবাচক বিশেষ্য, অর্থ খাড়া করে রাখা জিনিস। আর হাসান বাসরী পড়েছেন নুসুব, যার অর্থ তিনি বলেন মূর্তি। তাবারী লেখেন, বড় বড় শহরের কারীরা যবরের উপর একমত ছিলেন, শুধু হাসান বাসরী ছাড়া। তাঁর সম্পর্কে বর্ণিত আছে যে তিনি দুই হরফেই পেশ দিতেন। এ জায়গায় তাঁদের কেউই হাফসের নাম নেননি। সূত্রগুলো এই বর্ণনাগুলোর মধ্যে মিল ঘটায় না। এই লেখাও কোনোটিকে বেছে না নিয়ে পাশাপাশি রেখে দিচ্ছে।"
+          },
+          {
+            "en": "What does the vowel change? At-Tabari explains both sides. Whoever read with a takes nasb as a verbal noun from nasabtu al-shay', I set the thing up, and, he says, their interpretation was: as if they were hurrying to an erected idol, sanam mansub. Whoever read with u on both letters takes it as the singular of ansab, which were their gods that they used to worship. In his account, then, the vowelling alone does not decide between a marker and an idol.",
+            "bn": "স্বরচিহ্ন বদলালে কী বদলায়? তাবারী দুই দিকই খুলে বলেন। যারা যবর দিয়ে পড়েছেন, তাঁরা নাসবকে ধরেছেন নাসাবতুশ শাই, অর্থাৎ আমি জিনিসটা খাড়া করলাম, এই কথার ক্রিয়াবাচক বিশেষ্য হিসেবে। আর তাবারী বলেন, তাঁদের কাছে এর ব্যাখ্যা ছিল এমন: তারা যেন খাড়া করে রাখা কোনো মূর্তির দিকে দ্রুত ছুটছে। যারা দুই হরফেই পেশ দিয়ে পড়েছেন, তাঁরা একে আনসাবের একবচন ধরেছেন। আনসাব ছিল তাদের সেই উপাস্য, যাদের তারা পূজা করত। তাঁর বর্ণনা অনুযায়ী তাই শুধু স্বরচিহ্ন দেখে চিহ্ন আর মূর্তির মধ্যে ফয়সালা হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stone, Banner and Affliction",
+          "bn": "পাথর, পতাকা আর কষ্ট"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gathers what the lexicographers say. Nasb and nusb, he writes, are two forms of one word, like da'f and du'f. From al-Jawhari he quotes: the nusb is what is set up and then worshipped besides Allah, and likewise nusub. He cites a line of al-A'sha warning against bowing to the erected nusb, and gives the plural as ansab. He adds that nusb also means hardship and affliction, as in the words of Ayyub (AS) in 38:41: Satan has touched me with hardship and torment.",
+            "bn": "অভিধানবিদরা কী বলেন, কুরতুবী তা এক জায়গায় জড়ো করেন। তাঁর মতে নাসব আর নুসব একই শব্দের দুই রূপ, যেমন দা'ফ আর দু'ফ। জাওহারী থেকে তিনি উদ্ধৃত করেন: নুসব হলো সেই জিনিস, যাকে খাড়া করে আল্লাহকে ছেড়ে পূজা করা হয়। নুসুবও একই অর্থে। খাড়া করা নুসবের সামনে মাথা নোয়াতে নিষেধ করে আ'শার একটি কবিতার লাইনও তিনি আনেন, আর বহুবচন বলেন আনসাব। তিনি আরও বলেন, নুসব মানে কষ্ট আর বিপদও। যেমন ৩৮:৪১-এ আইয়ুব (আঃ)-এর কথা: শয়তান আমাকে কষ্ট ও যন্ত্রণায় ফেলেছে।"
+          },
+          {
+            "en": "On number he reports al-Akhfash and al-Farra': nusub is the plural of nasb, as ruhun is of rahn, and ansab is then a plural of that plural. Others said nusub and ansab are the same, and others that nusub is the plural of nisab, a stone or idol on which animals were slaughtered, citing 5:3, what is slaughtered on an-nusub. He closes with an-Nahhas's report that nasb, nusb and nusub may share one meaning. The root holds a thing raised up and a thing worshipped side by side.",
+            "bn": "বচনের প্রশ্নে তিনি আখফাশ ও ফাররার মত জানান: নুসুব হলো নাসবের বহুবচন, যেমন রাহনের বহুবচন রুহুন। তাহলে আনসাব হয় সেই বহুবচনের আবার বহুবচন। কেউ বলেছেন নুসুব আর আনসাব একই। কেউ বলেছেন নুসুব হলো নিসাবের বহুবচন, অর্থাৎ এমন পাথর বা মূর্তি, যার উপর পশু জবাই করা হতো। প্রমাণ হিসেবে আসে ৫:৩, নুসুবের উপর যা জবাই করা হয়। শেষে তিনি নাহহাসের বর্ণনা আনেন: নাসব, নুসব ও নুসুব একই অর্থ বহন করতে পারে। একই ধাতুর মধ্যে তাই পাশাপাশি থাকে উঁচু করে রাখা জিনিস আর পূজার জিনিস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Marker Set Up Ahead",
+          "bn": "সামনে গেড়ে রাখা চিহ্ন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own gloss takes the raised marker: as though they were racing to an 'alam, a marker, set up for them. His chains carry the same from earlier authorities. Ibn 'Abbas (RA) and Qatada: to a marker they hasten. Ad-Dahhak: to a marker they set off. Sufyan: to a marker they race. Abu l-'Aliya puts it in the plural, to markers they race, and Yahya ibn Abi Kathir calls it a ghaya, a goal they race toward. At-Tabari adds that the people of interpretation said much as he did.",
+            "bn": "তাবারী নিজের ব্যাখ্যায় উঁচু করা চিহ্নের অর্থটিই নেন: তারা যেন পাল্লা দিয়ে ছুটছে এমন এক আলামের দিকে, অর্থাৎ চিহ্নের দিকে, যা তাদের জন্য খাড়া করে রাখা হয়েছে। তাঁর সনদগুলোও আগের আলিমদের কাছ থেকে একই কথা আনে। ইবন আব্বাস (রাঃ) ও কাতাদা: কোনো চিহ্নের দিকে তারা দ্রুত যায়। দাহহাক: চিহ্নের দিকে রওনা দেয়। সুফিয়ান: চিহ্নের দিকে পাল্লা দেয়। আবুল আলিয়া বহুবচনে বলেন, চিহ্নগুলোর দিকে তারা পাল্লা দেয়। ইয়াহইয়া ইবন আবী কাসীর একে বলেন গায়া, এমন লক্ষ্য যার দিকে তারা ছোটে। তাবারী যোগ করেন, তাফসীরের আলিমরাও তাঁর মতোই বলেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi has Ibn 'Abbas (RA) call the nusub a goal, the point you fix your sight upon, and al-Kalbi call it something set up, a marker or a banner. Al-Baghawi, on the a-reading, glosses it as something set up, citing the idiom fulan nasbu 'ayni, so-and-so is fixed before my eyes, and also gives al-Kalbi's marker and banner. As-Sa'di keeps to this line: as if they were heading and hastening to a marker. Ibn Kathir names Ibn 'Abbas, Mujahid and ad-Dahhak for the marker, and Abu l-'Aliya and Yahya for the goal.",
+            "bn": "কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) নুসুবকে বলেন গায়া, এমন লক্ষ্য যার দিকে দৃষ্টি স্থির করে রাখা হয়। আর কালবী বলেন, খাড়া করা কোনো জিনিস, চিহ্ন অথবা পতাকা। যবরের পাঠ ধরে বাগাভী এর অর্থ করেন খাড়া করা জিনিস। সঙ্গে আরবি বাগধারা আনেন, ফুলানুন নাসবু আইনী, অমুক আমার চোখের সামনে স্থির হয়ে আছে। কালবীর চিহ্ন ও পতাকার কথাও তিনি উল্লেখ করেন। সা'দীও এ ধারায় থাকেন: যেন তারা কোনো চিহ্নের দিকে মুখ করে দ্রুত চলেছে। ইবন কাসীর চিহ্নের অর্থের জন্য নাম নেন ইবন আব্বাস, মুজাহিদ ও দাহহাকের, আর লক্ষ্যের অর্থের জন্য আবুল আলিয়া ও ইয়াহইয়ার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stones They Once Ran To",
+          "bn": "যে পাথরের দিকে ছুটত"
+        },
+        "p": [
+          {
+            "en": "The second reading turns the marker into an idol. Ibn Zayd, in at-Tabari, says the nusub were stones they used to worship, tall stones called nusub. He adds a picture from before Islam: the people of the Jahiliyya revered such stones and came to them, and a man would carry one with him, and if he saw a finer one he took it and threw the first away. At-Tabari's report then closes with the words of 16:76, about one who is a burden on his master and brings no good wherever he is sent.",
+            "bn": "দ্বিতীয় পাঠে চিহ্নটি হয়ে যায় মূর্তি। তাবারীর বর্ণনায় ইবন যায়দ বলেন, নুসুব ছিল সেই পাথর যার তারা পূজা করত, লম্বা লম্বা পাথর, যাদের নাম ছিল নুসুব। তিনি ইসলামের আগের একটা ছবিও দেন। জাহিলিয়্যাতের লোকেরা এমন পাথরকে সম্মান করত, তার কাছে যেত। কেউ কেউ একটা পাথর সঙ্গে নিয়ে ঘুরত। এর চেয়ে সুন্দর কোনোটা চোখে পড়লে সেটা তুলে নিত, আর আগেরটা ফেলে দিত। তাবারীর এই বর্ণনা শেষ হয় ১৬:৭৬-এর কথায়: যে তার মালিকের উপর বোঝা, তাকে যেখানেই পাঠানো হোক, কোনো কল্যাণ নিয়ে আসে না।"
+          },
+          {
+            "en": "Al-Hasan al-Basri supplies the rush itself. In two chains in at-Tabari he says: they race to their nusub, each trying to be the first to touch it. Al-Baghawi gives the same from al-Hasan. Al-Qurtubi's version adds the hour: when the sun rose they would race to the nusub they worshipped besides Allah, the first of them not waiting for the last. Al-Baghawi also reports that Muqatil and al-Kisa'i, on the u-reading, took it as their idols worshipped besides Allah.",
+            "bn": "দৌড়ের ছবিটা দেন হাসান বাসরী। তাবারীতে দুটি সনদে তাঁর কথা আছে: তারা তাদের নুসুবের দিকে পাল্লা দিয়ে ছুটত, কে আগে তা ছোঁবে। বাগাভীও হাসান থেকে একই কথা আনেন। কুরতুবীর বর্ণনায় সময়টাও আছে। সূর্য উঠলেই তারা ছুটত সেই নুসুবের দিকে, আল্লাহকে বাদ দিয়ে যার পূজা করত। সামনের জন পেছনের জনের জন্য থামত না। বাগাভী আরও জানান, পেশের পাঠ ধরে মুকাতিল ও কিসাঈ এর অর্থ করেছেন তাদের মূর্তি, আল্লাহকে ছেড়ে যাদের পূজা করা হতো।"
+          },
+          {
+            "en": "Ibn Kathir closes by listing those from whom the idol reading is reported: Mujahid, Yahya ibn Abi Kathir, Muslim al-Batin, Qatada, ad-Dahhak, ar-Rabi' ibn Anas, Abu Salih, 'Asim ibn Bahdala, Ibn Zayd and others. Several of these names also appear, in at-Tabari's chains and in Ibn Kathir's own lines just before, with the marker gloss. The sources do not explain the overlap, and this article does not try to. Ibn Kathir sets both meanings down and calls neither of them mistaken.",
+            "bn": "ইবন কাসীর শেষে তাঁদের নাম দেন, যাঁদের কাছ থেকে মূর্তির অর্থটি বর্ণিত: মুজাহিদ, ইয়াহইয়া ইবন আবী কাসীর, মুসলিম আল-বাতীন, কাতাদা, দাহহাক, রাবী ইবন আনাস, আবূ সালিহ, আসিম ইবন বাহদালা, ইবন যায়দ ও আরও অনেকে। এদের কয়েকজনের নাম আবার চিহ্নের অর্থের সঙ্গেও এসেছে, তাবারীর সনদে এবং ইবন কাসীরের নিজের আগের লাইনে। এই মিল কেন, সূত্রগুলো তা ব্যাখ্যা করে না, আর এই লেখাও সে চেষ্টা করবে না। ইবন কাসীর দুটি অর্থই লিখে রাখেন, কোনোটিকে ভুল বলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Old Rush, Turned Around",
+          "bn": "পুরোনো দৌড়, নতুন গন্তব্য"
+        },
+        "p": [
+          {
+            "en": "On the idol reading, two of the commentaries draw a likeness between two runs. Ibn Kathir: as if, in their hurrying to the standing-place, they were as they used to be in this world, trotting to the nusub when they caught sight of it, racing to be first to touch it. Al-Muyassar, which reads 70:42 to 70:44 together, says they come out of the graves hurrying, just as in this world they went to the gods they had invented to worship besides Allah, trotting and hastening.",
+            "bn": "মূর্তির পাঠ ধরে দুটি তাফসীর দুই দৌড়ের মধ্যে মিল দেখায়। ইবন কাসীর বলেন, হাশরের ময়দানের দিকে তাদের ছুটে চলা যেন দুনিয়ার সেই ছোটার মতো, যখন নুসুব চোখে পড়লেই তারা তার দিকে দৌড়াত, কে আগে ছোঁবে সেই পাল্লায়। মুয়াসসার ৭০:৪২ থেকে ৭০:৪৪ একসঙ্গে পড়ে। সেখানে বলা হয়েছে, তারা কবর থেকে বের হবে তাড়াহুড়া করে, ঠিক যেমন দুনিয়ায় তারা আল্লাহকে ছেড়ে নিজেদের বানানো উপাস্যের কাছে যেত, দ্রুত পায়ে, ছুটে ছুটে।"
+          },
+          {
+            "en": "The likeness is theirs, and it is drawn in few words: in their telling, the speed of the Day recalls a speed these people already knew, now spent on a summons they cannot refuse. At-Tabari, whose own gloss is the marker, does not draw it, and neither does as-Sa'di. The reader holds it as one reading among those the sources give. The verse describes the deniers addressed in 70:42 and their Day; it licenses nothing against any living person or community, and gives no one the standing to say who among the living will run that way.",
+            "bn": "মিলটা তাফসীরকারদের, আর তাঁরা তা টেনেছেন অল্প কথায়। তাঁদের বর্ণনায় সেই দিনের গতি মনে করিয়ে দেয় এমন এক গতি, যা এই লোকেরা আগে থেকেই চিনত। তফাত এই যে এবার সেই গতি খরচ হচ্ছে এমন ডাকে, যা ফেরানোর উপায় নেই। তাবারী নিজে চিহ্নের অর্থ নেন, তিনি এই মিল টানেন না। সা'দীও টানেন না। পাঠক তাই একে সূত্রগুলোর দেওয়া কয়েকটি ব্যাখ্যার একটি হিসেবেই ধরবেন। আয়াতটি ৭০:৪২-এ সম্বোধিত অস্বীকারকারীদের আর তাদের দিনের বর্ণনা দেয়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। জীবিতদের মধ্যে কে এভাবে দৌড়াবে, সে কথা বলার অধিকারও এটি কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hastening Without a Detour",
+          "bn": "পাশ কাটানোর পথ নেই"
+        },
+        "p": [
+          {
+            "en": "Yufidun closes the verse. At-Tabari says al-ifad is al-isra', hurrying, and supports it with a rajaz line describing a fast-running ostrich, mifad, that goes out seeking shelter, and with a line of Ru'ba. Mujahid, in his chain, glosses yufidun as yastabiqun, they race one another. Al-Qurtubi and al-Baghawi give yusri'un, they hurry, and Ibn Kathir's Arabic has yabtadirun, they rush to be first. Every source consulted agrees that the word is about speed.",
+            "bn": "আয়াত শেষ হয় ইউফিদূন শব্দে। তাবারী বলেন, ঈফাদ মানে ইসরা, অর্থাৎ তাড়াহুড়া। প্রমাণে তিনি আনেন রাজায ছন্দের একটি লাইন, যেখানে দ্রুতগামী এক উটপাখির কথা আছে, যে আশ্রয় খুঁজতে বেরোয়। রু'বার একটি লাইনও তিনি উদ্ধৃত করেন। মুজাহিদ তাঁর সনদে ইউফিদূনের অর্থ বলেন ইয়াসতাবিকূন, তারা একে অন্যের সঙ্গে পাল্লা দেয়। কুরতুবী ও বাগাভী বলেন ইউসরিঊন, তারা দ্রুত চলে। আর ইবন কাসীরের আরবিতে আছে ইয়াবতাদিরূন, তারা আগে পৌঁছাতে ছোটে। যত সূত্র দেখা হয়েছে, সবাই একমত যে শব্দটি গতির কথা বলে।"
+          },
+          {
+            "en": "Al-Qurtubi adds a point from al-Layth: wafadat al-ibil, the camels sped, and awfadaha their owner, he drove them fast. So ifad can take an object, while in the verse it takes none: they themselves hasten. Wafada, awfada and istawfada, he says, all mean to hurry. The speed is theirs, yet as-Sa'di shows it is not freedom. They cannot hold out against the caller or twist away from his call, he writes; they come humbled and overpowered, to stand before the Lord of the worlds.",
+            "bn": "কুরতুবী লাইস থেকে একটি সূক্ষ্ম কথা যোগ করেন। ওয়াফাদাতিল ইবিল মানে উটগুলো দ্রুত ছুটল। আর আওফাদাহা সাহিবুহা মানে মালিক তাদের দ্রুত হাঁকাল। অর্থাৎ ঈফাদ কর্ম নিতে পারে, অথচ আয়াতে কোনো কর্ম নেই: তারা নিজেরাই ছুটছে। তাঁর মতে ওয়াফাদা, আওফাদা আর ইসতাওফাদা, তিনটিরই অর্থ দ্রুত চলা। গতিটা তাদের নিজেদের, তবু সা'দী দেখান যে এতে স্বাধীনতা নেই। তিনি লেখেন, আহ্বানকারীকে অমান্য করার বা তার ডাক এড়িয়ে বেঁকে যাওয়ার সাধ্য তাদের থাকবে না। তারা আসবে লাঞ্ছিত ও পরাভূত অবস্থায়, জগতসমূহের রবের সামনে দাঁড়ানোর জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eyes Lowered at the Finish",
+          "bn": "দৌড়ের শেষে নিচু চোখ"
+        },
+        "p": [
+          {
+            "en": "The run ends in the next verse: their eyes humbled, humiliation covering them; that is the Day they had been promised. Al-Muyassar renders it as gazes abased and broken toward the ground, with lowliness and disgrace covering them, on the Day promised them in this world, which they used to mock and deny. Ibn Kathir's abridged English reads the humiliation as a return for their arrogance in refusing obedience. The phrase tarhaquhum dhillah is looked at more closely under 68:43. With 70:44 the surah ends, on the same promised Day that 70:42 left them waiting for.",
+            "bn": "দৌড় শেষ হয় পরের আয়াতে: তাদের চোখ অবনত, লাঞ্ছনা তাদের ঢেকে ফেলবে। এটাই সেই দিন, যার ওয়াদা তাদের দেওয়া হতো। মুয়াসসার বলে, তাদের দৃষ্টি হবে নিচু, মাটির দিকে ভেঙে পড়া, হীনতা আর অপমান তাদের ঢেকে রাখবে। এ সেই দিন, দুনিয়ায় যার ওয়াদা তাদের দেওয়া হয়েছিল, আর তারা তা নিয়ে ঠাট্টা করত, মিথ্যা বলত। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই লাঞ্ছনাকে দেখে দুনিয়ায় আনুগত্য অস্বীকারের অহংকারের প্রতিফল হিসেবে। তারহাকুহুম যিল্লাহ কথাটি নিয়ে বিস্তারিত আলোচনা আছে ৬৮:৪৩-এ। ৭০:৪৪ দিয়েই সূরাটি শেষ হয়, সেই প্রতিশ্রুত দিনে, যার অপেক্ষায় ৭০:৪২ তাদের রেখে গিয়েছিল।"
+          },
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it or names an occasion of revelation, and this article adds neither. What they do give is enough to sit with. Whatever the nusub was, a banner raised ahead or a stone once revered, the people in the verse are fast; speed was never what they lacked. The verse leaves its reader, still on this side of that Day, with a quieter question: what do I hurry toward each morning, and does it answer when I reach it?",
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদিস যুক্ত করে না, নাযিলের কোনো উপলক্ষও বলে না। এই লেখাও তাই কোনোটা যোগ করছে না। তাঁরা যা দিয়েছেন, ভাবার জন্য তা-ই যথেষ্ট। নুসুব যা-ই হোক, সামনে উঁচু করা পতাকা কিংবা একসময়ের পূজিত পাথর, আয়াতের মানুষগুলো দ্রুতগামী। গতির অভাব তাদের কখনো ছিল না। সেই দিনের এপারে দাঁড়িয়ে থাকা পাঠকের জন্য আয়াতটি রেখে যায় শান্ত একটি প্রশ্ন: প্রতিদিন সকালে আমি কিসের দিকে ছুটি, আর সেখানে পৌঁছালে সে কি আমার ডাকে সাড়া দেয়?"
+          }
+        ]
+      }
+    ]
   }
 });

@@ -28727,6 +28727,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Panic in hardship and a tight hand in plenty are a pull in human nature, not a fate; name it in yourself and answer it with patience, prayer and giving.",
     "lessonBn": "বিপদে অস্থিরতা আর প্রাচুর্যে হাতটান মানুষের স্বভাবের এক টান, নিয়তি নয়। নিজের মধ্যে তাকে চিনে নিন, আর সবর, নামায ও দানের মাধ্যমে তার জবাব দিন।"
+  },
+  "70:43": {
+    "reflectionEn": "The graves open and they come out fast, the verse says, as if racing toward a nusub. Some early commentators heard in that word a marker set up ahead, a banner people run for. Others heard the standing stones once rushed to before Islam, each worshipper trying to touch one first. Either way the run is quick, and the next verse shows how it ends: eyes lowered, humiliation covering them, on the Day they were promised. Speed was never what they lacked. They knew how to hurry. The question the verse leaves with me is what I am hurrying toward now, while the direction of the run is still mine to choose.",
+    "reflectionBn": "কবর খুলে যায়, আর তারা বেরিয়ে আসে দ্রুত, যেন কোনো নুসুবের দিকে ছুটছে। আগের যুগের কিছু তাফসীরকার এ শব্দে শুনেছেন সামনে গেড়ে রাখা কোনো চিহ্ন, এমন পতাকা যার দিকে মানুষ দৌড়ায়। অন্যরা শুনেছেন সেই খাড়া পাথরগুলোর কথা, ইসলামের আগে লোকে যেগুলোর দিকে ছুটত, কে আগে ছোঁবে সেই পাল্লায়। যেভাবেই পড়ি, দৌড়টা দ্রুত। আর পরের আয়াত দেখিয়ে দেয় তার শেষ কোথায়: দৃষ্টি নিচু, লাঞ্ছনা তাদের ঢেকে ফেলেছে, যে দিনের ওয়াদা তাদের দেওয়া হয়েছিল সেই দিনে। গতির অভাব তাদের ছিল না। তাড়াহুড়া তারা ভালোই জানত। আয়াতটি আমার সামনে যে প্রশ্ন রেখে যায় তা হলো, আমি এখন কিসের দিকে ছুটছি, যখন দৌড়ের দিক বেছে নেওয়ার সুযোগ এখনো আমার হাতে?",
+    "pointsEn": [
+      "What do I run toward without being asked, and what do I only walk toward when I am called?",
+      "If someone watched one ordinary day of mine, which marker would they see me racing to?",
+      "Where has my habit of hurrying served something that can neither hear me nor answer me?",
+      "When the call to prayer comes, how quickly do I rise compared with when my phone calls me?",
+      "What would it take for me to set out toward what I was promised before that Day sets me running?"
+    ],
+    "pointsBn": [
+      "কোন জিনিসের দিকে আমি কেউ না বললেও দৌড়াই, আর কোনটার দিকে ডাক এলে তবেই ধীরে পা বাড়াই?",
+      "কেউ যদি আমার একটা সাধারণ দিন চুপচাপ দেখে, সে আমাকে কোন চিহ্নের দিকে ছুটতে দেখবে?",
+      "আমার তাড়াহুড়ার অভ্যাস কোথায় এমন কিছুর সেবা করেছে, যা আমার কথা শোনেও না, জবাবও দেয় না?",
+      "আজানের ডাক এলে আমি কত তাড়াতাড়ি উঠি, আর ফোন বেজে উঠলে কত তাড়াতাড়ি?",
+      "সেই দিন আমাকে দৌড়াতে বাধ্য করার আগেই প্রতিশ্রুত গন্তব্যের দিকে রওনা দিতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Everyone will hurry on that Day. Choose now what you hurry toward, so that the run you make then ends a road you chose yourself.",
+    "lessonBn": "সেই দিন সবাই দৌড়াবে। কিসের দিকে ছুটবেন তা এখনই বেছে নিন, যাতে তখনকার দৌড়টা হয় নিজের বেছে নেওয়া পথেরই শেষ মাথা।"
   }
 };
 
