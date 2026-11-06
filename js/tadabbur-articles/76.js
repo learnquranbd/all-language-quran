@@ -898,5 +898,157 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "76:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Verses From the End",
+          "bn": "শেষ থেকে তিন আয়াত আগে"
+        },
+        "p": [
+          {
+            "en": "Surat al-Insan has thirty-one verses, and this is the twenty-ninth. Its last stretch turns from the reward of the righteous to the Prophet ﷺ himself: the Qur'an sent down to him in stages (76:23), patience for his Lord's decision and no obedience to a sinner or an ungrateful man among them (76:24), his Lord's name morning and evening (76:25), and prostration and long glorification by night (76:26). Then 76:27 turns to those who love the immediate and leave a heavy Day behind them, and 76:28 reminds them who created them.",
+            "bn": "সূরা আল-ইনসানের আয়াত একত্রিশটি, এটি উনত্রিশতম। সূরার শেষ অংশ নেককারদের পুরস্কারের কথা ছেড়ে সরাসরি নবী ﷺ-এর দিকে ফেরে। তাঁর উপর কুরআন নাযিল হয়েছে ধাপে ধাপে (৭৬:২৩)। রবের ফয়সালার জন্য তাঁকে সবর করতে হবে, ওদের মধ্যকার কোনো পাপী বা নাশোকরের কথা মানা চলবে না (৭৬:২৪)। সকাল-সন্ধ্যায় রবের নাম স্মরণ করতে হবে (৭৬:২৫), রাতে সিজদা আর দীর্ঘ তাসবীহ করতে হবে (৭৬:২৬)। এরপর ৭৬:২৭ ফেরে তাদের দিকে, যারা নগদ দুনিয়াকে ভালোবাসে আর ভারী এক দিনকে পেছনে ফেলে রাখে। ৭৬:২৮ তাদের মনে করিয়ে দেয়, কে তাদের সৃষ্টি করেছেন।"
+          },
+          {
+            "en": "Those verses describe a group of deniers in the Prophet's ﷺ time; they license nothing against any living person or community. On 76:28, and when We will We can replace them, Ibn Kathir records two readings: that Allah will raise them again in a new form, or, from Ibn Zayd and Ibn Jarir, that He can bring another people in their place. Either way, the verse just before this speaks of what Allah wills.",
+            "bn": "ওই আয়াতগুলো নবী ﷺ-এর যুগের একদল অস্বীকারকারীর বর্ণনা দেয়। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো অনুমতি দেয় না। ৭৬:২৮-এর কথা, আমি যখন চাইব তাদের বদলে দেব, এর দুটি ব্যাখ্যা ইবন কাসীর উল্লেখ করেন। এক, আল্লাহ তাদের নতুন আকারে আবার জীবিত করবেন। দুই, ইবন যায়দ ও ইবন জারীরের মতে, তিনি তাদের জায়গায় অন্য এক জাতি নিয়ে আসতে পারেন। যে ব্যাখ্যাই ধরা হোক, এর ঠিক আগের আয়াতটি আল্লাহর চাওয়ার কথাই বলে।"
+          },
+          {
+            "en": "The nine Arabic words of 76:29 stand word for word at 73:19 in Surat al-Muzzammil. There too the surah had earlier commanded prayer by night (73:1 to 73:4), a passage Ibn Kathir sets beside 76:26. But the neighbours differ. At 73:19 the words lead into 73:20, the long verse that lightens the night prayer. Here they lead into 76:30, on the will, and 76:31, on whom Allah admits into His mercy, which closes the surah. What follows reads the verse in al-Insan's own setting, between those two.",
+            "bn": "৭৬:২৯-এর নয়টি আরবি শব্দ হুবহু আছে সূরা আল-মুযযাম্মিলের ৭৩:১৯ আয়াতে। সেখানেও সূরার শুরুতে রাতের নামাযের হুকুম এসেছিল (৭৩:১ থেকে ৭৩:৪)। ইবন কাসীর ৭৬:২৬-এর আলোচনায় সে অংশটিই পাশে এনেছেন। তবে দুই জায়গায় প্রতিবেশী আয়াত আলাদা। ৭৩:১৯-এর পরে আসে ৭৩:২০, সেই দীর্ঘ আয়াত যা রাতের নামাযের ভার হালকা করে। আর এখানে পরে আসে ৭৬:৩০, ইচ্ছার কথা নিয়ে, তারপর ৭৬:৩১, আল্লাহ কাকে রহমতে প্রবেশ করান সে কথা নিয়ে, যা দিয়ে সূরা শেষ হয়। এ লেখা আয়াতটিকে পড়বে আল-ইনসানের নিজের প্রেক্ষাপটে, এ দুই আয়াতের মাঝখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hadhihi, This Surah",
+          "bn": "হাযিহী, অর্থাৎ এই সূরা"
+        },
+        "p": [
+          {
+            "en": "Inna hadhihi tadhkiratun: indeed, this is a reminder. The commentators fetched for this verse say what this points to. Ibn Kathir, al-Qurtubi and al-Baghawi each gloss it as this surah, and so does the Muyassar. At-Tabari says the same and supports it with a chain to Qatada: indeed, this surah is a reminder. The demonstrative is feminine, hadhihi, where 76:22, indeed this is a reward for you, used the masculine hadha. Sura is itself a feminine noun in Arabic, which sits easily with their gloss.",
+            "bn": "ইন্না হাযিহী তাযকিরাহ: নিশ্চয়ই এ এক উপদেশ। এই বলতে কী বোঝানো হয়েছে, এ আয়াতের যেসব তাফসীর দেখা হয়েছে সেগুলো তা স্পষ্ট করে বলে। ইবন কাসীর, কুরতুবী ও বাগাভী তিনজনই বলেন, এই সূরা। মুয়াসসারও তা-ই বলে। তাবারীও একই কথা বলেন, আর কাতাদা পর্যন্ত সনদ দিয়ে তা সমর্থন করেন: নিশ্চয়ই এই সূরা এক উপদেশ। এখানে ইঙ্গিতবাচক শব্দটি স্ত্রীলিঙ্গ, হাযিহী। অথচ ৭৬:২২-এ, এ তোমাদের প্রতিদান, সেখানে এসেছিল পুংলিঙ্গ হাযা। আরবিতে সূরা শব্দটি নিজেও স্ত্রীলিঙ্গ, তাই তাফসীরকারদের ব্যাখ্যার সঙ্গে তা সহজেই মেলে।"
+          },
+          {
+            "en": "On the word tadhkirah the glosses gather around admonition. Al-Qurtubi calls it maw'izah, an admonition; al-Baghawi pairs reminding with admonition; the Muyassar calls the surah an admonition to the worlds. At-Tabari widens it by naming who receives it: a reminder for whoever takes reminder, takes admonition and takes a lesson. As-Sa'di explains it from the reader's side. The believer is reminded by it, he says, and benefits from what it holds of warning, takhwif, and of encouragement, targhib.",
+            "bn": "তাযকিরাহ শব্দের ব্যাখ্যাগুলো এসে মেলে নসীহতের কাছে। কুরতুবী একে বলেন মাওইযাহ, অর্থাৎ নসীহত। বাগাভী স্মরণ করানো আর নসীহত দুটোকে একসঙ্গে রাখেন। মুয়াসসার বলে, এ সূরা জগদ্বাসীর জন্য নসীহত। তাবারী কথাটা খুলে দেন কে তা গ্রহণ করে তা বলে: যে উপদেশ নেয়, নসীহত মানে আর শিক্ষা গ্রহণ করে, তার জন্য এ এক উপদেশ। সা'দী ব্যাখ্যা করেন পাঠকের দিক থেকে। তাঁর কথায়, মুমিন এর দ্বারা উপদেশ পায় আর এর ভেতরের ভয় দেখানো, তাখবীফ, ও আগ্রহ জাগানো, তারগীব, দুটো থেকেই উপকৃত হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Road, Several Names",
+          "bn": "এক পথ, নানা নাম"
+        },
+        "p": [
+          {
+            "en": "Fa-man sha'a ittakhadha ila rabbihi sabilan: so whoever wills may take to his Lord a way. Ibn Kathir glosses sabil with two near-synonyms, tariq and maslak, a road and a path, and then gives the sense: whoever wills is guided by the Qur'an. He sets beside it 4:39, and what harm would come to them if they believed in Allah and the Last Day and spent from what Allah provided for them?",
+            "bn": "ফামান শা-আত্তাখাযা ইলা রব্বিহী সাবীলা: কাজেই যার ইচ্ছে, সে তার রবের দিকে পথ ধরুক। ইবন কাসীর সাবীল শব্দের অর্থ দেন কাছাকাছি দুটি শব্দে, তারীক ও মাসলাক, অর্থাৎ রাস্তা ও পথ। তারপর মর্ম বলেন: যে চায়, সে কুরআন দিয়ে হিদায়াত পায়। পাশে আনেন ৪:৩৯: তারা যদি আল্লাহ ও শেষ দিবসে ঈমান আনত আর আল্লাহর দেওয়া রিযক থেকে খরচ করত, তাতে তাদের কী ক্ষতি হত?"
+          },
+          {
+            "en": "Al-Qurtubi gives three glosses. First, a road that leads to obeying Him and seeking His pleasure. Then, under it is said, two more: wasilah, a means, and a direction and road to Paradise. He closes with a short remark: the meaning is one. Al-Baghawi has the sense of a means as well, and says what it is made of: a means through obedience. So in both, the way is not a feeling about Allah but something done, a practice that carries a person somewhere.",
+            "bn": "কুরতুবী তিনটি ব্যাখ্যা দেন। প্রথমটি: এমন পথ, যা তাঁর আনুগত্য আর তাঁর সন্তুষ্টি খোঁজার দিকে পৌঁছে দেয়। তারপর 'বলা হয়েছে' বলে আরও দুটি আনেন: ওয়াসীলা, অর্থাৎ মাধ্যম, আর জান্নাতের দিকে মুখ ফেরানো ও তার পথ। শেষে ছোট্ট মন্তব্য: অর্থ একটাই। বাগাভীও মাধ্যমের অর্থ নেন, আর বলে দেন মাধ্যমটা কী দিয়ে তৈরি: আনুগত্যের মাধ্যম। দুজনের কাছেই পথ তাই আল্লাহর প্রতি নিছক কোনো অনুভূতি নয়। পথ মানে কিছু করা, এমন আমল যা মানুষকে কোথাও নিয়ে যায়।"
+          },
+          {
+            "en": "At-Tabari names the destination as the pleasure of his Lord, reached by working in obedience to Him and stopping where His command and His prohibition set the limit. The Muyassar says that whoever wants good for himself in this world and the next takes, through faith and taqwa, a road that brings him to Allah's forgiveness and His pleasure. As-Sa'di: a road that reaches Him. The readings name obedience, pleasure, Paradise and forgiveness, and al-Qurtubi's own remark, the meaning is one, is how he holds his together.",
+            "bn": "তাবারী গন্তব্যের নাম দেন রবের সন্তুষ্টি। সেখানে পৌঁছানো যায় তাঁর আনুগত্যের আমল করে, আর তাঁর আদেশ-নিষেধ যেখানে সীমা টানে সেখানে থেমে গিয়ে। মুয়াসসার বলে, দুনিয়া ও আখিরাতে যে নিজের ভালো চায়, সে ঈমান ও তাকওয়ার মাধ্যমে এমন পথ ধরে যা তাকে আল্লাহর মাগফিরাত আর সন্তুষ্টির কাছে পৌঁছে দেয়। সা'দী বলেন: এমন পথ, যা তাঁর কাছে পৌঁছায়। ব্যাখ্যাগুলোতে নাম আসে আনুগত্য, সন্তুষ্টি, জান্নাত আর মাগফিরাতের। কুরতুবীর নিজের মন্তব্য, অর্থ একটাই, এভাবেই তিনি নিজের ব্যাখ্যাগুলো এক সুতোয় বাঁধেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shown at the Opening, Taken Here",
+          "bn": "শুরুতে দেখানো, এখানে ধরা"
+        },
+        "p": [
+          {
+            "en": "The word sabil has been in this surah before. 76:2 says that man was created from a mixed drop so that he might be tested, and was made hearing and seeing. 76:3 then says: indeed, We guided him to the way, al-sabil, be he grateful or ungrateful. At the opening the way is definite, the way, and Allah is the one who shows it. Near the close it is indefinite, a way, and the one who takes it is whoever wills, taking it to his Lord.",
+            "bn": "সাবীল শব্দটি এ সূরায় আগেও এসেছে। ৭৬:২ বলে, মানুষকে মিশ্রিত শুক্রবিন্দু থেকে সৃষ্টি করা হয়েছে তাকে পরীক্ষা করার জন্য, আর তাকে করা হয়েছে শ্রবণশক্তি ও দৃষ্টিশক্তির অধিকারী। তারপর ৭৬:৩: আমি তাকে পথ দেখিয়েছি, আস-সাবীল, হয় সে শোকরগুজার হবে, নয়তো নাশোকর। সূরার শুরুতে পথ নির্দিষ্ট, সেই পথ, আর তা দেখান আল্লাহ নিজে। শেষের কাছে এসে পথ অনির্দিষ্ট, একটি পথ। আর তা ধরে সে-ই, যে চায়। ধরে তার রবের দিকে।"
+          },
+          {
+            "en": "A second word from that opening also returns. Kafur, ungrateful, names in 76:3 the person who turns from the way, and 76:24 forbids the Prophet ﷺ to obey any athim aw kafur, sinner or ungrateful, among the deniers. As-Sa'di's words on 76:29 run close to 76:3: Allah makes truth and guidance plain, then gives people the choice between being guided by it and turning from it, with the proof established against them. No commentary fetched here draws the link between the two verses.",
+            "bn": "শুরুর আরেকটি শব্দও ফিরে আসে। ৭৬:৩-এ কাফূর, অর্থাৎ নাশোকর, সেই মানুষের নাম যে পথ থেকে মুখ ফেরায়। আর ৭৬:২৪ নবী ﷺ-কে নিষেধ করে অস্বীকারকারীদের মধ্যকার কোনো আসিম বা কাফূর, পাপী বা নাশোকরের কথা মানতে। ৭৬:২৯ নিয়ে সা'দীর কথা ৭৬:৩-এর খুব কাছাকাছি। তিনি বলেন, আল্লাহ সত্য আর হিদায়াত স্পষ্ট করে দেন, তারপর মানুষকে বেছে নিতে দেন: হয় তা দিয়ে হিদায়াত পাবে, নয়তো মুখ ফিরিয়ে নেবে। আর তাদের বিরুদ্ধে প্রমাণ দাঁড়িয়েই থাকে। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই দুই আয়াতের মধ্যে এ যোগসূত্র টানেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Answer in 76:30",
+          "bn": "৭৬:৩০-এ এল জবাব"
+        },
+        "p": [
+          {
+            "en": "Then 76:30: wa ma tasha'una illa an yasha'a Allah, and you do not will except that Allah wills. Al-Qurtubi quotes the grammarian al-Farra: this answers whoever wills may take to his Lord a way; then He told them that the matter is not theirs, and that they do not will that way unless Allah wills it for them. At-Tabari reads it the same way: you do not will to take the way to your Lord unless Allah wills that for you, because the matter is His and not yours.",
+            "bn": "তারপর ৭৬:৩০: ওয়া মা তাশা-ঊনা ইল্লা আঁই ইয়াশা-আল্লাহ, আল্লাহ না চাইলে তোমরা চাইতে পারো না। কুরতুবী ব্যাকরণবিদ ফাররার কথা উদ্ধৃত করেন: এটি 'যার ইচ্ছে সে তার রবের দিকে পথ ধরুক' কথাটির জবাব। এরপর আল্লাহ তাদের জানিয়ে দিলেন, বিষয়টা তাদের হাতে নয়। আল্লাহ তাদের জন্য সে পথ না চাইলে তারা তা চাইতে পারে না। তাবারীও একইভাবে পড়েন: তোমাদের রবের দিকে পথ ধরতে তোমরা চাইতে পারো না, যতক্ষণ না আল্লাহ তোমাদের জন্য তা চান। কারণ বিষয়টা তাঁর হাতে, তোমাদের হাতে নয়।"
+          },
+          {
+            "en": "Al-Baghawi: you do not will except by the will of Allah, because the matter is His. Al-Qurtubi names what the willing is of, in his own gloss: obedience, steadfastness and taking the way to Allah; no one's will takes effect or comes first unless His will comes first. The Muyassar makes it general: you do not want any matter at all except by Allah's decree and His will. As-Sa'di: the will of Allah is effective, nafidhah.",
+            "bn": "বাগাভী বলেন: আল্লাহর ইচ্ছা ছাড়া তোমরা চাইতে পারো না, কারণ বিষয়টা তাঁর। কুরতুবী নিজের ব্যাখ্যায় বলে দেন কী চাওয়ার কথা হচ্ছে: আনুগত্য, অবিচল থাকা আর আল্লাহর দিকে পথ ধরা। তাঁর কথায়, কারও ইচ্ছা কার্যকর হয় না, আগেও যায় না, যদি না আল্লাহর ইচ্ছা আগে যায়। মুয়াসসার কথাটা সব বিষয়ে ছড়িয়ে দেয়: আল্লাহর তাকদীর আর ইচ্ছা ছাড়া তোমরা কোনো কিছুই চাও না। সা'দী বলেন: আল্লাহর ইচ্ছা কার্যকর, নাফিযাহ।"
+          },
+          {
+            "en": "At-Tabari adds a variant wording: in the reading of Abdullah, as it has been mentioned, the clause runs wa ma tasha'una illa ma sha'a Allah, and you do not will except what Allah wills. Al-Qurtubi and al-Baghawi record a difference in the verb's first letter. Some read yasha'una, they will, as a report about them; the rest read tasha'una, you will, as direct address. For the first, al-Qurtubi names the reciters Ibn Kathir and Abu Amr; al-Baghawi names Ibn Kathir, Ibn Amir and Abu Amr.",
+            "bn": "তাবারী একটি ভিন্ন শব্দরূপও উল্লেখ করেন। যেমনটা বর্ণিত আছে, আবদুল্লাহর কিরাআতে বাক্যটি এমন: ওয়া মা তাশা-ঊনা ইল্লা মা শা-আল্লাহ, আল্লাহ যা চান তা ছাড়া তোমরা কিছু চাও না। কুরতুবী ও বাগাভী ক্রিয়ার প্রথম অক্ষরে একটি পার্থক্য উল্লেখ করেন। কেউ কেউ পড়েন ইয়াশা-ঊন, তারা চায়, তাদের সম্পর্কে খবর হিসেবে। বাকিরা পড়েন তাশা-ঊন, তোমরা চাও, সরাসরি সম্বোধন হিসেবে। প্রথম পাঠের জন্য কুরতুবী নাম নেন কারী ইবন কাসীর ও আবু আমরের। বাগাভী নাম নেন ইবন কাসীর, ইবন আমির ও আবু আমরের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lifted, or Explained?",
+          "bn": "মানসূখ, নাকি ব্যাখ্যা?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records one more view and answers it. It is said, he writes, that the first verse is abrogated by the second: that whoever wills may take a way was lifted by you do not will except that Allah wills. He does not accept it. The more likely, in his words, is that there is no abrogation here; the second verse explains that the first comes about only by Allah's will. In his reading 76:29 stays in force, and 76:30 says what it rests on.",
+            "bn": "কুরতুবী আরও একটি মত উল্লেখ করে তার জবাব দেন। তিনি লেখেন, বলা হয়েছে প্রথম আয়াতটি দ্বিতীয়টির দ্বারা মানসূখ, অর্থাৎ 'যার ইচ্ছে সে পথ ধরুক' কথাটি রহিত হয়ে গেছে 'আল্লাহ না চাইলে তোমরা চাইতে পারো না' দিয়ে। তিনি এ মত মানেন না। তাঁর ভাষায়, বেশি সঙ্গত হলো এখানে কোনো নাসখ নেই। দ্বিতীয় আয়াত শুধু ব্যাখ্যা করে যে প্রথমটা ঘটে কেবল আল্লাহর ইচ্ছায়। তাঁর পাঠে ৭৬:২৯ বহাল থাকে, আর ৭৬:৩০ বলে দেয় তা কিসের উপর দাঁড়িয়ে আছে।"
+          },
+          {
+            "en": "This is the one open disagreement on the pair in the commentaries fetched here, and it concerns how the two verses relate. It comes with it is said and no name, and the scholar who reports it sets it aside; the others do not raise abrogation at all. The article adds no doctrine of its own to theirs. What the text says is short: a sentence spoken to whoever wills, then a sentence placing that willing within Allah's will and closing with two of His names. The two verses state both, side by side.",
+            "bn": "এখানে দেখা তাফসীরগুলোতে এ জোড়া আয়াত নিয়ে খোলাখুলি মতভেদ এই একটাই, আর তা দুই আয়াতের পারস্পরিক সম্পর্ক নিয়ে। মতটি এসেছে 'বলা হয়েছে' দিয়ে, কারও নাম ছাড়া। যিনি তা উল্লেখ করেছেন তিনি নিজেই তা সরিয়ে রেখেছেন, আর বাকিরা নাসখের কথা তোলেনইনি। এ লেখা তাঁদের কথার সঙ্গে নিজের পক্ষ থেকে কোনো আকীদাগত মত যোগ করে না। মূল পাঠ যা বলে তা সংক্ষিপ্ত: একটি বাক্য সম্বোধন করে তাকে, যে চায়। পরের বাক্য সেই চাওয়াকে রাখে আল্লাহর ইচ্ছার ভেতরে, আর শেষ হয় তাঁর দুটি নাম দিয়ে। দুই আয়াত দুটো কথাই পাশাপাশি বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Willing in Four Verses",
+          "bn": "চার আয়াতে চাওয়ার কথা"
+        },
+        "p": [
+          {
+            "en": "Read the surah's last four verses together and one verb runs through them, from the root sh-y-'. At 76:28 it is Allah's: when We will, idha shi'na. At 76:29 it is man's: whoever wills, man sha'a. At 76:30 it is both, you do not will, tasha'una, except that Allah wills, yasha'a. At 76:31 it is Allah's again: He admits whom He wills, man yasha'u, into His mercy. Five uses in four verses, and 76:29 is the one place where the willing belongs to the person addressed.",
+            "bn": "সূরার শেষ চারটি আয়াত একসঙ্গে পড়লে দেখা যায়, শ-য়-আ ধাতুর একটি ক্রিয়া সবগুলোর ভেতর দিয়ে চলে গেছে। ৭৬:২৮-এ তা আল্লাহর: আমি যখন চাইব, ইযা শি'না। ৭৬:২৯-এ মানুষের: যে চায়, মান শা-আ। ৭৬:৩০-এ দুজনেরই: তোমরা চাইতে পারো না, তাশা-ঊন, যদি না আল্লাহ চান, ইয়াশা-আ। ৭৬:৩১-এ আবার আল্লাহর: তিনি যাকে চান, মান ইয়াশা-উ, তাকে নিজের রহমতে প্রবেশ করান। চার আয়াতে পাঁচবার। এর মধ্যে ৭৬:২৯-ই একমাত্র জায়গা, যেখানে চাওয়াটা সম্বোধিত মানুষের নিজের।"
+          },
+          {
+            "en": "76:30 closes: indeed, Allah is ever Knowing, Wise. Ibn Kathir explains the pairing through guidance. He knows who deserves guidance, so He makes it easy for him and prepares its causes; whoever deserves to go astray, He turns away from guidance; His is the conclusive wisdom and the decisive argument. As-Sa'di likewise places the wisdom in His guiding whoever is guided and leaving astray whoever strays. At-Tabari: none of you will pass beyond what was set for him beforehand in His knowledge of how He arranges your affairs.",
+            "bn": "৭৬:৩০ শেষ হয় এভাবে: নিশ্চয়ই আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়। ইবন কাসীর এ জোড়া নাম ব্যাখ্যা করেন হিদায়াতের দিক থেকে। কে হিদায়াতের যোগ্য তিনি জানেন, তাই তার জন্য তা সহজ করে দেন আর তার উপকরণ জুগিয়ে দেন। আর যে পথভ্রষ্টতার যোগ্য, তাকে তিনি হিদায়াত থেকে ফিরিয়ে দেন। চূড়ান্ত প্রজ্ঞা আর অকাট্য যুক্তি তাঁরই। সা'দীও প্রজ্ঞাকে রাখেন হিদায়াতপ্রাপ্তকে হিদায়াত দেওয়া আর পথভ্রষ্টকে পথভ্রষ্ট রাখার মধ্যে। তাবারী বলেন: তোমাদের কাজকর্ম তিনি কীভাবে সাজান, সে বিষয়ে তাঁর জ্ঞানে যা আগেই স্থির হয়ে আছে, তোমাদের কেউ তা ছাড়িয়ে যাবে না।"
+          },
+          {
+            "en": "Al-Qurtubi keeps the two names close to the listeners' conduct: knowing your deeds, wise in what He commands and forbids you. The Muyassar: knowing the states of His creation, wise in His arranging and His making. Then the surah's last verse, 76:31, and the Muyassar names those He admits into His mercy as the believers, and the wrongdoers as those who overstep Allah's limits. Like 76:27, this verse describes what it describes and licenses no verdict on any living person or community.",
+            "bn": "কুরতুবী নাম দুটিকে রাখেন শ্রোতাদের আমলের কাছাকাছি: তোমাদের আমল সম্পর্কে তিনি জানেন, তোমাদের যা আদেশ ও নিষেধ করেন তাতে তিনি প্রজ্ঞাময়। মুয়াসসার বলে: সৃষ্টির অবস্থা তিনি জানেন, তাঁর পরিচালনা আর সৃষ্টিকর্মে তিনি প্রজ্ঞাময়। তারপর সূরার শেষ আয়াত ৭৬:৩১। মুয়াসসার বলে, যাদের তিনি রহমতে প্রবেশ করান তারা মুমিন, আর যালিম তারা, যারা আল্লাহর সীমা লঙ্ঘন করে। ৭৬:২৭-এর মতো এ আয়াতও কেবল নিজের বর্ণনাটুকুই দেয়। আজকের কোনো মানুষ বা সম্প্রদায় সম্পর্কে রায় দেওয়ার কোনো অনুমতি এতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Taking the Way Looks Like",
+          "bn": "পথ ধরা দেখতে কেমন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith or an occasion of revelation to it. For what taking the way looks like, though, the reader need not leave the surah. At-Tabari describes it as working in obedience and stopping at His command and prohibition; al-Baghawi calls it a means through obedience; the Muyassar names faith and taqwa. Just before this verse the surah set out the practice it gave the Prophet ﷺ: patience for his Lord's decision, his Lord's name morning and evening, prostration and long glorification by night (76:24 to 76:26).",
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস বা নাযিলের প্রেক্ষাপট যুক্ত করেনি। তবে পথ ধরা দেখতে কেমন, তা জানতে পাঠককে সূরার বাইরে যেতে হয় না। তাবারী একে বলেন আনুগত্যের আমল করা আর তাঁর আদেশ-নিষেধের সীমায় থেমে যাওয়া। বাগাভী বলেন আনুগত্যের মাধ্যম। মুয়াসসার নাম নেয় ঈমান ও তাকওয়ার। এ আয়াতের ঠিক আগে সূরা সেই আমলগুলো সাজিয়ে দিয়েছে যা নবী ﷺ-কে দেওয়া হয়েছিল: রবের ফয়সালায় সবর, সকাল-সন্ধ্যায় রবের নাম স্মরণ, রাতে সিজদা আর দীর্ঘ তাসবীহ (৭৬:২৪ থেকে ৭৬:২৬)।"
+          },
+          {
+            "en": "Those were commands to him, and the commentaries on 76:25 differ over how far they reach his community, as the article on that verse sets out. Here the address widens on its own terms: whoever wills. A person who reads al-Insan to its end has heard the way shown in 76:3, the reward described at length, and now the plain offer, made to anyone who hears it, to take a way to his Lord.",
+            "bn": "ওগুলো ছিল তাঁর প্রতি হুকুম। সে হুকুম তাঁর উম্মত পর্যন্ত কতটা পৌঁছায়, তা নিয়ে ৭৬:২৫-এর তাফসীরগুলোতে মতভেদ আছে, সে আয়াতের লেখায় তা আলোচিত হয়েছে। এখানে সম্বোধন নিজের ভাষাতেই বড় হয়ে যায়: যে চায়। আল-ইনসান শেষ পর্যন্ত যে পড়েছে, সে ৭৬:৩-এ পথ দেখানোর কথা শুনেছে, পুরস্কারের দীর্ঘ বর্ণনা শুনেছে। আর এখন শুনছে সোজা প্রস্তাব, যে-ই শোনে তার জন্য: সে চাইলে তার রবের দিকে একটি পথ ধরতে পারে।"
+          },
+          {
+            "en": "Read with 76:30 beside it, the verse leaves two things to carry, both in its own words and the next verse's. The choice is spoken to you, and the way is yours to take. And if you find yourself taking it, the next sentence tells you whose will was there before yours, which is a reason for thanks rather than for pride. The commentators name the way's end as His pleasure, His forgiveness or Paradise. The verse itself names it in two words, ila rabbihi: to his Lord.",
+            "bn": "৭৬:৩০ পাশে রেখে পড়লে আয়াতটি দুটো কথা হাতে তুলে দেয়, দুটোই এ আয়াত আর পরের আয়াতের নিজের ভাষায়। বাছাইয়ের কথা বলা হচ্ছে আপনাকেই, পথ ধরার ভার আপনার। আর যদি নিজেকে সে পথে পান, পরের বাক্য জানিয়ে দেয় আপনার ইচ্ছার আগে কার ইচ্ছা ছিল। সেটা অহংকারের নয়, শোকরের কারণ। তাফসীরকারেরা পথের শেষ প্রান্তের নাম দেন তাঁর সন্তুষ্টি, তাঁর মাগফিরাত কিংবা জান্নাত। আয়াত নিজে তা বলে দুই শব্দে, ইলা রব্বিহী: তার রবের দিকে।"
+          }
+        ]
+      }
+    ]
   }
 });

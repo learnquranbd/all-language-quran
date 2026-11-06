@@ -29147,6 +29147,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The ruin of earlier deniers is a pattern Allah states, not a story about others; read it as a warning to yourself, never as a verdict on any living people.",
     "lessonBn": "আগেকার অস্বীকারকারীদের ধ্বংস আল্লাহর বলে দেওয়া এক নিয়ম, শুধু অন্যদের গল্প নয়। একে নিজের জন্য সতর্কবার্তা হিসেবে পড়ুন, আজকের কোনো মানুষের ওপর রায় হিসেবে কখনো নয়।"
+  },
+  "76:29": {
+    "reflectionEn": "Near its close, Surat al-Insan stops describing and hands the matter over. This is a reminder, it says, so whoever wills may take a way to his Lord. The surah opened by saying that a way had been shown to every person, grateful or ungrateful. Now it asks who will walk it. The very next verse adds that you do not will unless Allah wills, and the two sentences stand side by side. Neither one lets me off. The first says that my choice is spoken to and counts. The second says that if I find myself on the way at all, I did not get there alone. Have I read this surah as a story about other people, or as a road laid in front of me?",
+    "reflectionBn": "শেষের দিকে এসে সূরা আল-ইনসান বর্ণনা থামিয়ে বিষয়টা পাঠকের হাতে তুলে দেয়। বলে, এ এক উপদেশ, কাজেই যার ইচ্ছে সে তার রবের দিকে পথ ধরুক। সূরার শুরুতেই বলা হয়েছিল, প্রত্যেক মানুষকে পথ দেখানো হয়েছে, সে শোকরগুজার হোক বা নাশোকর। এখন প্রশ্ন, সে পথে হাঁটবে কে। ঠিক পরের আয়াত যোগ করে: আল্লাহ না চাইলে তোমরা চাইতে পারো না। দুটি বাক্য পাশাপাশি দাঁড়িয়ে থাকে, আর কোনোটাই আমাকে ছাড় দেয় না। প্রথমটা বলে, আমার বাছাইকে সম্বোধন করা হয়েছে, তার দাম আছে। দ্বিতীয়টা বলে, আমি যদি আদৌ সে পথে উঠে থাকি, একা উঠিনি। এ সূরা কি আমি অন্যদের কাহিনি হিসেবে পড়েছি, নাকি নিজের সামনে পেতে রাখা রাস্তা হিসেবে?",
+    "pointsEn": [
+      "When I finish reading a surah, do I treat it as information I now have, or as a reminder meant to move me somewhere?",
+      "What would taking a way to my Lord look like this week, in one act of obedience I keep putting off?",
+      "Have I ever leaned on one of these two sentences, my own choice or Allah's will, and quietly forgotten the other?",
+      "Just before this verse the surah names patience, remembering His name morning and evening, and long prostration at night. Which of these is missing from my days?",
+      "When I do find myself on the way, do I thank the One who willed it, or quietly credit myself?"
+    ],
+    "pointsBn": [
+      "একটা সূরা পড়া শেষ করে আমি কি সেটাকে শুধু জানা তথ্য হিসেবে রেখে দিই, নাকি এমন উপদেশ হিসেবে নিই যা আমাকে কোথাও নিয়ে যেতে চায়?",
+      "এ সপ্তাহে রবের দিকে পথ ধরা আমার জন্য কেমন হবে? কোন আমলটা আমি বারবার পিছিয়ে দিচ্ছি?",
+      "নিজের বাছাই আর আল্লাহর ইচ্ছা, এ দুই কথার একটায় ভর দিয়ে অন্যটা কি আমি চুপচাপ ভুলে গেছি?",
+      "এ আয়াতের ঠিক আগে সূরাটি সবর, সকাল-সন্ধ্যায় রবের নাম স্মরণ আর রাতে দীর্ঘ সিজদার কথা বলেছে। এর কোনটা আমার দিনগুলো থেকে হারিয়ে গেছে?",
+      "নিজেকে যখন সে পথে পাই, তখন কি যিনি চেয়েছেন তাঁর শোকর করি, নাকি মনে মনে কৃতিত্বটা নিজেকেই দিই?"
+    ],
+    "lessonEn": "The surah is a reminder that leaves the choice with you: take a way to your Lord, and if you find yourself on it, thank the One who willed it.",
+    "lessonBn": "সূরাটি এক উপদেশ, বাছাইয়ের ভার আপনার উপর রাখে: রবের দিকে পথ ধরুন, আর সে পথে নিজেকে পেলে শোকর করুন তাঁর, যিনি তা চেয়েছেন।"
   }
 };
 
