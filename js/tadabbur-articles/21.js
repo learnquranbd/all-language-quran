@@ -2895,6 +2895,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:81": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Wind Placed Under Him",
+          "bn": "যে বাতাস তাঁর অধীন হলো"
+        },
+        "p": [
+          {
+            "en": "The verses before this one gather the gifts of David: mountains and birds glorifying with him (21:79), and the craft of armour taught to him for people's protection, closing on a question, so will you then be grateful? (21:80). Then, without a new verb, the verse turns: wa-li-Sulaymana r-riha, and to Solomon the wind. The commentators supply the verb from what came before. At-Tabari, al-Qurtubi, al-Baghawi and Ibn Kathir all read it as sakhkharna, We subjected, and as-Sa'di writes the same. The wind is the object of God's act before it is anything else.",
+            "bn": "এর আগের আয়াতগুলোতে দাঊদ (আঃ)-এর নিয়ামতের তালিকা। পাহাড় আর পাখি তাঁর সঙ্গে তাসবীহ পড়ত (২১:৭৯)। মানুষের সুরক্ষার জন্য তাঁকে বর্ম বানানোর কৌশল শেখানো হয়েছিল, আর সে কথা শেষ হয় একটি প্রশ্নে: তবে কি তোমরা কৃতজ্ঞ হবে? (২১:৮০)। এরপর নতুন কোনো ক্রিয়া ছাড়াই আয়াত মোড় নেয়: ওয়া লিসুলায়মানার রীহা, আর সুলায়মানের জন্য বাতাস। ক্রিয়াটা মুফাসসিরগণ আগের কথা থেকে টেনে আনেন। তাবারী, কুরতুবী, বাগাভী ও ইবন কাসীর সবাই একে পড়েন সাখখারনা, অর্থাৎ আমি অধীন করে দিয়েছিলাম। সা'দীও একই কথা লেখেন। কাজেই বাতাস এখানে সবার আগে আল্লাহর কাজের বিষয়, তারপর অন্য কিছু।"
+          },
+          {
+            "en": "At-Tabari keeps a line from Qatadah that sets the gift in its lineage. God made Solomon heir to David, Qatadah says, passing to him his prophethood and his kingship, and added to that by subjecting to him the wind and the devils. His comment also covers the devils of the next verse (21:82), which has its own reflection. Here the subject is the wind alone, and the shape of the sentence keeps the Giver first: what Solomon had, he had because it was given.",
+            "bn": "তাবারী কাতাদার একটি কথা রেখে দিয়েছেন, যা এই নিয়ামতকে তার উত্তরাধিকারের সঙ্গে জুড়ে দেয়। কাতাদা বলেন, আল্লাহ সুলায়মান (আঃ)-কে দাঊদ (আঃ)-এর উত্তরসূরি করলেন, তাঁকে দিলেন পিতার নবুওয়াত আর রাজত্ব। তার উপর বাড়তি দিলেন বাতাস আর শয়তানদের অধীন করে দেওয়া। তাঁর এ কথা পরের আয়াতের শয়তানদেরও ছুঁয়ে যায় (২১:৮২), তবে সে আয়াতের আলোচনা আলাদা। এখানে কথা শুধু বাতাস নিয়ে, আর বাক্যের গড়নই দাতাকে রাখে সবার আগে। সুলায়মানের যা ছিল, তা ছিল কারণ তা তাঁকে দেওয়া হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "With David, For Solomon",
+          "bn": "দাঊদের সঙ্গে, সুলায়মানের জন্য"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an notices a small difference in the prepositions. Of David the Qur'an said wa-sakhkharna ma'a Dawuda, We subjected with David the mountains and the birds; of Solomon it says li-Sulayman, for Solomon. Citing Ruh al-Ma'ani, which takes it from al-Baydawi, Ma'arif reads a hint that the two subjections differed. The mountains and birds praised God together with David without any command from him. The wind acted on Solomon's commands and carried him where and when he wished. The verse states that second half in its own words: tajri bi-amrihi, running by his command.",
+            "bn": "মাআরিফুল কুরআন দুটি অব্যয়ের ছোট্ট এক পার্থক্যে চোখ রাখে। দাঊদ (আঃ)-এর বেলায় কুরআন বলেছে ওয়া সাখখারনা মাআ দাঊদা, দাঊদের সঙ্গে আমি পাহাড় আর পাখিদের অধীন করেছিলাম। আর সুলায়মান (আঃ)-এর বেলায় বলছে লিসুলায়মান, সুলায়মানের জন্য। রূহুল মাআনীর বরাতে, যা আবার বাইদাবী থেকে নেওয়া, মাআরিফ এখানে ইঙ্গিত পায় যে দুই অধীনতা এক রকম ছিল না। পাহাড় আর পাখি দাঊদের সঙ্গে আল্লাহর তাসবীহ পড়ত, তাঁর কোনো হুকুম ছাড়াই। কিন্তু বাতাস চলত সুলায়মানের হুকুমে, তিনি যেখানে যখন চাইতেন তাঁকে নিয়ে যেত। দ্বিতীয় কথাটা আয়াত নিজেই বলে দেয়: তাজরী বিআমরিহী, তাঁর হুকুমে বয়ে চলত।"
+          },
+          {
+            "en": "The command is real, but it sits inside a larger command. The sentence opens with what God did and closes with what God knows; Solomon's command stands between them, the channel through which a subjected thing moved. Al-Qurtubi records that Abd ar-Rahman al-A'raj, as-Sulami and Abu Bakr read ar-rihu in the nominative: to Solomon belonged the subjecting of the wind. At-Tabari, naming al-A'raj, permits no reading but the accusative of the cities' readers, on which the authoritative reciters agree.",
+            "bn": "হুকুমটা সত্যিই তাঁর, তবে তা আরেকটি বড় হুকুমের ভেতরে। বাক্য শুরু হয় আল্লাহ কী করলেন তা দিয়ে, আর শেষ হয় আল্লাহ কী জানেন তা দিয়ে। মাঝখানে সুলায়মানের হুকুম, যার পথ ধরে অধীন করা জিনিসটি চলত। কুরতুবী জানান, আবদুর রহমান আল-আ'রাজ, সুলামী ও আবু বকর পড়েছেন আর-রীহু, পেশ দিয়ে। তখন অর্থ দাঁড়ায়: সুলায়মানের জন্য ছিল বাতাসকে অধীন করে দেওয়া। তাবারী আল-আ'রাজের নাম উল্লেখ করে বলেন, শহরগুলোর কারীদের যবরযুক্ত পাঠ ছাড়া অন্য কিছু তিনি অনুমোদন করেন না, কারণ নির্ভরযোগ্য কারীগণ তাতে একমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Storming, or Simply Swift",
+          "bn": "প্রচণ্ড, নাকি কেবল দ্রুত"
+        },
+        "p": [
+          {
+            "en": "Asifatan describes the wind as it ran. At-Tabari defines its 'usuf as the intensity of its blowing, and quotes Ibn Zayd: storming means strong. Al-Qurtubi gives the lexicon. The Arabs say 'asafat ar-rih when the wind grew strong, so it is a wind 'asif and 'usuf, and in the dialect of Banu Asad a'safat, with mu'sif and mu'sifa. He traces the word to al-'asf, straw, the wind's force being named for the way it sends chaff flying. The Muyassar glosses it as fierce in its blowing, and adds that it carried Solomon and those with him.",
+            "bn": "আসিফাতান শব্দটি চলমান বাতাসের বিশেষণ। তাবারী এর উসূফের ব্যাখ্যা দেন বাতাস বয়ে যাওয়ার তীব্রতা বলে, আর ইবন যায়দের কথা আনেন: আসিফা মানে প্রবল। কুরতুবী আনেন অভিধানের কথা। বাতাস জোরালো হলে আরবরা বলে আসাফাতির রীহ, তখন সে বাতাস আসিফ ও উসূফ। বনু আসাদের ভাষায় বলা হয় আ'সাফাত, মু'সিফ ও মু'সিফা। তিনি শব্দটির মূল খুঁজে পান আল-আসফে, যার মানে খড়। বাতাসের জোরের নাম হয়েছে খড়কুটো উড়িয়ে নেওয়ার ধরন থেকে। মুয়াসসার এর অর্থ করে প্রচণ্ড বেগে বয়ে যাওয়া, আর যোগ করে যে বাতাস সুলায়মান ও তাঁর সঙ্গীদের বহন করত।"
+          },
+          {
+            "en": "As-Sa'di takes another line. For him 'asifatan means sari'atan fi mururiha, swift in its passing, which puts the stress on speed rather than violence. Ma'arif al-Qur'an gives the literal sense as a strong and violent wind. Most commentators read the word as force; as-Sa'di lets that force be read as pace. The distinction matters at once, because elsewhere the Qur'an describes Solomon's wind with a word that seems to point the other way.",
+            "bn": "সা'দী অন্য পথে যান। তাঁর কাছে আসিফাতান মানে সারীআতান ফী মুরূরিহা, চলার পথে দ্রুতগামী। এতে জোর পড়ে গতির উপর, প্রচণ্ডতার উপর নয়। মাআরিফুল কুরআন এর আক্ষরিক অর্থ দেয় জোরালো ও প্রচণ্ড বাতাস। অধিকাংশ মুফাসসির শব্দটিতে শক্তির কথা পড়েন, আর সা'দী সেই শক্তিকে গতি হিসেবেও পড়ার সুযোগ রাখেন। পার্থক্যটা এখনই কাজে লাগে। কারণ কুরআনের অন্য জায়গায় সুলায়মানের বাতাসের জন্য এমন শব্দ এসেছে, যা আপাতদৃষ্টিতে উল্টো দিকে ইঙ্গিত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Wind, Two Descriptions",
+          "bn": "এক বাতাস, দুই বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "In 38:36 God says: so We subjected to him the wind, running by his command, rukha'an, gently, wherever he aimed. Al-Qurtubi defines rukha' as soft. Al-Baghawi puts the question directly: if it is said that elsewhere He called it gentle, and rukha' is softness, how is it storming here? His answer is that the wind was under Solomon's command. If he wished it to blow hard it blew hard, and if he wished it to soften it softened. On this reading the two verses describe one wind under one command, each naming a mode it took.",
+            "bn": "৩৮:৩৬ আয়াতে আল্লাহ বলেন: অতঃপর আমি বাতাসকে তাঁর অধীন করে দিলাম, তা তাঁর হুকুমে মৃদুভাবে বয়ে যেত, রুখাআন, যেখানে তিনি যেতে চাইতেন। কুরতুবী রুখাআর অর্থ করেন কোমল। বাগাভী প্রশ্নটা সরাসরি তোলেন: যদি বলা হয়, অন্য জায়গায় তো বলেছেন মৃদু, আর রুখাআ মানে কোমলতা, তাহলে এখানে প্রচণ্ড কেন? তাঁর জবাব: বাতাস ছিল সুলায়মানের হুকুমের অধীন। তিনি চাইলে তা জোরে বইত, চাইলে নরম হয়ে যেত। এই পাঠে দুই আয়াত একই বাতাসের কথা বলে, যা একই হুকুমে চলে। প্রতিটি আয়াত তার একেকটি অবস্থার নাম দেয়।"
+          },
+          {
+            "en": "A second reconciliation comes in a report from Wahb ibn Munabbih, carried by at-Tabari, al-Qurtubi and al-Baghawi. Setting out on campaign, Solomon had a wooden frame raised and loaded with people, mounts and weapons. He ordered the storming wind, which went beneath the frame and lifted it; once it was aloft he ordered the gentle wind, which bore it a month's journey in its going and a month in its return. At-Tabari's chain runs through Ibn Ishaq from some of the people of knowledge, and inside the account stand the words: as they claim.",
+            "bn": "দ্বিতীয় সমাধান আসে ওয়াহব ইবন মুনাব্বিহের এক বর্ণনায়, যা তাবারী, কুরতুবী ও বাগাভী তিনজনই এনেছেন। যুদ্ধযাত্রার সময় সুলায়মান কাঠের একটি মাচা খাড়া করাতেন। তার উপর তোলা হতো মানুষ, বাহন আর যুদ্ধের সরঞ্জাম। তারপর তিনি প্রচণ্ড বাতাসকে হুকুম দিতেন। সে মাচার নিচে ঢুকে তাকে তুলে নিত। উপরে উঠে গেলে হুকুম দিতেন মৃদু বাতাসকে, আর সে তা বয়ে নিত যাওয়ার পথে এক মাসের দূরত্ব, ফেরার পথে আরও এক মাসের। তাবারীর সনদ ইবন ইসহাক হয়ে কয়েকজন অজ্ঞাতনামা আলেমের মাধ্যমে ওয়াহব পর্যন্ত গেছে। আর বর্ণনার ভেতরেই আছে এই কথা: যেমনটা তারা দাবি করে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an offers a third. In itself the wind was strong enough to cover two months' journey in a day, yet it raised no turbulence, and it is reported that no bird was ever harmed by its speed. Al-Baghawi's text of Wahb has a similar line: the gentle wind passed over his camp and over a sown field without stirring it, raising dust or hurting a bird. Each reconciles in his own way, and none treats the two verses as at odds.",
+            "bn": "মাআরিফুল কুরআন দেয় তৃতীয় একটি ব্যাখ্যা। বাতাস নিজে এত শক্তিশালী ছিল যে এক দিনে দুই মাসের পথ পাড়ি দিত, তবু কোনো তোলপাড় তুলত না। বর্ণিত আছে, তার গতিতে কোনো পাখির কখনো ক্ষতি হয়নি। বাগাভীর উদ্ধৃত ওয়াহবের বর্ণনাতেও একই রকম কথা আছে: মৃদু বাতাস তাঁর ছাউনি আর ফসলের খেতের উপর দিয়ে যেত, কিছু নাড়াত না, ধুলো ওড়াত না, কোনো পাখিকে কষ্ট দিত না। প্রত্যেকে নিজের মতো করে মিলিয়েছেন, কেউই দুই আয়াতকে পরস্পরবিরোধী মনে করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Home to the Blessed Land",
+          "bn": "বরকতময় ভূমিতে ফেরা"
+        },
+        "p": [
+          {
+            "en": "Ila l-ardi llati barakna fiha: toward the land in which We placed blessing. The commentators who name it all say ash-Sham, greater Syria: at-Tabari, al-Qurtubi, al-Baghawi, Ibn Kathir and as-Sa'di, with at-Tabari also quoting Ibn Zayd for it. The Muyassar is more specific, naming the land of Bayt al-Maqdis in ash-Sham and explaining the blessing as abundant good things. The phrase has already appeared in this surah. A few verses earlier God brought Abraham and Lot to safety, ila l-ardi llati barakna fiha lil-'alamin, to the land We blessed for all the worlds (21:71).",
+            "bn": "ইলাল আরদিল্লাতী বারাকনা ফীহা: সেই ভূমির দিকে, যাতে আমি বরকত রেখেছি। যে মুফাসসিরগণ ভূমিটির নাম বলেছেন, সবাই বলেছেন শাম: তাবারী, কুরতুবী, বাগাভী, ইবন কাসীর ও সা'দী। তাবারী এর পক্ষে ইবন যায়দের কথাও আনেন। মুয়াসসার আরও নির্দিষ্ট করে বলে, শামের বাইতুল মাকদিসের ভূমি, আর বরকত মানে প্রচুর কল্যাণ। কথাটা এ সূরায় আগেও এসেছে। কয়েক আয়াত আগে আল্লাহ ইবরাহীম (আঃ) ও লূত (আঃ)-কে উদ্ধার করে নিয়ে গিয়েছিলেন ইলাল আরদিল্লাতী বারাকনা ফীহা লিল আলামীন, সেই ভূমিতে যাতে আমি বিশ্ববাসীর জন্য বরকত রেখেছি (২১:৭১)।"
+          },
+          {
+            "en": "Why say the wind ran toward that land, when Solomon travelled far beyond it? At-Tabari answers: the wind carried Solomon and his companions wherever he wished and then brought him back to his home in ash-Sham, and for that reason it was said, to the land We blessed. Al-Baghawi says the same, and al-Qurtubi gives it as something reported. As-Sa'di fills in the picture: ash-Sham was where Solomon was settled, so he would go out on the wind east and west, and its shelter and return were the blessed land. The journeys ranged wide; the homecoming was fixed.",
+            "bn": "সুলায়মান (আঃ) তো সে ভূমির বহু দূরেও সফর করতেন। তাহলে বাতাস সেদিকে বইত, এ কথা কেন? তাবারীর জবাব: বাতাস সুলায়মান ও তাঁর সঙ্গীদের যেখানে তিনি চাইতেন নিয়ে যেত, তারপর শামে তাঁর নিবাসে ফিরিয়ে আনত। এ কারণেই বলা হয়েছে, বরকতময় ভূমির দিকে। বাগাভীও একই কথা বলেন, আর কুরতুবী এটাকে বর্ণিত কথা হিসেবে আনেন। সা'দী ছবিটা পূর্ণ করেন: শাম ছিল সুলায়মানের স্থায়ী আবাস। তিনি বাতাসে চড়ে পূর্বে-পশ্চিমে যেতেন, আর বাতাসের আশ্রয় ও ফেরার জায়গা ছিল সেই বরকতময় ভূমি। সফর ছড়িয়ে যেত বহু দূর, কিন্তু ফেরার ঠিকানা ছিল একটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports of a Flying Court",
+          "bn": "উড়ন্ত দরবারের কাহিনি"
+        },
+        "p": [
+          {
+            "en": "The commentators also carry descriptions of how the wind bore Solomon, and these need careful handling. Ibn Kathir writes that he had a platform of wood holding everything his kingdom required, horses, camels, tents and troops; he would order the wind to carry it, the wind would go beneath and lift it, and birds shaded him from the heat until it set him down where he wished. He adds a report Ibn Abi Hatim gives with the words it was mentioned, reaching Sa'id ibn Jubayr: six hundred thousand chairs were set out, believing humans nearest Solomon, believing jinn behind them, birds above.",
+            "bn": "বাতাস কীভাবে সুলায়মান (আঃ)-কে বহন করত, তার বর্ণনাও তাফসীরে আছে। এগুলো সাবধানে ধরতে হয়। ইবন কাসীর লেখেন, তাঁর কাঠের একটি পাটাতন ছিল। তাতে রাখা হতো রাজ্যের সব প্রয়োজনীয় জিনিস: ঘোড়া, উট, তাঁবু আর সৈন্য। তিনি বাতাসকে হুকুম দিতেন, বাতাস নিচে ঢুকে তা তুলে নিত। পাখিরা রোদের তাপ থেকে তাঁকে ছায়া দিত, যতক্ষণ না বাতাস তাঁকে কাঙ্ক্ষিত জায়গায় নামিয়ে দিত। এরপর তিনি ইবন আবী হাতিমের একটি বর্ণনা আনেন, যা শুরু হয় 'উল্লেখ করা হয়েছে' কথাটি দিয়ে এবং সাঈদ ইবন জুবাইর পর্যন্ত পৌঁছায়। তাতে আছে, ৬ লাখ চেয়ার পাতা হতো। তাঁর কাছে বসত মুমিন মানুষ, তাদের পেছনে মুমিন জিন, আর উপরে পাখিরা।"
+          },
+          {
+            "en": "Al-Baghawi gathers more. Muqatil says the devils wove Solomon a carpet a parasang square, of gold worked into silk, with a golden pulpit at its centre and thousands of chairs around it. Ibn Zayd describes a wooden vessel with a thousand corners. An unattributed report traces a route from Iraq to China and back through Persia to ash-Sham. None of these reaches back to the Prophet ﷺ. They belong to the isra'iliyyat, narratives of earlier nations that the commentators record but cannot verify.",
+            "bn": "বাগাভী আরও বর্ণনা জড়ো করেন। মুকাতিল বলেন, শয়তানরা সুলায়মানের জন্য এক ফারসাখ লম্বা ও এক ফারসাখ চওড়া একটি গালিচা বুনেছিল, রেশমে সোনার কাজ করা। মাঝখানে সোনার মিম্বার, চারপাশে হাজার হাজার চেয়ার। ইবন যায়দ বর্ণনা করেন হাজার কোণওয়ালা এক কাঠের বাহনের কথা। কারও নাম ছাড়া আসা এক বর্ণনায় আছে ইরাক থেকে চীন, তারপর পারস্য হয়ে শামে ফেরার পথের বিবরণ। এর কোনোটিই নবী ﷺ পর্যন্ত পৌঁছায় না। এগুলো ইসরাঈলিয়াতের অন্তর্ভুক্ত, অর্থাৎ পূর্ববর্তী জাতিগুলোর এমন কাহিনি, যা মুফাসসিরগণ লিখে রেখেছেন কিন্তু যাচাই করতে পারেননি।"
+          },
+          {
+            "en": "The commentators themselves signal the weight of these reports. At-Tabari keeps as they claim inside Wahb's account, al-Qurtubi opens his summary with it is reported, and Ibn Abi Hatim's report comes with it was mentioned. The Qur'an itself states only that the wind ran by Solomon's command toward the blessed land; 38:36 adds that it ran gently wherever he aimed, and 34:12 that its morning course was a month and its evening course a month. What the Qur'an says is affirmed. The rest is recorded as report, and this article builds nothing on it.",
+            "bn": "এসব বর্ণনার ওজন কতটুকু, মুফাসসিরগণ নিজেরাই তার ইশারা দিয়ে গেছেন। তাবারী ওয়াহবের বর্ণনার ভেতরে 'যেমনটা তারা দাবি করে' কথাটা রেখে দেন। কুরতুবী তাঁর সারকথা শুরু করেন 'বর্ণিত আছে' বলে। আর ইবন আবী হাতিমের বর্ণনা আসে 'উল্লেখ করা হয়েছে' বলে। কুরআন নিজে শুধু এটুকু বলে যে বাতাস সুলায়মানের হুকুমে বরকতময় ভূমির দিকে বইত। ৩৮:৩৬ আয়াত যোগ করে, তিনি যেখানে চাইতেন সেখানে তা মৃদুভাবে বইত। আর ৩৪:১২ আয়াত বলে, তার সকালের যাত্রা এক মাসের, বিকেলের যাত্রাও এক মাসের। কুরআন যা বলে, তা মেনে নেওয়া হয়। বাকিটা বর্ণনা হিসেবেই লিপিবদ্ধ, এ লেখা তার উপর কিছুই দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing Where Gifts Belong",
+          "bn": "নিয়ামত কোথায় মানায়"
+        },
+        "p": [
+          {
+            "en": "Wa-kunna bi-kulli shay'in 'alimin: and We are, of all things, Knowing. At-Tabari reads it as God saying that in all He did for Solomon, subjecting the wind to him and granting him kingship and the good of creation, He acted from knowledge of where that gift belonged; He knows all things, and nothing is hidden from Him. Al-Qurtubi glosses: knowing how to govern everything We did. The Muyassar and as-Sa'di say God's knowledge encompassed all things, as-Sa'di adding that God knew of David and Solomon what brought them to the gifts described.",
+            "bn": "ওয়া কুন্না বিকুল্লি শাইয়িন আলিমীন: আর আমি সব বিষয়ে অবগত। তাবারী এর অর্থ করেন এভাবে: সুলায়মানের জন্য আল্লাহ যা কিছু করেছেন, বাতাসকে অধীন করা, রাজত্ব দেওয়া, সৃষ্টির কল্যাণ দান করা, সবই করেছেন এ জ্ঞান নিয়ে যে নিয়ামতটি কোথায় মানায়। তিনি সবকিছু জানেন, কিছুই তাঁর কাছে গোপন নয়। কুরতুবীর ব্যাখ্যা: আমি যা কিছু করেছি, তার পরিচালনা কীভাবে করতে হয় তা আমি জানি। মুয়াসসার ও সা'দী বলেন, আল্লাহর জ্ঞান সবকিছুকে ঘিরে আছে। সা'দী যোগ করেন, দাঊদ ও সুলায়মানের মধ্যে আল্লাহ এমন কিছু জানতেন, যা তাঁদের এসব নিয়ামত পর্যন্ত পৌঁছে দিয়েছে।"
+          },
+          {
+            "en": "Al-Baghawi draws the moral thread most clearly. God knew, he says, that what Solomon was given, the wind and the rest, would call him to humble himself before his Lord. Ibn Kathir carries a report from Abd Allah ibn Ubayd ibn Umayr that pictures exactly that. As the wind raised Solomon high, he kept his head bowed, looking neither right nor left, out of reverence for God and in gratitude, knowing how small his own state was within God's dominion. That too is a report and not a word of the Prophet ﷺ, but it agrees with what al-Baghawi reads in the verse.",
+            "bn": "নৈতিক সূত্রটা সবচেয়ে স্পষ্ট করে টানেন বাগাভী। তিনি বলেন, আল্লাহ জানতেন সুলায়মান (আঃ)-কে যা দেওয়া হয়েছে, বাতাস ও অন্যান্য নিয়ামত, তা তাঁকে রবের সামনে আরও নত হতে ডাকবে। ইবন কাসীর আবদুল্লাহ ইবন উবাইদ ইবন উমাইরের একটি বর্ণনা আনেন, যাতে ঠিক এই ছবিই ফুটে ওঠে। বাতাস যখন সুলায়মানকে অনেক উঁচুতে তুলে নিত, তিনি মাথা নিচু করে রাখতেন, ডানে-বামে তাকাতেন না। এ ছিল আল্লাহর প্রতি সম্মান আর কৃতজ্ঞতা থেকে, কারণ তিনি জানতেন আল্লাহর রাজত্বের মধ্যে তাঁর নিজের অবস্থান কত ছোট। এটাও একটি বর্ণনা, নবী ﷺ-এর বাণী নয়। তবে বাগাভী আয়াত থেকে যা পড়েন, তার সঙ্গে এটি মিলে যায়।"
+          },
+          {
+            "en": "This is why the subjection must not be read as Solomon's own power. Sakhkharna is God's verb; bi-amrihi is Solomon's command inside it, effective because it was made effective. Qatadah's word for the gift is that God added it, and at-Tabari explains the closing as God placing it where He knew it belonged. In 34:12 the jinn who worked for Solomon did so bi-idhni rabbihi, by the permission of his Lord. The next verse here ends the same way, and We were guarding them (21:82). In this passage power is always held from above.",
+            "bn": "এ কারণেই এই অধীনতাকে সুলায়মানের নিজস্ব ক্ষমতা ভাবা চলে না। সাখখারনা আল্লাহর ক্রিয়া। বিআমরিহী হলো তার ভেতরে সুলায়মানের হুকুম, যা কার্যকর হয়েছে কারণ আল্লাহ তা কার্যকর করেছেন। কাতাদা এই নিয়ামতকে বলেছেন আল্লাহর বাড়তি দান। আর তাবারী আয়াতের শেষাংশ ব্যাখ্যা করেন এভাবে যে, আল্লাহ জানতেন নিয়ামতটি কোথায় রাখতে হবে। ৩৪:১২ আয়াতে যে জিনেরা সুলায়মানের জন্য কাজ করত, তারা করত বিইযনি রাব্বিহী, তাঁর রবের অনুমতিতে। এখানকার পরের আয়াতও শেষ হয় একইভাবে: আর আমি তাদের পাহারা দিতাম (২১:৮২)। এ অংশে ক্ষমতা সবসময় উপর থেকে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking the Storm's Good",
+          "bn": "ঝড়ের কল্যাণ চাওয়া"
+        },
+        "p": [
+          {
+            "en": "No commentator fetched for this verse attaches a hadith of the Prophet ﷺ to it. A narration in Sahih Muslim (899), not attached to this verse, shows how the Prophet ﷺ met a strong wind himself. Aishah reports that whenever the wind blew stormily, idha 'asafati r-rih, from the root of this verse's 'asifatan, he would say: O Allah, I ask You for its good, the good of what is in it, and the good of what it was sent with; and I seek refuge with You from its evil, the evil of what is in it, and the evil of what it was sent with.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর নবী ﷺ-এর কোনো হাদীস এর সঙ্গে যুক্ত করেনি। সহীহ মুসলিমের একটি বর্ণনা (৮৯৯), যা এ আয়াতের সঙ্গে যুক্ত নয়, দেখায় প্রবল বাতাসের সামনে নবী ﷺ নিজে কী করতেন। আয়েশা (রাঃ) বলেন, বাতাস যখন ঝড়ের বেগে বইত, ইযা আসাফাতির রীহ, যা এ আয়াতের আসিফাতান শব্দেরই ধাতু থেকে, তিনি বলতেন: হে আল্লাহ, আমি তোমার কাছে চাই এর কল্যাণ, এর ভেতরে যা আছে তার কল্যাণ, আর যা নিয়ে একে পাঠানো হয়েছে তার কল্যাণ। আর তোমার কাছে আশ্রয় চাই এর অনিষ্ট থেকে, এর ভেতরে যা আছে তার অনিষ্ট থেকে, আর যা নিয়ে একে পাঠানো হয়েছে তার অনিষ্ট থেকে।"
+          },
+          {
+            "en": "The two pictures belong together. To one prophet God subjected the storm, so that it ran by his command toward a blessed land. In the narration the Prophet ﷺ gives the wind no command; when it blows hard he turns to the One who sends it, asking for its good and refuge from its harm. Both stand under the same Lord. What answers to us is placed under us in the same way, and what we cannot command is still in His hand: gratitude for the first, supplication for the second.",
+            "bn": "দুটি ছবি পাশাপাশি রাখার মতো। একজন নবীর জন্য আল্লাহ ঝড়কে অধীন করে দিয়েছিলেন, আর তা তাঁর হুকুমে বরকতময় ভূমির দিকে বইত। বর্ণনাটিতে নবী ﷺ বাতাসকে কোনো হুকুম দেন না। বাতাস জোরে বইলে তিনি ফেরেন তাঁর দিকে, যিনি বাতাস পাঠান। চান তার কল্যাণ, আর আশ্রয় চান তার অনিষ্ট থেকে। দুজনই একই রবের অধীন। আমাদের কথায় যা চলে, তা-ও একইভাবে আমাদের অধীনে রাখা। আর যার উপর আমাদের হুকুম চলে না, তা-ও তাঁরই হাতে। প্রথমটির জন্য শুকরিয়া, দ্বিতীয়টির জন্য দোয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "21:87": {
     "sections": [
       {

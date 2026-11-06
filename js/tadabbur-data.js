@@ -23551,6 +23551,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are described falsely, hand the verdict to Allah, seek help from the Most Merciful rather than your own cleverness, and be ready for the truth to weigh you too.",
     "lessonBn": "কেউ আপনার নামে মিথ্যা বললে রায়ের ভার আল্লাহর হাতে দিন, নিজের চালাকির বদলে পরম দয়াময়ের সাহায্য চান, আর তৈরি থাকুন যে সত্য আপনাকেও মাপবে।"
+  },
+  "21:81": {
+    "reflectionEn": "After the mountains that praised with David and the armour he was taught, the passage turns to his son: and to Solomon, the wind, storming, running by his command toward the land We blessed. The verb is carried over from the verse before: We subjected. The wind did not become Solomon's by talent or by right. It was placed under him, and its course still ended in a land God had blessed. Then the verse closes on God's knowledge, not on Solomon's power: and We are, of all things, Knowing. Whatever answers when I call, a skill, a team, a tool, a voice that people heed, is placed under me in the same way. Do I carry it as he carried his, knowing whose command stands above mine?",
+    "reflectionBn": "দাঊদ (আঃ)-এর সঙ্গে পাহাড়ের তাসবীহ আর তাঁকে শেখানো বর্মের কথা শেষ হতেই আয়াত চলে যায় তাঁর পুত্রের দিকে: আর সুলায়মানের জন্য বাতাস, প্রচণ্ড বেগে বয়ে যাওয়া, তাঁর হুকুমে চলত সেই ভূমির দিকে যাতে আমি বরকত রেখেছি। ক্রিয়াটা আগের আয়াত থেকে উহ্য রয়ে গেছে: আমি অধীন করে দিয়েছিলাম। বাতাস সুলায়মানের হয়নি তাঁর প্রতিভা বা দাবির জোরে। তাঁর অধীনে তাকে রাখা হয়েছিল, আর তার যাত্রা শেষ হতো আল্লাহর বরকত দেওয়া ভূমিতেই। তারপর আয়াত থামে সুলায়মানের ক্ষমতায় নয়, আল্লাহর জ্ঞানে: আমি সব বিষয়ে অবগত। আমার ডাকে যা সাড়া দেয়, কোনো দক্ষতা, কোনো দল, কোনো যন্ত্র, মানুষ শোনে এমন কোনো কণ্ঠ, সবই একইভাবে আমার অধীনে রাখা। তিনি যেভাবে বহন করেছিলেন, আমিও কি সেভাবে বহন করি? মনে রাখি কি, আমার হুকুমের উপরে কার হুকুম?",
+    "pointsEn": [
+      "What runs at my word today, and when did I last thank the One who placed it under me?",
+      "When something powerful obeys me, a team, a budget, a skill, do I grow louder or quieter?",
+      "Where do the things I command carry me: back toward what Allah has blessed, or away from it?",
+      "Which gift have I begun to describe as my own achievement, forgetting that it was given and can be taken back?",
+      "When a wind rises against me, do I ask Allah for its good and seek refuge from its harm, or only complain about it?"
+    ],
+    "pointsBn": [
+      "আজ কোন কোন জিনিস আমার কথায় চলে? যিনি সেগুলো আমার অধীন করেছেন, শেষ কবে তাঁর শুকরিয়া আদায় করেছি?",
+      "শক্তিশালী কিছু যখন আমার কথা মানে, কোনো দল, কোনো বাজেট, কোনো দক্ষতা, তখন কি আমার গলা চড়ে যায়, নাকি আমি আরও নত হই?",
+      "যেসব জিনিস আমার হুকুমে চলে, সেগুলো আমাকে কোথায় নিয়ে যায়? আল্লাহ যাতে বরকত রেখেছেন সেদিকে, নাকি তা থেকে দূরে?",
+      "কোন নিয়ামতকে আমি নিজের কৃতিত্ব বলে বলতে শুরু করেছি, ভুলে গিয়ে যে তা দেওয়া হয়েছে এবং ফিরিয়েও নেওয়া যায়?",
+      "আমার বিরুদ্ধে যখন কোনো ঝড় ওঠে, আমি কি আল্লাহর কাছে তার কল্যাণ চাই আর তার অনিষ্ট থেকে আশ্রয় চাই, নাকি শুধু অভিযোগ করি?"
+    ],
+    "lessonEn": "Whatever runs at your command was placed under you by Allah, who knows where every gift belongs; carry it humbly and turn it toward what He has blessed.",
+    "lessonBn": "আপনার হুকুমে যা চলে, তা আপনার অধীনে রেখেছেন আল্লাহ, যিনি জানেন কোন নিয়ামত কোথায় মানায়; বিনয়ের সঙ্গে তা বহন করুন আর তাঁর বরকতের দিকে চালান।"
   }
 };
 
