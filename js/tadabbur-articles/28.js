@@ -2939,6 +2939,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:83": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Ground Closed",
+          "bn": "মাটি বুজে যাওয়ার পর"
+        },
+        "p": [
+          {
+            "en": "The account of Qarun has run its course by 28:82: the earth has swallowed him and his house, and yesterday's admirers are thankful to have been spared. As-Sa'di reads 28:83 as the lesson drawn from all of it. Allah has mentioned Qarun, what he was given of this world and where his affair ended, and that the people of knowledge said Allah's reward is better for whoever believes and does good. So now He makes the Hereafter desirable, and names the way that reaches it.",
+            "bn": "২৮:৮২ আয়াতে এসে কারূনের বৃত্তান্ত শেষ। মাটি তাকে আর তার ঘরকে গিলে ফেলেছে, আর গতকাল যারা তার মতো হতে চেয়েছিল, তারা বেঁচে যাওয়ায় আজ শুকরিয়া করছে। সা'দী ২৮:৮৩ আয়াতকে দেখেন গোটা ঘটনার নির্যাস হিসেবে। আল্লাহ কারূনের কথা বললেন, দুনিয়ার কী কী তাকে দেওয়া হয়েছিল আর শেষে তার কী দশা হলো, সেটাও বললেন। জ্ঞানীরা যে বলেছিলেন, ঈমান ও নেক আমলকারীর জন্য আল্লাহর প্রতিদানই উত্তম, তাও উল্লেখ করলেন। এবার তিনি আখিরাতের প্রতি আগ্রহ জাগাচ্ছেন এবং সেখানে পৌঁছানোর পথটা বলে দিচ্ছেন।"
+          },
+          {
+            "en": "The verse opens with tilka, that. Al-Qurtubi says the Hereafter is meant as Paradise, and that the word is used to magnify it and raise its standing: that home you have heard mentioned and whose description has reached you. As-Sa'di fills the description in: the home Allah told of in His books and His messengers told of, which has gathered every delight and from which everything that clouds or spoils has been pushed away. Ibn Kathir calls its bliss lasting, never shifting and never ending.",
+            "bn": "আয়াত শুরু হয় তিলকা শব্দ দিয়ে, অর্থাৎ ওই যে। কুরতুবী বলেন, আখিরাতের ঘর বলতে এখানে জান্নাত বোঝানো হয়েছে। শব্দটা আনা হয়েছে তার মহিমা ও মর্যাদা বোঝাতে: সেই ঘর, যার কথা তুমি শুনেছ আর যার বর্ণনা তোমার কাছে পৌঁছেছে। সা'দী বর্ণনাটা পূর্ণ করেন। এ সেই ঘর, যার খবর আল্লাহ তাঁর কিতাবগুলোতে দিয়েছেন আর তাঁর রাসূলগণ দিয়েছেন। সব নিয়ামত সেখানে জমা, আর যা কিছু মন খারাপ করে বা আনন্দ নষ্ট করে, তা সেখান থেকে দূর করা হয়েছে। ইবন কাসীর এর নিয়ামতকে বলেন স্থায়ী, যা বদলায় না, ফুরায়ও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Barred at the Level of Desire",
+          "bn": "বাধা পড়ে চাওয়াতেই"
+        },
+        "p": [
+          {
+            "en": "Najʿaluha lilladhina la yuriduna: We assign it to those who do not want. The verse could have said those who do not exalt themselves, or do not corrupt. It names the wanting instead. As-Sa'di: they have no desire for it at all, so how could they work for height on the earth over Allah's servants? If they have no will toward height and corruption, then their will is turned toward Allah, their aim is the Hereafter, and their state is humility toward His servants and yielding to the truth.",
+            "bn": "নাজআলুহা লিল্লাযীনা লা ইউরীদূনা: আমি তা দিই তাদেরকে, যারা চায় না। আয়াত বলতে পারত, যারা নিজেদের বড় করে না বা বিপর্যয় ঘটায় না। তা না বলে আয়াত ধরেছে চাওয়াটাকে। সা'দী বলেন: তাদের মনে এর কোনো ইচ্ছাই নেই, তাহলে আল্লাহর বান্দাদের উপরে উঁচু হওয়ার জন্য তারা কাজ করবে কীভাবে? উঁচু হওয়া আর বিপর্যয়ের দিকে যাদের ইচ্ছা নেই, তাদের ইচ্ছা তখন আল্লাহর দিকে ফেরানো। তাদের লক্ষ্য আখিরাত, আর তাদের অবস্থা হলো বান্দাদের সামনে বিনয় আর সত্যের কাছে নত হওয়া।"
+          },
+          {
+            "en": "As-Sa'di then draws a conclusion from the verse's restriction. The home is assigned to these people, so those who do want height on the earth, or corruption, have no share in the Hereafter and no portion of it. Ma'arif al-Qur'an reads the same clause as a lesson about intention. Since the mere intending of pride and mischief is said to bar a person from the Hereafter's share, it follows, citing Ruh al-Ma'ani, that a firm resolve to sin is itself a sin.",
+            "bn": "আয়াতের সীমাবদ্ধ বাক্যগঠন থেকে সা'দী একটা সিদ্ধান্ত টানেন। ঘরটা যেহেতু এদের জন্যই নির্ধারিত, তাই যারা পৃথিবীতে উঁচু হতে চায় বা বিপর্যয় চায়, আখিরাতে তাদের কোনো ভাগ নেই, কোনো অংশও নেই। মাআরিফুল কুরআন একই অংশ থেকে নিয়তের শিক্ষা বের করে। অহংকার আর বিপর্যয়ের নিছক ইচ্ছাই যদি আখিরাতের অংশ থেকে বঞ্চিত করে, তাহলে রূহুল মাআনীর বরাতে বোঝা যায়, গুনাহর পাকা সংকল্পও গুনাহ।"
+          },
+          {
+            "en": "Ma'arif adds a qualification, citing al-Ghazali. If a person changes his mind out of fear of Allah, a reward is written for him instead of a sin. If he held the firm intention and failed to act only because something beyond his control stopped him, the sin stays recorded against him. Read this way, the verse looks first at what a person is reaching for, before any deed.",
+            "bn": "গাযালীর বরাতে মাআরিফ এর সঙ্গে একটা শর্ত জোড়ে। কেউ যদি আল্লাহর ভয়ে মত বদলায়, তবে গুনাহর বদলে তার আমলনামায় নেকি লেখা হয়। আর যদি পাকা নিয়ত থাকে, কিন্তু শুধু নিজের সাধ্যের বাইরের কোনো কারণে কাজটা করতে না পারে, তবে গুনাহটা তার নামেই লেখা থাকে। এভাবে পড়লে আয়াত কাজের আগেই দেখে, মানুষটা কীসের দিকে হাত বাড়াচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Height Against Whom",
+          "bn": "উঁচু হওয়া, কার বিপরীতে"
+        },
+        "p": [
+          {
+            "en": "What is the ʿuluww, the height, that must not even be wanted? A first line of glosses sets it against the truth. At-Tabari explains it as arrogance toward the truth on the earth and haughtiness against it, and al-Muyassar keeps his words: arrogance against the truth. Al-Qurtubi has it as elevation and arrogance over faith and the believers. Al-Baghawi reports al-Kalbi and Muqatil reading it as arrogance in refusing faith. On this line the height is a refusal to bow to what is right.",
+            "bn": "যে উলুব্ব বা উঁচু হওয়া চাওয়াও চলে না, সেটা আসলে কী? এক দল ব্যাখ্যা একে দাঁড় করায় সত্যের বিপরীতে। তাবারী বলেন, এর মানে পৃথিবীতে সত্যের প্রতি অহংকার আর সত্যের বিরুদ্ধে দম্ভ। মুয়াসসারও তাঁর ভাষা রাখে: সত্যের বিরুদ্ধে অহংকার। কুরতুবীর ব্যাখ্যায় এটা ঈমান ও মুমিনদের উপরে নিজেকে তোলা আর অহংকার করা। বাগাভী কালবী ও মুকাতিল থেকে বর্ণনা করেন, এর অর্থ ঈমান আনতে অহংকারে অস্বীকার। এ ব্যাখ্যায় উঁচু হওয়া মানে ন্যায়ের সামনে মাথা নোয়াতে অস্বীকার।"
+          },
+          {
+            "en": "A second line sets it against people. Ibn Kathir: lifting oneself above Allah's creatures, magnifying oneself over them and tyrannising them. He and at-Tabari both report ʿIkrima: al-ʿuluww is tyranny; Saʿid ibn Jubayr: it is transgression; Muslim al-Batin: arrogance on the earth without right; Ibn Jurayj: self-magnifying and tyranny. Al-Baghawi adds ʿAtaʾ: lording it over people and holding them cheap. Ma'arif al-Qur'an puts it in a sentence: presenting oneself as superior, looking down on others and treating them with contempt.",
+            "bn": "দ্বিতীয় দল ব্যাখ্যা একে দাঁড় করায় মানুষের বিপরীতে। ইবন কাসীর বলেন, আল্লাহর সৃষ্টির উপরে নিজেকে তোলা, তাদের সামনে নিজেকে বড় দেখানো আর তাদের উপর জুলুম চালানো। তিনি ও তাবারী দুজনেই বর্ণনা করেন: ইকরিমা বলেছেন, উলুব্ব মানে স্বেচ্ছাচারী দাপট। সাঈদ ইবন জুবাইর বলেছেন, সীমালঙ্ঘন। মুসলিম আল-বাতীন বলেছেন, পৃথিবীতে অন্যায়ভাবে অহংকার। ইবন জুরাইজ বলেছেন, নিজেকে বড় করা আর দাপট দেখানো। বাগাভী যোগ করেন আতার কথা: মানুষের উপর কর্তৃত্ব ফলানো আর তাদের তুচ্ছ ভাবা। মাআরিফুল কুরআন এক বাক্যে বলে: নিজেকে অন্যদের চেয়ে শ্রেষ্ঠ দেখানো, অন্যদের হেয় চোখে দেখা আর অপমানজনক আচরণ করা।"
+          },
+          {
+            "en": "Al-Baghawi records a further gloss, from al-Hasan, that points at a quieter form: not seeking nobility and honour in the presence of a man of power. The commentators do not set the two lines against each other. At-Tabari, after giving his own reading, says the people of interpretation spoke in the same vein. Height against the truth and height over people sit together in their glosses, and a hadith quoted below names both of them in one breath.",
+            "bn": "বাগাভী আরও একটা ব্যাখ্যা আনেন হাসান থেকে, যা এক নীরব রূপের দিকে ইশারা করে: ক্ষমতাবান কারও দরবারে মর্যাদা আর সম্মান না খোঁজা। তাফসীরকারেরা এ দুই দল ব্যাখ্যাকে পরস্পরের বিরোধী হিসেবে দাঁড় করান না। তাবারী নিজের ব্যাখ্যা দেওয়ার পর বলেন, তাফসীরবিদেরা একই ধাঁচে বলেছেন। সত্যের বিপরীতে উঁচু হওয়া আর মানুষের উপরে উঁচু হওয়া তাঁদের ব্যাখ্যায় পাশাপাশি থাকে। সামনে উদ্ধৃত একটি হাদীস দুটোকেই এক নিঃশ্বাসে উল্লেখ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Counts as Fasad",
+          "bn": "ফাসাদ বলতে কী"
+        },
+        "p": [
+          {
+            "en": "Wa la fasadan, nor corruption, drew a wider spread of readings. Ibn Jurayj, reported by at-Tabari, Ibn Kathir and al-Qurtubi, and Muqatil alongside him in al-Qurtubi and al-Baghawi, said: working sins. At-Tabari's own gloss joins two things: wronging people without right, and working disobedience to Allah on the earth. Muslim al-Batin, in at-Tabari and Ibn Kathir, said: taking wealth without right. Al-Baghawi gives that reading to ʿIkrima, and al-Qurtubi to ʿIkrima and Muslim al-Batin together. Ma'arif al-Qur'an reports Sufyan ath-Thawri taking the word as oppression.",
+            "bn": "ওয়া লা ফাসাদা, বিপর্যয়ও নয়: এ শব্দ নিয়ে ব্যাখ্যা আরও ছড়ানো। তাবারী, ইবন কাসীর ও কুরতুবী বর্ণনা করেন ইবন জুরাইজের কথা, আর কুরতুবী ও বাগাভী তাঁর পাশে রাখেন মুকাতিলকে: এর মানে গুনাহের কাজ করা। তাবারীর নিজের ব্যাখ্যায় দুটো জিনিস একসঙ্গে: অন্যায়ভাবে মানুষের উপর জুলুম, আর পৃথিবীতে আল্লাহর নাফরমানি। তাবারী ও ইবন কাসীরে মুসলিম আল-বাতীন বলেন: অন্যায়ভাবে সম্পদ দখল। বাগাভী এ ব্যাখ্যা দেন ইকরিমার নামে, আর কুরতুবী ইকরিমা ও মুসলিম আল-বাতীন দুজনের নামে। মাআরিফুল কুরআন সুফিয়ান সাওরী থেকে আনে, শব্দটির অর্থ জুলুম।"
+          },
+          {
+            "en": "Two narrower readings stand at the edge. Al-Kalbi, in al-Qurtubi and al-Baghawi, took fasad as calling people to worship other than Allah; Yahya ibn Sallam, in al-Qurtubi, took it as killing the prophets and the believers. At the other end, as-Sa'di says the word covers every sin, and Ma'arif records commentators who held that every sin is a corruption in the world, because its harm cuts down the world's blessings. The commentators leave these side by side, and so does this article.",
+            "bn": "দুটি সংকীর্ণ ব্যাখ্যা আছে এক প্রান্তে। কুরতুবী ও বাগাভীতে কালবী বলেন, ফাসাদ মানে আল্লাহ ছাড়া অন্যের ইবাদতের দিকে মানুষকে ডাকা। কুরতুবীতে ইয়াহইয়া ইবন সাল্লাম বলেন, নবীগণ ও মুমিনদের হত্যা। অন্য প্রান্তে সা'দী বলেন, শব্দটা সব গুনাহকে শামিল করে। মাআরিফ কিছু তাফসীরকারের মত আনে যে প্রতিটি গুনাহই দুনিয়ায় ফাসাদ, কারণ গুনাহর কুফল দুনিয়ার বরকত কমিয়ে দেয়। তাফসীরকারেরা এ ব্যাখ্যাগুলো পাশাপাশি রেখে দেন, এ লেখাও তা-ই করছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Strap Finer Than His",
+          "bn": "জুতার ফিতা, তার চেয়ে ভালো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives a saying of ʿAli (RA) with its chain, through Ibn Wakiʿ, his father and Ashʿath as-Samman: a man may be pleased that the strap of his sandal is finer than his companion's strap, and so he enters under the words, That home of the Hereafter We assign to those who do not want height on the earth. Ibn Kathir carries the same report from Ibn Jarir. Neither of them, in the text fetched here, comments on its chain; both treat it as a saying of ʿAli, not of the Prophet ﷺ.",
+            "bn": "তাবারী আলী (রাঃ)-এর একটি উক্তি সনদসহ আনেন, ইবন ওয়াকী, তাঁর পিতা ও আশআস আস-সাম্মানের সূত্রে। উক্তিটি হলো: মানুষ খুশি হয় যে তার জুতার ফিতা সঙ্গীর জুতার ফিতার চেয়ে ভালো, আর এতেই সে পড়ে যায় এ আয়াতের আওতায়: আখিরাতের সেই ঘর আমি তাদের জন্য নির্ধারণ করি, যারা পৃথিবীতে উঁচু হতে চায় না। ইবন কাসীর একই বর্ণনা আনেন ইবন জারীর থেকে। এখানে সংগৃহীত লেখায় তাঁদের কেউই সনদ নিয়ে মন্তব্য করেননি। দুজনেই একে আলী (রাঃ)-এর উক্তি হিসেবেই রাখেন, নবী ﷺ-এর বাণী হিসেবে নয়।"
+          },
+          {
+            "en": "Ibn Kathir does not let the saying stand alone. He takes it to apply when a man wants, by that, to boast and lord it over others, which is blameworthy, and cites the Prophet ﷺ in the Sahih. Sahih Muslim (2865) has it as an addition in a transmission of ʿIyad ibn Himar's report: and Allah revealed to me that you should be humble, so that no one boasts over another and no one transgresses against another. But if a man loves it only for its beauty, Ibn Kathir says, there is no harm in it.",
+            "bn": "ইবন কাসীর উক্তিটাকে একা ছেড়ে দেন না। তিনি বলেন, এটা প্রযোজ্য তখন, যখন মানুষ এর মাধ্যমে অহংকার করতে আর অন্যের উপর বড়াই ফলাতে চায়। কারণ সেটা নিন্দনীয়, আর এর পক্ষে তিনি সহীহ গ্রন্থ থেকে নবী ﷺ-এর বাণী আনেন। সহীহ মুসলিমে (২৮৬৫) ইয়াদ ইবন হিমারের বর্ণনার এক সূত্রে এটি অতিরিক্ত অংশ হিসেবে আছে: আর আল্লাহ আমার প্রতি ওহী পাঠিয়েছেন যে তোমরা বিনয়ী হও, যাতে কেউ কারও উপর বড়াই না করে আর কেউ কারও উপর সীমালঙ্ঘন না করে। কিন্তু কেউ যদি শুধু সৌন্দর্যের জন্যই জিনিসটা ভালোবাসে, ইবন কাসীর বলেন, তাতে দোষ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Speck in the Heart",
+          "bn": "অন্তরে বিন্দু পরিমাণ"
+        },
+        "p": [
+          {
+            "en": "The question Ibn Kathir raises, whether loving a fine thing is itself pride, was put to the Prophet ﷺ directly. Sahih Muslim (91) records from ʿAbdullah ibn Masʿud (RA) that the Prophet ﷺ said: No one will enter Paradise who has in his heart the weight of a speck of pride. A man said: A man loves that his garment be fine and his sandals fine. He said: Allah is beautiful and loves beauty. Pride is rejecting the truth and looking down on people.",
+            "bn": "ইবন কাসীর যে প্রশ্ন তোলেন, সুন্দর জিনিস ভালোবাসাই কি অহংকার, সেটা সরাসরি নবী ﷺ-কে জিজ্ঞেস করা হয়েছিল। সহীহ মুসলিমে (৯১) আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: যার অন্তরে বিন্দু পরিমাণ অহংকার আছে, সে জান্নাতে প্রবেশ করবে না। এক ব্যক্তি বলল: মানুষ তো চায় তার পোশাক সুন্দর হোক, তার জুতা সুন্দর হোক। তিনি বললেন: আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন। অহংকার হলো সত্যকে প্রত্যাখ্যান করা আর মানুষকে তুচ্ছ জ্ঞান করা।"
+          },
+          {
+            "en": "Muslim placed it in his Sahih. No commentator fetched here attaches it to this verse as the reason for its revelation; it is a general teaching on pride, and Ibn Kathir brings its question and answer to explain the verse, not to date it. Its closing definition maps neatly onto the two lines of gloss above. Rejecting the truth is the height that at-Tabari and al-Muyassar describe, and looking down on people is the height Ibn Kathir, ʿAtaʾ and Ma'arif describe. The hadith keeps both under a single name.",
+            "bn": "ইমাম মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে রেখেছেন। এখানে সংগৃহীত কোনো তাফসীরকার একে এ আয়াতের নাযিলের কারণ হিসেবে জুড়ে দেননি। এটা অহংকার নিয়ে সাধারণ শিক্ষা। ইবন কাসীর এর প্রশ্নোত্তর অংশটা আনেন আয়াতের অর্থ বোঝাতে, নাযিলের প্রেক্ষাপট বলতে নয়। হাদীসের শেষ সংজ্ঞাটা উপরের দুই দল ব্যাখ্যার সঙ্গে সুন্দর মিলে যায়। সত্যকে প্রত্যাখ্যান, এ সেই উঁচু হওয়া, যার কথা তাবারী ও মুয়াসসার বলেন। মানুষকে তুচ্ছ জ্ঞান করা, এ সেই উঁচু হওয়া, যার কথা বলেন ইবন কাসীর, আতা ও মাআরিফ। হাদীস দুটোকেই এক নামে বেঁধে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Off the Mount, Onto the Ground",
+          "bn": "বাহন থেকে নেমে মাটিতে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi tells how a man of the early generations read this verse. Sufyan ibn ʿUyayna reported from Ismaʿil ibn Abi Khalid that ʿAli ibn al-Husayn, riding past some poor men who were eating scraps of bread, greeted them, and they invited him to their food. He recited this verse, That home of the Hereafter We assign to those who do not want height on the earth nor corruption, dismounted and ate with them. Al-Qurtubi says at-Tabarani recorded it through ʿAbdullah ibn Ahmad ibn Hanbal from his father.",
+            "bn": "আগের প্রজন্মের এক মানুষ এ আয়াতকে কীভাবে পড়েছিলেন, কুরতুবী তা বলেন। সুফিয়ান ইবন উয়াইনা ইসমাঈল ইবন আবী খালিদ থেকে বর্ণনা করেন: আলী ইবনুল হুসাইন বাহনে চড়ে যাচ্ছিলেন। পথে কয়েকজন গরিব মানুষ রুটির টুকরো খাচ্ছিল। তিনি তাদের সালাম দিলেন, আর তারা তাঁকে নিজেদের খাবারে ডাকল। তিনি এ আয়াত তিলাওয়াত করলেন, আখিরাতের সেই ঘর আমি তাদের জন্য নির্ধারণ করি, যারা পৃথিবীতে উঁচু হতে চায় না, বিপর্যয়ও চায় না। তারপর নেমে তাদের সঙ্গে খেলেন। কুরতুবী বলেন, তাবারানী এটি বর্ণনা করেছেন আবদুল্লাহ ইবন আহমাদ ইবন হাম্বলের মাধ্যমে, তাঁর পিতা থেকে।"
+          },
+          {
+            "en": "The account goes on. He told them: I have answered your invitation, so answer mine. He took them to his house, fed them, clothed them and sent them on their way. Al-Qurtubi also quotes Abu Muʿawiya on who the man without the wanting is: the person not distressed by lowliness on the earth and does not compete for honour on it. The highest of them with Allah, he said, is the most humble, and the most honoured tomorrow are those who cling most to lowliness today.",
+            "bn": "ঘটনা এখানেই শেষ নয়। তিনি তাদের বললেন: আমি তোমাদের দাওয়াত কবুল করেছি, এবার তোমরা আমারটা কবুল করো। তিনি তাদের নিজের বাড়িতে নিয়ে গেলেন, খাওয়ালেন, কাপড় পরালেন, তারপর বিদায় দিলেন। কুরতুবী আবু মুআবিয়ার কথাও আনেন, যে মানুষ উঁচু হতে চায় না সে কে: পৃথিবীতে হীন অবস্থায় যে অস্থির হয় না, আর এখানকার সম্মান নিয়ে যে পাল্লা দেয় না। তিনি বলেন, আল্লাহর কাছে তাদের মধ্যে সবচেয়ে উঁচু সে, যে সবচেয়ে বিনয়ী। আর কাল সবচেয়ে সম্মানিত তারা, যারা আজ বিনয়ের হীন অবস্থাকে সবচেয়ে আঁকড়ে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Outcome Belongs to the Wary",
+          "bn": "শেষ ফল মুত্তাকীদের"
+        },
+        "p": [
+          {
+            "en": "Wal-ʿaqibatu lil-muttaqin: and the outcome is for those who guard themselves. At-Tabari says the outcome is Paradise, and defines the muttaqin as those who guarded against disobeying Allah and carried out what He made obligatory. He reports Qatada: Paradise is for the muttaqin. Al-Qurtubi gives the same from ad-Dahhak, and al-Muyassar calls it the praised outcome, Paradise, for whoever guards against Allah's punishment, does the acts of obedience and leaves the forbidden. Al-Baghawi likewise speaks of the praised outcome.",
+            "bn": "ওয়াল আকিবাতু লিল মুত্তাকীন: আর শেষ ফল মুত্তাকীদের জন্য। তাবারী বলেন, শেষ ফল মানে জান্নাত। মুত্তাকী তারা, যারা আল্লাহর নাফরমানি থেকে বেঁচে থেকেছে আর তাঁর ফরজগুলো আদায় করেছে। তিনি কাতাদা থেকে বর্ণনা করেন: জান্নাত মুত্তাকীদের জন্য। কুরতুবী একই কথা আনেন দাহহাক থেকে। মুয়াসসার বলে, প্রশংসিত শেষ ফল, অর্থাৎ জান্নাত, তার জন্য যে আল্লাহর আযাব থেকে বাঁচে, আনুগত্যের কাজ করে আর হারাম ছেড়ে দেয়। বাগাভীও প্রশংসিত শেষ ফলের কথা বলেন।"
+          },
+          {
+            "en": "As-Sa'di reads ʿaqiba as the state of success and attainment that settles and goes on. Others, he says, even if some prominence and ease come their way, do not keep it long, and it passes soon. That is the Qarun account in a sentence. Ma'arif al-Qur'an draws a further point from the closing words: keeping clear of pride and mischief is not enough on its own to earn the Hereafter's share, for following the righteous path and fulfilling the religion's obligations is needed as well.",
+            "bn": "সা'দী আকিবা বলতে বোঝেন সাফল্য আর লক্ষ্যে পৌঁছানোর সেই অবস্থা, যা স্থির হয় আর টিকে থাকে। অন্যদের কথা তিনি বলেন: কিছুটা প্রভাব আর আরাম তাদের হাতে এলেও তা বেশি দিন থাকে না, শিগগিরই চলে যায়। এক বাক্যে এটাই কারূনের বৃত্তান্ত। মাআরিফুল কুরআন শেষ শব্দগুলো থেকে আরেকটা কথা বের করে। শুধু অহংকার আর বিপর্যয় থেকে দূরে থাকলেই আখিরাতের অংশ মেলে না। সঠিক পথে চলা আর দ্বীনের ফরজগুলো পালন করাও জরুরি।"
+          },
+          {
+            "en": "Al-Qurtubi closes with a reading he introduces under qila, it was said. The phrase the home of the Hereafter takes in both reward and punishment, and the meaning is that only the one who guards himself benefits from that home. For whoever does not, the home is against him and not for him, because it harms him and does not help him. On this reading the verse is not only a promise; it is also a quiet notice to everyone else.",
+            "bn": "কুরতুবী শেষ করেন একটি মত দিয়ে, যা তিনি আনেন কীলা বলে, অর্থাৎ বলা হয়েছে। আখিরাতের ঘর কথাটায় প্রতিদান ও শাস্তি দুটোই আছে। অর্থ হলো, সে ঘর থেকে উপকার পায় শুধু সে, যে তাকওয়া অবলম্বন করে। যে করে না, ঘরটা তার পক্ষে নয়, তার বিপক্ষে। কারণ তা তার ক্ষতি করে, কোনো উপকারে আসে না। এ মতে আয়াত শুধু ওয়াদা নয়, বাকি সবার জন্য নিঃশব্দ এক সতর্কবার্তাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reader Examined First",
+          "bn": "আগে পরীক্ষা পাঠকের"
+        },
+        "p": [
+          {
+            "en": "This verse closes the account of a condemned man. It describes what the text describes, Qarun's height, his end and the home promised to people unlike him, and it licenses nothing against any living person, leader or community. It gives no one a verdict to pass on a ruler, a rich family or a rival group. Its own wording points elsewhere: those who do not want. Wanting is visible to no one but Allah and the person who wants.",
+            "bn": "এ আয়াত এক নিন্দিত মানুষের বৃত্তান্তের ইতি টানে। আয়াত শুধু তা-ই বলে, যা পাঠে আছে: কারূনের উঁচু হওয়া, তার পরিণতি, আর তার মতো নয় এমন মানুষদের জন্য ওয়াদাকৃত ঘর। জীবিত কোনো মানুষ, নেতা বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো শাসক, ধনী পরিবার বা প্রতিপক্ষ দলের উপর রায় দেওয়ার অধিকারও কাউকে দেয় না। আয়াতের নিজের শব্দ অন্য দিকে ইশারা করে: যারা চায় না। কে কী চায়, তা আল্লাহ আর সেই মানুষটি ছাড়া কেউ দেখে না।"
+          },
+          {
+            "en": "So the reader is the first one examined. Ibn Kathir's line keeps it honest both ways: a good garment or a good pair of sandals is no crime, and the same pair worn to be a step above a companion is. Between those two, the deciding thing is the wanting the verse names. As-Sa'di described where such wanting goes when it leaves the earth: toward Allah, the Hereafter, humility with His servants and yielding to the truth. That is the direction the verse invites.",
+            "bn": "কাজেই প্রথম পরীক্ষা পাঠকের নিজের। ইবন কাসীরের সীমারেখা এ পরীক্ষাকে দুই দিক থেকেই সৎ রাখে। ভালো পোশাক বা ভালো জুতা কোনো অপরাধ নয়। কিন্তু সঙ্গীর চেয়ে এক ধাপ উপরে থাকার জন্য পরা সেই একই জুতা অপরাধ। দুইয়ের মাঝে সিদ্ধান্ত হয় সেই চাওয়া দিয়ে, যার নাম আয়াত নিয়েছে। পৃথিবীর উঁচু আসন ছেড়ে এই চাওয়া কোথায় যায়, সা'দী তা বলে দিয়েছেন: আল্লাহর দিকে, আখিরাতের দিকে, বান্দাদের সঙ্গে বিনয় আর সত্যের কাছে নত হওয়ার দিকে। আয়াত সেই দিকেই ডাকে।"
+          }
+        ]
+      }
+    ]
+  },
   "28:88": {
     "sections": [
       {

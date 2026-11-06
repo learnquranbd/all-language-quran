@@ -24929,6 +24929,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "No place on earth or above it puts you beyond Allah's reach, and no patron can shield you from Him; so make Him your protector and run toward Him.",
     "lessonBn": "পৃথিবীর বা তার উপরের কোনো জায়গা আপনাকে আল্লাহর নাগালের বাইরে নেয় না, কোনো পৃষ্ঠপোষকও তাঁর থেকে আড়াল করতে পারে না। তাই তাঁকেই অভিভাবক বানান, তাঁর দিকেই ছুটে যান।"
+  },
+  "28:83": {
+    "reflectionEn": "The story of Qarun ends with the earth closing over him and his house, and with yesterday's admirers relieved that they were spared. Then the Qur'an steps back from the scene and speaks to everyone. That home of the Hereafter, it says, is for those who do not want height on the earth, nor corruption. It does not say for those who never reached height, or never had the chance to spoil anything. It says those who do not want it. The test sits in the wanting, before any deed. So the question is not only what I have done with my standing. It is what I keep reaching for: to be above people, or to be near the One whose reward is better.",
+    "reflectionBn": "কারূনের কাহিনি শেষ হয় তাকে আর তার প্রাসাদকে মাটি গিলে ফেলার মধ্য দিয়ে। গতকাল যারা তার মতো হতে চেয়েছিল, তারা তখন হাঁফ ছেড়ে বলে, আমরা বেঁচে গেছি। এরপর কুরআন দৃশ্য থেকে সরে এসে সবার সঙ্গে কথা বলে। আখিরাতের সেই ঘর, কুরআন বলছে, তাদের জন্য যারা পৃথিবীতে উঁচু হতে চায় না, বিপর্যয়ও চায় না। এ কথা বলা হয়নি যে ঘরটা তাদের, যারা কখনো উঁচুতে ওঠেনি বা নষ্ট করার সুযোগ পায়নি। বলা হয়েছে, যারা তা চায় না। পরীক্ষা তাই কাজের আগেই, চাওয়ার ভেতরে। কাজেই প্রশ্ন শুধু এটা নয় যে নিজের অবস্থান দিয়ে আমি কী করেছি। প্রশ্ন হলো, আমি বারবার কীসের দিকে হাত বাড়াই: মানুষের উপরে ওঠার দিকে, নাকি সেই সত্তার কাছে যাওয়ার দিকে, যাঁর প্রতিদানই শ্রেষ্ঠ?",
+    "pointsEn": [
+      "Where in my week do I most want to be seen above others: at work, at home, online, or even in the mosque?",
+      "Do I enjoy a fine thing for its own sake, or because it puts me a step above the person beside me?",
+      "When someone tells me a truth that goes against me, do I take it, or brush it aside to protect my standing?",
+      "If no one ever learned of a good thing I did, would I still do it the same way?",
+      "What one ordinary act this week would bring me down among people rather than up over them?"
+    ],
+    "pointsBn": [
+      "সপ্তাহের কোন জায়গায় আমি সবচেয়ে বেশি চাই অন্যদের চেয়ে উঁচু দেখাতে: কাজে, ঘরে, অনলাইনে, নাকি মসজিদেও?",
+      "কোনো সুন্দর জিনিস কি আমার ভালো লাগে তার নিজের জন্য, নাকি এ জন্য যে তা আমাকে পাশের মানুষটার চেয়ে এক ধাপ উপরে তোলে?",
+      "কেউ যখন আমার বিপক্ষে যায় এমন কোনো সত্য কথা বলে, আমি কি তা মেনে নিই, নাকি নিজের মান বাঁচাতে উড়িয়ে দিই?",
+      "আমার কোনো ভালো কাজের কথা কেউ কোনো দিন না জানলেও কি আমি সেটা ঠিক একইভাবে করতাম?",
+      "এ সপ্তাহে কোন সাধারণ একটা কাজ আমাকে মানুষের উপরে না তুলে তাদের মাঝে নামিয়ে আনবে?"
+    ],
+    "lessonEn": "The Hereafter is promised to those who do not even want to rise over others or spoil the earth, so watch what you reach for, not only what you do.",
+    "lessonBn": "আখিরাতের ঘরের ওয়াদা তাদের জন্য, যারা মানুষের উপরে উঠতে বা পৃথিবীতে বিপর্যয় ঘটাতে চায়ই না। তাই শুধু কী করছেন তা নয়, কীসের দিকে হাত বাড়াচ্ছেন সেটাও খেয়াল রাখুন।"
   }
 };
 
