@@ -27489,6 +27489,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read the stones of clay as a warning to your own heart, never as a verdict on anyone living, and answer the warnings you have already heard.",
     "lessonBn": "মাটির পাথরের কথা পড়ুন নিজের অন্তরের জন্য সতর্কবাণী হিসেবে, জীবিত কারও উপর রায় হিসেবে কখনো নয়, আর যে সতর্কবাণী আগেই শুনেছেন তার ডাকে সাড়া দিন।"
+  },
+  "52:15": {
+    "reflectionEn": "The deniers are driven to the edge of the Fire and told: this is the Fire you used to call a lie. Then comes a question they cannot answer. Is this magic? In the world they kept that word ready for whatever unsettled them: magic, a trick played on the eyes. Now the thing they mocked stands before their own eyes, and their old word is handed back to them. Or do you not see? No one waits for a reply, because the question is a rebuke. The verse is not given to us so that we can picture other people there. It is given while seeing can still change something. What word do I keep ready so that I never have to look?",
+    "reflectionBn": "সত্য অস্বীকারকারীদের ধাক্কা দিয়ে আগুনের কিনারায় আনা হয়েছে। বলা হচ্ছে: এই সেই আগুন, যাকে তোমরা মিথ্যা বলতে। তারপর আসে এমন এক প্রশ্ন, যার জবাব তাদের কাছে নেই। এটা কি যাদু? দুনিয়াতে যা কিছু তাদের অস্বস্তিতে ফেলত, তার জন্য এই শব্দটা তারা হাতের কাছে রাখত: যাদু, চোখের ধাঁধা। আজ যাকে নিয়ে তারা ঠাট্টা করত, সেটা তাদের নিজের চোখের সামনে। তাদের পুরোনো শব্দটাই ফিরিয়ে দেওয়া হচ্ছে তাদের হাতে। নাকি তোমরা দেখতে পাচ্ছ না? কেউ উত্তরের অপেক্ষা করে না, কারণ প্রশ্নটা আসলে ধমক। অন্যদের সেখানে কল্পনা করার জন্য আয়াতটা আমাদের দেওয়া হয়নি। দেওয়া হয়েছে এমন সময়ে, যখন দেখলে এখনো কিছু বদলায়। কোন শব্দটা আমি হাতের কাছে রাখি, যাতে কখনো তাকিয়ে দেখতে না হয়?",
+    "pointsEn": [
+      "When a reminder unsettles me, what word do I reach for so that I can stop listening without having to answer it?",
+      "Is there something I already know to be true, and am only waiting to see with my own eyes before I act on it?",
+      "When I read verses about the Fire, do I hear them about myself, or do I quietly picture other people in them?",
+      "Which clear sign in my own life have I explained away as chance, habit or someone else's influence?",
+      "What would it mean for me to look properly now, while looking can still change what I do?"
+    ],
+    "pointsBn": [
+      "কোনো উপদেশ যখন মনে অস্বস্তি জাগায়, কোন শব্দটা টেনে এনে আমি জবাব না দিয়েই শোনা বন্ধ করে দিই?",
+      "এমন কিছু কি আছে, যা সত্য বলে আমি আগেই জানি, অথচ নিজের চোখে না দেখা পর্যন্ত আমল শুরু করছি না?",
+      "জাহান্নামের আয়াত পড়ার সময় কি নিজের কথা শুনি, নাকি মনে মনে অন্য লোকদের সেখানে বসিয়ে দিই?",
+      "আমার নিজের জীবনের কোন স্পষ্ট নিদর্শনকে আমি কাকতালীয়, অভ্যাস বা অন্যের প্রভাব বলে উড়িয়ে দিয়েছি?",
+      "তাকালে যখনো আমার আমল বদলাতে পারে, এখনই ঠিকমতো তাকানো আমার জন্য কী অর্থ বহন করে?"
+    ],
+    "lessonEn": "Look honestly at the truth while looking still helps; do not hide behind a dismissive word, for on that Day what was called magic will stand before every eye.",
+    "lessonBn": "দেখা যখনো কাজে আসে, তখনই সত্যের দিকে সৎভাবে তাকান। অবজ্ঞার কোনো শব্দের আড়ালে লুকাবেন না, কারণ সেদিন যাকে যাদু বলা হতো, তা প্রত্যেকের চোখের সামনে দাঁড়িয়ে থাকবে।"
   }
 };
 

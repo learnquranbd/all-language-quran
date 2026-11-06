@@ -463,6 +463,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "52:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question at the Brink",
+          "bn": "আগুনের কিনারায় এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Afa-sihrun hadha am antum la tubsirun: then is this magic, or do you not see? Six Arabic words, and they belong to a run of speech delivered at the Fire. 52:13 shows the deniers thrust towards Jahannam with a violent shove. 52:14 tells them: this is the Fire you used to deny. 52:16 will tell them to burn in it. Between that announcement and that sentence stands this question, and the fa at its opening ties it to what has just been said: the Fire they denied is now in front of them.",
+            "bn": "আফাসিহরুন হাযা আম আনতুম লা তুবসিরূন: এটা কি যাদু, নাকি তোমরা দেখতে পাচ্ছ না? আরবিতে মাত্র ছয়টি শব্দ। এগুলো আগুনের সামনে বলা একটানা কিছু কথার অংশ। ৫২:১৩ আয়াতে দেখা যায়, অস্বীকারকারীদের প্রচণ্ড ধাক্কায় জাহান্নামের দিকে ঠেলে নেওয়া হচ্ছে। ৫২:১৪ আয়াতে তাদের বলা হয়: এই সেই আগুন, যাকে তোমরা মিথ্যা বলতে। ৫২:১৬ আয়াতে বলা হবে, এতে প্রবেশ করে জ্বলতে থাকো। ঘোষণা আর রায়ের মাঝখানে দাঁড়িয়ে আছে এই প্রশ্ন। শুরুর ফা অক্ষরটি একে আগের কথার সঙ্গে বেঁধে দেয়। যে আগুনকে তারা অস্বীকার করত, সেটা এখন তাদের চোখের সামনে।"
+          },
+          {
+            "en": "Who speaks? The verse itself does not say. At-Tabari explains it as what is said to the deniers the passage has just described, when they arrive at Jahannam on the Day of Resurrection, and al-Qurtubi writes simply yuqalu lahum, it will be said to them. On the verse before, Ibn Kathir names the speakers of this is the Fire as the zabaniya, the keepers of Hell, and says they say it as reproach. Al-Qurtubi and al-Baghawi, on 52:13, have the deniers driven on until, as they draw near, its keepers address them.",
+            "bn": "কথাগুলো কে বলছে? আয়াত নিজে তা বলে না। তাবারীর ব্যাখ্যায়, আগের আয়াতগুলোতে যে অস্বীকারকারীদের বর্ণনা এসেছে, কিয়ামতের দিন জাহান্নামে পৌঁছালে তাদের এ কথা বলা হবে। কুরতুবী শুধু লেখেন, ইউকালু লাহুম, তাদের বলা হবে। আগের আয়াতের আলোচনায় ইবন কাসীর 'এই সেই আগুন' কথাটির বক্তা হিসেবে যাবানিয়ার নাম নেন, অর্থাৎ জাহান্নামের রক্ষীরা। তাঁর মতে তারা কথাটা বলে ভর্ৎসনা হিসেবে। ৫২:১৩ আয়াতের আলোচনায় কুরতুবী ও বাগাভী বলেন, অস্বীকারকারীদের তাড়িয়ে নেওয়া হতে থাকে, আর আগুনের কাছাকাছি এলে তার রক্ষীরা তাদের সম্বোধন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked, Not Meant for Answering",
+          "bn": "প্রশ্ন, তবে উত্তরের জন্য নয়"
+        },
+        "p": [
+          {
+            "en": "The form is a question, and the commentators agree that it is not really one. At-Tabari ends his short note with a single sentence: wa-qila hadha lahum tawbikhan la istifhaman, this was said to them as a rebuke, not as a question. Al-Qurtubi names the device: an istifham whose meaning is tawbikh and taqri', rebuke and reproach. As-Sa'di says the same in his own words: once they saw the Fire and the punishment, it was said to them min bab at-taqri', by way of reproach. No one standing there is expected to reply.",
+            "bn": "চেহারায় এটা প্রশ্ন, কিন্তু তাফসীরকারেরা একমত যে আসলে প্রশ্ন নয়। তাবারী তাঁর ছোট্ট আলোচনা শেষ করেন এক বাক্যে: ওয়া কীলা হাযা লাহুম তাওবীখান লা ইসতিফহামান, কথাটা তাদের বলা হয়েছে ধমক হিসেবে, জানতে চাওয়ার জন্য নয়। কুরতুবী রীতিটার নাম বলে দেন: এমন ইসতিফহাম, যার অর্থ তাওবীখ ও তাকরী, অর্থাৎ তিরস্কার ও ভর্ৎসনা। সা'দী নিজের ভাষায় একই কথা বলেন। আগুন আর আযাব দেখার পর তাদের এ কথা বলা হয় মিন বাবিত তাকরী, ভর্ৎসনার পথ ধরে। সেখানে দাঁড়ানো কারও কাছে জবাব আশা করা হয় না।"
+          },
+          {
+            "en": "Two paraphrases make the pointing word concrete. The Muyassar reads hadha as what you are witnessing of the punishment: is that magic, or do you not look? At-Tabari adds time to it: is this, which you have now arrived at, magic, or do you not behold it and not see it? His verb for seeing is tu'ayinunahu, to see a thing face to face. The question takes its whole force from that shift. What had reached them as a report, which they could deny, now stands before them as a sight.",
+            "bn": "দুটি ব্যাখ্যা 'এটা' শব্দটিকে স্পষ্ট করে দেয়। মুয়াসসার বলে, আযাবের যা কিছু তোমরা প্রত্যক্ষ করছ, সেটাই হাযা: তা কি যাদু, নাকি তোমরা তাকিয়ে দেখছ না? তাবারী এর সঙ্গে সময় জুড়ে দেন: এই যে জায়গায় তোমরা এখন এসে পৌঁছেছ, এটা কি যাদু, নাকি তোমরা একে চাক্ষুষ দেখছ না, দেখতে পাচ্ছ না? দেখার জন্য তাঁর শব্দ তুআয়িনূনাহু, মুখোমুখি নিজের চোখে দেখা। প্রশ্নের পুরো জোর এই বদলের মধ্যে। যা একসময় খবর হয়ে তাদের কাছে এসেছিল, যাকে অস্বীকার করা যেত, তা এখন চোখের সামনে দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Own Word Handed Back",
+          "bn": "নিজেদের শব্দ নিজেদের কাছে"
+        },
+        "p": [
+          {
+            "en": "Why magic, of all words? Al-Baghawi gives the reason briefly: they used to ascribe magic to Muhammad ﷺ, and to say that he covered over people's sight with magic, so they were rebuked with it. The word was theirs. In the world it had been their ready answer to the Prophet ﷺ and to what he brought. At the Fire it comes back to them, no longer as a verdict they can pass but as a question they cannot answer.",
+            "bn": "এত শব্দ থাকতে যাদু কেন? বাগাভী কারণটা সংক্ষেপে বলেন। তারা মুহাম্মাদ ﷺ-কে যাদুর সঙ্গে জড়াত, আর বলত তিনি যাদু দিয়ে মানুষের চোখ ঢেকে দেন। তাই সেই কথা দিয়েই তাদের ভর্ৎসনা করা হলো। শব্দটা ছিল তাদের নিজেদের। দুনিয়াতে নবী ﷺ আর তাঁর আনা বাণীর জবাবে এটাই ছিল তাদের তৈরি উত্তর। আগুনের সামনে সেই শব্দ তাদের কাছে ফিরে আসে। এখন আর রায় হিসেবে নয়, যা তারা দিতে পারত। এখন এমন প্রশ্ন হয়ে, যার জবাব তাদের কাছে নেই।"
+          },
+          {
+            "en": "The Qur'an records that ready answer more than once. When Our clear verses are recited to them, those who disbelieve say of the truth when it has come to them: this is obvious magic (46:7, and the same words close 34:43). If they see a sign, they turn away and say: passing magic (54:2). Al-Baghawi's note does not cite these verses. They are set here only to show how familiar the charge was, which is why hearing it turned around carries such weight.",
+            "bn": "তাদের এই তৈরি উত্তরের কথা কুরআন একাধিকবার উল্লেখ করেছে। যখন আমার সুস্পষ্ট আয়াত তাদের সামনে পড়া হয়, সত্য তাদের কাছে আসার পর কাফিররা সে সম্পর্কে বলে: এ তো প্রকাশ্য যাদু (৪৬:৭; ৩৪:৪৩ আয়াতের শেষেও একই কথা)। কোনো নিদর্শন দেখলে তারা মুখ ফিরিয়ে নেয় আর বলে: এ তো চলমান যাদু (৫৪:২)। বাগাভীর আলোচনায় এ আয়াতগুলোর উল্লেখ নেই। এখানে এগুলো আনা হয়েছে শুধু এটুকু দেখাতে যে অভিযোগটা তাদের মুখে কত চেনা ছিল। সে কারণেই উল্টে ফেরত আসা কথাটার ভার এত বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Charge About the Eyes",
+          "bn": "চোখ নিয়ে এক অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi's wording has a second half, and it fits the verse's second half. The accusation was not only that the Prophet ﷺ practised magic but that he yughatti 'ala l-absar, covered over people's sight. A charge of magic is a claim about eyes: what you think you see is not there. The Qur'an shows how far that claim could stretch. Even if a gate of heaven were opened and they kept climbing through it, they would say: our eyes have only been dazzled; rather, we are a people bewitched (15:14 and 15:15).",
+            "bn": "বাগাভীর কথার আরেকটা অংশ আছে, আর সেটা আয়াতের দ্বিতীয় অংশের সঙ্গে মিলে যায়। অভিযোগ শুধু এটা ছিল না যে নবী ﷺ যাদু করেন। তারা বলত, তিনি ইউগাত্তী আলাল আবসার, মানুষের দৃষ্টি ঢেকে দেন। যাদুর অভিযোগ আসলে চোখ নিয়ে একটা দাবি: তুমি যা দেখছ বলে ভাবছ, তা আসলে নেই। এ দাবি কত দূর টানা যেতে পারে, কুরআন তা দেখিয়েছে। আকাশের কোনো দরজা খুলে দেওয়া হলে আর তারা সেখান দিয়ে উঠতে থাকলেও তারা বলত: আমাদের চোখ ধাঁধিয়ে দেওয়া হয়েছে, বরং আমরা যাদুগ্রস্ত এক জাতি (১৫:১৪ ও ১৫:১৫)।"
+          },
+          {
+            "en": "Of signs that were mubsira, plain for any eye to see, Pharaoh's people said the same: this is obvious magic (27:13). Now the question asks the deniers to apply their old theory to the Fire. Is this, too, a trick on your eyes? Al-Qurtubi's paraphrase presses on the point: is this magic, which you now see bi-a'yunikum, with your own eyes? No one is left to blame for the sight, and no one is covering anything. Either it is magic, which nobody there can believe, or the fault lay in their seeing.",
+            "bn": "যে নিদর্শনগুলো ছিল মুবসিরা, যে কোনো চোখের কাছে স্পষ্ট, সেগুলো দেখেও ফিরআউনের লোকেরা একই কথা বলেছিল: এ তো প্রকাশ্য যাদু (২৭:১৩)। এখন প্রশ্নটা অস্বীকারকারীদের বলছে, তোমাদের পুরোনো তত্ত্ব আগুনের উপর খাটাও। এটাও কি তোমাদের চোখের ধাঁধা? কুরতুবীর ব্যাখ্যা ঠিক এই জায়গায় চাপ দেয়: যা তোমরা এখন বি-আ'য়ুনিকুম, নিজেদের চোখে দেখছ, তা কি যাদু? দৃশ্যটার জন্য দোষ চাপানোর মতো কেউ আর নেই। কেউ কিছু ঢেকেও দিচ্ছে না। হয় এটা যাদু, যা সেখানে কেউ বিশ্বাস করতে পারে না, নয়তো দোষ ছিল তাদের নিজেদের দেখায়।"
+          },
+          {
+            "en": "The verse names that second possibility outright: am antum la tubsirun, or is it that you do not see? The question no longer points at the messenger or at the sight. It points at those who are looking. Earlier they had said the problem lay in the messenger, who clouded people's eyes. The question turns the direction round. If anything was wrong with seeing, it was never in him or in what he brought; it was in those who looked and did not see.",
+            "bn": "আয়াতটা দ্বিতীয় সম্ভাবনাটার নাম সরাসরি বলে দেয়: আম আনতুম লা তুবসিরূন, নাকি তোমরাই দেখতে পাচ্ছ না? প্রশ্নের আঙুল এখন আর বাণীর বাহকের দিকে নয়, দৃশ্যের দিকেও নয়। আঙুল তাদের দিকে, যারা তাকিয়ে আছে। আগে তারা বলত, গোলমাল বাণীর বাহকের মধ্যে, তিনিই মানুষের চোখ ঝাপসা করে দেন। প্রশ্নটা দিক ঘুরিয়ে দেয়। দেখায় যদি কোনো ত্রুটি থেকে থাকে, তা কখনো তাঁর মধ্যে বা তাঁর আনা বাণীর মধ্যে ছিল না। ত্রুটি ছিল তাদের মধ্যে, যারা তাকিয়েছিল অথচ দেখেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blind Now, or Blind Then",
+          "bn": "এখন অন্ধ, নাকি তখন অন্ধ"
+        },
+        "p": [
+          {
+            "en": "The commentators read that second half in two ways. At-Tabari keeps it in the present: or do you not behold it and not see it, here, now? On that reading the two halves form a dilemma about the moment of arrival, and both of its horns are absurd. Al-Qurtubi gives that plain reading first, and then another introduced with qila, it has been said: am here carries the sense of bal, rather. The meaning then becomes: rather, you were the ones who did not see in the world, and did not reason.",
+            "bn": "আয়াতের এই দ্বিতীয় অংশ তাফসীরকারেরা দুইভাবে পড়েছেন। তাবারী একে বর্তমান কালেই রাখেন: নাকি তোমরা একে চাক্ষুষ দেখছ না, এখানে, এই মুহূর্তে? এভাবে পড়লে দুই অংশ মিলে পৌঁছানোর মুহূর্ত নিয়ে এক উভয়সংকট দাঁড়ায়, যার দুই দিকই অবাস্তব। কুরতুবী প্রথমে এই সরল পাঠটি দেন। তারপর কীলা, বলা হয়েছে, এই শব্দ দিয়ে আরেকটি মত আনেন: এখানে আম শব্দটি বাল অর্থে, অর্থাৎ বরং। তখন অর্থ দাঁড়ায়: বরং তোমরাই দুনিয়াতে দেখতে না, আর বুঝতেও না।"
+          },
+          {
+            "en": "As-Sa'di's paraphrase also moves the second half into the past. Is this magic without reality, now that you have seen it, or were you in the world without sight, with no insight and no knowledge, ignorant of this matter, so that the proof was never established against you? The difference is small in words and real in meaning. On the first reading the question mocks their eyes at the Fire; on the second it reaches back and puts the whole of their earlier life on trial. Al-Qurtubi records both without choosing between them.",
+            "bn": "সা'দীর ব্যাখ্যাও দ্বিতীয় অংশকে অতীতে নিয়ে যায়। এটা কি বাস্তবতাহীন যাদু, অথচ তোমরা তো নিজেরাই দেখছ? নাকি দুনিয়াতে তোমাদের দৃষ্টি ছিল না, অন্তর্দৃষ্টি ছিল না, জ্ঞান ছিল না, এ বিষয়ে তোমরা অজ্ঞ ছিলে, ফলে তোমাদের বিরুদ্ধে প্রমাণ দাঁড়ায়নি? কথায় পার্থক্যটা সামান্য, অর্থে বাস্তব। প্রথম পাঠে প্রশ্নটা আগুনের সামনে তাদের চোখকে বিদ্রূপ করে। দ্বিতীয় পাঠে প্রশ্নটা পেছনে ফিরে যায় এবং তাদের আগের গোটা জীবনকে কাঠগড়ায় তোলে। কুরতুবী দুটো মতই উল্লেখ করেন, কোনোটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Excuse Survives",
+          "bn": "কোনো অজুহাতই টেকে না"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di then answers his own question, and his answer is that both alternatives fail. It was not magic: it has appeared to them as ahaqq al-haqq wa-asdaq as-sidq, the truest of truth and the most truthful of the true, opposed to magic in every respect. Nor were they without sight. Allah's proof had been established against them, the messengers had called them to believe in it, and so many proofs and demonstrations had been set out that it became one of the most clearly demonstrated of all matters.",
+            "bn": "এরপর সা'দী নিজের প্রশ্নের নিজেই জবাব দেন। তাঁর জবাব হলো, দুটো সম্ভাবনাই বাতিল। এটা যাদু ছিল না। তাদের সামনে এটা প্রকাশ পেয়েছে আহাক্কুল হাক্ক ওয়া আসদাকুস সিদক হয়ে, সবচেয়ে সত্য সত্য আর সবচেয়ে খাঁটি সত্যবাদিতা হয়ে, সব দিক থেকে যাদুর বিপরীত। তাদের দৃষ্টি ছিল না, এ কথাও ঠিক নয়। আল্লাহর প্রমাণ তাদের বিরুদ্ধে দাঁড়িয়ে গিয়েছিল। রাসূলগণ তাদের এর প্রতি ঈমানের দিকে ডেকেছিলেন। আর এত দলিল ও প্রমাণ পেশ করা হয়েছিল যে বিষয়টা সবচেয়ে স্পষ্টভাবে প্রমাণিত বিষয়গুলোর একটিতে পরিণত হয়েছিল।"
+          },
+          {
+            "en": "The Qur'an voices the same point at the same place in another surah. In 67:8 and 67:9 the keepers of Hell ask each group as it is thrown in: did no warner come to you? And they answer: yes, a warner did come to us, but we denied. That admission and this question close the same door. No one at the Fire can claim never to have been shown. The pairing is offered here as a reading of the Qur'an by the Qur'an; as-Sa'di's note on 52:15 does not cite 67:8.",
+            "bn": "অন্য এক সূরায় কুরআন একই জায়গায় একই কথা তুলে ধরেছে। ৬৭:৮ ও ৬৭:৯ আয়াতে জাহান্নামের রক্ষীরা প্রতিটি দলকে নিক্ষেপের সময় জিজ্ঞেস করে: তোমাদের কাছে কি কোনো সতর্ককারী আসেনি? তারা জবাব দেয়: হ্যাঁ, সতর্ককারী আমাদের কাছে এসেছিল, কিন্তু আমরা মিথ্যা বলে উড়িয়ে দিয়েছিলাম। সেই স্বীকারোক্তি আর এই প্রশ্ন একই দরজা বন্ধ করে। আগুনের সামনে কেউ দাবি করতে পারবে না যে তাকে দেখানো হয়নি। এ মিলটা এখানে রাখা হয়েছে কুরআন দিয়ে কুরআন বোঝার চেষ্টা হিসেবে। ৫২:১৫ আয়াতে সা'দীর আলোচনায় ৬৭:৮ আয়াতের উল্লেখ নেই।"
+          },
+          {
+            "en": "As-Sa'di also allows a second referent for hadha, this. Most naturally, as the context shows, it points to the Fire and the punishment. But it may point, he says, to the clear truth and the straight path that the Messenger ﷺ brought: is what Muhammad ﷺ brought magic, or is it a lack of insight in you, so that the matter became confused for you? His verdict on that reading is the same as on the first. The matter is clearer than anything, and Allah's proof stood against them.",
+            "bn": "হাযা, এটা, শব্দটি কীসের দিকে ইঙ্গিত করছে, সে ব্যাপারে সা'দী দ্বিতীয় একটি সম্ভাবনাও রাখেন। প্রসঙ্গ অনুযায়ী সবচেয়ে স্বাভাবিক হলো, এটা আগুন আর আযাবের দিকে ইঙ্গিত। কিন্তু তাঁর মতে এটা রাসূল ﷺ-এর আনা সুস্পষ্ট সত্য আর সরল পথের দিকেও ইঙ্গিত হতে পারে। তখন প্রশ্নটা এমন: মুহাম্মাদ ﷺ যা এনেছেন, তা কি যাদু, নাকি তোমাদেরই অন্তর্দৃষ্টির অভাব, যার ফলে বিষয়টা তোমাদের কাছে গুলিয়ে গেছে? এই পাঠেও তাঁর রায় প্রথমটার মতোই। বিষয়টা সবকিছুর চেয়ে স্পষ্ট, আর আল্লাহর প্রমাণ তাদের বিরুদ্ধে প্রতিষ্ঠিত হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Reply Before the Sentence",
+          "bn": "রায়ের আগে কোনো জবাব নেই"
+        },
+        "p": [
+          {
+            "en": "The scene does not wait for an answer. 52:16 follows at once: burn in it; be patient or impatient, it is all the same for you; you are only repaid for what you used to do. At-Tabari glosses islawha as: taste the heat of this Fire you used to deny. Ibn Kathir reads the closing clause as a statement of justice: Allah wrongs no one, but repays each person for his deeds. The question in 52:15 thus sits between the naming of the Fire and the sentence, and it removes the last excuse before the sentence falls.",
+            "bn": "দৃশ্যটা কোনো জবাবের জন্য থামে না। সঙ্গে সঙ্গেই আসে ৫২:১৬: এতে প্রবেশ করে জ্বলতে থাকো। ধৈর্য ধরো বা না ধরো, তোমাদের জন্য দুটোই সমান। তোমরা যা করতে, শুধু তারই প্রতিফল তোমাদের দেওয়া হচ্ছে। তাবারী ইসলাওহা শব্দের ব্যাখ্যা করেন এভাবে: যে আগুনকে তোমরা অস্বীকার করতে, তার উত্তাপের স্বাদ নাও। শেষ বাক্যটিকে ইবন কাসীর ইনসাফের ঘোষণা হিসেবে পড়েন: আল্লাহ কারও উপর জুলুম করেন না, বরং প্রত্যেককে তার আমলের প্রতিদান দেন। ৫২:১৫ আয়াতের প্রশ্ন তাই আগুনের পরিচয় আর রায়ের মাঝখানে বসে। রায় ঘোষণার আগে শেষ অজুহাতটাও সে সরিয়ে দেয়।"
+          },
+          {
+            "en": "No commentary consulted for this verse attaches a hadith to it or gives an occasion of revelation, so this article cites neither. And this needs saying plainly. The verse describes what it describes: deniers of a coming Day, addressed at the Fire. It licenses nothing against any living person or community. It gives no reader the right to place a named neighbour among those it addresses, or to throw its words of rebuke at anyone in this world. Its question is put at the Fire, and nowhere else.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জোড়েনি, নাযিলের কোনো প্রেক্ষাপটও বলেনি। তাই এ লেখায় দুটোর কোনোটিই আনা হয়নি। আরেকটা কথা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: আসন্ন দিনকে যারা অস্বীকার করেছিল, আগুনের সামনে তাদের সম্বোধন। এটি কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। কোনো পাঠক এর ভিত্তিতে নির্দিষ্ট কোনো প্রতিবেশীকে ওই সম্বোধিতদের দলে ফেলতে পারে না। দুনিয়ায় কারও দিকে এর ভর্ৎসনার কথাগুলো ছুড়ে দেওয়ারও অধিকার নেই। প্রশ্নটা করা হয় আগুনের সামনে, আর কোথাও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking While It Still Helps",
+          "bn": "দেখা যখনো কাজে আসে"
+        },
+        "p": [
+          {
+            "en": "For the reader, the verse works best as a question about seeing, asked early. The deniers kept a word ready for whatever unsettled them, and magic let them stop looking without having to answer. Most people keep words like that: exaggeration, too strict, not meant for people like us, someone else's agenda. Sometimes such a word is fair. Sometimes it is only a way of not looking. The verse shows where the habit ends: the same word handed back, in front of a sight that nobody can call a trick.",
+            "bn": "পাঠকের জন্য আয়াতটা সবচেয়ে কাজে আসে দেখা নিয়ে এক প্রশ্ন হিসেবে, যা সময় থাকতে করা হয়। যা কিছু অস্বস্তিতে ফেলত, তার জন্য অস্বীকারকারীরা একটা শব্দ তৈরি রাখত। যাদু বলে দিলেই তাকানো বন্ধ করা যেত, জবাবও দিতে হতো না। বেশির ভাগ মানুষের কাছেই এমন শব্দ থাকে: বাড়াবাড়ি, বেশি কড়া, আমাদের মতো লোকের জন্য নয়, অন্য কারও মতলব। কখনো কখনো এমন কথা ন্যায্যও হয়। আবার কখনো তা শুধু না তাকানোর কৌশল। অভ্যাসটা কোথায় গিয়ে শেষ হয়, আয়াত তা দেখিয়ে দেয়। একই শব্দ ফেরত আসে এমন এক দৃশ্যের সামনে, যাকে কেউ ধাঁধা বলতে পারে না।"
+          },
+          {
+            "en": "As-Sa'di's two answers point to the remedy. If the truth is the truest of truth, it can bear being looked at closely; it does not need anyone to look away. If the proofs have been set out, the work left is ours: to read, to ask, to weigh. In this world, seeing is still followed by choosing. At the Fire, by the passage's own account, seeing comes too late to change anything, and the very next verse says that patience will change nothing there either (52:16).",
+            "bn": "সা'দীর দুই জবাব প্রতিকারের দিকেও ইশারা করে। সত্য যদি সবচেয়ে সত্য হয়, তবে খুঁটিয়ে দেখলে তার কোনো ক্ষতি নেই। কাউকে চোখ ফিরিয়ে রাখতে বলার দরকার তার নেই। প্রমাণ যদি পেশ করা হয়েই থাকে, তবে বাকি কাজটা আমাদের: পড়া, জিজ্ঞেস করা, ওজন করে দেখা। এই দুনিয়ায় দেখার পর এখনো বেছে নেওয়ার সুযোগ থাকে। আগুনের সামনে, এ অংশের নিজের বর্ণনা অনুযায়ী, দেখা আসে এত দেরিতে যে তাতে কিছুই বদলায় না। আর ঠিক পরের আয়াত বলে, সেখানে ধৈর্যও কিছু বদলাবে না (৫২:১৬)।"
+          },
+          {
+            "en": "So the verse can be carried as a quiet check on oneself. When a reminder unsettles me, do I name it, or do I look at it? Is there something I already know to be true, and am I only waiting to see it before I act? The verse answers that waiting plainly. There will be a seeing, face to face, and on that Day it will settle nothing for the one who waited. The seeing that helps is the one done now, while the heart can still turn.",
+            "bn": "তাই আয়াতটা নিজের উপর চুপচাপ এক যাচাই হিসেবে সঙ্গে রাখা যায়। কোনো উপদেশ মনে অস্বস্তি জাগালে আমি কি তাকে একটা নাম দিয়ে সরিয়ে রাখি, নাকি তার দিকে তাকাই? এমন কিছু কি আছে, যা সত্য বলে আমি জানি, অথচ নিজের চোখে দেখার অপেক্ষায় আমল শুরু করছি না? আয়াত এই অপেক্ষার জবাব সোজাসুজি দেয়। একদিন দেখা হবে, মুখোমুখি। কিন্তু যে অপেক্ষা করে ছিল, সেদিন সেই দেখা তার কোনো কাজে আসবে না। যে দেখা কাজে আসে, তা এখনকার দেখা, যখন অন্তর এখনো ফিরতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "52:17": {
     "sections": [
       {
