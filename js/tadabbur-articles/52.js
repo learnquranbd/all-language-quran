@@ -1755,6 +1755,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "52:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Questions Give Way",
+          "bn": "প্রশ্নের সারি যেখানে থামে"
+        },
+        "p": [
+          {
+            "en": "From 52:30 the surah has been asking the deniers question after question, each opened by am, or. The run closes at 52:43 with an exclamation: glory be to Allah above whatever they associate. Then the grammar changes. Wa-in yaraw kisfan mina as-sama'i saqitan yaqulu sahabun markum: and if they saw a fragment of the sky falling, they would say, clouds heaped up. No more questions are put to them. The verse describes, in nine Arabic words, what they would do if the very thing they demanded were to happen.",
+            "bn": "৫২:৩০ থেকে সূরাটি অস্বীকারকারীদের সামনে একের পর এক প্রশ্ন রেখে যাচ্ছে, প্রতিটির শুরু 'আম', অর্থাৎ নাকি, দিয়ে। এই সারি থামে ৫২:৪৩-এ এক ঘোষণায়: তারা যাকে শরীক করে, আল্লাহ তা থেকে পবিত্র। এরপর বাক্যের ধরন বদলে যায়। ওয়া ইন ইয়ারাও কিসফাম মিনাস সামা-ই সাকিতান ইয়াকূলূ সাহাবুম মারকূম: আকাশের কোনো খণ্ড পড়তে দেখলে তারা বলত, এ তো পুঞ্জীভূত মেঘ। তাদের আর কোনো প্রশ্ন করা হয় না। নয়টি আরবি শব্দে আয়াতটি শুধু জানিয়ে দেয়, তারা যা চেয়েছিল ঠিক সেটা ঘটলে তারা কী করত।"
+          },
+          {
+            "en": "The next verse draws the conclusion: so leave them until they meet their Day, in which they will be struck insensible. Ibn Kathir's abridged commentary reads that address as to the Prophet ﷺ, leave them, O Muhammad, and places their Day on the Day of Resurrection. Between the questions that came before and the instruction that follows, 52:44 is the hinge. It explains why the questioning has stopped: when the answer is fixed in advance, another proof will not change it, and the matter passes to that Day.",
+            "bn": "পরের আয়াত সিদ্ধান্তটা টানে: কাজেই তাদের ছেড়ে দাও, যতক্ষণ না তারা তাদের সেই দিনের মুখোমুখি হয়, যেদিন তারা বজ্রাহত হবে। ইবন কাসীরের সংক্ষিপ্ত তাফসীর এ সম্বোধনকে নবী ﷺ-এর প্রতি ধরে বলে, হে মুহাম্মাদ, তাদের ছেড়ে দাও। আর 'তাদের দিন' বলতে বোঝায় কিয়ামতের দিন। আগের প্রশ্নগুলো আর পরের নির্দেশের মাঝখানে ৫২:৪৪ যেন দরজার কব্জা। প্রশ্ন কেন থামল, আয়াতটি তা বুঝিয়ে দেয়। উত্তর যখন আগেই ঠিক করা, তখন আরেকটা প্রমাণে তা বদলায় না। বিষয়টা তখন সেই দিনের হাতে চলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Piece Torn From Above",
+          "bn": "উপর থেকে খসে পড়া টুকরো"
+        },
+        "p": [
+          {
+            "en": "The key word is kisf. At-Tabari glosses it as pieces of the sky falling, and treats kisf as the plural of kisfa, in the way tamr, dates, is the plural of tamra, a single date, and sidr, lote trees, of sidra. He says the people of interpretation held the same, and gives the reports: from Ibn 'Abbas, by his chain, the word means pieces, and from Qatada, if they saw pieces. Al-Baghawi gives the singular, a piece, and the Muyassar, like at-Tabari, has pieces.",
+            "bn": "মূল শব্দটি 'কিসফ'। তাবারী এর অর্থ করেন আকাশ থেকে পড়ন্ত টুকরোগুলো। তাঁর মতে কিসফ হলো 'কিসফা'-র বহুবচন, যেমন 'তামর' (খেজুর) এসেছে 'তামরা' (একটি খেজুর) থেকে, আর 'সিদর' (কুলগাছ) এসেছে 'সিদরা' থেকে। তিনি জানান, তাফসীরের আলিমরাও এ কথাই বলেছেন, আর তাঁদের বর্ণনাগুলো তুলে দেন। তাঁর নিজের সনদে ইবন আব্বাস (রাঃ) থেকে বর্ণিত: এর অর্থ টুকরো। কাতাদা বলেন, যদি তারা টুকরোগুলো দেখত। বাগাভী একবচনে বলেন, একটি টুকরো। আর মুয়াসসার তাবারীর মতো বহুবচনেই রাখে, টুকরোগুলো।"
+          },
+          {
+            "en": "Al-Qurtubi agrees that kisf is the plural of kisfa, which he defines as a piece of anything, giving the everyday phrase give me a kisfa of your garment. But he records two other views beside it. It is also said, he writes, that kisf and kisfa are one and the same word. And he cites al-Akhfash on the two ways the word is recited: one reading makes it singular and the other makes it plural. He adds that the point was discussed earlier, in Surah Subhan, that is al-Isra'.",
+            "bn": "কুরতুবীও মানেন যে কিসফ হলো কিসফার বহুবচন। কিসফার সংজ্ঞা তিনি দেন, কোনো কিছুর একটি টুকরো। উদাহরণ হিসেবে আনেন রোজকার কথা: তোমার কাপড়ের একটা কিসফা আমাকে দাও। তবে এর পাশে আরও দুটি মত তিনি লিখে রাখেন। একটি হলো, কিসফ আর কিসফা একই শব্দ। অন্যটি আখফাশের, শব্দটির দুই রকম কিরাআত নিয়ে: এক কিরাআতে এটি একবচন, অন্যটিতে বহুবচন। কুরতুবী জানান, বিষয়টি আগেই সূরা সুবহানে, অর্থাৎ আল-ইসরায়, আলোচিত হয়েছে।"
+          },
+          {
+            "en": "So the sources do not settle whether the verse pictures one piece or many, and the difference is left as they leave it. What they share matters more. Every gloss makes kisf a fragment, something broken off from a larger body. The image is not of rain or of light in the sky. It is the sky itself, or part of it, coming down. As-Sa'di calls these large pieces, and he and the Muyassar both read them as pieces of punishment falling on the deniers.",
+            "bn": "তাহলে আয়াতের ছবিতে একটি টুকরো, নাকি অনেকগুলো, সূত্রগুলো তা মীমাংসা করে না। মতভেদটা যেমন আছে তেমনই থাকুক। তবে যে বিষয়ে সবাই একমত, সেটাই বেশি গুরুত্বপূর্ণ। প্রতিটি ব্যাখ্যায় কিসফ মানে ভাঙা অংশ, বড় কোনো কিছু থেকে খসে আসা টুকরো। ছবিটা বৃষ্টির নয়, আকাশের আলোরও নয়। আকাশ নিজেই, কিংবা তার একটা অংশ, নেমে আসছে। সা'দী এগুলোকে বলেন বড় বড় খণ্ড। তিনি এবং মুয়াসসার দুজনেই এগুলোকে পড়েন অস্বীকারকারীদের উপর নেমে আসা আযাবের টুকরো হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only Clouds, Stacked High",
+          "bn": "শুধুই স্তূপ করা মেঘ"
+        },
+        "p": [
+          {
+            "en": "Their reply would be two words: sahabun markum. Sahab is cloud; markum is the passive participle of a root for heaping one thing on another. At-Tabari explains it as some of it on some, and the Muyassar as piled, some above some. Ibn Kathir's Arabic commentary gives the synonym mutarakim, accumulated. The commentators agree on the image, a mass of cloud stacked layer on layer. Nothing could be more familiar: every rainy season brings it.",
+            "bn": "তাদের জবাব হতো দুই শব্দের: সাহাবুম মারকূম। সাহাব মানে মেঘ। মারকূম এসেছে এমন এক ধাতু থেকে যার অর্থ একটার উপর আরেকটা জমানো। তাবারী এর ব্যাখ্যা দেন, এর এক অংশ আরেক অংশের উপর। মুয়াসসার বলে, স্তূপ করা, একটার উপর আরেকটা। ইবন কাসীরের আরবি তাফসীর সমার্থক শব্দ দেয়: 'মুতারাকিম', অর্থাৎ জমে ওঠা। ছবিটা নিয়ে তাফসীরকারদের মধ্যে মতভেদ নেই: স্তরে স্তরে জমা মেঘের ভার। এর চেয়ে চেনা দৃশ্য আর হয় না, প্রতি বর্ষায় তা দেখা যায়।"
+          },
+          {
+            "en": "Each commentator then adds a touch of his own to what the deniers mean by it. Al-Qurtubi has them say: piled one on another, it has fallen on us, and it is not the sky. As-Sa'di adds that they would call it clouds heaped up as usual, ordinary weather and nothing more. Al-Baghawi gives them a further clause: clouds heaped up that will water us. In his reading they would not only shrug the falling sky off but welcome it as rain.",
+            "bn": "অস্বীকারকারীরা এ কথা দিয়ে কী বোঝাত, প্রত্যেক তাফসীরকার তাতে নিজের একটু যোগ করেন। কুরতুবীর বর্ণনায় তারা বলে: একটার উপর আরেকটা জমা মেঘ আমাদের উপর পড়েছে, এটা আকাশ নয়। সা'দী যোগ করেন, তারা একে বলত চিরাচরিত নিয়মে জমা মেঘ, সাধারণ আবহাওয়া, এর বেশি কিছু নয়। বাগাভী তাদের মুখে আরেকটা কথা দেন: এ তো জমা মেঘ, আমাদের পানি দেবে। তাঁর ব্যাখ্যায় তারা ভেঙে পড়া আকাশকে শুধু উড়িয়েই দিত না, বৃষ্টি ভেবে স্বাগতও জানাত।"
+          },
+          {
+            "en": "The force of the answer lies in how ordinary it is. A fragment of the sky is something no one has ever seen; a cloud is something everyone sees. The deniers would not need to deny what fell. They would only need to give it a familiar name, and the familiar name would do the rest. At-Tabari and the Muyassar draw the consequence in the same words: they would not move from the denial they were in. An extraordinary sign would be set down in the most ordinary category available, and nothing would change.",
+            "bn": "জবাবটার জোর তার সাধারণত্বে। আকাশের খণ্ড কেউ কোনোদিন দেখেনি, আর মেঘ সবাই দেখে। যা পড়ছে, অস্বীকারকারীদের তা অস্বীকার করার দরকারই পড়ত না। শুধু একটা চেনা নাম দিয়ে দিলেই হতো, বাকি কাজ সেই চেনা নামই সেরে দিত। তাবারী ও মুয়াসসার একই ভাষায় এর পরিণতি বলেন: যে অস্বীকারে তারা ছিল, সেখান থেকে তারা সরত না। এক অসাধারণ নিদর্শনকে হাতের কাছের সবচেয়ে সাধারণ খোপে ঢুকিয়ে রাখা হতো, আর কিছুই বদলাত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Own Request, Answered",
+          "bn": "নিজেদের দাবিরই জবাব"
+        },
+        "p": [
+          {
+            "en": "Why a fragment of the sky, of all signs? At-Tabari answers from the occasion. Allah meant by this, he writes, the idolaters of Quraysh who asked the Messenger ﷺ for signs, and he quotes their list from 17:90, we will not believe you until you make a spring gush from the earth for us, up to its words in 17:92 about the sky falling upon us in fragments. The verse, he says, tells the Prophet ﷺ that if they saw what they asked for, they would still not move from their denial.",
+            "bn": "এত নিদর্শন থাকতে আকাশের খণ্ড কেন? তাবারী উত্তর দেন প্রেক্ষাপট থেকে। তিনি লেখেন, আল্লাহ এখানে বুঝিয়েছেন কুরাইশের সেই মুশরিকদের, যারা রাসূলুল্লাহ ﷺ-এর কাছে নিদর্শন চেয়েছিল। তিনি ১৭:৯০ থেকে তাদের দাবির তালিকা উদ্ধৃত করেন: আমরা তোমার উপর ঈমান আনব না, যতক্ষণ না তুমি আমাদের জন্য যমীন থেকে ঝর্ণা প্রবাহিত করো। উদ্ধৃতি গিয়ে থামে ১৭:৯২-এর সেই কথায়, যেখানে তারা আকাশকে টুকরো টুকরো করে নিজেদের উপর ফেলতে বলেছিল। তাবারী বলেন, আয়াতটি নবী ﷺ-কে জানাচ্ছে, যা তারা চেয়েছে তা দেখলেও তারা অস্বীকার ছেড়ে নড়ত না।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both call the verse an answer, jawab, to a demand. Al-Baghawi names one: their words, so cause to fall upon us fragments from the sky. Al-Qurtubi names that and adds the line at-Tabari quoted, or you make the sky fall upon us in fragments as you claimed. At-Tabari also reports from Ibn Zayd that when they asked for the fragment they said, cause a fragment of the sky to fall on us if you are of the truthful, and that Allah's reply was: had We done it, they would have said, clouds heaped up.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই আয়াতটিকে বলেন একটি দাবির 'জওয়াব', অর্থাৎ উত্তর। বাগাভী একটি কথার উল্লেখ করেন: তাদের বক্তব্য, তাহলে আকাশ থেকে একটা টুকরো আমাদের উপর ফেলে দাও। কুরতুবীও সেটি আনেন, সঙ্গে তাবারীর উদ্ধৃত লাইনটিও: অথবা তুমি যেমন দাবি করো, আকাশকে টুকরো টুকরো করে আমাদের উপর ফেলে দাও। তাবারী ইবন যায়দ থেকেও বর্ণনা করেন: তারা যখন খণ্ড চেয়েছিল, বলেছিল, তুমি সত্যবাদী হলে আকাশ থেকে একটা টুকরো আমাদের উপর ফেলো। ইবন যায়দ বলেন, আল্লাহর জবাব ছিল: আমি তা করলেও তারা বলত, জমা মেঘ।"
+          },
+          {
+            "en": "The wording al-Baghawi and al-Qurtubi quote is found in the Qur'an at 26:187, where it is spoken to Shu'ayb (AS) by the people of the thicket (26:176 and 26:177), after they had called him one of the bewitched and a liar (26:185 and 26:186). The commentators bring it here because it names the same demand. Read side by side, the verses put the same dare on the lips of two peoples, and here the Qur'an says what the dare was worth: the thing demanded, granted, would only have been renamed.",
+            "bn": "বাগাভী ও কুরতুবী যে কথাটি উদ্ধৃত করেন, কুরআনে তা আছে ২৬:১৮৭ আয়াতে। সেখানে কথাটি বলেছিল বনের অধিবাসীরা, শু'আয়ব (আঃ)-কে (২৬:১৭৬ ও ২৬:১৭৭)। তার আগে তারা তাঁকে যাদুগ্রস্ত আর মিথ্যাবাদী বলেছিল (২৬:১৮৫ ও ২৬:১৮৬)। তাফসীরকারেরা কথাটি এখানে আনেন, কারণ দাবিটা একই। আয়াতগুলো পাশাপাশি পড়লে দেখা যায়, একই চ্যালেঞ্জ দুই জাতির মুখে। আর এখানে কুরআন জানিয়ে দেয় সেই চ্যালেঞ্জের দাম কত: চাওয়া জিনিসটা দেওয়া হলেও তার শুধু নামটাই বদলে দেওয়া হতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denying What the Eyes See",
+          "bn": "চোখে দেখা জিনিসও অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's Arabic commentary names the trait at once: Allah is telling of the idolaters' obstinacy and their contending against what the senses perceive. Even if pieces fell on them as punishment, he writes, they would not believe and would not be certain; they would say, this is accumulated cloud. He sets the verse beside 15:14 and 15:15: even if We opened to them a gate of the sky and they kept ascending through it, they would say, our eyes have only been dazzled; rather, we are a people bewitched.",
+            "bn": "ইবন কাসীরের আরবি তাফসীর শুরুতেই স্বভাবটার নাম বলে দেয়: আল্লাহ এখানে মুশরিকদের জেদ আর ইন্দ্রিয়গ্রাহ্য জিনিসের বিরুদ্ধে তাদের অহংকারী বিরোধিতার কথা জানাচ্ছেন। তিনি লেখেন, আযাব হিসেবে টুকরোগুলো তাদের উপর পড়লেও তারা বিশ্বাস করত না, নিশ্চিতও হতো না। বলত, এ তো জমে ওঠা মেঘ। আয়াতটিকে তিনি পাশে রাখেন ১৫:১৪ ও ১৫:১৫-এর: আমি যদি তাদের জন্য আকাশের একটা দরজা খুলে দিতাম আর তারা তাতে উঠতেই থাকত, তবুও তারা বলত, আমাদের চোখ ধাঁধিয়ে দেওয়া হয়েছে, বরং আমরা যাদুগ্রস্ত এক জাতি।"
+          },
+          {
+            "en": "The two passages make the same point from opposite directions. In one the sky comes down to them; in the other they go up into it. In both, the experience itself is not denied. What is denied is its meaning. Clouds in the first case, dazzled eyes and sorcery in the second: each time an explanation stands ready that leaves the deniers exactly where they were. Ibn Kathir's abridged English commentary links the same two passages.",
+            "bn": "দুই জায়গার কথা একই, শুধু দিক উল্টো। এক জায়গায় আকাশ নেমে আসে তাদের কাছে, অন্য জায়গায় তারা উঠে যায় আকাশে। দুই ক্ষেত্রেই অভিজ্ঞতাটাকে অস্বীকার করা হয় না, অস্বীকার করা হয় তার অর্থকে। প্রথমবার মেঘ, দ্বিতীয়বার চোখের ধাঁধা আর যাদু। প্রতিবারই একটা ব্যাখ্যা তৈরি থাকে, যা অস্বীকারকারীদের যেখানে ছিল ঠিক সেখানেই রেখে দেয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীরও এই দুই অংশকে একসঙ্গে জুড়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi divides the cause in two. This, he writes, is the act of the obstinate, or the act of one whom blind following, taqlid, has overpowered, and both kinds were found among the idolaters. The distinction matters. One man refuses because he will not yield; another refuses because he has never looked for himself. As-Sa'di puts the outcome in a single sentence: if every proof stood on the side of the truth, they would not follow it, but would oppose it and resist.",
+            "bn": "কুরতুবী কারণটাকে দুই ভাগে ভাগ করেন। তিনি লেখেন, এ হলো জেদি লোকের কাজ, অথবা এমন লোকের কাজ যার উপর অন্ধ অনুকরণ, অর্থাৎ তাকলীদ, চেপে বসেছে। আর মুশরিকদের মধ্যে দুই ধরনের লোকই ছিল। পার্থক্যটা গুরুত্বপূর্ণ। একজন মানে না, কারণ সে মাথা নোয়াবে না। আরেকজন মানে না, কারণ সে কখনো নিজে চোখ মেলে দেখেনি। সা'দী এক বাক্যে পরিণতিটা বলে দেন: সত্যের পক্ষে সব প্রমাণ দাঁড়িয়ে গেলেও তারা তা মানত না, বরং তার বিরোধিতা করত আর তার সঙ্গে লড়ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Report, No Sign",
+          "bn": "না কথা, না নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the reason the sign would fail in one clause: because Allah had decreed upon them that they would not believe. He then cites Qatada on their reply of clouds heaped up: they would not believe any account and would not accept any sign. As-Sa'di describes the same state as indifference. They would pay no heed to the signs they saw and draw no lesson from them, and for such people, he writes, there is no remedy except punishment and exemplary penalty.",
+            "bn": "নিদর্শন কেন কাজে আসত না, তাবারী তা এক বাক্যে বলেন: কারণ আল্লাহ তাদের ব্যাপারে ফয়সালা করে রেখেছিলেন যে তারা ঈমান আনবে না। এরপর জমা মেঘের জবাব প্রসঙ্গে তিনি কাতাদার কথা আনেন: তারা কোনো কথাকে সত্য মানত না, কোনো নিদর্শনে ঈমানও আনত না। সা'দী একই অবস্থাকে বর্ণনা করেন উদাসীনতা হিসেবে। যে নিদর্শন তারা দেখত, তার কোনো পরোয়াই করত না, তা থেকে কোনো শিক্ষাও নিত না। তিনি লেখেন, এমন লোকদের জন্য আযাব আর দৃষ্টান্তমূলক শাস্তি ছাড়া কোনো ওষুধ নেই।"
+          },
+          {
+            "en": "At-Tabari's clause is a statement about particular men, made with the knowledge that revelation gives, and the surah's next words act on it. So leave them, says 52:45, until they meet their Day. The Prophet ﷺ is not told to produce the fragment or to keep pressing. The verse after that, 52:46, describes the Day as a day on which their plotting will not avail them at all, nor will they be helped; Ibn Kathir's abridged commentary explains it as the schemes they made in this life being of no use on the Day of Resurrection.",
+            "bn": "তাবারীর কথাটি নির্দিষ্ট কিছু লোক সম্পর্কে, ওহী যে জ্ঞান দেয় তার ভিত্তিতে বলা। সূরার পরের কথাগুলো সেই অনুযায়ীই চলে। ৫২:৪৫ বলে, কাজেই তাদের ছেড়ে দাও, যতক্ষণ না তারা তাদের দিনের মুখোমুখি হয়। নবী ﷺ-কে খণ্ডটা নামিয়ে আনতে বলা হয় না, পীড়াপীড়ি চালিয়ে যেতেও বলা হয় না। তার পরের আয়াত, ৫২:৪৬, সেই দিনের বর্ণনা দেয়: সেদিন তাদের চক্রান্ত তাদের কোনো কাজেই আসবে না, তারা সাহায্যও পাবে না। ইবন কাসীরের সংক্ষিপ্ত তাফসীর ব্যাখ্যা করে, দুনিয়ার জীবনে তারা যত ফন্দি এঁটেছিল, কিয়ামতের দিন তার কিছুই কাজে আসবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Verdict to Pass",
+          "bn": "অন্যের উপর রায় দেওয়ার নয়"
+        },
+        "p": [
+          {
+            "en": "The verse speaks of particular deniers, whom at-Tabari identifies as the idolaters of Quraysh who demanded signs, and it says what they would have done. It describes what the text describes and licenses nothing against any living person or community. It gives no one the right to declare that a relative, a neighbour or a whole people is beyond reach, that their questions are only obstinacy, or that Allah has decreed against them. That knowledge, in at-Tabari's reading, came by revelation about those men, and no reader holds it about anyone.",
+            "bn": "আয়াতটি নির্দিষ্ট কিছু অস্বীকারকারীর কথা বলে। তাবারী তাদের চিহ্নিত করেন কুরাইশের সেই মুশরিক হিসেবে, যারা নিদর্শন দাবি করেছিল। আয়াত জানায়, তারা কী করত। আয়াত যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। কোনো আত্মীয়, প্রতিবেশী বা পুরো একটা জাতিকে নাগালের বাইরে ঘোষণা করার অধিকার এ আয়াত কাউকে দেয় না। তাদের প্রশ্নকে নিছক জেদ বলার অধিকারও দেয় না, আল্লাহ তাদের বিরুদ্ধে ফয়সালা করে রেখেছেন, এমন কথা বলারও না। তাবারীর ব্যাখ্যায় ওই জ্ঞান এসেছিল ওহীর মাধ্যমে, ওই লোকদের সম্পর্কে। কোনো পাঠকের কাছে কারও ব্যাপারে সে জ্ঞান নেই।"
+          },
+          {
+            "en": "Al-Qurtubi's own division points the same way. Some who refused, he says, were held by blind following rather than by obstinacy, and a person who has never looked for himself is owed an answer, not a sentence. As for narrations: none of the commentaries fetched for this verse attaches a hadith of the Prophet ﷺ to it. The reports at-Tabari gives from Ibn 'Abbas, Qatada and Ibn Zayd explain its words; they are not sayings of the Prophet ﷺ, and they are presented here only as explanations.",
+            "bn": "কুরতুবীর নিজের ভাগ করাও একই দিকে ইঙ্গিত করে। তিনি বলেন, যারা মানেনি তাদের কেউ কেউ জেদের কারণে নয়, অন্ধ অনুকরণের কারণে আটকে ছিল। যে কখনো নিজে চোখ মেলে দেখেনি, তার প্রাপ্য একটা জবাব, রায় নয়। আর বর্ণনার কথা: এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। তাবারী ইবন আব্বাস (রাঃ), কাতাদা আর ইবন যায়দ থেকে যা বর্ণনা করেন, তা আয়াতের শব্দের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। এখানেও সেগুলো কেবল ব্যাখ্যা হিসেবেই আনা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clouds I Have Named",
+          "bn": "যে মেঘের নাম আমি দিয়েছি"
+        },
+        "p": [
+          {
+            "en": "The verse is about the deniers of its time, but the habit it exposes can live in a believer too. A warning may arrive as an illness, a loss, a narrow escape, or an ayah that lands too precisely. Each has an ordinary explanation, and often the explanation is true. The danger is not in explaining but in reaching for the explanation so fast that nothing is left to hear. Al-Baghawi's clause sharpens it: they would call the falling sky rain clouds that would water them.",
+            "bn": "আয়াতটি তার সময়ের অস্বীকারকারীদের নিয়ে। কিন্তু যে অভ্যাসটা এটি খুলে দেখায়, তা একজন মুমিনের ভেতরেও বাসা বাঁধতে পারে। সতর্কবার্তা আসতে পারে অসুখ হয়ে, কোনো ক্ষতি হয়ে, অল্পের জন্য বেঁচে যাওয়া হয়ে, কিংবা এমন এক আয়াত হয়ে যা ঠিক বুকে এসে লাগে। প্রত্যেকটারই একটা সাধারণ ব্যাখ্যা আছে, আর অনেক সময় সে ব্যাখ্যা সত্যিও। বিপদটা ব্যাখ্যায় নয়। বিপদ হলো এত তাড়াতাড়ি ব্যাখ্যা হাতে নেওয়া যে শোনার মতো আর কিছু বাকি থাকে না। বাগাভীর কথাটা বিষয়টাকে আরও ধারালো করে: ভেঙে পড়া আকাশকেও তারা বলত বৃষ্টির মেঘ, যা তাদের পানি দেবে।"
+          },
+          {
+            "en": "The surah does not answer this with a call for bigger signs; 52:44 has just shown that a bigger sign does not move a mind already settled. What helps is the opposite habit: letting a reminder stay a reminder long enough to ask what it asks of me, before asking only what caused it. Al-Qurtubi's second kind, the one held by following others, is the easier to slip into, because it feels like common sense. The hope is to be someone who, shown a sign, lets it speak.",
+            "bn": "সূরাটি এর জবাবে আরও বড় নিদর্শনের ডাক দেয় না। ৫২:৪৪ এইমাত্র দেখিয়ে দিল, যে মন আগেই স্থির হয়ে বসে আছে, বড় নিদর্শনও তাকে নড়াতে পারে না। কাজে আসে উল্টো অভ্যাস। নসীহতকে কিছুক্ষণ নসীহত হয়েই থাকতে দেওয়া, যাতে শুধু এর কারণ কী তা না খুঁজে জিজ্ঞেস করা যায়, এটা আমার কাছে কী চায়। কুরতুবীর দ্বিতীয় দলটি, যারা অন্যের দেখাদেখি চলে, তাদের দলে পড়ে যাওয়া বেশি সহজ, কারণ সেটাকে সাধারণ বুদ্ধি বলেই মনে হয়। আশা একটাই: নিদর্শন দেখানো হলে যেন আমি তাকে কথা বলার সুযোগ দিই।"
+          }
+        ]
+      }
+    ]
+  },
   "52:48": {
     "sections": [
       {

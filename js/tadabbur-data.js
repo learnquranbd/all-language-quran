@@ -27569,6 +27569,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Knowing that Allah made the heavens and the earth is not yet certainty; let what you know of Him reach your choices and your obedience.",
     "lessonBn": "আসমান-যমীন আল্লাহ বানিয়েছেন, এ কথা জানা মানেই ইয়াকীন নয়। তাঁর সম্পর্কে যা জানেন, তা যেন আপনার সিদ্ধান্ত আর আনুগত্য পর্যন্ত পৌঁছায়।"
+  },
+  "52:44": {
+    "reflectionEn": "They had asked for it: make a piece of the sky fall on us, if you are truthful. The verse answers the request without granting it. If they saw that piece falling, they would look up and say: only clouds, piled one on another. The sign would arrive and be given an ordinary name before it could say anything. That is the danger of a mind already made up. It does not lack evidence; it has a label ready for every piece of evidence. I can do the same with a warning, an illness, a narrow escape, a reminder from a friend. Each has a plain explanation, and the plain explanation lets me stay exactly where I was. What have I filed under clouds that was meant to stop me?",
+    "reflectionBn": "তারা নিজেরাই দাবি করেছিল: সত্যবাদী হলে আকাশের একটা টুকরো আমাদের উপর ফেলে দাও। আয়াতটি দাবি পূরণ না করেই জবাব দেয়। সেই টুকরো পড়তে দেখলেও তারা উপরে তাকিয়ে বলত: এ তো মেঘ, একটার উপর আরেকটা জমে আছে। নিদর্শন এসে কিছু বলার আগেই তার গায়ে একটা সাধারণ নাম সেঁটে দেওয়া হতো। আগে থেকে সিদ্ধান্ত নিয়ে বসে থাকা মনের বিপদ এটাই। তার প্রমাণের অভাব নেই। প্রতিটি প্রমাণের জন্য তার কাছে একটা তকমা তৈরি থাকে। আমিও একই কাজ করতে পারি একটা সতর্কবার্তা, একটা অসুখ, অল্পের জন্য বেঁচে যাওয়া কিংবা বন্ধুর দেওয়া নসীহতের সঙ্গে। প্রত্যেকটারই একটা সহজ ব্যাখ্যা আছে, আর সেই সহজ ব্যাখ্যা আমাকে যেখানে ছিলাম ঠিক সেখানেই রেখে দেয়। আমাকে থামানোর জন্য যা এসেছিল, তার কোনটাকে আমি মেঘ বলে সরিয়ে রেখেছি?",
+    "pointsEn": [
+      "Which recent event in my life did I explain away so quickly that I never asked what it might be telling me?",
+      "If the sign I keep asking for actually came, what name have I already prepared for it?",
+      "When a reminder comes through an ordinary person or an ordinary event, do I dismiss it because it looks ordinary?",
+      "Is there a question I keep demanding proof for, when the real obstacle is that I have already decided the answer?",
+      "What would it take for me to let a warning reach me before I have finished labelling it?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি আমার জীবনে কোন ঘটনাকে এত তাড়াতাড়ি ব্যাখ্যা দিয়ে উড়িয়ে দিয়েছি যে সেটা আমাকে কী বলতে চাইছিল, তা একবারও জিজ্ঞেস করিনি?",
+      "যে নিদর্শন আমি বারবার চাই, সেটা সত্যিই এলে তার জন্য কোন নামটা আমি আগেই ঠিক করে রেখেছি?",
+      "কোনো সাধারণ মানুষ বা সাধারণ ঘটনার ভেতর দিয়ে নসীহত এলে, সাধারণ দেখায় বলেই কি তা ফিরিয়ে দিই?",
+      "এমন কোনো প্রশ্ন কি আছে যার প্রমাণ আমি বারবার চাইছি, অথচ আসল বাধা হলো উত্তরটা আমি আগেই ঠিক করে ফেলেছি?",
+      "কোনো সতর্কবার্তার গায়ে তকমা লাগানো শেষ করার আগেই তাকে মনের ভেতরে ঢুকতে দিতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Do not meet every warning with a ready ordinary explanation; a mind that has decided in advance will call even a falling sky a cloud.",
+    "lessonBn": "প্রতিটি সতর্কবার্তার সামনে তৈরি করা সাধারণ ব্যাখ্যা নিয়ে দাঁড়াবেন না। যে মন আগেই সিদ্ধান্ত নিয়ে বসে আছে, সে ভেঙে পড়া আকাশকেও মেঘ বলে।"
   }
 };
 
