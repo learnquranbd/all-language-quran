@@ -299,6 +299,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Word to a Sister",
+          "bn": "বোনকে একটি মাত্র কথা"
+        },
+        "p": [
+          {
+            "en": "Wa-qalat li-ukhtihi qussihi, fa-basurat bihi 'an junubin wa-hum la yash'urun: and she said to his sister, follow him; so she watched him from a distance while they did not perceive. Ten Arabic words, and the sister's whole errand sits inside them. The speaker is the mother of Musa (AS). The verse before, 28:10, has just said that her heart became empty, that she nearly disclosed him, and that Allah bound her heart firm. Her first act after that steadying is this instruction.",
+            "bn": "ওয়া কালাত লি-উখতিহী কুসসীহি, ফাবাসুরাত বিহী আন জুনুবিন ওয়াহুম লা ইয়াশউরূন: সে তার বোনকে বলল, ওর পিছু নাও; তখন সে দূর থেকে তাকে দেখতে থাকল, আর তারা টেরই পেল না। আরবিতে মাত্র দশটি শব্দ, অথচ বোনের পুরো কাজটাই এর ভেতরে ধরা আছে। কথাটা বলছেন মূসা (আঃ)-এর মা। ঠিক আগের আয়াত, ২৮:১০, জানিয়েছে, তাঁর অন্তর শূন্য হয়ে গিয়েছিল, তিনি প্রায় সব ফাঁস করে দিচ্ছিলেন, আর আল্লাহ তাঁর মন শক্ত করে বেঁধে দিয়েছিলেন। মন স্থির হওয়ার পর তাঁর প্রথম কাজ এই নির্দেশ।"
+          },
+          {
+            "en": "At-Tabari fixes the moment: the mother said this to Musa's sister when she had cast him into the river. He explains qussihi from ordinary speech. One says qasastu athar al-qawm, I traced the people's tracks, when one follows along behind their traces. So the command is to follow a trail that is moving away from her. Al-Muyassar gives the sense in one line: follow Musa's trace, to see how he will be dealt with. A single imperative carries the whole of it.",
+            "bn": "মুহূর্তটা তাবারী স্পষ্ট করে দেন: মা তাকে নদীতে ফেলে দেওয়ার পর মূসার বোনকে এ কথা বলেছিলেন। কুসসীহি শব্দটা তিনি বোঝান রোজকার আরবি কথা দিয়ে। কেউ কারও পায়ের ছাপ ধরে পেছন পেছন গেলে বলা হয়, কাসাসতু আসারাল কাওম, আমি লোকগুলোর পদচিহ্ন অনুসরণ করলাম। তাই হুকুমটা হলো এমন এক চিহ্ন ধরে এগোনো, যা মায়ের কাছ থেকে ক্রমেই দূরে সরে যাচ্ছে। মুয়াসসার এক বাক্যে অর্থটা বলে দেয়: মূসার পিছু নাও, দেখো তার সঙ্গে কী করা হয়। একটি মাত্র আদেশেই সবটুকু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Is My Son Alive?",
+          "bn": "আমার ছেলে কি বেঁচে আছে?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then lists the early authorities, and they agree on the core. Mujahid: follow his trace, how he is dealt with. Ibn Ishaq and as-Suddi: follow his trace. Qatadah: look at what they do with him. Al-Qurtubi and al-Baghawi both write: follow his trace until you know his news. Ibn Kathir widens the search: follow his trace, take his news, and look into his affair from the parts of the town. As-Sa'di adds the condition: search for him without anyone sensing you or perceiving what you are after.",
+            "bn": "এরপর তাবারী প্রথম যুগের বর্ণনাকারীদের কথা সাজান, আর মূল কথায় সবাই একমত। মুজাহিদ বলেন: তার পিছু নাও, দেখো তার সঙ্গে কী আচরণ করা হয়। ইবন ইসহাক ও সুদ্দী বলেন: তার পদচিহ্ন ধরে চলো। কাতাদা বলেন: দেখো ওরা তাকে নিয়ে কী করে। কুরতুবী ও বাগাভী দুজনেই লেখেন: তার পিছু নাও, যতক্ষণ না তার খবর জানতে পারো। ইবন কাসীর খোঁজের পরিধি বাড়িয়ে দেন: তার পিছু নাও, খবর নাও, শহরের নানা দিকে তার হাল খুঁজে দেখো। সা'দী শর্ত জুড়ে দেন: এমনভাবে খোঁজো, যেন কেউ তোমাকে টের না পায়, তোমার উদ্দেশ্যও কেউ না বোঝে।"
+          },
+          {
+            "en": "One report in at-Tabari, from Ibn 'Abbas through Sa'id ibn Jubayr, gives the mother's words in full: follow his trace and seek him; do you hear any mention of him? Is my son alive, or have the beasts and fish of the sea eaten him? The same report adds that she had forgotten what Allah had promised her. That is Ibn 'Abbas's description of a frightened mother, not the verse's. Three verses on, in 28:13, Allah returns the child to her so that she would know His promise is true.",
+            "bn": "তাবারীতে ইবন আব্বাস (রাঃ) থেকে সাঈদ ইবন জুবাইরের সূত্রে একটি বর্ণনা মায়ের কথাগুলো পুরো তুলে ধরে: তার পিছু নাও, তাকে খোঁজো; তার কোনো খবর কি কানে আসে? আমার ছেলে কি বেঁচে আছে, নাকি সাগরের প্রাণী আর মাছ তাকে খেয়ে ফেলেছে? একই বর্ণনায় আছে, আল্লাহ তাঁকে যে ওয়াদা দিয়েছিলেন, তা তিনি তখন ভুলে গিয়েছিলেন। এটি ভয়ে কাতর এক মায়ের অবস্থা নিয়ে ইবন আব্বাসের বর্ণনা, আয়াতের নিজের কথা নয়। তিনটি আয়াত পরে, ২৮:১৩ আয়াতে, আল্লাহ শিশুটিকে তাঁর কাছে ফিরিয়ে দেন, যাতে তিনি জানেন যে আল্লাহর ওয়াদা সত্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Daughter Sent Out",
+          "bn": "যে মেয়েটিকে পাঠানো হলো"
+        },
+        "p": [
+          {
+            "en": "Who was sent? The Qur'an says only ukhtihi, his sister, and gives no name and no age. Ibn Kathir supplies what he has: the mother commanded her daughter, who was older and understood what was said to her, and the girl went out for that purpose. Al-Muyassar keeps to the verse's own frame, saying that the mother spoke to his sister when she had cast him into the river. The mission is given to a child of the house, and it is given in a single word.",
+            "bn": "কাকে পাঠানো হলো? কুরআন শুধু বলে উখতিহী, তার বোন। কোনো নাম দেয় না, বয়সও বলে না। ইবন কাসীর যা জানান তা হলো: মা তাঁর মেয়েকে হুকুম দিলেন। মেয়েটি ছিল বড়, যা বলা হতো তা বুঝতে পারত। আর সে এ কাজেই বেরিয়ে পড়ল। মুয়াসসার আয়াতের নিজের কাঠামোর মধ্যেই থাকে: শিশুকে নদীতে ফেলে দেওয়ার পর মা তার বোনকে এ কথা বলেছিলেন। দায়িত্বটা পেল ঘরেরই এক সন্তান, আর পেল একটি মাত্র শব্দে।"
+          },
+          {
+            "en": "On her name the sources part ways. Al-Baghawi calls her Maryam. Al-Qurtubi gives Maryam bint 'Imran, sharing the name of the mother of 'Isa (AS), on the authority of as-Suhayli and ath-Tha'labi; he adds that al-Mawardi reported from ad-Dahhak the name Kalthama, and that as-Suhayli gave Kulthum, citing a report narrated by az-Zubayr ibn Bakkar, which al-Qurtubi relays without a chain or a grading. The names belong to those who gave them. None of the tafsirs fetched for this verse attaches a sound hadith to it.",
+            "bn": "নাম নিয়ে সূত্রগুলো একমত নয়। বাগাভী তাকে বলেন মারইয়াম। কুরতুবী বলেন মারইয়াম বিনতে ইমরান, ঈসা (আঃ)-এর মায়ের নামের সঙ্গে মিলে যায়; এর সূত্র হিসেবে তিনি সুহাইলী ও সা'লাবীর নাম নেন। তিনি আরও জানান, মাওয়ার্দী দাহহাক থেকে নাম বর্ণনা করেছেন কালসামা, আর সুহাইলী বলেছেন কুলসূম। সুহাইলী এর পক্ষে যুবাইর ইবন বাক্কারের বর্ণিত একটি রিওয়ায়াত আনেন, যা কুরতুবী সনদ বা মান ছাড়াই উল্লেখ করেছেন। নামগুলো যাঁরা বলেছেন, তাঁদের দায়িত্বেই থাক। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Watching From Afar",
+          "bn": "দূরে দাঁড়িয়ে চোখ রাখা"
+        },
+        "p": [
+          {
+            "en": "Fa-basurat bihi 'an junub. At-Tabari reads it first as distance: she saw Musa from afar, not coming near him or approaching, so that it would not be known that she had any tie to him. He notes that basurtu bihi and absartuhu, I saw him, are two well-known forms, and that one says 'an junub and 'an janaba alike. He cites a line of poetry in which 'an janabatin means from far off. Mujahid, in his chains, gives the same sense: from a distance.",
+            "bn": "ফাবাসুরাত বিহী আন জুনুব। তাবারী প্রথমে এটিকে দূরত্ব অর্থে পড়েন: সে মূসাকে দূর থেকে দেখল, কাছে গেল না, এগিয়েও এল না, যাতে কেউ বুঝতে না পারে তার সঙ্গে এ শিশুর কোনো সম্পর্ক আছে। তিনি জানান, বাসুরতু বিহী আর আবসারতুহু, অর্থাৎ আমি তাকে দেখলাম, দুটিই সুপরিচিত রূপ। আন জুনুব আর আন জানাবা, দুভাবেই বলা হয়। প্রমাণ হিসেবে তিনি একটি কবিতার চরণ আনেন, যেখানে আন জানাবাতিন মানে দূর থেকে। মুজাহিদও তাঁর সূত্রগুলোতে একই অর্থ দেন: দূর থেকে।"
+          },
+          {
+            "en": "Ibn 'Abbas, in Ibn Kathir and al-Qurtubi, reads it as 'an janib: from one side. Al-Qurtubi adds that an-Nu'man ibn Salim recited the word as janib, a side or quarter, and that Qatadah recited it janb. Through Sa'id ibn Jubayr, at-Tabari keeps a fuller line from Ibn 'Abbas: al-janab is when a person's gaze rises to the thing far away while it is at his side, and he is not aware of it. Al-Qurtubi links Mujahid's sense to the word ajnabi, the stranger, one who stands apart.",
+            "bn": "ইবন কাসীর ও কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) এটিকে পড়েন আন জানিব অর্থে: এক পাশ থেকে। কুরতুবী আরও বলেন, নু'মান ইবন সালিম শব্দটা পড়েছেন জানিব, অর্থাৎ পাশ বা এক দিক; আর কাতাদা পড়েছেন জানব। সাঈদ ইবন জুবাইরের সূত্রে তাবারী ইবন আব্বাসের আরও বিস্তারিত একটি কথা রেখেছেন: জানাব হলো, মানুষের দৃষ্টি দূরের জিনিসের দিকে উঠে যায়, অথচ জিনিসটি তার পাশেই, আর সে তা টের পায় না। কুরতুবী মুজাহিদের অর্থটিকে আজনাবী শব্দের সঙ্গে মেলান, অর্থাৎ অপরিচিত, যে আলাদা হয়ে দাঁড়িয়ে থাকে।"
+          },
+          {
+            "en": "Al-Qurtubi records two further views without naming who held them. One takes 'an junub as out of longing: Abu 'Amr ibn al-'Ala' reported that in the speech of the tribe of Judham, janabtu ilayka means I longed for you. The other takes it as keeping apart from him, so that they did not know she had any connection with him. Distance, a sideways angle, a yearning held in check: the readings differ, yet each leaves the same picture of a girl who sees without being seen.",
+            "bn": "কুরতুবী আরও দুটি মত উল্লেখ করেন, কারা বলেছেন তা না জানিয়ে। একটি মতে আন জুনুব মানে আকুল টান থেকে। আবু আমর ইবনুল আলা জানিয়েছেন, জুযাম গোত্রের ভাষায় জানাবতু ইলাইকা মানে আমি তোমার জন্য ব্যাকুল হয়েছি। অন্য মতে এর অর্থ তার কাছ থেকে দূরত্ব বজায় রাখা, যাতে ওরা বুঝতে না পারে শিশুটির সঙ্গে তার কোনো যোগ আছে। কেউ বলেন দূরত্ব, কেউ পাশ থেকে দেখা, কেউ চেপে রাখা ব্যাকুলতা। পাঠ ভিন্ন, কিন্তু ছবিটা একই থাকে: একটি মেয়ে, যে দেখে অথচ তাকে কেউ দেখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking Without Seeming To",
+          "bn": "দেখেও না দেখার ভান"
+        },
+        "p": [
+          {
+            "en": "Qatadah draws the posture, and three of the commentators keep his words. In Ibn Kathir and at-Tabari she began to look at him as though she did not want him; al-Qurtubi adds that she looked from the side. Another chain in at-Tabari, through Ma'mar, has Qatadah say that she saw him while level with him, and did not go to him. Al-Baghawi, citing the story, says she walked off to the side and looked in stolen glances, so that it would seem she was not watching him.",
+            "bn": "ভঙ্গিটা এঁকে দেন কাতাদা, আর তিনজন তাফসীরকার তাঁর কথা রেখেছেন। ইবন কাসীর ও তাবারীর বর্ণনায় সে তার দিকে এমনভাবে তাকাতে লাগল, যেন তাকে তার কোনো দরকারই নেই। কুরতুবী যোগ করেন, সে তাকাচ্ছিল এক পাশ থেকে। তাবারীতে মা'মারের সূত্রে কাতাদার আরেকটি কথা আছে: সে তাকে দেখছিল তার সমান্তরালে থেকে, কাছে যায়নি। বাগাভী কাহিনির বরাতে বলেন, সে এক পাশ দিয়ে হাঁটছিল আর চুরি করে এক ঝলক করে তাকাচ্ছিল, যাতে মনে হয় সে তাকে দেখছেই না।"
+          },
+          {
+            "en": "As-Sa'di explains why this mattered. She saw him, he says, in the manner of someone passing by with no purpose in him. This, he writes, was the fullness of resolve and caution. Had she seen him and come up to them openly, they would have suspected that she herself had cast him into the water, and they might then have resolved to slaughter him as a punishment for his family. Her apparent indifference was a shield over the child's life.",
+            "bn": "এর গুরুত্ব কোথায়, সা'দী তা বুঝিয়ে দেন। তাঁর ভাষায়, সে তাকে দেখল এমনভাবে, যেন পথচারী, শিশুটির প্রতি তার কোনো আগ্রহ নেই। তিনি লেখেন, এ ছিল পূর্ণ দৃঢ়তা আর সতর্কতা। সে যদি তাকে দেখে সোজা ওদের কাছে চলে যেত, ওরা সন্দেহ করত যে সে-ই শিশুটিকে পানিতে ফেলেছে। তখন হয়তো তার পরিবারকে শাস্তি দিতে ওরা শিশুটিকে জবাই করার সিদ্ধান্ত নিত। তার উদাসীন ভাবটাই ছিল শিশুর প্রাণের ঢাল।"
+          },
+          {
+            "en": "The care here is not a lapse in trust. The mother had been told in 28:7 not to fear and not to grieve, and that the child would be returned to her. The sister still walked to one side and looked only in stolen glances. As-Sa'di's phrase, tamam al-hazm wa-l-hadhar, names caution as a virtue in its own right. Planning well and trusting fully were not rivals in this household; the girl did both at once, step after step, along a road she could not see the end of.",
+            "bn": "এই সাবধানতা ভরসার ঘাটতি নয়। ২৮:৭ আয়াতে মাকে বলা হয়েছিল ভয় না পেতে, দুঃখ না করতে, শিশুকে তাঁর কাছে ফিরিয়ে দেওয়া হবে। তবু বোনটি এক পাশ দিয়ে হেঁটেছে, তাকিয়েছে শুধু চুরি করে। সা'দীর কথা, তামামুল হাযমি ওয়াল হাযার, সতর্কতাকে নিজেই একটি গুণ বলে চিনিয়ে দেয়। এ পরিবারে ভালো পরিকল্পনা আর পূর্ণ ভরসা পরস্পরের প্রতিদ্বন্দ্বী ছিল না। মেয়েটি দুটোই করেছে একসঙ্গে, কদমে কদমে, এমন এক পথে যার শেষ সে দেখতে পাচ্ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Riverbank or Marketplace",
+          "bn": "নদীর পাড়, নাকি বাজার"
+        },
+        "p": [
+          {
+            "en": "Where did she watch him? The commentators place the scene differently, and the verse itself names no place. Ibn Jurayj, in at-Tabari, sets it on the river: she walked on the edge of the land while the Nile carried him, the two of them level with each other, and she would cast a glance at him, then a glance at the people. He had been laid in a box pitched on its back and its belly, which had been locked over him. Al-Qurtubi likewise has her walking along the shore until she saw them take him.",
+            "bn": "সে তাকে কোথায় দেখছিল? তাফসীরকারেরা দৃশ্যটা রাখেন ভিন্ন ভিন্ন জায়গায়, আর আয়াত নিজে কোনো জায়গার নাম বলে না। তাবারীতে ইবন জুরাইজ দৃশ্যটা রাখেন নদীতে। নীল নদ তাকে ভাসিয়ে নিয়ে যাচ্ছিল, আর বোনটি হাঁটছিল ডাঙার কিনারা ধরে, দুজন পাশাপাশি সমান তালে। একবার সে তাকাত শিশুর দিকে, আবার লোকজনের দিকে। শিশুটিকে রাখা হয়েছিল এমন এক সিন্দুকে, যার ওপর-নিচ আলকাতরা দিয়ে লেপা, আর ওপর থেকে তালা দেওয়া। কুরতুবীও বলেন, সে সাগরের তীর ধরে হাঁটছিল, যতক্ষণ না দেখল ওরা তাকে তুলে নিয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir places the watching later. Once Musa had settled in Pharaoh's house and the king's wife had come to love him, they offered him the wet-nurses of their household, and he refused them all. So they took him out to the market, hoping to find a woman fit to nurse him. When his sister saw him in their hands she knew him, yet she showed nothing, and they did not perceive her. The two settings are kept here as the sources give them; the refused nurses belong to 28:12, and the return to 28:13.",
+            "bn": "ইবন কাসীর দেখার মুহূর্তটা রাখেন আরও পরে। মূসা যখন ফেরাউনের ঘরে থিতু হলেন আর রাজার স্ত্রী তাঁকে ভালোবেসে ফেললেন, তখন ওরা ঘরের ধাত্রীদের তার সামনে আনল। সে কারও দুধ মুখে নিল না। তাই ওরা তাকে বাজারে নিয়ে গেল, যদি দুধ খাওয়ানোর মতো কোনো নারী পাওয়া যায়। বোন যখন তাকে ওদের হাতে দেখল, চিনে ফেলল, কিন্তু কিছুই প্রকাশ করল না, আর ওরাও তাকে টের পেল না। দুটি দৃশ্যই এখানে রাখা হলো, সূত্রে যেমন আছে। ধাত্রী ফিরিয়ে দেওয়ার কথা ২৮:১২ আয়াতের, মায়ের কাছে ফেরার কথা ২৮:১৩ আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Unnoticed in Plain Sight",
+          "bn": "চোখের সামনে, তবু অদেখা"
+        },
+        "p": [
+          {
+            "en": "Wa-hum la yash'urun: while they did not perceive. At-Tabari names who they were: the people of Pharaoh did not perceive, about Musa's sister, that she was his sister. Mujahid says simply, the family of Pharaoh; as-Suddi, that she was his sister; Ibn Ishaq, they did not know she had any tie to him. Al-Baghawi adds, and that she was watching over him; al-Muyassar, and that she was tracking his news. The same three Arabic words close 28:9, where Pharaoh's wife pleads for the child's life.",
+            "bn": "ওয়াহুম লা ইয়াশউরূন: আর তারা টের পাচ্ছিল না। তারা কারা, তাবারী তা বলে দেন: ফেরাউনের লোকেরা মূসার বোনকে দেখে বুঝতে পারেনি যে সে তার বোন। মুজাহিদ শুধু বলেন, ফেরাউনের পরিবার। সুদ্দী বলেন, ওরা জানত না যে সে তার বোন। ইবন ইসহাক বলেন, ওরা জানত না শিশুর সঙ্গে তার কোনো সম্পর্ক আছে। বাগাভী যোগ করেন, এটাও জানত না যে সে তার ওপর নজর রাখছে; মুয়াসসার বলে, সে যে তার খবর ধরে এগোচ্ছে তা-ও না। ঠিক এই তিনটি আরবি শব্দ দিয়েই শেষ হয় ২৮:৯ আয়াত, যেখানে ফেরাউনের স্ত্রী শিশুর প্রাণ ভিক্ষা চান।"
+          },
+          {
+            "en": "A word of care belongs here. The household of Pharaoh in this verse is a ruling house in a story the Qur'an tells, and the verse describes only what the text describes: a girl it did not notice. It licenses nothing against any living person or community. Nor are the oppressed Israelites of Musa's day to be identified with any present-day state or its politics; they are a people of that history, and the verse speaks of them within it. What it holds out to the reader is a mirror, not a verdict on anyone.",
+            "bn": "এখানে একটা সতর্কতার কথা বলা দরকার। এ আয়াতে ফেরাউনের পরিবার হলো কুরআনে বর্ণিত এক কাহিনির শাসকগোষ্ঠী। আয়াত শুধু তা-ই বলে যা লেখা আছে: ওরা একটি মেয়েকে খেয়াল করেনি। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। মূসা (আঃ)-এর যুগের নির্যাতিত বনী ইসরাঈলকেও আজকের কোনো রাষ্ট্র বা তার রাজনীতির সঙ্গে এক করে দেখা যাবে না। তারা সেই ইতিহাসেরই এক জাতি, আর আয়াত তাদের কথা বলে সেই ইতিহাসের ভেতরেই। পাঠকের সামনে আয়াত ধরে এক আয়না, কারও বিরুদ্ধে রায় নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Quiet Courage Within the Plan",
+          "bn": "পরিকল্পনার ভেতরে নীরব সাহস"
+        },
+        "p": [
+          {
+            "en": "Set the verse beside its frame. In 28:7 Allah had already said to the mother, We will return him to you and make him one of the messengers. The outcome was settled before the girl took a step. Yet the promise did not make the family idle. The mother sent her daughter, and the daughter went, alone, toward the most dangerous household in the land, with nothing but a careful gait and a straight face. Allah's plan moved forward through her obedience, not around it.",
+            "bn": "আয়াতটিকে তার পটভূমির পাশে রেখে দেখুন। ২৮:৭ আয়াতে আল্লাহ মাকে আগেই বলে দিয়েছিলেন: আমি তাকে তোমার কাছে ফিরিয়ে দেব, আর তাকে রসূলদের একজন করব। মেয়েটি এক কদম ফেলার আগেই ফলাফল ঠিক হয়ে ছিল। তবু এ ওয়াদা পরিবারটিকে অলস করেনি। মা মেয়েকে পাঠালেন, আর মেয়ে একাই রওনা দিল দেশের সবচেয়ে বিপজ্জনক ঘরের দিকে। সঙ্গে শুধু সাবধানী চলন আর নির্বিকার মুখ। আল্লাহর পরিকল্পনা এগিয়েছে তার আনুগত্যের ভেতর দিয়েই, তাকে পাশ কাটিয়ে নয়।"
+          },
+          {
+            "en": "Ibn Kathir, closing his account of this passage, observes that only a short time lay between the distress and the way out, a day and a night or thereabouts, and he adds, Allah knows best. Glory be to the One in whose hands are all things, he writes; what He wills happens and what He does not will does not happen. In that short space a young girl kept a secret in front of Pharaoh's people. Her courage made no noise, and the verse records it in ten words.",
+            "bn": "এ অংশের আলোচনা শেষে ইবন কাসীর বলেন, বিপদ আর মুক্তির মাঝে সময় ছিল খুবই অল্প, এক দিন এক রাত বা এর কাছাকাছি, আর আল্লাহই ভালো জানেন। তিনি লেখেন, পবিত্র সেই সত্তা যাঁর হাতে সবকিছু; তিনি যা চান তা-ই হয়, যা চান না তা হয় না। এই অল্প সময়ের মধ্যে একটি কিশোরী ফেরাউনের লোকদের সামনে একটা গোপন কথা আগলে রেখেছিল। তার সাহসে কোনো শব্দ ছিল না, আর আয়াত তা লিখে রেখেছে দশটি শব্দে।"
+          },
+          {
+            "en": "The reader's share is close at hand. Most of us are not given the central part in the events that shape a family's future. We are given one word, follow him, look after her, stay near, and the rest is out of sight. The sister did not know what the market or the riverbank held. She did her part with patience and good sense, and left the outcome to the One who had promised it. That is a kind of courage any of us can practise today.",
+            "bn": "পাঠকের ভাগের শিক্ষাটা খুব কাছেই। একটা পরিবারের ভবিষ্যৎ যে ঘটনাগুলো গড়ে দেয়, তাতে আমাদের বেশিরভাগের ভাগে মূল চরিত্র পড়ে না। আমরা পাই একটি মাত্র কথা: ওর পিছু নাও, ওকে দেখে রাখো, কাছাকাছি থাকো। বাকিটা চোখের আড়ালে থাকে। বাজারে বা নদীর পাড়ে কী অপেক্ষা করছে, বোনটি জানত না। সে ধৈর্য আর বুদ্ধি দিয়ে নিজের কাজটুকু করেছে, আর ফলাফল ছেড়ে দিয়েছে তাঁর হাতে, যিনি তার ওয়াদা দিয়েছিলেন। এমন সাহস আজ আমরা যে কেউ চর্চা করতে পারি।"
+          }
+        ]
+      }
+    ]
+  },
   "28:15": {
     "sections": [
       {

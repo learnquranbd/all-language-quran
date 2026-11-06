@@ -24729,6 +24729,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your part is to call with care; opening ears belongs to Allah. And keep your own face turned toward the truth, because hearing it begins with not walking away.",
     "lessonBn": "আপনার কাজ যত্ন নিয়ে ডাকা, কান খুলে দেওয়া আল্লাহর কাজ। আর নিজের মুখটা সত্যের দিকে ফিরিয়ে রাখুন, কারণ সত্য শোনা শুরু হয় পিঠ না ফেরানো থেকে।"
+  },
+  "28:11": {
+    "reflectionEn": "A mother has just set her baby on the river, because Allah told her to. Her heart is empty of everything but him, and she cannot go after him herself, for her grief would give her away. So she turns to his sister with one word: follow him. The girl goes. She keeps her distance, walks as if she has somewhere else to be, and watches from the side, and no one in Pharaoh's household notices her. She does not storm the palace or cry out. She stays near, quiet and alert, until her moment comes. Allah's promise to the mother was already certain, yet He carried it out through a girl's careful steps. Where is the quiet part I am meant to play?",
+    "reflectionBn": "আল্লাহর হুকুমে এক মা এইমাত্র তাঁর শিশুকে নদীতে ভাসিয়ে দিয়েছেন। মনের ভেতর তাকে ছাড়া আর কিছুই নেই। নিজে পিছু নিতে পারছেন না, কারণ চোখের পানিই তাঁকে ধরিয়ে দেবে। তাই শিশুর বোনকে ডেকে একটি মাত্র কথা বলেন: ওর পিছু পিছু যাও। মেয়েটি বেরিয়ে পড়ে। দূরত্ব রেখে চলে, এমনভাবে হাঁটে যেন অন্য কোনো কাজে যাচ্ছে, আর পাশ থেকে চোখ রাখে। ফেরাউনের ঘরের কেউ তাকে খেয়ালই করে না। সে প্রাসাদে ঢুকে পড়ে না, চিৎকারও করে না। চুপচাপ সজাগ থেকে কাছাকাছি থাকে, যতক্ষণ না তার সময় আসে। মায়ের প্রতি আল্লাহর ওয়াদা আগেই নিশ্চিত ছিল, তবু তিনি তা পূরণ করলেন এক কিশোরীর সাবধানী পায়ের ওপর দিয়ে। আমার ভাগের নীরব কাজটা কোথায়?",
+    "pointsEn": [
+      "When someone I love is in trouble I cannot fix, do I stay close and watchful, or look away?",
+      "Is there a task I have been given that feels small, a step behind the real events, which I have been treating as unimportant?",
+      "Do I mistake careful planning for weak trust in Allah, or rashness for strong trust?",
+      "Who in my family carries quiet responsibilities that nobody notices, and when did I last thank them?",
+      "When I am sure of Allah's promise, does it make me idle, or careful and faithful in my own part?"
+    ],
+    "pointsBn": [
+      "প্রিয় কেউ যখন এমন বিপদে পড়ে যা আমি সারাতে পারি না, তখন কি আমি কাছে থেকে খেয়াল রাখি, নাকি চোখ ফিরিয়ে নিই?",
+      "আমাকে দেওয়া এমন কোনো দায়িত্ব কি আছে, যা ছোট মনে হয়, আসল ঘটনার এক কদম পেছনের কাজ, আর তাই আমি গুরুত্ব দিচ্ছি না?",
+      "সাবধানে পরিকল্পনা করাকে কি আমি আল্লাহর ওপর দুর্বল ভরসা ভাবি, আর হঠকারিতাকে মজবুত ভরসা?",
+      "আমার পরিবারে কে এমন নীরব দায়িত্ব বয়ে বেড়ায় যা কারও চোখে পড়ে না? শেষ কবে তাকে কৃতজ্ঞতা জানিয়েছি?",
+      "আল্লাহর ওয়াদার ওপর যখন আমি নিশ্চিত থাকি, তখন কি তা আমাকে অলস করে, নাকি নিজের কাজে আরও সাবধানী ও বিশ্বস্ত করে?"
+    ],
+    "lessonEn": "Allah carries out His plans through ordinary, careful people. Do your part quietly and wisely, and leave the outcome to Him.",
+    "lessonBn": "আল্লাহ তাঁর পরিকল্পনা পূরণ করেন সাধারণ, সাবধানী মানুষের হাত দিয়ে। নিজের কাজটুকু নীরবে ও বুঝেশুনে করুন, ফলাফল তাঁর হাতে ছেড়ে দিন।"
   }
 };
 
