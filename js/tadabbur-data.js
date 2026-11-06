@@ -29545,6 +29545,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "No one will be able to carry you on that Day, and the command is Allah's now as it will be then; settle what you owe Him and others while you still can.",
     "lessonBn": "সেদিন কেউ আপনাকে বয়ে নিয়ে যেতে পারবে না, আর হুকুম তখন যেমন আল্লাহর, এখনও তেমনই। তাই সময় থাকতে আল্লাহর হক আর মানুষের হক মিটিয়ে নিন।"
+  },
+  "80:9": {
+    "reflectionEn": "Two words finish the portrait of the man who came: and he fears. He brought no wealth and no following, only a need, and a fear that pushed him forward instead of holding him back. The commentators name that fear in more than one way: fear of Allah, fear of falling short in seeking guidance, the fear of a man who could not see the road. Whichever it was, it made him walk toward the one who could teach him. Elsewhere the Qur'an says its reminder is for whoever fears. So the question turns to me. When I come to a reminder, do I come with anything at stake? And whom do I overlook because they arrive quietly, bringing nothing but their need?",
+    "reflectionBn": "দুটি শব্দে যে মানুষটি এসেছিলেন তাঁর ছবি পূর্ণ হয়: আর সে ভয় করে। সঙ্গে ধনসম্পদ ছিল না, দলবলও ছিল না। ছিল শুধু প্রয়োজন, আর এমন এক ভয়, যা তাঁকে পেছনে টানেনি, সামনে ঠেলে দিয়েছে। তাফসীরকারেরা এই ভয়ের নাম দেন একাধিকভাবে: আল্লাহর ভয়, হিদায়াত চাওয়ায় কমতি থেকে যাওয়ার ভয়, পথ দেখতে না পাওয়া মানুষের পথের ভয়। যেটাই হোক, সে ভয় তাঁকে হাঁটিয়ে নিয়ে গেছে তাঁর দিকে, যিনি তাঁকে শেখাতে পারেন। কুরআন অন্য জায়গায় বলে, তার উপদেশ তার জন্য, যে ভয় করে। তাহলে প্রশ্নটা এবার আমার দিকে। উপদেশের কাছে যখন যাই, আমার কি কিছু হারানোর ভয় থাকে? আর কারা চুপচাপ আসে বলে, প্রয়োজন ছাড়া কিছু আনে না বলে, আমি তাদের পাশ কাটিয়ে যাই?",
+    "pointsEn": [
+      "What fear, if any, do I carry into my prayer or my reading of the Qur'an, and does it move me toward Allah or away from Him?",
+      "Is there someone who comes to me sincerely for help or knowledge whom I keep asking to wait while I attend to people who seem more important?",
+      "When did worry about my own shortcomings last send me to ask a question, instead of keeping me silent?",
+      "Do I weigh a person by what they want from the truth, or by what they could bring to me?",
+      "What would it look like this week to give my full attention to someone who came with nothing but a need?"
+    ],
+    "pointsBn": [
+      "নামাজে বা কুরআন পড়তে গিয়ে আমার মনে কি কোনো ভয় কাজ করে? করলে সেটা আমাকে আল্লাহর দিকে এগিয়ে দেয়, নাকি দূরে সরিয়ে দেয়?",
+      "কেউ কি আন্তরিকভাবে সাহায্য বা জ্ঞানের জন্য আমার কাছে আসে, অথচ বেশি গুরুত্বপূর্ণ মনে হওয়া লোকদের সামলাতে গিয়ে আমি তাকে বারবার অপেক্ষায় রাখি?",
+      "নিজের কমতি নিয়ে দুশ্চিন্তা শেষ কবে আমাকে প্রশ্ন করতে পাঠিয়েছে, চুপ করিয়ে না রেখে?",
+      "মানুষকে আমি কী দিয়ে মাপি: সত্যের কাছে সে কী চায় তা দিয়ে, নাকি আমার জন্য সে কী আনতে পারে তা দিয়ে?",
+      "শুধু প্রয়োজন নিয়ে যে আমার কাছে এসেছে, এ সপ্তাহে তাকে পুরো মনোযোগ দেওয়ার চেহারাটা কেমন হবে?"
+    ],
+    "lessonEn": "Fear of Allah that sends you toward guidance is the ground a reminder grows in; honour the one who comes seeking with it, however little else he brings.",
+    "lessonBn": "যে আল্লাহভীতি আপনাকে হিদায়াতের দিকে পাঠায়, উপদেশ সেখানেই শিকড় গাড়ে। যে সেই ভয় নিয়ে শিখতে আসে, আর কিছু না আনলেও তাকে সম্মান করুন।"
   }
 };
 

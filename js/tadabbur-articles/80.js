@@ -299,6 +299,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "80:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words to Finish Him",
+          "bn": "দুই শব্দে ছবিটি পূর্ণ"
+        },
+        "p": [
+          {
+            "en": "Wa-huwa yakhsha: and he fears. The verse is two Arabic words, and it cannot stand alone. It continues a sentence that 80:8 opens, wa-amma man ja'aka yas'a, but as for the one who came to you striving, and that sentence only lands in 80:10. Al-Jalalayn, on the quranx page for this verse, names the grammar: wa-huwa yakhsha is a circumstantial clause, a hal, referring back to the one who was hurrying. His fear is not a separate fact about him. It is the state in which he came.",
+            "bn": "ওয়া হুয়া ইয়াখশা: আর সে ভয় করে। আয়াতটি আরবিতে মাত্র দুই শব্দের, একা দাঁড়াতে পারে না। বাক্যটি শুরু হয়েছে ৮০:৮ আয়াতে, ওয়া আম্মা মান জাআকা ইয়াসআ: পক্ষান্তরে যে তোমার কাছে ছুটে এল। আর বাক্যের শেষ ঠিকানা ৮০:১০। এ আয়াতের কুরানএক্স পাতায় জালালাইন ব্যাকরণটা ধরিয়ে দেন। ওয়া হুয়া ইয়াখশা একটি হাল, অর্থাৎ অবস্থা বোঝানো বাক্যাংশ, যা ফিরে যায় ছুটে আসা মানুষটির দিকে। তাই তাঁর ভয় আলাদা কোনো খবর নয়। এ ছিল সেই অবস্থা, যা নিয়ে তিনি এসেছিলেন।"
+          },
+          {
+            "en": "The passage is built as a pair. Amma man istaghna in 80:5, as for the one who thinks himself without need, stands against wa-amma man ja'aka in 80:8. The first man is given one word for his inner state. The second is given two verbs: he came striving, and he fears. One portrait is of a man who feels no lack, the other of a man who feels it enough to come. This verse supplies what the first man lacked: something at stake.",
+            "bn": "অংশটি সাজানো জোড়ায় জোড়ায়। ৮০:৫ আয়াতের আম্মা মানিস তাগনা, যে নিজেকে অভাবমুক্ত মনে করে, তার মুখোমুখি দাঁড়িয়ে আছে ৮০:৮ আয়াতের ওয়া আম্মা মান জাআকা। প্রথম লোকটির ভেতরের অবস্থা বলতে একটিমাত্র শব্দ। দ্বিতীয়জনের জন্য দুটি ক্রিয়া: তিনি ছুটে এসেছেন, আর তিনি ভয় করেন। একজনের কোনো অভাববোধ নেই। অন্যজন অভাবটা এতটাই টের পান যে উঠে চলে আসেন। প্রথমজনের যা ছিল না, এ আয়াত ঠিক সেটাই জুগিয়ে দেয়: হারানোর মতো কিছু একটা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear With No Object Named",
+          "bn": "যে ভয়ের লক্ষ্য বলা নেই"
+        },
+        "p": [
+          {
+            "en": "The verb yakhsha has no object in the verse. Most of the commentators consulted supply it: Allah. At-Tabari paraphrases the two verses together: as for this blind man who came to you hurrying, and he fears Allah and is wary of Him, yakhsha Allaha wa-yattaqih. Al-Qurtubi writes only ay yakhafu Allah, that is, he fears Allah. Al-Baghawi writes the Name alone: Allah, Mighty and Majestic. Al-Jalalayn, in its English rendering on quranx, has simply: fearful of God.",
+            "bn": "আয়াতে ইয়াখশা ক্রিয়ার কোনো কর্ম নেই। যাঁদের তাফসীর দেখা হয়েছে, তাঁদের বেশিরভাগ কর্মটি বসিয়ে দেন, আর সেটি আল্লাহ। তাবারী দুই আয়াত একসঙ্গে খুলে বলেন: এই অন্ধ মানুষটি, যে তোমার কাছে ছুটে এসেছে, সে আল্লাহকে ভয় করে এবং তাঁর ব্যাপারে সাবধান থাকে, ইয়াখশাল্লাহা ওয়া ইয়াত্তাকীহ। কুরতুবী লেখেন শুধু: আই ইয়াখাফুল্লাহ, অর্থাৎ সে আল্লাহকে ভয় করে। বাগাভী শুধু নামটুকু লেখেন: মহান ও পরাক্রান্ত আল্লাহ। কুরানএক্সে জালালাইনের ইংরেজি অনুবাদেও সোজা কথা: আল্লাহভীরু।"
+          },
+          {
+            "en": "Ibn Kathir names no object at all. His Arabic glosses the two verses as one: he makes for you and seeks you out, in order to be guided by what you say to him, yaqsiduka wa-ya'ummuka li-yahtadiya bi-ma taqulu lah. The abridged English keeps that sense. In his reading the weight falls on the purpose of the coming, which is guidance, and the fear is left as the verse leaves it. That is a difference of emphasis, not a dispute.",
+            "bn": "ইবন কাসীর কোনো কর্মের নামই নেন না। আরবিতে তিনি দুই আয়াতকে এক বাক্যে ব্যাখ্যা করেন: সে তোমাকে উদ্দেশ্য করে, তোমার কাছেই আসে, যাতে তুমি যা বলো তা দিয়ে হিদায়াত পায়। ইয়াকসিদুকা ওয়া ইয়াউম্মুকা লিইয়াহতাদিয়া বিমা তাকূলু লাহ। সংক্ষিপ্ত ইংরেজি সংস্করণেও একই অর্থ। তাঁর পাঠে জোর পড়ে আসার উদ্দেশ্যের উপর, অর্থাৎ হিদায়াতের উপর। ভয়টা তিনি আয়াতের মতোই খোলা রাখেন। এটা জোরের তফাত, মতবিরোধ নয়।"
+          },
+          {
+            "en": "The Muyassar goes a step further and says what the fear was about. It describes the man as eager to meet you, wa-huwa yakhsha Allaha min at-taqsir fi al-istirshad: and he fears Allah lest he fall short in seeking guidance. On that reading his fear is no vague dread. It is a believer's worry that he has not yet asked enough or learned enough to be rightly guided, and the remedy for that worry is to go and ask. The fear and the journey become one movement.",
+            "bn": "মুয়াসসার আরেক ধাপ এগিয়ে বলে দেয় ভয়টা কিসের। সে মানুষটির বর্ণনা দেয় এমন একজন হিসেবে, যে তোমার সাক্ষাতের জন্য ব্যাকুল: ওয়া হুয়া ইয়াখশাল্লাহা মিনাত তাকসীরি ফিল ইসতিরশাদ, আর সে আল্লাহকে ভয় করে, পাছে হিদায়াত চাওয়ায় তার কমতি থেকে যায়। এ পাঠে তাঁর ভয় কোনো অস্পষ্ট আতঙ্ক নয়। এটা এক মুমিনের দুশ্চিন্তা: সঠিক পথ পেতে যতটা জিজ্ঞেস করা দরকার, যতটা শেখা দরকার, হয়তো ততটা হয়নি। আর এই দুশ্চিন্তার ওষুধ হলো গিয়ে জিজ্ঞেস করা। ভয় আর পথচলা তখন একই কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Fears Side by Side",
+          "bn": "পাশাপাশি তিন রকম ভয়"
+        },
+        "p": [
+          {
+            "en": "Fakhr ad-Din ar-Razi, in Mafatih al-Ghayb as given on altafsir.com for this verse, says the words wa-huwa yakhsha carry three aspects, thalathat awjuh. He fears Allah, lest he fail to attend to the duties Allah has laid on him. Or he fears the disbelievers, and the harm they might do him for coming to you. Or he fears stumbling, because he was blind and had no one to lead him. Ar-Razi lists the three and does not choose between them.",
+            "bn": "ফখরুদ্দীন রাযী তাঁর মাফাতীহুল গাইবে, যেমনটা আলতাফসীর ডটকমে এ আয়াতের পাতায় আছে, বলেন ওয়া হুয়া ইয়াখশা কথাটির তিনটি দিক আছে, সালাসাতু আওজুহ। এক, সে আল্লাহকে ভয় করে, পাছে আল্লাহর দেওয়া দায়িত্ব পালনে তার গাফিলতি হয়। দুই, সে কাফিরদের ভয় করে, তোমার কাছে আসার কারণে তারা তাকে কষ্ট দিতে পারে। তিন, সে হোঁচট খাওয়ার ভয় করে, কারণ সে ছিল অন্ধ, আর তাকে পথ দেখিয়ে নেওয়ার কেউ ছিল না। রাযী তিনটিই উল্লেখ করেন, কোনোটিকে বেছে নেন না।"
+          },
+          {
+            "en": "Az-Zamakhshari, in al-Kashshaf on the same site, gives the first two as alternatives: he fears Allah, or he fears the disbelievers and their harm for coming to you. The third he introduces with qila, it is said: he came with no guide beside him, so he feared stumbling, al-kabwa. The small word matters. Az-Zamakhshari sets the stumbling reading a step below the other two, while ar-Razi counts it as an equal third aspect.",
+            "bn": "একই সাইটে যামাখশারী তাঁর কাশশাফে প্রথম দুটি দেন বিকল্প হিসেবে: সে আল্লাহকে ভয় করে, অথবা সে কাফিরদের আর তোমার কাছে আসার জন্য তাদের দেওয়া কষ্টের ভয় করে। তৃতীয়টি তিনি আনেন কীলা দিয়ে, অর্থাৎ বলা হয়: সে এসেছিল সঙ্গে কোনো পথপ্রদর্শক ছাড়া, তাই হোঁচট খাওয়ার ভয় করছিল, আল-কাবওয়া। ছোট্ট এই শব্দের ওজন আছে। যামাখশারী হোঁচটের ব্যাখ্যাটিকে বাকি দুটির এক ধাপ নিচে রাখেন। রাযী একে গোনেন সমান মর্যাদার তৃতীয় দিক হিসেবে।"
+          },
+          {
+            "en": "Set beside the shorter glosses, the picture is clear. At-Tabari, al-Qurtubi, al-Baghawi and al-Jalalayn speak only of the fear of Allah. The Muyassar and ar-Razi's first aspect tie that fear to falling short, in seeking guidance or in duty. Ar-Razi and az-Zamakhshari add two further possibilities drawn from the man's circumstances. The verse leaves the verb without an object, and the commentators have not closed what it leaves open. This article does not choose for them.",
+            "bn": "এই তালিকাগুলো ছোট ব্যাখ্যাগুলোর পাশে রাখলে ছবিটা পরিষ্কার হয়। তাবারী, কুরতুবী, বাগাভী আর জালালাইন কেবল আল্লাহর ভয়ের কথা বলেন। মুয়াসসার আর রাযীর প্রথম দিকটি সেই ভয়কে জুড়ে দেয় কমতির সঙ্গে, হিদায়াত চাওয়ায় হোক বা দায়িত্ব পালনে। রাযী আর যামাখশারী মানুষটির অবস্থা থেকে আরও দুটি সম্ভাবনা যোগ করেন। আয়াত ক্রিয়াটিকে কর্মহীন রেখেছে, আর তাফসীরকারেরাও আয়াতের খোলা রাখা জায়গাটা বন্ধ করেননি। এ লেখাও তাঁদের হয়ে কোনোটি বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fear That Walks Forward",
+          "bn": "যে ভয় সামনে হাঁটায়"
+        },
+        "p": [
+          {
+            "en": "Whatever its object, the fear in this verse moves in one direction: toward the Messenger ﷺ. The verb of 80:8 shows it. Al-Baghawi glosses yas'a as yamshi, he walks, and names the walker: Ibn Umm Maktum. Az-Zamakhshari reads it as hurrying in pursuit of good. Ar-Razi reads it the same way and cites the command of 62:9, fa-s'aw ila dhikri Allah, hasten to the remembrance of Allah. Al-Qurtubi says the man came seeking knowledge for the sake of Allah.",
+            "bn": "ভয়ের লক্ষ্য যা-ই হোক, এ আয়াতে ভয়ের গতি একদিকেই: রাসূল ﷺ-এর দিকে। ৮০:৮ আয়াতের ক্রিয়াটিই তা দেখিয়ে দেয়। বাগাভী ইয়াসআ-র ব্যাখ্যা করেন ইয়ামশী দিয়ে, অর্থাৎ হেঁটে আসে, আর পথিকের নামও বলেন: ইবনে উম্মে মাকতুম। যামাখশারীর পাঠে এর অর্থ কল্যাণের খোঁজে দ্রুত আসা। রাযীও একই অর্থ নেন এবং ৬২:৯ আয়াতের আদেশ উদ্ধৃত করেন, ফাসআও ইলা যিকরিল্লাহ, আল্লাহর জিকিরের দিকে দ্রুত ছুটে যাও। কুরতুবী বলেন, মানুষটি এসেছিলেন আল্লাহর জন্য জ্ঞান খুঁজতে।"
+          },
+          {
+            "en": "Sayyid Abul A'la Maududi, in Tafhim al-Qur'an as given on quranx for this passage, makes the link between the two verbs explicit. Describing the man's evident state, he writes that he fears lest he should follow falsehood and invite Allah's wrath; therefore, he comes all the way in search of the knowledge of the true faith. In that sentence the fear is the cause and the coming is its result. The fear does not freeze him where he stands. It puts him on the road.",
+            "bn": "সাইয়েদ আবুল আ'লা মওদূদী তাঁর তাফহীমুল কুরআনে, যেমনটা কুরানএক্সে এ অংশের পাতায় আছে, দুই ক্রিয়ার সম্পর্কটা খোলাখুলি বলেন। মানুষটির বাহ্যিক অবস্থা বর্ণনা করে তিনি লেখেন: সে ভয় করে, পাছে বাতিলের অনুসরণ করে বসে আর আল্লাহর গজব ডেকে আনে। তাই সত্য দ্বীনের জ্ঞানের খোঁজে সে এত পথ পেরিয়ে আসে। এ বাক্যে ভয় হলো কারণ, আর আসাটা তার ফল। ভয় তাঁকে যেখানে ছিলেন সেখানে জমিয়ে রাখে না। ভয়ই তাঁকে পথে নামিয়ে দেয়।"
+          },
+          {
+            "en": "That is worth holding on to, because fear can run either way. A person can be so afraid of having got things wrong that he keeps away from the very people and places that could put it right. The man of 80:9 did the opposite. Take any of the readings, even the fear of stumbling on a road he could not see, and the fear still did not keep him at home.",
+            "bn": "কথাটা মনে রাখার মতো, কারণ ভয় দুই দিকেই নিয়ে যেতে পারে। ভুল করে ফেলেছি, এই ভয়ে মানুষ এমনকি সেই মানুষ আর সেই জায়গা থেকেও দূরে থাকে, যেখানে গেলে ভুলটা শোধরানো যেত। ৮০:৯ আয়াতের মানুষটি করেছিলেন উল্টোটা। যে ব্যাখ্যাই নিন, এমনকি না-দেখা পথে হোঁচট খাওয়ার ভয়ও, সেই ভয় তাঁকে ঘরে আটকে রাখতে পারেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hearer a Reminder Needs",
+          "bn": "উপদেশের দরকার যেমন শ্রোতা"
+        },
+        "p": [
+          {
+            "en": "The Qur'an returns to this same verb when it says whom its reminder reaches. Ta Ha opens with it: We did not send down the Qur'an to you to distress you, but only as a reminder for whoever fears, illa tadhkiratan li-man yakhsha (20:2 and 20:3). Al-A'la says, sa-yadhdhakkaru man yakhsha: whoever fears will take heed (87:10). The surah just before 'Abasa says that Pharaoh's story holds a lesson for whoever fears (79:26), and tells the Prophet ﷺ that he is only a warner to whoever fears the Hour (79:45).",
+            "bn": "কুরআন তার উপদেশ কার কাছে পৌঁছায় তা বলতে গিয়ে বারবার এই ক্রিয়াতেই ফিরে আসে। সূরা ত্বাহা শুরুই হয় এ দিয়ে: তোমাকে কষ্ট দিতে আমি কুরআন নাজিল করিনি, করেছি কেবল তার জন্য উপদেশ হিসেবে, যে ভয় করে, ইল্লা তাযকিরাতাল লিমাই ইয়াখশা (২০:২ ও ২০:৩)। সূরা আ'লা বলে, সাইয়াযযাক্কারু মাই ইয়াখশা: যে ভয় করে, সে উপদেশ নেবে (৮৭:১০)। আবাসার ঠিক আগের সূরা বলে, ফেরাউনের কাহিনিতে শিক্ষা আছে তার জন্য, যে ভয় করে (৭৯:২৬)। সেখানেই নবী ﷺ-কে বলা হয়েছে, কিয়ামতকে যে ভয় করে, তুমি কেবল তারই সতর্ককারী (৭৯:৪৫)।"
+          },
+          {
+            "en": "Two verses later, 80:11 says of these very verses: No! Indeed, it is a reminder, innaha tadhkira. Read beside 20:3 and 87:10, the passage sends the reminder where the Qur'an elsewhere says it does its work, to whoever fears. That connection is drawn here from the verses themselves, not from any commentator on 80:9. It shows why two words carry so much: they name the very quality the reminder looks for in its hearer.",
+            "bn": "এর দুই আয়াত পরে, ৮০:১১ এই আয়াতগুলো সম্পর্কেই বলে: কখনো নয়! এ তো এক উপদেশ, ইন্নাহা তাযকিরা। ২০:৩ আর ৮৭:১০ আয়াতের পাশে রেখে পড়লে দেখা যায়, অংশটি উপদেশকে পাঠাচ্ছে সেখানেই, যেখানে কুরআন অন্য জায়গায় বলেছে উপদেশ কাজ করে: যে ভয় করে, তার কাছে। এই যোগসূত্র এখানে টানা হয়েছে আয়াতগুলো থেকেই, ৮০:৯ আয়াতের কোনো তাফসীরকারের কথা থেকে নয়। এতে বোঝা যায় দুটি শব্দ কেন এত ভার বহন করে। উপদেশ তার শ্রোতার মধ্যে যে গুণটি খোঁজে, এ দুই শব্দ ঠিক সেই গুণেরই নাম।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, in its grouped comment on 80:3 to 80:12, says that had the man been taught, he would at least have gained the basic benefit of remembrance: an increase in Allah's remembrance and in His awe, which it calls the initial step towards perfection. On that reading the fear named in 80:9 is both what brought him and what the teaching would have deepened. The Qur'an itself joins fear to knowledge in 35:28: only those of His servants who have knowledge truly fear Allah.",
+            "bn": "মাআরিফুল কুরআন ৮০:৩ থেকে ৮০:১২ পর্যন্ত একসঙ্গে আলোচনায় বলে, মানুষটিকে শেখানো হলে অন্তত জিকিরের মৌলিক উপকারটুকু তিনি পেতেন: আল্লাহর স্মরণ আর তাঁর প্রতি সম্ভ্রমমিশ্রিত ভয় বাড়ত। মাআরিফ একে বলে পূর্ণতার পথে প্রথম ধাপ। এ পাঠে ৮০:৯ আয়াতে যে ভয়ের কথা, সেটাই তাঁকে টেনে এনেছিল, আবার শিক্ষা পেলে সেটাই আরও গভীর হতো। কুরআন নিজেও ৩৫:২৮ আয়াতে ভয় আর জ্ঞানকে এক সুতোয় বাঁধে: আল্লাহর বান্দাদের মধ্যে জ্ঞানীরাই কেবল তাঁকে ভয় করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Man the Report Names",
+          "bn": "বর্ণনায় যাঁর নাম আসে"
+        },
+        "p": [
+          {
+            "en": "Who was he? The surah does not name him; 80:2 calls him only the blind man. At-Tabari speaks of this blind man, and al-Baghawi names him in his gloss on 80:8. The narration in a canonical collection checked for this passage is the report of Aishah (RA) in Jami' at-Tirmidhi, number 3331, which says that 'Abasa was revealed about Ibn Umm Maktum, the blind man, who came asking the Messenger ﷺ to guide him. The article on 80:7 quotes its wording whole, so it is not repeated here.",
+            "bn": "তিনি কে ছিলেন? সূরা তাঁর নাম বলে না, ৮০:২ আয়াত শুধু বলে অন্ধ লোকটি। তাবারী বলেন এই অন্ধ মানুষটি, আর বাগাভী ৮০:৮ আয়াতের ব্যাখ্যায় তাঁর নাম নেন। এ অংশের জন্য হাদিসের প্রামাণ্য সংকলনে যে বর্ণনাটি যাচাই করা হয়েছে, সেটি জামে তিরমিযীর ৩৩৩১ নম্বরে আয়েশা (রাঃ)-এর বর্ণনা। তাতে আছে, আবাসা নাজিল হয়েছিল অন্ধ ইবনে উম্মে মাকতুম সম্পর্কে, যিনি এসে রাসূল ﷺ-এর কাছে পথনির্দেশ চাইছিলেন। ৮০:৭ আয়াতের লেখায় এর পুরো শব্দাবলি উদ্ধৃত আছে, তাই এখানে আবার দেওয়া হলো না।"
+          },
+          {
+            "en": "At-Tirmidhi grades it hasan gharib, and notes that some narrated it from Hisham ibn Urwah from his father without mentioning Aishah. The report concerns the opening of the surah and names no later verse, so it is not attached to 80:9 in particular. No source consulted for this verse attaches a separate narration to the words wa-huwa yakhsha. Ibn Kathir's abridged English adds that Ibn Umm Maktum was of those who had accepted Islam in its earliest days.",
+            "bn": "তিরমিযী হাদিসটিকে হাসান গারীব বলেছেন। তিনি আরও জানান, কেউ কেউ এটি হিশাম ইবনে উরওয়া থেকে তাঁর পিতার সূত্রে বর্ণনা করেছেন, আয়েশা (রাঃ)-এর উল্লেখ ছাড়াই। বর্ণনাটি সূরার শুরুর অংশ নিয়ে, পরের কোনো আয়াতের নাম তাতে নেই। তাই একে বিশেষভাবে ৮০:৯ আয়াতের সঙ্গে জোড়া যায় না। এ আয়াতের জন্য যত সূত্র দেখা হয়েছে, তার কোনোটিই ওয়া হুয়া ইয়াখশা কথাটির সঙ্গে আলাদা কোনো বর্ণনা জোড়ে না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ আরও জানায়, ইবনে উম্মে মাকতুম (রাঃ) ছিলেন একেবারে শুরুর দিকে ইসলাম গ্রহণকারীদের একজন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Address Is Read",
+          "bn": "সম্বোধনটি যেভাবে পড়া হয়"
+        },
+        "p": [
+          {
+            "en": "The sentence this verse belongs to closes in 80:10: fa-anta 'anhu talahha, from him you are distracted. At-Tabari glosses it as turning from him and busying yourself with another; Ibn Kathir's Arabic says only tatashaghal, you are occupied. His abridged English also records why the Messenger ﷺ was occupied: he hoped that the man he was speaking with would be guided. In his account, the attention that went elsewhere went to the hope of another man's guidance.",
+            "bn": "এ আয়াত যে বাক্যের অংশ, তা শেষ হয় ৮০:১০ আয়াতে: ফাআনতা আনহু তালাহহা, তার দিক থেকে তুমি অন্যমনস্ক হলে। তাবারী এর ব্যাখ্যা দেন: তার দিক থেকে মুখ ফিরিয়ে অন্যজনকে নিয়ে ব্যস্ত হওয়া। ইবন কাসীরের আরবিতে শুধু আছে তাতাশাগাল, তুমি ব্যস্ত থাকো। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ রাসূল ﷺ-এর ব্যস্ততার কারণও জানায়: যার সঙ্গে কথা বলছিলেন, তিনি আশা করছিলেন সে হিদায়াত পাবে। তাঁর বর্ণনায়, মনোযোগ যেদিকে সরে গিয়েছিল, তা গিয়েছিল আরেকজনের হিদায়াতের আশায়।"
+          },
+          {
+            "en": "The commentators name the passage in their own terms. Ibn Kathir's abridged English heads it as the Prophet being reprimanded; Maududi says Allah reproved him and then told him what really deserved his attention as a preacher of the Truth. As-Sa'di calls turning toward the man who came in need the more fitting course, and the required course. The articles on 80:3 and 80:7 set out those readings. This article keeps to their framing, which concerns where attention belongs first, and adds no judgement of its own.",
+            "bn": "তাফসীরকারেরা অংশটির নাম দেন নিজেদের ভাষায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এর শিরোনাম দেয়: নবী ﷺ-কে ভর্ৎসনা। মওদূদী বলেন, আল্লাহ প্রথমে তাঁকে ভর্ৎসনা করলেন, তারপর জানালেন সত্যের দাঈ হিসেবে আসলে কোন বিষয়টি তাঁর মনোযোগের হকদার। সা'দীর মতে, প্রয়োজন নিয়ে যে এসেছে তার দিকে ফেরাই বেশি মানানসই এবং সেটাই করণীয়। ৮০:৩ আর ৮০:৭ আয়াতের লেখায় এসব পাঠ বিস্তারিত আছে। এ লেখা তাঁদের সেই কাঠামোতেই থাকে, যার বিষয় হলো মনোযোগ আগে কার প্রাপ্য। নিজের পক্ষ থেকে কোনো রায় যোগ করে না।"
+          },
+          {
+            "en": "As for the other man in the scene, the texts consulted for this verse leave him unnamed, and so does this article. He appears in the passage only as the one who thought himself without need. The verse describes what the text describes, one man at one moment, and licenses nothing against any living person or community, nor against the wealthy or the powerful as a class.",
+            "bn": "দৃশ্যের অন্য মানুষটির কথা বলতে গেলে, এ আয়াতের জন্য দেখা লেখাগুলো তার নাম বলে না, এ লেখাও বলে না। অংশটিতে সে আসে শুধু এমন একজন হিসেবে, যে নিজেকে অভাবমুক্ত ভাবত। লেখায় যা আছে, আয়াত ঠিক ততটুকুই বলে: এক মুহূর্তের একজন মানুষ। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, ধনী বা ক্ষমতাবানদের গোটা শ্রেণির বিরুদ্ধেও, এ আয়াত কোনো ছাড়পত্র দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arriving at the Lesson Afraid",
+          "bn": "ভয় নিয়ে শিক্ষার দরজায়"
+        },
+        "p": [
+          {
+            "en": "For anyone who teaches, the verse gives a sign to watch for. The person most ready to benefit may not be the most impressive in the room. He may be the one who arrives in a hurry, worried that he has not understood his religion well enough. The man of 80:9 came in just that state. An imam, a parent or a teacher who learns to notice it will often find that the quiet, anxious question deserves the first answer.",
+            "bn": "যিনি শেখান, তাঁর জন্য আয়াতটি একটি আলামত চিনিয়ে দেয়। যে সবচেয়ে বেশি উপকৃত হতে প্রস্তুত, সে হয়তো ঘরের সবচেয়ে নজরকাড়া মানুষ নয়। হয়তো সে-ই, যে তাড়াহুড়া করে আসে, ভাবে দ্বীনটা হয়তো ঠিকমতো বোঝা হয়নি। ৮০:৯ আয়াতের মানুষটি ঠিক এই অবস্থাতেই এসেছিলেন। ইমাম, বাবা-মা বা শিক্ষক এটা লক্ষ করতে শিখলে প্রায়ই দেখবেন, চুপচাপ, উদ্বিগ্ন প্রশ্নটাই প্রথম জবাবের হকদার।"
+          },
+          {
+            "en": "The verse also asks something of whoever comes to learn. Reminders work, the Qur'an says, on whoever fears. If I sit with the Qur'an or a lesson with nothing at stake, as though nothing I hear could change me, I have come in the posture of 80:5 rather than 80:9. The fear meant here is not the kind that drives a person away from Allah. It is the honest sense that I could be wrong, and that I need to ask.",
+            "bn": "যে শিখতে আসে, আয়াত তার কাছেও কিছু চায়। কুরআন বলে, উপদেশ কাজ করে তার উপর, যে ভয় করে। আমি যদি কুরআন বা কোনো দরসের সামনে এমনভাবে বসি, যেন হারানোর কিছু নেই, যেন শোনা কোনো কথাই আমাকে বদলাতে পারবে না, তাহলে আমি এসেছি ৮০:৫ আয়াতের ভঙ্গিতে, ৮০:৯ আয়াতের ভঙ্গিতে নয়। এখানে যে ভয়ের কথা, তা মানুষকে আল্লাহর কাছ থেকে দূরে সরিয়ে দেয় না। এ হলো সৎ উপলব্ধি: আমার ভুল হতে পারে, আর আমাকে জিজ্ঞেস করতে হবে।"
+          },
+          {
+            "en": "Ibn Umm Maktum (RA), as the reports describe him, could not see the road and came anyway. The Muyassar's fear of falling short, ar-Razi's three aspects, Maududi's fear of following falsehood: each could have been a reason to stay at home, and in each reading he came. The verse gives him two words. They make a measure for every reader: when worry about my state arrives, does it send me to the door of someone who can teach me, or keep me from it?",
+            "bn": "বর্ণনা অনুযায়ী ইবনে উম্মে মাকতুম (রাঃ) পথ দেখতে পেতেন না, তবু এসেছিলেন। মুয়াসসারের কমতি থেকে যাওয়ার ভয়, রাযীর তিনটি দিক, মওদূদীর বাতিল অনুসরণের ভয়: প্রতিটিই ঘরে বসে থাকার কারণ হতে পারত। অথচ প্রতিটি পাঠেই তিনি এসেছিলেন। আয়াত তাঁকে দিয়েছে দুটি শব্দ। প্রত্যেক পাঠকের জন্য সে দুটি শব্দ এক মাপকাঠি। নিজের অবস্থা নিয়ে দুশ্চিন্তা যখন আসে, তা কি আমাকে এমন কারও দরজায় পাঠায়, যিনি শেখাতে পারেন? নাকি সেই দরজা থেকে দূরে রাখে?"
+          }
+        ]
+      }
+    ]
+  },
   "80:13": {
     "sections": [
       {
