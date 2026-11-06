@@ -27069,6 +27069,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give Allah's verses the seriousness they ask for, do not let this world lull you, and make your amends now, while amends are still accepted.",
     "lessonBn": "আল্লাহর আয়াতকে তার প্রাপ্য গুরুত্ব দিন, দুনিয়া যেন আপনাকে ভুলিয়ে না রাখে, আর শুধরে নেওয়ার কাজটা এখনই করুন, যতক্ষণ তা কবুল হয়।"
+  },
+  "46:5": {
+    "reflectionEn": "Picture someone calling, again and again, to something that cannot hear. No reply comes today, or tomorrow, or in all the days left before the Resurrection, and the one being called does not even know that a call was made. The verse asks who could be more lost than that, and leaves the listener to answer: no one. It was said first of the idols worshipped in Makkah, and the next verse adds that on the Day of gathering the called-upon will disown those who called them. Yet the verse points to its opposite. There is One who hears every call and is never unaware of it. When need presses on me, whose name comes to my lips first, and do I ask Him as one who expects an answer?",
+    "reflectionBn": "একজন মানুষকে কল্পনা করুন, যে বারবার ডেকে চলেছে এমন কিছুকে যা শুনতেই পায় না। আজ কোনো সাড়া আসে না, কালও না, কিয়ামত পর্যন্ত বাকি সব দিনেও না। যাকে ডাকা হচ্ছে, সে জানেই না যে কেউ তাকে ডেকেছে। আয়াতটি জিজ্ঞেস করে, এর চেয়ে বেশি পথহারা আর কে? উত্তরটা শ্রোতার উপর ছেড়ে দেয়: কেউ নেই। কথাটা প্রথমে বলা হয়েছিল মক্কায় পূজিত মূর্তিগুলো সম্পর্কে। পরের আয়াত যোগ করে, হাশরের দিন যাদের ডাকা হতো তারাই ডাকনেওয়ালাদের অস্বীকার করবে। তবু আয়াতটি উল্টো দিকটাও দেখিয়ে দেয়। একজন আছেন যিনি প্রতিটি ডাক শোনেন, কোনো ডাক থেকে কখনো বেখবর থাকেন না। বিপদ যখন চেপে ধরে, আমার মুখে প্রথম কার নাম আসে? আর তাঁকে যখন ডাকি, সাড়া পাওয়ার আশা নিয়ে ডাকি কি?",
+    "pointsEn": [
+      "When something goes wrong, where does my mind run first: to a person, a plan, a connection, or to Allah?",
+      "Do I make du'a as one who expects to be answered, or as a habit I no longer think about?",
+      "Is there anything I lean on in a way that, if I were honest, belongs only to the One who hears?",
+      "The verse calls this the furthest straying. Does that make me grateful that the One who answers has never shut His door to me?",
+      "Do I call on Allah in ease as well, or only when I feel cornered?"
+    ],
+    "pointsBn": [
+      "কিছু একটা খারাপ হলে আমার মন প্রথমে কোথায় ছোটে: কোনো মানুষের কাছে, কোনো পরিকল্পনায়, কোনো চেনাজানার দিকে, নাকি আল্লাহর দিকে?",
+      "আমি কি সাড়া পাওয়ার আশা নিয়ে দোয়া করি, নাকি দোয়াটা এমন অভ্যাস হয়ে গেছে যা নিয়ে আর ভাবি না?",
+      "এমন কিছু কি আছে যার উপর আমি এমনভাবে ভর দিই, সৎভাবে ভাবলে যে ভরসা কেবল যিনি শোনেন তাঁরই প্রাপ্য?",
+      "আয়াতটি একে সবচেয়ে দূরের পথভ্রষ্টতা বলেছে। এতে কি আমি কৃতজ্ঞ হই যে, যিনি সাড়া দেন তিনি আমার জন্য তাঁর দরজা কখনো বন্ধ করেননি?",
+      "আমি কি সুখের দিনেও আল্লাহকে ডাকি, নাকি কেবল কোণঠাসা হলে?"
+    ],
+    "lessonEn": "Call on Allah alone, who hears and answers, and never hang your hope on anything that cannot hear you and will disown that hope on the Day of gathering.",
+    "lessonBn": "কেবল আল্লাহকেই ডাকুন, যিনি শোনেন ও সাড়া দেন। যা আপনার ডাক শুনতে পায় না, আর হাশরের দিন সেই ভরসাকেই অস্বীকার করবে, তার উপর কখনো আশা ঝুলিয়ে রাখবেন না।"
   }
 };
 

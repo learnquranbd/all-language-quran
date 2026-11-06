@@ -155,6 +155,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "46:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Furthest From the Road",
+          "bn": "পথ থেকে সবচেয়ে দূরে"
+        },
+        "p": [
+          {
+            "en": "Wa man adallu mimman yad'u min duni Allah: and who is more astray than one who calls, besides Allah, on what will not answer him until the Day of Resurrection? The question is not asked for information. Al-Qurtubi turns it straight into a statement: no one is more astray or more ignorant than such a person. The Muyassar gives the same sentence in nearly the same words. The comparative adallu, more astray, sets this error beyond every other, so that whatever else a person gets wrong, this is the furthest point from the road.",
+            "bn": "ওয়া মান আদাল্লু মিম্মান ইয়াদ'ঊ মিন দূনিল্লাহ: আর তার চেয়ে বেশি পথহারা কে, যে আল্লাহকে বাদ দিয়ে এমন কিছুকে ডাকে যা কিয়ামত পর্যন্ত তার ডাকে সাড়া দেবে না? প্রশ্নটা কিছু জানার জন্য করা হয়নি। কুরতুবী একে সরাসরি একটি ঘোষণায় রূপ দেন: এমন মানুষের চেয়ে বেশি পথহারা ও বেশি অজ্ঞ আর কেউ নেই। মুয়াসসারও প্রায় একই শব্দে একই কথা বলে। আদাল্লু শব্দটি তুলনাবাচক, অর্থাৎ আরও বেশি পথহারা। এই ভুলকে তা অন্য সব ভুলের ওপারে বসিয়ে দেয়। মানুষ আর যা-ই ভুল করুক, পথ থেকে সবচেয়ে দূরের জায়গা এটাই।"
+          },
+          {
+            "en": "The verse closes an argument that opened in the verse before it. In 46:4 the Prophet ﷺ is told to say: show me what those you call on have created of the earth, or what share they have in the heavens, and bring a scripture from before this or a trace of knowledge, if you are truthful. Ma'arif al-Qur'an reads that verse as shutting every kind of proof in turn: reason, a revealed book, and a saying of a prophet. If they can bring none of these, it says, their words and deeds are misguided. With no proof standing, 46:5 names the result.",
+            "bn": "আয়াতটি এমন এক যুক্তির উপসংহার, যার শুরু ঠিক আগের আয়াতে। ৪৬:৪ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে: তোমরা যাদের ডাকো, তারা পৃথিবীর কী সৃষ্টি করেছে দেখাও, কিংবা আকাশে তাদের কী অংশ আছে। এর আগের কোনো কিতাব বা জ্ঞানের কোনো চিহ্ন নিয়ে এসো, যদি সত্যবাদী হও। মাআরিফুল কুরআন সে আয়াতে দেখে, প্রমাণের প্রতিটি দরজা একে একে বন্ধ হচ্ছে: যুক্তি, অবতীর্ণ কিতাব, আর কোনো নবীর বাণী। এর কোনোটাই আনতে না পারলে, মাআরিফ বলে, তাদের কথা ও কাজ দুটোই পথভ্রষ্ট। কোনো প্রমাণ যখন দাঁড়াল না, ৪৬:৫ তখন ফলাফলটা জানিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stone, Wood, or the Dead",
+          "bn": "পাথর, কাঠ, নাকি মৃত"
+        },
+        "p": [
+          {
+            "en": "Who are the ones being called? Most of the commentators fetched for this verse give a single answer: idols. Ibn Kathir says no one is more astray than whoever calls on idols and asks of them what they cannot do, while they are unaware of what he says; they neither hear nor see nor seize anything, being lifeless stones. At-Tabari says they will never answer his call because they are stone or wood or the like. Al-Baghawi names the idols, which give their worshippers nothing they ask. Al-Qurtubi names them too: these are the awthan.",
+            "bn": "যাদের ডাকা হচ্ছে, তারা কারা? এ আয়াতের জন্য সংগৃহীত তাফসীরগুলোর বেশিরভাগ এক কথায় উত্তর দেয়: মূর্তি। ইবন কাসীর বলেন, যে মূর্তিকে ডাকে আর তাদের কাছে এমন কিছু চায় যা তাদের সাধ্যের বাইরে, তার চেয়ে বেশি পথহারা কেউ নেই। সে কী বলছে, মূর্তিগুলো তা জানেই না। তারা শোনে না, দেখে না, কিছু ধরতেও পারে না, কারণ তারা প্রাণহীন পাথর। তাবারী বলেন, তারা কখনো তার ডাকে সাড়া দেবে না, কেননা তারা পাথর, কাঠ বা এ জাতীয় কিছু। বাগাভীও মূর্তির কথা বলেন, যারা পূজারির কোনো চাওয়াই পূরণ করে না। কুরতুবীর ভাষায় এরা আওসান, অর্থাৎ প্রতিমা।"
+          },
+          {
+            "en": "Two of the sources draw the circle differently. The Muyassar says these gods never answer because they are of the dead, or stones and trees and the like; they are unaware of the call of whoever worships them and can bring him neither benefit nor harm. Its word is simply the dead, with no one named. As-Sa'di names no object at all. He describes only their state: they hear no call from those who call them and answer no cry. That is their condition in this world, he says, and on the Day of Resurrection they will reject the partnership that was given to them.",
+            "bn": "দুটি সূত্র বৃত্তটা ভিন্নভাবে আঁকে। মুয়াসসার বলে, এই উপাস্যরা কখনো সাড়া দেয় না, কারণ তারা মৃতদের অন্তর্ভুক্ত, অথবা পাথর, গাছ বা এ ধরনের কিছু। যে তাদের ইবাদত করে, তার ডাক সম্পর্কে তারা বেখবর, তার উপকার বা ক্ষতি কোনোটারই ক্ষমতা তাদের নেই। মুয়াসসারের শব্দটা শুধু 'মৃত', কারও নাম সেখানে নেই। সা'দী কোনো বস্তুর নামই নেন না। তিনি কেবল তাদের অবস্থা বর্ণনা করেন: যারা ডাকে, তাদের কোনো ডাক এরা শোনে না, কোনো আহ্বানে সাড়াও দেয় না। দুনিয়ায় এই তাদের হাল, আর কিয়ামতের দিন তাদের সঙ্গে যে শরিক করা হয়েছিল, তা তারা অস্বীকার করবে।"
+          },
+          {
+            "en": "Al-Qurtubi, on the very next verse, widens the list further. Among those who will be enemies of their worshippers on the Day, he names the angels, and the jinn and devils who will disown those who worshipped them; the idols may be enemies as well, he adds, if life is created in them. So the sources span a range: idols of stone and wood in most of them, the dead in the Muyassar, and angels and jinn in al-Qurtubi's comment on 46:6. Each says what it says, and none of these files names any particular person.",
+            "bn": "ঠিক পরের আয়াতের আলোচনায় কুরতুবী তালিকাটা আরও বড় করেন। কিয়ামতের দিন যারা নিজেদের পূজারিদের শত্রু হবে, তাদের মধ্যে তিনি ফেরেশতাদের নাম নেন। নাম নেন জিন ও শয়তানদেরও, যারা নিজেদের পূজারিদের থেকে দায়মুক্তি ঘোষণা করবে। তিনি যোগ করেন, মূর্তিগুলোর মধ্যে প্রাণ সৃষ্টি করা হলে তারাও শত্রু হতে পারে। তাহলে সূত্রগুলোর পরিধি এরকম: বেশিরভাগের কাছে পাথর ও কাঠের মূর্তি, মুয়াসসারের কাছে মৃতরাও, আর ৪৬:৬ নিয়ে কুরতুবীর আলোচনায় ফেরেশতা ও জিন। প্রত্যেকে যা বলেছে তা-ই এখানে রাখা হলো, আর এই তাফসীরগুলোর কোথাও নির্দিষ্ট কোনো ব্যক্তির নাম নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken Of Like Kings",
+          "bn": "রাজার মতো করে বলা"
+        },
+        "p": [
+          {
+            "en": "The grammar holds a small surprise. The verse refers to what is called with man, who, rather than ma, what, and closes with hum, they, a plural used for beings that think: wa hum 'an du'a'ihim ghafilun. At-Tabari reports an explanation, introduced with the words it was said: the gods, though lifeless, are spoken of as beings with choice and discernment are spoken of, because their worshippers had likened them to kings and princes who are waited upon, and so the speech followed the way they themselves talked. Al-Qurtubi gives the same reason in fewer words.",
+            "bn": "ব্যাকরণে এখানে ছোট্ট একটা চমক আছে। যাদের ডাকা হচ্ছে, আয়াত তাদের বোঝাতে 'মা' (যা) না বলে বলেছে 'মান' (যে)। শেষে বলেছে 'হুম' (তারা), যে বহুবচন সাধারণত বুদ্ধিসম্পন্নদের জন্য: ওয়া হুম আন দু'আ-ইহিম গাফিলূন। তাবারী 'বলা হয়েছে' কথাটি দিয়ে একটি ব্যাখ্যা আনেন। উপাস্যগুলো প্রাণহীন হলেও তাদের কথা বলা হয়েছে বিচারবুদ্ধিসম্পন্ন মানুষের মতো করে। কারণ পূজারিরা তাদের তুলনা করত রাজা-আমিরদের সঙ্গে, যাদের সেবা করা হয়। তাই কথাও চলেছে তাদের নিজেদের বলার ধরন মেনে। কুরতুবীও অল্প কথায় একই কারণ বলেন।"
+          },
+          {
+            "en": "At-Tabari treats ghafilun, unaware, the same way. Calling the idols heedless, he says, likens them to a man who is not paying attention to what is said to him: they understand nothing said to them, just as the heedless person does not take in what he is heedless of. Then he states the verse's purpose: it is a rebuke from Allah to these idolaters for their poor judgement and the ugliness of their choice, worshipping what neither reasons nor understands. The language borrows the worshippers' own picture of a royal court, and lets the listener see that the throne is empty.",
+            "bn": "গাফিলূন, অর্থাৎ বেখবর, শব্দটিকেও তাবারী একইভাবে দেখেন। মূর্তিকে উদাসীন বলা মানে তাকে এমন মানুষের সঙ্গে তুলনা করা, যাকে কিছু বলা হলে সে খেয়ালই করে না। তাদের যা বলা হয় তার কিছুই তারা বোঝে না, যেমন উদাসীন মানুষ যে বিষয়ে উদাসীন তা বুঝতে পারে না। এরপর তাবারী আয়াতের উদ্দেশ্য বলে দেন: এটি ওই মুশরিকদের প্রতি আল্লাহর তিরস্কার। তাদের বিচারবুদ্ধি মন্দ, বাছাইও কুৎসিত, কারণ তারা এমন কিছুর ইবাদত করে যা বোঝে না, বুদ্ধিও রাখে না। ভাষাটা পূজারিদের নিজেদের কল্পনার রাজদরবারকেই ধার নেয়, তারপর শ্রোতাকে দেখিয়ে দেয় যে সিংহাসনটা খালি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Limit That Means Never",
+          "bn": "যে সীমার মানে কখনোই না"
+        },
+        "p": [
+          {
+            "en": "Ila yawmi al-qiyamah: until the Day of Resurrection. A phrase with an end point invites a question: will they answer once that Day arrives? The commentators close that door. At-Tabari glosses it as they will never answer his call. Al-Baghawi says forever, as long as the world lasts. The Muyassar also says never. The limit is named not because an answer waits beyond it, but because it is the longest span a human being can imagine waiting. Every day of the caller's life, and every day after it until the world ends, the reply does not come.",
+            "bn": "ইলা ইয়াওমিল কিয়ামাহ: কিয়ামতের দিন পর্যন্ত। শেষ সীমা আছে এমন কথা শুনলে প্রশ্ন জাগে: সেদিন এলে কি তারা সাড়া দেবে? তাফসীরকারেরা সে সম্ভাবনা নাকচ করে দেন। তাবারীর ব্যাখ্যায় এর মানে, তারা কখনোই তার ডাকে সাড়া দেবে না। বাগাভী বলেন, চিরকাল, যতদিন দুনিয়া টিকে থাকে। মুয়াসসারও বলে, কখনো না। সীমাটার উল্লেখ এ জন্য নয় যে তার ওপারে কোনো জবাব অপেক্ষা করছে। এ জন্য যে, মানুষ যত দীর্ঘ অপেক্ষা কল্পনা করতে পারে, এটাই তার শেষ মাথা। যে ডাকে, তার জীবনের প্রতিটি দিন, তারপর দুনিয়া শেষ হওয়া পর্যন্ত প্রতিটি দিন, জবাব আসে না।"
+          },
+          {
+            "en": "As-Sa'di measures the span from the caller's side: for the whole of his stay in this world, he gains from what he calls not so much as an atom's weight of benefit. And the end point is not where answers begin. On that Day, as-Sa'di says, the called-upon will reject the partnership given to them, and 46:6 says they will become enemies. Surah Fatir puts the same sequence into a single verse, 35:14: if you call them, they do not hear your call; if they heard, they would not answer you; and on the Day of Resurrection they will deny your association.",
+            "bn": "সা'দী সময়টা মাপেন যে ডাকে তার দিক থেকে: দুনিয়ায় তার পুরো অবস্থানকালে, যাকে সে ডাকে তার কাছ থেকে অণু পরিমাণ উপকারও সে পায় না। আর সীমার শেষ বিন্দুতে জবাবের শুরু হয় না। সা'দী বলেন, সেদিন যাদের ডাকা হতো তারা নিজেদের উপর আরোপিত শরিকানা অস্বীকার করবে। ৪৬:৬ আয়াত বলে, তারা শত্রু হয়ে দাঁড়াবে। সূরা ফাতিরের ৩৫:১৪ আয়াত এই পুরো ধারাটা এক আয়াতে বলে দেয়: তোমরা তাদের ডাকলে তারা তোমাদের ডাক শোনে না। শুনলেও তোমাদের সাড়া দিত না। আর কিয়ামতের দিন তোমরা যে তাদের শরিক বানিয়েছিলে, তা তারা অস্বীকার করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Called Become Enemies",
+          "bn": "যাদের ডাকা হতো, তারাই শত্রু"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the picture: and when people are gathered, they will be enemies to them and will deny their worship. At-Tabari explains: when people are gathered on the Day of Resurrection for the reckoning, the gods they used to call in this world will be their enemies, because they disown them. They will deny their worship, he says, by saying on that Day: we never commanded them to worship us, nor were we aware of their worship of us; we declare ourselves free of them before You, our Lord. The unawareness named in 46:5 is here spoken aloud.",
+            "bn": "পরের আয়াত ছবিটা পূর্ণ করে: আর যখন মানুষকে একত্র করা হবে, তখন তারা হবে তাদের শত্রু, আর তাদের ইবাদতকে অস্বীকার করবে। তাবারী ব্যাখ্যা করেন: কিয়ামতের দিন হিসাবের জন্য মানুষকে যখন জড়ো করা হবে, দুনিয়ায় যে উপাস্যদের তারা ডাকত, সেগুলোই হবে তাদের শত্রু, কারণ তারা পূজারিদের থেকে দায়মুক্তি ঘোষণা করবে। ইবাদত অস্বীকার করার ধরনটাও তিনি বলেন। সেদিন তারা বলবে: আমরা তাদের আমাদের ইবাদত করতে বলিনি, তাদের ইবাদতের কথা আমরা টেরও পাইনি। হে আমাদের রব, তোমার সামনে আমরা তাদের থেকে মুক্ত। ৪৬:৫ আয়াতে যে বেখবরির কথা, এখানে তা মুখ ফুটে বলা হলো।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi both point to 28:63 to show what that denial sounds like: we declare our disassociation to You; it was not us they worshipped. Al-Qurtubi also records a second reading, introduced with it was said: the worshippers will turn hostile to what they worshipped, because it was the cause of their ruin. The Muyassar has the gods curse their worshippers, disown them, and deny any knowledge of being worshipped. As-Sa'di keeps it brief and mutual: they will curse each other and disown each other.",
+            "bn": "সে অস্বীকৃতি শুনতে কেমন, তা দেখাতে বাগাভী ও কুরতুবী দুজনেই ২৮:৬৩ আয়াতের দিকে ইশারা করেন: তোমার কাছে আমরা দায়মুক্তি ঘোষণা করছি, তারা তো আমাদের ইবাদত করত না। কুরতুবী 'বলা হয়েছে' দিয়ে আরেকটি পাঠও উল্লেখ করেন: পূজারিরাই নিজেদের উপাস্যদের শত্রু হয়ে যাবে, কারণ ওরাই ছিল তাদের ধ্বংসের কারণ। মুয়াসসারের বর্ণনায় উপাস্যরা পূজারিদের অভিশাপ দেবে, তাদের থেকে মুক্ত থাকার ঘোষণা দেবে, আর তাদের ইবাদতের কোনো খবর জানার কথা অস্বীকার করবে। সা'দী সংক্ষেপে বলেন, দুই পক্ষই: তারা একে অপরকে অভিশাপ দেবে, একে অপরের থেকে মুক্ত হতে চাইবে।"
+          },
+          {
+            "en": "Ibn Kathir sets 46:6 beside 19:81 and 19:82, where people took gods besides Allah to be a source of honour for them, and are told: no, they will deny their worship and be opponents against them. He comments that they will betray them when they need them most. He adds the words of Ibrahim (AS) in 29:25: on the Day of Resurrection you will deny each other and curse each other. The hope placed in the called-upon is not only left unanswered. On the Day it turns around and faces whoever hoped.",
+            "bn": "ইবন কাসীর ৪৬:৬ আয়াতকে রাখেন ১৯:৮১ ও ১৯:৮২ আয়াতের পাশে। সেখানে মানুষ আল্লাহকে বাদ দিয়ে উপাস্য গ্রহণ করেছিল, যাতে তারা তাদের সম্মানের উৎস হয়। জবাব আসে: কখনো না, তারা তাদের ইবাদত অস্বীকার করবে আর তাদের বিরোধী হয়ে দাঁড়াবে। ইবন কাসীর মন্তব্য করেন, যখন তাদের সবচেয়ে বেশি দরকার, তখনই তারা বিশ্বাসঘাতকতা করবে। তিনি ২৯:২৫ আয়াত থেকে ইবরাহীম (আঃ)-এর কথাও আনেন: কিয়ামতের দিন তোমরা একে অপরকে অস্বীকার করবে, একে অপরকে অভিশাপ দেবে। যাদের ডাকা হতো, তাদের উপর রাখা আশা শুধু অপূর্ণই থাকে না। সেদিন তা ঘুরে দাঁড়ায় আশাকারীর বিরুদ্ধেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calling, Then Called Worship",
+          "bn": "ডাকার আরেক নাম ইবাদত"
+        },
+        "p": [
+          {
+            "en": "Read the two verses together and a change of word stands out. 46:5 speaks of du'a'ihim, their calling. 46:6, about the same people and the same act, speaks of 'ibadatihim, their worship. What the caller did in this world is described as calling; what the called-upon deny on the Day is described as worship. The commentators move between the two words in the same way. At-Tabari moves from one who calls on gods besides Allah to a rebuke for what they chose in their worship. The Muyassar speaks of the call of whoever worships them.",
+            "bn": "দুটি আয়াত একসঙ্গে পড়লে একটি শব্দবদল চোখে পড়ে। ৪৬:৫ আয়াত বলে দু'আ-ইহিম, তাদের ডাকা। ৪৬:৬ আয়াত সেই একই মানুষ আর একই কাজের কথা বলে 'ইবাদাতিহিম' শব্দে, অর্থাৎ তাদের ইবাদত। দুনিয়ায় যে কাজকে বলা হয়েছে ডাকা, কিয়ামতের দিন উপাস্যরা সেটাকেই অস্বীকার করে ইবাদত বলে। তাফসীরকারেরাও এভাবে এক শব্দ থেকে অন্য শব্দে যান। তাবারী শুরু করেন আল্লাহকে বাদ দিয়ে উপাস্যদের ডাকার কথা দিয়ে, তারপর তিরস্কার করেন তাদের ইবাদতের বাছাইকে। মুয়াসসার বলে, যে তাদের ইবাদত করে তার ডাকের কথা।"
+          },
+          {
+            "en": "A hadith names the same link outright. At-Tirmidhi records from an-Nu'man ibn Bashir that the Prophet ﷺ, on the words Your Lord said: call on Me, I will answer you, said: \"Supplication is worship,\" and recited the verse up to its word humbled. At-Tirmidhi grades it hasan sahih (Tirmidhi 2969). It is narrated on 40:60, not on this verse, and none of the commentaries fetched for 46:5 attaches a hadith or an occasion of revelation to it. It is quoted here only because it states the link that 46:5 and 46:6 show.",
+            "bn": "একটি হাদীস এই সম্পর্কটা সরাসরি বলে দেয়। তিরমিযী নু'মান ইবন বাশীর (রাঃ) থেকে বর্ণনা করেন: 'তোমাদের রব বলেছেন, আমাকে ডাকো, আমি সাড়া দেব', এই আয়াত প্রসঙ্গে নবী ﷺ বলেছেন: \"দোয়াই ইবাদত।\" তারপর তিনি আয়াতটি 'লাঞ্ছিত হয়ে' শব্দ পর্যন্ত তিলাওয়াত করেন। তিরমিযী একে হাসান সহীহ বলেছেন (তিরমিযী ২৯৬৯)। হাদীসটি ৪০:৬০ আয়াত প্রসঙ্গে বর্ণিত, এই আয়াত প্রসঙ্গে নয়। ৪৬:৫ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি। হাদীসটি এখানে আনা হলো কেবল এ কারণে যে, ৪৬:৫ ও ৪৬:৬ আয়াত যে সম্পর্ক দেখায়, এটি সে কথাই স্পষ্ট করে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Makkah's Idolaters",
+          "bn": "মক্কার মূর্তিপূজকদের উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "Whom did the verse first address? Ibn Kathir notes that the surah was revealed in Makkah, and he places 46:4 to 46:6 under the heading refuting the idolaters, reading the command Say as spoken to these idolaters who worship others besides Allah. At-Tabari calls the verse a rebuke from Allah to these idolaters. In the sources, then, the verse speaks to the idol worshippers of the Prophet's own time ﷺ, people who had taken gods besides Allah, likened them to kings, and could bring no scripture and no trace of knowledge for doing so.",
+            "bn": "আয়াতটি প্রথমে কাদের উদ্দেশে বলা? ইবন কাসীর উল্লেখ করেন, সূরাটি মক্কায় অবতীর্ণ। ৪৬:৪ থেকে ৪৬:৬ আয়াতকে তিনি রাখেন 'মূর্তিপূজকদের খণ্ডন' শিরোনামের নিচে, আর 'বলো' আদেশটিকে পড়েন আল্লাহকে বাদ দিয়ে অন্যের ইবাদতকারী ওই মূর্তিপূজকদের প্রতি বলা কথা হিসেবে। তাবারী আয়াতটিকে বলেন ওই মুশরিকদের প্রতি আল্লাহর তিরস্কার। সূত্রগুলো অনুযায়ী তাই আয়াতটি কথা বলছে নবী ﷺ-এর সময়ের মূর্তিপূজকদের সঙ্গে। তারা আল্লাহকে বাদ দিয়ে উপাস্য গ্রহণ করেছিল, তাদের তুলনা করত রাজাদের সঙ্গে, অথচ এর পক্ষে কোনো কিতাব বা জ্ঞানের কোনো চিহ্ন আনতে পারেনি।"
+          },
+          {
+            "en": "That needs saying plainly. The verse describes what it describes, and it licenses nothing against any living person or community. It is not a verdict on any present-day Muslim group or practice, and this article applies it to none; no suspicion, insult or charge of unbelief against anyone can be drawn from it here. The Muyassar's mention of the dead is reported as its description of what was called on, and is carried no further. What the verse asks of each reader is to search his own heart, not his neighbour's.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এটি আজকের কোনো মুসলিম দল বা কোনো আমলের উপর রায় নয়, আর এই লেখাও একে কারও উপর প্রয়োগ করছে না। এখান থেকে কারও প্রতি সন্দেহ, কটূক্তি বা কুফরের অভিযোগ টানার সুযোগ নেই। মুয়াসসার যে মৃতদের কথা বলেছে, তা এখানে আনা হয়েছে কেবল যাদের ডাকা হতো তাদের বর্ণনা হিসেবে, এর বেশি নয়। আয়াত প্রত্যেক পাঠকের কাছে চায় নিজের অন্তর খুঁজে দেখতে, প্রতিবেশীর অন্তর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Who Hears",
+          "bn": "যিনি শোনেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's rebuke has a second half that is easy to miss. The idolaters chose what understands nothing, he says, and left the worship of the One from whom come all the blessings they enjoy, and to whom they cry for help when needs and calamities come down on them. The verse's dark picture outlines its opposite. Everything the idols lack, hearing, awareness, the power to answer, belongs to Allah. Elsewhere the Qur'an says it outright: your Lord says, call on Me, I will answer you (40:60); and I am near, I answer the call of the caller when he calls on Me (2:186).",
+            "bn": "তাবারীর তিরস্কারের দ্বিতীয় একটা অংশ আছে, যা সহজেই চোখ এড়িয়ে যায়। তিনি বলেন, মুশরিকরা বেছে নিয়েছিল এমন কিছু যা কিছুই বোঝে না। আর ছেড়ে দিয়েছিল তাঁর ইবাদত, যাঁর কাছ থেকে আসে তাদের ভোগ করা সব নিয়ামত, আর প্রয়োজন ও বিপদ নেমে এলে যাঁর কাছে তারা ফরিয়াদ করে। আয়াতের অন্ধকার ছবিটাই তার উল্টো দিকের রেখা এঁকে দেয়। মূর্তির যা কিছু নেই, শোনা, খবর রাখা, সাড়া দেওয়ার ক্ষমতা, সবই আল্লাহর আছে। কুরআন অন্যত্র সরাসরি বলে: তোমাদের রব বলেন, আমাকে ডাকো, আমি সাড়া দেব (৪০:৬০)। আর বলে: আমি কাছেই আছি, ডাকনেওয়ালা যখন আমাকে ডাকে, আমি তার ডাকে সাড়া দিই (২:১৮৬)।"
+          },
+          {
+            "en": "So the verse holds a question even for a reader who has never bowed to a stone. Ibn Kathir's phrase, that the false gods betray their worshippers when they need them most, is a test every hope can be put to: will this still be there on the Day I need it most? A person can call on Allah with the tongue while the heart leans elsewhere. The verse invites the opposite: to call on the One who is never unaware of a call, and to call as one who expects to be heard.",
+            "bn": "তাই যে পাঠক কখনো পাথরের সামনে মাথা নত করেননি, তাঁর জন্যও আয়াতে একটা প্রশ্ন রয়ে গেছে। ইবন কাসীর বলেছেন, মিথ্যা উপাস্যরা পূজারিদের সঙ্গে বিশ্বাসঘাতকতা করে ঠিক তখন, যখন তাদের সবচেয়ে বেশি দরকার। প্রতিটি আশাকে এই কষ্টিপাথরে যাচাই করা যায়: যেদিন আমার সবচেয়ে বেশি প্রয়োজন হবে, সেদিন কি এটা পাশে থাকবে? মুখে আল্লাহকে ডেকেও মানুষের মন অন্য কোথাও ভর দিয়ে থাকতে পারে। আয়াতের আহ্বান উল্টোটা: তাঁকে ডাকুন, যিনি কোনো ডাক থেকে কখনো বেখবর নন। আর ডাকুন এমনভাবে, যেন জানেন যে তিনি শুনছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "46:10": {
     "sections": [
       {
