@@ -1755,6 +1755,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:61": {
+    "sections": [
+      {
+        "h": {
+          "en": "Set Side by Side",
+          "bn": "পাশাপাশি দুটি জীবন"
+        },
+        "p": [
+          {
+            "en": "The preceding verse, 28:60, has just told its listeners that whatever they have been given is the enjoyment and adornment of worldly life, and that what is with Allah is better and more lasting. Then 28:61 turns from things to people. It opens with a-fa-man, is he who, a question that expects the answer no. Al-Muyassar finishes it in his own words: la yastawi al-fariqan, the two parties are not equal. As-Sa'di recasts it as hal yastawi, are they alike?",
+            "bn": "ঠিক আগের আয়াত, ২৮:৬০, শ্রোতাদের জানিয়ে দিয়েছে: তোমাদের যা কিছু দেওয়া হয়েছে, সবই দুনিয়ার জীবনের ভোগ আর তার সাজসজ্জা, আর আল্লাহর কাছে যা আছে তা উত্তম ও বেশি স্থায়ী। এরপর ২৮:৬১ জিনিসপত্র ছেড়ে মানুষের দিকে ফেরে। শুরু হয় আফামান দিয়ে: সে কি ঐ ব্যক্তির মতো? প্রশ্নটার উত্তর আগে থেকেই 'না'। মুয়াসসার নিজের ভাষায় উত্তরটা জুড়ে দেন: লা ইয়াসতাউইল ফারীকান, দুই দল সমান নয়। সা'দী প্রশ্নটাকে নতুন করে সাজান: হাল ইয়াসতাউই, এরা কি এক?"
+          },
+          {
+            "en": "Two portraits follow, each in a few words. In the first, We promised him a good promise, and he will meet it. In the second, We gave him the enjoyment of the life of this world, then on the Day of Resurrection he is among al-muhdarin, those brought. Allah is the speaker in both halves: We promised, and We gave enjoyment. What it marks is how his story ends, with the word thumma, then.",
+            "bn": "এরপর দুটি ছবি, প্রতিটি অল্প কয়েকটি শব্দে আঁকা। প্রথম ছবিতে: আমি তাকে উত্তম ওয়াদা দিয়েছি, আর সে তা পাবে। দ্বিতীয় ছবিতে: আমি তাকে দুনিয়ার জীবনের ভোগ-সম্ভার দিয়েছি, তারপর কিয়ামতের দিন সে আল-মুহদারীনের একজন, যাদের হাজির করা হবে। দুই অংশেই বক্তা আল্লাহ: আমি ওয়াদা দিয়েছি, আমিই ভোগ দিয়েছি। আয়াত চিহ্নিত করে তার গল্পের শেষটা, ছুম্মা শব্দ দিয়ে: তারপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Promise Met Without Fail",
+          "bn": "যে ওয়াদা পূরণ হবেই"
+        },
+        "p": [
+          {
+            "en": "Wa'dan hasanan, a good promise: al-Qurtubi and al-Baghawi both say it means Paradise, al-Qurtubi adding the reward it holds, and as-Sa'di calls it the fine reward that is Paradise with its immense bliss. At-Tabari spells out how a person comes to hold such a promise. Allah promised Paradise to those of His creation who obey Him; this man believed what was promised, affirmed it and obeyed, and by that obedience became deserving that Allah fulfil for him what He had promised.",
+            "bn": "ওয়া'দান হাসানান, উত্তম ওয়াদা। কুরতুবী আর বাগাভী দুজনেই বলেন, এর অর্থ জান্নাত। কুরতুবী সঙ্গে যোগ করেন, জান্নাতে যে সওয়াব আছে সেটাও। সা'দী একে বলেন সেই সুন্দর প্রতিদান, যা হলো জান্নাত আর তার বিশাল নিয়ামত। এমন ওয়াদা একজন মানুষ কীভাবে পায়, তাবারী তা খুলে বলেন। আল্লাহ তাঁর সৃষ্টির মধ্যে যারা তাঁর আনুগত্য করে, তাদের জান্নাতের ওয়াদা দিয়েছেন। এই লোক ওয়াদাটা বিশ্বাস করেছে, সত্য বলে মেনেছে, আনুগত্য করেছে। সেই আনুগত্যের কারণেই সে এর হকদার হয়েছে যে আল্লাহ তাকে দেওয়া ওয়াদা পূরণ করবেন।"
+          },
+          {
+            "en": "At-Tabari then gives Qatadah's reading: he is the believer who heard the Book of Allah, affirmed it, and believed what Allah promised in it. Ibn Kathir describes him the same way, as a believer who trusts what Allah has promised for his righteous deeds, a reward he is heading toward la mahala, without fail. The promise belongs to someone who heard, believed and acted, and the commentators count the acting as part of who he is.",
+            "bn": "তাবারী এরপর কাতাদার ব্যাখ্যা আনেন: সে হলো সেই মুমিন, যে আল্লাহর কিতাব শুনেছে, তাকে সত্য বলে মেনেছে, আর কিতাবে আল্লাহ যে ওয়াদা দিয়েছেন তাতে ঈমান এনেছে। ইবন কাসীরও তাকে একইভাবে চেনান। সে এমন মুমিন, যে নেক আমলের বদলে আল্লাহর ওয়াদা করা প্রতিদানে ভরসা রাখে, আর সেই প্রতিদানের দিকেই সে এগোচ্ছে, লা মাহালা, অবধারিতভাবে। ওয়াদাটা তার, যে শুনেছে, ঈমান এনেছে, আমল করেছে। আর তাফসীরকারেরা তাকে চেনানোর সময় আমলটাকেও তার পরিচয়ের অংশ ধরেন।"
+          },
+          {
+            "en": "Fa-huwa laqihi, and he will meet it. Al-Baghawi glosses the phrase with three words: musibuhu, mudrikuhu, sa'irun ilayh, he will obtain it, he will reach it, and he is on his way to it. As-Sa'di grounds the certainty in the Promiser Himself. The believer will meet it with no doubt or hesitation, because it is a promise from the Generous, true to His word, who does not break His appointment, made to a servant who did what pleases Him and kept away from what angers Him.",
+            "bn": "ফাহুয়া লাকীহি, আর সে তা পাবে। বাগাভী কথাটার ব্যাখ্যা দেন তিনটি শব্দে: মুসীবুহু, মুদরিকুহু, সাইরুন ইলাইহি। অর্থাৎ সে তা লাভ করবে, তার নাগাল পাবে, আর সেদিকেই সে চলেছে। সা'দী নিশ্চয়তার ভিত্তি খোঁজেন ওয়াদাকারীর মধ্যে। মুমিন কোনো সন্দেহ বা দ্বিধা ছাড়াই তা পাবে। কারণ ওয়াদাটা এসেছে এমন এক দয়ালু সত্তার কাছ থেকে, যিনি কথা রাখেন, প্রতিশ্রুত সময়ের খেলাফ করেন না। আর ওয়াদাটা দেওয়া হয়েছে এমন বান্দাকে, যে তাঁর সন্তুষ্টির কাজ করেছে আর তাঁর অসন্তুষ্টি থেকে দূরে থেকেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enjoyment Lent for Days",
+          "bn": "কয়েক দিনের ভোগ"
+        },
+        "p": [
+          {
+            "en": "Then the second man: matta'nahu mata'a al-hayat ad-dunya, We gave him the enjoyment of worldly life. Ibn Kathir identifies him as a disbeliever who denies the meeting with Allah, His promise and His threat, and who is given enjoyment in this life for ayyaman qala'il, a few days. Al-Baghawi adds three words of his own after the phrase: wa yazulu 'an qarib, and it passes away before long. Both make the shortness of the enjoyment the point, not its size.",
+            "bn": "এবার দ্বিতীয় লোকটি: মাত্তা'নাহু মাতা'আল হায়াতিদ দুনইয়া, আমি তাকে দুনিয়ার জীবনের ভোগ দিয়েছি। ইবন কাসীর তাকে চেনান কাফির হিসেবে। সে আল্লাহর সঙ্গে সাক্ষাৎকে মিথ্যা বলে, তাঁর ওয়াদা আর তাঁর হুঁশিয়ারি দুটোকেই অস্বীকার করে। দুনিয়ায় তাকে ভোগ করতে দেওয়া হয় আইয়ামান কালাইল, অল্প কয়েকটা দিন। বাগাভী কথাটার পরে নিজের তিনটি শব্দ জুড়ে দেন: ওয়া ইয়াযূলু আন কারীব, আর তা অচিরেই মিলিয়ে যায়। দুজনের কাছেই আসল কথা ভোগের স্বল্পতা, তার পরিমাণ নয়।"
+          },
+          {
+            "en": "At-Tabari names what the man did with what he was given. He enjoyed it, forgot to act on what Allah promised the people of obedience, gave up seeking it, and athara ladhdhatan 'ajilatan 'ala ajila, preferred the pleasure at hand to the pleasure deferred. Al-Muyassar keeps that last phrase word for word. Neither of them charges him here with enjoying what was forbidden. The fault they name is forgetting and preferring: a lasting thing was on offer, and he chose what was already in his hand.",
+            "bn": "হাতে যা পেয়েছিল তা দিয়ে লোকটা কী করল, তাবারী তা বলে দেন। সে ভোগ করেছে। আনুগত্যকারীদের জন্য আল্লাহ যে ওয়াদা দিয়েছেন, সে অনুযায়ী আমল করতে ভুলে গেছে, তার খোঁজও ছেড়ে দিয়েছে। আর আছারা লাযযাতান আজিলাতান আলা আজিলা: পরের আনন্দের চেয়ে এখনকার আনন্দকে বেছে নিয়েছে। মুয়াসসার শেষ কথাটা হুবহু রেখে দেন। এখানে দুজনের কেউই তাকে হারাম ভোগের দায়ে অভিযুক্ত করেন না। তাঁরা যে দোষের নাম নেন তা হলো ভুলে যাওয়া আর বেছে নেওয়া। স্থায়ী জিনিস সামনে ছিল, অথচ সে হাতের জিনিসটাকেই বেছে নিল।"
+          },
+          {
+            "en": "As-Sa'di draws the sharpest picture. In this world the man takes and gives, eats and drinks, and enjoys himself as cattle do. His world has kept him busy from his Hereafter; he never raised his head toward Allah's guidance and never yielded to the messengers. He stays that way, and from his world he gathers no provision but loss and ruin. Provision is a traveller's supply, and the point is bitter: he had everything a journey needs, and packed loss.",
+            "bn": "সবচেয়ে কড়া ছবিটা আঁকেন সা'দী। দুনিয়ায় লোকটা নেয় আর দেয়, খায় আর পান করে, আর চতুষ্পদ জন্তুর মতো ভোগ করে। দুনিয়া তাকে আখিরাত থেকে ব্যস্ত করে রেখেছে। আল্লাহর হিদায়াতের দিকে সে কখনো মাথা তোলেনি, রাসূলদের কথাও মানেনি। এভাবেই সে চলতে থাকে, আর দুনিয়া থেকে ক্ষতি আর ধ্বংস ছাড়া কোনো পাথেয় সংগ্রহ করে না। পাথেয় মানে মুসাফিরের সঙ্গে নেওয়া রসদ। সা'দীর কথার ভেতরের তিক্ততা এখানেই: সফরের জন্য যা দরকার সবই তার হাতে ছিল, অথচ সে গাঁটরিতে বাঁধল শুধু ক্ষতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brought, and Brought to What",
+          "bn": "হাজির করা, কিসের সামনে"
+        },
+        "p": [
+          {
+            "en": "Al-muhdarin is a passive participle: those who are made present, those who are brought. The word itself leaves unsaid where they are brought, and the commentators fill the gap. Ibn Kathir reports Mujahid and Qatadah: min al-mu'adhdhabin, among those punished. At-Tabari's own gloss is those made to witness Allah's punishment and His painful penalty, and says the interpreters said much the same. He gives Qatadah again, in Allah's punishment, and Mujahid: the people of the Fire, they were brought to it.",
+            "bn": "আল-মুহদারীন কর্মবাচ্য শব্দ: যাদের হাজির করানো হয়, যাদের টেনে আনা হয়। কোথায় আনা হবে, শব্দটা নিজে তা বলে না। ফাঁকটা পূরণ করেন তাফসীরকারেরা। ইবন কাসীর মুজাহিদ ও কাতাদার কথা আনেন: মিনাল মুআযযাবীন, শাস্তিপ্রাপ্তদের একজন। তাবারী নিজে ব্যাখ্যা করেন এভাবে: যাদের আল্লাহর আযাব আর তাঁর কষ্টদায়ক শাস্তি প্রত্যক্ষ করানো হবে। তিনি বলেন, তাফসীরবিদেরাও প্রায় এ কথাই বলেছেন। এরপর তিনি আবার কাতাদার কথা আনেন, আল্লাহর আযাবের মধ্যে। আর মুজাহিদের কথা: তারা জাহান্নামের অধিবাসী, তাদের সেখানে হাজির করা হয়েছে।"
+          },
+          {
+            "en": "Two other readings place the weight a step earlier. Al-Muyassar writes that he is among those brought lil-hisab wal-jaza', for the reckoning and the recompense. As-Sa'di writes lil-hisab, for the reckoning, and adds what the man learns there: that he sent ahead nothing good for himself, only what harms him, and has moved to the abode where deeds are repaid. Then as-Sa'di turns to the reader: what do you suppose he comes to, and how do you reckon he will be dealt with?",
+            "bn": "আরও দুটি ব্যাখ্যা জোর দেয় এক ধাপ আগের মুহূর্তে। মুয়াসসার লেখেন, তাকে হাজির করা হবে লিল হিসাবি ওয়াল জাযা, হিসাব আর প্রতিফলের জন্য। সা'দী লেখেন লিল হিসাব, হিসাবের জন্য। সঙ্গে যোগ করেন সেখানে লোকটা কী জানতে পারে: নিজের জন্য সে ভালো কিছুই আগে পাঠায়নি, পাঠিয়েছে শুধু যা তার ক্ষতি করে। আর সে চলে এসেছে সেই ঘরে, যেখানে আমলের প্রতিদান দেওয়া হয়। তারপর সা'দী পাঠকের দিকে ফেরেন: তোমাদের কী ধারণা, সে কোথায় গিয়ে ঠেকবে? তার সঙ্গে কী আচরণ করা হবে বলে তোমরা মনে করো?"
+          },
+          {
+            "en": "Ibn Kathir sets the word beside two places where it recurs. In 37:57 a believer in Paradise looks down at his companion in the depths and says: had it not been for the favour of my Lord, I would have been among the muhdarin. In 37:158 the jinn know that they will be brought. The believer of 37:57 does not credit himself with being spared; he credits his Lord's favour. That is a fitting guard for anyone who reads 28:61 and places himself in its first half.",
+            "bn": "ইবন কাসীর শব্দটাকে পাশাপাশি রাখেন আরও দুই জায়গার সঙ্গে, যেখানে এটা ফিরে এসেছে। ৩৭:৫৭ আয়াতে জান্নাতের এক মুমিন নিচে তার সঙ্গীর দিকে তাকিয়ে বলে: আমার রবের অনুগ্রহ না থাকলে আমিও হাজিরকৃতদের দলে থাকতাম। আর ৩৭:১৫৮ আয়াতে জিনেরা জানে, তাদেরও হাজির করা হবে। ৩৭:৫৭ আয়াতের মুমিন বেঁচে যাওয়ার কৃতিত্ব নিজেকে দেয় না, দেয় তার রবের অনুগ্রহকে। যে ২৮:৬১ পড়ে নিজেকে প্রথম অংশে বসিয়ে দেয়, তার জন্য এটা দরকারি এক সাবধানবাণী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names the Reports Carry",
+          "bn": "বর্ণনায় যাদের নাম আসে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari writes that the people of interpretation differed over whom the verse came down about. Some said the Prophet ﷺ and Abu Jahl ibn Hisham, and he gives this from Mujahid through Shu'bah and Aban ibn Taghlib; Ibn Jurayj, glossing only the first half, says: the Prophet ﷺ. Others said Hamzah and 'Ali ibn Abi Talib, with Abu Jahl, again from Mujahid through Shu'bah and Aban by another of Shu'bah's students. A third route, again through Shu'bah, names Hamzah and Abu Jahl alone.",
+            "bn": "তাবারী লেখেন, আয়াতটি কাদের ব্যাপারে নাযিল হয়েছে, তা নিয়ে তাফসীরবিদদের মধ্যে মতভেদ আছে। কেউ বলেছেন নবী ﷺ আর আবু জাহল ইবন হিশামের ব্যাপারে। এটি তিনি এনেছেন মুজাহিদ থেকে, শু'বা ও আবান ইবন তাগলিবের সূত্রে। ইবন জুরাইজ শুধু প্রথম অংশের ব্যাখ্যায় বলেন: নবী ﷺ। অন্যরা বলেছেন হামযা (রাঃ) ও আলী ইবন আবি তালিব (রাঃ), আর আবু জাহলের ব্যাপারে। এটিও মুজাহিদ থেকে, শু'বা ও আবানের সূত্রে, তবে শু'বার অন্য এক শিষ্যের মাধ্যমে। তৃতীয় আরেক সূত্রে, সেটিও শু'বার মাধ্যমে, শুধু হামযা (রাঃ) আর আবু জাহলের নাম আসে।"
+          },
+          {
+            "en": "Al-Qurtubi widens the list. He relays from Ibn 'Abbas that it came down about Hamzah ibn 'Abd al-Muttalib and Abu Jahl ibn Hisham; from Mujahid, the Prophet ﷺ and Abu Jahl; from Muhammad ibn Ka'b, Hamzah and 'Ali, and Abu Jahl and 'Umarah ibn al-Walid. It was also said, he adds, 'Ammar and al-Walid ibn al-Mughirah, which he attributes to as-Suddi. Al-Baghawi gives the same names, but his Muhammad ibn Ka'b has only Hamzah, 'Ali and Abu Jahl, with no 'Umarah.",
+            "bn": "কুরতুবী তালিকাটা আরও বড় করেন। তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, আয়াতটি নাযিল হয়েছে হামযা ইবন আবদিল মুত্তালিব (রাঃ) আর আবু জাহল ইবন হিশামের ব্যাপারে। মুজাহিদ থেকে: নবী ﷺ আর আবু জাহল। মুহাম্মাদ ইবন কা'ব থেকে: হামযা (রাঃ) ও আলী (রাঃ), আর আবু জাহল ও উমারা ইবনুল ওয়ালীদ। তিনি আরও জানান, কেউ কেউ বলেছেন আম্মার (রাঃ) আর ওয়ালীদ ইবনুল মুগীরার কথা, আর এ মতটি তিনি সুদ্দীর বলে উল্লেখ করেন। বাগাভীও একই নামগুলো দেন। তবে তাঁর বর্ণনায় মুহাম্মাদ ইবন কা'ব শুধু হামযা (রাঃ), আলী (রাঃ) আর আবু জাহলের নাম বলেন, উমারার নাম সেখানে নেই।"
+          },
+          {
+            "en": "Read these reports for what they are. None of them is a hadith from the Prophet ﷺ. They are the statements of a Companion, as al-Qurtubi relays Ibn 'Abbas, and of Successors and those after them, and the commentators do not settle on one pairing. No tafsir fetched for this verse attaches a sound hadith to it. The names are given here as each text gives them, and Ibn Kathir sums up the first two plainly: both views are narrated from Mujahid.",
+            "bn": "বর্ণনাগুলো যা, সেভাবেই পড়া দরকার। এর কোনোটিই নবী ﷺ-এর হাদীস নয়। এগুলো একজন সাহাবীর কথা, যেমন কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন, আর তাবিঈ ও তাঁদের পরবর্তীদের কথা। কোন জুটিটা ঠিক, তাফসীরকারেরা তা চূড়ান্ত করেন না। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না। তাই নামগুলো এখানে সেভাবেই দেওয়া হলো, যেভাবে প্রতিটি গ্রন্থ দিয়েছে। প্রথম দুটি মত সম্পর্কে ইবন কাসীর সোজা কথায় বলেন: দুটিই মুজাহিদ থেকে বর্ণিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Occasion, Not a Fence",
+          "bn": "উপলক্ষ, বেড়া নয়"
+        },
+        "p": [
+          {
+            "en": "The commentators themselves point past the names. Ibn Kathir writes: wa-z-zahir annaha 'amma, the apparent sense is that it is general. Al-Qurtubi quotes al-Qushayri: the sound view is that it came down about the believer and the disbeliever at large. Al-Baghawi opens his list with Qatadah, who says the verse means the believer and the disbeliever. At-Tabari frames his own gloss in the same open terms before he ever reaches the reports: whoever of Our creation We promised Paradise for obeying Us.",
+            "bn": "নামগুলো পেরিয়ে আরও দূরে ইঙ্গিত করেন তাফসীরকারেরা নিজেরাই। ইবন কাসীর লেখেন: ওয়ায যাহিরু আন্নাহা আম্মা, বাহ্যিক অর্থ হলো আয়াতটি সবার জন্য। কুরতুবী কুশাইরীর কথা উদ্ধৃত করেন: সঠিক মত হলো, এটি সাধারণভাবে মুমিন ও কাফিরের ব্যাপারে নাযিল হয়েছে। বাগাভী তাঁর তালিকা শুরুই করেন কাতাদাকে দিয়ে, যিনি বলেন আয়াতের উদ্দেশ্য মুমিন আর কাফির। তাবারীও বর্ণনাগুলোতে পৌঁছানোর আগে নিজের ব্যাখ্যা দেন একই খোলা ভাষায়: আমার সৃষ্টির মধ্যে যাকেই আমি আনুগত্যের বদলে জান্নাতের ওয়াদা দিয়েছি।"
+          },
+          {
+            "en": "Ath-Tha'labi, also through al-Qurtubi, gives the widest reading. In sum, he says, it came down about every disbeliever given enjoyment in this world through good health and wealth, who has the Fire in the next, and about every believer who bore the trials of this world patiently, trusting in Allah's promise, who has Paradise. His believer is not drawn with wealth. He is drawn with trial and patience, so the contrast in his reading runs between ease now and ease later.",
+            "bn": "সবচেয়ে বিস্তৃত ব্যাখ্যা দেন সা'লাবী, সেটিও কুরতুবীর মাধ্যমে। তাঁর কথা, মোটকথা আয়াতটি নাযিল হয়েছে এমন প্রত্যেক কাফিরের ব্যাপারে, যাকে দুনিয়ায় সুস্থতা আর সম্পদ দিয়ে ভোগ করতে দেওয়া হয়েছে, আর আখিরাতে যার জন্য জাহান্নাম। আর এমন প্রত্যেক মুমিনের ব্যাপারে, যে আল্লাহর ওয়াদায় ভরসা রেখে দুনিয়ার বিপদে সবর করেছে, আর যার জন্য জান্নাত। তাঁর বর্ণনায় মুমিনের ছবিতে সম্পদ নেই। আছে বিপদ আর সবর। ফলে তাঁর পাঠে তুলনাটা দাঁড়ায় এখনকার আরাম আর পরের আরামের মধ্যে।"
+          },
+          {
+            "en": "This must be said plainly. The reports name men of Makkah in the Prophet's ﷺ own lifetime, and the verse describes what it describes: two kinds of life and where each ends. It licenses nothing against any living person or community. No one alive may be pointed out as the man of enjoyment whose end is the Fire, and another person's health or wealth is no sign of it. The verse hands its question only to its reader.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। বর্ণনাগুলোতে নাম এসেছে নবী ﷺ-এর জীবদ্দশার মক্কার কয়েকজন মানুষের। আর আয়াত তাই বর্ণনা করে, যা সে বর্ণনা করে: দুই রকম জীবন, আর কোনটা কোথায় গিয়ে শেষ হয়। জীবিত কোনো মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ বেঁচে থাকা কাউকে আঙুল তুলে বলা যাবে না যে এই সেই ভোগী, যার শেষ ঠিকানা জাহান্নাম। অন্যের সুস্থতা বা সম্পদ তার কোনো আলামতও নয়। আয়াত তার প্রশ্নটা তুলে দেয় শুধু তার পাঠকের হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Finger Dipped in the Sea",
+          "bn": "সাগরে ডোবানো আঙুল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in the abridged English that treats 28:60 and 28:61 together, brings a general narration on what worldly life is worth. It is not attached to this verse. Muslim records it in his Sahih, number 2858, from al-Mustawrid, of Banu Fihr: the Messenger of Allah ﷺ said, By Allah, this world beside the Hereafter is only like what one of you does when he puts this finger of his into the sea; let him see what it comes back with. The narrator Yahya pointed with his forefinger.",
+            "bn": "ইবন কাসীর, তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে, যেখানে ২৮:৬০ আর ২৮:৬১ একসঙ্গে আলোচিত, দুনিয়ার জীবনের মূল্য নিয়ে একটি সাধারণ বর্ণনা আনেন। এটি এ আয়াতের সঙ্গে যুক্ত নয়। মুসলিম তাঁর সহীহ গ্রন্থে ২৮৫৮ নম্বরে বনু ফিহরের মুসতাওরিদ (রাঃ) থেকে বর্ণনাটি এনেছেন। রাসূলুল্লাহ ﷺ বলেছেন: আল্লাহর কসম, আখিরাতের তুলনায় দুনিয়া কেবল এতটুকু, যেমন তোমাদের একজন তার এই আঙুলটা সাগরে ডোবাল, তারপর দেখুক আঙুল কী নিয়ে ফেরে। বর্ণনাকারী ইয়াহইয়া তর্জনী দিয়ে ইশারা করে দেখান।"
+          },
+          {
+            "en": "Read beside 28:61, the narration changes the scale of the comparison. The second man's enjoyment may look large to those around him, and the verse does not deny that it was real or that Allah gave it. Set against what the first man will meet, it is the wet on a fingertip. That is why Ibn Kathir and al-Baghawi stress the few days and the quick passing: the size of a share means little when the share is lent.",
+            "bn": "২৮:৬১ আয়াতের পাশে রেখে পড়লে বর্ণনাটা তুলনার মাপটাই বদলে দেয়। দ্বিতীয় লোকটির ভোগ আশপাশের মানুষের চোখে বিশাল মনে হতে পারে। সেই ভোগ যে সত্যিই ছিল, আর আল্লাহই যে তা দিয়েছিলেন, আয়াত তা অস্বীকার করে না। কিন্তু প্রথম লোকটি যা পাবে, তার পাশে রাখলে এ ভোগ আঙুলের ডগায় লেগে থাকা এক ফোঁটা পানি। ইবন কাসীর আর বাগাভী অল্প কয়েক দিন আর দ্রুত মিলিয়ে যাওয়ার কথায় জোর দেন এ কারণেই। ভাগটা যখন ধার, তখন তার আকারের দাম সামান্যই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Choosing Before the Summons",
+          "bn": "ডাক আসার আগেই বাছাই"
+        },
+        "p": [
+          {
+            "en": "Al-Muyassar and as-Sa'di close on nearly the same sentence: fa-l-yakhtar al-'aqil li-nafsihi ma huwa awla bil-ikhtiyar, so let the one with sense choose for himself what most deserves choosing. Al-Muyassar names it: obedience to Allah and seeking His pleasure. As-Sa'di calls it the worthier of the two to be preferred. The verb of preferring is the one at-Tabari used for the second man, who preferred a pleasure now to one deferred. The verse asks for the same faculty, turned the other way.",
+            "bn": "মুয়াসসার আর সা'দী প্রায় একই বাক্যে শেষ করেন: ফালইয়াখতারিল আকিলু লিনাফসিহি মা হুয়া আওলা বিল ইখতিয়ার, বুদ্ধিমান যেন নিজের জন্য সেটাই বেছে নেয়, যা বেছে নেওয়ার সবচেয়ে উপযুক্ত। মুয়াসসার তার নামও বলেন: আল্লাহর আনুগত্য আর তাঁর সন্তুষ্টির খোঁজ। সা'দী একে বলেন দুই পথের মধ্যে অগ্রাধিকার পাওয়ার বেশি হকদারটি। অগ্রাধিকার দেওয়ার এই ক্রিয়াটিই তাবারী ব্যবহার করেছিলেন দ্বিতীয় লোকটির বেলায়, যে পরের আনন্দের চেয়ে এখনকার আনন্দকে আগে রেখেছিল। আয়াত সেই একই ক্ষমতা চায়, শুধু উল্টো দিকে ঘুরিয়ে।"
+          },
+          {
+            "en": "The question comes while there is still time to answer. A few verses on, 28:67 says: as for whoever repented, believed and did righteous deeds, it may be that he will be among the successful. The listener of 28:61 still stands in this life, with both the enjoyment and the promise in front of him. Someone enjoying the world today has not yet become the man who is brought; the Day has not come, and the door of 28:67 is open.",
+            "bn": "প্রশ্নটা করা হচ্ছে এমন সময়ে, যখন উত্তর দেওয়ার সুযোগ এখনো আছে। কয়েক আয়াত পরেই ২৮:৬৭ বলছে: তবে যে তওবা করেছে, ঈমান এনেছে আর নেক আমল করেছে, আশা করা যায় সে সফলদের মধ্যে থাকবে। ২৮:৬১ যে শুনছে, সে এখনো এই জীবনেই দাঁড়িয়ে, ভোগ আর ওয়াদা দুটোই তার সামনে। আজ যে দুনিয়া ভোগ করছে, সে এখনো সেই হাজিরকৃত লোক হয়ে যায়নি। সেই দিন এখনো আসেনি, আর ২৮:৬৭ আয়াতের দরজা খোলা।"
+          },
+          {
+            "en": "At-Tabari's portrait of the second man also gives a quiet test for anyone. The fault he names is not having enjoyment but what it did: he forgot to act on the promise and gave up seeking it. So the honest question is not how much I have been given. It is whether what I have been given has made me forget the promise, and whether I am still seeking it.",
+            "bn": "দ্বিতীয় লোকটির যে ছবি তাবারী আঁকেন, তাতে যে কারও জন্য একটা নিঃশব্দ পরীক্ষাও আছে। তিনি যে দোষের নাম নেন, তা ভোগ পাওয়া নয়, ভোগ তাকে কী করেছে সেটা। সে ওয়াদা অনুযায়ী আমল করতে ভুলে গেছে, তার খোঁজও ছেড়ে দিয়েছে। তাই সৎ প্রশ্নটা এই নয় যে আমাকে কতটা দেওয়া হয়েছে। প্রশ্ন হলো, যা দেওয়া হয়েছে তা কি আমাকে ওয়াদাটা ভুলিয়ে দিয়েছে? আমি কি এখনো তার খোঁজে আছি?"
+          }
+        ]
+      }
+    ]
+  },
   "28:70": {
     "sections": [
       {

@@ -24789,6 +24789,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Even the mountains that look fixed will pass like clouds on the Day. Lean on the One who perfected all things, and on the deeds He sees, not on what only seems permanent.",
     "lessonBn": "যে পাহাড় অটল দেখায়, সেদিন তাও মেঘের মতো চলে যাবে। যা শুধু চিরস্থায়ী দেখায়, তার উপর নয়, ভরসা রাখুন সবকিছু নিখুঁতভাবে গড়া সেই আল্লাহর উপর আর সেই আমলের উপর, যা তিনি দেখছেন।"
+  },
+  "28:61": {
+    "reflectionEn": "Two lives are set side by side, and the verse asks a single question: are they the same? One person was given a good promise, believed it, and lives toward it; he will meet it. The other was given the enjoyment of worldly life, and it was Allah who gave it, as He gives to everyone. Then comes the Day, and he is among those brought. What separates them is not that one had little and the other had much. It is which way each was facing while he had it. Enjoyment ends where it was always heading, and a promise from Allah is met. So what am I living toward, and would it hold if I were summoned today?",
+    "reflectionBn": "দুটি জীবন পাশাপাশি রাখা হয়েছে, আর আয়াত একটাই প্রশ্ন করছে: দুটো কি এক? একজনকে উত্তম ওয়াদা দেওয়া হয়েছে। সে ওয়াদাটা বিশ্বাস করেছে, সেদিকে তাকিয়ে জীবন কাটাচ্ছে, আর সেটা সে পাবেও। অন্যজনকে দেওয়া হয়েছে দুনিয়ার জীবনের ভোগ-সম্ভার। দিয়েছেন আল্লাহই, যেমন তিনি সবাইকে দেন। তারপর আসে সেই দিন, আর তাকে হাজির করা লোকদের সারিতে দাঁড়াতে হয়। দুজনের ফারাক এখানে নয় যে একজনের কম ছিল আর অন্যজনের বেশি। ফারাকটা হলো, হাতে যা ছিল তা নিয়ে কে কোন দিকে মুখ করে ছিল। ভোগ শেষ হয় সেখানেই, যেদিকে সে বরাবর যাচ্ছিল। আর আল্লাহর ওয়াদা পূরণ হয়ই। তাহলে আমি কিসের দিকে তাকিয়ে বাঁচছি? আজই যদি ডাক পড়ে, সেটা কি টিকবে?",
+    "pointsEn": [
+      "If someone read my week as a road, what would they say I expect to meet at the end of it?",
+      "Which pleasure has slowly pushed out the work it was meant to serve?",
+      "When I compare my share of this world with someone else's, do I ever ask which way either of us is facing?",
+      "If I were brought for reckoning tomorrow, what would I most want to have sent ahead?",
+      "Is there something I enjoy that I could hold with gratitude, instead of letting it hold me?"
+    ],
+    "pointsBn": [
+      "কেউ যদি আমার এই সপ্তাহটাকে একটা পথ হিসেবে দেখে, সে কী বলবে, পথের শেষে আমি কী পাওয়ার আশা করছি?",
+      "কোন আনন্দটা ধীরে ধীরে সেই আমলকেই সরিয়ে দিয়েছে, যার কাজে লাগার কথা ছিল?",
+      "দুনিয়ায় নিজের ভাগ যখন অন্যের ভাগের সঙ্গে মেলাই, তখন কি কখনো ভাবি, আমরা দুজন কে কোন দিকে মুখ করে আছি?",
+      "কাল যদি হিসাবের জন্য হাজির করা হয়, কোন জিনিসটা আগে পাঠিয়ে রাখলে সবচেয়ে বেশি খুশি হতাম?",
+      "এমন কিছু কি আছে যা আমি ভোগ করি, অথচ শোকরের সঙ্গে নিজের হাতে রাখতে পারতাম, তাকে আমার উপর চেপে বসতে না দিয়ে?"
+    ],
+    "lessonEn": "The enjoyment of this world runs out, and a promise from Allah is met. Live toward the promise, so that the Day finds you meeting it, not brought.",
+    "lessonBn": "দুনিয়ার ভোগ ফুরিয়ে যায়, আর আল্লাহর ওয়াদা পূরণ হয়ই। ওয়াদার দিকে তাকিয়ে বাঁচুন, যাতে সেদিন আপনি তা পেয়ে যান, অপরাধীর মতো হাজির না হন।"
   }
 };
 
