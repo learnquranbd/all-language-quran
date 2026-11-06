@@ -24111,6 +24111,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "If your words about others have not yet brought their punishment, thank Allah's favour and mercy for it, and answer that mercy with repentance rather than more talk.",
     "lessonBn": "অন্যের ব্যাপারে বলা কথার শাস্তি যদি এখনো আপনাকে না ধরে থাকে, তা আল্লাহর অনুগ্রহ ও রহমতের দান; সে রহমতের জবাব দিন তওবা দিয়ে, আরও কথা দিয়ে নয়।"
+  },
+  "24:43": {
+    "reflectionEn": "A storm is built in stages. Scattered clouds are driven, joined and piled into a mass, and then the rain slips out through its gaps, drop by drop, so that it brings life rather than ruin. From the same towering sky comes hail, and it falls on one field and passes over the next. The lightning flashes so brightly that the eye which follows it nearly loses its sight. The verse asks a plain question: have you not seen? I have seen it many times, and mostly I reached for an umbrella. The verse wants more than that. It wants me to look up and recognise whose hand moves the weather, whose will decides where it lands, and whose mercy measures out the rain.",
+    "reflectionBn": "ঝড় একবারে তৈরি হয় না। আল্লাহ ছড়ানো-ছিটানো মেঘ হাঁকিয়ে আনেন, একটার সঙ্গে আরেকটা জুড়ে দেন, তারপর থরে থরে জমিয়ে বিশাল স্তূপ বানান। সেই স্তূপের ফাঁক গলে বৃষ্টি নামে ফোঁটায় ফোঁটায়, যাতে তা জীবন আনে, সর্বনাশ নয়। সেই একই উঁচু আকাশ থেকে নামে শিলা। এক মাঠে তা আছড়ে পড়ে, পাশের মাঠ পেরিয়ে যায়। বিদ্যুতের চমক এত তীব্র যে যে চোখ তার পিছু নেয়, সে চোখ প্রায় দৃষ্টি হারায়। আয়াতের প্রশ্নটা সোজা: তুমি কি দেখো না? দেখেছি তো অনেকবার। বেশির ভাগ সময় শুধু ছাতাটা খুঁজেছি। আয়াত এর চেয়ে বেশি চায়। চায়, আমি চোখ তুলে চিনে নিই কার হাত মেঘ চালায়, কার ইচ্ছায় ঠিক হয় তা কোথায় পড়বে, আর কার রহমত মেপে মেপে বৃষ্টি নামায়।",
+    "pointsEn": [
+      "When rain last fell where I live, did I think of where it came from, or only of how it changed my plans?",
+      "What good in my life was gathered slowly, piece by piece, long before I saw anything come out of it?",
+      "When a loss falls on someone else's field and passes over mine, do I feel gratitude, or only relief?",
+      "Which ordinary sign do I see so often that I have stopped seeing it at all?",
+      "Do I let a sudden storm or a flash of lightning turn my thoughts back to the One who sends it?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন আমার এলাকায় বৃষ্টি নামল, আমি কি ভেবেছি তা কোথা থেকে এল, নাকি শুধু ভেবেছি আমার পরিকল্পনা কীভাবে ভেস্তে গেল?",
+      "আমার জীবনের কোন কল্যাণটা ধীরে ধীরে, টুকরো টুকরো করে জমেছে, তার ফল চোখে পড়ার অনেক আগে থেকেই?",
+      "বিপদ যখন অন্যের মাঠে পড়ে আর আমার মাঠ পেরিয়ে যায়, তখন আমার মনে কি শুকরিয়া জাগে, নাকি শুধু হাঁফ ছেড়ে বাঁচার স্বস্তি?",
+      "কোন সাধারণ নিদর্শন আমি এত বেশি দেখি যে এখন আর আদৌ চোখে পড়ে না?",
+      "হঠাৎ ঝড় বা বিদ্যুতের এক ঝলক কি আমার মনকে ফিরিয়ে নেয় তাঁর দিকে, যিনি তা পাঠান?"
+    ],
+    "lessonEn": "See the clouds, the rain and the hail as Allah's work, measured by His will and wisdom, and let every storm turn you back to Him in gratitude and awe.",
+    "lessonBn": "মেঘ, বৃষ্টি আর শিলাকে আল্লাহর কাজ হিসেবে দেখুন, যা তাঁর ইচ্ছা ও প্রজ্ঞায় মাপা। প্রতিটি ঝড় যেন আপনাকে কৃতজ্ঞতা ও ভয়ভরা বিস্ময় নিয়ে তাঁর দিকে ফিরিয়ে নেয়।"
   }
 };
 

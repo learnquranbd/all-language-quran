@@ -1507,6 +1507,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:43": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seen With the Heart's Eye",
+          "bn": "অন্তরচক্ষু দিয়ে দেখা"
+        },
+        "p": [
+          {
+            "en": "The verse opens with alam tara, have you not seen, the opening already used two verses earlier in 24:41, where all in the heavens and the earth glorify Allah and the birds spread their wings. Between the two, 24:42 says the dominion of the heavens and the earth is His and the return is to Him. Al-Qurtubi reads 24:43 as Allah naming one more of His proofs. At-Tabari takes the question as addressed to the Prophet ﷺ: have you not seen, O Muhammad.",
+            "bn": "আয়াত শুরু হয় আলাম তারা দিয়ে: তুমি কি দেখো না? দুই আয়াত আগে ২৪:৪১-এও একই সূচনা এসেছিল। সেখানে আসমান ও যমীনের সবাই আল্লাহর তাসবীহ পাঠ করে, পাখিরা ডানা মেলে উড়ে। মাঝখানে ২৪:৪২ জানিয়ে দেয়, আসমান ও যমীনের রাজত্ব তাঁরই, আর ফিরে যেতে হবে তাঁরই কাছে। কুরতুবীর মতে ২৪:৪৩ আয়াতে আল্লাহ তাঁর প্রমাণগুলোর আরও একটি তুলে ধরছেন। তাবারী প্রশ্নটিকে নবী ﷺ-এর প্রতি সম্বোধন হিসেবে পড়েন: হে মুহাম্মাদ, তুমি কি দেখো না?"
+          },
+          {
+            "en": "What kind of seeing is meant? Al-Qurtubi: have you not seen with the eyes of your heart. As-Sa'di reads it as eyesight: have you not witnessed with your eyes the immensity of Allah's power, and how He drives the clouds. The Muyassar also opens with have you not witnessed. The stress falls differently, and the verse holds both: an event anyone can watch, and a question that asks for more than watching.",
+            "bn": "কোন দেখার কথা বলা হচ্ছে? কুরতুবী বলেন: তুমি কি অন্তরের চোখে দেখো না? সা'দী একে পড়েন চোখের দেখা হিসেবে: তুমি কি নিজের চোখে আল্লাহর বিশাল কুদরত দেখো না, দেখো না কীভাবে তিনি মেঘ হাঁকিয়ে নেন? মুয়াসসারও শুরু করে 'তুমি কি দেখো না' দিয়ে, প্রত্যক্ষ দেখার অর্থে। দুই পাঠে জোর পড়ে দুই জায়গায়। আয়াতে দুটোই আছে। একদিকে এমন এক ঘটনা যা যে কেউ চেয়ে দেখতে পারে, অন্যদিকে এমন এক প্রশ্ন যা শুধু চেয়ে দেখার চেয়ে বেশি কিছু চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Driven While Still Weak",
+          "bn": "দুর্বল থাকতেই হাঁকানো"
+        },
+        "p": [
+          {
+            "en": "Yuzji sahaban: He drives clouds. At-Tabari glosses yuzji as yasuqu, He drives, and adds: wherever He wills. Ibn Kathir is exact about the stage. Allah drives the clouds at the very start, when He first forms them and they are still weak, and that, he says, is the izja'. Al-Qurtubi gathers the word's uses in Arabic: the wind drives the clouds, the cow urges her calf along, and an-Nabigha speaks of driving on the last breath of a soul.",
+            "bn": "ইউযজী সাহাবান: তিনি মেঘ হাঁকিয়ে নেন। তাবারী ইউযজীর অর্থ করেন ইয়াসূকু, অর্থাৎ হাঁকিয়ে নেন, আর যোগ করেন: যেখানে তিনি চান। ইবন কাসীর ধাপটা আরও নির্দিষ্ট করেন। মেঘ যখন সবে তৈরি হচ্ছে, তখনো দুর্বল, ঠিক সেই শুরুতেই আল্লাহ তা হাঁকিয়ে নেন। তাঁর ভাষায় এটাই ইযজা। কুরতুবী আরবিতে শব্দটির নানা ব্যবহার জড়ো করেন। বাতাস মেঘ হাঁকিয়ে নেয়, গাভী তার বাছুরকে আগে আগে তাড়িয়ে নেয়। কবি নাবিগা বলেন প্রাণের শেষ নিঃশ্বাসটুকু টেনে নিয়ে চলার কথা।"
+          },
+          {
+            "en": "Thumma yu'allifu baynahu: then He joins it together. Ibn Kathir: He gathers it after it was scattered. Al-Baghawi: He brings the separate pieces of cloud together, one to another. Al-Qurtubi gives the purpose: so that it strengthens, connects and thickens. Bayna, between, needs two, and at-Tabari explains that sahab is a collective, as nakhl is to nakhla. Then thumma yaj'aluhu rukaman: then He makes it a heap. At-Tabari: piled, one part upon another. Al-Qurtubi sets the word beside sahabun markum, a heaped-up cloud, in 52:44.",
+            "bn": "সুম্মা ইউআল্লিফু বাইনাহু: তারপর তিনি তা জুড়ে দেন। ইবন কাসীর: ছড়িয়ে থাকার পর তিনি তা একত্র করেন। বাগাভী: মেঘের আলাদা আলাদা খণ্ড তিনি একটার সঙ্গে আরেকটা মিলিয়ে দেন। কুরতুবী উদ্দেশ্যটাও বলে দেন: যাতে মেঘ শক্তি পায়, জোড়া লাগে, ঘন হয়। 'বাইনা' মানে মাঝখানে, তাই অন্তত দুটি জিনিস লাগে। তাবারী বোঝান, সাহাব শব্দটি অনেক মেঘ বোঝায়, এক খণ্ড হলো সাহাবাহ, যেমন নাখল আর নাখলাহ। তারপর সুম্মা ইয়াজআলুহু রুকামান: তারপর তিনি তাকে স্তূপ বানান। তাবারী: একটার উপর আরেকটা জমানো। কুরতুবী শব্দটিকে মিলিয়ে দেখেন ৫২:৪৪ আয়াতের সাহাবুম মারকূম, অর্থাৎ স্তূপ করা মেঘের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Winds Before Rain",
+          "bn": "বৃষ্টির আগে চার বাতাস"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and Ibn Kathir both pause here for a saying of 'Ubayd ibn 'Umayr al-Laythi. At-Tabari gives it with his own chain, through Habib ibn Abi Thabit: the winds are four. Allah sends the first, and it sweeps the earth clean; then the second, which raises clouds; then the third, which joins them and makes them a heap; then the fourth, which makes them rain. The four stages run closely alongside the verse's own sequence of driving, joining, heaping and rain.",
+            "bn": "তাবারী ও ইবন কাসীর দুজনেই এখানে উবায়দ ইবন উমায়র আল-লাইসীর একটি উক্তি আনেন। তাবারী তা নিজের সনদে বর্ণনা করেন, হাবীব ইবন আবী সাবিতের সূত্রে: বাতাস মোট চারটি। আল্লাহ প্রথম বাতাস পাঠান, তা যমীন ঝেড়ে পরিষ্কার করে। তারপর দ্বিতীয়টি পাঠান, তা মেঘ তৈরি করে। তারপর তৃতীয়টি, তা মেঘগুলো জুড়ে স্তূপ বানায়। তারপর চতুর্থটি, তা বৃষ্টি ঝরায়। এই চার ধাপ আয়াতের নিজের ক্রমের প্রায় পাশাপাশি চলে: হাঁকানো, জোড়া, স্তূপ, তারপর বৃষ্টি।"
+          },
+          {
+            "en": "Ibn Kathir's wording, which he says Ibn Abi Hatim and Ibn Jarir recorded, names the winds: al-muthira, the stirrer, which sweeps the earth; an-nashi'a, which forms the cloud; al-mu'allifa, the joiner; and al-lawaqih, which fertilise the cloud. The two wordings differ at the end, raining in one and fertilising in the other, and both are left here as given. Either way this is 'Ubayd's own saying, not a word of the Prophet ﷺ, and neither commentator presents it as one.",
+            "bn": "ইবন কাসীরের ভাষ্যে বাতাসগুলোর নামও আছে। তিনি জানান, ইবন আবী হাতিম ও ইবন জারীর এটি বর্ণনা করেছেন। আল-মুসীরা, যা যমীন ঝেড়ে তোলে। আন-নাশিআ, যা মেঘ সৃষ্টি করে। আল-মুআল্লিফা, যা মেঘ জোড়া লাগায়। আর আল-লাওয়াকিহ, যা মেঘকে উর্বর করে। দুই ভাষ্যের শেষটা আলাদা: একটিতে শেষ বাতাস বৃষ্টি নামায়, অন্যটিতে মেঘকে উর্বর করে। দুটোই এখানে যেমন আছে তেমন রাখা হলো। যেভাবেই পড়ুন, এটি উবায়দের নিজের কথা, নবী ﷺ-এর বাণী নয়। দুই মুফাসসিরের কেউ একে তাঁর বাণী বলে পেশও করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drops Through the Gaps",
+          "bn": "ফাঁক গলে নামা ফোঁটা"
+        },
+        "p": [
+          {
+            "en": "Fa-tara l-wadqa yakhruju min khilalihi: and you see the wadq coming out from within it. At-Tabari: you see the rain coming out from between the clouds, and he cites a line of poetry, no rain-cloud poured its wadq. Ibn Zayd, in his report, says the wadq is the drops and the khilal is the cloud. Al-Qurtubi records two views. Abu l-Ashhab al-'Uqayli held that wadq here is lightning; the majority held that it is rain, and al-Qurtubi cites the same line.",
+            "bn": "ফাতারাল ওয়াদকা ইয়াখরুজু মিন খিলালিহী: আর তুমি দেখো, তার ভেতর থেকে ওয়াদক বেরিয়ে আসছে। তাবারী বলেন: তুমি দেখো, মেঘের মাঝখান থেকে বৃষ্টি বেরিয়ে আসছে। সাক্ষী হিসেবে তিনি কবিতার একটি চরণ আনেন: কোনো মেঘ তার ওয়াদক ঝরায়নি। তাবারীর বর্ণনায় ইবন যায়দ বলেন, ওয়াদক হলো ফোঁটা, আর খিলাল হলো মেঘ। কুরতুবী দুটি মত উল্লেখ করেন। আবুল আশহাব আল-উকাইলীর মতে এখানে ওয়াদক মানে বিদ্যুৎ। অধিকাংশের মতে তা বৃষ্টি, আর কুরতুবীও সেই একই চরণ উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Khilal is the plural of khalal, a gap. Al-Qurtubi: its openings, the outlets of the rain. Al-Baghawi: its middle. At-Tabari reports with chains that Ibn 'Abbas and ad-Dahhak recited min khalalihi, in the singular, and al-Qurtubi adds Abu l-'Aliya. Abu 'Amr, told of it, called it good but said khilalihi is more general. At-Tabari keeps khilalihi, the reading of the reciters of the great cities, because the authoritative body of reciters agree on it.",
+            "bn": "খিলাল শব্দটি খালাল-এর বহুবচন, যার মানে ফাঁক। কুরতুবী: মেঘের ফাটল, যেখান দিয়ে বৃষ্টির ফোঁটা বের হয়। বাগাভী: তার মাঝখান। তাবারী সনদসহ বর্ণনা করেন, ইবন আব্বাস ও দাহহাক পড়তেন মিন খালালিহী, একবচনে। কুরতুবী এর সঙ্গে আবুল আলিয়ার নামও যোগ করেন। আবু আমরকে এ পাঠের কথা জানানো হলে তিনি বলেন, এটি সুন্দর, তবে খিলালিহী বেশি ব্যাপক। তাবারী খিলালিহী-ই রাখেন। বড় বড় শহরের কারীরা এভাবেই পড়েন, আর প্রামাণ্য কারীদের সবাই এতে একমত।"
+          },
+          {
+            "en": "As-Sa'di dwells on the manner of the falling. The rain leaves the cloud's gaps in scattered drops, so that benefit comes from it without harm; then the pools fill, the channels overflow, the valleys run, and the earth brings forth every noble kind. Al-Qurtubi recalls a saying of Ka'b he gave under al-Baqara: the cloud is the rain's sieve, and without the cloud, water coming down from the sky would ruin whatever it fell on.",
+            "bn": "সা'দী থামেন বৃষ্টি নামার ধরন নিয়ে। মেঘের ফাঁক দিয়ে বৃষ্টি নামে আলাদা আলাদা ফোঁটায়, যাতে ক্ষতি ছাড়াই উপকার মেলে। তারপর ডোবা-পুকুর ভরে ওঠে, খাল উপচে পড়ে, উপত্যকায় স্রোত নামে, আর যমীন সব রকমের উৎকৃষ্ট উদ্ভিদ জন্মায়। কুরতুবী এখানে কা'বের একটি কথা মনে করিয়ে দেন, যা তিনি সূরা বাকারায় এনেছিলেন: মেঘ হলো বৃষ্টির চালুনি। মেঘ না থাকলে আকাশ থেকে নামা পানি যেখানে পড়ত, সেটাই নষ্ট করে দিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mountains, Literal or Likened",
+          "bn": "সত্যিকারের পাহাড়, নাকি উপমা"
+        },
+        "p": [
+          {
+            "en": "Wa-yunazzilu mina s-sama'i min jibalin fiha min baradin: and He sends down from the sky, from mountains in it, of hail. Here the commentators divide. At-Tabari sets out two sayings. In the first, Allah sends down hail from mountains of hail created there in the sky, as people speak of mountains of clay. In the second, He sends to the earth the measure of mountains of hail, as someone says I have two houses of straw, meaning straw enough to fill two houses. He states both and does not choose.",
+            "bn": "ওয়া ইউনাযযিলু মিনাস সামায়ি মিন জিবালিন ফীহা মিম বারাদ: আর তিনি আকাশ থেকে, তাতে থাকা পাহাড় থেকে, শিলা নামান। এখানে মুফাসসিরদের মত দুই ভাগ হয়ে যায়। তাবারী দুটি উক্তি সাজিয়ে দেন। প্রথমটিতে আল্লাহ আকাশে সৃষ্টি করা শিলার পাহাড় থেকে শিলা নামান, যেমন বলা হয় মাটির পাহাড়। দ্বিতীয়টিতে তিনি যমীনে নামান পাহাড়ের সমান পরিমাণ শিলা। যেমন কেউ বলে, আমার কাছে দুই ঘর খড় আছে, মানে দুই ঘর ভরার মতো খড়। তিনি দুটোই উল্লেখ করেন, কোনোটিকে বেছে নেন না।"
+          },
+          {
+            "en": "The literal reading has named support. Al-Baghawi reports Ibn 'Abbas: Allah has told us that in the sky are mountains of hail. Ibn Kathir gives it as the view of some commentators, that there are mountains of hail in the sky from which Allah sends hail down. Al-Qurtubi records it in two forms, mountains made of hail and mountains with hail in them. Al-Baghawi also lists the view of at-Tabari's second saying: an amount like mountains, in abundance, of hail.",
+            "bn": "আক্ষরিক অর্থের পক্ষে নাম ধরে সমর্থন পাওয়া যায়। বাগাভী ইবন আব্বাসের কথা বর্ণনা করেন: আল্লাহ জানিয়ে দিয়েছেন, আকাশে শিলার পাহাড় আছে। ইবন কাসীর একে কিছু মুফাসসিরের মত বলে উল্লেখ করেন: আকাশে শিলার পাহাড় আছে, আল্লাহ সেখান থেকে শিলা নামান। কুরতুবী মতটি দুই রূপে আনেন: শিলা দিয়েই গড়া পাহাড়, আর এমন পাহাড় যার ভেতরে শিলা আছে। তাবারীর দ্বিতীয় উক্তির মতটিও বাগাভী উল্লেখ করেন: প্রাচুর্যে পাহাড়ের মতো পরিমাণ শিলা।"
+          },
+          {
+            "en": "The other side reads the mountains as clouds. Ibn Kathir names those who make the mountains here an expression for the cloud. The Muyassar: He sends down hail from cloud that resembles mountains in its vastness. As-Sa'di pictures the cloud heaped up like mountains, from which Allah at times sends hail that ruins what it strikes. Ma'arif al-Qur'an takes sama' here as the clouds and jibal as great masses of cloud. Both readings stand in the sources, and this article takes no side.",
+            "bn": "অন্য পক্ষ পাহাড় বলতে মেঘ বোঝে। ইবন কাসীর তাদের কথা বলেন, যারা এখানে পাহাড়কে মেঘের প্রকাশভঙ্গি ধরেন। মুয়াসসার: বিশালতায় পাহাড়ের মতো যে মেঘ, তা থেকে তিনি শিলা নামান। সা'দী আঁকেন পাহাড়ের মতো স্তূপ হয়ে থাকা মেঘের ছবি, যেখান থেকে আল্লাহ কখনো কখনো এমন শিলা নামান যা যার উপর পড়ে তাকে নষ্ট করে দেয়। মাআরিফুল কুরআন এখানে সামা বলতে মেঘ আর জিবাল বলতে মেঘের বিশাল স্তূপ বোঝে। সূত্রগুলোতে দুটো পাঠই টিকে আছে। এই লেখা কোনো পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Times Min",
+          "bn": "তিনবার আসা মিন"
+        },
+        "p": [
+          {
+            "en": "Min occurs three times in the clause, and its sense follows the reading. Al-Baghawi, citing the grammarians, explains each: the first, from the sky, marks where the sending begins; the second, from mountains, is partitive, because what Allah sends down is part of those mountains in the sky; the third, of hail, names the kind, because those mountains are of hail. Ibn Kathir gives the same scheme and adds that it works only for those who hold there are mountains of hail in the sky.",
+            "bn": "এই অংশে মিন এসেছে তিনবার, আর কোন পাঠ ধরা হচ্ছে তার উপর এর অর্থ নির্ভর করে। বাগাভী ব্যাকরণবিদদের বরাতে প্রতিটি বুঝিয়ে দেন। প্রথমটি, আকাশ থেকে, বোঝায় নামানো শুরু হয় কোথা থেকে। দ্বিতীয়টি, পাহাড় থেকে, অংশ বোঝায়, কারণ আল্লাহ যা নামান তা আকাশের ওই পাহাড়গুলোরই একটা অংশ। তৃতীয়টি, শিলার, বোঝায় জাত, কারণ ওই পাহাড়গুলো শিলারই। ইবন কাসীরও একই ছক দেন, তবে যোগ করেন: এটা খাটে কেবল তাদের মতে, যারা মনে করেন আকাশে শিলার পাহাড় আছে।"
+          },
+          {
+            "en": "For those who take the mountains as clouds, Ibn Kathir says the second min also marks a starting point and stands in place of the first, so that the sky and the mountains name one source. Al-Qurtubi sets the threefold scheme after the reading of a measure or likeness of mountains, and records al-Akhfash, who held the second and third min to be extra: He sends down from the sky hail that is like mountains. Al-Qurtubi closes with: and Allah knows best.",
+            "bn": "যারা পাহাড় বলতে মেঘ বোঝেন, ইবন কাসীরের মতে তাদের কাছে দ্বিতীয় মিনও শুরুর জায়গা বোঝায় এবং প্রথমটির স্থলে বসে। ফলে আকাশ আর পাহাড় একই উৎসের নাম হয়ে দাঁড়ায়। কুরতুবী তিন ভাগের ছকটি রাখেন সেই পাঠের পরে, যেখানে পাহাড়ের সমান বা পাহাড়ের মতো শিলার কথা। তিনি আখফাশের মতও আনেন। আখফাশের মতে দ্বিতীয় ও তৃতীয় মিন অতিরিক্ত, তাই অর্থ দাঁড়ায়: তিনি আকাশ থেকে পাহাড়ের মতো শিলা নামান। কুরতুবী আলোচনা শেষ করেন এ কথায়: আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Struck or Turned Away",
+          "bn": "আঘাত, নাকি সরিয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Fa-yusibu bihi man yasha'u wa-yasrifuhu 'an man yasha': and He strikes with it whom He wills and turns it away from whom He wills. Ibn Kathir allows two readings. It may mean both kinds that come down, rain and hail; then striking is a mercy to those it reaches, and turning it away means the rain is held back. Or it may mean the hail alone; then striking is a punishment, scattering fruit and ruining crops and trees, and turning it away is a mercy.",
+            "bn": "ফাইউসীবু বিহী মাই ইয়াশাউ ওয়া ইয়াসরিফুহূ আম মাই ইয়াশা: আর তিনি যাকে চান তা দিয়ে আঘাত করেন, যার থেকে চান সরিয়ে নেন। ইবন কাসীর দুটি অর্থের সম্ভাবনা রাখেন। হতে পারে 'তা' বলতে যা নামে তার দুই রকমই বোঝানো, বৃষ্টি ও শিলা। তাহলে আঘাত মানে যাদের কাছে পৌঁছায় তাদের প্রতি রহমত, আর সরিয়ে নেওয়া মানে বৃষ্টি আটকে রাখা। আবার হতে পারে শুধু শিলা। তখন আঘাত হলো শাস্তি, যা ফল ঝরিয়ে দেয়, ফসল ও গাছপালা নষ্ট করে। আর সরিয়ে নেওয়া হলো রহমত।"
+          },
+          {
+            "en": "The other commentators read here take the hail. At-Tabari: He punishes with it whom He wills, destroying him or his crops and wealth, and turns it away from the crops and wealth of others. Al-Baghawi: it strikes so that a man's crops and wealth perish, and is turned away so that it does not harm him. Al-Qurtubi puts it briefly: its striking is retribution and its turning away a blessing. As-Sa'di and the Muyassar add: according to His decree and His wisdom.",
+            "bn": "এখানে পড়া অন্য মুফাসসিরেরা শিলার অর্থই ধরেন। তাবারী: যাকে চান তিনি তা দিয়ে শাস্তি দেন, তাকে বা তার ফসল ও সম্পদ ধ্বংস করেন, আর অন্যদের ফসল ও সম্পদ থেকে তা সরিয়ে নেন। বাগাভী: শিলা পড়ে কারও ফসল ও সম্পদ নষ্ট হয়, আবার কারও থেকে সরে যায়, তার কোনো ক্ষতি হয় না। কুরতুবী সংক্ষেপে বলেন: এর আঘাত শাস্তি, এর সরে যাওয়া নিয়ামত। সা'দী ও মুয়াসসার মাপকাঠিটা জুড়ে দেন: তাঁর তাকদীর ও তাঁর হিকমত অনুযায়ী।"
+          },
+          {
+            "en": "That is what the commentators say about the clause, and it concerns Allah's will, not other people's fortunes. None of the texts read here names a people whose fields were struck, and the verse names none. A storm that ruins one harvest and spares the next tells an onlooker that the decision is Allah's, made by a wisdom as-Sa'di calls praiseworthy; it does not tell him who deserved what. The verse licenses no judgement against any farmer, village or community struck by hail.",
+            "bn": "এই অংশ নিয়ে মুফাসসিরেরা এটুকুই বলেন। কথাটা আল্লাহর ইচ্ছা নিয়ে, অন্য মানুষের ভাগ্য বিচার নিয়ে নয়। এখানে পড়া কোনো লেখায় এমন কোনো জনগোষ্ঠীর নাম নেই যাদের মাঠে শিলা পড়েছিল, আয়াতেও কারও নাম নেই। যে ঝড় একটা মাঠের ফসল নষ্ট করে আর পাশের মাঠকে রেহাই দেয়, তা দর্শককে এটুকু জানায় যে ফয়সালা আল্লাহর, আর তা হয় এমন হিকমতে যাকে সা'দী প্রশংসনীয় বলেছেন। কে কী পাওয়ার যোগ্য ছিল, তা জানায় না। শিলাবৃষ্টিতে ক্ষতিগ্রস্ত কোনো কৃষক, গ্রাম বা সম্প্রদায়ের বিরুদ্ধে কোনো রায় দেওয়ার অনুমতি এ আয়াত দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Flash Near Blinding",
+          "bn": "চোখ ধাঁধানো ঝলক"
+        },
+        "p": [
+          {
+            "en": "Yakadu sana barqihi yadhhabu bi-l-absar: the sana of its lightning almost takes away the sight. At-Tabari: sana, written short, is the light of lightning, and the intensity of this cloud's lightning almost takes the sight of whoever's gaze meets it. He reports Ibn 'Abbas: the light of its lightning; Qatada: the gleam of the lightning takes away the sight; Ibn Zayd: its sana is a light that takes the sight. Ibn Kathir adds: when the eyes follow it and try to see it.",
+            "bn": "ইয়াকাদু সানা বারকিহী ইয়াযহাবু বিল আবসার: তার বিদ্যুতের সানা প্রায় দৃষ্টি কেড়ে নেয়। তাবারী: সানা, শেষে টান ছাড়া, মানে বিদ্যুতের আলো। এই মেঘের বিদ্যুতের তীব্রতা যার চোখে পড়ে, তার দৃষ্টি প্রায় কেড়ে নেয়। তিনি ইবন আব্বাসের কথা আনেন: তার বিদ্যুতের আলো। কাতাদার কথা: বিদ্যুতের চমক দৃষ্টি নিয়ে যায়। ইবন যায়দের কথা: তার সানা এমন আলো যা দৃষ্টি নিয়ে যায়। ইবন কাসীর যোগ করেন: যখন চোখ তার পিছু নেয় আর তাকে দেখতে চায়।"
+          },
+          {
+            "en": "Both words carry reading differences. Al-Qurtubi notes that sana, short, is the gleam of lightning, while sana', long, is high rank, and that Talha ibn Musarrif recited the long form for the intensity of the brightness. At-Tabari and al-Baghawi report that Abu Ja'far recited yudhhibu; al-Qurtubi gives it from al-Jahdari and Ibn al-Qa'qa'. At-Tabari keeps yadhhabu, on which the reciters agree, and argues it from Arabic usage.",
+            "bn": "দুটি শব্দেই পাঠের ভিন্নতা আছে। কুরতুবী জানান, টান ছাড়া সানা মানে বিদ্যুতের ঝিলিক, আর লম্বা টানে সানা মানে উঁচু মর্যাদা। তালহা ইবন মুসাররিফ আলোর তীব্রতা বোঝাতে লম্বা রূপে পড়েছিলেন। তাবারী ও বাগাভী জানান, আবু জাফর পড়তেন ইউযহিবু। কুরতুবী এ পাঠ আনেন জাহদারী ও ইবনুল কা'কা থেকে। তাবারী ইয়াযহাবু-ই রাখেন, কারণ কারীরা এতে একমত। আরবদের ভাষারীতি থেকেও তিনি এর পক্ষে যুক্তি দেন।"
+          },
+          {
+            "en": "Al-Qurtubi ends his comment with what the lightning signals: it is evidence that the cloud has thickened, a bearer of good news that the rain will be heavy, and a warning that thunderbolts may fall. The next verse, 24:44, read here only for context, ends with a lesson li-uli l-absar, for those who have vision. In Arabic, the sight the lightning nearly takes and the vision the next verse asks for are one word, absar.",
+            "bn": "কুরতুবী তাঁর আলোচনা শেষ করেন বিদ্যুৎ কী জানান দেয় তা বলে: মেঘ যে ঘন হয়েছে তার প্রমাণ, ভারী বৃষ্টির সুসংবাদদাতা, আর বজ্রপাতের সতর্ককারী। পরের আয়াত ২৪:৪৪, যা এখানে শুধু প্রসঙ্গ বোঝার জন্য পড়া, শেষ হয় লি-উলিল আবসার দিয়ে: দৃষ্টিসম্পন্নদের জন্য শিক্ষা। আরবিতে বিদ্যুৎ যে দৃষ্টি প্রায় কেড়ে নেয়, আর পরের আয়াত যে দৃষ্টি চায়, দুটো একই শব্দ: আবসার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Newly Come From Its Lord",
+          "bn": "রবের কাছ থেকে সদ্য আসা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read here attaches a sound hadith to this verse; al-Qurtubi refers back to what he wrote on thunder under al-Baqara and ar-Ra'd. There is a sound narration on rain itself, not tied to this verse. Muslim records it in his Sahih, number 898, from Anas: Rain fell on us while we were with the Messenger of Allah ﷺ. He drew back his garment until some of the rain fell on him. We said: Messenger of Allah, why did you do this? He said: Because it is newly come from its Lord, exalted is He.",
+            "bn": "এখানে পড়া কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। কুরতুবী শুধু বজ্র নিয়ে সূরা বাকারা ও সূরা রা'দে যা লিখেছেন, সেদিকে পাঠককে ফিরিয়ে দেন। তবে বৃষ্টি নিয়ে একটি সহীহ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়। মুসলিম তাঁর সহীহ গ্রন্থে, ৮৯৮ নম্বরে, আনাস (রাঃ) থেকে বর্ণনা করেন: আমরা রাসূলুল্লাহ ﷺ-এর সঙ্গে ছিলাম, এমন সময় আমাদের উপর বৃষ্টি নামল। তিনি তাঁর কাপড় সরিয়ে দিলেন, যাতে বৃষ্টির কিছু তাঁর গায়ে লাগে। আমরা বললাম, হে আল্লাহর রাসূল, আপনি এমন করলেন কেন? তিনি বললেন: কারণ এটি সবেমাত্র তার মহান রবের কাছ থেকে এসেছে।"
+          },
+          {
+            "en": "As-Sa'di closes with the question the verse is shaped to raise. Is not He who formed the clouds, drove them to His servants who need them, and sent the rain down so that it brings benefit and keeps harm away, perfect in power, effective in will and vast in mercy? The commentators read the cloud, the rain and the hail as proofs of His power and mercy, beside the glorification of 24:41. The verse asks to be seen with the heart, not only watched.",
+            "bn": "সা'দী শেষ করেন সেই প্রশ্ন দিয়ে, যা তোলার জন্যই যেন গোটা আয়াত সাজানো। যিনি মেঘ সৃষ্টি করলেন, তা হাঁকিয়ে নিলেন তাঁর মুখাপেক্ষী বান্দাদের কাছে, আর এমনভাবে নামালেন যাতে উপকার আসে, ক্ষতি দূরে থাকে, তিনি কি পূর্ণ কুদরতের মালিক নন? তাঁর ইচ্ছা কি কার্যকর নয়, তাঁর রহমত কি প্রশস্ত নয়? মুফাসসিরেরা মেঘ, বৃষ্টি আর শিলাকে পড়েন তাঁর কুদরত ও রহমতের প্রমাণ হিসেবে, ২৪:৪১-এর তাসবীহের পাশে। আয়াত চায়, তাকে অন্তর দিয়ে দেখা হোক, শুধু চোখ মেলে চেয়ে থাকা নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "24:45": {
     "sections": [
       {
