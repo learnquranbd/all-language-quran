@@ -28707,6 +28707,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not stop at praying every prayer: guard each one, its time, its washing, its stillness, and the hours after it, so nothing undoes what it builds.",
     "lessonBn": "শুধু প্রতি ওয়াক্তে নামাজ পড়েই থেমে যাবেন না। প্রতিটি নামাজের হেফাজত করুন: তার ওয়াক্ত, অজু, স্থিরতা, আর তার পরের সময়টুকুও, যাতে নামাজ যা গড়ে তা ভেঙে না যায়।"
+  },
+  "70:19": {
+    "reflectionEn": "Four Arabic words describe a pattern I know too well. Man was created halu'an, and the next two verses say what that means: when hardship touches him he panics, and when good touches him he holds it back. The same heart that cannot bear a loss cannot bear to share a gain. The verse does not flatter me, but it does not leave me there either; an exception follows at once, and it begins with those who pray. The pull is real, and it is named so that I can see it. The question is whether I let it steer my days. When fear comes, do I turn to Allah or to complaint? When plenty comes, do I open my hand?",
+    "reflectionBn": "আরবি চারটি শব্দে এমন এক স্বভাবের ছবি, যা আমি নিজের মধ্যে ভালোই চিনি। মানুষকে সৃষ্টি করা হয়েছে হালূ' করে। মানে কী, পরের দুই আয়াতই বলে দেয়: বিপদ ছুঁলে সে অস্থির হয়ে পড়ে, আর কল্যাণ ছুঁলে আঁকড়ে ধরে রাখে। যে মন ক্ষতি সইতে পারে না, সেই মনই লাভের ভাগ দিতে পারে না। আয়াতটি আমাকে তোষামোদ করে না। আবার এখানেই ফেলে রেখেও যায় না। সঙ্গে সঙ্গে আসে একটা ব্যতিক্রম, যার শুরু নামাযীদের দিয়ে। টানটা সত্যি, আর তার নাম বলে দেওয়া হয়েছে যাতে আমি তাকে চিনতে পারি। আসল প্রশ্ন হলো, আমার দিনগুলোর হাল কি আমি এই টানের হাতে ছেড়ে দিই? ভয় এলে আমি কি আল্লাহর দিকে ফিরি, নাকি নালিশের দিকে? প্রাচুর্য এলে কি হাত খুলি?",
+    "pointsEn": [
+      "When something went wrong for me recently, how long was it before my panic turned into prayer?",
+      "What has Allah given me this month that I have kept wholly to myself?",
+      "Do I excuse a short temper or a closed hand by saying that this is simply how I was made?",
+      "Which do I find harder: patience when I lose, or generosity when I gain?",
+      "What small, regular habit could train my heart against both?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি যখন কিছু একটা খারাপ হলো, আমার অস্থিরতা দোয়ায় বদলাতে কতক্ষণ লেগেছিল?",
+      "এ মাসে আল্লাহ আমাকে এমন কী দিয়েছেন, যার পুরোটাই আমি নিজের কাছে রেখে দিয়েছি?",
+      "আমার বদমেজাজ বা হাতটানকে কি আমি এই বলে মাফ করে দিই যে আমাকে তো এভাবেই বানানো হয়েছে?",
+      "কোনটা আমার জন্য বেশি কঠিন: হারালে সবর করা, নাকি পেলে উদার হওয়া?",
+      "কোন ছোট্ট, নিয়মিত অভ্যাস আমার মনকে এই দুটোর বিরুদ্ধেই গড়ে তুলতে পারে?"
+    ],
+    "lessonEn": "Panic in hardship and a tight hand in plenty are a pull in human nature, not a fate; name it in yourself and answer it with patience, prayer and giving.",
+    "lessonBn": "বিপদে অস্থিরতা আর প্রাচুর্যে হাতটান মানুষের স্বভাবের এক টান, নিয়তি নয়। নিজের মধ্যে তাকে চিনে নিন, আর সবর, নামায ও দানের মাধ্যমে তার জবাব দিন।"
   }
 };
 

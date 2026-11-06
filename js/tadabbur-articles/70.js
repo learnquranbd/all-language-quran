@@ -611,6 +611,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "70:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words After a Hoarder",
+          "bn": "মজুতদারের পরেই চারটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Inna al-insana khuliqa halu'an: indeed, man was created halu'. Four Arabic words, and the last of them carries the weight. The verses just before close a scene of the Fire: in 70:17 and 70:18 it calls the one who turned his back and walked away, who gathered wealth and stored it up. Then the surah moves from that one man to al-insan, the human being, and names something in him. The sentence is not finished here. Its two halves come in 70:20 and 70:21, and the exception in 70:22.",
+            "bn": "ইন্নাল ইনসানা খুলিকা হালূ'আ: নিশ্চয়ই মানুষকে সৃষ্টি করা হয়েছে হালূ' করে। আরবিতে মাত্র চারটি শব্দ, আর পুরো ভারটা বইছে শেষ শব্দটি। ঠিক আগের আয়াতগুলোতে জাহান্নামের একটা দৃশ্য শেষ হচ্ছে। ৭০:১৭ ও ৭০:১৮ আয়াতে সে ডাকছে তাকে, যে পিঠ ফিরিয়ে চলে গিয়েছিল, সম্পদ জমিয়ে আগলে রেখেছিল। এরপর সূরাটি ওই এক ব্যক্তি থেকে সরে আসে আল-ইনসানে, অর্থাৎ মানুষে, আর তার ভেতরের একটা জিনিসের নাম বলে। বাক্যটি কিন্তু এখানে শেষ নয়। তার দুই অংশ আসে ৭০:২০ ও ৭০:২১ আয়াতে, আর ব্যতিক্রম আসে ৭০:২২ আয়াতে।"
+          },
+          {
+            "en": "That placement shapes the reading. Taken in sequence, the gathering and hoarding of 70:18 stand right beside the withholding that 70:21 will name, and the exception arrives within three verses, beginning with those who pray. The reflection on 70:22 to 70:23 takes up that turn, and the question of whose portrait this is. This reflection stays with the word itself: what halu' means, how the early generation glossed it, and what the sources make of the claim that man was created so.",
+            "bn": "আয়াতটি কোথায় বসেছে, তা পাঠের ধরন ঠিক করে দেয়। পরপর পড়লে দেখা যায়, ৭০:১৮ আয়াতের জমানো আর আগলে রাখা দাঁড়িয়ে আছে ৭০:২১ আয়াতের আটকে রাখার ঠিক পাশেই। আর তিনটি আয়াতের মধ্যেই ব্যতিক্রম চলে আসে, শুরু হয় নামাযীদের দিয়ে। সেই মোড় আর ছবিটা আসলে কার, এ প্রশ্ন নিয়ে কথা হয়েছে ৭০:২২ ও ৭০:২৩ আয়াতের আলোচনায়। এখানে আমরা থাকব শব্দটির কাছেই। হালূ' মানে কী, পূর্বসূরিরা একে কীভাবে ব্যাখ্যা করেছেন, আর মানুষকে এভাবে সৃষ্টি করা হয়েছে, এ কথার অর্থ উৎসগুলো কীভাবে বোঝে, সেটাই দেখার বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Commentary Comes Next",
+          "bn": "ব্যাখ্যা আসে পরের আয়াতেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with a report from Ibn 'Abbas: the halu' is the one Allah described in the words that follow, idha massahu ash-sharru jazu'an, wa idha massahu al-khayru manu'an. When evil touches him, he is fretful; when good touches him, he withholds. Al-Baghawi has the same through 'Atiyya from Ibn 'Abbas, put as plainly as it can be: its explanation is what comes after it. He then glosses the pair: when poverty strikes him he does not bear it patiently, and when he gains wealth he does not spend.",
+            "bn": "তাবারী শুরু করেন ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা দিয়ে: হালূ' হলো সেই ব্যক্তি, যার বর্ণনা আল্লাহ পরের কথাগুলোতে দিয়েছেন, ইযা মাসসাহুশ শাররু জাযূ'আ, ওয়া ইযা মাসসাহুল খাইরু মানূ'আ। বিপদ ছুঁলে সে অস্থির হয়ে পড়ে, আর কল্যাণ ছুঁলে আটকে রাখে। বাগাভীর কাছেও একই কথা আছে, আতিয়্যার সূত্রে ইবন আব্বাস (রাঃ) থেকে, একেবারে খোলাখুলি ভাষায়: এর ব্যাখ্যা হলো পরের আয়াত। এরপর তিনি দুটো অংশ বুঝিয়ে দেন। অভাব এলে সে সবর করে না, আর সম্পদ হাতে এলে খরচ করে না।"
+          },
+          {
+            "en": "Others reach the same point in their own words. Al-Qurtubi relays from Tha'lab that Allah Himself has explained the halu': the one who, when evil reaches him, shows intense panic, and when good reaches him, is miserly with it and keeps it from people. Ibn Kathir's English abridgement says that Allah explains the statement with the next verse, and Ma'arif al-Qur'an that the verses which follow set out what the word means. So the commentary on this word begins inside the Qur'an, and the mufassirs read it from there.",
+            "bn": "অন্যরাও নিজের ভাষায় একই জায়গায় পৌঁছান। কুরতুবী সা'লাবের কথা উদ্ধৃত করেন: হালূ'-এর ব্যাখ্যা আল্লাহ নিজেই দিয়ে দিয়েছেন। সে এমন লোক, বিপদ এলে যে প্রচণ্ড অস্থিরতা দেখায়, আর কল্যাণ এলে তা নিয়ে কৃপণতা করে, মানুষকে তা থেকে বঞ্চিত রাখে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, আল্লাহ পরের আয়াত দিয়ে কথাটির ব্যাখ্যা দিয়েছেন। মাআরিফুল কুরআনও বলে, পরের আয়াতগুলোই শব্দটির অর্থ খুলে বলে। অর্থাৎ এ শব্দের তাফসীর শুরু হয় কুরআনের ভেতরেই, আর মুফাসসিরগণ সেখান থেকেই পড়েন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Craving and Panic Together",
+          "bn": "লোভ আর অস্থিরতা একসঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the word's sense in the language: hala' is the most intense craving, al-hirs, and the worst and most extreme panic, al-jaza'. He adds that Qatada, Mujahid and others said the same. The verb is hali'a, yahla'u, and the one it describes is hali' or halu', the second form built for intensity. Al-Baghawi's definition is shorter: hala' is intense craving and little patience. Both join two things in one word, a reaching after and a giving way, and that is exactly the pair the next two verses spell out.",
+            "bn": "কুরতুবী ভাষার দিক থেকে শব্দটির অর্থ দেন: হালা' মানে সবচেয়ে তীব্র লোভ, আল-হিরস, আর সবচেয়ে খারাপ ও চরম অস্থিরতা, আল-জাযা'। তিনি যোগ করেন, কাতাদা, মুজাহিদ ও অন্যরাও একই কথা বলেছেন। ক্রিয়াপদ হালি'আ, ইয়াহলা'উ। এমন লোককে বলা হয় হালি' বা হালূ', আর দ্বিতীয় রূপটি এসেছে আধিক্য বোঝাতে। বাগাভীর সংজ্ঞা আরও ছোট: হালা' মানে প্রবল লোভ আর অল্প সবর। দুজনেই এক শব্দে দুটো জিনিস জুড়েছেন। একটা হলো কিছুর দিকে হাত বাড়ানো, অন্যটা ভেঙে পড়া। পরের দুই আয়াত ঠিক এই জোড়াটাই খুলে বলে।"
+          },
+          {
+            "en": "Al-Qurtubi then states the meaning in one sentence: he does not bear good or evil with patience, until he does in each of them what he ought not to do. The trait, on this account, is not only a feeling. It ends in a wrong act on either side. Abu 'Ubayda, in words al-Qurtubi also credits to Tha'lab, puts it as a double failure: when good touches him he does not give thanks, and when harm touches him he does not hold firm. Gratitude and patience are named by their absence.",
+            "bn": "এরপর কুরতুবী এক বাক্যে অর্থটা বলে দেন: ভালো বা মন্দ কোনোটাতেই সে সবর রাখতে পারে না, শেষে দুটোতেই এমন কিছু করে বসে যা তার করা উচিত নয়। এই ব্যাখ্যায় স্বভাবটা কেবল একটা অনুভূতি নয়। দুই দিকেই তা গিয়ে ঠেকে একটা অন্যায় কাজে। কুরতুবী আবু উবায়দার একটি কথাও আনেন, আর জানান যে সা'লাবও এ কথা বলেছেন। আবু উবায়দা একে দেখেন দ্বিগুণ ব্যর্থতা হিসেবে। কল্যাণ ছুঁলে সে শোকর করে না, আর কষ্ট ছুঁলে সবর করে না। শোকর আর সবর, দুটোরই নাম এখানে এসেছে তাদের অনুপস্থিতি দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi closes with a usage from the Arabs. They call a she-camel hilwa'a or hilwa' when she is swift and light in her going, and he quotes a line of verse in which the word describes such a camel, noting that dhi'liba, another word in the line, also means a swift she-camel. He draws no lesson from it for the verse, and none is drawn here. It stands as evidence of how the root was used, a reminder that the word's first home was the everyday speech of the people who first heard it.",
+            "bn": "কুরতুবী শেষ করেন আরবদের একটি ব্যবহার দিয়ে। কোনো উটনী দ্রুত ও হালকা চালে চললে তারা তাকে বলে হিলওয়া'আ বা হিলওয়া'। তিনি একটি কবিতার চরণও উদ্ধৃত করেন, যেখানে শব্দটি এমন উটনীর বর্ণনায় এসেছে। সঙ্গে জানান, চরণটির আরেক শব্দ যি'লিবাও দ্রুতগামী উটনীকে বোঝায়। আয়াতের জন্য এ থেকে তিনি কোনো শিক্ষা টানেন না, এখানেও টানা হচ্ছে না। এটুকু কেবল দেখায় ধাতুটি কীভাবে ব্যবহার হতো। মনে করিয়ে দেয়, শব্দটির প্রথম ঘর ছিল সেই মানুষদের রোজকার কথাবার্তা, যারা প্রথম এ আয়াত শুনেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Word, Many Glosses",
+          "bn": "এক শব্দ, নানা ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gathers short answers from the early generation. Sa'id ibn Jubayr: shahih jazu', tight-fisted and fretful. 'Ikrima: dajur, the one who chafes and complains. Husayn, asked about the verse by Shu'ba: harīs, avid. Ibn Zayd: the halu' is the jazu', the one who cannot bear distress, and Qatada gives the same word. Ad-Dahhak gives a fuller picture: miserly, withholding good, falling apart when trial comes down upon him, and, he says, that is the halu'.",
+            "bn": "তাবারী পূর্বসূরিদের ছোট ছোট উত্তর জড়ো করেন। সাঈদ ইবন জুবাইর বলেন: শাহীহ জাযূ', হাতটান আর অস্থির। ইকরিমা: দাজূর, যে সারাক্ষণ বিরক্ত হয়ে নালিশ করে। শু'বা আয়াতটি সম্পর্কে হুসাইনকে জিজ্ঞেস করলে তিনি বলেন: হারীস, অর্থাৎ লোভী। ইবন যায়দ বলেন, হালূ' মানে জাযূ', যে কষ্ট সইতে পারে না। কাতাদাও একই শব্দ বলেন। দাহহাকের বর্ণনা একটু বিস্তারিত। সে কৃপণ, কল্যাণ আটকে রাখে, বিপদ নেমে এলে ভেঙে পড়ে। তাঁর ভাষায়, এই-ই হলো হালূ'।"
+          },
+          {
+            "en": "Al-Baghawi's list overlaps and adds. Ibn 'Abbas, through as-Suddi and Abu Salih: whoever is greedy for what is not lawful for him. Sa'id: tight-fisted. 'Ikrima: chafing. Ad-Dahhak and al-Hasan: miserly. Qatada: fretful. Muqatil: narrow of heart. Al-Qurtubi adds from ad-Dahhak that the halu' is never sated. Ma'arif al-Qur'an renders the word as greedy, impatient and lacking courage, and repeats several of these names, Ibn 'Abbas on greed for unlawful wealth and Sa'id ibn Jubayr on the miser among them.",
+            "bn": "বাগাভীর তালিকায় অনেক নাম মিলে যায়, কিছু নতুনও আছে। সুদ্দী ও আবু সালিহের সূত্রে ইবন আব্বাস (রাঃ): যে এমন জিনিসের লোভ করে, যা তার জন্য হালাল নয়। সাঈদ: হাতটান। ইকরিমা: বিরক্ত, নালিশবাজ। দাহহাক ও হাসান: কৃপণ। কাতাদা: অস্থির। মুকাতিল: সংকীর্ণ হৃদয়ের মানুষ। কুরতুবী দাহহাক থেকে আরও আনেন, হালূ' সেই লোক যার পেট কখনো ভরে না। মাআরিফুল কুরআন শব্দটির অর্থ করে লোভী, অধৈর্য আর সাহসহীন। এদের কয়েকজনের নামও সেখানে আসে, যেমন হারাম সম্পদের লোভ প্রসঙ্গে ইবন আব্বাস (রাঃ) আর কৃপণ প্রসঙ্গে সাঈদ ইবন জুবাইর।"
+          },
+          {
+            "en": "How should such a list be held? Ma'arif al-Qur'an answers directly: the meanings given are near-synonyms, and the word halu' takes them all in. Laid side by side, they fall into two families. Craving, tight-fistedness, miserliness and never being sated face towards what one has or wants. Fretfulness, chafing and a narrow heart face towards what one fears. Those are the same two directions that 70:20 and 70:21 name, which is why the list reads less like rival definitions than like one word seen from its two sides.",
+            "bn": "এমন তালিকা কীভাবে বুঝব? মাআরিফুল কুরআন সরাসরি উত্তর দেয়: যত অর্থ বলা হয়েছে সবই কাছাকাছি, আর হালূ' শব্দটি সবগুলোকে ধারণ করে। পাশাপাশি রাখলে অর্থগুলো দুই দলে ভাগ হয়ে যায়। লোভ, হাতটান, কৃপণতা আর কখনো তৃপ্ত না হওয়া, এগুলোর মুখ নিজের যা আছে বা যা চাই তার দিকে। অস্থিরতা, বিরক্তি আর সংকীর্ণ হৃদয়, এগুলোর মুখ যা নিয়ে ভয় তার দিকে। ৭০:২০ ও ৭০:২১ আয়াত ঠিক এই দুই দিকের কথাই বলে। তাই তালিকাটা পরস্পরবিরোধী সংজ্ঞার মতো লাগে না। মনে হয়, একই শব্দকে দুই দিক থেকে দেখা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Moulded, or Only Inclined",
+          "bn": "স্বভাবে গাঁথা, নাকি ঝোঁক"
+        },
+        "p": [
+          {
+            "en": "What does khuliqa, was created, add to the description? Ibn Kathir's Arabic opens by saying that Allah is informing us about man and the base traits he is moulded upon, majbul 'alayhi. Al-Muyassar uses the same root: man was formed upon panic and intense craving. As-Sa'di, in one line on this verse, says this is a description of man as such, of his tabi'a asliyya, his original nature. On these readings the trait is part of the material a person starts with, there before any choice is made.",
+            "bn": "খুলিকা, সৃষ্টি করা হয়েছে, এ শব্দ বর্ণনায় কী যোগ করে? ইবন কাসীরের আরবি তাফসীর শুরু হয় এই কথায়: আল্লাহ মানুষ সম্পর্কে জানাচ্ছেন, আর জানাচ্ছেন সেই হীন স্বভাবের কথা, যার উপর তাকে গড়া হয়েছে, মাজবূল আলাইহি। মুয়াসসারও একই ধাতু ব্যবহার করে: মানুষকে গড়া হয়েছে অস্থিরতা আর প্রবল লোভের উপর। সা'দী এ আয়াতে এক লাইনে বলেন, এটা মানুষের বর্ণনা, মানুষ হিসেবেই, তার তাবী'আ আসলিয়্যা বা মূল স্বভাবের বর্ণনা। এই পাঠে স্বভাবটা মানুষের শুরুর উপাদানেরই অংশ, কোনো বাছাইয়ের আগেই যা তার মধ্যে থাকে।"
+          },
+          {
+            "en": "A second line in the sources narrows the subject. Ad-Dahhak, in both at-Tabari and al-Qurtubi, says al-insan here means the disbeliever. At-Tabari's first report, after the words of Ibn 'Abbas, adds under the phrase it is said that the halu' is the fretful, craving one and that this is about the people of shirk. Whether the verse describes man as such or the disbeliever is weighed in the reflection on 70:22 to 70:23 and left there as a difference. Either way, the verse describes a type. It licenses no one to pin the word on any living person or community.",
+            "bn": "উৎসগুলোতে আরেকটি ধারা বিষয়টিকে সংকীর্ণ করে। তাবারী ও কুরতুবী দুজনের কাছেই দাহহাক বলেন, এখানে আল-ইনসান মানে কাফির। তাবারীর প্রথম বর্ণনায় ইবন আব্বাস (রাঃ)-এর কথার পরে 'বলা হয়' শব্দ দিয়ে যোগ হয়েছে: হালূ' হলো অস্থির, লোভী মানুষ, আর এ কথা মুশরিকদের সম্পর্কে। আয়াতটি মানুষমাত্রের বর্ণনা, নাকি কাফিরের, এ প্রশ্ন ৭০:২২ ও ৭০:২৩ আয়াতের আলোচনায় ওজন করা হয়েছে, মতভেদ হিসেবেই রাখা হয়েছে। যেভাবেই পড়ি, আয়াতটি একটি ধরনের বর্ণনা দেয়। কোনো জীবিত মানুষ বা সম্প্রদায়ের গায়ে এ শব্দ সেঁটে দেওয়ার অনুমতি এ আয়াত কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If Created So, Why Blamed?",
+          "bn": "এভাবে সৃষ্টি হলে দোষ কেন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an raises the objection squarely. If man is created this way, so that impatience, greed and miserliness are his nature, then it is not his fault; why is he declared guilty? Its answer runs in steps. Allah made human nature with the capacity for good and for evil. He gave the human being intellect, raised Prophets with His message, and sent Books setting out the consequence of every action chosen freely. The person has the right to choose between good and bad.",
+            "bn": "মাআরিফুল কুরআন আপত্তিটা সোজাসুজি তোলে। মানুষকে যদি এভাবেই সৃষ্টি করা হয়ে থাকে, অধৈর্য, লোভ আর কৃপণতা যদি তার স্বভাবই হয়, তাহলে দোষ তো তার নয়। তবে তাকে অপরাধী বলা হবে কেন? উত্তরটা আসে ধাপে ধাপে। আল্লাহ মানুষের স্বভাবে ভালো ও মন্দ দুটোরই সামর্থ্য রেখেছেন। তাকে বুদ্ধি-বিবেক দিয়েছেন, নবীদের পাঠিয়েছেন তাঁর বার্তা দিয়ে, কিতাব নাযিল করেছেন। সেসব কিতাবে স্পষ্ট বলা আছে, স্বাধীনভাবে বেছে নেওয়া প্রতিটি কাজের পরিণাম কী। ভালো-মন্দের মধ্যে বেছে নেওয়ার অধিকার মানুষের আছে।"
+          },
+          {
+            "en": "So, Ma'arif concludes, a person is held guilty and punished for freely choosing the wrong deed, not for the capacity he was born with. It adds a textual point: the verses that follow speak only of actions of choice. The qualities named from 70:22 onwards are, on this reading, matters a person takes up and keeps up, and none asks anyone to stop being human. So khuliqa names the starting point and the pull, while the verses after it name what a person is answerable for.",
+            "bn": "মাআরিফুল কুরআনের সিদ্ধান্ত তাই এই: মানুষ অপরাধী সাব্যস্ত হয় আর শাস্তি পায় স্বাধীনভাবে ভুল কাজ বেছে নেওয়ার জন্য, জন্মগত সামর্থ্যের জন্য নয়। সঙ্গে আয়াতের দিক থেকে একটা কথা যোগ করে: পরের আয়াতগুলো কেবল বাছাই করা কাজের কথাই বলে। এই পাঠে ৭০:২২ থেকে যে গুণগুলোর নাম এসেছে, সেগুলো মানুষ নিজে গ্রহণ করে আর ধরে রাখে। কোনোটিই কাউকে মানুষ হওয়া ছেড়ে দিতে বলে না। তাই খুলিকা শব্দ জানায় শুরুর বিন্দু আর ভেতরের টানের কথা। আর পরের আয়াতগুলো জানায়, কোন বিষয়ে মানুষকে জবাব দিতে হবে।"
+          },
+          {
+            "en": "Ibn Kaysan, cited by both al-Qurtubi and al-Baghawi, gives the same question a different shape. Allah created the human being loving what pleases him and fleeing what he dislikes, and then made his worship consist of spending what he loves and bearing patiently what he dislikes. Read this way, the nature is not an excuse and not a curse. It is the very ground of the test. The two halves of the verse's portrait meet two commands: spend when good comes, and be patient when harm does.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই ইবন কায়সানের একটি কথা আনেন, যা একই প্রশ্নকে অন্য চেহারা দেয়। আল্লাহ মানুষকে এমনভাবে সৃষ্টি করেছেন যে, যা তাকে খুশি করে তা সে ভালোবাসে, আর যা অপছন্দ করে তা থেকে পালায়। তারপর তার ইবাদত রেখেছেন ঠিক এখানে: প্রিয় জিনিস খরচ করা, আর অপছন্দের জিনিসে সবর করা। এভাবে পড়লে স্বভাবটা অজুহাতও নয়, অভিশাপও নয়। এটাই পরীক্ষার ময়দান। আয়াতের ছবির দুই অংশের সামনে দাঁড়িয়ে আছে দুটি হুকুম। কল্যাণ এলে খরচ করো, কষ্ট এলে সবর করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shuhh Hali', a Prophetic Echo",
+          "bn": "শুহহুন হালি': নবীজির এক বাণী"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, after explaining 70:20 and 70:21, cites a hadith of Abu Hurayrah through Imam Ahmad and notes that Abu Dawud recorded it. Abu Dawud's wording (2511) is: Abu Hurayrah said, I heard the Messenger of Allah ﷺ say: \"What is evil in a man are alarming niggardliness and unrestrained cowardice.\" The Arabic is sharru ma fi rajulin shuhhun hali'un wa jubnun khali'. The page consulted shows no grading from Abu Dawud himself, and none is added here. Ibn Kathir remarks only that it is Abu Dawud's sole hadith through 'Abd al-'Aziz ibn Marwan.",
+            "bn": "৭০:২০ ও ৭০:২১ আয়াতের ব্যাখ্যার পরে ইবন কাসীর ইমাম আহমাদের সূত্রে আবু হুরায়রা (রাঃ)-এর একটি হাদীস আনেন, আর জানান যে আবু দাউদও এটি বর্ণনা করেছেন। আবু দাউদের (২৫১১) ভাষ্য এই: আবু হুরায়রা (রাঃ) বলেন, আমি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছি: \"মানুষের মধ্যে সবচেয়ে মন্দ জিনিস হলো অস্থির করে তোলা কৃপণতা আর দিশেহারা করে দেওয়া ভীরুতা।\" আরবি ভাষ্য: শাররু মা ফী রাজুলিন শুহহুন হালি'উন ওয়া জুবনুন খালি'। যে পাতাটি দেখা হয়েছে, তাতে আবু দাউদের নিজের দেওয়া কোনো মান নেই, এখানেও যোগ করা হয়নি। ইবন কাসীর শুধু বলেন, আবদুল আযীয ইবন মারওয়ানের সূত্রে আবু দাউদের কাছে এটিই একমাত্র হাদীস।"
+          },
+          {
+            "en": "The hadith does not mention the verse. It is a general saying, which Ibn Kathir and al-Qurtubi place beside this verse, where its word hali' shares the root of halu'. Al-Qurtubi gives it as well, in a slightly different wording and without naming a source, so his form is not quoted here. Notice what the saying pairs with the craving: not greed alone but cowardice, a heart that gives way. Ma'arif al-Qur'an's own rendering of the verse, weak in courage, sits close to that pairing. None of the fetched sources gives an occasion of revelation for this verse.",
+            "bn": "হাদীসটিতে আয়াতের উল্লেখ নেই। এটা একটা সাধারণ বাণী। ইবন কাসীর ও কুরতুবী একে এ আয়াতের পাশে রেখেছেন, কারণ এর হালি' আর আয়াতের হালূ' একই ধাতু থেকে। কুরতুবীও হাদীসটি এনেছেন, তবে একটু ভিন্ন ভাষায়, কোনো উৎসের নাম না বলে। তাই তাঁর রূপটি এখানে উদ্ধৃত হয়নি। খেয়াল করুন, বাণীটি লোভের সঙ্গে কী জুড়ে দিয়েছে। শুধু লোভ নয়, ভীরুতাও, এমন হৃদয় যা ভেঙে পড়ে। মাআরিফুল কুরআন নিজে আয়াতের অনুবাদে লিখেছে, সাহসে দুর্বল। সেটা এই জোড়ার খুব কাছাকাছি। যেসব উৎস দেখা হয়েছে, তার কোনোটিতে এ আয়াত নাযিলের কোনো প্রেক্ষাপট নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading the Portrait Honestly",
+          "bn": "নিজের ছবি সৎভাবে পড়া"
+        },
+        "p": [
+          {
+            "en": "What, then, does the verse ask of a reader? Not despair, since Ibn Kaysan makes the trait the very ground of worship, and not an excuse, since Ma'arif locates the blame in what is chosen. Most people can find both halves in a single ordinary day: the jolt of fear at bad news, the small reluctance when asked to give from something just received. The word halu' gives that pair a name, and a name makes it easier to catch the moment it begins.",
+            "bn": "তাহলে আয়াতটি পাঠকের কাছে কী চায়? হতাশা নয়, কারণ ইবন কায়সান এই স্বভাবকেই ইবাদতের ময়দান বানিয়েছেন। অজুহাতও নয়, কারণ মাআরিফুল কুরআন দোষ খুঁজে পায় বেছে নেওয়া কাজে। বেশির ভাগ মানুষ একটা সাধারণ দিনেই দুটো অংশ নিজের মধ্যে খুঁজে পাবেন। খারাপ খবর শুনে বুকের ভেতর ধক করে ওঠা ভয়। আবার সদ্য পাওয়া কিছু থেকে দিতে বলা হলে মনের ছোট্ট অনিচ্ছা। হালূ' শব্দটি এই জোড়ার একটা নাম দেয়। নাম জানা থাকলে শুরুর মুহূর্তেই তাকে ধরে ফেলা সহজ হয়।"
+          },
+          {
+            "en": "The surah does not leave the reader with the portrait. Two verses complete it, and then the exception begins with those who pray; the qualities listed from 70:22 onwards are taken up in their own reflections. Here it is enough to notice the order. The pull is named first, honestly and without flattery, and the way out follows at once. The verse that diagnoses also sends the reader on to the cure, and that cure begins with standing in prayer.",
+            "bn": "ছবিটা দেখিয়েই সূরাটি পাঠককে ছেড়ে দেয় না। আরও দুই আয়াতে ছবিটা পূর্ণ হয়, তারপর শুরু হয় নামাযীদের দিয়ে ব্যতিক্রম। ৭০:২২ থেকে যে গুণগুলোর তালিকা, সেগুলো নিয়ে আলাদা আলোচনা আছে। এখানে শুধু ক্রমটা খেয়াল করাই যথেষ্ট। আগে টানটার নাম বলা হয়েছে, খোলাখুলি, কোনো তোষামোদ ছাড়া। আর সঙ্গে সঙ্গে এসেছে বেরোনোর পথ। যে আয়াত দুর্বলতাটা চিনিয়ে দেয়, সে-ই পাঠককে পাঠিয়ে দেয় তার প্রতিকারের দিকে। আর সেই প্রতিকারের শুরু নামাযে দাঁড়ানো দিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "70:22-23": {
     "sections": [
       {
