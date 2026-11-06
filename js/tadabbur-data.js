@@ -29425,6 +29425,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every deed is something you are carrying toward a Day when you will see it plainly. Pack with care now, and never think a small good too small.",
     "lessonBn": "প্রতিটি আমল আপনি বয়ে নিয়ে চলেছেন এমন এক দিনের দিকে, যেদিন তা স্পষ্ট চোখে দেখবেন। তাই এখনই যত্ন করে গুছিয়ে নিন, আর কোনো ছোট নেকিকে তুচ্ছ ভাববেন না।"
+  },
+  "80:28": {
+    "reflectionEn": "Grain has been named, and now two more crops rise from the split earth: grapes, and qadb. The second word comes from a root that means to cut. Most commentators take it as green fodder, cut again and again and growing back each time, the feed that animals eat fresh; one early report reads it as fresh dates instead. Either way the verse sets a fruit people enjoy beside a crop that may be grown for animals, and both are counted as His gift to the one told to look at his food. What in my life has been cut back and still grown again? And do I thank Him for the plain crops as readily as for the sweet ones?",
+    "reflectionBn": "শস্যের কথা বলা হয়ে গেছে। এবার ফাটা মাটি থেকে আরও দুটি ফসল উঠে আসে: আঙুর আর কাদব। দ্বিতীয় শব্দটির মূল ধাতুর অর্থ কাটা। বেশির ভাগ তাফসীরকার একে বলেন সবুজ ঘাস-জাতীয় পশুখাদ্য, যা বারবার কাটা হয় আর প্রতিবার আবার গজায়, পশুরা যা তাজা অবস্থায় খায়। আগের যুগের এক বর্ণনায় এর অর্থ তাজা খেজুর। যে অর্থই ধরি, আয়াতটি মানুষের তৃপ্তির এক ফলকে পাশাপাশি রাখে এমন এক ফসলের সঙ্গে, যা হয়তো পশুর জন্যই ফলানো হয়। আর যাকে নিজের খাবারের দিকে তাকাতে বলা হয়েছে, তার জন্য দুটোই আল্লাহর দান হিসেবে গোনা হয়েছে। আমার জীবনে কী কেটে ছেঁটে ফেলা হয়েছে, তবু আবার গজিয়ে উঠেছে? আর মিষ্টি ফলের জন্য যত সহজে শুকরিয়া জানাই, সাদামাটা ফসলের জন্যও কি ততটা জানাই?",
+    "pointsEn": [
+      "At my next meal, can I trace one thing on the plate back through the field, the rain and the opened earth, the way these verses do?",
+      "What in my life has been cut back and still come up again, and did I notice whose doing that was?",
+      "Do I count the feed of the animals that serve me among the favours I thank Allah for?",
+      "When a word in the Qur'an carries more than one reading, do I let the scholars' range stand, or hurry to settle it myself?",
+      "Which of my provisions have become so familiar that I no longer think of them as given?"
+    ],
+    "pointsBn": [
+      "পরের বার খেতে বসে প্লেটের একটা জিনিসকেও কি মাঠ, বৃষ্টি আর ফেটে যাওয়া মাটি পর্যন্ত পিছিয়ে দেখতে পারি, যেভাবে এই আয়াতগুলো দেখায়?",
+      "আমার জীবনে কী কেটে ফেলা হয়েছে, তবু আবার গজিয়ে উঠেছে? সেটা কার কাজ, তা কি খেয়াল করেছি?",
+      "যে পশুরা আমার কাজে লাগে, তাদের খাবারকেও কি আমি আল্লাহর সেই নিয়ামতের মধ্যে গুনি, যার জন্য শুকরিয়া আদায় করি?",
+      "কুরআনের কোনো শব্দের একাধিক অর্থ থাকলে আমি কি আলেমদের মতের পরিসরটা মেনে নিই, নাকি তাড়াহুড়ো করে নিজেই একটা বেছে ফেলি?",
+      "আমার কোন রিযিকগুলো এত চেনা হয়ে গেছে যে সেগুলোকে আর দান বলে মনেই হয় না?"
+    ],
+    "lessonEn": "Count the plain crops too: fodder cut and grown again is as much His provision as the grapes, and both call for thanks.",
+    "lessonBn": "সাদামাটা ফসলকেও হিসাবে ধরুন। বারবার কেটে আবার গজানো পশুখাদ্যও আঙুরের মতোই আল্লাহর রিযিক, আর দুটোরই শুকরিয়া প্রাপ্য।"
   }
 };
 

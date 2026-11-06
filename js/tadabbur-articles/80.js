@@ -739,6 +739,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "80:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Nouns After the Grain",
+          "bn": "শস্যের পরে দুটি নাম"
+        },
+        "p": [
+          {
+            "en": "Wa-'inaban wa-qadban: and grapes and qadb. In Arabic the verse is two words, two nouns joined by 'and', and neither has a verb of its own. Both hang on the verb of 80:27, fa-anbatna fiha, so We caused to grow in it: grain, then grapes, then qadb. The Muyassar paraphrases 80:25 to 80:32 as one sentence under that verb: We poured the water, split the earth, and caused to grow in it grain, grapes, fodder for animals, olives, palms, gardens of great trees, fruit and pasture.",
+            "bn": "ওয়া ইনাবাও ওয়া কাদবা: আর আঙুর ও কাদব। আরবিতে আয়াতটি মাত্র দুই শব্দের। দুটিই বিশেষ্য, মাঝখানে শুধু 'আর', কোনোটির নিজের ক্রিয়া নেই। দুটোই ঝুলে আছে ৮০:২৭ আয়াতের ক্রিয়ার ওপর: ফাআমবাতনা ফীহা, অতঃপর আমি তাতে উৎপন্ন করলাম। প্রথমে শস্য, তারপর আঙুর, তারপর কাদব। মুয়াসসার ৮০:২৫ থেকে ৮০:৩২ পর্যন্ত পুরো অংশকে ওই এক ক্রিয়ার অধীনে একটি বাক্যে বলে দেয়। আমি পানি ঢাললাম, মাটি চিরে দিলাম, আর তাতে জন্মালাম শস্য, আঙুর, পশুর খাদ্য, যয়তুন, খেজুরগাছ, বড় বড় গাছে ভরা বাগান, ফল আর চারণভূমির ঘাস।"
+          },
+          {
+            "en": "The list sits inside a command. 80:24 tells man to look at his food, and the verses after it show him what to look at, step by step, from the downpour of 80:25 to the provision of 80:32. Ma'arif al-Qur'an, treating 80:23 to 80:32 as one passage, says these signs and blessings demanded that man ponder, believe in Allah and obey Him, and that the unbelieving man failed to do so. This article stays with the two words of 80:28; the look itself is treated on 80:24 and the rain on 80:25.",
+            "bn": "তালিকাটি আসলে একটি আদেশের ভেতরে বসানো। ৮০:২৪ আয়াত মানুষকে বলে, নিজের খাবারের দিকে তাকাও। তারপরের আয়াতগুলো ধাপে ধাপে দেখিয়ে দেয় কোথায় তাকাতে হবে, ৮০:২৫ আয়াতের মুষলধারা বৃষ্টি থেকে ৮০:৩২ আয়াতের ভোগসামগ্রী পর্যন্ত। মাআরিফুল কুরআন ৮০:২৩ থেকে ৮০:৩২ পর্যন্ত এক অংশ হিসেবে আলোচনা করে বলে, এসব নিদর্শন আর নিয়ামতের দাবি ছিল মানুষ ভাববে, আল্লাহর ওপর ঈমান আনবে আর তাঁর হুকুম মানবে। কিন্তু অবিশ্বাসী মানুষ তা করেনি। এই লেখা থাকবে ৮০:২৮ আয়াতের দুটি শব্দের কাছেই। তাকানোর আদেশ নিয়ে আলোচনা আছে ৮০:২৪ আয়াতে, আর বৃষ্টির কথা ৮০:২৫ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Vine Needs No Gloss",
+          "bn": "আঙুরের ব্যাখ্যা লাগে না"
+        },
+        "p": [
+          {
+            "en": "On the first word the commentators spend almost nothing. Ibn Kathir writes only wal-'inabu ma'ruf: grapes are well known. Al-Qurtubi, al-Baghawi and as-Sa'di quote the verse and go straight on to qadb without a word on grapes. At-Tabari gives one small gloss that is easy to pass over: wa-karma 'inab, and vines of grapes. In a list governed by We caused to grow, he names the plant and not only the fruit, the vine that the earth puts up long before any bunch is picked.",
+            "bn": "প্রথম শব্দটির পেছনে তাফসীরকারেরা প্রায় কোনো কথাই খরচ করেননি। ইবন কাসীর শুধু লেখেন: ওয়াল ইনাবু মা'রূফ, আঙুর তো সবার চেনা। কুরতুবী, বাগাভী আর সা'দী আয়াতটি উদ্ধৃত করেই সোজা চলে যান কাদবের দিকে, আঙুর নিয়ে একটি কথাও বলেন না। তাবারী ছোট্ট একটি ব্যাখ্যা দেন, যা সহজেই চোখ এড়িয়ে যায়: ওয়া কারমা ইনাব, অর্থাৎ আঙুরের লতা। তালিকাটি যেহেতু 'আমি উৎপন্ন করলাম' ক্রিয়ার অধীনে, তিনি শুধু ফলের নাম না নিয়ে গাছটির নাম নেন। থোকা তোলার অনেক আগেই মাটি যে লতা গজিয়ে তোলে, সেটাই এখানে তাঁর চোখে।"
+          },
+          {
+            "en": "That silence is itself informative. A word its hearers knew at sight needed no explanation, and the commentators' attention moves to the word that did. The Muyassar keeps grapes as grapes. Whatever else the verse holds, its first noun is a fruit that people eat, and its second, on most of the readings below, is a crop that animals eat. The meeting of the two inside one short verse is where the reader's look is drawn, and it is the thread of the sections that follow.",
+            "bn": "এই নীরবতাও কিছু বলে। প্রথম শ্রোতারা যে শব্দ দেখামাত্র চিনতেন, তার ব্যাখ্যার দরকার ছিল না। তাই তাফসীরকারদের মনোযোগ চলে গেছে সেই শব্দের দিকে, যার ব্যাখ্যা দরকার ছিল। মুয়াসসারও আঙুরকে আঙুরই রেখেছে। আয়াতে আর যা-ই থাকুক, এর প্রথম বিশেষ্যটি মানুষের খাওয়ার ফল। আর দ্বিতীয়টি, নিচের বেশির ভাগ ব্যাখ্যা অনুযায়ী, পশুর খাওয়ার ফসল। ছোট্ট একটি আয়াতের ভেতরে এ দুটির পাশাপাশি বসাটাই পাঠকের দৃষ্টি টানে। পরের অংশগুলো এই সুতো ধরেই এগোবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plant Named for Cutting",
+          "bn": "কাটা থেকে যার নাম"
+        },
+        "p": [
+          {
+            "en": "Qadb comes from a root meaning to cut, and the commentators let the name explain the plant. Al-Qurtubi gives the reason: it is called so because it is yuqdab, that is, yuqta', cut, after it has come up, time after time, marratan ba'da marrah. Al-Baghawi gives the same reason without naming anyone: it is cut on all the days. The plant is known by what is done to it. It is harvested, it grows, and it is harvested again.",
+            "bn": "কাদব শব্দের মূল ধাতুর অর্থ কাটা। তাফসীরকারেরা নামটি দিয়েই গাছটিকে বুঝিয়েছেন। কুরতুবী কারণ বলেন: একে এ নামে ডাকা হয়, কারণ এটি ইউকদাব, মানে ইউকতা', কাটা হয়। গজিয়ে ওঠার পর একবার নয়, বারবার, মাররাতান বা'দা মাররাহ। বাগাভীও একই কারণ দেন, তবে কারও নাম উল্লেখ না করে: এটি প্রতিদিনই কাটা হয়। গাছটির পরিচয় তাই তার সঙ্গে যা করা হয় তা দিয়ে। কেটে নেওয়া হয়, আবার গজায়, আবার কেটে নেওয়া হয়।"
+          },
+          {
+            "en": "In al-Qurtubi's text the words 'from al-Hasan' stand between the gloss qatt and fodder and this reason, and the wording does not settle which of the two is al-Hasan's; this article credits the reason to al-Qurtubi's text. His passage then records the word's wider use: qadb is a name for whatever is cut from the branches of a tree to make arrows or bows. From the lexicon al-Sihah he adds that al-qadbah and al-qadb mean ar-rutbah, and that the ground where it grows is called a maqdabah.",
+            "bn": "কুরতুবীর লেখায় 'হাসান থেকে' কথাটি বসে আছে দুইয়ের মাঝখানে। একদিকে 'কাত্ত আর পশুখাদ্য' ব্যাখ্যা, অন্যদিকে নামের এই কারণ। এর কোনটি হাসান বসরীর কথা, শব্দবিন্যাস থেকে তা মীমাংসা হয় না। তাই এখানে কারণটিকে কুরতুবীর লেখার কথা হিসেবেই ধরা হলো। এরপর তিনি শব্দটির আরও বিস্তৃত ব্যবহার উল্লেখ করেন। গাছের ডাল থেকে তীর বা ধনুক বানানোর জন্য যা কেটে নেওয়া হয়, তাকেও কাদব বলে। আস-সিহাহ অভিধান থেকে তিনি যোগ করেন, আল-কাদবা আর আল-কাদব মানে আর-রুতবা, আর যে জমিতে তা জন্মায়, তার নাম মাকদাবা।"
+          },
+          {
+            "en": "So the vocabulary of the verse is close to a grower's vocabulary: the crop, its cutting, and the bed it grows in. Nothing in the sources fetched for this verse goes beyond that into how the plant grows or what it contains, and this article does not either. What the root gives the reader is simpler. A plant whose very name is cutting is a plant that people expected to cut, and to cut again, because it came back.",
+            "bn": "আয়াতের শব্দভান্ডার তাই অনেকটা চাষির শব্দভান্ডারের মতো: ফসল, তার কাটা, আর যে জমিতে তা জন্মায়। গাছটি কীভাবে বাড়ে বা তাতে কী কী উপাদান আছে, এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর সে আলোচনায় যায়নি। এই লেখাও যাবে না। মূল ধাতু পাঠককে যা দেয় তা আরও সাদামাটা। যে গাছের নামটাই কাটা, মানুষ জানত সেটা কাটা হবে, আবার কাটা হবে, কারণ সেটা আবার গজিয়ে উঠত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fisfisah, Cut While Green",
+          "bn": "ফিসফিসা, সবুজ থাকতেই কাটা"
+        },
+        "p": [
+          {
+            "en": "Most of the early glosses meet on one plant. At-Tabari explains qadb as ar-rutbah, fresh green fodder, and reports by his chains that Ibn Abbas called it al-fisfisah, that Qatadah called it al-fasafis, the plural of the same word, and that ad-Dahhak called it ar-rutbah. At-Tabari then adds his own note joining the two names: al-fisfisah is ar-rutbah. Its Persian name, in the al-Sihah entry al-Qurtubi quotes, is isfist. English translations commonly render the plant as alfalfa or lucerne.",
+            "bn": "আগের যুগের বেশির ভাগ ব্যাখ্যা একটি গাছে এসে মেলে। তাবারী কাদবের অর্থ বলেন আর-রুতবা, অর্থাৎ তাজা সবুজ পশুখাদ্য। তিনি নিজের সনদে বর্ণনা করেন, ইবন আব্বাস (রাঃ) একে বলেছেন আল-ফিসফিসা, কাতাদা বলেছেন আল-ফাসাফিস, যা একই শব্দের বহুবচন, আর দাহহাক বলেছেন আর-রুতবা। এরপর তাবারী নিজে দুই নামকে জুড়ে দেন: আল-ফিসফিসা মানেই আর-রুতবা। কুরতুবী আস-সিহাহ থেকে যে অংশ উদ্ধৃত করেছেন, তাতে এর ফারসি নাম ইসফিসত। ইংরেজি অনুবাদে গাছটিকে সাধারণত আলফালফা বা লুসার্ন বলা হয়।"
+          },
+          {
+            "en": "Ibn Kathir names the same plant with a fuller line of authorities: al-fisfisah that animals eat fresh, also called al-qatt, said by Ibn Abbas, Qatadah, ad-Dahhak and as-Suddi. Al-Khalil, quoted by al-Qurtubi, puts it in two words: the fresh fisfisah. Al-Baghawi has the fresh qatt, and as-Sa'di's whole comment on the verse after quoting it is wa huwa al-qatt, and it is qatt. Across five commentators the answer is a green crop that is cut while still fresh.",
+            "bn": "ইবন কাসীর একই গাছের কথা বলেন, তবে আরও কয়েকজনের নাম নিয়ে। তাঁর ভাষায় এটি সেই ফিসফিসা, যা পশুরা তাজা অবস্থায় খায়, আর যাকে আল-কাত্তও বলা হয়। কথাটি ইবন আব্বাস (রাঃ), কাতাদা, দাহহাক আর সুদ্দীর। কুরতুবী খলীলের উক্তি আনেন, যিনি দুই শব্দে সেরে দেন: তাজা ফিসফিসা। বাগাভী বলেন তাজা কাত্ত। আর সা'দী আয়াতটি উদ্ধৃত করে শুধু এটুকু বলেন: ওয়া হুয়াল কাত্ত, আর তা হলো কাত্ত। পাঁচজন তাফসীরকারের কাছেই উত্তরটা এক: এক সবুজ ফসল, যা তাজা থাকতেই কাটা হয়।"
+          },
+          {
+            "en": "Qatt is a word with a local history. At-Tabari notes that the people of Makkah call al-qatt by the name qadb, and al-Qurtubi gives the same from al-Qutabi and Tha'lab. In the same passage al-Qurtubi records that once the plant dries it is called qatt, which would make qadb the green crop and qatt its dried form. The sources do not all keep that line, since Ibn Kathir and al-Baghawi use qatt for the fresh plant too, and this article leaves the usage as they give it.",
+            "bn": "কাত্ত শব্দটির সঙ্গে জড়িয়ে আছে এক অঞ্চলের ভাষা। তাবারী জানান, মক্কাবাসী কাত্তকেই কাদব নামে ডাকে। কুরতুবীও কুতাবী আর সা'লাবের বরাতে একই কথা বলেন। আবার একই আলোচনায় কুরতুবী উল্লেখ করেন, গাছটি শুকিয়ে গেলে তাকে কাত্ত বলা হয়। সে হিসাবে কাদব হলো সবুজ ফসল, আর কাত্ত তার শুকনো রূপ। তবে সব উৎস এই ভাগ মানেনি। ইবন কাসীর আর বাগাভী তাজা গাছকেও কাত্ত বলেছেন। এই লেখা তাঁদের ব্যবহার যেমন আছে তেমনই রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fresh Dates, or Fresh Fodder",
+          "bn": "তাজা খেজুর, নাকি তাজা ঘাস"
+        },
+        "p": [
+          {
+            "en": "One reading moves away from the field. Al-Qurtubi reports from Ibn Abbas that qadb is ar-rutab, fresh dates, for two reasons: because they are cut from the palm, and because grapes are mentioned just before. Two foods that people eat would then stand side by side in the verse, grapes and fresh dates. In the very next sentence al-Qurtubi reports from Ibn Abbas a second view: it is al-fisfisah, which is fresh qatt. Two opinions are thus carried from one Companion.",
+            "bn": "একটি ব্যাখ্যা মাঠ ছেড়ে অন্যদিকে যায়। কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, কাদব মানে আর-রুতাব, অর্থাৎ তাজা খেজুর। কারণ দুটি। খেজুর গাছ থেকে কেটে নামানো হয়, আর ঠিক আগেই আঙুরের কথা এসেছে। তাহলে আয়াতে পাশাপাশি দাঁড়ায় মানুষের দুটি খাবার, আঙুর আর তাজা খেজুর। ঠিক পরের বাক্যেই কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরেকটি মত আনেন: এটি আল-ফিসফিসা, যা তাজা কাত্ত। একই সাহাবি থেকে এভাবে দুটি মত বর্ণিত হয়েছে।"
+          },
+          {
+            "en": "Notice how close the Arabic words are. Ar-rutbah, the green fodder of at-Tabari and ad-Dahhak, and ar-rutab, fresh dates, differ by a single final letter, and both name something moist and fresh. The reader will also see that 80:29 goes on to name olives and palm trees. The commentators fetched for this verse do not use that to decide between the two reports from Ibn Abbas, and this article does not either; both are left as al-Qurtubi gives them.",
+            "bn": "আরবি শব্দ দুটি কত কাছাকাছি, খেয়াল করুন। তাবারী আর দাহহাকের আর-রুতবা মানে সবুজ পশুখাদ্য, আর আর-রুতাব মানে তাজা খেজুর। দুটির তফাত শেষের একটিমাত্র বর্ণে, আর দুটিই ভেজা ও তাজা জিনিসের নাম। পাঠক এটাও দেখবেন যে ৮০:২৯ আয়াতে এরপরই যয়তুন আর খেজুরগাছের নাম এসেছে। তবে এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এ দিয়ে ইবন আব্বাস (রাঃ)-এর দুই বর্ণনার মধ্যে ফয়সালা করেনি। এই লেখাও করবে না। কুরতুবী যেভাবে দুটি এনেছেন, সেভাবেই রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Herbs That Grow Back",
+          "bn": "কেটে নিলেও আবার গজায়"
+        },
+        "p": [
+          {
+            "en": "A third line widens the word instead of narrowing it. Al-Hasan al-Basri, in at-Tabari's chain and again in Ibn Kathir and al-Baghawi, says simply: al-qadb al-'alaf, fodder, which al-Baghawi spells out as fodder for animals. The Muyassar takes that sense into its paraphrase, grapes and fodder for beasts. Al-Hasan's gloss names a use rather than a single species; it tells the reader what the crop was for, and leaves open which plant filled that role.",
+            "bn": "তৃতীয় এক ধারা শব্দটিকে সংকুচিত না করে প্রশস্ত করে। হাসান বসরী সোজা বলেন: আল-কাদবু আল-আলাফ, অর্থাৎ পশুখাদ্য। তাবারী তাঁর এ কথা সনদসহ এনেছেন, ইবন কাসীর আর বাগাভীও এনেছেন। বাগাভী আরেকটু খুলে বলেন, পশুদের খাবার। মুয়াসসারও তার ভাবার্থে এই অর্থই নিয়েছে: আঙুর আর চতুষ্পদ জন্তুর খাদ্য। হাসানের ব্যাখ্যা কোনো নির্দিষ্ট গাছের নাম নয়, ব্যবহারের নাম। ফসলটা কীসের জন্য, তা তিনি বলে দেন। কোন গাছ সে কাজ করত, তা খোলা রেখে দেন।"
+          },
+          {
+            "en": "Al-Qurtubi records another wide reading under the words yuqal, it is said: qadb means everything that is cut, such as qatt, al-kurrath, leeks, and the rest of the herbs, sa'ir al-buqul, that are cut and then grow again from their root. On this reading the verse names a whole kind of plant, greens taken by cutting and left to come again. That class reaches the human table as well as the manger, and it keeps the root meaning of cutting at its centre.",
+            "bn": "কুরতুবী আরেকটি প্রশস্ত ব্যাখ্যা আনেন 'বলা হয়' কথাটি দিয়ে। এ ব্যাখ্যায় কাদব মানে যা কিছু কাটা হয়। যেমন কাত্ত, আল-কুররাস অর্থাৎ লিক, আর অন্যান্য সব শাক, সা'ইরুল বুকূল, যা কেটে নিলে গোড়া থেকে আবার গজায়। এই পাঠে আয়াতটি একটি পুরো গাছের শ্রেণির নাম নিচ্ছে: যে সবজি কেটে তোলা হয় আর আবার গজানোর জন্য রেখে দেওয়া হয়। এই শ্রেণি যেমন পশুর জাবনার পাত্রে যায়, তেমনি মানুষের খাবারের থালাতেও আসে। আর কাটার মূল অর্থটাও এর কেন্দ্রেই থেকে যায়।"
+          },
+          {
+            "en": "Set side by side, the readings are not far apart, and no commentator fetched here rejects any of the others. Fresh fodder cut again and again, fodder in general, fresh dates, or herbs that regrow from the root: each is carried by a named source or by al-Qurtubi's it is said, and each keeps the idea of cutting. The verse used one word, and the range of what it can hold is part of what the commentators preserved.",
+            "bn": "পাশাপাশি রাখলে ব্যাখ্যাগুলো একে অন্যের থেকে খুব দূরে নয়। এখানে সংগ্রহ করা কোনো তাফসীরকার অন্যগুলোর কোনোটিকে বাতিলও করেননি। বারবার কাটা তাজা পশুখাদ্য, সাধারণভাবে পশুখাদ্য, তাজা খেজুর, কিংবা গোড়া থেকে আবার গজানো শাক: প্রতিটির পেছনে আছে কোনো নির্দিষ্ট বর্ণনাকারী, অথবা কুরতুবীর 'বলা হয়'। আর প্রতিটিতেই কাটার ধারণা টিকে আছে। আয়াত একটি শব্দই ব্যবহার করেছে। সে শব্দে কতখানি অর্থ ধরে, সেই পরিসরটাও তাফসীরকারেরা যত্ন করে রেখে গেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fruit Beside a Fodder",
+          "bn": "ফলের পাশে পশুর খাবার"
+        },
+        "p": [
+          {
+            "en": "Put the readings together and, on most of them, the verse holds a pair: grapes for people and qadb for animals, set next to each other with nothing between them but 'and'. The list closes in 80:32 with provision for you and for your livestock, mata'an lakum wa-li-an'amikum, and the Muyassar's paraphrase ends the same way: things that you and your livestock enjoy. The same phrase closes 79:33, whose article treats it; here it is enough to see that 80:28 already sets the two side by side.",
+            "bn": "ব্যাখ্যাগুলো এক করলে, বেশির ভাগ মতে আয়াতে একটি জোড়া পাওয়া যায়: মানুষের জন্য আঙুর আর পশুর জন্য কাদব, মাঝখানে শুধু একটি 'আর'। তালিকা শেষ হয় ৮০:৩২ আয়াতে: তোমাদের ও তোমাদের পশুদের ভোগের জন্য, মাতা'আল লাকুম ওয়া লিআন'আমিকুম। মুয়াসসারের ভাবার্থও শেষ হয় একইভাবে, এমন জিনিস যা তোমরা ও তোমাদের পশুরা ভোগ করো। হুবহু এই কথাটি ৭৯:৩৩ আয়াতের শেষেও আছে, আর সেখানকার লেখায় তা নিয়ে আলোচনা হয়েছে। এখানে এটুকু দেখাই যথেষ্ট যে ৮০:২৮ আয়াত আগেই দুটিকে পাশাপাশি বসিয়ে দিয়েছে।"
+          },
+          {
+            "en": "The same sentence that holds the grapes holds the fodder, and both rest on one verb with Allah as its subject. A reader looking at his food is shown his own fruit and, in the same breath, the crop that feeds the animals he keeps or depends on. The verse makes no ranking between them. Each is counted under We caused to grow, and both lead on to the provision of 80:32, which is addressed to the people and names their livestock with them.",
+            "bn": "যে বাক্যে আঙুর আছে, সেই বাক্যেই আছে পশুখাদ্য। আর দুটোই একটি ক্রিয়ার ওপর দাঁড়িয়ে, যার কর্তা আল্লাহ। নিজের খাবারের দিকে যে তাকায়, তাকে দেখানো হয় তার নিজের ফল। একই নিঃশ্বাসে দেখানো হয় সেই ফসলও, যা খেয়ে বাঁচে তার পালিত বা তার কাজে লাগা পশুরা। আয়াতটি দুটির মধ্যে কোনো ক্রম বাঁধে না। দুটোই গোনা হয়েছে 'আমি উৎপন্ন করলাম'-এর অধীনে। আর দুটোই গিয়ে মেলে ৮০:৩২ আয়াতের রিযিকে, যা মানুষকে সম্বোধন করে আর তাদের পশুদের নামও তাদের সঙ্গে নেয়।"
+          },
+          {
+            "en": "None of the tafsir texts fetched for this verse attaches a hadith to it, and none gives an occasion of revelation, so this article rests on the commentators' glosses alone. What they offer is narrow and concrete: a vine, a green crop cut and cut again, and a difference over one word kept open. The passage's larger role, as both a reminder of favour and an argument for the raising of the dead, is taken up in the articles on 80:24 and 80:25.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, আর কোনো শানে নুযূলও উল্লেখ করেনি। তাই এই লেখা কেবল তাফসীরকারদের শব্দব্যাখ্যার ওপরই দাঁড়িয়ে। তাঁরা যা দেন তা সীমিত, কিন্তু স্পষ্ট: একটি লতা, বারবার কাটা এক সবুজ ফসল, আর একটি শব্দ নিয়ে মতভেদ, যা খোলাই রাখা হয়েছে। পুরো অংশটির বড় ভূমিকা, অর্থাৎ একদিকে নিয়ামতের কথা মনে করানো আর অন্যদিকে মৃতদের পুনরুত্থানের প্রমাণ, তা নিয়ে আলোচনা আছে ৮০:২৪ ও ৮০:২৫ আয়াতের লেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks for the Plain Crop",
+          "bn": "সাদামাটা ফসলের শুকরিয়া"
+        },
+        "p": [
+          {
+            "en": "A reader today may never have cut fodder or seen qatt stacked for sale. The verse still reaches him. Whatever comes to a person from livestock, from milk to the work of an animal, begins with what that animal was fed, and a crop grown for animals is listed here among the things Allah made grow, beside the grapes. The look that 80:24 asks for can therefore run further back than the plate, past the herd to the field that fed it.",
+            "bn": "আজকের পাঠক হয়তো কোনোদিন পশুর জন্য ঘাস কাটেননি, বিক্রির জন্য সাজানো কাত্তের স্তূপও দেখেননি। তবু আয়াতটি তাঁর কাছে পৌঁছায়। পশু থেকে মানুষ যা পায়, দুধ থেকে শুরু করে পশুর খাটুনি পর্যন্ত, তার শুরু সেই পশুকে যা খাওয়ানো হয়েছে তা থেকে। আর পশুর জন্য ফলানো এক ফসল এখানে আঙুরের পাশে সেই জিনিসগুলোর তালিকায় এসেছে, যা আল্লাহ উৎপন্ন করেছেন। ৮০:২৪ আয়াত যে তাকানোর কথা বলে, তা তাই প্লেট ছাড়িয়ে আরও পেছনে যেতে পারে, পশুপাল পেরিয়ে সেই মাঠ পর্যন্ত, যা তাদের খাইয়েছে।"
+          },
+          {
+            "en": "The root of the word adds a quieter picture. A plant named for being cut is a plant expected to come back. The commentators describe it as cut on all the days, cut after it appears time after time, herbs that grow again from the root. A reader may hold that beside the things cut away in his own life without making the verse speak about them: the cutting happens, and the growing again stands under the same verb as the grapes, We caused to grow.",
+            "bn": "শব্দটির মূল ধাতু আরও একটি নিঃশব্দ ছবি যোগ করে। কাটা থেকে যে গাছের নাম, তার কাছ থেকে আশা করা হয় সে আবার ফিরে আসবে। তাফসীরকারেরা একে বলেছেন প্রতিদিন কাটা ফসল, গজিয়ে ওঠার পর বারবার কাটা ফসল, গোড়া থেকে আবার গজানো শাক। পাঠক চাইলে নিজের জীবনের কেটে যাওয়া জিনিসগুলোর পাশে এ ছবি রাখতে পারেন, আয়াতের মুখে সে কথা না বসিয়েই। কাটা পড়ে ঠিকই, কিন্তু আবার গজানোটাও আঙুরের মতো একই ক্রিয়ার অধীনে: আমি উৎপন্ন করলাম।"
+          },
+          {
+            "en": "So the practice this verse suggests is modest. At the next meal, name one thing on the plate, and then name what fed it or what it grew from. Thank Allah for the grapes and also for the plain green crop that nobody admires, because the verse counts both. And when a word of the Qur'an carries more than one reading from the early authorities, as qadb does, let the range stand as the commentators left it, and take from each reading what it gives.",
+            "bn": "এ আয়াত তাই খুব সাধারণ একটি অভ্যাসের দিকে ইশারা করে। পরের বার খেতে বসে প্লেটের একটি জিনিসের নাম নিন। তারপর ভাবুন, সেটা কী খেয়ে বড় হয়েছে বা কী থেকে জন্মেছে। আঙুরের জন্য আল্লাহর শুকরিয়া আদায় করুন, আর সেই সাদামাটা সবুজ ফসলের জন্যও, যার দিকে কেউ ফিরেও তাকায় না। কারণ আয়াত দুটোকেই গুনেছে। আর কুরআনের কোনো শব্দের যখন আগের যুগের আলেমদের কাছ থেকে একাধিক ব্যাখ্যা আসে, যেমন এসেছে কাদবের বেলায়, তখন তাফসীরকারেরা পরিসরটা যেভাবে রেখে গেছেন সেভাবেই থাকতে দিন। প্রতিটি ব্যাখ্যা যা দেয়, তা গ্রহণ করুন।"
+          }
+        ]
+      }
+    ]
+  },
   "80:33": {
     "sections": [
       {
