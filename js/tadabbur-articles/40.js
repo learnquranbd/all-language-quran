@@ -2695,6 +2695,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:75": {
+    "sections": [
+      {
+        "h": {
+          "en": "Spoken After the Shackles",
+          "bn": "বেড়ি আর শিকলের পরের কথা"
+        },
+        "p": [
+          {
+            "en": "This verse closes a scene. In 40:71 and 40:72 the deniers are dragged in collars and chains, through boiling water and then into the Fire. In 40:73 and 40:74 they are asked where the partners they used to worship have gone, and they answer that those partners have vanished from them, and then that they never used to call on anything at all. Then comes dhālikum, that is. The word looks back over everything just described and gives its cause.",
+            "bn": "এ আয়াতে একটি দৃশ্যের সমাপ্তি। ৪০:৭১ ও ৪০:৭২ আয়াতে অস্বীকারকারীদের গলায় বেড়ি আর শিকল পরিয়ে টেনে নেওয়া হয়, প্রথমে ফুটন্ত পানিতে, তারপর আগুনে। ৪০:৭৩ ও ৪০:৭৪ আয়াতে তাদের জিজ্ঞেস করা হয়, যাদের তোমরা শরিক করতে তারা কোথায়? তারা বলে, ওরা আমাদের কাছ থেকে হারিয়ে গেছে। তারপর বলে, আমরা তো আগে কিছুকেই ডাকতাম না। এরপর আসে যালিকুম, অর্থাৎ এই যে। শব্দটি এতক্ষণ যা বর্ণিত হলো তার সবটার দিকে ফিরে তাকায় এবং তার কারণ বলে দেয়।"
+          },
+          {
+            "en": "Who says it? Ibn Kathir answers directly: the angels say to them that what they are in now is the recompense for their exulting in the world without right. As-Sa'di and al-Qurtubi keep the verb impersonal, it will be said to the people of the Fire, and al-Qurtubi names its purpose as rebuke. At-Tabari reads it in Allah's own voice: this which We have done to you today, O people, in punishing you. The commentators differ on the speaker; none of them differs on the reason the sentence gives.",
+            "bn": "কথাটা কে বলছে? ইবন কাসীর সোজা উত্তর দেন: ফেরেশতারা তাদের বলবে, তোমরা এখন যার মধ্যে আছ, তা দুনিয়ায় অন্যায়ভাবে উল্লাস করার প্রতিফল। সা'দী ও কুরতুবী বক্তার নাম নেন না, শুধু বলেন, জাহান্নামবাসীদের বলা হবে। কুরতুবী এর উদ্দেশ্যও জানান: ভর্ৎসনা। তাবারী আয়াতটি পড়েন আল্লাহর নিজের কণ্ঠে: হে লোকেরা, আজ তোমাদের শাস্তি দিয়ে আমরা যা করলাম, তা এই কারণে। বক্তা কে, তা নিয়ে তাফসীরকারদের মত ভিন্ন। কিন্তু বাক্যটি যে কারণ বলছে, তা নিয়ে কারও মতভেদ নেই।"
+          },
+          {
+            "en": "Al-Baghawi and al-Muyassar make the pointer plain: dhālikum is the punishment that has come down upon you. Al-Muyassar adds a word that frames the whole verse. All this, it says, came because of the heedlessness, ghafla, in which you lived your worldly life. So the sentence brings no new torment. It is an explanation, given at the one point where an explanation can no longer change anything, and that is exactly why it is worth hearing while it still can.",
+            "bn": "বাগাভী ও মুয়াসসার ইঙ্গিতটা পরিষ্কার করে দেন: যালিকুম মানে তোমাদের উপর যে শাস্তি নেমেছে। মুয়াসসার এমন একটি শব্দ যোগ করে, যা গোটা আয়াতের কাঠামো ঠিক করে দেয়। সে বলে, এসব এসেছে দুনিয়ার জীবনে তোমাদের গাফলতের কারণে। তাই বাক্যটি নতুন কোনো শাস্তি আনে না। এ এক ব্যাখ্যা, যা দেওয়া হচ্ছে ঠিক সেই মুহূর্তে, যখন ব্যাখ্যা শুনে আর কিছুই বদলানো যায় না। আর সেজন্যই কথাটা শুনে রাখা দরকার এখন, যখন এখনো বদলানো যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Habits, Not a Single Moment",
+          "bn": "এক মুহূর্ত নয়, অভ্যাস"
+        },
+        "p": [
+          {
+            "en": "The cause arrives in two clauses, each opened the same way: bimā kuntum, because you used to. Kuntum joined to a present-tense verb describes what someone kept doing, a habit rather than a single act. The charge is not one evening of laughter or one proud gesture. It is a way of living, carried on for years. The two Arabic verbs, tafraḥūn and tamraḥūn, also sound alike: they share two of their three root letters, f-r-ḥ and m-r-ḥ, so that the second seems to grow out of the first.",
+            "bn": "কারণটি এসেছে দুটি বাক্যাংশে, আর দুটিই শুরু হয়েছে একইভাবে: বিমা কুনতুম, কারণ তোমরা করতে। আরবিতে কুনতুমের সঙ্গে বর্তমান কালের ক্রিয়া জুড়লে বোঝায় এমন কাজ, যা কেউ করেই যেত। একবারের ঘটনা নয়, অভ্যাস। তাই অভিযোগটা এক সন্ধ্যার হাসি বা একবারের দম্ভ নিয়ে নয়। অভিযোগ এক জীবনযাপন নিয়ে, যা বছরের পর বছর চলেছে। আরবি ক্রিয়া দুটি, তাফরাহূন ও তামরাহূন, শুনতেও কাছাকাছি। তাদের তিনটি মূল অক্ষরের দুটি এক: ফ-র-হ আর ম-র-হ। মনে হয়, দ্বিতীয়টি যেন প্রথমটি থেকেই গজিয়ে উঠেছে।"
+          },
+          {
+            "en": "Fī al-arḍ, on the earth, names where the habit lived. Ibn Kathir and at-Tabari both turn it into fī ad-dunyā, in the world, so that the joy belongs to the passing life and the verdict on it is spoken in the lasting one. The same phrase stands beside marah in the command of 17:37, do not walk on the earth exultantly, and al-Qurtubi, reaching tamraḥūn here, sends the reader back to what he explained there. This verse adds the place where such a walk ends up.",
+            "bn": "ফিল আরদ, পৃথিবীতে। অভ্যাসটা কোথায় চলত, শব্দ দুটি তা জানায়। ইবন কাসীর ও তাবারী দুজনেই এর অর্থ করেন ফিদ দুনইয়া, দুনিয়ায়। ফলে আনন্দটা ছিল নশ্বর জীবনের, আর তার রায় শোনানো হচ্ছে স্থায়ী জীবনে। ১৭:৩৭ আয়াতের আদেশেও একই শব্দবন্ধ মারাহের পাশে দাঁড়িয়ে আছে: পৃথিবীতে দম্ভভরে হেঁটো না। কুরতুবী এখানে তামরাহূনে পৌঁছে পাঠককে সেখানকার ব্যাখ্যার দিকেই ফিরিয়ে দেন। এ আয়াত যোগ করে, এমন হাঁটা শেষে কোথায় গিয়ে থামে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glad at the Wrong Things",
+          "bn": "ভুল জিনিসে খুশি"
+        },
+        "p": [
+          {
+            "en": "Bi-ghayri al-ḥaqq, without right, is the hinge of the first clause. At-Tabari explains it as joy in what Allah had not permitted you, of falsehood and acts of disobedience. On his reading the phrase does not measure how much they rejoiced. It names what they rejoiced in. Al-Muyassar says the same in plainer words: you used to be glad at the sins and wrongs you committed. The fault sits in the object of the joy, and the joy simply showed where the heart had already gone.",
+            "bn": "বিগাইরিল হক, অন্যায়ভাবে। প্রথম বাক্যাংশের মূল কব্জা এই শব্দবন্ধ। তাবারী এর ব্যাখ্যা দেন: বাতিল আর নাফরমানির যে বিষয়ে আল্লাহ তোমাদের অনুমতি দেননি, তাতে আনন্দ। তাঁর পাঠে শব্দবন্ধটি আনন্দের মাত্রা মাপে না। কিসে আনন্দ, তার নাম বলে। মুয়াসসার একই কথা বলে আরও সহজ ভাষায়: তোমরা যে গুনাহ আর অন্যায় করতে, তাতে খুশি হতে। দোষটা তাই আনন্দের বিষয়ে। আনন্দ শুধু দেখিয়ে দিয়েছে, অন্তর আগেই কোন দিকে চলে গিয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi gives two readings. On the first, it was the gladness you displayed in the world at disobedience, and at abundant wealth, followers and health. On the second, introduced as it has been said, their joy was the claim they made to the messengers: we know that we will not be raised and not be punished. He notes that Mujahid said the like on 40:83, where the messengers come with clear proofs and their peoples rejoice in the knowledge they already have.",
+            "bn": "কুরতুবী দুটি ব্যাখ্যা দেন। প্রথমটি অনুযায়ী, এ সেই খুশি যা তোমরা দুনিয়ায় দেখাতে নাফরমানিতে, আর প্রচুর ধনসম্পদ, অনুসারী ও সুস্বাস্থ্যে। দ্বিতীয়টি তিনি আনেন 'বলা হয়েছে' কথাটি দিয়ে: তাদের আনন্দ ছিল রাসূলদের কাছে করা সেই দাবি, আমরা জানি, আমাদের আবার ওঠানো হবে না, শাস্তিও দেওয়া হবে না। তিনি উল্লেখ করেন, ৪০:৮৩ আয়াতের ব্যাপারে মুজাহিদও এমন কথা বলেছেন। সেখানে রাসূলরা স্পষ্ট প্রমাণ নিয়ে আসেন, আর তাদের জাতি নিজেদের কাছে থাকা জ্ঞান নিয়েই উল্লসিত থাকে।"
+          },
+          {
+            "en": "As-Sa'di reaches for the same verse. You rejoiced, he says, in the falsehood you were upon, and in the kinds of knowledge with which you opposed the knowledge of the messengers, and he quotes 40:83 as the words of the end of this very surah. So two commentators find inside this exultation a particular confidence: the satisfaction of people who thought what they already knew was enough, and who were glad of it precisely because it let them set revelation aside.",
+            "bn": "সা'দীও একই আয়াতের দিকে হাত বাড়ান। তিনি বলেন, তোমরা আনন্দ করতে তোমাদের বাতিল অবস্থান নিয়ে, আর সেইসব জ্ঞান নিয়ে, যা দিয়ে তোমরা রাসূলদের জ্ঞানের বিরোধিতা করতে। এরপর তিনি ৪০:৮৩ আয়াত উদ্ধৃত করেন, এই সূরারই শেষ দিকের কথা হিসেবে। ফলে দুজন তাফসীরকার এ উল্লাসের ভেতরে একটা বিশেষ ধরনের আত্মবিশ্বাস খুঁজে পান। নিজের জানা জিনিসকেই যারা যথেষ্ট ভাবত, এ তাদের তৃপ্তি। আর তারা খুশি ছিল ঠিক এ কারণেই যে, সেই জানা তাদের ওহিকে পাশে সরিয়ে রাখতে দিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Verb Qualified, One Bare",
+          "bn": "এক ক্রিয়ায় শর্ত, অন্যটিতে নয়"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an notices what the wording does. Without right is attached to the first verb only. Farah, it explains, has a lawful degree: to take the good things of life as blessings from Allah and to show joy at having them, which is permissible and even recommended, and it points to 10:58 for that kind. So the first verb needed a qualifier to mark which joy is meant. Marah, by contrast, is a cause of punishment without restriction, and so no qualifying words were added to it.",
+            "bn": "শব্দচয়নের একটি সূক্ষ্মতা মাআরিফুল কুরআনের চোখে পড়ে। 'অন্যায়ভাবে' কথাটি শুধু প্রথম ক্রিয়ার সঙ্গে জোড়া। তার ব্যাখ্যা অনুযায়ী, ফারাহের একটি বৈধ স্তর আছে: জীবনের ভালো জিনিসগুলোকে আল্লাহর নিয়ামত হিসেবে গ্রহণ করা আর সেগুলো পেয়ে খুশি প্রকাশ করা। এটা জায়েয, এমনকি মুস্তাহাব। এ ধরনের আনন্দের উদাহরণ হিসেবে সে ১০:৫৮ আয়াতের দিকে ইঙ্গিত করে। তাই কোন আনন্দের কথা হচ্ছে, তা চিহ্নিত করতে প্রথম ক্রিয়ায় একটি শর্ত দরকার হয়েছিল। মারাহ কিন্তু কোনো শর্ত ছাড়াই শাস্তির কারণ। তাই তার সঙ্গে কোনো শব্দ জোড়া হয়নি।"
+          },
+          {
+            "en": "The same commentary states the consequence in both directions. Jubilating over what is undue and impermissible is forbidden; being pleased with blessings that are rightful and permissible, as an expression of gratitude, is an act of worship that earns reward. As-Sa'di draws the line in his own terms. What this verse condemns, he says, is the blameworthy joy that brings punishment, unlike the praiseworthy joy of 10:58, which he identifies as joy in beneficial knowledge and righteous action. He also sets Qarun's people's warning in 28:76 beside this verse.",
+            "bn": "একই তাফসীর ফলাফলটা দুই দিক থেকেই বলে দেয়। অন্যায় আর অবৈধ জিনিস নিয়ে উল্লাস হারাম। আর হক ও বৈধ নিয়ামতে শুকরিয়ার প্রকাশ হিসেবে খুশি হওয়া ইবাদত, যাতে সওয়াব আছে। সা'দী সীমারেখাটা টানেন নিজের ভাষায়। তাঁর মতে, এ আয়াত যার নিন্দা করে তা নিন্দনীয় আনন্দ, যা শাস্তি ডেকে আনে। এর বিপরীতে আছে ১০:৫৮ আয়াতের প্রশংসনীয় আনন্দ, আর তিনি তা চিহ্নিত করেন উপকারী জ্ঞান ও নেক আমলে আনন্দ হিসেবে। কারূনকে তার জাতির দেওয়া সতর্কবাণী, ২৮:৭৬ আয়াত, তিনি এ আয়াতের পাশেই রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Insolence, Elation and Swagger",
+          "bn": "ঔদ্ধত্য, মত্ততা আর দেমাক"
+        },
+        "p": [
+          {
+            "en": "For tamraḥūn the glosses cluster tightly. At-Tabari defines marah in a single phrase: it is al-ashar wa al-baṭar, insolence and wanton pride. He then gives Mujahid's reading, with its chain, as tabṭarūn wa ta'sharūn, and as-Suddi's, shorter still, as tabṭarūn. Al-Qurtubi carries Mujahid's gloss too, adding and others. The Arabic Ibn Kathir does the same with nouns, naming the punishment the recompense for your marah, your ashar and your baṭar. Whatever the precise shade, every early gloss reaches for the same family of words.",
+            "bn": "তামরাহূনের ব্যাখ্যাগুলো একে অপরের খুব কাছাকাছি। তাবারী মারাহের সংজ্ঞা দেন এক কথায়: আল-আশার ওয়াল বাতার, অর্থাৎ ঔদ্ধত্য আর বেপরোয়া অহংকার। এরপর সনদসহ মুজাহিদের ব্যাখ্যা আনেন: তাবতারূনা ওয়া তা'শারূন। সুদ্দীর ব্যাখ্যা আরও ছোট: তাবতারূন। কুরতুবীও মুজাহিদের এই ব্যাখ্যা আনেন, সঙ্গে বলেন 'এবং অন্যরা'। আরবি ইবন কাসীর একই কাজ করেন বিশেষ্য দিয়ে: এ শাস্তি তোমাদের মারাহ, আশার আর বাতারের প্রতিফল। সূক্ষ্ম পার্থক্য যা-ই থাক, প্রথম যুগের প্রতিটি ব্যাখ্যা একই শব্দপরিবারের দিকে হাত বাড়ায়।"
+          },
+          {
+            "en": "Al-Baghawi distributes the words differently. He glosses tafraḥūn, the first verb, as tabṭarūn wa ta'sharūn, and tamraḥūn, the second, as tafraḥūn wa takhtālūn: you exult and you swagger. Takhtālūn comes from the root kh-y-l, the root of the mukhtāl, the conceited one, whom 31:18 says Allah does not love, right after forbidding a walk on the earth exultantly. In his short gloss the two verbs almost merge, and the second gains a gait.",
+            "bn": "বাগাভী শব্দগুলো ভাগ করেন অন্যভাবে। প্রথম ক্রিয়া তাফরাহূনের ব্যাখ্যা তিনি দেন তাবতারূনা ওয়া তা'শারূন দিয়ে। আর দ্বিতীয় ক্রিয়া তামরাহূনের ব্যাখ্যা দেন তাফরাহূনা ওয়া তাখতালূন দিয়ে: তোমরা উল্লাস করতে আর দেমাক দেখিয়ে চলতে। তাখতালূন এসেছে খ-য়-ল ধাতু থেকে, আর মুখতাল, অর্থাৎ দাম্ভিক, শব্দটিও একই ধাতুর। ৩১:১৮ আয়াত পৃথিবীতে দম্ভভরে হাঁটতে নিষেধ করেই বলে, আল্লাহ কোনো মুখতালকে ভালোবাসেন না। বাগাভীর ছোট্ট ব্যাখ্যায় ক্রিয়া দুটি প্রায় মিলে যায়, আর দ্বিতীয়টি পায় একটা হাঁটার ভঙ্গি।"
+          },
+          {
+            "en": "A report at-Tabari carries from Ibn 'Abbas reads the whole passage, from this verse to wretched is the abode of the arrogant, as one fault. Farah and marah, he says, are boasting and conceit, al-fakhr wa al-khuyalā', and acting on the earth with sin, and that was in shirk. He compares the words to Qarun in 28:76, do not exult, and adds again that this too was in shirk. For Ibn 'Abbas the exultation of this verse was not ordinary high spirits; it was self-glorification resting on association with Allah.",
+            "bn": "তাবারী ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন, যা এ আয়াত থেকে 'দাম্ভিকদের আবাস কত নিকৃষ্ট' পর্যন্ত পুরো অংশটিকে একটি দোষ হিসেবে পড়ে। তিনি বলেন, ফারাহ আর মারাহ হলো আল-ফাখর ওয়াল খুয়ালা, বড়াই আর দেমাক, এবং পৃথিবীতে গুনাহের কাজ করা। আর এসব ছিল শিরকের ভেতরে। তিনি এর তুলনা করেন ২৮:৭৬ আয়াতে কারূনকে বলা কথার সঙ্গে, 'উল্লাস কোরো না', এবং আবার বলেন, সেটাও ছিল শিরকের ক্ষেত্রে। ইবন আব্বাস (রাঃ)-এর কাছে এ আয়াতের উল্লাস সাধারণ ফুর্তি নয়। এ ছিল শিরকের উপর দাঁড়ানো আত্মগৌরব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Strut Lands on Others",
+          "bn": "দম্ভ যখন অন্যের ঘাড়ে পড়ে"
+        },
+        "p": [
+          {
+            "en": "A second strand reads marah as something done to people. Al-Qurtubi reports ad-Dahhak drawing a clean line between the two verbs: farah is gladness, surūr, and marah is aggression, 'udwān. As-Sa'di takes the same direction. You used to strut against the servants of Allah, he says, in transgression and aggression, in wrongdoing and disobedience. Al-Muyassar joins the strands in one sentence: the insolence and wanton pride you lived in, and your transgression against the servants of Allah.",
+            "bn": "আরেকটি ধারায় মারাহ মানে মানুষের সঙ্গে করা আচরণ। কুরতুবী দাহহাকের বক্তব্য আনেন, যিনি দুই ক্রিয়ার মধ্যে পরিষ্কার রেখা টানেন: ফারাহ হলো খুশি, সুরূর, আর মারাহ হলো বাড়াবাড়ি ও আগ্রাসন, উদওয়ান। সা'দীও একই দিকে যান। তিনি বলেন, তোমরা আল্লাহর বান্দাদের উপর দম্ভ দেখাতে, সীমালঙ্ঘন আর আগ্রাসন করে, জুলুম আর নাফরমানি করে। মুয়াসসার দুই ধারাকে এক বাক্যে মিলিয়ে দেয়: তোমরা যে ঔদ্ধত্য আর বেপরোয়া অহংকারে ডুবে ছিলে, আর আল্লাহর বান্দাদের উপর যে সীমালঙ্ঘন করতে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives the English sense in the same spirit: to exult unduly, or to trample over the rights of others by priding oneself on wealth and power. The two strands do not contradict each other. One describes a bearing, the other what that bearing does once it meets someone weaker. Read with as-Sa'di and ad-Dahhak, the verse counts the treatment of people among the reasons given at the gate, alongside the false partners of 40:73 and 40:74.",
+            "bn": "মাআরিফুল কুরআন ইংরেজিতে একই সুরে অর্থ দেয়: সীমা ছাড়িয়ে উল্লাস করা, কিংবা ধন আর ক্ষমতার গর্বে অন্যের হক পায়ে মাড়ানো। দুই ধারা পরস্পরবিরোধী নয়। একটি বলে একটা চালচলনের কথা। অন্যটি বলে, সেই চালচলন দুর্বল কারও মুখোমুখি হলে কী করে। সা'দী আর দাহহাকের পাঠ ধরে পড়লে দেখা যায়, দরজার মুখে যে কারণগুলো শোনানো হয়, তার মধ্যে মানুষের সঙ্গে আচরণও আছে। আছে ৪০:৭৩ ও ৪০:৭৪ আয়াতের মিথ্যা শরিকদের পাশাপাশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Name the Next Verse Gives",
+          "bn": "পরের আয়াত যে নাম দেয়"
+        },
+        "p": [
+          {
+            "en": "The sentence that follows in 40:76 opens the gates: enter the gates of Hell to abide in it, and wretched is the abode of the arrogant, al-mutakabbirīn. The exultation and the strut of this verse receive their name there. Ibn Kathir explains the arrogant as those who arrogantly turned from Allah's signs and refused to accept His proof and evidence. That is why Ibn 'Abbas's report, quoted above, runs straight on from this verse into the next: the two verses describe one disease and its end.",
+            "bn": "৪০:৭৬ আয়াতের পরের বাক্যটি দরজা খুলে দেয়: জাহান্নামের দরজাগুলো দিয়ে ঢুকে পড়ো, চিরকাল সেখানে থাকার জন্য। আর আল-মুতাকাব্বিরীন, দাম্ভিকদের আবাস কত নিকৃষ্ট! এ আয়াতের উল্লাস আর দম্ভ সেখানে এসে তাদের নাম পায়। ইবন কাসীর দাম্ভিকদের ব্যাখ্যা দেন এভাবে: যারা অহংকার করে আল্লাহর নিদর্শন থেকে মুখ ফিরিয়েছে, আর তাঁর প্রমাণ ও দলিল গ্রহণ করতে অস্বীকার করেছে। এ কারণেই ওপরে উদ্ধৃত ইবন আব্বাস (রাঃ)-এর বর্ণনা এ আয়াত থেকে সরাসরি পরের আয়াতে চলে যায়। দুটি আয়াত একই রোগ আর তার পরিণতির বর্ণনা।"
+          },
+          {
+            "en": "No tafsir consulted here attaches a sound hadith to this verse. Al-Qurtubi relays one narration from Mu'adh, that Allah dislikes the vain and the exultant, but he takes it from al-Mawardi without naming a collection or giving any grading, so it is not leaned on here. What the verse itself supplies is enough: a reason spoken at the gate, in words plain enough that anyone can carry them back to the life still being lived.",
+            "bn": "এখানে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না। কুরতুবী মুআয (রাঃ) থেকে একটি বর্ণনা আনেন, আল্লাহ গর্বিত আর উল্লসিতদের অপছন্দ করেন। কিন্তু তিনি তা নিয়েছেন মাওয়ারদী থেকে, কোনো হাদীসগ্রন্থের নাম বা মান না জানিয়ে। তাই এখানে তার উপর ভর দেওয়া হয়নি। আয়াত নিজে যা দেয়, তা-ই যথেষ্ট: দরজার মুখে বলা এক কারণ, এত সহজ ভাষায় যে যে-কেউ তা নিজের চলমান জীবনে ফিরিয়ে নিয়ে যেতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighing My Own Gladness",
+          "bn": "নিজের খুশিকে মেপে দেখা"
+        },
+        "p": [
+          {
+            "en": "First, what the verse does not do. It describes what the text describes: words spoken to the people of the Fire, after their denial and their association of partners with Allah. It licenses nothing against any living person or community. No one may hear another's laughter, or watch another's success, and hand them this verse. Its only proper use is inward, as a question each reader puts to his or her own heart while the answer can still be changed.",
+            "bn": "প্রথমে দেখা দরকার, আয়াতটি কী করে না। আয়াত শুধু তা-ই বর্ণনা করে, যা তার ভাষ্যে আছে: অস্বীকার আর আল্লাহর সঙ্গে শরিক করার পর জাহান্নামবাসীদের বলা কিছু কথা। কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কারও হাসি শুনে কিংবা কারও সাফল্য দেখে তার গায়ে এ আয়াত সেঁটে দেওয়ার অধিকার কারও নেই। এর একমাত্র সঠিক ব্যবহার নিজের ভেতরে। প্রত্যেক পাঠক নিজের অন্তরকে প্রশ্নটা করবেন, যতক্ষণ উত্তর বদলানোর সময় আছে।"
+          },
+          {
+            "en": "The commentators give the test plainly: what does the joy rest on? Joy in beneficial knowledge and good deeds, as-Sa'di says, is praised; Ma'arif counts pleasure in rightful blessings, taken as gratitude, as worship. Joy in what Allah has not permitted is the kind named here. Al-Qurtubi's list is a warning that ordinary goods, wealth, followers and health, can become the occasion of it. So I can ask of any pleasure: is it permitted, and does it end in thanks?",
+            "bn": "তাফসীরকারেরা পরীক্ষাটা দেন সোজা কথায়: আনন্দটা দাঁড়িয়ে আছে কিসের উপর? সা'দী বলেন, উপকারী জ্ঞান আর নেক আমলে আনন্দ প্রশংসনীয়। মাআরিফুল কুরআন হক নিয়ামতে শুকরিয়া হিসেবে খুশি হওয়াকে ইবাদত গণ্য করে। আর আল্লাহ যার অনুমতি দেননি, তাতে আনন্দই এখানে নিন্দিত। কুরতুবীর তালিকা এক সতর্কবার্তা: ধনসম্পদ, অনুসারী আর সুস্বাস্থ্যের মতো সাধারণ নিয়ামতও এমন আনন্দের উপলক্ষ হয়ে উঠতে পারে। তাই যেকোনো মজার বেলায় নিজেকে জিজ্ঞেস করা যায়: এটা কি বৈধ? আর এর শেষ কি শুকরিয়ায়?"
+          },
+          {
+            "en": "The second verb asks about arrogance. Good days show somewhere: in a walk, in the tone of a reply, in whose turn gets skipped. Ad-Dahhak's word, aggression, turns the question outward. Does my good fortune make me gentler with people, or harder on them? The verse gives its reason at the very moment when hearing it can help no one. Heard now, it still can, and the remedy it points to is joy that stays thankful and a bearing that stays lowly.",
+            "bn": "দ্বিতীয় ক্রিয়াটি প্রশ্ন তোলে অহংকার নিয়ে। ভালো দিন কোথাও না কোথাও ধরা পড়ে: হাঁটার ভঙ্গিতে, উত্তরের সুরে, কার পালা বাদ পড়ে গেল তাতে। দাহহাকের শব্দ, আগ্রাসন, প্রশ্নটাকে বাইরের দিকে ঘুরিয়ে দেয়। আমার সৌভাগ্য কি আমাকে মানুষের প্রতি আরও কোমল করে, নাকি আরও কঠোর? আয়াতটি কারণ শোনায় সেই মুহূর্তে, যখন শুনে আর কারও উপকার হয় না। এখন শুনলে উপকার আছে। আর এর ইঙ্গিত করা প্রতিকার হলো এমন আনন্দ, যা শুকরিয়ায় থাকে, আর এমন চলন, যা বিনয়ী থাকে।"
+          }
+        ]
+      }
+    ]
+  },
   "40:78-79": {
     "sections": [
       {

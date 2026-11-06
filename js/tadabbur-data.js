@@ -26469,6 +26469,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Accept now what the messengers brought, sincere worship and belief in the return, because what is denied today will be known anyway, at a time when knowing no longer helps.",
     "lessonBn": "রসূলেরা যা এনেছেন, খাঁটি ইবাদত আর ফিরে যাওয়ার উপর বিশ্বাস, তা এখনই মেনে নিন। আজ যা অস্বীকার করা হয়, তা একদিন জানা হবেই, তবে তখন জানায় আর কোনো লাভ থাকবে না।"
+  },
+  "40:75": {
+    "reflectionEn": "Some laughter is light and some is heavy. This verse is spoken to people already inside the Fire, and it names the reason in two habits: they used to exult on the earth without right, and they used to strut. Joy itself is not what is condemned. Gladness at Allah's favour, and at what pleases Him, is something the Qur'an commands elsewhere. What is named here is a joy that rested on what was never permitted, and a swagger that walked over other people. The verse describes them, not anyone I know, so it hands me no one to point at. It hands me a question instead. What do I laugh at, what makes me feel tall, and who pays for it?",
+    "reflectionBn": "কিছু হাসি হালকা, কিছু হাসি ভারী। এ আয়াতের কথাগুলো বলা হচ্ছে তাদের, যারা ইতিমধ্যে আগুনের ভেতরে। কারণটা আয়াত দুটি অভ্যাসে বলে দেয়: তারা পৃথিবীতে অন্যায়ভাবে উল্লাস করত, আর দম্ভে বুক ফুলিয়ে চলত। আনন্দ নিজে এখানে দোষী নয়। আল্লাহর অনুগ্রহে আর তাঁর পছন্দের কাজে খুশি হওয়ার কথা কুরআন অন্যত্র নিজেই বলেছে। এখানে যার নাম এসেছে, সে এমন আনন্দ, যার ভিত ছিল অনুমতিহীন জিনিসের উপর। আর এমন দম্ভ, যা অন্য মানুষকে মাড়িয়ে চলত। আয়াতটি তাদেরই বর্ণনা, আমার চেনা কারও নয়। তাই আঙুল তোলার মতো কাউকে সে আমার হাতে দেয় না। দেয় একটা প্রশ্ন। আমি কিসে হাসি, কিসে নিজেকে বড় মনে হয়, আর তার দাম দেয় কে?",
+    "pointsEn": [
+      "What was the last thing that made me truly glad, and would I be at ease naming it before Allah?",
+      "Is there a pleasure I keep going back to that I already know He has not permitted?",
+      "When things go well for me, does it show in thanks, or in the way I walk, speak and look at people?",
+      "Has my confidence ever cost someone else their right, their turn or their dignity?",
+      "What beneficial knowledge or good deed could I take joy in today, so that my gladness rests on something true?"
+    ],
+    "pointsBn": [
+      "শেষ কোন জিনিসটা আমাকে সত্যিই খুশি করেছিল? আল্লাহর সামনে সেটার নাম নিতে কি আমি স্বস্তি বোধ করব?",
+      "এমন কোনো মজা কি আছে, যার কাছে আমি বারবার ফিরে যাই, অথচ জানি তিনি তার অনুমতি দেননি?",
+      "সময় ভালো গেলে সেটা কোথায় ফুটে ওঠে: শুকরিয়ায়, নাকি আমার হাঁটাচলা, কথাবার্তা আর মানুষের দিকে তাকানোর ভঙ্গিতে?",
+      "আমার আত্মবিশ্বাসের দাম কি কখনো অন্য কাউকে দিতে হয়েছে, তার হক, তার পালা বা তার সম্মান দিয়ে?",
+      "আজ কোন উপকারী জ্ঞান বা কোন নেক আমলে আমি আনন্দ খুঁজে নিতে পারি, যাতে আমার খুশির ভিত সত্যের উপর থাকে?"
+    ],
+    "lessonEn": "Let your joy rest on Allah's favour and on what He permits, and never let good fortune turn into swagger or into overreach against other people.",
+    "lessonBn": "আপনার আনন্দের ভিত হোক আল্লাহর অনুগ্রহ আর তাঁর অনুমোদিত বিষয়। সৌভাগ্যকে কখনো দম্ভে কিংবা অন্য মানুষের উপর বাড়াবাড়িতে পরিণত হতে দেবেন না।"
   }
 };
 
