@@ -27109,6 +27109,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Everyone follows something. Check what you follow against the truth from your Lord, and read the Qur'an's descriptions as a mirror for yourself, not a verdict on others.",
     "lessonBn": "প্রত্যেকেই কিছু না কিছুর পেছনে চলে। আপনি যার পেছনে চলছেন, তাকে রবের কাছ থেকে আসা হকের সঙ্গে মিলিয়ে দেখুন, আর কুরআনের বর্ণনাগুলো অন্যের বিচারের জন্য নয়, নিজের আয়না হিসেবে পড়ুন।"
+  },
+  "47:10": {
+    "reflectionEn": "The verses before this one say that the deeds of those who disliked what Allah revealed came to nothing. Then a question: have they not travelled and seen how it ended for those before them? Allah brought ruin down upon them. The verse does not linger on the ruins. It ends on a short clause aimed at the listener: and for the disbelievers, the like of it. A ruined town is easy to read as someone else's story, finished long ago. This verse will not let it stay finished. It asks me what I am building, and whether it would survive if it were weighed the way their houses and plans were weighed. Before I look at anyone else, I am asked to look at that.",
+    "reflectionBn": "আগের আয়াতগুলো বলেছে, আল্লাহ যা নাজিল করেছেন যারা তা অপছন্দ করেছে, তাদের আমল নিষ্ফল হয়ে গেছে। তারপর এক প্রশ্ন: তারা কি পৃথিবীতে ঘুরে দেখেনি, আগের লোকদের পরিণাম কী হয়েছিল? আল্লাহ তাদের ওপর ধ্বংস নামিয়ে এনেছেন। ধ্বংসস্তূপের সামনে আয়াত বেশিক্ষণ দাঁড়ায় না। শেষ হয় ছোট্ট এক বাক্যাংশে, যা সরাসরি শ্রোতার দিকে তাক করা: আর কাফিরদের জন্য আছে এরই মতো। ভাঙা জনপদকে সহজেই অন্যের পুরোনো গল্প ভেবে বসা যায়, যা বহু আগে চুকে গেছে। এ আয়াত গল্পটাকে চুকে যেতে দেয় না। আমাকে জিজ্ঞেস করে, আমি কী গড়ছি? তাদের ঘরবাড়ি আর পরিকল্পনা যেভাবে মাপা হয়েছিল, সেভাবে মাপা হলে আমার গড়া জিনিস টিকবে তো? অন্য কারও দিকে তাকানোর আগে আমাকে এই প্রশ্নের দিকেই তাকাতে বলা হচ্ছে।",
+    "pointsEn": [
+      "When I read about a people who were ruined, is my first thought about them, about others I dislike, or about myself?",
+      "What am I building this year, in money, plans or reputation, that I would not want weighed the way theirs were?",
+      "The verse sets wasted deeds beside ruined homes. Which of my deeds would still stand if the walls around them fell?",
+      "Is there a warning I have heard so often that I now hear it as a story about other people?",
+      "What would it take for me to treat a single verse of warning as addressed to me today?"
+    ],
+    "pointsBn": [
+      "ধ্বংস হয়ে যাওয়া কোনো জাতির কথা পড়লে আমার প্রথম ভাবনা কাকে নিয়ে হয়: তাদের, আমার অপছন্দের অন্য লোকদের, নাকি নিজেকে?",
+      "এ বছর টাকা, পরিকল্পনা বা সুনামে আমি এমন কী গড়ছি, যা তাদের জিনিসের মতো করে মাপা হোক তা আমি চাইব না?",
+      "আয়াতটি নিষ্ফল আমলকে ভাঙা ঘরবাড়ির পাশে রেখেছে। চারপাশের দেয়াল ধসে পড়লেও আমার কোন আমলগুলো টিকে থাকবে?",
+      "এমন কোনো সতর্কবাণী কি আছে, যা এত বেশি শুনেছি যে এখন সেটাকে অন্যদের গল্প বলে মনে হয়?",
+      "সতর্ক করা একটি আয়াতকেও আজ আমাকেই বলা হচ্ছে বলে ধরে নিতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Read the ruins of those before you as a warning to yourself, and build only what would still stand if it were weighed.",
+    "lessonBn": "আগের লোকদের ধ্বংসস্তূপকে নিজের জন্য সতর্কবাণী হিসেবে পড়ুন, আর এমন কিছুই গড়ুন যা মাপা হলেও টিকে থাকবে।"
   }
 };
 

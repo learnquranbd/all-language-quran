@@ -311,6 +311,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "47:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question After Wasted Deeds",
+          "bn": "নিষ্ফল আমলের পরে এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The two verses just before set the scene. Those who disbelieve, misery for them, and He has made their deeds go astray (47:8); that is because they disliked what Allah revealed, so He rendered their deeds worthless (47:9). Then the surah turns with a question: a-fa-lam yasiru fil-ard, have they not travelled through the land? Al-Qurtubi names the link. Having set out the states of the believer and the disbeliever, as an alert that faith is obligatory, Allah then joined this to looking. Al-Baghawi says it more briefly: then He made the disbelievers afraid.",
+            "bn": "ঠিক আগের দুই আয়াত পটভূমি সাজিয়ে দিয়েছে। যারা কুফরি করে, তাদের জন্য দুর্ভোগ, আর তিনি তাদের আমল পথহারা করে দিয়েছেন (৪৭:৮)। কারণ আল্লাহ যা নাজিল করেছেন তারা তা অপছন্দ করেছে, তাই তিনি তাদের আমল নিষ্ফল করে দিয়েছেন (৪৭:৯)। এরপর সূরা মোড় নেয় এক প্রশ্নে: আফালাম ইয়াসীরূ ফিল আরদ, তারা কি দেশে দেশে ঘুরে বেড়ায়নি? দুই অংশের যোগসূত্র কুরতুবী ধরিয়ে দেন। মুমিন আর কাফিরের অবস্থা আল্লাহ আগে খুলে বলেছেন, যাতে বোঝা যায় ঈমান আনা ফরজ। তারপর সেই কথার সঙ্গে জুড়ে দিয়েছেন চোখ মেলে দেখার আহ্বান। বাগাভী আরও সংক্ষেপে বলেন: এরপর তিনি কাফিরদের ভয় দেখালেন।"
+          },
+          {
+            "en": "The travelling and the looking already have their own pages here: 22:46, 27:69 and 30:9 take up who was being asked, which roads they knew, and what kind of seeing is meant. At-Tabari's note on this verse agrees with them. He calls the question a rebuke, since they used to journey to Syria and see the punishment Allah brought on the people of al-Hijr, Thamud, and to Yemen and see what befell Saba'. This article does not walk those roads again. It stays with the verse's last two clauses: dammara Allahu 'alayhim, and wa lil-kafirina amthaluha.",
+            "bn": "ঘুরে বেড়ানো আর তাকিয়ে দেখার বিষয়টি এখানে আলাদা পাতায় আলোচিত হয়েছে। প্রশ্নটা কাদের করা হয়েছিল, কোন পথ তাদের চেনা ছিল, কেমন দেখা উদ্দেশ্য, এসব নিয়ে আছে ২২:৪৬, ২৭:৬৯ ও ৩০:৯। এ আয়াতে তাবারীর কথাও সেদিকেই যায়। তাঁর মতে প্রশ্নটা আসলে তিরস্কার। কারণ তারা শামে যেত আর হিজরবাসী সামূদের ওপর আল্লাহর নামানো শাস্তির চিহ্ন দেখত, ইয়ামানে যেত আর দেখত সাবার কী দশা হয়েছিল। সে পথে এ লেখা আর হাঁটবে না। এখানে মনোযোগ আয়াতের শেষ দুটি অংশে: দাম্মারাল্লাহু আলাইহিম, আর ওয়া লিলকাফিরীনা আমসালুহা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruin Brought Down Upon Them",
+          "bn": "তাদের ওপর নামানো ধ্বংস"
+        },
+        "p": [
+          {
+            "en": "Dammara Allahu 'alayhim: Allah destroyed upon them. The verb comes with the preposition 'ala, upon, where an English reader might expect a plain object. Al-Qurtubi glosses it with two verbs, ahlakahum wa-sta'salahum: He destroyed them and pulled them out by the root. Then he adds a note on usage. One says dammarahu tadmiran, and one says dammara 'alayhi, and the two carry one meaning. Al-Baghawi needs a single word for the whole clause: ahlakahum, He destroyed them. Neither of them pauses longer over the phrase than that.",
+            "bn": "দাম্মারাল্লাহু আলাইহিম: আল্লাহ তাদের ওপর ধ্বংস নামিয়েছেন। ক্রিয়াটির সঙ্গে এসেছে আলা, অর্থাৎ ওপরে, যেখানে সরাসরি কর্ম থাকলেই চলত বলে মনে হতে পারে। কুরতুবী দুটি ক্রিয়া দিয়ে এর অর্থ বলেন: আহলাকাহুম ওয়াসতা'সালাহুম, তিনি তাদের ধ্বংস করেছেন আর শিকড়সুদ্ধ উপড়ে ফেলেছেন। তারপর ব্যবহার নিয়ে ছোট্ট একটি মন্তব্য করেন। আরবরা দাম্মারাহু তাদমীরান যেমন বলে, দাম্মারা আলাইহি-ও বলে, আর দুটোর অর্থ একই। বাগাভীর কাছে পুরো অংশটার জন্য একটি শব্দই যথেষ্ট: আহলাকাহুম, তিনি তাদের ধ্বংস করেছেন। এর চেয়ে বেশি সময় দুজনের কেউই এ শব্দবন্ধে থামেন না।"
+          },
+          {
+            "en": "That note is worth keeping in mind before building a sermon on a preposition. In English, upon them or over them can call up a roof falling from above. But al-Qurtubi treats the two forms as one meaning, so the weight of the clause does not rest on the 'ala. It rests on the subject. The verse does not say the earlier peoples declined, or were overtaken by circumstance. It names who did it: Allah destroyed them. The ruins the travellers passed were not an accident of history.",
+            "bn": "একটি অব্যয়ের ওপর পুরো বক্তৃতা দাঁড় করানোর আগে মন্তব্যটা মনে রাখা ভালো। বাংলায় ওপরে কথাটা শুনলে চোখে ভাসতে পারে মাথার ওপর ছাদ ভেঙে পড়ার ছবি। তবে কুরতুবী দুই রূপকে একই অর্থের বলে ধরেছেন, তাই বাক্যের ভার আলা-র ওপর নয়। ভার কর্তার ওপর। আয়াত বলছে না যে আগের জাতিগুলো ধীরে ধীরে ক্ষয়ে গেছে, কিংবা পরিস্থিতির চাপে হারিয়ে গেছে। কে করেছেন, তা স্পষ্ট বলা আছে: আল্লাহ তাদের ধ্বংস করেছেন। পথিকেরা যে ধ্বংসাবশেষের পাশ দিয়ে যেত, তা ইতিহাসের কোনো দুর্ঘটনা ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walls, Wealth and Schemes",
+          "bn": "দেয়াল, সম্পদ আর চক্রান্ত"
+        },
+        "p": [
+          {
+            "en": "Destroyed upon them what? The verse leaves the object unspoken, and the English translation printed with the verse fills the gap with a bracket: destroyed [everything] over them. The commentators fill it too, each in his own way. At-Tabari paraphrases the clause as Allah's own question: did We not destroy them, and bring ruin upon their dwellings, and lay them waste? The Muyassar supplies a single object: Allah destroyed their homes upon them, diyarahum. For both, what fell upon the people was first of all the houses they lived in.",
+            "bn": "তাদের ওপর কী ধ্বংস করা হলো? আয়াত তা খুলে বলেনি। আয়াতের সঙ্গে ছাপা ইংরেজি অনুবাদ ফাঁকটা ভরেছে বন্ধনী দিয়ে: তাদের ওপর [সবকিছু] ধ্বংস করে দিয়েছেন। তাফসীরকারেরাও ফাঁকটা ভরেছেন, প্রত্যেকে নিজের মতো করে। তাবারী বাক্যটাকে আল্লাহর নিজের প্রশ্ন হিসেবে খুলে বলেন: আমি কি তাদের ধ্বংস করিনি, তাদের ঘরবাড়ি তাদের ওপর ভেঙে দিইনি, সেগুলো বিরান করে দিইনি? মুয়াসসার একটিমাত্র কর্ম যোগ করে: আল্লাহ তাদের ওপর তাদের ঘরবাড়ি ধ্বংস করে দিয়েছেন, দিয়ারাহুম। দুজনের কাছেই মানুষগুলোর ওপর প্রথমে যা ভেঙে পড়েছিল, তা তাদেরই বসতঘর।"
+          },
+          {
+            "en": "As-Sa'di widens the list. Look right or left, he says, and these deniers find only peoples around them who perished and were destroyed, whom denial and disbelief uprooted until they fell still. Then he names what was destroyed upon them: their wealth and their homes. And he goes further with a bal, nay: He destroyed their deeds and their scheming, a'malahum wa-makrahum. For as-Sa'di the ruin did not stop at stone and property. What the people had worked at and plotted was brought down with the roofs.",
+            "bn": "সা'দী তালিকাটা আরও বড় করেন। তিনি বলেন, এই অস্বীকারকারীরা ডানে-বাঁয়ে যেদিকেই তাকাক, চারপাশে দেখবে শুধু নিশ্চিহ্ন হয়ে যাওয়া জাতি। অস্বীকার আর কুফর তাদের শিকড়সুদ্ধ উপড়ে ফেলেছে, শেষে তারা নিভে গেছে। তারপর তিনি বলেন তাদের ওপর কী ধ্বংস হয়েছিল: তাদের সম্পদ আর ঘরবাড়ি। এরপর 'বরং' বলে আরও এগোন: তিনি ধ্বংস করেছেন তাদের আমল আর তাদের চক্রান্ত, আ'মালাহুম ওয়া মাকরাহুম। সা'দীর কাছে ধ্বংস পাথর আর সম্পত্তিতে থেমে থাকেনি। মানুষগুলো যা নিয়ে খেটেছিল, যা নিয়ে ফন্দি এঁটেছিল, ছাদের সঙ্গে সেসবও ধসে পড়েছিল।"
+          },
+          {
+            "en": "Set beside the two verses before it, as-Sa'di's list reads like the same loss seen from outside. In 47:8 and 47:9 the deeds of those who disliked the revelation go astray and are made worthless. Here, in his gloss, the deeds and schemes of earlier deniers are destroyed along with their walls. He does not cite those verses at this point; the echo is the reader's to notice. But it changes what the travellers were being asked to see. A fallen house is the visible part. The wasted life that built it is what the surah has just warned of.",
+            "bn": "আগের দুই আয়াতের পাশে রাখলে সা'দীর তালিকাকে মনে হয় একই ক্ষতির বাইরের চেহারা। ৪৭:৮ ও ৪৭:৯ আয়াতে, যারা ওহি অপছন্দ করেছে তাদের আমল পথহারা হয়, নিষ্ফল হয়ে যায়। আর এখানে তাঁর ব্যাখ্যায় আগের অস্বীকারকারীদের আমল আর চক্রান্ত ধ্বংস হয় দেয়ালের সঙ্গে সঙ্গে। এখানে তিনি ওই আয়াতগুলোর উল্লেখ করেননি, মিলটা পাঠকের নিজের চোখে পড়ার জিনিস। তবু এতে বদলে যায় পথিকদের কী দেখতে বলা হচ্ছে। ভেঙে পড়া ঘর হলো চোখে দেখা অংশ। যে জীবন সে ঘর গড়েছিল, তা বৃথা গেছে, আর ঠিক এ নিয়েই সূরা একটু আগে সতর্ক করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spared From Their Midst",
+          "bn": "মাঝখান থেকে রক্ষা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the destruction with a second half the verse does not state. Allah punished them, he says, for their denial and their disbelief, and saved the believers from among them, min bayni azhurihim. Then he draws the link: wa li-hadha qala, and that is why He said, and for the disbelievers the like of it. The clause names the disbelievers because the earlier ruin did not fall on everyone. Those who believed in the messengers were brought out alive from the middle of their own people.",
+            "bn": "ধ্বংসের কথা পড়তে গিয়ে ইবন কাসীর এর এমন এক দ্বিতীয় দিক জুড়ে দেন, যা আয়াতে খোলাখুলি বলা নেই। তিনি বলেন, আল্লাহ তাদের শাস্তি দিয়েছেন অস্বীকার আর কুফরের কারণে, আর মুমিনদের তাদের মাঝখান থেকে বাঁচিয়ে এনেছেন, মিন বাইনি আযহুরিহিম। তারপর যোগসূত্রটা টানেন: ওয়া লিহাযা কালা, এ কারণেই তিনি বলেছেন, আর কাফিরদের জন্য আছে এরই মতো। বাক্যাংশে কাফিরদের নাম এসেছে, কারণ আগের ধ্বংস সবার ওপর নামেনি। যারা রাসূলদের ওপর ঈমান এনেছিল, তাদের নিজ জাতির মাঝখান থেকে জীবিত বের করে আনা হয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di closes his comment on the same note: as for the believers, Allah rescues them from the punishment and gives them abundant reward. The article on 27:69 used this rescue as evidence for the Return; here it explains a single word, lil-kafirin. The next verse gives the reason in its own terms: Allah is the protector of those who believe, and the disbelievers have no protector (47:11). Ibn Kathir's grouped commentary attaches to that verse an exchange after Uhud, which al-Bukhari records in his Sahih (3039). It belongs to 47:11. No commentary fetched here attaches a hadith to 47:10 itself.",
+            "bn": "সা'দীও তাঁর আলোচনা শেষ করেন একই সুরে: আর মুমিনদের আল্লাহ শাস্তি থেকে রক্ষা করেন এবং তাদের দেন প্রচুর প্রতিদান। ২৭:৬৯ আয়াতের প্রবন্ধে এই উদ্ধারকে পুনরুত্থানের প্রমাণ হিসেবে দেখানো হয়েছে। এখানে তা একটি শব্দের ব্যাখ্যা দেয়: লিলকাফিরীন। কারণটা পরের আয়াত নিজের ভাষায় বলে দেয়: আল্লাহ মুমিনদের অভিভাবক, আর কাফিরদের কোনো অভিভাবক নেই (৪৭:১১)। ইবন কাসীরের দলবদ্ধ তাফসীর সেই আয়াতের সঙ্গে উহুদের পরের একটি কথোপকথন জুড়ে দেয়, যা বুখারী তাঁর সহীহ গ্রন্থে (৩০৩৯) এনেছেন। সেটা ৪৭:১১-এর আলোচনার জিনিস। এখানে সংগৃহীত কোনো তাফসীর ৪৭:১০ আয়াতের সঙ্গে সরাসরি কোনো হাদীস জোড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Like of What?",
+          "bn": "কিসের মতো?"
+        },
+        "p": [
+          {
+            "en": "Wa lil-kafirina amthaluha: and for the disbelievers, its likes. The closing ha is a feminine pronoun, and the commentators ask what it points back to. Al-Qurtubi gives two answers. His own comes first: amthalu hadhihi al-fa'la, the likes of this deed, meaning the destruction itself. Then he reports a second: al-Zajjaj and at-Tabari say the ha returns to al-'aqiba, the end, so that the clause reads, for the disbelievers of Quraysh, the likes of the end of the earlier nations' denial, if they do not believe.",
+            "bn": "ওয়া লিলকাফিরীনা আমসালুহা: আর কাফিরদের জন্য আছে এর অনুরূপ। শেষের হা স্ত্রীলিঙ্গ সর্বনাম। তাফসীরকারেরা প্রশ্ন তোলেন, এটি কোন শব্দের দিকে ফিরছে? কুরতুবী দুটি উত্তর দেন। প্রথমে নিজেরটা: আমসালু হাযিহিল ফা'লা, এই কাজের অনুরূপ, অর্থাৎ খোদ ধ্বংস। তারপর দ্বিতীয় মতটি জানান। যাজ্জাজ ও তাবারী বলেন, হা ফিরেছে আল-আকিবা অর্থাৎ পরিণামের দিকে। তখন অর্থ দাঁড়ায়: কুরাইশের কাফিরদের জন্য আছে আগের জাতিগুলোর অস্বীকারের পরিণামের অনুরূপ, যদি তারা ঈমান না আনে।"
+          },
+          {
+            "en": "At-Tabari's own text bears out what al-Qurtubi relays. For the disbelievers of Quraysh who deny the Messenger, he writes, there are likes of the end that came to the earlier nations for denying their messengers. The Muyassar reads it the same way: the likes of that end which befell those nations. At-Tabari then cites Mujahid, through Ibn Abi Najih, with a slightly different turn: the like of what the first generations were destroyed by, a threat from Allah to them. Mujahid's wording looks at the means of ruin rather than its final state.",
+            "bn": "কুরতুবী যা উদ্ধৃত করেছেন, তাবারীর নিজের লেখাতেও তা মেলে। তিনি লেখেন, রাসূলকে অস্বীকারকারী কুরাইশের কাফিরদের জন্য আছে সেই পরিণামের অনুরূপ, যা আগের জাতিগুলোর হয়েছিল নিজেদের রাসূলদের অস্বীকার করার কারণে। মুয়াসসারও একইভাবে পড়ে: সেসব জাতির ওপর যে পরিণাম নেমেছিল, তার অনুরূপ। এরপর তাবারী ইবন আবী নাজীহের সূত্রে মুজাহিদের কথা আনেন, যার ঝোঁক একটু ভিন্ন: প্রথম যুগের জাতিগুলোকে যা দিয়ে ধ্বংস করা হয়েছিল, তার মতো কিছু; এ তাদের প্রতি আল্লাহর এক হুমকি। মুজাহিদের ভাষা তাকায় ধ্বংসের উপায়ের দিকে, শেষ অবস্থার দিকে নয়।"
+          },
+          {
+            "en": "The readings do not cancel each other, and the commentators do not argue the point at length. One points at the act of destruction, one at the outcome a people came to, one at the means by which it came. All three land on the same warning. The article keeps them side by side as al-Qurtubi does. One more feature is plain on the page: amthal is plural, likes and not a single like. None of the commentaries fetched here comments on the plural, so this article leaves it unexplained rather than guessing.",
+            "bn": "মতগুলো একটি আরেকটিকে বাতিল করে না, আর তাফসীরকারেরাও এ নিয়ে লম্বা তর্কে যান না। একটি দেখায় ধ্বংসের কাজটিকে, একটি একটি জাতির শেষ পরিণতিকে, আরেকটি সে পরিণতি যে উপায়ে এসেছিল তাকে। তিনটিই গিয়ে থামে একই সতর্কবাণীতে। কুরতুবী যেমন রেখেছেন, এ লেখাও তেমনি পাশাপাশি রাখল। পাতায় আরেকটি জিনিস স্পষ্ট চোখে পড়ে: আমসাল শব্দটি বহুবচন, একটি নয়, অনেক অনুরূপ। এখানে সংগৃহীত কোনো তাফসীর এই বহুবচন নিয়ে কিছু বলেনি। তাই আন্দাজ না করে এ লেখা বিষয়টি ব্যাখ্যাহীনই রাখল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Disbelievers Are Meant",
+          "bn": "কোন কাফিরদের কথা"
+        },
+        "p": [
+          {
+            "en": "Who are al-kafirin here? Most of the commentators fetched here read the word narrowly. Ma'arif al-Qur'an makes a grammatical case: the definite article al- in al-kafirin points to particular disbelievers, the disbelievers of Makkah, and the sentence warns them that as earlier generations were punished for their wrongdoing, they will meet a like fate. At-Tabari says the disbelievers of Quraysh who denied the Messenger ﷺ. Al-Qurtubi says Allah then threatened the idolaters of Makkah, and al-Baghawi uses almost the same words: He threatens the idolaters of Makkah.",
+            "bn": "এখানে আল-কাফিরীন কারা? এখানে সংগৃহীত তাফসীরগুলোর বেশিরভাগ শব্দটিকে সংকীর্ণ অর্থে পড়ে। মাআরিফুল কুরআন ব্যাকরণ দিয়ে যুক্তি দেয়: আল-কাফিরীন শব্দের আলিফ-লাম নির্দিষ্ট কিছু কাফিরকে বোঝায়, অর্থাৎ মক্কার কাফিরদের। বাক্যটি তাদের সতর্ক করছে, আগের প্রজন্মগুলো যেমন নিজেদের অন্যায়ের শাস্তি পেয়েছে, তোমরাও তেমন পরিণতির মুখোমুখি হবে। তাবারী বলেন, রাসূল ﷺ-কে অস্বীকারকারী কুরাইশের কাফিররা। কুরতুবী বলেন, এরপর আল্লাহ মক্কার মুশরিকদের হুমকি দিলেন। বাগাভীর ভাষাও প্রায় এক: তিনি মক্কার মুশরিকদের হুমকি দিচ্ছেন।"
+          },
+          {
+            "en": "As-Sa'di reads it wide. For the disbelievers in every time and place, he writes, there are likes of these grievous outcomes and blameworthy punishments. So the commentators differ: one group fixes the clause on the Makkans who first heard it, and as-Sa'di extends it as a pattern without limit of time or place. Both readings are kept here, with no ruling between them. Al-Qurtubi and al-Baghawi also attach a condition, in lam yu'minu, if they do not believe; how that condition works is followed through in the article on 27:69.",
+            "bn": "সা'দী শব্দটিকে পড়েন ব্যাপক অর্থে। তিনি লেখেন, সব যুগে সব জায়গার কাফিরদের জন্য আছে এমন ভয়াবহ পরিণাম আর নিন্দনীয় শাস্তির অনুরূপ। অর্থাৎ তাফসীরকারদের মধ্যে মতভেদ আছে। একদল বাক্যাংশটিকে বাঁধেন মক্কার সেই লোকদের সঙ্গে, যারা প্রথম এটি শুনেছিল। সা'দী একে দেখেন এক নিয়ম হিসেবে, যা কোনো যুগ বা জায়গায় সীমাবদ্ধ নয়। এখানে দুটি মতই রাখা হলো, কোনোটির পক্ষে রায় না দিয়ে। কুরতুবী ও বাগাভী একটি শর্তও জুড়ে দেন: ইন লাম ইউমিনূ, যদি তারা ঈমান না আনে। শর্তটি কীভাবে কাজ করে, তা ২৭:৬৯ আয়াতের প্রবন্ধে বিস্তারিত আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hastened, or Held Back",
+          "bn": "এখনই, নাকি পরের জন্য তোলা"
+        },
+        "p": [
+          {
+            "en": "When would the likes come? At-Tabari specifies their kind: min al-'adhab al-'ajil, of the hastened punishment, which comes in this world. For him the threat to Quraysh was of the same order as what the earlier nations had met. Ibn Kathir's grouped commentary, which runs from 47:10 to 47:13, adds another angle in its note on 47:13. He calls the passage a great threat and severe warning to the people of Makkah: if Allah destroyed earlier nations for denying their messengers, what did these expect in this world and the next?",
+            "bn": "অনুরূপ শাস্তি কখন আসবে? তাবারী এর ধরন নির্দিষ্ট করে দেন: মিনাল আযাবিল আজিল, ত্বরিত শাস্তির মধ্য থেকে, যা দুনিয়াতেই আসে। তাঁর কাছে কুরাইশের প্রতি হুমকিটা ছিল আগের জাতিগুলো যা ভোগ করেছিল, সেই জাতের। ইবন কাসীরের দলবদ্ধ তাফসীর ৪৭:১০ থেকে ৪৭:১৩ পর্যন্ত চলে। ৪৭:১৩-এর আলোচনায় তিনি আরেকটি দিক যোগ করেন। তিনি এ অংশকে বলেন মক্কাবাসীর প্রতি বিরাট হুমকি ও কঠোর সতর্কবাণী। আগের জাতিগুলোকে রাসূলদের অস্বীকারের জন্য আল্লাহ যদি ধ্বংস করে থাকেন, তবে এরা দুনিয়া ও আখিরাতে নিজেদের জন্য কী আশা করে?"
+          },
+          {
+            "en": "Then he adds a qualification. If the torment were lifted from some of them in this life, by the blessing of the presence of the Messenger, the Prophet of Mercy, it would be stored up for them in the next, and he cites 11:20: the punishment will be doubled for them. So at-Tabari names the worldly punishment, while Ibn Kathir allows that for some it might be held back to the Hereafter. These are two emphases more than a quarrel, and this article reports both as they stand.",
+            "bn": "এরপর তিনি আরেকটি কথা যোগ করেন। রহমতের নবী, রাসূল ﷺ-এর উপস্থিতির বরকতে দুনিয়াতে তাদের কারও কারও ওপর থেকে শাস্তি তুলে নেওয়া হলেও, তা আখিরাতের জন্য তাদের নামে জমা থাকবে। প্রমাণ হিসেবে তিনি আনেন ১১:২০ আয়াত: তাদের শাস্তি দ্বিগুণ করা হবে। তাহলে তাবারী নির্দিষ্ট করছেন দুনিয়ার শাস্তি, আর ইবন কাসীর সুযোগ রাখছেন যে কারও কারও বেলায় তা আখিরাত পর্যন্ত পিছিয়ে যেতে পারে। একে বিরোধের চেয়ে দুই দিকে জোর দেওয়া বলাই ভালো। এ লেখা দুটিকেই যেমন আছে তেমন তুলে ধরল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Be Heeded, Not Aimed",
+          "bn": "মানার জন্য, তাক করার জন্য নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: earlier peoples whom Allah destroyed after they denied their messengers, and a warning to those, in most of these commentators' reading the deniers of Makkah, who were rejecting the Prophet ﷺ at the time. It licenses nothing against any living person or community. It names no present-day people or nation, and it gives no reader the right to point at a disaster, a ruined city or a suffering population and declare it the likes promised here.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে, যা এর ভাষায় আছে: আগের কিছু জাতি, যারা রাসূলদের অস্বীকার করার পর আল্লাহ তাদের ধ্বংস করেছেন, আর তাদের প্রতি এক সতর্কবাণী, যারা সে সময় নবী ﷺ-কে প্রত্যাখ্যান করছিল। এখানকার বেশিরভাগ তাফসীরকারের মতে তারা মক্কার অস্বীকারকারীরা। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো জাতি বা দেশের নাম এতে নেই। কোনো দুর্যোগ, কোনো ধ্বংসপ্রাপ্ত শহর বা কোনো বিপন্ন জনগোষ্ঠীর দিকে আঙুল তুলে এটাকেই এখানে প্রতিশ্রুত অনুরূপ শাস্তি বলে ঘোষণা করার অধিকারও এটি কাউকে দেয় না।"
+          },
+          {
+            "en": "Even as-Sa'di's wide reading does not change that. He describes how Allah deals with disbelief across time; he does not hand his reader a list of who has met it. Who has disbelieved, and what has befallen whom and why, belongs to Allah's knowledge and judgement. The verse is spoken in the voice of a warning, and al-Qurtubi and al-Baghawi both hang it on an if: if they do not believe. A warning with a condition is meant to be heeded by the one who hears it, not used against someone else.",
+            "bn": "সা'দীর ব্যাপক ব্যাখ্যাও এ কথা বদলায় না। তিনি বলছেন কুফরের সঙ্গে আল্লাহর আচরণ সব যুগে কেমন, পাঠকের হাতে এমন কোনো তালিকা তুলে দিচ্ছেন না যে কার ওপর তা নেমেছে। কে কুফরি করেছে, কার ওপর কী বিপদ এসেছে আর কেন, সে জ্ঞান ও বিচার আল্লাহর। আয়াতের সুর সতর্কবাণীর। কুরতুবী ও বাগাভী দুজনেই একে একটি শর্তে বেঁধেছেন: যদি তারা ঈমান না আনে। শর্তযুক্ত সতর্কবাণী শ্রোতার নিজের মানার জন্য, অন্যের বিরুদ্ধে ব্যবহারের জন্য নয়।"
+          },
+          {
+            "en": "So the verse comes back to whoever is reading it. The surah has just said that deeds can be made worthless, and as-Sa'di's gloss shows deeds and schemes destroyed along with walls. That is the question worth carrying out of this verse: not which nation deserves the likes, but what I am building, and whether it rests on what Allah revealed or on something I would rather He had not. A ruin seen from the road is a lesson only if the traveller lets it speak about his own house.",
+            "bn": "তাই আয়াত ফিরে আসে পাঠকের নিজের কাছে। সূরা একটু আগেই বলেছে, আমল নিষ্ফল হয়ে যেতে পারে। আর সা'দীর ব্যাখ্যায় দেয়ালের সঙ্গে আমল আর চক্রান্তও ধ্বংস হয়। এ আয়াত থেকে যে প্রশ্নটা সঙ্গে নিয়ে যাওয়ার মতো, তা এই নয় যে কোন জাতি অনুরূপ শাস্তির যোগ্য। প্রশ্ন হলো, আমি কী গড়ছি? তার ভিত কি আল্লাহর নাজিল করা বাণী, নাকি এমন কিছু যা নাজিল না হলেই আমি খুশি হতাম? পথের ধারের ধ্বংসাবশেষ তখনই শিক্ষা হয়, যখন পথিক তাকে নিজের ঘরের কথা বলতে দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "47:12": {
     "sections": [
       {
