@@ -25269,6 +25269,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Fear is no sin, but do not dress your wish to escape as a duty; name your real reason honestly, and stay at your post while you can.",
     "lessonBn": "ভয় পাওয়া গুনাহ নয়, কিন্তু পালানোর ইচ্ছাকে দায়িত্বের পোশাক পরাবেন না। আসল কারণটা সৎভাবে স্বীকার করুন, আর যতক্ষণ পারেন নিজের জায়গায় টিকে থাকুন।"
+  },
+  "33:66": {
+    "reflectionEn": "This scene is the end of a road, not its middle. Faces are turned over in the Fire, and what comes out of those mouths is no argument and no excuse, only a wish: if only we had obeyed Allah and obeyed the Messenger. Everything they now want was once within reach. The commands were known, the Messenger was among them, and the choice came back to them every day. The next verses say whom they followed instead: their masters and great ones, who led them from the way. The wish is true, and it comes too late. The verse is told to me while it is not too late. When Allah's word and the crowd's word part ways, whose word do I actually follow?",
+    "reflectionBn": "এ দৃশ্য পথের মাঝখানের নয়, একেবারে শেষ মাথার। আগুনের ভেতরে মুখগুলো উল্টে-পাল্টে দেওয়া হচ্ছে। সেই মুখ থেকে কোনো যুক্তি বা অজুহাত বেরোয় না, বেরোয় শুধু একটা আকাঙ্ক্ষা: হায়, আমরা যদি আল্লাহর আনুগত্য করতাম, রসূলের আনুগত্য করতাম! আজ তারা যা চায়, একদিন তা হাতের নাগালেই ছিল। হুকুমগুলো জানা ছিল, রসূল তাদের মাঝেই ছিলেন, আর বেছে নেওয়ার সুযোগ রোজ ফিরে ফিরে আসত। পরের আয়াতগুলো জানিয়ে দেয়, তারা বদলে কার কথা মেনেছিল: তাদের নেতা আর বড়দের, যারা তাদের পথ থেকে সরিয়ে দিয়েছিল। আকাঙ্ক্ষাটা সত্যি, কিন্তু বড় দেরিতে। আয়াতটা আমাকে শোনানো হচ্ছে এমন সময়ে, যখন দেরি হয়ে যায়নি। আল্লাহর কথা আর চারপাশের লোকের কথা যখন আলাদা হয়ে যায়, আমি আসলে কার কথা মানি?",
+    "pointsEn": [
+      "Which command of Allah do I already know and keep postponing, as if there will always be time to obey it later?",
+      "When the Messenger's ﷺ guidance and the habits of the people around me differ, which one usually wins in my day?",
+      "Whose approval am I most afraid to lose, and has that fear ever pulled me away from what I knew was right?",
+      "If I pictured the regret this verse describes, what one thing would I want to have done differently this week?",
+      "Where am I the one others follow, as a parent, teacher or elder, and where am I leading them?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন হুকুমটা আমি জানি, তবু বারবার পিছিয়ে দিই, যেন পরে মানার সময় সবসময়ই থাকবে?",
+      "রসূল ﷺ-এর দেখানো পথ আর আশপাশের লোকের অভ্যাস যখন মেলে না, আমার দিনে সাধারণত কোনটা জেতে?",
+      "কার সমর্থন হারানোর ভয় আমার সবচেয়ে বেশি? সেই ভয় কি কখনো আমাকে জানা সঠিক কাজ থেকে টেনে সরিয়েছে?",
+      "এ আয়াতের আফসোসটা চোখের সামনে আনলে, এ সপ্তাহের কোন একটা কাজ আমি অন্যভাবে করতে চাইতাম?",
+      "বাবা-মা, শিক্ষক বা মুরব্বি হিসেবে কারা আমার পেছনে চলে, আর আমি তাদের কোন দিকে নিয়ে যাচ্ছি?"
+    ],
+    "lessonEn": "Obey Allah and His Messenger now, while obedience still counts, rather than wishing for it later; and remember that whoever leads others carries the weight of where they lead.",
+    "lessonBn": "আনুগত্যের যখন দাম আছে, তখনই আল্লাহ ও তাঁর রসূলের আনুগত্য করুন, পরে আফসোস করার অপেক্ষায় থাকবেন না। আর মনে রাখুন, যে অন্যদের পথ দেখায়, কোন দিকে নিয়ে গেল তার ভার তাকেই বইতে হয়।"
   }
 };
 

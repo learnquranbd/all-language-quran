@@ -1911,6 +1911,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:66": {
+    "sections": [
+      {
+        "h": {
+          "en": "No Protector on That Day",
+          "bn": "সেদিন কোনো অভিভাবক নেই"
+        },
+        "p": [
+          {
+            "en": "Near the close of al-Ahzab, after the question about the Hour, two short verses state a verdict. Allah has cursed the disbelievers and prepared for them a Blaze, 33:64; they will abide in it forever and find neither protector nor helper, 33:65. Then comes this verse of eleven Arabic words, opening on yawma, the Day: the Day their faces are turned about in the Fire, they will say, would that we had obeyed Allah and obeyed the Messenger. The verdict has been given; now the verse lets us hear the people inside it.",
+            "bn": "সূরা আহযাবের শেষের দিকে, কিয়ামতের সময় নিয়ে প্রশ্নের পর, ছোট দুটি আয়াতে রায় ঘোষণা হয়। আল্লাহ কাফিরদের লানত করেছেন এবং তাদের জন্য জ্বলন্ত আগুন তৈরি রেখেছেন, ৩৩:৬৪। সেখানে তারা চিরকাল থাকবে, না পাবে কোনো অভিভাবক, না কোনো সাহায্যকারী, ৩৩:৬৫। এরপর আসে আরবি ১১ শব্দের এই আয়াত, শুরু ইয়াওমা দিয়ে, অর্থাৎ সেদিন: যেদিন আগুনে তাদের মুখ উল্টে-পাল্টে দেওয়া হবে, তারা বলবে, হায়, আমরা যদি আল্লাহর আনুগত্য করতাম, রসূলের আনুগত্য করতাম! রায় শোনানো শেষ। এবার আয়াতটি সেই রায়ের ভেতরে থাকা মানুষগুলোর কণ্ঠ আমাদের শোনায়।"
+          },
+          {
+            "en": "At-Tabari ties the opening word to the verse before it: these disbelievers find no protector and no helper on the Day their faces are turned in the Fire. Read that way, the turning of the faces is the moment when the absence of any helper is felt. Al-Qurtubi allows a second construction, in which the Day belongs to the verb that follows: they say, on the Day their faces are turned, would that we had obeyed. The Muyassar reads 33:64 to 33:66 together: no ally to defend them, no helper to bring them out of the Fire.",
+            "bn": "তাবারী প্রথম শব্দটিকে আগের আয়াতের সঙ্গে জুড়ে পড়েন। তাঁর ব্যাখ্যায় অর্থ দাঁড়ায়: যেদিন আগুনে এই কাফিরদের মুখ উল্টানো হবে, সেদিন তারা কোনো অভিভাবক বা সাহায্যকারী পাবে না। এভাবে পড়লে মুখ উল্টানোর মুহূর্তটাই সেই সময়, যখন সাহায্যকারী না থাকার কষ্ট টের পাওয়া যায়। কুরতুবী আরেকটি গঠনও সম্ভব বলে মনে করেন। তাতে 'সেদিন' শব্দটি পরের ক্রিয়ার সঙ্গে যুক্ত: যেদিন তাদের মুখ উল্টানো হবে, সেদিন তারা বলবে, হায়, যদি আনুগত্য করতাম! মুয়াসসার ৩৩:৬৪ থেকে ৩৩:৬৬ পর্যন্ত একসঙ্গে পড়ে। সেখানে তাদের রক্ষা করার মতো কোনো বন্ধু নেই, আগুন থেকে বের করে আনার মতো কোনো সাহায্যকারীও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned From Back to Belly",
+          "bn": "পিঠ থেকে পেটের দিকে"
+        },
+        "p": [
+          {
+            "en": "Tuqallabu comes from the root q-l-b, to turn a thing over, and its form here suggests turning again and again. Ibn Kathir explains it bodily: they are dragged into the Fire on their faces, and their faces are twisted about in Jahannam, and it is while they are in that state that they speak. Al-Baghawi gives the shortest gloss of all, two words, zahran li-batn, back to belly, when they are dragged across it. In both pictures the face, the part of a person that carried their dignity among people, is the part that is turned.",
+            "bn": "তুকাল্লাবু শব্দটি এসেছে ক-ল-ব ধাতু থেকে, যার অর্থ কোনো কিছু উল্টে দেওয়া। এখানকার রূপটি বারবার উল্টানোর ইঙ্গিত দেয়। ইবন কাসীর এর ব্যাখ্যা দেন শরীরের দিক থেকে: তাদের মুখের উপর ভর দিয়ে আগুনে টেনে নেওয়া হবে, জাহান্নামে তাদের মুখ মুচড়ে দেওয়া হবে, আর ঠিক সেই অবস্থাতেই তারা কথাগুলো বলবে। বাগাভীর ব্যাখ্যা সবচেয়ে ছোট, মাত্র দুটি শব্দ: যাহরান লি-বাতন, পিঠ থেকে পেটের দিকে, যখন তাদের আগুনের উপর দিয়ে টানা হবে। দুই ছবিতেই উল্টানো হচ্ছে মুখ, মানুষের সেই অঙ্গ, যা দিয়ে লোকসমাজে তার মান-সম্মান চেনা যেত।"
+          },
+          {
+            "en": "Others read the turning as a sequence. At-Tabari says the faces are turned in the Fire hal ba'da hal, state after state, so the torment is not a single blow but a succession. Al-Qurtubi gives it colour: this turning is the change of their complexions under the scorching blast of the Fire, so that the faces now blacken and now turn green. As-Sa'di describes what the turning brings: they taste the Fire's heat, its grip on them grows harder, and they grieve over what they sent ahead of them.",
+            "bn": "কেউ কেউ এই উল্টানোকে দেখেন একের পর এক অবস্থা হিসেবে। তাবারী বলেন, আগুনে তাদের মুখ উল্টানো হবে হালান বা'দা হাল, এক অবস্থার পর আরেক অবস্থায়। শাস্তিটা তাই একবারের আঘাত নয়, বরং চলতেই থাকে। কুরতুবী এতে রঙের কথা আনেন। তাঁর মতে এই উল্টানো হলো আগুনের ঝলসানো তাপে তাদের চেহারার রং বদলে যাওয়া: কখনো কালো হয়ে যায়, কখনো সবুজ। সা'দী জানান এর ফলে কী ঘটে। তারা আগুনের তাপের স্বাদ নেয়, আগুনের কষ্ট তাদের উপর আরও কঠিন হয়ে ওঠে, আর যা আমল আগে পাঠিয়েছিল তার জন্য তারা আফসোস করতে থাকে।"
+          },
+          {
+            "en": "These glosses do not cancel one another. A face can be dragged over and over, pass through state after state, and change its colour in the same Fire, and each commentator has fixed on one side of the picture. What they share is the verse's own point. The words that follow are not spoken at leisure, after reflection, in some quiet place. They are spoken from inside the turning, by people who can no longer hold their faces still, let alone change where they stand.",
+            "bn": "এসব ব্যাখ্যা একটা আরেকটাকে বাতিল করে না। একই আগুনে একটা মুখকে বারবার টেনে উল্টানো যায়, তা এক অবস্থা থেকে আরেক অবস্থায় যেতে পারে, তার রংও বদলাতে পারে। প্রত্যেক মুফাসসির ছবিটার একেকটা দিক ধরেছেন। তবে সবার কথা আয়াতের মূল কথাতেই মেলে। পরের কথাগুলো কেউ শান্ত কোনো জায়গায় বসে, ভেবেচিন্তে, অবসরে বলছে না। বলছে ওই উল্টানোর ভেতর থেকে। যারা বলছে, তারা নিজেদের মুখটুকুও আর স্থির রাখতে পারছে না, নিজের অবস্থান বদলানো তো দূরের কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Does the Turning",
+          "bn": "মুখ উল্টায় কে"
+        },
+        "p": [
+          {
+            "en": "The verb is passive, and al-Qurtubi records that this is how the generality of reciters read it: tuqallabu, with a damma on the ta' and a fatha on the lam, their faces are turned, with no turner named. He then reports two other readings. 'Isa al-Hamdani and Ibn Ishaq read nuqallibu, with a nun and a kasra on the lam, and wujuhahum in the accusative: We turn their faces. 'Isa is also reported to have read tuqallibu with a kasra, which al-Qurtubi explains as the Blaze turning their faces.",
+            "bn": "ক্রিয়াটি কর্মবাচ্যে, আর কুরতুবী জানান সাধারণ কারীরা এভাবেই পড়েছেন: তুকাল্লাবু, তা-তে পেশ আর লাম-এ যবর দিয়ে। অর্থ, তাদের মুখ উল্টানো হবে। কে উল্টাবে, তা বলা নেই। এরপর তিনি আরও দুটি কিরাআত উল্লেখ করেন। ঈসা আল-হামদানী ও ইবন ইসহাক পড়েছেন নুকাল্লিবু, নূন দিয়ে আর লাম-এ যের দিয়ে, সঙ্গে উজূহাহুম যবরযুক্ত কর্ম হিসেবে। অর্থ, আমি তাদের মুখ উল্টে দেব। ঈসা থেকে আরেকটি পাঠও বর্ণিত আছে, তুকাল্লিবু, লাম-এ যের দিয়ে। কুরতুবী এর ব্যাখ্যা দেন এভাবে: জ্বলন্ত আগুন তাদের মুখ উল্টে দেয়।"
+          },
+          {
+            "en": "Each reading brings forward a different part of the same truth. The common passive leaves the agent unspoken, which puts all the weight on what happens to the faces. The reading with the nun names the One who decrees it. The reading that makes the Blaze the subject reaches back to sa'ir, the word for the Fire in 33:64, so that the very Fire prepared for them does the work. Al-Qurtubi lists these without debating them, and the meaning of the verse is the same under each of them.",
+            "bn": "প্রতিটি পাঠ একই সত্যের আলাদা একটা দিক সামনে আনে। প্রচলিত কর্মবাচ্য পাঠে কর্তার নাম নেই, তাই পুরো ভার পড়ে মুখগুলোর উপর কী ঘটছে সেই কথায়। নূনওয়ালা পাঠে সামনে আসেন সেই সত্তা, যিনি এর ফয়সালা করেন। আর যে পাঠে জ্বলন্ত আগুনই কর্তা, তা ফিরে যায় ৩৩:৬৪ আয়াতের সাঈর শব্দে, আগুনের সেই নামে। যে আগুন তাদের জন্য তৈরি রাখা হয়েছিল, সেটিই কাজটা করে। কুরতুবী এগুলো নিয়ে তর্কে যান না, শুধু উল্লেখ করেন। তিন পাঠেই আয়াতের অর্থ একই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If Only We Had Listened",
+          "bn": "হায়, যদি মানতাম"
+        },
+        "p": [
+          {
+            "en": "Ya laytana: would that we. It is the language of a wish, and the content of the wish is a single word said twice, ata'na, we obeyed. Ibn Kathir paraphrases it as a longing to have been, in the life of this world, among those who obeyed Allah and obeyed the Messenger. Al-Baghawi adds only the two words that matter most, fi d-dunya, in the world. The obedience they wish for belongs to a place they have already left; nothing they could do in the Fire would count as the obedience they mean.",
+            "bn": "ইয়া লাইতানা: হায়, আমরা যদি! এ হলো আকাঙ্ক্ষার ভাষা, আর আকাঙ্ক্ষার বিষয় একটিমাত্র শব্দ, দুবার বলা: আতা'না, আমরা আনুগত্য করতাম। ইবন কাসীর এর অর্থ করেন এভাবে: তারা কামনা করবে, দুনিয়ার জীবনে যদি তারা আল্লাহ ও রসূলের আনুগত্যকারীদের দলে থাকত! বাগাভী যোগ করেন কেবল দুটি শব্দ, যা সবচেয়ে জরুরি: ফিদ-দুনইয়া, দুনিয়াতে। যে আনুগত্যের জন্য তারা আফসোস করছে, তার জায়গা ছিল এমন এক ঘরে, যা তারা ছেড়ে এসেছে। আগুনের ভেতরে তারা যা-ই করুক, তা আর সেই আনুগত্য হবে না।"
+          },
+          {
+            "en": "At-Tabari spells out what obeying the Messenger would have meant: obeying him in what he brought them from Allah of His command and His prohibition. In this gloss the Messenger is not a second authority set beside Allah; obeying him means obeying what he conveyed. Then at-Tabari finishes their sentence for them, and then we would have been with the people of Paradise, in Paradise, and breaks off with an exclamation of his own: what regret and remorse that is, how great and how heavy it is.",
+            "bn": "রসূলের আনুগত্য বলতে কী বোঝায়, তাবারী তা খুলে বলেন: আল্লাহর পক্ষ থেকে তিনি যে আদেশ ও নিষেধ নিয়ে এসেছিলেন, তাতে তাঁর কথা মানা। এ ব্যাখ্যায় রসূল আল্লাহর পাশে দাঁড়ানো দ্বিতীয় কোনো কর্তৃত্ব নন। তাঁর আনুগত্য মানে তিনি যা পৌঁছে দিয়েছেন তার আনুগত্য। এরপর তাবারী তাদের অসমাপ্ত কথাটা শেষ করে দেন: তাহলে আমরা জান্নাতবাসীদের সঙ্গে জান্নাতে থাকতাম। তারপর নিজেই বলে ওঠেন: কী আফসোস আর অনুশোচনা! কত বড়, কত ভারী!"
+          },
+          {
+            "en": "The other commentators complete the wish in their own words. Al-Qurtubi reads it as meaning, had we not disbelieved, we would have been saved from this punishment as the believers were saved; and he places the wish at the moment their skins are replaced with other skins, the image of 4:56. The Muyassar says they speak nadimin mutahayyirin, remorseful and bewildered. As-Sa'di gives the wish two halves: we would have been safe from this punishment and, like the obedient, would have earned an abundant reward.",
+            "bn": "অন্য মুফাসসিররাও নিজের ভাষায় আকাঙ্ক্ষাটা পূর্ণ করেন। কুরতুবীর ব্যাখ্যায় এর অর্থ: আমরা যদি কুফরি না করতাম, তবে মুমিনরা যেমন বেঁচে গেছে, আমরাও এই আযাব থেকে বেঁচে যেতাম। তিনি এই আকাঙ্ক্ষার সময়টাও বলেন: যখন তাদের চামড়া বদলে নতুন চামড়া দেওয়া হবে, ৪:৫৬ আয়াতের সেই ছবি। মুয়াসসার বলে, তারা কথাটা বলবে অনুতপ্ত আর দিশেহারা হয়ে। সা'দী আকাঙ্ক্ষাটির দুটি দিক দেখান: আমরা এই আযাব থেকে রক্ষা পেতাম, আর আনুগত্যকারীদের মতো বিপুল সওয়াবের হকদার হতাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wish Past Its Time",
+          "bn": "সময় পেরোনো আকাঙ্ক্ষা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes his comment with the sentence that gives the verse its edge: but it is a wish whose time has passed, so it brings them nothing but sorrow and remorse, worry, grief and pain. The wish is not false. Everything in it is true: Allah should have been obeyed, the Messenger should have been obeyed, and obedience would have saved them. What it lacks is a moment in which it can still be acted on. A true sentence spoken too late becomes one more part of the punishment.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন এমন এক বাক্যে, যা আয়াতটিকে ধারালো করে তোলে: কিন্তু এ এমন এক আকাঙ্ক্ষা, যার সময় পেরিয়ে গেছে। তাই তা তাদের কিছুই দেয় না, দেয় শুধু আফসোস, অনুশোচনা, দুশ্চিন্তা, দুঃখ আর যন্ত্রণা। আকাঙ্ক্ষাটা মিথ্যা নয়। এর প্রতিটি কথা সত্যি: আল্লাহর আনুগত্য করা উচিত ছিল, রসূলের আনুগত্য করা উচিত ছিল, আর সেই আনুগত্যই তাদের বাঁচাত। ঘাটতি শুধু একটা জায়গায়। এমন কোনো মুহূর্ত আর বাকি নেই, যখন এ অনুযায়ী কাজ করা যায়। দেরিতে বলা সত্য কথাও তখন শাস্তিরই আরেকটা অংশ হয়ে যায়।"
+          },
+          {
+            "en": "Ibn Kathir shows that this is not the first time the Qur'an records the wish. On the plains of judgement, before the Fire, the wrongdoer bites his hands and says, would that I had taken a path with the Messenger; woe to me, would that I had not taken so-and-so as a close friend; he led me astray from the reminder after it had come to me, 25:27 to 25:29. And in 15:2: how much those who disbelieved will wish that they had been Muslims. Here, he says, the same wish is spoken again, now from inside the Fire.",
+            "bn": "ইবন কাসীর দেখান, কুরআনে এই আকাঙ্ক্ষার কথা এই প্রথম নয়। আগুনে ঢোকার আগে, বিচারের ময়দানে, জালিম নিজের হাত কামড়াবে আর বলবে: হায়, আমি যদি রসূলের সঙ্গে পথ ধরতাম! হায় আমার দুর্ভাগ্য, অমুককে যদি বন্ধু না বানাতাম! উপদেশ আমার কাছে আসার পরও সে আমাকে তা থেকে বিপথে নিয়ে গেছে। এ কথা আছে ২৫:২৭ থেকে ২৫:২৯ আয়াতে। আর ১৫:২ আয়াতে আছে: কাফিররা বারবার কামনা করবে, হায়, যদি তারা মুসলিম হতো! ইবন কাসীর বলেন, এখানে সেই একই আকাঙ্ক্ষা আবার উচ্চারিত হচ্ছে, এবার আগুনের ভেতর থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Alif That Draws Out",
+          "bn": "টেনে লম্বা করা আলিফ"
+        },
+        "p": [
+          {
+            "en": "The verse ends on ar-rasula, with an extra alif after the final vowel, where ordinary grammar would stop at ar-rasul. Al-Qurtubi notes that this alif falls at the verse-endings and is a place to pause, not to run on into the next verse, and that as-sabila in 33:67 is the same. He refers back to the start of the surah, and there, on az-zununa in 33:10, he sets out the whole question: the alif is written in the copy of 'Uthman and in all the copies in every land, and the reciters differed over pronouncing it.",
+            "bn": "আয়াতটি শেষ হয়েছে আর-রসূলা শব্দে। শেষ স্বরের পর এখানে বাড়তি একটা আলিফ আছে, যেখানে সাধারণ ব্যাকরণে আর-রসূল বলেই থামার কথা। কুরতুবী বলেন, এই আলিফ আসে আয়াতের শেষে। এখানে থামতে হয়, পরের আয়াতের সঙ্গে মিলিয়ে পড়তে হয় না। ৩৩:৬৭ আয়াতের আস-সাবীলা শব্দও একই রকম। তিনি পাঠককে সূরার শুরুর দিকে ফিরিয়ে দেন। সেখানে ৩৩:১০ আয়াতের আয-যুনূনা শব্দে তিনি পুরো বিষয়টি খুলে বলেছেন। উসমান (রাঃ)-এর মুসহাফে এবং সব দেশের সব মুসহাফে এই আলিফ লেখা আছে, তবে উচ্চারণ নিয়ে কারীদের মধ্যে মতভেদ হয়েছে।"
+          },
+          {
+            "en": "Nafi' and Ibn 'Amir kept the alif both when pausing and when joining, holding to the written copy; Hamza and Ya'qub, among others, dropped it in both; a third group kept it only in pause. Al-Qurtubi also cites the Arabs' practice of lengthening the rhymes of their poetry. Whatever the recitation, the sound lingers on the Messenger at the very end of their sentence. It is the last word they say, and the verb before it is repeated: ata'na-llaha wa ata'na-r-rasula, we obeyed Allah and we obeyed the Messenger.",
+            "bn": "নাফি' ও ইবন আমির থামার সময় এবং মিলিয়ে পড়ার সময়, দুই অবস্থাতেই আলিফটি উচ্চারণ করেছেন, লিখিত মুসহাফকে ধরে রেখে। হামযা ও ইয়াকূবসহ কয়েকজন দুই অবস্থাতেই তা বাদ দিয়েছেন। আরেক দল শুধু থামার সময় তা রেখেছেন। কুরতুবী আরবদের কবিতার রীতির কথাও আনেন, যেখানে ছন্দের শেষ ধ্বনি টেনে লম্বা করা হয়। পাঠ যেভাবেই হোক, তাদের বাক্যের একেবারে শেষে ধ্বনিটা রসূলের নামের উপর থমকে থাকে। এটাই তাদের শেষ শব্দ। আর তার আগের ক্রিয়াটি দুবার এসেছে: আতা'নাল্লাহা ওয়া আতা'নার রসূলা, আমরা আল্লাহর আনুগত্য করতাম, আর রসূলের আনুগত্য করতাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Verb, Other Masters",
+          "bn": "একই ক্রিয়া, ভিন্ন মনিব"
+        },
+        "p": [
+          {
+            "en": "The next verse continues their speech, and it uses the same verb: and they will say, our Lord, we obeyed our masters and our great ones, and they led us astray from the way; our Lord, give them double the punishment and curse them with a great curse, 33:67 and 33:68. They were not people who obeyed no one. They obeyed, and the verse names whom. Ibn Kathir reports from Tawus that the masters are their nobles and the great ones their scholars, and he glosses the double punishment as one for their disbelief and one for misleading others.",
+            "bn": "পরের আয়াতে তাদের কথা চলতে থাকে, আর সেখানেও একই ক্রিয়া: তারা বলবে, হে আমাদের রব, আমরা আমাদের নেতা ও বড়দের আনুগত্য করেছিলাম, তারাই আমাদের পথ থেকে বিপথে নিয়েছে। হে আমাদের রব, তাদের দ্বিগুণ শাস্তি দিন, আর তাদের উপর বড় লানত করুন। কথাগুলো আছে ৩৩:৬৭ ও ৩৩:৬৮ আয়াতে। এরা এমন লোক নয়, যারা কারও কথাই মানেনি। মেনেছিল ঠিকই, আর আয়াত বলে দেয় কাদের। ইবন কাসীর তাউস থেকে বর্ণনা করেন, নেতা মানে তাদের অভিজাত লোকেরা, আর বড়রা মানে তাদের আলিমরা। দ্বিগুণ শাস্তির ব্যাখ্যা তিনি দেন এভাবে: একটা তাদের নিজেদের কুফরির জন্য, আরেকটা অন্যদের বিপথে নেওয়ার জন্য।"
+          },
+          {
+            "en": "These verses describe the people of the Fire as the text describes them. They license nothing against any living person or community, and they name no present-day leader, scholar or group; no reader is given the right to place anyone in these ranks. The warning points inward. Whoever follows answers for whom they followed, and blaming the great ones does not lift the punishment from them. Whoever is followed, as a parent, a teacher or an elder, answers as well for the direction in which they led.",
+            "bn": "এ আয়াতগুলো জাহান্নামবাসীদের সেভাবেই বর্ণনা করে, যেভাবে কুরআনের ভাষ্যে তারা এসেছে। এগুলো কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। আজকের কোনো নেতা, আলিম বা দলের নামও এখানে নেই। কাউকে এই কাতারে বসানোর অধিকার কোনো পাঠককে দেওয়া হয়নি। সতর্কবাণীটা বরং নিজের দিকে ফেরে। যে অনুসরণ করে, কাকে অনুসরণ করল তার জবাব তাকে দিতে হবে। বড়দের ঘাড়ে দোষ চাপিয়ে নিজের শাস্তি থেকে বাঁচা যায় না। আর যাকে অনুসরণ করা হয়, বাবা-মা, শিক্ষক বা মুরব্বি, কোন দিকে নিয়ে গেল তার জবাব তাকেও দিতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While Obeying Still Counts",
+          "bn": "আনুগত্যের দাম থাকতে থাকতে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted here attaches a hadith to this verse. A general narration, not tied to the verse, says plainly what the verse leaves implied. In Sahih al-Bukhari, Abu Hurayra reports that the Messenger of Allah ﷺ said: all my followers will enter Paradise except those who refuse. They said, O Messenger of Allah, and who will refuse? He said: whoever obeys me will enter Paradise, and whoever disobeys me has refused. Obedience here is not something the believer can postpone and recover later.",
+            "bn": "এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়, অথচ আয়াত যা ইঙ্গিতে রেখেছে তা পরিষ্কার বলে দেয়। সহীহ বুখারীতে আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: আমার উম্মতের সবাই জান্নাতে যাবে, শুধু যে অস্বীকার করে সে ছাড়া। সাহাবীরা জিজ্ঞেস করলেন, হে আল্লাহর রসূল, কে অস্বীকার করবে? তিনি বললেন: যে আমার আনুগত্য করে সে জান্নাতে যাবে, আর যে আমার অবাধ্য হয় সে-ই অস্বীকার করল। এখানে আনুগত্য এমন জিনিস নয়, যা মুমিন পিছিয়ে রেখে পরে উসুল করে নিতে পারে।"
+          },
+          {
+            "en": "The surah itself soon answers the wish from the other side: whoever obeys Allah and His Messenger has attained a great success, 33:71. The pair the people of the Fire name too late is the pair the believers are offered now. The verse is told to us while the wish can still be made into a deed. The practical question is small and exact: which command of Allah, or which teaching of His Messenger ﷺ, do I already know and keep deferring? Today it can still be obeyed; on that Day it can only be wished for.",
+            "bn": "সূরা নিজেই একটু পরে অপর দিক থেকে এই আকাঙ্ক্ষার জবাব দেয়: যে আল্লাহ ও তাঁর রসূলের আনুগত্য করে, সে মহাসাফল্য লাভ করেছে, ৩৩:৭১। জাহান্নামবাসীরা যে দুজনের নাম নেয় অনেক দেরিতে, মুমিনদের সামনে সেই দুজনের আনুগত্যই আজ খোলা আছে। আয়াতটি আমাদের শোনানো হচ্ছে এমন সময়ে, যখন আকাঙ্ক্ষাকে এখনো আমলে বদলানো যায়। বাস্তব প্রশ্নটা ছোট, কিন্তু নির্দিষ্ট: আল্লাহর কোন হুকুম, বা তাঁর রসূল ﷺ-এর কোন শিক্ষা আমি জানি, অথচ বারবার পিছিয়ে দিচ্ছি? আজ তা মানা যায়। সেদিন তার জন্য শুধু আফসোসই করা যাবে।"
+          }
+        ]
+      }
+    ]
+  },
   "33:70": {
     "sections": [
       {
