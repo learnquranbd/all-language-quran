@@ -28069,6 +28069,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Garden's companions are described by love that is shown, returned and free of envy; practise that love at home now, and speak of the promise with dignity.",
     "lessonBn": "জান্নাতের সঙ্গিনীদের পরিচয় এমন ভালোবাসায়, যা প্রকাশ পায়, ফিরে আসে, আর হিংসামুক্ত থাকে। সেই ভালোবাসা আজ ঘরেই চর্চা করুন, আর এ প্রতিশ্রুতির কথা বলুন মর্যাদা নিয়ে।"
+  },
+  "56:53": {
+    "reflectionEn": "The verse is three Arabic words: fa-mali'una minha l-butun, and filling the bellies from it. The tree has just been named, zaqqum, a food no one would ever choose. Yet the bellies are filled with it, and the commentators give the reason: a hunger so fierce that it leaves no choice. Then comes the scalding drink in the next verse, which quenches nothing. The scene is need met, again and again, by what cannot answer it. It is spoken now, while the Day has not come, and it is no verdict on anyone I know. It turns the question on me: what do I fill myself with when I feel empty, and does it ever answer the hunger I brought to it?",
+    "reflectionBn": "আয়াতটি আরবিতে মাত্র তিন শব্দ: ফামালিউনা মিনহাল বুতুন, তা দিয়ে পেট ভর্তি করবে। ঠিক আগের আয়াতে গাছটির নাম এসেছে, জাক্কুম। এমন খাবার কেউ কখনো বেছে নেবে না। তবু পেট ভরানো হবে তা দিয়েই। তাফসীরকারেরা কারণটাও বলেছেন: ক্ষুধা এত তীব্র যে বেছে নেওয়ার উপায় থাকবে না। পরের আয়াতে আসে ফুটন্ত পানি, যাতে পিপাসা মেটে না। পুরো দৃশ্যটাই এমন: প্রয়োজন বারবার এমন জিনিসের মুখোমুখি হয়, যা প্রয়োজন মেটাতে পারে না। কথাটা বলা হচ্ছে এখনই, সেই দিন আসার আগে। আমার চেনা কারও ব্যাপারে এটা কোনো রায় নয়। প্রশ্নটা বরং আমার দিকেই ফেরে: ভেতরটা ফাঁকা লাগলে আমি নিজেকে কী দিয়ে ভরাই? আর যে ক্ষুধা নিয়ে গিয়েছিলাম, তা কি কখনো মেটে?",
+    "pointsEn": [
+      "When I feel empty, what do I reach for first, and do I come away any less hungry?",
+      "Which of my habits fill my days without ever giving anything back, and why do I keep them?",
+      "When I read about the companions of the left, do I hear the warning addressed to me, or do I quietly place other people in the scene?",
+      "This warning reaches me before the Day it describes. What would acting on it look like this week?",
+      "What would it mean for me to seek, in worship and in my choices, what truly nourishes the heart?"
+    ],
+    "pointsBn": [
+      "ভেতরটা ফাঁকা লাগলে আমি প্রথমে কীসের দিকে হাত বাড়াই? তাতে কি ক্ষুধা একটুও কমে?",
+      "আমার কোন অভ্যাসগুলো দিন ভরিয়ে রাখে, অথচ বিনিময়ে কিছুই দেয় না? তবু কেন সেগুলো আঁকড়ে আছি?",
+      "বাম দিকের লোকদের কথা পড়ার সময় আমি কি সতর্কবাণীটা নিজের জন্য শুনি, নাকি মনে মনে অন্য কাউকে সেই দৃশ্যে বসিয়ে দিই?",
+      "যে দিনের কথা এ আয়াত বলছে, সেই দিনের আগেই সতর্কবাণীটা আমার কাছে পৌঁছেছে। এ সপ্তাহে এর উপর আমল করা আমার জন্য কেমন হতে পারে?",
+      "ইবাদতে আর প্রতিদিনের সিদ্ধান্তে যা সত্যিই অন্তরকে পুষ্টি দেয়, তা খোঁজা আমার জন্য কী অর্থ বহন করে?"
+    ],
+    "lessonEn": "The Qur'an describes bellies filled with what never nourishes while there is still time to listen; seek what truly satisfies, and never read the scene as a verdict on others.",
+    "lessonBn": "যা কখনো পুষ্টি দেয় না, তা দিয়ে পেট ভরানোর ছবি কুরআন দেখাচ্ছে এখনই, যখন শোনার সময় আছে। যা সত্যিই তৃপ্তি দেয় তা খুঁজুন, আর এ দৃশ্যকে কখনো অন্যের উপর রায় বানাবেন না।"
   }
 };
 

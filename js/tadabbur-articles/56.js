@@ -1927,6 +1927,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "56:53": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Eating to Filling",
+          "bn": "খাওয়া থেকে পেট ভরানো"
+        },
+        "p": [
+          {
+            "en": "Fa-mali'una minha l-butun: and filling the bellies from it. The verse has three words and no subject of its own. It continues the sentence that opened in 56:51, then indeed you, O you who are astray and deny, and whose predicate came in 56:52, you will surely be eaters from trees of zaqqum. Here a second predicate is joined on with the letter fa. The eating named in the previous verse does not stop at a taste; it goes on until the bellies are full. The next two verses are joined on with the same letter.",
+            "bn": "ফামালিউনা মিনহাল বুতুন: আর তা দিয়ে পেট ভর্তি করবে। আয়াতটি তিনটি শব্দের, এর নিজস্ব কোনো কর্তা নেই। বাক্যটা শুরু হয়েছিল ৫৬:৫১ আয়াতে: তারপর তোমরা, হে পথভ্রষ্ট মিথ্যারোপকারীরা। তাদের সম্পর্কে প্রথম খবরটা এসেছিল ৫৬:৫২ আয়াতে: তোমরা অবশ্যই জাক্কুম গাছ থেকে খাবে। এখানে ফা অক্ষর দিয়ে জুড়ে দেওয়া হলো দ্বিতীয় খবর। আগের আয়াতের খাওয়া এক কামড়ে থামে না, চলতে থাকে পেট ভরে যাওয়া পর্যন্ত। পরের দুটি আয়াতও জুড়েছে এই একই অক্ষর দিয়ে।"
+          },
+          {
+            "en": "The Muyassar reads 56:52 to 56:55 as one passage and paraphrases them in a single run: eating from the zaqqum, filling the bellies, drinking scalding water on top of it, drinking like thirsty camels. Ibn Kathir quotes 56:51 to 56:53 together before his comment, and at-Tabari's entry on 56:51 already explains this verse. Read as a group, the four verses move in steps, and this verse is the step at which the eating reaches its full extent. The participle mali'una, like akiluna before it, names those addressed by what they will be doing.",
+            "bn": "মুয়াসসার ৫৬:৫২ থেকে ৫৬:৫৫ পর্যন্ত আয়াতগুলোকে এক অংশ ধরে এক টানে ব্যাখ্যা করে: জাক্কুম থেকে খাওয়া, পেট ভরানো, তার উপর ফুটন্ত পানি পান করা, পিপাসার্ত উটের মতো পান করা। ইবন কাসীর মন্তব্যের আগে ৫৬:৫১ থেকে ৫৬:৫৩ একসঙ্গে উদ্ধৃত করেন। আর তাবারী ৫৬:৫১ আয়াতের আলোচনাতেই এ আয়াতের ব্যাখ্যা দিয়ে ফেলেন। চারটি আয়াত একসঙ্গে পড়লে দেখা যায়, দৃশ্যটা ধাপে ধাপে এগোয়। এ আয়াত সেই ধাপ, যেখানে খাওয়া তার শেষ সীমায় পৌঁছায়। আগের আয়াতের আকিলূনা, মানে যারা খাবে, আর এখানকার মালিউনা, মানে যারা ভরাবে, দুটো শব্দই একই ধাঁচের। যাদের সম্বোধন করা হচ্ছে, তাদের চেনানো হচ্ছে তারা যা করবে তা দিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bellies Without a Pronoun",
+          "bn": "সর্বনাম ছাড়া পেট"
+        },
+        "p": [
+          {
+            "en": "The verse says al-butun, the bellies, with the definite article and no possessive. Your bellies is the sense, since the address in 56:51 is to you, and the translation on this site supplies the word. The commentators make the same move in their paraphrases, each in his own grammatical person. The Muyassar writes butunakum, your bellies, keeping the second person of the address. At-Tabari writes fa-mali'una min al-shajar al-zaqqum butunahum, filling their bellies from the zaqqum trees, and Ibn Kathir writes hatta yamla'u minha butunahum, until they fill their bellies from it.",
+            "bn": "আয়াতে আছে আল-বুতুন, পেটগুলো। শব্দটার সঙ্গে নির্দিষ্টবাচক আল আছে, কিন্তু কার পেট তা বলা নেই। অর্থ অবশ্য তোমাদের পেট, কারণ ৫৬:৫১ আয়াতে সম্বোধন তোমাদেরকেই। এ সাইটের অনুবাদেও শব্দটা জুড়ে দেওয়া হয়েছে। তাফসীরকারেরাও নিজের নিজের ভাষ্যে একই কাজ করেন, যার যার মতো করে। মুয়াসসার লেখে বুতুনাকুম, তোমাদের পেট, অর্থাৎ সম্বোধনের ধরনটা ধরে রাখে। তাবারী লেখেন, তারা জাক্কুম গাছ থেকে নিজেদের পেট ভরাবে। আর ইবন কাসীরের ভাষায়: যতক্ষণ না তারা তা দিয়ে নিজেদের পেট ভরিয়ে ফেলে।"
+          },
+          {
+            "en": "These are paraphrases, and they explain the sense without changing the wording. The verse itself keeps the bellies in the general form, and none of the commentaries consulted for it remarks on the article, so nothing further is built on it here. What all of them repeat is the verb. Each paraphrase keeps the idea of filling: mali'una in the Muyassar and at-Tabari, yamla'u in Ibn Kathir. Not one of them softens it into eating a little or tasting. The verse speaks of full bellies, and the commentators leave them full.",
+            "bn": "এগুলো ব্যাখ্যামূলক ভাষ্য। অর্থ খুলে বলে, শব্দ বদলায় না। আয়াত নিজে পেটের কথা বলেছে সাধারণভাবে। আর এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আল নিয়ে কিছু বলেনি। তাই এর উপর এখানে আর কিছু দাঁড় করানো হচ্ছে না। সবাই যা বারবার বলেছেন, তা হলো ক্রিয়াটা। প্রতিটি ভাষ্যে ভরানোর কথাটাই টিকে আছে: মুয়াসসার আর তাবারীতে মালিউনা, ইবন কাসীরে ইয়ামলাউ। একজনও একে নরম করে একটু খাওয়া বা চেখে দেখা বানাননি। আয়াত বলছে ভরা পেটের কথা, তাফসীরকারেরাও পেট ভরাই রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Feminine Points",
+          "bn": "স্ত্রীলিঙ্গ সর্বনামের ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "Minha, from it, is a feminine pronoun. What does it refer to? The word for the trees in 56:52 is shajar, a collective, and at-Tabari reports that the grammarians differed over why a feminine pronoun follows it. The first view he records was looked at in this site's study of 56:52: shajar can be treated as either gender, and the feminine comes from taking it as shajara, a single tree, since that word can stand for a whole kind. The text filed under this verse carries the rest of his report.",
+            "bn": "মিনহা, তা থেকে। এখানে সর্বনামটা স্ত্রীলিঙ্গ। প্রশ্ন হলো, এটা কোন শব্দের দিকে ফিরছে? ৫৬:৫২ আয়াতে গাছের জন্য শব্দ এসেছে শাজার, যা সমষ্টিবাচক। তাবারী জানান, এর পরে স্ত্রীলিঙ্গ সর্বনাম কেন এল, তা নিয়ে আরবি ভাষাবিদদের মধ্যে মতভেদ হয়েছে। তাঁর উল্লেখ করা প্রথম মতটি এ সাইটের ৫৬:৫২ আয়াতের আলোচনায় দেখা হয়েছে। সে মতে শাজার শব্দটি দুই লিঙ্গেই চলে। আর স্ত্রীলিঙ্গ এসেছে শব্দটিকে শাজারা, মানে একটি গাছ ধরে নেওয়ায়, কারণ এ শব্দ গোটা জাতকেও বোঝাতে পারে। তাঁর বাকি আলোচনা এসেছে এ আয়াতের অংশে।"
+          },
+          {
+            "en": "There he gives the view of a grammarian of Kufa. Minha means from the tree, shajara. Had the verse said minhu, with a masculine pronoun, that too would have been correct, the pronoun then going back to shajar. As it stands, the feminine is a reference to shajar as well, because shajar is treated as feminine and as masculine, just as tamr, dates, is. On this account nothing irregular has happened: the word for the trees allows either pronoun, and the verse has used one of the two.",
+            "bn": "সেখানে তিনি কুফার এক ভাষাবিদের মত তুলে ধরেন। মিনহা মানে গাছটি থেকে, অর্থাৎ শাজারা থেকে। আয়াতে যদি পুংলিঙ্গ সর্বনাম দিয়ে মিনহু বলা হতো, সেটাও শুদ্ধ হতো, তখন সর্বনাম ফিরত শাজার শব্দের দিকে। আর এখন যে স্ত্রীলিঙ্গ এসেছে, তা-ও শাজারকেই বোঝায়। কারণ শাজার শব্দ স্ত্রীলিঙ্গেও চলে, পুংলিঙ্গেও চলে, ঠিক যেমন চলে তামর, মানে খেজুর। এ ব্যাখ্যায় অস্বাভাবিক কিছু ঘটেনি। গাছের শব্দটা দুই সর্বনামই নিতে পারে, আয়াত তার একটি বেছে নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Meaning One Way, Wording Another",
+          "bn": "অর্থে এক লিঙ্গ, শব্দে আরেক"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gives his own judgement: the correct view, in his words, is the second. In fa-mali'una minha, the pronoun means the shajar and is made feminine for the meaning. Then in the very next verse, fa-sharibuna 'alayhi, drinking on top of it, the pronoun is masculine, following the outward wording of shajar. One collective noun is referred to twice, once by what it means and once by how it is spoken, and at-Tabari sees no clash between the two pronouns. On his reading the verse and its neighbour are two sides of one usage.",
+            "bn": "এরপর তাবারী নিজের রায় দেন। তাঁর ভাষায়, সঠিক মত দ্বিতীয়টি। ফামালিউনা মিনহা কথায় সর্বনামটি শাজারকেই বোঝায়, তবে অর্থের দিকে তাকিয়ে তাকে স্ত্রীলিঙ্গ করা হয়েছে। আবার ঠিক পরের আয়াতে, ফাশারিবূনা আলাইহি, তার উপর পান করবে, সেখানে সর্বনাম পুংলিঙ্গ, কারণ সেখানে খেয়াল রাখা হয়েছে শাজার শব্দের বাহ্যিক রূপের দিকে। একই সমষ্টিবাচক শব্দের দিকে দুবার ইঙ্গিত করা হলো। একবার তার অর্থ ধরে, আরেকবার তার উচ্চারিত রূপ ধরে। তাবারী দুই সর্বনামের মধ্যে কোনো বিরোধ দেখেন না। তাঁর পাঠে এ আয়াত আর পরের আয়াত একই ভাষারীতির দুই দিক।"
+          },
+          {
+            "en": "Al-Qurtubi, on this verse, gives a shorter account with a different emphasis, close to the first words of the Kufan view. Minha, he says, means from the tree, li-anna al-maqsud min al-shajar shajara, because what is intended by shajar is a tree. Where at-Tabari has the feminine follow the meaning of the collective, al-Qurtubi has it follow the single tree that the collective stands for. Both agree that the pronoun refers to the zaqqum and to nothing else. They differ in how they get there, and each is left here as he states it.",
+            "bn": "কুরতুবী এ আয়াতে ছোট একটি ব্যাখ্যা দেন, তবে জোরটা একটু অন্য জায়গায়। তাঁর কথা কুফার ভাষাবিদের মতের শুরুর অংশের কাছাকাছি। তিনি বলেন, মিনহা মানে গাছটি থেকে, কারণ শাজার বলে উদ্দেশ্য একটি গাছ। তাবারীর মতে স্ত্রীলিঙ্গ এসেছে সমষ্টিবাচক শব্দের অর্থ ধরে। কুরতুবীর মতে এসেছে সেই একক গাছ ধরে, যার প্রতিনিধি এই সমষ্টিবাচক শব্দ। দুজনেই একমত যে সর্বনামটি জাক্কুমকেই বোঝায়, অন্য কিছুকে নয়। পার্থক্য শুধু সেখানে পৌঁছানোর পথে। দুজনের কথাই এখানে রাখা হলো যেভাবে তাঁরা বলেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi also comments on the phrase in 56:52 that this verse completes. The first min in min shajarin may be za'ida, an added particle, so that the verse would amount to eaters of trees of zaqqum. Or the object may be left unstated, as if it said eaters, from trees of zaqqum, of food. Either way, min zaqqum describes shajar, though he notes that its grammatical case works out differently under each reading. For this verse the result is simple: whether the trees or a food drawn from them, minha brings the filling back to the zaqqum.",
+            "bn": "যে বাক্যাংশকে এ আয়াত পূর্ণ করে, ৫৬:৫২ আয়াতের সেই কথাটি নিয়েও কুরতুবী মন্তব্য করেন। মিন শাজারিন কথার প্রথম মিন হতে পারে অতিরিক্ত অব্যয়। তাহলে অর্থ দাঁড়ায়: জাক্কুম গাছই তারা খাবে। আবার হতে পারে খাওয়ার বস্তুটা উহ্য রাখা হয়েছে, যেন বলা হয়েছে: জাক্কুম গাছ থেকে খাবার খাবে। দুই অবস্থাতেই মিন জাক্কুম কথাটি শাজারের বিশেষণ। তবে তিনি জানান, কোন পাঠ ধরা হচ্ছে তার উপর নির্ভর করে শব্দটির বিভক্তি বদলায়। এ আয়াতের জন্য ফলাফল সহজ। গাছ নিজেই হোক বা তা থেকে নেওয়া খাবার, মিনহা পেট ভরানোকে ফিরিয়ে আনে জাক্কুমের কাছেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Words Shared With al-Saffat",
+          "bn": "সাফফাতের সঙ্গে মিলে যাওয়া তিন শব্দ"
+        },
+        "p": [
+          {
+            "en": "The verse has a near twin. In 37:66, in the passage on the tree in al-Saffat, the Qur'an says fa-innahum la-akiluna minha fa-mali'una minha l-butun: and indeed they will be eating from it and filling the bellies from it. The last three words there are the three words of this verse. The differences lie around them. Al-Saffat speaks of them rather than to you, and it names the tree with the singular shajara: shajaratu z-zaqqum in 37:62, innaha shajaratun in 37:64. There the feminine minha follows a feminine word, and it comes twice.",
+            "bn": "এ আয়াতের প্রায় হুবহু একটি জোড়া আছে। সূরা সাফফাতে গাছটির আলোচনায় ৩৭:৬৬ আয়াতে কুরআন বলে: ফাইন্নাহুম লাআকিলূনা মিনহা ফামালিউনা মিনহাল বুতুন, তারা তা থেকে খাবে আর তা দিয়ে পেট ভরাবে। সেখানকার শেষ তিনটি শব্দ আর এ আয়াতের তিনটি শব্দ একই। পার্থক্য আশপাশে। সাফফাতে কথা বলা হয়েছে তাদের সম্পর্কে, সরাসরি সম্বোধনে নয়। আর সেখানে গাছের নাম এসেছে একবচন শাজারা দিয়ে: ৩৭:৬২ আয়াতে শাজারাতুয যাক্কুম, ৩৭:৬৪ আয়াতে ইন্নাহা শাজারাতুন। তাই সেখানে স্ত্রীলিঙ্গ মিনহা এসেছে স্ত্রীলিঙ্গ শব্দের পরেই, তাও দুবার।"
+          },
+          {
+            "en": "The pronoun of the drink differs too. Al-Saffat goes on in 37:67: thumma inna lahum 'alayha la-shawban min hamim, then on top of it they will have a mixture of scalding water, with 'alayha, feminine. Al-Waqi'ah, which used the collective shajar, goes on with 'alayhi, masculine. The commentaries consulted for this verse do not set the two passages side by side, so this is an observation from the wording alone, which anyone can check. It sits easily with at-Tabari's account: in these two passages, the collective shajar takes both pronouns, the singular shajara only the feminine.",
+            "bn": "পানীয়ের বেলায় সর্বনামও আলাদা। সাফফাত ৩৭:৬৭ আয়াতে এগিয়ে যায় এভাবে: সুম্মা ইন্না লাহুম আলাইহা লাশাওবাম মিন হামীম, তারপর তার উপর তাদের জন্য থাকবে ফুটন্ত পানির মিশ্রণ। এখানে আলাইহা, স্ত্রীলিঙ্গ। আর ওয়াকিআ, যেখানে এসেছে সমষ্টিবাচক শাজার, এগিয়ে যায় আলাইহি দিয়ে, পুংলিঙ্গ। এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই দুই অংশকে পাশাপাশি রেখে দেখায়নি। তাই এটা শুধু শব্দ থেকে করা একটা পর্যবেক্ষণ, যে কেউ মিলিয়ে দেখতে পারেন। তাবারীর ব্যাখ্যার সঙ্গে এটা সহজেই মেলে। এই দুই জায়গায় সমষ্টিবাচক শাজার দুই সর্বনামই নিয়েছে, আর একবচন শাজারা নিয়েছে কেবল স্ত্রীলিঙ্গ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seized Before They Eat",
+          "bn": "খাওয়ার আগে পাকড়াও"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's note on this verse is a single sentence, and its verbs are passive: wa-dhalika annahum yuqbaduna wa-yusjaruna hatta ya'kulu min shajar al-zaqqum hatta yamla'u minha butunahum. That is, they are seized, and yusjarun, until they eat from the zaqqum trees, until they fill their bellies from it. The second verb is the one the Qur'an uses in 40:72 of those in the Fire: thumma fi n-nari yusjarun. Ibn Kathir does not gloss it, so it is left untranslated here rather than given a sense the fetched text does not state.",
+            "bn": "এ আয়াতে ইবন কাসীরের মন্তব্য মাত্র একটি বাক্যের, আর তার ক্রিয়াগুলো কর্মবাচ্যে। তিনি লেখেন: তাদের পাকড়াও করা হবে, আর ইউসজারূন, যতক্ষণ না তারা জাক্কুম গাছ থেকে খায়, যতক্ষণ না তা দিয়ে নিজেদের পেট ভরিয়ে ফেলে। দ্বিতীয় ক্রিয়াটি কুরআন ব্যবহার করেছে ৪০:৭২ আয়াতে, জাহান্নামবাসীদের প্রসঙ্গে: সুম্মা ফিন নারি ইউসজারূন। ইবন কাসীর শব্দটির অর্থ খুলে বলেননি। তাই এখানেও এর অনুবাদ করা হলো না। সংগ্রহ করা লেখায় যে অর্থ নেই, তা চাপিয়ে দেওয়ার চেয়ে এটাই ভালো।"
+          },
+          {
+            "en": "What the sentence does make plain is the shape of the scene. In his wording the eating is something that happens to them, not an appetite indulged, and two hatta clauses mark a limit reached in two stages: first the eating, then bellies full. Al-Baghawi, on this verse, does no more than repeat its words. None of the commentaries consulted for 56:53 attaches a hadith to it, so no narration is quoted here; the narration about zaqqum and its grading are discussed in the study of 44:43, and the reader is pointed there.",
+            "bn": "বাক্যটি যা স্পষ্ট করে, তা হলো দৃশ্যের গড়ন। তাঁর ভাষায় খাওয়াটা তাদের সঙ্গে ঘটানো হচ্ছে, তারা রুচি মিটিয়ে খাচ্ছে না। আর দুবার আসা হাত্তা, মানে যতক্ষণ না, দুই ধাপে একটা সীমায় পৌঁছানো দেখায়: আগে খাওয়া, তারপর পেট ভরে যাওয়া। বাগাভী এ আয়াতে আয়াতের শব্দগুলো আবার উল্লেখ করা ছাড়া আর কিছু বলেননি। ৫৬:৫৩ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই এখানে কোনো বর্ণনা উদ্ধৃত হলো না। জাক্কুম বিষয়ক বর্ণনাটি আর তার মান নিয়ে আলোচনা আছে ৪৪:৪৩ আয়াতের পাঠে, পাঠককে সেখানে দেখতে বলা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hunger That Burns Within",
+          "bn": "ভেতরে জ্বলতে থাকা ক্ষুধা"
+        },
+        "p": [
+          {
+            "en": "Why would anyone fill himself with a food the commentators count among the ugliest of trees? The Muyassar's answer, noted in the study of 56:52, is li-shiddat al-ju', from the severity of hunger. As-Sa'di, on this verse, gives the fullest answer among the sources. What made them eat it, hideous as it is, was al-ju' al-mufrit, an excessive hunger, alladhi yaltahibu fi akbadihim, which blazes in their livers, wa-takadu tanqati'u minhu af'idatuhum, and from which their hearts are almost torn apart.",
+            "bn": "যে গাছকে তাফসীরকারেরা সবচেয়ে কুৎসিত গাছগুলোর একটি বলেছেন, তা দিয়ে কেউ পেট ভরাবে কেন? মুয়াসসারের উত্তর, যা ৫৬:৫২ আয়াতের পাঠে এসেছে: ক্ষুধার তীব্রতার কারণে। এ আয়াতে সবচেয়ে বিস্তারিত উত্তর দেন সা'দী। তিনি বলেন, এত জঘন্য হওয়া সত্ত্বেও যা তাদের এটা খেতে বাধ্য করেছে, তা হলো সীমাছাড়া ক্ষুধা। সে ক্ষুধা তাদের কলিজায় দাউদাউ করে জ্বলে, আর তার জ্বালায় তাদের অন্তর যেন ছিঁড়ে যাওয়ার উপক্রম হয়।"
+          },
+          {
+            "en": "He then turns the description back on itself. Hadha al-ta'am alladhi yadfa'una bihi al-ju': this is the food with which they try to push the hunger away, and it is the food that la yusminu wa-la yughni min ju', neither nourishes nor avails against hunger. Those last words are the Qur'an's own, from 88:7, where they describe dari', named in 88:6 as the only food of those that passage speaks of. As-Sa'di borrows them here. The food fills the belly and leaves the hunger it was eaten for unanswered.",
+            "bn": "তারপর তিনি বর্ণনাটাকে তার নিজের দিকেই ঘুরিয়ে দেন। এই সেই খাবার, যা দিয়ে তারা ক্ষুধা ঠেকাতে চায়। অথচ এটাই সেই খাবার, যা পুষ্টি দেয় না, ক্ষুধাও মেটায় না। শেষ কথাটুকু কুরআনেরই, ৮৮:৭ আয়াত থেকে নেওয়া। সেখানে এ বর্ণনা দাড়ী' নামের খাবারের, ৮৮:৬ আয়াত যাকে বলেছে ওই আয়াতে উল্লিখিত লোকদের একমাত্র খাবার। সা'দী কথাটা এখানে ধার করে এনেছেন। খাবারে পেট ভরে, কিন্তু যে ক্ষুধার জন্য খাওয়া, সে ক্ষুধা থেকেই যায়।"
+          },
+          {
+            "en": "So the verse holds two things together. The bellies are full, as every paraphrase insists, and the hunger is not met, as as-Sa'di's borrowed words say. The next verses add thirst: the Muyassar describes water at the extreme of heat that does not quench thirst, drunk in quantity like camels that are never quenched because of an illness that afflicts them. Those verses have their own study. Here it is enough to see that the filling answers nothing, and that what follows it is a thirst of the same kind.",
+            "bn": "তাই আয়াতটি দুটি জিনিস একসঙ্গে ধরে রাখে। পেট ভরা, প্রতিটি ভাষ্য যেটা জোর দিয়ে বলে। আবার ক্ষুধা মেটে না, সা'দীর ধার করা কথাগুলো যেটা বলে। পরের আয়াতগুলো যোগ করে পিপাসা। মুয়াসসার বর্ণনা দেয় চরম গরম পানির, যা পিপাসা মেটায় না। তারা তা পান করবে প্রচুর পরিমাণে, সেই পিপাসার্ত উটের মতো, যারা কোনো রোগের কারণে কখনো তৃপ্ত হয় না। সে আয়াতগুলোর আলাদা পাঠ আছে। এখানে এটুকু দেখাই যথেষ্ট যে পেট ভরানো কিছুই মেটায় না, আর তার পরে আসে একই ধরনের পিপাসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Picture That Names No One",
+          "bn": "যে ছবি কারও নাম নেয় না"
+        },
+        "p": [
+          {
+            "en": "The verse describes the end of those named in 56:51, the astray who deny, whom at-Tabari places among the companions of the left. It describes what the text describes. It licenses nothing against any living person or community, and it gives no one the right to say of a neighbour, a relative or a people that this meal is waiting for them. How each life ends is known to Allah alone, and the passage marks a course of straying and denial, not a group a reader may fill with names.",
+            "bn": "আয়াতটি বর্ণনা করছে ৫৬:৫১ আয়াতে যাদের কথা বলা হয়েছে তাদের পরিণতি: পথভ্রষ্ট মিথ্যারোপকারীরা, তাবারী যাদের বাম দিকের লোকদের মধ্যে গণ্য করেন। আয়াত যা বলে, শুধু তা-ই বলে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, আত্মীয় বা কোনো জাতি সম্পর্কে কেউ বলতে পারে না যে এই খাবার তাদের জন্য অপেক্ষা করছে। কার জীবন কীভাবে শেষ হবে, তা কেবল আল্লাহই জানেন। আয়াত দেখায় পথভ্রষ্টতা আর অস্বীকারের একটা পথ, এমন কোনো দল নয় যাতে পাঠক নাম বসাতে পারে।"
+          },
+          {
+            "en": "What the verse may fairly do is turn the reader inward. Its scene is a hunger met by something that fills and does not nourish, and a reader may recognise that pattern in this life, where a person can keep reaching for what leaves him as empty as before. That is a reflection drawn from the picture, not a commentator's reading. The scene itself is told before the Day comes, while anyone who hears it can still turn, with whatever hunger he carries, towards Allah and the guidance He sent.",
+            "bn": "আয়াত যা ন্যায্যভাবে করতে পারে, তা হলো পাঠককে নিজের দিকে ফেরানো। এর দৃশ্যে ক্ষুধার সামনে আসে এমন জিনিস, যা পেট ভরায় কিন্তু পুষ্টি দেয় না। এ দুনিয়াতেও পাঠক এই ধরনটা চিনতে পারেন। মানুষ বারবার এমন কিছুর দিকে হাত বাড়ায়, যা তাকে আগের মতোই ফাঁকা রেখে দেয়। এটা ছবি থেকে টানা একটা চিন্তা, কোনো তাফসীরকারের ব্যাখ্যা নয়। দৃশ্যটা শোনানো হচ্ছে সেই দিন আসার আগে। যে শোনে, সে এখনো ফিরতে পারে। যে ক্ষুধাই বয়ে বেড়াক, তা নিয়ে ফিরতে পারে আল্লাহর দিকে আর তাঁর পাঠানো হিদায়াতের দিকে।"
+          }
+        ]
+      }
+    ]
+  },
   "56:60": {
     "sections": [
       {
