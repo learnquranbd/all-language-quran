@@ -463,6 +463,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "58:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "What Could Stand Between",
+          "bn": "মাঝখানে কী দাঁড়াতে পারত"
+        },
+        "p": [
+          {
+            "en": "The verse closes a short portrait that begins at 58:14. There Allah points to people who made allies of a people with whom He was angry, who belong neither to the believers nor to the others, and who swear to a lie while they know it. He has prepared a severe punishment for them (58:15); they took their oaths as a cover and turned people from His way, so theirs is a humiliating punishment (58:16). This verse then names what such people might set between themselves and that punishment, and sets it aside.",
+            "bn": "৫৮:১৪ থেকে একটি ছোট্ট ছবি শুরু হয়েছে, এ আয়াতে এসে তা শেষ হয়। সেখানে আল্লাহ এমন কিছু লোকের দিকে ইশারা করেন, যারা এমন এক সম্প্রদায়কে বন্ধু বানিয়েছে যাদের উপর তিনি রাগান্বিত। তারা মুমিনদের দলেও নয়, ওদের দলেও নয়, আর জেনেশুনে মিথ্যা কসম খায়। তাদের জন্য তিনি কঠিন শাস্তি প্রস্তুত রেখেছেন (৫৮:১৫)। তারা কসমকে ঢাল বানিয়ে মানুষকে আল্লাহর পথ থেকে ফিরিয়েছে, তাই তাদের জন্য অপমানজনক শাস্তি (৫৮:১৬)। এবার এ আয়াত বলে দেয়, সেই শাস্তি আর নিজেদের মাঝখানে তারা কী দাঁড় করাতে চাইত, আর সেটাকে সরিয়ে রাখে।"
+          },
+          {
+            "en": "Lan tughniya 'anhum amwaluhum wa la awladuhum mina-llahi shay'an: never will their wealth or their children avail them against Allah at all. The commentators fill in what min Allah leaves understood. Al-Qurtubi glosses it as from His punishment, anything at all; the Muyassar says their wealth and children will not repel anything of Allah's punishment from the hypocrites. Ibn Kathir: that will not repel any harm from them when it comes to them. At-Tabari and al-Baghawi both fix the moment: on the Day of Resurrection.",
+            "bn": "লান তুগনিয়া আনহুম আমওয়ালুহুম ওয়া লা আওলাদুহুম মিনাল্লাহি শাইআ: তাদের ধন-সম্পদ আর সন্তান আল্লাহর মোকাবিলায় তাদের কোনোই কাজে আসবে না। মিনাল্লাহ, অর্থাৎ আল্লাহ থেকে, কথাটার ভেতরে যা না-বলা রয়ে গেছে, মুফাসসিররা তা খুলে দেন। কুরতুবীর ব্যাখ্যা: তাঁর শাস্তি থেকে, কিছুমাত্রও নয়। মুয়াসসার বলে, মুনাফিকদের ধন-সম্পদ ও সন্তান আল্লাহর শাস্তির কিছুই তাদের থেকে ঠেকাতে পারবে না। ইবন কাসীর বলেন, বিপদ যখন আসবে, এগুলো তাদের থেকে কোনো বিপদ সরাতে পারবে না। তাবারী আর বাগাভী দুজনেই সময়টা বেঁধে দেন: কিয়ামতের দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Ransom Nor Rescue",
+          "bn": "মুক্তিপণও নয়, উদ্ধারও নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives each of the two a task and shows it failing. Their wealth will not avail them, so that they might ransom themselves with it from Allah's humiliating punishment; nor their children, so that they might come to their aid and pull them out from Allah when He punishes them. Wealth is imagined as a price, children as a rescue party. One buys a way out, the other fights a way out, and the verse closes both routes with a single lan.",
+            "bn": "তাবারী দুটির প্রত্যেককে একটা করে কাজ দেন, তারপর দেখান কাজটা হচ্ছে না। তাদের ধন-সম্পদ কাজে আসবে না যে তা দিয়ে তারা আল্লাহর অপমানজনক শাস্তি থেকে নিজেদের ছাড়িয়ে নেবে। সন্তানরাও কাজে আসবে না যে আল্লাহ যখন শাস্তি দেবেন, তারা এসে সাহায্য করবে আর তাদের টেনে বের করে আনবে। সম্পদকে এখানে ভাবা হয়েছে মুক্তিপণ হিসেবে, সন্তানকে উদ্ধারকারী দল হিসেবে। একটা দিয়ে বেরোনোর পথ কেনা যায়, অন্যটা দিয়ে লড়ে বের হওয়া যায়। একটিমাত্র লান শব্দে আয়াত দুটি পথই বন্ধ করে দেয়।"
+          },
+          {
+            "en": "The Qur'an pictures both attempts elsewhere. Of those who die in disbelief it says that an earth full of gold would not be accepted from one of them, even if he offered it as ransom (3:91). And on that Day the criminal will wish he could ransom himself with his sons, his wife, his brother, the kin who sheltered him, and everyone on earth, if only it would save him (70:11 to 70:14). There the children are offered as the price itself, and still nothing is accepted.",
+            "bn": "কুরআনের অন্য জায়গায় দুটি চেষ্টারই ছবি আছে। যারা কুফরি অবস্থায় মারা যায়, তাদের একজনের কাছ থেকেও পৃথিবী-ভরা সোনা গ্রহণ করা হবে না, মুক্তিপণ হিসেবে দিলেও না (৩:৯১)। আর সেদিন অপরাধী চাইবে নিজের ছেলেদের, স্ত্রীকে, ভাইকে, যে গোষ্ঠী তাকে আশ্রয় দিত তাদের, এমনকি পৃথিবীর সবাইকে মুক্তিপণ দিয়ে হলেও বেঁচে যেতে (৭০:১১ থেকে ৭০:১৪)। সেখানে সন্তানরা আর সাহায্যকারী নয়, তারা নিজেরাই মুক্তিপণের দাম। তবু কিছুই কবুল হয় না।"
+          },
+          {
+            "en": "As-Sa'di adds the other side of the loss. Their wealth and children will not repel anything of the punishment from them, he says, nor gain them any share of the reward. The verse is usually heard as a failed defence, but on his reading it is also a failed investment. What they gathered could neither shield them from what they feared nor earn them what they might have hoped for. Both columns of the account come up empty.",
+            "bn": "সা'দী ক্ষতির অন্য দিকটাও যোগ করেন। তাঁর কথায়, তাদের ধন-সম্পদ আর সন্তান শাস্তির কিছুই তাদের থেকে ঠেকাবে না, আর সওয়াবের কোনো ভাগও তাদের এনে দেবে না। সাধারণত আয়াতটা শোনা হয় ব্যর্থ আত্মরক্ষা হিসেবে। তাঁর পাঠে এটা একটা ব্যর্থ বিনিয়োগও। যা তারা জমিয়েছিল, তা না পারল ভয়ের জিনিস থেকে বাঁচাতে, না পারল আশার জিনিস এনে দিতে। হিসাবের দুই দিকই শূন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Pronoun Carries",
+          "bn": "সর্বনাম কাদের বহন করে"
+        },
+        "p": [
+          {
+            "en": "The verse never names its subject; the pronoun in 'anhum reaches back to the people of 58:14. At-Tabari says so directly when he reaches ula'ika: these are the ones who took as allies a people with whom Allah was angry, and they are the hypocrites. The Muyassar names them the same way. On 58:14 itself, at-Tabari and al-Qurtubi both report Qatadah: they are the hypocrites, who allied themselves with the Jews; at-Tabari's wording adds that they gave them sincere counsel.",
+            "bn": "আয়াত নিজে কারও নাম নেয় না। আনহুম-এর সর্বনামটা পেছনে গিয়ে ৫৮:১৪-এর লোকদের ধরে। উলাইকা শব্দে পৌঁছে তাবারী সোজাসুজি বলে দেন: এরা তারাই, যারা আল্লাহর রোষে পড়া এক সম্প্রদায়কে বন্ধু বানিয়েছিল, আর এরা মুনাফিক। মুয়াসসারও তাদের এ নামেই চেনায়। ৫৮:১৪ আয়াতের আলোচনায় তাবারী ও কুরতুবী দুজনেই কাতাদার কথা আনেন: এরা মুনাফিক, যারা ইহুদিদের সঙ্গে মিত্রতা করেছিল। তাবারীর বর্ণনায় আরও আছে, তারা ওদের শুভাকাঙ্ক্ষী হয়ে পরামর্শ দিত।"
+          },
+          {
+            "en": "Their position is what makes the verse bite. In al-Qurtubi's text, running on from Qatadah's gloss, neither of you nor of them is explained: they are not of the Jews and not of the Muslims, but wavering in between, and they used to carry the Muslims' news to the other side. Ibn Kathir, in the English abridgement, sets 4:143 beside it: swaying between this and that, belonging neither to these nor to those. People with no settled side lean hardest on what they hold, and on the oaths that 58:16 calls their cover, in words that recur at 63:2.",
+            "bn": "তাদের অবস্থানটাই আয়াতকে এত তীক্ষ্ণ করে। কুরতুবীর পাঠে কাতাদার ব্যাখ্যার ধারাবাহিকতায় 'না তোমাদের, না ওদের' কথাটা এভাবে খোলা হয়েছে: তারা ইহুদিদেরও নয়, মুসলিমদেরও নয়। তারা মাঝখানে দোদুল্যমান, আর মুসলিমদের খবর ওপারে পৌঁছে দিত। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি রূপ এর পাশে রাখে ৪:১৪৩: এ দুইয়ের মাঝে দোলায়মান, না এদের দিকে, না ওদের দিকে। যার কোনো স্থির পক্ষ নেই, সে হাতের জিনিসের উপরই সবচেয়ে বেশি ভর দেয়। আর ভর দেয় কসমের উপর, যাকে ৫৮:১৬ তাদের ঢাল বলেছে। ঠিক এই শব্দগুলোই আবার এসেছে ৬৩:২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Men in the Reports",
+          "bn": "বর্ণনায় দুজন মানুষ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi, on 58:14, relays from as-Suddi and Muqatil that the passage came down about two hypocrites, 'Abd Allah ibn Ubayy and 'Abd Allah ibn Nabtal. One of them would sit with the Prophet ﷺ and then carry his talk to the Jews. While the Prophet ﷺ was in one of his rooms he said: a man will now come in to you whose heart is the heart of a tyrant and who looks with the eyes of a devil. Ibn Nabtal entered, and the Prophet ﷺ asked him why he and his companions reviled him.",
+            "bn": "৫৮:১৪ আয়াতের আলোচনায় কুরতুবী সুদ্দী ও মুকাতিল থেকে বর্ণনা করেন, অংশটি দুজন মুনাফিককে নিয়ে নাযিল হয়েছিল: আবদুল্লাহ ইবন উবাই ও আবদুল্লাহ ইবন নাবতাল। তাদের একজন নবী ﷺ-এর মজলিসে বসত, তারপর তাঁর কথা ইহুদিদের কাছে পৌঁছে দিত। নবী ﷺ একবার তাঁর এক কামরায় ছিলেন। তিনি বললেন, এখনই তোমাদের কাছে এমন এক লোক ঢুকবে, যার অন্তর এক জালিমের অন্তর, আর যে শয়তানের চোখে তাকায়। ইবন নাবতাল ঢুকল। নবী ﷺ তাকে জিজ্ঞেস করলেন, সে আর তার সঙ্গীরা কেন তাঁকে গালি দেয়?"
+          },
+          {
+            "en": "He swore by Allah he had not. The Prophet ﷺ said: you did. He went and brought his companions, and they swore by Allah they had not reviled him; then, the report says, the verse was revealed. Al-Qurtubi adds that Ibn 'Abbas said the like, through 'Ikrimah, in a version set in the shade of a tree, where all of them swore and Allah sent down 58:18 and 58:19. At-Tabari, opening with it has been mentioned, gives a chain through Sa'id ibn Jubayr from Ibn 'Abbas, ending with this verse in al-Mujadila and the other verse.",
+            "bn": "সে আল্লাহর নামে কসম খেয়ে বলল, সে এমন করেনি। নবী ﷺ বললেন, তুমি করেছ। সে গিয়ে সঙ্গীদের নিয়ে এল, তারাও আল্লাহর নামে কসম খেল যে তাঁকে গালি দেয়নি। বর্ণনা অনুযায়ী তখনই আয়াতটি নাযিল হয়। কুরতুবী যোগ করেন, ইকরিমার সূত্রে ইবন আব্বাস (রাঃ)-ও একই রকম কথা বলেছেন। সেখানে ঘটনাটা এক গাছের ছায়ায়, সবাই মিলে কসম খায়, আর আল্লাহ নাযিল করেন ৫৮:১৮ ও ৫৮:১৯। তাবারী 'উল্লেখ করা হয়েছে' বলে শুরু করে সাঈদ ইবন জুবাইরের মাধ্যমে ইবন আব্বাস (রাঃ) পর্যন্ত একটি সনদ দেন। তাঁর বর্ণনা শেষ হয় এভাবে: মুজাদালার এই আয়াত আর অন্য আয়াতটি।"
+          },
+          {
+            "en": "None of these texts gives a grading, and none names 58:17 itself; they disagree whether the oath scene produced 58:14 or 58:18. Ma'arif al-Qur'an relays the Ibn Nabtal story from al-Qurtubi under according to some reports. So the occasion is a setting, not a boundary. The Muyassar, on this very verse, draws the line wider: this recompense covers everyone who turns people away from the religion of Allah by word or by deed. The verse looks at the act, not only at two men in Madinah.",
+            "bn": "এসব বর্ণনার কোনোটিতেই মান নির্ণয় নেই, আর কোনোটিই সরাসরি ৫৮:১৭-এর নাম নেয় না। কসমের ঘটনা থেকে ৫৮:১৪ নাযিল হয়েছিল নাকি ৫৮:১৮, তা নিয়েও বর্ণনাগুলো একমত নয়। মাআরিফুল কুরআন ইবন নাবতালের কাহিনিটা কুরতুবী থেকে আনে 'কিছু বর্ণনা অনুযায়ী' বলে। তাই নাযিলের প্রেক্ষাপট এখানে একটা পটভূমি, সীমারেখা নয়। এই আয়াতেই মুয়াসসার সীমা আরও বড় করে টানে: যে কেউ কথায় বা কাজে মানুষকে আল্লাহর দীন থেকে ফিরিয়ে রাখে, এ প্রতিফল তাকেও শামিল করে। আয়াতের নজর কাজের দিকে, মদীনার দুজন মানুষের মধ্যে আটকে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If There Is a Resurrection",
+          "bn": "যদি কিয়ামত হয়ই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives one report on this verse itself, from Muqatil. The hypocrites said: Muhammad claims that he will be helped on the Day of Resurrection; then we would be wretched indeed. By Allah, we will be helped on the Day of Resurrection by ourselves, our children and our wealth, if there is a Resurrection. The boast carries its own doubt at the end. They named their defence for a Day they were not sure would come, as people insure against a storm they do not quite believe in.",
+            "bn": "এ আয়াতের আলোচনায় কুরতুবী মুকাতিল থেকে একটি বর্ণনা আনেন। মুনাফিকরা বলেছিল, মুহাম্মাদ দাবি করে কিয়ামতের দিন তাকে সাহায্য করা হবে। তাহলে তো আমরা বড়ই হতভাগা! আল্লাহর কসম, কিয়ামতের দিন আমরাও সাহায্য পাব, নিজেদের দিয়ে, সন্তানদের দিয়ে, সম্পদ দিয়ে, যদি কিয়ামত হয়ই। দম্ভের শেষেই লুকিয়ে আছে সন্দেহ। যে দিনের আসা নিয়েই তারা নিশ্চিত নয়, সে দিনের জন্য তারা নিজেদের রক্ষাকবচের নাম ঘোষণা করে রেখেছিল। যেন এমন ঝড়ের জন্য বিমা করা, যে ঝড়ে মন থেকে বিশ্বাসই নেই।"
+          },
+          {
+            "en": "On that report, the verse answers them clause by clause: wealth and children, the very two they named, avail nothing, and the Day they hedged with an if is the setting of 58:18. It also borrows a sentence the Qur'an had already spoken. Apart from its opening and one small wa, the verse matches 3:116 word for word. There the sentence is said of those who disbelieve; here it opens straight on lan, and ula'ika comes without the wa. The verdict once passed on open denial now falls on the hidden kind, unchanged.",
+            "bn": "সেই বর্ণনা ধরে পড়লে আয়াত তাদের কথার এক এক অংশের জবাব দেয়। যে দুটি জিনিসের নাম তারা নিয়েছিল, সম্পদ আর সন্তান, সে দুটিই কোনো কাজে আসবে না। আর যে দিনকে তারা 'যদি' দিয়ে ঝুলিয়ে রেখেছিল, ৫৮:১৮ আয়াতে সেই দিনেরই দৃশ্য। আয়াতটি এমন এক বাক্যও বহন করে যা কুরআন আগেই বলেছে। শুরুটুকু আর ছোট্ট একটা ওয়া বাদ দিলে এটা হুবহু ৩:১১৬। সেখানে কথাটা কাফিরদের সম্পর্কে। এখানে আয়াত সরাসরি লান দিয়ে শুরু, আর উলাইকার আগে ওয়া নেই। প্রকাশ্য অস্বীকারের উপর যে রায় একবার দেওয়া হয়েছিল, গোপন অস্বীকারের উপরও তা একই ভাষায় এসে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its People, Without End",
+          "bn": "আগুনের বাসিন্দা, শেষহীন"
+        },
+        "p": [
+          {
+            "en": "Ula'ika ashabu-n-nar: those are the companions of the Fire. A sahib is one who keeps company, and the commentators read the word as belonging, not visiting. At-Tabari: its people, ahluha. As-Sa'di: those who cling to it, who do not come out of it. Then hum fiha khalidun, they abide therein. At-Tabari explains it as remaining in the Fire without any end, and the Muyassar spells out the same: they enter it and stay in it forever, and do not leave it.",
+            "bn": "উলাইকা আসহাবুন নার: তারাই আগুনের সঙ্গী। সাহিব মানে যে সঙ্গ দেয়, সঙ্গে থাকে। মুফাসসিররা শব্দটাকে পড়েন স্থায়ী সম্পর্ক হিসেবে, ক্ষণিকের অতিথি হিসেবে নয়। তাবারী বলেন, এর বাসিন্দা, আহলুহা। সা'দী বলেন, যারা একে আঁকড়ে থাকে, যারা এখান থেকে বের হয় না। তারপর হুম ফীহা খালিদূন, তারা সেখানে চিরকাল থাকবে। তাবারীর ব্যাখ্যায়, তারা আগুনে অবস্থান করবে এমনভাবে যার কোনো শেষ নেই। মুয়াসসারও একই কথা খুলে বলে: তারা এতে প্রবেশ করবে, চিরকাল থাকবে, বের হবে না।"
+          },
+          {
+            "en": "As-Sa'di closes his comment with a short maxim: whoever lives upon a thing dies upon it. The English abridgement of Ibn Kathir, at the next verse, says the like: those who live following a certain path will most likely die while on it, and so they are resurrected upon their path. Read beside khalidun, the maxim explains the permanence from the inside. What a person holds to in life becomes the ground he stands on at the end, and those who held to a cover meet the Day still holding it.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন ছোট্ট একটা কথায়: যে যার উপর জীবন কাটায়, তার উপরই মারা যায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি রূপ পরের আয়াতে প্রায় একই কথা বলে: যে মানুষ একটা নির্দিষ্ট পথে চলে জীবন কাটায়, খুব সম্ভব সেই পথেই তার মৃত্যু হয়, আর সেই পথের উপরই সে পুনরুত্থিত হয়। খালিদূন শব্দের পাশে রাখলে কথাটা ভেতর থেকে স্থায়িত্বের ব্যাখ্যা দেয়। জীবনে মানুষ যা আঁকড়ে থাকে, শেষে সেটাই হয় তার দাঁড়ানোর জমি। যারা ঢাল আঁকড়ে ছিল, তারা সেই ঢাল হাতে নিয়েই সেই দিনের মুখোমুখি হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Oath Brought to Judgement",
+          "bn": "বিচারের দিনে সেই কসম"
+        },
+        "p": [
+          {
+            "en": "The next verse shows exactly that. On the Day Allah raises them all, they will swear to Him as they swear to you, and think they stand on something (58:18). Ibn Kathir, in the English abridgement, explains: they will swear to Allah that they were on guidance and the right path, just as they used to swear to the believers, thinking their oaths would help them with Allah as they had helped them with people, who were obliged to treat them as what they pretended to be, Muslims.",
+            "bn": "পরের আয়াত ঠিক সেটাই দেখায়। যেদিন আল্লাহ তাদের সবাইকে ওঠাবেন, সেদিন তারা তাঁর কাছেও কসম খাবে, যেমন তোমাদের কাছে খায়, আর ভাববে তারা কোনো ভিত্তির উপর আছে (৫৮:১৮)। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি রূপ ব্যাখ্যা করে: তারা আল্লাহর কাছে কসম খেয়ে বলবে যে তারা হিদায়াত আর সঠিক পথের উপর ছিল, ঠিক যেভাবে দুনিয়ায় মুমিনদের কাছে কসম খেত। তারা ভাববে, মানুষের কাছে যেমন কসম কাজে লেগেছিল, আল্লাহর কাছেও তেমনি লাগবে। মানুষ তো তাদের সঙ্গে আচরণ করতে বাধ্য ছিল তারা যা সেজেছিল সেভাবেই, মুসলিম হিসেবে।"
+          },
+          {
+            "en": "Read in sequence, the passage takes away three supports one at a time. This verse removes the two that are held in the hand, wealth and children. The next removes the third, the oath, which had worked in this world because people must judge by what is said. Before the One who knows what is concealed, the oath is only one more thing that cannot avail. The verses do not say this in a single sentence; it is how their order reads, offered here as a reflection.",
+            "bn": "পর পর পড়লে দেখা যায়, অংশটি একটা একটা করে তিনটি ভরসা কেড়ে নেয়। এ আয়াত সরিয়ে দেয় হাতের দুটি জিনিস, সম্পদ আর সন্তান। পরের আয়াত সরিয়ে দেয় তৃতীয়টা, কসম। দুনিয়ায় কসম কাজ করেছিল, কারণ মানুষকে মুখের কথা দেখেই বিচার করতে হয়। কিন্তু যিনি গোপন সব জানেন, তাঁর সামনে কসমও আরেকটা জিনিস মাত্র, যা কোনো কাজে আসে না। আয়াতগুলো এক বাক্যে এ কথা বলে না। এটা তাদের ক্রম থেকে পাওয়া একটা ভাবনা, সেভাবেই এখানে রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Turn Back, One Stays",
+          "bn": "দুটি ফিরে যায়, একটা থাকে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A general narration, not tied to the verse by any of them, sets wealth and family side by side in the same way. Sahih al-Bukhari 6514, from Anas ibn Malik (RA): Allah's Messenger ﷺ said, \"When carried to his grave, a dead person is followed by three, two of which return (after his burial) and one remains with him: his relative, his property, and his deeds follow him; relatives and his property go back while his deeds remain with him.\"",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করে না। একটি সাধারণ বর্ণনা আছে, যা তাদের কেউ এ আয়াতের সঙ্গে জোড়েনি, কিন্তু সেখানেও সম্পদ আর পরিবার পাশাপাশি এসেছে। সহীহ বুখারী ৬৫১৪, আনাস ইবন মালিক (রাঃ) থেকে: রাসূলুল্লাহ ﷺ বলেছেন, \"মৃত ব্যক্তির পেছনে তিনটি জিনিস যায়। দুটি ফিরে আসে, একটি তার সঙ্গে থেকে যায়। তার পেছনে যায় তার পরিবার, তার সম্পদ আর তার আমল। পরিবার আর সম্পদ ফিরে আসে, থেকে যায় তার আমল।\""
+          },
+          {
+            "en": "Set beside the verse, the narration draws the same line from the other side. Wealth and family walk with a person as far as the grave and then turn back, and only deeds go on. The verse says those two cannot stand against Allah; the narration says they do not even stay. Neither text despises them. Elsewhere the Qur'an asks what brings a person near to Allah (34:37); this verse asks a narrower question, what can stand in a person's defence, and answers it with nothing.",
+            "bn": "আয়াতের পাশে রাখলে বর্ণনাটা একই রেখা টানে অন্য দিক থেকে। সম্পদ আর পরিবার মানুষের সঙ্গে কবর পর্যন্ত যায়, তারপর ফিরে আসে। এগিয়ে যায় কেবল আমল। আয়াত বলে, ওই দুটি আল্লাহর মোকাবিলায় দাঁড়াতে পারে না। বর্ণনা বলে, তারা সঙ্গেই থাকে না। কোনোটিই এগুলোকে তুচ্ছ করে না। কুরআন অন্য জায়গায় প্রশ্ন করে, কিসে মানুষ আল্লাহর নিকটবর্তী হয় (৩৪:৩৭)। এ আয়াতের প্রশ্ন আরও সরু: মানুষের পক্ষে কী দাঁড়াতে পারে? আর তার জবাব: কিছুই না।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes the hypocrites of the Prophet's ﷺ time as the text describes them, and it licenses nothing against any living person or community. It names no one today a hypocrite and gives no reader the right to. The abridged Ibn Kathir's remark that people were obliged to treat them as Muslims shows where the line ran even then. The question it leaves is for the reader alone: what am I counting on, and would it still stand if everything I hold had to turn back?",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-এর যুগের মুনাফিকদের বর্ণনা দেয়, ঠিক যেভাবে কুরআন তাদের বর্ণনা দিয়েছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আজ কাউকে মুনাফিক বলে চিহ্নিত করে না, কোনো পাঠককে সে অধিকারও দেয় না। ইবন কাসীরের সংক্ষিপ্ত রূপ বলে, মানুষ তখনও তাদের সঙ্গে মুসলিম হিসেবেই আচরণ করতে বাধ্য ছিল। সীমারেখাটা সেদিনও কোথায় ছিল, তা এখান থেকেই বোঝা যায়। আয়াত যে প্রশ্নটা রেখে যায়, তা কেবল পাঠকের নিজের জন্য: আমি কিসের উপর ভরসা করছি? হাতের সব কিছু ফিরে গেলেও কি তা টিকে থাকবে?"
+          }
+        ]
+      }
+    ]
+  },
   "58:22": {
     "sections": [
       {

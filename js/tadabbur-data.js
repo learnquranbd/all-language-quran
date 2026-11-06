@@ -28149,6 +28149,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Fire cooks, warms and lights, and it also recalls the greater Fire: take the gift with thanks and the warning with resolve.",
     "lessonBn": "আগুন রান্না করে, উষ্ণতা দেয়, আলো জ্বালায়, আবার বড় আগুনের কথাও মনে করিয়ে দেয়। নিয়ামতটা নিন শোকরের সঙ্গে, আর সতর্কবাণীটা নিন দৃঢ় সংকল্পে।"
+  },
+  "58:17": {
+    "reflectionEn": "Some people keep a quiet reserve against every loss: money set aside, a family that will stand by them, a name that opens doors. The people described in the verses before this one had another reserve as well: oaths, sworn whenever they were caught out. This verse closes the account. Their wealth and their children will not avail them against Allah at all. Nothing that shields a person from other people can shield anyone from Him. The verse does not tell me who those people are today, and it does not let me guess. It asks what I am leaning on. If everything I have built up were set aside, what would still be standing in my place?",
+    "reflectionBn": "অনেকেই প্রতিটি বিপদের জন্য চুপচাপ একটা মজুত রাখে। কিছু টাকা আলাদা করা, পাশে দাঁড়ানোর মতো একটা পরিবার, দরজা খুলে দেওয়ার মতো একটা নাম। আগের আয়াতগুলোতে যাদের কথা এসেছে, তাদের হাতে আরও একটা মজুত ছিল: ধরা পড়লেই মিথ্যা কসম। এ আয়াত সেই হিসাব বন্ধ করে দেয়। তাদের ধন-সম্পদ আর সন্তান আল্লাহর মোকাবিলায় তাদের কোনোই কাজে আসবে না। মানুষের হাত থেকে যা বাঁচায়, আল্লাহর হাত থেকে তা কাউকে বাঁচাতে পারে না। আজ সেই লোক কারা, আয়াত তা বলে না, আন্দাজ করার অনুমতিও দেয় না। প্রশ্নটা বরং আমাকেই করা: আমি কিসের উপর ভর দিয়ে আছি? যা কিছু জমিয়েছি তা সরিয়ে নিলে আমার জায়গায় কী দাঁড়িয়ে থাকবে?",
+    "pointsEn": [
+      "What do I privately count on to get me out of trouble: money, family, reputation, or the right words at the right moment?",
+      "When was the last time I used a promise or an oath to cover something rather than to state the truth?",
+      "Which of my deeds would I want with me if my wealth and my family both had to turn back?",
+      "Do I read verses about hypocrites as a list of other people, or as a warning addressed first to me?",
+      "What would change in how I spend this week if I believed nothing I own can argue my case before Allah?"
+    ],
+    "pointsBn": [
+      "বিপদ থেকে বেরোনোর জন্য মনে মনে আমি কিসের উপর ভরসা রাখি: টাকা, পরিবার, সুনাম, নাকি ঠিক সময়ে ঠিক কথাটা বলতে পারার উপর?",
+      "সত্য বলার বদলে কিছু ঢাকতে শেষ কবে আমি কোনো প্রতিশ্রুতি বা কসমের আশ্রয় নিয়েছি?",
+      "ধন-সম্পদ আর পরিবার দুটোই যদি ফিরে যায়, আমার কোন আমলগুলো আমি সঙ্গে রাখতে চাইব?",
+      "মুনাফিকদের নিয়ে আয়াত পড়লে আমি কি অন্যদের তালিকা খুঁজি, নাকি প্রথমে নিজের জন্য সতর্কবার্তা শুনি?",
+      "যদি সত্যিই বিশ্বাস করি যে আমার কোনো সম্পদ আল্লাহর সামনে আমার পক্ষে কথা বলবে না, তাহলে এ সপ্তাহটা কীভাবে কাটাব?"
+    ],
+    "lessonEn": "Nothing that protects you from people can protect you from Allah; rely on faith and deeds, and read this warning about hypocrites as addressed first to yourself.",
+    "lessonBn": "মানুষের হাত থেকে যা বাঁচায়, আল্লাহর কাছে তা কোনো কাজে আসে না। ঈমান আর আমলের উপর ভরসা রাখুন, আর মুনাফিকদের এ সতর্কবার্তা আগে নিজের জন্যই পড়ুন।"
   }
 };
 
