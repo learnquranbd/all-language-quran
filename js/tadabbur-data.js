@@ -28249,6 +28249,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let your private talk carry righteousness and taqwa, let your greeting mean what it says, and never read Allah's delay as His approval.",
     "lessonBn": "আপনার গোপন আলাপে থাকুক নেকি আর তাকওয়া, আপনার সালাম যেন মনের কথাই বলে, আর আল্লাহর দেরিকে কখনো তাঁর সম্মতি ভাববেন না।"
+  },
+  "60:10": {
+    "reflectionEn": "A woman arrives having left her home, her family and perhaps a husband, and the verse names her before anyone has asked her a thing: the believing women. Then it tells the community to examine them, and in the same breath reminds them that Allah knows their faith better than any examiner can. What is asked is why she came; what is accepted is her own answer. The men who once paid her dower are repaid, so that no one is wronged even across a border. Faith here costs something and is honoured for it. When I weigh someone's sincerity, do I remember whose knowledge is final? And when I move toward Allah, could I say truthfully why I came?",
+    "reflectionBn": "এক নারী এসে পৌঁছেছেন। ঘরবাড়ি, পরিবার, হয়তো স্বামীকেও পেছনে ফেলে এসেছেন। কেউ তাঁকে কিছু জিজ্ঞেস করার আগেই আয়াত তাঁর পরিচয় দিয়ে দেয়: ঈমানদার নারী। তারপর মুমিনদের বলে তাঁদের পরখ করে দেখতে, আর একই নিঃশ্বাসে মনে করিয়ে দেয়, তাঁদের ঈমান সম্পর্কে আল্লাহ যে-কোনো পরীক্ষকের চেয়ে ভালো জানেন। জানতে চাওয়া হয়, তিনি কেন এলেন। মেনে নেওয়া হয় তাঁর নিজের মুখের উত্তর। যে স্বামী একদিন তাঁকে মোহর দিয়েছিল, তাকে সেটা ফেরত দেওয়া হয়, যাতে সীমানার ওপারেও কারও উপর জুলুম না হয়। এখানে ঈমানের দাম দিতে হয়, আর সেই দামের মর্যাদাও দেওয়া হয়। কারও আন্তরিকতা মাপতে গিয়ে আমি কি মনে রাখি, শেষ জ্ঞান কার? আর আমি যখন আল্লাহর দিকে এগোই, কেন এলাম, সে কথা কি সত্যি করে বলতে পারব?",
+    "pointsEn": [
+      "If someone asked me under oath why I hold to my faith, what honest answer would I give, and would any part of it be about worldly gain?",
+      "When a person tells me they believe, do I take their word, or do I keep searching for a hidden motive that only Allah could see?",
+      "Who in my life has paid a real price for their faith, and have I honoured that price or made it harder for them?",
+      "Is there something I owe, even to someone I am at odds with, that I have not yet returned?",
+      "Which tie am I holding on to that keeps pulling me away from what I believe?"
+    ],
+    "pointsBn": [
+      "কেউ যদি শপথ করিয়ে জানতে চায়, আমি কেন ঈমান আঁকড়ে আছি, তবে সৎ উত্তরটা কী হবে? তার কোনো অংশে কি দুনিয়ার লাভের হিসাব লুকিয়ে আছে?",
+      "কেউ যখন বলে সে ঈমান এনেছে, আমি কি তার কথা মেনে নিই, নাকি এমন গোপন মতলব খুঁজতে থাকি যা কেবল আল্লাহই দেখতে পান?",
+      "আমার জীবনে কে ঈমানের জন্য সত্যিকারের মূল্য দিয়েছে? আমি কি সেই মূল্যের কদর করেছি, নাকি তার পথ আরও কঠিন করেছি?",
+      "যার সঙ্গে বিরোধ আছে, তার কাছেও কি আমার এমন কোনো পাওনা বাকি, যা এখনো ফেরত দিইনি?",
+      "কোন বন্ধন আমি আঁকড়ে ধরে আছি, যা বারবার আমাকে নিজের বিশ্বাস থেকে দূরে টেনে নেয়?"
+    ],
+    "lessonEn": "Ask honestly why you turn toward Allah, accept others' word about their faith, leave hearts to the One who knows them, and repay what you owe even to an opponent.",
+    "lessonBn": "আল্লাহর দিকে কেন ফিরছেন, সৎভাবে নিজেকে জিজ্ঞেস করুন। অন্যের ঈমানের কথা মেনে নিন, অন্তরের বিচার তাঁর হাতে ছেড়ে দিন যিনি তা জানেন, আর প্রতিপক্ষের পাওনাও ফিরিয়ে দিন।"
   }
 };
 

@@ -310,5 +310,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "60:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "Women Who Crossed Alone",
+          "bn": "একা পথ পাড়ি দেওয়া নারীরা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi ties this verse to what came before. When Allah commanded the Muslims to give up alliance with the polytheists, he writes, that called for emigration from the lands of shirk; and since marriage is among the strongest causes of alliance, Allah set out the rulings on the emigration of women. The verses just before it, 60:8 and 60:9, drew the line between kindness and alliance. This verse turns to the people who crossed that line with their whole lives.",
+            "bn": "কুরতুবী এ আয়াতকে আগের আয়াতগুলোর সঙ্গে জুড়ে দেখান। তাঁর কথা হলো, আল্লাহ যখন মুশরিকদের সঙ্গে মৈত্রী ছাড়তে বললেন, তখন শিরকের দেশ ছেড়ে হিজরত করা জরুরি হয়ে পড়ল। আর বিয়ে যেহেতু মৈত্রীর সবচেয়ে মজবুত কারণগুলোর মধ্যে পড়ে, তাই আল্লাহ নারীদের হিজরতের বিধান খুলে বললেন। ঠিক আগের আয়াত ৬০:৮ ও ৬০:৯ সদাচার আর মৈত্রীর মধ্যে সীমারেখা টেনেছে। এ আয়াত ফেরে সেই মানুষদের দিকে, যাঁরা গোটা জীবন নিয়ে সে সীমা পার হয়ে এসেছিলেন।"
+          },
+          {
+            "en": "Al-Bukhari records the occasion through Marwan and al-Miswar ibn Makhramah, from the Companions of the Messenger of Allah ﷺ. When Suhail ibn 'Amr agreed the Hudaybiyah truce, he stipulated that the Prophet ﷺ 'should return to them (i.e. the pagans) anyone coming to him from their side, even if he was a Muslim'. The Muslims disliked it; Suhail would accept nothing else. The Prophet ﷺ agreed, returned Abu Jandal to his father, and returned every man who came in that period, even a Muslim.",
+            "bn": "উপলক্ষটি বুখারী বর্ণনা করেছেন মারওয়ান ও মিসওয়ার ইবন মাখরামার সূত্রে, তাঁরা শুনেছেন রাসূলুল্লাহ ﷺ-এর সাহাবীদের কাছ থেকে। হুদায়বিয়ার সন্ধি লেখার সময় সুহাইল ইবন আমর শর্ত জুড়ে দেয়: তাদের দিক থেকে কেউ নবী ﷺ-এর কাছে এলে, মুসলিম হলেও, তাকে ফেরত দিতে হবে। মুসলিমরা শর্তটা অপছন্দ করলেন, কিন্তু সুহাইল এ ছাড়া রাজি হলো না। নবী ﷺ শর্তটি মেনে নিলেন। আবু জান্দালকে তাঁর বাবার হাতে ফিরিয়ে দিলেন, আর সন্ধির সেই সময়ে যে পুরুষই এল, মুসলিম হলেও, তাকে ফেরত পাঠালেন।"
+          },
+          {
+            "en": "Then came the women. The same report, numbered 2711 in al-Bukhari's Sahih, continues: 'During that period some believing women emigrants including Um Kulthum bint 'Uqba bin Abu Muait who came to Allah's Messenger ﷺ and she was a young lady then. Her relative came to the Prophet ﷺ and asked him to return her, but the Prophet ﷺ did not return her to them for Allah had revealed the following Verse regarding women.' Where the translation says her relative, the Arabic has ahluha, her family.",
+            "bn": "তারপর এলেন নারীরা। সহীহ বুখারীর ২৭১১ নম্বর হাদীসে একই বর্ণনা এগিয়ে চলে: সেই সময়ে কয়েকজন মুমিন নারী হিজরত করে আসেন। তাঁদের মধ্যে ছিলেন উম্মু কুলসূম বিনত উকবা ইবন আবী মুআইত, যিনি সেদিন রাসূলুল্লাহ ﷺ-এর কাছে চলে এসেছিলেন, আর তখন তিনি ছিলেন তরুণী। তাঁর পরিবারের লোকেরা এসে নবী ﷺ-কে অনুরোধ করল তাঁকে ফিরিয়ে দিতে। কিন্তু নবী ﷺ তাঁকে ফেরত দিলেন না, কারণ নারীদের ব্যাপারে আল্লাহ এ আয়াত নাযিল করেছিলেন। ইংরেজি অনুবাদে আছে তাঁর এক আত্মীয়, তবে আরবি পাঠে শব্দটি আহলুহা, তাঁর পরিবার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Were Women in the Clause?",
+          "bn": "শর্তে কি নারীরাও ছিলেন?"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir notes the clause in two wordings, 'no man of us comes to you' and 'no one of us comes to you', the second matching al-Bukhari's report above. On that wording, he says, the verse specifies the Sunnah, among the best examples of this, and on the way of some early scholars it abrogates it. Al-Qurtubi records a disagreement: one group holds that women were named in the truce and Allah annulled their return while keeping it for men; another, that the truce never named them.",
+            "bn": "ইবন কাসীর জানান, শর্তটি দুই রকম শব্দে বর্ণিত: 'আমাদের কোনো পুরুষ তোমার কাছে এলে' এবং 'আমাদের কেউ তোমার কাছে এলে'। দ্বিতীয়টিই উপরের বুখারীর বর্ণনার সঙ্গে মেলে। তাঁর মতে, এই শব্দ ধরলে আয়াতটি সুন্নাহর একটি সাধারণ বিধানকে নির্দিষ্ট করে দিয়েছে, আর এটি এর সবচেয়ে সুন্দর দৃষ্টান্তগুলোর মধ্যে পড়ে। কিছু সালাফের রীতিতে আবার এটিকে নাসখ বা রহিতকরণ বলা হয়। কুরতুবী একটি মতভেদ লিখে রেখেছেন। এক দলের মতে, সন্ধিতে নারীদের কথা স্পষ্ট ছিল, আল্লাহ তাঁদের ফেরত দেওয়া বাতিল করেছেন আর পুরুষদের বেলায় তা বহাল রেখেছেন। আরেক দলের মতে, সন্ধিতে নারীদের নামই ছিল না।"
+          },
+          {
+            "en": "On that second view the truce spoke generally of whoever became Muslim, its outward sense seemed to take in women with men, and Allah made clear that they stood outside it. As-Sa'di explains the difference in treatment: men were returned to keep the condition and complete a peace he calls among the greatest of benefits, while returning women carried many harms. Ma'arif al-Qur'an insists the exemption was no breach but a clarification of the clause, after which both sides went on acting upon the treaty for a period of time.",
+            "bn": "দ্বিতীয় মত অনুযায়ী, সন্ধিতে সাধারণভাবে বলা হয়েছিল, যে-ই মুসলিম হয়ে আসুক। বাহ্যত মনে হতো পুরুষদের সঙ্গে নারীরাও এর মধ্যে পড়েন। আল্লাহ পরিষ্কার করে দিলেন, তাঁরা এর বাইরে। আচরণের এ পার্থক্য সা'দী বুঝিয়ে বলেন। পুরুষদের ফেরত দেওয়া হয়েছিল শর্ত রক্ষা করতে আর সন্ধিটা পূর্ণ করতে, যে সন্ধিকে তিনি সবচেয়ে বড় কল্যাণগুলোর একটি বলেন। অথচ নারীদের ফেরত দেওয়ায় ছিল নানা ক্ষতি। মাআরিফুল কুরআন জোর দিয়ে বলে, এ ব্যতিক্রম চুক্তিভঙ্গ ছিল না, ছিল শর্তটির ব্যাখ্যা। তারপরও দুই পক্ষ বেশ কিছু সময় সন্ধি মেনে চলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Did You Come?",
+          "bn": "কেন এসেছেন আপনি?"
+        },
+        "p": [
+          {
+            "en": "Fa-mtahinuhunna: examine them. At-Tabari records that Ibn 'Abbas, asked how the Messenger of Allah ﷺ examined the women, said he would have them swear: by Allah, she did not leave out of hatred of a husband, nor out of desire for another land, nor seeking worldly gain; by Allah, she left only out of love for Allah and His Messenger. Another report from Ibn 'Abbas in at-Tabari makes the test the testimony that there is no god but Allah and that Muhammad is His servant and Messenger.",
+            "bn": "ফামতাহিনূহুন্না: তাঁদের পরখ করো। তাবারী বর্ণনা করেন, ইবন আব্বাস (রাঃ)-কে জিজ্ঞেস করা হয়েছিল, রাসূলুল্লাহ ﷺ নারীদের কীভাবে পরীক্ষা করতেন। তিনি বললেন, তিনি তাঁদের দিয়ে কসম করাতেন: আল্লাহর কসম, স্বামীর প্রতি বিদ্বেষে সে বের হয়নি, অন্য দেশের লোভে নয়, দুনিয়ার কিছু পাওয়ার আশায়ও নয়। আল্লাহর কসম, সে বের হয়েছে শুধু আল্লাহ ও তাঁর রাসূলের ভালোবাসায়। তাবারীতে ইবন আব্বাস থেকে আরেকটি বর্ণনাও আছে। সেখানে পরীক্ষাটি ছিল এ সাক্ষ্য দেওয়া যে আল্লাহ ছাড়া কোনো ইলাহ নেই, আর মুহাম্মাদ তাঁর বান্দা ও রাসূল।"
+          },
+          {
+            "en": "The Followers put the same question in their own words. Mujahid: ask them what brought them, and if anger or resentment at their husbands brought them and they had not believed, return them. 'Ikrimah: she was asked whether love of Allah alone had brought her, not love for a man among us nor flight from her husband. Qatada: they swore that discord had not driven them out, only love of Islam and its people, and when they said so it was accepted from them. Each time, the deciding answer was her own.",
+            "bn": "তাবিঈরাও একই প্রশ্ন নিজেদের ভাষায় বলেছেন। মুজাহিদের কথা: জিজ্ঞেস করো কী তাঁদের নিয়ে এসেছে। স্বামীর উপর রাগ বা অসন্তোষ যদি তাঁদের টেনে এনে থাকে আর তাঁরা ঈমান না এনে থাকেন, তবে তাঁদের ফিরিয়ে দাও। ইকরিমার বর্ণনায় তাঁকে জিজ্ঞেস করা হতো, কেবল আল্লাহর ভালোবাসাই কি তাঁকে এনেছে, আমাদের কোনো পুরুষের প্রেম বা স্বামীর কাছ থেকে পালানো নয়? কাতাদা বলেন, তাঁরা কসম করতেন যে দাম্পত্য কলহ তাঁদের বের করে আনেনি, এনেছে কেবল ইসলাম আর মুসলিমদের প্রতি ভালোবাসা। তাঁরা এ কথা বললে তা মেনে নেওয়া হতো। প্রতিবারই শেষ কথাটা ছিল নারীর নিজের মুখের উত্তর।"
+          },
+          {
+            "en": "'A'ishah (RA) ties the examination to a later verse of the surah. Al-Bukhari records from her, number 4891: 'Allah's Messenger ﷺ used to examine the believing women who migrated to him in accordance with this Verse: O Prophet! When believing women come to you to take the oath of allegiance to you... Verily! Allah is Oft-Forgiving Most Merciful.' She went on: 'And if any of the believing women accepted the condition (assigned in the above-mentioned Verse), Allah's Messenger ﷺ would say to her. I have accepted your pledge of allegiance.'",
+            "bn": "আয়িশা (রাঃ) পরীক্ষাটিকে এ সূরারই পরের একটি আয়াতের সঙ্গে জুড়ে দেন। বুখারী তাঁর কাছ থেকে বর্ণনা করেছেন, হাদীস নম্বর ৪৮৯১: রাসূলুল্লাহ ﷺ তাঁর কাছে হিজরত করে আসা মুমিন নারীদের পরীক্ষা করতেন এই আয়াত দিয়ে: হে নবী, মুমিন নারীরা যখন তোমার কাছে এসে বাইআত করে... নিশ্চয়ই আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু। তিনি আরও বলেন: মুমিন নারীদের মধ্যে কেউ এ শর্ত মেনে নিলে রাসূলুল্লাহ ﷺ তাঁকে বলতেন, আমি তোমার বাইআত গ্রহণ করলাম।"
+          },
+          {
+            "en": "Her report ends: 'He would only say that, for, by Allah, his hand never touched, any lady during that pledge of allegiance.' The verse she names is 60:12. Al-Qurtubi lists three views on what the examination was: the oath, the testimony, and the pledge of 60:12. Ma'arif al-Qur'an suggests they need not compete, since the women may first have sworn the oath and then given the pledge. This hadith stands in al-Bukhari's Sahih, which is the grading his collection gives it.",
+            "bn": "তাঁর বর্ণনার শেষ অংশ: তিনি শুধু এ কথাটুকুই বলতেন। আল্লাহর কসম, সেই বাইআতে তাঁর হাত কখনো কোনো নারীর হাত স্পর্শ করেনি। আয়িশা (রাঃ) যে আয়াতের কথা বলছেন, তা ৬০:১২। পরীক্ষাটা আসলে কী ছিল, এ নিয়ে কুরতুবী তিনটি মত লিখেছেন: কসম, সাক্ষ্য, আর ৬০:১২ আয়াতের বাইআত। মাআরিফুল কুরআনের মতে এগুলোর মধ্যে বিরোধ নেই। হতে পারে নারীরা আগে কসম করতেন, তারপর বাইআত দিতেন। হাদীসটি সহীহ বুখারীতে আছে, আর বুখারীর সংকলনই তাকে এই মান দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Knower of Hidden Faith",
+          "bn": "গোপন ঈমানের খবর যিনি রাখেন"
+        },
+        "p": [
+          {
+            "en": "Between the command to examine and the command not to return stands Allahu a'lamu bi-imanihinna: Allah knows best their faith. Al-Qurtubi reads it: this examination is for you, and Allah knows their faith best, for He has charge of what is hidden. 'If you know them to be believers' then means knowing by what appears of faith. The Muyassar speaks of the signs and evidence that appear to you, and as-Sa'di allows that the believers might know it without any examination at all.",
+            "bn": "পরখ করার আদেশ আর ফেরত না দেওয়ার আদেশের মাঝখানে আছে আল্লাহু আ'লামু বি-ঈমানিহিন্না: তাঁদের ঈমান সম্পর্কে আল্লাহই ভালো জানেন। কুরতুবীর ব্যাখ্যায় এর মানে: এ পরীক্ষা তোমাদের জন্য। তাঁদের ঈমান আল্লাহ সবচেয়ে ভালো জানেন, কারণ গোপন বিষয়ের ভার তাঁরই হাতে। তাই 'যদি তোমরা তাঁদের মুমিন বলে জানো' কথাটির অর্থ, ঈমানের যে চিহ্ন বাইরে দেখা যায় তা দিয়ে জানা। মুয়াসসার বলে তোমাদের সামনে প্রকাশ পাওয়া আলামত ও প্রমাণের কথা। আর সা'দী মেনে নেন, কোনো পরীক্ষা ছাড়াই মুমিনরা তা জেনে যেতে পারেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the line plainly: real faith belongs to the heart, which none but Allah knows; a person's faith can be estimated from their words and the circumstances, and Muslims are obliged to do just this much. Ibn Kathir stresses the other side of the same words: they show that faith can be known with certainty. And the verse itself has already called these women al-mu'minat, the believing women, before any examination begins.",
+            "bn": "মাআরিফুল কুরআন সীমারেখাটা পরিষ্কার করে টানে। আসল ঈমানের জায়গা অন্তর, আর অন্তরের খবর আল্লাহ ছাড়া কেউ জানে না। মানুষের মুখের স্বীকারোক্তি আর আশপাশের অবস্থা দেখে তার ঈমান আন্দাজ করা যায়, আর মুসলিমদের দায়িত্ব এটুকুই। ইবন কাসীর একই শব্দের অন্য দিকটায় জোর দেন। তাঁর মতে, এ কথাগুলো দেখায় যে ঈমান নিশ্চিতভাবে জানা সম্ভব। আর আয়াত নিজেই, পরীক্ষা শুরুর আগেই, এ নারীদের ডেকেছে আল-মু'মিনাত নামে, ঈমানদার নারীরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Marriage Undone by Faith",
+          "bn": "ঈমানে ছিন্ন হওয়া বিয়ে"
+        },
+        "p": [
+          {
+            "en": "La hunna hillun lahum wa-la hum yahilluna lahunna. At-Tabari explains: the believing women are not lawful for the disbelievers, nor the disbelievers for the believing women. Ibn Kathir calls this the verse that made Muslim women unlawful to the polytheists, after it had been permitted in early Islam. His example is Zaynab, daughter of the Prophet ﷺ, a Muslim while her husband Abu al-'As ibn al-Rabi' kept his people's religion, who sent her mother Khadijah's necklace to ransom him after Badr.",
+            "bn": "লা হুন্না হিল্লুল লাহুম ওয়া লা হুম ইয়াহিল্লূনা লাহুন্না। তাবারী খুলে বলেন: মুমিন নারীরা কাফিরদের জন্য হালাল নন, আর কাফিররাও মুমিন নারীদের জন্য হালাল নয়। ইবন কাসীরের মতে, এ আয়াতই মুসলিম নারীদের মুশরিকদের জন্য হারাম করেছে। ইসলামের শুরুর দিকে এটা জায়েয ছিল। তাঁর দৃষ্টান্ত নবী ﷺ-এর মেয়ে যাইনাব (রাঃ)। তিনি মুসলিম ছিলেন, আর তাঁর স্বামী আবুল আস ইবনুর রাবী তখনও নিজের গোত্রের ধর্মে। বদরের পর স্বামীকে মুক্ত করতে যাইনাব পাঠিয়েছিলেন তাঁর মা খাদীজার (রাঃ) হার।"
+          },
+          {
+            "en": "What ends the marriage is debated, and each side cites the verse. Al-Qurtubi calls it the clearest proof that a Muslim woman is separated from her husband by her Islam, not by her emigration, and holds that view correct. He records Abu Hanifah's view that the cause is the difference of the two lands, a principle Ma'arif al-Qur'an sets out: the husband is first invited to Islam, and if he refuses, or cannot be reached in another land, the separation is complete. These are the jurists' views, reported as theirs.",
+            "bn": "বিয়েটা ঠিক কিসে ভাঙে, তা নিয়ে মতভেদ আছে, আর প্রত্যেক পক্ষই এ আয়াতকে দলিল বানায়। কুরতুবীর মতে, এ আয়াত সবচেয়ে স্পষ্ট প্রমাণ যে মুসলিম নারীকে স্বামী থেকে আলাদা করে তাঁর ইসলাম, তাঁর হিজরত নয়। তিনি এ মতকেই সঠিক বলেন। আবার তিনি আবু হানীফার মতও লিখেছেন: কারণ হলো দুই দেশের ভিন্নতা। মাআরিফুল কুরআন এ নীতি ব্যাখ্যা করে। প্রথমে স্বামীকে ইসলামের দাওয়াত দেওয়া হবে। সে অস্বীকার করলে, কিংবা অন্য দেশে থাকায় তার কাছে পৌঁছানো না গেলে, বিচ্ছেদ পূর্ণ হয়। এগুলো ফকীহদের মত, তাঁদের নামেই উল্লেখ করা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Was Spent, What Is Hers",
+          "bn": "যা খরচ হয়েছিল, যা তাঁর পাওনা"
+        },
+        "p": [
+          {
+            "en": "Wa-atuhum ma anfaqu: and give them what they have spent. Ibn Kathir, citing Ibn 'Abbas, Mujahid, Qatada, al-Zuhri and others, explains it as the polytheist husbands of the emigrant women: pay them the dowers they had given. Al-Qurtubi calls it keeping the covenant: a husband kept from his wife by the sanctity of Islam is repaid, so that he does not lose wife and wealth together. Ma'arif al-Qur'an notes the order is addressed to the community, not to the woman, who may have nothing left to return.",
+            "bn": "ওয়া আতূহুম মা আনফাকূ: আর তারা যা খরচ করেছে তা তাদের দিয়ে দাও। ইবন কাসীর ইবন আব্বাস, মুজাহিদ, কাতাদা, যুহরী ও আরও অনেকের সূত্রে বলেন, এখানে উদ্দেশ্য হিজরতকারী নারীদের মুশরিক স্বামীরা: তারা যে মোহর দিয়েছিল তা তাদের ফেরত দাও। কুরতুবী এতে দেখেন চুক্তি রক্ষার দিক। ইসলামের মর্যাদার কারণে যে স্বামীকে স্ত্রী থেকে আটকে দেওয়া হলো, তাকে অর্থ ফেরত দেওয়া হয়, যাতে স্ত্রী আর সম্পদ একসঙ্গে তার হাতছাড়া না হয়। মাআরিফুল কুরআন খেয়াল করিয়ে দেয়, আদেশটা গোটা সমাজের প্রতি, নারীর প্রতি নয়। কারণ তাঁর হাতে ফেরত দেওয়ার মতো কিছু না-ও থাকতে পারে।"
+          },
+          {
+            "en": "Then: no blame upon you if you marry them when you have given them their ujur, which at-Tabari explains as their dowers, even if they have husbands in the land of war. Ibn Kathir adds the conditions: the end of the waiting period, a guardian and the rest. Ma'arif al-Qur'an says payment is not a condition of the marriage's validity, but it is named because a dower had already gone to the former husband, and a new husband might think nothing more was owed. That dower belonged to the earlier marriage; the new dower is hers.",
+            "bn": "তারপর বলা হয়েছে: তাঁদের উজূর দিয়ে দিলে তাঁদের বিয়ে করায় তোমাদের কোনো দোষ নেই। তাবারী উজূর মানে বলেছেন মোহর, আর বলেছেন, যুদ্ধরত দেশে তাঁদের স্বামী থাকলেও এ অনুমতি আছে। ইবন কাসীর শর্তগুলো যোগ করেন: ইদ্দত শেষ হওয়া, অভিভাবক থাকা ইত্যাদি। মাআরিফুল কুরআনের মতে, মোহর পরিশোধ বিয়ে শুদ্ধ হওয়ার শর্ত নয়। তবু তা উল্লেখ করা হয়েছে, কারণ আগের মোহর সাবেক স্বামীর কাছে চলে গেছে, আর নতুন স্বামী হয়তো ভাবতেন, আর কিছু দেওয়ার নেই। সেই মোহর ছিল আগের বিয়ের। নতুন মোহর তাঁর নিজের পাওনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ropes That Are Let Go",
+          "bn": "যে রশি ছেড়ে দিতে হয়"
+        },
+        "p": [
+          {
+            "en": "Wa-la tumsiku bi-'isami l-kawafir: do not hold to the ties of disbelieving women. At-Tabari explains 'isam as the plural of 'ismah, whatever is held on by, of contract and cause: do not hold to their ropes. He reads it as forbidding marriage to idol-worshipping women and commanding parting from them, and accepts the readings tumsiku and tumassiku as equally correct. Al-Qurtubi records that kawafir here means idol-worshippers, while others took the word as general, with the women of the People of the Book excepted.",
+            "bn": "ওয়া লা তুমসিকূ বি-ইসামিল কাওয়াফির: কাফির নারীদের বন্ধন আঁকড়ে ধরে রেখো না। তাবারী বলেন, ইসাম শব্দটি ইসমার বহুবচন। ইসমা মানে যা ধরে মানুষ টিকে থাকে, চুক্তি হোক বা সম্পর্কের সূত্র। কথাটির অর্থ তাই: তাদের রশি ধরে রেখো না। তাঁর ব্যাখ্যায় এটি মূর্তিপূজারী নারীদের বিয়ে করার নিষেধাজ্ঞা, আর তাদের থেকে আলাদা হয়ে যাওয়ার আদেশ। তুমসিকূ আর তুমাসসিকূ, এই কিরাআতগুলোকে তিনি সমান সঠিক বলেন। কুরতুবী লিখেছেন, এখানে কাওয়াফির মানে মূর্তিপূজারী নারী। অন্যদের মতে শব্দটি ব্যাপক, তবে আহলে কিতাবের নারীরা এর বাইরে।"
+          },
+          {
+            "en": "Al-Bukhari's long account of al-Hudaybiyah, number 2731 on the page fetched, records the result: 'Then some believing women came (to the Prophet ﷺ); and Allah revealed the following Divine Verses: O you who believe, when the believing women come to you as emigrants examine them... (60:10) 'Umar then divorced two wives of his who were infidels. Later on Muawiya bin Abu Sufyan married one of them, and Safwan bin Umaiya married the other.' Ibn Ishaq's report from al-Zuhri, in at-Tabari and Ibn Kathir, names Abu Jahm for the second marriage.",
+            "bn": "হুদায়বিয়া নিয়ে বুখারীর দীর্ঘ বর্ণনায়, যে পৃষ্ঠা দেখা হয়েছে সেখানে নম্বর ২৭৩১, এর ফলাফল লেখা আছে: তারপর কয়েকজন মুমিন নারী নবী ﷺ-এর কাছে এলেন, আর আল্লাহ নাযিল করলেন: হে মুমিনগণ, মুমিন নারীরা হিজরত করে তোমাদের কাছে এলে তাঁদের পরখ করো (৬০:১০)। তখন উমার (রাঃ) তাঁর দুই কাফির স্ত্রীকে তালাক দিলেন। পরে মুআবিয়া ইবন আবী সুফিয়ান তাদের একজনকে বিয়ে করেন, আর সাফওয়ান ইবন উমাইয়া অন্যজনকে। তাবারী ও ইবন কাসীরে যুহরী থেকে ইবন ইসহাকের বর্ণনায় দ্বিতীয় বিয়েতে নাম আছে আবু জাহমের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ruling Both Sides Owed",
+          "bn": "দুই পক্ষের উপরই যে বিধান"
+        },
+        "p": [
+          {
+            "en": "Wa-s'alu ma anfaqtum wal-yas'alu ma anfaqu: ask for what you spent, and let them ask for what they spent. At-Tabari addresses it to believers whose wives had gone over to Quraysh: ask whoever married them there for the dower, and the polytheists may ask the same of you. Mujahid places it within the peace between Muhammad ﷺ and Quraysh. Al-Qurtubi calls the arrangement fairness and justice between the two situations. As-Sa'di draws from it that the loss of a marriage has a value, so that one who wrongfully breaks up another's marriage owes the dower.",
+            "bn": "ওয়াসআলূ মা আনফাকতুম ওয়াল ইয়াসআলূ মা আনফাকূ: তোমরা যা খরচ করেছ তা চেয়ে নাও, আর তারাও চেয়ে নিক যা তারা খরচ করেছে। তাবারীর মতে কথাটা সেই মুমিনদের প্রতি, যাদের স্ত্রীরা কুরাইশের কাছে চলে গিয়েছিল। ওখানে যে তাদের বিয়ে করেছে, তার কাছে মোহর চেয়ে নাও। মুশরিকরাও তোমাদের কাছে একই দাবি করতে পারে। মুজাহিদ বিষয়টিকে মুহাম্মাদ ﷺ ও কুরাইশের মধ্যকার সন্ধির ভেতরে রাখেন। কুরতুবী এ ব্যবস্থাকে বলেন দুই অবস্থার মধ্যে ইনসাফ ও ন্যায়। সা'দী এখান থেকে সিদ্ধান্ত টানেন, বিয়ে হারানোরও একটা মূল্য আছে। তাই কেউ অন্যায়ভাবে কারও বিয়ে ভেঙে দিলে তাকে মোহরের দায় নিতে হবে।"
+          },
+          {
+            "en": "Dhalikum hukmu-llah: that is the judgement of Allah. At-Tabari reads it as a command not to overstep it. Al-Zuhri, in at-Tabari and al-Baghawi, reports how it went: the believers accepted Allah's ruling and paid what the polytheists had spent, while the polytheists refused, and Allah revealed the next verse, 60:11. He adds that without this ruling the Prophet ﷺ would have returned the women as he returned the men, and without the truce he would have kept the women and returned no dower. Ibn Kathir: Allah knows what is good for His servants and is Wise in it.",
+            "bn": "যালিকুম হুকমুল্লাহ: এটাই আল্লাহর বিধান। তাবারীর ব্যাখ্যায় এর মানে, এ সীমা পেরিয়ে যেয়ো না। তাবারী ও বাগাভীতে যুহরী জানান, কী ঘটেছিল। মুমিনরা আল্লাহর বিধান মেনে নিলেন, মুশরিকদের খরচ করা অর্থ ফেরত দিলেন। মুশরিকরা মানতে অস্বীকার করল। তখন আল্লাহ পরের আয়াত, ৬০:১১, নাযিল করলেন। যুহরী আরও বলেন, এ বিধান না এলে নবী ﷺ পুরুষদের মতো নারীদেরও ফেরত দিতেন। আর সন্ধি না থাকলে তিনি নারীদের রেখে দিতেন, কোনো মোহরও ফেরত দিতেন না। ইবন কাসীরের ভাষায়, আল্লাহ জানেন কিসে তাঁর বান্দাদের কল্যাণ, আর তাতে তিনি প্রজ্ঞাময়।"
+          },
+          {
+            "en": "The verse describes one treaty, one clause and the people of that time, and it licenses nothing against any living person or community. What it leaves the reader is a picture. Women chose faith at real cost and crossed alone; their own sworn word was received, their hearts were left to Allah, and the dower due to them was theirs. Alongside them stands a community made to keep its word with an opponent, down to repaying what that opponent had spent, because that was the judgement of Allah.",
+            "bn": "আয়াতটি একটি নির্দিষ্ট সন্ধি, একটি নির্দিষ্ট শর্ত আর সে যুগের মানুষদের কথা বলে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। পাঠকের সামনে এটি একটা ছবি রেখে যায়। কয়েকজন নারী সত্যিকারের মূল্য দিয়ে ঈমান বেছে নিয়েছিলেন, একা পথ পাড়ি দিয়েছিলেন। তাঁদের শপথ করা কথা মেনে নেওয়া হয়েছিল, অন্তরের বিচার আল্লাহর হাতে রাখা হয়েছিল, আর তাঁদের প্রাপ্য মোহর তাঁদেরই ছিল। তাঁদের পাশে দাঁড়িয়ে এক সমাজ, যাকে প্রতিপক্ষের সঙ্গেও কথা রাখতে হয়েছিল, প্রতিপক্ষের খরচ করা অর্থ পর্যন্ত ফেরত দিয়ে। কারণ সেটাই ছিল আল্লাহর বিধান।"
+          }
+        ]
+      }
+    ]
   }
 });
