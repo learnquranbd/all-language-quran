@@ -311,6 +311,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "58:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "Forbidden, Then Back Again",
+          "bn": "নিষেধের পরেও ফিরে আসা"
+        },
+        "p": [
+          {
+            "en": "A-lam tara ila alladhina nuhu 'an an-najwa: have you not seen those who were forbidden najwa, private conferring? At-Tabari reads the question as addressed to the Prophet ﷺ and says those forbidden were from the Jews, citing Mujahid with a chain. The Muyassar names what was forbidden: secret talk that stirs doubt in the believers. Then thumma ya'uduna li-ma nuhu 'anhu: then they return to what they were forbidden. At-Tabari glosses it plainly: they go back to the forbidden najwa.",
+            "bn": "আলাম তারা ইলাল্লাযীনা নুহূ আনিন নাজওয়া: যাদেরকে নাজওয়া, মানে গোপন সলাপরামর্শ থেকে নিষেধ করা হয়েছিল, তুমি কি তাদের দেখোনি? তাবারীর মতে প্রশ্নটি নবী ﷺ-কে লক্ষ্য করে। তিনি সনদসহ মুজাহিদের কথা এনে বলেন, নিষেধ করা হয়েছিল ইহুদিদের মধ্যকার কিছু লোককে। মুয়াসসার জানায় কী নিষেধ ছিল: এমন চুপিচুপি কথা, যাতে মুমিনদের মনে সন্দেহ জাগে। তারপর সুম্মা ইয়াঊদূনা লিমা নুহূ আনহু: তারপর যা থেকে নিষেধ করা হয়েছিল, তারা আবার সেদিকেই ফিরে যায়। তাবারীর সোজা ব্যাখ্যা: নিষিদ্ধ সেই নাজওয়াতেই তারা আবার ফেরে।"
+          },
+          {
+            "en": "The verse comes straight after 58:7, which says that no three confer in private but Allah is their fourth. Verse 58:8 moves from that knowledge to a case: people who had heard a prohibition and carried on. The verbs draw the picture. Nuhu, they were forbidden, is past; ya'uduna, they return, and yatanajawna, they confer, are present, a habit still running. Al-Baghawi says the Prophet ﷺ had forbidden them najwa, and they disobeyed him.",
+            "bn": "আয়াতটি এসেছে ঠিক ৫৮:৭-এর পরে। সেখানে বলা হয়েছে, তিনজন গোপনে পরামর্শ করলে চতুর্থজন আল্লাহ। ৫৮:৮ সেই জ্ঞানের কথা থেকে নেমে আসে একটি ঘটনায়: কিছু মানুষ নিষেধ শুনেছিল, তবু থামেনি। ক্রিয়াগুলোই ছবিটা এঁকে দেয়। নুহূ, তাদের নিষেধ করা হয়েছিল, অতীতকালের ক্রিয়া। কিন্তু ইয়াঊদূনা, তারা ফিরে যায়, আর ইয়াতানাজাওনা, তারা কানাকানি করে, বর্তমানকালের। অর্থাৎ অভ্যাসটা তখনো চলছে। বাগাভী বলেন, নবী ﷺ তাদের নাজওয়া করতে নিষেধ করেছিলেন, তারা তাঁর অবাধ্য হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whispers That Unsettled the Believers",
+          "bn": "যে কানাকানিতে মুমিনরা ভয় পেত"
+        },
+        "p": [
+          {
+            "en": "The commentators carry several reports of who they were. Ibn Kathir, after Mujahid's answer, the Jews, gives a fuller account from Muqatil ibn Hayyan, and al-Qurtubi gives it under Muqatil's name. There was a truce between the Prophet ﷺ and the Jews. When a believer passed them, they would draw together and whisper until he imagined they were conferring about killing him, or about something he would hate. Fearing them, he would leave his road. The Prophet ﷺ forbade them the najwa; they did not stop.",
+            "bn": "এরা কারা, সে বিষয়ে তাফসীরকারেরা কয়েকটি বর্ণনা আনেন। ইবন কাসীর মুজাহিদের জবাব, অর্থাৎ ইহুদিরা, উল্লেখ করার পর মুকাতিল ইবন হাইয়ানের বিস্তারিত বর্ণনা দেন। কুরতুবীও মুকাতিলের নামে তা আনেন। নবী ﷺ ও ইহুদিদের মধ্যে তখন সন্ধিচুক্তি ছিল। কোনো মুমিন তাদের পাশ দিয়ে গেলে তারা মাথা জড়ো করে ফিসফিস করত। মুমিন ভাবতেন, হয়তো তাঁকে হত্যার পরামর্শ চলছে, কিংবা এমন কিছু যা তাঁর অপছন্দ। ভয়ে তিনি রাস্তা বদলে অন্য পথ ধরতেন। নবী ﷺ তাদের নাজওয়া নিষেধ করলেন, কিন্তু তারা থামল না।"
+          },
+          {
+            "en": "Al-Qurtubi gives a second report from Ibn Abbas (RA), which al-Baghawi also tells without naming him: the verse came down about Jews and hypocrites. They would confer among themselves, glance at the believers and wink at one another. The believers would fear news of their kin among the Muhajirun and Ansar, whom al-Baghawi places in the raiding parties: a killing, a calamity, a defeat. Complaints to the Prophet ﷺ multiplied; he forbade the najwa, they did not stop, and the verse came down.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে দ্বিতীয় একটি বর্ণনা আনেন। বাগাভীও একই কথা বলেন, তবে তাঁর নাম না নিয়ে। বর্ণনাটি হলো, আয়াত নাযিল হয়েছে ইহুদি ও মুনাফিকদের ব্যাপারে। তারা নিজেদের মধ্যে কানাকানি করত, মুমিনদের দিকে তাকাত, আর চোখ টিপে ইশারা করত। মুমিনরা ভয় পেতেন, মুহাজির ও আনসারদের মধ্যে তাঁদের আত্মীয়দের কোনো খবর হয়তো এদের কানে পৌঁছেছে: কেউ নিহত হয়েছে, বিপদ ঘটেছে, কিংবা পরাজয় হয়েছে। বাগাভীর বর্ণনায় সেই আত্মীয়রা ছিলেন অভিযানে বের হওয়া ছোট বাহিনীগুলোতে। নবী ﷺ-এর কাছে অভিযোগ বাড়তে থাকল। তিনি নাজওয়া নিষেধ করলেন, তারা থামল না, তখন আয়াত নাযিল হলো।"
+          },
+          {
+            "en": "Al-Qurtubi adds two more. From 'Abd ar-Rahman ibn Zayd ibn Aslam: a man would come to the Prophet ﷺ and speak his need privately while the land was at war, and people feared he was confiding news of a battle or a calamity. And, under it is said, that the verse concerns Muslims. These reports are kept side by side, with no preference.",
+            "bn": "কুরতুবী আরও দুটি মত আনেন। আবদুর রহমান ইবন যায়দ ইবন আসলাম বলেছেন, তখন দেশজুড়ে যুদ্ধাবস্থা। কেউ নবী ﷺ-এর কাছে এসে নিজের প্রয়োজনের কথা একান্তে বলত, আর লোকেরা ভয় পেত, হয়তো কোনো যুদ্ধ বা বিপদের খবর দেওয়া হচ্ছে। আর 'বলা হয়' কথাটি দিয়ে তিনি আনেন, আয়াতটি মুসলিমদের সম্পর্কে। এই বর্ণনাগুলো পাশাপাশি রাখা হলো, কোনোটিকে প্রাধান্য দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sin, Aggression and Defiance",
+          "bn": "গুনাহ, জুলুম আর নাফরমানি"
+        },
+        "p": [
+          {
+            "en": "Wa yatanajawna bil-ithmi wal-'udwani wa ma'siyati ar-rasul: and they confer in sin, aggression and disobedience to the Messenger. Ibn Kathir draws the line between the first two: ithm is the wrong that stays with the doer, 'udwan the wrong that reaches others. Defying the Messenger they persist in and urge on one another. At-Tabari glosses the first as indecencies Allah forbade them, all of it contrary to His command. Al-Qurtubi is shorter still: lying and injustice, and opposition to the Messenger.",
+            "bn": "ওয়া ইয়াতানাজাওনা বিল ইসমি ওয়াল উদওয়ানি ওয়া মা'সিয়াতির রাসূল: আর তারা কানাকানি করে গুনাহ, সীমালঙ্ঘন আর রাসূলের নাফরমানি নিয়ে। প্রথম দুটির মধ্যে ইবন কাসীর একটা রেখা টানেন। ইসম সেই অন্যায়, যা কর্তার নিজের মধ্যেই থাকে। উদওয়ান সেই অন্যায়, যা গিয়ে পড়ে অন্যের উপর। আর রাসূলের নাফরমানি ও তাঁর বিরোধিতায় তারা অটল থাকত, একে অন্যকে তাতে উসকে দিত। তাবারী প্রথমটির অর্থ করেন আল্লাহর নিষিদ্ধ অশ্লীল কাজ, যার পুরোটাই তাঁর হুকুমের উল্টো। কুরতুবীর ব্যাখ্যা আরও ছোট: মিথ্যা আর জুলুম, আর রাসূলের বিরোধিতা।"
+          },
+          {
+            "en": "At-Tabari records that most readers of Madinah and Basra read yatanajawna, pointing to the same pattern in 58:9, idha tanajaytum, while Yahya, Hamza and al-A'mash read yantajuna. Al-Qurtubi relays from an-Nahhas that Sibawayh held the two patterns to carry one meaning, and reports ad-Dahhak, Mujahid and Humayd reading ma'siyat in the plural: acts of disobedience.",
+            "bn": "তাবারী জানান, মদীনা ও বসরার অধিকাংশ কারী পড়েছেন ইয়াতানাজাওনা। তাঁদের যুক্তি ৫৮:৯, যেখানে একই গঠনে আছে ইযা তানাজাইতুম। আর ইয়াহইয়া, হামযা ও আ'মাশ পড়েছেন ইয়ানতাজূনা। কুরতুবী নাহহাসের সূত্রে জানান, সীবাওয়াইহের মতে দুটি গঠনের অর্থ একই। তিনি আরও জানান, দাহহাক, মুজাহিদ ও হুমাইদ মা'সিয়াত শব্দটি বহুবচনে পড়েছেন, অর্থাৎ নাফরমানির নানা কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Greeting Bent Out of Shape",
+          "bn": "সালামের বাঁকা রূপ"
+        },
+        "p": [
+          {
+            "en": "Wa idha ja'uka hayyawka bima lam yuhayyika bihi Allah: and when they come to you, they greet you with what Allah did not greet you with. At-Tabari explains: with a greeting other than the greeting Allah made yours, and adds that, by the reports, they used to say as-samu 'alayka. The Muyassar glosses as-sam as death to you. Al-Baghawi describes the trick: they let him think they were saying as-salamu 'alayka, peace be upon you. Al-Qurtubi puts the contrast in a line: Allah greeted you with peace, and they say death.",
+            "bn": "ওয়া ইযা জাঊকা হাইয়াওকা বিমা লাম ইউহাইয়িকা বিহিল্লাহ: আর যখন তারা তোমার কাছে আসে, তোমাকে এমন শব্দে সম্ভাষণ করে, যে শব্দে আল্লাহ তোমাকে সম্ভাষণ করেননি। তাবারী ব্যাখ্যা করেন: আল্লাহ যে সম্ভাষণ তোমার জন্য ঠিক করে দিয়েছেন, তার বদলে অন্য কিছু দিয়ে। তিনি যোগ করেন, বর্ণনা অনুযায়ী তারা বলত আস-সামু আলাইকা। মুয়াসসার বলে, আস-সাম মানে মৃত্যু, অর্থাৎ তোমার মরণ হোক। বাগাভী কৌশলটা খুলে দেখান: তারা এমনভাবে বলত, যেন তিনি মনে করেন তারা আস-সালামু আলাইকা বলছে, তোমার উপর শান্তি। কুরতুবী এক বাক্যে তফাতটা দেখান: আল্লাহ তোমাকে শান্তির সালাম দিয়েছেন, আর তারা বলে মৃত্যু।"
+          },
+          {
+            "en": "A second sense is recorded too. In the report from Anas (RA) that at-Tabari and Ibn Kathir carry, the word is sa'm, glossed as you will grow weary of your religion. Al-Qurtubi gives both senses: death, or weariness of the religion, from sa'ima, to tire. As-Sa'di keeps to the plain charge: they were ill-mannered with him in their greeting, while hiding what they meant.",
+            "bn": "আরেকটি অর্থও লেখা আছে। আনাস (রাঃ)-এর যে বর্ণনা তাবারী ও ইবন কাসীর এনেছেন, সেখানে শব্দটি সা'ম, আর তার ব্যাখ্যা: তোমরা নিজেদের দীনের প্রতি বিরক্ত হয়ে পড়বে। কুরতুবী দুটি অর্থই দেন। একটি মৃত্যু, অন্যটি দীনের প্রতি বিরক্তি, যা এসেছে সায়িমা থেকে, অর্থাৎ ক্লান্ত হওয়া। সা'দী সাদামাটা অভিযোগেই থাকেন: সালামে তারা তাঁর সঙ্গে বেয়াদবি করত, আর আসল উদ্দেশ্য মনে লুকিয়ে রাখত।"
+          },
+          {
+            "en": "On who did this, the commentators differ. Al-Qurtubi writes that there is no disagreement among the transmitters that the greeting clause means Jews. At-Tabari and Ibn Kathir, though, both carry a report from Ibn Abbas (RA), through al-'Awfi, that it was the hypocrites who greeted the Prophet ﷺ so. As-Sa'di leaves it open: either hypocrites who showed faith while lying, or some of the People of the Book. The differences are kept here as they stand.",
+            "bn": "কাজটা কারা করত, এ নিয়ে তাফসীরকারদের মধ্যে ভিন্নতা আছে। কুরতুবী লেখেন, সালামের অংশটি যে ইহুদিদের বোঝায়, এতে বর্ণনাকারীদের মধ্যে কোনো মতভেদ নেই। অথচ তাবারী ও ইবন কাসীর দুজনেই আওফীর সূত্রে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন: মুনাফিকরাই নবী ﷺ-কে এভাবে সম্ভাষণ করত। সা'দী বিষয়টি খোলা রাখেন। তাঁর মতে এরা হয় মুনাফিক, যারা মুখে ঈমান দেখাত আর ভেতরে মিথ্যা বলত, নয়তো আহলে কিতাবের কিছু লোক। ভিন্নমতগুলো যেমন আছে, তেমনই এখানে রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gentleness in Every Matter",
+          "bn": "সব কাজে কোমলতা"
+        },
+        "p": [
+          {
+            "en": "Several commentators tie the greeting to one scene, narrated by Aishah (RA). What follows is Sahih al-Bukhari 6024 in full, rendered closely from the Arabic. A group of Jews came in to the Messenger of Allah ﷺ and said: as-samu 'alaykum. Aishah said: I understood it, and I said: wa 'alaykum as-samu wal-la'nah, and upon you be death and the curse. The Messenger of Allah ﷺ said: Gently, O Aishah; Allah loves gentleness in every matter. I said: O Messenger of Allah, did you not hear what they said? He said: I have said, wa 'alaykum.",
+            "bn": "কয়েকজন তাফসীরকার এই সালামকে একটি ঘটনার সঙ্গে যুক্ত করেন, যা বর্ণনা করেছেন আয়েশা (রাঃ)। নিচে সহীহ বুখারী ৬০২৪ পুরোটাই দেওয়া হলো, আরবি মূলের কাছাকাছি থেকে। ইহুদিদের একটি দল রাসূলুল্লাহ ﷺ-এর কাছে এসে বলল: আস-সামু আলাইকুম। আয়েশা (রাঃ) বলেন, আমি কথাটা বুঝে ফেললাম এবং বললাম: ওয়া আলাইকুমুস সামু ওয়াল লা'নাহ, তোমাদের উপরই মৃত্যু আর লানত। রাসূলুল্লাহ ﷺ বললেন: থামো, আয়েশা। আল্লাহ সব কাজে কোমলতা ভালোবাসেন। আমি বললাম: হে আল্লাহর রাসূল, ওরা কী বলল, আপনি শোনেননি? তিনি বললেন: আমি তো বলেছি, ওয়া আলাইকুম।"
+          },
+          {
+            "en": "Al-Bukhari's wording does not mention the verse. The link is in Sahih Muslim 2165, which gathers the same account through several chains. One of them, through al-A'mash, differs in saying that Aishah understood them and reviled them, and that the Messenger of Allah ﷺ said: Stop, O Aishah, for Allah does not love obscenity or the affecting of it. That narration adds: so Allah, Mighty and Majestic, revealed, and when they come to you, they greet you with what Allah did not greet you with, to the end of the verse.",
+            "bn": "বুখারীর এই বর্ণনায় আয়াতের উল্লেখ নেই। আয়াতের সঙ্গে সম্পর্কটা পাওয়া যায় সহীহ মুসলিম ২১৬৫-এ, যেখানে একই ঘটনা কয়েকটি সনদে এসেছে। আ'মাশের সূত্রে আসা একটি বর্ণনায় ভিন্নতা এটুকু: আয়েশা (রাঃ) তাদের কথা ধরে ফেলে তাদের গালমন্দ করলেন। তখন রাসূলুল্লাহ ﷺ বললেন: থামো, আয়েশা। আল্লাহ অশ্লীল কথা ভালোবাসেন না, ইচ্ছে করে অশ্লীল কথা বলাও না। সেই বর্ণনায় আরও আছে: তখন মহান আল্লাহ নাযিল করলেন, আর যখন তারা তোমার কাছে আসে, তোমাকে এমন শব্দে সম্ভাষণ করে, যে শব্দে আল্লাহ তোমাকে সম্ভাষণ করেননি, আয়াতের শেষ পর্যন্ত।"
+          },
+          {
+            "en": "Jami' at-Tirmidhi 3301 ties the verse to a second scene, from Anas (RA). A Jewish man came upon the Prophet ﷺ and his Companions and said as-samu 'alaykum, and the people returned it. The Prophet ﷺ said: Do you know what he said? They said: Allah and His Messenger know best; he gave the salam. He said: No, he said such-and-such; bring him back. They did, and he said: You said as-samu 'alaykum? He said: Yes. He said: when any of the People of the Book greets you, say 'alayk, upon you what you said. The verse follows. At-Tirmidhi grades it hasan sahih.",
+            "bn": "জামি' তিরমিযী ৩৩০১ আয়াতটিকে আরেকটি ঘটনার সঙ্গে যুক্ত করে, যা বর্ণনা করেছেন আনাস (রাঃ)। এক ইহুদি লোক নবী ﷺ ও তাঁর সাহাবিদের কাছে এসে বলল: আস-সামু আলাইকুম। লোকেরা তার জবাব দিল। নবী ﷺ বললেন: জানো, সে কী বলেছে? তাঁরা বললেন: আল্লাহ ও তাঁর রাসূলই ভালো জানেন, সে সালাম দিয়েছে। তিনি বললেন: না, সে এমন এমন বলেছে, তাকে ফিরিয়ে আনো। তারা ফিরিয়ে আনল। তিনি বললেন: তুমি কি আস-সামু আলাইকুম বলেছ? সে বলল: হ্যাঁ। তখন তিনি বললেন: আহলে কিতাবের কেউ তোমাদের সালাম দিলে বলবে, আলাইকা, তুমি যা বলেছ তা তোমার উপরই। এরপর আয়াতটি এসেছে। তিরমিযী একে হাসান সহীহ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Returned, and Nothing Added",
+          "bn": "যা এসেছিল, শুধু তা-ই ফেরত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi pauses on the reply. Some narrations have 'alaykum, upon you, others wa 'alaykum, and upon you, and the scholars weighed that and: joined that way, it could seem to share in the death that had been wished. He records three answers. The waw is extra; it opens a fresh clause; or it keeps its joining sense and does no harm, because, as the Prophet ﷺ said, we are answered against them and they are not answered against us. He judges the waw the better meaning and the sounder transmission.",
+            "bn": "কুরতুবী জবাবটির উপর একটু থামেন। কিছু বর্ণনায় আছে আলাইকুম, তোমাদের উপর। আবার কিছু বর্ণনায় ওয়া আলাইকুম, তোমাদের উপরও। এই 'ওয়া' নিয়ে আলেমরা ভেবেছেন। সংযোজক 'ওয়া' মনে হতে পারে, তারা যে মৃত্যু কামনা করেছে তাতে নিজেরাও শরিক হয়ে যাচ্ছি। কুরতুবী তিনটি জবাব আনেন। এক, 'ওয়া' এখানে অতিরিক্ত। দুই, এটি নতুন বাক্যের সূচনা। তিন, এটি সংযোজকই, তবে তাতে ক্ষতি নেই, কারণ নবী ﷺ বলেছেন, তাদের বিরুদ্ধে আমাদের দোয়া কবুল হয়, আমাদের বিরুদ্ধে তাদেরটা হয় না। কুরতুবীর বিচারে 'ওয়া'-সহ পাঠটি অর্থে উত্তম, আর বর্ণনায় অধিক বিশুদ্ধ।"
+          },
+          {
+            "en": "That saying is in Sahih Muslim 2166, from Jabir ibn Abdullah (RA): some Jews greeted the Messenger of Allah ﷺ, saying as-samu 'alayka, O Abu al-Qasim, and he said wa 'alaykum. Aishah, angered, said: did you not hear what they said? He said: Yes, I heard, and I returned it to them; and we are answered against them, and they are not answered against us. He who was insulted to his face returned the exact measure of what was said, and what he checked was the harshness beside him.",
+            "bn": "কথাটি আছে সহীহ মুসলিম ২১৬৬-এ, জাবির ইবন আবদুল্লাহ (রাঃ) থেকে। কয়েকজন ইহুদি রাসূলুল্লাহ ﷺ-কে সালাম দিল এভাবে: আস-সামু আলাইকা, হে আবুল কাসিম। তিনি বললেন: ওয়া আলাইকুম। আয়েশা (রাঃ) রেগে গিয়ে বললেন: ওরা কী বলল, আপনি শোনেননি? তিনি বললেন: হ্যাঁ, শুনেছি, আর তাদের কথা তাদের দিকেই ফিরিয়ে দিয়েছি। তাদের বিরুদ্ধে আমাদের দোয়া কবুল হয়, আমাদের বিরুদ্ধে তাদেরটা হয় না। যাঁকে মুখের উপর অপমান করা হলো, তিনি ঠিক ততটুকুই ফেরত দিলেন, যতটুকু বলা হয়েছিল। আর যা থামালেন, তা ছিল পাশের মানুষের কঠোরতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mistaking Delay for Safety",
+          "bn": "দেরিকে নিরাপত্তা ভাবার ভুল"
+        },
+        "p": [
+          {
+            "en": "Wa yaquluna fi anfusihim law-la yu'adhdhibuna Allahu bima naqul: and they say within themselves, why does Allah not punish us for what we say? Ibn Kathir unpacks it: Allah knows what we conceal, so were this man a prophet, punishment would soon reach us in this world. He cites from Imam Ahmad a report of 'Abdullah ibn 'Amr (RA): the Jews would say sam 'alayk, then say this within themselves, and the verse came down. Ibn Kathir calls its chain hasan and notes that al-Bukhari and Muslim did not record it.",
+            "bn": "ওয়া ইয়াকূলূনা ফী আনফুসিহিম লাওলা ইউআযযিবুনাল্লাহু বিমা নাকূল: আর তারা মনে মনে বলে, আমরা যা বলি তার জন্য আল্লাহ আমাদের শাস্তি দেন না কেন? ইবন কাসীর ভাবনাটা খুলে বলেন: আমরা যা লুকাই আল্লাহ তা জানেন। কাজেই এ লোক সত্যিই নবী হলে আল্লাহ দুনিয়াতেই তাড়াতাড়ি আমাদের শাস্তি দিতেন। তিনি ইমাম আহমাদ থেকে আবদুল্লাহ ইবন আমর (রাঃ)-এর একটি বর্ণনা আনেন: ইহুদিরা বলত সাম আলাইকা, তারপর মনে মনে এ কথা বলত, আর তখন আয়াতটি নাযিল হয়। ইবন কাসীর এর সনদকে হাসান বলেছেন, আর জানিয়েছেন, বুখারী ও মুসলিম এটি সংকলন করেননি।"
+          },
+          {
+            "en": "Al-Qurtubi relays Ibn al-'Arabi: they did not know that the Creator is Halim, forbearing, and does not hasten punishment on one who reviles Him, so how much less on one who reviles His prophet. He adds a hadith he calls established. Sahih al-Bukhari 6099 records it from Abu Musa (RA), a general saying not tied to this verse: No one, or nothing, is more patient over harm it hears than Allah. They ascribe a child to Him, and yet He gives them well-being and provides for them.",
+            "bn": "কুরতুবী ইবনুল আরাবীর কথা আনেন: তারা জানত না যে স্রষ্টা হালীম, পরম সহনশীল। যে তাঁকে গালি দেয়, তিনি তাকেও শাস্তি দিতে তাড়াহুড়া করেন না। তাহলে তাঁর নবীকে যে গালি দেয়, তার বেলায় তো আরও নয়। এরপর কুরতুবী একটি হাদীস আনেন, যাকে তিনি প্রমাণিত বলেন। সহীহ বুখারী ৬০৯৯-এ আবু মূসা (রাঃ) থেকে তা বর্ণিত। এটি সাধারণ বাণী, এই আয়াতের সঙ্গে যুক্ত নয়: কষ্টদায়ক কথা শুনে আল্লাহর চেয়ে বেশি ধৈর্য ধরে, এমন কেউ নেই, বা এমন কিছু নেই। তারা তাঁর সন্তান আছে বলে দাবি করে, তবু তিনি তাদের সুস্থ রাখেন, রিযিক দেন।"
+          },
+          {
+            "en": "Al-Qurtubi records a second line of thought under it is said: he answers us wa 'alaykum, and if he were a prophet that prayer would be answered against us and we would die. He finds it astonishing: as people of scripture they knew prophets are angered without whoever angers them being punished at once. As-Sa'di names the error: they took delayed punishment as proof their words were harmless, and Allah shows He gives respite but does not neglect. Hasbuhum jahannam: Hell suffices them, al-Qurtubi says, as punishment tomorrow.",
+            "bn": "'বলা হয়' কথাটি দিয়ে কুরতুবী তাদের আরেকটি ভাবনা আনেন: সে তো আমাদের জবাবে বলে ওয়া আলাইকুম। সে নবী হলে আমাদের বিরুদ্ধে সেই দোয়া কবুল হতো, আর আমরা মরে যেতাম। কুরতুবীর কাছে এটা বিস্ময়কর। তারা ছিল আহলে কিতাব, জানত যে নবীরা রাগ করেন, অথচ যে রাগায় তাকে সঙ্গে সঙ্গে শাস্তি দেওয়া হয় না। সা'দী ভুলটা চিহ্নিত করেন: শাস্তি তাড়াতাড়ি আসেনি বলে তারা ধরে নিল, তাদের কথায় কোনো দোষ নেই। আল্লাহ জবাব দেন, তিনি অবকাশ দেন, কিন্তু উপেক্ষা করেন না। হাসবুহুম জাহান্নাম: কুরতুবী বলেন, আগামীর শাস্তি হিসেবে জাহান্নামই তাদের জন্য যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Their Corner to Ours",
+          "bn": "তাদের কোণ থেকে আমাদের কোণে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The reports above describe particular people in Madinah in the Prophet's ﷺ lifetime. The verse describes what the text describes. It licenses nothing against any living person or community, Jewish or otherwise, and gives no one leave to hear a neighbour's greeting as a curse or a neighbour's quiet talk as a plot. He who was wronged in the scene set its tone himself: Allah loves gentleness in every matter.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ওপরের বর্ণনাগুলো নবী ﷺ-এর জীবদ্দশায় মদীনার নির্দিষ্ট কিছু মানুষের কথা বলে। আয়াতটি ঠিক ততটুকুই বর্ণনা করে, যতটুকু তার ভাষায় আছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, ইহুদি হোক বা অন্য কেউ, এ আয়াত কোনো অনুমতি দেয় না। প্রতিবেশীর সালামকে বদদোয়া ভাবার, কিংবা তার নিচু গলার আলাপকে ষড়যন্ত্র ভাবার অধিকারও কাউকে দেয় না। ঘটনায় যাঁর উপর অন্যায় হয়েছিল, সুরটা তিনিই বেঁধে দিয়েছেন: আল্লাহ সব কাজে কোমলতা ভালোবাসেন।"
+          },
+          {
+            "en": "The passage then turns, at 58:9, to the believers: when you confer privately, do not confer in sin, aggression and disobedience to the Messenger, but confer in birr and taqwa. As-Sa'di, in his comment here, says najwa can be for good or for evil; birr gathers every good and obedience, and taqwa here means leaving everything forbidden. The believer confers only in what brings him nearer to Allah. Ma'arif al-Qur'an adds that the rule is general and binds Muslims too: no secret conference to harm another Muslim.",
+            "bn": "এরপর ৫৮:৯-এ আয়াত ফিরে আসে মুমিনদের দিকে: তোমরা যখন গোপনে পরামর্শ করো, গুনাহ, সীমালঙ্ঘন আর রাসূলের নাফরমানি নিয়ে পরামর্শ কোরো না, পরামর্শ করো নেকি আর তাকওয়া নিয়ে। সা'দী এখানকার আলোচনায় বলেন, নাজওয়া ভালোর জন্যও হতে পারে, মন্দের জন্যও। বির্র শব্দে সব ভালো কাজ আর সব আনুগত্য ধরা আছে। আর তাকওয়া এখানে মানে সব নিষিদ্ধ কাজ ছেড়ে দেওয়া। তাঁর কথায়, মুমিনকে আপনি গোপন আলাপে পাবেন কেবল সেসব নিয়ে, যা তাকে আল্লাহর কাছে নিয়ে যায়। মাআরিফুল কুরআন যোগ করে, নিয়মটি সবার জন্য, মুসলিমদের জন্যও: অন্য মুসলিমের ক্ষতি করতে গোপন বৈঠক চলবে না।"
+          },
+          {
+            "en": "The Sunnah carries the same care into ordinary company. Sahih al-Bukhari 6290 records from 'Abdullah (RA) that the Prophet ﷺ said: when you are three, two should not converse privately apart from the other until you mix with people, because that would grieve him. It is general, not attached to this verse; Ibn Kathir cites the teaching beside 58:10: najwa is from Shaytan, to grieve the believers. The verse's question then comes home: what is said in my corner of the room, and does my greeting mean what it says?",
+            "bn": "সাধারণ মেলামেশাতেও সুন্নাহ একই যত্ন শেখায়। সহীহ বুখারী ৬২৯০-এ আবদুল্লাহ (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: তোমরা তিনজন থাকলে দুজন তৃতীয়জনকে বাদ দিয়ে কানাকানি করবে না, যতক্ষণ না অন্য মানুষের সঙ্গে মিশে যাও, কারণ তাতে সে কষ্ট পাবে। এটি সাধারণ বর্ণনা, এই আয়াতের সঙ্গে যুক্ত নয়। ইবন কাসীর একই শিক্ষা আনেন ৫৮:১০-এর পাশে, যেখানে বলা হয়েছে, নাজওয়া শয়তানের কাজ, মুমিনদের দুঃখ দেওয়ার জন্য। তখন আয়াতের প্রশ্নটা নিজের ঘরে এসে দাঁড়ায়: আমার কোণে বসে কী বলা হয়? আর আমার সালাম কি সত্যিই তা-ই বোঝায়, যা মুখে বলি?"
+          }
+        ]
+      }
+    ]
+  },
   "58:13": {
     "sections": [
       {

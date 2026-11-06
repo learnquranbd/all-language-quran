@@ -28229,6 +28229,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let your wealth reach those Allah names instead of circling among the comfortable, and take what the Messenger ﷺ brings and leave what he forbids, gladly.",
     "lessonBn": "আপনার সম্পদ যেন সচ্ছলদের মধ্যেই ঘুরপাক না খেয়ে আল্লাহ যাদের নাম নিয়েছেন তাদের কাছে পৌঁছায়। আর রসূল ﷺ যা আনেন খুশিমনে গ্রহণ করুন, যা নিষেধ করেন তা ছেড়ে দিন।"
+  },
+  "58:8": {
+    "reflectionEn": "Some people were told plainly to stop their whispering, and went straight back to it. Their huddled talk was about sin, about wronging others, and about defying the Messenger. When they came to him in person they bent the greeting, giving him words Allah had never greeted him with, and then said to themselves: if he were true, why has nothing happened to us? The verse answers that question with the Fire, and with one word: sufficient. A delay is not an acquittal. The very next verse turns to the believers and tells them what their own private talk should carry instead: righteousness and taqwa. What do I say in the corner of a room, and how does my greeting sound when I do not mean it?",
+    "reflectionBn": "কিছু মানুষকে স্পষ্ট করে বলা হয়েছিল কানাকানি বন্ধ করতে। তারা আবার সেই কাজেই ফিরে গেল। তাদের জটলার আলাপ ছিল গুনাহ নিয়ে, অন্যের উপর জুলুম নিয়ে, রাসূলের নাফরমানি নিয়ে। আবার যখন সামনাসামনি তাঁর কাছে আসত, সালামটাই বাঁকিয়ে দিত। এমন শব্দে তাঁকে সম্ভাষণ করত, যে শব্দে আল্লাহ তাঁকে কখনো সম্ভাষণ করেননি। তারপর মনে মনে বলত: সে যদি সত্যিই নবী হয়, আমাদের কিছু হচ্ছে না কেন? আয়াত সেই প্রশ্নের জবাব দেয় জাহান্নাম দিয়ে, আর একটি শব্দ দিয়ে: যথেষ্ট। দেরি মানে খালাস নয়। ঠিক পরের আয়াতেই মুমিনদের বলা হয়, তাদের নিজেদের গোপন আলাপে কী থাকা চাই: নেকি আর তাকওয়া। ঘরের এক কোণে বসে আমি কী বলি? আর মন থেকে না দিলে আমার সালামটা কেমন শোনায়?",
+    "pointsEn": [
+      "Is there a habit I was told plainly to leave, and went back to as soon as no one was watching?",
+      "When two or three of us talk quietly, would the person left outside the circle be hurt or frightened by what we are saying?",
+      "Do my greetings mean what they say, or do I sometimes wrap a jab inside polite words?",
+      "Have I taken the fact that nothing bad has happened yet as proof that what I am doing is fine?",
+      "When someone's words to me carry a hidden barb, do I answer in measure, or pour out more than I was given?"
+    ],
+    "pointsBn": [
+      "এমন কোনো অভ্যাস কি আছে, যা ছাড়তে আমাকে স্পষ্ট করে বলা হয়েছিল, অথচ কেউ দেখছে না বুঝতেই আবার সেখানে ফিরে গেছি?",
+      "দু-তিনজন মিলে যখন নিচু গলায় কথা বলি, বৃত্তের বাইরে থাকা মানুষটা কি আমাদের কথায় কষ্ট পাবে বা ভয় পাবে?",
+      "আমার সালাম কি সত্যিই তা-ই বোঝায় যা মুখে বলি, নাকি কখনো ভদ্র শব্দের ভেতরে খোঁচা মুড়ে দিই?",
+      "এখনো খারাপ কিছু ঘটেনি বলে কি ধরে নিয়েছি যে আমি যা করছি তা ঠিকই আছে?",
+      "কারও কথায় লুকানো খোঁচা থাকলে আমি কি মেপে জবাব দিই, নাকি যা পেয়েছি তার চেয়ে বেশি ঢেলে দিই?"
+    ],
+    "lessonEn": "Let your private talk carry righteousness and taqwa, let your greeting mean what it says, and never read Allah's delay as His approval.",
+    "lessonBn": "আপনার গোপন আলাপে থাকুক নেকি আর তাকওয়া, আপনার সালাম যেন মনের কথাই বলে, আর আল্লাহর দেরিকে কখনো তাঁর সম্মতি ভাববেন না।"
   }
 };
 
