@@ -1451,6 +1451,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:40": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Crowd Summoned to Watch",
+          "bn": "দেখার জন্য ডেকে আনা জনতা"
+        },
+        "p": [
+          {
+            "en": "The scene opens two verses back. Fa-jumi'a s-saharatu li-miqati yawmin ma'lum: so the magicians were gathered for the appointment of a known day (26:38). At-Tabari names that day as the Day of Adornment and joins it to the words of Ta-Ha, that the people be assembled at forenoon (20:59). As-Sa'di adds that Musa (AS) himself had set it, a day when people were free of work. Al-Baghawi carries a report from Ibn Abbas (RA) that it fell on a Saturday, the first day of the year, the day of Nayruz, and he gives it as narrated, not as settled.",
+            "bn": "দৃশ্যটা শুরু হয়েছে দুই আয়াত আগে। ফাজুমি'আস সাহারাতু লিমীকাতি ইয়াওমিম মা'লূম: যাদুকরদের জড়ো করা হলো এক সুবিদিত দিনের নির্ধারিত সময়ে (২৬:৩৮)। তাবারী বলেন, সে দিন ছিল ইয়াওমুয যীনাহ, অর্থাৎ সাজসজ্জার উৎসবের দিন, আর তিনি এর সঙ্গে জুড়ে দেন সূরা ত্বা-হার কথা: লোকজনকে জড়ো করা হবে পূর্বাহ্ণে (২০:৫৯)। সা'দী যোগ করেন, দিনটা ঠিক করে দিয়েছিলেন মূসা (আঃ) নিজেই, এমন দিন যেদিন মানুষ কাজকর্ম থেকে ছুটি পায়। বাগাভী ইবন আব্বাস (রাঃ)-এর সূত্রে একটি বর্ণনা আনেন: দিনটা ছিল শনিবার, বছরের প্রথম দিন, নওরোজের দিন। তবে তিনি এটাকে বর্ণিত কথা হিসেবেই আনেন, প্রতিষ্ঠিত সত্য হিসেবে নয়।"
+          },
+          {
+            "en": "Then the call went out to everyone else. Wa-qila li-n-nasi hal antum mujtami'un: and it was said to the people, will you gather? (26:39). At-Tabari and al-Baghawi give its purpose in almost the same words: gather to watch what the two parties do, and to whom the victory will go, to Musa or to the magicians. As-Sa'di says the summons went out to the people at large. The court did not want a quiet hearing. It wanted spectators, and it wanted them to see who would win.",
+            "bn": "তারপর ডাক গেল বাকি সবার কাছে। ওয়া কীলা লিন্নাসি হাল আনতুম মুজতামি'ঊন: আর লোকদের বলা হলো, তোমরা কি জড়ো হবে? (২৬:৩৯)। তাবারী আর বাগাভী এর উদ্দেশ্য বলেন প্রায় একই ভাষায়: জড়ো হও, দেখো দুই পক্ষ কী করে, আর জয় কার ভাগ্যে যায়, মূসার না যাদুকরদের। সা'দী বলেন, এই ডাক দেওয়া হয়েছিল সর্বসাধারণকে। দরবার চুপচাপ কোনো শুনানি চায়নি। সে চেয়েছিল দর্শক, আর দর্শকদের দেখাতে চেয়েছিল কে জেতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Numbers the Qur'an Leaves Open",
+          "bn": "যে সংখ্যা কুরআন খোলা রেখেছে"
+        },
+        "p": [
+          {
+            "en": "How many magicians stood in that square? The Qur'an does not say, and Ibn Kathir shows why no one should claim to know. He writes that they were gathered from the regions of Egypt, the most skilled people of that age in magic and the strongest at making things seem what they were not, a great and numerous company. Then he lists what has been said, each figure under qila, it is said: twelve thousand, fifteen thousand, seventeen thousand, nineteen thousand, thirty-odd thousand, eighty thousand, and other figures besides. He closes the list himself: Allah knows best their number.",
+            "bn": "সেই ময়দানে কতজন যাদুকর দাঁড়িয়েছিল? কুরআন বলেনি। আর কেন কারও জানার দাবি করা উচিত নয়, ইবন কাসীর তা দেখিয়ে দেন। তিনি লেখেন, তাদের আনা হয়েছিল মিসরের নানা অঞ্চল থেকে। তারা ছিল সে যুগে যাদুতে সবচেয়ে দক্ষ, চোখে ভ্রম ধরাতে সবচেয়ে পটু, সংখ্যায় এক বিশাল দল। তারপর তিনি যা যা বলা হয়েছে তার তালিকা দেন, প্রতিটি সংখ্যার আগে 'বলা হয়' জুড়ে: ১২ হাজার, ১৫ হাজার, ১৭ হাজার, ১৯ হাজার, ত্রিশ হাজারের কিছু বেশি, ৮০ হাজার, আরও নানা সংখ্যা। তালিকা তিনি নিজেই শেষ করেন এই কথায়: তাদের সংখ্যা আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "He adds one more report, from Ibn Ishaq: that the magicians' affair went back to four of them, their chiefs, whom he names as Sabur, 'Azur, Hathat and Musaffa. At-Tabari, for his part, records under qila that the gathering at the appointed time took place in Alexandria, and gives it from Ibn Zayd. These are reports the commentators carry, not words of the Qur'an, and they present them with caution. Nothing in the verse depends on a count, a name or a city. What the verse preserves instead is a single sentence that the crowd spoke.",
+            "bn": "এর সঙ্গে তিনি ইবন ইসহাকের আরেকটি বর্ণনা যোগ করেন: যাদুকরদের সব ব্যাপার ঘুরে আসত তাদের চারজন সর্দারের কাছে। নাম বলা হয়েছে সাবূর, আযূর, হাতহাত ও মুসাফফা। তাবারীও 'বলা হয়' কথাটি দিয়ে উল্লেখ করেন যে নির্ধারিত সময়ের সেই সমাবেশ হয়েছিল আলেকজান্দ্রিয়ায়, আর এটি তিনি আনেন ইবন যায়দের সূত্রে। এগুলো তাফসীরকারদের বয়ে আনা বর্ণনা, কুরআনের কথা নয়, আর তাঁরা নিজেরাও এগুলো আনেন সাবধানে। আয়াতের কোনো কিছুই কোনো সংখ্যা, নাম বা শহরের উপর নির্ভর করে না। আয়াত বরং ধরে রেখেছে জনতার মুখের একটিমাত্র বাক্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hope, or In Order That",
+          "bn": "আশা, নাকি যাতে"
+        },
+        "p": [
+          {
+            "en": "La'allana nattabi'u s-saharata in kanu humu l-ghalibin: that we might follow the magicians, if it is they who are the victors. The crowd's whole mind is in those seven words. The sentence opens with la'alla, a particle that usually voices hope or expectation, and the commentators weigh how to hear it here. The question matters. It decides what kind of following the crowd had in mind, and whether the people came to the square with open minds at all, or with their verdict already made.",
+            "bn": "লা'আল্লানা নাত্তাবি'উস সাহারাতা ইন কানূ হুমুল গালিবীন: যাতে আমরা যাদুকরদের অনুসরণ করতে পারি, যদি তারাই বিজয়ী হয়। সাতটি শব্দ, আর জনতার পুরো মনটাই এর ভেতরে। বাক্যের শুরুতে আছে লা'আল্লা, যা সাধারণত আশা বা প্রত্যাশা বোঝায়। এখানে শব্দটা কীভাবে শুনতে হবে, তাফসীরকারেরা তা নিয়ে ভেবেছেন। প্রশ্নটা ছোট নয়। এর উপরই নির্ভর করে জনতা কেমন অনুসরণের কথা ভাবছিল। আর তারা ময়দানে খোলা মন নিয়ে এসেছিল, নাকি রায় আগেই ঠিক করে এসেছিল, সেটাও।"
+          },
+          {
+            "en": "At-Tabari reads la'alla here as kay, so that: gather, so that we may follow the magicians if they defeat Musa. Then he gives his reason, and it is sharp. Pharaoh's people were already on Pharaoh's religion. It makes no sense, he argues, for someone who holds a religion to say: let me look at the proof of my opponent, so that perhaps I may follow my own religion. What such a person says is: let me look at it so that I grow in insight into my religion and stand firm upon it. That, says at-Tabari, is what Pharaoh's people meant.",
+            "bn": "তাবারী এখানে লা'আল্লাকে পড়েন কাই অর্থে, অর্থাৎ যাতে: জড়ো হও, যাতে যাদুকরেরা মূসাকে হারালে আমরা তাদের অনুসরণ করতে পারি। তারপর তিনি কারণ দেখান, আর কারণটা ধারালো। ফেরাউনের লোকেরা তো আগে থেকেই ফেরাউনের দীনের উপর ছিল। তাঁর যুক্তি, যে লোক কোনো দীন মেনে চলে, সে এ কথা বলে না যে, আমার বিরোধীর প্রমাণটা দেখি, হয়তো তাতে আমি নিজের দীনের অনুসরণ করতে পারব। সে বরং বলে, দেখি, যাতে নিজের দীনের ব্যাপারে আমার বুঝ আরও বাড়ে আর আমি তার উপর অটল থাকি। তাবারী বলেন, ফেরাউনের লোকেরা এটাই বুঝিয়েছিল।"
+          },
+          {
+            "en": "Al-Muyassar keeps the note of hope but lands where at-Tabari does: we are eager that the victory be the magicians', so that we hold firm to our religion. Al-Baghawi glosses la'alla as li-kay, in order that, and completes the condition with the words over Musa. On both their readings, however the particle is heard, the crowd was not coming to weigh two claims. It was coming to see an existing loyalty confirmed, and it had already decided that the confirmation would take the form of a victory.",
+            "bn": "মুয়াসসার আশার সুরটা রাখে, তবে পৌঁছায় তাবারীর জায়গাতেই: আমরা চাই জয়টা যাদুকরদেরই হোক, যাতে আমরা নিজেদের দীনে অটল থাকতে পারি। বাগাভী লা'আল্লার ব্যাখ্যা দেন লিকাই, অর্থাৎ যাতে। আর শর্তটা পূর্ণ করেন 'মূসার বিরুদ্ধে' কথাটি জুড়ে। শব্দটা যেভাবেই শোনা হোক, এই দুই পাঠে জনতা দুটি দাবি মেপে দেখতে আসছিল না। তারা আসছিল আগের আনুগত্যটাই পাকা হতে দেখতে। আর সেই পাকা হওয়াটা যে জয়ের চেহারায় আসবে, তাও তারা আগেই ধরে নিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Follow Them Into What?",
+          "bn": "অনুসরণ, কিন্তু কোন পথে?"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir puts his finger on what the sentence leaves out. After the people strove to gather that day, he writes, one of them said: perhaps we will follow the magicians, if they are the victors. And they did not say: we will follow the truth, whether it lies with the magicians or with Musa. Rather, he concludes, the subjects follow the religion of their king. The magicians were Pharaoh's men, so to follow them was to stay with Pharaoh. The crowd's loyalty ran upward to the throne, and the contest was meant to keep it there.",
+            "bn": "বাক্যটা থেকে কী বাদ পড়ে গেছে, ইবন কাসীর ঠিক সেখানে আঙুল রাখেন। তিনি লেখেন, সেদিন লোকেরা জড়ো হতে খুব চেষ্টা করল, আর তাদের একজন বলল: যাদুকরেরা জিতলে হয়তো আমরা তাদের অনুসরণ করব। তারা কিন্তু এ কথা বলেনি যে, সত্য যার কাছেই থাকুক, যাদুকরদের কাছে হোক বা মূসার কাছে, আমরা সত্যের পেছনেই চলব। তাঁর উপসংহার: প্রজারা তাদের রাজার দীনের উপরই থাকে। যাদুকরেরা ছিল ফেরাউনের লোক। তাই তাদের অনুসরণ মানে ফেরাউনের সঙ্গেই থেকে যাওয়া। জনতার আনুগত্য উঠে গিয়েছিল সিংহাসন পর্যন্ত, আর প্রতিযোগিতার কাজ ছিল তাকে সেখানেই আটকে রাখা।"
+          },
+          {
+            "en": "As-Sa'di hears the sentence as part of the summons itself. On his reading it was said to the people: gather to watch the magicians defeat Musa and show their mastery of their craft, so that we follow them, honour them and come to know the excellence of the science of magic. Then he writes the sentence as it should have been. Had they been granted success towards the truth, he says, they would have said: that we might follow whichever of them is in the right, and come to know what is correct.",
+            "bn": "সা'দী বাক্যটাকে শোনেন সেই ডাকেরই অংশ হিসেবে। তাঁর পাঠে লোকদের বলা হয়েছিল: জড়ো হও, দেখো যাদুকরেরা কীভাবে মূসাকে হারায়, কীভাবে নিজেদের বিদ্যায় তারা ওস্তাদ। তাহলে আমরা তাদের অনুসরণ করব, তাদের সম্মান করব, আর যাদুবিদ্যার মর্যাদা চিনে নেব। এরপর তিনি লেখেন বাক্যটা আসলে কেমন হওয়া উচিত ছিল। তাঁর কথা, সত্যের তাওফীক পেলে তারা বলত: দুই পক্ষের মধ্যে যে সত্যের উপর আছে, যাতে আমরা তারই অনুসরণ করতে পারি, আর যাতে ঠিক কোনটা তা জানতে পারি।"
+          },
+          {
+            "en": "The two commentators also frame the speaker differently. Ibn Kathir gives the words to one of the gathered people; as-Sa'di has them spoken to the people, as part of the call to assemble. Al-Baghawi records a further view, under qila: that they said it by way of mockery, and meant by the magicians Musa and Harun (AS) and their people. On that reading the line is a jeer, and the promise to follow is scorn. He records it after his main gloss.",
+            "bn": "বক্তা কে, তা নিয়েও এই দুই তাফসীরকারের ছবি আলাদা। ইবন কাসীর কথাগুলো দেন জড়ো হওয়া লোকদের একজনের মুখে। সা'দীর পাঠে কথাগুলো বলা হয়েছিল লোকদের উদ্দেশে, জড়ো হওয়ার ডাকেরই অংশ হিসেবে। বাগাভী 'বলা হয়' কথাটি দিয়ে আরেকটি মত আনেন: তারা কথাটা বলেছিল ঠাট্টা করে, আর 'যাদুকর' বলতে বুঝিয়েছিল মূসা (আঃ), হারুন (আঃ) ও তাঁদের লোকদের। এ পাঠে বাক্যটা একটা বিদ্রূপ, আর অনুসরণের প্রতিশ্রুতিটা আসলে তাচ্ছিল্য। মতটি তিনি আনেন নিজের মূল ব্যাখ্যার পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Wins, Not Who Is Right",
+          "bn": "প্রশ্ন জয়ের, সত্যের নয়"
+        },
+        "p": [
+          {
+            "en": "Listen to the word the verse ends on: al-ghalibin, the victors. It does not stand alone. In the very next verse the magicians ask Pharaoh whether there is a reward for them in kunna nahnu l-ghalibin, if it is we who are the victors (26:41). Four verses on, they throw their ropes and staffs and swear that it is they who are the victors (26:44). The crowd, the experts and the court all frame the day with the same word. Nobody on Pharaoh's side of the square frames it with the word truth.",
+            "bn": "আয়াতটা যে শব্দে শেষ হয়েছে, সেটা খেয়াল করুন: আল-গালিবীন, বিজয়ীরা। শব্দটা একা নয়। ঠিক পরের আয়াতেই যাদুকরেরা ফেরাউনকে জিজ্ঞেস করে, ইন কুন্না নাহনুল গালিবীন, আমরা বিজয়ী হলে পুরস্কার মিলবে তো? (২৬:৪১)। চারটি আয়াত পরে তারা রশি আর লাঠি ছুড়ে কসম খায় যে তারাই বিজয়ী (২৬:৪৪)। জনতা, বিশেষজ্ঞ আর দরবার, তিন পক্ষই দিনটাকে মাপছে একই শব্দে। ময়দানের ফেরাউনপক্ষের কেউ দিনটাকে সত্যের শব্দে মাপছে না।"
+          },
+          {
+            "en": "That is the habit of mind the verse exposes. A question of truth is turned into a question of result, and the result is allowed to settle it. As-Sa'di's corrected sentence shows how small the change needed to be: not if they win, but whichever of them is right. Victory can be staged, experts can be summoned through the cities, a crowd can be gathered for a forenoon. None of these decides whether a claim is true, and a crowd that waits for the score has handed its judgement to whoever arranges the game.",
+            "bn": "আয়াতটা ঠিক এই মানসিকতাকেই খুলে দেখায়। সত্যের প্রশ্নকে বানিয়ে ফেলা হয় ফলাফলের প্রশ্ন, তারপর ফলাফলকেই মীমাংসার ভার দেওয়া হয়। সা'দীর শুধরে দেওয়া বাক্য দেখায় বদলটা কত ছোট হলেই চলত: যদি তারা জেতে, তা নয়, বরং দুই পক্ষের যে সঠিক। জয় সাজিয়ে দেখানো যায়। শহরে শহরে লোক পাঠিয়ে বিশেষজ্ঞ জড়ো করা যায়। এক পূর্বাহ্ণে ভিড়ও জমানো যায়। কিন্তু এর কোনোটাই ঠিক করে না দাবিটা সত্য কি না। যে জনতা শুধু ফলাফলের অপেক্ষায় বসে থাকে, সে নিজের বিচারের ভার তুলে দিয়েছে খেলার আয়োজকের হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ones They Meant to Follow",
+          "bn": "যাদের পেছনে চলতে চেয়েছিল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di sees Allah's gentle care inside the very design that was meant to bury the truth. It was His kindness, he writes, to show the servants the falseness of Pharaoh's claim that what Musa (AS) brought was magic. So the masters of magic were gathered, that the assembly might meet before a great crowd, the truth might rise over falsehood, and the people of knowledge and craft might themselves confess that it was no magic. The crowd had been called to watch a triumph. It was being gathered as witness to a verdict.",
+            "bn": "সা'দী আল্লাহর সূক্ষ্ম দয়া দেখতে পান সেই আয়োজনের ভেতরেই, যা সাজানো হয়েছিল সত্যকে চাপা দিতে। তিনি লেখেন, এ ছিল তাঁরই অনুগ্রহ যে বান্দাদের তিনি দেখিয়ে দেবেন ফেরাউনের দাবিটা কত অসার, যে দাবি বলছিল মূসা (আঃ) যা এনেছেন তা যাদু। তাই যাদুর ওস্তাদদের জড়ো করা হলো। উদ্দেশ্য, মজলিস বসবে বিশাল জনতার সামনে, সত্য উঠে দাঁড়াবে মিথ্যার উপরে, আর জ্ঞানী ও বিদ্যার লোকেরা নিজেরাই স্বীকার করবে যে এটা যাদু নয়। জনতাকে ডাকা হয়েছিল এক বিজয় দেখতে। আসলে তাদের জড়ো করা হচ্ছিল এক রায়ের সাক্ষী হিসেবে।"
+          },
+          {
+            "en": "And the verdict came from the very men the crowd had named. A few verses on, the magicians fall down in prostration and say: we believe in the Lord of the worlds, the Lord of Musa and Harun (26:46 to 26:48). Ibn Kathir notes that Pharaoh's supporters, who had hoped to prevail over Musa, were themselves defeated, and at that moment they believed. The crowd had promised to follow the magicians if they won. The magicians lost the contest and found the truth, and the crowd's own condition now pointed straight to faith.",
+            "bn": "আর সেই রায় এল ঠিক তাদের কাছ থেকেই, যাদের নাম জনতা মুখে এনেছিল। কয়েক আয়াত পরে যাদুকরেরা সিজদায় লুটিয়ে পড়ে বলে: আমরা ঈমান আনলাম জগৎসমূহের রবের উপর, মূসা ও হারুনের রবের উপর (২৬:৪৬ থেকে ২৬:৪৮)। ইবন কাসীর লেখেন, ফেরাউনের যে সমর্থকেরা মূসার উপর জয়ী হওয়ার আশা করেছিল, তারা নিজেরাই হেরে গেল, আর সেই মুহূর্তেই ঈমান আনল। জনতা কথা দিয়েছিল, যাদুকরেরা জিতলে তাদের অনুসরণ করবে। যাদুকরেরা প্রতিযোগিতায় হারল, কিন্তু সত্যকে পেল। এখন জনতার নিজের শর্তই সোজা ঈমানের দিকে ইশারা করছিল।"
+          },
+          {
+            "en": "These verses do not record what the crowd did next, and it would be guessing to say. As-Sa'di's closing line on this verse is enough: their gathering availed them nothing except that the proof was established against them. They had seen what their own experts saw. A crowd that follows winners learns too late that the question waiting for it was never who won, but what it did with what it saw.",
+            "bn": "জনতা এরপর কী করল, এ আয়াতগুলো তা বলেনি, আর বলতে গেলে সেটা হবে আন্দাজ। এ আয়াতে সা'দীর শেষ কথাটাই যথেষ্ট: এই জমায়েত তাদের কোনো কাজে আসেনি, শুধু তাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়েছে। নিজেদের বিশেষজ্ঞরা যা দেখল, তারাও তা-ই দেখেছিল। যে ভিড় বিজয়ীর পেছনে চলে, সে অনেক দেরিতে টের পায় যে তার জন্য অপেক্ষা করা প্রশ্নটা কখনোই ছিল না কে জিতেছিল। প্রশ্নটা হলো, যা দেখেছিলে তা নিয়ে কী করেছিলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Will of One's Own",
+          "bn": "নিজের পায়ে দাঁড়ানো মন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it. What follows is a general narration, not attached to the verse, brought only because it names the habit the crowd displays. Jami' at-Tirmidhi (2007) records from Hudhaifah that the Messenger of Allah ﷺ said: \"Do not be a people without a will of your own, saying: 'If people treat us well, we will treat them well; and if they do wrong, we will do wrong,' but accustom yourselves to do good if people do good, and do not behave unjustly if they do evil.\"",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। নিচের বর্ণনাটি তাই একটি সাধারণ হাদীস, এ আয়াতের সঙ্গে যুক্ত নয়। আনা হয়েছে শুধু এজন্য যে জনতার স্বভাবটার নাম এতে আছে। জামি' তিরমিযী (২০০৭) হুযাইফা (রাঃ) থেকে বর্ণনা করেছে, রাসূলুল্লাহ ﷺ বলেছেন: \"তোমরা ইম্মা'আহ হয়ো না, যারা বলে: লোকেরা ভালো করলে আমরাও ভালো করব, আর তারা জুলুম করলে আমরাও জুলুম করব। বরং নিজেদের মনকে এভাবে তৈরি করো যে, লোকেরা ভালো করলে তোমরাও ভালো করবে, আর তারা মন্দ করলেও তোমরা জুলুম করবে না।\""
+          },
+          {
+            "en": "At-Tirmidhi grades it hasan gharib and says he knows it only through this one route. The Arabic word behind a people without a will of your own is imma'ah, and the hadith defines it by its own example: the one whose conduct simply mirrors what others do. It speaks of how we treat people, not of creed, and it is not about this verse. But the shape is the same, a stance borrowed from the crowd and waiting on it. Its cure is wattinu anfusakum: settle yourselves beforehand, and hold to the good whatever the crowd does.",
+            "bn": "তিরমিযী হাদীসটিকে হাসান গরীব বলেছেন, আর বলেছেন এটি তিনি শুধু এই একটি সূত্রেই জানেন। 'নিজের মত নেই এমন লোক' কথাটির পেছনের আরবি শব্দ ইম্মা'আহ। হাদীস নিজেই উদাহরণ দিয়ে এর মানে বুঝিয়ে দিয়েছে: যার আচরণ শুধু অন্যদের আচরণের প্রতিচ্ছবি। হাদীসটি মানুষের সঙ্গে ব্যবহারের কথা বলে, আকীদার নয়, আর এ আয়াত নিয়েও নয়। কিন্তু ছাঁচটা একই: অবস্থানটা ভিড়ের কাছ থেকে ধার করা, ভিড়ের দিকেই তাকিয়ে থাকা। এর ওষুধ ওয়াত্তিনূ আনফুসাকুম: আগেভাগেই নিজেকে স্থির করে নিন, ভিড় যা-ই করুক, ভালোর উপর টিকে থাকুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Against No People Today",
+          "bn": "আজকের কোনো জাতির বিরুদ্ধে নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what Pharaoh's people said on one day, in one story, as the Qur'an tells it. It licenses nothing against any living person or community, including the people of Egypt today or anyone who traces descent to the land of Pharaoh. Ibn Kathir's remark that subjects follow the religion of their king describes that court and that crowd. It is not a verdict on any nation, and it gives no one a warrant to call another group a mindless herd.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায়, কুরআনের বর্ণনা অনুযায়ী একটি কাহিনির এক দিনে ফেরাউনের লোকেরা কী বলেছিল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজকের মিসরের মানুষ বা ফেরাউনের দেশের সঙ্গে যারা নিজেদের বংশ মেলায়, তাদের বিরুদ্ধেও না। প্রজারা রাজার দীনের উপর থাকে, ইবন কাসীরের এ মন্তব্য সেই দরবার আর সেই জনতার বর্ণনা। এটা কোনো জাতির উপর রায় নয়। অন্য কোনো দলকে বুদ্ধিহীন পাল বলে দাগানোর অধিকারও এ মন্তব্য কাউকে দেয় না।"
+          },
+          {
+            "en": "The verse points the other way, at the reader. The crowd's sentence is easy to say in modern words: I will go with whatever wins, whatever is trending, whatever the people around me are doing. Each of those hands judgement to someone else. The correction is what as-Sa'di wrote: follow whichever is in the right, and come to know what is correct. Ask what is true before asking who is ahead, and be ready to follow the truth even when it stands with the few, as the magicians did once they saw it.",
+            "bn": "আয়াতের আঙুল বরং পাঠকের দিকেই। জনতার বাক্যটা আজকের ভাষায় বলা খুব সহজ: যে জিতবে, যা চলছে, আশপাশের লোকেরা যা করছে, আমি সেদিকেই। এর প্রতিটিতেই বিচারের ভার চলে যায় অন্যের হাতে। শোধরানোর পথ সা'দীই লিখে দিয়েছেন: যে সত্যের উপর আছে তার অনুসরণ করুন, আর ঠিক কোনটা তা জেনে নিন। কে এগিয়ে আছে, সে প্রশ্নের আগে জিজ্ঞেস করুন সত্য কোনটা। আর সত্য অল্প কয়েকজনের পাশে দাঁড়ালেও তার পেছনে চলতে তৈরি থাকুন, যেমন যাদুকরেরা চলেছিল সত্যটা দেখামাত্র।"
+          }
+        ]
+      }
+    ]
+  },
   "26:44": {
     "sections": [
       {

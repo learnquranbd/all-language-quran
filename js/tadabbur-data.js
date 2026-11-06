@@ -24311,6 +24311,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Being warned of hardship ahead is part of being cared for; set out at the hour you are told, and let the warning steady you rather than hold you back.",
     "lessonBn": "সামনের কষ্টের খবর আগে পাওয়াও আল্লাহর যত্নেরই অংশ। যে সময়ে বেরোতে বলা হয়েছে, সে সময়েই বেরিয়ে পড়ুন, আর সতর্কবার্তা যেন আপনাকে আটকে না রাখে, বরং মন শক্ত করে।"
+  },
+  "26:40": {
+    "reflectionEn": "The heralds have done their work and the square is full. Someone puts the day's hope into words: perhaps we will follow the magicians, if they are the ones who win. Nobody asks who is telling the truth. The only question in the air is who will come out on top, and the crowd has already pledged itself to the winner. Then the day turns. The very magicians they meant to follow are the first to fall down in prostration before the Lord of Musa and Harun. Following the winner had looked like safety. It was really a way of never having to judge for oneself. When I take a side, am I weighing what is true, or only watching who is winning?",
+    "reflectionBn": "ঘোষকেরা তাদের কাজ সেরে ফেলেছে, ময়দান লোকে ভরা। ভিড়ের ভেতর থেকে কেউ সেদিনের আশাটা মুখে আনে: যাদুকরেরা জিতলে হয়তো আমরা তাদেরই অনুসরণ করব। কে সত্য বলছে, সে প্রশ্ন কেউ তোলে না। বাতাসে একটাই প্রশ্ন ভাসছে, শেষে কে জিতবে। আর জনতা আগেভাগেই বিজয়ীর হাতে নিজেদের সঁপে দিয়ে বসে আছে। তারপর দিনটা উল্টে যায়। যাদের পেছনে চলার কথা তারা ভেবেছিল, সেই যাদুকরেরাই সবার আগে মূসা ও হারুনের রবের সামনে সিজদায় লুটিয়ে পড়ে। বিজয়ীর পেছনে চলাকে নিরাপদ মনে হয়েছিল। আসলে এ ছিল নিজে কখনো বিচার না করার একটা কৌশল। আমি যখন কোনো পক্ষ নিই, তখন কি সত্যটা মেপে দেখি, নাকি শুধু তাকিয়ে থাকি কে জিতছে?",
+    "pointsEn": [
+      "In which part of my life do I wait to see which side wins before I decide what I believe?",
+      "When the people around me cheer for something, do I ask whether it is true, or only whether it is popular?",
+      "Have I ever taken someone's success, wealth or following as proof that they were right?",
+      "If the people I follow turned towards the truth tomorrow, would I follow them there, or stay where I was comfortable?",
+      "What would it take for me to hold to what is right even if everyone around me stopped caring about it?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন জায়গায় আমি আগে দেখে নিই কোন পক্ষ জিতছে, তারপর ঠিক করি কী বিশ্বাস করব?",
+      "আশপাশের লোকেরা কোনো কিছুর জন্য হাততালি দিলে আমি কি জিজ্ঞেস করি সেটা সত্য কি না, নাকি শুধু দেখি সেটা জনপ্রিয় কি না?",
+      "কারও সাফল্য, টাকাপয়সা বা অনুসারীর ভিড়কে আমি কি কখনো তার সঠিক হওয়ার প্রমাণ ধরে নিয়েছি?",
+      "যাদের আমি মেনে চলি, তারা কাল সত্যের দিকে ফিরলে আমি কি সেখানেও তাদের সঙ্গে যাব, নাকি নিজের আরামের জায়গাতেই বসে থাকব?",
+      "চারপাশের সবাই আগ্রহ হারিয়ে ফেললেও ন্যায়ের উপর অটল থাকতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Do not let victory, numbers or the crowd decide what is true for you; weigh the claim itself, and follow the truth even when it is not winning.",
+    "lessonBn": "কে জিতল, কতজন, ভিড় কোন দিকে, এসব দিয়ে সত্য ঠিক করবেন না। দাবিটাকেই মেপে দেখুন, আর সত্য জিতছে না মনে হলেও তার পেছনেই চলুন।"
   }
 };
 
