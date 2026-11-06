@@ -25969,6 +25969,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Remember Allah in your easy days. The glorifying you keep up now is what reaches you in the darkest place you may one day find yourself.",
     "lessonBn": "সুখের দিনে আল্লাহকে স্মরণ করুন। আজ যে তাসবীহ ধরে রাখছেন, একদিন সবচেয়ে অন্ধকার জায়গায় পড়লে সেটাই আপনার কাছে পৌঁছাবে।"
+  },
+  "37:119": {
+    "reflectionEn": "Five gifts are counted for Musa and Harun: favour, rescue from the great affliction, victory, a clear Book, the straight path. Then comes a sixth of a different kind: and We left for them among later generations. Left what? The next verse answers with a sentence people would go on saying: peace upon Musa and Harun. Both brothers are named: Musa, and the brother he asked Allah to send as his support. Their good name outlived them, and keeping it was never their own work; Allah kept it. Most of us worry about how we will be remembered. This verse turns the worry around: what am I doing now that Allah would choose to leave behind?",
+    "reflectionBn": "মূসা আর হারূন (আঃ)-এর জন্য পাঁচটি দানের কথা গোনা হয়েছে: অনুগ্রহ, মহা বিপদ থেকে উদ্ধার, বিজয়, সুস্পষ্ট কিতাব আর সরল পথ। তারপর আসে ষষ্ঠটি, একেবারে অন্য ধরনের: আর আমি পরবর্তীদের মধ্যে তাঁদের জন্য রেখে দিলাম। কী রেখে দিলেন? পরের আয়াত জবাব দেয় এমন এক বাক্যে, যা মানুষ যুগের পর যুগ বলে যাবে: মূসা ও হারূনের প্রতি সালাম। দুই ভাইয়েরই নাম আছে: মূসা (আঃ), আর সেই ভাই, যাঁকে তিনি নিজের সহায় হিসেবে আল্লাহর কাছে চেয়ে নিয়েছিলেন। তাঁদের সুনাম তাঁদের পরেও টিকে আছে, আর সেটা ধরে রাখা তাঁদের নিজেদের কাজ ছিল না। আল্লাহই তা ধরে রেখেছেন। আমরা অনেকেই ভাবি, লোকে আমাকে কীভাবে মনে রাখবে। এ আয়াত প্রশ্নটা উল্টে দেয়: আমি এখন এমন কী করছি, যা আল্লাহ পেছনে রেখে দিতে চাইবেন?",
+    "pointsEn": [
+      "If people spoke of me after I am gone, what would they truly have to say, and would I want it said before Allah?",
+      "Harun is named in the same peace as Musa. Whose quiet support in my life have I never named or thanked?",
+      "Am I spending my effort on managing my reputation, or on the good that Allah rewards with a good name?",
+      "When I mention people who have died, do my words leave them a good mention, or something I would not want said of me?",
+      "Which gift from Allah reached me this year without my noticing that it was a gift?"
+    ],
+    "pointsBn": [
+      "আমি চলে যাওয়ার পর লোকে যদি আমার কথা বলে, সত্যি সত্যি তাদের বলার মতো কী থাকবে? আর সে কথা কি আমি আল্লাহর সামনে বলা হোক, তা চাইব?",
+      "মূসা (আঃ)-এর সঙ্গে একই সালামে হারূন (আঃ)-এর নামও আছে। আমার জীবনে কার নীরব সহায়তার কথা আমি কখনো মুখে আনিনি, কৃতজ্ঞতাও জানাইনি?",
+      "আমার চেষ্টা কি নিজের ভাবমূর্তি সামলাতে খরচ হচ্ছে, নাকি সেই নেক কাজে, যার প্রতিদানে আল্লাহ সুনাম দান করেন?",
+      "মারা গেছেন এমন মানুষের কথা যখন বলি, আমার কথায় কি তাঁদের জন্য ভালো স্মৃতি থাকে, নাকি এমন কিছু, যা নিজের সম্পর্কে শুনতে চাইতাম না?",
+      "এ বছর আল্লাহর কোন দান আমার কাছে এসেছে, অথচ আমি টেরই পাইনি যে সেটা দান ছিল?"
+    ],
+    "lessonEn": "A good name that outlives you is Allah's to leave, not yours to manage. Do the good He rewards, and honour the helpers who stood beside you.",
+    "lessonBn": "আপনার পরে যে সুনাম টিকে থাকে, তা রেখে যান আল্লাহ, আপনার সামলানোর জিনিস তা নয়। তিনি যে নেক কাজের প্রতিদান দেন তা করে যান, আর যারা পাশে দাঁড়িয়েছিল তাদের সম্মান দিন।"
   }
 };
 

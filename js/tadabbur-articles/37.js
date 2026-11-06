@@ -4671,6 +4671,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:119": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Gift Counted Last",
+          "bn": "তালিকার শেষ দান"
+        },
+        "p": [
+          {
+            "en": "Wa-taraknā 'alayhimā fī al-ākhirīn: and We left for them among later generations. Four Arabic words close a short run about Musa and Harun (AS) that begins at 37:114. In that run Allah counts what He gave them: a favour conferred, rescue with their people from the great affliction at 37:115, support until they prevailed at 37:116, the clear Scripture at 37:117, guidance on the straight path at 37:118. Each of those gifts arrived within their lifetimes. This one differs in kind: it is what remains of them among people who came after.",
+            "bn": "ওয়া তারাকনা আলাইহিমা ফিল আখিরীন: আর আমি পরবর্তীদের মধ্যে তাঁদের দুজনের জন্য রেখে দিলাম। আরবিতে মাত্র চারটি শব্দ। এ দিয়েই শেষ হয় মূসা ও হারূন (আঃ)-কে নিয়ে ছোট একটি অংশ, যার শুরু ৩৭:১১৪ আয়াতে। সেখানে আল্লাহ একে একে গুনিয়েছেন তাঁদের কী দিয়েছিলেন: অনুগ্রহ; ৩৭:১১৫ আয়াতে জাতিসহ মহা বিপদ থেকে উদ্ধার; ৩৭:১১৬ আয়াতে এমন সাহায্য যে তাঁরাই বিজয়ী হলেন; ৩৭:১১৭ আয়াতে সুস্পষ্ট কিতাব; ৩৭:১১৮ আয়াতে সরল পথের হিদায়াত। এর প্রতিটি তাঁরা পেয়েছিলেন জীবদ্দশায়। এ দানটি অন্য রকম। তাঁদের পরে যারা এসেছে, তাদের মধ্যে তাঁদের যা টিকে থাকে, এ হলো সেটা।"
+          },
+          {
+            "en": "The pronoun is dual, 'alayhimā, for the two of them, and duals run through the passage: najjaynāhumā, We saved the two of them; ātaynāhumā, We gave the two of them; hadaynāhumā, We guided the two of them; and at 37:122, innahumā, the two of them were of Our believing servants. The one plural in the run, at 37:116, is discussed there and not reopened here. For this verse the dual settles something simple: the lasting mention is not given to Musa (AS) with his brother in the background. It is given to both, by name.",
+            "bn": "সর্বনামটি দ্বিবচন, আলাইহিমা, অর্থাৎ তাঁদের দুজনের জন্য। পুরো অংশ জুড়েই এই দ্বিবচন চলে: নাজ্জাইনাহুমা, আমি তাঁদের দুজনকে রক্ষা করলাম; আতাইনাহুমা, তাঁদের দুজনকে দিলাম; হাদাইনাহুমা, তাঁদের দুজনকে পথ দেখালাম; আর ৩৭:১২২ আয়াতে ইন্নাহুমা, তাঁরা দুজন ছিলেন আমার মুমিন বান্দাদের অন্তর্ভুক্ত। এ অংশে একটিমাত্র বহুবচন আছে ৩৭:১১৬ আয়াতে। তার আলোচনা সেখানেই হয়েছে, এখানে আবার তোলা হচ্ছে না। এ আয়াতে দ্বিবচন যা নিশ্চিত করে, তা সোজা কথা: স্থায়ী সুনাম মূসা (আঃ)-কে দেওয়া হয়নি ভাইকে পেছনে সরিয়ে রেখে। দেওয়া হয়েছে দুজনকেই, নাম ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left Unnamed, Then Supplied",
+          "bn": "অনুক্ত কর্ম, তাফসীরে পূরণ"
+        },
+        "p": [
+          {
+            "en": "Read on its own, the verse gives a verb and leaves out its object: We left for them, but left what? The commentators consulted here fill the gap in nearly the same words. At-Tabari: We left upon them, among the later ones after them, al-thanā' al-ḥasan, good praise of them. Al-Qurtubi's whole note is one clause: yurīd al-thanā' al-jamīl, He means beautiful praise. Al-Muyassar: abqaynā lahumā thanā'an ḥasanan wa-dhikran jamīlan fīman ba'dahumā, We kept for them good praise and a beautiful mention among those after them.",
+            "bn": "আলাদা করে পড়লে আয়াতে ক্রিয়া আছে, কর্ম নেই: আমি তাঁদের জন্য রেখে দিলাম, কিন্তু কী রেখে দিলাম? এখানে দেখা তাফসীরগুলো প্রায় একই ভাষায় ফাঁকটা পূরণ করে। তাবারী বলেন, পরবর্তীদের মধ্যে, তাঁদের পরে, আমি তাঁদের জন্য রেখে দিলাম আস-সানা আল-হাসান, অর্থাৎ উত্তম প্রশংসা। কুরতুবীর পুরো টীকা একটি বাক্যাংশ: এর দ্বারা উদ্দেশ্য সুন্দর প্রশংসা। মুয়াসসার বলে, যারা তাঁদের পরে এসেছে, তাদের মধ্যে আমি তাঁদের জন্য টিকিয়ে রাখলাম উত্তম প্রশংসা আর সুন্দর স্মরণ।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic says the same in his own order: abqaynā lahumā min ba'dihimā dhikran jamīlan wa-thanā'an ḥasanan, We kept for them, after them, a beautiful mention and good praise. The abridged English rendering of his commentary puts it plainly: after they died they would be mentioned in good terms and spoken of highly. Al-Baghawi quotes the verse and adds nothing. There is no disagreement here to report. Every gloss rests on two words, thanā', praise, and dhikr, mention, and both name something said about a person by others, not something the person says or does.",
+            "bn": "ইবন কাসীরের আরবি তাফসীরেও একই কথা, শুধু ক্রমটা তাঁর নিজের: তাঁদের পরে আমি তাঁদের জন্য টিকিয়ে রাখলাম সুন্দর স্মরণ আর উত্তম প্রশংসা। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি রূপ আরও সরাসরি বলে: মৃত্যুর পর তাঁদের কথা বলা হবে ভালো ভাষায়, উঁচু মর্যাদার সঙ্গে। বাগাভী আয়াতটি উদ্ধৃত করেন, কিছু যোগ করেন না। এখানে মতভেদের কিছু নেই। প্রতিটি ব্যাখ্যা দুটি শব্দের উপর দাঁড়িয়ে: সানা, অর্থাৎ প্রশংসা, আর যিকর, অর্থাৎ উল্লেখ বা স্মরণ। দুটোই এমন জিনিস, যা অন্যরা কারও সম্পর্কে বলে। মানুষটি নিজে যা বলে বা করে, তা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise That Takes Words",
+          "bn": "প্রশংসা যখন বাক্য হয়"
+        },
+        "p": [
+          {
+            "en": "If the verb leaves its object unnamed, the next verse supplies it. Ibn Kathir says so in one phrase, thumma fassarahu bi-qawlihi, then He explained it with His words, and quotes salāmun 'alā Mūsā wa-Hārūn, peace upon Musa and Harun, running on through 37:121 and 37:122. At-Tabari, on 37:120, makes the same link differently: wa-dhālika an yuqāla, and that is, that it be said: peace upon Musa and Harun. On his gloss the good praise is no vague esteem. It has words, and the words are a greeting.",
+            "bn": "ক্রিয়ার কর্ম এ আয়াতে অনুক্ত থাকলে পরের আয়াত তা জানিয়ে দেয়। ইবন কাসীর এটা বলেন একটি বাক্যাংশে: তারপর আল্লাহ নিজের কথায় এর ব্যাখ্যা দিলেন। এরপর তিনি উদ্ধৃত করেন সালামুন আলা মূসা ওয়া হারূন, মূসা ও হারূনের প্রতি সালাম, আর তা টেনে নিয়ে যান ৩৭:১২১ ও ৩৭:১২২ পর্যন্ত। তাবারী ৩৭:১২০ আয়াতে একই যোগসূত্র টানেন অন্যভাবে: আর তা হলো এই যে বলা হবে, মূসা ও হারূনের প্রতি সালাম। তাঁর ব্যাখ্যায় উত্তম প্রশংসা কোনো অস্পষ্ট শ্রদ্ধা নয়। তার শব্দ আছে, আর সেই শব্দ একটি সালাম।"
+          },
+          {
+            "en": "As-Sa'di does not separate the two verses at all. He quotes 37:119 and 37:120 as one unit and glosses them together: abqā 'alayhimā thanā'an ḥasanan wa-taḥiyyatan fī al-ākhirīn, He kept for them good praise and a greeting among the later ones. Praise and greeting side by side is a fair summary of every gloss above. How the word salām relates grammatically to the verb taraknā was discussed for the matching pair on Nuh (AS) at 37:79 and is not repeated here. For Musa and Harun (AS) the plain result is enough: what was left is something said.",
+            "bn": "সা'দী দুটি আয়াতকে আলাদাই করেন না। ৩৭:১১৯ আর ৩৭:১২০ একসঙ্গে উদ্ধৃত করে একটাই ব্যাখ্যা দেন: পরবর্তীদের মধ্যে আল্লাহ তাঁদের জন্য টিকিয়ে রাখলেন উত্তম প্রশংসা আর তাহিয়্যা, অর্থাৎ অভিবাদন। প্রশংসা আর অভিবাদন পাশাপাশি, ওপরের সব ব্যাখ্যার এটাই ভালো সারকথা। সালাম শব্দটি ব্যাকরণের দিক থেকে তারাকনা ক্রিয়ার সঙ্গে ঠিক কীভাবে যুক্ত, সে আলোচনা হয়েছে নূহ (আঃ)-এর একই রকম জোড়া আয়াতের প্রসঙ্গে, ৩৭:৭৯ আয়াতে। এখানে তার পুনরাবৃত্তি নেই। মূসা ও হারূন (আঃ)-এর বেলায় সাদামাটা ফলটুকুই যথেষ্ট: যা রেখে যাওয়া হলো, তা মুখে বলার মতো একটি কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Among the Earlier, All the More",
+          "bn": "আগের লোকদের মধ্যে তো আরও"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di adds a clause none of the others has: wa-min bāb awlā wa-aḥrā fī al-awwalīn, and with stronger and more fitting reason among the earlier ones. The verse speaks only of later generations. As-Sa'di reasons from it to a case it does not state: if praise and greeting are kept among those who come after, then all the more so among those who came before. He does not say in this note who the earlier ones are, and nothing fetched for this verse names them, so the article leaves his phrase as he wrote it.",
+            "bn": "সা'দী এমন একটি বাক্যাংশ যোগ করেন, যা অন্য কারও কাছে নেই: আর পূর্ববর্তীদের মধ্যে তো আরও জোরালো ও যথাযথ কারণে। আয়াত কথা বলে শুধু পরবর্তীদের নিয়ে। সা'দী সেখান থেকে এমন এক ক্ষেত্রে যুক্তি টানেন, যা আয়াতে বলা নেই: পরে যারা আসে, তাদের মধ্যেই যদি প্রশংসা আর সালাম টিকে থাকে, তবে আগে যারা ছিল, তাদের মধ্যে তো আরও বেশি। পূর্ববর্তী বলতে তিনি কাদের বোঝাচ্ছেন, এ টীকায় তা বলেন না। এ আয়াতের জন্য আনা কোনো সূত্রেও তাদের নাম নেই। তাই প্রবন্ধটি তাঁর কথা যেভাবে লেখা, সেভাবেই রেখে দিচ্ছে।"
+          },
+          {
+            "en": "Read beside the verse, his clause draws the eye to its choice of ground. Of all the places a good name might live, later generations are the hardest: people who never saw Musa and Harun (AS), never heard them speak, and know them only by report. That the mention reaches even there is what the verse chooses to say. A reputation among those who were present can rest on memory. A reputation among the not yet born rests on something else, and the verse names who supplied it: taraknā, We left.",
+            "bn": "আয়াতের পাশে রেখে পড়লে তাঁর এই বাক্যাংশ চোখ ফেরায় আয়াতের বেছে নেওয়া জায়গার দিকে। সুনাম যেখানে যেখানে থাকতে পারে, তার মধ্যে পরবর্তী প্রজন্মই সবচেয়ে কঠিন জায়গা। তারা মূসা ও হারূন (আঃ)-কে দেখেনি, নিজের কানে তাঁদের কথা শোনেনি, চেনে কেবল বর্ণনা থেকে। সেখানেও তাঁদের সুনাম পৌঁছে যায়, আয়াত এ কথাটাই বলতে চায়। যারা সামনে ছিল, তাদের মধ্যে সুনাম টিকতে পারে স্মৃতির জোরে। যারা তখনো জন্মায়নি, তাদের মধ্যে সুনাম টেকে অন্য কিছুর জোরে। আর তা কে দিলেন, আয়াত নিজেই বলে: তারাকনা, আমি রেখে দিলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Brother Who Shared the Task",
+          "bn": "কাজের ভাগীদার ভাই"
+        },
+        "p": [
+          {
+            "en": "Harun (AS) is easy to read past in the story of Musa (AS), and the Qur'an does not let him be. At 19:53 Allah says: We gave him out of Our mercy his brother Harun as a prophet. At 20:29 to 20:32 Musa (AS) asks for exactly this: appoint for me a minister from my family, Harun my brother; increase through him my strength, and let him share my task. At 28:34 he gives his reason: my brother Harun is more fluent than me in tongue, so send him with me as support, verifying me.",
+            "bn": "মূসা (আঃ)-এর কাহিনিতে হারূন (আঃ)-কে পাশ কাটিয়ে পড়ে যাওয়া সহজ। কুরআন তা হতে দেয় না। ১৯:৫৩ আয়াতে আল্লাহ বলেন: আর আমি নিজ রহমতে তাকে দান করলাম তার ভাই হারূনকে, নবী হিসেবে। ২০:২৯ থেকে ২০:৩২ আয়াতে মূসা (আঃ) ঠিক এটাই চান: আমার পরিবার থেকে আমার জন্য একজন সহকারী ঠিক করে দিন, আমার ভাই হারূনকে; তাঁর দ্বারা আমার শক্তি বাড়িয়ে দিন, আর তাঁকে আমার কাজের অংশীদার করুন। ২৮:৩৪ আয়াতে তিনি কারণও বলেন: আমার ভাই হারূন আমার চেয়ে বেশি স্পষ্টভাষী, তাই তাঁকে আমার সঙ্গে সহায় করে পাঠান, তিনি আমাকে সত্যায়ন করবেন।"
+          },
+          {
+            "en": "Read beside those verses, the dual of 37:119 gains weight. The one Musa (AS) asked for as a helper is not left out when the account is closed; he stands in the honour by name. The Book too is given in the dual at 37:117, ātaynāhumā al-kitāb al-mustabīn, and the abridged English Ibn Kathir sets 21:48 beside it: We granted Musa and Harun the criterion and a shining light. In this passage support is counted as a share in the mission, and the helper is named in the same sentence as the one he helped.",
+            "bn": "এ আয়াতগুলোর পাশে রাখলে ৩৭:১১৯ আয়াতের দ্বিবচন আরও ভারী হয়ে ওঠে। মূসা (আঃ) যাঁকে সহায় হিসেবে চেয়েছিলেন, কাহিনি শেষ করার সময় তাঁকে বাদ দেওয়া হয়নি। সম্মানের মধ্যে তিনি আছেন নাম ধরে। কিতাবও দেওয়া হয়েছে দ্বিবচনে, ৩৭:১১৭ আয়াতে: আতাইনাহুমাল কিতাবাল মুসতাবীন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর এর পাশে রাখে ২১:৪৮ আয়াত: আর আমি মূসা ও হারূনকে দিয়েছিলাম ফুরকান আর উজ্জ্বল আলো। এ অংশে সহায়তাকে গোনা হয়েছে মিশনের অংশীদারি হিসেবে। যিনি সাহায্য করেছেন, তাঁর নাম এসেছে যাঁকে সাহায্য করেছেন তাঁর নামের সঙ্গে, একই বাক্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Book, Path, Then a Name",
+          "bn": "কিতাব, পথ, তারপর সুনাম"
+        },
+        "p": [
+          {
+            "en": "Al-Muyassar reads 37:117 to 37:119 as one stretch, and its gloss shows the three gifts side by side. We gave them the Torah, al-Tawrāh al-bayyinah, the clear one; We guided them to the straight path with no crookedness in it, which is Islam, the religion of Allah with which He sent His prophets; and We kept for them good praise and a beautiful mention among those after them. On that reading the path given to Musa and Harun (AS) is not a separate road from the one every prophet walked.",
+            "bn": "মুয়াসসার ৩৭:১১৭ থেকে ৩৭:১১৯ পর্যন্ত একটানা পড়ে, আর তার ব্যাখ্যায় তিনটি দান পাশাপাশি দেখা যায়। আমি তাঁদের দিলাম তাওরাত, যা সুস্পষ্ট। তাঁদের পথ দেখালাম সেই সরল পথে, যাতে কোনো বক্রতা নেই। তা হলো ইসলাম, আল্লাহর দীন, যা দিয়ে তিনি তাঁর নবীদের পাঠিয়েছেন। আর তাঁদের পরে যারা এসেছে, তাদের মধ্যে তাঁদের জন্য টিকিয়ে রাখলাম উত্তম প্রশংসা আর সুন্দর স্মরণ। এ পাঠে মূসা ও হারূন (আঃ)-কে দেওয়া পথ সব নবীর চলা পথ থেকে আলাদা কোনো রাস্তা নয়।"
+          },
+          {
+            "en": "The abridged English Ibn Kathir adds a short note on the guidance: it was guidance with regard to words and deeds. Then it moves straight on to the mention among later generations. The order of the verses is worth noticing: the Book first, then the path, then the name. No commentator consulted here draws a causal line between them, and the article claims none. But the sequence is the Qur'an's own, and a reader may let it say what it plainly says: the good name comes after the Book was received and the path was walked.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর হিদায়াত নিয়ে ছোট একটি কথা যোগ করে: এ হিদায়াত ছিল কথায় ও কাজে। তারপর সোজা চলে যায় পরবর্তীদের মধ্যে সুনামের প্রসঙ্গে। আয়াতগুলোর ক্রমটাও খেয়াল করার মতো: আগে কিতাব, তারপর পথ, তারপর সুনাম। এখানে দেখা কোনো মুফাসসির এদের মধ্যে কার্যকারণের রেখা টানেননি, প্রবন্ধটিও তেমন দাবি করছে না। তবে ক্রমটা কুরআনেরই। পাঠক তাকে তার সোজা কথাটুকু বলতে দিতে পারেন: কিতাব গ্রহণ আর পথ চলার পরেই আসে সুনাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Favours That Give, Favours That Spare",
+          "bn": "যে অনুগ্রহ দেয়, যে অনুগ্রহ বাঁচায়"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, commenting on the whole passage from 37:114 to 37:122, sorts Allah's favours to Musa and Harun (AS) into two kinds. First come positive favours that bring benefit, which it finds in the opening words, We did certainly confer favour upon Musa and Harun. Then come negative favours, those that save from loss or harm, which it says the later verses spell out. In the text fetched it does not place this verse in either list. Wherever it falls, the lasting mention is a favour that kept working long after both brothers were gone.",
+            "bn": "মাআরিফুল কুরআন ৩৭:১১৪ থেকে ৩৭:১২২ পর্যন্ত পুরো অংশের আলোচনায় মূসা ও হারূন (আঃ)-এর প্রতি আল্লাহর অনুগ্রহকে দুই ভাগে ভাগ করে। প্রথমে ইতিবাচক অনুগ্রহ, যা কল্যাণ এনে দেয়। এর ইঙ্গিত সে পায় শুরুর কথায়: আমি মূসা ও হারূনের প্রতি অনুগ্রহ করেছিলাম। তারপর নেতিবাচক অনুগ্রহ, যা ক্ষতি বা লোকসান থেকে বাঁচায়। তার বিবরণ, সে বলে, পরের আয়াতগুলোতে। আনা লেখাটিতে এ আয়াতকে সে কোনো ভাগে বসায় না। যে ভাগেই পড়ুক, স্থায়ী সুনাম এমন এক অনুগ্রহ, যা দুই ভাই চলে যাওয়ার বহু পরেও কাজ করে গেছে।"
+          },
+          {
+            "en": "The passage then gives the reason, and both Ibn Kathir and as-Sa'di quote it as part of their gloss on this verse: innā kadhālika najzī al-muḥsinīn, indeed We thus reward the doers of good, and innahumā min 'ibādinā al-mu'minīn, indeed they were of Our believing servants. The good name sits inside that frame. It is named as a reward for ihsan, and it is given to two men described first of all as believing servants. What the refrain at 37:121 means across the surah is taken up at 37:131 and is not repeated here.",
+            "bn": "এরপর অংশটি কারণ জানায়, আর ইবন কাসীর ও সা'দী দুজনেই এ আয়াতের ব্যাখ্যার অংশ হিসেবে তা উদ্ধৃত করেন: ইন্না কাযালিকা নাজযিল মুহসিনীন, এভাবেই আমি সৎকর্মশীলদের প্রতিদান দিই; আর ইন্নাহুমা মিন ইবাদিনাল মুমিনীন, নিশ্চয়ই তাঁরা দুজন ছিলেন আমার মুমিন বান্দাদের অন্তর্ভুক্ত। সুনাম এই কাঠামোর ভেতরেই বসানো। একে বলা হয়েছে ইহসানের প্রতিদান, আর তা দেওয়া হয়েছে এমন দুজনকে, যাঁদের পরিচয় সবার আগে মুমিন বান্দা। গোটা সূরায় ৩৭:১২১ আয়াতের এই ধুয়ার অর্থ নিয়ে আলোচনা আছে ৩৭:১৩১ আয়াতে, এখানে তার পুনরাবৃত্তি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Musa on the Prophet's Tongue",
+          "bn": "নবী ﷺ-এর মুখে মূসা (আঃ)"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it. There is, though, a sound narration in which a later generation's good mention of Musa (AS) can be heard directly, offered here as an illustration and not as a report on the verse. Al-Bukhari records in his Sahih (3405), from 'Abdullah: Once the Prophet ﷺ distributed something [among his followers]. A man said, This distribution has not been done [with justice] seeking Allah's Countenance. I went to the Prophet ﷺ and told him [of that]. He became so angry that I saw the signs of anger on his face.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তবে একটি সহীহ বর্ণনা আছে, যেখানে পরবর্তী প্রজন্মের মুখে মূসা (আঃ)-এর সুনাম সরাসরি শোনা যায়। এখানে তা আনা হলো কেবল দৃষ্টান্ত হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়। বুখারী তাঁর সহীহ গ্রন্থে (৩৪০৫) আবদুল্লাহ (রাঃ) থেকে বর্ণনা করেন: একবার নবী ﷺ কিছু জিনিস [সাথীদের মধ্যে] বণ্টন করলেন। এক লোক বলল, এ বণ্টন আল্লাহর সন্তুষ্টির উদ্দেশ্যে [ইনসাফের সঙ্গে] করা হয়নি। আমি নবী ﷺ-এর কাছে গিয়ে তাঁকে [সে কথা] জানালাম। তিনি এত রাগ করলেন যে আমি তাঁর চেহারায় রাগের চিহ্ন দেখলাম।"
+          },
+          {
+            "en": "Then he said: May Allah bestow His mercy on Moses, for he was harmed more [in a worse manner] than this; yet he endured patiently. In a moment of real hurt, the Prophet ﷺ reached for Musa (AS) as a model, and his first words about him were a prayer for mercy. This is what thanā' and dhikr look like on a later tongue: a name recalled with honour at the moment it was needed. The narration does not mention Harun (AS) or this verse, and nothing here claims that it does.",
+            "bn": "তারপর তিনি বললেন: আল্লাহ মূসার উপর রহম করুন, তাঁকে এর চেয়েও বেশি [কঠিনভাবে] কষ্ট দেওয়া হয়েছিল, তবু তিনি সবর করেছিলেন। সত্যিকারের কষ্টের এক মুহূর্তে নবী ﷺ আদর্শ হিসেবে মূসা (আঃ)-কে স্মরণ করলেন, আর তাঁর সম্পর্কে প্রথম যে কথাটি বললেন, তা ছিল রহমতের দুআ। পরবর্তীদের মুখে সানা আর যিকর দেখতে এমনই: প্রয়োজনের মুহূর্তে সম্মানের সঙ্গে স্মরণ করা একটি নাম। বর্ণনাটিতে হারূন (আঃ)-এর কথা নেই, এ আয়াতের কথাও নেই। এখানে তেমন কোনো দাবিও করা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Refrains, One in Dual",
+          "bn": "চার ধুয়া, একটি দ্বিবচনে"
+        },
+        "p": [
+          {
+            "en": "The same four words return in this surah for three other prophets: wa-taraknā 'alayhi fī al-ākhirīn, for Nuh (AS) at 37:78, for Ibrahim (AS) at 37:108 and for Ilyas (AS) at 37:129. Only here is the pronoun dual, and each time a greeting of peace follows. Al-Qurtubi, at 37:109 on Ibrahim (AS), reports under it is said a view tying it to Ibrahim's own prayer at 26:84: grant me a mention of honour among later generations, lisāna ṣidqin fī al-ākhirīn. No source consulted links that prayer to Musa and Harun (AS), and the article does not.",
+            "bn": "একই চারটি শব্দ এ সূরায় আরও তিনজন নবীর বেলায় ফিরে আসে: ওয়া তারাকনা আলাইহি ফিল আখিরীন, নূহ (আঃ)-এর জন্য ৩৭:৭৮ আয়াতে, ইবরাহীম (আঃ)-এর জন্য ৩৭:১০৮ আয়াতে, আর ইলিয়াস (আঃ)-এর জন্য ৩৭:১২৯ আয়াতে। কেবল এখানেই সর্বনামটি দ্বিবচন, আর প্রতিবারই পরে আসে সালাম। কুরতুবী ৩৭:১০৯ আয়াতে, ইবরাহীম (আঃ)-এর প্রসঙ্গে, 'বলা হয়' কথাটি জুড়ে একটি মত আনেন, যা একে মিলিয়ে দেয় ২৬:৮৪ আয়াতে ইবরাহীম (আঃ)-এর নিজের দুআর সঙ্গে: আর পরবর্তীদের মধ্যে আমার জন্য সত্যিকারের সুনাম রেখে দিন, লিসানা সিদকিন ফিল আখিরীন। এখানে দেখা কোনো সূত্র সে দুআকে মূসা ও হারূন (আঃ)-এর সঙ্গে জোড়েনি, প্রবন্ধটিও জুড়ছে না।"
+          },
+          {
+            "en": "One limit needs stating plainly. The rescue in this passage was from Pharaoh and his people, and those saved with Musa and Harun (AS) are the people of the story. The verse describes what the text describes. It is no statement about any present-day state, nation or community, for or against, and the downfall of Pharaoh's people licenses nothing against any living person. What the verse grants is a good name to two prophets, and that is all it should be made to carry.",
+            "bn": "একটি সীমা সোজাসুজি বলা দরকার। এ অংশের উদ্ধার ছিল ফিরআউন আর তার লোকজনের হাত থেকে, আর মূসা ও হারূন (আঃ)-এর সঙ্গে যারা রক্ষা পেয়েছিল, তারা এই কাহিনিরই মানুষ। আয়াত কেবল তা-ই বর্ণনা করে, যা কুরআনের ভাষ্যে আছে। আজকের কোনো রাষ্ট্র, জাতি বা সম্প্রদায় সম্পর্কে এটা কোনো বক্তব্য নয়, পক্ষেও নয়, বিপক্ষেও নয়। ফিরআউনের লোকদের পতনও আজকের কোনো জীবিত মানুষের বিরুদ্ধে কিছুরই অনুমতি দেয় না। আয়াত দুজন নবীকে সুনাম দান করে। এর উপর ঠিক ততটুকুই চাপানো উচিত।"
+          },
+          {
+            "en": "What remains for an ordinary reader is the shape of the gift. Musa and Harun (AS) did not arrange their good name; the subject of taraknā is Allah. It came after a life of receiving the Book, walking the path and standing by each other, and it took the form of words spoken by people who never met them. Each time a reader recites peace upon Musa and Harun, that greeting is said again. The question the verse leaves is not how to be remembered, but what is worth Allah's leaving behind.",
+            "bn": "সাধারণ পাঠকের জন্য যা থাকে, তা এই দানের চেহারা। মূসা ও হারূন (আঃ) নিজেরা নিজেদের সুনামের ব্যবস্থা করেননি। তারাকনা ক্রিয়ার কর্তা আল্লাহ। সুনাম এসেছে কিতাব গ্রহণ, সরল পথে চলা আর একে অপরের পাশে দাঁড়ানোর এক জীবনের পরে। আর তার রূপ হলো এমন মানুষের মুখের কথা, যারা তাঁদের কখনো দেখেনি। পাঠক যতবার পড়েন, মূসা ও হারূনের প্রতি সালাম, ততবার সেই সালাম আরেকবার উচ্চারিত হয়। আয়াত যে প্রশ্ন রেখে যায় তা এই নয় যে কীভাবে স্মরণীয় হবেন। প্রশ্নটা হলো, কোন জিনিস এমন, যা আল্লাহ পেছনে রেখে দেবেন।"
+          }
+        ]
+      }
+    ]
+  },
   "37:125": {
     "sections": [
       {
