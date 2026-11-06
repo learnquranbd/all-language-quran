@@ -303,6 +303,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "73:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Description Before the Command",
+          "bn": "নির্দেশের আগে পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Rabbu al-mashriqi wa-l-maghribi, la ilaha illa huwa, fa-ttakhidhhu wakila: Lord of the East and the West; there is no god but He, so take Him as Disposer of your affairs. The verse is nine words in Arabic and moves in three steps: a description of the Lord, a declaration of His oneness, and a command drawn from both with the particle fa, so. The command is in the singular and addressed to the Prophet ﷺ, continuing the instructions that open the surah, which have their own articles and are not retold here.",
+            "bn": "রাব্বুল মাশরিকি ওয়াল মাগরিবি, লা ইলাহা ইল্লা হুওয়া, ফাত্তাখিযহু ওয়াকীলা: তিনি পূর্ব ও পশ্চিমের রব, তিনি ছাড়া কোনো ইলাহ নেই, অতএব তাঁকেই আপনার কাজের ভারপ্রাপ্ত হিসেবে গ্রহণ করুন। আরবিতে আয়াতটি নয়টি শব্দের, আর এগোয় তিনটি ধাপে। প্রথমে রবের পরিচয়, তারপর তাঁর একত্বের ঘোষণা, শেষে ফা, অর্থাৎ অতএব, দিয়ে এ দুটো থেকে টেনে আনা নির্দেশ। নির্দেশটি একবচনে, নবী ﷺ-কে সম্বোধন করে। সূরার শুরুর নির্দেশগুলোরই এটি ধারাবাহিকতা। সেগুলোর আলাদা প্রবন্ধ আছে, এখানে আর পুনরাবৃত্তি করা হচ্ছে না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an counts this as the fifth injunction given to the Prophet ﷺ in the surah. It reports from Imam Ya'qub Karkhi that the verses from the opening up to this verse trace the stations of the spiritual path: solitude at night for worship, preoccupation with the Qur'an, constant remembrance of Allah, severance from everything other than Allah, and total trust in Him. On that reading trust is the last of the five, and before it is commanded, Allah's attribute is stated: He is the Lord of the East and the West.",
+            "bn": "মাআরিফুল কুরআনের হিসাবে এ সূরায় নবী ﷺ-কে দেওয়া নির্দেশের মধ্যে এটি পঞ্চম। ইমাম ইয়াকুব কারখী থেকে সেখানে বর্ণিত আছে, সূরার শুরু থেকে এ আয়াত পর্যন্ত আধ্যাত্মিক পথের স্তরগুলোর কথা এসেছে। রাতে নির্জনে ইবাদত, কুরআনে মগ্ন থাকা, সারাক্ষণ আল্লাহর জিকির, আল্লাহ ছাড়া সবকিছু থেকে সম্পর্ক ছিন্ন করা, আর তাঁর উপর পূর্ণ ভরসা। এ পাঠে ভরসা পাঁচ স্তরের শেষটি। আর সে নির্দেশের আগে আয়াত আল্লাহর গুণটি জানিয়ে দেয়: তিনি পূর্ব ও পশ্চিমের রব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rabbu or Rabbi",
+          "bn": "রাব্বু, নাকি রাব্বি"
+        },
+        "p": [
+          {
+            "en": "The first word is read two ways, and three of the commentators record it. At-Tabari says the readers of Madinah generally read rabbu, in the nominative, as the start of a new sentence, since one complete verse had ended and another begun. The readers of Kufa generally read rabbi, in the genitive, as a description, referring back to the pronoun in ilayhi, to Him, at the end of 73:8. His verdict is that both are known readings, each read by learned reciters, so whoever reads either one is correct.",
+            "bn": "প্রথম শব্দটি দুইভাবে পড়া হয়, আর তিনজন তাফসীরকার তা উল্লেখ করেছেন। তাবারী বলেন, মদীনার কারীরা সাধারণত পড়েছেন রাব্বু, পেশ দিয়ে, নতুন বাক্যের শুরু হিসেবে। কারণ একটি পূর্ণ আয়াত শেষ হয়ে আরেকটি শুরু হয়েছে। কূফার কারীরা সাধারণত পড়েছেন রাব্বি, যের দিয়ে, বিশেষণ হিসেবে। তা ফিরে যায় ৭৩:৮ আয়াতের শেষে ইলাইহি, অর্থাৎ তাঁর দিকে, শব্দের সর্বনামের দিকে। তাবারীর রায়: দুটোই পরিচিত কিরাআত, প্রতিটিই বিজ্ঞ কারীরা পড়েছেন। তাই যে-কোনোটি পড়লেই পাঠক সঠিক।"
+          },
+          {
+            "en": "Al-Qurtubi gives fuller lists. Rabbu, in the nominative, was read by the people of the two Holy Cities, Ibn Muhaysin, Mujahid, Abu 'Amr, Ibn Abi Ishaq and Hafs: a subject whose predicate is la ilaha illa huwa, or, as others say, the predicate of an understood huwa, He. The rest read rabbi, as a description of the Lord in 73:8, wa-dhkuri sma rabbika, remember the name of your Lord, Lord of the East. Al-Baghawi gives the same division: the people of the Hijaz, Abu 'Amr and Hafs read rabbu, and the others rabbi.",
+            "bn": "কুরতুবী তালিকা দেন আরও বিস্তারিত। পেশ দিয়ে রাব্বু পড়েছেন দুই হারামের লোকেরা, ইবন মুহাইসিন, মুজাহিদ, আবু আমর, ইবন আবী ইসহাক ও হাফস। তাঁদের পাঠে শব্দটি উদ্দেশ্য, আর তার বিধেয় লা ইলাহা ইল্লা হুওয়া। কারও মতে এটি উহ্য হুওয়া, অর্থাৎ তিনি, শব্দের বিধেয়। বাকিরা পড়েছেন রাব্বি, ৭৩:৮ আয়াতের রবের বিশেষণ হিসেবে: ওয়াযকুরিসমা রাব্বিকা, তোমার রবের নাম স্মরণ করো, যিনি পূর্বের রব। বাগাভীও একইভাবে ভাগ করেন। হিজাযের লোকেরা, আবু আমর ও হাফস পড়েছেন রাব্বু, অন্যরা রাব্বি।"
+          },
+          {
+            "en": "The two accounts of the genitive differ in one detail. At-Tabari attaches rabbi to the pronoun in ilayhi; al-Qurtubi and al-Baghawi attach it to rabbika, a few words earlier in that same verse, 73:8. The sense is unchanged either way: the Lord just named is the Lord of the East and the West. The Arabic text printed in this app reads rabbu, the reading of Hafs, and its English supplies the understood subject: [He is] the Lord. In the genitive reading the verse simply runs on from 73:8 without a break.",
+            "bn": "যের-পাঠের দুই ব্যাখ্যায় একটা জায়গায় পার্থক্য আছে। তাবারী রাব্বি-কে যুক্ত করেন ইলাইহি-র সর্বনামের সঙ্গে। কুরতুবী ও বাগাভী যুক্ত করেন ৭৩:৮ আয়াতেরই কয়েক শব্দ আগের রাব্বিকা শব্দের সঙ্গে। অর্থ অবশ্য দুই ক্ষেত্রেই এক: এইমাত্র যে রবের নাম এল, তিনিই পূর্ব ও পশ্চিমের রব। এই অ্যাপে ছাপা আরবি পাঠ রাব্বু, হাফসের কিরাআত। তার ইংরেজি অনুবাদ উহ্য উদ্দেশ্যটি যোগ করে নেয়: (তিনি) রব। যের-পাঠে আয়াতটি কোনো বিরতি ছাড়াই ৭৩:৮ থেকে টানা চলে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Horizons and All Between",
+          "bn": "দুই দিগন্ত ও মাঝের সবকিছু"
+        },
+        "p": [
+          {
+            "en": "What does Lord of the East and the West take in? At-Tabari gives the sense as the Lord of the East and the West and whatever of the world lies between them, close to the words Musa (AS) used before Pharaoh in 26:28. Ibn Kathir, in the Arabic, explains the phrase as the Owner who disposes of affairs in the easts and the wests, moving to the plural in his gloss. The Muyassar, explaining 73:8 and 73:9 together, keeps the singular: He is the Owner of the East and the West.",
+            "bn": "পূর্ব ও পশ্চিমের রব, এ কথার পরিধি কতখানি? তাবারী অর্থ করেন: পূর্ব ও পশ্চিম এবং এ দুয়ের মাঝে জগতের যা কিছু আছে, তার রব। ২৬:২৮ আয়াতে ফেরাউনের সামনে মূসা (আঃ) প্রায় এই কথাই বলেছিলেন। ইবন কাসীর আরবি তাফসীরে ব্যাখ্যা করেন, তিনিই সেই মালিক, যিনি পূর্বসমূহ ও পশ্চিমসমূহে সব বিষয় পরিচালনা করেন। লক্ষ করুন, ব্যাখ্যায় তিনি বহুবচনে চলে গেছেন। মুয়াসসার ৭৩:৮ ও ৭৩:৯ একসঙ্গে ব্যাখ্যা করে একবচনই রাখে: তিনি পূর্ব ও পশ্চিমের মালিক।"
+          },
+          {
+            "en": "As-Sa'di reads the singular broadly. The East and the West here, he says, are a generic noun, ism jins, that takes in all the easts and all the wests. He is the Lord of them, of the lights that come to be in them, and of what in the upper and lower worlds they serve; so He is the Lord of everything, its Creator and its Disposer. The horizons, in this gloss, are not two points on a map but every place of rising and setting, the light that appears in each, and all that it serves.",
+            "bn": "সা'দী একবচনটিকে পড়েন বিস্তৃত অর্থে। তাঁর কথায়, এখানে পূর্ব ও পশ্চিম ইসমে জিনস, অর্থাৎ জাতিবাচক বিশেষ্য। তা সব পূর্ব আর সব পশ্চিমকে ধারণ করে। তিনি সেগুলোর রব, সেখানে যে আলো দেখা দেয় তার রব, আর ঊর্ধ্বজগৎ ও নিম্নজগতের যা কিছুর কল্যাণ তাতে জড়িত, তারও রব। সুতরাং তিনি সবকিছুর রব, সবকিছুর স্রষ্টা ও পরিচালক। এ ব্যাখ্যায় দিগন্ত মানচিত্রের দুটি বিন্দু নয়। প্রতিটি উদয়স্থল ও অস্তস্থল, সেখানে দেখা দেওয়া আলো, আর সে আলো যা কিছুর কাজে লাগে, সবই এর ভেতরে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One, Two, Many Horizons",
+          "bn": "এক, দুই, বহু দিগন্ত"
+        },
+        "p": [
+          {
+            "en": "The Qur'an names the horizons in three numbers, and this is the article's own observation rather than a commentator's. Here, as in 26:28 and 2:115, the East and the West are singular. In 55:17 they are dual: Lord of the two risings and Lord of the two settings. In 70:40 they are plural: I swear by the Lord of the risings and the settings; 37:5 likewise speaks of the Lord of the risings. Each form stands in its own passage, and the article on 70:40 sets out how the commentators there read the plural.",
+            "bn": "কুরআন দিগন্তের কথা বলে তিনটি বচনে। এটি কোনো তাফসীরকারের কথা নয়, এ প্রবন্ধের নিজের পর্যবেক্ষণ। এখানে, যেমন ২৬:২৮ ও ২:১১৫ আয়াতে, পূর্ব ও পশ্চিম একবচন। ৫৫:১৭ আয়াতে দ্বিবচন: দুই উদয়স্থলের রব, দুই অস্তস্থলের রব। ৭০:৪০ আয়াতে বহুবচন: আমি শপথ করছি উদয়স্থলসমূহ ও অস্তস্থলসমূহের রবের। ৩৭:৫ আয়াতেও আছে উদয়স্থলসমূহের রবের কথা। প্রতিটি রূপ নিজ নিজ প্রসঙ্গে এসেছে। সেখানকার তাফসীরকারেরা বহুবচনটি কীভাবে পড়েছেন, তা ৭০:৪০ আয়াতের প্রবন্ধে আছে।"
+          },
+          {
+            "en": "Do the commentators on this verse say why al-Muzzammil uses the singular rather than the dual or the plural? Of those consulted, only as-Sa'di addresses the number at all, and what he says is that the singular is generic and covers every east and west. Ibn Kathir and al-Qurtubi gloss it with the plural without comment. None of them explains the choice of form for this surah, and this article does not invent a reason. On as-Sa'di's reading, the singular here already contains what the dual and the plural spell out elsewhere.",
+            "bn": "সূরা মুযযাম্মিল দ্বিবচন বা বহুবচন না নিয়ে কেন একবচন নিল, এ আয়াতের তাফসীরকারেরা কি তা বলেন? যাঁদের তাফসীর দেখা হয়েছে, তাঁদের মধ্যে কেবল সা'দী বচনের প্রশ্নে কিছু বলেছেন। তাঁর কথা এটুকুই: একবচনটি জাতিবাচক, সব পূর্ব ও সব পশ্চিমকে ধারণ করে। ইবন কাসীর ও কুরতুবী কোনো মন্তব্য ছাড়াই বহুবচনে ব্যাখ্যা করেছেন। এ সূরায় কেন এই রূপ, তা কেউ ব্যাখ্যা করেননি, আর এ প্রবন্ধও নিজে থেকে কোনো কারণ বানাবে না। সা'দীর পাঠ অনুযায়ী, দ্বিবচন আর বহুবচন অন্যত্র যা খুলে বলে, এখানকার একবচনে তা আগেই ধরা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Trust Follows Oneness",
+          "bn": "একত্বের পরেই কেন ভরসা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's comment on the verse, already noted in the article on 73:8, makes the link explicit: just as you have singled Him out for worship, single Him out for reliance. He cites 11:123, so worship Him and rely upon Him, and 1:5, You alone we worship and You alone we ask for help, and says that many verses carry this meaning: the command to make worship and obedience exclusively for Allah, and to reserve reliance for Him alone. Ma'arif al-Qur'an repeats the point almost word for word.",
+            "bn": "এ আয়াতে ইবন কাসীরের মন্তব্য ৭৩:৮ আয়াতের প্রবন্ধে আগেই এসেছে। সংযোগটা তিনি সরাসরি বলে দেন: ইবাদতে যেমন তাঁকে একক করেছ, ভরসাতেও তাঁকে একক করো। তিনি ১১:১২৩ উদ্ধৃত করেন, অতএব তাঁর ইবাদত করো আর তাঁর উপর ভরসা রাখো। আর ১:৫, আমরা কেবল তোমারই ইবাদত করি, কেবল তোমারই সাহায্য চাই। তাঁর কথায়, এ অর্থের আয়াত অনেক। সেগুলোতে নির্দেশ আছে ইবাদত ও আনুগত্য কেবল আল্লাহর জন্য রাখার, আর ভরসা কেবল তাঁর উপর রাখার। মাআরিফুল কুরআন প্রায় হুবহু একই কথা বলে।"
+          },
+          {
+            "en": "As-Sa'di reaches the same place through the phrase in the middle. La ilaha illa huwa, he says, means there is nothing worshipped but His exalted Face, the One who deserves to be singled out for love and reverence, for honour and veneration. Then he writes wa-li-hadha qala, and for this reason He said: so take Him as wakil. In his reading the command is not a separate instruction set beside the declaration of oneness; it is drawn out of it, which is the work the particle fa, so, does in the verse itself.",
+            "bn": "সা'দী একই জায়গায় পৌঁছান আয়াতের মাঝের বাক্যটি ধরে। লা ইলাহা ইল্লা হুওয়া, তাঁর ব্যাখ্যায়, মানে তাঁর সুমহান চেহারা ছাড়া আর কোনো উপাস্য নেই। ভালোবাসা ও সম্মান, মর্যাদা ও শ্রদ্ধায় একমাত্র তিনিই একক হওয়ার যোগ্য। তারপর সা'দী লেখেন: ওয়া লিহাযা কালা, এ কারণেই তিনি বলেছেন, অতএব তাঁকে ওয়াকীল হিসেবে গ্রহণ করো। তাঁর পাঠে নির্দেশটি একত্বের ঘোষণার পাশে রাখা আলাদা কোনো হুকুম নয়, সেখান থেকেই বের হয়ে আসা। আয়াতের ফা, অর্থাৎ অতএব, শব্দটিও ঠিক এ কাজটিই করে।"
+          },
+          {
+            "en": "At-Tabari's gloss of the middle phrase is short: no god ought to be worshipped other than Allah, who is Lord of the East and the West. Al-Qurtubi draws the connection from the opening phrase instead. Whoever knows that He is Lord of the easts and the wests, he writes, cuts himself off to Him, inqata'a, with his deeds and his hopes. The Muyassar uses the same verb for tabattul in 73:8, devotion cut off from all else. For al-Qurtubi, that devotion grows out of knowing whose the horizons are.",
+            "bn": "মাঝের বাক্যটির ব্যাখ্যায় তাবারী সংক্ষিপ্ত: পূর্ব ও পশ্চিমের রব আল্লাহ ছাড়া আর কোনো ইলাহের ইবাদত করা সংগত নয়। কুরতুবী সংযোগটা টানেন আয়াতের শুরুর অংশ থেকে। তাঁর কথায়, যে জানে তিনি পূর্বসমূহ ও পশ্চিমসমূহের রব, সে নিজের আমল আর আশা নিয়ে সবকিছু ছেড়ে তাঁর দিকেই চলে যায়। এখানে তাঁর ক্রিয়াপদ ইনকাতাআ। ৭৩:৮ আয়াতের তাবাত্তুল বোঝাতে মুয়াসসারও এই ক্রিয়াই ব্যবহার করে: সবকিছু থেকে ছিন্ন হয়ে তাঁর প্রতি একাগ্র হওয়া। কুরতুবীর কাছে সেই একাগ্রতার জন্ম দিগন্তগুলো কার, তা জানা থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Who Takes the Charge",
+          "bn": "যিনি ভার নেন"
+        },
+        "p": [
+          {
+            "en": "Wakil is the word that carries the command. Ma'arif al-Qur'an notes that lexically it means a person who has been given a task to do, and that to take Allah as wakil means that all matters and affairs are entrusted to Him; technically, it says, this is called tawakkul. The commentators gloss the word with different emphases. Al-Baghawi says qayyiman bi-umurika, He who takes charge of your affairs, so entrust them to Him. As-Sa'di says a guardian, hafiz, and a disposer of all your affairs.",
+            "bn": "নির্দেশের ভার বহন করছে ওয়াকীল শব্দটি। মাআরিফুল কুরআন বলে, আভিধানিক অর্থে ওয়াকীল সেই ব্যক্তি, যাকে কোনো কাজের দায়িত্ব দেওয়া হয়েছে। আল্লাহকে ওয়াকীল বানানো মানে সব বিষয় ও সব কাজ তাঁর হাতে সঁপে দেওয়া। পরিভাষায় এরই নাম তাওয়াক্কুল। তাফসীরকারেরা শব্দটির ব্যাখ্যায় ভিন্ন ভিন্ন দিকে জোর দেন। বাগাভী বলেন কাইয়িমান বিউমূরিকা, যিনি তোমার কাজগুলোর দায়িত্ব নেন, তাই সেগুলো তাঁকে সঁপে দাও। সা'দী বলেন, তোমার সব কাজের হেফাজতকারী ও পরিচালক।"
+          },
+          {
+            "en": "At-Tabari's gloss has two parts: take Him as wakil in what He commands you, and entrust your means, asbab, to Him. Al-Qurtubi gives two glosses. The first is qa'iman bi-umurika, upholding your affairs. The second, introduced with qila, it is said, is kafilan bima wa'adaka, a guarantor of what He has promised you. The Muyassar says simply: depend on Him and entrust your affairs to Him. All of them place the affairs in His hands; they differ in whether they stress management, guardianship, or a promise kept.",
+            "bn": "তাবারীর ব্যাখ্যার দুটি অংশ। তিনি তোমাকে যা নির্দেশ দেন, তাতে তাঁকে ওয়াকীল বানাও, আর তোমার আসবাব, অর্থাৎ উপায়-উপকরণ, তাঁর হাতে সঁপে দাও। কুরতুবী দুটি ব্যাখ্যা দেন। প্রথমটি কাইমান বিউমূরিকা, যিনি তোমার কাজগুলো সম্পাদন করেন। দ্বিতীয়টি তিনি আনেন কীলা, অর্থাৎ বলা হয়, দিয়ে: কাফীলান বিমা ওয়াআদাকা, তিনি তোমাকে যা প্রতিশ্রুতি দিয়েছেন, তার জামিন। মুয়াসসার সোজা বলে: তাঁর উপর নির্ভর করো, তোমার কাজগুলো তাঁকে সঁপে দাও। সবাই কাজের ভার তাঁর হাতেই রাখেন। পার্থক্য কেবল জোরের জায়গায়: পরিচালনা, হেফাজত, নাকি প্রতিশ্রুতি রক্ষা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Means in Hand, Outcome Left",
+          "bn": "হাতে উপায়, ফল তাঁর কাছে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an gives a section to the correct concept of tawakkul. Trust in Allah, it says, does not mean avoiding the apparent means of earning a living, or giving up the normal ways of protecting oneself from affliction. The means Allah has created for a purpose are not to be abandoned. They are to be used to the full, but without blind faith in material causes; once the chosen actions are taken, the result is left with Allah, without whose will no cause brings about any effect.",
+            "bn": "তাওয়াক্কুলের সঠিক ধারণা নিয়ে মাআরিফুল কুরআনে আলাদা আলোচনা আছে। সেখানে বলা হয়, আল্লাহর উপর ভরসা মানে জীবিকা উপার্জনের প্রকাশ্য উপায় এড়িয়ে চলা নয়। বিপদ থেকে বাঁচার স্বাভাবিক পথগুলো ছেড়ে দেওয়াও নয়। আল্লাহ যে উদ্দেশ্যে যে উপায় সৃষ্টি করেছেন, তা পরিত্যাগ করা চলবে না। সেগুলো পুরোপুরি কাজে লাগাতে হবে, তবে বস্তুগত কার্যকারণের উপর অন্ধ বিশ্বাস রেখে নয়। নিজের সাধ্যের কাজটুকু করার পর ফলাফল ছেড়ে দিতে হবে আল্লাহর হাতে। তাঁর ইচ্ছা ছাড়া কোনো কারণই কোনো ফল আনতে পারে না।"
+          },
+          {
+            "en": "It cites 65:3, and whoever relies upon Allah, He is sufficient for him, and adds that the heart should not be so absorbed in the search for its needs that its attention rests wholly on causes and means. At-Tabari's phrase from the previous section fits the same pattern: the asbab, the means, are not thrown away but entrusted. For the verse's first addressee this was not abstract. The Prophet ﷺ had been commanded to rise at night and recite, and the very next verse speaks of what his opponents were saying.",
+            "bn": "মাআরিফুল কুরআন উদ্ধৃত করে ৬৫:৩, যে আল্লাহর উপর ভরসা করে, তার জন্য তিনিই যথেষ্ট। সঙ্গে যোগ করে, প্রয়োজন মেটানোর খোঁজে মন যেন এতটা ডুবে না যায় যে তার সবটুকু মনোযোগ কার্যকারণ আর উপকরণেই আটকে থাকে। আগের অংশে তাবারীর যে কথা এসেছে, তাও একই ধাঁচের। আসবাব বা উপায়-উপকরণ ফেলে দেওয়া হয় না, তাঁর হাতে সঁপে দেওয়া হয়। আয়াতের প্রথম শ্রোতার কাছে এ কোনো তত্ত্বকথা ছিল না। নবী ﷺ-কে রাতে উঠে কুরআন পড়ার নির্দেশ দেওয়া হয়েছিল, আর ঠিক পরের আয়াতেই আসে বিরোধীদের কথাবার্তার প্রসঙ্গ।"
+          },
+          {
+            "en": "On narrations: none of the commentators consulted attaches a hadith to this verse. Ma'arif al-Qur'an supports its account of tawakkul with two general narrations, one through al-Baghawi's Sharh as-Sunnah and al-Bayhaqi, the other through at-Tirmidhi, and ties neither to the verse. At-Tirmidhi himself calls the second gharib, known only by that one route, and says that one of its narrators, 'Amr ibn Waqid, is munkar al-hadith. Neither is quoted here, and the point rests on the verse and its commentators.",
+            "bn": "হাদীসের প্রশ্নে: যাঁদের তাফসীর দেখা হয়েছে, তাঁদের কেউ এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেননি। মাআরিফুল কুরআন তাওয়াক্কুলের আলোচনায় দুটি সাধারণ বর্ণনা আনে। একটি বাগাভীর শারহুস সুন্নাহ ও বায়হাকীর সূত্রে, অন্যটি তিরমিযীর সূত্রে। কোনোটিকেই সে এ আয়াতের সঙ্গে যুক্ত করেনি। দ্বিতীয়টিকে তিরমিযী নিজেই গরীব বলেছেন, অর্থাৎ কেবল ওই একটি সূত্রেই জানা। তিনি এও বলেছেন, এর এক বর্ণনাকারী আমর ইবন ওয়াকিদ মুনকারুল হাদীস। তাই কোনোটিই এখানে উদ্ধৃত হলো না। বক্তব্য দাঁড়িয়ে আছে আয়াত আর তার তাফসীরের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Settled Before the Insults",
+          "bn": "কটুকথার আগেই ভিত"
+        },
+        "p": [
+          {
+            "en": "The verse that follows turns from the night to the company of the day: be patient over what they say, and leave them with a gracious leaving. At-Tabari explains it as patience with what the idolaters of the Prophet's people said to him and with the harm they did, and a leaving of them for Allah's sake; he adds that it is said this was abrogated. That verse has its own place. Here it matters only for its order: trust is commanded first, and patience with the opponents comes after it.",
+            "bn": "পরের আয়াত রাতের প্রসঙ্গ থেকে সরে আসে দিনের মানুষজনের দিকে: তারা যা বলে তাতে ধৈর্য ধরো, আর সৌজন্যের সঙ্গে তাদের এড়িয়ে চলো। তাবারী ব্যাখ্যা করেন, নবী ﷺ-এর কওমের মুশরিকরা তাঁকে যা বলত আর যে কষ্ট দিত, তাতে ধৈর্য ধরা, আর আল্লাহর জন্য তাদের সৌজন্যের সঙ্গে ত্যাগ করা। তিনি এও যোগ করেন, বলা হয়ে থাকে এ বিধান রহিত হয়েছে। সে আয়াতের আলোচনা তার নিজের জায়গায়। এখানে শুধু ক্রমটুকু লক্ষণীয়: আগে ভরসার নির্দেশ, তারপর বিরোধীদের ব্যাপারে ধৈর্য।"
+          },
+          {
+            "en": "Read in that order, this verse works as a foundation. Before the Prophet ﷺ is told how to bear what is said against him, he is told whose the horizons are, that there is no god but He, and to hand his affairs to Him. The verses describe a command to him in his own setting, and the warnings to the deniers that follow license nothing against any living person or community. What they offer a later reader is the sequence itself: oneness first, then trust, then the patience that trust makes possible.",
+            "bn": "এই ক্রমে পড়লে আয়াতটি একটা ভিতের কাজ করে। নিজের বিরুদ্ধে বলা কথা কীভাবে সইবেন, সে নির্দেশ আসার আগেই নবী ﷺ জেনে নেন দিগন্তগুলো কার, জেনে নেন তিনি ছাড়া কোনো ইলাহ নেই, আর নির্দেশ পান নিজের কাজের ভার তাঁকে সঁপে দিতে। আয়াতগুলো তাঁর নিজের প্রেক্ষাপটে তাঁকে দেওয়া নির্দেশের বর্ণনা। পরের আয়াতে অস্বীকারকারীদের যে সতর্কবাণী, তা আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। পরের যুগের পাঠকের জন্য এখানে আছে ক্রমটুকু: আগে একত্ব, তারপর ভরসা, তারপর সেই ধৈর্য, যা ভরসাই সম্ভব করে।"
+          }
+        ]
+      }
+    ]
+  },
   "73:20": {
     "sections": [
       {

@@ -28867,6 +28867,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Messenger owned only the delivery of Allah's message; hearts are in Allah's hand, and once the message reaches you, the answer to it is yours alone.",
     "lessonBn": "রাসূলের হাতে ছিল শুধু আল্লাহর বাণী পৌঁছে দেওয়ার দায়িত্ব। অন্তর আল্লাহর হাতে। বাণী আপনার কাছে পৌঁছে গেলে তার জবাবের দায় একান্তই আপনার।"
+  },
+  "73:9": {
+    "reflectionEn": "After the long night of prayer and the remembrance of His name, the passage names the One being turned to: Lord of the East and the West. Every sunrise you have seen belongs to Him, and every sunset. Between those two horizons lies everything you will meet today: the meeting you dread, the bill that is due, the person who speaks against you. Then comes the declaration that there is no god but He, and only after it the command: so take Him as the One who manages your affairs. Trust here is not a mood. It follows from a belief. If He alone deserves my worship, how can anyone else deserve my reliance? Which affair am I still gripping as if nobody else were managing it?",
+    "reflectionBn": "রাতভর নামাজ আর তাঁর নাম স্মরণের নির্দেশের পর আয়াতটি জানিয়ে দেয়, কার দিকে ফেরা হচ্ছে: তিনি পূর্ব ও পশ্চিমের রব। আপনার দেখা প্রতিটি সূর্যোদয় তাঁর, প্রতিটি সূর্যাস্তও। এই দুই দিগন্তের মাঝেই পড়ে আছে আজ আপনি যা কিছুর মুখোমুখি হবেন: যে সাক্ষাৎকে ভয় পাচ্ছেন, যে বিল শোধ করার সময় এসেছে, যে মানুষটি আপনার বিরুদ্ধে কথা বলে। তারপর ঘোষণা আসে, তিনি ছাড়া কোনো ইলাহ নেই। তার পরেই নির্দেশ: অতএব তাঁকেই আপনার কাজের ভার দিন। এখানে ভরসা মনের মেজাজ নয়, বিশ্বাসেরই ফল। ইবাদত যদি কেবল তাঁরই প্রাপ্য হয়, ভরসা আর কারও প্রাপ্য হয় কী করে? কোন কাজটা আমি এখনো এমনভাবে আঁকড়ে ধরে আছি, যেন আর কেউ তা সামলাচ্ছেন না?",
+    "pointsEn": [
+      "Which worry have I carried today as though the Lord of the East and the West were not managing it?",
+      "I say there is no god but He in every prayer; do my planning and my fretting show the same conviction?",
+      "Have I mistaken giving up effort for trust, or mistaken my own effort for the thing that decides the outcome?",
+      "What would change in my morning if I handed the result to Him before I began the work?",
+      "When people say hurtful things about me, do I reach first for a reply or for the One I have taken as my trustee?"
+    ],
+    "pointsBn": [
+      "আজ কোন দুশ্চিন্তাটা এমনভাবে বয়ে বেড়িয়েছি, যেন পূর্ব ও পশ্চিমের রব তা সামলাচ্ছেন না?",
+      "প্রতি নামাজে বলি, তিনি ছাড়া কোনো ইলাহ নেই। আমার পরিকল্পনা আর দুশ্চিন্তায় কি সেই একই বিশ্বাস ধরা পড়ে?",
+      "চেষ্টা ছেড়ে দেওয়াকে কি আমি তাওয়াক্কুল ভেবেছি? নাকি নিজের চেষ্টাকেই ভেবেছি ফলাফলের নির্ধারক?",
+      "কাজ শুরুর আগেই ফলাফলের ভার যদি তাঁর হাতে তুলে দিই, আমার সকালটা কতখানি বদলে যাবে?",
+      "লোকে যখন আমাকে নিয়ে কষ্টদায়ক কথা বলে, আমি আগে জবাব খুঁজি, নাকি তাঁকে, যাঁকে আমি আমার কাজের ভার দিয়েছি?"
+    ],
+    "lessonEn": "As you worship Allah alone, rely on Him alone: do your part, then leave the outcome to the Lord of the East and the West.",
+    "lessonBn": "যেভাবে কেবল আল্লাহরই ইবাদত করেন, তেমনি কেবল তাঁর উপরই ভরসা করুন: নিজের কাজটুকু করুন, তারপর ফলাফল পূর্ব ও পশ্চিমের রবের হাতে ছেড়ে দিন।"
   }
 };
 
