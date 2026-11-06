@@ -29385,6 +29385,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Listening comes before the errand: Musa (AS) was called and spoken to before he was sent, so hear what Allah has said to you before you set out to speak for Him.",
     "lessonBn": "কাজের আগে শোনা। মূসা (আঃ)-কে পাঠানোর আগে ডাকা হয়েছিল, তাঁর সঙ্গে কথা বলা হয়েছিল। তাই আল্লাহর হয়ে কথা বলতে বের হওয়ার আগে শুনে নিন, তিনি আপনাকে কী বলেছেন।"
+  },
+  "79:36": {
+    "reflectionEn": "The scene has already begun. The great Overwhelming has come, and a person is remembering everything he strove for, the good with the bad. Then something that was always hidden is set out in the open: Hellfire, in plain view, for whoever sees. The verse names no group here. Every pair of eyes on that Day takes it in, the one who will enter it and the one who will be spared it. What reaches me today is not the sight itself but four words describing it, and a description can still be acted on. So the verse leaves me with a plain question: what am I striving for now, while the Fire is only something I have been told about?",
+    "reflectionBn": "দৃশ্যটা শুরু হয়ে গেছে। মহাসংকট এসে পড়েছে, আর মানুষ মনে করছে জীবনভর সে কীসের পেছনে খেটেছে, ভালো আর মন্দ দুটোই। তারপর যা চিরকাল আড়ালে ছিল, তা খোলা ময়দানে বের করে আনা হয়: জাহান্নাম, সবার চোখের সামনে, যে-ই দেখে তার জন্য। এখানে আয়াত কোনো দলের নাম নেয় না। সেদিন প্রতিটি চোখ তা দেখবে, যে তাতে ঢুকবে সেও, আর যাকে তা থেকে বাঁচানো হবে সেও। আজ আমার কাছে দৃশ্যটা পৌঁছায়নি, পৌঁছেছে তার বিবরণ, চারটি শব্দে। আর বিবরণ শুনে এখনো কিছু করা যায়। তাই আয়াতটি আমার সামনে একটা সোজা প্রশ্ন রেখে যায়: জাহান্নাম যখন এখনো শুধু শোনা কথা, তখন আমি খাটছি কীসের জন্য?",
+    "pointsEn": [
+      "If everything I am working for this week came back to me as a memory on that Day, which part would I wish had been different?",
+      "What do I keep out of sight in my own mind because looking at it squarely would ask something of me?",
+      "When I read about the Fire, do I picture someone else standing before it, or myself?",
+      "Which warning have I heard so many times that it no longer moves me at all?",
+      "Have I ever thanked Allah for protecting me from something I have not yet seen?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে যা কিছুর পেছনে খাটছি, সেদিন তা যদি স্মৃতি হয়ে ফিরে আসে, কোন অংশটা ভিন্ন হলে ভালো হতো বলে মনে হবে?",
+      "নিজের মনের কোন জিনিসটা আমি চোখের আড়ালে রাখি, কারণ সোজাসুজি তাকালে সেটা আমার কাছে কিছু দাবি করবে?",
+      "জাহান্নামের কথা পড়লে আমি কি তার সামনে অন্য কাউকে দাঁড়ানো দেখি, নাকি নিজেকে?",
+      "কোন সতর্কবাণী এতবার শুনেছি যে এখন আর তা আমাকে একটুও নাড়া দেয় না?",
+      "যা এখনো চোখে দেখিনি, তা থেকে বাঁচিয়ে রাখার জন্য আমি কি কখনো আল্লাহর শুকরিয়া আদায় করেছি?"
+    ],
+    "lessonEn": "On that Day the Fire will stand in plain view of every eye; let its description reach you now, while you can still change what you strive for.",
+    "lessonBn": "সেদিন জাহান্নাম প্রতিটি চোখের সামনে খোলা থাকবে। তার বিবরণ এখনই মনে পৌঁছাতে দিন, যখন কীসের জন্য খাটছেন তা বদলানোর সময় এখনো আছে।"
   }
 };
 

@@ -1327,6 +1327,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "79:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words After the Remembering",
+          "bn": "স্মরণের পরে চার শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa-burrizati al-jahimu li-man yara: and Hellfire is brought out into view for whoever sees. The verse is four Arabic words long, and it closes a short run that opens at 79:34. First comes fa-idha ja'ati at-tammatu al-kubra, when the greatest Overwhelming comes. Then 79:35, the Day man will remember what he strove for. Then this verse. Just before the run, the surah has listed what Allah made as provision for people and their livestock. Now it turns from what was made for them to what will meet them.",
+            "bn": "ওয়া বুররিযাতিল জাহীমু লিমান ইয়ারা: আর জাহান্নামকে বের করে সামনে আনা হবে, যে-ই দেখে তার জন্য। আরবিতে আয়াতটি মাত্র চারটি শব্দের। ৭৯:৩৪ থেকে যে ছোট ধারাটি শুরু, এটি তার শেষ আয়াত। প্রথমে আসে ফা ইযা জাআতিত তাম্মাতুল কুবরা: যখন মহাসংকট এসে পড়বে। তারপর ৭৯:৩৫: সেদিন মানুষ মনে করবে কীসের জন্য সে খেটেছিল। তারপর এই আয়াত। এর ঠিক আগে সূরাটি গুনিয়েছে, মানুষ আর তাদের গবাদিপশুর জীবিকা হিসেবে আল্লাহ কী কী বানিয়েছেন। এবার কথা ঘুরে যায়। যা তাদের জন্য বানানো হয়েছিল, তা থেকে সূরা চলে যায় সেই জিনিসে, যা তাদের সামনে এসে দাঁড়াবে।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English that treats 79:34 to 79:43 together, says the Overwhelming is the Day of Judgement, citing Ibn Abbas, and that it is so called because it overcomes every matter. He sets 54:46 beside it: the Hour is more grievous and more bitter. On 79:35 he says the son of Adam will reflect on all his deeds, the good and the evil, and he sets 89:23 beside that. On this verse he says Hell will become apparent to the onlookers, and people will see it with their own eyes.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৭৯:৩৪ থেকে ৭৯:৪৩ একসঙ্গে আলোচনা করে। সেখানে তিনি ইবন আব্বাস (রাঃ)-এর বরাতে বলেন, মহাসংকট মানে কিয়ামতের দিন। নামটা এসেছে কারণ সে দিন সবকিছুকে ছাপিয়ে যায়। পাশে তিনি রাখেন ৫৪:৪৬: কিয়ামত আরও ভয়ংকর, আরও তিক্ত। ৭৯:৩৫ প্রসঙ্গে তিনি বলেন, আদমসন্তান তখন তার সব আমলের কথা ভাববে, ভালো-মন্দ দুটোই। সেখানে পাশে রাখেন ৮৯:২৩। আর এই আয়াতে তাঁর কথা: যারা তাকিয়ে আছে, তাদের সামনে জাহান্নাম স্পষ্ট হয়ে উঠবে, মানুষ নিজের চোখে তা দেখবে।"
+          },
+          {
+            "en": "Al-Muyassar reads the three verses as one sentence. When the great Resurrection and the greatest hardship comes, which it identifies as the second blowing of the Horn, each person's every deed is set before him, good and evil, and he remembers it and acknowledges it. Then Jahannam is made manifest to everyone who has sight, seen openly. The order is worth noticing. The record comes first, then the remembering and the admission, and only then the Fire, shown to every eye.",
+            "bn": "মুয়াসসার তিনটি আয়াতকে একটি বাক্য হিসেবে পড়ে। যখন মহা কিয়ামত আর সবচেয়ে বড় বিপদ আসবে, যাকে সে শিঙার দ্বিতীয় ফুঁ বলে চিহ্নিত করে, তখন মানুষের সামনে তার প্রতিটি আমল হাজির করা হবে, ভালো আর মন্দ। সে তা মনে করবে এবং স্বীকার করবে। তারপর দৃষ্টিশক্তি আছে এমন প্রত্যেকের সামনে জাহান্নামকে প্রকাশ করা হবে, চোখের সামনে দেখা যাবে। ক্রমটা লক্ষ করার মতো। আগে আমলনামা, তারপর মনে পড়া আর স্বীকার করা, আর সবশেষে আগুন, যা দেখবে প্রতিটি চোখ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Out Into the Open Ground",
+          "bn": "উন্মুক্ত প্রান্তরে বের করে আনা"
+        },
+        "p": [
+          {
+            "en": "Burrizat is a passive verb, and the verse does not say who brings the Fire out. It is feminine, agreeing with al-jahim. The commentators gloss it almost with one voice. At-Tabari has uzhirat, it was made manifest, and adds a short identification: al-jahim is the fire of Allah. Al-Qurtubi has zaharat, it appeared. Al-Muyassar repeats uzhirat. Ibn Kathir's Arabic reads uzhirat lil-nazirin, made manifest to the onlookers, and then fa-ra'aha an-nasu 'iyanan: the people saw it with their own eyes.",
+            "bn": "বুররিযাত কর্মবাচ্য ক্রিয়া। আগুনটাকে কে বের করে আনে, আয়াত তা বলে না। ক্রিয়াটি স্ত্রীলিঙ্গ, আল-জাহীম শব্দের সঙ্গে মিল রেখে। তাফসীরকারেরা প্রায় এক সুরে এর অর্থ করেন। তাবারী লেখেন উযহিরাত, অর্থাৎ প্রকাশ করা হলো। সঙ্গে ছোট একটা পরিচয়ও দেন: আল-জাহীম হলো আল্লাহর আগুন। কুরতুবী লেখেন যাহারাত, অর্থাৎ তা প্রকাশ পেল। মুয়াসসারও বলে উযহিরাত। ইবন কাসীরের আরবি ভাষ্যে আছে উযহিরাত লিন-নাযিরীন, দর্শকদের সামনে প্রকাশ করা হলো। তারপর: মানুষ তা নিজের চোখে দেখল।"
+          },
+          {
+            "en": "As-Sa'di draws the fullest picture. Ju'ilat fi al-baraz: it was placed in the open ground, the very word the verb is built from. It is visible to everyone. Qad barazat li-ahliha: it has come out for its own people. Ista'addat li-akhdhihim: it has made itself ready to take them. Muntazira li-amri rabbiha: it is waiting for its Lord's command. In his gloss the Fire is not scenery standing at a distance. It is poised and it obeys, held back only until it is ordered forward.",
+            "bn": "সবচেয়ে পূর্ণ ছবিটা আঁকেন সা'দী। জুইলাত ফিল বারায: তাকে রাখা হলো খোলা প্রান্তরে। আল-বারায সেই শব্দ, যা থেকে ক্রিয়াটি গড়া। সবার কাছে তা দৃশ্যমান। কাদ বারাযাত লি-আহলিহা: সে বেরিয়ে এসেছে তার নিজের লোকদের জন্য। ইসতাআদ্দাত লি-আখযিহিম: তাদের ধরার জন্য সে প্রস্তুত। মুনতাযিরাতান লি-আমরি রাব্বিহা: সে অপেক্ষায় আছে তার রবের হুকুমের। সা'দীর ব্যাখ্যায় আগুন দূরে দাঁড়ানো কোনো দৃশ্য নয়। সে তৈরি হয়ে আছে, আর আদেশ মানছে। এগোনোর হুকুম না আসা পর্যন্তই শুধু থেমে আছে।"
+          },
+          {
+            "en": "Al-Baghawi gives a different image, through Muqatil: the covering is lifted from it, and creation looks at it. So there are two pictures. In Muqatil's, something hidden under a cover is uncovered where it stands. In as-Sa'di's, something comes out and takes its place in the open. They do not contradict each other. Both say that what had always been out of sight is now in plain view, and both keep the doer unnamed, as the verse does. At-Tabari's short gloss supplies whose fire it is.",
+            "bn": "বাগাভী মুকাতিলের সূত্রে ভিন্ন একটি ছবি দেন: তার উপর থেকে আবরণ সরিয়ে নেওয়া হবে, আর সৃষ্টিকুল তার দিকে তাকাবে। তাহলে ছবি দুটি। মুকাতিলের ছবিতে ঢাকা জিনিস যেখানে আছে সেখানেই খুলে দেওয়া হয়। সা'দীর ছবিতে জিনিসটা বেরিয়ে এসে খোলা জায়গায় দাঁড়ায়। দুটোর মধ্যে বিরোধ নেই। দুটোই বলে, যা চিরকাল চোখের আড়ালে ছিল, তা এখন সবার সামনে। আর দুটোই আয়াতের মতো কর্তার নাম নেয় না। আগুনটা কার, তাবারীর ছোট ব্যাখ্যা তা জানিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Eyes Are Meant",
+          "bn": "কোন চোখের কথা বলা হচ্ছে"
+        },
+        "p": [
+          {
+            "en": "Li-man yara, for whoever sees. Most of the glosses read the phrase as widely as it sounds. At-Tabari says it is made manifest for whoever sees it, and explains: for the eyes of those who look. Ibn Kathir has the onlookers. Al-Muyassar has li-kulli mubsir, everyone who has sight. Al-Qurtubi relays Ibn Abbas: it is uncovered, and every possessor of sight sees it blazing. On this reading the phrase excludes no one. Whoever has eyes on that Day will see it.",
+            "bn": "লিমান ইয়ারা: যে-ই দেখে তার জন্য। বেশির ভাগ ব্যাখ্যা কথাটাকে ততটাই ব্যাপক অর্থে নেয়, যতটা শুনতে লাগে। তাবারী বলেন, যে দেখে তার জন্য তা প্রকাশ করা হবে, আর ব্যাখ্যা করেন: দর্শকদের চোখের সামনে। ইবন কাসীর বলেন দর্শকদের কথা। মুয়াসসার বলে লি-কুল্লি মুবসির: দৃষ্টিশক্তি আছে এমন প্রত্যেকের জন্য। কুরতুবী ইবন আব্বাস (রাঃ)-এর কথা উদ্ধৃত করেন: তার আবরণ খুলে দেওয়া হবে, আর যার চোখ আছে সে-ই তাকে দাউদাউ করে জ্বলতে দেখবে। এ ব্যাখ্যায় কেউ বাদ পড়ে না। সেদিন যার চোখ আছে, সে-ই তা দেখবে।"
+          },
+          {
+            "en": "Al-Qurtubi then records two further views, each introduced only with qila, it is said, and with no name attached. In one, the disbeliever is meant, because it is he who sees the Fire together with the kinds of punishment in it. In the other, the believer sees it so that he may know the worth of the blessing he has been given, while the disbeliever is made to burn in it. Al-Qurtubi sets the three side by side.",
+            "bn": "এরপর কুরতুবী আরও দুটি মত উল্লেখ করেন। দুটিই শুরু হয় শুধু 'কীলা', অর্থাৎ 'বলা হয়' দিয়ে, কারও নাম ছাড়া। একটি মতে এখানে উদ্দেশ্য কাফির। কারণ সে-ই আগুনকে দেখবে তার ভেতরের নানা রকম আযাবসহ। অন্য মতে মুমিনও তা দেখবে, যাতে সে বুঝতে পারে তাকে যে নিয়ামত দেওয়া হয়েছে তার মূল্য কত। আর কাফিরকে সেই আগুনে জ্বলতে হবে। কুরতুবী তিনটি মত পাশাপাশি রাখেন।"
+          },
+          {
+            "en": "This is a real difference, and it is kept here as a difference. The view carried by Ibn Abbas makes the seeing universal. The second narrows it to the disbeliever. The third includes the believer, but for a different end. Al-Qurtubi does not rank them, and neither does this article. What can be said is narrower. The wording itself, man yara, is general, and it stops at the seeing. What each seer then meets is not told in this verse but in the verses that follow it.",
+            "bn": "এটা সত্যিকারের মতভেদ, আর এখানে তা মতভেদ হিসেবেই থাকছে। ইবন আব্বাস (রাঃ)-এর মতে দেখাটা সবার। দ্বিতীয় মত তা কাফিরের মধ্যে সীমিত করে। তৃতীয় মত মুমিনকেও রাখে, তবে ভিন্ন উদ্দেশ্যে। কুরতুবী কোনোটাকে এগিয়ে রাখেন না, এ লেখাও রাখছে না। যা বলা যায় তা আরও সীমিত। শব্দটা নিজে, মান ইয়ারা, ব্যাপক, আর তা থেমে যায় দেখাতেই। যে দেখল, তার ভাগ্যে এরপর কী আছে, তা এ আয়াতে নেই। তা আছে পরের আয়াতগুলোতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Sight, Two Errands",
+          "bn": "একই দেখা, দুই রকম কাজ"
+        },
+        "p": [
+          {
+            "en": "On the third view, the same sight does two different kinds of work. For one person, the Fire in view is the start of what he denied. For the other, it is the measure of what he has been spared. The blessing that view speaks of is weighed in full only when its opposite stands in plain sight. Nothing in the verse separates the two seers by what they see. The difference lies in where each of them stands while he is seeing it.",
+            "bn": "তৃতীয় মত ধরলে একই দৃশ্য দুই রকম কাজ করে। একজনের জন্য চোখের সামনের আগুন সেই জিনিসের শুরু, যা সে অস্বীকার করেছিল। অন্যজনের জন্য তা মাপকাঠি: কী থেকে তাকে বাঁচানো হলো। ঐ মত যে নিয়ামতের কথা বলে, তার পুরো ওজন বোঝা যায় তখনই, যখন তার উল্টোটা চোখের সামনে দাঁড়িয়ে থাকে। দুই দর্শক কী দেখছে, তা দিয়ে আয়াত তাদের আলাদা করে না। পার্থক্যটা হলো, দেখার সময় কে কোথায় দাঁড়িয়ে আছে।"
+          },
+          {
+            "en": "The same breadth sits in the verse before. Al-insan in 79:35 is unqualified, and Ibn Kathir glosses it as the son of Adam, reflecting on his deeds, good and evil alike. Every human remembers, and on the widest reading every human sees. The run draws no line between people at the moment of remembering or the moment of seeing. The line comes afterwards, at 79:37 and 79:40, and it is drawn by what each person did. It is drawn by conduct, never by name.",
+            "bn": "আগের আয়াতেও একই ব্যাপকতা। ৭৯:৩৫-এর আল-ইনসান শব্দে কোনো শর্ত নেই। ইবন কাসীর এর অর্থ করেন আদমসন্তান, যে ভালো-মন্দ সব আমলের কথা ভাববে। প্রত্যেক মানুষ মনে করবে, আর সবচেয়ে ব্যাপক ব্যাখ্যায় প্রত্যেক মানুষ দেখবেও। মনে পড়ার মুহূর্তে বা দেখার মুহূর্তে এ ধারা মানুষের মধ্যে কোনো রেখা টানে না। রেখা আসে পরে, ৭৯:৩৭ আর ৭৯:৪০-এ। আর তা টানা হয় প্রত্যেকে কী করেছে তা দিয়ে। নাম দিয়ে কখনো নয়, আমল দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reading Li-man Tara",
+          "bn": "লিমান তারা পাঠ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reports that Ikrimah and others read li-man tara, with the letter ta' in place of ya'. He gives that reading two meanings. Either it means for whomever the Fire sees, so that al-jahim itself does the looking, or it means for whomever you see, O Muhammad. On the second meaning the address is to the Prophet ﷺ, and what is meant by it is the people. Al-Qurtubi offers both meanings and does not choose between them.",
+            "bn": "কুরতুবী জানান, ইকরিমা ও আরও কেউ কেউ পড়েছেন লিমান তারা, ইয়া হরফের জায়গায় তা হরফ দিয়ে। এ পাঠের দুটি অর্থ তিনি দেন। হয় এর মানে: জাহান্নাম যাকে দেখে, তার জন্য। তখন দেখছে আগুন নিজেই। নয়তো এর মানে: হে মুহাম্মাদ, আপনি যাকে দেখেন, তার জন্য। দ্বিতীয় অর্থে সম্বোধন নবী ﷺ-কে, আর উদ্দেশ্য মানুষ। কুরতুবী দুটি অর্থই দেন, কোনোটিকে বেছে নেন না।"
+          },
+          {
+            "en": "The text in this app reads yara, with ya', and the translations here follow it. The reading with ta' is given only as al-Qurtubi gives it, with his two meanings and nothing added. His passage also names a reading by Malik ibn Dinar, but in the text as fetched for this verse the wording of that reading is not distinguishable from the standard one, so it is left aside rather than guessed at.",
+            "bn": "এই অ্যাপের পাঠে আছে ইয়ারা, ইয়া হরফ দিয়ে, আর এখানকার অনুবাদগুলো সে পাঠই অনুসরণ করে। তা হরফের পাঠটি এখানে দেওয়া হলো শুধু কুরতুবী যেভাবে দিয়েছেন সেভাবে, তাঁর দুটি অর্থসহ, কিছু যোগ না করে। তাঁর আলোচনায় মালিক ইবন দীনারের একটি পাঠের কথাও আছে। কিন্তু এ আয়াতের জন্য যে লেখা সংগ্রহ করা হয়েছে, তাতে সে পাঠের শব্দ প্রচলিত পাঠ থেকে আলাদা করে চেনা যায় না। তাই অনুমান না করে সেটা বাদ রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A When Without Its Then",
+          "bn": "যখন আছে, তখন নেই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi makes a point of grammar that shapes the whole run. The answer to fa-idha ja'ati at-tamma, when the Overwhelming comes, is mahdhuf, left unstated. He supplies its sense: when the Overwhelming comes, the people of the Fire enter the Fire and the people of the Garden enter the Garden. So 79:34 opens a when, 79:35 and 79:36 fill the moment with remembering and seeing, and the then is left for the listener to supply until the following verses spell it out.",
+            "bn": "কুরতুবী একটি ব্যাকরণগত কথা বলেন, যা পুরো ধারাটাকে গড়ে দেয়। ফা ইযা জাআতিত তাম্মাহ, যখন মহাসংকট আসবে, এর জবাব মাহযূফ, মানে উহ্য রাখা হয়েছে। তার অর্থ তিনি পূরণ করে দেন: যখন মহাসংকট আসবে, জাহান্নামিরা জাহান্নামে ঢুকবে আর জান্নাতিরা জান্নাতে। তাহলে ৭৯:৩৪ খোলে একটি 'যখন'। ৭৯:৩৫ আর ৭৯:৩৬ সেই মুহূর্তটা ভরে দেয় মনে পড়া আর দেখা দিয়ে। আর 'তখন'টা শ্রোতার মনেই থাকে, যতক্ষণ না পরের আয়াতগুলো তা খুলে বলে।"
+          },
+          {
+            "en": "They do so in two portraits. In 79:37 to 79:39 the one who transgressed and preferred the life of this world finds the Jahim his refuge. In 79:40 and 79:41 the one who feared standing before his Lord and held his self back from desire finds the Garden his refuge. Those verses have their own reflection and are only named here. One detail belongs to this verse: 79:39 uses the same word, al-jahim, so the Fire brought into view in 79:36 is the one named there as a final abode.",
+            "bn": "পরের আয়াতগুলো তা খুলে বলে দুটি ছবিতে। ৭৯:৩৭ থেকে ৭৯:৩৯-এ যে সীমা ছাড়িয়েছিল আর দুনিয়ার জীবনকে বেশি দাম দিয়েছিল, জাহীম হয় তার ঠিকানা। ৭৯:৪০ ও ৭৯:৪১-এ যে রবের সামনে দাঁড়ানোকে ভয় করেছিল আর নিজেকে খেয়ালখুশি থেকে বিরত রেখেছিল, জান্নাত হয় তার ঠিকানা। ঐ আয়াতগুলোর নিজস্ব আলোচনা আছে, এখানে শুধু নাম নেওয়া হলো। একটা খুঁটিনাটি অবশ্য এ আয়াতের: ৭৯:৩৯-এ একই শব্দ, আল-জাহীম। অর্থাৎ ৭৯:৩৬-এ যে আগুনকে সামনে আনা হলো, সেখানে তাকেই শেষ ঠিকানা বলা হয়েছে।"
+          },
+          {
+            "en": "The verse's first two words, wa-burrizati al-jahimu, open only one other verse in the Qur'an. In 26:91 the text reads wa-burrizati al-jahimu lil-ghawin, and Hellfire is brought out for the deviators, in a passage that 26:90 opens with the Garden brought near for the God-fearing. There the ones it is brought out for are named by what they became. Here the verse names no one, only whoever sees. That is a difference in the wording of the two verses, and nothing more is built on it here.",
+            "bn": "আয়াতের প্রথম দুটি শব্দ, ওয়া বুররিযাতিল জাহীমু, দিয়ে কুরআনে আর মাত্র একটি আয়াত শুরু হয়েছে। ২৬:৯১-এ আছে ওয়া বুররিযাতিল জাহীমু লিল-গাউইন: পথভ্রষ্টদের সামনে জাহান্নামকে বের করে আনা হবে। সে আলোচনার শুরুতে ২৬:৯০-এ জান্নাতকে মুত্তাকীদের কাছে আনা হয়। সেখানে যাদের জন্য আগুন বের করা হয়, তাদের চেনানো হয় তারা কী হয়ে গিয়েছিল তা দিয়ে। এখানে আয়াত কারও নাম নেয় না, বলে শুধু: যে-ই দেখে। দুই আয়াতের শব্দে এটুকুই পার্থক্য, এর উপর এখানে আর কিছু দাঁড় করানো হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Narration Not Tied Here",
+          "bn": "আয়াতে যুক্ত নয় এমন বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. Muslim records in his Sahih (2842) a general narration from Abdullah ibn Mas'ud about Hell on that Day, and no source consulted here ties it to 79:36. In the English of the page consulted, the Messenger of Allah ﷺ said: \"Hell would be brought on that day (the Day of Judgment) with seventy thousand bridles, and seventy thousand angels dragging each bridle.\" Muslim adds no grading of his own beyond placing it in his Sahih.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস জোড়ে না। মুসলিম তাঁর সহীহ গ্রন্থে (২৮৪২) আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে সেদিনের জাহান্নাম নিয়ে একটি সাধারণ বর্ণনা এনেছেন। এখানে দেখা কোনো সূত্র সেটিকে ৭৯:৩৬-এর সঙ্গে যুক্ত করে না। রাসূলুল্লাহ ﷺ বলেছেন: \"সেদিন জাহান্নামকে আনা হবে, তার থাকবে সত্তর হাজার লাগাম, প্রতিটি লাগামের সঙ্গে থাকবে সত্তর হাজার ফেরেশতা, যারা তাকে টেনে আনবে।\" সহীহ গ্রন্থে রাখার বাইরে মুসলিম নিজে আলাদা কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "Something more needs saying plainly. The verse describes what the text describes: Hellfire made visible on the Day of Judgement to whoever sees. It names no living person and no community, and it licenses nothing against any living person or community. Even the narrowest gloss recorded above, the disbeliever, describes the scene of that Day. It is not a verdict any reader may pass on a neighbour, and the line drawn at 79:37 and 79:40 is drawn by deeds that only Allah weighs.",
+            "bn": "আরেকটা কথা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা তার শব্দে আছে: কিয়ামতের দিন জাহান্নামকে, যে-ই দেখে তার সামনে, প্রকাশ করা। কোনো জীবিত মানুষ বা কোনো জাতির নাম এতে নেই। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। উপরের সবচেয়ে সংকীর্ণ ব্যাখ্যা, অর্থাৎ কাফির, সেটাও সেদিনের দৃশ্যের বর্ণনা। প্রতিবেশীর উপর রায় দেওয়ার কোনো সনদ এটা নয়। ৭৯:৩৭ আর ৭৯:৪০-এ যে রেখা টানা হয়, তা টানা হয় আমল দিয়ে, যার ওজন কেবল আল্লাহই করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told Before It Is Shown",
+          "bn": "দেখানোর আগেই জানিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's companion verse to 79:35 ends with a question: on that Day man will remember, but how will the remembrance avail him? In this run the remembering and the seeing arrive together, and both arrive when nothing can be changed. Al-Muyassar's sentence has a person acknowledge his deeds on that Day, after they are set before him. An admission made then is true, and it is late. The verse describes a moment in which knowing has stopped being useful.",
+            "bn": "৭৯:৩৫-এর পাশে ইবন কাসীর যে আয়াত রাখেন, তা শেষ হয় একটি প্রশ্নে: সেদিন মানুষ মনে করবে, কিন্তু সে মনে পড়া তার কী কাজে আসবে? এ ধারায় মনে পড়া আর দেখা একসঙ্গে আসে, আর দুটোই আসে এমন সময়, যখন আর কিছু বদলানো যায় না। মুয়াসসারের বাক্যে মানুষ সেদিন তার আমলগুলো স্বীকার করে, সেগুলো সামনে হাজির করার পরে। তখনকার স্বীকারোক্তি সত্য, কিন্তু দেরিতে। আয়াত এমন এক মুহূর্তের ছবি আঁকে, যখন জানাটা আর কোনো কাজে লাগে না।"
+          },
+          {
+            "en": "For the reader the order runs the other way. The Fire is described before it is shown, and deeds can still be chosen before they are remembered. Ma sa'a, what he strove for, is the reckoning's subject in 79:35, and striving is still open today. Ibn Kathir's gloss on 79:45 explains whom the warning is for: whoever fears Allah, fears standing before Him and His threat, will follow the Messenger ﷺ and succeed. The four words of 79:36 are part of that warning.",
+            "bn": "পাঠকের বেলায় ক্রমটা উল্টো। আগুন দেখানোর আগেই তার বিবরণ দেওয়া হয়েছে, আর আমলগুলো মনে পড়ার আগে এখনো সেগুলো বেছে নেওয়া যায়। মা সাআ, অর্থাৎ সে কীসের জন্য খেটেছিল, ৭৯:৩৫-এ হিসাবের বিষয় সেটাই। আর খাটার সুযোগ আজও খোলা। ৭৯:৪৫-এর ব্যাখ্যায় ইবন কাসীর জানান সতর্কবাণী কার জন্য: যে আল্লাহকে ভয় করে, তাঁর সামনে দাঁড়ানো আর তাঁর হুঁশিয়ারিকে ভয় করে, সে রাসূল ﷺ-এর অনুসরণ করবে এবং সফল হবে। ৭৯:৩৬-এর চারটি শব্দ সেই সতর্কবাণীরই অংশ।"
+          },
+          {
+            "en": "So the verse asks something simple of whoever hears it now. On that Day the seeing will be the same for every eye, and what will differ is where each person stands. That position is being settled in ordinary days, in what a person chooses to strive for. To take the verse seriously is not to picture the Fire more vividly than the text does. It is to let a scene told in advance change what one works for while that work still counts.",
+            "bn": "তাই যে আজ আয়াতটি শুনছে, তার কাছে আয়াতের চাওয়া সহজ। সেদিন দেখাটা প্রতিটি চোখের জন্য একই হবে, পার্থক্য হবে কে কোথায় দাঁড়িয়ে আছে তাতে। সেই জায়গা ঠিক হচ্ছে সাধারণ দিনগুলোতে, মানুষ কীসের পেছনে খাটবে বলে বেছে নেয় তা দিয়ে। আয়াতকে গুরুত্ব দেওয়ার মানে আগুনকে শব্দের চেয়ে বেশি রঙ চড়িয়ে কল্পনা করা নয়। মানে হলো, আগে থেকে জানিয়ে রাখা দৃশ্যটাকে এমনভাবে নেওয়া, যাতে খাটুনি যতদিন কাজে লাগে, ততদিনে কীসের জন্য খাটছি তা বদলে যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "79:40": {
     "sections": [
       {
