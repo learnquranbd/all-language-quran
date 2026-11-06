@@ -2067,6 +2067,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "55:66": {
+    "sections": [
+      {
+        "h": {
+          "en": "Springs for the Second Pair",
+          "bn": "দ্বিতীয় জোড়ার দুই ঝরনা"
+        },
+        "p": [
+          {
+            "en": "Fihima aynani naddakhatan: in both of them are two springs, gushing. The verse is three Arabic words, and the word that carries its picture comes last. It belongs to the second description of gardens, which opened at 55:62 with wa-min dunihima jannatan and continued at 55:64 with a single word, mudhammatan, dark green. Now water enters that picture. The refrain at 55:67 follows at once, as it follows every gift named in this surah: so which of the favours of your Lord would you two deny?",
+            "bn": "ফীহিমা আইনানি নাদ্দাখাতান: দুটি বাগানেই আছে দুটি ঝরনা, উথলে ওঠা। আয়াতটি আরবিতে মাত্র তিনটি শব্দের, আর যে শব্দে আসল ছবিটা ফোটে, সেটা আসে সবার শেষে। এ আয়াত বাগানের দ্বিতীয় বর্ণনার অংশ। সে বর্ণনা শুরু হয়েছিল ৫৫:৬২ আয়াতে, ওয়া মিন দূনিহিমা জান্নাতান দিয়ে। তারপর ৫৫:৬৪ আয়াতে এসেছিল একটিমাত্র শব্দ, মুদহাম্মাতান, গাঢ় সবুজ। এবার সেই ছবিতে যোগ হলো পানি। আর এ সূরায় প্রতিটি দানের পরে যেমন আসে, তেমনি ৫৫:৬৭ আয়াতে সঙ্গে সঙ্গে ফিরে আসে সেই প্রশ্ন: তোমরা দুই দল তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে?"
+          },
+          {
+            "en": "The two translations on this site make different choices. The English gives two springs, spouting, a plain rendering of the Arabic participle. The Bengali says that in both gardens are two fountains, gushing up without pause and in great abundance. Without pause and in abundance are not separate words in the Arabic. They bring in one of the readings set out below, the one that says the springs are full and never stop. That is a respected reading, but it is a reading, and a reader should know where the word naddakhatan ends and its explanation begins.",
+            "bn": "এ সাইটের দুই অনুবাদ দুই পথে গেছে। ইংরেজি অনুবাদ সোজাসুজি বলেছে: দুটি ঝরনা, উৎক্ষিপ্ত হচ্ছে। এটি আরবি শব্দেরই সরল রূপ। বাংলা অনুবাদ বলছে, দুটো বাগানেই আছে অবিরাম ও প্রচুর পরিমাণে উৎক্ষিপ্তমান দুটো ঝর্ণাধারা। অবিরাম আর প্রচুর, এ দুটি কথা আরবিতে আলাদা কোনো শব্দ হিসেবে নেই। নিচে যে ব্যাখ্যাগুলো আসছে, তার একটিকে অনুবাদ নিজের ভেতরে টেনে নিয়েছে: ঝরনা দুটি ভরপুর, কখনো থামে না। ব্যাখ্যাটি গ্রহণযোগ্য, তবে তা ব্যাখ্যাই। পাঠকের জানা দরকার, নাদ্দাখাতান শব্দ কোথায় শেষ আর তার ব্যাখ্যা কোথায় শুরু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Force in Nadkh",
+          "bn": "নাদখ শব্দের জোর"
+        },
+        "p": [
+          {
+            "en": "The commentators agree on the core of the word. At-Tabari glosses naddakhatan with a single word, fawwaratan, welling up. As-Sa'di says exactly the same and nothing more. Al-Muyassar puts it in a full sentence: in the two gardens are two springs welling up with water, which do not cease. Al-Baghawi defines the root itself: an-nadkh is the welling up of water from the spring, and he too adds that the two do not cease. The picture in every one of these is water rising from its source, pressed up from below.",
+            "bn": "শব্দটির মূল অর্থে তাফসীরকারেরা একমত। তাবারী নাদ্দাখাতানের অর্থ দেন এক শব্দে: ফাওয়ারাতান, উথলে ওঠা। সা’দীও ঠিক এটুকুই বলেন, এর বেশি কিছু না। মুয়াসসার পুরো বাক্যে বলে: দুই বাগানে আছে পানিতে উথলে ওঠা দুটি ঝরনা, যা কখনো থামে না। বাগাভী ধাতুটিরই সংজ্ঞা দেন: নাদখ মানে ঝরনার মুখ থেকে পানির উথলে ওঠা। তিনিও যোগ করেন, ঝরনা দুটি কখনো বন্ধ হয় না। সবগুলো ব্যাখ্যায় ছবিটা একই: পানি উঠে আসছে উৎস থেকে, নিচ থেকে ঠেলে।"
+          },
+          {
+            "en": "Al-Qurtubi adds a point of language. Nadkh, spelled with the letter kha, he writes, is more than nadh, spelled with the letter ha. The two words lie close in sound, and his remark marks the one used in this verse as the stronger of the pair. The form of the word itself is intensive, with its middle letter doubled: naddakha rather than a plain nadikha. Taken together, the gloss and the form describe springs that do not seep or trickle. They well up, and keep welling up.",
+            "bn": "কুরতুবী এখানে ভাষার একটি সূক্ষ্ম কথা যোগ করেন। খা অক্ষর দিয়ে লেখা নাদখ, তাঁর ভাষায়, হা অক্ষর দিয়ে লেখা নাদহ-এর চেয়ে বেশি। উচ্চারণে শব্দ দুটি কাছাকাছি। তাঁর মন্তব্য অনুযায়ী এ আয়াতে যে শব্দ এসেছে, সেটাই দুটির মধ্যে বেশি জোরালো। শব্দের গঠনেও সেই জোর আছে। মাঝের অক্ষরটি দ্বিগুণ হয়ে এসেছে: সাধারণ নাদিখা নয়, নাদ্দাখা। অর্থ আর গঠন মিলিয়ে যে ঝরনার ছবি দাঁড়ায়, তা চুইয়ে পড়ে না, টিপটিপ করেও ঝরে না। তা উথলে ওঠে, আর উথলে উঠতেই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Welling Up, but With What?",
+          "bn": "উথলে ওঠে, কিন্তু কী নিয়ে?"
+        },
+        "p": [
+          {
+            "en": "Once the meaning of the verb is settled, a question remains, and at-Tabari states it outright: the people of interpretation differed over what the two springs gush with. He gives five answers, each with its chain. The first is water. He reports it from Ikrima, from Ibn Zayd, and from Ibn Abbas (RA) by way of Ali ibn Abi Talha: they gush with water. The second is fullness. Ad-Dahhak said the two springs are full and do not cease, and that is the reading the Bengali translation has folded in.",
+            "bn": "ক্রিয়াটির অর্থ ঠিক হওয়ার পরও একটি প্রশ্ন থেকে যায়, আর তাবারী তা খোলাখুলি বলেন: ঝরনা দুটি কী নিয়ে উথলে ওঠে, তা নিয়ে তাফসীরবিদদের মধ্যে মতভেদ হয়েছে। তিনি সনদসহ পাঁচটি জবাব উল্লেখ করেন। প্রথম জবাব পানি। এটি তিনি এনেছেন ইকরিমা থেকে, ইবন যায়দ থেকে, আর আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে: ঝরনা দুটি পানি নিয়ে উথলে ওঠে। দ্বিতীয় জবাব পূর্ণতা। দাহহাক বলেছেন, ঝরনা দুটি ভরপুর, কখনো বন্ধ হয় না। বাংলা অনুবাদ এ ব্যাখ্যাটিকেই নিজের ভেতরে নিয়েছে।"
+          },
+          {
+            "en": "The third and fourth answers come from a narrator at-Tabari names only as Sa'id, through two chains that both pass through one Ja'far. In the first he says the springs gush with water and fruit; in the second, with colours of fruit. Al-Qurtubi gives the first of these from Sa'id ibn Jubayr: with kinds of fruit and water. The fifth answer is again from Ibn Abbas (RA), by a different chain through Muhammad ibn Sa'd and his family: they gush with goodness, bi-l-khayr. The same Companion therefore appears at two points in at-Tabari's list.",
+            "bn": "তৃতীয় ও চতুর্থ জবাব এসেছে এমন এক বর্ণনাকারী থেকে, যাঁকে তাবারী শুধু সাঈদ নামে উল্লেখ করেছেন। দুটি সনদই জা‘ফর নামের একজনের মধ্য দিয়ে এসেছে। একটিতে তিনি বলেন, ঝরনা দুটি পানি আর ফল নিয়ে উথলে ওঠে। অন্যটিতে বলেন, নানা রঙের ফল নিয়ে। কুরতুবী প্রথম কথাটি এনেছেন সাঈদ ইবন জুবায়র থেকে: নানা রকম ফল আর পানি নিয়ে। পঞ্চম জবাবও ইবন আব্বাস (রাঃ)-এর, তবে ভিন্ন সনদে, মুহাম্মাদ ইবন সা‘দ ও তাঁর পরিবারের সূত্রে: ঝরনা দুটি উথলে ওঠে কল্যাণ নিয়ে, বিল-খাইর। ফলে তাবারীর তালিকায় একই সাহাবীর নাম দুই জায়গায় দেখা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What a Spring Is Known For",
+          "bn": "ঝরনা বলতে যা বোঝায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the list open. The most correct of these sayings, he writes, is that of those who said the springs gush with water, because that is what is known of springs, since they were springs of water. His reasoning is worth noticing. He does not call the other narrations false, and he does not judge their chains in this passage. He weighs them against the ordinary meaning of the word ayn, a spring, and he prefers the reading that asks the least of that word.",
+            "bn": "তাবারী তালিকাটি খোলা রেখে দেননি। তিনি লেখেন, এসব মতের মধ্যে সবচেয়ে সঠিক তাঁদের কথা, যাঁরা বলেছেন ঝরনা দুটি পানি নিয়ে উথলে ওঠে। কারণ ঝরনা বলতে মানুষ এটাই বোঝে, ঝরনা তো পানিরই হয়। তাঁর যুক্তির ধরনটা লক্ষ করার মতো। অন্য বর্ণনাগুলোকে তিনি মিথ্যা বলেননি, এ আলোচনায় সেগুলোর সনদ নিয়েও কোনো রায় দেননি। তিনি সেগুলো মেপেছেন আইন শব্দের সাধারণ অর্থের সঙ্গে, যার মানে ঝরনা। আর যে ব্যাখ্যা শব্দটির উপর সবচেয়ে কম বোঝা চাপায়, সেটিকেই তিনি বেছে নিয়েছেন।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic gives the report from Ali ibn Abi Talha from Ibn Abbas (RA) with another gloss: fayyadatan, overflowing. That is the same route by which at-Tabari has Ibn Abbas say the springs gush with water, and the two wordings sit easily together: water that wells up until it brims over. Ibn Kathir then quotes ad-Dahhak as at-Tabari does: full, never ceasing. Al-Qurtubi opens his own comment with Ibn Abbas: welling up with water. On the plain sense, the commentaries consulted here speak with one voice.",
+            "bn": "ইবন কাসীরের আরবি তাফসীরে আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনাটি এসেছে আরেকটি শব্দে: ফাইয়াদাতান, উপচে পড়া। তাবারী এই একই সূত্রে ইবন আব্বাসের কথা এনেছেন যে ঝরনা দুটি পানি নিয়ে উথলে ওঠে। দুই শব্দে কোনো বিরোধ নেই। পানি উথলে উঠতে উঠতে কানা ছাপিয়ে পড়ে। এরপর ইবন কাসীরও তাবারীর মতো দাহহাকের কথা আনেন: ভরপুর, কখনো থামে না। কুরতুবীও তাঁর আলোচনা শুরু করেন ইবন আব্বাসের কথা দিয়ে: পানি নিয়ে উথলে ওঠা। সাধারণ অর্থের প্রশ্নে এখানে দেখা সব তাফসীর এক সুরে কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Musk, Ambergris and Blessing",
+          "bn": "মিশক, আম্বর আর বরকত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi then record the wider readings. Al-Baghawi has Ibn Abbas (RA) say: they gush with goodness and blessing upon the people of Paradise. Al-Qurtubi gives the same from him and adds that al-Hasan and Mujahid said it too. Then come reports of fragrance. Al-Baghawi has Ibn Mas'ud (RA) say: they gush with musk and camphor upon the friends of Allah. From Anas ibn Malik (RA) he gives: with musk and ambergris in the homes of the people of Paradise, like a shower of rain.",
+            "bn": "এরপর কুরতুবী ও বাগাভী আরও বিস্তৃত ব্যাখ্যাগুলো উল্লেখ করেন। বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন: ঝরনা দুটি জান্নাতবাসীদের উপর কল্যাণ ও বরকত নিয়ে উথলে ওঠে। কুরতুবীও তাঁর থেকে একই কথা এনেছেন এবং বলেছেন, হাসান ও মুজাহিদও এমনটাই বলেছেন। তারপর আসে সুগন্ধের বর্ণনা। বাগাভীর বর্ণনায় ইবন মাসঊদ (রাঃ) বলেন: আল্লাহর ওলীদের উপর ঝরনা দুটি মিশক ও কর্পূর নিয়ে উথলে ওঠে। আর আনাস ইবন মালিক (রাঃ) থেকে তিনি আনেন: জান্নাতবাসীদের ঘরে ঘরে মিশক ও আম্বর নিয়ে, ঝুম বৃষ্টির মতো।"
+          },
+          {
+            "en": "Al-Qurtubi gathers these under three names, Ibn Mas'ud, Ibn Abbas and Anas: the springs gush upon the friends of Allah with musk, ambergris and camphor in the homes of the people of Paradise, as the spray of rain falls. He then quotes at-Tirmidhi, who lists still more: kinds of fruit and favours, adorned maidens, saddled mounts and coloured garments. These are sayings of Companions and later scholars, and both commentators give them without a chain. None of them is a saying of the Prophet ﷺ, and none should be read as one.",
+            "bn": "কুরতুবী এগুলো একত্র করেছেন তিনজনের নামে, ইবন মাসঊদ, ইবন আব্বাস ও আনাস: জান্নাতবাসীদের ঘরে ঘরে আল্লাহর ওলীদের উপর ঝরনা দুটি মিশক, আম্বর ও কর্পূর ছিটিয়ে দেয়, যেমন বৃষ্টির ছাট এসে পড়ে। এরপর তিনি তিরমিযীর কথা উদ্ধৃত করেন, যিনি তালিকা আরও লম্বা করেছেন: নানা রকম ফল ও নিয়ামত, সুসজ্জিত তরুণী, জিন-লাগানো বাহন আর রঙিন পোশাক। এসব সাহাবী ও পরবর্তী আলিমদের কথা। দুই তাফসীরকারের কেউই এগুলোর সনদ দেননি। এর একটিও নবী ﷺ-এর বাণী নয়, আর নবীর বাণী হিসেবে পড়াও ঠিক হবে না।"
+          },
+          {
+            "en": "No commentary consulted here attaches a hadith of the Prophet ﷺ to this verse, and none gives a cause of revelation for it. The narration of two gardens of gold and two of silver, which Ibn Kathir recalls over this group of verses, was quoted and discussed in the article on 55:62 and is not repeated here. What remains for 55:66 is a single word and the careful reports about it. That turns out to be enough to start a disagreement of its own.",
+            "bn": "এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি, আর এর শানে নুযূলও কেউ উল্লেখ করেনি। সোনার দুটি আর রুপার দুটি বাগানের যে বর্ণনা ইবন কাসীর এ আয়াতগুচ্ছের আলোচনায় স্মরণ করিয়ে দেন, তা ৫৫:৬২ আয়াতের প্রবন্ধে উদ্ধৃত ও আলোচিত হয়েছে, এখানে আবার আনা হলো না। ৫৫:৬৬ আয়াতের জন্য থাকে শুধু একটি শব্দ আর তা নিয়ে সাবধানে বর্ণিত কথাগুলো। দেখা যাবে, নিজস্ব একটি মতভেদ শুরু হওয়ার জন্য এটুকুই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Flowing Set Against Gushing",
+          "bn": "বয়ে চলা বনাম উথলে ওঠা"
+        },
+        "p": [
+          {
+            "en": "Fihima aynani tajriyan: in both of them are two springs, flowing. That is 55:50, in the description of the first pair. At-Tabari explains it simply: springs of water running through the two gardens. Ibn Kathir says they run freely to water the trees and branches, so that these bear fruit of every colour, and he reports from al-Hasan al-Basri that one is called Tasnim and the other Salsabil. Al-Qurtubi gives the same names from Ibn Abbas (RA) and al-Hasan, and reads the dual as one flowing spring in each garden.",
+            "bn": "ফীহিমা আইনানি তাজরিয়ান: দুটি বাগানেই আছে দুটি ঝরনা, বয়ে চলা। এটি ৫৫:৫০ আয়াত, প্রথম জোড়া বাগানের বর্ণনায়। তাবারীর ব্যাখ্যা সরল: পানির দুটি ঝরনা, যা বাগান দুটির ভেতর দিয়ে বয়ে যায়। ইবন কাসীর বলেন, ঝরনা দুটি অবাধে বয়ে গিয়ে গাছপালা আর ডালপালায় পানি দেয়, ফলে সেগুলোতে সব রঙের ফল ধরে। হাসান বসরী থেকে তিনি বর্ণনা করেন, একটির নাম তাসনীম, অন্যটির সালসাবীল। কুরতুবীও ইবন আব্বাস (রাঃ) ও হাসান থেকে এই দুটি নাম এনেছেন। আর দ্বিবচনটি তিনি বুঝেছেন এভাবে: প্রতিটি বাগানে একটি করে বয়ে চলা ঝরনা।"
+          },
+          {
+            "en": "Set side by side, the two verses differ in one word: tajriyan, flowing, against naddakhatan, gushing. Ibn Kathir notes the change and adds directly: al-jary aqwa min an-nadkh, flowing is stronger than gushing. The abridged English edition places this sentence inside the report from Ibn Abbas (RA); the Arabic leaves it standing just after the report, without a name. Al-Qurtubi, writing on 55:62, says the same in his own voice: the springs of the second pair well up, but they are not like the two that flow, because gushing falls short of flowing.",
+            "bn": "দুটি আয়াত পাশাপাশি রাখলে পার্থক্য শুধু একটি শব্দে: তাজরিয়ান, বয়ে চলা, আর নাদ্দাখাতান, উথলে ওঠা। ইবন কাসীর পরিবর্তনটি লক্ষ করেন এবং সঙ্গে সঙ্গে বলেন: আল-জারয়ু আকওয়া মিনান নাদখ, বয়ে চলা উথলে ওঠার চেয়ে শক্তিশালী। সংক্ষিপ্ত ইংরেজি সংস্করণে বাক্যটি ইবন আব্বাস (রাঃ)-এর বর্ণনার ভেতরে বসানো। আরবি মূল পাঠে বাক্যটি বর্ণনার ঠিক পরে আলাদা দাঁড়িয়ে আছে, কারও নাম ছাড়া। কুরতুবী ৫৫:৬২ আয়াতের আলোচনায় নিজের ভাষায় একই কথা বলেন: দ্বিতীয় জোড়ার ঝরনা উথলে ওঠে ঠিকই, কিন্তু বয়ে চলা দুটির মতো নয়, কারণ উথলে ওঠা বয়ে চলার চেয়ে কম।"
+          },
+          {
+            "en": "Yet al-Qurtubi also records the opposite judgement, under 55:66 itself. After listing the many things the springs were said to gush with, he quotes at-Tirmidhi: this indicates that gushing is more than flowing. Al-Qurtubi's own remark that nadkh exceeds nadh compares two different words, not the two verses, and he does not use it to rank the gardens. A last view, introduced with qila, it is said, joins the two verbs: the springs well up and then flow. The sources give both judgements, and this article leaves them standing side by side.",
+            "bn": "তবু কুরতুবী ৫৫:৬৬ আয়াতের আলোচনাতেই উল্টো রায়টিও লিখে রেখেছেন। ঝরনা দুটি কী কী নিয়ে উথলে ওঠে বলে বর্ণিত হয়েছে, তার লম্বা তালিকার পর তিনি তিরমিযীর কথা উদ্ধৃত করেন: এ থেকে বোঝা যায়, উথলে ওঠা বয়ে চলার চেয়ে বেশি। নাদখ যে নাদহ-এর চেয়ে বেশি, কুরতুবীর এ মন্তব্য দুটি ভিন্ন শব্দের তুলনা, দুই আয়াতের নয়। বাগানের স্তর ঠিক করতে তিনি এটি ব্যবহারও করেননি। সবশেষে 'বলা হয়' দিয়ে একটি মত আসে, যা দুই ক্রিয়াকে মিলিয়ে দেয়: ঝরনা প্রথমে উথলে ওঠে, তারপর বয়ে চলে। সূত্রগুলো দুই রায়ই দিয়েছে, আর এ প্রবন্ধ দুটিকে পাশাপাশিই রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ranking From Words Alone",
+          "bn": "শুধু শব্দ দেখে স্তর মাপা"
+        },
+        "p": [
+          {
+            "en": "This small disagreement over two verbs sits inside a larger one, which the article on 55:62 sets out in full. In brief: Ibn Kathir holds that the first pair is higher by the text of the Qur'an, and the springs are among his proofs. Al-Qurtubi argues the same from the paired descriptions. Against them, ad-Dahhak and al-Hakim at-Tirmidhi, both as al-Qurtubi reports them, rank the second pair higher. On 55:62 al-Qurtubi says al-Hakim argued for it by what we shall mention from him. The remark under 55:66 fits that promise, though there he writes only the name at-Tirmidhi.",
+            "bn": "দুই ক্রিয়া নিয়ে এই ছোট মতভেদটি আসলে একটি বড় মতভেদের অংশ, যা ৫৫:৬২ আয়াতের প্রবন্ধে বিস্তারিত এসেছে। সংক্ষেপে: ইবন কাসীরের মতে কুরআনের ভাষ্য অনুযায়ীই প্রথম জোড়া উঁচু স্তরের, আর ঝরনার তুলনা তাঁর দলিলগুলোর একটি। কুরতুবীও দুই জোড়ার বর্ণনা মিলিয়ে একই যুক্তি দেন। অপর দিকে দাহহাক ও হাকীম তিরমিযী, দুজনই কুরতুবীর বর্ণনা অনুযায়ী, দ্বিতীয় জোড়াকে উঁচু স্তরে রাখেন। ৫৫:৬২ আয়াতের আলোচনায় কুরতুবী বলেছেন, হাকীম তাঁর এ মতের পক্ষে যুক্তি দিয়েছেন, যা আমরা পরে তাঁর থেকে উল্লেখ করব। ৫৫:৬৬ আয়াতের নিচে আসা মন্তব্যটি সেই প্রতিশ্রুতির সঙ্গে মিলে যায়, যদিও সেখানে কুরতুবী শুধু তিরমিযী নামটিই লিখেছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, in the same group of verses, adds a caution worth carrying over. Writing on mudhammatan, dark green, at 55:64, it notes that this description is not given to the first two gardens, and that this does not necessarily mean they lack the quality. The same care fits here. That the first pair is said to flow and the second to gush does not by itself prove that either lacks what the other has. A comparison of words can suggest a ranking; on its own it cannot settle one.",
+            "bn": "একই আয়াতগুচ্ছে মাআরিফুল কুরআন একটি সতর্কবাণী দিয়েছে, যা এখানেও খাটে। ৫৫:৬৪ আয়াতের মুদহাম্মাতান, অর্থাৎ গাঢ় সবুজ, শব্দটি নিয়ে বলতে গিয়ে সেখানে বলা হয়েছে: প্রথম দুই বাগানের বেলায় এ বিশেষণ আসেনি, তবে তার মানে এই নয় যে সেগুলোতে এ গুণ নেই। এখানেও একই সাবধানতা দরকার। প্রথম জোড়ার ঝরনা বয়ে চলে আর দ্বিতীয় জোড়ার ঝরনা উথলে ওঠে, শুধু এটুকু থেকে প্রমাণ হয় না যে একটিতে অন্যটির গুণ নেই। শব্দের তুলনা স্তরের দিকে ইঙ্গিত দিতে পারে, কিন্তু একা তা চূড়ান্ত রায় দিতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gifts That Never Run Dry",
+          "bn": "যে দান কখনো ফুরায় না"
+        },
+        "p": [
+          {
+            "en": "Whichever pair is higher, several readers of naddakhatan stress one thing: these springs do not fail. Ad-Dahhak says it outright, full and never ceasing, and al-Baghawi and al-Muyassar repeat it. In this world even a good spring has its seasons, and a well must be dug, kept clean and drawn from. In the garden the water rises of itself. The refrain at 55:67 then turns the picture into a question put to jinn and humankind: which of your Lord's favours would you deny? It is asked of a garden many read as the lower.",
+            "bn": "কোন জোড়া উঁচু, সে প্রশ্ন যেভাবেই মীমাংসা হোক, নাদ্দাখাতানের কয়েকজন ব্যাখ্যাকার একটি কথায় জোর দেন: এ ঝরনা কখনো ফুরায় না। দাহহাক কথাটা সরাসরি বলেছেন, ভরপুর আর বিরামহীন। বাগাভী ও মুয়াসসারও তা-ই বলেছেন। দুনিয়ায় ভালো ঝরনারও মৌসুম আছে। কূপ খুঁড়তে হয়, পরিষ্কার রাখতে হয়, পানি টেনে তুলতে হয়। জান্নাতে পানি নিজে থেকেই উঠে আসে। তারপর ৫৫:৬৭ আয়াত ছবিটাকে জিন ও মানুষের প্রতি একটি প্রশ্নে বদলে দেয়: তোমাদের রবের কোন নিয়ামত তোমরা অস্বীকার করবে? অথচ প্রশ্নটা আসছে এমন এক বাগান প্রসঙ্গে, যাকে অনেকেই নিচের স্তরের বলে পড়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi, on the flowing springs of 55:50, records a saying of Abu Bakr al-Warraq: two flowing springs for the one whose eyes flowed in this world from fear of Allah. It is a reflection, not a narration, and it is tied to the first pair, not to this one. Still, it suggests a way of holding both verses together. The springs of the gardens answer something that first flowed in a heart. A believer who wants the higher pair can begin with that fear and those tears; one who fears falling short should know the second pair has springs too.",
+            "bn": "৫৫:৫০ আয়াতের বয়ে চলা ঝরনার আলোচনায় কুরতুবী আবু বকর ওয়াররাকের একটি কথা লিখেছেন: দুটি বয়ে চলা ঝরনা তার জন্য, দুনিয়াতে আল্লাহর ভয়ে যার দুই চোখ দিয়ে পানি বয়ে যেত। এটি একটি উপলব্ধি, কোনো বর্ণনা নয়। আর কথাটা প্রথম জোড়া বাগান নিয়ে, এ আয়াত নিয়ে নয়। তবু এতে দুই আয়াতকে একসঙ্গে দেখার একটা পথ মেলে। বাগানের ঝরনা যেন সেই কিছুর জবাব, যা আগে কোনো অন্তরে বয়ে গিয়েছিল। যে মুমিন উঁচু জোড়া চান, তিনি শুরু করতে পারেন সেই ভয় আর সেই চোখের পানি দিয়ে। আর যিনি পিছিয়ে পড়ার ভয় করেন, তাঁর জানা থাকুক, দ্বিতীয় জোড়াতেও ঝরনা আছে।"
+          },
+          {
+            "en": "One limit must be kept. The verse describes gardens and their springs; it does not say which living person will be given which pair, and it licenses no one to rank another Muslim as a first-pair or a second-pair believer. What it offers each reader is an invitation about his own heart: to thank Allah for gifts that have never stopped, to aim higher than he has aimed so far, and to let some good well up from him without waiting to be pressed for it.",
+            "bn": "একটি সীমা মেনে চলতেই হবে। আয়াতটি বাগান আর তার ঝরনার বর্ণনা দেয়। কোন জীবিত মানুষ কোন জোড়া পাবে, তা বলে না। আর অন্য কোনো মুসলিমকে প্রথম জোড়ার বা দ্বিতীয় জোড়ার মুমিন বলে ভাগ করার অনুমতিও কাউকে দেয় না। প্রত্যেক পাঠকের জন্য এখানে আছে নিজের অন্তর নিয়ে একটি আহ্বান। যে দান কখনো থামেনি, তার জন্য আল্লাহর শুকরিয়া আদায় করা। এতদিন যতটা লক্ষ্য ছিল, তার চেয়ে উঁচুতে চোখ রাখা। আর কেউ চাপ দেওয়ার অপেক্ষা না করে নিজের ভেতর থেকে কিছু কল্যাণ উথলে উঠতে দেওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "55:68": {
     "sections": [
       {

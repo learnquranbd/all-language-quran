@@ -27909,6 +27909,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not count on explaining yourself on that Day, when the criminals are known by their marks. Turn back now, while a warning can still change what you will be known by.",
     "lessonBn": "সেদিন নিজের পক্ষে সাফাই দেওয়ার ভরসায় থাকবেন না, যেদিন অপরাধীদের চেনা যাবে তাদের চিহ্ন দেখে। এখনই ফিরে আসুন, যখন সতর্কবাণী এখনো বদলে দিতে পারে কী দিয়ে আপনাকে চেনা হবে।"
+  },
+  "55:66": {
+    "reflectionEn": "In the second pair of gardens there are two springs, and the word for them is naddakhatan: gushing, welling up, never still. Readers asked what they gush with. Water, most said, because that is what a spring is. Others heard more in it: goodness and blessing, and a fragrance falling on the people of the garden like rain. One early reading says they are full and never stop. Then the refrain comes at once: which of your Lord's favours would you deny? I live among springs that dry up and wells that have to be dug. What would it mean to trust a Giver whose gifts do not run out, and to let some good well up from me before anyone asks?",
+    "reflectionBn": "দ্বিতীয় জোড়া বাগানে আছে দুটি ঝরনা। তাদের জন্য কুরআনের শব্দ নাদ্দাখাতান: যা উথলে ওঠে, ফিনকি দিয়ে বের হয়, কখনো থামে না। পাঠকেরা প্রশ্ন করেছেন, কী নিয়ে উথলে ওঠে? বেশিরভাগ বলেছেন পানি, কারণ ঝরনা তো পানিরই হয়। কেউ কেউ এর মধ্যে আরও কিছু শুনেছেন: কল্যাণ আর বরকত, আর এমন সুগন্ধ, যা জান্নাতবাসীদের উপর বৃষ্টির মতো ঝরে পড়ে। আগের যুগের একটি ব্যাখ্যা বলে, ঝরনা দুটি কানায় কানায় ভরা, কখনো বন্ধ হয় না। সঙ্গে সঙ্গে ফিরে আসে সেই প্রশ্ন: তোমাদের রবের কোন নিয়ামত তোমরা অস্বীকার করবে? আমার চারপাশের ঝরনা শুকিয়ে যায়, কূপ খুঁড়ে পানি তুলতে হয়। যে দাতার দান কখনো ফুরায় না, তাঁর উপর ভরসা রাখা কেমন হতো? আর কেউ চাওয়ার আগেই আমার ভেতর থেকে কিছু কল্যাণ উথলে উঠতে দেওয়া?",
+    "pointsEn": [
+      "What good in my life wells up on its own, and what only comes out when someone presses me for it?",
+      "Which favour of my Lord have I come to treat as ordinary simply because it has never stopped?",
+      "When I picture Paradise, do I picture only rest, or also gifts that keep on arriving?",
+      "If even the gardens described as lower are given springs that never run dry, what does that tell me about the One who gives them?",
+      "Where in my worship am I content with a trickle when I could be aiming for more?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন ভালো কাজ নিজে থেকেই উথলে ওঠে, আর কোনটা বের হয় কেবল কেউ চাপ দিলে?",
+      "রবের কোন নিয়ামতকে আমি সাধারণ ভেবে বসে আছি, শুধু এ কারণে যে তা কখনো থামেনি?",
+      "জান্নাতের কথা ভাবলে আমি কি শুধু বিশ্রামের ছবি দেখি, নাকি এমন দানের ছবিও, যা একের পর এক আসতেই থাকে?",
+      "যে বাগানকে নিচের স্তরের বলা হয়েছে, সেখানেও যদি কখনো না শুকানো ঝরনা থাকে, তবে এর দাতা সম্পর্কে আমি কী বুঝি?",
+      "ইবাদতের কোন জায়গায় আমি অল্প একটু ধারাতেই সন্তুষ্ট, অথচ আরও বেশির দিকে চোখ রাখতে পারতাম?"
+    ],
+    "lessonEn": "Thank Allah for the gifts that never stop, and let good well up from you freely, as the springs of the second gardens gush without ceasing.",
+    "lessonBn": "যে দান কখনো থামে না, তার জন্য আল্লাহর শুকরিয়া আদায় করুন। আর দ্বিতীয় বাগানের ঝরনা যেমন বিরামহীন উথলে ওঠে, তেমনি আপনার ভেতর থেকেও কল্যাণ অকাতরে উথলে উঠুক।"
   }
 };
 
