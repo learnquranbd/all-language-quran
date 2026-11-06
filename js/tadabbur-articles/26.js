@@ -2431,6 +2431,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:69": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words After the Refrain",
+          "bn": "ধুয়ার পরে চারটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa-tlu 'alayhim naba'a Ibrahim: and recite to them the news of Ibrahim. Four words in Arabic, and a new account begins. Just before them the story of Musa (AS) and Fir'awn closed with a refrain: in that is a sign, but most of them were not believers, and your Lord is the Exalted in Might, the Merciful (26:67 and 26:68). The same two sentences return at 26:103 and 26:104 to close the account this verse opens. Between the two refrains lies the whole Ibrahim section of ash-Shu'ara'.",
+            "bn": "ওয়াতলু আলাইহিম নাবাআ ইবরাহীম: ওদেরকে ইবরাহীমের বৃত্তান্ত শুনিয়ে দাও। আরবিতে মাত্র চারটি শব্দ, আর তাতেই শুরু হয়ে যায় নতুন এক কাহিনি। ঠিক আগে মূসা (আঃ) ও ফিরআউনের কাহিনি শেষ হয়েছে একটি ধুয়া দিয়ে: এতে অবশ্যই নিদর্শন আছে, কিন্তু তাদের অধিকাংশই ঈমান আনেনি; আর আপনার রব পরাক্রমশালী, পরম দয়ালু (২৬:৬৭ ও ২৬:৬৮)। এই দুটি বাক্যই আবার ফিরে আসে ২৬:১০৩ ও ২৬:১০৪ আয়াতে, আর এ আয়াত যে কাহিনি খোলে সেটাকে বন্ধ করে। দুই ধুয়ার মাঝখানে পড়ে আছে সূরা শুআরার ইবরাহীম-অংশের পুরোটা।"
+          },
+          {
+            "en": "It is worth noticing how each account in the surah begins. Musa's opens with a call from his Lord: and when your Lord called Musa (26:10). The five that come after Ibrahim's all open the same way, with a people who denied the messengers: the people of Nuh (26:105), 'Ad (26:123), Thamud (26:141), the people of Lut (26:160) and the companions of the thicket (26:176). Only Ibrahim's account opens with an order to the Prophet ﷺ to recite. None of the commentators consulted here remarks on this, so it is offered as an observation from the text, not as anyone's explanation.",
+            "bn": "সূরার প্রতিটি কাহিনি কীভাবে শুরু হয়, তা খেয়াল করার মতো। মূসা (আঃ)-এর কাহিনি শুরু হয় রবের ডাক দিয়ে: যখন আপনার রব মূসাকে ডাকলেন (২৬:১০)। ইবরাহীম (আঃ)-এর পরের পাঁচটি কাহিনির শুরু একই ধাঁচের, এমন এক কওম দিয়ে যারা রাসূলদের মিথ্যাবাদী বলেছিল: নূহের কওম (২৬:১০৫), আদ (২৬:১২৩), সামূদ (২৬:১৪১), লূতের কওম (২৬:১৬০) আর আইকাবাসী (২৬:১৭৬)। শুধু ইবরাহীম (আঃ)-এর কাহিনিই শুরু হয় নবী ﷺ-কে পড়ে শোনানোর হুকুম দিয়ে। এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ পার্থক্য নিয়ে কিছু বলেনি। তাই এটা আয়াতের পাঠ থেকে একটি পর্যবেক্ষণ মাত্র, কারও দেওয়া ব্যাখ্যা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Meant by Them",
+          "bn": "ওদের বলতে কারা"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators read 'alayhim, to them, as the Prophet's own opponents. At-Tabari paraphrases: relate to your people from among the idolaters, O Muhammad, the report of Ibrahim. The Muyassar has: relate to the disbelievers, O Messenger, the report of Ibrahim. Al-Jalalayn, as given on quranx, names them the disbelievers of Makkah. Tanwir al-Miqbas, the commentary ascribed to Ibn Abbas, says unto Quraysh, your people. On this reading the news is carried into the Prophet's own city and set before the very people who were refusing him.",
+            "bn": "অধিকাংশ তাফসীরকার আলাইহিম, অর্থাৎ ওদেরকে, বলতে বোঝেন নবী ﷺ-এর নিজের বিরোধীদের। তাবারী কথাটা এভাবে খুলে বলেন: হে মুহাম্মাদ, আপনার কওমের মুশরিকদের কাছে ইবরাহীমের খবর বর্ণনা করুন। মুয়াসসার বলে: হে রাসূল, কাফিরদের কাছে ইবরাহীমের খবর বর্ণনা করুন। কুরআনএক্স-এ দেওয়া জালালাইনের পাঠে এরা মক্কার কাফির। ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত তাফসীর তানবীরুল মিকবাস বলে: কুরাইশদের কাছে, যারা আপনার কওম। এ পাঠে বৃত্তান্তটা পৌঁছে যায় নবী ﷺ-এর নিজের শহরে, ঠিক সেই লোকদের সামনে, যারা তাঁকে অস্বীকার করছিল।"
+          },
+          {
+            "en": "Two of the fetched texts frame the hearers differently. As-Sa'di writes: recite, O Muhammad, to the people (an-nas), with no narrowing to Makkah. Ibn Kathir names a different audience and gives a purpose. Allah commanded His Messenger, he says, to recite this to his community so that they would take Ibrahim as their model in sincerity, in reliance on Allah, in worshipping Allah alone with no partner, and in disowning shirk and its people. Here the listeners are the Prophet's followers, and the news is a pattern to copy rather than a charge to answer.",
+            "bn": "সংগৃহীত দুটি তাফসীর শ্রোতাদের অন্যভাবে দেখে। সা'দী লেখেন: হে মুহাম্মাদ, মানুষের কাছে পড়ে শোনান। এখানে মক্কার কোনো সীমা টানা হয়নি। ইবন কাসীর ভিন্ন শ্রোতার নাম নেন, সঙ্গে উদ্দেশ্যও বলে দেন। তাঁর ভাষায়, আল্লাহ তাঁর রাসূলকে হুকুম দিলেন এটা নিজের উম্মতকে পড়ে শোনাতে, যাতে তারা ইবরাহীম (আঃ)-কে আদর্শ বানায় ইখলাসে, আল্লাহর উপর ভরসায়, শরীকহীন এক আল্লাহর ইবাদতে, আর শিরক ও শিরককারীদের থেকে সম্পর্ক ছিন্ন করায়। এখানে শ্রোতা নবী ﷺ-এর অনুসারীরা। বৃত্তান্তটা তাদের জন্য জবাব দেওয়ার মতো অভিযোগ নয়, অনুসরণ করার মতো নমুনা।"
+          },
+          {
+            "en": "The texts do not argue with one another over this; each simply names its hearers, and the difference is kept here as it stands, with no side taken. What can be said is that the same four words bear both readings without strain. Told to men who claimed Ibrahim and worshipped idols, the news is evidence against them. Told to men who had already left the idols, it is a portrait of what they had chosen. The report does not change between the two rooms. What changes is where the listener stands when he hears it.",
+            "bn": "এ নিয়ে তাফসীরগুলো একে অপরের সঙ্গে তর্ক করে না। প্রত্যেকে শুধু নিজের শ্রোতার নাম বলে। পার্থক্যটা তাই এখানে যেমন আছে তেমনই রাখা হলো, কোনো পক্ষ নেওয়া হয়নি। এটুকু বলা যায় যে একই চারটি শব্দ দুই পাঠই অনায়াসে বহন করে। যারা ইবরাহীম (আঃ)-কে নিজেদের লোক বলে, অথচ মূর্তিপূজা করে, তাদের কাছে এ বৃত্তান্ত তাদের বিরুদ্ধে সাক্ষ্য। যারা মূর্তি ছেড়ে এসেছে, তাদের কাছে এটা নিজেদের বেছে নেওয়া পথের ছবি। দুই মজলিসে খবরটা একই থাকে। বদলায় শুধু শ্রোতা কোথায় দাঁড়িয়ে শুনছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Father They Turned From",
+          "bn": "যে পিতাকে তারা ছেড়ে গেল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi states the reason for the command briefly. With this verse, he says, Allah alerted the idolaters to the depth of their ignorance, in that they turned away from the belief and religion of Ibrahim, while he is their father. He glosses naba' as khabar, report, and the command as: relate to them, O Muhammad, his report and his story, and his faulting of his people for what they worshipped. Then he adds that this was said to bind the proof upon them, mulziman lahum al-hujja.",
+            "bn": "হুকুমটার কারণ কুরতুবী সংক্ষেপে বলে দেন। তাঁর মতে এ আয়াতে আল্লাহ মুশরিকদের সতর্ক করলেন তাদের অজ্ঞতা কত গভীর সে ব্যাপারে। তারা ইবরাহীম (আঃ)-এর আকীদা আর দ্বীন থেকে মুখ ফিরিয়ে নিয়েছে, অথচ তিনিই তাদের পিতা। নাবা শব্দের অর্থ তিনি করেন খবর। আর হুকুমের অর্থ করেন: হে মুহাম্মাদ, ওদের কাছে তাঁর খবর ও কাহিনি বর্ণনা করুন, আর বলুন কওম যার পূজা করত তা নিয়ে তিনি কীভাবে তাদের দোষ ধরেছিলেন। তারপর যোগ করেন, কথাটা বলা হয়েছে তাদের উপর দলিল চাপিয়ে দিতে, মুলযিমান লাহুমুল হুজ্জাহ।"
+          },
+          {
+            "en": "Two details in that comment reach back into the Qur'an. The verb al-Qurtubi uses, raghibu 'an, to turn away from, is the verb of 2:130: and who would turn away from the way of Ibrahim except him who makes a fool of himself? And the Qur'an itself calls him the hearers' father in 22:78, the way of your father Ibrahim. Al-Qurtubi's argument works because the Makkans granted its first step. They did not dispute that Ibrahim was theirs. The proof is binding precisely because it is built from what they already claimed.",
+            "bn": "কুরতুবীর ওই মন্তব্যের দুটি জিনিস কুরআনের ভেতরেই ফিরে যায়। তিনি যে ক্রিয়াটি ব্যবহার করেন, রাগিবূ আন, অর্থাৎ মুখ ফিরিয়ে নেওয়া, সেটাই ২:১৩০ আয়াতের ক্রিয়া: যে নিজেকে নির্বোধ বানিয়েছে, সে ছাড়া আর কে ইবরাহীমের মিল্লাত থেকে মুখ ফেরাবে? আর ২২:৭৮ আয়াতে কুরআন নিজেই তাঁকে শ্রোতাদের পিতা বলেছে: তোমাদের পিতা ইবরাহীমের মিল্লাত। কুরতুবীর যুক্তি দাঁড়ায় এ কারণে যে মক্কার লোকেরা তার প্রথম ধাপটা মেনেই নিয়েছিল। ইবরাহীম (আঃ) যে তাদের, এ নিয়ে তারা কোনো আপত্তি তোলেনি। দলিলটা ঠিক এজন্যই এড়ানো যায় না, কারণ তা গড়া হয়েছে তাদের নিজেদের দাবি দিয়েই।"
+          },
+          {
+            "en": "Maududi, in Tafhim al-Qur'an as given on quranx, makes the same point at length on 26:69 to 26:89. The Qur'an repeats this part of Ibrahim's story so often, he writes, because the Arabs in general and Quraysh in particular regarded themselves as his followers and professed his way, while Jews and Christians also claimed him. So the Qur'an reminds them that the creed Ibrahim brought is the one the Prophet ﷺ was now presenting and they were opposing, and that Ibrahim was no worshipper of partners but an opponent of shirk.",
+            "bn": "মওদূদী কুরআনএক্স-এ দেওয়া তাফহীমুল কুরআনে ২৬:৬৯ থেকে ২৬:৮৯ আয়াতের আলোচনায় একই কথা বিস্তারিত বলেন। তাঁর মতে কুরআন ইবরাহীম (আঃ)-এর কাহিনির এ অংশ বারবার ফিরিয়ে আনে, কারণ সাধারণভাবে আরবরা, আর বিশেষ করে কুরাইশরা, নিজেদের তাঁর অনুসারী মনে করত এবং তাঁর পথের দাবিদার ছিল। ইহুদি ও খ্রিস্টানরাও তাঁকে নিজেদের বলে দাবি করত। তাই কুরআন তাদের মনে করিয়ে দেয়, ইবরাহীম (আঃ) যে দ্বীন এনেছিলেন, নবী ﷺ এখন সেটাই পেশ করছেন, আর তারা সেটারই বিরোধিতা করছে। ইবরাহীম (আঃ) মুশরিক ছিলেন না, ছিলেন শিরকের বিরোধী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which News, and Why This One",
+          "bn": "কোন বৃত্তান্ত, কেন এটাই"
+        },
+        "p": [
+          {
+            "en": "Ibrahim (AS) has many stories in the Qur'an, and as-Sa'di asks which one is meant. Recite the news of Ibrahim al-Khalil, he writes, and his majestic report, in this situation specifically, for otherwise he has many reports. But among the most wondrous and the best of them is this one, because it contains his mission, his calling of his people, his arguing with them, and his showing that what they were upon was false. On as-Sa'di's reading the verse selects; it points to one episode out of many and says, this one.",
+            "bn": "কুরআনে ইবরাহীম (আঃ)-এর কাহিনি অনেক। সা'দী তাই প্রশ্ন তোলেন, এখানে কোনটির কথা বলা হচ্ছে। তিনি লেখেন: ইবরাহীম খলীলের বৃত্তান্ত আর তাঁর মহান খবর পড়ে শোনান, বিশেষভাবে এই অবস্থার খবর। নইলে তাঁর খবর তো অনেক। তবে সেগুলোর মধ্যে সবচেয়ে বিস্ময়কর আর সবচেয়ে উত্তম এটাই, কারণ এতে আছে তাঁর রিসালাত, কওমকে দাওয়াত, তাদের সঙ্গে বিতর্ক, আর তারা যে পথে ছিল তা বাতিল প্রমাণ করা। সা'দীর পাঠে আয়াতটি বাছাই করে। অনেক ঘটনার ভেতর থেকে একটির দিকে আঙুল তুলে বলে: এটা।"
+          },
+          {
+            "en": "Two other texts show the selection in the grammar. The Muyassar runs 26:69 and 26:70 together as one sentence: relate the report of Ibrahim, when he said to his father and his people, what thing do you worship? Al-Jalalayn says the when-clause of 26:70 is a badal, a substitute, for the name Ibrahim just before it. On both, the news is not a general life of Ibrahim but that moment of questioning. What follows in 26:70 to 26:74, the question, the answer about idols, the appeal to the fathers, is the substance of what is to be recited.",
+            "bn": "আরও দুটি তাফসীরে এ বাছাই ধরা পড়ে ব্যাকরণে। মুয়াসসার ২৬:৬৯ ও ২৬:৭০ জুড়ে একটি বাক্য বানায়: ইবরাহীমের খবর বর্ণনা করুন, যখন তিনি নিজের পিতা ও কওমকে বললেন, তোমরা কোন জিনিসের ইবাদত কর? জালালাইন বলেন, ২৬:৭০ আয়াতের ইয ক্বালা অংশটি বদল, অর্থাৎ ঠিক আগের ইবরাহীম নামটির বিকল্প। দুই পাঠেই খবরটা ইবরাহীম (আঃ)-এর গোটা জীবনী নয়, প্রশ্ন করার সেই মুহূর্তটুকু। এরপর ২৬:৭০ থেকে ২৬:৭৪ আয়াতে যা আসে, প্রশ্ন, মূর্তি নিয়ে জবাব, বাপ-দাদার দোহাই, সেটাই পড়ে শোনানোর আসল বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Two Hamzas Meet",
+          "bn": "যেখানে দুই হামযা মেলে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi also stops on the sound of the phrase. Naba'a Ibrahim brings two hamzas together, one closing naba' and one opening Ibrahim. Most of the reciters, he says, lighten the second, and this is the best of the ways, because they agreed on lightening the second of two hamzas that meet within a single word, as in Adam. A reader may also, he says, give both their full sound, lighten both, or lighten only the first, and he sets each out as a permitted option rather than a fault.",
+            "bn": "কুরতুবী বাক্যাংশটির উচ্চারণেও থামেন। নাবাআ ইবরাহীম-এ দুটি হামযা পাশাপাশি এসে যায়, একটি নাবা শব্দের শেষে, আরেকটি ইবরাহীম শব্দের শুরুতে। তিনি বলেন, অধিকাংশ কারী দ্বিতীয়টিকে হালকা করে পড়েন, আর এটাই সবচেয়ে ভালো পদ্ধতি। কারণ এক শব্দের ভেতরে দুই হামযা মিললে দ্বিতীয়টিকে হালকা করায় তাঁরা একমত, যেমন আদম শব্দে। তিনি আরও বলেন, চাইলে দুটোকেই পূর্ণ উচ্চারণে পড়া যায়, দুটোকেই হালকা করা যায়, কিংবা শুধু প্রথমটিকে হালকা করা যায়। প্রতিটিকে তিনি ভুল হিসেবে নয়, বৈধ বিকল্প হিসেবে উল্লেখ করেন।"
+          },
+          {
+            "en": "He then names a fifth way and sets it aside: merging one hamza into the other. It is remote in Arabic, he explains, because it joins two hamzas as though they stood in one word, whereas merging is natural only in the fa''al pattern, as ra''as for a seller of heads, since that pattern never comes unmerged. The point for a reader is small but real. The four words that open this account were weighed by the scholars not only for their meaning but down to the meeting of two letters.",
+            "bn": "তারপর তিনি পঞ্চম একটি পদ্ধতির কথা বলেন এবং সেটা সরিয়ে রাখেন: এক হামযাকে অন্যটির ভেতরে মিলিয়ে দেওয়া, অর্থাৎ ইদগাম। তাঁর ব্যাখ্যায় আরবিতে এটা দূরবর্তী, কারণ এতে দুই শব্দের দুই হামযাকে এক শব্দের মতো জোড়া হয়। ইদগাম স্বাভাবিক শুধু ফাআআল ওজনে, যেমন মাথা বিক্রেতাকে বলা হয় রাআস, কারণ ওই ওজন মিলিত রূপ ছাড়া আসেই না। পাঠকের জন্য কথাটা ছোট, কিন্তু সত্য। এ কাহিনি যে চারটি শব্দে খোলে, আলেমরা সেগুলো শুধু অর্থের দিক থেকে নয়, দুটি অক্ষরের মিলনস্থল পর্যন্ত মেপে দেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Command Elsewhere",
+          "bn": "অন্য জায়গায় একই হুকুম"
+        },
+        "p": [
+          {
+            "en": "The words wa-tlu 'alayhim naba' open three other passages in the Qur'an. In 5:27 the Prophet ﷺ is told to recite the news of the two sons of Adam; in 7:175, the news of the man who was given Our signs and slipped away from them; in 10:71, the news of Nuh (AS) and his people. At-Tabari, al-Qurtubi and the Muyassar all gloss utlu in 26:69 with uqsus, relate, tell the story. In each case a report from the past is carried to listeners in the present and set down in front of them.",
+            "bn": "ওয়াতলু আলাইহিম নাবা, এ শব্দগুলো দিয়ে কুরআনের আরও তিনটি অংশ শুরু হয়েছে। ৫:২৭ আয়াতে নবী ﷺ-কে বলা হয়েছে আদমের দুই পুত্রের বৃত্তান্ত পড়ে শোনাতে। ৭:১৭৫ আয়াতে সেই লোকের বৃত্তান্ত, যাকে আল্লাহ নিজের নিদর্শন দিয়েছিলেন, আর সে সেগুলো থেকে বেরিয়ে গেল। ১০:৭১ আয়াতে নূহ (আঃ) ও তাঁর কওমের বৃত্তান্ত। তাবারী, কুরতুবী আর মুয়াসসার, তিনজনই ২৬:৬৯ আয়াতে উতলু শব্দের ব্যাখ্যা করেন উকসুস দিয়ে, অর্থাৎ বর্ণনা করুন, কাহিনিটা বলুন। প্রতিবারই অতীতের একটি খবর বর্তমানের শ্রোতাদের কাছে বয়ে আনা হয়, তাদের সামনে নামিয়ে রাখা হয়।"
+          },
+          {
+            "en": "Read together, the four passages share a shape: a figure from the past, an audience in the present, and a report the audience is meant to find itself in. What sets 26:69 apart is who the figure is to the people listening. The other three reports are about someone the hearers are asked to look at. Ibrahim, on al-Qurtubi's reading, is someone these hearers already looked to: they called him their father. A story about strangers can be heard from a distance. A story about one's own forefather has nowhere to hide from.",
+            "bn": "চারটি অংশ একসঙ্গে পড়লে একটি ছাঁচ চোখে পড়ে: অতীতের এক চরিত্র, বর্তমানের এক দল শ্রোতা, আর এমন এক খবর, যার ভেতরে শ্রোতারা নিজেদের খুঁজে পাবে বলে আশা করা হয়। ২৬:৬৯ আলাদা হয়ে যায় একটি জায়গায়: শ্রোতাদের কাছে চরিত্রটি কে। বাকি তিনটি খবরে শ্রোতাদের বলা হয় কারও দিকে তাকিয়ে দেখতে। কিন্তু কুরতুবীর পাঠে ইবরাহীম (আঃ)-এর দিকে এ শ্রোতারা আগে থেকেই তাকিয়ে ছিল, কারণ তারা তাঁকে নিজেদের পিতা বলত। অচেনা লোকের কাহিনি দূর থেকে শোনা যায়। নিজের পূর্বপুরুষের কাহিনি শুনলে লুকানোর জায়গা থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Left Among His Line",
+          "bn": "বংশধরদের মধ্যে রেখে যাওয়া কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his comment by naming who Ibrahim (AS) is: Allah's servant, His messenger and His intimate friend, imam al-hunafa', the leader of those who turned purely to Allah. In the English abridgement of his tafsir, under these verses, he sets 26:69 beside 60:4, there has been an excellent example for you in Ibrahim, and beside 43:26 to 43:28. The last of these reads: and he made it a word remaining among his descendants, that they might return. Ibn Kathir explains that word as la ilaha illallah.",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শুরু করেন ইবরাহীম (আঃ)-এর পরিচয় দিয়ে: আল্লাহর বান্দা, তাঁর রাসূল ও তাঁর খলীল, ইমামুল হুনাফা, অর্থাৎ যাঁরা খাঁটিভাবে আল্লাহর দিকে ফিরেছেন তাঁদের ইমাম। তাঁর তাফসীরের ইংরেজি সংক্ষিপ্ত সংস্করণে এ আয়াতগুলোর আলোচনায় তিনি ২৬:৬৯-এর পাশে রাখেন ৬০:৪ আয়াত, যেখানে বলা হয়েছে ইবরাহীমের মধ্যে তোমাদের জন্য উত্তম আদর্শ আছে। সঙ্গে রাখেন ৪৩:২৬ থেকে ৪৩:২৮ আয়াত। এর শেষটিতে আছে: আর এ কথাকে সে তার বংশধরদের মধ্যে টিকে থাকা এক বাণী বানিয়ে দিল, যাতে তারা ফিরে আসে। ইবন কাসীর সেই বাণীর ব্যাখ্যা করেন লা ইলাহা ইল্লাল্লাহ দিয়ে।"
+          },
+          {
+            "en": "Put al-Qurtubi's line beside that verse and the command gains a sharper edge. If Ibrahim is these hearers' father, as al-Qurtubi says, then they are among the descendants in whom the word was left, and 43:28 names its purpose: that they might return. Reciting his news to them is then not an outsider's lecture. It is the word they were left, read back to the heirs who had let it go. That connection is drawn here by setting the two commentators side by side; neither of them states it.",
+            "bn": "কুরতুবীর কথাটা ওই আয়াতের পাশে রাখলে হুকুমটা আরও ধারালো হয়ে ওঠে। কুরতুবী যেমন বলেন, ইবরাহীম (আঃ) যদি এ শ্রোতাদের পিতা হন, তবে তারাও সেই বংশধরদের মধ্যে পড়ে, যাদের মাঝে বাণীটা রেখে যাওয়া হয়েছিল। আর ৪৩:২৮ আয়াত তার উদ্দেশ্যও বলে দেয়: যাতে তারা ফিরে আসে। তাহলে তাদের কাছে তাঁর বৃত্তান্ত পড়ে শোনানো বাইরের কারও উপদেশ নয়। এ সেই বাণী, যা তাদের জন্য রেখে যাওয়া হয়েছিল, এখন তা হারিয়ে ফেলা উত্তরসূরিদের সামনে আবার পড়া হচ্ছে। এ যোগসূত্র এখানে টানা হয়েছে দুই তাফসীরকারকে পাশাপাশি রেখে। তাঁদের কেউ নিজে কথাটা বলেননি।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it. A sound narration not tied to the verse shows the gap between claiming Ibrahim and keeping his way. In Sahih al-Bukhari (1601), Ibn Abbas narrates: when the Messenger of Allah ﷺ arrived, he refused to enter the House while the idols were in it, and ordered them out. Out came an image of Ibrahim and Isma'il holding divining arrows, and he said: May Allah destroy them; by Allah, they knew that the two never sought a decision by them at all. Then he entered the House, proclaimed takbir in its corners, and did not pray in it.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস জোড়েনি। তবে আয়াতের সঙ্গে সরাসরি যুক্ত নয় এমন একটি সহীহ বর্ণনায় সেই একই দূরত্ব দেখা যায়, ইবরাহীম (আঃ)-কে দাবি করা আর তাঁর পথে থাকার মধ্যে। সহীহ বুখারীতে (১৬০১) ইবন আব্বাস (রাঃ) বর্ণনা করেন: রাসূলুল্লাহ ﷺ যখন এলেন, ভেতরে মূর্তি থাকা অবস্থায় তিনি বাইতুল্লাহয় ঢুকতে রাজি হলেন না, সেগুলো বের করার হুকুম দিলেন। লোকেরা ইবরাহীম ও ইসমাঈলের একটি ছবি বের করল, দুজনের হাতে ভাগ্য নির্ণয়ের তীর। তিনি বললেন: আল্লাহ ওদের ধ্বংস করুন। আল্লাহর কসম, ওরা জানত, ওই দুজন কখনো এ তীর দিয়ে ভাগ্য নির্ণয় করেননি। তারপর তিনি ভেতরে ঢুকলেন, এর কোণে কোণে তাকবীর দিলেন, কিন্তু সেখানে নামায পড়লেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Claiming Him, Walking His Way",
+          "bn": "দাবি এক কথা, পথচলা আরেক"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse sets the news of Ibrahim before a particular audience, and the account it opens describes what the text describes: Ibrahim's people, their idols and their answers. The narration describes one day at the House. Neither licenses anything against any living person or community, whether a people, a city or a lineage, and neither invites a reader to sort others into heirs and pretenders. Ibrahim's people are a case the Qur'an recites, not a label to be put on anyone now.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ইবরাহীম (আঃ)-এর বৃত্তান্ত নির্দিষ্ট এক দল শ্রোতার সামনে রাখে। আর যে কাহিনি এ আয়াত খোলে, তা ঠিক ততটুকুই বর্ণনা করে যতটুকু আয়াতে আছে: ইবরাহীম (আঃ)-এর কওম, তাদের মূর্তি আর তাদের জবাব। হাদীসটিও বাইতুল্লাহর একটি দিনের বর্ণনা। এর কোনোটিই আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি দেয় না, সে কোনো জাতি হোক, শহর হোক বা বংশ। অন্যদের খাঁটি উত্তরসূরি আর ভুয়া দাবিদারে ভাগ করার আহ্বানও এতে নেই। ইবরাহীম (আঃ)-এর কওম কুরআনের পড়ে শোনানো একটি দৃষ্টান্ত, আজ কারও গায়ে লাগানোর তকমা নয়।"
+          },
+          {
+            "en": "The question the verse leaves is for the one who hears it. Every reader claims someone: a prophet, a parent, a teacher, a school of learning, a tradition. The Makkans' claim on Ibrahim was the very premise used to answer them, and the same premise can be turned on anyone who leans on a righteous name. Ibn Kathir's list is a fair measure of whether the claim is kept: sincerity, reliance on Allah, worship of Him alone, and a clean break from shirk. A name can be inherited. The path has to be walked.",
+            "bn": "আয়াতটি যে প্রশ্ন রেখে যায়, তা শ্রোতার নিজের জন্য। প্রত্যেক পাঠকই কারও না কারও নাম নেয়: কোনো নবী, বাবা-মা, উস্তাদ, কোনো ইলমী ঘরানা বা ধারা। ইবরাহীম (আঃ)-এর উপর মক্কাবাসীর দাবিটাই ছিল সেই ভিত্তি, যা দিয়ে তাদের জবাব দেওয়া হয়েছিল। যে-ই কোনো নেক নামের উপর ভর দেয়, তার দিকেও একই ভিত্তি ঘুরিয়ে দেওয়া যায়। দাবিটা টিকে আছে কি না, তা মাপার ভালো মানদণ্ড ইবন কাসীরের তালিকা: ইখলাস, আল্লাহর উপর ভরসা, শুধু তাঁরই ইবাদত, আর শিরক থেকে পরিষ্কার বিচ্ছেদ। নাম উত্তরাধিকারে পাওয়া যায়। পথ কিন্তু নিজের পায়ে হাঁটতে হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:75": {
     "sections": [
       {

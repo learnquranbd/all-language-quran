@@ -24351,6 +24351,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The danger is not only rejecting a reminder but ceasing to feel it; guard the heart that still softens when it is warned, before advice and silence sound the same.",
     "lessonBn": "বিপদ শুধু উপদেশ প্রত্যাখ্যানে নয়, উপদেশ আর গায়ে না লাগাতেও। সতর্ক করলে যে মন এখনো নরম হয়, তাকে আগলে রাখুন, যেন নসীহত আর নীরবতা একসময় একই রকম না শোনায়।"
+  },
+  "26:69": {
+    "reflectionEn": "Musa's account has just closed with its refrain, and the next opens not with a scene but with a command: recite to them the news of Ibrahim. The first hearers in Makkah counted him as their forefather. So the story put before them was their own, and it turned to face them. The man they claimed had asked his father and his people one plain question about what they worshipped, and he accepted no answer but the one Lord. A name can be inherited; a path has to be walked. If I claim a righteous forebear, a teacher or a tradition, would that person recognise what I do in their name? When it is recited to me, do I hear praise of my family, or a question?",
+    "reflectionBn": "মূসা (আঃ)-এর কাহিনি সবে তার চেনা ধুয়া দিয়ে শেষ হয়েছে। পরের কাহিনি শুরু হয় কোনো দৃশ্য দিয়ে নয়, একটি হুকুম দিয়ে: ওদেরকে ইবরাহীমের বৃত্তান্ত শুনিয়ে দাও। মক্কার প্রথম শ্রোতারা তাঁকে নিজেদের পূর্বপুরুষ বলে জানত। তাই যে কাহিনি তাদের সামনে রাখা হলো, তা তাদেরই ঘরের কাহিনি, আর সেটাই ঘুরে দাঁড়াল তাদের দিকে। যাঁকে তারা নিজেদের লোক বলে দাবি করত, তিনি নিজের পিতা ও কওমকে সোজা একটি প্রশ্ন করেছিলেন: তোমরা কিসের ইবাদত কর? এক রব ছাড়া আর কোনো জবাব তিনি মেনে নেননি। নাম উত্তরাধিকারে পাওয়া যায়, পথ কিন্তু নিজের পায়ে হাঁটতে হয়। আমি যদি কোনো নেক পূর্বপুরুষ, উস্তাদ বা ধারার নাম নিই, তাঁর নামে আমি যা করি তা দেখে কি তিনি নিজের বলে চিনতে পারবেন? এ বৃত্তান্ত যখন আমাকে শোনানো হয়, আমি কি তাতে নিজের বংশের প্রশংসা শুনি, নাকি আমার দিকে ছোড়া একটি প্রশ্ন?",
+    "pointsEn": [
+      "Whose righteous name do I lean on, a parent, a teacher or a tradition, and would they recognise my practice as theirs?",
+      "When I hear a prophet's story, do I hear it as news about other people, or as a question addressed to me?",
+      "What in my own worship have I kept only because it came with the family, without asking what it rests on?",
+      "Do the people around me see the way of Ibrahim in what I do, or only hear me claim it?",
+      "Is there a story I tell about my own people's virtue that, told honestly, would judge us instead?"
+    ],
+    "pointsBn": [
+      "কার নেক নামের উপর আমি ভর দিয়ে আছি: বাবা-মা, উস্তাদ, নাকি কোনো ধারা? আমার আমল দেখে তাঁরা কি সেটাকে নিজেদের বলে চিনবেন?",
+      "কোনো নবীর কাহিনি শুনলে আমি কি সেটাকে অন্য লোকের খবর হিসেবে শুনি, নাকি আমাকেই করা একটি প্রশ্ন হিসেবে?",
+      "আমার ইবাদতের কোন অংশ শুধু পরিবার থেকে পেয়েছি বলে ধরে রেখেছি, কখনো জিজ্ঞেস না করে যে তার ভিত্তি কী?",
+      "আশপাশের মানুষ কি আমার কাজে ইবরাহীম (আঃ)-এর পথ দেখতে পায়, নাকি শুধু আমার মুখে দাবিটা শোনে?",
+      "নিজের লোকদের গুণ নিয়ে এমন কোনো গল্প কি আমি বলি, যা সৎভাবে বললে উল্টো আমাদেরই বিচার করে বসবে?"
+    ],
+    "lessonEn": "A righteous forefather is worth nothing to you unless you walk his path; let the news of Ibrahim question you before it flatters you.",
+    "lessonBn": "নেক পূর্বপুরুষের পথে না হাঁটলে তাঁর নাম আপনার কোনো কাজে আসবে না; ইবরাহীম (আঃ)-এর বৃত্তান্ত আপনাকে খুশি করার আগে আপনাকে প্রশ্ন করুক।"
   }
 };
 
