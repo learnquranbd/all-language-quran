@@ -27229,6 +27229,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let knowing that there is no god but Allah lead you to ask forgiveness for yourself and every believer, and meet a hard command with obedience, not only with wishing.",
     "lessonBn": "আল্লাহ ছাড়া কোনো ইলাহ নেই, এ জানা যেন আপনাকে নিজের ও সব মুমিনের জন্য ক্ষমা চাইতে শেখায়। আর কঠিন হুকুম এলে শুধু চেয়ে থেমে না থেকে আনুগত্য দিয়ে তাকে গ্রহণ করুন।"
+  },
+  "48:10": {
+    "reflectionEn": "A man stretches out his hand under a tree, and the Messenger's hand closes over it. The verse says something startling about that grip: whoever pledges to the Messenger pledges to Allah, and the hand of Allah is over their hands. A promise made to him was never only a matter between two men. Then the verse turns the weight back on the one who promised. Breaking it harms no one but the breaker; keeping it in full brings a great reward. Most of my promises are not made under a tree. They are said quickly, to a parent, a spouse, an employer, or to Allah in a hard hour. Do I remember that He hears each of them, and that when one slips, the loss lands first on me?",
+    "reflectionBn": "গাছের নিচে একজন মানুষ হাত বাড়িয়ে দেন, আর রাসূল ﷺ-এর হাত সেই হাত মুঠোয় নেয়। সেই হাত মেলানো নিয়ে আয়াতটি চমকে দেওয়ার মতো এক কথা বলে: যারা রাসূলের কাছে বাই'আত করে, তারা আসলে আল্লাহর কাছেই বাই'আত করে, আর তাদের হাতের উপর আল্লাহর হাত। তাঁর সঙ্গে করা ওয়াদা কখনোই শুধু দুজন মানুষের মধ্যকার ব্যাপার ছিল না। তারপর আয়াতটি দায়টা ফিরিয়ে দেয় যে ওয়াদা করেছে তার কাঁধে। ভাঙলে ক্ষতি হয় শুধু ভঙ্গকারীর নিজের, পুরোপুরি রাখলে মেলে মহা পুরস্কার। আমার বেশির ভাগ ওয়াদা গাছের নিচে হয় না। তাড়াহুড়োয় মুখ থেকে বেরিয়ে যায়, বাবা-মাকে, স্বামী বা স্ত্রীকে, মালিককে, কিংবা বিপদের মুহূর্তে আল্লাহকে। আমার কি মনে থাকে যে তিনি প্রতিটি কথা শোনেন? আর একটা ওয়াদা হাত ফসকে গেলে লোকসানটা আগে আমার ঘাড়েই পড়ে?",
+    "pointsEn": [
+      "Which promise did I make to Allah in a hard moment and then quietly let go of once the moment passed?",
+      "When I give my word to another person, do I treat it as something Allah hears, or only as a matter between the two of us?",
+      "Where have I told myself that breaking a commitment hurts only the other side, when the verse says the harm returns to me?",
+      "Which one promise could I keep in full this week, not merely enough to get by?",
+      "Is there an old pledge I need to renew, the way a hand can be given a second time?"
+    ],
+    "pointsBn": [
+      "কঠিন মুহূর্তে আল্লাহর কাছে কোন ওয়াদা করেছিলাম, যা বিপদ কেটে যাওয়ার পর চুপচাপ ছেড়ে দিয়েছি?",
+      "কাউকে কথা দিলে আমি কি মনে রাখি যে আল্লাহ তা শুনছেন, নাকি ভাবি এটা শুধু আমাদের দুজনের ব্যাপার?",
+      "কোথায় নিজেকে বুঝিয়েছি যে কথা ভাঙলে ক্ষতি শুধু অপর পক্ষের, অথচ আয়াত বলছে ক্ষতিটা ফিরে আসে আমার উপরেই?",
+      "এ সপ্তাহে কোন একটি ওয়াদা আমি পুরোপুরি রাখতে পারি, কোনোমতে দায়সারা নয়?",
+      "পুরোনো কোনো অঙ্গীকার কি আছে যা আবার নতুন করে করা দরকার, যেমন হাত দ্বিতীয়বারও বাড়িয়ে দেওয়া যায়?"
+    ],
+    "lessonEn": "A pledge made for Allah's sake is made to Allah: breaking it harms only the one who breaks it, and keeping it in full is met with a great reward.",
+    "lessonBn": "আল্লাহর জন্য করা অঙ্গীকার আসলে আল্লাহর সঙ্গেই করা: ভাঙলে ক্ষতি শুধু ভঙ্গকারীর নিজের, আর পুরোপুরি রাখলে তার জন্য আছে মহা পুরস্কার।"
   }
 };
 

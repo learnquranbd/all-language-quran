@@ -307,6 +307,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "48:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "Hands Given Under Oath",
+          "bn": "শপথে বাড়ানো হাত"
+        },
+        "p": [
+          {
+            "en": "Inna alladhina yubayi'unaka innama yubayi'una llah: those who pledge allegiance to you are pledging allegiance only to Allah. The verses just before set the frame. 48:8 sends the Prophet ﷺ as a witness, a bringer of good news and a warner, and 48:9 names the purpose: that people believe in Allah and His Messenger, support him and honour him. This verse turns to one act in which believers did exactly that, with their hands.",
+            "bn": "ইন্নাল্লাযীনা ইউবায়ি'ঊনাকা ইন্নামা ইউবায়ি'ঊনাল্লাহ: যারা তোমার কাছে বাই'আত করে, তারা আসলে আল্লাহর কাছেই বাই'আত করে। আগের দুটি আয়াত প্রেক্ষাপট তৈরি করে রেখেছে। ৪৮:৮ আয়াতে নবী ﷺ-কে পাঠানো হয়েছে সাক্ষী, সুসংবাদদাতা ও সতর্ককারী হিসেবে। ৪৮:৯ আয়াত উদ্দেশ্যটা বলে দেয়: মানুষ যেন আল্লাহ ও তাঁর রাসূলের উপর ঈমান আনে, তাঁকে সাহায্য করে, সম্মান করে। এ আয়াত চলে আসে একটি ঘটনায়, যেখানে মু'মিনরা ঠিক এ কাজটাই করেছিলেন, নিজেদের হাত বাড়িয়ে।"
+          },
+          {
+            "en": "At-Tabari names the occasion and the terms: those of your Companions who pledged to you at al-Hudaybiya that they would not flee when they met the enemy, nor turn their backs. He brings Mujahid's gloss, the day of al-Hudaybiya, and Qatada's: they are those who pledged on the day of al-Hudaybiya. Al-Qurtubi and as-Sa'di name it bay'at ar-ridwan, and al-Qurtubi notes that its account comes later in the surah. Ibn Kathir adds that it took place under a samura tree at al-Hudaybiya.",
+            "bn": "তাবারী ঘটনা আর শর্ত দুটোই বলে দেন: তোমার সাহাবিদের মধ্যে যারা হুদায়বিয়ায় তোমার কাছে বাই'আত করেছিল যে শত্রুর মুখোমুখি হলে তারা পালাবে না, পিঠ দেখাবে না। তিনি মুজাহিদের ব্যাখ্যা আনেন: হুদায়বিয়ার দিন। কাতাদার ব্যাখ্যাও আনেন: এরা তারাই, যারা হুদায়বিয়ার দিন বাই'আত করেছিল। কুরতুবী ও সা'দী একে বলেন বাই'আতুর রিদওয়ান। কুরতুবী জানিয়ে রাখেন, এর বিস্তারিত বিবরণ এই সূরারই পরের অংশে আসছে। ইবন কাসীর যোগ করেন, বাই'আতটি হয়েছিল হুদায়বিয়ায় একটি সামুরা গাছের নিচে।"
+          },
+          {
+            "en": "As-Sa'di calls it a special contract, one of whose requirements was that they would not flee, even if only a few of them remained. The story behind it, the rumour about 'Uthman (RA), the terms, the count of those present and the fate of the tree, is told in the article on 48:17 and 48:18. This article stays with the words of 48:10 and what they ask.",
+            "bn": "সা'দী একে বলেন এক বিশেষ চুক্তি। তার একটি অপরিহার্য শর্ত ছিল, তারা পালাবে না, যদি তাদের অল্প কয়েকজনও বাকি থাকে। এর পেছনের কাহিনি, উসমান (রাঃ)-কে নিয়ে গুজব, বাই'আতের শর্ত, উপস্থিত লোকের সংখ্যা আর গাছটির পরিণতি, বলা আছে ৪৮:১৭ ও ৪৮:১৮ আয়াতের প্রবন্ধে। এ প্রবন্ধ থাকবে ৪৮:১০ আয়াতের শব্দগুলো আর সেগুলো আমাদের কাছে কী চায়, তার সঙ্গেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pledging Him, Pledging Allah",
+          "bn": "রাসূলের হাতে, আল্লাহর কাছে"
+        },
+        "p": [
+          {
+            "en": "The particle innama, only, carries the claim: the pledge given to the Messenger ﷺ is in truth given to Allah. At-Tabari gives the reason: Allah guaranteed them Paradise for keeping faith with Him in it. Al-Qurtubi sets the verse beside 4:80: whoever obeys the Messenger has obeyed Allah. Ibn Kathir cites the same verse and says these words were spoken to honour, exalt and dignify the Messenger ﷺ.",
+            "bn": "ইন্নামা শব্দটির অর্থ কেবল, আর পুরো দাবিটা এই শব্দেই: রাসূল ﷺ-এর কাছে দেওয়া বাই'আত আসলে আল্লাহর কাছেই দেওয়া। তাবারী কারণ বলেন: এ বাই'আত রক্ষা করলে আল্লাহ তাদের জন্য জান্নাতের জামিন হয়েছেন। কুরতুবী আয়াতটির পাশে রাখেন ৪:৮০ আয়াত: যে রাসূলের আনুগত্য করল, সে আল্লাহরই আনুগত্য করল। ইবন কাসীরও একই আয়াত আনেন। তাঁর মতে কথাটি বলা হয়েছে রাসূল ﷺ-এর মর্যাদা, মহত্ত্ব ও সম্মান বাড়ানোর জন্য।"
+          },
+          {
+            "en": "Ibn Kathir then draws the conclusion: Allah Himself is taking the pledge, through His Messenger ﷺ. He sets beside it 9:111: Allah has purchased from the believers their lives and their wealth in exchange for Paradise. That verse closes: rejoice in your sale, bay'ikum, that you have contracted, baya'tum bihi, the very verb used here for pledging. Al-Baghawi: they pledge to Allah because they sold themselves to Him for Paradise. The Muyassar: they make the contract with Him, seeking His Paradise and His pleasure.",
+            "bn": "এরপর ইবন কাসীর সিদ্ধান্ত টানেন: বাই'আত নিচ্ছেন আল্লাহ নিজেই, তাঁর রাসূল ﷺ-এর মাধ্যমে। পাশে রাখেন ৯:১১১ আয়াত: আল্লাহ মু'মিনদের কাছ থেকে তাদের জান ও মাল কিনে নিয়েছেন জান্নাতের বিনিময়ে। সে আয়াতের শেষে বলা হয়েছে: তোমরা যে বেচাকেনা (বাই'ইকুম) সম্পন্ন করেছ (বায়া'তুম বিহী), তাতে আনন্দিত হও। এখানে বাই'আত বোঝাতে যে ক্রিয়া এসেছে, সেখানেও ঠিক সেটিই। বাগাভী বলেন: তারা আল্লাহর কাছে বাই'আত করছে, কারণ জান্নাতের বিনিময়ে নিজেদেরকে তাঁর কাছে বিক্রি করে দিয়েছে। মুয়াসসার বলে: তারা তাঁর সঙ্গেই চুক্তি করে, তাঁর জান্নাত ও সন্তুষ্টির আশায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reasons from purpose. The Companions pledged in order to act on Allah's command and win His pleasure, so placing their hands on the Prophet's hand ﷺ was tantamount to pledging at the hands of Allah. It adds that the parties placing their hands on each other is the traditional way of a pledge, though not a necessary condition of it.",
+            "bn": "মাআরিফুল কুরআন যুক্তি দেয় উদ্দেশ্যের দিক থেকে। সাহাবিরা বাই'আত করেছিলেন আল্লাহর হুকুম মানতে আর তাঁর সন্তুষ্টি পেতে। তাই নবী ﷺ-এর হাতে হাত রাখা ছিল আল্লাহর হাতে বাই'আত করার শামিল। সেখানে এ কথাও আছে যে দুই পক্ষের পরস্পরের হাতে হাত রাখা বাই'আতের প্রচলিত রীতি, তবে তা শর্ত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Stands Above the Hands",
+          "bn": "হাতের উপরে যা আছে"
+        },
+        "p": [
+          {
+            "en": "Then yadu llahi fawqa aydihim: the hand of Allah is over their hands. At-Tabari sets out two lines of interpretation. In the first, the hand of Allah is over their hands at the pledge, because in pledging to His Prophet ﷺ they were pledging to Allah. In the second, the strength of Allah is above their strength in supporting His Messenger ﷺ, since what they had pledged was to support him against the enemy. He lists both and does not choose between them.",
+            "bn": "তারপর ইয়াদুল্লাহি ফাওকা আইদীহিম: তাদের হাতের উপর আল্লাহর হাত। তাবারী এর ব্যাখ্যার দুটি ধারা তুলে ধরেন। প্রথমটিতে, বাই'আতের সময় তাদের হাতের উপর আল্লাহর হাত, কেননা নবী ﷺ-এর কাছে বাই'আত করে তারা আসলে আল্লাহর কাছেই বাই'আত করছিল। দ্বিতীয়টিতে, রাসূল ﷺ-কে সাহায্য করার ব্যাপারে আল্লাহর শক্তি তাদের শক্তির উপরে। কারণ তারা বাই'আত করেছিল শত্রুর বিরুদ্ধে তাঁকে সাহায্য করার উপরেই। তাবারী দুটোই উল্লেখ করেন, কোনোটিকে বেছে নেন না।"
+          },
+          {
+            "en": "Al-Baghawi brings three earlier voices. Ibn 'Abbas: the hand of Allah, in keeping what He promised them of good, is above their hands. As-Suddi: they would take the hand of the Messenger of Allah ﷺ and pledge to him, and the hand of Allah was above their hands in the pledging. Al-Kalbi: Allah's favour upon them in guiding them is above what they did in pledging.",
+            "bn": "বাগাভী আগের যুগের তিনজনের কথা আনেন। ইবন আব্বাস: তাদের জন্য যে কল্যাণের ওয়াদা আল্লাহ করেছেন, তা পূরণের ব্যাপারে আল্লাহর হাত তাদের হাতের উপরে। সুদ্দী: তারা রাসূলুল্লাহ ﷺ-এর হাত ধরে বাই'আত করছিল, আর বাই'আতের সেই মুহূর্তে আল্লাহর হাত ছিল তাদের হাতের উপর। কালবী: তারা বাই'আত করে যা করেছে, হিদায়াত দিয়ে আল্লাহ তাদের প্রতি যে অনুগ্রহ করেছেন তা তার চেয়ে বড়।"
+          },
+          {
+            "en": "Al-Qurtubi records the range in other forms. It is said: His hand in reward is above their hands in fulfilment, and His hand in favouring them with guidance is above their hands in obedience. Ibn Kaysan: the strength and help of Allah are above their strength and help. Most of these readings hear a comparison in fawqa, above: what came from Allah, as reward, favour or help, exceeded what the pledgers brought.",
+            "bn": "কুরতুবী একই বৈচিত্র্য লিপিবদ্ধ করেন অন্যভাবে। বলা হয়েছে: প্রতিদানে তাঁর হাত, ওয়াদা রক্ষায় তাদের হাতের উপরে। হিদায়াত দিয়ে অনুগ্রহে তাঁর হাত, আনুগত্যে তাদের হাতের উপরে। ইবন কায়সান বলেন: আল্লাহর শক্তি ও সাহায্য তাদের শক্তি ও সাহায্যের উপরে। এ ব্যাখ্যাগুলোর বেশির ভাগই ফাওকা, অর্থাৎ উপরে, শব্দটিতে একটা তুলনা দেখে। প্রতিদান হোক, অনুগ্রহ হোক বা সাহায্য, আল্লাহর কাছ থেকে যা এসেছে তা বাই'আতকারীদের দেওয়া জিনিসের চেয়ে বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seen and Heard as They Swore",
+          "bn": "শপথের মুহূর্তে তিনি দেখছিলেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the phrase as presence: He is present with them, hearing their words and seeing where they stand, knowing what they hide and what they show. The Muyassar says nearly the same in nearly the same words. On this reading the stress falls on who was watching as their hands met, and on what He knew of the intentions behind each grip.",
+            "bn": "ইবন কাসীর বাক্যটি পড়েন উপস্থিতির অর্থে: তিনি তাদের সঙ্গে আছেন, তাদের কথা শুনছেন, তাদের অবস্থান দেখছেন, তাদের ভেতর-বাহির সবই জানেন। মুয়াসসারও প্রায় হুবহু একই কথা বলে। এ পাঠে জোরটা পড়ে অন্য জায়গায়। হাতে হাত মেলানোর সময় কে দেখছিলেন, আর প্রতিটি হাতের পেছনের নিয়ত সম্পর্কে তিনি কী জানতেন, সেটাই মুখ্য।"
+          },
+          {
+            "en": "As-Sa'di reads it as emphasis. The pledge was so firmly bound, he says, that Allah said the hand of Allah is over their hands: as though they had pledged to Allah and clasped His hand by that pledge. All of this, he adds, is to strengthen and reinforce it, and to move them to keep it. That is why, in his reading, the next words turn at once to whoever breaks it.",
+            "bn": "সা'দী বাক্যটিকে দেখেন জোর দেওয়ার ভাষা হিসেবে। তাঁর কথায়, বাই'আতটা এত মজবুত ছিল যে আল্লাহ বললেন, তাদের হাতের উপর আল্লাহর হাত। যেন সেই বাই'আতের মাধ্যমে তারা আল্লাহর কাছেই বাই'আত করেছে, তাঁর সঙ্গে মুসাফাহা করেছে। তিনি যোগ করেন, এ সবই বাই'আতকে আরও পোক্ত ও শক্ত করার জন্য, আর তা রক্ষায় তাদের উদ্বুদ্ধ করার জন্য। এ কারণেই, তাঁর পাঠে, পরের কথাগুলো সঙ্গে সঙ্গে চলে যায় ভঙ্গকারীর দিকে।"
+          },
+          {
+            "en": "Two of the works also treat the phrase as touching on Allah's attributes. The Muyassar says the verse affirms the attribute of the hand for Allah in a way befitting Him, without likening and without asking how. Ma'arif al-Qur'an places Allah's hand among the mutashabihat, whose true nature cannot be known to us and should not be probed. Both are reported as the two works state them. This article does not enter that question; it keeps to what the verse asks of whoever pledges.",
+            "bn": "দুটি গ্রন্থ বাক্যটিকে আল্লাহর সিফাতের প্রসঙ্গেও আলোচনা করে। মুয়াসসার বলে, আয়াতটি আল্লাহর জন্য হাতের সিফাত সাব্যস্ত করে, তাঁর শানের উপযোগী রূপে, কোনো সাদৃশ্য ছাড়া, কেমন তা জিজ্ঞাসা ছাড়া। মাআরিফুল কুরআন আল্লাহর হাতকে রাখে মুতাশাবিহাতের মধ্যে। এর প্রকৃত স্বরূপ আমাদের জানা সম্ভব নয়, খোঁজাখুঁজি করাও উচিত নয়। দুটি বক্তব্যই এখানে দেওয়া হলো যেভাবে গ্রন্থ দুটিতে আছে। এ প্রবন্ধ সেই প্রশ্নে ঢুকছে না। যে বাই'আত করে, আয়াতটি তার কাছে কী চায়, প্রবন্ধ সেখানেই থাকছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Broken Against Oneself",
+          "bn": "ভাঙলে নিজেরই ক্ষতি"
+        },
+        "p": [
+          {
+            "en": "Fa-man nakatha fa-innama yankuthu 'ala nafsih: whoever breaks it breaks it only against himself. At-Tabari explains: whoever breaks his pledge to you, O Muhammad, failing to help you against your enemies and going against what he promised his Lord, harms none but himself, for he leaves those whom Allah promised Paradise for keeping it. As for the Messenger ﷺ, Allah would help him against his enemies whether a breaker broke it or kept it.",
+            "bn": "ফামান নাকাসা ফাইন্নামা ইয়ানকুসু 'আলা নাফসিহ: যে তা ভঙ্গ করে, সে ভঙ্গ করে কেবল নিজের বিরুদ্ধেই। তাবারী ব্যাখ্যা করেন: হে মুহাম্মাদ, যে তোমার সঙ্গে করা বাই'আত ভেঙে দেয়, শত্রুর বিরুদ্ধে তোমাকে সাহায্য করে না, রবের কাছে দেওয়া কথার বিপরীতে চলে, সে নিজেকে ছাড়া কারও ক্ষতি করে না। কারণ বাই'আত রক্ষার বিনিময়ে যাদের জন্য আল্লাহ জান্নাতের ওয়াদা করেছেন, সে তাদের দল থেকে বেরিয়ে যায়। আর রাসূল ﷺ-এর বেলায়, কেউ ভাঙুক বা রাখুক, আল্লাহ শত্রুর বিরুদ্ধে তাঁকে সাহায্য করবেনই।"
+          },
+          {
+            "en": "The others agree on where the harm lands. Ibn Kathir: its evil returns on the breaker, and Allah has no need of him. Al-Qurtubi: he has deprived himself of the reward and bound himself to the punishment. As-Sa'di: its ill consequence returns to him and its penalty reaches him. Ma'arif al-Qur'an adds that a pledge, once made, is binding and its violation unlawful, and the loss falls on the violator, not on Allah or His Messenger ﷺ.",
+            "bn": "ক্ষতিটা কোথায় গিয়ে পড়ে, তা নিয়ে বাকিরাও একমত। ইবন কাসীর: এর কুফল ভঙ্গকারীর উপরেই ফিরে আসে, আর আল্লাহ তার মুখাপেক্ষী নন। কুরতুবী: সে নিজেকে সওয়াব থেকে বঞ্চিত করেছে আর শাস্তি নিজের ঘাড়ে চাপিয়েছে। সা'দী: এর কুফল তার দিকেই ফেরে, এর শাস্তি তার কাছেই পৌঁছায়। মাআরিফুল কুরআন যোগ করে: বাই'আত একবার সম্পন্ন হলে তা বাধ্যতামূলক, তা ভাঙা নাজায়েয। ক্ষতি ভঙ্গকারীর, আল্লাহ বা তাঁর রাসূল ﷺ-এর নয়।"
+          },
+          {
+            "en": "The verse names no one who broke this pledge; it states a rule: whoever breaks. The verses after it, 48:11 and 48:12, turn to the bedouins who stayed behind, and are taken up in their own place. What the text says of breakers describes what it describes and licenses nothing against any living person or community. Its weight falls on the reader, who is asked whether his own word holds.",
+            "bn": "আয়াতটি এমন কারও নাম বলে না যে এ বাই'আত ভেঙেছিল। এটি একটা নিয়ম বলে: যে ভাঙে। পরের দুটি আয়াত, ৪৮:১১ ও ৪৮:১২, কথা বলে সেই বেদুইনদের নিয়ে যারা পেছনে থেকে গিয়েছিল। সে আলোচনা তার নিজের জায়গায়। ভঙ্গকারী সম্পর্কে আয়াত যা বলে, তা কেবল সেটুকুই বর্ণনা করে। এতে আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি নেই। এর ভার পড়ে পাঠকের উপর। প্রশ্নটা তাকেই করা হচ্ছে: তার নিজের কথা কি টেকে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fulfilled, and What It Earns",
+          "bn": "পুরো রাখা, আর তার প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "Wa man awfa bima 'ahada 'alayhu llah: and whoever fulfils what he has pledged to Allah. At-Tabari names its content: patience when meeting the enemy in Allah's way and support of His Prophet ﷺ against his enemies, made firm with binding oaths. Al-Qurtubi records two views of what is fulfilled: it is said, the pledge; and it is said, his faith. As-Sa'di: bringing it complete and in full measure. Al-Baghawi: standing firm on the pledge.",
+            "bn": "ওয়া মান আওফা বিমা 'আহাদা 'আলাইহুল্লাহ: আর যে আল্লাহর সঙ্গে করা অঙ্গীকার পূর্ণ করে। অঙ্গীকারে কী ছিল, তাবারী তা বলেন: আল্লাহর পথে শত্রুর মুখোমুখি হলে ধৈর্য ধরা, আর শত্রুর বিরুদ্ধে তাঁর নবী ﷺ-কে সাহায্য করা, যা তারা পাকা করেছিল দৃঢ় কসম খেয়ে। কী পূর্ণ করা হচ্ছে, সে বিষয়ে কুরতুবী দুটি মত লিখেছেন: বলা হয়েছে, বাই'আত। আবার বলা হয়েছে, তার ঈমান। সা'দীর ব্যাখ্যায় আওফা মানে তা পূর্ণাঙ্গ ও ষোলো আনা আদায় করা। বাগাভী বলেন: বাই'আতের উপর অটল থাকা।"
+          },
+          {
+            "en": "Al-Qurtubi notes two points of recitation. Hafs and az-Zuhri read 'alayhu, as in the text shown in this app; the rest read 'alayhi. Nafi', Ibn Kathir and Ibn 'Amir read fa-sa-nu'tihi, We will give him, the reading al-Farra' and Abu Mu'adh chose; the rest read fa-sa-yu'tihi, He will give him, chosen by Abu 'Ubayd and Abu Hatim because the name of Allah stands close by. Al-Baghawi puts it by region: Iraq read ya', the others nun.",
+            "bn": "কুরতুবী এখানে কিরাআতের দুটি বিষয় উল্লেখ করেন। হাফস ও যুহরী পড়েছেন 'আলাইহু, এই অ্যাপে দেখানো পাঠেও তা-ই আছে। বাকিরা পড়েছেন 'আলাইহি। নাফি', ইবন কাসীর ও ইবন 'আমির পড়েছেন ফাসানু'তীহি, আমি তাকে দেব। ফাররা ও আবু মু'আয এ পাঠ বেছে নিয়েছেন। বাকিরা পড়েছেন ফাসাইউ'তীহি, তিনি তাকে দেবেন। আবু উবাইদ ও আবু হাতিম এটিই বেছে নিয়েছেন, কারণ আল্লাহর নাম কাছেই আছে। বাগাভী অঞ্চল ধরে বলেন: ইরাকের লোকেরা পড়েছেন ইয়া দিয়ে, বাকিরা নূন দিয়ে।"
+          },
+          {
+            "en": "Then ajran 'aziman, a great reward. At-Tabari: Allah will give him a great recompense, which is that He admits him to Paradise as a reward for keeping what he pledged to Allah, and he cites Qatada: it is Paradise. Al-Baghawi and the Muyassar also name Paradise, al-Qurtubi places the reward in Paradise, and Ibn Kathir calls it an abundant recompense. As-Sa'di leaves the measure open: a reward whose greatness and worth are known only to Him who gives it.",
+            "bn": "তারপর আজরান 'আযীমা, মহা পুরস্কার। তাবারী বলেন: আল্লাহ তাকে বিরাট প্রতিদান দেবেন। তা হলো, আল্লাহর সঙ্গে করা অঙ্গীকার রক্ষার পুরস্কার হিসেবে তাকে জান্নাতে প্রবেশ করাবেন। তিনি কাতাদার কথা আনেন: এ হলো জান্নাত। বাগাভী আর মুয়াসসারও জান্নাতের কথা বলে, কুরতুবী পুরস্কারটিকে রাখেন জান্নাতে, আর ইবন কাসীর বলেন প্রচুর সওয়াব। সা'দী পরিমাণটা খোলা রাখেন: এমন পুরস্কার, যার বিশালতা ও মূল্য তিনি ছাড়া কেউ জানে না যিনি তা দান করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Conquest al-Bara' Counted",
+          "bn": "বারা যাকে বিজয় গুনতেন"
+        },
+        "p": [
+          {
+            "en": "The commentators gather many narrations about the pledge, and the reports that differ over its terms are set out in the article on 48:17 and 48:18. Two reports in Sahih al-Bukhari, a collection al-Bukhari limited to reports he judged sound, add to this verse's picture. The first (4150) is from al-Bara' ibn 'Azib (RA), and shows how a man who was there weighed the day.",
+            "bn": "বাই'আত নিয়ে তাফসীরকারেরা অনেক বর্ণনা জড়ো করেছেন। বাই'আতের শর্ত নিয়ে যেসব বর্ণনায় মতভেদ আছে, সেগুলোর বিবরণ ৪৮:১৭ ও ৪৮:১৮ আয়াতের প্রবন্ধে। সহীহ বুখারীর দুটি বর্ণনা এ আয়াতের ছবিতে কিছু যোগ করে। ইমাম বুখারী এ গ্রন্থে কেবল সেসব বর্ণনা রেখেছেন যা তাঁর বিচারে সহীহ। প্রথমটি (৪১৫০) বারা ইবন আযিব (রাঃ)-এর। সেদিন যিনি উপস্থিত ছিলেন, দিনটাকে তিনি কীভাবে মূল্যায়ন করতেন, এতে তা বোঝা যায়।"
+          },
+          {
+            "en": "Al-Bara' said: 'You count the conquest as the conquest of Makka, and the conquest of Makka was indeed a conquest. We count the conquest as the Pledge of Ridwan on the day of al-Hudaybiya. We were fourteen hundred with the Prophet ﷺ.' He names no verse, but the conquest he reckoned is the pledge this verse describes. The figure of fourteen hundred is his, as the report gives it.",
+            "bn": "বারা (রাঃ) বলেন: 'তোমরা বিজয় বলতে মক্কা বিজয়কে গোনো। মক্কা বিজয় অবশ্যই বিজয় ছিল। কিন্তু আমরা বিজয় গুনি হুদায়বিয়ার দিনের বাই'আতুর রিদওয়ানকে। আমরা নবী ﷺ-এর সঙ্গে ছিলাম চৌদ্দশো জন।' তিনি কোনো আয়াতের নাম বলেননি। তবে যে বিজয় তিনি গুনতেন, তা সেই বাই'আতই যার বর্ণনা এ আয়াতে। চৌদ্দশো সংখ্যাটি তাঁর, বর্ণনায় যেভাবে আছে সেভাবেই।"
+          },
+          {
+            "en": "He went on: 'Al-Hudaybiya is a well. We drew it dry and did not leave a drop in it. That reached the Prophet ﷺ, and he came to it and sat on its edge. Then he called for a vessel of water, made wudu, rinsed his mouth and supplicated, then poured it into the well. We left it for a short while, and then it gave us all we wanted, for ourselves and our mounts.' Al-Bukhari includes it in his Sahih.",
+            "bn": "তিনি আরও বলেন: 'হুদায়বিয়া একটি কূপ। আমরা তার পানি তুলে তুলে শেষ করে ফেললাম, এক ফোঁটাও রাখলাম না। খবরটা নবী ﷺ-এর কাছে পৌঁছাল। তিনি এসে কূপের কিনারায় বসলেন। তারপর এক পাত্র পানি আনিয়ে ওযু করলেন, কুলি করলেন, দু'আ করলেন, তারপর পানিটা কূপে ঢেলে দিলেন। আমরা কিছুক্ষণ কূপটা ছেড়ে রাখলাম। তারপর আমরা আর আমাদের সওয়ারিরা যত চাইলাম, কূপ আমাদের তত পানি দিল।' ইমাম বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hand Offered Twice",
+          "bn": "দ্বিতীয়বার বাড়ানো হাত"
+        },
+        "p": [
+          {
+            "en": "The second report (2960) is from Salama ibn al-Akwa' (RA), as Yazid ibn Abi 'Ubayd relates it. Salama said: 'I pledged allegiance to the Prophet ﷺ, then turned aside to the shade of the tree. When the people had thinned, he said: Ibn al-Akwa', will you not pledge? I said: I have already pledged, O Messenger of Allah. He said: And again. So I pledged to him a second time.' Yazid said: 'I asked him: Abu Muslim, on what were you pledging that day? He said: Unto death.'",
+            "bn": "দ্বিতীয় বর্ণনাটি (২৯৬০) সালামা ইবনুল আকওয়া' (রাঃ)-এর, ইয়াযীদ ইবন আবী উবাইদ যেভাবে বর্ণনা করেছেন। সালামা বলেন: 'আমি নবী ﷺ-এর কাছে বাই'আত করলাম, তারপর সরে গিয়ে গাছের ছায়ায় বসলাম। ভিড় যখন হালকা হয়ে এল, তিনি বললেন: ইবনুল আকওয়া', তুমি বাই'আত করবে না? আমি বললাম: হে আল্লাহর রাসূল, আমি তো বাই'আত করেছি। তিনি বললেন: আবারও। তখন আমি দ্বিতীয়বার তাঁর কাছে বাই'আত করলাম।' ইয়াযীদ বলেন: 'আমি তাঁকে জিজ্ঞেস করলাম, হে আবু মুসলিম, সেদিন আপনারা কিসের উপর বাই'আত করছিলেন? তিনি বললেন: মৃত্যুর উপর।'"
+          },
+          {
+            "en": "Al-Bukhari includes it in his Sahih. The answer at its end, unto death, is Salama's own; the reports that give the terms differently are left to the article on 48:17 and 48:18. What the report adds here is the scene: a pledge given hand in hand, and a man asked to give his hand again though he already had. The report does not say why, and this article does not guess.",
+            "bn": "ইমাম বুখারী এটি তাঁর সহীহ গ্রন্থে এনেছেন। শেষের উত্তরটি, মৃত্যুর উপর, সালামার নিজের কথা। যেসব বর্ণনায় শর্তটা অন্যভাবে এসেছে, সেগুলো রইল ৪৮:১৭ ও ৪৮:১৮ আয়াতের প্রবন্ধে। এখানে বর্ণনাটি যা যোগ করে তা হলো দৃশ্যটি। হাতে হাত রেখে বাই'আত, আর একজনকে বলা হচ্ছে আবার হাত দিতে, যদিও তিনি আগেই দিয়েছেন। কেন, বর্ণনায় তা বলা নেই। এ প্রবন্ধও অনুমান করছে না।"
+          },
+          {
+            "en": "The verse speaks of one pledge on one day under one tree, but its closing clauses are worded for anyone: whoever breaks, whoever fulfils. Al-Qurtubi's second view, that what is fulfilled may be a person's faith, widens them further. Whoever has borne witness to faith, or given his word for Allah's sake, can hear them as addressed to him: breaking harms the breaker, and keeping it whole earns a reward only its Giver can measure.",
+            "bn": "আয়াতটি কথা বলে একটি দিনের, একটি গাছের নিচের একটি বাই'আত নিয়ে। কিন্তু শেষের বাক্য দুটি যে কারও জন্য প্রযোজ্য ভাষায় বলা: যে ভাঙে, যে পূর্ণ করে। কুরতুবীর দ্বিতীয় মত, যে পূর্ণ করার বিষয়টা মানুষের ঈমানও হতে পারে, কথাটাকে আরও প্রশস্ত করে। যিনি ঈমানের সাক্ষ্য দিয়েছেন, কিংবা আল্লাহর জন্য কাউকে কথা দিয়েছেন, তিনি বাক্য দুটি নিজের প্রতি বলা হিসেবে শুনতে পারেন। ভাঙার ক্ষতি ভঙ্গকারীর নিজের। আর পুরোপুরি রাখার পুরস্কার এমন, যার মাপ কেবল তার দাতাই জানেন।"
+          }
+        ]
+      }
+    ]
+  },
   "48:16": {
     "sections": [
       {
