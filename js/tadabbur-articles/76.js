@@ -307,6 +307,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "76:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "Craving It, Then Giving It",
+          "bn": "নিজের মন চায়, তবু দিয়ে দেয়"
+        },
+        "p": [
+          {
+            "en": "Wa-yut'imuna at-ta'ama 'ala hubbihi: and they give food despite their love for it. The verse continues the portrait of al-abrar, the righteous, which began at 76:5 and turned to their deeds at 76:7 with vows kept and a Day feared. At-Tabari reads the phrase plainly: these righteous ones fed others with food they loved and craved. He says the people of interpretation said the same, and gives Mujahid's words, 'while they desire it', and the answer of Sulayman ibn Qays, father of Muqatil ibn Sulayman: 'out of their love for the food'.",
+            "bn": "ওয়া ইউত‘ইমূনাত তা‘আমা ‘আলা হুব্বিহী: আর তারা খাবারের প্রতি ভালোবাসা থাকা সত্ত্বেও খাবার খাওয়ায়। ৭৬:৫ আয়াত থেকে আল-আবরার, অর্থাৎ নেককারদের যে ছবি আঁকা শুরু হয়েছিল, ৭৬:৭ আয়াতে তা তাদের আমলের দিকে ঘুরেছে: তারা মানত পূরণ করে, সেই দিনকে ভয় করে। এ আয়াত সেই ছবিটাই এগিয়ে নেয়। তাবারী কথাটা সরলভাবে পড়েন: এই নেককাররা অন্যকে এমন খাবার খাওয়াত, যা তারা নিজেরাই ভালোবাসত, খেতে চাইত। তিনি জানান, তাফসীরকারেরা এমনটাই বলেছেন। প্রমাণ হিসেবে আনেন মুজাহিদের কথা, 'অথচ তারা তা খেতে চায়', আর মুকাতিল ইবন সুলাইমানের বাবা সুলাইমান ইবন কাইসের জবাব, 'খাবারের প্রতি তাদের ভালোবাসা থাকা অবস্থায়'।"
+          },
+          {
+            "en": "The others fill in what that love means. Al-Baghawi joins love of the food to its scarcity, their desire for it and their need of it; the Muyassar has them feed 'despite their love for it and their need of it'. Ibn Kathir calls this the most evident reading, names Mujahid and Muqatil for it, says Ibn Jarir chose it, and sets beside it 2:177, gives wealth despite love for it, and 3:92, you will not attain righteousness until you spend from what you love. Ma'arif al-Qur'an draws the line sharply: not that they eat their fill and hand the remains to the poor.",
+            "bn": "সেই ভালোবাসার ভেতরে কী আছে, অন্যরা তা খুলে বলেন। বাগাভী খাবারের ভালোবাসার সঙ্গে জুড়ে দেন এর স্বল্পতা, তাদের খাওয়ার ইচ্ছা আর তাদের নিজেদের প্রয়োজন। মুয়াসসার বলে, খাবারের প্রতি ভালোবাসা আর নিজেদের দরকার থাকা সত্ত্বেও তারা খাওয়াত। ইবন কাসীর এটাকেই সবচেয়ে স্পষ্ট অর্থ বলেন। তিনি এর পক্ষে মুজাহিদ ও মুকাতিলের নাম নেন, আর জানান ইবন জারীর এ মতটি বেছে নিয়েছেন। পাশে রাখেন ২:১৭৭, যেখানে ভালোবাসা সত্ত্বেও সম্পদ দেওয়ার কথা, আর ৩:৯২: প্রিয় জিনিস থেকে ব্যয় না করা পর্যন্ত তোমরা পুণ্যে পৌঁছাতে পারবে না। মাআরিফুল কুরআন সীমারেখাটা পরিষ্কার করে দেয়। পেট ভরে খেয়ে বাকিটা গরিবকে দেওয়া, এ আয়াতের কথা সেটা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Love Does Hubbihi Name?",
+          "bn": "হুব্বিহী: কার প্রতি ভালোবাসা?"
+        },
+        "p": [
+          {
+            "en": "The pronoun hi, 'it' or 'Him', can point back to more than one thing, and the commentators record the alternatives. Ibn Kathir reports that it has been said: out of love for Allah, the pronoun returning to Him because the context points to Him. Al-Baghawi gives the same reading with the same 'it has been said'. Al-Qurtubi names a holder for it, ad-Darani, and a third reading from al-Fudayl ibn 'Iyad: out of love for feeding itself. So three objects of love are on record: the food, Allah, and the giving.",
+            "bn": "হি সর্বনামটি একাধিক জিনিসের দিকে ফিরতে পারে, আর তাফসীরকারেরা সেই বিকল্পগুলো লিখে রেখেছেন। ইবন কাসীর জানান, কেউ কেউ বলেছেন এর অর্থ আল্লাহর প্রতি ভালোবাসায়। তাঁদের মতে সর্বনামটি আল্লাহর দিকে ফেরে, কারণ প্রসঙ্গ সেদিকেই ইঙ্গিত করে। বাগাভীও একই অর্থ আনেন, একইভাবে 'বলা হয়েছে' কথাটি দিয়ে। কুরতুবী এ মতের একজন ধারকের নাম বলেন, দারানী। সঙ্গে আনেন ফুদাইল ইবন ‘ইয়াদের তৃতীয় একটি মত: খাওয়ানোর কাজটাকেই ভালোবেসে। তাহলে ভালোবাসার তিনটি লক্ষ্য লিপিবদ্ধ আছে: খাবার, আল্লাহ, আর দান করা।"
+          },
+          {
+            "en": "Ibn Kathir and at-Tabari keep the pronoun on the food; al-Baghawi lists it first and gives love of Allah as a further view. As-Sa'di folds the two together without naming either side: they are in a state where they love wealth and food, yet they have put love of Allah ahead of love of themselves. Read that way, the readings stop competing. The love of food is the cost, and the love of Allah is what pays it. This article takes no side between them.",
+            "bn": "ইবন কাসীর ও তাবারী সর্বনামটিকে খাবারের সঙ্গেই রাখেন। বাগাভী এটাকে প্রথমে আনেন, আর আল্লাহর ভালোবাসাকে আরেকটি মত হিসেবে উল্লেখ করেন। সা'দী কোনো পক্ষের নাম না নিয়ে দুটি মতকে একসঙ্গে বেঁধে দেন। তাঁর কথায়, তারা এমন অবস্থায় আছে যখন সম্পদ ও খাবার তাদের প্রিয়, তবু তারা নিজেদের মনের ভালোবাসার আগে আল্লাহর ভালোবাসাকে রেখেছে। এভাবে পড়লে মতগুলোর মধ্যে আর টানাটানি থাকে না। খাবারের ভালোবাসা হলো মূল্য, আর আল্লাহর ভালোবাসা সেই মূল্য পরিশোধ করে। এ লেখা তাঁদের মধ্যে কোনো পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sugar, Grapes and a Latecomer",
+          "bn": "চিনি, আঙুর আর দেরিতে আসা শিশু"
+        },
+        "p": [
+          {
+            "en": "The commentators also illustrate the phrase from the early generations. Al-Qurtubi reports that whenever a beggar came to ar-Rabi' ibn Khuthaym, he would say: feed him sugar, for ar-Rabi' loves sugar. Ibn Kathir relays from al-Bayhaqi, through Nafi', that Ibn 'Umar (RA) fell ill and longed for grapes when they were first in season. His wife Safiyyah bought a bunch for a dirham; a beggar followed the messenger to the door, and Ibn 'Umar said, give it to him. It happened twice before she bought a third bunch.",
+            "bn": "তাফসীরকারেরা প্রথম যুগের মানুষদের জীবন থেকেও কথাটার ছবি দেখান। কুরতুবী জানান, রবী‘ ইবন খুসাইমের কাছে কোনো ভিক্ষুক এলে তিনি বলতেন, ওকে চিনি খাওয়াও, কারণ রবী‘ চিনি ভালোবাসে। ইবন কাসীর বাইহাকী থেকে নাফি‘-এর সূত্রে একটি ঘটনা আনেন। ইবন উমার (রাঃ) অসুস্থ হলেন, তখন সবে আঙুরের মৌসুম শুরু, আর তাঁর আঙুর খেতে মন চাইল। তাঁর স্ত্রী সাফিয়্যা এক দিরহামে এক থোকা আঙুর কিনে আনালেন। যে লোক আনতে গিয়েছিল, তার পিছু পিছু এক ভিক্ষুক দরজায় এসে হাজির। ইবন উমার বললেন, ওকে দিয়ে দাও। এমন হলো দুবার, তারপর তৃতীয় থোকাটি কেনা হলো।"
+          },
+          {
+            "en": "On the second time Safiyyah sent word to the beggar: by Allah, if you come back you will never get any good from it. Al-Qurtubi adds, from al-Hasan, that an orphan who used to join Ibn 'Umar's meals once came after the food was finished, and Ibn 'Umar called for sawiq, a barley mash, with honey for him. These are reports of the early Muslims, not sayings of the Prophet ﷺ. The first two make the verse concrete, the gift being the very thing the giver wanted; the third shows an orphan remembered even when he came late.",
+            "bn": "দ্বিতীয়বারের পর সাফিয়্যা ভিক্ষুকের কাছে খবর পাঠালেন: আল্লাহর কসম, আবার এলে এখান থেকে আর কখনো কিছু পাবে না। কুরতুবী হাসানের সূত্রে আরেকটি দৃশ্য যোগ করেন। এক ইয়াতীম ইবন উমারের খাবারের সময় নিয়মিত আসত। একবার সে এল খাওয়া শেষ হয়ে যাওয়ার পরে। ইবন উমার তখন তার জন্য মধুর সঙ্গে ছাতু আনালেন। এগুলো প্রথম যুগের মুসলিমদের ঘটনা, নবী ﷺ-এর বাণী নয়। প্রথম দুটি ঘটনায় আয়াতটি চোখের সামনে বাস্তব হয়ে ওঠে: দাতা নিজে যা চাইছিলেন, ঠিক সেটাই দিয়ে দিয়েছেন। তৃতীয়টি দেখায়, দেরিতে এলেও ইয়াতীমকে ভোলা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Healthy, Tight-Fisted, Afraid of Want",
+          "bn": "সুস্থ শরীর, কৃপণ মন, অভাবের ভয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir supports the food reading with a hadith he cites from 'the Sahih'. Al-Bukhari records it in his Sahih (1419) from Abu Hurayrah (RA): 'A man came to the Prophet ﷺ and asked, \"O Allah's Messenger! Which charity is the most superior in reward?\" He replied, \"The charity which you practice while you are healthy, niggardly and afraid of poverty and wish to become wealthy. Do not delay it to the time of approaching death and then say, 'Give so much to such and such, and so much to such and such.' And it has already belonged to such and such.\"'",
+            "bn": "খাবারের দিকেই সর্বনাম ফেরে, এ মতের পক্ষে ইবন কাসীর 'সহীহ' গ্রন্থ থেকে একটি হাদীস আনেন। বুখারী তাঁর সহীহ গ্রন্থে (১৪১৯) আবু হুরাইরা (রাঃ) থেকে তা বর্ণনা করেছেন: 'এক ব্যক্তি নবী ﷺ-এর কাছে এসে জিজ্ঞেস করল, হে আল্লাহর রাসূল, কোন সাদাকার সওয়াব সবচেয়ে বেশি? তিনি বললেন, তুমি যখন সুস্থ, মনে কৃপণতা আছে, দারিদ্র্যের ভয় করছ আর ধনী হওয়ার আশা রাখছ, তখনকার সাদাকা। আর দেরি কোরো না, যতক্ষণ না প্রাণ কণ্ঠনালিতে এসে পৌঁছায় আর তুমি বলো, অমুকের জন্য এত, অমুকের জন্য এত। অথচ তখন তো তা অমুকের হয়েই গেছে।'"
+          },
+          {
+            "en": "Ibn Kathir explains the link: the best charity is given while you love wealth, are eager for it and need it, 'and that is why Allah said: and they give food despite their love for it'. The hadith is a general one on charity and is not tied to this verse by any report; the tie is Ibn Kathir's. Still, it names the state the verse praises. The gift that counts most is the one given while the hand still wants to close, not the bequest dictated at death.",
+            "bn": "ইবন কাসীর যোগসূত্রটা বুঝিয়ে দেন। সবচেয়ে উত্তম সাদাকা হলো সেটি, যা দেওয়া হয় যখন সম্পদ আপনার প্রিয়, তার প্রতি আপনার লোভ আছে, আর তা আপনার দরকারও। 'এজন্যই আল্লাহ বলেছেন: আর তারা খাবারের প্রতি ভালোবাসা সত্ত্বেও খাবার খাওয়ায়।' হাদীসটি সাদাকা বিষয়ে একটি সাধারণ হাদীস। কোনো বর্ণনা একে এ আয়াতের সঙ্গে জুড়ে দেয়নি, জোড়াটা ইবন কাসীরের নিজের। তবু আয়াত যে অবস্থার প্রশংসা করে, হাদীসটি সেই অবস্থার নাম বলে দেয়। সবচেয়ে মূল্যবান দান সেটি, যা দেওয়া হয় হাত যখন এখনো মুঠো করে রাখতে চায়। মৃত্যুশয্যায় বলে যাওয়া অসিয়ত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Humbled by Need, Left Fatherless",
+          "bn": "অভাবে নত, বাবা-হারা"
+        },
+        "p": [
+          {
+            "en": "Then the three who are fed. Miskin, at-Tabari says, means those in need whom need has humbled. Al-Baghawi: a poor person who has no wealth. The Muyassar: a poor person unable to earn, who owns nothing of the world's goods. Al-Qurtubi relays from Ibn 'Abbas, through Abu Salih, that the miskin is he who goes round asking you for your wealth. Yatim, at-Tabari says, is the child whose father has died and who has nothing; al-Baghawi, a young child without a father; al-Qurtubi glosses it as the orphans of the Muslims.",
+            "bn": "এবার সেই তিনজন, যাদের খাওয়ানো হয়। তাবারী বলেন, মিসকীন হলো অভাবী মানুষ, অভাব যাদের নত করে দিয়েছে। বাগাভীর ভাষায়, এমন গরিব, যার কোনো সম্পদ নেই। মুয়াসসার বলে, এমন গরিব, যে উপার্জন করতে অক্ষম, দুনিয়ার কোনো সম্বল যার হাতে নেই। কুরতুবী আবু সালিহের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন, মিসকীন সে, যে ঘুরে ঘুরে আপনার কাছে আপনার সম্পদ চায়। ইয়াতীম সম্পর্কে তাবারী বলেন, যে শিশুর বাবা মারা গেছে আর তার কিছুই নেই। বাগাভী বলেন, বাবা-হারা ছোট শিশু। কুরতুবী একে মুসলিমদের ইয়াতীম বলে ব্যাখ্যা করেন।"
+          },
+          {
+            "en": "As-Sa'di adds a point about choosing: in their feeding they seek out the most deserving and the neediest of people, and the verse then names them. At-Tabari states the motive in a single clause. Allah praised these righteous ones for feeding such people seeking closeness to Him and His pleasure, and out of mercy for them. Both halves are there, devotion upward and compassion outward. The next verse, 76:9, gives what they say or intend as they feed, and is read on its own.",
+            "bn": "সা'দী বাছাইয়ের একটি দিক যোগ করেন। খাওয়ানোর সময় তারা মানুষের মধ্যে সবচেয়ে হকদার আর সবচেয়ে অভাবী লোক খোঁজে, আর আয়াতটি তারপর তাদের নাম বলে দেয়। তাবারী তাদের উদ্দেশ্যটা এক কথায় বলেন। আল্লাহ এই নেককারদের প্রশংসা করেছেন, কারণ তারা এদের খাওয়াত আল্লাহর নৈকট্য আর তাঁর সন্তুষ্টির আশায়, আর এদের প্রতি দয়া থেকে। দুটো দিকই আছে: উপরের দিকে ইবাদত, আর মানুষের দিকে মমতা। পরের আয়াত, ৭৬:৯, বলে খাওয়ানোর সময় তারা কী বলে বা মনে রাখে। সেটার আলোচনা আলাদা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Captive From Either Side",
+          "bn": "যে পক্ষেরই হোক, বন্দি তো বন্দি"
+        },
+        "p": [
+          {
+            "en": "The third, asir, the captive, is where the commentators differ most. At-Tabari defines him two ways: a fighter from the land of war taken by force, or one of the people of the qiblah taken and held in custody by right. Then he lays out the disagreement. Qatadah said Allah commanded good treatment of captives, and their captives in those days were idolaters; in another wording Qatadah adds, 'and your Muslim brother has more right that you feed him'. 'Ikrimah and al-Hasan likewise said the captives of that time were only polytheists. Ibn Kathir gives the same from Ibn 'Abbas.",
+            "bn": "তৃতীয়জন আসীর, বন্দি। তাফসীরকারদের মতভেদ এখানেই সবচেয়ে বেশি। তাবারী দুইভাবে এর সংজ্ঞা দেন। হয় যুদ্ধরত দেশের কোনো যোদ্ধা, যাকে জোর করে ধরে আনা হয়েছে। নয়তো কিবলার অনুসারীদের কেউ, যাকে ন্যায্য কারণে ধরে আটক রাখা হয়েছে। তারপর তিনি মতভেদটা সাজিয়ে দেন। কাতাদা বলেছেন, আল্লাহ বন্দিদের সঙ্গে সদ্ব্যবহারের আদেশ দিয়েছেন, অথচ সেকালে তাদের বন্দিরা ছিল মুশরিক। আরেক বর্ণনায় কাতাদা যোগ করেন, 'আর তোমার মুসলিম ভাই তো খাওয়ানোর আরও বেশি হকদার।' ইকরিমা ও হাসানও বলেছেন, সে যুগের বন্দিরা মুশরিকই ছিল। ইবন কাসীর ইবন আব্বাস (রাঃ) থেকেও একই কথা আনেন।"
+          },
+          {
+            "en": "Others read it as the Muslim held in custody. Mujahid said the asir is the one imprisoned, al-mahbus; Ibn Kathir names Sa'id ibn Jubayr, al-Hasan and ad-Dahhak for 'from the people of the qiblah'. Sa'id ibn Jubayr, in at-Tabari's chain, says both: from the people of the qiblah and others, and 'Ata' agreed. At-Tabari's verdict is that the word covers both groups, and the statement stays general until something binding narrows it. The verse is not about those vow-keepers alone but about everyone with this description, then and until the Hour.",
+            "bn": "অন্যরা একে আটক মুসলিম বলে পড়েছেন। মুজাহিদ বলেছেন, আসীর মানে কারাবন্দি, আল-মাহবূস। ইবন কাসীর 'কিবলার অনুসারীদের মধ্য থেকে' মতটির জন্য সা‘ঈদ ইবন জুবাইর, হাসান ও দাহহাকের নাম নেন। তাবারীর সনদে সা‘ঈদ ইবন জুবাইর দুটোই বলেন: কিবলার অনুসারী আর অন্যরাও। আতা-ও একই কথা বলেছেন। তাবারীর সিদ্ধান্ত হলো, শব্দটি দুই দলকেই ধারণ করে। আর মেনে নেওয়ার মতো কোনো দলিল সীমিত না করা পর্যন্ত কথাটি ব্যাপক থাকবে। আয়াতটি সে যুগের মানত পূরণকারীদের নিয়েই শুধু নয়। এ গুণ যার মধ্যে আছে, সে যুগে এবং কিয়ামত পর্যন্ত, তাদের সবার কথা বলছে।"
+          },
+          {
+            "en": "Ibn Kathir supports the polytheist reading by saying that at Badr the Messenger ﷺ ordered his Companions to honour the captives, and they would put them before themselves at the morning meal; he names no collection for it here. Ma'arif al-Qur'an applies the word to all prisoners, Muslim offenders and non-Muslims alike, held under the Shari'ah, and calls feeding them, even non-Muslims, an act of reward. Al-Baghawi draws the same conclusion: feeding captives, even polytheists, is good and its reward is hoped for. The verse praises feeding a man who may well be an enemy.",
+            "bn": "মুশরিক বন্দির মতের পক্ষে ইবন কাসীর বলেন, বদরের দিন রাসূল ﷺ সাহাবিদের বন্দিদের সম্মান করতে আদেশ দিয়েছিলেন, আর তাঁরা সকালের খাবারে বন্দিদের নিজেদের আগে রাখতেন। এখানে তিনি এর কোনো হাদীসগ্রন্থের নাম বলেননি। মাআরিফুল কুরআন শব্দটিকে সব বন্দির উপর প্রয়োগ করে, শরীয়তের নিয়মে আটক মুসলিম অপরাধী হোক বা অমুসলিম। তাদের খাওয়ানোকে, অমুসলিম হলেও, সওয়াবের কাজ বলে। বাগাভীর সিদ্ধান্তও একই: বন্দিদের খাওয়ানো, মুশরিক হলেও, ভালো কাজ, এর সওয়াবের আশা করা যায়। আয়াতটি এমন মানুষকে খাওয়ানোর প্রশংসা করছে, যে হয়তো শত্রুই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Slave, Wife, or Captive of Madness",
+          "bn": "দাস, স্ত্রী, নাকি পাগলামির বন্দি"
+        },
+        "p": [
+          {
+            "en": "Three wider readings stretch the word further. 'Ikrimah said the captives are slaves; Ibn Kathir reports it and recalls that the Prophet ﷺ urged good treatment of the enslaved in several hadiths. Abu Dawud records (5156), without a grading of his own, from 'Ali (RA): 'The last words which the Messenger of Allah ﷺ spoke were: Prayer, prayer; fear Allah about those whom your right hands possess.' That narration is general and is not tied to this verse.",
+            "bn": "আরও তিনটি মত শব্দটিকে আরও প্রশস্ত করে। ইকরিমা বলেছেন, বন্দি মানে দাস। ইবন কাসীর এ মত উল্লেখ করে মনে করিয়ে দেন, নবী ﷺ একাধিক হাদীসে দাসদের সঙ্গে সদ্ব্যবহারের তাগিদ দিয়েছেন। আবু দাউদ (৫১৫৬) আলী (রাঃ) থেকে বর্ণনা করেছেন, নিজে কোনো মান উল্লেখ না করে: 'রাসূলুল্লাহ ﷺ-এর শেষ কথা ছিল: নামাজ, নামাজ। তোমাদের ডান হাত যাদের মালিক, তাদের ব্যাপারে আল্লাহকে ভয় করো।' বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "A second reading makes the captive a wife. Al-Qurtubi gives it from Abu Hamzah ath-Thumali, al-Baghawi with 'it has been said', and both rest it on the Prophet's ﷺ description of wives as 'awan, captives, in a man's household. At-Tirmidhi records that description within a longer Farewell Hajj sermon (1163), grades it hasan sahih, and himself explains 'awan as captives in your hands. A third reading is offered by al-Mawardi as a possibility, quoted by al-Qurtubi: the one lacking in reason, held captive by his madness.",
+            "bn": "দ্বিতীয় মতে বন্দি মানে স্ত্রী। কুরতুবী এটি আনেন আবু হামযা সুমালী থেকে, আর বাগাভী আনেন 'বলা হয়েছে' দিয়ে। দুজনেই এর ভিত্তি করেন নবী ﷺ-এর সেই কথার উপর, যেখানে তিনি স্ত্রীদের পুরুষের ঘরে ‘আওয়ান, অর্থাৎ বন্দি বলেছেন। তিরমিযী বিদায় হজ্জের এক দীর্ঘ ভাষণের ভেতরে এ কথাটি বর্ণনা করেছেন (১১৬৩), একে হাসান সহীহ বলেছেন, আর নিজেই ‘আওয়ান শব্দের ব্যাখ্যা দিয়েছেন: তোমাদের হাতে বন্দি। তৃতীয় মতটি মাওয়ার্দী একটি সম্ভাবনা হিসেবে বলেছেন, কুরতুবী তা উদ্ধৃত করেন: যার বুদ্ধি অপূর্ণ, যে তার উন্মাদনার হাতে বন্দি।"
+          },
+          {
+            "en": "Al-Qurtubi also records a claim of abrogation, attributed to Sa'id ibn Jubayr: feeding the miskin was abrogated by the verse of sadaqat, and feeding the captive by the verse of the sword. Others, he says, held the ruling still standing, feeding the orphan and the poor being voluntary. Al-Qurtubi himself leans to 'Ata's general view that the captive may be of the people of the qiblah or others, calling it a view that gathers all the rest. Feeding a polytheist captive is then an act of closeness to Allah, though from voluntary charity, not the obligatory kind.",
+            "bn": "কুরতুবী রহিত হওয়ার একটি দাবিও লিখে রেখেছেন, যা সা‘ঈদ ইবন জুবাইরের নামে বর্ণিত। তাঁর মতে মিসকীনকে খাওয়ানোর বিধান সাদাকার আয়াত দিয়ে, আর বন্দিকে খাওয়ানোর বিধান তরবারির আয়াত দিয়ে রহিত হয়ে গেছে। কুরতুবী জানান, অন্যরা বলেছেন বিধানটি এখনো বহাল, ইয়াতীম ও মিসকীনকে খাওয়ানো স্বেচ্ছায় করা দান। কুরতুবী নিজে আতার ব্যাপক মতের দিকে ঝোঁকেন: বন্দি কিবলার অনুসারী হতে পারে, অন্য কেউও হতে পারে। তাঁর ভাষায়, এ মত বাকি সব মতকে এক করে। তাহলে মুশরিক বন্দিকে খাওয়ানোও আল্লাহর নৈকট্যের কাজ। তবে তা নফল সাদাকা থেকে, ফরজ সাদাকা থেকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stories Told About Its Revelation",
+          "bn": "নাযিলের প্রেক্ষাপট নিয়ে নানা বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Several occasions of revelation are relayed for this verse, and none is settled. Al-Baghawi and al-Qurtubi both report from Muqatil that it came down about a man of the Ansar who in a single day fed a poor man, an orphan and a captive. Al-Qurtubi, under 76:9, adds others: that it concerned seven Emigrants who took charge of the captives of Badr, as al-Mawardi mentions; and a story from ath-Tha'labi of an Ansari couple who fed three hungry petitioners in turn. Al-Baghawi opens them by noting that the scholars differed over the cause of revelation.",
+            "bn": "এ আয়াত নাযিলের কয়েকটি প্রেক্ষাপট বর্ণিত হয়েছে, কোনোটাই প্রতিষ্ঠিত নয়। বাগাভী ও কুরতুবী দুজনেই মুকাতিল থেকে জানান, আয়াতটি এক আনসারী ব্যক্তিকে নিয়ে নেমেছে, যিনি একই দিনে এক মিসকীন, এক ইয়াতীম আর এক বন্দিকে খাইয়েছিলেন। কুরতুবী ৭৬:৯ আয়াতের আলোচনায় আরও কয়েকটি বর্ণনা আনেন। মাওয়ার্দীর উল্লেখমতে, এটি সেই ৭ জন মুহাজির সম্পর্কে, যাঁরা বদরের বন্দিদের দায়িত্ব নিয়েছিলেন। আর সা‘লাবীর বরাতে এক আনসারী দম্পতির ঘটনা, যাঁরা পরপর তিনজন ক্ষুধার্ত প্রার্থীকে খাইয়েছিলেন। বাগাভী এগুলোর শুরুতেই বলে নেন, নাযিলের কারণ নিয়ে আলেমদের মতভেদ আছে।"
+          },
+          {
+            "en": "The best known is told of 'Ali ibn Abi Talib (RA). Al-Baghawi relays, through Mujahid and 'Ata' from Ibn 'Abbas, that 'Ali (RA) worked for a Jewish man for some barley, and the household cooked it a third at a time; each time it was ready a poor man, then an orphan, then a polytheist captive asked, was given it, and they went hungry that day. Al-Baghawi passes no judgement on it. Al-Qurtubi relays a longer version, through Layth from Mujahid from Ibn 'Abbas, with Fatimah (RA), a servant girl, their two young sons and a vow of three days' fasting.",
+            "bn": "সবচেয়ে প্রসিদ্ধ বর্ণনাটি আলী ইবন আবী তালিব (রাঃ)-কে নিয়ে। বাগাভী মুজাহিদ ও আতার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: আলী (রাঃ) কিছু যবের বিনিময়ে এক ইহুদির কাজ করেছিলেন। পরিবারটি সেই যব তিনটি ভাগে ভাগ করে এক এক ভাগ রান্না করল। প্রতিবার খাবার তৈরি হতেই কেউ এসে চাইল: প্রথমে এক মিসকীন, তারপর এক ইয়াতীম, তারপর এক মুশরিক বন্দি। প্রত্যেককে খাবারটা দিয়ে দেওয়া হলো, আর সেদিন তাঁরা না খেয়ে রইলেন। বাগাভী এ বর্ণনা নিয়ে কোনো মন্তব্য করেননি। কুরতুবী লাইসের সূত্রে মুজাহিদ হয়ে ইবন আব্বাস (রাঃ) থেকে একটি দীর্ঘতর রূপ আনেন। তাতে আছেন ফাতিমা (রাঃ), এক দাসী, তাঁদের দুই ছোট ছেলে, আর তিন দিন রোজা রাখার মানত।"
+          },
+          {
+            "en": "Al-Qurtubi judges that longer narration plainly: a report that is not sound and not established. He quotes al-Hakim at-Tirmidhi, in Nawadir al-Usul, calling it embellished and counterfeit, arguing that providing for dependants is a duty and that no thinking person would suppose 'Ali (RA) kept small children hungry for three days. Al-Qurtubi's own conclusion is that the correct view is that the verse came down about all the righteous and everyone who does a good deed, so it is general. What it praises is open to any household, then and now.",
+            "bn": "দীর্ঘ বর্ণনাটি নিয়ে কুরতুবীর রায় পরিষ্কার: এটি সহীহ নয়, প্রমাণিতও নয়। তিনি 'নাওয়াদিরুল উসূল' গ্রন্থ থেকে হাকীম তিরমিযীর কথা উদ্ধৃত করেন, যিনি একে সাজানো ও জাল বলেছেন। তাঁর যুক্তি, পরিবার-পরিজনের ভরণপোষণ দেওয়া ফরজ। কোনো বুদ্ধিমান মানুষ ভাবতে পারে না যে আলী (রাঃ) ছোট ছোট শিশুদের টানা তিনটি দিন অনাহারে রেখেছেন। কুরতুবীর নিজের সিদ্ধান্ত হলো, সঠিক মত এই যে আয়াতটি সব নেককার আর যে-ই ভালো কাজ করে, তাদের সবার সম্পর্কে নেমেছে। তাই এর বিধান ব্যাপক। আয়াত যে কাজের প্রশংসা করে, তার দরজা সব ঘরের জন্য খোলা, তখনও, এখনও।"
+          }
+        ]
+      }
+    ]
+  },
   "76:12-22": {
     "sections": [
       {

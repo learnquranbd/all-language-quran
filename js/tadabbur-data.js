@@ -29067,6 +29067,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Faces on that Day show what their owners already know is coming. Shape what you will expect then by what you do now, while the outcome can still change.",
     "lessonBn": "সেদিন মুখগুলো বলে দেবে, তাদের মালিকেরা কী আসছে বলে আগেই জেনে গেছে। ফল যতক্ষণ বদলানো যায়, ততক্ষণ আজকের আমল দিয়েই সেদিনের প্রত্যাশা গড়ে নিন।"
+  },
+  "76:8": {
+    "reflectionEn": "The righteous of this surah are described by a meal they did not eat. They give food 'despite their love for it': not the leftovers, not what they could spare, but what they wanted for themselves, at the moment they wanted it. And the people who receive it have little to give back. One is in want, one has lost a father, one is held captive, perhaps by the very people feeding him. None of them can repay, none of them can raise anyone's standing. The verse quietly asks what my giving is made of. Is it only the surplus, after my own wants are met? And whom do I feed: those who can return the favour, or those who never could?",
+    "reflectionBn": "এই সূরার নেককার লোকদের পরিচয় দেওয়া হয়েছে এমন এক খাবার দিয়ে, যা তারা নিজেরা খায়নি। খাবারের প্রতি ভালোবাসা থাকা সত্ত্বেও তারা তা খাওয়ায়। উচ্ছিষ্ট নয়, বাড়তি নয়, বরং ঠিক সেই জিনিস, যা ওই মুহূর্তে তারা নিজেরাই চাইছিল। আর যারা খাবার পায়, তাদের ফিরিয়ে দেওয়ার মতো কিছু নেই। একজন অভাবে পড়া মানুষ, একজন বাবা-হারা শিশু, একজন বন্দি, হয়তো যারা খাওয়াচ্ছে তাদেরই হাতে বন্দি। এদের কেউ প্রতিদান দিতে পারবে না, কারও সম্মানও বাড়িয়ে দিতে পারবে না। আয়াতটি চুপচাপ জিজ্ঞেস করে, আমার দান কী দিয়ে তৈরি? নিজের সব চাহিদা মেটানোর পরে যা বাঁচে, শুধু সেটুকু? আর আমি খাওয়াই কাকে: যে উপকার ফেরত দিতে পারে তাকে, নাকি যে কোনোদিনই পারবে না তাকে?",
+    "pointsEn": [
+      "When did I last give away something I actually wanted for myself, rather than what I no longer needed?",
+      "Is there someone near me who is in want but too quiet to ask, whom I have learned not to notice?",
+      "Which child without a father, or family without a breadwinner, could my household reach this month?",
+      "Would I feed someone who has wronged me, or who stands on the other side from me, if he were hungry and in my hands?",
+      "If no one ever learned of my giving, would I give the same, and as much?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আমি এমন কিছু দিয়েছি, যা আমি নিজের জন্যই চাইছিলাম? প্রয়োজন ফুরিয়ে যাওয়া জিনিস নয়, সত্যিই চাওয়া জিনিস?",
+      "আমার আশপাশে কি এমন কেউ আছে, যার অভাব আছে কিন্তু মুখ ফুটে চায় না, আর যাকে না দেখার অভ্যাস আমার হয়ে গেছে?",
+      "বাবা-হারা কোন শিশু, বা উপার্জনক্ষম মানুষ হারানো কোন পরিবার পর্যন্ত এ মাসে আমার ঘরের হাত পৌঁছাতে পারে?",
+      "যে আমার উপর অন্যায় করেছে, বা আমার বিপক্ষে দাঁড়িয়েছে, সে যদি ক্ষুধার্ত অবস্থায় আমার হাতে থাকত, আমি কি তাকে খাওয়াতাম?",
+      "কেউ যদি কোনোদিন আমার দানের কথা না জানত, তবুও কি আমি একইভাবে, একই পরিমাণে দিতাম?"
+    ],
+    "lessonEn": "Give from what you yourself want, not only from what is left over, and feed those who can never repay you.",
+    "lessonBn": "শুধু বেঁচে যাওয়া জিনিস থেকে নয়, নিজের পছন্দের জিনিস থেকেও দিন, আর তাদের খাওয়ান, যারা কোনোদিন প্রতিদান দিতে পারবে না।"
   }
 };
 
