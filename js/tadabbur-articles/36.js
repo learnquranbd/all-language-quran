@@ -1895,6 +1895,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:72": {
+    "sections": [
+      {
+        "h": {
+          "en": "Owned, Then Made to Yield",
+          "bn": "মালিকানার পরে বশ্যতা"
+        },
+        "p": [
+          {
+            "en": "Ya-Sin has just said that the Qur'an is a reminder sent to warn whoever is alive. It then turns from speech to things the listener can see. Verse 36:71 asks: do they not see that We created for them, from what Our hands have made, grazing livestock, so that they are their owners? Verse 36:72 continues with six Arabic words: wa-dhallalnaha lahum, fa-minha rakubuhum wa-minha ya'kulun. And We made them tractable for them, so some of them they ride and some of them they eat.",
+            "bn": "ইয়াসীন সবেমাত্র বলেছে, কুরআন এক উপদেশ, যাতে যে জীবিত তাকে সতর্ক করা যায়। এবার কথা ঘুরে যায় এমন জিনিসের দিকে, যা শ্রোতা নিজের চোখে দেখতে পায়। ৩৬:৭১ আয়াত প্রশ্ন করে: তারা কি দেখে না, আমার হাতের তৈরি জিনিসের মধ্য থেকে আমি তাদের জন্য গবাদি পশু সৃষ্টি করেছি, আর তারা সেগুলোর মালিক? ৩৬:৭২ আয়াত এগিয়ে চলে মাত্র ছয়টি আরবি শব্দে: ওয়া যাল্লালনাহা লাহুম, ফা মিনহা রাকূবুহুম ওয়া মিনহা ইয়া'কুলূন। আমি এগুলোকে তাদের বশ করে দিয়েছি, ফলে এগুলোর কতক তাদের বাহন, আর কতক তারা খায়।"
+          },
+          {
+            "en": "The next verse, 36:73, adds other benefits and drinks and closes with a question: so will they not give thanks? Then 36:74 shows what was done instead: they took gods besides Allah, hoping to be helped. Our verse sits in the middle of that short run, between ownership and thanks. Ownership was the gift of 36:71. Here comes a second gift, which owning alone does not supply: a creature larger than its owner that submits to being led, loaded, ridden and slaughtered.",
+            "bn": "পরের আয়াত ৩৬:৭৩ আরও নানা উপকার আর পানীয়ের কথা জুড়ে দিয়ে শেষ হয় এক প্রশ্নে: তবু কি তারা শুকরিয়া আদায় করবে না? তারপর ৩৬:৭৪ দেখায়, শুকরিয়ার বদলে তারা কী করেছে: সাহায্য পাওয়ার আশায় আল্লাহকে ছেড়ে অন্য ইলাহ ধরেছে। আমাদের আয়াতটি এই ছোট ধারার ঠিক মাঝখানে, মালিকানা আর শুকরিয়ার মাঝামাঝি। মালিকানা ছিল ৩৬:৭১-এর দান। এখানে আসে দ্বিতীয় দান, যা শুধু মালিক হলেই মেলে না। মালিকের চেয়ে বড় এক প্রাণী মাথা নুইয়ে মেনে নেয় দড়ি ধরে টানা, পিঠে বোঝা, পিঠে সওয়ার, এমনকি জবাইও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dhallalna: Gentled for Their Use",
+          "bn": "যাল্লালনা: ব্যবহারের জন্য পোষ মানানো"
+        },
+        "p": [
+          {
+            "en": "The verb dhallalna means We made them tractable, easy to manage. Three of the commentaries explain it with a near synonym, sakhkharnaha, We subjected them: al-Qurtubi, al-Baghawi and the Muyassar all open on that word. At-Tabari simply restates the clause: and We made these livestock tractable for them. As-Sa'di describes the result. Allah made them owners of the animals, he says, and made the animals compliant to them in every matter they want from them.",
+            "bn": "যাল্লালনা ক্রিয়ার অর্থ: আমি এগুলোকে বশ করে দিয়েছি, সামলানো সহজ করে দিয়েছি। তিনটি তাফসীর একে ব্যাখ্যা করে কাছাকাছি অর্থের আরেকটি শব্দে, সাখখারনাহা, আমি এগুলোকে অধীন করে দিয়েছি। কুরতুবী, বাগাভী আর মুয়াসসার, তিনজনই শুরু করেন এ শব্দ দিয়ে। তাবারী বাক্যটাই নতুন করে বলেন: আর আমি এই গবাদি পশুগুলোকে তাদের জন্য বশ করে দিয়েছি। সা'দী বলেন ফলাফলের কথা। তাঁর ভাষায়, আল্লাহ তাদের পশুগুলোর মালিক বানিয়েছেন, আর পশুগুলোকে করেছেন তাদের অনুগত, তারা পশুর কাছে যা-ই চায় সব ব্যাপারে।"
+          },
+          {
+            "en": "The Qur'an uses the same root for the ground underfoot. In 67:15 Allah made the earth dhalul for you, tame, so walk its slopes and eat of His provision. The earth and the camel are both tamed, and both are tamed for a purpose: walking and eating there, riding and eating here. In neither case is the taming our work. The verse puts the verb in Allah's mouth, in the first person plural of majesty, and leaves the people only the use.",
+            "bn": "মাটির বেলাতেও কুরআন একই ধাতুর শব্দ ব্যবহার করেছে। ৬৭:১৫ আয়াতে আল্লাহ জমিনকে তোমাদের জন্য যালূল করেছেন, অনুগত করেছেন, তাই তার বুকে চলাফেরা করো আর তাঁর দেওয়া রিজিক খাও। জমিন আর উট দুটোকেই বশ করা হয়েছে, আর দুটোই একটা উদ্দেশ্যে: ওখানে হাঁটা ও খাওয়া, এখানে চড়া ও খাওয়া। কোনোটাতেই বশ করার কাজটা আমাদের নয়। আয়াতটি ক্রিয়াটি রেখেছে আল্লাহর মুখে, মহিমার বহুবচনে। মানুষের ভাগে রেখেছে শুধু ব্যবহারটুকু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Child Leading the Herd",
+          "bn": "শিশুর হাতে উটের সারি"
+        },
+        "p": [
+          {
+            "en": "The commentators make the point with one picture. Al-Qurtubi, on this verse, says Allah subjected the animals so that a boy leads the great camel, strikes it and turns it however he wishes, and it does not leave his obedience. The English abridgement of Ibn Kathir, commenting on 36:71 to 36:73 together, draws the same scene more fully. A young child comes to a camel and makes it kneel, and if he wishes, makes it stand and drives it, and it is led by him meekly.",
+            "bn": "তাফসীরকারেরা কথাটা বোঝান একটা ছবি দিয়ে। এ আয়াতের আলোচনায় কুরতুবী বলেন, আল্লাহ পশুগুলোকে এমনভাবে অধীন করেছেন যে একটা বালক বিশাল উটকে টেনে নিয়ে যায়, তাকে মারে, যেদিকে খুশি ঘোরায়, আর উট তার আনুগত্য ছেড়ে বেরিয়ে যায় না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৩৬:৭১ থেকে ৩৬:৭৩ একসঙ্গে আলোচনা করতে গিয়ে একই দৃশ্য আরও বিস্তারে আঁকে। ছোট্ট এক শিশু উটের কাছে এসে তাকে বসিয়ে দেয়। চাইলে আবার দাঁড় করায়, হাঁকিয়ে নিয়ে যায়, আর উট বিনা আপত্তিতে তার পেছনে চলে।"
+          },
+          {
+            "en": "It adds that even if the train numbers a hundred camels or more, a young child could lead them all. Before that it relays Qatada on 36:71, they are their masters, and explains: He has made them subdue the animals, so the animals are submissive and do not resist. Ma'arif al-Qur'an, on 36:72 to 36:74, widens the herd to the camel, horse, elephant and ox, each seemingly far stronger than a human being, so that man should never have managed to tame them.",
+            "bn": "সেখানে আরও আছে: উটের কাফেলায় একশ বা তারও বেশি উট থাকলেও একটা ছোট শিশু সবগুলোকে টেনে নিতে পারে। এর আগে ৩৬:৭১ প্রসঙ্গে কাতাদার কথা আনা হয়েছে, তারা এগুলোর প্রভু, আর ব্যাখ্যা করা হয়েছে: আল্লাহ মানুষকে পশুর উপর কর্তৃত্ব দিয়েছেন, তাই পশু অনুগত থাকে, বাধা দেয় না। মাআরিফুল কুরআন ৩৬:৭২ থেকে ৩৬:৭৪ আলোচনায় তালিকাটা বড় করে: উট, ঘোড়া, হাতি, ষাঁড়। দেখতে এদের প্রত্যেকেই মানুষের চেয়ে ঢের শক্তিশালী। কাজেই এদের পোষ মানানো মানুষের পক্ষে সম্ভবই হওয়ার কথা ছিল না।"
+          },
+          {
+            "en": "Its conclusion is the verse's own. Allah, who created these animals and gave them to people, also made these free creatures naturally subservient to man. A boy takes the reins of a strong horse and rides it wherever he likes, and this too is no achievement of man. Ma'arif calls it a grace from Allah, a blessing given without being asked for. The camel's patience under a child's hand is, on this reading, a daily sign hidden in plain sight.",
+            "bn": "মাআরিফের সিদ্ধান্ত আয়াতেরই কথা। যে আল্লাহ এই পশুদের সৃষ্টি করে মানুষকে দান করেছেন, তিনিই এই স্বাধীন প্রাণীগুলোকে স্বভাবগতভাবে মানুষের অনুগত করে দিয়েছেন। একটা বালক শক্তিশালী ঘোড়ার লাগাম ধরে তার পিঠে চড়ে যেখানে খুশি চলে যায়। এটাও মানুষের কোনো কৃতিত্ব নয়। মাআরিফ একে বলে আল্লাহর অনুগ্রহ, এমন নিয়ামত যা না চাইতেই দেওয়া হয়েছে। এ পাঠ অনুযায়ী শিশুর হাতে উটের ধৈর্য প্রতিদিনের এক নিদর্শন, যা চোখের সামনেই লুকিয়ে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Mount and the Riding",
+          "bn": "বাহন, নাকি চড়ার কাজ"
+        },
+        "p": [
+          {
+            "en": "The word rakubuhum carries a small debate about its first vowel. Al-Qurtubi reports that the general reading has rakub with an a, meaning their mount, the thing ridden, just as Arabs say naqa halub, a milch camel, meaning one that is milked. At-Tabari draws the same line: this is a rakub beast, while rukub with a u is the act of riding. His gloss, what they ride, follows that reading.",
+            "bn": "রাকূবুহুম শব্দের প্রথম স্বরধ্বনি নিয়ে ছোট্ট একটা আলোচনা আছে। কুরতুবী জানান, সাধারণ কিরাআতে রা-তে যবর, রাকূব, অর্থ তাদের বাহন, যার পিঠে চড়া হয়। আরবরা যেমন বলে নাকা হালূব, দুধেল উটনী, মানে যাকে দোহানো হয়। তাবারীও একই পার্থক্য টানেন: রাকূব পশু মানে চড়ার পশু, আর পেশ দিয়ে রুকূব মানে চড়ার কাজটা। তাঁর ব্যাখ্যা, যার উপর তারা চড়ে, সেই পাঠেরই অনুসারী।"
+          },
+          {
+            "en": "Al-Qurtubi then lists the others. Al-A'mash, al-Hasan and Ibn as-Samayqa' read rukubuhum with a u, as a verbal noun, their riding. 'A'isha is reported to have read rakubatuhum, and her copy of the Qur'an is reported to have it so. Here the scholars he cites disagree. Abu Hatim held the u reading impermissible, since it is a verbal noun and the verse means what is ridden. Al-Farra' allowed it, comparing it to saying: from them comes their eating, from them their drinking.",
+            "bn": "এরপর কুরতুবী অন্য কিরাআতগুলো উল্লেখ করেন। আ'মাশ, হাসান আর ইবনুস সামাইকা' পড়েছেন রুকূবুহুম, পেশ দিয়ে, ক্রিয়াবাচক বিশেষ্য হিসেবে, অর্থাৎ তাদের চড়া। আয়েশা (রাঃ) সম্পর্কে বর্ণিত আছে যে তিনি পড়েছেন রাকূবাতুহুম, আর তাঁর মুসহাফেও নাকি এভাবেই লেখা ছিল। এখানে কুরতুবীর উদ্ধৃত আলেমরা ভিন্নমত পোষণ করেন। আবু হাতিম পেশের পাঠকে জায়েজ মনে করেননি, কারণ সেটা ক্রিয়াবাচক বিশেষ্য, অথচ আয়াতের অর্থ যার উপর চড়া হয়। ফাররা একে বৈধ বলেছেন, তুলনা দিয়েছেন এভাবে: এগুলো থেকেই তাদের খাওয়া, এগুলো থেকেই তাদের পান করা।"
+          },
+          {
+            "en": "The grammarians also argue over the missing feminine ending. Al-Qurtubi relays the Kufan grammarians: Arabs drop the ending on a word for the doer, as in sabur and shakur said of a woman, and keep it on a word for what is acted on, as in naqa rakuba; on that rule 'A'isha's form is expected. The Basrans explain the dropped ending as a form of relation. Abu 'Ubayda, through al-Jarmi, says rakuba serves for one or many, rakub only for many.",
+            "bn": "স্ত্রীবাচক শেষ অক্ষরটি না থাকা নিয়েও ব্যাকরণবিদদের তর্ক আছে। কুরতুবী কূফার ব্যাকরণবিদদের মত জানান: কাজটা যে করে তার শব্দ থেকে আরবরা এই অক্ষর বাদ দেয়, যেমন নারীকে বলে সাবূর, শাকূর। আর কাজটা যার উপর ঘটে তার শব্দে রেখে দেয়, যেমন নাকা রাকূবা। এ নিয়মে আয়েশা (রাঃ)-এর রূপটিই প্রত্যাশিত। বসরার ব্যাকরণবিদরা অক্ষর বাদ পড়াকে সম্বন্ধসূচক রূপ বলে ব্যাখ্যা করেন। আর জারমীর সূত্রে আবু উবাইদা বলেন, রাকূবা একটি বা একাধিক দুই ক্ষেত্রেই চলে, রাকূব চলে শুধু একাধিকের বেলায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saddles, Loads and the Knife",
+          "bn": "পিঠে সওয়ার, বোঝা, আর ছুরি"
+        },
+        "p": [
+          {
+            "en": "The two uses are spelled out in plain terms. At-Tabari says some of them are what they ride, such as the camels they travel on, and some they eat, their meat. He adds that the people of interpretation said the like, and gives Qatada's words through his chain: they ride them and travel on them, and they eat their meat. Al-Baghawi is more definite about the riding animal: what they ride, and these are the camels; and they eat of their meat.",
+            "bn": "দুটি ব্যবহারের কথা তাফসীরে খুব সাদামাটা ভাষায় এসেছে। তাবারী বলেন, এগুলোর কতক তারা চড়ে, যেমন উট, যার পিঠে তারা সফর করে, আর কতক তারা খায়, অর্থাৎ এগুলোর গোশত। তিনি যোগ করেন, তাফসীরের আলেমরাও একই কথা বলেছেন, আর নিজের সনদে কাতাদার কথা আনেন: তারা এগুলোর পিঠে চড়ে, এগুলোর উপর সফর করে, আর এগুলোর গোশত খায়। বাহন নিয়ে বাগাভী আরও নির্দিষ্ট: যার উপর তারা চড়ে, সেগুলো উট। আর তারা খায় এগুলোর গোশত থেকে।"
+          },
+          {
+            "en": "Ibn Kathir widens the riding to freight. Some they ride on journeys, and they carry their heavy loads on them to every region and land; and of them they eat, slaughtering whenever they wish. The Muyassar keeps the same pair: some they ride on journeys and load with their burdens, and some they eat. As-Sa'di folds in what the next verse names: warmth, furnishings from wool, fur and hair, beauty, and every other benefit people can see in them.",
+            "bn": "ইবন কাসীর চড়ার সঙ্গে মাল বহনও জুড়ে দেন। কতক পশুর পিঠে তারা সফরে চড়ে, আর নিজেদের ভারী বোঝা চাপিয়ে নিয়ে যায় সব দিকে, সব দেশে। আর কতক তারা খায়, যখন ইচ্ছা জবাই করে। মুয়াসসারও একই জোড়া রাখে: কতক পশুর পিঠে তারা সফরে চড়ে আর বোঝা চাপায়, আর কতক খায়। সা'দী এর সঙ্গে মিলিয়ে নেন পরের আয়াতে যা আছে: উষ্ণতা, পশম, লোম ও চুল থেকে বানানো আসবাব, সৌন্দর্য, আর মানুষের চোখে পড়ে এমন আরও সব উপকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "We Could Never Have Managed",
+          "bn": "আমাদের সাধ্যে ছিল না"
+        },
+        "p": [
+          {
+            "en": "Another passage of the Qur'an supplies the words that answer this favour. In 43:12 to 43:14 Allah made for you ships and livestock to ride, so that you settle on their backs, remember your Lord's favour, and say: Exalted is He who has subjected this to us, and we could not have subdued it ourselves; and to our Lord we will surely return. None of the commentaries fetched for 36:72 cites that passage. It is set beside our verse here only because both name the same gift.",
+            "bn": "কুরআনের আরেক জায়গায় এই অনুগ্রহের জবাবে বলার মতো কথা শিখিয়ে দেওয়া আছে। ৪৩:১২ থেকে ৪৩:১৪ আয়াতে আল্লাহ তোমাদের জন্য নৌযান আর গবাদি পশু বানিয়েছেন চড়ার জন্য, যাতে তোমরা তাদের পিঠে স্থির হয়ে বসো, রবের অনুগ্রহ স্মরণ করো, আর বলো: পবিত্র তিনি, যিনি একে আমাদের বশ করে দিয়েছেন, আমরা নিজেরা একে বশ করতে পারতাম না; আর আমরা অবশ্যই আমাদের রবের কাছে ফিরে যাব। ৩৬:৭২-এর জন্য সংগ্রহ করা কোনো তাফসীর এ অংশের উল্লেখ করেনি। এখানে পাশাপাশি রাখা হলো শুধু এ কারণে যে দুই জায়গাতেই একই দানের কথা।"
+          },
+          {
+            "en": "Read side by side, the two passages say the same thing from two directions. Ya-Sin says, in Allah's voice, We made them tractable. Az-Zukhruf teaches the rider to say it back: He subjected this to us, and we could not have done it. The rider's sentence is simply the verse's claim returned as a confession. Whoever says it has admitted, in the saddle, the point that Ma'arif al-Qur'an makes about the boy and the horse.",
+            "bn": "পাশাপাশি পড়লে দেখা যায়, দুই অংশ একই কথা বলে দুই দিক থেকে। ইয়াসীনে আল্লাহ নিজে বলেন, আমি এগুলোকে বশ করে দিয়েছি। যুখরুফ আরোহীকে শেখায় কথাটা ফিরিয়ে বলতে: তিনিই একে আমাদের বশ করে দিয়েছেন, আমরা পারতাম না। আরোহীর বাক্যটি আসলে আয়াতের দাবিটাই, স্বীকারোক্তি হয়ে ফিরে আসা। যে এটা বলে, সে বাহনের পিঠে বসেই মেনে নিল মাআরিফুল কুরআনের সেই কথা, যা বালক আর ঘোড়ার উদাহরণে বলা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Allah in Mute Beasts",
+          "bn": "বোবা পশুর ব্যাপারে আল্লাহকে ভয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. Two general narrations, tied to the verse by none of them, touch the same two uses. Sunan Abu Dawud (2548) reports from Sahl ibn al-Hanzaliyya that the Messenger of Allah ﷺ passed a camel whose back had sunk to its belly, and said: Fear Allah regarding these beasts that cannot speak; ride them in good condition and eat them in good condition. The page fetched shows no grading from Abu Dawud himself.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদিস যুক্ত করেনি। তবে দুটো সাধারণ বর্ণনা একই দুই ব্যবহারের কথা ছুঁয়ে যায়, যদিও কোনো তাফসীর এগুলোকে এ আয়াতের সঙ্গে জোড়েনি। সুনানে আবু দাউদে (২৫৪৮) সাহল ইবনুল হানযালিয়্যা (রাঃ) থেকে বর্ণিত: রাসূলুল্লাহ ﷺ এমন এক উটের পাশ দিয়ে গেলেন, যার পিঠ পেটের সঙ্গে লেগে গিয়েছিল। তিনি বললেন: এই বোবা পশুদের ব্যাপারে আল্লাহকে ভয় করো। ভালো অবস্থায় এদের পিঠে চড়ো, আর ভালো অবস্থায় এদের খাও। যে পৃষ্ঠা দেখা হয়েছে, তাতে আবু দাউদের নিজের কোনো মান নির্ণয় নেই।"
+          },
+          {
+            "en": "The printed English on that page renders the second verb as feed them, but the Arabic, kuluha, means eat them, which matches the pair in our verse. Sahih Muslim (1955) reports from Shaddad ibn Aws that Allah's Messenger ﷺ said: Allah has enjoined goodness to everything; so when you kill, kill in a good way, and when you slaughter, slaughter in a good way. So every one of you should sharpen his knife, and let the slaughtered animal die comfortably.",
+            "bn": "ওই পৃষ্ঠার ইংরেজি অনুবাদে দ্বিতীয় ক্রিয়াটি করা হয়েছে এদের খাওয়াও, কিন্তু আরবি শব্দ কুলূহা মানে এদের খাও, যা আমাদের আয়াতের সেই একই জোড়ার সঙ্গে মেলে। সহীহ মুসলিমে (১৯৫৫) শাদ্দাদ ইবন আওস (রাঃ) থেকে বর্ণিত, আল্লাহর রাসূল ﷺ বলেছেন: আল্লাহ প্রতিটি বিষয়ে ইহসান, অর্থাৎ উত্তমভাবে করা, অপরিহার্য করেছেন। কাজেই যখন হত্যা করবে, উত্তমভাবে করবে। যখন জবাই করবে, উত্তমভাবে জবাই করবে। তোমাদের প্রত্যেকে যেন নিজের ছুরি ধার দিয়ে নেয়, আর জবাইয়ের পশুকে যেন আরামে প্রাণ দিতে দেয়।"
+          },
+          {
+            "en": "Neither narration is a commentary on 36:72, and neither changes what the verse says. They show only that the favour arrives with manners attached. The animal made tractable does not become a thing without claims. Whoever rides is asked not to ride it into ruin, and whoever eats is asked to slaughter cleanly. Gratitude for the gift, in other words, is partly paid in how the gift is handled.",
+            "bn": "দুটো বর্ণনার কোনোটাই ৩৬:৭২-এর তাফসীর নয়, আর আয়াতের বক্তব্যেও কোনোটা কিছু বদলায় না। এরা শুধু দেখায়, এই অনুগ্রহের সঙ্গে কিছু আদবও জুড়ে আছে। বশ মানানো পশু হক ছাড়া কোনো জিনিস হয়ে যায় না। যে চড়ে, তাকে বলা হয়েছে পশুটাকে চড়ে চড়ে শেষ করে না দিতে। যে খায়, তাকে বলা হয়েছে পরিচ্ছন্নভাবে জবাই করতে। অন্য কথায়, দানের শুকরিয়ার একটা অংশ আদায় হয় দানটিকে কেমন যত্নে রাখা হলো তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enjoyment With Reflection",
+          "bn": "ভাবনাসহ উপভোগ"
+        },
+        "p": [
+          {
+            "en": "The question that follows in 36:73, so will they not give thanks, is what the whole run has been building toward. As-Sa'di says what that thanks consists of. They should thank Allah, who bestowed these blessings, and make their worship sincerely His, and not enjoy these things with an enjoyment empty of lesson and reflection. The English abridgement of Ibn Kathir puts it as a question: will they not worship the Creator and Subduer of all this, instead of showing gratitude to others?",
+            "bn": "৩৬:৭৩-এর প্রশ্ন, তবু কি তারা শুকরিয়া আদায় করবে না, পুরো ধারাটা এ দিকেই এগোচ্ছিল। শুকরিয়া বলতে কী বোঝায়, সা'দী তা বলে দেন। যে আল্লাহ এই নিয়ামতগুলো দিয়েছেন, তাঁর শুকরিয়া আদায় করা, ইবাদত খাঁটিভাবে তাঁরই জন্য করা। আর এসব এমনভাবে উপভোগ না করা, যাতে শিক্ষা নেই, ভাবনা নেই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কথাটা রাখে প্রশ্নের আকারে: যিনি এসব সৃষ্টি করেছেন ও বশ করে দিয়েছেন, তারা কি তাঁর ইবাদত করবে না, অন্যের প্রতি কৃতজ্ঞতা না দেখিয়ে?"
+          },
+          {
+            "en": "That is the trap 36:74 then names. People who rode Allah's camels and ate His provision turned to idols for help. The verse describes what it describes about those first listeners, and it licenses nothing against any living person or community. Its warning is aimed inward. The reader is asked whether his own comfort has quietly been credited to the wrong address: to his own skill, his trade, his wealth, or simply to the way things are.",
+            "bn": "৩৬:৭৪ ঠিক এই ফাঁদের কথাই বলে। যারা আল্লাহর উটে চড়েছে, তাঁর দেওয়া রিজিক খেয়েছে, তারাই সাহায্যের জন্য মূর্তির দিকে ফিরেছে। আয়াতটি সেই প্রথম শ্রোতাদের সম্পর্কে যা বলে তা-ই বলে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ থেকে মেলে না। এর সতর্কবাণী নিজের দিকে তাক করা। পাঠককে প্রশ্ন করা হচ্ছে: তার নিজের আরামের কৃতিত্ব কি চুপিচুপি ভুল ঠিকানায় চলে গেছে? নিজের দক্ষতায়, ব্যবসায়, সম্পদে, কিংবা নিছক দুনিয়ার নিয়মে?"
+          },
+          {
+            "en": "Few readers now cross a desert on a camel, but the verse has not gone out of date. Milk in the morning, meat at a feast, leather on the feet, wool against the cold: each passed through an animal made tractable by Allah and not by us. As-Sa'di's phrase is a working rule. Do not let a meal or a journey be pure consumption. Let it carry one moment of thought about who made it possible, and then let that thought become thanks.",
+            "bn": "উটের পিঠে মরুভূমি পার হন, এমন পাঠক এখন কম। তবু আয়াতটি পুরোনো হয়ে যায়নি। সকালের দুধ, দাওয়াতের গোশত, পায়ের চামড়ার জুতা, শীতের পশমি কাপড়, সবই এসেছে এমন পশুর মাধ্যমে, যাকে আমরা নই, আল্লাহ বশ করে দিয়েছেন। সা'দীর কথাটা প্রতিদিনের কাজে লাগানোর মতো নিয়ম। খাবার বা সফর যেন নিছক ভোগ না হয়। তাতে যেন অন্তত একটা মুহূর্তের ভাবনা থাকে, কে এটা সম্ভব করলেন। তারপর সেই ভাবনা হয়ে উঠুক শুকরিয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "36:77": {
     "sections": [
       {

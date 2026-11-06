@@ -25569,6 +25569,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The years you have now are the time to remember and to change; the return the people of the Fire will beg for is the life already in your hands.",
     "lessonBn": "এখন যে বছরগুলো আপনার হাতে, সেটাই উপদেশ নেওয়ার আর বদলে যাওয়ার সময়। জাহান্নামবাসীরা যে ফিরে আসার জন্য কাকুতি করবে, সে জীবন আজ আপনার হাতেই আছে।"
+  },
+  "36:72": {
+    "reflectionEn": "A camel is many times stronger than the person leading it, yet it kneels when told, stands when told, and lets a child walk it by a rope. The verse gives the reason in one word: We made them tractable for them. The animal's obedience was never our achievement. Then it names two everyday uses, riding and eating, so plain that we stop noticing them. The next verse adds milk and other benefits and asks whether we will give thanks. Much of what I eat, wear and lean on today reached me through animals I did not create and could not have mastered alone. Have I ever paused over a meal to ask who made all of it possible, and then thanked Him for it?",
+    "reflectionBn": "উট তাকে টেনে নেওয়া মানুষের চেয়ে বহু গুণ শক্তিশালী। তবু বললে সে বসে পড়ে, বললে উঠে দাঁড়ায়, আর একটা দড়ি ধরে ছোট্ট শিশুও তাকে হাঁটিয়ে নিয়ে যায়। আয়াতটি এর কারণ বলে দেয় একটি কথায়: আমিই এগুলোকে তাদের বশ করে দিয়েছি। পশুর এই বাধ্যতা কখনো আমাদের কৃতিত্ব ছিল না। তারপর আয়াতটি দুটো রোজকার কাজের কথা বলে, চড়া আর খাওয়া। এত সাধারণ যে আমরা আর খেয়ালই করি না। পরের আয়াত দুধ আর আরও নানা উপকারের কথা জুড়ে প্রশ্ন করে: তবু কি তারা শুকরিয়া আদায় করবে না? আজ আমি যা খাই, যা পরি, যার উপর ভর দিই, তার অনেকটাই এসেছে এমন পশুর মাধ্যমে, যাদের আমি বানাইনি, একা বশও করতে পারতাম না। খাবার সামনে নিয়ে কখনো কি থেমে ভেবেছি, এসব কে সম্ভব করলেন? তারপর কি তাঁর শুকরিয়া আদায় করেছি?",
+    "pointsEn": [
+      "Which things serve me every day so quietly that I have stopped seeing them as gifts at all?",
+      "When an animal or a machine obeys me, do I credit my own skill, or the One who made it yield?",
+      "Before my last meal of meat or milk, did I remember where it came from and name the One who provided it?",
+      "If my comforts were taken back for one day, which one would I miss first, and have I ever thanked Him for it?",
+      "How do I treat the animals in my care, knowing their obedience was given to me and not earned?"
+    ],
+    "pointsBn": [
+      "কোন কোন জিনিস প্রতিদিন এত নীরবে আমার কাজে লাগে যে সেগুলোকে আমি আর নিয়ামত বলে দেখিই না?",
+      "কোনো পশু বা যন্ত্র যখন আমার কথা মানে, তখন কি আমি নিজের দক্ষতাকে কৃতিত্ব দিই, নাকি তাঁকে, যিনি একে বশ করে দিয়েছেন?",
+      "শেষবার গোশত বা দুধ খাওয়ার আগে কি মনে পড়েছিল এটা কোথা থেকে এল? যিনি দিলেন, তাঁর নাম কি নিয়েছিলাম?",
+      "একদিনের জন্য আমার আরামগুলো ফিরিয়ে নেওয়া হলে কোনটার অভাব সবার আগে টের পেতাম? তার জন্য কি কখনো শুকরিয়া আদায় করেছি?",
+      "আমার দায়িত্বে থাকা পশুদের সঙ্গে আমি কেমন আচরণ করি, যখন জানি তাদের বাধ্যতা আমাকে দেওয়া হয়েছে, আমি অর্জন করিনি?"
+    ],
+    "lessonEn": "The animals that carry and feed you were made to yield by Allah, not by your strength, so let every ride and every meal become thanks to Him.",
+    "lessonBn": "যে পশু আপনাকে বহন করে আর খাওয়ায়, তাকে আপনার শক্তি নয়, আল্লাহই বশ করে দিয়েছেন। তাই প্রতিটি সওয়ারি আর প্রতিটি খাবার হোক তাঁর শুকরিয়া।"
   }
 };
 
