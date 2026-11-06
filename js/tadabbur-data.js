@@ -24191,6 +24191,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh the message rather than the standing of the one who brings it, never answer truth with ridicule, and when you are mocked for what is right, bear it with patience.",
     "lessonBn": "বার্তাবাহকের মর্যাদা নয়, বার্তাটাকে ওজন করুন। সত্যের জবাব কখনো বিদ্রূপ দিয়ে দেবেন না। আর সঠিক কাজের জন্য কেউ ঠাট্টা করলে ধৈর্যের সঙ্গে তা সয়ে নিন।"
+  },
+  "25:54": {
+    "reflectionEn": "The verses before this one speak of water: rain that revives dead land, a sweet stream and a bitter sea kept apart by a barrier. Then the verse turns to another water, the small fluid from which a human being is made. From that one beginning Allah makes each person a web of ties: someone's child by birth, then someone's spouse, then joined by marriage to a whole new family. None of these ties was chosen first and then built; each was given. The verse closes: and your Lord is ever able. A mother, a brother, a father-in-law, a daughter's husband: each is part of His making, not an accident. How, then, should I treat the people He has bound to me?",
+    "reflectionBn": "এর আগের আয়াতগুলো পানির কথা বলে। বৃষ্টি, যা মরা জমিনকে জীবিত করে। মিঠা পানির ধারা আর লোনা সাগর, মাঝখানে আড়াল টেনে যাদের আলাদা রাখা হয়েছে। তারপর আয়াত ফেরে আরেক পানির দিকে, সেই সামান্য তরলের দিকে, যা থেকে মানুষ তৈরি। ওই এক শুরু থেকেই আল্লাহ প্রত্যেক মানুষকে বেঁধে দেন সম্পর্কের জালে। জন্মসূত্রে সে কারও সন্তান, পরে কারও স্বামী বা স্ত্রী, তারপর বিয়ের সুবাদে আরেকটা পুরো পরিবারের আপনজন। এর কোনো সম্পর্কই আমরা আগে বেছে নিয়ে তারপর গড়িনি, সবই দেওয়া। আয়াতের শেষ কথা: আর তোমার রব সর্বশক্তিমান। মা, ভাই, শ্বশুর, মেয়ের জামাই, সবাই তাঁর সৃষ্টির অংশ, কোনো দুর্ঘটনা নয়। তাহলে তিনি যাদের সঙ্গে আমাকে বেঁধে দিয়েছেন, তাদের সঙ্গে আমার আচরণ কেমন হওয়া উচিত?",
+    "pointsEn": [
+      "Which relative by blood have I let drift away, as though the tie were mine to drop rather than His to make?",
+      "Do I treat my in-laws as the family this verse names, or as strangers I happened to marry into?",
+      "When I remember that I began as a little water, what happens to my pride toward relatives I think less of?",
+      "Is there a marriage tie in my family where I could be the one who draws people together instead of keeping them apart?",
+      "What would change in the way I speak to my relatives if I saw each bond as part of Allah's design?"
+    ],
+    "pointsBn": [
+      "রক্তের কোন আত্মীয়কে আমি দূরে সরে যেতে দিয়েছি, যেন এ বন্ধন ছিঁড়ে ফেলার অধিকার আমার, অথচ বন্ধনটা গড়েছেন তিনি?",
+      "শ্বশুরবাড়ির লোকদের আমি কি সেই পরিবার হিসেবে দেখি, যার কথা এ আয়াত বলছে, নাকি বিয়ের সুবাদে পাওয়া অচেনা মানুষ হিসেবে?",
+      "আমার শুরু ছিল সামান্য একটু পানি, এ কথা মনে পড়লে যে আত্মীয়দের আমি ছোট ভাবি, তাদের প্রতি আমার অহংকারের কী হয়?",
+      "আমার পরিবারে বিয়ের সূত্রে গড়া এমন কোনো সম্পর্ক কি আছে, যেখানে আমি মানুষকে দূরে না রেখে কাছে টেনে আনতে পারি?",
+      "প্রতিটি বন্ধনকে যদি আল্লাহর নকশার অংশ হিসেবে দেখতাম, তাহলে আত্মীয়দের সঙ্গে আমার কথা বলার ধরন কী বদলাত?"
+    ],
+    "lessonEn": "Your ties of blood and marriage are Allah's own making from a humble beginning; honour your relatives and in-laws as part of His design.",
+    "lessonBn": "রক্তের ও বিয়ের সব সম্পর্ক আল্লাহ নিজেই গড়েছেন সামান্য এক শুরু থেকে। তাই আত্মীয় ও শ্বশুরপক্ষের মানুষদের তাঁর নকশার অংশ মনে করে সম্মান করুন।"
   }
 };
 

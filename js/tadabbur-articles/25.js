@@ -2051,6 +2051,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:54": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Rivers to a Person",
+          "bn": "নদীর পানি থেকে মানুষে"
+        },
+        "p": [
+          {
+            "en": "This verse closes a run of signs drawn from water. In 25:48 and 25:49 Allah sends the winds ahead of His mercy and sends down pure water from the sky to revive a dead land; 25:50 says the water is distributed among them so that they might remember. Then 25:53 sets two bodies of water side by side, one sweet and one salt, with a barrier between them. The words wa-huwa alladhi, and it is He who, open both 25:53 and this verse.",
+            "bn": "পানি থেকে নেওয়া একগুচ্ছ নিদর্শনের শেষ আয়াত এটি। ২৫:৪৮ ও ২৫:৪৯ আয়াতে আল্লাহ তাঁর রহমতের আগে আগে বাতাস পাঠান, আকাশ থেকে নামান পবিত্র পানি। সেই পানিতে মরা জমিন জেগে ওঠে। ২৫:৫০ বলে, পানি তাদের মাঝে ভাগ করে দেওয়া হয় যাতে তারা স্মরণ করে। তারপর ২৫:৫৩ পাশাপাশি রাখে দুই ধারার পানি, একটি মিঠা, অন্যটি লোনা, মাঝখানে এক আড়াল। ২৫:৫৩ আর এ আয়াত, দুটোই শুরু হয় একই কথায়: ওয়া হুওয়াল্লাযী, আর তিনিই সেই সত্তা।"
+          },
+          {
+            "en": "Khalaqa min al-ma'i basharan: He created from water a human being. Fa-ja'alahu nasaban wa-sihran: and made him kin by lineage and kin by marriage. Wa-kana rabbuka qadiran: and your Lord is ever able. Al-Qurtubi says the verse counts out a blessing upon people, that they were brought into being after they had not existed. What follows takes the three clauses in order: the water, the two kinds of tie, and the power behind both.",
+            "bn": "খালাকা মিনাল মা-ই বাশারা: তিনি পানি থেকে মানুষ সৃষ্টি করেছেন। ফাজাআলাহু নাসাবাওঁ ওয়া সিহরা: তারপর তাকে করেছেন বংশের আত্মীয় আর বিয়ের আত্মীয়। ওয়া কানা রাব্বুকা কাদীরা: আর তোমার রব সর্বশক্তিমান। কুরতুবী বলেন, এ আয়াত মানুষের উপর আল্লাহর একটি নিয়ামত গুনে দেখায়। তারা ছিল না, তিনি তাদের অস্তিত্বে এনেছেন। সামনের আলোচনা তিনটি অংশ ক্রমানুসারে ধরবে: পানি, দুই ধরনের বন্ধন, আর এ দুয়ের পেছনের কুদরত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Drop, or Water Itself",
+          "bn": "এক ফোঁটা, নাকি পানি নিজেই"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators fetched here read al-ma' as the fluid of procreation. At-Tabari glosses it as min al-nutaf, from the drops of seed; al-Baghawi says min al-nutfa, and al-Qurtubi's first explanation is the same. The Muyassar names it as the fluid of the man and the woman, from which Allah made offspring, male and female. Ibn Kathir and as-Sa'di both call it ma' mahin, a lowly fluid, and Ibn Kathir also calls the drop weak.",
+            "bn": "এখানে যেসব তাফসীর পড়া হয়েছে, তার বেশির ভাগই 'আল-মা' বলতে বোঝে প্রজননের তরল। তাবারী ব্যাখ্যা দেন মিনান নুতাফ, অর্থাৎ বীর্যের ফোঁটা থেকে। বাগাভী বলেন মিনান নুতফা, কুরতুবীর প্রথম ব্যাখ্যাও তাই। মুয়াসসার স্পষ্ট করে বলে, পুরুষ ও নারীর তরল থেকে আল্লাহ বংশধর বানিয়েছেন, ছেলে ও মেয়ে। ইবন কাসীর আর সা'দী দুজনেই একে বলেন মা-উম মাহীন, তুচ্ছ পানি। ইবন কাসীর ফোঁটাটিকে দুর্বলও বলেন।"
+          },
+          {
+            "en": "Al-Qurtubi then records a second reading, introduced with qila, it has been said: that min al-ma' points to the root of creation, in the sense that every living thing is created from water. He states no preference between them, and none of the other tafsirs fetched for this verse mentions the second reading. Either way the clause holds one contrast in view. The beginning is small and plain, and what Allah builds from it is a person with a place among others.",
+            "bn": "এরপর কুরতুবী আরেকটি ব্যাখ্যা উল্লেখ করেন, 'কীলা' অর্থাৎ 'বলা হয়েছে' শব্দ দিয়ে। এ ব্যাখ্যায় মিনাল মা ইঙ্গিত করে সৃষ্টির মূলের দিকে: প্রত্যেক জীবিত বস্তু পানি থেকেই সৃষ্ট। দুটোর মধ্যে কোনটি অগ্রগণ্য, কুরতুবী তা বলেননি। এ আয়াতের জন্য পড়া অন্য কোনো তাফসীরে দ্বিতীয় ব্যাখ্যাটি নেই। যে অর্থই নেওয়া হোক, বাক্যটি একটা বৈপরীত্য চোখের সামনে রাখে। শুরুটা সামান্য, সাদামাটা। আর তা থেকে আল্লাহ গড়ে তোলেন এমন এক মানুষ, অন্যদের মাঝে যার একটা জায়গা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Child, Then an In-Law",
+          "bn": "প্রথমে সন্তান, পরে জামাই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads fa-ja'alahu nasaban wa-sihran as the course of one life. At the start of his affair the human being is a child with a lineage, walad nasib. Then he marries and so becomes a sihr, an in-law to another family. Then he comes to have ashar and akhtan of his own, kin through the marriages of those around him. Ibn Kathir then closes the thought: all of that comes from a lowly fluid, and that is why the verse ends, and your Lord is ever able.",
+            "bn": "ইবন কাসীর ফাজাআলাহু নাসাবাওঁ ওয়া সিহরা অংশটিকে পড়েন একটি জীবনের গতিপথ হিসেবে। শুরুতে মানুষ বংশপরিচয়ওয়ালা এক সন্তান, ওয়ালাদুন নাসীব। তারপর সে বিয়ে করে, ফলে আরেক পরিবারের সিহর, অর্থাৎ বৈবাহিক আত্মীয় হয়ে যায়। এরপর তার নিজেরও আসহার আর আখতান হয়, চারপাশের মানুষের বিয়ের সূত্রে পাওয়া আত্মীয়। ইবন কাসীর কথাটা শেষ করেন এভাবে: এর সবই এসেছে তুচ্ছ এক পানি থেকে। আর এ কারণেই আয়াতের শেষে বলা হয়েছে, তোমার রব সর্বশক্তিমান।"
+          },
+          {
+            "en": "As-Sa'di widens the frame from one person to a whole people. Allah spread from that first human being many descendants and made them ansab and ashar, lineages and marriage-ties, scattered and gathered, while the material of all of it is the one lowly fluid. Ma'arif al-Qur'an defines the two terms. Nasab is the relationship that comes from either parent; sihr is the kinship drawn from the wife's side, the in-laws.",
+            "bn": "সা'দী দৃষ্টিটা একজন মানুষ থেকে গোটা মানবজাতির দিকে ছড়িয়ে দেন। প্রথম সেই মানুষ থেকে আল্লাহ অসংখ্য বংশধর ছড়িয়ে দিয়েছেন। তাদের বানিয়েছেন আনসাব ও আসহার, বংশধারা আর বৈবাহিক বন্ধন, কখনো ছড়ানো, কখনো একত্র। অথচ সবকিছুর উপাদান সেই একই তুচ্ছ পানি। মাআরিফুল কুরআন শব্দ দুটির সংজ্ঞা দেয়। নাসাব হলো মা বা বাবা যেকোনো একজনের দিক থেকে আসা সম্পর্ক। আর সিহর হলো স্ত্রীর দিক থেকে আসা আত্মীয়তা, যাদের আমরা শ্বশুরপক্ষ বলি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an then adds a judgement of its own. All these relations and bonds, it says, are Allah's graces given to mankind for a pleasant and tranquil life, and if they were taken away from someone's life it would be impossible for him to live by himself. Read this way, the verse names the two ties as favours, not as a bare fact of descent.",
+            "bn": "এরপর মাআরিফুল কুরআন নিজের একটি মূল্যায়ন যোগ করে। তার ভাষায়, এসব সম্পর্ক ও বন্ধন মানুষের প্রতি আল্লাহর অনুগ্রহ, যাতে জীবন হয় স্বস্তির ও প্রশান্তির। কারও জীবন থেকে এগুলো তুলে নিলে একা বেঁচে থাকা তার পক্ষে অসম্ভব হয়ে পড়বে। এভাবে পড়লে আয়াতটি দুই বন্ধনের কথা বলে নিয়ামত হিসেবে, নিছক বংশগতির তথ্য হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Marriage Is Closed",
+          "bn": "যেখানে বিয়ের পথ বন্ধ"
+        },
+        "p": [
+          {
+            "en": "Which of the two ties bars marriage? Al-Qurtubi quotes al-Farra': nasab is the kin whom it is not lawful to marry, and sihr the kin whom it is lawful to marry. Al-Zajjaj said the same, and al-Qurtubi adds that it is the view of 'Ali ibn Abi Talib (RA). Al-Baghawi gives this reading first, under qila, in a sharper form: nasab is what brings about the prohibition, and sihr is what does not. On this reading the verse sets the closed circle of birth beside the open field where marriages are made.",
+            "bn": "দুটি বন্ধনের কোনটি বিয়েতে বাধা হয়? কুরতুবী ফাররার কথা উদ্ধৃত করেন। নাসাব সেই আত্মীয়, যাকে বিয়ে করা হালাল নয়। আর সিহর সেই আত্মীয়, যাকে বিয়ে করা হালাল। যাজ্জাজও একই কথা বলেছেন, আর কুরতুবী যোগ করেন, এটি আলী ইবন আবী তালিব (রাঃ)-এর মত। বাগাভী 'কীলা' বলে প্রথমে এ ব্যাখ্যাই আনেন, আরও ধারালো ভাষায়: নাসাব হারাম হওয়ার কারণ ঘটায়, সিহর ঘটায় না। এ পাঠে আয়াতটি জন্মের বন্ধ বৃত্তের পাশে রাখে সেই খোলা ময়দান, যেখানে বিয়ের সম্পর্ক গড়ে ওঠে।"
+          },
+          {
+            "en": "Al-Baghawi then states the reading he calls the sound one. Nasab is kinship, and sihr is the khulta, the mixing that resembles kinship, and it is the sabab, the cause, that makes marriage unlawful. On his preferred view, then, both ties close certain doors: one by birth, the other by a marriage already made, as with the wives' mothers named in 4:23. The gap between the two readings is this: in the first, sihr is the side on which marriage is permitted; in the second, it is the bond that a marriage creates and that carries prohibitions of its own.",
+            "bn": "এরপর বাগাভী সেই ব্যাখ্যা দেন, যাকে তিনি সঠিক বলেন। নাসাব হলো রক্তের আত্মীয়তা। আর সিহর হলো খুলতা, এমন মেলামেশা যা আত্মীয়তার মতো, আর এটিই সেই সাবাব বা কারণ, যা বিয়েকে হারাম করে। তাঁর পছন্দের মতে তাই দুটি বন্ধনই কিছু দরজা বন্ধ করে। একটি জন্মের কারণে, অন্যটি আগে হয়ে যাওয়া কোনো বিয়ের কারণে, যেমন ৪:২৩ আয়াতে উল্লিখিত স্ত্রীদের মায়েরা। দুই ব্যাখ্যার পার্থক্য এখানে। প্রথমটিতে সিহর সেই দিক, যেখানে বিয়ে বৈধ। দ্বিতীয়টিতে সিহর সেই বন্ধন, যা বিয়ের ফলে তৈরি হয় এবং যার সঙ্গে নিজস্ব কিছু নিষেধও জুড়ে থাকে।"
+          },
+          {
+            "en": "Al-Qurtubi also quotes Ibn al-Arabi: nasab is the joining of the man's and the woman's fluid in the way the Shari'a recognises. Allah, he says, conferred lineage and marriage-kinship on His servants as a favour, and tied the rulings of lawful and unlawful to them, so what is unlawful is not joined to them. Al-Qurtubi then notes that the jurists differed over a child born outside marriage, naming Abu Hanifa among those who applied the prohibition and al-Shafi'i among those who did not. This article reports the difference and takes no side.",
+            "bn": "কুরতুবী ইবনুল আরাবীর কথাও উদ্ধৃত করেন। তাঁর মতে নাসাব হলো শরীয়ত যেভাবে স্বীকৃতি দেয়, সেভাবে পুরুষ ও নারীর পানির মিলন। তিনি বলেন, বংশ ও বৈবাহিক আত্মীয়তা আল্লাহ বান্দাদের অনুগ্রহ হিসেবে দিয়েছেন, আর হালাল-হারামের বিধান এদের সঙ্গে জুড়ে দিয়েছেন। তাই যা হারাম, তা এদের সঙ্গে যুক্ত হয় না। এরপর কুরতুবী জানান, বিয়ের বাইরে জন্ম নেওয়া সন্তানের প্রশ্নে ফকীহরা ভিন্নমত পোষণ করেছেন। যাঁরা নিষেধ প্রযোজ্য ধরেছেন, তাঁদের মধ্যে তিনি আবু হানিফার নাম নেন, আর যাঁরা ধরেননি, তাঁদের মধ্যে শাফিঈর। এ লেখা মতভেদটুকু জানায়, কোনো পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counting Back to 4:23",
+          "bn": "গুনে গুনে ৪:২৩ পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Several commentators link the two words to the list of women a man may not marry in 4:23. At-Tabari glosses the verse: He made him nasab, and that is seven, and sihr, and that is five. He then cites ad-Dahhak. The seven of nasab run from forbidden to you are your mothers to and your sisters' daughters: mothers, daughters, sisters, paternal aunts, maternal aunts, brothers' daughters and sisters' daughters. The five of sihr run from your mothers who nursed you to the wives of your sons who are from your loins.",
+            "bn": "কয়েকজন মুফাসসির শব্দ দুটিকে জুড়েছেন ৪:২৩ আয়াতে উল্লিখিত সেই তালিকার সঙ্গে, যাদের বিয়ে করা যায় না। তাবারী আয়াতের ব্যাখ্যায় বলেন: তাকে করেছেন নাসাব, আর তা সাতটি, এবং সিহর, আর তা পাঁচটি। তারপর তিনি দাহহাকের বর্ণনা আনেন। নাসাবের সাতটি শুরু হয় 'তোমাদের জন্য হারাম করা হয়েছে তোমাদের মায়েদের' থেকে, শেষ হয় 'বোনের মেয়েদের' পর্যন্ত: মা, মেয়ে, বোন, ফুফু, খালা, ভাইয়ের মেয়ে আর বোনের মেয়ে। সিহরের পাঁচটি শুরু হয় 'তোমাদের সেই মায়েরা, যারা তোমাদের দুধ পান করিয়েছে' থেকে, শেষ হয় 'তোমাদের ঔরসজাত ছেলেদের স্ত্রীরা' পর্যন্ত।"
+          },
+          {
+            "en": "The count is not the same in every report. Al-Qurtubi, through Ibn 'Atiyya, relays from Ibn 'Abbas (RA) seven forbidden by nasab and five by sihr, and in another narration seven by sihr: from your mothers who nursed you up to and that you combine two sisters, followed by the married women. Whoever narrates five, he explains, has left out the two sisters and the married women. Al-Baghawi gives seven by nasab and seven by sabab, the marriage-tie, and points to 4:23. The difference lies only in the counting.",
+            "bn": "সব বর্ণনায় সংখ্যাটা এক নয়। কুরতুবী ইবন আতিয়্যার মাধ্যমে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: নাসাবের কারণে হারাম সাতটি সম্পর্ক, সিহরের কারণে পাঁচটি। আরেক বর্ণনায় সিহরের কারণে সাতটি, 'তোমাদের দুধমায়েরা' থেকে 'দুই বোনকে একসঙ্গে বিয়ে করা' পর্যন্ত, তারপর বিবাহিতা নারীরা। তিনি ব্যাখ্যা করেন, যিনি পাঁচ বলেছেন, তিনি দুই বোনের বিষয় আর বিবাহিতা নারীদের বাদ দিয়ে গুনেছেন। বাগাভী বলেন নাসাবের কারণে সাত আর সাবাব অর্থাৎ বৈবাহিক সূত্রের কারণে সাত, আর ইঙ্গিত করেন ৪:২৩ আয়াতের দিকে। মতভেদটা কেবল গোনার ধরনে।"
+          },
+          {
+            "en": "Ad-Dahhak, al-Qurtubi reports, said that sihr is the kinship of nursing. Ibn 'Atiyya calls that a mistake, prompted by the wording of Ibn 'Abbas, who meant only what is forbidden alongside sihr. Nursing, says Ibn 'Atiyya, is not sihr but the counterpart of nasab, by the hadith on the matter. Al-Bukhari (2645) records, from Ibn 'Abbas (RA), that the Prophet ﷺ said of Hamza's daughter: She is not lawful for me; what nursing forbids is what lineage forbids; she is the daughter of my brother through nursing. It is a general ruling, not narrated about this verse.",
+            "bn": "কুরতুবী জানান, দাহহাক বলেছেন সিহর মানে দুধ-সম্পর্কের আত্মীয়তা। ইবন আতিয়্যা একে ভুল বলেন। তাঁর মতে ইবন আব্বাসের কথার ধরন থেকেই এ ভুলের জন্ম, কারণ তিনি বোঝাতে চেয়েছিলেন সিহরের সঙ্গে যা যা হারাম, কেবল সেগুলো। ইবন আতিয়্যার কথায়, দুধ-সম্পর্ক সিহর নয়, বরং নাসাবের সমতুল্য, আর এর ভিত্তি এ বিষয়ের হাদীস। বুখারী (২৬৪৫) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ হামযার মেয়ের ব্যাপারে বলেছেন: সে আমার জন্য হালাল নয়। বংশের কারণে যা হারাম, দুধপানের কারণেও তা হারাম। সে আমার দুধভাইয়ের মেয়ে। এটি একটি সাধারণ বিধান, এ আয়াত প্রসঙ্গে বর্ণিত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word for Blending",
+          "bn": "মিশে যাওয়ার শব্দ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi traces sihr to sahartu al-shay', I blended the thing. Each of two families joined by marriage has blended with the other, and so the bonds of marriage are called sihr because people mix through them. He then gives the finer terms, on the authority of al-Asma'i. Sihr is the kinship of marriage; the wife's relatives are the akhtan and the husband's relatives are the ahma', while ashar covers the whole of it.",
+            "bn": "কুরতুবী সিহর শব্দের মূল খুঁজে পান সাহারতুশ শাই কথায়, যার অর্থ: জিনিসটা আমি মিশিয়ে ফেললাম। বিয়ের সূত্রে জুড়ে যাওয়া দুই পরিবারের প্রত্যেকে অন্যটির সঙ্গে মিশে যায়। মানুষ এর মাধ্যমে মিলেমিশে যায় বলেই বিয়ের সম্পর্ককে সিহর বলা হয়। এরপর তিনি আসমাঈর বরাতে আরও সূক্ষ্ম পরিভাষা দেন। সিহর হলো বিয়ের আত্মীয়তা। স্ত্রীর আত্মীয়রা আখতান, স্বামীর আত্মীয়রা আহমা, আর আসহার শব্দ এ সবকিছুকে একসঙ্গে বোঝায়।"
+          },
+          {
+            "en": "Al-Qurtubi also gives a division from Muhammad ibn al-Hasan: a man's akhtan are the husbands of his daughters, sisters, aunts and every woman he may not marry. An-Nahhas preferred this on akhtan for two reasons. The first is a narration in which the Prophet ﷺ says to 'Ali (RA): As for you, 'Ali, you are my khatan and the father of my children; you are of me and I am of you. Al-Qurtubi gives its chain through Muhammad ibn Ishaq but no collection or grading, so it stands here only as the evidence an-Nahhas used for the word's meaning.",
+            "bn": "কুরতুবী মুহাম্মাদ ইবনুল হাসানের একটি ভাগও উল্লেখ করেন: কোনো পুরুষের আখতান হলো তার মেয়ে, বোন, ফুফু, খালা এবং যাদের সে বিয়ে করতে পারে না এমন সব নারীর স্বামী। আখতানের প্রশ্নে নাহহাস দুটি কারণে এ মতটিকে অগ্রাধিকার দিয়েছেন। প্রথম কারণ একটি বর্ণনা, যেখানে নবী ﷺ আলী (রাঃ)-কে বলেন: আর তুমি, হে আলী, তুমি আমার খাতান, আমার সন্তানদের পিতা। তুমি আমার থেকে, আমি তোমার থেকে। কুরতুবী মুহাম্মাদ ইবন ইসহাকের সূত্রে এর সনদ দিয়েছেন, তবে কোনো গ্রন্থের নাম বা মান উল্লেখ করেননি। তাই এখানে এটি কেবল শব্দের অর্থ বোঝাতে নাহহাসের ব্যবহৃত দলিল হিসেবেই থাকল।"
+          },
+          {
+            "en": "The second reason is the root itself. Khatan comes from khatanahu, he cut it, as though the husband has been cut off from his own people and has cut his wife off from hers. Al-Qurtubi also relays, through Ibn 'Atiyya, a view al-Zahrawi recorded, that nasab comes through sons and sihr through daughters. Taken together, the two words describe one event from two sides. A marriage takes a person out of one household and blends that person into another.",
+            "bn": "দ্বিতীয় কারণ শব্দের মূল। খাতান এসেছে খাতানাহু থেকে, যার অর্থ সে তা কেটে দিল। যেন স্বামী নিজের পরিবার থেকে বিচ্ছিন্ন হয়েছে, আর স্ত্রীকেও তার পরিবার থেকে আলাদা করে এনেছে। কুরতুবী ইবন আতিয়্যার মাধ্যমে যাহরাভীর লেখা একটি মতও জানান: নাসাব আসে ছেলেদের দিক থেকে, সিহর মেয়েদের দিক থেকে। দুটি শব্দ পাশাপাশি রাখলে একই ঘটনার দুই পিঠ দেখা যায়। বিয়ে একজন মানুষকে এক ঘর থেকে বের করে আনে, আর মিশিয়ে দেয় আরেক ঘরের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Ibn Sirin Said",
+          "bn": "ইবন সীরীনের একটি উক্তি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays one more statement, from Ibn Sirin: that this verse came down concerning the Prophet ﷺ and 'Ali (RA), because both nasab and sihr joined the two of them. Ibn 'Atiyya adds that the coming together of the two ties between them is a strengthening of sacred standing that lasts until the Day of Resurrection. The remark reads the verse through the household closest to the Prophet ﷺ.",
+            "bn": "কুরতুবী আরও একটি উক্তি উদ্ধৃত করেন, ইবন সীরীন থেকে। তাঁর মতে এ আয়াত নাযিল হয়েছে নবী ﷺ ও আলী (রাঃ)-এর ব্যাপারে, কারণ নাসাব ও সিহর দুটি বন্ধনই তাঁদের দুজনকে জুড়ে রেখেছিল। ইবন আতিয়্যা যোগ করেন, তাঁদের মধ্যে দুই বন্ধনের এ মিলন এমন এক মর্যাদার দৃঢ়তা, যা কিয়ামত পর্যন্ত টিকে থাকবে। এভাবে উক্তিটি আয়াতটিকে পড়ে নবী ﷺ-এর সবচেয়ে কাছের পরিবারের আলোয়।"
+          },
+          {
+            "en": "Some care is needed with it. Al-Qurtubi gives the statement without a chain, and none of the other tafsirs fetched for this verse mentions it. At-Tabari, Ibn Kathir, al-Baghawi, as-Sa'di and the Muyassar all read the verse as speaking of every human being, and its own word, basharan, a human being, is general. Nothing fetched here establishes the remark as the occasion of revelation, so it is not treated as one. It stands as an illustration: the honour these ties carry can be seen in a household of the Prophet's own family.",
+            "bn": "তবে উক্তিটি সাবধানে নিতে হবে। কুরতুবী এটি কোনো সনদ ছাড়াই উল্লেখ করেছেন, আর এ আয়াতের জন্য পড়া অন্য কোনো তাফসীরে এর উল্লেখ নেই। তাবারী, ইবন কাসীর, বাগাভী, সা'দী ও মুয়াসসার সবাই আয়াতটিকে পড়েন প্রত্যেক মানুষের কথা হিসেবে। আয়াতের নিজের শব্দ বাশারা, অর্থাৎ মানুষ, সেটিও সাধারণ। এখানে পড়া কোনো সূত্র উক্তিটিকে নাযিলের প্রেক্ষাপট হিসেবে প্রতিষ্ঠিত করে না, তাই একে সেভাবে ধরা হয়নি। এটি থাকল একটি দৃষ্টান্ত হিসেবে: এসব বন্ধনের মর্যাদা দেখা যায় নবী ﷺ-এর নিজের পরিবারের ভেতরেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ties That Point to Him",
+          "bn": "যে বন্ধন তাঁর দিকে দেখায়"
+        },
+        "p": [
+          {
+            "en": "Wa-kana rabbuka qadiran. At-Tabari explains: your Lord, O Muhammad, has power to create whatever He wills, and to direct them as He wills. For Ibn Kathir the closing words answer what came before: all those ties come from a lowly fluid, and that is why the verse ends on His power. As-Sa'di draws a further conclusion. The verse, he says, shows the perfection of Allah's power, and shows that worship of Him is the truth and worship of anything else is false. The very next verse, 25:55, turns to those who worship what neither benefits nor harms them.",
+            "bn": "ওয়া কানা রাব্বুকা কাদীরা। তাবারী ব্যাখ্যা করেন: হে মুহাম্মাদ, তোমার রব যা ইচ্ছা সৃষ্টি করার ক্ষমতা রাখেন, আর সৃষ্টিকে যেভাবে চান পরিচালনা করেন। ইবন কাসীরের কাছে শেষ কথাটি আগের অংশেরই জবাব। এত সব বন্ধন এসেছে তুচ্ছ এক পানি থেকে, তাই আয়াত শেষ হয়েছে তাঁর কুদরতের কথায়। সা'দী আরেক ধাপ এগিয়ে যান। তাঁর মতে আয়াতটি আল্লাহর পরিপূর্ণ ক্ষমতা প্রমাণ করে, আরও প্রমাণ করে যে তাঁর ইবাদতই সত্য, অন্য সবকিছুর ইবাদত বাতিল। ঠিক পরের আয়াত, ২৫:৫৫, সেই লোকদের কথা বলে, যারা এমন কিছুর ইবাদত করে যা তাদের উপকারও করতে পারে না, ক্ষতিও না।"
+          },
+          {
+            "en": "If the ties are His making, a relative is more than someone a person happens to have. The parent and the sibling, the wife's mother and the daughter's husband all reach a person through the same act of creation that the verse counts as a sign. The commentators' long attention to whom one may and may not marry shows that these ties carry rights and limits Allah has fixed, not ones a family sets by mood.",
+            "bn": "বন্ধনগুলো যদি তাঁরই গড়া হয়, তবে আত্মীয় মানে কেবল ঘটনাচক্রে পাওয়া কেউ নয়। বাবা-মা, ভাইবোন, স্ত্রীর মা, মেয়ের জামাই, সবাই মানুষের জীবনে আসে সৃষ্টির সেই একই কাজের মধ্য দিয়ে, যাকে আয়াত নিদর্শন হিসেবে গুনেছে। কাকে বিয়ে করা যায় আর কাকে যায় না, এ নিয়ে মুফাসসিরদের দীর্ঘ মনোযোগ দেখায় যে এসব বন্ধনের সঙ্গে জুড়ে আছে আল্লাহর ঠিক করে দেওয়া হক ও সীমা। পরিবারের খেয়ালখুশিতে তা বদলায় না।"
+          },
+          {
+            "en": "What the verse asks of a reader is modest and close at hand. Notice the people who came with your birth and with your marriage, and count them among Allah's favours. Treat in-laws as kin the Qur'an itself names, not as outsiders. When pride rises toward a relative, recall the little water from which both of you began. And in a family, scattered and gathered, as as-Sa'di put it, see the work of Him whom the verse calls qadir, ever able.",
+            "bn": "আয়াতটি পাঠকের কাছে যা চায়, তা সাদামাটা আর হাতের কাছেই। জন্মের সঙ্গে আর বিয়ের সঙ্গে যে মানুষগুলো জীবনে এসেছে, তাদের দিকে খেয়াল করুন, আর তাদের আল্লাহর নিয়ামতের মধ্যে গুনে নিন। শ্বশুরপক্ষের লোকদের বাইরের মানুষ নয়, কুরআনের নিজের ভাষায় নাম নেওয়া আত্মীয় হিসেবে দেখুন। কোনো আত্মীয়ের প্রতি অহংকার জাগলে মনে করুন, আপনাদের দুজনের শুরুই সেই সামান্য পানি থেকে। আর সা'দীর ভাষায় কখনো ছড়ানো, কখনো একত্র যে পরিবার, তার মধ্যে দেখুন সেই সত্তার কাজ, আয়াত যাঁকে বলেছে কাদীর, সর্বশক্তিমান।"
+          }
+        ]
+      }
+    ]
+  },
   "25:58": {
     "sections": [
       {
