@@ -1174,5 +1174,145 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "78:40": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Surah Turns to Address",
+          "bn": "বর্ণনা থেকে সরাসরি সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "Inna andharnakum 'adhaban qariba: indeed, We have warned you of a near punishment. These fifteen Arabic words are the last verse of an-Naba', the surah that opened by asking what people were questioning each other about. It has described the Day of Sorting, the long stay of the transgressors, the gardens of the God-fearing, and the Spirit and the angels standing in rows before the Most Merciful. Now it stops describing and speaks to the listener. Its last verse is a warning addressed to you.",
+            "bn": "ইন্না আনযারনাকুম আযাবান কারীবা: নিশ্চয়ই আমি তোমাদেরকে এক নিকটবর্তী শাস্তি সম্পর্কে সতর্ক করেছি। আরবিতে পনেরোটি শব্দ, আর এটিই সূরা নাবার শেষ আয়াত। সূরাটি শুরু হয়েছিল এই প্রশ্ন দিয়ে যে মানুষ একে অপরকে কী নিয়ে জিজ্ঞেস করছে। এরপর এসেছে ফয়সালার দিন, সীমালঙ্ঘনকারীদের দীর্ঘ অবস্থান, মুত্তাকীদের বাগান, আর পরম দয়াময়ের সামনে সারিবদ্ধ রূহ ও ফেরেশতাদের ছবি। এবার সূরা বর্ণনা থামিয়ে শ্রোতার দিকে ফেরে। শেষ আয়াতটি তাই সরাসরি আপনার উদ্দেশে বলা এক সতর্কবাণী।"
+          },
+          {
+            "en": "Who is being warned? At-Tabari glosses the clause as: We have cautioned you, O people, against a punishment that has come close to you. Al-Qurtubi names the first hearers: the verse addresses the disbelievers of Quraysh and the idolaters among the Arabs, because they had said, we will not be raised. The first audience was a people who denied the rising, and at-Tabari's gloss leaves the address open to everyone who hears it after them. The warning is general, and so is the Day it points to.",
+            "bn": "সতর্ক করা হচ্ছে কাকে? তাবারী বাক্যটির ব্যাখ্যা দেন এভাবে: হে মানুষ, যে শাস্তি তোমাদের একেবারে কাছে এসে গেছে, আমি তোমাদেরকে তা থেকে সাবধান করেছি। কুরতুবী প্রথম শ্রোতাদের নাম বলেন। তাঁর মতে আয়াতটি কুরাইশের কাফির আর আরবের মুশরিকদের সম্বোধন করছে, কারণ তারা বলেছিল, আমাদের আর ওঠানো হবে না। প্রথম শ্রোতারা ছিল পুনরুত্থান অস্বীকারকারী এক জনগোষ্ঠী। তাবারীর ব্যাখ্যা অবশ্য সম্বোধনটা খোলা রাখে তাদের পরে যারাই শুনবে তাদের সবার জন্য। সতর্কবাণী সবার, আর যে দিনের দিকে তা ইঙ্গিত করে, সেটিও সবার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Near Because It Is Coming",
+          "bn": "আসবেই, তাই কাছে"
+        },
+        "p": [
+          {
+            "en": "Why call a punishment near when its Day had not come, and still has not? Ibn Kathir answers that the Day of Resurrection is meant, and that it has become near because its coming is certain: everything that is coming will come. As-Sa'di and al-Baghawi give the same reason in nearly the same words, that whatever is coming is near. Al-Qurtubi relays this meaning from al-Kalbi and others, and supports it with 79:46, where those who see the Hour feel they had stayed no more than an evening or its morning.",
+            "bn": "যে দিন তখনো আসেনি, আজও আসেনি, তার শাস্তিকে নিকটবর্তী বলা হলো কেন? ইবন কাসীরের জবাব: এখানে কিয়ামতের দিনের কথা বলা হয়েছে। তা ঘটবেই, তাই তা কাছে এসে গেছে, কেননা যা আসার তা আসবেই। সা'দী আর বাগাভীও প্রায় একই ভাষায় একই কারণ দেন: যা আসছে, তা-ই নিকটে। কুরতুবী অর্থটি কালবী ও অন্যদের সূত্রে আনেন এবং ৭৯:৪৬ আয়াত দিয়ে সমর্থন করেন। সেখানে যারা কিয়ামত দেখবে, তাদের মনে হবে তারা দুনিয়ায় এক সন্ধ্যা বা এক সকালের বেশি থাকেনি।"
+          },
+          {
+            "en": "Not everyone read the punishment as the Hereafter's. Al-Qurtubi reports that Qatada took it as punishment in this world, since that is the nearer of the two punishments, and that Muqatil identified it as the killing of Quraysh at Badr. Al-Qurtubi then states his own preference, calling it the more apparent reading: the punishment of the Hereafter, which he explains as death and the Resurrection together. The other two views stay on record beside it, a difference among the early commentators.",
+            "bn": "সবাই অবশ্য শাস্তিটিকে আখিরাতের শাস্তি হিসেবে পড়েননি। কুরতুবী জানান, কাতাদা একে দুনিয়ার শাস্তি ধরেছেন, কারণ দুই শাস্তির মধ্যে সেটিই বেশি কাছে। আর মুকাতিল বলেছেন, এ হলো বদরে কুরাইশদের নিহত হওয়া। এরপর কুরতুবী নিজের পছন্দের কথা বলেন এবং সেটিকে বেশি স্পষ্ট মত বলে উল্লেখ করেন: এ আখিরাতের শাস্তি, যার ব্যাখ্যা তিনি দেন মৃত্যু ও কিয়ামত দুটো মিলিয়ে। বাকি দুই মতও তার পাশে লিপিবদ্ধ রয়ে গেছে, পূর্বসূরি মুফাসসিরদের মধ্যে এক মতভেদ হিসেবে।"
+          },
+          {
+            "en": "His reason is a sentence worth pausing on: whoever has died, his resurrection has already begun. If he is among the people of the Garden, he sees his seat in it; if among the people of the Fire, he sees disgrace and humiliation. Ma'arif al-Qur'an, citing Mazhari, allows a similar possibility: the day may be the day of death, and the seeing may take place in the grave, in barzakh. On this reading, near is no further away than one's own death.",
+            "bn": "তাঁর যুক্তির একটি বাক্যে একটু থামা দরকার: যে মারা গেছে, তার কিয়ামত শুরু হয়ে গেছে। সে জান্নাতবাসী হলে জান্নাতে নিজের ঠিকানা দেখতে পায়। জাহান্নামবাসী হলে দেখে লাঞ্ছনা আর অপমান। মাআরিফুল কুরআনও মাযহারীর বরাতে কাছাকাছি একটি সম্ভাবনা রাখে: দিন বলতে মৃত্যুর দিনও হতে পারে, আর দেখাটা ঘটতে পারে কবরে, বারযাখে। এ ব্যাখ্যায় নিকটবর্তী মানে নিজের মৃত্যুর চেয়ে বেশি দূরে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Person Is Looking",
+          "bn": "কে তাকিয়ে দেখবে"
+        },
+        "p": [
+          {
+            "en": "Yawma yanzuru al-mar'u ma qaddamat yadah: the Day a person looks at what his hands have sent ahead. Al-mar' simply means a man, a person. At-Tabari reads it narrowly. In his gloss the one looking is the believer, who sees the good he earned in this world or the evil he committed before, and so hopes for Allah's reward for his good deeds and fears His punishment for his bad ones. He says the people of interpretation said the same, and gives three chains to al-Hasan, each saying that al-mar' is the believer.",
+            "bn": "ইয়াওমা ইয়ানযুরুল মারউ মা কাদ্দামাত ইয়াদাহ: যেদিন মানুষ দেখবে তার দুই হাত আগে কী পাঠিয়েছে। আল-মার শব্দের সাধারণ অর্থ পুরুষ বা মানুষ। তাবারী শব্দটিকে সংকীর্ণ অর্থে পড়েন। তাঁর ব্যাখ্যায় যে দেখছে সে মুমিন। দুনিয়ায় সে যে নেকি কামিয়েছে বা আগে যে মন্দ করে ফেলেছে, তা সে দেখবে। তাই নেক আমলের জন্য সে আল্লাহর সওয়াবের আশা করবে, আর মন্দ আমলের জন্য তাঁর শাস্তির ভয় করবে। তাবারী বলেন, তাফসীরের আলেমরাও এমনই বলেছেন। তিনি হাসান পর্যন্ত তিনটি সনদ আনেন, প্রতিটিতে একই কথা: আল-মার মানে মুমিন।"
+          },
+          {
+            "en": "One of those reports adds a line on how a believer regards his deeds: he guards against the small sin and fears the great one. Al-Qurtubi gives al-Hasan's view with its reasoning. The believer finds deeds of his own to look at; the disbeliever finds none, and so wishes he were dust. Since the verse goes on to say, and the disbeliever will say, it is clear, al-Qurtubi argues, that al-mar' here means the believer.",
+            "bn": "হাসানের একটি বর্ণনায় মুমিন নিজের আমলকে কীভাবে দেখে, তা নিয়ে একটি বাক্য আছে: সে ছোট গুনাহ থেকে সাবধান থাকে, আর বড় গুনাহকে ভয় করে। কুরতুবী হাসানের মতটি তাঁর যুক্তিসহ আনেন। মুমিন দেখার মতো নিজের কিছু আমল খুঁজে পায়। কাফির কিছুই পায় না, তাই সে মাটি হতে চায়। আয়াত যেহেতু এরপর বলে, আর কাফির বলবে, কুরতুবীর যুক্তি হলো, এ থেকেই বোঝা যায় এখানে আল-মার মানে মুমিন।"
+          },
+          {
+            "en": "Others read al-mar' as everyone. Al-Qurtubi records, as a further view, that it is general: every person sees on that Day the recompense of what he earned. Al-Baghawi says every person sees what he sent ahead recorded in his scroll, and the Muyassar says each sees the good he did or the sin he earned. Ibn Kathir speaks of all his deeds being laid before him. Both readings stay on the page: the believer set against the disbeliever, or every person looking, with the disbeliever's cry following.",
+            "bn": "অন্যরা আল-মারকে সবার জন্য পড়েছেন। কুরতুবী আরেকটি মত হিসেবে লিখেছেন যে শব্দটি ব্যাপক: সেদিন প্রত্যেক মানুষ নিজের কামাইয়ের প্রতিফল দেখবে। বাগাভী বলেন, প্রত্যেকে দেখবে আগে যা পাঠিয়েছে তা তার আমলনামায় লেখা আছে। মুয়াসসার বলে, প্রত্যেকে দেখবে সে কী নেক কাজ করেছে আর কী গুনাহ কামিয়েছে। ইবন কাসীর বলেন, তার সব আমল তার সামনে হাজির করা হবে। দুটো পাঠই রয়ে গেছে। হয় মুমিনকে কাফিরের বিপরীতে রাখা হয়েছে, নয়তো প্রত্যেকে দেখছে, আর তারপর আসে কাফিরের আর্তনাদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Everything the Hands Forwarded",
+          "bn": "দুই হাত যা আগে পাঠাল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir says all of a person's deeds are presented to him, the good and the bad, the old and the new, and he pairs the verse with two others: 18:49, where they find everything they did present before them, and 75:13, where man is told on that Day what he sent forward and what he left behind. Al-Qurtubi adds a point of grammar: the verb may take its object directly, so that he sees what he sent ahead, or a preposition may have been dropped, so that he looks towards it.",
+            "bn": "ইবন কাসীর বলেন, মানুষের সব আমল তার সামনে পেশ করা হবে, ভালো-মন্দ, পুরোনো-নতুন সবই। তিনি আয়াতটির পাশে আরও দুটি আয়াত রাখেন। ১৮:৪৯ আয়াতে তারা নিজেদের সব কৃতকর্ম সামনে হাজির পায়। আর ৭৫:১৩ আয়াতে সেদিন মানুষকে জানানো হয় সে কী আগে পাঠিয়েছে আর কী পেছনে রেখে গেছে। কুরতুবী একটি ব্যাকরণের কথা যোগ করেন: ক্রিয়াটি সরাসরি কর্ম নিতে পারে, অর্থাৎ সে আগে পাঠানো জিনিস দেখবে। আবার একটি অব্যয় উহ্যও থাকতে পারে, অর্থাৎ সে তার দিকে তাকাবে।"
+          },
+          {
+            "en": "Al-Bukhari records, as number 7512, from 'Adi ibn Hatim that the Messenger of Allah ﷺ said: \"There will be none among you but his Lord will talk to him, and there will be no interpreter between him and Allah. He will look to his right and see nothing but his deeds which he has sent forward, and will look to his left and see nothing but his deeds which he has sent forward, and will look in front of him and see nothing but the (Hell) Fire facing him. So save yourself from the (Hell) Fire even with half a date (given in charity).\"",
+            "bn": "বুখারী ৭৫১২ নম্বরে আদী ইবন হাতিম (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"তোমাদের প্রত্যেকের সঙ্গে তার রব কথা বলবেন, তার আর তাঁর মাঝে কোনো দোভাষী থাকবে না। সে ডানে তাকাবে, আগে পাঠানো নিজের আমল ছাড়া কিছুই দেখবে না। বামে তাকাবে, আগে পাঠানো আমল ছাড়া কিছুই দেখবে না। সামনে তাকাবে, মুখের সামনে আগুন ছাড়া কিছুই দেখবে না। অতএব আগুন থেকে বাঁচো, অর্ধেক খেজুর দান করে হলেও।\""
+          },
+          {
+            "en": "None of the tafsirs read for this verse ties that hadith to it, and in the same entry al-Bukhari adds, through another chain, \"even with a good word\". Still, it shows the same scene: the deeds are all that is in view, and the remedy is named in advance, at the price of half a date. Ma'arif al-Qur'an describes two ways the seeing may happen: the record is placed in a person's hands, or the deeds appear on the plain of gathering in a visible form, which it says certain narrations confirm.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই হাদীসটিকে আয়াতের সঙ্গে যুক্ত করেনি। একই বর্ণনায় বুখারী আরেকটি সনদে এ কথাটুকুও যোগ করেন: \"একটি ভালো কথা দিয়ে হলেও।\" তবু দৃশ্যটা একই। চোখের সামনে শুধু নিজের আমল, আর প্রতিকারের পথ বলে দেওয়া হয়েছে আগেই, মাত্র অর্ধেক খেজুরের দামে। মাআরিফুল কুরআন দেখার দুটি সম্ভাব্য ধরন বলে। হয় আমলনামা মানুষের হাতে দেওয়া হবে, নয়তো হাশরের ময়দানে আমলগুলো দৃশ্যমান আকারে হাজির হবে। কিতাবটি বলে, কিছু বর্ণনা এ কথার সমর্থন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wish to Be Nothing",
+          "bn": "কিছুই না হওয়ার বাসনা"
+        },
+        "p": [
+          {
+            "en": "Wa yaqulu al-kafiru ya laytani kuntu turaba: and the disbeliever will say, would that I were dust. Ibn Kathir explains the wish as wanting to have been dust in the life of this world, never created and never brought into existence. He places it at the moment the disbeliever sees Allah's punishment and looks at his corrupt deeds, written against him by the noble, righteous scribes among the angels. The Muyassar ties the cry to the terror of the reckoning: would that I were dust, and had never been raised.",
+            "bn": "ওয়া ইয়াকূলুল কাফিরু ইয়া লাইতানী কুনতু তুরাবা: আর কাফির বলবে, হায়, আমি যদি মাটি হতাম! ইবন কাসীরের ব্যাখ্যায় এ আকাঙ্ক্ষা হলো দুনিয়ার জীবনেই মাটি হয়ে থাকা, যেন তাকে সৃষ্টিই করা হয়নি, অস্তিত্বেই আনা হয়নি। তাঁর মতে এ কথা সে বলবে তখন, যখন আল্লাহর শাস্তি নিজের চোখে দেখবে, আর দেখবে তার বিরুদ্ধে সম্মানিত, পুণ্যবান লেখক ফেরেশতাদের হাতে লেখা নিজের মন্দ আমলগুলো। মুয়াসসার আর্তনাদটিকে হিসাবের বিভীষিকার সঙ্গে যুক্ত করে: হায়, আমি যদি মাটি হতাম, আর আমাকে আবার ওঠানো না হতো!"
+          },
+          {
+            "en": "Al-Qurtubi records the same sense from a group who read it as, would that I had not been raised, and sets it beside 69:25, where one man says, would that I had not been given my record. At-Tabari reads the cry as a wish born of the punishment Allah prepared for those who disbelieve in Him: would that I were dust, like the beasts that were made dust. So dust means two things in the commentaries: never having been, or becoming what the animals became.",
+            "bn": "কুরতুবী একদল আলেমের সূত্রে একই অর্থ লিখেছেন। তাঁদের পাঠে কথাটির মানে, হায়, আমাকে যদি ওঠানো না হতো! তিনি এর পাশে রাখেন ৬৯:২৫ আয়াত, যেখানে একজন বলে, হায়, আমাকে যদি আমার আমলনামা দেওয়াই না হতো! তাবারী আর্তনাদটিকে পড়েন সেই শাস্তি থেকে জন্ম নেওয়া এক আকাঙ্ক্ষা হিসেবে, যা আল্লাহ তাঁকে অস্বীকারকারীদের জন্য প্রস্তুত রেখেছেন: হায়, আমি যদি সেই পশুগুলোর মতো মাটি হতাম, যাদের মাটি বানিয়ে দেওয়া হলো! তাই তাফসীরগুলোতে মাটি হওয়ার দুটি অর্থ: কখনো না থাকা, অথবা পশুরা যা হয়ে গেল তা-ই হয়ে যাওয়া।"
+          },
+          {
+            "en": "At-Tabari also relays a sharp observation from Qatada. The one who says this, Qatada explains, is the ruined one, negligent and helpless. What would stop him saying it, when the shameful parts of his deeds have come out against him, and he has met the Most Merciful while He is angry with him? So he wishes for death that Day, though nothing in this world had been more hateful to him than death. As-Sa'di makes the same point briefly: the disbelievers wish for death out of the severity of their regret and remorse.",
+            "bn": "তাবারী কাতাদার একটি তীক্ষ্ণ মন্তব্যও এনেছেন। কাতাদা বলেন, যে এ কথা বলবে, সে ধ্বংসপ্রাপ্ত, অবহেলাকারী, অক্ষম মানুষ। এমন কথা বলা থেকে কী তাকে থামাবে? তার আমলের লজ্জাজনক দিকগুলো তো তার বিরুদ্ধে বেরিয়ে এসেছে। পরম দয়াময়ের সামনে সে এমন অবস্থায় হাজির, যখন তিনি তার উপর রাগান্বিত। তাই সেদিন সে মৃত্যু কামনা করবে, অথচ দুনিয়ায় মৃত্যুর চেয়ে অপছন্দের কিছুই তার কাছে ছিল না। সা'দীও সংক্ষেপে একই কথা বলেন: প্রচণ্ড আফসোস আর অনুশোচনায় কাফিররা মৃত্যু কামনা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hornless Sheep's Due",
+          "bn": "শিংহীন ছাগলের পাওনা"
+        },
+        "p": [
+          {
+            "en": "The most relayed account involves the animals. At-Tabari gives it from 'Abdullah ibn 'Amr, as his own statement: on the Day of Resurrection the beasts of burden, cattle and wild animals are gathered and retribution is settled between them, so that the hornless sheep is given its due from the horned one that butted it. When that is done they are told, be dust, and then the disbeliever says, would that I were dust. At-Tabari has a similar report from Abu Hurayrah, again as his own words, and al-Baghawi says Mujahid said the like.",
+            "bn": "সবচেয়ে বেশি বর্ণিত ব্যাখ্যাটি পশুদের নিয়ে। তাবারী এটি আবদুল্লাহ ইবন আমর (রাঃ)-এর নিজের বক্তব্য হিসেবে আনেন। কিয়ামতের দিন ভারবাহী পশু, গবাদি পশু আর বন্য প্রাণীদের একত্র করা হবে। তারপর তাদের মধ্যে বদলা মিটিয়ে দেওয়া হবে। শিংওয়ালা যে ছাগল শিংহীন ছাগলকে গুঁতো দিয়েছিল, তার কাছ থেকেও শিংহীনটির পাওনা আদায় করা হবে। এ কাজ শেষ হলে তাদের বলা হবে, মাটি হয়ে যাও। তখনই কাফির বলবে, হায়, আমি যদি মাটি হতাম! তাবারী আবু হুরায়রা (রাঃ) থেকেও তাঁর নিজের কথা হিসেবে এমন একটি বর্ণনা আনেন। বাগাভী বলেন, মুজাহিদও এমনই বলেছেন।"
+          },
+          {
+            "en": "At-Tabari also relays a version raised to the Prophet ﷺ, through a chain that includes an unnamed man of the Ansar, and Ibn Kathir says the meaning appears in the well-known Hadith of the Trumpet. Neither was confirmed on a collection page for this article, and these sources give no grading for either, so their wording is not quoted here and nothing is built on them. The companions' reports above are their own words.",
+            "bn": "তাবারী এর একটি রূপ নবী ﷺ পর্যন্ত পৌঁছানো সনদেও এনেছেন, যার সনদে আনসারের এক নামহীন ব্যক্তি আছেন। ইবন কাসীর বলেন, এ অর্থ প্রসিদ্ধ 'সূরের হাদীসে' এসেছে। এ লেখার জন্য দুটির কোনোটিই কোনো হাদীস সংকলনের পাতায় যাচাই করা যায়নি, আর এ সূত্রগুলোতে কোনোটির মান নির্ণয়ও নেই। তাই এখানে এগুলোর ভাষা উদ্ধৃত করা হয়নি, এগুলোর উপর কিছু দাঁড় করানোও হয়নি। উপরের সাহাবিদের বর্ণনাগুলো তাঁদের নিজেদের কথা।"
+          },
+          {
+            "en": "What is confirmed is narrower. Muslim records in his Sahih, number 2582, from Abu Hurayrah that the Messenger of Allah ﷺ said: \"Rights will certainly be restored to those entitled to them on the Day of Resurrection, (to the point that) even the hornless sheep will lay claim upon the horned one.\" It says nothing about dust, and no source read here ties it to this verse. What it does show is how complete the settling of rights will be, down to two sheep in a field.",
+            "bn": "যা নিশ্চিতভাবে যাচাই করা গেছে, তার পরিসর ছোট। মুসলিম তাঁর সহীহ গ্রন্থে ২৫৮২ নম্বরে আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"কিয়ামতের দিন অবশ্যই হকদারদের হক আদায় করে দেওয়া হবে, এমনকি শিংওয়ালা ছাগলের কাছ থেকে শিংহীন ছাগলের বদলাও নেওয়া হবে।\" এতে মাটি হওয়ার কোনো কথা নেই, আর এখানে পড়া একটি সূত্রও হাদীসটিকে এ আয়াতের সঙ্গে যুক্ত করেনি। তবে হক আদায় কতটা পূর্ণ হবে, হাদীসটি তা দেখিয়ে দেয়: মাঠের দুটি ছাগলের হিসাব পর্যন্ত বাকি থাকবে না।"
+          },
+          {
+            "en": "Who else becomes dust is disputed. At-Tabari and al-Baghawi relay from Abu az-Zinad that once judgement is passed and the people of the Fire are sent to it, the other nations and the believers among the jinn are told to return to dust, and the disbeliever, seeing them, cries out. Al-Baghawi adds that Layth ibn Abi Sulaym held the same about believing jinn. Al-Qurtubi disagrees, citing 'Umar ibn 'Abd al-'Aziz, az-Zuhri, al-Kalbi and Mujahid that believing jinn stay around the Garden, at its outskirts, and calls this more correct, since jinn are rewarded and punished like the children of Adam.",
+            "bn": "আর কারা মাটি হবে, তা নিয়ে মতভেদ আছে। তাবারী ও বাগাভী আবুয যিনাদ থেকে বর্ণনা করেন: মানুষের বিচার শেষ হলে আর জাহান্নামীদের জাহান্নামে পাঠানো হলে বাকি সব জাতি আর মুমিন জিনদের বলা হবে, মাটিতে ফিরে যাও। তাদের দেখে কাফির তখন চিৎকার করে উঠবে। বাগাভী যোগ করেন, লাইস ইবন আবী সুলাইমও মুমিন জিনদের ব্যাপারে একই কথা বলেছেন। কুরতুবী এর সঙ্গে একমত নন। তিনি উমর ইবন আবদুল আযীয, যুহরী, কালবী ও মুজাহিদের মত আনেন যে মুমিন জিনরা জান্নাতের চারপাশে, তার আশপাশের প্রান্তরে থাকবে। তাঁর মতে এটিই বেশি সঠিক, কারণ জিনরাও আদম সন্তানদের মতো সওয়াব ও শাস্তি পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking While the Way Is Open",
+          "bn": "পথ খোলা থাকতেই তাকানো"
+        },
+        "p": [
+          {
+            "en": "A word of care belongs here. The verse describes a cry on the Day of Judgement and the one who utters it; it licenses nothing against any living person or community, and gives no one the right to decide today which neighbour will say these words. Whoever the first hearers were, the warning is addressed to the reader, and the only hands it asks him to inspect are his own.",
+            "bn": "এখানে একটি সতর্কতার কথা বলা দরকার। আয়াতটি বিচারের দিনের এক আর্তনাদ আর তার উচ্চারণকারীর বর্ণনা দেয়। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কে সেদিন এ কথা বলবে, প্রতিবেশীদের মধ্যে তা ঠিক করে দেওয়ার অধিকারও কাউকে দেয় না। প্রথম শ্রোতা যে-ই হোক, সতর্কবাণী পাঠকের উদ্দেশে। আর যে হাত খুঁটিয়ে দেখতে আয়াতটি বলে, তা পাঠকের নিজের হাত।"
+          },
+          {
+            "en": "As-Sa'di turns the verse towards the present. This, he says, is what should concern a person, so let him look at it now, in this world, and he cites 59:18: let every soul look to what it has sent ahead for tomorrow. If he finds good, let him praise Allah; if he finds otherwise, let him blame no one but himself. The verse just before, 78:39, has said that whoever wills may take a way of return to his Lord. The warning arrives while that way is open, and the believer's looking, in at-Tabari's words, is hope in Allah's reward and fear of His punishment together.",
+            "bn": "সা'দী আয়াতটিকে বর্তমানের দিকে ফিরিয়ে দেন। তিনি বলেন, মানুষের চিন্তার বিষয় তো এটাই, তাই সে যেন এখনই, এই দুনিয়াতেই তা দেখে নেয়। এর সমর্থনে তিনি ৫৯:১৮ আয়াত আনেন: প্রত্যেকে যেন ভেবে দেখে আগামী দিনের জন্য সে কী আগে পাঠিয়েছে। ভালো কিছু পেলে সে আল্লাহর প্রশংসা করুক। অন্য কিছু পেলে নিজেকে ছাড়া আর কাউকে দোষ না দিক। ঠিক আগের আয়াত ৭৮:৩৯ বলে দিয়েছে, যার ইচ্ছে সে তার রবের দিকে ফেরার পথ ধরুক। সতর্কবাণী আসছে এমন সময়ে, যখন সে পথ খোলা। তাবারীর ভাষায় মুমিনের এই দেখা একসঙ্গে আল্লাহর সওয়াবের আশা আর তাঁর শাস্তির ভয়।"
+          }
+        ]
+      }
+    ]
   }
 });

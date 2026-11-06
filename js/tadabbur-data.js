@@ -29305,6 +29305,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Those who mocked the return will face it all the same; live as one who will walk back over every step taken, and make those steps worth meeting again.",
     "lessonBn": "যারা ফিরে যাওয়াকে ঠাট্টা করেছিল, তাদেরও ফিরতে হবে। এমনভাবে বাঁচুন যেন ফেলে আসা প্রতিটি পদক্ষেপের উপর দিয়ে আবার হাঁটতে হবে, আর সেগুলো যেন আবার দেখার মতো হয়।"
+  },
+  "78:40": {
+    "reflectionEn": "An-Naba' ends on a warning that is already close: a punishment near at hand, on the Day a person looks at what their own two hands sent ahead. Nothing in that view will be borrowed from anyone else. Every deed in it, small or large, old or recent, was sent on by me. Then the surah gives its very last words to a voice that wishes it had never been anything at all: would that I were dust. The warning reaches me while what is waiting can still be changed. So what have my hands sent ahead this week? If I saw it laid out today, would I be glad to look, or would I want to turn away?",
+    "reflectionBn": "সূরা নাবা শেষ হয় এমন এক সতর্কবার্তায়, যা আর দূরে নেই: নিকটবর্তী এক শাস্তি, সেই দিনে যেদিন মানুষ দেখবে তার নিজের দুই হাত আগেভাগে কী পাঠিয়েছে। সেই দৃশ্যে অন্য কারও কিছু থাকবে না। ছোট হোক বা বড়, পুরোনো হোক বা নতুন, প্রতিটি আমল আমিই আগে পাঠিয়ে রেখেছি। তারপর সূরার একেবারে শেষ কথাগুলো দেওয়া হয়েছে এমন এক কণ্ঠকে, যে চায় সে যেন কিছুই না হতো: হায়, আমি যদি মাটি হতাম! সতর্কবার্তাটা আমার কাছে পৌঁছাচ্ছে এমন সময়ে, যখন সামনে যা অপেক্ষা করছে তা এখনো বদলানো যায়। তাহলে এ সপ্তাহে আমার হাত আগে কী পাঠাল? আজ যদি সব আমার সামনে মেলে ধরা হয়, আমি কি খুশি মনে তাকাতে পারব, নাকি মুখ ফিরিয়ে নিতে চাইব?",
+    "pointsEn": [
+      "What did my hands send ahead today that I would be glad to find waiting for me?",
+      "Which small wrong have I stopped noticing because it seems too small to count?",
+      "If the Day is called near because it is certain, how should that change the way I plan tomorrow?",
+      "Is there a deed I keep postponing, as if the time to send it ahead will always be there?",
+      "When I think of being shown my own record, do I feel only fear, or also hope in my Lord's mercy?"
+    ],
+    "pointsBn": [
+      "আজ আমার হাত আগেভাগে এমন কী পাঠাল, যা সামনে অপেক্ষায় পেলে আমি খুশি হব?",
+      "কোন ছোট গুনাহকে আমি আর খেয়ালই করি না, কারণ মনে হয় এত ছোট জিনিস হিসাবে ধরার মতো নয়?",
+      "দিনটিকে যদি নিকটবর্তী বলা হয় এ কারণে যে তা নিশ্চিত, তাহলে কালকের পরিকল্পনা আমি কীভাবে করব?",
+      "এমন কোনো নেক আমল কি আছে, যা আমি বারবার পিছিয়ে দিচ্ছি, যেন আগে পাঠানোর সময় চিরকাল হাতে থাকবে?",
+      "নিজের আমলনামা দেখানো হবে, এ কথা ভাবলে আমার মনে কি শুধু ভয় জাগে, নাকি রবের রহমতের আশাও জাগে?"
+    ],
+    "lessonEn": "Your hands send something ahead every day. Look at it now, while the warning is still a warning, so that on the Day you can face it with hope.",
+    "lessonBn": "আপনার হাত প্রতিদিন কিছু না কিছু আগে পাঠাচ্ছে। সতর্কবার্তা যতক্ষণ সতর্কবার্তাই আছে, এখনই তা খুঁটিয়ে দেখুন, যাতে সেদিন আশা নিয়ে তার মুখোমুখি হতে পারেন।"
   }
 };
 
