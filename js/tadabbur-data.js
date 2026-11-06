@@ -25029,6 +25029,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When Allah lifts a hardship, keep turning to Him as you did while it lasted, and let the relief deepen your gratitude instead of ending it.",
     "lessonBn": "আল্লাহ যখন বিপদ সরিয়ে দেন, বিপদের সময় যেভাবে তাঁর দিকে ফিরেছিলেন সেভাবেই ফিরতে থাকুন। স্বস্তি যেন আপনার শুকরিয়া শেষ না করে, বরং আরও গভীর করে।"
+  },
+  "30:28": {
+    "reflectionEn": "The argument begins inside the hearers' own households. Would any of them have made the slaves he owned equal partners in his wealth, so that he had to fear their claim on it the way he feared a free partner's? None of them would have agreed. Then the verse turns the question round. How can a creature that Allah owns, and that owns nothing except by His gift, be made His partner in worship? Even the wealth in the question is called what We provided for you. The listeners' own refusal becomes the proof against them. So I can test myself the same way. Where do I give a person, a fortune or a plan the trust and the fear that belong to Allah alone?",
+    "reflectionBn": "যুক্তিটা শুরু হয় শ্রোতাদের নিজেদের ঘরের ভেতর থেকে। তাদের কেউ কি নিজের মালিকানাধীন দাস-দাসীকে নিজের সম্পদে সমান অংশীদার বানাত, যাতে স্বাধীন অংশীদারকে যেমন ভয় করে তেমনি ওদের দাবিকেও ভয় করতে হয়? কেউই তাতে রাজি হতো না। এরপর আয়াত প্রশ্নটা উল্টে দেয়। যে সৃষ্টি আল্লাহর মালিকানায়, তাঁর দান ছাড়া যার নিজের বলে কিছুই নেই, তাকে কী করে ইবাদতে তাঁর শরিক বানানো যায়? প্রশ্নের ভেতরের সম্পদটাকেও বলা হয়েছে, আমি তোমাদের যে রিযিক দিয়েছি। শ্রোতাদের নিজেদের অস্বীকৃতিই তাদের বিরুদ্ধে প্রমাণ হয়ে দাঁড়ায়। আমিও নিজেকে এভাবে যাচাই করতে পারি। যে ভরসা আর যে ভয় কেবল আল্লাহর প্রাপ্য, তা কোথায় আমি কোনো মানুষ, কোনো সম্পদ বা কোনো পরিকল্পনার হাতে তুলে দিই?",
+    "pointsEn": [
+      "Which standard do I refuse to accept for myself, yet quietly accept when it touches what is owed to Allah?",
+      "Where do I lean on a person, a job or a sum of money as though it could act apart from Him?",
+      "When I say that something is mine, do I remember that the verse calls it what He provided?",
+      "What have I fully understood with my reason but still not allowed to change what I do?",
+      "When a plain example is set in front of me, do I look for its point or for a way around it?"
+    ],
+    "pointsBn": [
+      "কোন মানদণ্ড নিজের বেলায় আমি কিছুতেই মানি না, অথচ আল্লাহর হকের বেলায় চুপচাপ মেনে নিই?",
+      "কোন মানুষ, কোন চাকরি বা কত টাকার উপর আমি এমনভাবে ভর দিই, যেন তা তাঁকে ছাড়াই কিছু করতে পারে?",
+      "কোনো কিছুকে যখন 'আমার' বলি, তখন কি মনে থাকে যে আয়াত সেটাকে বলছে তাঁর দেওয়া রিযিক?",
+      "বুদ্ধি দিয়ে পুরোপুরি বুঝেছি, অথচ এখনো নিজের আমল বদলাতে দিইনি, এমন কী আছে?",
+      "সহজ কোনো দৃষ্টান্ত সামনে এলে আমি কি তার মর্ম খুঁজি, নাকি পাশ কাটানোর পথ খুঁজি?"
+    ],
+    "lessonEn": "You would never let what you own become your equal partner; give Allah at least that much, and let no created thing share the worship and trust that are His alone.",
+    "lessonBn": "নিজের মালিকানার কিছুকে আপনি কখনো সমান অংশীদার হতে দিতেন না। আল্লাহকে অন্তত এতটুকু দিন: যে ইবাদত আর ভরসা কেবল তাঁর, তাতে কোনো সৃষ্টিকে শরিক করবেন না।"
   }
 };
 

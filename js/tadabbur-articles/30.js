@@ -875,6 +875,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Highest Likeness, Then Theirs",
+          "bn": "সর্বোচ্চ উপমা, তারপর তাদেরটা"
+        },
+        "p": [
+          {
+            "en": "The verses before this verse are a run of signs, and 30:27 closes them: He begins creation and repeats it, repeating is easier for Him, and to Him belongs al-mathal al-a'la in the heavens and the earth. Ma'arif al-Qur'an, in a passage taking 30:27 to 30:29 together, explains mathal as something that resembles another without being exactly like it, and since Allah's being is beyond all resemblance, it renders the phrase as the highest attribute.",
+            "bn": "এর আগের আয়াতগুলো নিদর্শনের এক ধারা, আর ৩০:২৭ তা শেষ করে এভাবে: তিনিই সৃষ্টির সূচনা করেন, আবার তা ফিরিয়ে আনেন, ফিরিয়ে আনা তাঁর জন্য আরও সহজ, আর আসমান ও যমীনে আল-মাসালুল আ'লা তাঁরই। মাআরিফুল কুরআন ৩০:২৭ থেকে ৩০:২৯ পর্যন্ত একসঙ্গে আলোচনা করে। সেখানে বলা হয়েছে, মাসাল এমন জিনিস যা অন্য কিছুর সঙ্গে মিল রাখে, কিন্তু হুবহু এক হওয়া জরুরি নয়। আল্লাহর সত্তা সব রকম সাদৃশ্যের ঊর্ধ্বে, তাই সেখানে শব্দটির অর্থ ধরা হয়েছে সর্বোচ্চ গুণ।"
+          },
+          {
+            "en": "Then 30:28 opens with the same word in another form: daraba lakum mathalan, He has struck for you a likeness. Having said that the highest description is His, the passage draws a lower likeness from the hearers' own lives, to show them what cannot be true of Him. Ibn Kathir's abridged English, reading this verse with the next, says the idolaters worshipped others out of their own folly and ignorance, and 30:29 names the cause: those who do wrong follow their desires without knowledge. After that, 30:30 turns to the religion and the fitrah, a verse with its own article.",
+            "bn": "এরপর ৩০:২৮ শুরু হয় সেই একই শব্দ দিয়ে, অন্য রূপে: দারাবা লাকুম মাসালান, তিনি তোমাদের জন্য একটি দৃষ্টান্ত পেশ করেছেন। সর্বোচ্চ গুণ তাঁর, এ কথা বলার পর আয়াত শ্রোতাদের নিজেদের জীবন থেকে একটা নিচের দৃষ্টান্ত তুলে আনে। উদ্দেশ্য, তাঁর বেলায় কী সত্য হতে পারে না তা দেখিয়ে দেওয়া। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ আয়াত আর পরেরটি একসঙ্গে পড়ে বলে, মুশরিকরা অন্যের ইবাদত করত নিজেদের বোকামি আর অজ্ঞতা থেকে। ৩০:২৯ কারণটাও বলে দেয়: জালিমরা জ্ঞান ছাড়াই নিজেদের খেয়ালখুশির অনুসরণ করে। এর পরে ৩০:৩০ দ্বীন ও ফিতরাতের কথায় যায়। সে আয়াতের আলোচনা আলাদা প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drawn From Nearest at Hand",
+          "bn": "হাতের সবচেয়ে কাছ থেকে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi notices that the preposition min comes three times in the opening question: in min anfusikum, from yourselves, in min ma malakat aymanukum, from what your right hands possess, and in min shuraka', any partners. The first, he says, marks a starting point, as if to say: He took a likeness and drew it from the nearest thing to you, which is your own selves. Of the other two, he takes one as partitive and the other as an extra particle that strengthens the question. The grammar makes the same point as the image: the evidence begins at home.",
+            "bn": "প্রথম প্রশ্নটিতে মিন অব্যয়টি তিনবার এসেছে, কুরতুবী তা লক্ষ করেন। একবার মিন আনফুসিকুম, তোমাদের নিজেদের মধ্য থেকে। একবার মিন মা মালাকাত আইমানুকুম, তোমাদের ডান হাত যাদের মালিক। আরেকবার মিন শুরাকা, কোনো অংশীদার। তাঁর মতে প্রথমটি সূচনাবিন্দু বোঝায়। যেন বলা হচ্ছে, তিনি একটা দৃষ্টান্ত নিলেন তোমাদের সবচেয়ে কাছের জিনিস থেকে, আর তা হলো তোমাদের নিজেদের সত্তা। বাকি দুটির একটিকে তিনি আংশিকতা বোঝানোর জন্য ধরেন, অন্যটিকে প্রশ্নে জোর আনার অতিরিক্ত অব্যয় হিসেবে। ব্যাকরণ আর ছবি তাই একই কথা বলে: প্রমাণের শুরু নিজের ঘর থেকে।"
+          },
+          {
+            "en": "The other commentators say the same in plainer terms. As-Sa'di calls it a likeness from yourselves that needs no setting out and travelling and no camels put to work: nobody has to go anywhere to test it. Ibn Kathir explains from yourselves as something you witness and understand from your own selves. Al-Baghawi says He made plain to you a resemblance to your own state, and then set the likeness out. Nothing in it needed a scholar or a journey. Every listener could check it against his own household before the recitation had finished.",
+            "bn": "অন্য তাফসীরকারেরা কথাটা আরও সহজ করে বলেন। সা'দীর ভাষায়, এটি তোমাদের নিজেদের ভেতরের দৃষ্টান্ত। এর জন্য ঘর ছেড়ে সফরে বেরোতে হয় না, উটও খাটাতে হয় না। যাচাই করতে কাউকে কোথাও যেতে হয় না। ইবন কাসীর 'তোমাদের নিজেদের মধ্য থেকে' কথার ব্যাখ্যা দেন এভাবে: যা তোমরা নিজেদের মধ্যেই দেখ ও বোঝ। বাগাভী বলেন, তিনি তোমাদের অবস্থার সঙ্গে মেলে এমন একটা সাদৃশ্য স্পষ্ট করলেন, তারপর দৃষ্টান্তটা খুলে বললেন। এতে কোনো আলেম বা সফরের দরকার ছিল না। তিলাওয়াত শেষ হওয়ার আগেই প্রত্যেক শ্রোতা নিজের ঘরের সঙ্গে মিলিয়ে দেখতে পারত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Equal in What We Provided",
+          "bn": "আমার দেওয়া রিযিকে সমান"
+        },
+        "p": [
+          {
+            "en": "The question itself is set out by the Muyassar. Do any of your slaves, men or women, share in your provision, so that you see yourselves and them as equals in it, and fear them as you fear free partners when wealth comes to be divided? You would never accept that, it answers; so how can you accept it where Allah is concerned, by giving Him a partner from His creation? Al-Baghawi glosses what your right hands possess as your male and female slaves, and what We provided for you as wealth. The verse itself calls that wealth a provision given, not something they made.",
+            "bn": "প্রশ্নটা মুয়াসসার খুলে বলে। তোমাদের দাস-দাসীদের কেউ কি তোমাদের রিযিকে ভাগ বসায়, যাতে তোমরা মনে কর তোমরা আর তারা এতে সমান? সম্পদ ভাগাভাগির সময় স্বাধীন অংশীদারকে যেমন ভয় কর, তাদেরও কি তেমন ভয় কর? মুয়াসসারের জবাব, এটা তোমরা কখনো মেনে নেবে না। তাহলে আল্লাহর বেলায় তাঁর সৃষ্টি থেকে তাঁর শরিক বানিয়ে তা কীভাবে মেনে নাও? বাগাভী 'তোমাদের ডান হাত যাদের মালিক' কথার অর্থ করেন তোমাদের দাস ও দাসী, আর 'আমি তোমাদের যা রিযিক দিয়েছি' কথার অর্থ সম্পদ। আয়াত নিজেই সেই সম্পদকে বলছে দেওয়া রিযিক, তাদের নিজেদের বানানো কিছু নয়।"
+          },
+          {
+            "en": "At-Tabari concludes in Allah's voice: if you do not accept that for yourselves, how have you accepted that the gods you worship should be My partners in your worship of Me, when you and they are My slaves and I am the owner of you all? As-Sa'di presses further. You did not create those slaves or provide for them, and they are owned as you are; yet you refuse them as equals, while giving Allah a partner from His creation, set in His place in worship. He counts this among the strangest of things.",
+            "bn": "তাবারী উপসংহার টানেন আল্লাহর জবানিতে: নিজেদের বেলায় যখন এতে রাজি নও, তখন যে উপাস্যদের তোমরা পূজা কর, তাদের আমার ইবাদতে আমার শরিক হতে দিতে কীভাবে রাজি হলে? অথচ তোমরা আর তারা সবাই আমার বান্দা, আর আমিই তোমাদের সবার মালিক। সা'দী আরও এগিয়ে যান। ওই দাস-দাসীদের তোমরা সৃষ্টি করনি, রিযিকও দাওনি। তোমরা যেমন মালিকানাধীন, তারাও তেমনি। তবু তাদের নিজেদের সমান হতে দাও না, অথচ আল্লাহর জন্য তাঁর সৃষ্টি থেকে শরিক বানিয়ে ইবাদতে তাকে তাঁর আসনে বসাও। সা'দী একে সবচেয়ে আশ্চর্য বিষয়গুলোর একটি বলে গণ্য করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Fear Is Meant",
+          "bn": "কোন ভয়ের কথা বলা হলো"
+        },
+        "p": [
+          {
+            "en": "Takhafunahum ka-khifatikum anfusakum: you would fear them as you fear yourselves. At-Tabari reports that the interpreters differed. Some read it as fearing that these partners from among your slaves would inherit your wealth after your death, as you inherit from each other; he gives this from Ibn Abbas through Ata al-Khurasani. Others read it as fearing they would divide your wealth with you; he gives this from Abu Mijlaz: you do not fear your slave dividing your wealth, and he has no right to it; just so, Allah has no partner.",
+            "bn": "তাখাফূনাহুম কাখীফাতিকুম আনফুসাকুম: তোমরা তাদের ভয় করবে, যেমন ভয় কর নিজেদের। তাবারী জানান, এর ব্যাখ্যায় তাফসীরকারদের মধ্যে মতভেদ আছে। কারও মতে ভয়টা হলো, দাস-দাসীদের মধ্য থেকে বানানো এসব অংশীদার তোমাদের মৃত্যুর পর তোমাদের সম্পদের ওয়ারিস হবে, যেমন তোমরা একে অপরের ওয়ারিস হও। এ মত তিনি আনেন আতা আল-খুরাসানীর সূত্রে ইবন আব্বাস (রাঃ) থেকে। অন্যদের মতে ভয়টা হলো, তারা তোমাদের সম্পদ ভাগ করে নেবে। এটি তিনি আনেন আবু মিজলায থেকে: তোমার গোলাম তোমার সম্পদ ভাগ করে নেবে, এমন ভয় তুমি কর না, আর সে অধিকার তার নেইও। ঠিক তেমনি আল্লাহর কোনো শরিক নেই।"
+          },
+          {
+            "en": "At-Tabari prefers the second reading as closer to the plain sense. Allah is rebuking people who made gods from His creation while admitting they were His slaves, and the verse speaks of partnership; partnership, he argues, points to a fear of separation and division, not of inheritance. Ibn Kathir takes the same reading and also quotes Abu Mijlaz. As-Sa'di explains the fear as that felt toward free men who are partners in fact, from whom division is feared.",
+            "bn": "তাবারী দ্বিতীয় ব্যাখ্যাকে প্রাধান্য দেন, কারণ বাহ্যিক অর্থের সঙ্গে সেটাই বেশি মেলে। আল্লাহ এখানে তাদের তিরস্কার করছেন, যারা তাঁর সৃষ্টি থেকে উপাস্য বানাত, অথচ মানত যে ওরা তাঁরই বান্দা। আর আয়াত কথা বলছে অংশীদারি নিয়ে। তাবারীর যুক্তি, অংশীদারির উল্লেখ বিচ্ছেদ ও ভাগাভাগির ভয়ের দিকে ইঙ্গিত করে, উত্তরাধিকারের ভয়ের দিকে নয়। ইবন কাসীরও এই ব্যাখ্যা নেন, তিনিও আবু মিজলাযের কথা উদ্ধৃত করেন। সা'দী ভয়টা ব্যাখ্যা করেন স্বাধীন মানুষদের দিয়ে, যারা সত্যিকারের অংশীদার, যাদের কাছ থেকে ভাগাভাগির আশঙ্কা থাকে।"
+          },
+          {
+            "en": "Al-Baghawi holds both readings together. The fear, he says, is that they would share and divide your wealth, as a free man fears that his free partner will act alone in what they hold in common, and as a man fears his partner in an inheritance he would rather keep whole; then he quotes Ibn Abbas on inheriting. He also explains anfusakum, yourselves, as your likes among the free, comparing 24:12, where the believers are told to think well of themselves, that is, of people like them. The fear meant is the ordinary wariness of equals. No master felt it toward the person he owned.",
+            "bn": "বাগাভী দুটি ব্যাখ্যাই একসঙ্গে রাখেন। তাঁর মতে ভয়টা হলো, তারা তোমাদের সম্পদে শরিক হবে আর ভাগ বসাবে। একজন স্বাধীন মানুষ যেমন ভয় করে, তার স্বাধীন অংশীদার যৌথ সম্পদে একাই সিদ্ধান্ত নিয়ে ফেলবে। কিংবা কেউ যেমন মিরাসের অংশীদারকে ভয় করে, অথচ নিজে পুরোটা রাখতে চায়। এরপর তিনি উত্তরাধিকার নিয়ে ইবন আব্বাস (রাঃ)-এর কথা উদ্ধৃত করেন। আনফুসাকুম, নিজেদের, কথাটির অর্থও তিনি করেন স্বাধীনদের মধ্যে তোমাদের মতো মানুষ। তুলনা দেন ২৪:১২ আয়াতের, যেখানে মুমিনদের বলা হয়েছে নিজেদের সম্পর্কে, অর্থাৎ নিজেদের মতো মানুষদের সম্পর্কে, ভালো ধারণা রাখতে। ভয়টা তাই সমানে সমানে স্বাভাবিক সতর্কতা। কোনো মালিক নিজের মালিকানাধীন মানুষের প্রতি তা অনুভব করত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Except a Partner Who Is Yours",
+          "bn": "এক শরিক ছাড়া, যে তোমারই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens with the idolaters' own admission. They gave Allah partners while conceding that those partners, the idols and rivals, were His slaves and His property, as they used to say in their talbiya: labbayka la sharika laka, illa sharikan huwa laka, tamlikuhu wa ma malak. Here I am at Your service, You have no partner, except a partner who is Yours: You own him and what he owns. The parable takes them at their word. If the partner is owned, the verse asks in effect, what owner shares his wealth with what he owns?",
+            "bn": "ইবন কাসীর শুরু করেন মুশরিকদের নিজেদের স্বীকারোক্তি দিয়ে। তারা আল্লাহর শরিক বানাত, আবার মেনেও নিত যে ওই শরিকরা, মূর্তি আর প্রতিদ্বন্দ্বীরা, তাঁরই বান্দা, তাঁরই মালিকানাধীন। তাদের তালবিয়ায় তারা বলত: লাব্বাইকা লা শারীকা লাকা, ইল্লা শারীকান হুয়া লাকা, তামলিকুহু ওয়া মা মালাক। আমি হাজির, তোমার কোনো শরিক নেই, তবে এক শরিক আছে যে তোমারই। তুমি তার মালিক, আর সে যা কিছুর মালিক তারও। দৃষ্টান্তটি তাদের মুখের কথা ধরেই এগোয়। শরিক যদি মালিকানাধীনই হয়, তাহলে আয়াতের প্রশ্নটা দাঁড়ায় এই: কোন মালিক নিজের মালিকানাধীনকে নিজের সম্পদে ভাগ দেয়?"
+          },
+          {
+            "en": "Two commentators tie the talbiya to the verse's coming down. Ibn Kathir cites at-Tabarani, with his chain through Sa'id ibn Jubayr to Ibn Abbas: the people of shirk used to say this in their talbiya, and Allah revealed this verse. Al-Qurtubi says it came down about the disbelievers of Quraysh, who said it in the talbiya, and names Sa'id ibn Jubayr as his source. Neither gives a grading, and at-Tabari, al-Baghawi and as-Sa'di do not mention it, so it stands here as the occasion some give, not as settled.",
+            "bn": "দুজন তাফসীরকার এই তালবিয়াকে আয়াত নাযিলের উপলক্ষ বলেন। ইবন কাসীর তাবারানীর বর্ণনা আনেন, তাঁর সনদে সাঈদ ইবন জুবাইর হয়ে ইবন আব্বাস (রাঃ) পর্যন্ত: মুশরিকরা তালবিয়ায় এ কথা বলত, তখন আল্লাহ এ আয়াত নাযিল করলেন। কুরতুবী বলেন, আয়াতটি নাযিল হয়েছে কুরাইশের কাফিরদের সম্পর্কে, যারা তালবিয়ায় এ কথা বলত। সূত্র হিসেবে তিনি সাঈদ ইবন জুবাইরের নাম নেন। দুজনের কেউই বর্ণনাটির মান উল্লেখ করেননি, আর তাবারী, বাগাভী ও সা'দী এর উল্লেখই করেন না। তাই এখানে এটি কারও কারও বলা উপলক্ষ হিসেবেই থাকছে, প্রতিষ্ঠিত বিষয় হিসেবে নয়।"
+          },
+          {
+            "en": "The talbiya itself is recorded by Muslim in his Sahih (Muslim 1185), from Ibn Abbas: the idolaters used to say, Here I am at Your service, You have no partner. And the Messenger of Allah ﷺ would say, Woe to you, enough, enough. Then they would say, except a partner who is Yours: You own him and what he owns. They would say this while going round the House. The narration describes their talbiya and does not mention this verse. No commentary read here ties a sound hadith directly to the verse.",
+            "bn": "তালবিয়াটি মুসলিম তাঁর সহীহ গ্রন্থে (মুসলিম ১১৮৫) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন: মুশরিকরা বলত, আমি হাজির, তোমার কোনো শরিক নেই। তখন রাসূলুল্লাহ ﷺ বলতেন, তোমাদের সর্বনাশ হোক! থাম, এটুকুই যথেষ্ট। তারপর তারা বলত, তবে এক শরিক আছে যে তোমারই। তুমি তার মালিক, আর সে যা কিছুর মালিক তারও। কাবাঘর তাওয়াফ করতে করতে তারা এ কথা বলত। এ হাদীসে তাদের তালবিয়ার বর্ণনা আছে, কিন্তু এ আয়াতের কোনো উল্লেখ নেই। এখানে পড়া কোনো তাফসীর এ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Partnership Is for the Needy",
+          "bn": "অংশীদারি অভাবীদের প্রয়োজন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the verse beside 16:62, where they assign to Allah what they themselves dislike, which he explains as daughters: they called the angels daughters of Allah, while a man among them, told of a daughter's birth, went dark in the face. They ascribed to Him what they would not accept for themselves, and he calls this the grossest disbelief. Here it is the same, he says: they made His slaves His partners, while each of them utterly refused to make his own slave his equal in his wealth.",
+            "bn": "ইবন কাসীর আয়াতটিকে ১৬:৬২-এর পাশে রাখেন, যেখানে বলা হয়েছে, তারা নিজেরা যা অপছন্দ করে তা আল্লাহর জন্য সাব্যস্ত করে। তাঁর ব্যাখ্যায় সেটা কন্যাসন্তান। ফেরেশতাদের তারা বলত আল্লাহর কন্যা, অথচ তাদের কাউকে কন্যা জন্মের খবর দিলে তার চেহারা কালো হয়ে যেত। নিজেদের জন্য যা মানত না, তা-ই তারা তাঁর প্রতি আরোপ করত। ইবন কাসীর একে সবচেয়ে জঘন্য কুফর বলেন। তাঁর মতে এখানেও একই ব্যাপার। তাঁর বান্দাদের তারা তাঁর শরিক বানাত, অথচ নিজের গোলামকে নিজের সম্পদে সমান করতে তাদের প্রত্যেকে চরমভাবে অস্বীকার করত।"
+          },
+          {
+            "en": "The abridged English of Ibn Kathir states the logic: if humans have this characteristic, it is even less befitting for Allah to have a partner. Al-Qurtubi relays a fuller argument from some scholars. The verse, they say, grounds partnership among creatures, who need each other, and denies it of Allah: if partnership fails between slaves and masters, and all creation are Allah's slaves, nothing in the world shares in any of His acts. Partnership implies mutual help with wealth and labour, and the Eternal is beyond needing it.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ যুক্তিটা সোজা করে বলে: মানুষের মধ্যেই যদি এই স্বভাব থাকে, তাহলে আল্লাহর শরিক থাকা আরও বেশি অশোভন। কুরতুবী কিছু আলেমের কাছ থেকে আরও পূর্ণাঙ্গ যুক্তি আনেন। তাঁদের মতে এ আয়াত সৃষ্টির মধ্যে অংশীদারির ভিত্তি, কারণ তারা একে অপরের মুখাপেক্ষী, আর আল্লাহ থেকে তা নাকচ করারও ভিত্তি। দাস আর মালিকের মধ্যে অংশীদারি যদি না চলে, আর গোটা সৃষ্টি যদি আল্লাহর বান্দা হয়, তাহলে জগতের কিছুই তাঁর কোনো কাজে শরিক নয়। অংশীদারি মানে সম্পদে ও শ্রমে পরস্পরের সাহায্য, আর অনাদি সত্তা এমন প্রয়োজনের ঊর্ধ্বে।"
+          },
+          {
+            "en": "Al-Qurtubi then adds a sentence of his own weight: this question is better for the student than memorising a whole volume of fiqh, because none of the acts of bodily worship are sound until it is set right in the heart. As-Sa'di draws the practical edge. From this likeness, he says, it is known that whoever takes a partner besides Allah, worshipping it and relying on it in his affairs, has nothing of the truth with him. The parable is about worship, but his words reach to reliance as well: where a heart leans for its affairs.",
+            "bn": "এরপর কুরতুবী নিজের পক্ষ থেকে ভারী একটা কথা যোগ করেন। শিক্ষার্থীর জন্য এই মাসআলা ফিকহের পুরো একটা দীওয়ান মুখস্থ করার চেয়েও উত্তম। কারণ অন্তরে এ বিষয়টি ঠিক না হওয়া পর্যন্ত শারীরিক কোনো ইবাদতই সহীহ হয় না। সা'দী এর বাস্তব দিকটা সামনে আনেন। তাঁর কথায়, এ দৃষ্টান্ত থেকে জানা গেল, যে আল্লাহকে ছাড়া কাউকে শরিক বানিয়ে তার ইবাদত করে, নিজের কাজকর্মে তার উপর ভরসা করে, তার কাছে সত্যের কিছুই নেই। দৃষ্টান্তটি ইবাদত নিয়ে। কিন্তু তাঁর কথা ভরসা পর্যন্তও পৌঁছায়: নিজের কাজকর্মে অন্তর কার দিকে হেলে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arguing From the Hearers' World",
+          "bn": "শ্রোতাদের জগৎ থেকে যুক্তি"
+        },
+        "p": [
+          {
+            "en": "A word about the arrangement the parable uses. Owning slaves was part of the hearers' world, and the verse argues from inside that world. It takes a rule every master already kept, that the person he owned was not his equal partner, and holds the listeners to it. Its force rests on their own standard, not on any approval of the arrangement, and nothing in it holds up owning people as a model to admire. Read today, the part to keep is the argument: the place they refused to give what they owned, they gave to what Allah owns.",
+            "bn": "দৃষ্টান্তে যে ব্যবস্থার কথা এসেছে, তা নিয়ে একটু বলা দরকার। দাস রাখা ছিল শ্রোতাদের জগতের অংশ, আর আয়াত যুক্তি দেয় সেই জগতের ভেতর থেকে। প্রত্যেক মালিক আগে থেকেই একটা নিয়ম মানত: নিজের মালিকানাধীন মানুষ তার সমান অংশীদার নয়। আয়াত শ্রোতাদের সেই নিয়মেই বেঁধে ফেলে। এর জোর তাদের নিজেদের মানদণ্ডে, ব্যবস্থাটির প্রতি কোনো সমর্থনে নয়। মানুষকে মালিকানায় রাখাকে অনুকরণীয় আদর্শ হিসেবে দেখানোর কিছুই এতে নেই। আজ পড়ার সময় ধরে রাখার জিনিস হলো যুক্তিটা: নিজের মালিকানাধীনকে যে আসন তারা দিত না, সেই আসনই দিত আল্লাহর মালিকানাধীনকে।"
+          },
+          {
+            "en": "The verse also speaks to a particular audience. The commentators read here name them as the idolaters who worshipped others alongside Allah, and al-Qurtubi names the disbelievers of Quraysh. The verse describes what it describes, their worship and their talbiya, and licenses nothing against any living person or community. Its question is put to the reason of whoever hears it. The Muyassar addresses it to the idolaters, but a reader's first use of it is on himself: whether anything he owns or relies on has quietly been given the place that is Allah's.",
+            "bn": "আয়াতের শ্রোতারাও নির্দিষ্ট। এখানে পড়া তাফসীরকারেরা তাদের চিহ্নিত করেন সেই মুশরিকদের হিসেবে, যারা আল্লাহর সঙ্গে অন্যদেরও ইবাদত করত। কুরতুবী নাম নেন কুরাইশের কাফিরদের। আয়াত যা বর্ণনা করে তা-ই বর্ণনা করে, তাদের ইবাদত আর তাদের তালবিয়া। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এর প্রশ্নটা রাখা হয়েছে যে শোনে তার বুদ্ধির সামনে। মুয়াসসার প্রশ্নটা মুশরিকদের উদ্দেশে বলে। কিন্তু পাঠক প্রথমে প্রশ্নটা করবেন নিজেকেই: যা তার মালিকানায় বা যার উপর সে ভরসা করে, তার কোনোটিকে কি চুপিসারে আল্লাহর আসন দেওয়া হয়ে গেছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spelled Out for Thinking People",
+          "bn": "চিন্তাশীলদের জন্য খুলে বলা"
+        },
+        "p": [
+          {
+            "en": "Kadhalika nufassilu al-ayat li-qawmin ya'qilun: thus do We detail the signs for a people who reason. At-Tabari reads it against the whole passage: as We have made clear in this surah Our proofs of Our power to bring into being, to end and to restore, and shown that worship befits none but the One, the Subduer, so We make clear Our proofs in every truth, for people who ponder them when they hear them. Al-Baghawi: people who look at these proofs with their minds.",
+            "bn": "কাযালিকা নুফাসসিলুল আয়াতি লিকাওমিই ইয়া'কিলূন: এভাবে আমি বোধসম্পন্ন লোকদের জন্য নিদর্শনগুলো বিস্তারিত বলি। তাবারী কথাটা পড়েন পুরো অংশের আলোকে। এ সূরায় আমি যেমন আমার ক্ষমতার প্রমাণ স্পষ্ট করেছি, সৃষ্টি করার, শেষ করে দেওয়ার আর আবার ফিরিয়ে আনার ক্ষমতা, আর দেখিয়েছি যে ইবাদতের যোগ্য একমাত্র সেই মহাপরাক্রমশালী, তেমনি প্রতিটি সত্যে আমার প্রমাণ স্পষ্ট করি। তা তাদের জন্য, যারা শুনলে চিন্তা করে। বাগাভীর কথায়: যারা নিজেদের বুদ্ধি দিয়ে এসব প্রমাণের দিকে তাকায়।"
+          },
+          {
+            "en": "As-Sa'di explains the detailing as making the signs plain through examples, for those who grasp realities; one without reason would not see them even laid out before him. Then he asks the question the parable leaves: once it is clear that a false partner has nothing of the truth, what drove them to a falsehood so plainly false? Following desire, he answers, the very word 30:29 uses next. The argument is complete in a single verse. What resists it is not the reasoning but the wanting.",
+            "bn": "সা'দী 'বিস্তারিত বলা' কথাটির ব্যাখ্যা দেন এভাবে: দৃষ্টান্ত দিয়ে নিদর্শনগুলো স্পষ্ট করা, তাদের জন্য যারা বাস্তবতা বোঝে। যার বুদ্ধি নেই, তার সামনে সব খুলে রাখলেও সে দেখতে পাবে না। এরপর দৃষ্টান্তটি যে প্রশ্ন রেখে যায়, তিনি নিজেই তা তোলেন। মিথ্যা শরিকের কাছে সত্যের কিছুই নেই, এটা যখন স্পষ্ট, তখন যে বাতিলের অসারতা চোখের সামনে, তার দিকে তাদের ঠেলে দিল কিসে? তাঁর জবাব, খেয়ালখুশির অনুসরণ। পরের আয়াত ৩০:২৯ ঠিক এ কথাই বলে। যুক্তিটা একটিমাত্র আয়াতেই পূর্ণ। একে যা ঠেকায় তা বুদ্ধি নয়, চাওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "30:30": {
     "sections": [
       {
