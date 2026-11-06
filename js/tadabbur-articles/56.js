@@ -2659,6 +2659,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "56:73": {
+    "sections": [
+      {
+        "h": {
+          "en": "Last of Four Questions",
+          "bn": "চার প্রশ্নের শেষটি"
+        },
+        "p": [
+          {
+            "en": "Four times in this passage the same opening returns: afa-ra'aytum, have you seen, tell me about. It asks about the drop that is emitted in 56:58, the seed that is sown in 56:63, the water that is drunk in 56:68, and the fire that is kindled in 56:71. Each time a second question follows, is it you who do this or is it We, and each time the listener is left to answer. Our verse closes the last of the four, and it closes it by speaking the answer aloud.",
+            "bn": "এই অংশে একই সূচনা চারবার ফিরে আসে: আফারাআইতুম, তোমরা কি দেখেছ, আমাকে বলো তো। প্রশ্ন আসে ৫৬:৫৮ আয়াতে নির্গত ফোঁটা নিয়ে, ৫৬:৬৩ আয়াতে বোনা বীজ নিয়ে, ৫৬:৬৮ আয়াতে পান করা পানি নিয়ে, আর ৫৬:৭১ আয়াতে জ্বালানো আগুন নিয়ে। প্রতিবার পেছনে আসে আরেকটি প্রশ্ন: কাজটা কি তোমরা কর, নাকি আমি? আর প্রতিবার উত্তরটা শ্রোতার উপর ছেড়ে দেওয়া হয়। আমাদের আয়াত চারটির শেষটির ইতি টানে, আর টানে উত্তরটা নিজেই উচ্চারণ করে।"
+          },
+          {
+            "en": "The fire is first named by what people do with it: allati turun, the fire you kindle. At-Tabari explains it as the fire you draw out of your zand, the fire-sticks, and al-Baghawi and Ibn Kathir use the same image of striking it out. Al-Qurtubi has it brought out by striking from moist wood. Then 56:72 turns from the act to the origin: a-antum ansha'tum shajarataha, was it you who brought its tree into being? At-Tabari glosses this as producing the tree and inventing its root.",
+            "bn": "আগুনের পরিচয় প্রথমে আসে মানুষ তা দিয়ে কী করে সেই কাজ দিয়ে: আল্লাতী তূরূন, যে আগুন তোমরা জ্বালাও। তাবারী বলেন, এ সেই আগুন যা তোমরা নিজেদের যান্দ, অর্থাৎ আগুন জ্বালানোর কাঠি থেকে বের করে আন। বাগাভী আর ইবন কাসীরও ঘষে বা ঠুকে বের করার একই ছবি ব্যবহার করেন। কুরতুবীর ভাষায়, ভেজা কাঠে ঠুকে আগুন বের করা হয়। তারপর ৫৬:৭২ আয়াত কাজ থেকে উৎসের দিকে ফেরে: আআনতুম আনশা'তুম শাজারাতাহা, এর গাছ কি তোমরা সৃষ্টি করেছ? তাবারীর ব্যাখ্যায়, গাছটা অস্তিত্বে আনা আর তার মূল উদ্ভাবন করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Markh, 'Afar and Green Wood",
+          "bn": "মারখ, আফার আর সবুজ কাঠ"
+        },
+        "p": [
+          {
+            "en": "Which tree is meant? Al-Qurtubi and al-Baghawi both name the trees from which fire-sticks were struck: al-markh and al-'afar. Ibn Kathir describes how they were used: when two green branches were taken from these trees and one was rubbed against the other, sparks of fire scattered from between them. Al-Qurtubi also records a saying of the Arabs, that in every tree there is fire and the markh and the 'afar have taken the most of it. These are the commentators' reports of how fire was made, not words of the verse.",
+            "bn": "কোন গাছের কথা বলা হচ্ছে? কুরতুবী আর বাগাভী দুজনেই সেই গাছ দুটোর নাম বলেন, যা থেকে আগুন জ্বালানোর কাঠি নেওয়া হতো: মারখ আর আফার। ইবন কাসীর বর্ণনা দেন কীভাবে এগুলো কাজে লাগানো হতো। এ দুই গাছ থেকে দুটো সবুজ ডাল নিয়ে একটা আরেকটার সঙ্গে ঘষলে মাঝখান থেকে আগুনের ফুলকি ছিটকে পড়ত। কুরতুবী আরবদের একটি প্রবাদও উল্লেখ করেন: সব গাছেই আগুন আছে, তবে মারখ আর আফার তার সবচেয়ে বেশি ভাগ নিয়ে নিয়েছে। এগুলো আগুন জ্বালানোর পদ্ধতি নিয়ে তাফসীরকারদের বর্ণনা, আয়াতের নিজের শব্দ নয়।"
+          },
+          {
+            "en": "As-Sa'di, writing on 56:71 and 56:72 together, makes the point without naming any tree. Fire, he says, is among the necessities creation cannot do without. Allah questions people about the fire He placed in trees, trees they could never have made grow; He produced it from the green tree, so that it is kindled to the measure of their need and put out when they are done. His phrase matches the wording of 36:80. Al-Qurtubi closes 56:72 with its purpose: once you know My power, thank Me, and do not deny My power to raise the dead.",
+            "bn": "সা'দী ৫৬:৭১ ও ৫৬:৭২ আয়াত একসঙ্গে ব্যাখ্যা করেছেন, কোনো গাছের নাম না নিয়েই। তাঁর কথায়, আগুন সেই প্রয়োজনীয় জিনিসগুলোর একটি, যা ছাড়া সৃষ্টির চলে না। আল্লাহ মানুষকে জিজ্ঞেস করছেন গাছের ভেতরে রাখা আগুন নিয়ে, অথচ সেই গাছ তারা কখনো গজাতে পারত না। তিনিই সবুজ গাছ থেকে আগুন বের করেছেন। তাই প্রয়োজন মতো তা জ্বালানো যায়, আর কাজ শেষ হলে নিভিয়ে ফেলা যায়। সবুজ গাছের এই কথাটি ৩৬:৮০ আয়াতের শব্দের সঙ্গে মিলে যায়। কুরতুবী ৫৬:৭২ আয়াতের আলোচনা শেষ করেন প্রশ্নের উদ্দেশ্য দিয়ে: আমার কুদরত যখন জেনেছ, তখন আমার শোকর কর, আর মৃতকে আবার জীবিত করার ব্যাপারে আমার কুদরত অস্বীকার কোরো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembering the Greater Fire",
+          "bn": "বড় আগুনকে মনে রাখা"
+        },
+        "p": [
+          {
+            "en": "Then the answer: nahnu ja'alnaha tadhkiratan, We made it a reminder. The question in 56:72 ended on the word nahnu, We, and our verse begins with it. At-Tabari explains: We made the fire a reminder for you, by which you remember the fire of Jahannam, so that you take a lesson and are admonished. He says the people of interpretation held the same, and his reports give Mujahid's gloss, a reminder of the greater Fire, and Qatadah's, for the greater Fire. Ibn Kathir opens with the same two names and the same meaning.",
+            "bn": "এরপর আসে উত্তর: নাহনু জাআলনাহা তাযকিরাতান, আমি একে বানিয়েছি স্মারক। ৫৬:৭২ আয়াতের প্রশ্ন শেষ হয়েছিল নাহনু, অর্থাৎ আমি শব্দে, আর আমাদের আয়াত শুরুই হচ্ছে সেই শব্দ দিয়ে। তাবারী বলেন, আমি আগুনকে তোমাদের জন্য স্মারক বানিয়েছি। এ দেখে তোমরা জাহান্নামের আগুন স্মরণ করবে, শিক্ষা নেবে, উপদেশ গ্রহণ করবে। তাঁর মতে ব্যাখ্যাকারেরা এ কথাই বলেছেন। তাঁর বর্ণনায় মুজাহিদের ব্যাখ্যা: বড় আগুনের স্মারক। আর কাতাদার ব্যাখ্যা: বড় আগুনের জন্য। ইবন কাসীরও শুরু করেন এই দুই নাম আর একই অর্থ দিয়ে।"
+          },
+          {
+            "en": "Al-Baghawi puts it as something that happens to the one who looks: whoever sees this fire remembers Jahannam, a reading he gives from 'Ikrimah, Mujahid and Muqatil. He adds a second from 'Ata': an admonition by which the believer takes heed. The Muyassar keeps to one line, that Allah made the fire you kindle a reminder to you of the fire of Jahannam. Ma'arif al-Qur'an widens the reminder in a bracket of its own, making it a reminder of Allah's infinite power as well as of the fire of hell.",
+            "bn": "বাগাভী বিষয়টা বলেন দর্শকের অভিজ্ঞতা হিসেবে: যে এই আগুন দেখে, তার জাহান্নামের কথা মনে পড়ে। এ ব্যাখ্যা তিনি আনেন ইকরিমা, মুজাহিদ আর মুকাতিল থেকে। আতা থেকে তিনি দ্বিতীয় একটি কথাও যোগ করেন: এমন উপদেশ, যা থেকে মুমিন শিক্ষা নেয়। মুয়াসসার এক লাইনেই থামে: তোমরা যে আগুন জ্বালাও, আল্লাহ তাকে তোমাদের জন্য জাহান্নামের আগুনের স্মারক বানিয়েছেন। মাআরিফুল কুরআন নিজের বন্ধনীতে স্মারকের পরিধি আরও বাড়ায়। তাতে আগুন জাহান্নামের কথা যেমন মনে করায়, তেমনি আল্লাহর অসীম কুদরতের কথাও।"
+          },
+          {
+            "en": "Al-Qurtubi carries the same reading from Qatadah, that worldly fire is an admonition pointing to the greater Fire. Under Mujahid's name, however, he records something else: tabsiratan li-n-nas min az-zalam, a means of sight for people out of the darkness. The reminder there is light in the dark, not punishment. At-Tabari's chains from Mujahid give the greater Fire, so two readings reach us under one name, and the texts fetched for this verse do not reconcile them. Both are set down here as they were found.",
+            "bn": "কুরতুবীও কাতাদা থেকে একই ব্যাখ্যা আনেন: দুনিয়ার আগুন বড় আগুনের দিকে ইশারা করা এক উপদেশ। কিন্তু মুজাহিদের নামে তিনি ভিন্ন একটি কথা উল্লেখ করেন: তাবসিরাতান লিন্নাসি মিনায যালাম, মানুষের জন্য অন্ধকার থেকে বেরিয়ে দেখার উপায়। সেখানে স্মারক মানে অন্ধকারে আলো, শাস্তির কথা নয়। অথচ তাবারীর সনদগুলোতে মুজাহিদ থেকে এসেছে বড় আগুনের কথা। ফলে এক নামে দুটি ব্যাখ্যা আমাদের কাছে পৌঁছেছে। এ আয়াতের জন্য সংগৃহীত লেখাগুলো এ দুটির মধ্যে মিল ঘটায় না। তাই যেমন পাওয়া গেছে, দুটিই তেমন রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Part of Seventy",
+          "bn": "সত্তর ভাগের এক ভাগ"
+        },
+        "p": [
+          {
+            "en": "Several commentators bring a hadith here. In al-Bukhari's Sahih (3265), from Abu Hurayrah: Allah's Messenger ﷺ said, \"Your (ordinary) fire is one of 70 parts of the (Hell) Fire.\" Someone asked, \"O Allah's Messenger (ﷺ) This (ordinary) fire would have been sufficient (to torture the unbelievers),\" Allah's Apostle said, \"The (Hell) Fire has 69 parts more than the ordinary (worldly) fire, each part is as hot as this (worldly) fire.\" Muslim records it too in his Sahih (2843), from Abu Hurayrah, in close wording.",
+            "bn": "কয়েকজন তাফসীরকার এখানে একটি হাদীস আনেন। সহীহ বুখারীতে (৩২৬৫) আবু হুরায়রা (রাঃ) থেকে বর্ণিত: রাসূলুল্লাহ ﷺ বলেছেন, তোমাদের (দুনিয়ার) আগুন জাহান্নামের আগুনের ৭০ ভাগের একটি ভাগ মাত্র। কেউ বলল, হে আল্লাহর রাসূল ﷺ, (কাফিরদের শাস্তির জন্য) এই (দুনিয়ার) আগুনই তো যথেষ্ট হতো। তিনি বললেন, (জাহান্নামের) আগুনকে দুনিয়ার আগুনের চেয়ে আরও ৬৯ ভাগ বাড়িয়ে দেওয়া হয়েছে, আর তার প্রতিটি ভাগ এই (দুনিয়ার) আগুনের সমান উত্তপ্ত। সহীহ মুসলিমেও (২৮৪৩) আবু হুরায়রা (রাঃ) থেকে কাছাকাছি শব্দে হাদীসটি এসেছে।"
+          },
+          {
+            "en": "The Prophet ﷺ did not say this as a comment on our verse. It is a general narration, placed here by the commentators because the verse calls this fire a reminder. Qatadah's version, carried by at-Tabari and Ibn Kathir, begins \"we were told\" and adds that this fire was struck with water twice so that the children of Adam could benefit from it and come near it. Ibn Kathir notes that Qatadah sent it on without naming his source. That addition is not in al-Bukhari's wording above.",
+            "bn": "নবী ﷺ কথাটি আমাদের আয়াতের ব্যাখ্যা হিসেবে বলেননি। এটি সাধারণ একটি বর্ণনা। আয়াত এই আগুনকে স্মারক বলেছে বলেই তাফসীরকারেরা হাদীসটি এখানে এনেছেন। তাবারী আর ইবন কাসীর কাতাদার যে বর্ণনা আনেন, তা শুরু হয় 'আমাদের বলা হয়েছে' কথাটি দিয়ে। তাতে বাড়তি আছে যে, এই আগুনকে দুবার পানি দিয়ে আঘাত করা হয়েছে, যাতে আদম সন্তানেরা তা থেকে উপকার নিতে আর তার কাছে যেতে পারে। ইবন কাসীর জানান, কাতাদা উৎসের নাম না বলেই কথাটি বর্ণনা করেছেন। ওপরে উদ্ধৃত বুখারীর শব্দে এই বাড়তি অংশ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Reminders, One Flame",
+          "bn": "এক শিখায় দুই স্মরণ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads tadhkirah as doubled. The fire is a reminder to the servants of their Lord's blessing, and a reminder of the fire of Jahannam that Allah has prepared for those who disobey. Then he adds an image of his own: Allah made it a whip, sawt, by which He drives His servants towards the abode of bliss. In his telling the warning serves the destination. The whip does not drive people away from mercy; it drives them towards the Garden.",
+            "bn": "সা'দী তাযকিরা শব্দটিকে দুই অর্থে পড়েন। আগুন বান্দাদের মনে করিয়ে দেয় তাদের রবের নিয়ামতের কথা। আবার মনে করিয়ে দেয় জাহান্নামের আগুনের কথা, যা আল্লাহ নাফরমানদের জন্য তৈরি করে রেখেছেন। এরপর তিনি নিজের একটি উপমা যোগ করেন: আল্লাহ একে বানিয়েছেন চাবুক, যা দিয়ে তিনি বান্দাদের হাঁকিয়ে নিয়ে যান নিয়ামতের ঘরের দিকে। তাঁর কথায় সতর্কবাণী কাজ করে গন্তব্যের জন্য। এই চাবুক মানুষকে রহমত থেকে দূরে তাড়ায় না, জান্নাতের দিকেই এগিয়ে নেয়।"
+          },
+          {
+            "en": "Al-Qurtubi, under Mujahid's gloss on the next phrase, joins the two halves of the verse in one sentence. People enjoy fire in cooking, baking bread, warming themselves and lighting the dark, and by it the fire of Jahannam is remembered, so that refuge is sought with Allah from it. The verse names the reminder before the provision, yet the two come from the same heat. Whoever uses fire every day is handed the reminder every day.",
+            "bn": "কুরতুবী পরের অংশে মুজাহিদের ব্যাখ্যার আলোচনায় আয়াতের দুই অংশকে এক বাক্যে জুড়ে দেন। রান্না, রুটি সেঁকা, শরীর গরম করা আর অন্ধকারে আলো জ্বালাতে মানুষ আগুন থেকে উপকার নেয়। আবার এই আগুন দেখে জাহান্নামের আগুনের কথা মনে পড়ে, ফলে মানুষ তা থেকে আল্লাহর আশ্রয় চায়। আয়াত স্মারকের কথা বলেছে উপকারের আগে, তবু দুটোই আসে একই তাপ থেকে। যে প্রতিদিন আগুন ব্যবহার করে, প্রতিদিনই সে স্মারকটা হাতে পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Are the Muqwin?",
+          "bn": "মুকবীন কারা?"
+        },
+        "p": [
+          {
+            "en": "Wa-mata'an li-l-muqwin: and a provision for the muqwin. At-Tabari says the people of interpretation differed over the word. The first group says they are travellers: he gives this from Ibn 'Abbas by two chains, from Qatadah, who glosses it as al-murmil, the traveller, and from ad-Dahhak. Ibn Kathir lists Ibn 'Abbas, Mujahid, Qatadah, ad-Dahhak and an-Nadr ibn 'Arabi for this meaning. Al-Baghawi calls it the view of most commentators, and al-Qurtubi relays the same from ath-Tha'labi.",
+            "bn": "ওয়া মাতাআন লিলমুকবীন: আর মুকবীনদের জন্য উপকারের সামগ্রী। তাবারী বলেন, শব্দটির অর্থ নিয়ে ব্যাখ্যাকারদের মধ্যে মতভেদ হয়েছে। প্রথম দলের মতে এরা মুসাফির। এ মত তিনি আনেন ইবন আব্বাস (রাঃ) থেকে দুটি সনদে, কাতাদা থেকে, যিনি শব্দটির ব্যাখ্যা করেন আল-মুরমিল, অর্থাৎ মুসাফির বলে, আর যাহহাক থেকে। ইবন কাসীর এ অর্থের পক্ষে নাম নেন ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা, যাহহাক আর নাদর ইবন আরাবীর। বাগাভী বলেন, অধিকাংশ তাফসীরকারের মত এটিই, আর কুরতুবী সা'লাবী থেকে একই কথা উদ্ধৃত করেন।"
+          },
+          {
+            "en": "The second group: those who enjoy the fire, all people. Ibn Abi Najih reports this from Mujahid, al-Baghawi gives it from Mujahid and 'Ikrimah, and at-Tabari has Khusayf say simply: for creation. The third: the hungry. Ibn Zayd says that in Arab speech al-muqwi is the hungry man, as in the phrase aqwaytu, I have eaten nothing. Al-Qurtubi adds that ar-Rabi' and as-Suddi took the muqwin to be people who halt with no fire-sticks among them, and that al-'Awfi relayed this from Ibn 'Abbas.",
+            "bn": "দ্বিতীয় দলের মতে এরা আগুন থেকে উপকার নেওয়া সব মানুষ। ইবন আবী নাজীহ এ মত বর্ণনা করেন মুজাহিদ থেকে, বাগাভী আনেন মুজাহিদ ও ইকরিমা থেকে, আর তাবারীর বর্ণনায় খুসাইফ সংক্ষেপে বলেন: সৃষ্টিজগতের জন্য। তৃতীয় দলের মতে এরা ক্ষুধার্ত। ইবন যায়দ বলেন, আরবদের কথায় আল-মুকবী মানে ক্ষুধার্ত মানুষ, যেমন বলা হয় আকওয়াইতু, অর্থাৎ আমি কিছুই খাইনি। কুরতুবী আরও জানান, রাবী আর সুদ্দী মুকবীন বলতে বুঝেছেন এমন যাত্রীদের, যারা থেমেছে অথচ সঙ্গে আগুন জ্বালানোর কাঠি নেই। আওফী এ মত ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন।"
+          },
+          {
+            "en": "The word itself gathers these senses. At-Tabari roots it in aqwat ad-dar, the dwelling emptied of its people, and cites a line of verse. Al-Qurtubi gives al-Farra': travellers are called muqwin when they alight in al-qiyy, barren land with nothing in it, and he quotes an-Nabigha and 'Antara using the verb. Qutrub, in al-Qurtubi and al-Baghawi, calls it a word of opposites: the poor man, empty of wealth, and the rich man, strong in what he owns.",
+            "bn": "শব্দটির ভেতরেই এসব অর্থ জমা আছে। তাবারী এর মূল খুঁজে পান আকওয়াতিদ দার কথাটিতে, অর্থাৎ ঘর তার বাসিন্দাদের থেকে খালি হয়ে গেছে, আর এর পক্ষে একটি কবিতার চরণ উদ্ধৃত করেন। কুরতুবী ফাররা থেকে আনেন: মুসাফিররা যখন আল-কিয়্যে, অর্থাৎ কিছুই নেই এমন বিরান ভূমিতে নামে, তখন তাদের মুকবীন বলা হয়। ক্রিয়াটির ব্যবহার দেখাতে তিনি নাবিগা আর আনতারার কবিতাও উদ্ধৃত করেন। কুরতুবী ও বাগাভী দুজনেই কুতরুব থেকে আনেন যে শব্দটি বিপরীত অর্থ বহন করে। এর মানে হতে পারে সম্পদশূন্য গরিব, আবার নিজের সম্পদে শক্তিমান ধনীও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Traveller Is Named",
+          "bn": "মুসাফিরের কথা আলাদা কেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states his own preference: the traveller who has no provisions with him and nothing of his own. Ibn Kathir weighs the readings differently. He calls Mujahid's meaning, all who benefit, more general than the others, since the settled and the desert dweller, rich and poor, all need fire for cooking, warmth and light; travellers are singled out, he says, though the benefit belongs to everyone. Al-Mahdawi, quoted by al-Qurtubi, holds that the verse suits every meaning, since everyone needs fire.",
+            "bn": "তাবারী নিজের পছন্দের মত জানিয়ে দেন: এমন মুসাফির, যার সঙ্গে পাথেয় নেই, নিজের বলতেও কিছু নেই। ইবন কাসীর মতগুলোকে মাপেন অন্যভাবে। তাঁর মতে মুজাহিদের ব্যাখ্যা, অর্থাৎ উপকারভোগী সব মানুষ, অন্যগুলোর চেয়ে ব্যাপক। কারণ শহরের বাসিন্দা আর মরুবাসী, ধনী আর গরিব, সবারই রান্না, উষ্ণতা আর আলোর জন্য আগুন লাগে। তিনি বলেন, উপকার সবার হলেও মুসাফিরদের কথা আলাদা করে বলা হয়েছে। কুরতুবীর উদ্ধৃতিতে মাহদাবী বলেন, আয়াতটি সব অর্থের জন্যই খাটে, কারণ আগুনের প্রয়োজন সবার।"
+          },
+          {
+            "en": "Why single out the traveller, then? Al-Baghawi, and al-Qushayri through al-Qurtubi, give one reason: people of the desert and of journeys gain more from fire than the resident does. They light it at night so that wild beasts flee from them, and, al-Baghawi adds, so that the lost find their way by it. Al-Hasan, in al-Baghawi, says travellers carried it in rags and sacks. Ibn Kathir sees a kindness in fire being lodged in stones and iron, so a traveller can pack it among his belongings and strike it at his halt.",
+            "bn": "তাহলে মুসাফিরের কথা আলাদা করে কেন? বাগাভী, আর কুরতুবীর উদ্ধৃতিতে কুশাইরী, একই কারণ বলেন: মরুবাসী আর সফরের মানুষ ঘরে থাকা লোকের চেয়ে আগুন থেকে বেশি উপকার পায়। তারা রাতে আগুন জ্বালায়, যাতে হিংস্র জন্তু দূরে পালায়। বাগাভী যোগ করেন, পথহারা মানুষও সেই আগুন দেখে পথ খুঁজে পায়। বাগাভীর বর্ণনায় হাসান বলেন, মুসাফিররা কাপড়ের টুকরো আর থলেতে করে আগুন সঙ্গে নিয়ে যেত। ইবন কাসীর এতে আল্লাহর অনুগ্রহ দেখেন যে, আগুনকে পাথর আর লোহার ভেতরে রাখা হয়েছে, ফলে মুসাফির তা মালপত্রের সঙ্গে বয়ে নিতে আর যাত্রাবিরতিতে ঠুকে জ্বালাতে পারে।"
+          },
+          {
+            "en": "As-Sa'di gives the same reason, that the traveller benefits most, then offers a further thought introduced with la'alla, perhaps. The whole world is an abode of travel, and the servant, from the hour he is born, is a traveller to his Lord. This fire, then, is provision for travellers in this abode and a reminder to them of the abode that lasts. On his reading every listener is among the muqwin, carrying a small fire through a passing world.",
+            "bn": "সা'দীও একই কারণ বলেন যে, মুসাফিরের উপকারই সবচেয়ে বেশি। তারপর লাআল্লা, অর্থাৎ হয়তো শব্দ দিয়ে তিনি আরেকটি ভাবনা যোগ করেন। পুরো দুনিয়াটাই সফরের জায়গা, আর বান্দা জন্মের মুহূর্ত থেকেই তার রবের দিকে চলা এক মুসাফির। তাই এই আগুন এ জগতের মুসাফিরদের জন্য উপকারের সামগ্রী, আর চিরস্থায়ী ঘরের কথা মনে করিয়ে দেওয়া এক স্মারক। তাঁর এই পাঠে প্রত্যেক শ্রোতাই মুকবীনদের একজন, যে ক্ষণস্থায়ী এক দুনিয়ার ভেতর দিয়ে ছোট্ট একটা আগুন বয়ে নিয়ে চলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fire Held in Common",
+          "bn": "সবার ভাগের আগুন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir adds that a hadith may be cited in support. Abu Dawud recorded it (3477), from a man of the Muhajirun among the Prophet's Companions: \"I participated in battle three times along with the Prophet (ﷺ). I heard him say: Muslims have common share in three (things). grass, water and fire.\" The page consulted gives no grading, so none is stated here. It is a general narration about what people share, not an explanation of this verse, and Ibn Kathir offers it only as possible support.",
+            "bn": "ইবন কাসীর যোগ করেন, এর সমর্থনে একটি হাদীস আনা যেতে পারে। আবু দাউদ (৩৪৭৭) হাদীসটি বর্ণনা করেছেন নবী ﷺ-এর সাহাবিদের মধ্যে মুহাজিরদের একজন থেকে: আমি নবী ﷺ-এর সঙ্গে তিনবার যুদ্ধে অংশ নিয়েছি। তাঁকে বলতে শুনেছি, মুসলমানরা তিনটি জিনিসে অংশীদার: ঘাস, পানি আর আগুন। যে পৃষ্ঠা দেখা হয়েছে তাতে হাদীসটির কোনো মান উল্লেখ নেই, তাই এখানেও কোনো মান বলা হলো না। এটি মানুষের যৌথ অধিকার নিয়ে সাধারণ একটি বর্ণনা, এ আয়াতের ব্যাখ্যা নয়। ইবন কাসীরও একে শুধু সম্ভাব্য সমর্থন হিসেবেই আনেন।"
+          },
+          {
+            "en": "The next verse draws the passage to its close: fa-sabbih bi-smi rabbika l-'azim, so exalt the name of your Lord, the Most Great. As-Sa'di's note runs straight into it, opening with the words: when He had made clear among His blessings what calls for praise, thanks and worship from His servants. The water passage ended with a question, fa-lawla tashkurun, in 56:70. The fire passage ends instead with a reminder and a provision, and then a command to glorify.",
+            "bn": "পরের আয়াত এই অংশের ইতি টানে: ফাসাব্বিহ বিসমি রব্বিকাল আযীম, কাজেই তোমার মহান রবের নামের তাসবীহ পাঠ কর। সা'দীর আলোচনা সোজা সেদিকেই এগিয়ে যায়। তাঁর পরের বাক্য শুরু হয় এভাবে: আল্লাহ যখন তাঁর নিয়ামতের মধ্যে সেগুলো স্পষ্ট করলেন, যা বান্দাদের কাছ থেকে প্রশংসা, শোকর আর ইবাদত দাবি করে। পানির অংশ শেষ হয়েছিল ৫৬:৭০ আয়াতে একটি প্রশ্ন দিয়ে: ফালাওলা তাশকুরূন, তবু কেন তোমরা শোকর কর না? আগুনের অংশ শেষ হয় স্মারক আর উপকারের কথা দিয়ে, তারপর আসে তাসবীহের নির্দেশ।"
+          },
+          {
+            "en": "So the small fire of the kitchen and the campsite carries a double message, and the verse lets neither crowd out the other. It is provision: food cooked, cold kept off, the dark lit, the lost guided, from a tree no one but Allah made grow. It is a reminder of a Fire far greater, given now while a warning can still change a life. To take this verse in is to use fire with thanks, to share warmth wherever possible, and to let each flame turn the heart to its Lord.",
+            "bn": "রান্নাঘর আর তাঁবুর পাশের ছোট্ট আগুন তাই দুটো বার্তা বয়ে আনে, আর আয়াত কোনোটিকে অন্যটির আড়ালে যেতে দেয় না। আগুন উপকারের সামগ্রী: খাবার রান্না হয়, শীত দূরে থাকে, অন্ধকারে আলো আসে, পথহারা পথ পায়। আর এর উৎস এমন গাছ, যা আল্লাহ ছাড়া কেউ গজাতে পারেনি। আগুন স্মারকও: অনেক বড় এক আগুনের সতর্কবাণী, যা আসছে এখনই, যখন সতর্ক হয়ে জীবন বদলানোর সুযোগ আছে। এ আয়াত গ্রহণ করার মানে শোকরের সঙ্গে আগুন ব্যবহার করা, যতটা পারা যায় উষ্ণতা ভাগ করে নেওয়া, আর প্রতিটি শিখা দেখে মনকে রবের দিকে ফেরানো।"
+          }
+        ]
+      }
+    ]
+  },
   "56:77": {
     "sections": [
       {

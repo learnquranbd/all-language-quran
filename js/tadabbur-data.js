@@ -28129,6 +28129,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The word for a guest's welcome is used here for scalding water. Ask what you are preparing to be met with, and leave every other person's end to Allah.",
     "lessonBn": "মেহমানের আপ্যায়নের শব্দটি এখানে এসেছে ফুটন্ত পানির জন্য। আপনাকে কী দিয়ে বরণ করা হবে, সে প্রস্তুতির হিসাব নিন, আর অন্য সবার পরিণতি আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "56:73": {
+    "reflectionEn": "Light a stove or a lamp, and a small fire answers you. The verses before this one ask who placed that fire in the wood, and this one gives the answer: We made it a reminder and a provision. A provision, because it cooks the meal, warms cold hands and lights the dark, most of all for someone far from home with nothing in reach. A reminder, because the heat on your palm is a small sign of a greater Fire, a warning given while there is still time to act on it. One flame carries both messages. When I next cook a meal or warm my hands, do I feel only the comfort, or do I also hear the warning and thank the One who made it serve me?",
+    "reflectionBn": "চুলা বা বাতি জ্বালালেই ছোট্ট একটা আগুন সাড়া দেয়। আগের আয়াতগুলো প্রশ্ন করেছে, কাঠের ভেতরে এই আগুন কে রেখেছে। আর এ আয়াত উত্তর দিচ্ছে: আমি একে বানিয়েছি স্মারক আর উপকারের সামগ্রী। উপকারের সামগ্রী, কারণ এতে খাবার রান্না হয়, ঠান্ডা হাত গরম হয়, অন্ধকারে আলো আসে। ঘর থেকে দূরে, হাতের কাছে কিছুই নেই এমন মানুষের কাছে এর দাম আরও বেশি। স্মারক, কারণ হাতের তালুতে যে তাপ লাগে, তা এক বড় আগুনের ছোট্ট ইশারা। সেই আগুনের সতর্কবাণী আসছে এখনই, যখন শুধরে নেওয়ার সময় আছে। একই শিখা দুটো বার্তা বয়ে আনে। এরপর যখন রান্না করব বা হাত সেঁকব, আমি কি শুধু আরামটুকুই টের পাব? নাকি সতর্কবাণীও শুনব, আর যিনি একে আমার কাজে লাগিয়ে দিয়েছেন তাঁর শোকর আদায় করব?",
+    "pointsEn": [
+      "When did I last thank Allah for something as ordinary as a lit stove, a warm room or a light at night?",
+      "What would my days look like without fire to cook, warm and light, and do I live as though that provision were owed to me?",
+      "Does the thought of the greater Fire move me to change something specific this week, or only to feel uneasy for a moment?",
+      "Who near me goes without warmth, a cooked meal or light, and what part of my own provision could reach them?",
+      "If my whole life is a journey towards my Lord, what am I carrying with me for the road?"
+    ],
+    "pointsBn": [
+      "জ্বলন্ত চুলা, গরম ঘর বা রাতের একটা বাতির মতো সাধারণ জিনিসের জন্য শেষ কবে আল্লাহর শোকর আদায় করেছি?",
+      "রান্না, উষ্ণতা আর আলোর জন্য আগুন না থাকলে আমার দিনগুলো কেমন হতো? আমি কি এমনভাবে চলি যেন এ নিয়ামত আমার পাওনা?",
+      "বড় আগুনের কথা ভাবলে কি এ সপ্তাহে নির্দিষ্ট কিছু বদলানোর তাগিদ আসে, নাকি শুধু মুহূর্তের জন্য অস্বস্তি লাগে?",
+      "আমার আশপাশে কে উষ্ণতা, রান্না করা খাবার বা আলো ছাড়া দিন কাটায়? আমার নিজের রিজিকের কোন অংশ তার কাছে পৌঁছাতে পারে?",
+      "পুরো জীবনটাই যদি রবের দিকে এক সফর হয়, তাহলে পথের জন্য আমি সঙ্গে কী নিয়ে যাচ্ছি?"
+    ],
+    "lessonEn": "Fire cooks, warms and lights, and it also recalls the greater Fire: take the gift with thanks and the warning with resolve.",
+    "lessonBn": "আগুন রান্না করে, উষ্ণতা দেয়, আলো জ্বালায়, আবার বড় আগুনের কথাও মনে করিয়ে দেয়। নিয়ামতটা নিন শোকরের সঙ্গে, আর সতর্কবাণীটা নিন দৃঢ় সংকল্পে।"
   }
 };
 
