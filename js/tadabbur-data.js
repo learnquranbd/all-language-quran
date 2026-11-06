@@ -29325,6 +29325,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your hands send something ahead every day. Look at it now, while the warning is still a warning, so that on the Day you can face it with hope.",
     "lessonBn": "আপনার হাত প্রতিদিন কিছু না কিছু আগে পাঠাচ্ছে। সতর্কবার্তা যতক্ষণ সতর্কবার্তাই আছে, এখনই তা খুঁটিয়ে দেখুন, যাতে সেদিন আশা নিয়ে তার মুখোমুখি হতে পারেন।"
+  },
+  "78:6": {
+    "reflectionEn": "The surah opens on people arguing over whether they will be raised, and before the argument goes any further a question is put to them: have We not made the earth a resting place? They were standing on the answer while they disputed it. The word chosen is a bed, ground smoothed and made ready, and one old reading hears in it a cradle, laid out for a child to be put to sleep on. I lie down on that ground every night and rise from it every morning, and it was prepared before I arrived. If the One who spread it could make such a place from nothing, what in me still doubts that He can make me again?",
+    "reflectionBn": "সূরাটি শুরু হয় একদল লোকের তর্ক দিয়ে: তাদের কি আবার ওঠানো হবে? তর্ক আর এগোনোর আগেই তাদের সামনে একটা প্রশ্ন রাখা হয়: আমি কি যমীনকে শয্যা বানাইনি? যে বিষয়ে তারা ঝগড়া করছিল, তার জবাবের উপরেই তারা দাঁড়িয়ে ছিল। শব্দটা বিছানার, সমান করে পেতে রাখা, তৈরি করে রাখা মাটির। পুরোনো এক পাঠে তাতে শোনা যায় দোলনার কথা, যাতে শিশুকে শুইয়ে ঘুম পাড়ানো হয়। প্রতি রাতে আমি এই মাটিতেই শুই, প্রতি সকালে এখান থেকেই উঠি। আমি আসার আগেই এটা প্রস্তুত করা ছিল। যিনি শূন্য থেকে এমন জায়গা বিছিয়ে দিতে পেরেছেন, তিনি আমাকে আবার বানাতে পারবেন কি না, এ নিয়ে আমার ভেতরে কোন অংশটা এখনো সন্দেহ করে?",
+    "pointsEn": [
+      "What did I stand on, sit on and sleep on today without once remembering that it had been made ready for me?",
+      "When I argue or waver about the life to come, am I doing it while standing on the very signs that answer me?",
+      "If the ground was prepared before I ever needed it, what does that tell me about how my other needs have been looked after?",
+      "Which part of the earth's service, the field, the house or the road, do I treat as mine by right rather than as a gift?",
+      "What am I preparing now for the resting place that comes after this one?"
+    ],
+    "pointsBn": [
+      "আজ কিসের উপর দাঁড়িয়েছি, বসেছি, ঘুমিয়েছি, অথচ একবারও মনে পড়েনি যে তা আমার জন্য তৈরি করে রাখা হয়েছিল?",
+      "আখিরাত নিয়ে যখন তর্ক করি বা দোটানায় পড়ি, তখন কি সেই নিদর্শনগুলোর উপর দাঁড়িয়েই তা করছি, যেগুলো নিজেই আমার জবাব?",
+      "আমার দরকার হওয়ার অনেক আগেই যদি মাটি প্রস্তুত করা থাকে, তাহলে আমার বাকি প্রয়োজনগুলোর দেখাশোনা নিয়ে এ থেকে কী বুঝি?",
+      "যমীনের কোন সেবাটা, ক্ষেত, ঘর না পথ, আমি দান না ভেবে নিজের পাওনা বলে ধরে নিয়েছি?",
+      "এই শয্যার পরে যে শয্যা আসছে, তার জন্য এখন আমি কী প্রস্তুত করছি?"
+    ],
+    "lessonEn": "The ground under you was smoothed and made ready before you arrived. Let each time you lie on it remind you that the One who prepared it can raise you again.",
+    "lessonBn": "আপনি আসার আগেই আপনার পায়ের নিচের মাটি সমান করে প্রস্তুত রাখা হয়েছিল। যতবার তাতে শোবেন, মনে রাখুন: যিনি তা প্রস্তুত করেছেন, তিনি আপনাকে আবার ওঠাতে পারেন।"
   }
 };
 

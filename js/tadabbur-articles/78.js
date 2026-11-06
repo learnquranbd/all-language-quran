@@ -151,6 +151,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "78:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "Signs After the Double Warning",
+          "bn": "দুবার সতর্ক করার পর নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "Surah an-Naba', which Ibn Kathir's abridged English heads as revealed in Makkah, opens with people questioning each other about the great news, the matter over which they disagree. Twice comes the reply kalla, no, they will come to know (78:4 and 78:5). Then, with no word of transition, the surah asks: a-lam naj'ali al-arda mihada, have We not made the earth a resting place? These four Arabic words open a list of making and building that runs to 78:16, before 78:17 announces that the Day of Decision is an appointed time.",
+            "bn": "সূরা আন-নাবা, ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ যাকে মক্কায় অবতীর্ণ বলে চিহ্নিত করে, শুরু হয় একদল লোকের কথা দিয়ে। তারা মহাসংবাদ নিয়ে একে অন্যকে জিজ্ঞেস করছে, যে বিষয়ে তাদের মতভেদ। জবাব আসে দুবার: কাল্লা, কক্ষনো না, তারা শীঘ্রই জানবে (৭৮:৪ ও ৭৮:৫)। তারপর কোনো ভূমিকা ছাড়াই সূরা প্রশ্ন তোলে: আলাম নাজআলিল আরদা মিহাদা, আমি কি যমীনকে শয্যা বানাইনি? আরবির এই চারটি শব্দ দিয়ে শুরু হয় বানানো আর গড়ে তোলার এক তালিকা, যা চলে ৭৮:১৬ পর্যন্ত। এরপর ৭৮:১৭ ঘোষণা করে, মীমাংসার দিন নির্ধারিত হয়ে আছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the kalla of 78:4 and 78:5 as a closing of the debate: this matter cannot be understood by question and answer or by dispute and debate, and its reality will be understood when they face it. Then, it says, the Qur'an points to demonstrations of His power, to show that it is not impossible for Allah to destroy this world and create it again, and the earth comes first among them. The shipped readings of 78:3 and 78:9 take up the news itself and the frame of the list; this article stays with the first exhibit.",
+            "bn": "মাআরিফুল কুরআন ৭৮:৪ ও ৭৮:৫-এর কাল্লাকে পড়ে তর্কের ইতি টানা হিসেবে। প্রশ্নোত্তর কিংবা বাদানুবাদ দিয়ে এ বিষয় বোঝা যায় না। এর বাস্তবতা তারা বুঝবে যখন তার মুখোমুখি হবে। তারপর, মাআরিফের ভাষায়, কুরআন আল্লাহর কুদরতের নানা নিদর্শনের দিকে ইশারা করে, যাতে বোঝা যায় এই জগৎ ধ্বংস করে আবার সৃষ্টি করা আল্লাহর পক্ষে অসম্ভব নয়। সেসব নিদর্শনের প্রথমটি যমীন। ৭৮:৩ ও ৭৮:৯-এর প্রকাশিত পাঠে সংবাদটি আর তালিকার কাঠামো নিয়ে কথা হয়েছে। এ লেখা থাকবে প্রথম নিদর্শনটির কাছেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mihad: Ground Made Ready",
+          "bn": "মিহাদ: প্রস্তুত করে রাখা মাটি"
+        },
+        "p": [
+          {
+            "en": "The verse is a question with a negative inside it: a-lam, have We not. As-Sa'di unfolds it as a reminder of favour: did We not bestow great blessings on you, and make the earth a mihad for you? Al-Muyassar keeps the question mark in its own paraphrase: have We not made the earth smoothed for you, like bedding? Neither turns it into a bare statement. The hearer is asked to answer, and whoever is asked has slept on the ground in question the night before.",
+            "bn": "শুরুতেই আলাম: না-বোধক শব্দ জুড়ে দেওয়া প্রশ্ন, আমি কি করিনি? সা'দী একে খুলে বলেন অনুগ্রহের কথা মনে করিয়ে দেওয়া হিসেবে: আমি কি তোমাদের বড় বড় নিয়ামত দিইনি, তোমাদের জন্য যমীনকে মিহাদ বানাইনি? মুয়াসসার নিজের ব্যাখ্যাতেও প্রশ্নটা প্রশ্নই রাখে: আমি কি যমীনকে তোমাদের জন্য বিছানার মতো সমান করে দিইনি? দুজনের কেউই একে নিছক বিবৃতি বানিয়ে ফেলেননি। শ্রোতাকে জবাব দিতে বলা হচ্ছে। আর যাকে প্রশ্নটা করা হচ্ছে, সে আগের রাতেই ঘুমিয়েছে ঠিক সেই মাটির উপর।"
+          },
+          {
+            "en": "What is a mihad? The glosses fetched for this verse circle a single picture. At-Tabari: a mihad for you, which you stretch yourselves out upon and spread as bedding; and he reports through his chain from Qatada the single word bisat, a spread carpet. Al-Qurtubi: al-wita' wal-firash, what is laid underfoot and what is spread to lie on. Al-Baghawi gives one word, firash, a bed. Each of them defines the word by its use: not what the earth is made of, but what a person does on it.",
+            "bn": "মিহাদ জিনিসটা কী? এ আয়াতের জন্য সংগ্রহ করা ব্যাখ্যাগুলো একটা ছবিকেই ঘিরে থাকে। তাবারী বলেন: তোমাদের জন্য মিহাদ, যার উপর তোমরা গা এলিয়ে দাও, যাকে বিছানা করে বিছিয়ে নাও। নিজের সনদে তিনি কাতাদা থেকে একটিমাত্র শব্দ বর্ণনা করেন: বিসাত, বিছানো গালিচা। কুরতুবী বলেন: আল-ওয়িতা ওয়াল-ফিরাশ, পায়ের নিচে যা পাতা থাকে আর শোয়ার জন্য যা বিছানো হয়। বাগাভী দেন এক শব্দ: ফিরাশ, বিছানা। সবাই শব্দটির অর্থ বলেন তার ব্যবহার দিয়ে। যমীন কী দিয়ে তৈরি, তা নয়। মানুষ তার উপর কী করে, সেটাই তাঁদের কথা।"
+          },
+          {
+            "en": "Two commentators add qualities. Ibn Kathir, in the Arabic, calls the earth mumahhada, smoothed, for all creatures, and dhalul for them, tractable; then three words, qarra, sakina, thabita: settled, still and firm. As-Sa'di adds the purpose: mumahhada and muhayya'a, smoothed and made ready, for you and for your interests, and he names three of them: tilled fields, dwellings and roads. The tafsirs fetched here say nothing about what lies beneath the surface, and this article adds nothing to them.",
+            "bn": "দুজন তাফসীরকার কিছু গুণ যোগ করেন। ইবন কাসীর আরবিতে যমীনকে বলেন মুমাহহাদা, সব সৃষ্টির জন্য সমান করে দেওয়া, আর তাদের জন্য যালূল, বশ মানানো। তারপর তিনটি শব্দ: কাররা, সাকিনা, সাবিতা, অর্থাৎ স্থির, শান্ত ও মজবুত। সা'দী যোগ করেন উদ্দেশ্য: মুমাহহাদা ও মুহাইয়াআ, সমান করা আর প্রস্তুত, তোমাদের জন্য ও তোমাদের প্রয়োজনের জন্য। প্রয়োজনের তিনটি তিনি নাম ধরে বলেন: চাষের জমি, বাসস্থান আর পথঘাট। মাটির নিচে কী আছে, সে বিষয়ে এখানে সংগ্রহ করা তাফসীরগুলো কিছু বলে না, আর এই লেখাও তাদের কথায় কিছু জোড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read as Mahd, a Cradle",
+          "bn": "মাহদ পাঠে দোলনার ছবি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records one more thing. After citing 2:22, the One who made the earth a firash for you, he notes that the word has also been read mahdan, without naming who read it. Its meaning, he says, is that the earth is to people as the mahd is to an infant: the thing smoothed out for him, on which he is laid down to sleep. Mahd is the Qur'an's word for a cradle elsewhere too: in 19:29 Maryam's people ask how they can speak to one who is in the mahd, a child.",
+            "bn": "কুরতুবী আরও একটি কথা লিখে রাখেন। ২:২২ উদ্ধৃত করার পর, যেখানে আছে তিনি তোমাদের জন্য যমীনকে ফিরাশ বানিয়েছেন, তিনি জানান শব্দটি মাহদান হিসেবেও পড়া হয়েছে। কে পড়েছেন, তা তিনি বলেননি। তাঁর ভাষায় এর অর্থ: শিশুর জন্য মাহদ যেমন, মানুষের জন্য যমীন তেমন। মাহদ হলো যা শিশুর জন্য সমান করে পাতা হয়, আর যার উপর তাকে শুইয়ে ঘুম পাড়ানো হয়। কুরআনের অন্য জায়গাতেও মাহদ মানে দোলনা। ১৯:২৯ আয়াতে মারইয়ামের কওম বলে, যে শিশু মাহদে আছে, তার সঙ্গে আমরা কীভাবে কথা বলব?"
+          },
+          {
+            "en": "In 20:53 and 43:10, which say the same of the earth as a statement rather than a question, the text printed in this app has mahdan; the shipped reading of 20:53 sets out the reciters' forms there. The picture al-Qurtubi gives is worth staying with. A cradle is prepared by someone else, before the child can ask for it, and the child does nothing to earn it. He is set down in it and he sleeps. The reading asks the grown hearer to see the ground beneath him the same way.",
+            "bn": "২০:৫৩ আর ৪৩:১০ যমীন সম্পর্কে একই কথা বলে, তবে প্রশ্নের আকারে নয়, বিবৃতির আকারে। এই অ্যাপে ছাপা পাঠে সেখানে আছে মাহদান। ক্বারীদের ভিন্ন ভিন্ন রূপের কথা ২০:৫৩-এর প্রকাশিত পাঠে বলা হয়েছে। কুরতুবীর আঁকা ছবিটার কাছে একটু থামা যায়। দোলনা তৈরি করে অন্য কেউ, শিশু চাওয়ার আগেই। শিশু তা পাওয়ার জন্য কিছুই করে না। তাকে শুধু তাতে শুইয়ে দেওয়া হয়, আর সে ঘুমিয়ে পড়ে। বড় হয়ে যাওয়া শ্রোতাকেও এই পাঠ ডাকে নিজের পায়ের নিচের মাটিকে ঠিক এভাবে দেখতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proof, Favour or Oneness",
+          "bn": "প্রমাণ, অনুগ্রহ, নাকি তাওহীদ"
+        },
+        "p": [
+          {
+            "en": "Why does the answer to a dispute about the Day begin with the ground? The commentators fetched for this verse give the list more than a single task. Al-Qurtubi is direct: He pointed them to His power over the raising; that is, Our power in bringing these things into being is greater than Our power in bringing back. Ibn Kathir's Arabic says that Allah begins to show His great power to create strange and wondrous things, which point to His power over whatever He wills of the Return and other matters.",
+            "bn": "কিয়ামত নিয়ে বিবাদের জবাব মাটি দিয়ে শুরু হয় কেন? এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো তালিকাটিকে কেবল একটি কাজ দেয় না। কুরতুবী সোজাসুজি বলেন: তিনি তাদের পুনরুত্থানের উপর তাঁর কুদরতের দিকে পথ দেখিয়েছেন। অর্থাৎ এসব জিনিস অস্তিত্বে আনার যে কুদরত আমার, তা ফিরিয়ে আনার কুদরতের চেয়ে বড়। ইবন কাসীরের আরবি পাঠ বলে, আল্লাহ এখানে বিস্ময়কর ও অভিনব জিনিস সৃষ্টির মহা কুদরত দেখাতে শুরু করেন। এসব জিনিস দেখিয়ে দেয়, আখিরাতে ফিরিয়ে আনা হোক বা অন্য কিছু, যা-ই তিনি চান, তার উপর তাঁর ক্ষমতা আছে।"
+          },
+          {
+            "en": "At-Tabari puts the weight elsewhere. Allah, he says, is counting out against these idolaters His favours and kindnesses to them, and their ingratitude for what He gave them, while threatening them with the kinds of punishment He has prepared for them when they come to Him. On his reading the earth is evidence of a different sort: less that the Return is possible than that its deniers have lived on a gift they never thanked for. As-Sa'di's paraphrase, did We not bestow great blessings on you, sits close to his.",
+            "bn": "তাবারী জোর দেন অন্য জায়গায়। তাঁর মতে আল্লাহ এখানে এই মুশরিকদের বিরুদ্ধে গুনে গুনে তুলে ধরছেন তাদের প্রতি তাঁর নিয়ামত আর অনুগ্রহ, আর যা তিনি দিয়েছেন তার প্রতি তাদের অকৃতজ্ঞতা। সেই সঙ্গে তাদের হুঁশিয়ার করছেন সেই নানা রকম শাস্তির ব্যাপারে, যা তাঁর কাছে ফেরার সময় তাদের জন্য তৈরি রাখা আছে। তাঁর পাঠে যমীন ভিন্ন ধরনের সাক্ষী। আখিরাত যে সম্ভব, সেটা ততটা নয়। বরং এটা যে, যারা আখিরাত অস্বীকার করে, তারা এমন এক দানের উপর বেঁচে আছে, যার জন্য কখনো শুকরিয়া জানায়নি। সা'দীর ব্যাখ্যা, আমি কি তোমাদের বড় বড় নিয়ামত দিইনি, তাঁর কথার কাছাকাছি।"
+          },
+          {
+            "en": "Al-Baghawi gives a third purpose in a single clause: then He mentioned His works so that they would know His oneness. These are not rival readings that cancel each other, and none of the commentators here argues against another. They are three emphases on one list: the power that can repeat what it began, the kindness that was met with ingratitude, and the oneness of the Maker. The verse lets the earth carry all three.",
+            "bn": "বাগাভী এক বাক্যে তৃতীয় এক উদ্দেশ্যের কথা বলেন: তারপর তিনি নিজের সৃষ্টিকর্মের উল্লেখ করলেন, যাতে তারা তাঁর তাওহীদ জানতে পারে। এগুলো পরস্পরকে বাতিল করে দেওয়া প্রতিদ্বন্দ্বী মত নয়। এখানে কোনো তাফসীরকার অন্যজনের বিরুদ্ধে কথা বলেননি। একই তালিকার উপর তিনটি ভিন্ন জোর: যে কুদরত শুরু করা জিনিস আবার ফিরিয়ে আনতে পারে, যে অনুগ্রহের জবাব এসেছে অকৃতজ্ঞতায়, আর স্রষ্টার একত্ব। আয়াতটি যমীনের কাঁধে তিনটিই তুলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Report, Many Echoes",
+          "bn": "বর্ণনা নেই, প্রতিধ্বনি অনেক"
+        },
+        "p": [
+          {
+            "en": "None of the commentators fetched for this verse attaches a hadith to it, so this article quotes none. The Qur'an supplies the companions. 2:22, which al-Qurtubi cites, calls the earth a firash in the same breath as the sky a structure, and draws from both the command not to set up rivals to Allah. In 71:19 Nuh (AS) reminds his people that Allah made the earth a bisat for them, the word at-Tabari reports from Qatada. 67:15 calls it dhalul, Ibn Kathir's word, and ends: and to Him is the rising.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীরে এর সঙ্গে কোনো হাদীস জোড়া নেই, তাই এ লেখাতেও কোনো হাদীস উদ্ধৃত হয়নি। সঙ্গী আয়াত কুরআন নিজেই জোগায়। ২:২২, যা কুরতুবী উদ্ধৃত করেন, একই নিঃশ্বাসে যমীনকে বলে ফিরাশ আর আকাশকে বলে ছাদ। দুটো থেকেই সে টেনে আনে আদেশ: আল্লাহর সমকক্ষ দাঁড় করিয়ো না। ৭১:১৯ আয়াতে নূহ (আঃ) তাঁর কওমকে মনে করিয়ে দেন, আল্লাহ তোমাদের জন্য যমীনকে বিসাত বানিয়েছেন। কাতাদা থেকে তাবারী ঠিক এই শব্দটিই বর্ণনা করেছেন। ৬৭:১৫ একে বলে যালূল, ইবন কাসীরের শব্দ, আর শেষ হয় এই কথায়: তাঁর কাছেই পুনরুত্থান।"
+          },
+          {
+            "en": "51:48 turns the same picture into praise: the earth, We spread it out, fa-ni'ma al-mahidun, and how excellent are those who smooth it. The word is from the root of our verse, m-h-d, and Allah names Himself by the act. 30:27 speaks to the argument al-Qurtubi makes: He begins creation, then repeats it, and that is easier for Him. Our verse offers the first making, still under the listener's feet, as the ground for accepting the second.",
+            "bn": "৫১:৪৮ একই ছবিকে প্রশংসায় রূপ দেয়: আর যমীন, আমি তা বিছিয়েছি, ফানি'মাল মাহিদূন, কত চমৎকার বিছিয়ে দেনেওয়ালা আমি! শব্দটি আমাদের আয়াতের ধাতু ম-হ-দ থেকেই, আর আল্লাহ এই কাজ দিয়েই নিজের পরিচয় দেন। কুরতুবী যে যুক্তি দেন, ৩০:২৭ সে কথাই বলে: তিনিই সৃষ্টির সূচনা করেন, তারপর তা আবার করবেন, আর সেটা তাঁর জন্য আরও সহজ। আমাদের আয়াত প্রথম সৃষ্টিকে, যা এখনো শ্রোতার পায়ের নিচে, দ্বিতীয়টিকে মেনে নেওয়ার ভিত্তি হিসেবে সামনে রাখে।"
+          },
+          {
+            "en": "The same root runs in two further directions. 30:44 says that those who do righteous work are yamhadun for themselves: they are smoothing out a place for their own selves. And mihad, the very noun of 78:6, is used in 7:41 and 2:206 for what the wrongdoers will have in Hell: a resting place of it, and how wretched a resting place. The earth was smoothed for everyone without being asked. What comes after it is a place each person prepares by what he does.",
+            "bn": "একই ধাতু আরও দুই দিকে গেছে। ৩০:৪৪ বলে, যারা নেক আমল করে, তারা নিজেদের জন্য ইয়ামহাদূন: নিজেদের জন্যই জায়গা সমান করে প্রস্তুত করছে। আর ৭৮:৬-এর এই মিহাদ শব্দটিই ৭:৪১ ও ২:২০৬ আয়াতে এসেছে জাহান্নামে যালিমদের জন্য যা থাকবে, তার বর্ণনায়: সেখানকার শয্যা, আর কত নিকৃষ্ট সে শয্যা! যমীন সবার জন্য সমান করে দেওয়া হয়েছিল, কেউ চাওয়ার আগেই। এর পরে যা আসে, সে জায়গা প্রত্যেকে প্রস্তুত করে নিজের আমল দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing on the Answer",
+          "bn": "জবাবের উপর দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "The askers of 78:1 argued while standing on the first exhibit. Ibn Kathir describes them as rejecting the Day, and at-Tabari as idolaters who met favours with ingratitude. The verse describes them as its text describes them, and licenses nothing against any living person or community. Its question reaches the reader as well, because a person can believe in the Return in words and still treat the ground beneath him as a thing that simply happens to be there.",
+            "bn": "৭৮:১ আয়াতের প্রশ্নকারীরা তর্ক করছিল প্রথম নিদর্শনটির উপর দাঁড়িয়েই। ইবন কাসীর তাদের বর্ণনা দেন কিয়ামত অস্বীকারকারী হিসেবে, আর তাবারী বলেন তারা এমন মুশরিক, যারা নিয়ামতের জবাব দিয়েছে অকৃতজ্ঞতায়। আয়াত তাদের সম্পর্কে ততটুকুই বলে, যতটুকু এর পাঠে আছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর বৈধতা এটি দেয় না। এর প্রশ্নটি পাঠকের কাছেও পৌঁছায়। কারণ মুখে আখিরাতে বিশ্বাস রেখেও মানুষ পায়ের নিচের মাটিকে ভাবতে পারে এমন কিছু, যা কেবল ঘটনাক্রমে সেখানে পড়ে আছে।"
+          },
+          {
+            "en": "Lived, the verse is a habit of noticing. Before getting up in the morning, register what held you all night: a floor that did not move, a building standing on settled ground. On the way to work, the road is one of as-Sa'di's three interests; at the table, the field is another; coming home, the dwelling is the third. None of it is background. Each is a line in at-Tabari's count of favours, and each, on al-Qurtubi's reading, is also an argument: the One who made this can make it again.",
+            "bn": "জীবনে এ আয়াত মানে খেয়াল করার অভ্যাস। সকালে ওঠার আগে লক্ষ করুন, সারারাত আপনাকে কী ধরে রেখেছিল: এমন মেঝে, যা নড়েনি, স্থির মাটির উপর দাঁড়ানো একটা দালান। কাজে যাওয়ার পথটা সা'দীর বলা তিনটি প্রয়োজনের একটি। খাবারের সময় মনে পড়ুক ক্ষেতের কথা, সেটা আরেকটি। ঘরে ফিরলে বাসস্থান, সেটা তৃতীয়টি। এর কোনোটাই নিছক পটভূমি নয়। প্রতিটি তাবারীর গোনা নিয়ামতের তালিকার একেকটি লাইন। আর কুরতুবীর পাঠে প্রতিটিই একেকটি যুক্তিও: যিনি এটা বানিয়েছেন, তিনি আবার বানাতে পারেন।"
+          },
+          {
+            "en": "In a hard season the verse speaks more gently. Someone who has lost his footing in work, health or family can still count what has not moved. The cradle reading helps here: the infant does not hold the cradle up; he is held. The ground was made ready before you needed it, and it is still under you. That is no promise that nothing will shake. It is a reminder that you were provided for before you could ask.",
+            "bn": "কঠিন সময়ে আয়াতটি আরও কোমল সুরে কথা বলে। কাজে, স্বাস্থ্যে বা পরিবারে যার পায়ের নিচের মাটি সরে গেছে, সেও গুনে দেখতে পারে কী কী এখনো সরেনি। দোলনার পাঠ এখানে কাজে আসে। শিশু দোলনাকে ধরে রাখে না, দোলনাই তাকে ধরে রাখে। আপনার দরকার হওয়ার আগেই মাটি প্রস্তুত করা ছিল, আর তা এখনো আপনার পায়ের নিচে আছে। এর মানে এই নয় যে কিছুই আর কাঁপবে না। এর মানে, চাওয়ার আগেই আপনার জন্য ব্যবস্থা করে রাখা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer From the Bedding",
+          "bn": "বিছানা থেকে একটি দোয়া"
+        },
+        "p": [
+          {
+            "en": "No Sunnah supplication is attached to this verse in the sources fetched. What follows is a short supplication in the verse's own vocabulary, offered as such and not as a narration: O Allah, You made the earth a resting place for me before I knew to ask. Make me grateful for the ground I stand on, and do not let me dispute what my own feet bear witness to. Make my deeds a good resting place for me in the life to come, and raise me among those who believed the great news.",
+            "bn": "এখানে সংগ্রহ করা উৎসগুলোতে এ আয়াতের সঙ্গে কোনো মাসনূন দোয়া জোড়া নেই। নিচের দোয়াটি আয়াতের নিজের শব্দ দিয়ে সাজানো। এটি কোনো বর্ণনা নয়, শুধু দোয়া হিসেবেই দেওয়া হলো: হে আল্লাহ, আমি চাইতে শেখার আগেই তুমি যমীনকে আমার জন্য শয্যা বানিয়েছ। যে মাটির উপর দাঁড়িয়ে আছি, তার জন্য আমাকে কৃতজ্ঞ বানাও। আমার নিজের পা যার সাক্ষ্য দেয়, তা নিয়ে আমাকে বিবাদে জড়াতে দিয়ো না। পরকালে আমার আমলকে আমার জন্য উত্তম শয্যা বানাও, আর যারা মহাসংবাদে বিশ্বাস করেছে, তাদের সঙ্গে আমাকে ওঠাও।"
+          },
+          {
+            "en": "When you lie down tonight, the words can be shorter: You smoothed this ground for me; smooth for me what comes after it. The prayer asks for nothing the verse does not already point to. The first resting place was given without being asked for. The second is the place that 30:44 says a person smooths out for himself by righteous work, and the prayer asks for help in doing it.",
+            "bn": "আজ রাতে শোয়ার সময় কথাগুলো আরও ছোট হতে পারে: এই মাটি তুমি আমার জন্য সমান করেছ, এর পরে যা আসে, তাও আমার জন্য সমান করে দাও। আয়াত যার দিকে ইশারা করে না, এমন কিছু এ দোয়া চায় না। প্রথম শয্যা দেওয়া হয়েছিল না চাইতেই। দ্বিতীয়টি সেই জায়গা, যা ৩০:৪৪ অনুযায়ী মানুষ নিজের নেক আমল দিয়ে নিজের জন্য সমান করে নেয়। দোয়াটি সেই কাজে সাহায্য চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Floor Keeps Asking",
+          "bn": "মেঝে বারবার যা জিজ্ঞেস করে"
+        },
+        "p": [
+          {
+            "en": "Some questions to carry. What did I stand on, sit on and sleep on today without once thinking that it had been made ready for me? When doubt about the Return comes, have I looked down at what is holding me up? Which of the three, the field, the house or the road, have I treated as mine by right rather than as given? And if those who do good are smoothing out a place for themselves, what did I lay down this week?",
+            "bn": "সঙ্গে রাখার মতো কয়েকটি প্রশ্ন। আজ কিসের উপর দাঁড়িয়েছি, বসেছি, ঘুমিয়েছি, অথচ একবারও ভাবিনি যে তা আমার জন্য প্রস্তুত করে রাখা হয়েছিল? আখিরাত নিয়ে সন্দেহ জাগলে আমি কি একবার নিচে তাকিয়ে দেখেছি, কী আমাকে ধরে রেখেছে? ক্ষেত, ঘর আর পথ, এই তিনটির কোনটিকে আমি দান না ভেবে নিজের পাওনা বলে ধরে নিয়েছি? আর যারা ভালো কাজ করে, তারা যদি নিজেদের জন্য জায়গা সমান করে নেয়, এ সপ্তাহে আমি কী বিছিয়ে রেখেছি?"
+          },
+          {
+            "en": "The verse is four words and a question mark. It does not argue at length; it points at the floor and waits. The surah goes on to the mountains, the pairs, sleep, night and day, the heavens, the lamp and the rain, and then to the Day itself. But the first thing it asked the disputers to look at was the thing they could never stop touching. Each time you rest your weight on the ground, the question is put again.",
+            "bn": "আয়াতটি চারটি শব্দ আর একটি প্রশ্নবোধক চিহ্ন। লম্বা যুক্তি নেই। মেঝের দিকে আঙুল তুলে সে অপেক্ষা করে। এরপর সূরা যাবে পাহাড়, জোড়া, ঘুম, রাত ও দিন, আকাশ, প্রদীপ আর বৃষ্টির কথায়, তারপর সেই দিনটির কথায়। কিন্তু বিবাদকারীদের প্রথম যে জিনিসের দিকে তাকাতে বলা হয়েছিল, সেটা এমন জিনিস, যার ছোঁয়া থেকে তারা কখনো সরে থাকতে পারত না। যতবার আপনি মাটিতে শরীরের ভার রাখেন, প্রশ্নটা আবার করা হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "78:9": {
     "sections": [
       {
