@@ -623,6 +623,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Servants Named as Daughters",
+          "bn": "বান্দাদের বানানো হলো কন্যা"
+        },
+        "p": [
+          {
+            "en": "Wa ja'alu al-mala'ikata alladhina hum 'ibadu ar-Rahmani inathan: and they made the angels, who are servants of the Most Merciful, females. The verse closes a run that began at 43:15, where they assigned to Him a portion of His own servants, and passed through the question of 43:16: has He taken daughters from what He creates and chosen sons for you? Ibn Kathir, in the abridged English, reads the run as one charge: of sons and daughters they assigned to Him the share that was lesser in their own eyes, and here they name the angels as those daughters.",
+            "bn": "ওয়া জাআলুল মালাইকাতাল্লাযীনা হুম ইবাদুর রাহমানি ইনাসা: আর তারা ফেরেশতাদের, যারা দয়াময়ের বান্দা, নারী বানিয়ে নিল। আয়াতটি একটি ধারার শেষ কথা। ধারাটি শুরু হয়েছে ৪৩:১৫ থেকে, যেখানে তারা আল্লাহর নিজের বান্দাদের মধ্য থেকে তাঁর জন্য অংশ ঠিক করে নিয়েছিল। তারপর ৪৩:১৬ আয়াতের প্রশ্ন: তিনি কি নিজের সৃষ্টি থেকে কন্যা নিয়েছেন, আর তোমাদের জন্য বেছে দিয়েছেন পুত্র? ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ পুরো ধারাটিকে একটিই অভিযোগ হিসেবে পড়ে। পুত্র ও কন্যার মধ্যে তাদের নিজেদের চোখে যেটা কম দামি, সেটাই তারা আল্লাহর ভাগে দিয়েছিল। আর এখানে তারা সেই কন্যা বলে চিহ্নিত করছে ফেরেশতাদের।"
+          },
+          {
+            "en": "Ja'alu here does not mean they created anything. Al-Qurtubi says the verb carries the sense of saying and judging, as when one says ja'altu Zaydan a'lama an-nas, meaning I ruled that Zayd is the most learned of people. Ibn Kathir's Arabic glosses it as a belief: they held this about the angels, and Allah rejected what they said. The Muyassar keeps the plain line: these people who associated partners with Allah made the angels female. The verb records a verdict, and the rest of the verse asks what standing those who passed it had.",
+            "bn": "এখানে জাআলু মানে তারা কিছু সৃষ্টি করেছে, এমন নয়। কুরতুবী বলেন, ক্রিয়াটির অর্থ এখানে বলা ও রায় দেওয়া। যেমন কেউ বলে, জাআলতু যাইদান আ'লামান নাস, অর্থাৎ আমি রায় দিলাম যে যাইদ সবচেয়ে বড় জ্ঞানী। ইবন কাসীরের আরবি তাফসীর একে বিশ্বাস হিসেবে ব্যাখ্যা করে: ফেরেশতাদের ব্যাপারে তারা এমনটাই মনে করত, আর আল্লাহ তাদের কথা প্রত্যাখ্যান করলেন। মুয়াসসার সাদামাটা কথায় বলে: আল্লাহর সঙ্গে শরিককারী এই লোকেরা ফেরেশতাদের নারী বানিয়ে নিল। ক্রিয়াটি তাই একটা রায়ের খবর দেয়। আয়াতের বাকি অংশ খতিয়ে দেখে, যারা রায়টা দিল, তা দেওয়ার কী যোগ্যতা তাদের ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Servants Of, or Near To",
+          "bn": "বান্দা, নাকি তাঁর সান্নিধ্যে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that the readers differed over one word. The general readers of Medina read alladhina hum 'inda ar-Rahman, with a nun: those who are with the Most Merciful. He suggests they had in view 7:206, inna alladhina 'inda rabbika la yastakbiruna, those with your Lord are not too proud to worship Him. On that reading, he says, they made God's angels, who are with Him glorifying and hallowing Him, female, calling them daughters of God out of ignorance of His right and boldness in speaking falsehood. The general readers of Kufa and Basra read 'ibad, the plural of 'abd, servant.",
+            "bn": "তাবারী জানান, একটি শব্দে কারিদের মধ্যে মতভেদ হয়েছে। মদীনার সাধারণ কারিরা পড়েছেন আল্লাযীনা হুম ইনদার রাহমান, নূন দিয়ে: যারা দয়াময়ের কাছে আছে। তাঁর ধারণা, তাঁদের সামনে ছিল ৭:২০৬ আয়াত, ইন্নাল্লাযীনা ইনদা রাব্বিকা লা ইয়াসতাকবিরূনা: যারা আপনার রবের কাছে আছে, তারা তাঁর ইবাদতে অহংকার করে না। তাবারী বলেন, এ কিরাআত অনুযায়ী অর্থ দাঁড়ায়: আল্লাহর যে ফেরেশতারা তাঁর কাছে থেকে তাঁর তাসবীহ ও পবিত্রতা ঘোষণা করে, তাদের তারা নারী বানাল। আল্লাহর হক সম্পর্কে অজ্ঞতা আর মিথ্যা বলার দুঃসাহস থেকে তারা বলল, ওরা আল্লাহর কন্যা। কূফা ও বসরার সাধারণ কারিরা পড়েছেন ইবাদ, আব্দ বা বান্দা শব্দের বহুবচন।"
+          },
+          {
+            "en": "Al-Baghawi gives the same split: the people of Kufa and Abu 'Amr read 'ibad, as in 21:26, bal 'ibadun mukramun, rather they are honoured servants; the others read 'inda, as a word of place, confirmed by 7:206. Al-Qurtubi names the Kufans for 'ibad and says Abu 'Ubayd preferred it, because its chain is higher and because God refuted their claim of daughters by telling them the angels are servants. He relays that Ibn Abbas read 'ibad, and when Sa'id ibn Jubayr said his copy had 'inda, told him to erase it and write 'ibad. The rest read 'inda, which Abu Hatim preferred.",
+            "bn": "বাগাভীও একই ভাগ দেখান। কূফার লোকেরা ও আবু আমর পড়েছেন ইবাদ, যেমন ২১:২৬ আয়াতে আছে, বাল ইবাদুম মুকরামূন: বরং তারা সম্মানিত বান্দা। অন্যরা পড়েছেন ইনদা, স্থানবাচক শব্দ হিসেবে, যার সমর্থন ৭:২০৬ আয়াত। কুরতুবী ইবাদ কিরাআতের জন্য কূফাবাসীদের নাম নেন। তিনি বলেন, আবু উবাইদ এটিকে অগ্রাধিকার দিয়েছেন, কারণ এর সনদ উঁচু, আর কারণ আল্লাহ তাদের কন্যার দাবি খণ্ডন করেছেন এ কথা জানিয়ে যে ফেরেশতারা বান্দা। কুরতুবী বর্ণনা করেন, ইবন আব্বাস (রাঃ) পড়তেন ইবাদ। সাঈদ ইবন জুবাইর যখন বললেন তাঁর মুসহাফে আছে ইনদা, তিনি বললেন, ওটা মুছে ইবাদ লেখো। বাকিরা পড়েছেন ইনদা, আর আবু হাতিম সেটিকেই অগ্রাধিকার দিয়েছেন।"
+          },
+          {
+            "en": "At-Tabari does not choose. Both, he says, are known readings among the readings of the great cities, both are sound in meaning, and whichever a reader recites, he is right, because the angels are servants of God and they are with Him. So the two readings do not contest one another. One names the angels' rank, the other their nearness, and the sentence comes out the same either way: the beings these people called daughters belong to the Most Merciful as His servants, close to Him, never as His offspring.",
+            "bn": "তাবারী কোনোটিকে বেছে নেন না। তিনি বলেন, দুটিই বড় বড় নগরের কিরাআতের মধ্যে পরিচিত, দুটির অর্থই সঠিক। কারী যেটাই পড়ুন, ঠিক পড়ছেন, কারণ ফেরেশতারা আল্লাহর বান্দাও, আবার তাঁর কাছেও থাকে। তাই দুই কিরাআতের মধ্যে কোনো টানাপোড়েন নেই। একটি ফেরেশতাদের মর্যাদা বলে দেয়, অন্যটি তাদের নৈকট্য। আর কথাটা দুই দিক থেকেই এক জায়গায় পৌঁছায়: যাদের এরা কন্যা বলল, তারা দয়াময়ের বান্দা, তাঁর কাছের, তাঁর সন্তান কখনোই নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Title That Refutes Them",
+          "bn": "যে পরিচয়ই তাদের জবাব"
+        },
+        "p": [
+          {
+            "en": "Why describe the angels at all in a sentence about what was said of them? Al-Qurtubi answers that the aim is to lay bare the falsehood and ignorance of these people: first in ascribing children to Allah, then in ruling that the angels are female and His daughters. Naming them servants, he says, is praise of the angels. How could people worship those who stand at the very height of servanthood, and then rule, without any evidence, that they are female? The description inside the verse already carries the reply.",
+            "bn": "লোকেরা ফেরেশতাদের নিয়ে কী বলেছে, সেই বাক্যের ভেতরে ফেরেশতাদের পরিচয় দেওয়ার দরকার কী? কুরতুবীর জবাব: উদ্দেশ্য হলো এদের মিথ্যা আর অজ্ঞতা খুলে দেখানো। প্রথমে আল্লাহর প্রতি সন্তান আরোপে, তারপর এই রায়ে যে ফেরেশতারা নারী এবং তাঁর কন্যা। তিনি বলেন, বান্দা বলে উল্লেখ করা ফেরেশতাদের প্রশংসা। যারা বান্দেগির একেবারে চূড়ায় দাঁড়িয়ে, তাদের এরা উপাস্য বানাল কী করে? আবার কোনো দলিল ছাড়াই রায় দিল যে ওরা নারী? আয়াতের ভেতরের পরিচয়টুকুই তাই জবাব বহন করে।"
+          },
+          {
+            "en": "As-Sa'di sees two moves inside that claim. They were bold against the angels, servants brought near: they raised them from the rank of servanthood and humble submission to a share with Allah in something that is His alone, and then brought them down from the rank of males to that of females. Glory be to Him, he writes, who exposed the contradiction of those who lie about Him and resist His messengers. The scale in that second move is the deniers' own: 43:17 has already shown how the news of a daughter was received among them.",
+            "bn": "সা'দী এক দাবির ভেতরে দুটি পদক্ষেপ দেখেন। তারা ফেরেশতাদের ব্যাপারে দুঃসাহস দেখিয়েছে, অথচ ফেরেশতারা আল্লাহর নৈকট্যপ্রাপ্ত বান্দা। প্রথমে তাদের বান্দেগি ও বিনয়ের স্তর থেকে তুলে নিয়ে গেছে আল্লাহর একান্ত কোনো বৈশিষ্ট্যে অংশীদারের স্তরে। তারপর তাদের নামিয়ে এনেছে পুরুষের স্তর থেকে নারীর স্তরে। তিনি লেখেন, পবিত্র সেই সত্তা, যিনি তাঁর ব্যাপারে মিথ্যা রচনাকারী আর তাঁর রাসূলদের বিরোধীদের স্ববিরোধ প্রকাশ করে দিলেন। দ্বিতীয় পদক্ষেপের মাপকাঠিটা অস্বীকারকারীদের নিজেদের। কন্যার জন্মের খবর তাদের মধ্যে কীভাবে নেওয়া হতো, ৪৩:১৭ আয়াত তা আগেই দেখিয়ে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Present When They Were Made?",
+          "bn": "সৃষ্টির মুহূর্তে কি হাজির ছিল"
+        },
+        "p": [
+          {
+            "en": "A-shahidu khalqahum: did they witness their creation? The Muyassar and al-Qurtubi use nearly the same words for it: were they present at the moment the angels were created, so that they could rule that they are female? Ibn Kathir puts it as: did they see Allah creating them female? Al-Baghawi sets beside it 37:150, am khalaqna al-mala'ikata inathan wa hum shahidun: or did We create the angels female while they were witnesses?",
+            "bn": "আ-শাহিদূ খালকাহুম: তারা কি ফেরেশতাদের সৃষ্টি প্রত্যক্ষ করেছে? মুয়াসসার আর কুরতুবী প্রায় একই ভাষায় ব্যাখ্যা দেন: ফেরেশতাদের যখন সৃষ্টি করা হয়, তখন কি তারা সেখানে উপস্থিত ছিল, যে এখন রায় দিতে পারে ওরা নারী? ইবন কাসীরের ভাষায়: আল্লাহ ফেরেশতাদের নারী করে সৃষ্টি করছেন, তারা কি তা দেখেছে? বাগাভী পাশে রাখেন ৩৭:১৫০ আয়াত, আম খালাকনাল মালাইকাতা ইনাসান ওয়া হুম শাহিদূন: নাকি আমি ফেরেশতাদের নারী করে সৃষ্টি করেছি আর তারা তখন সাক্ষী ছিল?"
+          },
+          {
+            "en": "This phrase too was read in two ways. At-Tabari reports that some readers of Medina read a-ushhidu, with a damma, in the passive: did Allah make these people witnesses of the creation of His angels, so that they knew what the angels are and described them from sight? Others read a-shahidu: did they themselves witness it and so know it? Al-Qurtubi names Nafi' for the passive form and gives its detail of pronunciation, and al-Baghawi assigns it to the people of Medina. At-Tabari's verdict is the same as before: two known readings, and whichever a reader recites, he is right.",
+            "bn": "এ বাক্যটিও দুইভাবে পড়া হয়েছে। তাবারী জানান, মদীনার কিছু কারি পড়েছেন আ-উশহিদূ, পেশ দিয়ে, কর্মবাচ্যে: আল্লাহ কি এদের তাঁর ফেরেশতাদের সৃষ্টির সাক্ষী বানিয়েছিলেন, যাতে তারা জানতে পারে ফেরেশতারা কী, আর নিজের চোখে দেখে বর্ণনা দিতে পারে? অন্যরা পড়েছেন আ-শাহিদূ: তারা কি নিজেরাই তা দেখে জেনেছে? কুরতুবী কর্মবাচ্য রূপটির জন্য নাফির নাম নেন এবং এর উচ্চারণের খুঁটিনাটি দেন। বাগাভী এটিকে মদীনাবাসীদের কিরাআত বলেন। তাবারীর রায় আগের মতোই: দুটিই পরিচিত কিরাআত, কারী যেটাই পড়ুন, ঠিক পড়ছেন।"
+          },
+          {
+            "en": "Read side by side, the two readings ask two questions. One asks whether they went and saw for themselves. The other asks whether anyone showed them, whether the One who created the angels ever admitted them to the scene. Between them they cover the two ways such knowledge might come by sight. The verses that follow go on to the remaining routes: 43:20 says they have no knowledge of what they claim, and 43:21 asks whether a book was given to them before this one.",
+            "bn": "দুই কিরাআত পাশাপাশি রাখলে দুটি প্রশ্ন দাঁড়ায়। একটি জানতে চায়, তারা কি নিজেরা গিয়ে দেখেছে? অন্যটি জানতে চায়, কেউ কি তাদের দেখিয়েছে? ফেরেশতাদের যিনি সৃষ্টি করেছেন, তিনি কি কখনো তাদের সেখানে হাজির করেছিলেন? চোখে দেখে এমন জ্ঞান পাওয়ার যে দুটি পথ হতে পারে, দুই প্রশ্ন মিলে সে দুটিই ঢেকে ফেলে। বাকি পথগুলোর কথা আসে পরের আয়াতে। ৪৩:২০ বলে, তারা যা দাবি করে সে বিষয়ে তাদের কোনো জ্ঞান নেই। আর ৪৩:২১ জানতে চায়, এর আগে কি তাদের কোনো কিতাব দেওয়া হয়েছিল?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Claims Without a Witness",
+          "bn": "সাক্ষী ছাড়াই সাক্ষ্য"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the argument out. Allah answered them that they had not witnessed His creating of the angels; how then, he asks, do they speak about a matter which everyone knows they have no knowledge of? Al-Qurtubi's phrase is that they ruled the angels female min ghayri dalil, without any evidence. At-Tabari, explaining the reading 'inda, traces the claim to ignorance of Allah's right and to boldness in saying what is false. The three describe one fault from different sides: a statement about the unseen with nothing under it.",
+            "bn": "সা'দী যুক্তিটা খুলে বলেন। আল্লাহ তাদের জবাব দিয়েছেন যে তারা তাঁর ফেরেশতা সৃষ্টির সময় হাজির ছিল না। তিনি প্রশ্ন তোলেন, তাহলে তারা এমন বিষয়ে কথা বলে কী করে, যার জ্ঞান যে তাদের নেই তা সবারই জানা? কুরতুবীর ভাষায়, তারা ফেরেশতাদের নারী বলে রায় দিয়েছে মিন গাইরি দালীল, কোনো দলিল ছাড়াই। তাবারী ইনদা কিরাআতের ব্যাখ্যায় দাবিটির উৎস দেখান আল্লাহর হক সম্পর্কে অজ্ঞতা আর মিথ্যা বলার দুঃসাহসে। তিনজনই একটি দোষকে তিন দিক থেকে দেখেন: গায়েবের ব্যাপারে এমন কথা, যার নিচে কোনো ভিত্তি নেই।"
+          },
+          {
+            "en": "The angels belong to the unseen. What can be known of them comes by report from the One who made them, and that report, the Qur'an, calls them servants. So the verse does not answer with a rival theory about what angels are; it asks for the source. 17:36 gives the rule in general form: do not pursue what you have no knowledge of, for the hearing, the sight and the heart, each of these will be asked about. The same two steps stand in this verse: speech without knowledge, and then a question about it.",
+            "bn": "ফেরেশতারা গায়েব জগতের অংশ। তাদের সম্পর্কে যা জানা সম্ভব, তা আসে তাদের স্রষ্টার দেওয়া খবর থেকে। আর সেই খবর, কুরআন, তাদের বলে বান্দা। তাই আয়াতটি ফেরেশতাদের স্বরূপ নিয়ে পাল্টা কোনো তত্ত্ব হাজির করে না। সে জানতে চায় উৎসটা কোথায়। ১৭:৩৬ আয়াত নিয়মটা সাধারণভাবে বলে দেয়: যে বিষয়ে তোমার জ্ঞান নেই, তার পেছনে পড়ো না। কান, চোখ আর অন্তর, এদের প্রত্যেকটি সম্পর্কে জিজ্ঞাসা করা হবে। এ আয়াতেও একই দুই ধাপ: জ্ঞান ছাড়া কথা, তারপর সে কথার জবাবদিহি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Written Now, Asked Later",
+          "bn": "আজ লেখা, পরে জবাবদিহি"
+        },
+        "p": [
+          {
+            "en": "Sa-tuktabu shahadatuhum wa yus'aluna: their testimony will be written, and they will be questioned. At-Tabari explains that the testimony of those who say the angels are daughters of God is written in this world, for what they testified against the angels, and in the next they are asked about it: to bring a proof of its truth, and they will find no way to it. Ibn Kathir places the asking on the Day of Resurrection and calls the sentence a severe threat and a firm warning.",
+            "bn": "সাতুকতাবু শাহাদাতুহুম ওয়া ইউসআলূন: তাদের সাক্ষ্য লিখে রাখা হবে, আর তাদের জিজ্ঞাসা করা হবে। তাবারী ব্যাখ্যা করেন, যারা বলে ফেরেশতারা আল্লাহর কন্যা, ফেরেশতাদের বিরুদ্ধে দেওয়া তাদের সেই সাক্ষ্য দুনিয়াতেই লিখে রাখা হয়। আর আখিরাতে সে সম্পর্কে তাদের জিজ্ঞেস করা হবে, এর সত্যতার প্রমাণ হাজির করতে বলা হবে। কিন্তু সেদিকে তারা কোনো পথ পাবে না। ইবন কাসীর জিজ্ঞাসার সময় বলেন কিয়ামতের দিন, আর বাক্যটিকে বলেন কঠোর হুমকি ও দৃঢ় সতর্কবাণী।"
+          },
+          {
+            "en": "As-Sa'di adds that the asking cannot be escaped: the testimony will be written against them and they will be punished for it. Notice the wording, too. The verse asks a-shahidu, did they witness, and then calls their claim shahada, testimony, from the same root. To testify is to speak of what one has witnessed, and they spoke as witnesses of an event no one saw. Al-Qurtubi notes that the general reading is the passive sa-tuktabu, and lists readings outside it: sa-naktubu, We will write their testimony, from as-Sulami and others, and the plural, their testimonies, from Abu Raja'.",
+            "bn": "সা'দী যোগ করেন, এ জিজ্ঞাসা এড়ানোর উপায় নেই। সাক্ষ্যটি তাদের বিরুদ্ধে লেখা থাকবে, আর এর জন্য তাদের শাস্তি পেতে হবে। শব্দগুলোও খেয়াল করার মতো। আয়াত প্রথমে জিজ্ঞেস করে আ-শাহিদূ, তারা কি প্রত্যক্ষ করেছে? তারপর তাদের দাবিটাকে বলে শাহাদা, সাক্ষ্য। দুটি শব্দ একই ধাতুর। সাক্ষ্য দেওয়া মানে নিজের দেখা বিষয়ে কথা বলা। আর এরা এমন এক ঘটনার সাক্ষী সেজে কথা বলেছে, যা কেউ দেখেনি। কুরতুবী জানান, সাধারণ কিরাআত কর্মবাচ্যে সাতুকতাবু। এর বাইরের কিছু কিরাআতও তিনি উল্লেখ করেন: সুলামী প্রমুখের কাছ থেকে সানাকতুবু, আমি তাদের সাক্ষ্য লিখে রাখব। আর আবু রাজা থেকে বহুবচনে, তাদের সাক্ষ্যগুলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "We Heard It From Our Fathers",
+          "bn": "বাপ-দাদার মুখে শোনা কথা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi relays from al-Kalbi and Muqatil that when the associators said this, the Prophet ﷺ asked them: what makes you know that they are female? They replied: we heard it from our fathers, and we testify that they did not lie. Then Allah said: their testimony will be written, and they will be asked about it in the hereafter. Al-Qurtubi gives the same exchange, introduced with wa qila, it has been said. Neither gives a chain for it, and neither presents it as an established occasion of revelation, so it is read here as an account they carry, not as the verse's cause.",
+            "bn": "বাগাভী কালবী ও মুকাতিলের সূত্রে বর্ণনা করেন: শরিককারীরা যখন এ কথা বলল, নবী ﷺ তাদের জিজ্ঞেস করলেন, তোমরা কী করে জানলে যে ওরা নারী? তারা বলল, আমরা আমাদের বাপ-দাদার কাছে শুনেছি, আর আমরা সাক্ষ্য দিচ্ছি যে তাঁরা মিথ্যা বলেননি। তখন আল্লাহ বললেন: তাদের সাক্ষ্য লিখে রাখা হবে, আর আখিরাতে সে বিষয়ে তাদের জিজ্ঞাসা করা হবে। কুরতুবীও একই কথোপকথন আনেন, 'বলা হয়' কথাটি দিয়ে শুরু করে। কেউই এর সনদ দেননি, কেউই একে প্রতিষ্ঠিত শানে নুযূল হিসেবে পেশ করেননি। তাই একে তাফসীরকারদের বয়ে আনা এক বর্ণনা হিসেবেই পড়া ভালো, আয়াত নাযিলের কারণ হিসেবে নয়।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. The reply in that account would lead straight into what 43:22 takes up, we found our fathers upon a way, and that verse has its own reflection. The point here is narrower: hearsay was offered under the name of testimony. Ibn Kathir, in remarks running into 43:20, lists among their errors that they worshipped the angels with no proof, evidence or permission from Allah, resting on opinion, desire and the imitation of their elders and forefathers.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। ওই বর্ণনার জবাবটা সোজা গিয়ে মেলে ৪৩:২২ আয়াতের কথার সঙ্গে: আমরা আমাদের বাপ-দাদাকে এক পথের উপর পেয়েছি। সে আয়াতের আলাদা আলোচনা আছে। এখানকার কথাটা আরও সরু। শোনা কথাকে চালানো হয়েছে সাক্ষ্যের নামে। ইবন কাসীর ৪৩:২০ পর্যন্ত গড়ানো আলোচনায় তাদের ভুলগুলোর তালিকা দেন। তার একটি: তারা ফেরেশতাদের ইবাদত করেছে আল্লাহর কোনো প্রমাণ, দলিল বা অনুমতি ছাড়াই। ভিত্তি ছিল শুধু মত, খেয়াল-খুশি আর মুরব্বি ও পূর্বপুরুষদের অনুকরণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Double Standard Exposed",
+          "bn": "দুই রকম মাপের মুখোশ খোলা"
+        },
+        "p": [
+          {
+            "en": "The passage from 43:15 to 43:19 argues against a double standard. They gave Allah the share they disliked for themselves, and Ibn Kathir's abridged English puts the question plainly: how can they dislike that so much and yet attribute it to Allah? The disdain for daughters pictured in 43:17 is theirs, and the Qur'an reports it in order to condemn it. It is no verdict on women. The Qur'an elsewhere says that no worker's deed is lost, male or female (3:195), and promises a good life to whoever does good, male or female, as a believer (16:97).",
+            "bn": "৪৩:১৫ থেকে ৪৩:১৯ পর্যন্ত পুরো আলোচনা এক দ্বিমুখী মাপকাঠির বিরুদ্ধে যুক্তি। নিজেদের জন্য যে ভাগ তারা অপছন্দ করত, সেটাই তারা আল্লাহর ভাগে দিয়েছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ প্রশ্নটা সোজা করে রাখে: যা তারা এত অপছন্দ করে, তা আবার আল্লাহর প্রতি আরোপ করে কীভাবে? ৪৩:১৭ আয়াতে কন্যার প্রতি যে বিরাগের ছবি, তা তাদের নিজেদের। কুরআন তা তুলে ধরেছে নিন্দা করার জন্যই। এটা নারীদের ব্যাপারে কোনো রায় নয়। কুরআন অন্যত্র বলে, পুরুষ হোক বা নারী, কোনো আমলকারীর আমল নষ্ট করা হয় না (৩:১৯৫)। আর পুরুষ হোক বা নারী, যে মুমিন অবস্থায় সৎকাজ করে, তাকে উত্তম জীবনের প্রতিশ্রুতি দেয় (১৬:৯৭)।"
+          },
+          {
+            "en": "Reading these verses as permission to belittle girls or women turns their argument upside down. This, too, needs saying plainly: the verse describes what certain associators said about the angels and the account they will be asked to give, and it licenses nothing against any living person or community. What it hands the reader instead is a test for one's own speech, and the test does not depend on who else fails it.",
+            "bn": "এ আয়াতগুলোকে মেয়েশিশু বা নারীদের ছোট করার অনুমতি হিসেবে পড়লে এদের যুক্তিটাই উল্টে যায়। আরেকটা কথাও সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে কিছু শরিককারী ফেরেশতাদের নিয়ে কী বলেছিল, আর এর জন্য তাদের কী জবাবদিহি করতে হবে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। পাঠকের হাতে এ আয়াত তুলে দেয় নিজের কথা যাচাইয়ের একটা কষ্টিপাথর। অন্য কে সে পরীক্ষায় ফেল করল, তাতে এর কিছু যায় আসে না।"
+          },
+          {
+            "en": "The test is simple to state and hard to keep. Before saying anything about Allah, about the unseen, or about a person whose matter I have not seen, ask the verse's question: was I there, or was I shown it by one who knows? If neither, the honest words are I do not know. Every confident sentence is also a testimony, and the verse says testimony is written. When it is read back, its source will matter more than its confidence.",
+            "bn": "পরীক্ষাটা বলা সহজ, মেনে চলা কঠিন। আল্লাহর ব্যাপারে, গায়েবের ব্যাপারে, কিংবা এমন কোনো মানুষের ব্যাপারে যার বিষয়টা আমি নিজে দেখিনি, কিছু বলার আগে আয়াতের প্রশ্নটা নিজেকে করুন। আমি কি সেখানে ছিলাম? নাকি যিনি জানেন, তিনি আমাকে দেখিয়েছেন? দুটোর কোনোটাই না হলে সৎ কথা একটাই: আমি জানি না। জোর দিয়ে বলা প্রতিটি বাক্যও এক রকম সাক্ষ্য। আর আয়াত বলছে, সাক্ষ্য লিখে রাখা হয়। যেদিন তা পড়ে শোনানো হবে, সেদিন কতটা জোর দিয়ে বলা হয়েছিল তা নয়, দাম পাবে কথাটার উৎস।"
+          }
+        ]
+      }
+    ]
+  },
   "43:22": {
     "sections": [
       {

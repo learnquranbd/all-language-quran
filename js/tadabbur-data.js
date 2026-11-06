@@ -26749,6 +26749,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whenever something carries you, pause once seated: thank the One who made it yield, admit you could not manage it alone, and remember the return to Him.",
     "lessonBn": "কোনো বাহন যখন আপনাকে বয়ে নেয়, বসে একটু থামুন। যিনি একে বশ করে দিয়েছেন তাঁর শোকর করুন, স্বীকার করুন যে একা আপনি একে সামলাতে পারতেন না, আর তাঁর কাছে ফিরে যাওয়ার কথা মনে রাখুন।"
+  },
+  "43:19": {
+    "reflectionEn": "They spoke with confidence about the angels: they are female, daughters of God. The verse answers with one short question. Were they there when the angels were made? Nobody was. A claim about the unseen came out sounding like eyewitness testimony, and the verse takes them at their word: their testimony will be written down, and they will be asked about it. I also say things with more certainty than I have earned, about people, about the unseen, about what God wants. Some of it I only heard and repeated. If each of those sentences were written down today and handed back to me to defend, how many could I support with more than the fact that I once heard it?",
+    "reflectionBn": "ফেরেশতাদের নিয়ে তারা বেশ জোর দিয়ে কথা বলত: ওরা নারী, আল্লাহর কন্যা। আয়াতটি জবাব দেয় ছোট্ট এক প্রশ্নে। ফেরেশতাদের যখন সৃষ্টি করা হয়, তখন কি তারা সেখানে হাজির ছিল? কেউই ছিল না। অদৃশ্য জগতের ব্যাপারে একটা ধারণা তাদের মুখে এসেছিল প্রত্যক্ষদর্শীর সাক্ষ্যের সুরে। আয়াত তাদের কথাকেই ধরে রাখে: তাদের সাক্ষ্য লিখে রাখা হবে, আর সে বিষয়ে তাদের জিজ্ঞেস করা হবে। আমিও অনেক কথা বলি, যতটা জানি তার চেয়ে বেশি নিশ্চয়তা নিয়ে। মানুষের ব্যাপারে, গায়েবের ব্যাপারে, আল্লাহ কী চান সে ব্যাপারে। তার কিছু আমি শুধু শুনেছি আর আওড়ে গেছি। আজকের প্রতিটি এমন বাক্য যদি লিখে রেখে আমার হাতে ফিরিয়ে দিয়ে তার প্রমাণ চাওয়া হয়, কয়টার পক্ষে আমি 'কোথাও শুনেছিলাম' ছাড়া আর কিছু দাঁড় করাতে পারব?",
+    "pointsEn": [
+      "What have I stated as certain this week that I never actually saw, read in a reliable source, or checked?",
+      "When I speak about the unseen or about what God wants, do I keep to what revelation says, or fill the gaps with my own guesses?",
+      "Which of my firm opinions did I simply inherit from the people around me, without ever asking for its proof?",
+      "Do I hold others to a standard I would never accept for myself, the way these people gave God what they disliked for themselves?",
+      "If my words today were written down and I were asked about each one, which would I want to take back?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে কোন কথাটা আমি নিশ্চিত বলে চালিয়েছি, যা আমি নিজে দেখিনি, নির্ভরযোগ্য কোথাও পড়িনি, যাচাইও করিনি?",
+      "গায়েবের কথা বা আল্লাহ কী চান সে কথা বলার সময় আমি কি ওহী যা বলে তার মধ্যে থাকি, নাকি ফাঁকটুকু নিজের আন্দাজ দিয়ে ভরে দিই?",
+      "আমার কোন পাকা মতগুলো আমি আশপাশের মানুষের কাছ থেকে এমনিই পেয়ে গেছি, অথচ কখনো তার প্রমাণ চাইনি?",
+      "নিজের বেলায় যে মাপকাঠি কখনো মানতাম না, তা কি অন্যের বেলায় খাটাই? ঠিক যেমন এরা নিজেদের অপছন্দের জিনিস আল্লাহর দিকে চাপিয়ে দিয়েছিল?",
+      "আজ আমার মুখের প্রতিটি কথা যদি লিখে রাখা হয় আর প্রতিটির জন্য জিজ্ঞাসা করা হয়, কোনগুলো আমি ফিরিয়ে নিতে চাইব?"
+    ],
+    "lessonEn": "Do not speak about the unseen without knowledge from Allah: every claim is a testimony that is recorded, and its speaker will be asked for its proof.",
+    "lessonBn": "আল্লাহর দেওয়া জ্ঞান ছাড়া গায়েবের ব্যাপারে কথা বলবেন না। প্রতিটি দাবিই এক সাক্ষ্য, যা লিখে রাখা হয়, আর যে বলে তাকে এর প্রমাণ জিজ্ঞেস করা হবে।"
   }
 };
 
