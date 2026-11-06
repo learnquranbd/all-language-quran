@@ -17,7 +17,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 ## WAVE 2 (2026-11-02): more ayahs.
 NOTE: 52:36 draft quotes Bukhari 4854 (Jubayr ibn Mut'im); future 52:35 / 52:37 drafters must not retell it.
 RESUMED 2026-11-06 (USER: "continue enrich wave, until 7d limit goes 75, once limit is 75 stop for today"). Earlier: STOPPED (USER: "stop for now") at v1731 LIVE (pushed origin+pro, deployed, verified). This run v1611-v1731 = 121 ayat. 7 drafters were still running at stop (no new launches): 52:27 52:36 52:44 53:2 53:10 53:19 53:31 — their drafts land in tools/wip/round11/; next session: gate.js + ship.sh + commit.sh each that has audit/<key>/COMMIT.md, relaunch any without. Then queue.js.
-STATE 2026-11-06: v1815 LIVE; committed to v1815 (7d 68%; USER target: stop at 7d 75%). In flight: 69:9 69:23 69:37 69:48 70:11. Prepped next: 70:19 70:25 70:34. Policy this run: unconfirmed marfu' wording (Ahmad, Ibn Abi Hatim etc. via tafsir) is mentioned, never quoted. Resume: ship drafts with audit/<key>/COMMIT.md for LAUNCHED rows, relaunch the rest, then queue.js. Resume: ship any audit/<key>/COMMIT.md drafts of LAUNCHED rows, relaunch the rest.
+STATE 2026-11-06: v1833 LIVE (pushed+deployed). STOPPED for today at 7d 74% (user: stop at 75; resets Mon 9 Nov 16:00). 1585 shipped, 33 targets left; next per queue.js: 83:9 83:18 83:29 84:1 84:18 85:4. Nothing in flight. BRIEF.md now has the mention-only rule for unconfirmed/weak marfu' wording.
 RESUMED 2026-11-06 after v1610 (USER: "continue enrich wave, until I say stop, finish all the Tadabbur ayah for this enrich wave"): shipped the 8 waiting drafts as v1611-v1618; 10 drafters; push+deploy in groups (~30). LAUNCHED: 33:29 33:37 33:53 33:66 34:6 34:10 34:16 34:27 34:37 34:52.
 STOPPED 2026-11-06 at v1610 on CONTEXT HIGH; pushed origin+pro and DEPLOYED, live sw.js = lq-v1610 (verified). DRAFTED+gate-ready (not shipped): 31:2 31:25 32:3 32:9 32:15 32:19 33:4 33:13 (33:13: check §5 Ahmad Yathrib report + Qatadah "sent someone" wording before shipping). (This session v1532-v1610 = 79 ayat, 21:81 -> 30:5). ALL 8 in-flight drafts finished (none in flight now). RESUME in a FRESH session: for each in-flight key, if audit/<key>/COMMIT.md exists -> gate.js, ship.sh, commit.sh; if not -> relaunch the drafter (PREP ready). Then queue.js (next prepped: 33:29 33:37 33:53); 10 drafters. NOTE: queue.js does not exclude in-flight keys.
 OPEN (small): shipped 30:3 licensing sentence names "Persians, Iranians" (a present-day people), against the rule; reword to tie Rum/Persia to no present-day state or people (see audit/30_5 report). A stray draft tools/wip/round11/17_26-*.js exists (17:26 not shipped?) - check before drafting 17:26. Stale row "37:134 LAUNCHED" in the table - check.
@@ -512,9 +512,24 @@ New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-tar
 | 77:5 | v1814 | DONE |
 | 77:16 | v1812 | DONE |
 | 77:25 | v1811 | DONE |
-| 77:27 | - | LAUNCHED |
-| 77:41 | - | LAUNCHED |
-| 77:48 | - | LAUNCHED |
+| 77:27 | v1816 | DONE |
+| 77:41 | v1817 | DONE |
+| 77:48 | v1818 | DONE |
+| 78:6 | v1822 | DONE |
+| 78:25 | v1819 | DONE |
+| 78:40 | v1821 | DONE |
+| 79:10 | v1820 | DONE |
+| 79:16 | v1824 | DONE |
+| 79:33 | v1823 | DONE |
+| 79:36 | v1825 | DONE |
+| 80:9 | v1833 | DONE |
+| 80:19-20 | v1830 | DONE |
+| 80:28 | v1827 | DONE |
+| 80:39 | v1828 | DONE |
+| 81:14 | v1826 | DONE |
+| 81:19 | v1829 | DONE |
+| 82:2 | v1831 | DONE |
+| 82:19 | v1832 | DONE |
 | 21:59 | v1527 | DONE |
 | 21:73 | v1525 | DONE |
 
