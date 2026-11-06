@@ -23791,6 +23791,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Rain comes in measure and is stored in the earth for you, and the One who sent it can take it away. Thank Him for water before its loss teaches you its worth.",
     "lessonBn": "বৃষ্টি নামে মেপে, আর তা আপনার জন্য মাটিতে জমা রাখা হয়। যিনি পাঠিয়েছেন তিনি তা তুলে নিতেও পারেন। হারিয়ে মূল্য বোঝার আগেই পানির জন্য তাঁর শোকর করুন।"
+  },
+  "22:78": {
+    "reflectionEn": "The surah that began with the terror of the Hour ends on a list of things to do: strive for Allah as He deserves, pray, give, hold fast to Him. Between the commands sit three gifts. He chose you. He placed no narrowness on you in this religion. Before you were born, He gave you a name: those who submit to Him. The striving is real and it asks for everything I have, yet it is not a trap with no way out. The one who asks it is the one who calls Himself your Protector and your Helper. So the question is not whether I can carry it alone. It is whether I have taken hold of Him, and whether I live up to the name He gave me.",
+    "reflectionBn": "যে সূরা শুরু হয়েছিল কিয়ামতের ভয়াবহতা দিয়ে, তা শেষ হচ্ছে করণীয় কাজের এক তালিকায়: আল্লাহর জন্য জিহাদ করুন যেমনটা তাঁর হক, নামায কায়েম করুন, যাকাত দিন, তাঁকে আঁকড়ে ধরুন। এই আদেশগুলোর মাঝে রাখা আছে তিনটি দান। তিনি আপনাকে বেছে নিয়েছেন। দ্বীনের ভেতর আপনার উপর কোনো সংকীর্ণতা চাপাননি। আর আপনার জন্মের বহু আগেই আপনার একটা নাম রেখেছেন: মুসলিম, তাঁর কাছে আত্মসমর্পণকারী। এই প্রচেষ্টা সত্যিকারের, আমার যা কিছু আছে সবই সে চায়। তবু এটা এমন ফাঁদ নয় যার থেকে বেরোনোর পথ নেই। যিনি এটা চাইছেন, তিনিই নিজেকে বলছেন আপনার অভিভাবক, আপনার সাহায্যকারী। তাই প্রশ্নটা এই নয় যে আমি একা এ বোঝা বইতে পারব কি না। প্রশ্ন হলো, আমি তাঁকে আঁকড়ে ধরেছি কি না, আর তাঁর দেওয়া নামের মর্যাদা রেখে চলছি কি না।",
+    "pointsEn": [
+      "Where in my life am I giving Allah a portion of my effort, when this verse asks for the effort that is His due?",
+      "Which struggle do I keep putting off: against my own desires, my tongue, my laziness in prayer, or my fear of what people will say?",
+      "When something in the religion feels heavy, do I look for the way out that Allah has already built into it, or do I either give up or make it harder than He made it?",
+      "If I carry the name of one who submits, what in my week would show anyone that I have submitted?",
+      "When I am wronged or afraid, whom do I actually reach for first, and how would it change me to make Allah my first refuge?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন জায়গায় আমি আল্লাহকে আমার চেষ্টার একটা অংশমাত্র দিচ্ছি, অথচ এ আয়াত চায় সেই চেষ্টা যা তাঁর হক?",
+      "কোন সংগ্রামটা আমি বারবার পিছিয়ে দিচ্ছি: নিজের প্রবৃত্তির বিরুদ্ধে, নিজের জিহ্বার বিরুদ্ধে, নামাযে অলসতার বিরুদ্ধে, নাকি লোকে কী বলবে সেই ভয়ের বিরুদ্ধে?",
+      "দ্বীনের কোনো কিছু ভারী লাগলে আমি কি আল্লাহর আগে থেকেই রেখে দেওয়া সহজ পথটা খুঁজি? নাকি হাল ছেড়ে দিই, অথবা তিনি যতটা কঠিন করেননি তার চেয়েও কঠিন করে ফেলি?",
+      "আত্মসমর্পণকারীর নামটা যদি বহন করি, আমার এক সপ্তাহের কোন কাজটা দেখে কেউ বুঝবে যে আমি সত্যিই আত্মসমর্পণ করেছি?",
+      "অন্যায়ের শিকার হলে বা ভয় পেলে আমি আসলে সবার আগে কার দিকে হাত বাড়াই? আল্লাহকে প্রথম আশ্রয় বানালে আমার ভেতরে কী বদলাত?"
+    ],
+    "lessonEn": "Strive for Allah with all you have, knowing He placed no dead end in His religion; then pray, give, and hold fast to Him, the best Protector and Helper.",
+    "lessonBn": "যা কিছু আছে সব দিয়ে আল্লাহর জন্য চেষ্টা করুন, জেনে রাখুন তাঁর দ্বীনে বেরোনোর পথহীন কোনো সংকট নেই। তারপর নামায কায়েম করুন, যাকাত দিন, আর তাঁকে আঁকড়ে ধরুন, তিনিই সেরা অভিভাবক ও সাহায্যকারী।"
   }
 };
 

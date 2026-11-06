@@ -3090,5 +3090,157 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "22:78": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where al-Hajj Comes to Rest",
+          "bn": "সূরা হজ্জ যেখানে থামে"
+        },
+        "p": [
+          {
+            "en": "This is the last verse of Surat al-Hajj, forty-four words in the Arabic. The verse before it turns to the believers directly: O you who have believed, bow, prostrate, worship your Lord and do good, that you may succeed. This verse carries that address to its end. It opens with a command to strive, gives three reasons in the middle, and closes with prayer, zakah, holding fast to Allah, and a double praise of Him as Protector and Helper.",
+            "bn": "এটি সূরা হজ্জের শেষ আয়াত, আরবিতে ৪৪টি শব্দ। আগের আয়াত সরাসরি মুমিনদের ডেকে বলে: হে ঈমানদারগণ, রুকু করো, সিজদা করো, তোমাদের রবের ইবাদত করো আর ভালো কাজ করো, যাতে সফল হতে পারো। এ আয়াত সেই সম্বোধনকেই শেষ পর্যন্ত নিয়ে যায়। শুরুতে জিহাদের আদেশ, মাঝখানে তিনটি কারণ, আর শেষে নামায, যাকাত, আল্লাহকে আঁকড়ে ধরা। সবশেষে দুবার প্রশংসা: তিনি কত উত্তম অভিভাবক, কত উত্তম সাহায্যকারী।"
+          },
+          {
+            "en": "The prostration mark sits on 22:77, not on this verse, but the abridged Ibn Kathir, which takes the two verses together, opens with a report from 'Uqbah ibn 'Amir. At-Tirmidhi (578) has it: \"I said: 'O Messenger of Allah! Surah Al-Hajj has been esteemed by two prostrations?' He said: 'Yes, and whoever does not prostrate for them, he should not recite them.'\" At-Tirmidhi says its chain is not that strong, and records a difference: 'Umar, Ibn 'Umar, Ibn al-Mubarak, ash-Shafi'i, Ahmad and Ishaq held two; Sufyan ath-Thawri, Malik and the people of Kufa held one.",
+            "bn": "সিজদার চিহ্ন আছে ২২:৭৭ আয়াতে, এ আয়াতে নয়। তবু ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই দুই আয়াত একসঙ্গে ধরে ব্যাখ্যা শুরু করে উকবা ইবন আমির (রাঃ)-এর একটি বর্ণনা দিয়ে। তিরমিযীতে (৫৭৮) তা এভাবে আছে: \"আমি বললাম, হে আল্লাহর রাসূল! সূরা হজ্জকে কি দুটি সিজদা দিয়ে মর্যাদা দেওয়া হয়েছে? তিনি বললেন, হ্যাঁ। আর যে এ দুটিতে সিজদা করবে না, সে যেন এগুলো তিলাওয়াত না করে।\" তিরমিযী নিজেই বলেন, এর সনদ তেমন শক্তিশালী নয়। তিনি মতভেদটাও লিখে রাখেন। উমর (রাঃ), ইবন উমর (রাঃ), ইবনুল মুবারক, শাফেয়ী, আহমদ ও ইসহাক দুটি সিজদার কথা বলেছেন। সুফিয়ান সাওরী, মালিক ও কুফার আলেমরা বলেছেন একটির কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Striving That Is His Due",
+          "bn": "যে জিহাদ তাঁর প্রাপ্য"
+        },
+        "p": [
+          {
+            "en": "Wa-jahidu fi-llahi haqqa jihadih: and strive for Allah with the striving due to Him. At-Tabari records a difference. Some read it as striving against the idolaters in the way of Allah. From Ibn 'Abbas he brings two sayings: strive as you strove the first time, and, through Ibn Jurayj, do not fear the blame of any blamer for Allah's sake, which, they said, is the true right of jihad. A third view, act on the truth as it is due, he reports from ad-Dahhak through a chain he questions.",
+            "bn": "ওয়া জাহিদূ ফিল্লাহি হাক্কা জিহাদিহ: আর আল্লাহর জন্য জিহাদ করো, যেমন জিহাদ তাঁর প্রাপ্য। তাবারী এখানে মতভেদের কথা জানান। কেউ বলেছেন, এর মানে আল্লাহর পথে মুশরিকদের বিরুদ্ধে জিহাদ। ইবন আব্বাস (রাঃ) থেকে তিনি দুটি কথা আনেন। একটি: প্রথমবার যেভাবে জিহাদ করেছিলে, সেভাবে করো। অন্যটি, ইবন জুরাইজের সূত্রে: আল্লাহর ব্যাপারে কোনো নিন্দুকের নিন্দাকে ভয় কোরো না, আর তাঁদের মতে এটাই জিহাদের আসল হক। তৃতীয় মত, সত্যের উপর আমল করো যেমন আমল তার প্রাপ্য, তিনি দাহহাক থেকে এমন সূত্রে আনেন যাকে তিনি নিজেই প্রশ্নবিদ্ধ বলেন।"
+          },
+          {
+            "en": "His own choice is clear. The correct view, he says, is that jihad in the way of Allah is meant, because that is the known sense of the word, and the usual sense of saying jahadtu fi-llah, I strove for Allah. Then he defines the second half briefly: haqq al-jihad is istifragh at-taqa, emptying out the whole of your capacity in it. Al-Baghawi also has this from Ibn 'Abbas: striving in Allah's way against the enemies of Allah, with the whole of your strength.",
+            "bn": "তাবারীর নিজের পছন্দ স্পষ্ট। তাঁর মতে সঠিক কথা হলো, এখানে আল্লাহর পথে জিহাদই উদ্দেশ্য। কারণ শব্দটির পরিচিত অর্থ সেটাই, আর কেউ যখন বলে জাহাদতু ফিল্লাহ, আমি আল্লাহর জন্য জিহাদ করেছি, তখন সাধারণত সেটাই বোঝায়। তারপর আয়াতের দ্বিতীয় অংশের সংজ্ঞা তিনি দেন অল্প কথায়: জিহাদের হক মানে ইসতিফরাগুত তাকা, নিজের সব সামর্থ্য তাতে ঢেলে দেওয়া। বাগাভীও ইবন আব্বাস (রাঃ) থেকে এ কথা আনেন: আল্লাহর পথে আল্লাহর শত্রুদের বিরুদ্ধে জিহাদ, নিজের পুরো শক্তি দিয়ে।"
+          },
+          {
+            "en": "Ibn Kathir reads the same phrase through the means used: with your wealth, your tongues and your selves. He sets it beside 3:102, fear Allah as He should be feared. Ma'arif al-Qur'an adds what makes a striving \"due to Him\": that every effort and sacrifice aims only at Allah's pleasure, free of any worldly return such as fame or the spoils of war. The measure, on every reading, is not only how much is given but for whom.",
+            "bn": "ইবন কাসীর একই কথা পড়েন উপায়ের দিক থেকে: তোমাদের সম্পদ দিয়ে, জিহ্বা দিয়ে আর নিজেদের জান দিয়ে। পাশে রাখেন ৩:১০২ আয়াত, আল্লাহকে ভয় করো যেমন ভয় করা তাঁর হক। মাআরিফুল কুরআন যোগ করে, কোন জিনিস জিহাদকে তাঁর প্রাপ্য করে তোলে: সব চেষ্টা আর ত্যাগের লক্ষ্য হবে শুধু আল্লাহর সন্তুষ্টি, খ্যাতি বা গনিমতের মতো দুনিয়ার কোনো লাভ নয়। তাই প্রতিটি ব্যাখ্যায় মাপকাঠি শুধু কতটা দেওয়া হলো তা নয়, কার জন্য দেওয়া হলো তা-ও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Against the Self and the Whisperer",
+          "bn": "নফস আর ওয়াসওয়াসার বিরুদ্ধে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives both readings in two short lines. It is said the verse means jihad against the disbelievers. It is also said it points to obeying all that Allah commanded and refraining from all He forbade: strive against your own selves in obeying Allah and turn them back from desire; strive against Satan in repelling his whispering, against the oppressors in repelling their oppression, and against the disbelievers in repelling their disbelief. The fighting is kept, and placed inside a larger obedience.",
+            "bn": "কুরতুবী দুটো ব্যাখ্যাই আনেন দুই ছোট বাক্যে। বলা হয়, এর মানে কাফিরদের বিরুদ্ধে জিহাদ। আবার বলা হয়, এর ইশারা আল্লাহর সব আদেশ মানা আর তাঁর সব নিষেধ থেকে বিরত থাকার দিকে। অর্থাৎ আল্লাহর আনুগত্যে নিজের নফসের বিরুদ্ধে লড়ো, তাকে প্রবৃত্তি থেকে ফিরিয়ে আনো। শয়তানের বিরুদ্ধে লড়ো তার ওয়াসওয়াসা ঠেকাতে, জালিমদের বিরুদ্ধে তাদের জুলুম ঠেকাতে, আর কাফিরদের বিরুদ্ধে তাদের কুফর ঠেকাতে। লড়াই এখানে বাদ পড়েনি, তাকে রাখা হয়েছে আরও বড় এক আনুগত্যের ভেতরে।"
+          },
+          {
+            "en": "Al-Baghawi lists more voices. Ad-Dahhak and Muqatil: work for Allah as His work deserves and worship Him as His worship deserves. Most of the commentators, he says, take the right of jihad to be an intention sincere and true for Allah. As-Suddi: that He is obeyed and not disobeyed. Ibn al-Mubarak: it is striving against the self and its desire, which he calls the greater jihad and the true right of jihad. The Muyassar holds the two together: strive against yourselves, and strive with your wealth, your tongues and your lives.",
+            "bn": "বাগাভী আরও কয়েকজনের কথা আনেন। দাহহাক ও মুকাতিল বলেন: আল্লাহর জন্য আমল করো যেমন আমল তাঁর প্রাপ্য, আর তাঁর ইবাদত করো যেমন ইবাদত তাঁর প্রাপ্য। তাঁর ভাষায় অধিকাংশ মুফাসসিরের মতে জিহাদের হক হলো আল্লাহর জন্য খাঁটি ও সত্যিকারের নিয়ত। সুদ্দী বলেন: তাঁর আনুগত্য করা হবে, নাফরমানি নয়। আবদুল্লাহ ইবনুল মুবারক বলেন: এ হলো নফস ও প্রবৃত্তির বিরুদ্ধে সংগ্রাম, একেই তিনি বলেন বড় জিহাদ, আর এটাই জিহাদের হক। মুয়াসসার দুটি দিককে একসঙ্গে রাখে: নিজের নফসের বিরুদ্ধে জিহাদ করো, আর সম্পদ, জিহ্বা ও জান দিয়ে জিহাদ করো।"
+          },
+          {
+            "en": "As-Sa'di starts from the word itself: jihad is spending all one's capacity to reach the goal sought. Striving for Allah as is His due, then, is carrying out Allah's command in full and calling people to His path by every route that leads there, which he lists: sincere counsel, teaching, fighting, discipline, restraint and admonition. None of these commentators drops the battlefield, and none of them stops there. The verse is read as a whole life given over, of which armed struggle is one part.",
+            "bn": "সা’দী শুরু করেন শব্দটি থেকেই: কাঙ্ক্ষিত লক্ষ্যে পৌঁছাতে নিজের সব সামর্থ্য ব্যয় করার নাম জিহাদ। তাহলে আল্লাহর জন্য তাঁর প্রাপ্য জিহাদ মানে আল্লাহর আদেশ পুরোপুরি পালন করা, আর যে পথে মানুষকে তাঁর দিকে ডাকা যায় সব পথে ডাকা। তিনি পথগুলোর নামও বলেন: নসিহত, শিক্ষা, লড়াই, আদব শেখানো, বাধা দেওয়া আর ওয়াজ। এই মুফাসসিরদের কেউ যুদ্ধক্ষেত্রকে বাদ দেননি, আবার কেউ সেখানেই থেমেও যাননি। আয়াতটিকে তাঁরা পড়েন গোটা জীবন সঁপে দেওয়ার ডাক হিসেবে, সশস্ত্র লড়াই যার একটি অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abrogated, or Meant From the Start",
+          "bn": "রহিত, নাকি শুরু থেকেই এই অর্থ"
+        },
+        "p": [
+          {
+            "en": "Was the command later lightened? Al-Baghawi reports that Muqatil ibn Sulayman said it was abrogated by 64:16, fear Allah as much as you are able. Al-Qurtubi relays the same from Muqatil through Ibn 'Atiyya, and adds Hibat Allah, who held that haqqa jihadih here and haqqa tuqatih in 3:102 were both abrogated by the easing of these commands down to what a person is able to do.",
+            "bn": "পরে কি আদেশটা হালকা করা হয়েছিল? বাগাভী জানান, মুকাতিল ইবন সুলায়মান বলেছেন, এটি ৬৪:১৬ আয়াত দিয়ে রহিত হয়ে গেছে: তোমরা যথাসাধ্য আল্লাহকে ভয় করো। কুরতুবীও ইবন আতিয়্যার সূত্রে মুকাতিলের একই কথা আনেন। সঙ্গে আনেন হিবাতুল্লাহর মত। তাঁর মতে এখানকার হাক্কা জিহাদিহ আর ৩:১০২ আয়াতের হাক্কা তুকাতিহ, দুটোই রহিত হয়েছে, কারণ এসব আদেশ পরে সামর্থ্যের সীমায় নামিয়ে আনা হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi does not accept it. There is no need, he says, to suppose abrogation, because this was what was meant from the first: the striving due to Him is the striving from which hardship has been lifted. He adds an-Nahhas, who said this is a duty on every person and cannot be abrogated. As-Sa'di reaches the same point from the verse's own order. Someone might imagine, he says, that the command asks for what cannot be borne, so the next words guard against it: He has not placed on you any difficulty.",
+            "bn": "কুরতুবী এ মত মানেন না। তাঁর কথা, রহিত হওয়ার কথা ধরে নেওয়ার কোনো দরকার নেই। শুরু থেকেই এটাই উদ্দেশ্য ছিল, কারণ তাঁর প্রাপ্য জিহাদ মানেই সেই জিহাদ, যার উপর থেকে কষ্ট তুলে নেওয়া হয়েছে। তিনি নাহহাসের কথাও আনেন: এটি প্রত্যেক মানুষের উপর ফরজ, তাই রহিত হতে পারে না। সা’দী একই জায়গায় পৌঁছান আয়াতের নিজের বিন্যাস থেকে। তিনি বলেন, কেউ ভাবতে পারত আদেশটা সাধ্যের বাইরের কিছু চাইছে। তাই পরের কথাগুলোই সে ভুল আগে থেকে ঠেকিয়ে দেয়: তিনি তোমাদের উপর কোনো সংকীর্ণতা রাখেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Chosen, and Never Cornered",
+          "bn": "বাছাই করা, কোণঠাসা নয়"
+        },
+        "p": [
+          {
+            "en": "Huwa-jtabakum: He has chosen you. At-Tabari: He chose you for His religion, and selected you to fight His enemies and strive in His way; Ibn Zayd said simply, He guided you. Al-Qurtubi reads it as a reason attached to the command: He chose you to defend His religion and keep to His command, so the striving is owed because the choosing came first.",
+            "bn": "হুওয়াজতাবাকুম: তিনি তোমাদের বেছে নিয়েছেন। তাবারী বলেন, তিনি তোমাদের বেছে নিয়েছেন তাঁর দ্বীনের জন্য, আর মনোনীত করেছেন তাঁর শত্রুদের বিরুদ্ধে লড়তে ও তাঁর পথে জিহাদ করতে। ইবন যায়দ সংক্ষেপে বলেন, তিনি তোমাদের হিদায়াত দিয়েছেন। কুরতুবী একে দেখেন আদেশের সঙ্গে জোড়া কারণ হিসেবে। তিনি তোমাদের বেছেছেন তাঁর দ্বীন রক্ষা আর তাঁর আদেশ আঁকড়ে থাকার জন্য, তাই বাছাই আগে এসেছে বলেই জিহাদ পাওনা হয়েছে।"
+          },
+          {
+            "en": "Then the word haraj. At-Tabari records that Ibn 'Abbas, asked about it, asked whether anyone from Hudhayl was present. A man said yes. \"What do you count as haraja among you?\" \"Something narrow.\" \"So it is.\" In another report he first said that when a word of the Qur'an is unclear you should look to poetry, for poetry is Arabic; then he called a Bedouin, asked the same question, got the same answer, and told him he was right. Al-Hasan, Qatada and Abu l-'Aliya all gave narrowness.",
+            "bn": "এরপর হারাজ শব্দটি। তাবারী বর্ণনা করেন, ইবন আব্বাস (রাঃ)-কে এ নিয়ে জিজ্ঞেস করা হলে তিনি জানতে চাইলেন, এখানে হুযাইল গোত্রের কেউ আছে কি না। একজন বলল, আছি। তিনি বললেন, তোমরা হারাজা বলতে কী বোঝো? সে বলল, সংকীর্ণ জিনিস। তিনি বললেন, এটাও তাই। আরেক বর্ণনায় তিনি আগে বলেন, কুরআনের কোনো শব্দ অস্পষ্ট লাগলে কবিতায় খোঁজো, কারণ কবিতা আরবি। তারপর এক বেদুইনকে ডেকে একই প্রশ্ন করেন, একই উত্তর পান, আর বলেন, তুমি ঠিক বলেছ। হাসান, কাতাদা ও আবুল আলিয়াও অর্থ করেছেন সংকীর্ণতা।"
+          },
+          {
+            "en": "Narrow how? At-Tabari answers: no narrowness with no way out. He made repentance an exit from some sins, expiation from others and retaliation from others, so there is no sin a believer commits without an exit from it in Islam. Al-Baghawi says the same and adds the return of what was wrongly taken. Other readings sit beside it: at-Tabari has Ibn 'Abbas apply it to doubt over the new moon of Ramadan and of the Hajj, and al-Baghawi has him apply it to the burdens laid on the Children of Israel.",
+            "bn": "কেমন সংকীর্ণতা? তাবারীর উত্তর: এমন সংকীর্ণতা, যার থেকে বেরোনোর পথ নেই, দ্বীনে তা রাখা হয়নি। কিছু গুনাহ থেকে বেরোনোর পথ তিনি করেছেন তওবা, কিছুর কাফফারা, কিছুর কিসাস। তাই মুমিন এমন কোনো গুনাহ করে না, যার থেকে ইসলামে বেরোনোর পথ নেই। বাগাভীও একই কথা বলেন, সঙ্গে যোগ করেন অন্যায়ভাবে নেওয়া হক ফিরিয়ে দেওয়ার কথা। পাশে আরও ব্যাখ্যা আছে। তাবারী ইবন আব্বাস (রাঃ) থেকে আনেন, এটা রমজান ও হজ্জের নতুন চাঁদ নিয়ে সন্দেহের ক্ষেত্রে। আর বাগাভী তাঁর থেকে আনেন, এটা বনী ইসরাঈলের উপর চাপানো বোঝার কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Way Out Built In",
+          "bn": "শরিয়তের ভেতরেই সহজতা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir makes the clause concrete. Allah did not charge you with what you cannot bear, and whatever weighs on you He gave a relief and a way out. Prayer is 4 units at home and 2 on a journey; in fear, some imams pray a single unit; it may be prayed walking or riding, facing the qiblah or not; the sick pray sitting, or lying on their side. As-Sa'di draws two legal maxims from the verse: hardship brings ease, and necessity makes the forbidden permissible.",
+            "bn": "ইবন কাসীর কথাটিকে হাতে-কলমে দেখান। আল্লাহ তোমাদের উপর সাধ্যের বাইরের কিছু চাপাননি। যা কিছু ভারী লাগে, তার জন্য তিনি রেখেছেন স্বস্তি আর বেরোনোর পথ। নামায বাড়িতে ৪ রাকাত, সফরে ২ রাকাত। ভয়ের অবস্থায় কোনো কোনো ইমাম এক রাকাত পড়েন। হেঁটে বা বাহনে চড়ে পড়া যায়, কিবলামুখী হয়ে বা না হয়ে। অসুস্থ মানুষ বসে পড়ে, না পারলে কাত হয়ে শুয়ে। সা’দী আয়াত থেকে দুটি ফিকহি মূলনীতি বের করেন: কষ্ট সহজতা টেনে আনে, আর জরুরত নিষিদ্ধকে বৈধ করে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir cites this charge here. Al-Bukhari (3038) has it from Abu Burda's father: \"The Prophet (ﷺ) sent Mu'adh and Abu Musa to Yemen telling them, 'Treat the people with ease and don't be hard on them; give them glad tidings and don't fill them with aversion; and love each other, and don't differ.'\" Al-Qurtubi adds a limit: the lifting of hardship is for whoever keeps to the law's path. Robbers, thieves and those liable to its penalties bring the hardship on themselves by leaving it.",
+            "bn": "ইবন কাসীর এখানে এই নির্দেশটি আনেন। বুখারী (৩০৩৮) তা এনেছেন আবু বুরদার পিতার সূত্রে: \"নবী ﷺ মুআয ও আবু মূসাকে ইয়েমেনে পাঠালেন, আর বললেন: তোমরা সহজ করো, কঠিন কোরো না। সুসংবাদ দাও, বিতৃষ্ণ কোরো না। একে অপরের কথা মেনে চলো, মতবিরোধ কোরো না।\" কুরতুবী একটা সীমাও টেনে দেন। কষ্ট তুলে নেওয়া তাদের জন্য, যারা শরিয়তের পথে অবিচল থাকে। ডাকাত, চোর আর যাদের উপর হদ্দের শাস্তি প্রযোজ্য, তারা সে পথ ছেড়ে নিজেরাই নিজেদের উপর কষ্ট ডেকে আনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Voice Gave the Name",
+          "bn": "নামটি দিয়েছেন কে"
+        },
+        "p": [
+          {
+            "en": "Millata abikum Ibrahim: the religion of your father Ibrahim. At-Tabari reads the grammar two ways: He made the religion wide for you, like the religion of your father, or, keep to the religion of your father. Ibn Kathir sets it beside 6:161. Why father? Al-Baghawi gives two answers: the Arabs are addressed, as his descendants, or all Muslims, owing Ibrahim (AS) a father's respect, as 33:6 calls the Prophet's wives the believers' mothers.",
+            "bn": "মিল্লাতা আবীকুম ইবরাহীম: তোমাদের পিতা ইবরাহীমের দ্বীন। তাবারী বাক্যের গঠন পড়েন দুইভাবে। এক, তিনি দ্বীনকে তোমাদের জন্য প্রশস্ত করেছেন, তোমাদের পিতার দ্বীনের মতো। দুই, তোমাদের পিতার দ্বীন আঁকড়ে থাকো। ইবন কাসীর এর পাশে রাখেন ৬:১৬১ আয়াত। পিতা কেন? বাগাভী দুটি উত্তর দেন। হয় সম্বোধন আরবদের প্রতি, যারা তাঁর বংশধর। নয়তো সব মুসলিমের প্রতি, কারণ ইবরাহীম (আঃ)-এর প্রাপ্য পিতার মতো সম্মান, যেমন ৩৩:৬ আয়াত নবীর স্ত্রীদের বলেছে মুমিনদের মা।"
+          },
+          {
+            "en": "Then huwa sammakumu l-muslimin: He named you Muslims. Most say Allah: at-Tabari has it from Ibn 'Abbas, Mujahid, Qatada and ad-Dahhak, and Ibn Kathir adds as-Suddi and Muqatil ibn Hayyan. Ibn Zayd said Ibrahim, pointing to his prayer in 2:128, make us Muslims to You and of our descendants a Muslim community; al-Qurtubi puts al-Hasan beside him. Ma'arif al-Qur'an explains the phrase by that prayer: Ibrahim (AS) proposed the name, and the Qur'an took it up.",
+            "bn": "তারপর হুওয়া সাম্মাকুমুল মুসলিমীন: তিনি তোমাদের নাম রেখেছেন মুসলিম। অধিকাংশের মতে আল্লাহ। তাবারী এ কথা আনেন ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা ও দাহহাক থেকে, আর ইবন কাসীর যোগ করেন সুদ্দী ও মুকাতিল ইবন হাইয়ানকে। ইবন যায়দ বলেন, তিনি ইবরাহীম। প্রমাণ হিসেবে দেখান ২:১২৮ আয়াতে তাঁর দোয়া: আমাদের তোমার অনুগত মুসলিম বানাও, আর আমাদের বংশ থেকেও তোমার অনুগত এক উম্মাহ বানাও। কুরতুবী তাঁর পাশে রাখেন হাসানকে। মাআরিফুল কুরআন কথাটির ব্যাখ্যা করে ওই দোয়া দিয়েই: ইবরাহীম (আঃ) নামটি প্রস্তাব করেছিলেন, কুরআন তা গ্রহণ করেছে।"
+          },
+          {
+            "en": "At-Tabari states his preference sharply: there is no basis for what Ibn Zayd said, since Ibrahim did not name this community Muslims in the Qur'an, which came down a long age after him; He who named us before the Qur'an and in it is Allah. Ibn Kathir calls the same view correct, and al-Qurtubi relays an-Nahhas calling Ibn Zayd's view contrary to the great scholars of the community. Mujahid explains the two times: before, in all the earlier books; in this, the Qur'an.",
+            "bn": "তাবারী নিজের পছন্দ বলেন জোর দিয়ে: ইবন যায়দের কথার কোনো ভিত্তি নেই। কারণ ইবরাহীম কুরআনে এই উম্মাহর নাম মুসলিম রাখেননি, কুরআন তো নাযিল হয়েছে তাঁর বহুকাল পরে। কুরআনের আগে আর কুরআনে যিনি আমাদের নাম মুসলিম রেখেছেন, তিনি আল্লাহ। ইবন কাসীর এই মতকেই সঠিক বলেন। আর কুরতুবী নাহহাসের কথা আনেন, যিনি ইবন যায়দের মতকে উম্মাহর বড় আলেমদের মতের বিপরীত বলেছেন। দুই সময়ের ব্যাখ্যা দেন মুজাহিদ: আগে মানে আগের সব কিতাবে, আর এতে মানে কুরআনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Witnesses Who Must Still Pray",
+          "bn": "সাক্ষী, তবু নামাযে দাঁড়াতে হয়"
+        },
+        "p": [
+          {
+            "en": "The naming has a purpose: that the Messenger may be a witness over you, and you witnesses over the people. At-Tabari explains it of the Day of Resurrection: Muhammad ﷺ bears witness that he conveyed to you what he was sent with, and you bear witness over all the messengers that they conveyed it to their nations. Ibn Kathir links it to 2:143, thus We have made you a middle community, and refers back to the hadith of Nuh (AS) he gave there.",
+            "bn": "নামকরণের একটা উদ্দেশ্য আছে: যাতে রাসূল তোমাদের উপর সাক্ষী হন, আর তোমরা সাক্ষী হও মানুষের উপর। তাবারী এর ব্যাখ্যা দেন কিয়ামতের দিন দিয়ে। মুহাম্মাদ ﷺ সাক্ষ্য দেবেন, তাঁকে যা দিয়ে পাঠানো হয়েছিল তা তিনি তোমাদের কাছে পৌঁছে দিয়েছেন। আর তোমরা সব রাসূল সম্পর্কে সাক্ষ্য দেবে যে তাঁরা নিজ নিজ উম্মতের কাছে বাণী পৌঁছে দিয়েছেন। ইবন কাসীর একে জুড়ে দেন ২:১৪৩ আয়াতের সঙ্গে, এভাবেই আমি তোমাদের মধ্যপন্থী উম্মাহ বানিয়েছি, আর সেখানে আনা নূহ (আঃ)-এর হাদীসের কথা মনে করিয়ে দেন।"
+          },
+          {
+            "en": "Al-Bukhari (4487) has it from Abu Sa'id al-Khudri: \"Noah will be called on the Day of Resurrection and he will say, 'Labbaik and Sa'daik, O my Lord!' Allah will say, 'Did you convey the Message?' Noah will say, 'Yes.' His nation will then be asked, 'Did he convey the Message to you?' They will say, 'No Warner came to us.' Then Allah will say (to Noah), 'Who will bear witness in your favor?' He will say, 'Muhammad and his followers.' So they (i.e. Muslims) will testify that he conveyed the Message.\" Al-Bukhari's text then ties it to 2:143.",
+            "bn": "বুখারী (৪৪৮৭) আবু সাঈদ খুদরী (রাঃ) থেকে এনেছেন: \"কিয়ামতের দিন নূহকে ডাকা হবে। তিনি বলবেন, হাজির, হে আমার রব, আপনার খেদমতে হাজির। আল্লাহ বলবেন, তুমি কি পৌঁছে দিয়েছিলে? তিনি বলবেন, হ্যাঁ। তখন তাঁর উম্মতকে জিজ্ঞেস করা হবে, সে কি তোমাদের কাছে পৌঁছে দিয়েছিল? তারা বলবে, আমাদের কাছে কোনো সতর্ককারী আসেনি। তখন আল্লাহ বলবেন, তোমার পক্ষে কে সাক্ষ্য দেবে? তিনি বলবেন, মুহাম্মাদ ও তাঁর উম্মত। তখন তোমরা সাক্ষ্য দেবে যে তিনি পৌঁছে দিয়েছিলেন।\" বুখারীর পাঠ এরপর একে ২:১৪৩ আয়াতের সঙ্গে জুড়ে দেয়।"
+          },
+          {
+            "en": "The honour turns at once into duty: establish prayer, give zakah, hold fast to Allah. Ibn Kathir: meet this great favour by thanking Him for it. Hold fast, he says, means seek His help and rely on Him; as-Sa'di adds, and do not lean on your own strength. At-Tabari reads the final praise as a promise: an excellent Protector is Allah to whoever prays, gives, strives as is His due and holds to Him, and an excellent Helper against whoever seeks him harm.",
+            "bn": "সম্মানটা সঙ্গে সঙ্গে দায়িত্বে বদলে যায়: নামায কায়েম করো, যাকাত দাও, আল্লাহকে আঁকড়ে ধরো। ইবন কাসীর বলেন, এই বিরাট নিয়ামতের জবাব দাও তাঁর শোকর আদায় করে। আঁকড়ে ধরা মানে, তাঁর কাছে সাহায্য চাও আর তাঁর উপর ভরসা করো। সা’দী যোগ করেন, নিজের শক্তি-সামর্থ্যের উপর ভরসা কোরো না। শেষের প্রশংসাকে তাবারী পড়েন এক প্রতিশ্রুতি হিসেবে। যে নামায কায়েম করে, যাকাত দেয়, তাঁর প্রাপ্য জিহাদ করে আর তাঁকে আঁকড়ে ধরে, আল্লাহ তার কত উত্তম অভিভাবক। আর যে তার অনিষ্ট চায়, তার বিরুদ্ধে কত উত্তম সাহায্যকারী।"
+          }
+        ]
+      }
+    ]
   }
 });
