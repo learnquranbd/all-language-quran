@@ -1183,6 +1183,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "51:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words Name the Means",
+          "bn": "পাঁচ শব্দে উপায়ের নাম"
+        },
+        "p": [
+          {
+            "en": "Li-nursila 'alayhim hijaratan min tin: to send upon them stones of clay. The verse is five words in the Arabic, and it finishes a sentence that the angels began in 51:32. Ibrahim (AS) had asked them what their errand was, and they had said they were sent to a criminal people. This verse gives the purpose, introduced by the li- of so that. The reply now has its two halves: to whom they were sent, and what for.",
+            "bn": "লিনুরসিলা আলাইহিম হিজারাতাম মিন তীন: যেন তাদের উপর মাটির পাথর পাঠাই। আরবিতে আয়াতটি পাঁচ শব্দের। ফেরেশতারা ৫১:৩২-এ যে বাক্য শুরু করেছিলেন, এ আয়াত সেটাই শেষ করে। ইবরাহীম (আঃ) জানতে চেয়েছিলেন তাঁরা কী কাজে এসেছেন। তাঁরা বলেছিলেন, এক অপরাধী জাতির কাছে তাঁদের পাঠানো হয়েছে। এবার শুরুর লি দিয়ে আসে উদ্দেশ্য: যেন। জবাবের দুই অংশই এখন পুরো হলো: কাদের কাছে পাঠানো হয়েছে, আর কিসের জন্য।"
+          },
+          {
+            "en": "The people are not named in this verse; the commentators name them from the passage around it. Ma'arif al-Qur'an, reading 51:30 to 51:33 together, says the angels had been sent to the people of Lut (AS) to destroy them, and adds that they would be stoned to death, but not with large stones. Ibn Kathir's abridged English renders the verse as stones of baked clay. What the stones were, and why they are called clay, is where the commentators spend their words.",
+            "bn": "এ আয়াতে জাতির নাম নেই। তাফসীরকারেরা আশপাশের আয়াত থেকে নামটা বলে দেন। মাআরিফুল কুরআন ৫১:৩০ থেকে ৫১:৩৩ একসঙ্গে পড়ে বলে, ফেরেশতাদের পাঠানো হয়েছিল লূত (আঃ)-এর কওমকে ধ্বংস করতে। সঙ্গে যোগ করে: পাথর মেরে তাদের শেষ করা হবে, তবে বড় পাথরে নয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ আয়াতের অনুবাদ করে পোড়া মাটির পাথর। পাথরগুলো আসলে কী ছিল, আর কেন সেগুলোকে মাটির বলা হলো, তাফসীরকারদের কথা খরচ হয়েছে মূলত সেখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain, Stoning, Destruction",
+          "bn": "বর্ষণ, পাথর মারা, ধ্বংস"
+        },
+        "p": [
+          {
+            "en": "Three commentaries gloss the verb li-nursila, and each picks out a different side of it. At-Tabari reads it as rain: yaqulu, li-numtira 'alayhim min as-sama'i hijaratan min tin, he says, so that We may rain upon them from the sky stones of clay. That is the verb the Qur'an itself uses for the same event in 11:82 and 15:74, amtarna, We rained. On at-Tabari's reading, sending upon them means sending down, from above.",
+            "bn": "লিনুরসিলা ক্রিয়াটির ব্যাখ্যা দেয় তিনটি তাফসীর, আর প্রত্যেকে এর আলাদা এক দিক তুলে ধরে। তাবারী একে পড়েন বর্ষণ হিসেবে। তাঁর ভাষায়: লিনুমতিরা আলাইহিম মিনাস সামায়ি হিজারাতাম মিন তীন, যেন আমি আকাশ থেকে তাদের উপর মাটির পাথর বর্ষণ করি। একই ঘটনার জন্য কুরআন নিজেও ১১:৮২ ও ১৫:৭৪-এ এই ক্রিয়াই ব্যবহার করেছে: আমতারনা, আমি বর্ষণ করলাম। তাবারীর পাঠে তাদের উপর পাঠানো মানে উপর থেকে নামিয়ে দেওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi's gloss is four words: ay li-narjumahum biha, that is, so that We may stone them with them. He names the act rather than the direction. The Muyassar names the outcome: li-nuhlikahum bi-hijaratin min tinin mutahajjir, to destroy them with stones of clay turned hard as stone. Rain, stoning and destruction do not compete. One tells where the stones came from, one what they did, and one what came of it, and together they make the angels' five words concrete.",
+            "bn": "কুরতুবীর ব্যাখ্যা মাত্র চারটি শব্দের: আই লিনারজুমাহুম বিহা, অর্থাৎ যেন সেগুলো দিয়ে তাদের পাথর মারি। তিনি দিকের কথা না বলে কাজটার নাম বলেন। মুয়াসসার বলে পরিণতির কথা: লিনুহলিকাহুম বিহিজারাতিম মিন তীনিম মুতাহাজ্জির, যেন শক্ত হয়ে পাথর হয়ে যাওয়া মাটির ঢেলা দিয়ে তাদের ধ্বংস করি। বর্ষণ, পাথর মারা আর ধ্বংস, এ তিনের মধ্যে কোনো বিরোধ নেই। একটি বলে পাথর এল কোথা থেকে, একটি বলে পাথর কী করল, আর একটি বলে তার ফল কী দাঁড়াল। তিনটি মিলে ফেরেশতাদের পাঁচ শব্দের ছবিটা স্পষ্ট হয়।"
+          },
+          {
+            "en": "The phrase arsala 'alayhim, he sent upon them, recurs in the Qur'an's accounts of past peoples. In this surah, 51:41 uses it for 'Ad and the barren wind. Surah al-Qamar uses it three times: a furious wind in 54:19, a single shout in 54:31, and in 54:34 a storm of stones upon Lut's people, except the family of Lut. In 105:3 birds are sent upon the army of the elephant. Each time, what is sent is beyond the people's power to stop.",
+            "bn": "আরসালা আলাইহিম, তাদের উপর পাঠালেন: অতীত জাতিগুলোর কাহিনিতে কুরআন বার বার এই কথাটা বলে। এই সূরাতেই ৫১:৪১-এ আদ জাতির উপর বন্ধ্যা বাতাস পাঠানোর কথা আছে। সূরা কামার বলে তিনবার: ৫৪:১৯-এ প্রচণ্ড ঝড়ো বাতাস, ৫৪:৩১-এ একটিমাত্র বিকট আওয়াজ, আর ৫৪:৩৪-এ লূতের কওমের উপর পাথুরে ঝড়, লূতের পরিবার বাদে। ১০৫:৩-এ হাতিওয়ালা বাহিনীর উপর পাঠানো হয় পাখির ঝাঁক। প্রতিবার যা পাঠানো হয়, তা ঠেকানোর সাধ্য সেই জাতির থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clay Turned to Stone",
+          "bn": "মাটি থেকে পাথর"
+        },
+        "p": [
+          {
+            "en": "Hijaratan min tin, stones of clay, joins two things that seem to pull apart: stone is hard and clay is soft. The Muyassar resolves it in one word, mutahajjir, clay that had become stone. Al-Qurtubi takes the question up where he comments on the stones' description in the next verse, and gives two answers. The first, from Ibn Zayd, is that they were baked the way bricks are baked. That, al-Qurtubi says, is the meaning of hijaratan min sijjil, as he had explained in Surah Hud.",
+            "bn": "হিজারাতাম মিন তীন, মাটির পাথর। কথাটায় দুটো জিনিস জোড়া লেগেছে, যারা যেন উল্টো দিকে টানে: পাথর শক্ত, মাটি নরম। মুয়াসসার একটি শব্দেই জট খুলে দেয়: মুতাহাজ্জির, পাথর হয়ে যাওয়া মাটি। কুরতুবী প্রশ্নটা তোলেন পরের আয়াতে পাথরের বিবরণের ব্যাখ্যা করতে গিয়ে, আর দুটি উত্তর দেন। প্রথমটি ইবন যায়দের: ইট যেভাবে পোড়ানো হয়, পাথরগুলোও সেভাবে পোড়ানো ছিল। কুরতুবী বলেন, হিজারাতাম মিন সিজ্জীলের অর্থও এটাই, সূরা হূদে যেমন তিনি ব্যাখ্যা করে এসেছেন।"
+          },
+          {
+            "en": "The second answer al-Qurtubi introduces with qila, it has been said: these are the stones we see, whose origin is clay, made stone by the sun's burning over the passing ages. On the first answer the clay was fired for this purpose; on the second it is ordinary stone that began as clay. Al-Qurtubi records both and does not choose. Ibn Kathir's abridgement speaks of sijjil, baked clay, and Ma'arif al-Qur'an of small pebbles of baked clay.",
+            "bn": "দ্বিতীয় উত্তরটি কুরতুবী আনেন কীলা দিয়ে, অর্থাৎ বলা হয়েছে। এগুলো সেই পাথরই, যা আমরা চোখে দেখি, যার গোড়ায় ছিল মাটি। যুগ যুগ ধরে সূর্যের তাপে পুড়ে তা পাথর হয়েছে। প্রথম উত্তরে মাটিটা পোড়ানো হয়েছিল বিশেষ এই কাজের জন্য। দ্বিতীয় উত্তরে এ সাধারণ পাথর, যা একসময় মাটি ছিল। কুরতুবী দুটোই লিখে রাখেন, কোনোটা বেছে নেন না। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ বলে সিজ্জীলের কথা, অর্থাৎ পোড়া মাটি। মাআরিফুল কুরআন বলে পোড়া মাটির ছোট ছোট নুড়ির কথা।"
+          },
+          {
+            "en": "What sijjil itself means is a harder question, and it belongs to the verses where the word stands, 11:82 and 15:74, whose readings take it up. It is not retold here. This verse contributes something simpler. Where those verses use the rare word, this one uses the common one, tin, the clay of the ground. For a listener who did not know what sijjil was, the angels' words to Ibrahim (AS) say plainly what the stones were made of.",
+            "bn": "সিজ্জীল শব্দের নিজের অর্থ কী, সে প্রশ্ন আরও কঠিন। সে আলোচনা সেই আয়াতগুলোর, যেখানে শব্দটা আছে: ১১:৮২ ও ১৫:৭৪। ওই আয়াতগুলোর পাঠে বিষয়টা এসেছে, এখানে তার পুনরাবৃত্তি হবে না। এ আয়াত দেয় আরও সহজ একটা জিনিস। ওই আয়াতগুলো যেখানে বিরল শব্দটা ব্যবহার করে, এখানে আছে চেনা শব্দ: তীন, জমির মাটি। সিজ্জীল কী, যে শ্রোতা জানে না, তার জন্যও ইবরাহীম (আঃ)-এর প্রতি ফেরেশতাদের কথা পরিষ্কার জানিয়ে দেয় পাথরগুলো কী দিয়ে তৈরি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Clay Is Named",
+          "bn": "মাটির নাম কেন বলা হলো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays one more answer, from al-Qushayri, to a question a reader might not think to ask: why say of clay at all? Wa innama qala min tin li-yu'lama annaha laysat hijarata al-ma'i allati hiya al-barad. He said of clay only so that it would be known they were not the stones of water, which is hail. Stones falling from the sky could be taken for a hailstorm. Two words remove that reading before it can form.",
+            "bn": "কুরতুবী কুশাইরীর বরাতে আরও একটি উত্তর দেন। প্রশ্নটা পাঠকের মাথায় হয়তো আসতই না: মাটির, এ কথা বলার দরকার কী ছিল? ওয়া ইন্নামা কালা মিন তীন লিইউ'লামা আন্নাহা লাইসাত হিজারাতাল মায়িল লাতী হিয়াল বারাদ। মাটির বলা হয়েছে শুধু এটা বোঝাতে যে এগুলো পানির পাথর নয়, অর্থাৎ শিলা নয়। আকাশ থেকে পাথর পড়ছে, এ কথা শুনলে কেউ শিলাবৃষ্টি ভেবে বসতে পারত। দুটি শব্দ সে ভুল বোঝা দানা বাঁধার আগেই সরিয়ে দেয়।"
+          },
+          {
+            "en": "On that reading these stones were neither weather nor chance, and the next verse says they were marked. The precision is worth noticing. Five words carry the purpose, the target and the material, and one of them, on al-Qushayri's reading, exists to close off a misunderstanding. The Qur'an does not dwell on the event here, but it does not leave it vague either. It says enough to be understood, and then it moves on.",
+            "bn": "এই ব্যাখ্যায় এ পাথর আবহাওয়ার খেলা নয়, কাকতালীয়ও নয়। পরের আয়াত তো বলেই দেয় যে সেগুলো চিহ্নিত ছিল। এই নিখুঁত ভাষাটা খেয়াল করার মতো। পাঁচটি শব্দে উদ্দেশ্য, লক্ষ্য আর উপাদান, তিনটিই আছে। কুশাইরীর ব্যাখ্যায় এর একটি শব্দের কাজই হলো একটা ভুল বোঝাবুঝির পথ বন্ধ করা। কুরআন এখানে ঘটনার বিস্তারে যায় না, আবার অস্পষ্টও রাখে না। বোঝার মতো যতটুকু দরকার ততটুকু বলে সামনে এগিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Marked Before They Fell",
+          "bn": "পড়ার আগেই চিহ্নিত"
+        },
+        "p": [
+          {
+            "en": "The angels' sentence does not end with this verse. It runs into 51:34: musawwamatan 'inda rabbika lil-musrifin, marked with your Lord for the transgressors. Ibn Kathir and as-Sa'di quote the two verses as one unit before commenting, and every commentary read here glosses musawwamah the same way, as mu'allamah, marked: at-Tabari, al-Qurtubi, al-Baghawi, Ibn Kathir and as-Sa'di. The stones of clay in this verse are the stones described in the next, and the description is part of the purpose.",
+            "bn": "ফেরেশতাদের বাক্য এ আয়াতে শেষ হয় না, গড়িয়ে যায় ৫১:৩৪-এ: মুসাওয়ামাতান ইনদা রাব্বিকা লিলমুসরিফীন, সীমালঙ্ঘনকারীদের জন্য আপনার রবের কাছে চিহ্নিত। ইবন কাসীর আর সা'দী দুটি আয়াতকে এক সঙ্গে উদ্ধৃত করে তারপর ব্যাখ্যায় যান। এখানে পড়া প্রতিটি তাফসীর মুসাওয়ামাহর একই অর্থ করে: মু'আল্লামাহ, চিহ্ন দেওয়া। তাবারী, কুরতুবী, বাগাভী, ইবন কাসীর, সা'দী সবাই। এ আয়াতের মাটির পাথর আর পরের আয়াতের বর্ণিত পাথর একই। চিহ্নের কথাটাও তাই উদ্দেশ্যেরই অংশ।"
+          },
+          {
+            "en": "What the mark was, they describe differently. At-Tabari carries a report, with his chain, from Ibn Abbas (RA): sealed stones, a white stone with a black spot or a black one with a white spot. Ibn Kathir says each stone bore the name of the one it was for, written with Allah, and as-Sa'di that each carried its owner's mark. Al-Qurtubi lists five views under qila: streaked black and white, or black and red; known as stones of punishment; bearing the name of whoever it would destroy; or marked like seals.",
+            "bn": "চিহ্নটা কেমন ছিল, তা তাঁরা বর্ণনা করেন ভিন্ন ভিন্নভাবে। তাবারী নিজের সনদে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন: সিলমোহর দেওয়া পাথর। সাদা পাথরে কালো ফোঁটা, অথবা কালো পাথরে সাদা ফোঁটা। ইবন কাসীর বলেন, প্রতিটি পাথরে লেখা ছিল যার জন্য সেটা, তার নাম, আর তা লেখা ছিল আল্লাহর কাছে। সা'দী বলেন, প্রতিটি পাথরে ছিল তার মালিকের চিহ্ন। কুরতুবী কীলা দিয়ে পাঁচটি মত সাজান: সাদা-কালো ডোরা, অথবা কালো-লাল ডোরা; শাস্তির পাথর বলে চেনা; যাকে ধ্বংস করবে তার নাম লেখা; অথবা সিলমোহরের মতো দাগ।"
+          },
+          {
+            "en": "Al-Qurtubi adds that all of this had passed in his comment on Surah Hud, and does not choose among the views; nor does this article. On lil-musrifin, at-Tabari's report from Ibn Abbas (RA) reads those who overstep the bounds of Allah and disbelieve in Him, from Lut's people. Al-Baghawi reports Ibn Abbas (RA): for the mushrikin, followed by the words, and shirk is the most excessive of sins and the gravest. As-Sa'di says: because they were excessive and overstepped the bound.",
+            "bn": "কুরতুবী যোগ করেন, এসবই সূরা হূদের ব্যাখ্যায় আগে এসে গেছে। মতগুলোর কোনোটা তিনি বেছে নেন না, এ লেখাও নেবে না। এবার লিলমুসরিফীন। ইবন আব্বাস (রাঃ) থেকে তাবারীর বর্ণনায় এর অর্থ লূতের কওমের সেইসব লোক, যারা আল্লাহর সীমা লঙ্ঘন করেছে আর তাঁকে অস্বীকার করেছে। বাগাভী ইবন আব্বাস (রাঃ)-এর কথা আনেন: মুশরিকদের জন্য। তার পরেই আছে: আর শিরক গুনাহগুলোর মধ্যে সবচেয়ে সীমাছাড়া, সবচেয়ে গুরুতর। সা'দী বলেন: কারণ তারা বাড়াবাড়ি করেছিল, সীমা ছাড়িয়ে গিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held With Your Lord",
+          "bn": "আপনার রবের কাছে রাখা"
+        },
+        "p": [
+          {
+            "en": "'Inda rabbika, with your Lord: the angels do not say the stones were marked by them. Al-Qurtubi glosses the phrase as with Allah, wa qad a'addaha li-rajmi man qada bi-rajmihi, who had prepared them for the stoning of whomever He had decreed it for. In at-Tabari's report from Ibn Abbas (RA) the address is kept personal: that is their marking with your Lord, O Ibrahim. The angels carry the errand, and the decree and the marking stay with Him who sent them.",
+            "bn": "ইনদা রাব্বিকা, আপনার রবের কাছে। ফেরেশতারা বলেন না যে পাথরগুলো তাঁরা চিহ্নিত করেছেন। কুরতুবী কথাটার ব্যাখ্যা দেন: আল্লাহর কাছে, ওয়া কাদ আ'আদ্দাহা লিরাজমি মান কাদা বিরাজমিহি। যার উপর পাথর বর্ষণের ফয়সালা তিনি করেছিলেন, তার জন্যই তিনি পাথরগুলো প্রস্তুত রেখেছিলেন। ইবন আব্বাস (রাঃ) থেকে তাবারীর বর্ণনায় সম্বোধনটা ব্যক্তিগতই থাকে: হে ইবরাহীম, আপনার রবের কাছে এটাই সেগুলোর চিহ্ন। ফেরেশতারা শুধু দায়িত্ব বহন করেন। ফয়সালা আর চিহ্ন, দুটোই থাকে যিনি পাঠিয়েছেন তাঁর কাছে।"
+          },
+          {
+            "en": "Ibn Kathir follows his gloss on the names directly with 29:32: Ibrahim (AS) said that Lut was in the town, and the messengers answered that they knew better who was there and would save him and his family, except his wife. Set beside stones that each bore a name, the quotation reads as a statement of aim. The verses that follow here say the same in adh-Dhariyat's own words: in 51:35 and 51:36 the believers were brought out, and only one house of Muslims was found.",
+            "bn": "নামের ব্যাখ্যার পরপরই ইবন কাসীর ২৯:৩২ উদ্ধৃত করেন। ইবরাহীম (আঃ) বললেন, জনপদে তো লূত আছেন। দূতেরা জবাব দিলেন, সেখানে কে আছে তা তাঁরা ভালো জানেন। লূত আর তাঁর পরিবারকে তাঁরা বাঁচাবেন, তাঁর স্ত্রী ছাড়া। যে পাথরের প্রতিটিতে একেকটা নাম, তার পাশে রাখলে উদ্ধৃতিটা লক্ষ্য স্থির থাকার কথাই বলে। সূরা যারিয়াতের পরের আয়াতগুলোও নিজের ভাষায় একই কথা বলে: ৫১:৩৫ ও ৫১:৩৬-এ মুমিনদের বের করে আনা হয়, আর সেখানে মুসলিমদের একটিমাত্র ঘর পাওয়া যায়।"
+          },
+          {
+            "en": "Two commentaries carry a further detail. Ma'arif al-Qur'an says some scholars held that if a man ran in any direction, the stone bearing his name pursued him; al-Qurtubi, that the stones followed their travellers and stragglers until none was left to bring the news. Neither gives a chain, so it stands here as their narration. Ma'arif also sees no contradiction with the verses on the land turned over, and suggests, as a probability only, that the stoning came first.",
+            "bn": "দুটি তাফসীর আরও একটি খুঁটিনাটি বর্ণনা করে। মাআরিফুল কুরআন বলে, কিছু আলেমের মতে কেউ যেদিকেই দৌড়াত, তার নাম লেখা পাথর তার পিছু নিত। কুরতুবী বলেন, পাথরগুলো তাদের মুসাফির আর দলছুট লোকদেরও পিছু নিয়েছিল, শেষে খবর দেওয়ার মতোও কেউ বাকি থাকেনি। কেউই এর সনদ দেন না, তাই এখানে এটা তাঁদের বর্ণনা হিসেবেই রইল। জনপদ উল্টে দেওয়ার কথা যেসব আয়াতে আছে, মাআরিফ তার সঙ্গে কোনো বিরোধ দেখে না। তার ধারণা, পাথর বর্ষণ আগে হয়েছিল, তবে কথাটা কেবল সম্ভাবনা হিসেবেই বলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Stone in Our Hands",
+          "bn": "আমাদের হাতে কোনো পাথর নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse and the next attaches a hadith to either, so no hadith is quoted here, and none records an occasion of revelation. The verse is read on its own words, on the sentence it belongs to, and on what the commentators say about those words. Where they narrate more than the verse says, as with the pursuing stones, that is marked as their narration and not the verse's own statement.",
+            "bn": "এ আয়াত আর পরের আয়াতের জন্য যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই কোনো আয়াতের সঙ্গে হাদিস যুক্ত করেনি। তাই এখানে কোনো হাদিস উদ্ধৃত হচ্ছে না। নাযিলের কোনো উপলক্ষও তারা উল্লেখ করেনি। আয়াতটি পড়া হচ্ছে তার নিজের শব্দে, যে বাক্যের সে অংশ তার ভেতরে, আর সেই শব্দ নিয়ে তাফসীরকারেরা যা বলেছেন তার আলোকে। আয়াতের চেয়ে বেশি কিছু যেখানে তাঁরা বর্ণনা করেছেন, যেমন পিছু নেওয়া পাথর, সেখানে স্পষ্ট বলা হয়েছে যে এটা তাঁদের বর্ণনা, আয়াতের নিজের বক্তব্য নয়।"
+          },
+          {
+            "en": "This verse describes what the text describes: a past people, a punishment sent by Allah through angels, and stones marked with Him. It licenses nothing against any living person or community. It gives no person, crowd or state a warrant to identify anyone today with that people, to harm anyone, or to treat the angels' errand as if it had passed into human hands. The stones were marked 'inda rabbika, with your Lord. No list of names was ever handed to a reader.",
+            "bn": "আয়াতটি শুধু তা-ই বর্ণনা করে, যা পাঠ্যে আছে: এক অতীত জাতি, ফেরেশতাদের মাধ্যমে আল্লাহর পাঠানো শাস্তি, আর তাঁর কাছে চিহ্নিত পাথর। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কাউকে সেই জাতির সঙ্গে এক করে দেখা, কারও ক্ষতি করা, কিংবা ফেরেশতাদের দায়িত্ব যেন মানুষের হাতে চলে এসেছে এমন আচরণ করা, এর কোনোটার সনদ এ আয়াত কোনো ব্যক্তি, জনতা বা রাষ্ট্রকে দেয় না। পাথরগুলো চিহ্নিত ছিল ইনদা রাব্বিকা, আপনার রবের কাছে। নামের কোনো তালিকা কোনো পাঠকের হাতে দেওয়া হয়নি।"
+          },
+          {
+            "en": "The passage itself says what the place was left for. In 51:37: wa tarakna fiha ayatan lilladhina yakhafuna al-'adhaba al-alim, and We left in it a sign for those who fear the painful punishment. Ibn Kathir's abridgement calls it a lesson for the believers. The sign is addressed to those who fear, not to those who want someone else punished. A reader who comes away from these verses angry at other people has read them in the wrong direction.",
+            "bn": "জায়গাটা কেন রেখে দেওয়া হয়েছিল, পাঠ নিজেই তা বলে দেয়। ৫১:৩৭-এ: ওয়া তারাকনা ফীহা আয়াতাল লিল্লাযীনা ইয়াখাফূনাল আযাবাল আলীম, আর যারা যন্ত্রণাদায়ক শাস্তির ভয় রাখে, তাদের জন্য আমি সেখানে একটা নিদর্শন রেখে দিলাম। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ একে মুমিনদের জন্য শিক্ষা বলে। নিদর্শনটা তাদের জন্য, যারা ভয় করে। যারা অন্যের শাস্তি দেখতে চায়, তাদের জন্য নয়। এ আয়াতগুলো পড়ে যে পাঠক অন্য মানুষের উপর রাগ নিয়ে ওঠে, সে উল্টো দিক থেকে পড়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Clay We Are Made Of",
+          "bn": "যে মাটিতে আমাদের গড়া"
+        },
+        "p": [
+          {
+            "en": "One observation is this article's own; none of the commentaries read here makes it. Tin is the word the Qur'an uses for where human beings began. He created you from clay, says 6:2. He began the creation of man from clay, says 32:7, and 23:12 speaks of an extract of clay. In 7:12 Iblis refuses to bow because Adam was made from clay and he from fire. The same plain word stands in this verse, and here the clay comes down as stone.",
+            "bn": "একটা পর্যবেক্ষণ এই লেখার নিজের। এখানে পড়া কোনো তাফসীর এ কথা বলে না। তীন সেই শব্দ, যা দিয়ে কুরআন মানুষের শুরুর কথা বলে। ৬:২ বলে, তিনিই তোমাদের মাটি থেকে সৃষ্টি করেছেন। ৩২:৭ বলে, তিনি মানুষের সৃষ্টি শুরু করেছেন মাটি থেকে। ২৩:১২ বলে মাটির নির্যাসের কথা। ৭:১২-এ ইবলীস সিজদা করতে অস্বীকার করে, কারণ আদমকে বানানো হয়েছে মাটি থেকে আর তাকে আগুন থেকে। এ আয়াতেও সেই সাদামাটা শব্দটাই আছে। এখানে সেই মাটি নেমে আসছে পাথর হয়ে।"
+          },
+          {
+            "en": "A reader can hold that without forcing it. In 38:71 to 38:73 a being of clay is breathed into and the angels bow to it; the material that carried that honour could also carry a sentence. The difference was never the clay. As-Sa'di gives the reason the stones were marked: because they were excessive and overstepped the bound. The same clay can be a beginning or an ending, and what decides it is what a person does while there is still time.",
+            "bn": "কথাটাকে জোর করে টেনে লম্বা না করেও মনে রাখা যায়। ৩৮:৭১ থেকে ৩৮:৭৩-এ মাটির তৈরি সৃষ্টির ভেতর রূহ ফুঁকে দেওয়া হয়, আর ফেরেশতারা তাকে সিজদা করেন। যে মাটি সেই সম্মান বহন করেছিল, সেই মাটিই শাস্তির বাহনও হতে পারে। পার্থক্যটা কখনো মাটিতে ছিল না। পাথরগুলো কেন চিহ্নিত ছিল, সা'দী তার কারণ বলেন: তারা বাড়াবাড়ি করেছিল, সীমা ছাড়িয়ে গিয়েছিল। একই মাটি শুরুও হতে পারে, শেষও হতে পারে। কোনটা হবে, তা ঠিক হয় সময় থাকতে মানুষ কী করে তা দিয়ে।"
+          },
+          {
+            "en": "So the questions turn inward. The stones were marked before they fell; do I live as though Allah knows my deeds before they are weighed? What warning have I heard so often that I no longer hear it? When I read of a punishment, do I ask first what it says to me? And when I remember what I am made of, am I humbled by it? The verse is five words long. The answer to it is a life.",
+            "bn": "তাই প্রশ্নগুলো ঘুরে আসে নিজের দিকে। পাথরগুলো পড়ার আগেই চিহ্নিত ছিল। আমি কি এমনভাবে বাঁচি যেন আমার আমল ওজন হওয়ার আগেই আল্লাহ জানেন? কোন সতর্কবাণী এত বার শুনেছি যে এখন আর শুনতেই পাই না? কোনো শাস্তির কথা পড়লে আমি কি আগে জিজ্ঞেস করি, এটা আমাকে কী বলছে? আর আমি কী দিয়ে তৈরি, তা মনে পড়লে কি বিনয়ী হই? আয়াতটি মাত্র পাঁচ শব্দের। এর জবাব দিতে লাগে একটা গোটা জীবন।"
+          }
+        ]
+      }
+    ]
+  },
   "51:39": {
     "sections": [
       {

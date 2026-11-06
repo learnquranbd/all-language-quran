@@ -27469,6 +27469,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not read Allah's delay as absence or acquittal; use the time before your turn arrives to turn back to Him.",
     "lessonBn": "আল্লাহর দেরিকে অনুপস্থিতি বা রেহাই ভাববেন না। আপনার পালা আসার আগের সময়টুকু কাজে লাগিয়ে তাঁর দিকে ফিরে আসুন।"
+  },
+  "51:33": {
+    "reflectionEn": "Ibrahim has asked his guests what their errand is, and they have said only that they were sent to a criminal people. Now they say what for: to send upon them stones of clay. Five words, and the material is named. Clay is what the Qur'an elsewhere says the first human being was made from, and here it comes down as stone. The next verse adds that the stones were marked with your Lord, and the verses after it tell how the believers were brought out first. This is an account of a past people and a decision that was Allah's alone, not a verdict for anyone today. The question it leaves is mine. What warning have I heard so often that it no longer sounds like one?",
+    "reflectionBn": "ইবরাহীম (আঃ) মেহমানদের জিজ্ঞেস করেছেন, তাঁরা কী কাজে এসেছেন। তাঁরা শুধু বলেছেন, এক অপরাধী জাতির কাছে তাঁদের পাঠানো হয়েছে। এবার তাঁরা বলছেন কেন: তাদের উপর মাটির পাথর পাঠানোর জন্য। পাঁচটি শব্দ, আর উপাদানের নাম সোজাসুজি বলা আছে। কুরআন অন্য জায়গায় বলে, প্রথম মানুষকে বানানো হয়েছিল এই মাটি থেকেই। এখানে সেই মাটিই পাথর হয়ে নেমে আসছে। পরের আয়াত জানায়, পাথরগুলো আপনার রবের কাছে চিহ্নিত ছিল। তার পরের আয়াতগুলো বলে, মুমিনদের আগেই বের করে আনা হয়েছিল। এ এক অতীত জাতির কাহিনি, আর ফয়সালা ছিল একমাত্র আল্লাহর। আজ কারও উপর রায় চাপানোর সনদ এতে নেই। প্রশ্নটা তাই আমার নিজের: কোন সতর্কবাণী এত বার শুনেছি যে এখন আর সেটাকে সতর্কবাণী বলেই মনে হয় না?",
+    "pointsEn": [
+      "When I read of a punishment in the Qur'an, do I ask what it says to me before I ask what it says about others?",
+      "What warning have I heard so often that it no longer sounds like one, and what would taking it seriously look like this week?",
+      "The stones were marked with my Lord before they fell. Do I live as though my deeds are known to Him and recorded with Him?",
+      "The verse names the means in five plain words. Where have I added detail and drama to someone else's downfall that the facts themselves never gave?",
+      "The Qur'an reminds me that human beings were first made from clay. Does that memory make me humbler, or have I forgotten what I am made of?"
+    ],
+    "pointsBn": [
+      "কুরআনে কোনো শাস্তির কথা পড়লে আমি কি আগে জিজ্ঞেস করি এটা আমাকে কী বলছে, নাকি আগে খুঁজি এটা অন্যদের সম্পর্কে কী বলছে?",
+      "কোন সতর্কবাণী এত বার শুনেছি যে এখন আর সেটাকে সতর্কবাণী মনে হয় না? এ সপ্তাহে সেটাকে গুরুত্ব দিলে আমার কী বদলাতে হবে?",
+      "পাথরগুলো পড়ার আগেই আমার রবের কাছে চিহ্নিত ছিল। আমি কি এমনভাবে বাঁচি যেন আমার আমল তিনি জানেন আর তাঁর কাছে লেখা থাকে?",
+      "আয়াতটি মাত্র পাঁচটি সাদামাটা শব্দে উপায়টা জানিয়ে দেয়। অন্যের পতনের গল্পে আমি কোথায় এমন রং চড়িয়েছি, যা ঘটনায় আদৌ ছিল না?",
+      "কুরআন মনে করিয়ে দেয়, মানুষকে প্রথমে মাটি থেকে বানানো হয়েছিল। এ কথা কি আমাকে বিনয়ী করে, নাকি আমি ভুলে বসেছি আমি কী দিয়ে তৈরি?"
+    ],
+    "lessonEn": "Read the stones of clay as a warning to your own heart, never as a verdict on anyone living, and answer the warnings you have already heard.",
+    "lessonBn": "মাটির পাথরের কথা পড়ুন নিজের অন্তরের জন্য সতর্কবাণী হিসেবে, জীবিত কারও উপর রায় হিসেবে কখনো নয়, আর যে সতর্কবাণী আগেই শুনেছেন তার ডাকে সাড়া দিন।"
   }
 };
 
