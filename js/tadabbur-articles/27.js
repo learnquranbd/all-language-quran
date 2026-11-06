@@ -2747,6 +2747,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:80": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Clear Truth",
+          "bn": "সুস্পষ্ট সত্যের পরের কথা"
+        },
+        "p": [
+          {
+            "en": "Innaka la tusmi'u al-mawta wa la tusmi'u as-summa ad-du'a'a idha wallaw mudbirin: indeed, you cannot make the dead hear, nor make the deaf hear the call when they turn away, retreating. It comes straight after a command. In 27:79 the Prophet ﷺ is told to rely on Allah, for he is upon the clear truth. Ibn Kathir, in the abridged English, reads that command as: put your trust in Allah in all your affairs, and convey the Message of your Lord.",
+            "bn": "ইন্নাকা লা তুসমিউল মাওতা ওয়া লা তুসমিউস সুম্মাদ দুআআ ইযা ওয়াল্লাও মুদবিরীন: তুমি মৃতকে শোনাতে পারবে না, আর বধিরকেও ডাক শোনাতে পারবে না, যখন তারা পিঠ ফিরিয়ে চলে যায়। আয়াতটি এসেছে একটি আদেশের ঠিক পরে। ২৭:৭৯ আয়াতে নবী ﷺ-কে বলা হয়েছে আল্লাহর উপর ভরসা করতে, কারণ তিনি সুস্পষ্ট সত্যের উপর আছেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ আদেশের ব্যাখ্যা দেয় এভাবে: সব কাজে আল্লাহর উপর ভরসা রাখো, আর তোমার রবের বার্তা পৌঁছে দাও।"
+          },
+          {
+            "en": "He then says why that reassurance was needed. You follow manifest truth, he writes, though you are opposed by those who are doomed: the Word of your Lord has been justified against them, so that they will not believe even if all the signs are brought to them. Then he quotes this verse. Read in that order, it explains why trust had to come first: the truth is clear, and still some will not hear it.",
+            "bn": "এই আশ্বাস কেন দরকার ছিল, তা-ও তিনি বলেন। তাঁর ভাষায়, তুমি সুস্পষ্ট সত্যের অনুসারী, যদিও ধ্বংসের পথে থাকা লোকেরা তোমার বিরোধিতা করে। তোমার রবের বাণী তাদের ব্যাপারে সত্য হয়ে গেছে, তাই সব নিদর্শন এনে দিলেও তারা ঈমান আনবে না। এরপরই তিনি এ আয়াত উদ্ধৃত করেন। এই ক্রমে পড়লে বোঝা যায়, ভরসার আদেশ কেন আগে এল। সত্য স্পষ্ট, তবু কেউ কেউ তা শুনবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who the Dead Are",
+          "bn": "এখানে মৃত কারা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi answers directly: the dead means the disbelievers, because they abandoned reflection, so that they are like the dead, with no feeling and no understanding. Al-Baghawi says the same in two words, ya'ni al-kuffar, meaning the disbelievers. At-Tabari explains it from the inside. You, Muhammad, are not able to make the truth understood by one whose heart Allah has sealed and so caused to die, for Allah has sealed it so that he does not understand it. The Muyassar keeps at-Tabari's wording almost word for word.",
+            "bn": "কুরতুবী সরাসরি উত্তর দেন: মৃত মানে কাফিররা, কারণ তারা চিন্তা-ভাবনা ছেড়ে দিয়েছে। ফলে তারা মৃতের মতো, যার অনুভূতি নেই, বোধও নেই। বাগাভী একই কথা বলেন দুই শব্দে: ইয়া'নিল কুফফার, অর্থাৎ কাফিররা। তাবারী বিষয়টা ব্যাখ্যা করেন ভেতর থেকে। হে মুহাম্মাদ, আল্লাহ যার অন্তরে মোহর মেরে তাকে মৃত করে দিয়েছেন, তাকে তুমি সত্য বোঝাতে পারবে না। কারণ আল্লাহ তার অন্তরে মোহর মেরেছেন যাতে সে তা না বোঝে। মুয়াসসার প্রায় হুবহু তাবারীর ভাষাই রেখেছে।"
+          },
+          {
+            "en": "The death here is a state of the heart. Ibn Kathir names its two parts in one line: over their hearts is a covering, and in their ears is the heaviness of disbelief, and that, he says, is why the verse speaks of the dead and the deaf together. Al-Qurtubi then records a second view, introduced with qila, it has been said: that the verse is about those of whom it was known that they would not believe. He sets it down without choosing between the two.",
+            "bn": "এখানে মৃত্যু অন্তরের অবস্থা। ইবন কাসীর এক লাইনেই এর দুটি দিক বলে দেন: তাদের অন্তরের উপর পর্দা, আর কানে কুফরের ভার। তাঁর মতে এ কারণেই আয়াতে মৃত আর বধিরের কথা একসঙ্গে এসেছে। কুরতুবী এরপর দ্বিতীয় একটি মত উল্লেখ করেন 'কীলা', অর্থাৎ 'বলা হয়েছে' কথাটি দিয়ে। সে মতে আয়াতটি তাদের ব্যাপারে, যাদের সম্পর্কে জানা ছিল যে তারা ঈমান আনবে না। দুই মতের কোনোটিকে তিনি বেছে নেন না, শুধু লিখে রাখেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an says these people had lost their sense of direction, and counts three examples across this verse and the next. They were like dead bodies in the matter of accepting truth, unable to take anyone's advice to their advantage; like a deaf man who does not wish to hear and turns his back when someone advises him; and like the blind, who cannot see even when shown the path. The third belongs to 27:81.",
+            "bn": "মাআরিফুল কুরআন বলে, এরা দিশা হারিয়েছে। এ আয়াত আর পরের আয়াত মিলিয়ে সে তিনটি উদাহরণ গোনে। সত্য গ্রহণের বেলায় তারা মৃতদেহের মতো, কারও উপদেশ নিজের কাজে লাগাতে পারে না। তারা সেই বধিরের মতো, যে কিছু শুনতেই চায় না, কেউ উপদেশ দিতে এলে পিঠ ফিরিয়ে চলে যায়। আর তারা অন্ধের মতো, পথ দেখিয়ে দিলেও যে দেখতে পায় না। তৃতীয় উদাহরণটি ২৭:৮১ আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sound Without Benefit",
+          "bn": "শব্দ পৌঁছায়, উপকার নয়"
+        },
+        "p": [
+          {
+            "en": "What exactly is denied? Ibn Kathir's gloss is careful: la tusmi'uhum shay'an yanfa'uhum, you cannot make them hear anything that benefits them. The words of a call can reach a person's ears; what the verse denies is the hearing that does him good. At-Tabari makes the same point through his choice of verb. Where the verse says tusmi', make hear, he writes tufhim, make understand. The failure he describes is not one of sound reaching the ear but of meaning reaching the heart.",
+            "bn": "ঠিক কী অস্বীকার করা হচ্ছে? ইবন কাসীরের ব্যাখ্যা এখানে সূক্ষ্ম: লা তুসমিউহুম শাইআন ইয়ানফাউহুম, তুমি তাদের এমন কিছু শোনাতে পারবে না যা তাদের উপকারে আসে। ডাকের শব্দ মানুষের কানে পৌঁছাতে পারে। আয়াত যা অস্বীকার করে, তা হলো এমন শোনা যা তার কল্যাণ করে। তাবারী একই কথা বলেন ক্রিয়া বদলে দিয়ে। আয়াতে আছে তুসমিউ, শোনানো। তিনি লেখেন তুফহিমু, বোঝানো। তাঁর বর্ণনায় ঘাটতিটা কানে আওয়াজ পৌঁছানোয় নয়, অন্তরে অর্থ পৌঁছানোয়।"
+          },
+          {
+            "en": "At-Tabari then lists what turning away looks like. They do not listen to it, because the religion of disbelief has overcome their hearts. They do not incline towards the truth, do not reflect on it, and do not fall silent for the one who speaks it. Instead they turn from it, and reject both speaking of it and listening to it. Nothing on that list is about the ears failing. Each item is something a person chooses to do or not to do.",
+            "bn": "মুখ ফিরিয়ে নেওয়া দেখতে কেমন, তাবারী তার একটি তালিকা দেন। তারা তা শোনে না, কারণ কুফরের দ্বীন তাদের অন্তরকে কাবু করে ফেলেছে। তারা সত্যের দিকে কান পাতে না, তা নিয়ে ভাবে না, যে সত্য বলে তার কথায় চুপ করে মন দেয় না। বরং তারা মুখ ফিরিয়ে নেয়, আর সত্যের কথা বলা ও শোনা দুটোই প্রত্যাখ্যান করে। এ তালিকার কোনোটাই কানের অক্ষমতা নয়। প্রতিটি এমন কাজ, যা মানুষ করে বা করে না।"
+          },
+          {
+            "en": "The next verse names the other side. In 27:81, you will only make hear those who believe in Our signs, and so they submit. Ibn Kathir explains them as those who have hearing and insight and will respond: those whose hearing and sight are of benefit to their hearts, and who are humble towards Allah and towards the Message that reaches them through the Messengers. Benefit is again the measure. The ear is the same; what differs is whether the heart behind it is open.",
+            "bn": "পরের আয়াত অন্য দিকটার কথা বলে। ২৭:৮১ আয়াতে আছে, তুমি কেবল তাদেরই শোনাতে পারবে, যারা আমার আয়াতে ঈমান আনে, ফলে তারা আত্মসমর্পণ করে। ইবন কাসীর তাদের পরিচয় দেন এভাবে: যাদের শোনার ও দেখার শক্তি আছে, তারাই সাড়া দেবে। তাদের কান আর চোখ অন্তরের উপকারে আসে, আর তারা আল্লাহর সামনে এবং রাসূলদের মুখে আসা বার্তার সামনে বিনয়ী। মাপকাঠি আবারও উপকার। কান একই, পার্থক্য তার পেছনের অন্তর খোলা কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deaf, and Walking Away",
+          "bn": "বধির, তার উপর পিঠ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "The second half of the verse adds a condition: idha wallaw mudbirin, when they turn away, retreating. Al-Baghawi glosses mudbirin as mu'ridin, turning aside, and then raises the obvious objection himself. If they are deaf and do not hear, what difference does it make whether they turn away or not? A deaf man facing the speaker hears no more than a deaf man walking off. So why does the verse mention the turning at all?",
+            "bn": "আয়াতের দ্বিতীয় অংশে একটি শর্ত যোগ হয়েছে: ইযা ওয়াল্লাও মুদবিরীন, যখন তারা পিঠ ফিরিয়ে চলে যায়। বাগাভী মুদবিরীন শব্দের ব্যাখ্যায় বলেন মু'রিদীন, মুখ ফিরিয়ে নেওয়া লোক। তারপর স্বাভাবিক আপত্তিটা তিনি নিজেই তোলেন। তারা যদি বধিরই হয়, কিছুই না শোনে, তাহলে পিঠ ফেরাক বা না ফেরাক, তাতে কী আসে যায়? বক্তার দিকে মুখ করে থাকা বধির তো হেঁটে চলে যাওয়া বধিরের চেয়ে বেশি শোনে না। তাহলে আয়াতে মুখ ফেরানোর কথা আসছে কেন?"
+          },
+          {
+            "en": "He gives two answers. The first: it is said by way of emphasis and intensification. The second, introduced with qila, it has been said: a deaf man who is present may hear when the voice is raised and understand through gesture, but once he has turned away he neither hears nor understands. He then adds Qatada's comparison: the deaf man, when he has turned his back and you call to him, does not hear, and in the same way the disbeliever does not hear what he is called to of faith.",
+            "bn": "তিনি দুটি উত্তর দেন। প্রথমটি: কথাটা এসেছে জোর দেওয়া ও মাত্রা বাড়ানোর জন্য। দ্বিতীয়টি তিনি আনেন 'কীলা', অর্থাৎ 'বলা হয়েছে' দিয়ে। বধির লোক সামনে থাকলে গলা চড়িয়ে বললে হয়তো শুনতে পায়, ইশারায় বুঝতেও পারে। কিন্তু মুখ ফিরিয়ে নিলে সে শোনেও না, বোঝেও না। এরপর তিনি কাতাদার তুলনাটি আনেন: বধির যখন পিঠ ফিরিয়ে চলে যায়, তখন তাকে ডাকলে সে শোনে না। কাফিরও তেমনি, তাকে যে ঈমানের দিকে ডাকা হয়, তা সে শোনে না।"
+          },
+          {
+            "en": "As-Sa'di reads the condition the first way. You cannot make them hear when you call and summon them, and especially when they turn away retreating, for that is more complete in their not being made to hear. The Muyassar puts it as a question: the deaf man does not hear the call while facing you, so how could he hear it once he has turned and walked off? Al-Baghawi ends with the sense of the whole verse: so extreme is their turning away that they are like the dead, beyond being made to hear, and the deaf, who do not hear.",
+            "bn": "সা'দী শর্তটিকে প্রথম উত্তরের মতো করে পড়েন। তুমি যখন তাদের ডাকো, আহ্বান করো, তখন তাদের শোনাতে পারো না। বিশেষ করে যখন তারা পিঠ ফিরিয়ে চলে যায়, কারণ তখন না শোনানোটা আরও পূর্ণ হয়। মুয়াসসার কথাটা রাখে প্রশ্নের আকারে: বধির তো সামনে থাকতেই ডাক শোনে না, তাহলে মুখ ফিরিয়ে চলে গেলে কীভাবে শুনবে? বাগাভী তাঁর আলোচনা শেষ করেন গোটা আয়াতের অর্থ বলে। মুখ ফেরানোয় তারা এতটাই বাড়াবাড়ি করে যে তারা সেই মৃতের মতো, যাকে শোনানোর কোনো উপায় নেই, আর সেই বধিরের মতো, যে শোনে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verb and Its Subject",
+          "bn": "ক্রিয়া আর তার কর্তা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi both record two readings of the second clause. Al-Qurtubi lists Ibn Muhaysin, Humayd, Ibn Kathir, Ibn Abi Ishaq, and 'Abbas from Abu 'Amr as reading wa la yasma'u, with as-summu in the nominative as its subject: and the deaf do not hear the call. The rest read tusmi'u, from asma'tu, to make hear, with as-summa in the accusative. Al-Baghawi names Ibn Kathir for the first reading, the reciter of that name, and adds that the same holds in Surat ar-Rum.",
+            "bn": "দ্বিতীয় বাক্যাংশের দুটি কিরাআত কুরতুবী ও বাগাভী দুজনেই উল্লেখ করেন। কুরতুবী জানান, ইবন মুহাইসিন, হুমাইদ, ইবন কাসীর, ইবন আবী ইসহাক এবং আবূ আমর থেকে আব্বাস পড়েছেন ওয়া লা ইয়াসমাউ, আর আস-সুম্মু পেশযুক্ত, কর্তা হিসেবে। তখন অর্থ দাঁড়ায়: আর বধিরেরা ডাক শোনে না। বাকিরা পড়েছেন তুসমিউ, যার মূল আসমা'তু, অর্থাৎ শোনানো, আর আস-সুম্মা যবরযুক্ত, কর্ম হিসেবে। বাগাভী প্রথম কিরাআতের জন্য ইবন কাসীরের নাম নেন। ইনি ওই নামের কারী, তাফসীরকার নন। বাগাভী যোগ করেন, সূরা আর-রূমেও একই কথা।"
+          },
+          {
+            "en": "The difference is small on the page and real in the sentence. In the majority reading the verse keeps speaking to the Prophet ﷺ: you do not make the deaf hear. In the other, the deaf themselves become the subject: the deaf do not hear. Both arrive at the same fact. One frames it as the limit of the caller's reach, the other as the state of those called. Neither commentator draws a lesson from the variation; they set the two readings side by side and move on.",
+            "bn": "লেখায় পার্থক্যটা ছোট, বাক্যে কিন্তু আসল। অধিকাংশের কিরাআতে আয়াতটি নবী ﷺ-কে সম্বোধন করেই চলে: তুমি বধিরকে শোনাতে পারো না। অন্য কিরাআতে বধিরেরাই বাক্যের কর্তা: বধিরেরা শোনে না। দুটোই একই সত্যে পৌঁছায়। একটি একে দেখায় আহ্বানকারীর নাগালের সীমা হিসেবে, অন্যটি যাদের ডাকা হচ্ছে তাদের অবস্থা হিসেবে। এ ভিন্নতা থেকে দুই তাফসীরকারের কেউই আলাদা কোনো শিক্ষা টানেন না। তাঁরা দুই কিরাআত পাশাপাশি রেখে সামনে এগিয়ে যান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Grief Set Down",
+          "bn": "যে দুঃখ নামিয়ে রাখা হলো"
+        },
+        "p": [
+          {
+            "en": "Why say this to the Prophet ﷺ at all? Ma'arif al-Qur'an begins with his heart. Out of love and affection for all human beings, it says, he wanted to save them all from the Fire by their accepting Allah's message, and it hurt him greatly when someone did not. He felt as though someone's children were walking towards a fire because they would not heed their parents' advice. So, it says, the Qur'an consoles him in many places and in different words.",
+            "bn": "নবী ﷺ-কে এ কথা বলার দরকার কেন হলো? মাআরিফুল কুরআন শুরু করে তাঁর অন্তর থেকে। সব মানুষের প্রতি তাঁর ভালোবাসা আর মমতার দাবি ছিল, আল্লাহর বার্তা কবুল করিয়ে প্রত্যেককে জাহান্নামের আগুন থেকে বাঁচানো। কেউ কবুল না করলে তিনি খুব কষ্ট পেতেন। তাঁর মনে হতো, কারও সন্তানেরা মা-বাবার নসিহত না মেনে আগুনের দিকে হেঁটে যাচ্ছে। মাআরিফুল কুরআন বলে, এ কারণেই কুরআন বহু জায়গায় ভিন্ন ভিন্ন ভাষায় তাঁকে সান্ত্বনা দিয়েছে।"
+          },
+          {
+            "en": "An earlier consolation came in 27:70: do not grieve over them, and do not be distressed by what they plot. Here, Ma'arif says, the comfort takes a slightly different form. His task was only to convey the message of truth, and he had done it admirably. If someone did not accept it, that was neither his fault nor a shortcoming in him, so he need not worry or lose heart. The fault was theirs: they had lost their way. The weight of the answer is lifted off the caller.",
+            "bn": "এমন সান্ত্বনা আগেও এসেছে, ২৭:৭০ আয়াতে: তাদের জন্য দুঃখ কোরো না, আর তাদের চক্রান্তে মন ছোট কোরো না। মাআরিফুল কুরআন বলে, এখানে সান্ত্বনাটা এসেছে একটু ভিন্ন রূপে। তাঁর কাজ ছিল কেবল সত্যের বার্তা পৌঁছে দেওয়া, আর সে কাজ তিনি চমৎকারভাবে করেছেন। কেউ তা কবুল না করলে সেটা তাঁর দোষ নয়, তাঁর কোনো ঘাটতিও নয়। তাই তাঁর দুশ্চিন্তা বা হতাশার কারণ নেই। দোষ তাদের, তারাই দিশা হারিয়েছে। সাড়ার ভার এভাবে আহ্বানকারীর কাঁধ থেকে নামিয়ে নেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words at the Badr Well",
+          "bn": "বদরের কূপে সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "These same words, which also open 30:52 with a prefixed fa, sit at the centre of a dispute over whether the dead hear. None of the commentaries cited here raises it under this verse or attaches a hadith to it, and the reports below concern the meaning of the words, not their revelation. Sahih al-Bukhari (3976) gives Abu Talha's account: on the third day after Badr, the Prophet ﷺ stood at the well where the leaders of Quraysh had been thrown, and called them by their names and their fathers' names.",
+            "bn": "এই কথাগুলো দিয়েই, শুরুতে একটি ফা যোগ করে, ৩০:৫২ আয়াতও শুরু হয়েছে। মৃতেরা শোনে কি না, এ নিয়ে একটি মতভেদের কেন্দ্রে আছে এই কথাগুলো। এখানে উদ্ধৃত কোনো তাফসীর এ আয়াতের অধীনে প্রসঙ্গটি তোলে না, আয়াতের সঙ্গে কোনো হাদীসও জোড়ে না। নিচের বর্ণনাগুলো আয়াতের নাযিলের প্রেক্ষাপট নয়, এর শব্দের অর্থ নিয়ে। সহীহ বুখারীতে (৩৯৭৬) আবূ তালহা (রাঃ)-র বর্ণনা আছে। বদরের তৃতীয় দিনে নবী ﷺ সেই কূপের কিনারে দাঁড়ালেন, যেখানে কুরাইশের নেতাদের লাশ ফেলা হয়েছিল, আর তাদের নাম ও বাপের নাম ধরে ডাকতে লাগলেন।"
+          },
+          {
+            "en": "He said, \"Would it have pleased you if you had obeyed Allah and His Apostle? We have found true what our Lord promised us. Have you too found true what your Lord promised you?\" 'Umar said, \"O Allah's Messenger! You are speaking to bodies that have no souls!\" He replied, \"By Him in Whose Hand Muhammad's soul is, you do not hear what I say better than they do.\" Qatada, in the same report, explains: Allah brought them to life to let them hear him, by way of reprimand, belittling and retribution, and to cause them remorse and regret.",
+            "bn": "তিনি বললেন, \"তোমরা যদি আল্লাহ ও তাঁর রাসূলের আনুগত্য করতে, তা কি তোমাদের খুশি করত? আমাদের রব আমাদের যে ওয়াদা দিয়েছিলেন, আমরা তা সত্য পেয়েছি। তোমাদের রব তোমাদের যে ওয়াদা দিয়েছিলেন, তোমরা কি তা সত্য পেয়েছ?\" উমর (রাঃ) বললেন, \"হে আল্লাহর রাসূল, আপনি এমন দেহের সঙ্গে কথা বলছেন, যাদের রূহ নেই!\" তিনি বললেন, \"যাঁর হাতে মুহাম্মাদের প্রাণ, তাঁর কসম, আমি যা বলছি তা তোমরা তাদের চেয়ে বেশি শুনছ না।\" একই বর্ণনায় কাতাদা ব্যাখ্যা দেন: আল্লাহ তাদের জীবিত করেছিলেন, যাতে তাঁর কথা তাদের শোনান, ভর্ৎসনা, অপমান ও শাস্তি হিসেবে, আর যাতে তারা আফসোস ও অনুতাপে ভোগে।"
+          },
+          {
+            "en": "Ibn 'Umar's report, in Sahih al-Bukhari (3980), is shorter, and it carries the objection with it. The Prophet ﷺ stood at the well of Badr and said, \"Have you found true what your lord promised you?\" Then he said, \"They now hear what I say.\" This was mentioned to Aishah, and she said, \"But the Prophet said, 'Now they know very well that what I used to tell them was the truth.'\" Then she recited, \"You cannot make the dead hear\", to the end of the verse.",
+            "bn": "সহীহ বুখারীতে (৩৯৮০) ইবন উমর (রাঃ)-র বর্ণনাটি ছোট, আর আপত্তিটাও এর সঙ্গেই এসেছে। নবী ﷺ বদরের কূপের পাশে দাঁড়িয়ে বললেন, \"তোমাদের রব তোমাদের যে ওয়াদা দিয়েছিলেন, তোমরা কি তা সত্য পেয়েছ?\" তারপর বললেন, \"আমি যা বলছি, তারা এখন তা শুনছে।\" কথাটি আয়েশা (রাঃ)-র কাছে উল্লেখ করা হলে তিনি বললেন, নবী ﷺ আসলে বলেছিলেন, \"তারা এখন ভালো করেই জানে, আমি তাদের যা বলতাম, তা-ই সত্য।\" তারপর তিনি পড়লেন, \"ইন্নাকা লা তুসমিউল মাওতা\", এবং আয়াতটি শেষ পর্যন্ত পড়লেন।"
+          },
+          {
+            "en": "So the sources hold two readings side by side. Aishah took the verse to rule out the hearing and read the Prophet's ﷺ words as knowing; the reports of Ibn 'Umar and Abu Talha keep them as hearing, which Qatada explains as Allah giving the slain life. Ibn Kathir, on 30:52, notes that Aishah cited the verse against Ibn 'Umar's report, and writes that by His power Allah makes the dead hear the voices of the living if He wills. This article leaves the question there.",
+            "bn": "উৎসগুলোতে তাই দুই রকম বোঝাপড়া পাশাপাশি আছে। আয়েশা (রাঃ) আয়াতটিকে শোনার বিপক্ষে প্রমাণ হিসেবে নিয়েছেন, আর নবী ﷺ-এর কথাকে বুঝেছেন জানা অর্থে। ইবন উমর (রাঃ) আর আবূ তালহা (রাঃ)-র বর্ণনায় কথাটি শোনা অর্থেই আছে, আর কাতাদা একে ব্যাখ্যা করেন নিহতদের আল্লাহর জীবিত করা হিসেবে। ৩০:৫২ আয়াতের আলোচনায় ইবন কাসীর উল্লেখ করেন, আয়েশা (রাঃ) এ আয়াত দিয়ে ইবন উমর (রাঃ)-র বর্ণনার বিরুদ্ধে দলিল দিয়েছিলেন। তিনি নিজে লেখেন, আল্লাহ চাইলে নিজ কুদরতে মৃতদের জীবিতদের আওয়াজ শোনান। এ লেখা প্রশ্নটা সেখানেই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No One Is Written Off",
+          "bn": "কাউকে বাতিল ঘোষণা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: people who turned their backs on the Prophet ﷺ when he called them, whom the commentators here identify as the disbelievers who opposed him. It licenses nothing against any living person or community. It lets no one call another person dead of heart, or stop calling him. Al-Qurtubi's second view ties the verse to those of whom it was known they would not believe, and no reader holds that knowledge about anyone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে: সেই লোকেরা, যারা নবী ﷺ ডাকলে পিঠ ফিরিয়ে নিয়েছিল। এখানকার তাফসীরকারেরা তাদের চিহ্নিত করেন তাঁর বিরোধী কাফির হিসেবে। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কাউকে মৃত-অন্তর বলে ঘোষণা করার বা তাকে ডাকা বন্ধ করার সনদ এতে নেই। কুরতুবীর দ্বিতীয় মত আয়াতটিকে তাদের সঙ্গে জোড়ে, যাদের ব্যাপারে জানা ছিল যে তারা ঈমান আনবে না। কারও ব্যাপারে এমন জ্ঞান কোনো পাঠকের হাতে নেই।"
+          },
+          {
+            "en": "What the verse leaves the reader is a question about his own ears. Ibn Kathir's measure was benefit, at-Tabari's list was made of choices, and al-Baghawi's deaf man stops hearing once he walks away. The caller is told to call and leave the outcome with Allah. The listener is shown where deafness begins: at the turning of the back. The way back to hearing is to stop retreating, turn round, and face the one who calls.",
+            "bn": "আয়াতটি পাঠকের হাতে তুলে দেয় তার নিজের কান নিয়ে একটি প্রশ্ন। ইবন কাসীরের মাপকাঠি ছিল উপকার। তাবারীর তালিকা ছিল নিজের বেছে নেওয়া কাজের। আর বাগাভীর বধির মুখ ফিরিয়ে চলে গেলেই শোনা বন্ধ করে দেয়। আহ্বানকারীকে বলা হয় ডেকে যেতে, ফলাফল আল্লাহর হাতে ছেড়ে দিতে। আর শ্রোতাকে দেখানো হয়, বধিরতা শুরু হয় কোথা থেকে: পিঠ ফেরানোর মুহূর্ত থেকে। শোনার পথে ফেরা তাই পিছু হটা থামিয়ে, ঘুরে দাঁড়িয়ে, যে ডাকছে তার মুখোমুখি হওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "27:82": {
     "sections": [
       {

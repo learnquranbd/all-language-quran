@@ -24709,6 +24709,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You can plant, but only Allah makes the tree grow; let every garden you see turn your worship to Him alone, with no equal set beside Him.",
     "lessonBn": "চারা আপনি লাগাতে পারেন, কিন্তু গাছ গজান কেবল আল্লাহ। প্রতিটি বাগান যেন আপনার ইবাদত তাঁর দিকেই ফেরায়, তাঁর পাশে কাউকে সমান না দাঁড় করিয়ে।"
+  },
+  "27:80": {
+    "reflectionEn": "Right after telling His Messenger to rely on Him, Allah names the limit of his work: you cannot make the dead hear, nor make the deaf hear the call once they have turned their backs and walked away. These dead are not in graves. They are living people whose hearts have closed to the truth, and a deaf man walking off hears even less than one who faces you. The verse lifts a weight from the caller: his task was to call, and ears that stay shut are not his failure. It also turns to the listener. When the truth is spoken to me, am I facing it, or already walking away? Is there a call I no longer hear because I stopped turning toward it?",
+    "reflectionBn": "রাসূলকে আল্লাহর উপর ভরসা করতে বলার ঠিক পরেই আল্লাহ তাঁর কাজের সীমাটা জানিয়ে দেন: তুমি মৃতকে শোনাতে পারবে না, আর বধির যখন পিঠ ফিরিয়ে চলে যায়, তখন তাকেও ডাক শোনাতে পারবে না। এই মৃতেরা কবরে শুয়ে নেই। তারা জীবিত মানুষ, যাদের অন্তর সত্যের দিকে বন্ধ হয়ে গেছে। আর যে বধির মুখ ঘুরিয়ে হেঁটে চলে যায়, সে সামনে দাঁড়ানো বধিরের চেয়েও কম শোনে। আয়াতটি আহ্বানকারীর কাঁধ থেকে বোঝা নামিয়ে দেয়। তাঁর কাজ ছিল ডাকা। কান বন্ধ থাকলে সেটা তাঁর ব্যর্থতা নয়। আবার আয়াতটি শ্রোতার দিকেও ফেরে। সত্যের কথা যখন আমাকে শোনানো হয়, আমি কি তার দিকে মুখ করে থাকি, নাকি আগেই উল্টো দিকে হাঁটা ধরেছি? এমন কোনো ডাক কি আছে, যা আমি আর শুনতে পাই না, কারণ তার দিকে ফেরা ছেড়ে দিয়েছি?",
+    "pointsEn": [
+      "When someone reminds me of something true that I would rather not hear, do I turn toward them or start walking away?",
+      "Is there a reminder I once heard clearly that now passes over me without touching anything?",
+      "When someone I love does not respond to good advice, do I carry it as my own failure, or do I keep calling and leave the hearts to Allah?",
+      "What would it take for me to stop and face a truth I have been backing away from?",
+      "Do I ever speak of another person as beyond reach, when only Allah knows who will hear?"
+    ],
+    "pointsBn": [
+      "কেউ যখন এমন কোনো সত্য মনে করিয়ে দেয় যা আমি শুনতে চাই না, আমি কি তার দিকে ফিরি, নাকি সরে যেতে শুরু করি?",
+      "এমন কোনো নসিহত কি আছে, যা একসময় স্পষ্ট শুনতাম, অথচ এখন তা মনের কিছুই না ছুঁয়ে পাশ কাটিয়ে চলে যায়?",
+      "প্রিয় কেউ ভালো পরামর্শে সাড়া না দিলে আমি কি সেটাকে নিজের ব্যর্থতা বলে বয়ে বেড়াই, নাকি ডাকতে থাকি আর অন্তরের ভার আল্লাহর হাতে ছেড়ে দিই?",
+      "যে সত্য থেকে আমি পিছিয়ে যাচ্ছি, থেমে তার মুখোমুখি দাঁড়াতে আমার কী লাগবে?",
+      "আমি কি কখনো কাউকে নাগালের বাইরে বলে ঘোষণা করি, অথচ কে শুনবে তা কেবল আল্লাহই জানেন?"
+    ],
+    "lessonEn": "Your part is to call with care; opening ears belongs to Allah. And keep your own face turned toward the truth, because hearing it begins with not walking away.",
+    "lessonBn": "আপনার কাজ যত্ন নিয়ে ডাকা, কান খুলে দেওয়া আল্লাহর কাজ। আর নিজের মুখটা সত্যের দিকে ফিরিয়ে রাখুন, কারণ সত্য শোনা শুরু হয় পিঠ না ফেরানো থেকে।"
   }
 };
 
