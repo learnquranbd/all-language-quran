@@ -3363,6 +3363,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:88": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Widest of Three Questions",
+          "bn": "তিন প্রশ্নের শেষটি"
+        },
+        "p": [
+          {
+            "en": "The passage opens on a denial. In 23:82 and 23:83 the deniers ask whether, once they have died and become dust and bones, they will really be raised, and they dismiss the promise as legends of the ancients. The Prophet ﷺ is not told to argue the point head-on. He is told to ask three questions in a row: about the earth and whoever is in it, about the heavens and the Great Throne, and finally, in this verse, about the dominion of every thing. Each time the answer is the same: Allah.",
+            "bn": "অংশটি শুরু হয় এক অস্বীকার দিয়ে। ২৩:৮২ ও ২৩:৮৩ আয়াতে অস্বীকারকারীরা প্রশ্ন তোলে: মরে মাটি আর হাড় হয়ে যাওয়ার পর সত্যিই কি আবার ওঠানো হবে? প্রতিশ্রুতিটাকে তারা আগের যুগের কিসসা বলে উড়িয়ে দেয়। নবী ﷺ-কে সরাসরি তর্কে নামতে বলা হয়নি। বলা হয়েছে পরপর তিনটি প্রশ্ন করতে। প্রথমটি পৃথিবী আর তাতে যারা আছে তাদের নিয়ে, দ্বিতীয়টি আসমানসমূহ আর মহান আরশ নিয়ে, আর শেষটি, এই আয়াতে, প্রতিটি জিনিসের রাজত্ব নিয়ে। প্রতিবার জবাব একটাই: আল্লাহ।"
+          },
+          {
+            "en": "The first question has its own reflection in this collection. This question is the last and the widest. The earth is a domain of its own and the heavens with the Throne are another, but malakut kulli shay', the dominion of every thing, leaves nothing outside it. At-Tabari, closing his comment on the verse, states what the deniers would answer: that the dominion of every thing, and power over all things, belong to Allah. On the next verse he names where that answer leads, to believing that Allah is able to raise them alive after their death.",
+            "bn": "প্রথম প্রশ্নটি নিয়ে এই সংকলনে আলাদা আলোচনা আছে। এটি শেষ প্রশ্ন, আর সবচেয়ে বিস্তৃত। পৃথিবী এক এলাকা, আরশসহ আসমান আরেক এলাকা। কিন্তু মালাকূতু কুল্লি শাইয়িন, অর্থাৎ প্রতিটি জিনিসের রাজত্ব, কোনো কিছুকেই বাইরে রাখে না। আয়াতের আলোচনা শেষ করতে গিয়ে তাবারী বলেন, অস্বীকারকারীরা জবাব দেবে: প্রতিটি জিনিসের রাজত্ব আর সব কিছুর উপর ক্ষমতা আল্লাহরই। পরের আয়াতে তিনি দেখান, এই জবাব কোথায় গিয়ে দাঁড়ায়। দাঁড়ায় এই বিশ্বাসে যে, মৃত্যুর পর তাদের জীবিত করে ওঠাতে আল্লাহ সক্ষম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Treasures Behind Every Thing",
+          "bn": "সব কিছুর ভাণ্ডার"
+        },
+        "p": [
+          {
+            "en": "Malakut comes from the root m-l-k, to own and to rule. Al-Baghawi says plainly that malakut is mulk, dominion, and that the ta' in it is for intensity. As-Sa'di gives the same grammar: it is an intensive form meaning mulk. Al-Qurtubi sets it beside two words built on the same pattern, jabarut and rahabut, and notes that he has discussed it already under al-An'am. The added syllables do not change the meaning so much as press on it: not simply ownership, but ownership at its fullest.",
+            "bn": "মালাকূত শব্দের মূল ম-ল-ক, যার অর্থ মালিক হওয়া, শাসন করা। বাগাভী সোজা বলে দেন, মালাকূত মানে মুলক, অর্থাৎ রাজত্ব, আর এর তা অক্ষরটি জোর বাড়ানোর জন্য। সা'দীও একই ব্যাকরণ দেন: এটি আতিশয্যবাচক রূপ, অর্থ মুলক। কুরতুবী একে একই ছাঁচের আরও দুটি শব্দের পাশে রাখেন, জাবারূত আর রাহাবূত, এবং জানান যে সূরা আনআমে তিনি এ নিয়ে আগেই বলেছেন। বাড়তি অক্ষরে অর্থ বদলায় না, বরং অর্থের উপর চাপ বাড়ে। শুধু মালিকানা নয়, পূর্ণতম মালিকানা।"
+          },
+          {
+            "en": "Two early glosses stand behind the word. At-Tabari relays from Mujahid, by two chains, that malakut kulli shay' means khaza'in kulli shay', the treasures of every thing. Al-Qurtubi records the same from Mujahid and adds ad-Dahhak's gloss, the dominion of every thing. Al-Muyassar joins the two in one question: who is the owner of every thing, and in whose hand are the treasures of every thing? One gloss names the rule over a thing, the other the stores it is supplied from, and the verse places both in a single hand.",
+            "bn": "শব্দটির পেছনে পূর্বসূরিদের দুটি ব্যাখ্যা আছে। তাবারী দুটি সনদে মুজাহিদ থেকে বর্ণনা করেন, মালাকূতু কুল্লি শাইয়িন মানে খাযাইনু কুল্লি শাইয়িন, প্রতিটি জিনিসের ভাণ্ডার। কুরতুবী মুজাহিদের একই কথা আনেন, সঙ্গে দাহহাকের ব্যাখ্যা যোগ করেন: প্রতিটি জিনিসের রাজত্ব। মুয়াসসার দুটোকে এক প্রশ্নে মিলিয়ে দেয়: প্রতিটি জিনিসের মালিক কে, আর প্রতিটি জিনিসের ভাণ্ডার কার হাতে? একটি ব্যাখ্যা বলে জিনিসের উপর শাসনের কথা, অন্যটি বলে সেই গুদামের কথা, যেখান থেকে তার রসদ আসে। আয়াত দুটোকেই রাখে এক হাতে।"
+          },
+          {
+            "en": "How far does every thing reach? Al-Qurtubi spells it out: the heavens, what is above them and what is between them, the earths, what is beneath them and what is between them, and what no one knows except Him. As-Sa'di draws the same circle in two halves, the upper world and the lower world, what we see and what we do not. The question goes to people who will answer that the whole circle is Allah's, and the rest of the passage asks what they do with that answer.",
+            "bn": "প্রতিটি জিনিস বলতে কতদূর? কুরতুবী খুলে বলেন: আসমানগুলো, তার উপরে যা আছে আর তার মাঝে যা আছে; জমিনগুলো, তার নিচে যা আছে আর তার মাঝে যা আছে; আর সেসব, যা তিনি ছাড়া কেউ জানে না। সা'দী একই বৃত্ত আঁকেন দুই ভাগে: ঊর্ধ্বজগৎ আর নিম্নজগৎ, যা আমরা দেখি আর যা দেখি না। প্রশ্নটা যাদের করা হচ্ছে, তারা জবাব দেবে যে গোটা বৃত্তটাই আল্লাহর। বাকি অংশ জানতে চায়, সেই জবাব নিয়ে তারা কী করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held in His Hand",
+          "bn": "সব তাঁর হাতের মুঠোয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads bi-yadihi, in His hand, as a statement of control. Dominion is in His hand, he writes, and he joins the verse to 11:56: there is no moving creature but He holds it by its forelock. That verse, he explains, means He disposes of it as He wills. Then he gathers the thought into three names. He is al-khaliq, the Creator; al-malik, the Owner; and al-mutasarrif, He who disposes of every thing. Ownership here is not a title held at a distance but a hand at work.",
+            "bn": "ইবন কাসীর বিয়াদিহী, অর্থাৎ তাঁর হাতে, কথাটিকে পড়েন নিয়ন্ত্রণের ঘোষণা হিসেবে। তিনি লেখেন, রাজত্ব তাঁরই হাতে। এর সঙ্গে জুড়ে দেন ১১:৫৬ আয়াত: এমন কোনো চলমান প্রাণী নেই, যার কপালের চুল তিনি ধরে রাখেননি। তাঁর ব্যাখ্যায় এর মানে, তিনি তাকে যেমন খুশি পরিচালনা করেন। তারপর পুরো ভাবটা তিনি তিনটি নামে গুছিয়ে দেন: তিনি আল-খালিক, স্রষ্টা; আল-মালিক, মালিক; আর আল-মুতাসাররিফ, যিনি প্রতিটি জিনিস পরিচালনা করেন। এখানে মালিকানা দূরে বসে থাকা কোনো খেতাব নয়, কাজে ব্যস্ত এক হাত।"
+          },
+          {
+            "en": "Between those lines Ibn Kathir recalls how the Prophet ﷺ swore. He would say, no, by Him in whose hand is my soul, and when he swore with special earnestness, no, by the Turner of hearts. The second is recorded in Sahih al-Bukhari (6628) from Ibn 'Umar (RA): \"The oath of the Prophet ﷺ used to be: No, by Him who turns the hearts.\" It is a general narration, not attached to this verse. None of the commentaries consulted attaches a hadith to the verse itself.",
+            "bn": "এর মাঝখানে ইবন কাসীর মনে করিয়ে দেন, নবী ﷺ কীভাবে কসম খেতেন। তিনি বলতেন, না, সেই সত্তার কসম, যাঁর হাতে আমার প্রাণ। আর খুব জোর দিয়ে কসম খেলে বলতেন, না, অন্তরসমূহের পরিবর্তনকারীর কসম। দ্বিতীয়টি সহীহ বুখারীতে (৬৬২৮) ইবন উমর (রাঃ) থেকে বর্ণিত: \"নবী ﷺ-এর কসম ছিল: না, অন্তরসমূহের পরিবর্তনকারীর কসম।\" এটি সাধারণ বর্ণনা, এই আয়াতের সঙ্গে যুক্ত নয়। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে সরাসরি কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When a Chief Gave Shelter",
+          "bn": "সরদারের আশ্রয়দান"
+        },
+        "p": [
+          {
+            "en": "The second half of the verse, wa-huwa yujiru wa-la yujaru 'alayh, draws on a custom its first hearers lived by. The verb comes from jiwar, the granting of protection. Ibn Kathir explains the phrase through it. Among the Arabs, when a chief granted someone protection, that protection was not violated, and no one beneath him had the right to grant protection against him, lest he be overridden in his own authority. That, says Ibn Kathir, is why Allah said: and He protects, and none can protect against Him.",
+            "bn": "আয়াতের দ্বিতীয় ভাগ, ওয়া হুয়া ইউজীরু ওয়ালা ইউজারু আলাইহি, এমন এক রীতির ভাষা নেয়, যা প্রথম শ্রোতাদের জীবনে চালু ছিল। ক্রিয়াটি এসেছে জিওয়ার থেকে, যার মানে আশ্রয় বা নিরাপত্তা দেওয়া। ইবন কাসীর এই রীতি দিয়েই কথাটা বোঝান। আরবদের মধ্যে কোনো সরদার কাউকে আশ্রয় দিলে সেই আশ্রয় ভাঙা হতো না। আর তার নিচের কারও অধিকার ছিল না তার বিরুদ্ধে কাউকে আশ্রয় দেওয়ার, যাতে তার কর্তৃত্ব ডিঙিয়ে কিছু করা না হয়। ইবন কাসীর বলেন, এজন্যই আল্লাহ বলেছেন: তিনি আশ্রয় দেন, আর তাঁর বিরুদ্ধে কেউ আশ্রয় দিতে পারে না।"
+          },
+          {
+            "en": "He then lifts the picture beyond any tribe. Allah is the great Master, he writes, with none greater; His are creation and command; no one can reverse His judgment, resist Him or oppose Him; what He wills happens and what He does not will does not. He adds 21:23, He is not asked about what He does, while they will be asked, and explains it by His greatness, majesty, overwhelming power, might and wisdom. With 15:92 and 15:93 he reminds the reader that every creature will be questioned about its deeds.",
+            "bn": "তারপর তিনি ছবিটাকে যেকোনো গোত্রের গণ্ডি ছাড়িয়ে নিয়ে যান। তিনি লেখেন, আল্লাহ মহান মনিব, তাঁর চেয়ে বড় কেউ নেই। সৃষ্টি তাঁর, হুকুমও তাঁর। তাঁর ফয়সালা কেউ উল্টাতে পারে না, কেউ তাঁকে ঠেকাতে বা তাঁর বিরোধিতা করতে পারে না। তিনি যা চান তা হয়, যা চান না তা হয় না। এর সঙ্গে তিনি আনেন ২১:২৩ আয়াত: তিনি যা করেন সে বিষয়ে তাঁকে জিজ্ঞেস করা হয় না, অথচ তাদের জিজ্ঞেস করা হবে। কারণ হিসেবে বলেন তাঁর মহত্ত্ব, গৌরব, পরাক্রম, ইজ্জত আর প্রজ্ঞার কথা। ১৫:৯২ ও ১৫:৯৩ আয়াত দিয়ে মনে করিয়ে দেন, প্রতিটি সৃষ্টিকে তার আমল সম্পর্কে জিজ্ঞেস করা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Shields, None Shields Against",
+          "bn": "তিনি আশ্রয় দেন, তাঁর বিরুদ্ধে নয়"
+        },
+        "p": [
+          {
+            "en": "The commentators fill in the two verbs in slightly different ways. At-Tabari makes them about harm: He protects whomever He wishes from anyone who sets out to do him ill, and no one can hold out against the person He Himself intends ill, so as to turn away His punishment and penalty from him. Al-Baghawi gives two glosses. Yujiru may mean that He grants safety to whom He wills, while none can grant safety to a person Allah has made afraid; or that He keeps evil from whom He wills, while none can keep it from anyone He intends with evil.",
+            "bn": "দুটি ক্রিয়ার ব্যাখ্যা তাফসীরকারেরা দেন একটু ভিন্ন ভিন্নভাবে। তাবারী কথাটা টানেন ক্ষতির দিকে। কেউ কারও অনিষ্ট করতে চাইলে তিনি যাকে চান তাকে তার হাত থেকে রক্ষা করেন। আর তিনি নিজে যার অনিষ্ট চান, তাঁর বিরুদ্ধে কেউ দাঁড়িয়ে তাঁর আযাব ও শাস্তি তার উপর থেকে সরাতে পারে না। বাগাভী দুটি ব্যাখ্যা দেন। ইউজীরু মানে হতে পারে, তিনি যাকে চান নিরাপত্তা দেন, আর আল্লাহ যাকে ভয়ে ফেলেন তাকে কেউ নিরাপত্তা দিতে পারে না। অথবা, তিনি যাকে চান অনিষ্ট থেকে বাঁচান, আর তিনি যার অনিষ্ট চান তাকে কেউ বাঁচাতে পারে না।"
+          },
+          {
+            "en": "As-Sa'di reads the first verb as care for His servants: He protects them from evil, turns hardships away from them and guards them from what would harm them. The second he reads as a limit on everyone else. No one is able to grant protection against Allah, nor to turn away an evil He has decreed. Then he takes a step the other commentaries here do not: no one even intercedes with Him except by His permission. Al-Muyassar keeps near the same line, adding that He protects whoever seeks His protection.",
+            "bn": "সা'দী প্রথম ক্রিয়াটিকে পড়েন বান্দাদের প্রতি তাঁর যত্ন হিসেবে। তিনি তাদের অনিষ্ট থেকে রক্ষা করেন, কষ্ট সরিয়ে দেন, ক্ষতিকর সব থেকে হেফাজত করেন। দ্বিতীয় ক্রিয়াটিকে তিনি পড়েন বাকি সবার সীমা হিসেবে। আল্লাহর বিরুদ্ধে কাউকে আশ্রয় দেওয়ার সাধ্য কারও নেই, আল্লাহর নির্ধারিত অনিষ্ট সরানোর ক্ষমতাও নেই। তারপর তিনি এমন এক ধাপ এগোন, যা এখানকার অন্য তাফসীরগুলো এগোয়নি: তাঁর অনুমতি ছাড়া তাঁর কাছে কেউ সুপারিশও করতে পারে না। মুয়াসসারও কাছাকাছি পথে চলে, সঙ্গে যোগ করে যে, যে তাঁর আশ্রয় চায় তিনি তাকে আশ্রয় দেন।"
+          },
+          {
+            "en": "Where does this protection operate? Al-Qurtubi first glosses the phrase as: He prevents, and none prevents Him. Then he reports two views, each introduced only as \"it was said\". In the first, it concerns this world: whomever Allah wills to destroy and make afraid, no defender keeps Him from it, and whomever He wills to help and keep safe, no one can push that help away. In the second, it concerns the Hereafter: no one stands between Him and whoever has earned reward, or shields whoever has earned punishment. Ma'arif al-Qur'an, citing al-Qurtubi, holds the two together.",
+            "bn": "এই আশ্রয় কোথায় কাজ করে? কুরতুবী প্রথমে কথাটির অর্থ করেন: তিনি বাধা দেন, তাঁকে কেউ বাধা দিতে পারে না। তারপর দুটি মত আনেন, দুটোই শুধু 'বলা হয়েছে' বলে। এক মতে কথাটা দুনিয়ার। আল্লাহ যাকে ধ্বংস করতে ও ভয়ে ফেলতে চান, তাঁকে কোনো রক্ষাকারী আটকাতে পারে না। আর যাকে তিনি সাহায্য ও নিরাপত্তা দিতে চান, সেই সাহায্য কেউ ঠেলে সরাতে পারে না। অন্য মতে কথাটা আখিরাতের। সওয়াবের হকদার আর তাঁর মাঝে কেউ বাধা হতে পারে না, আযাবের উপযুক্তকে কেউ বাঁচাতে পারে না। মাআরিফুল কুরআন কুরতুবীর বরাত দিয়ে দুটোকেই একসঙ্গে ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allah, or To Allah",
+          "bn": "আল্লাহ, নাকি আল্লাহর"
+        },
+        "p": [
+          {
+            "en": "The verse closes as the first two questions did: in kuntum ta'lamun, if you should know. Al-Baghawi reports one reading of it as: answer, if you know. The answer follows in 23:89, sayaqulun lillah, they will say: to Allah. Ibn Kathir paraphrases it as their acknowledgement that the great Master who protects, and against whom none can protect, is Allah alone, with no partner. As-Sa'di says they will affirm that Allah is the Owner of every thing, the Protector against whom no one protects.",
+            "bn": "প্রথম দুই প্রশ্নের মতো এ আয়াতও শেষ হয় ইন কুনতুম তা'লামূন দিয়ে, যদি তোমরা জানো। বাগাভী এর একটি ব্যাখ্যা আনেন: জানলে জবাব দাও। জবাব আসে ২৩:৮৯ আয়াতে, সায়াকূলূনা লিল্লাহ, তারা বলবে: আল্লাহর। ইবন কাসীর এটাকে তাদের স্বীকারোক্তি হিসেবে বোঝান: যে মহান মনিব আশ্রয় দেন আর যাঁর বিরুদ্ধে কেউ আশ্রয় দিতে পারে না, তিনি একমাত্র আল্লাহ, তাঁর কোনো শরীক নেই। সা'দী বলেন, তারা মেনে নেবে যে আল্লাহই প্রতিটি জিনিসের মালিক, তিনিই আশ্রয়দাতা, যাঁর বিরুদ্ধে কেউ আশ্রয় দিতে পারে না।"
+          },
+          {
+            "en": "That answer is read in two ways, and at-Tabari and al-Qurtubi both record it. Al-Qurtubi notes no disagreement over the first answer, in 23:85, because its question began with li-man, to whom. In 23:87 and 23:89 the question begins with man, who, and Abu 'Amr reads the answer as Allah, matching its form; the others read lillah, answering its sense, since asking who is lord of a thing asks to whom it belongs. At-Tabari, noting that only the codex of Basra has the alif, calls both sound readings close in meaning, though he himself prefers lillah.",
+            "bn": "এই জবাব দুইভাবে পড়া হয়, তাবারী ও কুরতুবী দুজনেই তা উল্লেখ করেছেন। কুরতুবী জানান, ২৩:৮৫ আয়াতের প্রথম জবাব নিয়ে কোনো মতভেদ নেই, কারণ সেখানে প্রশ্ন শুরু হয়েছে লিমান, অর্থাৎ কার, দিয়ে। ২৩:৮৭ ও ২৩:৮৯ আয়াতে প্রশ্ন শুরু হয় মান, অর্থাৎ কে, দিয়ে। আবু আমর তাই প্রশ্নের রূপ মিলিয়ে জবাব পড়েন আল্লাহ। বাকিরা পড়েন লিল্লাহ, প্রশ্নের অর্থ ধরে, কারণ কোনো কিছুর রব কে জানতে চাওয়া মানে সেটা কার, তা জানতে চাওয়া। তাবারী উল্লেখ করেন, কেবল বসরার মুসহাফে আলিফ লেখা আছে। দুটি পাঠকেই তিনি সঠিক ও অর্থে কাছাকাছি বলেন, যদিও নিজে লিল্লাহ পছন্দ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Minds Under a Spell",
+          "bn": "জাদুগ্রস্ত বুদ্ধি"
+        },
+        "p": [
+          {
+            "en": "Then comes the third rebuke, after afala tadhakkarun and afala tattaqun: fa-anna tusharun, so how are you bewitched? At-Tabari spells it out. From what direction are you turned away from believing Allah's signs, from accepting His reports and those of His Messenger, and from believing that Allah is able to raise you alive after your death, when you know His great authority and power? He relays, as reported from Ibn 'Abbas (RA), that tusharun here means tukadhdhibun, you give the lie.",
+            "bn": "আফালা তাযাক্কারূন আর আফালা তাত্তাকূনের পর এবার আসে তৃতীয় ধমক: ফাআন্না তুসহারূন, তবে তোমাদের কীভাবে জাদু করা হচ্ছে? তাবারী খুলে বলেন। আল্লাহর মহা কর্তৃত্ব আর ক্ষমতার কথা তোমরা জানো। তবু কোন দিক দিয়ে তোমাদের ফিরিয়ে নেওয়া হচ্ছে আল্লাহর আয়াত বিশ্বাস করা থেকে, তাঁর ও তাঁর রাসূলের দেওয়া খবর মেনে নেওয়া থেকে? আর এই বিশ্বাস থেকে যে, মৃত্যুর পর তোমাদের জীবিত করে ওঠাতে আল্লাহ সক্ষম? তাবারী ইবন আব্বাস (রাঃ) থেকে বর্ণিত এক ব্যাখ্যাও আনেন: এখানে তুসহারূন মানে তুকাযযিবূন, তোমরা মিথ্যা প্রতিপন্ন করছ।"
+          },
+          {
+            "en": "At-Tabari also defines the word. Sihr, he says, is making a thing appear to the viewer as other than it is, so the question means: from what direction is falsehood made to look like truth to you, and the corrupt like the sound? Al-Baghawi has the same image: how is the truth made to look to you like falsehood? Al-Qurtubi offers two forms. How are you deceived and turned from obeying Him and affirming His oneness? Or how is it made to seem right to you to associate with Him what neither harms nor benefits?",
+            "bn": "তাবারী শব্দটির সংজ্ঞাও দেন। তাঁর ভাষায়, সিহর মানে দর্শকের চোখে কোনো জিনিসকে তার আসল রূপের বদলে অন্য রূপে দেখানো। তাই প্রশ্নের অর্থ দাঁড়ায়: কোন দিক দিয়ে মিথ্যাকে তোমাদের চোখে সত্য, আর নষ্টকে খাঁটি বলে দেখানো হচ্ছে? বাগাভীর কথাতেও একই ছবি: সত্য কীভাবে তোমাদের চোখে বাতিল হয়ে দেখা দেয়? কুরতুবী দুটি রূপ দেন। কীভাবে তোমরা প্রতারিত হচ্ছ, তাঁর আনুগত্য আর তাওহীদ থেকে সরে যাচ্ছ? অথবা, যা ক্ষতিও করে না উপকারও করে না, তাকে তাঁর শরীক বানানো তোমাদের কাছে কীভাবে ঠিক মনে হচ্ছে?"
+          },
+          {
+            "en": "As-Sa'di carries the image to its end. They worshipped beings they knew owned nothing, not even a share of ownership, and were helpless in every respect, and they abandoned sincere devotion to the great Owner who runs every affair. Minds that led them there, he says, can only be bewitched, and Satan bewitched them by adorning things for them and turning realities upside down, as sorcerers bewitched people's eyes. Ibn Kathir asks it more simply: how do your minds go astray, worshipping others beside Him, when you acknowledge and know this?",
+            "bn": "সা'দী ছবিটাকে শেষ পর্যন্ত টেনে নেন। তারা এমন সত্তাদের ইবাদত করেছে, যাদের ব্যাপারে জানত যে তাদের কোনো মালিকানা নেই, মালিকানার ভাগও নেই, সব দিক থেকেই তারা অক্ষম। আর সব কাজের পরিচালক মহান মালিকের প্রতি খাঁটি ইবাদত তারা ছেড়ে দিয়েছে। সা'দী বলেন, যে বুদ্ধি তাদের এ পথে এনেছে, তা জাদুগ্রস্ত না হয়ে পারে না। শয়তানই তাদের সামনে সব কিছু সাজিয়ে, সুন্দর করে দেখিয়ে, বাস্তবতা উল্টে দিয়ে তাদের বুদ্ধিতে জাদু করেছে, যেমন জাদুকরেরা মানুষের চোখে জাদু করেছিল। ইবন কাসীর প্রশ্নটা আরও সহজে রাখেন: জেনে ও স্বীকার করেও তাঁর সঙ্গে অন্যের ইবাদত করে তোমাদের বুদ্ধি কোথায় হারিয়ে যায়?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Shelter I Seek",
+          "bn": "আমি কার আশ্রয় খুঁজি"
+        },
+        "p": [
+          {
+            "en": "The whole sequence argues from what the hearers already grant. Al-Qurtubi, on 23:89, calls these verses proof against the Arabs who affirmed the Maker: the One who began creation and brought things into being is the One who deserves divinity and worship. The abridged English Ibn Kathir, on the group 23:84 to 23:90, puts it in two terms: belief in tawhid ar-rububiyyah, His oneness as Lord, requires tawhid al-uluhiyyah, His oneness as the One worshipped. As-Sa'di, where the phrase returns in 36:83, draws a second consequence: raising the dead for recompense is part of the completeness of His dominion.",
+            "bn": "পুরো ধারাবাহিকতাটা যুক্তি দাঁড় করায় শ্রোতারা যা আগেই মানে, তার উপর। কুরতুবী ২৩:৮৯ আয়াতের আলোচনায় বলেন, এই আয়াতগুলো সেই আরবদের বিরুদ্ধে প্রমাণ, যারা স্রষ্টাকে স্বীকার করত। যিনি সৃষ্টির সূচনা করেছেন, অস্তিত্বে এনেছেন, উলূহিয়্যাত আর ইবাদতের হকদার তিনিই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ২৩:৮৪ থেকে ২৩:৯০ আয়াতের দলে কথাটা দুই পরিভাষায় বলে: তাওহীদুর রুবূবিয়্যাহ, অর্থাৎ রব হিসেবে তাঁর একত্বে বিশ্বাস, দাবি করে তাওহীদুল উলূহিয়্যাহ, অর্থাৎ উপাস্য হিসেবে তাঁর একত্ব। ৩৬:৮৩ আয়াতে একই কথা ফিরে এলে সা'দী আরেকটি ফল টানেন: প্রতিদানের জন্য মৃতদের আবার ওঠানো তাঁর রাজত্বেরই পূর্ণতার অংশ।"
+          },
+          {
+            "en": "That was the step the deniers of 23:82 would not take, and the verse describes them: people in the Prophet's ﷺ time who named Allah as Owner and Protector and still worshipped others and denied the raising. It describes what the text describes and licenses nothing against any living person or community. Its question is better turned inward. A believer can say every right word and still, when afraid, look for safety first in a patron, a post or a bank balance. The verse asks who holds every thing, then waits for the answer to be lived.",
+            "bn": "২৩:৮২ আয়াতের অস্বীকারকারীরা ঠিক এই ধাপটাই নিতে রাজি হয়নি। আয়াত তাদেরই বর্ণনা দেয়: নবী ﷺ-এর যুগের সেই লোকেরা, যারা আল্লাহকে মালিক ও আশ্রয়দাতা বলে মানত, তবু অন্যের ইবাদত করত আর পুনরুত্থান অস্বীকার করত। আয়াতটি কেবল সেটুকুই বর্ণনা করে, যা পাঠে আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। প্রশ্নটা বরং নিজের দিকে ফেরানোই ভালো। মুমিনও মুখে সব ঠিক কথা বলে ভয়ের মুহূর্তে আগে নিরাপত্তা খুঁজতে পারে কোনো মুরব্বি, কোনো পদ বা ব্যাংকের টাকার কাছে। আয়াত জানতে চায় সব কিছু কার হাতে, তারপর অপেক্ষা করে জবাবটা জীবনে দেখার।"
+          }
+        ]
+      }
+    ]
+  },
   "23:91": {
     "sections": [
       {

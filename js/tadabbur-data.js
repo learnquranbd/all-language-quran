@@ -23951,6 +23951,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The One who made you from nothing can raise you from dust; meet this doubt, in yourself or in others, with reflection and patient answers, not with scorn or silence.",
     "lessonBn": "যিনি আপনাকে শূন্য থেকে বানিয়েছেন, তিনি মাটি থেকেও আবার ওঠাতে পারেন। নিজের মনে হোক বা অন্যের মুখে, এ সন্দেহের জবাব দিন চিন্তা আর ধৈর্য দিয়ে, তাচ্ছিল্য বা নীরবতা দিয়ে নয়।"
+  },
+  "23:88": {
+    "reflectionEn": "Three times the deniers are asked, and three times they give the same answer. This last question is the widest of all: in whose hand is the dominion of every single thing? Then the verse adds a picture they knew from their own lives. Among them a chief could take a man under his protection, and no one beneath that chief could shelter anyone against him. Allah is that without any limit. He shelters whom He wills, and no one can shelter anyone from Him. They answered \"Allah\" and still went looking elsewhere for safety. I give the same answer. When I am afraid, whose door do I knock on first, and do I believe any shelter holds if He has not granted it?",
+    "reflectionBn": "তিনবার অস্বীকারকারীদের প্রশ্ন করা হয়, তিনবারই তারা একই জবাব দেয়। শেষ প্রশ্নটা সবচেয়ে বড়: প্রতিটি জিনিসের রাজত্ব কার হাতে? তারপর আয়াত এমন এক ছবি আঁকে, যা তারা নিজেদের জীবনেই চিনত। তাদের সমাজে কোনো সরদার কাউকে আশ্রয় দিলে তার নিচের কেউ তার বিরুদ্ধে কাউকে আশ্রয় দিতে পারত না। আল্লাহ ঠিক তেমন, তবে কোনো সীমা ছাড়া। তিনি যাকে চান আশ্রয় দেন, আর তাঁর হাত থেকে কাউকে আশ্রয় দেওয়ার সাধ্য কারও নেই। তারা মুখে বলেছিল \"আল্লাহ\", তবু নিরাপত্তা খুঁজতে গেছে অন্য দরজায়। আমিও তো একই জবাব দিই। ভয় পেলে আমি প্রথম কার দরজায় কড়া নাড়ি? আর তিনি না দিলে কোনো আশ্রয় টেকে, এমন বিশ্বাস কি মনের কোণে রয়ে গেছে?",
+    "pointsEn": [
+      "When something frightens me, whose help do I reach for first, and where does turning to Allah come in that order?",
+      "Is there a person, a post or a sum of money I treat as protection that I imagine would hold even if Allah willed otherwise?",
+      "I say that everything is in His hand; which part of my life do I still run as if it were in mine?",
+      "Whose displeasure do I fear more than His, and what does that fear make me do or leave undone?",
+      "If I lived by the answer I already give, what would I stop doing this week?"
+    ],
+    "pointsBn": [
+      "কোনো কিছু ভয় ধরালে আমি প্রথম কার সাহায্য চাই? সেই তালিকায় আল্লাহর কাছে ফেরার পালা আসে কখন?",
+      "এমন কোনো মানুষ, পদ বা টাকাপয়সা কি আছে, যাকে আমি রক্ষাকবচ ভাবি, যেন আল্লাহ অন্য কিছু চাইলেও তা আমাকে বাঁচিয়ে দেবে?",
+      "মুখে বলি সব কিছু তাঁর হাতে। তাহলে জীবনের কোন অংশটা আমি এখনো এমনভাবে চালাই, যেন তা আমার হাতে?",
+      "কার অসন্তুষ্টিকে আমি তাঁর অসন্তুষ্টির চেয়ে বেশি ভয় পাই? সেই ভয় আমাকে দিয়ে কী করায়, কী ছাড়ায়?",
+      "যে জবাব আমি এমনিতেই দিই, তা মেনে চললে এ সপ্তাহে কোন কাজটা আমি ছেড়ে দিতাম?"
+    ],
+    "lessonEn": "The dominion of every thing is in Allah's hand: He shelters whom He wills and none can shelter anyone from Him, so seek your safety from Him first.",
+    "lessonBn": "প্রতিটি জিনিসের রাজত্ব আল্লাহর হাতে। তিনি যাকে চান আশ্রয় দেন, তাঁর হাত থেকে কেউ কাউকে আশ্রয় দিতে পারে না। তাই নিরাপত্তা আগে তাঁর কাছেই চান।"
   }
 };
 
