@@ -24171,6 +24171,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not trim your faith to please those who reject it; carry the Qur'an to people with steady, unslackening effort, and never despair of anyone's guidance.",
     "lessonBn": "যারা ঈমান প্রত্যাখ্যান করে, তাদের খুশি করতে ঈমান ছেঁটে ফেলবেন না। অবিরাম, ঢিলেহীন চেষ্টায় কুরআন মানুষের কাছে পৌঁছে দিন, আর কারও হিদায়াতের ব্যাপারে নিরাশ হবেন না।"
+  },
+  "25:41": {
+    "reflectionEn": "They catch sight of him, and before he says a word, one of them asks: is this the one God has sent as a messenger? The question wants no answer. It wants a laugh. The next verse lets slip what the laugh was covering: he almost turned us away from our gods, had we not held on. Mockery here is no reply to the message. It is a way of not having to give one. So the verse is a mirror before it is a record. When truth reaches me through someone I think little of, do I weigh what is said or sneer at who says it? And when I am laughed at for what is right, can I stay steady without paying back in kind?",
+    "reflectionBn": "তারা তাঁকে দেখতে পায়। তিনি একটা কথাও বলার আগে তাদের একজন প্রশ্ন ছুড়ে দেয়: এ-ই কি সেই লোক, যাকে আল্লাহ রসূল করে পাঠিয়েছেন? প্রশ্নটা কোনো উত্তর চায় না, চায় হাসির রোল। ঠিক পরের আয়াতেই ধরা পড়ে, হাসির আড়ালে কী চাপা ছিল: সে তো আমাদের ইলাহদের থেকে আমাদের প্রায় সরিয়েই দিয়েছিল, আমরা আঁকড়ে ধরে না থাকলে। এখানে ঠাট্টা বার্তার জবাব নয়। জবাব দেওয়ার দায় এড়ানোর কৌশল। তাই আয়াতটি তাদের কাহিনি হওয়ার আগে আমার সামনে এক আয়না। যাকে আমি তেমন কিছু মনে করি না, সত্য যখন তার মুখ দিয়ে আমার কাছে আসে, আমি কি কথাটা ওজন করি, নাকি বক্তাকে নিয়ে তাচ্ছিল্য করি? আর সঠিক কাজের জন্য যখন আমাকেই লোকে হাসির পাত্র বানায়, পাল্টা ঠাট্টা না করে আমি কি অবিচল থাকতে পারি?",
+    "pointsEn": [
+      "When a reminder last came to me from someone I look down on, did I answer what was said, or remark on who said it?",
+      "Which jokes do I tell, or laugh along with, that spare me from taking a serious point seriously?",
+      "Have I ever mocked something precisely because it was coming too close to the truth about me?",
+      "When I am made fun of for my prayer, my modesty or my honesty, do I stay steady and gentle, or answer mockery with mockery?",
+      "What am I holding on to with the kind of stubbornness that the mockers called patience?"
+    ],
+    "pointsBn": [
+      "যাকে আমি ছোট চোখে দেখি, তার কাছ থেকে শেষবার যখন কোনো উপদেশ এসেছিল, আমি কি কথাটার জবাব দিয়েছিলাম, নাকি কে বলল তা নিয়ে মন্তব্য করেছিলাম?",
+      "কোন কোন ঠাট্টা আমি করি বা যাতে হেসে সায় দিই, যা আমাকে একটা গুরুতর কথাকে গুরুত্ব দেওয়ার দায় থেকে রেহাই দেয়?",
+      "কোনো কথা আমার নিজের সম্পর্কে সত্যের বেশি কাছে এসে পড়েছিল বলেই কি কখনো তাকে নিয়ে বিদ্রূপ করেছি?",
+      "নামাজ, লজ্জাশীলতা বা সততার জন্য যখন লোকে আমাকে নিয়ে হাসে, আমি কি শান্ত আর অবিচল থাকি, নাকি ঠাট্টার জবাব দিই ঠাট্টা দিয়ে?",
+      "বিদ্রূপকারীরা যে জেদকে ধৈর্য বলে ডাকত, সেই রকম জেদ নিয়ে আমি কী আঁকড়ে ধরে আছি?"
+    ],
+    "lessonEn": "Weigh the message rather than the standing of the one who brings it, never answer truth with ridicule, and when you are mocked for what is right, bear it with patience.",
+    "lessonBn": "বার্তাবাহকের মর্যাদা নয়, বার্তাটাকে ওজন করুন। সত্যের জবাব কখনো বিদ্রূপ দিয়ে দেবেন না। আর সঠিক কাজের জন্য কেউ ঠাট্টা করলে ধৈর্যের সঙ্গে তা সয়ে নিন।"
   }
 };
 

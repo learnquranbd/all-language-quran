@@ -1467,6 +1467,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:41": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Ruins to Makkah",
+          "bn": "ধ্বংসস্তূপ থেকে মক্কায়"
+        },
+        "p": [
+          {
+            "en": "The preceding verses are a roll-call. Musa and Harun (AS) are sent and those who denied them destroyed, the people of Nuh (AS) are drowned, and then come 'Ad, Thamud, the people of ar-Rass and many generations between them (25:35 to 25:39). Verse 25:40 brings the list to the Makkans' own road: they have passed the town that was rained on with a rain of evil. At-Tabari explains why the sight did not move them. They denied, he says, not because they had not seen it, but because they did not fear any raising after death.",
+            "bn": "এ আয়াতের আগের আয়াতগুলো যেন নাম ধরে ডাকা এক তালিকা। মূসা ও হারূন (আঃ)-কে পাঠানো হলো, আর যারা তাঁদের অস্বীকার করল তারা ধ্বংস হলো। নূহ (আঃ)-এর জাতি ডুবে গেল। তারপর আদ, সামূদ, কূপবাসী আর তাদের মাঝের বহু প্রজন্ম (২৫:৩৫ থেকে ২৫:৩৯)। ২৫:৪০ আয়াত তালিকাটাকে মক্কাবাসীর নিজেদের চলার পথে এনে দাঁড় করায়। যে জনপদে অকল্যাণের বৃষ্টি বর্ষিত হয়েছিল, তারা তো তার পাশ দিয়েই যাতায়াত করে। দৃশ্যটা কেন তাদের নাড়া দিল না, তাবারী তার কারণ বলেন। না দেখার কারণে তারা অস্বীকার করেনি। অস্বীকার করেছে, কারণ মৃত্যুর পর আবার ওঠানো হবে, এই ভয় তাদের ছিল না।"
+          },
+          {
+            "en": "Our verse is where the passage turns from those peoples to the Prophet ﷺ himself. At-Tabari opens it as Allah's words to His Prophet: when these polytheists, whose stories I have related to you, see you. It is eleven words in Arabic, wa-idha ra'awka in yattakhidhunaka illa huzuwan, a-hadha alladhi ba'atha Allahu rasulan, and it falls into two halves. The first describes what they make of him; the second quotes what they say. Their speech runs on into the next verse.",
+            "bn": "আমাদের আয়াতে এসে আলোচনা ওই জাতিগুলো থেকে ঘুরে সরাসরি নবী ﷺ-এর দিকে ফেরে। তাবারী আয়াতটি শুরু করেন নবীর প্রতি আল্লাহর সম্বোধন হিসেবে: যে মুশরিকদের কাহিনি আমি তোমাকে শুনিয়েছি, তারা যখন তোমাকে দেখে। আরবিতে আয়াতটি ১১ শব্দের: ওয়া ইযা রাআওকা ইন ইয়াত্তাখিযূনাকা ইল্লা হুযুওয়া, আহাযাল্লাযী বাআসাল্লাহু রসূলা। এর দুটি ভাগ। প্রথম ভাগ জানায় তারা তাঁকে কী বানিয়ে নেয়। দ্বিতীয় ভাগে তাদের মুখের কথা উদ্ধৃত। তাদের কথার বাকিটা আসে পরের আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing but an Object of Jest",
+          "bn": "শুধুই ঠাট্টার বস্তু"
+        },
+        "p": [
+          {
+            "en": "In yattakhidhunaka illa huzuwan. Al-Baghawi glosses the particle in as ma, not, so the clause is a negation closed by illa, except: they do not take you except as huzuw. He reads huzuw as mahzu'an bihi, something laughed at. At-Tabari puts it as sukhriyya yaskharuna minka, a mockery with which they mock you, and al-Jalalayn's English has an object of derision. The shape of the clause leaves him a single role in their eyes. Whatever else he is, when they look at him they see a joke.",
+            "bn": "ইন ইয়াত্তাখিযূনাকা ইল্লা হুযুওয়া। বাগাভী বলেন, এখানে ইন মানে মা, অর্থাৎ না। তাহলে বাক্যটি একটি নেতিবাচক কথা, যা ইল্লা দিয়ে শেষ হয়: তারা তোমাকে হুযু ছাড়া আর কিছু গণ্য করে না। হুযুর অর্থ তিনি করেন মাহযূউন বিহী, যাকে নিয়ে হাসাহাসি করা হয়। তাবারীর ভাষায়, সুখরিয়্যা ইয়াসখারূনা মিনকা, এমন বিদ্রূপ যা দিয়ে তারা তোমাকে নিয়ে মশকরা করে। জালালাইনের ইংরেজি অনুবাদে আছে উপহাসের পাত্র। বাক্যের গড়নই তাঁকে তাদের চোখে একটিমাত্র ভূমিকায় বেঁধে দেয়। তিনি আর যা-ই হোন, তারা তাঁর দিকে তাকিয়ে দেখে শুধু তামাশার খোরাক।"
+          },
+          {
+            "en": "Al-Qurtubi pauses on the grammar of idha, when. Its answer, he says, is in yattakhidhunaka itself, since the sense is simply they take you. He then records a second view under wa-qila, it is said: the answer has been left out, and it is qalu or yaquluna, they said or they say, so that the words about mockery stand as an aside before the quoted question. Either way, the verse ties the mockery to the bare sight of him. It is idha ra'awka, when they see you, before he has said anything at all.",
+            "bn": "কুরতুবী একটু থামেন ইযা, অর্থাৎ যখন, শব্দটির ব্যাকরণে। তিনি বলেন, এর জবাব হলো ইয়াত্তাখিযূনাকা নিজেই, কারণ অর্থ দাঁড়ায় সোজা: তারা তোমাকে গণ্য করে। এরপর তিনি 'বলা হয়' কথাটি দিয়ে দ্বিতীয় একটি মত আনেন। সে মতে জবাবটা উহ্য রাখা হয়েছে, আর তা হলো কালূ বা ইয়াকূলূন, তারা বলল বা তারা বলে। তখন ঠাট্টার কথাটা উদ্ধৃত প্রশ্নের আগে এক মাঝখানের মন্তব্য হয়ে দাঁড়ায়। যেভাবেই পড়া হোক, আয়াতটি ঠাট্টাকে জুড়ে দেয় তাঁকে শুধু দেখতে পাওয়ার সঙ্গে। ইযা রাআওকা, যখন তারা তোমাকে দেখে, তিনি কিছু বলার আগেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Meant to Belittle",
+          "bn": "ছোট করার জন্য প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Then the quoted words: a-hadha alladhi ba'atha Allahu rasulan, is this the one whom Allah has sent as a messenger? Al-Qurtubi names the force of the opening a. It is an interrogative in the sense of taqrir and ihtiqar, a question that asserts and belittles at once. He parses the rest as well: a pronoun is understood, ba'athahu, sent him, and rasulan is a hal, a state, so the sense is sent him as one dispatched. He allows a second parsing in which rasulan is a verbal noun, meaning risala, a message.",
+            "bn": "তারপর উদ্ধৃত কথাটি: আহাযাল্লাযী বাআসাল্লাহু রসূলা, এ-ই কি সেই লোক, যাকে আল্লাহ রসূল করে পাঠিয়েছেন? শুরুর 'আ' অক্ষরটির কাজ কী, কুরতুবী তা বলে দেন। এটি প্রশ্নবোধক, তবে তাকরীর আর ইহতিকারের অর্থে, অর্থাৎ এমন প্রশ্ন যা একই সঙ্গে কিছু সাব্যস্ত করে আর তুচ্ছ করে। বাকি অংশের ব্যাকরণও তিনি খোলেন। একটি সর্বনাম উহ্য আছে, বাআসাহু, তাঁকে পাঠিয়েছেন। আর রসূলা হলো হাল, অবস্থাবাচক, ফলে অর্থ দাঁড়ায়: প্রেরিত হিসেবে তাঁকে পাঠিয়েছেন। দ্বিতীয় আরেকটি বিশ্লেষণও তিনি মেনে নেন, যেখানে রসূলা ক্রিয়াবাচক বিশেষ্য, অর্থ রিসালা, বার্তা।"
+          },
+          {
+            "en": "The other commentators fill in what the mockers left implied. At-Tabari supplies ilayna, to us, and min bayni khalqihi, from among His creation: has God sent this man to us, out of all His creatures? Al-Muyassar adds the word claims: is this the man who claims that Allah sent him to us as a messenger? Al-Jalalayn has as he is wont to claim, and explains the tone as contempt, treating him as unworthy of being a messenger. Both make plain that the speakers do not grant what their own sentence seems to say.",
+            "bn": "বিদ্রূপকারীরা যা না বলে রেখে দিয়েছিল, অন্য তাফসীরকারেরা তা পূরণ করে দেন। তাবারী যোগ করেন ইলাইনা, আমাদের কাছে, আর মিন বাইনি খালকিহী, তাঁর সৃষ্টির মধ্য থেকে। অর্থাৎ, এত সৃষ্টির মাঝে আল্লাহ কি একেই আমাদের কাছে রসূল করে পাঠালেন? মুয়াসসার জুড়ে দেয় 'দাবি করে' কথাটি: এ-ই কি সেই লোক, যে দাবি করে আল্লাহ তাকে আমাদের কাছে রসূল করে পাঠিয়েছেন? জালালাইনেও আছে, যেমন সে দাবি করে থাকে। সুরটা তাচ্ছিল্যের, তাঁকে রসূল হওয়ার অযোগ্য ভেবে। মুয়াসসার আর জালালাইন দুটিই স্পষ্ট করে দেয়, নিজেদের বাক্য যা বলছে বলে মনে হয়, বক্তারা আসলে তা মানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Name Two Commentators Give",
+          "bn": "দুই তাফসীরে যার নাম আসে"
+        },
+        "p": [
+          {
+            "en": "Two of the commentaries fetched here attach the verse to a named man. Al-Qurtubi writes that it came down concerning Abu Jahl, who used to say to the Prophet ﷺ in mockery: is this the one whom Allah sent as a messenger? Al-Baghawi gives the same name and adds a scene: when Abu Jahl passed the Messenger of Allah ﷺ in the company of his friends, he would say it mockingly. Neither gives a chain of narrators for the report in the fetched text, and at-Tabari, Ibn Kathir, as-Sa'di and al-Muyassar name no one.",
+            "bn": "এখানে সংগৃহীত তাফসীরগুলোর মধ্যে দুটি আয়াতটিকে নির্দিষ্ট এক ব্যক্তির সঙ্গে জোড়ে। কুরতুবী লেখেন, আয়াতটি নাযিল হয়েছে আবু জাহলের ব্যাপারে। সে নবী ﷺ-কে ঠাট্টা করে বলত: এ-ই কি সেই লোক, যাকে আল্লাহ রসূল করে পাঠিয়েছেন? বাগাভীও একই নাম আনেন, সঙ্গে একটা দৃশ্যও দেন। আবু জাহল যখন সঙ্গীদের নিয়ে রসূলুল্লাহ ﷺ-এর পাশ দিয়ে যেত, তখন বিদ্রূপের সুরে কথাটা বলত। এ আয়াতের জন্য সংগৃহীত লেখায় তাঁদের কেউই বর্ণনাটির সনদ দেননি। আর তাবারী, ইবন কাসীর, সা'দী ও মুয়াসসার কারও নাম নেন না।"
+          },
+          {
+            "en": "Even read as the occasion, the name marks where the verse came down, not how far it reaches. Its verbs are plural, they see you, they take you, and at-Tabari speaks of these polytheists, as-Sa'di of those who denied him, resisted the signs of Allah and were arrogant in the land. The verse describes what the text describes: the conduct of particular deniers toward the Prophet ﷺ in his own lifetime. It licenses nothing against any living person or community, nor a warrant to pin the name Abu Jahl on anyone today.",
+            "bn": "বর্ণনাটিকে নাযিলের উপলক্ষ ধরে নিলেও নামটি শুধু জানায় আয়াত কোথায় নেমেছিল, আয়াতের পরিধি কতদূর তা নয়। আয়াতের ক্রিয়াগুলো বহুবচনে: তারা তোমাকে দেখে, তারা তোমাকে গণ্য করে। তাবারী বলেন 'এই মুশরিকেরা'। সা'দী বলেন তাদের কথা, যারা তাঁকে মিথ্যা বলেছিল, আল্লাহর আয়াতের বিরোধিতা করেছিল আর পৃথিবীতে অহংকার দেখিয়েছিল। আয়াতটি তা-ই বর্ণনা করে, যা তার শব্দে আছে: নবী ﷺ-এর জীবদ্দশায় নির্দিষ্ট কিছু অস্বীকারকারীর আচরণ, তাঁর প্রতি। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কারও গায়ে আবু জাহলের নাম সেঁটে দেওয়ার অধিকারও কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mocked Before, Answered Before",
+          "bn": "আগের রসূলদের ভাগেও বিদ্রূপ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse beside its twin. In 21:36 the Qur'an says: and when those who disbelieve see you, they take you not except in ridicule, saying, is this the one who mentions your gods? The opening words are nearly identical; only the quoted taunt differs. There, Ibn Kathir says, they meant him with fault and deficiency. Here they spoke 'ala sabil at-tanaqqus wa'l-izdira', by way of belittling and contempt, and he adds a curse on them, qabbahahum Allah.",
+            "bn": "ইবন কাসীর আয়াতটিকে পড়েন তার যমজ আয়াতের পাশে রেখে। ২১:৩৬ আয়াতে কুরআন বলে: কাফিররা যখন তোমাকে দেখে, তখন তারা তোমাকে শুধু উপহাসের পাত্র বানায়, আর বলে, এ-ই কি সেই লোক, যে তোমাদের দেবতাদের কথা তোলে? শুরুর শব্দগুলো প্রায় হুবহু একই, তফাত শুধু উদ্ধৃত খোঁটায়। ইবন কাসীর বলেন, সেখানে তারা তাঁকে দোষ আর ত্রুটির খোঁটা দিত। আর এখানে কথাটা বলেছিল আলা সাবীলিত তানাক্কুসি ওয়াল ইযদিরা, অর্থাৎ ছোট করা আর অবজ্ঞার পথে। সঙ্গে তিনি তাদের প্রতি বদদোয়া জুড়ে দেন: কাব্বাহাহুমুল্লাহ।"
+          },
+          {
+            "en": "He then sets out the answer Allah gave. In the Arabic text he cites 13:32: messengers before you were ridiculed, and I gave respite to those who disbelieved, then I seized them, and how was My penalty. The English abridgement cites 6:10 at the same point, which opens with the same words and ends: those who mocked them were enveloped by what they used to ridicule. Ma'arif al-Qur'an frames the whole passage in the same terms: rebuffing the prophets and the message they brought had been the common practice of peoples through the ages.",
+            "bn": "এরপর তিনি আনেন আল্লাহর দেওয়া জবাব। আরবি পাঠে তিনি উদ্ধৃত করেন ১৩:৩২: তোমার আগেও বহু রসূলকে ঠাট্টা-বিদ্রূপ করা হয়েছিল, আমি কাফিরদের অবকাশ দিয়েছিলাম, তারপর পাকড়াও করেছিলাম, কেমন ছিল আমার শাস্তি! সংক্ষিপ্ত ইংরেজি সংস্করণ একই জায়গায় আনে ৬:১০। সে আয়াতও একই শব্দে শুরু, আর শেষ হয় এভাবে: যা নিয়ে তারা ঠাট্টা করত, তা-ই তাদের ঘিরে ফেলল। মাআরিফুল কুরআনও পুরো অংশটিকে একই চোখে দেখে। নবীদের আর তাঁদের আনা বার্তাকে ফিরিয়ে দেওয়া যুগে যুগে মানুষের চিরাচরিত রীতি ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belittle the Man, Skip the Message",
+          "bn": "মানুষকে খাটো করে বার্তা এড়ানো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di spells out what the taunt implies. Their words, he says, convey that the Messenger, far be it from him, was at the very bottom of lowliness, and that had the message gone to someone else it would have been more fitting. He sets beside it their complaint in 43:31: why was this Qur'an not sent down upon a great man from the two towns? He calls the taunt a mark of their severe wrongdoing and stubbornness, and of qalb al-haqa'iq, turning realities upside down.",
+            "bn": "খোঁটাটার ভেতরে কী লুকানো, সা'দী তা খুলে বলেন। তাঁর মতে তাদের কথার মানে দাঁড়ায়, রসূল, যা থেকে তিনি মুক্ত, হীনতার একেবারে তলায়, আর রিসালাত অন্য কারও কাছে গেলেই বেশি মানানসই হতো। এর পাশে তিনি রাখেন ৪৩:৩১ আয়াতে তাদের আরেক অভিযোগ: এ কুরআন দুই জনপদের কোনো গণ্যমান্য ব্যক্তির উপর কেন নাযিল হলো না? সা'দী এ খোঁটাকে বলেন তাদের চরম জুলুম আর জেদের লক্ষণ, আর কালবুল হাকাইক, অর্থাৎ বাস্তবতাকে উল্টে দেওয়া।"
+          },
+          {
+            "en": "He then names the motive. Such talk, he says, comes only from the most ignorant and misguided of people, or from the most stubborn of them, feigning ignorance, whose aim is to pass off the falsehood he holds by attacking the truth and its bearer. On 25:42 he says it again: the purpose of their disparaging and mocking him was to harden themselves in their falsehood and to deceive the weak-minded. In his reading, the ridicule is a way of defending a position that has no argument behind it.",
+            "bn": "তারপর তিনি উদ্দেশ্যটা চিহ্নিত করেন। এমন কথা বের হয় কেবল সবচেয়ে মূর্খ আর পথভ্রষ্ট মানুষের মুখ থেকে, অথবা তাদের মধ্যে সবচেয়ে জেদি কারও মুখ থেকে, যে জেনেও না জানার ভান করে। তার লক্ষ্য হলো সত্য আর সত্যের বাহককে আঘাত করে নিজের বাতিলটাকে চালিয়ে দেওয়া। ২৫:৪২ আয়াতে এসে তিনি কথাটা আবার বলেন। তাঁকে খাটো করা আর তাঁকে নিয়ে বিদ্রূপের উদ্দেশ্য ছিল নিজেদের বাতিলের উপর আরও শক্ত হয়ে থাকা, আর দুর্বল বুদ্ধির লোকদের ধোঁকা দেওয়া। সা'দীর পাঠে ঠাট্টা হলো এমন এক অবস্থান টিকিয়ে রাখার উপায়, যার পেছনে কোনো যুক্তি নেই।"
+          },
+          {
+            "en": "Al-Muyassar, which treats 25:41 and 25:42 together, supplies the other half in its paraphrase of the mockers' own admission: he nearly turned us from the worship of our idols bi-quwwati hujjatihi wa-bayanihi, by the strength of his argument and his clear speech, had we not held firm. On that reading the people laughing at the man concede that his case was hard to resist. As-Sa'di adds that whoever considers Muhammad ibn 'Abdillah ﷺ finds him foremost in intellect, knowledge, composure, chastity, courage, generosity and every noble trait.",
+            "bn": "মুয়াসসার ২৫:৪১ ও ২৫:৪২ আয়াত একসঙ্গে ব্যাখ্যা করে, আর বিদ্রূপকারীদের নিজেদের স্বীকারোক্তির ব্যাখ্যায় বাকি অর্ধেকটা জুড়ে দেয়। তারা বলছে, সে তো তার যুক্তির জোর আর কথার স্পষ্টতা দিয়ে, বি-কুওয়াতি হুজ্জাতিহী ওয়া বায়ানিহী, আমাদের মূর্তিপূজা থেকে প্রায় ফিরিয়েই দিয়েছিল, আমরা অটল না থাকলে। এ পাঠে যারা লোকটাকে নিয়ে হাসছে, তারাই মেনে নিচ্ছে যে তাঁর কথা ঠেকানো কঠিন ছিল। সা'দী আরও বলেন, মুহাম্মাদ ইবন আবদুল্লাহ ﷺ-এর অবস্থা যে ভেবে দেখবে, সে তাঁকে পাবে বুদ্ধি, জ্ঞান, স্থিরতা, পবিত্রতা, সাহস, দানশীলতা আর সব উত্তম গুণে সবার আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience Spent on the Wrong Cause",
+          "bn": "ভুল জায়গায় খরচ হওয়া ধৈর্য"
+        },
+        "p": [
+          {
+            "en": "Their speech closes in 25:42 with a boast: had we not been patient over them. Al-Qurtubi glosses the patience as habasna anfusana, we held ourselves to their worship; at-Tabari as our holding firm to it; Ibn Kathir as enduring, bracing themselves and carrying on. As-Sa'di observes that patience is praised in every setting except here, since it is patience upon the causes of Allah's anger. He sets it beside 38:6, where the chiefs tell each other to walk on and be patient over your gods, and against the believers of 103:3, who counsel each other to truth and to patience.",
+            "bn": "২৫:৪২ আয়াতে তাদের কথা শেষ হয় এক বড়াই দিয়ে: আমরা যদি তাদের উপর ধৈর্য ধরে না থাকতাম। কুরতুবী এ ধৈর্যের ব্যাখ্যা করেন হাবাসনা আনফুসানা দিয়ে, অর্থাৎ নিজেদের তাদের পূজায় আটকে রেখেছি। তাবারীর কাছে এর মানে তাতে অটল থাকা। ইবন কাসীরের ভাষায় সয়ে যাওয়া, শক্ত থাকা আর চালিয়ে যাওয়া। সা'দী বলেন, সব জায়গায় ধৈর্য প্রশংসনীয়, শুধু এখানে নয়। কারণ এ ধৈর্য আল্লাহর ক্রোধ ডেকে আনার উপকরণের উপর ধৈর্য। এর পাশে তিনি রাখেন ৩৮:৬, যেখানে নেতারা একে অন্যকে বলে, চলে যাও আর নিজেদের ইলাহদের উপর ধৈর্য ধরো। আর বিপরীতে রাখেন ১০৩:৩ আয়াতের মুমিনদের, যারা পরস্পরকে সত্য আর ধৈর্যের উপদেশ দেয়।"
+          },
+          {
+            "en": "The verse answers the boast with a warning: they will know, when they see the punishment, who is further astray. At-Tabari frames it as who has ridden off the road of guidance onto the path of ruin, you or they; al-Qurtubi adds that they saw it on the day of Badr. The passage then turns, in 25:43, to the man who takes his own desire as his god, a theme beyond this article. Here the point is narrower: the mockers took their stubbornness for steadfastness, and called it by that name.",
+            "bn": "আয়াতটি বড়াইয়ের জবাব দেয় এক সতর্কবাণী দিয়ে: যখন তারা শাস্তি দেখবে, তখন জানবে পথের দিক থেকে কে বেশি ভ্রষ্ট। তাবারী প্রশ্নটা রাখেন এভাবে: হেদায়াতের পথ ছেড়ে ধ্বংসের পথে কে চলেছে, তুমি, নাকি তারা? কুরতুবী যোগ করেন, বদরের দিনেই তারা তা দেখেছিল। এরপর ২৫:৪৩ আয়াতে আলোচনা ঘোরে সেই লোকের দিকে, যে নিজের খেয়ালখুশিকে ইলাহ বানিয়ে নেয়। সে এক আলাদা প্রসঙ্গ, এ লেখার সীমার বাইরে। এখানে কথাটা আরও ছোট: বিদ্রূপকারীরা নিজেদের জেদকে অবিচলতা ভেবেছিল, আর তাকে সেই নামেই ডেকেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Insults Aimed at Another Name",
+          "bn": "গালি গেল অন্য নামে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A narration in Sahih al-Bukhari, not tied to 25:41 and not reported as its occasion, shows how the Prophet ﷺ himself spoke of the abuse he received from Quraysh. Abu Hurayrah (RA) narrates that the Messenger of Allah ﷺ said: Doesn't it astonish you how Allah protects me from the Quraish's abusing and cursing? They abuse Mudhammam and curse Mudhammam while I am Muhammad (and not Mudhammam). It is number 3533 in the Darussalam numbering.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস জোড়েনি। সহীহ বুখারীতে একটি বর্ণনা আছে, যা ২৫:৪১ আয়াতের সঙ্গে যুক্ত নয়, আয়াতের নাযিলের উপলক্ষ হিসেবেও বর্ণিত নয়। তবে এতে দেখা যায়, কুরাইশের গালাগালির কথা নবী ﷺ নিজে কীভাবে বলতেন। আবু হুরায়রা (রাঃ) বর্ণনা করেন, রসূলুল্লাহ ﷺ বলেছেন: তোমরা কি অবাক হও না, আল্লাহ কীভাবে কুরাইশের গালি আর অভিশাপ আমার থেকে ফিরিয়ে দেন? তারা গালি দেয় মুযাম্মামকে, অভিশাপ দেয় মুযাম্মামকে, অথচ আমি মুহাম্মাদ। দারুসসালামের ক্রমে এটি ৩৫৩৩ নম্বর হাদীস।"
+          },
+          {
+            "en": "The translator's closing bracket makes the contrast explicit: the abuse was aimed at a name that was not his. What stands out in the narration is where the Prophet ﷺ turns his Companions' attention. He does not dwell on the insult or ask them to answer it. He asks them to wonder, a-la ta'jabuna, at how Allah turns it away from him. The verse records the mockery; the narration shows the mocked Prophet ﷺ looking past it to the protection of his Lord.",
+            "bn": "ইংরেজি অনুবাদক শেষে বন্ধনীতে জুড়ে দিয়েছেন, মুযাম্মাম নই। তাতে তফাতটা স্পষ্ট হয়: গালিটা গিয়েছিল এমন এক নামের দিকে, যা তাঁর নাম নয়। বর্ণনাটিতে চোখে পড়ার মতো হলো, নবী ﷺ সাহাবীদের মনোযোগ কোন দিকে ফেরান। তিনি অপমানটা নিয়ে পড়ে থাকেন না, তার জবাব দিতেও বলেন না। তিনি তাঁদের অবাক হতে বলেন, আলা তা'জাবূন, আল্লাহ কীভাবে তা তাঁর থেকে সরিয়ে দেন তা দেখে। আয়াতটি বিদ্রূপের কথা লিপিবদ্ধ করে। আর বর্ণনাটি দেখায়, যাঁকে বিদ্রূপ করা হচ্ছে, তিনি তা পেরিয়ে তাকিয়ে আছেন নিজের রবের হেফাজতের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "On Which Side of the Laughter",
+          "bn": "হাসির কোন পাশে আমি"
+        },
+        "p": [
+          {
+            "en": "The first lesson for the reader is not to be among those laughing. Truth often reaches us through someone we have already ranked: younger, poorer, less polished, from the wrong family or the wrong town. The taunt as-Sa'di takes apart, that the message would have suited someone else better, can be thought without being said. A reader who answers a reminder by remarking on who gave it has taken a step down the same road, however small the step and however good the reader's own faith.",
+            "bn": "পাঠকের জন্য প্রথম শিক্ষা: হাসিওয়ালাদের দলে না থাকা। সত্য প্রায়ই আমাদের কাছে আসে এমন কারও মাধ্যমে, যার একটা মান আমরা আগেই ঠিক করে রেখেছি। সে বয়সে ছোট, গরিব, কথাবার্তায় তেমন চৌকস নয়, কিংবা ভুল পরিবার বা ভুল এলাকার লোক। সা'দী যে খোঁটার ব্যবচ্ছেদ করেন, বার্তাটা অন্য কারও কাছে গেলেই বেশি মানাত, সে কথা মুখে না এনেও মনে মনে ভাবা যায়। কেউ উপদেশ দিলে যে পাঠক কথার বদলে বক্তাকে নিয়ে মন্তব্য করে, সে-ও ওই পথে এক পা এগোল। পা যত ছোটই হোক, আর তার নিজের ঈমান যত ভালোই হোক।"
+          },
+          {
+            "en": "The second lesson is for the person laughed at. In Ibn Kathir's English abridgement, Allah puts the mockers in their place with the reply that messengers before the Prophet ﷺ were mocked too. That is the comfort on offer: mockery of the bearer of truth is old, it is seen, and its answer belongs to Allah. Someone ridiculed for prayer, honesty or modesty can hold steady without returning the jibe. As-Sa'di's contrast shows what that patience is for: not clinging to old habits, but holding to the truth.",
+            "bn": "দ্বিতীয় শিক্ষা তার জন্য, যাকে নিয়ে হাসা হচ্ছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে আল্লাহ বিদ্রূপকারীদের তাদের জায়গা দেখিয়ে দেন এই জবাব দিয়ে যে, নবী ﷺ-এর আগের রসূলদেরও ঠাট্টা করা হয়েছিল। সান্ত্বনা এটুকুই। সত্যের বাহককে নিয়ে বিদ্রূপ নতুন কিছু নয়, আল্লাহ তা দেখছেন, আর তার জবাব তাঁরই হাতে। নামাজ, সততা বা লজ্জাশীলতার জন্য যাকে ঠাট্টা শুনতে হয়, সে পাল্টা খোঁচা না দিয়েও অটল থাকতে পারে। সা'দীর তুলনা দেখিয়ে দেয় এ ধৈর্য কীসের জন্য। পুরোনো অভ্যাস আঁকড়ে থাকার জন্য নয়, সত্যকে ধরে রাখার জন্য।"
+          },
+          {
+            "en": "Last, the verse shows what mockery is often for. In as-Sa'di's reading it hardened the mockers in what they held and kept the weak from listening; in al-Muyassar's, the people laughing all but admitted that the argument had nearly moved them. When a jest rises in me at someone's reminder, it is worth asking which of these it serves. The honest response to a hard word is to weigh it first. The laugh, if still owed, can wait until the weighing is done.",
+            "bn": "শেষ কথা, ঠাট্টা প্রায়ই কোন কাজে লাগে, আয়াতটি তা-ও দেখিয়ে দেয়। সা'দীর পাঠে ঠাট্টা বিদ্রূপকারীদের নিজেদের অবস্থানে আরও শক্ত করেছিল, আর দুর্বলদের শুনতে দেয়নি। মুয়াসসারের পাঠে হাসতে থাকা লোকেরা প্রায় মেনেই নিয়েছিল যে যুক্তিটা তাদের টলিয়ে দিচ্ছিল। কারও উপদেশ শুনে যখন আমার মুখে ঠাট্টা চলে আসে, তখন নিজেকে জিজ্ঞেস করা দরকার, এ ঠাট্টা কোনটার কাজ করছে। কঠিন কথার সৎ জবাব হলো আগে তা ওজন করা। হাসার মতো কিছু থাকলে, ওজন শেষ হওয়া পর্যন্ত তা অপেক্ষা করতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "25:47": {
     "sections": [
       {
