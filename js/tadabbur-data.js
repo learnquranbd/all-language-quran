@@ -26709,6 +26709,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Reminder was not withdrawn from those who turned away. Take Allah's patience as time to return, not as approval, and do not give up on calling others to good.",
     "lessonBn": "যারা মুখ ফিরিয়েছিল, তাদের কাছ থেকেও উপদেশ তুলে নেওয়া হয়নি। আল্লাহর ধৈর্যকে সমর্থন নয়, ফিরে আসার সময় হিসেবে নিন, আর অন্যকে ভালোর দিকে ডাকা ছেড়ে দেবেন না।"
+  },
+  "42:23": {
+    "reflectionEn": "The verse opens on good news: the gardens just described are what Allah promises those who believe and do good. Then the Prophet ﷺ is told to say that he asks no payment for bringing it. The one thing he names, love in kinship, is read in more than one way, and each reading asks something of the listener: honour the tie that binds you to him, love those who are close to him, or draw near to Allah through obedience. None of them is a fee. Then comes a promise: whoever earns one good deed is given more good in it, by a Lord who forgives much and appreciates little. Which good thing am I doing only for what it will pay me back?",
+    "reflectionBn": "আয়াতটি শুরু হয় সুসংবাদ দিয়ে। আগের আয়াতে জান্নাতের যে বাগিচার কথা এল, ঈমান এনে সৎকাজ করা বান্দাদের জন্য আল্লাহ তারই সুখবর দিচ্ছেন। তারপর নবী ﷺ-কে বলতে বলা হয়, এ বার্তা পৌঁছে দেওয়ার জন্য তিনি কোনো পারিশ্রমিক চান না। একটা জিনিসের কথাই শুধু তিনি তোলেন: আত্মীয়তার ভালোবাসা। এর ব্যাখ্যা একাধিক, আর প্রতিটি ব্যাখ্যাই শ্রোতার কাছে কিছু চায়। তাঁর সঙ্গে আপনার যে আত্মীয়তার বাঁধন, তার হক আদায় করুন। তাঁর আপনজনদের ভালোবাসুন। কিংবা আনুগত্য দিয়ে আল্লাহর নৈকট্য খুঁজুন। এর কোনোটাই পারিশ্রমিক নয়। এরপর আসে এক প্রতিশ্রুতি: কেউ একটা নেকি অর্জন করলে তাতে আরও কল্যাণ বাড়িয়ে দেওয়া হয়। বাড়িয়ে দেন সেই রব, যিনি অনেক ক্ষমা করেন আর অল্পেরও কদর করেন। আমার কোন ভালো কাজটা আমি করছি শুধু এর বদলে কী ফেরত পাব সেই হিসাবে?",
+    "pointsEn": [
+      "Do I treat the good I do for others as a debt they now owe me, or as something I would have done unpaid?",
+      "Which family tie have I let go cold over a disagreement, and what would it take to keep it warm while the disagreement stands?",
+      "When the Prophet's ﷺ family is mentioned, does my heart answer with love and respect, or only with an argument?",
+      "Which small good deed have I been dismissing as too little to matter, when the verse promises that it will be increased?",
+      "Do I believe that I am forgiven much and appreciated for little, and does that belief make me quicker to begin again?"
+    ],
+    "pointsBn": [
+      "অন্যের জন্য যে ভালো করি, তাকে কি আমি এমন ঋণ ভাবি যা এখন তাদের শোধ করতে হবে? নাকি কোনো বিনিময় ছাড়াও আমি সেটা করতাম?",
+      "কোনো মতভেদের কারণে কোন আত্মীয়ের সঙ্গে সম্পর্কটা আমি ঠান্ডা হতে দিয়েছি? মতভেদ থেকে গেলেও সম্পর্কের উষ্ণতা ধরে রাখতে আমাকে কী করতে হবে?",
+      "নবী ﷺ-এর পরিবারের কথা উঠলে আমার মন কি ভালোবাসা আর শ্রদ্ধায় সাড়া দেয়, নাকি শুধু তর্কের দিকে ছোটে?",
+      "কোন ছোট্ট নেক আমলকে আমি এত তুচ্ছ ভেবে বাদ দিচ্ছি, অথচ আয়াত কথা দিচ্ছে যে তা বাড়িয়ে দেওয়া হবে?",
+      "আমাকে অনেক ক্ষমা করা হয় আর অল্পেরও কদর করা হয়, এ কথা কি আমি সত্যিই বিশ্বাস করি? সেই বিশ্বাস কি আমাকে আবার নতুন করে শুরু করতে তাড়া দেয়?"
+    ],
+    "lessonEn": "Give your good freely without asking a return, keep the ties of kinship, and trust that Allah adds to every good deed and forgives much.",
+    "lessonBn": "বিনিময়ের আশা না করে উদার হাতে ভালো করুন, আত্মীয়তার বাঁধন রক্ষা করুন, আর ভরসা রাখুন যে আল্লাহ প্রতিটি নেক কাজে আরও বাড়িয়ে দেন এবং অনেক ক্ষমা করেন।"
   }
 };
 

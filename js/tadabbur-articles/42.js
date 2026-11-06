@@ -895,6 +895,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "42:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "Good News After the Gardens",
+          "bn": "বাগিচার পরেই সুখবর"
+        },
+        "p": [
+          {
+            "en": "Dhalika alladhi yubashshiru Allahu 'ibadahu alladhina amanu wa 'amilu al-salihat: that is what Allah gives as good tidings to His servants who believe and do righteous deeds. The pointer reaches back to 42:22 and the believers in the meadows of the gardens. At-Tabari names it: the bliss and honour prepared for them in the Hereafter. Ibn Kathir reads the sentence as a guarantee, since Allah Himself announces it. Al-Qurtubi gives the reason for announcing it early: that the believers may have their joy in advance and grow more eager in obedience.",
+            "bn": "যালিকাল্লাযী ইউবাশশিরুল্লাহু ইবাদাহুল্লাযীনা আমানূ ওয়া আমিলুস সালিহাত: এটাই সেই সুসংবাদ, যা আল্লাহ দেন তাঁর সেই বান্দাদের, যারা ঈমান এনেছে ও সৎকাজ করেছে। 'এটাই' শব্দটা ইশারা করে পেছনে, ৪২:২২ আয়াতের দিকে, যেখানে মুমিনরা জান্নাতের বাগিচায়। তাবারী জিনিসটার নাম বলে দেন: আখিরাতে তাদের জন্য তৈরি রাখা নিয়ামত ও সম্মান। ইবন কাসীর বাক্যটিকে পড়েন নিশ্চয়তা হিসেবে, কারণ খবরটা আল্লাহ নিজেই দিচ্ছেন। আগেভাগে খবর দেওয়ার কারণ বলেন কুরতুবী: মুমিনরা যেন আনন্দটা আগেই পেয়ে যায়, আর আনুগত্যে তাদের আগ্রহ আরও বাড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Call That Charges Nothing",
+          "bn": "যে দাওয়াতের কোনো দাম নেই"
+        },
+        "p": [
+          {
+            "en": "Qul la as'alukum 'alayhi ajran: say, I ask of you no reward for it. In at-Tabari the words go to those of his people who disputed with him about the Hour: I ask no wage from your wealth for calling you to the truth and for my sincere advice. As-Sa'di widens what is refused: not your wealth, not authority over you, nor any other aim. Ibn Kathir adds what is asked instead: hold back your harm and let me deliver my Lord's messages; if you will not help me, do not hurt me.",
+            "bn": "কুল লা আসআলুকুম আলাইহি আজরা: বলুন, এর জন্য আমি তোমাদের কাছে কোনো প্রতিদান চাই না। তাবারীর ব্যাখ্যায় নবী ﷺ কথাটা বলছেন নিজের কওমের সেই লোকদের, যারা কিয়ামত নিয়ে তাঁর সঙ্গে তর্ক করত। যে সত্য আমি নিয়ে এসেছি তার দিকে ডাকার জন্য, আর যে আন্তরিক উপদেশ দিচ্ছি তার জন্য, তোমাদের সম্পদ থেকে কোনো মজুরি বা বিনিময় আমি চাই না। সা'দী প্রত্যাখ্যানের পরিধিটা বাড়িয়ে দেন: সম্পদ নয়, তোমাদের উপর কর্তৃত্ব বা নেতৃত্বও নয়, অন্য কোনো স্বার্থও নয়। ইবন কাসীর জানান, তাহলে চাওয়া হচ্ছে কী। তোমাদের অনিষ্ট থেকে আমাকে রেহাই দাও, রবের বার্তা পৌঁছাতে দাও। সাহায্য না করলে অন্তত কষ্ট দিয়ো না।"
+          },
+          {
+            "en": "Then comes illa al-mawaddata fi l-qurba, and the commentators pause on illa, except. Al-Qurtubi quotes az-Zajjaj that the exception is not of the same kind as what precedes it, and at-Tabari calls it disconnected: I ask no wage, but I do ask for love in kinship. Al-Baghawi concludes that this is no wage for delivering the message, and as-Sa'di that its benefit returns to them, so it is no wage at all. Ma'arif al-Qur'an recalls that every prophet said his reward lay with Allah alone.",
+            "bn": "এরপর আসে ইল্লাল মাওয়াদ্দাতা ফিল কুরবা, আর তাফসীরকারেরা থামেন 'ইল্লা', অর্থাৎ 'তবে' শব্দটিতে। কুরতুবী যাজ্জাজের কথা উদ্ধৃত করেন: এই ব্যতিক্রম আগের জিনিসের জাতের নয়। তাবারী একে বলেন বিচ্ছিন্ন ব্যতিক্রম। মানে দাঁড়ায়, কোনো মজুরি চাই না, তবে আত্মীয়তার ভালোবাসা চাই। বাগাভী এর ফল টেনে বলেন, রিসালাত পৌঁছানোর বদলে এটা কোনো মজুরি নয়। সা'দীর কথায়, যা চাওয়া হচ্ছে তার উপকার ফিরে যায় তাদেরই কাছে, কাজেই তা আদৌ মজুরি নয়। মাআরিফুল কুরআন মনে করিয়ে দেয়, প্রত্যেক নবীই নিজের কওমকে বলেছেন, তাঁর প্রতিদান কেবল আল্লাহর কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Kinship, Which Love",
+          "bn": "কার আত্মীয়তা, কোন ভালোবাসা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens the question plainly: the people of interpretation differed. Some took the words as spoken to Quraysh: love me for my kinship with you, and keep the tie of womb between us. Ash-Sha'bi relates from Ibn 'Abbas that no clan of Quraysh lacked kinship with the Prophet ﷺ. Abu Malik spells it out: his own clan was Banu Hashim, his mother's Banu Zuhra, his father's mother's Banu Makhzum. Ikrima, in al-Qurtubi, adds that Quraysh kept their ties of kin, then cut him off once he was sent.",
+            "bn": "তাবারী প্রশ্নটা সোজাসুজি তোলেন: তাফসীরবিদদের মধ্যে মতভেদ হয়েছে। কেউ কেউ বলেছেন, কথাটা কুরাইশকে বলা। আমার সঙ্গে তোমাদের যে আত্মীয়তা, তার খাতিরে আমাকে ভালোবাসো, আমাদের মাঝের রক্তের সম্পর্ক রক্ষা করো। শা'বী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, কুরাইশের এমন কোনো শাখা ছিল না, যাদের সঙ্গে নবী ﷺ-এর আত্মীয়তা নেই। আবু মালিক খুলে বলেন: তাঁর নিজের গোত্র বনু হাশিম, মায়ের বনু যুহরা, আর দাদির বনু মাখযূম। কুরতুবীর বর্ণনায় ইকরিমা যোগ করেন, কুরাইশ আত্মীয়তার বাঁধন রক্ষা করত, কিন্তু তিনি নবী হওয়ার পর তাঁর সঙ্গেই সম্পর্ক ছিন্ন করল।"
+          },
+          {
+            "en": "A second group read al-qurba as the Prophet's ﷺ own kin; at-Tabari frames it as words to his believing followers: I ask no wage except that you love my relatives. Among those he cites are Sa'id ibn Jubayr and 'Amr ibn Shu'ayb, who answered simply: the kin of the Prophet ﷺ. Al-Qurtubi adds 'Ali ibn al-Husayn and as-Suddi; Ibn Kathir glosses the view as treating them well. Al-Baghawi notes a further difference over who they are: Fatima, 'Ali and their sons, or Banu Hashim and Banu al-Muttalib, who are barred from charity.",
+            "bn": "আরেক দল আল-কুরবা বলতে বুঝেছেন নবী ﷺ-এর নিজের আত্মীয়দের। তাবারী এ মতকে সাজান অনুসারী মুমিনদের প্রতি কথা হিসেবে: তোমাদের কাছে কোনো মজুরি চাই না, শুধু চাই তোমরা আমার আত্মীয়দের ভালোবাসো। এ মতের পক্ষে তিনি যাঁদের নাম আনেন, তাঁদের মধ্যে আছেন সাঈদ ইবন জুবাইর ও আমর ইবন শুআইব। আমরের উত্তর ছিল ছোট্ট: নবী ﷺ-এর আত্মীয়স্বজন। কুরতুবী এ তালিকায় যোগ করেন আলী ইবনুল হুসাইন ও সুদ্দীকে। ইবন কাসীর এ মতের ব্যাখ্যা দেন: তাঁদের সঙ্গে সদাচরণ ও সদ্ব্যবহার করা। বাগাভী জানান, এরপর মতভেদ হয়েছে তাঁরা কারা, তা নিয়ে। কারও মতে ফাতিমা, আলী ও তাঁদের সন্তানেরা। কারও মতে যাঁদের জন্য সদকা নিষিদ্ধ, অর্থাৎ বনু হাশিম ও বনুল মুত্তালিব।"
+          },
+          {
+            "en": "A third group took qurba as nearness to Allah; al-Qurtubi notes that qurbah and qurbā mean the same, like zulfah and zulfā. At-Tabari gives it from al-Hasan al-Basri: except drawing near to Allah and seeking His love through righteous deeds, and from Qatada in like words. He also relates, through Mujahid from Ibn 'Abbas, a report giving it as the Prophet's ﷺ words: except that you love Allah and draw near to Him by obeying Him. A fourth view, from 'Abdullah ibn al-Qasim, reads it as an order to keep your own kin.",
+            "bn": "তৃতীয় একদল কুরবা শব্দকে নিয়েছেন আল্লাহর নৈকট্য অর্থে। কুরতুবী বুঝিয়ে দেন, কুরবাহ আর কুরবা একই অর্থের, যেমন যুলফাহ আর যুলফা। তাবারী এ মত আনেন হাসান বসরী থেকে, যিনি বলেছেন: আল্লাহর নৈকট্য লাভ আর নেক আমলের মাধ্যমে তাঁর ভালোবাসা খোঁজা ছাড়া আর কিছু নয়। কাতাদা থেকেও প্রায় একই কথা তিনি আনেন। মুজাহিদের সূত্রে ইবন আব্বাস (রাঃ) থেকে তিনি এমন এক বর্ণনাও আনেন, যেখানে কথাটা নবী ﷺ-এর নিজের মুখে: তবে এটুকু চাই যে তোমরা আল্লাহকে ভালোবাসো আর তাঁর আনুগত্য করে তাঁর নৈকট্য খোঁজো। তাবারীতে চতুর্থ একটি মতও আছে, আবদুল্লাহ ইবনুল কাসিম থেকে: নিজের আত্মীয়দের সঙ্গে সম্পর্ক রক্ষার নির্দেশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "You Have Hurried, Said Ibn 'Abbas",
+          "bn": "তুমি তাড়াহুড়া করলে"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari's Sahih, 4818, quoted here by Ibn Kathir and al-Baghawi, reads in the Dar-us-Salam English: \"Narrated Ibn 'Abbas: That he was asked (regarding): \"Except to be kind to me for my Kinship with you.' (42.23) Sa'id bin Zubair (who was present then) said, \"It means here (to show what is due for) the relatives of Muhammad.\" On that Ibn 'Abbas said: you have hurried in giving the answer! There was no branch of the tribe of Quraish but the Prophet (ﷺ) had relatives therein. The Prophet (ﷺ) said, \"I do not want anything from (you ) except to be Kind to me for my Kinship with you.\"\"",
+            "bn": "প্রথম দুটি মত মুখোমুখি হয় বুখারীর সহীহ গ্রন্থের ৪৮১৮ নম্বর বর্ণনায়, যা ইবন কাসীর ও বাগাভী এ আয়াতের আলোচনায় উদ্ধৃত করেন। বর্ণনাটি এই: ইবন আব্বাস (রাঃ)-কে 'ইল্লাল মাওয়াদ্দাতা ফিল কুরবা' (৪২.২৩) সম্পর্কে জিজ্ঞেস করা হলো। সাঈদ ইবন জুবাইর বললেন, এর মানে মুহাম্মাদ ﷺ-এর পরিবারের আত্মীয়তা। তখন ইবন আব্বাস বললেন: তুমি তাড়াহুড়া করলে! কুরাইশের এমন কোনো শাখা ছিল না, যাদের মধ্যে নবী ﷺ-এর আত্মীয়তা ছিল না। তিনি বলেছিলেন: শুধু এটুকু যে, আমার আর তোমাদের মাঝে যে আত্মীয়তা আছে, তোমরা তা রক্ষা করো।"
+          },
+          {
+            "en": "Two things are worth noticing. The Arabic of the closing words is illa an tasilu ma bayni wa baynakum min al-qaraba, except that you keep the kinship between me and you, which the English renders as kindness to me for my kinship. And the hadith preserves both names: Sa'id ibn Jubayr's answer is the second reading, Ibn 'Abbas's correction the first, and al-Baghawi and Ibn Kathir still list Sa'id's view among the opinions on the verse. Ibn Kathir adds that Ahmad also records the report from Shu'ba.",
+            "bn": "দুটি বিষয় লক্ষ করার মতো। শেষ বাক্যের আরবি হলো ইল্লা আন তাসিলূ মা বাইনী ওয়া বাইনাকুম মিনাল কারাবা: তবে এটুকু যে, আমার আর তোমাদের মাঝের আত্মীয়তা তোমরা রক্ষা করো। ইংরেজি অনুবাদে একে বলা হয়েছে আত্মীয়তার খাতিরে আমার প্রতি সদয় হওয়া। দ্বিতীয়ত, হাদীসটি দুজনের নামই ধরে রেখেছে। সাঈদ ইবন জুবাইরের উত্তর হলো দ্বিতীয় মত, আর ইবন আব্বাসের সংশোধন প্রথম মত। বাগাভী ও ইবন কাসীর এই কথোপকথন উদ্ধৃত করেও সাঈদের মতটি আয়াতের ব্যাখ্যাগুলোর তালিকায় রেখে দেন। ইবন কাসীর জানান, ইমাম আহমাদও শু'বা থেকে বর্ণনাটি এনেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Weight of One Preposition",
+          "bn": "একটি অব্যয়ের ভার"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the question open. The reading he judges most likely right, and closest to the plain wording, is: I ask no wage, people of Quraysh, except that you love me for my kinship with you and keep the tie between us. His argument is grammatical. Love my kin would be mawaddat al-qurba; drawing near to Allah would be al-mawadda bi-l-qurba. The presence of fi, in, is for him the clearest proof that the sense is my love in my kinship among you.",
+            "bn": "তাবারী প্রশ্নটা খোলা রাখেন না। তাঁর বিচারে সবচেয়ে সঠিক আর আয়াতের বাহ্যিক শব্দের সবচেয়ে কাছের ব্যাখ্যা এই: হে কুরাইশ, তোমাদের কাছে কোনো মজুরি চাই না, শুধু চাই তোমাদের সঙ্গে আমার আত্মীয়তার খাতিরে আমাকে ভালোবাসো আর আমাদের মাঝের বাঁধনটা রক্ষা করো। তাঁর যুক্তি ব্যাকরণের। অর্থ যদি হতো 'আমার আত্মীয়দের ভালোবাসো', তবে আয়াতে থাকত মাওয়াদ্দাতাল কুরবা। আর যদি হতো আল্লাহর নৈকট্য, তবে থাকত আল-মাওয়াদ্দাতা বিল কুরবা। তাঁর মতে 'ফী' অব্যয়টির উপস্থিতিই সবচেয়ে স্পষ্ট প্রমাণ যে মানে হলো: তোমাদের মধ্যে আমার আত্মীয়তার কারণে আমার প্রতি ভালোবাসা।"
+          },
+          {
+            "en": "Ibn Kathir reaches the same place by another road: the right interpretation is the one Ibn 'Abbas gave, as al-Bukhari relates, and Ma'arif al-Qur'an calls it the view of most commentators. As-Sa'di offers two possibilities, love of the Prophet ﷺ for kinship over and above what faith owes him, or a sincere love of Allah shown in drawing near to Him, and on either nothing is asked as a wage. Al-Qurtubi and al-Baghawi set the readings side by side. This article leaves the weighing with them.",
+            "bn": "ইবন কাসীর অন্য পথ ধরে একই জায়গায় পৌঁছান। তাঁর মতে সঠিক ব্যাখ্যা সেটাই, যা ইবন আব্বাস (রাঃ) দিয়েছেন, যেমনটা বুখারী বর্ণনা করেছেন। মাআরিফুল কুরআন বলে, অধিকাংশ তাফসীরকার এ মতই গ্রহণ করেছেন। সা'দী দুটি সম্ভাবনা দেখান। একটি হলো আত্মীয়তার খাতিরে নবী ﷺ-কে ভালোবাসা, যা ঈমানের দাবি হিসেবে তাঁর প্রতি যে ভালোবাসা ফরয, তার চেয়েও বাড়তি। অন্যটি হলো আল্লাহর প্রতি খাঁটি ভালোবাসা, যার প্রকাশ তাঁর নৈকট্য খোঁজায়। দুই অর্থেই মজুরি হিসেবে কিছু চাওয়া হচ্ছে না। কুরতুবী ও বাগাভী মতগুলো পাশাপাশি সাজিয়ে রাখেন। পাল্লা কোন দিকে ভারী, এ লেখা সে বিচার তাঁদের হাতেই রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Occasions Told, Then Tested",
+          "bn": "শানে নুযূল, তারপর যাচাই"
+        },
+        "p": [
+          {
+            "en": "Several occasions are reported, and the commentators who relay them also test them. At-Tabari and Ibn Kathir carry a report through Miqsam from Ibn 'Abbas: the Ansar boasted of their deeds, the Prophet ﷺ reminded them that Allah had honoured and guided them through him, they knelt and offered their wealth, and the verse came down. Ibn Kathir names a weak narrator in its chain, Yazid ibn Abi Ziyad, and doubts a Madinan setting: the surah is Makkan, and he sees no fit between the verse and that story.",
+            "bn": "আয়াতটির কয়েকটি শানে নুযূল বর্ণিত হয়েছে, আর যাঁরা তা বর্ণনা করেন, তাঁরা নিজেরাই তা যাচাইও করেন। তাবারী ও ইবন কাসীর মিকসামের সূত্রে ইবন আব্বাস (রাঃ) থেকে এক বর্ণনা আনেন। আনসাররা নিজেদের কৃতিত্ব নিয়ে গর্ব করছিলেন। নবী ﷺ তাঁদের মনে করিয়ে দিলেন, আল্লাহ তাঁর মাধ্যমেই তাঁদের সম্মান ও হিদায়াত দিয়েছেন। তাঁরা হাঁটু গেড়ে বসে নিজেদের সম্পদ পেশ করলেন, আর তখন আয়াতটি নাযিল হলো। ইবন কাসীর এর সনদে একজন দুর্বল বর্ণনাকারীর নাম বলেন: ইয়াযীদ ইবন আবী যিয়াদ। তিনি আরও বলেন, মদীনায় নাযিল হওয়ার কথাটা প্রশ্নসাপেক্ষ। সূরাটি মাক্কী, আর ওই ঘটনার সঙ্গে আয়াতের কোনো মিল তিনি দেখেন না।"
+          },
+          {
+            "en": "A second report, from Sa'id ibn Jubayr via Ibn 'Abbas, has the Companions ask whom they are commanded to love, and the answer names Fatima and her children; al-Qurtubi's version names 'Ali, Fatima and their two sons. Ibn Kathir calls the chain weak, with an unnamed man and a narrator whose report he will not accept here. He adds chronology: the surah is Makkan, and Fatima had no children then, having married 'Ali only after Badr, in the second year of the Hijra. Ma'arif al-Qur'an also calls it weak.",
+            "bn": "দ্বিতীয় বর্ণনাটি সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ) থেকে। সাহাবীরা জিজ্ঞেস করলেন, যাঁদের ভালোবাসার আদেশ এল, তাঁরা কারা? উত্তরে এল ফাতিমা ও তাঁর সন্তানদের নাম। কুরতুবীর এক বর্ণনায় আছে আলী, ফাতিমা ও তাঁদের দুই ছেলের নাম। ইবন কাসীর এর সনদকে দুর্বল বলেন। এতে এক অজ্ঞাতনামা ব্যক্তি আছে, আর আছেন এমন এক বর্ণনাকারী, যাঁর বর্ণনা এ বিষয়ে তিনি গ্রহণ করেন না। সময়ের হিসাব থেকেও তিনি আপত্তি তোলেন। সূরাটি মাক্কী, আর তখন ফাতিমার কোনো সন্তানই ছিল না। আলীর সঙ্গে তাঁর বিয়েই হয়েছে বদরের পরে, হিজরতের দ্বিতীয় বছরে। মাআরিফুল কুরআনও বর্ণনাটিকে দুর্বল বলে।"
+          },
+          {
+            "en": "Al-Qurtubi relays a Makkan occasion from Qatada: the idolaters said Muhammad perhaps wanted a wage, and the verse came down; ath-Tha'labi found this the better fit. Ad-Dahhak and al-Husayn ibn al-Fadl held the verse abrogated by 34:47, whatever payment I asked of you is yours. Al-Baghawi rejects this: loving the Prophet ﷺ, sparing him harm, loving his kin and drawing near to Allah are obligations that cannot be abrogated. No occasion here is firm enough to lean on, so this article reads the verse where it stands.",
+            "bn": "কুরতুবী কাতাদা থেকে মক্কার এক প্রেক্ষাপট আনেন। মুশরিকরা বলেছিল, মুহাম্মাদ হয়তো এসব করছে কোনো মজুরির আশায়, তখন আয়াতটি নাযিল হয়। তিনি জানান, সা'লাবীর মতে এ বর্ণনাই আয়াতের সঙ্গে বেশি মানানসই। দাহহাক ও হুসাইন ইবনুল ফাদল বলেছিলেন, ৩৪:৪৭ আয়াত এ আয়াতকে রহিত করেছে: যে প্রতিদানই তোমাদের কাছে চেয়ে থাকি, তা তোমাদেরই। বাগাভী এ মত নাকচ করেন। নবী ﷺ-কে ভালোবাসা, তাঁকে কষ্ট না দেওয়া, তাঁর আত্মীয়দের ভালোবাসা আর আনুগত্য দিয়ে আল্লাহর নৈকট্য খোঁজা, সবই দ্বীনের ফরয, এর কোনোটাই রহিত হতে পারে না। এখানকার কোনো শানে নুযূলই ভর দেওয়ার মতো মজবুত নয়। তাই এ লেখা আয়াতটিকে পড়ে তার নিজের জায়গাতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour Nobody Disputes",
+          "bn": "যে সম্মান নিয়ে বিতর্ক নেই"
+        },
+        "p": [
+          {
+            "en": "Whichever reading they prefer, the commentators who doubt the Madinan reports do not lower the Prophet's ﷺ household. Ibn Kathir, right after siding with Ibn 'Abbas, writes that the counsel to treat the people of the House well, to respect and honour them, is not to be denied, for they come of a pure lineage, the noblest house on the face of the earth. Ma'arif al-Qur'an says love for the Prophet's ﷺ family has never been disputed in the community, which takes it unanimously as a requirement of faith.",
+            "bn": "যে মতই তাঁরা পছন্দ করুন, মদীনার বর্ণনাগুলোতে যাঁরা সন্দেহ করেন, তাঁরা নবী ﷺ-এর পরিবারের মর্যাদা এতটুকু খাটো করেন না। ইবন আব্বাসের মত বেছে নেওয়ার ঠিক পরেই ইবন কাসীর লেখেন, আহলে বাইত সম্পর্কে যে ওসিয়ত, তাঁদের সঙ্গে সদ্ব্যবহার, তাঁদের সম্মান ও কদর করার যে নির্দেশ, তা অস্বীকার করার উপায় নেই। কারণ তাঁরা এক পবিত্র বংশধারা, পৃথিবীর বুকে সবচেয়ে সম্ভ্রান্ত ঘরের মানুষ। মাআরিফুল কুরআন বলে, নবী ﷺ-এর পরিবারের প্রতি ভালোবাসা উম্মাহর মধ্যে কখনো বিতর্কের বিষয় ছিল না। গোটা উম্মাহ একমত হয়ে একে ঈমানের দাবি হিসেবে মেনেছে।"
+          },
+          {
+            "en": "Ibn Kathir and al-Baghawi both quote, through al-Bukhari's chain, a saying of Abu Bakr. Sahih al-Bukhari 3713 gives it in the Dar-us-Salam English as: \"Abu Bakr: Look at Muhammad through his family (i.e. if you are no good to his family you are not good to him).\" These are a Companion's words, and they are not tied to this verse. And whichever reading one holds, al-Baghawi counts love of the Prophet's ﷺ kin among the obligations of the religion that no abrogation can touch.",
+            "bn": "ইবন কাসীর ও বাগাভী দুজনেই বুখারীর সনদে আবু বকর (রাঃ)-এর একটি উক্তি আনেন। সহীহ বুখারী ৩৭১৩-এ তা এসেছে এভাবে: মুহাম্মাদ ﷺ-এর পরিবারের ব্যাপারে তাঁর দিকে খেয়াল রাখো। ইংরেজি অনুবাদে বন্ধনীতে ব্যাখ্যা দেওয়া হয়েছে: তাঁর পরিবারের প্রতি তুমি ভালো না হলে তাঁর প্রতিও ভালো নও। এটা একজন সাহাবীর কথা, আর এ আয়াতের সঙ্গে এর সরাসরি যোগ নেই। আর যে ব্যাখ্যাই কেউ গ্রহণ করুক, বাগাভী নবী ﷺ-এর আত্মীয়দের ভালোবাসাকে দ্বীনের সেই ফরযগুলোর মধ্যে গণ্য করেন, যা কখনো রহিত হতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Good Deed, Then More",
+          "bn": "একটি নেকি, তারপর আরও"
+        },
+        "p": [
+          {
+            "en": "Wa man yaqtarif hasanatan nazid lahu fiha husna: and whoever earns a good deed, We increase for him good in it. Al-Qurtubi traces the verb: the root qarf means earning, as when a man is said to yaqrifu for his family, and iqtiraf is acquiring. Ibn Zayd, in at-Tabari, says simply that iqtiraf is doing. At-Tabari names the deed: an act in which a believer obeys Allah. As-Sa'di gives examples: prayer, fasting, Hajj, or kindness to other people.",
+            "bn": "ওয়া মান ইয়াকতারিফ হাসানাতান নাযিদ লাহূ ফীহা হুসনা: আর যে একটি নেকি অর্জন করে, আমি তাতে তার জন্য কল্যাণ আরও বাড়িয়ে দিই। কুরতুবী ক্রিয়াটির শিকড় খোঁজেন। কারফ ধাতুর মূল অর্থ উপার্জন। কেউ পরিবারের জন্য রোজগার করলে আরবরা বলে, সে তাদের জন্য ইয়াকরিফু। আর ইকতিরাফ মানে অর্জন করা। তাবারীতে ইবন যায়দ সোজা বলেন, ইকতিরাফ মানে আমল করা। তাবারী আমলটা চিনিয়ে দেন: এমন কাজ, যাতে কোনো মুমিন আল্লাহর আনুগত্য করে। সা'দী উদাহরণ দেন: নামায, রোযা, হজ, কিংবা মানুষের প্রতি সদাচরণ।"
+          },
+          {
+            "en": "The commentators describe the increase in two ways. At-Tabari and the Muyassar make it multiplication: in place of one, ten, and onward to whatever reward Allah wills. Ibn Kathir reads it as reward and sets beside it 4:40: if there is a good deed, He multiplies it and gives from Himself a great reward. He then quotes one of the early generations: part of the reward of a good deed is the good deed after it, and part of the recompense of a bad deed is the bad deed after it.",
+            "bn": "এই বৃদ্ধিকে তাফসীরকারেরা দুই রকমভাবে বর্ণনা করেন। তাবারী ও মুয়াসসারের কাছে এটা গুণ করে বাড়ানো: একটির জায়গায় দশটি, তারপর আল্লাহ যত প্রতিদান চান ততদূর। ইবন কাসীর একে পড়েন সওয়াব হিসেবে, আর পাশে রাখেন ৪:৪০ আয়াত: কোনো নেকি থাকলে আল্লাহ তা বহুগুণ করেন এবং নিজের পক্ষ থেকে বিরাট প্রতিদান দেন। এরপর তিনি পূর্বসূরিদের একজনের কথা আনেন: নেকির প্রতিদানের একটা অংশ হলো তার পরের নেকি, আর গুনাহর শাস্তির একটা অংশ হলো তার পরের গুনাহ।"
+          },
+          {
+            "en": "As-Sa'di carries that into the doer's own life. The increase, he says, is that Allah opens his chest and eases his affairs; the deed becomes a cause of being granted another; his standing rises with Allah and with people, and reward reaches him now and later. On this reading the verse that began with gardens in the next world reaches into this one too, and a single good act does not stay single.",
+            "bn": "সা'দী কথাটাকে আমলকারীর জীবনের ভেতরে টেনে আনেন। তাঁর মতে বৃদ্ধি মানে, আল্লাহ তার বুক খুলে দেন, কাজকর্ম সহজ করে দেন। একটি নেক কাজ আরেকটি নেক কাজের তাওফীকের উপলক্ষ হয়ে যায়। আল্লাহর কাছে ও মানুষের কাছে তার মর্যাদা উঁচু হয়, আর সে দুনিয়াতেও প্রতিদান পায়, আখিরাতেও। এই ব্যাখ্যায়, যে আয়াত শুরু হয়েছিল পরকালের বাগিচা দিয়ে, তার প্রতিশ্রুতি এই দুনিয়াতেও এসে পৌঁছায়। একটি নেক কাজ একা থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgiving Much, Thanking Little",
+          "bn": "অনেক ক্ষমা, অল্পেরও কদর"
+        },
+        "p": [
+          {
+            "en": "The verse ends inna Allaha ghafurun shakur: Allah is Forgiving, Appreciative. At-Tabari reads it as forgiving of His servants' sins, appreciative of their good deeds and obedience. Qatada, through him, says: forgiving of sins, appreciative of good deeds, which He multiplies. Ibn Zayd turns the gratitude around: He forgave them their sins, and thanked them for blessings that He Himself had given them and placed in them. Ibn Kathir puts the pair as a balance: He forgives many bad deeds and makes much of a few good ones.",
+            "bn": "আয়াত শেষ হয় ইন্নাল্লাহা গাফূরুন শাকূর দিয়ে: নিশ্চয় আল্লাহ ক্ষমাশীল, কদরদান। তাবারী এর অর্থ করেন, বান্দাদের গুনাহর ক্ষমাকারী, তাদের নেক আমল ও আনুগত্যের কদরকারী। তাঁর সূত্রে কাতাদা বলেন: গুনাহ ক্ষমা করেন, নেকির কদর করেন এবং তা বহুগুণ করে দেন। ইবন যায়দ এমন এক কথা যোগ করেন, যা কৃতজ্ঞতার দিকটাই উল্টে দেয়। তিনি তাদের গুনাহ মাফ করলেন, আর যে নিয়ামত তিনি নিজেই তাদের দিয়েছিলেন, তাদের ভেতরে রেখেছিলেন, তার জন্যই তাদের কদর করলেন। ইবন কাসীর জোড়াটাকে দাঁড়িপাল্লার মতো সাজান: অনেক মন্দ কাজ তিনি ক্ষমা করেন, আর অল্প নেক কাজকে অনেক করে দেন।"
+          },
+          {
+            "en": "As-Sa'di says He forgives sins however great once they are repented of, and rewards a little work with much; al-Baghawi, that He appreciates the small until He multiplies it. Beside the rest of the verse, the pairing is telling: a Messenger who asks no wage is sent by a Lord who pays far beyond the deed, and a hearer who has fallen short is met first with forgiveness. The verse leaves its reader plain work: keep the ties that bind you, give without naming a price, and do the next good thing.",
+            "bn": "সা'দী বলেন, তওবা করলে গুনাহ যত বড়ই হোক তিনি মাফ করে দেন, আর অল্প আমলের বদলে দেন অনেক প্রতিদান। বাগাভীর কথায়, তিনি অল্পেরও কদর করেন, শেষে তা বহুগুণ করে দেন। আয়াতের বাকি অংশের পাশে রাখলে জোড়াটার অর্থ আরও খোলে। যে রাসূল কোনো মজুরি চান না, তাঁকে পাঠিয়েছেন এমন রব, যিনি আমলের চেয়ে ঢের বেশি দেন। আর যে শ্রোতা কমতি করেছে, তাকে প্রথমে অভ্যর্থনা জানায় ক্ষমা। পাঠকের জন্য আয়াতের বার্তা তাই সহজ: আত্মীয়তার বাঁধন রক্ষা করুন, দাম না হেঁকে দান করুন, আর পরের নেক কাজটা করে ফেলুন, তা যত ছোটই দেখাক।"
+          }
+        ]
+      }
+    ]
+  },
   "42:25": {
     "sections": [
       {
