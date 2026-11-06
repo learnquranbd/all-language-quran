@@ -29227,6 +29227,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The firm mountains and the sweet water you drink are gifts from Allah and signs of His power; thank Him for them, and let them settle your certainty that He will raise you.",
     "lessonBn": "অনড় পাহাড় আর যে মিঠা পানি আপনি পান করেন, দুটোই আল্লাহর দান এবং তাঁর কুদরতের নিদর্শন। এর জন্য তাঁর শোকর আদায় করুন, আর এগুলো আপনার মনে এই বিশ্বাস পাকা করুক যে তিনি আপনাকে আবার জীবিত করবেন।"
+  },
+  "77:41": {
+    "reflectionEn": "A few verses earlier, the deniers were sent towards a shade of three branches that shades nothing and keeps off no flame. Now the word comes back, plural this time and true: the God-conscious are amid shades and springs. The surah shows the counterfeit first, so that the real thing can be known when it appears. Shade here is not a luxury. It is rest after the long heat of standing, cover that does not fail, water that keeps running. And it comes straight after a dare and a woe, as if hope were placed at the very edge of the warning, within reach of anyone who hears it today. What am I sheltering under now, and will it still hold over me on that Day?",
+    "reflectionBn": "কয়েক আয়াত আগে অস্বীকারকারীদের পাঠানো হয়েছিল তিন শাখাওয়ালা এক ছায়ার দিকে। সে ছায়া ছায়া দেয় না, আগুনের শিখাও ঠেকায় না। এবার শব্দটা ফিরে এল, বহুবচনে, আর এবার সত্যিকারের ছায়া হয়ে: মুত্তাকীরা থাকবে ছায়া আর ঝর্ণার মাঝে। সূরাটি আগে নকলটা দেখিয়েছে, যাতে আসলটা সামনে এলে চেনা যায়। এখানে ছায়া কোনো বিলাসিতা নয়। দীর্ঘ সময় তপ্ত রোদে দাঁড়িয়ে থাকার পর বিশ্রাম, এমন আশ্রয় যা সরে যায় না, এমন পানি যা বয়েই চলে। আর আয়াতটি এসেছে ঠিক এক চ্যালেঞ্জ আর এক দুর্ভোগের ঘোষণার পরপর। যেন সতর্কবাণীর একেবারে কিনারেই আশাকে রেখে দেওয়া হয়েছে, আজ যে শুনছে তার হাতের নাগালে। আমি এখন কিসের ছায়ায় আশ্রয় নিয়ে আছি? সেদিন কি তা আমার মাথার উপর টিকে থাকবে?",
+    "pointsEn": [
+      "Which shelter in my life looks like shade from a distance but keeps none of the heat off me once I stand under it?",
+      "The God-conscious are set here against the deniers. Is there a truth I have stopped denying with my tongue but still deny with my habits?",
+      "When the warnings of this surah frighten me, do I let the fear end in despair, or let it send me towards the shade that is on offer?",
+      "What one obligation could I keep more faithfully this week, and what one forbidden thing could I finally leave?",
+      "When I picture shade and running water on a burning day, whom do I hope to find there beside me, and am I helping them towards it?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন আশ্রয়টা দূর থেকে ছায়ার মতো দেখায়, কিন্তু নিচে গিয়ে দাঁড়ালে একটুও তাপ আটকায় না?",
+      "এখানে মুত্তাকীদের দাঁড় করানো হয়েছে অস্বীকারকারীদের বিপরীতে। এমন কোনো সত্য কি আছে, যা আমি মুখে আর অস্বীকার করি না, অথচ অভ্যাসে এখনো অস্বীকার করে চলি?",
+      "এ সূরার সতর্কবাণী যখন আমাকে ভয় পাইয়ে দেয়, আমি কি সেই ভয়কে হতাশায় গিয়ে থামতে দিই, নাকি তাকে আমায় ঠেলে নিয়ে যেতে দিই সেই ছায়ার দিকে, যা দেওয়ার কথা আল্লাহ দিয়েছেন?",
+      "এ সপ্তাহে কোন একটা ফরজ আমি আরও যত্নের সঙ্গে আদায় করতে পারি? আর কোন একটা হারাম জিনিস অবশেষে ছেড়ে দিতে পারি?",
+      "তপ্ত দিনে ছায়া আর বয়ে চলা পানির কথা ভাবলে কাকে আমি সেখানে পাশে পেতে চাই? আমি কি তাকে সেদিকে এগোতে সাহায্য করছি?"
+    ],
+    "lessonEn": "Right after the warning, Allah holds out a shelter: shades and springs for those who guard against denial. Let fear turn into hope, and hope into keeping His commands.",
+    "lessonBn": "সতর্কবাণীর ঠিক পরেই আল্লাহ এক আশ্রয়ের কথা শোনান: যারা অস্বীকার থেকে বেঁচে থাকে, তাদের জন্য ছায়া আর ঝর্ণা। ভয়কে আশায় বদলে নিন, আর আশাকে বদলে নিন তাঁর হুকুম মেনে চলায়।"
   }
 };
 

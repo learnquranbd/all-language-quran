@@ -1471,6 +1471,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "77:41": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Turn After the Dare",
+          "bn": "চ্যালেঞ্জের পরেই মোড়"
+        },
+        "p": [
+          {
+            "en": "Inna l-muttaqina fi zilalin wa 'uyun: indeed, the God-conscious are amid shades and springs. Five Arabic words, and they arrive without warning. Just before them, 77:38 names the Day of Decision, on which this generation is gathered with the peoples before it; 77:39 dares the deniers to use any plan they have against Allah; and 77:40 answers with the refrain, woe that day to the deniers. Then, with no connecting word, the scene changes, and for the first time in the surah the people of reward are shown.",
+            "bn": "ইন্নাল মুত্তাকীনা ফী যিলালিন ওয়া উয়ূন: নিশ্চয়ই মুত্তাকীরা থাকবে ছায়া আর ঝর্ণার মাঝে। আরবিতে মাত্র পাঁচটি শব্দ, আর তারা আসে কোনো আগাম ইঙ্গিত ছাড়াই। ঠিক আগে ৭৭:৩৮ আয়াত ঘোষণা করেছে ফয়সালার দিনের কথা, যেদিন এ প্রজন্মকে আগের জাতিগুলোর সঙ্গে একত্র করা হবে। ৭৭:৩৯ আয়াত অস্বীকারকারীদের চ্যালেঞ্জ দিয়েছে: কোনো কৌশল থাকলে আল্লাহর বিরুদ্ধে খাটাও। ৭৭:৪০ আয়াত জবাব দিয়েছে সেই পরিচিত পুনরাবৃত্তি দিয়ে: সেদিন দুর্ভোগ অস্বীকারকারীদের জন্য। তারপর কোনো সংযোগ-শব্দ ছাড়াই দৃশ্য বদলে যায়। সূরায় এই প্রথম পুরস্কারপ্রাপ্তদের দেখানো হলো।"
+          },
+          {
+            "en": "Al-Qurtubi opens his note on the verse with one framing sentence: Allah informs of what the God-conscious will come to ghadan, tomorrow. The word is his, and it brings the Day of Decision as close as the morning after. The verse also carries the surah's only use of the word al-muttaqin. Ten times al-Mursalat says woe that day to the deniers, from 77:15 to 77:49, and this verse sits between the seventh and the eighth. The deniers are named over and over; the God-conscious are named once, here.",
+            "bn": "কুরতুবী এ আয়াতের আলোচনা শুরু করেন একটি বাক্যে: মুত্তাকীরা গাদান, অর্থাৎ আগামীকাল কোথায় গিয়ে পৌঁছবে, আল্লাহ তা জানাচ্ছেন। 'আগামীকাল' শব্দটা তাঁর নিজের। এতে ফয়সালার দিন যেন রাত পোহালেই সকালের মতো কাছে চলে আসে। এ আয়াতেই সূরা মুরসালাতে আল-মুত্তাকীন শব্দটি একবারমাত্র এসেছে। সেদিন দুর্ভোগ অস্বীকারকারীদের জন্য, এ বাক্য সূরায় দশটি জায়গায় এসেছে, ৭৭:১৫ থেকে ৭৭:৪৯ পর্যন্ত। আমাদের আয়াতটি বসেছে সপ্তম আর অষ্টমটির মাঝখানে। অস্বীকারকারীদের নাম এসেছে বারবার, মুত্তাকীদের নাম একবার, এখানেই।"
+          },
+          {
+            "en": "Read in order, the placement is a mercy of its own; this is the article's reading, not a commentator's. Forty verses of oaths, ruined nations, an origin in weak water and a Fire whose sparks fly like al-qasr have made the listener afraid, and fear left alone can harden into despair. The surah does not leave it alone. Before the next woe, it shows the other road and where it ends. The warning is not the last word the listener hears; the shade is held out while the listener can still choose it.",
+            "bn": "ক্রম ধরে পড়লে এই বসানোটাই এক রহমত। এটা এ লেখার নিজস্ব পাঠ, কোনো তাফসীরকারের কথা নয়। চল্লিশ আয়াত জুড়ে শপথ, ধ্বংস হওয়া জাতি, তুচ্ছ পানি থেকে মানুষের শুরু, আর এমন আগুন, যার স্ফুলিঙ্গ ছোটে আল-কাসরের মতো, এসব শুনে শ্রোতা ভয় পেয়েছে। ভয়কে একা ফেলে রাখলে তা জমে হতাশা হয়ে যেতে পারে। সূরাটি তাকে একা ফেলে রাখে না। পরের দুর্ভোগের ঘোষণার আগেই দেখিয়ে দেয় অন্য পথটি, আর সে পথ কোথায় গিয়ে শেষ হয়। সতর্কবাণী শ্রোতার কানে শেষ কথা নয়। ছায়াটি সামনে রাখা হয়েছে এমন সময়ে, যখন শ্রোতা এখনো তা বেছে নিতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Root, Two Shades",
+          "bn": "এক ধাতু, দুই ছায়া"
+        },
+        "p": [
+          {
+            "en": "The contrast the commentators draw is with 77:30 and 77:31. There the deniers are told: intaliqu ila zillin dhi thalathi shu'ab, la zalilin wa la yughni mina l-lahab, set off towards a shade of three branches, neither shading nor of any use against the flame. At-Tabari makes the link in so many words. The God-conscious, he says, are in shades that truly shade, zilal zalilah, at a time when the disbelievers in Allah are in a shade of three branches that neither shades nor avails against the flame.",
+            "bn": "তাফসীরকারেরা যে তুলনা টানেন, তা ৭৭:৩০ ও ৭৭:৩১ আয়াতের সঙ্গে। সেখানে অস্বীকারকারীদের বলা হয়েছে: ইনতালিকূ ইলা যিল্লিন যী সালাসি শুআব, লা যালীলিন ওয়ালা ইউগনী মিনাল লাহাব। অর্থাৎ চলো তিনটি শাখায় ভাগ হওয়া এক ছায়ার দিকে, যা না ছায়া দেয়, না শিখা থেকে কোনো কাজে আসে। তাবারী সম্পর্কটা সরাসরি বলে দেন। তাঁর ভাষায়, মুত্তাকীরা থাকবে এমন ছায়ায়, যা সত্যিই ছায়া দেয়, যিলাল যালীলা। আর সে সময় আল্লাহকে অস্বীকারকারীরা থাকবে তিনটি শাখার সেই ছায়ায়, যা ছায়াও দেয় না, শিখা থেকেও বাঁচায় না।"
+          },
+          {
+            "en": "Al-Qurtubi makes the same pairing and says what the shades are: the shades of trees and the shades of palaces, in place of the shade in the three branches. Ibn Kathir draws his contrast in other words. The God-conscious, he says, will be in gardens and springs, unlike what the wretched are in, a shade of yahmum, which he explains as black and foul-smelling smoke. Yahmum is the word of 56:43, where the people of the left are given a shade of black smoke, neither cool nor kind.",
+            "bn": "কুরতুবীও একই জোড়া মিলিয়েছেন, আর বলে দিয়েছেন ছায়াগুলো কিসের: গাছের ছায়া আর প্রাসাদের ছায়া, তিনটি শাখার ছায়ার বদলে। ইবন কাসীর তুলনাটা টানেন অন্য শব্দে। তাঁর মতে মুত্তাকীরা থাকবে বাগান আর ঝর্ণার মাঝে, হতভাগারা যেখানে আছে তার একেবারে উল্টো অবস্থায়। হতভাগাদের ভাগে ইয়াহমূমের ছায়া, আর ইয়াহমূমের ব্যাখ্যা তিনি দেন কালো, দুর্গন্ধময় ধোঁয়া বলে। ইয়াহমূম শব্দটি এসেছে ৫৬:৪৩ আয়াতে। সেখানে বাম দিকের লোকদের দেওয়া হয়েছে কালো ধোঁয়ার ছায়া, যা শীতলও নয়, আরামদায়কও নয়।"
+          },
+          {
+            "en": "Two details in the wording sharpen the contrast, and both are this article's own observation rather than a commentator's. The deniers are sent to one zill, a single shade; the God-conscious are in zilal, shades in the plural. And the adjective that 77:31 denies to the Fire's shade, zalil, is the very word at-Tabari reaches for to describe the shades of 77:41. What the counterfeit lacked by name, the true shade has. The surah shows the imitation first, so that the real thing can be known when it comes.",
+            "bn": "শব্দের দুটি খুঁটিনাটি তুলনাটাকে আরও ধারালো করে। দুটিই এ লেখার নিজস্ব পর্যবেক্ষণ, কোনো তাফসীরকারের নয়। অস্বীকারকারীদের পাঠানো হয় একটিমাত্র যিল্ল, এক ছায়ার দিকে। মুত্তাকীরা থাকে যিলালে, বহুবচনের ছায়ায়। আর ৭৭:৩১ আয়াত আগুনের ছায়াকে যে গুণ থেকে বঞ্চিত বলেছে, সেই যালীল শব্দটিই তাবারী বেছে নিয়েছেন ৭৭:৪১ আয়াতের ছায়াগুলোর বর্ণনায়। নকল ছায়ায় যা ছিল না বলে নাম ধরে বলা হয়েছে, আসল ছায়ায় ঠিক সেটাই আছে। সূরাটি আগে নকলটা দেখায়, যাতে আসলটা এলে চিনে নেওয়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept From Heat and Cold",
+          "bn": "রোদ আর শীত থেকে আড়াল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss does not stop at the word shade. The God-conscious, he says, are in shades that shade and in a kinn kanin, a covering well sheltered, where no harm reaches them from heat or from cold. Shade in his reading is more than a refuge from the noon sun; it is shelter from whatever the weather could bring. The Qur'an says something close in 76:13, where the people of the Garden see there neither burning sun nor bitter cold. At-Tabari does not cite that verse here; the link is this article's.",
+            "bn": "তাবারীর ব্যাখ্যা শুধু ছায়া শব্দে থেমে থাকে না। তিনি বলেন, মুত্তাকীরা থাকবে এমন ছায়ায় যা ছায়া দেয়, আর কিন্নিন কানীনে, অর্থাৎ ভালোভাবে ঢাকা এক আশ্রয়ে। সেখানে গরম বা ঠান্ডা, কোনোটারই কষ্ট তাদের ছুঁতে পারবে না। তাঁর পাঠে ছায়া কেবল দুপুরের রোদ থেকে বাঁচার জায়গা নয়। আবহাওয়া যা কিছু কষ্ট আনতে পারে, সবকিছু থেকেই আশ্রয়। ৭৬:১৩ আয়াতেও কুরআন কাছাকাছি কথা বলে: জান্নাতবাসীরা সেখানে না দেখবে প্রখর রোদ, না কনকনে শীত। তাবারী এখানে সে আয়াত উল্লেখ করেননি। সংযোগটা এ লেখার নিজের।"
+          },
+          {
+            "en": "The other commentators look at where the shade comes from. Al-Baghawi says zilal is the plural of zill, and means the shades of trees. Al-Muyassar speaks of the shades of al-ashjar al-wari'ah, trees spreading wide and full, beside springs of running water. As-Sa'di says the shades come from the great number of trees of many kinds, bright and lovely to see. Set beside Ibn Kathir's smoke, and the pairing is this article's own, the difference is plain: one shade is grown by living trees, the other rises off a fire.",
+            "bn": "বাকি তাফসীরকারেরা দেখেন ছায়াটা আসছে কোথা থেকে। বাগাভী বলেন, যিলাল হলো যিল্লের বহুবচন, আর এর মানে গাছের ছায়া। মুয়াসসারে আছে আল-আশজার আল-ওয়ারিয়ার ছায়া, অর্থাৎ ডালপালা ছড়ানো ঘন গাছের ছায়া, পাশে বয়ে চলা পানির ঝর্ণা। সা'দী বলেন, নানা জাতের অজস্র গাছ থেকেই এ ছায়া, যে গাছগুলো উজ্জ্বল আর দেখতে মনোরম। এবার ইবন কাসীরের বলা ধোঁয়ার পাশে রাখুন। এই জোড়া মেলানোটা এ লেখার নিজের। পার্থক্যটা তখন স্পষ্ট: একটি ছায়া জন্মায় জীবন্ত গাছ থেকে, অন্যটা ওঠে আগুন থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shade of Trees and Palaces",
+          "bn": "গাছের ছায়া, প্রাসাদের ছায়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's gloss names two sources of shade, trees and palaces, and then points to Surah Ya Sin: hum wa azwajuhum fi zilalin 'ala l-ara'iki muttaki'un, they and their spouses are in shades, reclining on couches (36:56). The same plural, zilal, stands in both verses. In Ya Sin it surrounds rest and company; in al-Mursalat it answers a shade that failed. Ibn Kathir, for his part, retells the verse with jannat, gardens, where the Arabic has zilal, so that his paraphrase speaks of the God-conscious in gardens and springs.",
+            "bn": "কুরতুবীর ব্যাখ্যায় ছায়ার দুটি উৎসের নাম আছে, গাছ আর প্রাসাদ। তারপর তিনি সূরা ইয়াসীনের দিকে ইশারা করেন: হুম ওয়া আযওয়াজুহুম ফী যিলালিন আলাল আরাইকি মুত্তাকিঊন, তারা ও তাদের স্ত্রীরা ছায়ায় থাকবে, আসনে হেলান দিয়ে (৩৬:৫৬)। দুই আয়াতেই একই বহুবচন, যিলাল। ইয়াসীনে সে ছায়া ঘিরে আছে বিশ্রাম আর সঙ্গকে। মুরসালাতে সে ছায়া এসেছে ব্যর্থ এক ছায়ার জবাব হয়ে। ইবন কাসীর আবার আয়াতটা নিজের ভাষায় বলতে গিয়ে যিলালের জায়গায় এনেছেন জান্নাত, অর্থাৎ বাগান। তাঁর ভাষ্যে তাই মুত্তাকীরা থাকে বাগান আর ঝর্ণার মাঝে।"
+          },
+          {
+            "en": "That paraphrase echoes the Qur'an's own wording elsewhere, and noticing it is this article's step. In 15:45 and 51:15 the sentence reads inna l-muttaqina fi jannatin wa 'uyun, the same as 77:41 but for one word. Here, a few verses after the deniers were marched to a shade, the word is shades. Al-Qurtubi also records a variant: the generality of readers read zilal, while al-A'raj, az-Zuhri and Talhah read zulal, the plural of zullah, which he says means in the Garden. He adds no more, and neither reading changes the promise.",
+            "bn": "ইবন কাসীরের এ ভাষ্য কুরআনেরই অন্য জায়গার শব্দের প্রতিধ্বনি। এটা খেয়াল করা এ লেখার নিজের কাজ। ১৫:৪৫ ও ৫১:১৫ আয়াতে বাক্যটি হলো ইন্নাল মুত্তাকীনা ফী জান্নাতিন ওয়া উয়ূন। ৭৭:৪১ আয়াতের সঙ্গে তফাত শুধু একটি শব্দে। এখানে, অস্বীকারকারীদের এক ছায়ার দিকে হাঁকিয়ে নেওয়ার কয়েক আয়াত পরেই, শব্দটি হয়েছে ছায়াসমূহ। কুরতুবী একটি ভিন্ন কিরাআতও উল্লেখ করেন। অধিকাংশ কারী পড়েন যিলাল। আরাজ, যুহরী ও তালহা পড়েন যুলাল, যুল্লার বহুবচন, আর তাঁর মতে এর মানে জান্নাতে। এর বেশি তিনি কিছু বলেননি। কোনো কিরাআতেই প্রতিশ্রুতি বদলায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water Where the Flame Was",
+          "bn": "শিখার জায়গায় বয়ে চলা পানি"
+        },
+        "p": [
+          {
+            "en": "Then 'uyun, springs. At-Tabari explains them as rivers running among the trees of their gardens. Al-Muyassar has springs of running water, and al-Baghawi says simply: water. As-Sa'di names some of them: springs running with salsabil, with rahiq and with others. Both names belong to the Qur'an's own picture of the Garden. 76:18 speaks of a spring there called salsabil, and 83:25 says the righteous are given to drink of a rahiq that is sealed. His gloss lets those verses fill out this single word.",
+            "bn": "তারপর উয়ূন, ঝর্ণাসমূহ। তাবারী এর ব্যাখ্যা দেন: তাদের বাগানের গাছপালার ফাঁকে ফাঁকে বয়ে চলা নদী। মুয়াসসারে আছে বয়ে চলা পানির ঝর্ণা। বাগাভী শুধু বলেন: পানি। সা'দী কয়েকটির নামও বলেন: সালসাবীল, রাহীক ও আরও নানা কিছুর ধারা বয়ে চলা ঝর্ণা। দুটি নামই এসেছে কুরআনের নিজের আঁকা জান্নাতের ছবি থেকে। ৭৬:১৮ আয়াতে আছে সেখানকার এক ঝর্ণার কথা, যার নাম সালসাবীল। আর ৮৩:২৫ আয়াত বলে, নেককারদের পান করানো হবে মোহর করা রাহীক। সা'দীর ব্যাখ্যায় ওই আয়াতগুলো এসে এই এক শব্দকে ভরে তোলে।"
+          },
+          {
+            "en": "Placed against 77:31, the water answers the flame; that pairing is this article's own. The deniers' shade avails nothing against the lahab, and in 77:32 the Fire throws sparks. Those under the true shade have water running beside them. The next verses complete the welcome: wa fawakiha mimma yashtahun, and fruits of whatever they desire (77:42), then 77:43, eat and drink with ease for what you used to do. Al-Muyassar sums the scene up: they enjoy fruit their souls desire, and are told to eat and drink with ease because of the good they put forward in the world.",
+            "bn": "৭৭:৩১ আয়াতের পাশে রাখলে এই পানি যেন শিখার জবাব। জোড়াটা এ লেখার নিজের মেলানো। অস্বীকারকারীদের ছায়া লাহাব, অর্থাৎ শিখার বিরুদ্ধে কোনো কাজে আসে না, আর ৭৭:৩২ আয়াতে আগুন স্ফুলিঙ্গ ছোড়ে। আসল ছায়ার নিচে যারা, তাদের পাশ দিয়ে বয়ে যায় পানি। পরের আয়াতগুলো অভ্যর্থনা পূর্ণ করে: ওয়া ফাওয়াকিহা মিম্মা ইয়াশতাহূন, আর তাদের মন যা চায় সেই ফলমূল (৭৭:৪২)। তারপর ৭৭:৪৩: তোমরা যা করতে, তার বিনিময়ে তৃপ্তির সঙ্গে খাও আর পান করো। মুয়াসসার দৃশ্যটা গুছিয়ে বলে: মনের চাওয়া ফলমূল তারা উপভোগ করবে, আর দুনিয়ায় আগে পাঠানো নেক আমলের কারণে তাদের বলা হবে তৃপ্তি নিয়ে খাও, পান করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarded Against Denial",
+          "bn": "অস্বীকার থেকে বেঁচে থাকা"
+        },
+        "p": [
+          {
+            "en": "Who are al-muttaqin? The article on 77:44 sets out how each commentator defines them, and that ground need not be walked again. One thread matters here. As-Sa'di describes them as those who guarded against takdhib, denial, and were marked by tasdiq, affirming the truth, in their words, their actions and their deeds. The refrain on either side of this verse condemns al-mukadhdhibin, the deniers, from the same root as takdhib. His gloss names the God-conscious by the very thing they refused to become.",
+            "bn": "আল-মুত্তাকীন কারা? ৭৭:৪৪ আয়াতের আলোচনায় প্রত্যেক তাফসীরকারের সংজ্ঞা সাজানো আছে, সে পথে আবার হাঁটার দরকার নেই। এখানে একটি সূত্রই জরুরি। সা'দী তাদের বর্ণনা দেন এভাবে: যারা তাকযীব, অর্থাৎ অস্বীকার থেকে বেঁচে থেকেছে, আর যাদের কথা, কাজ ও আমলে ছিল তাসদীক, অর্থাৎ সত্যকে মেনে নেওয়ার ছাপ। এ আয়াতের দুই পাশের পুনরাবৃত্ত বাক্য দুর্ভোগ ঘোষণা করে আল-মুকাযযিবীনের জন্য, যে শব্দ তাকযীবেরই ধাতু থেকে। সা'দীর ব্যাখ্যা তাই মুত্তাকীদের চেনায় সেই জিনিস দিয়ে, যা হতে তারা অস্বীকার করেছে।"
+          },
+          {
+            "en": "At-Tabari and al-Muyassar add a place to the definition: fi d-dunya, in the world. At-Tabari speaks of those who guarded against Allah's punishment by carrying out His obligations in the world and keeping away from disobeying Him; al-Muyassar, of those who feared their Lord in the world. The guarding happens here, and the shade is found there. The Qur'an draws a like line in 13:35, a link this article makes: the Garden promised to the God-conscious has lasting fruit, and its shade, and the end of the disbelievers is the Fire.",
+            "bn": "তাবারী ও মুয়াসসার সংজ্ঞায় একটি জায়গার কথা যোগ করেন: ফিদ দুনইয়া, দুনিয়াতে। তাবারী বলেন তাদের কথা, যারা দুনিয়াতে আল্লাহর ফরজগুলো আদায় করে আর তাঁর নাফরমানি থেকে দূরে থেকে তাঁর শাস্তি থেকে বেঁচেছে। মুয়াসসার বলে, যারা দুনিয়াতে তাদের রবকে ভয় করেছে। বেঁচে থাকার কাজটা হয় এখানে, ছায়া মেলে সেখানে। ১৩:৩৫ আয়াতেও কুরআন এমন রেখা টানে, আর সংযোগটা এ লেখার করা। মুত্তাকীদের যে জান্নাতের ওয়াদা দেওয়া হয়েছে, তার ফল চিরস্থায়ী, তার ছায়াও। আর কাফিরদের পরিণাম আগুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Seating Plan",
+          "bn": "কে কোথায় বসবে, তার তালিকা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The deniers of 77:30 and 77:31 are described as the text describes them, on the Day it describes, and the passage licenses nothing against any living person or community. It hands no reader the right to decide who will sit under the shade and who will be marched to the smoke. The God-conscious are not a group anyone joins by name or loses by birth. As-Sa'di and at-Tabari define them by what they affirmed and what they did, and the weighing of that belongs to Allah alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ৭৭:৩০ ও ৭৭:৩১ আয়াতের অস্বীকারকারীদের বর্ণনা ততটুকুই, যতটুকু কুরআন দিয়েছে, আর সেই দিনের, যে দিনের কথা কুরআন বলেছে। এ আয়াতগুলো কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। কে ছায়ার নিচে বসবে আর কাকে ধোঁয়ার দিকে হাঁকিয়ে নেওয়া হবে, তা ঠিক করার অধিকার কোনো পাঠককে দেওয়া হয়নি। মুত্তাকী হওয়া যায় না নামের জোরে, আর জন্মের কারণে তা হারায়ও না। সা'দী ও তাবারী তাদের চেনান তারা কী মেনেছে আর কী করেছে তা দিয়ে। আর তার ওজন করার মালিক একমাত্র আল্লাহ।"
+          },
+          {
+            "en": "Nor is the verse a badge. Hope in it is something to walk towards, not something to sit on; whoever feels sure of the shade has stopped seeking it. On narrations, plainly: none of the commentaries consulted for this verse attaches a hadith to it, so this article quotes none rather than borrowing one from another verse. What the verse gives is enough on its own terms: a promise from Allah, placed exactly where a listener shaken by the warnings around it will hear it, and in time to act on it.",
+            "bn": "আয়াতটি কোনো তকমাও নয়। এখানকার আশা এমন জিনিস, যার দিকে হাঁটতে হয়, যার উপর বসে থাকা যায় না। যে ছায়া পাকা ধরে নিয়েছে, সে আসলে তা খোঁজা ছেড়ে দিয়েছে। হাদীসের ব্যাপারে সোজা কথা: এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তাই অন্য আয়াত থেকে একটি ধার করে আনার বদলে এ লেখা কোনো হাদীসই উদ্ধৃত করছে না। আয়াতটি যা দেয়, তা নিজেই যথেষ্ট: আল্লাহর এক প্রতিশ্রুতি, যা রাখা হয়েছে ঠিক সেখানে, যেখানে চারপাশের সতর্কবাণীতে কেঁপে ওঠা শ্রোতা তা শুনবে, আর শুনবে কাজ করার সময় থাকতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Planting Shade Before Noon",
+          "bn": "দুপুরের আগেই ছায়ার গাছ লাগানো"
+        },
+        "p": [
+          {
+            "en": "The commentators give the verse a practical edge. If, as al-Muyassar says, the welcome comes because of the good put forward in the world, then the shade is prepared before it is needed. As-Sa'di's three words for affirming the truth, in words, actions and deeds, make a simple test for a week. In words: saying the true thing when a convenient denial would be easier. In actions: one obligation, perhaps a prayer often rushed, given its full time. In deeds: one forbidden habit finally left, which is how at-Tabari describes guarding against punishment.",
+            "bn": "তাফসীরকারদের কথায় আয়াতটির একটা ব্যবহারিক দিকও খুলে যায়। মুয়াসসার যেমন বলে, অভ্যর্থনাটা আসে দুনিয়ায় আগে পাঠানো নেক আমলের কারণে। তাহলে ছায়াটা তৈরি হয় দরকার পড়ার আগেই। সত্য মেনে নেওয়ার জন্য সা'দীর তিনটি শব্দ, কথা, কাজ ও আমল, দিয়ে এক সপ্তাহের সহজ পরীক্ষা বানানো যায়। কথায়: সুবিধাজনক অস্বীকারের বদলে সত্য কথাটা বলা। কাজে: কোনো একটা ফরজ, ধরুন যে নামাজ প্রায়ই তাড়াহুড়োয় সারা হয়, তাকে পুরো সময় দেওয়া। আমলে: কোনো একটা হারাম অভ্যাস শেষমেশ ছেড়ে দেওয়া। তাবারী শাস্তি থেকে বেঁচে থাকার বর্ণনা তো এভাবেই দেন।"
+          },
+          {
+            "en": "The verse can also be carried into ordinary heat. Someone waiting in the sun, walking a long road or working through a summer afternoon can remember that the shade promised here does not fail and its water keeps running, and ask Allah for it in their own words. The surah supplies the contrast itself: the shade the deniers are sent to keeps off nothing, and the shade of the God-conscious keeps off heat and cold alike, as at-Tabari reads it. This is a reflection drawn from the verse, not a practice reported from the early generations.",
+            "bn": "আয়াতটিকে প্রতিদিনের গরমের মধ্যেও সঙ্গে নেওয়া যায়। রোদে দাঁড়িয়ে অপেক্ষা করছেন, লম্বা পথ হাঁটছেন, বা গ্রীষ্মের দুপুরে কাজ করে যাচ্ছেন, এমন কেউ মনে করতে পারেন: এখানে যে ছায়ার ওয়াদা, তা কখনো সরে যায় না, তার পানি বয়েই চলে। তারপর নিজের ভাষায় আল্লাহর কাছে তা চাইতে পারেন। তুলনাটা সূরাই জুগিয়ে দেয়। অস্বীকারকারীদের যে ছায়ায় পাঠানো হয়, তা কিছুই আটকায় না। আর তাবারীর পাঠে মুত্তাকীদের ছায়া গরম ও ঠান্ডা দুটোই আটকায়। এটা আয়াত থেকে নেওয়া একটি ভাবনা, পূর্বসূরিদের কাছ থেকে বর্ণিত কোনো আমল নয়।"
+          },
+          {
+            "en": "Above all, the verse is placed to keep hope alive. It comes after the dare and before the next woe, so that no listener leaves the passage having heard only the threat. Whoever hears al-Mursalat and feels the weight of its warnings has not been shut out; the same surah names the shade in the next breath. The way there is the one the commentators describe, guarding against denial and keeping what Allah commands, and nothing in the verse closes that way to anyone who begins on it today.",
+            "bn": "সবচেয়ে বড় কথা, আয়াতটি বসানো হয়েছে আশাকে বাঁচিয়ে রাখতে। চ্যালেঞ্জের পরে আর পরের দুর্ভোগের ঘোষণার আগে এর জায়গা। ফলে কোনো শ্রোতা শুধু হুমকি শুনে অংশটা শেষ করে না। যে সূরা মুরসালাত শুনে তার সতর্কবাণীর ভার অনুভব করছে, তার জন্য দরজা বন্ধ হয়নি। একই সূরা পরের নিঃশ্বাসেই ছায়ার নাম নেয়। সেখানে যাওয়ার পথ সেটাই, যা তাফসীরকারেরা বলেছেন: অস্বীকার থেকে বেঁচে থাকা আর আল্লাহর হুকুম মেনে চলা। আজ যে এ পথে পা রাখে, আয়াতের কোনো কথাই তার জন্য পথটা বন্ধ করে না।"
+          }
+        ]
+      }
+    ]
+  },
   "77:44": {
     "sections": [
       {
