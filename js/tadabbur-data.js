@@ -24869,6 +24869,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not dress a refusal up as an inquiry. Look honestly at the truth you have been shown, and never let anyone's rank do your thinking for you.",
     "lessonBn": "অস্বীকারকে অনুসন্ধানের পোশাক পরাবেন না। যে সত্য আপনাকে দেখানো হয়েছে, সৎভাবে তার দিকে তাকান, আর কারও পদমর্যাদাকে আপনার হয়ে চিন্তা করতে দেবেন না।"
+  },
+  "28:27": {
+    "reflectionEn": "A stranger arrives with nothing: no home, no money, no people. The old man of Madyan has heard his story and seen how he behaves, and he does not ask what the young man owns. He offers him one of his two daughters in marriage for eight years of work, and leaves two more years to the young man's generosity. Then he adds two promises: I do not want to make things hard for you, and you will find me, if Allah wills, among the righteous. What he weighs is character, and the terms he sets are gentle. When I judge someone for a bond, a job or a family, what do I actually look at? And when I set terms, do I leave room for the other person's goodness?",
+    "reflectionBn": "এক অচেনা মানুষ এসে পৌঁছেছেন একেবারে খালি হাতে। ঘর নেই, টাকা নেই, আপনজন নেই। মাদইয়ানের বৃদ্ধ তাঁর কাহিনি শুনেছেন, তাঁর আচরণ দেখেছেন। যুবকের কী আছে, সে প্রশ্ন তিনি তোলেননি। আট বছরের কাজের বিনিময়ে নিজের দুই মেয়ের একজনকে তাঁর সঙ্গে বিয়ে দিতে চেয়েছেন, আর বাকি দুই বছর ছেড়ে দিয়েছেন যুবকের নিজের সদিচ্ছার উপর। তারপর দুটি কথা দিয়েছেন: আমি তোমাকে কষ্টে ফেলতে চাই না, আর আল্লাহ চাইলে তুমি আমাকে সৎকর্মশীলদের একজন পাবে। তিনি মেপেছেন চরিত্র, আর শর্ত রেখেছেন নরম। কাউকে সম্পর্ক, কাজ বা পরিবারের জন্য বাছাই করতে গিয়ে আমি আসলে কী দেখি? আর শর্ত ঠিক করার সময় অন্যের ভালো মনের জন্য কি কোনো জায়গা রাখি?",
+    "pointsEn": [
+      "When I weigh someone for marriage, work or trust, how much of my judgement rests on what they own rather than on how they behave?",
+      "Is there a good person or a good match I have waited for others to approach, when I could have taken the first honourable step myself?",
+      "In the agreements I make, do I keep apart what I may rightly demand and what I should leave to the other person's generosity?",
+      "Whom have I pressed harder than I needed to, at home or at work, when I could have said: I do not want to make this hard for you?",
+      "Do I attach my promises to Allah's will, and then work to be found faithful to them?"
+    ],
+    "pointsBn": [
+      "বিয়ে, কাজ বা আমানতের জন্য কাউকে যাচাই করার সময় আমার বিচারের কতটা দাঁড়িয়ে থাকে তার সম্পদের উপর, আর কতটা তার আচরণের উপর?",
+      "এমন কোনো ভালো মানুষ বা ভালো সম্বন্ধ কি আছে, যার জন্য আমি অপেক্ষা করে থেকেছি অন্যরা এগিয়ে আসুক, অথচ সম্মানের সঙ্গে প্রথম পা আমি নিজেই বাড়াতে পারতাম?",
+      "যেসব চুক্তি আমি করি, সেখানে কি আলাদা করে রাখি কোনটা আমি ন্যায্যভাবে দাবি করতে পারি, আর কোনটা ছেড়ে দেওয়া উচিত অন্যের সদিচ্ছার উপর?",
+      "ঘরে বা কাজে কাকে আমি প্রয়োজনের চেয়ে বেশি চাপ দিয়েছি, যখন বলতে পারতাম: আমি তোমাকে কষ্টে ফেলতে চাই না?",
+      "আমার প্রতিশ্রুতিগুলো কি আমি আল্লাহর ইচ্ছার সঙ্গে জুড়ে দিই, আর তারপর সেগুলো রক্ষাকারী হিসেবে প্রমাণিত হওয়ার চেষ্টা করি?"
+    ],
+    "lessonEn": "Weigh people by their faith and character, not their wealth; set fair terms, leave room for generosity, and keep your word as one who hopes to be found among the righteous.",
+    "lessonBn": "মানুষকে মাপুন তার দ্বীন ও চরিত্র দিয়ে, সম্পদ দিয়ে নয়। শর্ত রাখুন ন্যায্য, সদিচ্ছার জন্য জায়গা ছাড়ুন, আর কথা রাখুন সৎকর্মশীলদের মধ্যে গণ্য হওয়ার আশা নিয়ে।"
   }
 };
 

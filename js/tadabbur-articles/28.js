@@ -871,6 +871,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Proposal After the Well",
+          "bn": "কূপের পরে বিয়ের প্রস্তাব"
+        },
+        "p": [
+          {
+            "en": "The verse opens with qala, he said, and at-Tabari names the speaker: the father of the two women whose flock Musa (AS) had watered. In 28:25 a daughter brings her father's invitation, and Musa tells him his story. In 28:26 a daughter advises her father to hire him, because the best one to hire is the strong and the trustworthy. The father's answer goes further than hiring.",
+            "bn": "আয়াত শুরু হয় কালা দিয়ে: সে বলল। বক্তা কে, তাবারী তা বলে দেন: সেই দুই নারীর পিতা, যাদের পশুকে মূসা (আঃ) পানি পান করিয়েছিলেন। ২৮:২৫ আয়াতে একজন মেয়ে পিতার দাওয়াত নিয়ে আসে, আর মূসা (আঃ) তাঁকে নিজের কাহিনি শোনান। ২৮:২৬ আয়াতে এক মেয়ে পিতাকে বলে তাঁকে কাজে রাখতে, কারণ কাজে রাখার জন্য সেরা সেই, যে শক্তিশালী ও বিশ্বস্ত। পিতার জবাব কিন্তু শুধু কাজে রাখায় থামেনি।"
+          },
+          {
+            "en": "Inni uridu an unkihaka ihda ibnatayya hatayn: I wish to wed you to one of these two daughters of mine. The terms follow, 'ala an ta'jurani thamaniya hijaj, that you work for me for eight years, softened at once: if you complete ten, that is from you. Two assurances close the verse: I do not want to put you to hardship, and you will find me, if Allah wills, among the righteous. Ibn Kathir reads it as the old man asking Musa to tend his flock and to marry one of the two daughters.",
+            "bn": "ইন্নী উরীদু আন উনকিহাকা ইহদাবনাতাইয়া হাতাইন: আমি চাই আমার এই দুই মেয়ের একজনকে তোমার সঙ্গে বিয়ে দিতে। তারপর শর্ত, আলা আন তা'জুরানী সামানিয়া হিজাজ: তুমি ৮ বছর আমার কাজ করবে। সঙ্গে সঙ্গেই নরম একটি কথা: ১০ বছর পূর্ণ করলে সেটা তোমার পক্ষ থেকে। আয়াতের শেষে দুটি আশ্বাস। আমি তোমাকে কষ্টে ফেলতে চাই না, আর আল্লাহ চাইলে তুমি আমাকে সৎকর্মশীলদের একজন পাবে। ইবন কাসীর কথাটা এভাবে বোঝেন: বৃদ্ধ লোকটি মূসা (আঃ)-কে অনুরোধ করলেন তাঁর পশু চরাতে, আর বললেন দুই মেয়ের একজনকে তাঁর সঙ্গে বিয়ে দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Old Man Left Unnamed",
+          "bn": "যে নাম আয়াতে আসেনি"
+        },
+        "p": [
+          {
+            "en": "The verse never names the father, and the commentators differ over who he was. Al-Baghawi, at 28:23, where the daughters first mention him, sets out the views. Mujahid, ad-Dahhak, as-Suddi and al-Hasan said he was Shu'ayb (AS), the prophet. Wahb ibn Munabbih and Sa'id ibn Jubayr said he was Yathrun, the son of Shu'ayb's brother, and that Shu'ayb had died before this, after losing his sight. A third view makes him one of those who believed in Shu'ayb.",
+            "bn": "আয়াতে পিতার নাম নেই, আর তিনি কে ছিলেন তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। বাগাভী ২৮:২৩ আয়াতের আলোচনায়, যেখানে মেয়েরা প্রথম তাঁর কথা বলে, মতগুলো সাজিয়ে দেন। মুজাহিদ, দাহহাক, সুদ্দী ও হাসান বলেছেন, তিনি নবী শুআইব (আঃ)। ওয়াহব ইবন মুনাব্বিহ ও সাঈদ ইবন জুবাইর বলেছেন, তিনি ইয়াসরূন, শুআইব (আঃ)-এর ভাইয়ের ছেলে। তাঁদের মতে শুআইব (আঃ) দৃষ্টিশক্তি হারানোর পর এর আগেই ইন্তেকাল করেছিলেন। তৃতীয় এক মতে তিনি শুআইব (আঃ)-এর উপর ঈমান আনা লোকদের একজন।"
+          },
+          {
+            "en": "Ibn Kathir, at 28:25, lists the same positions. That he was Shu'ayb, the prophet sent to Madyan, is in his words the well-known view among many, held by al-Hasan al-Basri and others. Others said he was Shu'ayb's nephew, or a believing man of Shu'ayb's people. Others again argued that Shu'ayb lived long before Musa: he told his people in 11:89 that the people of Lut were not far from them, and Lut's people perished in the time of Ibrahim (AS).",
+            "bn": "ইবন কাসীর ২৮:২৫ আয়াতে একই মতগুলো তুলে ধরেন। তাঁর ভাষায় অনেকের কাছে প্রসিদ্ধ মত হলো, তিনি মাদইয়ানে প্রেরিত নবী শুআইব (আঃ)। হাসান বসরী ও আরও অনেকে এ কথা বলেছেন। অন্যরা বলেছেন, তিনি শুআইব (আঃ)-এর ভাতিজা, কিংবা তাঁর কওমের এক মুমিন ব্যক্তি। আরেক দলের যুক্তি, শুআইব (আঃ) ছিলেন মূসা (আঃ)-এর বহু আগের মানুষ। কারণ ১১:৮৯ আয়াতে তিনি কওমকে বলেছিলেন, লূতের কওম তোমাদের থেকে দূরে নয়। আর লূতের কওম ধ্বংস হয়েছিল ইবরাহীম (আঃ)-এর যুগে।"
+          },
+          {
+            "en": "Ibn Kathir adds two points on that side: had it been Shu'ayb, the Qur'an would likely have named him here, and the reports that name him in this story have no sound chain. On the other side, al-Qurtubi, at 28:25, says most people hold that the two were daughters of Shu'ayb (AS), and that this is the apparent sense of the Qur'an. Ibn Kathir ends by relaying at-Tabari's judgement: the matter can only be known through a report, and there is no report that settles it.",
+            "bn": "ইবন কাসীর ওই পক্ষে আরও দুটি কথা যোগ করেন। তিনি শুআইব (আঃ) হলে কুরআন হয়তো এখানে তাঁর নাম বলে দিত। আর যেসব বর্ণনায় এ কাহিনিতে তাঁর নাম স্পষ্ট এসেছে, সেগুলোর সনদ সহীহ নয়। অন্য পক্ষে কুরতুবী ২৮:২৫ আয়াতে বলেন, বেশির ভাগ মানুষের মত হলো মেয়ে দুজন শুআইব (আঃ)-এর কন্যা, আর কুরআনের বাহ্যিক অর্থও তা-ই। ইবন কাসীর শেষে তাবারীর সিদ্ধান্ত উদ্ধৃত করেন: খবর ছাড়া এটা জানার উপায় নেই, আর এমন কোনো খবর নেই যা দিয়ে বিষয়টির মীমাংসা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Bride's Father Speaks First",
+          "bn": "প্রথম কথা কনের পিতার"
+        },
+        "p": [
+          {
+            "en": "The offer comes from the bride's side. Al-Qurtubi opens here: a guardian offering his daughter to a man is an established sunnah. The righteous man of Madyan offered his daughter to the righteous man of the Children of Israel; 'Umar ibn al-Khattab offered his daughter Hafsa to Abu Bakr and to 'Uthman; a woman offered herself to the Prophet ﷺ. So it is good, al-Qurtubi concludes, for a guardian to offer a woman in his care, or a woman herself, to a righteous man.",
+            "bn": "প্রস্তাব এসেছে কনের পক্ষ থেকে। কুরতুবী এখানে শুরুতেই বলেন, অভিভাবকের নিজের মেয়েকে কোনো পুরুষের কাছে বিয়ের জন্য পেশ করা প্রতিষ্ঠিত সুন্নাত। মাদইয়ানের নেককার লোকটি নিজের মেয়েকে পেশ করেছিলেন বনী ইসরাঈলের নেককার মানুষের কাছে। উমর ইবনুল খাত্তাব (রাঃ) তাঁর মেয়ে হাফসাকে পেশ করেছিলেন আবু বকর (রাঃ) ও উসমান (রাঃ)-এর কাছে। এক নারী নিজেকে পেশ করেছিলেন নবী ﷺ-এর কাছে। কুরতুবীর সিদ্ধান্ত: অভিভাবক তাঁর অধীন নারীকে, কিংবা নারী নিজেকে, কোনো নেককার পুরুষের কাছে পেশ করা উত্তম কাজ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the same lesson: a girl's guardian need not wait for a proposal from the man's side, and where a suitable, good match is found he may take the lead, as the prophets did. Al-Qurtubi gives the deeper ground in his remarks on suitability in marriage. Musa (AS) came to the righteous man of Madyan a stranger, driven out, afraid, alone, hungry and bare, and the man married his daughter to him once he was sure of his religion and had seen his conduct, turning away from everything else. The measure was faith, not means.",
+            "bn": "মাআরিফুল কুরআনও একই শিক্ষা টানে। মেয়ের অভিভাবককে ছেলের পক্ষ থেকে প্রস্তাব আসার অপেক্ষায় বসে থাকতে হবে না। উপযুক্ত ভালো পাত্র পাওয়া গেলে তিনি নিজেই এগিয়ে যেতে পারেন, নবীগণও তা-ই করেছেন। কুরতুবী এর গভীরতর ভিত্তি দেখান বিয়েতে সমতা বা কুফুর আলোচনায়। মূসা (আঃ) মাদইয়ানের নেককার লোকটির কাছে এসেছিলেন অচেনা, বিতাড়িত, ভীত, একা, ক্ষুধার্ত আর বস্ত্রহীন অবস্থায়। তাঁর দ্বীনদারির ব্যাপারে নিশ্চিত হয়ে আর তাঁর আচরণ দেখে লোকটি তাঁর সঙ্গে মেয়ের বিয়ে দিলেন, বাকি সব বিবেচনা থেকে মুখ ফিরিয়ে। মাপকাঠি ছিল ঈমান, সম্পদ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One of These Two",
+          "bn": "এই দুজনের একজন"
+        },
+        "p": [
+          {
+            "en": "Ihda ibnatayya hatayn, one of these two daughters of mine, names no bride. Al-Qurtubi takes this as a sign that the verse records an offer and not the contract itself, since a contract would have fixed the woman. Ma'arif al-Qur'an says likewise that this was not yet the formal nikah, with offer, acceptance and witnesses, and that the Qur'an does not narrate every detail the context makes obvious.",
+            "bn": "ইহদাবনাতাইয়া হাতাইন, আমার এই দুই মেয়ের একজন। কনের নাম এখানে নেই। কুরতুবী এ থেকে বোঝেন, আয়াতে এসেছে প্রস্তাব, বিয়ের চুক্তি নয়। চুক্তি হলে কনে কে, তা নির্দিষ্ট করা হতো। মাআরিফুল কুরআনও বলে, এটি তখনো ইজাব, কবুল আর সাক্ষীসহ আনুষ্ঠানিক নিকাহ ছিল না। প্রসঙ্গ থেকে যা স্পষ্ট, কুরআন তার প্রতিটি খুঁটিনাটি বর্ণনা করে না।"
+          },
+          {
+            "en": "The commentators also report names. Ibn Kathir gives Shu'ayb al-Jubba'i for Safura and Liya, and Muhammad ibn Ishaq for Safura and Sharqa, with Liya also said. Al-Baghawi adds a third pair from others, Safra' for the elder and Sufayra' for the younger. As for the bride, he records that some said the elder, while most held it was the younger, Safura, who went to call him. Al-Qurtubi gives the younger with 'it has been said', and notes that al-Qushayri relays reports naming the elder.",
+            "bn": "তাফসীরকারেরা নামও উল্লেখ করেছেন। ইবন কাসীর শুআইব আল-জুব্বাঈর বরাতে বলেন সাফূরা ও লিয়া, আর মুহাম্মাদ ইবন ইসহাকের বরাতে সাফূরা ও শারকা, সঙ্গে লিয়া নামটিও বলা হয়। বাগাভী অন্যদের থেকে তৃতীয় এক জোড়া নাম আনেন: বড়জন সাফরা, ছোটজন সুফাইরা। কনে কে ছিলেন, সে বিষয়ে তিনি লেখেন, কেউ বলেছেন বড়জন। তবে বেশির ভাগের মত, ছোটজন, যাঁর নাম সাফূরা এবং যিনি মূসা (আঃ)-কে ডাকতে গিয়েছিলেন। কুরতুবী 'বলা হয়েছে' কথাটি দিয়ে ছোটজনের কথা আনেন, আর জানান যে কুশাইরী বড়জনের পক্ষে বর্ণনা উল্লেখ করেছেন।"
+          },
+          {
+            "en": "Whether the daughter's own word was required is a point the jurists dispute. Al-Qurtubi records that Malik took the verse as evidence that a father may marry his adult virgin daughter without consulting her, with ash-Shafi'i and many scholars agreeing, while Abu Hanifa held that once she is of age no one may marry her off without her consent. Ma'arif al-Qur'an, for its part, says it is quite obvious that the whole arrangement was made with the girl's consent. The verse does not narrate that exchange; it does show a daughter whose judgement in 28:26 shaped her father's choice.",
+            "bn": "মেয়ের নিজের সম্মতি জরুরি ছিল কি না, তা নিয়ে ফকীহদের মতভেদ আছে। কুরতুবী জানান, ইমাম মালিক এ আয়াতকে দলীল হিসেবে নিয়েছেন যে পিতা তাঁর প্রাপ্তবয়স্ক কুমারী মেয়ের মত না নিয়েও তাকে বিয়ে দিতে পারেন, আর শাফেঈ ও বহু আলেম তাঁর সঙ্গে একমত। অন্যদিকে আবু হানীফার মত, মেয়ে প্রাপ্তবয়স্ক হলে তার সম্মতি ছাড়া কেউ তাকে বিয়ে দিতে পারে না। মাআরিফুল কুরআন বলে, স্পষ্টতই পুরো ব্যবস্থাটি মেয়ের সম্মতিতেই হয়েছিল। আয়াত সেই কথোপকথন বর্ণনা করে না। তবে এটুকু দেখায় যে ২৮:২৬ আয়াতে এক মেয়ের বিচারবুদ্ধিই পিতার সিদ্ধান্তকে পথ দেখিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shepherding Counted as Dower",
+          "bn": "রাখালির কাজই যখন মোহর"
+        },
+        "p": [
+          {
+            "en": "'Ala an ta'jurani: at-Tabari explains it as that you give me, as my return for marrying her to you, the tending of my livestock for eight years, from the Arab usage ajaraka Allah, may Allah reward you. Al-Baghawi gives the same through al-Farra'; hijaj means years. At-Tabari then states his own understanding: it seems to him that her father made the shepherding the dower, the sadaq, of the daughter he married to Musa. Al-Qurtubi likewise says that marriage in return for hired service is apparent from the verse.",
+            "bn": "আলা আন তা'জুরানী। তাবারী এর ব্যাখ্যা দেন এভাবে: তাকে তোমার সঙ্গে বিয়ে দেওয়ার বিনিময়ে তুমি আমাকে ৮ বছর আমার পশু চরানোর সেবা দেবে। শব্দটি এসেছে আরবদের প্রচলিত কথা আজারাকাল্লাহ থেকে, অর্থাৎ আল্লাহ তোমাকে প্রতিদান দিন। বাগাভী ফাররার বরাতে একই কথা বলেন। হিজাজ মানে বছর। এরপর তাবারী নিজের বোঝাপড়া জানান: তাঁর মনে হয়, যে মেয়েকে পিতা মূসা (আঃ)-এর সঙ্গে বিয়ে দিলেন, তার মোহর বা সাদাক তিনি ঠিক করেছিলেন এই রাখালির কাজকে। কুরতুবীও বলেন, সেবার বিনিময়ে বিয়ের বিষয়টি আয়াত থেকে স্পষ্ট।"
+          },
+          {
+            "en": "Whether such a dower is valid in Islamic law is where the views divide, and al-Qurtubi sets them side by side. Malik disliked it, Ibn al-Qasim forbade it, and Ibn Habib allowed it, which is also the view of ash-Shafi'i and his followers, who let a free man's service, such as teaching the Qur'an, stand as a dower. Abu Hanifa held that it is not valid, because a man's own service is not property. Ibn Kathir adds that followers of Imam Ahmad took the verse as evidence for hiring a worker for his food and clothing.",
+            "bn": "এমন মোহর ইসলামী শরীয়তে বৈধ কি না, সেখানেই মত ভাগ হয়ে যায়, আর কুরতুবী মতগুলো পাশাপাশি রাখেন। ইমাম মালিক একে অপছন্দ করেছেন, ইবনুল কাসিম নিষেধ করেছেন, আর ইবন হাবীব অনুমতি দিয়েছেন। শাফেঈ ও তাঁর অনুসারীদের মতও তা-ই। তাঁদের মতে কুরআন শেখানোর মতো স্বাধীন মানুষের সেবাও মোহর হতে পারে। আবু হানীফার মতে এটি বৈধ নয়, কারণ মানুষের নিজের সেবা সম্পদ নয়। ইবন কাসীর যোগ করেন, ইমাম আহমাদের অনুসারীরা এ আয়াতকে দলীল হিসেবে নিয়েছেন যে খাবার ও পোশাকের বিনিময়ে শ্রমিক রাখা যায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an records that Abu Hanifa's ruling in the Zahir ar-Riwaya rejects a husband's service as dower, while later scholars allowed work outside the home, such as grazing or trade, for a period fixed beforehand. It then raises a sharper question. The dower is the wife's right, and if it goes to her father without her consent it does not count as paid; so how could service to her father be her dower? It answers that the flock may have belonged to the daughters, or that the wage owed by the father belonged to her.",
+            "bn": "মাআরিফুল কুরআন জানায়, যাহিরুর রিওয়ায়াতে আবু হানীফার ফতোয়া অনুযায়ী স্বামীর সেবা মোহর হতে পারে না। তবে পরবর্তী আলেমরা ঘরের বাইরের কাজ, যেমন পশু চরানো বা ব্যবসা, মোহর হিসেবে অনুমোদন করেছেন, যদি মেয়াদ আগে থেকে ঠিক থাকে। এরপর আরও সূক্ষ্ম এক প্রশ্ন তোলে। মোহর স্ত্রীর হক। তার সম্মতি ছাড়া পিতার হাতে গেলে মোহর আদায় হয়েছে বলে ধরা হয় না। তাহলে পিতার সেবা কীভাবে মেয়ের মোহর হলো? জবাবে বলে, হয়তো পশুপাল মেয়েদেরই ছিল। নয়তো পিতার কাছে পাওনা মজুরিটুকু মেয়ের প্রাপ্য মোহর হিসেবে গণ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eight Required, Ten Offered",
+          "bn": "আট বছর শর্ত, দশ সদিচ্ছা"
+        },
+        "p": [
+          {
+            "en": "Fa-in atmamta 'ashran fa-min 'indik: if you complete ten, it is from you. At-Tabari explains it: if you make the eight years I stipulated into ten, that is a kindness, ihsan, from you, and not part of what I required as the condition of the marriage. As-Sa'di calls it a voluntary gift from Musa, with nothing binding on him, and al-Baghawi a favour and a voluntary act, not an obligation.",
+            "bn": "ফাইন আতমামতা আশরান ফামিন ইনদিক: ১০ বছর পূর্ণ করলে সেটা তোমার পক্ষ থেকে। তাবারী ব্যাখ্যা করেন: আমার শর্ত করা ৮ বছরকে তুমি যদি ১০ বছর করো, তবে সেটা তোমার পক্ষ থেকে ইহসান, আমার দেওয়া বিয়ের শর্তের অংশ নয়। সা'দী একে বলেন মূসা (আঃ)-এর স্বেচ্ছায় দেওয়া উপহার, তাঁর উপর বাধ্যতামূলক কিছু নয়। বাগাভীর ভাষায় এটি অনুগ্রহ ও নফল কাজ, ওয়াজিব নয়।"
+          },
+          {
+            "en": "Al-Qurtubi draws a rule of contract from the order of the sentence. The father stated the condition and then followed it with the voluntary part, so each kept its own ruling: the obligation did not absorb the gift, and the gift did not become an obligation. That, he says, is why written contracts record the agreed conditions and then add that a party volunteered something further. In his closing words, Shu'ayb made the eight years a condition and left the tenth to muru'a, a person's sense of honour.",
+            "bn": "বাক্যের বিন্যাস থেকে কুরতুবী চুক্তির একটি নীতি বের করেন। পিতা আগে শর্ত বলেছেন, তারপর স্বেচ্ছার অংশটি জুড়েছেন। ফলে প্রতিটি নিজ নিজ বিধানে থেকেছে। শর্ত উপহারকে গিলে ফেলেনি, আর উপহারও শর্ত হয়ে যায়নি। তাঁর মতে এ কারণেই লিখিত চুক্তিতে আগে সম্মত শর্তগুলো লেখা হয়, তারপর যোগ করা হয় যে অমুক পক্ষ স্বেচ্ছায় আরও কিছু দিল। আলোচনার শেষে কুরতুবী বলেন, শুআইব (আঃ) ৮ বছরকে শর্ত বানিয়েছেন আর দশম বছরকে ছেড়ে দিয়েছেন মুরুওয়াতের উপর, অর্থাৎ মানুষের আত্মসম্মানবোধের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Hardship, Good Company",
+          "bn": "কষ্ট নয়, সুন্দর সাহচর্য"
+        },
+        "p": [
+          {
+            "en": "Wa ma uridu an ashuqqa 'alayk: I do not want to put you to hardship. At-Tabari ties it to the terms: by making the eight years ten. Al-Baghawi reads it the same way, as binding you to complete ten unless you volunteer them. As-Sa'di gives two readings: either the father would not insist on the ten, or he did not hire Musa to load him with heavy tasks, only with light and easy work. Ibn Kathir's paraphrase is wider still: I will not press you, harm you or quarrel with you.",
+            "bn": "ওয়ামা উরীদু আন আশুক্কা আলাইক: আমি তোমাকে কষ্টে ফেলতে চাই না। তাবারী একে শর্তের সঙ্গে যুক্ত করেন: ৮ বছরকে ১০ বছর বানিয়ে। বাগাভীও একইভাবে পড়েন: তুমি স্বেচ্ছায় না দিলে ১০ বছর পূর্ণ করতে তোমাকে বাধ্য করে। সা'দী দুটি ব্যাখ্যা দেন। হয় পিতা ১০ বছরের উপর জোর দেবেন না, নয়তো তিনি মূসা (আঃ)-কে ভারী কাজের বোঝা চাপাতে নিয়োগ দেননি, দিয়েছেন হালকা ও সহজ কাজের জন্য। ইবন কাসীরের ব্যাখ্যা আরও বিস্তৃত: আমি তোমাকে চাপ দেব না, কষ্ট দেব না, তোমার সঙ্গে বিবাদেও জড়াব না।"
+          },
+          {
+            "en": "Then satajiduni in sha' Allah min as-salihin. At-Tabari, through Ibn Ishaq, explains it as righteous in good companionship and in keeping what I have said, as does the Muyassar. As-Sa'di notes that the father encouraged Musa with the ease of the work and the fairness of the dealing, and draws a lesson: a righteous person should make his character as good as he can, and more is expected of him than of others. The father places his righteousness under Allah's will, then offers it as the measure he will be judged by.",
+            "bn": "তারপর সাতাজিদুনী ইনশাআল্লাহু মিনাস সালিহীন। তাবারী ইবন ইসহাকের বরাতে এর ব্যাখ্যা দেন: সুন্দর সাহচর্যে আর আমার দেওয়া কথা রক্ষায় তুমি আমাকে নেককার পাবে। মুয়াসসারও একই কথা বলে। সা'দী লক্ষ করেন, কাজের সহজতা আর লেনদেনের সৌজন্য দেখিয়ে পিতা মূসা (আঃ)-কে উৎসাহ দিয়েছেন। এ থেকে তিনি একটি শিক্ষা টানেন: নেককার মানুষের উচিত যতটা সম্ভব নিজের চরিত্র সুন্দর করা, আর তার কাছে অন্যদের চেয়ে বেশিই প্রত্যাশা করা হয়। পিতা নিজের নেককারিকে রাখেন আল্লাহর ইচ্ছার অধীনে, তারপর সেটাকেই পেশ করেন নিজের বিচারের মাপকাঠি হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Longer and Better Term",
+          "bn": "দীর্ঘতর ও উত্তম মেয়াদ"
+        },
+        "p": [
+          {
+            "en": "Musa (AS) accepts in 28:28, and 28:29 opens once he has completed the term. Which term? Sahih al-Bukhari, number 2684, which Ibn Kathir cites, gives the answer in this English rendering: \"Narrated Sa`id bin Jubair: A Jew from Hira asked me which one of the two periods Musa (i.e. Prophet Moses) completed. I said, 'I don't know, (but wait) till I see the most learned 'Arab and inquire him about it.' So, I went to Ibn `Abbas and asked him. He replied, 'Moses completed the longer and better period.' Ibn `Abbas added, 'No doubt, an apostle of Allah always does what he says.'\"",
+            "bn": "মূসা (আঃ) ২৮:২৮ আয়াতে প্রস্তাব মেনে নেন, আর ২৮:২৯ আয়াত শুরু হয় মেয়াদ পূর্ণ হওয়ার পর। কোন মেয়াদ? ইবন কাসীর যে বর্ণনা আনেন, সহীহ বুখারীর ২৬৮৪ নম্বরে তার জবাব আছে। কুরানএক্সের ইংরেজি পাঠের অনুবাদ: \"সাঈদ ইবন জুবাইর বলেন, হীরার এক ইহুদি আমাকে জিজ্ঞেস করল, মূসা (অর্থাৎ নবী মূসা) দুই মেয়াদের কোনটি পূর্ণ করেছিলেন। আমি বললাম, 'জানি না, (তবে অপেক্ষা করো) আরবের সবচেয়ে জ্ঞানী মানুষটির সঙ্গে দেখা করে তাঁকে জিজ্ঞেস করি।' তাই আমি ইবন আব্বাস (রাঃ)-এর কাছে গিয়ে জিজ্ঞেস করলাম। তিনি বললেন, 'মূসা দীর্ঘতর ও উত্তম মেয়াদটি পূর্ণ করেছিলেন।' ইবন আব্বাস আরও বললেন, 'নিঃসন্দেহে আল্লাহর একজন রাসূল যা বলেন, সবসময় তা করেন।'\""
+          },
+          {
+            "en": "This is Ibn 'Abbas's own answer, not a saying of the Prophet ﷺ, and al-Bukhari placed it in his Sahih. He grounds it in the character of a messenger: when he says he will do a thing, he does it. Ibn Kathir also cites, from Sunan Ibn Majah, a report through 'Utbah ibn an-Nuddar that Musa hired himself out for eight years or ten, for the chastity of his body and the food of his stomach. Ibn Kathir himself calls that route weak, because of its narrator Maslamah ibn 'Ali, and says another route is also open to question.",
+            "bn": "এটি ইবন আব্বাস (রাঃ)-এর নিজের জবাব, নবী ﷺ-এর বাণী নয়, আর বুখারী একে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন। জবাবের ভিত্তি তিনি রাখেন একজন রাসূলের চরিত্রে: তিনি কোনো কাজ করবেন বললে তা করেই থাকেন। ইবন কাসীর সুনান ইবন মাজাহ থেকে উতবা ইবনুন নুদ্দার সূত্রে আরেকটি বর্ণনাও আনেন: মূসা (আঃ) নিজের চারিত্রিক পবিত্রতা রক্ষা আর পেটের খাবারের বিনিময়ে ৮ বা ১০ বছরের জন্য নিজেকে মজুরিতে দিয়েছিলেন। ইবন কাসীর নিজেই এ সূত্রকে দুর্বল বলেন, কারণ এর বর্ণনাকারী মাসলামা ইবন আলী দুর্বল। আরেকটি সূত্রের ব্যাপারেও তিনি আপত্তি রাখেন।"
+          },
+          {
+            "en": "Read whole, the passage is an agreement among people of honour. Two women did their old father's work at a well, work that al-Qurtubi, at 28:23, says religion does not forbid, though custom differs from one people to another. One of them judged a stranger rightly. Their father placed his word under Allah's will and left room for generosity, and the man who had arrived with nothing gave more than was asked. Nothing here makes a daughter a price: Ma'arif al-Qur'an insists that the dower is the wife's own right, and asks first whether it truly reached her.",
+            "bn": "পুরো অংশটা একসঙ্গে পড়লে দেখা যায়, এ হলো সম্মানিত মানুষদের মধ্যে এক চুক্তি। বৃদ্ধ পিতার কাজ দুই মেয়ে কূপের ধারে নিজেরাই করছিলেন। কুরতুবী ২৮:২৩ আয়াতে বলেন, দ্বীন এ কাজ নিষেধ করে না, যদিও এক এক জাতির রীতি এক এক রকম। তাঁদের একজন এক অচেনা মানুষকে সঠিকভাবে চিনেছিলেন। পিতা নিজের কথাকে রেখেছিলেন আল্লাহর ইচ্ছার অধীনে, সদিচ্ছার জন্য জায়গা ছেড়েছিলেন। আর খালি হাতে আসা মানুষটি যা চাওয়া হয়েছিল তার চেয়ে বেশি দিয়েছিলেন। এখানে মেয়েকে দাম বানানো হয়নি। মাআরিফুল কুরআন জোর দিয়ে বলে, মোহর স্ত্রীর নিজের হক, আর আগে প্রশ্ন তোলে তা আসলে তাঁর কাছে পৌঁছেছিল কি না।"
+          }
+        ]
+      }
+    ]
+  },
   "28:32": {
     "sections": [
       {
