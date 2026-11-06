@@ -26809,6 +26809,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Free your worship of everything besides Allah, and hold fast to the One who created you, trusting that He who made you will also guide you.",
     "lessonBn": "আল্লাহ ছাড়া আর সবকিছু থেকে নিজের ইবাদতকে মুক্ত রাখুন, আর যিনি আপনাকে সৃষ্টি করেছেন তাঁকেই আঁকড়ে ধরুন, এই ভরসায় যে যিনি বানিয়েছেন তিনিই পথ দেখাবেন।"
+  },
+  "43:44": {
+    "reflectionEn": "The verse before this told the Prophet ﷺ to hold fast to what was revealed to him. This one says what that revelation is: a dhikr for him and his people, a word that can mean a reminder and can mean an honour. Then, in the same short breath, it adds that they will be questioned. The gift and the question arrive together. Whatever honour the Qur'an brings does not sit in a tribe, a language or a birthplace; it rests with whoever acts on it. So the verse turns to me. This Book is in my home, perhaps on my tongue. If I were asked today what I have done with it, what could I honestly say?",
+    "reflectionBn": "আগের আয়াতে নবী ﷺ-কে বলা হয়েছিল, তাঁর কাছে যা ওহী করা হয় তা শক্ত করে ধরে রাখতে। এ আয়াত জানায়, সেই ওহী আসলে কী। তা তাঁর ও তাঁর কওমের জন্য জিকর। শব্দটির এক অর্থ উপদেশ, আরেক অর্থ সম্মান। তারপর একই ছোট্ট বাক্যে যোগ হয়: তোমাদের জিজ্ঞেস করা হবে। উপহার আর প্রশ্ন একসঙ্গেই আসে। কুরআনের সম্মান কোনো গোত্র, ভাষা বা জন্মভূমির ভেতরে বসে থাকে না। সে সম্মান তার, যে কুরআন অনুযায়ী আমল করে। তাই আয়াতটা এবার আমার দিকে ফেরে। এই কিতাব আমার ঘরে আছে, হয়তো মুখেও আছে। আজই যদি জিজ্ঞেস করা হয়, এটা নিয়ে আমি কী করেছি, সৎভাবে কী জবাব দিতে পারব?",
+    "pointsEn": [
+      "If I were asked today what I have done with the Qur'an, which part of my answer would be true and which would be only hope?",
+      "Do I treat the Qur'an mainly as something to be proud of, or as something that reminds me and asks things of me?",
+      "Have I ever felt closer to the Book because of my language, family or community, rather than because of how I live by it?",
+      "What is one thing the Qur'an has asked of me that I already know, but have not yet acted on?",
+      "How often do I thank Allah for this Book, and what would gratitude for it look like in my week, beyond words?"
+    ],
+    "pointsBn": [
+      "আজ যদি জিজ্ঞেস করা হয় কুরআন নিয়ে আমি কী করেছি, আমার জবাবের কোন অংশটা সত্য, আর কোন অংশটা শুধুই আশা?",
+      "কুরআন কি আমার কাছে মূলত গর্বের জিনিস, নাকি এমন কিছু যা আমাকে মনে করিয়ে দেয় আর আমার কাছে কিছু চায়?",
+      "কখনো কি মনে হয়েছে, ভাষা, বংশ বা সমাজের কারণে এ কিতাব আমার একটু বেশি আপন? অথচ আপন হওয়ার আসল মাপ তো এর উপর আমল?",
+      "কুরআন আমার কাছে এমন কী চেয়েছে, যা আমি জানি অথচ এখনো আমলে আনিনি?",
+      "এই কিতাবের জন্য আল্লাহর শুকরিয়া আমি কতবার আদায় করি? মুখের কথার বাইরে, আমার সপ্তাহে সেই শুকরিয়ার চেহারা কেমন হবে?"
+    ],
+    "lessonEn": "The Qur'an is a reminder and an honour, but its honour belongs to whoever acts on it, and everyone it reaches will be asked what they did with it.",
+    "lessonBn": "কুরআন উপদেশও, সম্মানও। তবে সে সম্মান তার, যে এর উপর আমল করে। আর যার কাছে এটি পৌঁছেছে, তাকেই জিজ্ঞেস করা হবে এটা নিয়ে সে কী করেছে।"
   }
 };
 

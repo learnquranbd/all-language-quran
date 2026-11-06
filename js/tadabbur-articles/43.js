@@ -1639,6 +1639,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "What Is Held, and Why",
+          "bn": "যা আঁকড়ে ধরা, তার পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Verse 43:43 ends with a command and a reassurance: hold fast to what is revealed to you, for you are on a straight path. Verse 43:44 then says what that revelation is, in six Arabic words: wa-innahu la-dhikrun laka wa-li-qawmika, wa-sawfa tus'alun. And indeed it is a dhikr for you and for your people, and you will be questioned. At-Tabari draws the link himself. He glosses the pronoun as this Qur'an revealed to you, O Muhammad, the one We commanded you to hold fast to.",
+            "bn": "৪৩:৪৩ আয়াত শেষ হয় একটি আদেশ আর একটি আশ্বাসে: তোমার প্রতি যা ওহী করা হয় তা আঁকড়ে ধরো, তুমি তো সরল পথেই আছ। তারপর ৪৩:৪৪ আয়াত ছয়টি আরবি শব্দে জানায়, সেই ওহী আসলে কী: ওয়া ইন্নাহু লাযিকরুল লাকা ওয়া লিকাওমিকা, ওয়া সাওফা তুসআলূন। নিশ্চয়ই এটি তোমার ও তোমার কওমের জন্য জিকর, আর তোমাদের জিজ্ঞেস করা হবে। দুই আয়াতের যোগসূত্র তাবারী নিজেই দেখিয়ে দেন। তাঁর ব্যাখ্যায় 'এটি' মানে এই কুরআন, হে মুহাম্মাদ, যা তোমার প্রতি ওহী করা হয়েছে এবং যা আঁকড়ে ধরার আদেশ তোমাকে দেওয়া হয়েছে।"
+          },
+          {
+            "en": "The verse has two halves, read as one thought. The first names what the Qur'an is to the Prophet ﷺ and his people; the second says what follows from receiving it: a question. The key word of the first half, dhikr, carries more than one meaning, and the commentators divide over which leads here. The second half leaves the object of the question unstated, and they supply it in slightly different ways.",
+            "bn": "আয়াতের দুটি অংশ, কিন্তু ভাবনা একটাই। প্রথম অংশ বলে, নবী ﷺ ও তাঁর কওমের কাছে কুরআন কী। দ্বিতীয় অংশ বলে, তা পাওয়ার পর কী আসে: একটি প্রশ্ন। প্রথম অংশের মূল শব্দ জিকর। এর একাধিক অর্থ আছে, আর এখানে কোনটি প্রধান, তা নিয়ে তাফসীরকারদের মত ভিন্ন। দ্বিতীয় অংশে কী নিয়ে প্রশ্ন, আয়াত তা খুলে বলেনি। তাফসীরকারেরা সেই ফাঁক পূরণ করেছেন কিছুটা ভিন্ন ভিন্ন ভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dhikr Read as Sharaf",
+          "bn": "জিকর মানে শারাফ"
+        },
+        "p": [
+          {
+            "en": "The first reading takes dhikr as sharaf, honour. Ibn Kathir lists it under Ibn Abbas, Mujahid, Qatada, as-Suddi and Ibn Zayd, and notes that at-Tabari chose it and related no other. At-Tabari's own paraphrase confirms this: the Qur'an is an honour for you and for your people of Quraysh. Among his narrations, Ibn Abbas says plainly that the Qur'an is an honour for you, and as-Suddi says an honour for you and your people, meaning the Qur'an. Al-Baghawi, al-Muyassar and al-Qurtubi open with the same gloss.",
+            "bn": "প্রথম ব্যাখ্যায় জিকর মানে শারাফ, অর্থাৎ সম্মান। ইবন কাসীর এ মতটি উল্লেখ করেন ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা, সুদ্দী ও ইবন যায়দের নামে। তিনি আরও জানান, ইবন জারীর তাবারী এটিকেই গ্রহণ করেছেন এবং অন্য কোনো মত উল্লেখই করেননি। তাবারীর নিজের ব্যাখ্যাও তাই বলে: কুরআন তোমার জন্য সম্মান, আর কুরাইশ থেকে তোমার কওমের জন্যও। তাঁর বর্ণনাগুলোতে ইবন আব্বাস (রাঃ) সোজাসুজি বলেন, কুরআন তোমার জন্য সম্মান। সুদ্দী বলেন, তোমার ও তোমার কওমের জন্য সম্মান, অর্থাৎ কুরআন। বাগাভী, মুয়াসসার ও কুরতুবীও শুরু করেন এই ব্যাখ্যা দিয়ে।"
+          },
+          {
+            "en": "Mujahid's narration in at-Tabari gives the honour a concrete picture. A man is asked: who are you? He says: of the Arabs. Which Arabs? Of Quraysh. The dhikr here is being known and named, a people whose name now travels with the Book. Ma'arif al-Qur'an reads the word the same way, as a good name or good fame, and calls the Qur'an a matter of great honour and good fame for the Prophet ﷺ and his people. Ibn Zayd's line in at-Tabari widens it a little: were not prophethood and the Qur'an a dhikr for him and his people?",
+            "bn": "তাবারীর বর্ণনায় মুজাহিদের কথাটি এই সম্মানের একটা জীবন্ত ছবি আঁকে। একজনকে জিজ্ঞেস করা হয়, তুমি কে? সে বলে, আরবদের একজন। কোন আরব? কুরাইশের। এখানে জিকর মানে পরিচিতি, নাম ছড়িয়ে পড়া। এমন এক জাতি, যাদের নাম এখন কিতাবের সঙ্গে সঙ্গে চলে। মাআরিফুল কুরআনও শব্দটিকে এভাবেই পড়ে: সুনাম, সুখ্যাতি। তার ভাষায় কুরআন নবী ﷺ ও তাঁর কওমের জন্য বিরাট সম্মান ও সুনামের বিষয়। তাবারীতে ইবন যায়দের কথাটি পরিধি একটু বাড়ায়: নবুওয়াত আর তাঁর নবীর প্রতি নাযিল হওয়া কুরআন কি তাঁর ও তাঁর কওমের জন্য জিকর ছিল না?"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi support the gloss from 21:10, Indeed We have sent down to you a Book in which is your dhikr, and gloss that dhikr too as your honour. One detail in Ibn Kathir's list: at-Tabari's own narration from Qatada says only that the dhikr is this Qur'an, without the word honour. The reading is well attested, but it is one among several.",
+            "bn": "বাগাভী ও কুরতুবী এ ব্যাখ্যার পক্ষে আনেন ২১:১০: আমি তো তোমাদের প্রতি এমন কিতাব নাযিল করেছি, যাতে আছে তোমাদের জিকর। সেখানকার জিকরকেও তাঁরা 'তোমাদের সম্মান' বলে ব্যাখ্যা করেন। ইবন কাসীরের তালিকায় একটা খুঁটিনাটি লক্ষ করার মতো। তাবারীতে কাতাদার নিজের বর্ণনা শুধু বলে, জিকর হলো এই কুরআন। সম্মান শব্দটি সেখানে নেই। ব্যাখ্যাটি সুপ্রতিষ্ঠিত, তবে কয়েকটির মধ্যে একটি মাত্র।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dhikr Read as Tadhkir",
+          "bn": "জিকর মানে তাযকীর"
+        },
+        "p": [
+          {
+            "en": "The second reading takes dhikr as tadhkir, a reminder. Ibn Kathir gives it under the words it was said: a reminder for you and your people. He adds that singling them out does not exclude anyone else, and he cites two verses for the pattern: 21:10, the Book in which is your dhikr, and 26:214, warn your nearest kinsfolk. On this reading they are addressed first because they were nearest, not because the message stopped with them. Al-Qurtubi records two close variants.",
+            "bn": "দ্বিতীয় ব্যাখ্যায় জিকর মানে তাযকীর, অর্থাৎ উপদেশ, মনে করিয়ে দেওয়া। ইবন কাসীর এটি আনেন 'বলা হয়েছে' কথাটি দিয়ে: এটি তোমার ও তোমার কওমের জন্য উপদেশ। তিনি যোগ করেন, তাদের আলাদা করে উল্লেখ করায় অন্যরা বাদ পড়ে না। এ ধরনের বাক্যরীতির নজির হিসেবে তিনি দুটি আয়াত আনেন। ২১:১০, যে কিতাবে আছে তোমাদের জিকর, আর ২৬:২১৪, তোমার নিকটাত্মীয়দের সতর্ক করো। এ ব্যাখ্যায় তাদের আগে সম্বোধন করা হয়েছে কারণ তারাই ছিল সবচেয়ে কাছে, বার্তাটা তাদের কাছে এসে থেমে গেছে বলে নয়। কুরতুবী এর কাছাকাছি আরও দুটি মত উল্লেখ করেন।"
+          },
+          {
+            "en": "In al-Qurtubi's first variant the dhikr is a bayan, a clear account for you and your community of what you need. In his second it is a tadhkira by which you are reminded of the matter of religion and act on it. As-Sa'di does not choose. He holds both meanings at once: the Qur'an is a pride for you, a noble distinction and a blessing beyond measure, and it also reminds you of the good of this world and the next, urges you towards it, reminds you of evil and makes you fear it.",
+            "bn": "কুরতুবীর প্রথম মতে জিকর মানে বায়ান: তোমার ও তোমার উম্মতের যা প্রয়োজন, তার সুস্পষ্ট বিবরণ। দ্বিতীয় মতে তা তাযকিরা: যার মাধ্যমে তোমরা দ্বীনের কথা মনে রাখো আর সে অনুযায়ী আমল করো। সা'দী কোনো একটিকে বেছে নেন না, দুটি অর্থই একসঙ্গে ধরে রাখেন। তাঁর ভাষায় কুরআন তোমাদের গর্ব, মহান মর্যাদা, এমন নিয়ামত যার পরিমাপ করা যায় না। আবার এটি তোমাদের দুনিয়া ও আখিরাতের কল্যাণের কথা মনে করিয়ে দেয়, সেদিকে উৎসাহ দেয়। মন্দের কথাও মনে করিয়ে দেয়, আর তা থেকে ভয় দেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Tongue, Their Burden",
+          "bn": "তাদের ভাষা, তাদের দায়"
+        },
+        "p": [
+          {
+            "en": "Those who read dhikr as honour also explain where the honour came from. Ibn Kathir, under it was said, and al-Muyassar give the same reason: the Qur'an was revealed in their language. Then both draw the same consequence in nearly the same words. Because of that, they are the people who understand it best, and so they ought to be the most upright in holding to it and the most active in doing what it requires. The honour, in other words, arrives already carrying a duty. Understanding more means being expected to do more.",
+            "bn": "যাঁরা জিকরকে সম্মান অর্থে পড়েন, তাঁরা এ-ও ব্যাখ্যা করেন যে সম্মানটা এল কোথা থেকে। ইবন কাসীর 'বলা হয়েছে' কথাটি দিয়ে, আর মুয়াসসার একই কারণ দেখান: কুরআন নাযিল হয়েছে তাদেরই ভাষায়। তারপর দুজনেই প্রায় একই শব্দে একই সিদ্ধান্ত টানেন। এ কারণে কুরআন সবচেয়ে ভালো বোঝে তারাই। তাই কুরআন আঁকড়ে থাকায় তাদেরই সবচেয়ে অবিচল হওয়া উচিত, এর দাবি পূরণে সবচেয়ে বেশি আমলকারী হওয়া উচিত। অর্থাৎ সম্মানটা আসার সময়ই সঙ্গে নিয়ে আসে একটা দায়িত্ব। যে বেশি বোঝে, তার কাছে প্রত্যাশাও বেশি।"
+          },
+          {
+            "en": "Ibn Kathir names who actually lived up to it: so were the best and choicest of them, the sincere among the first Muhajirun who came early, and those who resembled and followed them. His measure is not birth into Quraysh but early, sincere response. Al-Qurtubi adds a second ground for the honour: the Qur'an came down in their tongue and upon a man from among them. People of every language who believed then needed their tongue to reach the meaning of its commands, prohibitions and reports, and he says this is why it is called Arabic.",
+            "bn": "কারা আসলে এই দায় পূরণ করেছিলেন, ইবন কাসীর তা-ও বলে দেন: তাদের মধ্যে যাঁরা শ্রেষ্ঠ ও বাছাই করা, অর্থাৎ প্রথম দিকের একনিষ্ঠ মুহাজিররা, আর যাঁরা তাঁদের মতো হয়েছেন ও তাঁদের অনুসরণ করেছেন, তাঁরা এমনই ছিলেন। তাঁর মাপকাঠি কুরাইশে জন্ম নেওয়া নয়, বরং আগেভাগে আন্তরিকভাবে সাড়া দেওয়া। কুরতুবী সম্মানের আরেকটি কারণ যোগ করেন। কুরআন নাযিল হয়েছে তাদের ভাষায়, আর তাদেরই একজন মানুষের উপর। তাই ঈমান আনা প্রত্যেক ভাষার মানুষকে কুরআনের আদেশ, নিষেধ আর সংবাদের অর্থ বুঝতে তাদের ভাষার দ্বারস্থ হতে হয়েছে। কুরতুবী বলেন, এ কারণেই একে আরবি বলা হয়।"
+          },
+          {
+            "en": "Al-Baghawi brings Mujahid's view in a wider form. The people are the Arabs, and the Qur'an is an honour for them since it came down in their language; that honour then narrows to the nearer circles among them, until the largest share is said to fall to Quraysh and Banu Hashim. He then records, as it was said, a reading that moves the honour off lineage altogether. The dhikr is an honour for you through the wisdom He gave you, and for your people, the believers, through the guidance by which Allah guided them. On that reading the honour of the people is faith.",
+            "bn": "বাগাভী মুজাহিদের মতটি আনেন আরেকটু বিস্তৃত রূপে। কওম মানে আরবরা। কুরআন তাদের ভাষায় নাযিল হয়েছে বলে তা তাদের জন্য সম্মান। তারপর সেই সম্মান ক্রমে সরু হয়ে আসে আরও কাছের গোষ্ঠীগুলোর দিকে, শেষে সবচেয়ে বড় অংশটি পড়ে কুরাইশ ও বনু হাশিমের ভাগে। এরপর বাগাভী 'বলা হয়েছে' দিয়ে এমন একটি ব্যাখ্যা উল্লেখ করেন, যা সম্মানকে বংশ থেকে পুরোপুরি সরিয়ে আনে। জিকর তোমার জন্য সম্মান, আল্লাহ তোমাকে যে হিকমত দিয়েছেন তার মাধ্যমে। আর তোমার কওম, অর্থাৎ মুমিনদের জন্য সম্মান, আল্লাহ যে হিদায়াত দিয়ে তাদের পথ দেখিয়েছেন তার মাধ্যমে। এ ব্যাখ্যায় কওমের সম্মান হলো ঈমান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which People Is Meant",
+          "bn": "কোন কওমের কথা"
+        },
+        "p": [
+          {
+            "en": "The word qawm, your people, raises its own question, and al-Qurtubi reports al-Mawardi's division of it into two views. The first: your people are those of your community who follow you. Al-Mawardi attributes this to Qatada, and ath-Tha'labi reports it from al-Hasan. The second: your people are Quraysh, so that when it is asked of a man, who is he from, the answer comes, from the Arabs, and from which Arabs, from Quraysh. This second view is Mujahid's, the same exchange at-Tabari narrates from him. Both views are kept here as al-Qurtubi keeps them.",
+            "bn": "কওম, অর্থাৎ 'তোমার কওম' শব্দটি নিজেই একটা প্রশ্ন তোলে। কুরতুবী এ বিষয়ে মাওয়ারদীর করা দুই ভাগের কথা জানান। প্রথম মত: তোমার কওম মানে তোমার উম্মতের মধ্যে যারা তোমার অনুসরণ করে। মাওয়ারদী এ মত কাতাদার বলে উল্লেখ করেন, আর সা'লাবী তা বর্ণনা করেন হাসান থেকে। দ্বিতীয় মত: তোমার কওম মানে কুরাইশ। কাউকে নিয়ে জিজ্ঞেস করা হবে, এ লোক কাদের? জবাব আসবে, আরবদের। কোন আরবদের? কুরাইশের। এ মত মুজাহিদের, তাবারী তাঁর থেকে ঠিক এই কথোপকথনটিই বর্ণনা করেছেন। কুরতুবী দুটি মতই রেখেছেন, এখানেও দুটিই রাখা হলো।"
+          },
+          {
+            "en": "Then al-Qurtubi gives his own judgement, and it is the sentence this verse most needs: the sound view is that it is an honour for whoever acts on it, whether of Quraysh or of others. Ma'arif al-Qur'an reports the same position from al-Qurtubi in its own words, against those who took your people to mean Quraysh alone and drew from it the superiority of Quraysh: the honour belongs to the whole community of the Prophet ﷺ, irrespective of colour or race. He defers the fuller treatment to al-Hujurat.",
+            "bn": "এরপর কুরতুবী নিজের সিদ্ধান্ত জানান, আর এ আয়াতের জন্য সবচেয়ে জরুরি কথাটি সেখানেই: সঠিক মত হলো, যে-ই এর উপর আমল করে, এটি তার জন্য সম্মান, সে কুরাইশের হোক বা অন্য কারও। মাআরিফুল কুরআন কুরতুবী থেকে একই অবস্থান নিজের ভাষায় তুলে ধরে। কেউ কেউ 'তোমার কওম' বলতে শুধু কুরাইশ বুঝেছেন এবং এ থেকে কুরাইশের শ্রেষ্ঠত্ব প্রমাণ করতে চেয়েছেন। মাআরিফ বলে, এর বিপরীতে সঠিক কথা হলো, সম্মানটা নবী ﷺ-এর গোটা উম্মতের, বর্ণ বা জাতি যা-ই হোক। বিস্তারিত আলোচনার জন্য কুরতুবী পাঠককে পাঠান সূরা হুজুরাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This Matter Is in Quraysh",
+          "bn": "এ বিষয়টি কুরাইশে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records two further readings, each as it was said. One takes the dhikr to be the caliphate, which belongs to Quraysh, and supports it with a saying of the Prophet ﷺ about people following Quraysh in this matter, which he quotes without naming a collection. The other, from Malik through a report al-Mawardi and ath-Tha'labi carry, takes it to be a man's saying, my father told me from his father. Al-Qurtubi then weighs them: the stronger view is that the Qur'an is meant, because the whole passage is built on it and returns to it.",
+            "bn": "কুরতুবী আরও দুটি মত উল্লেখ করেন, দুটিই 'বলা হয়েছে' দিয়ে। একটি মতে জিকর মানে খিলাফত, যা কুরাইশের মধ্যে থাকবে। এর পক্ষে তিনি নবী ﷺ-এর একটি বাণী আনেন, এ বিষয়ে মানুষের কুরাইশকে অনুসরণ করা নিয়ে। কোন হাদীসগ্রন্থের বর্ণনা, তা তিনি উল্লেখ করেননি। অন্য মতটি ইমাম মালিকের, মাওয়ারদী ও সা'লাবীর বর্ণিত একটি সূত্রে: জিকর মানে কারও এ কথা বলতে পারা যে, আমার বাবা তাঁর বাবা থেকে আমাকে বর্ণনা করেছেন। তারপর কুরতুবী মতগুলো ওজন করেন। তাঁর মতে শক্তিশালী কথা হলো, এখানে কুরআনই উদ্দেশ্য। কারণ গোটা আলোচনা কুরআনকে ঘিরেই গড়ে উঠেছে, আর শেষে কুরআনেই ফিরে এসেছে।"
+          },
+          {
+            "en": "Al-Baghawi places a hadith here, through a chain that runs through al-Bukhari, and Ibn Kathir notes that he did so. In Sahih al-Bukhari (3500), Mu'awiya, angered by talk that a king would arise from Qahtan, said he had heard the Messenger of Allah ﷺ say: This matter is in Quraysh; no one shows them hostility but that Allah throws him on his face, as long as they establish the religion. It stands in al-Bukhari's Sahih, and al-Bukhari gives the same report with the same chain under 7139.",
+            "bn": "বাগাভী এখানে একটি হাদীস আনেন, এমন এক সনদে যা ইমাম বুখারীর মধ্য দিয়ে গেছে। ইবন কাসীরও উল্লেখ করেন যে বাগাভী এ হাদীস এখানে এনেছেন। সহীহ বুখারীতে (৩৫০০) আছে: কাহতান গোত্র থেকে একজন রাজা আসবে, এমন কথা শুনে মুআবিয়া (রাঃ) রেগে যান। তিনি বলেন, আমি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছি: এ বিষয়টি কুরাইশের মধ্যে। যে-ই তাদের সঙ্গে শত্রুতা করবে, আল্লাহ তাকে উপুড় করে ফেলে দেবেন, যতদিন তারা দ্বীন কায়েম রাখে। হাদীসটি বুখারীর সহীহ গ্রন্থের, আর একই সনদে একই বর্ণনা বুখারী ৭১৩৯ নম্বরেও এনেছেন।"
+          },
+          {
+            "en": "Two things should be said plainly about this narration. It speaks of this matter, leadership, and it does not mention this verse; it is a general narration that al-Baghawi set beside the verse, not a report of why the verse came down. And its own last clause carries a condition: as long as they establish the religion. Even where a tafsir links the verse with Quraysh, the hadith it brings ties standing to keeping the religion, not to descent alone.",
+            "bn": "এই বর্ণনা সম্পর্কে দুটি কথা সোজাসুজি বলা দরকার। এর বিষয় 'এই ব্যাপারটি', অর্থাৎ নেতৃত্ব। এ আয়াতের কথা হাদীসে নেই। এটি একটি সাধারণ বর্ণনা, যা বাগাভী আয়াতের পাশে রেখেছেন। আয়াত কেন নাযিল হলো, সে বর্ণনা এটি নয়। দ্বিতীয়ত, হাদীসের শেষ বাক্যেই একটা শর্ত আছে: যতদিন তারা দ্বীন কায়েম রাখে। কোনো তাফসীর আয়াতটিকে কুরাইশের সঙ্গে যুক্ত করলেও, সেখানে আনা হাদীসটি মর্যাদাকে বাঁধে দ্বীন কায়েম রাখার সঙ্গে, শুধু বংশের সঙ্গে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour That Rests on Deeds",
+          "bn": "আমলের উপর দাঁড়ানো মর্যাদা"
+        },
+        "p": [
+          {
+            "en": "This needs saying without hedging. The verse gives no licence for pride of race, tribe, language or ancestry, and no ground for ranking any people above another by birth. Whatever honour it speaks of came with the Qur'an, not before it, and the commentators who give its ground tie it to acting on the Book. Ibn Kathir and al-Muyassar make the nearest hearers the most obliged; al-Qurtubi calls it an honour for whoever acts on it, of Quraysh or not. Honour lies in acting on it, and nowhere else.",
+            "bn": "কথাটা কোনো দ্বিধা ছাড়াই বলা দরকার। বর্ণ, গোত্র, ভাষা বা বংশ নিয়ে গর্ব করার কোনো অনুমতি এ আয়াত দেয় না। জন্মের ভিত্তিতে এক জাতিকে আরেক জাতির উপরে বসানোর কোনো ভিত্তিও এতে নেই। আয়াত যে সম্মানের কথা বলে, তা এসেছে কুরআনের সঙ্গে, কুরআনের আগে নয়। আর যে তাফসীরকারেরা এর কারণ ব্যাখ্যা করেছেন, তাঁরা সেই সম্মানকে বেঁধেছেন কিতাব অনুযায়ী আমলের সঙ্গে। ইবন কাসীর ও মুয়াসসারের কাছে সবচেয়ে কাছের শ্রোতারাই সবচেয়ে বেশি দায়বদ্ধ। কুরতুবীর কাছে এটি সম্মান তার, যে এর উপর আমল করে, কুরাইশের হোক বা না হোক। সম্মান আছে এর উপর আমলে, অন্য কোথাও নয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a narrower lesson about reputation itself. It reports that ar-Razi concluded from this verse that a good name is desirable, since Allah mentions it as a favour, and it recalls the prayer of Ibrahim (AS) in 26:84 for a truthful mention among later generations. Then it sets a limit. A good name is praiseworthy only when it comes as the natural result of good deeds. When good deeds are done for the sake of fame, they become riya', showing off, which cancels their reward and is itself a grave sin.",
+            "bn": "মাআরিফুল কুরআন সুনাম বিষয়ে আরও নির্দিষ্ট একটি শিক্ষা টানে। সে জানায়, ইমাম রাযী এ আয়াত থেকে সিদ্ধান্তে এসেছেন যে সুনাম কাম্য জিনিস, কারণ আল্লাহ একে অনুগ্রহ হিসেবে উল্লেখ করেছেন। সঙ্গে মনে করিয়ে দেয় ইবরাহীম (আঃ)-এর দোয়া, ২৬:৮৪: পরবর্তীদের মধ্যে আমার সত্য সুনাম রাখো। তারপর একটা সীমা টেনে দেয়। সুনাম প্রশংসনীয় কেবল তখনই, যখন তা নেক আমলের স্বাভাবিক ফল হিসেবে আসে। নাম কামানোর জন্য যদি নেক আমল করা হয়, তবে তা হয়ে যায় রিয়া, লোক দেখানো। রিয়া আমলের সওয়াব নষ্ট করে দেয়, আর নিজেই এক কবীরা গুনাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked About Acting, Asked About Thanks",
+          "bn": "আমলের প্রশ্ন, শুকরিয়ার প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Wa-sawfa tus'alun: and you will be questioned. The verb is plural and passive, and the verse leaves its object unstated. At-Tabari supplies it as action: your Lord will ask you and them about what you did with it, whether you acted on what He commanded in it and stopped at what He forbade. Ibn Kathir's wording is close: about this Qur'an, how you were in acting on it and in answering its call. Al-Baghawi joins action to thanks: about its right and the fulfilment of its gratitude, and what is binding on you of upholding it.",
+            "bn": "ওয়া সাওফা তুসআলূন: আর তোমাদের জিজ্ঞেস করা হবে। ক্রিয়াটি বহুবচন, কর্মবাচ্য, আর কী নিয়ে প্রশ্ন, আয়াত তা বলে না। তাবারী ফাঁকটা পূরণ করেন আমল দিয়ে। তোমার রব তোমাকে ও তাদের জিজ্ঞেস করবেন, এ কুরআন নিয়ে তোমরা কী করেছ। এর আদেশ মেনেছ কি না, এর নিষেধে থেমেছ কি না। ইবন কাসীরের কথাও কাছাকাছি: এ কুরআন সম্পর্কে, এর উপর আমলে আর এর ডাকে সাড়া দেওয়ায় তোমরা কেমন ছিলে। বাগাভী আমল আর শুকরিয়া একসঙ্গে বলেন: এর হক আর এর শুকরিয়া আদায় সম্পর্কে, এবং এর হক পালনে তোমাদের উপর যা জরুরি ছিল সে বিষয়ে।"
+          },
+          {
+            "en": "Others supply it as thanks. Al-Muyassar: you and those with you will be asked about gratitude to Allah for it and about acting on it. Al-Qurtubi gives gratitude as the view of Muqatil and al-Farra', reports from Ibn Jurayj that you and those with you will be asked about what came to you, and concludes that the meanings are close. As-Sa'di frames it as a fork: did you uphold it and so rise and benefit, or not, so that it becomes a proof against you and ingratitude for the blessing?",
+            "bn": "অন্যরা ফাঁকটা পূরণ করেন শুকরিয়া দিয়ে। মুয়াসসার বলে: তোমাকে ও তোমার সঙ্গীদের জিজ্ঞেস করা হবে এর জন্য আল্লাহর শুকরিয়া আর এর উপর আমল নিয়ে। কুরতুবী শুকরিয়ার মতটি উল্লেখ করেন মুকাতিল ও ফাররার নামে। ইবন জুরাইজ থেকে তিনি বর্ণনা করেন: তোমাকে ও তোমার সঙ্গীদের জিজ্ঞেস করা হবে, তোমাকে যা দেওয়া হয়েছে সে সম্পর্কে। তারপর তাঁর সিদ্ধান্ত, অর্থগুলো কাছাকাছি। সা'দী একে দুটি পথে ভাগ করেন। তোমরা কি এর হক আদায় করেছ, ফলে উঁচু হয়েছ আর উপকৃত হয়েছ? নাকি করোনি, ফলে এটি তোমাদের বিরুদ্ধে প্রমাণ হয়ে দাঁড়াবে, আর হবে এই নিয়ামতের না-শুকরি?"
+          },
+          {
+            "en": "Read together, the two halves of the verse explain each other. The dhikr, whether honour or reminder, is given first, and the question follows in the same breath. As the commentators read it, the honour is not a possession that sits in a family, and the reminder is not a sound that passes once. Both are things one will answer for. The address began with the Prophet ﷺ and his people, and Ibn Kathir's note that naming them first excludes no one else carries the question on to everyone the Book reaches: what did you do with it?",
+            "bn": "দুই অংশ একসঙ্গে পড়লে একটি অন্যটির ব্যাখ্যা হয়ে যায়। জিকর, তা সম্মান হোক বা উপদেশ, আগে দেওয়া হয়েছে। প্রশ্নটা এসেছে একই বাক্যে, ঠিক তার পরেই। তাফসীরকারদের পাঠে সম্মান কোনো পরিবারের ঘরে রাখা সম্পত্তি নয়। উপদেশও একবার কানে বেজে মিলিয়ে যাওয়া আওয়াজ নয়। দুটির জন্যই জবাব দিতে হবে। সম্বোধন শুরু হয়েছিল নবী ﷺ ও তাঁর কওমকে দিয়ে। ইবন কাসীর মনে করিয়ে দিয়েছেন, তাদের আগে উল্লেখ করায় অন্য কেউ বাদ পড়ে না। সেই সূত্রে প্রশ্নটা পৌঁছে যায় কিতাব যার কাছে পৌঁছেছে তার প্রত্যেকের কাছে: এটা নিয়ে তুমি কী করেছ?"
+          }
+        ]
+      }
+    ]
+  },
   "43:47": {
     "sections": [
       {
