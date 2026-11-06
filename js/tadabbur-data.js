@@ -28169,6 +28169,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Nothing that protects you from people can protect you from Allah; rely on faith and deeds, and read this warning about hypocrites as addressed first to yourself.",
     "lessonBn": "মানুষের হাত থেকে যা বাঁচায়, আল্লাহর কাছে তা কোনো কাজে আসে না। ঈমান আর আমলের উপর ভরসা রাখুন, আর মুনাফিকদের এ সতর্কবার্তা আগে নিজের জন্যই পড়ুন।"
+  },
+  "57:12": {
+    "reflectionEn": "On the Day this verse describes, the believing men and the believing women walk with a light running ahead of them and on their right, and they are told: your good news today is gardens with rivers flowing beneath them, to stay in for ever. The verses just before it speak of spending and of lending Allah a goodly loan, so the light does not come from nowhere. It is carried out of a life. The very next verse shows that no one can borrow it at the last moment. That makes the question a practical one. What am I doing today that will still be giving light then? And is anything I do, or any wrong I keep holding on to, dimming it already?",
+    "reflectionBn": "এ আয়াত যে দিনের কথা বলছে, সেদিন মু'মিন পুরুষ আর মু'মিন নারীরা হাঁটবে, আর তাদের আলো ছুটবে তাদের সামনে ও ডানে। তাদের বলা হবে: আজ তোমাদের জন্য সুসংবাদ, এমন জান্নাত যার নিচ দিয়ে নদী বয়ে চলে, সেখানে থাকবে চিরকাল। ঠিক আগের আয়াতগুলো খরচ করার কথা বলে, আল্লাহকে উত্তম ঋণ দেওয়ার কথা বলে। তাই এ আলো হঠাৎ কোথাও থেকে আসে না। একটা গোটা জীবন থেকে তা বয়ে আনা হয়। পরের আয়াতই দেখায়, শেষ মুহূর্তে কারও কাছ থেকে এ আলো ধার করা যায় না। প্রশ্নটা তাই একেবারে হাতে-কলমে। আজ আমি এমন কী করছি, যা সেদিনও আলো দেবে? আর আমার কোনো কাজ, কিংবা যে অন্যায় আমি এখনো আঁকড়ে ধরে আছি, তা কি এখনই সে আলো ম্লান করে দিচ্ছে?",
+    "pointsEn": [
+      "If my light on that Day were measured only by what I did this week, how far ahead of me would it reach?",
+      "This verse comes straight after the call to spend. Which act of giving have I been putting off that it is asking me to do now?",
+      "The verse names believing women beside believing men. Do I treat the women around me as full heirs of this promise?",
+      "Is there a wrong I am still doing to someone that I would not want to carry with me into that darkness?",
+      "When I hear good news about the next life, does it move me to act, or only make me feel safe?"
+    ],
+    "pointsBn": [
+      "সেদিন আমার আলো যদি কেবল এ সপ্তাহের আমল দিয়ে মাপা হতো, তা আমার সামনে কত দূর পর্যন্ত পৌঁছাত?",
+      "আয়াতটি এসেছে খরচ করার ডাকের ঠিক পরে। কোন দানটা আমি দিনের পর দিন পিছিয়ে রেখেছি, যা এ আয়াত আমাকে এখনই করতে বলছে?",
+      "আয়াতটি মু'মিন পুরুষদের পাশে মু'মিন নারীদের নাম আলাদা করে নিয়েছে। আমার আশপাশের নারীদের কি আমি এ প্রতিশ্রুতির পূর্ণ অংশীদার হিসেবে দেখি?",
+      "কারও উপর এমন কোনো অন্যায় কি আমি এখনো করে চলেছি, যা সঙ্গে নিয়ে সেই অন্ধকারে ঢুকতে চাইব না?",
+      "আখিরাতের সুসংবাদ শুনলে তা কি আমাকে কাজে নামায়, নাকি শুধু নিশ্চিন্ত করে দেয়?"
+    ],
+    "lessonEn": "Build your light now through faith and good deeds, generous giving above all, because on that Day it is measured by what you did and cannot be borrowed from anyone.",
+    "lessonBn": "ঈমান আর নেক আমল দিয়ে, বিশেষ করে উদার হাতে দান করে, এখনই নিজের আলো গড়ে তুলুন। কারণ সেদিন সে আলো মাপা হবে আপনার আমল দিয়ে, আর কারও কাছ থেকে তা ধার পাওয়া যাবে না।"
   }
 };
 

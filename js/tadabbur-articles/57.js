@@ -303,6 +303,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "57:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After the Goodly Loan",
+          "bn": "উত্তম ঋণের ঠিক পরে"
+        },
+        "p": [
+          {
+            "en": "Yawma tara al-mu'minina wa al-mu'minat: on the Day you see the believing men and the believing women. The verse comes straight after 57:11, which asks who will lend Allah a goodly loan, and promises that He will multiply it and that the lender will have a noble reward. Ibn Kathir opens his comment by calling the people of this verse the believers who give in charity, so he reads the light as belonging to those just urged to spend. The verse does not open a new subject. It shows the reward of the previous verse arriving.",
+            "bn": "ইয়াওমা তারাল মু'মিনীনা ওয়াল মু'মিনাত: যেদিন তুমি দেখবে মু'মিন পুরুষ ও মু'মিন নারীদের। আয়াতটি এসেছে ৫৭:১১-এর ঠিক পরে। সেখানে প্রশ্ন ছিল, কে আল্লাহকে উত্তম ঋণ দেবে? সঙ্গে প্রতিশ্রুতি ছিল, তিনি তা বহুগুণ বাড়িয়ে দেবেন, আর ঋণদাতা পাবে সম্মানজনক প্রতিদান। ইবন কাসীর তাঁর ব্যাখ্যার শুরুতেই এ আয়াতের মানুষদের বলেন দানশীল মু'মিন। অর্থাৎ তাঁর পাঠে এ আলো তাদেরই, যাদের একটু আগে খরচ করতে ডাকা হয়েছে। নতুন কোনো প্রসঙ্গ এখানে শুরু হচ্ছে না। আগের আয়াতের প্রতিদান কীভাবে এসে পৌঁছায়, আয়াতটি তা-ই দেখায়।"
+          },
+          {
+            "en": "The commentators differ over what the word yawm, the Day, hangs on, and the difference shapes the reading. Al-Qurtubi makes it depend on and he will have a noble reward at the end of 57:11, with words understood: a noble reward on the Day you see the believers. At-Tabari attaches it instead to 57:10, wa kullan wa'ada-llahu al-husna, and to each Allah has promised the best. On either reading the Day is when spending is repaid. The verse also names believing women beside believing men, as 57:18 will name the women who give beside the men who give.",
+            "bn": "ইয়াওম, অর্থাৎ 'দিন' শব্দটি কোন কথার সঙ্গে বাঁধা, তা নিয়ে তাফসীরকারদের মত আলাদা, আর এ পার্থক্য পাঠটাকেই বদলে দেয়। কুরতুবীর মতে এটি ৫৭:১১-এর শেষ অংশ 'আর তার জন্য আছে সম্মানজনক প্রতিদান'-এর উপর নির্ভরশীল। মাঝখানে কিছু কথা ঊহ্য: সম্মানজনক প্রতিদান সেদিন, যেদিন তুমি মু'মিনদের দেখবে। তাবারী একে জুড়ে দেন ৫৭:১০-এর সঙ্গে: ওয়া কুল্লান ওয়াআদাল্লাহুল হুসনা, আল্লাহ সবাইকেই কল্যাণের প্রতিশ্রুতি দিয়েছেন। যে পাঠই ধরা হোক, এ দিন খরচের প্রতিদান মেটানোর দিন। লক্ষ করুন, আয়াতটি মু'মিন পুরুষদের পাশে মু'মিন নারীদের নামও নেয়। ৫৭:১৮ আয়াতেও দানশীল পুরুষদের পাশে দানশীল নারীদের নাম আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mountain Down to a Thumb",
+          "bn": "পাহাড় থেকে বুড়ো আঙুল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains that their light runs before them in the plains of the Resurrection according to their deeds, and quotes 'Abd Allah ibn Mas'ud (RA) on the phrase: according to their deeds they pass over the Sirat; some have a light like a mountain, some like a date palm, some like a man standing, and the least of them in light has his light on his thumb, now flaring up, now going out. Ibn Kathir says Ibn Abi Hatim and Ibn Jarir report it. These are Ibn Mas'ud's own words; no file traces them to the Prophet ﷺ.",
+            "bn": "ইবন কাসীর বলেন, কিয়ামতের ময়দানে তাদের আলো তাদের সামনে ছুটবে তাদের আমল অনুযায়ী। এ অংশের ব্যাখ্যায় তিনি আবদুল্লাহ ইবন মাসউদ (রাঃ)-এর কথা উদ্ধৃত করেন: নিজ নিজ আমলের মাপে তারা সিরাত পার হবে। কারও আলো হবে পাহাড়ের মতো, কারও খেজুর গাছের মতো, কারও দাঁড়ানো মানুষের সমান। আলোয় যে সবার নিচে, তার আলো থাকবে তার বুড়ো আঙুলে, একবার জ্বলে উঠবে, একবার নিভে যাবে। ইবন কাসীর জানান, ইবন আবী হাতিম ও ইবন জারীর এটি বর্ণনা করেছেন। কথাগুলো ইবন মাসউদের নিজের। কোনো তাফসীর এগুলোকে নবী ﷺ-এর বাণী বলে উল্লেখ করেনি।"
+          },
+          {
+            "en": "The other files carry the same report in shorter forms. At-Tabari gives it through Qays ibn Sakan from 'Abd Allah: they are given their light in measure with their deeds, one like a date palm, one like a standing man, and the least on his thumb, put out at one moment and lit at another. The mountain is not in his wording, nor in al-Qurtubi's or al-Baghawi's, and al-Qurtubi puts the least light on the big toe. The Muyassar folds the idea into its paraphrase, in measure with their deeds; as-Sa'di writes, each according to his faith.",
+            "bn": "অন্য তাফসীরগুলোতেও একই বর্ণনা আছে, তবে ছোট আকারে। তাবারী এটি এনেছেন কায়স ইবন সাকানের সূত্রে, আবদুল্লাহ থেকে: আমলের পরিমাণ অনুযায়ী তাদের আলো দেওয়া হবে। কারও আলো খেজুর গাছের মতো, কারও দাঁড়ানো মানুষের মতো, আর সবচেয়ে কম যার, তার আলো বুড়ো আঙুলে, একবার নেভে, একবার জ্বলে। তাবারীর ভাষ্যে পাহাড়ের কথা নেই, কুরতুবী আর বাগাভীর ভাষ্যেও নেই। কুরতুবী সবচেয়ে কম আলোটুকু রাখেন পায়ের বুড়ো আঙুলে। মুয়াসসার পুরো ভাবটা এক কথায় বলে দেয়: আমলের পরিমাণ অনুযায়ী। আর সা'দী লেখেন: প্রত্যেকে নিজ নিজ ঈমানের মাপে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Madinah to Aden",
+          "bn": "মদীনা থেকে আদন পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Four of the commentaries bring a report from Qatada that opens dhukira lana, it was mentioned to us, that the Prophet of Allah ﷺ used to say: among the believers is one whose light shines from Madinah to Aden Abyan and San'a, and less than that, until among the believers is one whose light lights only the place of his feet. At-Tabari, Ibn Kathir, al-Qurtubi and al-Baghawi all give it. Qatada does not say who mentioned it to him, and none of the files grades it, so it stands here as what they report, not as a confirmed saying.",
+            "bn": "চারটি তাফসীর কাতাদার একটি বর্ণনা আনে, যা শুরু হয় 'যুকিরা লানা' দিয়ে, অর্থাৎ আমাদের কাছে বলা হয়েছে যে আল্লাহর নবী ﷺ বলতেন: মু'মিনদের কারও আলো মদীনা থেকে আদন আবইয়ান ও সানআ পর্যন্ত আলোকিত করবে, কারও তার চেয়ে কম। শেষে এমন মু'মিনও থাকবে, যার আলো কেবল তার দুই পা রাখার জায়গাটুকু আলোকিত করবে। তাবারী, ইবন কাসীর, কুরতুবী ও বাগাভী সবাই এটি এনেছেন। কিন্তু কে তাঁকে কথাটা বলেছিল, কাতাদা তা জানাননি, আর কোনো তাফসীরেও এর মান যাচাই করা নেই। তাই এখানে এটিকে তাফসীরকারদের বর্ণনা হিসেবেই রাখা হলো, প্রমাণিত হাদিস হিসেবে নয়।"
+          },
+          {
+            "en": "Ibn Kathir adds a saying of Junada ibn Abi Umayya, through Mujahid: you are written down with Allah by your names, your marks, your features, your private talk and your gatherings, and on the Day of Resurrection it will be said: so-and-so, this is your light; so-and-so, you have no light. Then he recited this verse. Whatever the distances, the reports agree on one thing: the light is personal. It is not a lamp hung over the crowd. Each person is seen, called by name, and given the light that matches what was written.",
+            "bn": "ইবন কাসীর এর সঙ্গে যোগ করেন জুনাদা ইবন আবী উমাইয়ার একটি কথা, মুজাহিদের সূত্রে: আল্লাহর কাছে তোমাদের লিখে রাখা আছে তোমাদের নাম, চিহ্ন, চেহারা-সুরত, গোপন আলাপ আর বৈঠকসহ। কিয়ামতের দিন বলা হবে: অমুক, এই তোমার আলো। অমুক, তোমার কোনো আলো নেই। তারপর তিনি এ আয়াতটি তিলাওয়াত করেন। দূরত্বের হিসাব যেমনই হোক, বর্ণনাগুলো একটি কথায় একমত: আলোটা একান্ত ব্যক্তিগত। ভিড়ের মাথার উপর ঝোলানো কোনো বাতি নয়। প্রত্যেককে আলাদা করে দেখা হয়, নাম ধরে ডাকা হয়, আর যা লেখা আছে তার মাপেই তাকে আলো দেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brightness, or Guidance Itself?",
+          "bn": "ঔজ্জ্বল্য, নাকি হিদায়াত?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying the people of interpretation differ over this phrase. One group reads it plainly: their light shines before them and on their right; he gives this from Qatada and from Ibn Mas'ud. Another group, through ad-Dahhak, takes the light as their faith and guidance and on their right as their books, citing whoever is given his book in his right hand. Ibn Kathir carries ad-Dahhak's reading of the right hand with 17:71. Al-Qurtubi records ad-Dahhak's view, notes that at-Tabari chose it, and adds an unnamed third: the light is the Qur'an.",
+            "bn": "তাবারী শুরুতেই বলেন, এ অংশের ব্যাখ্যায় তাফসীরকারদের মধ্যে মতভেদ আছে। একদল সোজা অর্থ নেন: তাদের আলো তাদের সামনে ও ডানে জ্বলবে। এ মত তিনি এনেছেন কাতাদা ও ইবন মাসউদ থেকে। আরেক দল দাহহাকের সূত্রে বলেন, আলো মানে তাদের ঈমান ও হিদায়াত, আর 'ডানে' মানে তাদের আমলনামা। প্রমাণ হিসেবে তাঁরা আনেন সেই আয়াত, যাকে তার আমলনামা ডান হাতে দেওয়া হবে। ইবন কাসীরও দাহহাকের এ ব্যাখ্যা আনেন ১৭:৭১ আয়াতের সঙ্গে মিলিয়ে। কুরতুবী দাহহাকের মত উল্লেখ করে জানান, তাবারী এটিকেই বেছে নিয়েছেন। সঙ্গে তিনি নাম ছাড়া তৃতীয় একটি মতও আনেন: আলো মানে কুরআন।"
+          },
+          {
+            "en": "At-Tabari gives his reason as a piece of logic. If ordinary brightness were meant, the verse would not single out the front and the right and leave out the left, because the light the believers are given in the next life lights everything around them. Naming two sides shows that something other than brightness is meant, though they are not without brightness. So he paraphrases: the reward of their faith and righteous deeds goes before them, and in their right hands their books of deeds fly. Yas'a, he says, means it moves on. On his reading a life's record walks ahead of its owner.",
+            "bn": "তাবারী তাঁর কারণটা দেন যুক্তি দিয়ে। সাধারণ ঔজ্জ্বল্য বোঝানো হলে আয়াত বাঁ দিক বাদ দিয়ে শুধু সামনে আর ডানের কথা বলত না। কারণ আখিরাতে মু'মিনরা যে আলো পাবে, তা তাদের চারপাশের সবকিছু আলোকিত করবে। দুটি দিক আলাদা করে বলায় বোঝা যায়, এখানে ঔজ্জ্বল্যের বাইরে অন্য কিছু উদ্দেশ্য, যদিও আলো থেকে তারা বঞ্চিত নয়। তাই তাঁর ব্যাখ্যা দাঁড়ায় এমন: তাদের ঈমান আর নেক আমলের প্রতিদান তাদের সামনে এগিয়ে চলবে, আর তাদের ডান হাতে উড়ে আসবে আমলনামা। ইয়াস'আ শব্দের অর্থ তিনি করেন, এগিয়ে যায়। তাঁর পাঠে একটা গোটা জীবনের হিসাব মানুষের আগে আগে হাঁটে।"
+          },
+          {
+            "en": "Al-Qurtubi keeps the plain reading beside at-Tabari's. He reports from al-Hasan that the light moves on the Sirat and is the brightness they walk in, and from Muqatil that it is there to lead them to Paradise. Al-Baghawi also sets it on the Sirat and calls it their guide to Paradise. So the files hold two answers, and they are kept here as two: a light that shines, in Ibn Mas'ud, Qatada, al-Hasan and al-Baghawi; and guidance with written records, in ad-Dahhak, as at-Tabari prefers him.",
+            "bn": "কুরতুবী তাবারীর পাঠের পাশাপাশি সরল অর্থটাও রেখে দেন। হাসান থেকে তিনি বর্ণনা করেন, এ আলো সিরাতের উপর এগিয়ে চলে, এটাই সেই ঔজ্জ্বল্য যার মধ্য দিয়ে তারা হাঁটে। মুকাতিল থেকে বর্ণনা করেন, এ আলো তাদের জান্নাতের পথ দেখাবে। বাগাভীও আলোটাকে সিরাতের উপর রাখেন এবং বলেন, এটাই জান্নাতের দিকে তাদের পথপ্রদর্শক। তাহলে তাফসীরগুলোতে দুটি উত্তর পাওয়া যায়, আর এখানে সে দুটোকে আলাদাই রাখা হলো। একটি হলো সত্যিকারের জ্বলন্ত আলো, যা ইবন মাসউদ, কাতাদা, হাসান ও বাগাভীর কথা। অন্যটি হিদায়াত ও লিখিত আমলনামা, যা দাহহাকের কথা, আর তাবারী এটিকেই অগ্রাধিকার দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In the Hand, or Beside It?",
+          "bn": "ডান হাতে, নাকি ডান পাশে?"
+        },
+        "p": [
+          {
+            "en": "Wa bi-aymanihim, and on their right, turns on one small letter, bi. Al-Qurtubi reports two meanings for it from al-Farra': in, so the sense is in their right hands, or from, so the sense is at their right side. At-Tabari takes it as in, and reports that a grammarian of Basra read it as upon their right. Al-Baghawi writes on their right, then adds that some said all their sides are meant, the part named for the whole. Ibn Kathir, from ad-Dahhak, reads it as their books held in their right hands.",
+            "bn": "ওয়া বিআইমানিহিম, আর তাদের ডানে। পুরো অর্থটা ঘোরে একটি ছোট্ট হরফকে ঘিরে: বা। কুরতুবী ফাররা থেকে এর দুটি অর্থ বর্ণনা করেন। একটি হলো 'মধ্যে', তখন অর্থ দাঁড়ায় তাদের ডান হাতে। অন্যটি 'দিক থেকে', তখন অর্থ তাদের ডান পাশে। তাবারী প্রথম অর্থটি নেন, আর জানান যে বসরার এক ব্যাকরণবিদ পড়েছেন 'তাদের ডানের উপর'। বাগাভী লেখেন, তাদের ডান দিকে। তারপর যোগ করেন, কেউ কেউ বলেছেন সব দিকই উদ্দেশ্য, অংশের নাম নিয়ে পুরোটা বোঝানো হয়েছে। ইবন কাসীর দাহহাক থেকে বলেন, এর মানে ডান হাতে ধরা তাদের আমলনামা।"
+          },
+          {
+            "en": "The choice even touches recitation. Al-Qurtubi notes that if bi means in, with the books in their hands, one may pause after bayna aydihim, before them; if it means from, one does not pause there, since both phrases describe the one light. He also records a different reading: Sahl ibn Sa'd as-Sa'idi and Abu Haywa read wa bi-imanihim, with a kasra under the alif, meaning the faith that is the opposite of disbelief. On that reading the light runs before them and with their faith.",
+            "bn": "এ বাছাইয়ের প্রভাব তিলাওয়াতেও পড়ে। কুরতুবী বলেন, বা যদি 'মধ্যে' অর্থে হয়, অর্থাৎ আমলনামা তাদের হাতে, তবে বাইনা আইদীহিম, 'তাদের সামনে' বলে থামা যায়। আর যদি 'দিক থেকে' অর্থে হয়, তবে সেখানে থামা যাবে না, কারণ দুটো অংশ মিলে একই আলোর বর্ণনা দিচ্ছে। তিনি ভিন্ন একটি কিরাআতও উল্লেখ করেন। সাহল ইবন সা'দ সাঈদী ও আবু হাইওয়া পড়েছেন ওয়া বিঈমানিহিম, আলিফের নিচে যের দিয়ে। এখানে ঈমান মানে কুফরের বিপরীত সেই ঈমান। এ পাঠে আলো ছুটবে তাদের সামনে, আর তাদের ঈমানের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Sun Is Folded",
+          "bn": "সূর্য যখন গুটিয়ে নেওয়া হবে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di fills in the scene. On the Day of Resurrection the sun is folded up, the moon is eclipsed, people are in darkness, and the Sirat is set up over Hell. Then you see the believing men and women, their light before them and on their right, walking with their faith and their light through that terrible, hard standing, each according to his faith. The Muyassar also places the light on the Sirat, and al-Hasan's remark in Ibn Kathir is two words: on the Sirat. The light matters because everyone else is in the dark.",
+            "bn": "সা'দী দৃশ্যটা পূর্ণ করে দেন। কিয়ামতের দিন সূর্যকে গুটিয়ে নেওয়া হবে, চাঁদ হারাবে তার আলো, মানুষ পড়ে থাকবে অন্ধকারে, আর জাহান্নামের উপর স্থাপন করা হবে সিরাত। তখনই তুমি দেখবে মু'মিন পুরুষ ও নারীদের, তাদের সামনে ও ডানে তাদের আলো। সেই ভয়ংকর কঠিন অবস্থানে তারা হাঁটবে নিজেদের ঈমান আর আলো নিয়ে, প্রত্যেকে নিজ ঈমানের মাপে। মুয়াসসারও আলোটাকে রাখে সিরাতের উপর। ইবন কাসীরের উদ্ধৃতিতে হাসানের মন্তব্য মাত্র দুই শব্দের: সিরাতের উপর। চারপাশের সবাই যখন অন্ধকারে, তখনই এ আলোর আসল দাম।"
+          },
+          {
+            "en": "Sahih Muslim (191) records a long account from Jabir ibn 'Abd Allah (RA), given when he was asked about the arrival on the Day of Resurrection. Part of it reads: 'and every person, whether a hypocrite or a believer, would be endowed with a light, and there would be spikes and hooks on the bridge of the Hell, which would catch hold of those whom Allah willed. Then the light of the hypocrites would be extinguished, and the believers would secure salvation.' In this narration Jabir is the speaker; the text does not attribute these words to the Prophet ﷺ, and it is not attached to this verse.",
+            "bn": "সহীহ মুসলিম (১৯১) জাবির ইবন আবদুল্লাহ (রাঃ)-এর একটি দীর্ঘ বর্ণনা এনেছে। কিয়ামতের দিন উপস্থিত হওয়া নিয়ে তাঁকে প্রশ্ন করা হলে তিনি এ বিবরণ দেন। তার একটি অংশ এই: 'প্রত্যেক মানুষকে, মুনাফিক হোক বা মু'মিন, একটি আলো দেওয়া হবে। জাহান্নামের সেতুর উপর থাকবে কাঁটা আর আংটা, আল্লাহ যাকে চান সেগুলো তাকে আটকে ধরবে। তারপর মুনাফিকদের আলো নিভে যাবে, আর মু'মিনরা মুক্তি পাবে।' এ বর্ণনায় বক্তা জাবির নিজে। পাঠে কথাগুলো নবী ﷺ-এর দিকে সম্পৃক্ত করা হয়নি, আর এটি এ আয়াতের সঙ্গেও যুক্ত নয়।"
+          },
+          {
+            "en": "Whether the hypocrites receive any light at the start is itself disputed. Ma'arif al-Qur'an sets a report from Abu Umamah, through Ibn Abi Hatim, in which they receive none, beside one from Ibn 'Abbas in at-Tabarani in which they receive it and lose it at the bridge. That scene belongs to 57:13 and to the prayer of 66:8, and it is not retold here. It describes the Day, and it licenses nothing against any living person.",
+            "bn": "শুরুতে মুনাফিকরা আদৌ কোনো আলো পাবে কি না, সেটাও মতভেদের বিষয়। মাআরিফুল কুরআন ইবন আবী হাতিমের সূত্রে আবু উমামার একটি বর্ণনা আনে, যাতে তারা কোনো আলোই পায় না। তার পাশে রাখে তাবারানীতে ইবন আব্বাসের একটি বর্ণনা, যাতে তারা আলো পায় এবং সেতুর কাছে গিয়ে হারায়। সে দৃশ্যের জায়গা ৫৭:১৩ আয়াত আর ৬৬:৮-এর দোয়া, তাই এখানে তা আবার বলা হলো না। এ বর্ণনা সেই দিনের ছবি। জীবিত কোনো মানুষের বিরুদ্ধে কিছু বলার অনুমতি এটি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good News, Spoken to Them",
+          "bn": "সুসংবাদ, সরাসরি তাদের শোনানো"
+        },
+        "p": [
+          {
+            "en": "Bushrakum al-yawm: your good news today. The verse turns from describing the believers to speaking to them. At-Tabari and Ibn Kathir supply it will be said to them; al-Baghawi names the speakers as the angels. At-Tabari spells it out: your good news today, O believers, is gardens beneath which rivers flow, so rejoice in it. Al-Qurtubi notes a gap in the grammar: good news is an event and a garden is a thing, so one cannot simply be the other. A word must be understood, and he supplies it: entry into gardens. The Muyassar says the same.",
+            "bn": "বুশরাকুমুল ইয়াওম: আজ তোমাদের সুসংবাদ। এখানে এসে আয়াতটি মু'মিনদের বর্ণনা থেকে সরে সরাসরি তাদের সঙ্গে কথা বলে। তাবারী ও ইবন কাসীর ঊহ্য কথাটা জুড়ে দেন: তাদের বলা হবে। বাগাভী বক্তাদের নামও বলেন: ফেরেশতারা। তাবারী খুলে বলেন: হে মু'মিনরা, আজ তোমাদের যে সুসংবাদ দেওয়া হচ্ছে, তা হলো এমন জান্নাত যার নিচ দিয়ে নদী বয়ে চলে, অতএব আনন্দিত হও। কুরতুবী ব্যাকরণের একটা ফাঁক ধরিয়ে দেন। সুসংবাদ একটা ঘটনা, আর জান্নাত একটা বস্তু, তাই একটাকে সরাসরি অন্যটা বলা যায় না। মাঝে একটি শব্দ ঊহ্য ধরতে হয়, আর তিনি সেটা বসান: জান্নাতে প্রবেশ। মুয়াসসারও একই কথা বলে।"
+          },
+          {
+            "en": "On the rivers, al-Qurtubi says rivers of milk, water, wine and honey run beneath their dwellings; the Muyassar puts them beneath the palaces and trees of gardens it calls wide. Khalidina fiha, abiding in them: at-Tabari glosses it as staying there, never moving out of them or shifting elsewhere. Then dhalika huwa al-fawzu al-'azim. At-Tabari explains that their abiding in the gardens is the great success they had been seeking, after being saved from Allah's punishment. As-Sa'di simply exclaims: how sweet this good news is to their hearts, now that every wish is met and every fear is gone.",
+            "bn": "নদীগুলোর ব্যাপারে কুরতুবী বলেন, তাদের বাসস্থানের নিচ দিয়ে বয়ে চলবে দুধ, পানি, শরাব আর মধুর নদী। মুয়াসসার জান্নাতগুলোকে বলে প্রশস্ত, আর নদীগুলো রাখে সেখানকার প্রাসাদ ও গাছপালার নিচে। খালিদীনা ফীহা, সেখানে তারা চিরকাল থাকবে। তাবারীর ব্যাখ্যায়, তারা সেখানেই থাকবে, কখনো বেরিয়ে যাবে না, অন্য কোথাও সরেও যাবে না। তারপর যালিকা হুওয়াল ফাওযুল আযীম। তাবারী বলেন, আল্লাহর শাস্তি থেকে মুক্তির পর জান্নাতে এই চিরস্থায়ী বাস, এটাই সেই মহা সাফল্য যা তারা খুঁজছিল। আর সা'দী শুধু বিস্ময়ে বলে ওঠেন: তাদের অন্তরের কাছে এ সুসংবাদ কতই না মধুর! চাওয়ার সব পাওয়া হয়ে গেছে, ভয়ের সবকিছু দূরে সরে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lamps Lit Before That Day",
+          "bn": "সেদিনের আগেই জ্বালানো প্রদীপ"
+        },
+        "p": [
+          {
+            "en": "None of the files attaches a sound hadith to this verse itself. Ma'arif al-Qur'an, following Tafsir Mazhari, does gather sayings about what brings light or darkness on that Day, and two of them can be checked in the collections. Abu Dawud (561) records from Buraydah (RA) that the Prophet ﷺ said: 'Give good tidings to those who walk to the mosques in darkness for having a perfect light on the Day of Judgment.' At-Tirmidhi (223) records it too and calls it gharib through this route. Neither is a comment on 57:12; both speak of light on the same Day.",
+            "bn": "কোনো তাফসীরই এ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদিস যুক্ত করেনি। তবে মাআরিফুল কুরআন তাফসীরে মাযহারী অনুসরণ করে এমন কিছু বাণী একত্র করেছে, যেগুলো সেদিনের আলো আর অন্ধকারের কারণ নিয়ে কথা বলে। তার দুটি হাদিসগ্রন্থে মিলিয়ে দেখা যায়। আবু দাউদ (৫৬১) বুরাইদা (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন: 'যারা অন্ধকারে হেঁটে মসজিদে যায়, তাদের কিয়ামতের দিনের পূর্ণ আলোর সুসংবাদ দাও।' তিরমিযীও (২২৩) এটি এনেছেন এবং বলেছেন, এই সূত্রে হাদিসটি গারীব। কোনোটিই ৫৭:১২-এর ব্যাখ্যা নয়। দুটোই সেই একই দিনের আলোর কথা বলে।"
+          },
+          {
+            "en": "Al-Bukhari (2447) records from Ibn 'Umar (RA) that the Prophet ﷺ said: 'Oppression will be a darkness on the Day of Resurrection.' This too is a general narration, not attached to the verse. Set beside Ibn Mas'ud's scale, the two sayings mark both ends: walking to prayer in the dark is answered with light, and wronging people is answered with darkness. The verse itself sits in a passage about spending, and Ibn Kathir names its people as those who give. The light of that Day is not handed out at the bridge. It is lit here, by what a person does with prayer, with wealth and with other people.",
+            "bn": "বুখারী (২৪৪৭) ইবন উমর (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন: 'যুলুম কিয়ামতের দিন অন্ধকার হয়ে দেখা দেবে।' এটিও সাধারণ বর্ণনা, এ আয়াতের সঙ্গে যুক্ত নয়। ইবন মাসউদের সেই মাপকাঠির পাশে রাখলে বাণী দুটি দুই প্রান্ত দেখিয়ে দেয়। অন্ধকারে নামাজে হেঁটে যাওয়ার জবাব আলো, আর মানুষের উপর যুলুমের জবাব অন্ধকার। আয়াতটিও বসে আছে খরচ করার আলোচনার মাঝে, আর ইবন কাসীর এর মানুষদের বলেন দানশীল। সেদিনের আলো সেতুর মুখে বিলি করা হয় না। এখানেই তা জ্বালানো হয়, নামাজ দিয়ে, সম্পদ দিয়ে, আর মানুষের সঙ্গে আচরণ দিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "57:16": {
     "sections": [
       {
