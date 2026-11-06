@@ -1743,6 +1743,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Warner for All the Towns",
+          "bn": "সব জনপদের জন্য একজন সতর্ককারী"
+        },
+        "p": [
+          {
+            "en": "Fa-la tuti'i al-kafirina wa-jahidhum bihi jihadan kabira: so do not obey the disbelievers, and strive against them with it a great striving. Seven Arabic words carry two commands and a pronoun on which the whole verse turns. The verse opens with fa, so, and the so points back to the verse before it: had We willed, We would have sent a warner into every town. The Muyassar reads the two verses as one thought, and that reading frames both commands.",
+            "bn": "ফালা তুতিইল কাফিরীনা ওয়া জাহিদহুম বিহী জিহাদান কাবীরা: কাজেই কাফিরদের কথা মেনো না, আর এর দ্বারা তাদের বিরুদ্ধে সংগ্রাম করো, বড় সংগ্রাম। আরবিতে মাত্র সাতটি শব্দ। তাতে দুটি আদেশ, আর একটি সর্বনাম, যার উপর পুরো আয়াত দাঁড়িয়ে। শুরুতে আছে 'ফা', মানে 'কাজেই'। এই 'কাজেই' ফিরে তাকায় আগের আয়াতের দিকে: আমি চাইলে প্রতিটি জনপদে একজন করে সতর্ককারী পাঠাতাম। মুয়াসসার দুটি আয়াতকে একটি ভাবনা হিসেবে পড়ে। আদেশ দুটি বোঝার কাঠামো ওই পাঠ থেকেই আসে।"
+          },
+          {
+            "en": "Had We willed, the Muyassar says, We would have sent into every town a warner, calling its people to God and warning them of His punishment. But We made you, O Messenger, one sent to all the people of the earth, and commanded you to convey this Qur'an to them. So do not obey the disbelievers in abandoning anything you were sent with; spend your effort in conveying the message instead.",
+            "bn": "মুয়াসসারের ব্যাখ্যা এরকম। আল্লাহ চাইলে প্রতিটি জনপদে একজন সতর্ককারী পাঠাতেন, যিনি সেখানকার মানুষকে আল্লাহর দিকে ডাকতেন আর তাঁর আজাবের ভয় দেখাতেন। কিন্তু হে রাসূল, আপনাকেই তিনি পাঠিয়েছেন পৃথিবীর সব মানুষের কাছে, আর আদেশ দিয়েছেন এই কুরআন তাদের কাছে পৌঁছে দিতে। কাজেই যা দিয়ে আপনাকে পাঠানো হয়েছে, তার কোনো কিছু ছেড়ে দেওয়ার ব্যাপারে কাফিরদের কথা মানবেন না। বরং বার্তা পৌঁছাতে নিজের চেষ্টা ঢেলে দিন।"
+          },
+          {
+            "en": "Ibn Kathir supports the point with verses from elsewhere. Among them is 6:19, where the Prophet ﷺ says that this Qur'an has been revealed to him that I may warn you with it, and whomever it reaches; and 7:158, Say: O mankind, I am the Messenger of God to you all. Ibn Kathir does not remark on it, but the Arabic of 6:19 uses the same pronoun as our verse, bihi, with it, and there the thing meant is named outright: this Qur'an.",
+            "bn": "ইবন কাসীর কথাটার সমর্থনে অন্য জায়গার আয়াত আনেন। তার একটি ৬:১৯, যেখানে নবী ﷺ বলছেন, এই কুরআন আমার কাছে ওহি করা হয়েছে, যাতে এর দ্বারা আমি তোমাদের সতর্ক করি এবং যার কাছে এটি পৌঁছায় তাকেও। আরেকটি ৭:১৫৮: বলুন, হে মানুষ, আমি তোমাদের সবার কাছে আল্লাহর রাসূল। ইবন কাসীর নিজে এ দিকে ইঙ্গিত করেননি। তবে ৬:১৯ আয়াতের আরবিতেও ঠিক আমাদের আয়াতের সর্বনামটিই আছে, 'বিহী', এর দ্বারা। আর সেখানে জিনিসটার নাম সরাসরি বলা আছে: এই কুরআন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent to People at Large",
+          "bn": "নির্দিষ্ট জাতি নয়, সব মানুষ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir then cites the Two Sahihs for the same point. The wording in Sahih al-Bukhari (no. 335) comes from Jabir ibn Abdullah. The Prophet ﷺ said that he had been given five things not given to anyone before him: victory through awe at a month's distance, the earth made a place of prayer and a means of purification, the spoils of war made lawful, the right of intercession, and a fifth: every Prophet used to be sent to his nation only, but I have been sent to all mankind.",
+            "bn": "এরপর ইবন কাসীর একই কথার জন্য দুই সহীহ গ্রন্থের উদ্ধৃতি দেন। সহীহ বুখারীতে (নং ৩৩৫) বর্ণনাটি জাবির ইবন আবদুল্লাহ (রাঃ)-এর। নবী ﷺ বলেছেন, তাঁকে এমন পাঁচটি জিনিস দেওয়া হয়েছে, যা তাঁর আগে কাউকে দেওয়া হয়নি। এক মাসের দূরত্ব পর্যন্ত শত্রুর মনে ভীতি দিয়ে সাহায্য। গোটা পৃথিবীকে নামাযের জায়গা আর পবিত্রতা অর্জনের উপায় বানিয়ে দেওয়া। গনিমতের মাল হালাল করা। শাফাআতের অধিকার। আর পঞ্চমটি: আগে প্রত্যেক নবীকে পাঠানো হতো কেবল তাঁর নিজের জাতির কাছে, আর আমাকে পাঠানো হয়েছে সব মানুষের কাছে।"
+          },
+          {
+            "en": "Two cautions belong here. Ibn Kathir cites this narration for the verse before ours, about the warner not sent to every town, and none of the commentaries fetched for this verse attaches a hadith to 25:52 itself. Nor do any of them give an occasion of revelation for it. What the narration adds is the scale behind the command. One messenger for the whole earth means one book carried far, and the two commands of this verse are about how that carrying is to be done.",
+            "bn": "এখানে দুটি সতর্কতা দরকার। ইবন কাসীর বর্ণনাটি এনেছেন আগের আয়াতের প্রসঙ্গে, যেখানে প্রতিটি জনপদে সতর্ককারী না পাঠানোর কথা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ২৫:৫২ আয়াতের সঙ্গে নির্দিষ্টভাবে কোনো হাদীস যুক্ত করেনি। শানে নুযূল বা নাযিলের কোনো উপলক্ষও তারা উল্লেখ করেনি। বর্ণনাটি যা যোগ করে, তা হলো আদেশের পেছনের পরিসর। গোটা পৃথিবীর জন্য একজন রাসূল মানে একটি কিতাবকে বহু দূর পৌঁছে দেওয়া। আর এ আয়াতের দুটি আদেশ সেই পৌঁছে দেওয়ার ধরন নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Offers to Meet Halfway",
+          "bn": "আপসের প্রস্তাব, মাঝামাঝি পথ"
+        },
+        "p": [
+          {
+            "en": "What were the disbelievers asking him to obey? The commentators answer from different sides. Al-Qurtubi names the content: do not obey them in what they call you to, following their gods. Al-Baghawi names the manner: do not obey them in what they call you to of agreeing with them and mudahana, a word for smoothing things over at the expense of what is right. One commentator points at the idols themselves; the other points at the softer, more reasonable-sounding request to meet the opponents somewhere in the middle.",
+            "bn": "কাফিররা আসলে কোন ব্যাপারে তাঁকে তাদের কথা মানতে বলছিল? তাফসীরকারেরা উত্তর দেন ভিন্ন ভিন্ন দিক থেকে। কুরতুবী বলেন দাবির বিষয়বস্তুর কথা: তারা আপনাকে তাদের দেবতাদের অনুসরণের দিকে যে ডাকে, তাতে তাদের কথা মানবেন না। বাগাভী বলেন দাবির ধরনের কথা: তাদের সঙ্গে একমত হওয়া আর মুদাহানার দিকে যে ডাকে, তাতে মানবেন না। মুদাহানা মানে সত্যের ক্ষতি করে ব্যাপারটা মিটমাট করে ফেলা। একজনের আঙুল সরাসরি মূর্তিগুলোর দিকে। অন্যজনের আঙুল সেই নরম, যুক্তিসংগত শোনানো অনুরোধের দিকে: চলো, মাঝামাঝি কোথাও মিলে যাই।"
+          },
+          {
+            "en": "The Muyassar and as-Sa'di use almost the same words and name the cost: do not obey them in abandoning anything of what you were sent with; spend your effort in conveying it. As-Sa'di ends his comment with a related instruction: do not despair of their guidance, and do not stop conveying the message to them for the sake of their desires. On these readings the forbidden obedience is not only worship of idols. It is any trimming of the message, large or small, done to suit the people who reject it.",
+            "bn": "মুয়াসসার আর সা'দী প্রায় একই ভাষায় এর মূল্যটা বলে দেন: যা দিয়ে আপনাকে পাঠানো হয়েছে, তার কোনো কিছু ছেড়ে দেওয়ার ব্যাপারে তাদের কথা মানবেন না। বরং তা পৌঁছে দিতে নিজের চেষ্টা ঢেলে দিন। সা'দী তাঁর ব্যাখ্যা শেষ করেন এর সঙ্গে জড়িত আরেকটি নির্দেশে: তাদের হিদায়াতের ব্যাপারে নিরাশ হবেন না, আর তাদের খেয়ালখুশির খাতিরে তাদের কাছে বার্তা পৌঁছানো বন্ধ করবেন না। এই পাঠ অনুযায়ী নিষিদ্ধ আনুগত্য শুধু মূর্তিপূজা নয়। যারা বার্তা প্রত্যাখ্যান করে, তাদের মন রাখতে বার্তার যেকোনো অংশ ছেঁটে ফেলা, ছোট হোক বা বড়, তাও এর মধ্যে পড়ে।"
+          },
+          {
+            "en": "Al-Baghawi's word mudahana comes from the same root as the verb in 68:9: wadduu law tudhinu fa-yudhinun, they wish that you would compromise, so that they would compromise. None of the commentaries fetched for this verse cites 68:9 here, so the link is offered as a reader's cross-reference and nothing more. It shows only that the Qur'an names this pressure elsewhere too: a bargain, bend and we will bend.",
+            "bn": "বাগাভীর ব্যবহৃত মুদাহানা শব্দটি ৬৮:৯ আয়াতের ক্রিয়াটির একই ধাতু থেকে এসেছে: ওয়াদ্দূ লাও তুদহিনু ফাইউদহিনূন, তারা চায় আপনি নমনীয় হোন, তাহলে তারাও নমনীয় হবে। এ আয়াতের জন্য দেখা কোনো তাফসীর এখানে ৬৮:৯ আয়াতের উল্লেখ করেনি। তাই সংযোগটা কেবল একজন পাঠকের মিলিয়ে দেখা, এর বেশি কিছু নয়। এতে শুধু এটুকু বোঝা যায় যে কুরআন অন্য জায়গাতেও এই চাপের কথা বলেছে: এক রকম দর কষাকষি, তুমি নত হও, আমরাও নত হব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "With It: the Book, or Islam",
+          "bn": "এর দ্বারা: কিতাব, নাকি ইসলাম"
+        },
+        "p": [
+          {
+            "en": "Then the pronoun. Wa-jahidhum bihi: strive against them with it. With what? The answer most of the commentaries give goes back to Ibn Abbas: with the Qur'an. At-Tabari reports it through Ibn Jurayj, who said that Ibn Abbas, on the words do not obey the disbelievers and strive against them with it, said: with the Qur'an. Al-Qurtubi gives the same attribution, and Ibn Kathir writes, meaning with the Qur'an, Ibn Abbas said it; his abridged English has, this was the view of Ibn Abbas.",
+            "bn": "এবার সর্বনামের প্রশ্ন। ওয়া জাহিদহুম বিহী: এর দ্বারা তাদের বিরুদ্ধে সংগ্রাম করো। কিসের দ্বারা? বেশির ভাগ তাফসীর যে উত্তর দেয়, তার মূল ইবন আব্বাস (রাঃ): কুরআনের দ্বারা। তাবারী এটি বর্ণনা করেন ইবন জুরাইজের সূত্রে। তিনি বলেন, 'কাফিরদের কথা মেনো না, আর এর দ্বারা তাদের বিরুদ্ধে সংগ্রাম করো' অংশটি সম্পর্কে ইবন আব্বাস (রাঃ) বলেছেন: কুরআনের দ্বারা। কুরতুবীও কথাটি তাঁর নামেই আনেন। ইবন কাসীর লেখেন, অর্থাৎ কুরআনের দ্বারা, এটি ইবন আব্বাস (রাঃ)-এর কথা। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণেও আছে: এটি ইবন আব্বাস (রাঃ)-এর মত।"
+          },
+          {
+            "en": "Three commentaries give the same gloss without naming anyone. Al-Baghawi writes simply, that is, with the Qur'an; as-Sa'di inserts the word bil-Qur'an after the verb; the Muyassar says, strive against the disbelievers with this Qur'an. Ma'arif al-Qur'an heads its comment with the phrase jihad with the Qur'an, the English translation shown with this verse supplies the Qur'an in brackets, and the Bengali writes it into the sentence. On this reading, it is the book he ﷺ was sent to convey to all the earth.",
+            "bn": "আরও তিনটি তাফসীর কারও নাম না নিয়ে একই ব্যাখ্যা দেয়। বাগাভী সংক্ষেপে লেখেন, অর্থাৎ কুরআনের দ্বারা। সা'দী ক্রিয়াটির পরেই 'বিল-কুরআন' শব্দটি বসিয়ে দেন। মুয়াসসার বলে, এই কুরআন দিয়ে কাফিরদের বিরুদ্ধে সংগ্রাম করুন। মাআরিফুল কুরআন তার আলোচনার শিরোনামই দিয়েছে 'কুরআন দিয়ে জিহাদ'। এই আয়াতের সঙ্গে দেখানো ইংরেজি অনুবাদ বন্ধনীতে কুরআনের কথা যোগ করেছে, আর বাংলা অনুবাদ সেটি বাক্যের ভেতরেই বসিয়ে দিয়েছে। এই পাঠে 'এটি' হলো সেই কিতাব, যা গোটা পৃথিবীতে পৌঁছে দিতে নবী ﷺ-কে পাঠানো হয়েছিল।"
+          },
+          {
+            "en": "A second answer is on record beside the first. At-Tabari introduces it with the words others said, and gives it from Ibn Zayd: strive against them with it means with Islam. Al-Qurtubi lists the same view under Ibn Zayd's name, directly after Ibn Abbas. In the text fetched, neither at-Tabari nor al-Qurtubi chooses between the two answers. Both readings are kept here as the sources keep them: the Qur'an, on the word of Ibn Abbas, and Islam, on the word of Ibn Zayd.",
+            "bn": "প্রথম উত্তরের পাশে দ্বিতীয় একটি উত্তরও লিপিবদ্ধ আছে। তাবারী সেটি শুরু করেন 'অন্যরা বলেছেন' কথাটি দিয়ে, আর আনেন ইবন যায়দের সূত্রে: এর দ্বারা সংগ্রাম করো মানে ইসলামের দ্বারা। কুরতুবীও ইবন আব্বাস (রাঃ)-এর ঠিক পরেই ইবন যায়দের নামে একই মত উল্লেখ করেন। যে লেখা দেখা হয়েছে, তাতে তাবারী বা কুরতুবী কেউই দুই উত্তরের মধ্যে কোনোটিকে বেছে নেননি। তাই এখানে দুটি পাঠই রাখা হলো, যেভাবে উৎসগুলো রেখেছে: ইবন আব্বাস (রাঃ)-এর কথায় কুরআন, আর ইবন যায়দের কথায় ইসলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Makkan Verse and Its Means",
+          "bn": "মক্কী আয়াত, মক্কার উপায়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a third view, introduced only with wa-qila, and it was said, with no name attached: strive against them with the sword. He answers it in the same breath: this is far-fetched, because the surah is Makkan, revealed before the command to fight. This is the only place in the commentaries fetched for this verse where fighting is raised as a reading, and it is raised in order to be set aside. Al-Qurtubi gives no holder for the view, so none is named here.",
+            "bn": "কুরতুবী তৃতীয় একটি মত উল্লেখ করেন, শুধু 'ওয়া কীলা', মানে 'বলা হয়েছে' দিয়ে, কারও নাম ছাড়া: তলোয়ার দিয়ে তাদের বিরুদ্ধে সংগ্রাম করো। একই নিঃশ্বাসে তিনি এর জবাবও দেন: এটি দূরবর্তী ব্যাখ্যা, কারণ সূরাটি মক্কী, যুদ্ধের আদেশ আসার আগে নাযিল হয়েছে। এ আয়াতের জন্য দেখা তাফসীরগুলোর মধ্যে কেবল এখানেই যুদ্ধকে একটি সম্ভাব্য অর্থ হিসেবে তোলা হয়েছে। আর তোলা হয়েছে বাতিল করার জন্যই। কুরতুবী মতটির কোনো প্রবক্তার নাম দেননি, তাই এখানেও কারও নাম নেওয়া হলো না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an says the same in its own words. This is a Makkan verse, it writes, revealed when the injunction for jihad in the sense of fighting the disbelievers had not yet come down. What the verse ordains is that the message of the Qur'an be spread among the people at large, and that they be helped to understand it. That propagation, it continues, is great jihad, whether it is carried out by mouth, by pen or by any other means. The striving named here is a striving of speech, explanation and proclamation.",
+            "bn": "মাআরিফুল কুরআন নিজের ভাষায় একই কথা বলে। এটি মক্কী আয়াত, নাযিল হয়েছে এমন সময়ে, যখন কাফিরদের সঙ্গে লড়াই অর্থে জিহাদের আদেশ তখনো আসেনি। আয়াতটি যা নির্দেশ করে, তা হলো সাধারণ মানুষের মধ্যে কুরআনের বার্তা ছড়িয়ে দেওয়া, আর তাদের তা বুঝতে সাহায্য করা। মাআরিফুল কুরআন বলে, এই প্রচারই বড় জিহাদ, তা মুখে হোক, কলমে হোক বা অন্য যেকোনো উপায়ে। এখানে যে সংগ্রামের কথা, তা কথার, বুঝিয়ে বলার আর প্রকাশ্যে ঘোষণা দেওয়ার সংগ্রাম।"
+          },
+          {
+            "en": "Two commentators set the verse beside verses from other surahs. Ibn Kathir compares the great striving to the command given in 9:73 and 66:9: O Prophet, strive against the disbelievers and the hypocrites and be harsh with them. Ibn Zayd, after saying with Islam, recited wa-ghluz alayhim, be harsh with them, which stands in 9:73 and 66:9, and then 9:123, and let them find harshness in you, and said: this is the great jihad. What either meant by the comparison, the text fetched does not explain, and neither says that this verse commanded fighting in Makkah.",
+            "bn": "দুজন তাফসীরকার আয়াতটিকে অন্য সূরার কিছু আয়াতের পাশে রেখেছেন। ইবন কাসীর বড় সংগ্রামকে তুলনা করেন ৯:৭৩ ও ৬৬:৯ আয়াতের আদেশের সঙ্গে: হে নবী, কাফির ও মুনাফিকদের বিরুদ্ধে সংগ্রাম করুন এবং তাদের প্রতি কঠোর হোন। ইবন যায়দ 'ইসলামের দ্বারা' বলার পর তিলাওয়াত করেন 'ওয়াগলুয আলাইহিম', তাদের প্রতি কঠোর হোন, যা ৯:৭৩ ও ৬৬:৯ আয়াতে আছে। তারপর ৯:১২৩: তারা যেন তোমাদের মধ্যে কঠোরতা দেখতে পায়। আর বলেন, এটাই বড় জিহাদ। তুলনা দিয়ে তাঁরা কী বোঝাতে চেয়েছেন, দেখা লেখায় তার ব্যাখ্যা নেই। কেউই বলেননি যে এ আয়াত মক্কায় যুদ্ধের আদেশ দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Effort That Admits No Slackening",
+          "bn": "যে চেষ্টায় ঢিলেমি ঢোকে না"
+        },
+        "p": [
+          {
+            "en": "Jihadan kabira: a great striving. What makes it great? Al-Qurtubi and the Muyassar answer with the same three Arabic words, la yukhalituhu futur: one that no slackening mixes into. Al-Baghawi glosses kabir with a single word, shadid, intense, and the abridged Ibn Kathir renders the phrase as with the utmost endeavour. The verb itself, jahid, shares its root with juhd, effort. As-Sa'di explains the great striving with fa-bdhul juhdaka, so expend your effort, the same phrase he and the Muyassar had used a line earlier for conveying the message.",
+            "bn": "জিহাদান কাবীরা: বড় সংগ্রাম। কিসে তা বড়? কুরতুবী আর মুয়াসসার একই তিনটি আরবি শব্দে জবাব দেন: 'লা ইউখালিতুহু ফুতূর', এমন সংগ্রাম, যাতে কোনো ঢিলেমি মেশে না। বাগাভী 'কাবীর'-এর ব্যাখ্যা দেন একটিমাত্র শব্দে, 'শাদীদ', মানে তীব্র। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ অংশটির অনুবাদ করেছে সর্বোচ্চ প্রচেষ্টা হিসেবে। 'জাহিদ' ক্রিয়াটির ধাতু আর 'জুহদ', মানে চেষ্টা, একই। সা'দী বড় সংগ্রামের ব্যাখ্যা দেন 'ফাবযুল জুহদাক' দিয়ে, কাজেই নিজের চেষ্টা ঢেলে দিন। এক লাইন আগে বার্তা পৌঁছানোর কথায় তিনি আর মুয়াসসার এই একই বাক্যাংশ ব্যবহার করেছেন।"
+          },
+          {
+            "en": "As-Sa'di gives the fullest account of what this striving asks. Leave none of your effort unspent, he writes, in supporting the truth and suppressing falsehood, even if you see from them all the denial and audacity that you see. Spend your effort and exhaust your capacity. Do not despair of their guidance, and do not leave off conveying the message to them for the sake of their desires. The verbs he chooses are verbs of exertion and persistence, aimed at people whose guidance he still treats as something to hope for.",
+            "bn": "এই সংগ্রাম কী চায়, তার সবচেয়ে পূর্ণ বিবরণ দেন সা'দী। তিনি লেখেন, সত্যকে সাহায্য করা আর মিথ্যাকে দমন করার কাজে আপনার চেষ্টার কিছুই বাকি রাখবেন না। তাদের কাছ থেকে যত অস্বীকার আর যত ধৃষ্টতাই দেখুন না কেন। চেষ্টা ঢেলে দিন, সামর্থ্যের শেষটুকু পর্যন্ত খরচ করুন। তাদের হিদায়াতের ব্যাপারে নিরাশ হবেন না। আর তাদের খেয়ালখুশির খাতিরে তাদের কাছে বার্তা পৌঁছানো ছেড়ে দেবেন না। তাঁর বেছে নেওয়া ক্রিয়াগুলো পরিশ্রম আর লেগে থাকার ক্রিয়া। আর সেগুলোর লক্ষ্য এমন মানুষ, যাদের হিদায়াত তিনি তখনো আশার বিষয় হিসেবেই দেখেন।"
+          },
+          {
+            "en": "Together, his words show the verse's balance. The first command forbids giving way; the second forbids giving up. Someone who refused every proposal but stopped carrying the message would keep the first command and drop the second. Someone who kept talking while trimming what he said would do the reverse. As-Sa'di's do not despair stands between them: the opponents are to be refused in their demands and still addressed, again and again, with the same unaltered message.",
+            "bn": "তাঁর কথায় আয়াতের ভারসাম্যটা চোখে পড়ে। প্রথম আদেশ নত হতে নিষেধ করে, দ্বিতীয় আদেশ হাল ছেড়ে দিতে। কেউ যদি প্রতিটি প্রস্তাব ফিরিয়ে দেয় কিন্তু বার্তা পৌঁছানো বন্ধ করে, সে প্রথম আদেশ রাখল, দ্বিতীয়টি ছাড়ল। আর যে কথা বলে যায় কিন্তু কথা ছেঁটে নেয়, সে করল উল্টোটা। সা'দীর 'নিরাশ হবেন না' কথাটি এ দুয়ের মাঝখানে দাঁড়িয়ে। প্রতিপক্ষের দাবি ফিরিয়ে দিতে হবে, আবার তাদের কাছেই বারবার পৌঁছাতে হবে একই অপরিবর্তিত বার্তা নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Book, Not a Grievance",
+          "bn": "কিতাব, ক্ষোভ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse addresses the Prophet ﷺ about the disbelievers who opposed him and pressed him to compromise, and it describes what the text describes. It licenses nothing against any living person or community: no hostility, no harm and no contempt. The means it names is, on the word of Ibn Abbas, the Qur'an, and on the word of Ibn Zayd, Islam. The only mention of the sword in the commentaries fetched is al-Qurtubi's, and he raises it to reject it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-কে সম্বোধন করে সেই কাফিরদের ব্যাপারে, যারা তাঁর বিরোধিতা করত আর আপসের জন্য চাপ দিত। আয়াত যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুরই অনুমতি দেয় না: না শত্রুতার, না ক্ষতির, না অবজ্ঞার। এখানে যে উপায়ের কথা, তা ইবন আব্বাস (রাঃ)-এর কথায় কুরআন, ইবন যায়দের কথায় ইসলাম। দেখা তাফসীরগুলোতে তলোয়ারের উল্লেখ কেবল কুরতুবীর লেখায়, আর তিনি তা এনেছেন বাতিল করার জন্যই।"
+          },
+          {
+            "en": "What the commentaries draw from the verse is a duty of carrying and explaining. The Muyassar's word is convey; Ma'arif al-Qur'an speaks of spreading the message by mouth, by pen or by any other means, and of making people understand it; as-Sa'di forbids despairing of the opponents' guidance. A reader who comes away from this verse with a grievance against neighbours has read it against its own commentators. The striving they describe is aimed at people's understanding, and its tool is a book recited to them.",
+            "bn": "তাফসীরগুলো এ আয়াত থেকে যা বের করে, তা হলো বার্তা বহন করা আর বুঝিয়ে বলার দায়িত্ব। মুয়াসসারের শব্দ 'পৌঁছে দেওয়া'। মাআরিফুল কুরআন বলে মুখে, কলমে বা অন্য যেকোনো উপায়ে বার্তা ছড়িয়ে দেওয়ার কথা, আর মানুষকে তা বুঝিয়ে দেওয়ার কথা। সা'দী প্রতিপক্ষের হিদায়াতের ব্যাপারে নিরাশ হতে নিষেধ করেন। কেউ যদি এ আয়াত পড়ে প্রতিবেশীর বিরুদ্ধে ক্ষোভ নিয়ে ওঠে, তবে সে আয়াতটিকে এর নিজের তাফসীরকারদের বিপরীতে পড়ল। তাঁরা যে সংগ্রামের কথা বলেন, তার লক্ষ্য মানুষের বোধ, আর তার হাতিয়ার মানুষের সামনে তিলাওয়াত করা একটি কিতাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Sweet and the Salt",
+          "bn": "মিঠা আর লোনা পানির আগে"
+        },
+        "p": [
+          {
+            "en": "The next verse turns at once from the mission back to creation: and it is He who released the two seas, one sweet and fresh, the other salty and bitter, and set between them a barrier and a partition that is sealed. In the abridged Ibn Kathir the two verses sit within one passage, the first about the Prophet's universal message, the second about the waters God has portioned out among His creatures according to their needs.",
+            "bn": "পরের আয়াতটি সঙ্গে সঙ্গে রিসালাতের প্রসঙ্গ থেকে ফিরে যায় সৃষ্টির দিকে: তিনিই দুই সমুদ্রকে পাশাপাশি প্রবাহিত করেছেন, একটি সুপেয় ও মিঠা, অন্যটি লোনা ও কটু, আর দুয়ের মাঝে রেখেছেন এক অন্তরাল আর এক অনতিক্রম্য প্রাচীর। ইবন কাসীরের সংক্ষিপ্ত সংস্করণে দুটি আয়াত একই আলোচনার ভেতরে। প্রথমটি নবী ﷺ-এর সর্বজনীন বার্তা নিয়ে, দ্বিতীয়টি সেই পানি নিয়ে, যা আল্লাহ তাঁর সৃষ্টির মধ্যে তাদের প্রয়োজন অনুযায়ী ভাগ করে দিয়েছেন।"
+          },
+          {
+            "en": "For a reader today the verse asks two things that are easy to separate and hard to keep together. Do not obey: do not trim the message, by a word or a silence, to suit those who reject it. Strive with it: keep carrying it, with an effort that does not slacken when it meets denial. The means is the Qur'an itself, read, understood and explained. And as-Sa'di's last line on the verse travels with both commands: do not despair of anyone's guidance, and do not give up conveying to them.",
+            "bn": "আজকের পাঠকের কাছে আয়াতটি দুটি জিনিস চায়, যা আলাদা করা সহজ, একসঙ্গে ধরে রাখা কঠিন। মেনো না: যারা বার্তা প্রত্যাখ্যান করে, তাদের মন রাখতে একটি শব্দ বা একটু নীরবতা দিয়েও বার্তা ছাঁটবেন না। এর দ্বারা সংগ্রাম করো: অস্বীকারের মুখে ঢিলে না হয়ে বার্তা বয়ে নিয়ে যেতে থাকুন। উপায় কুরআন নিজেই, পড়া, বোঝা আর বুঝিয়ে বলা। আর এ আয়াতে সা'দীর শেষ কথাটি দুই আদেশের সঙ্গেই চলে: কারও হিদায়াতের ব্যাপারে নিরাশ হবেন না, তাদের কাছে পৌঁছে দেওয়াও ছেড়ে দেবেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "25:58": {
     "sections": [
       {

@@ -24151,6 +24151,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Choose companions who bring you nearer to the reminder, not further from it; the one who leads you astray will not stand with you when it counts.",
     "lessonBn": "এমন সঙ্গী বেছে নিন যে আপনাকে উপদেশের কাছে নিয়ে যায়, দূরে নয়। যে পথভ্রষ্ট করে, আসল সময়ে সে আপনার পাশে থাকবে না।"
+  },
+  "25:52": {
+    "reflectionEn": "In Makkah the pressure on the Prophet ﷺ came as offers as well as threats: follow our gods a little, agree with us, soften the message and leave part of it unsaid. This verse answers with two commands. Do not obey them, in any of it. And strive against them with it, with the Qur'an itself, a great striving. The means named here is a book recited, explained and carried to people, and the effort asked of him is one that does not slacken when it meets denial and insolence. I am seldom asked to give up my faith outright. More often I am asked to trim it to suit the room. What have I trimmed lately, and how much effort do I still spend carrying the truth clearly?",
+    "reflectionBn": "মক্কায় নবী ﷺ-এর উপর চাপ শুধু হুমকির আকারে আসেনি, এসেছে প্রস্তাবের আকারেও: আমাদের দেবতাদের একটু মেনে নাও, আমাদের সঙ্গে তাল মেলাও, কথাটা নরম করো, কিছু অংশ না বললেই হয়। এ আয়াত জবাব দেয় দুটি আদেশে। তাদের কথা মেনো না, কোনোটাই না। আর এর দ্বারা, মানে কুরআন দিয়েই, তাদের বিরুদ্ধে সংগ্রাম করো, বড় সংগ্রাম। এখানে যে উপায়ের কথা বলা হলো, তা একটি কিতাব: তিলাওয়াত করা, বুঝিয়ে বলা, মানুষের কাছে পৌঁছে দেওয়া। আর যে চেষ্টা চাওয়া হলো, তা অস্বীকার আর ঔদ্ধত্যের মুখেও ঢিলে হয় না। আমাকে খুব কমই বলা হয় ঈমান পুরোপুরি ছেড়ে দিতে। বেশির ভাগ সময় বলা হয় আসরের মেজাজ বুঝে একটু ছেঁটে নিতে। ইদানীং আমি কী ছেঁটে ফেলেছি? আর সত্যটা স্পষ্ট করে পৌঁছে দিতে এখনো কতটুকু চেষ্টা খরচ করি?",
+    "pointsEn": [
+      "When the people around me ask me to soften or drop part of my faith, do I recognise it as a request to obey them?",
+      "How much of my effort for the truth goes into the Qur'an itself: reading it, understanding it, and sharing it with others?",
+      "Does my effort slacken the moment I meet mockery or denial, or do I keep going without despairing of anyone?",
+      "Have I ever used the word jihad to excuse anger at people, when this verse names a book as the means?",
+      "Which part of the message do I leave unsaid because saying it would cost me someone's approval?"
+    ],
+    "pointsBn": [
+      "আশপাশের মানুষ যখন আমাকে ঈমানের কোনো অংশ নরম করতে বা বাদ দিতে বলে, আমি কি বুঝতে পারি যে আসলে তাদের কথা মানতে বলা হচ্ছে?",
+      "সত্যের জন্য আমার চেষ্টার কতটুকু যায় কুরআনের পেছনে: পড়া, বোঝা আর অন্যদের কাছে পৌঁছে দেওয়া?",
+      "ঠাট্টা বা অস্বীকারের মুখে পড়লেই কি আমার চেষ্টা ঢিলে হয়ে যায়, নাকি কারও ব্যাপারে নিরাশ না হয়ে আমি চালিয়ে যাই?",
+      "জিহাদ শব্দটাকে কি কখনো মানুষের উপর রাগ ঝাড়ার অজুহাত বানিয়েছি, অথচ এ আয়াত উপায় হিসেবে একটি কিতাবের কথা বলে?",
+      "বার্তার কোন অংশটা আমি মুখে আনি না, কারণ বললে কারও সমর্থন হারাতে হবে?"
+    ],
+    "lessonEn": "Do not trim your faith to please those who reject it; carry the Qur'an to people with steady, unslackening effort, and never despair of anyone's guidance.",
+    "lessonBn": "যারা ঈমান প্রত্যাখ্যান করে, তাদের খুশি করতে ঈমান ছেঁটে ফেলবেন না। অবিরাম, ঢিলেহীন চেষ্টায় কুরআন মানুষের কাছে পৌঁছে দিন, আর কারও হিদায়াতের ব্যাপারে নিরাশ হবেন না।"
   }
 };
 
