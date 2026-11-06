@@ -1027,6 +1027,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "54:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words Before the Refrain",
+          "bn": "ধুয়ার আগে চারটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-nadaw sahibahum fa-ta'ata fa-'aqara: but they called their companion, and he dared, and hamstrung her. In Arabic the verse is four words, three of them opening with the particle fa, and the she-camel is not named in it at all; the translation has to supply her in brackets. It belongs to the account of Thamud that opened at 54:23 with their denial of the warnings. At 54:27 the she-camel was announced as a trial for them, and at 54:28 Salih (AS) was told to inform them that the water was shared between them and her.",
+            "bn": "ফানাদাও সাহিবাহুম ফাতাআতা ফাআকারা: শেষে তারা তাদের সঙ্গীকে ডাকল, সে দুঃসাহস দেখাল, আর উটনীর পা কেটে দিল। আরবিতে আয়াতটি মাত্র চারটি শব্দের। তার তিনটিই শুরু হয়েছে ফা অব্যয় দিয়ে। উটনীর নাম আয়াতে একবারও আসেনি, অনুবাদককে বন্ধনীতে তা যোগ করে দিতে হয়। সামূদের যে কাহিনি ৫৪:২৩ আয়াতে সতর্কবাণী অস্বীকারের কথা দিয়ে শুরু হয়েছিল, এ আয়াত তারই অংশ। ৫৪:২৭ আয়াতে উটনীকে তাদের জন্য পরীক্ষা বলে ঘোষণা করা হয়েছিল। ৫৪:২৮ আয়াতে সালিহ (আঃ)-কে বলা হয়েছিল, তাদের জানিয়ে দাও যে পানি তাদের আর উটনীর মধ্যে ভাগ করা।"
+          },
+          {
+            "en": "What follows comes fast. At 54:30 the surah asks how Allah's punishment and warnings were, the line already heard at 54:16, 54:18 and 54:21, and 54:31 answers it: a single blast, after which they were like the dry fragments of a pen-builder's fence. The abridged Ibn Kathir, on the passage, says they all perished and none of them remained. The she-camel's coming, the well and the terms of the sharing are taken up in the articles on 26:155 and 54:27 and are not retold here. This verse holds one moment only: how the deed was brought about.",
+            "bn": "এরপর সব ঘটে দ্রুত। ৫৪:৩০ আয়াতে প্রশ্ন আসে, কেমন ছিল আল্লাহর শাস্তি ও সতর্কবাণী। এ বাক্য এর আগেও শোনা গেছে ৫৪:১৬, ৫৪:১৮ ও ৫৪:২১ আয়াতে। ৫৪:৩১ আয়াত তার জবাব দেয়: একটিমাত্র প্রচণ্ড শব্দ, আর তারা হয়ে গেল খোঁয়াড়ের বেড়ার শুকনো ভাঙা ডালপালার মতো। সংক্ষিপ্ত ইবন কাসীর এই অংশের ব্যাখ্যায় বলেন, তারা সবাই ধ্বংস হয়ে গেল, একজনও বাকি রইল না। উটনীর আগমন, কূপ আর পানি ভাগের শর্তের কথা ২৬:১৫৫ ও ৫৪:২৭ আয়াতের প্রবন্ধে আছে, এখানে তা আবার বলা হচ্ছে না। এ আয়াত ধরে রাখে কেবল একটি মুহূর্ত: কাজটা ঘটানো হলো কীভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Voice Raised for One Act",
+          "bn": "এক কাজের জন্য হাঁক"
+        },
+        "p": [
+          {
+            "en": "Fa-nadaw: so they called out. At-Tabari makes the subject explicit. Thamud, he says, called out to their companion, the one who hamstrung the she-camel, Qudar ibn Salif, so that he would hamstring her, haddan minhum lahu 'ala dhalik: as an urging from them to him to do it. On his reading the call was not a greeting and not a summons to a council. It was a push toward a single act, and the act was named in the push. The people did the calling; the man was the one called.",
+            "bn": "ফানাদাও: তখন তারা হাঁক দিল। কারা ডাকল, তাবারী তা খুলে বলেন। সামূদ জাতি তাদের সঙ্গীকে ডেকেছিল, সেই লোককে যে উটনীর পা কেটেছিল, কুদার ইবন সালিফ। ডেকেছিল যেন সে উটনীর পা কাটে। তাবারীর ভাষায়, হাদ্দান মিনহুম লাহু আলা যালিক: কাজটা করতে তাকে তাদের পক্ষ থেকে উসকানি। তাঁর ব্যাখ্যায় এ ডাক কুশল জিজ্ঞাসা ছিল না, পরামর্শসভায় ডাকাও ছিল না। এ ছিল একটিমাত্র কাজের দিকে ঠেলে দেওয়া, আর কাজটার নাম সেই ঠেলার মধ্যেই ছিল। ডাকল গোটা জাতি, ডাক শুনল একজন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Muyassar use the same word for that call. They called him, both say, bi-l-hadd 'ala 'aqriha, with urging to hamstring her. Hadd is to press someone on, to spur him toward a thing. None of the three describes a people weighing the matter among themselves, and the verse describes none either. It moves straight from the warning about the shared water to a voice raised and a man sent for. What the commentators add is the purpose of the voice: it was raised to get the deed done by someone's hand.",
+            "bn": "কুরতুবী আর মুয়াসসার এ ডাকের জন্য একই শব্দ ব্যবহার করেন। দুজনেই বলেন, তারা তাকে ডেকেছিল বিল-হাদ্দি আলা আকরিহা, অর্থাৎ উটনীর পা কাটতে উসকে দিয়ে। হাদ্দ মানে কাউকে তাড়া দেওয়া, কোনো কাজের দিকে খোঁচা দিয়ে এগিয়ে দেওয়া। তিনজনের কেউই বলেন না যে লোকেরা নিজেদের মধ্যে বসে ব্যাপারটা ভেবে দেখেছিল। আয়াতও তেমন কিছু বলে না। ভাগ করা পানির সতর্কবাণী থেকে আয়াত সরাসরি চলে আসে একটা হাঁকে, একজন লোককে ডেকে আনায়। তাফসীরকারেরা যোগ করেন সেই হাঁকের উদ্দেশ্য: কারও না কারও হাত দিয়ে কাজটা করিয়ে নেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Own Man, and His Name",
+          "bn": "তাদেরই লোক, আর তার নাম"
+        },
+        "p": [
+          {
+            "en": "Sahibahum: their companion. The word makes him one of them, their own man, and the verse goes no further than that. The commentators supply a name. Ibn Kathir writes that the mufassirun say he is the one who hamstrung the she-camel, that his name was Qudar ibn Salif, and that he was the most wretched of his people. He links him to 91:12, idh inba'atha ashqaha, when the most wretched of them rose up. At-Tabari and al-Baghawi give the same name, Qudar ibn Salif, without further comment.",
+            "bn": "সাহিবাহুম: তাদের সঙ্গী। শব্দটা তাকে তাদেরই একজন বানায়, তাদের নিজেদের লোক। আয়াত এর বেশি কিছু বলে না। নামটা আসে তাফসীরকারদের কাছ থেকে। ইবন কাসীর লেখেন, মুফাসসিরগণ বলেন সে-ই উটনীর পা কেটেছিল, তার নাম কুদার ইবন সালিফ, আর সে ছিল তার জাতির সবচেয়ে হতভাগা লোক। তিনি তাকে মিলিয়ে দেখান ৯১:১২ আয়াতের সঙ্গে: ইযিনবাআসা আশকাহা, যখন তাদের সবচেয়ে হতভাগা লোকটি উঠে দাঁড়াল। তাবারী আর বাগাভীও একই নাম দেন, কুদার ইবন সালিফ, আর কোনো মন্তব্য করেন না।"
+          },
+          {
+            "en": "Al-Qurtubi handles the name more cautiously. He writes yuqalu fi ismihi, it is said regarding his name, Qudar ibn Salif, and so marks it as a report. As-Sa'di gives no name at all. For him the companion is the one who carried out the hamstringing himself, the most wretched of the tribe, and that description is all he needs. So the name stands in this article as the commentators give it: a report several of them carry, not a word of the verse. What the verse fixes is his relation to them. He was theirs.",
+            "bn": "কুরতুবী নামটা নিয়ে একটু বেশি সাবধান। তিনি লেখেন ইউকালু ফী ইসমিহি, তার নাম সম্পর্কে বলা হয়, কুদার ইবন সালিফ। এভাবে তিনি একে বর্ণনা হিসেবেই চিহ্নিত করেন। সা'দী কোনো নামই দেন না। তাঁর কাছে এই সঙ্গী সেই লোক, যে নিজ হাতে উটনীর পা কেটেছিল, গোত্রের সবচেয়ে হতভাগা মানুষ। এ পরিচয়ই তাঁর জন্য যথেষ্ট। তাই এ প্রবন্ধে নামটা থাকছে তাফসীরকারেরা যেভাবে দিয়েছেন সেভাবে: কয়েকজনের বহন করা একটা বর্ণনা হিসেবে, আয়াতের কোনো শব্দ হিসেবে নয়। আয়াত যা পাকা করে দেয় তা তাদের সঙ্গে তার সম্পর্ক। সে ছিল তাদেরই লোক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Turned Into a Byword",
+          "bn": "যে নাম প্রবাদ হয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records how the name lived on in Arabic speech. The Arabs, he says, called a butcher qudar, likening him to Qudar ibn Salif, whom he calls the ill-omened one of the people of Thamud. He cites a line of Muhalhil that compares striking with swords to the blow a qudar deals at a slaughter. Before that he quotes al-Afwah al-Awdi on Qudar, when peoples followed him into going astray, and they perished.",
+            "bn": "আরবদের মুখের ভাষায় নামটা কীভাবে টিকে রইল, কুরতুবী তা লিখে রাখেন। তিনি বলেন, আরবরা কসাইকে কুদার বলত, কুদার ইবন সালিফের সঙ্গে তুলনা করে। কুরতুবী তাকে বলেন সামূদ সম্প্রদায়ের অপয়া লোকটি। তিনি মুহালহিলের একটি পঙ্‌ক্তি উদ্ধৃত করেন, যেখানে তলোয়ারের আঘাতকে তুলনা করা হয়েছে জবাইয়ের সময় কুদারের আঘাতের সঙ্গে। তার আগে তিনি আনেন আফওয়াহ আল-আওদীর পঙ্‌ক্তি: কুদারের মতো, যখন বহু লোক বিপথে তার অনুসরণ করল, আর তারা নিশ্চিহ্ন হয়ে গেল।"
+          },
+          {
+            "en": "That second line deserves a closer look. The poet does not remember Qudar alone. He remembers him together with the peoples who followed him into error, and he remembers that they perished. Al-Qurtubi also cites Zuhayr, who in a line about war speaks of the Ahmar of 'Ad, and explains that the poet meant Thamud and referred to them by the name of 'Ad. None of this is tafsir in the strict sense. It is the memory of a language, and that memory kept the deed and its consequence side by side.",
+            "bn": "দ্বিতীয় পঙ্‌ক্তিটা একটু খুঁটিয়ে দেখার মতো। কবি কুদারকে একা মনে রাখেননি। তাকে মনে রেখেছেন সেই লোকদের সঙ্গে, যারা বিপথে তার পিছু নিয়েছিল। আর মনে রেখেছেন যে তারা ধ্বংস হয়ে গিয়েছিল। কুরতুবী যুহাইরের একটি পঙ্‌ক্তিও আনেন, যেখানে যুদ্ধের প্রসঙ্গে আদের আহমারের কথা আছে। কুরতুবী ব্যাখ্যা করেন, কবি এখানে সামূদকেই বুঝিয়েছেন, তবে উল্লেখ করেছেন আদের নামে। কঠোর অর্থে এর কিছুই তাফসীর নয়। এ এক ভাষার স্মৃতি, আর সেই স্মৃতি কাজটা আর তার পরিণতিকে পাশাপাশি রেখে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dared, Took Hold, Went Along",
+          "bn": "সাহস, হাতে নেওয়া, মেনে চলা"
+        },
+        "p": [
+          {
+            "en": "Fa-ta'ata: a verb found nowhere else in the Qur'an, and the commentators give it more than one gloss. Ibn Kathir says fa-jasara, he dared, the sense the translation here follows. At-Tabari says tanawala n-naqata bi-yadihi, he took hold of the she-camel with his hand, and al-Muyassar says the same. Al-Baghawi changes one word: he took hold of the she-camel bi-sayfihi, with his sword. So one reading looks at the man's nerve, and the others at what he laid his hand on.",
+            "bn": "ফাতাআতা: এ ক্রিয়া কুরআনে আর কোথাও নেই, আর তাফসীরকারেরা এর একাধিক অর্থ দেন। ইবন কাসীর বলেন ফাজাসারা, সে দুঃসাহস দেখাল। এখানকার অনুবাদ এই অর্থটাই নিয়েছে। তাবারী বলেন তানাওয়ালান নাকাতা বিয়াদিহি, সে নিজ হাতে উটনীকে ধরল। মুয়াসসারও একই কথা বলে। বাগাভী শুধু একটা শব্দ বদলান: সে উটনীকে ধরল বিসাইফিহি, তলোয়ার দিয়ে। এক ব্যাখ্যার নজর লোকটার বুকের পাটার দিকে, বাকিগুলোর নজর সে কীসে হাত দিল তার দিকে।"
+          },
+          {
+            "en": "Al-Qurtubi explains the form. Ta'ata, he says, means tanawala l-fi'l, he took up the act, from the Arabs' saying 'atawtu, I reached for a thing and took it. He supports it with a line of Hassan in which a drinker says fa-'atini bi-zujajah, so hand me a glass. On this reading the verb is about reaching out and taking. The image fits the scene the commentators describe: a deed was held out to the companion by his people, and he reached for it.",
+            "bn": "শব্দের গড়ন কুরতুবী ব্যাখ্যা করেন। তাঁর মতে তাআতা মানে তানাওয়ালাল ফি'ল, সে কাজটা হাতে তুলে নিল। এসেছে আরবদের কথা আতাওতু থেকে, যার মানে আমি হাত বাড়িয়ে জিনিসটা নিলাম। প্রমাণ হিসেবে তিনি হাসসানের একটি পঙ্‌ক্তি আনেন, যেখানে এক পানকারী বলে, ফাআতিনী বিযুজাজাহ, আমাকে একটা পেয়ালা এগিয়ে দাও। এ ব্যাখ্যায় ক্রিয়াটির মূল কথা হাত বাড়িয়ে নেওয়া। তাফসীরকারেরা যে দৃশ্য আঁকেন, তার সঙ্গে ছবিটা মিলে যায়। লোকেরা কাজটা তাদের সঙ্গীর দিকে বাড়িয়ে ধরল, আর সে হাত বাড়িয়ে তা নিল।"
+          },
+          {
+            "en": "As-Sa'di reads the word another way again. Fa-ta'ata, he says, means inqada lima amaruhu bihi min 'aqriha: he complied with what they ordered him to do, the hamstringing. Here the weight falls on obedience to the people rather than on boldness or on the hand. The commentators do not set these glosses against one another; each names one side of the act. Laid together, they describe a man who dared, who took the animal or the weapon in hand, and who did it because he had been told to.",
+            "bn": "সা'দী শব্দটা পড়েন আরেকভাবে। তাঁর মতে ফাতাআতা মানে ইনকাদা লিমা আমারূহু বিহি মিন আকরিহা: তারা তাকে উটনীর পা কাটার যে হুকুম দিয়েছিল, সে তা মেনে নিল। এখানে জোরটা পড়ে লোকদের কথা মেনে চলার উপর, সাহস বা হাতের উপর নয়। তাফসীরকারেরা এই অর্থগুলোকে একটার বিরুদ্ধে আরেকটা দাঁড় করান না। প্রত্যেকে কাজটার একটা দিক দেখান। সব মিলিয়ে ছবিটা এমন এক লোকের, যে দুঃসাহস দেখাল, উটনী বা অস্ত্র হাতে নিল, আর কাজটা করল কারণ তাকে করতে বলা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Deed in Ibn Ishaq's Telling",
+          "bn": "ইবন ইসহাকের বর্ণনায় ঘটনাটি"
+        },
+        "p": [
+          {
+            "en": "Fa-'aqara: and he hamstrung. The verb has no object; the verse leaves the she-camel unnamed to the end. Al-Muyassar glosses it fa-naharaha, he slaughtered her. Al-Qurtubi relays an account from Muhammad ibn Ishaq. The man lay in wait for her at the foot of a tree on her path and shot her with an arrow that pierced the muscle of her leg. Then he rushed at her with the sword and laid open her hamstring. She fell and gave a single cry, her young one dropped from her belly, and he slaughtered her.",
+            "bn": "ফাআকারা: আর সে পা কেটে দিল। ক্রিয়াটির কোনো কর্ম নেই। শেষ পর্যন্তও আয়াত উটনীর নাম নেয় না। মুয়াসসার এর অর্থ করে ফানাহারাহা, সে তাকে জবাই করল। কুরতুবী মুহাম্মাদ ইবন ইসহাকের একটি বর্ণনা উদ্ধৃত করেন। লোকটা উটনীর চলার পথে একটা গাছের গোড়ায় ওত পেতে ছিল। সে তীর ছুড়ল, তীর গিয়ে বিঁধল উটনীর পায়ের মাংসপেশিতে। তারপর তলোয়ার নিয়ে তার উপর ঝাঁপিয়ে পড়ে পায়ের রগ কেটে দিল। উটনী পড়ে গেল, একবার আর্তনাদ করল, তার পেট থেকে বাচ্চাটা বেরিয়ে পড়ল। তারপর লোকটা তাকে জবাই করল।"
+          },
+          {
+            "en": "In the same account the young one ran to a rock at the top of a mountain, cried out and sheltered there, and Salih (AS) came. When he saw that the she-camel had been hamstrung he wept and said: you have violated what Allah made sacred, so receive the news of Allah's punishment. Al-Qurtubi gives all this under Ibn Ishaq's name, without a chain, and adds that he explained it earlier in his commentary on al-A'raf. It is reported here as Ibn Ishaq's account, nothing firmer. None of the commentators fetched for this verse attaches a hadith to it, so none is quoted.",
+            "bn": "একই বর্ণনায় আছে, বাচ্চাটা দৌড়ে গেল এক পাহাড়ের চূড়ার একটা পাথরের কাছে, সেখানে ডাক ছেড়ে কেঁদে আশ্রয় নিল। তখন সালিহ (আঃ) এলেন। উটনীর পা কাটা দেখে তিনি কাঁদলেন আর বললেন: তোমরা আল্লাহর মর্যাদার সীমা লঙ্ঘন করেছ, এবার আল্লাহর আযাবের খবর শোনো। কুরতুবী পুরো ঘটনাটি ইবন ইসহাকের নামে আনেন, কোনো সনদ ছাড়া। সঙ্গে বলেন, সূরা আ'রাফের তাফসীরে তিনি এর ব্যাখ্যা আগেই দিয়েছেন। এখানেও তাই এটি ইবন ইসহাকের বর্ণনা হিসেবেই থাকছে, এর বেশি কিছু নয়। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Who Called, One Who Struck",
+          "bn": "ডাকল অনেকে, আঘাত করল একজন"
+        },
+        "p": [
+          {
+            "en": "Set the verb beside its other occurrences in the Qur'an. 'Aqara is used of the she-camel in five verses, and in four of them it is plural: fa-'aqaru n-naqah at 7:77, and fa-'aqaruha at 11:65, 26:157 and 91:14. Only here is it singular, fa-'aqara, he hamstrung, and just before it stands a plural verb, fa-nadaw, they called. The article on 26:157 takes up the plural and what it says about a whole people owning the deed. This verse shows something else: how a deed counted against many was done by one.",
+            "bn": "কুরআনে এ ক্রিয়া আর যেখানে যেখানে এসেছে, সেগুলোর পাশে একে রেখে দেখুন। উটনীর প্রসঙ্গে আকারা এসেছে পাঁচটি আয়াতে, তার চারটিতেই বহুবচনে। ৭:৭৭ আয়াতে ফাআকারুন নাকাহ, আর ১১:৬৫, ২৬:১৫৭ ও ৯১:১৪ আয়াতে ফাআকারূহা। শুধু এখানেই ক্রিয়াটি একবচন, ফাআকারা, সে পা কাটল। আর তার ঠিক আগে আছে একটি বহুবচন ক্রিয়া, ফানাদাও, তারা ডাকল। বহুবচনটা আর গোটা জাতির কাজটার দায় নেওয়ার কথা আছে ২৬:১৫৭ আয়াতের প্রবন্ধে। এ আয়াত দেখায় অন্য একটা জিনিস: অনেকের নামে লেখা একটা কাজ কীভাবে করল একজন।"
+          },
+          {
+            "en": "The commentators' glosses fill in that picture without arguing it. In at-Tabari's words the people called to him as an urging to the act; in as-Sa'di's, he complied with what they ordered. Ibn Kathir calls him the most wretched of his people and as-Sa'di the most wretched of the tribe, and the plural verses elsewhere keep the rest of them inside the deed. The punishment at 54:31 is sent 'alayhim, upon them, not upon him alone. Read together, these verses place the one who struck and the many who called him under the same verdict.",
+            "bn": "তাফসীরকারদের ব্যাখ্যা কোনো তর্ক ছাড়াই ছবিটা পূর্ণ করে দেয়। তাবারীর কথায়, লোকেরা তাকে ডেকেছিল কাজটার জন্য উসকে দিতে। সা'দীর কথায়, তারা যা হুকুম করেছিল সে তা মেনে নিয়েছিল। ইবন কাসীর তাকে বলেন তার জাতির সবচেয়ে হতভাগা লোক, সা'দী বলেন গোত্রের সবচেয়ে হতভাগা। আর অন্য আয়াতগুলোর বহুবচন বাকিদেরও কাজটার ভেতরে রেখে দেয়। ৫৪:৩১ আয়াতে শাস্তি পাঠানো হয়েছে আলাইহিম, তাদের উপর, শুধু তার একার উপর নয়। আয়াতগুলো পাশাপাশি পড়লে দেখা যায়, যে আঘাত করল আর যারা তাকে ডাকল, সবাই একই রায়ের অধীনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept Where the Text Keeps It",
+          "bn": "পাঠ যেখানে রাখে, সেখানেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: one ancient people who called on one of their own to kill a sign sent to them, and the punishment that followed. It licenses nothing against any living person or community. It names no people of today, and this article identifies Thamud with none; the commentators fetched for this verse give a name for the man and go no further. No one alive may be called Thamud, or Qudar, on the strength of this verse.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: প্রাচীন এক জাতি, যারা নিজেদেরই একজনকে ডেকে এনে তাদের কাছে পাঠানো এক নিদর্শনকে হত্যা করাল, আর তারপর যে শাস্তি এল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো জাতির নাম এতে নেই, আর এ প্রবন্ধও সামূদকে কারও সঙ্গে এক করে না। এ আয়াতের জন্য দেখা তাফসীরগুলো লোকটির একটা নাম দেয়, তার বেশি এগোয় না। এ আয়াতের জোরে আজকের কাউকে সামূদ বা কুদার বলে ডাকার অধিকার কারও নেই।"
+          },
+          {
+            "en": "Nor does any blame here touch Salih (AS). He had delivered his message, told them of the sharing, and been called a liar for it; in Ibn Ishaq's account as al-Qurtubi gives it, he wept when he saw what they had done. The weight of the verse rests on those who called and the one who answered. The poets' use of Qudar's name for a butcher belongs to the history of the Arabic language, and it is reported here as that, not offered as a way to speak of anyone now.",
+            "bn": "সালিহ (আঃ)-এর উপরও এখানে কোনো দোষ পড়ে না। তিনি বার্তা পৌঁছে দিয়েছিলেন, পানি ভাগের কথা জানিয়েছিলেন, আর এর জন্য তাঁকে মিথ্যাবাদী বলা হয়েছিল। কুরতুবীর উদ্ধৃত ইবন ইসহাকের বর্ণনায়, তারা যা করেছে তা দেখে তিনি কেঁদেছিলেন। আয়াতের ভার পড়ে যারা ডাকল আর যে একজন সাড়া দিল, তাদের উপর। কসাই বোঝাতে কবিরা যে কুদারের নাম ব্যবহার করতেন, তা আরবি ভাষার ইতিহাসের অংশ। এখানে সেটা সেভাবেই বলা হলো, আজকের কাউকে কিছু বলার উপায় হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearing the Call, Making It",
+          "bn": "ডাক শোনা, ডাক দেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse is short, and it puts two questions to a reader. The first is for the one who calls. It is easy to urge, to egg someone on, to say that somebody ought to do something about it, and then to feel that the hand which acts is the only hand involved. The verb fa-nadaw keeps the callers in the sentence. In this account they were part of the deed from its first word, and the punishment that followed did not separate them from the man they had sent.",
+            "bn": "আয়াতটা ছোট, কিন্তু পাঠকের সামনে দুটি প্রশ্ন রাখে। প্রথমটা যে ডাকে তার জন্য। উসকে দেওয়া সহজ, কাউকে তাতিয়ে তোলা সহজ, 'কারও কিছু একটা করা উচিত' বলে দেওয়াও সহজ। তারপর মনে হয়, যে হাত কাজটা করল, দায় শুধু তারই। ফানাদাও ক্রিয়াটা ডাকদাতাদের বাক্যের ভেতরেই রেখে দেয়। এ বিবরণে প্রথম শব্দ থেকেই তারা কাজটার অংশ। আর পরে যে শাস্তি এল, তা তাদের আলাদা করেনি সেই লোকটির থেকে, যাকে তারা পাঠিয়েছিল।"
+          },
+          {
+            "en": "The second question is for the one who is called. As-Sa'di's gloss, he complied with what they ordered, describes a man who went along. Ibn Kathir's gloss, he dared, describes a man who was bold. Both are familiar in anyone pressed by the people around him, and the two can live in one person at once. Many wrongs are done not by a crowd all together but by one person who answers when others call. The verse invites a reader to be the one who, called to such a thing, does not reach for it.",
+            "bn": "দ্বিতীয় প্রশ্নটা যাকে ডাকা হয় তার জন্য। সা'দীর ব্যাখ্যা, তারা যা হুকুম করল সে তা মেনে নিল, এমন এক লোকের ছবি, যে স্রোতে গা ভাসিয়েছে। ইবন কাসীরের ব্যাখ্যা, সে দুঃসাহস দেখাল, এমন এক লোকের ছবি, যার বুকের পাটা আছে। চারপাশের মানুষের চাপে পড়া যে কারও মধ্যে এ দুটিই চেনা যায়, আর একই মানুষের মধ্যে দুটি একসঙ্গেও থাকতে পারে। বহু অন্যায় গোটা ভিড় মিলে করে না। করে একজন, যখন অন্যরা ডাকে আর সে সাড়া দেয়। আয়াতটি পাঠককে ডাকে সেই মানুষ হতে, যে এমন ডাক শুনেও হাত বাড়ায় না।"
+          }
+        ]
+      }
+    ]
+  },
   "54:34": {
     "sections": [
       {

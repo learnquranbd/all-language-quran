@@ -27769,6 +27769,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Each warning in the Qur'an comes with its remedy held out: take heed while there is time, and let the verses you know hold you back from what you were about to do.",
     "lessonBn": "কুরআনের প্রতিটি সতর্কবাণীর সঙ্গেই প্রতিকারের পথ বাড়িয়ে দেওয়া আছে: সময় থাকতে উপদেশ নিন, আর যে আয়াতগুলো আপনি জানেন, সেগুলোকে আপনাকে সেই কাজ থেকে ফিরিয়ে রাখতে দিন, যা আপনি করতে যাচ্ছিলেন।"
+  },
+  "54:29": {
+    "reflectionEn": "The water had been shared by turns, a day for the she-camel and a day for the people. Then come four Arabic words: they called their companion, and he took it on, and he hamstrung her. The verse spends nothing on the gore. It shows how the deed got done. A people called out to one man, and one man answered. The verb for the calling is plural and the verbs for the deed are singular, yet the punishment in the verses that follow falls on them all. Every wrong needs someone willing to say yes, and usually someone else urging him to say it. Sometimes I am the voice that calls. Sometimes I am the one who hears the call.",
+    "reflectionBn": "পানি ভাগ হয়েছিল পালা করে, একদিন উটনীর, একদিন লোকদের। তারপর আরবিতে মাত্র চারটি শব্দ: তারা তাদের সঙ্গীকে ডাকল, সে কাজটা হাতে নিল, আর উটনীর পা কেটে দিল। রক্তারক্তির বিবরণে আয়াত সময় নষ্ট করে না। সে দেখায় কাজটা কীভাবে ঘটল। একটা গোটা জাতি একজন লোককে ডাক দিল, আর সেই একজন সাড়া দিল। ডাকার ক্রিয়া বহুবচনে, কাজের ক্রিয়া একবচনে। তবু পরের আয়াতগুলোতে শাস্তি নেমেছে সবার উপর। প্রতিটি অন্যায়ের জন্য এমন কাউকে লাগে যে রাজি হয়ে যায়, আর সাধারণত পাশে থাকে আরেকজন, যে তাকে রাজি হতে উসকায়। কখনো আমি সেই উসকানির গলা। কখনো আমি সেই লোক, যার কানে ডাকটা এসে পৌঁছায়।",
+    "pointsEn": [
+      "When the people around me urge me toward something I know is wrong, what makes yes feel easier than no?",
+      "Have I ever pushed someone else to do what I would not do with my own hands, and then told myself I had no part in it?",
+      "Which call am I answering right now only because my circle expects me to answer it?",
+      "If I had stood in that crowd and said nothing, would my silence have been part of the call?",
+      "What trust in my keeping have I started to treat as an obstacle in my way rather than a sign?"
+    ],
+    "pointsBn": [
+      "আশপাশের লোকেরা যখন আমাকে এমন কিছুর দিকে ঠেলে, যা আমি জানি অন্যায়, তখন 'না'-এর চেয়ে 'হ্যাঁ' বলা সহজ লাগে কেন?",
+      "নিজের হাতে যা করতাম না, তা কি কখনো অন্যকে দিয়ে করিয়ে নিয়ে নিজেকে বুঝিয়েছি যে এতে আমার কোনো ভাগ নেই?",
+      "এখন কোন ডাকে আমি সাড়া দিচ্ছি শুধু এই কারণে যে আমার চারপাশের মানুষ সেটাই আশা করে?",
+      "সেই ভিড়ে দাঁড়িয়ে আমি যদি চুপ থাকতাম, আমার নীরবতাও কি সেই ডাকের অংশ হয়ে যেত না?",
+      "আমার কাছে রাখা কোন আমানতকে আমি নিদর্শন না ভেবে পথের বাধা ভাবতে শুরু করেছি?"
+    ],
+    "lessonEn": "Do not urge another toward a wrong, and do not answer when urged to one; here one man struck, yet the punishment fell on the whole people.",
+    "lessonBn": "কাউকে অন্যায়ের দিকে উসকাবেন না, আর কেউ উসকালে সাড়া দেবেন না। এখানে আঘাত করেছিল একজন, অথচ শাস্তি নেমেছিল গোটা জাতির উপর।"
   }
 };
 
