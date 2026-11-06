@@ -887,6 +887,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "74:26": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words After a Verdict",
+          "bn": "রায়ের পরে দুটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Sa-uslihi Saqar: I will make him enter Saqar. In Arabic the verse is two words, and it comes straight after a verdict. In 74:24 and 74:25 a man has said of the Qur'an that it is nothing but magic handed down, nothing but the word of a human being. The verse does not argue with either claim. The speaker changes, from the man to Allah, and the grammar changes with him: the verb is in the first person, I, and its object is a single pronoun, him. Who that man was is discussed with 74:11, and this page does not retell it.",
+            "bn": "সাউসলীহি সাকার: শীঘ্রই আমি তাকে সাকারে প্রবেশ করাব। আরবিতে আয়াতটি মাত্র দুটি শব্দ, আর এটি আসে একটি রায়ের ঠিক পরে। ৭৪:২৪ ও ৭৪:২৫ আয়াতে এক লোক কুরআন সম্পর্কে বলেছে, এ তো চলে আসা জাদু ছাড়া কিছু নয়, মানুষের কথা ছাড়া কিছু নয়। আয়াতটি এর কোনো দাবির সঙ্গে তর্কে যায় না। বক্তা বদলে যান, লোকটির জায়গায় এবার আল্লাহ। ভাষাও বদলায়। ক্রিয়ার কর্তা এখন বক্তা নিজেই, 'আমি', আর তার কর্ম একটিমাত্র সর্বনাম: 'তাকে'। লোকটি কে ছিল, সে আলোচনা ৭৪:১১ আয়াতের সঙ্গে আছে। এখানে তা আবার বলা হবে না।"
+          },
+          {
+            "en": "As-Sa'di makes the link explicit. Of the man who said this, he writes, fa-ma haqquhu illa al-'adhab ash-shadid wa-n-nakal: his due is nothing but severe punishment and an exemplary penalty. Then, wa-li-hadha qala: and for this reason Allah said, I will make him enter Saqar. On his reading the verse is a consequence, not a new subject. The verdict of 74:24 and 74:25 is the cause, and these two words are what it earns. The connecting words are as-Sa'di's; the verse simply follows the verdict.",
+            "bn": "সা'দী সংযোগটা খোলাখুলি বলে দেন। যে লোক এ কথা বলেছে, তার সম্পর্কে তিনি লেখেন: 'ফামা হাক্কুহু ইল্লাল আযাবুশ শাদীদ ওয়ান নাকাল', কঠিন আযাব আর দৃষ্টান্তমূলক শাস্তি ছাড়া তার আর কিছুই প্রাপ্য নয়। তারপর বলেন, 'ওয়া লিহাযা কালা': এ কারণেই আল্লাহ বললেন, শীঘ্রই আমি তাকে সাকারে প্রবেশ করাব। তাঁর পাঠে আয়াতটি নতুন কোনো প্রসঙ্গ নয়, আগের কথার পরিণতি। ৭৪:২৪ ও ৭৪:২৫ আয়াতের রায় হলো কারণ, আর এই দুটি শব্দ তার প্রাপ্য। 'এ কারণেই' কথাটা সা'দীর নিজের। আয়াত শুধু রায়ের পরে এসে দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taken In, Roasted, Covered",
+          "bn": "প্রবেশ, দহন, চারদিক থেকে ঘেরা"
+        },
+        "p": [
+          {
+            "en": "The commentators unpack the verb in different ways. Al-Baghawi gives the plainest gloss in one word: sa-udkhiluhu, I will make him enter. At-Tabari has sa-uriduhu, I will bring him to it. Al-Qurtubi and the Muyassar both keep the entering and add a purpose: sa-udkhiluhu ... kay yasla harraha, I will make him enter it so that he roasts in its heat. The Muyassar then adds a second clause of its own, wa-yahtariqa bi-nariha, and burns in its fire. Each gloss goes a little further into the one verb.",
+            "bn": "ক্রিয়াটির ভেতরের অর্থ তাফসীরকারেরা খোলেন ভিন্ন ভিন্নভাবে। বাগাভী এক শব্দে সবচেয়ে সাদামাটা ব্যাখ্যা দেন: 'সাউদখিলুহু', আমি তাকে প্রবেশ করাব। তাবারী বলেন 'সাঊরিদুহু', আমি তাকে সেখানে নিয়ে যাব। কুরতুবী আর মুয়াসসার দুজনেই প্রবেশের অর্থ রাখেন, সঙ্গে জুড়ে দেন উদ্দেশ্য: 'কাই ইয়াসলা হাররাহা', যাতে সে তার উত্তাপে দগ্ধ হয়। মুয়াসসার এরপর নিজের আরেকটি বাক্যাংশ যোগ করে: 'ওয়া ইয়াহতারিকা বিনারিহা', আর তার আগুনে পুড়তে থাকে। প্রতিটি ব্যাখ্যা একটিমাত্র ক্রিয়ার আরেকটু গভীরে নিয়ে যায়।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic commentary on the verse is a single line, and it turns the verb another way: sa-aghmuruhu fiha min jami' jihatihi, I will submerge him in it from every side. Where the others describe a going in and a heat that reaches him, Ibn Kathir describes being covered, with no side of him left outside it. The images do not compete. Read together, they set out three parts of one event: being brought to the Fire, exposed to its heat, and surrounded by it.",
+            "bn": "এ আয়াতে ইবন কাসীরের আরবি তাফসীর মাত্র এক লাইনের, আর তা ক্রিয়াটিকে আরেক দিকে ঘোরায়: 'সাআগমুরুহু ফীহা মিন জামীয়ি জিহাতিহি', আমি তাকে চারদিক থেকে তাতে ডুবিয়ে দেব। অন্যরা বলেন ভেতরে ঢোকার কথা, তার গায়ে উত্তাপ লাগার কথা। ইবন কাসীর বলেন ঢেকে যাওয়ার কথা, যেখানে তার কোনো দিকই বাইরে থাকে না। এই ছবিগুলো একে অন্যের বিরোধী নয়। একসঙ্গে পড়লে একই ঘটনার তিনটি দিক সামনে আসে: আগুনের কাছে নিয়ে আসা, তার উত্তাপের মুখে ফেলা, আর চারদিক থেকে ঘিরে ফেলা।"
+          },
+          {
+            "en": "The verb also opens with sa-, which points ahead: the verse announces what has not yet happened, in the voice of the One who will bring it about. The same shape, sa- with a first-person verb and the pronoun him, appears earlier in this passage at 74:17, which has its own page. There is no oath, no qualifier and no reason given inside the verse. The reason has already been spoken, by the man himself, in the two verses before it.",
+            "bn": "ক্রিয়াটি শুরু হয় 'সা' দিয়ে, যা সামনের দিকে ইঙ্গিত করে। আয়াতটি এমন কিছুর ঘোষণা দেয় যা এখনো ঘটেনি, আর ঘোষণা দেন তিনি নিজেই, যিনি তা ঘটাবেন। একই গড়ন, অর্থাৎ 'সা', তারপর 'আমি'-র ক্রিয়া আর 'তাকে' সর্বনাম, এই অংশে আগেও এসেছে ৭৪:১৭ আয়াতে। সেটির আলোচনা আলাদা পাতায়। আয়াতের ভেতরে কোনো শপথ নেই, কোনো শর্ত নেই, কোনো কারণও বলা হয়নি। কারণটা আগেই বলা হয়ে গেছে, লোকটি নিজেই বলেছে, ঠিক আগের দুই আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called by Its Own Name",
+          "bn": "নিজের নামে ডাকা"
+        },
+        "p": [
+          {
+            "en": "Saqar is a proper name, and two of the commentators show it from the way the word ends. At-Tabari notes, wa-lam yujarra Saqar, Saqar does not take the genitive ending, because it is ism min asma' Jahannam, one of the names of Jahannam. Al-Qurtubi gives the rule in its fuller form: la yansarif li-t-ta'rif wa-t-ta'nith, it is not fully declined, because it is definite and feminine. The two do not disagree; al-Qurtubi simply adds femininity to the reason at-Tabari gives.",
+            "bn": "সাকার একটি নাম। দুজন তাফসীরকার শব্দটির শেষাংশ দেখিয়েই তা প্রমাণ করেন। তাবারী লেখেন: 'ওয়া লাম ইউজাররা সাকার', সাকারের শেষে যেরের চিহ্ন আসে না, কারণ এটি 'ইসমুন মিন আসমায়ি জাহান্নাম', জাহান্নামের নামগুলোর একটি। কুরতুবী নিয়মটা আরেকটু পূর্ণ করে বলেন: 'লা ইয়ানসারিফু লিত তা'রীফি ওয়াত তা'নীস', শব্দটি পুরো রূপ নেয় না, কারণ এটি নির্দিষ্ট নাম এবং স্ত্রীলিঙ্গ। দুজনের মধ্যে বিরোধ নেই। তাবারী যে কারণ বলেন, কুরতুবী তার সঙ্গে শুধু স্ত্রীলিঙ্গের কথাটি যোগ করেন।"
+          },
+          {
+            "en": "The rule can be seen in the text. Saqar appears four times in the Qur'an: at 54:48, here at 74:26, at 74:27 and at 74:42. In 74:42 it follows the preposition fi, in, and in 54:48 it closes a possessive phrase, places where most nouns would end in -i; both times it ends in -a. It is never Saqarin or Saqari. Being called by a name matters. The Qur'an does not say only that he will be punished, or that he will meet a fire. It names the place, as one names a person, and then, in the next verse, asks what that name means.",
+            "bn": "নিয়মটা কুরআনের পাঠেই দেখা যায়। কুরআনে সাকার শব্দটি এসেছে চারটি আয়াতে: ৫৪:৪৮, এখানে ৭৪:২৬, তারপর ৭৪:২৭ ও ৭৪:৪২ আয়াতে। ৭৪:৪২ আয়াতে এটি বসেছে 'ফী' (মধ্যে) অব্যয়ের পরে, আর ৫৪:৪৮ আয়াতে একটি সম্বন্ধসূচক বাক্যাংশের শেষে। এসব জায়গায় সাধারণ বিশেষ্যের শেষে 'ই' আসার কথা, অথচ দুবারই শব্দটি শেষ হয় 'আ' দিয়ে। কখনো 'সাকারিন' বা 'সাকারি' হয় না। নাম ধরে ডাকার একটা ওজন আছে। কুরআন শুধু বলে না যে তার শাস্তি হবে, কিংবা সে আগুনের মুখোমুখি হবে। জায়গাটার নাম বলে দেয়, যেমন মানুষের নাম বলা হয়। তারপর পরের আয়াতেই প্রশ্ন তোলে, এই নামের মানে কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gate, Layer, or Whole Fire",
+          "bn": "দরজা, স্তর, নাকি পুরো আগুন"
+        },
+        "p": [
+          {
+            "en": "What exactly the name refers to is read in more than one way. Al-Baghawi says simply, Saqar ism min asma' Jahannam: Saqar is one of the names of Jahannam. The Muyassar renders the verse as sa-udkhiluhu Jahannam, I will make him enter Jahannam, using the general name in place of the particular one. At-Tabari, in one sentence, does two things. He glosses the verse as sa-uriduhu baban min abwab Jahannam ismuhu Saqar, I will bring him to a gate among the gates of Jahannam whose name is Saqar, and then explains the grammar by calling Saqar one of the names of Jahannam.",
+            "bn": "নামটি ঠিক কী বোঝায়, তা নিয়ে একাধিক পাঠ আছে। বাগাভী সোজা বলেন: 'সাকার ইসমুন মিন আসমায়ি জাহান্নাম', সাকার জাহান্নামের নামগুলোর একটি। মুয়াসসার আয়াতের অর্থ করে 'সাউদখিলুহু জাহান্নাম', আমি তাকে জাহান্নামে প্রবেশ করাব। বিশেষ নামের জায়গায় সে ব্যবহার করে সাধারণ নামটি। তাবারী এক বাক্যেই দুটি কাজ করেন। আয়াতের ব্যাখ্যায় তিনি বলেন: 'সাঊরিদুহু বাবান মিন আবওয়াবি জাহান্নাম ইসমুহু সাকার', আমি তাকে জাহান্নামের দরজাগুলোর একটিতে নিয়ে যাব, যার নাম সাকার। তারপর ব্যাকরণ বোঝাতে গিয়ে সাকারকে বলেন জাহান্নামের নামগুলোর একটি।"
+          },
+          {
+            "en": "Al-Qurtubi relays a third reading from Ibn 'Abbas: hiya at-tabaq as-sadis min Jahannam, it is the sixth layer of Jahannam. So the sources fetched for this verse give a name for the whole Fire, a gate that bears this name, and a layer, the sixth. They set these side by side without weighing them against each other, and this page leaves them so. What they share is the point the verse carries. Saqar belongs to Jahannam, and whoever is made to enter it has entered the Fire.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ)-এর সূত্রে তৃতীয় একটি পাঠ উদ্ধৃত করেন: 'হিয়াত তাবাকুস সাদিসু মিন জাহান্নাম', এটি জাহান্নামের ষষ্ঠ স্তর। তাহলে এ আয়াতের জন্য খোলা তাফসীরগুলোতে পাওয়া যায় তিনটি কথা: পুরো আগুনের একটি নাম, এই নাম বহনকারী একটি দরজা, আর একটি স্তর, যা ষষ্ঠ। তাঁরা এগুলো পাশাপাশি রাখেন, একটিকে অন্যটির উপর প্রাধান্য দেন না। এ পাতাও সেভাবেই রেখে দিচ্ছে। সবার মধ্যে মিল সেই কথায়, যা আয়াতটি বহন করে। সাকার জাহান্নামেরই অংশ, আর যাকে সেখানে প্রবেশ করানো হয়, সে আগুনেই প্রবেশ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Face Burned by the Sun",
+          "bn": "রোদে পোড়া মুখ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi also asks where the name comes from. Innama summiyat Saqar min saqarat-hu ash-shams, it is called Saqar from the expression the sun saqarat him, said idha adhabat-hu wa-lawwahat-hu wa-ahraqat jildata wajhihi: when the sun has melted him, changed him, and burned the skin of his face. On this account the name is drawn from ordinary speech: the word for what a fierce sun does to a person, used as the name of a place in the Fire.",
+            "bn": "নামটি কোথা থেকে এল, কুরতুবী সে প্রশ্নও তোলেন। তিনি বলেন: 'ইন্নামা সুম্মিয়াত সাকার মিন সাকারাতহুশ শামস', একে সাকার বলা হয় 'সূর্য তাকে সাকার করেছে' কথাটা থেকে। এ কথা বলা হয় তখন, 'ইযা আযাবাতহু ওয়া লাওওয়াহাতহু ওয়া আহরাকাত জিলদাতা ওয়াজহিহি', যখন রোদ কাউকে গলিয়ে দেয়, তার চেহারা বদলে দেয়, আর তার মুখের চামড়া পুড়িয়ে ফেলে। এ ব্যাখ্যায় নামটি এসেছে মানুষের রোজকার কথা থেকে। প্রখর রোদ মানুষের যা করে, সেই শব্দই হয়ে গেছে আগুনের ভেতরের এক জায়গার নাম।"
+          },
+          {
+            "en": "One verb in that definition, lawwahat-hu, it changed him, shares its root with lawwahah in 74:29, where Saqar is described as lawwahatun lil-bashar. Al-Qurtubi, on that verse, glosses lawwahah as mughayyirah, altering, min lahahu idha ghayyarahu: from lahahu, said of something when it has changed him. So the name given here and the description in 74:29 draw on the same picture: a heat that changes what it touches. Al-Qurtubi does not draw this connection; it comes from setting his wording on the two verses side by side.",
+            "bn": "এই সংজ্ঞার একটি ক্রিয়া, 'লাওওয়াহাতহু', তাকে বদলে দিয়েছে, এর ধাতু আর ৭৪:২৯ আয়াতের 'লাওওয়াহাহ' শব্দের ধাতু একই। সেখানে সাকারকে বলা হয়েছে 'লাওওয়াহাতুল লিল বাশার'। কুরতুবী ওই আয়াতে লাওওয়াহাহর অর্থ করেন 'মুগাইয়িরাহ', বদলে দেয় এমন, আর বলেন এটি এসেছে 'লাহাহু' থেকে, যা বলা হয় কোনো কিছু কাউকে বদলে দিলে। তাহলে এখানকার নাম আর ৭৪:২৯ আয়াতের বর্ণনা, দুটোই একই ছবি থেকে আঁকা: এমন উত্তাপ, যা ছোঁয়া সবকিছু বদলে দেয়। এই সংযোগ কুরতুবী নিজে টানেননি। দুই আয়াতে তাঁর নিজের শব্দগুলো পাশাপাশি রেখে সংযোগটা এখানে দেখানো হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Question That Follows the Name",
+          "bn": "নামের পরে আসা প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The next verse stops on the name: wa-ma adraka ma Saqar, and what will make you know what Saqar is? Al-Qurtubi calls it mubalagha fi wasfiha, an intensifying of its description, and kalimat ta'zim, a phrase that makes it great. Ibn Kathir says tahwil li-amriha wa-tafkhim, it makes the matter dreadful and grave. At-Tabari reads the question as addressed to the Prophet ﷺ, ya Muhammad, and then says that Allah explained what Saqar is: hiya nar, it is a fire. The name is given in 74:26; the Qur'an pauses over it before it describes.",
+            "bn": "পরের আয়াত নামটির উপর এসে থামে: 'ওয়ামা আদরাকা মা সাকার', আর তুমি কি জানো সাকার কী? কুরতুবী একে বলেন 'মুবালাগাতুন ফী ওয়াসফিহা', তার বর্ণনায় জোর বাড়ানো, আর 'কালিমাতু তা'যীম', এমন কথা যা বিষয়টিকে বড় করে তোলে। ইবন কাসীর বলেন 'তাহবীলুন লিআমরিহা ওয়া তাফখীম', এতে বিষয়টিকে ভয়ংকর ও গুরুতর করে দেখানো হয়েছে। তাবারীর মতে প্রশ্নটি করা হয়েছে নবী ﷺ-কে, 'ইয়া মুহাম্মাদ'। তারপর তিনি বলেন, আল্লাহ বুঝিয়ে দিলেন সাকার কী: 'হিয়া নার', তা এক আগুন। নামটি আসে ৭৪:২৬ আয়াতে, আর বর্ণনার আগে কুরআন সেই নামের উপর খানিক থেমে থাকে।"
+          },
+          {
+            "en": "The answer in 74:28 is la tubqi wa-la tadhar, it leaves nothing and spares nothing. At-Tabari reads it as leaving no one in it alive and no one dead, burning them each time their creation is renewed, and reports from Mujahid, la tumitu wa-la tuhyi, it neither kills nor gives life. Al-Qurtubi gives no bone, flesh or blood left unburned. As-Sa'di, who comments on 74:26 to 74:28 together, reads it as no degree of severity it fails to reach, and nothing of the person punished that it does not reach.",
+            "bn": "৭৪:২৮ আয়াতে উত্তর আসে: 'লা তুবকী ওয়ালা তাযার', কিছুই বাকি রাখে না, কিছুই ছেড়ে দেয় না। তাবারী এর অর্থ করেন, ভেতরে কাউকে জীবিতও রাখে না, মৃত অবস্থায়ও ছাড়ে না। যতবার তাদের নতুন করে সৃষ্টি করা হয়, ততবার পোড়ায়। মুজাহিদ থেকে তিনি বর্ণনা করেন: 'লা তুমীতু ওয়ালা তুহয়ী', মারেও না, বাঁচিয়েও রাখে না। কুরতুবীর ব্যাখ্যায়, হাড়, মাংস বা রক্ত কিছুই না পুড়িয়ে ছাড়ে না। সা'দী ৭৪:২৬ থেকে ৭৪:২৮ আয়াত একসঙ্গে ব্যাখ্যা করেন। তাঁর মতে কঠোরতার এমন কোনো মাত্রা নেই যেখানে তা পৌঁছায় না, আর শাস্তিপ্রাপ্ত মানুষের এমন কিছুই নেই যাতে তা পৌঁছায় না।"
+          },
+          {
+            "en": "Then 74:29, lawwahatun lil-bashar. Most of the readings at-Tabari and Ibn Kathir report make it the skin: Mujahid says lil-bashar means the skin; Abu Razin, that it blasts the skin once and leaves it blacker than the night; Qatada, burning for the skin; Ibn 'Abbas, it burns a person's skin. Al-Qurtubi records others: from Ibn 'Abbas, that it shows itself to people from a distance of five hundred years' travel; from al-Akhfash, that it parches with thirst. These verses have their own place; they appear here only as the answer to the question the name raises.",
+            "bn": "তারপর ৭৪:২৯ আয়াত: 'লাওওয়াহাতুল লিল বাশার'। তাবারী আর ইবন কাসীর যেসব বর্ণনা আনেন, তার বেশিরভাগে কথাটা চামড়া নিয়ে। মুজাহিদ বলেন, 'লিল বাশার' মানে চামড়ার জন্য। আবু রাযীন বলেন, এক ঝাপটায় চামড়া পুড়িয়ে রাতের চেয়েও কালো করে দেয়। কাতাদা বলেন, চামড়া জ্বালিয়ে দেয়। ইবন আব্বাস (রাঃ) বলেন, মানুষের চামড়া পুড়িয়ে ফেলে। কুরতুবী আরও কিছু মত লিখে রাখেন। ইবন আব্বাস (রাঃ) থেকে: পাঁচশো বছরের পথের দূরত্ব থেকে তা মানুষের সামনে দৃশ্যমান হয়। আখফাশ থেকে: তা তীব্র তৃষ্ণায় কাতর করে। এই আয়াতগুলোর আলোচনা আলাদা জায়গায়। এখানে এগুলো এসেছে শুধু নামটির তোলা প্রশ্নের উত্তর হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Human Word Comes Back",
+          "bn": "ফিরে আসা 'মানুষ' শব্দ"
+        },
+        "p": [
+          {
+            "en": "One word ties the verdict to what follows. The man's last claim, in 74:25, is in hadha illa qawl al-bashar: this is nothing but the word of a human being. In 74:29, Saqar is lawwahatun lil-bashar; and the passage closes, at 74:31, on wa-ma hiya illa dhikra lil-bashar, and it is nothing but a reminder for humankind. The same word, bashar, comes back three times in seven verses. This is an observation on the wording, not a reading any fetched commentator makes.",
+            "bn": "একটি শব্দ রায়টিকে পরের আয়াতগুলোর সঙ্গে বেঁধে রাখে। ৭৪:২৫ আয়াতে লোকটির শেষ দাবি ছিল: 'ইন হাযা ইল্লা কাওলুল বাশার', এ তো মানুষের কথা ছাড়া কিছু নয়। ৭৪:২৯ আয়াতে সাকারের বর্ণনা: 'লাওওয়াহাতুল লিল বাশার'। আর ৭৪:৩১ আয়াতে পুরো অংশটি শেষ হয় এই কথায়: 'ওয়ামা হিয়া ইল্লা যিকরা লিল বাশার', এ তো মানুষের জন্য উপদেশ মাত্র। সাতটি আয়াতের মধ্যে 'বাশার' শব্দটি ফিরে আসে তিনবার। এটি কেবল পাঠের শব্দ নিয়ে একটি পর্যবেক্ষণ। এ আয়াতের জন্য খোলা কোনো তাফসীরকার এভাবে পড়েননি।"
+          },
+          {
+            "en": "The repetition is plain to see. The man reduced the Qur'an to the speech of a bashar, something any person might have said. The passage then speaks of bashar twice more: on the reading of al-Akhfash and most others in al-Qurtubi, the people whom the Fire alters; and in 74:31, humankind, for whom it is called a reminder. Mujahid and Qatada, as al-Qurtubi records, take the word in 74:29 as skin instead, so the echo there is one reading's, not every reading's.",
+            "bn": "পুনরাবৃত্তিটা সহজেই চোখে পড়ে। লোকটি কুরআনকে নামিয়ে এনেছিল এক 'বাশার'-এর কথায়, এমন কথা যা যে কোনো মানুষ বলতে পারে। এরপর অংশটি আরও দুবার 'বাশার'-এর কথা বলে। কুরতুবীর বর্ণনায় আখফাশ ও অধিকাংশের পাঠ অনুযায়ী, ৭৪:২৯ আয়াতে তারা সেই মানুষ, আগুন যাদের বদলে দেয়। আর ৭৪:৩১ আয়াতে তারা গোটা মানবজাতি, যাদের জন্য একে উপদেশ বলা হয়েছে। তবে কুরতুবী এটাও লিখেছেন যে মুজাহিদ ও কাতাদা ৭৪:২৯ আয়াতের শব্দটিকে চামড়া অর্থে নেন। তাই সেখানে প্রতিধ্বনিটা একটি পাঠ অনুযায়ী, সব পাঠে নয়।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it, so none is quoted here. The verse speaks in its own two words, read with the verses around it and the glosses of those who explained it. A promise from Allah in the first person needs no supporting story to be heard; the reader's task is to hear it rightly, as said of one man and as a warning to all who read it.",
+            "bn": "এ আয়াতের জন্য খোলা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হলো না। আয়াতটি নিজের দুটি শব্দেই কথা বলে, আশপাশের আয়াত আর ব্যাখ্যাকারদের ব্যাখ্যার সঙ্গে মিলিয়ে পড়লে। আল্লাহ যখন নিজে 'আমি' বলে কোনো কথা দেন, তা শোনার জন্য পাশে কোনো কাহিনির দরকার হয় না। পাঠকের কাজ হলো ঠিকভাবে শোনা: কথাটা একজন লোক সম্পর্কে, আর সতর্কবাণী প্রত্যেক পাঠকের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said of One, Heard by All",
+          "bn": "কথা একজনের, শিক্ষা সবার"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse is Allah's announcement about one man, the man of 74:11 to 74:25, after the verdict he gave on the Qur'an. It describes what the text describes. It licenses nothing against any living person or community. No reader is entitled to name anyone alive, Muslim or not, as bound for Saqar, however harsh that person's words about the Qur'an may be. Allah spoke this sentence in His own voice, and no one may borrow that voice to pass it on someone else.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একজন লোক সম্পর্কে আল্লাহর ঘোষণা। সে ৭৪:১১ থেকে ৭৪:২৫ আয়াতের সেই লোক, যে কুরআন নিয়ে নিজের রায় দিয়েছিল। আয়াত শুধু ততটুকুই বলে, যতটুকু পাঠে আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। জীবিত কাউকে, সে মুসলিম হোক বা না হোক, সাকারের যাত্রী বলে ঘোষণা করার অধিকার কোনো পাঠকের নেই। কুরআন নিয়ে তার কথা যত কঠোরই হোক। এ বাক্য আল্লাহ বলেছেন নিজের কণ্ঠে, আর সেই কণ্ঠ ধার করে অন্য কারও উপর তা চাপিয়ে দেওয়ার অধিকার কারও নেই।"
+          },
+          {
+            "en": "What the reader can carry away is a look inward. The man's verdict was not a single cry. It came after thinking, weighing, frowning and turning away, and it ended in a sentence that set the Qur'an among the words of men. A heart can reach the same place quietly, without ever saying it aloud: by treating a verse as one opinion among others, to admire or put aside as convenient. As-Sa'di called the punishment the man's due. The verse makes the reader ask what is due from him when the Qur'an is recited to him.",
+            "bn": "পাঠক এখান থেকে যা নিতে পারেন, তা হলো নিজের ভেতরে তাকানো। লোকটির রায় হঠাৎ এক চিৎকার ছিল না। তা এসেছিল ভাবনা, মাপজোখ, ভ্রুকুটি আর মুখ ফিরিয়ে নেওয়ার পরে। শেষে সে কুরআনকে মানুষের কথার কাতারে দাঁড় করিয়েছিল। একটা অন্তরও নিঃশব্দে সেখানে পৌঁছে যেতে পারে, মুখে কখনো না বলেও। যেমন কোনো আয়াতকে আর দশটা মতের একটি ভেবে নেওয়া, সুবিধামতো প্রশংসা করা বা সরিয়ে রাখা। সা'দী শাস্তিকে বলেছেন লোকটির প্রাপ্য। আয়াতটি পাঠককে প্রশ্ন করায়: কুরআন যখন আমাকে শোনানো হয়, তখন আমার কাছে কী প্রাপ্য?"
+          },
+          {
+            "en": "The verb looks ahead, and so can the reader. Sa-uslihi speaks of what is coming, and 74:31 closes the passage by calling it a reminder for humankind. A warning given before the event is still a door. The way to stay clear of these two words is the reverse of the man's path: to hear the Qur'an as the word of Allah, not of a bashar, to let it change something before the heat of 74:29 ever could, and to leave every verdict on others to Allah, who pronounced this verdict.",
+            "bn": "ক্রিয়াটি সামনের দিকে তাকায়, পাঠকও তাকাতে পারেন। 'সাউসলীহি' আসন্ন কিছুর কথা বলে, আর ৭৪:৩১ আয়াত পুরো অংশটি শেষ করে একে মানুষের জন্য উপদেশ বলে। ঘটনার আগে দেওয়া সতর্কবাণী মানে দরজা এখনো খোলা। এই দুটি শব্দের পরিণতি থেকে বাঁচার পথ লোকটির পথের উল্টো। কুরআনকে শুনতে হবে আল্লাহর কালাম হিসেবে, কোনো মানুষের কথা হিসেবে নয়। ৭৪:২৯ আয়াতের উত্তাপ কোনো কিছু বদলে দেওয়ার আগেই কুরআনকে নিজের ভেতরে কিছু বদলাতে দিতে হবে। আর অন্যদের সম্পর্কে সব ফয়সালা ছেড়ে দিতে হবে আল্লাহর হাতে, যিনি এই ফয়সালাটি দিয়েছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "74:31-32": {
     "sections": [
       {

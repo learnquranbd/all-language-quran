@@ -28967,6 +28967,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Forsaking what ruins is a distance kept, not a single step: leave idols, sins and whatever leads to punishment, and keep on leaving them.",
     "lessonBn": "ধ্বংসকর জিনিস বর্জন একবারের পদক্ষেপ নয়, বরং সব সময় দূরত্ব রাখা: মূর্তি, গুনাহ আর আজাবের দিকে নেওয়া সবকিছু ছাড়ুন, আর ছেড়েই থাকুন।"
+  },
+  "74:26": {
+    "reflectionEn": "A man has listened to the Qur'an, weighed it, frowned, turned his back and given his verdict: this is only magic handed down, only the word of a human being. The next verse is two Arabic words, and the speaker has changed. Allah answers in the first person: I will make him enter Saqar. He does not debate the verdict or refute the charge. The answer is where the verdict leads. It is not my place to point that verse at anyone I know; its sentence belongs to the One who spoke it. My place is the question beneath it. When the Qur'an reaches me, do I meet it as Allah's word, or quietly file it as one more human opinion I may weigh and set aside?",
+    "reflectionBn": "একজন লোক কুরআন শুনেছে, মেপে দেখেছে, ভ্রু কুঁচকেছে, পিঠ ফিরিয়েছে, তারপর রায় দিয়েছে: এ তো চলে আসা জাদু ছাড়া কিছু নয়, মানুষের কথা ছাড়া কিছু নয়। পরের আয়াত আরবিতে মাত্র দুটি শব্দ, আর এবার বক্তা বদলে গেছেন। আল্লাহ নিজে 'আমি' বলে জবাব দেন: শীঘ্রই আমি তাকে সাকারে প্রবেশ করাব। রায় নিয়ে কোনো তর্ক নেই, অভিযোগের কোনো খণ্ডনও নেই। জবাবটা হলো, ওই রায় তাকে কোথায় নিয়ে যায়। এ আয়াত আমার চেনা কারও দিকে তাক করার অধিকার আমার নেই। এর ফয়সালা তাঁরই, যিনি কথাটা বলেছেন। আমার কাজ এর নিচে লুকানো প্রশ্নটা নিয়ে। কুরআন যখন আমার কাছে পৌঁছে, আমি কি তাকে আল্লাহর কালাম হিসেবে গ্রহণ করি? নাকি চুপচাপ আরেকটা মানুষের মত বলে তুলে রাখি, যা মেপে দেখে সরিয়ে রাখা যায়?",
+    "pointsEn": [
+      "When a verse asks something hard of me, do I treat it as words I may take or leave, as if a person had said them?",
+      "Have I ever made up my mind first and only afterwards gone looking for words to justify it?",
+      "Do I let the Qur'an's warnings reach me, or do I read them as being about other people?",
+      "When I hear of the Fire, does it move me to change something this week, or only to fear it for a moment?",
+      "Do I leave the last word about anyone's end to Allah, even someone whose words about the Qur'an anger me?"
+    ],
+    "pointsBn": [
+      "কোনো আয়াত যখন আমার কাছে কঠিন কিছু চায়, আমি কি তাকে এমন কথা ভাবি যা নেওয়াও যায়, ফেলাও যায়, যেন কোনো মানুষ বলেছে?",
+      "আমি কি কখনো আগে সিদ্ধান্ত নিয়ে ফেলে পরে তার পক্ষে যুক্তি খুঁজতে বেরিয়েছি?",
+      "কুরআনের সতর্কবাণী কি আমার নিজের গায়ে লাগতে দিই, নাকি ধরে নিই এসব অন্যদের কথা?",
+      "জাহান্নামের কথা শুনলে কি এ সপ্তাহেই কিছু বদলানোর তাগিদ পাই, নাকি শুধু মুহূর্তের জন্য ভয় পাই?",
+      "কারও শেষ পরিণতির ফয়সালা কি আমি আল্লাহর হাতেই ছেড়ে দিই, এমনকি কুরআন নিয়ে যার কথা আমাকে রাগিয়ে দেয় তার বেলাতেও?"
+    ],
+    "lessonEn": "Meet the Qur'an as Allah's word, not as a human opinion to weigh and set aside, and leave every verdict on anyone's end to Allah alone.",
+    "lessonBn": "কুরআনকে আল্লাহর কালাম হিসেবে গ্রহণ করুন, মেপে দেখে সরিয়ে রাখার মতো কোনো মানুষের মত হিসেবে নয়। আর কারও শেষ পরিণতির ফয়সালা কেবল আল্লাহর হাতেই ছেড়ে দিন।"
   }
 };
 
