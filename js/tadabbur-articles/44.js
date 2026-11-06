@@ -747,6 +747,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words Before a Court",
+          "bn": "দরবারের সামনে ছয়টি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Three verses carry Musa's message to Fir'awn's people. In 44:18 he asks them to hand over the servants of Allah. In 44:19 he tells them not to exalt themselves against Allah, and says he has come with sultan mubin, which the abridged Ibn Kathir explains as clear and obvious proof. Then comes 44:20, six Arabic words: wa inni 'udhtu bi-rabbi wa rabbikum an tarjumun. And indeed, I have taken refuge in my Lord and your Lord, lest you stone me.",
+            "bn": "ফেরাউনের লোকদের কাছে মূসা (আঃ)-এর বার্তা এসেছে তিনটি আয়াত জুড়ে। ৪৪:১৮ আয়াতে তিনি বলেন, আল্লাহর বান্দাদের আমার হাতে তুলে দাও। ৪৪:১৯ আয়াতে বলেন, আল্লাহর বিরুদ্ধে ঔদ্ধত্য দেখিয়ো না, আমি তোমাদের কাছে সুলতানুম মুবীন নিয়ে এসেছি। সংক্ষিপ্ত ইংরেজি ইবন কাসীরে এর ব্যাখ্যা: স্পষ্ট ও প্রকাশ্য প্রমাণ। তারপর ৪৪:২০, আরবিতে মাত্র ছয়টি শব্দ: ওয়া ইন্নী উযতু বিরাব্বী ওয়া রাব্বিকুম আন তারজুমূন। আর আমি আমার রব ও তোমাদের রবের আশ্রয় নিয়েছি, যাতে তোমরা আমাকে রজম করতে না পারো।"
+          },
+          {
+            "en": "What drew this sentence out of him? The verse quotes no threat, but al-Qurtubi opens his comment with one: ka-annahum tawa'adu-hu bi-l-qatl fa-istajara billah, it is as though they threatened him with death, so he sought Allah's protection. The words as though are his own; he reads the threat from the reply. Ma'arif al-Qur'an reasons along the same line, saying that Fir'awn's people must have been threatening him with death. Both texts present this as an inference from the wording, and this article keeps it as one. The commentators' real debate lies in the last word, an tarjumun.",
+            "bn": "কোন পরিস্থিতিতে তাঁর মুখ থেকে এ কথা বেরোল? আয়াতে কোনো হুমকির উদ্ধৃতি নেই। তবু কুরতুবী তাঁর আলোচনা শুরু করেন একটি হুমকি দিয়েই: কাআন্নাহুম তাওয়াআদূহু বিলকাতলি ফাসতাজারা বিল্লাহ। যেন তারা তাঁকে হত্যার হুমকি দিয়েছিল, তাই তিনি আল্লাহর আশ্রয় চাইলেন। 'যেন' শব্দটা কুরতুবীর নিজের। জবাব দেখে তিনি হুমকিটা আন্দাজ করছেন। মাআরিফুল কুরআনও একই পথে যুক্তি দেয়: ফেরাউনের লোকেরা নিশ্চয়ই তাঁকে মেরে ফেলার ভয় দেখাচ্ছিল। দুটো বই-ই কথাটা রাখে শব্দ থেকে টানা অনুমান হিসেবে, এ প্রবন্ধও তাকে অনুমানের জায়গাতেই রাখছে। তাফসীরকারদের আসল আলোচনা শেষ শব্দটি নিয়ে: আন তারজুমূন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stones, or a Wounding Tongue",
+          "bn": "পাথর, নাকি কথার আঘাত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says outright that the people of interpretation differed over the rajm from which Musa (AS) sought refuge, and he lists three answers. The first is shatm bi-l-lisan, abuse with the tongue. He gives it from Ibn 'Abbas through the chain of Muhammad ibn Sa'd: ya'ni rajm al-qawl, he means stoning by speech. Then from Abu Salih through Shu'ba: al-rajm bi-l-qawl, the stoning is by words. A second chain to Abu Salih, through Sufyan, names the words themselves: an taqulu huwa sahir, that you say he is a sorcerer.",
+            "bn": "তাবারী সোজাসুজি বলেন, মূসা (আঃ) যে রজম থেকে আশ্রয় চেয়েছিলেন, তার অর্থ নিয়ে তাফসীরবিদদের মধ্যে মতভেদ আছে। তিনি তিনটি জবাব তুলে ধরেন। প্রথমটি হলো শাতম বিল-লিসান, মুখ দিয়ে গালি দেওয়া। মুহাম্মাদ ইবন সা'দের সনদে তিনি এটি আনেন ইবন আব্বাস (রাঃ) থেকে: ইয়া'নী রাজমাল কাওল, অর্থাৎ কথার পাথর। এরপর শু'বার সনদে আবু সালিহ থেকে: রজম মানে কথা দিয়ে আঘাত। সুফইয়ানের সূত্রে আবু সালিহ থেকে আরেকটি বর্ণনা কথাগুলোও বলে দেয়: আন তাকূলূ হুয়া সাহির। অর্থাৎ তোমরা বলবে, সে জাদুকর।"
+          },
+          {
+            "en": "The second answer is the literal one. At-Tabari gives it from Qatada by two chains, one through Sa'id and one through Ma'mar: an tarjumuni bi-l-hijara, that you stone me with stones. The third he gives without a name, introduced only by wa qala akharun, and others said: an taqtuluni, that you kill me. So the one word was heard in three ways in the early generations: as a mouth that wounds a man's name, as hands that throw stones, and as killing outright.",
+            "bn": "দ্বিতীয় জবাবটি আক্ষরিক অর্থের। তাবারী এটি আনেন কাতাদা থেকে, দুটি সনদে: একটি সাঈদের মাধ্যমে, অন্যটি মা'মারের মাধ্যমে। কথাটি হলো, তোমরা আমাকে পাথর ছুড়ে মারবে। তৃতীয় জবাবটি তিনি কারও নাম ছাড়াই আনেন, শুধু 'অন্যরা বলেছেন' বলে: আন তাকতুলূনী, তোমরা আমাকে হত্যা করবে। প্রথম যুগের মানুষেরা তাই একটি শব্দকে তিনটি ভিন্ন অর্থে শুনেছেন। কারও কাছে তা এমন মুখ, যা মানুষের সুনামে আঘাত করে। কারও কাছে পাথর ছোড়া হাত। আর কারও কাছে সরাসরি হত্যা।"
+          },
+          {
+            "en": "The other commentators relay the two named views, each in his own words. Ibn Kathir's Arabic: Ibn 'Abbas and Abu Salih said it is stoning with the tongue, which is shatm, abuse; Qatada said it is stoning with stones. Al-Qurtubi gives Ibn 'Abbas a fuller wording: tashtumun, fa-taqulu sahir kadhdhab, you abuse me and say: a sorcerer, a liar. Al-Baghawi has Ibn 'Abbas say: you revile me and say he is a sorcerer, and has Qatada say: you stone me with stones.",
+            "bn": "অন্য তাফসীরকারেরা নামসহ এ দুটি মতই উদ্ধৃত করেন, প্রত্যেকে নিজের ভাষায়। আরবি ইবন কাসীরে আছে: ইবন আব্বাস (রাঃ) ও আবু সালিহ বলেছেন, এ হলো জিভ দিয়ে রজম, মানে গালিগালাজ। আর কাতাদা বলেছেন, পাথর দিয়ে রজম। কুরতুবী ইবন আব্বাস (রাঃ)-এর কথাটি আরেকটু বিস্তারে আনেন: তোমরা আমাকে গালি দেবে আর বলবে, জাদুকর, মিথ্যুক। বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, তোমরা আমাকে গালমন্দ করবে আর বলবে সে জাদুকর। আর কাতাদা বলেন, তোমরা আমাকে পাথর মারবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Each Commentator Leans",
+          "bn": "কোন তাফসীর কোন দিকে ঝোঁকে"
+        },
+        "p": [
+          {
+            "en": "Some commentators give a reading of their own before, or instead of, the reports. Al-Baghawi opens with ay taqtuluni, that is, you kill me, and only then cites Ibn 'Abbas and Qatada. As-Sa'di writes a single line: taqtuluni ashar al-qatalat bi-l-rajm bi-l-hijara, you kill me by the worst of killings, stoning with stones. The Muyassar joins both ideas in a phrase: an taqtuluni rajman bi-l-hijara, that you kill me by stoning. For these three the danger in the verse is death.",
+            "bn": "কিছু তাফসীর বর্ণনাগুলোর আগে, কিংবা সেগুলোর বদলে, নিজের ব্যাখ্যা দেয়। বাগাভী শুরুই করেন 'আই তাকতুলূনী' দিয়ে, মানে তোমরা আমাকে মেরে ফেলবে। তারপর ইবন আব্বাস (রাঃ) ও কাতাদার কথা আনেন। সা'দী লেখেন মাত্র এক লাইন: তোমরা আমাকে হত্যা করবে সবচেয়ে নিকৃষ্ট উপায়ে, পাথর ছুড়ে। মুয়াসসার দুটো ভাবনাকে এক বাক্যে জোড়ে: পাথর মেরে তোমরা আমাকে হত্যা করবে। এই তিনজনের কাছে আয়াতের বিপদটা হলো মৃত্যু।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets out both senses and then leans. Rajm means to stone to death, it says, and also to revile or heap up insults; both are possible here, but stoning to death seems more likely, because Fir'awn's people must have been threatening him with death. So the disagreement is real. Ibn 'Abbas and Abu Salih, as reported, hear an assault of words; Qatada hears stones; as-Sa'di, the Muyassar and Ma'arif read killing by stoning. This article records where each text stands and does not choose.",
+            "bn": "মাআরিফুল কুরআন দুটি অর্থই সামনে রাখে, তারপর একদিকে ঝোঁকে। তার ভাষায়, রজম মানে পাথর মেরে হত্যা। শব্দটির আরেক অর্থ গালমন্দ করা, কথার আক্রমণ চালানো, অপমানের স্তূপ চাপানো। এখানে দুটো অর্থই সম্ভব। তবে পাথর মেরে হত্যার অর্থটাই বেশি সম্ভাব্য মনে হয়, কারণ ফেরাউনের লোকেরা নিশ্চয়ই তাঁকে মৃত্যুর ভয় দেখাচ্ছিল। মতভেদটা তাই সত্যিকারের। বর্ণনা অনুযায়ী ইবন আব্বাস (রাঃ) ও আবু সালিহ শোনেন কথার আক্রমণ, কাতাদা শোনেন পাথর। আর সা'দী, মুয়াসসার ও মাআরিফুল কুরআন পড়েন পাথর মেরে হত্যা। কোন বই কোথায় দাঁড়িয়ে, এ প্রবন্ধ শুধু সেটুকু জানায়, কোনো পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tongue and Hand Together",
+          "bn": "জিভ আর হাত, দুটোই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not stop at the list. The most correct saying, he writes, is what the apparent sense of the words points to: Musa (AS) sought refuge with Allah from being stoned by Fir'awn and his people, and rajm may be a word spoken with the tongue or an act done with the hand. So the right thing to say is that he sought refuge from every meaning of their rajm through which harm and hurt reach the person stoned, whether abuse by the tongue or stones thrown by the hand.",
+            "bn": "তাবারী শুধু মতগুলোর তালিকা দিয়ে থামেন না। তাঁর মতে সবচেয়ে সঠিক কথা সেটাই, যেদিকে বাক্যের বাহ্যিক অর্থ ইঙ্গিত করে। মূসা (আঃ) আল্লাহর আশ্রয় চেয়েছিলেন, যাতে ফেরাউন ও তার লোকেরা তাঁকে রজম না করে। আর রজম মুখের কথাও হতে পারে, হাতের কাজও হতে পারে। তাই সঠিক বক্তব্য হলো, তাদের যে রজমেই আক্রান্ত মানুষের কাছে কষ্ট ও অনিষ্ট পৌঁছায়, তার সব রূপ থেকেই তিনি আশ্রয় চেয়েছিলেন। জিভের গালি হোক, বা হাতে ছোড়া পাথর।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic follows the two reports with a gloss introduced by ay, that is, and lands in the same place: I seek refuge with Allah, who created me and created you, from your reaching me with harm, min qawl aw fi'l, in word or in deed. The abridged English runs this gloss on from Qatada's words, so the two editions frame it differently. Either way, neither text cancels the narrower readings. They widen the refuge to cover both, and that wider reading stands beside the others, not over them.",
+            "bn": "আরবি ইবন কাসীর দুটি বর্ণনার পর 'আই', অর্থাৎ, বলে একটি ব্যাখ্যা জোড়েন, আর তা পৌঁছায় একই জায়গায়। আমি আশ্রয় চাই সেই আল্লাহর কাছে, যিনি আমাকে সৃষ্টি করেছেন, তোমাদেরও সৃষ্টি করেছেন, যেন তোমাদের কোনো অনিষ্ট আমার কাছে না পৌঁছায়, কথায় হোক বা কাজে। সংক্ষিপ্ত ইংরেজি সংস্করণে ব্যাখ্যাটি কাতাদার কথার সঙ্গে জুড়ে গেছে, ফলে দুই সংস্করণে এর উপস্থাপন আলাদা। যেভাবেই হোক, কোনো বই-ই সংকীর্ণ অর্থগুলো বাতিল করে না। তারা আশ্রয়ের পরিধি বাড়িয়ে দুটোকেই ধরে। এই প্রশস্ত পাঠ অন্য মতগুলোর পাশে দাঁড়ায়, সেগুলোর উপরে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Refuge Past, or Refuge Present",
+          "bn": "আশ্রয় অতীতের, নাকি এই মুহূর্তের"
+        },
+        "p": [
+          {
+            "en": "'Udhtu is a perfect verb: I have taken refuge. Al-Qurtubi records two ways of hearing it. On the first it means exactly that, refuge taken in the past, because Allah had already given Musa (AS) a promise: fa-la yasiluna ilaykuma, so they will not reach you two (28:35). In that verse Allah tells him He will strengthen him through his brother and give them both authority, so that Fir'awn's people will not reach them. Read this way, 44:20 tells the court of a protection already granted.",
+            "bn": "উযতু ক্রিয়াটি অতীতকালের: আমি আশ্রয় নিয়েছি। কুরতুবী শব্দটি বোঝার দুটি পথ উল্লেখ করেন। প্রথম মতে এর অর্থ ঠিক এটাই, অতীতে নেওয়া আশ্রয়। কারণ আল্লাহ আগেই মূসা (আঃ)-কে কথা দিয়েছিলেন: ফালা ইয়াসিলূনা ইলাইকুমা, তারা তোমাদের দুজনের কাছে পৌঁছাতে পারবে না (২৮:৩৫)। সেই আয়াতে আল্লাহ তাঁকে বলেন, তাঁর ভাইকে দিয়ে তাঁর বাহু শক্ত করবেন এবং দুজনকেই এমন ক্ষমতা দেবেন যে ফেরাউনের লোকেরা তাঁদের নাগাল পাবে না। এভাবে পড়লে ৪৪:২০ দরবারকে জানিয়ে দেয় এমন এক নিরাপত্তার কথা, যা আগেই দেওয়া হয়ে গেছে।"
+          },
+          {
+            "en": "On the second reading, 'udhtu carries the force of the present: inni a'udhu, I seek refuge. Al-Qurtubi compares it with nashadtuka billah, I adjure you by Allah, and aqsamtu 'alayka billah, I swear to you by Allah, where a past form makes an oath at the moment it is spoken, meaning uqsimu, I swear. On this view the sentence is itself the act; in saying it, Musa (AS) takes refuge there and then. Al-Qurtubi introduces both views with qila, it was said, and leaves them side by side.",
+            "bn": "দ্বিতীয় মতে উযতু বর্তমানের অর্থ বহন করে: ইন্নী আউযু, আমি আশ্রয় চাইছি। কুরতুবী এর তুলনা করেন নাশাদতুকা বিল্লাহ (আল্লাহর দোহাই দিচ্ছি) আর আকসামতু আলাইকা বিল্লাহ (আল্লাহর কসম খাচ্ছি) কথার সঙ্গে। সেখানে অতীতকালের রূপ দিয়েই বলার মুহূর্তে কসম সম্পন্ন হয়, অর্থাৎ উকসিমু, আমি কসম করছি। এ মতে বাক্যটি নিজেই কাজটা। কথাটা উচ্চারণ করেই মূসা (আঃ) তখনই আশ্রয় নিয়ে নেন। দুটি মতই কুরতুবী আনেন 'কীলা', অর্থাৎ বলা হয়েছে, দিয়ে, আর পাশাপাশি রেখে দেন।"
+          },
+          {
+            "en": "He also records a point of recitation in the same word. Nafi', Ibn Kathir (here the reader, not the commentator of the same name), Ibn 'Amir, 'Asim and Ya'qub pronounce the dhal of 'udhtu clearly; the remaining readers merge it into the ta that follows. Al-Qurtubi gives the reason for each: the merging is sought for ease of pronunciation, and the clear form keeps to the original shape of the word. Both pronunciations carry the same verb.",
+            "bn": "একই শব্দে কুরতুবী তিলাওয়াতের একটি বিষয়ও উল্লেখ করেন। নাফি, ইবন কাসীর (এখানে কারী, একই নামের মুফাসসির নন), ইবন আমির, আসিম ও ইয়াকুব উযতু শব্দের যাল স্পষ্ট করে উচ্চারণ করেন। বাকি কারীগণ যালকে পরের তা-এর সঙ্গে মিলিয়ে দেন, যাকে ইদগাম বলে। কুরতুবী দুটোরই কারণ বলেন। মিলিয়ে পড়ার উদ্দেশ্য উচ্চারণ সহজ করা, আর স্পষ্ট উচ্চারণ শব্দের মূল রূপকে ধরে রাখে। দুই উচ্চারণেই ক্রিয়াটি একই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Lord Over Both Sides",
+          "bn": "দুই পক্ষের একই রব"
+        },
+        "p": [
+          {
+            "en": "Bi-rabbi wa rabbikum: in my Lord and your Lord. Musa (AS) does not take refuge in a god of his own against the gods of the court. He names one Lord twice, once as his and once as theirs. Ibn Kathir's gloss makes the point plain: Allah alladhi khalaqani wa khalaqakum, Allah who created me and created you. The people who might throw the stones were made by the same Lord he is calling on, and the sentence tells them so to their faces, at the very moment he fears them.",
+            "bn": "বিরাব্বী ওয়া রাব্বিকুম: আমার রব ও তোমাদের রবের কাছে। মূসা (আঃ) দরবারের দেবতাদের বিপরীতে নিজের আলাদা কোনো উপাস্যের আশ্রয় নেন না। একই রবের নাম তিনি দুবার নেন, একবার নিজের রব হিসেবে, একবার ওদের রব হিসেবে। ইবন কাসীরের ব্যাখ্যা কথাটা খোলাসা করে দেয়: সেই আল্লাহ, যিনি আমাকে সৃষ্টি করেছেন, তোমাদেরও সৃষ্টি করেছেন। যারা পাথর ছুড়তে পারে, তাদেরও বানিয়েছেন সেই রব, যাঁকে তিনি ডাকছেন। যে মুহূর্তে তিনি তাদের ভয় পাচ্ছেন, ঠিক তখনই মুখের উপর এ কথা তাদের শুনিয়ে দেন।"
+          },
+          {
+            "en": "The same words occur once more, at 40:27: and Musa said, I have taken refuge in my Lord and your Lord from every arrogant one who does not believe in the Day of Account. There the verse before, 40:26, quotes Fir'awn's threat outright: leave me to kill Musa. In 44:20 no threat is quoted, and the danger named is rajm. The refuge and the double naming of the Lord are identical in both places. The commentaries on 44:20 consulted here do not draw this comparison; it comes from setting the two verses side by side.",
+            "bn": "হুবহু এই কথাগুলো কুরআনে আরেকবার এসেছে, ৪০:২৭ আয়াতে: মূসা বললেন, যে অহংকারী হিসাবের দিনে বিশ্বাস করে না, তাদের প্রত্যেকের থেকে আমি আমার রব ও তোমাদের রবের আশ্রয় নিয়েছি। সেখানে আগের আয়াত, ৪০:২৬, ফেরাউনের হুমকি সরাসরি উদ্ধৃত করে: আমাকে ছেড়ে দাও, মূসাকে হত্যা করি। ৪৪:২০ আয়াতে কোনো হুমকির উদ্ধৃতি নেই, আর বিপদের নাম রজম। আশ্রয় আর রবের দুবার নাম নেওয়া, দুই জায়গাতেই একই। এখানে দেখা ৪৪:২০-এর তাফসীরগুলো এই তুলনা টানে না। দুটি আয়াত পাশাপাশি রেখে তুলনাটা এখানে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If Not Faith, Then Distance",
+          "bn": "ঈমান না আনলে, অন্তত দূরে থাকো"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the thought: wa in lam tu'minu li fa-'tazilun, and if you do not believe me, then keep away from me. At-Tabari's paraphrase ties it straight back to 44:20. If you do not accept what I have brought you from my Lord, then fa-khallu sabili, let me go my way, ghayra marjumin bi-l-lisani wa la bi-l-yad, stoned neither by tongue nor by hand. He cites Qatada for the core of it, let me go my way, and the Muyassar says much the same: let me go my way and stop harming me.",
+            "bn": "পরের আয়াত কথাটা পূর্ণ করে: ওয়া ইন লাম তু'মিনূ লী ফা'তাযিলূন, আর তোমরা যদি আমাকে বিশ্বাস না করো, তবে আমার থেকে দূরে থাকো। তাবারীর ব্যাখ্যা একে সরাসরি ৪৪:২০-এর সঙ্গে বেঁধে দেয়। রবের কাছ থেকে যা এনেছি তা যদি তোমরা না মানো, তবে আমার পথ ছেড়ে দাও, যাতে জিভ দিয়েও আমাকে রজম না করা হয়, হাত দিয়েও না। মূল কথাটার জন্য তিনি কাতাদার বর্ণনা আনেন: আমার পথ ছেড়ে দাও। মুয়াসসারও প্রায় একই কথা বলে: আমার পথ ছেড়ে দাও, আর আমাকে কষ্ট দেওয়া বন্ধ করো।"
+          },
+          {
+            "en": "Al-Qurtubi gathers several glosses on fa-'tazilun. From Muqatil: da'uni kafafan, la li wa la 'alayya, leave me be, neither for me nor against me. Another: be apart from me and I will be apart from you, until Allah judges between us. Another: let me go my way and stop harming me. He closes with wa-l-ma'na mutaqarib: the meanings are close. The abridged Ibn Kathir reads it the same way: the two sides leave each other alone and live in peace until Allah judges between them.",
+            "bn": "ফা'তাযিলূন শব্দের কয়েকটি ব্যাখ্যা কুরতুবী একসঙ্গে আনেন। মুকাতিল থেকে: আমাকে আমার মতো ছেড়ে দাও, আমার পক্ষেও থেকো না, বিপক্ষেও না। আরেক ব্যাখ্যা: আল্লাহ আমাদের মধ্যে ফয়সালা না করা পর্যন্ত তোমরা আমার থেকে আলাদা থাকো, আমিও তোমাদের থেকে আলাদা থাকি। আরেকটি: আমার পথ ছেড়ে দাও, আমাকে কষ্ট দেওয়া বন্ধ করো। শেষে তিনি বলেন, অর্থগুলো কাছাকাছি। সংক্ষিপ্ত ইংরেজি ইবন কাসীরও একই অর্থ নেন: আল্লাহ ফয়সালা না করা পর্যন্ত দুই পক্ষ একে অপরকে ছেড়ে দিয়ে শান্তিতে থাকবে।"
+          },
+          {
+            "en": "As-Sa'di reads the two verses as an offer with ranks in it. You have three ranks, he has Musa (AS) say, and he names the first two. The first is faith in me, and that is what I want from you. If that does not come about, then keep away from me, neither against me nor for me, and spare me your evil. Then he reports the outcome: they reached neither rank, but went on rebelling against Allah, at war with His prophet, and would not let him have his people, the Children of Israel.",
+            "bn": "সা'দী দুটি আয়াতকে পড়েন ধাপে ধাপে সাজানো এক প্রস্তাব হিসেবে। তাঁর ভাষ্যে মূসা (আঃ) বলছেন, তোমাদের সামনে তিনটি স্তর আছে। প্রথম দুটির নাম তিনি বলেন। প্রথমটি আমার প্রতি ঈমান, তোমাদের কাছে আমার আসল চাওয়া এটাই। সেটা না হলে আমার থেকে দূরে থাকো, আমার বিপক্ষেও না, পক্ষেও না, আর তোমাদের অনিষ্ট থেকে আমাকে রেহাই দাও। তারপর সা'দী জানান কী ঘটেছিল। তারা প্রথম স্তরেও পৌঁছায়নি, দ্বিতীয়টিতেও না। বরং আল্লাহর বিরুদ্ধে অবাধ্যতায় অটল থেকেছে, তাঁর নবী মূসা (আঃ)-এর সঙ্গে লড়েছে, আর তাঁকে তাঁর কওম বনী ইসরাঈলকে নিয়ে যেতে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Refuge Without Reprisal",
+          "bn": "প্রতিশোধহীন আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "Only after this does 44:22 report a prayer against them: he called on his Lord that these were a criminal people. The abridged Ibn Kathir explains the order. After Musa had stayed among them for a long time, and the proof of Allah had been established against them, and it only increased them in disbelief and stubbornness, he prayed against them and was answered; Ibn Kathir points to 10:88 and 10:89 for its wording. So the order is refuge, a request to be left alone, a long stay, and only then a prayer.",
+            "bn": "এরপরই কেবল ৪৪:২২ আয়াতে তাদের বিরুদ্ধে দোয়ার কথা আসে: তিনি তাঁর রবকে ডাকলেন, এরা এক অপরাধী সম্প্রদায়। সংক্ষিপ্ত ইংরেজি ইবন কাসীর এই ক্রমটা বুঝিয়ে দেন। মূসা (আঃ) দীর্ঘ সময় তাদের মাঝে ছিলেন। তাদের বিরুদ্ধে আল্লাহর প্রমাণ প্রতিষ্ঠিত হয়ে গিয়েছিল, আর তাতে তাদের কুফর ও হঠকারিতা কেবল বেড়েছে। তখনই তিনি তাদের বিরুদ্ধে রবের কাছে দোয়া করেন, আর সে দোয়া কবুল হয়। দোয়ার ভাষার জন্য ইবন কাসীর দেখিয়ে দেন ১০:৮৮ ও ১০:৮৯ আয়াত। ক্রমটা তাই এমন: আশ্রয়, তারপর ছেড়ে দেওয়ার অনুরোধ, তারপর দীর্ঘ অবস্থান, আর সবশেষে দোয়া।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes Fir'awn and his people as the text describes them, a court that answered clear proof with threats, and it licenses nothing against any living person or community. It marks no nation, ruler or group of today as Fir'awn's people. Nor do the commentaries consulted here attach any hadith to this verse; none of them cites a sound narration on it, and this article adds none. No occasion of revelation is given for it either; its place in the passage is its context.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ফেরাউন ও তার লোকদের বর্ণনা দেয় ঠিক ততটুকু, যতটুকু কুরআন বলেছে: এমন এক দরবার, যারা সুস্পষ্ট প্রমাণের জবাব দিয়েছিল হুমকি দিয়ে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজকের কোনো জাতি, শাসক বা দলকে এটি ফেরাউনের লোক বলে চিহ্নিত করে না। এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। কেউই এর ব্যাপারে কোনো সহীহ বর্ণনা আনেনি, এ প্রবন্ধও কোনো হাদীস যোগ করছে না। নাযিলের কোনো উপলক্ষও বলা হয়নি। আগে-পরের আয়াতগুলোই এর প্রেক্ষাপট।"
+          },
+          {
+            "en": "What the verse does give the reader is a way to respond. Threatened with stones or with slander, Musa (AS) answers with neither. He states his refuge, names the Lord who is over both sides, and in the next breath asks for nothing worse than distance. A believer who is mocked or menaced can borrow that shape: turn to Allah first, ask to be let alone, and do not return the hurt. The refuge did not make the danger smaller; it put the danger in the hands of the One who decides.",
+            "bn": "আয়াতটি পাঠককে যা দেয়, তা হলো জবাব দেওয়ার একটা ধরন। পাথর বা অপবাদের হুমকির মুখে মূসা (আঃ) এর কোনোটা দিয়েই জবাব দেন না। তিনি নিজের আশ্রয়ের কথা জানান, দুই পক্ষের উপর যে একই রব, তাঁর নাম নেন। আর ঠিক পরের কথাতেই দূরত্বের বেশি কিছু চান না। যে মুমিনকে ঠাট্টা করা হয় বা ভয় দেখানো হয়, তিনিও এই ধরনটা নিতে পারেন: আগে আল্লাহর দিকে ফিরুন, তারপর ছেড়ে দেওয়ার অনুরোধ করুন, আর কষ্টের বদলে কষ্ট ফিরিয়ে দেবেন না। আশ্রয় বিপদকে ছোট করেনি। বিপদটাকে তুলে দিয়েছে তাঁর হাতে, যিনি ফয়সালা করেন।"
+          }
+        ]
+      }
+    ]
+  },
   "44:25": {
     "sections": [
       {

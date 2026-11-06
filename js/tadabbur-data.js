@@ -26969,6 +26969,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whatever Allah gives you is a trust and a test, not a rank; live up to it, and never measure anyone, yourself included, by lineage.",
     "lessonBn": "আল্লাহ আপনাকে যা দেন তা আমানত আর পরীক্ষা, পদমর্যাদা নয়। সে দায়িত্ব পালন করুন, আর বংশ দিয়ে কাউকে মাপবেন না, নিজেকেও না।"
+  },
+  "44:20": {
+    "reflectionEn": "Musa has brought clear proof to a court that holds every kind of power over him, and what he expects in return is violence, whether stones or a storm of insults. He does not threaten them back, and he does not beg. He tells them where he has already gone: to his Lord, whom he calls their Lord as well. The next verse asks only this much: if you will not believe me, then leave me be. There is no curse here, no counter-plot and no contempt for the people in front of him. First comes refuge, then a request for distance. When words or worse are aimed at me, where do I run first? And can I disagree with someone without wishing them harm?",
+    "reflectionBn": "মূসা (আঃ) সুস্পষ্ট প্রমাণ নিয়ে এমন এক দরবারে দাঁড়িয়েছেন, যার হাতে তাঁর উপর সব রকম ক্ষমতা। বদলে তিনি আশা করছেন আঘাত, পাথর হোক বা গালির ঝড়। তিনি পাল্টা হুমকি দেন না, অনুনয়-বিনয়ও করেন না। শুধু জানিয়ে দেন, তিনি আগেই কোথায় আশ্রয় নিয়েছেন: নিজের রবের কাছে, যাঁকে তিনি ওদেরও রব বলে ডাকেন। পরের আয়াতে তাঁর চাওয়া এটুকুই: আমার কথা না মানলে আমাকে আমার মতো থাকতে দাও। এখানে কোনো বদদোয়া নেই, পাল্টা ষড়যন্ত্র নেই, সামনের মানুষগুলোর প্রতি তাচ্ছিল্যও নেই। আগে আশ্রয়, তারপর দূরে থাকার অনুরোধ। কথা বা তার চেয়ে খারাপ কিছু যখন আমার দিকে ধেয়ে আসে, আমি প্রথমে কোথায় ছুটে যাই? আর কারও সঙ্গে দ্বিমত করেও কি আমি তার অমঙ্গল না চেয়ে থাকতে পারি?",
+    "pointsEn": [
+      "When someone attacks me with words, is my first move towards Allah, or towards a sharper reply?",
+      "Do I remember that the person mocking or threatening me stands under the same Lord as I do?",
+      "Where in my life would asking to be left in peace be wiser than winning the argument?",
+      "Have I ever met an insult with an insult and called it standing up for the truth?",
+      "Which fear am I carrying alone that I have never put before Allah in one plain sentence?"
+    ],
+    "pointsBn": [
+      "কেউ কথার আঘাত করলে আমি প্রথমে কোন দিকে যাই: আল্লাহর দিকে, নাকি আরও ধারালো জবাবের দিকে?",
+      "যে আমাকে ঠাট্টা করছে বা ভয় দেখাচ্ছে, সে-ও যে আমার রবেরই বান্দা, সে কথা কি আমার মনে থাকে?",
+      "জীবনের কোন জায়গায় তর্কে জেতার চেয়ে শান্তিতে থাকতে দেওয়ার অনুরোধটাই বেশি বুদ্ধিমানের কাজ হতো?",
+      "গালির জবাব কি কখনো গালি দিয়ে দিয়েছি, আর সেটাকে সত্যের পক্ষে দাঁড়ানো বলে চালিয়েছি?",
+      "কোন ভয়টা আমি একা বয়ে বেড়াচ্ছি, যা কখনো সোজা এক বাক্যে আল্লাহর সামনে রাখিনি?"
+    ],
+    "lessonEn": "When you are threatened in word or deed, take refuge in Allah first, and answer those who reject you by asking for distance, not by doing harm.",
+    "lessonBn": "কথায় বা কাজে হুমকির মুখে পড়লে আগে আল্লাহর আশ্রয় নিন। আর যারা আপনাকে প্রত্যাখ্যান করে, তাদের জবাব দিন দূরে থাকার অনুরোধে, ক্ষতি করে নয়।"
   }
 };
 
