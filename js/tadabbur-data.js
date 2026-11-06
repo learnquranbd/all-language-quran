@@ -27789,6 +27789,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not urge another toward a wrong, and do not answer when urged to one; here one man struck, yet the punishment fell on the whole people.",
     "lessonBn": "কাউকে অন্যায়ের দিকে উসকাবেন না, আর কেউ উসকালে সাড়া দেবেন না। এখানে আঘাত করেছিল একজন, অথচ শাস্তি নেমেছিল গোটা জাতির উপর।"
+  },
+  "54:12": {
+    "reflectionEn": "One verse earlier a man said, I am overpowered, so help. The answer did not come as a single rescue. The sky opened, and here the earth itself was made into springs, until water from above and water from below met. Nothing in that meeting was accidental: it came upon a matter already decided. The same water then bore up the ark of the one who had called and closed over those who mocked him. When I feel outnumbered, do I still believe help can arrive from directions I never thought to watch? And when I picture what is decreed, do I see a door shut on me, or a promise that was set down before my trial began?",
+    "reflectionBn": "আগের আয়াতে এক মানুষ ডেকেছিলেন: আমি পরাস্ত, তুমি সাহায্য করো। জবাব এল একদিক থেকে নয়। আকাশ খুলে গেল, আর এ আয়াতে পুরো জমিনটাকেই বানিয়ে দেওয়া হলো ঝর্ণা। শেষে উপরের পানি আর নিচের পানি এসে মিলল। সে মিলন হঠাৎ ঘটে যাওয়া কিছু ছিল না, আগেই স্থির হয়ে থাকা এক বিষয়ের উপর ঘটেছিল। সেই একই পানি যিনি ডেকেছিলেন তাঁর নৌকা ভাসিয়ে রাখল, আর যারা তাঁকে বিদ্রূপ করেছিল তাদের ঢেকে দিল। নিজেকে যখন একা আর সংখ্যায় কম মনে হয়, তখনো কি বিশ্বাস রাখি যে সাহায্য এমন দিক থেকেও আসতে পারে, যেদিকে আমি কখনো তাকাইনি? আর তাকদীরের কথা ভাবলে কী দেখি: আমার সামনে বন্ধ এক দরজা, নাকি পরীক্ষা শুরুর আগেই লিখে রাখা এক প্রতিশ্রুতি?",
+    "pointsEn": [
+      "When did I last feel overpowered, and did I say so to Allah as plainly as the verse before this one does?",
+      "Do I expect help only from the direction I am watching, or do I leave room for it to rise from where I never looked?",
+      "What in my life looks like chance to me today that I could learn to see as already measured and known?",
+      "The same water drowned some and bore up one man's ark; what blessing in my hands could become a test I fail?",
+      "Is my belief in decree making me more patient and more active, or is it an excuse for doing nothing?"
+    ],
+    "pointsBn": [
+      "শেষ কবে নিজেকে পরাস্ত মনে হয়েছিল? আগের আয়াতের মতো সোজা ভাষায় কি সে কথা আল্লাহকে বলেছিলাম?",
+      "আমি কি শুধু যেদিকে চোখ রাখি সেদিক থেকেই সাহায্য আশা করি, নাকি অচেনা দিক থেকে আসার সুযোগও রাখি?",
+      "আজ আমার জীবনের কোন ঘটনাকে নিছক কাকতাল মনে হচ্ছে, যাকে আগেই মাপা ও জানা বিষয় হিসেবে দেখতে শেখা যায়?",
+      "একই পানি কাউকে ডুবিয়েছে, আবার একজনের নৌকা ভাসিয়ে রেখেছে। আমার হাতের কোন নিয়ামত পরীক্ষা হয়ে দাঁড়াতে পারে, যাতে আমি ফেল করব?",
+      "তাকদীরে বিশ্বাস কি আমাকে আরও ধৈর্যশীল আর আরও কর্মঠ করছে, নাকি হাত গুটিয়ে বসে থাকার অজুহাত হয়ে উঠছে?"
+    ],
+    "lessonEn": "When you are overpowered, call on Allah plainly and trust that His help can come from every side, on a matter He has already measured.",
+    "lessonBn": "নিজেকে পরাস্ত মনে হলে সোজা ভাষায় আল্লাহকে ডাকুন, আর ভরসা রাখুন: তাঁর সাহায্য যেকোনো দিক থেকে আসতে পারে, এমন বিষয়ে যা তিনি আগেই মেপে রেখেছেন।"
   }
 };
 

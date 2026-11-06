@@ -451,6 +451,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "54:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Second Half of an Answer",
+          "bn": "এক জবাবের দ্বিতীয় অর্ধেক"
+        },
+        "p": [
+          {
+            "en": "Wa-fajjarna l-arda 'uyunan fa-ltaqa l-ma'u 'ala amrin qad qudir: and We made the earth burst with springs, and the water met upon a matter already decreed. Nine Arabic words sit in the middle of a short run in which Surat al-Qamar retells the story of Nuh (AS). In 54:9 his people deny Allah's servant, call him mad and drive him back. In 54:10 he prays in five words: I am overpowered, so help. In 54:11 the gates of the sky open with pouring water.",
+            "bn": "ওয়া ফাজ্জারনাল আরদা উয়ূনান ফালতাকাল মাউ আলা আমরিন কাদ কুদির: আর আমি জমিনকে ফাটিয়ে ঝর্ণা বইয়ে দিলাম, তারপর পানি মিলিত হলো আগেই স্থির করা এক বিষয়ের উপর। আরবিতে নয়টি শব্দ। সূরা কামারে নূহ (আঃ)-এর কাহিনি যে ছোট্ট অংশে আবার বলা হয়েছে, আয়াতটি তার মাঝখানে। ৫৪:৯ আয়াতে তাঁর জাতি আল্লাহর বান্দাকে অস্বীকার করে, তাঁকে পাগল বলে, ধমক দিয়ে তাড়িয়ে দেয়। ৫৪:১০ আয়াতে তিনি পাঁচ শব্দে দোয়া করেন: আমি পরাস্ত, তুমি সাহায্য করো। ৫৪:১১ আয়াতে মুষলধারে পানি নিয়ে আকাশের দরজা খুলে যায়।"
+          },
+          {
+            "en": "Commenting on 54:10, Ibn Kathir glosses that prayer as: I am weak, I cannot overcome or resist my people, so help Your religion. The Muyassar, explaining 54:11 and 54:12 as one unit, opens with fa-ajabna du'a'ahu, so We answered his prayer, and runs on: We opened the gates of the sky with abundant, streaming water, split the earth into springs bursting with water, and the water of the sky and the water of the earth met. Read that way, 54:12 is the second half of a single answer.",
+            "bn": "৫৪:১০ আয়াতের আলোচনায় ইবন কাসীর সেই দোয়ার ব্যাখ্যা দেন এভাবে: আমি দুর্বল, আমার জাতিকে পরাস্ত করার বা ঠেকানোর শক্তি আমার নেই, তুমি তোমার দ্বীনকে সাহায্য করো। মুয়াসসার ৫৪:১১ ও ৫৪:১২ আয়াতকে একসঙ্গে ব্যাখ্যা করে। শুরুতেই বলে, ফাআজাবনা দুআআহু: আমি তাঁর দোয়া কবুল করলাম। তারপর দুটি আয়াতকে এক টানে বলে যায়: অঢেল, প্রবল বেগে নামা পানি দিয়ে আকাশের দরজা খুলে দিলাম, জমিনকে চিরে দিলাম পানিভরা ঝর্ণায়, আর আকাশের পানি ও জমিনের পানি এসে মিলল। এভাবে পড়লে ৫৪:১২ একই জবাবের দ্বিতীয় অর্ধেক।"
+          },
+          {
+            "en": "So the prayer asked for help, and the help came from above and below at once. The gushing oven is discussed at 11:40 and 23:27, the earth swallowing its water at 11:44, and the building of the ark at 11:37; none of that is retold here. This article stays with what the verse itself adds: the earth made into springs, the waters meeting, and the decree they met upon.",
+            "bn": "দোয়ায় চাওয়া হয়েছিল সাহায্য, আর সাহায্য এল একসঙ্গে উপর থেকে আর নিচ থেকে। চুলা থেকে পানি উথলে ওঠার আলোচনা আছে ১১:৪০ ও ২৩:২৭ আয়াতে, জমিনের পানি গিলে নেওয়ার কথা ১১:৪৪ আয়াতে, আর নৌকা বানানোর কথা ১১:৩৭ আয়াতে। সেগুলো এখানে আবার বলা হবে না। এ লেখা থাকবে আয়াতটি নিজে যা যোগ করে, সেটুকুর সঙ্গে: ঝর্ণা হয়ে যাওয়া জমিন, দুই পানির মিলন, আর যে ফয়সালার উপর তারা মিলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Earth Made Into Springs",
+          "bn": "ঝর্ণা হয়ে গেল গোটা জমিন"
+        },
+        "p": [
+          {
+            "en": "The verb is fajjarna, We caused to burst forth, and its object is the earth itself; 'uyunan, springs, follows as what the earth was made to pour out. At-Tabari paraphrases it as asalna l-arda 'uyuna l-ma', We made the earth run with springs of water. He then records Sufyan, through Ibn Humayd and Mihran, saying: We burst the earth with water, and water came from the sky.",
+            "bn": "ক্রিয়াটি ফাজ্জারনা, আমি ফাটিয়ে বের করলাম। আর তার কর্ম হলো খোদ জমিন। এরপর আসে উয়ূনান, ঝর্ণা, অর্থাৎ জমিন থেকে যা বইয়ে দেওয়া হলো। তাবারী কথাটা নিজের ভাষায় বলেন: আসালনাল আরদা উয়ূনাল মা, জমিনকে আমি পানির ঝর্ণায় বইয়ে দিলাম। তারপর ইবন হুমাইদ ও মিহরানের সূত্রে সুফিয়ানের কথা আনেন: আমি জমিনকে পানি দিয়ে ফাটালাম, আর পানি এল আকাশ থেকেও।"
+          },
+          {
+            "en": "How much of the earth? Ibn Kathir answers in his first clause: every part of the earth gushed, down to the ovens, the places where fire is kept, which gushed with springs too. As-Sa'di says the sky sent down water in a way that broke the ordinary course of things, and the whole earth burst open, even the oven, where water is not normally found at all, let alone springing up, since it is the place of fire. The oven itself is treated at 11:40 and 23:27.",
+            "bn": "জমিনের কতখানি? ইবন কাসীর প্রথম বাক্যেই জবাব দেন: জমিনের সব প্রান্ত থেকে পানি উথলে উঠেছিল, এমনকি চুলাগুলো থেকেও, যেখানে আগুন জ্বলে। সেগুলোও ঝর্ণা হয়ে বয়েছিল। সা'দী বলেন, আকাশ থেকে এমনভাবে পানি নামল যা স্বাভাবিক নিয়ম ভেঙে দেয়। আর পুরো জমিন ফেটে গেল, এমনকি চুলাও। চুলায় সাধারণত পানিই থাকে না, পানির উৎস হওয়া তো দূরের কথা, কারণ সেটা আগুনের জায়গা। চুলার আলোচনা আছে ১১:৪০ ও ২৩:২৭ আয়াতে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an joins the two halves of the picture: torrential rain from the skies and water bubbling up from under the ground caused the flood, and so the divine decree was carried out on the people of Nuh (AS). None of the fetched commentators gives a depth, a duration or an area for this verse, and this article supplies none. The only measure any of them raises is a proportion between the two waters, taken up below.",
+            "bn": "মাআরিফুল কুরআন ছবির দুই অংশ একসঙ্গে জোড়া দেয়। আকাশ থেকে মুষলধারায় বৃষ্টি নামল, মাটির নিচ থেকে পানি বুদবুদ তুলে উঠে এল। এই দুইয়ে মিলে প্লাবন হলো, আর এভাবেই নূহ (আঃ)-এর জাতির উপর আল্লাহর ফয়সালা কার্যকর হলো। এ আয়াতের আলোচনায় সংগ্রহ করা কোনো তাফসীর পানির গভীরতা, স্থায়িত্বের সময় বা কতটা এলাকা ডুবেছিল তার মাপ দেয় না। এ লেখাও তা দেবে না। তাঁদের কেউ যদি কোনো মাপের কথা তোলেন, তা কেবল দুই পানির অনুপাত। সেটা আয়াতের শেষ শব্দগুলোর আলোচনা, সামনে আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Told at the Margins",
+          "bn": "কিনারায় বলা কিছু বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens his comment with a report from 'Ubayd ibn 'Umayr: Allah inspired the earth to bring out its water, and it burst with springs; one spring held back, so He was angry with it and made its water bitter and brackish until the Day of Resurrection. In the text fetched, al-Qurtubi gives no chain for it, and it is 'Ubayd's own account, not a saying of the Prophet ﷺ. It is reported here as al-Qurtubi reports it, and nothing is built on it.",
+            "bn": "কুরতুবী আলোচনা শুরু করেন উবাইদ ইবন উমাইরের একটি বর্ণনা দিয়ে। আল্লাহ জমিনকে নির্দেশ দিলেন তার পানি বের করে দিতে, আর জমিন ঝর্ণায় ফেটে পড়ল। একটি ঝর্ণা পিছিয়ে রইল। তিনি তার উপর অসন্তুষ্ট হলেন, আর কিয়ামত পর্যন্ত তার পানি তেতো ও লোনা করে দিলেন। সংগ্রহ করা লেখায় কুরতুবী এর কোনো সনদ দেননি। এটি উবাইদের নিজের বর্ণনা, নবী ﷺ-এর বাণী নয়। কুরতুবী যেভাবে এনেছেন, এখানে সেভাবেই উল্লেখ করা হলো। এর উপর কিছু দাঁড় করানো হচ্ছে না।"
+          },
+          {
+            "en": "Ibn Kathir, in comments that cover 54:9 to 54:17 together, relays through Ibn Jurayj a report from Ibn 'Abbas (RA) on the verse before: the water that fell from the sky before that day and ever since came from clouds, but that day the gates of the sky were opened and the water did not come from clouds, and so the two waters met upon a matter ordained. The abridged text gives it no grading.",
+            "bn": "৫৪:৯ থেকে ৫৪:১৭ পর্যন্ত আয়াতগুলোর একসঙ্গে করা আলোচনায় ইবন কাসীর ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন, আগের আয়াতটি নিয়ে। সেদিনের আগে আর পরে আকাশ থেকে যত পানি পড়েছে, সবই এসেছে মেঘ থেকে। কিন্তু সেদিন আকাশের দরজা খুলে দেওয়া হয়েছিল, পানি মেঘ থেকে নামেনি। আর এভাবেই দুই পানি মিলেছিল নির্ধারিত এক বিষয়ের উপর। সংক্ষিপ্ত সংস্করণে এর কোনো মান উল্লেখ নেই।"
+          },
+          {
+            "en": "Al-Qurtubi also records, under the words it has been said and with no name attached, that the sky's water was cold like snow and the earth's water hot like scalding water. None of the fetched commentators links a saying of the Prophet ﷺ to this verse. These reports sit at the edge of the picture. The verse itself states only that the earth burst, that the waters met, and that the meeting answered to a matter already settled.",
+            "bn": "কুরতুবী 'বলা হয়' কথাটি দিয়ে, কারও নাম ছাড়াই, আরেকটি কথা আনেন: আকাশের পানি ছিল বরফের মতো ঠান্ডা, আর জমিনের পানি ফুটন্ত পানির মতো গরম। সংগ্রহ করা কোনো তাফসীর এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। এসব বর্ণনা ছবির কিনারায় থাকে। আয়াত নিজে শুধু এটুকু বলে: জমিন ফেটে গেল, পানি মিলিত হলো, আর সেই মিলন ঘটল আগেই স্থির হয়ে থাকা এক বিষয় অনুযায়ী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Noun for Two Waters",
+          "bn": "এক শব্দে দুই পানি"
+        },
+        "p": [
+          {
+            "en": "Fa-ltaqa l-ma'u: and the water met. A meeting needs at least two parties, yet the noun is singular. At-Tabari raises the difficulty himself: meeting does not happen from one, only between two or more. His answer is that al-ma', water, can be a collective as well as a single thing, and here it means the waters of the sky and the waters of the earth, so it came out in the singular while its sense is plural. Al-Baghawi gives the same explanation in almost the same words.",
+            "bn": "ফালতাকাল মাউ: আর পানি মিলিত হলো। মিলনের জন্য অন্তত দুই পক্ষ লাগে, অথচ বিশেষ্যটি একবচন। প্রশ্নটা তাবারী নিজেই তোলেন: একজন দিয়ে মিলন হয় না, মিলন হয় দুই বা তার বেশির মধ্যে। তাঁর জবাব হলো, আল-মা অর্থাৎ পানি শব্দটি সমষ্টিও বোঝাতে পারে, আবার একককেও। এখানে উদ্দেশ্য আকাশের পানিরাশি আর জমিনের পানিরাশি। তাই শব্দটা একবচন রূপে এসেছে, কিন্তু অর্থ বহুবচনের। বাগাভীও প্রায় একই ভাষায় একই ব্যাখ্যা দেন।"
+          },
+          {
+            "en": "Al-Qurtubi repeats that explanation and adds a second under the words it has been said: once the two came together, they became a single water. Which two, the commentators agree. At-Tabari records Sufyan saying simply, the water of the sky and the water of the earth, and Ibn Kathir, al-Baghawi, as-Sa'di and the Muyassar each name the same pair. No fetched commentator offers another pair.",
+            "bn": "কুরতুবী এ ব্যাখ্যাটি আবার বলেন, আর 'বলা হয়' কথাটি দিয়ে দ্বিতীয় একটি যোগ করেন: দুটি পানি যখন একসঙ্গে এল, তখন সেগুলো এক পানিতে পরিণত হলো। কোন দুটি পানি, তা নিয়ে তাফসীরকারদের মতভেদ নেই। তাবারী সুফিয়ানের ছোট্ট কথাটি আনেন: আকাশের পানি আর জমিনের পানি। ইবন কাসীর, বাগাভী, সা'দী ও মুয়াসসারও একই জোড়ার নাম বলেন। সংগ্রহ করা কোনো তাফসীর অন্য কোনো জোড়ার কথা বলে না।"
+          },
+          {
+            "en": "Al-Qurtubi also lists readings that make the two explicit. Al-Jahdari read fa-ltaqa l-ma'an, and al-Hasan read fa-ltaqa l-mawan, both in the dual, and al-Qurtubi says plainly that both go against the written text of the mushaf. He adds from al-Qushayri that some copies had al-mawan, which is the dialect of Tayyi'. Al-Baghawi names 'Asim al-Jahdari for al-ma'an. The text as recited reads al-ma'u, in the singular; these readings are reported, not recited.",
+            "bn": "কুরতুবী এমন কিছু পাঠও উল্লেখ করেন, যেখানে দুই পানির কথা খোলাখুলি এসেছে। জাহদারী পড়েছেন ফালতাকাল মাআন, আর হাসান পড়েছেন ফালতাকাল মাওয়ান, দুটিই দ্বিবচনে। কুরতুবী পরিষ্কার বলে দেন, দুটি পাঠই মুসহাফের লিখিত রূপের বিপরীত। তিনি কুশাইরী থেকে আরও আনেন যে কিছু কপিতে আল-মাওয়ান লেখা ছিল, আর সেটা তাই গোত্রের ভাষা। বাগাভী মাআন পাঠটির জন্য আসিম আল-জাহদারীর নাম বলেন। যে পাঠ তিলাওয়াত করা হয়, তাতে আছে আল-মাউ, একবচন। এ পাঠগুলো বর্ণনায় আছে, তিলাওয়াতে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Measure, or a Sentence",
+          "bn": "মাপ, নাকি রায়"
+        },
+        "p": [
+          {
+            "en": "'Ala amrin qad qudir: upon a matter already qudir. Al-Qurtubi sets out two senses for that last word, and the commentators divide between them. The first he relays from Ibn Qutayba: upon a measure, neither water exceeding the other, so that the water of the sky and the water of the earth were equal. Al-Baghawi records Muqatil to the same effect: Allah decreed that the two waters would be equal, and they were as He decreed. On this reading the phrase looks at the water itself.",
+            "bn": "আলা আমরিন কাদ কুদির: আগেই কুদির হয়ে থাকা এক বিষয়ের উপর। শেষ শব্দটির দুটি অর্থ কুরতুবী তুলে ধরেন, আর তাফসীরকারেরা এ দুইয়ের মাঝে ভাগ হয়ে যান। প্রথম অর্থটি তিনি আনেন ইবন কুতাইবা থেকে: একটা মাপের উপর, কোনো পানি অন্যটিকে ছাড়িয়ে যায়নি। অর্থাৎ আকাশের পানি আর জমিনের পানি ছিল সমান সমান। বাগাভী মুকাতিলের কথাও একই অর্থে আনেন: আল্লাহ স্থির করেছিলেন দুই পানি সমান হবে, আর সেগুলো তাঁর স্থির করা মাপেই হয়েছিল। এ পাঠে বাক্যাংশটির নজর পানির উপর।"
+          },
+          {
+            "en": "The second sense, which al-Qurtubi introduces with it has been said, takes qudir as decreed against them. He quotes Qatada: it was decreed for them that, if they disbelieved, they would be drowned. Al-Baghawi's own gloss is decreed against them in Umm al-Kitab, the Mother of the Book. As-Sa'di reads it as a command from Allah, written by Him from eternity and decreed as a punishment for these wrongdoing transgressors, and the Muyassar says the waters met upon the destruction Allah had decreed for them, in recompense for their shirk.",
+            "bn": "দ্বিতীয় অর্থটি কুরতুবী আনেন 'বলা হয়' কথাটি দিয়ে। এখানে কুদির মানে তাদের বিরুদ্ধে ফয়সালা হয়ে গিয়েছিল। তিনি কাতাদার কথা উদ্ধৃত করেন: তাদের জন্য স্থির করা ছিল, তারা কুফরি করলে ডুবে মরবে। বাগাভীর নিজের ব্যাখ্যা: উম্মুল কিতাবে তাদের বিরুদ্ধে ফয়সালা লেখা হয়ে গিয়েছিল। সা'দীর কাছে এটি আল্লাহর এক নির্দেশ, যা তিনি অনাদিকালেই লিখে রেখেছিলেন আর এই জালিম, সীমালঙ্ঘনকারীদের শাস্তি হিসেবে স্থির করেছিলেন। মুয়াসসার বলে, দুই পানি মিলিত হয়েছিল তাদের সেই ধ্বংসের উপর, যা আল্লাহ তাদের শিরকের বদলা হিসেবে নির্ধারণ করেছিলেন।"
+          },
+          {
+            "en": "At-Tabari's own wording is a matter that Allah had decreed and determined, and he adds, as a further view, that it was a matter Allah had decreed in the Preserved Tablet. So one reading fixes a proportion between two sources of water, and the other fixes an outcome for a people. Al-Qurtubi places both on the page without choosing between them, and al-Baghawi likewise records both. The difference stays open here.",
+            "bn": "তাবারীর নিজের ভাষা: এমন এক বিষয়, যা আল্লাহ নির্ধারণ করেছিলেন ও ফয়সালা করে রেখেছিলেন। আরেকটি মত হিসেবে তিনি যোগ করেন, বিষয়টি আল্লাহ লাওহে মাহফুজে ফয়সালা করে রেখেছিলেন। তাহলে এক পাঠে স্থির করা হয়েছে দুই উৎসের পানির অনুপাত, অন্য পাঠে একটি জাতির পরিণতি। কুরতুবী দুটিকেই পাশাপাশি রাখেন, কোনোটি বেছে নেন না। বাগাভীও দুটি মতই উল্লেখ করেন। মতভেদটা এখানেও খোলা রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Decree Comes Before the Trial",
+          "bn": "পরীক্ষার আগেই তাকদীর"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes his comment with a saying of Muhammad ibn Ka'b, given with its chain through Ibn Bashshar, Mu'ammal, Sufyan and Musa ibn 'Ubayda: provisions came before bodies, and decree came before affliction. Then he recited this verse. Al-Qurtubi relays the same words. It is Muhammad ibn Ka'b's own saying, not a hadith of the Prophet ﷺ, and neither commentator grades it. Its point is an order of events: what struck the people of Nuh (AS) had been settled before the first spring opened.",
+            "bn": "তাবারী তাঁর আলোচনা শেষ করেন মুহাম্মাদ ইবন কা'বের একটি উক্তি দিয়ে। সনদ দেন ইবন বাশশার, মুআম্মাল, সুফিয়ান আর মূসা ইবন উবাইদার মাধ্যমে: রিজিক এসেছে দেহের আগে, আর তাকদীর এসেছে বিপদের আগে। এরপর তিনি এ আয়াতটি তিলাওয়াত করেন। কুরতুবীও হুবহু এ কথা আনেন। এটি মুহাম্মাদ ইবন কা'বের নিজের কথা, নবী ﷺ-এর হাদীস নয়। দুই তাফসীরকারের কেউই এর মান বলেননি। কথাটির মূল বক্তব্য ঘটনার এক ক্রম: নূহ (আঃ)-এর জাতির উপর যা নেমেছিল, প্রথম ঝর্ণা খোলার আগেই তা স্থির হয়ে ছিল।"
+          },
+          {
+            "en": "The sources do not present that decree as blind. Qatada's wording ties it to a condition, that they would drown if they disbelieved. As-Sa'di calls it a punishment for wrongdoers who had overstepped all bounds, and the Muyassar calls it recompense for their shirk. In each case what was settled in advance answers to what the people did, and the passage itself has already reported it: they denied, they called Allah's servant mad, and they drove him back.",
+            "bn": "সূত্রগুলো এই তাকদীরকে অন্ধ কিছু হিসেবে দেখায় না। কাতাদার ভাষায় এর সঙ্গে একটি শর্ত জড়িয়ে আছে: কুফরি করলে তারা ডুবে মরবে। সা'দী একে বলেন সব সীমা ছাড়িয়ে যাওয়া জালিমদের শাস্তি। মুয়াসসার বলে, এটা তাদের শিরকের বদলা। প্রতিটি ব্যাখ্যায় আগে থেকে যা স্থির ছিল, তা তাদের কাজেরই জবাব। আর সে কাজের কথা এ অংশ আগেই জানিয়ে দিয়েছে: তারা অস্বীকার করেছিল, আল্লাহর বান্দাকে পাগল বলেছিল, আর ধমক দিয়ে তাঁকে তাড়িয়ে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Planks on the Same Water",
+          "bn": "একই পানির উপর তক্তা"
+        },
+        "p": [
+          {
+            "en": "54:13 turns to the vessel: wa-hamalnahu 'ala dhati alwahin wa-dusur, and We carried him on a thing of planks and dusur. Ibn Kathir reports from Ibn 'Abbas (RA), Sa'id ibn Jubayr, al-Qurazi, Qatada and Ibn Zayd that dusur means nails, and says Ibn Jarir preferred that view. In 54:14 it runs bi-a'yunina, which he explains as by Our command, under Our protection and observation, a reward for him who had been rejected. What 54:12 gathers from above and below is the water it rides on.",
+            "bn": "৫৪:১৩ আয়াত নজর ফেরায় নৌযানের দিকে: ওয়া হামালনাহু আলা যাতি আলওয়াহিন ওয়া দুসুর, আর আমি তাঁকে বহন করলাম তক্তা আর দুসুরের তৈরি এক বাহনে। ইবন কাসীর ইবন আব্বাস (রাঃ), সাঈদ ইবন জুবাইর, কুরাযী, কাতাদা ও ইবন যাইদ থেকে বর্ণনা করেন যে দুসুর মানে পেরেক। আর বলেন, ইবন জারীর এ মতটিকেই অগ্রাধিকার দিয়েছেন। ৫৪:১৪ আয়াতে নৌকাটি চলে বিআ'ইউনিনা, যার ব্যাখ্যা তিনি দেন: আমার নির্দেশে, আমার হেফাজত আর তত্ত্বাবধানে, যাকে প্রত্যাখ্যান করা হয়েছিল তাঁর প্রতিদান হিসেবে। ৫৪:১২ আয়াত উপর আর নিচ থেকে যে পানি জড়ো করে, নৌকা ভাসে তার উপরেই।"
+          },
+          {
+            "en": "So one meeting of waters carries two outcomes, a verse apart: here the waters meet upon what was decreed, and in the next verse the man who called rides above them. What was left as a sign, in 54:15, is discussed at 54:17. The refrain of 54:16, how then were My punishment and My warnings, closes the episode before the story of 'Ad opens in 54:18.",
+            "bn": "তাহলে দুই পানির একটিমাত্র মিলনে দুটি পরিণতি, মাঝে মাত্র এক আয়াতের ব্যবধান। এ আয়াতে পানি মিলিত হয় নির্ধারিত ফয়সালার উপর, পরের আয়াতে যিনি ডেকেছিলেন তিনি সেই পানির উপরে ভেসে চলেন। ৫৪:১৫ আয়াতে যা নিদর্শন হিসেবে রেখে দেওয়া হয়েছিল, তার আলোচনা আছে ৫৪:১৭ আয়াতে। তারপর ৫৪:১৬ আয়াতের ধুয়া, কেমন ছিল আমার শাস্তি আর আমার সতর্কবাণী, এ ঘটনা শেষ করে। আর ৫৪:১৮ আয়াতে শুরু হয় আদ জাতির কাহিনি।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the Qur'an reports about the people of Nuh (AS), a past people who denied their prophet, and it licenses nothing against any living person or community. It gives no one the right to read a flood or any disaster that strikes others today as their sentence, or to call any group the people of Nuh. The decree here is Allah's, spoken by Him about a people whose account He has closed. The reader is asked to take warning, not to pass judgement.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নূহ (আঃ)-এর জাতি সম্পর্কে কুরআন যা জানায় তারই বর্ণনা দেয়। তারা ছিল অতীতের এক জাতি, যারা নিজেদের নবীকে অস্বীকার করেছিল। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজ অন্যদের উপর কোনো বন্যা বা বিপর্যয় এলে সেটাকে তাদের প্রতি রায় বলে পড়ার অধিকার এ আয়াত কাউকে দেয় না। কোনো দলকে নূহের জাতি বলে ডাকারও অধিকার দেয় না। এখানে ফয়সালা আল্লাহর, আর তিনি নিজেই তা বলেছেন এমন এক জাতি সম্পর্কে, যাদের হিসাব তিনি বন্ধ করে দিয়েছেন। পাঠকের কাছে চাওয়া হয়েছে সতর্ক হওয়া, বিচার করা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Help From Every Side",
+          "bn": "সব দিক থেকে সাহায্য"
+        },
+        "p": [
+          {
+            "en": "Nuh (AS) asked for help in five words and named no method. The answer, as these verses tell it, came from the sky above him and from the ground beneath his feet. The verse promises no one today a flood. What it does show is that the One who is asked holds every direction at once, and a believer who feels outnumbered can still ask as plainly as Nuh (AS) asked, without first deciding where the help ought to come from.",
+            "bn": "নূহ (আঃ) পাঁচ শব্দে সাহায্য চেয়েছিলেন, কোনো উপায়ের নাম বলেননি। এ আয়াতগুলো যেমন বলে, জবাব এল তাঁর মাথার উপরের আকাশ থেকে আর পায়ের নিচের মাটি থেকে। আজকের কাউকে আয়াতটি বন্যার প্রতিশ্রুতি দেয় না। তবে এটুকু দেখায়: যাঁর কাছে চাওয়া হয়, সব দিক একসঙ্গে তাঁর হাতে। তাই নিজেকে সংখ্যায় কম আর একা মনে হলেও একজন মুমিন নূহ (আঃ)-এর মতো সোজা ভাষায় চাইতে পারেন। সাহায্য কোন দিক থেকে আসা উচিত, তা আগে থেকে ঠিক করে নেওয়ার দরকার নেই।"
+          },
+          {
+            "en": "Both readings of qad qudir end in the same place for the reader. Whether the phrase fixes the proportion of the waters or the outcome for a people, nothing in the scene happens by chance. Muhammad ibn Ka'b's line, decree before affliction, can then be carried as calm rather than as an excuse: pray as the prophet prayed in 54:10, do your work as the planks of 54:13 were joined, and leave the measuring of what follows to the One who had already measured it.",
+            "bn": "কাদ কুদিরের দুটি পাঠই পাঠককে একই জায়গায় পৌঁছে দেয়। বাক্যাংশটি পানির অনুপাত স্থির করুক বা কোনো জাতির পরিণতি, দৃশ্যের কিছুই কাকতালীয়ভাবে ঘটে না। তখন মুহাম্মাদ ইবন কা'বের কথা, বিপদের আগে তাকদীর, অজুহাত না হয়ে মনের প্রশান্তি হয়ে উঠতে পারে। ৫৪:১০ আয়াতে নবী যেভাবে দোয়া করেছিলেন, সেভাবে দোয়া করুন। ৫৪:১৩ আয়াতের তক্তাগুলো যেভাবে জোড়া লেগেছিল, সেভাবে সামনের কাজটা করে যান। আর এরপর কী হবে তার মাপ ছেড়ে দিন তাঁর হাতে, যিনি আগেই তা মেপে রেখেছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "54:17": {
     "sections": [
       {
