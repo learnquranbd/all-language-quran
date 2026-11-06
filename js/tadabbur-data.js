@@ -26249,6 +26249,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not take more than your share from those you live and work beside, and when a matter you judge turns out to test you, turn back to Allah at once.",
     "lessonBn": "যাদের পাশে থাকেন আর যাদের সঙ্গে কাজ করেন, তাদের কাছ থেকে নিজের ভাগের বেশি নেবেন না। আর যে বিষয়ের বিচার করছেন তা যদি আপনারই পরীক্ষা হয়ে দাঁড়ায়, দেরি না করে আল্লাহর দিকে ফিরে আসুন।"
+  },
+  "39:32": {
+    "reflectionEn": "The verse opens with a question no one can answer: who does greater wrong? Then it names two acts. One is saying about Allah what is not true, giving Him a partner or a child, or claiming He commanded what He never commanded. The other is meeting the truth when it arrives and turning it away. Each is grave alone. Together they shut both doors: the false word spoken and the true word refused. Then a second question, with a plain answer: is there not a dwelling in Hell for those who deny? It does not let me stand outside. When I say that Allah wants this or forbids that, do I know it? And when a truth reaches me that will cost me something, do I take it?",
+    "reflectionBn": "আয়াতটি শুরু হয় এমন এক প্রশ্নে, যার কোনো জবাব নেই: এর চেয়ে বড় যালিম আর কে? তারপর দুটি কাজের নাম আসে। একটি হলো আল্লাহর নামে অসত্য বলা, তাঁর শরিক বা সন্তান আছে বলা, কিংবা তিনি যা হুকুম করেননি তা তাঁর হুকুম বলে চালানো। অন্যটি হলো সত্য যখন সামনে এসে দাঁড়ায়, তখন তাকে ফিরিয়ে দেওয়া। আলাদাভাবেই দুটি গুরুতর। একসঙ্গে হলে দুই দিকের দরজাই বন্ধ: মিথ্যা কথাটা বলা হলো, সত্য কথাটা ফেরত গেল। এরপর আরেক প্রশ্ন, যার জবাব পরিষ্কার: অস্বীকারকারীদের ঠিকানা কি জাহান্নামে নেই? আয়াতটি আমাকে বাইরে দাঁড়িয়ে দেখতে দেয় না। আমি যখন বলি আল্লাহ এটা চান বা ওটা হারাম করেছেন, আমি কি সত্যিই জানি? আর যে সত্য মানলে আমার কিছু ছাড়তে হবে, তা যখন আমার কাছে পৌঁছায়, আমি কি তা গ্রহণ করি?",
+    "pointsEn": [
+      "When did I last say that Allah forbids or requires something without knowing it from a source I could name?",
+      "Is there a truth that has reached me clearly which I am still pushing away because accepting it would cost me?",
+      "Do I speak about Allah's religion with more care than I speak about anything else, or with less?",
+      "When a reminder comes to me, do I look first at its proof, or first for a way around it?",
+      "If the answer to \"who does greater wrong?\" is \"no one\", what does that tell me about how heavy a careless word about Allah is?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আমি বলেছি আল্লাহ কোনো কিছু হারাম বা ফরজ করেছেন, অথচ এমন কোনো উৎস থেকে জানতাম না যার নাম বলতে পারি?",
+      "এমন কোনো সত্য কি আছে, যা পরিষ্কারভাবে আমার কাছে পৌঁছেছে, তবু আমি ঠেলে সরিয়ে রাখছি, কারণ মানলে আমার কিছু হারাতে হবে?",
+      "আল্লাহর দ্বীন নিয়ে কথা বলার সময় আমি কি অন্য যেকোনো বিষয়ের চেয়ে বেশি সাবধান থাকি, নাকি কম?",
+      "কোনো নসিহত এলে আমি আগে তার দলিল দেখি, নাকি আগে পাশ কাটানোর পথ খুঁজি?",
+      "\"এর চেয়ে বড় যালিম কে?\" প্রশ্নের জবাব যদি হয় \"কেউ নেই\", তাহলে আল্লাহর ব্যাপারে অসাবধান একটি কথার ওজন কত ভারী, তা থেকে আমি কী বুঝি?"
+    ],
+    "lessonEn": "Never say about Allah what you do not know, and when the truth reaches you with its proof, accept it instead of turning it away.",
+    "lessonBn": "আল্লাহর ব্যাপারে না জেনে কিছু বলবেন না, আর সত্য যখন দলিলসহ আপনার কাছে পৌঁছায়, তা ফিরিয়ে না দিয়ে গ্রহণ করুন।"
   }
 };
 

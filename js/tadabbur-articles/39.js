@@ -1387,6 +1387,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "Fifteen Words After the Dispute",
+          "bn": "বাদানুবাদের পরের পনেরো শব্দ"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier the surah turns to death and judgement: you will die and they will die, and then on the Day of Resurrection you will dispute before your Lord (39:30, 39:31). Then comes fa-man azlamu, so who does greater wrong. Ibn Kathir reads the verse as Allah addressing the idolaters who fabricated lies about Him and set up other gods beside Him.",
+            "bn": "দুই আয়াত আগে সূরাটি মৃত্যু আর বিচারের দিকে মোড় নেয়: তুমিও মরবে, তারাও মরবে, তারপর কিয়ামতের দিন তোমরা তোমাদের রবের সামনে বাদানুবাদ করবে (৩৯:৩০ ও ৩৯:৩১)। এরপর আসে ফামান আযলামু: তাহলে তার চেয়ে বড় যালিম কে? ইবন কাসীরের মতে এখানে আল্লাহ সম্বোধন করছেন সেই মুশরিকদের, যারা তাঁর নামে মিথ্যা রটিয়েছিল আর তাঁর পাশে অন্য উপাস্য দাঁড় করিয়েছিল।"
+          },
+          {
+            "en": "The verse is fifteen Arabic words, and its shape is easy to see. It opens with a question and closes with a question. Between them stand two acts, built on one root: kadhaba 'ala Allah, he lied about Allah, and kadhdhaba bi-s-sidq, he denied the truth. The first verb is the plain form, to say what is false; the second is the intensive form, to call something false. The observation on the two forms is this article's own.",
+            "bn": "আয়াতটি আরবিতে পনেরো শব্দের, আর গড়নটা সহজেই চোখে পড়ে। শুরু প্রশ্নে, শেষও প্রশ্নে। মাঝখানে দুটি কাজ, দুটিই একই ধাতু থেকে: কাযাবা আলাল্লাহ, সে আল্লাহর নামে মিথ্যা বলল, আর কাযযাবা বিস-সিদক, সে সত্যকে মিথ্যা বলল। প্রথম ক্রিয়াটি সাধারণ রূপ, অর্থ অসত্য বলা। দ্বিতীয়টি জোরালো রূপ, অর্থ কোনো কিছুকে মিথ্যা সাব্যস্ত করা। ক্রিয়ার এ দুই রূপের কথাটা এই প্রবন্ধের নিজের পর্যবেক্ষণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked So That None Answers",
+          "bn": "যে প্রশ্নের উত্তরদাতা নেই"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators turn the question straight into a statement. Ibn Kathir: no one does greater wrong than this. Al-Qurtubi opens with the same words, no one does greater wrong. Al-Muyassar says it twice, once for each act: no one does greater wrong than the one who fabricated a lie about Allah, and no one does greater wrong than the one who denied the truth sent down to Muhammad ﷺ. As-Sa'di reads the verse as a warning, and says there is none more unjust or harsher in wrong.",
+            "bn": "বেশির ভাগ তাফসীরকার প্রশ্নটিকে সোজা একটি ঘোষণায় রূপ দেন। ইবন কাসীর বলেন, এর চেয়ে বড় যালিম কেউ নেই। কুরতুবীও শুরু করেন একই কথায়: কেউ এর চেয়ে বড় যালিম নয়। মুয়াসসার কথাটা দুবার বলে, প্রতিটি কাজের জন্য একবার। যে আল্লাহর নামে মিথ্যা রটায়, তার চেয়ে বড় যালিম কেউ নেই। আর মুহাম্মাদ ﷺ-এর উপর নাযিল হওয়া সত্যকে যে মিথ্যা বলে, তার চেয়ে বড় যালিমও কেউ নেই। সা'দী আয়াতটিকে পড়েন সতর্কবাণী হিসেবে। তাঁর ভাষায়, এর চেয়ে বড় যালিম বা এর চেয়ে কঠিন জুলুমকারী আর কেউ নেই।"
+          },
+          {
+            "en": "At-Tabari takes a different word for the comparison. He paraphrases: who among Allah's creation is greater in fabrication, a'zamu firyatan, than the one who lied about Allah? Where the others measure the wrong, he measures the lie itself, its size. The two readings sit together without strain, since in this verse the lie is the wrong. What all of them share is the force of the question. It is asked so that the listener searches and finds no one worse.",
+            "bn": "তাবারী তুলনার জন্য বেছে নেন অন্য একটি শব্দ। তাঁর ব্যাখ্যায় প্রশ্নটা দাঁড়ায় এমন: আল্লাহর সৃষ্টির মধ্যে কে বেশি বড় মিথ্যা রচনাকারী, আ'যামু ফিরইয়াতান, সেই লোকের চেয়ে, যে আল্লাহর নামে মিথ্যা বলল? অন্যরা মাপেন জুলুমটা। তাবারী মাপেন খোদ মিথ্যাটা, তার আকার। দুই পাঠে কোনো টানাপোড়েন নেই, কারণ এ আয়াতে মিথ্যাটাই জুলুম। সবার মধ্যে মিল প্রশ্নের জোরে। প্রশ্নটা করা হয়েছে, যাতে শ্রোতা খুঁজে দেখে এবং এর চেয়ে খারাপ কাউকে না পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Partners, a Child, False Rulings",
+          "bn": "শরিক, সন্তান, বানানো বিধান"
+        },
+        "p": [
+          {
+            "en": "What does it mean to lie about Allah? The first answer in every commentary is the same. Ibn Kathir names the idolaters who set up other gods with Him, claimed that the angels were Allah's daughters and ascribed a child to Him, exalted is Allah far above what they say. Al-Qurtubi and al-Baghawi each give it in one line: he claimed that Allah has a child and a partner. Al-Muyassar puts it as attributing to Him what does not befit Him, such as a partner and a child.",
+            "bn": "আল্লাহর নামে মিথ্যা বলার মানে কী? প্রতিটি তাফসীরে প্রথম উত্তর একই। ইবন কাসীর সেই মুশরিকদের কথা বলেন, যারা তাঁর সঙ্গে অন্য উপাস্য বানিয়েছিল, দাবি করেছিল ফেরেশতারা আল্লাহর কন্যা, আর আল্লাহর প্রতি সন্তান আরোপ করেছিল। তারা যা বলে, আল্লাহ তার বহু ঊর্ধ্বে। কুরতুবী আর বাগাভী দুজনেই কথাটা এক লাইনে বলেন: সে দাবি করল, আল্লাহর সন্তান আছে, শরিক আছে। মুয়াসসারের ভাষায়, এর মানে আল্লাহর প্রতি এমন কিছু আরোপ করা যা তাঁর শানে মানায় না, যেমন শরিক ও সন্তান।"
+          },
+          {
+            "en": "Then the circle widens. At-Tabari adds a consort beside the child, and a second kind of lie: claiming that Allah forbade foods He never forbade. Al-Muyassar adds the man who says it was revealed to me when nothing was revealed to him. As-Sa'di gathers the most: ascribing to Allah what does not befit His majesty, claiming prophethood, or reporting that Allah said this, or told of this, or ruled this, while the speaker is lying. Lying about Allah, in these lists, is also a matter of rulings.",
+            "bn": "এরপর পরিধি বাড়তে থাকে। তাবারী সন্তানের পাশে স্ত্রীর কথাও আনেন, আর যোগ করেন আরেক ধরনের মিথ্যা: আল্লাহ যে খাবার হারাম করেননি, তা তিনি হারাম করেছেন বলে দাবি করা। মুয়াসসার যোগ করে সেই লোককে, যে বলে আমার কাছে ওহি এসেছে, অথচ তার কাছে কিছুই আসেনি। সবচেয়ে বেশি জড়ো করেন সা'দী। আল্লাহর মহিমার সঙ্গে যা মানায় না তা তাঁর প্রতি আরোপ করা, নবুওয়াতের দাবি করা, কিংবা মিথ্যা জেনেও বলা যে আল্লাহ এমন বলেছেন, এমন সংবাদ দিয়েছেন, এমন বিধান দিয়েছেন। এসব তালিকায় আল্লাহর নামে মিথ্যা শুধু আকিদার ব্যাপার নয়, বিধানেরও ব্যাপার।"
+          },
+          {
+            "en": "As-Sa'di then draws a line that matters for every reader. If the one who speaks this way is ignorant, he says, it falls under another verse: and that you say about Allah what you do not know (7:33), which names it among the things Allah has forbidden. If he is not ignorant, it is more hideous still. So the first half of the verse is not only about idols. It reaches anyone who speaks for Allah, whether from ignorance or against what he knows, and at-Tabari's example of forbidden foods shows how ordinary that speech can be.",
+            "bn": "সা'দী এরপর এমন একটি সীমারেখা টানেন, যা প্রত্যেক পাঠকের জন্য জরুরি। তিনি বলেন, এভাবে যে কথা বলে সে যদি অজ্ঞ হয়, তাহলে তা পড়ে আরেক আয়াতের আওতায়: আর আল্লাহ সম্পর্কে এমন কথা বলা যা তোমরা জানো না (৭:৩৩)। আল্লাহ যা হারাম করেছেন, সে আয়াত এটাকে তার মধ্যে গণ্য করে। আর যদি অজ্ঞ না হয়, তাহলে তা আরও জঘন্য। তাই আয়াতের প্রথম অর্ধেক শুধু মূর্তিপূজার কথা নয়। যে-ই আল্লাহর পক্ষ হয়ে কথা বলে, অজ্ঞতা থেকে হোক বা জেনেশুনে, তার কাছেই এ আয়াত পৌঁছায়। তাবারীর হারাম খাবারের উদাহরণ দেখায়, এমন কথা কত সাধারণ হতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Truth That Reached Them",
+          "bn": "যে সত্য তাদের কাছে পৌঁছেছিল"
+        },
+        "p": [
+          {
+            "en": "The second charge is kadhdhaba bi-s-sidq, he called the truth a lie. What is the truth here? At-Tabari reports from Qatada: the Qur'an. Al-Qurtubi and al-Baghawi give the same gloss. At-Tabari's own paraphrase is fuller: he denied the Book of Allah when Allah sent it down to Muhammad and sent him with it as a messenger, and he rejected the saying la ilaha illa Allah. Al-Muyassar has the truth that was sent down to Muhammad ﷺ. For these, the truth is the revelation that came in the Prophet's ﷺ time.",
+            "bn": "দ্বিতীয় অভিযোগ কাযযাবা বিস-সিদক: সে সত্যকে মিথ্যা বলল। এখানে সত্যটা কী? তাবারী কাতাদা থেকে বর্ণনা করেন: কুরআন। কুরতুবী আর বাগাভীও একই ব্যাখ্যা দেন। তাবারীর নিজের ব্যাখ্যা আরও বিস্তৃত। আল্লাহ যখন মুহাম্মাদ ﷺ-এর উপর তাঁর কিতাব নাযিল করলেন এবং সেটা দিয়ে তাঁকে রাসূল করে পাঠালেন, সে সেই কিতাবকে মিথ্যা বলল, আর লা ইলাহা ইল্লাল্লাহ কথাটিকে অস্বীকার করল। মুয়াসসারের ভাষায়, সত্য হলো যা মুহাম্মাদ ﷺ-এর উপর নাযিল হয়েছে। এঁদের কাছে সত্য মানে নবী ﷺ-এর যুগে আসা ওহি।"
+          },
+          {
+            "en": "Two commentaries set the word wider. Ibn Kathir says the idolaters denied the truth when it came to them on the tongues of Allah's messengers, in the plural, and then speaks of denying the Messenger of Allah ﷺ. Ma'arif al-Qur'an says that as-sidq, both here and in the next verse, means the teachings the Prophet ﷺ brought, whether the Qur'an or the teachings of the hadith beside it. These are differences of breadth rather than disagreement: the Qur'an sits at the centre of every reading.",
+            "bn": "দুটি তাফসীর শব্দটিকে আরও প্রশস্ত করে ধরে। ইবন কাসীর বলেন, আল্লাহর রাসূলদের মুখে, বহুবচনে, যখন সত্য মুশরিকদের কাছে এল, তারা তা মিথ্যা বলল। তারপর তিনি আল্লাহর রাসূল ﷺ-কে মিথ্যা বলার কথা আনেন। মাআরিফুল কুরআন বলে, এ আয়াতে এবং পরের আয়াতেও আস-সিদক মানে নবী ﷺ যে শিক্ষা নিয়ে এসেছেন, তা কুরআন হোক বা কুরআনের পাশাপাশি হাদীসের শিক্ষা। এগুলো মতবিরোধ নয়, পরিধির পার্থক্য। প্রতিটি পাঠের কেন্দ্রেই আছে কুরআন।"
+          },
+          {
+            "en": "Then the time clause: idh ja'ahu, when it came to him. The charge is not against someone who never heard. It is against the man who had the truth in front of him. As-Sa'di makes the point directly: none is more unjust than he to whom the truth came, backed by clear proofs, and who called it a lie, for he rejected the truth after it had become plain to him. The weight of the denial, on his reading, comes from the clarity of what was denied.",
+            "bn": "তারপর সময়ের শর্ত: ইয জাআহু, যখন তা তার কাছে এল। অভিযোগটা এমন কারও বিরুদ্ধে নয়, যে কখনো শোনেনি। অভিযোগ তার বিরুদ্ধে, যার সামনে সত্য উপস্থিত ছিল। সা'দী কথাটা সরাসরি বলেন: যার কাছে স্পষ্ট দলিলে সমর্থিত সত্য এল আর সে তা মিথ্যা বলল, তার চেয়ে বড় যালিম কেউ নেই। কারণ সত্য পরিষ্কার হয়ে যাওয়ার পরেই সে তা ফিরিয়ে দিয়েছে। তাঁর পাঠে অস্বীকারের ভার আসে, যা অস্বীকার করা হলো তার স্পষ্টতা থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Both Ends of Falsehood",
+          "bn": "বাতিলের দুই প্রান্ত"
+        },
+        "p": [
+          {
+            "en": "Why is this the worst wrong? Ibn Kathir answers in one phrase: because he combined the two ends of falsehood, jama'a bayna tarafay al-batil. He lied about Allah and he belied the Messenger of Allah; they said what was false and turned back what was true. As-Sa'di reaches the same point by addition. Lying about Allah is a wrong, denying the truth is a wrong, and whoever joins the two has committed wrong upon wrong, zulm 'ala zulm. He closes his note with 31:13: shirk is a tremendous wrong.",
+            "bn": "কেন এটাই সবচেয়ে বড় জুলুম? ইবন কাসীর জবাব দেন এক বাক্যাংশে: কারণ সে বাতিলের দুই প্রান্তকে একত্র করেছে, জামাআ বাইনা তারাফাইল বাতিল। সে আল্লাহর নামে মিথ্যা বলেছে, আবার আল্লাহর রাসূলকেও মিথ্যাবাদী বলেছে। তারা মিথ্যাটা বলেছে, সত্যটা ফিরিয়ে দিয়েছে। সা'দী একই জায়গায় পৌঁছান যোগ করে। আল্লাহর নামে মিথ্যা বলা এক জুলুম, সত্যকে অস্বীকার করা আরেক জুলুম। যে দুটোকে মেলায়, সে করেছে জুলুমের উপর জুলুম। তাঁর আলোচনা শেষ হয় ৩১:১৩ দিয়ে: নিশ্চয়ই শিরক মহা জুলুম।"
+          },
+          {
+            "en": "One way to picture the two ends, offered here as this article's reflection rather than a commentator's: the first adds to religion what Allah never said, and the second removes from it what He did say. Someone who does only one has left a door half open. Someone who does both has closed it from either side, which is why the question finds no one worse.",
+            "bn": "দুই প্রান্তকে এভাবে ভাবা যায়। এটা কোনো তাফসীরকারের কথা নয়, এই প্রবন্ধের নিজের ভাবনা। প্রথমটি দ্বীনে এমন কিছু জুড়ে দেয়, যা আল্লাহ কখনো বলেননি। দ্বিতীয়টি দ্বীন থেকে সরিয়ে দেয়, যা তিনি সত্যিই বলেছেন। যে শুধু একটি করে, সে দরজা আধখোলা রাখে। যে দুটোই করে, সে দুই দিক থেকেই দরজা বন্ধ করে দেয়। তাই প্রশ্নটা এর চেয়ে খারাপ কাউকে খুঁজে পায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report Not Tied Here",
+          "bn": "আয়াতের সঙ্গে যুক্ত নয় যে বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. There is, though, a narration that names the same two things, and it has to be marked plainly as general: it is not reported about this verse. Al-Bukhari records it (4974) from Abu Hurayra (RA), from the Prophet ﷺ, as words of Allah. It is translated here from al-Bukhari's Arabic.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস জুড়ে দেয়নি, কোনো শানে নুযূলও উল্লেখ করেনি। তবে একটি বর্ণনা আছে, যা ঠিক এই দুটি জিনিসের কথা বলে। পরিষ্কার করে বলা দরকার, এটা সাধারণ বর্ণনা, এ আয়াত সম্পর্কে বর্ণিত নয়। বুখারী (৪৯৭৪) এটি আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ আল্লাহর কথা হিসেবে এটি বলেছেন। এখানে অনুবাদ করা হয়েছে বুখারীর আরবি পাঠ থেকে।"
+          },
+          {
+            "en": "\"Allah said: The son of Adam called Me a liar, and he had no right to; and he reviled Me, and he had no right to. As for his calling Me a liar, it is his saying, He will not bring me back as He began me, though the first creation is no easier for Me than bringing it back. As for his reviling Me, it is his saying, Allah has taken a son, while I am al-Ahad, as-Samad; I did not beget and was not begotten, and there is none equal to Me.\"",
+            "bn": "\"আল্লাহ বলেছেন: আদমসন্তান আমাকে মিথ্যাবাদী বলেছে, অথচ তার সে অধিকার ছিল না। আর সে আমাকে গালি দিয়েছে, অথচ তার সে অধিকারও ছিল না। আমাকে তার মিথ্যাবাদী বলা হলো তার এই কথা: তিনি আমাকে আবার সৃষ্টি করবেন না, যেভাবে প্রথমবার সৃষ্টি করেছিলেন। অথচ প্রথম সৃষ্টি আমার কাছে পুনরায় সৃষ্টির চেয়ে সহজ নয়। আর আমাকে তার গালি দেওয়া হলো তার এই কথা: আল্লাহ সন্তান গ্রহণ করেছেন। অথচ আমি আল-আহাদ, আস-সামাদ। আমি কাউকে জন্ম দিইনি, আমাকেও কেউ জন্ম দেয়নি, আর আমার সমকক্ষ কেউ নেই।\""
+          },
+          {
+            "en": "Set beside the verse, the narration echoes both of its charges, and the link is this article's observation, not a link any commentator draws. The claim of a son, which every tafsir above places under lying about Allah, is here called reviling Him. Denying the resurrection, a truth the messengers brought, is here called calling Him a liar, from the same root as kadhdhaba in the verse. The hadith adds no detail to the verse's meaning; it shows how heavily both acts weigh with Allah.",
+            "bn": "আয়াতের পাশে রাখলে বর্ণনাটিতে আয়াতের দুই অভিযোগেরই প্রতিধ্বনি শোনা যায়। তবে এই যোগসূত্র প্রবন্ধের নিজের পর্যবেক্ষণ, কোনো তাফসীরকার তা টানেননি। সন্তানের দাবি, যাকে উপরের প্রতিটি তাফসীর আল্লাহর নামে মিথ্যা বলার মধ্যে গণ্য করে, হাদীসে তাকে বলা হয়েছে আল্লাহকে গালি দেওয়া। আর পুনরুত্থান অস্বীকার করা, যা রাসূলরা সত্য হিসেবে নিয়ে এসেছেন, হাদীসে তাকে বলা হয়েছে আল্লাহকে মিথ্যাবাদী বলা। শব্দটি আয়াতের কাযযাবা-র ধাতু থেকেই। আয়াতের অর্থে হাদীসটি নতুন কিছু যোগ করে না। দেখায়, দুটি কাজ আল্লাহর কাছে কত ভারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mathwa, a Place of Staying",
+          "bn": "মাসওয়া: থেকে যাওয়ার জায়গা"
+        },
+        "p": [
+          {
+            "en": "The verse ends: a-laysa fi jahannama mathwan li-l-kafirin, is there not in Hell a dwelling for the disbelievers? Al-Qurtubi and al-Baghawi both call this an istifham taqrir, a question of affirmation: it is asked so that the hearer grants what it implies, not so that he may answer either way. Al-Muyassar writes the answer into its paraphrase in a single word, bala, yes indeed. Ibn Kathir calls the sentence a threat, which is how the opening question is meant to land.",
+            "bn": "আয়াতের শেষ: আলাইসা ফী জাহান্নামা মাসওয়াল লিল-কাফিরীন, কাফিরদের ঠিকানা কি জাহান্নামে নেই? কুরতুবী আর বাগাভী দুজনেই একে বলেন ইসতিফহাম তাকরীর, অর্থাৎ স্বীকারোক্তি আদায়ের প্রশ্ন। প্রশ্নটা করা হয় শ্রোতার মুখ থেকে স্বীকৃতি আদায়ের জন্য, হ্যাঁ বা না যেকোনো জবাবের সুযোগ দিতে নয়। মুয়াসসার তার ব্যাখ্যায় জবাবটা এক শব্দে লিখে দেয়: বালা, হ্যাঁ, অবশ্যই। ইবন কাসীর বাক্যটিকে বলেন হুঁশিয়ারি। শুরুর প্রশ্নটা শেষ পর্যন্ত এখানেই এসে থামে।"
+          },
+          {
+            "en": "Mathwa is a place where one stays. Al-Qurtubi derives it from thawa bi-l-makan, to remain in a place, and glosses it maqam, a station. Al-Baghawi has manzil wa maqam, a lodging and a station; at-Tabari has ma'wa wa maskan, a shelter and a dwelling. Al-Qurtubi adds a note of language: the word comes from thawa, not athwa, which shows thawa to be the eloquent usage. Abu 'Ubayd recorded athwa as well and cited a line of al-A'sha, while al-Asma'i knew only thawa and read that line as a question.",
+            "bn": "মাসওয়া মানে এমন জায়গা, যেখানে মানুষ থেকে যায়। কুরতুবী শব্দটির উৎস দেখান সাওয়া বিল-মাকান থেকে, অর্থ কোনো জায়গায় অবস্থান করা, আর অর্থ করেন মাকাম, অবস্থানস্থল। বাগাভী বলেন মানযিল ওয়া মাকাম, নিবাস ও অবস্থানস্থল। তাবারী বলেন মা'ওয়া ওয়া মাসকান, আশ্রয় ও বাসস্থান। কুরতুবী ভাষা নিয়েও একটি কথা যোগ করেন। শব্দটি এসেছে সাওয়া থেকে, আসওয়া থেকে নয়, আর এতে বোঝা যায় সাওয়াই বিশুদ্ধ রূপ। আবূ উবাইদ আসওয়া রূপটিও উল্লেখ করেছেন এবং আ'শার একটি পঙ্‌ক্তি এনেছেন। আর আসমাঈ শুধু সাওয়াই চিনতেন, সেই পঙ্‌ক্তিকে তিনি পড়েছেন প্রশ্ন হিসেবে।"
+          },
+          {
+            "en": "Who are al-kafirin here? Ibn Kathir: the deniers and the beliers, al-jahidun al-mukadhdhibun, and al-Qurtubi likewise has the deniers. At-Tabari spells it out: whoever disbelieved in Allah and refused to believe Muhammad ﷺ and follow him in what he called to from Allah, of tawhid and the rule of the Qur'an. So the word gathers up the two charges of the verse. As-Sa'di adds what the dwelling achieves: through it, Allah's right is taken from every wrongdoer and disbeliever.",
+            "bn": "এখানে কাফির কারা? ইবন কাসীরের ভাষায়, অস্বীকারকারী ও মিথ্যা সাব্যস্তকারীরা, আল-জাহিদূন আল-মুকাযযিবূন। কুরতুবীও বলেন অস্বীকারকারীরা। তাবারী খুলে বলেন: যে আল্লাহকে অস্বীকার করল, মুহাম্মাদ ﷺ-কে সত্য বলে মানতে রাজি হলো না, আর আল্লাহর পক্ষ থেকে তিনি যে তাওহীদ ও কুরআনের বিধানের দিকে ডেকেছেন, তাতে তাঁর অনুসরণ করল না। ফলে শব্দটির মধ্যে আয়াতের দুই অভিযোগই এসে জমা হয়। সা'দী যোগ করেন, এই ঠিকানা দিয়ে কী অর্জিত হয়: এর মাধ্যমে প্রত্যেক যালিম ও কাফিরের কাছ থেকে আল্লাহর হক আদায় করা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Licence to Pass Sentence",
+          "bn": "অন্যের উপর রায় দেওয়ার সনদ নয়"
+        },
+        "p": [
+          {
+            "en": "The next verse names the opposite figure: he who brought the truth and confirmed it, and they are the God-fearing (39:33). The word sidq returns, as Ma'arif al-Qur'an notes, and the two verses are meant to be read as a pair. Who exactly is meant there is disputed. At-Tabari records several views, among them a report from 'Ali (RA) naming the Prophet ﷺ as its bringer and Abu Bakr (RA) as its confirmer, and Qatada and Ibn Zayd naming the believers.",
+            "bn": "পরের আয়াতে আসে বিপরীত মানুষটির কথা: যে সত্য নিয়ে এসেছে এবং সত্যকে সত্য বলে মেনেছে, তারাই মুত্তাকী (৩৯:৩৩)। মাআরিফুল কুরআন যেমন লক্ষ করে, সিদক শব্দটি আবার ফিরে আসে, আর দুই আয়াত পড়তে হয় জোড়া হিসেবে। সেখানে ঠিক কারা উদ্দেশ্য, তা নিয়ে মতভেদ আছে। তাবারী কয়েকটি মত উল্লেখ করেন। তার মধ্যে আলী (রাঃ) থেকে এক বর্ণনায় সত্য নিয়ে আসা ব্যক্তি নবী ﷺ, আর তা সত্য বলে মেনে নেওয়া ব্যক্তি আবূ বকর (রাঃ)। আবার কাতাদা ও ইবন যায়দের মতে মেনে নেওয়া লোকেরা হলেন মুমিনরা।"
+          },
+          {
+            "en": "The verse describes what it describes: people who lied about Allah and called the truth a lie when it reached them, whom the commentators identify as the idolaters who opposed the Prophet ﷺ. It licenses nothing against any living person or community. It gives no reader the right to name a neighbour among the people of Hell, to wrong anyone, or to treat anyone as beyond return. The verse puts its question to the listener, and the dwelling it names is Allah's to assign, at the hearing 39:31 has just described.",
+            "bn": "আয়াতটি ঠিক যা বর্ণনা করে, তা-ই বর্ণনা করে: যারা আল্লাহর নামে মিথ্যা বলেছিল আর সত্য তাদের কাছে পৌঁছানোর পর তা মিথ্যা বলেছিল। তাফসীরকারেরা তাদের চিহ্নিত করেন নবী ﷺ-এর বিরোধী মুশরিক হিসেবে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো পাঠককে সে এই অধিকার দেয় না যে প্রতিবেশীকে জাহান্নামী বলে ঘোষণা করবে, কারও উপর জুলুম করবে, কিংবা কাউকে ফেরার পথের বাইরে ধরে নেবে। প্রশ্নটা আয়াত রাখে শ্রোতার সামনে। আর যে ঠিকানার কথা সে বলে, তা নির্ধারণ করবেন আল্লাহ, ৩৯:৩১ আয়াতে বর্ণিত সেই বিচারসভায়।"
+          },
+          {
+            "en": "What the verse does hand the reader is a check on his own tongue and heart. At-Tabari's forbidden foods and as-Sa'di's list, from saying Allah ruled this to speaking without knowledge under 7:33, sit in its first half; any believer can step there by declaring halal or haram what he has not learned. Its second half waits for anyone who meets a truth with its proof and looks for a way around it. The question who does greater wrong is answered once, and then it is the reader's turn.",
+            "bn": "আয়াতটি পাঠকের হাতে যা তুলে দেয়, তা হলো নিজের জিহ্বা আর অন্তরের পাহারা। তাবারীর হারাম খাবারের উদাহরণ আর সা'দীর তালিকা, আল্লাহ এমন বিধান দিয়েছেন বলা থেকে শুরু করে ৭:৩৩ অনুযায়ী না জেনে কথা বলা পর্যন্ত, সবই পড়ে আয়াতের প্রথম অর্ধেকে। যা শেখেনি তাকে হালাল বা হারাম ঘোষণা করে যেকোনো মুমিনও সেখানে পা রাখতে পারে। দ্বিতীয় অর্ধেক অপেক্ষা করে তার জন্য, যে দলিলসহ সত্যের মুখোমুখি হয়েও পাশ কাটানোর পথ খোঁজে। কে বড় যালিম, প্রশ্নটার উত্তর একবারই দেওয়া হয়। তারপর পালা পাঠকের নিজের।"
+          }
+        ]
+      }
+    ]
+  },
   "39:36": {
     "sections": [
       {
