@@ -1159,6 +1159,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:38": {
+    "sections": [
+      {
+        "h": {
+          "en": "Turning to the Assembled Chiefs",
+          "bn": "সভাসদদের দিকে মুখ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Wa-qala Fir'awnu ya ayyuha l-mala'u: and Pharaoh said, O chiefs. The scene follows 28:36 and 28:37. Musa (AS) has brought clear signs, the court has called them invented magic unheard of among their forefathers, and Musa has answered that his Lord knows best who brings guidance from Him, and that wrongdoers do not succeed. Pharaoh does not reply to Musa. He turns to the room. At-Tabari names that audience: the nobles of his people and their chiefs.",
+            "bn": "ওয়া কালা ফিরআউনু ইয়া আইয়ুহাল মালাউ: আর ফেরাউন বলল, হে সভাসদগণ। দৃশ্যটি আসে ২৮:৩৬ ও ২৮:৩৭ আয়াতের পরে। মূসা (আঃ) স্পষ্ট নিদর্শন নিয়ে এসেছেন। দরবার সেগুলোকে বলেছে বানানো যাদু, বাপ-দাদার আমলে এমন কথা কেউ শোনেনি। মূসা জবাব দিয়েছেন, কে তাঁর কাছ থেকে হেদায়েত নিয়ে এসেছে, তা তাঁর রবই ভালো জানেন, আর জালিমরা সফল হয় না। ফেরাউন মূসাকে জবাব দেয় না। সে মুখ ফেরায় সভার দিকে। তাবারী এই শ্রোতাদের পরিচয় দেন: তার কওমের অভিজাত আর নেতৃস্থানীয় লোকেরা।"
+          },
+          {
+            "en": "His first sentence is a claim about worship. At-Tabari paraphrases it: I know of no god for you other than me, that you should worship him and believe Musa's word that you and he have a Lord besides me. The Muyassar makes it explicit: no god other than me who deserves worship. Ibn Kathir sets the sentence beside 79:24, where Pharaoh gathered his people and cried aloud, I am your lord most high,; and beside 26:29, where he threatened Musa with prison if he took a god other than him.",
+            "bn": "তার প্রথম বাক্যটিই ইবাদতের দাবি। তাবারী এর অর্থ খুলে বলেন এভাবে: আমি ছাড়া তোমাদের আর কোনো ইলাহ আছে বলে আমি জানি না, যার তোমরা ইবাদত করবে, আর মূসার এ কথা মেনে নেবে যে তোমাদের ও তার আমি ছাড়া অন্য এক রব আছেন। মুয়াসসার কথাটা স্পষ্ট করে: আমি ছাড়া ইবাদতের যোগ্য আর কোনো ইলাহ নেই। ইবন কাসীর বাক্যটিকে রাখেন ৭৯:২৪ আয়াতের পাশে। সেখানে ফেরাউন লোকদের জড়ো করে উঁচু গলায় ঘোষণা দিয়েছিল, আমিই তোমাদের সর্বোচ্চ রব। তিনি আরও আনেন ২৬:২৯ আয়াত, যেখানে সে মূসাকে হুমকি দেয়: আমাকে ছাড়া অন্য কাউকে ইলাহ মানলে তোমাকে কারাগারে পুরব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Denial Dressed as Knowledge",
+          "bn": "জ্ঞানের পোশাকে অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di hears irony in the wording. Pharaoh did not say, you have no god but me; he said, I have not known any for you. As-Sa'di calls this, with open sarcasm, Pharaoh's perfect scrupulousness, and explains why it worked. Among his people Pharaoh was the learned and excellent man: whatever he said was taken as the truth, and whatever he ordered, they obeyed. If there were a god other than me, runs as-Sa'di's paraphrase, I would have known of him.",
+            "bn": "সা'দী শব্দচয়নে এক ধরনের বিদ্রূপ শুনতে পান। ফেরাউন বলেনি, আমি ছাড়া তোমাদের কোনো ইলাহ নেই। সে বলেছে, তোমাদের আর কোনো ইলাহ আছে বলে আমি জানি না। সা'দী খোলাখুলি ব্যঙ্গ করে একে বলেন ফেরাউনের পূর্ণ সাবধানতা। কৌশলটা কেন কাজ করল, তাও তিনি বলেন। কওমের চোখে ফেরাউনই ছিল জ্ঞানী ও শ্রেষ্ঠ মানুষ। সে যা বলত, তা-ই সত্য বলে ধরা হতো, আর যা হুকুম করত, লোকেরা তা মেনে চলত। সা'দীর ভাষায় তার কথার মর্ম: আমি ছাড়া আর কোনো ইলাহ থাকলে আমি অবশ্যই তা জানতাম।"
+          },
+          {
+            "en": "The same reading explains the rest of the verse. A denial framed as I have not known leaves room for a god he simply has not met, and as-Sa'di says Pharaoh wanted to make the denial certain. The tower was to be that inquiry: we will put this suspicion to the test and show you that Musa lies. In as-Sa'di's summary, Pharaoh called Musa a liar, claimed to be a god, denied knowing the true God, and set about means to reach Musa's God. All of it, he says, was tarwij, passing off a falsehood as sound.",
+            "bn": "আয়াতের বাকি অংশও এই পাঠে বোঝা যায়। আমি জানি না বলে অস্বীকার করলে একটা ফাঁক থেকে যায়: হয়তো এমন কোনো ইলাহ আছেন, যাঁর খবর সে পায়নি। সা'দী বলেন, ফেরাউন সেই অস্বীকারকে পাকা করতে চেয়েছিল। প্রাসাদটাই হবে সেই তদন্ত: এই ধারণা আমরা যাচাই করব, আর তোমাদের দেখিয়ে দেব মূসা মিথ্যা বলছে। সা'দীর সারকথায়, ফেরাউন মূসাকে মিথ্যাবাদী বলেছে, নিজেকে ইলাহ দাবি করেছে, সত্য ইলাহকে জানার কথা অস্বীকার করেছে, আর মূসার ইলাহের কাছে পৌঁছানোর উপায় খুঁজেছে। তাঁর মতে এর সবই ছিল তারবীজ, অর্থাৎ মিথ্যাকে খাঁটি বলে চালিয়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fire Kindled on the Clay",
+          "bn": "কাদামাটির উপর আগুন"
+        },
+        "p": [
+          {
+            "en": "Fa-awqid li ya Hamanu 'ala t-tin: so kindle for me, O Haman, upon the clay. The command names a fire and clay, not bricks; the commentators supply the product. At-Tabari glosses it as make me baked bricks, ajurr. He records Mujahid: upon the clods, so that it becomes fired brick; and Ibn Zayd: the fired clay is what they build with. Al-Qurtubi gives the same gloss, bake bricks for me, from Ibn Abbas, and al-Baghawi has it too.",
+            "bn": "ফাআওকিদ লী ইয়া হামানু আলাত তীন: হে হামান, আমার জন্য কাদামাটির উপর আগুন জ্বালাও। হুকুমে আছে আগুন আর মাটি, ইটের নাম নেই। কী তৈরি হবে, তা তাফসীরকারেরা বলে দেন। তাবারীর ব্যাখ্যা: আমার জন্য পোড়ানো ইট বানাও, আরবিতে আজুর। তিনি মুজাহিদের কথা আনেন: মাটির ঢেলার উপর, যাতে তা পোড়া ইট হয়ে যায়। ইবন যায়দ বলেন, পোড়ানো মাটি দিয়েই তারা দালান তোলে। কুরতুবী ইবন আব্বাসের সূত্রে একই ব্যাখ্যা দেন: আমার জন্য ইট পোড়াও। বাগাভীতেও তা-ই।"
+          },
+          {
+            "en": "The Muyassar reads the fire as hardening: light a fire upon the clay until it becomes firm. As-Sa'di says the clay was to be fired so that Pharaoh would have bricks of earthenware. For Ibn Kathir they are bricks for building the sarh. Ma'arif al-Qur'an gives a builder's reason. When Pharaoh planned a very tall palace, it says, he told Haman to have the bricks properly baked first, because half-baked bricks could not take the load of a tall building.",
+            "bn": "মুয়াসসার আগুনের কাজ বলে মাটিকে শক্ত করা: কাদামাটির উপর আগুন জ্বালাও, যতক্ষণ না তা শক্ত হয়। সা'দী বলেন, মাটি পোড়ানো হবে, যাতে ফেরাউনের জন্য পোড়ামাটির ইট তৈরি হয়। ইবন কাসীরের মতে এ ইট সারহ বানানোর জন্য। মাআরিফুল কুরআন এর পেছনে নির্মাতার যুক্তি দেখায়। ফেরাউন যখন খুব উঁচু এক প্রাসাদ বানানোর পরিকল্পনা করল, তখন হামানকে বলল আগে ইট ভালো করে পুড়িয়ে নিতে। আধপোড়া ইট উঁচু দালানের ভার সইতে পারে না।"
+          },
+          {
+            "en": "Several sources add a report about who did this first, and each marks it as a report. At-Tabari writes that it is mentioned, dhukira, that Pharaoh was the first to bake bricks and build with them. He supports it from Qatada, and from Ibn Jurayj, who says Pharaoh was the first to order brickmaking. Al-Qurtubi names Qatada for the same. Al-Baghawi introduces it with qila, it is said. Ma'arif al-Qur'an says some people have observed it. It is kept here as exactly that, a report, not a finding of history.",
+            "bn": "কয়েকটি উৎস আরও একটি বর্ণনা যোগ করে: এ কাজ প্রথম কে করেছিল। প্রত্যেকেই তাকে বর্ণনা হিসেবেই চিহ্নিত করে। তাবারী লেখেন, যুকিরা, অর্থাৎ উল্লেখ করা হয়, যে ফেরাউনই প্রথম ইট পুড়িয়ে তা দিয়ে দালান বানিয়েছিল। এর পক্ষে তিনি কাতাদার কথা আনেন। আরও আনেন ইবন জুরাইজের কথা, যিনি বলেন ইট বানানোর হুকুম প্রথম দিয়েছিল ফেরাউন। কুরতুবীও কাতাদার নামে একই কথা বলেন। বাগাভী তা শুরু করেন কীলা দিয়ে, মানে বলা হয়। মাআরিফুল কুরআন বলে, কিছু লোক এমনটা লক্ষ করেছেন। এখানেও তা বর্ণনা হিসেবেই থাকল, ইতিহাসের প্রতিষ্ঠিত তথ্য হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Minister and the Sarh",
+          "bn": "মন্ত্রী আর সুউচ্চ প্রাসাদ"
+        },
+        "p": [
+          {
+            "en": "The verse names Haman and gives him a task, and the commentaries fetched for it say little more about him. Ibn Kathir calls him Pharaoh's minister, the manager of his subjects and the adviser of his state. Al-Qurtubi and al-Baghawi both call him his wazir. None of them pauses on his history or his origins, and neither does this article. Haman's place beside Pharaoh and Qarun belongs to 40:24. The order to build returns at 40:36 and 40:37, which Ibn Kathir quotes here as the parallel passage.",
+            "bn": "আয়াতটি হামানের নাম নেয় আর তাকে একটি কাজ দেয়। এ আয়াতের জন্য সংগৃহীত তাফসীরগুলো তার সম্পর্কে এর বেশি কিছু বলে না। ইবন কাসীর তাকে বলেন ফেরাউনের মন্ত্রী, প্রজাদের দেখভালকারী আর রাষ্ট্রের পরামর্শদাতা। কুরতুবী ও বাগাভী দুজনেই তাকে বলেন তার উজির। কেউই তার ইতিহাস বা উৎস নিয়ে থামেননি। এ লেখাও তা করছে না। ফেরাউন ও কারূনের পাশে হামানের অবস্থানের আলোচনা ৪০:২৪ আয়াতের। নির্মাণের হুকুম আবার আসে ৪০:৩৬ ও ৪০:৩৭ আয়াতে, যা ইবন কাসীর এখানে সমান্তরাল অংশ হিসেবে উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Fa-j'al li sarhan: and make for me a sarh. At-Tabari explains: build for me with the bricks a structure, and every building with a flat top is a sarh, like a palace. Al-Baghawi gives a high palace, and adds, under qila, a minaret. Ibn Kathir calls it the lofty, towering palace. The Muyassar says simply a high building. Its purpose is in the next words: la'alli atta'li'u ila ilahi Musa, so that I may look upon the God of Musa.",
+            "bn": "ফাজআল লী সারহান: আর আমার জন্য একটি সারহ বানাও। তাবারীর ব্যাখ্যা: ইট দিয়ে আমার জন্য একটি ইমারত তোলো। যে দালানের মাথা সমতল, তাকেই সারহ বলে, যেমন প্রাসাদ। বাগাভী বলেন উঁচু প্রাসাদ, আর কীলা বলে যোগ করেন মিনারের কথা। ইবন কাসীর একে বলেন সুউচ্চ, আকাশছোঁয়া প্রাসাদ। মুয়াসসার শুধু বলে উঁচু ইমারত। কেন বানানো হবে, তা পরের শব্দগুলোতে: লাআল্লী আত্তালিউ ইলা ইলাহি মূসা, যাতে আমি মূসার ইলাহের দিকে উঁকি দিয়ে দেখতে পারি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Earnest Doubt, or a Known Lie?",
+          "bn": "সত্যিকার সংশয়, নাকি জেনেশুনে মিথ্যা?"
+        },
+        "p": [
+          {
+            "en": "Did Pharaoh mean it? The readings differ. For Ibn Kathir the tower was built for the people: Pharaoh wanted to show his subjects that Musa was lying in claiming a god other than Pharaoh. For as-Sa'di, as above, the whole project was tarwij, staged for a court that would believe him. At-Tabari's paraphrase takes the words at face value: let me look at the God Musa worships and calls others to worship. The verse itself ends on wa-inni la-azunnuhu mina l-kadhibin: and I do think he is among the liars.",
+            "bn": "ফেরাউন কি কথাটা সত্যিই বিশ্বাস করে বলেছিল? এ নিয়ে পাঠ ভিন্ন ভিন্ন। ইবন কাসীরের মতে প্রাসাদটা ছিল জনগণকে দেখানোর জন্য। ফেরাউন প্রজাদের দেখাতে চেয়েছিল, ফেরাউন ছাড়া অন্য ইলাহের দাবি করে মূসা মিথ্যা বলছে। সা'দীর কাছে, আগেই যেমন বলা হয়েছে, পুরো আয়োজনটাই তারবীজ, এমন এক দরবারের সামনে সাজানো নাটক, যারা তাকে বিশ্বাস করবেই। তাবারী কথাগুলোকে বাহ্যিক অর্থেই নেন: মূসা যাঁর ইবাদত করে আর অন্যদের যাঁর ইবাদতে ডাকে, আমি তাঁকে দেখতে চাই। আয়াত নিজে শেষ হয় এ কথায়: ওয়া ইন্নী লাআযুন্নুহু মিনাল কাযিবীন, আর আমার তো ধারণা সে মিথ্যাবাদীদের একজন।"
+          },
+          {
+            "en": "Two readings of that ending stand apart. Al-Qurtubi says the zann here is doubt: Pharaoh disbelieved while doubting, though he had seen proofs that would not confuse anyone of sound nature. Earlier in the passage, after Ibn Abbas's report that forty years separated this saying from I am your lord most high (treated at 79:25), his text says the enemy of God lied: he knew he had a Lord who created him and his people, as 43:87 says, if you asked them who created them, they would say Allah. Ibn Kathir reads the other way: Pharaoh did not acknowledge that a Maker existed at all.",
+            "bn": "আয়াতের এই শেষ কথাটির দুটি পাঠ আলাদা পথে যায়। কুরতুবী বলেন, এখানে যন্ন মানে সংশয়। ফেরাউন সন্দেহের মধ্যে থেকেই কুফরি করেছে, অথচ সে এমন প্রমাণ দেখেছিল, যা সুস্থ স্বভাবের কাউকে বিভ্রান্ত করে না। এর আগে একই আলোচনায় ইবন আব্বাসের বর্ণনা আসে যে এ কথা আর আমিই তোমাদের সর্বোচ্চ রব, এ দুয়ের মাঝে চল্লিশ বছরের ব্যবধান। সেই ব্যবধানের আলোচনা ৭৯:২৫ আয়াতে। তারপর তাঁর লেখায় আছে, আল্লাহর এই দুশমন মিথ্যা বলেছে। সে জানত, তার এক রব আছেন, যিনি তাকে আর তার কওমকে সৃষ্টি করেছেন। যেমন ৪৩:৮৭ আয়াত বলে: তাদের জিজ্ঞেস করলে কে তাদের সৃষ্টি করেছে, তারা অবশ্যই বলবে আল্লাহ। ইবন কাসীর পড়েন উল্টো দিকে: ফেরাউন কোনো স্রষ্টার অস্তিত্বই স্বীকার করত না।"
+          },
+          {
+            "en": "On one reading Pharaoh knew better and performed a doubt for the crowd; on another the doubt was real but without excuse, since the signs were enough; on Ibn Kathir's he denied any Maker outright. The article takes no side between them. They meet on one point the verse states in its own order. The command to fire the clay and the verdict on Musa come in a single breath: I think he is among the liars is spoken before one brick has been baked.",
+            "bn": "এক পাঠে ফেরাউন সত্যটা জানত, আর লোক দেখানোর জন্য সন্দেহের ভান করেছে। আরেক পাঠে সন্দেহটা সত্যিই ছিল, কিন্তু তার কোনো অজুহাত ছিল না, কারণ নিদর্শনই যথেষ্ট ছিল। ইবন কাসীরের পাঠে সে কোনো স্রষ্টাকেই মানত না। এ লেখা এগুলোর কোনো একটির পক্ষ নিচ্ছে না। তবে একটি জায়গায় সবাই মেলে, আর আয়াত তা নিজের বিন্যাসেই দেখিয়ে দেয়। মাটি পোড়ানোর হুকুম আর মূসা সম্পর্কে রায় এসেছে এক নিঃশ্বাসে। আমার ধারণা সে মিথ্যাবাদী, এ কথা বলা হয়ে গেছে একটা ইট পোড়ানোর আগেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What He Called a Lie",
+          "bn": "কোন দাবিকে সে মিথ্যা বলল"
+        },
+        "p": [
+          {
+            "en": "What exactly was the lie? Ibn Kathir is precise. Pharaoh meant that Musa lied in saying there is a lord other than Pharaoh, not that he lied in saying God had sent him, because Pharaoh did not acknowledge the Maker to begin with. He cites 26:23, what is the Lord of the worlds, and 26:29, and closes: this is the view of Ibn Jarir, that is, at-Tabari. The English abridgement carries the same sentence: the issue was not whether Allah had sent Musa.",
+            "bn": "মিথ্যাটা ঠিক কোন কথায়? ইবন কাসীর এ ব্যাপারে নিখুঁত। ফেরাউনের কথার অর্থ ছিল, ফেরাউন ছাড়া অন্য রব আছেন, এই দাবিতে মূসা মিথ্যা বলছে। আল্লাহ তাকে পাঠিয়েছেন, সে দাবিতে মিথ্যা বলছে, এমন অর্থ নয়। কারণ ফেরাউন গোড়াতেই স্রষ্টাকে স্বীকার করত না। তিনি উদ্ধৃত করেন ২৬:২৩, জগতসমূহের রব আবার কী, আর ২৬:২৯ আয়াত। শেষে বলেন, এটি ইবন জারীর অর্থাৎ তাবারীর মত। সংক্ষিপ্ত ইংরেজি সংস্করণেও একই কথা: প্রশ্নটা এ নয় যে আল্লাহ মূসাকে পাঠিয়েছেন কি না।"
+          },
+          {
+            "en": "At-Tabari's own gloss on this verse, draws the circle a little wider. He has Pharaoh suspect Musa of lying in saying that he has someone he worships in the heaven, that He supports him and gives him victory, and that it is He who sent him to us. Al-Baghawi likewise names both: Musa's claim that the earth and the creation have a god other than Pharaoh, and that Musa is His messenger. The sources overlap but do not match exactly, and the difference is left here as it stands.",
+            "bn": "এ আয়াতে তাবারীর নিজের ব্যাখ্যা পরিধিটা একটু বড় করে। তাঁর ব্যাখ্যায় ফেরাউন মূসাকে মিথ্যাবাদী মনে করে তিনটি দাবিতে: আকাশে তার এক মাবুদ আছেন, যাঁর সে ইবাদত করে। সেই মাবুদ তাকে শক্তি দেন ও সাহায্য করেন। আর তিনিই তাকে আমাদের কাছে পাঠিয়েছেন। বাগাভীও দুটোরই উল্লেখ করেন: মূসার এ দাবি যে পৃথিবী আর সৃষ্টিকুলের ফেরাউন ছাড়া অন্য এক ইলাহ আছেন, আর মূসা তাঁর রাসূল। উৎসগুলো অনেকখানি মেলে, তবে হুবহু নয়। পার্থক্যটা এখানে যেমন আছে তেমনই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports of the Tower's End",
+          "bn": "প্রাসাদের পরিণতির বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Behind the verse the commentators record a story, and they record it with care about its standing. At-Tabari writes that it was mentioned to us that Haman built the tower and Pharaoh climbed it. He then gives as-Suddi's account: when it was built, Pharaoh went up, ordered an arrow and shot it toward the sky, and it came back to him smeared with blood; he said, I have killed the God of Musa. At-Tabari closes the report with a glorification: exalted is Allah above what they say.",
+            "bn": "আয়াতের পেছনে তাফসীরকারেরা একটি কাহিনি লিখে রেখেছেন, আর তার মান সম্পর্কে সতর্ক থেকেই লিখেছেন। তাবারী লেখেন, আমাদের কাছে উল্লেখ করা হয়েছে যে হামান প্রাসাদটা বানিয়েছিল আর ফেরাউন তার উপর উঠেছিল। তারপর তিনি সুদ্দীর বর্ণনা আনেন। প্রাসাদ তৈরি হলে ফেরাউন উপরে উঠল, একটা তীর আনতে বলল, আর আকাশের দিকে তা ছুড়ে মারল। তীরটা রক্তমাখা অবস্থায় তার কাছে ফিরে এল। সে বলল, আমি মূসার ইলাহকে মেরে ফেলেছি। তাবারী বর্ণনাটি শেষ করেন আল্লাহর পবিত্রতা ঘোষণা দিয়ে: তারা যা বলে, আল্লাহ তা থেকে বহু ঊর্ধ্বে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi carry a fuller account. Haman gathered workers, fifty thousand builders besides helpers in al-Qurtubi's qila, who baked bricks and plaster, sawed timber and struck nails, until the building rose higher than any since the heavens and earth were made. Then, in a report al-Qurtubi gives as ruwiya, it was narrated, Jibril struck it with his wing and broke it into three pieces, one falling on Pharaoh's army. Al-Qurtubi ends: Allah knows best whether that is sound. Al-Baghawi credits the account to the people of tafsir, and Ma'arif al-Qur'an relays it from al-Qurtubi.",
+            "bn": "কুরতুবী ও বাগাভী আরও বিস্তারিত বর্ণনা দেন। হামান কারিগর জড়ো করল। কুরতুবী কীলা বলে সংখ্যা দেন, সাহায্যকারীদের বাদ দিয়েই পঞ্চাশ হাজার রাজমিস্ত্রি। তারা ইট আর চুন পোড়াল, কাঠ চেরাই করল, পেরেক ঠুকল। শেষে ইমারত এত উঁচু হলো যে আসমান-জমিন সৃষ্টির পর থেকে কোনো দালান অত উঁচুতে ওঠেনি। তারপর রুবিয়া, অর্থাৎ বর্ণিত আছে বলে কুরতুবী আনেন, জিবরাঈল ডানা দিয়ে আঘাত করে সেটাকে তিনটি টুকরো করে দিলেন। একটি টুকরো পড়ল ফেরাউনের সেনাদলের উপর। কুরতুবী শেষ করেন এ কথায়: এর বিশুদ্ধতা আল্লাহই ভালো জানেন। বাগাভী বর্ণনাটি তাফসীরবিদদের নামে দেন, আর মাআরিফুল কুরআন তা কুরতুবী থেকে উদ্ধৃত করে।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it, and the tower stories rest on the early commentators, not on any word of the Prophet ﷺ. What the Qur'an itself says comes in the next two verses. Pharaoh and his soldiers grew arrogant in the land without right and thought they would not be returned to Allah, so He seized him and his soldiers and cast them into the sea (28:39 and 28:40). Those verses say nothing of a tower. The account closes in the sea.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। প্রাসাদের কাহিনিগুলোর ভিত্তি প্রথম যুগের তাফসীরকারদের বর্ণনা, নবী ﷺ-এর কোনো বাণী নয়। কুরআন নিজে যা বলে, তা আসে পরের দুই আয়াতে। ফেরাউন ও তার সৈন্যরা দেশে অন্যায়ভাবে অহংকার করেছিল, আর ভেবেছিল তাদের আল্লাহর কাছে ফিরিয়ে নেওয়া হবে না। তাই আল্লাহ তাকে ও তার সৈন্যদের পাকড়াও করে সাগরে নিক্ষেপ করলেন (২৮:৩৯ ও ২৮:৪০)। সে দুই আয়াতে প্রাসাদের কোনো উল্লেখ নেই। কাহিনি শেষ হয় সাগরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Minds Made Light",
+          "bn": "হালকা হয়ে যাওয়া বুদ্ধি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends his comment not on Pharaoh but on his audience. The wonder, he says, is these chiefs who claimed to be the great men of the kingdom and the managers of its affairs: how did this man play with their minds and make light of their judgement? His answer is their fisq, disobedience that had settled into a trait. Their religion was corrupted first, and the corruption of their minds followed. Ibn Kathir makes a related point through 43:54: he made his people light-minded, and they obeyed him.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন ফেরাউনকে দিয়ে নয়, তার শ্রোতাদের দিয়ে। তিনি বলেন, আশ্চর্যের ব্যাপার এই সভাসদরা। তারা নিজেদের রাজ্যের বড় মানুষ আর রাষ্ট্র পরিচালনার কর্তা বলে দাবি করত। অথচ এই লোকটা কীভাবে তাদের বুদ্ধি নিয়ে খেলল, তাদের বিবেচনাকে হালকা করে দিল? তাঁর উত্তর: তাদের ফিসক, এমন নাফরমানি যা তাদের স্থায়ী স্বভাবে পরিণত হয়েছিল। আগে তাদের দ্বীন নষ্ট হয়েছে, তারপর তার পিছু পিছু নষ্ট হয়েছে বুদ্ধি। ইবন কাসীর কাছাকাছি একটি কথা বলেন ৪৩:৫৪ আয়াত দিয়ে: সে তার কওমকে বোকা বানাল, আর তারা তার আনুগত্য করল।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes one ruler and his court in the time of Musa (AS): what they said, and, in the verses after it, what the Qur'an says became of them. It licenses nothing against any present-day ruler, government, nation or living person, and it gives no one a warrant to brand anyone today a Pharaoh. Its lesson turns inward. As-Sa'di's remark is a warning about what happens to any mind once disobedience has settled in, and he answers it with a prayer, not with a verdict on others.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি মূসা (আঃ)-এর যুগের একজন শাসক আর তার দরবারের বর্ণনা দেয়: তারা কী বলেছিল, আর পরের আয়াতগুলোতে, কুরআনের ভাষায় তাদের কী পরিণতি হয়েছিল। বর্তমান কালের কোনো শাসক, সরকার, জাতি বা জীবিত কোনো মানুষের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কাউকে ফেরাউন বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। এর শিক্ষা ভেতরের দিকে। সা'দীর কথা এক সতর্কবার্তা: নাফরমানি একবার স্থায়ী হয়ে বসলে যেকোনো মনের কী দশা হয়। আর তিনি এর জবাব দেন দোয়া দিয়ে, অন্যদের উপর রায় দিয়ে নয়।"
+          },
+          {
+            "en": "His prayer echoes 3:8. We ask You, O Allah, for firmness in faith, that You not let our hearts swerve after You have guided us, and that You grant us mercy from Yourself; You are the Bestower. A court accepted a claim no sound mind should have accepted, because it came from the man at the top, and a tower was ordered to make a refusal look like a search. The reader's question is smaller and closer: whose word do I let decide what I believe, and what am I building to avoid a truth I have already been shown?",
+            "bn": "তাঁর দোয়ায় ৩:৮ আয়াতের প্রতিধ্বনি: হে আল্লাহ, আমরা আপনার কাছে ঈমানের উপর অবিচল থাকার তাওফীক চাই। হেদায়েত দেওয়ার পর আমাদের অন্তরকে বাঁকা করবেন না, আর নিজের পক্ষ থেকে আমাদের রহমত দান করুন। নিশ্চয়ই আপনি মহাদাতা। একটা দরবার এমন দাবি মেনে নিয়েছিল, যা কোনো সুস্থ বুদ্ধি মানতে পারে না, শুধু এ কারণে যে কথাটা এসেছিল সবার উপরের মানুষটির মুখ থেকে। আর অস্বীকারকে অনুসন্ধানের চেহারা দিতে হুকুম হয়েছিল এক প্রাসাদের। পাঠকের প্রশ্নটা ছোট, কিন্তু কাছের। কার কথাকে আমি আমার বিশ্বাস ঠিক করতে দিই? আর যে সত্য আমাকে আগেই দেখানো হয়েছে, তা এড়াতে আমি কী গড়ে তুলছি?"
+          }
+        ]
+      }
+    ]
+  },
   "28:41-42": {
     "sections": [
       {

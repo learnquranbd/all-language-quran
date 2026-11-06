@@ -24849,6 +24849,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Repentance, faith and good deeds are gathered in this life. Whoever gathers them has Allah's promise of success, and that door stays open to anyone.",
     "lessonBn": "তওবা, ঈমান আর সৎকাজ জোগাড় করতে হয় এই জীবনেই। যে এগুলো একসঙ্গে জোগাড় করে, তার জন্য আছে আল্লাহর দেওয়া সাফল্যের ওয়াদা, আর সে দরজা সবার জন্য খোলা।"
+  },
+  "28:38": {
+    "reflectionEn": "Pharaoh does not say there is no god but him. He says he knows of none, and then sends for bricks, as if a tall enough tower would settle the question. The court lets it pass. Nobody asks why the God of Musa would be found at the top of a building. The verse sets a claim of knowledge beside an order to build, and both serve one refusal: before a single brick is fired, he has already said that he thinks Musa is lying. Before I read this as a story about a distant king, I can ask what I do with a truth I would rather not face. Do I look for it honestly, or build something tall enough to hide behind?",
+    "reflectionBn": "ফেরাউন বলেনি যে সে ছাড়া কোনো ইলাহ নেই। সে বলেছে, আর কোনো ইলাহ আছে বলে সে জানে না। তারপর ইট পোড়ানোর হুকুম দিয়েছে, যেন যথেষ্ট উঁচু একটা ইমারত হলেই প্রশ্নটার মীমাংসা হয়ে যাবে। দরবারের কেউ আপত্তি তোলেনি। কেউ জিজ্ঞেস করেনি, মূসার ইলাহকে কি দালানের চূড়ায় উঠে খুঁজে পাওয়া যায়? আয়াতটি জ্ঞানের এক দাবি আর নির্মাণের এক হুকুম পাশাপাশি রাখে, আর দুটোই একই অস্বীকারের কাজে লাগে। একটা ইটও পোড়ানোর আগে সে বলে দিয়েছে, তার ধারণা মূসা মিথ্যাবাদী। একে দূর অতীতের এক রাজার গল্প বলে পড়ার আগে নিজেকে একটা প্রশ্ন করা যায়। যে সত্যের মুখোমুখি হতে চাই না, তা নিয়ে আমি কী করি? সৎভাবে তা খুঁজি, নাকি আড়াল হওয়ার মতো উঁচু কিছু বানিয়ে ফেলি?",
+    "pointsEn": [
+      "When I say I know of no reason to change, have I actually looked, or only avoided looking?",
+      "What effort do I put on show to seem open-minded about a question I have already decided?",
+      "Whose word do I let settle what is true for me, simply because of who they are?",
+      "When someone with power over me says something plainly false, do I let it pass like that court, or at least refuse to repeat it?",
+      "What proof have I already been shown that I keep asking to see again?"
+    ],
+    "pointsBn": [
+      "যখন বলি বদলানোর কোনো কারণ আমার জানা নেই, তখন কি আমি সত্যিই খুঁজে দেখেছি, নাকি খোঁজা এড়িয়ে গেছি?",
+      "যে প্রশ্নের উত্তর মনে মনে আগেই ঠিক করে ফেলেছি, তাতে খোলা মনের ভাব দেখাতে আমি কতটা আয়োজন করি?",
+      "কোন মানুষের কথাকে আমি শুধু তার পদমর্যাদার কারণে আমার কাছে সত্যের মাপকাঠি বানিয়ে ফেলি?",
+      "আমার উপর ক্ষমতা রাখে এমন কেউ যখন স্পষ্ট মিথ্যা বলে, আমি কি ওই দরবারের মতো চুপ থাকি, নাকি অন্তত কথাটা নিজের মুখে আর আওড়াই না?",
+      "কোন প্রমাণ আমাকে আগেই দেখানো হয়েছে, অথচ আমি বারবার তা আবার দেখতে চাই?"
+    ],
+    "lessonEn": "Do not dress a refusal up as an inquiry. Look honestly at the truth you have been shown, and never let anyone's rank do your thinking for you.",
+    "lessonBn": "অস্বীকারকে অনুসন্ধানের পোশাক পরাবেন না। যে সত্য আপনাকে দেখানো হয়েছে, সৎভাবে তার দিকে তাকান, আর কারও পদমর্যাদাকে আপনার হয়ে চিন্তা করতে দেবেন না।"
   }
 };
 
