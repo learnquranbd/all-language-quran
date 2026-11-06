@@ -25809,6 +25809,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your faith is your Lord's favour before it is your achievement. Thank Him for it, ask Him to keep it, and never look down on anyone from it.",
     "lessonBn": "আপনার ঈমান আপনার কৃতিত্ব হওয়ার আগে আপনার রবের অনুগ্রহ। এর জন্য তাঁর শুকরিয়া আদায় করুন, তা ধরে রাখার দোয়া করুন, আর এর জোরে কাউকে কখনো ছোট করে দেখবেন না।"
+  },
+  "37:80": {
+    "reflectionEn": "Noah's account closes on four gifts: rescue, a family kept safe, descendants who outlived the flood, and a name greeted with peace. Then a short sentence turns from him to everyone else: indeed, thus do We reward the doers of good. The word muhsinin is not about doing much. It is about doing well: obeying, holding to what was commanded, and bearing harm with patience for Allah's sake. Noah did that for a very long time, among a people who mostly turned away. The sentence promises that such work is never lost on the One it was done for. So it leaves a question about my own work and worship today. Is it done well, or merely done?",
+    "reflectionBn": "নূহ (আঃ)-এর কাহিনি শেষ হয় চারটি দানে। বিপদ থেকে উদ্ধার, পরিবারের নিরাপত্তা, প্লাবনের পরেও টিকে থাকা বংশধর, আর সালামের সঙ্গে স্মরণ করা এক নাম। তারপর ছোট্ট একটি বাক্য তাঁর কাছ থেকে চোখ ফিরিয়ে সবার দিকে তাকায়: এভাবেই আমি সৎকর্মশীলদের প্রতিদান দিই। মুহসিন মানে বেশি কাজ করা মানুষ নয়, ভালোভাবে কাজ করা মানুষ। আনুগত্য করা, যা বলা হয়েছে তাতে অটল থাকা, আর আল্লাহর জন্য কষ্ট এলে ধৈর্য ধরা। নূহ (আঃ) বহু দীর্ঘ সময় তা-ই করেছেন, এমন এক জাতির মাঝে যারা বেশিরভাগই মুখ ফিরিয়ে নিয়েছিল। বাক্যটি কথা দেয়, যাঁর জন্য এমন কাজ করা হয়, তাঁর কাছে তা কখনো হারায় না। তাই প্রশ্নটা আমার নিজের কাজ আর ইবাদত নিয়ে। আজ যা করছি, তা কি ভালো করে করছি, নাকি কোনোমতে শেষ করছি?",
+    "pointsEn": [
+      "Which task in my day do I rush through just to have it finished, and what would doing it well actually change?",
+      "When I stand to pray, do I remember that I am seen, even on the days I feel nothing?",
+      "Where am I bearing harm patiently for Allah's sake, and where am I only putting up with it?",
+      "Is my work aimed at being remembered well, or at having done well?",
+      "If the good I do today never earns a word of praise from anyone, would I still do it the same way?"
+    ],
+    "pointsBn": [
+      "দিনের কোন কাজটা আমি শুধু শেষ করার জন্য তাড়াহুড়ো করে সারি? ভালো করে করলে আসলে কী বদলে যেত?",
+      "নামাজে দাঁড়িয়ে আমার কি মনে থাকে যে আমাকে দেখা হচ্ছে, এমনকি যেদিন মনে কিছুই অনুভব করি না সেদিনও?",
+      "কোথায় আমি আল্লাহর জন্য ধৈর্য ধরে কষ্ট সইছি, আর কোথায় শুধু মুখ বুজে সহ্য করে যাচ্ছি?",
+      "আমার কাজের লক্ষ্য কি ভালো নাম রেখে যাওয়া, নাকি কাজটা ভালো করে করা?",
+      "আজকের ভালো কাজের জন্য কেউ যদি একটি প্রশংসার কথাও না বলে, তবু কি আমি সেটা একইভাবে করতাম?"
+    ],
+    "lessonEn": "Excellence is not measured by results or applause. Do your work and your worship well, obey and endure for Allah's sake, and leave the reward to the One who promised it.",
+    "lessonBn": "ফলাফল বা বাহবা দিয়ে উৎকর্ষ মাপা হয় না। নিজের কাজ আর ইবাদত ভালো করে করুন, আল্লাহর জন্য আনুগত্য করুন ও ধৈর্য ধরুন, আর প্রতিদানের ভার ছেড়ে দিন তাঁর হাতে, যিনি তা দেওয়ার কথা দিয়েছেন।"
   }
 };
 

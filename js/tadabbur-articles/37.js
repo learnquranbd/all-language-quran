@@ -3039,6 +3039,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:80": {
+    "sections": [
+      {
+        "h": {
+          "en": "From One Man to Many",
+          "bn": "একজন থেকে সবার দিকে"
+        },
+        "p": [
+          {
+            "en": "Inna kadhalika najzi al-muhsinin: indeed, thus do We reward the doers of good. It comes straight after the greeting of 37:79, peace upon Nuh among the worlds, and just before the two lines that close his account: that he was one of Our believing servants, and that the others were drowned. Every verse since 37:75 has had Nuh (AS) as its subject: his call, his rescue, his family, his descendants, his good name. This is the first sentence in the passage whose subject is a whole class of people.",
+            "bn": "ইন্না কাযালিকা নাজযিল মুহসিনীন: এভাবেই আমি সৎকর্মশীলদের প্রতিদান দিই। বাক্যটি আসে ৩৭:৭৯-এর সালামের ঠিক পরে, যেখানে বলা হয়েছে বিশ্বজগতে নূহের প্রতি শান্তি। এর পরেই তাঁর কাহিনির শেষ দুই লাইন: তিনি ছিলেন আমার মুমিন বান্দাদের একজন, আর বাকিদের আমি ডুবিয়ে দিয়েছিলাম। ৩৭:৭৫ থেকে প্রতিটি আয়াতের কেন্দ্রে ছিলেন নূহ (আঃ) একা। তাঁর ডাক, তাঁর উদ্ধার, তাঁর পরিবার, তাঁর বংশধর, তাঁর সুনাম। এই অংশে এটাই প্রথম বাক্য, যার বিষয় একজন মানুষ নন, গোটা এক দল মানুষ।"
+          },
+          {
+            "en": "The verb najzi is in the present tense: not We rewarded, but We reward. The Muyassar draws the consequence in a single line: like the reward of Nuh, We reward everyone among the servants who does good in obedience to Allah. This is also the refrain's first appearance in as-Saffat. It returns after Ibrahim (AS) at 37:105 and 37:110, after Musa and Harun (AS) at 37:121, and after Ilyas (AS) at 37:131, each with its own article. This article stays where the sentence begins, and with what the commentators say it means here.",
+            "bn": "নাজযী ক্রিয়াটি বর্তমান কালের। অর্থাৎ আমি প্রতিদান দিয়েছিলাম নয়, আমি প্রতিদান দিই। মুয়াসসার এক লাইনেই এর ফল টেনে দেয়: নূহের প্রতিদানের মতোই আমি প্রতিদান দিই বান্দাদের মধ্যে তাদের প্রত্যেককে, যে আল্লাহর আনুগত্যে সৎকর্ম করে। সূরা সাফফাতে এই ধুয়াটি এখানেই প্রথম। পরে তা ফিরে আসে ইবরাহীম (আঃ)-এর পরে ৩৭:১০৫ ও ৩৭:১১০ আয়াতে, মূসা ও হারূন (আঃ)-এর পরে ৩৭:১২১ আয়াতে, আর ইলইয়াস (আঃ)-এর পরে ৩৭:১৩১ আয়াতে। সেগুলোর আলোচনা আলাদা। এখানে আমরা থাকব বাক্যটি যেখানে শুরু হয়েছে সেখানেই, আর দেখব তাফসীরকারেরা এখানে এর কী অর্থ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Much 'Thus' Gathers",
+          "bn": "'এভাবেই' কতটুকু ধরে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads kadhalika as gathering everything since 37:76. He paraphrases: as We did with Nuh, in recompense for his obedience to Us and his patience under his people's harm for the sake of Our pleasure, We saved him and his family from the great affliction, made his descendants the ones who remained, and kept praise for him among later generations. Thus do We reward those who do good. On his reading, the rescue, the surviving family, the descendants and the good name are all one reward.",
+            "bn": "তাবারী কাযালিকা শব্দে ৩৭:৭৬ থেকে বলা সবকিছুকে এক করে পড়েন। তাঁর ব্যাখ্যা এরকম: নূহ আমার আনুগত্য করেছিলেন, আর আমার সন্তুষ্টির জন্য নিজের জাতির দেওয়া কষ্টে ধৈর্য ধরেছিলেন। তার প্রতিদানে আমি তাঁকে ও তাঁর পরিবারকে মহাবিপদ থেকে উদ্ধার করেছি, তাঁর বংশধরদেরই টিকিয়ে রেখেছি, আর পরবর্তীদের মাঝে তাঁর প্রশংসা রেখে দিয়েছি। এভাবেই আমি সৎকর্মশীলদের প্রতিদান দিই। তাবারীর পাঠে উদ্ধার, পরিবার, বংশধর আর সুনাম আলাদা আলাদা দান নয়, সব মিলিয়ে একটিই প্রতিদান।"
+          },
+          {
+            "en": "Others read the word more narrowly, as pointing to the verse just before it. Al-Qurtubi glosses it: We keep good praise for them. Al-Baghawi quotes Muqatil: Allah rewarded him for his ihsan with good praise among the worlds. Ibn Kathir says: We make for him a truthful mention by which he is remembered after him. For these three, thus means the lasting good name of 37:78 and 37:79. The two readings differ in scope, not in substance, and none of the commentators argues against the other.",
+            "bn": "অন্যেরা শব্দটিকে আরও সংকীর্ণভাবে পড়েন, ঠিক আগের আয়াতের দিকে ইঙ্গিত হিসেবে। কুরতুবীর ব্যাখ্যা: আমি তাদের জন্য উত্তম প্রশংসা বাকি রাখি। বাগাভী মুকাতিলের কথা উদ্ধৃত করেন: আল্লাহ তাঁর ইহসানের প্রতিদানে তাঁকে বিশ্বজগতে উত্তম প্রশংসা দিয়েছেন। ইবন কাসীর বলেন: আমি তার জন্য রেখে দিই এক সত্য স্মরণ, যা দিয়ে তার পরে তাকে মনে করা হয়। এই তিনজনের কাছে 'এভাবেই' মানে ৩৭:৭৮ ও ৩৭:৭৯ আয়াতের স্থায়ী সুনাম। দুই পাঠের পার্থক্য পরিসরে, মূল কথায় নয়। কোনো তাফসীরকার অন্যজনের বিরুদ্ধে যুক্তি দেননি।"
+          },
+          {
+            "en": "One small detail sharpens the picture. When the same sentence returns at 37:110 and 37:121, al-Qurtubi repeats his gloss of kept praise and then adds a second option: or We reward them with deliverance from hardships in this world and the next. Here, on Nuh's verse, he gives the praise alone. At-Tabari, for his part, names deliverance outright for Nuh, since the rescue from the great affliction is already inside his paraphrase. Both views are recorded here as their authors gave them.",
+            "bn": "ছোট্ট একটা বিষয় ছবিটা আরও স্পষ্ট করে। একই বাক্য যখন ৩৭:১১০ ও ৩৭:১২১ আয়াতে ফিরে আসে, কুরতুবী সেখানে প্রশংসা বাকি রাখার ব্যাখ্যাটি আবার দেন, তারপর দ্বিতীয় একটি সম্ভাবনা যোগ করেন: অথবা আমি তাদের দুনিয়া ও আখিরাতের কষ্ট থেকে মুক্তি দিয়ে প্রতিদান দিই। অথচ নূহের এই আয়াতে তিনি শুধু প্রশংসার কথাই বলেন। তাবারী আবার নূহের বেলায় মুক্তির কথা সরাসরিই বলেন, কারণ মহাবিপদ থেকে উদ্ধার তাঁর ব্যাখ্যার ভেতরেই আছে। দুই মতই এখানে রাখা হলো, যেভাবে তাঁরা বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reward Cut to Measure",
+          "bn": "মাপমতো প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi adds a grammatical note: the kaf of kadhalika stands in the accusative position, meaning a reward like that. The word thus, in other words, describes the reward itself. It does not just say that Allah rewards the doers of good; it says He rewards them with a reward of this kind, the kind just shown in Nuh's case. The Muyassar's paraphrase makes the same comparison openly, opening with mithla, like: like the reward of Nuh, We reward everyone who does good in obedience to Allah.",
+            "bn": "কুরতুবী একটি ব্যাকরণগত টীকা যোগ করেন। কাযালিকা শব্দের কাফ নসবের স্থানে আছে, অর্থাৎ ওই রকম প্রতিদান। মানে 'এভাবেই' শব্দটি প্রতিদানেরই বর্ণনা। আয়াত শুধু বলছে না যে আল্লাহ সৎকর্মশীলদের প্রতিদান দেন। বলছে, তিনি তাদের দেন এই ধরনের প্রতিদান, ঠিক যেমনটা নূহের বেলায় দেখা গেল। মুয়াসসারও খোলাখুলি এই তুলনা টানে, শুরুই করে 'মিসলা' অর্থাৎ 'মতো' শব্দ দিয়ে: নূহের প্রতিদানের মতো আমি প্রতিদান দিই প্রত্যেককে, যে আল্লাহর আনুগত্যে সৎকর্ম করে।"
+          },
+          {
+            "en": "Ibn Kathir adds the limit that keeps this from becoming a flat prize. The truthful mention is given bi-hasabi martabatihi fi dhalik: according to the person's rank in that, meaning in obedience. His abridged English commentary puts it as a remembrance in a manner that befits his status. As-Sa'di's matching line, that Allah spreads praise for the doers of good in measure of their ihsan, was traced in the 37:79 article. The law is one; what each person receives under it follows what each person brought.",
+            "bn": "ইবন কাসীর এখানে একটা সীমা টেনে দেন, যাতে একে সবার জন্য একই মাপের পুরস্কার মনে না হয়। সত্য স্মরণটি দেওয়া হয় 'বিহাসাবি মারতাবাতিহী ফী যালিক', অর্থাৎ সেই ব্যাপারে, মানে আনুগত্যে, তার মর্যাদা অনুযায়ী। তাঁর সংক্ষিপ্ত ইংরেজি তাফসীর একে বলে তার মর্যাদার উপযোগী স্মরণ। সাদীর অনুরূপ কথাটি, যে আল্লাহ সৎকর্মশীলদের প্রশংসা ছড়িয়ে দেন তাদের ইহসানের মাপে, ৩৭:৭৯-এর আলোচনায় এসেছে। নিয়ম একটাই। সেই নিয়মে কে কী পাবে, তা নির্ভর করে কে কী নিয়ে এসেছে তার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Verbs for the Muhsin",
+          "bn": "মুহসিনের তিন কাজ"
+        },
+        "p": [
+          {
+            "en": "Who are the doers of good? At-Tabari answers with three verbs. They are those who do good, and so they obey Us, they keep to Our command, and they bear harm patiently for Our sake. The middle verb, yantahuna ila amrina, literally says they come to an end at Our command: the command is where they arrive, and where they stop. On 37:110 he uses the same root for Ibrahim (AS), whose ihsan, he says, lay in keeping to Our command.",
+            "bn": "সৎকর্মশীল কারা? তাবারী উত্তর দেন তিনটি ক্রিয়া দিয়ে। তারা সৎকর্ম করে, তাই তারা আমার আনুগত্য করে, আমার আদেশে গিয়ে থামে, আর আমার জন্য কষ্ট এলে ধৈর্য ধরে। মাঝের ক্রিয়াটি, ইয়ানতাহূনা ইলা আমরিনা, আক্ষরিক অর্থে বলে: তারা আমার আদেশে গিয়ে শেষ হয়। আদেশই তাদের গন্তব্য, সেখানেই তারা থামে। ৩৭:১১০ আয়াতে ইবরাহীম (আঃ)-এর বেলায় তাবারী একই ধাতু ব্যবহার করেন। তাঁর মতে ইবরাহীমের ইহসান ছিল আল্লাহর আদেশে অটল থাকায়।"
+          },
+          {
+            "en": "The third verb is the one that fits Nuh (AS) most closely, and at-Tabari ties it to him by name: the reward came for his obedience and for his patience under his people's harm. Ibn Kathir and the Muyassar use a shared phrase for the same quality, man ahsana min al-'ibad fi ta'at Allah: whoever among the servants does good in obedience to Allah. Ihsan here is not a separate deed added to obedience. It is the quality of the obedience itself, how well it is carried, and for how long.",
+            "bn": "তৃতীয় ক্রিয়াটিই নূহ (আঃ)-এর সঙ্গে সবচেয়ে বেশি মেলে, আর তাবারী নাম ধরেই তা তাঁর সঙ্গে জুড়ে দেন। প্রতিদান এসেছে তাঁর আনুগত্যের জন্য, আর নিজের জাতির দেওয়া কষ্টে তাঁর ধৈর্যের জন্য। ইবন কাসীর আর মুয়াসসার একই গুণের জন্য একই কথা বলেন: বান্দাদের মধ্যে যে আল্লাহর আনুগত্যে সৎকর্ম করে। এখানে ইহসান আনুগত্যের বাইরের আলাদা কোনো আমল নয়। আনুগত্যটা কত ভালোভাবে আর কত দিন ধরে বয়ে নেওয়া হলো, ইহসান সেই মানেরই নাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ihsan Explained by Faith",
+          "bn": "ঈমানেই ইহসানের ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "The very next verse reads: indeed, he was one of Our believing servants. Al-Qurtubi's whole comment on it is three words: hadha bayanu ihsanihi, this is the explanation of his ihsan. On that reading 37:81 is not a new topic. It answers the question 37:80 raises: what was the good that Nuh (AS) did? The answer given is faith. At-Tabari spells that faith out: Nuh was among Our servants who believed in Us, affirmed Our oneness, made their worship sincerely Ours, and held Us alone as God.",
+            "bn": "ঠিক পরের আয়াত বলছে: তিনি ছিলেন আমার মুমিন বান্দাদের একজন। এ আয়াতে কুরতুবীর পুরো মন্তব্য মাত্র তিনটি শব্দ: হাযা বায়ানু ইহসানিহী, এটাই তাঁর ইহসানের ব্যাখ্যা। এভাবে পড়লে ৩৭:৮১ নতুন কোনো প্রসঙ্গ নয়। ৩৭:৮০ যে প্রশ্ন তোলে, এটা তারই জবাব। নূহ (আঃ)-এর সৎকর্মটা কী ছিল? জবাব হলো ঈমান। তাবারী সেই ঈমান খুলে বলেন: নূহ ছিলেন আমার সেই বান্দাদের একজন, যারা আমার উপর ঈমান এনেছে, আমার একত্ব মেনেছে, ইবাদত খাঁটিভাবে আমার জন্য করেছে, আর একমাত্র আমাকেই ইলাহ মেনেছে।"
+          },
+          {
+            "en": "The others agree in substance. Ibn Kathir glosses the believers as those who affirm, who hold to Allah's oneness, and who are certain. The Muyassar adds deeds: affirming, sincere, and acting on Allah's commands. As-Sa'di draws the widest conclusion: the verse shows that faith is the highest station a servant can reach, and that it takes in the whole of the religion, its roots and its branches, because Allah praised the elite of His creation with it. Ihsan, on this ordering, grows out of iman.",
+            "bn": "অন্যেরাও মূল কথায় একমত। ইবন কাসীরের ব্যাখ্যায় মুমিন মানে যারা সত্য বলে মেনে নেয়, আল্লাহর একত্বে অটল থাকে, আর দৃঢ় বিশ্বাস রাখে। মুয়াসসার এর সঙ্গে আমলও যোগ করে: সত্যে বিশ্বাসী, একনিষ্ঠ, আর আল্লাহর আদেশ মেনে কাজ করে এমন বান্দা। সাদী সবচেয়ে বড় সিদ্ধান্তটি টানেন। তাঁর মতে আয়াতটি দেখায়, ঈমানই বান্দার সর্বোচ্চ মর্যাদা। দ্বীনের সব বিধান, মূল ও শাখা, ঈমানের ভেতরে পড়ে, কারণ আল্লাহ তাঁর বিশেষ বান্দাদের প্রশংসা করেছেন এ গুণ দিয়েই। এই ক্রমে ইহসান জন্ম নেয় ঈমান থেকে।"
+          },
+          {
+            "en": "Then 37:82 closes the account: then We drowned the others. Ibn Kathir's abridged commentary says no trace of them was left, and they are known only by this description. That line reports what the text reports about one people in one past event. It licenses nothing against any living person or community, and it gives no reader the right to decide who among the people around him belongs to the others. What the passage holds out to the reader is the verse before it, about how faith is lived.",
+            "bn": "তারপর ৩৭:৮২ কাহিনি শেষ করে: তারপর বাকিদের আমি ডুবিয়ে দিলাম। ইবন কাসীরের সংক্ষিপ্ত তাফসীর বলে, তাদের কোনো চিহ্নই রইল না, এই বর্ণনা দিয়েই কেবল তাদের চেনা যায়। এ লাইন অতীতের একটিমাত্র ঘটনায় একটি জাতি সম্পর্কে কুরআন যা বলে, শুধু তা-ই জানায়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটা কোনো অনুমতি দেয় না। আশপাশের কে 'বাকিদের' দলে, সেটা ঠিক করার অধিকারও কোনো পাঠককে দেয় না। পাঠকের সামনে এ অংশ যা তুলে ধরে, তা আগের আয়াতটি: ঈমান নিয়ে কীভাবে বাঁচতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Pair That Keeps Its Order",
+          "bn": "যে জুটির ক্রম বদলায় না"
+        },
+        "p": [
+          {
+            "en": "In as-Saffat the refrain appears five times, and four of them come in a fixed pair. At 37:80, 37:110, 37:121 and 37:131, the very next verse says that the prophet, or the two prophets, were of Our believing servants. At 37:105 the refrain stands alone, closing the words you have fulfilled the vision, and Ibrahim's (AS) account runs on until the pair arrives at 37:110 and 37:111. At 37:110 the sentence also drops its opening inna. Nothing fetched for these verses explains that difference, so none is offered here.",
+            "bn": "সূরা সাফফাতে ধুয়াটি আসে পাঁচবার। তার মধ্যে চারটি ক্ষেত্রে তা আসে একটা নির্দিষ্ট জুটি হয়ে। ৩৭:৮০, ৩৭:১১০, ৩৭:১২১ ও ৩৭:১৩১ আয়াতের ঠিক পরের আয়াতেই বলা হয়েছে, সেই নবী বা সেই দুই নবী ছিলেন আমার মুমিন বান্দাদের অন্তর্ভুক্ত। ৩৭:১০৫ আয়াতে ধুয়াটি একা দাঁড়ায়, 'তুমি স্বপ্ন সত্যে পরিণত করেছ' কথাটির পরে। ইবরাহীম (আঃ)-এর কাহিনি এরপরও চলতে থাকে, আর জুটিটি আসে ৩৭:১১০ ও ৩৭:১১১ আয়াতে। ৩৭:১১০ আয়াতে বাক্যের শুরুর 'ইন্না' শব্দটিও নেই। এ পার্থক্যের কোনো ব্যাখ্যা এই আয়াতগুলোর সংগৃহীত তাফসীরে পাওয়া যায়নি, তাই এখানে কোনো ব্যাখ্যা দেওয়া হলো না।"
+          },
+          {
+            "en": "The order inside the pair never changes: the reward for ihsan first, then the faith behind it. Al-Qurtubi makes his remark, this is the explanation of his ihsan, only on 37:81; reading it into the later pairs is an observation from the text, not his claim. The two accounts that follow, Lut (AS) from 37:133 and Yunus (AS) from 37:139, close without this pair. The commentaries consulted give no reason for that either, and the article leaves it as a fact of the mushaf.",
+            "bn": "জুটির ভেতরের ক্রম কখনো বদলায় না। আগে ইহসানের প্রতিদান, তারপর তার পেছনের ঈমান। 'এটাই তাঁর ইহসানের ব্যাখ্যা', কুরতুবী এ কথা বলেছেন কেবল ৩৭:৮১ আয়াতে। পরের জুটিগুলোতে একই অর্থ দেখা পাঠ থেকে করা পর্যবেক্ষণ, তাঁর দাবি নয়। এর পরের দুটি কাহিনি, ৩৭:১৩৩ থেকে লূত (আঃ) আর ৩৭:১৩৯ থেকে ইউনুস (আঃ), এই জুটি ছাড়াই শেষ হয়। দেখা তাফসীরগুলো এরও কোনো কারণ বলে না। তাই এটাকে মুসহাফের একটা তথ্য হিসেবেই রেখে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nine Times, Many Gifts",
+          "bn": "নয়বার, ভিন্ন ভিন্ন দান"
+        },
+        "p": [
+          {
+            "en": "Outside as-Saffat the sentence occurs four more times, nine in the whole mushaf. At 6:84 it follows a list of prophets Allah guided, Nuh among them, guided before the rest. At 12:22 and 28:14 it follows the same words, when he reached his full strength We gave him judgment and knowledge, said first of Yusuf (AS) and then of Musa (AS). At 77:44 it follows the God-fearing amid shade, springs and fruit, told to eat and drink in reward for what they used to do.",
+            "bn": "সূরা সাফফাতের বাইরে বাক্যটি আসে আরও চারটি আয়াতে, পুরো মুসহাফে মোট নয়টি আয়াতে। ৬:৮৪ আয়াতে তা আসে আল্লাহর হিদায়াতপ্রাপ্ত নবীদের তালিকার পরে, যেখানে নূহ (আঃ)-ও আছেন, অন্যদের আগেই যাঁকে হিদায়াত দেওয়া হয়েছিল। ১২:২২ ও ২৮:১৪ আয়াতে তা আসে একই কথার পরে: যখন তিনি পূর্ণ শক্তিতে পৌঁছলেন, আমি তাঁকে প্রজ্ঞা ও জ্ঞান দিলাম। প্রথমবার ইউসুফ (আঃ) সম্পর্কে, দ্বিতীয়বার মূসা (আঃ) সম্পর্কে। ৭৭:৪৪ আয়াতে তা আসে মুত্তাকীদের কথার পরে। তারা ছায়া, ঝরনা আর ফলের মাঝে, আর তাদের বলা হচ্ছে, নিজেদের আমলের প্রতিদানে খাও ও পান করো।"
+          },
+          {
+            "en": "Set side by side, the verses show what al-Qurtubi's grammar note implied: thus always points at a gift the text has just named, and the gift differs each time. Guidance, judgment and knowledge, a good name, rescue, shade and springs. The four words stay the same while the reward fits the case. That is the plain reading of the mushaf, not a claim made by any one commentator. It also means the refrain is not reserved for prophets: at 77:44 the doers of good are simply the God-fearing.",
+            "bn": "আয়াতগুলো পাশাপাশি রাখলে কুরতুবীর ব্যাকরণগত টীকার ইঙ্গিতটা চোখে পড়ে। 'এভাবেই' সবসময় সেই দানের দিকে ইশারা করে, যার কথা ঠিক আগেই বলা হয়েছে, আর প্রতিবার দানটা ভিন্ন। কোথাও হিদায়াত, কোথাও প্রজ্ঞা ও জ্ঞান, কোথাও সুনাম, কোথাও উদ্ধার, কোথাও ছায়া আর ঝরনা। চারটি শব্দ একই থাকে, প্রতিদান মিলে যায় প্রতিটি ঘটনার সঙ্গে। এটা মুসহাফের সোজা পাঠ, কোনো একজন তাফসীরকারের দাবি নয়। এর আরেক অর্থ, ধুয়াটি শুধু নবীদের জন্য নয়। ৭৭:৪৪ আয়াতে সৎকর্মশীল মানে সাধারণ মুত্তাকীরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worship as One Seen",
+          "bn": "দেখা হচ্ছে জেনে ইবাদত"
+        },
+        "p": [
+          {
+            "en": "The best-known definition of ihsan comes from a hadith, not from any commentary on this verse. Sahih Muslim records, from 'Umar (RA), that a stranger in white came and questioned the Prophet ﷺ about Islam, faith and ihsan, and was later named as Jibril. On ihsan the Prophet ﷺ said, in the English of the edition fetched: That you worship Allah as if you are seeing Him, for though you don't see Him, He, verily, sees you. Muslim places it in his Sahih, as hadith 8.",
+            "bn": "ইহসানের সবচেয়ে পরিচিত সংজ্ঞা এসেছে একটি হাদীস থেকে, এ আয়াতের কোনো তাফসীর থেকে নয়। সহীহ মুসলিমে উমর (রাঃ)-এর সূত্রে বর্ণিত আছে, সাদা পোশাকে এক অচেনা লোক এসে নবী ﷺ-কে ইসলাম, ঈমান ও ইহসান সম্পর্কে প্রশ্ন করলেন, আর পরে জানা গেল তিনি জিবরীল। ইহসান সম্পর্কে নবী ﷺ বললেন: আন তা'বুদাল্লাহা কাআন্নাকা তারাহু, ফাইন লাম তাকুন তারাহু ফাইন্নাহু ইয়ারাক। অর্থাৎ, তুমি আল্লাহর ইবাদত করবে যেন তুমি তাঁকে দেখছ, আর যদি তুমি তাঁকে না-ও দেখো, তিনি তো তোমাকে দেখছেন। ইমাম মুসলিম এটি তাঁর সহীহ গ্রন্থে ৮ নম্বর হাদীস হিসেবে এনেছেন।"
+          },
+          {
+            "en": "None of the commentaries fetched for 37:80 cites this hadith, so it is offered here as a general narration, not one attached to the verse. Set beside them, it describes the inner side of what they describe from outside. At-Tabari speaks of obeying, keeping to the command and enduring; the hadith speaks of the awareness under which all of that is done. Nuh's (AS) long patience was carried out before One who saw it, whether or not his people ever did.",
+            "bn": "৩৭:৮০ আয়াতের সংগৃহীত কোনো তাফসীর এই হাদীস উল্লেখ করেনি। তাই এখানে এটি সাধারণ বর্ণনা হিসেবে আনা হলো, আয়াতের সঙ্গে যুক্ত বর্ণনা হিসেবে নয়। তাফসীরগুলোর পাশে রাখলে দেখা যায়, তারা যা বাইরে থেকে বলে, হাদীসটি বলে তার ভেতরের দিক। তাবারী বলেন আনুগত্য, আদেশে অটল থাকা আর ধৈর্যের কথা। হাদীস বলে সেই সচেতনতার কথা, যার ভেতরে থেকে এই সব করা হয়। নূহ (আঃ)-এর দীর্ঘ ধৈর্য ছিল এমন একজনের চোখের সামনে, যিনি সবই দেখছিলেন, তাঁর জাতি দেখুক বা না দেখুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Done Well, Not Merely Done",
+          "bn": "শুধু করা নয়, ভালো করে করা"
+        },
+        "p": [
+          {
+            "en": "The refrain names a reward, but the commentators keep the reader's eye on the deed. In the glosses gathered here, the reward is tied to doing good in obedience to Allah, not to being well spoken of. The good name of 37:78 and 37:79 is something Allah left for Nuh (AS); nothing in the verse suggests he sought it. A person who works for the praise has aimed at the gift and missed the deed it is given for. The sentence asks first how a thing was done.",
+            "bn": "ধুয়াটি প্রতিদানের কথা বলে, কিন্তু তাফসীরকারেরা পাঠকের চোখ রাখেন আমলের উপর। এখানে জড়ো করা ব্যাখ্যাগুলোতে প্রতিদান বাঁধা আল্লাহর আনুগত্যে সৎকর্মের সঙ্গে, সুনাম কুড়ানোর সঙ্গে নয়। ৩৭:৭৮ ও ৩৭:৭৯ আয়াতের সুনাম আল্লাহ নূহ (আঃ)-এর জন্য রেখে দিয়েছেন। তিনি তা চেয়েছিলেন, এমন কোনো ইঙ্গিত আয়াতে নেই। যে প্রশংসার জন্য কাজ করে, সে দানটার দিকে তাকিয়ে আছে, অথচ যে আমলের জন্য দান আসে সেটাই হারিয়ে ফেলেছে। বাক্যটি আগে জানতে চায়, কাজটা কীভাবে করা হলো।"
+          },
+          {
+            "en": "That question reaches into ordinary work and worship. A prayer can be finished or it can be prayed; a task can be cleared or it can be done well. At-Tabari's three verbs give a plain test: was it obedience, did it keep to what was asked, and did it hold when it cost something? Ibn Kathir's word rank is a reminder that the measure follows the person. No one is asked for Nuh's (AS) station. Each is asked for ihsan in his own place.",
+            "bn": "প্রশ্নটা পৌঁছে যায় প্রতিদিনের কাজ আর ইবাদতে। নামাজ শুধু শেষ করা যায়, আবার মন দিয়ে পড়াও যায়। কোনো দায়িত্ব শুধু সেরে ফেলা যায়, আবার ভালো করে পালনও করা যায়। তাবারীর তিনটি ক্রিয়া একটা সহজ পরীক্ষা দেয়। কাজটা কি আনুগত্য ছিল? যা চাওয়া হয়েছিল, তাতে কি অটল ছিল? দাম দিতে হলে কি টিকে ছিল? ইবন কাসীরের 'মর্যাদা' শব্দটি মনে করিয়ে দেয়, মাপটা মানুষ অনুযায়ী। কারও কাছে নূহ (আঃ)-এর মর্যাদা চাওয়া হয় না। প্রত্যেকের কাছে চাওয়া হয় নিজের জায়গায় ইহসান।"
+          }
+        ]
+      }
+    ]
+  },
   "37:88": {
     "sections": [
       {
