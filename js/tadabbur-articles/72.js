@@ -451,6 +451,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "72:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Other Half of the Pair",
+          "bn": "জোড়ার বাকি অর্ধেক"
+        },
+        "p": [
+          {
+            "en": "Wa-amma al-qasituna fa-kanu li-jahannama hataba: and as for the qasitun, they were, for Hell, firewood. Five Arabic words close a sentence that began in 72:14, where the speakers said that among them are those who submit and among them the qasitun, and that whoever submitted had sought out the right course. The particle amma, answered by fa, turns to the second group once the first has been dealt with. Al-Muyassar explains the two verses as one unit, and at-Tabari comments on them under a single heading.",
+            "bn": "ওয়া আম্মাল কাসিতূনা ফাকানূ লিজাহান্নামা হাতাবা: আর কাসিতূন যারা, তারা ছিল জাহান্নামের জ্বালানি কাঠ। আরবিতে মাত্র পাঁচটি শব্দ, আর এগুলো দিয়ে শেষ হয় সেই বাক্য, যার শুরু ৭২:১৪ আয়াতে। সেখানে বক্তারা বলেছিল, তাদের মধ্যে কেউ আত্মসমর্পণকারী, কেউ কাসিতূন, আর যে আত্মসমর্পণ করেছে সে সঠিক পথ খুঁজে নিয়েছে। আম্মা শব্দটির জবাবে আসে ফা। প্রথম দলের কথা শেষ হলে এই জোড় দিয়েই দ্বিতীয় দলের কথা ধরা হয়। মুয়াসসার দুটি আয়াতকে এক সঙ্গে ব্যাখ্যা করে, আর তাবারীও দুটির আলোচনা করেন একই শিরোনামের নিচে।"
+          },
+          {
+            "en": "At-Tabari opens that heading by saying that Allah is relating the words of the band of jinn, an-nafar min al-jinn. The voice is still theirs, the same voice that in 72:1 and 72:2 heard a wondrous recitation that guides to right conduct, ar-rushd, and believed in it. The earlier parts of their account, the guarded sky and their certainty that they cannot escape Allah, are taken up at 72:8 and 72:12. This verse carries only the last step of the report: what became of those among them who heard and swerved.",
+            "bn": "শিরোনামের শুরুতেই তাবারী বলে দেন, আল্লাহ এখানে জিনদের সেই দলের কথা জানাচ্ছেন, আন-নাফার মিনাল জিন্ন। তাই কণ্ঠটা এখনো তাদেরই। এই কণ্ঠই ৭২:১ ও ৭২:২ আয়াতে বলেছিল, তারা এক বিস্ময়কর তিলাওয়াত শুনেছে, যা আর-রুশদ বা সঠিক পথের দিকে নিয়ে যায়, আর তারা তাতে ঈমান এনেছে। তাদের বিবরণের আগের অংশগুলো, পাহারায় ঘেরা আকাশ আর আল্লাহকে এড়াতে না পারার নিশ্চয়তা, ৭২:৮ ও ৭২:১২ আয়াতের আলোচনায় এসেছে। এই আয়াত শুধু শেষ ধাপটুকু বলে: যারা শুনেও সরে গেল, তাদের কী হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qasata Set Against Aqsata",
+          "bn": "কাসাতা বনাম আকসাতা"
+        },
+        "p": [
+          {
+            "en": "Qasitun is the plural participle of qasata, and the commentators pause on it because the same root also gives one of the Qur'an's words for justice. Al-Qurtubi sets the two verbs side by side: qasata means he acted unjustly, jara, and aqsata means he acted justly, 'adala. Al-Baghawi gives the same pair with both participles: aqsata, so he is muqsit; qasata, so he is qasit. Ibn Kathir defines the qasit as the one who deviates unjustly from the truth and veers away from it, unlike the muqsit, who is just.",
+            "bn": "কাসিতূন শব্দটি কাসাতা ক্রিয়া থেকে আসা কর্তাবাচক বহুবচন। তাফসীরকারেরা এখানে থামেন, কারণ এই একই ধাতু থেকে কুরআনে ন্যায়ের একটি শব্দও এসেছে। কুরতুবী দুটি ক্রিয়া পাশাপাশি রাখেন: কাসাতা মানে সে অন্যায় করল, জারা। আর আকসাতা মানে সে ন্যায় করল, আদালা। বাগাভীও একই জোড়া দেন, সঙ্গে দুটি কর্তাবাচক রূপ: আকসাতা, তাই সে মুকসিত; কাসাতা, তাই সে কাসিত। ইবন কাসীরের সংজ্ঞায় কাসিত সেই ব্যক্তি, যে অন্যায়ভাবে সত্য থেকে বিচ্যুত হয় আর তা থেকে মুখ ঘুরিয়ে নেয়। মুকসিত তার উল্টো, সে ন্যায়পরায়ণ।"
+          },
+          {
+            "en": "At-Tabari reaches the same contrast through Ibn Zayd, who said: al-muqsit is the just one, and al-qasit is the unjust one. Ibn Zayd supported it with a line of poetry in which the speakers boast, qasatna, of having dealt unjustly with kings in the days of Tubba'. He then likened the pair to tarib and mutrib. In his gloss the tarib is the destitute man, and he recited 90:16, a needy one in misery, dha matraba; the mutrib is the rich man. His comparison points to one root whose two forms carry opposite senses.",
+            "bn": "তাবারী একই বৈপরীত্যে পৌঁছান ইবন যায়দের কথার মাধ্যমে। ইবন যায়দ বলেছেন, মুকসিত হলো ন্যায়পরায়ণ, আর কাসিত হলো অন্যায়কারী। প্রমাণ হিসেবে তিনি একটি কবিতার চরণ শোনান, যেখানে বক্তারা গর্ব করে বলে, তুব্বার আমলে তারা রাজাদের উপর অন্যায় করেছিল, কাসাতনা। তারপর তিনি জোড়াটাকে তুলনা করেন তারিব আর মুতরিবের সঙ্গে। তাঁর ব্যাখ্যায় তারিব মানে নিঃস্ব মানুষ, আর এর সমর্থনে তিনি পড়েন ৯০:১৬ আয়াত, যেখানে আছে ধুলোয় মলিন মিসকিন, যা মাতরাবা। আর মুতরিব মানে ধনী। তাঁর তুলনাটা দেখায়, একই ধাতুর দুই রূপ উল্টো দুই অর্থ বহন করতে পারে।"
+          },
+          {
+            "en": "The Qur'an uses the other form in praise. In 49:9, after commanding settlement between two quarrelling groups of believers, it says: and act justly, wa-aqsitu; indeed Allah loves those who act justly, al-muqsitin. So the jinn's name for the condemned is built from the same three letters as a name for those whom Allah loves. The letters do not settle which of the two a person becomes. The form of the verb does, and the form names a way of acting, which is something a person does rather than something he is born with.",
+            "bn": "অন্য রূপটি কুরআন ব্যবহার করে প্রশংসায়। ৪৯:৯ আয়াতে মুমিনদের বিবদমান দুই দলের মধ্যে মীমাংসার নির্দেশ দেওয়ার পর বলা হয়েছে: আর ন্যায় করো, ওয়া আকসিতূ; নিশ্চয়ই আল্লাহ ন্যায়পরায়ণদের ভালোবাসেন, আল-মুকসিতীন। অর্থাৎ জিনেরা দণ্ডিতদের যে নামে ডাকছে, সেই নাম গড়া হয়েছে সেই তিনটি অক্ষর দিয়েই, যা দিয়ে গড়া আল্লাহর প্রিয়জনদের একটি নাম। কে কোনটা হবে, অক্ষর তা ঠিক করে না। ঠিক করে ক্রিয়ার রূপ। আর সেই রূপ একটা আচরণের নাম, যা মানুষ করে, জন্মসূত্রে পায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Away From, or Towards",
+          "bn": "সত্য থেকে, নাকি সত্যের দিকে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi explains how one root can hold both meanings. The qasit is unjust, he says, because he turns away from the truth, 'adil 'an al-haqq; and the muqsit is just because he turns towards the truth, 'adil ila al-haqq. The same Arabic word, 'adil, sits in both halves of his sentence. Only the small preposition after it changes, 'an for away from and ila for towards. On his account justice and injustice are not two kinds of creature but two directions, and a person is named for the one he faces.",
+            "bn": "একই ধাতুতে দুটি অর্থ কীভাবে ধরে, কুরতুবী তা ব্যাখ্যা করেন। তিনি বলেন, কাসিত অন্যায়কারী, কারণ সে সত্য থেকে মুখ ফিরিয়ে নেয়, আদিলুন আনিল হাক্ক। আর মুকসিত ন্যায়পরায়ণ, কারণ সে সত্যের দিকে মুখ ফেরায়, আদিলুন ইলাল হাক্ক। তাঁর বাক্যের দুই অংশেই একই আরবি শব্দ, আদিল। বদলায় শুধু তার পরের ছোট্ট অব্যয়টি: আন মানে থেকে দূরে, ইলা মানে দিকে। তাঁর ব্যাখ্যায় ন্যায় আর অন্যায় দুই জাতের সৃষ্টি নয়, দুটি দিক। মানুষ যেদিকে মুখ করে থাকে, তার নাম হয় সেই দিক অনুযায়ী।"
+          },
+          {
+            "en": "At-Tabari gathers the early glosses with their chains. From Ibn Abbas (RA): the qasitun are those who turn away from the truth. From Mujahid: the wrongdoers, az-zalimun. From Qatada, by two routes: those who deviate unjustly, al-ja'irun. At-Tabari's own wording joins these: those who deviate unjustly from Islam and from the straight course of the way. As-Sa'di says much the same: they deviate unjustly and turn away from the straight path. Al-Muyassar speaks of those who swerved from the road of truth.",
+            "bn": "তাবারী সনদসহ প্রথম যুগের ব্যাখ্যাগুলো একত্র করেন। ইবন আব্বাস (রাঃ) থেকে: কাসিতূন তারা, যারা সত্য থেকে মুখ ফিরিয়ে নেয়। মুজাহিদ থেকে: জালিমরা, আয-যালিমূন। কাতাদা থেকে দুটি সূত্রে: যারা অন্যায়ভাবে বিচ্যুত হয়, আল-জাইরূন। তাবারীর নিজের ভাষায় এসব একসঙ্গে মিলেছে: যারা অন্যায়ভাবে ইসলাম থেকে আর পথের সোজা গতিপথ থেকে বিচ্যুত। সা'দীও প্রায় একই কথা বলেন: তারা অন্যায়ভাবে সরে যায়, সিরাতুল মুস্তাকীম থেকে মুখ ঘুরিয়ে নেয়। মুয়াসসার বলে, তারা সত্যের রাস্তা ছেড়ে অন্যদিকে বেঁকে গেছে।"
+          },
+          {
+            "en": "Al-Baghawi narrows the word. He reports Ibn Abbas (RA) as saying that they are those who set up a rival to Allah, and on 72:15 itself he glosses the qasitun simply as those who disbelieved. Al-Qurtubi frames the pair as what followed the hearing: after listening to the Qur'an we differ, some of us submitted and some disbelieved. Read together, the glosses place the root of this injustice in a turning from Allah's truth, and al-Baghawi's report from Ibn Abbas (RA) names its gravest form, setting up an equal to Him.",
+            "bn": "বাগাভী শব্দটির পরিধি সরু করে আনেন। তিনি ইবন আব্বাস (রাঃ)-এর কথা বর্ণনা করেন: এরা তারা, যারা আল্লাহর সমকক্ষ দাঁড় করিয়েছে। আর ৭২:১৫ আয়াতেই তিনি কাসিতূনের অর্থ দেন সোজা কথায়: যারা কুফরি করেছে। কুরতুবী জোড়াটাকে দেখেন শোনার পরের ঘটনা হিসেবে: কুরআন শোনার পর আমরা ভাগ হয়ে গেছি, আমাদের কেউ ইসলাম গ্রহণ করেছে, কেউ কুফরি করেছে। সব ব্যাখ্যা মিলিয়ে পড়লে দেখা যায়, এই অন্যায়ের মূল আল্লাহর সত্য থেকে মুখ ফেরানো। আর বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) এর সবচেয়ে গুরুতর রূপটির নাম বলে দেন: আল্লাহর সমকক্ষ দাঁড় করানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Keeps the Fire Burning",
+          "bn": "আগুন যা দিয়ে জ্বলে"
+        },
+        "p": [
+          {
+            "en": "Hatab is firewood, and every commentator fetched here glosses it with waqud, fuel. Ibn Kathir: fuel with which it is set blazing, tus'aru bihim. At-Tabari, more briefly: it is kindled by them. Al-Qurtubi and al-Muyassar: fuel for Hell. Al-Baghawi adds the time: they were the fuel of the Fire on the Day of Resurrection. The abridged English of Ibn Kathir renders his line as fuel, for they will be used to kindle it. The picture is not of people merely placed in a fire, but of what the fire feeds upon.",
+            "bn": "হাতাব মানে জ্বালানি কাঠ। এখানে যত তাফসীর দেখা হয়েছে, সবাই এর অর্থ করেছেন ওয়াকূদ, অর্থাৎ ইন্ধন। ইবন কাসীর বলেন: এমন ইন্ধন, যা দিয়ে আগুনকে দাউদাউ করে জ্বালানো হয়, তুসআরু বিহিম। তাবারী আরও সংক্ষেপে বলেন: তাদের দিয়ে তা জ্বালানো হয়। কুরতুবী আর মুয়াসসারের ভাষায়: জাহান্নামের ইন্ধন। বাগাভী সময়টাও জুড়ে দেন: কিয়ামতের দিন তারা আগুনের ইন্ধন হয়েছিল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও একই কথা, আগুন জ্বালাতে তাদের ব্যবহার করা হবে। ছবিটা শুধু আগুনে রাখা মানুষের নয়, ছবিটা আগুনের খোরাকের।"
+          },
+          {
+            "en": "The word the commentators reach for, waqud, is the Qur'an's own word elsewhere. In 2:24 and again in 66:6 it describes a Fire whose fuel is people and stones, and in 3:10 it says of those who disbelieve, whose wealth and children will avail them nothing against Allah, that they are the fuel of the Fire. In 72:15 the jinn use the plainer word hataba, firewood, of the qasitun among their own kind. The verse says this much about them and no more, and the commentators fetched here add nothing beyond the gloss.",
+            "bn": "তাফসীরকারেরা যে শব্দে ব্যাখ্যা করেন, সেই ওয়াকূদ কুরআনেরই শব্দ। ২:২৪ আয়াতে, আবার ৬৬:৬ আয়াতে, শব্দটি এমন আগুনের বর্ণনা দেয়, যার ইন্ধন মানুষ আর পাথর। আর ৩:১০ আয়াতে কাফিরদের সম্পর্কে বলা হয়েছে, আল্লাহর মোকাবেলায় তাদের ধনসম্পদ আর সন্তানসন্ততি কোনো কাজে আসবে না, তারাই আগুনের ইন্ধন। ৭২:১৫ আয়াতে জিনেরা নিজেদের জাতের কাসিতূনদের সম্পর্কে আরও সাদামাটা শব্দ ব্যবহার করে, হাতাবা, জ্বালানি কাঠ। আয়াত তাদের সম্পর্কে এটুকুই বলে, এর বেশি নয়। আর এখানে দেখা তাফসীরগুলোও শব্দের ব্যাখ্যার বাইরে কিছু যোগ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Past Tense About the Future",
+          "bn": "ভবিষ্যতের কথা অতীত কালে"
+        },
+        "p": [
+          {
+            "en": "The verb is past: fa-kanu, they were. Al-Qurtubi explains it in a single clause: fa-kanu, that is, in the knowledge of Allah Most High. On his reading the tense records what was already known to Allah, so the hearers are told the end before it arrives. Al-Baghawi, as noted, places the event on the Day of Resurrection. The two notes answer different questions, one why the tense is past and the other when the burning happens, and they sit side by side without contradiction.",
+            "bn": "ক্রিয়াটি অতীত কালের: ফাকানূ, তারা ছিল। কুরতুবী এক বাক্যাংশে এর ব্যাখ্যা দেন: ফাকানূ, অর্থাৎ আল্লাহ তাআলার ইলমে। তাঁর ব্যাখ্যায় এই কাল জানিয়ে দেয়, আল্লাহর কাছে ব্যাপারটা আগে থেকেই জানা। তাই শ্রোতারা পরিণতির খবর পেয়ে যায় পরিণতি আসার আগেই। আর বাগাভী, আগেই যেমন বলা হলো, ঘটনাটাকে রাখেন কিয়ামতের দিনে। দুটি ব্যাখ্যা দুই প্রশ্নের জবাব দেয়। একটি বলে কাল কেন অতীত, অন্যটি বলে জ্বলাটা কখন। দুটিতে কোনো বিরোধ নেই, পাশাপাশিই থাকে।"
+          },
+          {
+            "en": "Yet the next verse speaks of their turning. At-Tabari reads 72:16 as: if these qasitun had stood straight on the way of truth, We would have given them abundant water, that is, made their provision wide. Ibn Kathir's first view says: if the qasitun stood straight on the way of Islam, turned towards it and continued on it. His word for turning towards it, 'adalu ilayha, is al-Qurtubi's word for the just. Ibn Kathir records a second view as well, that the way meant is misguidance, which belongs to the study of that verse.",
+            "bn": "তবু ঠিক পরের আয়াতেই তাদের ফিরে আসার কথা আছে। তাবারী ৭২:১৬ আয়াত পড়েন এভাবে: এই কাসিতূনরা যদি সত্যের পথে সোজা থাকত, তাহলে আমি তাদের প্রচুর পানি পান করাতাম, অর্থাৎ তাদের রিজিক প্রশস্ত করে দিতাম। ইবন কাসীরের প্রথম মতটি বলে: কাসিতূনরা যদি ইসলামের পথে সোজা থাকত, তার দিকে ফিরে আসত আর তাতে অবিচল থাকত। তার দিকে ফিরে আসার জন্য তিনি যে শব্দ ব্যবহার করেন, আদালূ ইলাইহা, কুরতুবী ঠিক সেই শব্দেই ন্যায়পরায়ণকে চিনিয়েছেন। ইবন কাসীর দ্বিতীয় একটি মতও উল্লেখ করেন, যে পথের কথা বলা হয়েছে তা গোমরাহির পথ। সেই আলোচনা ওই আয়াতেরই বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recompense With No Wrong",
+          "bn": "প্রতিফল, জুলুম নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di adds one sentence to the verse: that is a recompense for their deeds, not a wrong done to them by Allah. The qasitun are named for injustice, and he describes their end as the opposite of injustice. Two verses earlier the jinn had said that whoever believes in his Lord fears neither bakhs nor rahaq. Ibn Kathir reports Ibn Abbas (RA), Qatada and others: he need not fear that the reward of his good deeds will be reduced, or that he will be burdened with anything beyond his own sins. He sets beside it 20:112.",
+            "bn": "সা'দী আয়াতটির সঙ্গে একটি বাক্য যোগ করেন: এ তাদের আমলের প্রতিফল, আল্লাহ তাদের উপর কোনো জুলুম করেননি। কাসিতূনদের নাম এসেছে অন্যায় থেকে, আর তিনি তাদের পরিণতিকে বর্ণনা করেন অন্যায়ের ঠিক বিপরীত হিসেবে। দুই আয়াত আগে জিনেরা বলেছিল, যে তার রবের উপর ঈমান আনে, সে বাখস বা রাহাক কোনোটিরই ভয় করে না। ইবন কাসীর ইবন আব্বাস (রাঃ), কাতাদা ও অন্যদের কথা বর্ণনা করেন: তার ভয় নেই যে তার নেক আমলের সওয়াব কমিয়ে দেওয়া হবে, কিংবা নিজের গুনাহের বাইরে কোনো বোঝা তার উপর চাপানো হবে। এর পাশে তিনি রাখেন ২০:১১২ আয়াত।"
+          },
+          {
+            "en": "That verse says that whoever does righteous deeds while a believer will fear neither injustice nor deprivation. Ma'arif al-Qur'an gives the same reading of 72:13: no curtailment in the reward of good deeds, and no disgrace through excess in punishment. Placed beside as-Sa'di's sentence, the jinn's account shows one measure on both sides. Nothing is taken from those who submitted, and the qasitun are given only what their deeds earned. Those who would not deal justly with the truth are dealt with justly in the end.",
+            "bn": "সেই আয়াত বলে, মুমিন অবস্থায় যে নেক আমল করে, সে কোনো জুলুম বা প্রাপ্য থেকে বঞ্চনার ভয় করবে না। মাআরিফুল কুরআনও ৭২:১৩ আয়াতের একই ব্যাখ্যা দেয়: নেক আমলের সওয়াবে কোনো কমতি হবে না, আর শাস্তি বাড়িয়ে দিয়ে কোনো লাঞ্ছনাও হবে না। সা'দীর বাক্যের পাশে রাখলে জিনদের বিবরণে দুই দিকেই একই মাপকাঠি চোখে পড়ে। যারা আত্মসমর্পণ করেছে, তাদের কিছুই কেড়ে নেওয়া হবে না। আর কাসিতূনরা পাবে কেবল তা-ই, যা তাদের আমল কামাই করেছে। যারা সত্যের সঙ্গে ইনসাফ করেনি, শেষে তাদের সঙ্গেও ইনসাফই করা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Aimed for Rashad",
+          "bn": "যারা রাশাদের দিকে তাক করল"
+        },
+        "p": [
+          {
+            "en": "The verse makes full sense only against the half it answers: fa-man aslama fa-ula'ika taharraw rashada, whoever submitted, those sought out the right course. Al-Qurtubi says they aimed for the way of truth and pursued it, and that the word is that used in taharri al-qibla, seeking out the direction of prayer. At-Tabari: they deliberately pursued and hoped for right guidance in their religion. Ibn Kathir: they sought salvation for themselves. Al-Muyassar: they strove to choose the way of truth, and Allah guided them to it.",
+            "bn": "যে অর্ধেকের জবাবে এই আয়াত, তার পাশে না রাখলে এর পুরো অর্থ খোলে না: ফামান আসলামা ফাউলাইকা তাহাররাও রাশাদা, যে আত্মসমর্পণ করেছে, তারাই সঠিক পথ খুঁজে নিয়েছে। কুরতুবী বলেন, তারা সত্যের পথকে লক্ষ্য করেছে আর সেদিকে এগিয়েছে। শব্দটি সেই শব্দ, যা বলা হয় তাহাররিল কিবলায়, অর্থাৎ নামাজের দিক খুঁজে বের করায়। তাবারী বলেন, তারা নিজেদের দ্বীনে জেনেবুঝে সঠিক পথের সন্ধান করেছে আর তার আশা রেখেছে। ইবন কাসীর বলেন, তারা নিজেদের জন্য মুক্তি চেয়েছে। মুয়াসসার বলে, তারা সত্যের পথ বেছে নিতে চেষ্টা করেছে, আর আল্লাহ তাদের সেই পথ দেখিয়েছেন।"
+          },
+          {
+            "en": "As-Sa'di says they reached the path of right guidance that brings them to the Garden and its bliss. Whether believing jinn are rewarded in the Garden is a question readers often bring to these verses. As-Sa'di's gloss assumes an answer, but none of the commentaries fetched for 72:14 and 72:15 argues the point or records a disagreement over it, so this article goes no further than his sentence. What the pair does make plain is that each outcome follows a choice the speakers describe within their own ranks.",
+            "bn": "সা'দী বলেন, তারা সঠিক পথের এমন রাস্তায় পৌঁছেছে, যা তাদের নিয়ে যায় জান্নাত আর তার নিয়ামতের দিকে। মুমিন জিনেরা জান্নাতে প্রতিদান পাবে কি না, এ প্রশ্ন অনেক পাঠকই এই আয়াতগুলোর কাছে নিয়ে আসেন। সা'দীর ব্যাখ্যা একটা উত্তর ধরে নিয়েই এগোয়। কিন্তু ৭২:১৪ ও ৭২:১৫ আয়াতের জন্য যত তাফসীর দেখা হয়েছে, তার কোনোটিই বিষয়টি নিয়ে যুক্তি দেয় না, কোনো মতভেদও উল্লেখ করে না। তাই এই লেখা তাঁর বাক্যটুকুর বেশি এগোবে না। জোড়াটি যা স্পষ্ট করে তা হলো, প্রতিটি পরিণতি এমন এক বেছে নেওয়ার পরে আসে, যার কথা বক্তারা নিজেদের দলের ভেতরেই বলছে।"
+          },
+          {
+            "en": "Set the commentators' words next to each other and they share a vocabulary of direction. Taharri is the effort to face the qibla correctly. The muqsit, in al-Qurtubi's sentence, turns towards the truth, and the qasit turns away from it. The first view Ibn Kathir records on 72:16 speaks of the qasitun turning towards the way of Islam. And al-Qurtubi's gloss of 72:14 places the parting after the hearing: having listened to the same Qur'an, the jinn faced different ways.",
+            "bn": "তাফসীরকারদের কথাগুলো পাশাপাশি রাখলে দেখা যায়, সবগুলোতেই দিকের ভাষা। তাহাররি মানে কিবলার দিকে ঠিকঠাক মুখ করার চেষ্টা। কুরতুবীর বাক্যে মুকসিত সত্যের দিকে মুখ ফেরায়, আর কাসিত তা থেকে মুখ ফিরিয়ে নেয়। ৭২:১৬ আয়াতে ইবন কাসীর যে প্রথম মতটি উল্লেখ করেন, তাতে আছে কাসিতূনদের ইসলামের পথের দিকে ফিরে আসার কথা। আর ৭২:১৪ আয়াতের ব্যাখ্যায় কুরতুবী ভাগ হওয়াটাকে রাখেন শোনার পরে: একই কুরআন শোনার পর জিনেরা মুখ ফিরিয়েছে ভিন্ন ভিন্ন দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict on a Neighbour",
+          "bn": "কোনো প্রতিবেশীর বিচার নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what a band of jinn said about the qasitun among themselves, and the Qur'an gives it as their speech. It describes what the text describes and licenses nothing against any living person or community. It gives no one the right to call a named Muslim, a non-Muslim neighbour or any group firewood for Hell. Nor does it open a door to tales about jinn beyond these verses. None of the commentaries fetched for this verse attaches a hadith to it, and this article cites none.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায়, জিনদের একটি দল নিজেদের মধ্যকার কাসিতূনদের সম্পর্কে কী বলেছিল, আর কুরআন সেটাকে তাদেরই কথা হিসেবে উদ্ধৃত করেছে। আয়াতের ভাষ্য যা বর্ণনা করে, আয়াত শুধু সেটুকুই বর্ণনা করে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো অনুমতি দেয় না। কোনো নির্দিষ্ট মুসলমান, অমুসলিম প্রতিবেশী বা কোনো গোষ্ঠীকে জাহান্নামের জ্বালানি বলার অধিকার এটি কাউকে দেয় না। জিনদের নিয়ে এই আয়াতগুলোর বাইরের কিসসা-কাহিনির দরজাও এটি খোলে না। এই আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, এই লেখাও কোনো হাদীস উদ্ধৃত করছে না।"
+          },
+          {
+            "en": "The reader's use of the verse is turned inward. The qasitun are not a distant class but a direction, and every hearer of the Qur'an stands at the point where the jinn stood, having heard. The question the pair leaves is not who among others is firewood, but which way one faces when a verse corrects a habit, a judgement or a dealing with others. The same letters that name the condemned in 72:15 name, in 49:9, those whom Allah loves. The difference is the turning, and the turning is each person's own.",
+            "bn": "পাঠকের কাছে আয়াতটির কাজ ভেতরের দিকে। কাসিতূন কোনো দূরের শ্রেণি নয়, একটা দিক। কুরআন যে-ই শোনে, সে দাঁড়িয়ে আছে জিনদের সেই জায়গায়, শোনার পরের মুহূর্তে। জোড়াটি যে প্রশ্ন রেখে যায় তা এই নয় যে অন্যদের মধ্যে কে জ্বালানি। প্রশ্নটা হলো, কোনো আয়াত যখন আমার কোনো অভ্যাস, কোনো বিচার বা মানুষের সঙ্গে কোনো লেনদেনের ভুল ধরিয়ে দেয়, তখন আমি কোন দিকে মুখ করি। যে অক্ষরগুলো ৭২:১৫ আয়াতে দণ্ডিতদের নাম দেয়, সেগুলোই ৪৯:৯ আয়াতে আল্লাহর প্রিয়জনদের নাম দেয়। তফাত শুধু মুখ ফেরানোয়, আর সেই ফেরানো প্রত্যেকের নিজের।"
+          }
+        ]
+      }
+    ]
+  },
   "72:18": {
     "sections": [
       {

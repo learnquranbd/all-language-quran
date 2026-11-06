@@ -28807,6 +28807,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Begin your prayers by asking forgiveness for yourself, then widen them to your parents, your household and every believer, living and dead.",
     "lessonBn": "দোয়া শুরু করুন নিজের ক্ষমা চেয়ে, তারপর তা ছড়িয়ে দিন বাবা-মা, ঘরের মানুষ আর জীবিত ও মৃত সব মু'মিনের দিকে।"
+  },
+  "72:15": {
+    "reflectionEn": "One verse ago the jinn said that some of them submitted, and those had sought out the right course. Now they finish the sentence: as for the qasitun, those who swerved from the truth, they are firewood for Hell. Five words, with no softening. The word for them shares a root with the word for the just. One form means to act unjustly, the other to act justly, and the difference lies in which way a person turns. Both groups heard the same recitation. The verses that follow still speak of abundant water if they had stood straight on the way. When the truth is put in front of me, which way do I turn? And who chooses that turning, if not me?",
+    "reflectionBn": "এক আয়াত আগে জিনেরা বলেছে, তাদের কেউ কেউ আত্মসমর্পণ করেছে, আর তারাই সঠিক পথ খুঁজে নিয়েছে। এবার তারা বাক্যটা শেষ করে: আর যারা কাসিতুন, সত্য থেকে সরে গেছে, তারা জাহান্নামের জ্বালানি কাঠ। মাত্র পাঁচটি শব্দ, কোনো নরম করা নেই। এদের নাম যে ধাতু থেকে, ন্যায়পরায়ণের নামও সেই একই ধাতু থেকে। এক রূপের মানে অন্যায় করা, আরেক রূপের মানে ন্যায় করা। ফারাকটা কেবল মুখ কোন দিকে ফেরানো, তাতে। দুই দলই একই তিলাওয়াত শুনেছিল। পরের আয়াতগুলো তবুও বলে, পথে সোজা থাকলে তারা পেত প্রচুর পানি। সত্য যখন আমার সামনে রাখা হয়, আমি কোন দিকে ফিরি? আর সেই ফেরাটা বেছে নেয় কে, আমি ছাড়া?",
+    "pointsEn": [
+      "When a verse or a reminder corrects me, is my first movement towards it or away from it?",
+      "Where in my dealings with others do I lean, even slightly, away from what is fair because it costs me less?",
+      "Two groups heard the same recitation and went different ways. What have I heard many times that has not yet changed what I do?",
+      "Do I read a verse about the people of the Fire as a list of others, or as a warning addressed to me?",
+      "What would it look like this week to stand straight on the way in one matter where I have been swerving?"
+    ],
+    "pointsBn": [
+      "কোনো আয়াত বা নসিহত যখন আমার ভুল ধরিয়ে দেয়, আমার প্রথম নড়াচড়াটা কি তার দিকে, নাকি তার থেকে দূরে?",
+      "মানুষের সঙ্গে লেনদেনে কোথায় আমি ন্যায্য পথ থেকে একটু হলেও সরে যাই, শুধু এই কারণে যে তাতে আমার খরচ কম?",
+      "একই তিলাওয়াত শুনে দুই দল দুই দিকে গেল। কোন কথা আমি বহুবার শুনেছি, অথচ আমার আমলে এখনো কোনো বদল আনেনি?",
+      "জাহান্নামবাসীদের নিয়ে কোনো আয়াত পড়লে আমি কি তাকে অন্যদের তালিকা ভাবি, নাকি আমার প্রতিই সতর্কবাণী?",
+      "যে একটা বিষয়ে আমি বাঁকা পথে চলছি, এ সপ্তাহে সেখানে পথের উপর সোজা দাঁড়ানোর চেহারাটা কেমন হবে?"
+    ],
+    "lessonEn": "Justice and injustice share one root and part by direction; when the truth reaches you, turn towards it, for those who swerve from it become fuel for the Fire.",
+    "lessonBn": "ন্যায় আর অন্যায়ের ধাতু একই, তফাত শুধু মুখ ফেরানোর দিকে। সত্য আপনার কাছে পৌঁছালে তার দিকে ফিরুন, কারণ যারা তা থেকে সরে যায় তারা আগুনের জ্বালানি হয়।"
   }
 };
 
