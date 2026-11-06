@@ -24749,6 +24749,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah carries out His plans through ordinary, careful people. Do your part quietly and wisely, and leave the outcome to Him.",
     "lessonBn": "আল্লাহ তাঁর পরিকল্পনা পূরণ করেন সাধারণ, সাবধানী মানুষের হাত দিয়ে। নিজের কাজটুকু নীরবে ও বুঝেশুনে করুন, ফলাফল তাঁর হাতে ছেড়ে দিন।"
+  },
+  "28:34": {
+    "reflectionEn": "Musa (AS) has just been told to go to Pharaoh, and his first concern is not his own standing. He names his brother: Harun is more eloquent than me in tongue, so send him with me as a support who will confirm me, for I fear they will call me a liar. He measures himself honestly, sees in his brother a gift he does not have, and asks for it to stand beside him. There is no envy in the sentence and no false modesty either, only a clear view of the task and of who could help carry it. When work is too heavy for me alone, do I say so, and do I see the gifts in the people near me?",
+    "reflectionBn": "মূসা (আঃ)-কে সবেমাত্র ফিরআউনের কাছে যেতে বলা হয়েছে। তাঁর প্রথম ভাবনা নিজের মর্যাদা নিয়ে নয়। তিনি ভাইয়ের নাম নেন: হারূন কথায় আমার চেয়ে বেশি স্পষ্ট, তাই তাঁকে আমার সাথে সহায় করে পাঠান, যিনি আমাকে সমর্থন করবেন। আমার ভয় হয়, ওরা আমাকে মিথ্যাবাদী বলবে। তিনি নিজেকে সৎভাবে মাপেন, ভাইয়ের মধ্যে এমন এক গুণ দেখেন যা নিজের নেই, আর চান সেই গুণ তাঁর পাশে এসে দাঁড়াক। এ বাক্যে হিংসা নেই, লোক দেখানো বিনয়ও নেই। আছে শুধু কাজটার পরিষ্কার হিসাব আর কে সেই ভার বইতে সাহায্য করতে পারে তার চেনা। কাজ যখন একা আমার পক্ষে ভারী, আমি কি তা মুখ ফুটে বলি? আর আশপাশের মানুষের গুণগুলো কি আমার চোখে পড়ে?",
+    "pointsEn": [
+      "Which task in front of me right now would go better if I asked someone with a gift I lack to stand beside me?",
+      "Can I name, without envy, one person close to me who does something better than I do?",
+      "When I describe my own limits, is it honest self-knowledge, or an excuse to avoid the work?",
+      "Whose support have I relied on without ever thanking them or telling them what it meant?",
+      "Do I bring my fears about a hard duty to Allah in plain words, as Musa did, or keep them to myself?"
+    ],
+    "pointsBn": [
+      "এ মুহূর্তে আমার সামনের কোন কাজটা ভালো হতো, যদি এমন কাউকে পাশে দাঁড়াতে বলতাম যার এমন গুণ আছে যা আমার নেই?",
+      "কাছের এমন একজনের নাম কি হিংসা ছাড়া বলতে পারি, যে কোনো একটা কাজ আমার চেয়ে ভালো পারে?",
+      "নিজের সীমাবদ্ধতার কথা যখন বলি, সেটা কি সৎ আত্মজ্ঞান, নাকি কাজ এড়ানোর অজুহাত?",
+      "কার সহায়তার উপর আমি ভর করে চলেছি, অথচ তাকে কখনো ধন্যবাদ দিইনি বা বলিনি তা আমার কাছে কতটা ছিল?",
+      "কঠিন দায়িত্ব নিয়ে আমার ভয়গুলো কি মূসা (আঃ)-এর মতো সোজা কথায় আল্লাহর কাছে তুলে ধরি, নাকি নিজের মধ্যেই চেপে রাখি?"
+    ],
+    "lessonEn": "Know your limits honestly, recognise the gifts in others without envy, and ask Allah for the help you need to carry what He has given you.",
+    "lessonBn": "নিজের সীমা সৎভাবে জানুন, হিংসা ছাড়া অন্যের গুণ স্বীকার করুন, আর আল্লাহ যে দায়িত্ব দিয়েছেন তা বইতে যে সাহায্য দরকার তা তাঁর কাছেই চান।"
   }
 };
 

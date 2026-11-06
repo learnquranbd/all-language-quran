@@ -1011,6 +1011,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:34": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Brother Named at the Valley",
+          "bn": "উপত্যকায় ভাইয়ের নাম"
+        },
+        "p": [
+          {
+            "en": "Wa akhi Harunu huwa afsahu minni lisanan: and my brother Harun, he is more eloquent than me in tongue. The words come at the sacred valley, after the staff and the hand of 28:31 and 28:32 and the command to take both proofs to Pharaoh and his chiefs. In the verse before, Musa (AS) named one fear: he had killed a man among them and feared they would kill him. Here he names a second fear, and before it, a request. The verse is fourteen Arabic words, and it holds a description, a petition and a reason.",
+            "bn": "ওয়া আখী হারূনু হুয়া আফসাহু মিন্নী লিসানা: আর আমার ভাই হারূন, কথায় সে আমার চেয়ে বেশি প্রাঞ্জল। কথাটা আসে পবিত্র উপত্যকায়। ২৮:৩১ ও ২৮:৩২ আয়াতে লাঠি আর হাতের নিদর্শন দেখানো হয়েছে, আদেশ হয়েছে দুটো প্রমাণ নিয়ে ফিরআউন ও তার সভাসদদের কাছে যেতে। আগের আয়াতে মূসা (আঃ) এক ভয়ের কথা বলেছেন: তিনি ওদের একজনকে হত্যা করেছেন, তাই ভয় পান ওরা তাঁকে মেরে ফেলবে। এখানে তিনি বলেন দ্বিতীয় ভয়ের কথা, আর তার আগে রাখেন একটি আবেদন। আরবিতে আয়াতটি চৌদ্দ শব্দের। তার ভেতরে আছে একটি পরিচয়, একটি প্রার্থনা আর একটি কারণ।"
+          },
+          {
+            "en": "The Muyassar reads the two verses as a single speech and paraphrases plainly: my brother Harun is more fluent than me in speaking, so send him with me as a help who confirms me and makes clear to them, on my behalf, what I address to them; I fear they will call me a liar when I tell them I was sent to them. The answer comes in 28:35, where Allah promises to strengthen his arm through his brother. This article stays with the asking itself.",
+            "bn": "মুয়াসসার দুটি আয়াতকে এক টানা কথা হিসেবে পড়ে আর সহজ ভাষায় অর্থ বলে দেয়: আমার ভাই হারূন কথা বলায় আমার চেয়ে প্রাঞ্জল। তাই তাঁকে আমার সাথে সাহায্যকারী করে পাঠান, যিনি আমাকে সত্য বলে সমর্থন করবেন। আমি ওদের যা বলব, তিনি আমার হয়ে তা ওদের কাছে পরিষ্কার করে দেবেন। আমি যখন বলব যে আমাকে ওদের কাছে পাঠানো হয়েছে, তখন ওরা আমাকে মিথ্যাবাদী বলবে, এ ভয় আমার আছে। জবাব আসে ২৮:৩৫ আয়াতে, যেখানে আল্লাহ ভাইকে দিয়ে তাঁর বাহু শক্ত করার কথা দেন। এ লেখা থাকবে চাওয়াটুকু নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clearer in Saying What He Means",
+          "bn": "মনের কথা খুলে বলায় পারদর্শী"
+        },
+        "p": [
+          {
+            "en": "Afsah is a comparative from fasaha, clarity and fluency of speech, and lisanan narrows it to the tongue. At-Tabari glosses the phrase as ahsanu bayanan 'amma yuridu an yubayyinahu: better at making plain what he wants to make plain. The Muyassar puts it as more eloquent in nutq, in the act of speaking. Neither turns the sentence into a judgement on Musa (AS). The comparison is his own, and it measures one skill against one task: making a message understood by a hostile court.",
+            "bn": "আফসাহ শব্দটি তুলনাবাচক, এসেছে ফাসাহা থেকে, যার মানে কথার স্পষ্টতা ও সাবলীলতা। লিসানা শব্দটা সেই গুণকে জিহ্বা বা মুখের কথায় বেঁধে দেয়। তাবারী বাক্যটির ব্যাখ্যা দেন এভাবে: আহসানু বায়ানান আম্মা ইউরীদু আন ইউবায়্যিনাহু, অর্থাৎ যা বোঝাতে চান তা বোঝানোয় তিনি বেশি দক্ষ। মুয়াসসার বলে, কথা বলায় তিনি বেশি প্রাঞ্জল। কেউই একে মূসা (আঃ)-এর উপর রায় বানান না। তুলনাটা তাঁর নিজের মুখের। আর সেটা একটিমাত্র কাজের সামনে একটিমাত্র দক্ষতার মাপ: বৈরী দরবারে বার্তাটা বোধগম্য করে তোলা।"
+          },
+          {
+            "en": "What stands out is the honesty of it. A man about to be sent to the most powerful ruler he knew does not inflate himself, and he does not shrink from the errand either. He states plainly what his brother does well, in his brother's favour, and asks that the gift be put to work. There is no rivalry in the words. Musa (AS) speaks of Harun's tongue the way one speaks of a tool the job needs, and he asks the One who sent him to supply it.",
+            "bn": "চোখে পড়ে এর সততা। দুনিয়ার সবচেয়ে ক্ষমতাধর শাসকের কাছে যাঁকে পাঠানো হচ্ছে, তিনি নিজেকে বড় করে দেখান না, আবার দায়িত্ব থেকে পিছিয়েও যান না। ভাই কোন কাজটা ভালো পারেন, ভাইয়ের পক্ষেই তা সোজাসুজি বলে দেন। তারপর চান, সেই গুণ কাজে লাগানো হোক। কথাগুলোয় কোনো রেষারেষি নেই। হারূন (আঃ)-এর বাকশক্তির কথা মূসা (আঃ) এমনভাবে বলেন, যেন কাজের জন্য দরকারি একটি হাতিয়ারের কথা বলছেন। আর যিনি তাঁকে পাঠাচ্ছেন, তাঁর কাছেই সেটা চেয়ে নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Ember in the Reports",
+          "bn": "বর্ণনায় এক টুকরো অঙ্গার"
+        },
+        "p": [
+          {
+            "en": "The verse gives no reason why Harun was the clearer speaker. Two of the fetched commentators supply one from a report. Ibn Kathir writes that there was a lathgha, a lisp, in the tongue of Musa (AS), because of the ember he took when he was given a choice between it and a date or a pearl; he took the ember and put it on his tongue, and a difficulty of expression came of it. Al-Baghawi says only that he spoke so because of the 'uqda, the knot, in his tongue from the ember placed in his mouth.",
+            "bn": "হারূন (আঃ) কেন বেশি স্পষ্টভাষী ছিলেন, আয়াত তার কোনো কারণ বলে না। যে তাফসীরগুলো দেখা হয়েছে, তার দুটিতে একটি বর্ণনা থেকে কারণ আনা হয়েছে। ইবন কাসীর লেখেন, মূসা (আঃ)-এর জিহ্বায় লাসগা ছিল, অর্থাৎ উচ্চারণে জড়তা। কারণ, তাঁকে একটি অঙ্গার আর একটি খেজুর বা মুক্তার মধ্যে বেছে নিতে দেওয়া হয়েছিল। তিনি অঙ্গারটি তুলে জিহ্বায় রাখেন, তাতে কথা প্রকাশে কাঠিন্য দেখা দেয়। বাগাভী শুধু এটুকু বলেন: মুখে অঙ্গার রাখার কারণে তাঁর জিহ্বায় যে উকদা বা গিঁট ছিল, সেজন্যই তিনি এ কথা বলেছিলেন।"
+          },
+          {
+            "en": "Neither gives a chain for it in this place, and neither grades it. It is a story the commentators carry, not something the Qur'an states, and it is reported here only as their report. Ibn Kathir ties it to the prayer in 20:27 to 20:32, where Musa (AS) asks that a knot be untied from his tongue so that people understand his speech, and that his brother Harun be made a helper from his family. The abridged English of Ibn Kathir words the scene differently from his Arabic, which sets the ember itself among the choices; this article follows the Arabic.",
+            "bn": "এখানে কেউই এর সনদ দেননি, মানও যাচাই করেননি। এটি তাফসীরকারদের বয়ে আনা একটি কাহিনি, কুরআনের নিজের কথা নয়। এ লেখায় তা কেবল তাঁদের বর্ণনা হিসেবেই আনা হলো। ইবন কাসীর এর সাথে জুড়ে দেন ২০:২৭ থেকে ২০:৩২ আয়াতের দোয়া। সেখানে মূসা (আঃ) চান তাঁর জিহ্বার গিঁট খুলে দেওয়া হোক, যাতে লোকে তাঁর কথা বোঝে, আর তাঁর পরিবার থেকে ভাই হারূনকে সাহায্যকারী বানানো হোক। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ দৃশ্যটা তাঁর আরবি মূল থেকে একটু ভিন্নভাবে বলে। আরবিতে অঙ্গারটাই বাছাইয়ের একটি বিকল্প, আর এ লেখা আরবিকেই অনুসরণ করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rid', the Helper at One's Back",
+          "bn": "রিদ্‌: পেছনে দাঁড়ানো সহায়"
+        },
+        "p": [
+          {
+            "en": "Fa-arsilhu ma'iya rid'an: so send him with me as a rid'. At-Tabari glosses it with one word, 'awnan, a help, and gives the same gloss from Mujahid by two routes and from Qatada. He then explains the word from the language: in the speech of the Arabs the rid' is the helper, and one says ard'atu fulanan 'ala amrihi, meaning I sufficed him and helped him in his affair. As-Sa'di gives a pair, mu'awinan wa musa'idan, one who assists and supports.",
+            "bn": "ফা আরসিলহু মাইয়া রিদ্‌আ: তাই তাঁকে আমার সাথে রিদ্‌ হিসেবে পাঠান। তাবারী এক শব্দে অর্থ বলেন: আওনান, সাহায্যকারী। একই অর্থ তিনি মুজাহিদ থেকে দুই সূত্রে আর কাতাদা থেকে বর্ণনা করেন। তারপর ভাষা থেকে শব্দটা বুঝিয়ে দেন। আরবদের কথায় রিদ্‌ মানে সহায়। বলা হয়, আরদা'তু ফুলানান আলা আমরিহী, অর্থাৎ অমুকের কাজে আমি তার পাশে দাঁড়িয়েছি, তার ভার লাঘব করেছি। সা'দী দুটি শব্দ পাশাপাশি রাখেন: মুআবিন ও মুসাইদ, যে সহযোগিতা করে আর পাশে থেকে সাহায্য করে।"
+          },
+          {
+            "en": "Ibn Kathir widens the gloss into three roles: a wazir, a helper, and someone who strengthens my cause. He reads the request through the prayer of Ta Ha and explains it there as asking for company in a great station, the burdens of prophethood and of a mission to an arrogant, tyrannical king. That description is of Pharaoh in the story the Qur'an tells. It names a ruler in the text and licenses nothing against any living person, people or state.",
+            "bn": "ইবন কাসীর অর্থটাকে তিনটি ভূমিকায় ছড়িয়ে দেন: উযীর, সাহায্যকারী, আর যিনি আমার কাজকে শক্তি দেন। সূরা তাহার দোয়ার আলোয় তিনি আবেদনটা পড়েন। সেখানে বলেন, এ ছিল এক বিরাট দায়িত্বে সঙ্গী চাওয়া: নবুওয়াতের বোঝা, আর এক অহংকারী, অত্যাচারী, একগুঁয়ে রাজার কাছে রিসালাত পৌঁছানোর ভার। এ বর্ণনা কুরআনে বলা কাহিনির ফিরআউনের। পাঠ্যের ভেতরের এক শাসকের কথা এটি। এতে আজকের কোনো জীবিত মানুষ, জাতি বা রাষ্ট্রের বিরুদ্ধে কিছুরই অনুমতি মেলে না।"
+          },
+          {
+            "en": "Al-Baghawi records a difference in how the word itself is read. Nafi' reads ridan, with the dal vowelled and no hamza, seeking lightness, while the others read rid'an, with the dal unvowelled and the hamza kept. The meaning does not change: both name a helper who stands behind and supports. The picture in the word is of someone at one's back, which is why a request for a rid' is a request for support rather than for a substitute.",
+            "bn": "শব্দটা কীভাবে পড়া হয়, তাতে একটি পার্থক্যের কথা বাগাভী লেখেন। নাফি পড়েন রিদান, দালে যবর দিয়ে, হামযা বাদ দিয়ে, উচ্চারণ হালকা করার জন্য। বাকিরা পড়েন রিদ্‌আন, দালে সাকিন আর হামযা রেখে। অর্থ বদলায় না। দুটো পাঠেই বোঝায় এমন সহায়, যে পেছনে দাঁড়িয়ে ভরসা দেয়। শব্দের ভেতরের ছবিটা পিঠের দিকে দাঁড়ানো একজন মানুষের। তাই রিদ্‌ চাওয়া মানে পাশে একজন সহায় চাওয়া, নিজের জায়গায় অন্য কাউকে বসানো নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Confirm, or to Explain",
+          "bn": "সত্যায়ন, নাকি বুঝিয়ে বলা"
+        },
+        "p": [
+          {
+            "en": "Yusaddiquni: he will confirm me. At-Tabari's own gloss is that he will make clear to them, on my behalf, what I address to them, and he gives it from Ibn Ishaq, who adds: for he understands what they do not. On that reading Harun (AS) carries Musa's words across to the hearers. Then at-Tabari lists others who read it as kay yusaddiqani, so that he confirms me: Ibn 'Abbas by two routes, and as-Suddi. Here Harun is a second voice saying the first is true.",
+            "bn": "ইউসাদ্দিকুনী: সে আমাকে সত্যায়ন করবে। তাবারীর নিজের ব্যাখ্যা হলো: আমি ওদের যা বলব, তিনি আমার হয়ে তা ওদের কাছে পরিষ্কার করে দেবেন। এ ব্যাখ্যা তিনি ইবন ইসহাক থেকে আনেন, যিনি যোগ করেন: কারণ ওরা যা বোঝে না, তিনি তা বোঝেন। এ পাঠে হারূন (আঃ) মূসা (আঃ)-এর কথা শ্রোতার কাছে পৌঁছে দেন। এরপর তাবারী অন্যদের মত আনেন, যাঁরা পড়েন কাই ইউসাদ্দিকানী, যাতে তিনি আমাকে সত্য বলে সমর্থন করেন: ইবন আব্বাস (রাঃ) দুই সূত্রে, আর সুদ্দী। এখানে হারূন (আঃ) দ্বিতীয় এক কণ্ঠ, যে বলে প্রথম কণ্ঠ সত্য।"
+          },
+          {
+            "en": "Why would a second voice matter? At-Tabari records, under qila, it is said, that Musa (AS) asked to be backed by his brother because when two agree on something good, the soul rests more easily in believing them than in believing the report of one. He gives it from Ibn Zayd: two are more likely to be believed than one. Ibn Kathir says the same in his own words, that the report of two is more effective in souls than the report of one, and as-Sa'di that truth grows stronger when reports agree.",
+            "bn": "দ্বিতীয় কণ্ঠের দরকার কেন? তাবারী 'কীলা', অর্থাৎ 'বলা হয়' শব্দে একটি মত আনেন: মূসা (আঃ) ভাইকে দিয়ে সমর্থন চেয়েছিলেন, কারণ ভালো কোনো কথায় দুজন একমত হলে একজনের খবরের চেয়ে তাঁদের কথা বিশ্বাস করতে মন বেশি স্বস্তি পায়। এ মত তিনি ইবন যায়দ থেকে আনেন: একজনের চেয়ে দুজনকে বিশ্বাস করার সম্ভাবনা বেশি। ইবন কাসীরও নিজের ভাষায় একই কথা বলেন: একজনের খবরের চেয়ে দুজনের খবর মনে বেশি দাগ কাটে। সা'দী বলেন, খবরগুলো মিলে গেলে সত্য আরও শক্ত হয়।"
+          },
+          {
+            "en": "Ibn Kathir keeps both lines together. He gives the confirming reading in his own gloss, a helper who confirms me in what I say and report from Allah, and then quotes Ibn Ishaq's explaining reading after it. Al-Baghawi adds that the confirming is Harun's by the saying of all, and then cites Muqatil for a different subject: so that Pharaoh may believe me. At-Tabari keeps the explaining and the confirming as two views; Ibn Kathir sets them side by side. On either, the help asked for serves the message, that it reach the hearer as it was sent.",
+            "bn": "ইবন কাসীর দুটো ধারাই একসাথে রাখেন। নিজের ব্যাখ্যায় তিনি সত্যায়নের অর্থ দেন: এমন সাহায্যকারী, যিনি আমি যা বলি আর আল্লাহর পক্ষ থেকে যা জানাই, তাতে আমাকে সত্য বলে সমর্থন করবেন। তার পরেই তিনি ইবন ইসহাকের বুঝিয়ে বলার অর্থটা উদ্ধৃত করেন। বাগাভী যোগ করেন, সত্যায়নটা যে হারূন (আঃ)-এর, এ ব্যাপারে সবাই একমত। তারপর মুকাতিলের এক ভিন্ন কর্তার কথা আনেন: যাতে ফিরআউন আমাকে বিশ্বাস করে। তাবারী বুঝিয়ে বলা আর সত্যায়নকে দুটি আলাদা মত হিসেবে রাখেন, ইবন কাসীর রাখেন পাশাপাশি। যে মতেই পড়া হোক, চাওয়া সাহায্যটা বার্তারই সেবা করে, যাতে বার্তা যেমন পাঠানো হয়েছে, তেমনি শ্রোতার কাছে পৌঁছায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Jussive or Indicative",
+          "bn": "শর্তের জবাব, নাকি বিশেষণ"
+        },
+        "p": [
+          {
+            "en": "The readers differ over the ending of yusaddiquni, and at-Tabari sets out both. The general body of readers of the Hijaz and of Basra read yusaddiqni, in the jussive. 'Asim and Hamza read it in the indicative, yusaddiquni. Whoever reads the indicative, at-Tabari says, makes the verb a description of the rid': send him with me as a helper whose quality is that he confirms me. Whoever reads the jussive makes it the answer to send him: if You send him, he will confirm me.",
+            "bn": "ইউসাদ্দিকুনী শব্দের শেষাংশ নিয়ে কারীদের মধ্যে পার্থক্য আছে, তাবারী দুটোই তুলে ধরেন। হিজায ও বসরার অধিকাংশ কারী পড়েন ইউসাদ্দিকনী, জযম দিয়ে। আসিম ও হামযা পড়েন পেশ দিয়ে, ইউসাদ্দিকুনী। তাবারী বলেন, যিনি পেশ দিয়ে পড়েন, তিনি ক্রিয়াটিকে রিদ্‌-এর বিশেষণ বানান: তাঁকে আমার সাথে এমন সহায় করে পাঠান, যাঁর গুণ হলো তিনি আমাকে সত্যায়ন করেন। আর যিনি জযম দিয়ে পড়েন, তিনি একে 'তাঁকে পাঠান' কথাটির জবাব বানান: আপনি তাঁকে পাঠালে তিনি আমাকে সত্যায়ন করবেন।"
+          },
+          {
+            "en": "At-Tabari states a preference: the indicative is the dearer of the two readings to him, because the verse is Musa's request to his Lord to send his brother as a help with this quality. Al-Baghawi reports the same two readings with a different account of the indicative. For him 'Asim and Hamza read it as a hal, a circumstance, meaning a helper confirming me, while the others read the jussive as the answer to the prayer. At-Tabari calls the indicative a description; al-Baghawi calls it a circumstance.",
+            "bn": "তাবারী নিজের পছন্দও জানান: দুই পাঠের মধ্যে পেশের পাঠই তাঁর কাছে বেশি প্রিয়। কারণ আয়াতটি রবের কাছে মূসা (আঃ)-এর আবেদন, যেন এই গুণসম্পন্ন সহায় হিসেবে তাঁর ভাইকে পাঠানো হয়। বাগাভীও একই দুটি পাঠ উল্লেখ করেন, তবে পেশের পাঠের ব্যাখ্যা দেন ভিন্নভাবে। তাঁর মতে আসিম ও হামযা একে হাল, অর্থাৎ অবস্থা হিসেবে পড়েন: আমাকে সত্যায়নকারী এক সহায়। আর বাকিরা জযম দিয়ে পড়েন দোয়ার জবাব হিসেবে। তাবারী পেশের পাঠকে বলেন বিশেষণ, বাগাভী বলেন অবস্থা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Second Fear He Voiced",
+          "bn": "মুখে আনা দ্বিতীয় ভয়"
+        },
+        "p": [
+          {
+            "en": "Inni akhafu an yukadhdhibun: I fear that they will deny me. At-Tabari spells out what the denial would be: I fear they will not believe me when I tell them, I have been sent to you. The Muyassar says the same. Al-Baghawi names who they are: Pharaoh and his people. Ibn Kathir links the fear to the request with a single word, wa-li-hadha, and for this he said it: the brother is asked for because the message might be refused.",
+            "bn": "ইন্নী আখাফু আন ইউকাযযিবূন: আমার ভয় হয়, ওরা আমাকে মিথ্যাবাদী বলবে। প্রত্যাখ্যানটা কী হতো, তাবারী তা খুলে বলেন: আমি যখন ওদের বলব, আমাকে তোমাদের কাছে পাঠানো হয়েছে, তখন ওরা আমার কথা বিশ্বাস করবে না, এ ভয় আমার। মুয়াসসারও একই কথা বলে। বাগাভী জানিয়ে দেন 'ওরা' কারা: ফিরআউন ও তার সম্প্রদায়। ইবন কাসীর এক শব্দে ভয়ের সাথে আবেদনটাকে জুড়ে দেন: ওয়া লিহাযা, এ কারণেই তিনি বললেন। অর্থাৎ ভাইকে চাওয়া হয়েছে, কারণ বার্তাটা প্রত্যাখ্যাত হতে পারে।"
+          },
+          {
+            "en": "Set beside 28:33, the two fears differ. The first is for his life; the second is for the message, that it might be called a lie. He voices both to Him who is sending him, and in neither does he decline the errand. The fear and the request travel together: he names what he is afraid of and asks for what would meet it. None of the fetched commentaries attaches a hadith to this verse, and this article cites none.",
+            "bn": "২৮:৩৩ আয়াতের পাশে রাখলে দুই ভয়ের পার্থক্য চোখে পড়ে। প্রথমটা প্রাণের ভয়। দ্বিতীয়টা বার্তার জন্য, পাছে তাকে মিথ্যা বলে উড়িয়ে দেওয়া হয়। দুটো ভয়ই তিনি খুলে বলেন যিনি পাঠাচ্ছেন তাঁর কাছে, আর কোনোটিতেই দায়িত্ব ফিরিয়ে দেন না। ভয় আর আবেদন হাত ধরাধরি করে চলে। কীসের ভয়, তা তিনি বলেন, আর সেই ভয়ের মোকাবিলায় যা দরকার, তা চেয়ে নেন। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সাথে কোনো হাদীস যুক্ত করেনি। এ লেখাও কোনো হাদীস আনছে না।"
+          },
+          {
+            "en": "The request was granted. Ibn Kathir's abridged English, reading 28:33 to 28:35 together, points to 20:36, you have been granted your request, O Musa, and to 19:53, We granted him out of Our mercy his brother Harun, a prophet. He then quotes one of the early generations: no one has ever done his brother a greater favour than Musa did for Harun, for he interceded for him until Allah made him a prophet and a messenger with him to Pharaoh and his chiefs.",
+            "bn": "আবেদন কবুল হয়েছিল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ২৮:৩৩ থেকে ২৮:৩৫ একসাথে পড়ে দুটি আয়াতের দিকে ইঙ্গিত করে: ২০:৩৬, হে মূসা, তোমার চাওয়া তোমাকে দেওয়া হলো; আর ১৯:৫৩, আমি নিজ রহমতে তাকে দান করলাম তার ভাই হারূনকে, নবী হিসেবে। তারপর তিনি প্রথম যুগের একজনের কথা উদ্ধৃত করেন: ভাইয়ের প্রতি মূসা (আঃ) হারূন (আঃ)-এর জন্য যে উপকার করেছেন, এর চেয়ে বড় উপকার কেউ কখনো করেনি। তিনি তাঁর জন্য সুপারিশ করেছিলেন, শেষে আল্লাহ তাঁকে নবী ও রাসূল বানিয়ে তাঁর সাথে ফিরআউন ও তার সভাসদদের কাছে পাঠালেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeing the Gift in Another",
+          "bn": "অন্যের গুণ চিনে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws one practical point from the phrase more eloquent than me in tongue: it shows that a high degree of eloquence and good speaking is desirable in sermons and preaching, and that there is no harm in training for it. The point is modest and useful. Clarity is not vanity. A message from Allah deserves to be put well, and the effort to speak clearly is part of carrying it, not a distraction from it.",
+            "bn": "আফসাহু মিন্নী লিসানা কথাটি থেকে মাআরিফুল কুরআন একটি ব্যবহারিক শিক্ষা বের করে: ওয়াজ ও দাওয়াতে উঁচু মানের বাগ্মিতা ও সুন্দর বাচনভঙ্গি কাম্য, আর এর জন্য প্রশিক্ষণ নিতেও দোষ নেই। কথাটা ছোট, কিন্তু কাজের। স্পষ্ট করে বলা অহংকার নয়। আল্লাহর বার্তা সুন্দর করে পৌঁছানোরই যোগ্য। স্পষ্ট কথা বলার চেষ্টা সেই বার্তা বহনেরই অংশ, তা থেকে মনোযোগ সরিয়ে নেওয়া নয়।"
+          },
+          {
+            "en": "The larger lesson is in how Musa (AS) asked. He looked honestly at a task and at himself, saw in his brother a gift suited to it, and said so without envy. He did not treat asking for help as a failure of faith; he brought the request to Allah, the One who had given him the task. Recognising another's gift is a form of honesty, and asking for that gift to stand beside you is a form of humility.",
+            "bn": "বড় শিক্ষাটা মূসা (আঃ)-এর চাওয়ার ধরনে। তিনি কাজটার দিকে আর নিজের দিকে সৎ চোখে তাকিয়েছেন। ভাইয়ের মধ্যে সেই কাজের উপযোগী একটি গুণ দেখেছেন, আর কোনো হিংসা ছাড়াই তা মুখে বলেছেন। সাহায্য চাওয়াকে তিনি ঈমানের দুর্বলতা মনে করেননি। চাওয়াটা নিয়ে গেছেন আল্লাহর কাছে, যিনি তাঁকে দায়িত্ব দিয়েছেন। অন্যের গুণ স্বীকার করা এক রকম সততা। আর সেই গুণকে পাশে চেয়ে নেওয়া এক রকম বিনয়।"
+          },
+          {
+            "en": "For a reader today the verse asks two quiet questions. Is there work I am carrying alone, out of pride or habit, that would go better with someone beside me? And can I name, plainly and gladly, what the people near me do better than I do? A colleague, a sibling, a friend may be the rid' a task needs. Asking for that help, and thanking Allah when it comes, follows the pattern this verse records.",
+            "bn": "আজকের পাঠকের সামনে আয়াতটি নীরবে দুটি প্রশ্ন রাখে। এমন কোনো কাজ কি আমি অহংকারে বা অভ্যাসে একা বয়ে চলেছি, যা পাশে কেউ থাকলে ভালো হতো? আর আমার আশপাশের মানুষেরা কোন কাজ আমার চেয়ে ভালো পারে, তা কি সোজাসুজি, খুশি মনে বলতে পারি? একজন সহকর্মী, ভাই বা বোন, কিংবা বন্ধু হতে পারে সেই রিদ্‌, যা কোনো কাজের দরকার। সেই সাহায্য চাওয়া আর তা এলে আল্লাহর শুকরিয়া আদায় করা, এ আয়াতে বর্ণিত পথেরই অনুসরণ।"
+          }
+        ]
+      }
+    ]
+  },
   "28:41-42": {
     "sections": [
       {
