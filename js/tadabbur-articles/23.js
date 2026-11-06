@@ -3923,6 +3923,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:110": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Charge After the Plea",
+          "bn": "মিনতির পরে অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "The verse opens with a small letter that carries the whole scene: fa, and so. A moment before, the people of the Fire have begged to be brought out (23:107) and have been told to remain there despised and not to speak (23:108). Then God turns to what they did with a group of His servants who used to say: Our Lord, we have believed, so forgive us and have mercy on us, and You are the best of the merciful (23:109). Fa-ttakhadhtumuhum sikhriyyan: but you took them as an object of ridicule.",
+            "bn": "আয়াতের শুরুতেই ছোট্ট একটি অক্ষর, ফা, অর্থাৎ অতঃপর। পুরো দৃশ্য এর উপর ভর দিয়ে দাঁড়িয়ে। একটু আগেই জাহান্নামীরা কাকুতি-মিনতি করেছে, তাদের যেন বের করে আনা হয় (২৩:১০৭)। জবাবে তাদের বলা হয়েছে, ধিকৃত অবস্থায় সেখানেই পড়ে থাকো, আমার সঙ্গে কথা বোলো না (২৩:১০৮)। এবার আল্লাহ তাঁর একদল বান্দার কথা তোলেন, যারা বলত: হে আমাদের রব, আমরা ঈমান এনেছি, আমাদের ক্ষমা করুন, রহম করুন, আপনিই শ্রেষ্ঠ দয়ালু (২৩:১০৯)। তারপর আসে এই বাক্য: ফাত্তাখাযতুমূহুম সিখরিয়্যা, কিন্তু তোমরা তাদের বানিয়েছিলে ঠাট্টার পাত্র।"
+          },
+          {
+            "en": "At-Tabari fixes both sides of the sentence. The you are those who now plead, our Lord, our wretchedness overcame us and we were a people astray. The them, he says, the ha and mim of fa-ttakhadhtumuhum, refer to the fariq, the party who used to pray for forgiveness and mercy in the world. So the verse is not a general remark about ridicule. It is a charge read out to particular people about a particular group, and the thing they laughed at is named in the verse just before it: a prayer.",
+            "bn": "বাক্যের দুই পক্ষকেই তাবারী চিহ্নিত করে দেন। 'তোমরা' হলো তারা, যারা এখন মিনতি করছে: হে আমাদের রব, দুর্ভাগ্য আমাদের পরাস্ত করেছিল, আমরা ছিলাম পথভ্রষ্ট জাতি। আর 'তাদের' বলতে, তাঁর ভাষায় ফাত্তাখাযতুমূহুম শব্দের হা ও মীম, বোঝায় সেই ফারীক বা দলকে, যারা দুনিয়ায় ক্ষমা ও রহমতের জন্য দোয়া করত। কাজেই আয়াতটি ঠাট্টা নিয়ে কোনো সাধারণ মন্তব্য নয়। নির্দিষ্ট কিছু মানুষের সামনে নির্দিষ্ট এক দল সম্পর্কে পড়ে শোনানো অভিযোগ এটি। আর তারা কী নিয়ে হাসত, তা ঠিক আগের আয়াতেই বলা আছে: একটি দোয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Vowels on One Word",
+          "bn": "এক শব্দে দুই স্বরচিহ্ন"
+        },
+        "p": [
+          {
+            "en": "The reciters did not agree on the first vowel of the key word. Al-Qurtubi reports that Nafi', Hamza and al-Kisa'i read sukhriyyan, with a damma, here and in Surah Sad, and that the rest read sikhriyyan, with a kasra. Al-Baghawi gives the same split, naming the people of Madina with Hamza and al-Kisa'i for the damma, and adds one detail: all of them agreed on the damma in Surah az-Zukhruf, where 43:32 speaks of people raised above one another in rank so that some take others into service.",
+            "bn": "মূল শব্দটির প্রথম স্বরচিহ্ন নিয়ে কারীরা একমত হননি। কুরতুবী জানান, নাফি', হামযা ও কিসাঈ এখানে এবং সূরা সাদে পড়েছেন পেশ দিয়ে, সুখরিয়্যা। বাকিরা পড়েছেন যের দিয়ে, সিখরিয়্যা। বাগাভীও একই ভাগ দেখান। পেশের পক্ষে তিনি মদীনাবাসীদের সঙ্গে হামযা ও কিসাঈর নাম নেন। সঙ্গে একটি তথ্য যোগ করেন: সূরা যুখরুফে সবাই পেশ পড়েছেন। সেখানে ৪৩:৩২ আয়াতে বলা হয়েছে, আল্লাহ মানুষকে মর্যাদায় একে অন্যের উপরে রেখেছেন, যাতে একে অন্যকে কাজে খাটাতে পারে।"
+          },
+          {
+            "en": "At-Tabari draws the map of the readers a little differently. The kasra, he says, was read by some readers of the Hijaz and some of Basra and Kufa, and the damma by most readers of Madina and Kufa. His own verdict is unusually firm: these are two well-known readings and two known dialects with a single meaning, each read by learned reciters, so whichever one a reciter uses, he is correct. He backs this with pairs that some had heard from the Arabs in both vowels, such as lujjiyy and dirriyy, and kursiyy as well.",
+            "bn": "কারীদের এই বিভাজন তাবারী আঁকেন একটু ভিন্নভাবে। তাঁর বর্ণনায় যের পড়েছেন হিজাযের কিছু কারী এবং বসরা ও কূফার কিছু কারী, আর পেশ পড়েছেন মদীনা ও কূফার অধিকাংশ কারী। তাঁর নিজের রায় বেশ দৃঢ়। দুটোই প্রসিদ্ধ কিরাআত, দুটোই পরিচিত আঞ্চলিক রূপ, অর্থ একটাই। বিজ্ঞ কারীরা দুটোই পড়েছেন, তাই যে-কোনোটি পড়লেই পাঠক সঠিক। প্রমাণ হিসেবে তিনি এমন কিছু শব্দজোড়ার কথা আনেন, যা কেউ কেউ আরবদের মুখে শুনেছেন এবং যা দুই স্বরেই চলে, যেমন লুজ্জিয়্য, দুররিয়্য, আর কুরসিয়্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mockery, or Forced Service",
+          "bn": "বিদ্রূপ, নাকি বেগার খাটানো"
+        },
+        "p": [
+          {
+            "en": "Behind the vowels lay a question of meaning. Al-Qurtubi relays from an-Nahhas that Abu 'Amr separated the two, taking the kasra as mockery and the damma as sukhra, forced service, and that al-Khalil, Sibawayh, al-Kisa'i and al-Farra' did not know of such a distinction. Al-Qurtubi then quotes al-Kisa'i calling them two dialects with one meaning. Al-Mubarrad adds a principle: distinctions of meaning are taken from the Arabs and cannot be made by interpretation. The passage goes on to say that the kasra serves both meanings, since the damma is heavy in such a word.",
+            "bn": "স্বরচিহ্নের পেছনে ছিল অর্থের প্রশ্ন। কুরতুবী নাহহাসের সূত্রে জানান, আবু আমর দুটোকে আলাদা করতেন। তাঁর মতে যের মানে বিদ্রূপ, আর পেশ মানে সুখরা, অর্থাৎ জোর করে খাটানো। নাহহাস বলেন, খলীল, সিবাওয়াইহ, কিসাঈ বা ফাররা কেউই এমন পার্থক্যের কথা জানতেন না। এরপর কুরতুবী কিসাঈর কথা উদ্ধৃত করেন: এ দুটো একই অর্থের দুই আঞ্চলিক রূপ। মুবাররাদ একটি মূলনীতি যোগ করেন: অর্থের পার্থক্য নিতে হয় আরবদের মুখ থেকে, ব্যাখ্যা দিয়ে তা বানানো যায় না। আলোচনার শেষে বলা হয়েছে, দুই অর্থেই যের চলে, কারণ এমন শব্দে পেশ উচ্চারণে ভারী।"
+          },
+          {
+            "en": "Yet the same distinction returns under other names. Al-Qurtubi notes that ath-Tha'labi related it from al-Kisa'i and al-Farra' themselves: the kasra is ridicule by word, the damma is subjugation and enslavement by deed. Al-Baghawi reports it from the same two, while giving al-Khalil the view that they are simply two dialects. At-Tabari, who held one meaning, still recorded Ibn Zayd saying the two words differ: one is making people serve you, as in 43:32, the other is mocking them, as the people of Nuh (AS) mocked him (11:38).",
+            "bn": "তবু সেই পার্থক্য অন্য নামে আবার ফিরে আসে। কুরতুবী জানান, সা'লাবী এটি বর্ণনা করেছেন খোদ কিসাঈ ও ফাররা থেকে: যের মানে কথা দিয়ে বিদ্রূপ, আর পেশ মানে কাজের মাধ্যমে বশ করা ও দাস বানানো। বাগাভীও একই দুজনের সূত্রে এটি আনেন, তবে খলীলের মত হিসেবে বলেন, এ দুটো স্রেফ দুই আঞ্চলিক রূপ। তাবারী নিজে এক অর্থের পক্ষে থেকেও ইবন যায়দের কথা লিখে রেখেছেন। ইবন যায়দ বলতেন, শব্দ দুটো আলাদা। একটির অর্থ মানুষকে নিজের কাজে খাটানো, যেমন ৪৩:৩২ আয়াতে। অন্যটির অর্থ তাদের নিয়ে ঠাট্টা করা, যেমন নূহ (আঃ)-এর কওম তাঁকে নিয়ে করেছিল (১১:৩৮)।"
+          },
+          {
+            "en": "The disagreement is real, and it is best left open. What the commentators share is the scene itself. On every account the believers were held cheap, and al-Baghawi's gloss on the next phrase even keeps both senses together: your preoccupation with mocking them and with taskhir, putting them to forced use, made you forget. Whether the word meant laughing at them, using them, or both, the attitude underneath is the same. These people were treated as if they did not count.",
+            "bn": "মতভেদটা সত্যিকারের, আর সেটা খোলা রাখাই ভালো। তবে দৃশ্যটা নিয়ে তাফসীরকারেরা একমত। সব বর্ণনাতেই মুমিনদের তুচ্ছ করা হয়েছিল। বাগাভী তো পরের অংশের ব্যাখ্যায় দুই অর্থই একসঙ্গে রেখে দেন: তাদের নিয়ে ঠাট্টায় আর তাসখীরে, অর্থাৎ তাদের দিয়ে বেগার খাটানোয় মেতে থাকাই তোমাদের ভুলিয়ে দিয়েছিল। শব্দটির অর্থ হাসাহাসি হোক, খাটানো হোক, কিংবা দুটোই, ভেতরের মনোভাব একই। এই মানুষগুলোকে এমনভাবে দেখা হতো, যেন তাদের কোনো দামই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made to Forget by Them",
+          "bn": "তারাই কি ভুলিয়ে দিল"
+        },
+        "p": [
+          {
+            "en": "Then comes the strangest phrase in the verse: hatta ansawkum dhikri, until they made you forget My remembrance. Grammatically the believers are the subject: they made you forget. Yet the believers had done nothing but pray. Al-Qurtubi meets the question directly. God attributed the making-forget to the believers, he says, because they were the cause of the mockers being busied away from His remembrance. The believers did no act that caused the forgetting; the mockers' fixation on them did.",
+            "bn": "এরপর আয়াতের সবচেয়ে বিস্ময়কর অংশ: হাত্তা আনসাওকুম যিকরী, শেষে তারা তোমাদের আমার স্মরণ ভুলিয়ে দিল। ব্যাকরণের দিক থেকে ভুলিয়ে দেওয়ার কাজটা মুমিনদের। অথচ মুমিনরা দোয়া করা ছাড়া আর কিছুই করেনি। কুরতুবী প্রশ্নটার সরাসরি জবাব দেন। আল্লাহ ভুলিয়ে দেওয়ার কাজ মুমিনদের দিকে সম্পৃক্ত করেছেন, কারণ ঠাট্টাকারীরা তাদের নিয়েই মেতে থেকে আল্লাহর জিকির থেকে সরে গিয়েছিল। মুমিনদের কোনো কাজে ভুলে যাওয়া ঘটেনি। ঘটেছে তাদের প্রতি ঠাট্টাকারীদের মোহগ্রস্ত মনোযোগে।"
+          },
+          {
+            "en": "The other commentators describe the same mechanism in their own words. At-Tabari: your mockery of them never let up, and that doing of yours made you forget My remembrance; it distracted you from it, alhakum 'anhu. He reports Ibn Zayd saying that their mockery of the believers, and their laughing at them, made these people forget God. The Muyassar is plainest of all: you busied yourselves with mocking them until you forgot the remembrance of God, and so you stayed in your denial.",
+            "bn": "অন্য তাফসীরকারেরাও নিজের ভাষায় একই প্রক্রিয়ার কথা বলেন। তাবারীর ভাষায়: তাদের নিয়ে তোমাদের ঠাট্টা কখনো থামেনি। তোমাদের সেই কাজই তোমাদের আমার জিকির ভুলিয়ে দিয়েছে, তা থেকে উদাসীন করে রেখেছে, আলহাকুম আনহু। তিনি ইবন যায়দের কথাও আনেন: মুমিনদের নিয়ে ঠাট্টা আর তাদের দেখে হাসাহাসিই এদের আল্লাহকে ভুলিয়ে দিয়েছিল। মুয়াসসারের কথা সবচেয়ে সোজা: তোমরা তাদের নিয়ে ঠাট্টায় এতটাই মেতে ছিলে যে আল্লাহর জিকির ভুলে গেলে, আর তাই মিথ্যা বলে প্রত্যাখ্যান করার উপরেই রয়ে গেলে।"
+          },
+          {
+            "en": "Ibn Kathir names a different engine. In his words, your hatred of them, bughdukum, carried you to the point of forgetting My dealings with you, which the English abridgement renders as what I would do to you. On this reading the mockery was the outward face of a dislike, and what the dislike crowded out was the thought of God's reckoning. So the emphases differ: at-Tabari and the Muyassar point to the occupation, Ibn Kathir to the hatred beneath it.",
+            "bn": "ইবন কাসীর এর পেছনে অন্য এক চালিকাশক্তির নাম নেন। তাঁর ভাষায়, তাদের প্রতি তোমাদের বিদ্বেষ, বুগদুকুম, তোমাদের এমন জায়গায় নিয়ে গেছে যে তোমরা আমার সঙ্গে তোমাদের লেনদেনের কথা ভুলে গেছ। ইংরেজি সংক্ষিপ্ত সংস্করণে কথাটা এসেছে এভাবে: আমি তোমাদের সঙ্গে কী করব, তা ভুলে গেছ। এই পাঠে ঠাট্টা ছিল ভেতরের এক বিরাগের বাইরের চেহারা। আর সেই বিরাগ মন থেকে সরিয়ে দিয়েছিল আল্লাহর হিসাবের চিন্তা। জোরটা তাই আলাদা জায়গায়। তাবারী ও মুয়াসসার দেখান ব্যস্ততার দিকে, ইবন কাসীর তার নিচের বিদ্বেষের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Feeding the Other",
+          "bn": "একটি অন্যটিকে বাড়ায়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di sees the movement running both ways. What brought on their forgetting of the remembrance, he says, was their being taken up with mocking the believers, just as their forgetting of the remembrance urged them on to mock: kull min al-amrayn yumiddu l-akhar, each of the two feeds the other. Mockery makes room for forgetting, and forgetting makes room for more mockery. He closes with a question that is close to a cry: is there any audacity beyond this audacity?",
+            "bn": "সা'দী দেখেন, স্রোতটা দুই দিকেই বয়। তাঁর মতে, জিকির ভুলে যাওয়ার কারণ ছিল মুমিনদের নিয়ে ঠাট্টায় মেতে থাকা। আবার জিকির ভুলে যাওয়াই তাদের আরও ঠাট্টায় উসকে দিত। তাঁর ভাষায়, কুল্লুম মিনাল আমরাইনি ইউমিদ্দুল আখার: দুটোর প্রত্যেকটি অন্যটিকে রসদ জোগায়। ঠাট্টা ভুলে যাওয়ার পথ খোলে, ভুলে যাওয়া আরও ঠাট্টার পথ খোলে। শেষে তিনি এমন এক প্রশ্ন রাখেন, যা প্রায় আর্তনাদের মতো শোনায়: এর চেয়ে বড় দুঃসাহস আর কী হতে পারে?"
+          },
+          {
+            "en": "Al-Qurtubi traces where the loop led. The ill omen, shu'm, of their mockery of the believers, he writes, spread onward until disbelief took hold of their hearts. Set side by side, the two readings give a sober picture. Ridicule is not idle. It fills the hours and sharpens a dislike; the dislike pushes out the thought of God, and the emptied space invites more ridicule, until the one who began by laughing at a prayer is left with no remembrance of his own.",
+            "bn": "চক্রটা কোথায় গিয়ে ঠেকে, কুরতুবী তা দেখিয়ে দেন। তিনি লেখেন, মুমিনদের নিয়ে ঠাট্টার অশুভ পরিণাম, শু'ম, ক্রমে ছড়িয়ে পড়েছিল, শেষে কুফর তাদের অন্তর দখল করে নেয়। দুই ব্যাখ্যা পাশাপাশি রাখলে ছবিটা গম্ভীর হয়ে ওঠে। বিদ্রূপ নিছক সময় কাটানো নয়। তা সময় খেয়ে ফেলে, বিরাগকে ধারালো করে। বিরাগ আল্লাহর চিন্তাকে ঠেলে বের করে, আর খালি জায়গা আরও বিদ্রূপ ডেকে আনে। এভাবে যে লোক একটি দোয়া নিয়ে হাসতে শুরু করেছিল, শেষে তার নিজের কোনো জিকিরই আর বাকি থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Found Laughable",
+          "bn": "যা তাদের কাছে হাসির ছিল"
+        },
+        "p": [
+          {
+            "en": "The last clause, wa kuntum minhum tadhakun, and you used to laugh at them, sets the laughter in a continuing past: it was a habit, not a moment. Ibn Kathir says what it was aimed at: their deeds and their worship. Earlier in the verse he has already named the target of the mockery: you mocked them fi du'a'ihim iyyaya wa tadarru'ihim ilayya, in their calling upon Me and their humble pleading with Me. Al-Qurtubi glosses the laughter simply as istihza'an bihim, in ridicule of them.",
+            "bn": "শেষ অংশ, ওয়া কুনতুম মিনহুম তাদহাকূন, আর তোমরা তাদের নিয়ে হাসতে। হাসিটা এখানে চলমান অতীতে, অর্থাৎ এক মুহূর্তের নয়, অভ্যাসের ব্যাপার। ইবন কাসীর বলে দেন হাসির নিশানা কী ছিল: তাদের আমল আর তাদের ইবাদত। এর আগেই তিনি ঠাট্টার লক্ষ্যও চিহ্নিত করেছেন। তোমরা তাদের নিয়ে ঠাট্টা করতে ফী দুআইহিম ইয়্যায়া ওয়া তাদাররুইহিম ইলাইয়া, অর্থাৎ আমাকে তাদের ডাকা আর আমার কাছে তাদের কাতর মিনতি নিয়ে। কুরতুবী হাসির ব্যাখ্যা দেন ছোট্ট করে: ইসতিহযাআন বিহিম, তাদের বিদ্রূপ করে।"
+          },
+          {
+            "en": "As-Sa'di turns the scale of the scene upside down. He calls these believers sadat an-nas wa fudala'uhum, the masters of humankind and the best of them, and he names their mockers as base disbelievers, lacking in mind and judgement, who despised them. The prayer they laughed at was a request for forgiveness and mercy, and it is the very plea the surah gives the Prophet ﷺ to make in its closing verse (23:118). What the mockers found laughable was what the surah ends by teaching.",
+            "bn": "সা'দী দৃশ্যের মাপকাঠিই উল্টে দেন। এই মুমিনদের তিনি বলেন সাদাতুন নাস ওয়া ফুদালাউহুম, মানুষের নেতা ও তাদের মধ্যে শ্রেষ্ঠ। আর ঠাট্টাকারীদের তিনি বলেন হীন কাফির, বুদ্ধি ও বিবেচনায় খাটো, যারা এদের তুচ্ছ জ্ঞান করত। যে দোয়া নিয়ে তারা হাসত, তা ছিল ক্ষমা ও রহমতের প্রার্থনা। সূরাটি তার শেষ আয়াতে নবী ﷺ-কে ঠিক এই প্রার্থনাই করতে শিখিয়েছে (২৩:১১৮)। ঠাট্টাকারীদের কাছে যা হাসির বিষয় ছিল, সূরা শেষ হয় সেটাই শিক্ষা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bilal, Khabbab and Others",
+          "bn": "বিলাল, খাব্বাব ও অন্যরা"
+        },
+        "p": [
+          {
+            "en": "Who were the believers laughed at? At-Tabari, as seen, answers from the verse itself: the party who prayed. Al-Baghawi alone, among the commentators read for this verse, attaches names, and he relays them from Muqatil: it was revealed about Bilal, 'Ammar, Khabbab, Suhayb, Salman and the poor among the Companions, whom the disbelievers of Quraysh used to mock. Al-Baghawi gives Muqatil's statement without a chain, and none of the other commentators read here repeats it.",
+            "bn": "যাদের নিয়ে হাসা হতো, তারা কারা? আগেই দেখা গেছে, তাবারী জবাব দেন আয়াত থেকেই: সেই দল, যারা দোয়া করত। এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার মধ্যে কেবল বাগাভী নাম উল্লেখ করেন, আর তা মুকাতিলের সূত্রে। মুকাতিল বলেন, আয়াতটি নাযিল হয়েছে বিলাল, আম্মার, খাব্বাব, সুহাইব, সালমান এবং দরিদ্র সাহাবীদের ব্যাপারে, কুরাইশের কাফিররা যাদের নিয়ে ঠাট্টা করত। বাগাভী মুকাতিলের কথাটি কোনো সনদ ছাড়া এনেছেন। আর এখানে পড়া অন্য কোনো তাফসীরকার তা পুনরায় উল্লেখ করেননি।"
+          },
+          {
+            "en": "So the names are best held as an illustration rather than a boundary. They show the kind of people the verse has in view, as Muqatil describes them: the poor among the Companions, mocked by the disbelievers of Quraysh. But the verse speaks of a fariq min 'ibadi, a party of My servants, and it sets the charge on the Day against all who did this. The names do not fence it in. It reaches anyone who has laughed at another person's turning to God.",
+            "bn": "তাই নামগুলোকে সীমারেখা নয়, উদাহরণ হিসেবে দেখাই ভালো। মুকাতিলের বর্ণনা থেকে বোঝা যায়, আয়াতের সামনে কেমন মানুষ: দরিদ্র সাহাবীরা, যাদের নিয়ে কুরাইশের কাফিররা ঠাট্টা করত। কিন্তু আয়াত বলছে ফারীকুম মিন ইবাদী, আমার বান্দাদের একটি দল। আর কিয়ামতের দিনের এই অভিযোগ তাদের সবার বিরুদ্ধে, যারা এমন করেছে। নামগুলো আয়াতকে বেঁধে রাখে না। কেউ আল্লাহর দিকে ফিরলে যে তাকে নিয়ে হেসেছে, এ অভিযোগ তার কাছেও পৌঁছায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking Down on a Brother",
+          "bn": "ভাইকে তুচ্ছ জ্ঞান করা"
+        },
+        "p": [
+          {
+            "en": "None of the commentators read for this verse attaches a hadith to it. A sound report speaks to the attitude the verse condemns, and it is given here for its theme, not as a hadith on 23:110. Sahih Muslim records from Abu Hurayra (RA) that the Messenger of Allah ﷺ forbade nursing grudges, outbidding to raise a price, aversion and enmity, and selling over another's sale, and said: be as fellow-brothers and servants of Allah.",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীরকার এর সঙ্গে কোনো হাদীস যুক্ত করেননি। তবে আয়াত যে মনোভাবের নিন্দা করে, সে বিষয়ে একটি সহীহ বর্ণনা আছে। এখানে সেটি আনা হলো বিষয়ের মিলের জন্য, ২৩:১১০-এর হাদীস হিসেবে নয়। সহীহ মুসলিমে আবু হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ হিংসা পুষে রাখতে, দাম বাড়ানোর জন্য মিছেমিছি দর হাঁকতে, বিদ্বেষ ও শত্রুতা রাখতে এবং অন্যের বেচাকেনার উপর বেচাকেনা করতে নিষেধ করেছেন। আর বলেছেন: তোমরা আল্লাহর বান্দা হয়ে ভাই ভাই হয়ে থাকো।"
+          },
+          {
+            "en": "He went on: A Muslim is the brother of a Muslim. He neither oppresses him nor humiliates him nor looks down upon him. Piety is here, and he pointed to his chest three times. It is a serious evil for a Muslim that he should look down upon his brother Muslim. All things of a Muslim are inviolable for his brother in faith: his blood, his wealth and his honour. The verse's mockers were disbelievers; the hadith turns the same warning on believers, who are no safer from contempt.",
+            "bn": "তিনি আরও বলেছেন: মুসলিম মুসলিমের ভাই। সে তার উপর জুলুম করে না, তাকে অপদস্থ করে না, তাকে তুচ্ছ জ্ঞান করে না। তাকওয়া এখানে, এই বলে তিনি তিনবার নিজের বুকের দিকে ইশারা করলেন। কোনো মানুষের মন্দ হওয়ার জন্য এটুকুই যথেষ্ট যে সে তার মুসলিম ভাইকে তুচ্ছ জ্ঞান করে। এক মুসলিমের সবকিছু অন্য মুসলিমের জন্য হারাম: তার রক্ত, তার সম্পদ, তার সম্মান। আয়াতের ঠাট্টাকারীরা ছিল কাফির। হাদীসটি সেই একই সতর্কবাণী মুমিনদের দিকে ফেরায়, কারণ তুচ্ছ করার অভ্যাস থেকে তারাও নিরাপদ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Laugh That Empties",
+          "bn": "যে হাসি ভেতরটা খালি করে"
+        },
+        "p": [
+          {
+            "en": "The verse is spoken to people in the Fire, and it describes what they did: disbelievers who mocked a party of believers. It licenses nothing against any living person or community, and gives no one a warrant to name today's mockers and place them in this scene. Its use for the reader is as a mirror. The mechanism it lays bare, contempt that occupies the heart until God is forgotten, does not wait for disbelief before it starts to work.",
+            "bn": "আয়াতটি বলা হচ্ছে জাহান্নামবাসীদের উদ্দেশে, আর তা বর্ণনা করে তাদের কাজ: কিছু কাফির একদল মুমিনকে নিয়ে ঠাট্টা করত। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের ঠাট্টাকারীদের নাম ধরে এই দৃশ্যে বসিয়ে দেওয়ার অধিকারও কাউকে দেয় না। পাঠকের কাছে এর কাজ আয়নার। আয়াত যে প্রক্রিয়াটা খুলে দেখায়, অবজ্ঞা অন্তর দখল করে নেয় আর আল্লাহ ভুলে যাওয়া হয়, তা চালু হতে কুফরের অপেক্ষা করে না।"
+          },
+          {
+            "en": "Mockery of the religious is a live temptation, and it seldom feels like a sin while it is happening. It arrives as a joke about someone's earnestness, a raised eyebrow at a long prayer, an impression of a pious relative, a clip passed on for a laugh. The commentators' reading suggests the cost lands first on the person laughing. Time spent on someone else's devotion is time taken from your own, and a dislike indulged leaves less room for the thought of God.",
+            "bn": "দ্বীনদার মানুষকে নিয়ে ঠাট্টা আজও জীবন্ত এক প্রলোভন। আর ঠাট্টার মুহূর্তে কাজটা কদাচিৎ গুনাহ বলে মনে হয়। তা আসে কারও আন্তরিকতা নিয়ে রসিকতায়, লম্বা নামাজ দেখে ভুরু কোঁচকানোয়, কোনো পরহেজগার আত্মীয়ের নকল করায়, কিংবা হাসির জন্য কোনো ভিডিও এগিয়ে দেওয়ায়। তাফসীরকারদের ব্যাখ্যা ইঙ্গিত দেয়, ক্ষতিটা প্রথমে পড়ে যে হাসে তার উপরেই। অন্যের ইবাদত নিয়ে কাটানো সময় নিজের ইবাদতের সময় থেকেই কাটা যায়। আর প্রশ্রয় পাওয়া বিরাগ আল্লাহর চিন্তার জায়গা কমিয়ে দেয়।"
+          },
+          {
+            "en": "The practical turn is simple. When I catch myself enjoying a laugh at someone's prayer, dress or simplicity, the verse asks what that laugh is doing to my own remembrance. Stay out of such talk, or turn it. Where I disagree with how someone practises, say so with respect, or let it be. And keep making the very prayer that was mocked: our Lord, we have believed, so forgive us and have mercy on us, and You are the best of the merciful.",
+            "bn": "করণীয়টা সহজ। কারও নামাজ, পোশাক বা সরলতা নিয়ে হাসিতে নিজেকে মজা পেতে দেখলে আয়াতটি প্রশ্ন করে: এই হাসি আমার নিজের জিকিরের কী দশা করছে? এমন আলাপ থেকে দূরে থাকুন, নয়তো কথার মোড় ঘুরিয়ে দিন। কারও দ্বীন পালনের ধরন নিয়ে দ্বিমত থাকলে সম্মানের সঙ্গে বলুন, নয়তো ছেড়ে দিন। আর যে দোয়া নিয়ে ঠাট্টা হয়েছিল, সেটাই বলতে থাকুন: হে আমাদের রব, আমরা ঈমান এনেছি, আমাদের ক্ষমা করুন, আমাদের প্রতি রহম করুন, আপনিই শ্রেষ্ঠ দয়ালু।"
+          }
+        ]
+      }
+    ]
+  },
   "23:111": {
     "sections": [
       {

@@ -23971,6 +23971,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The dominion of every thing is in Allah's hand: He shelters whom He wills and none can shelter anyone from Him, so seek your safety from Him first.",
     "lessonBn": "প্রতিটি জিনিসের রাজত্ব আল্লাহর হাতে। তিনি যাকে চান আশ্রয় দেন, তাঁর হাত থেকে কেউ কাউকে আশ্রয় দিতে পারে না। তাই নিরাপত্তা আগে তাঁর কাছেই চান।"
+  },
+  "23:110": {
+    "reflectionEn": "A group of people prayed in plain words: our Lord, we have believed, so forgive us and have mercy on us. Others found this funny. They laughed at the asking, at the bowing, at the people who did it, and they kept laughing until something strange happened: the laughter crowded out their own memory of God. On the Day, the charge read to them is not only that they mocked, but what the mocking did to them. Ridicule is never only about its target. It takes up room in the one who does it. Have I ever smiled at someone's devotion, their prayer or their simplicity, and found that the smile left less room in me for the very remembrance I was laughing at?",
+    "reflectionBn": "একদল মানুষ সাদামাটা কথায় দোয়া করত: হে আমাদের রব, আমরা ঈমান এনেছি, আমাদের ক্ষমা করুন, আমাদের প্রতি রহম করুন। অন্যদের কাছে এটা হাসির খোরাক মনে হলো। তারা হাসত চাওয়াটা নিয়ে, রুকু-সিজদা নিয়ে, যারা এসব করে তাদের নিয়ে। হাসতে হাসতে এক অদ্ভুত কাণ্ড ঘটল। সেই হাসি তাদের নিজেদের মন থেকেই আল্লাহর স্মরণ ঠেলে বের করে দিল। কিয়ামতের দিন তাদের বিরুদ্ধে যে অভিযোগ পড়া হয়, তাতে শুধু ঠাট্টার কথা নেই। ঠাট্টা তাদের কী বানিয়েছে, সে কথাও আছে। বিদ্রূপ কখনো কেবল যাকে করা হয় তার ব্যাপার নয়। যে করে, তার ভেতরেও সে জায়গা দখল করে। কারও ইবাদত, নামাজ বা সরলতা দেখে আমি কি কখনো মুচকি হেসেছি? আর সেই হাসির পর যে জিকির নিয়ে হাসছিলাম, আমার ভেতরে তার জায়গা কি একটু কমে যায়নি?",
+    "pointsEn": [
+      "Whose devotion have I found it easy to laugh at, and what did that laughter say about me rather than about them?",
+      "What occupies my mind so fully that the remembrance of God gets pushed aside, even when it is not mockery?",
+      "When others make fun of a religious person in my company, do I join in, stay silent, or turn the talk?",
+      "Is there a prayer I stopped saying, or say only in private, because I worried someone would find it naive?",
+      "If my week's conversations were read back to me, how much of them would be about other people's faith and faults?"
+    ],
+    "pointsBn": [
+      "কার ইবাদত নিয়ে হাসা আমার কাছে সহজ মনে হয়েছে? সেই হাসি তার সম্পর্কে নয়, আমার নিজের সম্পর্কে কী বলে দেয়?",
+      "কোন জিনিস আমার মন এমনভাবে দখল করে রাখে যে আল্লাহর জিকির পেছনে পড়ে যায়, তা ঠাট্টা না হলেও?",
+      "আমার সামনে কেউ যখন কোনো দ্বীনদার মানুষকে নিয়ে মজা করে, আমি কি তাতে যোগ দিই, চুপ থাকি, নাকি কথার মোড় ঘুরিয়ে দিই?",
+      "এমন কোনো দোয়া কি আছে, যা লোকে বোকামি ভাববে এই ভয়ে আমি বলা ছেড়ে দিয়েছি, কিংবা শুধু একা একা বলি?",
+      "এ সপ্তাহের সব কথাবার্তা যদি আমাকে পড়ে শোনানো হয়, তার কতখানি থাকবে অন্যের দ্বীনদারি আর দোষত্রুটি নিয়ে?"
+    ],
+    "lessonEn": "Mocking people who turn to God does not only wound them; it empties the mocker. Guard your tongue, and let no laugh crowd out your own remembrance.",
+    "lessonBn": "যারা আল্লাহর দিকে ফেরে, তাদের নিয়ে ঠাট্টা শুধু তাদেরই আঘাত করে না, ঠাট্টাকারীকেও ভেতর থেকে শূন্য করে দেয়। জিভ সামলে রাখুন, কোনো হাসি যেন আপনার নিজের জিকিরের জায়গা দখল না করে।"
   }
 };
 
