@@ -26629,6 +26629,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let nothing you know become your picture of Allah, for nothing is like Him, and live as one whose every word He hears and every deed He sees.",
     "lessonBn": "আপনার চেনা কোনো কিছুকে আল্লাহর ছবি বানাবেন না, কারণ তাঁর মতো কিছুই নেই। আর এমনভাবে জীবন কাটান যেন আপনার প্রতিটি কথা তিনি শুনছেন, প্রতিটি কাজ তিনি দেখছেন।"
+  },
+  "42:3": {
+    "reflectionEn": "Two verses of letters open the surah, and no one is told what they mean. Then the voice speaks plainly: thus does He reveal to you, and to those before you, Allah, the Mighty, the Wise. The Prophet ﷺ is told he is not the first to receive such words, and his path is the path of those before him. One Sender, many messengers, one truth running through them all. The word sent to him then is the same word that reaches me now, on a page or a screen. Do I receive it as words from the Mighty and the Wise, or as one more thing to read today?",
+    "reflectionBn": "সূরার শুরুতে দুই আয়াত জুড়ে শুধু কয়েকটি হরফ, তার অর্থ কাউকে জানানো হয়নি। তারপর কথা আসে একেবারে সোজা ভাষায়: এভাবেই তোমার প্রতি এবং তোমার আগের লোকদের প্রতি ওয়াহী পাঠান আল্লাহ, যিনি মহাপরাক্রমশালী, মহাজ্ঞানী। নবী ﷺ-কে জানিয়ে দেওয়া হচ্ছে, এমন কথা পাওয়া প্রথম মানুষ তিনি নন। তাঁর পথ তাঁর আগের রাসূলদেরই পথ। প্রেরক একজন, রাসূল অনেক, আর সবার ভেতর দিয়ে একই সত্য বয়ে চলেছে। তখন তাঁর কাছে যে বাণী এসেছিল, সেই বাণীই আজ আমার হাতে পৌঁছায়, পাতায় কিংবা পর্দায়। আমি কি একে গ্রহণ করি মহাপরাক্রমশালী, মহাজ্ঞানীর বাণী হিসেবে, নাকি আজকের পড়ার তালিকার আরেকটা জিনিস হিসেবে?",
+    "pointsEn": [
+      "When I open the Qur'an, do I remember who is speaking before I think about what I will get from it?",
+      "The messengers before him received the same kind of word. Do I read their stories as my own family's history, or as someone else's?",
+      "Is there a verse I keep skipping because I do not understand it, instead of sitting with it and asking?",
+      "The Prophet ﷺ felt revelation as a heavy weight. What would it mean for me to let one verse weigh on me this week?",
+      "Which of my habits treats the Qur'an as an old book far away, rather than a word addressed to me?"
+    ],
+    "pointsBn": [
+      "কুরআন খোলার সময় আমি কি আগে মনে করি কে কথা বলছেন, তারপর ভাবি এ থেকে আমি কী পাব?",
+      "তাঁর আগের রাসূলরাও একই ধরনের বাণী পেয়েছিলেন। তাঁদের কাহিনি কি আমি নিজের পরিবারের ইতিহাসের মতো পড়ি, নাকি অন্য কারও গল্প ভেবে?",
+      "এমন কোনো আয়াত কি আছে যা বুঝি না বলে বারবার এড়িয়ে যাই, অথচ সেখানে থেমে জিজ্ঞেস করার কথা ছিল?",
+      "ওয়াহী নবী ﷺ-এর কাছে ভারী বোঝার মতো ছিল। এ সপ্তাহে একটি আয়াতকে নিজের উপর ভার হয়ে বসতে দেওয়া আমার জন্য কেমন হবে?",
+      "আমার কোন অভ্যাস কুরআনকে দূরের কোনো পুরোনো বই ভাবে, অথচ এর কথা আমাকেই বলা হচ্ছে?"
+    ],
+    "lessonEn": "Receive the Qur'an as a word sent by the Mighty and the Wise, the same Sender who spoke to every messenger before, and let it carry its full weight.",
+    "lessonBn": "কুরআনকে গ্রহণ করুন মহাপরাক্রমশালী, মহাজ্ঞানীর পাঠানো বাণী হিসেবে, যিনি আগের প্রত্যেক রাসূলকেও বাণী দিয়েছেন, আর একে তার পুরো ভার নিয়ে বসতে দিন।"
   }
 };
 

@@ -11,6 +11,150 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "42:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Five Letters",
+          "bn": "পাঁচ হরফের পরে"
+        },
+        "p": [
+          {
+            "en": "Ash-Shura opens with Ha-Mim and then 'Ayn-Sin-Qaf, counted as two verses, and its third verse is its first full sentence: kadhalika yuhi ilayka wa-ila alladhina min qablika Allahu al-'Azizu al-Hakim, thus does He reveal to you and to those before you, Allah, the Mighty, the Wise. Al-Qurtubi records al-Husayn ibn al-Fadl, asked why Ha-Mim is cut off from 'Ayn-Sin-Qaf when Kaf-Ha-Ya-'Ayn-Sad is not. His answer: this surah sits among the surahs that open with Ha-Mim and follows its sisters, as if Ha-Mim were a subject and 'Ayn-Sin-Qaf its predicate, and the letters were counted as two verses. Al-Baghawi carries the same answer.",
+            "bn": "সূরা আশ-শূরা শুরু হয় হা-মীম দিয়ে, তারপর ‘আইন-সীন-ক্বাফ। এ দুটি গোনা হয় দুই আয়াত হিসেবে। তৃতীয় আয়াতে এসে প্রথম পূর্ণ বাক্য: কাযালিকা ইউহী ইলাইকা ওয়া ইলাল্লাযীনা মিন কাবলিকাল্লাহুল ‘আযীযুল হাকীম। এভাবেই তোমার প্রতি এবং তোমার আগের লোকদের প্রতি ওয়াহী পাঠান আল্লাহ, যিনি মহাপরাক্রমশালী, মহাজ্ঞানী। হুসাইন ইবনুল ফাদলকে প্রশ্ন করা হয়েছিল, কাফ-হা-ইয়া-‘আইন-সাদ তো এক সঙ্গে লেখা, তাহলে হা-মীমকে ‘আইন-সীন-ক্বাফ থেকে আলাদা করা হলো কেন? কুরতুবী তাঁর জবাব উদ্ধৃত করেন। এ সূরা হা-মীম দিয়ে শুরু হওয়া সূরাগুলোর মাঝখানে, তাই সে বোনদের পথেই চলেছে। হা-মীম যেন উদ্দেশ্য, আর ‘আইন-সীন-ক্বাফ তার বিধেয়। তা ছাড়া হরফগুলো দুই আয়াত হিসেবে গোনা হয়েছে। বাগাভীও একই জবাব এনেছেন।"
+          },
+          {
+            "en": "On what the letters mean, the commentators consulted here are restrained. As-Sa'di writes that with the disconnected letters at the head of surahs the safest course is to keep silent about their meaning when there is no basis for it in the Shari'a, while holding firmly that Allah did not send them down in vain but for a wisdom we do not know. Ma'arif al-Qur'an says that only Allah knows the meaning of these letters. At-Tabari and Ibn Kathir point back to what they wrote on the letters earlier in their works.",
+            "bn": "হরফগুলোর অর্থ নিয়ে এখানে দেখা তাফসীরকারেরা সংযত। সা'দী লেখেন, সূরার শুরুর বিচ্ছিন্ন হরফগুলোর বেলায় সবচেয়ে নিরাপদ পথ হলো, শরীয়তের কোনো ভিত্তি ছাড়া এদের অর্থ নিয়ে কথা না বলা। সঙ্গে দৃঢ়ভাবে মানতে হবে, আল্লাহ এগুলো অনর্থক নাযিল করেননি, করেছেন এমন এক হিকমতে যা আমরা জানি না। মাআরিফুল কুরআন বলে, এই হরফগুলোর অর্থ কেবল আল্লাহই জানেন। তাবারী ও ইবন কাসীর জানিয়ে দেন, হরফগুলো নিয়ে তাঁরা আগেই লিখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Held at Arm's Length",
+          "bn": "দূরত্ব রেখে পড়ার বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Some reports do unpack 'Ayn-Sin-Qaf, and they need their labels. At-Tabari relays, through Artat ibn al-Mundhir, that a man asked Ibn 'Abbas about Ha-Mim 'Ayn-Sin-Qaf three times and got no answer, and that Hudhayfa ibn al-Yaman, who was present, read the letters as a forecast of ruin for two cities on an eastern river: 'ayn for justice from Him, sin for it will be, qaf for falling upon them. Ibn Kathir, quoting the same chain, calls it a strange, astonishing and munkar (rejected) report. It names no community anyone can point to, and licenses nothing against any living person or people.",
+            "bn": "কিছু বর্ণনা অবশ্য ‘আইন-সীন-ক্বাফের অর্থ খুলে বলার চেষ্টা করে। সেগুলোর গায়ে মান লেখা থাকা চাই। তাবারী আরতাত ইবনুল মুনযিরের সূত্রে বর্ণনা করেন: এক লোক ইবন আব্বাস (রাঃ)-কে তিনবার হা-মীম ‘আইন-সীন-ক্বাফের তাফসীর জিজ্ঞেস করল, তিনি কোনো জবাব দিলেন না। তখন সেখানে উপস্থিত হুযাইফা ইবনুল ইয়ামান (রাঃ) হরফগুলোকে পূর্বের এক নদীর তীরে দুই শহরের ধ্বংসের ভবিষ্যদ্বাণী হিসেবে ব্যাখ্যা করলেন। ‘আইন মানে তাঁর পক্ষ থেকে ইনসাফ, সীন মানে ঘটবে, ক্বাফ মানে তাদের উপর আপতিত হবে। একই সনদ উদ্ধৃত করে ইবন কাসীর একে বলেছেন অদ্ভুত, বিস্ময়কর, মুনকার (প্রত্যাখ্যাত) বর্ণনা। এতে চিহ্নিত করার মতো কোনো জনগোষ্ঠীর নাম নেই, আর আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না।"
+          },
+          {
+            "en": "Ibn Kathir then cites a report from Abu Ya'la's Musnad, through Abu Dharr, in which 'Umar asks from the pulpit whether anyone heard the Prophet ﷺ explain these letters. He calls it stranger still, with a chain very weak and broken. Others read the letters as initials: al-Baghawi through 'Ikrima and al-Qurtubi through Nafi', both from Ibn 'Abbas, give ha as His forbearance, mim His glory, 'ayn His knowledge, sin His eminence and qaf His power, an oath Allah swears by them.",
+            "bn": "এরপর ইবন কাসীর আবূ ইয়া'লার মুসনাদ থেকে আবূ যার (রাঃ)-এর সূত্রে আরেকটি বর্ণনা আনেন। তাতে উমর (রাঃ) মিম্বারে দাঁড়িয়ে জানতে চান, নবী ﷺ-কে এই হরফগুলোর ব্যাখ্যা করতে কেউ শুনেছে কি না। ইবন কাসীর বলেন, এটি আগেরটির চেয়েও অদ্ভুত, এর সনদ খুবই দুর্বল এবং বিচ্ছিন্ন। কেউ কেউ হরফগুলোকে আদ্যক্ষর হিসেবে পড়েছেন। বাগাভী ইকরিমার সূত্রে আর কুরতুবী নাফি'র সূত্রে, দুজনেই ইবন আব্বাস (রাঃ) থেকে, আনেন: হা তাঁর হিলম বা সহনশীলতা, মীম তাঁর মাহাত্ম্য, ‘আইন তাঁর ইলম, সীন তাঁর মর্যাদা, ক্বাফ তাঁর কুদরত। এগুলোর নামে আল্লাহ শপথ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Thus Points Back To",
+          "bn": "এভাবেই: ইশারা কোন দিকে"
+        },
+        "p": [
+          {
+            "en": "Kadhalika: thus, in this way. The word looks back to something, and the commentators read that something in two ways. The first takes it as the likeness of revelation itself. Ibn Kathir: just as this Qur'an has been sent down to you, so the Books and the Scriptures were sent down to the prophets before you. The Muyassar says the same: as Allah sent down this Qur'an to you, He sent down the books and scrolls to the prophets before you. At-Tabari gives it as hakadha: in this way does He reveal to you, O Muhammad, and to those of His prophets before you.",
+            "bn": "কাযালিকা: এভাবেই, এই রীতিতে। শব্দটি পেছনে কোনো কিছুর দিকে ইশারা করে, আর সেটা কী, তা তাফসীরকারেরা দুইভাবে পড়েছেন। প্রথম পাঠে ইশারাটা ওয়াহীর সাদৃশ্যের দিকে। ইবন কাসীর বলেন, যেমন তোমার প্রতি এই কুরআন নাযিল হয়েছে, তেমনি তোমার আগের নবীদের প্রতি কিতাব ও সহীফা নাযিল হয়েছিল। মুয়াসসারও প্রায় একই কথা বলে: আল্লাহ যেমন তোমার প্রতি এই কুরআন নাযিল করেছেন, তেমনি তোমার আগের নবীদের প্রতি কিতাব ও সহীফা নাযিল করেছেন। তাবারী শব্দটিকে খুলে বলেন হাকাযা দিয়ে: হে মুহাম্মাদ, এই রীতিতেই তিনি তোমার প্রতি এবং তোমার আগের নবীদের প্রতি ওয়াহী পাঠান।"
+          },
+          {
+            "en": "The second reading ties thus to the letters just heard. At-Tabari introduces it with it has been said: Ha-Mim 'Ayn-Sin was revealed to every prophet sent, as it was revealed to our Prophet ﷺ, and that is why the verse says, thus does He reveal to you and to those before you. Al-Baghawi relays it from Ibn 'Abbas in the passive, it is reported: there is no prophet with a book but Ha-Mim 'Ayn-Sin-Qaf was revealed to him, and that is why He said thus. Al-Qurtubi gives the same words from Ibn 'Abbas, and cites al-Mahdawi that a report says Ha-Mim 'Ayn-Sin-Qaf means it was revealed to the earlier prophets.",
+            "bn": "দ্বিতীয় পাঠে এভাবেই শব্দটি জুড়ে আছে সদ্য শোনা হরফগুলোর সঙ্গে। তাবারী এটি আনেন 'বলা হয়েছে' কথাটি দিয়ে: হা-মীম ‘আইন-সীন প্রেরিত প্রত্যেক নবীর কাছে ওয়াহী করা হয়েছে, যেমন আমাদের নবী ﷺ-এর কাছে করা হয়েছে। সে কারণেই আয়াত বলছে, এভাবেই তিনি তোমার প্রতি এবং তোমার আগের লোকদের প্রতি ওয়াহী পাঠান। বাগাভী এটি ইবন আব্বাস (রাঃ) থেকে আনেন 'বর্ণিত আছে' বলে: কিতাবধারী এমন কোনো নবী নেই যাঁর কাছে হা-মীম ‘আইন-সীন-ক্বাফ ওয়াহী করা হয়নি, তাই তিনি বলেছেন এভাবেই। কুরতুবীও ইবন আব্বাস (রাঃ) থেকে একই কথা আনেন। সঙ্গে মাহদাভীর উদ্ধৃতি দেন: এক বর্ণনায় আছে, হা-মীম ‘আইন-সীন-ক্বাফের অর্থ, তা আগের নবীদের কাছে ওয়াহী করা হয়েছিল।"
+          },
+          {
+            "en": "None of the three gives a chain for this report, and at-Tabari sets it after his own gloss, not in place of it. Al-Baghawi adds a narrower note, from 'Ata' from Ibn 'Abbas: what is meant is reports of the unseen. Ma'arif al-Qur'an keeps to the first reading and widens it: just as this surah was revealed to the Prophet ﷺ to establish the principles of religion and for other benefits, so Allah had been sending the prophets who came before him. 42:7 opens with the same word, wa-kadhalika; its own article covers it.",
+            "bn": "তিনজনের কেউই এ বর্ণনার কোনো সনদ দেননি। তাবারী এটিকে নিজের ব্যাখ্যার জায়গায় বসাননি, রেখেছেন তার পরে। বাগাভী আতার সূত্রে ইবন আব্বাস (রাঃ) থেকে আরও সরু একটি টীকা যোগ করেন: এখানে উদ্দেশ্য গায়েবের খবর। মাআরিফুল কুরআন প্রথম পাঠেই থাকে, তবে একে আরও প্রশস্ত করে। দ্বীনের মূলনীতি প্রতিষ্ঠা আর অন্যান্য কল্যাণের জন্য এই সূরা যেমন নবী ﷺ-এর কাছে নাযিল হয়েছে, তেমনি আল্লাহ তাঁর আগের নবীদেরও পাঠিয়ে এসেছেন। ৪২:৭ শুরু হয় একই শব্দে, ওয়া কাযালিকা। সে আয়াতের আলোচনা তার নিজের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reveals, or Is Revealed",
+          "bn": "পাঠান, নাকি পাঠানো হয়"
+        },
+        "p": [
+          {
+            "en": "The reading most of us hear is yuhi, He reveals, with Allah as the doer named at the end: thus does Allah, the Mighty, the Wise, reveal to you. Al-Qurtubi says the rest of the reciters read it so. He and al-Baghawi record a second reading, yuha, it is revealed, with a fatha on the ha. Al-Qurtubi names Ibn Muhaysin, Ibn Kathir and Mujahid, and says it is reported from Ibn 'Umar. This Ibn Kathir is a reciter, named among the readers, not the commentator quoted elsewhere here. Al-Baghawi gives the reciter's supporting verse, 39:65: and it has already been revealed to you and to those before you.",
+            "bn": "আমরা সাধারণত যে কিরাআত শুনি তা হলো ইউহী, তিনি ওয়াহী পাঠান। কর্তা আল্লাহ, যাঁর নাম আসে বাক্যের শেষে: এভাবেই মহাপরাক্রমশালী, মহাজ্ঞানী আল্লাহ তোমার প্রতি ওয়াহী পাঠান। কুরতুবী বলেন, বাকি কারীরা এভাবেই পড়েছেন। তিনি ও বাগাভী আরেকটি কিরাআতের কথা জানান: ইউহা, হা-তে যবর দিয়ে, অর্থাৎ ওয়াহী পাঠানো হয়। কুরতুবী নাম নেন ইবন মুহাইসিন, ইবন কাসীর ও মুজাহিদের, আর বলেন ইবন উমর (রাঃ) থেকেও এটি বর্ণিত। এই ইবন কাসীর কারীদের একজন, এ প্রবন্ধে উদ্ধৃত তাফসীরকার নন। বাগাভী কারী ইবন কাসীরের দলিল হিসেবে ৩৯:৬৫ আয়াত আনেন: তোমার প্রতি এবং তোমার আগের লোকদের প্রতি ওয়াহী পাঠানো হয়েছে।"
+          },
+          {
+            "en": "On that reading, who reveals? Al-Baghawi says the words Allah, the Mighty, the Wise then name the doer, as though someone asked, Who reveals? and was told: Allah, the Mighty, the Wise. Al-Qurtubi sets out the ways the grammar can carry it: an understood verb, Allah reveals it; Allah as a subject whose predicate is left unsaid; an understood subject, the One who reveals is Allah; or Allah as subject, with the Mighty, the Wise as predicate. For the understood verb he compares 24:36 in the reading of Ibn 'Amir and Abu Bakr.",
+            "bn": "এই কিরাআতে তাহলে পাঠান কে? বাগাভী বলেন, আল্লাহুল ‘আযীযুল হাকীম শব্দগুলো তখন কর্তার পরিচয় দেয়। যেন কেউ জিজ্ঞেস করল, ওয়াহী পাঠান কে? জবাব এল: মহাপরাক্রমশালী, মহাজ্ঞানী আল্লাহ। কুরতুবী ব্যাকরণের দিক থেকে সম্ভাব্য পথগুলো সাজিয়ে দেন। এক, একটি উহ্য ক্রিয়া ধরা: আল্লাহ তা ওয়াহী করেন। দুই, আল্লাহ উদ্দেশ্য, বিধেয় উহ্য। তিন, উদ্দেশ্য উহ্য: ওয়াহী-দাতা আল্লাহ। চার, আল্লাহ উদ্দেশ্য, আর আল-‘আযীযুল হাকীম তার বিধেয়। উহ্য ক্রিয়ার নজির হিসেবে তিনি ইবন আমির ও আবূ বকরের কিরাআতে ২৪:৩৬ আয়াতের কথা বলেন।"
+          },
+          {
+            "en": "Both readings land on the same name. In the first, the sentence states the doer outright; in the second, as al-Baghawi frames it, it lets a question form and then answers it. In the common reading the verb is imperfect, yuhi, a form Arabic uses for the present and the habitual, while Ibn Kathir and the Muyassar gloss it with the past, anzala, sent down. Their gloss joins the Prophet ﷺ to the prophets before him under one Sender and one manner of sending.",
+            "bn": "দুই কিরাআতই এসে থামে একই নামে। প্রথমটিতে বাক্য সরাসরি কর্তার নাম বলে দেয়। দ্বিতীয়টিতে, বাগাভীর বিন্যাস অনুযায়ী, আগে একটা প্রশ্ন জাগে, তারপর তার জবাব আসে। প্রচলিত কিরাআতে ক্রিয়াটি মুযারি', ইউহী। আরবিতে এই রূপ বর্তমান ও চলমান অভ্যাস বোঝাতে ব্যবহৃত হয়। অথচ ইবন কাসীর ও মুয়াসসার এর ব্যাখ্যা দেন অতীত কালের ক্রিয়া আনযালা দিয়ে, অর্থাৎ নাযিল করেছেন। তাঁদের এ ব্যাখ্যা নবী ﷺ-কে তাঁর আগের নবীদের সঙ্গে এক প্রেরকের অধীনে, এক রীতির ওয়াহীতে মিলিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Novelty Among Messengers",
+          "bn": "রাসূলদের মাঝে নতুন কেউ নন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the lesson out. Allah tells that He revealed this great Qur'an to the noble Prophet as He revealed to the prophets and messengers before him. In that, he writes, is a showing of His bounty, in sending down books and sending messengers, earlier and later. And it shows that Muhammad ﷺ is not something new among the messengers: his way is the way of those before him, his circumstances fit theirs, and what he brought resembles what they brought, because all of it is truth and sincerity.",
+            "bn": "সা'দী আয়াতের শিক্ষাটা খুলে দেখান। আল্লাহ জানাচ্ছেন, তিনি এই মহান কুরআন সম্মানিত নবীর প্রতি ওয়াহী করেছেন, যেমন ওয়াহী করেছিলেন তাঁর আগের নবী-রাসূলদের প্রতি। সা'দী লেখেন, এতে প্রকাশ পায় আল্লাহর অনুগ্রহ: আগে ও পরে কিতাব নাযিল করা, রাসূল পাঠানো। আরও প্রকাশ পায়, মুহাম্মাদ ﷺ রাসূলদের মাঝে নতুন কিছু নন। তাঁর পথ তাঁর পূর্বসূরিদের পথ, তাঁর অবস্থা তাঁদের অবস্থার সঙ্গে মেলে। তিনি যা এনেছেন তা তাঁদের আনা জিনিসের মতোই, কারণ সবটাই সত্য, সবটাই খাঁটি।"
+          },
+          {
+            "en": "The phrase as-Sa'di uses, laysa bi-bid'in min ar-rusul, echoes the wording of 46:9, where the Prophet ﷺ is told to say that he is not something new among the messengers. Read with it, 42:3 is reassurance and argument at once. To the Prophet ﷺ it says the road is known, because others walked it before him. To those who heard him, it says that revelation to a man was nothing unheard-of: it had come before, from the same Sender. 42:13, treated in its own article, names the one religion enjoined on Nuh, Ibrahim, Musa and 'Isa (AS).",
+            "bn": "সা'দী যে কথাটি ব্যবহার করেছেন, লাইসা বিবিদ‘ইন মিনার রুসুল, তার শব্দ মনে করিয়ে দেয় ৪৬:৯ আয়াতকে। সেখানে নবী ﷺ-কে বলতে বলা হয়েছে, তিনি রাসূলদের মাঝে নতুন কেউ নন। দুটি আয়াত পাশাপাশি রাখলে ৪২:৩ একই সঙ্গে সান্ত্বনা আর যুক্তি। নবী ﷺ-কে আয়াত জানায়, এ পথ অচেনা নয়, তাঁর আগেও অনেকে এ পথে হেঁটেছেন। আর যারা তাঁর কথা শুনছিল, তাদের জানায়, একজন মানুষের কাছে ওয়াহী আসা অভূতপূর্ব কিছু নয়। আগেও এসেছে, একই প্রেরকের কাছ থেকে। ৪২:১৩ সেই এক দ্বীনের কথা বলে, যার নির্দেশ দেওয়া হয়েছিল নূহ, ইবরাহীম, মূসা ও ঈসা (আঃ)-কে। সে আলোচনা তার নিজের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mighty in What, Wise in What",
+          "bn": "কিসে পরাক্রম, কিসে প্রজ্ঞা"
+        },
+        "p": [
+          {
+            "en": "The verse ends on two names, al-'Aziz and al-Hakim, and the commentators say in what each is meant. Ibn Kathir: the Mighty in His vengeance, the Wise in His words and His deeds. The Muyassar repeats both glosses almost word for word. At-Tabari reads the first the same way and narrows it: mighty in His vengeance on His enemies. For the second he looks in another direction: wise in His management of His creation.",
+            "bn": "আয়াত শেষ হয় দুটি নামে, আল-‘আযীয ও আল-হাকীম। কোনটি কোন অর্থে, তাফসীরকারেরা তা বলে দেন। ইবন কাসীরের ব্যাখ্যায় আল-‘আযীয মানে প্রতিশোধে পরাক্রমশালী, আর আল-হাকীম মানে কথায় ও কাজে প্রজ্ঞাময়। মুয়াসসার প্রায় হুবহু দুটি ব্যাখ্যাই দেয়। প্রথম নামটি তাবারী একইভাবে পড়েন, তবে আরও নির্দিষ্ট করে: শত্রুদের থেকে প্রতিশোধ নেওয়ায় পরাক্রমশালী। দ্বিতীয় নামের বেলায় তাঁর দৃষ্টি অন্য দিকে: সৃষ্টির ব্যবস্থাপনায় প্রজ্ঞাময়।"
+          },
+          {
+            "en": "Wise in His words fits a verse about revelation: what is sent is sent with wisdom. Heard after a verse on revelation, the might can assure the listener that the Speaker can carry out what He says, and the wisdom that what He says is right. Then 42:4 follows at once: to Him belongs whatever is in the heavens and whatever is in the earth, and He is the Most High, the Most Great. Ibn Kathir sets that verse beside 13:9 and 22:62.",
+            "bn": "কথায় প্রজ্ঞাময়, এ ব্যাখ্যা ওয়াহী-বিষয়ক আয়াতের সঙ্গে খাপ খায়: যা পাঠানো হয়, প্রজ্ঞা নিয়েই পাঠানো হয়। ওয়াহীর আয়াতের শেষে নাম দুটিকে এভাবেও শোনা যায়। পরাক্রম শ্রোতাকে আশ্বস্ত করে, যিনি বলছেন তিনি নিজের কথা বাস্তবায়ন করতে সক্ষম। প্রজ্ঞা আশ্বস্ত করে, তিনি যা বলেন তা-ই সঠিক। এরপরই আসে ৪২:৪: আকাশে যা আছে আর পৃথিবীতে যা আছে, সবই তাঁর, আর তিনি সর্বোচ্চ, মহান। ইবন কাসীর এ আয়াতকে ১৩:৯ ও ২২:৬২ আয়াতের পাশে রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like the Ringing of a Bell",
+          "bn": "ঘণ্টার ঝনঝনানির মতো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches one hadith here, on how revelation came. Al-Bukhari records it in his Sahih (2) from 'A'isha (RA): \"Al-Harith bin Hisham asked Allah's Messenger (ﷺ) 'O Allah's Messenger (ﷺ)! How is the Divine Inspiration revealed to you?' Allah's Messenger (ﷺ) replied, 'Sometimes it is (revealed) like the ringing of a bell, this form of Inspiration is the hardest of all and then this state passes off after I have grasped what is inspired. Sometimes the Angel comes in the form of a man and talks to me and I grasp whatever he says.'\"",
+            "bn": "ওয়াহী কীভাবে আসত, এ নিয়ে ইবন কাসীর এখানে একটি হাদীস যুক্ত করেছেন। বুখারী তাঁর সহীহ গ্রন্থে (২) আয়িশা (রাঃ) থেকে এটি বর্ণনা করেছেন: হারিস ইবন হিশাম (রাঃ) রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করলেন, ইয়া রাসূলাল্লাহ, আপনার কাছে ওয়াহী কীভাবে আসে? রাসূলুল্লাহ ﷺ বললেন: কখনো তা আসে ঘণ্টার ঝনঝনানির মতো, আর এটাই আমার জন্য সবচেয়ে কঠিন। তারপর তা আমার থেকে সরে যায়, ততক্ষণে তিনি যা বলেছেন আমি আত্মস্থ করে ফেলি। আর কখনো ফেরেশতা মানুষের রূপ ধরে আমার কাছে আসেন, আমার সঙ্গে কথা বলেন, আর তিনি যা বলেন আমি তা আত্মস্থ করে নিই।"
+          },
+          {
+            "en": "'A'isha (RA) added: \"Verily I saw the Prophet (ﷺ) being inspired divinely on a very cold day and noticed the sweat dropping from his forehead (as the Inspiration was over).\" Ibn Kathir notes that the hadith is in both Sahihs and that the wording he quotes is al-Bukhari's. He adds a second report, recorded by Ahmad alone from 'Abdullah ibn 'Amr, without grading it, and it is not relied on here. For the fuller account of how revelation came, he refers the reader to the opening of his commentary on al-Bukhari.",
+            "bn": "আয়িশা (রাঃ) আরও বলেছেন: আমি দেখেছি, প্রচণ্ড শীতের দিনে তাঁর উপর ওয়াহী নাযিল হচ্ছে, তারপর ওয়াহী শেষ হলে তাঁর কপাল থেকে ঘাম ঝরে পড়ছে। ইবন কাসীর জানান, হাদীসটি সহীহ বুখারী ও সহীহ মুসলিম দুটিতেই আছে, আর তিনি যে শব্দে এনেছেন তা বুখারীর। এরপর তিনি আবদুল্লাহ ইবন আমর (রাঃ) থেকে আরেকটি বর্ণনা আনেন, যা কেবল আহমাদ বর্ণনা করেছেন। তিনি এর মান উল্লেখ করেননি, তাই এখানে এর উপর ভর করা হয়নি। ওয়াহী আসার পূর্ণ বিবরণের জন্য তিনি পাঠককে তাঁর বুখারীর ব্যাখ্যাগ্রন্থের শুরুর অংশ দেখতে বলেন।"
+          },
+          {
+            "en": "The hadith is not an occasion of revelation for this verse; Ibn Kathir only places it beside the verse. Yet the two sit well together. The verse says the same Sender revealed to him and to those before him. The hadith shows something of what receiving it cost the one who received it: the hardest of its forms, and sweat on a cold day.",
+            "bn": "হাদীসটি এ আয়াতের শানে নুযূল নয়। ইবন কাসীর শুধু একে আয়াতের পাশে রেখেছেন। তবু দুটি একসঙ্গে ভালো মানায়। আয়াত বলছে, একই প্রেরক তাঁর কাছে এবং তাঁর আগের লোকদের কাছে ওয়াহী পাঠিয়েছেন। আর হাদীস দেখায়, যিনি তা গ্রহণ করতেন, তাঁকে এর জন্য কী মূল্য দিতে হতো: সবচেয়ে কঠিন রূপ, আর শীতের দিনে কপালে ঘাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word That Reaches Us",
+          "bn": "যে বাণী আমাদের কাছে আসে"
+        },
+        "p": [
+          {
+            "en": "The verse is short, yet it carries a whole account of the Qur'an's place: not a first, not an invention, but part of a line of revelations from one Sender who is mighty and wise. The commentators consulted here agree on that much. The letters before it stay unexplained by any sound report in the texts fetched; the sentence after them is plain. A reader can hold both at once: reverence for what is not explained, and close attention to what is.",
+            "bn": "আয়াতটি ছোট, অথচ এতে কুরআনের অবস্থানের পুরো একটা বিবরণ ধরা আছে। কুরআন প্রথম কোনো ঘটনা নয়, কারও বানানো কথাও নয়। এক প্রেরকের পাঠানো ওয়াহীর ধারারই অংশ, আর সেই প্রেরক পরাক্রমশালী ও প্রজ্ঞাময়। এখানে দেখা তাফসীরকারেরা এই কথায় একমত। সংগৃহীত লেখাগুলোতে কোনো নির্ভরযোগ্য বর্ণনা আগের হরফগুলোর অর্থ খুলে দেয়নি। কিন্তু তার পরের বাক্যটি সোজা ও স্পষ্ট। পাঠক দুটোকেই ধরে রাখতে পারেন: যা ব্যাখ্যা করা হয়নি তার প্রতি সম্ভ্রম, আর যা স্পষ্ট তার প্রতি গভীর মনোযোগ।"
+          },
+          {
+            "en": "What follows for the reader? If the Qur'an comes from the One who spoke to the prophets before, their stories in it are family history, and as-Sa'di says what Muhammad ﷺ brought resembles what they brought. If it comes from al-'Aziz, it is to be obeyed; if from al-Hakim, it is to be trusted where it is not yet understood. And if one of its forms was, in the Prophet's ﷺ own words, the hardest on him, reading it lightly misses something. The question the verse leaves is less what the letters mean than how its words are received.",
+            "bn": "পাঠকের জন্য এ থেকে কী আসে? কুরআন যদি তাঁরই কাছ থেকে আসে, যিনি আগের নবীদের সঙ্গে কথা বলেছেন, তাহলে এতে তাঁদের কাহিনি আমাদের নিজের পরিবারের ইতিহাস। সা'দীও বলেন, মুহাম্মাদ ﷺ যা এনেছেন তা তাঁদের আনা জিনিসের মতোই। কুরআন যদি আল-‘আযীযের কাছ থেকে আসে, তবে তা মানতে হবে। যদি আল-হাকীমের কাছ থেকে আসে, তবে যেখানে এখনো বুঝে উঠিনি সেখানেও তার উপর ভরসা রাখতে হবে। আর নবী ﷺ নিজেই যদি বলে থাকেন, ওয়াহীর একটি রূপ তাঁর জন্য সবচেয়ে কঠিন ছিল, তবে হালকা মনে পড়লে কিছু একটা হারিয়ে যায়। আয়াত শেষে যে প্রশ্ন রেখে যায়, তা হরফের অর্থ নিয়ে যতটা, তার চেয়ে বেশি এর কথাগুলো আমরা কীভাবে গ্রহণ করি তা নিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "42:5": {
     "sections": [
       {
