@@ -1170,5 +1170,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "80:39": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words, No Verb",
+          "bn": "দুটি শব্দ, ক্রিয়া নেই"
+        },
+        "p": [
+          {
+            "en": "Dahikatun mustabshiratun: laughing, rejoicing at good news. The whole verse is two words, both describing the faces named in 80:38, and neither is a verb. Nothing is said to happen to these faces; they are simply shown as they are, the way one points at a lit window. The second word comes from the root b-sh-r, the root of bushra, glad tidings. The two words stand side by side with no 'and' between them, so the laughter and the gladness arrive together as one look.",
+            "bn": "দাহিকাতুন মুসতাবশিরাতুন: হাস্যোজ্জ্বল, সুসংবাদে উৎফুল্ল। পুরো আয়াত মাত্র দুটি শব্দ। দুটোই ৮০:৩৮ আয়াতে বলা মুখগুলোর বিশেষণ, কোনোটিই ক্রিয়া নয়। মুখগুলোর সঙ্গে কী ঘটছে তা বলা হয়নি। আলো জ্বলা জানালার দিকে যেমন আঙুল তুলে দেখানো হয়, এগুলোকেও তেমনি দেখিয়ে দেওয়া হয়েছে। দ্বিতীয় শব্দটির ধাতু ব-শ-র, বুশরা অর্থাৎ সুসংবাদ শব্দেরও একই ধাতু। দুটি শব্দের মাঝে 'এবং' নেই। তাই হাসি আর আনন্দ আলাদা হয়ে আসে না, একই চাহনিতে একসঙ্গে ধরা দেয়।"
+          },
+          {
+            "en": "Placement gives the words their force. Just before them, 80:34 to 80:37 show a person fleeing his brother, his parents, his wife and his children, every one of them filled with an affair of his own. Into that crowd of averted faces come faces that laugh. The surah opened with a face as well, its first word 'abasa, he frowned, in 80:1. It closes with faces again: some bright and laughing, others under dust. Its last scene, like its first, is read on a face.",
+            "bn": "শব্দ দুটির জোর আসে তাদের অবস্থান থেকে। ঠিক আগে ৮০:৩৪ থেকে ৮০:৩৭ আয়াতে মানুষ পালাচ্ছে ভাই, মা-বাবা, স্ত্রী আর সন্তানদের কাছ থেকে। প্রত্যেকে নিজের ব্যাপারে পুরোপুরি ডুবে আছে। মুখ ফিরিয়ে নেওয়া সেই ভিড়ের মাঝখানে হঠাৎ কিছু মুখ হাসছে। সূরাটি শুরুও হয়েছিল একটি মুখ দিয়ে। ৮০:১ আয়াতের প্রথম শব্দ আবাসা, অর্থাৎ ভ্রূ কুঁচকাল। শেষেও আবার মুখ: কিছু উজ্জ্বল আর হাসিমাখা, কিছু ধুলোয় ঢাকা। প্রথম দৃশ্যের মতো শেষ দৃশ্যটিও পড়তে হয় চেহারায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Dawn Light to Laughter",
+          "bn": "ভোরের আলো থেকে হাসি"
+        },
+        "p": [
+          {
+            "en": "The verse finishes a sentence begun in 80:38: faces, that Day, musfirah. At-Tabari glosses musfirah as shining and luminous, and notes that a face is said to asfara when it becomes fair, as the morning asfara when it grows light. He relays from Ibn Abbas (RA) that musfirah means mushriqah, radiant. Al-Qurtubi closes his note on this verse with the same picture: one says asfara as-subh when dawn breaks. The brightness of 80:38 is a daybreak on the face.",
+            "bn": "আয়াতটি ৮০:৩৮ আয়াতে শুরু হওয়া বাক্যটি শেষ করে: সেদিন কিছু মুখ হবে মুসফিরাহ। তাবারী মুসফিরাহর অর্থ করেন ঝলমলে, আলোকিত। তিনি জানান, মুখ সুন্দর হয়ে উঠলে বলা হয় আসফারা, ঠিক যেমন ভোর ফর্সা হলে বলা হয় সকাল আসফারা করল। ইবন আব্বাস (রাঃ) থেকে তিনি বর্ণনা করেন, মুসফিরাহ মানে মুশরিকাহ, দীপ্তিমান। কুরতুবীও এ আয়াতের আলোচনা শেষ করেন একই ছবি দিয়ে: ভোরের আলো ফুটলে বলা হয় আসফারাস সুবহ। ৮০:৩৮ আয়াতের উজ্জ্বলতা যেন চেহারার ওপর ভোর হওয়া।"
+          },
+          {
+            "en": "Then 80:39 says what the light does: it laughs. Ibn Kathir reads the two verses together and begins with a division: the people there will be two parties. Ibn Zayd, in at-Tabari, says of these faces simply that they are the people of Paradise, and al-Jalalayn says they are the believers. At-Tabari, on 80:38, describes them as the faces of the believers with whom Allah is pleased. The commentators agree on whose faces these are; where they add detail is on why they laugh.",
+            "bn": "তারপর ৮০:৩৯ আয়াত বলে, সেই আলো কী করে: হাসে। ইবন কাসীর আয়াত দুটি একসঙ্গে পড়েন এবং শুরু করেন একটি ভাগ দিয়ে: সেখানে মানুষ হবে দুই দলে বিভক্ত। তাবারীর বর্ণনায় ইবন যায়দ এই মুখগুলো সম্পর্কে সোজা বলেন, এরা জান্নাতবাসী। জালালাইনও বলে, এরা মুমিন। ৮০:৩৮ আয়াতে তাবারী এদের পরিচয় দেন সেই মুমিনদের চেহারা হিসেবে, যাদের প্রতি আল্লাহ সন্তুষ্ট। মুখগুলো কাদের, এ নিয়ে তাফসীরকারেরা একমত। তাঁরা বিস্তারিত বলেন অন্য প্রশ্নে: এরা হাসছে কেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gladness Seen on the Face",
+          "bn": "যে খুশি মুখে ফোটে"
+        },
+        "p": [
+          {
+            "en": "The glosses on dahikah are close to each other. Ibn Kathir and al-Qurtubi both give masrurah farihah, glad and joyful; al-Baghawi says the faces laugh bi-s-surur, with gladness; the Muyassar describes the faces of the people of bliss as lit up, glad and joyful. None of them treats the laughter as idle mirth. It is gladness that has reached the face. Ma'arif al-Qur'an pictures the righteous believers in the Gardens of Bliss, their faces beaming with joy and happiness.",
+            "bn": "দাহিকাহর ব্যাখ্যায় তাফসীরকারদের কথা প্রায় এক। ইবন কাসীর আর কুরতুবী দুজনেই বলেন মাসরূরাহ ফারিহাহ, অর্থাৎ খুশি ও আনন্দিত। বাগাভী বলেন, মুখগুলো হাসছে বিস-সুরূর, খুশিতে। মুয়াসসার বলে, নিয়ামতপ্রাপ্তদের মুখ সেদিন হবে আলোকিত, খুশি আর আনন্দে ভরা। এদের কেউই এই হাসিকে অলস তামাশা মনে করেন না। এ হলো ভেতরের খুশি, যা মুখে এসে পৌঁছেছে। মাআরিফুল কুরআন নেককার মুমিনদের ছবি আঁকে নিয়ামতের জান্নাতে, তাদের চেহারা আনন্দ আর সুখে দীপ্ত।"
+          },
+          {
+            "en": "Ibn Kathir names the path the joy travels. The faces are glad min surur qulubihim, from the gladness of their hearts, and qad zahara al-bishr 'ala wujuhihim: cheer has shown itself on their faces. His word bishr, the open cheer of a face, is built on the same three letters as mustabshirah. So his gloss explains the verse with its own root: the second word describes a gladness that begins in the heart and is then seen on the face by anyone who looks.",
+            "bn": "আনন্দটা কোন পথ ধরে আসে, ইবন কাসীর তা বলে দেন। মুখগুলো খুশি মিন সুরূরি কুলূবিহিম, তাদের হৃদয়ের খুশি থেকে। আর কাদ যাহারাল বিশরু আলা উজূহিহিম: তাদের চেহারায় প্রফুল্লতা ফুটে উঠেছে। বিশর মানে চেহারার খোলামেলা হাসিখুশি ভাব, আর শব্দটি গড়া মুসতাবশিরাহর সেই তিনটি অক্ষর দিয়েই। ফলে তাঁর ব্যাখ্যা আয়াতকে খুলে দেয় আয়াতেরই ধাতু দিয়ে। দ্বিতীয় শব্দটি এমন এক খুশির বর্ণনা, যার শুরু হৃদয়ে, আর তারপর যে-ই তাকায় সে-ই তা দেখতে পায় মুখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "They Already Know",
+          "bn": "তারা জেনে গেছে"
+        },
+        "p": [
+          {
+            "en": "Why do they laugh? At-Tabari answers that the faces laugh from gladness at what Allah has given them of bliss and honour. Al-Baghawi says they rejoice at what they have attained of Allah's honour, and al-Qurtubi that they rejoice at what Allah has granted them of honour. The joy, in each gloss, is not self-made. It is a response to something received, and every one of them names the Giver. These faces are laughing at a gift, and they know whose gift it is.",
+            "bn": "এরা হাসছে কেন? তাবারীর উত্তর: আল্লাহ তাদের যে নিয়ামত আর সম্মান দিয়েছেন, তার খুশিতে মুখগুলো হাসছে। বাগাভী বলেন, আল্লাহর দেওয়া যে সম্মান তারা পেয়েছে, তাতে তারা উৎফুল্ল। কুরতুবীও বলেন, আল্লাহ তাদের যে সম্মান দান করেছেন, তাতেই তাদের আনন্দ। প্রতিটি ব্যাখ্যায় খুশিটা নিজের বানানো নয়। এটা কিছু পাওয়ার জবাব, আর প্রত্যেকেই দাতার নাম বলেন। মুখগুলো হাসছে একটি দানের সামনে দাঁড়িয়ে, আর দানটা কার, তারা তা জানে।"
+          },
+          {
+            "en": "Two commentators place knowledge before the laughter. On 80:38, as-Sa'di says that gladness and delight have appeared on the faces of the fortunate because of what they have come to know of their rescue and their winning of bliss; his note on 80:39 itself only repeats the verse, so his reason sits on the verse before. Al-Qurtubi, also on 80:38, says the faces shine because they have learned what is theirs of triumph and bliss. The laugh follows a certainty that has already arrived.",
+            "bn": "দুজন তাফসীরকার হাসির আগে জানাকে রাখেন। ৮০:৩৮ আয়াতে সা'দী বলেন, সৌভাগ্যবানদের মুখে খুশি আর উচ্ছ্বাস ফুটে উঠেছে, কারণ তারা জেনে গেছে যে তারা রক্ষা পেয়েছে এবং নিয়ামত লাভে সফল হয়েছে। ৮০:৩৯ আয়াতে তাঁর আলোচনায় কেবল আয়াতটিই আছে, তাই তাঁর দেওয়া কারণটি আগের আয়াতের নিচে। কুরতুবীও ৮০:৩৮ আয়াতে বলেন, মুখগুলো ঝলমল করছে, কারণ তারা জেনে গেছে সাফল্য আর নিয়ামতের কতটা তাদের ভাগে। হাসিটা আসে এমন এক নিশ্চয়তার পরে, যা আগেই পৌঁছে গেছে।"
+          },
+          {
+            "en": "None of the commentators fetched for this verse names the moment that knowledge comes. The Qur'an describes one such moment in its own words in 84:7 to 84:9: whoever is given his record in his right hand will be judged with an easy account and return to his people masrur, glad, the very word Ibn Kathir and al-Qurtubi use for these faces. The shared word is worth noticing, but neither of them links the two passages here, and this article does not claim that they did.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত তাফসীরগুলোর কোনোটিই বলে না, এই জানাটা ঠিক কোন মুহূর্তে আসে। কুরআন নিজে অন্য জায়গায় এমন একটি মুহূর্তের কথা বলেছে, ৮৪:৭ থেকে ৮৪:৯ আয়াতে। যার আমলনামা ডান হাতে দেওয়া হবে, তার হিসাব নেওয়া হবে সহজভাবে, আর সে তার আপনজনদের কাছে ফিরবে মাসরূর হয়ে, খুশি মনে। ইবন কাসীর আর কুরতুবী এই মুখগুলোর জন্য ঠিক এই শব্দটিই ব্যবহার করেছেন। মিলটা লক্ষ করার মতো। তবে তাঁদের কেউই এখানে দুই জায়গাকে জুড়ে দেননি, আর এই লেখাও দাবি করে না যে তাঁরা তা করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gladness Still Looking Ahead",
+          "bn": "যে খুশি এখনো সামনে তাকায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives each word its own reason. Dahikah: laughing from gladness at what Allah has given of bliss and honour. Mustabshirah: lima tarju min az-ziyadah, for the increase they hope for. The first word looks at what is already in hand; the second looks ahead. On his reading, the people at the very height of that Day are still hoping. Their joy has not closed into contentment with what they hold. It stays open towards Allah, expecting more from Him who has just given.",
+            "bn": "তাবারী দুটি শব্দের জন্য আলাদা আলাদা কারণ দেন। দাহিকাহ: আল্লাহ যে নিয়ামত আর সম্মান দিয়েছেন, তার খুশিতে হাসছে। মুসতাবশিরাহ: লিমা তারজূ মিনায যিয়াদাহ, যে বাড়তি দানের আশা তারা করছে, তার জন্য উৎফুল্ল। প্রথম শব্দের চোখ হাতে পাওয়া জিনিসের দিকে। দ্বিতীয় শব্দের চোখ সামনের দিকে। তাঁর পাঠ অনুযায়ী, সেদিনের সবচেয়ে উঁচু জায়গায় দাঁড়ানো মানুষগুলোও তখনো আশা করছে। হাতে যা আছে তাতে তাদের খুশি আটকে যায়নি। সেটা খোলা থাকে আল্লাহর দিকে, যিনি এইমাত্র দিলেন, তাঁর কাছে আরও পাওয়ার প্রত্যাশায়।"
+          },
+          {
+            "en": "The word ziyadah has a home in the Qur'an. In 10:26 those who did good are promised al-husna wa ziyadah, the best and more besides, and the same verse says that no qatar, no darkness, will cover their faces. Here 80:41 uses that word for the other faces: qatarah covers them. At-Tabari's comment does not cite 10:26, so the link is the reader's, not his. It is still a quiet consolation: hope does not end at the gate of the reward.",
+            "bn": "যিয়াদাহ শব্দটির কুরআনে একটি ঠিকানা আছে। ১০:২৬ আয়াতে সৎকর্মশীলদের প্রতিশ্রুতি দেওয়া হয়েছে আল-হুসনা ওয়া যিয়াদাহর, শ্রেষ্ঠ প্রতিদান আর তার চেয়েও বেশি। একই আয়াত বলে, কাতার অর্থাৎ কালিমা তাদের মুখ ঢাকবে না। আর এখানে ৮০:৪১ আয়াত অন্য মুখগুলোর জন্য সেই শব্দটিই আনে: কাতারাহ তাদের ঢেকে ফেলবে। তাবারীর মন্তব্যে ১০:২৬ আয়াতের উল্লেখ নেই। তাই এই সংযোগ পাঠকের, তাঁর নয়। তবু এতে এক নীরব সান্ত্বনা আছে। প্রতিদানের দরজায় পৌঁছে আশা ফুরিয়ে যায় না।"
+          },
+          {
+            "en": "That reading turns back on the reader. If hope is still alive in faces that have already been shown their reward, it has every reason to be alive in someone who is still on the road, still able to pray, repent and try again. Hope here is not wishful thinking that skips the work; the readings gathered under this verse tie the bright faces to prayer, ablution and effort. It is the expectation of a servant who keeps working and keeps asking, and who trusts the Giver to give more than was earned.",
+            "bn": "এ পাঠ পাঠকের দিকেই ফিরে আসে। যাদের প্রতিদান দেখিয়ে দেওয়া হয়েছে, তাদের মুখেও যদি আশা বেঁচে থাকে, তবে যে এখনো পথে আছে, এখনো নামায পড়তে, তওবা করতে আর নতুন করে চেষ্টা করতে পারে, তার আশা বেঁচে থাকার কারণ আরও বেশি। এখানে আশা মানে আমল এড়িয়ে যাওয়া অলস কল্পনা নয়। এ আয়াতের নিচে জড়ো করা মতগুলো উজ্জ্বল মুখকে বেঁধে দেয় নামায, অজু আর চেষ্টার সঙ্গে। এ আশা সেই বান্দার, যে আমল করে যায়, চেয়ে যায়, আর ভরসা রাখে যে দাতা প্রাপ্যের চেয়ে বেশিই দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Brightness Was Earned",
+          "bn": "উজ্জ্বলতা যেখানে অর্জিত"
+        },
+        "p": [
+          {
+            "en": "Under this verse, al-Qurtubi gathers three early answers to a different question: where did the brightness of 80:38 come from? He reports from 'Ata' al-Khurasani, citing Abu Nu'aym, that the faces are bright from how long they were covered in dust in the way of Allah. From ad-Dahhak he reports that the brightness is from the traces of wudu'. And from Ibn Abbas (RA) he reports that it is from qiyam al-layl, standing in prayer at night. The three sit side by side, without a ruling between them.",
+            "bn": "এ আয়াতের নিচে কুরতুবী ভিন্ন একটি প্রশ্নের তিনটি প্রাচীন উত্তর জড়ো করেন: ৮০:৩৮ আয়াতের উজ্জ্বলতা এল কোথা থেকে? আবু নুআইমের সূত্রে তিনি আতা আল-খুরাসানীর কথা আনেন: আল্লাহর পথে দীর্ঘদিন ধুলোয় মলিন থাকার কারণে এই মুখগুলো উজ্জ্বল। দাহহাক থেকে তিনি আনেন, উজ্জ্বলতা অজুর চিহ্ন থেকে। আর ইবন আব্বাস (রাঃ) থেকে আনেন, এটা কিয়ামুল লাইল থেকে, অর্থাৎ রাতে নামাযে দাঁড়ানো থেকে। তিনটি মত পাশাপাশি রাখা, কোনোটিকে তিনি অন্যটির ওপর প্রাধান্য দেননি।"
+          },
+          {
+            "en": "'Ata's wording carries a sharp turn. His verb is ighbarrat, the faces grew dusty, from the root gh-b-r, and that root returns in the very next verse, 80:40, as ghabarah, the dust on the other faces. On his reading, dust gathered for Allah in this life becomes light on that Day, while the dust of 80:40 settles on a face only when that Day has come. For the report from Ibn Abbas, al-Qurtubi adds a saying about night prayer that he introduces only as 'narrated in the hadith', with no collector and no grading; it is not quoted here.",
+            "bn": "আতার শব্দচয়নে একটা তীক্ষ্ণ মোড় আছে। তাঁর ক্রিয়াপদ ইগবাররাত, মুখগুলো ধুলোয় মলিন হয়েছিল। এর ধাতু গ-ব-র, আর ঠিক পরের আয়াত ৮০:৪০-এ এই ধাতুই ফিরে আসে গাবারাহ হয়ে, অন্য মুখগুলোর ধুলো। তাঁর পাঠে দুনিয়ায় আল্লাহর জন্য মাখা ধুলো সেদিন আলো হয়ে যায়। আর ৮০:৪০ আয়াতের ধুলো মুখে পড়ে সেদিন এসে যাওয়ার পর। ইবন আব্বাস (রাঃ)-এর মতের সমর্থনে কুরতুবী রাতের নামায নিয়ে একটি কথা যোগ করেন। সেটি তিনি শুধু 'হাদীসে বর্ণিত' বলে আনেন, কোনো সংকলকের নাম বা মান ছাড়া। তাই এখানে তা উদ্ধৃত করা হলো না।"
+          },
+          {
+            "en": "One sound narration speaks to ad-Dahhak's answer, though no commentator fetched for this verse attaches it here, and none attaches any sound hadith to 80:39 itself. In Sahih al-Bukhari (136), Abu Hurayra (RA) made wudu' and said he heard the Prophet ﷺ say: \"On the Day of Resurrection, my followers will be called 'Al-Ghurr-ul-Muhajjalun' from the trace of ablution and whoever can increase the area of his radiance should do so.\" It is a general report about that Day, not a comment on this verse.",
+            "bn": "দাহহাকের উত্তরের সঙ্গে মেলে এমন একটি সহীহ বর্ণনা আছে, যদিও এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এটিকে এখানে যুক্ত করেনি। ৮০:৩৯ আয়াতের সঙ্গেও তারা কোনো সহীহ হাদীস যুক্ত করেনি। সহীহ বুখারীতে (১৩৬) আছে, আবু হুরায়রা (রাঃ) অজু করে বললেন, তিনি নবী ﷺ-কে বলতে শুনেছেন: \"কিয়ামতের দিন আমার উম্মতকে ডাকা হবে 'আল-গুররুল মুহাজ্জালূন' বলে, অজুর চিহ্নের কারণে। তাই তোমাদের মধ্যে যে তার উজ্জ্বলতা বাড়াতে পারে, সে যেন তা করে।\" এটি সেদিন সম্পর্কে একটি সাধারণ বর্ণনা, এ আয়াতের ব্যাখ্যা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Faces Across the Divide",
+          "bn": "ভাগের ওপারের মুখগুলো"
+        },
+        "p": [
+          {
+            "en": "The bright faces are drawn against others. The Muyassar treats 80:39 and 80:40 together: the faces of the people of bliss lit and joyful, the faces of the people of Hell dark and blackened, covered by humiliation. As-Sa'di names the two groups the fortunate and the wretched. Ma'arif al-Qur'an reads the surah's close as a warning to those who reject the Qur'anic message, set beside the believers' beaming faces. The next three verses belong to those other faces; this verse belongs to the laughing ones.",
+            "bn": "উজ্জ্বল মুখগুলো আঁকা হয়েছে অন্য মুখের পাশে রেখে। মুয়াসসার ৮০:৩৯ আর ৮০:৪০ আয়াত একসঙ্গে ব্যাখ্যা করে: নিয়ামতপ্রাপ্তদের মুখ আলোকিত আর আনন্দিত, জাহান্নামীদের মুখ অন্ধকার, কালো, লাঞ্ছনায় ঢাকা। সা'দী দুই দলের নাম দেন সৌভাগ্যবান আর হতভাগা। মাআরিফুল কুরআন সূরার শেষ অংশকে পড়ে কুরআনের বাণী প্রত্যাখ্যানকারীদের জন্য সতর্কবার্তা হিসেবে, যার পাশেই মুমিনদের দীপ্ত চেহারা। পরের তিনটি আয়াত ওই অন্য মুখগুলোর। এই আয়াতটি হাসিমুখদের।"
+          },
+          {
+            "en": "This needs saying plainly. The verses describe two kinds of faces on the Day of Judgement, as the text describes them, and the sorting belongs to Allah alone. They license nothing against any living person or community: no one may look at a face today and pronounce it bright or dusty for that Day. The contrast is given as a warning and an invitation to every reader. What it asks of each of us is to tend our own face, not to sentence anyone else's.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতগুলো বিচারদিনের দুই ধরনের মুখের বর্ণনা দেয়, ঠিক যেমন পাঠে আছে, আর এই ভাগ করার অধিকার কেবল আল্লাহর। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এগুলো কিছুরই অনুমতি দেয় না। আজ কারও মুখের দিকে তাকিয়ে কেউ ঘোষণা দিতে পারে না যে সেদিন সে মুখ উজ্জ্বল হবে, না ধুলোমাখা। এই তুলনা প্রত্যেক পাঠকের জন্য সতর্কবার্তা, আবার আমন্ত্রণও। এটা আমাদের প্রত্যেককে বলে নিজের মুখের যত্ন নিতে, অন্য কারও মুখের ওপর রায় দিতে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Face Being Made Today",
+          "bn": "আজ যে মুখ গড়া হচ্ছে"
+        },
+        "p": [
+          {
+            "en": "The verse is set on a Day when no one can help anyone, when brother flees brother. So the laughter of these faces is not borrowed from company. On the commentators' reading it comes from what the heart has learned of its rescue and its reward, and from a hope that is still reaching for more. That leaves the reader with something to do now. A face is not chosen on that Day; on the readings al-Qurtubi gathers, it is shaped by nights of prayer, by ablutions, by effort for Allah.",
+            "bn": "আয়াতটির দৃশ্য এমন এক দিনের, যেদিন কেউ কাউকে সাহায্য করতে পারবে না, ভাই ভাইয়ের কাছ থেকে পালাবে। তাই এই মুখগুলোর হাসি সঙ্গীদের কাছ থেকে ধার করা নয়। তাফসীরকারদের পাঠে এ হাসির উৎস হৃদয়ের জেনে যাওয়া যে সে রক্ষা পেয়েছে আর প্রতিদান পেয়েছে, আর এমন এক আশা যা তখনো আরও চায়। এতে পাঠকের হাতে আজকের একটা কাজ থেকে যায়। সেদিন কেউ নিজের মুখ বেছে নেয় না। কুরতুবীর জড়ো করা মতগুলো অনুযায়ী, তা গড়ে ওঠে রাতের নামায, অজু আর আল্লাহর জন্য করা চেষ্টা দিয়ে।"
+          },
+          {
+            "en": "Hope belongs at the centre of this picture. The verse does not describe a few faces that barely escaped; it describes faces laughing, and at-Tabari has them still looking forward. The door to that laughter is open in every small act this life still allows: a rak'ah in the night, wudu' made with care, dust gathered on the way to something good. Each is an invitation. Whoever reads 80:39 with longing rather than dread has read it as it was given, as good news.",
+            "bn": "এই ছবির কেন্দ্রে আছে আশা। আয়াতটি কোনোমতে বেঁচে যাওয়া কয়েকটি মুখের কথা বলে না। এটি বলে হাসতে থাকা মুখের কথা, আর তাবারীর পাঠে সেই মুখগুলো তখনো সামনের দিকে তাকিয়ে। সেই হাসির দরজা খোলা আছে দুনিয়ার প্রতিটি ছোট আমলে: রাতের এক রাকাত নামায, যত্নের সঙ্গে করা অজু, ভালো কোনো কাজের পথে গায়ে লাগা ধুলো। প্রতিটি একেকটি আমন্ত্রণ। যে ভয়ের বদলে আকাঙ্ক্ষা নিয়ে ৮০:৩৯ আয়াত পড়ে, সে আয়াতটিকে পড়ল যেভাবে তা দেওয়া হয়েছে: সুসংবাদ হিসেবে।"
+          }
+        ]
+      }
+    ]
   }
 });

@@ -29445,6 +29445,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Count the plain crops too: fodder cut and grown again is as much His provision as the grapes, and both call for thanks.",
     "lessonBn": "সাদামাটা ফসলকেও হিসাবে ধরুন। বারবার কেটে আবার গজানো পশুখাদ্যও আঙুরের মতোই আল্লাহর রিযিক, আর দুটোরই শুকরিয়া প্রাপ্য।"
+  },
+  "80:39": {
+    "reflectionEn": "After the flight of the verses before it, where every person is taken up with his own affair, two words describe some of the faces: laughing, rejoicing at good news. No one in that crowd can lend another a smile, so the light on these faces comes from inside, from what their owners now know awaits them. Even at that summit the joy is still looking forward to more. I do not choose my face for that Day on that Day; it is being shaped now, in the prayers I stand for, the ablutions I make, the dust I am willing to gather for Allah. So what is my face being prepared for today?",
+    "reflectionBn": "আগের আয়াতগুলোতে মানুষ পালাচ্ছে, প্রত্যেকে নিজের ব্যাপারে ডুবে আছে। তারপর দুটি শব্দে কিছু মুখের বর্ণনা: হাসছে, সুসংবাদে উৎফুল্ল। সেই ভিড়ে কেউ কাউকে হাসি ধার দিতে পারে না। তাই এ মুখগুলোর আলো আসে ভেতর থেকে, সামনে কী অপেক্ষা করছে তা জেনে ফেলার আনন্দ থেকে। সেই চূড়ায় দাঁড়িয়েও আনন্দটা আরও কিছুর আশায় তাকিয়ে আছে। সেদিনের চেহারা আমি সেদিন বেছে নেব না। তা তৈরি হচ্ছে আজই: যে নামাযে দাঁড়াই, যে অজু করি, আল্লাহর পথে যে ধুলো গায়ে মাখতে রাজি হই, তার ভেতর দিয়ে। তাহলে আজ আমার মুখটা কিসের জন্য তৈরি হচ্ছে?",
+    "pointsEn": [
+      "If my face on that Day shows what my heart then knows, what would it show if the knowing came today?",
+      "Which of my habits, a prayer at night, an ablution done with care, an effort made for Allah, is shaping a bright face?",
+      "When I imagine the reckoning, does hope have a place in the picture, or only fear?",
+      "Do I keep hoping for more from Allah even when He has already given, or does each gift end my asking?",
+      "Whose joy on that Day might I have helped bring about through what I taught or did for them?"
+    ],
+    "pointsBn": [
+      "সেদিন হৃদয় যা জানবে, মুখে তা-ই ফুটে উঠবে। সেই জানাটা যদি আজই আসত, আমার মুখে কী দেখা যেত?",
+      "রাতের নামায, যত্ন করে করা অজু, আল্লাহর জন্য করা কোনো চেষ্টা: আমার কোন অভ্যাসটা উজ্জ্বল চেহারা তৈরি করছে?",
+      "হিসাবের দিনের কথা ভাবলে আমার মনের ছবিতে আশার কোনো জায়গা থাকে, নাকি শুধুই ভয়?",
+      "আল্লাহ দিয়ে দেওয়ার পরও কি আমি তাঁর কাছে আরও আশা করি, নাকি প্রতিটি দানে আমার চাওয়া থেমে যায়?",
+      "আমার শেখানো কোনো কথা বা করা কোনো কাজের মাধ্যমে সেদিন কার মুখে আনন্দ ফুটতে পারে?"
+    ],
+    "lessonEn": "The laughing faces of that Day show what their hearts already know; prepare that face now with prayer, ablution and effort for Allah, and keep hoping.",
+    "lessonBn": "সেদিনের হাস্যোজ্জ্বল মুখ দেখায় তাদের হৃদয় যা জেনে গেছে। নামায, অজু আর আল্লাহর জন্য চেষ্টা দিয়ে সেই মুখ আজই তৈরি করুন, আর আশা ধরে রাখুন।"
   }
 };
 
