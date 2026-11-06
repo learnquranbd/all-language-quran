@@ -27089,6 +27089,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Call on Allah alone, who hears and answers, and never hang your hope on anything that cannot hear you and will disown that hope on the Day of gathering.",
     "lessonBn": "কেবল আল্লাহকেই ডাকুন, যিনি শোনেন ও সাড়া দেন। যা আপনার ডাক শুনতে পায় না, আর হাশরের দিন সেই ভরসাকেই অস্বীকার করবে, তার উপর কখনো আশা ঝুলিয়ে রাখবেন না।"
+  },
+  "47:3": {
+    "reflectionEn": "Surah Muhammad opens with two verdicts. Those who disbelieve and bar others from Allah's way have their deeds sent astray; those who believe have their misdeeds wiped away and their state set right. Then this verse gives the reason, and the reason is one verb used twice. Both groups follow. What differs is what they follow: falsehood on one side, the truth from their Lord on the other. No one lives without following something. The verse closes by saying that Allah sets out for people their likenesses, descriptions to read before the outcome arrives. So the question it leaves is about me, not my neighbour. What am I following today, and would I recognise its description if I read it?",
+    "reflectionBn": "সূরা মুহাম্মাদ শুরু হয় দুটি রায় দিয়ে। যারা কুফরি করে আর মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখে, তাদের আমল পথ হারিয়ে বিফলে যায়। যারা ঈমান আনে, তাদের গুনাহ মুছে দেওয়া হয় আর তাদের অবস্থা শুধরে দেওয়া হয়। এরপর এই আয়াত কারণটা বলে দেয়, আর সে কারণ একটিমাত্র ক্রিয়া, দুবার ব্যবহৃত। দুই দলই অনুসরণ করে। তফাত শুধু কাকে অনুসরণ করে, তাতে। একদিকে বাতিল, অন্যদিকে রবের কাছ থেকে আসা হক। কিছু না কিছুর পেছনে না চলে কেউ বাঁচে না। আয়াতের শেষ কথা: এভাবেই আল্লাহ মানুষের সামনে তাদের দৃষ্টান্ত তুলে ধরেন, যাতে পরিণাম আসার আগেই চেহারাটা পড়ে নেওয়া যায়। তাই প্রশ্নটা আমার নিজের, প্রতিবেশীর নয়। আজ আমি কার পেছনে চলছি? তার বর্ণনা পড়লে কি চিনতে পারব?",
+    "pointsEn": [
+      "If I listed what actually steered my choices this week, which items came from my Lord and which from habit, appetite or the crowd?",
+      "Where have I felt sure I was following the truth only because I was used to following it, without ever checking where it came from?",
+      "When I read the Qur'an's descriptions of the two paths, do I look for myself in them, or only for other people?",
+      "Which of my good deeds would still stand if its purpose were examined, and which might come to nothing?",
+      "Is there a falsehood I keep following only because leaving it would mean admitting that I chose it?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে আমার সিদ্ধান্তগুলো আসলে কী চালিয়েছে, তার তালিকা করলে কোনগুলো আমার রবের কাছ থেকে আসা, আর কোনগুলো অভ্যাস, খেয়ালখুশি বা লোকের দেখাদেখি?",
+      "কোথায় আমি নিশ্চিত থেকেছি যে হকের পেছনে চলছি, শুধু এ কারণে যে এভাবেই চলে আসছি, অথচ উৎসটা কখনো যাচাই করিনি?",
+      "কুরআনে দুই পথের বর্ণনা পড়ার সময় আমি কি সেখানে নিজেকে খুঁজি, নাকি শুধু অন্যদের?",
+      "আমার কোন নেক আমলের নিয়ত যাচাই করলেও তা টিকে থাকবে, আর কোনটা হয়তো শূন্যে মিলিয়ে যাবে?",
+      "এমন কোনো বাতিল কি আছে, যার পেছনে আমি এখনো চলছি শুধু এ কারণে যে ছেড়ে দিলে স্বীকার করতে হবে, ওটা আমিই বেছে নিয়েছিলাম?"
+    ],
+    "lessonEn": "Everyone follows something. Check what you follow against the truth from your Lord, and read the Qur'an's descriptions as a mirror for yourself, not a verdict on others.",
+    "lessonBn": "প্রত্যেকেই কিছু না কিছুর পেছনে চলে। আপনি যার পেছনে চলছেন, তাকে রবের কাছ থেকে আসা হকের সঙ্গে মিলিয়ে দেখুন, আর কুরআনের বর্ণনাগুলো অন্যের বিচারের জন্য নয়, নিজের আয়না হিসেবে পড়ুন।"
   }
 };
 

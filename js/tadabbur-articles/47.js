@@ -11,6 +11,158 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "47:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Verdicts, Then a Cause",
+          "bn": "দুই রায়, তারপর কারণ"
+        },
+        "p": [
+          {
+            "en": "Surah Muhammad opens without a story. 47:1 speaks of those who disbelieve and bar others from Allah's way: He sends their deeds astray. Ibn Kathir explains that He makes those deeds vain and futile and denies them any reward for them, and he recalls 25:23, where such deeds are made into scattered dust. 47:2 turns to those who believe, do righteous deeds and believe in what was sent down to Muhammad ﷺ: He wipes away their misdeeds and sets their state right. Two outcomes are stated before any cause is given.",
+            "bn": "সূরা মুহাম্মাদ কোনো কাহিনি দিয়ে শুরু হয়নি। ৪৭:১ আয়াত বলে তাদের কথা, যারা কুফরি করে আর মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখে: আল্লাহ তাদের আমল পথহারা করে দেন। ইবন কাসীর ব্যাখ্যা করেন, তিনি সেসব আমলকে অসার ও নিষ্ফল করে দেন, তার কোনো প্রতিদান তাদের দেন না। এখানে তিনি ২৫:২৩ আয়াত স্মরণ করান, যেখানে এমন আমল বিক্ষিপ্ত ধূলিকণা হয়ে যায়। ৪৭:২ আয়াত ফেরে মুমিনদের দিকে। যারা ঈমান আনে, নেক আমল করে আর মুহাম্মাদ ﷺ-এর উপর যা নাযিল হয়েছে তাতে বিশ্বাস রাখে, আল্লাহ তাদের গুনাহ মুছে দেন আর তাদের অবস্থা শুধরে দেন। কারণ বলার আগেই দুটি পরিণাম ঘোষিত হয়ে গেল।"
+          },
+          {
+            "en": "47:3 supplies the cause. It opens dhalika bi-anna, that is because. At-Tabari spells out what 'that' points to: what We did with these two parties, sending the disbelievers' deeds astray and making them without straightness or guidance, and expiating for those who believed, is a recompense from Us to each party for what it did. Ibn Kathir voices it the same way: We only invalidated the deeds of the disbelievers, passed over the misdeeds of the righteous and set their affairs right, because of what follows. Al-Qurtubi gives the grammar two ways: the matter is that, or that misguidance and guidance just mentioned have this as their cause.",
+            "bn": "৪৭:৩ আয়াত সেই কারণটা জানায়। শুরু হয় যালিকা বিআন্না দিয়ে, অর্থাৎ এটা এজন্য যে। 'এটা' বলতে কী বোঝানো হচ্ছে, তাবারী খুলে বলেন। দুই দলের সঙ্গে আমরা যা করেছি, কাফিরদের আমল পথহারা করে সোজা পথ ও হিদায়াত থেকে বিচ্যুত করে দিয়েছি আর মুমিনদের গুনাহ মাফ করেছি, তা প্রত্যেক দলকে তার কাজের প্রতিদান। ইবন কাসীরও একই সুরে বলেন: আমরা কাফিরদের আমল বাতিল করেছি, নেককারদের গুনাহ ক্ষমা করেছি আর তাদের সব বিষয় শুধরে দিয়েছি, কারণ পরের কথাটি। কুরতুবী ব্যাকরণটা দুভাবে দেখান। হয় অর্থ: বিষয়টা এই। নয়তো: আগে বলা পথভ্রষ্টতা আর হিদায়াত, দুটোর কারণ এটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Both Sides Follow",
+          "bn": "দুই দলই অনুসারী"
+        },
+        "p": [
+          {
+            "en": "The verse uses one verb for both groups: ittaba'u, they followed. The disbelievers followed falsehood; the believers followed the truth from their Lord. Nothing in the wording divides people into those who follow and those who stand on their own. Both follow. The difference lies entirely in what is followed. Ibn Kathir draws out what the verb carries on the first side: they chose falsehood over the truth. On his reading, following is a choice between two things that were both on offer, and 47:1 is the answer to that choice.",
+            "bn": "আয়াতটি দুই দলের জন্য একটিই ক্রিয়া ব্যবহার করেছে: ইত্তাবাউ, তারা অনুসরণ করেছে। কাফিররা অনুসরণ করেছে বাতিলের, মুমিনরা অনুসরণ করেছে রবের কাছ থেকে আসা হকের। শব্দের ভেতরে এমন কোনো ভাগ নেই যে কিছু লোক অনুসরণ করে আর কিছু লোক নিজের পায়ে দাঁড়ায়। সবাই অনুসরণ করে। তফাতটা পুরোপুরি এখানে, কাকে অনুসরণ করা হচ্ছে। প্রথম দলের বেলায় ক্রিয়াটির ভেতরের অর্থ ইবন কাসীর বের করে আনেন: তারা হকের উপর বাতিলকে বেছে নিয়েছে। তাঁর পাঠে অনুসরণ মানে সামনে থাকা দুটি জিনিসের মধ্যে একটিকে বাছাই করা। আর ৪৭:১ আয়াত সেই বাছাইয়েরই জবাব।"
+          },
+          {
+            "en": "The second half repeats a phrase from the verse before. 47:2 had said of what was sent down to Muhammad ﷺ, wa huwa al-haqqu min rabbihim, and it is the truth from their Lord; Ibn Kathir calls that clause a beautifully placed parenthesis. Now the same words, al-haqq min rabbihim, return as what the believers follow. The truth is named together with its source. Falsehood in this verse is given no such phrase; it stands as al-batil alone, and the verse says nothing of where it comes from.",
+            "bn": "আয়াতের দ্বিতীয় অংশে আগের আয়াতের একটি কথা ফিরে আসে। মুহাম্মাদ ﷺ-এর উপর যা নাযিল হয়েছে, সে সম্পর্কে ৪৭:২ আয়াত বলেছিল: ওয়া হুওয়াল হাক্কু মির রাব্বিহিম, আর তা তাদের রবের কাছ থেকে আসা হক। ইবন কাসীর এই বাক্যাংশকে বলেন চমৎকারভাবে বসানো এক মধ্যবর্তী বাক্য। এবার সেই একই শব্দ, আল-হাক্কু মির রাব্বিহিম, ফিরে এসেছে মুমিনদের অনুসরণের বিষয় হয়ে। হকের নামের সঙ্গেই তার উৎস বলা আছে। এ আয়াতে বাতিলের সঙ্গে তেমন কিছু জোড়া নেই। শুধু আল-বাতিল, আর তা কোথা থেকে আসে, আয়াত সে বিষয়ে কিছুই বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Falsehood, Glossed Two Ways",
+          "bn": "বাতিলের দুই ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "What is al-batil here? At-Tabari answers that the disbelievers followed the Shaytan and obeyed him, and he is the falsehood. He supports this with a report, through his own chain, from Mujahid: falsehood here is the Shaytan. Al-Baghawi glosses the word with that single name, the Shaytan, and the Muyassar gives the same reading: they followed the Shaytan and obeyed him. On this reading the falsehood in the verse is someone who is obeyed, and following him means doing what he calls to.",
+            "bn": "এখানে আল-বাতিল কী? তাবারীর জবাব: কাফিররা শয়তানের অনুসরণ করেছে আর তার আনুগত্য করেছে। সে-ই বাতিল। এর পক্ষে তিনি নিজের সনদে মুজাহিদের একটি বর্ণনা আনেন: এখানে বাতিল মানে শয়তান। বাগাভীও শব্দটির ব্যাখ্যায় ওই একটি নামই বলেন, শয়তান। মুয়াসসারের পাঠও একই: তারা শয়তানের পেছনে চলেছে আর তার কথা মেনেছে। এই পাঠে আয়াতের বাতিল এমন কেউ, যার হুকুম মানা হয়। তার অনুসরণ মানে সে যেদিকে ডাকে, সেদিকে চলা।"
+          },
+          {
+            "en": "Al-Qurtubi gives a different gloss: al-batil is shirk, associating partners with Allah, and al-haqq is tawhid and faith. He states the verse's pairing in its shortest form: the disbeliever followed falsehood, and the believer followed the truth. The commentators fetched here do not argue the point against each other; each simply sets down his gloss, one naming the one who calls and the other naming what he calls to. Neither turns the verse into a matter of cleverness. Both make it a matter of allegiance.",
+            "bn": "কুরতুবীর ব্যাখ্যা ভিন্ন। তাঁর মতে আল-বাতিল হলো শিরক, আল্লাহর সঙ্গে শরিক করা। আর আল-হাক হলো তাওহীদ ও ঈমান। আয়াতের জোড়াটিকে তিনি সবচেয়ে ছোট করে বলেন: কাফির বাতিলের পেছনে চলেছে, মুমিন চলেছে হকের পেছনে। এখানে যেসব তাফসীর দেখা হয়েছে, সেগুলোতে মুফাসসিররা পরস্পরের বিরুদ্ধে যুক্তি দেননি। প্রত্যেকে শুধু নিজের ব্যাখ্যাটা লিখে গেছেন। একজন বলেছেন কে ডাকে, আরেকজন বলেছেন কীসের দিকে ডাকে। কেউই আয়াতটিকে বুদ্ধির প্রশ্ন বানাননি। দুজনের কাছেই প্রশ্নটা আনুগত্যের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Truth With an Address",
+          "bn": "যে হকের ঠিকানা আছে"
+        },
+        "p": [
+          {
+            "en": "The truth is glossed in more ways still. At-Tabari: the believers followed the truth that came to them from their Lord, and that is Muhammad ﷺ and what he brought from his Lord of light and proof. The Muyassar, close to him, says they followed the Messenger ﷺ and what he brought of light and guidance. Al-Baghawi glosses al-haqq with one word: the Qur'an. Al-Qurtubi, as noted, says tawhid and faith. A person, a Book and a creed: each gloss stands in its own commentary, and none of the four is set against another.",
+            "bn": "হকের ব্যাখ্যা আরও কয়েক রকম। তাবারী বলেন, মুমিনরা সেই হকের অনুসরণ করেছে যা তাদের রবের কাছ থেকে এসেছে। আর সেটা হলেন মুহাম্মাদ ﷺ এবং তিনি রবের কাছ থেকে যে নূর ও প্রমাণ নিয়ে এসেছেন। মুয়াসসার তাঁর কাছাকাছি কথা বলে: তারা রাসূল ﷺ-এর অনুসরণ করেছে, আর তিনি যে নূর ও হিদায়াত এনেছেন তার। বাগাভী আল-হাকের ব্যাখ্যা দেন এক শব্দে: কুরআন। কুরতুবীর কথা আগেই এসেছে, তাওহীদ ও ঈমান। একজন মানুষ, একটি কিতাব, একটি আকীদা। প্রত্যেক ব্যাখ্যা নিজ নিজ তাফসীরে আছে, আর চারটির কোনোটিকেই অন্যটির বিপরীতে দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "47:2 had already joined these. It spoke of faith and righteous deeds, then added belief in what was sent down to Muhammad ﷺ. Ibn Kathir says this addition joins a specific meaning to a general one, and that it proves belief in him is, after his coming, a required condition of true faith. Ma'arif al-Qur'an makes the same point on 47:2: the explicit sentence specifies that the actual basis of faith is to embrace all the teachings of the Last Prophet ﷺ. Both comments come in groups that take in 47:3.",
+            "bn": "৪৭:২ আয়াত আগেই এগুলোকে একসঙ্গে জুড়ে দিয়েছিল। সেখানে ঈমান আর নেক আমলের কথা বলার পর আলাদা করে যোগ হয়েছে মুহাম্মাদ ﷺ-এর উপর নাযিল হওয়া বিষয়ে বিশ্বাস। ইবন কাসীর বলেন, এটা সাধারণ কথার সঙ্গে একটি নির্দিষ্ট কথা যোগ করা। এ থেকে প্রমাণ হয়, তাঁর আগমনের পর তাঁর উপর ঈমান আনা সত্যিকারের ঈমানের অপরিহার্য শর্ত। মাআরিফুল কুরআনও ৪৭:২ আয়াতে একই কথা বলে: এই স্পষ্ট বাক্যটি নির্দিষ্ট করে দেয় যে ঈমানের আসল ভিত্তি শেষ নবী ﷺ-এর সব শিক্ষা গ্রহণ করা। দুটি মন্তব্যই এমন আয়াতগুচ্ছের আলোচনায় এসেছে, যার মধ্যে ৪৭:৩ আয়াতও আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Amthalahum Can Mean",
+          "bn": "আমসালাহুম শব্দের অর্থগুলো"
+        },
+        "p": [
+          {
+            "en": "The verse ends kadhalika yadribu Allahu li-n-nasi amthalahum: thus Allah strikes for people their amthal. The word is the plural of mathal, a likeness or example, and the verb is literally to strike, the verb used for setting a likeness forth. The commentators fetched for this verse do not settle on a single reading of the word. Ibn Kathir reads it as consequence: Allah makes clear to them where their deeds lead and what they will come to in their return. On this reading the likenesses are the outcomes of 47:1 and 47:2, shown in advance.",
+            "bn": "আয়াতের শেষ বাক্য: কাযালিকা ইয়াদরিবুল্লাহু লিন্নাসি আমসালাহুম, এভাবেই আল্লাহ মানুষের জন্য তাদের দৃষ্টান্ত তুলে ধরেন। আমসাল শব্দটি মাসাল-এর বহুবচন, অর্থ উপমা বা দৃষ্টান্ত। ক্রিয়াটির শাব্দিক অর্থ আঘাত করা, তবে উপমা পেশ করার জন্য এটাই ব্যবহৃত হয়। এই আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, সেগুলো শব্দটিকে এক অর্থে পড়েনি। ইবন কাসীর পড়েন পরিণাম হিসেবে: আল্লাহ তাদের সামনে স্পষ্ট করে দেন তাদের আমল কোথায় গিয়ে ঠেকবে, আর আখিরাতে ফিরে গিয়ে তারা কী পাবে। এই পাঠে দৃষ্টান্ত মানে ৪৭:১ ও ৪৭:২ আয়াতের দুই পরিণাম, যা আগেভাগেই দেখিয়ে দেওয়া হলো।"
+          },
+          {
+            "en": "At-Tabari reads it as resemblance. As I have made clear to you, people, what I did with the party of disbelief and the party of faith, so do We set out likenesses for people and draw resemblances for them, attaching to every people, from among the likenesses, forms that match them. The Muyassar follows him: He attaches to each people the likenesses and forms that suit it. Al-Baghawi gives a one-word gloss, ashkalahum, their kinds, and then relays al-Zajjaj: thus Allah makes clear the likenesses of the believers' good deeds and of the sending astray of the disbelievers' deeds.",
+            "bn": "তাবারী পড়েন সাদৃশ্য হিসেবে। হে মানুষ, কুফরির দল আর ঈমানের দলের সঙ্গে আমি যা করেছি, তা যেভাবে তোমাদের সামনে স্পষ্ট করলাম, সেভাবেই আমরা মানুষের জন্য উপমা দিই, সদৃশ জিনিস দেখাই। প্রত্যেক দলের সঙ্গে জুড়ে দিই তার মানানসই রূপ। মুয়াসসারও তাঁর পথ ধরে বলে: প্রত্যেক দলের সঙ্গে তিনি জুড়ে দেন তার উপযোগী উপমা ও রূপ। বাগাভী এক শব্দে ব্যাখ্যা দেন, আশকালাহুম, অর্থাৎ তাদের ধরন। তারপর তিনি যাজ্জাজের কথা উদ্ধৃত করেন: এভাবেই আল্লাহ মুমিনদের নেক আমলের দৃষ্টান্ত, আর কাফিরদের আমল পথহারা হওয়ার দৃষ্টান্ত স্পষ্ট করে দেন।"
+          },
+          {
+            "en": "Al-Qurtubi reads it as explanation: like this explanation He has given, Allah explains to people the matter of good deeds and bad deeds. As-Sa'di reads it as description: Allah has made clear to people the people of good and the people of evil, and has mentioned for each of them a description by which they are known and told apart. So there are four emphases: outcome, resemblance, explanation and description. The sources state them side by side without disputing, and this article keeps all four as they give them.",
+            "bn": "কুরতুবী পড়েন ব্যাখ্যা হিসেবে: যেভাবে এখানে তিনি বিষয়টি বুঝিয়ে দিলেন, সেভাবেই আল্লাহ মানুষকে ভালো আর মন্দ কাজের ব্যাপারটা বুঝিয়ে দেন। সা'দী পড়েন বর্ণনা হিসেবে: আল্লাহ মানুষের সামনে ভালো লোক আর মন্দ লোক স্পষ্ট করে দিয়েছেন। প্রত্যেকের জন্য এমন এক বৈশিষ্ট্য বলে দিয়েছেন, যা দিয়ে তাদের চেনা যায় আর আলাদা করা যায়। তাহলে চারটি দিক দাঁড়াল: পরিণাম, সাদৃশ্য, ব্যাখ্যা আর বর্ণনা। উৎসগুলো এগুলো পাশাপাশি রেখেছে, কোনো বিরোধ ছাড়া। এ লেখাও চারটিকেই রাখছে, যেভাবে তারা বলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Likenesses Are These?",
+          "bn": "এ দৃষ্টান্ত কাদের?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi settles a smaller question: the pronoun in amthalahum, their likenesses, returns to both groups, those who disbelieve and those who believe. The verse does not set out only the disbelievers as a warning. The believers' description is set out as well, and it comes with conditions: faith, righteous deeds and belief in what was sent down to Muhammad ﷺ. A reader who is glad to carry the name 'believer' also finds, in 47:2, the description that the name has to match. The mirror faces both ways.",
+            "bn": "কুরতুবী একটি ছোট প্রশ্নের মীমাংসা করেন। আমসালাহুম, তাদের দৃষ্টান্ত, এখানে 'তাদের' সর্বনামটি দুই দলকেই বোঝায়: যারা কুফরি করেছে আর যারা ঈমান এনেছে। অর্থাৎ আয়াত শুধু কাফিরদের সতর্কবাণী হিসেবে তুলে ধরেনি। মুমিনদের বর্ণনাও তুলে ধরেছে, আর সে বর্ণনার শর্ত আছে: ঈমান, নেক আমল আর মুহাম্মাদ ﷺ-এর উপর নাযিল হওয়া বিষয়ে বিশ্বাস। 'মুমিন' নামটি নিয়ে যে পাঠক খুশি, ৪৭:২ আয়াতে সে-ও পায় সেই বর্ণনা, যার সঙ্গে নামটিকে মিলতে হবে। আয়নাটা দুই দিকেই মুখ করে আছে।"
+          },
+          {
+            "en": "As-Sa'di closes his short comment with a verse from Surah al-Anfal, 8:42: so that whoever perished might perish upon clear evidence, and whoever lived might live upon clear evidence. On his reading the descriptions are set out so that no one reaches an outcome without first having been shown its road. Ibn Kathir's reading points the same way from the other end: the likenesses show people where they will come to in their return, and they are shown while there is still time to change which description one fits.",
+            "bn": "সা'দী তাঁর ছোট্ট মন্তব্য শেষ করেন সূরা আনফালের ৮:৪২ আয়াত দিয়ে: যাতে যে ধ্বংস হয় সে স্পষ্ট প্রমাণ দেখে ধ্বংস হয়, আর যে বেঁচে থাকে সে-ও স্পষ্ট প্রমাণ দেখে বেঁচে থাকে। তাঁর পাঠে বর্ণনাগুলো এজন্যই তুলে ধরা, যাতে পথটা আগে না দেখে কেউ পরিণামে না পৌঁছায়। ইবন কাসীরের পাঠ অন্য প্রান্ত থেকে একই দিকে ইশারা করে। দৃষ্টান্তগুলো মানুষকে দেখায়, আখিরাতে ফিরে তারা কোথায় গিয়ে দাঁড়াবে। আর দেখায় এমন সময়ে, যখন কোন বর্ণনার সঙ্গে নিজে মিলবে তা বদলানোর সুযোগ এখনো আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mirror, Never a Licence",
+          "bn": "আয়না, ছাড়পত্র নয়"
+        },
+        "p": [
+          {
+            "en": "The surah moves next, in 47:4, to the conduct of a war already joined, and the article on that verse treats its rulings. This verse is not that command. It describes two paths and the outcomes Allah attaches to them, as the text describes them. It licenses nothing against any living person or community: no hostility, no contempt, no harm to a neighbour of another faith. The people of 47:1 are named by what they did, disbelieving and barring others from Allah's way, and the verdict on their deeds belongs to Allah alone.",
+            "bn": "পরের আয়াত ৪৭:৪-এ সূরা চলে যায় এমন এক যুদ্ধের বিধানে, যা আগেই শুরু হয়ে গেছে। সে আয়াতের আলোচনায় তার বিধানগুলো আছে। এই আয়াত সেই নির্দেশ নয়। এটি দুটি পথ আর আল্লাহ সেগুলোর সঙ্গে যে পরিণাম জুড়ে দিয়েছেন তার বর্ণনা, যেমনটা আয়াতে আছে ঠিক ততটুকুই। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। শত্রুতা নয়, অবজ্ঞা নয়, ভিন্ন ধর্মের প্রতিবেশীর কোনো ক্ষতিও নয়। ৪৭:১ আয়াতের লোকদের চেনানো হয়েছে তাদের কাজ দিয়ে: কুফরি আর আল্লাহর পথে বাধা। তাদের আমলের ফয়সালা একমাত্র আল্লাহর।"
+          },
+          {
+            "en": "The commentators' readings face the same direction. On Ibn Kathir's reading the likenesses show people the end of their own deeds; on as-Sa'di's, each group is given a description by which it is known. A description is something to measure oneself against. Used as a stick for others, it turns the verse inside out, because the following that 47:3 names, of falsehood or of truth, is something each reader does for himself, and something he can still change before the return that Ibn Kathir speaks of.",
+            "bn": "মুফাসসিরদের পাঠও একই দিকে মুখ করা। ইবন কাসীরের পাঠে দৃষ্টান্ত মানুষকে দেখায় তাদের নিজেদের আমলের শেষ পরিণতি। সা'দীর পাঠে প্রত্যেক দলকে দেওয়া হয়েছে এমন বর্ণনা, যা দিয়ে তাকে চেনা যায়। বর্ণনা হলো নিজেকে মেপে দেখার জিনিস। অন্যকে পেটানোর লাঠি বানালে আয়াতের অর্থ উল্টে যায়। কারণ ৪৭:৩ আয়াত যে অনুসরণের কথা বলে, বাতিলের হোক বা হকের, তা প্রত্যেক পাঠক নিজেই করে। আর ইবন কাসীর যে প্রত্যাবর্তনের কথা বলেন, তার আগে সে নিজেই তা বদলাতেও পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "May Allah Set Right Your State",
+          "bn": "আল্লাহ আপনার অবস্থা শুধরে দিন"
+        },
+        "p": [
+          {
+            "en": "The reward in 47:2, aslaha balahum, comes back in 47:5 for those killed in Allah's way: He will guide them and set right their bal. Ibn Kathir, commenting on the group 47:1 to 47:3, reports the early glosses: Ibn Abbas (RA), their matter; Mujahid, their affair; Qatadah and Ibn Zayd, their condition; and he says these are similar in meaning. Ma'arif al-Qur'an says bal is used for a person's state of affairs and also for the heart, that here it can carry both, and that setting the heart right leads to setting a person's works right.",
+            "bn": "৪৭:২ আয়াতের প্রতিদান, আসলাহা বালাহুম, ৪৭:৫ আয়াতে ফিরে আসে আল্লাহর পথে নিহতদের জন্য: তিনি তাদের পথ দেখাবেন আর তাদের বাল শুধরে দেবেন। ৪৭:১ থেকে ৪৭:৩ আয়াতগুচ্ছের আলোচনায় ইবন কাসীর পূর্বসূরিদের ব্যাখ্যা উল্লেখ করেন। ইবন আব্বাস (রাঃ) বলেছেন, তাদের বিষয়। মুজাহিদ বলেছেন, তাদের ব্যাপার। কাতাদা ও ইবন যাইদ বলেছেন, তাদের অবস্থা। ইবন কাসীরের মতে এগুলোর অর্থ কাছাকাছি। মাআরিফুল কুরআন বলে, বাল শব্দটি কখনো জীবনের অবস্থা বোঝায়, কখনো অন্তর। এখানে দুটোই হতে পারে, আর অন্তর ঠিক হলে আমলও ঠিক হয়ে যায়।"
+          },
+          {
+            "en": "Ibn Kathir also mentions the phrase in the reply to a person who sneezes. Al-Bukhari (6224) records from Abu Hurayrah (RA) that the Prophet ﷺ said: if anyone of you sneezes, let him say al-hamdu lillah, and let his brother or his companion say to him yarhamuka Allah; and when he says to him yarhamuka Allah, let him say yahdikumu Allahu wa yuslihu balakum, may Allah guide you and set right your state. The narration does not mention this verse, and no tafsir fetched here attaches a hadith to 47:3 itself.",
+            "bn": "ইবন কাসীর হাঁচির জবাবে বলা কথাটিও উল্লেখ করেন। বুখারী (৬২২৪) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: তোমাদের কেউ হাঁচি দিলে সে যেন বলে, আলহামদু লিল্লাহ। আর তার ভাই বা সঙ্গী যেন তাকে বলে, ইয়ারহামুকাল্লাহ। সে যখন তাকে ইয়ারহামুকাল্লাহ বলবে, তখন হাঁচিদাতা যেন বলে, ইয়াহদীকুমুল্লাহু ওয়া ইউসলিহু বালাকুম, আল্লাহ আপনাকে হিদায়াত দিন আর আপনার অবস্থা শুধরে দিন। এই বর্ণনায় আয়াতটির উল্লেখ নেই। আর এখানে দেখা কোনো তাফসীর ৪৭:৩ আয়াতের সঙ্গে সরাসরি কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Checking What I Follow",
+          "bn": "কার পেছনে চলছি, যাচাই"
+        },
+        "p": [
+          {
+            "en": "The verse lets a reader ask the question without accusing anyone: what do I follow? At-Tabari's reading of falsehood as one who is obeyed, and al-Qurtubi's reading of it as shirk, both make the question practical. Whose voice moves me, and to whom do I turn in worship? The truth, by the glosses gathered above, has an address: the Messenger ﷺ and what he brought, the Qur'an, tawhid and faith. What I follow can be checked against that address, and at-Tabari's phrase for it is light and proof.",
+            "bn": "আয়াতটি পাঠককে কাউকে দোষ না দিয়েই প্রশ্নটা করার সুযোগ দেয়: আমি কার পেছনে চলছি? তাবারী বাতিলকে পড়েন এমন কেউ হিসেবে যার কথা মানা হয়, আর কুরতুবী পড়েন শিরক হিসেবে। দুই পাঠই প্রশ্নটিকে হাতে-কলমে নিয়ে আসে। কার কথায় আমি নড়ি? ইবাদতে আমি কার দিকে মুখ ফেরাই? উপরে জড়ো করা ব্যাখ্যা অনুযায়ী হকের একটা ঠিকানা আছে: রাসূল ﷺ ও তিনি যা এনেছেন, কুরআন, তাওহীদ আর ঈমান। আমি যার অনুসরণ করছি, তাকে এই ঠিকানার সঙ্গে মিলিয়ে দেখা যায়। তাবারী এর নাম দিয়েছেন নূর ও প্রমাণ।"
+          },
+          {
+            "en": "The outcomes are worth weighing in the order the surah gives them. Deeds can be done, many of them, and still be sent astray, as 47:1 says and as 25:23, cited by Ibn Kathir, pictures in scattered dust. The believers of 47:2 are not promised a record without faults; they are promised that their misdeeds are wiped away and their state set right. The likenesses are set out now, in this verse, while the following can still be changed and the return has not yet come.",
+            "bn": "পরিণামগুলো সূরা যে ক্রমে দিয়েছে, সেই ক্রমেই ভেবে দেখার মতো। আমল করা যায়, অনেক আমল, তবু তা পথ হারাতে পারে। ৪৭:১ আয়াত সে কথাই বলে, আর ইবন কাসীরের উদ্ধৃত ২৫:২৩ আয়াত তার ছবি আঁকে বিক্ষিপ্ত ধূলিকণায়। ৪৭:২ আয়াতের মুমিনদের নির্ভুল আমলনামার প্রতিশ্রুতি দেওয়া হয়নি। প্রতিশ্রুতি হলো, তাদের গুনাহ মুছে দেওয়া হবে আর তাদের অবস্থা শুধরে দেওয়া হবে। দৃষ্টান্তগুলো তুলে ধরা হয়েছে এখনই, এই আয়াতে, যখন অনুসরণের পথ বদলানো যায় আর প্রত্যাবর্তনের দিন এখনো আসেনি।"
+          }
+        ]
+      }
+    ]
+  },
   "47:4": {
     "sections": [
       {
