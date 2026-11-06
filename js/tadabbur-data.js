@@ -25169,6 +25169,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer the charge against the truth with the truth itself and the purpose it came for, and keep hope alive for those no one has yet warned.",
     "lessonBn": "সত্যের বিরুদ্ধে অভিযোগের জবাব দিন সত্য দিয়েই, আর সে কেন এসেছে তা দিয়ে। যাদের কাছে এখনো কেউ সতর্কবাণী নিয়ে যায়নি, তাদের ব্যাপারে আশা ছাড়বেন না।"
+  },
+  "32:9": {
+    "reflectionEn": "Clay, then a drop held in low regard, and then this verse. He set the human frame straight and balanced, breathed into it of the spirit He calls His own, and the lifeless became alive. Only then does the verse turn and speak to me directly: He made for you hearing, sight and hearts. The ear that takes in a voice, the eye that knows a face, the heart that tells good from harm: none of them was earned, and none was asked for. Then comes the sentence that stings because it is so quiet: little are you grateful. Today I used every one of these gifts. How many times did I remember who gave them, and what did I do with them?",
+    "reflectionBn": "মাটি, তারপর তুচ্ছ এক ফোঁটা পানি, আর তারপর এই আয়াত। তিনি মানুষের গড়নকে সোজা ও সুষম করলেন, তাতে ফুঁকে দিলেন সেই রূহ থেকে, যাকে তিনি নিজের বলে উল্লেখ করেছেন। প্রাণহীন জিনিস হয়ে উঠল জীবন্ত। ঠিক এর পরেই আয়াত মুখ ফিরিয়ে সরাসরি আমাকে বলে: তিনি তোমাদের দিয়েছেন কান, চোখ আর অন্তর। যে কান একটা কণ্ঠস্বর ধরে, যে চোখ একটা চেহারা চেনে, যে অন্তর ভালো আর ক্ষতিকে আলাদা করে, এর কোনোটাই আমি অর্জন করিনি, চেয়েও নিইনি। তারপর আসে সেই বাক্য, যা চুপচাপ বলেই বেশি বেঁধে: তোমরা খুব কমই কৃতজ্ঞতা প্রকাশ করো। আজ এর প্রতিটি নিয়ামত আমি কাজে লাগিয়েছি। কতবার মনে পড়েছে, এগুলো কে দিয়েছেন? আর এগুলো দিয়ে আমি করেছিই বা কী?",
+    "pointsEn": [
+      "What did my ears take in today, and would I be glad to have the One who gave them hear it with me?",
+      "Which sight do I let my eyes rest on that I would not choose if I remembered they were lent to me?",
+      "When my heart weighs good against harm, do I follow its verdict, or argue it down?",
+      "The verse calls my thanks little. What would it look like for my thanks this week to show in what I do, not only in what I say?",
+      "I was once lifeless clay and a despised drop. Does that memory make me humbler with people, or have I forgotten it?"
+    ],
+    "pointsBn": [
+      "আজ আমার কান কী কী শুনেছে? যিনি কান দিয়েছেন, তিনি সঙ্গে বসে শুনছেন জানলে কি আমি খুশি থাকতাম?",
+      "কোন দৃশ্যে আমি চোখ আটকে রাখি, যা চোখ ধার পাওয়া জিনিস এ কথা মনে থাকলে বেছে নিতাম না?",
+      "অন্তর যখন ভালো আর ক্ষতির হিসাব করে রায় দেয়, আমি কি সেই রায় মানি, নাকি যুক্তি দিয়ে তাকে চাপা দিই?",
+      "আয়াত আমার কৃতজ্ঞতাকে বলছে সামান্য। এ সপ্তাহে আমার শোকর শুধু মুখে নয়, কাজেও দেখা দিলে তা কেমন হবে?",
+      "একসময় আমি ছিলাম প্রাণহীন মাটি আর তুচ্ছ এক ফোঁটা। এ কথা মনে রাখা কি মানুষের সঙ্গে আমাকে বিনয়ী করে, নাকি আমি তা ভুলেই গেছি?"
+    ],
+    "lessonEn": "Your hearing, sight and heart are gifts from the One who gave you life; thank Him by using them in what pleases Him.",
+    "lessonBn": "আপনার কান, চোখ আর অন্তর তাঁরই দান, যিনি আপনাকে জীবন দিয়েছেন; যা তাঁকে খুশি করে তাতে এগুলো কাজে লাগিয়েই তাঁর শোকর আদায় করুন।"
   }
 };
 

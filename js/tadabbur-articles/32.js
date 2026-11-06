@@ -443,6 +443,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "32:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Second Then",
+          "bn": "দ্বিতীয় 'তারপর'"
+        },
+        "p": [
+          {
+            "en": "The verse opens on thumma, then, and it is the second in a row. 32:7 named Him who made well everything He created and began the creation of man from clay; 32:8 went on, thumma, to his progeny, made from an extract of a despised fluid. Now a third step: thumma sawwahu, then He proportioned him. In fourteen Arabic words the human being is shaped, given life, given hearing, sight and hearts, and then rebuked for how little he thanks.",
+            "bn": "আয়াতের শুরু সুম্মা দিয়ে, অর্থাৎ তারপর। পরপর এটা দ্বিতীয়বার। ৩২:৭ আয়াত বলেছে সেই সত্তার কথা, যিনি যা সৃষ্টি করেছেন সবই উত্তম করে বানিয়েছেন আর মানুষের সৃষ্টি শুরু করেছেন মাটি থেকে। ৩২:৮ আয়াত সুম্মা বলে এগিয়ে গেছে তার বংশধরের দিকে, যাদের বানানো হয়েছে তুচ্ছ পানির নির্যাস থেকে। এবার তৃতীয় ধাপ: সুম্মা সাওয়াহু, তারপর তিনি তাকে সুঠাম করলেন। আরবিতে মাত্র চৌদ্দটি শব্দ। এর ভেতরেই মানুষকে গড়া হয়, প্রাণ দেওয়া হয়, কান, চোখ আর অন্তর দেওয়া হয়। আর শেষে ভর্ৎসনা: তোমরা কত কম শোকর করো।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English commentary that treats 32:7 to 32:9 together, notes the pattern: when Allah mentions the creation of the heavens and the earth, He follows it by mentioning the creation of man. Here 32:4 has just spoken of the heavens, the earth and the six days. Right after this verse, 32:10 gives the deniers' question, whether they will be made anew once lost in the earth. This article keeps to 32:9 itself; its neighbours, and 23:14 with its stages, have their own pages.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ৩২:৭ থেকে ৩২:৯ একসঙ্গে আলোচনা করে। সেখানে তিনি একটা ধারা লক্ষ করেন: আল্লাহ যখন আসমান ও জমিনের সৃষ্টির কথা বলেন, তার পরপরই বলেন মানুষের সৃষ্টির কথা। এখানেও ৩২:৪ আয়াত সবে আসমান, জমিন আর ছয়টি দিনের কথা বলেছে। আবার এ আয়াতের ঠিক পরে ৩২:১০ আয়াতে আসে অস্বীকারকারীদের প্রশ্ন: মাটিতে মিশে গেলেও কি আমাদের নতুন করে গড়া হবে? এ লেখা শুধু ৩২:৯ নিয়েই থাকবে। পাশের আয়াতগুলো আর ধাপে ধাপে সৃষ্টির বিবরণসহ ২৩:১৪ আয়াতের আলাদা পাতা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Adam, or Every Child",
+          "bn": "আদম (আঃ), নাকি প্রতিটি শিশু"
+        },
+        "p": [
+          {
+            "en": "Whom does the him of sawwahu mean? Most of the commentators fetched say Adam (AS). Ibn Kathir writes that when He created him from dust, He made him even and upright. At-Tabari has Him proportion the human being whose creation He began from clay, which points back to 32:7. Al-Jalalayn says outright that He created Adam. Al-Qurtubi opens by saying the verse returns to Adam, and al-Baghawi implies the same: after sawwa khalqahu, He made his frame even, he adds that the verse then turns back to his offspring.",
+            "bn": "সাওয়াহু শব্দের 'তাকে' বলতে কাকে বোঝানো হয়েছে? সংগৃহীত তাফসীরের বেশিরভাগ বলেন, আদম (আঃ)-কে। ইবন কাসীর লেখেন, তাঁকে মাটি থেকে সৃষ্টি করার পর আল্লাহ তাঁকে সুঠাম ও সোজা করে গড়লেন। তাবারীর ভাষায়, যে মানুষের সৃষ্টি তিনি মাটি থেকে শুরু করেছিলেন, তাকেই তিনি সুঠাম করলেন। কথাটা ফিরে যায় ৩২:৭ আয়াতে। জালালাইন সরাসরি বলে, তিনি আদমকে সৃষ্টি করলেন। কুরতুবী শুরুতেই বলেন, আয়াত এখানে আদমের কথায় ফিরে গেছে। বাগাভীর কথাতেও তা-ই বোঝা যায়। 'সাওয়া খালকাহু', অর্থাৎ তাঁর গড়ন সুষম করলেন, বলার পর তিনি যোগ করেন যে আয়াত এরপর তাঁর বংশধরের দিকে ফিরেছে।"
+          },
+          {
+            "en": "A second line reads the verse of every child. Al-Qurtubi records it under qila, it is said: He made that despised fluid of 32:8 into a balanced creation and set the spirit in it. Tanwir al-Miqbas, the commentary carried under Ibn 'Abbas's name, glosses sawwahu as gathering his creation in his mother's womb. Al-Muyassar and as-Sa'di name neither Adam nor the child, but both describe the breathing as done by an angel sent for it: bi-irsal al-malak lahu, in al-Muyassar's words.",
+            "bn": "আরেকটি ধারায় আয়াতটিকে পড়া হয় প্রতিটি মানবশিশুর কথা হিসেবে। কুরতুবী এ মত আনেন 'বলা হয়' বলে: ৩২:৮ আয়াতের সেই তুচ্ছ পানিকেই আল্লাহ সুষম সৃষ্টিতে পরিণত করলেন, তারপর তাতে রূহ স্থাপন করলেন। ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত তাফসীর তানবীরুল মিকবাস সাওয়াহুর ব্যাখ্যা দেয় এভাবে: মায়ের গর্ভে তার গড়নকে তিনি একত্র করলেন। মুয়াসসার আর সা'দী আদম বা শিশু, কারও নাম নেন না। তবে দুজনেই বলেন, ফুঁক দেওয়ার কাজটি হয় একজন ফেরেশতা পাঠিয়ে। মুয়াসসারের ভাষায়, 'বি-ইরসালিল মালাকি লাহু', তার কাছে ফেরেশতা পাঠিয়ে।"
+          },
+          {
+            "en": "The commentators leave both readings standing, and so does this article. On the first, the verse moves from the father to his children at the words for you. On the second, him and you are the same people seen from two sides: each of us, shaped and given life, and then addressed. Either way the reader is inside the verse by its middle, and the rebuke at its close is meant for whoever is reading.",
+            "bn": "তাফসীরকারেরা দুটি পাঠই রেখে দিয়েছেন, এ লেখাও কোনোটিকে বাদ দেয় না। প্রথম পাঠে আয়াত 'তোমাদের জন্য' কথাটিতে এসে পিতা থেকে সন্তানদের দিকে সরে যায়। দ্বিতীয় পাঠে 'তাকে' আর 'তোমাদের' একই মানুষ, শুধু দুই দিক থেকে দেখা: আমাদের প্রত্যেককে গড়া হয়েছে, প্রাণ দেওয়া হয়েছে, তারপর সম্বোধন করা হয়েছে। যেভাবেই পড়ুন, আয়াতের মাঝামাঝি পৌঁছে পাঠক নিজেই এর ভেতরে ঢুকে পড়েন। আর শেষের ভর্ৎসনা তাঁর জন্যই, যিনি এখন পড়ছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Even, Upright, Well Placed",
+          "bn": "সোজা, সুষম, যথাস্থানে"
+        },
+        "p": [
+          {
+            "en": "What is taswiya, the proportioning itself? Ibn Kathir's word is sawiyyan mustaqiman, even and upright; his English abridgement adds that He gave him shape. At-Tabari says khalqan sawiyyan mu'tadilan, a creation even and balanced. Al-Muyassar strings three verbs together: He completed the human being's creation, originated it, and made its form beautiful, ahsana khilqatahu. That last verb is the ahsana of 32:7, where everything He created is made well, so the earlier verse's word returns in the gloss on this verse.",
+            "bn": "তাসওয়িয়া, অর্থাৎ সুঠাম করা, আসলে কী? ইবন কাসীরের শব্দ 'সাবিয়্যান মুস্তাকীমান', সমান ও সোজা। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ যোগ করে, তিনি তাকে আকৃতি দিলেন। তাবারী বলেন 'খালকান সাবিয়্যান মু'তাদিলান', সমান ও ভারসাম্যপূর্ণ এক সৃষ্টি। মুয়াসসার তিনটি ক্রিয়া পরপর সাজায়: মানুষের সৃষ্টি তিনি পূর্ণ করলেন, নতুনভাবে উদ্ভাবন করলেন, আর তার গড়ন সুন্দর করলেন, 'আহসানা খিলকাতাহু'। শেষ ক্রিয়াটি ৩২:৭ আয়াতের সেই 'আহসানা', যেখানে বলা হয়েছে তিনি যা বানিয়েছেন সবই উত্তম করে বানিয়েছেন। ফলে আগের আয়াতের শব্দটিই এ আয়াতের ব্যাখ্যায় ফিরে আসে।"
+          },
+          {
+            "en": "As-Sa'di goes into the body. He proportioned him with his flesh, his limbs, his nerves and his veins, made his form beautiful, and set every limb in the place where nothing else would suit it. The phrase is worth slowing down for. Nothing in the frame, on his account, is out of place; each part has the place that fits it. Read that way, the body every person carries is a small, close instance of what 32:7 says of all creation, and it is carried without a thought.",
+            "bn": "সা'দী দেহের ভেতরে ঢোকেন। তাঁর ভাষায়, আল্লাহ তাকে সুঠাম করলেন তার গোশত, অঙ্গপ্রত্যঙ্গ, স্নায়ু আর শিরা-উপশিরা দিয়ে, গড়ন সুন্দর করলেন, আর প্রতিটি অঙ্গ রাখলেন এমন জায়গায়, যেখানে অন্য কিছু মানাত না। কথাটা একটু থেমে ভাবার মতো। তাঁর বর্ণনায় দেহের কোনো অংশই বেমানান জায়গায় নেই, প্রতিটি অংশ পেয়েছে তার উপযুক্ত স্থান। এভাবে পড়লে প্রত্যেক মানুষ যে দেহ বয়ে বেড়ায়, তা ৩২:৭ আয়াতে গোটা সৃষ্টি সম্পর্কে বলা কথারই এক ছোট, কাছের নমুনা। অথচ সেটা আমরা বয়ে বেড়াই কোনো ভাবনা ছাড়াই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Spirit Named as His",
+          "bn": "যে রূহকে তিনি নিজের বলেন"
+        },
+        "p": [
+          {
+            "en": "Wa-nafakha fihi min ruhihi: and He breathed into him of His spirit. The spirit is ascribed to Allah, and al-Qurtubi explains the ascription directly. He set the spirit in him and ascribed it to Himself tashrifan, as an honour. And also, he says, because it is His doing and His creation, min fi'lihi wa khalqihi, just as He ascribes the servant to Himself when He says 'abdi, My servant. The English translation printed with this verse makes the same point with a bracket: from His [created] soul.",
+            "bn": "ওয়া নাফাখা ফীহি মিন রূহিহী: আর তিনি তাতে ফুঁকে দিলেন তাঁর রূহ থেকে। এখানে রূহকে আল্লাহর দিকে সম্পর্কিত করা হয়েছে। কেন, তা কুরতুবী সরাসরি বলে দেন। আল্লাহ তার মধ্যে রূহ স্থাপন করলেন এবং সম্মান দেওয়ার জন্য, 'তাশরীফান', সেটিকে নিজের দিকে সম্পর্কিত করলেন। কুরতুবী আরেকটি কারণও বলেন: রূহ তাঁরই কাজ, তাঁরই সৃষ্টি, 'মিন ফি'লিহী ওয়া খালকিহী'। যেমন বান্দাকেও তিনি নিজের দিকে সম্পর্কিত করে বলেন 'আবদী', আমার বান্দা। এ আয়াতের সঙ্গে দেওয়া ইংরেজি অনুবাদও বন্ধনী দিয়ে একই কথা বলে: তাঁর [সৃষ্ট] রূহ থেকে।"
+          },
+          {
+            "en": "This is the possessive of honour, and it should be read the way it is meant. A servant called My servant is honoured by the name and remains a servant. The spirit called His spirit is honoured by the name and remains a created thing, as al-Qurtubi's own words, His doing and His creation, make plain; it is no portion of Allah. Maududi, in Tafhim al-Qur'an, likens the ascription to a thing's being attributed to its owner. The commentators fetched say no more about what the spirit is, and this article goes no further.",
+            "bn": "এ হলো সম্মানের সম্বন্ধ, আর একে সেভাবেই পড়তে হবে যেভাবে বলা হয়েছে। যে বান্দাকে 'আমার বান্দা' বলা হয়, নামটা তাকে সম্মান দেয়, কিন্তু সে বান্দাই থাকে। যে রূহকে 'তাঁর রূহ' বলা হয়েছে, নামটা তাকে সম্মান দেয়, কিন্তু সে সৃষ্ট বস্তুই থাকে। কুরতুবীর নিজের কথাই তা স্পষ্ট করে: তাঁর কাজ, তাঁর সৃষ্টি। রূহ আল্লাহর কোনো অংশ নয়। মওদূদী তাফহীমুল কুরআনে এ সম্বন্ধকে তুলনা করেন মালিকের দিকে কোনো জিনিসকে সম্পর্কিত করার সঙ্গে। রূহ আসলে কী, সে সম্পর্কে সংগৃহীত তাফসীরগুলো এর বেশি কিছু বলেনি, এ লেখাও এর বেশি যাবে না।"
+          },
+          {
+            "en": "Why breathing? Al-Qurtubi answers in a clause: it is put as breathing because the ruh is of the same kind as the rih, the wind, and he notes that he has set this out more fully under an-Nisa. What the breath did, the others state. At-Tabari: fa-sara hayyan natiqan, he became living and speaking. Al-Jalalayn: a living, sensing being after having been an inanimate thing. As-Sa'di: by Allah's leave he becomes a living creature after he had been jamad, lifeless matter.",
+            "bn": "ফুঁক দেওয়ার কথা কেন? কুরতুবী এক বাক্যে উত্তর দেন: রূহ বাতাস, অর্থাৎ 'রীহ'-এর জাতের জিনিস, তাই একে ফুঁক বলা হয়েছে। তিনি জানান, সূরা নিসার আলোচনায় এ বিষয়ে আরও বিস্তারিত বলেছেন। ফুঁক কী করল, তা অন্যরা বলেন। তাবারী: 'ফাসারা হাইয়ান নাতিকান', সে হয়ে গেল জীবন্ত, কথা বলতে পারা মানুষ। জালালাইন: আগে ছিল প্রাণহীন জিনিস, এখন হলো অনুভূতিসম্পন্ন জীবন্ত সত্তা। সা'দী: আল্লাহর অনুমতিতে সে প্রাণী হয়ে ওঠে, অথচ আগে ছিল 'জামাদ', নিষ্প্রাণ বস্তু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forty Days, Then the Breath",
+          "bn": "চল্লিশ দিন, তারপর রূহ"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse quotes a hadith on it. One sound narration, which none of them links to the verse, speaks of the same breathing, so it is given here as a general report, not attached to 32:9. Al-Bukhari records it in his Sahih (3208) from 'Abdullah ibn Mas'ud (RA): Allah's Messenger ﷺ, the true and truly inspired, said: \"(The matter of the Creation of) a human being is put together in the womb of the mother in forty days, and then he becomes a clot of thick blood for a similar period, and then a piece of flesh for a similar period.\"",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস উদ্ধৃত করেনি। একটি সহীহ বর্ণনা আছে, যা তাঁদের কেউ এ আয়াতের সঙ্গে জোড়েননি, তবে তাতে একই ফুঁক দেওয়ার কথা আছে। তাই এখানে বর্ণনাটি আনা হলো একটি সাধারণ বর্ণনা হিসেবে, ৩২:৯ আয়াতের সঙ্গে যুক্ত করে নয়। বুখারী তাঁর সহীহ গ্রন্থে (৩২০৮) আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে এটি বর্ণনা করেছেন। সত্যবাদী ও সত্যায়িত রাসূলুল্লাহ ﷺ বলেছেন: \"তোমাদের প্রত্যেকের সৃষ্টি তার মায়ের পেটে চল্লিশ দিন ধরে একত্র করা হয়। তারপর সমপরিমাণ সময় সে আলাকা অবস্থায় থাকে, তারপর সমপরিমাণ সময় মুদগা অবস্থায়।\""
+          },
+          {
+            "en": "The narration continues: \"Then Allah sends an angel who is ordered to write four things. He is ordered to write down his (i.e. the new creature's) deeds, his livelihood, his (date of) death, and whether he will be blessed or wretched (in religion). Then the soul is breathed into him.\" In the Arabic that last sentence is thumma yunfakhu fihi ar-ruh, with the same verb and the same fihi as wa-nafakha fihi in this verse. It speaks of each child, the subject of the second reading above; no commentator fetched uses it to decide between the readings.",
+            "bn": "বর্ণনাটি এগিয়ে চলে: \"তারপর আল্লাহ একজন ফেরেশতা পাঠান, তাঁকে চারটি বিষয় লেখার আদেশ দেওয়া হয়। তাঁকে বলা হয়, লেখো তার আমল, তার রিযিক, তার আজাল, আর সে হতভাগা না সৌভাগ্যবান। তারপর তার মধ্যে রূহ ফুঁকে দেওয়া হয়।\" শেষ বাক্যটি আরবিতে 'সুম্মা ইউনফাখু ফীহির রূহ'। এ আয়াতের 'ওয়া নাফাখা ফীহি'-র মতোই এখানে একই ক্রিয়া, একই 'ফীহি'। বর্ণনাটি প্রতিটি শিশুর কথা বলে, যা ওপরে বলা দ্বিতীয় পাঠের বিষয়। তবে সংগৃহীত কোনো তাফসীর এটি দিয়ে দুই পাঠের মীমাংসা করেনি।"
+          },
+          {
+            "en": "And it ends: \"So, a man amongst you may do (good deeds till there is only a cubit between him and Paradise and then what has been written for him decides his behavior and he starts doing (evil) deeds characteristic of the people of the (Hell) Fire. And similarly a man amongst you may do (evil) deeds till there is only a cubit between him and the (Hell) Fire, and then what has been written for him decides his behavior, and he starts doing deeds characteristic of the people of Paradise.\" Al-Bukhari gives it no grading beyond placing it in his Sahih.",
+            "bn": "আর বর্ণনাটি শেষ হয় এভাবে: \"তোমাদের মধ্যে কেউ আমল করতে থাকে, শেষে তার আর জান্নাতের মাঝে মাত্র এক হাতের ব্যবধান থাকে। তখন তার লেখা তাকে ছাড়িয়ে যায়, আর সে জাহান্নামীদের আমল করে বসে। আবার কেউ আমল করতে থাকে, শেষে তার আর জাহান্নামের মাঝে মাত্র এক হাতের ব্যবধান থাকে। তখন লেখা তাকে ছাড়িয়ে যায়, আর সে জান্নাতীদের আমল করে।\" বুখারী বর্ণনাটিকে তাঁর সহীহ গ্রন্থে রেখেছেন, এর বাইরে আলাদা কোনো মান উল্লেখ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Him to You",
+          "bn": "'তাকে' থেকে 'তোমাদের'"
+        },
+        "p": [
+          {
+            "en": "Then the pronouns change. Up to here the verse speaks of him; now it says wa-ja'ala lakum, and He made for you. Al-Qurtubi marks the turn: then He returned to his descendants and said, and He made for you hearing, sight and hearts. Al-Baghawi says the same and adds a phrase of his own: for you, after you had been drops of fluid, ba'da an kuntum nutafan. Al-Jalalayn glosses for you as for you, his descendants, so on their reading the father is shaped and the children are addressed.",
+            "bn": "এরপর সর্বনাম বদলে যায়। এতক্ষণ আয়াত বলছিল 'তাকে', 'তার মধ্যে'। এবার বলে 'ওয়া জাআলা লাকুম', আর তিনি তোমাদের জন্য বানালেন। কুরতুবী এই মোড়টা চিহ্নিত করেন: এরপর তিনি তার বংশধরের দিকে ফিরলেন এবং বললেন, তিনি তোমাদের জন্য বানালেন কান, চোখ আর অন্তর। বাগাভীও একই কথা বলেন, সঙ্গে নিজের একটা কথা যোগ করেন: তোমাদের জন্য, 'বা'দা আন কুনতুম নুতাফান', তোমরা যখন ছিলে কয়েক ফোঁটা পানি, তার পরে। জালালাইন 'তোমাদের' বলতে বোঝায় তার বংশধরদের। তাঁদের পাঠে গড়া হলো পিতাকে, আর সম্বোধন করা হলো সন্তানদের।"
+          },
+          {
+            "en": "Maududi, in Tafhim al-Qur'an, reads a meaning into the turn. Before the breathing, he says, man is spoken of in the third person, as one not yet worthy of being addressed; once the spirit had been breathed into him he became worthy of that honour, and so the verse speaks to him directly: He gave you the ears, the eyes and the hearts. That is Maududi's reading of the shift. The older commentators fetched here record the turn from him to you without giving it a reason.",
+            "bn": "মওদূদী তাফহীমুল কুরআনে এই মোড়ের মধ্যে একটা অর্থ খুঁজে পান। তাঁর কথা হলো, রূহ ফুঁকে দেওয়ার আগে মানুষকে সরাসরি না ডেকে তার কথা বলা হয়েছে 'সে' বলে, কারণ তখনো সে সম্বোধনের যোগ্য হয়নি। রূহ পাওয়ার পর সে সেই সম্মানের যোগ্য হলো, তাই আয়াত তাকে সরাসরি বলে: তিনি তোমাদের দিয়েছেন কান, চোখ আর অন্তর। এটা মওদূদীর নিজস্ব পাঠ। এখানে সংগৃহীত প্রাচীন তাফসীরকারেরা 'তাকে' থেকে 'তোমাদের'-এ সরে যাওয়ার কথা উল্লেখ করেছেন, কিন্তু এর কোনো কারণ বলেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gathered, Then Weighed",
+          "bn": "আগে সংগ্রহ, পরে বিচার"
+        },
+        "p": [
+          {
+            "en": "What the three gifts are for, the commentators say plainly. At-Tabari: hearing with which you hear voices, sight with which you see persons, and hearts with which you understand good from evil, so that you would thank Him for what He gave. Al-Muyassar speaks of the blessing of hearing and sight, by which sounds, colours, things and persons are told apart, and the blessing of reason, by which good is told from evil and benefit from harm. Ibn Kathir glosses al-af'ida in a single word: al-'uqul, minds.",
+            "bn": "তিনটি নিয়ামত কীসের জন্য, তাফসীরকারেরা তা সোজা ভাষায় বলেন। তাবারী: কান, যা দিয়ে তোমরা আওয়াজ শোনো; চোখ, যা দিয়ে মানুষজন দেখো; আর অন্তর, যা দিয়ে ভালো আর মন্দ বুঝে আলাদা করো, যাতে যা দেওয়া হয়েছে তার জন্য তোমরা তাঁর শোকর করো। মুয়াসসার বলে শোনা আর দেখার নিয়ামতের কথা, যা দিয়ে আওয়াজ, রং, বস্তু আর মানুষ চেনা যায়। আর বলে আকলের নিয়ামতের কথা, যা দিয়ে ভালো-মন্দ আর উপকার-ক্ষতি আলাদা করা যায়। ইবন কাসীর 'আল-আফইদা'র ব্যাখ্যা দেন এক শব্দে: 'আল-উকূল', বুদ্ধি।"
+          },
+          {
+            "en": "On the order, Maududi says that hearing and sight are the chief instruments by which man gains knowledge, and the heart is the mind that arranges what the senses bring, draws inferences and chooses a way to act. As-Sa'di sees a gift given in stages: He kept giving you benefits little by little, shay'an fa-shay'an, until He gave you hearing and sight. Tanwir al-Miqbas gives all three one purpose, to hear, see and perceive the truth and guidance. The article's own reading follows from these: the senses gather, the heart weighs, and both were given for the same end.",
+            "bn": "ক্রম নিয়ে মওদূদী বলেন, শোনা আর দেখা হলো জ্ঞান অর্জনের প্রধান মাধ্যম। আর অন্তর হলো সেই বুদ্ধি, যা ইন্দ্রিয়ের আনা খবর সাজায়, তা থেকে সিদ্ধান্ত টানে, আর কাজের একটা পথ বেছে নেয়। সা'দী দেখেন ধাপে ধাপে দেওয়া এক দান: তিনি তোমাদের একটু একটু করে, 'শাইআন ফা-শাইআন', উপকার দিয়ে গেছেন, শেষে দিয়েছেন কান আর চোখ। তানবীরুল মিকবাস তিনটিরই এক উদ্দেশ্য বলে: হক ও হেদায়েত শোনা, দেখা আর উপলব্ধি করা। এসব থেকে এ লেখার নিজের পাঠ দাঁড়ায় এমন: ইন্দ্রিয় সংগ্রহ করে, অন্তর বিচার করে, আর দুটোই দেওয়া হয়েছে একই লক্ষ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Little Thanks, or None",
+          "bn": "সামান্য শোকর, নাকি শোকরই নেই"
+        },
+        "p": [
+          {
+            "en": "The verse ends qalilan ma tashkurun, and the commentators read it in two ways. At-Tabari takes it at its word: you thank your Lord with little thanks for the blessings He gave you. Al-Muyassar says the same. Al-Jalalayn adds a note on the grammar: the ma is extra, and it emphasises the littleness of the thanks. On this reading some thanks is given; it is simply small beside what was received.",
+            "bn": "আয়াতের শেষ 'কালীলান মা তাশকুরূন'। তাফসীরকারেরা একে দুইভাবে পড়েন। তাবারী কথাটা আক্ষরিক অর্থে নেন: তোমাদের রব যে নিয়ামত দিয়েছেন, তার জন্য তোমরা সামান্যই শোকর করো। মুয়াসসারও একই কথা বলে। জালালাইন ব্যাকরণের একটা কথা যোগ করে: এখানে 'মা' অতিরিক্ত, আর তা শোকরের স্বল্পতাকে আরও জোরালো করে। এ পাঠে কিছু শোকর আদায় হয়, তবে যা পাওয়া হয়েছে তার তুলনায় তা খুবই সামান্য।"
+          },
+          {
+            "en": "Al-Qurtubi reads it more sharply: you do not give thanks at all; bal takfurun, rather you deny. Al-Baghawi likewise: you do not thank the Lord of these blessings, fa-tuwahhidunahu, by affirming His oneness. On this reading little is a way of saying none, and the thanks in question is measured by tawhid. The two readings stand side by side in the sources, and the article leaves them that way, with neither preferred.",
+            "bn": "কুরতুবী আরও কঠিনভাবে পড়েন: তোমরা মোটেই শোকর করো না, 'বাল তাকফুরূন', বরং অস্বীকার করো। বাগাভীও তেমনি বলেন: এই নিয়ামতগুলোর রবের শোকর তোমরা করো না, 'ফা-তুওয়াহহিদূনাহু', অর্থাৎ তাঁকে এক বলে মেনে নিয়ে শোকর করো না। এ পাঠে 'সামান্য' কথাটা আসলে 'একেবারেই না' বলার একটা ধরন। আর এখানে শোকরের মাপকাঠি তাওহীদ। দুটি পাঠই সূত্রগুলোতে পাশাপাশি আছে। এ লেখাও কোনোটিকে প্রাধান্য না দিয়ে দুটোকে সেভাবেই রেখে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir closes on what to do with the gifts. Little thanks, he says, for these faculties Allah has given you, and then: the truly blessed is whoever uses them in obedience to his Lord. As-Sa'di names whom the thanks is owed to: Him who created you and gave you your form. Read beside at-Tabari's so that you would thank Him, thanks here is less a word than a use: the ear, the eye and the heart, turned toward Him who made them.",
+            "bn": "ইবন কাসীর শেষ করেন নিয়ামতগুলো দিয়ে কী করতে হবে সে কথায়। তিনি বলেন, আল্লাহ তোমাদের যে শক্তিগুলো দিয়েছেন, তার জন্য তোমাদের শোকর সামান্য। তারপর বলেন: সত্যিকার সৌভাগ্যবান সে, যে এগুলো তার রবের আনুগত্যে কাজে লাগায়। সা'দী বলে দেন শোকর কার পাওনা: যিনি তোমাদের সৃষ্টি করেছেন আর তোমাদের আকৃতি দিয়েছেন। তাবারীর 'যাতে তোমরা তাঁর শোকর করো' কথাটার পাশে রেখে পড়লে বোঝা যায়, শোকর এখানে মুখের কথার চেয়ে বেশি ব্যবহারের ব্যাপার: কান, চোখ আর অন্তরকে তাঁর দিকে ফিরিয়ে রাখা, যিনি এগুলো বানিয়েছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "32:16": {
     "sections": [
       {
