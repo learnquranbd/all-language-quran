@@ -23911,6 +23911,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "God's reckoning comes by right and can come in a single moment; heed the warning while there is time, and never turn its words of condemnation on anyone living.",
     "lessonBn": "আল্লাহর পাকড়াও আসে ন্যায্যভাবে, আসতে পারে এক মুহূর্তেই। সময় থাকতে সতর্কবাণীতে কান দিন, আর এর ধিক্কারের কথা কখনো কোনো জীবিত মানুষের দিকে ঘুরিয়ে দেবেন না।"
+  },
+  "23:68": {
+    "reflectionEn": "The verse asks two questions and leaves the listener to answer them. Have they not pondered the word? Or has something reached them that never reached their forefathers? The first names what was missing. They had heard it recited often enough; what they never did was turn it over, asking what it means and what it asks of them. The second question takes away an excuse. A message is not false because it is new to me, and it is not true merely because my elders held it. The same two questions meet me whenever I recite. Do I let a verse pass over me like a familiar sound? And do I measure the truth by what my family already believed, or let it measure us?",
+    "reflectionBn": "আয়াতটি দুটি প্রশ্ন করে, তারপর উত্তরের ভার ছেড়ে দেয় শ্রোতার উপর। তারা কি এ বাণী নিয়ে ভাবেনি? নাকি তাদের কাছে এমন কিছু এসেছে যা তাদের পূর্বপুরুষদের কাছে আসেনি? প্রথম প্রশ্ন দেখিয়ে দেয় কী অনুপস্থিত ছিল। শোনার অভাব ছিল না, বহুবার তাদের পড়ে শোনানো হয়েছে। অভাব ছিল উল্টেপাল্টে দেখার: এর মানে কী, আমার কাছে এ কী চায়। দ্বিতীয় প্রশ্ন একটা অজুহাত কেড়ে নেয়। কোনো বার্তা আমার কাছে নতুন বলে মিথ্যা হয়ে যায় না, আবার মুরব্বিরা মানতেন বলেই কোনো কিছু সত্য হয়ে যায় না। তিলাওয়াত করতে বসলে এ দুই প্রশ্ন আমার সামনেও এসে দাঁড়ায়। আমি কি আয়াতগুলোকে চেনা কোনো আওয়াজের মতো পাশ কাটিয়ে যেতে দিই? সত্যকে কি মাপি আমার পরিবার আগে থেকে কী বিশ্বাস করত তা দিয়ে, নাকি সত্যকেই সুযোগ দিই আমাদের মাপতে?",
+    "pointsEn": [
+      "Which verse have I recited many times without once stopping to ask what it asks of me?",
+      "When I meet a teaching I did not grow up with, do I weigh it, or wave it away because it is unfamiliar?",
+      "Which of my habits do I keep only because my parents or my circle kept them, and have I ever checked them against the Qur'an?",
+      "When I open the Qur'an, am I looking for what supports what I already want, or for what corrects me?",
+      "What would change this week if I gave one passage time to be pondered instead of only finished?"
+    ],
+    "pointsBn": [
+      "কোন আয়াত আমি বহুবার তিলাওয়াত করেছি, অথচ একবারও থেমে জিজ্ঞেস করিনি এটা আমার কাছে কী চায়?",
+      "যে শিক্ষার সঙ্গে আমি বড় হইনি, তার মুখোমুখি হলে আমি কি তা যাচাই করি, নাকি অচেনা বলে উড়িয়ে দিই?",
+      "আমার কোন অভ্যাসগুলো টিকে আছে শুধু এজন্য যে আমার বাবা-মা বা আশেপাশের লোকেরা তা করত? কুরআনের সঙ্গে কখনো কি সেগুলো মিলিয়ে দেখেছি?",
+      "কুরআন খুললে আমি কি খুঁজি যা আমার আগের ইচ্ছাকে সমর্থন করে, নাকি যা আমাকে শুধরে দেয়?",
+      "এ সপ্তাহে একটা অংশ শুধু শেষ না করে যদি ভাবার সময় দিই, তাহলে কী বদলাবে?"
+    ],
+    "lessonEn": "Do not only hear the Qur'an; ponder it. And never let a truth's newness to you, or your elders' habits, become your reason for turning it away.",
+    "lessonBn": "কুরআন শুধু শুনে যাবেন না, তা নিয়ে ভাবুন। আর কোনো সত্য আপনার কাছে নতুন বলে, কিংবা মুরব্বিদের অভ্যাসের দোহাই দিয়ে, তাকে ফিরিয়ে দেবেন না।"
   }
 };
 

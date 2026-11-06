@@ -2479,6 +2479,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:68": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Questions, Asked in Turn",
+          "bn": "পরপর চারটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "This verse opens a run of questions. Just before it, the passage describes deniers whose hearts are covered over in confusion about it (23:63), who will cry out for help when punishment seizes their affluent (23:64), and who heard the verses recited and turned away in arrogance (23:66 and 23:67). Now the Qur'an asks why. It does not argue in flat statements. It asks, and each question names an excuse the deniers might have offered, so that the listener can test the excuse for himself and see whether it stands.",
+            "bn": "এ আয়াত দিয়ে শুরু হয় একটানা কয়েকটি প্রশ্ন। ঠিক আগে আয়াতগুলো এমন অস্বীকারকারীদের কথা বলেছে, যাদের অন্তর এ বিষয়ে অজ্ঞানতায় আচ্ছন্ন (২৩:৬৩), যাদের বিত্তশালীদের শাস্তি পাকড়াও করলে তারা চিৎকার করে সাহায্য চাইবে (২৩:৬৪), আর যারা আয়াত পড়ে শোনানোর পরও অহংকারে মুখ ফিরিয়ে নিয়েছিল (২৩:৬৬ ও ২৩:৬৭)। এবার কুরআন জানতে চায়, কেন। সোজা রায় দিয়ে তর্ক না করে প্রশ্ন করে। প্রতিটি প্রশ্ন এমন একটা অজুহাতের নাম নেয় যা অস্বীকারকারীরা দেখাতে পারত। শ্রোতা নিজেই অজুহাতটা যাচাই করে দেখে, তা টেকে কি না।"
+          },
+          {
+            "en": "There are four questions in the chain. Have they not pondered the word? Or has something come to them that did not come to their earliest forefathers? Or did they not know their messenger, so that they deny him (23:69)? Or do they say there is madness in him (23:70)? Ma'arif al-Qur'an reads 23:68 to 23:70 together as naming five reasons that might have kept the unbelievers from faith and answering each in turn. This article stays with the first two questions, which share this verse; the last two are its setting.",
+            "bn": "শৃঙ্খলে প্রশ্ন চারটি। তারা কি এ বাণী নিয়ে ভাবেনি? নাকি তাদের কাছে এমন কিছু এসেছে যা তাদের আদি পূর্বপুরুষদের কাছে আসেনি? নাকি তারা নিজেদের রসূলকে চেনেনি, তাই তাঁকে অস্বীকার করছে (২৩:৬৯)? নাকি তারা বলে, তাঁর মধ্যে পাগলামি আছে (২৩:৭০)? মাআরিফুল কুরআন ২৩:৬৮ থেকে ২৩:৭০ একসঙ্গে পড়ে বলে, এখানে পাঁচটি সম্ভাব্য কারণের উল্লেখ আছে যা কাফিরদের ঈমান আনতে বাধা দিতে পারত, আর প্রতিটির জবাবও আছে। এ লেখা থাকবে প্রথম দুটি প্রশ্নের সঙ্গে, যা এই আয়াতেই আছে। বাকি দুটি প্রশ্ন তার পটভূমি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speech Addressed to Them",
+          "bn": "যে বাণী তাদেরই উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "Afa-lam yaddabbaru l-qawl: have they not, then, pondered the word? Al-Baghawi glosses yaddabbaru as yatadabbaru, the same verb with its t sound absorbed into the d, and he names al-qawl as what came to them of speech, which is the Qur'an. Al-Qurtubi gives the reason for the name. The Qur'an is called qawl, speech, because they were addressed by it. It was not a book lying on a shelf for specialists to consult. It was words spoken to them, and words spoken to someone wait for an answer.",
+            "bn": "আফালাম ইয়াদ্দাব্বারুল কাওল: তবে কি তারা এ বাণী নিয়ে গভীরভাবে ভাবেনি? বাগাভী ইয়াদ্দাব্বারু-র ব্যাখ্যা দেন ইয়াতাদাব্বারু দিয়ে। ক্রিয়া একই, শুধু 'ত' ধ্বনিটি 'দ'-এর ভেতরে মিশে গেছে। আল-কাওল বলতে তিনি বোঝান তাদের কাছে যে কথা এসেছে, অর্থাৎ কুরআন। নামটা কেন, কুরতুবী তার কারণ দেন। কুরআনকে কাওল বা কথা বলা হয়েছে, কারণ এ দিয়েই তাদের সম্বোধন করা হয়েছিল। তাকে তুলে রাখা কোনো বই ভাবার সুযোগ নেই, যা শুধু বিশেষজ্ঞরা খুলে দেখবেন। এ ছিল তাদের উদ্দেশে বলা কথা। আর কাউকে উদ্দেশ করে বলা কথা তার জবাবের অপেক্ষায় থাকে।"
+          },
+          {
+            "en": "At-Tabari spells the question out in full: have these idolaters not pondered the revelation of Allah and His speech, so as to learn the lessons, al-'ibar, it holds, and recognise the proofs, hujaj, with which Allah argued against them in it? The Muyassar makes the goal plainer: have they not thought about the Qur'an, so as to know that it is true? Al-Baghawi names what they would have found, the signs in it of the truthfulness of Muhammad ﷺ. For each of them, pondering is not a mood but a road with a destination.",
+            "bn": "তাবারী প্রশ্নটা পুরো খুলে বলেন: এই মুশরিকরা কি আল্লাহর নাযিল করা বাণী আর তাঁর কালাম নিয়ে ভাবেনি, যাতে তার ভেতরের শিক্ষা, আল-ইবার, জানতে পারে, আর চিনতে পারে সেসব দলিল, হুজাজ, যা দিয়ে আল্লাহ এতে তাদের বিরুদ্ধে যুক্তি দাঁড় করিয়েছেন? মুয়াসসার লক্ষ্যটা আরও সহজ করে বলে: তারা কি কুরআন নিয়ে চিন্তা করেনি, যাতে বুঝত যে এটা সত্য? বাগাভী বলেন, ভাবলে তারা এর মধ্যে পেত মুহাম্মাদ ﷺ-এর সত্যবাদিতার প্রমাণ। তাঁদের সবার কাছে তাদাব্বুর কোনো মনের ভাব নয়। এ এমন এক পথ, যার একটা গন্তব্য আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Pondering Would Have Led",
+          "bn": "ভাবলে কোথায় পৌঁছাত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di explains the verb with three near-synonyms: do they not think about the Qur'an, contemplate it and ponder it? Then he says what would have followed. Had they pondered it, it would have made faith binding on them and held them back from disbelief; their calamity came from turning away from it. From this he draws a general rule: pondering the Qur'an calls to every good and guards against every evil. And what kept them from pondering, he adds, is that upon their hearts are their locks.",
+            "bn": "সা'দী ক্রিয়াটির ব্যাখ্যা দেন কাছাকাছি অর্থের তিনটি শব্দে: তারা কি কুরআন নিয়ে চিন্তা করে না, এর দিকে মনোযোগ দিয়ে তাকায় না, এ নিয়ে গভীরভাবে ভাবে না? তারপর তিনি বলেন, ভাবলে কী হত। ভাবলে কুরআনই তাদের উপর ঈমান অপরিহার্য করে দিত আর কুফর থেকে ঠেকিয়ে রাখত। তাদের বিপদ এসেছে কুরআন থেকে মুখ ফিরিয়ে নেওয়ার কারণে। এখান থেকে তিনি একটা সাধারণ নিয়ম টানেন: কুরআন নিয়ে ভাবনা সব কল্যাণের দিকে ডাকে আর সব অনিষ্ট থেকে বাঁচায়। তিনি আরও বলেন, তাদের ভাবতে না দেওয়ার কারণ হলো, তাদের অন্তরে তালা লাগানো।"
+          },
+          {
+            "en": "That last phrase is not as-Sa'di's coinage. It is the wording of 47:24: do they not ponder the Qur'an, or are there locks upon their hearts? Al-Qurtubi draws the link between the passages himself, setting this verse beside the words afa-la yatadabbaruna l-Qur'an, do they not ponder the Qur'an, which the Qur'an asks in that form at 4:82 and at 47:24. Read together, the passages make the same complaint. The word was there to be pondered, and the failure lay with hearts that would not open to it.",
+            "bn": "শেষ কথাটি সা'দীর নিজের তৈরি নয়। এ হুবহু ৪৭:২৪-এর ভাষা: তারা কি কুরআন নিয়ে ভাবে না, নাকি তাদের অন্তরে তালা লাগানো? দুই জায়গার যোগসূত্র কুরতুবী নিজেই দেখান। তিনি এ আয়াতকে রাখেন আফালা ইয়াতাদাব্বারূনাল কুরআন, তারা কি কুরআন নিয়ে ভাবে না, এই কথাগুলোর পাশে। কুরআন ঠিক এই ভাষায় প্রশ্নটা করেছে ৪:৮২ ও ৪৭:২৪ আয়াতে। একসঙ্গে পড়লে আয়াতগুলো একই অভিযোগ তোলে। বাণী সামনে ছিল ভাবার জন্য। ব্যর্থতা ছিল সেই অন্তরের, যা তার জন্য খুলতে রাজি হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qatadah Swears by Allah",
+          "bn": "কাতাদার কসম"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens with the force of the question. Allah is censuring the idolaters for not understanding the Qur'an and pondering it, and for turning away from it. He then relays a saying of Qatadah that carries an oath: by Allah, they would find in the Qur'an a restraint from disobeying Allah, had the people pondered it and understood it. But, Qatadah goes on, they took hold of what was ambiguous in it, ma tashabaha, and so they perished.",
+            "bn": "ইবন কাসীর শুরু করেন প্রশ্নটার জোর দিয়ে। আল্লাহ এখানে মুশরিকদের তিরস্কার করছেন, কারণ তারা কুরআন বোঝেনি, তা নিয়ে ভাবেনি, বরং তা থেকে মুখ ফিরিয়ে নিয়েছে। এরপর তিনি কাতাদার একটা কথা আনেন, যাতে কসম আছে: আল্লাহর কসম, লোকেরা যদি কুরআন নিয়ে ভাবত আর তা বুঝত, তাহলে এর মধ্যে আল্লাহর নাফরমানি থেকে ফেরানোর মতো সতর্কবাণী পেত। কিন্তু, কাতাদা বলে চলেন, তারা আঁকড়ে ধরেছে এর অস্পষ্ট অংশ, মা তাশাবাহা, আর এভাবেই ধ্বংস হয়েছে।"
+          },
+          {
+            "en": "Qatadah's remark adds something the other commentators leave unsaid. On his account, failing to ponder is not only leaving the Qur'an unheard. It can also be hearing it and fastening on what is unclear in it, while the plain restraint it offers goes unheeded. Pondering, then, means taking the whole of it, with a readiness to be held back. Ibn Kathir gives these words as Qatadah's own comment on the verse, not as a saying of the Prophet ﷺ, and they are best read that way.",
+            "bn": "কাতাদার কথায় এমন কিছু যোগ হয়, যা অন্য তাফসীরকারেরা বলেননি। তাঁর হিসাবে না ভাবা মানে শুধু কুরআন না শোনা নয়। শুনেও এর অস্পষ্ট অংশ আঁকড়ে থাকা যায়, আর স্পষ্ট যে সতর্কবাণী মানুষকে থামাতে পারত, তা পড়ে থাকে অবহেলায়। তাহলে তাদাব্বুর মানে পুরো কুরআনকে নেওয়া, থেমে যাওয়ার প্রস্তুতি নিয়ে। ইবন কাসীর এ কথাগুলো এনেছেন আয়াতের উপর কাতাদার নিজের মন্তব্য হিসেবে, নবী ﷺ-এর বাণী হিসেবে নয়। সেভাবেই এগুলো পড়া উচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Messengers Had Come Before",
+          "bn": "রসূল আগেও এসেছেন"
+        },
+        "p": [
+          {
+            "en": "The second question, am ja'ahum ma lam ya'ti aba'ahumu l-awwalin, has drawn two main readings, and the commentators record both. The first keeps am as a question that carries on from the first: or has something come to them that never came to their predecessors, so that they thought it too great a thing and turned away? At-Tabari reads it so and answers it at once. Messengers had already come before them, he says, and books had been sent down with those messengers.",
+            "bn": "দ্বিতীয় প্রশ্ন, আম জাআহুম মা লাম ইয়াতি আবাআহুমুল আওয়ালীন, এর দুটি প্রধান পাঠ আছে, আর তাফসীরকারেরা দুটোই লিখে রেখেছেন। প্রথম পাঠে 'আম' প্রশ্নই থাকে, আগের প্রশ্নের ধারাবাহিকতায়: নাকি তাদের কাছে এমন কিছু এসেছে যা তাদের পূর্বসূরিদের কাছে কখনো আসেনি, তাই তারা একে বড় কিছু ভেবে মুখ ফিরিয়ে নিয়েছে? তাবারী আয়াতটি এভাবে পড়েন এবং সঙ্গে সঙ্গে জবাবও দেন। তাঁর কথায়, তাদের আগেও রসূলরা এসেছেন, আর সেই রসূলদের সঙ্গে কিতাবও নাযিল হয়েছে।"
+          },
+          {
+            "en": "Al-Baghawi gives the same answer in Allah's own voice: We had sent messengers before them, each to his people, and in the same way We sent Muhammad ﷺ to them. On this reading the question is a rebuke dressed as an inquiry, and its expected answer is no. Nothing unheard-of has reached them. A messenger bringing a revealed book was the settled way with peoples before them, so the strangeness of the message cannot be the honest reason it was turned away.",
+            "bn": "বাগাভী একই জবাব দেন আল্লাহর নিজের ভাষায়: আমি তাদের আগেও রসূল পাঠিয়েছি, প্রত্যেককে তার নিজের কওমের কাছে, আর একইভাবে মুহাম্মাদ ﷺ-কে পাঠিয়েছি তাদের কাছে। এ পাঠে প্রশ্নটা আসলে জিজ্ঞাসার পোশাকে তিরস্কার, আর এর প্রত্যাশিত উত্তর হলো না। তাদের কাছে অভূতপূর্ব কিছু আসেনি। নাযিল হওয়া কিতাব নিয়ে রসূলের আগমন আগের জাতিগুলোর বেলায়ও চলে আসা নিয়ম। কাজেই বার্তাটা অচেনা, এ কথা তাকে ফিরিয়ে দেওয়ার সৎ কারণ হতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rather, Something Unfamiliar Came",
+          "bn": "বরং অচেনা কিছু এল"
+        },
+        "p": [
+          {
+            "en": "The second reading takes am in the sense of bal, rather. At-Tabari mentions it as a possibility, and al-Qurtubi and al-Baghawi each record it under the words it has been said. The verse then runs: have they not pondered the word? Rather, there has come to them what did not come to their earliest forefathers, and for that they rejected it. Al-Qurtubi words it as something their forefathers had no acquaintance with, so they denied it and gave up pondering it.",
+            "bn": "দ্বিতীয় পাঠে 'আম' মানে 'বাল', অর্থাৎ বরং। তাবারী একে একটা সম্ভাবনা হিসেবে উল্লেখ করেন, আর কুরতুবী ও বাগাভী দুজনেই 'বলা হয়' বলে এ মত উদ্ধৃত করেন। তখন আয়াতের অর্থ দাঁড়ায়: তারা কি এ বাণী নিয়ে ভাবেনি? বরং তাদের কাছে এমন কিছু এসেছে যা তাদের আদি পূর্বপুরুষদের কাছে আসেনি, আর এ কারণেই তারা তা অস্বীকার করেছে। কুরতুবীর ভাষায়, এটা এমন জিনিস যার সঙ্গে তাদের বাপদাদার কোনো পরিচয় ছিল না। তাই তারা তা অস্বীকার করেছে, ভাবাও ছেড়ে দিয়েছে।"
+          },
+          {
+            "en": "At-Tabari adds that something like this reading is reported from Ibn Abbas (RA), and he gives a narration through Ikrimah in which Ibn Abbas says: by my life, there came to them what had not come to their earliest forefathers. On this reading the newness is real, and the verse exposes what the deniers made of it. At-Tabari puts their response plainly: they abandoned pondering for that reason and turned away from it, since nothing of the kind had been among their forebears.",
+            "bn": "তাবারী আরও বলেন, এ ধরনের কথা ইবন আব্বাস (রাঃ) থেকে বর্ণিত হয়েছে। ইকরিমার সূত্রে তিনি একটা বর্ণনা আনেন, যেখানে ইবন আব্বাস বলেন: আমার জীবনের কসম, তাদের কাছে এমন কিছু এসেছে যা তাদের আদি পূর্বপুরুষদের কাছে আসেনি। এ পাঠে নতুনত্বটা সত্যি, আর আয়াত দেখিয়ে দেয় অস্বীকারকারীরা তা নিয়ে কী করেছে। তাবারী তাদের প্রতিক্রিয়া সোজাসুজি বলেন: এ কারণেই তারা ভাবা ছেড়ে দিয়েছে আর মুখ ফিরিয়ে নিয়েছে, কেননা তাদের পূর্বসূরিদের মধ্যে এমন কিছু ছিল না।"
+          },
+          {
+            "en": "Al-Qurtubi records a further reading, again introduced with it has been said. Here the verse asks: or has there come to them a guarantee of safety from punishment, something their earliest forefathers were never given? Read this way, the question asks them to name the assurance that lets them ignore the warning, and its framing implies they hold none. The reading is short in al-Qurtubi and he does not develop it, but it keeps the same frame as the others, a comparison with the forefathers.",
+            "bn": "কুরতুবী আরেকটি পাঠ উল্লেখ করেন, এটিও 'বলা হয়' দিয়ে শুরু। এখানে আয়াতের প্রশ্ন: নাকি তাদের কাছে শাস্তি থেকে নিরাপত্তার কোনো নিশ্চয়তা এসেছে, যা তাদের আদি পূর্বপুরুষদের কখনো দেওয়া হয়নি? এভাবে পড়লে প্রশ্নটা তাদের কাছে জানতে চায়, কোন ভরসায় তারা সতর্কবাণী উপেক্ষা করছে। প্রশ্নের ধরনেই বোঝা যায়, এমন কোনো ভরসা তাদের নেই। কুরতুবীর কাছে পাঠটা সংক্ষিপ্ত, তিনি একে বিস্তারিত করেন না। তবু অন্যগুলোর মতো এরও কাঠামো একই: পূর্বপুরুষদের সঙ্গে তুলনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Footsteps of Their Fathers",
+          "bn": "বাপদাদার পদচিহ্ন ধরে"
+        },
+        "p": [
+          {
+            "en": "The Muyassar and as-Sa'di keep the clause as a question but turn it towards what blocked faith. Was it, they ask, that a messenger and a book came to them, unlike anything that had come to their earliest forefathers, that kept them from believing, so that they denied it and turned away? Here the newness is granted, as in the second reading, yet it stays under question. It is offered as the excuse the deniers would give, and the verse sets it out so that it can be weighed.",
+            "bn": "মুয়াসসার আর সা'দী অংশটিকে প্রশ্ন হিসেবেই রাখেন, তবে প্রশ্নের মুখ ঘুরিয়ে দেন ঈমানের পথে বাধার দিকে। তাঁরা জিজ্ঞেস করেন: তাদের কাছে এমন রসূল আর এমন কিতাব এসেছে, যার মতো কিছু তাদের আদি পূর্বপুরুষদের কাছে আসেনি, এটাই কি তাদের ঈমান আনতে বাধা দিল, ফলে তারা অস্বীকার করল আর মুখ ফিরিয়ে নিল? এখানে নতুনত্ব মেনে নেওয়া হয়, দ্বিতীয় পাঠের মতোই, তবু তা প্রশ্নের মধ্যেই থাকে। এ যেন অস্বীকারকারীদের সম্ভাব্য অজুহাত, যা আয়াত সামনে রাখে যাচাই করার জন্য।"
+          },
+          {
+            "en": "As-Sa'di then says what lay behind the excuse. They were content to walk the path of their misguided forefathers and opposed whatever differed from it. He cites 43:23, where the affluent of every town told their warner that they had found their fathers upon a way and were following in their footsteps. The warner's reply in 43:24 asks whether they would follow even if he brought them better guidance than what they found their fathers upon, and they answer that they disbelieve in what he was sent with.",
+            "bn": "অজুহাতের পেছনে আসলে কী ছিল, সা'দী তা বলে দেন। তারা নিজেদের পথভ্রষ্ট বাপদাদার পথে চলাতেই সন্তুষ্ট ছিল, আর সেই পথের বিপরীত যা কিছু, তার বিরোধিতা করত। তিনি উদ্ধৃত করেন ৪৩:২৩, যেখানে প্রতিটি জনপদের বিত্তশালীরা তাদের সতর্ককারীকে বলেছিল, আমরা আমাদের বাপদাদাকে একটা পথের উপর পেয়েছি, আর আমরা তাদেরই পদচিহ্ন অনুসরণ করছি। ৪৩:২৪ আয়াতে সতর্ককারী জানতে চান, বাপদাদাকে যার উপর পেয়েছ তার চেয়ে ভালো পথনির্দেশ আনলেও কি তোমরা তাদের অনুসরণ করবে? তারা জবাব দেয়, তোমাকে যা দিয়ে পাঠানো হয়েছে, আমরা তা অস্বীকার করি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Gift Their Ancestors Lacked",
+          "bn": "পূর্বপুরুষেরা যা পাননি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the forefathers clause from another angle. These people, he says, had been singled out with this Book, and Allah sent down no book on any messenger more complete or more noble than it. This was all the more so because their forefathers who died in the Jahiliyyah had received no book, and no warner had come to them. The newness, for him, is neither an excuse nor a cause of rejection. It is a favour, and it sharpens the rebuke, since they were given what their fathers never had.",
+            "bn": "ইবন কাসীর পূর্বপুরুষদের প্রসঙ্গটা দেখেন আরেক দিক থেকে। তাঁর কথায়, এদেরকে বিশেষভাবে দেওয়া হয়েছিল এই কিতাব, আর আল্লাহ কোনো রসূলের উপর এর চেয়ে পূর্ণাঙ্গ বা মর্যাদাপূর্ণ কিতাব নাযিল করেননি। বিশেষ করে তাদের যে পূর্বপুরুষেরা জাহিলিয়াতে মারা গেছে, তাদের কাছে কোনো কিতাব পৌঁছায়নি, কোনো সতর্ককারীও আসেননি। কাজেই তাঁর চোখে নতুনত্ব অজুহাতও নয়, অস্বীকারের কারণও নয়। এ এক অনুগ্রহ। আর এতে তিরস্কার আরও ধারালো হয়, কারণ বাপদাদা যা কখনো পায়নি, তারা তা পেয়েছিল।"
+          },
+          {
+            "en": "What should they have done? Ibn Kathir answers: met the blessing Allah had extended to them by accepting it, thanking Him for it, seeking to understand it and acting on it through the hours of the night and the ends of the day, as the noble among them did who embraced Islam and followed the Messenger ﷺ. Set beside at-Tabari and al-Baghawi, this is a real difference. They stress that messengers had come to peoples before; Ibn Kathir stresses that none had come to these people's own fathers in the Jahiliyyah. The texts keep both.",
+            "bn": "তাহলে তাদের কী করা উচিত ছিল? ইবন কাসীর জবাব দেন: আল্লাহ যে নিয়ামত তাদের দিয়েছেন, তা কবুল করা, তার শুকরিয়া আদায় করা, তা বোঝার চেষ্টা করা, আর রাতের প্রহরে ও দিনের দুই প্রান্তে সে অনুযায়ী আমল করা। তাদের মধ্যে যে মহৎ লোকেরা ইসলাম গ্রহণ করে রসূল ﷺ-এর অনুসরণ করেছিলেন, তাঁরা ঠিক এটাই করেছিলেন। তাবারী ও বাগাভীর পাশে রাখলে এখানে সত্যিকারের পার্থক্য দেখা যায়। তাঁরা জোর দেন, আগের জাতিগুলোর কাছে রসূল এসেছিলেন। ইবন কাসীর জোর দেন, জাহিলিয়াতে এদের নিজেদের বাপদাদার কাছে কেউ আসেননি। তাফসীরগুলো দুটোই ধরে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Questions Turned Inward",
+          "bn": "প্রশ্ন দুটি নিজের দিকে"
+        },
+        "p": [
+          {
+            "en": "None of the commentators fetched for this verse attaches a hadith of the Prophet ﷺ to it or gives it a separate occasion of revelation, so it is read in its place in the passage. Under the next verse, 23:69, and not on this one, Ibn Kathir recalls how those who knew the Prophet ﷺ spoke of his lineage, honesty and trustworthiness, Ja'far ibn Abi Talib (RA) before the Negus among them. That belongs to the third question, but it shows where the chain is heading: the word could be pondered, and the messenger was known.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি, আলাদা কোনো শানে নুযূলও দেয়নি। তাই আয়াতটি পড়তে হয় অনুচ্ছেদের ভেতরে তার নিজের জায়গায়। এ আয়াতে নয়, পরের আয়াত ২৩:৬৯-এর আলোচনায় ইবন কাসীর স্মরণ করেন, যারা নবী ﷺ-কে চিনতেন তাঁরা তাঁর বংশ, সততা আর বিশ্বস্ততার কথা কীভাবে বলেছেন। নাজ্জাশীর সামনে জা'ফর ইবন আবী তালিব (রাঃ) ছিলেন তাঁদের একজন। সে কথা তৃতীয় প্রশ্নের, তবু তা দেখায় শৃঙ্খলটা কোন দিকে যাচ্ছে: বাণী ভাবার মতো ছিল, আর রসূল ছিলেন চেনা।"
+          },
+          {
+            "en": "Ibn Kathir names those addressed as the idolaters, and under the next verse as the disbelievers of Quraysh; at-Tabari calls them these idolaters. The verse describes what it describes: a particular people who heard the Qur'an in their own time and refused to ponder it. It licenses nothing against any living person or community. Ma'arif al-Qur'an traces their persistence to what 23:70 states outright, that most of them disliked the truth, and ties that dislike to a love of unchallenged power they would not share with anyone.",
+            "bn": "ইবন কাসীর এখানে যাদের সম্বোধন করা হয়েছে তাদের বলেন মুশরিক, আর পরের আয়াতের আলোচনায় কুরাইশের কাফিররা। তাবারী বলেন, এই মুশরিকরা। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: নির্দিষ্ট একদল মানুষ, যারা নিজেদের সময়ে কুরআন শুনেছিল আর তা নিয়ে ভাবতে অস্বীকার করেছিল। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। মাআরিফুল কুরআন তাদের এই জেদের মূল খুঁজে পায় ২৩:৭০-এর স্পষ্ট কথায়, তাদের অধিকাংশ সত্যকে অপছন্দ করত। আর সে অপছন্দের পেছনে দেখে এমন ক্ষমতার মোহ, যার ভাগ তারা কাউকে দিতে চায়নি।"
+          },
+          {
+            "en": "For a reader today the two questions turn inward without strain. The first asks whether the Qur'an has been heard or pondered, and as-Sa'di's rule shows what rides on the answer: pondering calls to every good and guards against every evil. The second asks whether unfamiliarity has been allowed to decide. A teaching is not proved by an ancestor's habit, nor disproved by being new to me. Ibn Kathir's list is the measure of a right response: accept it, give thanks for it, try to understand it, act on it.",
+            "bn": "আজকের পাঠকের কাছে প্রশ্ন দুটি সহজেই নিজের দিকে ঘুরে আসে। প্রথম প্রশ্ন জানতে চায়, কুরআন কি শুধু শোনা হয়েছে, নাকি তা নিয়ে ভাবাও হয়েছে। সা'দীর নিয়মটা দেখিয়ে দেয় এর উত্তরের উপর কত কিছু নির্ভর করে: তাদাব্বুর সব কল্যাণের দিকে ডাকে আর সব অনিষ্ট থেকে বাঁচায়। দ্বিতীয় প্রশ্ন জানতে চায়, অচেনা বলে কি কোনো কিছুকে আগেই নাকচ করে দেওয়া হয়েছে। বাপদাদার অভ্যাস কোনো শিক্ষাকে প্রমাণ করে না, আবার আমার কাছে নতুন বলে তা ভুলও হয়ে যায় না। সঠিক সাড়ার মাপকাঠি ইবন কাসীরের তালিকা: কবুল করা, শুকরিয়া আদায় করা, বোঝার চেষ্টা করা, আর আমল করা।"
+          }
+        ]
+      }
+    ]
+  },
   "23:71": {
     "sections": [
       {
