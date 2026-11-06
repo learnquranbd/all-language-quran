@@ -24011,6 +24011,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "On the Day the Horn is blown your lineage will not carry you; settle what you owe your own people now and lean on your deeds, not your name.",
     "lessonBn": "শিঙ্গায় ফুঁ দেওয়ার দিন বংশ আপনাকে বহন করবে না। আপনজনের কাছে যা ঋণ আছে আজই মিটিয়ে নিন, আর নামের উপর নয়, আমলের উপর ভরসা রাখুন।"
+  },
+  "25:22": {
+    "reflectionEn": "They asked to see angels, as if one sighting were all that stood between them and belief. The verse answers that they will see them. But the day they see the angels brings no good news to those who lived as criminals. Then a phrase is spoken, hijran mahjura: barred, and barred again. Whether it is the angels shutting a door, or the guilty reaching for an old word of refuge that no longer works, the meaning lands the same way. What was open is now closed. The same angels bring glad tidings to others. So the question is not whether I will meet them. I will. The question is what I bring to that meeting, and whether I keep asking for signs while ignoring the ones already given.",
+    "reflectionBn": "তারা ফেরেশতা দেখতে চেয়েছিল, যেন একবার দেখতে পেলেই ঈমান আনত। আয়াত জবাব দেয়: দেখবে, অবশ্যই দেখবে। কিন্তু যেদিন দেখবে, সেদিন অপরাধী হয়ে বাঁচা মানুষদের জন্য কোনো সুসংবাদ থাকবে না। তারপর একটা কথা উচ্চারিত হয়, হিজরান মাহজূরা: নিষিদ্ধ, পুরোপুরি নিষিদ্ধ। ফেরেশতারা দরজা বন্ধ করে দিচ্ছেন, নাকি অপরাধীরা আশ্রয় চাওয়ার এক পুরনো বুলি আঁকড়ে ধরছে, যা আর কাজে আসে না, অর্থটা একই জায়গায় গিয়ে দাঁড়ায়। যা খোলা ছিল, তা এখন বন্ধ। এই ফেরেশতারাই অন্যদের কাছে সুসংবাদ নিয়ে আসেন। তাই প্রশ্ন এটা নয় যে তাঁদের সঙ্গে আমার দেখা হবে কি না। দেখা হবেই। প্রশ্ন হলো, সেই সাক্ষাতে আমি কী নিয়ে যাচ্ছি। আর যে নিদর্শন আগেই পেয়েছি, সেগুলো উপেক্ষা করে আমি কি এখনো নতুন নিদর্শনের দাবি করে চলেছি?",
+    "pointsEn": [
+      "What sign am I still waiting for before I change something I already know I should change?",
+      "If the angels came for me tonight, would their arrival be good news or the closing of a door?",
+      "Which signs have I already been given, in the Qur'an and in my own life, that I keep stepping past?",
+      "When I am frightened, do I reach for God, or for a habit of words that I say without meaning?",
+      "What one deed this week would I want to be carrying when that meeting comes?"
+    ],
+    "pointsBn": [
+      "যে পরিবর্তন দরকার বলে আমি আগেই জানি, তার জন্য আর কোন নিদর্শনের অপেক্ষায় বসে আছি?",
+      "আজ রাতেই যদি ফেরেশতারা আমার কাছে আসেন, তাঁদের আগমন কি সুসংবাদ হবে, নাকি দরজা বন্ধ হওয়ার মুহূর্ত?",
+      "কুরআনে আর নিজের জীবনে যে নিদর্শনগুলো আগেই পেয়েছি, তার কোনগুলো আমি বারবার পাশ কাটিয়ে যাই?",
+      "ভয় পেলে আমি কি আল্লাহর দিকে ছুটে যাই, নাকি অভ্যাসের বশে এমন কিছু কথা আওড়াই যার অর্থ মনে থাকে না?",
+      "সেই সাক্ষাৎ যখন আসবে, এ সপ্তাহের কোন একটি আমল আমি সঙ্গে নিয়ে যেতে চাই?"
+    ],
+    "lessonEn": "Everyone will meet the angels. Live now so that the meeting brings good news, instead of demanding new signs while stepping past the ones already given.",
+    "lessonBn": "ফেরেশতাদের সঙ্গে সবারই দেখা হবে। এখনই এমনভাবে বাঁচুন যেন সেই সাক্ষাৎ সুসংবাদ নিয়ে আসে। আগে পাওয়া নিদর্শন পাশ কাটিয়ে নতুন নিদর্শনের দাবি করবেন না।"
   }
 };
 

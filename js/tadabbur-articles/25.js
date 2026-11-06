@@ -575,6 +575,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "Granted, but Not as Asked",
+          "bn": "চাওয়া মিলবে, তবে অন্যভাবে"
+        },
+        "p": [
+          {
+            "en": "The verse before this one records a demand. Those who do not hope to meet God said: why are the angels not sent down to us, or why do we not see our Lord? The Qur'an answers at once that they have grown arrogant within themselves and are insolent with a great insolence. Ibn Kathir explains the demand as a wish to see the angels with their own eyes and hear them say that Muhammad ﷺ is God's Messenger, and sets it beside 17:92, where they ask him to bring God and the angels before them face to face.",
+            "bn": "আগের আয়াতে একটা দাবির কথা আছে। যারা আল্লাহর সঙ্গে সাক্ষাতের আশা রাখে না, তারা বলেছিল: আমাদের কাছে ফেরেশতা নামানো হয় না কেন? কিংবা আমরা আমাদের রবকে দেখি না কেন? কুরআন সঙ্গে সঙ্গে জবাব দেয়: তারা মনে মনে অহংকারী হয়ে উঠেছে, আর সীমা ছাড়িয়েছে চরম ঔদ্ধত্যে। ইবন কাসীর বলেন, তারা চেয়েছিল নিজের চোখে ফেরেশতা দেখতে, আর তাঁদের মুখ থেকে শুনতে যে মুহাম্মাদ ﷺ আল্লাহর রাসূল। এর পাশে তিনি রাখেন ১৭:৯২ আয়াত, যেখানে তারা দাবি করেছিল আল্লাহ আর ফেরেশতাদের সামনাসামনি এনে হাজির করতে।"
+          },
+          {
+            "en": "Verse 25:22 answers the demand without granting it on their terms. At-Tabari opens by naming whom it means: those who said, why were the angels not sent down to us to confirm Muhammad. As-Sa'di calls these the angels they had proposed, and says that if they persist in their crime they must see and meet what they asked for. The Muyassar adds that they will see them in a form they never asked for: not to give them tidings of the Garden, but to tell them it has been made forbidden to them.",
+            "bn": "২৫:২২ আয়াত সেই দাবির জবাব দেয়, তবে তাদের শর্তে নয়। তাবারী শুরুতেই বলে দেন আয়াতটি কাদের নিয়ে: যারা বলেছিল, মুহাম্মাদকে সত্য বলে সাক্ষ্য দিতে আমাদের কাছে ফেরেশতা নামানো হলো না কেন। সা'দীর ভাষায়, এরাই সেই ফেরেশতা যাদের নামানোর প্রস্তাব তারা দিয়েছিল। অপরাধে অটল থাকলে যা তারা চেয়েছিল, তা তাদের দেখতেই হবে, মুখোমুখি হতেই হবে। মুয়াসসার যোগ করে, তারা ফেরেশতাদের দেখবে চাওয়া রূপে নয়, অন্য রূপে। জান্নাতের সুসংবাদ দিতে নয়, বরং জানিয়ে দিতে যে জান্নাত তাদের জন্য নিষিদ্ধ করা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At the Deathbed or the Rising",
+          "bn": "মৃত্যুশয্যায়, নাকি পুনরুত্থানে"
+        },
+        "p": [
+          {
+            "en": "When do they see the angels? The commentators read the day in two ways, and the difference is real. Al-Qurtubi gives first the view that no one sees the angels except at death: they give the believers good news of the Garden, and strike the idolaters and disbelievers with iron rods until their souls come out. Al-Baghawi glosses the opening words simply as at death, then adds, it is said, at the Resurrection. Ibn Kathir says the verse holds true of the time of dying, when the angels bring the disbelievers tidings of the Fire and of the anger of the Compeller.",
+            "bn": "ফেরেশতাদের তারা দেখবে কখন? দিনটিকে তাফসীরকারেরা দুইভাবে পড়েছেন, আর মতভেদটা সত্যিকারের। কুরতুবী প্রথমে আনেন এই মত: মৃত্যুর সময় ছাড়া কেউ ফেরেশতা দেখে না। তখন তাঁরা মুমিনদের জান্নাতের সুসংবাদ দেন, আর মুশরিক ও কাফিরদের লোহার মুগুর দিয়ে পেটাতে থাকেন, যতক্ষণ না প্রাণ বেরিয়ে যায়। বাগাভী আয়াতের শুরুর কথাগুলোর ব্যাখ্যা দেন এক কথায়: মৃত্যুর সময়। তারপর যোগ করেন, কেউ কেউ বলেন কিয়ামতে। ইবন কাসীরের মতে আয়াতটি খাটে মৃত্যুর মুহূর্তে, যখন ফেরেশতারা কাফিরকে জাহান্নাম আর মহাপরাক্রমশালী রবের ক্রোধের খবর শোনান।"
+          },
+          {
+            "en": "For that reading Ibn Kathir points to two other verses. In 8:50 the angels take the souls of those who disbelieved, striking their faces and their backs. In 6:93 the wrongdoers are in the floods of death while the angels stretch out their hands: deliver up your souls; today you are repaid with the punishment of humiliation. He sets against this the believers at death, on whom, in 41:30, the angels descend saying: do not fear and do not grieve, and receive the good news of the Garden you were promised.",
+            "bn": "এই ব্যাখ্যার পক্ষে ইবন কাসীর আরও দুটি আয়াত দেখান। ৮:৫০ আয়াতে ফেরেশতারা কাফিরদের প্রাণ কবজ করেন, আর তাদের মুখে ও পিঠে আঘাত করেন। ৬:৯৩ আয়াতে জালিমরা মৃত্যুযন্ত্রণায় ডুবে আছে, আর ফেরেশতারা হাত বাড়িয়ে বলছেন: বের করো তোমাদের প্রাণ, আজ তোমাদের প্রতিদান লাঞ্ছনার শাস্তি। এর বিপরীতে তিনি রাখেন মৃত্যুর সময় মুমিনদের অবস্থা। ৪১:৩০ আয়াতে তাদের উপর ফেরেশতারা নেমে আসেন আর বলেন: ভয় পেয়ো না, দুঃখ কোরো না, যে জান্নাতের ওয়াদা তোমাদের দেওয়া হয়েছিল তার সুসংবাদ নাও।"
+          },
+          {
+            "en": "The other reading places the day at the Resurrection. At-Tabari relays Mujahid explaining the day they see the angels as the Day of Resurrection, and ad-Dahhak describing the quakes of the Hour, when the sky splits and the angels stand on its edges, in the words of 69:16 and 69:17. Al-Qurtubi names Mujahid and 'Atiyya al-'Awfi for this view, and Ibn Kathir names Mujahid, ad-Dahhak and others. Al-Baghawi records Muqatil placing the angels' words at the moment the disbelievers come out of their graves.",
+            "bn": "অন্য ব্যাখ্যায় দিনটি কিয়ামতের দিন। তাবারী মুজাহিদের কথা আনেন: যেদিন তারা ফেরেশতা দেখবে, তা কিয়ামতের দিন। দাহহাকের বর্ণনাও আনেন, যেখানে কিয়ামতের ভূকম্পনের ছবি আছে: আকাশ ফেটে যায়, আর ফেরেশতারা দাঁড়ান তার কিনারে কিনারে, ৬৯:১৬ ও ৬৯:১৭ আয়াতের ভাষায়। কুরতুবী এ মতের পক্ষে মুজাহিদ ও আতিয়্যা আল-আওফীর নাম নেন। ইবন কাসীর নাম নেন মুজাহিদ, দাহহাক ও আরও কয়েকজনের। বাগাভী মুকাতিলের মত উল্লেখ করেন: কাফিররা যখন কবর থেকে বেরিয়ে আসবে, ফেরেশতারা তখন তাদের ওই কথা বলবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Death, the Grave, the Gathering",
+          "bn": "মৃত্যু, কবর, তারপর হাশর"
+        },
+        "p": [
+          {
+            "en": "Some commentators do not choose between the two. Ibn Kathir, after reporting the Resurrection view, says there is no contradiction between it and the first, because on both days, the day of death and the Day of Return, the angels appear to believers and disbelievers alike. To the believers they bring good news of mercy and good pleasure; to the disbelievers they bring news of failure and loss. On either day, then, there is no good news for the criminals.",
+            "bn": "কোনো কোনো তাফসীরকার দুই মতের একটিকে বেছে নেন না। কিয়ামতের মতটি উল্লেখ করার পর ইবন কাসীর বলেন, আগের মতের সঙ্গে এর কোনো বিরোধ নেই। কারণ দুই দিনেই, মৃত্যুর দিনে আর পুনরুত্থানের দিনে, ফেরেশতারা মুমিন ও কাফির সবার সামনে প্রকাশ পান। মুমিনদের তাঁরা রহমত আর সন্তুষ্টির সুসংবাদ দেন। কাফিরদের শোনান ব্যর্থতা আর ক্ষতির খবর। তাই যেদিনই হোক, অপরাধীদের জন্য সেদিন কোনো সুসংবাদ নেই।"
+          },
+          {
+            "en": "As-Sa'di draws the same line through three stations. The first is at death, when the angels descend on them, and he quotes 6:93. Then comes the grave, where Munkar and Nakir ask them about their Lord, their prophet and their religion, and they give no answer that saves them. Last is the Day of Resurrection, when the angels drive them to the Fire and hand them to its keepers. The Muyassar's short gloss names the same three: at the deathbed, in the grave, and on the Day of Resurrection. The disagreement remains: some name a single day, others read the verse across several.",
+            "bn": "সা'দী একই কথা বলেন তিনটি ধাপে। প্রথম ধাপ মৃত্যুর সময়, যখন ফেরেশতারা তাদের উপর নেমে আসেন। এখানে তিনি ৬:৯৩ আয়াত উদ্ধৃত করেন। তারপর কবর। সেখানে মুনকার ও নাকীর তাদের জিজ্ঞেস করেন রব, নবী আর দ্বীন সম্পর্কে, আর তারা এমন কোনো জবাব দিতে পারে না যা তাদের বাঁচাবে। তারপর কিয়ামতের দিন। ফেরেশতারা সেদিন তাদের তাড়িয়ে নিয়ে যান জাহান্নামের দিকে, তুলে দেন তার প্রহরীদের হাতে। মুয়াসসারের সংক্ষিপ্ত ব্যাখ্যাতেও এই তিনটি: মৃত্যুশয্যা, কবর আর কিয়ামতের দিন। মতভেদ তবু থেকে যায়। কেউ একটি দিনের নাম নেন, কেউ আয়াতটিকে একাধিক দিনে বিস্তৃত দেখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good News Withheld",
+          "bn": "যে সুসংবাদ আসে না"
+        },
+        "p": [
+          {
+            "en": "La bushra yawma'idhin lil-mujrimin: no good news on that day for the criminals. Bushra is glad tidings, and the denial falls on the very thing the angels are elsewhere sent to bring. Ibn Kathir puts it in a turn of phrase: they do not see the angels on a day that is good for them. As-Sa'di explains why. As long as they persist in their crime and their stubbornness, they see the angels only for their punishment and for the descent of harm upon them.",
+            "bn": "লা বুশরা ইয়াওমাইযিন লিল-মুজরিমীন: সেদিন অপরাধীদের জন্য কোনো সুসংবাদ নেই। বুশরা মানে খুশির খবর। আর অন্য জায়গায় ফেরেশতারা ঠিক যে জিনিস নিয়ে আসেন, এখানে না-টা পড়েছে সেটার উপরই। ইবন কাসীর কথাটা ঘুরিয়ে বলেন: তারা এমন কোনো দিনে ফেরেশতা দেখবে না যা তাদের জন্য ভালো। কেন, তা খুলে বলেন সা'দী। অপরাধ আর হঠকারিতায় যতদিন তারা অটল, ততদিন ফেরেশতাদের দেখা পাবে কেবল শাস্তির জন্য, তাদের উপর বিপদ নেমে আসার জন্য।"
+          },
+          {
+            "en": "Al-Baghawi glosses the criminals here as the disbelievers. He gives 'Atiyya's account: the angels give the believers glad tidings on the Day of Resurrection and say to the disbelievers, there is no good news for you. Al-Qurtubi relays 'Atiyya with a sharper image: on that Day the believer is met with good news, and when the disbeliever sees it he longs for it, and sees none of it coming to him from the angels. Others, al-Baghawi adds, take the meaning to be that the criminals receive no tidings of the Garden as the believers do.",
+            "bn": "বাগাভী এখানে অপরাধী বলতে কাফিরদের বুঝিয়েছেন। তিনি আতিয়্যার বর্ণনা আনেন: কিয়ামতের দিন ফেরেশতারা মুমিনদের সুসংবাদ দেবেন, আর কাফিরদের বলবেন, তোমাদের জন্য কোনো সুসংবাদ নেই। কুরতুবী আতিয়্যার কথাটা আনেন আরও তীক্ষ্ণ ছবিতে। সেদিন মুমিনকে স্বাগত জানানো হবে সুসংবাদ দিয়ে। কাফির তা দেখে মনে মনে কামনা করবে, অথচ ফেরেশতাদের কাছ থেকে তার ভাগে কিছুই আসবে না। বাগাভী আরও জানান, কেউ কেউ এর অর্থ করেন এভাবে: মুমিনরা যেমন জান্নাতের সুসংবাদ পায়, অপরাধীরা তেমন কিছু পাবে না।"
+          },
+          {
+            "en": "The grammar keeps the day at the front. Al-Qurtubi reports an-Nahhas: the opening yawma, the day, cannot be governed by bushra, because what lies inside the scope of a negation does not act on what comes before it. So something is understood: they are kept from good news on the day they see the angels, or there is no good news on the day they see them, with yawma'idhin, that day, repeating it for emphasis. Or the sense is: remember the day they see the angels, and then the sentence begins afresh.",
+            "bn": "ব্যাকরণও দিনটিকে সামনে রাখে। কুরতুবী নাহহাসের মত উদ্ধৃত করেন: শুরুর ইয়াওমা, অর্থাৎ দিন, শব্দটির নিয়ন্ত্রক বুশরা হতে পারে না। কারণ না-বাচকের আওতায় যা থাকে, তা আগের শব্দের উপর কাজ করে না। তাই এখানে কিছু উহ্য আছে। হয় অর্থ, যেদিন তারা ফেরেশতা দেখবে সেদিন তাদের সুসংবাদ থেকে বঞ্চিত রাখা হবে। নয়তো, যেদিন দেখবে সেদিন কোনো সুসংবাদ থাকবে না, আর ইয়াওমাইযিন, সেদিন, কথাটা জোর দিতে আবার এসেছে। আরেক অর্থ: স্মরণ করো সেই দিন, যেদিন তারা ফেরেশতা দেখবে। তারপর বাক্য নতুন করে শুরু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Built on Barring",
+          "bn": "নিষেধের শিকড়ে গাঁথা শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa yaquluna hijran mahjura: and they say, hijran mahjura. Ibn Kathir gives the root's first sense as prevention. A judge is said to impose hajr on a person when he bars him from handling his own wealth, for foolishness, bankruptcy, being under age or the like. The Hijr beside the Sacred House takes its name from this, because people are kept from circling inside it and go round behind it. And the mind is called hijr because it holds its owner back from what does not befit him.",
+            "bn": "ওয়া ইয়াকূলূনা হিজরান মাহজূরা: আর তারা বলে, হিজরান মাহজূরা। ইবন কাসীর বলেন, এই ধাতুর মূল অর্থ বাধা দেওয়া। কাজী যখন কাউকে নিজের সম্পদ লেনদেন করতে বাধা দেন, নির্বুদ্ধিতা, দেউলিয়াপনা, নাবালেগ হওয়া বা এ রকম কোনো কারণে, তখন বলা হয় কাজী তার উপর হাজর জারি করেছেন। কাবার পাশের হিজর নামটিও এখান থেকে, কারণ তাওয়াফকারীদের তার ভেতর দিয়ে ঘুরতে দেওয়া হয় না, ঘুরতে হয় তার পেছন দিয়ে। আর বিবেককেও হিজর বলে, কারণ অশোভন কাজ থেকে সে মানুষকে আটকে রাখে।"
+          },
+          {
+            "en": "At-Tabari glosses the pair as haraman muharraman, forbidden and made forbidden, and brings a line of the poet al-Mutalammis in which hijr means forbidden; al-Qurtubi cites the same line and another beside it. The phrase sets a noun and a participle from the same root side by side, so the barring is said twice over. Al-Qurtubi also records that al-Hasan and Abu Raja' read hujran, with the first vowel u, while the readers at large say hijran.",
+            "bn": "তাবারী জোড়া শব্দটির অর্থ করেন হারামান মুহাররামান, অর্থাৎ নিষিদ্ধ, পুরোপুরি নিষিদ্ধ। প্রমাণ হিসেবে আনেন কবি মুতালাম্মিসের একটি পঙক্তি, যেখানে হিজর মানে নিষিদ্ধ। কুরতুবীও সেই পঙক্তি উদ্ধৃত করেন, সঙ্গে আরেকটি। একই ধাতুর একটি বিশেষ্য আর একটি কর্মবাচক রূপ পাশাপাশি বসেছে, তাই নিষেধের কথাটা বলা হলো দুবার। কুরতুবী আরও জানান, হাসান ও আবু রাজা পড়েছেন হুজরান, প্রথম হরফে পেশ দিয়ে। আর সাধারণ কারীরা পড়েন হিজরান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Says Hijran Mahjura?",
+          "bn": "কথাটি কার মুখের?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states openly that the interpreters differed over who says it. The first view, which he chooses, is that the angels say it to the criminals: forbidden and made forbidden to you today is good news from God. He relays it from ad-Dahhak, and from Mujahid in a version that adds, the angels say it. Ibn Kathir lists for it Mujahid, 'Ikrima, ad-Dahhak, al-Hasan, Qatada, 'Atiyya al-'Awfi, 'Ata' al-Khurasani, Khusayf and others, and relays Abu Sa'id al-Khudri: forbidden that they be given the good news the God-fearing are given.",
+            "bn": "তাবারী খোলাখুলি বলেন, কথাটা কে বলবে তা নিয়ে ব্যাখ্যাকারেরা একমত নন। প্রথম মত, যা তিনি নিজে গ্রহণ করেছেন: ফেরেশতারা অপরাধীদের বলবেন, আজ আল্লাহর পক্ষ থেকে কোনো সুসংবাদ পাওয়া তোমাদের জন্য নিষিদ্ধ, পুরোপুরি নিষিদ্ধ। এ মত তিনি আনেন দাহহাক থেকে, আর মুজাহিদের এমন এক বর্ণনা থেকে যেখানে যোগ আছে: কথাটা ফেরেশতারা বলবেন। ইবন কাসীর এ মতের পক্ষে নাম নেন মুজাহিদ, ইকরিমা, দাহহাক, হাসান, কাতাদা, আতিয়্যা আল-আওফী, আতা আল-খুরাসানী, খুসাইফ ও আরও অনেকের। আবু সাঈদ খুদরী (রাঃ)-এর কথাও আনেন: মুত্তাকীদের যে সুসংবাদ দেওয়া হয়, তা এদের দেওয়া নিষিদ্ধ।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi give it from Ibn 'Abbas in another form: the angels say it is forbidden for anyone to enter the Garden except one who said there is no god but God. The Muyassar takes the same side. The second view is that the criminals say it. At-Tabari relays Ibn Jurayj: when the Arabs disliked something they said hijran, and so they said it on seeing the angels. In the same report Mujahid glosses it as 'awdhan, a seeking of refuge: they seek refuge from the angels.",
+            "bn": "কুরতুবী ও বাগাভী ইবন আব্বাস (রাঃ) থেকে কথাটা আনেন আরেক রূপে: ফেরেশতারা বলবেন, লা ইলাহা ইল্লাল্লাহ যে বলেছে, সে ছাড়া আর কারও জান্নাতে ঢোকা নিষিদ্ধ। মুয়াসসারও এ পক্ষে। দ্বিতীয় মত হলো, কথাটা অপরাধীরাই বলবে। তাবারী ইবন জুরাইজের কথা আনেন: আরবরা কোনো কিছু অপছন্দ করলে বলত হিজরান। তাই ফেরেশতাদের দেখে তারা এ কথাই বলবে। একই বর্ণনায় মুজাহিদ এর অর্থ করেন আউযান, অর্থাৎ আশ্রয় চাওয়া। তারা ফেরেশতাদের হাত থেকে আশ্রয় চাইবে।"
+          },
+          {
+            "en": "Al-Qurtubi describes it as a known formula of seeking refuge before Islam: a man meeting someone he feared would say hijran mahjura, meaning, you are forbidden to touch me. As-Sa'di, just before the phrase, writes that at that point they seek refuge from the angels and flee, with nowhere to flee to. Al-Qurtubi also relays al-Hasan splitting the phrase: hijran is the criminals' plea, and mahjuran the reply, barred from them that they be given refuge. Ma'arif al-Qur'an sets out both readings.",
+            "bn": "কুরতুবী বলেন, ইসলামের আগে এটা আশ্রয় চাওয়ার এক পরিচিত বুলি ছিল। কেউ ভয়ের কোনো লোকের মুখোমুখি হলে বলত হিজরান মাহজূরা, অর্থাৎ আমার গায়ে হাত দেওয়া তোমার জন্য নিষিদ্ধ। সা'দী কথাটির ঠিক আগে লেখেন, তখন তারা ফেরেশতাদের থেকে আশ্রয় চাইবে, পালাতে চাইবে, কিন্তু পালানোর কোনো জায়গা থাকবে না। কুরতুবী হাসানের আরেকটি মতও আনেন, যেখানে কথাটি দুই ভাগে ভাগ করা। হিজরান অপরাধীদের আকুতি, আর মাহজূরা তার জবাব: আশ্রয় পাওয়া তাদের জন্য নিষিদ্ধ। মাআরিফুল কুরআন দুটি ব্যাখ্যাই তুলে ধরে।"
+          },
+          {
+            "en": "Those who weigh the two say why. At-Tabari reasons from the word: hijr means forbidden, and it is the angels who tell the people of disbelief that good news is forbidden them; seeking refuge is asking for protection, not a prohibition, and the disbelievers would not say to the angels, forbidden to you. Ibn Kathir grants that Ibn Jurayj's view has a basis, but finds it far from the context, the more so as the majority said otherwise. Mujahid's refuge gloss, he notes, may mean the same, yet one version of it adds that the angels say it; and he ends: God knows best.",
+            "bn": "যাঁরা দুই মত মেপে দেখেছেন, তাঁরা কারণও বলেছেন। তাবারী যুক্তি দেন শব্দ থেকে। হিজর মানে নিষিদ্ধ। আর কাফিরদের যে সুসংবাদ নিষিদ্ধ, সে খবর ফেরেশতারাই দেন। আশ্রয় চাওয়া মানে রক্ষা চাওয়া, নিষেধ করা নয়। কাফিররা ফেরেশতাদের বলবে না যে তোমাদের জন্য নিষিদ্ধ। ইবন কাসীর মানেন, ইবন জুরাইজের মতের পেছনে যুক্তি আছে। তবে আয়াতের প্রসঙ্গ থেকে তা দূরের, বিশেষ করে যখন অধিকাংশ আলেম অন্য কথা বলেছেন। মুজাহিদের আশ্রয়ের ব্যাখ্যাও হয়তো একই অর্থে, তিনি বলেন। তবে তার এক বর্ণনায় যোগ আছে যে কথাটা ফেরেশতারা বলবেন। শেষে তিনি থামেন এ কথায়: আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Criminals of This Verse",
+          "bn": "অপরাধী বলতে যারা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi glosses al-mujrimin, the criminals, as the disbelievers, and in the setting they are the deniers of 25:21, who did not hope to meet God and set angels as the price of belief. This needs saying plainly. The verse describes what the text describes: a people of denial, and the day their demand is met. It licenses nothing against any living person or community, and it hands no one the angels' words to pronounce over another.",
+            "bn": "বাগাভী আল-মুজরিমীন, অর্থাৎ অপরাধীদের ব্যাখ্যা করেন কাফির বলে। প্রসঙ্গ অনুযায়ী এরা ২৫:২১ আয়াতের সেই অস্বীকারকারীরা, যারা আল্লাহর সাক্ষাতের আশা রাখত না, আর ঈমানের দাম হিসেবে ফেরেশতা নামানোর শর্ত দিয়েছিল। কথাটা সোজাসুজি বলা দরকার। আয়াতটি কেবল তা-ই বর্ণনা করে যা এর ভাষায় আছে: অস্বীকারকারী এক দল, আর যেদিন তাদের দাবি পূরণ হবে সেই দিন। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। ফেরেশতাদের এই কথা অন্য কারও উপর উচ্চারণ করার অধিকারও কাউকে দেয় না।"
+          },
+          {
+            "en": "As-Sa'di's wording carries a condition: while they persist in their crime, they see the angels only for punishment. What follows in 25:23, deeds turned to scattered dust, belongs to the same day and is not taken up here. The commentaries read for this verse attach no hadith to it. What they bring are the explanations of Companions and Successors, and the verses that speak of the angels at death.",
+            "bn": "সা'দীর কথায় একটা শর্ত আছে: অপরাধে যতদিন অটল থাকবে, ততদিন ফেরেশতাদের দেখবে কেবল শাস্তির জন্য। এর পরের ২৫:২৩ আয়াতে আমল ছড়ানো ধূলিকণা হয়ে যাওয়ার কথা, সেটাও একই দিনের, তবে এখানে তার আলোচনা নয়। এ আয়াতের জন্য পড়া তাফসীরগুলো এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তারা এনেছে সাহাবী ও তাবেয়ীদের ব্যাখ্যা, আর সেই আয়াতগুলো যেখানে মৃত্যুর সময় ফেরেশতাদের কথা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for the Wrong Sign",
+          "bn": "ভুল নিদর্শনের দাবি"
+        },
+        "p": [
+          {
+            "en": "Read against its setup, the verse turns a demand inside out. They asked to see angels in order to believe, and they will see them, on a day when belief no longer opens anything. The sign they named as their price is real and it comes, but as the end of choosing, not as a proof for someone still choosing. What was sent to persuade them while there was time was a messenger who ate food and walked in the markets, as 25:20 has just said.",
+            "bn": "আগের আয়াতের পাশে রেখে পড়লে বোঝা যায়, এ আয়াত দাবিটাকেই উল্টে দেয়। তারা ঈমান আনার জন্য ফেরেশতা দেখতে চেয়েছিল। দেখবে ঠিকই, কিন্তু এমন দিনে যখন ঈমান আর কোনো দরজা খোলে না। যে নিদর্শনকে তারা দাম হিসেবে ধরেছিল, তা সত্যি এবং তা আসবেই। তবে আসবে বেছে নেওয়ার সময় ফুরিয়ে যাওয়ার পর, যে এখনো বেছে নিচ্ছে তার জন্য প্রমাণ হিসেবে নয়। সময় থাকতে তাদের বোঝানোর জন্য যাঁকে পাঠানো হয়েছিল, তিনি একজন রাসূল, যিনি খাবার খেতেন আর বাজারে চলাফেরা করতেন, যেমন ২৫:২০ আয়াত এইমাত্র বলেছে।"
+          },
+          {
+            "en": "Two companies stand on that day, and 25:24 names the other: the companions of the Garden, in a better abode and a fairer place of rest. The same angels who meet the deniers with a barring meet the others with good news. The difference is not who sees the angels, since everyone will, but what each brings to the meeting. The signs already given are enough to begin with, while the door still stands open.",
+            "bn": "সেদিন দুই দল দাঁড়াবে, আর ২৫:২৪ আয়াত অন্য দলটির কথা বলে: জান্নাতবাসীরা, যাদের ঠিকানা উত্তম, বিশ্রামের জায়গা সুন্দরতম। যে ফেরেশতারা অস্বীকারকারীদের শোনান নিষেধের কথা, তাঁরাই অন্যদের দেন সুসংবাদ। পার্থক্যটা এখানে নয় যে কে ফেরেশতা দেখবে, কারণ দেখবে সবাই। পার্থক্য হলো, সাক্ষাতের সময় কে কী নিয়ে হাজির হচ্ছে। দরজা যতক্ষণ খোলা, শুরু করার জন্য আগে পাওয়া নিদর্শনগুলোই যথেষ্ট।"
+          }
+        ]
+      }
+    ]
+  },
   "25:25": {
     "sections": [
       {
