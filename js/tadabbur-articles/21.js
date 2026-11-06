@@ -3327,6 +3327,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:96": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Until That Looks Back",
+          "bn": "পেছনে তাকানো এক ‘যতক্ষণ না’"
+        },
+        "p": [
+          {
+            "en": "Hatta idha futihat Ya'juj wa-Ma'juj wa-hum min kulli hadabin yansilun: until, when Gog and Magog are opened, and they swarm down from every rise of ground. Ten Arabic words, and the first of them cannot stand alone. Hatta, until, measures something already said, and the thing it measures sits in the verse before, 21:95: it is forbidden for a town We destroyed that they should return. This verse is the far end of that sentence, the point up to which the ban is said to hold.",
+            "bn": "হাত্তা ইযা ফুতিহাত ইয়াজূজু ওয়া মাজূজু ওয়া হুম মিন কুল্লি হাদাবিন ইয়ানসিলূন: যতক্ষণ না ইয়াজূজ ও মাজূজকে খুলে দেওয়া হয়, আর তারা প্রতিটি উঁচু ভূমি থেকে ছুটে নামে। আরবিতে দশটি শব্দ, আর প্রথম শব্দটি একা দাঁড়াতে পারে না। হাত্তা মানে ‘যতক্ষণ না’, আর তা মাপে আগে বলা কোনো কথার সীমা। সেই কথা আছে আগের আয়াতে, ২১:৯৫-এ: যে জনপদকে আমি ধ্বংস করেছি, তাদের ফিরে আসা নিষিদ্ধ। এ আয়াত সেই বাক্যেরই শেষ প্রান্ত। নিষেধটা কতদূর পর্যন্ত বহাল, এখানে তা-ই বলা হচ্ছে।"
+          },
+          {
+            "en": "How the two verses join depends on how 21:95 is read. Ibn Kathir, in the abridged English on 21:95, reports from Ibn Abbas that the ban is decreed: the people of every destroyed township will not return to this world before the Day of Resurrection, and he notes the same from Abu Ja'far al-Baqir, Qatada and others. Ma'arif al-Qur'an makes the link explicit. The phrase until Gog and Magog appear, it says, really means such people will never return, because that appearance will be a sign that the Day is near.",
+            "bn": "দুই আয়াত কীভাবে জোড়া লাগে, তা নির্ভর করে ২১:৯৫ কীভাবে পড়া হয় তার ওপর। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ২১:৯৫-এ ইবন আব্বাস থেকে আনে যে নিষেধটা স্থির করা সিদ্ধান্ত: ধ্বংস হওয়া প্রতিটি জনপদের লোকেরা কিয়ামতের আগে আর দুনিয়ায় ফিরবে না। একই কথা তিনি আবু জা'ফর আল-বাকির, কাতাদা ও অন্যদের থেকেও উল্লেখ করেন। মাআরিফুল কুরআন যোগসূত্রটা খোলাখুলি বলে দেয়। তার ভাষায়, ‘যতক্ষণ না ইয়াজূজ ও মাজূজ বের হয়’ কথাটির আসল অর্থ, তারা কখনোই ফিরবে না। কারণ ইয়াজূজ-মাজূজের আবির্ভাব হবে কিয়ামত ঘনিয়ে আসার আলামত।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi, on 21:95, read the ban another way. At-Tabari prefers Ikrima's sense, that a town God destroyed by sealing its hearts will not return from disbelief to faith; al-Qurtubi relays the same from Ibn Abbas: they will not repent. Neither, in the text I fetched, spells out what the until then measures. The Muyassar runs this verse straight on into the next: when the barrier is opened and they spread out hastening, the Day draws near. Where that when finally lands is taken up in the 21:97 article.",
+            "bn": "তাবারী ও কুরতুবী ২১:৯৫-এর নিষেধটা পড়েন অন্যভাবে। তাবারী ইকরিমার ব্যাখ্যাকে অগ্রাধিকার দেন: যে জনপদকে আল্লাহ তাদের অন্তরে মোহর মেরে ধ্বংস করেছেন, তারা কুফর ছেড়ে ঈমানে ফিরবে না। কুরতুবী ইবন আব্বাস থেকে একই কথা আনেন: তারা তওবা করবে না। তবে আমার সংগ্রহ করা পাঠে দুজনের কেউই বলেননি, এই ব্যাখ্যায় ‘যতক্ষণ না’ ঠিক কী মাপছে। মুয়াসসার এ আয়াতকে সোজা পরের আয়াতের সঙ্গে জুড়ে দেয়: প্রাচীর খুলে গেলে আর তারা দ্রুত ছড়িয়ে পড়লে কিয়ামত কাছে চলে আসে। এই ‘যখন’-এর জবাব কোথায়, তা ২১:৯৭-এর প্রবন্ধে আলোচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Opened, but What Was Shut",
+          "bn": "খুলল, কিন্তু বন্ধ ছিল কী"
+        },
+        "p": [
+          {
+            "en": "The verb is futihat, were opened, and its grammatical subject is Gog and Magog themselves. Peoples are not opened, so something has been left unsaid. Al-Qurtubi names it: there is an ellipsis, meaning until the barrier of Gog and Magog is opened, like the words ask the town in 12:82, where the town's people are meant. At-Tabari paraphrases the same way, until it is opened away from Gog and Magog, and calls them two nations whose barrier, their radm, is opened.",
+            "bn": "ক্রিয়াটি ফুতিহাত, খুলে দেওয়া হলো, আর ব্যাকরণে তার কর্তা ইয়াজূজ ও মাজূজ নিজেরাই। মানুষকে তো দরজার মতো খোলা যায় না, তাই একটা শব্দ এখানে উহ্য। কুরতুবী সেটার নাম বলে দেন: বাক্যে বিলোপ আছে, অর্থাৎ যখন ইয়াজূজ ও মাজূজের প্রাচীর খুলে দেওয়া হবে। যেমন ১২:৮২-এ বলা হয়েছে ‘জনপদকে জিজ্ঞেস করুন’, অথচ উদ্দেশ্য জনপদের লোকজন। তাবারীও একইভাবে ব্যাখ্যা করেন: যখন ইয়াজূজ ও মাজূজের সামনে থেকে খুলে দেওয়া হবে। তাঁর ভাষায় তারা দুটি জাতি, যাদের প্রাচীর, যাদের রাদম, খুলে দেওয়া হবে।"
+          },
+          {
+            "en": "Al-Baghawi records a difference in the reading: Ibn Amir, Abu Ja'far and Ya'qub read futtihat, with the middle letter doubled, for intensity, while the rest read it single. Ma'arif al-Qur'an draws a point from the verb itself: to be let loose implies they stay restrained behind some barrier until the appointed time. As for who they are, as-Sa'di says two great tribes of the children of Adam. The building and levelling of their barrier belong to Surat al-Kahf and the articles on 18:94, 18:96 and 18:99.",
+            "bn": "বাগাভী কিরাআতের একটি পার্থক্য উল্লেখ করেন। ইবন আমির, আবু জা'ফর ও ইয়াকূব পড়েছেন ফুত্তিহাত, মাঝের অক্ষরে তাশদীদ দিয়ে, আধিক্য বোঝাতে। বাকিরা পড়েছেন তাশদীদ ছাড়া। মাআরিফুল কুরআন খোদ ক্রিয়াটি থেকে একটা কথা বের করে। ছেড়ে দেওয়ার কথা বলা মানেই, নির্ধারিত সময় পর্যন্ত তারা কোনো প্রাচীরের আড়ালে আটকে থাকবে। তারা কারা, এর জবাবে সা'দী বলেন: আদম সন্তানদের দুটি বিশাল গোত্র। প্রাচীর বানানো আর তা ভেঙে সমান করার কাহিনি সূরা কাহফের বিষয়, আর ১৮:৯৪, ১৮:৯৬ ও ১৮:৯৯-এর প্রবন্ধে তা আলোচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Every Rise of Ground",
+          "bn": "প্রতিটি টিলা ও উঁচু জমি থেকে"
+        },
+        "p": [
+          {
+            "en": "Min kulli hadabin: from every hadab. At-Tabari glosses it as every sharaf, nashaz and akama, every height, every swelling of the ground, every hillock, and says the people of interpretation said the like. He gives Ibn Abbas: from every height they come on. Qatada: from every hillock. Ibn Zayd: the hadab is the thing that rises above. Al-Qurtubi adds the root: hadab is ground that rises, taken from the hump of a back, and he quotes a line of Antara for its plural.",
+            "bn": "মিন কুল্লি হাদাবিন: প্রতিটি হাদাব থেকে। তাবারী এর ব্যাখ্যা দেন শারাফ, নাশায আর আকামা দিয়ে, অর্থাৎ প্রতিটি উঁচু জায়গা, মাটির প্রতিটি ফোলা অংশ, প্রতিটি টিলা। তিনি বলেন, তাফসীরকারেরাও এমনই বলেছেন। ইবন আব্বাসের কথা তিনি আনেন: প্রতিটি উঁচু জায়গা থেকে তারা এগিয়ে আসবে। কাতাদা বলেন: প্রতিটি টিলা থেকে। ইবন যায়দ বলেন: হাদাব হলো যা উঁচু হয়ে থাকে। কুরতুবী শব্দের মূলটাও দেখান। হাদাব হলো মাটির উঁচু অংশ, এসেছে পিঠের কুঁজ বোঝানো শব্দ থেকে। এর বহুবচনের প্রমাণে তিনি আনতারার একটি পঙক্তি উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Al-Baghawi: a raised patch and a mound. Ibn Kathir: the raised part of the land, said by Ibn Abbas, Ikrima, Abu Salih, ath-Thawri and others. Ma'arif al-Qur'an allows a mountain or just a lump in the ground. Why every? Al-Qurtubi explains Ibn Abbas's gloss: because of their great number, they hasten in from every direction. The Muyassar has them setting out from the heights of the earth and spreading across its sides. Not one gate and one column, then: every hill becomes a doorway.",
+            "bn": "বাগাভীর ভাষায়: উঁচু জমি আর ঢিবি। ইবন কাসীর বলেন: ভূমির উঁচু অংশ, এ কথা ইবন আব্বাস, ইকরিমা, আবু সালিহ, সাওরী ও অন্যদের। মাআরিফুল কুরআনের মতে তা পাহাড়ও হতে পারে, মাটির সামান্য ঢিবিও হতে পারে। কিন্তু ‘প্রতিটি’ কেন? ইবন আব্বাসের ব্যাখ্যা খুলে কুরতুবী বলেন, সংখ্যায় তারা এত বেশি যে সব দিক থেকেই দ্রুত ছুটে আসবে। মুয়াসসারের বর্ণনায় তারা পৃথিবীর উঁচু জায়গাগুলো থেকে বেরিয়ে তার চারপাশে ছড়িয়ে পড়বে। তাহলে এটা একটা দরজা দিয়ে বেরোনো এক সারি নয়। প্রতিটি টিলাই হয়ে উঠবে একেকটা দরজা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Wolf's Quickened Gait",
+          "bn": "নেকড়ের দ্রুত চলন"
+        },
+        "p": [
+          {
+            "en": "Yansilun names their movement. At-Tabari explains it: they come out on foot, hastening in their walk like the naslan of the wolf, and cites a line on a wolf at nightfall, chilled, breaking into that run. Az-Zajjaj, quoted by al-Qurtubi, defines naslan as the wolf's gait when it hurries. Al-Baghawi joins the verb to the place: they hasten in coming down from the mounds and hills, like the quick going of the wolf.",
+            "bn": "ইয়ানসিলূন শব্দে বলা হয়েছে তাদের চলার ধরন। তাবারী ব্যাখ্যা করেন: তারা পায়ে হেঁটে বেরোবে, দ্রুত পা ফেলে, যেমন নেকড়ের ‘নাসালান’। প্রমাণে তিনি একটি পঙক্তি আনেন: সন্ধ্যার ঠান্ডায় এক নেকড়ে হঠাৎ সেই দৌড় শুরু করেছে। কুরতুবী যাজ্জাজের সংজ্ঞা উদ্ধৃত করেন: নাসালান হলো নেকড়ে যখন তাড়াহুড়া করে, তখনকার চলন। বাগাভী ক্রিয়াটিকে জায়গার সঙ্গে মিলিয়ে দেন। টিলা আর ঢিবি থেকে তারা দ্রুত নেমে আসবে, ঠিক নেকড়ের ক্ষিপ্র চলার মতো।"
+          },
+          {
+            "en": "Al-Qurtubi records two senses: some said yansilun means they come out, citing Imru' al-Qays; others said they hasten, citing an-Nabigha's line on the wolf. Ibn Kathir gives the speed a direction: they hasten in their walking toward corruption. As-Sa'di reads the word as showing their dazzling number and their speed through the land, either by their own bodies or by means God creates for them, means that bring the distant near and make the hard easy.",
+            "bn": "কুরতুবী দুটি অর্থ উল্লেখ করেন। কেউ বলেছেন ইয়ানসিলূন মানে তারা বেরিয়ে আসবে, প্রমাণ ইমরুল কায়সের কবিতা। আবার কেউ বলেছেন তারা দ্রুত ছুটবে, প্রমাণ নেকড়ে নিয়ে নাবিগার পঙক্তি। ইবন কাসীর এই গতির একটা গন্তব্যও বলে দেন: তারা দ্রুত পা চালাবে ফাসাদের দিকে। সা'দী শব্দটিতে দেখেন তাদের চোখধাঁধানো সংখ্যা আর পৃথিবীজুড়ে তাদের গতি। সেই গতি হয় তাদের নিজেদের শরীরের, নয়তো আল্লাহর সৃষ্টি করা এমন উপায়ের, যা দূরকে কাছে আনে আর কঠিনকে সহজ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Swarming Is This",
+          "bn": "ছুটে আসছে কারা"
+        },
+        "p": [
+          {
+            "en": "Who are the they of wa-hum? At-Tabari reports that the people of interpretation differed. Mujahid said it is mankind gathered on the Day of Resurrection from every place they came from, so that every such place is a hadab, and the scene is the gathering to where people will stand. Al-Qurtubi records the same view: all creation, hastening from every side to the place of standing. Al-Baghawi gives it as well: some said all creation is meant, coming out of their graves.",
+            "bn": "ওয়া হুম, ‘আর তারা’: এই ‘তারা’ কারা? তাবারী জানান, তাফসীরকারদের মধ্যে মতভেদ আছে। মুজাহিদ বলেছেন, এরা কিয়ামতের দিন একত্র করা সমস্ত মানুষ, যে যেখান থেকে এসেছে সেখান থেকে। সেই প্রতিটি জায়গাই তখন হাদাব, আর দৃশ্যটা মানুষকে দাঁড়ানোর ময়দানে জড়ো করার। কুরতুবীও এই মত উল্লেখ করেন: সমস্ত সৃষ্টি, সব দিক থেকে দ্রুত ছুটে যাচ্ছে হাশরের ময়দানের দিকে। বাগাভীও তা আনেন। কেউ কেউ বলেছেন, এখানে উদ্দেশ্য গোটা সৃষ্টি, যারা নিজেদের কবর থেকে বেরিয়ে আসছে।"
+          },
+          {
+            "en": "A variant reading stands behind that view. Al-Qurtubi notes one outside the accepted readings, min kulli jadathin, from every grave, which al-Mahdawi reports from Ibn Mas'ud, and ath-Tha'labi from Mujahid and Abu as-Sahba'; al-Baghawi gives it as Mujahid's reading. Both point to 36:51: and the Horn is blown, and at once from the graves to their Lord they hasten. The verb there is yansilun as well.",
+            "bn": "এই মতের পেছনে একটি ভিন্ন পাঠও আছে। কুরতুবী জানান, প্রচলিত কিরাআতের বাইরের এক পাঠে আছে মিন কুল্লি জাদাসিন, প্রতিটি কবর থেকে। মাহদাভী এটি বর্ণনা করেছেন ইবন মাসঊদ থেকে, আর সা'লাবী মুজাহিদ ও আবুস সাহবা থেকে। বাগাভী এটিকে মুজাহিদের পাঠ বলে উল্লেখ করেন। দুজনেই ইঙ্গিত করেন ৩৬:৫১-এর দিকে: শিঙায় ফুঁ দেওয়া হবে, আর তখনই তারা কবর থেকে নিজেদের রবের দিকে ছুটে চলবে। সেখানেও ক্রিয়াটি ইয়ানসিলূন।"
+          },
+          {
+            "en": "The other view takes the pronoun as Gog and Magog. Al-Qurtubi calls it the more evident one, and the view of Ibn Mas'ud and Ibn Abbas. At-Tabari judges it correct, on the strength of a report he narrates from Abu Sa'id al-Khudri (RA) that the Prophet ﷺ said: Gog and Magog will be opened and come out upon people, as Allah said, from every hadab they swarm, and they will cover the earth. The texts I fetched give it no grading.",
+            "bn": "অন্য মতে সর্বনামটি ইয়াজূজ ও মাজূজকেই বোঝায়। কুরতুবী এটিকে বেশি স্পষ্ট মত বলেছেন, আর জানিয়েছেন এটি ইবন মাসঊদ ও ইবন আব্বাসের মত। তাবারী এটিকেই সঠিক বলে রায় দেন। ভিত্তি হিসেবে তিনি আবু সাঈদ খুদরী (রাঃ) থেকে নিজের সনদে একটি বর্ণনা আনেন। নবী ﷺ বলেছেন: ইয়াজূজ ও মাজূজকে খুলে দেওয়া হবে, তারা মানুষের ওপর বেরিয়ে আসবে, যেমন আল্লাহ বলেছেন, প্রতিটি উঁচু ভূমি থেকে তারা ছুটে নামবে, আর তারা পৃথিবী ছেয়ে ফেলবে। আমার সংগ্রহ করা পাঠে এর কোনো মান উল্লেখ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told as Though Watched",
+          "bn": "চোখের সামনে ঘটছে যেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir dwells on how the verse is told. This, he says, is their description at the moment they come out, as if whoever hears it were watching, and he joins it to 35:14: none can inform you like the All-Aware. It is news, he says, from Him who knows what has been and what will be, and the unseen of the heavens and the earth. The verse does not only say that they will come. It shows them coming.",
+            "bn": "আয়াতটি কীভাবে বলা হয়েছে, ইবন কাসীর তা নিয়ে থামেন। তাঁর ভাষায়, বেরিয়ে আসার মুহূর্তে তারা কেমন হবে, এটা তারই বর্ণনা, যেন শ্রোতা নিজের চোখে দেখছে। এর সঙ্গে তিনি জুড়ে দেন ৩৫:১৪: সর্বজ্ঞের মতো কেউ আপনাকে জানাতে পারে না। তিনি বলেন, এ খবর আসছে তাঁর কাছ থেকে, যিনি জানেন যা ঘটেছে আর যা ঘটবে, যিনি আসমান ও জমিনের গায়েব জানেন। আয়াত শুধু বলে না যে তারা আসবে। তাদের আসাটা চোখের সামনে দেখিয়ে দেয়।"
+          },
+          {
+            "en": "At-Tabari and Ibn Kathir both keep one small scene from Ibn Abbas: he saw boys at play leaping over one another and said, this is how Gog and Magog will come out. Ibn Zayd, in at-Tabari, places the verse in time: this is the beginning of the Day of Resurrection. At-Tabari also gathers reports of Companions and Successors on their numbers and on lakes drunk dry, some from Ka'b; the verse counts nothing, so this article leaves them aside.",
+            "bn": "তাবারী ও ইবন কাসীর দুজনেই ইবন আব্বাসের একটি ছোট দৃশ্য সংরক্ষণ করেছেন। তিনি দেখলেন কিছু বালক খেলছে, একজন আরেকজনের ওপর দিয়ে লাফিয়ে পড়ছে। তিনি বললেন, ইয়াজূজ ও মাজূজ এভাবেই বেরিয়ে আসবে। তাবারীর বর্ণনায় ইবন যায়দ আয়াতটিকে সময়ের মধ্যে বসিয়ে দেন: এ হলো কিয়ামতের সূচনা। তাবারী সাহাবী ও তাবেয়ীদের আরও বর্ণনা জড়ো করেছেন, তাদের সংখ্যা নিয়ে, শুকিয়ে ফেলা হ্রদ নিয়ে, যার কিছু কা'ব থেকে। আয়াত নিজে কিছুই গোনে না, তাই এ প্রবন্ধ সেসব পাশে রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hadith That Quotes the Verse",
+          "bn": "যে হাদীসে আয়াতটি উদ্ধৃত"
+        },
+        "p": [
+          {
+            "en": "One sound narration places the verse inside a sequence. Muslim records it in his Sahih (2937), from an-Nawwas ibn Sam'an (RA): a long hadith on the Dajjal and his end at the hands of Isa son of Maryam (AS). At-Tabari and Ibn Kathir both bring it under this verse. In Muslim's wording, after the Dajjal is killed: Allah will reveal to Isa, I have brought out servants of Mine against whom no one has the hands to fight, so take My servants to safety at the Tur.",
+            "bn": "একটি সহীহ বর্ণনা আয়াতটিকে ঘটনার এক ধারাবাহিকতার ভেতরে বসিয়ে দেয়। মুসলিম তাঁর সহীহ গ্রন্থে (২৯৩৭) নাওয়াস ইবন সামআন (রাঃ) থেকে এটি বর্ণনা করেছেন। দীর্ঘ হাদীসটি দাজ্জাল আর ঈসা ইবন মারইয়াম (আঃ)-এর হাতে তার পরিণতি নিয়ে। তাবারী ও ইবন কাসীর দুজনেই এটি এ আয়াতের আলোচনায় এনেছেন। মুসলিমের ভাষ্যে দাজ্জাল নিহত হওয়ার পরের অংশ এমন: আল্লাহ ঈসার কাছে ওহি পাঠাবেন, আমি আমার এমন কিছু বান্দাকে বের করেছি, যাদের সঙ্গে লড়াই করার সাধ্য কারও নেই। তাই আমার বান্দাদের নিরাপদে তূর পাহাড়ে নিয়ে যাও।"
+          },
+          {
+            "en": "And Allah will send Gog and Magog, and they from every hadab will swarm. The first of them will pass by the lake of Tiberias and drink what is in it, and the last of them will pass and say: there was once water in this. And the Prophet of Allah Isa and his companions will be besieged, until the head of an ox is better to one of them than a hundred dinars to one of you today.",
+            "bn": "আর আল্লাহ ইয়াজূজ ও মাজূজকে পাঠাবেন, আর তারা প্রতিটি উঁচু ভূমি থেকে ছুটে নামবে। তাদের প্রথম দল তাবারিয়া হ্রদের পাশ দিয়ে যাবে আর তার সব পানি পান করে ফেলবে। শেষ দল যখন সেখান দিয়ে যাবে, তারা বলবে: এখানে একসময় পানি ছিল। আল্লাহর নবী ঈসা (আঃ) ও তাঁর সঙ্গীরা অবরুদ্ধ হয়ে পড়বেন। অবস্থা এমন হবে যে তাঁদের একজনের কাছে একটা গরুর মাথা তোমাদের কারও কাছে আজকের একশো দিনারের চেয়েও দামি মনে হবে।"
+          },
+          {
+            "en": "Then the Prophet of Allah Isa and his companions will turn to Allah in earnest, and Allah will send upon them the naghaf, worms in their necks, and by morning they will lie dead like the death of a single soul. Muslim's inclusion in his Sahih is the grading. Note what the Prophet Isa (AS) is told to do: not to march out against them but to shelter the believers. What ends the siege is not a battle. It is their turning to Allah.",
+            "bn": "তখন আল্লাহর নবী ঈসা (আঃ) ও তাঁর সঙ্গীরা মন-প্রাণ দিয়ে আল্লাহর দিকে ফিরবেন। আল্লাহ তাদের ঘাড়ে নাগাফ, এক ধরনের পোকা, পাঠাবেন। সকাল হতেই তারা সবাই মরে পড়ে থাকবে, যেন একটি প্রাণের মৃত্যু। মুসলিম তাঁর সহীহ গ্রন্থে এটি এনেছেন, এটাই হাদীসটির মান। খেয়াল করার বিষয়, নবী ঈসা (আঃ)-কে কী করতে বলা হলো। তাদের বিরুদ্ধে অভিযানে নামতে নয়, মুমিনদের আশ্রয়ে নিয়ে যেতে। অবরোধের অবসান কোনো যুদ্ধে হয়নি। হয়েছে আল্লাহর দিকে তাঁদের ফিরে যাওয়ায়।"
+          },
+          {
+            "en": "Another sound report bears on the verse, and Ibn Kathir cites it here. Al-Bukhari records in his Sahih (1593), from Abu Sa'id al-Khudri (RA), that the Prophet ﷺ said: the House will surely be visited for Hajj and for Umrah after Gog and Magog come out. Al-Bukhari also gives Shu'ba's wording, that the Hour will not come until the House is no longer visited for Hajj, and notes that the first wording is carried by more narrators.",
+            "bn": "আয়াতের সঙ্গে সম্পর্কিত আরেকটি সহীহ বর্ণনা ইবন কাসীর এখানে উল্লেখ করেন। বুখারী তাঁর সহীহ গ্রন্থে (১৫৯৩) আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন: ইয়াজূজ ও মাজূজ বের হওয়ার পরও অবশ্যই বাইতুল্লাহর হজ ও উমরা করা হবে। বুখারী শু'বার ভাষ্যও এনেছেন: বাইতুল্লাহর হজ বন্ধ না হওয়া পর্যন্ত কিয়ামত হবে না। সঙ্গে তিনি জানিয়েছেন, প্রথম ভাষ্যটির বর্ণনাকারী বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sign, Not a Suspect",
+          "bn": "আলামত, অভিযুক্ত নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a barrier opened by Allah's decree at a time He has set, and multitudes pouring out who are named only as Gog and Magog. It licenses nothing against any living person or community. It names no present nation, and no reader is entitled to supply one. The hadith models one response only: shelter for the believers, and turning to Allah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, ঠিক তা-ই বর্ণনা করে। আল্লাহর নির্ধারিত সময়ে তাঁর হুকুমে একটি প্রাচীর খুলে যাবে, আর বেরিয়ে আসবে বিপুল জনস্রোত, যাদের নাম শুধু ইয়াজূজ ও মাজূজ। আজকের কোনো ব্যক্তি বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আয়াত বর্তমান কোনো জাতির নাম নেয় না, আর কোনো পাঠকেরও অধিকার নেই নিজে থেকে নাম বসানোর। হাদীস একটিই প্রতিক্রিয়া দেখায়: মুমিনদের আশ্রয় দেওয়া, আর আল্লাহর দিকে ফেরা।"
+          },
+          {
+            "en": "As-Sa'di draws a further consequence. Their swarming shows, he says, that they will overpower people and rise over them in this world, and that no one will have the hand to fight them. That matches the hadith's words: no one has the hands. So the verse is no call to arms against anyone. It tells believers that some trials are lifted by Allah alone, and that their own part is faith, refuge and prayer.",
+            "bn": "সা'দী এখান থেকে আরেকটি সিদ্ধান্ত টানেন। তাঁর মতে, তাদের এই ছুটে আসা দেখায় যে দুনিয়াতে তারা মানুষকে পরাভূত করবে, তাদের ওপর প্রবল হবে, আর তাদের সঙ্গে লড়াই করার সাধ্য কারও থাকবে না। হাদীসের ভাষাও এটাই: লড়াই করার সাধ্য কারও নেই। তাই এ আয়াত কারও বিরুদ্ধে অস্ত্র তোলার ডাক নয়। আয়াত মুমিনদের জানায়, কিছু পরীক্ষা কেবল আল্লাহই সরিয়ে দেন। তাদের নিজেদের কাজ ঈমান, আশ্রয় আর দোয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Slopes Fill",
+          "bn": "ঢালগুলো ভরে ওঠার আগে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di opens his comment with the verse's purpose: this is a warning from Allah to people against persisting in disbelief and sins, and a notice that the opening of Gog and Magog has drawn near. The verse is not set before us to feed curiosity about the end. It stands beside 21:94, where no believer's righteous effort goes unrecorded, and 21:95, where a destroyed town does not return. The until in between marks how long anyone has to act.",
+            "bn": "সা'দী তাঁর আলোচনা শুরু করেন আয়াতের উদ্দেশ্য দিয়ে। এ হলো মানুষের প্রতি আল্লাহর সতর্কবাণী, যেন তারা কুফর আর গুনাহে অটল না থাকে, আর এ খবরও যে ইয়াজূজ-মাজূজের মুক্তি কাছে চলে এসেছে। শেষ জমানা নিয়ে কৌতূহল মেটাতে আয়াতটি আমাদের সামনে রাখা হয়নি। এর একপাশে ২১:৯৪, যেখানে মুমিনের কোনো নেক চেষ্টা অস্বীকার করা হয় না। অন্যপাশে ২১:৯৫, যেখানে ধ্বংস হওয়া জনপদ আর ফেরে না। মাঝখানের ‘যতক্ষণ না’ বলে দেয়, কাজ করার সময় কতটুকু।"
+          },
+          {
+            "en": "That is the verse's quiet demand. A barrier can look permanent and still open on the day its Lord decides. The time we are given before such days, as peoples and as single persons, is the time in which the door of return to Allah stands open. Hearing of the swarm, the believer does not go looking for someone to blame. He looks at his own deeds, and turns.",
+            "bn": "আয়াতের নীরব দাবি এটাই। একটা প্রাচীরকে চিরস্থায়ী মনে হতে পারে, তবু যেদিন তার রব চাইবেন, সেদিন তা খুলে যাবে। এমন দিনের আগে জাতি হিসেবে আর আলাদা মানুষ হিসেবে আমাদের যে সময় দেওয়া হয়েছে, সেই সময়েই আল্লাহর দিকে ফেরার দরজা খোলা। ইয়াজূজ-মাজূজের কথা শুনে মুমিন দোষ চাপানোর লোক খোঁজে না। সে নিজের আমলের দিকে তাকায়, আর আল্লাহর দিকে ফেরে।"
+          }
+        ]
+      }
+    ]
+  },
   "21:97": {
     "sections": [
       {

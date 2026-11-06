@@ -23631,6 +23631,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The sky that seems permanent will be rolled up like a written sheet, and you will be raised as you were first made. Live now as one who believes that promise.",
     "lessonBn": "যে আকাশকে চিরস্থায়ী মনে হয় তা লিখিত কাগজের মতো গুটিয়ে নেওয়া হবে, আর আপনাকে ওঠানো হবে যেভাবে প্রথম সৃষ্টি করা হয়েছিল। সেই ওয়াদায় বিশ্বাসী মানুষের মতো এখনই জীবন যাপন করুন।"
+  },
+  "21:96": {
+    "reflectionEn": "The verse begins in the middle of a thought: until. A destroyed town will not come back to this world, and the sentence runs on, until a barrier gives way and Gog and Magog pour out, from every rise of ground, hastening. The scene is drawn as though we stood in the valley and watched the slopes fill. Yet the verse gives no date, names no living nation, and hands no one a target. It gives a horizon. History is not an endless loop; it runs toward a set end, and the signs of that end are told ahead of time so that hearts wake before eyes are forced open. What am I doing with the time before the barrier opens?",
+    "reflectionBn": "আয়াতটা শুরু হয় একটা কথার মাঝখান থেকে: যতক্ষণ না। ধ্বংস হয়ে যাওয়া জনপদ আর দুনিয়ায় ফিরবে না। আর বাক্যটা এগিয়ে যায় সেই মুহূর্ত পর্যন্ত, যখন এক প্রাচীর খুলে যাবে আর ইয়াজূজ ও মাজূজ প্রতিটি উঁচু ভূমি থেকে দ্রুত নেমে আসবে। ছবিটা এমনভাবে আঁকা, যেন আমরা উপত্যকায় দাঁড়িয়ে দেখছি ঢালগুলো ভরে যাচ্ছে। তবু আয়াত কোনো তারিখ দেয় না, আজকের কোনো জাতির নাম নেয় না, কারও হাতে কোনো নিশানা তুলে দেয় না। দেয় একটা দিগন্ত। ইতিহাস অনন্ত ঘূর্ণি নয়। তা ছুটে চলেছে এক নির্ধারিত সমাপ্তির দিকে। সেই সমাপ্তির আলামত আগেভাগে জানিয়ে দেওয়া হয়েছে, যাতে চোখ জোর করে খুলে যাওয়ার আগেই অন্তর জেগে ওঠে। প্রাচীর খোলার আগের এই সময়টা আমি কী কাজে লাগাচ্ছি?",
+    "pointsEn": [
+      "If I truly believed the world runs toward a fixed end, what would I stop postponing this week?",
+      "When I hear of the signs of the Hour, do I turn to my own repentance, or to guessing dates and naming others?",
+      "What in my life do I treat as a barrier that will hold forever, though Allah alone decides how long anything stands?",
+      "When a force far beyond my strength surges toward me, is my first move panic, or turning to Allah and taking shelter in what He commands?",
+      "Whom have I been tempted to cast as the villain of the last days, and what would it mean to leave that judgement to Allah?"
+    ],
+    "pointsBn": [
+      "দুনিয়া এক নির্ধারিত সমাপ্তির দিকে চলেছে, এ কথা সত্যিই বিশ্বাস করলে এ সপ্তাহে কোন কাজটা আর ফেলে রাখতাম না?",
+      "কিয়ামতের আলামতের কথা শুনলে আমি কি নিজের তওবার দিকে ফিরি, নাকি তারিখ আন্দাজ করতে আর অন্যদের নাম বসাতে লেগে যাই?",
+      "জীবনের কোন জিনিসকে আমি চিরস্থায়ী প্রাচীর ভেবে বসে আছি, অথচ কোনো কিছু কতদিন টিকবে তা কেবল আল্লাহই ঠিক করেন?",
+      "আমার সাধ্যের অনেক বাইরের কোনো শক্তি যখন ধেয়ে আসে, আমার প্রথম প্রতিক্রিয়া কি আতঙ্ক, নাকি আল্লাহর দিকে ফেরা আর তাঁর হুকুমের আশ্রয় নেওয়া?",
+      "শেষ জমানার খলনায়ক বানাতে কাকে আমার মন চেয়েছে? সেই বিচার আল্লাহর হাতে ছেড়ে দিলে আমার আচরণ কেমন হতো?"
+    ],
+    "lessonEn": "Signs of the Hour are told in advance to wake the heart, not to fix dates or name enemies; use the time before the barrier opens to return to Allah.",
+    "lessonBn": "কিয়ামতের আলামত আগেভাগে জানানো হয়েছে অন্তর জাগাতে, তারিখ বাঁধতে বা শত্রুর নাম বসাতে নয়। প্রাচীর খোলার আগের সময়টুকু আল্লাহর দিকে ফেরার কাজে লাগান।"
   }
 };
 
