@@ -883,6 +883,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "31:25": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question for the Disputers",
+          "bn": "তর্ককারীদের সামনে একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Luqman's counsel has ended, and the surah turns back to its hearers. In 31:20 it reminds them that Allah has made the heavens and the earth serve them and poured His favours on them, outward and inward, then names those who dispute about Allah without knowledge, guidance or an illuminating Book. In 31:21 they answer every call with what they found their fathers doing. By 31:24 they are promised a little enjoyment and then a heavy punishment. Our verse puts one question to these same people.",
+            "bn": "ছেলের প্রতি লুকমানের উপদেশ শেষ হয়েছে, সূরা এবার ফিরে তাকায় তার শ্রোতাদের দিকে। ৩১:২০ আয়াত মনে করিয়ে দেয়, আসমান আর জমিনে যা কিছু আছে, আল্লাহ সব তাদের কাজে লাগিয়ে দিয়েছেন এবং প্রকাশ্য ও গোপন নিয়ামতে তাদের ভরিয়ে দিয়েছেন। তারপর উল্লেখ করে সেই লোকদের, যারা জ্ঞান, হিদায়াত বা আলো দেখানো কিতাব ছাড়াই আল্লাহকে নিয়ে তর্ক করে। ৩১:২১ আয়াতে যে ডাকই আসুক, তাদের জবাব একটাই: বাপ-দাদাকে যা করতে দেখেছি, তা-ই করব। ৩১:২৪ আয়াতে তাদের জন্য অল্প কিছু ভোগ, তারপর কঠিন শাস্তির কথা। আমাদের আয়াত এই লোকদের সামনেই একটি প্রশ্ন রাখে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, commenting on 31:20 to 31:26 as one passage, describes the turn. After the counsels of Luqman, it says, the text returns to Allah's all-encompassing knowledge and power and to the favours He has showered on His creation, with an exhortation to believe in His Oneness. As-Sa'di closes his comment on our verse in the same direction: Allah then sets out, in two verses, a sample of the breadth of His attributes, to call His servants to know Him, to love Him and to make their religion sincerely His.",
+            "bn": "মাআরিফুল কুরআন ৩১:২০ থেকে ৩১:২৬ পর্যন্ত আয়াতগুলোকে এক অংশ ধরে ব্যাখ্যা করেছে এবং এই মোড়টা চিহ্নিত করেছে। তার কথায়, লুকমানের উপদেশের পর আলোচনা আবার ফিরে আসে আল্লাহর সর্বব্যাপী জ্ঞান ও কুদরতের দিকে, সৃষ্টির উপর তাঁর ঢেলে দেওয়া নিয়ামতের দিকে, আর সঙ্গে থাকে তাওহীদে ঈমান আনার আহ্বান। সা'দী আমাদের আয়াতের ব্যাখ্যা শেষ করেন একই দিকে ইশারা করে। তিনি বলেন, এরপর আল্লাহ দুটি আয়াতে নিজের গুণাবলির ব্যাপকতার একটা নমুনা তুলে ধরেন, যাতে বান্দারা তাঁকে চেনে, তাঁকে ভালোবাসে এবং দ্বীনকে খাঁটিভাবে তাঁর জন্যই রাখে।"
+          },
+          {
+            "en": "Who asks, and who is asked? At-Tabari spells out the address: if you were to ask, O Muhammad, these people of yours who associate partners with Allah. Al-Muyassar turns to the Prophet ﷺ in the same way, O Messenger, and names the same people, the associators. Tanwir al-Miqbas identifies them as the disbelievers of Makkah. So the questioner is the Prophet ﷺ, and the questioned are his own people, the disputers the surah has just described.",
+            "bn": "প্রশ্ন করছেন কে, আর প্রশ্ন করা হচ্ছে কাকে? তাবারী সম্বোধনটা খুলে বলেন: হে মুহাম্মাদ, তোমার কওমের যারা আল্লাহর সঙ্গে শরিক করে, তাদের যদি তুমি জিজ্ঞেস করো। মুয়াসসারও নবী ﷺ-কে একইভাবে ডাকে, হে রাসূল, আর একই লোকদের কথা বলে, অর্থাৎ মুশরিকদের। তানবীরুল মিকবাস তাদের পরিচয় দেয় মক্কার কাফির হিসেবে। তাহলে প্রশ্নকারী নবী ﷺ নিজে। আর যাদের প্রশ্ন করা হচ্ছে, তারা তাঁর নিজেরই কওম, সেই তর্ককারীরা, যাদের কথা সূরা এইমাত্র বলে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sworn Before It Is Asked",
+          "bn": "প্রশ্নের আগেই শপথ"
+        },
+        "p": [
+          {
+            "en": "The verse states the reply before anyone has put the question. Wa-la-in sa'altahum: and if you were to ask them. Al-Jalalayn notes that the lam in la-in is the lam of oaths, so the condition comes wrapped in a sworn statement. The answer clause carries its own emphasis. La-yaqulunna, they will surely say, is the verb of saying with a doubled emphatic nun, and al-Jalalayn explains how the form was shaped: the ordinary nun of the indicative dropped because of the like nun after it, and the plural waw dropped where two unvoweled consonants met.",
+            "bn": "কেউ প্রশ্ন করার আগেই আয়াতটি উত্তর জানিয়ে দেয়। ওয়া লাইন সাআলতাহুম: আর যদি তুমি তাদের জিজ্ঞেস করো। জালালাইন জানায়, লাইন শব্দের লাম হলো শপথের লাম। ফলে শর্তটা আসে শপথে মোড়া হয়ে। উত্তরের অংশেও আলাদা জোর আছে। লাইয়াকূলুন্না মানে তারা অবশ্যই বলবে। এখানে বলা ক্রিয়ার সঙ্গে জুড়েছে জোর দেওয়ার দ্বিত্ব নূন। রূপটা কীভাবে দাঁড়াল, জালালাইন তাও বুঝিয়ে দেয়। পরে একই রকম নূন আসায় সাধারণ নূনটি পড়ে গেছে, আর দুটি সাকিন অক্ষর পাশাপাশি আসায় বহুবচনের ওয়াওটিও বাদ পড়েছে।"
+          },
+          {
+            "en": "An oath at the head and an emphatic at the close: the grammar leaves no room for doubt about what they would say. The verse is not testing their belief. It is reporting it, so sure of the reply that it can be sworn to in advance. As-Sa'di draws out why the answer is so certain. If they were asked who created the heavens and the earth, he says, they would know that their idols had created nothing of it, and they would hasten to say: Allah, who created the two of them alone.",
+            "bn": "শুরুতে শপথ, শেষে জোরালো রূপ। তারা কী বলবে, তা নিয়ে ব্যাকরণ সন্দেহের কোনো জায়গা রাখে না। আয়াতটি তাদের বিশ্বাস যাচাই করছে না, বরং সে বিশ্বাসের খবর দিচ্ছে। উত্তর নিয়ে এতটাই নিশ্চিত যে আগেভাগে শপথ করে বলা যায়। উত্তরটা এত নিশ্চিত কেন, সা'দী তা খুলে বলেন। তাদের যদি জিজ্ঞেস করা হয় আসমান আর জমিন কে সৃষ্টি করেছে, তারা জানবে যে তাদের মূর্তিগুলো এর কিছুই বানায়নি। তখন তারা তাড়াতাড়ি বলে উঠবে: আল্লাহ, যিনি একাই এ দুটি সৃষ্টি করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Partners He Himself Made",
+          "bn": "যে শরিকদের তিনিই বানিয়েছেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names the contradiction the verse exposes. Allah is telling about these people who associate partners with Him, he writes: they know that Allah is the Creator of the heavens and the earth, alone, with no partner, and with this they worship alongside Him partners whom they themselves acknowledge to be His creation and His possession. The abridged English rendering of his commentary states it in the same terms: they admitted that Allah alone is the Creator, yet worshipped others whom they recognised as created by Him and subject to Him.",
+            "bn": "আয়াতটি যে স্ববিরোধ ধরিয়ে দেয়, ইবন কাসীর তার নাম দেন। তিনি লেখেন, আল্লাহ এখানে সেই লোকদের কথা জানাচ্ছেন, যারা তাঁর সঙ্গে শরিক করে। তারা জানে, আসমান আর জমিনের স্রষ্টা আল্লাহ, তিনি একা, তাঁর কোনো শরিক নেই। এটা জেনেও তারা তাঁর পাশাপাশি এমন শরিকদের ইবাদত করে, যাদের তারা নিজেরাই তাঁর সৃষ্টি আর তাঁর মালিকানাধীন বলে মানে। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি রূপেও একই কথা: তারা মেনে নিত যে আল্লাহ একাই স্রষ্টা, তবু এমন সত্তার ইবাদত করত, যাদের তারা তাঁরই সৃষ্টি ও তাঁর অধীন বলে জানত।"
+          },
+          {
+            "en": "Al-Qurtubi compresses the same point into a question of his own. On the words they will surely say Allah, he writes: that is, they acknowledge that Allah is their Creator, so why do they worship other than Him? The admission, in other words, does not count in their favour. A person who names the Maker correctly and then bows to something made has not reached the truth by naming it. He has only shown that he knew it, which makes the turning aside harder to excuse.",
+            "bn": "কুরতুবী একই কথা নিজের একটি প্রশ্নে গুটিয়ে আনেন। 'তারা অবশ্যই বলবে আল্লাহ', এ অংশের ব্যাখ্যায় তিনি লেখেন: অর্থাৎ তারা মানে যে আল্লাহই তাদের স্রষ্টা, তাহলে তাঁকে ছেড়ে অন্যের ইবাদত করে কেন? সোজা কথায়, এই স্বীকারোক্তি তাদের পক্ষে যায় না। যে স্রষ্টার নাম ঠিকঠাক বলে, তারপর কোনো সৃষ্ট জিনিসের সামনে মাথা নোয়ায়, নামটা বলেই সে সত্যে পৌঁছে যায়নি। সে শুধু দেখিয়ে দিয়েছে যে সত্যটা তার জানা ছিল। আর তাতে মুখ ফিরিয়ে নেওয়ার অজুহাত আরও দুর্বল হয়ে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise for a Proof Conceded",
+          "bn": "মেনে নেওয়া প্রমাণের জন্য প্রশংসা"
+        },
+        "p": [
+          {
+            "en": "Then comes the instruction: qul al-hamdu lillah, say: praise belongs to Allah. Why praise, at this point in an argument? Ibn Kathir's answer is one clause long. The praise is said, he writes, since the proof has been established against you by your own admission. The abridged English Ibn Kathir carries the same line: by their admitting that, proof is established against them. The case did not need to be argued further. They had settled it themselves, and the fitting reply to a proof that has been won is to praise the One it proves.",
+            "bn": "এরপর নির্দেশ: কুলিল হামদু লিল্লাহ, বলো, সব প্রশংসা আল্লাহর। তর্কের ঠিক এই জায়গায় প্রশংসা কেন? ইবন কাসীরের উত্তর এক বাক্যের। তিনি লেখেন, এ প্রশংসা এজন্য যে তোমাদের নিজেদের স্বীকারোক্তিতেই তোমাদের বিরুদ্ধে প্রমাণ দাঁড়িয়ে গেছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি রূপেও একই কথা: এটা মেনে নেওয়ায় তাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হলো। বিষয়টা নিয়ে আর তর্কের দরকার ছিল না, তারা নিজেরাই তার মীমাংসা করে দিয়েছে। আর যে প্রমাণ জিতে গেছে, তার সঠিক জবাব হলো সেই সত্তার প্রশংসা, যাঁর কথা প্রমাণটি সাব্যস্ত করে।"
+          },
+          {
+            "en": "Al-Jalalayn gives the same reason in its own words: say praise be to Allah for the manifestation of the definitive argument against them, by the affirmation of the Oneness of God. Al-Muyassar names what is remarkable in it. When they say that, it tells the Prophet ﷺ, say to them: praise be to Allah, who has made the proof against you appear from your own selves. The evidence did not have to be brought from outside. It came out of their mouths, and the praise is for that.",
+            "bn": "জালালাইন একই কারণ বলে নিজের ভাষায়: বলো, আলহামদু লিল্লাহ, কারণ আল্লাহর একত্বের স্বীকৃতির মধ্য দিয়ে তাদের বিরুদ্ধে চূড়ান্ত যুক্তি প্রকাশ পেয়ে গেছে। এর ভেতরে বিস্ময়ের জায়গাটা কোথায়, মুয়াসসার তা দেখিয়ে দেয়। নবী ﷺ-কে সে বলে, তারা এ কথা বললে তুমি তাদের বলো: সব প্রশংসা আল্লাহর, যিনি তোমাদের বিরুদ্ধে প্রমাণ বের করে এনেছেন তোমাদের নিজেদের ভেতর থেকেই। বাইরে থেকে দলিল আনতে হয়নি। দলিল বেরিয়েছে তাদের নিজেদের মুখ দিয়ে, আর প্রশংসা সেই কারণেই।"
+          },
+          {
+            "en": "As-Sa'di uses almost the same phrase and adds the purpose of the word qul, say. Say it to them, he writes, binding them to it and arguing against them by what they affirmed, against what they denied: praise be to Allah, who made the light plain and made the proof against you appear from your own selves. In his reading the praise is also a move in the argument. It holds the hearers to their own words and leaves the next step, the one they refused, standing in plain view.",
+            "bn": "সা'দী প্রায় একই বাক্য ব্যবহার করেন, সঙ্গে যোগ করেন 'কুল' বা 'বলো' শব্দের উদ্দেশ্য। তিনি লেখেন, তাদের এ কথা বলো, যা তারা মেনেছে তা দিয়ে তাদের বেঁধে ফেলে, আর যা তারা অস্বীকার করেছে তার বিরুদ্ধে সেটাকেই দলিল বানিয়ে: সব প্রশংসা আল্লাহর, যিনি আলো স্পষ্ট করেছেন এবং তোমাদের বিরুদ্ধে প্রমাণ বের করে এনেছেন তোমাদের নিজেদের ভেতর থেকে। তাঁর পাঠে প্রশংসাটা যুক্তিরও একটা চাল। এটা শ্রোতাদের তাদের নিজেদের কথায় আটকে রাখে, আর যে পরের ধাপটা তারা মানতে চায়নি, সেটাকে সবার চোখের সামনে দাঁড় করিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Praise Belongs",
+          "bn": "প্রশংসার আসল ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "Other commentators read the same two words from a different side. At-Tabari puts the weight on the One praised. When they say that, Allah tells His Prophet, say to them: praise be to Allah who created that, not to one who creates nothing and is himself created. Praise follows creation. If the heavens and the earth are His work, the praise for them is His as well, and nothing that was itself made has any claim to share it.",
+            "bn": "অন্য মুফাসসিররা একই দুটি শব্দ পড়েন আরেক দিক থেকে। তাবারী জোর দেন যাঁর প্রশংসা করা হচ্ছে, তাঁর উপর। আল্লাহ তাঁর নবীকে বলছেন, তারা এ কথা বললে তুমি তাদের বলো: প্রশংসা সেই আল্লাহর, যিনি এসব সৃষ্টি করেছেন। প্রশংসা তার নয়, যে কিছুই সৃষ্টি করে না, বরং নিজেই সৃষ্ট। প্রশংসা চলে সৃষ্টির পিছু পিছু। আসমান আর জমিন যদি তাঁর কাজ হয়, তবে সেগুলোর জন্য প্রশংসাও তাঁরই। যা নিজেই বানানো, সে প্রশংসার ভাগ দাবি করতে পারে না।"
+          },
+          {
+            "en": "Al-Qurtubi hears the praise in the believer's own mouth. Say al-hamdu lillah, he glosses, that is, for the religion of His to which He has guided us, and praise does not belong to any other. The word us makes it the thanks of those who were guided, set beside people who name the Creator and go no further. Tanwir al-Miqbas turns the words outward as an instruction: gratitude is Allah's, so be grateful to Him.",
+            "bn": "কুরতুবী প্রশংসাটা শোনেন মুমিনের নিজের মুখে। তাঁর ব্যাখ্যায়, আলহামদু লিল্লাহ বলো, অর্থাৎ তাঁর সেই দ্বীনের জন্য, যার দিকে তিনি আমাদের হিদায়াত দিয়েছেন। আর প্রশংসা তিনি ছাড়া আর কারও প্রাপ্য নয়। 'আমাদের' শব্দটি একে বানিয়ে দেয় হিদায়াতপ্রাপ্তদের শুকরিয়া। তার পাশেই দাঁড়িয়ে আছে সেই লোকেরা, যারা স্রষ্টার নাম বলে, কিন্তু আর এগোয় না। তানবীরুল মিকবাস শব্দ দুটিকে বাইরের দিকে ঘুরিয়ে একটি নির্দেশ বানায়: শুকরিয়া আল্লাহরই প্রাপ্য, তাই তাঁর শুকরিয়া আদায় করো।"
+          },
+          {
+            "en": "Maududi, in his Tafhim al-Qur'an, joins two of these strands. Thank God, he paraphrases, that you at least know this and believe it. But if this is the reality, all praise should then belong to Allah alone. How can any other being deserve praise when it has no share whatever in the creation of the universe? None of these readings rejects the others. Read together, the praise is at once for a proof that stands, for a Creator who alone is owed it, and for a guidance some were given.",
+            "bn": "মওদূদী তাঁর তাফহীমুল কুরআনে এর দুটি সুতা এক করে বাঁধেন। তাঁর ভাষ্যে কথাটা এমন: আল্লাহর শোকর, অন্তত এটুকু তোমরা জানো ও বিশ্বাস করো। কিন্তু বাস্তবতা যদি এটাই হয়, তবে সব প্রশংসা কেবল আল্লাহরই হওয়া উচিত। বিশ্বজগতের সৃষ্টিতে যার বিন্দুমাত্র অংশ নেই, অন্য কোনো সত্তা কীভাবে প্রশংসার যোগ্য হতে পারে? এ ব্যাখ্যাগুলোর কোনোটি অন্যগুলোকে বাতিল করে না। একসঙ্গে পড়লে প্রশংসাটা একই সঙ্গে তিন জিনিসের জন্য: দাঁড়িয়ে যাওয়া প্রমাণের জন্য, সেই স্রষ্টার জন্য যিনি একাই এর প্রাপ্য, আর সেই হিদায়াতের জন্য যা কেউ কেউ পেয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing the Name Only",
+          "bn": "শুধু নামটুকু জানা"
+        },
+        "p": [
+          {
+            "en": "Then the verse closes: bal aktharuhum la ya'lamun, but most of them do not know. It is a striking thing to say of people who have just given the right answer. What is it that they do not know? At-Tabari answers precisely: most of these associators do not know who it is to whom praise is owed, and where thanks belongs. They know the Creator's name. They do not know that the name settles where gratitude goes.",
+            "bn": "তারপর আয়াত শেষ হয়: বাল আকসারুহুম লা ইয়া'লামূন, কিন্তু তাদের বেশির ভাগই জানে না। যারা এইমাত্র সঠিক উত্তর দিয়েছে, তাদের সম্পর্কে এ এক চমকে দেওয়া কথা। তাহলে তারা কী জানে না? তাবারী ঠিক জায়গাটা দেখিয়ে দেন: এই মুশরিকদের বেশির ভাগই জানে না প্রশংসা কার প্রাপ্য, আর শুকরিয়ার জায়গা কোথায়। স্রষ্টার নাম তারা জানে। কিন্তু জানে না যে সেই নামই ঠিক করে দেয় কৃতজ্ঞতা কোথায় যাবে।"
+          },
+          {
+            "en": "Al-Qurtubi reads the not-knowing as a failure of attention: that is, they do not look and do not reflect. Al-Muyassar uses the same pair of verbs and finishes the thought. Most of these associators do not look or reflect on who it is that is owed praise and thanks, and for that reason they set others beside Him. Al-Jalalayn names the missing piece as an obligation: most of them do not realise that this affirmation binds them. The knowledge was there; what they lacked was the step from knowing to its demand.",
+            "bn": "কুরতুবী এই না-জানাকে দেখেন মনোযোগের ঘাটতি হিসেবে: অর্থাৎ তারা চেয়ে দেখে না, চিন্তাও করে না। মুয়াসসার একই দুটি ক্রিয়া ব্যবহার করে কথাটা শেষ করে। এই মুশরিকদের বেশির ভাগ ভেবে দেখে না, প্রশংসা আর শুকরিয়া আসলে কার প্রাপ্য। আর এ কারণেই তারা তাঁর সঙ্গে অন্যদের শরিক করেছে। জালালাইন হারানো অংশটার নাম দেয় দায়িত্ব: তাদের বেশির ভাগ বোঝে না যে এই স্বীকৃতি তাদের উপর একটা কর্তব্য চাপিয়ে দেয়। জ্ঞানটা তাদের ছিল। তাদের ছিল না জানা থেকে তার দাবি পর্যন্ত পৌঁছানোর পদক্ষেপ।"
+          },
+          {
+            "en": "One small difference sits in the word most. Al-Muyassar and at-Tabari keep it as it stands: most of these associators. Tanwir al-Miqbas glosses aktharuhum, most of them, as all of them, and says what they do not know: Allah's Oneness, nor do they give thanks for His blessings. The commentators who read most do not explain who the remaining few are, and Tanwir al-Miqbas does not say why it reads the word as all. The two readings are reported here side by side.",
+            "bn": "'বেশির ভাগ' শব্দটি নিয়ে একটা ছোট পার্থক্য আছে। মুয়াসসার আর তাবারী শব্দটা যেমন আছে তেমনই রাখেন: এই মুশরিকদের বেশির ভাগ। তানবীরুল মিকবাস আকসারুহুম, অর্থাৎ তাদের বেশির ভাগ, শব্দটির ব্যাখ্যা করে 'তাদের সবাই' বলে। সঙ্গে জানায় তারা কী জানে না: আল্লাহর একত্ব। আর তাঁর নিয়ামতের শুকরিয়াও তারা আদায় করে না। যাঁরা 'বেশির ভাগ' পড়েন, তাঁরা বাকি অল্প কয়েকজন কারা তা ব্যাখ্যা করেন না। আর তানবীরুল মিকবাসও বলে না কেন সে শব্দটিকে 'সবাই' পড়ে। দুটি পাঠ এখানে পাশাপাশি রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Content With a Contradiction",
+          "bn": "স্ববিরোধেই যারা সন্তুষ্ট"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the fullest account of what knowing would have meant. Had they known, he writes, they would have been certain that He who is alone in creating and in running affairs is alone to be singled out for worship and for tawhid. But most of them do not know, and so they associated others with Him, and were content with the contradiction in the position they held, by way of bewilderment and doubt, not by way of clear sight.",
+            "bn": "জানলে কী হতো, সবচেয়ে পূর্ণ ছবিটা দেন সা'দী। তিনি লেখেন, তারা যদি জানত, তবে নিশ্চিত হয়ে যেত যে সৃষ্টি আর পরিচালনায় যিনি একা, ইবাদত আর তাওহীদেও কেবল তাঁকেই একক রাখতে হবে। কিন্তু তাদের বেশির ভাগই জানে না। তাই তারা তাঁর সঙ্গে অন্যদের শরিক করেছে। নিজেদের অবস্থানের ভেতরের স্ববিরোধ নিয়েই তারা সন্তুষ্ট থেকেছে। আর সেটা স্পষ্ট দৃষ্টি থেকে নয়, দিশাহারা অবস্থা আর সন্দেহ থেকে।"
+          },
+          {
+            "en": "That last phrase is a fair description of how such a position survives. Nobody argued them into it. They held two claims that could not both stand, that Allah alone made everything and that something else deserved their worship, and they never brought the two together long enough to see the clash. Maududi puts the contradiction in plain terms: to acknowledge one being as the Creator and another as the deity is contrary to reason and a contradiction in terms, which only an ignorant person can uphold.",
+            "bn": "শেষ কথাটি দেখিয়ে দেয়, এমন অবস্থান কীভাবে টিকে থাকে। কেউ যুক্তি দিয়ে তাদের সেখানে নিয়ে যায়নি। তারা দুটি দাবি একসঙ্গে ধরে রেখেছিল, যা একসঙ্গে টিকতে পারে না। একটি হলো, আল্লাহ একাই সবকিছু বানিয়েছেন। অন্যটি হলো, আর কেউ তাদের ইবাদতের যোগ্য। দুটিকে তারা কখনো এতক্ষণ পাশাপাশি রাখেনি যে সংঘাতটা চোখে পড়ে। মওদূদী স্ববিরোধটা সোজা কথায় বলেন: একজনকে স্রষ্টা আর অন্যজনকে উপাস্য মানা বুদ্ধির পরিপন্থী, পরিভাষাতেই স্ববিরোধী। একমাত্র অজ্ঞ মানুষই তা আঁকড়ে থাকতে পারে।"
+          },
+          {
+            "en": "Maududi then widens what follows from the admission. Whoever acknowledges Allah as Creator of the heavens and the earth, he writes, should also acknowledge that He alone is worthy of worship and obedience, that He alone can be called on for needs, and that no one else can be lawgiver and ruler over His creation. So the not-knowing of the verse is not ignorance of a fact. It is ignorance of what a known fact requires.",
+            "bn": "এরপর মওদূদী দেখান, এই স্বীকারোক্তি থেকে আর কী কী আসে। তিনি লেখেন, যে আল্লাহকে আসমান ও জমিনের স্রষ্টা মানে, তাকে এটাও মানতে হবে যে ইবাদত আর আনুগত্যের যোগ্য কেবল তিনিই। প্রয়োজনে কেবল তাঁকেই ডাকা যায়। আর তাঁর সৃষ্টির উপর আইনদাতা ও শাসক তিনি ছাড়া আর কেউ হতে পারে না। কাজেই আয়াতের এই না-জানা কোনো তথ্য না জানা নয়। এ হলো জানা তথ্যটি কী দাবি করে, তা না জানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praised in the Next Verse",
+          "bn": "পরের আয়াতে আল-হামীদ"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith or an occasion of revelation to it. The next verse names Him whom it praises: to Allah belongs whatever is in the heavens and the earth, and He is al-Ghani, al-Hamid. The abridged English Ibn Kathir glosses it: He needs no one, and He is worthy of praise for all He has created and decreed. Our verse describes associators of the Prophet's ﷺ time who named the Creator and worshipped others, and it licenses nothing against any living person or community. Its question is better turned inward: having named my Maker, whom do I thank?",
+            "bn": "এ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস বা শানে নুযূল জোড়ে না। পরের আয়াতটি জানিয়ে দেয় প্রশংসা যাঁর: আসমান ও জমিনে যা আছে সব আল্লাহর, আর তিনি আল-গনী, আল-হামীদ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি রূপ এর ব্যাখ্যা দেয়: তাঁর কারও প্রয়োজন নেই, আর তিনি যা সৃষ্টি করেছেন ও নির্ধারণ করেছেন, তার সবকিছুর জন্যই প্রশংসার যোগ্য। আমাদের আয়াত নবী ﷺ-এর যুগের সেই মুশরিকদের বর্ণনা দেয়, যারা স্রষ্টার নাম বলত অথচ অন্যদের ইবাদত করত। এটি কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। বরং এর প্রশ্নটা নিজের দিকে ফেরানোই ভালো: নিজের স্রষ্টার নাম বলার পর আমি শুকরিয়া জানাই কাকে?"
+          }
+        ]
+      }
+    ]
+  },
   "31:27": {
     "sections": [
       {

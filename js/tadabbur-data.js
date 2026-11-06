@@ -25129,6 +25129,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Treat the Qur'an as a Book made firm and full of wisdom: where it and your opinion part ways, let it judge you rather than you judging it.",
     "lessonBn": "কুরআনকে মজবুত ও হিকমাতে ভরা কিতাব হিসেবে গ্রহণ করুন। যেখানে তার সঙ্গে আপনার মত মেলে না, সেখানে আপনি তার বিচার করবেন না, সে-ই আপনার বিচার করুক।"
+  },
+  "31:25": {
+    "reflectionEn": "Ask them who made the heavens and the earth, and the answer comes without a pause: Allah. No argument is needed to draw it out. Then the verse gives the Prophet ﷺ one reply, and it is not a rebuttal. It is praise: al-hamdu lillah. The truth has been spoken from their own mouths, and the right response to a truth that wins is gratitude, not triumph. Yet the verse closes on a sorrow: most of them do not know. They knew the name of the Creator and not what that name asks of them. I can be the same. I can say who made me, and still take my thanks, my hopes and my fears to someone else.",
+    "reflectionBn": "তাদের জিজ্ঞেস করুন, আসমান আর জমিন কে বানিয়েছে, উত্তর আসবে এক মুহূর্তও না থেমে: আল্লাহ। এ কথা বের করে আনতে কোনো তর্ক লাগে না। তারপর আয়াতটি নবী ﷺ-কে একটাই জবাব শিখিয়ে দেয়, আর সেটা পাল্টা যুক্তি নয়, প্রশংসা: আলহামদু লিল্লাহ। সত্যটা ওদের নিজেদের মুখ দিয়েই বেরিয়ে এসেছে। জিতে যাওয়া সত্যের সামনে ঠিক জবাব হলো শুকরিয়া, বিজয়ের দম্ভ নয়। তবু আয়াত শেষ হয় এক আফসোসে: তাদের বেশির ভাগই জানে না। স্রষ্টার নামটা তারা জানত, কিন্তু সেই নাম তাদের কাছে কী দাবি করে, তা জানত না। আমিও এমন হতে পারি। কে আমাকে বানিয়েছেন, তা বলতে পারি, অথচ আমার শুকরিয়া, আশা আর ভয় নিয়ে যাই অন্য কারও কাছে।",
+    "pointsEn": [
+      "If someone asked me today who created me, I would answer at once. Where in my week does that answer actually change what I do?",
+      "When a truth I hold is proved right in an argument, is my first response praise of Allah or pleasure at having won?",
+      "To whom did I give thanks most often this week, and did any of it stop at a person or a cause without reaching Allah?",
+      "What do I know about Allah only as a name, without having let it reach my choices?",
+      "When did I last say al-hamdu lillah because I had understood something, and not only out of habit?"
+    ],
+    "pointsBn": [
+      "আজ কেউ যদি জিজ্ঞেস করে আমাকে কে সৃষ্টি করেছেন, আমি সঙ্গে সঙ্গে উত্তর দেব। কিন্তু আমার সপ্তাহের কোন জায়গায় সেই উত্তর সত্যিই আমার কাজ বদলে দেয়?",
+      "তর্কে আমার বিশ্বাসের কোনো কথা সত্য প্রমাণিত হলে প্রথমে কী আসে আমার মনে, আল্লাহর প্রশংসা, নাকি জিতে যাওয়ার আনন্দ?",
+      "এ সপ্তাহে সবচেয়ে বেশি কার শুকরিয়া আদায় করেছি? তার কোনোটা কি কোনো মানুষ বা উপলক্ষে এসে থেমে গেছে, আল্লাহ পর্যন্ত পৌঁছায়নি?",
+      "আল্লাহ সম্পর্কে এমন কী আমি শুধু নাম হিসেবে জানি, যা এখনো আমার সিদ্ধান্তে পৌঁছাতে দিইনি?",
+      "শেষ কবে কোনো কিছু বুঝতে পেরে আলহামদু লিল্লাহ বলেছি, শুধু অভ্যাসের বশে নয়?"
+    ],
+    "lessonEn": "Knowing that Allah created everything is the start, not the end: let that knowledge turn into praise and thanks given to Him alone.",
+    "lessonBn": "আল্লাহই সবকিছু সৃষ্টি করেছেন, এ জ্ঞান শুরু মাত্র, শেষ নয়। এই জ্ঞানকে প্রশংসা আর শুকরিয়ায় পরিণত করুন, যা কেবল তাঁরই প্রাপ্য।"
   }
 };
 
