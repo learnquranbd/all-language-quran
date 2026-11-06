@@ -25069,6 +25069,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A lifetime will seem like an hour when the Hour comes; spend it in truth now, because the way a person turns from the truth here is the way he is raised.",
     "lessonBn": "কিয়ামত এলে গোটা জীবনকে এক মুহূর্ত মনে হবে। তাই এখনই সময়টুকু সত্যের পথে কাটান, কারণ মানুষ এখানে যেভাবে সত্য থেকে মুখ ফেরায়, সেভাবেই তাকে উঠানো হবে।"
+  },
+  "30:38": {
+    "reflectionEn": "The verse before this one says Allah widens provision for whom He wills and narrows it. Then the instruction follows: so give. Give the relative what is his by right, and the needy, and the one stranded on the road. The word is right, not favour. What sits in my hand was given to me, and part of it was owed before I ever decided to be generous. The verse names first the person most easily passed over: the relative, whose need I already know and would sometimes rather not see. And it sets a measure on the giving: this is best for those who want the Face of Allah. When I give, whose face am I picturing?",
+    "reflectionBn": "আগের আয়াত বলেছে, আল্লাহ যাকে ইচ্ছা রিজিক বাড়িয়ে দেন, যাকে ইচ্ছা কমিয়ে দেন। তার পরেই নির্দেশ: অতএব দাও। আত্মীয়কে তার হক দাও, অভাবীকে দাও, পথে আটকে পড়া মুসাফিরকে দাও। শব্দটা হক, দয়া নয়। আমার হাতে যা আছে তা আমাকে দেওয়া হয়েছে। দানশীল হব কি না, সেই সিদ্ধান্তের আগেই তার একটা অংশ অন্যের পাওনা হয়ে আছে। আয়াত সবার আগে তার নাম নেয়, যাকে সবচেয়ে সহজে পাশ কাটানো যায়: আত্মীয়। তার অভাবের কথা আমি জানি, তবু অনেক সময় দেখতে চাই না। আর দানের একটা মাপকাঠিও আয়াত ঠিক করে দেয়: যারা আল্লাহর চেহারা কামনা করে, তাদের জন্য এটাই উত্তম। আমি যখন দিই, কার মুখের কথা ভাবি?",
+    "pointsEn": [
+      "Which of my relatives is in need right now, and what has kept me from noticing?",
+      "When I give, do I carry myself as someone doing a favour, or as someone handing over what was already owed?",
+      "If I have no money to spare this month, what kind word or service can I still give the people this verse names?",
+      "Who is the wayfarer near me, the stranger far from home with no one to turn to?",
+      "Before my next gift, can I ask myself honestly whose approval I am hoping to win?"
+    ],
+    "pointsBn": [
+      "আমার কোন আত্মীয় এই মুহূর্তে অভাবে আছে? কোন জিনিস আমাকে তা খেয়াল করতে দেয়নি?",
+      "দেওয়ার সময় আমি কি নিজেকে দয়াবান ভাবি, নাকি মনে রাখি যে অন্যের পাওনাটাই তার হাতে তুলে দিচ্ছি?",
+      "এ মাসে হাতে বাড়তি টাকা না থাকলে এ আয়াতে যাদের কথা বলা হয়েছে, তাদের জন্য কোন ভালো কথা বা কোন সেবাটুকু আমি এখনো দিতে পারি?",
+      "আমার আশেপাশে মুসাফির কে? ঘর থেকে দূরে, যার পাশে দাঁড়ানোর কেউ নেই, এমন অচেনা মানুষটি কে?",
+      "পরের বার কিছু দেওয়ার আগে কি নিজেকে সৎভাবে জিজ্ঞেস করতে পারি, আমি আসলে কার সন্তুষ্টি চাইছি?"
+    ],
+    "lessonEn": "Give your relatives, the needy and the stranded traveller what is theirs by right, without an air of favour, and give it wanting only the Face of Allah.",
+    "lessonBn": "আত্মীয়, অভাবী আর পথে আটকে পড়া মুসাফিরকে তাদের হক দিন, দয়া দেখানোর ভাব ছাড়া, আর দিন কেবল আল্লাহর চেহারা কামনা করে।"
   }
 };
 

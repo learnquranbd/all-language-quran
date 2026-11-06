@@ -1451,6 +1451,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:38": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Widening and Narrowing",
+          "bn": "রিজিক বাড়ানো-কমানোর পরে"
+        },
+        "p": [
+          {
+            "en": "The verse opens with fa, so: fa-ati dha l-qurba haqqahu, so give the relative his right. It hangs on the verse before it, where Allah extends provision for whom He wills and restricts it (30:37). Al-Qurtubi makes the link explicit. Since Allah had just said that He widens and narrows provision, He commanded him whose provision He had widened to pass on to the poor their sufficiency, in order to test the gratitude of the rich.",
+            "bn": "আয়াতের শুরুতেই ফা, অর্থাৎ অতএব: ফাআতি যাল কুরবা হাক্কাহু, অতএব আত্মীয়কে তার হক দাও। কথাটা ঝুলে আছে আগের আয়াতের সঙ্গে, যেখানে আল্লাহ যাকে ইচ্ছা রিজিক প্রশস্ত করেন আর যাকে ইচ্ছা সংকুচিত করেন (৩০:৩৭)। কুরতুবী এই যোগসূত্র খুলে বলেন। আল্লাহ সবে জানিয়েছেন যে রিজিক বাড়ানো ও কমানো তাঁরই হাতে। তাই যাকে তিনি প্রশস্ত রিজিক দিয়েছেন, তাকে আদেশ দিলেন অভাবীর প্রয়োজন মতো তার কাছে পৌঁছে দিতে, যাতে ধনীর শোকর যাচাই হয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the same background. Provision belongs to Allah alone; whoever spends it in His way does not see it dwindle, and the miser who hoards does not see his holding expand. So the one granted abundance is told not to be close-fisted, but to spend on the needy cheerfully. Then the verse names where the spending goes: first the relative, second the needy, third the traveller.",
+            "bn": "মাআরিফুল কুরআনও একই প্রেক্ষাপট থেকে পড়ে। রিজিক কেবল আল্লাহরই এখতিয়ারে। যে তা তাঁর পথে খরচ করে, তার রিজিক কমে যায় না। আর যে কৃপণ জমিয়ে রাখে, তার সম্পদ বাড়ে না। কাজেই যাকে প্রাচুর্য দেওয়া হয়েছে, তাকে বলা হচ্ছে হাত গুটিয়ে না রাখতে, খুশিমনে অভাবীর জন্য খরচ করতে। তারপর আয়াত খরচের খাতগুলোর নাম বলে দেয়: প্রথমে আত্মীয়, তারপর অভাবী, তারপর মুসাফির।"
+          },
+          {
+            "en": "The verb ati is singular. At-Tabari takes it as addressed to the Prophet ﷺ: give, O Muhammad, the relative of yours his right over you, of keeping ties and kindness. Al-Qurtubi agrees the address is to the Prophet, but says the intent is him and his community, reasoning from the plural that follows: that is best for those who want the Face of Allah. Ma'arif relays from al-Hasan al-Basri that the advice reaches every person granted abundance, and al-Muyassar simply says: give, O believer.",
+            "bn": "আতি ক্রিয়াটি একবচন। তাবারী একে নবী ﷺ-এর প্রতি সম্বোধন ধরেন: হে মুহাম্মাদ, তোমার আত্মীয়কে তার সেই হক দাও, যা তোমার উপর আছে, অর্থাৎ সম্পর্ক রক্ষা আর সদাচরণ। কুরতুবীও মানেন সম্বোধন নবীর প্রতি। তবে তাঁর মতে উদ্দেশ্য নবী ও তাঁর উম্মত দুই-ই। কারণ পরের অংশ বহুবচনে: যারা আল্লাহর চেহারা কামনা করে, এটা তাদের জন্য উত্তম। মাআরিফুল কুরআন হাসান বসরী থেকে উদ্ধৃত করে যে এ উপদেশ প্রাচুর্যপ্রাপ্ত প্রত্যেকের জন্য। আর মুয়াসসার সোজা বলে: হে মুমিন, তুমি দাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Kin Is Meant",
+          "bn": "আত্মীয় বলতে কে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a view that dhu l-qurba here means the relatives of the Prophet ﷺ. He does not adopt it. The first reading, that it means one's own kin, is more correct, he says, because the right of the Prophet's kin is already set out in the Book of Allah, in the verse on the fifth of the spoils: fa-anna lillahi khumusahu wa-lir-rasuli wa-li-dhi l-qurba, a fifth of it belongs to Allah, the Messenger and the near of kin (8:41).",
+            "bn": "কুরতুবী একটি মত উল্লেখ করেন: এখানে যুল কুরবা মানে নবী ﷺ-এর আত্মীয়স্বজন, মতটি তিনি গ্রহণ করেন না। তাঁর মতে প্রথম ব্যাখ্যাই বেশি সঠিক, অর্থাৎ এখানে প্রত্যেকের নিজের আত্মীয় উদ্দেশ্য। কারণ নবীর আত্মীয়দের হক আল্লাহর কিতাবে আগেই স্পষ্ট বলা আছে, গনীমতের এক-পঞ্চমাংশের আয়াতে: ফাআন্না লিল্লাহি খুমুসাহু ওয়া লির রাসূলি ওয়া লিযিল কুরবা, তার এক-পঞ্চমাংশ আল্লাহর, রাসূলের ও নিকটাত্মীয়দের (৮:৪১)।"
+          },
+          {
+            "en": "The other commentators fetched here read the relative as the giver's own. At-Tabari's wording is dha l-qarabati minka, your relation, and the right he names is ties and kindness. As-Sa'di says the relative near to you, given according to his nearness and his need. Al-Muyassar says your relative. Ibn Kathir names kindness and the keeping of ties. Ma'arif al-Qur'an states that kinsman here apparently means relatives in general, mahram or not, as the majority of commentators explain it.",
+            "bn": "এখানে যে তাফসীরগুলো দেখা হয়েছে, বাকিগুলো আত্মীয় বলতে দাতার নিজের আত্মীয়ই বোঝে। তাবারীর শব্দ যাল কারাবাতি মিনকা, তোমার সঙ্গে যার আত্মীয়তা। তিনি যে হকের কথা বলেন তা সম্পর্ক রক্ষা ও সদাচরণ। সা'দী বলেন, তোমার নিকটজন, তাকে দেবে তার নৈকট্য আর প্রয়োজন বুঝে। মুয়াসসার বলে, তোমার আত্মীয়। ইবন কাসীর বলেন সদাচরণ আর আত্মীয়তার বন্ধন রক্ষার কথা। মাআরিফুল কুরআন জানায়, অধিকাংশ তাফসীরকারের ব্যাখ্যা অনুযায়ী এখানে আত্মীয় বলতে সাধারণ আত্মীয়স্বজন, মাহরাম হোক বা না হোক।"
+          },
+          {
+            "en": "The Qur'an has said this before in almost the same words. Surat al-Isra carries wa-ati dha l-qurba haqqahu wal-miskina wabna s-sabil (17:26), with the same three people in the same order, followed there by a warning against squandering. Here the same command is followed instead by a statement of motive. One verse guards the giver's hand from waste; the other guards his heart, by asking what he wants when he gives.",
+            "bn": "প্রায় হুবহু এই কথা কুরআনে আগেও এসেছে। সূরা বনী ইসরাঈলে আছে: ওয়া আতি যাল কুরবা হাক্কাহু ওয়াল মিসকীনা ওয়াবনাস সাবীল (১৭:২৬)। সেখানেও একই তিনজন, একই ক্রমে, তারপর অপচয়ের বিরুদ্ধে সতর্কবাণী। এখানে একই আদেশের পরে আসে নিয়তের কথা। এক আয়াত দাতার হাতকে অপচয় থেকে বাঁচায়। অন্য আয়াত বাঁচায় তার অন্তরকে, প্রশ্ন রেখে যে দেওয়ার সময় সে আসলে কী চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owed, or Offered?",
+          "bn": "পাওনা, নাকি অনুগ্রহ?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reports a disagreement over this verse. A first view holds that it was abrogated by the verses of inheritance. Another holds that nothing was abrogated, and that the relative has a binding right to kindness in every circumstance; al-Qurtubi calls this the sound view. He cites Mujahid and Qatada: keeping the ties of kinship is an obligation from Allah. Mujahid went so far as to say that no one's charity is accepted while his own kin are in need.",
+            "bn": "কুরতুবী বলেন, এ আয়াত নিয়ে আলেমদের মতভেদ আছে। এক মত হলো, মীরাসের আয়াতগুলো দিয়ে এটি রহিত হয়ে গেছে। আরেক মত হলো, কিছুই রহিত হয়নি। আত্মীয়ের জন্য সদাচরণের হক সব অবস্থায় বহাল থাকে, আর কুরতুবীর ভাষায় এটাই সঠিক মত। তিনি মুজাহিদ ও কাতাদার কথা আনেন: আত্মীয়তার বন্ধন রক্ষা আল্লাহর পক্ষ থেকে ফরয। মুজাহিদ এতদূর বলেছেন যে, নিজের আত্মীয় অভাবে থাকলে কারও সদকা কবুল হয় না।"
+          },
+          {
+            "en": "Al-Qurtubi then records a third view: that the command to give the relative is by way of recommendation, nadb, rather than obligation. So his own list holds three positions: abrogated, binding, and recommended. He names the one he holds. This article only reports them as he gives them, and does not rule between them; what any one family owes is a question for a qualified scholar who knows its circumstances.",
+            "bn": "এরপর কুরতুবী তৃতীয় একটি মত আনেন: আত্মীয়কে দেওয়ার আদেশটি ফরয হিসেবে নয়, মুস্তাহাব হিসেবে, যাকে বলে নদব। তাহলে তাঁর নিজের তালিকাতেই তিনটি মত: রহিত, বাধ্যতামূলক, আর মুস্তাহাব। কোনটি তাঁর মত, তা তিনি বলে দেন। এ লেখা কেবল তাঁর বর্ণনা তুলে ধরছে, মতগুলোর মধ্যে ফয়সালা করছে না। কোনো নির্দিষ্ট পরিবারের উপর কী পাওনা, সেটা তার অবস্থা জানেন এমন যোগ্য আলেমের কাছে জিজ্ঞাসার বিষয়।"
+          },
+          {
+            "en": "As-Sa'di folds both kinds into the word haqq: the right the Lawgiver made obligatory or urged. His list runs from obligatory maintenance, al-nafaqa al-wajiba, through charity, gifts, kindness, greeting and honour, to pardoning a relative's slip and overlooking his lapse. Ma'arif al-Qur'an likewise says his right covers obligatory rights, such as those of parents, children and other close relations, and voluntary beneficence too. At-Tabari, on the needy and the traveller, speaks of what Allah has made obligatory for them.",
+            "bn": "সা'দী দুই ধরনকেই হক শব্দের ভেতরে রাখেন: শরীয়তপ্রণেতা যা ওয়াজিব করেছেন, অথবা যার প্রতি উৎসাহ দিয়েছেন। তাঁর তালিকা শুরু হয় ওয়াজিব ভরণপোষণ, আন-নাফাকাতুল ওয়াজিবা দিয়ে। তারপর সদকা, হাদিয়া, সদাচরণ, সালাম আর সম্মান। শেষে আত্মীয়ের ভুল ক্ষমা করা আর তার ত্রুটি উপেক্ষা করা। মাআরিফুল কুরআনও বলে, তার হক বলতে বাধ্যতামূলক হকগুলোও আছে, যেমন মা-বাবা, সন্তান ও অন্য নিকটাত্মীয়দের হক, আবার স্বেচ্ছায় করা সদাচরণও আছে। অভাবী ও মুসাফিরের বেলায় তাবারী বলেন সেই হকের কথা, যা আল্লাহ তাদের জন্য ফরয করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Purse Is Empty",
+          "bn": "হাত যখন খালি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives a report with its chain, from Ibn Waki', from Ghundar, from 'Awf, from al-Hasan,: it is that you give them their right in full if you are in ease, and if you have nothing, then say to them a gentle word, qawlan maysuran; speak good to them. The phrase qawlan maysuran is the one the Qur'an uses in 17:28. Al-Qurtubi compresses al-Hasan's point: the right is sharing in ease, and a gentle word in hardship.",
+            "bn": "তাবারী সনদসহ একটি বর্ণনা আনেন, ইবন ওয়াকী থেকে, তিনি গুনদার থেকে, তিনি আওফ থেকে, তিনি হাসান থেকে। হাসান বলেন: সচ্ছল থাকলে তাদের হক পুরোপুরি আদায় করবে। আর হাতে কিছু না থাকলে তাদের নরম কথা বলবে, কাওলান মাইসূরা, তাদের ভালো কথা বলবে। কাওলান মাইসূরা শব্দজোড়া কুরআন ১৭:২৮ আয়াতে ব্যবহার করেছে। কুরতুবী হাসানের কথাটা সংক্ষেপে বলেন: সচ্ছলতায় হক হলো ভাগ করে নেওয়া, আর অভাবের সময় নরম কথা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an widens the point. The right of close relatives is not restricted to money; it includes looking after them and giving them physical service. If nothing else is within one's means, they should at least be treated with sympathy and consoled in their distress. The same principle, it adds, holds for the needy and the traveller. The right does not lapse when the purse is empty; it changes form.",
+            "bn": "মাআরিফুল কুরআন কথাটা আরও বিস্তৃত করে। নিকটাত্মীয়ের হক শুধু টাকাপয়সায় সীমাবদ্ধ নয়। তাদের দেখাশোনা করা, শারীরিক সেবা দেওয়াও এর মধ্যে পড়ে। আর কিছুই সামর্থ্যে না থাকলে অন্তত তাদের প্রতি সহানুভূতি দেখানো, বিপদে সান্ত্বনা দেওয়া। একই নীতি অভাবী ও মুসাফিরের বেলাতেও খাটে। পকেট খালি হলে হক ফুরিয়ে যায় না, কেবল তার রূপ বদলায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stilled by Need, Stranded Abroad",
+          "bn": "অভাবে থমকে যাওয়া, পথে আটকে পড়া"
+        },
+        "p": [
+          {
+            "en": "On al-miskin, Ibn Kathir gives a two-part definition: whoever has nothing to spend on himself, or has something that does not meet his sufficiency. As-Sa'di reads the word from its root: he whom poverty and need have made still, askanahu. His right is whatever removes his need, by feeding him, giving him drink and clothing him. Al-Baghawi says his right is that charity be given to him, and al-Qurtubi relays from Ibn 'Abbas: feed the beggar who goes round asking.",
+            "bn": "মিসকীন সম্পর্কে ইবন কাসীর দুই ভাগে সংজ্ঞা দেন: যার নিজের জন্য খরচ করার মতো কিছুই নেই, অথবা কিছু আছে কিন্তু তাতে প্রয়োজন মেটে না। সা'দী শব্দটা পড়েন তার মূল থেকে: দারিদ্র্য আর অভাব যাকে থামিয়ে দিয়েছে, আসকানাহু। তার হক হলো এমন কিছু, যা তার অভাব দূর করে: খাবার দেওয়া, পানি দেওয়া, কাপড় দেওয়া। বাগাভী বলেন, তার হক হলো তাকে সদকা দেওয়া। আর কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: ঘুরে ঘুরে চেয়ে বেড়ানো ভিক্ষুককে খাওয়াও।"
+          },
+          {
+            "en": "On ibn al-sabil, the son of the road, Ibn Kathir says: the traveller who needs money and whatever else he needs on his journey. Al-Baghawi says the traveller, and adds a second reading under qila: the weak. Al-Qurtubi relays from Ibn 'Abbas that the wayfarer here is the guest, and his text adds that this makes hospitality a duty.",
+            "bn": "ইবনুস সাবীল, অর্থাৎ পথের সন্তান সম্পর্কে ইবন কাসীর বলেন: সেই মুসাফির, সফরে যার টাকাপয়সা আর প্রয়োজনীয় জিনিসের দরকার। বাগাভী বলেন মুসাফির, তারপর 'কীলা' দিয়ে আরেকটি ব্যাখ্যা যোগ করেন: দুর্বল মানুষ। কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন যে এখানে মুসাফির মানে মেহমান, আর তাঁর লেখায় যোগ হয়, এতে মেহমানদারি ফরয সাব্যস্ত হলো।"
+          },
+          {
+            "en": "As-Sa'di explains why the stranded stranger is named at all. Away from his own land he is likely in severe need, carrying no money and no earning he has arranged for his journey. The poor man at home differs: even without wealth he usually has a craft or trade that meets his need. For this reason, as-Sa'di says, Allah gave the miskin and the wayfarer a share in zakat.",
+            "bn": "অচেনা মুসাফিরের নাম কেন আলাদা করে এল, সা'দী তা ব্যাখ্যা করেন। নিজের দেশ থেকে দূরে সে খুব সম্ভবত কঠিন অভাবে পড়ে। সঙ্গে টাকা নেই, সফরে চলার মতো কোনো উপার্জনের ব্যবস্থাও নেই। নিজের এলাকার গরিব মানুষ আলাদা। সম্পদ না থাকলেও সাধারণত তার কোনো পেশা বা কারিগরি থাকে, যা দিয়ে প্রয়োজন মেটে। সা'দী বলেন, এ কারণেই আল্লাহ যাকাতে মিসকীন ও মুসাফিরের জন্য অংশ রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Her Maternal Uncles First",
+          "bn": "আগে মামাদের কথা"
+        },
+        "p": [
+          {
+            "en": "Why is the relative named first? Al-Qurtubi answers: because of the nearness of the tie of womb. The best charity, he says, is charity to a relative, since it also keeps the tie of kinship, and he notes that the Prophet ﷺ ranked charity to relatives above freeing slaves. The narration he refers to is in Sahih al-Bukhari (2592), from Kuraib, the freed slave of Ibn 'Abbas.",
+            "bn": "আত্মীয়ের নাম সবার আগে কেন? কুরতুবীর উত্তর: রক্তের বন্ধনের নৈকট্যের কারণে। তিনি বলেন, সবচেয়ে উত্তম সদকা আত্মীয়কে দেওয়া সদকা, কারণ তাতে আত্মীয়তার বন্ধনও রক্ষা হয়। তিনি আরও উল্লেখ করেন, নবী ﷺ আত্মীয়কে সদকা দেওয়াকে দাসমুক্তির চেয়েও শ্রেষ্ঠ বলেছেন। যে বর্ণনার দিকে তিনি ইঙ্গিত করেন তা আছে সহীহ বুখারীতে (২৫৯২), ইবন আব্বাসের মুক্ত দাস কুরাইব থেকে।"
+          },
+          {
+            "en": "In the collection's words: \"Narrated Kuraib: the freed slave of Ibn `Abbas, that Maimuna bint Al-Harith told him that she manumitted a slave-girl without taking the permission of the Prophet. On the day when it was her turn to be with the Prophet, she said, 'Do you know, O Allah's Messenger (ﷺ), that I have manumitted my slave-girl?' He said, 'Have you really?' She replied in the affirmative. He said, 'You would have got more reward if you had given her (i.e. the slave-girl) to one of your maternal uncles.'\" The grading is the collection's own: it is in al-Bukhari's Sahih.",
+            "bn": "কুরাইব বর্ণনা করেন, মাইমুনা বিনতুল হারিস (রাঃ) তাঁকে জানিয়েছেন যে তিনি নবী ﷺ-এর অনুমতি না নিয়েই একটি দাসীকে মুক্ত করে দিয়েছিলেন। যেদিন নবীর কাছে তাঁর পালা এল, তিনি বললেন: হে আল্লাহর রাসূল, আপনি কি জানেন, আমি আমার দাসীকে মুক্ত করে দিয়েছি? তিনি বললেন: সত্যিই করেছ? তিনি বললেন: হ্যাঁ। নবী ﷺ বললেন: তুমি যদি তাকে তোমার মামাদের কাউকে দিয়ে দিতে, তবে তোমার সওয়াব আরও বেশি হতো। মান সংকলনেরই: বর্ণনাটি সহীহ বুখারীতে আছে।"
+          },
+          {
+            "en": "The narration is general: al-Bukhari does not report it as connected to this verse, and al-Qurtubi brings it in as evidence for ranking gifts to kin, not as the verse's occasion. And none of the commentators fetched for 30:38 attaches a sound hadith or an occasion of revelation to the verse itself. The Prophet's words do not fault the freeing; they say that a different gift would have earned more.",
+            "bn": "বর্ণনাটি সাধারণ। বুখারী একে এ আয়াতের সঙ্গে যুক্ত করে বর্ণনা করেননি। কুরতুবীও একে আনেন আত্মীয়কে দেওয়ার শ্রেষ্ঠত্বের দলিল হিসেবে, আয়াত নাযিলের উপলক্ষ হিসেবে নয়। আর ৩০:৩৮-এর জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস বা শানে নুযূল যুক্ত করেনি। নবী ﷺ-এর কথায় দাসমুক্তির কোনো নিন্দা নেই। তিনি কেবল বলেছেন, অন্যভাবে দিলে সওয়াব আরও বেশি হতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "For Those Who Want His Face",
+          "bn": "যারা তাঁর চেহারা কামনা করে"
+        },
+        "p": [
+          {
+            "en": "Dhalika khayrun lilladhina yuriduna wajha llah: that is best for those who want the Face of Allah. Ibn Kathir says it means looking upon Him on the Day of Resurrection. At-Tabari says: those who want Allah by their giving. Al-Baghawi says: they seek the reward of Allah through what they do. Al-Qurtubi puts it as a comparison: giving the right is better than holding back, when the Face of Allah and nearness to Him are what is intended.",
+            "bn": "যালিকা খাইরুল লিল্লাযীনা ইউরীদূনা ওয়াজহাল্লাহ: যারা আল্লাহর চেহারা কামনা করে, এটা তাদের জন্য উত্তম। ইবন কাসীর বলেন, এর অর্থ কিয়ামতের দিন তাঁর দিকে তাকানো। তাবারী বলেন: যারা দানের মাধ্যমে আল্লাহকেই চায়। বাগাভী বলেন: যারা নিজেদের আমলের বিনিময়ে আল্লাহর সওয়াব চায়। কুরতুবী তুলনা করে বলেন: আল্লাহর চেহারা আর তাঁর নৈকট্য উদ্দেশ্য হলে হক আদায় করা আটকে রাখার চেয়ে উত্তম।"
+          },
+          {
+            "en": "As-Sa'di draws the edge of the condition sharply. For those who intend His Face, the giving is abundant good and great reward, being among the best of righteous deeds: a benefit that reaches others, placed where it belongs, joined with sincerity. If it is not done for the Face of Allah, it is not good for the giver, though it is still good and benefit for the one who receives. He cites 4:114, which promises a great reward to whoever enjoins such good seeking Allah's pleasure.",
+            "bn": "সা'দী শর্তটার সীমারেখা স্পষ্ট করে টানেন। যারা তাঁর চেহারা চায়, তাদের জন্য এ দান অঢেল কল্যাণ আর বিপুল সওয়াব। কারণ এটি শ্রেষ্ঠ নেক আমলগুলোর একটি: এর উপকার অন্যের কাছে পৌঁছায়, ঠিক জায়গায় পড়ে, আর তার সঙ্গে থাকে ইখলাস। কিন্তু আল্লাহর চেহারার জন্য না হলে দাতার জন্য তাতে কল্যাণ নেই, যদিও গ্রহীতার জন্য তা কল্যাণ ও উপকারই থাকে। তিনি ৪:১১৪ আয়াত আনেন, যেখানে আল্লাহর সন্তুষ্টির আশায় এমন কল্যাণের আদেশ যে দেয়, তার জন্য মহা প্রতিদানের ওয়াদা আছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an adds a second guard, facing the receiver rather than Allah. Since this is the right of these people, obligated on your wealth, no favour should be shown to them while giving it; passing on someone's share to him is fairness and justice, not a favour. So the verse asks two things of one act. Toward Allah, want His Face. Toward the relative, the needy and the traveller, hand over what is theirs without the air of a benefactor.",
+            "bn": "মাআরিফুল কুরআন আরেকটি পাহারা যোগ করে, যার মুখ আল্লাহর দিকে নয়, গ্রহীতার দিকে। এ তো তাদের হক, তোমার সম্পদের উপর ধার্য করা। কাজেই দেওয়ার সময় তাদের উপর দয়া দেখানো চলে না। কারও পাওনা তার হাতে পৌঁছে দেওয়া ন্যায় ও ইনসাফ, অনুগ্রহ নয়। তাহলে একটি কাজের কাছে আয়াত দুটি জিনিস চায়। আল্লাহর দিকে: তাঁর চেহারা কামনা করো। আর আত্মীয়, অভাবী ও মুসাফিরের দিকে: তাদের যা প্রাপ্য, তা দাও দাতার অহংকার ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Success, Then the Contrast",
+          "bn": "সাফল্য, তারপর বিপরীত ছবি"
+        },
+        "p": [
+          {
+            "en": "Wa-ula'ika humu l-muflihun: and it is they who are the successful. Ibn Kathir says: in this world and in the Hereafter. Al-Qurtubi places it in the Hereafter: those who win what they sought of reward there. At-Tabari: those who succeed, who attain what they seek from Allah, winning what they looked for by giving what they gave. As-Sa'di and al-Muyassar say the winners of Allah's reward, saved from His punishment.",
+            "bn": "ওয়া উলাইকা হুমুল মুফলিহূন: আর তারাই সফলকাম। ইবন কাসীর বলেন: দুনিয়াতে এবং আখিরাতে। কুরতুবী সাফল্যটা রাখেন আখিরাতে: সেখানে যে সওয়াব তারা চেয়েছিল, তা লাভ করা। তাবারী বলেন: যারা সফল হয়, আল্লাহর কাছে যা চেয়েছে তা পায়, আর যা দিয়েছে তার বিনিময়ে যা খুঁজেছে তা অর্জন করে। সা'দী ও মুয়াসসার বলেন: যারা আল্লাহর সওয়াব লাভ করে আর তাঁর শাস্তি থেকে বেঁচে যায়।"
+          },
+          {
+            "en": "The next verse says: what you give as riba to grow in people's wealth does not grow with Allah, but what you give in zakat, wanting the Face of Allah, those are the multipliers (30:39). Al-Qurtubi opens that verse by tying it back to 30:38: having mentioned what is done for His Face and rewarded, Allah mentions what is otherwise. The phrase yuriduna wajha llah sits in both verses. Ma'arif al-Qur'an, discussing 30:39, calls that verse Makkan, and the abridged Ibn Kathir heads the surah as revealed in Makkah.",
+            "bn": "পরের আয়াত বলে: মানুষের সম্পদে বাড়ার জন্য তোমরা যে রিবা দাও, তা আল্লাহর কাছে বাড়ে না। আর আল্লাহর চেহারা কামনা করে যে যাকাত দাও, তারাই বহুগুণ লাভকারী (৩০:৩৯)। কুরতুবী সে আয়াতের আলোচনা শুরু করেন ৩০:৩৮-এর সঙ্গে জুড়ে দিয়ে: যা তাঁর চেহারার জন্য করা হয় আর যার সওয়াব মেলে, তার কথা বলার পর আল্লাহ অন্যটির কথা বলছেন। ইউরীদূনা ওয়াজহাল্লাহ কথাটা দুই আয়াতেই আছে। মাআরিফুল কুরআন ৩০:৩৯-এর আলোচনায় সেটিকে মক্কী আয়াত বলে, আর ইবন কাসীরের সংক্ষিপ্ত সংস্করণ সূরার শিরোনামে লেখে, এটি মক্কায় নাযিল হয়েছে।"
+          },
+          {
+            "en": "None of the commentators fetched on 30:38 discusses the date of this verse, or whether zakat had yet been fixed when it came down, so that question stays open here. What the verse asks is plain enough. Look first at the people nearest you, then at the person with nothing, then at the stranger with no road home. Give what is theirs, in money if you have it and in kindness if you do not, and give it wanting His Face.",
+            "bn": "৩০:৩৮-এর জন্য দেখা কোনো তাফসীরকার এ আয়াত নাযিলের সময় নিয়ে আলোচনা করেননি। নাযিলের সময় যাকাত নির্ধারিত হয়েছিল কি না, সে প্রশ্নও তোলেননি। তাই প্রশ্নটা এখানে খোলা থাকল। আয়াত যা চায়, তা অবশ্য পরিষ্কার। প্রথমে তাকান সবচেয়ে কাছের মানুষদের দিকে, তারপর যার কিছুই নেই তার দিকে, তারপর সেই অচেনা মুসাফিরের দিকে, যার ঘরে ফেরার পথ বন্ধ। তাদের যা প্রাপ্য তা দিন। টাকা থাকলে টাকায়, না থাকলে সদাচরণে। আর দিন কেবল তাঁর চেহারা কামনা করে।"
+          }
+        ]
+      }
+    ]
+  },
   "30:41": {
     "sections": [
       {
