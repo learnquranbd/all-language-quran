@@ -24969,6 +24969,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not mistake Allah's respite for absence; the warning delayed is still the warning, so answer it while there is time.",
     "lessonBn": "আল্লাহর দেওয়া অবকাশকে না-থাকা ভেবে ভুল করবেন না। দেরিতে আসা সতর্কবাণীও সতর্কবাণীই, তাই সময় থাকতেই সাড়া দিন।"
+  },
+  "29:36": {
+    "reflectionEn": "Lut's story has just closed, and Madyan's opens in a single verse. Shu'ayb gives his people three commands: worship Allah, look ahead to the Last Day, and stop spreading ruin on the earth. The middle command is the hinge. A person who truly expects a Day of account trades, speaks and treats people differently from one who expects nothing. The verse does not say whether that expectation should feel like hope or like dread, and both readings have been held. Either way, the Day is meant to change what I do today. The next verse tells us they called him a liar. So I ask myself: does the Day I say I believe in reach my hands, my tongue and my dealings?",
+    "reflectionBn": "লূতের কাহিনি সবে শেষ হলো, আর মাদইয়ানের কাহিনি শুরু হলো এক আয়াতেই। শু‘আয়ব (আঃ) তাঁর কওমকে তিনটি কথা বলেন: আল্লাহর ইবাদত করো, শেষ দিনের দিকে তাকিয়ে থাকো, আর জমিনে ফাসাদ ছড়িয়ে বেড়িয়ো না। মাঝের কথাটাই আসল কবজা। যে মানুষ সত্যিই হিসাবের দিনের অপেক্ষায় থাকে, তার কেনাবেচা, কথাবার্তা আর মানুষের সঙ্গে আচরণ অন্যরকম হয়ে যায়। সেই অপেক্ষা আশার, নাকি ভয়ের, আয়াত তা খুলে বলেনি। দুই অর্থই আলেমরা নিয়েছেন। যে অর্থই হোক, ওই দিন আজকের কাজ বদলে দেওয়ার কথা। পরের আয়াত জানায়, তারা তাঁকে মিথ্যাবাদী বলেছিল। তাই নিজেকে জিজ্ঞেস করি: যে দিনে বিশ্বাস করি বলে দাবি করি, সে দিন কি আমার হাত, জিহ্বা আর লেনদেন পর্যন্ত পৌঁছায়?",
+    "pointsEn": [
+      "If someone watched only my dealings this week, would they guess that I expect a Day of account?",
+      "When I think of the Last Day, is it mostly hope, mostly fear, or hardly anything at all?",
+      "Which small harm do I keep doing because I tell myself it is too minor to count?",
+      "Shu'ayb put worship first and the ban on ruin last; where in my own life have I kept the first and dropped the last?",
+      "What would change tomorrow if I worked for that Day the way I work for my next payment?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে কেউ যদি শুধু আমার লেনদেন দেখত, সে কি আন্দাজ করতে পারত যে আমি হিসাবের দিনের অপেক্ষায় আছি?",
+      "শেষ দিনের কথা ভাবলে আমার মনে কী জাগে: বেশিটা আশা, বেশিটা ভয়, নাকি প্রায় কিছুই না?",
+      "কোন ছোট ক্ষতিটা আমি করেই চলেছি, শুধু এই বলে যে এটা ধরার মতো কিছু না?",
+      "শু‘আয়ব (আঃ) ইবাদতকে রেখেছেন শুরুতে, ফাসাদের নিষেধকে শেষে। আমার জীবনের কোথায় আমি প্রথমটা ধরে রেখে শেষটা ছেড়ে দিয়েছি?",
+      "পরের বেতনের জন্য যেভাবে খাটি, সেভাবে যদি ওই দিনের জন্য খাটতাম, কাল থেকে কী বদলাত?"
+    ],
+    "lessonEn": "Let the Last Day you believe in reach your daily dealings: worship Allah, live in expectation of His reckoning, and stop every harm you spread, however small it seems.",
+    "lessonBn": "যে শেষ দিনে বিশ্বাস করেন, তা যেন আপনার রোজকার লেনদেনে পৌঁছায়: আল্লাহর ইবাদত করুন, তাঁর হিসাবের অপেক্ষায় জীবন কাটান, আর যত ছোটই মনে হোক, যে ক্ষতি ছড়াচ্ছেন তা থামান।"
   }
 };
 

@@ -1167,6 +1167,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "Lut's Sign, Then Madyan",
+          "bn": "লূতের নিদর্শন, তারপর মাদইয়ান"
+        },
+        "p": [
+          {
+            "en": "Al-'Ankabut has been walking through earlier messengers since 29:14: Nuh, then Ibrahim, then Lut (AS). The account of Lut closes at 29:35 with a ruined town left as a clear sign for a people who use reason. The very next words are wa ila Madyana akhahum Shu'ayban, and to Madyan their brother Shu'ayb. His account here runs to two verses. In 29:37 they deny him and the quake seizes them, and 29:38 to 29:40 then sweep through Aad, Thamud, Qarun, Pharaoh and Haman, each seized for his sin.",
+            "bn": "সূরা আনকাবূত ২৯:১৪ থেকে আগের রাসূলদের কথা একে একে বলে আসছে: প্রথমে নূহ, তারপর ইবরাহীম, তারপর লূত (আঃ)। লূতের কাহিনি শেষ হয় ২৯:৩৫ আয়াতে। ধ্বংস হয়ে যাওয়া জনপদটিকে রেখে দেওয়া হয়েছে বুদ্ধি খাটানো লোকদের জন্য স্পষ্ট নিদর্শন হিসেবে। ঠিক পরের কথাই হলো ওয়া ইলা মাদইয়ানা আখাহুম শু‘আয়বা: আর মাদইয়ানের কাছে তাদের ভাই শু‘আয়বকে। এ সূরায় তাঁর কাহিনি মাত্র দুই আয়াতের। ২৯:৩৭ আয়াতে তারা তাঁকে অস্বীকার করে, আর মহাকম্পন তাদের পাকড়াও করে। এরপর ২৯:৩৮ থেকে ২৯:৪০ আয়াতে এক নিঃশ্বাসে আসে আদ, সামূদ, কারূন, ফিরআউন ও হামানের কথা। প্রত্যেককেই ধরা হয়েছে তার নিজের গুনাহের কারণে।"
+          },
+          {
+            "en": "The commentators notice the brevity and point elsewhere. Al-Qurtubi says that their mention and their corruption have already come in al-A'raf and Hud. Ibn Kathir, in the English abridgement, says their story has been examined in detail in al-A'raf, Hud and ash-Shu'ara'. That is the right way to take this verse. The scale, the road and the long argument belong to those surahs, and this module treats them at 7:85, 11:84 and 26:183. What al-'Ankabut keeps is a compressed charge, and the compression is the subject here.",
+            "bn": "তাফসীরকারেরা এই সংক্ষেপটা খেয়াল করেন এবং পাঠককে অন্য জায়গায় পাঠিয়ে দেন। কুরতুবী বলেন, এদের কথা আর এদের ফাসাদের বিবরণ আগেই এসেছে সূরা আরাফ ও সূরা হূদে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, এদের কাহিনি বিস্তারিত দেখা হয়েছে আরাফ, হূদ ও শুআরায়। এ আয়াত পড়ার সঠিক পথও এটাই। মাপ-ওজন, রাস্তা আর লম্বা বিতর্কের জায়গা ওই সূরাগুলোতে, আর এই মডিউলে সেগুলোর আলোচনা আছে ৭:৮৫, ১১:৮৪ ও ২৬:১৮৩ আয়াতে। আনকাবূত রেখেছে শুধু এক সংক্ষিপ্ত আহ্বান। এখানে আলোচনার বিষয় সেই সংক্ষেপটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Charge Cut to Three",
+          "bn": "তিন কথায় গোটা দাওয়াত"
+        },
+        "p": [
+          {
+            "en": "Set the verse beside its parallels. 7:85 and 11:84 open with the same words and continue: O my people, worship Allah, you have no deity other than Him; then both turn to the measure and the weight. 29:36 keeps the worship and drops both the second clause and the market. In their place stands a command found in neither: wa-rju al-yawm al-akhir, and look to the Last Day. The closing clause, wa la ta'thaw fi al-ardi mufsidin, is word for word the end of 11:85 and of 26:183, where it follows a ban on cheating. Here nothing comes before it but the Day.",
+            "bn": "আয়াতটিকে এর সমান্তরাল আয়াতগুলোর পাশে রাখুন। ৭:৮৫ ও ১১:৮৪ শুরু হয় হুবহু একই শব্দে, তারপর বলে: হে আমার কওম, আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। এরপর দুটো আয়াতই চলে যায় মাপ আর ওজনের কথায়। ২৯:৩৬ ইবাদতের কথাটা রাখে, কিন্তু দ্বিতীয় বাক্যটি আর বাজারের প্রসঙ্গ দুটোই বাদ দেয়। তাদের জায়গায় আসে এমন এক আদেশ, যা ওই দুই আয়াতের কোনোটিতেই নেই: ওয়ারজুল ইয়াওমাল আখির, শেষ দিনের দিকে তাকিয়ে থাকো। শেষ বাক্য ওয়া লা তা‘সাও ফিল আরদি মুফসিদীন হুবহু ১১:৮৫ ও ২৬:১৮৩ আয়াতের শেষাংশ। সেখানে এটি আসে মাপে ঠকানোর নিষেধের পরে। এখানে এর আগে আছে শুধু ওই দিনের কথা।"
+          },
+          {
+            "en": "The verb of sending is not in the verse. At-Tabari supplies it in Allah's first person, and I sent to Madyan their brother Shu'ayb; al-Qurtubi, al-Baghawi, as-Sa'di and al-Muyassar supply it as and We sent. Al-Muyassar's paraphrase then does something more. It reads: worship Allah alone, make your worship sincere to Him, you have no deity other than Him. That last phrase is the wording of 7:85 and 11:84, not of this verse. The paraphrase carries the fuller telling into the shorter one, a fair reminder that all three passages describe the same mission.",
+            "bn": "পাঠানোর ক্রিয়াটি আয়াতে উহ্য। তাবারী সেটা পূরণ করেন আল্লাহর নিজের জবানে: আর আমি মাদইয়ানের কাছে তাদের ভাই শু‘আয়বকে পাঠালাম। কুরতুবী, বাগাভী, সা'দী ও মুয়াসসার পূরণ করেন এভাবে: আর আমরা পাঠালাম। মুয়াসসারের ব্যাখ্যা এর চেয়ে আরেকটু এগোয়। সেখানে আছে: একমাত্র আল্লাহর ইবাদত করো, ইবাদত খাঁটিভাবে তাঁরই জন্য করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। শেষ কথাটা ৭:৮৫ ও ১১:৮৪ আয়াতের, এ আয়াতের নয়। ব্যাখ্যাটি বড় বর্ণনাকে টেনে এনেছে ছোটটির ভেতরে। এতে মনে পড়ে যায়, তিনটি জায়গাতেই কথা একই রিসালাতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Humbled Before Him Alone",
+          "bn": "শুধু তাঁরই সামনে নত"
+        },
+        "p": [
+          {
+            "en": "Ya qawmi u'budu Allah, O my people, worship Allah. At-Tabari's gloss gives the command an inside: worship Him alone, abase yourselves to Him in obedience, and humble yourselves to Him in worship. The two verbs he chooses, dhillu and ikhda'u, describe a posture of the self before they describe any rite. Ibn Kathir and as-Sa'di both read the command as worship of Allah alone, with no partner, and al-Muyassar adds that the worship be made sincere. The readings stand together: exclusive, sincere and lowly.",
+            "bn": "ইয়া কওমি উ‘বুদুল্লাহ: হে আমার কওম, আল্লাহর ইবাদত করো। তাবারীর ব্যাখ্যা আদেশটির ভেতরের দিকটা দেখায়। তাঁর ভাষায়: একমাত্র তাঁরই ইবাদত করো, আনুগত্যে তাঁর সামনে নিজেকে ছোট করো, ইবাদতে তাঁর কাছে নত হও। তিনি যে দুটি ক্রিয়া বেছে নেন, যিল্লু আর ইখদা‘উ, তা কোনো আনুষ্ঠানিকতার আগে মনের এক অবস্থার ছবি আঁকে। ইবন কাসীর ও সা'দী দুজনেই আদেশটি পড়েন শরিকহীনভাবে একমাত্র আল্লাহর ইবাদত হিসেবে। মুয়াসসার যোগ করে, ইবাদত হতে হবে খাঁটি। সব ব্যাখ্যা মিলে ছবিটা দাঁড়ায় এমন: ইবাদত শুধু তাঁর, খাঁটি, আর বিনয়ে নত।"
+          },
+          {
+            "en": "Ibn Kathir frames the whole verse with one verb: Shu'ayb (AS) warned his people, andhara. As-Sa'di places Madyan simply as the well-known, famous tribe. Then comes the order of the three commands: worship, the Day, the ban on ruin. Whatever one makes of the middle term, the speech moves from the One worshipped, through the Day on which the worship is answered, to the earth on which it is lived. That order is visible in the text itself; the commentators gloss each clause and, in the pages fetched here, say nothing about the sequence.",
+            "bn": "ইবন কাসীর পুরো আয়াতকে একটি ক্রিয়া দিয়ে বাঁধেন: শু‘আয়ব (আঃ) তাঁর কওমকে সতর্ক করেছিলেন, আনযারা। সা'দী মাদইয়ানের পরিচয় দেন সোজা কথায়: সুপরিচিত, প্রসিদ্ধ গোত্র। এরপর তিনটি আদেশের ক্রম: ইবাদত, শেষ দিন, ফাসাদের নিষেধ। মাঝেরটার অর্থ যেভাবেই ধরা হোক, কথাটা এগোয় যাঁর ইবাদত তাঁর থেকে, সেই দিনের মধ্য দিয়ে যেদিন ইবাদতের জবাব মিলবে, সেই জমিন পর্যন্ত যেখানে ইবাদত যাপিত হয়। এই ক্রম আয়াতের শব্দেই দেখা যায়। এখানে দেখা তাফসীরগুলো প্রতিটি অংশের ব্যাখ্যা দেয়, কিন্তু ক্রমটি নিয়ে কিছু বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hope Earned by Worship",
+          "bn": "ইবাদতের বিনিময়ের আশা"
+        },
+        "p": [
+          {
+            "en": "Wa-rju al-yawm al-akhir. At-Tabari reads the verb as hope and ties it to the command before it. In his paraphrase, voiced as Allah's speech, it means: hope, by your worship of Me, for the reward of the Last Day, and that is the Day of Resurrection. The object of the hope, on his reading, is not the Day as a date but its jaza', its recompense. Worship is the means; what is awaited is what the worship will earn on that Day.",
+            "bn": "ওয়ারজুল ইয়াওমাল আখির। তাবারী ক্রিয়াটিকে আশা অর্থে পড়েন এবং আগের আদেশের সঙ্গে জুড়ে দেন। আল্লাহর জবানে তাঁর ব্যাখ্যা এরকম: আমার ইবাদতের মাধ্যমে তোমরা শেষ দিনের প্রতিদানের আশা রাখো, আর সে দিন হলো কিয়ামতের দিন। তাঁর পাঠে আশাটা কোনো তারিখের জন্য নয়, সেই দিনের জাযা বা প্রতিদানের জন্য। ইবাদত হলো উপায়। অপেক্ষা সেই ফলের, যা ইবাদত ওই দিনে এনে দেবে।"
+          },
+          {
+            "en": "Al-Muyassar follows him almost to the word: hope, by your worship, for the reward of the Last Day. As-Sa'di widens the clause into three parts: belief in the resurrection, hoping for it, and working for it. His wording gives hope a creed beneath it and labour after it. On this line of reading Shu'ayb (AS) is not only warning his people. He is offering them something to want, a return on whatever they would have to give up to obey him.",
+            "bn": "মুয়াসসার প্রায় হুবহু তাঁকে অনুসরণ করে: ইবাদতের মাধ্যমে শেষ দিনের প্রতিদানের আশা রাখো। সা'দী কথাটাকে তিনটি ভাগে খুলে দেন: পুনরুত্থানে ঈমান, তার আশা, আর তার জন্য আমল। তাঁর শব্দে আশার নিচে থাকে আকীদা, আর পরে থাকে খাটুনি। এভাবে পড়লে শু‘আয়ব (আঃ) কওমকে শুধু সতর্কই করছেন না। তিনি তাদের সামনে চাওয়ার মতো কিছু রাখছেন। তাঁর কথা মানতে গিয়ে যা কিছু ছাড়তে হবে, তার বদলে মিলবে প্রতিদান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hope Heard as Dread",
+          "bn": "আশা, নাকি ভয়"
+        },
+        "p": [
+          {
+            "en": "Others hear the same verb as fear. Al-Baghawi's gloss is a single word: wa-khshaw, and fear. Al-Qurtubi reports it from Yunus the grammarian: fear the Hereafter, in which there is recompense for deeds. Both keep the object of the verb, the Day or the Hereafter, and change only the feeling. Yunus keeps the idea of recompense that at-Tabari has too, but turns it from something awaited with longing into something awaited with dread.",
+            "bn": "অন্যরা একই ক্রিয়াকে ভয় অর্থে শোনেন। বাগাভীর ব্যাখ্যা এক শব্দের: ওয়াখশাও, অর্থাৎ ভয় করো। কুরতুবী বর্ণনা করেন ব্যাকরণবিদ ইউনুসের কথা: আখিরাতকে ভয় করো, যেখানে আমলের প্রতিদান দেওয়া হবে। দুজনেই ক্রিয়ার লক্ষ্য ঠিক রাখেন, অর্থাৎ ওই দিন বা আখিরাত। বদলান শুধু মনের ভাবটা। প্রতিদানের ধারণা তাবারীর কাছেও আছে, ইউনুসও তা রাখেন। তবে তাঁর পাঠে প্রতিদানের অপেক্ষাটা আকাঙ্ক্ষার নয়, আশঙ্কার।"
+          },
+          {
+            "en": "Ibn Kathir's own paraphrase takes this side. Shu'ayb (AS), he says, commanded them to worship Allah alone and to fear Allah's might, His vengeance and His onslaught on the Day of Resurrection. He then cites Ibn Jarir, that is at-Tabari, for the report that some said the meaning is fear the Last Day, and adds: this is like His saying, for whoever hopes for Allah and the Last Day (60:6). The same phrase stands, word for word, at 33:21. Ibn Kathir offers 60:6 as the parallel without saying how it bears on the question.",
+            "bn": "ইবন কাসীরের নিজের ব্যাখ্যা এই দিকেই। তিনি বলেন, শু‘আয়ব (আঃ) তাদের আদেশ দিয়েছিলেন একমাত্র আল্লাহর ইবাদত করতে, আর কিয়ামতের দিন আল্লাহর পাকড়াও, তাঁর প্রতিশোধ আর তাঁর কঠোর আঘাতকে ভয় করতে। তারপর তিনি ইবন জারীর, অর্থাৎ তাবারীর বরাতে আনেন যে কেউ কেউ বলেছেন, এর অর্থ শেষ দিনকে ভয় করো। সঙ্গে যোগ করেন: এ হলো আল্লাহর সেই বাণীর মতো, যে আল্লাহ ও শেষ দিনের আশা রাখে (৬০:৬)। হুবহু একই বাক্যাংশ আছে ৩৩:২১ আয়াতেও। ৬০:৬-কে ইবন কাসীর সমান্তরাল হিসেবে আনেন, কিন্তু প্রশ্নটির মীমাংসায় তা কীভাবে কাজে আসে, বলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Negative Is Missing",
+          "bn": "না-বোধক শব্দটি নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the fear reading without a reply. After giving his own gloss, he reports that some scholars of the Arabs' speech used to take wa-rju al-yawm al-akhir to mean fear the Last Day. Then he reports that another scholar of Arabic rejected this, saying: we have not found raja' in the sense of fear in the speech of the Arabs except where a negation, jahd, accompanies it. This verse has no negative. On that argument, the fear reading lacks the one condition under which the word could carry it.",
+            "bn": "ভয়ের পাঠটিকে তাবারী জবাব ছাড়া রেখে দেন না। নিজের ব্যাখ্যা দেওয়ার পর তিনি জানান, আরবদের ভাষায় পারদর্শী কিছু আলেম ওয়ারজুল ইয়াওমাল আখির-এর অর্থ নিতেন শেষ দিনকে ভয় করো। তারপর জানান, আরবি ভাষার আরেক আলেম এটা মানতেন না। তিনি বলতেন: আরবদের কথায় রাজা শব্দকে ভয় অর্থে আমরা পাইনি, যদি না সঙ্গে জাহদ বা না-বোধক শব্দ থাকে। এ আয়াতে কোনো না-বোধক শব্দ নেই। এই যুক্তিতে ভয়ের পাঠের সেই একটি শর্তই অনুপস্থিত, যা থাকলে শব্দটি ওই অর্থ বহন করতে পারত।"
+          },
+          {
+            "en": "The disagreement stays a disagreement. Reading hope are at-Tabari, al-Muyassar and as-Sa'di; reading fear are al-Baghawi, Yunus as al-Qurtubi relays him, and Ibn Kathir's paraphrase. The two are not as far apart as they look. Both put the Day at the centre of the call, and both assume a hearer who believes it will come. Hope for its reward and fear of its punishment are two ways of taking it seriously. What neither reading allows is to leave it out of account.",
+            "bn": "মতভেদটি মতভেদ হিসেবেই থাকে। এক দিকে তাবারী, মুয়াসসার ও সা'দী, তাঁরা পড়েন আশা। অন্য দিকে বাগাভী, কুরতুবীর বর্ণনায় ইউনুস, আর ইবন কাসীরের ব্যাখ্যা, তাঁরা পড়েন ভয়। দুই পাঠের দূরত্ব যতটা মনে হয় ততটা নয়। দুটিই ওই দিনকে আহ্বানের কেন্দ্রে রাখে। দুটিই ধরে নেয়, শ্রোতা বিশ্বাস করে সে দিন আসবে। প্রতিদানের আশা আর শাস্তির ভয়, দুটোই সে দিনকে গুরুত্ব দেওয়ার দুই রকম রূপ। কোনো পাঠেই সে দিনকে হিসাবের বাইরে রাখার সুযোগ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Havoc With a Root",
+          "bn": "ফাসাদের শিকড় কোথায়"
+        },
+        "p": [
+          {
+            "en": "Then the ban: wa la ta'thaw fi al-ardi mufsidin, do not wreak havoc on the earth, spreading corruption. Al-Qurtubi defines the verb's nouns: al-'uthuww and al-'ithy are the most severe corruption. Then he names the thing itself: do not disbelieve, for disbelief is the root of all corruption. On his reading the clause reaches past any crime of the hand to its source, and points back to the first command, so that the speech opens with worship and closes by forbidding its opposite.",
+            "bn": "এরপর নিষেধ: ওয়া লা তা‘সাও ফিল আরদি মুফসিদীন, ফাসাদ ছড়িয়ে জমিনে তাণ্ডব চালিয়ো না। কুরতুবী ক্রিয়াটির মূল শব্দ দুটির সংজ্ঞা দেন: আল-উসূউ আর আল-ইসইউ মানে সবচেয়ে মারাত্মক ফাসাদ। তারপর আসল বিষয়টির নাম বলেন: কুফরি কোরো না, কারণ কুফরই সব ফাসাদের মূল। তাঁর পাঠে বাক্যটি হাতের কোনো অপরাধ ছাড়িয়ে পৌঁছে যায় তার উৎসে। ফিরে যায় প্রথম আদেশের দিকেও। ফলে কথাটা শুরু হয় ইবাদতে, আর শেষ হয় তার বিপরীতটির নিষেধে।"
+          },
+          {
+            "en": "At-Tabari reads it as sin at large: do not multiply disobedience to Allah on the earth, and do not persist in it, but repent to Allah from it and turn back to Him. Al-Muyassar repeats this, setting corruption beside disobedience. Their gloss does something the bare prohibition does not spell out: it builds the way out into the ban. The clause forbids the havoc and, in the same breath, points to tawbah. A people told this were being told that they could still stop.",
+            "bn": "তাবারী এটিকে পড়েন সাধারণ গুনাহ হিসেবে: জমিনে আল্লাহর নাফরমানি বাড়িয়ে তুলো না, তাতে লেগে থেকো না, বরং তা থেকে আল্লাহর কাছে তওবা করো, তাঁর দিকে ফিরে এসো। মুয়াসসার একই কথা বলে, নাফরমানির পাশে ফাসাদকেও রাখে। শুধু নিষেধবাক্যে যা খুলে বলা নেই, তাঁদের ব্যাখ্যা তা বলে দেয়: নিষেধের ভেতরেই বেরোনোর পথ রাখা আছে। বাক্যটি তাণ্ডব নিষেধ করে, আর একই সঙ্গে তওবার দিকে ইশারা করে। যাদের এ কথা বলা হয়েছিল, তাদের আসলে জানানো হচ্ছিল যে এখনো থামার সময় আছে।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di give the havoc its local content. Ibn Kathir calls it going about the earth and transgressing against its people, and says they used to diminish the measure and the weight and cut the roads; the English abridgement adds, besides their disbelief in Allah and His Messenger. As-Sa'di names the same two, the short measure and the waylaid road. Those deeds are the subject of 7:85 and 26:183 in this module and need no retelling. Here the point is the range: one clause, read as unbelief, as sin in general, and as two named crimes.",
+            "bn": "ইবন কাসীর ও সা'দী তাণ্ডবটার স্থানীয় চেহারা দেখান। ইবন কাসীর বলেন, এর মানে জমিনে ছুটে বেড়ানো আর তার অধিবাসীদের উপর জুলুম করা। তিনি জানান, তারা মাপ ও ওজনে কম দিত আর রাস্তায় লোকজনের পথ আটকাত। সংক্ষিপ্ত ইংরেজি সংস্করণ যোগ করে, এর সঙ্গে ছিল আল্লাহ ও তাঁর রাসূলের প্রতি তাদের কুফর। সা'দীও একই দুটির নাম নেন: মাপে কম দেওয়া আর রাহাজানি। এসব কাজের আলোচনা এই মডিউলে আছে ৭:৮৫ ও ২৬:১৮৩ আয়াতে, তাই আবার বলার দরকার নেই। এখানে দেখার বিষয় হলো পরিসর: একই বাক্য, কারও পাঠে কুফর, কারও পাঠে সাধারণ গুনাহ, আর কারও পাঠে নির্দিষ্ট দুটি অপরাধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denied in the Next Breath",
+          "bn": "পরের নিঃশ্বাসেই অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "The answer comes at once. 29:37 reads fa-kadhdhabuhu fa-akhadhat-humu ar-rajfah: they denied him, and the quake seized them, and they lay fallen in their homes. That end, and the other names the Qur'an gives it, are treated at 7:91. Ibn Kathir's English abridgement on these two verses lists the quake, the shout and the torment of the Day of Shade, and again sends the reader to the fuller tellings. Among them is ash-Shu'ara', where the people are called the companions of the thicket; whether those are Madyan is taken up at 26:178.",
+            "bn": "জবাব আসে সঙ্গে সঙ্গে। ২৯:৩৭ আয়াত: ফাকায্যাবূহু ফাআখাযাতহুমুর রাজফাহ, তারা তাঁকে মিথ্যাবাদী বলল, তখন মহাকম্পন তাদের পাকড়াও করল, আর তারা নিজেদের ঘরে উপুড় হয়ে পড়ে রইল। সেই পরিণতি আর কুরআনে তার অন্য নামগুলোর আলোচনা আছে ৭:৯১ আয়াতে। এই দুই আয়াতের আলোচনায় ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ উল্লেখ করে কম্পন, বিকট আওয়াজ আর ছায়ার দিনের আযাবের কথা, আর আবারও পাঠককে পাঠিয়ে দেয় বিস্তারিত বর্ণনাগুলোর দিকে। তার একটি সূরা শুআরা, যেখানে এদের বলা হয়েছে আইকাবাসী, অর্থাৎ ঝোপঝাড়ের অধিবাসী। তারা আর মাদইয়ান একই জাতি কি না, সে আলোচনা আছে ২৬:১৭৮ আয়াতে।"
+          },
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it, and none reports an occasion of revelation, so neither is offered here. One thing must be said plainly. The verse describes what it describes: one people, addressed by their own brother, who refused him. It licenses nothing against any living person or community, including whoever lives today in the lands once linked with Madyan. The warning is turned on the reader, who has now heard the same three commands.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জোড়েনি, নাযিলের কোনো উপলক্ষও বলেনি। তাই এখানে এ দুটির কোনোটিই আনা হলো না। একটা কথা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: এক কওম, তাদের নিজেদের ভাই তাদের ডেকেছিলেন, আর তারা তাঁকে ফিরিয়ে দিয়েছিল। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। মাদইয়ানের সঙ্গে যুক্ত অঞ্চলে আজ যারা বাস করে, তারাও এর বাইরে নয়। সতর্কবাণীর মুখ পাঠকের দিকে, কারণ একই তিনটি আদেশ এখন তিনিও শুনেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Day to the Market",
+          "bn": "শেষ দিন থেকে বাজার পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "The surah opened on this same verb. 29:5 reads: whoever hopes for the meeting with Allah, the term of Allah is coming. There the hope belongs to the believer, and the verse tells him that what he looks for will arrive. 29:23 describes the opposite stance: those who disbelieve in the signs of Allah and in meeting Him have despaired of My mercy. Shu'ayb's command sits in the same surah as both verses, and asks his people to take up the first stance rather than the second.",
+            "bn": "এই সূরার শুরুতেই একই ক্রিয়াটি এসেছে। ২৯:৫ আয়াত বলে: যে আল্লাহর সাক্ষাতের আশা রাখে, আল্লাহর নির্ধারিত সময় অবশ্যই আসছে। সেখানে আশাটা মুমিনের, আর আয়াত তাকে জানায়, যার অপেক্ষায় সে আছে তা আসবেই। ২৯:২৩ আয়াতে আছে উল্টো অবস্থান: যারা আল্লাহর আয়াত আর তাঁর সাক্ষাৎকে অস্বীকার করে, তারা আমার রহমত থেকে নিরাশ হয়ে গেছে। শু‘আয়ব (আঃ)-এর আদেশ এই দুই আয়াতের সূরাতেই। তিনি তাঁর কওমকে দ্বিতীয় অবস্থান ছেড়ে প্রথমটি ধরতে বলেন।"
+          },
+          {
+            "en": "Whichever reading one follows, the order of the verse makes a claim. Worship is owed to Allah; the Day is where it is answered; and the earth is where the answer is decided, in every dealing between people. A belief in the Last Day that leaves the market untouched is not what Shu'ayb (AS) asked for. The question for the reader is the one his people failed: does my expectation of that Day show anywhere in what I do with my hands and say with my tongue?",
+            "bn": "যে পাঠই নেওয়া হোক, আয়াতের ক্রম নিজেই একটা দাবি রাখে। ইবাদত আল্লাহর হক। ওই দিন সেই ইবাদতের জবাব মিলবে। আর সেই জবাব কী হবে, তা ঠিক হয় এই জমিনে, মানুষের সঙ্গে মানুষের প্রতিটি লেনদেনে। শেষ দিনে এমন বিশ্বাস, যা বাজারকে ছুঁয়েও যায় না, শু‘আয়ব (আঃ) তা চাননি। পাঠকের সামনে প্রশ্নটা সেটাই, যাতে তাঁর কওম ফেল করেছিল: ওই দিনের অপেক্ষা কি আমার হাতের কাজে আর মুখের কথায় কোথাও দেখা যায়?"
+          }
+        ]
+      }
+    ]
+  },
   "29:39": {
     "sections": [
       {
