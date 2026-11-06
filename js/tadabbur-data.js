@@ -28289,6 +28289,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Treat faith in Allah and His Messenger, and striving in His cause with wealth and self, as the one trade that never loses, and weigh every other deal against it.",
     "lessonBn": "আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আর মাল ও জান দিয়ে তাঁর পথে জিহাদকে এমন ব্যবসা মনে করুন যাতে কখনো লোকসান নেই, আর বাকি সব লেনদেন এর পাল্লায় মেপে দেখুন।"
+  },
+  "61:6": {
+    "reflectionEn": "Isa (AS) stands before the Children of Israel and describes his mission in two directions. Looking back, he confirms the Torah that came before him. Looking forward, he gives good news of a messenger to come after him, whose name is Ahmad. He presents himself neither as a new start nor as the end of the line. He is one link, faithful to what he received and glad for what would follow. Then the verse turns: when the promised one came with clear proofs, they said, this is plain magic. Good news was awaited, then refused when it arrived. I can do the same with a truth I claim to be waiting for. When it comes, do I welcome it, or give it a name that lets me walk away?",
+    "reflectionBn": "ঈসা (আঃ) বনী ইসরাঈলের সামনে দাঁড়িয়ে নিজের দায়িত্বের কথা বলছেন, আর সে কথা দুই দিকে তাকায়। পেছনে তাকিয়ে তিনি তাঁর আগের তাওরাতকে সত্য বলে মেনে নেন। সামনে তাকিয়ে তিনি সুসংবাদ দেন এক রসূলের, যিনি তাঁর পরে আসবেন, নাম তাঁর আহমাদ। নিজেকে তিনি নতুন কিছুর সূচনা বলে দাবি করেন না, শেষ কথাও বলেন না। তিনি একটি শিকলের একটি কড়া। যা পেয়েছেন তার প্রতি বিশ্বস্ত, যা আসবে তার জন্য আনন্দিত। তারপর আয়াত মোড় নেয়: প্রতিশ্রুত সেই জন যখন সুস্পষ্ট প্রমাণ নিয়ে এলেন, তারা বলল, এ তো খোলা জাদু। যে সুসংবাদের অপেক্ষা ছিল, তা এসে পৌঁছাতেই ফিরিয়ে দেওয়া হলো। আমিও এমন করতে পারি। যে সত্যের অপেক্ষায় আছি বলে দাবি করি, তা যখন আসে, আমি কি তাকে বরণ করি, নাকি এমন একটা নাম দিই যাতে সরে পড়া সহজ হয়?",
+    "pointsEn": [
+      "Isa (AS) honoured what came before him and made room for what would come after. In my own faith and work, whom do I honour from before me, and for whom am I preparing the way?",
+      "Is there a truth I say I am waiting for that I might dismiss under some label if it arrived in a form I did not expect?",
+      "When a clear argument goes against me, what is my own version of saying this is plain magic?",
+      "The Messenger ﷺ was announced by the name Ahmad, one who praises much. How much of my day goes to praising Allah, and how much to wanting praise for myself?",
+      "Do I speak of the prophets before Muhammad ﷺ and their books with the respect this verse shows Isa (AS) giving to the Torah?"
+    ],
+    "pointsBn": [
+      "ঈসা (আঃ) আগের জনকে সম্মান দিয়েছেন, পরের জনের জন্য জায়গা করে রেখেছেন। আমার ঈমানে আর কাজে আমি আগের কাদের সম্মান করি, আর কাদের জন্য পথ তৈরি করে রাখছি?",
+      "এমন কোনো সত্য কি আছে যার অপেক্ষায় আছি বলে দাবি করি, অথচ অপ্রত্যাশিত চেহারায় এলে কোনো একটা তকমা লাগিয়ে উড়িয়ে দিতে পারি?",
+      "স্পষ্ট কোনো যুক্তি যখন আমার বিপক্ষে যায়, তখন 'এ তো খোলা জাদু' কথাটা আমি নিজের ভাষায় কীভাবে বলি?",
+      "রসূল ﷺ-এর আগমনের সুসংবাদ এসেছিল আহমাদ নামে, যিনি বেশি বেশি প্রশংসা করেন। আমার দিনের কতটা যায় আল্লাহর প্রশংসায়, আর কতটা যায় নিজের প্রশংসা শোনার আশায়?",
+      "মুহাম্মাদ ﷺ-এর আগের নবীদের আর তাঁদের কিতাবের কথা কি আমি সেই সম্মান নিয়ে বলি, যে সম্মান ঈসা (আঃ) তাওরাতকে দিয়েছেন?"
+    ],
+    "lessonEn": "Truth keeps faith with what came before it and makes way for what follows; when clear proof arrives, welcome it instead of renaming it to escape it.",
+    "lessonBn": "সত্য আগের বার্তাকে মেনে নেয় আর পরের জন্য পথ খুলে রাখে। সুস্পষ্ট প্রমাণ সামনে এলে তাকে বরণ করুন, এড়িয়ে যেতে তার গায়ে অন্য নাম লাগাবেন না।"
   }
 };
 

@@ -159,6 +159,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "61:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "Not \"My People\" This Time",
+          "bn": "এবার \"হে আমার কওম\" নয়"
+        },
+        "p": [
+          {
+            "en": "The verse opens as 61:5 opened, with wa-idh, and when. Al-Qurtubi reads it as a continuation: mention this story to them as well. The surah has just shown Musa (AS) asking his people why they hurt him when they knew he was Allah's messenger to them. Now a second prophet sent to the Children of Israel speaks. At-Tabari frames it as an address to the Prophet ﷺ: remember too, O Muhammad, when Isa son of Maryam said to his people of the Children of Israel. The two scenes stand side by side.",
+            "bn": "আয়াতটি শুরু হয়েছে ৬১:৫-এর মতোই, ওয়া ইয শব্দে, অর্থাৎ আর যখন। কুরতুবী একে আগের কথার ধারাবাহিকতা হিসেবে পড়েন: এ ঘটনাটিও তাদের শোনাও। সূরাটি এইমাত্র দেখিয়েছে, মূসা (আঃ) তাঁর কওমকে জিজ্ঞেস করছেন, আমি যে তোমাদের কাছে আল্লাহর রসূল তা জেনেও কেন আমাকে কষ্ট দাও। এবার কথা বলছেন বনী ইসরাঈলের কাছে পাঠানো আরেক নবী। তাবারী একে নবী ﷺ-এর প্রতি সম্বোধন হিসেবে ব্যাখ্যা করেন: হে মুহাম্মাদ, এটাও স্মরণ করো, যখন মারইয়ামের পুত্র ঈসা বনী ইসরাঈলের মধ্য থেকে তাঁর লোকদের বলেছিলেন। দুটি দৃশ্য পাশাপাশি দাঁড়িয়ে আছে।"
+          },
+          {
+            "en": "One word separates the two openings. Musa (AS) said ya qawmi, O my people. Isa (AS) says ya bani Isra'il, O Children of Israel. Al-Qurtubi gives the reason: Isa had no lineage among them by which they would count as his people. Then inni rasulu Allahi ilaykum, I am Allah's messenger to you, which al-Qurtubi glosses as sent with the Injil. As-Sa'di fills out what the sending meant in Isa's own voice: Allah sent me to call you to good and to forbid you evil.",
+            "bn": "দুই সূচনার মাঝে ফারাক একটি শব্দের। মূসা (আঃ) বলেছিলেন ইয়া কওমি, হে আমার কওম। ঈসা (আঃ) বলছেন ইয়া বনী ইসরাঈল, হে বনী ইসরাঈল। কুরতুবী কারণটা বলে দেন: তাদের মধ্যে ঈসার এমন কোনো বংশসূত্র ছিল না, যার জোরে তারা তাঁর কওম বলে গণ্য হবে। তারপর ইন্নী রসূলুল্লাহি ইলাইকুম, আমি তোমাদের কাছে আল্লাহর রসূল। কুরতুবীর ব্যাখ্যায়, ইনজীল দিয়ে পাঠানো রসূল। এই পাঠানোর মানে কী, সা'দী তা ঈসার মুখেই খুলে বলেন: আল্লাহ আমাকে পাঠিয়েছেন তোমাদের ভালোর দিকে ডাকতে আর মন্দ থেকে নিষেধ করতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Torah Between His Hands",
+          "bn": "তাঁর সামনের তাওরাত"
+        },
+        "p": [
+          {
+            "en": "Musaddiqan li-ma bayna yadayya min at-Tawrah: confirming what is before me of the Torah, literally what lies between my hands. The commentators find two senses in the confirmation. Al-Qurtubi gives one in Isa's voice: my description is in the Torah, and I have brought you nothing that contradicts the Torah, so that you would turn away from me. Ibn Kathir gives the other: the Torah gave good news of me, and I am the fulfilment of what it foretold, just as I in turn give good news of the one after me.",
+            "bn": "মুসাদ্দিকান লিমা বাইনা ইয়াদাইয়া মিনাত তাওরাহ: আমার সামনে থাকা তাওরাতের সত্যায়নকারী। শাব্দিক অর্থে, যা আমার দুই হাতের মাঝে। এই সত্যায়নের দুটি অর্থ তাফসীরকারেরা খুঁজে পান। কুরতুবী ঈসার মুখে একটি অর্থ দেন: তাওরাতে আমার বিবরণ আছে, আর আমি তাওরাতের বিরোধী কিছু আনিনি যে তোমরা আমার কাছ থেকে সরে যাবে। ইবন কাসীর দেন অন্যটি: তাওরাত আমার আগমনের সুসংবাদ দিয়েছে, আর সে যা জানিয়েছে আমি তারই বাস্তব রূপ। ঠিক তেমনি আমিও আমার পরের জনের সুসংবাদ দিচ্ছি।"
+          },
+          {
+            "en": "As-Sa'di holds both senses together. Part of what shows I am truthful, he has Isa say, is that I came with what Musa brought of the Torah and the heavenly laws; had I been a false claimant to prophethood, I would have brought something other than what the messengers brought. I also confirm the Torah because it foretold me, and I came as its fulfilment. Then he draws a rule: Isa, like the prophets, confirms the prophet before him and announces the prophet after him. Liars do the opposite, contradicting the prophets in qualities, character, command and prohibition.",
+            "bn": "সা'দী দুটি অর্থই একসঙ্গে ধরেন। তাঁর ভাষ্যে ঈসা বলছেন: আমি যে সত্যবাদী, তার একটা প্রমাণ হলো, মূসা তাওরাত আর আসমানি বিধানের যা এনেছিলেন, আমিও তা-ই এনেছি। আমি যদি নবুওয়াতের মিথ্যা দাবিদার হতাম, তবে রসূলরা যা এনেছেন তার বাইরের কিছু আনতাম। আবার তাওরাত আমার খবর দিয়েছিল, আমি এসেছি তার সত্যতার প্রমাণ হয়ে, এ অর্থেও আমি তার সত্যায়নকারী। এরপর সা'দী একটি নিয়ম টানেন। অন্য নবীদের মতো ঈসাও আগের নবীকে সত্য বলেন আর পরের নবীর সুসংবাদ দেন। মিথ্যাবাদীরা করে উল্টোটা। গুণে, চরিত্রে, আদেশে ও নিষেধে তারা নবীদের সঙ্গে চরম বিরোধে জড়ায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sees two emphases in Isa's call. First, he was not a prophet with unique teachings: what he taught was what the prophets before him taught, and what the Final Messenger ﷺ would teach. The Torah is named, it suggests, probably because it was the latest scripture revealed to the Children of Israel, though belief in the prophets embraces all of Allah's books. It adds that his shari'a, though independent, mostly conformed to the law of Musa (AS), with only a few rulings changed. The second emphasis is the good news.",
+            "bn": "মাআরিফুল কুরআন ঈসার দাওয়াতে দুটি বিশেষ জোর দেখতে পায়। প্রথমত, তিনি অভিনব শিক্ষা নিয়ে আসা কোনো নবী ছিলেন না। তিনি তা-ই শিখিয়েছেন যা আগের নবীরা শিখিয়েছেন, আর শেষ রসূল ﷺ-ও যা শেখাবেন। মাআরিফের ধারণা, তাওরাতের নাম আলাদা করে আসার কারণ সম্ভবত এই যে বনী ইসরাঈলের কাছে নাযিল হওয়া কিতাবের মধ্যে সেটিই ছিল সর্বশেষ। নইলে নবীদের প্রতি ঈমানের মধ্যে আল্লাহর সব কিতাবই পড়ে। সঙ্গে সে বলে, তাঁর শরীয়ত স্বতন্ত্র হলেও বেশির ভাগ বিধানে মূসা (আঃ)-এর শরীয়তের সঙ্গে মিলত, বদলেছিল অল্প কয়েকটি। দ্বিতীয় জোরটি সুসংবাদে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Built on Praise",
+          "bn": "প্রশংসা থেকে গড়া নাম"
+        },
+        "p": [
+          {
+            "en": "Wa-mubashshiran bi-rasulin ya'ti min ba'di ismuhu Ahmad: and bringing good news of a messenger who will come after me, whose name is Ahmad. Al-Qurtubi records that Nafi', Abu 'Amr and others read min ba'diya, with the final ya' voiced, and the rest read it silent. Then he says plainly that Ahmad is the name of our Prophet ﷺ: a proper name taken from an adjective, not a verb, on the af'al pattern that expresses preference. So Ahmad means the one who praises his Lord most among all who praise Him.",
+            "bn": "ওয়া মুবাশশিরান বিরাসূলিন ইয়া'তী মিম বা'দিস মুহূ আহমাদ: আর এক রসূলের সুসংবাদদাতা, যিনি আমার পরে আসবেন, যাঁর নাম আহমাদ। কুরতুবী জানান, নাফি', আবূ আমর ও আরও কয়েকজন কারী মিন বা'দিয়া পড়েছেন, শেষের ইয়া হরকতসহ। বাকিরা পড়েছেন সাকিন করে। তারপর তিনি সাফ বলে দেন, আহমাদ আমাদের নবী ﷺ-এর নাম। এটি এমন এক নামবাচক শব্দ, যা ক্রিয়া থেকে নয়, এসেছে একটি বিশেষণ থেকে। বিশেষণটি আফআল ছাঁচের, যা দিয়ে আরবিতে কারও শ্রেষ্ঠত্ব বোঝানো হয়। তাই আহমাদ মানে, যত জন তাদের রবের প্রশংসা করে, তাদের মধ্যে সবচেয়ে বেশি প্রশংসাকারী।"
+          },
+          {
+            "en": "All the prophets praised Allah, al-Qurtubi continues, and our Prophet was the most abundant of them in praise. Muhammad also comes from an adjective, meaning praised, with a sense of intensity and repetition: one praised time after time. Then he adds a point of order. He was not Muhammad until he was Ahmad: he praised his Lord, and his Lord made him a prophet and honoured him. His praise of his Lord came before people's praise of him, and so Isa (AS) mentioned him by the name Ahmad.",
+            "bn": "কুরতুবী আরও বলেন, সব নবীই আল্লাহর প্রশংসা করেছেন, আর আমাদের নবী ছিলেন তাঁদের মধ্যে সবচেয়ে বেশি প্রশংসাকারী। মুহাম্মাদ নামটিও এসেছে একটি বিশেষণ থেকে। অর্থ প্রশংসিত, তবে তাতে আছে আধিক্য আর বারবার হওয়ার ভাব: যাঁর প্রশংসা হয় একবারের পর আরেকবার। এরপর তিনি একটা ক্রমের কথা যোগ করেন। আহমাদ হওয়ার আগে তিনি মুহাম্মাদ হননি। তিনি রবের প্রশংসা করেছেন, তারপর রব তাঁকে নবুওয়াত দিয়েছেন, মর্যাদা দিয়েছেন। মানুষ তাঁর প্রশংসা করার আগেই তিনি রবের প্রশংসা করেছেন। সে কারণেই ঈসা (আঃ) তাঁর কথা বলেছেন আহমাদ নামে।"
+          },
+          {
+            "en": "Al-Baghawi says the form intensifies praise and allows two directions. It may intensify the doer: the prophets all praise Allah greatly, and he praises Him more than anyone. Or it may intensify the one praised: the prophets are all praised for their fine qualities, and he gathers more of the virtues for which a person is praised. Ma'arif al-Qur'an adds a reason of another kind, offered with a perhaps: Muhammad was a name already in use in Arabia, while Ahmad was uncommon, so the announced name could not be taken to mean someone else.",
+            "bn": "বাগাভী বলেন, শব্দের এই গঠনে প্রশংসার আধিক্য বোঝায়, আর তা দুই দিকে যেতে পারে। এক, কর্তার দিকে: নবীরা সবাই আল্লাহর অনেক প্রশংসা করেন, আর তিনি করেন সবার চেয়ে বেশি। দুই, যাঁর প্রশংসা করা হয় তাঁর দিকে: নবীরা সবাই নিজেদের ভালো গুণের জন্য প্রশংসিত, আর যেসব গুণের জন্য মানুষের প্রশংসা হয়, তার সবচেয়ে বেশি তাঁর মধ্যে জমা হয়েছে। মাআরিফুল কুরআন ভিন্ন ধরনের একটি কারণ যোগ করে, তবে 'সম্ভবত' বলে। আরবে মুহাম্মাদ নাম আগে থেকেই প্রচলিত ছিল, আহমাদ ছিল বিরল। ফলে ঘোষিত নামটি অন্য কারও দিকে টেনে নেওয়ার সুযোগ থাকল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "I Am Muhammad and Ahmad",
+          "bn": "আমি মুহাম্মাদ, আমি আহমাদ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir remarks how fitting it was of al-Bukhari to bring the hadith of the Prophet's names, and quotes it with al-Bukhari's chain from Jubayr ibn Mut'im (RA). It is in Sahih al-Bukhari (4896), translated here from the Arabic. Jubayr said: I heard the Messenger of Allah ﷺ say: \"I have names. I am Muhammad, and I am Ahmad, and I am al-Mahi, through whom Allah erases disbelief, and I am al-Hashir, at whose feet the people are gathered, and I am al-'Aqib.\"",
+            "bn": "ইবন কাসীর বলেন, নবীজির নামগুলোর হাদীসটি এনে বুখারী কত সুন্দর কাজ করেছেন। তিনি হাদীসটি বুখারীর সনদেই জুবাইর ইবন মুত'ইম (রাঃ) থেকে উদ্ধৃত করেন। এটি সহীহ বুখারীতে আছে (৪৮৯৬), এখানে আরবি থেকে অনূদিত। জুবাইর বলেন, আমি আল্লাহর রসূল ﷺ-কে বলতে শুনেছি: \"আমার কয়েকটি নাম আছে। আমি মুহাম্মাদ, আমি আহমাদ, আমি আল-মাহী, যাঁর মাধ্যমে আল্লাহ কুফর মুছে দেন, আমি আল-হাশির, যাঁর পদতলে মানুষকে সমবেত করা হবে, আর আমি আল-আকিব।\""
+          },
+          {
+            "en": "Ibn Kathir adds that Muslim recorded it from az-Zuhri as well. In Sahih Muslim (2354), one route closes with the note that al-'Aqib is the one after whom there is no prophet, and in another the narrator says he asked az-Zuhri what al-'Aqib meant and was given the same answer. Al-Bukhari also records a version through Malik (3532) that opens, I have five names. So the name Isa (AS) announced is one the Prophet ﷺ himself named as his own, beside Muhammad. None of these tafsirs gives an occasion of revelation for this verse.",
+            "bn": "ইবন কাসীর জানান, মুসলিমও হাদীসটি যুহরী থেকে বর্ণনা করেছেন। সহীহ মুসলিমের (২৩৫৪) এক বর্ণনার শেষে ব্যাখ্যা জুড়ে দেওয়া আছে: আল-আকিব তিনি, যাঁর পরে কোনো নবী নেই। আরেক বর্ণনায় বর্ণনাকারী বলেন, তিনি যুহরীকে আল-আকিবের অর্থ জিজ্ঞেস করেছিলেন, আর উত্তর এসেছিল ঠিক এটাই। বুখারী মালিকের সূত্রেও একটি বর্ণনা এনেছেন (৩৫৩২), যার শুরু: আমার পাঁচটি নাম। অর্থাৎ ঈসা (আঃ) যে নামের ঘোষণা দিয়েছিলেন, নবী ﷺ নিজেই মুহাম্মাদের পাশাপাশি সেটিকে নিজের নাম বলে উল্লেখ করেছেন। এ আয়াত নাযিলের কোনো উপলক্ষ এই তাফসীরগুলোর কোনোটিতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibrahim's Prayer, Isa's Tidings",
+          "bn": "ইবরাহীমের দু'আ, ঈসার সুসংবাদ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, on this very verse, cites with his own chain a report from al-'Irbad ibn Sariyah (RA), in which the Prophet ﷺ says he was written with Allah as the seal of the prophets while Adam still lay in his clay, and names the first of his affair: the prayer of his father Ibrahim, the good news Isa gave of him, and a vision his mother saw. Ibn Kathir carries it from the Musnad of Imam Ahmad. Neither reports a grading from a collector, and this article could not confirm it in the collections checked.",
+            "bn": "তাবারী ঠিক এই আয়াতের আলোচনায় নিজের সনদে ইরবাদ ইবন সারিয়া (রাঃ)-এর একটি বর্ণনা আনেন। তাতে নবী ﷺ বলেন, আদম যখন মাটির কাদায় পড়ে ছিলেন, তখনই আল্লাহর কাছে তাঁকে নবীদের সমাপ্তিকারী হিসেবে লিখে রাখা হয়েছিল। আর নিজের ব্যাপারের শুরু হিসেবে তিনি তিনটি জিনিসের কথা বলেন: তাঁর পিতা ইবরাহীমের দু'আ, তাঁকে নিয়ে ঈসার সুসংবাদ, আর তাঁর মায়ের দেখা একটি স্বপ্ন। ইবন কাসীর এটি এনেছেন ইমাম আহমাদের মুসনাদ থেকে। কোনো সংকলকের দেওয়া মান তাঁদের কেউ উল্লেখ করেননি, আর যেসব সংকলন যাচাই করা হয়েছে, তাতে এ লেখায় বর্ণনাটি নিশ্চিত করা যায়নি।"
+          },
+          {
+            "en": "Ibn Kathir also gives a version through Ibn Ishaq, in which Companions asked the Prophet ﷺ to tell them about himself and he answered with the same three. He calls that chain good and says it has supporting reports by other routes, among them one from Abu Umamah in the Musnad. Then he explains why the three are named together. The prophets never ceased to describe him in their books to their communities and to command them to follow and support him when he was sent. The matter became widely known through two tongues above all.",
+            "bn": "ইবন কাসীর ইবন ইসহাকের সূত্রে আরেকটি বর্ণনাও দেন। সেখানে সাহাবীরা নবী ﷺ-কে বলেছিলেন, আপনার নিজের কথা আমাদের বলুন, আর তিনি একই তিনটি কথা বলেন। ইবন কাসীর এ সনদকে ভালো বলেন, আর জানান যে অন্য সূত্রেও এর সমর্থক বর্ণনা আছে, যেমন মুসনাদে আবূ উমামা থেকে একটি। তারপর তিনি ব্যাখ্যা করেন তিনটি কেন একসঙ্গে আসে। নবীরা নিজ নিজ কিতাবে উম্মতের কাছে তাঁর বিবরণ দিয়ে গেছেন, আর তিনি প্রেরিত হলে তাঁর অনুসরণ ও সাহায্যের আদেশ দিয়েছেন। তবে সবচেয়ে বেশি জানাজানি হয়েছে দুজনের মুখে।"
+          },
+          {
+            "en": "One was Ibrahim (AS), father of the prophets after him, when he prayed for the people of Makkah that Allah raise among them a messenger from themselves, as 2:129 records. The other was Isa son of Maryam. Ibn Kathir calls Isa the seal of the prophets of the Children of Israel, who stood among them announcing Muhammad, the seal of all the prophets. He sets beside this verse 7:157, on the unlettered Prophet they find written in the Torah and the Injil, and 3:81, on the covenant Allah took from the prophets to believe in a messenger who would come and to support him.",
+            "bn": "একজন ইবরাহীম (আঃ), পরবর্তী নবীদের পিতা। তিনি মক্কাবাসীর জন্য দু'আ করেছিলেন, আল্লাহ যেন তাদের মধ্যে তাদেরই একজনকে রসূল করে পাঠান, যা ২:১২৯ আয়াতে আছে। অন্যজন মারইয়ামের পুত্র ঈসা। ইবন কাসীর ঈসাকে বলেন বনী ইসরাঈলের নবীদের মোহর, যিনি তাদের মধ্যে দাঁড়িয়ে সকল নবীর মোহর মুহাম্মাদের সুসংবাদ দিয়েছেন। এ আয়াতের পাশে তিনি রাখেন ৭:১৫৭, যেখানে উম্মী নবীর কথা আছে, যাঁর বিবরণ তারা তাওরাত ও ইনজীলে লেখা পায়। আর রাখেন ৩:৮১, যেখানে আল্লাহ নবীদের কাছ থেকে অঙ্গীকার নেন: এমন রসূল এলে তাঁর প্রতি ঈমান আনবে, তাঁকে সাহায্য করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A King Who Recognised Him",
+          "bn": "যে রাজা তাঁকে চিনেছিলেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir also relays, from the Musnad of Imam Ahmad through 'Abdullah ibn Mas'ud (RA), the scene at the court of an-Najashi when Quraysh sent envoys to bring back the Muslims who had migrated to Abyssinia. Asked what they said about Isa son of Maryam and his mother, the Muslims answered with what Allah says: he is Allah's word and His spirit, cast to the virgin. In this report the king said they added nothing to what his people held about Isa, and bore witness that this was the messenger of Allah whom they found in the Injil, whom Isa had announced.",
+            "bn": "ইবন কাসীর ইমাম আহমাদের মুসনাদ থেকে আবদুল্লাহ ইবন মাসউদ (রাঃ)-এর সূত্রে নাজাশীর দরবারের ঘটনাও বর্ণনা করেন। মুসলিমরা হিজরত করে হাবশায় গিয়েছিলেন, আর কুরাইশ দূত পাঠিয়েছিল তাঁদের ফিরিয়ে আনতে। মারইয়ামের পুত্র ঈসা আর তাঁর মা সম্পর্কে তাঁরা কী বলেন, জিজ্ঞেস করা হলে মুসলিমরা আল্লাহর কথাই শোনালেন: তিনি আল্লাহর কালিমা ও তাঁর রূহ, যা কুমারীর প্রতি অর্পিত হয়েছিল। এই বর্ণনায় রাজা বললেন, ঈসা সম্পর্কে তাঁর লোকেরা যা বিশ্বাস করে, এরা তার চেয়ে বেশি কিছু বলেনি। তারপর তিনি সাক্ষ্য দিলেন, ইনিই আল্লাহর সেই রসূল যাঁকে তাঁরা ইনজীলে পান, যাঁর সুসংবাদ ঈসা দিয়েছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir gives no grading for the report. He notes that the story is also narrated from Ja'far and Umm Salamah (RA), and that its proper place is the books of sirah. What it adds here is a picture of the verse's good news reaching its goal through a listener's honesty. A king who addressed his monks and priests heard a description and said that it matched. The recognition this verse called the Children of Israel to came, in this report, from a court far from them.",
+            "bn": "ইবন কাসীর বর্ণনাটির কোনো মান উল্লেখ করেননি। তিনি জানান, ঘটনাটি জা'ফর ও উম্মে সালামা (রাঃ) থেকেও বর্ণিত, আর এর আসল জায়গা সীরাতের কিতাব। এখানে বর্ণনাটি যা যোগ করে, তা হলো এক শ্রোতার সততার মধ্য দিয়ে আয়াতের সুসংবাদ লক্ষ্যে পৌঁছানোর ছবি। যে রাজা তাঁর পাদ্রি ও সন্ন্যাসীদের সম্বোধন করে কথা বলছিলেন, তিনি একটি বিবরণ শুনলেন আর বললেন, মিলে যাচ্ছে। এ আয়াত বনী ইসরাঈলকে যে চিনে নেওয়ার দিকে ডেকেছিল, এই বর্ণনায় তা এসেছে তাদের থেকে অনেক দূরের এক দরবার থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Gospels Are Asked",
+          "bn": "ইনজীলের কাছে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an takes up the question a modern reader will ask. It notes that Christians today, reading the Gospels as they now stand, say that no prophecy by the name Ahmad is found there, and it holds that the earlier scriptures underwent change. It refers the reader to Rahmatullah Kairanwi's Izhar al-Haqq, which argues at length that a prophecy of the Prophet ﷺ can still be traced in the Bible as published. Those are the positions of Ma'arif and of that book. This article reports them and does not argue the case.",
+            "bn": "আধুনিক পাঠকের মনে যে প্রশ্ন জাগবে, মাআরিফুল কুরআন তা তোলে। সে উল্লেখ করে, আজকের খ্রিস্টানরা বর্তমান ইনজীল পড়ে বলেন, সেখানে আহমাদ নামে কোনো ভবিষ্যদ্বাণী নেই। মাআরিফের মত, আগের কিতাবগুলোতে পরিবর্তন ঘটেছে। পাঠককে সে রহমাতুল্লাহ কিরানবীর ইযহারুল হক বইয়ের দিকে পাঠায়। বইটি বিস্তারিতভাবে দাবি করে, প্রকাশিত বাইবেলেও নবী ﷺ-এর ভবিষ্যদ্বাণীর চিহ্ন এখনো খুঁজে পাওয়া যায়। এগুলো মাআরিফের আর ওই বইয়ের অবস্থান। এ লেখা কেবল তা জানিয়ে রাখছে, বিতর্কে নামছে না।"
+          },
+          {
+            "en": "The verse itself makes a narrower claim than any such debate. It reports what Isa (AS) said to the Children of Israel, and what was said when the promised messenger came. It describes what it describes, and it licenses nothing against any living person or community, Jewish or Christian. It gives no warrant for contempt toward anyone's faith or anyone's book. Its own example points the other way: a prophet who honoured the scripture before him and spoke gladly of the messenger after him.",
+            "bn": "আয়াতের নিজের দাবি এমন যেকোনো বিতর্কের চেয়ে সীমিত। ঈসা (আঃ) বনী ইসরাঈলকে কী বলেছিলেন, আর প্রতিশ্রুত রসূল আসার পর কী বলা হয়েছিল, আয়াত শুধু সেটুকু জানায়। যা বর্ণনা করে, তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, ইহুদি হোক বা খ্রিস্টান, এ আয়াত কোনো অনুমতি দেয় না। কারও ধর্ম বা কারও কিতাবকে তুচ্ছ করার কোনো ছাড়পত্রও এতে নেই। আয়াতের নিজের দৃষ্টান্ত বরং উল্টো দিকে ইঙ্গিত করে: এক নবী, যিনি আগের কিতাবকে সম্মান করেছেন আর পরের জনের কথা বলেছেন আনন্দ নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Brought the Clear Proofs",
+          "bn": "সুস্পষ্ট প্রমাণ নিয়ে কে এলেন"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma ja'ahum bil-bayyinat: but when he came to them with the clear proofs. Who is he? Al-Qurtubi records both answers without choosing: it was said Isa, and it was said Muhammad ﷺ. The other commentators here who address it all take the second. At-Tabari says when Ahmad came to them with the proofs Allah gave him as arguments for his prophethood, and Ibn Kathir relays the same from Ibn Jurayj and Ibn Jarir, Ahmad, glossed as the one announced in ages long past, once his matter appeared. As-Sa'di and the Muyassar name Muhammad ﷺ outright.",
+            "bn": "ফালাম্মা জা'আহুম বিল বাইয়্যিনাত: অতঃপর তিনি যখন সুস্পষ্ট প্রমাণ নিয়ে তাদের কাছে এলেন। এই তিনি কে? কুরতুবী কোনোটি বেছে না নিয়ে দুটি উত্তরই উল্লেখ করেন: বলা হয়েছে ঈসা, আবার বলা হয়েছে মুহাম্মাদ ﷺ। এখানকার অন্য যে তাফসীরকারেরা প্রশ্নটি ছুঁয়েছেন, সবাই দ্বিতীয়টি নেন। তাবারী বলেন, আহমাদ যখন তাদের কাছে সেসব প্রমাণ নিয়ে এলেন, যা আল্লাহ তাঁকে নবুওয়াতের দলিল হিসেবে দিয়েছিলেন। ইবন কাসীরও ইবন জুরাইজ ও ইবন জারীর থেকে একই কথা আনেন: আহমাদ। সঙ্গে ব্যাখ্যা থাকে, বহু যুগ আগে যাঁর সুসংবাদ দেওয়া হয়েছিল, তাঁর ব্যাপার যখন প্রকাশ পেল। সা'দী আর মুয়াসসার সরাসরি মুহাম্মাদ ﷺ-এর নাম নেন।"
+          },
+          {
+            "en": "Al-Qurtubi adds that Hamza and al-Kisa'i read sahirun mubin, a plain magician, describing the man, and that this is reported as Ibn Mas'ud's reading; the rest read sihrun mubin, plain magic, describing what he brought. As-Sa'di counts the reply among the strangest of wonders: a messenger whose mission had become plainer than the midday sun is made a magician whose magic is plain. Is there any forsaking greater than this, he asks, or any fabrication greater? The next verse, 61:7, asks who does more wrong than whoever invents a lie about Allah.",
+            "bn": "কুরতুবী আরও জানান, হামযা ও কিসাঈ পড়েছেন সাহিরুম মুবীন, অর্থাৎ খোলা জাদুকর, যা ব্যক্তির বিশেষণ। ইবন মাসউদেরও এ পাঠ ছিল বলে বর্ণিত আছে। বাকিরা পড়েছেন সিহরুম মুবীন, খোলা জাদু, যা তাঁর আনা বিষয়ের বিশেষণ। সা'দী এই জবাবকে বলেন আশ্চর্যের মধ্যেও আশ্চর্য। যে রসূলের রিসালাত দুপুরের সূর্যের চেয়েও স্পষ্ট হয়ে গিয়েছিল, তাঁকেই বানানো হলো এমন জাদুকর, যার জাদু খোলাখুলি। তিনি প্রশ্ন করেন, আল্লাহর সাহায্য থেকে এর চেয়ে বড় বঞ্চনা আর কী, এর চেয়ে বড় মিথ্যা রটনাই বা কী? পরের আয়াত ৬১:৭ জিজ্ঞেস করে, যে আল্লাহর নামে মিথ্যা রচনা করে, তার চেয়ে বড় যালিম কে?"
+          }
+        ]
+      }
+    ]
+  },
   "61:10": {
     "sections": [
       {
