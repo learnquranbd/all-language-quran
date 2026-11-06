@@ -1835,6 +1835,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Same Mouth, Twice",
+          "bn": "একই মুখ, দুই সুর"
+        },
+        "p": [
+          {
+            "en": "The two verses before it stand at the Day of Resurrection: wrongdoers who would ransom themselves with the earth twice over, and the evil of what they earned appearing before them. Then the verse opens with fa and turns to an ordinary life. Fa-idha massa al-insana durrun da'ana: when harm touches man, he calls on Us. As-Sa'di reads it as a report of the state and nature of man, and names the harm as sickness, hardship or distress. In that moment, he says, the person calls insistently for relief.",
+            "bn": "এর আগের দুই আয়াত দাঁড়িয়ে আছে কিয়ামতের দিনে। জালিমরা গোটা পৃথিবী আর তার সমান আরও কিছু দিয়ে নিজেদের ছাড়িয়ে নিতে চাইবে, আর তাদের কামাইয়ের মন্দ ফল সামনে এসে দাঁড়াবে। তারপর আয়াতটি 'ফা' দিয়ে শুরু হয়ে ফিরে আসে রোজকার জীবনে। ফা ইযা মাস্সাল ইনসানা দুররুন দা‘আনা: মানুষকে বিপদ ছুঁলে সে আমাকে ডাকে। সা'দী একে মানুষের অবস্থা ও স্বভাবের খবর হিসেবে পড়েন। বিপদ বলতে তিনি বোঝান অসুখ, কষ্ট বা দুশ্চিন্তা। সে মুহূর্তে, তাঁর ভাষায়, মানুষ নাছোড় হয়ে মুক্তি চাইতে থাকে।"
+          },
+          {
+            "en": "Ibn Kathir describes the same person in harm: he humbles himself before Allah, turns to Him and calls on Him. At-Tabari has him calling for rescue from whatever harm has struck. Then the second moment: when Allah gives him a blessing, Ibn Kathir says, he transgresses and overreaches. The Muyassar and as-Sa'di use one phrase for the change: he turns back to his Lord as one who denies, and to His favour as one who disowns it. The verse sets both moments in a single sentence, so that the reader hears one voice change its tune.",
+            "bn": "বিপদে পড়া এই মানুষের ছবি ইবন কাসীরও আঁকেন। সে আল্লাহর সামনে নত হয়, তাঁর দিকে ফেরে, তাঁকে ডাকে। তাবারীর ভাষায়, যে বিপদ তাকে ধরেছে তা থেকে উদ্ধার চেয়ে সে ডাকে। তারপর দ্বিতীয় মুহূর্ত। ইবন কাসীর বলেন, আল্লাহ যখন তাকে নি‘মাত দেন, সে সীমা ছাড়ায়, অবাধ্য হয়ে ওঠে। মুয়াসসার আর সা'দী এই বদলকে একই কথায় ধরেন: সে রবের প্রতি অকৃতজ্ঞ হয়ে ফেরে, আর তাঁর অনুগ্রহকে অস্বীকার করে। আয়াত দুই মুহূর্তকে এক বাক্যে বেঁধেছে, যাতে পাঠক শোনেন একই কণ্ঠ কীভাবে সুর বদলায়।"
+          },
+          {
+            "en": "Surah az-Zumar has drawn this figure once already. 39:8 says that when harm touches man he calls on his Lord, turning to Him, and when He grants him a blessing he forgets what he used to call for and sets up rivals to Allah. That verse uses the same pair of verbs, massa and khawwala. Here the forgetting is given words. The man of 39:49 does not fall silent about the blessing. He explains it, and the explanation is the problem.",
+            "bn": "সূরা যুমার এই মানুষের ছবি আগেও একবার এঁকেছে। ৩৯:৮ বলে, বিপদ ছুঁলে মানুষ রবের দিকে ফিরে তাঁকে ডাকে, আর তিনি নি‘মাত দিলে সে ভুলে যায় কীসের জন্য ডাকছিল, এবং আল্লাহর সমকক্ষ দাঁড় করায়। সেখানেও একই দুটি ক্রিয়া: মাস্সা আর খাওওয়ালা। এখানে সেই ভুলে যাওয়া মুখে কথা পেয়েছে। ৩৯:৪৯-এর মানুষ নি‘মাত নিয়ে চুপ করে থাকে না। সে তার ব্যাখ্যা দেয়, আর সমস্যাটা ওই ব্যাখ্যাতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Gift Marked From Us",
+          "bn": "দানের গায়ে 'আমার পক্ষ থেকে'"
+        },
+        "p": [
+          {
+            "en": "Thumma idha khawwalnahu ni'matan minna: then when We grant him a blessing from Us. Mujahid, in at-Tabari's chain, glosses khawwalnahu simply as We gave him, and al-Baghawi says the same. At-Tabari fills in what the gift is: relief from the harm he was in, ease and plenty in place of hardship, health and well-being in place of sickness. The blessing in this verse is the answer to the prayer of its first clause. What the man calls his own achievement is the very thing he had begged for.",
+            "bn": "সুম্মা ইযা খাওওয়ালনাহু নি‘মাতাম মিন্না: তারপর যখন আমি তাকে আমার পক্ষ থেকে নি‘মাত দিই। তাবারীর সনদে মুজাহিদ খাওওয়ালনাহু-র অর্থ করেন সোজা কথায়: আমি তাকে দিলাম। বাগাভীও একই কথা বলেন। দানটা কী, তাবারী তা খুলে বলেন। যে বিপদে সে ছিল তা থেকে মুক্তি, কষ্টের জায়গায় স্বচ্ছলতা ও প্রাচুর্য, অসুখের জায়গায় সুস্থতা ও নিরাপত্তা। অর্থাৎ এ আয়াতের নি‘মাত হলো তার প্রথম অংশের দো‘আরই জবাব। যে জিনিসকে লোকটি নিজের কৃতিত্ব বলছে, ঠিক সেটার জন্যই সে কিছুক্ষণ আগে কাকুতি-মিনতি করছিল।"
+          },
+          {
+            "en": "Before the man is allowed to speak, the verse labels the gift: minna, from Us. Whatever he is about to say, the reader already knows where the blessing came from. As-Sa'di puts the same sequence in his gloss: We removed his harm and took away his hardship, and then he turned back denying. The giver acts in the first person throughout. The man speaks of himself in the passive, I was given it, and then fills the gap where the giver should be with something of his own.",
+            "bn": "লোকটি মুখ খোলার আগেই আয়াত দানের গায়ে পরিচয় লিখে দেয়: মিন্না, আমার পক্ষ থেকে। সে যা-ই বলুক, নি‘মাত কোথা থেকে এসেছে পাঠক তা আগেই জেনে গেছেন। সা'দীর ব্যাখ্যাতেও একই ক্রম: আমি তার বিপদ সরিয়ে দিলাম, কষ্ট দূর করলাম, তারপর সে অস্বীকার করে ফিরে গেল। দাতা পুরো সময় নিজের মুখে বলছেন: আমি দিলাম, আমি সরালাম। আর লোকটি নিজের বেলায় দাতার নামই নেয় না: আমাকে দেওয়া হয়েছে। তারপর দাতার জায়গাটা সে ভরিয়ে দেয় নিজের কোনো গুণ দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Knowledge He Means",
+          "bn": "কার জ্ঞানের দাবি"
+        },
+        "p": [
+          {
+            "en": "Qala innama utituhu 'ala 'ilm: he says, I have only been given it because of knowledge. The verse does not say whose knowledge, and the commentators give two main answers. The first makes it Allah's knowledge. Ibn Kathir paraphrases: because Allah knows that I deserve it; were I not someone special in Allah's sight, He would not have granted me this. At-Tabari reads it as knowledge from Allah that I am worthy of it, because of my standing and His pleasure with what I do.",
+            "bn": "কালা ইন্নামা ঊতীতুহু ‘আলা ‘ইলম: সে বলে, এটা আমাকে দেওয়া হয়েছে কেবল জ্ঞানের ভিত্তিতে। কার জ্ঞান, আয়াত তা বলেনি। তাফসীরকারদের কাছে প্রধানত দুটি জবাব পাওয়া যায়। প্রথম জবাবে জ্ঞানটা আল্লাহর। ইবন কাসীর লোকটির কথা খুলে বলেন এভাবে: আল্লাহ জানেন আমি এর হকদার। আল্লাহর কাছে আমি বিশেষ কেউ না হলে তিনি আমাকে এটা দিতেন না। তাবারীর পাঠে কথাটা এমন: আল্লাহ জানেন আমি এর যোগ্য, আমার মর্যাদার কারণে, আর আমার আমলে তাঁর সন্তুষ্টির কারণে।"
+          },
+          {
+            "en": "The Muyassar and al-Baghawi give the same reading in fewer words: knowledge from Allah that I am fit for it. As-Sa'di adds the reason the man would give: because I am honoured in His sight. On this reading the man has not forgotten Allah at all. He names Him, and then makes the gift a certificate of his own rank with Him. Al-Qurtubi reports one more version, introduced with it is said: I knew that if I was given this in the world, I must have a standing with Allah.",
+            "bn": "মুয়াসসার আর বাগাভী একই পাঠ দেন আরও কম কথায়: আল্লাহ জানেন আমি এর উপযুক্ত। সা'দী জুড়ে দেন লোকটির সম্ভাব্য যুক্তি: কারণ আমি তাঁর কাছে সম্মানিত। এ পাঠে লোকটি আল্লাহকে মোটেই ভোলেনি। সে তাঁর নাম নেয়, তারপর দানটাকে বানিয়ে ফেলে তাঁর কাছে নিজের মর্যাদার সনদ। কুরতুবী 'বলা হয়' বলে আরেকটি রূপ আনেন: আমি জানতাম, দুনিয়াতে এটা পেলে বুঝতে হবে আল্লাহর কাছে আমার একটা স্থান আছে।"
+          },
+          {
+            "en": "The second answer makes it the man's own knowledge. Al-Qurtubi reports from Qatada: knowledge I have of the ways of earning. As-Sa'di offers it as an alternative in the same sentence as the first: or knowledge of my own of the ways to obtain it. A third line, from al-Hasan in al-Qurtubi, splits the difference: by a knowledge that Allah taught me. The readings differ over whose knowledge it is. Whichever is taken, the verse gives all of them one reply, and the reply is not about knowledge at all.",
+            "bn": "দ্বিতীয় জবাবে জ্ঞানটা লোকটির নিজের। কুরতুবী কাতাদা থেকে বর্ণনা করেন: উপার্জনের পথঘাট সম্পর্কে আমার যে জ্ঞান আছে, তার জোরে। সা'দী প্রথম পাঠের সঙ্গে একই বাক্যে এটিকে বিকল্প হিসেবে রাখেন: অথবা এটা অর্জনের উপায় সম্পর্কে আমার নিজের জ্ঞানের জোরে। তৃতীয় একটি কথা কুরতুবী আনেন হাসান থেকে, যা দুইয়ের মাঝামাঝি: আল্লাহ আমাকে যে জ্ঞান শিখিয়েছেন, তার জোরে। জ্ঞানটা কার, তা নিয়ে পাঠগুলো আলাদা। যে পাঠই ধরা হোক, আয়াত সবগুলোর একটাই জবাব দেয়, আর সে জবাব জ্ঞান নিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Goodness He Claims to Hold",
+          "bn": "নিজের ভেতরের 'ভালো'"
+        },
+        "p": [
+          {
+            "en": "Some early glosses move the claim from knowledge to merit. Qatada, cited by at-Tabari, Ibn Kathir and al-Qurtubi, says: because of good that is in me. Mujahid, in at-Tabari's chain, says: because of an honour He gave me. Muqatil, in al-Baghawi, joins the two ideas: because of good that Allah knew to be in me. In each the man is quietly saying that the blessing was a reward for what he already was, so that what came to him from outside is treated as proof of something inside him.",
+            "bn": "পূর্বসূরিদের কিছু ব্যাখ্যা দাবিটাকে জ্ঞান থেকে সরিয়ে আনে যোগ্যতায়। কাতাদা বলেন, তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই তা এনেছেন: আমার ভেতরে যে ভালো আছে, তার কারণে। তাবারীর সনদে মুজাহিদ বলেন: তিনি আমাকে যে মর্যাদা দিয়েছেন, তার কারণে। বাগাভীতে মুকাতিল দুটি কথা মিলিয়ে বলেন: আমার ভেতরে যে ভালো আল্লাহ জানতেন, তার কারণে। প্রতিটি কথায় লোকটি চুপিচুপি বলছে, নি‘মাত ছিল তার আগে থেকে থাকা গুণের পুরস্কার। বাইরে থেকে যা এসেছে, তাকে সে ধরে নিচ্ছে ভেতরের কোনো কিছুর প্রমাণ।"
+          },
+          {
+            "en": "At-Tabari's own paraphrase adds 'indi, with me, and explains it as in my estimation, as people say, you have done well in this, to my mind, meaning as far as I suppose and reckon. The word 'indi is not in this verse; it is in 28:78, in Qarun's mouth. The Qatada report at-Tabari cites uses it too. Either way, his gloss is telling. The claim of deserving rests on nothing firmer than the man's own guess about how Allah regards him.",
+            "bn": "তাবারী নিজের ব্যাখ্যায় 'ইনদী' (আমার কাছে) শব্দটি যোগ করেন, আর তার অর্থ করেন: আমার বিবেচনায়। যেমন কেউ বলে, এ কাজে তুমি ভালো করেছ, আমার কাছে। মানে, আমি যতটুকু মনে করি ও হিসাব করি। ইনদী শব্দটি এ আয়াতে নেই। আছে ২৮:৭৮ আয়াতে, কারূনের মুখে। তাবারী কাতাদার যে বর্ণনা উদ্ধৃত করেন, তাতেও শব্দটি আছে। যেভাবেই হোক, তাঁর ব্যাখ্যাটা অর্থবহ। হকদার হওয়ার দাবির ভিত্তি এখানে লোকটির নিজের অনুমান ছাড়া কিছু নয়: আল্লাহ তাকে কোন চোখে দেখেন, সে নিজেই তা ধরে নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said Before, by Others",
+          "bn": "এ কথা আগেও বলা হয়েছে"
+        },
+        "p": [
+          {
+            "en": "The next verse says it plainly: qad qalaha alladhina min qablihim, those before them had already said it, and what they used to earn availed them nothing. Ibn Kathir explains: the earlier nations said the same things and made the same claims; what they said was not right, and all they had gathered did not save them. 39:51 adds that the evil of what they earned struck them, and that those who do wrong among the people now addressed will be struck in the same way, unable to escape.",
+            "bn": "পরের আয়াত সোজাসুজি বলে: কাদ কালাহাল্লাযীনা মিন কাবলিহিম, তাদের আগের লোকেরাও এ কথা বলেছিল, আর তাদের কামাই তাদের কোনো কাজে আসেনি। ইবন কাসীর ব্যাখ্যা করেন, আগের জাতিগুলোও একই কথা বলত, একই দাবি করত। তাদের কথা ঠিক ছিল না, আর যা কিছু তারা জমিয়েছিল তা তাদের বাঁচাতে পারেনি। ৩৯:৫১ যোগ করে, তাদের কামাইয়ের মন্দ ফল তাদের উপর পড়েছিল। আর এখন যাদের সম্বোধন করা হচ্ছে, তাদের মধ্যে যারা জুলুম করে, তাদের উপরও তেমনই পড়বে। তারা পালিয়ে বাঁচতে পারবে না।"
+          },
+          {
+            "en": "Ibn Kathir compares the verse to Qarun's answer in 28:78, given when his people warned him not to exult: this has been given to me only because of knowledge I have. He adds 34:35, where the comfortable say: we have more wealth and children, and we will not be punished. The words recur almost unchanged across the Qur'an. A sentence that sounds like a private thought in one person's head has been said, nearly word for word, by people whose end the Qur'an has already told.",
+            "bn": "ইবন কাসীর আয়াতটিকে মিলিয়ে দেখান ২৮:৭৮ আয়াতে কারূনের জবাবের সঙ্গে। তার কওম যখন তাকে অহংকারে মেতে উঠতে নিষেধ করল, সে বলেছিল: এটা আমাকে দেওয়া হয়েছে কেবল আমার কাছে থাকা জ্ঞানের জোরে। তিনি আরও আনেন ৩৪:৩৫, যেখানে সচ্ছল লোকেরা বলে: আমাদের ধনসম্পদ আর সন্তান বেশি, আমাদের শাস্তি হবে না। কুরআনে কথাগুলো ফিরে ফিরে আসে প্রায় একই রূপে। একজনের মনের গোপন ভাবনা বলে যে বাক্যকে মনে হয়, প্রায় হুবহু সেটাই বলেছে এমন লোকেরা, যাদের পরিণতির কথা কুরআন আগেই শুনিয়েছে।"
+          },
+          {
+            "en": "This needs saying plainly. The verses describe a claim and what came of it for those who made it, as the text describes. They give no licence to point at any living person or community, wealthy or recovering from hardship, and declare their comfort a sign of ruin. The verse begins with al-insan, man, which takes in the reader. The fitting use of it is to listen for that sentence in one's own mouth.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতগুলো একটা দাবি আর দাবিদারদের পরিণতির কথা বলে, ঠিক যতটুকু পাঠে আছে ততটুকু। কোনো জীবিত মানুষ বা জনগোষ্ঠীর দিকে আঙুল তুলে তার স্বচ্ছলতাকে ধ্বংসের আলামত ঘোষণা করার অনুমতি এ আয়াত দেয় না, সে ধনী হোক বা সদ্য বিপদ কাটিয়ে উঠুক। আয়াত শুরু হয়েছে আল-ইনসান, মানুষ শব্দ দিয়ে, যার মধ্যে পাঠক নিজেও পড়েন। এর সঠিক ব্যবহার হলো নিজের মুখে ওই বাক্যটা শোনা যায় কি না, কান পেতে থাকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Versus She in Two Words",
+          "bn": "দুই সর্বনামের রহস্য"
+        },
+        "p": [
+          {
+            "en": "A small grammatical turn in the verse has drawn comment. Ni'mah, blessing, is a feminine noun, yet the man says utituhu, I was given it, with a masculine pronoun. Al-Baghawi explains that the pronoun is masculine because what is meant by the blessing is the act of bestowing. Then Allah's reply switches: bal hiya fitnah, rather it is a trial, with the feminine hiya. Al-Qurtubi reports al-Farra': hiya is feminine to agree with fitnah, and bal huwa fitnah would also have been correct.",
+            "bn": "আয়াতের ছোট্ট একটা ব্যাকরণগত মোড় নিয়ে আলোচনা হয়েছে। নি‘মাত শব্দটি স্ত্রীলিঙ্গ, অথচ লোকটি বলে ঊতীতুহু, পুংলিঙ্গ সর্বনাম দিয়ে: আমাকে এটা দেওয়া হয়েছে। বাগাভী ব্যাখ্যা করেন, সর্বনাম পুংলিঙ্গ কারণ নি‘মাত বলতে এখানে বোঝানো হয়েছে দান করার কাজটাকে। তারপর আল্লাহর জবাবে সর্বনাম বদলে যায়: বাল হিয়া ফিতনাহ, বরং এটা পরীক্ষা। এখানে স্ত্রীলিঙ্গ 'হিয়া'। কুরতুবী ফাররা থেকে বর্ণনা করেন: হিয়া স্ত্রীলিঙ্গ হয়েছে ফিতনাহ শব্দের সঙ্গে মিল রেখে। 'বাল হুয়া ফিতনাহ' বললেও শুদ্ধ হতো।"
+          },
+          {
+            "en": "Al-Qurtubi also gives an-Nahhas's reading of the construction: rather, I gave it to him as a trial. But what exactly is the trial? At-Tabari, al-Qurtubi and al-Baghawi take hiya to be the blessing itself. Al-Baghawi records a second view, introduced with it is said: rather, the word he spoke is the trial. On that reading the test is not only in the gift but in the sentence he says about it. The verse leaves room for both, and a reader can feel the weight of each: what I am given tests me, and so does what I say once I have it.",
+            "bn": "কুরতুবী এই গঠনের ব্যাপারে নাহহাসের পাঠও আনেন: বরং আমি তাকে এটা দিয়েছি পরীক্ষা হিসেবে। কিন্তু পরীক্ষাটা ঠিক কী? তাবারী, কুরতুবী ও বাগাভী 'হিয়া' বলতে নি‘মাতটাকেই বোঝেন। বাগাভী 'বলা হয়' বলে দ্বিতীয় একটি মত আনেন: বরং সে যে কথাটা বলল, সেটাই পরীক্ষা। এ পাঠে পরীক্ষা শুধু দানের মধ্যে নয়, দান নিয়ে বলা কথাটার মধ্যেও। আয়াতে দুটোরই জায়গা আছে, আর পাঠক দুটোরই ভার টের পান। যা আমাকে দেওয়া হয়, তা আমাকে যাচাই করে। আর পাওয়ার পর আমি যা বলি, সেটাও করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Trial Already Known",
+          "bn": "আগে থেকেই জানা পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir paraphrases the reply: the matter is not as they claimed; We granted him this blessing to test him in it, whether he would obey or disobey, though We knew that beforehand. At-Tabari calls the giving after harm a bala', a trial We tried them with, and a test We tested them with. Qatada, in his chain, reduces fitnah to one word: bala'. The trial, on Ibn Kathir's wording, does not tell Allah something He did not know. It brings out in the man what Allah already knew.",
+            "bn": "ইবন কাসীর জবাবটা খুলে বলেন এভাবে: ব্যাপারটা তারা যেমন দাবি করেছে তেমন নয়। আমি তাকে এ নি‘মাত দিয়েছি তাকে এর মধ্যে পরীক্ষা করতে: সে আনুগত্য করে, না নাফরমানি। অথচ সেটা আমার আগে থেকেই জানা। তাবারী বিপদের পরে দেওয়া এই দানকে বলেন বালা, এমন এক পরীক্ষা যা দিয়ে আমি তাদের পরখ করেছি। তাঁর সনদে কাতাদা ফিতনাহ-কে একটি শব্দে বোঝান: বালা। ইবন কাসীরের কথা অনুযায়ী, এ পরীক্ষা আল্লাহকে নতুন কিছু জানায় না। আল্লাহ যা আগে থেকেই জানতেন, পরীক্ষাটা মানুষের ভেতর থেকে তা-ই বের করে আনে।"
+          },
+          {
+            "en": "The Muyassar and as-Sa'di name the question the test asks: Allah tries His servants with it to see who thanks Him and who is ungrateful. The Muyassar calls it an examination in gratitude for blessings. Al-Baghawi and the Muyassar both use a sharper word as well, istidraj: a leading on by degrees, in which the gift keeps coming while the one who receives it drifts further away. So the same blessing can be the start of a person's thanks or the first step of being drawn on, and nothing in the blessing itself says which.",
+            "bn": "মুয়াসসার আর সা'দী পরীক্ষার প্রশ্নটা কী, তা স্পষ্ট বলেন: আল্লাহ এর দ্বারা বান্দাদের পরীক্ষা করেন, দেখেন কে তাঁর শোকর করে আর কে নাশোকরি করে। মুয়াসসার একে বলে নি‘মাতের শোকর আদায়ের পরীক্ষা। বাগাভী আর মুয়াসসার দুজনেই আরও কড়া একটি শব্দও ব্যবহার করেন: ইসতিদরাজ। মানে ধাপে ধাপে টেনে নেওয়া, যেখানে দান আসতেই থাকে আর গ্রহীতা ক্রমশ দূরে সরে যায়। একই নি‘মাত তাই কারও শোকরের শুরু হতে পারে, আবার কাউকে টেনে নেওয়ার প্রথম ধাপও হতে পারে। কোনটা, নি‘মাতের গায়ে তা লেখা থাকে না।"
+          },
+          {
+            "en": "As-Sa'di explains why this is so easily missed. Because most do not know, he says, they count the trial as a gift, and they confuse what is purely good with what may become a means to good or to evil. On this reading, wealth, health and relief are not pure good; each can become a means either way. That is exactly what the word fitnah names: a door that opens, with the one who walks through it deciding where it leads.",
+            "bn": "ব্যাপারটা এত সহজে কেন চোখ এড়িয়ে যায়, সা'দী তা ব্যাখ্যা করেন। অধিকাংশ মানুষ জানে না বলে তারা পরীক্ষাকেই উপহার মনে করে। যা নিখাদ কল্যাণ, আর যা কল্যাণ বা অকল্যাণ দুটোরই উপায় হতে পারে, এ দুইকে তারা গুলিয়ে ফেলে। এ পাঠে ধন, স্বাস্থ্য আর বিপদমুক্তি নিখাদ কল্যাণ নয়। প্রতিটিই দুই দিকের উপায় হতে পারে। ফিতনাহ শব্দটি ঠিক এ কথাই বলে: একটা দরজা খুলে যায়, আর যে ভেতর দিয়ে হেঁটে যায় সে-ই ঠিক করে দরজা তাকে কোথায় নেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Knowing Why It Came",
+          "bn": "কেন এল, তা না জানা"
+        },
+        "p": [
+          {
+            "en": "Wa-lakinna aktharahum la ya'lamun: but most of them do not know. At-Tabari says what they do not know: for what reason they were given it, and he puts their not knowing down to ignorance and poor judgement. Al-Qurtubi says they do not know that being given wealth is a test. Ibn Kathir draws the line back to the claim: that is why they say what they say. The verse that began with a man boasting of knowledge ends by saying that knowledge is the one thing most people in his place lack.",
+            "bn": "ওয়া লাকিন্না আকসারাহুম লা ইয়া‘লামূন: কিন্তু তাদের অধিকাংশই জানে না। কী জানে না, তাবারী তা বলেন: কোন কারণে তাদের এটা দেওয়া হয়েছে। আর এই না-জানার কারণ হিসেবে তিনি দেখান তাদের অজ্ঞতা ও বিচারবুদ্ধির দুর্বলতা। কুরতুবী বলেন, তারা জানে না যে ধনসম্পদ দেওয়াটাই একটা পরীক্ষা। ইবন কাসীর রেখাটা টেনে নিয়ে যান লোকটির দাবির কাছে: এ কারণেই তারা যা বলে তা বলে। যে আয়াত শুরু হয়েছিল জ্ঞানের বড়াই দিয়ে, তা শেষ হয় এ কথা বলে যে, এমন অবস্থায় অধিকাংশ মানুষের ঠিক জ্ঞানটাই নেই।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. What the verse asks of a reader is plain enough without one. When ease returns after hardship, name the giver before naming any cause, and say the gift is from Allah in the same voice that begged Him for it. Skill and effort are real, but they were given too. Treat the blessing as a question still open, and let gratitude be the answer, said aloud and then lived.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তা ছাড়াও আয়াত পাঠকের কাছে কী চায়, তা যথেষ্ট স্পষ্ট। কষ্টের পরে স্বস্তি ফিরে এলে কোনো উপায়ের নাম নেওয়ার আগে দাতার নাম নিন। যে কণ্ঠে তাঁর কাছে কাকুতি করেছিলেন, সেই কণ্ঠেই বলুন, এটা আল্লাহর দান। দক্ষতা আর পরিশ্রম সত্যিই আছে, কিন্তু সেগুলোও তো দেওয়া জিনিস। নি‘মাতকে ভাবুন একটা খোলা প্রশ্ন হিসেবে, আর তার জবাব দিন শোকর দিয়ে: আগে মুখে, তারপর জীবনে।"
+          }
+        ]
+      }
+    ]
+  },
   "39:53": {
     "sections": [
       {

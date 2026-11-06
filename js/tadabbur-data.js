@@ -26269,6 +26269,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never say about Allah what you do not know, and when the truth reaches you with its proof, accept it instead of turning it away.",
     "lessonBn": "আল্লাহর ব্যাপারে না জেনে কিছু বলবেন না, আর সত্য যখন দলিলসহ আপনার কাছে পৌঁছায়, তা ফিরিয়ে না দিয়ে গ্রহণ করুন।"
+  },
+  "39:49": {
+    "reflectionEn": "The verse catches a person at two moments. In the first, harm touches him and he calls on Allah. In the second, the harm lifts, a blessing arrives, and the same mouth says: I was given this only because of knowledge. Perhaps he means his own skill, perhaps that Allah knew he deserved it. Either way, the gift has become his credential. The verse answers in three words: rather, it is a trial. The blessing was not a verdict on his worth; it was a question put to him. Will he thank the One who gave it, or quietly sign his own name to it? Most, the verse says, do not know this, and that is why they talk the way they do.",
+    "reflectionBn": "আয়াতটি একজন মানুষকে দুই মুহূর্তে ধরে। প্রথমবার বিপদ তাকে ছুঁয়ে যায়, আর সে আল্লাহকে ডাকে। দ্বিতীয়বার বিপদ সরে যায়, নি‘মাত আসে, আর সেই একই মুখ বলে: এটা আমি পেয়েছি কেবল জ্ঞানের জোরে। হয়তো সে নিজের দক্ষতার কথা বলছে, হয়তো বলছে আল্লাহ জানতেন সে এর যোগ্য। যেভাবেই বলুক, দানটা এখন তার যোগ্যতার সনদ হয়ে গেছে। আয়াতের জবাব ছোট: বরং এ এক পরীক্ষা। নি‘মাতটা তার মূল্যের রায় ছিল না, ছিল তার সামনে রাখা একটা প্রশ্ন। যিনি দিয়েছেন, সে কি তাঁর শোকর করবে, নাকি চুপচাপ দানের গায়ে নিজের নাম লিখে দেবে? আয়াত বলছে, অধিকাংশ মানুষ এটা জানে না। তাই তারা এমন কথা বলে।",
+    "pointsEn": [
+      "What did I pray for most urgently in my last hardship, and how often have I mentioned Allah's part in it since it was answered?",
+      "When someone praises what I have, whose name comes first in my reply: mine, or His?",
+      "Which of my blessings have I quietly started treating as proof that I deserve it?",
+      "If my comfort is a test, what question is it asking me this week, and how am I answering?",
+      "Do I remember a time I called on Allah in distress and then forgot the call once the distress had gone?"
+    ],
+    "pointsBn": [
+      "শেষ বিপদের সময় সবচেয়ে কাতর হয়ে আমি কী চেয়েছিলাম? দো‘আ কবুল হওয়ার পর থেকে কতবার তাতে আল্লাহর হাতের কথা মুখে এনেছি?",
+      "কেউ যখন আমার কোনো কিছুর প্রশংসা করে, জবাবে প্রথমে কার নাম আসে: আমার, নাকি তাঁর?",
+      "আমার কোন নি‘মাতকে আমি নিঃশব্দে নিজের যোগ্যতার প্রমাণ বলে ধরে নিতে শুরু করেছি?",
+      "আমার স্বস্তি যদি পরীক্ষা হয়, এ সপ্তাহে সে আমাকে কী প্রশ্ন করছে, আর আমি কী জবাব দিচ্ছি?",
+      "এমন কোনো সময় কি মনে পড়ে, যখন বিপদে আল্লাহকে ডেকেছি, আর বিপদ কেটে যেতেই সেই ডাকের কথা ভুলে গেছি?"
+    ],
+    "lessonEn": "Treat every blessing as a test from Allah, not proof of your worth: thank the One who gave it, and never sign your own name to His gift.",
+    "lessonBn": "প্রতিটি নি‘মাতকে নিজের যোগ্যতার প্রমাণ না ভেবে আল্লাহর দেওয়া পরীক্ষা মনে করুন। যিনি দিয়েছেন তাঁর শোকর করুন, তাঁর দানের গায়ে কখনো নিজের নাম লিখবেন না।"
   }
 };
 
