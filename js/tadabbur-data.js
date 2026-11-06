@@ -24529,6 +24529,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are mocked and dared, say what is true and stop there; the reckoning belongs to Allah, who knows every deed and wrongs no one.",
     "lessonBn": "কেউ ঠাট্টা করে চ্যালেঞ্জ দিলে সত্য কথাটা বলুন, তারপর থামুন। হিসাব নেওয়ার ভার আল্লাহর, যিনি প্রতিটি আমল জানেন আর কারও প্রতি জুলুম করেন না।"
+  },
+  "26:205": {
+    "reflectionEn": "The deniers have just been asking for the punishment to hurry. The answer does not argue about the date. It asks a question instead: have you considered, if We let them enjoy themselves for years, and then what they were promised comes to them, what would all that enjoyment do for them? The years are granted in the question itself. Long life, ease and plenty are not denied; they are weighed, and found to weigh nothing once the end arrives. The verse is not only about them. Every year I am given is a year of the same kind: a delay that can be used or wasted. What am I doing with mine?",
+    "reflectionBn": "অস্বীকারকারীরা এইমাত্র শাস্তি তাড়াতাড়ি চেয়ে বসেছে। জবাবে তারিখ নিয়ে কোনো তর্ক নেই, আছে একটা প্রশ্ন: ভেবে দেখেছ কি, আমি যদি তাদের বছরের পর বছর ভোগ করতে দিই, তারপর যার ওয়াদা তাদের দেওয়া হতো তা এসে পড়ে, তখন এত ভোগ-বিলাস তাদের কী কাজে আসবে? বছরগুলো প্রশ্নের ভেতরেই মেনে নেওয়া হয়েছে। দীর্ঘ আয়ু, আরাম আর প্রাচুর্য অস্বীকার করা হয়নি। এগুলোকে মাপা হয়েছে, আর শেষ মুহূর্ত এলে দেখা যায় এদের কোনো ওজনই নেই। আয়াতটা শুধু ওদের কথা নয়। আমাকে দেওয়া প্রতিটি বছরও একই রকম অবকাশ, যা কাজে লাগানো যায়, আবার নষ্টও করা যায়। আমার বছরগুলো দিয়ে আমি কী করছি?",
+    "pointsEn": [
+      "If my life were extended by twenty years, what would I do with them that I am not already doing with this one?",
+      "Which comfort in my life have I started treating as proof that all is well between me and Allah?",
+      "When I think of the end as far away, what does that distance make me put off?",
+      "Of the enjoyments that filled my last year, which ones would still be worth anything to me on the Day of Judgement?",
+      "What is one hour this week that I can spend on something that will outlast me?"
+    ],
+    "pointsBn": [
+      "আমার আয়ু যদি আরও বিশ বছর বাড়িয়ে দেওয়া হয়, তখন এমন কী করব যা এখনকার জীবনে করছি না?",
+      "জীবনের কোন আরামটাকে আমি ধরে নিয়েছি এই প্রমাণ হিসেবে যে আল্লাহর সঙ্গে আমার সব ঠিক আছে?",
+      "শেষ দিনটাকে অনেক দূরে ভাবলে সেই দূরত্বের অজুহাতে আমি কোন কাজ পিছিয়ে দিই?",
+      "গত বছর যেসব ভোগে ভরে ছিল, তার কোনগুলো বিচারের দিনে আমার কোনো কাজে আসবে?",
+      "এ সপ্তাহে কোন একটা ঘণ্টা আমি এমন কাজে দিতে পারি যা আমার পরেও টিকে থাকবে?"
+    ],
+    "lessonEn": "Years of ease are a respite, not a reward. Whatever they hold weighs nothing at the end unless it was spent on what lasts, so spend yours that way now.",
+    "lessonBn": "আরামের বছরগুলো পুরস্কার নয়, অবকাশ। স্থায়ী কিছুর পেছনে খরচ না হলে শেষ মুহূর্তে এগুলোর কোনো ওজন থাকে না, তাই নিজের বছরগুলো এখনই সেভাবে খরচ করুন।"
   }
 };
 

@@ -7119,6 +7119,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:205": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words Holding a Lifetime",
+          "bn": "চার শব্দে গোটা এক জীবন"
+        },
+        "p": [
+          {
+            "en": "In Arabic the verse is four words: a-fa-ra'ayta in matta'nahum sinin, have you considered, if We gave them enjoyment for years. It is only the opening of a sentence. The next verse adds the turn, then there came to them what they were promised (26:206), and the verse after that delivers the verdict: what would the enjoyment they were given avail them? (26:207). This verse names the condition and nothing more, so the listener lives inside the granted years for a moment before the end is spoken.",
+            "bn": "আরবিতে আয়াতটি মাত্র চারটি শব্দ: আফারাআইতা ইন মাত্তা'নাহুম সিনীন, ভেবে দেখেছ কি, আমি যদি তাদের কয়েক বছর ভোগ করতে দিই। এটা একটা বাক্যের শুরুমাত্র। পরের আয়াত মোড় ঘোরায়: তারপর তাদের কাছে এসে পড়ে যার ওয়াদা তাদের দেওয়া হতো (২৬:২০৬)। তার পরের আয়াতে রায়: যা দিয়ে তাদের ভোগ করতে দেওয়া হয়েছিল, তা তাদের কী কাজে আসবে? (২৬:২০৭)। এ আয়াত শুধু শর্তটুকু বলে থেমে যায়। ফলে শেষের কথা শোনার আগে শ্রোতা কিছুক্ষণ সেই দেওয়া বছরগুলোর ভেতরেই বাস করে।"
+          },
+          {
+            "en": "The question answers the verse just before it: so for Our punishment are they impatient? (26:204). At-Tabari explains that haste by the deniers' own demand, in words the Qur'an records in 17:90 and 17:92: we will not believe you until you make the sky fall on us in pieces, as you claimed. As-Sa'di asks there what deluded them: do they have strength to bear it, or power to push it away once it lands? The reply in 26:205 sets no date. It weighs the years they think they have.",
+            "bn": "প্রশ্নটা আসলে আগের আয়াতের জবাব: তারা কি আমার শাস্তির জন্য তাড়াহুড়া করছে? (২৬:২০৪)। এই তাড়াহুড়ার ব্যাখ্যা তাবারী দেন অস্বীকারকারীদের নিজেদের দাবি দিয়ে, যা কুরআন ১৭:৯০ ও ১৭:৯২ আয়াতে তুলে রেখেছে: তুমি যেমন দাবি করো, আকাশ টুকরো টুকরো করে আমাদের উপর ফেলে না দেওয়া পর্যন্ত আমরা তোমাকে বিশ্বাস করব না। সা'দী সেখানে প্রশ্ন তোলেন, কিসে তাদের ধোঁকায় ফেলল? শাস্তি সইবার শক্তি কি তাদের আছে, নাকি নেমে এলে ঠেকানোর ক্ষমতা? ২৬:২০৫ আয়াতের জবাবে কোনো তারিখ নেই। আছে সেই বছরগুলোর ওজন, যেগুলো তারা নিজেদের হাতে আছে বলে ভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Respite Without the Blow",
+          "bn": "আঘাত ছাড়া অবকাশ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir paraphrases the three verses together: if We delayed them and gave them respite, granting them a stretch of time and a span of years, however long it ran, and then the command of Allah came to them, what good would the blessings they had lived in do them? The Muyassar turns the question to the Messenger himself: do you know, O Messenger, what follows if We let them enjoy life for long years by postponing their appointed terms, and then the promised punishment came down on them?",
+            "bn": "ইবন কাসীর তিনটি আয়াতের অর্থ একসঙ্গে বলেন: আমি যদি তাদের পিছিয়ে দিই, অবকাশ দিই, সময়ের একটা লম্বা টুকরো আর বছরের পর বছর তাদের হাতে ছেড়ে দিই, তা যত দীর্ঘই হোক, তারপর আল্লাহর ফয়সালা এসে পড়ে, তখন যে নিয়ামতের ভেতরে তারা বাস করছিল তা তাদের কী উপকার করবে? মুয়াসসার প্রশ্নটা রাসূলের দিকেই ফেরায়: হে রাসূল, আপনি কি জানেন, আমি যদি তাদের মৃত্যুর নির্ধারিত সময় পিছিয়ে দিয়ে দীর্ঘ বছর জীবন ভোগ করতে দিই, তারপর ওয়াদা করা শাস্তি তাদের উপর নেমে আসে?"
+          },
+          {
+            "en": "As-Sa'di reads it the same way: suppose We do not hurry the punishment upon them, but grant them a respite of several years in which they enjoy this world. Al-Baghawi says many years in this world, without Our destroying them. All four read sinin as years of life added, and matta'na as the punishment held back as much as pleasure handed out. The enjoyment and the respite are one thing seen from two sides. From below it feels like ease; from above it is a postponement.",
+            "bn": "সা'দীর পাঠও একই: ধরো, আমি তাদের উপর শাস্তি তাড়াতাড়ি নামালাম না, বরং কয়েক বছরের অবকাশ দিলাম, যে বছরগুলোতে তারা দুনিয়া ভোগ করে। বাগাভী বলেন, দুনিয়ার অনেকগুলো বছর, যেখানে আমি তাদের ধ্বংস করিনি। চারজনের কাছেই সিনীন মানে জীবনে যোগ হওয়া বছর। আর মাত্তা'না মানে যতটা ভোগের উপকরণ দেওয়া, ততটাই শাস্তি আটকে রাখা। ভোগ আর অবকাশ তাই একই জিনিস, শুধু দুই দিক থেকে দেখা। নিচ থেকে তা আরাম মনে হয়। উপর থেকে দেখলে তা কেবল পিছিয়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Makkah, or Every Denier",
+          "bn": "মক্কাবাসী, নাকি সব অস্বীকারকারী"
+        },
+        "p": [
+          {
+            "en": "Who are they? Al-Qurtubi says the enjoyment is in this world, and those meant are the people of Makkah, in the view of ad-Dahhak and others. Al-Baghawi names the same audience, the disbelievers of Makkah, whom Allah did not destroy. The context fits them closely: the passage has been speaking of the Qur'an revealed in clear Arabic and of people who refused it until they would see the painful punishment, and who then asked for that punishment to be hurried.",
+            "bn": "তারা কারা? কুরতুবী বলেন, ভোগ মানে দুনিয়ার ভোগ, আর উদ্দেশ্য মক্কাবাসী। এটা দাহহাক ও আরও কয়েকজনের মত। বাগাভীও একই শ্রোতার নাম নেন: মক্কার কাফেররা, যাদের আল্লাহ ধ্বংস করেননি। আশপাশের আয়াতও তাদের সঙ্গেই মেলে। এখানে কথা চলছিল স্পষ্ট আরবিতে নাযিল হওয়া কুরআন নিয়ে, আর সেই লোকদের নিয়ে যারা যন্ত্রণাদায়ক শাস্তি না দেখা পর্যন্ত তা মানবে না। তারপর তারাই সেই শাস্তি তাড়াতাড়ি চেয়ে বসেছিল।"
+          },
+          {
+            "en": "At-Tabari's comment on this passage sits under 26:207 in the source used here, and there he reports Ibn Zayd on the whole span from a-fa-ra'ayta to what they were given to enjoy: these are the people of disbelief. Ibn Zayd ties it to no city. The two readings are both reported and neither cancels the other. One names the first audience, the Makkans who hurried the punishment; the other names a kind of person, whoever lives the granted years in the same way.",
+            "bn": "এ অংশে তাবারীর আলোচনা এখানে ব্যবহৃত উৎসে রাখা আছে ২৬:২০৭ আয়াতের ঘরে। সেখানে তিনি আফারাআইতা থেকে 'যা দিয়ে তাদের ভোগ করতে দেওয়া হয়েছিল' পর্যন্ত পুরো অংশ সম্পর্কে ইবন যায়দের কথা আনেন: এরা কুফরের লোক। ইবন যায়দ কোনো শহরের সঙ্গে একে বাঁধেননি। দুই পাঠই বর্ণিত, একটা অন্যটাকে বাতিল করে না। একটায় আছে প্রথম শ্রোতার নাম, অর্থাৎ শাস্তি তাড়াতাড়ি চাওয়া মক্কাবাসী। অন্যটায় আছে এক ধরনের মানুষের পরিচয়: যে-ই দেওয়া বছরগুলো একইভাবে কাটায়।"
+          },
+          {
+            "en": "Al-Qurtubi also records two ways of parsing the closing verse, which this verse sets up. In one, the first ma is a question meant to draw a confession from the listener, the object of aghna, and the second ma is what they were given to enjoy: what did that enjoyment avail them? In the other, the first ma is a negation, and the sense is that the time in which they were given enjoyment did not avail them. Either way the years buy nothing.",
+            "bn": "যে শেষ আয়াতের জন্য এ আয়াত মঞ্চ তৈরি করে, তার বাক্যগঠন দুইভাবে পড়ার কথা কুরতুবী লিখে রাখেন। একটি পাঠে প্রথম 'মা' প্রশ্নবোধক, শ্রোতার মুখ থেকে স্বীকারোক্তি বের করে আনাই তার কাজ। সেটা আগনা ক্রিয়ার কর্ম, আর দ্বিতীয় 'মা' হলো যা দিয়ে তাদের ভোগ করতে দেওয়া হয়েছিল: সেই ভোগ তাদের কী কাজে এল? অন্য পাঠে প্রথম 'মা' না-বোধক। তখন অর্থ দাঁড়ায়, যে সময়টায় তাদের ভোগ করতে দেওয়া হয়েছিল, তা তাদের কোনো কাজে আসেনি। যেভাবেই পড়া হোক, বছরগুলো দিয়ে কিছুই কেনা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Delay Adds to the Debt",
+          "bn": "দেরি যখন বোঝা বাড়ায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari presses the question hard. What did it avail them, the delay We granted in their appointed terms and the enjoyment of life We gave them, since they did not repent of their idolatry? Did Our letting them enjoy it add anything but ruin? Did it benefit them at all? Rather it harmed them, he says, because in those years they piled up sins and earned crimes that they would never have earned had they not been given the years.",
+            "bn": "তাবারী প্রশ্নটা আরও চেপে ধরেন। তাদের মৃত্যুর নির্ধারিত সময়ে যে দেরি আমি দিয়েছিলাম, জীবনের যে ভোগ তাদের দিয়েছিলাম, তা তাদের কী কাজে এল, যখন তারা শিরক থেকে তওবাই করল না? তাদের ভোগ করতে দেওয়া কি সর্বনাশ ছাড়া আর কিছু বাড়িয়েছে? কোনো উপকার কি করেছে? বরং ক্ষতিই করেছে, তিনি বলেন। কারণ ওই বছরগুলোতে তারা গুনাহের পর গুনাহ জমিয়েছে, এমন অপরাধ কামিয়েছে যা বছরগুলো না পেলে কখনো কামাত না।"
+          },
+          {
+            "en": "As-Sa'di names what the enjoyment was: pleasures and desires. Then he asks what use they are, when they have passed, come to nothing and faded away, leaving their consequences behind them, while the punishment has been multiplied for them by the length of the time. His conclusion is the key to the passage. What ought to be feared is the punishment falling, and their deserving it. Whether it is hastened or delayed carries no weight and makes no difference.",
+            "bn": "সা'দী ভোগের নাম বলে দেন: স্বাদ আর কামনা। তারপর প্রশ্ন করেন, এগুলো এখন কী কাজে আসবে? সবই তো চলে গেছে, বাতিল হয়ে গেছে, মিলিয়ে গেছে। পেছনে রেখে গেছে শুধু তার পরিণাম। আর সময় যত লম্বা হয়েছে, তাদের শাস্তিও তত বেড়েছে। তাঁর উপসংহারই এ অংশের চাবি। ভয় পাওয়ার জিনিস হলো শাস্তি নেমে আসা আর তার যোগ্য হয়ে পড়া। শাস্তি তাড়াতাড়ি আসুক বা দেরিতে, তাতে কোনো ওজন নেই, কোনো ফায়দাও নেই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sees a hint in the verse from the other side. Long life granted by Allah in this world is His grace upon the one who receives it. But for those who meet that grace with ingratitude and do not submit to Islam, the respite and the grace will avail nothing. Read together, the commentators agree that the years are a gift by nature. They become a weight only by what is done in them, and that is decided by the one living them.",
+            "bn": "মাআরিফুল কুরআন আয়াতে উল্টো দিক থেকে একটা ইঙ্গিত দেখে। আল্লাহ দুনিয়াতে যাকে দীর্ঘ আয়ু দেন, তা তার উপর তাঁর অনুগ্রহ। কিন্তু যে এই অনুগ্রহের জবাব দেয় অকৃতজ্ঞতা দিয়ে, ইসলামের কাছে মাথা নত করে না, তার জন্য এই অবকাশ আর অনুগ্রহ কোনো কাজে আসবে না। তাফসীরগুলো পাশাপাশি পড়লে বোঝা যায়, বছরগুলো স্বভাবে উপহার। বোঝা হয়ে ওঠে শুধু তার ভেতরে যা করা হয় তার কারণে, আর সেটা ঠিক করে যে মানুষ বছরগুলো কাটায় সে নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Decades Folded Into an Afternoon",
+          "bn": "কয়েক দশক, এক বিকেল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets three verses beside this passage. The Day they see it, it will be as though they had stayed no longer than an evening or its morning (79:46). Each of them wishes he could be given a life of a thousand years, yet that long life would not move him away from the punishment (2:96). And what will his wealth avail him when he goes down? (92:11). Then he returns to 26:207: what they were given to enjoy did not avail them.",
+            "bn": "ইবন কাসীর এ অংশের পাশে আরও তিনটি আয়াত রাখেন। যেদিন তারা তা দেখবে, মনে হবে তারা এক সন্ধ্যা বা এক সকালের বেশি থাকেনি (৭৯:৪৬)। তাদের প্রত্যেকে চায়, তাকে যদি হাজার বছর আয়ু দেওয়া হতো, অথচ সেই দীর্ঘ আয়ু তাকে শাস্তি থেকে একটুও সরিয়ে দেবে না (২:৯৬)। আর সে যখন ধ্বংসে পতিত হবে, তখন তার সম্পদ তার কী কাজে আসবে? (৯২:১১)। তারপর তিনি ফিরে আসেন ২৬:২০৭ আয়াতে: যা দিয়ে তাদের ভোগ করতে দেওয়া হয়েছিল, তা তাদের কোনো কাজে আসেনি।"
+          },
+          {
+            "en": "Al-Baghawi says the same in plain words: even if their enjoyment of this world's blessings lasts long, when the punishment comes the length of that enjoyment avails them nothing, and it is as though they had never been in comfort at all. Length is a measure that works only from inside the years. Seen from their end, decades fold into an afternoon. The thousand-year wish of 2:96 is the same mistake made larger: it asks for more of what cannot help.",
+            "bn": "বাগাভী একই কথা বলেন সহজ ভাষায়: দুনিয়ার নিয়ামত তারা যত দীর্ঘ সময় ধরেই ভোগ করুক, শাস্তি এলে সেই দীর্ঘ ভোগ তাদের কোনো কাজে আসে না। মনে হয়, তারা যেন কোনোদিন আরামে ছিলই না। দৈর্ঘ্য মাপার হিসাব খাটে শুধু বছরগুলোর ভেতরে বসে। শেষ প্রান্ত থেকে তাকালে কয়েক দশকও গুটিয়ে একটা বিকেল হয়ে যায়। ২:৯৬ আয়াতের হাজার বছরের সেই ইচ্ছাও একই ভুল, শুধু আরও বড় আকারে। যা কাজে আসে না, তা-ই আরও বেশি করে চাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Dip Erases a Lifetime",
+          "bn": "এক ডুবে মুছে যায় জীবন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir then brings a report he calls the sound hadith, without naming its collector. Muslim records it in his Sahih (2807) from Anas ibn Malik, who said that the Messenger of Allah ﷺ said: \"The one who lived most luxuriously of the people of this world, from among the people of the Fire, will be brought on the Day of Resurrection and dipped once in the Fire. Then it will be said: Son of Adam, did you ever see any good? Did any comfort ever pass your way? He will say: No, by Allah, my Lord.",
+            "bn": "এরপর ইবন কাসীর একটি বর্ণনা আনেন, যাকে তিনি সহীহ হাদীস বলেন, তবে সংকলকের নাম বলেন না। মুসলিম তাঁর সহীহ গ্রন্থে (২৮০৭) তা বর্ণনা করেছেন আনাস ইবন মালিক (রাঃ) থেকে। তিনি বলেন, রাসূলুল্লাহ ﷺ বলেছেন: \"কিয়ামতের দিন জাহান্নামীদের মধ্য থেকে এমন একজনকে আনা হবে, দুনিয়াতে যে সবচেয়ে বেশি আরামে ছিল। তাকে জাহান্নামে একবার ডুবিয়ে তোলা হবে। তারপর বলা হবে: হে আদম সন্তান, তুমি কি কখনো কোনো ভালো দেখেছ? কোনো আরাম কি কখনো তোমার পাশ দিয়ে গেছে? সে বলবে: না, আল্লাহর কসম, হে আমার রব।"
+          },
+          {
+            "en": "And the one who suffered most hardship in this world, from among the people of Paradise, will be brought and dipped once in Paradise. It will be said to him: Son of Adam, did you ever see any hardship? Did any distress ever pass your way? He will say: No, by Allah, my Lord. No hardship ever passed my way, and I never saw any distress.\" Ibn Kathir's gloss is short and stark: as though nothing had ever been. That is 26:207 compressed into a single moment.",
+            "bn": "আর জান্নাতীদের মধ্য থেকে এমন একজনকে আনা হবে, দুনিয়াতে যে সবচেয়ে বেশি কষ্টে ছিল। তাকে জান্নাতে একবার ডুবিয়ে তোলা হবে। তাকে বলা হবে: হে আদম সন্তান, তুমি কি কখনো কোনো কষ্ট দেখেছ? কোনো বিপদ কি কখনো তোমার পাশ দিয়ে গেছে? সে বলবে: না, আল্লাহর কসম, হে আমার রব। কোনো কষ্ট কখনো আমার পাশ দিয়ে যায়নি, কোনো বিপদও আমি কখনো দেখিনি।\" ইবন কাসীরের ব্যাখ্যা ছোট, কিন্তু কঠিন: যেন কিছুই কখনো ছিল না। ২৬:২০৭ আয়াতের পুরো কথাটা যেন এক মুহূর্তে গুটিয়ে আনা।"
+          },
+          {
+            "en": "Ibn Kathir adds that for this reason Umar ibn al-Khattab used to quote a line of poetry: it is as though time had never wronged you for a single night, once you have reached what you were seeking. The hadith works in both directions, and so does the line. Ibn Kathir brings the hadith under this passage as an illustration; no fetched source names it, or anything else, as the occasion on which 26:205 was revealed, and none gives the verse an asbab report.",
+            "bn": "ইবন কাসীর আরও বলেন, এ কারণেই উমর ইবনুল খাত্তাব (রাঃ) একটি কবিতার পঙ্‌ক্তি উদ্ধৃত করতেন: যা খুঁজছিলে তা পেয়ে গেলে মনে হবে, কাল যেন একটি রাতের জন্যও তোমার উপর জুলুম করেনি। হাদীসটা দুই দিকেই খাটে, পঙ্‌ক্তিটাও তাই। ইবন কাসীর হাদীসটি এ অংশের নিচে এনেছেন দৃষ্টান্ত হিসেবে। যেসব উৎস এখানে দেখা হয়েছে, তার কোনোটিই একে বা অন্য কিছুকে ২৬:২০৫ আয়াত নাযিলের উপলক্ষ বলেনি। আয়াতটির শানে নুযূলের কোনো বর্ণনাও কোথাও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Caliph Who Wept at Dawn",
+          "bn": "ভোরবেলার কান্না এক খলিফার"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relates from az-Zuhri that Umar ibn Abd al-Aziz, when morning came, would take hold of his beard and recite these three verses together: have you considered, if We gave them enjoyment for years, then there came to them what they were promised, what would the enjoyment they were given avail them? Then he would weep. Ma'arif al-Qur'an relates the same report from az-Zuhri, adding that the caliph did this every morning and was addressing himself.",
+            "bn": "কুরতুবী যুহরী থেকে বর্ণনা করেন, উমর ইবন আবদুল আযীয ভোর হলে নিজের দাড়ি মুঠোয় ধরতেন, তারপর এই তিনটি আয়াত একসঙ্গে পড়তেন: ভেবে দেখেছ কি, আমি যদি তাদের কয়েক বছর ভোগ করতে দিই, তারপর যার ওয়াদা দেওয়া হতো তা তাদের কাছে এসে পড়ে, তখন যা দিয়ে তাদের ভোগ করতে দেওয়া হয়েছিল তা তাদের কী কাজে আসবে? তারপর তিনি কাঁদতেন। মাআরিফুল কুরআনও যুহরী থেকে একই বর্ণনা আনে। সেখানে আরও আছে, খলিফা প্রতিদিন সকালে এমন করতেন, আর কথাগুলো বলতেন নিজেকেই।"
+          },
+          {
+            "en": "Then, in al-Qurtubi's report, he would recite these lines: Your day, you who are deluded, is heedlessness and forgetting, your night is sleep, and ruin is bound to you. You are not among the waking, awake and resolute, nor among the sleepers, saved and safe. You delight in what perishes and rejoice in hopes, as a dreamer delights in pleasures while asleep. You strive towards what you will hate in its outcome: so do the cattle live in this world.",
+            "bn": "কুরতুবীর বর্ণনায় এরপর তিনি এই পঙ্‌ক্তিগুলো আওড়াতেন: হে ধোঁকায় পড়া মানুষ, তোমার দিন কাটে ভুলে আর গাফিলতিতে, রাত কাটে ঘুমে, অথচ মৃত্যু তোমার পিছু ছাড়ে না। জাগ্রতদের মধ্যে তুমি সজাগ ও দৃঢ় নও, ঘুমন্তদের মধ্যেও তুমি নিরাপদে বেঁচে যাওয়া কেউ নও। যা ফুরিয়ে যায় তাতে তুমি খুশি হও, আশা নিয়ে আনন্দ করো, যেমন স্বপ্নে কেউ ভোগের মজা পায়। আর তুমি ছুটছ এমন কিছুর দিকে যার পরিণাম তোমার অপছন্দ হবে। দুনিয়াতে এভাবেই তো চতুষ্পদ জন্তুরা বাঁচে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mirror, Not a Scale",
+          "bn": "আয়না, দাঁড়িপাল্লা নয়"
+        },
+        "p": [
+          {
+            "en": "The verse describes what the text describes: those who denied the Messenger and asked for the punishment to be hurried, who were given years and then overtaken. It licenses nothing against any living person or community. It does not let a reader take a neighbour's wealth or long life as a sign of coming doom, nor anyone's hardship as a sign of favour. The verse weighs years; it does not hand the reader the scales to weigh other people. Umar ibn Abd al-Aziz, in the report above, turned it every morning on himself.",
+            "bn": "আয়াতটি ঠিক ততটুকুই বলে, যতটুকু পাঠে আছে: যারা রাসূলকে অস্বীকার করেছিল, শাস্তি তাড়াতাড়ি চেয়েছিল, যাদের বছরের পর বছর দেওয়া হয়েছিল, তারপর পাকড়াও করা হয়েছিল। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীর সম্পদ বা দীর্ঘ আয়ু দেখে তাকে ধ্বংসের পথে ভাবার সুযোগ নেই। কারও কষ্ট দেখে তাকে আল্লাহর প্রিয় ধরে নেওয়ারও সুযোগ নেই। আয়াতটি বছর মাপে, অন্য মানুষকে মাপার দাঁড়িপাল্লা পাঠকের হাতে তুলে দেয় না। ওপরের বর্ণনায় উমর ইবন আবদুল আযীয প্রতিদিন সকালে এটা নিজের দিকেই ফিরিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Own Years, Counted",
+          "bn": "নিজের বছরগুলোর হিসাব"
+        },
+        "p": [
+          {
+            "en": "Every reader lives inside the condition this verse names: matta'nahum sinin, We gave them enjoyment for years. The years are already granted. As-Sa'di's point applies to each of us: what matters is not whether the end is near or far, but what it finds. At-Tabari's warning applies too. A year is not neutral. It either adds to what a person carries forward or adds to what he must answer for, and nobody receives a year that does neither.",
+            "bn": "প্রত্যেক পাঠকই এ আয়াতের শর্তের ভেতরে বাস করেন: মাত্তা'নাহুম সিনীন, আমি তাদের কয়েক বছর ভোগ করতে দিয়েছি। বছরগুলো আগেই দেওয়া হয়ে গেছে। সা'দীর কথা আমাদের প্রত্যেকের বেলায় খাটে: শেষটা কাছে না দূরে, তা আসল কথা নয়। আসল কথা, শেষ এসে আমাকে কী অবস্থায় পায়। তাবারীর সতর্কবাণীও খাটে। কোনো বছর নিরপেক্ষ নয়। হয় তা মানুষের সঙ্গে নিয়ে যাওয়ার সঞ্চয় বাড়ায়, নয়তো তার জবাবদিহির বোঝা বাড়ায়। এমন বছর কেউ পায় না যা এর কোনোটাই করে না।"
+          },
+          {
+            "en": "So begin where the caliph began, with the morning. Ask of the day ahead what this verse asks of the years: what will this be worth at the end? Give the first hour to prayer and the Qur'an, give the tired hour to someone who needs you, and let ease be used, not merely enjoyed. The hadith has two dips, not one. Hardship borne in faith is forgotten in an instant too. Neither comfort nor trouble is the measure of a life; what was done inside them is.",
+            "bn": "তাই শুরু করুন সেখান থেকে, যেখান থেকে খলিফা শুরু করতেন: সকাল থেকে। এ আয়াত বছরগুলোকে যে প্রশ্ন করে, সামনের দিনটাকেও সেই প্রশ্ন করুন: শেষে এর দাম কত হবে? প্রথম ঘণ্টাটা দিন নামায আর কুরআনকে। ক্লান্তির ঘণ্টাটা দিন এমন কাউকে, যার আপনাকে দরকার। আরামকে শুধু ভোগ না করে কাজে লাগান। হাদীসে ডুব একটা নয়, দুটি। ঈমান নিয়ে সয়ে যাওয়া কষ্টও এক মুহূর্তে ভুলে যাওয়া হবে। আরাম বা কষ্ট কোনোটাই জীবনের মাপকাঠি নয়। মাপকাঠি হলো, এগুলোর ভেতরে কী করা হয়েছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "26:208": {
     "sections": [
       {
