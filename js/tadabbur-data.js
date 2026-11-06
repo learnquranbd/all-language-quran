@@ -27749,6 +27749,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard whoever comes under your roof and your care, even when a crowd presses; and take a warning to heart before it becomes something you taste.",
     "lessonBn": "যে আপনার ঘরে ও দায়িত্বে আসে, ভিড় চাপ দিলেও তাকে আগলে রাখুন। আর সতর্কবাণী স্বাদ হয়ে আসার আগেই তা মনে গেঁথে নিন।"
+  },
+  "54:22": {
+    "reflectionEn": "The story of 'Ad takes four verses. They denied, and a cold, shrieking wind came on a day of lasting misfortune, pulling people from the ground like palm trunks torn up by the roots. Twice the passage asks how My punishment and My warnings were. Then, before the next people are named, the same line returns: We have made the Qur'an easy for remembrance, so is there anyone who will take heed? A warning has just been shown in full, and the way out is held out at once, made light enough to carry. 'Ad are not mine to point at anyone today. The question is mine. What has a verse I already know held me back from this week?",
+    "reflectionBn": "আদ জাতির কাহিনি মাত্র চার আয়াতের। তারা অস্বীকার করেছিল। তারপর এক অবিরাম অশুভ দিনে এল কনকনে, গর্জন করা বাতাস। মানুষকে মাটি থেকে টেনে তুলল, যেন শিকড়সুদ্ধ উপড়ে ফেলা খেজুর গাছের কাণ্ড। দুবার প্রশ্ন আসে: কেমন ছিল আমার আযাব আর আমার সতর্কবাণী? এরপর পরের জাতির নাম আসার আগেই ফিরে আসে সেই পঙক্তি: আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, উপদেশ নেওয়ার কেউ আছে কি? সতর্কবাণী এইমাত্র পুরোটা দেখানো হলো, আর সঙ্গে সঙ্গেই বেরোনোর পথ বাড়িয়ে দেওয়া হলো, বহন করার মতো হালকা করে। আদ জাতিকে দেখিয়ে আজকের কারও দিকে আঙুল তোলার অধিকার আমার নেই। প্রশ্নটা আমাকেই করা হয়েছে। যে আয়াত আমি আগে থেকেই জানি, এ সপ্তাহে তা আমাকে কোন কাজ থেকে ফিরিয়ে রেখেছে?",
+    "pointsEn": [
+      "When I read the stories of peoples who denied, do I stop at the line that turns the story towards me, or hurry on to the next one?",
+      "Which verse that I already know by heart has actually held me back from something I was about to do?",
+      "If the Book has been made easy, what is my real reason for leaving it until later?",
+      "When reciting is hard for me, do I treat the struggle as a reason to stop, or as part of what is rewarded?",
+      "Do I hear a warning as mercy offered in time, or only as a threat?"
+    ],
+    "pointsBn": [
+      "যে জাতিগুলো অস্বীকার করেছিল, তাদের কাহিনি পড়ার সময় যে পঙক্তি কাহিনিটাকে আমার দিকে ঘুরিয়ে দেয়, আমি কি সেখানে থামি, নাকি তাড়াহুড়া করে পরের কাহিনিতে চলে যাই?",
+      "যে আয়াত আমার মুখস্থ আছে, তার কোনটি সত্যিই আমাকে এমন কোনো কাজ থেকে থামিয়েছে, যা আমি করতে যাচ্ছিলাম?",
+      "কিতাবকে যদি সহজই করে দেওয়া হয়ে থাকে, তবে একে পরে করব বলে ফেলে রাখার আসল কারণটা কী?",
+      "তিলাওয়াত যখন আমার কাছে কঠিন লাগে, তখন কি এই কষ্টকে থেমে যাওয়ার অজুহাত বানাই, নাকি একে প্রতিদানেরই অংশ মনে করি?",
+      "সতর্কবাণী শুনলে আমি কি তাকে সময় থাকতে দেওয়া রহমত হিসেবে শুনি, নাকি শুধু হুমকি হিসেবে?"
+    ],
+    "lessonEn": "Each warning in the Qur'an comes with its remedy held out: take heed while there is time, and let the verses you know hold you back from what you were about to do.",
+    "lessonBn": "কুরআনের প্রতিটি সতর্কবাণীর সঙ্গেই প্রতিকারের পথ বাড়িয়ে দেওয়া আছে: সময় থাকতে উপদেশ নিন, আর যে আয়াতগুলো আপনি জানেন, সেগুলোকে আপনাকে সেই কাজ থেকে ফিরিয়ে রাখতে দিন, যা আপনি করতে যাচ্ছিলেন।"
   }
 };
 

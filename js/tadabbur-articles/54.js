@@ -739,6 +739,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "54:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Verses for 'Ad",
+          "bn": "আদের জন্য চার আয়াত"
+        },
+        "p": [
+          {
+            "en": "Wa laqad yassarna-l-Qur'ana lidh-dhikri fa-hal min muddakir: and We have certainly made the Qur'an easy for remembrance, so is there anyone who will take heed? This is the second of the four times Surah al-Qamar sounds the line, after 54:17 and before 54:32 and 54:40. The article on 54:17 treats its first sounding, after the story of Nuh (AS). This article stays with where the second falls: straight after the account of 'Ad, the people of Hud (AS), and straight before 54:23 names Thamud.",
+            "bn": "ওয়া লাকাদ ইয়াসসারনাল কুরআনা লিয্‌যিকরি ফাহাল মিম মুদ্দাকির: আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, উপদেশ নেওয়ার কেউ আছে কি? সূরা আল-কামার এ পঙক্তি শোনায় চারটি জায়গায়। এটি তার দ্বিতীয়বার। প্রথমবার ৫৪:১৭ আয়াতে, পরের দুবার ৫৪:৩২ ও ৫৪:৪০ আয়াতে। নূহ (আঃ)-এর কাহিনির পরে প্রথমবার যে পঙক্তি এসেছে, তার আলোচনা আছে ৫৪:১৭ আয়াতের প্রবন্ধে। এ প্রবন্ধ থাকবে দ্বিতীয়বারের জায়গাটা নিয়ে। পঙক্তিটি আসে হূদ (আঃ)-এর জাতি আদের বর্ণনা শেষ হতেই, আর ৫৪:২৩ আয়াতে সামূদের নাম আসার ঠিক আগে।"
+          },
+          {
+            "en": "That account is the shortest in the surah. Nuh's story runs from 54:9 to 54:16, Thamud's from 54:23 to 54:31, and Lut's from 54:33 to 54:39; 'Ad's takes 54:18 to 54:21, four verses in all. It is also the only one closed at both ends by the same question. 54:18 opens: 'Ad denied, so how were My punishment and My warnings? The wind follows in 54:19 and 54:20, and 54:21 asks the identical question again. Only then does the refrain come. A story told in a breath is closed twice, and then turned towards the listener.",
+            "bn": "সূরার কাহিনিগুলোর মধ্যে এটিই সবচেয়ে ছোট। নূহ (আঃ)-এর কাহিনি চলে ৫৪:৯ থেকে ৫৪:১৬ পর্যন্ত, সামূদের কাহিনি ৫৪:২৩ থেকে ৫৪:৩১ পর্যন্ত, লূত (আঃ)-এর জাতির কাহিনি ৫৪:৩৩ থেকে ৫৪:৩৯ পর্যন্ত। আদের কাহিনি শুধু ৫৪:১৮ থেকে ৫৪:২১, মোট চারটি আয়াত। আর শুধু এই কাহিনিরই শুরু ও শেষ বাঁধা একই প্রশ্নে। ৫৪:১৮ আয়াত শুরু হয়: আদ অস্বীকার করেছিল, তাহলে কেমন ছিল আমার আযাব ও আমার সতর্কবাণী? এরপর ৫৪:১৯ ও ৫৪:২০ আয়াতে আসে বাতাসের কথা, আর ৫৪:২১ আয়াতে হুবহু একই প্রশ্ন আবার। তারপরই আসে ধ্রুবপদটি। এক নিঃশ্বাসে বলা একটি কাহিনি দুবার বন্ধ করা হলো, তারপর ঘুরিয়ে দেওয়া হলো শ্রোতার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked at Both Ends",
+          "bn": "দুই প্রান্তে একই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, on 54:21, turns the question outward. Its sense, he says, is this: so look, O company of the disbelievers of Quraysh, how My punishment of 'Ad was when they disbelieved in their Lord and denied His messenger, for that is the way of Allah, sunnat Allah, with those like them; and look how My warning through them was to those I warned. Ibn Kathir keeps the question on 'Ad themselves: I punished them, so how was My punishment of them for their disbelief in Me and their denial of My messenger?",
+            "bn": "৫৪:২১ আয়াতের ব্যাখ্যায় তাবারী প্রশ্নটাকে বাইরের দিকে ঘুরিয়ে দেন। তাঁর ভাষায় এর মর্ম: হে কুরাইশের কাফির দল, দেখো, আদ জাতি যখন তাদের রবকে অস্বীকার করল আর তাঁর রাসূলকে মিথ্যা বলল, তখন তাদের ওপর আমার আযাব কেমন ছিল। কারণ তাদের মতো লোকদের বেলায় এটাই আল্লাহর নিয়ম, সুন্নাতুল্লাহ। আর দেখো, তাদের দিয়ে যাদের আমি সতর্ক করেছি, তাদের প্রতি আমার সতর্কবাণী কেমন ছিল। ইবন কাসীর প্রশ্নটাকে আদের ওপরেই রাখেন: আমি তাদের শাস্তি দিলাম। আমাকে অস্বীকার করা আর আমার রাসূলকে মিথ্যা বলার জন্য তাদের ওপর আমার শাস্তি তাহলে কেমন ছিল?"
+          },
+          {
+            "en": "The word nudhur draws a note from al-Qurtubi on 54:21. He glosses it as indhari, My warning, and reports the same gloss from al-Farra'. It is also said, he adds, that nudhur is the plural of nadhir, and that nadhir here carries the sense of warning, just as nakir carries the sense of rejection. As-Sa'di answers the question outright: it was, by Allah, the painful punishment, and a warning that left no one any argument against Him. The Muyassar's answer is shorter still: great and painful. Asked twice, the question is answered before the refrain arrives.",
+            "bn": "নুযুর শব্দটি নিয়ে ৫৪:২১ আয়াতে কুরতুবী একটি টীকা দেন। তাঁর ব্যাখ্যায় এর অর্থ ইনযারী, আমার সতর্কবাণী। ফাররা থেকেও তিনি একই ব্যাখ্যা উল্লেখ করেন। এরপর যোগ করেন, এ কথাও বলা হয় যে নুযুর হলো নাযীরের বহুবচন, আর নাযীর এখানে সতর্ক করা অর্থে এসেছে, যেমন নাকীর আসে প্রত্যাখ্যান অর্থে। সা'দী প্রশ্নটার সরাসরি জবাব দেন: আল্লাহর কসম, তা ছিল যন্ত্রণাদায়ক আযাব, আর এমন সতর্কবাণী, যা তাঁর বিরুদ্ধে কারও কোনো যুক্তি অবশিষ্ট রাখেনি। মুয়াসসারের জবাব আরও ছোট: বিশাল ও যন্ত্রণাদায়ক। দুবার করা প্রশ্নের জবাব তাই ধ্রুবপদ আসার আগেই মিলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Uprooted Trunks, a Lightened Book",
+          "bn": "উপড়ানো কাণ্ড, হালকা কিতাব"
+        },
+        "p": [
+          {
+            "en": "Between the two questions stands the image of 54:20, which the article on 54:19 leaves to its own verse. Ibn Kathir describes the wind coming to one of them and lifting him until he passed out of sight, then turning him over onto the crown of his head, so that he fell to the ground, his head was smashed, and a body was left without a head. That, he says, is why the verse likens them to the trunks of uprooted palms, and his quotation then runs on without a break into 54:21 and the refrain of 54:22.",
+            "bn": "দুই প্রশ্নের মাঝখানে আছে ৫৪:২০ আয়াতের ছবি, ৫৪:১৯ আয়াতের প্রবন্ধ যা তার নিজের আয়াতের জন্য রেখে দিয়েছে। ইবন কাসীরের বর্ণনায় বাতাস তাদের একেকজনের কাছে আসত, তাকে এত উঁচুতে তুলত যে চোখের আড়াল হয়ে যেত। তারপর মাথা নিচের দিকে করে উল্টে দিত। সে মাটিতে আছড়ে পড়ত, মাথা চূর্ণ হয়ে যেত, পড়ে থাকত মাথাহীন একটা দেহ। তাঁর কথায়, এ কারণেই আয়াতটি তাদের তুলনা করেছে উপড়ে ফেলা খেজুর গাছের কাণ্ডের সঙ্গে। এরপর তাঁর উদ্ধৃতি না থেমেই চলে যায় ৫৪:২১ আয়াতে, তারপর ৫৪:২২ আয়াতের ধ্রুবপদে।"
+          },
+          {
+            "en": "At-Tabari and the Muyassar describe the same end: people torn from their places and thrown on their heads, necks broken, heads parted from bodies. As-Sa'di closes 54:20 with an exclamation: fa-ma ahwana al-khalqa 'ala Allah idha 'asaw amrahu, how slight creation is before Allah when they disobey His command. Two verses on, at-Tabari glosses yassarna as sahhalnahu wa hawwannahu: We made it easy and made it light. The two words share the root h-w-n. The commentaries do not link them, and the link is offered here only as a reader's observation: a people made slight for disobeying, then a Book made light for whoever wants it.",
+            "bn": "তাবারী ও মুয়াসসারও একই পরিণতির কথা বলেন: মানুষকে জায়গা থেকে উপড়ে মাথার ওপর আছড়ে ফেলা হয়, ঘাড় ভেঙে যায়, মাথা দেহ থেকে আলাদা হয়ে যায়। সা'দী ৫৪:২০ আয়াতের আলোচনা শেষ করেন একটি বিস্ময়বাক্যে: ফামা আহওয়ানাল খালকা আলাল্লাহি ইযা আসাও আমরাহু। সৃষ্টি যখন আল্লাহর হুকুম অমান্য করে, তখন তাঁর কাছে তারা কতই না তুচ্ছ! দুই আয়াত পরে তাবারী ইয়াসসারনা শব্দের ব্যাখ্যা দেন সাহহালনাহু ওয়া হাওয়ান্নাহু দিয়ে: আমি একে সহজ করেছি আর হালকা করেছি। দুটি শব্দের ধাতু একই, হা-ওয়াও-নূন। তাফসীরগুলো এ দুটিকে মেলায়নি। মিলটা এখানে রাখা হলো শুধু পাঠকের চোখে পড়া একটি বিষয় হিসেবে: নাফরমানির কারণে একটি জাতি তুচ্ছ হয়ে গেল, আর যে চায় তার জন্য একটি কিতাব হালকা করে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy in the Repetition",
+          "bn": "পুনরাবৃত্তির ভেতরে রহমত"
+        },
+        "p": [
+          {
+            "en": "The commentators on this verse give more than one reason why the line returns. As-Sa'di's whole comment on 54:22 is a reason: Allah repeated it out of mercy for His servants and care for them, since He was calling them to what would set right both their worldly life and their hereafter. On his reading the repetition is not an ornament of style but a kindness. The same door is shown again to someone who may have walked past it the first time, and it is shown just after he has watched what happened to those who never went through.",
+            "bn": "পঙক্তিটি কেন ফিরে আসে, এ আয়াতের তাফসীরকারেরা তার একাধিক কারণ দেন। ৫৪:২২ আয়াতে সা'দীর পুরো মন্তব্যটাই একটি কারণ: আল্লাহ বান্দাদের প্রতি রহমত ও যত্ন থেকে কথাটা বারবার বলেছেন, কারণ তিনি তাদের ডাকছিলেন এমন জিনিসের দিকে, যাতে তাদের দুনিয়া ও আখিরাত দুটোই ঠিক হয়। তাঁর পাঠে এই পুনরাবৃত্তি ভাষার অলংকার নয়, দয়া। প্রথমবার যে হয়তো দরজাটা পাশ কাটিয়ে চলে গেছে, তাকে একই দরজা আবার দেখানো হচ্ছে। আর দেখানো হচ্ছে ঠিক তখন, যখন সে এইমাত্র দেখল, যারা কখনো সে দরজা দিয়ে ঢোকেনি তাদের কী হয়েছিল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, commenting on 54:18 to 54:27 together, gives a second reason. After each nation's punishment, it says, the question how then was My torment and My warnings returns, and the refrain is repeated to advise the Muslims and the disbelievers in general. It is there to indicate that the only way to avoid the terrible chastisement is to take the advice of the Qur'an, which Allah has made easy to the extent of heeding its admonitions and warnings. Only the most ill-fated person, it adds, will not take advantage of those warnings.",
+            "bn": "মাআরিফুল কুরআন ৫৪:১৮ থেকে ৫৪:২৭ পর্যন্ত আয়াতগুলো একসঙ্গে আলোচনা করে দ্বিতীয় একটি কারণ দেয়। প্রতিটি জাতির শাস্তির বর্ণনার পরে ফিরে আসে প্রশ্নটি: কেমন ছিল আমার আযাব ও আমার সতর্কবাণী? আর ধ্রুবপদটি বারবার আসে মুসলিম ও কাফির সবাইকে উপদেশ দিতে। এর ইঙ্গিত হলো, ভয়াবহ আযাব থেকে বাঁচার একমাত্র পথ কুরআনের উপদেশ গ্রহণ করা। আর আল্লাহ কুরআনকে এতটুকু সহজ করেছেন যে এর উপদেশ ও সতর্কবাণী মেনে নেওয়া যায়। মাআরিফুল কুরআন যোগ করে, সবচেয়ে হতভাগা লোকটিই কেবল এই সতর্কবাণী থেকে উপকার নেবে না।"
+          },
+          {
+            "en": "Al-Qurtubi, under this verse, says briefly that the line was repeated in this surah for alerting and for making understood, and he records a fuller account introduced with it is said, which the articles on 54:17 and 54:40 set out. Mercy, a way out of punishment, a mind alerted: the three reasons do not compete, and each stands in its own author's words. Read with at-Tabari's sunnat Allah on 54:21, they show the order of the passage. The pattern of the past is shown first, and then the way out of it is offered.",
+            "bn": "এ আয়াতের ব্যাখ্যায় কুরতুবী সংক্ষেপে বলেন, সতর্ক করা আর বুঝিয়ে দেওয়ার জন্য এ সূরায় পঙক্তিটি বারবার এসেছে। এরপর 'বলা হয়' বলে তিনি আরও বিস্তারিত একটি ব্যাখ্যা উল্লেখ করেন, যা ৫৪:১৭ ও ৫৪:৪০ আয়াতের প্রবন্ধে দেওয়া আছে। রহমত, আযাব থেকে বেরোনোর পথ, আর মনকে সজাগ করা: তিনটি কারণ পরস্পরের প্রতিদ্বন্দ্বী নয়, প্রতিটি নিজ নিজ লেখকের ভাষায় দাঁড়িয়ে আছে। ৫৪:২১ আয়াতে তাবারীর সুন্নাতুল্লাহর কথার পাশে রাখলে অংশটির ক্রম বোঝা যায়। আগে দেখানো হয় অতীতের নিয়ম, তারপর বাড়িয়ে দেওয়া হয় তা থেকে বেরোনোর পথ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held Back by Its Verses",
+          "bn": "আয়াতের টানে থেমে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "Who, then, is the muddakir sought after 'Ad? At-Tabari's gloss on this verse is brief: mutta'iz wa munzajir bi-ayatihi, someone who takes admonition and is held back by its verses. Ibn Kathir reports Muhammad ibn Ka'b al-Qurazi in the same direction: is there anyone who holds back from acts of disobedience? The Muyassar asks simply whether there is anyone admonished by it. Placed straight after a people who heard a warning and did not stop, these glosses ask for the one thing 'Ad did not do.",
+            "bn": "তাহলে আদের পরে যে মুদ্দাকিরকে খোঁজা হচ্ছে, সে কে? এ আয়াতে তাবারীর ব্যাখ্যা ছোট: মুত্তাইয ওয়া মুনযাজির বি-আয়াতিহি, এমন কেউ, যে উপদেশ নেয় আর এর আয়াতের টানে থেমে যায়। ইবন কাসীর একই দিকে মুহাম্মাদ ইবন কা'ব আল-কুরাযীর কথা আনেন: গুনাহ থেকে বিরত থাকার কেউ আছে কি? মুয়াসসার শুধু জিজ্ঞেস করে, এ থেকে উপদেশ নেওয়ার কেউ আছে কি? যে জাতি সতর্কবাণী শুনেও থামেনি, ঠিক তাদের পরেই বসানো এই ব্যাখ্যাগুলো সেই একটা জিনিসই চায়, যা আদ করেনি।"
+          },
+          {
+            "en": "Other glosses put the weight elsewhere. Ibn Kathir's own is anyone who takes heed by this Qur'an, whose memorising and meaning Allah has made easy. He also gives Matar al-Warraq, is there any seeker of knowledge, that he may be helped in it, and notes that al-Bukhari cites it without a chain in decisive form. Al-Qurtubi's gloss is a reader who recites it, and he names Abu Bakr al-Warraq and Ibn Shawdhab for a seeker of good and knowledge. Reciter, seeker, someone held back: the emphases differ, and this article chooses none.",
+            "bn": "অন্য ব্যাখ্যাগুলো জোর দেয় অন্য জায়গায়। ইবন কাসীরের নিজের ব্যাখ্যা: এই কুরআন দিয়ে উপদেশ নেওয়ার কেউ আছে কি, যার মুখস্থ ও অর্থ আল্লাহ সহজ করে দিয়েছেন? তিনি মাতার আল-ওয়াররাকের কথাও আনেন: জ্ঞানের কোনো অন্বেষী আছে কি, যাকে এতে সাহায্য করা হবে? সঙ্গে জানান, বুখারী কথাটি সনদ ছাড়া দৃঢ় ভাষায় উল্লেখ করেছেন। কুরতুবীর ব্যাখ্যা: এমন পাঠক, যে তা পড়ে। কল্যাণ ও জ্ঞানের অন্বেষীর কথাটি তিনি আবু বকর আল-ওয়াররাক ও ইবন শাওযাবের নামে আনেন। পাঠক, অন্বেষী, নাকি যে থেমে যায়: ঝোঁকগুলো আলাদা, আর এ প্রবন্ধ এদের কোনোটিকে বেছে নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tongue, Memory, Understanding",
+          "bn": "জিহ্বা, স্মৃতি, বোধ"
+        },
+        "p": [
+          {
+            "en": "The readings of easy for remembrance are set out at length in the articles on 54:17 and 54:40, and the texts fetched for this verse repeat them, so a short account is enough here. Ibn Kathir: We made its wording easy and its meaning easy, for whoever wants it. He reports Mujahid, We made its reading light; as-Suddi, We made its recitation easy on the tongues; and ad-Dahhak from Ibn Abbas (RA): had Allah not made it easy on human tongues, none of His creation could have spoken the speech of Allah.",
+            "bn": "উপদেশের জন্য সহজ করা কথাটির বিভিন্ন পাঠ ৫৪:১৭ ও ৫৪:৪০ আয়াতের প্রবন্ধে বিস্তারিত আছে। এ আয়াতের জন্য আনা তাফসীরগুলোও সেগুলোই আবার বলে, তাই এখানে সংক্ষেপে বলাই যথেষ্ট। ইবন কাসীর বলেন, আমি এর শব্দ সহজ করেছি, অর্থও সহজ করেছি, যে চায় তার জন্য। তিনি মুজাহিদের কথা আনেন: আমি এর পড়াকে হালকা করেছি। সুদ্দীর কথা: আমি জিহ্বার ওপর এর তিলাওয়াত সহজ করেছি। আর যাহহাক ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: আল্লাহ যদি মানুষের জিহ্বায় একে সহজ না করতেন, তাঁর সৃষ্টির কেউই আল্লাহর কালাম উচ্চারণ করতে পারত না।"
+          },
+          {
+            "en": "The Muyassar divides the ease between wording, for recitation and memorising, and meanings, for understanding and reflection. Al-Qurtubi's first gloss puts it in memory: We made it easy to memorise, and We help whoever wants to memorise it. He also allows the sense of made ready, from a camel saddled for a journey, and reports Sa'id ibn Jubayr that no Book of Allah is recited whole from memory except the Qur'an. These readings place the ease in the tongue, the memory or the understanding, and the sources do not settle among them.",
+            "bn": "মুয়াসসার সহজতাকে দুই ভাগে ভাগ করে: শব্দ সহজ তিলাওয়াত ও মুখস্থের জন্য, অর্থ সহজ বোঝা ও চিন্তার জন্য। কুরতুবীর প্রথম ব্যাখ্যা সহজতাকে রাখে স্মৃতিতে: আমি একে মুখস্থ করা সহজ করেছি, আর যে মুখস্থ করতে চায় তাকে সাহায্য করি। তিনি প্রস্তুত করে রাখা অর্থটিরও সুযোগ রাখেন, সফরের জন্য জিন কষা উটের উপমা থেকে। আর সাঈদ ইবন জুবাইরের কথা আনেন: আল্লাহর কিতাবগুলোর মধ্যে কুরআন ছাড়া আর কোনোটি পুরোটা মুখস্থ থেকে পড়া হয় না। এই পাঠগুলো সহজতাকে রাখে জিহ্বায়, স্মৃতিতে বা বোধে। উৎসগুলো এদের কোনোটিকে চূড়ান্ত করেনি।"
+          },
+          {
+            "en": "What they share is a condition, and it suits the verse's place. At-Tabari, Ibn Kathir and the Muyassar all say the ease is for whoever wants it. 'Ad, in the verses just before, denied the warning brought to them; the refrain offers the same kind of warning again, lightened, to anyone who does. Whichever reading a reader follows, the verse does not promise that the Qur'an will take hold of someone who keeps it at arm's length. It promises that it will not be heavy for someone who comes towards it.",
+            "bn": "সব পাঠে একটি শর্ত এক, আর আয়াতের অবস্থানের সঙ্গে সেটা খুব মানানসই। তাবারী, ইবন কাসীর ও মুয়াসসার তিনজনই বলেন, সহজটা তার জন্য, যে তা চায়। ঠিক আগের আয়াতগুলোতে আদ তাদের কাছে আসা সতর্কবাণী অস্বীকার করেছিল। ধ্রুবপদটি একই রকম সতর্কবাণী আবার বাড়িয়ে দেয়, হালকা করে, যে চায় তার দিকে। পাঠক যে ব্যাখ্যাই গ্রহণ করুন, আয়াতটি এমন প্রতিশ্রুতি দেয় না যে কুরআনকে দূরে সরিয়ে রাখলেও তা নিজে থেকে কাউকে ধরে ফেলবে। প্রতিশ্রুতি এটুকু: যে এর দিকে এগিয়ে আসে, তার জন্য এটা ভারী হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Easy, Yet Still Laboured Over",
+          "bn": "সহজ, তবু কষ্টের পাঠ"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse quotes a hadith attached to it. Ibn Kathir only points to the Prophet's ﷺ saying that this Qur'an was sent down in seven ahruf, counting it as part of the easing of recitation, and refers back to where he gave it; the article on 54:40 quotes it. One general narration, which none of these sources ties to this verse, speaks to the kind of ease the verse promises. Muslim records it, as 798: 'A'isha (RA) reported Allah's Messenger ﷺ as saying:",
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই আয়াতের সঙ্গে যুক্ত কোনো হাদীস উদ্ধৃত করেনি। ইবন কাসীর শুধু নবী ﷺ-এর সেই বাণীর দিকে ইঙ্গিত করেন, এই কুরআন সাতটি হরফে নাযিল হয়েছে। তিলাওয়াত সহজ করার মধ্যে তিনি এটাকে গণ্য করেন, আর জানান যে হাদীসটি আগেই উল্লেখ করেছেন। ৫৪:৪০ আয়াতের প্রবন্ধে তা উদ্ধৃত আছে। একটি সাধারণ বর্ণনা আছে, যা এই উৎসগুলোর কোনোটিই এ আয়াতের সঙ্গে জোড়েনি, তবু আয়াতের প্রতিশ্রুত সহজতার ধরন নিয়ে কথা বলে। মুসলিম তা ৭৯৮ নম্বরে সংকলন করেছেন। আয়িশা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন:"
+          },
+          {
+            "en": "“One who is proficient in the Qur'an is associated with the noble, upright, recording angels; and he who falters in it, and finds it difficult for him, will have two rewards.” It is in Sahih Muslim, and Muslim's inclusion is its grading. It is cited here only as a general narration on reciting, not as an explanation of 54:22. Read beside the verse, it keeps the promise of ease from being misheard. The Book has been made easy, yet the hadith expects some to falter in it, and it counts their effort as reward, not failure.",
+            "bn": "“কুরআনে দক্ষ ব্যক্তি থাকবে সম্মানিত, পুণ্যবান, লিপিকার ফেরেশতাদের সঙ্গে। আর যে কুরআন পড়তে গিয়ে আটকে যায়, পড়াটা তার জন্য কষ্টকর হয়, তার জন্য রয়েছে দুটি প্রতিদান।” হাদীসটি সহীহ মুসলিমের, আর মুসলিমের সংকলনে স্থান পাওয়াই এর মান। এখানে এটি আনা হয়েছে শুধু তিলাওয়াত বিষয়ে একটি সাধারণ বর্ণনা হিসেবে, ৫৪:২২ আয়াতের ব্যাখ্যা হিসেবে নয়। আয়াতের পাশে রেখে পড়লে হাদীসটি সহজতার প্রতিশ্রুতিকে ভুল বোঝা থেকে রক্ষা করে। কিতাব সহজ করা হয়েছে, তবু হাদীসটি ধরে নেয় যে কেউ কেউ পড়তে গিয়ে আটকাবে। আর তাদের চেষ্টাকে ব্যর্থতা নয়, প্রতিদান হিসেবেই গণ্য করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Pause Before Thamud",
+          "bn": "সামূদের আগে এক বিরতি"
+        },
+        "p": [
+          {
+            "en": "Something needs saying plainly. These verses describe what the text describes: a people, 'Ad, who denied, and a wind sent upon them. They license nothing against any living person or community, give no one standing to name a present nation, tribe or place as 'Ad, and make no reader a judge of anyone. At-Tabari's address to the disbelievers of Quraysh and Ma'arif's remark that the verses which follow address the people of the Prophet's ﷺ time concern the warning's first hearers. The refrain itself names nobody, and asks only who will take heed.",
+            "bn": "একটি কথা সোজাসুজি বলা দরকার। এ আয়াতগুলো শুধু তা-ই বর্ণনা করে, যা পাঠে আছে: আদ নামের একটি জাতি অস্বীকার করেছিল, আর তাদের ওপর বাতাস পাঠানো হয়েছিল। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এগুলো কিছুই অনুমোদন করে না। আজকের কোনো জাতি, গোত্র বা জায়গাকে আদ বলে চিহ্নিত করার অধিকার কাউকে দেয় না, কোনো পাঠককে কারও বিচারকও বানায় না। তাবারী কুরাইশের কাফিরদের সম্বোধন করেছেন, আর মাআরিফুল কুরআন বলেছে পরের আয়াতগুলো নবী ﷺ-এর যুগের লোকদের উদ্দেশে। এসব কথা সতর্কবাণীর প্রথম শ্রোতাদের নিয়ে। ধ্রুবপদটি নিজে কারও নাম নেয় না, শুধু জিজ্ঞেস করে, উপদেশ নেওয়ার কেউ আছে কি।"
+          },
+          {
+            "en": "The line stands where it does in a way a reader can use. Between 'Ad and Thamud there is one verse of pause, and it is about neither people. It is the moment to ask what the story just told should stop in oneself. At-Tabari's munzajir and al-Qurazi's reading supply the test: a verse taken to heart holds a person back from something. As-Sa'di's reading supplies the tone: the repetition is mercy, an invitation renewed rather than a door closing. Ma'arif's supplies the stakes: this is the way out, offered while it is still open.",
+            "bn": "পঙক্তিটি যেখানে দাঁড়িয়ে আছে, পাঠক তা কাজে লাগাতে পারেন। আদ আর সামূদের মাঝখানে বিরতি মাত্র একটি আয়াতের, আর সে আয়াত দুই জাতির কোনোটিকে নিয়েই নয়। এ মুহূর্তটা নিজেকে জিজ্ঞেস করার: এইমাত্র শোনা কাহিনিটা আমার ভেতরের কোন জিনিসকে থামিয়ে দেওয়া উচিত? তাবারীর মুনযাজির আর কুরাযীর ব্যাখ্যা পরীক্ষাটা ধরিয়ে দেয়। যে আয়াত মনে গেঁথে যায়, তা মানুষকে কোনো কিছু থেকে ফিরিয়ে রাখে। সা'দীর ব্যাখ্যা দেয় সুরটা: এই পুনরাবৃত্তি রহমত, বন্ধ হয়ে যাওয়া দরজা নয়, নতুন করে দেওয়া দাওয়াত। আর মাআরিফুল কুরআন জানায় কী নির্ভর করছে এর ওপর: এটাই বেরোনোর পথ, যা এখনো খোলা থাকতেই বাড়িয়ে দেওয়া হয়েছে।"
+          },
+          {
+            "en": "So a reader might do something simple when reciting this surah: pause at each of the four refrains, and name one thing the story just told should change. Learn the line itself; it is seven words and easy to keep. Where recitation is hard, the general narration above is a reason to continue, not to stop. The surah asks the question again after Thamud, at 54:32. The answer it hopes for between these two stories is given in what a person does before the next one begins.",
+            "bn": "তাই এ সূরা তিলাওয়াতের সময় পাঠক একটা সহজ কাজ করতে পারেন। চারটি ধ্রুবপদের প্রতিটিতে একটু থামুন, আর এইমাত্র শোনা কাহিনি আপনার মধ্যে কোন একটা জিনিস বদলাতে বলছে, তা নিজের কাছে স্পষ্ট করে বলুন। পঙক্তিটি নিজেও মুখস্থ করে নিন। মাত্র সাতটি শব্দ, মনে রাখা সহজ। তিলাওয়াত কঠিন লাগলে ওপরের সাধারণ বর্ণনাটি থেমে যাওয়ার নয়, চালিয়ে যাওয়ার কারণ। সামূদের পরে ৫৪:৩২ আয়াতে সূরা আবার একই প্রশ্ন করবে। এই দুই কাহিনির মাঝখানে যে জবাবটা চাওয়া হচ্ছে, তা দেওয়া হয় পরের কাহিনি শুরু হওয়ার আগেই, মানুষ কী করে তা দিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "54:27": {
     "sections": [
       {
