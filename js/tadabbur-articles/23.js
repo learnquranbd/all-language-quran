@@ -3787,6 +3787,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:101": {
+    "sections": [
+      {
+        "h": {
+          "en": "Past the Barrier, the Horn",
+          "bn": "বারযাখ পেরিয়ে শিঙ্গা"
+        },
+        "p": [
+          {
+            "en": "In 23:99 and 23:100 the denier, as death reaches him, begs to be sent back so that he might do good, and is told no: behind them is a barrier until the Day they are raised. This verse opens where that barrier ends, with fa-idha: so when. Nufikha fi s-sur, the Horn is blown, the blower left unnamed. Al-Muyassar supplies him: the angel charged with it blows into the horn, and people are raised from their graves.",
+            "bn": "২৩:৯৯ ও ২৩:১০০ আয়াতে মৃত্যু এসে পড়লে অস্বীকারকারী মিনতি করে, তাকে ফিরিয়ে দেওয়া হোক, যাতে সে ভালো কাজ করতে পারে। জবাব আসে: কখনো না, তাদের পেছনে আছে এক আড়াল, পুনরুত্থানের দিন পর্যন্ত। আয়াতটি শুরু হয় ঠিক সেখান থেকে, যেখানে সেই আড়াল শেষ: ফাইযা, অতঃপর যখন। নুফিখা ফিস সূর, শিঙ্গায় ফুঁ দেওয়া হবে। কে ফুঁ দেবেন, তা বলা হয়নি। মুয়াসসার তাঁর কথা জানিয়ে দেয়: এ কাজের দায়িত্বপ্রাপ্ত ফেরেশতা শিঙ্গায় ফুঁ দেবেন, আর মানুষ কবর থেকে উঠে আসবে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an explains that the Horn will be blown twice. At the first, the earth, the skies and every living thing between them perish; at the second, every dead thing returns to life, as 39:68 says: then it will be blown again, and at once they stand, looking on. The whole verse is ten Arabic words, and after the blast come two denials. Fa-la ansaba baynahum yawma'idhin: no lineage between them that Day. Wa-la yatasa'alun: nor will they ask each other. Which of the two blasts the verse means is where the commentators part.",
+            "bn": "মাআরিফুল কুরআন জানায়, শিঙ্গায় ফুঁ পড়বে দুবার। প্রথমবারে পৃথিবী, আকাশ আর এ দুয়ের মাঝের সব প্রাণী ধ্বংস হয়ে যাবে। দ্বিতীয়বারে প্রতিটি মৃত আবার জীবিত হবে, যেমন ৩৯:৬৮ আয়াত বলে: তারপর আবার ফুঁ দেওয়া হবে, আর সঙ্গে সঙ্গে তারা দাঁড়িয়ে তাকিয়ে থাকবে। পুরো আয়াতটি আরবিতে দশটি শব্দ, আর ফুঁয়ের পর আসে দুটি না। ফালা আনসাবা বাইনাহুম ইয়াওমাইযিন: সেদিন তাদের মাঝে কোনো বংশসম্পর্ক থাকবে না। ওয়ালা ইয়াতাসাআলূন: তারা একে অপরকে জিজ্ঞেসও করবে না। দুই ফুঁয়ের কোনটির কথা এখানে, সেখানেই তাফসীরকারদের পথ আলাদা হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which of the Two Blasts",
+          "bn": "দুই ফুঁয়ের কোনটি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying that the people of interpretation differed over which of the two blowings is meant. Some said the first. He relates from Sa'id ibn Jubayr that a man came to Ibn Abbas (RA) with this verse, and Ibn Abbas said it concerns the first blowing, when nothing remains on the earth. As-Suddi says the same: the first blowing. And through Ali ibn Abi Talha, Ibn Abbas says: that is when the Horn is blown and no living being remains except Allah.",
+            "bn": "তাবারী শুরুতেই বলেন, দুই ফুঁয়ের কোনটি এখানে উদ্দেশ্য, তা নিয়ে ব্যাখ্যাকারদের মধ্যে মতভেদ আছে। একদল বলেছেন প্রথম ফুঁ। তিনি সাঈদ ইবন জুবাইর থেকে বর্ণনা করেন, এক ব্যক্তি এই আয়াত নিয়ে ইবন আব্বাস (রাঃ)-এর কাছে এল। ইবন আব্বাস বললেন, এটা প্রথম ফুঁয়ের কথা, যখন পৃথিবীর উপর আর কিছুই অবশিষ্ট থাকবে না। সুদ্দীও একই কথা বলেন: প্রথম ফুঁ। আর আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস বলেন: এটা তখন, যখন শিঙ্গায় ফুঁ দেওয়া হবে আর আল্লাহ ছাড়া কোনো জীবিত থাকবে না।"
+          },
+          {
+            "en": "At-Tabari then spells out the verse on that reading. When the Horn is blown, whoever is in the heavens and the earth falls stunned, except whom Allah wills; so they have no lineage that Day by which they keep ties, and they do not ask one another or visit one another to ask after each other's state and descent. Al-Baghawi gives the same view from Sa'id ibn Jubayr through Ibn Abbas, and lays 39:68 beside it: the swoon first, then the second blast.",
+            "bn": "এরপর তাবারী এই ব্যাখ্যা অনুযায়ী আয়াতের অর্থ খুলে বলেন। শিঙ্গায় ফুঁ পড়লে আকাশ ও পৃথিবীর সবাই বেহুঁশ হয়ে পড়বে, আল্লাহ যাদের চান তারা ছাড়া। তাই সেদিন তাদের এমন কোনো বংশসম্পর্ক থাকবে না, যা দিয়ে তারা পরস্পর যোগাযোগ রাখবে। তারা একে অপরকে জিজ্ঞেস করবে না, একে অপরের কাছে গিয়ে অবস্থা বা বংশের খোঁজও নেবে না। বাগাভীও সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস থেকে একই মত আনেন, আর পাশে রাখেন ৩৯:৬৮ আয়াত: আগে বেহুঁশ হওয়া, তারপর দ্বিতীয় ফুঁ।"
+          },
+          {
+            "en": "Others said the second blowing. At-Tabari's witness for it is Ibn Mas'ud (RA), and al-Baghawi names Ibn Mas'ud too, adding that Ata's narration from Ibn Abbas also makes it the second. So Ibn Abbas is reported on both sides, through different narrators. Al-Qurtubi states it as his own reading: what is meant is the second blowing. Ibn Kathir calls it the blowing of the rising, as-Sa'di the blowing of the raising, and Ma'arif al-Qur'an notes that Tafsir Mazhari adopted the second. At-Tabari sets out both.",
+            "bn": "আরেক দল বলেছেন দ্বিতীয় ফুঁ। তাবারী এর পক্ষে সাক্ষী হিসেবে আনেন ইবন মাসউদ (রাঃ)-কে। বাগাভীও ইবন মাসউদের নাম নেন, আর যোগ করেন, ইবন আব্বাস থেকে আতার বর্ণনাতেও এটা দ্বিতীয় ফুঁ। অর্থাৎ ভিন্ন ভিন্ন বর্ণনাকারীর মাধ্যমে ইবন আব্বাসের নাম দুই পক্ষেই এসেছে। কুরতুবী নিজের মত হিসেবেই বলেন: এখানে দ্বিতীয় ফুঁ উদ্দেশ্য। ইবন কাসীর একে বলেন পুনরুত্থানের ফুঁ, সা'দী বলেন জাগিয়ে তোলার ফুঁ। মাআরিফুল কুরআন জানায়, তাফসীরে মাযহারী দ্বিতীয় মতটি গ্রহণ করেছে। তাবারী দুটো মতই সাজিয়ে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Yet Elsewhere They Ask",
+          "bn": "অথচ অন্য আয়াতে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The dispute is not idle, because the Qur'an says elsewhere: wa-aqbala ba'duhum 'ala ba'din yatasa'alun, and they will turn to each other, asking. Those exact words stand at 37:27 and 52:25, and al-Baghawi and Ma'arif al-Qur'an tag the verse as 37:27. The man who came to Ibn Abbas, in at-Tabari's and al-Qurtubi's account, brought precisely this pair: one verse says they will not ask, the other says they will. The answers the commentators preserve come in two kinds.",
+            "bn": "মতভেদটা অকারণ নয়। কারণ কুরআন অন্য জায়গায় বলে: ওয়া আকবালা বা'দুহুম আলা বা'দিন ইয়াতাসাআলূন, তারা একে অপরের দিকে ফিরে পরস্পরকে জিজ্ঞেস করবে। হুবহু এই শব্দগুলো আছে ৩৭:২৭ ও ৫২:২৫ আয়াতে। বাগাভী ও মাআরিফুল কুরআন আয়াতটিকে ৩৭:২৭ বলে চিহ্নিত করে। তাবারী ও কুরতুবীর বর্ণনায় যে লোকটি ইবন আব্বাসের কাছে এসেছিল, সে ঠিক এই দুটো আয়াতই পাশাপাশি এনেছিল। একটি আয়াত বলছে তারা জিজ্ঞেস করবে না, আরেক আয়াত বলছে করবে। তাফসীরকারেরা যে জবাবগুলো সংরক্ষণ করেছেন, সেগুলো দুই ধরনের।"
+          },
+          {
+            "en": "The first separates the two verses by time. Ibn Abbas answers, through Sa'id ibn Jubayr: there is no asking at the first blowing, because nobody is left alive on the earth, so there is neither lineage nor asking; as for the verse in which they turn to each other, that is when they have entered Paradise. Ali ibn Abi Talha's version puts it at the raising: they question each other when they are brought back at the second blowing.",
+            "bn": "প্রথম জবাব দুটি আয়াতকে আলাদা করে সময় দিয়ে। সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস বলেন: প্রথম ফুঁয়ের সময় কোনো জিজ্ঞাসা নেই, কারণ তখন পৃথিবীতে কেউ জীবিত থাকবে না। তাই বংশও নেই, জিজ্ঞাসাও নেই। আর যে আয়াতে তারা একে অপরের দিকে ফেরে, সেটা জান্নাতে প্রবেশের পরের কথা। আলী ইবন আবী তালহার বর্ণনা একে রাখে পুনরুত্থানের মুহূর্তে: দ্বিতীয় ফুঁয়ে যখন তাদের আবার জাগানো হবে, তখন তারা পরস্পরকে জিজ্ঞেস করবে।"
+          },
+          {
+            "en": "The second separates them by station within the one Day. Al-Baghawi answers with what is narrated from Ibn Abbas: the Resurrection has states and stopping places. In one, fear grips them hard and the enormity of the matter keeps them from asking; in another they come to themselves a little, and then they ask. Ma'arif al-Qur'an gives the same answer through Tafsir Mazhari: a time when nobody speaks to anybody, and a station where the terror eases and they talk.",
+            "bn": "দ্বিতীয় জবাব আলাদা করে একই দিনের ভিন্ন ভিন্ন পর্ব দিয়ে। বাগাভী ইবন আব্বাস থেকে বর্ণিত কথা দিয়ে জবাব দেন: কিয়ামতের নানা অবস্থা আর নানা মঞ্জিল আছে। এক মঞ্জিলে ভয় তাদের কঠিনভাবে চেপে ধরবে, ব্যাপারটার ভয়াবহতা তাদের জিজ্ঞাসা থেকে ভুলিয়ে রাখবে। আরেক মঞ্জিলে তারা খানিকটা হুঁশ ফিরে পাবে, তখন জিজ্ঞেস করবে। মাআরিফুল কুরআন তাফসীরে মাযহারীর বরাতে একই জবাব দেয়: এক সময় কেউ কারও সঙ্গে কথা বলবে না, আর এক মঞ্জিলে ভয় কমে এলে তারা কথা বলবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name That Buys Nothing",
+          "bn": "যে নামের কোনো দাম নেই"
+        },
+        "p": [
+          {
+            "en": "On the second reading, people stand risen with fathers and mothers still theirs. So what is denied? Ibn Kathir: lineages will be of no benefit that Day; a father will not grieve for his son, nor turn back to him. Al-Muyassar puts it as pride: there is no boasting of lineage then, as they boasted of it in the world. Al-Qurtubi relates the same from Ibn Abbas: they do not take pride in lineage in the Hereafter the way they take pride in it here.",
+            "bn": "দ্বিতীয় ব্যাখ্যায় মানুষ জেগে ওঠে, আর বাবা-মা তখনো তাদেরই বাবা-মা। তাহলে অস্বীকার করা হচ্ছে কী? ইবন কাসীর বলেন: সেদিন বংশ কোনো উপকারে আসবে না। বাবা ছেলের জন্য দুঃখ করবে না, তার দিকে ফিরেও তাকাবে না। মুয়াসসার কথাটা বলে গর্বের দিক থেকে: তখন বংশ নিয়ে কোনো বড়াই থাকবে না, যেমন দুনিয়ায় তারা বড়াই করত। কুরতুবী ইবন আব্বাস থেকে একই কথা আনেন: দুনিয়ায় যেভাবে বংশ নিয়ে গর্ব করে, আখিরাতে তারা সেভাবে গর্ব করবে না।"
+          },
+          {
+            "en": "Al-Baghawi, through Ata from Ibn Abbas, gives the same meaning and adds a sentence that guards it: he did not mean that lineages are cut off. The tie still exists; what has gone is its currency. As-Sa'di reads the denial through the terror: what strikes them makes them forget their lineages, which are the strongest of all ties, and every lesser tie is forgotten all the more. At-Tabari keeps Hajjaj's line beside these: no one that Day asks anything by right of lineage, or appeals to another through a tie of the womb.",
+            "bn": "বাগাভী আতার সূত্রে ইবন আব্বাস থেকে একই অর্থ আনেন, আর সঙ্গে একটি বাক্য জুড়ে দেন যা অর্থটাকে সুরক্ষিত রাখে: তিনি এ কথা বোঝাননি যে বংশসম্পর্ক ছিন্ন হয়ে যায়। সম্পর্কটা থেকেই যায়, শুধু সেটার আর কোনো মূল্য থাকে না। সা'দী অস্বীকারটা পড়েন ভয়ের ভেতর দিয়ে। যে ভয়াবহতা তাদের উপর নেমে আসে, তা তাদের বংশের কথাই ভুলিয়ে দেয়, অথচ বংশই সব বন্ধনের মধ্যে সবচেয়ে মজবুত। তাহলে অন্য বন্ধন তো আরও আগেই ভুলে যাবে। তাবারী এর পাশে রাখেন হাজ্জাজের কথা: সেদিন কেউ বংশের দোহাই দিয়ে কিছু চাইবে না, রক্তের সম্পর্কের জোরে কারও কাছে আবদারও করবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Too Busy to Ask",
+          "bn": "জিজ্ঞেস করার ফুরসত নেই"
+        },
+        "p": [
+          {
+            "en": "The second denial, wa-la yatasa'alun, Ibn Kathir reads with 70:10 and 70:11: no close friend will ask after a close friend, though they are shown one another. No relative asks about his relative, he says, even while he sees him, even if the man carries sins that weigh down his back. Even if he was the dearest of people to him in the world, he will not turn to him, nor lift from him the weight of a gnat's wing of his burden.",
+            "bn": "দ্বিতীয় না, ওয়ালা ইয়াতাসাআলূন, ইবন কাসীর পড়েন ৭০:১০ ও ৭০:১১ আয়াতের সঙ্গে: কোনো অন্তরঙ্গ বন্ধু আরেক অন্তরঙ্গ বন্ধুর খোঁজ নেবে না, যদিও তাদের একে অপরকে দেখিয়ে দেওয়া হবে। তিনি বলেন, আত্মীয় আত্মীয়ের খোঁজ নেবে না, চোখের সামনে দেখলেও না। এমনকি যদি গুনাহের বোঝায় তার পিঠ ভারী হয়ে থাকে, তবুও না। দুনিয়ায় যে ছিল তার সবচেয়ে প্রিয় মানুষ, তার দিকেও সে ফিরে তাকাবে না। তার বোঝা থেকে মশার একটা ডানার ভারও সে নিজের কাঁধে নেবে না।"
+          },
+          {
+            "en": "Al-Qurtubi, from Ibn Abbas, names the questions that fall silent: which tribe are you from, which lineage? They do not ask them as they did in the world, and they do not recognise each other, for the horror that has stunned them. Al-Baghawi calls it the asking that seeks a tie. As-Sa'di gives the inner reason: no one asks another how he is, because each is taken up with himself, not knowing whether he will be saved with no misery after it, or ruined with no happiness after it.",
+            "bn": "কুরতুবী ইবন আব্বাস থেকে জানান, কোন প্রশ্নগুলো থেমে যায়: তুমি কোন গোত্রের, কোন বংশের? দুনিয়ায় যেভাবে এসব জিজ্ঞেস করত, সেদিন আর করবে না। তারা একে অপরকে চিনতেও পারবে না, কারণ ভয়াবহতা তাদের হতবুদ্ধি করে দেবে। বাগাভী একে বলেন সম্পর্কের সূত্র খোঁজার জিজ্ঞাসা। সা'দী ভেতরের কারণটা বলেন: কেউ কারও অবস্থা জানতে চাইবে না, কারণ প্রত্যেকে নিজেকে নিয়েই ব্যস্ত। সে জানে না, এমন মুক্তি পাবে কি না যার পর আর দুর্ভাগ্য নেই, নাকি এমন দুর্ভাগ্যে পড়বে যার পর আর সৌভাগ্য নেই।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di both quote 80:34 to 80:37: the Day a man will flee from his brother, his mother and his father, his wife and his children; every one of them that Day will have a concern enough to occupy him. At-Tabari has Qatada recite it after a sharp line of his own: nothing will be more hateful to a person on the Day of Resurrection than to come face to face with certain people, for fear that some claim of theirs against him will fall due.",
+            "bn": "ইবন কাসীর ও সা'দী দুজনেই উদ্ধৃত করেন ৮০:৩৪ থেকে ৮০:৩৭: সেদিন মানুষ পালাবে তার ভাই থেকে, তার মা ও বাবা থেকে, তার স্ত্রী ও সন্তানদের থেকে। সেদিন তাদের প্রত্যেকের এমন এক অবস্থা হবে, যা তাকে অন্য সবকিছু থেকে ব্যস্ত রাখবে। তাবারীর বর্ণনায় কাতাদা আয়াতগুলো পড়েন নিজের এক তীক্ষ্ণ কথার পর: কিয়ামতের দিন মানুষের কাছে সবচেয়ে অপছন্দের ব্যাপার হবে কারও কারও মুখোমুখি হওয়া। ভয় একটাই, তার উপর তাদের কোনো পাওনা বেরিয়ে আসে কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Kin Become Creditors",
+          "bn": "আপনজন যখন পাওনাদার"
+        },
+        "p": [
+          {
+            "en": "The report that gives this verse its sharpest picture comes from Ibn Mas'ud (RA), told by at-Tabari through Zadhan. Zadhan arrived to find the house full and no place left to sit, and called out: is it because I am a man of the non-Arabs that you look down on me? Ibn Mas'ud said: come near. Then he said: on the Day of Resurrection the servant, man or woman, will be taken by the hand and set up before the first and the last.",
+            "bn": "এই আয়াতের সবচেয়ে তীক্ষ্ণ ছবিটি পাওয়া যায় ইবন মাসউদ (রাঃ)-এর এক বর্ণনায়, তাবারী যা এনেছেন যাযানের সূত্রে। যাযান এসে দেখলেন ঘর ভর্তি, বসার জায়গা নেই। তিনি বলে উঠলেন: আমি অনারব বলেই কি আপনি আমাকে তুচ্ছ করছেন? ইবন মাসউদ বললেন: কাছে এসো। এরপর তিনি বললেন: কিয়ামতের দিন বান্দাকে, পুরুষ হোক বা নারী, হাত ধরে আনা হবে। তারপর আগের ও পরের সব মানুষের সামনে তাকে দাঁড় করানো হবে।"
+          },
+          {
+            "en": "A caller proclaims: this is so-and-so, son of so-and-so; whoever has a right against him, let him come and take it. And the woman, Ibn Mas'ud said, will be glad that day to have a right against her son, or her father, or her brother, or her husband. Then he recited this verse. Al-Qurtubi and al-Baghawi relay the same report, and Ibn Kathir gives a shorter version from Ibn Abi Hatim, adding: even if it is small.",
+            "bn": "একজন ঘোষক ডেকে বলবে: এ অমুকের ছেলে অমুক। এর কাছে যার কোনো হক আছে, সে এসে নিজের হক নিয়ে যাক। ইবন মাসউদ বললেন, সেদিন নারী খুশি হবে, যদি তার ছেলের কাছে, বা বাবার কাছে, বা ভাইয়ের কাছে, বা স্বামীর কাছে তার কোনো পাওনা থাকে। তারপর তিনি এই আয়াত তিলাওয়াত করলেন। কুরতুবী ও বাগাভী একই বর্ণনা উদ্ধৃত করেন। ইবন কাসীর ইবন আবী হাতিমের সূত্রে এর একটি ছোট রূপ আনেন, আর যোগ করেন: পাওনাটা সামান্য হলেও।"
+          },
+          {
+            "en": "At-Tabari's second chain continues. The Lord tells the servant to give these people their rights, and he says: my Lord, the world is gone; from where shall I give them? The angels are told to take from his good deeds and give each claimant by his claim. If a mustard seed's weight is left over, Allah multiplies it until it brings him into Paradise, and Ibn Mas'ud recited 4:40. If he is wretched, their bad deeds are added to his and he is sent to the Fire. These are Ibn Mas'ud's words; no tafsir here grades them.",
+            "bn": "তাবারীর দ্বিতীয় সনদে বর্ণনাটি আরও এগোয়। রব বান্দাকে বলবেন, এদের হক এদের দিয়ে দাও। সে বলবে: হে আমার রব, দুনিয়া তো শেষ, আমি কোথা থেকে দেব? ফেরেশতাদের বলা হবে, তার নেক আমল থেকে নিয়ে প্রত্যেক দাবিদারকে তার দাবি অনুযায়ী দিয়ে দাও। যদি সরিষার দানা পরিমাণও বাকি থাকে, আল্লাহ তা বাড়িয়ে দেবেন, যতক্ষণ না তা তাকে জান্নাতে পৌঁছে দেয়। এখানে ইবন মাসউদ ৪:৪০ আয়াত পড়েন। আর সে হতভাগা হলে দাবিদারদের গুনাহ তার গুনাহের সঙ্গে যোগ করে তাকে জাহান্নামে পাঠানো হবে। এগুলো ইবন মাসউদের নিজের কথা। এখানকার কোনো তাফসীর এর মান নির্ণয় করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Prophet's Tie, and Deeds",
+          "bn": "নবীর বন্ধন, আর আমল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gathers several reports here on one theme, that every lineage is cut on the Day except the Prophet's own. One he gives from Ahmad through al-Miswar ibn Makhrama; another from Umar (RA), who said he had heard it when he married Umm Kulthum bint Ali, which Ibn Kathir traces to at-Tabarani, al-Bazzar and al-Bayhaqi. Ma'arif al-Qur'an cites a similar report from Ibn Asakir. None of these could be confirmed in the collections this article can check, so nothing here rests on them.",
+            "bn": "ইবন কাসীর এখানে একই বিষয়ের কয়েকটি বর্ণনা একত্র করেন: কিয়ামতের দিন সব বংশসম্পর্ক ছিন্ন হয়ে যাবে, কেবল নবী ﷺ-এর নিজের সম্পর্ক ছাড়া। একটি তিনি আনেন আহমাদ থেকে, মিসওয়ার ইবন মাখরামার সূত্রে। আরেকটি উমর (রাঃ) থেকে, যিনি বলেছিলেন উম্মু কুলসূম বিনতে আলীকে বিয়ের সময় কথাটা তিনি শুনেছিলেন। ইবন কাসীর এর উৎস দেখান তাবারানী, বাযযার ও বায়হাকী। মাআরিফুল কুরআন ইবন আসাকির থেকে কাছাকাছি একটি বর্ণনা আনে। এই প্রবন্ধ যে হাদীসগ্রন্থগুলো যাচাই করতে পারে, তার কোনোটিতেই এগুলো নিশ্চিত করা যায়নি। তাই এখানে কোনো কথা এগুলোর উপর দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "What can be confirmed is a general hadith, not attached to this verse by any tafsir read here. Sahih Muslim (2699) records a long saying of the Prophet ﷺ from Abu Hurayra, whose closing sentence, in Muslim's wording, is: wa-man batta'a bihi 'amaluhu lam yusri' bihi nasabuh. Its English translation reads: he who is slow-paced in doing good deeds, his (high) lineage does not make him go ahead. It says of this world what the verse says of the next: descent cannot carry a person whom his deeds leave behind.",
+            "bn": "যা নিশ্চিত করা যায়, তা একটি সাধারণ হাদীস। এখানে পড়া কোনো তাফসীর এটিকে এই আয়াতের সঙ্গে যুক্ত করেনি। সহীহ মুসলিম (২৬৯৯) আবূ হুরাইরা (রাঃ) থেকে নবী ﷺ-এর একটি দীর্ঘ বাণী বর্ণনা করে। মুসলিমের শব্দে তার শেষ বাক্যটি হলো: ওয়া মান বাত্তাআ বিহী আমালুহু লাম ইউসরি' বিহী নাসাবুহ। অর্থাৎ, যাকে তার আমল পিছিয়ে দেয়, তার বংশ তাকে এগিয়ে নিতে পারে না। আয়াতটি আখিরাতের কথা যা বলে, হাদীসটি সেই কথাই বলে এই দুনিয়ার জন্য।"
+          },
+          {
+            "en": "One difference among the commentators concerns whom the verse covers. Ma'arif al-Qur'an holds that this abandonment applies to the unbelievers only; for believers it cites 52:21, We shall join their offspring with them. Ibn Mas'ud's report, by contrast, speaks of every servant, man or woman, and Ibn Kathir and as-Sa'di describe the people as a whole. The verse follows the denier of 23:99 and 23:100, but the commentators read here do not settle the question between them, and neither does this article.",
+            "bn": "তাফসীরকারদের মধ্যে একটি পার্থক্য আছে, আয়াতটি কাদের কথা বলছে তা নিয়ে। মাআরিফুল কুরআনের মতে এই পরিত্যাগের অবস্থা কেবল কাফিরদের জন্য। মুমিনদের ব্যাপারে এটি ৫২:২১ আয়াত আনে: আমি তাদের সন্তানদের তাদের সঙ্গে মিলিয়ে দেব। অন্যদিকে ইবন মাসউদের বর্ণনা কথা বলে প্রত্যেক বান্দার, পুরুষ হোক বা নারী। ইবন কাসীর ও সা'দীও সাধারণভাবে সব মানুষের অবস্থা বর্ণনা করেন। আয়াতটি এসেছে ২৩:৯৯ ও ২৩:১০০ আয়াতের সেই অস্বীকারকারীর কথার পর। তবু এখানে পড়া তাফসীরগুলো প্রশ্নটার মীমাংসা করে না, এই প্রবন্ধও করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Debts Settled Before the Blast",
+          "bn": "ফুঁয়ের আগেই হিসাব মেটানো"
+        },
+        "p": [
+          {
+            "en": "A plain word on limits. The verse describes what the Day is described as being, and it licenses nothing against any living person or community. Nor is it a warrant to treat your own people coldly now. Al-Baghawi's sentence stands guard here: he did not mean that lineages are cut off. The verse speaks of what lineage cannot do on that Day, not of what it is worth in this world.",
+            "bn": "সীমার কথাটা সোজাসুজি বলা দরকার। আয়াতটি সেদিনের যে বর্ণনা দেয়, শুধু সেটুকুই দেয়। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। আজ নিজের লোকদের সঙ্গে শীতল আচরণের ছাড়পত্রও এটি নয়। বাগাভীর বাক্যটি এখানে পাহারা দেয়: তিনি এ কথা বোঝাননি যে বংশসম্পর্ক ছিন্ন হয়ে যায়। আয়াতটি বলছে, সেদিন বংশ কী করতে পারবে না। এই দুনিয়ায় তার মূল্য কত, সে কথা নয়।"
+          },
+          {
+            "en": "The next verse, 23:102, turns at once to the scales. Ibn Mas'ud's report leaves the reader a quieter lesson. The claims that woman is glad to find are not against strangers; they are against a son, a father, a brother, a husband. The debts that will be called out that Day are often run up at home. The time to settle them, in money, in words and in neglect, is while the Horn is still silent.",
+            "bn": "পরের আয়াত, ২৩:১০২, সঙ্গে সঙ্গে চলে যায় পাল্লার কথায়। ইবন মাসউদের বর্ণনা পাঠকের জন্য রেখে যায় আরও নিভৃত একটি শিক্ষা। সেই নারী যে পাওনা পেয়ে খুশি হয়, তা অচেনা কারও কাছে নয়। তা ছেলের কাছে, বাবার কাছে, ভাইয়ের কাছে, স্বামীর কাছে। সেদিন যে ঋণগুলোর ঘোষণা হবে, তার অনেকগুলোই জমে ঘরের ভেতরে। টাকায়, কথায় বা অবহেলায় যা বাকি, তা মেটানোর সময় এখনই, শিঙ্গা যতক্ষণ নীরব।"
+          }
+        ]
+      }
+    ]
+  },
   "23:103": {
     "sections": [
       {

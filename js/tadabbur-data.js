@@ -23991,6 +23991,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Mocking people who turn to God does not only wound them; it empties the mocker. Guard your tongue, and let no laugh crowd out your own remembrance.",
     "lessonBn": "যারা আল্লাহর দিকে ফেরে, তাদের নিয়ে ঠাট্টা শুধু তাদেরই আঘাত করে না, ঠাট্টাকারীকেও ভেতর থেকে শূন্য করে দেয়। জিভ সামলে রাখুন, কোনো হাসি যেন আপনার নিজের জিকিরের জায়গা দখল না করে।"
+  },
+  "23:101": {
+    "reflectionEn": "The Horn is blown, and the oldest of human questions goes unasked: whose son are you, which family, which tribe? Lineage, the tie people lean on most, buys nothing that Day, and no one turns to ask after anyone else. The commentators picture a crowd too shaken to boast, each person consumed with his own fate, and kin who meet not as protectors but as claimants, glad to find that a father or a spouse owes them something. The verse does not tell me to love my family less. It tells me what my family cannot do for me then, and what I still owe them now. Whose rights am I sitting on, and who will be glad to call my name?",
+    "reflectionBn": "শিঙ্গায় ফুঁ পড়ে, আর মানুষের সবচেয়ে পুরোনো প্রশ্নটা আর কেউ করে না: তুমি কার ছেলে, কোন বংশের, কোন গোত্রের? যে বন্ধনের উপর মানুষ সবচেয়ে বেশি ভর দেয়, সেদিন সেই বংশ কোনো কাজে আসে না। কেউ কারও খোঁজও নেয় না। তাফসীরকারেরা এমন এক ভিড়ের ছবি আঁকেন, যেখানে ভয়ে কেউ গর্ব করার অবস্থায় নেই, প্রত্যেকে নিজের পরিণতি নিয়ে ব্যস্ত। আপনজনেরা সেখানে রক্ষক হয়ে নয়, পাওনাদার হয়ে দেখা দেয়। বাবা বা স্বামী-স্ত্রীর কাছে কিছু পাওনা আছে জেনে তারা খুশি হয়। আয়াতটি পরিবারকে কম ভালোবাসতে বলে না। বলে, সেদিন পরিবার আমার জন্য কী করতে পারবে না, আর আজ তাদের কাছে আমার কী ঋণ বাকি। কার হক আমি আটকে রেখেছি? সেদিন কে আমার নাম শুনে খুশি হবে?",
+    "pointsEn": [
+      "If my family name were taken from me today, what would remain that I could actually bring to Allah?",
+      "Is there anyone in my own home who has a right against me, in money, in words or in neglect, that I have not yet settled?",
+      "Where do I still lean on who my people are, in pride or in excuse, instead of on what I do?",
+      "What would it mean for me to be so occupied with my own account that I could not ask after anyone else?",
+      "Which tie of kinship am I neglecting now, while it can still be mended and still be rewarded?"
+    ],
+    "pointsBn": [
+      "আজ যদি আমার বংশপরিচয় কেড়ে নেওয়া হয়, তবে আল্লাহর কাছে নিয়ে যাওয়ার মতো আমার আর কী থাকে?",
+      "আমার নিজের ঘরেই কি এমন কেউ আছে, যার হক আমার উপর রয়ে গেছে, টাকায়, কথায় বা অবহেলায়, আর আমি এখনো তা মিটাইনি?",
+      "কোথায় আমি এখনো আমলের বদলে নিজের লোকজনের পরিচয়ে ভর দিই, অহংকারে বা অজুহাতে?",
+      "নিজের হিসাব নিয়ে এতটা ব্যস্ত থাকা যে আর কারও খোঁজ নেওয়ার অবকাশ নেই, আমার জন্য এর মানে কী হবে?",
+      "আত্মীয়তার কোন বন্ধনটা আমি এখন অবহেলা করছি, যখনও তা জোড়া লাগানো যায় আর তার সওয়াবও পাওয়া যায়?"
+    ],
+    "lessonEn": "On the Day the Horn is blown your lineage will not carry you; settle what you owe your own people now and lean on your deeds, not your name.",
+    "lessonBn": "শিঙ্গায় ফুঁ দেওয়ার দিন বংশ আপনাকে বহন করবে না। আপনজনের কাছে যা ঋণ আছে আজই মিটিয়ে নিন, আর নামের উপর নয়, আমলের উপর ভরসা রাখুন।"
   }
 };
 
