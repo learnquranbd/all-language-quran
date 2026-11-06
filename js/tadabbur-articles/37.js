@@ -1039,6 +1039,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Halt to the Quarrel",
+          "bn": "থামানো থেকে বাদানুবাদে"
+        },
+        "p": [
+          {
+            "en": "The scene has moved on from the gathering. In 37:27 the people who were halted for questioning turn towards each other, yatasa'alun, putting questions to each other, and this verse gives the first words of that exchange. Qalu innakum kuntum ta'tunana 'ani l-yamin: they will say, you used to come at us from the right. It is six Arabic words, spoken by one party to the other. Who says them, and what the right side means, is where the commentators spend nearly all their effort on the verse.",
+            "bn": "জমায়েতের দৃশ্য পেরিয়ে এবার অন্য দৃশ্য। ৩৭:২৭ আয়াতে প্রশ্নের জন্য থামিয়ে রাখা লোকেরা একে অপরের দিকে মুখ ফেরায়, ইয়াতাসাআলূন, পরস্পরকে প্রশ্ন করতে থাকে। এই আয়াতে আসে সেই কথোপকথনের প্রথম কথাগুলো। কালূ ইন্নাকুম কুনতুম তা'তূনানা আনিল ইয়ামীন: তারা বলবে, তোমরা তো আমাদের কাছে আসতে ডান দিক থেকে। আরবিতে মাত্র ছয়টি শব্দ, একটি পক্ষ বলছে অন্য পক্ষকে। কথাগুলো কে বলছে, আর ডান দিক বলতে কী বোঝানো হয়েছে, এ আয়াতে তাফসীরকারদের প্রায় সব মনোযোগ এই দুই প্রশ্নে।"
+          },
+          {
+            "en": "Ibn Kathir opens by placing the verse among its parallels. Allah tells us, he says, that the disbelievers blame each other in the open grounds of the Resurrection, just as they dispute with each other in the levels of the Fire. He quotes 40:47 and 40:48, where the weak tell the arrogant that they were their followers and ask whether they can spare them some share of the Fire. He quotes 34:31 to 34:33, where those deemed weak say: were it not for you, we would have been believers. Here, he says, they put it this way.",
+            "bn": "ইবন কাসীর শুরুতেই আয়াতটিকে তার সমগোত্রীয় আয়াতগুলোর পাশে রাখেন। তিনি বলেন, আল্লাহ জানাচ্ছেন যে কাফিররা কিয়ামতের ময়দানে একে অপরকে দোষারোপ করবে, যেমন জাহান্নামের স্তরে স্তরে তারা পরস্পর ঝগড়া করবে। তিনি উদ্ধৃত করেন ৪০:৪৭ ও ৪০:৪৮। সেখানে দুর্বলেরা অহংকারীদের বলে, আমরা তো তোমাদের অনুসারী ছিলাম, তোমরা কি আগুনের কিছু অংশ আমাদের থেকে সরাতে পারবে? তিনি আরও আনেন ৩৪:৩১ থেকে ৩৪:৩৩, যেখানে দুর্বল বলে গণ্য লোকেরা বলে: তোমরা না থাকলে আমরা মুমিন হতাম। ইবন কাসীর বলেন, এখানে তারা কথাটা বলছে এভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Devils, Jinn, or Chiefs",
+          "bn": "শয়তান, জিন, নাকি নেতা"
+        },
+        "p": [
+          {
+            "en": "The commentators do not agree on the two parties. Mujahid, in the reports carried by at-Tabari, Ibn Kathir and al-Qurtubi, says these are the disbelievers speaking to the devils. Qatada says it is mankind speaking to the jinn, and at-Tabari adopts that in his own gloss: mankind said to the jinn, you, O jinn, used to come at us. Ibn Zayd, in the report at-Tabari carries, has the children of Adam saying it to the devils who disbelieved.",
+            "bn": "দুই পক্ষ কারা, এ নিয়ে তাফসীরকারেরা একমত নন। তাবারী, ইবন কাসীর ও কুরতুবী মুজাহিদের যে বর্ণনা এনেছেন, তাতে বলা হয়েছে, কথাটা কাফিরদের, তারা বলছে শয়তানদের। কাতাদা বলেন, মানুষ বলছে জিনদের। তাবারী নিজের ব্যাখ্যায় এই মতই নিয়েছেন: মানুষ জিনদের বলল, হে জিনেরা, তোমরা তো আমাদের কাছে আসতে। তাবারীর আনা বর্ণনায় ইবন যায়দ বলেন, কথাটা আদমসন্তানদের, তারা বলছে কুফরিতে লিপ্ত শয়তানদের।"
+          },
+          {
+            "en": "Others read the exchange as human followers addressing human leaders. Al-Baghawi glosses the speakers as the followers speaking to the chiefs, and as-Sa'di says the same: the followers to the ones they followed, the chiefs. The Muyassar frames it as the followers and the followed. Al-Qurtubi records this view under the words it is said, and gives its proof: 34:31, where the wrongdoers stand before their Lord throwing words back at one another, and those deemed weak answer those who were arrogant.",
+            "bn": "আরেক দল ব্যাখ্যা করেন, এ হলো মানুষ অনুসারীদের কথা, মানুষ নেতাদের উদ্দেশে। বাগাভী বক্তাদের পরিচয় দেন এভাবে: অনুসারীরা বলছে নেতাদের। সা'দীও একই কথা বলেন: যাদের অনুসরণ করা হতো সেই নেতাদের উদ্দেশে অনুসারীরা বলছে। মুয়াসসারও কথাটা সাজিয়েছে অনুসারী আর অনুসৃতদের মধ্যে। কুরতুবী এই মত এনেছেন 'বলা হয়' দিয়ে, সঙ্গে দলিলও দিয়েছেন: ৩৪:৩১। সেখানে যালিমরা তাদের রবের সামনে দাঁড়িয়ে একে অপরের দিকে কথা ছুড়ে দেয়, আর দুর্বল বলে গণ্য লোকেরা অহংকারীদের জবাব দেয়।"
+          },
+          {
+            "en": "Ibn Kathir's abridged English, on this group of verses, speaks at 37:29 of the leaders of the jinn and of mankind replying to their followers, holding both readings together. In each view, those who were led accuse those who led them, the ones who made a path look right. The verse names neither party, and this article keeps the disagreement as it stands.",
+            "bn": "এই আয়াতগুচ্ছের আলোচনায় ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৩৭:২৯-এ বলে, জিন ও মানুষের নেতারা তাদের অনুসারীদের জবাব দেবে। এতে দুই ব্যাখ্যাই একসঙ্গে ধরা পড়ে। প্রতিটি মতেই যাদের চালানো হয়েছিল তারা দোষ দেয় চালকদের, যারা একটা পথকে সঠিক বলে দেখিয়েছিল। আয়াতটি কোনো পক্ষেরই নাম নেয়নি, তাই এ লেখা মতভেদটাকে যেমন আছে তেমনই রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Right Hand as Power",
+          "bn": "ডান হাত মানে শক্তি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes al-yamin as a word for power. In his gloss the jinn came at mankind from the side of religion and truth, deceiving them by the strongest of means, and he gives the reason: al-yamin is strength and power in the speech of the Arabs. He cites a line of poetry, when a banner is raised for glory, 'Araba receives it with the right hand, meaning, he says, with strength and power. He then states that the people of interpretation said something similar, and lists their reports.",
+            "bn": "তাবারী আল-ইয়ামীনকে শক্তি অর্থে নেন। তাঁর ব্যাখ্যায় জিনেরা মানুষের কাছে আসত দীন ও সত্যের দিক থেকে, আর সবচেয়ে জোরালো কৌশলে তাদের ধোঁকা দিত। কারণও তিনি বলেন: আরবদের ভাষায় ইয়ামীন মানে শক্তি ও সামর্থ্য। প্রমাণ হিসেবে তিনি এক কবির পঙক্তি আনেন: গৌরবের জন্য যখনই কোনো পতাকা তোলা হয়, আরাবা তা ডান হাতে তুলে নেয়। তাবারী বলেন, এর মানে শক্তি ও সামর্থ্য দিয়ে। তারপর তিনি জানান, তাফসীরের আলেমরাও কাছাকাছি কথা বলেছেন, এবং তাঁদের বর্ণনাগুলো একে একে আনেন।"
+          },
+          {
+            "en": "Al-Qurtubi records the same sense with a proof from the Qur'an: 37:93, where Ibrahim (AS) turned on the idols striking with the right hand, that is, with strength, since a man's strength lies in his right hand. He says this is the view of Ibn 'Abbas. Al-Baghawi lists it with 69:45, We would have seized him by the right hand. As-Sa'di gives only this reading: with force and domination you misled us, and were it not for you we would have been believers.",
+            "bn": "কুরতুবীও এই অর্থ উল্লেখ করেছেন, সঙ্গে কুরআন থেকে দলিল দিয়েছেন: ৩৭:৯৩। সেখানে ইবরাহীম (আঃ) মূর্তিগুলোর উপর ঝাঁপিয়ে পড়ে ডান হাতে আঘাত করেন, মানে শক্তি দিয়ে, কারণ মানুষের শক্তি থাকে তার ডান হাতে। তিনি বলেন, এটা ইবন আব্বাস (রাঃ)-এর মত। বাগাভী এই অর্থের পাশে রাখেন ৬৯:৪৫: আমি অবশ্যই তার ডান হাত ধরে ফেলতাম। সা'দী শুধু এই একটি ব্যাখ্যাই দেন: শক্তি আর আধিপত্য দিয়ে তোমরা আমাদের পথভ্রষ্ট করেছিলে, তোমরা না থাকলে আমরা মুমিন হতাম।"
+          },
+          {
+            "en": "Ibn Kathir carries the plainest form of it, from ad-Dahhak, from Ibn 'Abbas: they say, you used to overpower us by the power you held over us, because we were lowly and you were mighty. Ma'arif al-Qur'an, commenting on this verse with the four after it, calls powerfully or forcefully one possible meaning, says its own translation rests on it, and finds it fairly clear. On this reading the complaint is about pressure. We did not choose, the followers say; we were pushed.",
+            "bn": "সবচেয়ে সোজা রূপটা আনেন ইবন কাসীর, যাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে। তারা বলবে, আমাদের উপর তোমাদের যে ক্ষমতা ছিল, তা দিয়ে তোমরা আমাদের দাবিয়ে রাখতে, কারণ আমরা ছিলাম অসহায় আর তোমরা ছিলে প্রতাপশালী। মাআরিফুল কুরআন এই আয়াত ও পরের চারটি আয়াত একসঙ্গে আলোচনা করে বলে, এর একটি সম্ভাব্য অর্থ জোর খাটিয়ে বা বলপ্রয়োগ করে। তাদের অনুবাদ এই অর্থের উপরই দাঁড়ানো, আর অর্থটিকে তারা বেশ পরিষ্কার মনে করে। এ ব্যাখ্যায় অভিযোগটা চাপের। অনুসারীরা যেন বলছে, আমরা নিজেরা বেছে নিইনি, আমাদের ঠেলে দেওয়া হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Approaching Through Religion",
+          "bn": "দীনের পথ ধরে আসা"
+        },
+        "p": [
+          {
+            "en": "Most of the early reports take the right as the side of religion and good. Mujahid, in at-Tabari and Ibn Kathir, says simply: from the truth. Al-Baghawi gives his words as from the true path, and explains that al-yamin is an expression for religion and truth, as Allah reports of Iblis in 7:17: then I will come at them from before them, from behind them, and from their right. Whoever the devil approaches from the right, al-Baghawi says, he approaches through religion, and makes the truth confused for him.",
+            "bn": "প্রাচীন বর্ণনাগুলোর বেশিরভাগ ডান দিককে দীন ও কল্যাণের দিক হিসেবে নিয়েছে। তাবারী ও ইবন কাসীরের আনা বর্ণনায় মুজাহিদ সংক্ষেপে বলেন: সত্যের দিক থেকে। বাগাভী তাঁর কথাটা এনেছেন এভাবে: সত্য পথের দিক থেকে। বাগাভী ব্যাখ্যা করেন, ইয়ামীন দিয়ে দীন ও সত্য বোঝানো হয়। যেমন ৭:১৭-তে আল্লাহ ইবলীসের কথা জানিয়েছেন: তারপর আমি তাদের কাছে আসব তাদের সামনে থেকে, পেছন থেকে আর ডান দিক থেকে। বাগাভীর ভাষায়, শয়তান যার কাছে ডান দিক থেকে আসে, সে আসে দীনের পথ ধরে, আর তার সামনে সত্যকে গুলিয়ে দেয়।"
+          },
+          {
+            "en": "The other reports fill in what that approach did. Qatada: from the side of good, forbidding us from it and slowing us down. As-Suddi: from the side of truth, making falsehood look fair and barring us from the truth. Ibn Zayd: you came between us and good, and turned us back from Islam, faith and the good deeds Allah commanded. Ibn Kathir adds al-Hasan: yes, by Allah, he comes to a person at every good he means to do, and bars him from it.",
+            "bn": "বাকি বর্ণনাগুলো খুলে বলে, এভাবে এসে তারা কী করত। কাতাদা বলেন: কল্যাণের দিক থেকে আসতে, তারপর তা থেকে আমাদের নিষেধ করতে, পিছিয়ে দিতে। সুদ্দী বলেন: সত্যের দিক থেকে আসতে, বাতিলকে আমাদের চোখে সুন্দর করে দেখাতে, আর সত্য থেকে আমাদের আটকে রাখতে। ইবন যায়দ বলেন: তোমরা আমাদের আর কল্যাণের মাঝে আড়াল হয়ে দাঁড়াতে। ইসলাম, ঈমান আর আল্লাহর হুকুম করা নেক আমল থেকে আমাদের ফিরিয়ে দিতে। ইবন কাসীর হাসানের কথাও আনেন: হ্যাঁ, আল্লাহর কসম, মানুষ যখনই কোনো ভালো কাজের ইচ্ছা করে, সে তার কাছে আসে আর তাকে বাধা দেয়।"
+          },
+          {
+            "en": "Yazid ar-Rishk, in Ibn Kathir, narrows it to a single point: from the side of there is no god but Allah. The Muyassar states the reading fully. You came at us from the side of religion and truth, it says, making the matter of the Shari'a seem light to us, putting us off it, and making misguidance look attractive. Al-Qurtubi records the same words and then gives his own judgement: this view is very good, because it is from the side of religion that good and evil both come.",
+            "bn": "ইবন কাসীরের আনা বর্ণনায় ইয়াযীদ আর-রিশক কথাটাকে এক বিন্দুতে এনে দাঁড় করান: লা ইলাহা ইল্লাল্লাহর দিক থেকে। মুয়াসসার ব্যাখ্যাটা পুরোপুরি বলে দেয়। তোমরা আমাদের কাছে আসতে দীন ও সত্যের দিক থেকে। শরীয়তের ব্যাপারটা আমাদের কাছে হালকা করে দেখাতে, তা থেকে আমাদের বিমুখ করতে, আর গোমরাহিকে আকর্ষণীয় করে তুলতে। কুরতুবী একই কথা উল্লেখ করে নিজের মত দেন: এই ব্যাখ্যা খুবই চমৎকার, কারণ ভালো আর মন্দ দুটোই আসে দীনের দিক থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good Omens and Sworn Words",
+          "bn": "শুভ লক্ষণ আর কসমের কথা"
+        },
+        "p": [
+          {
+            "en": "Two further readings turn on the customs of the Arabs. Al-Qurtubi reports one under the words it is said: you came at us from the right, the side we love and take as a good omen, to tempt us by it from the direction of sincere advice. The Arabs, he explains, took a good omen from whatever came from the right, and called it as-sanih. On this reading the tempter arrives looking like a welcome sign, the friend whose counsel is wanted, and that is what lowers the guard.",
+            "bn": "আরও দুটি ব্যাখ্যা দাঁড়িয়ে আছে আরবদের রীতির উপর। একটি কুরতুবী এনেছেন 'বলা হয়' দিয়ে: তোমরা আমাদের কাছে আসতে ডান দিক থেকে, যে দিক আমরা ভালোবাসি আর শুভ লক্ষণ মনে করি, যাতে কল্যাণকামিতার চেহারা নিয়ে আমাদের ফুসলাতে পারো। তিনি ব্যাখ্যা করেন, ডান দিক থেকে যা আসত, আরবরা তাকে শুভ লক্ষণ ধরত, আর তার নাম দিত সানিহ। এ ব্যাখ্যায় প্ররোচনাকারী আসে শুভ সংকেতের রূপে, এমন বন্ধুর বেশে যার পরামর্শ সবাই চায়। আর ঠিক এ কারণেই মানুষ সতর্কতা ঢিলে করে দেয়।"
+          },
+          {
+            "en": "The second takes yamin in its other sense, an oath. Al-Baghawi reports that some said the chiefs used to swear to their followers that what they called to was the truth, so the meaning is: you came from the direction of the oaths you swore, which we trusted. Al-Qurtubi has it as coming the way a man comes whom we believe when he swears. Ma'arif al-Qur'an gives it too, you assured us on oath that our creed was correct, and judges this and the force reading both possible in the Qur'an's words.",
+            "bn": "দ্বিতীয় ব্যাখ্যায় ইয়ামীন শব্দটি নেওয়া হয়েছে তার আরেক অর্থে, কসম। বাগাভী জানান, কেউ কেউ বলেছেন, নেতারা অনুসারীদের কাছে কসম খেয়ে বলত যে তাদের ডাকই সত্য। তাহলে অর্থ দাঁড়ায়: তোমরা আসতে তোমাদের খাওয়া সেই কসমের দিক থেকে, যার উপর আমরা ভরসা করতাম। কুরতুবীর ভাষায়: তোমরা আসতে এমন লোকের মতো, যে কসম খেলে আমরা বিশ্বাস করে ফেলি। মাআরিফুল কুরআনও এই অর্থ এনেছে: তোমরা কসম খেয়ে আমাদের নিশ্চিত করেছিলে যে আমাদের আকীদাই ঠিক। কুরআনের শব্দে এই অর্থ আর বলপ্রয়োগের অর্থ, দুটোকেই তারা সম্ভব মনে করে।"
+          },
+          {
+            "en": "Two short notes in Ibn Kathir point the same way. 'Ikrima says: from where we felt safe with you. Khusayf takes the words at their most literal: they mean from their right sides. Whether the right is power, religion, a good omen or an oath, the readings share a thread. The approach came from the side a person does not guard, because it is the side he trusts.",
+            "bn": "ইবন কাসীরের আনা দুটি ছোট মন্তব্যও একই দিকে ইশারা করে। ইকরিমা বলেন: যেদিক থেকে আমরা তোমাদের নিরাপদ ভাবতাম। খুসায়ফ শব্দগুলোকে নেন একেবারে আক্ষরিক অর্থে: তারা বোঝাচ্ছে তাদের ডান পাশ থেকে। ডান দিক মানে শক্তি হোক, দীন হোক, শুভ লক্ষণ হোক বা কসম, ব্যাখ্যাগুলোর ভেতরে একটা সুতো আছে। প্ররোচনাটা এসেছিল সেই দিক থেকে, যেদিকে মানুষ পাহারা রাখে না, কারণ সেদিকটাকেই সে ভরসা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Reading Comes First",
+          "bn": "কোন ব্যাখ্যা অগ্রগণ্য"
+        },
+        "p": [
+          {
+            "en": "The commentators weigh these readings differently, and the difference is worth keeping. Al-Baghawi closes his list with a verdict: the commentators hold the first view, that the right means religion. Al-Qurtubi calls that reading very good, yet ends by saying all of it is close in meaning. Ma'arif al-Qur'an finds force the clearer sense while accepting the oath reading too. At-Tabari joins religion and force in his own gloss: through religion and truth, by the strongest of means.",
+            "bn": "ব্যাখ্যাগুলোর ওজন তাফসীরকারেরা ভিন্নভাবে করেছেন, আর এই ভিন্নতাটুকু ধরে রাখার মতো। বাগাভী তালিকা শেষ করেন একটি রায় দিয়ে: তাফসীরকারেরা প্রথম মতের উপর, অর্থাৎ ডান দিক মানে দীন। কুরতুবী সেই ব্যাখ্যাকে খুবই চমৎকার বলেন, তবে শেষে বলেন, সবগুলোর অর্থ কাছাকাছি। মাআরিফুল কুরআনের কাছে বলপ্রয়োগের অর্থ বেশি পরিষ্কার, তবে কসমের অর্থও তারা মেনে নেয়। তাবারী নিজের ব্যাখ্যায় দীন আর শক্তিকে মিলিয়েছেন: দীন ও সত্যের পথ ধরে, সবচেয়ে জোরালো কৌশলে।"
+          },
+          {
+            "en": "Even Ibn 'Abbas is reported in different forms. Ibn Kathir has him, through ad-Dahhak, on force: you overpowered us because we were lowly. Al-Qurtubi names force as his view, and also says that something like Qatada's path of good is reported from him. Al-Baghawi gives the religion gloss under ad-Dahhak's name, with no mention of Ibn 'Abbas. This article reports each as its source gives it and takes no side. None of the tafsir texts fetched for this verse attaches a hadith to it, so none is cited here.",
+            "bn": "ইবন আব্বাস (রাঃ) থেকেও কথাটা এসেছে একাধিক রূপে। ইবন কাসীরের বর্ণনায়, যাহহাকের সূত্রে, তিনি বলপ্রয়োগের অর্থ নেন: আমরা অসহায় ছিলাম বলে তোমরা আমাদের দাবিয়ে রাখতে। কুরতুবীও বলপ্রয়োগকে তাঁর মত বলে উল্লেখ করেন। আবার এ-ও বলেন যে কাতাদার কল্যাণের পথের ব্যাখ্যার কাছাকাছি কথাও তাঁর থেকে বর্ণিত। বাগাভী দীনের ব্যাখ্যা এনেছেন যাহহাকের নামে, ইবন আব্বাসের নাম সেখানে নেই। প্রতিটি সূত্র যেভাবে এনেছে, এ লেখা সেভাবেই তুলে ধরছে, কোনো পক্ষ নিচ্ছে না। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস আনা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Leaders Answer Back",
+          "bn": "নেতাদের পাল্টা জবাব"
+        },
+        "p": [
+          {
+            "en": "The complaint gets no acquittal. In 37:29 and 37:30 the accused answer: rather, you were not believers, and we had no authority over you; rather, you were a transgressing people. The Muyassar renders it: the matter is not as you claim; your hearts rejected faith and were open to disbelief and disobedience. Ibn Kathir's abridged English reads the authority, sultan, as proof: we had no proof of the truth of what we called you to. You answered us, he has them say, and left the truth that the Prophets brought with proof.",
+            "bn": "অভিযোগের ফলে অনুসারীরা দায়মুক্ত হয় না। ৩৭:২৯ ও ৩৭:৩০ আয়াতে অভিযুক্তরা জবাব দেয়: বরং তোমরাই মুমিন ছিলে না, তোমাদের উপর আমাদের কোনো কর্তৃত্বও ছিল না, বরং তোমরা ছিলে সীমালঙ্ঘনকারী জাতি। মুয়াসসারের ভাষায়: তোমরা যা দাবি করছ ব্যাপারটা তেমন নয়, তোমাদের অন্তর ঈমানকে অস্বীকার করত আর কুফরি ও নাফরমানি গ্রহণ করে নিত। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এখানে কর্তৃত্ব, সুলতান, শব্দটিকে প্রমাণ অর্থে নেয়: যেদিকে ডাকতাম, তা যে সত্য তার কোনো প্রমাণ আমাদের ছিল না। তোমরা আমাদের ডাকে সাড়া দিয়েছ, আর নবীরা প্রমাণসহ যে সত্য এনেছিলেন তা ছেড়ে দিয়েছ।"
+          },
+          {
+            "en": "Then, in 37:31 and 37:32, comes an admission: our Lord's word has come true against us, and we led you astray, for we were astray ourselves. In the same abridged English, they called the followers to the path they were on, and the followers responded. 37:33 then closes the exchange: that Day they all share in the punishment, each, Ibn Kathir's abridged English adds, according to what he deserves. The one who called and the one who answered each carry a share.",
+            "bn": "তারপর ৩৭:৩১ ও ৩৭:৩২ আয়াতে আসে স্বীকারোক্তি: আমাদের উপর আমাদের রবের কথা সত্য হয়েছে, আর আমরাই তোমাদের পথভ্রষ্ট করেছিলাম, কারণ আমরা নিজেরাও পথভ্রষ্ট ছিলাম। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, যে পথে তারা নিজেরা ছিল, অনুসারীদের সেদিকে ডেকেছিল, আর অনুসারীরা সাড়া দিয়েছিল। তারপর ৩৭:৩৩ কথোপকথনের ইতি টানে: সেদিন তারা সবাই আযাবে শরীক। একই সংস্করণ যোগ করে, প্রত্যেকে যার যার প্রাপ্য অনুযায়ী। যে ডেকেছিল আর যে সাড়া দিয়েছিল, দায়ের ভাগ দুজনেরই।"
+          },
+          {
+            "en": "This scene needs a plain word about its limits. The verse describes what it describes: on the Day of Judgement, people gathered with what they worshipped besides Allah turn on the ones who led them, whether devils, jinn or human chiefs. It names no one in this world. It licenses nothing against any living person or community, and the word leaders in this passage is not to be fitted onto any present-day figure. Its use for a reader is inward.",
+            "bn": "এই দৃশ্যের সীমা নিয়ে সোজা কথা বলা দরকার। আয়াতটি শুধু সেটুকুই বর্ণনা করে, যা তাতে আছে। বিচারের দিন আল্লাহ ছাড়া যাদের ইবাদত করা হতো, তাদের সঙ্গে জড়ো করা লোকেরা নিজেদের নেতাদের বিরুদ্ধে মুখ খোলে, সে নেতা শয়তান হোক, জিন হোক বা মানুষ। এ দুনিয়ার কারও নাম এখানে নেই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এখানকার নেতা শব্দটিকে বর্তমান কালের কোনো ব্যক্তির উপর বসানো চলবে না। পাঠকের জন্য এর কাজ ভেতরের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Testing the Voice on the Right",
+          "bn": "ডান দিকের কণ্ঠ যাচাই"
+        },
+        "p": [
+          {
+            "en": "Taken together, the readings warn that misguidance seldom arrives openly. It comes wearing religion, sworn to, or backed by strength, and each makes the false look like the safe side. The reply in 37:30 shows what lay underneath: no proof, and no authority beyond what the followers handed over. A claim made in religion's name still needs its evidence, and the speaker's confidence is not that evidence. Of any voice from the right, a reader can ask: what is its proof?",
+            "bn": "ব্যাখ্যাগুলো একসঙ্গে পড়লে একটা সতর্কবার্তা বেরিয়ে আসে: গোমরাহি সচরাচর খোলাখুলি আসে না। আসে দীনের লেবাস পরে, কসমের জোরে, বা শক্তির ভরসায়। আর এর প্রতিটিই মিথ্যাকে নিরাপদ দিকের মতো দেখায়। ৩৭:৩০ আয়াতের জবাব দেখিয়ে দেয়, ভেতরে কী ছিল না। কোনো প্রমাণ ছিল না, আর অনুসারীরা নিজেরা যতটুকু তুলে দিয়েছিল, তার বাইরে কোনো কর্তৃত্বও ছিল না। তাই দীনের নামে বলা কথারও দলিল লাগে, আর বক্তার আত্মবিশ্বাস সেই দলিল নয়। ডান দিক থেকে আসা যেকোনো কণ্ঠকে পাঠক জিজ্ঞেস করতে পারেন: এর প্রমাণ কী?"
+          },
+          {
+            "en": "The verse also turns on whoever speaks it. The followers' first words on that Day are an accusation, and the answer refuses to carry their share. Al-Hasan's note brings this into ordinary days: at every good a person means to do, something comes to bar him from it. That leaves three questions. Which good did I intend and let someone talk me out of? Whose word did I trust without testing it? And where do others follow me, so that my own words reach them from the right?",
+            "bn": "আয়াতটি বক্তার দিকেও ফিরে তাকায়। সেদিন অনুসারীদের মুখের প্রথম কথাটা অভিযোগ, আর জবাবে তাদের দায়ের ভাগ বয়ে দিতে কেউ রাজি নয়। হাসানের মন্তব্য লড়াইটাকে নিয়ে আসে রোজকার জীবনে: মানুষ যখনই কোনো ভালো কাজের ইচ্ছা করে, তাকে বাধা দিতে কিছু একটা এসে হাজির হয়। পাঠকের সামনে তাই তিনটি প্রশ্ন থাকে। কোন ভালো কাজের নিয়ত করে আমি কারও কথায় পিছিয়ে এসেছি? কার কথা যাচাই না করেই ভরসা করেছি? আর কোথায় অন্যরা আমার অনুসরণ করে, যেখানে আমার নিজের কথাই তাদের কাছে পৌঁছায় ডান দিক থেকে?"
+          }
+        ]
+      }
+    ]
+  },
   "37:35": {
     "sections": [
       {

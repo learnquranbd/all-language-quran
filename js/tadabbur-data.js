@@ -25709,6 +25709,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A reminder heard is not yet a reminder taken. When you are reminded of what you already know, let it change what you do instead of letting it pass.",
     "lessonBn": "উপদেশ শোনা আর উপদেশ নেওয়া এক কথা নয়। যা আগে থেকেই জানেন, তা কেউ মনে করিয়ে দিলে সেটাকে পাশ কাটিয়ে যেতে দেবেন না, বরং তা দিয়ে নিজের কাজ বদলান।"
+  },
+  "37:28": {
+    "reflectionEn": "On the Day of Judgement the followers turn to the ones they followed, and they speak first. You used to come at us from the right, they say. The commentators hear several things in that phrase: you came at us through religion and the look of good counsel, you pressed on us with power, you swore that your way was the true one. Each is a complaint that falsehood was made to look like the safe side. The reply in the next verses is short: you were not believers, and we had no authority over you. Both sides then share the punishment. That leaves me a question for today. Whose voice reaches me dressed as good advice, and do I test it, or trust it because of who is speaking?",
+    "reflectionBn": "বিচারের দিন অনুসারীরা মুখ ফেরায় তাদের দিকে, যাদের পেছনে তারা চলেছিল। কথা শুরু করে তারাই: তোমরা তো আমাদের কাছে আসতে ডান দিক থেকে। তাফসীরকারেরা এই এক কথার ভেতরে কয়েকটি অর্থ শোনেন। তোমরা এসেছিলে দীনের পথ ধরে, শুভাকাঙ্ক্ষীর চেহারা নিয়ে। তোমরা ক্ষমতা দিয়ে আমাদের চেপে ধরেছিলে। তোমরা কসম খেয়ে বলেছিলে, তোমাদের পথই সত্য। প্রতিটি অভিযোগের সারকথা একই: মিথ্যাকে নিরাপদ দিক বলে দেখানো হয়েছিল। পরের আয়াতগুলোতে জবাব আসে ছোট্ট করে: তোমরা নিজেরাই মুমিন ছিলে না, তোমাদের উপর আমাদের কোনো কর্তৃত্বও ছিল না। তারপর দুই দলই একই আযাবে শরীক। আমার জন্য প্রশ্নটা আজকের। কার কথা আমার কাছে আসে ভালো পরামর্শের পোশাক পরে? আমি কি তা যাচাই করি, নাকি কে বলছে শুধু সেটা দেখেই মেনে নিই?",
+    "pointsEn": [
+      "Whose word do I accept on matters of religion simply because of who says it, without asking for its proof?",
+      "When someone stronger presses me to drop something good, do I tell myself that the pressure excuses me?",
+      "Has an oath, a confident tone or a high position ever made something false feel safe to me?",
+      "Where have I blamed another person for a choice that, in the end, was mine to make?",
+      "Which good thing did I intend this week, and then let someone talk me out of?"
+    ],
+    "pointsBn": [
+      "দীনের ব্যাপারে কার কথা আমি শুধু বক্তার পরিচয় দেখেই মেনে নিই, প্রমাণ চাই না?",
+      "আমার চেয়ে শক্তিশালী কেউ যখন কোনো ভালো কাজ ছেড়ে দিতে চাপ দেয়, আমি কি মনকে বোঝাই যে চাপটাই আমার অজুহাত?",
+      "কারও কসম, জোরালো গলা বা উঁচু পদ কি কখনো কোনো মিথ্যাকে আমার কাছে নিরাপদ মনে করিয়েছে?",
+      "কোন সিদ্ধান্তের দোষ আমি অন্যের ঘাড়ে চাপিয়েছি, অথচ শেষ পর্যন্ত বেছে নেওয়াটা ছিল আমারই?",
+      "এ সপ্তাহে কোন ভালো কাজের নিয়ত করেছিলাম, তারপর কারও কথায় তা থেকে সরে এসেছি?"
+    ],
+    "lessonEn": "Do not let power, oaths or a religious appearance stand in for proof. On that Day, blaming the ones you followed will not lift the responsibility for following them.",
+    "lessonBn": "ক্ষমতা, কসম বা দীনদারির চেহারাকে প্রমাণের জায়গা নিতে দেবেন না। সেদিন যাদের অনুসরণ করেছেন তাদের দোষ দিলেও অনুসরণের দায় আপনার কাঁধ থেকে নামবে না।"
   }
 };
 
