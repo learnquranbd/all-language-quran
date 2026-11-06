@@ -143,6 +143,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Oath, the Need",
+          "bn": "শপথের পর প্রয়োজনের কথা"
+        },
+        "p": [
+          {
+            "en": "Li-tundhira qawman ma undhira aba'uhum fa-hum ghafilun: so that you may warn a people whose fathers were not warned, so they are heedless. Seven Arabic words complete the thought the surah opened with. As-Sa'di traces the order: having sworn to the Prophet's mission and set out its proofs, Allah now names how great the need for it was, and how pressing the necessity. The oath had settled that he was sent. This verse says why he was sent, and to whom the warning was first addressed.",
+            "bn": "লিতুনযিরা কাওমাম মা উনযিরা আবাউহুম ফাহুম গাফিলূন: যাতে তুমি সতর্ক করো এমন এক কওমকে, যাদের বাপ-দাদাদের সতর্ক করা হয়নি, ফলে তারা উদাসীন। আরবিতে সাতটি শব্দ, আর তাতেই সূরার শুরুর কথাটা পূর্ণ হয়। সা'দী এর ধারাটা দেখিয়ে দেন। আল্লাহ প্রথমে নবী ﷺ-এর রিসালাতের উপর শপথ করেছেন, তার দলিল দাঁড় করিয়েছেন। এবার বলছেন, এই রিসালাতের প্রয়োজন কত গভীর ছিল, আর তা কতটা অনিবার্য হয়ে উঠেছিল। তিনি যে প্রেরিত, শপথ সেটা নিশ্চিত করেছে। এ আয়াত বলছে কেন পাঠানো হলো, আর সতর্কবাণী প্রথমে কাদের উদ্দেশে।"
+          },
+          {
+            "en": "The Muyassar supplies what the opening particle hangs on: We sent it down to you, O Messenger, so that you may caution with it a people whose fathers were not warned before you, and they are the Arabs. It then glosses the last word. These people, it says, are inattentive to faith and to steady perseverance in righteous deeds. That paraphrase already reads ma as a negation. Not every commentator read it so, and the next sections set out how the disagreement runs.",
+            "bn": "শুরুর ‘লি’ কোন ক্রিয়ার সঙ্গে যুক্ত, মুয়াসসার সেটা খুলে বলে: হে রসূল, আমি এটা আপনার উপর নাজিল করেছি, যাতে এর মাধ্যমে আপনি এমন এক কওমকে সাবধান করেন, যাদের বাপ-দাদাদের আপনার আগে সতর্ক করা হয়নি। এরা হলো আরব। শেষ শব্দটির ব্যাখ্যাও সে দেয়: এরা ঈমান থেকে আর নেক আমলে অবিচল থাকা থেকে বেখেয়াল। এই ব্যাখ্যা ‘মা’ শব্দটিকে আগেই না-বাচক ধরে নিয়েছে। সব মুফাসসির অবশ্য এভাবে পড়েননি। মতভেদটা কীভাবে চলেছে, পরের অংশগুলো তা খুলে দেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Warned, or Warned Of",
+          "bn": "সতর্ক করা হয়নি, নাকি হয়েছিল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens his comment with a plain statement: the people of interpretation differed over this clause. The difference turns on one small word, ma, which in Arabic can deny a fact or point to a thing. Read as a denial, ma undhira aba'uhum means their fathers were not warned. Read as the relative what, it means that you may warn a people of what their fathers were warned of. The recited text is the same either way, so the question is one of grammar and of history.",
+            "bn": "তাবারী তাঁর আলোচনা শুরু করেন সোজা একটি কথায়: এ অংশের ব্যাখ্যায় তাফসীরবিদেরা ভিন্নমত পোষণ করেছেন। মতভেদ ঘোরে ছোট্ট একটি শব্দকে ঘিরে, ‘মা’। আরবিতে এটি কোনো কিছু অস্বীকার করতে পারে, আবার কোনো কিছুর দিকে ইশারাও করতে পারে। না-বাচক ধরলে ‘মা উনযিরা আবাউহুম’ মানে তাদের বাপ-দাদাদের সতর্ক করা হয়নি। আর ‘যা’ অর্থে ধরলে মানে দাঁড়ায়: যাতে তুমি এক কওমকে সেই বিষয়ে সতর্ক করো, যে বিষয়ে তাদের বাপ-দাদাদের সতর্ক করা হয়েছিল। তিলাওয়াতের শব্দ দুই ক্ষেত্রেই এক। প্রশ্নটা তাই ব্যাকরণের, আর ইতিহাসের।"
+          },
+          {
+            "en": "At-Tabari gives the affirming view first. Through his chain to Shu'ba from Simak, 'Ikrima says of this verse: qad undhiru, they had been warned. At-Tabari phrases the sense: that you may warn a people with what Allah warned those before them among their fathers. Others, he says, took the meaning the opposite way, and he cites Qatada through Sa'id, whose report holds both views. Some, Qatada says, read it as warning them with the warning given to people before them; others read it as this nation, to whom no warner came until Muhammad ﷺ came to them.",
+            "bn": "তাবারী প্রথমে আনেন হ্যাঁ-বাচক মতটি। শু'বা থেকে সিমাকের সূত্রে নিজের সনদে তিনি ইকরিমার কথা বর্ণনা করেন। এ আয়াত সম্পর্কে ইকরিমা বলেন: ‘কাদ উনযিরূ’, তাদের সতর্ক করা হয়েছিল। তাবারী অর্থটা এভাবে সাজান: যাতে তুমি এক কওমকে সতর্ক করো সেই কথা দিয়ে, যা দিয়ে আল্লাহ তাদের আগের বাপ-দাদাদের সতর্ক করেছিলেন। তারপর বলেন, অন্যরা অর্থটা নিয়েছেন উল্টো দিকে। এর প্রমাণে তিনি সাঈদের সূত্রে কাতাদার বর্ণনা আনেন, আর সেই বর্ণনায় দুটো মতই আছে। কাতাদা বলেন, কেউ কেউ বুঝেছেন: তাদের সতর্ক করো সেই সতর্কবাণী দিয়ে, যা তাদের আগের লোকদের দেওয়া হয়েছিল। আর কেউ কেউ বুঝেছেন: এই উম্মতের কাছে কোনো সতর্ককারী আসেনি, যতক্ষণ না মুহাম্মাদ ﷺ এলেন।"
+          },
+          {
+            "en": "So one early authority, Qatada, stands on both sides of the question, reporting each view as something people said. At-Tabari does not, in the passage fetched for this verse, decide between the two in his own voice. The reader is left with a disagreement as old as the earliest commentary, and it is best kept as one, with each side given its own names and its own reasons.",
+            "bn": "অর্থাৎ প্রথম যুগের একই ব্যক্তি, কাতাদা, প্রশ্নটির দুই দিকেই আছেন। দুটো মতকেই তিনি মানুষের বলা কথা হিসেবে বর্ণনা করেছেন। এ আয়াতের যে অংশটুকু এখানে পড়া হয়েছে, তাতে তাবারী নিজের ভাষায় দুই মতের মধ্যে কোনোটিকে বেছে নেননি। পাঠকের হাতে তাই থেকে যায় এমন এক মতভেদ, যা প্রথম যুগের তাফসীরের মতোই পুরোনো। মতভেদ হিসেবেই একে রাখা ভালো, প্রতিটি পক্ষকে তার নিজের নাম আর নিজের যুক্তিসহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Small Fa Sits",
+          "bn": "ছোট্ট ‘ফা’ কোথায় বসে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari next reports how the Arabic grammarians handled ma when it is taken as something other than a denial. A grammarian of Basra, unnamed in the text, says the sense would then be: to warn them of that which their fathers were warned of. But on that meaning, he says, the entry of the fa in fa-hum ghafilun, so they are heedless, is not permissible. The verse, he adds, reads better as a denial: you are among the messengers sent to a people whose fathers were not warned, because they lived in the interval between prophets.",
+            "bn": "এরপর তাবারী জানান, ‘মা’ শব্দটিকে না-বাচক না ধরলে আরবি ব্যাকরণবিদেরা তা কীভাবে ব্যাখ্যা করেছেন। বসরার এক ব্যাকরণবিদ, পাঠে যাঁর নাম নেই, বলেন: তখন অর্থ হবে, তাদের সতর্ক করো সেই বিষয়ে, যে বিষয়ে তাদের বাপ-দাদাদের সতর্ক করা হয়েছিল। কিন্তু তাঁর মতে, এ অর্থে ‘ফাহুম গাফিলূন’-এর ‘ফা’ বসানো জায়েজ হয় না। তিনি যোগ করেন, না-বাচক ধরাই এখানে বেশি সুন্দর। তখন কথাটা দাঁড়ায়: তুমি সেই রসূলদের একজন, যাঁদের পাঠানো হয়েছে এমন কওমের কাছে, যাদের বাপ-দাদাদের সতর্ক করা হয়নি। কারণ তারা ছিল নবীদের মাঝখানের বিরতিকালে, ফাতরায়।"
+          },
+          {
+            "en": "A grammarian of Kufa, also unnamed, explains how the other reading is built. If ma is not meant as a denial, the sense is to warn them with what their fathers were warned with. The preposition bi is then dropped, and ma stands in the accusative position as the object of the verb. At-Tabari sets the two explanations side by side and does not rule between them. The Basran objection concerns the fa, and the passage carries no reply to it from the Kufan side, so none is supplied for him here.",
+            "bn": "কুফার এক ব্যাকরণবিদ, তাঁরও নাম নেই, অন্য পাঠটি কীভাবে গঠিত হয় তা বুঝিয়ে দেন। ‘মা’ যদি না-বাচক না হয়, তবে অর্থ হলো: তাদের সতর্ক করো সেই কথা দিয়ে, যা দিয়ে তাদের বাপ-দাদাদের সতর্ক করা হয়েছিল। এখানে ‘বি’ অব্যয়টি বাদ পড়ে যায়, আর ‘মা’ বসে নসবের জায়গায়, ক্রিয়ার কর্ম হিসেবে। তাবারী দুই ব্যাখ্যা পাশাপাশি রেখেছেন, কোনোটির পক্ষে রায় দেননি। বসরীর আপত্তি ছিল ‘ফা’ নিয়ে। পাঠে কুফার পক্ষ থেকে সে আপত্তির কোনো জবাব নেই, তাই এখানেও তাঁর মুখে কোনো জবাব বসানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Qurtubi Counts the Readings",
+          "bn": "কুরতুবীর হিসাবে তিন পাঠ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi lays the options out more fully. For most of the people of tafsir, he says, naming Qatada among them, ma has no grammatical case at all, because it is a negation: the sense is that you may warn a people to whose fathers no warner came before you. Others say it means alladhi, that which: you may warn them with the like of what their fathers were warned, and this he attributes to Ibn 'Abbas, 'Ikrima, and Qatada as well. A third view takes ma with its verb as a verbal noun: you may warn a people with the warning their fathers had.",
+            "bn": "কুরতুবী বিকল্পগুলো আরও বিস্তারিত সাজিয়েছেন। তিনি বলেন, অধিকাংশ তাফসীরবিদের মতে, যাঁদের মধ্যে কাতাদাও আছেন, ‘মা’ শব্দের ই'রাবে কোনো স্থান নেই, কারণ এটি না-বাচক। অর্থ হলো: যাতে তুমি এমন কওমকে সতর্ক করো, যাদের বাপ-দাদাদের কাছে তোমার আগে কোনো সতর্ককারী আসেনি। অন্যরা বলেন, এটি ‘আল্লাযী’ অর্থে, অর্থাৎ ‘যা’। তখন মানে: তাদের সতর্ক করো তেমন কথা দিয়ে, যেমন কথা দিয়ে তাদের বাপ-দাদাদের সতর্ক করা হয়েছিল। এ মত তিনি ইবন আব্বাস, ইকরিমা এবং কাতাদারও বলে উল্লেখ করেন। তৃতীয় এক মতে ‘মা’ তার ক্রিয়ার সঙ্গে মিলে ক্রিয়াবাচক বিশেষ্য হয়েছে: তাদের সতর্ক করো তাদের বাপ-দাদাদের পাওয়া সতর্কবাণী দিয়ে।"
+          },
+          {
+            "en": "Al-Baghawi gives the main pair more briefly, introducing each only as something said. Some say ma is a negation, their fathers were not warned, because no prophet had come to Quraysh before Muhammad ﷺ. Some say it means that which: to warn a people of what their fathers were warned of. By al-Qurtubi's count the negation has the larger company, while Ibn 'Abbas and 'Ikrima are named for the relative sense, and Qatada appears on both lists. The commentaries record the dispute; they do not close it, and neither does this page.",
+            "bn": "বাগাভী মূল দুই মত আরও সংক্ষেপে আনেন, প্রতিটিকে শুধু ‘বলা হয়েছে’ বলে। কেউ বলেন, ‘মা’ না-বাচক, তাদের বাপ-দাদাদের সতর্ক করা হয়নি। কারণ মুহাম্মাদ ﷺ-এর আগে কুরাইশের কাছে কোনো নবী আসেননি। কেউ বলেন, এর অর্থ ‘যা’: এক কওমকে সতর্ক করা সেই বিষয়ে, যে বিষয়ে তাদের বাপ-দাদাদের সতর্ক করা হয়েছিল। কুরতুবীর হিসাবে না-বাচক মতের পক্ষে লোক বেশি। অন্যদিকে ‘যা’ অর্থের পক্ষে নাম এসেছে ইবন আব্বাস ও ইকরিমার, আর কাতাদার নাম আছে দুই তালিকাতেই। তাফসীরগুলো মতভেদটা লিখে রেখেছে, মীমাংসা করেনি। এ লেখাও করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If Word Had Reached Them",
+          "bn": "খবর যদি পৌঁছে থাকে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then asks what the Arabs actually knew, and he allows three possibilities. It may be that reports of the earlier prophets had reached them by widespread transmission, tawatur; then the verse means they had not been warned by a messenger from among themselves. It may be that the reports reached them but they neglected them, turned away and forgot. Or this may be an address to a people whom no report of any prophet had reached. He leaves all three standing, opening each with yajuzu, it is possible.",
+            "bn": "এরপর কুরতুবী প্রশ্ন তোলেন, আরবরা আসলে কতটুকু জানত। তিনি তিনটি সম্ভাবনা খোলা রাখেন। হতে পারে আগের নবীদের খবর ব্যাপক ধারাবাহিক বর্ণনায়, তাওয়াতুরে, তাদের কাছে পৌঁছেছিল। তাহলে আয়াতের মানে: তাদের মধ্য থেকে কোনো রসূল দিয়ে তাদের সতর্ক করা হয়নি। হতে পারে খবর পৌঁছেছিল, কিন্তু তারা অবহেলা করেছে, মুখ ফিরিয়ে নিয়েছে, ভুলে গেছে। আবার হতে পারে, এ সম্বোধন এমন এক কওমের প্রতি, যাদের কাছে কোনো নবীর খবরই পৌঁছায়নি। তিনটিকেই তিনি দাঁড়িয়ে থাকতে দেন। প্রতিটি শুরু করেন ‘ইয়াজূযু’ দিয়ে, অর্থাৎ হতে পারে।"
+          },
+          {
+            "en": "For the third he cites two verses. And We had not given them any scriptures which they could study, nor sent to them before you any warner (34:44). And: that you may warn a people to whom no warner had come before you, that perhaps they may be guided, the wording of 32:3, which he glosses as no prophet had come to them. On the view that the reports had reached them, the end of the verse shifts: they are now turning away, feigning heedlessness of it. The one who turns from a thing, he notes, is called heedless of it.",
+            "bn": "তৃতীয় সম্ভাবনার পক্ষে তিনি দুটি আয়াত আনেন। একটি ৩৪:৪৪: আমি তাদের এমন কোনো কিতাব দিইনি যা তারা পড়ত, আর তোমার আগে তাদের কাছে কোনো সতর্ককারীও পাঠাইনি। অন্যটি ৩২:৩-এর ভাষ্য: যাতে তুমি এমন এক কওমকে সতর্ক করো, যাদের কাছে তোমার আগে কোনো সতর্ককারী আসেনি, হয়তো তারা হিদায়াত পাবে। এর ব্যাখ্যায় তিনি বলেন, তাদের কাছে কোনো নবী আসেননি। আর যাঁরা বলেন খবর পৌঁছেছিল, তাঁদের মতে আয়াতের শেষ অংশের অর্থ বদলে যায়: তারা এখন মুখ ফিরিয়ে আছে, জেনেও না জানার ভান করছে। কুরতুবী মনে করিয়ে দেন, কোনো কিছু থেকে যে মুখ ফেরায়, তাকেও সে বিষয়ে গাফিল বলা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard Only Through Deputies",
+          "bn": "শুধু প্রতিনিধিদের মুখে শোনা"
+        },
+        "p": [
+          {
+            "en": "Another verse seems to sit uneasily beside the negation: there was no community but that a warner had passed among it (35:24). Ma'arif al-Qur'an addresses the tension under this verse. The fathers here, it says, are the Arabs, and the sense is that no warner, meaning a prophet, had come to their nearer ancestors for a long time. Since Ibrahim (AS), and Isma'il (AS) with him, no prophet had appeared among the Arabs for several centuries, though the work of calling people to the true faith had carried on.",
+            "bn": "আরেকটি আয়াত না-বাচক পাঠের পাশে একটু খটকা জাগায়: এমন কোনো জাতি নেই, যাদের মধ্যে কোনো সতর্ককারী গত হননি (৩৫:২৪)। মাআরিফুল কুরআন এ আয়াতের আলোচনাতেই খটকাটির জবাব দেয়। তার মতে এখানে বাপ-দাদা মানে আরবরা। অর্থ হলো, তাদের নিকট পূর্বপুরুষদের কাছে বহু কাল কোনো সতর্ককারী, অর্থাৎ নবী, আসেননি। তাদের আদিপুরুষ ইবরাহীম (আঃ) আর তাঁর সঙ্গে ইসমাঈল (আঃ)-এর পর কয়েক শতাব্দী আরবদের মধ্যে কোনো নবীর আবির্ভাব হয়নি। তবে সত্য দ্বীনের দিকে ডাকার কাজ তখনো থেমে থাকেনি।"
+          },
+          {
+            "en": "Ma'arif reads 35:24 as confirming that divine mercy never left any community without the essential call and warning, in any age or region. Its point is about effect. The teachings of prophets, when passed on by their deputies, do not move people as the prophets do in person. That is why, it says, this verse could say of the Arabs that no warner came to them. It adds a consequence: with no settled system of learning in Arabia, they came to be called ummiyyun, the unlettered.",
+            "bn": "মাআরিফের মতে ৩৫:২৪ এ সত্যই নিশ্চিত করে যে, আল্লাহর রহমত কোনো যুগে, কোনো অঞ্চলে কোনো জাতিকে মৌলিক দাওয়াত ও সতর্কবাণী থেকে বঞ্চিত রাখেনি। তার মূল কথাটা প্রভাব নিয়ে। নবীদের শিক্ষা যখন তাঁদের প্রতিনিধিদের মুখে পৌঁছায়, তা মানুষকে ততটা নাড়া দেয় না, যতটা নবী নিজে উপস্থিত থেকে দেন। এ কারণেই, মাআরিফ বলে, এ আয়াতে আরবদের সম্পর্কে বলা হয়েছে যে তাদের কাছে কোনো সতর্ককারী আসেনি। এর একটি ফলও সে উল্লেখ করে: আরবে লেখাপড়ার কোনো নিয়মিত ব্যবস্থা ছিল না, তাই তাদের বলা হতো উম্মিয়্যীন, নিরক্ষর জাতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named, but Not Fenced In",
+          "bn": "নাম আছে, সীমানা নেই"
+        },
+        "p": [
+          {
+            "en": "If the verse names the Arabs, does the mission stop with them? Ibn Kathir answers directly. The verse means the Arabs, since no warner had come to them before him. But mentioning them alone does not deny the others, as some had claimed, just as mentioning certain individuals does not cancel a general statement. He refers the reader back to the verses and mass-transmitted hadiths on the universal reach of the mission, set out under say: O mankind, I am the Messenger of Allah to you all (7:158). No commentary fetched for this verse attaches a hadith to the verse itself.",
+            "bn": "আয়াত যদি আরবদের নাম নেয়, তবে কি রিসালাত তাদের পর্যন্তই থেমে যায়? ইবন কাসীর সরাসরি জবাব দেন। আয়াতে আরবদের কথাই বলা হয়েছে, কারণ তাঁর আগে তাদের কাছে কোনো সতর্ককারী আসেননি। কিন্তু শুধু তাদের উল্লেখ অন্যদের বাদ দেয় না, যদিও কেউ কেউ তেমন দাবি করেছিল। যেমন কয়েকজন ব্যক্তির নাম নিলে সাধারণ কথাটা বাতিল হয়ে যায় না। রিসালাত যে সবার জন্য, সে বিষয়ের আয়াত ও মুতাওয়াতির হাদীসের জন্য তিনি পাঠককে ৭:১৫৮-এর আলোচনায় ফিরে যেতে বলেন: বলো, হে মানুষ, আমি তোমাদের সবার প্রতি আল্লাহর রসূল। এ আয়াতের জন্য পড়া কোনো তাফসীর আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "As-Sa'di draws the same circle in his own terms. Those addressed first are the unlettered Arabs, long without scriptures and without messengers, until Allah sent them a messenger from among themselves to purify them and teach them the Book and wisdom. He was sent to warn the unlettered Arabs and every unlettered person who joined them, and to remind the people of earlier scriptures of what their own books held. Allah's favour through him, as-Sa'di concludes, falls on the Arabs specially and on everyone else generally.",
+            "bn": "সা'দী একই বৃত্ত আঁকেন নিজের ভাষায়। প্রথম সম্বোধিত হলো নিরক্ষর আরবরা, বহু কাল যাদের কাছে না ছিল কোনো কিতাব, না কোনো রসূল। তারপর আল্লাহ তাদেরই মধ্য থেকে এক রসূল পাঠালেন, যিনি তাদের পরিশুদ্ধ করবেন, কিতাব ও হিকমত শেখাবেন। তিনি সতর্ক করবেন নিরক্ষর আরবদের, আর তাদের সঙ্গে যুক্ত হওয়া প্রত্যেক নিরক্ষর মানুষকে। আর আগের কিতাবওয়ালাদের মনে করিয়ে দেবেন তাদের নিজেদের কিতাবে যা আছে। সা'দীর উপসংহার: তাঁর মাধ্যমে আল্লাহর নিয়ামত বিশেষভাবে আরবদের উপর, আর সাধারণভাবে বাকি সবার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heedless of What, Exactly?",
+          "bn": "উদাসীন, কিন্তু কোন বিষয়ে?"
+        },
+        "p": [
+          {
+            "en": "Fa-hum ghafilun: so they are heedless. The commentators name different objects for that heedlessness. At-Tabari: they are heedless of what Allah is going to do to His enemies who associate partners with Him, the bringing down of His vengeance and His might upon them. Al-Qurtubi records a view that they are heedless of Allah's punishment. Al-Baghawi: heedless of faith and of right guidance, rushd. The Muyassar: inattentive to faith and to steadiness in righteous action. One set of glosses looks at what is coming; the other at what is missing.",
+            "bn": "ফাহুম গাফিলূন: ফলে তারা উদাসীন। কোন বিষয়ে উদাসীন, মুফাসসিরেরা তার ভিন্ন ভিন্ন উত্তর দেন। তাবারীর মতে, আল্লাহ তাঁর সঙ্গে শরিককারী শত্রুদের সঙ্গে যা করতে যাচ্ছেন, তাঁর প্রতিশোধ আর কঠোর পাকড়াও তাদের উপর নেমে আসা, সে বিষয়ে তারা বেখবর। কুরতুবী একটি মত উল্লেখ করেন: তারা আল্লাহর আজাব সম্পর্কে গাফিল। বাগাভীর মতে, ঈমান আর সঠিক পথ, রুশদ, সম্পর্কে গাফিল। মুয়াসসারের মতে, ঈমান আর নেক আমলে অবিচল থাকা সম্পর্কে বেখেয়াল। এক দলের ব্যাখ্যা তাকিয়ে আছে সামনে যা আসছে তার দিকে, অন্য দলের ব্যাখ্যা যা নেই তার দিকে।"
+          },
+          {
+            "en": "The Muyassar then draws a general rule from the verse: every nation from which warning is cut off falls into heedlessness. In this, it says, there is evidence that calling and reminding are a duty upon those who know Allah and His law, to wake the Muslims from their heedlessness. The verse described one people at one time; this lesson turns it toward every community, including the one that already holds the Book.",
+            "bn": "এরপর মুয়াসসার আয়াত থেকে একটি সাধারণ নিয়ম বের করে: যে জাতির কাছ থেকে সতর্কবাণী থেমে যায়, সে জাতি গাফলতে পড়ে যায়। মুয়াসসারের মতে এতে দলিল আছে যে, আল্লাহ ও তাঁর শরিয়ত সম্পর্কে যাঁরা জ্ঞান রাখেন, দাওয়াত দেওয়া আর মনে করিয়ে দেওয়া তাঁদের উপর ওয়াজিব, যাতে মুসলিমরা তাদের গাফলত থেকে জেগে ওঠে। আয়াতটি এক সময়ের এক কওমের কথা বলেছে। এই শিক্ষা সেটাকে ঘুরিয়ে দেয় প্রতিটি সমাজের দিকে, যে সমাজের হাতে কিতাব আছে তার দিকেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Warning Divided Them",
+          "bn": "সতর্কবাণী যেখানে তাদের ভাগ করল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di carries the verse into the next. Those among whom the Prophet ﷺ was sent, once he had warned them, divided into two groups. Some rejected what he brought and would not accept the warning, and they are the ones of whom Allah says: the word has come into effect upon most of them, so they do not believe (36:7). The warning broke the silence; it did not force anyone to listen.",
+            "bn": "সা'দী আয়াতটিকে টেনে নিয়ে যান পরের আয়াতে। নবী ﷺ যাদের মধ্যে প্রেরিত হয়েছিলেন, তিনি তাদের সতর্ক করার পর তারা দুই ভাগ হয়ে গেল। কিছু লোক তাঁর আনা বাণী প্রত্যাখ্যান করল, সতর্কবাণী কবুল করল না। এদের সম্পর্কেই আল্লাহ বলেন: তাদের অধিকাংশের উপর বাণী অবধারিত হয়ে গেছে, ফলে তারা ঈমান আনবে না (৩৬:৭)। সতর্কবাণী নীরবতা ভেঙেছিল, কিন্তু কাউকে শুনতে বাধ্য করেনি।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes one people, the Arabs of the Prophet's ﷺ own time, in the condition the commentators describe: long without a prophet, and heedless. It licenses nothing against any living person or community: no contempt for the Arabs, or for anyone who has not yet heard the message, and no verdict on who stands among the most of 36:7. Heedlessness here is a condition to be answered with a warner, not a label to be fastened on other people.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এক কওমের বর্ণনা দেয়, নবী ﷺ-এর নিজের সময়ের আরবদের, ঠিক সেই অবস্থায় যা মুফাসসিরেরা বর্ণনা করেছেন: বহু কাল নবী ছাড়া, আর উদাসীন। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আরবদের প্রতি তাচ্ছিল্যের অনুমতি দেয় না, যার কাছে এখনো বাণী পৌঁছায়নি তার প্রতিও না। ৩৬:৭-এর ‘অধিকাংশের’ মধ্যে কে পড়ে, সে রায় দেওয়ারও অনুমতি দেয় না। এখানে গাফলত এমন এক অবস্থা, যার জবাব একজন সতর্ককারী। এটা অন্যের গায়ে সেঁটে দেওয়ার তকমা নয়।"
+          },
+          {
+            "en": "What remains for the reader is the verse's shape. A silence settles over generations, heedlessness grows inside it, and Allah answers with a voice. Whichever way ma is read, fathers who were never warned, or fathers once warned whose warning was then let slip, the remedy is the same: the warning given again, clearly, by one sent for that purpose. The question the verse leaves is not who else is heedless, but where the reminding has stopped in one's own house.",
+            "bn": "পাঠকের জন্য থেকে যায় আয়াতের গড়নটুকু। প্রজন্মের পর প্রজন্ম জুড়ে নীরবতা নামে, তার ভেতরে গাফলত বেড়ে ওঠে, আর আল্লাহ জবাব দেন এক কণ্ঠ দিয়ে। ‘মা’-কে যেভাবেই পড়া হোক, বাপ-দাদাদের কখনো সতর্ক করা হয়নি, কিংবা একসময় করা হয়েছিল আর পরে সে সতর্কবাণী হারিয়ে গেছে, প্রতিকার একই। সেই কাজের জন্য পাঠানো একজনের মুখে সতর্কবাণী আবার স্পষ্ট করে পৌঁছানো। আয়াত যে প্রশ্ন রেখে যায় তা এই নয় যে আর কে কে গাফিল। প্রশ্নটা হলো, নিজের ঘরে মনে করিয়ে দেওয়া কোথায় থেমে গেছে।"
+          }
+        ]
+      }
+    ]
+  },
   "36:11-12": {
     "sections": [
       {

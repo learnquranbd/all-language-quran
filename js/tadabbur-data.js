@@ -25509,6 +25509,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah left no people without a warner, and the message has reached you; take its good news with hope and its warning with care, and keep no excuse.",
     "lessonBn": "আল্লাহ কোনো জাতিকে সতর্ককারী ছাড়া রাখেননি, আর বার্তা আপনার কাছে পৌঁছে গেছে। এর সুসংবাদ নিন আশা নিয়ে, সতর্কবাণী নিন সাবধানে, আর কোনো অজুহাত জমিয়ে রাখবেন না।"
+  },
+  "36:6": {
+    "reflectionEn": "The verse names a people and then names their condition in a single word: heedless. Not yet defiant, simply unaware, the way a sleeper is unaware that morning has come. A long silence had settled over them, and in it they lost sight of what no one was reminding them of. The verse joins the two halves with so, and the link is worth sitting with. Heedlessness rarely announces itself. It grows quietly wherever reminding stops, in a household, a friendship, a single heart. The verse sets the remedy beside the condition: a warner sent, a voice that breaks the quiet. Where in my life has the silence gone on too long, and is any of it mine?",
+    "reflectionBn": "আয়াতটি একটি সম্প্রদায়ের কথা বলে, তারপর এক শব্দে তাদের অবস্থা জানিয়ে দেয়: উদাসীন। তখনো তারা বিদ্রোহী নয়, শুধু বেখবর। ঘুমন্ত মানুষ যেমন টের পায় না যে সকাল হয়ে গেছে। দীর্ঘ এক নীরবতা তাদের উপর চেপে বসেছিল, আর সেই নীরবতায় তারা ভুলে গিয়েছিল এমন সব কথা, যা কেউ তাদের মনে করিয়ে দিচ্ছিল না। আয়াতের দুই অংশকে জুড়ে দিয়েছে ছোট্ট একটি ‘ফা’, অর্থাৎ কাজেই। এই যোগসূত্র নিয়ে একটু থামা দরকার। গাফলত ঢাকঢোল পিটিয়ে আসে না। যেখানে মনে করিয়ে দেওয়া থেমে যায়, সেখানেই চুপচাপ বেড়ে ওঠে, হোক তা একটি পরিবার, একটি বন্ধুত্ব বা একটি অন্তর। রোগের পাশেই আয়াত রেখে দিয়েছে তার দাওয়াই: একজন সতর্ককারী পাঠানো হলো, এক কণ্ঠ এসে নীরবতা ভাঙল। আমার জীবনে কোথায় নীরবতা বেশি দিন টিকে গেছে? আর তার কতটুকু আমার নিজের?",
+    "pointsEn": [
+      "Where in my life has a silence lasted so long that I no longer notice what I am never reminded of?",
+      "Is there someone close to me who has never heard a gentle word of warning from me, because I preferred the quiet?",
+      "When a reminder reaches me, do I take it as a rescue from heedlessness or as an intrusion?",
+      "Do I treat my own heedlessness as innocence, simply because no one told me?",
+      "What do I need to hear today that I have grown too comfortable to hear?"
+    ],
+    "pointsBn": [
+      "আমার জীবনে কোন নীরবতা এত দিন টিকে আছে যে, যা আর কেউ মনে করিয়ে দেয় না, তা আমি টেরই পাই না?",
+      "আমার কাছের এমন কেউ কি আছে, যে আমার মুখে কখনো নরম একটি সতর্কবাণী শোনেনি, কারণ আমি চুপ থাকাটাই সহজ মনে করেছি?",
+      "কেউ যখন আমাকে মনে করিয়ে দেয়, আমি কি সেটাকে গাফলত থেকে উদ্ধার হিসেবে নিই, নাকি অনধিকার চর্চা ভাবি?",
+      "কেউ বলেনি বলে নিজের গাফলতকে কি আমি নির্দোষিতা বলে চালিয়ে দিই?",
+      "আজ এমন কোন কথা আমার শোনা দরকার, যা না শুনে আরামে থাকতেই আমি অভ্যস্ত হয়ে গেছি?"
+    ],
+    "lessonEn": "Heedlessness grows wherever reminding stops. Welcome the warning that wakes you, and do not let your own silence leave others asleep.",
+    "lessonBn": "যেখানে মনে করিয়ে দেওয়া থেমে যায়, সেখানেই গাফলত বাড়ে। যে সতর্কবাণী আপনাকে জাগিয়ে তোলে তাকে স্বাগত জানান, আর আপনার নিজের নীরবতা যেন অন্যদের ঘুমিয়ে না রাখে।"
   }
 };
 
