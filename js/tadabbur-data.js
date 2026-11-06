@@ -24449,6 +24449,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Honour those who came before you without making them your proof: ask whether what they handed you rests on knowledge and guidance, not only on how far back it goes.",
     "lessonBn": "পূর্বসূরিদের সম্মান করুন, কিন্তু তাঁদের প্রমাণ বানাবেন না। তাঁদের দিয়ে যাওয়া জিনিস কত পুরনো, শুধু তা নয়; তার ভিত জ্ঞান আর হিদায়াত কি না, সেটাই জিজ্ঞেস করুন।"
+  },
+  "26:148": {
+    "reflectionEn": "Ṣāliḥ counts his people's wealth back to them, one item at a time: gardens, springs, fields of crops, and date-palms whose clusters are haḍīm. The commentators stop at that word: soft and ripe, packed so close inside the sheath that each strand presses on the next, so tender that it breaks at a touch. It is a farmer's eye for fruit at its best. Yet the whole list sits inside a question: will you be left secure in all this? The softness of that fruit was a gift, and it was also a test of what they would do with it. When I look at what is ripening in my own life, do I see a guarantee, or a trust I will be asked about?",
+    "reflectionBn": "সালিহ (আঃ) তাঁর কওমের সম্পদ একে একে গুনে তাদের সামনে রাখেন: বাগান, ঝরনা, শস্যক্ষেত, আর এমন খেজুরগাছ যার মোচা হাদীম। তাফসীরকারেরা এই একটি শব্দে এসে থামেন। তাঁদের ব্যাখ্যায় এর মানে নরম আর পাকা, খোসার ভেতরে এমন ঠাসা যে এক গোছা আরেক গোছার উপর চেপে থাকে, এত কোমল যে ছুঁলেই ভেঙে যায়। যে কৃষক ফলের সেরা সময়টা চেনে, এ যেন তার চোখে দেখা ছবি। অথচ পুরো তালিকাটা একটা প্রশ্নের ভেতরে বসানো: এসবের মধ্যে কি তোমাদের নিশ্চিন্তে রেখে দেওয়া হবে? সেই ফলের কোমলতা ছিল দান, আবার পরীক্ষাও: এ নিয়ামত দিয়ে তারা কী করে। নিজের জীবনে যা পেকে উঠছে, তার দিকে তাকিয়ে আমি কী দেখি? স্থায়ী নিশ্চয়তা, নাকি এমন আমানত যার হিসাব আমাকে দিতে হবে?",
+    "pointsEn": [
+      "Which blessing in my life have I stopped noticing simply because it has been there so long?",
+      "Do I take my comforts as proof that all is well between me and Allah, or as something I will be asked about?",
+      "What would change in how I spend this week's plenty if I saw it as a test rather than a reward?",
+      "When I thank Allah for something, does the thanks reach my actions, or does it stop at my tongue?",
+      "Who could share in some of what is ripe in my life before its season passes?"
+    ],
+    "pointsBn": [
+      "কোন নিয়ামতটা অনেক দিন ধরে আছে বলেই আমি আর খেয়াল করি না?",
+      "আমার আরাম-আয়েশকে কি আমি ধরে নিই আল্লাহর সঙ্গে সব ঠিক আছে তার প্রমাণ হিসেবে, নাকি এমন কিছু হিসেবে যার জবাবদিহি করতে হবে?",
+      "এ সপ্তাহের প্রাচুর্যকে পুরস্কার না ভেবে পরীক্ষা ভাবলে আমি তা খরচ করার ধরন কীভাবে বদলে যেত?",
+      "কোনো কিছুর জন্য আল্লাহর শুকরিয়া আদায় করলে সে শুকরিয়া কি আমার আমল পর্যন্ত পৌঁছায়, নাকি মুখেই থেমে যায়?",
+      "আমার জীবনে যা পেকে আছে, মৌসুম ফুরানোর আগে কাকে তার ভাগ দিতে পারি?"
+    ],
+    "lessonEn": "Plenty is a trust, not a guarantee. The softest fruit was given to Thamūd to test their gratitude, so weigh your own blessings by what they ask of you.",
+    "lessonBn": "প্রাচুর্য আমানত, স্থায়ী নিশ্চয়তা নয়। সামূদকে সবচেয়ে কোমল ফল দেওয়া হয়েছিল তাদের শুকরিয়া পরখ করতে। তাই নিজের নিয়ামতকে মাপুন, তা আপনার কাছে কী দাবি করে সেই দিয়ে।"
   }
 };
 

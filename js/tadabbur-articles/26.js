@@ -5283,6 +5283,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:148": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Palms Given a Clause",
+          "bn": "যে খেজুরগাছের আলাদা বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Wa-zurūʿin wa-nakhlin ṭalʿuhā haḍīm: and fields of crops, and date-palms whose clusters are haḍīm. In Arabic it is four words, and it closes a list that began two verses earlier. In 26:146 Ṣāliḥ asks Thamūd whether they will be left secure in what is here; 26:147 names gardens and springs; this verse adds the sown fields and the palms. Al-Muyassar reads the run of verses as a single picture: gardens bearing fruit, flowing springs, abundant crops, and palms whose fruit is ripe, soft and mature.",
+            "bn": "ওয়া যুরূইন ওয়া নাখলিন তালউহা হাদীম: আর শস্যক্ষেত, আর এমন খেজুরগাছ যার মোচা হাদীম। আরবিতে মাত্র চারটি শব্দ, আর এ দিয়েই শেষ হয় দুই আয়াত আগে শুরু হওয়া একটা তালিকা। ২৬:১৪৬ আয়াতে সালিহ (আঃ) সামূদকে জিজ্ঞেস করেন, এখানে যা আছে তার মধ্যে কি তোমাদের নিশ্চিন্তে রেখে দেওয়া হবে? ২৬:১৪৭ আয়াতে আসে বাগান আর ঝরনা, আর এ আয়াতে যোগ হয় শস্যক্ষেত ও খেজুরগাছ। মুয়াসসার আয়াতগুলোকে একটাই ছবি হিসেবে পড়ে: ফলভরা বাগান, বয়ে চলা ঝরনা, প্রচুর শস্য, আর এমন খেজুরগাছ যার ফল পাকা, নরম, পরিপক্ব।"
+          },
+          {
+            "en": "Of everything named in 26:147 and 26:148, only the palms are described. Gardens, springs and crops are simply listed; the palms receive a clause of their own, ṭalʿuhā haḍīm, their ṭalʿ is haḍīm, and the commentators spend nearly all their effort on this verse there. The abridged English Ibn Kathir sets the scene: Ṣāliḥ was warning his people that Allah's punishment could overtake them, and reminding them of the blessings Allah had given them, gardens and flowing springs, crops and fruits. This article stays with those images and that word.",
+            "bn": "২৬:১৪৭ ও ২৬:১৪৮ আয়াতে যা কিছুর নাম এসেছে, তার মধ্যে শুধু খেজুরগাছেরই বর্ণনা আছে। বাগান, ঝরনা আর শস্যের কেবল নাম নেওয়া হয়েছে। খেজুরগাছ পেয়েছে নিজস্ব একটা বাক্যাংশ: তালউহা হাদীম, তার তাল হাদীম। এ আয়াতে তাফসীরকারদের প্রায় সব মনোযোগ গিয়ে পড়েছে এখানেই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ প্রেক্ষাপটটা ধরিয়ে দেয়। সালিহ (আঃ) কওমকে সতর্ক করছিলেন যে আল্লাহর আযাব তাদের পাকড়াও করতে পারে, আর মনে করিয়ে দিচ্ছিলেন আল্লাহর দেওয়া নিয়ামতের কথা: বাগান, বয়ে চলা ঝরনা, শস্য আর ফলমূল। এ লেখা সেই ছবিগুলো আর ওই একটি শব্দ নিয়েই থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sheath, Strand, and Fruit",
+          "bn": "খোসা, গোছা আর ফল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari defines the first word plainly: by al-ṭalʿ is meant al-kufurrā, the sheath. Al-Qurtubi describes it more closely. The ṭalʿa is what comes out of the palm like the blade of a sword, and inside it lie the fine strands, the shamārīkh, of the qinw, the cluster; qinw is the name for what grows out of the trunk with its stalk, the ʿurjūn, and its strands. He adds that ṭalʿ is derived from ṭulūʿ, appearing, the word used of the sun and the moon rising and of plants coming up.",
+            "bn": "তাবারী প্রথম শব্দটির সংজ্ঞা দেন সোজাসুজি: আত-তাল মানে আল-কুফুররা, অর্থাৎ খোসা। কুরতুবী আরও কাছ থেকে দেখেন। তাঁর বর্ণনায় তালআ হলো খেজুরগাছ থেকে তলোয়ারের ফলার মতো বেরিয়ে আসা জিনিস। তার ভেতরে থাকে কিনওর সরু সরু শাখা, যাকে বলে শামারীখ। আর কিনও হলো কাণ্ড থেকে বের হওয়া পুরো ছড়াটা, তার ডাঁটা উরজূন আর শাখাগুলোসহ। তিনি আরও বলেন, তাল শব্দটি এসেছে তুলূ থেকে, যার মানে প্রকাশ পাওয়া। সূর্য আর চাঁদ ওঠা কিংবা চারাগাছ মাথা তোলার বেলায়ও এই শব্দই বলা হয়।"
+          },
+          {
+            "en": "Al-Baghawi takes the word one step further along the palm's season. Ṭalʿuhā, he says, is its fruit: what emerges from the palm as fruit. So the commentators are not looking at quite the same moment. At-Tabari and al-Qurtubi see the sheath and the cluster folded inside it; al-Baghawi sees the fruit that cluster becomes. The difference matters for the next word, because haḍīm will mean one thing of a cluster still closed in its sheath and another of dates already softening on the stalk. Both moments are in the tafsirs, and both are counted as gifts.",
+            "bn": "বাগাভী শব্দটিকে খেজুরের মৌসুমের আরও এক ধাপ সামনে নিয়ে যান। তাঁর মতে তালউহা মানে এর ফল, অর্থাৎ খেজুরগাছ থেকে ফল হয়ে যা বের হয়। তাহলে তাফসীরকারেরা ঠিক একই মুহূর্তের দিকে তাকাচ্ছেন না। তাবারী আর কুরতুবী দেখছেন খোসা আর তার ভেতরে ভাঁজ করে রাখা ছড়া। বাগাভী দেখছেন সেই ছড়া থেকে যে ফল হয়। পরের শব্দটা বুঝতে এই পার্থক্য কাজে লাগে। খোসার ভেতরে বন্ধ ছড়ার বেলায় হাদীমের এক অর্থ, আর ডাঁটায় নরম হয়ে আসা খেজুরের বেলায় আরেক অর্থ। দুটি মুহূর্তই তাফসীরে আছে, আর দুটিকেই নিয়ামত হিসেবে গোনা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibn ʿAbbas by Several Routes",
+          "bn": "ইবন আব্বাস (রাঃ) থেকে নানা সূত্রে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his comment on haḍīm with Ibn ʿAbbas, and the reports reach him by different routes. Through al-ʿAwfī: it has ripened and come to full growth, so it is haḍīm; at-Tabari carries the same words from Ibn ʿAbbas, and al-Baghawi, through ʿAṭiyya, has yāniʿ naḍīj, ripe and mature. Through ʿAlī ibn Abī Ṭalḥa: muʿshiba, which the abridged English renders as growing luxuriantly. Through ʿAmr ibn Abī ʿAmr, who, Ibn Kathir notes, met the Companions: when it becomes fresh-ripe and grows soft. Ibn Abī Ḥātim reported that, and something similar from Abū Ṣāliḥ.",
+            "bn": "হাদীমের আলোচনা ইবন কাসীর শুরু করেন ইবন আব্বাস (রাঃ) দিয়ে, আর বর্ণনাগুলো তাঁর কাছে পৌঁছেছে ভিন্ন ভিন্ন সূত্রে। আওফীর সূত্রে: পেকে গেছে, পূর্ণতায় পৌঁছেছে, তাই তা হাদীম। তাবারীও ইবন আব্বাস (রাঃ) থেকে হুবহু এই কথা এনেছেন, আর বাগাভী আতিয়্যার সূত্রে এনেছেন ইয়ানি নাদীজ, অর্থাৎ পাকা ও পরিপক্ব। আলী ইবন আবী তালহার সূত্রে: মু'শিবা, সংক্ষিপ্ত ইংরেজি সংস্করণ যার অনুবাদ করেছে সতেজভাবে বেড়ে ওঠা। আমর ইবন আবী আমরের সূত্রে, যিনি ইবন কাসীরের ভাষায় সাহাবীদের পেয়েছিলেন: যখন তা তাজা পাকা খেজুরে পরিণত হয় আর নরম হয়ে আসে। ইবন আবী হাতিম এটি বর্ণনা করেছেন, আবু সালিহ থেকেও এ রকম কথা এসেছে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi preserve another line from him: laṭīf, fine and delicate. Al-Qurtubi gives it as delicate so long as it stays in its sheath; al-Baghawi ties it to an Arabic expression, haḍīm al-kashḥ, said of someone slender at the waist. So even within the reports from one Companion, the word points two ways: toward ripeness and softness in the fruit, and toward the fine, close-drawn slenderness of the young cluster. None of these commentators forces the reports into one. They set them side by side, and leave the reader to see how both can be true of a single palm.",
+            "bn": "কুরতুবী আর বাগাভী তাঁর থেকে আরেকটি কথা সংরক্ষণ করেছেন: লাতীফ, অর্থাৎ সূক্ষ্ম ও কোমল। কুরতুবীর বর্ণনায়, যতক্ষণ তা খোসার ভেতরে থাকে ততক্ষণ কোমল। বাগাভী একে জুড়ে দেন আরবি একটা প্রচলিত কথার সঙ্গে: হাদীমুল কাশহ, যা বলা হয় সরু কোমরের মানুষকে। ফলে একজন সাহাবীর বর্ণনার ভেতরেই শব্দটা দুই দিকে ইঙ্গিত করে। একদিকে ফলের পাকা ভাব আর নরম ভাব, অন্যদিকে কচি ছড়ার সূক্ষ্ম, গুটিয়ে থাকা গড়ন। এই তাফসীরকারদের কেউ বর্ণনাগুলোকে জোর করে এক করেন না। পাশাপাশি রেখে দেন, যাতে পাঠক দেখতে পান একই খেজুরগাছের বেলায় দুটোই কীভাবে সত্য হতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Crushed at a Touch",
+          "bn": "ছুঁলেই যা ভেঙে যায়"
+        },
+        "p": [
+          {
+            "en": "Mujahid's reading is the most physical. Ibn Kathir gives it: haḍīm is what, when pressed, breaks, crumbles and scatters. Through Ibn Jurayj, Mujahid adds a pairing: when it emerges you close your hand on it and crush it; of the fresh dates it is haḍīm, and of the dry, hashīm, which you close your hand on and shatter. Al-Baghawi keeps the same contrast: so long as it is fresh it is haḍīm, and once it has dried it is hashīm. Al-Qurtubi adds from Abū al-ʿĀliya that it breaks apart in the mouth.",
+            "bn": "মুজাহিদের ব্যাখ্যা সবচেয়ে বেশি হাতে ছোঁয়া যায়। ইবন কাসীর তা এনেছেন এভাবে: হাদীম হলো এমন জিনিস, যা চাপ দিলে ভেঙে যায়, গুঁড়িয়ে যায়, ছড়িয়ে পড়ে। ইবন জুরাইজের সূত্রে মুজাহিদ একটা জোড়া কথা যোগ করেন। ছড়া বের হলে আপনি মুঠোয় ধরেন আর তা পিষে যায়। তাজা খেজুরের বেলায় তা হাদীম, আর শুকনোর বেলায় হাশীম, যা মুঠোয় ধরলে চুরমার হয়। বাগাভীও এই তুলনা রেখেছেন: যতক্ষণ তাজা ততক্ষণ হাদীম, শুকিয়ে গেলে হাশীম। কুরতুবী আবুল আলিয়া থেকে যোগ করেন যে তা মুখের ভেতর ভেঙে যায়।"
+          },
+          {
+            "en": "Others look at the whole cluster rather than the single date. Aḍ-Ḍaḥḥāk, in at-Tabari's report, says that when the palm's load is great and its fruit rides one upon another until each presses the rest down, it is then haḍīm; al-Qurtubi and al-Baghawi give this with Muqātil beside him. Abū Ṣakhr, in Ibn Kathir, says that when the sheath is split away, you see the ṭalʿ stuck part to part, and that is haḍīm. ʿIkrima and Qatāda say simply: the soft fresh date. Al-Ḥasan al-Baṣrī says, in Ibn Kathir, the one without a stone.",
+            "bn": "কেউ কেউ একটা খেজুর নয়, পুরো ছড়ার দিকে তাকান। তাবারীর বর্ণনায় দাহহাক বলেন, খেজুরগাছের ভার যখন বেশি হয় আর ফল একটার উপর আরেকটা চেপে বসে, এমনকি একে অপরকে দাবিয়ে দেয়, তখন তা হাদীম। কুরতুবী আর বাগাভী এ মত এনেছেন দাহহাকের সঙ্গে মুকাতিলের নামও যোগ করে। ইবন কাসীরের বর্ণনায় আবু সাখর বলেন, খোসা চিরে সরিয়ে দিলে দেখবেন তালের এক অংশ আরেক অংশের সঙ্গে লেগে আছে, এটাই হাদীম। ইকরিমা আর কাতাদা সংক্ষেপে বলেন: নরম তাজা খেজুর। ইবন কাসীরের বর্ণনায় হাসান বসরী বলেন, যে খেজুরে বিচি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Twelve Readings, Listed Not Ranked",
+          "bn": "বারোটি মত, ক্রম ছাড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi steps back and counts. Al-Māwardī and others, he says, relate twelve views on the word. Several are those already met: the soft fresh date, from ʿIkrima; the one without a stone, from al-Ḥasan; what crumbles when touched, from Mujahid; what has shrunk from riding on the rest, from aḍ-Ḍaḥḥāk and Muqātil; strands stuck together, from Abū Ṣakhr; ripe and mature, from Ibn ʿAbbas; loose and soft, from al-Ḥasan again. Others are new. Ibn Shajara says it is the compact, packed cluster before the husk splits from it, and cites a line of verse for it.",
+            "bn": "কুরতুবী একটু পিছিয়ে এসে গুনে দেখান। তিনি বলেন, মাওয়ার্দী ও অন্যরা শব্দটি নিয়ে বারোটি মত বর্ণনা করেছেন। কয়েকটি আগেই এসেছে: নরম তাজা খেজুর, ইকরিমার মত। বিচিহীন খেজুর, হাসানের মত। ছুঁলেই যা গুঁড়িয়ে যায়, মুজাহিদের মত। একটার উপর আরেকটা চেপে যা চুপসে গেছে, দাহহাক ও মুকাতিলের মত। একে অপরের সঙ্গে লেগে থাকা ছড়া, আবু সাখরের মত। পাকা ও পরিপক্ব, ইবন আব্বাস (রাঃ)-এর মত। ঢিলেঢালা নরম, আবারও হাসানের মত। কয়েকটি নতুন। ইবন শাজারা বলেন, খোসা ফাটার আগের ঠাসা, জমাট ছড়া। এর পক্ষে তিনি একটি কবিতার চরণও আনেন।"
+          },
+          {
+            "en": "Al-Harawī gives the tender, delicate cluster at its first emergence. The twelfth is the least expected: Ibn al-Aʿrābī says haḍīm is al-barnī, a kind of date, and reads the word as active, wholesome and easily taken in, from the digesting of food. Al-Baghawi reports the same idea: haḍīm meaning hāḍim, that which digests food. The names do not always match across the tafsirs. The ṭalʿ as it separates and turns green al-Qurtubi credits to aḍ-Ḍaḥḥāk, Ibn Kathir to Murra. A kind of fresh date, al-mudhannab, al-Qurtubi gives from Saʿīd ibn Jubayr, Ibn Kathir from Abū al-ʿAlāʾ.",
+            "bn": "হারাবীর মতে, প্রথম বের হওয়ার সময়ের কোমল, সূক্ষ্ম ছড়া। বারো নম্বরটি সবচেয়ে অপ্রত্যাশিত। ইবনুল আ'রাবী বলেন, হাদীম হলো আল-বারনী, এক জাতের খেজুর। তিনি শব্দটিকে কর্তৃবাচক অর্থে পড়েন: যা উপকারী আর সহজে হজম হয়, খাবার হজম হওয়া থেকে। বাগাভীও এ ধারণা বর্ণনা করেন: হাদীম মানে হাদিম, যা খাবার হজম করায়। তাফসীরগুলোতে নামগুলো সব সময় মেলে না। তাল যখন আলাদা হয়ে সবুজ হয়ে ওঠে, এ মতটি কুরতুবী দাহহাকের বলে উল্লেখ করেন, ইবন কাসীর মুররার বলে। আল-মুযান্নাব নামে এক ধরনের তাজা খেজুরের মত কুরতুবী আনেন সাঈদ ইবন জুবাইর থেকে, ইবন কাসীর আবুল আলা থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Borrowed From the Slender Waist",
+          "bn": "সরু কোমরের উপমা থেকে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi also turns to the language scholars. Haḍīm, he says, is the fine and slender, al-laṭīf ad-daqīq, and he quotes a half-line of Imruʾ al-Qays: haḍīm al-kashḥ, rayyā al-mukhalkhal, slender at the waist, full at the anklet. Among women, he notes, al-haḍīm is the one slender in the flanks. Al-Jawharī says the ṭalʿ is called haḍīm so long as it has not come out of its sheath, because its parts enter into one another. Al-Harawī says the same: it is what is drawn together in its container before it shows.",
+            "bn": "কুরতুবী ভাষাবিদদের কথাও আনেন। তাঁর মতে হাদীম মানে সূক্ষ্ম ও সরু, আল-লাতীফ আদ-দাকীক। এর পক্ষে তিনি ইমরুল কায়সের কবিতার আধখানা চরণ উদ্ধৃত করেন: হাদীমুল কাশহ, রাইয়াল মুখালখাল, কোমর সরু, পায়ের মলের জায়গাটা ভরাট। তিনি বলেন, নারীদের বেলায় আল-হাদীম হলো যার দুই পাঁজরের পাশ সরু। জাওহারী বলেন, খোসা থেকে বের না হওয়া পর্যন্ত তালকে হাদীম বলা হয়, কারণ তার অংশগুলো একটা আরেকটার ভেতরে ঢুকে থাকে। হারাবীও একই কথা বলেন: প্রকাশ পাওয়ার আগে নিজের আধারের ভেতরে যা গুটিয়ে থাকে।"
+          },
+          {
+            "en": "The same passage adds a human use: one says of a man haḍīm al-janbayn, close-drawn at the sides. This, al-Qurtubi concludes, is the view of the linguists. Al-Baghawi reaches the same place by a shorter road. The linguists, he says, hold it to be what is gathered part to part in its container before it appears, and al-Azharī says haḍīm is what has entered into itself from ripeness and smoothness. Then al-Baghawi closes the whole discussion with one sentence: wa-kullu hādhā li-laṭāfatih, and all of this is because of its delicacy. Packed, soft, tender, crumbling or wholesome, each reading describes the fineness of this fruit.",
+            "bn": "একই আলোচনায় মানুষের বেলায় শব্দটির ব্যবহারও আসে: কোনো পুরুষকে বলা হয় হাদীমুল জানবাইন, যার দুই পাশ গুটানো। কুরতুবী শেষে বলেন, এটাই ভাষাবিদদের মত। বাগাভী একই জায়গায় পৌঁছান ছোট পথে। তিনি বলেন, ভাষাবিদদের মতে প্রকাশ পাওয়ার আগে নিজের আধারের ভেতরে এক অংশ আরেক অংশে লেগে যা জমে থাকে। আর আযহারী বলেন, পাকা ভাব আর মসৃণতার কারণে যা নিজের ভেতরে ঢুকে গেছে, তা-ই হাদীম। তারপর বাগাভী পুরো আলোচনা এক বাক্যে গুটিয়ে আনেন: ওয়া কুল্লু হাযা লি-লাতাফাতিহি, এসবই তার কোমলতার কারণে। ঠাসা, নরম, কচি, ভঙ্গুর বা সহজপাচ্য, প্রতিটি মতই এই ফলের সূক্ষ্মতার বর্ণনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Chooses a Reading",
+          "bn": "তাবারীর বাছাই করা অর্থ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does what al-Qurtubi does not, and states a preference. He first sets out the disagreement by groups: ripe and mature, from Ibn ʿAbbas; crushed and crumbling, from Mujahid; the soft fresh date, from ʿIkrima; and what rides one upon another, from aḍ-Ḍaḥḥāk. Then he gives his own judgement: the soundest thing to say is that haḍīm is what breaks because of its softness and moisture. He draws it from an ordinary Arabic expression, haḍama fulānun ḥaqqahu: so-and-so cut short another's due, diminishing it and wronging him.",
+            "bn": "কুরতুবী যা করেন না, তাবারী তা করেন: নিজের পছন্দের মত জানিয়ে দেন। প্রথমে তিনি মতভেদটা দলে দলে সাজান। পাকা ও পরিপক্ব, ইবন আব্বাস (রাঃ)-এর মত। পিষে যাওয়া ও গুঁড়িয়ে যাওয়া, মুজাহিদের মত। নরম তাজা খেজুর, ইকরিমার মত। আর একটার উপর আরেকটা চেপে বসা, দাহহাকের মত। তারপর নিজের রায় দেন: সবচেয়ে সঠিক কথা হলো, হাদীম তা-ই যা নরম আর রসালো হওয়ার কারণে ভেঙে যায়। এ অর্থ তিনি নেন আরবির এক সাধারণ বাক্য থেকে: হাদামা ফুলানুন হাক্কাহু, অমুক তার হক কমিয়ে দিয়েছে, তার উপর জুলুম করেছে।"
+          },
+          {
+            "en": "So the haḍm in the cluster, at-Tabari explains, is a lessening of it because of its moisture and softness, whether by the touch of hands or by part riding upon part. The word, he adds, is in origin mafʿūl, a passive form, turned into the pattern faʿīl: the cluster is the thing pressed, not the thing pressing. His reading gathers Mujahid and aḍ-Ḍaḥḥāk into one picture. As-Saʿdī, in his short note, gives the word as naḍīd kathīr, layered and plentiful. The readings differ and the tafsirs keep the difference; at-Tabari alone ranks them.",
+            "bn": "তাবারী ব্যাখ্যা করেন, ছড়ার ক্ষেত্রে হাদম মানে রস আর কোমলতার কারণে তার ক্ষয়, হাতের ছোঁয়ায় হোক বা এক অংশ আরেক অংশের উপর চেপে বসায় হোক। তিনি আরও বলেন, শব্দটি মূলে মাফঊল, অর্থাৎ কর্মবাচক রূপ, যাকে ফাঈল ওজনে আনা হয়েছে। মানে ছড়াটা নিজে চাপ দেয় না, তার উপর চাপ পড়ে। তাঁর ব্যাখ্যা মুজাহিদ আর দাহহাককে একটা ছবিতে মিলিয়ে দেয়। সা'দী তাঁর ছোট টীকায় শব্দটির অর্থ দেন নাদীদ কাসীর: থরে থরে সাজানো, প্রচুর। মতগুলো ভিন্ন, আর তাফসীরগুলো সে ভিন্নতা ধরে রেখেছে। শুধু তাবারীই এগুলোর মধ্যে একটাকে অগ্রাধিকার দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plenty Without Purpose",
+          "bn": "উদ্দেশ্যহীন ভোগের ভ্রম"
+        },
+        "p": [
+          {
+            "en": "Why should a warning look at fruit this closely? As-Saʿdī gives the reason in the same breath as the verse. Do you reckon, he paraphrases, that you will be left in these good things and blessings sudan, without purpose, enjoying them as grazing beasts enjoy theirs, neither commanded nor forbidden, and using these very blessings to help you disobey Allah? On his reading the fine description is not admiration for its own sake. The more exactly the gift is drawn, the plainer the question of what it was given for.",
+            "bn": "সতর্কবাণী কেন ফলের দিকে এত খুঁটিয়ে তাকাবে? সা'দী আয়াতের সঙ্গে সঙ্গেই কারণটা বলে দেন। তাঁর ব্যাখ্যায় প্রশ্নটা এ রকম: তোমরা কি ভাবছ, এসব ভালো জিনিস আর নিয়ামতের মধ্যে তোমাদের সুদা, উদ্দেশ্যহীন ফেলে রাখা হবে? চতুষ্পদ জন্তু যেমন ভোগ করে, তেমনি তোমরাও ভোগ করে যাবে, কোনো আদেশ-নিষেধ থাকবে না, আর এই নিয়ামত দিয়েই আল্লাহর নাফরমানিতে সাহায্য নেবে? তাঁর পাঠে এই সূক্ষ্ম বর্ণনা নিছক মুগ্ধতা নয়। দানটা যত নিখুঁতভাবে আঁকা হয়, তত স্পষ্ট হয়ে ওঠে প্রশ্নটা: এ দান দেওয়া হয়েছিল কিসের জন্য।"
+          },
+          {
+            "en": "Al-Muyassar sets the same list inside the question of 26:146: will your Lord leave you settled in this world, in the comfort you are in, secure from punishment, from passing away and from death? The softest fruit on the stalk carries no promise of the next harvest. The lesson the tafsirs draw is not that plenty is bad, nor that it proves anything in favour of the one who holds it. It is a test, a gift laid in the hand with gratitude and obedience asked in return. No tafsir fetched for this verse attaches a hadith to it, and none is cited here.",
+            "bn": "মুয়াসসার একই তালিকাকে বসান ২৬:১৪৬ আয়াতের প্রশ্নের ভেতরে: তোমাদের রব কি তোমাদের এই দুনিয়ায়, এই আরাম-আয়েশের মধ্যে স্থির করে রেখে দেবেন, আযাব, বিলুপ্তি আর মৃত্যু থেকে নিরাপদ অবস্থায়? ডাঁটার সবচেয়ে নরম ফলটাও পরের ফসলের কোনো নিশ্চয়তা দেয় না। তাফসীরগুলো যে শিক্ষা টানে, তা এই নয় যে প্রাচুর্য খারাপ। এও নয় যে প্রাচুর্য তার মালিকের পক্ষে কিছু প্রমাণ করে। এটা পরীক্ষা: হাতে তুলে দেওয়া এক দান, যার বদলে চাওয়া হয় শুকরিয়া আর আনুগত্য। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস আনা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Ruling on Anyone Living",
+          "bn": "আজকের কারও বিরুদ্ধে রায় নেই"
+        },
+        "p": [
+          {
+            "en": "Thamūd are a people the Qur'an describes as destroyed for rejecting their messenger. This verse describes what the text describes: one nation, long gone, given gardens, springs, crops and palms, and asked a question it answered with denial. It licenses nothing against any living person or community, and it passes no judgement on any present-day people or on any place, whatever now stands where they once lived. Their story is told in this surah as a sign for whoever hears it, and the only person it tells me to examine is myself.",
+            "bn": "কুরআনের বর্ণনায় সামূদ এমন এক জাতি, যারা নিজেদের রাসূলকে প্রত্যাখ্যান করার কারণে ধ্বংস হয়েছিল। এ আয়াত কেবল ততটুকুই বলে, যতটুকু পাঠে আছে: বহু আগে বিলীন হয়ে যাওয়া এক জাতি, যাদের বাগান, ঝরনা, শস্য আর খেজুরগাছ দেওয়া হয়েছিল, আর যাদের একটা প্রশ্ন করা হয়েছিল, যার জবাব তারা দিয়েছিল অস্বীকার দিয়ে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজকের কোনো জাতি বা কোনো জায়গার উপরও কোনো রায় দেয় না, তাদের পুরোনো বসতির জায়গায় এখন যা-ই থাকুক। এ সূরায় তাদের কাহিনি বলা হয়েছে শ্রোতার জন্য নিদর্শন হিসেবে। আর এ কাহিনি আমাকে কেবল একজনকেই যাচাই করতে বলে: আমাকে নিজেকে।"
+          },
+          {
+            "en": "That brings the word home. Haḍīm describes fruit at the point where it is softest and fullest, and also most easily lost: pressed close in the sheath, or ready to break in the hand. Many blessings are like that at their best, at their fullest exactly when they are easiest to take for granted. The verse does not ask the reader to fear good things. It asks for the harder habit of holding them as a trust that comes with a question. What is at its ripest in my life now, and what am I doing with it while it lasts?",
+            "bn": "এখানে এসে শব্দটা আমাদের নিজেদের কাছে ফিরে আসে। হাদীম সেই ফলের বর্ণনা, যা সবচেয়ে নরম আর সবচেয়ে ভরাট, আবার সবচেয়ে সহজে নষ্টও হয়: খোসার ভেতরে ঠাসা, কিংবা হাতে নিলেই ভেঙে যাওয়ার মতো। অনেক নিয়ামতও সেরা সময়ে এমনই। যখন তা সবচেয়ে পূর্ণ, ঠিক তখনই তাকে সবচেয়ে সহজে স্বাভাবিক বলে ধরে নেওয়া যায়। আয়াতটি পাঠককে ভালো জিনিসকে ভয় করতে বলে না। বলে আরও কঠিন এক অভ্যাসের কথা: নিয়ামতকে এমন আমানত হিসেবে ধরে রাখা, যার সঙ্গে একটা প্রশ্ন জুড়ে আছে। আমার জীবনে এখন সবচেয়ে পাকা কোনটা, আর তা থাকতে থাকতে আমি তা দিয়ে কী করছি?"
+          }
+        ]
+      }
+    ]
+  },
   "26:155": {
     "sections": [
       {
