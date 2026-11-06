@@ -2635,6 +2635,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:65": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Root to the Fruit",
+          "bn": "শিকড় থেকে ফলের দিকে"
+        },
+        "p": [
+          {
+            "en": "Ṭalʿuhā ka-annahu ruʾūsu ash-shayāṭīn: its ṭalʿ is as if it were the heads of the devils. Four words finish a description that began three verses back. 37:62 asked whether Paradise was the better accommodation or the tree of zaqqūm; 37:64 placed its root at the bottom of the Blaze. Now the eye moves up from the root to what the tree puts out. Al-Qurtubi and al-Baghawi both gloss ṭalʿ as thamaruhā, its fruit, and both give the reason for the name: it is called ṭalʿ li-ṭulūʿihi, because it emerges.",
+            "bn": "তালউহা কাআন্নাহু রুউসুশ শায়াতীন: এর তাল যেন শয়তানদের মাথা। মাত্র চারটি শব্দ, অথচ এগুলো দিয়েই শেষ হচ্ছে তিনটি আয়াত আগে শুরু হওয়া এক বর্ণনা। ৩৭:৬২ প্রশ্ন তুলেছিল, আপ্যায়ন হিসেবে জান্নাত ভালো, নাকি যাক্কুম গাছ? ৩৭:৬৪ তার শিকড় দেখিয়েছে জাহীমের তলদেশে। এবার দৃষ্টি শিকড় থেকে উঠে যাচ্ছে গাছ যা বের করে, সেদিকে। কুরতুবী ও বাগাভী দুজনেই তাল শব্দের অর্থ করেন সামারুহা, অর্থাৎ এর ফল। নামের কারণও দুজনে একই বলেন: বেরিয়ে আসে বলেই একে তাল বলা হয়।"
+          },
+          {
+            "en": "At-Tabari paraphrases the verse as a single comparison of ugliness: the ṭalʿ of the tree of zaqqūm, in its qubḥ and samājah, its ugliness and loathsomeness, is like the heads of the devils in theirs. He then cites Qatādah through his own chain saying only shabbahahu bi-dhālik, He likened it to that. The Muyassar: its fruit is ugly to look at. Ibn Kathir names the purpose in two words, tabshīʿ and takrīh: making the fruit hideous, and making the very mention of it hateful.",
+            "bn": "তাবারী পুরো আয়াতটিকে কুৎসিতের সঙ্গে কুৎসিতের তুলনা হিসেবে ব্যাখ্যা করেন। যাক্কুম গাছের তাল, তার কুবহ ও সামাজাহ, অর্থাৎ কদর্যতা আর ঘৃণ্যতায় যেন শয়তানদের মাথা, যা নিজেও কদর্য। এরপর তিনি নিজের সনদে কাতাদাহর ছোট্ট একটি কথা আনেন: শাব্বাহাহু বিযালিক, আল্লাহ একে ওটার সঙ্গে তুলনা করেছেন। মুয়াসসার বলে, এর ফল দেখতে কুৎসিত। ইবন কাসীর উপমার উদ্দেশ্য বলে দেন দুই শব্দে, তাবশী আর তাকরীহ। ফলটাকে বীভৎস করে দেখানো, আর তার নামটুকুও মনের কাছে ঘৃণ্য করে তোলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Compared to Something Never Seen",
+          "bn": "অদেখার সঙ্গে তুলনা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari raises the obvious difficulty himself, in the voice of an imagined questioner. A thing is likened to another so that the listener grasps how close the two are, and that requires him to know both things, or at least one of them. Yet we have no knowledge of how ugly the heads of devils are. And the polytheists addressed by this verse knew neither the tree of zaqqūm nor the heads of devils, and had seen neither of them. What, then, does the comparison achieve?",
+            "bn": "সবচেয়ে স্বাভাবিক আপত্তিটা তাবারী নিজেই তোলেন, এক কাল্পনিক প্রশ্নকারীর মুখে। একটা জিনিসকে আরেকটার সঙ্গে তুলনা করা হয় যাতে শ্রোতা বুঝতে পারে দুটি কতটা কাছাকাছি। তার জন্য শ্রোতাকে দুটোই চিনতে হয়, অন্তত একটাকে। অথচ শয়তানের মাথা কতটা কুৎসিত, তা আমাদের জানা নেই। আর এ আয়াত যে মুশরিকদের উদ্দেশে, তারা যাক্কুম গাছও চিনত না, শয়তানের মাথাও না। কোনোটাই তারা চোখে দেখেনি। তাহলে এই তুলনা দিয়ে কী অর্জিত হলো?"
+          },
+          {
+            "en": "He answers in two steps. The tree they did know, because Allah described it to them in 37:64 and 37:65 themselves. Fa-lam yatrukhum fī ʿamāʾin minhā, He did not leave them in the dark about it. As for likening its fruit to the heads of devils, he says that each of three explanations has an understandable sense, li-kullin minhā wajhun mafhūm, and he sets them out without choosing between them. Al-Qurtubi, al-Baghawi and Ibn Kathir take up the same three.",
+            "bn": "তাবারী জবাব দেন দুই ধাপে। গাছটা তারা চিনত, কারণ আল্লাহ নিজেই ৩৭:৬৪ ও ৩৭:৬৫ আয়াতে তাদের কাছে এর বর্ণনা দিয়েছেন। ফালাম ইয়াতরুকহুম ফী আমাইন মিনহা, তিনি তাদের এ বিষয়ে অন্ধকারে রাখেননি। আর ফলটাকে শয়তানের মাথার সঙ্গে তুলনা করার ব্যাপারে তিনি তিনটি ব্যাখ্যা দেন। তাঁর ভাষায়, প্রত্যেকটিরই বোধগম্য একটা দিক আছে। তিনটিই সাজিয়ে দেন, কিন্তু কোনোটাকে বেছে নেন না। কুরতুবী, বাগাভী আর ইবন কাসীরও এই তিনটি নিয়েই কথা বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ugliness the Mind Supplies",
+          "bn": "মন নিজেই যে কদর্যতা আঁকে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's first explanation rests on how the addressees spoke. When one of them wanted to exaggerate the ugliness of something, he said ka-annahu shayṭān, as if it were a devil. Al-Baghawi attributes the reading to Ibn ʿAbbās: these are the devils themselves, and the fruit is likened to them for its ugliness, because people say like a devil of anything utterly ugly, even though devils are not seen, since the ugliness of their form is pictured in the mind. Al-Baghawi says this is the meaning of what Ibn ʿAbbās and al-Quraẓī said, and al-Qurtubi reports the same meaning from both.",
+            "bn": "তাবারীর প্রথম ব্যাখ্যা দাঁড়িয়ে আছে শ্রোতাদের নিজেদের কথার ধরনের উপর। তাদের একজন কোনো কিছুর কদর্যতা খুব বাড়িয়ে বলতে চাইলে বলত, কাআন্নাহু শায়তান, যেন শয়তান। বাগাভী এই ব্যাখ্যা ইবন আব্বাস (রাঃ)-এর বলে উল্লেখ করেন। তাঁর মতে এখানে শয়তান মানে শয়তানরাই। ফলটাকে তাদের সঙ্গে তুলনা করা হয়েছে কদর্যতার কারণে। মানুষ চরম কুৎসিত কিছু দেখলে বলে, যেন শয়তান। শয়তানকে দেখা যায় না ঠিকই, কিন্তু তাদের চেহারার কদর্যতা মনের মধ্যে আঁকা থাকে। বাগাভী বলেন, ইবন আব্বাস ও কুরাযীর কথার অর্থ এটাই। কুরতুবীও এই অর্থ দুজনের কাছ থেকেই বর্ণনা করেন।"
+          },
+          {
+            "en": "Al-Qurtubi gives the device a name, tashbīh takhyīlī, a likeness drawn from the imagination, and shows its mirror image. People call anything ugly like a devil's form, and any beautiful form like an angel's. The Qur'an itself carries the second: the women who saw Yusuf (AS) said mā hādhā basharan in hādhā illā malakun karīm, this is no human being, this is none but a noble angel (12:31). None of them had seen an angel either.",
+            "bn": "কুরতুবী এই কৌশলের একটা নাম দেন: তাশবীহ তাখয়ীলী, কল্পনা থেকে টানা উপমা। সঙ্গে দেখান এর উল্টো পিঠও। মানুষ কুৎসিত যেকোনো কিছুকে বলে শয়তানের চেহারার মতো, আর সুন্দর চেহারাকে বলে ফেরেশতার মতো। দ্বিতীয়টির দৃষ্টান্ত কুরআনেই আছে। ইউসুফ (আঃ)-কে দেখে মহিলারা বলেছিল: মা হাযা বাশারা, ইন হাযা ইল্লা মালাকুন কারীম, এ তো মানুষ নয়, এ তো এক সম্মানিত ফেরেশতা (১২:৩১)। তারাও কেউ কখনো ফেরেশতা দেখেনি।"
+          },
+          {
+            "en": "Al-Qurtubi adds a line of Imruʾ al-Qays, who described sharpened, blue-gleaming points as ka-anyābi aghwāl, like the fangs of ghouls. The ghoul is not known, al-Qurtubi says, but its ugliness is pictured in people's minds. Ibn Kathir puts the point the same way: it is settled in people's minds that devils are ugly to look at. He also quotes Wahb ibn Munabbih: the hair of the devils stands up toward the sky. Ma'arif al-Qur'an, citing Rūḥ al-Maʿānī, calls it an imaginative simile meant only to express an extreme degree of ugliness.",
+            "bn": "কুরতুবী আরও আনেন ইমরুল কায়সের একটি পঙক্তি। কবি শান দেওয়া নীলচে ধারালো ফলাকে বলেছিলেন কাআনয়াবি আগওয়াল, গুলের দাঁতের মতো। কুরতুবী বলেন, গুল কেউ চেনে না, কিন্তু তার কদর্যতা মানুষের মনে আঁকা আছে। ইবন কাসীরও একই কথা বলেন। মানুষের মনে এ ধারণা বসে গেছে যে শয়তান দেখতে কুৎসিত, তিনি ওয়াহব ইবন মুনাব্বিহের একটি কথাও আনেন: শয়তানদের চুল আকাশের দিকে খাড়া হয়ে থাকে। মাআরিফুল কুরআন রূহুল মাআনীর বরাতে একে কল্পনানির্ভর উপমা বলে। উদ্দেশ্য শুধু কদর্যতার চূড়ান্ত মাত্রা বোঝানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Snake With a Crest",
+          "bn": "ঝুঁটিওয়ালা এক সাপ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's second explanation finds a creature the Arabs had seen. The likeness may be to the head of a snake known among them and called shayṭān, a snake with a crest, ʿurf, ugly of face and appearance, as was reported. A rajaz poet meant that snake, he says, when he described a woman who swears back whenever he swears as ka-mithli shayṭāni al-ḥamāṭi aʿrafu, like a crested shayṭān of the ḥamāṭ. Al-Qurtubi quotes the same couplet; aʿraf, he notes, means the one that has a crest.",
+            "bn": "তাবারীর দ্বিতীয় ব্যাখ্যা এমন এক প্রাণীর কথা বলে, যা আরবরা চোখে দেখত। উপমাটা হতে পারে তাদের চেনা এক সাপের মাথার সঙ্গে, যাকে তারা শায়তান বলত। বর্ণনা অনুযায়ী এ সাপের মাথায় ঝুঁটি থাকে, আরবিতে উরফ, আর তার মুখ ও চেহারা কুৎসিত। তাবারী বলেন, এক রাজায কবি এই সাপকেই বুঝিয়েছিলেন। কবি এমন এক নারীর কথা বলছিলেন, যে তিনি কসম খেলেই পাল্টা কসম খায়। তাকে তিনি বলেছিলেন হামাতের ঝুঁটিওয়ালা শায়তানের মতো। কুরতুবীও একই পঙক্তি উদ্ধৃত করেন। তাঁর ব্যাখ্যায় আরাফ মানে যার ঝুঁটি আছে।"
+          },
+          {
+            "en": "Al-Qurtubi gives this reading its authorities: az-Zajjāj and al-Farrāʾ said the shayāṭīn are snakes with heads and crests, among the ugliest and most vicious of snakes and the lightest in body. He adds a second poet describing his she-camel, whose gait is the taʿammuj, the winding, of a shayṭān in a barren place of castor plants. An-Naḥḥās, he reports, also said the shayāṭīn are a kind of ugly snake. Al-Baghawi records the reading under some said: the Arabs call a snake that is ugly to look at shayṭān.",
+            "bn": "কুরতুবী এ ব্যাখ্যার পক্ষে আলেমদের নামও দেন। যাজ্জাজ ও ফাররা বলেছেন, শায়াতীন হলো মাথা ও ঝুঁটিওয়ালা একধরনের সাপ। সাপদের মধ্যে এরাই সবচেয়ে কুৎসিত আর সবচেয়ে হিংস্র, শরীরেও সবচেয়ে হালকা। তিনি আরেক কবির পঙক্তিও আনেন। কবি নিজের উটনীর চলনকে তুলনা করেছিলেন রেড়ি গাছে ভরা বিরান প্রান্তরে এক শায়তানের তাআম্মুজের সঙ্গে, অর্থাৎ এঁকেবেঁকে চলার সঙ্গে। তিনি জানান, নাহহাসও বলেছেন শায়াতীন একধরনের কুৎসিত সাপ। বাগাভী এ মত আনেন 'কেউ কেউ বলেছেন' বলে: আরবরা দেখতে কুৎসিত সাপকে শায়তান বলে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reports the same reading. Some commentators, it says, translated ash-shayāṭīn in this verse as serpents, since the fruit of zaqqūm resembles the hood of a serpent, and for this reason it is called nagphan, the serpent's hood, in Urdu and Hindi as well. On this second reading the comparison answers at-Tabari's questioner differently. The listener did not need to imagine anything, because the thing compared to was a real animal the Arabs knew by that name.",
+            "bn": "মাআরিফুল কুরআনও একই ব্যাখ্যার খবর দেয়। সেখানে বলা হয়েছে, কিছু তাফসীরকার এ আয়াতের আশ-শায়াতীন শব্দের অনুবাদ করেছেন সাপ। কারণ যাক্কুমের ফল দেখতে সাপের ফণার মতো। এ কারণেই উর্দু ও হিন্দিতে একে নাগফণী বলা হয়। এই দ্বিতীয় ব্যাখ্যা তাবারীর প্রশ্নকারীকে অন্যভাবে জবাব দেয়। শ্রোতাকে কিছু কল্পনা করতে হয়নি। যার সঙ্গে তুলনা, সে এক সত্যিকারের প্রাণী, আরবরা এই নামেই তাকে চিনত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plant That Bore the Name",
+          "bn": "যে গাছের নামই ছিল এটি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's third explanation moves from animals to plants. The likeness may be to a known plant called ruʾūs ash-shayāṭīn, the heads of devils, which is said to have an ugly head. Al-Baghawi describes it more fully under it is said: a tree that is ugly, bitter and foul-smelling, found in the open desert, which the Arabs call ruʾūs ash-shayāṭīn. Al-Qurtubi quotes az-Zamakhsharī to the same effect: a coarse, stinking, bitter tree of hideous form whose fruit is called ruʾūs ash-shayāṭīn. On this reading the verse compares fruit to fruit, and the name was already in use.",
+            "bn": "তাবারীর তৃতীয় ব্যাখ্যা প্রাণী ছেড়ে উদ্ভিদের দিকে যায়। উপমাটা হতে পারে এক পরিচিত উদ্ভিদের সঙ্গে, যার নাম রুউসুশ শায়াতীন, শয়তানদের মাথা। বলা হয়, এর মাথাটা দেখতে কুৎসিত। বাগাভী 'বলা হয়' কথাটি দিয়ে আরও খুলে বলেন: মরুভূমিতে জন্মানো এক গাছ, দেখতে কুৎসিত, স্বাদে তিতা, গন্ধে দুর্গন্ধময়। আরবরা একে রুউসুশ শায়াতীন বলে ডাকে। কুরতুবী যামাখশারীর একই রকম কথা উদ্ধৃত করেন: খসখসে, দুর্গন্ধযুক্ত, তিতা, বিদঘুটে চেহারার এক গাছ, যার ফলকে রুউসুশ শায়াতীন বলা হয়। এ ব্যাখ্যায় আয়াতটি ফলের সঙ্গে ফলেরই তুলনা করছে। আর নামটা আগে থেকেই চালু ছিল।"
+          },
+          {
+            "en": "Al-Qurtubi also records, under it is said, that the likeness is to an ugly plant in Yemen, for which he gives two names, one of them simply ash-shayṭān. He follows it at once with an-Naḥḥās: that is not known among the Arabs. The second and third readings share a method. Each answers at-Tabari's questioner by finding a thing the listeners had seen and that already carried the name. The first answers that none was needed.",
+            "bn": "কুরতুবী 'বলা হয়' দিয়ে আরেকটি কথাও আনেন: উপমাটা ইয়েমেনের এক কুৎসিত উদ্ভিদের সঙ্গে। তিনি এর দুটি নাম উল্লেখ করেন, তার একটি সরাসরি আশ-শায়তান। ঠিক পরেই আনেন নাহহাসের কথা: আরবদের কাছে এটা পরিচিত নয়। দ্বিতীয় আর তৃতীয় ব্যাখ্যার পদ্ধতি এক। দুটোই তাবারীর প্রশ্নকারীকে জবাব দেয় এমন কিছু খুঁজে বের করে, যা শ্রোতারা দেখেছে এবং যার নাম আগে থেকেই এটা। প্রথম ব্যাখ্যার জবাব ভিন্ন: এমন কিছুর দরকারই ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Readings, One Ranking",
+          "bn": "তিন ব্যাখ্যা, এক বিচার"
+        },
+        "p": [
+          {
+            "en": "At-Tabari leaves the three side by side. Ibn Kathir does not. Having given the snake and the plant under the word qīla, it is said, he writes: wa fī hādhayn al-iḥtimālayn naẓar, these two possibilities are open to question; Ibn Jarīr mentioned them, and the first is stronger and more fitting, wa-Allāhu aʿlam. Ma'arif al-Qur'an takes the same side, saying that most commentators hold the word ash-shayāṭīn should be taken here in its well-recognized sense. Al-Qurtubi opens with the first reading, but he gives the other two at length and does not rank them.",
+            "bn": "তাবারী তিনটি ব্যাখ্যা পাশাপাশি রেখে দেন। ইবন কাসীর তা করেন না। সাপ আর উদ্ভিদের ব্যাখ্যা তিনি আনেন 'কীলা', বলা হয়, শব্দ দিয়ে। তারপর লেখেন: ওয়া ফী হাযাইনিল ইহতিমালাইনি নাযার, এই দুই সম্ভাবনা প্রশ্নসাপেক্ষ। ইবন জারীর এ দুটি উল্লেখ করেছেন, তবে প্রথমটিই বেশি শক্ত আর বেশি যথার্থ। আল্লাহই ভালো জানেন। মাআরিফুল কুরআনও একই দিকে। সেখানে বলা হয়েছে, বেশিরভাগ তাফসীরকারের মতে আশ-শায়াতীন শব্দটি এখানে তার পরিচিত অর্থেই নিতে হবে। কুরতুবী শুরু করেন প্রথম ব্যাখ্যা দিয়ে। তবে বাকি দুটিও বিস্তারিত আনেন, আর কোনোটিকে ছোট-বড় করেন না।"
+          },
+          {
+            "en": "Al-Qurtubi adds two remarks that bear on the first reading. Allah speaks of shayāṭīn al-ins wa-al-jinn, devils of mankind and jinn (6:112), so the rebels among humans are devils that can be seen. And many of the Arabs, he says, claimed to have seen devils and ghouls. The sources also leave a small tension unresolved: an-Naḥḥās, in al-Qurtubi, says the Yemeni plant was not known among the Arabs, while al-Baghawi says the Arabs called a desert tree by this very name. What no source disputes is the point of the image: utter ugliness.",
+            "bn": "প্রথম ব্যাখ্যার সঙ্গে জড়িত আরও দুটি কথা কুরতুবী যোগ করেন। আল্লাহ বলেছেন শায়াতীনাল ইনসি ওয়াল জিন্ন, মানুষ ও জিনের মধ্য থেকে শয়তান (৬:১১২)। তাহলে মানুষের মধ্যে যারা অবাধ্য, তারা এমন শয়তান যাদের দেখা যায়। আর তিনি বলেন, অনেক আরব দাবি করত তারা শয়তান আর গুল দেখেছে। সূত্রগুলোর মধ্যে একটা ছোট টানও মীমাংসা ছাড়াই রয়ে গেছে। কুরতুবীর বর্ণনায় নাহহাস বলেন, ইয়েমেনের সেই উদ্ভিদ আরবদের কাছে পরিচিত নয়। অথচ বাগাভী বলেন, মরুভূমির এক গাছকে আরবরা ঠিক এই নামেই ডাকত। তবে ছবিটার উদ্দেশ্য নিয়ে কোনো সূত্রে দ্বিমত নেই: চরম কদর্যতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Palm Trees Beside a Well",
+          "bn": "কূপের ধারের খেজুরগাছ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi cites one narration on the phrase, calling it the sound hadith: and as though its palms were the heads of devils. Al-Bukhari records a version of it (5763) from ʿĀʾishah (RA). Magic had been worked on the Prophet ﷺ by a man named Labīd ibn al-Aʿṣam, and two men who came to him named the materials and where they lay: in the well of Dharwān. He went there with some of his companions and came back saying: \"O ʿAisha, the color of its water is like the infusion of Henna leaves. The tops of the date-palm trees near it are like the heads of the devils.\"",
+            "bn": "এই বাক্যাংশ প্রসঙ্গে কুরতুবী একটি বর্ণনা আনেন, সহীহ হাদীস বলে: যেন এর খেজুরগাছগুলো শয়তানদের মাথা। বুখারী (৫৭৬৩) আয়েশা (রাঃ) থেকে এর একটি ভাষ্য বর্ণনা করেছেন। লাবীদ ইবনুল আসাম নামে এক ব্যক্তি নবী ﷺ-এর উপর জাদু করেছিল। দুজন লোক তাঁর কাছে এসে জাদুর উপকরণের কথা আর সেগুলো কোথায় আছে তা বলে দেয়: যারওয়ান কূপে। তিনি কয়েকজন সাহাবিকে নিয়ে সেখানে গেলেন। ফিরে এসে বললেন: \"হে আয়েশা, এর পানির রং যেন মেহেদি পাতা ভেজানো পানির মতো। আর এর আশপাশের খেজুরগাছের মাথাগুলো যেন শয়তানদের মাথা।\""
+          },
+          {
+            "en": "The narration is not attached to this verse. It does not mention 37:65 or the tree of zaqqūm. Al-Qurtubi sets it among his examples of the phrase in living speech, here used for palms that looked repellent beside a well where harm had been hidden. The same narration also uses the verse's word: among the materials was juff ṭalʿi nakhlatin dhakar, which the translation renders as the skin of pollen of a male date palm. In that narration ṭalʿ is the palm's own word, and the heads of devils are a likeness the Prophet ﷺ himself reached for.",
+            "bn": "বর্ণনাটি এ আয়াতের সঙ্গে যুক্ত নয়। এতে ৩৭:৬৫ বা যাক্কুম গাছের কোনো উল্লেখ নেই। কথাটা যে মানুষের মুখে মুখে চালু ছিল, তার দৃষ্টান্তগুলোর মধ্যে কুরতুবী একেও রেখেছেন। যে কূপে ক্ষতিকর জিনিস লুকানো ছিল, তার পাশের বিদঘুটে খেজুরগাছের বেলায় কথাটা ব্যবহার হয়েছে। এই একই বর্ণনায় আয়াতের শব্দটিও আছে। উপকরণের মধ্যে ছিল জুফফু তালই নাখলাতিন যাকার, অনুবাদে যাকে বলা হয়েছে পুরুষ খেজুরগাছের পরাগের খোসা। সেখানে তাল শব্দটি খেজুরগাছের বেলায়ই এসেছে। আর শয়তানের মাথার উপমা নবী ﷺ নিজেও ব্যবহার করেছেন।"
+          },
+          {
+            "en": "None of the tafsirs consulted for this verse attaches a narration about zaqqūm to it. A hadith that describes the food of this tree is recorded by at-Tirmidhi (2585) from Ibn ʿAbbās: the Messenger of Allah ﷺ recited 3:102 and said, \"If only a drop of Az-Zaqqum were to drip into the abode of the world, it would spoil the peoples' livelihood, so how about the person for whom it is his food?\" At-Tirmidhi grades it hasan sahih. It was spoken after 3:102, not after this verse, and the article on 44:43 studies it more closely.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই যাক্কুম সম্পর্কে কোনো বর্ণনা এ আয়াতের সঙ্গে যুক্ত করেনি। এই গাছের খাবারের বর্ণনা দেয় এমন একটি হাদীস তিরমিযী (২৫৮৫) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন। রাসূলুল্লাহ ﷺ ৩:১০২ তিলাওয়াত করে বললেন: \"যাক্কুমের এক ফোঁটা যদি দুনিয়ার ঘরে টপকে পড়ত, তাহলে দুনিয়াবাসীর জীবনযাত্রা নষ্ট করে দিত। তাহলে যার খাবারই হবে এটা, তার অবস্থা কী হবে?\" তিরমিযী একে হাসান সহীহ বলেছেন। কথাটি এসেছিল ৩:১০২ তিলাওয়াতের পর, এ আয়াতের পর নয়। ৪৪:৪৩ আয়াতের প্রবন্ধে এ নিয়ে আরও বিস্তারিত আলোচনা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seen Before It Is Tasted",
+          "bn": "স্বাদের আগেই চেহারা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di and the Muyassar draw the same conclusion from the look of the fruit: fa-lā tasʾal baʿda hādhā ʿan ṭaʿmihā, so after this, do not ask about its taste. As-Sa'di carries the thought further: nor about what it does inside them, in their bellies, and they have no way out of it and nowhere to turn aside. The verse describes only how the fruit looks, and the commentators read that restraint as the point. The eating and the drink wait for 37:66 and 37:67.",
+            "bn": "ফলের চেহারা থেকে সা'দী আর মুয়াসসার একই সিদ্ধান্তে পৌঁছান: ফালা তাসআল বাদা হাযা আন তামিহা, এরপর এর স্বাদের কথা আর জিজ্ঞেস কোরো না। সা'দী কথাটা আরও এগিয়ে নেন। পেটের ভেতরে গিয়ে এটা তাদের কী করে, সেটাও জিজ্ঞেস কোরো না। এর হাত থেকে তাদের রেহাই নেই, এড়িয়ে যাওয়ার পথও নেই। আয়াতটি শুধু ফলের চেহারার কথা বলে, আর তাফসীরকারেরা এই সংযমকেই আসল কথা হিসেবে পড়েন। খাওয়া আর পানীয়ের কথা রইল ৩৭:৬৬ ও ৩৭:৬৭ আয়াতের জন্য।"
+          },
+          {
+            "en": "The comparison was set up in 37:62, which Ibn Kathir reads as weighing the delights of Paradise, its food, drink and companions, against this tree. The passage had already named the Garden's provision: fawākihu wa-hum mukramūn, fruits, and they are honoured (37:42). Fruit is offered there, and ṭalʿ here, and the reader is shown both tables before reaching either. What the mind supplies to the heads of devils, each listener's own worst picture of ugliness, is exactly what the verse asks the listener to set against the Garden.",
+            "bn": "তুলনার ভিত তৈরি হয়েছিল ৩৭:৬২ আয়াতে। ইবন কাসীর সেখানকার প্রশ্নটিকে পড়েন এভাবে: জান্নাতের নিয়ামত, তার খাবার, পানীয় আর সঙ্গীসাথি একদিকে, আর এই গাছ অন্যদিকে। জান্নাতের রিযিকের নাম এ অংশে আগেই এসেছে: ফাওয়াকিহু ওয়াহুম মুকরামূন, ফলমূল, আর তারা সম্মানিত (৩৭:৪২)। সেখানে ফল, এখানে তাল। কোনোটির কাছে পৌঁছানোর আগেই পাঠককে দুটো দস্তরখানই দেখিয়ে দেওয়া হলো। প্রত্যেক শ্রোতা নিজের মনে কদর্যতার যে সবচেয়ে খারাপ ছবি আঁকে, আয়াত ঠিক সেটাকেই জান্নাতের বিপরীতে দাঁড় করাতে বলে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes the food of the Fire and what its fruit looks like, and nothing more. It names no person and no people, and it licenses nothing against any living person or community. Al-Qurtubi's remark that rebels among humans are devils who can be seen is part of an argument about whether a devil's ugliness can be known. It gives no one the right to call a neighbour a devil, or to assign this tree to anyone. Who will eat from it is known to Allah alone. The picture's work is to turn the reader back.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জাহান্নামের খাবার আর তার ফলের চেহারার বর্ণনা দেয়, এর বেশি কিছু নয়। এতে কোনো ব্যক্তি বা জাতির নাম নেই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। মানুষের মধ্যে যারা অবাধ্য তারা দৃশ্যমান শয়তান, কুরতুবীর এ কথা একটা যুক্তির অংশ: শয়তানের কদর্যতা জানা সম্ভব কি না। প্রতিবেশীকে শয়তান বলার, কিংবা কারও ঘাড়ে এই গাছ চাপিয়ে দেওয়ার অধিকার এ কথা কাউকে দেয় না। কে এ গাছ থেকে খাবে, তা কেবল আল্লাহই জানেন। ছবিটার কাজ পাঠককে ফিরিয়ে আনা।"
+          }
+        ]
+      }
+    ]
+  },
   "37:68": {
     "sections": [
       {

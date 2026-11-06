@@ -25829,6 +25829,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Excellence is not measured by results or applause. Do your work and your worship well, obey and endure for Allah's sake, and leave the reward to the One who promised it.",
     "lessonBn": "ফলাফল বা বাহবা দিয়ে উৎকর্ষ মাপা হয় না। নিজের কাজ আর ইবাদত ভালো করে করুন, আল্লাহর জন্য আনুগত্য করুন ও ধৈর্য ধরুন, আর প্রতিদানের ভার ছেড়ে দিন তাঁর হাতে, যিনি তা দেওয়ার কথা দিয়েছেন।"
+  },
+  "37:65": {
+    "reflectionEn": "The tree has already been named and placed at the bottom of the Fire. Now the Qur'an shows its fruit, and it chooses a picture no listener had ever seen: as if it were the heads of devils. The picture works anyway. Nobody needs to have met a devil to know that the word stands for the worst ugliness the mind can imagine. The verse lets every listener supply that image and then fastens it to the food of the Fire. One look is enough, and the taste is left unsaid. A few verses earlier, the Garden's people were given fruit. Which table am I working toward? And when the Qur'an describes the Fire, do I let the picture reach me, or keep it at a safe distance?",
+    "reflectionBn": "গাছটির নাম আগেই বলা হয়ে গেছে, তার জায়গাও দেখানো হয়েছে জাহান্নামের তলায়। এবার কুরআন দেখাচ্ছে তার ফল। আর উপমা হিসেবে বেছে নিচ্ছে এমন এক ছবি, যা কোনো শ্রোতা কখনো চোখে দেখেনি: যেন শয়তানের মাথা। তবু উপমাটা ঠিকই কাজ করে। শয়তান দেখার দরকার কারও পড়ে না। শব্দটা শুনলেই সবাই বোঝে, মন যত কুৎসিত কিছু কল্পনা করতে পারে, এ তারই নাম। আয়াতটি প্রত্যেক শ্রোতাকে নিজের মনে ছবিটা আঁকতে দেয়, তারপর সেটাকে জুড়ে দেয় জাহান্নামের খাবারের সঙ্গে। একবার তাকানোই যথেষ্ট, স্বাদের কথা আর বলতে হয় না। কয়েক আয়াত আগেই জান্নাতের লোকদের দেওয়া হয়েছিল ফলমূল। আমি কোন দস্তরখানের দিকে এগোচ্ছি? আর কুরআন যখন জাহান্নামের বর্ণনা দেয়, ছবিটাকে কি আমি মনে পৌঁছাতে দিই, নাকি নিরাপদ দূরত্বে সরিয়ে রাখি?",
+    "pointsEn": [
+      "When I hear the Qur'an describe the Fire, do I let the picture reach me, or file it away as a warning meant for other people?",
+      "What looks harmless or even attractive to me now, that would look like this fruit if I could see where it ends?",
+      "The Garden's fruit and the Fire's fruit sit a few verses apart. What did I do today that moves me toward one or the other?",
+      "Do I let a frightening description turn me back from what leads to it, or does it only make me uneasy for a moment?",
+      "Have I ever called a person a devil in anger? What does a verse about the Fire's food actually give me the right to say about anyone?"
+    ],
+    "pointsBn": [
+      "কুরআন যখন জাহান্নামের বর্ণনা দেয়, সেই ছবিটা কি আমি মনে পৌঁছাতে দিই, নাকি অন্যদের জন্য দেওয়া সতর্কবাণী ভেবে সরিয়ে রাখি?",
+      "এখন যা আমার চোখে নিরীহ, এমনকি আকর্ষণীয়, তার শেষ পরিণতি দেখতে পেলে কোনটা কি এই ফলের মতোই দেখাত?",
+      "জান্নাতের ফল আর জাহান্নামের ফল কয়েক আয়াতের ব্যবধানে পাশাপাশি রাখা। আজ আমি এমন কী করেছি, যা আমাকে এর একটির দিকে এগিয়ে নেয়?",
+      "ভয়ের বর্ণনা কি আমাকে সেই পথ থেকে ফিরিয়ে আনে, যা সেখানে নিয়ে যায়? নাকি শুধু কিছুক্ষণের অস্বস্তি দিয়ে মিলিয়ে যায়?",
+      "রাগের মাথায় কখনো কি কাউকে শয়তান বলে ডেকেছি? জাহান্নামের খাবার নিয়ে নাজিল হওয়া একটি আয়াত কারও সম্পর্কে আমাকে আসলে কী বলার অধিকার দেয়?"
+    ],
+    "lessonEn": "Let the Qur'an's picture of the Fire's food stay ugly in your mind. It is there to turn you from what leads to it, not to be explained away.",
+    "lessonBn": "জাহান্নামের খাবারের যে ছবি কুরআন আঁকে, তা মনের মধ্যে কুৎসিত হয়েই থাকুক। ছবিটা আছে আপনাকে সেই পথ থেকে ফেরাতে, যা সেখানে নিয়ে যায়। ব্যাখ্যা দিয়ে উড়িয়ে দেওয়ার জন্য নয়।"
   }
 };
 
