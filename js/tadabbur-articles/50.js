@@ -167,6 +167,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "50:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eyes Lowered to the Earth",
+          "bn": "আকাশ থেকে চোখ নামে মাটিতে"
+        },
+        "p": [
+          {
+            "en": "Surah Qaf has just recorded a doubt. In 50:3 those who denied asked: when we have died and become dust, is that not a distant return? The reply does not open with an argument about bodies. In 50:6 it asks whether they have not looked at the sky above them, how it was built and adorned and has no rifts. Our verse, 50:7, then lowers the eyes from the sky to the ground: wa-l-arda madadnaha wa-alqayna fiha rawasiya wa-anbatna fiha min kulli zawjin bahij.",
+            "bn": "সূরা কাফ এইমাত্র একটি সন্দেহের কথা তুলে ধরেছে। ৫০:৩ আয়াতে অস্বীকারকারীরা বলেছিল: আমরা মরে মাটি হয়ে গেলে আবার ফিরে আসব? এ তো বহু দূরের কথা! জবাবটা কিন্তু দেহ নিয়ে তর্ক দিয়ে শুরু হয়নি। ৫০:৬ আয়াত প্রশ্ন করে, তারা কি মাথার উপরের আকাশের দিকে তাকায়নি? দেখেনি, কীভাবে তা বানানো হয়েছে, সাজানো হয়েছে, আর তাতে কোনো ফাটল নেই? তারপর আমাদের আয়াত, ৫০:৭, চোখ আকাশ থেকে নামিয়ে আনে মাটিতে: ওয়াল আরদা মাদাদনাহা ওয়া আলকাইনা ফীহা রাওয়াসিয়া ওয়া আমবাতনা ফীহা মিন কুল্লি যাওজিম বাহীজ।"
+          },
+          {
+            "en": "The verse is eleven Arabic words carried by three verbs, each in the first person plural: madadna, We spread; alqayna, We cast; anbatna, We made grow. Every act is Allah's alone, and every one can be checked by anyone who steps outside. As-Sa'di reads the verse as continuing the question of 50:6 and supplies the link in his own words: and to the earth, how We spread it out. On his reading, the looking that 50:6 asks for does not stop at the sky; it carries on down to the earth.",
+            "bn": "আরবিতে আয়াতটি ১১টি শব্দের, আর তা দাঁড়িয়ে আছে তিনটি ক্রিয়ার উপর। তিনটিতেই আল্লাহ নিজে বলছেন ‘আমি’: মাদাদনা, আমি বিছিয়েছি; আলকাইনা, আমি ফেলে দিয়েছি; আমবাতনা, আমি উদ্গত করেছি। প্রতিটি কাজ একমাত্র আল্লাহর। আবার প্রতিটিই এমন, যে কেউ ঘর থেকে বেরোলেই নিজের চোখে মিলিয়ে নিতে পারে। সা'দী আয়াতটিকে ৫০:৬-এর প্রশ্নেরই ধারাবাহিকতা হিসেবে পড়েন, আর সংযোগটা নিজের ভাষায় জুড়ে দেন: আর পৃথিবীর দিকে, কীভাবে আমি তা বিছিয়েছি। তাঁর পাঠে ৫০:৬ যে তাকানোর কথা বলেছে, তা আকাশে গিয়ে থেমে যায় না, নেমে আসে পৃথিবী পর্যন্ত।"
+          },
+          {
+            "en": "Why point to sky and earth when the dispute was about the dead? The English abridgement of Ibn Kathir, which treats 50:6 to 50:11 as one passage, answers that Allah shows His power by creating what is bigger than the thing they wondered at and thought impossible. Later in the same passage it cites 40:57: the creation of the heavens and the earth is greater than the creation of mankind. The earth of this verse is offered as evidence, not as scenery. Verse 50:8 then names whom the evidence serves, and the page on 50:9 follows that thread.",
+            "bn": "বিতর্ক ছিল মৃতদের নিয়ে, তাহলে আকাশ আর পৃথিবীর দিকে আঙুল তোলা কেন? ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ ৫০:৬ থেকে ৫০:১১ পর্যন্ত আয়াতগুলোকে একসঙ্গে আলোচনা করে, আর এর জবাব দেয় এভাবে: তারা যে বিষয়ে অবাক হয়েছিল আর যাকে অসম্ভব ভেবেছিল, আল্লাহ তার চেয়েও বড় জিনিস সৃষ্টি করে নিজের কুদরত দেখিয়ে দিয়েছেন। একই আলোচনায় পরে সেখানে ৪০:৫৭ আয়াত উদ্ধৃত হয়েছে: আকাশমণ্ডলী ও পৃথিবীর সৃষ্টি মানুষের সৃষ্টির চেয়ে বড়। তাই এ আয়াতের পৃথিবী নিছক দৃশ্য নয়, প্রমাণ। এ প্রমাণ কার কাজে আসে, ৫০:৮ আয়াত তা বলে দেয়, আর ৫০:৯-এর পাতা সে সূত্র ধরে এগিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Widened and Laid Out",
+          "bn": "চওড়া করে বিছানো জমিন"
+        },
+        "p": [
+          {
+            "en": "Madadnaha: We spread it out. The glosses gather around two ideas, width and laying out. At-Tabari says basatnaha, We laid it out. Ibn Kathir says wassa'naha wa-farashnaha, We made it wide and spread it as a floor, and the Muyassar uses the same pair. On this verse al-Qurtubi says only that its explanation came earlier, in Surah ar-Ra'd. There, on 13:3, he glosses the same verb as basata l-arda tulan wa-'ardan, He spread the earth in length and breadth, and notes that the earth's signs follow the heavens' signs, the order Qaf keeps here.",
+            "bn": "মাদাদনাহা: আমি তাকে বিছিয়েছি। তাফসীরকারদের ব্যাখ্যা ঘুরেফিরে দুটি কথায় এসে দাঁড়ায়: প্রশস্ততা আর বিছিয়ে দেওয়া। তাবারী বলেন, বাসাতনাহা, আমি তাকে বিছিয়ে দিয়েছি। ইবন কাসীর বলেন, ওয়াসসা'নাহা ওয়া ফারাশনাহা, আমি তাকে প্রশস্ত করেছি আর মেঝের মতো পেতে দিয়েছি। মুয়াসসারও একই জোড়া শব্দ ব্যবহার করে। এ আয়াতে কুরতুবী শুধু এটুকু বলেন যে, এর ব্যাখ্যা আগে সূরা রা'দে এসে গেছে। সেখানে ১৩:৩ আয়াতে তিনি একই ক্রিয়ার অর্থ করেন: তিনি পৃথিবীকে দৈর্ঘ্যে ও প্রস্থে বিছিয়ে দিয়েছেন। তিনি এটাও লক্ষ করেন যে, আকাশের নিদর্শনের পরেই আসে পৃথিবীর নিদর্শন। সূরা কাফও এখানে সেই ক্রমই রেখেছে।"
+          },
+          {
+            "en": "As-Sa'di measures the width by what it allows. Allah widened the earth, he says, until every living creature could dwell on it, settle there and make ready for all its needs. The English abridgement of Ibn Kathir has: We made it spacious and spread it out. On these readings the spreading is not a fact about distance for its own sake. It is room: ground laid out to walk on, build on and plant in, given before any of its people asked for it, and so ordinary that it is almost never noticed.",
+            "bn": "সা'দী এই প্রশস্ততা মাপেন তা দিয়ে কী কী সম্ভব হয়েছে, সেই হিসাবে। তিনি বলেন, আল্লাহ পৃথিবীকে এতটা প্রশস্ত করেছেন যে প্রতিটি প্রাণী তাতে বাস করতে পারে, থিতু হতে পারে আর নিজের সব প্রয়োজনের জোগাড় করতে পারে। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণেও আছে: আমি তাকে প্রশস্ত করেছি আর বিছিয়ে দিয়েছি। এই ব্যাখ্যাগুলোর আলোয় বিছানোটা নিছক দূরত্বের কোনো তথ্য নয়। এ হলো জায়গা: হাঁটার, ঘর তোলার আর চাষ করার জন্য পেতে রাখা জমিন। এর বাসিন্দারা চাওয়ার আগেই তা দেওয়া হয়েছে। আর জিনিসটা এত সাধারণ যে প্রায় কারও চোখেই পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Said It Rests On",
+          "bn": "জমিন কিসের উপর, তাঁদের কথায়"
+        },
+        "p": [
+          {
+            "en": "Two commentators add a detail the verse does not state. Al-Baghawi says basatnaha 'ala wajhi l-ma', We spread it on the face of the water. Ibn Kathir, explaining the mountains, says the earth rests upon the current of the water that surrounds it on every side, and that is why it needed them to keep it from swaying.",
+            "bn": "দুজন তাফসীরকার এমন একটি কথা যোগ করেন, যা আয়াতে বলা নেই। বাগাভী বলেন, আমি তাকে পানির উপরিভাগে বিছিয়েছি। ইবন কাসীর পাহাড়ের ব্যাখ্যায় বলেন, পৃথিবী স্থির হয়ে আছে চারদিক থেকে ঘিরে রাখা পানির স্রোতের উপর, আর এ কারণেই দুলে ওঠা ঠেকাতে পাহাড়ের প্রয়োজন হয়েছে।"
+          },
+          {
+            "en": "These are their statements, made in their own centuries, and they are reported here as theirs. The wording of 50:7 is madadnaha, We spread it, and on what that gives the earth's people the commentators agree: room and ground laid out to live on. None of the other commentaries consulted for this verse raises the question of what lies beneath, and this page takes no side on it. The verse's own question, in 50:6, is about looking, and what it asks a person to see is the ground beneath them.",
+            "bn": "এগুলো তাঁদের কথা। নিজ নিজ যুগে তাঁরা এসব কথা বলেছেন, আর এখানে তাঁদের কথা হিসেবেই উল্লেখ করা হলো। ৫০:৭ আয়াতের শব্দ মাদাদনাহা, আমি তাকে বিছিয়েছি। এতে পৃথিবীর বাসিন্দারা কী পায়, সে ব্যাপারে তাফসীরকারেরা একমত: থাকার মতো জায়গা আর বসবাসের জন্য পেতে রাখা জমিন। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার আর কোনোটি পৃথিবীর নিচে কী আছে, সে প্রশ্ন তোলেনি। এ পাতাও সে বিষয়ে কোনো পক্ষ নিচ্ছে না। আয়াতের নিজের প্রশ্ন, ৫০:৬-এ, তাকানো নিয়ে। আর মানুষকে সে দেখতে বলে পায়ের নিচের মাটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mountains Cast to Hold It Still",
+          "bn": "স্থির রাখতে ফেলা পাহাড়"
+        },
+        "p": [
+          {
+            "en": "Wa-alqayna fiha rawasiya: and We cast into it firm ones. The noun is left unsaid, and every commentator supplies it. At-Tabari: We placed in it firmly fixed mountains that rasat, stood firm, in the earth. Qatada, in a report at-Tabari carries, says simply that the rawasi are the mountains, and al-Baghawi writes jibalan thawabit, firm mountains. At 13:3 al-Qurtubi gives the singular, rasiya, and the reason for the name: the earth tarsu by them, is made firm by them, and irsa' means firmness. He cites lines of Arabic poetry for that usage.",
+            "bn": "ওয়া আলকাইনা ফীহা রাওয়াসিয়া: আর আমি তাতে ফেলে দিয়েছি অটল জিনিস। বিশেষ্যটি আয়াতে উহ্য, তাফসীরকারেরা সবাই তা পূরণ করে দেন। তাবারী বলেন: আমি তাতে স্থাপন করেছি এমন অটল পাহাড়, যা জমিনে গেড়ে বসেছে। তাবারীর সনদে কাতাদা সোজা বলে দেন, রাওয়াসি মানে পাহাড়। বাগাভীও লেখেন, জিবালান সাওয়াবিত, অটল পাহাড়। ১৩:৩ আয়াতে কুরতুবী এর একবচন দেন রাসিয়া, আর নামের কারণও বলেন: পাহাড় দিয়ে পৃথিবী তারসূ, অর্থাৎ স্থির হয়। ইরসা মানে স্থিরতা। এ ব্যবহারের পক্ষে তিনি আরবি কবিতার পঙ্‌ক্তিও উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Three of them then give the purpose, and each names the people who live on the earth. Ibn Kathir: li-alla tamida bi-ahliha wa-tadtarib, so that it does not sway with its people and be shaken. The Muyassar: so that it does not tilt with its people. As-Sa'di: Allah anchored it with the mountains so that it would settle and not quake or heave like waves. The English abridgement of Ibn Kathir: to save the earth from shaking along with its inhabitants. The steadiness is described for the sake of those standing on it.",
+            "bn": "এরপর তিনজন তাফসীরকার এর উদ্দেশ্য বলে দেন, আর প্রত্যেকেই পৃথিবীর বাসিন্দাদের কথা আনে। ইবন কাসীর বলেন, যাতে তা বাসিন্দাদের নিয়ে দুলে না ওঠে, কেঁপে না যায়। মুয়াসসার বলে, যাতে বাসিন্দাদের নিয়ে তা হেলে না পড়ে। সা'দী বলেন, আল্লাহ পাহাড় দিয়ে একে নোঙর করেছেন, যাতে তা স্থির থাকে, কাঁপতে না থাকে, ঢেউয়ের মতো দুলতে না থাকে। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণও বলে, যাতে পৃথিবী বাসিন্দাদের নিয়ে কেঁপে না ওঠে। অর্থাৎ এই স্থিরতার কথা বলা হয়েছে তাদের জন্যই, যারা এর উপর দাঁড়িয়ে আছে।"
+          },
+          {
+            "en": "Notice the verb. The verse says alqayna fiha, We cast into it: the mountains are spoken of as placed into the earth by Allah, not as something the earth produced of itself. Set beside the spreading, the verse gives two gifts that need each other. Ground that is wide but unsteady could not be lived on, and ground that is steady but cramped would leave no room. Room and stillness are both given, and neither was earned by those who walk on it today, under every house and every road.",
+            "bn": "ক্রিয়াটির দিকে খেয়াল করুন। আয়াত বলছে আলকাইনা ফীহা, আমি তাতে ফেলে দিয়েছি। অর্থাৎ পাহাড়ের কথা এসেছে আল্লাহর রেখে দেওয়া জিনিস হিসেবে, পৃথিবী নিজে থেকে যা বের করেছে তেমন কিছু হিসেবে নয়। বিছানোর পাশে রাখলে আয়াতে দুটি দান পাওয়া যায়, যার একটি অন্যটি ছাড়া চলে না। জমিন চওড়া কিন্তু টলমল হলে সেখানে বাস করা যেত না। আবার স্থির কিন্তু সংকীর্ণ হলে জায়গাই থাকত না। জায়গা আর স্থিরতা দুটোই দান। আজ যারা এর উপর হাঁটে, প্রতিটি ঘর আর প্রতিটি রাস্তার নিচে, তাদের কেউ তা অর্জন করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kind, Colour or Pair",
+          "bn": "প্রজাতি, রং, না জোড়া"
+        },
+        "p": [
+          {
+            "en": "Wa-anbatna fiha min kulli zawjin: and We made grow in it of every zawj. On this verse the commentators read zawj as a kind. At-Tabari: of every naw', kind, of beautiful plant. Al-Qurtubi and the Muyassar also say naw'. As-Sa'di says sinf, class: every class among the classes of plants. Ibn Kathir widens the list to all crops, fruits, plants and kinds. At 22:5, where the same words min kulli zawjin bahij close a verse about dry earth stirred by rain, al-Qurtubi glosses zawj as lawn, a colour or variety.",
+            "bn": "ওয়া আমবাতনা ফীহা মিন কুল্লি যাওজ: আর আমি তাতে উদ্গত করেছি প্রত্যেক যাওজ থেকে। এ আয়াতে তাফসীরকারেরা যাওজের অর্থ করেন প্রকার বা প্রজাতি। তাবারী বলেন, সুন্দর উদ্ভিদের প্রত্যেক নাও', অর্থাৎ প্রজাতি থেকে। কুরতুবী আর মুয়াসসারও বলেন নাও'। সা'দী বলেন সিনফ, শ্রেণি: উদ্ভিদের সব শ্রেণির প্রতিটি থেকে। ইবন কাসীর তালিকাটা বড় করেন: সব রকমের শস্য, ফল, উদ্ভিদ আর প্রজাতি। ২২:৫ আয়াতের শেষে হুবহু এই শব্দগুলো আছে, মিন কুল্লি যাওজিম বাহীজ, যেখানে বৃষ্টিতে শুকনো মাটি জেগে ওঠার কথা। সেখানে কুরতুবী যাওজের অর্থ করেন লাওন, অর্থাৎ রং বা বৈচিত্র্য।"
+          },
+          {
+            "en": "Ibn Kathir then sets 51:49 beside the verse: wa-min kulli shay'in khalaqna zawjayn la'allakum tadhakkarun, and of everything We created pairs, that you may remember. He quotes it without further comment, but it brings the word's other sense, pair, into view. At 13:3, on the dual zawjayn, al-Qurtubi records a disagreement. Abu 'Ubayda said a zawj is one and can also be two. Al-Farra' said the two there are male and female, and al-Qurtubi calls that against the text. A third reading, given with qila, makes them two types, such as sweet and sour.",
+            "bn": "এরপর ইবন কাসীর আয়াতটির পাশে রাখেন ৫১:৪৯: আর প্রত্যেক জিনিস আমি জোড়ায় জোড়ায় সৃষ্টি করেছি, যাতে তোমরা উপদেশ গ্রহণ করো। তিনি আয়াতটি উদ্ধৃত করেই থামেন, আর কিছু বলেন না। তবে এতে শব্দটির আরেক অর্থ, জোড়া, সামনে চলে আসে। ১৩:৩ আয়াতে দ্বিবচন যাওজাইন নিয়ে কুরতুবী একটি মতভেদ উল্লেখ করেন। আবু উবায়দা বলেন, যাওজ মানে একটিও হয়, দুটিও হয়। ফাররা বলেন, সেখানে দুটি মানে পুরুষ ও স্ত্রী। কুরতুবীর মতে এ কথা আয়াতের বক্তব্যের বিপরীত। 'বলা হয়' দিয়ে আনা তৃতীয় এক মতে দুটি মানে দুই ধরন, যেমন মিষ্টি আর টক।"
+          },
+          {
+            "en": "That discussion belongs to 13:3, and it is reported here only to show the range the word carries. On 50:7 itself the commentators consulted agree on kind, and the weight of the phrase falls on kull, every. The verse does not list species. It gathers them all into a single word and then leaves the reader to fill it from what they have seen: grain and grass, palm and vine, the weed at the roadside and the tree in the courtyard, each a kind of its own, and each counted.",
+            "bn": "ওই আলোচনা ১৩:৩ আয়াতের। এখানে তা আনা হলো শুধু এটুকু দেখাতে যে, শব্দটি কত দূর পর্যন্ত অর্থ বহন করে। ৫০:৭ আয়াতে যে তাফসীরগুলো দেখা হয়েছে, সেগুলো প্রকার অর্থেই একমত। আর বাক্যাংশের ভার পড়েছে কুল্লি শব্দে: প্রত্যেক। আয়াত প্রজাতির তালিকা দেয় না। সবগুলোকে এক শব্দে জড়ো করে পাঠকের হাতে ছেড়ে দেয়, যেন নিজের দেখা জিনিস দিয়ে তিনি তা ভরে নেন। ধান আর ঘাস, খেজুর আর আঙুরলতা, রাস্তার ধারের আগাছা আর উঠানের গাছ। প্রত্যেকটি আলাদা এক প্রকার, আর প্রত্যেকটিই হিসাবের মধ্যে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Beauty That Gladdens the Eye",
+          "bn": "যে সৌন্দর্যে চোখ জুড়ায়"
+        },
+        "p": [
+          {
+            "en": "Bahij closes the verse, and at-Tabari says it plainly: every kind of beautiful plant, and that is the bahij. He adds that the people of interpretation said the same, and gives three reports. By a chain to Ibn Abbas: bahij, he says, means hasan, beautiful. From Qatada: of every beautiful zawj. And Ibn Wahb asked Ibn Zayd whether al-bahij is that which is beautiful to look at. He said yes. The earliest glosses on record here are brief, and the word they keep returning to is beauty.",
+            "bn": "আয়াতের শেষ শব্দ বাহীজ। তাবারী সোজা কথায় বলেন: সুন্দর উদ্ভিদের প্রত্যেক প্রকার, আর সেটাই বাহীজ। তিনি যোগ করেন, তাফসীরবিদেরাও এমনই বলেছেন, আর তিনটি বর্ণনা উল্লেখ করেন। এক সনদে ইবন আব্বাস (রাঃ) থেকে: বাহীজ মানে হাসান, সুন্দর। কাতাদা থেকে: প্রত্যেক সুন্দর যাওজ থেকে। আর ইবন ওয়াহব ইবন যায়দকে জিজ্ঞেস করেছিলেন, বাহীজ কি সেই জিনিস, যা দেখতে সুন্দর? তিনি বলেছিলেন, হ্যাঁ। এখানে পাওয়া প্রাচীনতম ব্যাখ্যাগুলো সংক্ষিপ্ত, আর সেগুলো বারবার ফিরে আসে একই শব্দে: সৌন্দর্য।"
+          },
+          {
+            "en": "The later commentators keep the word and add the viewer. Ibn Kathir: hasan nadir, beautiful and fresh. Al-Qurtubi: beautiful, gladdening those who look at it. Al-Baghawi: beautiful and noble, a thing people are delighted by, that is, made glad. At 22:5 al-Qurtubi takes hasan from Qatada, adds that it delights whoever sees it, and gives the usage abhajani, it pleased me by its beauty. So bahij is defined by what it does to the viewer. On these glosses, the gladness a plant gives whoever sees it is part of the sign.",
+            "bn": "পরের তাফসীরকারেরা শব্দটি রাখেন, সঙ্গে যোগ করেন দর্শককে। ইবন কাসীর বলেন, হাসান নাদির: সুন্দর ও সতেজ। কুরতুবী বলেন: সুন্দর, যারা দেখে তাদের মন খুশি করে। বাগাভী বলেন: সুন্দর ও উৎকৃষ্ট, যা দেখে মানুষ আনন্দ পায়, অর্থাৎ খুশি হয়। ২২:৫ আয়াতে কুরতুবী কাতাদা থেকে হাসান অর্থটি নেন, যোগ করেন যে, যে-ই দেখে তাকেই তা আনন্দ দেয়, আর আরবদের ব্যবহার দেখান: আবহাজানী, অর্থাৎ এর সৌন্দর্য আমাকে মুগ্ধ করেছে। তাই বাহীজের সংজ্ঞা দর্শকের উপর তার প্রভাব দিয়ে। এই ব্যাখ্যাগুলো অনুযায়ী, দেখে মনে যে খুশি জাগে, সেটাও নিদর্শনের অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Delight First, Then Food",
+          "bn": "আগে আনন্দ, পরে আহার"
+        },
+        "p": [
+          {
+            "en": "Two commentators hold beauty and use in one sentence. The Muyassar: every kind that is hasan al-manzar nafi', beautiful to look at and useful, pleasing and delighting whoever looks at it. As-Sa'di heaps up the verbs of seeing: plants that gladden their viewer, amaze their beholder and cool the eye of whoever gazes at them. Only then does he name the use: for the food of the children of Adam, the food of their livestock and their other benefits.",
+            "bn": "দুজন তাফসীরকার সৌন্দর্য আর উপকার এক বাক্যে ধরে রাখেন। মুয়াসসার বলে: প্রত্যেক প্রকার, যা দেখতে সুন্দর আর কাজেও লাগে, যে তাকায় তাকে খুশি করে, আনন্দ দেয়। সা'দী দেখার ক্রিয়া একটার পর একটা সাজান: এমন উদ্ভিদ, যা দর্শকের মন খুশি করে, যে দেখে তাকে বিস্মিত করে, আর যে চেয়ে থাকে তার চোখ জুড়িয়ে দেয়। এরপরই তিনি উপকারের কথা আনেন: আদম সন্তানের আহার, তাদের পশুর আহার আর তাদের অন্যান্য প্রয়োজন।"
+          },
+          {
+            "en": "As-Sa'di's comment then runs on into the following verses, naming grapes, pomegranates, citron and apples, tall palms, and reaped grain of wheat, barley, maize, rice and millet. Those belong to 50:9 and 50:10 and their page. What matters here is the order of his sentence: delight first, food after, and neither cancelling the other. The verse itself gives the plants a single quality, bahij. Provision is named two verses later, in 50:11, as rizq for the servants.",
+            "bn": "এরপর সা'দীর আলোচনা গড়িয়ে যায় পরের আয়াতগুলোতে। সেখানে তিনি আঙুর, ডালিম, উতরুজ্জ নামের বড় লেবু আর আপেলের নাম নেন, উঁচু খেজুর গাছের কথা বলেন, আর কাটা শস্যের মধ্যে গম, যব, ভুট্টা, চাল ও বাজরার নাম নেন। সেসব ৫০:৯ ও ৫০:১০ আয়াতের বিষয়, তাদের পাতায় আলোচিত। এখানে যা দেখার, তা তাঁর বাক্যের ক্রম: আগে আনন্দ, পরে আহার, আর কোনোটি অন্যটিকে বাতিল করে না। আয়াত নিজে উদ্ভিদের একটিমাত্র গুণের নাম নেয়: বাহীজ। রিযকের কথা আসে দুই আয়াত পরে, ৫০:১১-এ, বান্দাদের জীবিকা হিসেবে।"
+          },
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it, and none reports an occasion of revelation; they read it as one step in the surah's reply to the doubt of 50:3. So no narration is quoted here. Their work on the verse is almost wholly about words: what madd, rawasi, zawj and bahij mean, and what each of them gives the people who live on the earth.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনোটি শানে নুযূলও বর্ণনা করেনি। তাঁরা আয়াতটিকে পড়েছেন ৫০:৩-এর সন্দেহের জবাবে সূরার একটি ধাপ হিসেবে। তাই এখানে কোনো বর্ণনা উদ্ধৃত হয়নি। আয়াত নিয়ে তাঁদের কাজ প্রায় পুরোটাই শব্দ নিয়ে: মাদ্দ, রাওয়াসি, যাওজ আর বাহীজের অর্থ কী, আর এর প্রতিটি পৃথিবীর বাসিন্দাদের কী দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Answer Under Their Feet",
+          "bn": "জবাব ছিল পায়ের নিচে"
+        },
+        "p": [
+          {
+            "en": "The English abridgement of Ibn Kathir closes the passage, after the dead land revived in 50:11, with a judgement: this sign of Allah's ability, seen and witnessed, is greater than the denial of those who think the resurrection unlikely. The earth of our verse is where that chain of signs begins. The verse asks for nothing rare. It points to the ground, a ridge of hills, a field in its season. The deniers of 50:3 stood on that ground while they asked their question, and the answer was already under their feet, spread, steadied and green.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ ৫০:১১-এর মৃত জমিন জীবিত হওয়ার কথার পর আলোচনাটি শেষ করে এক সিদ্ধান্ত দিয়ে: আল্লাহর ক্ষমতার এই নিদর্শন, যা চোখে দেখা যায়, যার সাক্ষী সবাই, তা পুনরুত্থানকে অসম্ভব ভাবা লোকদের অস্বীকারের চেয়ে বড়। নিদর্শনের সেই ধারা শুরু হয় আমাদের আয়াতের পৃথিবী থেকেই। আয়াত দুর্লভ কিছু দেখতে বলে না। দেখায় মাটি, পাহাড়ের সারি, মৌসুমের মাঠ। ৫০:৩-এর অস্বীকারকারীরা প্রশ্নটা করার সময় দাঁড়িয়ে ছিল সেই মাটিতেই। বিছানো, স্থির আর সবুজ সেই মাটিতে জবাবটা আগে থেকেই তাদের পায়ের নিচে ছিল।"
+          },
+          {
+            "en": "Three gifts sit in the verse, given before anyone asked: room to live, ground that holds still, and beauty growing out of it. The question of 50:6, have they not looked, still stands for whoever reads it. To answer it is to look on purpose: to let a hill bring to mind the One who set it there, and a green verge the One who made it bahij. The verses that follow carry the reader from that ground to the return.",
+            "bn": "আয়াতে তিনটি দান আছে, কেউ চাওয়ার আগেই দেওয়া: থাকার জায়গা, স্থির জমিন, আর তা থেকে জন্মানো সৌন্দর্য। ৫০:৬-এর প্রশ্ন, তারা কি তাকায়নি, যে-ই পড়ে তার সামনেই এখনো দাঁড়িয়ে আছে। এর জবাব দেওয়া মানে জেনেবুঝে তাকানো। একটা টিলা দেখে মনে পড়ুক তাঁর কথা, যিনি সেটাকে সেখানে রেখেছেন। রাস্তার ধারের সবুজ দেখে মনে পড়ুক তাঁর কথা, যিনি তাকে বাহীজ করেছেন। পরের আয়াতগুলো পাঠককে সেই মাটি থেকে নিয়ে যায় ফিরে আসার কথায়।"
+          }
+        ]
+      }
+    ]
+  },
   "50:9": {
     "sections": [
       {

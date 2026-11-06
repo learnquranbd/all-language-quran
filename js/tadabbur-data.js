@@ -27329,6 +27329,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Before you believe, repeat or act on a report about others, make sure of it, lest you harm innocent people out of ignorance and live with the regret.",
     "lessonBn": "অন্যদের ব্যাপারে কোনো খবর বিশ্বাস করা, ছড়ানো বা সে অনুযায়ী কিছু করার আগে যাচাই করে নিন, যাতে না জেনে নিরপরাধ মানুষের ক্ষতি করে অনুতাপের বোঝা বইতে না হয়।"
+  },
+  "50:7": {
+    "reflectionEn": "The verse before this one lifts your eyes to the sky. This one brings them down to the ground. The earth was spread out wide beneath you, so that you can build, sow and rest on it. Mountains were cast into it, and the commentators say they hold it steady so it does not sway with its people. Then from it rose every kind of growing thing, and the verse does not call them only useful. It calls them bahij, a delight to look at. Those who denied the return asked how dust could live again. The answer offered here is the ground they were standing on. When did I last look at the earth as a sign, and not only as a floor?",
+    "reflectionBn": "আগের আয়াত আপনার চোখ তুলে দেয় আকাশের দিকে। এ আয়াত সে চোখ নামিয়ে আনে মাটিতে। পৃথিবীকে আপনার পায়ের নিচে বিছিয়ে দেওয়া হয়েছে চওড়া করে, যাতে আপনি ঘর তুলতে, ফসল বুনতে আর বিশ্রাম নিতে পারেন। তাতে ফেলে দেওয়া হয়েছে পাহাড়, আর তাফসীরকারেরা বলেন, পাহাড় একে স্থির রাখে, যেন বাসিন্দাদের নিয়ে দুলে না ওঠে। তারপর তা থেকে উঠে এসেছে সব রকমের উদ্ভিদ। আয়াত সেগুলোকে শুধু উপকারী বলে থেমে যায়নি, বলেছে বাহীজ: দেখলে মন ভরে যায়। যারা ফিরে আসাকে অস্বীকার করত, তারা জানতে চেয়েছিল মাটি কী করে আবার জীবিত হবে। জবাব হিসেবে এখানে দেখানো হচ্ছে সেই মাটিই, যার উপর তারা দাঁড়িয়ে ছিল। শেষ কবে আমি পৃথিবীর দিকে তাকিয়েছি এক নিদর্শন হিসেবে, শুধু হাঁটার মেঝে হিসেবে নয়?",
+    "pointsEn": [
+      "When did I last look at a field, a hill or a single plant as a sign from Allah, and not only as something I walk past?",
+      "The mountains keep the earth steady; what has Allah placed in my life to keep me steady, and do I ever thank Him for it?",
+      "The verse calls the plants a delight to see, not only food; does beauty lead me back to its Maker, or do I only use it up?",
+      "If the One who spread the earth and raised every kind of plant from it is my Lord, why does the return after death still feel far away to me?",
+      "On my next walk outside, could I name to myself, quietly, who spread this ground and who made it grow?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আমি একটা মাঠ, একটা টিলা বা একটা গাছের দিকে আল্লাহর নিদর্শন হিসেবে তাকিয়েছি, শুধু পাশ কাটিয়ে চলে যাওয়ার জিনিস হিসেবে নয়?",
+      "পাহাড় পৃথিবীকে স্থির রাখে। আমার জীবনে আল্লাহ কী কী রেখেছেন যা আমাকে স্থির রাখে, আর তার জন্য আমি কি কখনো শুকরিয়া আদায় করি?",
+      "আয়াত গাছপালাকে বলেছে চোখের আনন্দ, শুধু খাবার নয়। সৌন্দর্য কি আমাকে তার স্রষ্টার দিকে ফিরিয়ে নেয়, নাকি আমি শুধু তা ভোগ করে শেষ করি?",
+      "যিনি পৃথিবী বিছিয়েছেন আর তা থেকে সব রকমের উদ্ভিদ উঠিয়েছেন, তিনিই যদি আমার রব হন, তবে মৃত্যুর পর ফিরে আসা এখনো কেন আমার কাছে দূরের কথা মনে হয়?",
+      "পরের বার বাইরে হাঁটতে বেরিয়ে আমি কি মনে মনে নামটা নিতে পারি, কে এই মাটি বিছিয়েছেন আর কে একে সবুজ করেছেন?"
+    ],
+    "lessonEn": "Look at the ground you stand on, the mountains that steady it and the beauty growing from it, and let them remind you of the One who will raise the dead.",
+    "lessonBn": "যে মাটিতে আপনি দাঁড়িয়ে আছেন, যে পাহাড় তাকে স্থির রাখে আর যে সৌন্দর্য তা থেকে জন্মায়, সেগুলো দেখে মনে করুন সেই সত্তাকে, যিনি মৃতদের আবার জীবিত করবেন।"
   }
 };
 
