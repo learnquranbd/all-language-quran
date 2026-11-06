@@ -27209,6 +27209,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Clean out the grudge you keep hidden before it surfaces, for Allah brings hidden things out; and never claim to read hidden hatred in another believer's heart.",
     "lessonBn": "লুকিয়ে রাখা বিদ্বেষ বেরিয়ে পড়ার আগেই তা অন্তর থেকে সাফ করুন, কারণ আল্লাহ গোপন জিনিস বের করে আনেন। আর অন্য কোনো মুমিনের অন্তরে লুকানো ঘৃণা পড়ে ফেলার দাবি কখনো করবেন না।"
+  },
+  "47:19-20": {
+    "reflectionEn": "Before the command to ask forgiveness comes the command to know: there is no god but Allah. The knowing comes first, and the asking grows out of it. Nor is the asking only for oneself. The same sentence carries the believing men and the believing women, people one will never meet. Then the next verse turns. Believers had longed for a surah with a hard command in it, and when it came, some looked on as if death were already upon them. Wishing for a command and carrying it are two different things. Allah knows where each of us goes by day and where we rest at night. When did my knowing last change what I did, and whom did I include when I last asked to be forgiven?",
+    "reflectionBn": "ক্ষমা চাওয়ার আদেশের আগে আসে জানার আদেশ: আল্লাহ ছাড়া কোনো ইলাহ নেই। আগে জানা, তারপর সেই জানা থেকেই জন্ম নেয় চাওয়া। আর এ চাওয়া শুধু নিজের জন্য নয়। একই বাক্যে জুড়ে আছে মুমিন নারী-পুরুষ সবাই, যাদের অনেককে আমি কোনোদিন দেখব না। তারপর পরের আয়াত মোড় নেয়। মুমিনরা চেয়েছিল এমন এক সূরা, যাতে কঠিন কোনো হুকুম থাকবে। সেটি যখন নাজিল হলো, কেউ কেউ এমনভাবে তাকিয়ে রইল যেন মৃত্যু তাদের ঘাড়ে এসে পড়েছে। হুকুম চাওয়া এক জিনিস, হুকুম বহন করা আরেক জিনিস। দিনে আমরা কোথায় ঘুরে বেড়াই আর রাতে কোথায় বিশ্রাম নিই, আল্লাহ সবই জানেন। শেষ কবে আমার জানা আমার কাজকে বদলে দিয়েছে? আর শেষবার ক্ষমা চাওয়ার সময় আমি কাকে কাকে দোয়ায় শামিল করেছি?",
+    "pointsEn": [
+      "Is my knowledge that there is no god but Allah something I only recite, or something that decides what I do this week?",
+      "When I last asked Allah for forgiveness, did the prayer reach other believers, or did it stop at me?",
+      "Which good command did I once wish for, and how did I respond when it finally asked something hard of me?",
+      "Am I asking for more guidance while leaving undone what I have already been taught?",
+      "Knowing that Allah sees where I go by day and where I rest at night, what would I change in each?"
+    ],
+    "pointsBn": [
+      "আল্লাহ ছাড়া কোনো ইলাহ নেই, এ জানা কি আমার শুধু মুখের বুলি, নাকি এ সপ্তাহে আমি কী করব তা এই জানাই ঠিক করে দেয়?",
+      "শেষবার যখন আল্লাহর কাছে ক্ষমা চেয়েছি, সেই দোয়া কি অন্য মুমিনদের কাছেও পৌঁছেছে, নাকি আমাতেই থেমে গেছে?",
+      "কোন ভালো হুকুম আমি একসময় মনেপ্রাণে চেয়েছিলাম? আর সেটি যখন সত্যিই আমার কাছে কঠিন কিছু দাবি করল, তখন আমি কী করেছি?",
+      "যা আগেই শিখেছি তা ফেলে রেখে আমি কি আরও হেদায়াত চেয়ে যাচ্ছি?",
+      "দিনে আমি কোথায় যাই আর রাতে কোথায় বিশ্রাম নিই, আল্লাহ সবই দেখেন। এ কথা মনে রাখলে দুটোর কোনটিতে আমি কী বদলাতাম?"
+    ],
+    "lessonEn": "Let knowing that there is no god but Allah lead you to ask forgiveness for yourself and every believer, and meet a hard command with obedience, not only with wishing.",
+    "lessonBn": "আল্লাহ ছাড়া কোনো ইলাহ নেই, এ জানা যেন আপনাকে নিজের ও সব মুমিনের জন্য ক্ষমা চাইতে শেখায়। আর কঠিন হুকুম এলে শুধু চেয়ে থেমে না থেকে আনুগত্য দিয়ে তাকে গ্রহণ করুন।"
   }
 };
 

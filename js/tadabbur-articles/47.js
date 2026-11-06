@@ -755,6 +755,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "47:19-20": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Signs of the Hour",
+          "bn": "কিয়ামতের আলামতের পরে"
+        },
+        "p": [
+          {
+            "en": "The verses just before these describe people who sit with the Prophet ﷺ and take nothing away. In 47:16 they leave his gathering and ask those who were given knowledge what he said just now. In 47:17 those who are guided are given more guidance. In 47:18 the Hour is said to have sent its signs already, with a question: when it comes, what use will their remembering be? Then the address narrows to one person, in the singular: fa'lam, so know.",
+            "bn": "এর ঠিক আগের আয়াতগুলোতে এমন কিছু লোকের কথা আছে, যারা নবী ﷺ-এর মজলিসে বসে, অথচ কিছুই নিয়ে ওঠে না। ৪৭:১৬ আয়াতে তারা মজলিস থেকে বেরিয়ে জ্ঞানপ্রাপ্তদের জিজ্ঞেস করে, এইমাত্র তিনি কী বললেন? ৪৭:১৭ আয়াতে যারা হেদায়াত পেয়েছে, তাদের হেদায়াত আরও বাড়িয়ে দেওয়া হয়। ৪৭:১৮ আয়াত জানায়, কিয়ামতের আলামত তো এসেই গেছে। সঙ্গে প্রশ্ন: তা এসে পড়লে তখন উপদেশ নিয়ে তাদের কী লাভ? এরপর সম্বোধন এসে থামে একজন মানুষের উপর, একবচনে: ফা'লাম, অতএব জেনে রাখুন।"
+          },
+          {
+            "en": "Al-Baghawi reports that Abu al-'Aliya and Ibn 'Uyayna read the command as joined to what came before: when the Hour comes upon them, know that there is then no refuge and no shelter except with Allah. Another view he gives, under qila, keeps the same scene: when the Hour arrives every kingdom comes to nothing, and no one holds rule or judgement but Allah. Read this way, the first word of verse 19 answers verse 18.",
+            "bn": "বাগাভী জানান, আবুল আলিয়া ও ইবন উয়াইনা এ আদেশকে আগের কথার সঙ্গে জুড়ে পড়েছেন। অর্থ দাঁড়ায়: কিয়ামত যখন তাদের উপর এসে পড়বে, জেনে রাখুন, তখন আল্লাহ ছাড়া আর কোনো আশ্রয় নেই, কোনো পালানোর জায়গাও নেই। 'বলা হয়' বলে তিনি আরেকটি মত আনেন, সেটিও একই দৃশ্যের: কিয়ামত এলে সব রাজত্ব শেষ হয়ে যাবে, তখন আল্লাহ ছাড়া কারও রাজত্ব থাকবে না, কারও হুকুমও চলবে না। এভাবে পড়লে ১৯ নম্বর আয়াতের প্রথম শব্দটিই ১৮ নম্বর আয়াতের জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Telling the One Who Knows",
+          "bn": "যিনি জানেন, তাঁকেই জানার আদেশ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the command at length: know, O Muhammad, that there is no one worshipped who is fit for divinity, whose worship is allowed to you and to creation, except Allah, the Creator of creation and Owner of everything, to whose lordship all below Him submit. But the Prophet ﷺ already knew this, and the commentators ask what the command adds. Al-Qurtubi relays al-Mawardi's three answers.",
+            "bn": "তাবারী আদেশটির ব্যাখ্যা দেন বিস্তারে: হে মুহাম্মাদ, জেনে রাখুন, ইলাহ হওয়ার যোগ্য, যাঁর ইবাদত আপনার ও সৃষ্টিজগতের জন্য বৈধ, এমন উপাস্য আল্লাহ ছাড়া কেউ নেই। তিনিই সৃষ্টির স্রষ্টা, সবকিছুর মালিক, তাঁর নিচের সবকিছু তাঁর রুবূবিয়্যাতের কাছে মাথা নত করে। কিন্তু নবী ﷺ তো এ কথা আগে থেকেই জানতেন। তাহলে এ আদেশ নতুন কী যোগ করল? এ প্রশ্নে কুরতুবী মাওয়ারদীর তিনটি জবাব উদ্ধৃত করেন।"
+          },
+          {
+            "en": "First: know that Allah has informed you that there is no god but Allah. Second: what you knew by reasoning, now know as certain report. Third: remember that there is no god but Allah; the verse names remembrance by knowledge because remembrance arises from it. Al-Baghawi adds others: the address is to the Prophet ﷺ while others are meant; or, stay firm on it; or, in al-Husayn ibn al-Fadl's words, grow in knowledge upon your knowledge. Ma'arif al-Qur'an gives steadfastness, or acting on what the knowledge requires.",
+            "bn": "প্রথম জবাব: জেনে রাখুন, আল্লাহ আপনাকে জানিয়েছেন যে, আল্লাহ ছাড়া কোনো ইলাহ নেই। দ্বিতীয়: যা আপনি যুক্তি দিয়ে জেনেছেন, এখন তা নিশ্চিত খবর হিসেবে জানুন। তৃতীয়: স্মরণ করুন যে, আল্লাহ ছাড়া কোনো ইলাহ নেই। জিকির জানা থেকেই জন্মায়, তাই আয়াত জিকিরকে 'জানা' বলে প্রকাশ করেছে। বাগাভী আরও কিছু মত যোগ করেন। কারও মতে সম্বোধন নবী ﷺ-কে, কিন্তু উদ্দেশ্য অন্যরা। কারও মতে অর্থ, এর উপর অটল থাকুন। হুসাইন ইবনুল ফাদলের ভাষায়, আপনার জ্ঞানের উপর জ্ঞান আরও বাড়ান। মাআরিফুল কুরআন দুটি অর্থ দেয়: অবিচল থাকা, নয়তো জ্ঞানের দাবি অনুযায়ী আমল করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Began With Knowledge",
+          "bn": "শুরুটা জ্ঞান দিয়ে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records that Sufyan ibn 'Uyayna was asked about the merit of knowledge, and answered with this verse: have you not heard how He began with it? Know that there is no god but Allah, and ask forgiveness for your dhanb. He commanded action after knowledge. Sufyan gives a second pair: know that the life of this world is play and diversion, in 57:20, and then, in 57:21, race to forgiveness from your Lord.",
+            "bn": "কুরতুবী লিখেছেন, সুফইয়ান ইবন উয়াইনাকে জ্ঞানের ফজিলত সম্পর্কে জিজ্ঞেস করা হলে তিনি এ আয়াত দিয়েই জবাব দেন। তুমি কি শোনোনি, আল্লাহ কী দিয়ে শুরু করেছেন? জেনে রাখুন, আল্লাহ ছাড়া কোনো ইলাহ নেই, আর আপনার যাম্বের জন্য ক্ষমা চান। জ্ঞানের পরে তিনি আমলের হুকুম দিয়েছেন। সুফইয়ান আরেক জোড়া উদাহরণও দেন। ৫৭:২০ আয়াতে বলা হয়েছে, জেনে রাখো, দুনিয়ার জীবন খেলা আর তামাশা। তারপর ৫৭:২১ আয়াতে: তোমাদের রবের ক্ষমার দিকে প্রতিযোগিতা করে এগিয়ে যাও।"
+          },
+          {
+            "en": "Al-Bukhari made the same reading into a chapter title in the Book of Knowledge of his Sahih: knowledge comes before speech and action. Under it he cites this verse, know that there is no god but Allah, and adds: so He began with knowledge. As-Sa'di explains what the knowing must contain. It needs the heart's acknowledgement and its recognition of what is meant, and it is complete only when one acts on what it requires. Knowledge of Allah's oneness, he adds, is an individual duty that falls from no one.",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থের ইলম অধ্যায়ে এ বোঝাপড়াকেই একটি পরিচ্ছেদের শিরোনাম বানিয়েছেন: কথা ও কাজের আগে জ্ঞান। শিরোনামের নিচে তিনি এ আয়াত উল্লেখ করেন, জেনে রাখুন, আল্লাহ ছাড়া কোনো ইলাহ নেই। তারপর বলেন: অতএব তিনি শুরু করেছেন জ্ঞান দিয়ে। জানার ভেতরে কী কী থাকা চাই, সা'দী তা খুলে বলেন। অন্তরের স্বীকৃতি লাগবে, যা জানতে বলা হয়েছে তার অর্থ চেনা লাগবে। আর জ্ঞান পূর্ণ হয় তখনই, যখন মানুষ তার দাবি অনুযায়ী আমল করে। তিনি আরও বলেন, তাওহীদের জ্ঞান প্রত্যেক মানুষের উপর আলাদা আলাদা ফরজ, কারও উপর থেকেই তা মাফ হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eight Roads to One Certainty",
+          "bn": "এক বিশ্বাসে পৌঁছার আট পথ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di then lists the ways by which one comes to know that there is no god but Allah. He counts eight. First, and greatest, reflecting on His names, attributes and acts. Then knowing that He alone creates and governs, and alone gives every blessing, outward and inward. Then what is seen and heard of His help for those who hold to His oneness and His punishment of those who associate others with Him. Then knowing the idols and rivals for what they are: lacking, needy, owning no harm or benefit.",
+            "bn": "এরপর সা'দী সেই পথগুলো গুনে দেখান, যেগুলো ধরে মানুষ জানতে পারে, আল্লাহ ছাড়া কোনো ইলাহ নেই। তাঁর হিসাবে পথ আটটি। প্রথম ও সবচেয়ে বড়টি হলো আল্লাহর নাম, গুণ আর কাজ নিয়ে গভীর চিন্তা। তারপর এই জানা যে, সৃষ্টি ও পরিচালনা একমাত্র তাঁরই, আর প্রকাশ্য-গোপন সব নিয়ামতও একমাত্র তিনিই দেন। তারপর তাওহীদে অটল বান্দাদের তিনি কীভাবে সাহায্য করেন আর শিরককারী শত্রুদের কীভাবে শাস্তি দেন, তার যা কিছু আমরা দেখি ও শুনি। তারপর মূর্তি আর অংশীদারদের আসল চেহারা চেনা: তারা অসম্পূর্ণ, নিজেরাই মুখাপেক্ষী, কারও লাভ-ক্ষতির মালিক নয়।"
+          },
+          {
+            "en": "The last three are the agreement of Allah's books on it, the witness of the best of creation, the messengers, prophets and godly scholars, and the signs He has placed in the horizons and in the self. When these come together, he writes, faith settles in the heart like firm mountains that doubts cannot shake. Then he names the greatest door of all to knowing Allah's oneness: tadabbur of this Qur'an and reflection on its verses, which yields, in outline and in detail, what nothing else yields.",
+            "bn": "বাকি তিনটি হলো: এ বিষয়ে আল্লাহর সব কিতাবের একমত হওয়া; সৃষ্টির সেরা মানুষদের সাক্ষ্য, অর্থাৎ রাসূল, নবী আর রব্বানী আলেমদের; আর দিগন্তে ও মানুষের নিজের ভেতরে আল্লাহর রাখা নিদর্শন। সা'দী লেখেন, এগুলো একসঙ্গে মিললে ঈমান অন্তরে বসে যায় মজবুত পাহাড়ের মতো, কোনো সন্দেহ তাকে নাড়াতে পারে না। তারপর তিনি তাওহীদের জ্ঞানের সবচেয়ে বড় দরজার নাম বলেন: এই কুরআন নিয়ে তাদাব্বুর, এর আয়াতগুলো নিয়ে গভীর ভাবনা। তাঁর মতে এর মধ্য দিয়ে তাওহীদের মোটা কথা আর খুঁটিনাটি দুটোই যেভাবে ধরা দেয়, অন্য কোনো পথে তা মেলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Dhanb Clause, Read Here",
+          "bn": "যাম্বের বাক্য, এ আয়াতে"
+        },
+        "p": [
+          {
+            "en": "Wa-staghfir li-dhanbika: and ask forgiveness for your dhanb. The words are addressed to the Prophet ﷺ, and this article does not speak in its own voice of any fault of his; it reports the commentators' explanations of this verse. At-Tabari restates the clause close to its own wording: ask your Lord to forgive your dhunub, the earlier and the recent, and those of the people who believe in you. Al-Baghawi gives one reason: he was commanded to seek forgiveness, though already forgiven, so that his Ummah would follow his practice.",
+            "bn": "ওয়াসতাগফির লিযাম্বিকা: আর আপনার যাম্বের জন্য ক্ষমা চান। কথাগুলো নবী ﷺ-কে সম্বোধন করে বলা। এ লেখা নিজের ভাষায় তাঁর কোনো দোষের কথা বলে না, এ আয়াতে মুফাসসিরগণ যা ব্যাখ্যা দিয়েছেন শুধু তা-ই জানায়। তাবারী বাক্যটিকে প্রায় আয়াতের ভাষাতেই নতুন করে বলেন: আপনার রবের কাছে চান, তিনি যেন আপনার আগের ও সাম্প্রতিক যুনূব মাফ করেন, আর মাফ করেন আপনার প্রতি ঈমান আনা লোকদেরও। বাগাভী একটি কারণ দেন: তাঁকে তো আগেই ক্ষমা করা হয়েছে, তবু ইস্তিগফারের হুকুম দেওয়া হলো, যাতে তাঁর উম্মত এটাকে তাঁর সুন্নাত হিসেবে অনুসরণ করে।"
+          },
+          {
+            "en": "Al-Qurtubi, on this verse, says the clause can bear two senses: ask Allah's forgiveness lest a dhanb occur from you, or ask it so that He guards you from dhunub. Then come views under qila. Having described the disbelievers and the believers, Allah commanded him to stay firm on tawhid and sincerity, wary of anything that would call for forgiveness. Or the address is to him and the Ummah is meant; on that view, the verse obliges a person to seek forgiveness for all Muslims.",
+            "bn": "কুরতুবী এ আয়াতের আলোচনায় বলেন, বাক্যটির দুটি অর্থ হতে পারে। হয়তো: আল্লাহর কাছে ক্ষমা চান, যাতে আপনার থেকে কোনো যাম্ব না ঘটে। নয়তো: ক্ষমা চান, যাতে তিনি আপনাকে যুনূব থেকে রক্ষা করেন। এরপর তিনি 'বলা হয়' বলে আরও কিছু মত আনেন। এক মতে, কাফির ও মুমিনদের অবস্থা বর্ণনার পর আল্লাহ তাঁকে তাওহীদ ও ইখলাসের উপর অটল থাকতে বলেছেন, আর এমন সবকিছু থেকে সতর্ক থাকতে বলেছেন, যার জন্য ক্ষমা চাইতে হয়। আরেক মতে, সম্বোধন তাঁকে, উদ্দেশ্য উম্মত। এ মত ধরলে আয়াতটি প্রত্যেককে সব মুসলিমের জন্য ক্ষমা চাইতে বাধ্য করে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an holds that the Prophet ﷺ was protected from sin, and that an error of judgement in ijtihad is not counted a sin and even earns reward, though, in view of a prophet's high station, it may be called dhanb; it points to Surah 'Abasa. As-Sa'di turns the clause into a method: seek forgiveness by doing what brings it, repentance, asking for it, good deeds that wipe out bad ones, leaving dhunub, and pardoning others' wrongs. The article on 40:55 sets out al-Qurtubi's different answers to the same clause there.",
+            "bn": "মাআরিফুল কুরআনের মত হলো, নবী ﷺ গুনাহ থেকে সুরক্ষিত ছিলেন। ইজতিহাদে বিচারের ভুল শরিয়তে গুনাহ গণ্য হয় না, বরং তাতেও সওয়াব আছে। তবে নবীর উঁচু মর্যাদার দিকে তাকিয়ে কখনো তাকেও যাম্ব বলা হয়। এর উদাহরণ হিসেবে কিতাবটি সূরা আবাসার কথা বলে। সা'দী বাক্যটিকে দেখেন একটি পদ্ধতি হিসেবে: ক্ষমা পাওয়ার উপায়গুলো কাজে লাগিয়ে ক্ষমা চাও। যেমন তওবা, মাগফিরাতের দোয়া, গুনাহ মুছে দেওয়া নেক আমল, গুনাহ ছেড়ে দেওয়া আর মানুষের অন্যায় মাফ করে দেওয়া। একই বাক্যের বেলায় কুরতুবী সেখানে ভিন্ন যেসব জবাব দিয়েছেন, ৪০:৫৫ আয়াতের লেখায় তা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Room in the Prayer for Others",
+          "bn": "দোয়ায় অন্যদের জায়গা"
+        },
+        "p": [
+          {
+            "en": "Wa-lil-mu'minina wa-l-mu'minat: and for the believing men and the believing women. Al-Qurtubi reads it as for their dhunub, and calls it a command to intercede. Al-Baghawi calls it an honour from Allah to this Ummah: their Prophet was commanded to ask forgiveness for their dhunub, and he is the intercessor whose intercession is answered for them. The verse names the women beside the men, so no believer stands outside the prayer it commands.",
+            "bn": "ওয়া লিল মু'মিনীনা ওয়াল মু'মিনাত: আর মুমিন পুরুষ ও মুমিন নারীদের জন্য। কুরতুবীর ব্যাখ্যায় এর অর্থ, তাদের যুনূবের জন্য, আর তিনি একে শাফাআতের হুকুম বলেন। বাগাভী একে বলেন এ উম্মতের প্রতি আল্লাহর এক সম্মান। তাদের নবীকে হুকুম দেওয়া হয়েছে তাদের যুনূবের জন্য ক্ষমা চাইতে, আর তাদের বেলায় তিনিই সেই সুপারিশকারী, যাঁর সুপারিশ কবুল হয়। আয়াতটি পুরুষদের পাশে নারীদের নামও আলাদা করে উল্লেখ করেছে। তাই যে দোয়ার হুকুম এখানে দেওয়া হলো, তার বাইরে কোনো মুমিন পড়ে থাকে না।"
+          },
+          {
+            "en": "As-Sa'di draws the duty out for every Muslim. By their faith, the believers have a right over every Muslim man and woman, and part of that right is to pray for them and ask forgiveness for their dhunub. Whoever is commanded this, he says, is bound by what follows from it: to wish them well, to love for them the good one loves for oneself, to pardon their faults, and to keep their hearts together, so that the grudges that lead to enmity and multiply their sins fall away.",
+            "bn": "সা'দী এ দায়িত্বকে প্রত্যেক মুসলিমের উপর টেনে আনেন। ঈমানের কারণেই প্রত্যেক মুসলিম নারী-পুরুষের উপর মুমিনদের একটা হক আছে। সেই হকের মধ্যে আছে তাদের জন্য দোয়া করা আর তাদের যুনূবের জন্য ক্ষমা চাওয়া। তিনি বলেন, যাকে এ হুকুম দেওয়া হলো, এর আনুষঙ্গিক দায়ও তার উপর বর্তায়। তাদের কল্যাণ কামনা করা, নিজের জন্য যে ভালো চাই তাদের জন্যও তা চাওয়া, তাদের দোষত্রুটি মাফ করা, আর তাদের অন্তরগুলো জুড়ে রাখা। তাহলে যে বিদ্বেষ শত্রুতার দিকে ঠেলে দেয় আর গুনাহ বাড়ায়, তা দূর হয়ে যায়।"
+          },
+          {
+            "en": "One narration ties the clause to the Prophet's ﷺ own practice. In Sahih Muslim (2346), 'Abdullah ibn Sarjis is reported: \"I saw Allah's Apostle (ﷺ) and ate with him bread and meat, or he said Tharid (bread soaked in soup). I said to him: Did Allah's Apostle (ﷺ) seek forgiveness for you? He said: Yes, and for you, and he then recited this verse: Ask forgiveness for thy sin and for the believing men and believing women.\" Al-Qurtubi and Ibn Kathir both bring it under this verse.",
+            "bn": "একটি বর্ণনা এ বাক্যকে নবী ﷺ-এর নিজের আমলের সঙ্গে জুড়ে দেয়। সহীহ মুসলিমে (২৩৪৬) আবদুল্লাহ ইবন সারজিস (রাঃ) থেকে বর্ণিত: আমি নবী ﷺ-কে দেখেছি এবং তাঁর সঙ্গে রুটি ও গোশত খেয়েছি, অথবা তিনি বলেছেন, সারীদ খেয়েছি। আমি তাঁকে বললাম: নবী ﷺ কি আপনার জন্য ক্ষমা চেয়েছেন? তিনি বললেন: হ্যাঁ, তোমার জন্যও। তারপর তিনি এ আয়াত তিলাওয়াত করলেন: আর আপনার যাম্বের জন্য এবং মুমিন পুরুষ ও মুমিন নারীদের জন্য ক্ষমা চান। কুরতুবী ও ইবন কাসীর দুজনেই এ বর্ণনা এ আয়াতের নিচে এনেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Going About, Your Lodging",
+          "bn": "আপনাদের চলাফেরা, আপনাদের ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "Wa-llahu ya'lamu mutaqallabakum wa-mathwakum: and Allah knows your going about and your lodging. At-Tabari reads it as the day and the night: your movements in the work you do while awake, and your lodging when you lie down to sleep. Nothing of it is hidden from Him, and He will repay you for all of it. The Muyassar says the same. Ibn Kathir notes that this was Ibn Jurayj's view and Ibn Jarir's choice.",
+            "bn": "ওয়াল্লাহু ইয়া'লামু মুতাকাল্লাবাকুম ওয়া মাসওয়াকুম: আর আল্লাহ জানেন তোমাদের চলাফেরা আর তোমাদের ঠিকানা। তাবারী একে পড়েন দিন আর রাত হিসেবে। জেগে থেকে যেসব কাজে তোমরা ঘোরাফেরা করো, সেটা চলাফেরা। আর রাতে ঘুমাতে বিছানায় শুয়ে পড়লে সেটা ঠিকানা। এর কিছুই তাঁর কাছে গোপন নয়, আর সবকিছুর প্রতিদান তিনি দেবেন। মুয়াসসারও একই কথা বলে। ইবন কাসীর জানান, এটি ইবন জুরাইজের মত আর ইবন জারীরের পছন্দ।"
+          },
+          {
+            "en": "Others widen it. Ibn Kathir cites Ibn 'Abbas: your going about in this world, your lodging in the Hereafter; and as-Suddi: in this world, and in your graves. Of all these, he judges the day-and-night reading more fitting and more apparent. Al-Baghawi adds 'Ikrima, from fathers' loins to mothers' wombs, and your stay on earth, and Ibn Kaysan, whose lodging is the grave. Al-Qurtubi lists the views and says the general wording covers them all.",
+            "bn": "অন্যরা অর্থটি আরও ছড়িয়ে দেন। ইবন কাসীর ইবন আব্বাস (রাঃ)-এর মত আনেন: চলাফেরা দুনিয়ায়, ঠিকানা আখিরাতে। সুদ্দীর মত: চলাফেরা দুনিয়ায়, ঠিকানা কবরে। তবে ইবন কাসীরের বিচারে দিন-রাতের ব্যাখ্যাটিই বেশি যুক্তিযুক্ত ও বেশি স্পষ্ট। বাগাভী যোগ করেন ইকরিমার মত: বাবাদের পিঠ থেকে মায়েদের গর্ভে যাওয়া হলো চলাফেরা, আর পৃথিবীতে অবস্থান হলো ঠিকানা। ইবন কাইসানের মতে ঠিকানা মানে কবর। কুরতুবী সব মত তুলে ধরে বলেন, আয়াতের ব্যাপক ভাষা এর সবগুলোকেই ধারণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Surah Wished For",
+          "bn": "যে সূরার জন্য অপেক্ষা"
+        },
+        "p": [
+          {
+            "en": "Wa-yaqulu alladhina amanu law-la nuzzilat surah: those who believe say, why has a surah not been sent down? At-Tabari explains: a surah from Allah commanding us to strive against His enemies. Al-Qurtubi says these were the sincere believers, asking out of longing for revelation and eagerness for jihad and its reward. As-Sa'di calls it haste to take on hard commands. Ibn Kathir says the believers wished for fighting to be prescribed, and when it was, many people drew back from it, and he sets 4:77 beside the verse.",
+            "bn": "ওয়া ইয়াকূলুল্লাযীনা আমানূ লাওলা নুযযিলাত সূরাহ: মুমিনরা বলে, একটি সূরা নাজিল হয় না কেন? তাবারীর ব্যাখ্যা: আল্লাহর পক্ষ থেকে এমন সূরা, যা আমাদের তাঁর শত্রুদের বিরুদ্ধে জিহাদের হুকুম দেবে। কুরতুবী বলেন, এরা ছিলেন খাঁটি মুমিন। ওহির প্রতি আকুলতা আর জিহাদ ও তার সওয়াবের আগ্রহ থেকেই তাঁরা এ কথা বলেছিলেন। সা'দীর ভাষায়, কঠিন হুকুম নিজের কাঁধে নিতে এ ছিল তাড়াহুড়া। ইবন কাসীর বলেন, মুমিনরা কামনা করেছিলেন যুদ্ধের বিধান আসুক। কিন্তু বিধান যখন এল, অনেক লোক পিছিয়ে গেল। আয়াতের পাশে তিনি ৪:৭৭ আয়াত রাখেন।"
+          },
+          {
+            "en": "Fa-idha unzilat suratun muhkamah: but when a muhkam surah is sent down. At-Tabari reads muhkam as firm in clarity and in the duties it lays down; al-Qurtubi and Ma'arif al-Qur'an read it as not abrogated. At-Tabari and al-Qurtubi both report that the reading of 'Abdullah had muhdathah, newly sent down. Qatada, cited by at-Tabari, al-Qurtubi and al-Baghawi, said that every surah in which jihad is mentioned is muhkam, and that it is the hardest part of the Qur'an on the hypocrites. As-Sa'di reads muhkam as binding to act on.",
+            "bn": "ফা ইযা উনযিলাত সূরাতুম মুহকামাহ: কিন্তু যখন একটি মুহকাম সূরা নাজিল হয়। তাবারীর মতে মুহকাম মানে বক্তব্যে স্পষ্ট আর ফরজ বিধানে মজবুত। কুরতুবী ও মাআরিফুল কুরআন এর অর্থ করেন, যা রহিত নয়। তাবারী ও কুরতুবী দুজনেই উল্লেখ করেন, আবদুল্লাহ (রাঃ)-এর কিরাআতে শব্দটি ছিল মুহদাসাহ, অর্থাৎ নতুন নাজিল হওয়া। তাবারী, কুরতুবী ও বাগাভী কাতাদার উক্তি আনেন: যে সূরায় জিহাদের উল্লেখ আছে, তা-ই মুহকাম, আর মুনাফিকদের জন্য কুরআনের সবচেয়ে কঠিন অংশ এটাই। সা'দীর মতে মুহকাম মানে যার উপর আমল করা বাধ্যতামূলক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Stare of the Fainting",
+          "bn": "মূর্ছিত মানুষের চাহনি"
+        },
+        "p": [
+          {
+            "en": "Then: you see those in whose hearts is a disease. At-Tabari glosses the disease as doubt about Allah's religion, and weakness; the Muyassar and al-Qurtubi as doubt and hypocrisy; al-Baghawi simply names the hypocrites. As-Sa'di speaks instead of those weak in faith, who did not hold firm. Their look is that of someone fainting at death. At-Tabari explains it as fear that the Prophet ﷺ would send them out to fight, and Ibn Zayd, whom he cites, says these were hypocrites whose hearts Allah had sealed.",
+            "bn": "এরপর: যাদের অন্তরে রোগ আছে, আপনি তাদের দেখবেন। তাবারীর ব্যাখ্যায় এ রোগ হলো আল্লাহর দ্বীন সম্পর্কে সন্দেহ আর দুর্বলতা। মুয়াসসার ও কুরতুবীর ব্যাখ্যায় সন্দেহ আর নিফাক। বাগাভী সরাসরি বলেন, এরা মুনাফিক। সা'দী অবশ্য কথা বলেন ঈমানে দুর্বল লোকদের নিয়ে, যারা অটল থাকতে পারেনি। তাদের চাহনি মৃত্যুর ভয়ে মূর্ছা যাওয়া মানুষের মতো। তাবারী বলেন, নবী ﷺ তাদের যুদ্ধে পাঠাবেন, এ ভয়েই তাদের এ দশা। তিনি ইবন যায়দের উক্তি আনেন: এরা সেই মুনাফিক, যাদের অন্তরে আল্লাহ মোহর মেরে দিয়েছেন।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi describe a hard, fixed glare, like the eyes of the dying, from dislike of jihad and fear of meeting the enemy; al-Qurtubi adds a secret leaning towards the disbelievers. The verse ends fa-awla lahum, and here the commentators divide. Qatada, cited by at-Tabari, called it a threat, after which the sentence breaks off; al-Baghawi agrees, and al-Qurtubi cites al-Asma'i: what will destroy him has drawn near. Ibn Kathir and the Muyassar read it with 47:21 instead: better for them would be obedience and a fitting word.",
+            "bn": "বাগাভী ও কুরতুবী বর্ণনা করেন এক কঠিন, স্থির চাহনির কথা, মুমূর্ষুর চোখ যেভাবে আটকে যায়। কারণ জিহাদের প্রতি অনীহা আর শত্রুর মুখোমুখি হওয়ার ভয়। কুরতুবী যোগ করেন, গোপনে কাফিরদের দিকে তাদের ঝোঁকও ছিল। আয়াত শেষ হয় ফা আওলা লাহুম দিয়ে, আর এখানে মুফাসসিরগণ দুই ভাগ। তাবারী কাতাদার উক্তি আনেন: এটি হুমকি, এখানেই কথা শেষ। বাগাভীও তা-ই বলেন। কুরতুবী আসমাঈর ব্যাখ্যা আনেন: যা তাকে ধ্বংস করবে, তা কাছে এসে গেছে। অন্যদিকে ইবন কাসীর ও মুয়াসসার একে ৪৭:২১ আয়াতের সঙ্গে মিলিয়ে পড়েন: আনুগত্য আর ভালো কথাই তাদের জন্য উত্তম ছিল।"
+          },
+          {
+            "en": "The verse describes, as these commentators describe, people in the Prophet's ﷺ own time at the hour a command to fight came down. It licenses nothing against any living person or community, gives no one the right to call a frightened fellow Muslim a hypocrite, and is no call to arms for its reader. None of the commentaries fetched for these two verses attaches a hadith to 47:20. What it leaves is a question each reader can only put to himself: when the command I asked for arrives, will I meet it, or stare?",
+            "bn": "এ মুফাসসিরগণ যেমন বলেছেন, আয়াতটিও তেমনি বর্ণনা করে নবী ﷺ-এর যুগের কিছু লোকের কথা, ঠিক যখন যুদ্ধের হুকুম নাজিল হয়েছিল। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। ভয় পাওয়া কোনো মুসলিম ভাইকে মুনাফিক বলার অধিকারও কাউকে দেয় না। পাঠকের জন্য এটি অস্ত্র ধরার ডাকও নয়। এ দুই আয়াতের জন্য আনা তাফসীরগুলোর কোনোটি ৪৭:২০ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। আয়াতটি রেখে যায় এমন এক প্রশ্ন, যা প্রত্যেক পাঠক কেবল নিজেকেই করতে পারেন: যে হুকুম আমি নিজে চেয়েছিলাম, তা এলে আমি কি তা পালন করব, নাকি ফ্যালফ্যাল করে তাকিয়ে থাকব?"
+          }
+        ]
+      }
+    ]
+  },
   "47:24": {
     "sections": [
       {
