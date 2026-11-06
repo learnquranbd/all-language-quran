@@ -1191,6 +1191,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "Turning Away From the Plea",
+          "bn": "নসিহতের মুখে ফিরে দাঁড়ানো"
+        },
+        "p": [
+          {
+            "en": "Wa-qala Fir'awnu ya Hamanu bni li sarhan la'alli ablughu l-asbab: and Fir'awn said, O Haman, build me a sarh, a tower, that I might reach the ways. The verse does not stand alone. At-Tabari places it at once: Fir'awn said this after the believer from his own family had admonished him, rebuked him for wanting to kill Musa (AS), and warned him of Allah's punishment. Fir'awn then turned, in at-Tabari's words, to his minister, the minister of evil, Haman.",
+            "bn": "ওয়া কালা ফিরআউনু ইয়া হামানুবনি লী সারহান লা'আল্লী আবলুগুল আসবাব: ফিরআউন বলল, হে হামান, আমার জন্য একটি সারহ, অর্থাৎ উঁচু ইমারত বানাও, যাতে আমি পথগুলোতে পৌঁছাতে পারি। আয়াতটি একা দাঁড়িয়ে নেই। তাবারী শুরুতেই এর জায়গা ঠিক করে দেন। ফিরআউনের নিজের বংশের মুমিন লোকটি তাকে নসিহত করেছিলেন, মূসা (আঃ)-কে হত্যার ইচ্ছা থেকে ধমক দিয়ে ফিরিয়েছিলেন, আর আল্লাহর শাস্তির ভয় দেখিয়েছিলেন। এরপরই ফিরআউন এ কথা বলে। তাবারীর ভাষায়, সে ফিরে তাকায় তার মন্ত্রী হামানের দিকে, যে ছিল এক মন্দ মন্ত্রী।"
+          },
+          {
+            "en": "Al-Qurtubi reads a motive into the timing. Fir'awn feared that the believer's words would take hold in the hearts of the people, so he gave the impression that he was putting Musa's message of tawhid to the test: if it proved right he would not hide it from them, and if not, he would hold them firm in their religion. The tower and its baked bricks have their own article under 28:38. This one follows another thread: the word on which the verse ends, al-asbab.",
+            "bn": "সময়টার পেছনে কুরতুবী একটা উদ্দেশ্য দেখেন। ফিরআউনের ভয় হল, মুমিন লোকটির কথা মানুষের অন্তরে বসে যেতে পারে। তাই সে এমন ভাব দেখাল যেন মূসা (আঃ)-এর আনা তাওহীদের দাওয়াত সে যাচাই করে দেখছে। সঠিক প্রমাণিত হলে সে তা লোকদের কাছ থেকে লুকাবে না, আর সঠিক না হলে তাদের পুরনো ধর্মে অটল রাখবে। মিনার আর পোড়া ইটের কথা ২৮:৩৮ আয়াতের আলোচনায় আলাদা করে এসেছে। এখানে আমরা ধরব অন্য একটি সুতো: যে শব্দে আয়াতটি শেষ হয়েছে, আল-আসবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Left Hanging",
+          "bn": "অসমাপ্ত রেখে দেওয়া শব্দ"
+        },
+        "p": [
+          {
+            "en": "The verse stops on al-asbab, the ways, and says nothing more. The next verse opens by repeating the word with its object: asbaba s-samawati, the ways of the heavens. Al-Qurtubi explains the grammar. The second asbab is a badal, a substitute restating the first, and the repetition is for tafkhim, to make the matter loom large, because when a thing is first left vague and then made clear, its weight is felt more. He closes the remark with: and Allah knows best.",
+            "bn": "আয়াতটি থেমে যায় আল-আসবাব, অর্থাৎ পথগুলো, এ শব্দে। এর বেশি কিছু বলে না। পরের আয়াত শুরু হয় শব্দটিকে আবার এনে, এবার তার সম্বন্ধসহ: আসবাবাস সামাওয়াত, আসমানের পথগুলো। কুরতুবী ব্যাকরণটা খুলে বলেন। দ্বিতীয় আসবাব হল বদল, প্রথমটিকেই নতুন করে বলা। আর এই পুনরাবৃত্তি তাফখীমের জন্য, মানে বিষয়টাকে বড় করে তোলার জন্য। কোনো জিনিস প্রথমে অস্পষ্ট রেখে পরে খুলে বললে তার ওজন বেশি করে টের পাওয়া যায়। কথাটা তিনি শেষ করেন এভাবে: আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Read aloud, the effect is easy to hear. Fir'awn names a goal without naming it, I might reach the ways, and the listener waits. Only across the verse break does the goal arrive: the heavens. The ambition is laid out in two steps, the way a boast is built. The Qur'an reports the sentence as Fir'awn's own, and within a few words of verse 37 it gives its own verdict on him and on his plan.",
+            "bn": "জোরে পড়লেই প্রভাবটা কানে ধরা পড়ে। ফিরআউন একটা লক্ষ্যের কথা বলে, অথচ লক্ষ্যের নাম নেয় না: যাতে আমি পথগুলোতে পৌঁছাতে পারি। শ্রোতা অপেক্ষায় থাকে। আয়াতের সীমা পার হলে তবেই লক্ষ্যটা আসে: আসমান। বড়াই যেভাবে গাঁথা হয়, উচ্চাকাঙ্ক্ষাটাও সেভাবে দুই ধাপে সাজানো। কুরআন বাক্যটিকে ফিরআউনের নিজের কথা হিসেবেই উদ্ধৃত করে। তারপর ৩৭ নম্বর আয়াতে অল্প কয়েকটি শব্দ পরেই তার সম্পর্কে আর তার পরিকল্পনা সম্পর্কে নিজের রায় জানিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Roads, Gates or a Station",
+          "bn": "রাস্তা, দরজা, নাকি মনজিল"
+        },
+        "p": [
+          {
+            "en": "What are these asbab? At-Tabari says the people of interpretation differed, and he lays out three answers with their chains. Some said the ways of the heavens are their roads, turuq; he gives this from Abu Salih and, by a separate chain, from as-Suddi. Others said their gates, abwab, and he gives this from Qatada. A third answer is manzil as-sama', the station or dwelling-place of the heaven, which he reports from Ibn Abbas.",
+            "bn": "এই আসবাব আসলে কী? তাবারী বলেন, তাফসীরকারদের মধ্যে মতভেদ আছে। তিনি সনদসহ তিনটি জবাব সাজিয়ে দেন। কেউ বলেছেন, আসমানের আসবাব মানে তার রাস্তা, তুরুক। এ মত তিনি আনেন আবূ সালিহ থেকে, আর আলাদা সনদে সুদ্দী থেকে। কেউ বলেছেন, তার দরজা, আবওয়াব। এটি তিনি আনেন কাতাদা থেকে। তৃতীয় জবাব হল মানযিলুস সামা, আসমানের মনজিল বা অবস্থানস্থল। এটি তিনি বর্ণনা করেন ইবন আব্বাস থেকে।"
+          },
+          {
+            "en": "The other commentators line up behind one answer or another. Al-Qurtubi gives gates as the view of Qatada, az-Zuhri, as-Suddi and al-Akhfash, quotes a line of old poetry, whoever dreads the asbab of death will be reached by them, even should he try the asbab of the sky with a ladder, and records Abu Salih for roads. He adds, under the words it is said, a different idea: the things by which the heavens hold together. Al-Baghawi joins two answers, their roads and their gates, from one heaven to the next. The Muyassar has the gates of the heavens and whatever would bring him to them.",
+            "bn": "অন্য তাফসীরকারেরা এর কোনো না কোনো জবাবের পাশে দাঁড়ান। কুরতুবী দরজার মতটি দেন কাতাদা, যুহরী, সুদ্দী ও আখফাশের নামে। সঙ্গে একটি পুরনো কবিতার চরণ আনেন: যে মৃত্যুর আসবাবকে ভয় পায়, সেগুলো তাকে ধরবেই, সে সিঁড়ি লাগিয়ে আসমানের আসবাবে চড়তে চাইলেও। রাস্তার মতটি তিনি লেখেন আবূ সালিহের নামে। এরপর 'বলা হয়' বলে একেবারে ভিন্ন একটি ধারণা যোগ করেন: যেসব জিনিসের উপর ভর করে আসমান টিকে আছে। বাগাভী দুটি জবাব একসঙ্গে নেন: এক আসমান থেকে আরেক আসমানে যাওয়ার রাস্তা ও দরজা। মুয়াসসার বলে, আসমানের দরজাগুলো আর যা কিছু তাকে সেখানে পৌঁছে দেবে।"
+          },
+          {
+            "en": "One small difference in the reports is worth keeping as it stands. At-Tabari and al-Qurtubi both give Abu Salih as saying roads, while Ibn Kathir names Sa'id ibn Jubayr and Abu Salih for gates, then gives roads under it is said. At-Tabari has as-Suddi for roads; al-Qurtubi lists him for gates. The sources fetched here do not settle which word each early authority used, and this article does not choose. The two answers are close in any case: each pictures a passage upward.",
+            "bn": "বর্ণনাগুলোর মধ্যে একটা ছোট্ট অমিল আছে, সেটা যেমন আছে তেমনই রাখা ভালো। তাবারী আর কুরতুবী দুজনেই আবূ সালিহের মত বলেছেন রাস্তা। অথচ ইবন কাসীর সাঈদ ইবন জুবায়র ও আবূ সালিহের নামে বলেন দরজা, তারপর 'বলা হয়' বলে রাস্তার কথা আনেন। তাবারীর কাছে সুদ্দীর মত রাস্তা, কুরতুবীর তালিকায় তিনি দরজার পক্ষে। আগের যুগের প্রত্যেক আলেম ঠিক কোন শব্দটি বলেছিলেন, এখানে সংগৃহীত সূত্রগুলো তার মীমাংসা করে না। এ লেখাও কোনো পক্ষ নেয় না। তবে দুটি জবাব খুব কাছাকাছি, দুটোই উপরে ওঠার একটা পথের ছবি আঁকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anything That Gets You There",
+          "bn": "যা দিয়ে গন্তব্যে পৌঁছানো যায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the matter as a list. He recalls a definition given earlier in his tafsir: a sabab is anything by which one is brought to what one seeks, a rope, a ladder, a road and the like. The word names a means, not a particular object. So, for him, there is no need to pick one gloss. The soundest reading is: perhaps I may reach, among the means of the heavens, means by which I can come to see the God of Musa, whether roads, gates, stations or something else.",
+            "bn": "তাবারী বিষয়টাকে শুধু একটা তালিকায় ফেলে রাখেন না। তাফসীরের আগের এক জায়গায় দেওয়া সংজ্ঞাটা তিনি মনে করিয়ে দেন: সবব হল এমন যেকোনো কিছু, যার মাধ্যমে মানুষ তার কাঙ্ক্ষিত জিনিসে পৌঁছায়। দড়ি, সিঁড়ি, রাস্তা, এ রকম আরও কিছু। শব্দটা তাই কোনো নির্দিষ্ট বস্তুর নাম নয়, মাধ্যমের নাম। ফলে তাঁর মতে একটি ব্যাখ্যা বেছে নেওয়ার দরকার পড়ে না। সবচেয়ে সঠিক অর্থ হল: আসমানের মাধ্যমগুলোর মধ্যে হয়তো আমি এমন কিছু মাধ্যমে পৌঁছাব, যা দিয়ে মূসার ইলাহকে দেখতে পাব। সেগুলো রাস্তা হোক, দরজা হোক, মনজিল হোক বা অন্য কিছু।"
+          },
+          {
+            "en": "Seen through that definition, the sentence says much about its speaker. Fir'awn pictured the heavens as a place reached by means, and the means as something he could order built. In the same court, a man of his own family had just offered him another kind of means: a call to his Lord, which needed no bricks, only acceptance. Fir'awn did not answer that call. He commissioned a building instead, and the next verse says what such a choice reveals.",
+            "bn": "এই সংজ্ঞার আলোয় দেখলে বাক্যটা বক্তার সম্পর্কে অনেক কিছু বলে দেয়। ফিরআউন ভেবেছিল, আসমান এমন জায়গা যেখানে মাধ্যম ধরে পৌঁছাতে হয়, আর সেই মাধ্যম হুকুম দিয়ে বানিয়ে নেওয়া যায়। অথচ সেই দরবারেই তার নিজের বংশের একজন মানুষ তাকে আরেক ধরনের মাধ্যম দিয়েছিলেন: রবের দিকে এক দাওয়াত। তাতে ইটের দরকার ছিল না, দরকার ছিল শুধু মেনে নেওয়ার। ফিরআউন সেই দাওয়াতের জবাব দিল না, বরং একটা ইমারত বানানোর ফরমায়েশ দিল। এমন সিদ্ধান্ত কী প্রকাশ করে, পরের আয়াত তা বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking Down From a Height",
+          "bn": "উঁচু থেকে উঁকি দেওয়ার বাসনা"
+        },
+        "p": [
+          {
+            "en": "Fa-attali'a ila ilahi Musa: so that I may look upon the God of Musa. Al-Qurtubi gives the sense of the verb: to look at Him as one who overlooks from above. He draws a conclusion from it. Fir'awn imagined that God was a body contained by places, and Fir'awn, who claimed divinity for himself, saw its realisation in sitting in an elevated place. On this reading, his idea of a god and his idea of a throne were one idea: height.",
+            "bn": "ফাআত্তালিআ ইলা ইলাহি মূসা: যাতে আমি মূসার ইলাহকে উঁকি দিয়ে দেখতে পারি। কুরতুবী ক্রিয়াটির অর্থ বলেন: উপর থেকে যে ঝুঁকে দেখে, তার মতো করে তাঁকে দেখা। এ থেকে তিনি একটি সিদ্ধান্তও টানেন। ফিরআউন ধারণা করেছিল, ইলাহ এমন এক দেহ যাকে কোনো জায়গা ঘিরে রাখে। আর নিজে সে ইলাহ হওয়ার দাবি করত, এবং সেই দাবির বাস্তব রূপ দেখত উঁচু জায়গায় বসে থাকার মধ্যে। এ ব্যাখ্যায় ইলাহ সম্পর্কে তার ধারণা আর সিংহাসন সম্পর্কে তার ধারণা আসলে একই: উচ্চতা।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar frame the same words from the side of Musa's message. For the Muyassar, Fir'awn thought Musa a liar in his claim that we have a Lord and that He is above the heavens, and wanted to look upon Him himself. As-Sa'di describes Musa's call as a call to affirm the Lord of the worlds, who rose over the Throne and is exalted above creation, and says Fir'awn wanted to take precautions and test the matter himself. The commentators place the weight differently, and the article leaves each where he put it.",
+            "bn": "সা'দী আর মুয়াসসার একই কথাগুলো দেখেন মূসা (আঃ)-এর দাওয়াতের দিক থেকে। মুয়াসসারের ভাষ্যে, মূসা দাবি করেছিলেন আমাদের একজন রব আছেন আর তিনি আসমানের উপরে। ফিরআউন এ দাবিতে তাঁকে মিথ্যাবাদী ভাবত, আর নিজের চোখে তাঁকে দেখতে চাইত। সা'দী মূসার দাওয়াতকে বলেন জগৎসমূহের রবকে মেনে নেওয়ার ডাক, যিনি আরশের উপর সমাসীন এবং সৃষ্টির ঊর্ধ্বে। তাঁর মতে ফিরআউন সাবধানী হতে চেয়েছিল, ব্যাপারটা নিজে পরখ করে দেখতে চেয়েছিল। তাফসীরকারেরা জোর দেন ভিন্ন ভিন্ন জায়গায়। এ লেখা প্রত্যেকের কথা তাঁর রাখা জায়গাতেই রেখে দেয়।"
+          },
+          {
+            "en": "The verb is read two ways. Most readers of the cities, at-Tabari says, read fa-attali'u, ending in u, joined to ablughu: perhaps I may reach, and look. Humayd al-A'raj read fa-attali'a, ending in a, as the answer to la'alla, perhaps. At-Tabari accepts only the first, citing the agreement of the authoritative readers. Al-Qurtubi and al-Baghawi both name Hafs from 'Asim among those who read it with a. Al-Qurtubi relays an-Nahhas on the difference: with a, once I reach the ways I will look; with u, perhaps I reach them, then perhaps I look.",
+            "bn": "ক্রিয়াটি দুইভাবে পড়া হয়। তাবারী বলেন, বিভিন্ন শহরের অধিকাংশ কারী পড়েছেন ফাআত্তালিউ, শেষে পেশ দিয়ে, আবলুগু ক্রিয়ার সঙ্গে জুড়ে: হয়তো আমি পৌঁছাব, আর দেখব। হুমায়দ আল-আ'রাজ পড়েছেন ফাআত্তালিআ, শেষে যবর দিয়ে, লা'আল্লা অর্থাৎ 'হয়তো'-র জবাব হিসেবে। তাবারী শুধু প্রথম পাঠটিই গ্রহণ করেন, প্রামাণ্য কারীদের ঐকমত্যের দোহাই দিয়ে। কুরতুবী ও বাগাভী দুজনেই যবরের পাঠকদের মধ্যে আসিম থেকে হাফসের নাম উল্লেখ করেন। কুরতুবী পার্থক্যটা বোঝাতে নাহহাসের কথা আনেন: যবরে অর্থ, পথগুলোতে পৌঁছালেই আমি দেখব। পেশে অর্থ, হয়তো পৌঁছাব, তারপর হয়তো দেখব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fair-Seeming to Its Doer",
+          "bn": "কর্তার চোখে সাজানো কাজ"
+        },
+        "p": [
+          {
+            "en": "Then the Qur'an speaks in its own voice: wa-kadhalika zuyyina li-Fir'awna su'u 'amalihi, and thus the evil of his deed was made fair-seeming to Fir'awn. The verb is passive, and the commentators differ over who did the adorning. At-Tabari names Allah: so Allah adorned for Fir'awn, when he rebelled and grew defiant, the ugliness of his deed, until his own self enticed him into seeking the ways of the heavens. Al-Qurtubi gives both: Satan adorned it, or Allah did. As-Sa'di speaks of Satan, who kept on adorning it.",
+            "bn": "এরপর কুরআন নিজের কণ্ঠে কথা বলে: ওয়া কাযালিকা যুয়্যিনা লিফিরআউনা সূউ আমালিহি, আর এভাবেই ফিরআউনের চোখে তার মন্দ কাজকে সুন্দর করে দেখানো হল। ক্রিয়াটি কর্মবাচ্যে, তাই কে সাজিয়ে দেখাল, সে প্রশ্নে তাফসীরকারদের মত ভিন্ন। তাবারী আল্লাহর নাম নেন। ফিরআউন যখন তাঁর অবাধ্য হল আর হঠকারিতায় মেতে উঠল, আল্লাহ তার কুৎসিত কাজকে তার কাছে সুন্দর করে দেখালেন। শেষে তার নিজের মনই তাকে আসমানের পথে পৌঁছানোর লোভ দেখাল। কুরতুবী দুটোই বলেন: শয়তান সাজিয়েছে, অথবা আল্লাহ। সা'দী বলেন শয়তানের কথা, যে অবিরাম সাজিয়েই চলছিল।"
+          },
+          {
+            "en": "As-Sa'di then shows what adornment does to a person, step by step. Satan kept adorning the deed, calling him to it and making it look good, until Fir'awn saw it as good, invited others to it, and argued in the manner of those in the right, though he was among the greatest of corrupters. Al-Qurtubi names the deed: shirk and the denial of Musa. The Muyassar is briefest of all: his evil deed was made fair to him, so he saw it as good.",
+            "bn": "সাজানো কাজ মানুষকে কোথায় নিয়ে যায়, সা'দী তা ধাপে ধাপে দেখান। শয়তান কাজটাকে সাজিয়েই চলল, তাকে সেদিকে ডাকল, সেটাকে ভালো করে দেখাল। শেষে ফিরআউন নিজেই কাজটাকে ভালো দেখতে লাগল, অন্যদের সেদিকে ডাকল, আর সত্যপন্থীদের ভঙ্গিতে তর্ক জুড়ে দিল। অথচ সে ছিল সবচেয়ে বড় ফাসাদকারীদের একজন। কাজটা কী, কুরতুবী তার নাম বলে দেন: শিরক আর মূসা (আঃ)-কে মিথ্যা বলা। মুয়াসসার সবচেয়ে সংক্ষেপে বলে: তার মন্দ কাজ তার চোখে সুন্দর করে দেখানো হল, ফলে সে সেটাকে ভালো মনে করল।"
+          },
+          {
+            "en": "Ibn Kathir ties the adornment to the tower itself. The evil deed, he says, was this very act of his, by which he wanted to make his subjects think he was doing something that would lead to proving Musa (AS) a liar. On that reading the building was not only vanity but a piece of persuasion aimed at the people, and, as as-Sa'di describes, the man who built the case came to believe it himself.",
+            "bn": "ইবন কাসীর এই সাজানোকে মিনারের সঙ্গেই জুড়ে দেন। তাঁর মতে মন্দ কাজটি ছিল তার এই কীর্তি। এর মাধ্যমে সে প্রজাদের বোঝাতে চেয়েছিল যে সে এমন কিছু করছে, যা দিয়ে মূসা (আঃ)-কে মিথ্যাবাদী প্রমাণ করা যাবে। এ ব্যাখ্যায় ইমারতটা শুধু অহংকারের নিদর্শন ছিল না, ছিল জনগণকে প্রভাবিত করার এক কৌশলও। আর সা'দীর বর্ণনা অনুযায়ী, যে লোক এ যুক্তি সাজিয়েছিল, শেষে সে নিজেই তা বিশ্বাস করে বসল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Barred, or Barring Others",
+          "bn": "বাধাপ্রাপ্ত, নাকি বাধাদানকারী"
+        },
+        "p": [
+          {
+            "en": "Wa-sudda 'ani s-sabil: and he was barred from the way. Here the readers differ, and the difference changes who acts. At-Tabari gives the passive, sudda, as the reading of most readers of Madina and Kufa; al-Baghawi gives it to the people of Kufa and Ya'qub, and al-Qurtubi to the Kufans. On this reading something was done to Fir'awn. Qatada, in at-Tabari, says: that was done to him; his evil deed was adorned for him and he was barred from the way. Al-Baghawi reports Ibn Abbas: Allah barred him from the way of guidance.",
+            "bn": "ওয়া সুদ্দা আনিস সাবীল: আর তাকে পথ থেকে আটকে দেওয়া হল। এখানে কারীদের পাঠে ভিন্নতা আছে, আর তাতে বদলে যায় কাজটা কে করছে। তাবারী বলেন, কর্মবাচ্যের সুদ্দা পাঠটি মদীনা ও কুফার অধিকাংশ কারীর। বাগাভী এটি দেন কুফাবাসী ও ইয়া'কূবের নামে, আর কুরতুবী কুফার কারীদের নামে। এ পাঠে কাজটা ফিরআউনের উপর করা হয়েছে। তাবারীর বর্ণনায় কাতাদা বলেন: এটা তার সঙ্গে করা হয়েছে, তার মন্দ কাজ তার কাছে সাজিয়ে দেখানো হয়েছে আর তাকে পথ থেকে আটকে দেওয়া হয়েছে। বাগাভী ইবন আব্বাসের কথা আনেন: আল্লাহ তাকে হেদায়েতের পথ থেকে আটকে দিলেন।"
+          },
+          {
+            "en": "The other reading is active, sadda, which at-Tabari gives to Humayd, Abu 'Amr and most readers of Basra. For at-Tabari it means that Fir'awn himself turned away, out of arrogance, from the path of Allah with which Musa was sent. Al-Qurtubi and al-Baghawi take the active verb with an object: Fir'awn barred the people from the way. At-Tabari's verdict on the pair is that both are well-known readings of the cities, and whichever a reader follows, he is right.",
+            "bn": "অন্য পাঠটি কর্তৃবাচ্যে, সাদ্দা। তাবারী এটি দেন হুমায়দ, আবূ আমর ও বসরার অধিকাংশ কারীর নামে। তাবারীর কাছে এর অর্থ, আল্লাহর যে পথ নিয়ে মূসা (আঃ)-কে পাঠানো হয়েছিল, ফিরআউন নিজেই অহংকারবশে সে পথ থেকে মুখ ফিরিয়ে নিল। কুরতুবী আর বাগাভী এই কর্তৃবাচ্য ক্রিয়াকে একটি কর্মসহ পড়েন: ফিরআউন মানুষকে পথ থেকে আটকে রাখল। দুই পাঠ সম্পর্কে তাবারীর রায় হল, দুটোই শহরগুলোতে সুপরিচিত পাঠ। কারী যেটাই পড়ুন, ঠিকই পড়েছেন।"
+          },
+          {
+            "en": "The verse then closes the account: wa-ma kaydu Fir'awna illa fi tabab, and the scheme of Fir'awn was nothing but in ruin. At-Tabari reports loss from Ibn Abbas and Mujahid, misguidance and loss from Qatada, and from Ibn Zayd that tabab and misguidance are one. His own gloss is concrete: loss, wealth gone and a bad bargain, because what Fir'awn spent on the sarh went for nothing and he gained none of what he wanted. As-Sa'di widens it: the scheme brought him only misery, in this world and the next.",
+            "bn": "এরপর আয়াত হিসাবটা মিলিয়ে দেয়: ওয়া মা কাইদু ফিরআউনা ইল্লা ফী তাবাব, আর ফিরআউনের চক্রান্ত ধ্বংসের মধ্যেই ছিল। তাবারী ইবন আব্বাস ও মুজাহিদ থেকে বর্ণনা করেন, এর অর্থ ক্ষতি। কাতাদা থেকে বর্ণনা করেন, পথভ্রষ্টতা ও ক্ষতি। আর ইবন যায়দ বলেন, তাবাব আর পথভ্রষ্টতা একই জিনিস। তাবারীর নিজের ব্যাখ্যা একেবারে বাস্তব: ক্ষতি, সম্পদ হাতছাড়া হওয়া আর ঠকে যাওয়া। কারণ সারহের পেছনে ফিরআউন যা খরচ করেছিল, সব বৃথা গেল, যা চেয়েছিল তার কিছুই পেল না। সা'দী অর্থটা আরও বিস্তৃত করেন: এ চক্রান্ত তাকে দুনিয়া ও আখিরাতে দুর্ভাগ্য ছাড়া কিছুই দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Other Way in the Court",
+          "bn": "দরবারে আরেকটি পথের ডাক"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse or the next attaches a hadith to them, and none gives an occasion of revelation; the passage is read through its place in the believer's speech. That place is telling. Fir'awn is barred from as-sabil, the way, and in the very next verse, 40:38, the believer answers him: follow me, and I will guide you to sabil ar-rashad, the way of right conduct. The same word stands on both sides of the tower.",
+            "bn": "এ আয়াত বা পরের আয়াতের জন্য যেসব তাফসীর সংগ্রহ করা হয়েছে, তার কোনোটিই এখানে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও দেয়নি। অংশটি বোঝা হয় মুমিন লোকটির বক্তব্যের ভেতরে এর অবস্থান থেকে। সেই অবস্থানটাই অনেক কথা বলে। ফিরআউনকে আটকে দেওয়া হল আস-সাবীল, অর্থাৎ পথ থেকে। আর ঠিক পরের আয়াতে, ৪০:৩৮-এ, মুমিন লোকটি জবাব দেন: আমার অনুসরণ কর, আমি তোমাদের সাবীলুর রাশাদ, সঠিক আচরণের পথ দেখাব। মিনারের দুই পাশে দাঁড়িয়ে আছে একই শব্দ।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes Fir'awn and his minister Haman in the time of Musa (AS): what Fir'awn ordered, and what the Qur'an says of him, as the tafsirs fetched here explain it. It licenses nothing against any present-day ruler, minister, government, nation or living person. To use Fir'awn's name as a label for someone today is to step outside what the verse says. Its warning is addressed to whoever reads it, and the reader is the first person it concerns.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে মূসা (আঃ)-এর যুগের ফিরআউন আর তার মন্ত্রী হামানের কথা: ফিরআউন কী হুকুম দিয়েছিল, আর কুরআন তার সম্পর্কে কী বলে, এখানে সংগৃহীত তাফসীরগুলো যেভাবে তা ব্যাখ্যা করে। বর্তমান যুগের কোনো শাসক, মন্ত্রী, সরকার, জাতি বা জীবিত কোনো মানুষের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কারও গায়ে ফিরআউনের নাম সেঁটে দেওয়া মানে আয়াতের কথার বাইরে চলে যাওয়া। এর সতর্কবাণী যে পড়ে তার প্রতি, আর পাঠক নিজেই এর প্রথম লক্ষ্য।"
+          },
+          {
+            "en": "And it concerns the reader closely. The way upward is not built from below; it is sent, and it can be refused from inside a palace. The gravest part of the account is not the height of the building but the quiet clause after it: his evil deed was made fair-seeming to him. We ask Allah not to let our wrongs look beautiful to us, and to guide us, as the believer promised his people, to the way of right conduct.",
+            "bn": "আর পাঠকের সঙ্গে এর সম্পর্ক খুব কাছের। উপরে ওঠার পথ নিচ থেকে বানানো যায় না। সে পথ পাঠানো হয়, আর রাজপ্রাসাদের ভেতরে বসেও তা ফিরিয়ে দেওয়া যায়। এ কাহিনির সবচেয়ে ভারী অংশ ইমারতের উচ্চতা নয়, বরং তার পরের নিঃশব্দ বাক্যটি: তার মন্দ কাজ তার চোখে সুন্দর করে দেখানো হয়েছিল। আমরা আল্লাহর কাছে চাই, তিনি যেন আমাদের অন্যায়গুলোকে আমাদের চোখে সুন্দর হতে না দেন। আর মুমিন লোকটি তার জাতিকে যে পথের কথা দিয়েছিলেন, সেই সঠিক আচরণের পথে যেন আমাদের চালান।"
+          }
+        ]
+      }
+    ]
+  },
   "40:40": {
     "sections": [
       {

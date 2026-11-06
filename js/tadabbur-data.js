@@ -26409,6 +26409,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What follows death is not empty waiting. Spend your mornings and evenings on what you would want shown to you in the place prepared for you.",
     "lessonBn": "মৃত্যুর পরের সময়টা ফাঁকা অপেক্ষা নয়। সকাল-সন্ধ্যাগুলো এমন কাজে কাটান, যার ফল আপনার জন্য প্রস্তুত ঠিকানায় দেখতে আপনি চাইবেন।"
+  },
+  "40:36": {
+    "reflectionEn": "Fir'awn has just heard a believer from his own household plead with him. He does not answer the argument. He turns to his minister and orders a building, something tall enough, he says, to reach the ways, the ways of the heavens, so that he might look upon the God of Musa. He looks for the road to Allah in brick and height, as though nearness could be climbed. The next verse explains how a man comes to that: his evil deed was made fair in his eyes, and he was barred from the way. Meanwhile the way was being described to him in his own court. What am I building when I should be listening? And which of my deeds look beautiful to me only because they are mine?",
+    "reflectionBn": "নিজের ঘরেরই একজন মুমিন এইমাত্র ফিরআউনকে দরদ দিয়ে বুঝিয়েছেন। ফিরআউন সেই যুক্তির কোনো জবাব দেয় না। সে ফিরে তাকায় তার মন্ত্রীর দিকে, হুকুম দেয় একটা ইমারত বানাতে। এত উঁচু, যাতে সে পৌঁছাতে পারে পথগুলোতে, আসমানের পথগুলোতে, আর উঁকি দিয়ে দেখতে পারে মূসার ইলাহকে। আল্লাহর কাছে যাওয়ার রাস্তা সে খোঁজে ইট আর উচ্চতায়, যেন নৈকট্য সিঁড়ি বেয়ে ওঠার জিনিস। পরের আয়াত বলে দেয় মানুষ কীভাবে এ অবস্থায় পৌঁছায়: তার মন্দ কাজ তার চোখে সুন্দর করে দেখানো হয়েছিল, আর তাকে পথ থেকে আটকে দেওয়া হয়েছিল। অথচ সেই পথের কথাই তখন তার দরবারে বলা হচ্ছিল। যখন শোনার কথা, তখন আমি কী বানাতে ব্যস্ত? আর আমার কোন কাজগুলো আমার চোখে সুন্দর লাগে শুধু এ কারণে যে কাজগুলো আমার?",
+    "pointsEn": [
+      "When a truth reaches me that I cannot answer, do I change the subject to a project, a plan or a show of effort?",
+      "Which road to Allah am I trying to build by my own design, when He has already sent the way?",
+      "Is there a habit of mine that once looked wrong to me and now looks normal, even good?",
+      "Who around me is sincerely saying, follow me and I will guide you, and am I too busy building to hear them?",
+      "Do I read about Fir'awn's tower to feel above him, or to look for the smaller towers in myself?"
+    ],
+    "pointsBn": [
+      "যে সত্যের জবাব আমার কাছে নেই, তা সামনে এলে আমি কি কথা ঘুরিয়ে কোনো প্রকল্প, পরিকল্পনা বা ব্যস্ততার প্রদর্শনীতে চলে যাই?",
+      "আল্লাহ তো পথ পাঠিয়েই দিয়েছেন। তবু তাঁর কাছে যাওয়ার কোন রাস্তা আমি নিজের নকশায় বানাতে চাইছি?",
+      "আমার এমন কোনো অভ্যাস কি আছে, যা একসময় আমার কাছে অন্যায় মনে হত, আর এখন স্বাভাবিক, এমনকি ভালো মনে হয়?",
+      "আমার আশেপাশে কে আন্তরিকভাবে বলছে, আমার কথা শোনো, আমি তোমাকে পথ দেখাব? আর আমি কি বানানোর কাজে এত ব্যস্ত যে তার কথা কানে যায় না?",
+      "ফিরআউনের মিনারের কথা পড়ে আমি কি নিজেকে তার চেয়ে উপরে ভাবি, নাকি নিজের ভেতরের ছোট ছোট মিনারগুলো খুঁজি?"
+    ],
+    "lessonEn": "The way to Allah is followed as He sent it, not climbed by our own construction. Beware when a wrong deed begins to look fair in your own eyes.",
+    "lessonBn": "আল্লাহর কাছে পৌঁছানোর পথ নিজের বানানো সিঁড়ি বেয়ে ওঠার নয়, তিনি যেভাবে পাঠিয়েছেন সেভাবে চলার। কোনো মন্দ কাজ যখন নিজের চোখে সুন্দর লাগতে শুরু করে, তখন সাবধান হোন।"
   }
 };
 
