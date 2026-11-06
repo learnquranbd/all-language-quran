@@ -15,6 +15,8 @@ the state, kept short on purpose. Full history of earlier rounds:
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
 ## WAVE 2 (2026-11-02): more ayahs.
+STATE 2026-11-06: v1671 LIVE (pushed+deployed). Resume: ship drafts with audit/<key>/COMMIT.md for LAUNCHED rows, relaunch the rest, then queue.js. Resume: ship any audit/<key>/COMMIT.md drafts of LAUNCHED rows, relaunch the rest.
+RESUMED 2026-11-06 after v1610 (USER: "continue enrich wave, until I say stop, finish all the Tadabbur ayah for this enrich wave"): shipped the 8 waiting drafts as v1611-v1618; 10 drafters; push+deploy in groups (~30). LAUNCHED: 33:29 33:37 33:53 33:66 34:6 34:10 34:16 34:27 34:37 34:52.
 STOPPED 2026-11-06 at v1610 on CONTEXT HIGH; pushed origin+pro and DEPLOYED, live sw.js = lq-v1610 (verified). DRAFTED+gate-ready (not shipped): 31:2 31:25 32:3 32:9 32:15 32:19 33:4 33:13 (33:13: check §5 Ahmad Yathrib report + Qatadah "sent someone" wording before shipping). (This session v1532-v1610 = 79 ayat, 21:81 -> 30:5). ALL 8 in-flight drafts finished (none in flight now). RESUME in a FRESH session: for each in-flight key, if audit/<key>/COMMIT.md exists -> gate.js, ship.sh, commit.sh; if not -> relaunch the drafter (PREP ready). Then queue.js (next prepped: 33:29 33:37 33:53); 10 drafters. NOTE: queue.js does not exclude in-flight keys.
 OPEN (small): shipped 30:3 licensing sentence names "Persians, Iranians" (a present-day people), against the rule; reword to tie Rum/Persia to no present-day state or people (see audit/30_5 report). A stray draft tools/wip/round11/17_26-*.js exists (17:26 not shipped?) - check before drafting 17:26. Stale row "37:134 LAUNCHED" in the table - check.
 RESUMED 2026-11-06 (USER: "continue enrich wave"): 7d 39%, NORMAL; 10 drafters (user's standing 10). Push+deploy at stop (group ship). OPEN (small): shipped 23:55 quotes the Ibn Mas'ud "Allah divided your character..." narration via Ibn Kathir with no grading; quranx has no Musnad Ahmad, so it cannot be confirmed under the hadith rule (see audit/23_56/LEDGER.md). User decides: cut or keep.
@@ -303,14 +305,77 @@ New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-tar
 | 30:34 | v1606 | DONE |
 | 30:38 | v1609 | DONE |
 | 30:55 | v1608 | DONE |
-| 31:2 | - | LAUNCHED |
-| 31:25 | - | LAUNCHED |
-| 32:3 | - | LAUNCHED |
-| 32:9 | - | LAUNCHED |
-| 32:15 | - | LAUNCHED |
-| 32:19 | - | LAUNCHED |
-| 33:4 | - | LAUNCHED |
-| 33:13 | - | LAUNCHED |
+| 31:2 | v1611 | DONE |
+| 31:25 | v1612 | DONE |
+| 32:3 | v1613 | DONE |
+| 32:9 | v1614 | DONE |
+| 32:15 | v1615 | DONE |
+| 32:19 | v1616 | DONE |
+| 33:4 | v1617 | DONE |
+| 33:13 | v1618 | DONE |
+| 33:29 | v1624 | DONE |
+| 33:37 | v1627 | DONE |
+| 33:53 | v1626 | DONE |
+| 33:66 | v1619 | DONE |
+| 34:6 | v1621 | DONE |
+| 34:10 | v1628 | DONE |
+| 34:16 | v1625 | DONE |
+| 34:27 | v1620 | DONE |
+| 34:37 | v1622 | DONE |
+| 34:52 | v1623 | DONE |
+| 35:6 | v1629 | DONE |
+| 35:24 | v1630 | DONE |
+| 35:37 | v1633 | DONE |
+| 36:6 | v1631 | DONE |
+| 36:16 | v1636 | DONE |
+| 36:29 | v1632 | DONE |
+| 36:40 | v1639 | DONE |
+| 36:56 | v1637 | DONE |
+| 36:65 | v1635 | DONE |
+| 36:72 | v1634 | DONE |
+| 37:3 | v1638 | DONE |
+| 37:13 | v1640 | DONE |
+| 37:20 | v1642 | DONE |
+| 37:28 | v1641 | DONE |
+| 37:36 | v1643 | DONE |
+| 37:48 | v1644 | DONE |
+| 37:57 | v1645 | DONE |
+| 37:65 | v1647 | DONE |
+| 37:80 | v1646 | DONE |
+| 37:86 | v1648 | DONE |
+| 37:92 | v1649 | DONE |
+| 37:110 | v1650 | DONE |
+| 37:119 | v1654 | DONE |
+| 37:127 | v1651 | DONE |
+| 37:136 | v1652 | DONE |
+| 37:144 | v1653 | DONE |
+| 37:160 | v1656 | DONE |
+| 37:168 | v1655 | DONE |
+| 37:182 | v1657 | DONE |
+| 38:8 | v1659 | DONE |
+| 38:13 | v1658 | DONE |
+| 38:24 | v1667 | DONE |
+| 38:26 | v1661 | DONE |
+| 38:50 | v1660 | DONE |
+| 38:57 | v1662 | DONE |
+| 38:71 | v1663 | DONE |
+| 38:82 | v1666 | DONE |
+| 39:3 | v1665 | DONE |
+| 39:16 | v1664 | DONE |
+| 39:32 | v1668 | DONE |
+| 39:42 | - | LAUNCHED |
+| 39:49 | v1669 | DONE |
+| 39:56 | v1670 | DONE |
+| 39:69 | v1671 | DONE |
+| 40:9 | - | LAUNCHED |
+| 40:18 | - | LAUNCHED |
+| 40:36 | - | LAUNCHED |
+| 40:46 | - | LAUNCHED |
+| 40:55 | - | LAUNCHED |
+| 40:70 | - | LAUNCHED |
+| 40:75 | - | LAUNCHED |
+| 40:85 | - | LAUNCHED |
+| 41:5 | - | LAUNCHED |
 | 21:59 | v1527 | DONE |
 | 21:73 | v1525 | DONE |
 
