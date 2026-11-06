@@ -151,6 +151,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Their Own Words for Turning Away",
+          "bn": "মুখ ফেরানোর নিজস্ব ভাষ্য"
+        },
+        "p": [
+          {
+            "en": "The surah opens by calling itself a revelation from the Most Merciful, a Book whose verses are set out in detail, an Arabic Qur'an bringing good news and warning. Then 41:4 reports the response: most of them turned away, so they do not hear. Verse 41:5 lets the ones who turned away speak for themselves. Wa-qalu, and they said, and four clauses follow. Three describe a condition, of the heart, of the ear, and of the space between them and the Prophet ﷺ. The fourth ends the conversation.",
+            "bn": "সূরাটি শুরু হয় নিজের পরিচয় দিয়ে: পরম দয়াময়ের কাছ থেকে নাযিল হওয়া, আয়াতগুলো বিস্তারিত করে বলা এক কিতাব, সুসংবাদ আর সতর্কবাণী নিয়ে আসা আরবী কুরআন। তারপর ৪১:৪ আয়াত জানায় তার জবাব কী এল: অধিকাংশই মুখ ফিরিয়ে নিল, তাই তারা শোনে না। ৪১:৫ আয়াতে সেই মুখ ফেরানো লোকেরা নিজেরাই কথা বলে। ওয়া কালূ, আর তারা বলল। এরপর চারটি বাক্যাংশ। তিনটি এক অবস্থার বিবরণ: দিলের, কানের, আর তাদের ও নবী ﷺ-এর মাঝখানের জায়গার। চতুর্থটি কথাবার্তার ইতি টেনে দেয়।"
+          },
+          {
+            "en": "At-Tabari names the speakers as the idolaters of Quraysh who turned away from Allah's signs, when Muhammad ﷺ called them to affirm Allah's oneness and to believe what the Qur'an carries of His command and prohibition. Al-Baghawi says simply the idolaters of Makkah. Ma'arif al-Qur'an counts three statements of the disbelievers of Quraysh: a cover on the heart, deafness in the ear, a barrier between. It adds that the Qur'an reproduces them in order to denounce them, which shows the statements are wrong.",
+            "bn": "তাবারী বক্তাদের পরিচয় দেন: কুরাইশের সেই মুশরিকরা, যারা আল্লাহর আয়াত থেকে মুখ ফিরিয়ে নিয়েছিল। মুহাম্মাদ ﷺ তাদের ডেকেছিলেন আল্লাহর একত্ব মেনে নিতে, আর কুরআনে আল্লাহর যে আদেশ-নিষেধ আছে তা সত্য বলে মানতে। বাগাভী সংক্ষেপে বলেন, মক্কার মুশরিকরা। মাআরিফুল কুরআন এখানে কুরাইশের কাফিরদের তিনটি কথা গোনে: দিলে আবরণ, কানে বধিরতা, আর মাঝখানে বাধা। সঙ্গে বলে, কুরআন কথাগুলো উদ্ধৃত করেছে খণ্ডন করার জন্য। এতেই বোঝা যায়, কথাগুলো ভুল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearts Kept Like Arrows",
+          "bn": "তূণে ঢাকা তীরের মতো দিল"
+        },
+        "p": [
+          {
+            "en": "Qulubuna fi akinnatin: our hearts are in coverings. Al-Qurtubi explains akinnah as the plural of kinan, a covering, and notes that the word was treated earlier, in al-Baqarah. At-Tabari glosses it the same way, aghtiyah, coverings, and relays from Mujahid the picture behind it: on the hearts are covers like the quiver that holds arrows. Al-Qurtubi relays the same comparison from Mujahid, the kinan of the heart being like the case around arrows. A quiver does not destroy what it holds. It encloses it, so that nothing touches it.",
+            "bn": "কুলূবুনা ফী আকিন্নাহ: আমাদের দিল আবরণের ভেতরে। কুরতুবী বলেন, আকিন্নাহ শব্দটি কিনান-এর বহুবচন, যার অর্থ আবরণ। তিনি এটাও মনে করিয়ে দেন যে শব্দটির আলোচনা আগেই সূরা বাকারায় হয়ে গেছে। তাবারীও একই অর্থ করেন: আগতিয়া, অর্থাৎ ঢাকনা। আর মুজাহিদ থেকে এর পেছনের ছবিটা তুলে আনেন: দিলগুলোর উপর ঢাকনা আছে, যেমন তীর রাখার তূণ। কুরতুবীও মুজাহিদ থেকে একই তুলনা আনেন: দিলের কিনান যেন তীরের খাপ। তূণ তার ভেতরের জিনিস নষ্ট করে না। শুধু ঘিরে রাখে, যাতে বাইরের কিছু তাকে ছুঁতে না পারে।"
+          },
+          {
+            "en": "The other commentators add to the image. Ibn Kathir calls the coverings ghulf mughattah, casings drawn closed; his abridged English rendering has the hearts wrapped and screened. As-Sa'di says aghtiyah mughashshah, coverings pulled over. The phrase that follows, mimma tad'una ilayhi, from what you call us to, says what the coverings keep out. At-Tabari spells it out: the oneness of Allah, and believing the Prophet ﷺ in what he brought. Their claim, in his paraphrase, is that they do not understand what he says, and al-Baghawi and the Muyassar likewise tie the coverings to understanding.",
+            "bn": "অন্য তাফসীরকারেরা ছবিটায় আরও রং দেন। ইবন কাসীর আবরণকে বলেন গুলফ মুগাত্তাহ, মুখ বন্ধ করা খোলস। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে আছে, দিলগুলো মোড়ানো ও আড়াল করা। সা'দী বলেন আগতিয়া মুগাশশাহ, উপর থেকে টেনে দেওয়া ঢাকনা। এরপর আসে মিম্মা তাদঊনা ইলাইহি, তুমি আমাদের যার দিকে ডাকছ তা থেকে। আবরণ কী ঠেকিয়ে রাখছে, এই অংশ তা বলে দেয়। তাবারী তা খুলে বলেন: আল্লাহর একত্ব, আর নবী ﷺ যা এনেছেন তাতে তাঁকে সত্য বলে মানা। তাঁর ব্যাখ্যায় তাদের দাবি হলো, তুমি যা বলো আমরা তা বুঝি না। বাগাভী আর মুয়াসসারও আবরণকে বোঝার সঙ্গেই জুড়ে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ears Weighed Down by Dislike",
+          "bn": "অপছন্দের ভারে ভারী কান"
+        },
+        "p": [
+          {
+            "en": "Wa-fi adhanina waqrun: and in our ears is waqr. As-Suddi, through at-Tabari, says it means deafness, and al-Qurtubi, Ibn Kathir, al-Baghawi, as-Sa'di and the Muyassar all gloss it the same way, samam. Al-Qurtubi draws out the result: your speech does not enter our hearing, and our hearts are screened from understanding it. Ibn Kathir: deaf to what you have brought us. As-Sa'di and al-Baghawi both add the plain consequence, so we do not hear you, or do not hear what you say.",
+            "bn": "ওয়া ফী আযানিনা ওয়াকর: আর আমাদের কানে আছে ওয়াকর। তাবারীর সূত্রে সুদ্দী বলেন, এর অর্থ বধিরতা। কুরতুবী, ইবন কাসীর, বাগাভী, সা'দী আর মুয়াসসারও একই অর্থ করেন: সামাম, কালা হয়ে যাওয়া। কুরতুবী এর ফলটা দেখান: তোমার কথা আমাদের কানে ঢোকে না, আর আমাদের দিল তা বোঝা থেকে আড়ালে। ইবন কাসীর বলেন, তুমি যা এনেছ তার বেলায় আমরা কালা। সা'দী আর বাগাভী দুজনেই সোজা পরিণামটা জুড়ে দেন: তাই আমরা তোমার কথা শুনি না।"
+          },
+          {
+            "en": "At-Tabari gives the word's root sense and then its motive. Waqr is thiql, heaviness. They do not hear what he calls them to, he says, istithqalan li-ma yad'u ilayhi wa-karahatan lahu: because they find what he calls to heavy, and because they dislike it. That clause matters. On at-Tabari's reading the heaviness is not in the ear's ability to catch sound. It is in the listener's attitude to what is said. He adds that he explained these words earlier with their supporting evidence, and declines to repeat it.",
+            "bn": "তাবারী প্রথমে শব্দটির মূল অর্থ দেন, তারপর তার পেছনের কারণ। ওয়াকর মানে সিকল, ভার। তিনি বলেন, নবী ﷺ যার দিকে ডাকেন তা তারা শোনে না, কারণ ডাকটা তাদের কাছে ভারী লাগে, আর ডাকটা তারা অপছন্দ করে। এই কথাটুকুর গুরুত্ব আছে। তাবারীর ব্যাখ্যায় ভারটা কানের শব্দ ধরার শক্তিতে নয়। ভারটা শ্রোতার মনে, যা বলা হচ্ছে তার প্রতি তার মনোভাবে। তিনি এও জানান, এই শব্দগুলোর ব্যাখ্যা প্রমাণসহ আগেই দেওয়া হয়েছে, তাই এখানে আর পুনরাবৃত্তি করছেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Kind of Screen",
+          "bn": "পর্দাটা কীসের তৈরি"
+        },
+        "p": [
+          {
+            "en": "Wa-min baynina wa-baynika hijabun: and between us and you is a screen. At-Tabari gives their meaning as a cover on whose account we and you do not come together, so that we might see each other. Then he names it: the screen is their difference in religion, because their religion was the worship of idols and the religion of Muhammad ﷺ was the worship of Allah alone, with no partner. That, he says, is the screen they claimed stood between them and the Prophet of Allah.",
+            "bn": "ওয়া মিন বাইনিনা ওয়া বাইনিকা হিজাব: আর আমাদের ও তোমার মাঝে আছে এক পর্দা। তাবারী তাদের কথার অর্থ করেন এভাবে: এমন এক আড়াল, যার কারণে আমরা আর তুমি একসঙ্গে বসি না, একে অপরকে দেখি না। তারপর তিনি পর্দাটার নাম বলেন: দীনের ভিন্নতা। তাদের দীন ছিল মূর্তিপূজা, আর মুহাম্মাদ ﷺ-এর দীন ছিল শরীকহীন এক আল্লাহর ইবাদত। তাবারী বলেন, এটাই সেই পর্দা, যা তারা নিজেদের আর আল্লাহর নবীর মাঝে আছে বলে দাবি করেছিল।"
+          },
+          {
+            "en": "At-Tabari also stops on a small word. The min in wa-min baynina is added for emphasis, he says; the sense is simply between us and you is a screen. Al-Qurtubi agrees that the screen is a difference in religion, idol worship set against the worship of Allah, and credits that meaning to al-Farra' and others. Al-Baghawi says much the same in two phrases, a difference in religion and a barrier of creed, and draws the conclusion: so we will not agree with you in what you say.",
+            "bn": "তাবারী একটা ছোট্ট শব্দের উপরও থামেন। ওয়া মিন বাইনিনা কথায় মিন অব্যয়টি এসেছে জোর দেওয়ার জন্য। অর্থ শুধু এটুকু: আমাদের ও তোমার মাঝে পর্দা আছে। কুরতুবীও বলেন পর্দাটা দীনের ভিন্নতা, তারা মূর্তির পূজা করে আর তিনি আল্লাহর ইবাদত করেন। এই অর্থটি তিনি ফাররা ও অন্যদের দিকে সম্পর্কিত করেন। বাগাভী প্রায় একই কথা বলেন দুই শব্দে: দীনের ভিন্নতা আর মিল্লাতের দেয়াল। তারপর সিদ্ধান্ত টানেন: তাই তুমি যা বলো, তাতে আমরা তোমার সঙ্গে একমত হব না।"
+          },
+          {
+            "en": "Others read the screen differently. Al-Qurtubi gives a second view, introduced with qila, it is said: a covering that prevents any response. The Muyassar has a screen that blocks them from answering the call; Ibn Kathir has a screen so that nothing of what he says reaches them; as-Sa'di has so we do not see you. Al-Qurtubi then reports, again with qila, that Abu Jahl pulled a cloth over his head and said, Muhammad, between us and you is a screen, mocking him. He attributes the report to an-Naqqash, and says al-Qushayri mentioned it.",
+            "bn": "অন্যরা পর্দাটা পড়েন ভিন্নভাবে। কুরতুবী 'বলা হয়' বলে দ্বিতীয় একটি মত আনেন: এমন আড়াল, যা কোনো সাড়া দিতে দেয় না। মুয়াসসারে আছে, এমন পর্দা যা দাওয়াতে সাড়া দেওয়া থেকে আটকে রাখে। ইবন কাসীরের ব্যাখ্যায়, এমন পর্দা যাতে তাঁর কোনো কথাই তাদের কাছে পৌঁছায় না। সা'দী বলেন, তাই আমরা তোমাকে দেখি না। তারপর কুরতুবী আবার 'বলা হয়' বলে একটি বর্ণনা আনেন: আবু জাহল মাথার উপর কাপড় টেনে দিয়ে বলেছিল, হে মুহাম্মাদ, আমাদের আর তোমার মাঝে পর্দা আছে। এ ছিল তার ঠাট্টা। বর্ণনাটি তিনি নাক্কাশের দিকে সম্পর্কিত করেন, আর বলেন কুশাইরী তা উল্লেখ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Do Your Work, We Do Ours",
+          "bn": "তুমি তোমার কাজে, আমরা আমাদের"
+        },
+        "p": [
+          {
+            "en": "Fa'mal innana 'amilun: so work, we are working. Most commentators here read it as a parting of ways. Ibn Kathir: work on your way, and we on ours; we will not follow you. Al-Baghawi: you work on your religion, and we on ours. The Muyassar: work according to your religion, as we work according to ours. Al-Qurtubi lists this among the readings, introduced with qila: act as your religion requires, for we act as ours requires. On this reading the words are a refusal, and a closed door.",
+            "bn": "ফা'মাল ইন্নানা 'আমিলূন: কাজেই তুমি কাজ কর, আমরাও কাজ করছি। এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁদের বেশির ভাগ একে পথ আলাদা হয়ে যাওয়ার ঘোষণা হিসেবে পড়েন। ইবন কাসীর বলেন, তুমি তোমার পথে কাজ কর, আমরা আমাদের পথে। আমরা তোমার অনুসরণ করব না। বাগাভী বলেন, তুমি তোমার দীনের উপর কাজ কর, আমরা আমাদের দীনের উপর। মুয়াসসার বলে, তোমার দীন মোতাবেক কাজ কর, যেমন আমরা কাজ করছি আমাদের দীন মোতাবেক। কুরতুবীও 'বলা হয়' বলে এই অর্থটি তালিকায় রাখেন। এ পাঠে কথাটা প্রত্যাখ্যান, মুখের উপর বন্ধ করে দেওয়া এক দরজা।"
+          },
+          {
+            "en": "Al-Qurtubi records sharper readings. Al-Kalbi takes it as a threat: work at destroying us, for we are working at destroying you. Muqatil makes it a contest of loyalties: work for your God who sent you, for we work for our gods whom we worship. And al-Qurtubi adds a further possibility, which he says al-Mawardi mentioned: work for your Hereafter, for we work for our world. Al-Qurtubi sets these readings side by side and does not choose between them, so the clause is left open to a parting of ways, a threat, or a choice of this world over the next.",
+            "bn": "কুরতুবী আরও কড়া কিছু ব্যাখ্যাও লিখে রাখেন। কালবী একে হুমকি হিসেবে পড়েন: তুমি আমাদের ধ্বংসের চেষ্টা চালাও, আমরাও তোমার ধ্বংসের চেষ্টা চালাচ্ছি। মুকাতিলের ব্যাখ্যায় এ দুই আনুগত্যের টক্কর: যে ইলাহ তোমাকে পাঠিয়েছেন, তুমি তাঁর জন্য কাজ কর। আমরা কাজ করি আমাদের সেই দেবতাদের জন্য, যাদের আমরা পূজা করি। কুরতুবী আরেকটি সম্ভাবনাও যোগ করেন, যা তাঁর ভাষায় মাওয়ারদী উল্লেখ করেছেন: তুমি তোমার আখিরাতের জন্য কাজ কর, আমরা আমাদের দুনিয়ার জন্য। কুরতুবী ব্যাখ্যাগুলো পাশাপাশি রেখে দেন, কোনোটিকে বেছে নেন না। তাই বাক্যটি খোলা থাকে: পথ আলাদা হওয়া, হুমকি, কিংবা আখিরাতের বদলে দুনিয়া বেছে নেওয়া।"
+          },
+          {
+            "en": "As-Sa'di reads the clause from inside their hearts. They showed their turning away from him on every side, he says, and showed their hatred of him and their contentment with what they were on. So: just as you are pleased to act on your religion, we are fully pleased to act on ours. He calls this among the greatest forms of being forsaken, khidhlan: they were content with going astray instead of guidance, took disbelief in exchange for faith, and sold the Hereafter for this world.",
+            "bn": "সা'দী বাক্যটা পড়েন তাদের মনের ভেতর থেকে। তাঁর মতে, তারা সব দিক থেকেই তাঁর থেকে মুখ ফেরানোর কথা প্রকাশ করেছিল। প্রকাশ করেছিল তাঁর প্রতি বিদ্বেষ, আর নিজেদের অবস্থায় সন্তুষ্টি। তাই তাদের কথার মানে: তুমি যেমন নিজের দীনের উপর আমল করে খুশি, আমরাও নিজেদের দীনের উপর আমল করে পুরোপুরি খুশি। সা'দী একে বলেন সবচেয়ে বড় খিযলানের একটি, অর্থাৎ আল্লাহর সাহায্য থেকে বঞ্চিত হওয়া। তারা হিদায়াতের বদলে গোমরাহিতে রাজি হলো, ঈমানের বদলে কুফর নিল, আর দুনিয়ার বিনিময়ে আখিরাত বেচে দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plea of Helplessness",
+          "bn": "অসহায়ত্বের দোহাই"
+        },
+        "p": [
+          {
+            "en": "Were they describing a real incapacity, or a choice? Al-Baghawi answers in one line: the meaning is, in not accepting from you, we are in the position of someone who neither understands nor hears. The words describe a stance taken towards the call, not a defect of hearing. As-Sa'di frames it the same way from the start: they said this to make plain that they would draw no benefit from him, by blocking the doors that lead to him. A door blocked is a door someone chose to block.",
+            "bn": "তারা কি সত্যিকারের অক্ষমতার কথা বলছিল, নাকি নিজেদের পছন্দের কথা? বাগাভী এক লাইনে জবাব দেন। অর্থ হলো: তোমার কথা কবুল না করার ব্যাপারে আমরা সেই লোকের মতো, যে বোঝেও না, শোনেও না। অর্থাৎ কথাগুলো দাওয়াতের প্রতি এক অবস্থান, শোনার কোনো ত্রুটি নয়। সা'দী শুরু থেকেই বিষয়টা এভাবে দেখেন। তাঁর মতে, তারা এ কথা বলেছিল এটা স্পষ্ট করতে যে তাঁর কাছ থেকে কোনো উপকার তারা নেবে না। তাঁর দিকে যাওয়ার সব দরজা তারা বন্ধ করে দিয়েছিল। আর বন্ধ দরজা মানে কেউ একজন তা বন্ধ করেছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an raises a question that sharpens the point. In 6:25 the Qur'an itself says of such people that We placed coverings over their hearts, lest they understand it, and heaviness in their ears. Is that not what they claim here? Its answer, credited to Bayan-ul-Qur'an: the disbelievers meant by these words that they were helpless and so to be excused, since how could they listen and accept? When the Qur'an states their condition in al-An'am, it does not treat them as helpless. It holds them fully capable of hearing and understanding.",
+            "bn": "মাআরিফুল কুরআন এখানে একটা প্রশ্ন তোলে, যা বিষয়টাকে আরও পরিষ্কার করে। ৬:২৫ আয়াতে কুরআন নিজেই এমন লোকদের সম্পর্কে বলছে: আমি তাদের দিলের উপর আবরণ দিয়েছি, যাতে তারা তা বুঝতে না পারে, আর তাদের কানে দিয়েছি ভার। তাহলে এখানে তারা যা দাবি করছে, তা কি একই কথা নয়? বায়ানুল কুরআনের বরাতে এর জবাব: কাফিররা এ কথা বলে বোঝাতে চেয়েছিল যে তারা অসহায়, তাই তাদের অজুহাত গ্রহণযোগ্য। এমন অবস্থায় তারা শুনবে কী করে, মানবেই বা কী করে? কিন্তু সূরা আনআমে কুরআন যখন তাদের এই অবস্থার কথা বলে, তখন তাদের অসহায় ধরে না। বরং শোনা ও বোঝার পূর্ণ সামর্থ্য তাদের আছে বলেই ধরে।"
+          },
+          {
+            "en": "The difference, Ma'arif goes on, lies in what came first. When they refused even to listen and had no intention of understanding, heedlessness was laid on them as a punishment. Even then it did not reach the point of taking away their will. Had they changed their minds, their power to hear and to understand would have been restored in full. Put simply, the covering in 6:25 is a consequence of refusing. The covering they claim in 41:5 is that same refusal, offered as an excuse.",
+            "bn": "মাআরিফুল কুরআন বলে চলে, পার্থক্যটা হলো কোনটা আগে এসেছে। যখন তারা শুনতেই অস্বীকার করল, আর বোঝার কোনো ইচ্ছাই রাখল না, তখন শাস্তি হিসেবে তাদের উপর গাফিলতি চাপিয়ে দেওয়া হলো। তবু তা এমন পর্যায়ে পৌঁছায়নি যে তাদের ইচ্ছাশক্তিই কেড়ে নেওয়া হয়েছে। তারা যদি মত বদলাত, শোনা আর বোঝার ক্ষমতা পুরোপুরি ফিরে আসত। সোজা কথায়, ৬:২৫ আয়াতের আবরণ অস্বীকারের পরিণাম। আর ৪১:৫ আয়াতে তারা যে আবরণের দাবি করে, তা সেই অস্বীকারই, যাকে অজুহাত বানিয়ে পেশ করা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abu al-Walid Comes to Bargain",
+          "bn": "দরদাম করতে এলেন আবুল ওয়ালীদ"
+        },
+        "p": [
+          {
+            "en": "Under this verse Ibn Kathir brings the report of 'Utbah ibn Rabi'ah, known as Abu al-Walid, a chief of Quraysh. In the wording he cites from the Musnad of 'Abd ibn Humayd, from Jabir ibn 'Abd Allah (RA), Quraysh sent their most learned man in magic, soothsaying and poetry to speak to the Prophet ﷺ. 'Utbah reproached him for dividing his people, then offered wealth, or marriage to any ten women of Quraysh he chose. The Prophet ﷺ asked, have you finished? and recited the opening of this surah up to 41:13, the warning of a thunderbolt like that of 'Ad and Thamud.",
+            "bn": "এ আয়াতের আলোচনায় ইবন কাসীর উতবা ইবন রাবীআর ঘটনা আনেন। তিনি আবুল ওয়ালীদ নামে পরিচিত, কুরাইশের এক সরদার। আবদ ইবন হুমাইদের মুসনাদ থেকে জাবির ইবন আবদুল্লাহ (রাঃ)-এর সূত্রে যে বর্ণনা তিনি উদ্ধৃত করেন, তাতে আছে: কুরাইশ জাদু, গণকগিরি আর কবিতায় তাদের সবচেয়ে জানাশোনা লোকটিকে নবী ﷺ-এর সঙ্গে কথা বলতে পাঠাল। উতবা তাঁকে কওমের ঐক্য ভাঙার দায়ে তিরস্কার করলেন। তারপর প্রস্তাব দিলেন সম্পদের, কিংবা কুরাইশের যে নারীদের তিনি চান তাদের মধ্য থেকে ১০ জনের সঙ্গে বিয়ের। নবী ﷺ জিজ্ঞেস করলেন, তোমার কথা শেষ? তারপর এই সূরার শুরু থেকে ৪১:১৩ পর্যন্ত তিলাওয়াত করলেন, যেখানে আদ ও সামূদের বজ্রের মতো বজ্রের সতর্কবাণী আছে।"
+          },
+          {
+            "en": "'Utbah cried, enough, enough, and went back. Asked what the Prophet ﷺ had said, he swore he had understood nothing of it except the mention of the thunderbolt, and they retorted: the man speaks to you in Arabic and you do not know what he said? Ibn Kathir notes that al-Ajlah, a narrator in this chain, was thought somewhat weak. In al-Baghawi's version through the same narrator, 'Utbah put his hand over the Prophet's mouth and appealed to him by their kinship to stop, and later told Quraysh that Muhammad does not lie when he says a thing, so he feared the punishment would come down on them.",
+            "bn": "উতবা বলে উঠলেন, যথেষ্ট, যথেষ্ট! তারপর ফিরে গেলেন। লোকেরা জানতে চাইল তিনি কী বললেন। উতবা কসম খেয়ে বললেন, বজ্রের উল্লেখ ছাড়া তার কিছুই তিনি বোঝেননি। তারা পাল্টা বলল, লোকটা তোমার সঙ্গে আরবীতে কথা বলল, আর তুমি বুঝলে না কী বলল? ইবন কাসীর জানান, এই সনদের এক বর্ণনাকারী আজলাহকে কিছুটা দুর্বল বলা হয়েছে। একই বর্ণনাকারীর সূত্রে বাগাভীর সংস্করণে আছে, উতবা নবী ﷺ-এর মুখে হাত চেপে ধরলেন, আত্মীয়তার দোহাই দিয়ে থামতে অনুরোধ করলেন। পরে বললেন, মুহাম্মাদ কিছু বললে মিথ্যা বলেন না, তাই আমার ভয় হলো তোমাদের উপর আযাব নেমে আসবে।"
+          },
+          {
+            "en": "Ibn Kathir then gives Ibn Ishaq's account, in which Muhammad ibn Ka'b al-Qurazi says only that he was told it. Here 'Utbah offers wealth, leadership, kingship, or a cure if a spirit has hold of him. The Prophet ﷺ hears him out and recites, while 'Utbah listens leaning back on his hands. 'Utbah returns saying he has heard speech unlike anything before, not magic, poetry or soothsaying, and urges Quraysh to leave the man alone. Ibn Kathir judges this wording the more likely. It is not given as the cause of the verse's revelation.",
+            "bn": "এরপর ইবন কাসীর ইবন ইসহাকের বর্ণনা আনেন। সেখানে মুহাম্মাদ ইবন কা'ব কুরাযী শুধু এটুকু বলেন যে ঘটনাটি তাঁকে জানানো হয়েছে। এ বর্ণনায় উতবা প্রস্তাব দেন সম্পদের, নেতৃত্বের, রাজত্বের। আর জিনের প্রভাব থাকলে চিকিৎসার। নবী ﷺ পুরোটা শোনেন, তারপর তিলাওয়াত করেন। উতবা পেছনে দুই হাতে ভর দিয়ে শুনতে থাকেন। ফিরে এসে বলেন, এমন কথা তিনি আগে কখনো শোনেননি। এ জাদু নয়, কবিতা নয়, গণকের কথাও নয়। তিনি কুরাইশকে বলেন লোকটাকে তাঁর কাজে ছেড়ে দিতে। ইবন কাসীরের মতে এই বর্ণনাটি বেশি সঠিক বলে মনে হয়। তবে একে আয়াতটি নাযিলের কারণ হিসেবে আনা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walls Raised From Inside",
+          "bn": "ভেতর থেকে তোলা দেয়াল"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what certain Quraysh said to the Prophet ﷺ in Makkah, and it licenses nothing against any living person or community; no one is entitled to name a neighbour as the people of 41:5. None of the tafsirs fetched here attaches a sound hadith from the major collections to this verse. The reply follows in 41:6, which begins, say: I am only a man like you, to whom it is revealed.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায় মক্কায় কুরাইশের কিছু লোক নবী ﷺ-কে কী বলেছিল। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। প্রতিবেশী কাউকে ৪১:৫ আয়াতের লোক বলে দাগিয়ে দেওয়ার অধিকারও কারও নেই। এখানে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই প্রধান হাদীসগ্রন্থগুলোর কোনো সহীহ হাদীস এ আয়াতের সঙ্গে যুক্ত করেনি। জবাব আসে ৪১:৬ আয়াতে, যার শুরু: বলো, আমি তো তোমাদের মতোই একজন মানুষ, আমার কাছে ওহী আসে।"
+          },
+          {
+            "en": "What the verse leaves the reader with is a question about self-description. Coverings, heaviness and a screen are each, in the commentators' glosses, things that shut out one particular call, and at-Tabari traces the heaviness to dislike. A person can say I just do not get it about a truth that asks too much of him. The verse invites honesty about which of my walls were built from inside, and which I could take down.",
+            "bn": "আয়াতটি পাঠকের হাতে রেখে যায় নিজের বর্ণনা নিয়ে এক প্রশ্ন। তাফসীরকারদের ব্যাখ্যায় আবরণ, ভার আর পর্দা, তিনটিই একটা নির্দিষ্ট ডাককে ঠেকিয়ে রাখে। আর তাবারী ভারের উৎস খুঁজে পান অপছন্দের মধ্যে। যে সত্য মানুষের কাছে বেশি কিছু চায়, তার সম্পর্কে সে সহজেই বলে ফেলতে পারে, আমি ঠিক বুঝি না। আয়াতটি সততার দিকে ডাকে: আমার দেয়ালগুলোর কোনগুলো আমি ভেতর থেকে তুলেছি, আর কোনগুলো নিজেই ভেঙে ফেলতে পারি?"
+          }
+        ]
+      }
+    ]
+  },
   "41:12": {
     "sections": [
       {

@@ -26509,6 +26509,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Turn to Allah now, while belief is still a free choice made in the unseen; faith offered only once the punishment was in sight did not save those before us.",
     "lessonBn": "এখনই আল্লাহর দিকে ফিরুন, যখন ঈমান এখনো না দেখে নিজের ইচ্ছায় বেছে নেওয়ার বিষয়। শাস্তি চোখে দেখার পর আনা ঈমান আগের লোকদের বাঁচাতে পারেনি।"
+  },
+  "41:5": {
+    "reflectionEn": "They did not say the message was false. They said it could not reach them: hearts wrapped in coverings, ears heavy, a screen standing between. Then they closed the talk: go on with your work, we will go on with ours. It sounds like a report of their condition, but it is a decision told as if it were a fact. A covering can be a thing a person pulls over himself, and a heavy ear is often an ear that does not want what it hears. Before I call any truth too hard to take in, it is worth asking whether I cannot hear it, or would rather not. Which of my own walls did I build myself?",
+    "reflectionBn": "তারা বলেনি যে বার্তাটা মিথ্যা। তারা বলেছিল, এ বার্তা তাদের কাছে পৌঁছাতেই পারে না। দিল আবরণে মোড়া, কান ভারী, মাঝখানে এক পর্দা। তারপর কথা শেষ করে দিল: তুমি তোমার কাজ কর, আমরা আমাদের কাজ করি। শুনতে নিজেদের অবস্থার বিবরণ মনে হয়, আসলে এ এক সিদ্ধান্ত, যাকে বাস্তব অবস্থা বলে চালানো হয়েছে। আবরণ এমন জিনিসও হতে পারে যা মানুষ নিজেই নিজের উপর টেনে নেয়। আর ভারী কান অনেক সময় সেই কান, যা শোনা কথাটা চায় না। কোনো সত্যকে বোঝা কঠিন বলে সরিয়ে রাখার আগে নিজেকে জিজ্ঞেস করা দরকার: আমি কি শুনতে পারি না, নাকি শুনতে চাই না? আমার দেয়ালগুলোর কোনটা আমি নিজের হাতে তুলেছি?",
+    "pointsEn": [
+      "Is there a reminder I keep calling hard to understand, when the truth is that I do not want what it asks of me?",
+      "When a verse or a sound piece of advice feels heavy on my ears, do I ask why it feels heavy?",
+      "What screen have I let stand between me and people who call me to good: their manner, their group, or my pride?",
+      "Have I ever ended a conversation about faith with some version of you do your thing and I will do mine, just to stop listening?",
+      "If my excuse is that my heart is covered, what would it take for me to lift the covering a little?"
+    ],
+    "pointsBn": [
+      "এমন কোনো উপদেশ কি আছে, যাকে আমি বারবার কঠিন বলে এড়িয়ে যাই, অথচ আসল কথা হলো সে যা চায় তা আমি দিতে রাজি নই?",
+      "কোনো আয়াত বা খাঁটি নসিহত যখন কানে ভারী লাগে, আমি কি কখনো ভেবে দেখি কেন ভারী লাগছে?",
+      "যারা আমাকে ভালোর দিকে ডাকে, তাদের আর আমার মাঝে কোন পর্দা দাঁড়াতে দিয়েছি: তাদের ধরন, তাদের দল, নাকি আমার অহংকার?",
+      "দীনের কথা উঠলে শুধু শোনা বন্ধ করতে আমি কি কখনো বলে বসেছি, তুমি তোমারটা কর, আমি আমারটা করি?",
+      "আমার অজুহাত যদি হয় যে দিলের উপর আবরণ পড়ে আছে, তবে সেই আবরণ একটু সরাতে আমাকে কী করতে হবে?"
+    ],
+    "lessonEn": "Do not dress a refusal as an inability: before saying a truth cannot reach you, ask whether the covering, the heaviness and the screen are ones you chose.",
+    "lessonBn": "অস্বীকারকে অক্ষমতার পোশাক পরাবেন না। কোনো সত্য আপনার কাছে পৌঁছায় না বলার আগে ভেবে দেখুন, আবরণ, ভার আর পর্দা আপনি নিজেই বেছে নিয়েছেন কি না।"
   }
 };
 
