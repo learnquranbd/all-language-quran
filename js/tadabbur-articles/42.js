@@ -311,6 +311,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "42:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "Running On From 'My Lord'",
+          "bn": "আগের কথার রেশ ধরে"
+        },
+        "p": [
+          {
+            "en": "The verse does not open a fresh sentence of its own. In 42:10 the Prophet ﷺ is told to say: that is Allah, my Lord; upon Him I have relied, and to Him I turn back. Then comes fatiru as-samawati wa-l-ard, Originator of the heavens and the earth, and the description simply runs on. Al-Qurtubi sets out how the word may be read: nominative, as a description of the name Allah or with an implied 'He is'; accusative, as a call addressed to Him; or genitive, standing in for the pronoun in 'alayhi, upon Him.",
+            "bn": "আয়াতটি নিজে থেকে নতুন কোনো বাক্য শুরু করে না। ৪২:১০ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে: তিনিই আল্লাহ, আমার রব, তাঁর উপরই আমি ভরসা করেছি, তাঁর দিকেই ফিরে যাই। তারপর আসে ফাতিরুস সামাওয়াতি ওয়াল আরদ, আসমান ও জমিনের স্রষ্টা। পরিচয়টা যেন আগের কথার রেশ ধরেই এগিয়ে চলে। শব্দটি কীভাবে পড়া যায়, কুরতুবী তা গুছিয়ে বলেন। পেশ দিয়ে পড়লে এটি আল্লাহ নামের বিশেষণ, অথবা আগে 'তিনি' শব্দটি উহ্য। যবর দিয়ে পড়লে তাঁকে সম্বোধন করে ডাকা। আর যের দিয়ে পড়লে এটি 'আলাইহি', অর্থাৎ 'তাঁর উপর', কথাটির সর্বনামের স্থলাভিষিক্ত।"
+          },
+          {
+            "en": "What does fatir mean here? At-Tabari answers with a single word, creator, and specifies the seven heavens and the earth; he supports the gloss with as-Suddi, who said the same: creator. Ibn Kathir widens it slightly: the creator of both and of whatever lies between them. Al-Qurtubi pairs two terms, the originator and the creator. Al-Muyassar and as-Sa'di both add the manner of it: He created them by His power, His will and His wisdom.",
+            "bn": "এখানে ফাতির মানে কী? তাবারী একটি শব্দে উত্তর দেন: স্রষ্টা। সঙ্গে স্পষ্ট করে দেন, সাতটি আসমান ও জমিনের স্রষ্টা। নিজের ব্যাখ্যার পক্ষে তিনি সুদ্দীর কথা আনেন, তিনিও বলেছেন: স্রষ্টা। ইবন কাসীর পরিধিটা একটু বাড়ান: এ দুটির এবং এ দুয়ের মাঝে যা কিছু আছে, সবকিছুর স্রষ্টা। কুরতুবী দুটি শব্দ পাশাপাশি রাখেন, নতুন করে অস্তিত্বে আনয়নকারী এবং স্রষ্টা। মুয়াসসার ও সা'দী দুজনেই জুড়ে দেন কীভাবে: তিনি এগুলো সৃষ্টি করেছেন নিজের কুদরত, ইচ্ছা ও হিকমত দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Yourselves, Mates",
+          "bn": "নিজেদের জাত থেকে জোড়া"
+        },
+        "p": [
+          {
+            "en": "Ja'ala lakum min anfusikum azwajan: He made for you, from yourselves, mates. Ibn Kathir reads from yourselves as of your own kind and form, and calls it a favour and a kindness: He made your kind male and female. Al-Baghawi says spouses from your like. At-Tabari gives a different reason for the wording: it says from yourselves because Hawwa was created from the rib of Adam (AS), so she is from the men. Al-Qurtubi gives that reason too, and al-Baghawi records it under the words it is said.",
+            "bn": "জাআলা লাকুম মিন আনফুসিকুম আযওয়াজা: তিনি তোমাদের জন্য তোমাদের মধ্য থেকেই জোড়া বানিয়েছেন। ইবন কাসীরের মতে 'তোমাদের মধ্য থেকে' মানে তোমাদের জাত ও গড়ন থেকে। তিনি একে বলেন অনুগ্রহ ও দয়া: তোমাদের জাতকে তিনি নর ও নারী করে বানিয়েছেন। বাগাভী বলেন, তোমাদেরই মতো সৃষ্টি থেকে জীবনসঙ্গী। শব্দচয়নের আরেক কারণ দেখান তাবারী। 'তোমাদের মধ্য থেকে' বলা হয়েছে, কারণ হাওয়াকে আদম (আঃ)-এর পাঁজর থেকে সৃষ্টি করা হয়েছিল, তাই তিনি পুরুষদেরই অংশ। কুরতুবীও এ কারণ উল্লেখ করেন, আর বাগাভী তা আনেন 'বলা হয়' কথাটি জুড়ে দিয়ে।"
+          },
+          {
+            "en": "As-Sa'di and al-Muyassar name the purpose in words that also stand in 30:21: that you may find rest in them. As-Sa'di adds two more: that offspring may spread from you, and that you may gain whatever benefit comes of it. Then wa-mina l-an'ami azwajan, and of the cattle, mates. Ibn Kathir and al-Qurtubi both count them as the eight pairs, and al-Qurtubi points to Surat al-An'am, where they are named. At-Tabari spells them out: of sheep two, of goats two, of camels two, of cattle two, male and female.",
+            "bn": "সা'দী ও মুয়াসসার উদ্দেশ্যটা বলেন সেই শব্দে, যা ৩০:২১ আয়াতেও আছে: যাতে তোমরা তাদের কাছে প্রশান্তি পাও। সা'দী আরও দুটি কথা যোগ করেন। যাতে তোমাদের থেকে বংশধারা ছড়িয়ে পড়ে, আর এ থেকে যত উপকার আসার, তা তোমরা পাও। তারপর ওয়া মিনাল আনআমি আযওয়াজা: আর গবাদি পশুর মধ্যেও জোড়া। ইবন কাসীর ও কুরতুবী দুজনেই এগুলোকে আটটি জোড়া বলে গোনেন। কুরতুবী সূরা আনআমের দিকে ইঙ্গিত করেন, যেখানে এদের নাম এসেছে। তাবারী এক এক করে বলেন: ভেড়ার দুটি, ছাগলের দুটি, উটের দুটি, গরুর দুটি, নর ও মাদি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Multiplied, or Kept Alive",
+          "bn": "বংশবৃদ্ধি, নাকি জীবিকা"
+        },
+        "p": [
+          {
+            "en": "Yadhra'ukum fihi is the hardest phrase in the verse, and at-Tabari reports a real disagreement over it. Some said it means He creates you in it. Mujahid, in more than one chain, glossed it as offspring after offspring, of people and of cattle; as-Suddi said, He creates you; Mansur said the same. Others said it means He gives you a living in it. At-Tabari has this from Ibn Abbas (RA): He makes for you in it a livelihood by which you live. Qatadah, in two chains, said: He sustains you in it.",
+            "bn": "ইয়াযরাউকুম ফীহি আয়াতের সবচেয়ে কঠিন অংশ, আর এর অর্থ নিয়ে তাবারী সত্যিকারের এক মতভেদ উল্লেখ করেন। একদল বলেছেন, এর মানে: তিনি তাতে তোমাদের সৃষ্টি করেন। মুজাহিদ একাধিক সনদে এর ব্যাখ্যা দিয়েছেন: মানুষ ও পশুর বংশের পর বংশ। সুদ্দী বলেছেন: তিনি তোমাদের সৃষ্টি করেন। মানসূরও একই কথা বলেছেন। অন্যদল বলেছেন, এর মানে: তিনি তাতে তোমাদের জীবিকা দেন। তাবারী ইবন আব্বাস (রাঃ) থেকে আনেন: তিনি তাতে তোমাদের জন্য এমন জীবিকার ব্যবস্থা করেন, যা দিয়ে তোমরা বেঁচে থাকো। কাতাদা দুটি সনদে বলেছেন: তিনি তাতে তোমাদের বাঁচিয়ে রাখেন।"
+          },
+          {
+            "en": "At-Tabari does not so much pick a side as close the gap. The two sayings differ in wording, he writes, yet both can be turned towards one meaning: whoever said He sustains you in it meant that He gives you life by your living, just as He gives life to what was not yet created by forming it and breathing the spirit into it until it lives. His own gloss holds both halves of the verse together: He creates you among the spouses He made for you, and sustains you among the cattle He made for you.",
+            "bn": "তাবারী কোনো এক পক্ষ বেছে নেওয়ার চেয়ে বরং দুই মতের ফারাক মিটিয়ে দেন। তিনি লেখেন, কথা দুটির শব্দ আলাদা হলেও দুটোকেই একই অর্থের দিকে ফেরানো যায়। যিনি বলেছেন 'তাতে তোমাদের বাঁচিয়ে রাখেন', তিনি বোঝাতে চেয়েছেন, জীবিকা দিয়ে তিনি তোমাদের জীবন দেন। ঠিক যেমন যা এখনো সৃষ্টি হয়নি, তাকে গড়ে তুলে, তাতে রূহ ফুঁকে দিয়ে জীবন্ত করেন। তাবারীর নিজের ব্যাখ্যায় আয়াতের দুই অংশ একসঙ্গে ধরা থাকে। তোমাদের জন্য বানানো জীবনসঙ্গীদের মধ্য দিয়ে তিনি তোমাদের সৃষ্টি করেন, আর তোমাদের জন্য বানানো পশুর মধ্য দিয়ে তোমাদের জীবিকা দেন।"
+          },
+          {
+            "en": "The other commentators lean towards increase. As-Sa'di: He spreads you and multiplies you, and multiplies your livestock, because He made mates for you from yourselves and from the cattle. Al-Muyassar: He multiplies you by it, through procreation. Ibn Kathir: He creates you in that manner of creation and does not cease to, male and female, creation after creation, generation after generation, offspring after offspring, of people and of cattle. That last phrase is Mujahid's, as at-Tabari reports it.",
+            "bn": "বাকি তাফসীরকারেরা বংশবৃদ্ধির দিকেই ঝোঁকেন। সা'দী বলেন: তিনি তোমাদের ছড়িয়ে দেন, তোমাদের সংখ্যা বাড়ান, তোমাদের পশুর সংখ্যাও বাড়ান, কারণ তিনি তোমাদের নিজেদের মধ্য থেকে আর পশুর মধ্য থেকে জোড়া বানিয়েছেন। মুয়াসসার বলে: বংশবিস্তারের মাধ্যমে তিনি তোমাদের সংখ্যা বাড়ান। ইবন কাসীর বলেন: সৃষ্টির এই ধারায় তিনি তোমাদের সৃষ্টি করেন, আর থামেন না। নর ও নারী, সৃষ্টির পর সৃষ্টি, প্রজন্মের পর প্রজন্ম, মানুষ ও পশুর বংশের পর বংশ। শেষ কথাটি মুজাহিদের, তাবারী যেমন বর্ণনা করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What 'In It' Points To",
+          "bn": "'তাতে' কিসের দিকে ইঙ্গিত"
+        },
+        "p": [
+          {
+            "en": "The little word fihi, in it, raises its own question: in what? Al-Baghawi lines up the answers. In the womb; or, it is said, in the belly; or, it is said, in this manner of being created. Then a different handling of the preposition: it is said that fi here carries the sense of bi, so that He multiplies you by it. And one more: it is said to mean He multiplies you through pairing.",
+            "bn": "ছোট্ট শব্দ ফীহি, অর্থাৎ 'তাতে', নিজেই এক প্রশ্ন তোলে: কিসের মধ্যে? বাগাভী উত্তরগুলো সারি বেঁধে সাজান। গর্ভাশয়ে। অথবা, বলা হয়, পেটে। অথবা, বলা হয়, সৃষ্টির এই ধরনে। তারপর অব্যয়টিকে অন্যভাবে দেখা: বলা হয়, এখানে 'ফী' এসেছে 'বি' অর্থে, অর্থাৎ এর দ্বারা তিনি তোমাদের বাড়ান। আরও একটি মত: বলা হয়, এর মানে জোড়া বাঁধার মাধ্যমে তিনি তোমাদের সংখ্যা বাড়ান।"
+          },
+          {
+            "en": "Al-Qurtubi names grammarians behind the options. Al-Farra' and Ibn Kaysan held that fihi means bihi, by it, and az-Zajjaj glossed the phrase as He multiplies you by it, by making you pairs, that is, spouses, since they are the cause of offspring. Another view refers the pronoun to the making implied by the verb ja'ala. Ibn Qutaybah said: in the spouse, that is, He creates you in the wombs of females. Al-Qurtubi's report then judges in the womb unlikely, since the word for womb is feminine and has not been mentioned.",
+            "bn": "এসব মতের পেছনে কোন কোন ব্যাকরণবিদ, কুরতুবী তাঁদের নাম বলেন। ফাররা ও ইবন কাইসানের মতে ফীহি মানে বিহি, অর্থাৎ এর দ্বারা। যাজ্জাজ বাক্যটির ব্যাখ্যা দেন এভাবে: এর দ্বারা তিনি তোমাদের বাড়ান, তোমাদের জোড়া বানিয়ে, অর্থাৎ জীবনসঙ্গী দিয়ে, কারণ তারাই বংশধারার উপলক্ষ। আরেক মতে সর্বনামটি ফিরেছে 'জাআলা' ক্রিয়ায় নিহিত 'বানানো'র দিকে। ইবন কুতাইবা বলেছেন: জীবনসঙ্গীর মধ্যে, অর্থাৎ নারীদের গর্ভে তিনি তোমাদের সৃষ্টি করেন। কুরতুবীর বর্ণনায় এরপর 'গর্ভাশয়ে' অর্থটিকে দূরবর্তী বলা হয়েছে, কারণ আরবিতে গর্ভাশয় শব্দটি স্ত্রীলিঙ্গ, আর আগে এর কোনো উল্লেখও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Words of Likeness Together",
+          "bn": "পাশাপাশি দুই তুলনাসূচক শব্দ"
+        },
+        "p": [
+          {
+            "en": "Then laysa ka-mithlihi shay'. Read word by word it says: there is not, like His likeness, anything. Two words of comparison stand side by side, the particle ka, like, and the noun mithl, likeness. The commentaries fetched for this verse all treat one of the two as added for emphasis rather than as a second comparison, and they differ only over which one. At-Tabari sets out both possibilities and states no preference between them; al-Qurtubi and al-Baghawi each record both as well.",
+            "bn": "তারপর লাইসা কামিসলিহি শাইউন। শব্দে শব্দে পড়লে দাঁড়ায়: তাঁর সদৃশের মতো কিছুই নেই। এখানে পাশাপাশি দুটি তুলনার শব্দ। একটি অব্যয় 'কা', অর্থাৎ মতো। অন্যটি বিশেষ্য 'মিসল', অর্থাৎ সদৃশ। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, সবগুলোই দুটির একটিকে দ্বিতীয় তুলনা হিসেবে নয়, জোর দেওয়ার জন্য বাড়তি শব্দ হিসেবে ধরে। মতভেদ কেবল এ নিয়ে যে বাড়তি কোনটি। তাবারী দুটি সম্ভাবনাই তুলে ধরেন, কোনোটিকে প্রাধান্য দেন না। কুরতুবী ও বাগাভীও দুটোই উল্লেখ করেন।"
+          },
+          {
+            "en": "At-Tabari's first possibility: the meaning is He is not like anything, and mithl was brought in to strengthen the statement. Arabic, he explains, will set two words of one meaning together for emphasis when their forms differ, as the two negatives ma and in are joined in a line he quotes. He cites Aws ibn Hajar: and slain men like the likeness of palm trunks, meaning simply like palm trunks. Al-Baghawi takes the same line, calling mithl a connective, and al-Qurtubi gives it as the view of Tha'lab: nothing is like Him.",
+            "bn": "তাবারীর প্রথম সম্ভাবনা: অর্থ হলো, তিনি কোনো কিছুর মতো নন, আর কথাটাকে জোরালো করতে 'মিসল' শব্দটি আনা হয়েছে। তিনি বুঝিয়ে বলেন, আরবিতে একই অর্থের দুটি শব্দের রূপ আলাদা হলে জোর দেওয়ার জন্য তাদের পাশাপাশি বসানো হয়। যেমন তাঁর উদ্ধৃত এক পঙক্তিতে 'মা' আর 'ইন', দুটোই না-বোধক, একসঙ্গে এসেছে। তিনি আওস ইবন হাজারের কবিতা আনেন: 'আর নিহতেরা খেজুর গাছের কাণ্ডের সদৃশের মতো', মানে কেবল খেজুর কাণ্ডের মতো। বাগাভীও এ পথ ধরেন, 'মিসল'-কে বলেন সংযোজক শব্দ। কুরতুবী এটিকে সা'লাবের মত বলে উল্লেখ করেন: তাঁর মতো কিছুই নেই।"
+          },
+          {
+            "en": "Two of them support this reading from another verse. Al-Baghawi and al-Qurtubi both point to 2:137, fa-in amanu bi-mithli ma amantum bihi, so if they believe in the like of what you believe in, where mithl adds emphasis rather than a second thing. Al-Qurtubi adds that in the reading of Ibn Mas'ud (RA) that verse has no mithl at all: if they believe in what you believe in. Al-Baghawi then closes with a gloss from Ibn Abbas (RA) that sets the grammar aside: He has no peer.",
+            "bn": "দুজন এ পাঠের পক্ষে আরেক আয়াত থেকে সাক্ষ্য আনেন। বাগাভী ও কুরতুবী দুজনেই ২:১৩৭ আয়াতের দিকে ইঙ্গিত করেন: ফাইন আমানূ বিমিসলি মা আমানতুম বিহি, তোমরা যাতে ঈমান এনেছ, তারা যদি তার মতো কিছুতে ঈমান আনে। সেখানেও 'মিসল' দ্বিতীয় কোনো জিনিস বোঝায় না, শুধু জোর বাড়ায়। কুরতুবী যোগ করেন, ইবন মাসউদ (রাঃ)-এর পাঠে সে আয়াতে 'মিসল' শব্দটিই নেই: তারা যদি তাতে ঈমান আনে, যাতে তোমরা ঈমান এনেছ। এরপর বাগাভী শেষ করেন ইবন আব্বাস (রাঃ)-এর এক ব্যাখ্যা দিয়ে, যা ব্যাকরণের তর্ক পাশে সরিয়ে রাখে: তাঁর কোনো তুলনা নেই।"
+          },
+          {
+            "en": "At-Tabari's second possibility reverses the first: the meaning is nothing is the like of Him, and it is the particle ka that was added, doubling the comparison for emphasis. His witness is a line of rajaz, wa-saliyatin ka-kama yu'thafin, in which ka is set upon ka. Al-Qurtubi quotes the same line for the same reading, and al-Baghawi gives it in a sentence: the ka is a connective, so nothing is His like.",
+            "bn": "তাবারীর দ্বিতীয় সম্ভাবনা প্রথমটির উল্টো: অর্থ হলো, কোনো কিছুই তাঁর সদৃশ নয়, আর বাড়তি এসেছে অব্যয় 'কা', জোর দেওয়ার জন্য তুলনাকে দ্বিগুণ করে। এর সাক্ষ্য হিসেবে তিনি রাজায ছন্দের একটি পঙক্তি আনেন, ওয়া সালিয়াতিন কাকামা ইউসাফাইন, যেখানে 'কা'-এর উপর আরেকটি 'কা' বসেছে। কুরতুবী একই পাঠের পক্ষে একই পঙক্তি উদ্ধৃত করেন। বাগাভী এক বাক্যে বলেন: 'কা' এখানে সংযোজক, তাই তাঁর সদৃশ কিছুই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Unlike Him, Yet Hearing, Seeing",
+          "bn": "অতুলনীয়, তবু শোনেন ও দেখেন"
+        },
+        "p": [
+          {
+            "en": "What does nothing is like Him cover? Ibn Kathir ties it to what came just before: nothing is like the Creator of all the pairs, for He is the Single, as-Samad, who has no equal. As-Sa'di and al-Muyassar give the scope in almost the same words: nothing of His creation resembles Him or is like Him, not in His essence, His names, His attributes or His acts, because His names are all beautiful, His attributes are of perfection and greatness, and by His acts He brought great creation into being with no partner.",
+            "bn": "'তাঁর মতো কিছুই নেই' কথাটা কতদূর বিস্তৃত? ইবন কাসীর একে জুড়ে দেন ঠিক আগের কথার সঙ্গে: সব জোড়ার যিনি স্রষ্টা, তাঁর মতো কিছুই নেই, কারণ তিনি একক, আস-সামাদ, তাঁর কোনো সমকক্ষ নেই। সা'দী ও মুয়াসসার প্রায় একই ভাষায় এর পরিধি বলেন। তাঁর সৃষ্টির কোনো কিছুই তাঁর সদৃশ নয়, তাঁর মতো নয়, না তাঁর সত্তায়, না নামে, না গুণে, না কাজে। কারণ তাঁর সব নাম সুন্দর, তাঁর গুণাবলি পূর্ণতা ও মহিমার। আর নিজের কাজ দিয়ে তিনি কোনো শরিক ছাড়াই বিশাল সৃষ্টিজগৎ অস্তিত্বে এনেছেন।"
+          },
+          {
+            "en": "As-Sa'di then reads the two halves of the sentence as a pair answering two errors. The verse, he says, is a proof for affirming the attributes and for denying any likeness to creatures: nothing is like Him answers those who liken Allah to His creation, and He is the Hearing, the Seeing answers those who strip Him of His attributes. The ground for the first, in his words, is that He is alone and unique in perfection from every side. These are the commentators' own formulations, given here as theirs; this article takes no side in the later debates of the theologians.",
+            "bn": "এরপর সা'দী বাক্যের দুই অংশকে দেখেন এক জোড়া হিসেবে, যা দুটি ভুলের জবাব দেয়। তাঁর মতে আয়াতটি গুণাবলি সাব্যস্ত করার এবং সৃষ্টির সঙ্গে যে কোনো সাদৃশ্য অস্বীকার করার প্রমাণ। 'তাঁর মতো কিছুই নেই' জবাব দেয় তাদের, যারা আল্লাহকে তাঁর সৃষ্টির সঙ্গে তুলনা করে। আর 'তিনি সব শোনেন, সব দেখেন' জবাব দেয় তাদের, যারা তাঁকে তাঁর গুণাবলি থেকে শূন্য করে ফেলে। প্রথমটির কারণ তিনি বলেন এভাবে: পূর্ণতায় তিনি সব দিক থেকে একা ও অনন্য। এগুলো তাফসীরকারদের নিজেদের ভাষ্য, তাঁদের কথা হিসেবেই এখানে রাখা হলো। পরবর্তী কালের ধর্মতাত্ত্বিক বিতর্কে এ লেখা কোনো পক্ষ নেয় না।"
+          },
+          {
+            "en": "Al-Qurtubi states the balance in his own terms. Allah resembles nothing created and is likened to nothing; where the revealed law applies one word to Creator and creature, there is no likeness between them in its real meaning, since the attributes of creatures are bound up with purposes and accidents. He quotes a scholar he calls verifying: tawhid is affirming an essence not likened to other essences and not emptied of attributes. And al-Wasiti: no essence is like His essence, no name like His name, no act like His act, no attribute like His attribute, except in agreement of wording.",
+            "bn": "কুরতুবী একই ভারসাম্যের কথা বলেন নিজের ভাষায়। আল্লাহ সৃষ্টির কোনো কিছুর মতো নন, কোনো কিছুর সঙ্গে তাঁর তুলনাও চলে না। শরীয়ত যেখানে একই শব্দ স্রষ্টা ও সৃষ্টি দুজনের বেলায় ব্যবহার করেছে, সেখানে শব্দের প্রকৃত অর্থে দুয়ের মধ্যে কোনো মিল নেই। কারণ সৃষ্টির গুণাবলি উদ্দেশ্য ও আকস্মিক অবস্থা থেকে মুক্ত নয়। তিনি এক গবেষক আলেমের কথা উদ্ধৃত করেন: তাওহীদ হলো এমন এক সত্তাকে সাব্যস্ত করা, যা অন্য সত্তার সদৃশ নয়, আবার গুণাবলিশূন্যও নয়। আর ওয়াসিতীর কথা: তাঁর সত্তার মতো কোনো সত্তা নেই, তাঁর নামের মতো নাম নেই, তাঁর কাজের মতো কাজ নেই, তাঁর গুণের মতো গুণ নেই, শুধু শব্দের মিল ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ant on the Rock",
+          "bn": "পাথরের উপর পিঁপড়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the closing names as Allah describing Himself as He truly is: the Hearing, of whatever His creatures utter in speech; the Seeing, of their deeds. None of it is hidden from Him and no knowledge of any of it escapes Him; He encompasses all of it and counts its small and its great, so that every soul may be recompensed for what it earned, good or evil. Al-Muyassar says the same briefly: nothing of His creatures' deeds and words is hidden from Him, and He will repay them for it.",
+            "bn": "তাবারীর ব্যাখ্যায় শেষের দুটি নাম দিয়ে আল্লাহ নিজের পরিচয় দেন, তিনি যেমন, ঠিক তেমন। তিনি সামী', তাঁর সৃষ্টি মুখে যা বলে সব শোনেন। তিনি বাসীর, তাদের সব কাজ দেখেন। এর কিছুই তাঁর কাছে গোপন নয়, কোনো কিছুর জ্ঞান তাঁর নাগাল এড়ায় না। সবকিছু তিনি ঘিরে রেখেছেন, ছোট-বড় সব গুনে রাখছেন, যাতে প্রত্যেককে তার উপার্জনের প্রতিদান দেওয়া হয়, ভালো হোক বা মন্দ। মুয়াসসার একই কথা সংক্ষেপে বলে: তাঁর সৃষ্টির কাজ ও কথার কিছুই তাঁর কাছে গোপন নয়, আর তিনি এর প্রতিদান দেবেন।"
+          },
+          {
+            "en": "As-Sa'di widens both names into pictures. The Hearing hears every voice, across the differences of languages and the many kinds of need. The Seeing sees the creeping of the black ant on the solid rock in the dark night, and sees nourishment running through the limbs of the smallest animals and water running through slender branches. Placed straight after nothing is like Him, these names leave no room to imagine Him distant. The One beyond all comparison is the One from whom not a word or a movement is missed.",
+            "bn": "সা'দী দুটি নামকেই ছবির মতো মেলে ধরেন। সামী' সব আওয়াজ শোনেন, ভাষা যত আলাদাই হোক, প্রয়োজন যত রকমই হোক। বাসীর অন্ধকার রাতে শক্ত পাথরের উপর কালো পিঁপড়ার চলা দেখেন। খুব ছোট প্রাণীর অঙ্গে অঙ্গে খাবারের রস ছড়িয়ে পড়া দেখেন, সরু ডালের ভেতর পানি বয়ে চলা দেখেন। 'তাঁর মতো কিছুই নেই' কথাটির ঠিক পরেই এই দুই নাম আসায় তাঁকে দূরের কেউ ভাবার সুযোগ থাকে না। যিনি সব তুলনার ঊর্ধ্বে, তাঁর কাছ থেকে একটি কথা বা একটি নড়াচড়াও হারিয়ে যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keys Held in the Next Verse",
+          "bn": "পরের আয়াতে চাবিকাঠি"
+        },
+        "p": [
+          {
+            "en": "Lahu maqalidu as-samawati wa-l-ard, to Him belong the keys of the heavens and the earth, 42:12 continues; He extends provision for whom He wills and restricts it, and He knows all things. Ibn Kathir refers the keys back to his comment on 39:63, whose conclusion is that it is He who controls and governs them, and reads the provision clause as giving plenty to whom He wills and less to whom He wills, wisely and justly. The Originator of 42:11 also apportions what each receives.",
+            "bn": "লাহূ মাকালীদুস সামাওয়াতি ওয়াল আরদ, আসমান ও জমিনের চাবিকাঠি তাঁরই, এভাবে ৪২:১২ আয়াত এগিয়ে যায়। যার জন্য ইচ্ছা তিনি রিজিক বাড়িয়ে দেন, যার জন্য ইচ্ছা কমিয়ে দেন, আর তিনি সবকিছু জানেন। চাবিকাঠির ব্যাখ্যায় ইবন কাসীর ৩৯:৬৩ আয়াতে নিজের আলোচনার দিকে ফিরিয়ে দেন। সেখানকার সারকথা: এ দুটিকে তিনিই নিয়ন্ত্রণ ও পরিচালনা করেন। রিজিকের অংশটি তিনি পড়েন এভাবে: যাকে ইচ্ছা প্রচুর দেন, যাকে ইচ্ছা কম দেন, প্রজ্ঞা ও ন্যায়ের সঙ্গে। ৪২:১১ আয়াতের স্রষ্টাই তাহলে সবার ভাগ বণ্টনকারী।"
+          },
+          {
+            "en": "On sources: none of the commentaries fetched for this verse attaches a hadith to it or gives an occasion of revelation, so this article cites neither. The verse can be read in its own order: the Originator, then the gift of mates and herds, then the increase that comes through them, then a sentence saying that nothing in that whole paired world resembles Him, and last two names that bring Him as near as every word a person speaks and every deed a person does.",
+            "bn": "উৎস প্রসঙ্গে একটি কথা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জোড়ে না, নাজিলের কোনো প্রেক্ষাপটও বলে না। তাই এ লেখায় দুটির কোনোটিই নেই। আয়াতটিকে তার নিজের ক্রমেই পড়া যায়। প্রথমে স্রষ্টা। তারপর জীবনসঙ্গী আর পশুপালের দান। তারপর তাদের মধ্য দিয়ে আসা বংশবৃদ্ধি। তারপর এক বাক্য: জোড়ায় গড়া এই গোটা জগতের কিছুই তাঁর সদৃশ নয়। আর শেষে দুটি নাম, যা তাঁকে মানুষের প্রতিটি কথা আর প্রতিটি কাজের মতোই কাছে এনে দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "42:13": {
     "sections": [
       {

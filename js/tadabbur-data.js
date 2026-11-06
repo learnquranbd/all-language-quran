@@ -26609,6 +26609,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whenever rain revives dry ground, remember that the One who gives it life will raise the dead, and let what you have seen settle your certainty about the return.",
     "lessonBn": "বৃষ্টি যখনই শুকনো মাটিকে জীবিত করে, মনে রাখুন, যিনি তাকে জীবন দেন তিনিই মৃতদের জীবিত করবেন। চোখে দেখা এই দৃশ্য দিয়েই আখিরাতের প্রতি আপনার বিশ্বাস দৃঢ় করুন।"
+  },
+  "42:11": {
+    "reflectionEn": "The verse begins with the widest things there are, the heavens and the earth, and then comes very close: the spouse beside you, the animals in the field, the children who keep arriving, one generation after another. All of it is made in pairs, and through the pairing He multiplies you. Then, against all that pairing, comes a line with nothing beside it: there is nothing like Him. Straight after it come two names that touch every hour of a life: He hears, He sees. The One beyond every comparison is not far away. He hears the word spoken quietly at night and sees the deed no one else noticed. Do I picture Him in my own image, or let this verse correct me?",
+    "reflectionBn": "আয়াত শুরু হয় সবচেয়ে বিশাল জিনিস দিয়ে, আসমান আর জমিন। তারপর একেবারে কাছে চলে আসে: পাশের জীবনসঙ্গী, মাঠের গবাদি পশু, প্রজন্মের পর প্রজন্ম আসতে থাকা সন্তান। সবকিছু জোড়ায় জোড়ায় বানানো, আর এই জোড়ার ভেতর দিয়েই তিনি আপনাদের বাড়িয়ে চলেন। এত জোড়ার মাঝখানে এসে দাঁড়ায় এমন এক বাক্য, যার কোনো জোড়া নেই: তাঁর মতো কিছুই নেই। ঠিক তার পরেই দুটি নাম, যা জীবনের প্রতিটি মুহূর্তকে ছুঁয়ে যায়: তিনি শোনেন, তিনি দেখেন। যিনি সব তুলনার ঊর্ধ্বে, তিনি দূরে নন। রাতে চুপিচুপি বলা কথাটাও তিনি শোনেন, কেউ খেয়াল করেনি এমন কাজটাও তিনি দেখেন। আমি কি তাঁকে নিজের চেনা ছাঁচে কল্পনা করি, নাকি এই আয়াতকে আমার ভাবনা শুধরে দিতে দিই?",
+    "pointsEn": [
+      "When I think of Allah, which picture borrowed from people or things around me do I need to let go of?",
+      "The spouse, the children and the animals in this verse are counted as gifts. Which of them have I stopped seeing as a gift?",
+      "If I truly believed every word I speak is heard, which sentence from today would I take back?",
+      "What did I do this week, thinking no one saw it, that I would want to change now?",
+      "Do I let 'nothing is like Him' make Him feel distant, or do I let 'He hears, He sees' bring Him near?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কথা ভাবলে আমার চারপাশের মানুষ বা জিনিস থেকে ধার করা কোন ছবিটা আমার মন থেকে মুছে ফেলা দরকার?",
+      "এ আয়াতে জীবনসঙ্গী, সন্তান আর গবাদি পশুকে নিয়ামত হিসেবে গোনা হয়েছে। এদের কাকে আমি নিয়ামত বলে দেখা ছেড়ে দিয়েছি?",
+      "যদি সত্যিই বিশ্বাস করতাম আমার প্রতিটি কথা তিনি শোনেন, তাহলে আজকের কোন কথাটা ফিরিয়ে নিতাম?",
+      "এ সপ্তাহে কেউ দেখছে না ভেবে কোন কাজটা করেছি, যা এখন বদলাতে ইচ্ছে করে?",
+      "'তাঁর মতো কিছুই নেই' কথাটা কি তাঁকে আমার কাছে দূরের করে তোলে, নাকি 'তিনি শোনেন, তিনি দেখেন' কথাটা তাঁকে কাছে এনে দেয়?"
+    ],
+    "lessonEn": "Let nothing you know become your picture of Allah, for nothing is like Him, and live as one whose every word He hears and every deed He sees.",
+    "lessonBn": "আপনার চেনা কোনো কিছুকে আল্লাহর ছবি বানাবেন না, কারণ তাঁর মতো কিছুই নেই। আর এমনভাবে জীবন কাটান যেন আপনার প্রতিটি কথা তিনি শুনছেন, প্রতিটি কাজ তিনি দেখছেন।"
   }
 };
 
