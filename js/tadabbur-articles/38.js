@@ -155,6 +155,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "Fifteen Words, Three Turns",
+          "bn": "পনেরো শব্দ, তিন বাঁক"
+        },
+        "p": [
+          {
+            "en": "The verse has fifteen Arabic words and turns three times. First a question: a'unzila 'alayhi adh-dhikru min baynina, has the reminder been sent down to him from among us? Then the voice changes. Bal hum fi shakkin min dhikri: rather, they are in doubt about My reminder. Then a second bal: lamma yadhuqu 'adhab, rather, they have not yet tasted My punishment. The question belongs to the deniers; the two answers belong to Allah, and neither answer stops to argue with the question.",
+            "bn": "আয়াতে আরবি শব্দ পনেরোটি, আর মোড় ঘোরে তিনবার। প্রথমে একটি প্রশ্ন: আউনযিলা আলাইহিয যিকরু মিম বাইনিনা, আমাদের মধ্যে থেকে তার উপরেই কি উপদেশবাণী নাজিল হলো? তারপর কণ্ঠ বদলে যায়। বাল হুম ফী শাক্কিম মিন যিকরী: বরং তারা আমার উপদেশবাণী নিয়েই সন্দেহে আছে। তারপর আরেকটি ‘বাল’: লাম্মা ইয়াযূকূ আযাব, বরং তারা এখনো আমার শাস্তির স্বাদ পায়নি। প্রশ্নটা অস্বীকারকারীদের। জবাব দুটি আল্লাহর। আর কোনো জবাবই প্রশ্নটার সঙ্গে তর্কে নামে না।"
+          },
+          {
+            "en": "In the flow of the passage the question continues what the chiefs, al-mala', said as they walked out in 38:6 and 38:7. At-Tabari names the speakers as the polytheists of Quraysh; al-Baghawi says it is the people of Makkah. The verses after it, 38:9 and 38:10, press the answer further with questions about the treasures of mercy and the dominion of the heavens, and are left to their own place.",
+            "bn": "অনুচ্ছেদের ধারায় প্রশ্নটি প্রধানদের, অর্থাৎ আল-মালা-র, সেই কথারই জের, যা ৩৮:৬ ও ৩৮:৭ আয়াতে তারা উঠে যেতে যেতে বলেছিল। তাবারী বক্তাদের চিহ্নিত করেন কুরাইশের মুশরিক বলে, আর বাগাভী বলেন মক্কাবাসী। পরের দুই আয়াত, ৩৮:৯ ও ৩৮:১০, রহমতের ভান্ডার আর আসমানের রাজত্ব নিয়ে প্রশ্ন তুলে জবাবটা আরও এগিয়ে নেয়। সেগুলোর আলোচনা তাদের নিজের জায়গায়।"
+          },
+          {
+            "en": "One word joins the halves. The deniers speak of adh-dhikr as a thing sent down to someone else; Allah answers with dhikri, My reminder, and claims it as His own. The surah opened in 38:1 with an oath by the Qur'an dhi adh-dhikr, full of reminder, and the word now returns in the mouths of those who refuse it. The last word, 'adhab, carries the sense of My punishment, as al-Qurtubi glosses it, 'adhabi.",
+            "bn": "দুই অংশকে জুড়ে রেখেছে একটি শব্দ। অস্বীকারকারীরা আয-যিকরের কথা বলে এমনভাবে, যেন তা অন্য কারও উপর নামানো কোনো জিনিস। আল্লাহ জবাব দেন ‘যিকরী’ বলে, আমার উপদেশবাণী, আর বাণীটা যে তাঁর, সে দাবি নিজেই করেন। সূরার শুরুতে, ৩৮:১ আয়াতে, শপথ ছিল উপদেশে ভরা কুরআনের নামে। সেই শব্দ এখন ফিরে আসে তাদের মুখে, যারা তা প্রত্যাখ্যান করছে। শেষ শব্দ ‘আযাব’-এর অর্থ ‘আমার শাস্তি’, কুরতুবী যেমন ব্যাখ্যায় লিখেছেন ‘আযাবী’।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not the Eldest, Not the Noblest",
+          "bn": "বয়সে বড় নন, বংশে উঁচু নন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi classes the question as istifham inkar, a question asked in order to deny. Adh-dhikr here, he says, is the Qur'an, and what they denied was that he should be singled out for revelation from among them. Ibn Kathir uses a verb of distance: yastab'iduna, they thought it far-fetched that he, out of all of them, should be singled out by the Qur'an being sent down to him. The Muyassar puts the same question in plain words: is Muhammad singled out by the descent of the Qur'an upon him, instead of us?",
+            "bn": "কুরতুবী প্রশ্নটিকে বলেন ‘ইসতিফহাম ইনকার’, অর্থাৎ অস্বীকার করার জন্যই করা প্রশ্ন। তাঁর মতে এখানে আয-যিকর মানে কুরআন। তারা মানতে পারেনি যে তাদের সবার মধ্যে থেকে ওহির জন্য বেছে নেওয়া হবে শুধু তাঁকেই। ইবন কাসীর এখানে দূরত্বের একটি ক্রিয়া ব্যবহার করেন: ইয়াসতাবইদূন। অর্থাৎ তাদের কাছে ব্যাপারটা অসম্ভব ঠেকেছিল যে এত মানুষের মধ্যে কেবল তাঁর উপর কুরআন নাজিল হবে। মুয়াসসার একই প্রশ্ন সাদা কথায় বলে: আমাদের বাদ দিয়ে কি মুহাম্মাদকেই কুরআন নাজিলের জন্য বেছে নেওয়া হলো?"
+          },
+          {
+            "en": "On what was the objection resting? At-Tabari has them say: was the reminder sent down to Muhammad from among us, when he is not nobler than us in lineage, laysa bi-ashrafa minna hasaban? Al-Baghawi gives the people of Makkah two measures: he is not the eldest of us, laysa bi-akbarina, nor the noblest. As-Sa'di frames it as a question of merit: what is it that has made him better than us, so that the reminder comes down on him and not on us, and Allah singles him out with it?",
+            "bn": "আপত্তিটা দাঁড়িয়ে ছিল কিসের উপর? তাবারীর বর্ণনায় তারা বলছে: আমাদের মধ্যে থেকে মুহাম্মাদের উপরেই কি যিকর নাজিল হলো? অথচ বংশমর্যাদায় তিনি আমাদের চেয়ে উঁচু নন, ‘লাইসা বি-আশরাফা মিন্না হাসাবান’। বাগাভী মক্কাবাসীর মুখে দুটি মাপকাঠি দেন: তিনি আমাদের মধ্যে বয়সে সবচেয়ে বড় নন, ‘লাইসা বি-আকবারিনা’, আবার সবচেয়ে অভিজাতও নন। সা'দী ব্যাপারটাকে দেখেন যোগ্যতার প্রশ্ন হিসেবে: কোন জিনিস তাঁকে আমাদের উপর শ্রেষ্ঠত্ব দিল যে যিকর আমাদের বাদ দিয়ে তাঁর উপর নামবে, আর আল্লাহ তাঁকেই এর জন্য বেছে নেবেন?"
+          },
+          {
+            "en": "Lineage, age, standing: the deniers measure the one chosen by the scales their society used to rank men. The complaint has also shifted. In 38:5 they objected to what was said, the gods made into one God; here they object to the one it was given to. So the next clause does not defend his lineage or his age. It moves from the man to the message, and from what they claimed to what, in Allah's words, they actually felt.",
+            "bn": "বংশ, বয়স, সামাজিক মর্যাদা। যাঁকে বেছে নেওয়া হয়েছে, অস্বীকারকারীরা তাঁকে মাপছে সেই দাঁড়িপাল্লায়, যা দিয়ে তাদের সমাজ মানুষের মান ঠিক করত। নালিশের নিশানাও বদলে গেছে। ৩৮:৫ আয়াতে আপত্তি ছিল কথাটা নিয়ে, সব ইলাহকে একটিমাত্র ইলাহ বানানো নিয়ে। এখানে আপত্তি সেই মানুষটিকে নিয়ে, যাঁকে বাণীটা দেওয়া হলো। তাই পরের বাক্য তাঁর বংশ বা বয়সের পক্ষে সাফাই দেয় না। আলোচনা সে সরিয়ে নেয় মানুষ থেকে বাণীর দিকে, তাদের মুখের দাবি থেকে আল্লাহর ভাষায় তাদের মনের আসল অবস্থার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Great Man of the Two Towns",
+          "bn": "দুই জনপদের কোনো বড় মানুষ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the verse beside another where the same objection is voiced. In 43:31 they say: why was this Qur'an not sent down upon a great man of the two towns? He then quotes Allah's answer from 43:32: is it they who apportion the mercy of your Lord? It is We who have apportioned their livelihood among them in the life of this world, and raised some of them above others in degrees. Their saying, Ibn Kathir concludes, pointed to their ignorance and little understanding, jahlihim wa qillati 'aqlihim.",
+            "bn": "ইবন কাসীর আয়াতটিকে রাখেন আরেকটি আয়াতের পাশে, যেখানে একই আপত্তি উঠেছে। ৪৩:৩১ আয়াতে তারা বলে: এ কুরআন দুই জনপদের কোনো বড় মানুষের উপর নাজিল হলো না কেন? এরপর তিনি ৪৩:৩২ থেকে আল্লাহর জবাব উদ্ধৃত করেন: তারাই কি তোমার রবের রহমত ভাগ করে? দুনিয়ার জীবনে তাদের জীবিকা তো আমিই তাদের মধ্যে বণ্টন করেছি, আর মর্যাদায় কাউকে কারও উপরে তুলেছি। ইবন কাসীরের উপসংহার: তাদের এ কথা প্রমাণ করে তাদের অজ্ঞতা আর বুদ্ধির স্বল্পতা, ‘জাহলিহিম ওয়া কিল্লাতি আকলিহিম’।"
+          },
+          {
+            "en": "In the same passage the English abridgement of Ibn Kathir recalls an older people. The people of Salih (AS) said: has the reminder been cast upon him from among us? Rather, he is an insolent liar. The reply came: tomorrow they will know who is the insolent liar (54:25 and 54:26). Their a'ulqiya adh-dhikru 'alayhi min baynina stands almost word for word beside this verse's a'unzila 'alayhi adh-dhikru min baynina. The objection, on this reading, is not new to Makkah; it is the shape that refusal has taken before.",
+            "bn": "একই আলোচনায় ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ আরও আগের এক জাতির কথা মনে করিয়ে দেয়। সালিহ (আঃ)-এর জাতি বলেছিল: আমাদের মধ্যে থেকে তার উপরেই কি যিকর নামানো হলো? বরং সে এক দাম্ভিক মিথ্যাবাদী। জবাব এসেছিল: কাল তারা জানবে, দাম্ভিক মিথ্যাবাদী আসলে কে (৫৪:২৫ ও ৫৪:২৬)। তাদের ‘আউলকিয়ায যিকরু আলাইহি মিম বাইনিনা’ আর এ আয়াতের ‘আউনযিলা আলাইহিয যিকরু মিম বাইনিনা’ প্রায় হুবহু এক। এ পাঠে আপত্তিটা মক্কায় নতুন কিছু নয়। প্রত্যাখ্যান আগেও ঠিক এই চেহারা নিয়েছিল।"
+          },
+          {
+            "en": "One caution on a word sometimes brought to this verse. The abridgement, moving on to 38:9, cites 4:54 as a parallel to that verse: or do they envy people for what Allah has given them of His bounty? None of the commentators read here on 38:8 itself uses the word envy. As-Sa'di instead calls the objection a shubha, a specious argument: where in it is any proof against what the Messenger said, when every messenger is a man Allah favoured with His message?",
+            "bn": "একটি শব্দ নিয়ে সাবধানতা দরকার, যা কখনো কখনো এ আয়াতে টেনে আনা হয়। সংক্ষিপ্ত সংস্করণটি পরের আয়াত ৩৮:৯-এর আলোচনায় গিয়ে সেই আয়াতের সমান্তরাল হিসেবে ৪:৫৪ উদ্ধৃত করে: নাকি আল্লাহ নিজ অনুগ্রহে মানুষকে যা দিয়েছেন, তার জন্য তারা হিংসা করে? কিন্তু এখানে ৩৮:৮-এর উপর যে মুফাসসিরদের পড়া হয়েছে, তাঁদের কেউ হিংসা শব্দটি ব্যবহার করেননি। সা'দী বরং আপত্তিটিকে বলেন ‘শুবহা’, ভ্রান্ত খটকা। রাসূলের কথার বিরুদ্ধে এতে প্রমাণ কোথায়, যখন প্রত্যেক রাসূলই এমন মানুষ, যাঁকে আল্লাহ রিসালাত দিয়ে অনুগ্রহ করেছেন?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known as Truthful, Yet Doubted",
+          "bn": "সত্যবাদী জেনেও সন্দেহ"
+        },
+        "p": [
+          {
+            "en": "Bal hum fi shakkin min dhikri. At-Tabari reads the clause as setting aside the reason they gave. What ails these polytheists, he says, is not that they lack knowledge that Muhammad is truthful; they are in doubt about Our revelation to him and this Qur'an, whether it is from Us. Al-Qurtubi says nearly the same, addressing the Prophet ﷺ: they knew you had never ceased to be truthful among them, and doubted only whether what I sent down to you is from Me.",
+            "bn": "বাল হুম ফী শাক্কিম মিন যিকরী। তাবারী বাক্যটিকে পড়েন এভাবে যে, তারা যে কারণ দেখিয়েছিল, আয়াত তা সরিয়ে রাখছে। তিনি বলেন, এই মুশরিকদের সমস্যা এ নয় যে মুহাম্মাদ সত্যবাদী, তা তারা জানে না। বরং তাঁর প্রতি আমার ওহি আর এই কুরআন আমার পক্ষ থেকে কি না, তা নিয়েই তারা সন্দেহে আছে। কুরতুবী প্রায় একই কথা বলেন, সম্বোধন করেন নবী ﷺ-কে: তারা জানত, তাদের মধ্যে তুমি বরাবরই সত্যবাদী ছিলে। তাদের সন্দেহ ছিল শুধু এটুকু, তোমার উপর যা নাজিল করেছি তা আমার কাছ থেকে কি না।"
+          },
+          {
+            "en": "The commentators agree on what dhikri means. At-Tabari and al-Qurtubi gloss it as My revelation, and al-Qurtubi names it the Qur'an; al-Baghawi has My revelation and what I sent down. The Muyassar widens the object a little: they are in uncertainty, rayb, about My revelation to you, O Messenger, and My sending you. On at-Tabari's and al-Qurtubi's reading, the deniers spoke as if the problem were the man, but his honesty was known to them; what they would not grant was the message's source.",
+            "bn": "এখানে ‘যিকরী’ শব্দের অর্থ নিয়ে মুফাসসিররা একমত। তাবারী ও কুরতুবী এর ব্যাখ্যা করেন ‘আমার ওহি’ বলে, আর কুরতুবী নাম ধরে বলেন, এ হলো কুরআন। বাগাভীর ভাষায়: আমার ওহি আর আমি যা নাজিল করেছি। মুয়াসসার সন্দেহের বিষয়টা একটু বড় করে দেখে: হে রাসূল, তোমার প্রতি আমার ওহি আর তোমাকে আমার পাঠানো, এ দুটো নিয়েই তারা সংশয়ে, ‘রাইব’-এ আছে। তাবারী ও কুরতুবীর পাঠে অস্বীকারকারীরা কথা বলেছিল এমনভাবে, যেন সমস্যা মানুষটাকে নিয়ে। অথচ তাঁর সততা তাদের জানা ছিল। তারা মানতে রাজি ছিল না কেবল বাণীর উৎস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Doubt Settled Into",
+          "bn": "যে সন্দেহে তারা থিতু হলো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the clause as Allah telling where their sayings came from. Nothing they said could refute what the Messenger brought, so Allah disclosed its source: they are in doubt about My reminder, with neither knowledge nor clear evidence. He then traces a sequence. They fell into doubt and were content with it, irtadaw bihi. The plain truth came, and they resolved to stay in their doubt. So they spoke to push the truth away, not from evidence, but as a kind of fabrication, al-i'tifak.",
+            "bn": "সা'দী বাক্যটিকে পড়েন এভাবে: তাদের কথাগুলো কোথা থেকে আসছে, আল্লাহ তা জানিয়ে দিচ্ছেন। রাসূল যা এনেছেন, তা খণ্ডনের যোগ্য কিছুই তাদের কথায় ছিল না। তাই আল্লাহ উৎসটা খুলে দেখালেন: তারা আমার যিকর নিয়ে সন্দেহে আছে, তাদের কাছে না আছে জ্ঞান, না আছে স্পষ্ট প্রমাণ। এরপর তিনি একটা ধারাবাহিকতা দেখান। তারা সন্দেহে পড়ল, আর তাতেই সন্তুষ্ট রইল, ‘ইরতাদাও বিহি’। স্পষ্ট সত্য তাদের কাছে এল, তবু তারা সন্দেহেই অটল থাকার পণ করল। তাই সত্যকে ঠেকাতে যা বলার বলল। কোনো প্রমাণের ভিত্তিতে নয়, বানোয়াট কথা হিসেবে, যাকে তিনি বলেন ‘আল-ই'তিফাক’।"
+          },
+          {
+            "en": "From this as-Sa'di draws a rule. Whoever speaks from doubt and obstinacy has a word that is not accepted and does not damage the truth in the slightest; blame falls on him by the mere fact of speaking. His emphasis differs from at-Tabari's. At-Tabari locates the doubt in one place, the source of the revelation. As-Sa'di dwells on how the doubt was held: accepted, settled into, then used as a ground for speaking against the truth. The two readings sit side by side.",
+            "bn": "এখান থেকে সা'দী একটি নীতি টানেন। সন্দেহ আর হঠকারিতা নিয়ে যে কথা বলে, তার কথা গ্রহণযোগ্য নয়। সত্যের গায়ে তা সামান্য আঁচড়ও কাটতে পারে না, বরং শুধু এমন কথা বলার কারণেই নিন্দা তার ঘাড়ে চাপে। তাবারীর সঙ্গে তাঁর জোর দেওয়ার জায়গা আলাদা। তাবারী সন্দেহটাকে একটি জায়গায় চিহ্নিত করেন: ওহির উৎস। সা'দীর মনোযোগ সন্দেহটা তারা কীভাবে লালন করেছে তার উপর। তারা তা মেনে নিয়েছে, তাতে থিতু হয়েছে, তারপর সেটাকেই সত্যের বিরুদ্ধে কথা বলার ভিত্তি বানিয়েছে। দুই পাঠ পাশাপাশি চলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bold Because Still Untouched",
+          "bn": "ছোঁয়া লাগেনি বলেই দুঃসাহস"
+        },
+        "p": [
+          {
+            "en": "The second bal turns from the cause to the time. Al-Qurtubi notes the grammar: lamma here has the sense of lam, not, with an added ma, as in 'amma qalil and fa-bima naqdihim mithaqahum. Ibn Kathir supplies the time frame: they say this only because, up to the time of their saying it, they had not tasted Allah's punishment and His vengeance. The translation's not yet carries that sense: the tasting has not come, and the clause does not promise that it never will.",
+            "bn": "দ্বিতীয় ‘বাল’ কারণ থেকে ঘুরে যায় সময়ের দিকে। কুরতুবী ব্যাকরণের দিকটা দেখান: এখানে ‘লাম্মা’ মানে ‘লাম’, অর্থাৎ ‘না’, সঙ্গে একটি বাড়তি ‘মা’ যুক্ত, যেমন ‘আম্মা কালীল’ আর ‘ফাবিমা নাকদিহিম মীসাকাহুম’-এ। ইবন কাসীর যোগ করেন সময়ের সীমা। তারা এ কথা বলছে শুধু এ কারণে যে, কথাটা বলার সময় পর্যন্ত তারা আল্লাহর শাস্তি আর প্রতিশোধের স্বাদ পায়নি। অনুবাদের ‘এখনো’ শব্দটিও একই অর্থ বহন করে। স্বাদ এখনো আসেনি। কিন্তু কখনো আসবে না, এমন কোনো আশ্বাস বাক্যটি দেয় না।"
+          },
+          {
+            "en": "Why should the absence of punishment make men speak so freely? Al-Qurtubi answers: they were deluded by the length of the respite, ightarru bi-tuli al-imhal. As-Sa'di says they spoke these words and dared to because they were given enjoyment in this world and nothing of Allah's punishment had touched them. The Muyassar and al-Baghawi state the counterfactual in a line each: had they tasted His punishment, they would not have dared to say what they said, or, in al-Baghawi's words, they would not have said this.",
+            "bn": "শাস্তি না আসা মানুষকে এত বেপরোয়া করে তোলে কেন? কুরতুবীর জবাব: দীর্ঘ অবকাশ তাদের ধোঁকায় ফেলেছিল, ‘ইগতাররূ বিতূলিল ইমহাল’। সা'দী বলেন, তারা এসব কথা বলার দুঃসাহস দেখিয়েছিল, কারণ দুনিয়ায় তাদের ভোগের সামগ্রী দেওয়া হয়েছিল, আর আল্লাহর শাস্তির কিছুই তাদের গায়ে লাগেনি। মুয়াসসার আর বাগাভী এক লাইনে করে একই শর্তের কথা বলেন: তাঁর শাস্তির স্বাদ পেলে তারা যা বলেছে, তা বলার সাহস পেত না। বাগাভীর ভাষায়, এ কথা তারা বলতই না।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi add what the tasting would bring, and why too late. At-Tabari: Our might has not yet come down on them; had they tasted the evil end of denying Muhammad and doubting the Qur'an, they would have known for certain the truth of what they deny, when that knowledge could no longer benefit them. Al-Qurtubi: the doubt would leave them, but faith does not benefit then. Ibn Kathir: they will learn the outcome of their words on the day they are thrust into the fire of Jahannam.",
+            "bn": "স্বাদ পেলে কী হতো, আর কেন তখন দেরি হয়ে যেত, তাবারী ও কুরতুবী তা যোগ করেন। তাবারী বলেন, আমার পাকড়াও এখনো তাদের উপর নামেনি। মুহাম্মাদকে মিথ্যা বলা আর কুরআন নিয়ে সন্দেহ করার মন্দ পরিণাম চাখলে যা অস্বীকার করছে, তার সত্যতা তারা নিশ্চিতভাবেই জানত। কিন্তু তখন সে জ্ঞান কোনো কাজে আসত না। কুরতুবীর কথায়: সন্দেহ তখন কেটে যেত, কিন্তু সে সময়ের ঈমান কোনো উপকার দেয় না। ইবন কাসীর বলেন, যেদিন তাদের ঠেলে জাহান্নামের আগুনে নেওয়া হবে, সেদিন নিজেদের কথার পরিণতি তারা জানবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Narration Stops",
+          "bn": "বর্ণনা যেখানে থামে"
+        },
+        "p": [
+          {
+            "en": "The commentators tie the surah's opening to an occasion, set out with the article on 38:4 and only outlined here. Ibn Kathir, in the English abridgement, reports through Ibn Jarir from Ibn 'Abbas (RA) that when Abu Talib fell ill, men of Quraysh, Abu Jahl among them, came to complain of the Prophet ﷺ, and that he asked them for one word: la ilaha illa Allah. In that report the passage revealed about them ends with the words they have not yet tasted My punishment, the close of this verse.",
+            "bn": "মুফাসসিররা সূরার শুরুটাকে একটি প্রেক্ষাপটের সঙ্গে যুক্ত করেন। বিস্তারিত বিবরণ আছে ৩৮:৪-এর প্রবন্ধে, এখানে শুধু রূপরেখা। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ ইবন জারীরের সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করে: আবু তালিব অসুস্থ হলে আবু জাহলসহ কুরাইশের কিছু লোক নবী ﷺ-এর বিরুদ্ধে নালিশ নিয়ে আসে। তিনি তাদের কাছে চেয়েছিলেন একটিমাত্র কথা: লা ইলাহা ইল্লাল্লাহ। সে বর্ণনায় তাদের ব্যাপারে নাজিল হওয়া অংশটি শেষ হয়েছে ‘তারা এখনো আমার শাস্তির স্বাদ পায়নি’ কথায়, অর্থাৎ এ আয়াতের শেষে।"
+          },
+          {
+            "en": "At-Tirmidhi records the narration from Ibn 'Abbas (RA) in his Jami', number 3232, and says of it: this hadith is hasan sahih. In his wording the revelation runs from Sad, by the Qur'an full of reminder, to this is nothing but a fabrication, that is, 38:1 to 38:7. His wording thus stops a verse short of 38:8; the report through Ibn Jarir carries the occasion to its end. No other hadith attached to 38:8 appears in the sources read for it.",
+            "bn": "তিরমিযী তাঁর জামি'-তে ৩২৩২ নম্বরে ইবন আব্বাস (রাঃ) থেকে বর্ণনাটি এনেছেন, আর এ সম্পর্কে বলেছেন: হাদীসটি হাসান সহীহ। তাঁর বর্ণনার ভাষায় নাজিলের অংশ শুরু ‘সোয়াদ, উপদেশে ভরা কুরআনের শপথ’ থেকে, আর শেষ ‘এ তো বানানো কথা ছাড়া কিছু নয়’ পর্যন্ত, অর্থাৎ ৩৮:১ থেকে ৩৮:৭। তিরমিযীর ভাষ্য তাই ৩৮:৮-এর আগেই থেমে যায়। প্রেক্ষাপটকে এ আয়াতের শেষ পর্যন্ত টেনে আনে ইবন জারীরের সূত্রের বর্ণনাটি। এ আয়াতের জন্য পড়া সূত্রগুলোতে ৩৮:৮-এর সঙ্গে যুক্ত আর কোনো হাদীস পাওয়া যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Respite Is Not a Verdict",
+          "bn": "অবকাশ মানেই রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports the words of a particular group, the chiefs of Quraysh in the Prophet's ﷺ own time, and Allah's answer to them. It describes what it describes and licenses nothing against any living person or community: not their descendants, not anyone yet to accept the message, not anyone who questions it today. Nor may a reader pronounce on another person's hidden doubt. Allah told what was in those men; no reader has been told what is in anyone else.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-এর নিজের সময়ের একটি নির্দিষ্ট দলের, কুরাইশ প্রধানদের কথা জানায়, আর জানায় তাদের প্রতি আল্লাহর জবাব। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে সে কোনো অনুমতি দেয় না। না তাদের বংশধরদের বিরুদ্ধে, না যারা এখনো বাণী গ্রহণ করেনি তাদের বিরুদ্ধে, না আজ যারা প্রশ্ন তোলে তাদের বিরুদ্ধে। অন্যের মনের গোপন সন্দেহ নিয়ে রায় দেওয়ার অনুমতিও পাঠকের নেই। ওই লোকদের ভেতরে কী ছিল, আল্লাহ তা জানিয়েছেন। অন্য কারও ভেতরে কী আছে, তা কোনো পাঠককে জানানো হয়নি।"
+          },
+          {
+            "en": "The pattern the commentators trace is old and close at hand. The chiefs weighed the message by the standing of the man who brought it, found him short by their scales of lineage and age, and stopped there. A reader can catch the same reflex in a family, a mosque or an office, when a reminder comes from someone younger, newer or poorer and is set aside before it is heard. As-Sa'di's question still applies: where, in an objection about the bearer, is any proof against what he bears?",
+            "bn": "মুফাসসিররা যে ধরনটা দেখান, তা পুরোনো, আবার খুব কাছেরও। প্রধানরা বাণীকে মেপেছিল তার বাহকের মর্যাদা দিয়ে। বংশ আর বয়সের নিজেদের দাঁড়িপাল্লায় তাঁকে খাটো পেয়ে সেখানেই থেমে গিয়েছিল। একই অভ্যাস পাঠক ধরতে পারেন পরিবারে, মসজিদে বা অফিসে। বয়সে ছোট, নতুন বা গরিব কারও কাছ থেকে উপদেশ এলে শোনার আগেই তা সরিয়ে রাখা হয়। সা'দীর প্রশ্নটা এখনো খাটে: বাহককে নিয়ে আপত্তির মধ্যে সে যা বয়ে এনেছে তার বিরুদ্ধে প্রমাণ কোথায়?"
+          },
+          {
+            "en": "The last clause speaks to anyone living at ease with an unexamined doubt. The respite al-Qurtubi names is real, but a respite is not an acquittal. At-Tabari and al-Qurtubi both describe a certainty that arrives only with the punishment, when it no longer helps. The verse leaves its reader a better order of things: to settle a doubt now, by looking honestly at the reminder itself, rather than later, by tasting what comes of having ignored it.",
+            "bn": "শেষ বাক্যটি কথা বলে তাদের সঙ্গে, যারা যাচাই না করা কোনো সন্দেহ নিয়ে নিশ্চিন্তে দিন কাটাচ্ছে। কুরতুবী যে অবকাশের কথা বলেন, তা বাস্তব। কিন্তু অবকাশ মানে খালাস নয়। তাবারী ও কুরতুবী দুজনেই এমন এক নিশ্চয়তার বর্ণনা দেন, যা আসে শুধু শাস্তির সঙ্গে, যখন তা আর কোনো কাজে লাগে না। আয়াত পাঠকের সামনে রেখে যায় ভালো পথটা। সন্দেহের নিষ্পত্তি করুন এখনই, খোলা মনে খোদ উপদেশবাণীর দিকে তাকিয়ে। পরে উপেক্ষার পরিণাম চেখে নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "38:11-12": {
     "sections": [
       {

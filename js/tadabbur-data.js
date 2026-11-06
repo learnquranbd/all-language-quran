@@ -26069,6 +26069,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Being many does not make a refusal right. Weigh the truth for yourself, even when your own circle has gathered to set it aside.",
     "lessonBn": "দলে ভারী হলেই অস্বীকার সঠিক হয়ে যায় না। নিজের দল সত্যকে সরিয়ে রাখতে জোট বাঁধলেও আপনি নিজে সত্যটা যাচাই করে দেখুন।"
+  },
+  "38:8": {
+    "reflectionEn": "Has the reminder been sent down to him, out of all of us? The question sounds like a complaint about fairness. Underneath, it is a complaint about rank: why him, and not one of us? The verse does not argue the point. It answers in two short turns. Their real trouble is doubt about the message itself, and it is a doubt that has not yet met any consequence, so it speaks boldly. The same voice can live in me. When good counsel comes from someone I rank below myself, I may weigh the speaker and never hear the words. Who receives a gift from Allah is not mine to decide. Whether I listen is.",
+    "reflectionBn": "‘আমাদের সবার মধ্যে থেকে তার উপরেই কি উপদেশবাণী নাজিল হলো?’ শুনতে প্রশ্নটা ন্যায্যতার নালিশের মতো। ভেতরে আসলে নালিশটা মর্যাদা নিয়ে: সে কেন, আমাদের কেউ কেন নয়? আয়াত এ নিয়ে তর্কে যায় না। ছোট দুটি বাঁকে জবাব দেয়। তাদের আসল সমস্যা খোদ বাণী নিয়েই সন্দেহ। আর সে সন্দেহ এখনো কোনো পরিণতির মুখোমুখি হয়নি, তাই তার গলা এত চড়া। এই সুর আমার ভেতরেও বাসা বাঁধতে পারে। যাকে আমি নিজের চেয়ে ছোট ভাবি, তার মুখে ভালো উপদেশ এলে হয়তো আমি বক্তাকেই মাপি, কথাটা আর কানে ঢোকে না। আল্লাহ কাকে কী দান করবেন, সে সিদ্ধান্ত আমার নয়। আমি শুনব কি না, সেটুকুই আমার হাতে।",
+    "pointsEn": [
+      "When a reminder reaches me through someone younger, poorer or less known than I am, do I weigh what is said or who is saying it?",
+      "Is there a doubt I have kept comfortable for years only because nothing has yet forced me to settle it?",
+      "Have I ever taken a gift Allah gave someone else as a slight against me?",
+      "If I had no title, family name or seniority to lean on, which of my objections to good advice would still stand?",
+      "Do I treat the respite I am living in as if it were approval?"
+    ],
+    "pointsBn": [
+      "আমার চেয়ে বয়সে ছোট, গরিব বা অচেনা কারও মুখে উপদেশ এলে আমি কি কথাটা মাপি, নাকি কে বলছে সেটা?",
+      "এমন কোনো সন্দেহ কি আছে, যা বছরের পর বছর আরামে পুষে রেখেছি শুধু এ কারণে যে এখনো কিছুই আমাকে তার নিষ্পত্তি করতে বাধ্য করেনি?",
+      "আল্লাহ অন্য কাউকে যা দিয়েছেন, তাকে কি কখনো নিজের অপমান বলে ধরে নিয়েছি?",
+      "পদবি, বংশের নাম বা বয়সের জোর না থাকলে ভালো পরামর্শের বিরুদ্ধে আমার কোন আপত্তিগুলো টিকে থাকত?",
+      "যে অবকাশের মধ্যে বেঁচে আছি, তাকে কি আমি অনুমোদন বলে ভুল করছি?"
+    ],
+    "lessonEn": "Judge a reminder by what it says, not by whether its bearer outranks you, and do not mistake a respite from consequences for proof that you are right.",
+    "lessonBn": "উপদেশকে মাপুন তার কথা দিয়ে, যে আনল সে আপনার চেয়ে বড় কি না তা দিয়ে নয়। আর পরিণতি থেকে পাওয়া অবকাশকে নিজের সঠিক হওয়ার প্রমাণ ভেবে বসবেন না।"
   }
 };
 
