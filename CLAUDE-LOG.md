@@ -15,6 +15,10 @@ the state, kept short on purpose. Full history of earlier rounds:
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
 ## WAVE 2 (2026-11-02): more ayahs.
+STOPPED 2026-11-06 at v1610 on CONTEXT HIGH (this session v1532-v1610 = 79 ayat, 21:81 -> 30:5). IN FLIGHT when the session ended (drafters may have finished; their files land in tools/wip/round11/<key>-notes.js / -articles.js + audit/<key>/COMMIT.md): 31:2 31:25 32:3 32:9 32:15 32:19 33:4 33:13. RESUME in a FRESH session: for each in-flight key, if audit/<key>/COMMIT.md exists -> gate.js, ship.sh, commit.sh; if not -> relaunch the drafter (PREP ready). Then queue.js (next prepped: 33:29 33:37 33:53); 10 drafters. NOTE: queue.js does not exclude in-flight keys.
+OPEN (small): shipped 30:3 licensing sentence names "Persians, Iranians" (a present-day people), against the rule; reword to tie Rum/Persia to no present-day state or people (see audit/30_5 report). A stray draft tools/wip/round11/17_26-*.js exists (17:26 not shipped?) - check before drafting 17:26. Stale row "37:134 LAUNCHED" in the table - check.
+RESUMED 2026-11-06 (USER: "continue enrich wave"): 7d 39%, NORMAL; 10 drafters (user's standing 10). Push+deploy at stop (group ship). OPEN (small): shipped 23:55 quotes the Ibn Mas'ud "Allah divided your character..." narration via Ibn Kathir with no grading; quranx has no Musnad Ahmad, so it cannot be confirmed under the hadith rule (see audit/23_56/LEDGER.md). User decides: cut or keep.
+LAUNCHED: 21:81 21:96 21:104 21:112 22:2 22:9 22:15 22:30 22:36 22:48.
 WAVE 2 resumed 2026-11-05 (USER: "continue enrich waves"): 7d 22% at start, NORMAL.
 USER 2026-11-05: "don't push and deploy, until I said so - keep running the Enrich wave, with 10 agents". -> commit locally only; NO push, NO firebase deploy until the user says; 10 drafters in parallel (overrides budget.js cap of 5). Unpushed from 76364b2d (v1396) on.
 STOPPED 2026-11-05 at v1531 (21:49 last; this session v1396-v1531 = 136 ayat). Nothing in flight. Pushed origin+pro (22940490) and DEPLOYED: live sw.js = lq-v1531 (verified with cache-buster). RESUME in a FRESH session: queue.js -> 21:81 21:96 (PREP ready) ...; 10 drafters.
@@ -220,6 +224,93 @@ New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-tar
 | 21:22 | v1523 | DONE |
 | 21:39 | v1522 | DONE |
 | 21:49 | v1531 | DONE |
+| 21:81 | v1533 | DONE |
+| 21:96 | v1537 | DONE |
+| 21:104 | v1536 | DONE |
+| 21:112 | v1532 | DONE |
+| 22:2 | v1538 | DONE |
+| 22:9 | v1534 | DONE |
+| 22:15 | v1540 | DONE |
+| 22:30 | v1539 | DONE |
+| 22:36 | v1541 | DONE |
+| 22:48 | v1535 | DONE |
+| 22:60 | v1542 | DONE |
+| 22:69 | v1543 | DONE |
+| 22:78 | v1545 | DONE |
+| 23:11 | v1549 | DONE |
+| 23:18 | v1544 | DONE |
+| 23:28 | v1547 | DONE |
+| 23:41 | v1550 | DONE |
+| 23:56 | v1546 | DONE |
+| 23:68 | v1551 | DONE |
+| 23:71 | v1548 | DONE |
+| 23:82 | v1552 | DONE |
+| 23:88 | v1553 | DONE |
+| 23:101 | v1555 | DONE |
+| 23:110 | v1554 | DONE |
+| 24:14 | v1560 | DONE |
+| 24:19 | v1559 | DONE |
+| 24:43 | v1561 | DONE |
+| 24:55 | v1557 | DONE |
+| 25:11 | v1558 | DONE |
+| 25:22 | v1556 | DONE |
+| 25:29 | v1562 | DONE |
+| 25:41 | v1564 | DONE |
+| 25:52 | v1563 | DONE |
+| 25:54 | v1565 | DONE |
+| 25:67 | v1568 | DONE |
+| 26:6 | v1566 | DONE |
+| 26:17 | v1569 | DONE |
+| 26:28 | v1567 | DONE |
+| 26:40 | v1571 | DONE |
+| 26:52 | v1570 | DONE |
+| 26:69 | v1573 | DONE |
+| 26:76 | v1577 | DONE |
+| 26:100 | v1575 | DONE |
+| 26:117 | v1574 | DONE |
+| 26:125 | v1576 | DONE |
+| 26:136 | v1572 | DONE |
+| 26:148 | v1578 | DONE |
+| 26:161 | v1579 | DONE |
+| 26:172 | v1580 | DONE |
+| 26:188 | v1581 | DONE |
+| 26:200 | v1584 | DONE |
+| 26:205 | v1582 | DONE |
+| 26:222 | v1583 | DONE |
+| 27:15 | v1587 | DONE |
+| 27:26 | v1586 | DONE |
+| 27:29 | v1589 | DONE |
+| 27:45 | v1585 | DONE |
+| 27:60 | v1590 | DONE |
+| 27:69 | v1588 | DONE |
+| 27:80 | v1591 | DONE |
+| 27:88 | v1594 | DONE |
+| 28:11 | v1592 | DONE |
+| 28:27 | v1599 | DONE |
+| 28:34 | v1593 | DONE |
+| 28:38 | v1598 | DONE |
+| 28:50 | v1596 | DONE |
+| 28:61 | v1595 | DONE |
+| 28:67 | v1597 | DONE |
+| 28:83 | v1602 | DONE |
+| 29:10 | v1600 | DONE |
+| 29:22 | v1601 | DONE |
+| 29:36 | v1604 | DONE |
+| 29:54 | v1603 | DONE |
+| 30:5 | v1610 | DONE |
+| 30:14 | v1605 | DONE |
+| 30:28 | v1607 | DONE |
+| 30:34 | v1606 | DONE |
+| 30:38 | v1609 | DONE |
+| 30:55 | v1608 | DONE |
+| 31:2 | - | LAUNCHED |
+| 31:25 | - | LAUNCHED |
+| 32:3 | - | LAUNCHED |
+| 32:9 | - | LAUNCHED |
+| 32:15 | - | LAUNCHED |
+| 32:19 | - | LAUNCHED |
+| 33:4 | - | LAUNCHED |
+| 33:13 | - | LAUNCHED |
 | 21:59 | v1527 | DONE |
 | 21:73 | v1525 | DONE |
 
