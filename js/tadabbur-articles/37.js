@@ -3343,6 +3343,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:86": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Second Question, Sharper Still",
+          "bn": "দ্বিতীয় প্রশ্ন, আরও ধারালো"
+        },
+        "p": [
+          {
+            "en": "Surah as-Saffat introduces Ibrahim (AS) as being of Nuh's own kind (37:83), who came to his Lord with a sound heart (37:84). The first words it gives him are spoken to his father and his people: madha ta'budun, what is it you worship? (37:85). Then a second question follows. A-ifkan alihatan duna-llahi turidun: is it a falsehood, gods other than Allah, that you desire? There are five Arabic words in it, and the verb that governs them comes last.",
+            "bn": "সূরা আস-সাফফাত ইবরাহীম (আঃ)-কে পরিচয় করিয়ে দেয় নূহ (আঃ)-এর দলের লোক হিসেবে (৩৭:৮৩), যিনি রবের কাছে এসেছিলেন সুস্থ, নির্মল অন্তর নিয়ে (৩৭:৮৪)। তাঁর মুখে সূরাটি প্রথম যে কথা তুলে দেয়, তা তাঁর পিতা ও জাতির উদ্দেশে: মা-যা তা'বুদূন, তোমরা কিসের ইবাদত কর? (৩৭:৮৫)। এরপর আসে দ্বিতীয় প্রশ্ন। আ-ইফকান আলিহাতান দূনাল্লাহি তুরীদূন: আল্লাহকে ছেড়ে কিছু ইলাহ, এক মিথ্যা, তোমরা কি এটাই চাও? আরবিতে শব্দ মাত্র পাঁচটি। যে ক্রিয়া বাকিগুলোকে ধরে রেখেছে, সেটি বসেছে একেবারে শেষে।"
+          },
+          {
+            "en": "The first question was never a request for information. Al-Baghawi calls it istifham tawbikh, a question of rebuke. As-Sa'di calls it a question carrying the sense of denial, inkar, and a binding of them by proof. Ibn Kathir says Ibrahim (AS) denounced their worship of idols and rivals, and he joins the next verse to it with the words: and for this He said. At-Tabari keeps to the plain sense of the words: what thing is it that you worship?",
+            "bn": "প্রথম প্রশ্নটা কিছু জানার জন্য ছিল না। বাগাভী একে বলেন ইসতিফহাম তাওবীখ, অর্থাৎ ভর্ৎসনার প্রশ্ন। সা'দীর ভাষায় এ প্রশ্নের অর্থ ইনকার, অস্বীকার, আর সঙ্গে দলিল দিয়ে তাদের আটকে ফেলা। ইবন কাসীর বলেন, ইবরাহীম (আঃ) তাদের মূর্তি ও শরিকদের ইবাদতকে প্রত্যাখ্যান করেছিলেন। তারপর 'এ কারণেই তিনি বললেন' কথাটি দিয়ে তিনি পরের আয়াতকে এর সঙ্গে জুড়ে দেন। তাবারী শব্দের সরল অর্থেই থাকেন: কোন জিনিসের ইবাদত তোমরা কর?"
+          },
+          {
+            "en": "Surah ash-Shu'ara opens the same scene with almost the same words, ma ta'budun (26:70), and there the people reply: we worship idols and remain devoted to them (26:71). In as-Saffat no reply is recorded between the two questions. The text lets the first stand and moves straight to the second, which names what the first had only asked about. The worship is given a verdict before it is given a description.",
+            "bn": "সূরা আশ-শু'আরা একই দৃশ্য শুরু করে প্রায় একই কথায়, মা তা'বুদূন (২৬:৭০)। সেখানে জাতির লোকেরা জবাব দেয়: আমরা মূর্তির পূজা করি, আর সারাক্ষণ সেগুলো আঁকড়ে থাকি (২৬:৭১)। আস-সাফফাতে দুই প্রশ্নের মাঝখানে কোনো জবাব উল্লেখ নেই। প্রথম প্রশ্ন যেখানে ছিল সেখানেই থাকে, আর পাঠ সোজা চলে যায় দ্বিতীয় প্রশ্নে। প্রথম প্রশ্ন যা শুধু জানতে চেয়েছিল, দ্বিতীয়টি তার নাম ধরে বলে দেয়। ইবাদতের বর্ণনা আসার আগেই তার উপর রায় এসে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Lie With No Footing",
+          "bn": "যে মিথ্যার পায়ের তলায় মাটি নেই"
+        },
+        "p": [
+          {
+            "en": "Ifk is not the everyday word for a lie. Al-Qurtubi quotes the grammarian al-Mubarrad: al-ifk is the worst of lies, aswa' al-kadhib, the kind that does not hold firm and keeps wavering. Al-Baghawi gives the same definition, the worst of lies, and paraphrases the verse: do you lie a lie, and worship gods besides Allah? At-Tabari, more briefly, renders ifkan as kadhiban, a lie: a lie, an object of worship other than Allah, is that what you want?",
+            "bn": "ইফক মিথ্যার সাধারণ শব্দ নয়। কুরতুবী ব্যাকরণবিদ মুবাররাদের কথা উদ্ধৃত করেন: ইফক হলো সবচেয়ে নিকৃষ্ট মিথ্যা, আসওয়াউল কাযিব। এমন মিথ্যা, যা স্থির থাকে না, কেবল টলতে থাকে। বাগাভীও একই সংজ্ঞা দেন, সবচেয়ে নিকৃষ্ট মিথ্যা। আয়াতটিকে তিনি নিজের ভাষায় বলেন এভাবে: তোমরা কি এক মিথ্যা রচনা করছ, আর আল্লাহকে ছেড়ে অন্য ইলাহদের ইবাদত করছ? তাবারী আরও সংক্ষেপে ইফকান শব্দকে বলেন কাযিবান, মিথ্যা। তাঁর ভাষ্যে অর্থ দাঁড়ায়: আল্লাহ ছাড়া অন্য এক উপাস্য, এক মিথ্যা, তোমরা কি এটাই চাও?"
+          },
+          {
+            "en": "Al-Mubarrad's definition carries a picture. He says the word belongs with the expression i'tafakat bihim al-ard, said of the earth when it overturned with a people. The overturned towns of 53:53, al-mu'tafika, share the same root; that link is an observation from the Arabic, not something al-Qurtubi states here. On al-Mubarrad's account, a falsehood of this kind is not only untrue. It is unstable, like ground that has given way beneath whoever stood on it.",
+            "bn": "মুবাররাদের সংজ্ঞায় একটা ছবিও আছে। তিনি বলেন, শব্দটি এসেছে ই'তাফাকাত বিহিমুল আরদ কথাটির একই উৎস থেকে। মাটি যখন কোনো জাতিকে নিয়ে উল্টে যায়, তখন এ কথা বলা হয়। ৫৩:৫৩ আয়াতে উল্টে দেওয়া জনপদ, আল-মু'তাফিকা, একই ধাতু থেকে এসেছে। তবে এ যোগসূত্র আরবি শব্দ দেখে করা পর্যবেক্ষণ, কুরতুবী এখানে তা বলেননি। মুবাররাদের ব্যাখ্যায় এমন মিথ্যা শুধু অসত্য নয়, নড়বড়েও। যেন এমন মাটি, যা তার উপর দাঁড়ানো মানুষের পায়ের নিচ থেকে সরে গেছে।"
+          },
+          {
+            "en": "The word returns later in this surah, at 37:151 and 37:152, for those who say that Allah has begotten: it is out of their ifk that they say it. Ibrahim (AS) uses it to the same audience in another surah: you only worship idols besides Allah, wa takhluquna ifkan, and you produce a falsehood (29:17). In 46:28, gods taken besides Allah, who failed those who took them, are called their ifk. Across these verses the word keeps attaching to gods that people have made.",
+            "bn": "শব্দটি এ সূরাতেই পরে আবার আসে, ৩৭:১৫১ ও ৩৭:১৫২ আয়াতে। যারা বলে আল্লাহ সন্তান জন্ম দিয়েছেন, তাদের সম্পর্কে বলা হয়, এ কথা তারা বলে নিজেদের ইফক থেকে। অন্য এক সূরায় ইবরাহীম (আঃ) একই শ্রোতাদের এ শব্দটিই বলেন: তোমরা তো আল্লাহকে ছেড়ে কেবল মূর্তির পূজা করছ, ওয়া তাখলুকূনা ইফকা, আর মিথ্যা বানাচ্ছ (২৯:১৭)। ৪৬:২৮ আয়াতে আল্লাহকে ছেড়ে যাদের ইলাহ বানানো হয়েছিল, যারা শেষে তাদের কোনো সাহায্য করেনি, তাদের বলা হয়েছে ওদের ইফক। এসব আয়াতে শব্দটি বারবার জুড়ে যায় মানুষের বানানো উপাস্যের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Words, Two Parsings",
+          "bn": "পাঁচ শব্দ, দুই বিশ্লেষণ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets out how the words hang together. In his first account, ifkan is accusative as the direct object, maf'ul bihi, with the sense: do you desire a falsehood? Alihatan, gods, is then a badal, a substitute that restates the ifk and names it. The falsehood they desire is gods. Duna-llahi turidun he glosses as ta'budun, you worship. On this reading the gods are not merely described as false; they are themselves the falsehood.",
+            "bn": "শব্দগুলো কীভাবে একটার সঙ্গে আরেকটা জুড়ে আছে, কুরতুবী তা খুলে বলেন। তাঁর প্রথম বিশ্লেষণে ইফকান শব্দটি মানসূব, সরাসরি কর্ম, মাফ'উল বিহি। অর্থ: তোমরা কি এক মিথ্যা চাও? তখন আলিহাতান, অর্থাৎ ইলাহগণ, হয় বাদাল। এমন শব্দ, যা ইফকের জায়গায় বসে তার পরিচয় খুলে দেয়। তারা যে মিথ্যা চায়, তা হলো এই ইলাহগুলো। দূনাল্লাহি তুরীদূন কথাটির ব্যাখ্যায় তিনি বলেন তা'বুদূন, তোমরা ইবাদত কর। এ পাঠে ইলাহগুলোকে কেবল মিথ্যা বলে বর্ণনা করা হচ্ছে না। ওরা নিজেরাই সেই মিথ্যা।"
+          },
+          {
+            "en": "His second account takes ifkan as a hal, a word describing the state of whoever is acting. The sense then becomes: do you desire gods besides Allah, while lying, afikin? Here the gods are the object of the desire, and the lie describes the people who want them, the manner in which they reach for those gods. Al-Qurtubi gives the object reading first and introduces the hal with yajuzu, it is permissible. He rejects neither.",
+            "bn": "তাঁর দ্বিতীয় বিশ্লেষণে ইফকান হলো হাল, অর্থাৎ এমন শব্দ যা কাজটি যে করছে তার অবস্থা জানায়। তখন অর্থ দাঁড়ায়: তোমরা কি মিথ্যাচারী অবস্থায়, আফিকীন হয়ে, আল্লাহকে ছেড়ে অন্য ইলাহ চাও? এখানে চাওয়ার বিষয় ইলাহগুলো। আর মিথ্যা শব্দটি বর্ণনা করছে সেই লোকদের, যারা ওদের চায়। ওদের দিকে তারা কোন অবস্থায় হাত বাড়ায়, তা-ই এখানে বলা হচ্ছে। কুরতুবী কর্মের বিশ্লেষণটি আগে দেন। হালের কথা তোলেন ইয়াজূযু শব্দে, অর্থাৎ এটাও হতে পারে। কোনোটিকেই তিনি বাতিল করেন না।"
+          },
+          {
+            "en": "He reads the previous verse in the same double way. In madha ta'budun, ma may begin a nominal sentence with dha as its predicate, giving what is it that you worship; or ma and dha together may be the object of ta'budun, giving what do you worship. Two questions, each parsed two ways, and the rebuke survives every parsing. In both readings of 37:86 the verb turidun comes after all it governs: the lie and the gods are heard before the wanting is.",
+            "bn": "আগের আয়াতকেও তিনি একইভাবে দুই রকমে পড়েন। মা-যা তা'বুদূন কথাটিতে মা হতে পারে নামবাচক বাক্যের শুরু, আর যা তার বিধেয়। তখন অর্থ: সেটা কী, যার ইবাদত তোমরা কর? আবার মা ও যা মিলে হতে পারে তা'বুদূন ক্রিয়ার কর্ম। তখন অর্থ: তোমরা কিসের ইবাদত কর? দুটি প্রশ্ন, প্রতিটির দুই রকম বিশ্লেষণ, আর কোনো বিশ্লেষণেই ভর্ৎসনা হারায় না। ৩৭:৮৬ আয়াতের দুই পাঠেই তুরীদূন ক্রিয়াটি বসে সবকিছুর পরে। মিথ্যা আর ইলাহগুলোর কথা কানে আসে আগে, তারপর আসে চাওয়ার কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wanting Comes Before Worship",
+          "bn": "ইবাদতের আগে চাওয়া"
+        },
+        "p": [
+          {
+            "en": "The verb is turidun: you want, you desire. At-Tabari keeps it as it stands: a lie, an object of worship other than Allah, is it that you want? Al-Qurtubi, as seen, glosses it as ta'budun, you worship, and as-Sa'di's paraphrase leaves the wanting aside: do you worship gods as a lie? Al-Baghawi pairs two acts: you lie a lie, and you worship gods besides Allah. These are different emphases on one sentence, not a dispute; none of them calls another wrong.",
+            "bn": "ক্রিয়াটি তুরীদূন: তোমরা চাও, কামনা কর। তাবারী শব্দটিকে যেমন আছে তেমনই রাখেন: আল্লাহ ছাড়া অন্য এক উপাস্য, এক মিথ্যা, তোমরা কি এটাই চাও? কুরতুবী, আগেই দেখা গেছে, এর ব্যাখ্যা করেন তা'বুদূন দিয়ে, তোমরা ইবাদত কর। সা'দীর ভাষ্যে চাওয়ার কথাটা পাশে সরে যায়: তোমরা কি মিথ্যা ইলাহদের ইবাদত কর? বাগাভী দুটি কাজ পাশাপাশি রাখেন: তোমরা এক মিথ্যা রচনা কর, আর আল্লাহকে ছেড়ে অন্য ইলাহদের ইবাদত কর। এগুলো একই বাক্যের ভিন্ন ভিন্ন দিকে জোর দেওয়া, কোনো মতবিরোধ নয়। কেউ কাউকে ভুল বলেননি।"
+          },
+          {
+            "en": "The Muyassar keeps both verbs in one line: do you want fabricated gods that you worship, and leave the worship of Allah, who alone deserves worship? In that paraphrase the wanting comes first, the worship follows from it, and something is given up in exchange. The Muyassar also frames the whole address as Ibrahim (AS) speaking munkiran 'alayhim, objecting to what they did. Read this way, the verse looks beneath the rite to the desire that keeps it going.",
+            "bn": "মুয়াসসার এক বাক্যেই দুটি ক্রিয়া রাখে: তোমরা কি এমন বানানো ইলাহ চাও, যাদের ইবাদত করবে, আর ছেড়ে দেবে সেই আল্লাহর ইবাদত, যিনি একাই ইবাদতের হকদার? এ ব্যাখ্যায় চাওয়া আসে আগে, ইবাদত আসে তার পিছু পিছু। আর এর বিনিময়ে কিছু একটা ছেড়ে দিতে হয়। পুরো সম্বোধনটাকেও মুয়াসসার দেখে এভাবে: ইবরাহীম (আঃ) কথা বলছেন মুনকিরান আলাইহিম, তাদের কাজে আপত্তি জানিয়ে। এভাবে পড়লে আয়াতটি বাইরের আচার পেরিয়ে তাকায় সেই কামনার দিকে, যা আচারটিকে টিকিয়ে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gods That Are No Gods",
+          "bn": "ইলাহ নামের অ-ইলাহ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di spells out what makes them a lie. They are gods kadhiban, as a lie: laysat bi-alihatin, they are not gods, wa la tasluhu lil-'ibada, and they are not fit to be worshipped. The Muyassar's word for them is mukhtalaqa, fabricated, and it sets them against Allah, al-mustahiqq lil-'ibada wahdahu, who alone is entitled to worship. Between them, the two commentaries name both halves of the falsehood: what the idols are not, and Who is being left for them.",
+            "bn": "ওরা কেন মিথ্যা, সা'দী তা পরিষ্কার করে বলেন। ওরা কাযিবান, মিথ্যা ইলাহ। লাইসাত বি-আলিহাহ, ওরা আদৌ ইলাহ নয়। ওয়া লা তাসলুহু লিল-ইবাদাহ, ইবাদত পাওয়ার যোগ্যও নয়। মুয়াসসার ওদের বলে মুখতালাকা, মনগড়া, বানানো। তারপর ওদের দাঁড় করায় আল্লাহর বিপরীতে, যিনি আল-মুসতাহিক্কু লিল-ইবাদাতি ওয়াহদাহু, একাই ইবাদতের হকদার। দুই তাফসীর মিলে মিথ্যার দুটি দিকই সামনে আনে। মূর্তিগুলো কী নয়, আর ওদের জন্য কাকে ছেড়ে দেওয়া হচ্ছে।"
+          },
+          {
+            "en": "Duna-llah, other than Allah, is glossed two ways in the texts fetched: at-Tabari writes ghayr Allah, other than Allah, and al-Baghawi writes siwa Allah, besides Allah. Yet Qatada, as Ibn Kathir reports him on these verses, phrases the charge as having worshipped others ma'ahu, alongside Him, and the Muyassar does the same; at-Tabari's report of Qatada has simply others than Him. On the first wording, worship given beside Allah already counts as worship given apart from Him.",
+            "bn": "দূনাল্লাহ, আল্লাহ ছাড়া, কথাটির ব্যাখ্যা সংগৃহীত তাফসীরগুলোতে দুই রকম। তাবারী লেখেন গাইরুল্লাহ, আল্লাহ ভিন্ন অন্য। বাগাভী লেখেন সিওয়াল্লাহ, আল্লাহ ব্যতীত। অথচ এ আয়াতগুলোর আলোচনায় ইবন কাসীর কাতাদার যে কথা বর্ণনা করেন, তাতে অভিযোগটা হলো মা'আহু, তাঁর সঙ্গে অন্যদেরও ইবাদত করা। মুয়াসসারও একই ভাষা ব্যবহার করে। তাবারীর বর্ণনায় কাতাদার কথায় আছে শুধু তাঁকে ছাড়া অন্যের ইবাদত। প্রথম ভাষ্য অনুযায়ী, আল্লাহর পাশাপাশি যে ইবাদত অন্য কাউকে দেওয়া হয়, তা আল্লাহকে বাদ দিয়ে করা ইবাদত বলেই গণ্য।"
+          },
+          {
+            "en": "The verse itself does not name the gods. It says only alihatan, an indefinite plural: some gods, any gods. Ibn Kathir, on 37:85, supplies al-asnam wal-andad, idols and rivals. In 26:71 the people use their own word, asnam, idols, and in 29:17 Ibrahim (AS) calls them awthan. Here the charge does not fasten on a single statue or a named deity. It is laid against the whole category of what is set up as a god besides Allah.",
+            "bn": "আয়াতটি নিজে ইলাহগুলোর নাম বলে না। শুধু বলে আলিহাতান, অনির্দিষ্ট বহুবচন: কিছু ইলাহ, যে-কোনো ইলাহ। ৩৭:৮৫ আয়াতের আলোচনায় ইবন কাসীর যোগ করেন আল-আসনাম ওয়াল-আনদাদ, মূর্তি ও শরিক। ২৬:৭১ আয়াতে জাতির লোকেরা নিজেরাই বলে আসনাম, মূর্তি। আর ২৯:১৭ আয়াতে ইবরাহীম (আঃ) ওদের বলেন আওসান। এখানে অভিযোগ কোনো একটি মূর্তি বা নির্দিষ্ট কোনো দেবতার উপর আটকে থাকে না। আল্লাহর পাশে ইলাহ বলে যা-ই দাঁড় করানো হয়, পুরো সেই শ্রেণির বিরুদ্ধেই অভিযোগটা ওঠে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Question Was Formed",
+          "bn": "প্রশ্নটা জন্ম নিল যেখানে"
+        },
+        "p": [
+          {
+            "en": "The question in 37:86 comes from the man the verses just before it describe: he came to his Lord bi-qalbin salim, with a sound heart (37:84). The Muyassar, glossing that group of verses together, calls it a heart bari', clear of every false belief and every blameworthy trait. Ma'arif al-Qur'an, on the same group, says that the words with a pure heart indicate that no act of devotion is acceptable until the heart is cleansed of false beliefs and ill intentions.",
+            "bn": "৩৭:৮৬ আয়াতের প্রশ্ন আসে সেই মানুষটির মুখ থেকে, ঠিক আগের আয়াত যাঁর বর্ণনা দেয়: তিনি রবের কাছে এসেছিলেন বিকালবিন সালীম, সুস্থ অন্তর নিয়ে (৩৭:৮৪)। মুয়াসসার আয়াতগুলোর এ দলটির একসঙ্গে ব্যাখ্যা দিতে গিয়ে এ অন্তরকে বলে বারী'। অর্থাৎ প্রতিটি ভ্রান্ত বিশ্বাস আর প্রতিটি নিন্দনীয় স্বভাব থেকে মুক্ত। একই দলের আলোচনায় মাআরিফুল কুরআন বলে, 'নির্মল অন্তর নিয়ে' কথাটি ইঙ্গিত দেয়: ভ্রান্ত বিশ্বাস আর মন্দ নিয়ত থেকে অন্তর পরিষ্কার না হওয়া পর্যন্ত কোনো ইবাদত কবুল হয় না।"
+          },
+          {
+            "en": "Ibn Kathir's abridged commentary gathers definitions of that heart. Ibn 'Abbas: he bore witness that none has the right to be worshipped except Allah. Al-Hasan: a heart free from shirk. Muhammad ibn Sirin, in a report Ibn Abi Hatim recorded: a heart that knows Allah is true, that the Hour will come, and that Allah will raise those in the graves. Read beside 37:86, the order is telling. The heart is described as sound first, and then the voice speaks against the falsehood.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত তাফসীরে এ অন্তরের কয়েকটি সংজ্ঞা একসঙ্গে পাওয়া যায়। ইবন আব্বাস (রাঃ) বলেন, তিনি সাক্ষ্য দিয়েছিলেন যে আল্লাহ ছাড়া ইবাদতের হকদার কেউ নেই। হাসান বলেন, যে অন্তর শিরক থেকে মুক্ত। ইবন আবী হাতিমের লিপিবদ্ধ এক বর্ণনায় মুহাম্মাদ ইবন সীরীন বলেন, যে অন্তর জানে আল্লাহ সত্য, কিয়ামত আসবেই, আর কবরে যারা আছে আল্লাহ তাদের উঠাবেন। ৩৭:৮৬ আয়াতের পাশে রেখে পড়লে ক্রমটা চোখে পড়ে। আগে বলা হয় অন্তর সুস্থ ছিল। তারপর কণ্ঠ মিথ্যার বিরুদ্ধে কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Expect of Their Lord",
+          "bn": "রবের কাছে তাদের প্রত্যাশা"
+        },
+        "p": [
+          {
+            "en": "The question of 37:86 is not left on its own. The next verse asks: fa-ma zannukum bi-rabbi l-'alamin, then what do you think of the Lord of the worlds? Ibn Kathir quotes the two verses together, and the Muyassar glosses them together. As-Sa'di, still on 37:86, joins them: what do you think He will do with you, when you have worshipped others with Him? He calls this tarhib, putting them in fear of being recompensed with punishment for persisting in their shirk.",
+            "bn": "৩৭:৮৬ আয়াতের প্রশ্ন একা থাকে না। পরের আয়াত জিজ্ঞেস করে: ফামা যান্নুকুম বিরাব্বিল আলামীন, তাহলে বিশ্বজগতের রব সম্পর্কে তোমাদের ধারণা কী? ইবন কাসীর দুটি আয়াত একসঙ্গে উদ্ধৃত করেন। মুয়াসসারও দুটির ব্যাখ্যা দেয় এক টানে। সা'দী ৩৭:৮৬ আয়াতের আলোচনাতেই দুটিকে জুড়ে দেন: তাঁর সঙ্গে অন্যদের ইবাদত করার পর তিনি তোমাদের সঙ্গে কী করবেন বলে মনে কর? তিনি একে বলেন তারহীব, ভয় দেখানো। শিরকের উপর অটল থাকলে তার প্রতিদান হবে শাস্তি, সেই ভয়।"
+          },
+          {
+            "en": "Qatada's explanation reaches us through two of the commentators. In Ibn Kathir: what do you think He will do with you when you meet Him, given that you worshipped others alongside Him? At-Tabari, on 37:87, gives it with a chain from Bishr, from Yazid, from Sa'id, from Qatada: when you meet Him, having worshipped others than Him. Al-Qurtubi calls the question a warning, tahdhir, and sets it beside 82:6: O mankind, what has deceived you concerning your Lord, the Generous?",
+            "bn": "কাতাদার ব্যাখ্যা আমাদের কাছে পৌঁছায় দুজন তাফসীরকারের মাধ্যমে। ইবন কাসীরে আছে: তাঁর সঙ্গে অন্যদের ইবাদত করার পর যখন তাঁর সঙ্গে সাক্ষাৎ হবে, তিনি তোমাদের সঙ্গে কী করবেন বলে তোমাদের ধারণা? তাবারী ৩৭:৮৭ আয়াতের আলোচনায় একই কথা আনেন বিশর, ইয়াযীদ ও সাঈদের সূত্রে কাতাদা থেকে: যখন তাঁর সঙ্গে সাক্ষাৎ হবে, অথচ তোমরা তাঁকে ছেড়ে অন্যদের ইবাদত করেছ। কুরতুবী এ প্রশ্নকে বলেন তাহযীর, সতর্কবাণী। তিনি একে রাখেন ৮২:৬ আয়াতের পাশে: হে মানুষ, কিসে তোমাকে তোমার মহান রব সম্পর্কে ধোঁকায় ফেলেছে?"
+          },
+          {
+            "en": "Al-Qurtubi then records a second reading, introduced with qila, it has been said: what did you imagine of Him, that you associated others with Him? As-Sa'di, on 37:87, reads in that direction too: what deficiency did you suppose in the Lord of the worlds, that you made rivals and partners for Him? So two readings stand side by side. One looks ahead to the meeting and its outcome. The other looks back at the false idea of Allah that made the falsehood possible. Both commentators record both.",
+            "bn": "এরপর কুরতুবী কীলা, বলা হয়েছে, শব্দে আরেকটি ব্যাখ্যা আনেন: তাঁর সম্পর্কে তোমরা কী কল্পনা করেছিলে, যার কারণে তাঁর সঙ্গে অন্যদের শরিক করলে? সা'দীও ৩৭:৮৭ আয়াতের আলোচনায় এ দিকেই যান: বিশ্বজগতের রবের মধ্যে কোন ঘাটতি তোমরা ধরে নিয়েছিলে, যে তাঁর জন্য সমকক্ষ ও শরিক বানালে? দুটি ব্যাখ্যা তাই পাশাপাশি দাঁড়ায়। একটি তাকায় সামনে, সাক্ষাতের দিন আর তার পরিণামের দিকে। অন্যটি তাকায় পেছনে, আল্লাহ সম্পর্কে সেই ভুল ধারণার দিকে, যা থেকে মিথ্যাটির জন্ম। দুই তাফসীরকারই দুটি ব্যাখ্যা উল্লেখ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken Then, Licensing Nothing Now",
+          "bn": "সেদিনের কথা, আজকের ছাড়পত্র নয়"
+        },
+        "p": [
+          {
+            "en": "The verse reports words that Ibrahim (AS) spoke to his own father and his own people, in one moment of one story. It describes what the text describes: a people worshipping gods besides Allah, and a prophet naming that worship a falsehood. It licenses nothing against any living person or community, and it gives no one a warrant to treat a neighbour, a relative or a nation as the people of this verse. Its question is for each reader to put to himself first.",
+            "bn": "আয়াতটি সেই কথাগুলো জানায়, যা ইবরাহীম (আঃ) একটি কাহিনির একটি মুহূর্তে নিজের পিতা ও নিজের জাতিকে বলেছিলেন। পাঠ যা বর্ণনা করে, আয়াতও ঠিক তা-ই বর্ণনা করে। একটি জাতি আল্লাহকে ছেড়ে অন্য ইলাহদের ইবাদত করত, আর একজন নবী সেই ইবাদতকে মিথ্যা বলে চিহ্নিত করেছিলেন। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো ছাড়পত্র দেয় না। প্রতিবেশী, আত্মীয় বা কোনো জাতিকে এ আয়াতের সেই লোক বলে গণ্য করার অধিকারও কাউকে দেয় না। এর প্রশ্নটা প্রত্যেক পাঠক আগে নিজেকেই করবেন।"
+          },
+          {
+            "en": "Eight commentaries were consulted on this verse: at-Tabari, al-Qurtubi, as-Sa'di, Ibn Kathir in Arabic and in the abridged English, al-Baghawi, the Muyassar and Ma'arif al-Qur'an. None of them attaches a hadith to it, and none gives an occasion of revelation; the verse belongs to the account of Ibrahim (AS) that begins at 37:83. Qatada's words are a successor's explanation, not a report from the Prophet ﷺ. What Ibrahim (AS) did next, from his look at the stars in 37:88 onward, belongs to those verses.",
+            "bn": "এ আয়াতের জন্য আটটি তাফসীর দেখা হয়েছে: তাবারী, কুরতুবী, সা'দী, আরবি ইবন কাসীর ও তার ইংরেজি সংক্ষেপ, বাগাভী, মুয়াসসার আর মাআরিফুল কুরআন। এদের কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও দেয়নি। আয়াতটি ইবরাহীম (আঃ)-এর সেই কাহিনির অংশ, যা শুরু হয়েছে ৩৭:৮৩ আয়াত থেকে। কাতাদার কথা একজন তাবেয়ীর ব্যাখ্যা, নবী ﷺ থেকে বর্ণিত কোনো হাদীস নয়। এরপর ইবরাহীম (আঃ) কী করলেন, ৩৭:৮৮ আয়াতে তারকার দিকে তাকানো থেকে শুরু করে, তা সেই আয়াতগুলোর আলোচনার বিষয়।"
+          }
+        ]
+      }
+    ]
+  },
   "37:88": {
     "sections": [
       {

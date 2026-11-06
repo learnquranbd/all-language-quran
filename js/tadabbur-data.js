@@ -25849,6 +25849,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let the Qur'an's picture of the Fire's food stay ugly in your mind. It is there to turn you from what leads to it, not to be explained away.",
     "lessonBn": "জাহান্নামের খাবারের যে ছবি কুরআন আঁকে, তা মনের মধ্যে কুৎসিত হয়েই থাকুক। ছবিটা আছে আপনাকে সেই পথ থেকে ফেরাতে, যা সেখানে নিয়ে যায়। ব্যাখ্যা দিয়ে উড়িয়ে দেওয়ার জন্য নয়।"
+  },
+  "37:86": {
+    "reflectionEn": "Ibrahim has already asked his father and his people what they worship. Now he asks again, and this time the question carries its own verdict: a lie, gods other than Allah, is that what you want? He does not stop at what they do. He names what they desire. The word he uses for the lie is the worst kind, the kind that cannot stand on its own feet. The next verse asks what they expect from the Lord of the worlds. This verse describes one people in one story and passes no sentence on anyone alive. It turns the question on me. What do I really want beneath what I do? And is anything I lean on in Allah's place only a lie I have grown used to?",
+    "reflectionBn": "ইবরাহীম (আঃ) আগেই তাঁর পিতা ও জাতিকে জিজ্ঞেস করেছেন, তোমরা কিসের ইবাদত কর। এবার তিনি আবার প্রশ্ন করেন, আর এবারের প্রশ্নের ভেতরেই রায় লেখা আছে: আল্লাহকে বাদ দিয়ে কিছু মিথ্যা ইলাহ, তোমরা কি এটাই চাও? তারা কী করে, সেখানে তিনি থামেন না। তারা কী চায়, সেটার নাম ধরে বলেন। মিথ্যার জন্য যে শব্দ তিনি বেছে নেন, তা সবচেয়ে নিকৃষ্ট মিথ্যা, যা নিজের পায়ে দাঁড়াতে পারে না। পরের আয়াত জানতে চায়, বিশ্বজগতের রব সম্পর্কে তাদের ধারণা কী। এ আয়াত একটি কাহিনির একটি জাতির কথা বলে, জীবিত কারও উপর কোনো রায় দেয় না। প্রশ্নটা বরং ফিরে আসে আমার দিকে। আমি যা করি, তার নিচে আসলে কী চাই? আল্লাহর জায়গায় যার উপর ভর দিই, তা কি শুধু এমন এক মিথ্যা, যাতে আমি অভ্যস্ত হয়ে গেছি?",
+    "pointsEn": [
+      "If someone asked me not what I do but what I want, what would my honest answer be?",
+      "What do I lean on for safety, provision or approval as though it could give what only Allah gives?",
+      "Which of my settled beliefs have I never pushed against, to see whether they stand or shake?",
+      "Before I speak against a wrong among my own people, is my own heart already clear of it?",
+      "What do I truly expect of my Lord when I meet Him, and does the way I live match that expectation?"
+    ],
+    "pointsBn": [
+      "কেউ যদি জানতে চায় আমি কী করি তা নয়, আমি কী চাই, তবে আমার সৎ উত্তরটা কী হবে?",
+      "নিরাপত্তা, রিযক বা মানুষের স্বীকৃতির জন্য কার উপর এমনভাবে ভরসা করি, যেন সে তা দিতে পারে যা কেবল আল্লাহই দেন?",
+      "আমার কোন বদ্ধমূল বিশ্বাসগুলো আমি কখনো যাচাই করে দেখিনি, সেগুলো টিকে থাকে নাকি নড়বড়ে হয়ে যায়?",
+      "নিজের লোকদের মধ্যে কোনো অন্যায়ের বিরুদ্ধে কথা বলার আগে আমার নিজের অন্তর কি তা থেকে মুক্ত?",
+      "রবের সঙ্গে সাক্ষাতের দিন তাঁর কাছে আমি আসলে কী আশা করি, আর আমার জীবনযাপন কি সেই আশার সঙ্গে মেলে?"
+    ],
+    "lessonEn": "Look beneath what you do to what you want. Whatever is wanted in Allah's place is a lie that cannot stand, however long it has been believed.",
+    "lessonBn": "আপনি কী করেন, তার নিচে তাকিয়ে দেখুন আপনি কী চান। আল্লাহর জায়গায় যা-ই চাওয়া হোক, তা এমন মিথ্যা যা টেকে না, যত দিন ধরেই তা বিশ্বাস করা হোক।"
   }
 };
 
