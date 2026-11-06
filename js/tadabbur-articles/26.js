@@ -5715,6 +5715,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:161": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Line, a Fourth Time",
+          "bn": "একই বাক্য, চতুর্থবার"
+        },
+        "p": [
+          {
+            "en": "The verse before has already given the verdict in four words: the people of Lut denied the messengers (26:160). This verse opens the scene behind that verdict with idh, when, and it does so in a sentence the surah has now used four times: when their brother said to them, will you not fear Allah? Nuh said it (26:106), Hud said it (26:124), Salih said it (26:142), and now Lut (AS). Only the name changes. The seven Arabic words hold two things worth slowing down for: the word brother, and the question.",
+            "bn": "আগের আয়াত চারটি শব্দেই রায় দিয়ে দিয়েছে: লূতের সম্প্রদায় রসূলদের মিথ্যাবাদী বলেছিল (২৬:১৬০)। এ আয়াত ইয, অর্থাৎ 'যখন' শব্দ দিয়ে সেই রায়ের পেছনের দৃশ্যটা খুলে দেয়। বাক্যটা সূরায় এ নিয়ে চতুর্থবার এল: যখন তাদের ভাই তাদের বলল, তোমরা কি আল্লাহকে ভয় করবে না? নূহ (আঃ) বলেছিলেন (২৬:১০৬), হূদ (আঃ) বলেছিলেন (২৬:১২৪), সালিহ (আঃ) বলেছিলেন (২৬:১৪২), এবার বলছেন লূত (আঃ)। বদলায় শুধু নামটা। আরবি সাতটি শব্দের ভেতরে দুটি জিনিসে থেমে ভাবা দরকার: 'ভাই' শব্দটা, আর প্রশ্নটা।"
+          },
+          {
+            "en": "The commentators keep their glosses short here. At-Tabari adds only the object the question leaves unspoken: will you not fear Allah, O people. Al-Baghawi restates the verse and moves on. The Muyassar renders it as, will you not dread the punishment of Allah, and then runs on through the next three verses: a messenger from your Lord, trustworthy in conveying His message, asking no wage. Those verses have their own pages. This verse asks about the brother, and about the first word he speaks.",
+            "bn": "তাফসীরকারেরা এখানে খুব অল্প কথায় সারেন। তাবারী শুধু প্রশ্নের না-বলা কর্মটা জুড়ে দেন: হে আমার জাতি, তোমরা কি আল্লাহকে ভয় করবে না? বাগাভী আয়াতটা আবার উল্লেখ করে এগিয়ে যান। মুয়াসসার অর্থ করে: তোমরা কি আল্লাহর আযাবকে ভয় করবে না? তারপর এক টানে পরের তিনটি আয়াতও বলে যায়। তিনি রবের পাঠানো রসূল, তাঁর বার্তা পৌঁছে দিতে বিশ্বস্ত, কোনো পারিশ্রমিক চান না। সেসব আয়াতের আলোচনা তাদের নিজ নিজ জায়গায়। এ আয়াতের প্রশ্ন ভাইকে নিয়ে, আর তাঁর মুখের প্রথম কথাটা নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Settler Called Brother",
+          "bn": "বসতি গেড়ে যিনি ভাই"
+        },
+        "p": [
+          {
+            "en": "With Nuh, Hud and Salih the word brother could be read as a tie of descent. With Lut (AS) that reading meets a difficulty, because he came from elsewhere. Ibn Kathir, on this verse, gives his line: Lut son of Haran son of Azar, the nephew of Ibrahim al-Khalil, whom Allah sent to a great nation in Ibrahim's own lifetime, a people living in Sadum and the land around it. On 7:80 Ibn Kathir adds that Lut had believed with Ibrahim and emigrated with him to the land of ash-Sham.",
+            "bn": "নূহ, হূদ আর সালিহ (আঃ)-এর বেলায় 'ভাই' শব্দটাকে বংশের বন্ধন হিসেবে পড়া যায়। লূত (আঃ)-এর বেলায় সেই পাঠে একটা জট লাগে, কারণ তিনি এসেছিলেন বাইরে থেকে। ইবন কাসীর এ আয়াতে তাঁর বংশধারা দেন: লূত ইবন হারান ইবন আযার, ইবরাহীম খলীলুল্লাহর ভাতিজা। ইবরাহীম (আঃ)-এর জীবদ্দশাতেই আল্লাহ তাঁকে পাঠান এক বিরাট জাতির কাছে, যারা থাকত সাদূম ও তার আশপাশের জনপদে। ৭:৮০ আয়াতের আলোচনায় ইবন কাসীর আরও বলেন, লূত ইবরাহীমের সঙ্গে ঈমান এনেছিলেন এবং তাঁর সঙ্গে শামের ভূমিতে হিজরত করেছিলেন।"
+          },
+          {
+            "en": "Al-Baghawi, also on 7:80, tells the journey in more detail. Lut set out from the land of Babil with his uncle Ibrahim, believing in him and emigrating with him to ash-Sham; Ibrahim settled in Palestine and settled Lut in al-Urdunn, and Allah sent him to the people of Sadum. The Qur'an itself records the two moments: Lut believed in him (29:26), and Allah delivered Ibrahim and Lut to the land He had blessed for all the worlds (21:71). The man this verse calls their brother arrived among them as an emigrant.",
+            "bn": "বাগাভীও ৭:৮০ আয়াতে সফরের কথা আরেকটু খুলে বলেন। লূত (আঃ) চাচা ইবরাহীম (আঃ)-এর সঙ্গে বাবিলের ভূমি থেকে রওনা হন, তাঁর উপর ঈমান এনে, তাঁর সঙ্গে শামের দিকে হিজরত করে। ইবরাহীম ফিলিস্তিনে বসতি গাড়েন, আর লূতকে বসান উরদুনে। সেখান থেকে আল্লাহ তাঁকে সাদূমবাসীর কাছে পাঠান। কুরআন নিজেই দুটি মুহূর্তের কথা রেখেছে: লূত তাঁর উপর ঈমান আনলেন (২৯:২৬), আর আল্লাহ ইবরাহীম ও লূতকে উদ্ধার করে নিয়ে গেলেন সেই ভূমিতে, যাতে তিনি সারা জগতের জন্য বরকত রেখেছেন (২১:৭১)। অর্থাৎ যাঁকে এ আয়াত তাদের ভাই বলছে, তিনি তাদের মাঝে এসেছিলেন একজন মুহাজির হয়ে।"
+          },
+          {
+            "en": "Ibn Ashur, commenting on this group of verses, states the difficulty outright. Lut was made a brother to his people, he writes, though he was not of their lineage; he was a nazil among them, a settler. His people were Canaanites, of the people of Palestine, while Lut was a Hebrew, the son of Ibrahim's brother. But because he made their land his home, lived among them, bound himself to them by alliance and stood by them, he was called their brother. The kinship, on this reading, was made by a life, not given by birth.",
+            "bn": "ইবন আশূর এই আয়াতগুচ্ছের আলোচনায় জটটা সরাসরি তুলে ধরেন। তিনি লেখেন, লূতকে তাঁর জাতির ভাই বলা হয়েছে, অথচ তিনি তাদের বংশের ছিলেন না। তিনি ছিলেন তাদের মাঝে একজন নাযিল, মানে বাইরে থেকে এসে বসবাসকারী। তাঁর জাতি ছিল ফিলিস্তিনের কিনআনী লোক, আর লূত ছিলেন ইবরানী, ইবরাহীমের ভাইয়ের ছেলে। কিন্তু তিনি তাদের দেশকে নিজের আবাস বানিয়েছিলেন, তাদের সঙ্গে জীবন কাটিয়েছিলেন, তাদের সঙ্গে মৈত্রীর বন্ধনে জড়িয়েছিলেন, তাদের পাশে দাঁড়িয়েছিলেন। তাই তাঁকে তাদের ভাই বলা হয়েছে। এ পাঠে আত্মীয়তাটা জন্মসূত্রে পাওয়া নয়, একটা জীবন দিয়ে গড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Readings of One Word",
+          "bn": "এক শব্দের কয়েক পাঠ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi, on this verse, records three ways to hear akhuhum. The first: ibn abihim, the son of their father, a brotherhood of lineage and not of religion. The second, introduced with it is said: a brotherhood of mujanasa, of shared kind, and he cites 14:4, We sent no messenger except in the tongue of his people. The third, also introduced with it is said: the Arabs' way of speaking, as in ya akha bani Tamim, O brother of Banu Tamim, meaning simply O one of them; he adds that az-Zamakhshari cites a line from al-Hamasa for the usage.",
+            "bn": "কুরতুবী এ আয়াতে 'আখূহুম' শব্দটা বোঝার তিনটি পথ উল্লেখ করেন। প্রথমটি: ইবনু আবীহিম, তাদের পিতার সন্তান। এ ভ্রাতৃত্ব বংশের, দীনের নয়। দ্বিতীয়টি তিনি আনেন 'বলা হয়েছে' বলে: এ হলো মুজানাসার ভ্রাতৃত্ব, একই জাতের মানুষ হওয়ার বন্ধন। এর পক্ষে তিনি ১৪:৪ আয়াত আনেন: আমি প্রত্যেক রসূলকে তাঁর জাতির ভাষাতেই পাঠিয়েছি। তৃতীয়টিও 'বলা হয়েছে' দিয়ে: এটা আরবদের কথার ধরন। তারা বলে 'ইয়া আখা বানী তামীম', হে বনু তামীমের ভাই, মানে শুধু 'হে তাদের একজন'। তিনি জানান, যামাখশারী এ ব্যবহারের পক্ষে হামাসা কাব্যসংকলন থেকে একটি পঙ্‌ক্তি এনেছেন।"
+          },
+          {
+            "en": "Ibn Ashur gives a fourth, fitted to Lut's case: brotherhood by settled residence and alliance. He supports it with a line of the poet Suhaym, the slave of Banu al-Hashas, addressing his masters: your brother, the client of the best of you, and your ally, one who has dwelt among you and lived with you for an age. Tanwir al-Miqbas, the commentary transmitted under the name of Ibn 'Abbas, takes a fifth path and glosses their brother simply as their Prophet. The brother, on that reading, is the one sent to them.",
+            "bn": "ইবন আশূর চতুর্থ একটি পাঠ দেন, যা লূত (আঃ)-এর অবস্থার সঙ্গে মেলে: স্থায়ী বসবাস আর মৈত্রীর সূত্রে ভ্রাতৃত্ব। এর পক্ষে তিনি কবি সুহাইমের একটি পঙ্‌ক্তি আনেন। সুহাইম ছিলেন বনু হাসহাসের দাস, আর পঙ্‌ক্তিটা তিনি বলেছিলেন তাঁর মনিবদের উদ্দেশে: আমি তোমাদের ভাই, তোমাদের সেরাজনের আশ্রিত, তোমাদের মিত্র, যে তোমাদের মাঝে থেকেছে আর দীর্ঘকাল তোমাদের সঙ্গে জীবন কাটিয়েছে। ইবন আব্বাসের নামে বর্ণিত তাফসীর তানবীরুল মিকবাস পঞ্চম পথ ধরে। সেখানে 'তাদের ভাই' মানে সোজা 'তাদের নবী'। এ পাঠে ভাই তিনিই, যাঁকে তাদের কাছে পাঠানো হয়েছে।"
+          },
+          {
+            "en": "These readings do not stand in one line. Al-Qurtubi's first reading is lineage, and on this verse he does not take up where Lut came from. Ibn Ashur says plainly that Lut was not of their lineage and finds the tie in dwelling and alliance. The second and third readings al-Qurtubi records, shared kind and one of them, need no common ancestor, and neither does the gloss in Tanwir al-Miqbas. On every reading the word sets Lut (AS) inside the people, not above them.",
+            "bn": "পাঠগুলো এক সারিতে দাঁড়ায় না। কুরতুবীর প্রথম পাঠ বংশের, আর এ আয়াতে লূত (আঃ) কোথা থেকে এসেছিলেন, সে প্রশ্ন তিনি তোলেন না। ইবন আশূর পরিষ্কার বলেন, লূত তাদের বংশের ছিলেন না। বন্ধনটা তিনি খুঁজে পান একসঙ্গে বসবাস আর মৈত্রীর মধ্যে। কুরতুবীর উল্লেখ করা দ্বিতীয় ও তৃতীয় পাঠ, অর্থাৎ একই জাতের মানুষ হওয়া আর 'তাদের একজন' হওয়া, এগুলোর জন্য একই পূর্বপুরুষ লাগে না। তানবীরুল মিকবাসের ব্যাখ্যাতেও লাগে না। যে পাঠই ধরা হোক, শব্দটা লূত (আঃ)-কে জাতির ভেতরে রাখে, তাদের মাথার উপরে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Brothers of Lut",
+          "bn": "লূতের ভাইয়েরা"
+        },
+        "p": [
+          {
+            "en": "Ibn Ashur sets a second verse beside this one. In 50:13 the Qur'an lists the peoples who denied, and names this one ikhwan Lut, the brothers of Lut. He classes the usage under brotherhood used for keeping close to a thing and being constantly engaged with it, the sense in which 17:27 calls the squanderers brothers of the devils. So the word carries more than family. It can name the people one has kept company with, day after day, until the bond is real enough to be called by a family name.",
+            "bn": "ইবন আশূর এ আয়াতের পাশে আরেকটি আয়াত রাখেন। ৫০:১৩ আয়াতে কুরআন অস্বীকারকারী জাতিগুলোর তালিকা দেয়, আর এ জাতিকে বলে ইখওয়ানু লূত, লূতের ভাইয়েরা। তাঁর মতে এটা সেই ব্যবহার, যেখানে কোনো কিছুর সঙ্গে লেগে থাকা আর নিয়মিত জড়িয়ে থাকাকে ভ্রাতৃত্ব বলা হয়। একই অর্থে ১৭:২৭ আয়াত অপচয়কারীদের বলেছে শয়তানের ভাই। তাই শব্দটা শুধু পরিবার বোঝায় না। যাদের সঙ্গে দিনের পর দিন ওঠাবসা করতে করতে বন্ধনটা এত সত্য হয়ে ওঠে যে তাকে পরিবারের নামে ডাকা যায়, তাদেরও এ নামে ডাকা যায়।"
+          },
+          {
+            "en": "The wording of the other tellings makes the choice here stand out. In 7:80, 27:54 and 29:28 the account opens wa-Lutan idh qala li-qawmihi, and Lut, when he said to his people; none of the three uses the word brother. This surah opens the stories of Nuh, Hud, Salih and Lut with one sentence, and gives Lut the same word as the others. It does not withhold it from the emigrant.",
+            "bn": "অন্য সূরাগুলোতে কাহিনিটা কীভাবে শুরু হয়েছে দেখলে এখানকার শব্দবাছাই চোখে পড়ে। ৭:৮০, ২৭:৫৪ ও ২৯:২৮ আয়াতে শুরুটা এভাবে: ওয়া লূতান ইয কালা লিকাওমিহী, আর লূত, যখন তিনি তাঁর জাতিকে বললেন। তিনটির কোনোটিতেই 'ভাই' শব্দ নেই। এ সূরা নূহ, হূদ, সালিহ ও লূত (আঃ)-এর কাহিনি একই বাক্যে খোলে, আর লূতকেও অন্যদের মতো সেই একই শব্দ দেয়। কিন্তু হিজরত করে আসা মানুষটির কাছ থেকে শব্দটা কেড়ে নেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Root Before the Branch",
+          "bn": "ডালের আগে শিকড়"
+        },
+        "p": [
+          {
+            "en": "The people of Lut are remembered for one deed, and the passage will name it four verses on, in 26:165. Yet the first word is not about that deed. Al-Qurtubi reads the question here as: will you not fear Allah in the worship of idols? Tanwir al-Miqbas reaches the same point from another side: will you not guard yourselves against the worship of other than Allah? Before any conduct is named, the call goes to the question of whom they worship, as it did with the prophets before him in this surah.",
+            "bn": "লূতের জাতিকে মানুষ মনে রাখে একটি কাজের জন্য, আর চারটি আয়াত পরে ২৬:১৬৫ আয়াতে কাহিনি সেটার নাম নেবে। তবু প্রথম কথাটা সেই কাজ নিয়ে নয়। কুরতুবী এখানে প্রশ্নটার অর্থ করেন: মূর্তিপূজার ব্যাপারে তোমরা কি আল্লাহকে ভয় করবে না? তানবীরুল মিকবাস ভিন্ন দিক থেকে একই জায়গায় পৌঁছায়: আল্লাহ ছাড়া অন্যের ইবাদত থেকে তোমরা কি নিজেদের বাঁচাবে না? কোনো আচরণের নাম আসার আগেই ডাকটা পৌঁছায় এই প্রশ্নে যে, তারা কার ইবাদত করে। এ সূরায় তাঁর আগের নবীদের দাওয়াতও এখান থেকেই শুরু হয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di confirms the order with a small phrase. They were, he says, ma'a shirkihim, alongside their shirk, committing an indecency no one in the worlds had done before them. The deed is added to the shirk; it does not replace it. Ibn Kathir lays out the call in sequence: Lut called them to Allah, to worship Him alone with no partner, and to obey the messenger Allah had sent them, and he forbade them from disobeying Allah and from the act they had invented. Worship comes first, obedience next, the prohibition after.",
+            "bn": "সা'দী ছোট্ট একটি শব্দবন্ধে এই ক্রমটা নিশ্চিত করেন। তিনি বলেন, তারা মাআ শিরকিহিম, অর্থাৎ শিরকের পাশাপাশি এমন এক অশ্লীল কাজ করত, যা জগতে তাদের আগে কেউ করেনি। কাজটা শিরকের সঙ্গে যোগ হয়েছে, শিরকের জায়গা নেয়নি। ইবন কাসীর দাওয়াতটা ধাপে ধাপে সাজান। লূত (আঃ) তাদের ডাকলেন আল্লাহর দিকে, যেন তারা শরিকহীনভাবে একমাত্র তাঁরই ইবাদত করে, আর আল্লাহর পাঠানো রসূলের আনুগত্য করে। তারপর তিনি তাদের নিষেধ করলেন আল্লাহর নাফরমানি থেকে, আর তাদের উদ্ভাবিত সেই কাজ থেকে। প্রথমে ইবাদত, তারপর আনুগত্য, শেষে নিষেধ।"
+          },
+          {
+            "en": "The order is a lesson in how a true call is built. A warning that begins with a deed and leaves out the Lord becomes an argument about behaviour. A warning that begins with the Lord gives the reason any prohibition holds at all. The Muyassar's rendering, will you not dread the punishment of Allah, keeps the stakes in view: the question is about standing before Him. Once that is settled, the command that follows, so fear Allah and obey me (26:163), has ground to stand on.",
+            "bn": "দাওয়াত কীভাবে গড়ে ওঠে, এই ক্রম তার শিক্ষা। যে সতর্কবাণী রবকে বাদ দিয়ে শুধু একটা কাজ দিয়ে শুরু হয়, তা আচরণ নিয়ে তর্ক হয়ে দাঁড়ায়। যে সতর্কবাণী রব দিয়ে শুরু হয়, সেখানে বোঝা যায় কোনো নিষেধ কেন আদৌ মানতে হবে। মুয়াসসারের অর্থ, তোমরা কি আল্লাহর আযাবকে ভয় করবে না, ঝুঁকিটা চোখের সামনে রাখে। প্রশ্নটা আসলে তাঁর সামনে দাঁড়ানো নিয়ে। সেটা মীমাংসা হলে পরের আদেশটা, তাই আল্লাহকে ভয় কর আর আমার আনুগত্য কর (২৬:১৬৩), দাঁড়ানোর মাটি পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Without a Clan Behind Him",
+          "bn": "পেছনে কোনো গোত্র নেই"
+        },
+        "p": [
+          {
+            "en": "The settler's footing was thin, and the passage lets it show. When his people answer him, their threat is eviction: if you do not stop, O Lut, you will surely be among those driven out (26:167), and as-Sa'di glosses it, driven out of the town. In another surah Lut (AS) says: if only I had strength against you, or could take refuge in a strong support (11:80). He had no tribe of his own in that land to stand behind his words.",
+            "bn": "বহিরাগত মানুষটির পায়ের নিচের মাটি ছিল নড়বড়ে, আর কাহিনি সেটা লুকায় না। তাঁর জাতি যখন জবাব দেয়, তাদের হুমকি হলো তাড়িয়ে দেওয়া: হে লূত, তুমি না থামলে অবশ্যই বহিষ্কৃতদের দলে পড়বে (২৬:১৬৭)। সা'দী ব্যাখ্যা করেন, মানে জনপদ থেকে বের করে দেওয়া হবে। আরেক সূরায় লূত (আঃ) বলেন: যদি তোমাদের মোকাবিলায় আমার কোনো শক্তি থাকত, কিংবা আমি কোনো মজবুত আশ্রয়ে ঠাঁই নিতে পারতাম (১১:৮০)! সে দেশে তাঁর কথার পেছনে দাঁড়ানোর মতো নিজের কোনো গোত্র ছিল না।"
+          },
+          {
+            "en": "And yet his first word did not wait for a clan to back it. He spoke as a brother speaks, with their good as his concern, and put to them the question that matters most. The point reaches anyone who lives as a newcomer, a migrant or a minority among others: the right to say a true word to the people around you is not bought with ancestry. It rests on the truth of the word, and on a life lived honestly among them.",
+            "bn": "তবু তাঁর প্রথম কথাটা কোনো গোত্রের সমর্থনের অপেক্ষায় থাকেনি। তিনি কথা বলেছেন ভাইয়ের মতো, তাদের মঙ্গলকে নিজের চিন্তা বানিয়ে। আর তাদের সামনে রেখেছেন সবচেয়ে জরুরি প্রশ্নটা। নতুন আসা মানুষ, প্রবাসী কিংবা অন্যদের মাঝে সংখ্যালঘু হয়ে যে থাকে, এ শিক্ষা তার কাছেও পৌঁছায়। চারপাশের মানুষকে সত্য কথা বলার হক বংশ দিয়ে কেনা যায় না। সেটা দাঁড়ায় কথাটা সত্য হওয়ার উপর, আর তাদের মাঝে সততার সঙ্গে কাটানো জীবনের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Taqwa Is Kept",
+          "bn": "তাকওয়া থাকে যেখানে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. One narration, brought here for its theme and not as a comment on the verse, joins the two words this verse sets side by side, brother and taqwa. Muslim records it in his Sahih (2564), from Abu Hurayra (RA). The brotherhood it speaks of is the brotherhood of faith, a different tie from the one in this verse.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি। একটি হাদীস এখানে আনা হচ্ছে বিষয়ের মিলের জন্য, আয়াতের ব্যাখ্যা হিসেবে নয়। আয়াতটি যে দুটি শব্দ পাশাপাশি রেখেছে, ভাই আর তাকওয়া, হাদীসটি সে দুটিকে একসঙ্গে বাঁধে। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (২৫৬৪) আবু হুরায়রা (রাঃ) থেকে এটি বর্ণনা করেছেন। হাদীসের ভ্রাতৃত্ব ঈমানের ভ্রাতৃত্ব, এ আয়াতের বন্ধন থেকে আলাদা।"
+          },
+          {
+            "en": "The Messenger of Allah ﷺ said: \"Do not envy each other, do not bid up prices against each other, do not hate each other, do not turn your backs on each other, and let none of you undercut the sale of another. Be, servants of Allah, brothers. The Muslim is the brother of the Muslim: he does not wrong him, does not forsake him, and does not belittle him. Taqwa is here,\" and he pointed to his chest three times. \"It is evil enough for a man to belittle his Muslim brother. All of the Muslim is sacred to the Muslim: his blood, his wealth and his honour.\"",
+            "bn": "রসূলুল্লাহ ﷺ বলেছেন: \"তোমরা একে অন্যকে হিংসা কোরো না, একে অন্যের বিরুদ্ধে দাম চড়িয়ো না, একে অন্যকে ঘৃণা কোরো না, একে অন্যের দিক থেকে মুখ ফিরিয়ে নিয়ো না, আর তোমাদের কেউ যেন অন্যের বেচাকেনার উপর বেচাকেনা না করে। হে আল্লাহর বান্দারা, তোমরা ভাই ভাই হয়ে যাও। মুসলিম মুসলিমের ভাই। সে তার উপর জুলুম করে না, তাকে অসহায় ফেলে যায় না, তাকে তুচ্ছ করে না। তাকওয়া এখানে।\" এই বলে তিনি তিনবার নিজের বুকের দিকে ইশারা করলেন। \"মানুষের মন্দ হওয়ার জন্য এটুকুই যথেষ্ট যে সে তার মুসলিম ভাইকে তুচ্ছ করে। প্রত্যেক মুসলিমের সবকিছু অন্য মুসলিমের জন্য হারাম: তার রক্ত, তার সম্পদ আর তার সম্মান।\""
+          },
+          {
+            "en": "Read beside the verse, the narration shows how the two words belong together. Taqwa sits in the chest, out of sight, and brotherhood is its visible duty: do not wrong, do not forsake, do not belittle. Lut (AS) opened with taqwa and spoke as a brother to people who did not share his faith. Whoever reads his story and comes away holding others in contempt has kept neither word.",
+            "bn": "আয়াতের পাশে রেখে পড়লে হাদীসটি দেখায়, দুটি শব্দ কীভাবে একসঙ্গে চলে। তাকওয়া থাকে বুকের ভেতরে, চোখের আড়ালে। আর ভ্রাতৃত্ব তার দৃশ্যমান দায়: জুলুম নয়, অসহায় ফেলে যাওয়া নয়, তুচ্ছ করা নয়। লূত (আঃ) শুরু করেছিলেন তাকওয়া দিয়ে, আর যারা তাঁর ঈমানের শরিক ছিল না, তাদের সঙ্গেও কথা বলেছিলেন ভাইয়ের মতো। কেউ যদি তাঁর কাহিনি পড়ে অন্যদের প্রতি অবজ্ঞা নিয়ে ওঠে, তবে সে দুটো শব্দের কোনোটাই রাখল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Warrant for Contempt",
+          "bn": "অবজ্ঞার কোনো ছাড়পত্র নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: one prophet, one people of the distant past, a call and its refusal, and what followed is Allah's own judgment recorded in the passage. It licenses nothing against any living person or community. It gives no one a warrant to mock, harm, or write off another human being. Its own opening, a brother putting a question to his people, is the opposite of contempt.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে, যা পাঠে আছে: একজন নবী, দূর অতীতের একটি জাতি, একটি দাওয়াত আর তার প্রত্যাখ্যান। এরপর যা ঘটেছিল, তা আল্লাহর নিজের ফয়সালা, যা এই কাহিনিতে লেখা আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। কাউকে বিদ্রূপ করার, ক্ষতি করার বা বাতিল করে দেওয়ার ছাড়পত্র এখানে নেই। আয়াতের শুরুটাই তো এক ভাইয়ের প্রশ্ন, নিজের জাতির কাছে। এটা অবজ্ঞার ঠিক উল্টো।"
+          },
+          {
+            "en": "What the verse does hand the reader is a question, and it is the same one. Will you not fear Allah? It reaches us through people we live among, some of them born elsewhere, some not of our family or our circle, and the temptation is to weigh the speaker's origin before the word. Lut (AS) shows that a stranger can be a brother. The verse then asks the harder thing of the listener: whether, when the question arrives, we answer the question, or only ask where the one who asked it came from.",
+            "bn": "আয়াতটি পাঠকের হাতে যা তুলে দেয়, তা একটা প্রশ্ন, আর প্রশ্নটা সেই একই। তোমরা কি আল্লাহকে ভয় করবে না? প্রশ্নটা আমাদের কাছে আসে আশপাশের মানুষের মুখে। তাদের কেউ অন্য দেশে জন্মেছে, কেউ আমাদের পরিবার বা মহলের বাইরের। তখন লোভ জাগে কথাটা মাপার আগে বক্তার শিকড় মাপতে। লূত (আঃ) দেখিয়ে দেন, অচেনা মানুষও ভাই হতে পারে। তারপর আয়াত শ্রোতার কাছে কঠিনতর জিনিসটা চায়। প্রশ্নটা যখন আসে, আমরা কি প্রশ্নের জবাব দিই, নাকি শুধু জানতে চাই প্রশ্নকারী কোথা থেকে এসেছে?"
+          }
+        ]
+      }
+    ]
+  },
   "26:165": {
     "sections": [
       {

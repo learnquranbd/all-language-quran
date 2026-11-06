@@ -24469,6 +24469,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Plenty is a trust, not a guarantee. The softest fruit was given to Thamūd to test their gratitude, so weigh your own blessings by what they ask of you.",
     "lessonBn": "প্রাচুর্য আমানত, স্থায়ী নিশ্চয়তা নয়। সামূদকে সবচেয়ে কোমল ফল দেওয়া হয়েছিল তাদের শুকরিয়া পরখ করতে। তাই নিজের নিয়ামতকে মাপুন, তা আপনার কাছে কী দাবি করে সেই দিয়ে।"
+  },
+  "26:161": {
+    "reflectionEn": "A man who came from another land stands among a people not his own. He travelled there with his uncle, settled, and lived his life among them, until the Qur'an calls him their brother. And the first thing this brother says is not a list of their faults. It is a question about Allah: will you not fear Him? Everything else he will say grows out of that one root. Being an outsider did not take away his right to speak, and living among them made him theirs to care for. Do I treat the people I live and work among as my own, whose good is my concern? And when I speak to them about what matters most, do I begin where he began?",
+    "reflectionBn": "অন্য দেশ থেকে আসা এক মানুষ দাঁড়িয়ে আছেন এমন এক জাতির মাঝে, যারা তাঁর বংশের কেউ নয়। চাচার সঙ্গে তিনি সেখানে এসেছিলেন, বসতি গেড়েছিলেন, জীবন কাটিয়েছিলেন তাদেরই ভেতরে। শেষে কুরআন তাঁকে তাদের ভাই বলে ডাকে। আর এই ভাইয়ের মুখের প্রথম কথাটা তাদের দোষের ফিরিস্তি নয়। প্রথম কথাটা আল্লাহকে নিয়ে এক প্রশ্ন: তোমরা কি তাঁকে ভয় করবে না? এরপর তিনি যা কিছু বলবেন, সবই এই এক শিকড় থেকে গজাবে। বাইরের লোক হওয়ায় কথা বলার হক তাঁর কমে যায়নি। আর তাদের মাঝে থাকায় তাদের ভালো-মন্দ তাঁর নিজের দায় হয়ে গিয়েছিল। যাদের মাঝে আমি থাকি, কাজ করি, তাদের কি আমি আপন ভাবি, তাদের মঙ্গলকে নিজের চিন্তা মনে করি? আর সবচেয়ে জরুরি কথাটা বলতে গেলে আমি কি সেখান থেকেই শুরু করি, যেখান থেকে তিনি শুরু করেছিলেন?",
+    "pointsEn": [
+      "Who are the people I live or work among but have never counted as my own, and what would change if I saw myself as their brother or sister?",
+      "When I want to correct someone, do I open with their fault, or with the One we both answer to?",
+      "Have I ever brushed aside a true reminder because the person who brought it was not one of us?",
+      "Which part of my own life still needs the first question, will you not fear Allah, before any other advice can reach it?",
+      "Do the people around me know my life well enough to trust what I tell them?"
+    ],
+    "pointsBn": [
+      "যাদের মাঝে আমি থাকি বা কাজ করি অথচ কখনো আপন বলে গণ্য করিনি, তারা কারা? নিজেকে তাদের ভাই বা বোন ভাবলে কী বদলে যেত?",
+      "কাউকে শোধরাতে চাইলে আমি কি তার দোষ দিয়ে কথা শুরু করি, নাকি সেই আল্লাহর কথা দিয়ে, যাঁর কাছে আমাদের দুজনকেই জবাব দিতে হবে?",
+      "সত্য কোনো নসিহত কি কখনো এই বলে উড়িয়ে দিয়েছি যে, যে এনেছে সে তো আমাদের লোক নয়?",
+      "আমার জীবনের কোন অংশে অন্য সব উপদেশের আগে এই প্রথম প্রশ্নটা পৌঁছানো দরকার: তুমি কি আল্লাহকে ভয় করবে না?",
+      "আমার চারপাশের মানুষ কি আমার জীবন এতটা কাছ থেকে চেনে যে আমার কথায় তারা ভরসা রাখতে পারে?"
+    ],
+    "lessonEn": "Brotherhood can be made by living among people and wanting their good, and the first word a true brother brings them is not their fault but the fear of Allah.",
+    "lessonBn": "মানুষের মাঝে বাস করে তাদের মঙ্গল চাইলেই ভ্রাতৃত্ব গড়ে ওঠে। আর সত্যিকারের ভাই প্রথমে তাদের দোষ নয়, আল্লাহর ভয়ের কথাই নিয়ে আসে।"
   }
 };
 
