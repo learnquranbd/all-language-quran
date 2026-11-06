@@ -28947,6 +28947,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every brightening morning is one of His signs: the night does turn, and His warning has been made plain so you can choose your road while there is light.",
     "lessonBn": "প্রতিটি উজ্জ্বল ভোর তাঁর নিদর্শন: রাত সত্যিই ফিরে যায়, আর তাঁর সতর্কবাণী স্পষ্ট করে দেওয়া হয়েছে, যাতে আলো থাকতে থাকতেই আপনি নিজের পথ বেছে নিতে পারেন।"
+  },
+  "74:5": {
+    "reflectionEn": "Two words: and the rujz, forsake it. The commentators read rujz as idols, as sin, and as whatever leads to punishment. The command is addressed to the Prophet ﷺ, and they are clear that it does not mean he was in any of it. It means: keep away, and go on keeping away. Forsaking, then, is not only for someone deep in a wrong. It is a distance kept, day after day, from what ruins. Ask what works like an idol in your life: something you keep returning to and expecting from. Ask which small sins you have stopped calling sins. The verse does not ask you to despise anyone. It asks you to leave a thing, and to keep leaving it.",
+    "reflectionBn": "দুটি শব্দ: আর রুজয, তা বর্জন করো। তাফসীরকারেরা রুজয বুঝেছেন মূর্তি অর্থে, গুনাহ অর্থে, আর যা আজাবের দিকে নিয়ে যায় সে অর্থে। আদেশটা নবী ﷺ-কে করা হয়েছে, আর তাঁরা পরিষ্কার বলেন, এর মানে এই নয় যে তিনি এর কোনোটিতে জড়িত ছিলেন। মানে হলো: দূরে থাকো, আর দূরেই থেকে যাও। তাহলে বর্জন কেবল তার জন্য নয়, যে কোনো অন্যায়ে ডুবে আছে। বর্জন হলো ধ্বংসকর জিনিস থেকে প্রতিদিন দূরত্ব বজায় রাখা। নিজেকে জিজ্ঞেস করুন, আপনার জীবনে কোন জিনিস মূর্তির মতো কাজ করে, যার কাছে বারবার ফিরে যান আর আশা নিয়ে তাকিয়ে থাকেন? কোন ছোট গুনাহকে আপনি আর গুনাহ বলেই ডাকেন না? আয়াতটি কাউকে ঘৃণা করতে বলে না। বলে একটা জিনিস ছেড়ে দিতে, আর ছেড়েই থাকতে।",
+    "pointsEn": [
+      "What do I keep returning to, expecting from it what only Allah can give?",
+      "Which sin have I stopped calling a sin simply because it became familiar?",
+      "Have I left something once and then drifted quietly back towards it, and what would keeping my distance look like this week?",
+      "When I give up a wrong, do I also give up the routines and company that walk me back to it?",
+      "Does my leaving of a wrong ever turn into contempt for people who have not yet left it?"
+    ],
+    "pointsBn": [
+      "কোন জিনিসের কাছে আমি বারবার ফিরে যাই, আর তার কাছে এমন কিছু আশা করি যা কেবল আল্লাহই দিতে পারেন?",
+      "কোন গুনাহকে আমি আর গুনাহ বলি না, শুধু এ কারণে যে সেটা চেনা হয়ে গেছে?",
+      "কোনো কিছু একবার ছেড়ে দিয়ে কি আবার চুপিচুপি তার দিকেই সরে গেছি? এ সপ্তাহে দূরত্ব বজায় রাখা আমার জন্য দেখতে কেমন হবে?",
+      "কোনো অন্যায় ছাড়ার সময় কি সেই অভ্যাস আর সঙ্গগুলোও ছাড়ি, যারা আমাকে আবার সেদিকে টেনে নেয়?",
+      "আমার অন্যায় ছেড়ে দেওয়া কি কখনো তাদের প্রতি অবজ্ঞায় বদলে যায়, যারা এখনো ছাড়তে পারেনি?"
+    ],
+    "lessonEn": "Forsaking what ruins is a distance kept, not a single step: leave idols, sins and whatever leads to punishment, and keep on leaving them.",
+    "lessonBn": "ধ্বংসকর জিনিস বর্জন একবারের পদক্ষেপ নয়, বরং সব সময় দূরত্ব রাখা: মূর্তি, গুনাহ আর আজাবের দিকে নেওয়া সবকিছু ছাড়ুন, আর ছেড়েই থাকুন।"
   }
 };
 

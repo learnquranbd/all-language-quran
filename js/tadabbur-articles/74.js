@@ -155,6 +155,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "74:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Named First, Then Left",
+          "bn": "আগে নাম, তারপর বর্জন"
+        },
+        "p": [
+          {
+            "en": "Wa-r-rujza fa-hjur: and the rujz, forsake it. The verse is two words in Arabic, as is each verse before it, and it shares the shape of 74:3 and 74:4: the thing is named first, then comes fa- and the command. The verb is from hajr, leaving. Al-Qurtubi glosses it with a plainer word, fa-truk, so leave it. Al-Baghawi, reporting the early interpreters, adds a second step: forsake it and do not go near it.",
+            "bn": "ওয়ার রুজযা ফাহজুর: আর রুজয, তা বর্জন করো। আগের প্রতিটি আয়াতের মতো এটিও আরবিতে দুই শব্দের। গড়ন ৭৪:৩ ও ৭৪:৪-এর মতো: আগে জিনিসটির নাম, তারপর 'ফা' আর আদেশ। ক্রিয়াটি এসেছে হাজর থেকে, যার মানে ছেড়ে যাওয়া। কুরতুবী একে আরও সহজ শব্দে বোঝান: ফাতরুক, অর্থাৎ ছেড়ে দাও। বাগাভী প্রথম যুগের মুফাসসিরদের কথা তুলে আরেক ধাপ যোগ করেন: তা বর্জন করো এবং তার কাছেও যেয়ো না।"
+          },
+          {
+            "en": "The Muyassar gives the command a length of time. Its gloss is dum 'ala hajr: keep up the forsaking of idols, false gods and every act of shirk, and do not come near them. As-Sa'di, on the idols reading, widens it in another direction: leave them and declare yourself free of them, and of every word and deed ascribed to them. In these commentaries, then, the verb names a distance held, a keeping clear and a disowning.",
+            "bn": "মুয়াসসার আদেশটিকে সময়ের দৈর্ঘ্য দেয়। তার ব্যাখ্যা হলো: দুম আলা হাজর, অর্থাৎ মূর্তি, মিথ্যা দেবতা আর শিরকের সব কাজ বর্জন করে যেতেই থাকো, সেগুলোর কাছে যেয়ো না। সা'দী মূর্তি অর্থ ধরে আদেশটিকে আরেক দিকে প্রসারিত করেন। সেগুলো ছেড়ে দাও, সেগুলো থেকে নিজের সম্পর্কহীনতা ঘোষণা করো, আর সেগুলোর নামে চালানো প্রতিটি কথা ও কাজ থেকেও। তাহলে এসব তাফসীরে ক্রিয়াটি বোঝায় দূরত্ব বজায় রাখা, এড়িয়ে চলা আর সম্পর্ক অস্বীকার করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Passage Stopped",
+          "bn": "যেখানে এসে থামল অংশটি"
+        },
+        "p": [
+          {
+            "en": "The story of how these opening verses came down is told at 74:1. One wording of it, not quoted there, ends exactly on this verse. Al-Bukhari records (Sahih al-Bukhari 4925): Narrated Jabir bin Abdullah: I heard the Prophet ﷺ describing the period of pause of the Divine Inspiration. He said in his talk, \"While I was walking, I heard voices from the sky. I looked up, and behold! I saw the same Angel who came to me in the cave of Hira' sitting on a chair between the sky and the earth.",
+            "bn": "সূরার শুরুর এ আয়াতগুলো কীভাবে নাজিল হলো, সে ঘটনা ৭৪:১-এ বলা হয়েছে। তার একটি বর্ণনা সেখানে উদ্ধৃত হয়নি, আর সেটি ঠিক এই আয়াতে এসে শেষ হয়। বুখারী বর্ণনা করেন (সহীহ বুখারী ৪৯২৫): জাবির ইবন আবদুল্লাহ (রাঃ) বলেন, আমি নবী ﷺ-কে ওহি বন্ধ থাকার সময়টির বর্ণনা দিতে শুনেছি। কথার মধ্যে তিনি বললেন: \"আমি হাঁটছিলাম, এমন সময় আকাশ থেকে আওয়াজ শুনলাম। মাথা তুলে তাকালাম, আর দেখি! হেরা গুহায় যে ফেরেশতা আমার কাছে এসেছিলেন, তিনিই আকাশ ও পৃথিবীর মাঝে একটি কুরসিতে বসে আছেন।"
+          },
+          {
+            "en": "I was too much afraid of him (so I returned to my house) and said, 'Fold me up in garments!' They wrapped me up. Then Allah revealed: 'O you wrapped...and desert the idols before the prayer became compulsory.' Rujz means idols.\" Al-Bukhari placed the report in his Sahih. In its Arabic, the quotation runs from 74:1 to 74:5, and two remarks follow it, set off from the verses: before the prayer was made obligatory, and it is the idols.",
+            "bn": "তাঁকে দেখে আমি ভীষণ ভয় পেলাম (তাই ঘরে ফিরে গেলাম) এবং বললাম, 'আমাকে কাপড়ে জড়িয়ে দাও!' তারা আমাকে জড়িয়ে দিল। তখন আল্লাহ নাজিল করলেন: 'হে বস্ত্রাবৃত... আর মূর্তি বর্জন করো', নামাজ ফরজ হওয়ার আগে। রুজয মানে মূর্তি।\" বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে রেখেছেন। এর আরবি পাঠে উদ্ধৃতি চলে ৭৪:১ থেকে ৭৪:৫ পর্যন্ত। তারপর আয়াতগুলো থেকে আলাদা করে দুটি মন্তব্য আসে: নামাজ ফরজ হওয়ার আগে, আর সেটি হলো মূর্তি।"
+          },
+          {
+            "en": "So in this wording the command to forsake the rujz closes the passage that broke the silence, and it came before the prayer was made obligatory. The wording does not say whose the gloss is; in the wording quoted at 74:1 it is given as Abu Salama's, the narrator from Jabir. Apart from this report on the occasion of the opening verses, none of the commentaries read for this verse attaches a hadith to its meaning.",
+            "bn": "তাহলে এ বর্ণনায় রুজয বর্জনের আদেশ দিয়েই শেষ হয় নীরবতা ভাঙা অংশটি, আর তা এসেছিল নামাজ ফরজ হওয়ার আগে। ব্যাখ্যামূলক কথাটি কার, এ বর্ণনা তা বলে না। ৭৪:১-এ উদ্ধৃত বর্ণনায় একে আবু সালামার কথা বলা হয়েছে, যিনি জাবির (রাঃ) থেকে বর্ণনাকারী। শুরুর আয়াতগুলোর প্রেক্ষাপটের এ বর্ণনা ছাড়া, এ আয়াতের জন্য পড়া কোনো তাফসীর এর অর্থের সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Damma or a Kasra",
+          "bn": "পেশ, নাকি যের"
+        },
+        "p": [
+          {
+            "en": "The first letter of the word is read two ways. At-Tabari reports that some readers of Madina and most readers of Kufa read ar-rijz, with a kasra under the ra', while some readers of Makka and Madina read ar-rujz, with a damma. Al-Baghawi names those who read the damma: Abu Ja'far, Hafs from Asim, and Ya'qub; the others, he says, read the kasra. Al-Qurtubi calls the kasra the reading of the generality, and names al-Hasan, Ikrima, Mujahid, Ibn Muhaysin and Hafs from Asim as reading the damma.",
+            "bn": "শব্দটির প্রথম অক্ষর দুইভাবে পড়া হয়। তাবারী জানান, মদীনার কিছু কারী আর কুফার অধিকাংশ কারী পড়েছেন আর-রিজয, রা অক্ষরের নিচে যের দিয়ে। আর মক্কা ও মদীনার কিছু কারী পড়েছেন আর-রুজয, পেশ দিয়ে। বাগাভী পেশের কারীদের নাম বলেন: আবু জাফর, আসিম থেকে হাফস, আর ইয়াকুব। বাকিরা, তাঁর ভাষায়, যের দিয়ে পড়েছেন। কুরতুবীর মতে যেরই সাধারণ কারীদের পাঠ। পেশ দিয়ে পড়েছেন বলে তিনি নাম নেন হাসান, ইকরিমা, মুজাহিদ, ইবন মুহাইসিন আর আসিম থেকে হাফসের।"
+          },
+          {
+            "en": "The Arabic printed with this verse has the damma, ar-rujz, the reading both al-Baghawi and al-Qurtubi assign to Hafs from Asim. Their lists of the other names differ, but on Hafs they agree. Ma'arif al-Qur'an adds: the letters may be read as rujz or rijz, and in either case the word has the same significance. Not everyone the commentators cite agreed with that last point.",
+            "bn": "এ আয়াতের সঙ্গে ছাপা আরবি পাঠে আছে পেশ, আর-রুজয। বাগাভী ও কুরতুবী দুজনেই এ পাঠকে আসিম থেকে হাফসের পাঠ বলেছেন। অন্য নামগুলোর তালিকায় তাঁদের মিল নেই, তবে হাফসের ব্যাপারে দুজনেই একমত। মাআরিফুল কুরআন যোগ করে: অক্ষরগুলো রুজয বা রিজয দুইভাবেই পড়া যায়, আর দুই ক্ষেত্রেই শব্দের অর্থ একই। তবে তাফসীরকারেরা যাঁদের কথা উদ্ধৃত করেন, তাঁদের সবাই এই শেষ কথাটির সঙ্গে একমত ছিলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Sense or Two",
+          "bn": "অর্থ এক, নাকি দুই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives his own judgement plainly. Both are known readings, and whichever one a reader follows, he is right. The damma and the kasra, he says, are two dialects with one meaning; he found none of the early interpreters drawing a distinction between their senses, and the distinction, as far as it reached him, was made by al-Kisa'i. Al-Baghawi agrees: two dialects, and their meaning is one. Al-Qurtubi says the same and offers a parallel pair of vowelings for comparison, dhikr and dhukr.",
+            "bn": "তাবারী নিজের রায় স্পষ্ট করে দেন। দুটিই পরিচিত পাঠ, যে যেটি পড়ুক, ঠিকই পড়ছে। তাঁর মতে পেশ আর যের দুটি আঞ্চলিক রূপ, অর্থ একটাই। প্রথম যুগের মুফাসসিরদের কাউকে তিনি এ দুইয়ের অর্থে পার্থক্য করতে পাননি। তাঁর কাছে যতদূর পৌঁছেছে, পার্থক্যটা করেছেন কিসাঈ। বাগাভীও একমত: দুটি আঞ্চলিক রূপ, অর্থ একই। কুরতুবীও তা-ই বলেন, আর তুলনার জন্য একই রকম আরেক জোড়া উচ্চারণের উদাহরণ দেন: যিকর ও যুকর।"
+          },
+          {
+            "en": "At-Tabari also sets out how those who separated the readings understood them: whoever read the damma took the word to mean the idols, so forsake their worship and leave their service; whoever read the kasra took it to mean punishment, so forsake the deeds that earn you punishment. Al-Qurtubi and al-Baghawi relay from Abu al-Aliya and ar-Rabi' that rujz is the idol and rijz is filth and sin. Al-Qurtubi adds al-Kisa'i to that view, and gives a second statement from him: rujz the idol, rijz the punishment.",
+            "bn": "যাঁরা দুই পাঠে পার্থক্য করেছেন, তাঁরা কীভাবে বুঝেছেন, তাবারী তা-ও তুলে ধরেন। পেশ দিয়ে যিনি পড়েছেন, তিনি শব্দটিকে মূর্তি অর্থে নিয়েছেন: মূর্তির উপাসনা বর্জন করো, তাদের সেবা ছেড়ে দাও। যের দিয়ে যিনি পড়েছেন, তিনি একে আজাব অর্থে নিয়েছেন: যেসব কাজ তোমার ওপর আজাব ডেকে আনে, তা বর্জন করো। কুরতুবী ও বাগাভী আবুল আলিয়া ও রাবী থেকে বর্ণনা করেন, রুজয হলো মূর্তি আর রিজয হলো অপবিত্রতা ও গুনাহ। কুরতুবী এ মতের সঙ্গে কিসাঈর নামও যোগ করেন, আর তাঁর আরেকটি কথাও আনেন: রুজয মূর্তি, রিজয আজাব।"
+          },
+          {
+            "en": "Al-Qurtubi also records from as-Suddi a third voweling, ar-rajz with a fatha, glossed as al-wa'id, the threat. So the question is left as the sources leave it. At-Tabari, al-Baghawi, al-Qurtubi and Ma'arif al-Qur'an hold that the two readings share one meaning. Abu al-Aliya, ar-Rabi' and al-Kisa'i, as these commentators report them, gave each reading its own sense. The meanings themselves, idols, sin and punishment, were debated by the early interpreters without tying them to a reading, as the next three sections show.",
+            "bn": "কুরতুবী সুদ্দী থেকে তৃতীয় একটি উচ্চারণও উল্লেখ করেন: যবর দিয়ে আর-রাজয, যার ব্যাখ্যা আল-ওয়াঈদ, অর্থাৎ হুমকি। তাহলে উৎসগুলো প্রশ্নটিকে যেভাবে রেখেছে, এখানেও সেভাবেই থাকুক। তাবারী, বাগাভী, কুরতুবী আর মাআরিফুল কুরআনের মতে দুই পাঠের অর্থ একই। আর এ তাফসীরকারদের বর্ণনা অনুযায়ী আবুল আলিয়া, রাবী ও কিসাঈ প্রতিটি পাঠকে আলাদা অর্থ দিয়েছেন। মূর্তি, গুনাহ আর আজাব, এই অর্থগুলো নিয়ে প্রথম যুগের মুফাসসিরদের আলোচনা অবশ্য পাঠের পার্থক্যের ওপর নির্ভর করেনি। পরের তিনটি অংশে তা দেখা যাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Stones by the House",
+          "bn": "কাবার পাশে দুটি পাথর"
+        },
+        "p": [
+          {
+            "en": "The most often cited meaning is the idols. Ibn Kathir opens with Ali bin Abi Talha from Ibn Abbas: ar-rujz is the idols, so forsake them. In at-Tabari's chain through Ali the words are fuller: as-sukht, the displeasure, and it is the idols. Ibn Kathir then lists Mujahid, Ikrima, Qatada, az-Zuhri and Ibn Zayd as saying it is the awthan, the idols. Al-Baghawi repeats the list and adds Abu Salama to it.",
+            "bn": "সবচেয়ে বেশি যে অর্থ উদ্ধৃত হয়েছে, তা হলো মূর্তি। ইবন কাসীর শুরু করেন আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা দিয়ে: আর-রুজয মানে মূর্তি, তাই সেগুলো বর্জন করো। তাবারীর সনদে, আলীর মাধ্যমে, কথাটি আরও পূর্ণ: আস-সুখত, অর্থাৎ অসন্তুষ্টি, আর তা হলো মূর্তি। এরপর ইবন কাসীর মুজাহিদ, ইকরিমা, কাতাদা, যুহরী ও ইবন যায়দের নাম নেন। তাঁদের সবার মতে এ হলো আওসান, মানে মূর্তি। বাগাভী একই তালিকা দেন, আর তাতে আবু সালামার নাম যোগ করেন।"
+          },
+          {
+            "en": "Qatada, in at-Tabari, gives the idols names. Ar-rujz, he says, means Isaf and Na'ila, two idols that stood by the House; whoever came upon them would wipe their faces. Allah commanded His Prophet ﷺ to avoid them and keep apart from them. Al-Qurtubi relays the same two names from Qatada. Ibn Zayd's wording is broader: ar-rujz was their gods which they used to worship. The command, in his words, was to forsake them, so that he would not come to them and not draw near them.",
+            "bn": "তাবারীর বর্ণনায় কাতাদা মূর্তিগুলোর নাম বলে দেন। তাঁর মতে আর-রুজয হলো ইসাফ ও নাইলা, কাবাঘরের পাশে থাকা দুটি মূর্তি। যে-ই সেখানে আসত, সে তাদের মুখে হাত বুলিয়ে নিত। আল্লাহ তাঁর নবী ﷺ-কে আদেশ করলেন সেগুলো এড়িয়ে চলতে, সেগুলো থেকে আলাদা থাকতে। কুরতুবীও কাতাদা থেকে এই দুটি নামই বর্ণনা করেন। ইবন যায়দের কথা আরও ব্যাপক: আর-রুজয হলো তাদের সেই উপাস্যরা, যাদের তারা পূজা করত। তাঁর ভাষায় আদেশটি ছিল সেগুলো বর্জন করার, যাতে তিনি সেগুলোর কাছে না যান, ধারেকাছেও না ঘেঁষেন।"
+          },
+          {
+            "en": "Two commentators tie this meaning to 22:30, so shun the rijs of idols. Al-Qurtubi gives that verse as the proof for the idols reading. Al-Baghawi records, as something said, that the za' in rujz has replaced a sin, since the Arabs interchange the two letters because their points of articulation are close; on that view rujz and rijs are one word, and 22:30 is the evidence. Al-Baghawi does not name who held it, so it stands here as he gives it, an unnamed view.",
+            "bn": "দুজন তাফসীরকার এ অর্থকে ২২:৩০-এর সঙ্গে যুক্ত করেন: সুতরাং মূর্তির অপবিত্রতা (রিজস) থেকে দূরে থাকো। কুরতুবী মূর্তি অর্থের দলিল হিসেবে এ আয়াতটি আনেন। বাগাভী 'বলা হয়েছে' বলে একটি মত উল্লেখ করেন: রুজযের যা অক্ষরটি আসলে সীন অক্ষরের জায়গায় বসেছে। উচ্চারণের জায়গা কাছাকাছি বলে আরবরা এ দুটি অক্ষর একটির বদলে অন্যটি ব্যবহার করে। এ মতে রুজয আর রিজস একই শব্দ, আর ২২:৩০ তার দলিল। মতটি কার, বাগাভী তা বলেননি। তাই এখানেও সেটি তাঁর দেওয়া রূপেই থাকল, নামহীন একটি মত হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sin, Small and Great",
+          "bn": "ছোট-বড় সব গুনাহ"
+        },
+        "p": [
+          {
+            "en": "A second group read ar-rujz as sin. At-Tabari carries from Ibrahim, whom al-Qurtubi names as an-Nakha'i: it is al-ithm, sin. From ad-Dahhak he carries: forsake disobedience, and Ibn Kathir pairs the two, Ibrahim and ad-Dahhak, under the gloss leave disobedience. Al-Baghawi reports ad-Dahhak differently, as saying it means shirk. Ibn Abbas, too, appears on this side in a second report: al-Qurtubi gives from him and forsake al-ma'tham, the wrongdoing, and al-Baghawi, with the words it is narrated, gives from him: leave the sins.",
+            "bn": "আরেক দল আর-রুজয বুঝেছেন গুনাহ অর্থে। তাবারী ইবরাহীম থেকে বর্ণনা করেন, কুরতুবী যাঁকে নাখঈ বলে চিনিয়ে দেন: এ হলো আল-ইসম, গুনাহ। দাহহাক থেকে তাবারী আনেন: নাফরমানি বর্জন করো। ইবন কাসীর ইবরাহীম ও দাহহাক দুজনকে একসঙ্গে রাখেন এই ব্যাখ্যার অধীনে: নাফরমানি ছেড়ে দাও। বাগাভী অবশ্য দাহহাকের কথা ভিন্নভাবে আনেন: এর মানে শিরক। ইবন আব্বাস (রাঃ)-ও আরেক বর্ণনায় এ পক্ষে আছেন। কুরতুবী তাঁর থেকে আনেন: আর আল-মা'সাম, অর্থাৎ অন্যায়, বর্জন করো। বাগাভী 'বর্ণিত আছে' বলে তাঁর থেকে আনেন: গুনাহগুলো ছেড়ে দাও।"
+          },
+          {
+            "en": "As-Sa'di keeps both meanings open with the phrase it is possible. It may mean the idols worshipped alongside Allah, so that the command is to leave them and be free of them. Or it may mean every evil deed and word, so that it is a command to leave sins, small and great, outward and inward, and that takes in shirk and whatever is below it. Ma'arif al-Qur'an likewise pairs them: the verse enjoins giving up idols or sins.",
+            "bn": "সা'দী 'হতে পারে' কথাটি দিয়ে শব্দটির দুটি অর্থই খোলা রাখেন। এর মানে হতে পারে আল্লাহর সঙ্গে যাদের পূজা হতো সেই মূর্তি, তখন আদেশ হলো সেগুলো ছেড়ে দেওয়া আর সেগুলো থেকে সম্পর্কহীন থাকা। অথবা এর মানে হতে পারে সব মন্দ কাজ ও মন্দ কথা। তখন আদেশ হলো ছোট-বড়, প্রকাশ্য-গোপন সব গুনাহ ছেড়ে দেওয়া, যার মধ্যে শিরকও আছে, তার চেয়ে ছোট গুনাহও আছে। মাআরিফুল কুরআনও দুটি অর্থ পাশাপাশি রাখে: আয়াতটি মূর্তি অথবা গুনাহ ছেড়ে দেওয়ার আদেশ দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named After Where It Leads",
+          "bn": "যেখানে নিয়ে যায়, সে নামেই"
+        },
+        "p": [
+          {
+            "en": "A third meaning reads ar-rujz as punishment. Al-Qurtubi gives it as something said, with a word understood before it: the deeds of punishment forsake, that is, whatever leads to punishment. The root sense of rujz, he says, is punishment, and he cites two verses. In 7:134 Pharaoh's people say: if you remove the rijz from us, we will surely believe you. In 7:162 Allah says: so We sent upon them a rijz from the sky. Then he joins the meanings: the idols were called rujz because they lead to punishment.",
+            "bn": "তৃতীয় এক অর্থে আর-রুজয হলো আজাব। কুরতুবী এটিকে 'বলা হয়েছে' বলে আনেন, আর ধরে নেন যে আগে একটি শব্দ উহ্য আছে: আজাবের কাজগুলো বর্জন করো, অর্থাৎ যা কিছু আজাবের দিকে নিয়ে যায়। তাঁর মতে রুজয শব্দের মূল অর্থ আজাব, আর এর পক্ষে তিনি দুটি আয়াত আনেন। ৭:১৩৪-এ ফেরাউনের লোকেরা বলে: তুমি যদি আমাদের ওপর থেকে রিজয সরিয়ে দাও, আমরা অবশ্যই তোমার কথা মানব। ৭:১৬২-এ আল্লাহ বলেন: তাই আমি তাদের ওপর আকাশ থেকে রিজয পাঠালাম। তারপর তিনি অর্থগুলো মিলিয়ে দেন: মূর্তিকে রুজয বলা হয়েছে, কারণ তা আজাবের দিকে নিয়ে যায়।"
+          },
+          {
+            "en": "Al-Baghawi names al-Kalbi for this meaning, and spells out how it runs: forsake the deeds that make punishment due to you. At-Tabari, as seen above, gives it as the sense taken by those who separated the kasra reading. On this reading the verse does not name a thing to avoid so much as a direction to avoid: whatever road ends in punishment. The idols and the sins of the other two readings are the clearest such roads, and that is how al-Qurtubi's last line holds the meanings together.",
+            "bn": "বাগাভী এ অর্থের জন্য কালবীর নাম নেন, আর অর্থটি কীভাবে দাঁড়ায় তা খুলে বলেন: যেসব কাজ তোমার ওপর আজাব অবধারিত করে, সেগুলো বর্জন করো। আগেই দেখা গেছে, যাঁরা যেরের পাঠকে আলাদা অর্থ দিয়েছেন, তাবারীর বর্ণনায় এটি তাঁদের বোঝা অর্থ। এ ব্যাখ্যায় আয়াতটি কোনো নির্দিষ্ট জিনিসের নাম নেয় না, বরং এড়িয়ে চলার একটা দিক দেখায়: যে পথের শেষে আজাব, সেই পথ। অন্য দুই ব্যাখ্যার মূর্তি আর গুনাহ এমন পথেরই সবচেয়ে স্পষ্ট নমুনা। কুরতুবীর শেষ বাক্যটি এভাবেই অর্থগুলোকে এক সুতোয় বাঁধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said to Him, Meant for Many",
+          "bn": "তাঁকে বলা, সবার জন্য"
+        },
+        "p": [
+          {
+            "en": "The command is addressed to the Prophet ﷺ, and the commentators are careful about what follows from that. Ibn Kathir says that on every reading of the word it does not follow that he was involved in any of it. He compares two other commands: 33:1, O Prophet, fear Allah and do not obey the disbelievers and the hypocrites; and 7:142, where Musa (AS) tells his brother Harun (AS) to take his place among his people, set things right, and not follow the way of the corrupters.",
+            "bn": "আদেশটি নবী ﷺ-কে করা হয়েছে, আর এ থেকে কী বোঝা যায়, সে ব্যাপারে তাফসীরকারেরা সতর্ক। ইবন কাসীর বলেন, শব্দটির যে অর্থই নেওয়া হোক, এ থেকে প্রমাণ হয় না যে তিনি এর কোনোটিতে জড়িত ছিলেন। তুলনার জন্য তিনি আরও দুটি আদেশ আনেন। ৩৩:১-এ বলা হয়েছে: হে নবী, আল্লাহকে ভয় করো, আর কাফির ও মুনাফিকদের কথা মেনো না। আর ৭:১৪২-এ মূসা (আঃ) তাঁর ভাই হারূন (আঃ)-কে বলেন, আমার সম্প্রদায়ের মধ্যে আমার স্থলাভিষিক্ত হও, সংশোধন করো, আর বিপর্যয় সৃষ্টিকারীদের পথ অনুসরণ কোরো না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an puts it in its own words: the Holy Prophet never indulged in idolatry at any time in his life, and he is commanded, for emphasis, to abstain from it in future as he kept away from it in the past. In actual fact, it adds, the command is directed to the idolaters, so that they may realise how much abstaining from idol-worship matters, since the Prophet ﷺ, sinless as he was, is told to shun all filth, idols and sins alike. So the verse is both a call to hold fast and a message for all who hear it.",
+            "bn": "মাআরিফুল কুরআন নিজের ভাষায় একই কথা বলে: জীবনের কোনো সময়েই নবী ﷺ মূর্তিপূজায় লিপ্ত হননি। অতীতে যেমন দূরে ছিলেন, ভবিষ্যতেও যেন দূরে থাকেন, জোর দেওয়ার জন্যই তাঁকে এ আদেশ দেওয়া হয়েছে। সে আরও বলে, প্রকৃতপক্ষে আদেশটি মুশরিকদের উদ্দেশে, যাতে তারা বোঝে মূর্তিপূজা থেকে দূরে থাকা কতটা জরুরি। কারণ নিষ্পাপ হওয়া সত্ত্বেও নবী ﷺ-কে সব অপবিত্রতা, মূর্তি ও গুনাহ দুটোই, বর্জন করতে বলা হচ্ছে। তাহলে আয়াতটি একদিকে অটল থাকার ডাক, অন্যদিকে যে শোনে তার সবার জন্য বার্তা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Leaving That Lasts",
+          "bn": "যে বর্জন টিকে থাকে"
+        },
+        "p": [
+          {
+            "en": "Qatada names two idols that stood by the House in Makka, and the verse tells the Prophet ﷺ to keep clear of them. That is what the verse describes: a command about what to forsake. It licenses nothing against any living person or community, and gives no one a warrant to harm or despise anyone. Its verb is about what a person leaves, not about whom he attacks. Even as-Sa'di's widest reading turns the command inward, onto the reader's own sins, small and great, outward and inward.",
+            "bn": "কাতাদা মক্কায় কাবার পাশে থাকা দুটি মূর্তির নাম বলেন, আর আয়াতটি নবী ﷺ-কে সেগুলো থেকে দূরে থাকতে বলে। আয়াতটি এটুকুই বর্ণনা করে: কী বর্জন করতে হবে, তার আদেশ। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কাউকে কষ্ট দেওয়া বা তুচ্ছ করার অধিকারও কাউকে দেয় না। এর ক্রিয়া হলো মানুষ নিজে কী ছাড়বে, তা নিয়ে, কাকে আক্রমণ করবে তা নিয়ে নয়। সা'দীর সবচেয়ে ব্যাপক ব্যাখ্যাও আদেশটিকে ভেতরের দিকে ফিরিয়ে দেয়, নিজের ছোট-বড়, প্রকাশ্য-গোপন গুনাহর দিকে।"
+          },
+          {
+            "en": "With its commentaries, the verse leaves a reader three questions. What in my life plays the part of an idol, something I return to and expect from? Which sins have I stopped calling sins? Which roads am I on that end in punishment? And the Muyassar's gloss adds a fourth: having left, am I still leaving? In the report from Jabir this command came at the very start, before the prayer was made obligatory. Forsaking, on that account, was among the first things asked.",
+            "bn": "তাফসীরের সঙ্গে মিলিয়ে পড়লে আয়াতটি পাঠকের সামনে তিনটি প্রশ্ন রাখে। আমার জীবনে কোন জিনিস মূর্তির জায়গা নিয়েছে, যার কাছে বারবার ফিরে যাই আর আশা করি? কোন গুনাহকে আমি আর গুনাহ বলি না? কোন পথে চলছি, যার শেষে আজাব? মুয়াসসারের ব্যাখ্যা চতুর্থ একটি প্রশ্ন যোগ করে: একবার ছেড়ে এসে আমি কি এখনো ছেড়েই আছি? জাবির (রাঃ)-এর বর্ণনায় এ আদেশ এসেছিল একেবারে শুরুতে, নামাজ ফরজ হওয়ারও আগে। সে হিসাবে বর্জন ছিল প্রথম দিকের চাওয়াগুলোর একটি।"
+          }
+        ]
+      }
+    ]
+  },
   "74:11": {
     "sections": [
       {
