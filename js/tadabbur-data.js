@@ -30083,6 +30083,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Before asking for ease, recall how Allah has already widened your heart, and ask Him to open it further to guidance, patience and the truth.",
     "lessonBn": "স্বস্তি চাওয়ার আগে মনে করুন আল্লাহ আপনার হৃদয় কতটা প্রশস্ত করে দিয়েছেন, আর তাঁর কাছে চান তিনি যেন তা হেদায়েত, ধৈর্য ও সত্যের জন্য আরও খুলে দেন।"
+  },
+  "107:4": {
+    "reflectionEn": "Read the two Arabic words on their own and they land like a blow: so woe to those who pray. Not to people who never bow, but to people found in the rows. The sentence does not stop there, though. The next verses say who is meant: those heedless of their prayer, who pray to be seen, and who will not lend the smallest thing. The woe falls on prayer with nothing behind it, a habit kept for an audience, pushed past its time, never reaching the hand that should open afterwards. It is not the stray thought every worshipper knows. So the verse is no stick for measuring the person beside me. It asks what my own prayer carries, and what it leaves out.",
+    "reflectionBn": "আরবি শব্দ দুটি আলাদা করে পড়লে আঘাতের মতো লাগে: অতএব দুর্ভোগ নামাযিদের জন্য। যারা কখনো সিজদা করে না তাদের জন্য নয়, যাদের দেখা যায় কাতারে দাঁড়িয়ে, তাদের জন্য। কিন্তু বাক্য এখানে শেষ হয় না। পরের আয়াতগুলো বলে দেয় কারা উদ্দেশ্য: যারা নিজেদের নামায সম্পর্কে উদাসীন, যারা লোক দেখাতে নামায পড়ে, আর যারা সামান্যতম জিনিসটুকুও ধার দেয় না। দুর্ভোগ সেই নামাযের উপর, যার পেছনে কিছু নেই। দর্শকের জন্য টিকিয়ে রাখা অভ্যাস, ওয়াক্ত পার করে ঠেলে দেওয়া নামায, যা শেষ হওয়ার পর হাত খুলে দেয় না। নামাযে মন হঠাৎ অন্যদিকে চলে যাওয়া, যা প্রত্যেক নামাযি চেনে, সে কথা এখানে বলা হয়নি। তাই পাশের মানুষটিকে মাপার লাঠি এ আয়াত নয়। এ আয়াত জানতে চায়, আমার নিজের নামায কী বহন করছে, আর কী ফেলে রেখে যাচ্ছে।",
+    "pointsEn": [
+      "If no one ever saw me pray, would my prayer look any different from the one people see?",
+      "Which prayer do I most often push to the edge of its time, and what am I usually doing instead?",
+      "Does my prayer change how I answer the neighbour who asks to borrow something small, or does it stay on the mat?",
+      "Do I confuse the stray thought in prayer, which every worshipper knows, with the heedlessness this verse warns of, and so either despair or excuse myself?",
+      "Have I ever looked at someone else's prayer and passed judgement on his heart, when the verse was speaking to mine?"
+    ],
+    "pointsBn": [
+      "কেউ যদি কখনো আমাকে নামায পড়তে না দেখত, তবে কি আমার নামায মানুষের দেখা নামায থেকে আলাদা হতো?",
+      "কোন নামাযটা আমি সবচেয়ে বেশি ওয়াক্তের একেবারে কিনারায় ঠেলে দিই, আর তখন সাধারণত কী নিয়ে ব্যস্ত থাকি?",
+      "প্রতিবেশী ছোটখাটো কিছু ধার চাইলে আমার জবাবে কি নামাযের কোনো ছাপ পড়ে, নাকি নামায জায়নামাযেই পড়ে থাকে?",
+      "নামাযে হঠাৎ মন সরে যাওয়া, যা প্রত্যেক নামাযি জানে, আর এ আয়াত যে উদাসীনতার ব্যাপারে সতর্ক করে, এ দুটোকে কি আমি গুলিয়ে ফেলি? তারপর হয় হতাশ হই, নয়তো নিজেকে ছাড় দিই?",
+      "অন্য কারও নামায দেখে কি আমি কখনো তার অন্তরের রায় দিয়ে ফেলেছি, অথচ আয়াতটি কথা বলছিল আমার অন্তরের সঙ্গে?"
+    ],
+    "lessonEn": "The woe here is not for the worshipper whose mind wanders, but for prayer kept for show, pushed out of its time, and never reaching the hand that should help others.",
+    "lessonBn": "এখানকার দুর্ভোগ সেই নামাযির জন্য নয় যার মন মাঝে মাঝে সরে যায়। তা সেই নামাযের জন্য, যা লোক দেখানো, ওয়াক্ত পার করে পড়া, আর যা অন্যকে সাহায্য করার হাত পর্যন্ত কখনো পৌঁছায় না।"
   }
 };
 
