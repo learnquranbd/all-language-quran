@@ -30163,6 +30163,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The earth that carries you will one day shake, give up what it holds and report what was done on it, so walk on it as on a witness.",
     "lessonBn": "যে মাটি আজ আপনাকে বয়ে বেড়াচ্ছে, একদিন সে কেঁপে উঠবে, ভেতরের সব বের করে দেবে আর তার উপর যা করা হয়েছে তার খবর দেবে। তাই সাক্ষীর উপর যেভাবে হাঁটতে হয়, তার উপর সেভাবেই হাঁটুন।"
+  },
+  "109:4": {
+    "reflectionEn": "The surah has already said it once: I do not worship what you worship. Now it says it again, and the shape of the sentence changes. Not a verb this time but a noun: nor am I a worshipper of what you have worshipped. A refusal made once can be reopened tomorrow. This line makes it part of who the speaker is. Its first hearers were particular people in a particular hour, and the verse gives no one a licence over anyone living. What it hands the reader is a question. Is my no to what I know is wrong a decision I keep making again, or has it become who I am? And do I guard how I worship as carefully as whom?",
+    "reflectionBn": "সূরা একবার কথাটা বলেই ফেলেছে: তোমরা যার ইবাদত করো, আমি তার ইবাদত করি না। এবার আবার বলছে, তবে বাক্যের গড়ন বদলে গেছে। ক্রিয়ার জায়গায় এসেছে বিশেষ্য: তোমরা যার ইবাদত করে এসেছ, আমি তার ইবাদতকারী নই। একবারের অস্বীকার কাল আবার খুলে বসা যায়। এই আয়াত অস্বীকারটাকে বক্তার পরিচয়ের অংশ করে দেয়। প্রথম যারা শুনেছিল, তারা ছিল নির্দিষ্ট মানুষ, নির্দিষ্ট এক সময়ের। আজকের কোনো জীবিত মানুষের বিরুদ্ধে এ আয়াত কাউকে কোনো অধিকার দেয় না। পাঠকের হাতে সে দেয় একটা প্রশ্ন। যা অন্যায় বলে জানি, তাকে আমার না বলা কি এমন সিদ্ধান্ত, যা প্রতিদিন নতুন করে নিতে হয়? নাকি সেটা আমার পরিচয় হয়ে গেছে? আর কার ইবাদত করি, সেটা যেমন আগলে রাখি, কীভাবে করি, সেটাও কি তেমন করে আগলে রাখি?",
+    "pointsEn": [
+      "Which refusal do I keep negotiating with myself, as if it were still an open question?",
+      "Is there a habit I have left in practice but not yet in my heart, so that it could quietly return?",
+      "Do I measure how I worship against what was taught, or only make sure of whom I worship?",
+      "When I repeat a commitment to myself, is it to strengthen it, or because I never truly settled it?",
+      "Do I read lines like these as a mirror for my own resolve, or as words to aim at other people?"
+    ],
+    "pointsBn": [
+      "কোন অস্বীকারটা নিয়ে আমি নিজের সঙ্গে এখনো দরদাম করি, যেন প্রশ্নটার মীমাংসা এখনো হয়নি?",
+      "এমন কোনো অভ্যাস কি আছে, যা কাজে ছেড়েছি কিন্তু মন থেকে এখনো ছাড়িনি, ফলে চুপিচুপি আবার ফিরে আসতে পারে?",
+      "কীভাবে ইবাদত করি, তা কি শেখানো পথের সঙ্গে মিলিয়ে দেখি, নাকি শুধু কার ইবাদত করি সেটুকুই নিশ্চিত করি?",
+      "নিজের কাছে কোনো অঙ্গীকার বারবার দোহরাই যখন, সেটা কি তাকে মজবুত করতে, নাকি কখনো পাকাপাকি ঠিক করিনি বলে?",
+      "এমন আয়াত কি আমি নিজের সংকল্পের আয়না হিসেবে পড়ি, নাকি অন্য মানুষের দিকে ছুড়ে দেওয়ার কথা হিসেবে?"
+    ],
+    "lessonEn": "Let your refusal of what Allah forbids become part of who you are rather than a choice reopened each day, and worship Him in the way He taught.",
+    "lessonBn": "আল্লাহ যা নিষেধ করেছেন, তাকে না বলাটা প্রতিদিন নতুন করে নেওয়া সিদ্ধান্ত না রেখে নিজের পরিচয়ের অংশ করে নিন, আর তাঁর ইবাদত করুন তাঁরই শেখানো পথে।"
   }
 };
 

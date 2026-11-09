@@ -162,5 +162,173 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "109:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Noun Where the Verb Stood",
+          "bn": "ক্রিয়ার জায়গায় বিশেষ্য"
+        },
+        "p": [
+          {
+            "en": "Wa la ana 'abidun ma 'abadtum: nor am I a worshipper of what you have worshipped. Set beside 109:2, la a'budu ma ta'budun, the line changes in two places. Where 109:2 has a present verb, a'budu, I worship, this verse has the pronoun ana and the active participle 'abid, worshipper, so the refusal now rests on a noun. And where 109:2 has ta'budun, you worship, this verse has 'abadtum, a past tense: what you have worshipped.",
+            "bn": "ওয়ালা আনা আবিদুম মা আবাদতুম: তোমরা যার ইবাদত করে এসেছ, আমি তার ইবাদতকারী নই। ১০৯:২ আয়াতের পাশে রাখলে দুই জায়গায় বদল চোখে পড়ে। সেখানে ছিল বর্তমান কালের ক্রিয়া, আ'বুদু, আমি ইবাদত করি। এখানে এসেছে সর্বনাম আনা আর কর্তাবাচক শব্দ আবিদ, ইবাদতকারী। অস্বীকারটা তাই এবার দাঁড়িয়েছে একটা বিশেষ্যের উপর। আর সেখানে ছিল তা'বুদূন, তোমরা ইবাদত করো। এখানে আবাদতুম, অতীত কাল: তোমরা যার ইবাদত করে এসেছ।"
+          },
+          {
+            "en": "The commentators gloss this verse briefly. Al-Muyassar gives the plain sense: nor am I a worshipper of what you worshipped of idols and false gods. At-Tabari puts the two words in time: 'abid, in what lies ahead of me, and 'abadtum, in what has passed. Al-Qurtubi calls the verse a denial that he worships what they worshipped in the past. Al-Baghawi marks it in two words, fi al-istiqbal, of the future.",
+            "bn": "এ আয়াতে তাফসীরকারেরা অল্প কথা বলেন। মুয়াসসার সোজা অর্থটা দেয়: মূর্তি আর বাতিল উপাস্যের মধ্যে তোমরা যাদের ইবাদত করেছ, আমি তাদের ইবাদতকারী নই। তাবারী শব্দ দুটিকে সময়ের ঘরে বসান। আবিদ মানে আমার সামনের দিনগুলোতে, আর আবাদতুম মানে যা পেরিয়ে গেছে তাতে। কুরতুবীর কাছে আয়াতটি অস্বীকার করে যে, অতীতে তারা যার ইবাদত করেছে তিনি তার ইবাদত করেন। বাগাভী দুই শব্দেই সেরে নেন: ফিল ইসতিকবাল, ভবিষ্যতের কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ahead of Me, Behind You",
+          "bn": "আমার সামনে, তোমাদের পেছনে"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi spreads the tense reading across the surah: 109:2 and 109:3 are fi al-hal, of the present, and 109:4 and 109:5 fi al-istiqbal, of the future. Al-Qurtubi relays the same division from al-Akhfash and al-Mubarrad. I do not worship at this hour what you worship, nor do you at this hour worship what I worship; then, nor will I in the future worship what you worshipped, nor will you in the future worship what I worship.",
+            "bn": "সময় ধরে পড়ার এই রীতি বাগাভী গোটা সূরায় বিছিয়ে দেন। ১০৯:২ ও ১০৯:৩ ফিল হাল, বর্তমানের কথা। ১০৯:৪ ও ১০৯:৫ ফিল ইসতিকবাল, ভবিষ্যতের কথা। কুরতুবী একই ভাগ বর্ণনা করেন আখফাশ ও মুবাররাদ থেকে। এই মুহূর্তে তোমরা যার ইবাদত করো, আমি তার ইবাদত করি না। এই মুহূর্তে আমি যার ইবাদত করি, তোমরাও তার ইবাদত করো না। এরপর: তোমরা যার ইবাদত করেছ, ভবিষ্যতেও আমি তার ইবাদত করব না, আর আমি যার ইবাদত করি, ভবিষ্যতে তোমরাও তার ইবাদত করবে না।"
+          },
+          {
+            "en": "Ibn Kathir, closing the surah, quotes al-Bukhari reporting what others said: I do not worship what you worship now, and I will not answer you in what remains of my life. Summing up, though, Ibn Kathir labels this view past and future, as al-Bukhari and other commentators related it: the first pair past, the second future. Ma'arif al-Qur'an calls the same view present and future, and reports that Ashraf Thanawi preferred it in Bayan ul-Qur'an.",
+            "bn": "সূরার শেষে ইবন কাসীর বুখারীর একটি উদ্ধৃতি আনেন, যেখানে বুখারী অন্যদের কথা জানান: তোমরা যার ইবাদত করো, এখন আমি তার ইবাদত করি না, আর জীবনের বাকি সময়েও তোমাদের ডাকে সাড়া দেব না। অথচ মতগুলো গুছিয়ে বলার সময় ইবন কাসীর একে অতীত ও ভবিষ্যতের মত বলেন। বুখারী ও অন্য মুফাসসিররা যেমন বর্ণনা করেছেন, প্রথম জোড়া অতীতের, দ্বিতীয় জোড়া ভবিষ্যতের। মাআরিফুল কুরআন একই মতকে বলে বর্তমান ও ভবিষ্যৎ, আর জানায় যে আশরাফ থানভী বায়ানুল কুরআনে এ মতকেই প্রাধান্য দিয়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi notices where the pairing is uneven. Exact mirrors would have 109:5 say ma 'abadtu, what I worshipped, to answer ma 'abadtum here; it says ma a'budu. He reads the turn as a sign that He who was worshipped in the past is He who is worshipped in the future, adding that past and future can stand in each other's place, most often in what Allah reports. So the past tense falls only on their side.",
+            "bn": "এরপর কুরতুবী লক্ষ করেন, জোড়াটা কোথায় অসমান। আয়াতগুলো হুবহু একে অপরের প্রতিচ্ছবি হলে এখানকার মা আবাদতুমের জবাবে ১০৯:৫ আয়াতে থাকত মা আবাদতু, আমি যার ইবাদত করেছি। কিন্তু সেখানে আছে মা আ'বুদু। কুরতুবীর ব্যাখ্যায় এই বাঁক জানিয়ে দেয়, অতীতে যাঁর ইবাদত হয়েছে, ভবিষ্যতেও ইবাদত হবে তাঁরই। তিনি যোগ করেন, অতীত আর ভবিষ্যৎ একে অপরের জায়গা নিতে পারে, আর তা বেশি ঘটে আল্লাহর দেওয়া সংবাদে। ফলে অতীত কাল পড়েছে কেবল ওদের দিকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Idols Set Aside Yesterday",
+          "bn": "গতকালের ফেলে দেওয়া মূর্তি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays another reading, under qila, it has been said, which takes the past tense of 'abadtum at its word. They used to worship idols, it runs, and when they wearied of an idol they discarded it and took up another by their own desire. If they passed stones that pleased them, they threw these down and raised those, setting them up as gods to worship.",
+            "bn": "কুরতুবী আরেকটি ব্যাখ্যা আনেন কীলা, বলা হয়েছে, এই শব্দে। এ ব্যাখ্যা আবাদতুমের অতীত কালকে আক্ষরিক অর্থেই ধরে। তারা মূর্তির পূজা করত। কোনো মূর্তিতে বিরক্ত হলে সেটা ফেলে দিত। তারপর মনের খেয়ালে আরেকটা ধরত। পথে চোখে লাগার মতো পাথর পেলে আগেরগুলো ফেলে নতুনগুলো তুলে নিত। সেগুলোকে খাড়া করে উপাস্য বানিয়ে তাদের ইবাদত শুরু করত।"
+          },
+          {
+            "en": "On this reading the two lines name two sets of idols. La a'budu ma ta'budun means: I do not worship what you worship today, these gods now before you. Wa la ana 'abidun ma 'abadtum then means: nor what you worshipped bi-l-ams, yesterday, the gods you discarded when you turned to these. The refusal reaches the old gods as well as the new. Al-Qurtubi gives the view with qila and does not adopt it as his own.",
+            "bn": "এ ব্যাখ্যায় দুই আয়াত দুই দল মূর্তির কথা বলে। লা আ'বুদু মা তা'বুদূনের অর্থ: আজ তোমরা যার ইবাদত করো, তোমাদের সামনে রাখা এই উপাস্যদের, আমি তাদের ইবাদত করি না। আর ওয়ালা আনা আবিদুম মা আবাদতুমের অর্থ: বিল আমস, গতকাল তোমরা যাদের ইবাদত করেছ, এদের দিকে ঝোঁকার সময় যাদের ফেলে দিয়েছ, আমি তাদেরও ইবাদতকারী নই। অস্বীকার তাই পুরোনো ও নতুন দুই দলকেই ছুঁয়ে যায়। কুরতুবী মতটি এনেছেন কীলা দিয়ে, নিজের মত বলে গ্রহণ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Whom Alone, but How",
+          "bn": "শুধু কার নয়, কীভাবেও"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the pairs by object and by manner. Of 109:3 he says that ma there carries the sense of man, who, since the One worshipped is Allah alone. At this verse he gives the other sense: I do not worship your worship, la a'budu 'ibadatakum. I do not walk in it, he explains, and I do not follow it; I worship Allah only in the way He loves and is pleased with, 'ala al-wajh alladhi yuhibbuhu wa yardahu.",
+            "bn": "ইবন কাসীর জোড়া দুটিকে পড়েন একটিকে উপাস্য দিয়ে, অন্যটিকে ইবাদতের ধরন দিয়ে। ১০৯:৩ আয়াত সম্পর্কে তিনি বলেন, সেখানে মা শব্দটি মান অর্থে, অর্থাৎ যিনি, কারণ উপাস্য তো একমাত্র আল্লাহ। এ আয়াতে তিনি অন্য অর্থটি দেন: তোমাদের ইবাদতের মতো ইবাদত আমি করি না, লা আ'বুদু ইবাদাতাকুম। তাঁর ব্যাখ্যায়, আমি সে পথে চলি না, তার অনুসরণও করি না। আমি আল্লাহর ইবাদত করি কেবল সেভাবে, যেভাবে তিনি ভালোবাসেন ও যাতে তিনি সন্তুষ্ট।"
+          },
+          {
+            "en": "Of 109:5 he gives the matching sense: you do not follow Allah's commands and His law in worshipping Him, but have invented something of your own accord, and he cites 53:23. The disavowal, he concludes, covers all they were in. Every worshipper must have one he worships and a way of worship he travels to Him, so the Messenger ﷺ and those who follow him worship Allah by what He has laid down.",
+            "bn": "১০৯:৫ আয়াতে তিনি এর জোড়া অর্থটি দেন। আল্লাহর ইবাদতে তোমরা তাঁর আদেশ আর তাঁর দেওয়া বিধান মানো না, বরং নিজেদের মন থেকে কিছু একটা বানিয়ে নিয়েছ। এখানে তিনি ৫৩:২৩ আয়াত আনেন। তাঁর সিদ্ধান্ত, তারা যা কিছুতে ছিল, সবকিছু থেকেই এই সম্পর্কচ্ছেদ। প্রত্যেক ইবাদতকারীর একজন উপাস্য থাকতে হয়, আর থাকতে হয় তাঁর কাছে পৌঁছানোর একটা ইবাদতের পথ। তাই রাসূল ﷺ ও তাঁর অনুসারীরা আল্লাহর ইবাদত করেন তাঁরই দেওয়া বিধান মেনে।"
+          },
+          {
+            "en": "From this Ibn Kathir reads the testimony of Islam: none is worshipped but Allah, and there is no path to Him except what the Messenger ﷺ brought. Al-Qurtubi records a close reading under qila, taking ma as masdariyya: I do not worship with the like of your worship, and you do not worship with the like of mine, which is tawhid. As-Sa'di, at 109:3, puts the other side bluntly: their worship of Allah, joined with shirk, is not called worship at all.",
+            "bn": "এখান থেকেই ইবন কাসীর ইসলামের সাক্ষ্যবাক্য পড়েন: আল্লাহ ছাড়া কোনো উপাস্য নেই, আর রাসূল ﷺ যা নিয়ে এসেছেন তা ছাড়া তাঁর কাছে পৌঁছানোর কোনো পথ নেই। কুরতুবী কীলা দিয়ে কাছাকাছি একটি ব্যাখ্যা আনেন, যেখানে মা মাসদারিয়্যা। অর্থ দাঁড়ায়: তোমাদের ইবাদতের মতো ইবাদত আমি করি না, আর আমার ইবাদতের মতো ইবাদত তোমরা করো না, যে ইবাদত হলো তাওহীদ। সা'দী ১০৯:৩ আয়াতে অন্য দিকটা সোজাসুজি বলেন। শিরকের সঙ্গে মেশানো আল্লাহর ইবাদতকে ইবাদতই বলা হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said Again Because Asked Again",
+          "bn": "বারবার প্রস্তাব, বারবার জবাব"
+        },
+        "p": [
+          {
+            "en": "Other views ask why the line repeats at all. Al-Qurtubi, at 109:2, relays from Ibn 'Abbas (RA) the account of Quraysh's offer that each side worship the other's deity for a year, and draws his conclusion from it: the repetition came because the people repeated their proposal to him time after time. He adds two views under qila: that it was repeated for taghliz, to make the refusal severe, and the present and future reading given above.",
+            "bn": "অন্য কিছু ব্যাখ্যা প্রশ্ন তোলে, আয়াতটি আদৌ ফিরে আসে কেন। কুরতুবী ১০৯:২ আয়াতে ইবন আব্বাস (রাঃ) থেকে কুরাইশের সেই প্রস্তাবের বিবরণ আনেন, যেখানে প্রত্যেক পক্ষ এক বছর অন্য পক্ষের উপাস্যের ইবাদত করবে। সেখান থেকেই তিনি সিদ্ধান্ত টানেন: লোকেরা বারবার তাঁর কাছে একই প্রস্তাব নিয়ে এসেছিল, তাই কথাও বারবার এসেছে। কীলা দিয়ে তিনি আরও দুটি মত যোগ করেন। এক, কঠোরতা বোঝাতে, তাগলীযের জন্য পুনরাবৃত্তি। দুই, বর্তমান ও ভবিষ্যতের সেই ব্যাখ্যা, যা আগে বলা হয়েছে।"
+          },
+          {
+            "en": "Al-Baghawi gives a related view from al-Qutabi, that is, Ibn Qutayba: the speech repeats because the time repeats. They had said, he reports, that if it pleased him they would enter his religion for a year, provided he entered theirs for a year, and the surah came down. Al-Baghawi also reports, from most scholars of meaning, that the Qur'an came in the Arabs' tongue, whose ways include repetition for emphasis and understanding, just as they include brevity for ease.",
+            "bn": "বাগাভী কাছাকাছি একটি মত আনেন কুতাবী, অর্থাৎ ইবন কুতাইবা থেকে: সময় ফিরে ফিরে আসে বলে কথাও ফিরে ফিরে আসে। বাগাভীর বর্ণনায় তারা বলেছিল, আপনি চাইলে আমরা এক বছর আপনার দ্বীনে ঢুকব, শর্ত হলো আপনি এক বছর আমাদের দ্বীনে ঢুকবেন। তখন সূরাটি নাযিল হয়। বাগাভী অধিকাংশ ভাষাবিদের মতও জানান। কুরআন নাযিল হয়েছে আরবদের ভাষায়। জোর দিতে আর ভালো করে বোঝাতে কথা দোহরানো তাদের রীতি, ঠিক যেমন সহজ করতে সংক্ষেপে বলাও তাদের রীতি।"
+          },
+          {
+            "en": "Ibn Kathir names a third view, pure emphasis, ta'kid mahd. He reports that Ibn Jarir relayed it from some scholars of Arabic, and at-Tabari's own text bears this out, citing 94:5 and 94:6, and 102:6 and 102:7, as parallels. Ibn Kathir adds that some, Ibn al-Jawzi among them, relayed it from Ibn Qutayba. So one name stands behind two explanations in these sources: al-Baghawi ties Ibn Qutayba to repeated time, Ibn Kathir's report to emphasis. The article sets both down as given.",
+            "bn": "ইবন কাসীর তৃতীয় একটি মতের নাম দেন: নিছক জোর দেওয়া, তা'কীদ মাহদ। তিনি জানান, ইবন জারীর এটি কিছু আরবি ভাষাবিদ থেকে বর্ণনা করেছেন। তাবারীর নিজের লেখাতেও তা আছে, যেখানে উদাহরণ হিসেবে এসেছে ৯৪:৫ ও ৯৪:৬, আর ১০২:৬ ও ১০২:৭। ইবন কাসীর আরও বলেন, ইবনুল জাওযীসহ কেউ কেউ মতটি ইবন কুতাইবা থেকে বর্ণনা করেছেন। ফলে এই উৎসগুলোতে একই নামের পেছনে দুই ব্যাখ্যা দাঁড়ায়। বাগাভী ইবন কুতাইবাকে জুড়েছেন সময়ের পুনরাবৃত্তির সঙ্গে, ইবন কাসীরের বর্ণনা জুড়েছে জোর দেওয়ার সঙ্গে। এ লেখা দুটোকেই যেমন পাওয়া গেছে তেমন রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Refusing the Very Possibility",
+          "bn": "সম্ভাবনাটুকুও নাকচ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir then records a fourth view, which he says Abu al-'Abbas ibn Taymiyya supported in some of his books, and it turns on the noun this verse brings in. La a'budu ma ta'budun negates the act, since it is a verbal sentence. Wa la ana 'abidun ma 'abadtum negates his accepting it at all, because negation by a nominal sentence is stronger. The meaning is a denial that it happens and also that it is possible in the religion, nafy al-imkan ash-shar'i.",
+            "bn": "এরপর ইবন কাসীর চতুর্থ একটি মত উল্লেখ করেন। তাঁর ভাষায়, আবুল আব্বাস ইবন তাইমিয়া তাঁর কোনো কোনো বইয়ে এ মতের পক্ষ নিয়েছেন। মতটি ঘোরে এ আয়াতের নতুন বিশেষ্যটিকে ঘিরে। লা আ'বুদু মা তা'বুদূন ক্রিয়াভিত্তিক বাক্য, তাই তা কাজটিকে নাকচ করে। ওয়ালা আনা আবিদুম মা আবাদতুম কাজটি মেনে নেওয়াকেই পুরোপুরি নাকচ করে, কারণ বিশেষ্যভিত্তিক বাক্যে না বলা বেশি জোরালো। অর্থ দাঁড়ায়, কাজটি ঘটেও না, দ্বীনে তার সম্ভাবনাও নেই: নাফয়ুল ইমকান আশ শার'ঈ।"
+          },
+          {
+            "en": "Ibn Kathir calls this a good view too, and closes with Allah knows best. As-Sa'di reaches a near distinction on the other side of the pairing. At 109:3, and again at 109:5, he says the statement was repeated so that the first shows the act does not exist, and the second that it has become a lasting trait, wasf lazim. Those comments sit on the lines about the listeners; the fetched text of as-Sa'di has nothing filed at this verse.",
+            "bn": "ইবন কাসীর একেও ভালো মত বলেন, তারপর শেষ করেন আল্লাহই ভালো জানেন বলে। জোড়ার অন্য দিকে সা'দী কাছাকাছি একটি পার্থক্য টানেন। ১০৯:৩ আয়াতে, আবার ১০৯:৫ আয়াতে তিনি বলেন, কথাটি দুবার এসেছে যাতে প্রথমবার বোঝায় কাজটির অস্তিত্ব নেই, আর দ্বিতীয়বার বোঝায় তা স্থায়ী স্বভাবে পরিণত হয়েছে, ওয়াসফ লাযিম। তাঁর এ মন্তব্য শ্রোতাদের নিয়ে বলা আয়াতগুলোর উপর। এ আয়াতে সা'দীর যে লেখা পাওয়া গেছে, তাতে কিছুই নেই।"
+          },
+          {
+            "en": "At-Tabari reaches permanence through the hearers. The address, he says, concerned particular persons whom Allah knew would never believe, so the Prophet ﷺ was told to make them despair of what they had hoped for, and to tell them it would not come from him or from them fi waqtin min al-awqat, at any time at all. His gloss on 'abid, in what lies ahead of me, carries that never.",
+            "bn": "তাবারী স্থায়িত্বে পৌঁছান শ্রোতাদের পথ ধরে। তাঁর কথায়, সম্বোধনটি ছিল নির্দিষ্ট কিছু মানুষের প্রতি, আল্লাহ জানতেন তারা কখনো ঈমান আনবে না। তাই নবী ﷺ-কে আদেশ করা হলো, যে আশা তারা করেছিল, তা থেকে তাদের নিরাশ করে দিতে। জানিয়ে দিতে যে এমন কিছু তাঁর দিক থেকেও ঘটবে না, তাদের দিক থেকেও না, ফী ওয়াকতিম মিনাল আওকাত, কোনো সময়েই না। আবিদ শব্দের যে ব্যাখ্যা তিনি দেন, আমার সামনের দিনগুলোতে, তার ভেতরেই আছে এই কখনো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Din and My Din",
+          "bn": "তোমাদের দ্বীন, আমার দ্বীন"
+        },
+        "p": [
+          {
+            "en": "The surah closes in 109:6: lakum dinukum wa liya din, for you is your religion and for me is mine. Ibn Kathir sets it beside 10:41, for me are my deeds and for you are your deeds, and 28:55, ours are our deeds and yours are your deeds. He quotes al-Bukhari: lakum dinukum, disbelief, wa liya din, Islam, with al-Bukhari's note that the word is din and not dini because the verses end in nun, as in 26:78 and 26:80.",
+            "bn": "সূরা শেষ হয় ১০৯:৬ আয়াতে: লাকুম দীনুকুম ওয়ালিয়া দীন, তোমাদের জন্য তোমাদের দ্বীন, আমার জন্য আমার দ্বীন। ইবন কাসীর এর পাশে রাখেন ১০:৪১ আয়াত, আমার কাজ আমার, তোমাদের কাজ তোমাদের। আর রাখেন ২৮:৫৫ আয়াত, আমাদের আমল আমাদের, তোমাদের আমল তোমাদের। তিনি বুখারীর কথা উদ্ধৃত করেন: লাকুম দীনুকুম মানে কুফর, ওয়ালিয়া দীন মানে ইসলাম। বুখারী এও বলেন, শব্দটা দীনী না হয়ে দীন হয়েছে, কারণ আয়াতগুলোর শেষ নূন দিয়ে, যেমন ২৬:৭৮ ও ২৬:৮০ আয়াতে।"
+          },
+          {
+            "en": "Al-Baghawi glosses it the same way: yours is shirk, and mine is Islam. Al-Qurtubi hears a threat in it, ma'na at-tahdid, like 28:55: if you are content with your religion, we are content with ours. He also gives din as recompense: yours is the recompense of your religion, and mine of mine, since din can mean jaza'. Ma'arif al-Qur'an reports that Bayan ul-Qur'an also takes din as jaza', and so differs there from al-Bukhari's gloss.",
+            "bn": "বাগাভীর ব্যাখ্যাও একই: তোমাদেরটা শিরক, আমারটা ইসলাম। কুরতুবী এতে হুমকির সুর শোনেন, মা'নাত তাহদীদ, ২৮:৫৫ আয়াতের মতো। তোমরা নিজেদের দ্বীনে খুশি থাকলে আমরাও আমাদের দ্বীনে খুশি। তিনি দ্বীনের আরেক অর্থও দেন, প্রতিদান। তোমাদের জন্য তোমাদের দ্বীনের প্রতিদান, আমার জন্য আমার দ্বীনের প্রতিদান, কারণ দ্বীন শব্দের এক অর্থ জাযা। মাআরিফুল কুরআন জানায়, বায়ানুল কুরআনও দ্বীনকে জাযা অর্থে নিয়েছে, আর এখানে বুখারীর ব্যাখ্যা থেকে আলাদা হয়েছে।"
+          },
+          {
+            "en": "At-Tabari reads permanence here too. Yours is your religion, which you will never leave, for it has been sealed upon you and decreed that you die on it; mine is the religion I am on, which I will never leave, since it preceded in Allah's knowledge that I would not move from it to another. As-Sa'di says the verse marks off the two parties and separates the two groups, citing 17:84, each acts according to his own way, and 10:41.",
+            "bn": "তাবারী এখানেও স্থায়িত্বই পড়েন। তোমাদের দ্বীন তোমাদের, তা তোমরা কখনো ছাড়বে না, কারণ তোমাদের উপর মোহর পড়ে গেছে, ফয়সালা হয়ে গেছে যে তোমরা এর উপরেই মরবে। আমার দ্বীন, যার উপর আমি আছি, তা আমি কখনো ছাড়ব না, কারণ আল্লাহর জ্ঞানে আগেই স্থির হয়ে আছে যে আমি তা ছেড়ে অন্য কিছুতে যাব না। সা'দী বলেন, আয়াতটি দুই পক্ষকে আলাদা করে দেয়, দুই দলের মাঝে সীমা টেনে দেয়। এখানে তিনি আনেন ১৭:৮৪, প্রত্যেকে নিজ নিজ ধরনে কাজ করে, আর ১০:৪১ আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abrogated, or a Plain Statement",
+          "bn": "মানসুখ, নাকি নিছক সংবাদ"
+        },
+        "p": [
+          {
+            "en": "Whether 109:6 still stands as a ruling is itself disputed in these sources. Al-Qurtubi writes that the verse came before the command to fight and was abrogated by ayat as-sayf, the verse of the sword. He then records two further views under qila: that the whole surah is abrogated, and that nothing in it is abrogated, because it is khabar, a statement.",
+            "bn": "১০৯:৬ আয়াতের বিধান এখনো বহাল কি না, তা নিয়েই এই উৎসগুলোতে মতভেদ আছে। কুরতুবী লেখেন, আয়াতটি এসেছিল যুদ্ধের আদেশের আগে, পরে আয়াতুস সাইফ, তরবারির আয়াত দিয়ে তা মানসুখ হয়েছে। এরপর তিনি কীলা দিয়ে আরও দুটি মত উল্লেখ করেন। একটি মতে গোটা সূরাই মানসুখ। আরেকটি মতে এর কিছুই মানসুখ হয়নি, কারণ এটি খবর, একটি সংবাদ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reports that some commentators held the surah abrogated, arguing from 109:6 that it appears to conflict with the rulings of jihad. It answers that the verse neither guarantees nor permits their disbelief, but means what 28:55 means, and it calls non-abrogation the correct position, held by the majority of scholars. The article records the disagreement with its holders and takes no side.",
+            "bn": "মাআরিফুল কুরআন জানায়, কিছু তাফসীরকার সূরাটিকে মানসুখ মনে করেছেন। তাঁদের যুক্তি ১০৯:৬ আয়াত, যা বাহ্যত জিহাদের বিধানের সঙ্গে মেলে না বলে তাঁরা ধরেছেন। মাআরিফুল কুরআনের জবাব, আয়াতটি তাদের কুফরের নিশ্চয়তাও দেয় না, অনুমতিও দেয় না। এর অর্থ ২৮:৫৫ আয়াতের অর্থের মতো। সূরাটি মানসুখ নয়, এটাকেই সে বলে সঠিক মত, যা অধিকাংশ আলেমের। এ লেখা মতভেদটি তার ধারকদের নামসহ তুলে রাখছে, কোনো পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words Kept to Their Hearers",
+          "bn": "যাদের শোনানো, কথা তাদেরই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: words the Messenger ﷺ was commanded to say to particular people of his own time, whom at-Tabari calls persons Allah knew would never believe. It licenses nothing against any living person or community, and the dispute over abrogation reported above records what commentators wrote, not a ruling drawn here for anyone today. No fetched commentary attaches a hadith to this verse's own wording.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। এ ছিল রাসূল ﷺ-কে দেওয়া আদেশ, তাঁর সময়ের নির্দিষ্ট কিছু মানুষকে কথাগুলো শোনানোর। তাবারীর ভাষায় তারা এমন লোক, যাদের সম্পর্কে আল্লাহ জানতেন তারা কখনো ঈমান আনবে না। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। উপরে মানসুখ হওয়া নিয়ে যে মতভেদের কথা এসেছে, তা তাফসীরকারদের লেখার বিবরণ মাত্র, আজকের কারও জন্য এখান থেকে টানা কোনো বিধান নয়। এ আয়াতের নিজস্ব শব্দের সঙ্গে কোনো হাদীস জুড়ে দেয়নি সংগৃহীত কোনো তাফসীর।"
+          },
+          {
+            "en": "What follows is this article's own reading, not a commentator's. The verse turns a refusal from something done into something one is: not I do not, but I am not one who does. A reader can put that to themselves without looking at anyone else. Which of my refusals are still decisions I make afresh each time, and which have become who I am? And Ibn Kathir's pairing leaves a second question: whether I guard the way I worship, by what was taught, as closely as whom I worship.",
+            "bn": "এরপরের কথা এ লেখার নিজস্ব পাঠ, কোনো তাফসীরকারের নয়। আয়াতটি অস্বীকারকে একটা কাজ থেকে বদলে দেয় পরিচয়ে। আমি করি না, শুধু এটুকু নয়, আমি এমন মানুষই নই যে তা করে। অন্য কারও দিকে না তাকিয়েই পাঠক এ প্রশ্ন নিজেকে করতে পারেন। আমার কোন অস্বীকারগুলো এখনো প্রতিবার নতুন করে নেওয়া সিদ্ধান্ত, আর কোনগুলো আমার পরিচয় হয়ে গেছে? ইবন কাসীরের জোড়া ব্যাখ্যা রেখে যায় আরেকটি প্রশ্ন। কার ইবাদত করি, তা যতটা আগলে রাখি, শেখানো পথ মেনে কীভাবে ইবাদত করি, সেটাও কি ততটা আগলে রাখি?"
+          }
+        ]
+      }
+    ]
   }
 });
