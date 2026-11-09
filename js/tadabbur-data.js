@@ -29605,6 +29605,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Mocking people for their faith is the habit the verse condemns. You were not sent to guard anyone's deeds; tend your own, and bear ridicule for your faith with patience.",
     "lessonBn": "ঈমানের জন্য মানুষকে বিদ্রুপ করা সেই অভ্যাস, যার নিন্দা আয়াতটি করে। কারও আমল পাহারা দিতে আপনাকে পাঠানো হয়নি। নিজের আমলের যত্ন নিন, আর ঈমানের জন্য বিদ্রুপ সইতে হলে সবরের সঙ্গে সয়ে নিন।"
+  },
+  "86:4": {
+    "reflectionEn": "An oath by the sky and by the star that comes at night, and then six Arabic words answer it: there is no soul but that it has over it a guardian. No soul is left out, not the powerful and not the forgotten. The commentators read the guardian in more than one way: angels who keep a record of what a soul does, angels who shield it from harm until what is decreed arrives, and behind every means, Allah, who keeps all things. Each reading tells me the same thing: I am never unattended. Nothing I do goes unwritten, and nothing reaches me that was not let through. Do I live as someone watched over, or as someone who imagines being alone?",
+    "reflectionBn": "আসমানের শপথ, রাতে আসা নক্ষত্রের শপথ। তারপর ছয়টি আরবি শব্দে তার জবাব: এমন কোনো প্রাণ নেই, যার উপর একজন হেফাজতকারী নেই। কেউ বাদ পড়েনি, ক্ষমতাবানও না, যাকে কেউ মনে রাখে না সেও না। তাফসীরকারেরা এই হেফাজতকারীকে একাধিকভাবে বুঝেছেন। কেউ বলেছেন, ফেরেশতারা প্রাণের প্রতিটি আমল লিখে রাখেন। কেউ বলেছেন, ফেরেশতারা তাকে বিপদ থেকে আগলে রাখেন, যতক্ষণ না তাকদীরের লেখা এসে পৌঁছায়। আর সব উপায়ের পেছনে আছেন আল্লাহ, যিনি সবকিছুর রক্ষক। প্রতিটি ব্যাখ্যা আমাকে একই কথা শোনায়: আমি কখনো একা পড়ে নেই। আমার কোনো কাজ লেখার বাইরে থাকে না, আর অনুমতি ছাড়া কিছুই আমার কাছে পৌঁছায় না। আমি কি পাহারায় থাকা মানুষের মতো বাঁচি, নাকি এমনভাবে, যেন আমি একেবারে একা?",
+    "pointsEn": [
+      "If I truly believed that every word and deed of today is being kept, what would I have said or done differently?",
+      "When I am alone and no one can see me, which habit do I allow myself that I would hide in company?",
+      "Have I ever thanked Allah for the harms that never reached me, the ones I did not even know were coming?",
+      "When something painful does reach me, can I hold that it came by decree, and not because I was left unguarded?",
+      "Do I lean on my own caution as if it were my keeper, or on the One who stands behind every means?"
+    ],
+    "pointsBn": [
+      "আজকের প্রতিটি কথা আর কাজ সংরক্ষিত হচ্ছে, এ কথা সত্যিই বিশ্বাস করলে আমি কোন কথাটা বলতাম না, কোন কাজটা অন্যভাবে করতাম?",
+      "একা থাকলে, যখন কেউ দেখছে না, কোন অভ্যাসকে আমি প্রশ্রয় দিই, যা লোকের সামনে লুকিয়ে রাখি?",
+      "যে বিপদগুলো আমার কাছে পৌঁছায়নি, যেগুলো আসছিল বলে আমি জানতামও না, সেগুলোর জন্য কি কখনো আল্লাহর শোকর আদায় করেছি?",
+      "কষ্টের কিছু যখন সত্যিই এসে পড়ে, তখন কি মনে রাখতে পারি যে তা তাকদীর অনুযায়ী এসেছে, আমাকে অরক্ষিত ফেলে রাখা হয়েছিল বলে নয়?",
+      "আমি কি নিজের সাবধানতাকেই রক্ষক ভেবে তার উপর ভর করি, নাকি সেই সত্তার উপর, যিনি সব উপায়ের পেছনে আছেন?"
+    ],
+    "lessonEn": "Every soul has a guardian over it from Allah, keeping its deeds and shielding it until the decree; live as one watched over, never as one left alone.",
+    "lessonBn": "প্রতিটি প্রাণের উপর আল্লাহর পক্ষ থেকে একজন হেফাজতকারী আছেন, যিনি তার আমল সংরক্ষণ করেন এবং তাকদীর আসা পর্যন্ত তাকে আগলে রাখেন। তাই নিজেকে কখনো একা ভাববেন না, পাহারায় থাকা মানুষের মতো বাঁচুন।"
   }
 };
 

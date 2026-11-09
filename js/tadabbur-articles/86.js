@@ -11,6 +11,158 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "86:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "Answer to a Night Oath",
+          "bn": "রাতের শপথের জবাব"
+        },
+        "p": [
+          {
+            "en": "In kullu nafsin lamma 'alayha hafiz: there is no soul but that it has over it a guardian. The verse is six Arabic words, and it arrives after three verses of oath. Allah swears by the sky and by at-tariq, asks what at-tariq is, and answers: an-najm ath-thaqib, the piercing star. Only then comes the sentence the oath was sworn for. Al-Baghawi and as-Sa'di both name this verse as the thing sworn to, and Ma'arif al-Qur'an calls it the subject of the oath.",
+            "bn": "ইন কুল্লু নাফসিল লাম্মা আলাইহা হাফিয: এমন কোনো প্রাণ নেই, যার উপর একজন হেফাজতকারী নেই। আয়াতটি মাত্র ছয়টি আরবি শব্দ, আর এটি আসে তিনটি আয়াত জুড়ে শপথের পরে। আল্লাহ শপথ করেন আসমানের, আর আত-তারিকের। তারপর প্রশ্ন করেন, আত-তারিক কী? নিজেই জবাব দেন: আন-নাজমুস সাকিব, ভেদকারী নক্ষত্র। এরপরই আসে সেই বাক্য, যার জন্য শপথ। বাগাভী আর সা'দী দুজনেই এ আয়াতকে শপথের জবাব বলেছেন। মাআরিফুল কুরআনও একে শপথের বিষয়বস্তু বলে চিহ্নিত করে।"
+          },
+          {
+            "en": "Al-Qurtubi opens the verse with Qatada's gloss and then says plainly that this is the answer of the oath. He records a second view with the words it was said: that the answer comes later, in 86:8, innahu 'ala raj'ihi la-qadir, He is able to bring him back, a view he attributes to at-Tirmidhi, Muhammad ibn 'Ali. Either way, the guardian over every soul sits inside the surah's argument, which moves from the night sky to the soul, and from there to man's beginning and his return.",
+            "bn": "কুরতুবী আয়াতের আলোচনা শুরু করেন কাতাদার ব্যাখ্যা দিয়ে। তারপর স্পষ্ট বলেন, এটিই শপথের জবাব। এরপর 'বলা হয়েছে' বলে আরেকটি মত উল্লেখ করেন: জবাব আসলে পরে, ৮৬:৮ আয়াতে, ইন্নাহু আলা রাজইহি লাকাদির, তিনি তাকে ফিরিয়ে আনতে সক্ষম। এই মতটি তিনি তিরমিযী, অর্থাৎ মুহাম্মাদ ইবন আলীর বলে উল্লেখ করেন। যে মতই ধরা হোক, প্রতিটি প্রাণের উপর হেফাজতকারীর কথা সূরার মূল যুক্তির ভেতরেই আছে। সে যুক্তি রাতের আকাশ থেকে নেমে আসে প্রাণের কাছে, তারপর মানুষের শুরু আর তার ফিরে যাওয়ার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Who Knocks at Night",
+          "bn": "রাতে যে কড়া নাড়ে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains the oath: our Lord swore by the sky and by at-tariq, that which comes by night from among the shining stars and is hidden by day, and whatever comes by night has done tarq. He cites Qatada: a visitor that comes by night and hides by day. Ad-Dahhak says simply, the star. Al-Qurtubi adds, from al-Mawardi, that the root t-r-q means to knock, which is why a hammer is a mitraqa: the night visitor was named for the knock he must make to be let in.",
+            "bn": "তাবারী শপথটি খুলে বলেন: আমাদের রব শপথ করেছেন আসমানের, আর আত-তারিকের। তারিক হলো উজ্জ্বল নক্ষত্রের মধ্যে যা রাতে আসে আর দিনে লুকিয়ে থাকে। রাতে যে-ই আসে, আরবিতে সে 'তারাকা' করেছে। তিনি কাতাদার কথা আনেন: রাতে আসা এক আগন্তুক, যে দিনে লুকিয়ে যায়। দাহহাক সংক্ষেপে বলেন, তারিক মানে নক্ষত্র। কুরতুবী মাওয়ারদী থেকে যোগ করেন, ত-র-ক ধাতুর মূল অর্থ ঠোকা। এ জন্যই হাতুড়িকে বলে মিতরাকা। রাতের আগন্তুককে ঘরে ঢুকতে কড়া নাড়তে হয়, তাই তার নাম তারিক।"
+          },
+          {
+            "en": "Then ath-thaqib. At-Tabari gives Ibn 'Abbas by two chains: the shining one, and the shining stars, whose thuqub is their giving light. 'Ikrima says: that which pierces. Mujahid says: that which blazes. Qatada says its piercing is its light. Al-Qurtubi defines ath-thaqib as al-mudi', the luminous, and points to shihab thaqib, a piercing flame, and to the Arab saying athqib naraka, make your fire blaze. The Muyassar gathers the three verses into one line: the star that comes at night, the bright, glowing star.",
+            "bn": "এরপর আস-সাকিব। তাবারী দুটি সনদে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনেন: যা আলো দেয়। আরেক বর্ণনায়: উজ্জ্বল নক্ষত্ররাজি, আলো দেওয়াই তাদের ভেদ করা। ইকরিমা বলেন, যা ভেদ করে। মুজাহিদ বলেন, যা জ্বলজ্বল করে। কাতাদার মতে, তার ভেদ করা মানে তার আলো। কুরতুবী আস-সাকিবের অর্থ করেন আল-মুদী, আলো ছড়ানো। উদাহরণ দেন 'শিহাবুন সাকিব' থেকে, ভেদকারী অগ্নিশিখা। আরবরা বলে 'আসকিব নারাকা', তোমার আগুন জ্বালিয়ে তোলো। মুয়াসসার তিনটি আয়াতকে একটি বাক্যে বাঁধে: রাতে আসা নক্ষত্র, উজ্জ্বল ও দীপ্তিমান।"
+          },
+          {
+            "en": "There is a second sense in the word. At-Tabari relays from Ibn Zayd that ath-thaqib is also what has risen above the other stars, since the Arabs say of a bird that climbs to the belly of the sky that it has thaqaba. Al-Qurtubi gives the same usage from al-Farra'. So the star is described by light and by height: it pierces the dark with its brightness, and it stands above. The sky sworn by here is the same sky a reader can look up into on any clear night.",
+            "bn": "শব্দটির আরেকটি অর্থও আছে। তাবারী ইবন যায়দ থেকে বর্ণনা করেন, আস-সাকিব সেই নক্ষত্রও, যা অন্য নক্ষত্রদের ছাড়িয়ে উপরে উঠে গেছে। কারণ কোনো পাখি আকাশের গভীরে উঁচুতে উঠে গেলে আরবরা বলে, সে 'সাকাবা' করেছে। কুরতুবী একই ব্যবহার ফাররা থেকে উল্লেখ করেন। নক্ষত্রটির পরিচয় তাহলে দুই দিক থেকে: আলোয় আর উচ্চতায়। উজ্জ্বলতা দিয়ে সে অন্ধকার ভেদ করে, আর থাকে সবার উপরে। এখানে যে আকাশের শপথ করা হয়েছে, পরিষ্কার যেকোনো রাতে পাঠক সেই আকাশের দিকেই চোখ তুলে তাকাতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saturn, Pleiades, or Every Star",
+          "bn": "শনি, সুরাইয়া, নাকি সব তারা"
+        },
+        "p": [
+          {
+            "en": "Which star is meant? Al-Qurtubi says plainly that the scholars differed. Some said Zuhal, Saturn, which Muhammad ibn al-Hasan mentions in his tafsir along with reports, of which al-Qurtubi says: Allah knows best whether they are sound. Ibn Zayd said the Pleiades, and Saturn is also reported from him, which al-Farra' held as well. From Ibn 'Abbas he reports al-Jady. At-Tabari's text from Ibn Zayd notes that the Arabs used to call the Pleiades simply the star, and adds: it is said the piercing star is Saturn.",
+            "bn": "কোন নক্ষত্রের কথা বলা হচ্ছে? কুরতুবী সোজাসুজি বলেন, আলেমরা এ নিয়ে মতভেদ করেছেন। কেউ বলেছেন যুহাল, অর্থাৎ শনি। মুহাম্মাদ ইবনুল হাসান তাঁর তাফসীরে এ মত কিছু বর্ণনাসহ এনেছেন। সেগুলো সম্পর্কে কুরতুবীর মন্তব্য: সেগুলো সহীহ কি না, আল্লাহই ভালো জানেন। ইবন যায়দ বলেছেন সুরাইয়া, অর্থাৎ কৃত্তিকা নক্ষত্রপুঞ্জ। তাঁর থেকে শনির কথাও বর্ণিত আছে, ফাররাও তাই বলেছেন। ইবন আব্বাস (রাঃ) থেকে কুরতুবী আল-জাদির কথা আনেন। তাবারীতে ইবন যায়দের বর্ণনায় আছে, আরবরা সুরাইয়াকে শুধু 'নক্ষত্র' বলেই ডাকত। সঙ্গে আছে: বলা হয়, ভেদকারী নক্ষত্রটি শনি।"
+          },
+          {
+            "en": "Against these single names stands the general reading. Al-Qurtubi gives Qatada's view that the word covers all the stars, because they all rise by night, and he reports that al-Qushayri and most scholars take at-tariq and ath-thaqib as names for a kind, meant for every star, in line with what he cites from Mujahid. At-Tabari's own opening already speaks of the shining stars in the plural. These positions are reported here as the commentators give them. The fetched texts settle no single star, and this article does not either.",
+            "bn": "এই একক নামগুলোর বিপরীতে আছে ব্যাপক অর্থের মত। কুরতুবী কাতাদার মত আনেন: শব্দটি সব নক্ষত্রকেই বোঝায়, কারণ সবাই রাতে উদিত হয়। তিনি আরও জানান, কুশাইরী এবং অধিকাংশ আলেম আত-তারিক আর আস-সাকিবকে জাতিবাচক নাম হিসেবে নিয়েছেন। এর দ্বারা উদ্দেশ্য সব নক্ষত্র, মুজাহিদ থেকে তিনি যা এনেছেন তার সাথেও এটি মেলে। তাবারী নিজের ব্যাখ্যার শুরুতেই বহুবচনে উজ্জ্বল নক্ষত্ররাজির কথা বলেছেন। মতগুলো এখানে রাখা হলো তাফসীরকারেরা যেভাবে দিয়েছেন সেভাবে। যে তাফসীরগুলো দেখা হয়েছে, সেগুলো কোনো একটি নক্ষত্রকে চূড়ান্ত করে না। এ লেখাও করছে না।"
+          },
+          {
+            "en": "One more strand connects the star to the unseen. Al-Qurtubi reports from Ibn 'Abbas and 'Ata' that ath-thaqib is the star with which the devils are pelted, and Ibn Kathir gives 'Ikrima's gloss: it gives light and it burns the devil. Al-Qurtubi also relays, through Abu Salih from Ibn 'Abbas, a report naming a falling star as the occasion of the surah's revelation. He gives it no grading and no fetched source confirms it, so it is mentioned and not built on here.",
+            "bn": "আরেকটি সূত্র নক্ষত্রকে অদৃশ্য জগতের সাথে জোড়ে। কুরতুবী ইবন আব্বাস (রাঃ) ও আতা থেকে বর্ণনা করেন, আস-সাকিব সেই নক্ষত্র, যা দিয়ে শয়তানদের দিকে নিক্ষেপ করা হয়। ইবন কাসীর ইকরিমার ব্যাখ্যা আনেন: তা আলো দেয়, আর শয়তানকে পোড়ায়। কুরতুবী আবু সালিহের সূত্রে ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনাও আনেন। তাতে সূরাটি নাযিলের উপলক্ষ হিসেবে একটি খসে পড়া নক্ষত্রের কথা আছে। তিনি এর কোনো মান উল্লেখ করেননি, আর দেখা কোনো উৎস তা সমর্থনও করে না। তাই এখানে শুধু উল্লেখ করা হলো, এর উপর কিছু দাঁড় করানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lamma, Doubled or Light",
+          "bn": "লাম্মা, দ্বিত্বসহ না হালকা"
+        },
+        "p": [
+          {
+            "en": "The word lamma is read in two ways, and both are canonical readings. With the mim doubled, lamma, al-Baghawi names Abu Ja'far, Ibn 'Amir, 'Asim and Hamza; al-Qurtubi names Ibn 'Amir, 'Asim and Hamza; at-Tabari names Abu Ja'far of Madina and Hamza of Kufa, and reports that al-Hasan read it so and glossed it as illa 'alayha hafiz. On this reading in is a negative, and lamma means illa, except: there is no soul but that it has a guardian over it. The text printed above carries this reading.",
+            "bn": "লাম্মা শব্দটি দুইভাবে পড়া হয়, আর দুটিই স্বীকৃত কিরাআত। মীমে তাশদীদ দিয়ে 'লাম্মা' পড়েছেন যাঁরা, বাগাভী তাঁদের নাম দেন: আবু জাফর, ইবন আমির, আসিম ও হামযা। কুরতুবী নাম দেন ইবন আমির, আসিম ও হামযার। তাবারী বলেন, মদীনার আবু জাফর আর কূফার হামযা এভাবে পড়েছেন। তিনি আরও জানান, হাসানও এভাবে পড়তেন, আর অর্থ করতেন 'ইল্লা আলাইহা হাফিয'। এই কিরাআতে 'ইন' না-বাচক, আর 'লাম্মা' মানে 'ইল্লা', ছাড়া। অর্থ দাঁড়ায়: এমন কোনো প্রাণ নেই, যার উপর হেফাজতকারী নেই। উপরে ছাপা আয়াতের পাঠ এটিই।"
+          },
+          {
+            "en": "Why should lamma mean except? The commentators answer from the speech of one tribe. Al-Baghawi says it is the dialect of Hudhayl, who use lamma in the sense of illa and say nashadtuka Allaha lamma qumta, meaning: I adjure you by Allah to do nothing but stand. Al-Qurtubi gives the same tribe and the same saying. At-Tabari reports al-Farra' as holding that Hudhayl join lamma to a lightened in in this way, and Ma'arif al-Qur'an calls it an exceptive particle in the dialect of Banu Hudhail.",
+            "bn": "লাম্মা কেন 'ছাড়া' অর্থ দেবে? তাফসীরকারেরা এর জবাব দেন একটি গোত্রের ভাষা থেকে। বাগাভী বলেন, এটি হুযাইল গোত্রের ভাষা। তারা লাম্মাকে ইল্লার অর্থে ব্যবহার করে। তারা বলে, 'নাশাদতুকাল্লাহা লাম্মা কুমতা', অর্থাৎ আল্লাহর দোহাই, তুমি দাঁড়ানো ছাড়া আর কিছু করো না। কুরতুবীও একই গোত্র আর একই বাক্যের উল্লেখ করেন। তাবারী ফাররার মত বর্ণনা করেন: হুযাইল গোত্র হালকা 'ইন'-এর সাথে এভাবে লাম্মা জুড়ে দেয়। মাআরিফুল কুরআনও বলে, বনু হুযাইলের ভাষায় এটি ব্যতিক্রমবাচক অব্যয়।"
+          },
+          {
+            "en": "The other reading is light, lama. At-Tabari names Nafi' of Madina and Abu 'Amr of Basra; al-Qurtubi and al-Baghawi say the remaining readers. Here in is lightened from inna, the lam is its answer, and ma is an extra word for emphasis: surely every soul has a guardian over it. At-Tabari chose this reading as the better known in Arab speech, yet wrote that if al-Farra' is right about Hudhayl, reading with the doubled mim is permissible and sound. The two readings reach one claim by two grammars.",
+            "bn": "অন্য কিরাআতটি হালকা, 'লামা'। তাবারী নাম দেন মদীনার নাফে আর বসরার আবু আমরের। কুরতুবী আর বাগাভী বলেন, বাকি কারীগণ এভাবে পড়েছেন। এখানে 'ইন' মূলত 'ইন্না', হালকা করে পড়া। 'লাম' তার জবাব, আর 'মা' জোর দেওয়ার জন্য অতিরিক্ত শব্দ। অর্থ দাঁড়ায়: নিশ্চয়ই প্রতিটি প্রাণের উপর একজন হেফাজতকারী আছেন। তাবারী নিজে এ কিরাআত বেছে নিয়েছেন, কারণ আরবদের কথায় এটি বেশি পরিচিত। তবু তিনি লিখেছেন, হুযাইল সম্পর্কে ফাররার কথা ঠিক হলে তাশদীদসহ পড়াও বৈধ ও সঠিক। দুই কিরাআত দুই ব্যাকরণে একই কথায় পৌঁছায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Keeper of Every Deed",
+          "bn": "প্রতিটি আমলের সংরক্ষক"
+        },
+        "p": [
+          {
+            "en": "Who is the guardian? At-Tabari gives his own answer first: every soul has over it a guardian from its Lord, who keeps its deeds and counts against it what it earns of good or evil, and he says the people of interpretation said the like. He then cites Ibn 'Abbas: every soul has over it guardians from among the angels. Qatada widens the list: guardians who keep your deeds, your provision and your appointed term, and when you have completed it, son of Adam, you are taken to your Lord.",
+            "bn": "হেফাজতকারী কে? তাবারী প্রথমে নিজের ব্যাখ্যা দেন: প্রতিটি প্রাণের উপর তার রবের পক্ষ থেকে একজন হেফাজতকারী আছেন। তিনি তার আমল সংরক্ষণ করেন, আর ভালো-মন্দ যা সে অর্জন করে, তার হিসাব গুনে রাখেন। তাবারী বলেন, তাফসীরবিদরাও এমনই বলেছেন। এরপর তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: প্রতিটি প্রাণের উপর ফেরেশতাদের মধ্য থেকে হেফাজতকারীরা আছেন। কাতাদা তালিকাটা আরও বড় করেন। তাঁর ভাষায়, তাঁরা তোমার আমল, তোমার রিযিক আর তোমার নির্ধারিত আয়ু সংরক্ষণ করেন। হে আদমসন্তান, সেটা পূর্ণ হলে তোমাকে তোমার রবের কাছে তুলে নেওয়া হয়।"
+          },
+          {
+            "en": "Al-Qurtubi gives a second line from Qatada: his companion, qarin, keeps his deeds for him, good or evil. The Muyassar is direct: there is no soul but that an angel watcher has been put in charge of it, keeping its deeds so that it is called to account for them on the Day of Resurrection. As-Sa'di says the guardian keeps its good and evil deeds, and the soul will be repaid by the deeds kept against it. Al-Baghawi repeats at-Tabari's wording and Ibn 'Abbas's angels.",
+            "bn": "কুরতুবী কাতাদা থেকে আরেকটি বর্ণনা দেন: তার সঙ্গী, কারীন, তার ভালো-মন্দ আমল সংরক্ষণ করে। মুয়াসসার সরাসরি বলে, এমন কোনো প্রাণ নেই, যার দায়িত্বে একজন পর্যবেক্ষক ফেরেশতা নিযুক্ত নেই। তিনি তার আমল সংরক্ষণ করেন, যেন কিয়ামতের দিন সে আমলের হিসাব নেওয়া যায়। সা'দী বলেন, হেফাজতকারী তার নেক ও মন্দ দুই ধরনের আমলই সংরক্ষণ করেন। আর যে আমল তার নামে সংরক্ষিত, তারই প্রতিদান সে পাবে। বাগাভী তাবারীর কথাগুলোই ফিরিয়ে আনেন, সঙ্গে ইবন আব্বাস (রাঃ)-এর ফেরেশতাদের কথা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an adds a point of grammar. Hafiz is singular in form but generic in sense, because there is not one recording angel but a host of them, and it points to 82:10 and 82:11: wa inna 'alaykum la-hafizin, kiraman katibin, and over you are guardians, noble, writing. On this reading the six words say that no act of any soul goes unwitnessed. A deed done where no person could see it is still done in front of someone who keeps it.",
+            "bn": "মাআরিফুল কুরআন ব্যাকরণের একটি দিক যোগ করে। 'হাফিয' শব্দটি রূপে একবচন, কিন্তু অর্থে জাতিবাচক। কারণ আমল লেখার ফেরেশতা একজন নন, অনেকজন। প্রমাণ হিসেবে মাআরিফ ৮২:১০ ও ৮২:১১ আয়াতের দিকে ইঙ্গিত করে: ওয়া ইন্না আলাইকুম লাহাফিযীন, কিরামান কাতিবীন, নিশ্চয়ই তোমাদের উপর আছেন হেফাজতকারীরা, সম্মানিত লেখকগণ। এই অর্থে ছয়টি শব্দের বক্তব্য হলো, কোনো প্রাণের কোনো কাজই সাক্ষীর বাইরে ঘটে না। যে কাজ কোনো মানুষের চোখে পড়েনি, সেটাও ঘটেছে এমন একজনের সামনে, যিনি তা সংরক্ষণ করছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shielded Until the Decree",
+          "bn": "তাকদীর আসা পর্যন্ত পাহারা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the guardian another way: every soul has over it a guardian from Allah who protects it from calamities, and he cites 13:11, lahu mu'aqqibatun min bayni yadayhi wa min khalfihi yahfazunahu min amri Allah, for him are angels in succession, before him and behind him, guarding him by Allah's command. Al-Qurtubi gives this sense with the words it was said: the guardian shields the soul from harm until it hands it over to the decree. He attributes the same to al-Farra' and al-Kalbi.",
+            "bn": "ইবন কাসীর হেফাজতকারীকে অন্যভাবে বোঝেন: প্রতিটি প্রাণের উপর আল্লাহর পক্ষ থেকে একজন হেফাজতকারী আছেন, যিনি তাকে বিপদাপদ থেকে রক্ষা করেন। তিনি ১৩:১১ আয়াত আনেন: লাহু মুআক্কিবাতুম মিম বাইনি ইয়াদাইহি ওয়া মিন খালফিহি ইয়াহফাযূনাহু মিন আমরিল্লাহ। তার জন্য আছে একের পর এক আসা ফেরেশতা, সামনে ও পেছনে, যাঁরা আল্লাহর আদেশে তাকে পাহারা দেন। কুরতুবী 'বলা হয়েছে' বলে এ অর্থও আনেন: হেফাজতকারী প্রাণকে বিপদ থেকে আগলে রাখেন, যতক্ষণ না তাকে তাকদীরের হাতে সঁপে দেন। একই কথা তিনি ফাররা ও কালবীর বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "Al-Baghawi's report from al-Kalbi joins the two senses: a guardian from Allah keeps the soul and keeps its words and its acts, until he hands it over to what has been decreed and then leaves it. Ma'arif al-Qur'an states the second sense as angels appointed to protect a person from every kind of calamity, by day and night, except what Allah has decreed for him. On this reading the guardian does not cancel the decree; it keeps away everything that was not written.",
+            "bn": "বাগাভী কালবী থেকে যে বর্ণনা দেন, তাতে দুই অর্থ একসাথে মেলে। আল্লাহর পক্ষ থেকে একজন হেফাজতকারী প্রাণটিকে রক্ষা করেন, তার কথা ও কাজও সংরক্ষণ করেন। তারপর তাকদীরে যা লেখা, তার হাতে সঁপে দিয়ে সরে যান। মাআরিফুল কুরআন দ্বিতীয় অর্থটি এভাবে বলে: কিছু ফেরেশতা নিযুক্ত আছেন, যাঁরা দিনে-রাতে মানুষকে সব রকম বিপদ থেকে রক্ষা করেন। ব্যতিক্রম শুধু সেই বিপদ, যা আল্লাহ তার জন্য নির্ধারণ করেছেন। এই অর্থে হেফাজতকারী তাকদীর বাতিল করেন না। যা লেখা নেই, শুধু তা-ই দূরে রাখেন।"
+          },
+          {
+            "en": "None of the tafsir fetched for this verse attaches a sound hadith to it. Al-Qurtubi relays from Abu Umama a report raised to the Prophet ﷺ about angels assigned to defend the believer. He gives it no chain and no grading, and Ma'arif al-Qur'an, retelling it from him, gives a different count. It is mentioned here and nothing is built on it. What the commentators lean on is the verse itself, 13:11, and 82:10 and 82:11.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সাথে কোনো সহীহ হাদীস যুক্ত করেনি। কুরতুবী আবু উমামা (রাঃ) থেকে নবী ﷺ-এর বলে একটি বর্ণনা আনেন। বিষয়টি মুমিনকে রক্ষার জন্য নিযুক্ত ফেরেশতা। তিনি এর সনদ বা মান কিছুই উল্লেখ করেননি। মাআরিফুল কুরআন তাঁর থেকেই বর্ণনাটি আনে, কিন্তু সংখ্যা দেয় ভিন্ন। তাই এখানে শুধু উল্লেখ করা হলো, এর উপর কিছু দাঁড় করানো হলো না। তাফসীরকারেরা আসলে ভর করেন আয়াতটির উপর, আর ১৩:১১, ৮২:১০ ও ৮২:১১ আয়াতের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allah Behind Every Means",
+          "bn": "সব মাধ্যমের পেছনে আল্লাহ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records two further views, each with it was said. One: the guardian is Allah Himself, for were it not for His keeping, the soul would not last. The other: the guardian over a person is his own intellect, which guides him to what benefits him and holds him back from what harms him. Ma'arif al-Qur'an keeps to the two angelic senses and presents both as possible. The commentators set these readings side by side, and so does this article.",
+            "bn": "কুরতুবী 'বলা হয়েছে' বলে আরও দুটি মত উল্লেখ করেন। একটি হলো, হেফাজতকারী স্বয়ং আল্লাহ, কারণ তিনি রক্ষা না করলে প্রাণ টিকে থাকত না। অন্যটি হলো, মানুষের উপর হেফাজতকারী তার নিজের বুদ্ধি। বুদ্ধি তাকে কল্যাণের পথ দেখায়, ক্ষতির কাজ থেকে ফিরিয়ে রাখে। মাআরিফুল কুরআন ফেরেশতা-সংক্রান্ত দুই অর্থেই থাকে, আর দুটিকেই সম্ভাব্য বলে উপস্থাপন করে। তাফসীরকারেরা মতগুলো পাশাপাশি রেখেছেন, এ লেখাও তা-ই রাখছে।"
+          },
+          {
+            "en": "Then al-Qurtubi speaks in his own voice: the intellect and the rest are intermediaries, and the guardian in truth is Allah. He cites 12:64, fa-Allahu khayrun hafiza, Allah is the best guardian, and 21:42, qul man yakla'ukum bil-layli wan-nahari mina r-Rahman, say: who guards you by night and by day from the Most Merciful? On his account the angels, the record and the mind are all real, and none of them works on its own.",
+            "bn": "এরপর কুরতুবী নিজের কথা বলেন: বুদ্ধি আর অন্য সবকিছু মাধ্যম মাত্র, প্রকৃত হেফাজতকারী আল্লাহ। তিনি ১২:৬৪ আয়াত আনেন: ফাল্লাহু খাইরুন হাফিযা, আল্লাহই সর্বোত্তম হেফাজতকারী। সঙ্গে ২১:৪২: কুল মাই ইয়াকলাউকুম বিল্লাইলি ওয়ান্নাহারি মিনার রাহমান, বলুন, রাতে ও দিনে কে তোমাদের রহমান থেকে পাহারা দেয়? তাঁর ব্যাখ্যায় ফেরেশতা, আমলনামা, বুদ্ধি সবই সত্য। কিন্তু এদের কোনোটিই নিজে নিজে কাজ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Hour Left Unwatched",
+          "bn": "পাহারাহীন কোনো প্রহর নেই"
+        },
+        "p": [
+          {
+            "en": "Read with all its senses, the verse leaves no gap. What a soul does is kept, and what reaches it has passed a guarded door. That can sound like surveillance, but Ibn Kathir's phrase is a guardian from Allah, and several commentators describe it as protection as well as record. A person who believes it has two duties at once: to watch what he sends out, and to stop fearing that he has been forgotten.",
+            "bn": "সব অর্থ মিলিয়ে পড়লে আয়াতে কোনো ফাঁক থাকে না। প্রাণ যা করে, তা সংরক্ষিত হয়। আর তার কাছে যা পৌঁছায়, তা আসে পাহারা দেওয়া দরজা পেরিয়ে। শুনে মনে হতে পারে নজরদারি। কিন্তু ইবন কাসীরের ভাষায় এ হেফাজতকারী আল্লাহর পক্ষ থেকে, আর একাধিক তাফসীরকার একে আমল লেখার পাশাপাশি রক্ষা করা হিসেবেও বর্ণনা করেছেন। যে এ কথা বিশ্বাস করে, তার দায়িত্ব দুটি। নিজে কী পাঠাচ্ছে তা খেয়াল রাখা, আর ভুলে যাওয়া হয়েছে, এই ভয় ছেড়ে দেওয়া।"
+          },
+          {
+            "en": "The oath placed this sentence under a night sky, where a single star is seen because the dark is complete. The next verse turns from the guardian to the guarded, and asks man to consider what he was made from. Before that question comes, this verse settles where he stands: never alone, never unrecorded, and never outside the keeping of the One who made him.",
+            "bn": "শপথটি এ বাক্যকে রেখেছে রাতের আকাশের নিচে, যেখানে অন্ধকার পুরো বলেই একটি নক্ষত্রও চোখে পড়ে। পরের আয়াত হেফাজতকারী থেকে চোখ ফেরায় যাকে হেফাজত করা হচ্ছে তার দিকে। মানুষকে বলে, ভেবে দেখো কী থেকে তোমাকে বানানো হয়েছে। সে প্রশ্ন আসার আগেই এ আয়াত জানিয়ে দেয় মানুষ কোথায় দাঁড়িয়ে। সে কখনো একা নয়, তার কিছুই অলিখিত থাকে না। আর যিনি তাকে বানিয়েছেন, তাঁর হেফাজতের বাইরে সে কখনো নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "86:5": {
     "sections": [
       {
