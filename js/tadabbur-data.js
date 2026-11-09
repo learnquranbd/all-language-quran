@@ -29843,6 +29843,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Remember your deeds now, while remembering can still change them; on that Day the memory returns whole, but it can no longer help.",
     "lessonBn": "নিজের আমলের কথা এখনই মনে করুন, যখন মনে পড়লে তা বদলানো যায়। সেদিন সব কিছুই পুরো মনে পড়বে, কিন্তু তখন আর কোনো কাজে আসবে না।"
+  },
+  "90:12": {
+    "reflectionEn": "The verse before this one says that man did not break through the steep pass. Then, instead of naming the pass, the Qur'an asks: and what can make you know what the steep pass is? The answer is held back for a breath, long enough to picture a mountain, a fire, a road too hard to climb. Then the next verses name it, and it turns out to be things a person can do with their own hands this week. Some commentators placed the pass in the Hereafter, some in the struggle with one's own self; all of them saw it as something to be crossed, not admired from below. Which pass have I been looking up at for years without taking the first step?",
+    "reflectionBn": "আগের আয়াত বলেছে, মানুষ দুর্গম গিরিপথ পেরোয়নি। তারপর কুরআন পথটার নাম সরাসরি বলে না, বরং প্রশ্ন করে: তুমি কি জানো, সেই দুর্গম গিরিপথ কী? উত্তরটা এক নিঃশ্বাসের জন্য আটকে থাকে। ততক্ষণে শ্রোতার মনে ভেসে ওঠে পাহাড়, আগুন, এমন খাড়া পথ যা বেয়ে ওঠা যায় না। তারপর পরের আয়াতগুলো নাম বলে দেয়, আর দেখা যায় সেগুলো এমন কাজ, যা মানুষ এ সপ্তাহেই নিজের হাতে করতে পারে। কোনো তাফসীরকার এই গিরিপথকে আখিরাতে রেখেছেন, কেউ রেখেছেন নিজের নফসের সঙ্গে লড়াইয়ে। কিন্তু সবার কাছেই এটা পার হওয়ার জিনিস, নিচে দাঁড়িয়ে তারিফ করার জিনিস নয়। কোন গিরিপথের দিকে আমি বছরের পর বছর তাকিয়ে আছি, অথচ প্রথম পা-টাও ফেলিনি?",
+    "pointsEn": [
+      "When I hear that a good deed is hard, do I begin the climb, or do I begin describing how hard it is?",
+      "Is there an act of good I keep postponing because I have made it larger in my mind than it really is?",
+      "Which of my own desires stands like a steep slope between me and something I already know is right?",
+      "Of the effort and money I spent this month, how much went up the pass, and how much was spent only to be talked about?",
+      "If someone asked me tonight what my own steep pass is, could I name it?"
+    ],
+    "pointsBn": [
+      "কোনো নেক কাজ কঠিন শুনলে আমি কি ওঠা শুরু করি, নাকি কাজটা কত কঠিন তার বর্ণনা দিতে শুরু করি?",
+      "এমন কোনো ভালো কাজ কি আছে, যা মনের ভেতরে আসলের চেয়ে বড় বানিয়ে ফেলেছি বলে বারবার পিছিয়ে দিচ্ছি?",
+      "আমার কোন খায়েশটা খাড়া ঢালের মতো দাঁড়িয়ে আছে আমার আর সেই কাজের মাঝখানে, যা ঠিক বলে আমি আগেই জানি?",
+      "এ মাসে যত শ্রম আর টাকা খরচ করেছি, তার কতটা গিরিপথ বেয়ে ওপরে উঠেছে, আর কতটা খরচ হয়েছে শুধু লোকের মুখে গল্প হওয়ার জন্য?",
+      "আজ রাতে কেউ যদি জিজ্ঞেস করে আমার নিজের দুর্গম গিরিপথ কোনটা, আমি কি তার নাম বলতে পারব?"
+    ],
+    "lessonEn": "The Qur'an calls the way of good a steep pass and makes you ask what it is before it answers; the climb is hard, but it is named, and it can be begun.",
+    "lessonBn": "কুরআন কল্যাণের পথকে বলে দুর্গম গিরিপথ, আর উত্তর দেওয়ার আগে আপনাকে দিয়ে প্রশ্ন করায় সেটা কী। ওঠা কঠিন, তবে পথের নাম বলে দেওয়া আছে, আর আজই শুরু করা যায়।"
   }
 };
 

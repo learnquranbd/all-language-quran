@@ -163,6 +163,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "90:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Held Open",
+          "bn": "যে প্রশ্ন খোলা রাখা হলো"
+        },
+        "p": [
+          {
+            "en": "Wa ma adraka ma al-'aqabah: and what can make you know what the steep pass is? The verse is four Arabic words and carries no answer of its own. It follows 90:11, which says of man fa-la qtahama al-'aqabah, he did not break through the pass, and then it stops. At-Tabari paraphrases it as a question put to the Prophet ﷺ: what thing has made you aware, O Muhammad, of what the pass is? Then, he says, Allah explained to him what the pass is, what rescue from it is, and how it is broken through.",
+            "bn": "ওয়া মা আদরাকা মাল আকাবাহ: তুমি কি জানো, সেই দুর্গম গিরিপথ কী? আয়াতটি আরবিতে চারটি শব্দের, আর এর ভেতরে নিজের কোনো উত্তর নেই। এর আগে ৯০:১১ মানুষের ব্যাপারে বলেছে, ফালা কতাহামাল আকাবাহ, সে গিরিপথ ভেদ করে এগোয়নি। তারপর এখানে এসে থেমে যায়। তাবারী একে নবী ﷺ-এর প্রতি এক প্রশ্ন হিসেবে খুলে বলেন: হে মুহাম্মাদ, কোন জিনিস তোমাকে জানিয়েছে গিরিপথটা কী? তাঁর ভাষায়, এরপর আল্লাহ তাঁকে বুঝিয়ে দিলেন গিরিপথ কী, তা থেকে মুক্তি কীসে, আর কীভাবে তা ভেদ করে পার হতে হয়।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both read a word left unsaid. The full sense, they say, is: and what can make you know what breaking through the pass is? The question is about an act, not only a place. Al-Qurtubi also names its purpose: this is a magnifying of the duty to hold fast to the matter of the religion, and the address is to the Prophet ﷺ so that he may be taught what breaking through means. As-Sa'di adds one short clause about the man of 90:11: this pass is hard on him.",
+            "bn": "কুরতুবী আর বাগাভী দুজনেই এখানে একটি উহ্য শব্দ ধরেন। তাঁদের মতে পুরো অর্থ দাঁড়ায়: তুমি কি জানো, গিরিপথ ভেদ করা কাকে বলে? প্রশ্নটা তাহলে শুধু একটা জায়গা নিয়ে নয়, একটা কাজ নিয়ে। কুরতুবী প্রশ্নের উদ্দেশ্যও বলে দেন। দ্বীনের বিষয়কে আঁকড়ে ধরার দায়িত্ব কত বড়, এখানে সেটাই তুলে ধরা হয়েছে। আর সম্বোধন নবী ﷺ-এর প্রতি, যেন তাঁকে শেখানো হয় গিরিপথ ভেদ করা মানে কী। সা'দী ৯০:১১-এর সেই লোকটির ব্যাপারে ছোট্ট একটি কথা যোগ করেন: এই গিরিপথ তার জন্য কঠিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told, or Left Untold",
+          "bn": "জানানো হবে, নাকি হবে না"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi and al-Qurtubi both record a rule from Sufyan ibn 'Uyaynah about this phrase. Everything of which the Qur'an says wa ma adraka, and what can make you know, He told him; everything of which it says wa ma yudrika, and what can make you perceive, He did not tell him. The difference is one verb, past in the first phrase and present in the second, and on Sufyan's reading it signals whether an answer is coming. Here the answer does come, at once, in the verses that follow.",
+            "bn": "বাগাভী ও কুরতুবী দুজনেই এই বাক্যাংশ নিয়ে সুফিয়ান ইবন উয়াইনার একটি নিয়ম উল্লেখ করেন। কুরআন যেখানে বলেছে ওয়া মা আদরাকা, তুমি কি জানো, সে বিষয়ে আল্লাহ তাঁকে জানিয়ে দিয়েছেন। আর যেখানে বলেছে ওয়া মা ইউদরীকা, তুমি কীভাবে বুঝবে, সে বিষয়ে জানাননি। তফাত কেবল একটি ক্রিয়ায়: প্রথমটিতে অতীত কাল, দ্বিতীয়টিতে বর্তমান। সুফিয়ানের পাঠে এই তফাতই জানিয়ে দেয় উত্তর আসছে কি না। এখানে উত্তর আসে, আর আসে সঙ্গে সঙ্গেই, পরের আয়াতগুলোতে।"
+          },
+          {
+            "en": "The Qur'an's own usage lets a reader test the rule. And what can make you know what al-Hutamah is, in 104:5, is answered in 104:6: the fire of Allah, kindled. And what can make you know what the Night of Decree is, in 97:2, is answered in 97:3: it is better than a thousand months. But and what can make you perceive, in 33:63 and 42:17, is followed only by perhaps the Hour is near, and 33:63 has already said that its knowledge is with Allah alone. The steep pass belongs to the first kind: it is named.",
+            "bn": "কুরআনের নিজের ব্যবহার দিয়েই পাঠক নিয়মটা যাচাই করে দেখতে পারেন। ১০৪:৫ আয়াতে প্রশ্ন, তুমি কি জানো হুতামা কী? উত্তর ১০৪:৬ আয়াতে: আল্লাহর প্রজ্বলিত আগুন। ৯৭:২ আয়াতে প্রশ্ন, তুমি কি জানো কদরের রাত কী? উত্তর ৯৭:৩ আয়াতে: তা হাজার মাসের চেয়ে উত্তম। কিন্তু ৩৩:৬৩ ও ৪২:১৭ আয়াতে ওয়া মা ইউদরীকা-র পরে আসে শুধু এটুকু: হয়তো কিয়ামত কাছেই। আর ৩৩:৬৩ আগেই বলে দিয়েছে, এর জ্ঞান কেবল আল্লাহর কাছে। দুর্গম গিরিপথ পড়েছে প্রথম দলে। এর নাম বলে দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Negative Standing Alone",
+          "bn": "একা দাঁড়ানো একটি 'লা'"
+        },
+        "p": [
+          {
+            "en": "The question looks back at 90:11, and that verse holds a puzzle in its first word. At-Tabari notes that fa-la qtahama uses la only once, though the Arabs hardly ever leave it single in such a place without repeating it, as in so he neither believed nor prayed, in 75:31. He explains that the end of the passage does the work of the repetition. The things named afterwards fill it in, as though the verse had said: he did neither this, nor this, nor this.",
+            "bn": "প্রশ্নটা ফিরে তাকায় ৯০:১১ আয়াতের দিকে, আর সেই আয়াতের প্রথম শব্দেই একটা জট আছে। তাবারী লক্ষ করেন, ফালা কতাহামা-তে 'লা' এসেছে মাত্র একবার। অথচ এমন জায়গায় আরবরা সাধারণত 'লা' একা রাখে না, আবার বলে। যেমন ৭৫:৩১ আয়াতে: সে বিশ্বাসও করেনি, নামাযও পড়েনি। তাবারীর ব্যাখ্যা হলো, বাক্যের শেষ অংশটাই এখানে পুনরাবৃত্তির কাজ সেরে দেয়। পরে যেসব বিষয়ের নাম আসে, সেগুলোই শূন্য জায়গা ভরে দেয়। যেন আয়াতটি বলছে: সে এটাও করেনি, ওটাও করেনি, সেটাও করেনি।"
+          },
+          {
+            "en": "Al-Qurtubi carries the same observation from al-Farra' and az-Zajjaj, but with a different filler. For them, then he was among those who believed, in 90:17, can stand in place of the second la, so that the sense becomes: he did not break through the pass, and he did not believe. Others removed the puzzle at its root. Al-Qurtubi reports from al-Mubarrad and Abu 'Ali that la here means lam, did not, cites a line of the poet Zuhayr in which la carries that sense, and adds that al-Bukhari gave this from Mujahid.",
+            "bn": "কুরতুবী একই পর্যবেক্ষণ আনেন ফাররা ও যাজ্জাজ থেকে, তবে শূন্য জায়গা তাঁরা ভরেন অন্য কিছু দিয়ে। তাঁদের মতে ৯০:১৭ আয়াতের 'তারপর সে মুমিনদের অন্তর্ভুক্ত হলো' কথাটাই দ্বিতীয় 'লা'-এর জায়গা নিতে পারে। তাহলে অর্থ দাঁড়ায়: সে গিরিপথ ভেদ করেনি, ঈমানও আনেনি। অন্যেরা জটটা গোড়া থেকেই খুলে দিয়েছেন। কুরতুবী মুবাররাদ ও আবু আলী থেকে বর্ণনা করেন, এখানে 'লা' মানে 'লাম', অর্থাৎ করেনি। প্রমাণ হিসেবে তিনি কবি যুহাইরের একটি পঙক্তি আনেন, যেখানে 'লা' এই অর্থেই এসেছে। সঙ্গে জানান, বুখারী এ কথা মুজাহিদ থেকে উল্লেখ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Report, Rebuke or Prayer",
+          "bn": "সংবাদ, ভর্ৎসনা, নাকি বদদোয়া"
+        },
+        "p": [
+          {
+            "en": "The first reading, then, is a plain report: he has not broken through. As-Sa'di takes it this way, he did not break through it and cross over it, and gives a reason: because he follows his desires. At-Tabari's own paraphrase is cast in the same mould: he did not mount the pass, cross it and get beyond it. On this reading the verse is a verdict on a life already spent, and 90:12 then asks the listener to learn exactly what that life missed.",
+            "bn": "প্রথম পাঠে তাহলে এটা সোজা সংবাদ: সে ভেদ করে এগোয়নি। সা'দী এভাবেই পড়েন। তাঁর ভাষায়, সে গিরিপথ ভেদ করেনি, পারও হয়নি, কারণ সে নিজের খায়েশের পেছনে চলে। তাবারীর নিজের ব্যাখ্যাও একই ছাঁচে: সে গিরিপথে চড়েনি, তা পেরিয়ে ওপারে যায়নি। এই পাঠে আয়াতটি এমন এক জীবনের রায়, যা খরচ হয়ে গেছে। তারপর ৯০:১২ শ্রোতাকে বলে, জেনে নাও সেই জীবন ঠিক কী হারিয়েছে।"
+          },
+          {
+            "en": "The second reading makes the sentence a question with the force of reproach. Ibn Zayd took fa-la as afala, will he not, and at-Tabari records his gloss: did he not then take the road from which come rescue and good? At-Tabari remarks that whoever reads it so has no need to claim anything was left unsaid. Al-Baghawi and al-Qurtubi give it as the view of Ibn Zayd and a group: why did he not spend his wealth, the wealth he claimed to have spent in enmity to Muhammad ﷺ, on crossing the pass instead? The Muyassar reads it the same way.",
+            "bn": "দ্বিতীয় পাঠে বাক্যটি প্রশ্ন, তবে তাতে তিরস্কারের সুর। ইবন যায়দ 'ফালা'-কে পড়েছেন 'আফালা' হিসেবে, অর্থাৎ সে কি করবে না? তাবারী তাঁর ব্যাখ্যা উদ্ধৃত করেন: সে কেন সেই পথ ধরল না, যেখান থেকে আসে মুক্তি আর কল্যাণ? তাবারী মন্তব্য করেন, যে এভাবে পড়বে, তাকে বাক্যে কিছু উহ্য আছে বলে দাবি করতে হয় না। বাগাভী ও কুরতুবী এটাকে ইবন যায়দ ও একদল তাফসীরকারের মত হিসেবে আনেন। মুহাম্মাদ ﷺ-এর শত্রুতায় যে সম্পদ খরচ করেছে বলে সে দাবি করে, তা কেন সে গিরিপথ পার হতে খরচ করল না? মুয়াসসারও একইভাবে পড়ে।"
+          },
+          {
+            "en": "A third reading, which al-Qurtubi gives without naming who held it, takes the words as a prayer against him, in the manner of the Arab saying: may he not be saved, may he not be safe. Al-Qurtubi spells it out: may he not be saved nor be safe, the one who did not spend his wealth on such and such deeds. So the sources record three readings of one small word: a report, a reproachful question and a curse. They are kept side by side here, and this article does not choose between them.",
+            "bn": "তৃতীয় এক পাঠ কুরতুবী উল্লেখ করেন, তবে কার মত তা বলেননি। এই পাঠে কথাটা লোকটির বিরুদ্ধে বদদোয়া, যেমন আরবরা বলে: সে যেন রেহাই না পায়, নিরাপদ না থাকে। কুরতুবী অর্থটা খুলে বলেন: যে নিজের সম্পদ এসব কাজে খরচ করেনি, সে যেন রেহাই না পায়, নিরাপদও না থাকে। তাহলে ছোট্ট একটি শব্দের তিনটি পাঠ সূত্রগুলোতে পাওয়া যায়: সংবাদ, তিরস্কারভরা প্রশ্ন, আর বদদোয়া। এখানে তিনটিকেই পাশাপাশি রাখা হলো। এই লেখা এদের মধ্যে কোনোটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mountain Inside the Fire",
+          "bn": "জাহান্নামের ভেতরের পাহাড়"
+        },
+        "p": [
+          {
+            "en": "What, then, is the pass itself? One group of early answers places it in Hell. At-Tabari relays from Ibn 'Umar (RA): a mountain in Hell, and Ibn Kathir gives the same through at-Tabari's chain. Al-Hasan al-Basri, in both, says: a pass in Hell. Ka'b, whom Ibn Kathir names Ka'b al-Ahbar, says it is seventy levels in Hell. Qatada, in at-Tabari, says the Fire has a pass before the Bridge, and in another line: it is a hard plunge, so break through it by obeying Allah.",
+            "bn": "তাহলে গিরিপথটা আসলে কী? প্রথম যুগের একদল জবাব একে রাখে জাহান্নামে। তাবারী ইবন উমার (রাঃ) থেকে বর্ণনা করেন: জাহান্নামের একটি পাহাড়। ইবন কাসীরও তাবারীর সনদে একই কথা আনেন। দুজনের বর্ণনাতেই হাসান বসরী বলেন: জাহান্নামের একটি গিরিপথ। কা'ব, যাঁকে ইবন কাসীর কা'ব আল-আহবার বলে উল্লেখ করেন, বলেন: জাহান্নামের সত্তরটি স্তর। তাবারীর বর্ণনায় কাতাদা বলেন, পুলের আগে আগুনের একটি গিরিপথ আছে। আরেক বর্ণনায় তাঁর কথা: এ এক কঠিন ঝাঁপ, তাই আল্লাহর আনুগত্য দিয়ে তা ভেদ করো।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi relay a further identification from Mujahid, ad-Dahhak and al-Kalbi: the pass is the Sirat, laid over Hell like the edge of a sword. Al-Qurtubi adds unnamed views that the Fire itself is the pass, or that it is deliverance from the terror of being presented for judgement, and a report from Abu Raja' that opens with it has reached us and gives the length of the climb and the descent in thousands of years. None of the commentators raises any of these descriptions to the Prophet ﷺ; they stand as the words of those who said them.",
+            "bn": "বাগাভী ও কুরতুবী মুজাহিদ, দাহহাক ও কালবী থেকে আরেকটি পরিচয় আনেন: গিরিপথ হলো সিরাত, যা জাহান্নামের ওপর পাতা, তলোয়ারের ধারের মতো। কুরতুবী নামহীন আরও কিছু মত যোগ করেন। কারও মতে আগুনটাই গিরিপথ, কারও মতে হিসাবের জন্য হাজির হওয়ার আতঙ্ক থেকে রেহাই। আবু রাজা থেকেও একটি বর্ণনা আনেন, যার শুরু 'আমাদের কাছে খবর পৌঁছেছে' দিয়ে। তাতে চড়াই আর উতরাইয়ের দৈর্ঘ্য হাজার হাজার বছরে মাপা। তাফসীরকারদের কেউ এসব বর্ণনার একটিকেও নবী ﷺ পর্যন্ত পৌঁছাননি। এগুলো যাঁরা বলেছেন, তাঁদেরই কথা হয়ে থাকে।"
+          },
+          {
+            "en": "Al-Qurtubi also relays, with the words it is narrated, a saying of Abu ad-Darda' (RA): behind us is a pass, and the people most surely saved from it are those lightest in load. He gives no chain for it, and it is not raised to the Prophet ﷺ. Even so, it shows how this group of readings sounds once it is turned toward the listener. The pass lies ahead of every person, and what he carries now decides how the crossing will go.",
+            "bn": "কুরতুবী 'বর্ণিত আছে' বলে আবুদ দারদা (রাঃ)-এর একটি উক্তিও আনেন: আমাদের সামনে একটি গিরিপথ আছে। তা থেকে সবচেয়ে বেশি রেহাই পাবে তারা, যাদের বোঝা সবচেয়ে হালকা। তিনি এর কোনো সনদ দেননি, আর কথাটা নবী ﷺ পর্যন্ত পৌঁছানোও নয়। তবু শ্রোতার দিকে ঘুরিয়ে ধরলে এই দলের পাঠগুলো কেমন শোনায়, উক্তিটি তা দেখিয়ে দেয়। গিরিপথ প্রত্যেক মানুষের সামনে। আর আজ সে কী বোঝা বইছে, তার ওপরই নির্ভর করে পারাপার কেমন হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Slope Within",
+          "bn": "নিজের ভেতরের খাড়া ঢাল"
+        },
+        "p": [
+          {
+            "en": "A second group reads the pass as a struggle in this life. Al-Qurtubi relays al-Hasan: by Allah it is a hard pass, a person's struggle against his own self, his desire and his enemy, Satan. Al-Baghawi gives nearly the same idea but frames it as a parable Allah struck for striving against the self, desire and Satan in acts of righteousness, like a man forcing himself up a slope; he calls this the meaning of Qatada's saying. The two commentators hang one reading on two different names, and both attributions are reported here as they stand.",
+            "bn": "দ্বিতীয় একদল গিরিপথকে দেখেন এই জীবনেরই লড়াই হিসেবে। কুরতুবী হাসান বসরীর কথা আনেন: আল্লাহর কসম, এ এক কঠিন গিরিপথ। মানুষের লড়াই নিজের নফসের সঙ্গে, নিজের খায়েশের সঙ্গে, আর তার শত্রু শয়তানের সঙ্গে। বাগাভী প্রায় একই কথা বলেন, তবে উপমা হিসেবে। নেক আমলের পথে নফস, খায়েশ আর শয়তানের সঙ্গে লড়াইয়ের জন্য আল্লাহ এই উপমা দিয়েছেন, যেন কেউ কষ্ট করে খাড়া ঢাল বেয়ে উঠছে। বাগাভী বলেন, কাতাদার কথার অর্থ এটাই। একই পাঠ দুই তাফসীরকার জুড়েছেন দুই ভিন্ন নামের সঙ্গে। এখানে দুটো উদ্ধৃতিই যেমন আছে তেমন রাখা হলো।"
+          },
+          {
+            "en": "Al-Qurtubi quotes lines that someone recited on this theme: I am tried by four who shoot arrows at me and have laid snares for me, Iblis, the world, my self and desire; from where can I hope for release among them? O Lord, help me with pardon, for I have come to hope in no one but You against them. Both commentators also record, without a name, a related picture: the weight of sins is likened to a pass, and whoever does the deeds named next has climbed out from under it.",
+            "bn": "এ প্রসঙ্গে কুরতুবী কারও আবৃত্তি করা কয়েকটি পঙক্তি তুলে দেন। কবি বলছেন, চারজন আমার দিকে তীর ছুড়ছে, আমার জন্য ফাঁদ পেতেছে: ইবলিস, দুনিয়া, আমার নফস আর খায়েশ। এদের মাঝখান থেকে মুক্তির আশা আমি কোথায় করব? হে রব, ক্ষমা দিয়ে আমাকে সাহায্য করুন। এদের মোকাবিলায় আপনি ছাড়া আর কারও কাছে আমার কোনো আশা নেই। দুই তাফসীরকারই নাম ছাড়া এর কাছাকাছি আরেকটি ছবিও আনেন। গুনাহের ভারকে তুলনা করা হয়েছে গিরিপথের সঙ্গে। পরের আয়াতে যেসব আমলের নাম আছে, যে তা করে, সে ওই ভারের নিচ থেকে বেরিয়ে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Climbed Only in This World",
+          "bn": "চড়তে হয় দুনিয়াতেই"
+        },
+        "p": [
+          {
+            "en": "A third reading takes the pass to be the deeds themselves, and al-Qurtubi gives it its sharpest argument. He quotes al-Qushayri: taking the pass as Hell's pass is far-fetched, since no one in this world has broken through Hell's pass, unless it means: why did he not put himself where he could break through it tomorrow? He then reports that al-Bukhari chose Mujahid's statement, he did not break through the pass in this world. Mujahid's name thus stands in two groups, in the sources as they are given.",
+            "bn": "তৃতীয় একটি পাঠ মনে করে, গিরিপথ মানে পরের আমলগুলোই। কুরতুবী এ পাঠের পক্ষে সবচেয়ে ধারালো যুক্তিটা আনেন। তিনি কুশাইরীর কথা উদ্ধৃত করেন: গিরিপথকে জাহান্নামের গিরিপথ ধরা দূরের কথা। কারণ দুনিয়ায় কেউ জাহান্নামের গিরিপথ ভেদ করেনি। তবে অর্থ যদি হয়, সে কেন নিজেকে এমন অবস্থায় নিল না যেখান থেকে আগামীকাল তা ভেদ করা যায়, তাহলে ভিন্ন কথা। এরপর কুরতুবী জানান, বুখারী বেছে নিয়েছেন মুজাহিদের কথা: সে দুনিয়াতে গিরিপথ ভেদ করেনি। সূত্রগুলোর বর্ণনা অনুযায়ী মুজাহিদের নাম তাই দুই দলেই পাওয়া যায়।"
+          },
+          {
+            "en": "Al-Qurtubi gives Ibn al-'Arabi's account of that choice. After this question, Ibn al-'Arabi says, the next verses name freeing a neck, feeding on a day of hunger, an orphan near of kin and a needy person in the dust, and these are deeds that can only be done in this world. The passage then sums up: the meaning is that he did not bring, in this world, what would make the road of the pass easy for him in the Hereafter. That one sentence lets the mountain and the deeds stand together.",
+            "bn": "বুখারীর এই বেছে নেওয়ার কারণ কুরতুবী জানান ইবনুল আরাবীর ভাষ্যে। ইবনুল আরাবী বলেন, এই প্রশ্নের পর আয়াতগুলো একে একে নাম বলে: গর্দান মুক্ত করা, ক্ষুধার দিনে খাওয়ানো, নিকটাত্মীয় ইয়াতীম, ধুলোয় পড়ে থাকা মিসকীন। এসব আমল দুনিয়াতেই করা যায়, অন্য কোথাও নয়। তারপর অনুচ্ছেদটি সারকথা টানে: অর্থ হলো, আখিরাতে গিরিপথের রাস্তা যা দিয়ে তার জন্য সহজ হতো, দুনিয়াতে সে তা নিয়ে আসেনি। এই একটি বাক্যে পাহাড় আর আমল দুটোই একসঙ্গে জায়গা পেয়ে যায়।"
+          },
+          {
+            "en": "At-Tabari and Ma'arif al-Qur'an sit close to this reading in their own words. At-Tabari, explaining 90:12, says the breaking through and the crossing of the pass are the deeds that follow. Ma'arif says the pass here refers to obedience and devotion, which save a person from the punishment of the Hereafter as a pass saves him from an enemy. The Muyassar joins the readings in one sentence: what has made you know what the hardship of the Hereafter is, and what helps a person get across it?",
+            "bn": "তাবারী আর মাআরিফুল কুরআন নিজেদের ভাষায় এই পাঠের কাছাকাছি থাকেন। ৯০:১২-এর ব্যাখ্যায় তাবারী বলেন, গিরিপথ ভেদ করা আর পার হওয়া মানে পরে যেসব আমলের নাম এসেছে সেগুলো। মাআরিফুল কুরআন বলে, এখানে গিরিপথ মানে আনুগত্য ও ইবাদত। গিরিপথ যেমন শত্রুর হাত থেকে মানুষকে বাঁচায়, নেক আমল তেমনি আখিরাতের শাস্তি থেকে বাঁচায়। মুয়াসসার একটি বাক্যে পাঠগুলো মিলিয়ে দেয়: কে তোমাকে জানাল আখিরাতের কষ্ট কী, আর কীসে তা পার হতে সাহায্য করে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Raised Here",
+          "bn": "এখানে মারফূ কিছু নেই"
+        },
+        "p": [
+          {
+            "en": "No tafsir consulted for 90:11 and 90:12 attaches a sound hadith to the question itself. The narrations that at-Tabari and al-Qurtubi place here, on the reward of freeing a slave, concern 90:13, the first deed named, and this collection's reflection on that verse treats them. Several reach at-Tabari only with the words it was mentioned to us, or through chains he does not grade, and they are left to that article. None of the commentators gives an occasion of revelation for these two verses, so none is offered.",
+            "bn": "৯০:১১ ও ৯০:১২ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই প্রশ্নটির সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। তাবারী ও কুরতুবী এখানে দাস মুক্ত করার সওয়াব নিয়ে যেসব বর্ণনা আনেন, সেগুলোর বিষয় ৯০:১৩, অর্থাৎ নাম নেওয়া প্রথম আমল। এই সংকলনে সেই আয়াতের আলোচনাতেই সেগুলো এসেছে। এর কয়েকটি তাবারীর কাছে পৌঁছেছে শুধু 'আমাদের কাছে উল্লেখ করা হয়েছে' কথাটি দিয়ে, কয়েকটি এমন সনদে যার মান তিনি বলেননি। তাই সেগুলো সেই লেখার জন্যই রেখে দেওয়া হলো। এ দুই আয়াতের কোনো শানে নুযূলও তাফসীরকারেরা দেননি, তাই এখানে কিছু আনা হলো না।"
+          },
+          {
+            "en": "The man who did not climb is the one drawn in 90:5 to 90:11, and Ibn Zayd's reading, as al-Baghawi and al-Qurtubi give it, has him spending his wealth in enmity to the Prophet ﷺ. The verses describe what they describe, and they license nothing against any living person or community. Their weight falls on the reader. Every reading gathered here, report or reproach, mountain or struggle, ends at the same place: the question in 90:12 is asked so that the answer will be heard, and then acted on.",
+            "bn": "যে লোকটি ওঠেনি, তার ছবি আঁকা হয়েছে ৯০:৫ থেকে ৯০:১১ আয়াতে। বাগাভী ও কুরতুবী ইবন যায়দের যে পাঠ আনেন, তাতে সে নিজের সম্পদ খরচ করেছে নবী ﷺ-এর শত্রুতায়। আয়াতগুলো যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এগুলো দেয় না। এর ভার পড়ে পাঠকের ওপর। সংবাদ হোক বা তিরস্কার, পাহাড় হোক বা লড়াই, এখানে জড়ো করা প্রতিটি পাঠ একই জায়গায় গিয়ে থামে। ৯০:১২-এর প্রশ্নটা করা হয়েছে যেন উত্তরটা শোনা হয়, তারপর সে অনুযায়ী কাজ হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "90:13": {
     "sections": [
       {
