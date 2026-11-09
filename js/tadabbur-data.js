@@ -29943,6 +29943,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Earn and keep wealth as a need, not a love, and let no attachment to it hold back what you owe to Allah and to others.",
     "lessonBn": "সম্পদ উপার্জন করুন ও রাখুন প্রয়োজন হিসেবে, ভালোবাসার বস্তু হিসেবে নয়। এর প্রতি টান যেন আল্লাহর ও মানুষের পাওনা আটকে না রাখে।"
+  },
+  "89:9": {
+    "reflectionEn": "Two more names follow 'Ad. Thamud cut through the rock of their valley and made homes inside it, work solid enough to outlast the people who did it. Pharaoh is called the owner of the stakes: the troops who held his rule fast, as some read it, or the stakes he drove into people, as others did. One people is remembered by what it carved, one ruler by what he pinned down. Neither is remembered for a prayer. Over both hangs the question that opened the passage: have you not seen how your Lord dealt with them? What I build and what I hold in place may outlast me. Which of them is a trust, and which a stake?",
+    "reflectionBn": "‘আদের পরে আরও দুটি নাম। সামূদ উপত্যকার পাথর কেটে তার ভেতরে ঘর বানিয়েছিল। সে কাজ এত মজবুত ছিল যে নির্মাতারা চলে গেলেও ঘরগুলো রয়ে গেছে। ফেরাউনকে বলা হয়েছে কীলকওয়ালা। কারও মতে কীলক মানে সেই সৈন্যদল, যারা তার রাজত্ব শক্ত করে ধরে রেখেছিল। আবার কারও মতে সেই খুঁটি, যা সে মানুষের দেহে গেঁথে দিত। এক জাতিকে মনে রাখা হয়েছে তাদের খোদাই দিয়ে, এক শাসককে তার চেপে ধরে রাখা দিয়ে। কাউকেই তার দোয়ার জন্য মনে রাখা হয়নি। দুজনের উপরই ঝুলে আছে অংশটির শুরুর প্রশ্ন: তুমি কি দেখোনি, তোমার রব তাদের সঙ্গে কী করেছেন? আমি যা গড়ি আর যা আঁকড়ে ধরে রাখি, তা আমার পরেও থেকে যেতে পারে। তার কোনটা আমানত, আর কোনটা কীলক?",
+    "pointsEn": [
+      "Which skill of mine, the way Thamud had stone, have I started treating as my protection instead of as something lent to me?",
+      "What am I holding in place at home or at work by pressure rather than by right?",
+      "If someone walked past what I leave behind, would it teach them gratitude or serve them as a warning?",
+      "When I read of a people that was destroyed, do I look for myself in the story or for someone else to point at?",
+      "Whose loyalty am I relying on as my stakes, and would it hold if I were in the wrong?"
+    ],
+    "pointsBn": [
+      "সামূদের হাতে যেমন পাথর ছিল, আমার কোন দক্ষতাকে আমি ধার পাওয়া জিনিস না ভেবে নিজের রক্ষাকবচ ভাবতে শুরু করেছি?",
+      "ঘরে বা কাজে কোন জিনিস আমি হকের জোরে নয়, চাপের জোরে ধরে রেখেছি?",
+      "আমি যা রেখে যাব, তার পাশ দিয়ে কেউ হেঁটে গেলে সে কি শোকর শিখবে, নাকি সতর্ক হবে?",
+      "ধ্বংস হয়ে যাওয়া কোনো জাতির কথা পড়ার সময় আমি কি কাহিনিতে নিজেকে খুঁজি, নাকি আঙুল তোলার মতো অন্য কাউকে?",
+      "কাদের আনুগত্যকে আমি নিজের কীলক বানিয়ে রেখেছি, আর আমি অন্যায় করলেও কি তারা আমাকে ধরে রাখবে?"
+    ],
+    "lessonEn": "Skill and power are trusts. What you carve and what you hold in place can outlast you, so build and govern in a way that will not stand as a warning.",
+    "lessonBn": "দক্ষতা আর ক্ষমতা দুটোই আমানত। আপনি যা খোদাই করেন আর যা ধরে রাখেন, তা আপনার পরেও টিকে থাকতে পারে। তাই এমনভাবে গড়ুন ও চালান, যাতে তা পরে সতর্কবাণী হয়ে না দাঁড়ায়।"
   }
 };
 

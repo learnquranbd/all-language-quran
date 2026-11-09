@@ -159,6 +159,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "89:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Names After 'Ad",
+          "bn": "‘আদের পরে আরও দুই নাম"
+        },
+        "p": [
+          {
+            "en": "Wa-thamuda lladhina jabu s-sakhra bil-wad: and Thamud, who cut through the rock in the valley. The verse is five Arabic words, and it leans on the question of 89:6: have you not seen how your Lord dealt with 'Ad? Al-Muyassar repeats the whole question to make it plain: and how did He deal with Thamud, the people of Salih (AS), who cut the rock in the valley and took houses from it?",
+            "bn": "ওয়া সামূদাল্লাযীনা জাবুস সাখরা বিলওয়াদ: আর সামূদ, যারা উপত্যকায় পাথর কেটে ভেদ করেছিল। আয়াতটি আরবিতে পাঁচ শব্দের। এটি দাঁড়িয়ে আছে ৮৯:৬ আয়াতের প্রশ্নের উপর: তুমি কি দেখোনি তোমার রব ‘আদের সঙ্গে কী করেছেন? মুয়াসসার পুরো প্রশ্নটাই আবার তোলেন, যাতে কথাটা পরিষ্কার হয়: আর তিনি কী করেছিলেন সালেহ (আঃ)-এর কওম সামূদের সঙ্গে, যারা উপত্যকায় পাথর কেটে তা থেকে ঘর বানিয়েছিল?"
+          },
+          {
+            "en": "The next verse, three words long, completes the line: wa-fir'awna dhi l-awtad, and Pharaoh, owner of the stakes. At-Tabari carries the same question onto it: have you not seen what your Lord also did with Pharaoh, master of the stakes? This article takes both verses. The article on 89:6 and 89:7 has already dealt with 'Ad and Iram, and what follows in 89:11 to 89:14, the transgression, the scourge and the Lord who watches, is left to its own article.",
+            "bn": "পরের আয়াতটি তিনটি শব্দের, আর তাতেই তালিকা পূর্ণ হয়: ওয়া ফিরআওনা যিল আওতাদ, আর কীলকওয়ালা ফেরাউন। তাবারী একই প্রশ্ন এ আয়াতেও টেনে আনেন: তুমি কি দেখোনি, তোমার রব কীলকের মালিক ফেরাউনের সঙ্গেও কী করেছেন? এ লেখা দুটি আয়াতই আলোচনা করে। ‘আদ ও ইরামের কথা ৮৯:৬ ও ৮৯:৭ আয়াতের লেখায় আগেই এসেছে। আর ৮৯:১১ থেকে ৮৯:১৪ আয়াতে সীমালঙ্ঘন, শাস্তির চাবুক আর সদা সজাগ রবের যে কথা আছে, তা তার নিজের লেখার জন্য রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verb for Crossing and Cutting",
+          "bn": "পাড়ি দেওয়া ও কাটার এক ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses jabu as kharaqu: they pierced the rock, went into it, and took it as houses. He grounds the verb in ordinary Arab speech. Of a man who goes into open desert and crosses it, the Arabs say jaba l-falata, and at-Tabari cites a line of an-Nabigha about a rider cutting through the dark of night, jawwab al-falat, a crosser of the wastes. Yajubu, he explains, means to enter and to cut across. One verb names both a journey through empty land and a passage cut into stone.",
+            "bn": "তাবারী জাবু শব্দের ব্যাখ্যা দেন খারাকু দিয়ে: তারা পাথর ফুঁড়ে ভেতরে ঢুকেছিল আর সেটাকেই ঘর বানিয়েছিল। ক্রিয়াটির ভিত্তি তিনি দেখান আরবদের রোজকার ভাষায়। কেউ খোলা মরুভূমিতে ঢুকে তা পার হয়ে গেলে আরবরা বলে, জাবাল ফালাতা। তাবারী নাবিগার একটি পঙক্তি উদ্ধৃত করেন, যেখানে রাতের আঁধার চিরে এক সওয়ার এগিয়ে আসে: জাওয়াবুল ফালাত, বিরান প্রান্তর পাড়ি দেওয়ার অভ্যস্ত। তাঁর ব্যাখ্যায় ইয়াজুবু মানে ঢোকা এবং এপার থেকে ওপারে কেটে যাওয়া। ফলে একই ক্রিয়া বোঝায় জনশূন্য প্রান্তর পার হওয়ার সফর, আবার পাথরের বুকে কেটে তৈরি করা পথও।"
+          },
+          {
+            "en": "Ibn Kathir's gloss is that they cut the rock in the valley, and he gathers relatives of the word. People who cut through leopard skins are called mujtabi n-nimar; one says ijtaba th-thawb of opening a garment; and the jayb, a garment's opening, comes from the same root. Al-Qurtubi agrees that jabu means qata'u, they cut, and that a jayb is so called because it is cut. He adds a poet who thanked Ibn az-Zubayr for sixty wasqs: no she-camel before his had carried sixty wasqs, or jabat, crossed a land with them.",
+            "bn": "ইবন কাসীরের ব্যাখ্যা: তারা উপত্যকায় পাথর কাটত। এরপর তিনি শব্দটির আত্মীয়দের এক জায়গায় আনেন। চিতাবাঘের চামড়া কেটে ফুঁড়ে নেওয়া লোকদের বলা হয় মুজতাবিন নিমার। কাপড় খোলা অর্থে বলা হয় ইজতাবাস সাওব। জামার গলার ফাঁক, অর্থাৎ জায়বও এসেছে একই মূল থেকে। কুরতুবীও বলেন, জাবু মানে কাতাউ, তারা কেটেছিল, আর জামার জায়বকে জায়ব বলা হয় কারণ তা কাটা হয়। তিনি এক কবির কথা আনেন, যিনি ইবনুয যুবায়রের দেওয়া ষাট ওয়াসকের জন্য কৃতজ্ঞতা জানিয়েছিলেন। কবি বলেন, এর আগে কোনো উটনী ষাট ওয়াসক বয়ে নেয়নি, তা নিয়ে কোনো দেশ জাবাত, অর্থাৎ পাড়িও দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dwellings Bored Into Mountains",
+          "bn": "পাহাড় ফুঁড়ে বানানো ঘর"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the early voices with their chains. Ibn Abbas, in one route: they pierced it. In another: Thamud, the people of Salih (AS), used to carve houses out of the mountains. Mujahid: they cut through the mountains and made them houses. Qatadah: they cut through it and carved it into houses, and in Ma'mar's route from him, they bored through the rock. Ad-Dahhak: they split the stones. Ibn Zayd: they struck houses and dwellings into the rock of the mountains until they had homes there.",
+            "bn": "তাবারী প্রথম যুগের বক্তব্যগুলো সনদসহ আনেন। ইবন আব্বাস (রাঃ) একটি সূত্রে বলেন: তারা পাথর ফুঁড়েছিল। আরেক সূত্রে: সামূদ ছিল সালেহ (আঃ)-এর কওম, তারা পাহাড় কেটে ঘর বানাত। মুজাহিদ বলেন: তারা পাহাড় কেটে ঘর বানিয়েছিল। কাতাদা বলেন: তারা পাথর কেটে খোদাই করে ঘর বানিয়েছিল। মা‘মারের সূত্রে তাঁর কথা: তারা পাথরে সুড়ঙ্গ করেছিল। দাহহাক বলেন: তারা পাথর চিরেছিল। ইবন যায়দ বলেন: তারা পাহাড়ের পাথরে ঘর আর বসতি কেটে বসিয়েছিল, শেষে সেখানে তাদের আবাস গড়ে উঠেছিল।"
+          },
+          {
+            "en": "Ibn Kathir names the same five, Ibn Abbas, Mujahid, Qatadah, ad-Dahhak and Ibn Zayd, for the sense that they carved and pierced the rock. Three of them then set a companion verse beside this one. At-Tabari and al-Qurtubi quote 15:82, they used to carve houses out of the mountains, feeling secure; Ibn Kathir quotes 26:149, and you carve houses out of the mountains with skill. As-Sa'di and al-Qurtubi both name what made it possible: they carved the rocks by their own strength and took them as dwellings.",
+            "bn": "ইবন কাসীর ওই পাঁচজনেরই নাম নেন, ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা, দাহহাক ও ইবন যায়দ। তাঁদের সবার কথা একই: তারা পাথর খোদাই করে ফুঁড়েছিল। এরপর তিনজন মুফাসসির এর পাশে আরেকটি আয়াত রাখেন। তাবারী ও কুরতুবী আনেন ১৫:৮২: তারা নিশ্চিন্তে পাহাড় কেটে ঘর বানাত। ইবন কাসীর আনেন ২৬:১৪৯: তোমরা দক্ষতার সঙ্গে পাহাড় কেটে ঘর বানাও। কাজটা কীভাবে সম্ভব হলো, সা'দী ও কুরতুবী দুজনেই তা বলে দেন: তারা নিজেদের শক্তির জোরে পাথর খোদাই করে তাকে বসতঘর বানিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Valley, and Who Named It",
+          "bn": "কোন উপত্যকা, কার বরাতে"
+        },
+        "p": [
+          {
+            "en": "Bil-wad: in the valley. Which valley? Ibn Kathir and al-Qurtubi both report from Muhammad ibn Ishaq that it was Wadi al-Qura, and Ibn Kathir gives Ibn Ishaq's fuller line: they were Arabs, and their home was in Wadi al-Qura. As-Sa'di and al-Baghawi gloss the word as Wadi al-Qura without naming who said it. So in these texts the identification goes back to Ibn Ishaq by name, and the later commentators carry it forward, some without the name.",
+            "bn": "বিলওয়াদ: উপত্যকায়। কোন উপত্যকা? ইবন কাসীর ও কুরতুবী দুজনেই মুহাম্মাদ ইবন ইসহাকের বরাতে বলেন, সেটি ওয়াদিল কুরা। ইবন কাসীর ইবন ইসহাকের পুরো কথাটা আনেন: তারা ছিল আরব, আর তাদের বসতি ছিল ওয়াদিল কুরায়। সা'দী ও বাগাভীও শব্দটির ব্যাখ্যা দেন ওয়াদিল কুরা বলে, তবে কার কথা তা উল্লেখ করেন না। অর্থাৎ এসব গ্রন্থে জায়গাটির পরিচয় নাম ধরে গিয়ে ঠেকে ইবন ইসহাকে। পরের মুফাসসিরেরা সেই কথাই বহন করে এনেছেন, কেউ কেউ তাঁর নাম ছাড়াই।"
+          },
+          {
+            "en": "Al-Qurtubi keeps a second view beside it, introduced with it is said: the valley is the low ground between mountains, in which they bored houses, dwellings and cisterns. He then defines the word itself. Any opening between mountains or hills that serves as a path and outlet for floodwater is a wadi. Under this reading the verse points to the shape of the land they worked, more than to a name on a map.",
+            "bn": "কুরতুবী এর পাশে আরেকটি মত রাখেন, 'বলা হয়' কথাটি দিয়ে: উপত্যকা মানে পাহাড়ের মাঝখানের নিচু জমি, যেখানে তারা ঘর, বসতি আর পানির হাউজ কেটে বানিয়েছিল। তারপর তিনি শব্দটির সংজ্ঞা দেন। পাহাড় বা টিলার মাঝের যে ফাঁক দিয়ে বন্যার পানি চলাচলের পথ ও নির্গমন হয়, তাকেই ওয়াদি বলে। এ ব্যাখ্যায় আয়াত কোনো নির্দিষ্ট নামের চেয়ে বেশি দেখায় তাদের কাজের জমির গড়ন।"
+          },
+          {
+            "en": "Al-Baghawi notes a point of recitation in the same word. Ibn Kathir and Ya'qub, in his list of readers, keep the final ya of al-wadi whether the reciter joins or pauses. Warsh keeps it only when joining. The rest drop it in both, in step with the verse endings. The reader Ibn Kathir named here is a different man from the commentator quoted elsewhere in this article. The written form is bil-wad, and in his account every reader but those two pronounces it so at the pause.",
+            "bn": "বাগাভী একই শব্দে তিলাওয়াতের একটি বিষয় জানান। তাঁর কারীদের তালিকায় ইবন কাসীর ও ইয়াকূব আলওয়াদি শব্দের শেষের ইয়া মিলিয়ে পড়ার সময়ও রাখেন, থামার সময়ও রাখেন। ওয়ারশ রাখেন কেবল মিলিয়ে পড়ার সময়। বাকিরা দুই অবস্থাতেই তা বাদ দেন, যাতে আয়াতের শেষগুলোর সঙ্গে মিল থাকে। এখানে যে কারী ইবন কাসীরের নাম এসেছে, তিনি এ লেখায় উদ্ধৃত তাফসীরকার ইবন কাসীর নন, ভিন্ন মানুষ। লিখিত রূপ বিলওয়াদ। তাঁর বর্ণনায় ওই দুজন ছাড়া সব কারী থামার সময় এভাবেই পড়েন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Troops, Stakes, or Canopies",
+          "bn": "সৈন্য, খুঁটি, নাকি চাঁদোয়া"
+        },
+        "p": [
+          {
+            "en": "Dhi l-awtad: owner of the awtad. Ma'arif al-Qur'an explains that awtad is the plural of watad, a peg, stake or nail. What the name refers to is a real disagreement, and at-Tabari opens it in those terms: the people of interpretation differed. The first reading makes the stakes his armies. Ibn Abbas, in at-Tabari and in Ibn Kathir, who names the route through al-Awfi, says they were the troops who made his command firm. Al-Qurtubi gives this first, from Ibn Abbas: the troops, camps and armies that strengthened his kingdom.",
+            "bn": "যিল আওতাদ: আওতাদের মালিক। মাআরিফুল কুরআন বুঝিয়ে দেয়, আওতাদ হলো ওয়াতাদের বহুবচন, যার মানে গোঁজ, খুঁটি বা পেরেক। নামটি দিয়ে কী বোঝানো হয়েছে, তা নিয়ে সত্যিকারের মতভেদ আছে। তাবারী আলোচনা শুরুই করেন এ কথায়: তাফসীরকারেরা এতে ভিন্নমত পোষণ করেছেন। প্রথম মতে কীলক মানে তার সৈন্যবাহিনী। তাবারী ও ইবন কাসীরে ইবন আব্বাস (রাঃ) বলেন (ইবন কাসীর সূত্রটিকে আওফীর বলে উল্লেখ করেন), এরা সেই সৈন্য, যারা তার হুকুম মজবুত করত। কুরতুবীও ইবন আব্বাস (রাঃ)-এর বরাতে এ মতই প্রথমে আনেন: সৈন্য, ছাউনি আর বাহিনী, যারা তার রাজত্বকে শক্ত করেছিল।"
+          },
+          {
+            "en": "As-Sa'di takes the same reading and explains the image: the troops who fixed his kingdom in place, as stakes fix whatever is meant to be held down. Al-Muyassar agrees: Pharaoh, king of Egypt, owner of the troops who made his rule firm and strengthened his command. The second reading makes the stakes literal, driven into people. Mujahid says he used to stake people down. Sa'id ibn Jubayr, in at-Tabari, describes a man pinned by each hand and foot. Ibn Kathir adds al-Hasan and as-Suddi to this group, and al-Baghawi gives it as the reason for the name.",
+            "bn": "সা'দীও এ মত নেন এবং উপমাটা খুলে বলেন: যে সৈন্যরা তার রাজত্বকে জায়গামতো গেঁথে রেখেছিল, ঠিক যেমন খুঁটি গেঁথে রাখে যা আটকে রাখার দরকার। মুয়াসসারও একমত: মিসরের রাজা ফেরাউন, যার সৈন্যরা তার রাজত্ব মজবুত করেছিল আর তার হুকুমকে শক্তি দিয়েছিল। দ্বিতীয় মতে খুঁটিগুলো আক্ষরিক, মানুষের দেহে গাঁথা। মুজাহিদ বলেন, সে মানুষকে খুঁটিতে গেঁথে রাখত। তাবারীতে সাঈদ ইবন জুবায়র এমন এক মানুষের বিবরণ দেন, যার প্রতিটি হাত আর পা খুঁটিতে আটকানো। ইবন কাসীর এ দলে হাসান ও সুদ্দীকেও যোগ করেন। আর বাগাভী নামটির কারণ হিসেবে এ মতই দেন।"
+          },
+          {
+            "en": "The same chain from Ibn Abbas that gives the armies also carries an it is said: Pharaoh drove iron stakes into people's hands and feet and hung them from them. Ma'arif al-Qur'an says the majority of commentators hold the torture reading. A third reading is Qatadah's, which he introduces with it was mentioned to us: canopies and play-grounds of stakes and ropes, under which games were played for him. In Ma'mar's route Qatadah calls it a building. At-Tabari also has, from Sa'id ibn Jubayr through an unnamed man, towers on which he tortured people.",
+            "bn": "যে সূত্রে ইবন আব্বাস (রাঃ) থেকে সৈন্যবাহিনীর মত এসেছে, তাতেই 'বলা হয়' দিয়ে আরেকটি কথা আছে: ফেরাউন মানুষের হাতে-পায়ে লোহার খুঁটি গেঁথে তাদের ঝুলিয়ে রাখত। মাআরিফুল কুরআন বলে, অধিকাংশ তাফসীরকার নির্যাতনের মতটিই গ্রহণ করেছেন। তৃতীয় মতটি কাতাদার, যা তিনি শুরু করেন 'আমাদের কাছে উল্লেখ করা হয়েছে' বলে। তাঁর মতে খুঁটি আর রশি দিয়ে বানানো চাঁদোয়া ও খেলার জায়গা, যার নিচে ফেরাউনের জন্য খেলা দেখানো হতো। মা‘মারের সূত্রে কাতাদা একে বলেছেন দালান। তাবারী এক অনামা ব্যক্তির মাধ্যমে সাঈদ ইবন জুবায়র থেকে আরও আনেন: তার কিছু মিনার ছিল, যার উপর সে মানুষকে শাস্তি দিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Weighs the Word",
+          "bn": "শব্দটি মাপেন তাবারী"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then states his own preference. The nearest to correct, he says, is that the verse means stakes that are driven in, whether of wood or of iron, because that is the known sense of awtad. Pharaoh is described by them for one of two reasons: either he tortured people with them, as Abu Rafi' and Sa'id ibn Jubayr said, or games were played for him with them. He settles the word but does not choose between torture and amusement.",
+            "bn": "এরপর তাবারী নিজের পছন্দ জানান। তাঁর মতে সঠিকের সবচেয়ে কাছের কথা হলো, এখানে বোঝানো হয়েছে মাটিতে গাঁথা খুঁটি, কাঠের হোক বা লোহার। কারণ আওতাদ শব্দের পরিচিত অর্থ এটাই। ফেরাউনকে এ বিশেষণ দেওয়ার কারণ দুটির একটি। হয় সে এগুলো দিয়ে মানুষকে শাস্তি দিত, যেমন আবু রাফি' ও সাঈদ ইবন জুবায়র বলেছেন। নয়তো এগুলো দিয়ে তার জন্য খেলা দেখানো হতো। শব্দের অর্থ তিনি স্থির করেন, কিন্তু নির্যাতন আর বিনোদনের মধ্যে কোনোটাকে বেছে নেন না।"
+          },
+          {
+            "en": "So the commentators part ways. As-Sa'di and al-Muyassar hear a figure for power: men who held a kingdom down the way pegs hold a tent. At-Tabari keeps the literal word, and many early voices hear iron in flesh. This article keeps that disagreement as it stands. It does notice that every reading names Pharaoh by what held others in place, whether soldiers or stakes. Thamud are named for the rock they opened, Pharaoh for the things he fastened down.",
+            "bn": "এভাবে মুফাসসিরদের পথ আলাদা হয়ে যায়। সা'দী ও মুয়াসসার এখানে ক্ষমতার উপমা শোনেন: এমন লোকজন, যারা রাজত্বকে চেপে ধরে রেখেছিল, যেমন খুঁটি তাঁবু ধরে রাখে। তাবারী শব্দটির আক্ষরিক অর্থ ধরে রাখেন। আর প্রথম যুগের অনেকে শোনেন মানুষের শরীরে গাঁথা লোহার কথা। এ লেখা মতভেদটা যেমন আছে তেমনই রেখে দিল। তবে একটা বিষয় চোখে পড়ে। প্রতিটি মতেই ফেরাউনের পরিচয় এসেছে এমন কিছু দিয়ে, যা অন্যকে আটকে রাখত, তা সৈন্য হোক বা খুঁটি। সামূদের পরিচয় তাদের খোলা পাথরে, ফেরাউনের পরিচয় তার আটকে রাখা জিনিসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Kept at Their Weight",
+          "bn": "বর্ণনা, যার যতটুকু ওজন"
+        },
+        "p": [
+          {
+            "en": "Several narratives gather around the stakes. Abu Rafi', through Thabit al-Bunani, in at-Tabari and Ibn Kathir: Pharaoh drove four stakes for his wife, then laid a great millstone on her back until she died. As-Suddi, in Ibn Kathir, and Abd ar-Rahman ibn Zayd, in al-Qurtubi, describe a man bound to stakes by each limb and a huge rock let fall on him; Ibn Zayd adds that the rock was raised with pulleys. These come from early figures. None is words of the Prophet ﷺ, and none of the fetched texts grades them.",
+            "bn": "খুঁটিগুলোকে ঘিরে কয়েকটি কাহিনি জমেছে। তাবারী ও ইবন কাসীরে সাবিত আল-বুনানীর মাধ্যমে আবু রাফি' বলেন: ফেরাউন তার স্ত্রীর জন্য চারটি খুঁটি পুঁতেছিল, তারপর তাঁর পিঠে বিশাল এক জাঁতা চাপিয়ে দেয়, শেষে তিনি মারা যান। ইবন কাসীরে সুদ্দী আর কুরতুবীতে আবদুর রহমান ইবন যায়দ এক মানুষের বিবরণ দেন, যার প্রতিটি হাত-পা খুঁটিতে বাঁধা, আর তার উপর ফেলে দেওয়া হয় বিরাট পাথর। ইবন যায়দ যোগ করেন, পাথরটা কপিকল দিয়ে উপরে তোলা হতো। এসব প্রথম যুগের ব্যক্তিদের কথা। এর কোনোটিই নবী ﷺ-এর বাণী নয়, আর যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতে এগুলোর মান নির্ণয় করা হয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi says Pharaoh did this to his wife Asiya and to the woman who combed his daughter's hair, and refers back to his discussion at the end of at-Tahrim. Al-Baghawi relays a long narrative, through his own chain to Ibn Abbas, of that hairdresser and then of Asiya, each stretched between four stakes. Ma'arif al-Qur'an mentions a lengthy story about his wife, citing al-Mazhari. Al-Baghawi gives no grading, and the narrative is not raised to the Prophet ﷺ. This article does not retell its details and builds nothing on them.",
+            "bn": "কুরতুবী বলেন, ফেরাউন এ কাজ করেছিল তার স্ত্রী আসিয়ার সঙ্গে, আর তার মেয়ের চুল আঁচড়ে দেওয়া মহিলার সঙ্গে। এ বিষয়ে তিনি সূরা তাহরীমের শেষের আলোচনার দিকে ইশারা করেন। বাগাভী নিজের সনদে ইবন আব্বাস (রাঃ) পর্যন্ত একটি দীর্ঘ কাহিনি আনেন। তাতে প্রথমে সেই কেশবিন্যাসকারিণী, পরে আসিয়া, দুজনকেই চারটি খুঁটির মাঝে টান করে বাঁধা হয়। মাআরিফুল কুরআন মাযহারীর বরাতে তার স্ত্রীকে নিয়ে এক দীর্ঘ কাহিনির কথা বলে। বাগাভী কোনো মান উল্লেখ করেন না, আর কাহিনিটি নবী ﷺ পর্যন্ত পৌঁছানো নয়। এ লেখা এর খুঁটিনাটি আবার বলল না, এর উপর কিছু দাঁড়ও করাল না।"
+          },
+          {
+            "en": "Firmer ground lies in the Qur'an itself. Al-Baghawi closes the narrative with a prayer that the Qur'an gives, at 66:11, to the wife of Pharaoh: my Lord, build for me a house near You in Paradise, and save me from Pharaoh and his deeds, and save me from the wrongdoing people. That verse is the part of the story no one needs a chain for. Whatever the stakes were, a believing woman inside his own house asked to be saved from his deeds.",
+            "bn": "কুরআনের ভেতরেই আছে আরও শক্ত জমি। বাগাভী কাহিনিটি শেষ করেন একটি দোয়া দিয়ে, যা কুরআন ৬৬:১১ আয়াতে ফেরাউনের স্ত্রীর মুখে দিয়েছে: হে আমার রব, আপনার কাছে জান্নাতে আমার জন্য একটি ঘর বানিয়ে দিন, আমাকে ফেরাউন ও তার কাজকর্ম থেকে মুক্তি দিন, আর জালিম কওম থেকে আমাকে রক্ষা করুন। কাহিনির এ অংশের জন্য কারও সনদ লাগে না। খুঁটি যা-ই হোক, তার নিজের ঘরের এক ঈমানদার নারী তার কাজকর্ম থেকে মুক্তি চেয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walking Past Punished Places",
+          "bn": "শাস্তির জায়গা পেরোনোর আদব"
+        },
+        "p": [
+          {
+            "en": "No fetched tafsir attaches a sound hadith to either verse. Al-Qurtubi relays a report through Abu al-Ashhab from Abu Nadra about the Prophet ﷺ at the valley of Thamud during the Tabuk campaign. The chain as he gives it stops at Abu Nadra, and he gives it no grading, so it is mentioned here and not quoted. The Prophet's passage through those dwellings on the march to Tabuk is told, from al-Bukhari and Muslim, in the articles on 7:74 and 26:142.",
+            "bn": "যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এ দুই আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। কুরতুবী আবুল আশহাবের মাধ্যমে আবু নাদরা থেকে একটি বর্ণনা আনেন, যা তাবুক অভিযানে সামূদের উপত্যকায় নবী ﷺ-এর উপস্থিতি নিয়ে। তিনি যেভাবে দিয়েছেন, সনদ থেমে গেছে আবু নাদরায়, আর তিনি এর কোনো মান উল্লেখ করেননি। তাই এখানে কেবল উল্লেখ রইল, উদ্ধৃতি নয়। তাবুকের পথে ওই বসতিগুলো পেরোনোর ঘটনা বুখারী ও মুসলিমের বরাতে বলা হয়েছে ৭:৭৪ ও ২৬:১৪২ আয়াতের লেখায়।"
+          },
+          {
+            "en": "One general narration, not attached to this verse, states the rule in a line. Al-Bukhari records in his Sahih, number 433, from Abdullah ibn Umar, that the Messenger of Allah ﷺ said: do not enter upon these people who were punished unless you are weeping; if you are not weeping, do not enter upon them, so that what befell them does not befall you. This wording does not name the place. It sets the manner of passing such ruins: with tears, and not as sightseers.",
+            "bn": "একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, নিয়মটা এক লাইনে বলে দেয়। বুখারী তাঁর সহীহ গ্রন্থে ৪৩৩ নম্বরে আবদুল্লাহ ইবন উমার (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: শাস্তিপ্রাপ্ত এই লোকদের কাছে কাঁদতে কাঁদতে ছাড়া প্রবেশ কোরো না। যদি কাঁদতে না পারো, তবে তাদের কাছে প্রবেশ কোরো না, যাতে তাদের উপর যা এসেছিল তা তোমাদের উপর না আসে। এ শব্দগুলোতে জায়গার নাম নেই। এতে কেবল ঠিক হয়ে যায় এমন ধ্বংসাবশেষ পেরোনোর আদব: চোখে পানি নিয়ে, দর্শনার্থীর কৌতূহল নিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carved Rock, No Living Heirs",
+          "bn": "খোদাই করা পাথর, জীবিত উত্তরসূরি নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. These two verses describe what the text describes: a people of the past named Thamud, a ruler of the past called Pharaoh, and what their Lord did with them. They license nothing against any living person or community. They give nobody standing to name a state, a nation, a tribe or a town of today as Thamud or as Pharaoh's heirs, or to treat its people as condemned.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ দুই আয়াত কেবল সেটুকুই বলে, যা আয়াতে আছে: অতীতের এক জাতি সামূদ, অতীতের এক শাসক ফেরাউন, আর তাদের রব তাদের সঙ্গে যা করেছেন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো রাষ্ট্র, জাতি, গোত্র বা শহরকে সামূদ বা ফেরাউনের উত্তরসূরি বলার, কিংবা সেখানকার মানুষকে অভিশপ্ত গণ্য করার অধিকার এ আয়াত কাউকে দেয় না।"
+          },
+          {
+            "en": "The question that governs both verses is still the one in 89:6: have you not seen? Thamud had the skill to open mountains, and Pharaoh had the means to hold whole peoples in place. In these verses neither is mentioned for a single good use of what it had. What I make with my hands, and the people or rules I use to keep things in place, will they stand after me as a gift, or as stakes?",
+            "bn": "দুই আয়াতের উপর যে প্রশ্ন, তা এখনো ৮৯:৬ আয়াতেরটাই: তুমি কি দেখোনি? সামূদের ছিল পাহাড় খুলে ফেলার দক্ষতা, ফেরাউনের ছিল গোটা জনগোষ্ঠীকে চেপে ধরে রাখার উপায়। এ দুই আয়াতে হাতে থাকা জিনিসের একটিও ভালো ব্যবহারের জন্য কারও উল্লেখ নেই। পাঠক তাই নিজেকে জিজ্ঞেস করতে পারেন। নিজের হাতে যা গড়ছি, আর যে মানুষ বা নিয়ম দিয়ে সব কিছু জায়গামতো ধরে রাখছি, আমার পরে তা কি উপহার হয়ে দাঁড়াবে, নাকি কীলক হয়ে?"
+          }
+        ]
+      }
+    ]
+  },
   "89:18": {
     "sections": [
       {
