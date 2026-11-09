@@ -11,6 +11,150 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "84:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words, Then Suspense",
+          "bn": "তিন শব্দ, তারপর অপেক্ষা"
+        },
+        "p": [
+          {
+            "en": "Idha as-sama'u inshaqqat: when the sky has split open. Three Arabic words open al-Inshiqaq, the surah named for this verb. Al-Qurtubi records that it is Makkan in the view of all, and that it has twenty-five verses. The verse begins with idha, when, which in Arabic waits for a main clause to tell what happens then. The verb inshaqqat has the form of the past, though the event lies ahead. Ibn Kathir says only: that is the Day of Resurrection. Al-Baghawi calls its splitting one of the signs of the Resurrection.",
+            "bn": "ইযাস সামাউন শাক্কাত: যখন আকাশ ফেটে যাবে। আরবিতে মাত্র তিনটি শব্দ, আর এ দিয়েই শুরু আল-ইনশিকাক সূরা, যার নামও এই ক্রিয়া থেকে। কুরতুবী লেখেন, সবার মতেই সূরাটি মাক্কী, আয়াত পঁচিশটি। আয়াতের শুরুতে আছে ইযা, অর্থাৎ যখন। আরবিতে এ শব্দের পরে একটি মূল বাক্য আসার কথা, যা বলবে তখন কী ঘটবে। ক্রিয়াপদ ইনশাক্কাত অতীতকালের রূপে এসেছে, অথচ ঘটনাটি সামনে। ইবন কাসীর শুধু বলেন: সেটি কিয়ামতের দিন। বাগাভীর ভাষায়, আকাশের ফেটে যাওয়া কিয়ামতের আলামতগুলোর একটি।"
+          },
+          {
+            "en": "Two things often linked with this opening are treated elsewhere in this app. Ibn Kathir begins his commentary on the surah with reports of Abu Hurayra (RA) prostrating in it; those belong to 84:21, where the prostration falls. Tirmidhi records a report, which he himself grades hasan gharib, naming this opening together with those of 81:1 and 82:1; it is discussed at 81:1. The subject here is the five verses that set the scene: the sky in 84:1 and 84:2, the earth in 84:3 to 84:5, and what all of it leads to.",
+            "bn": "এ সূচনার সঙ্গে প্রায়ই যে দুটি প্রসঙ্গ আসে, সেগুলোর আলোচনা এই অ্যাপের অন্য জায়গায় আছে। ইবন কাসীর সূরার তাফসীর শুরু করেন এ সূরায় আবু হুরায়রা (রাঃ)-এর সিজদা করার বর্ণনাগুলো দিয়ে। সিজদার জায়গা ৮৪:২১, তাই সেগুলো সেখানেই। তিরমিযী একটি বর্ণনা এনেছেন, যাতে এই সূচনার সঙ্গে ৮১:১ ও ৮২:১ আয়াতের সূচনার কথাও আছে। তিনি নিজে এর মান বলেছেন হাসান গারীব। এর আলোচনা ৮১:১ আয়াতে। এখানকার বিষয় দৃশ্য সাজানো পাঁচটি আয়াত: ৮৪:১ ও ৮৪:২ আয়াতে আকাশ, ৮৪:৩ থেকে ৮৪:৫ পর্যন্ত জমিন, আর এসবের শেষে কী আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gates, Clouds and the Galaxy",
+          "bn": "দরজা, মেঘ আর ছায়াপথ"
+        },
+        "p": [
+          {
+            "en": "The commentators picture the splitting in different ways. At-Tabari: the sky cracked and was cut apart, and became gates. Al-Muyassar: it cracked and was rent open with the clouds on the Day of Resurrection. Al-Qurtubi glosses inshaqqat as split, and rent open with the ghamam, which he explains as something like white cloud; he says Abu Salih related the same from Ibn 'Abbas (RA). He then gives a report from 'Ali (RA): it will split from the majarra, the band of the Milky Way, and the majarra, 'Ali said, is the gate of the sky.",
+            "bn": "আকাশ কীভাবে ফাটবে, তাফসীরকারেরা তার ছবি আঁকেন ভিন্ন ভিন্নভাবে। তাবারী বলেন: আকাশে চিড় ধরবে, তা টুকরো টুকরো হয়ে যাবে, আর হয়ে যাবে অনেকগুলো দরজা। মুয়াসসার বলে: কিয়ামতের দিন আকাশ চিড় খেয়ে মেঘসহ ফেটে যাবে। কুরতুবী ইনশাক্কাতের অর্থ করেন, ফেটে গেল এবং গামাম নিয়ে চিরে গেল। গামামের ব্যাখ্যা দেন সাদা মেঘের মতো কিছু বলে, আর জানান, আবু সালিহ ইবন আব্বাস (রাঃ) থেকে এ কথাই বর্ণনা করেছেন। এরপর তিনি আলী (রাঃ)-এর একটি বর্ণনা আনেন: আকাশ ফাটবে মাজাররা থেকে, অর্থাৎ ছায়াপথের সেই উজ্জ্বল পটি থেকে। আলী (রাঃ) বলেন, মাজাররাই আকাশের দরজা।"
+          },
+          {
+            "en": "As-Sa'di sets the verse in a wider frame. He introduces the passage as Allah making clear the change that will come over the great bodies of creation on the Day of Resurrection. Then he explains inshaqqat in four strokes: the sky is rent, its parts separate from one another, its stars scatter, and its sun and moon are eclipsed. Al-Qurtubi, for his part, calls the splitting one of the portents of the Hour and its signs. None of these commentators sets one image against another; each adds a detail to the same event.",
+            "bn": "সা'দী আয়াতটিকে আরও বড় পরিসরে রাখেন। তাঁর ভূমিকা অনুযায়ী, এখানে আল্লাহ জানিয়ে দিচ্ছেন কিয়ামতের দিন সৃষ্টির বিশাল বিশাল বস্তুতে কী পরিবর্তন আসবে। এরপর ইনশাক্কাতের ব্যাখ্যা তিনি দেন চারটি কথায়। আকাশ চিরে যাবে। তার এক অংশ আরেক অংশ থেকে আলাদা হয়ে যাবে। তারকাগুলো ছড়িয়ে পড়বে। আর সূর্য ও চাঁদ আলো হারাবে। কুরতুবীও এ ফেটে যাওয়াকে কিয়ামতের পূর্বাভাস ও আলামতের মধ্যে গণ্য করেন। এই তাফসীরকারদের কেউ এক ছবিকে আরেক ছবির বিপরীতে দাঁড় করান না। প্রত্যেকে একই ঘটনার একটি করে দিক যোগ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Ear That Obeys",
+          "bn": "যে কান মেনে নেয়"
+        },
+        "p": [
+          {
+            "en": "Then 84:2: wa-adhinat li-rabbiha, and it listened to its Lord. At-Tabari explains that the heavens, in their cracking and splitting, heard their Lord and obeyed Him in what He commanded them. The Arabs, he says, say adhina laka, meaning he listened to you, and the root of their way of speaking about obedience is sami'a lahu, he heard him: I heard your word, and I obeyed in what you said and commanded. Al-Baghawi traces adhinat to al-adhan, listening, and glosses: it heard its Lord's command to split, and obeyed it.",
+            "bn": "এরপর ৮৪:২: ওয়া আযিনাত লিরাব্বিহা, আর সে তার রবের কথা শুনল। তাবারী ব্যাখ্যা করেন, আসমানগুলো চিড় খাওয়া ও ফেটে যাওয়ার মধ্য দিয়ে তাদের রবের কথা শুনেছে, আর তিনি যা আদেশ করেছেন তাতে তাঁর আনুগত্য করেছে। তিনি জানান, আরবরা বলে আযিনা লাকা, মানে সে তোমার কথা কান দিয়ে শুনল। আনুগত্য বোঝাতে তাদের কথার মূলেই আছে সামিআ লাহু, সে তার কথা শুনল। অর্থাৎ তোমার কথা আমি শুনেছি, আর তুমি যা বলেছ ও আদেশ করেছ তা মেনেছি। বাগাভী আযিনাতকে আল-আযান শব্দের সঙ্গে মেলান, যার অর্থ শোনা। তাঁর ব্যাখ্যা: আকাশ ফেটে যাওয়ার জন্য রবের আদেশ শুনেছে এবং তা পালন করেছে।"
+          },
+          {
+            "en": "At-Tabari then names the early authorities. Ibn 'Abbas (RA): it heard its Lord. Mujahid: it heard. Sa'id ibn Jubayr, Qatada and ad-Dahhak: it heard and obeyed. Ibn Kathir: it listened to its Lord and obeyed His command to split. As-Sa'di draws the fullest picture: it listened to His command, lent Him its hearing, and gave ear to His address. Ma'arif al-Qur'an puts it in a line: here listening includes obedience. All of them read the verb as hearing that does not stop at the ear.",
+            "bn": "এরপর তাবারী পূর্বসূরিদের নাম ধরে ধরে উল্লেখ করেন। ইবন আব্বাস (রাঃ): সে তার রবের কথা শুনল। মুজাহিদ: সে শুনল। সাঈদ ইবন জুবাইর, কাতাদা ও দাহহাক: সে শুনল এবং মানল। ইবন কাসীর বলেন, আকাশ রবের কথা শুনেছে এবং ফেটে যাওয়ার আদেশ পালন করেছে। সবচেয়ে পূর্ণ ছবি আঁকেন সা'দী: সে তাঁর আদেশ শুনল, তাঁর দিকে কান পেতে দিল, তাঁর সম্বোধনে মনোযোগ দিল। মাআরিফুল কুরআন এক কথায় বলে: এখানে শোনার ভেতরেই আনুগত্য আছে। তাঁদের প্রত্যেকের কাছেই এ ক্রিয়ার অর্থ এমন শোনা, যা কানে এসে থেমে যায় না।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi both cite a line of verse in which the same verb means they listened: deaf when they hear some good of me mentioned, and when I am mentioned with evil among them, they listen. Al-Qurtubi follows it with a line of Qa'nab ibn Umm Sahib in the same sense, where people seize on a suspicion with delight and bury whatever good they have heard. In both, adhina is not sound reaching an ear by chance. It is an ear that turns toward what it wants to hear.",
+            "bn": "তাবারী ও কুরতুবী দুজনেই একটি কবিতার চরণ উদ্ধৃত করেন, যেখানে এই ক্রিয়াটিরই অর্থ তারা কান পেতে শুনল। কবি বলছেন: আমার কোনো ভালো কথা উঠলে তারা বধির, আর তাদের মাঝে আমার কোনো মন্দ কথা উঠলে তারা কান পেতে শোনে। কুরতুবী এর পরে কা'নাব ইবন উম্মে সাহিবের আরেকটি চরণ আনেন একই অর্থে। সেখানে লোকেরা কোনো সন্দেহের কথা পেলে খুশিতে তা নিয়ে উড়ে বেড়ায়, আর ভালো কিছু শুনলে মাটিচাপা দেয়। দুই চরণেই আযিনা মানে হঠাৎ কানে আওয়াজ ঢুকে পড়া নয়। মানে এমন কান, যা নিজে থেকে ঘুরে যায় সেই কথার দিকে, যা সে শুনতে চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verb in a Prophetic Saying",
+          "bn": "নবীজির কথায় একই ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Both commentators also support the gloss with a saying of the Prophet ﷺ in which the verb appears. Al-Bukhari records it in his Sahih (5023) from Abu Hurayra (RA): lam ya'dhani-llahu li-shay'in ma adhina lin-nabiyyi yataghanna bil-Qur'an, Allah has not listened to anything as He listened to the Prophet reciting the Qur'an in a pleasant tone. A companion of the narrator added: he means, reciting it aloud. That is al-Bukhari's wording; at-Tabari and al-Qurtubi quote the saying in a slightly different form.",
+            "bn": "দুই তাফসীরকারই এ অর্থের পক্ষে নবী ﷺ-এর একটি বাণী আনেন, যেখানে এই ক্রিয়াটি এসেছে। বুখারী তাঁর সহীহ গ্রন্থে (৫০২৩) আবু হুরায়রা (রাঃ) থেকে তা বর্ণনা করেছেন: লাম ইয়া'যানিল্লাহু লিশাইয়িন মা আযিনা লিন্নাবিয়্যি ইয়াতাগান্না বিল কুরআন। অর্থাৎ নবী সুন্দর সুরে কুরআন তিলাওয়াত করলে আল্লাহ যেভাবে তা শোনেন, অন্য কিছু তিনি সেভাবে শোনেন না। বর্ণনাকারীর এক সঙ্গী এর সঙ্গে যোগ করেছেন: তিনি বোঝাতে চেয়েছেন, উঁচু আওয়াজে তিলাওয়াত করা। এটি বুখারীর শব্দ। তাবারী ও কুরতুবী বাণীটি একটু ভিন্ন শব্দে উদ্ধৃত করেছেন।"
+          },
+          {
+            "en": "The saying is not about this verse, and neither commentator attaches it to 84:2. They bring it for the word alone: as at-Tabari explains it, Allah did not listen to anything as He listens to a prophet reciting. It shows adhina used in the Prophet's ﷺ own speech for listening with full attention, which is the sense the gloss on 84:2 needs. The sky in this verse is described with the verb used for that kind of hearing. Its obedience is pictured as attentive hearing.",
+            "bn": "বাণীটি এই আয়াত নিয়ে নয়, আর কোনো তাফসীরকারই একে ৮৪:২ আয়াতের সঙ্গে যুক্ত করেননি। তাঁরা এটি এনেছেন শুধু শব্দের অর্থ দেখাতে। তাবারীর ব্যাখ্যায়: কোনো নবীর তিলাওয়াত আল্লাহ যেভাবে শোনেন, আর কিছু তিনি সেভাবে শোনেননি। এতে দেখা যায়, নবী ﷺ নিজের কথায় আযিনা ব্যবহার করেছেন পূর্ণ মনোযোগে শোনার অর্থে। ৮৪:২ আয়াতের ব্যাখ্যার জন্য ঠিক এ অর্থটাই দরকার। এ আয়াতে আকাশের বর্ণনায় এসেছে সেই শোনার ক্রিয়া। তাই তার আনুগত্যের ছবিটা মন দিয়ে শোনার ছবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Laid Upon It, Owed by It",
+          "bn": "তার উপর চাপানো, তার কাছে পাওনা"
+        },
+        "p": [
+          {
+            "en": "The verse closes on wa-huqqat, a single passive verb, and the commentators open it in two directions. At-Tabari's own gloss keeps the passive with Allah as the actor: Allah made listening binding upon it, by the splitting and by its coming to obedience to Him in that. The report he carries from Ibn 'Abbas (RA) runs the same way: it was made firm for obedience to its Lord. On this side, huqqat names something done to the sky. The obligation is laid on it from above.",
+            "bn": "আয়াতের শেষ শব্দ ওয়া হুক্কাত, একটিমাত্র কর্মবাচ্য ক্রিয়া। তাফসীরকারেরা একে দুই দিক থেকে খোলেন। তাবারী নিজের ব্যাখ্যায় কর্মবাচ্য রেখেই কর্তা হিসেবে আল্লাহকে ধরেন: আল্লাহ তার উপর শোনাটা অবধারিত করে দিয়েছেন, ফেটে যাওয়ার মাধ্যমে এবং সে ব্যাপারে তাঁর আনুগত্যে পৌঁছানোর মাধ্যমে। ইবন আব্বাস (রাঃ) থেকে তিনি যে বর্ণনা আনেন, তাও একই পথে চলে: রবের আনুগত্যের জন্য তাকে পাকা করে দেওয়া হয়েছে। এ দিক থেকে হুক্কাত বোঝায় আকাশের উপর কিছু করা হয়েছে। দায়টা উপর থেকে তার কাঁধে দেওয়া।"
+          },
+          {
+            "en": "The other direction reads it as: it was due, it was fitting. Sa'id ibn Jubayr, in at-Tabari: and it was right for it. Al-Qurtubi: and it was right for it to hear. He reports Qatada: it was right for it to do that; and ad-Dahhak: huqqat means it obeyed, and it was right for it to obey its Lord, because He created it. He notes the usage fulan mahquq bi-kadha, so-and-so is rightly bound to such a thing, and quotes a line of the poet Kuthayyir using the verb in this sense of being deserved.",
+            "bn": "অন্য দিকটি অর্থ করে: এটাই তার প্রাপ্য ছিল, এটাই তার জন্য সংগত। তাবারীর বর্ণনায় সাঈদ ইবন জুবাইর বলেন: আর এটাই তার জন্য ঠিক। কুরতুবীর ব্যাখ্যা: শোনাটাই তার জন্য ঠিক ছিল। তিনি কাতাদার কথা আনেন: এমনটা করাই তার জন্য সংগত। আর দাহহাকের কথা: হুক্কাত মানে সে আনুগত্য করল, আর রবের আনুগত্য করাই তার উচিত, কারণ তিনিই তাকে সৃষ্টি করেছেন। কুরতুবী আরবদের একটি বাকরীতিও উল্লেখ করেন, ফুলান মাহকূক বিকাযা, অমুক এ কাজের যথার্থ দায়বদ্ধ। এরপর কবি কুসাইয়িরের একটি চরণ উদ্ধৃত করেন, যেখানে ক্রিয়াটি এসেছে প্রাপ্য হওয়ার অর্থে।"
+          },
+          {
+            "en": "Ibn Kathir joins the second reading to a reason: it is right for it to obey its Lord's command, because He is the Mighty One who is not resisted or overcome, but has subdued everything, and everything is humbled before Him. As-Sa'di's reason is close to it: the sky is subjected and governed under a mighty King whose command is not disobeyed and whose ruling is not opposed. Al-Muyassar has the same in a phrase: it was right for it to submit to His command. Read either way, what is laid upon the sky is also what it owes.",
+            "bn": "ইবন কাসীর দ্বিতীয় অর্থের সঙ্গে একটি কারণ জুড়ে দেন: রবের আদেশ মানাই তার উচিত, কারণ তিনি মহান, তাঁকে কেউ বাধা দিতে পারে না, পরাস্তও করতে পারে না। বরং তিনি সবকিছুর উপর প্রবল, আর সবকিছুই তাঁর সামনে অবনত। সা'দীর কারণও কাছাকাছি। আকাশ এক মহান বাদশাহর অধীনে বশীভূত ও পরিচালিত, যাঁর আদেশ অমান্য হয় না, যাঁর হুকুমের বিরোধিতা চলে না। মুয়াসসারও এক বাক্যে একই কথা বলে: তাঁর আদেশের কাছে নত হওয়াই তার জন্য সংগত। যেভাবেই পড়া হোক, আকাশের উপর যা চাপানো হয়েছে, সেটাই আবার তার কাছে পাওনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Obedience Without a Will?",
+          "bn": "ইচ্ছাহীনের আনুগত্য?"
+        },
+        "p": [
+          {
+            "en": "What can obedience mean for a sky? Al-Qurtubi answers in two short clauses: the sky's obedience means that it does not refuse what Allah wills for it; and it is not far-fetched that life be created in it, so that it obeys and answers. Ma'arif al-Qur'an sets out the same question at length. Divine commands, it says, are of two kinds: legislated injunctions, which beings with intellect may keep or break by free choice, and cosmic commands of decree, which nothing in creation can deviate from in the least.",
+            "bn": "আকাশের বেলায় আনুগত্যের অর্থ কী? কুরতুবী উত্তর দেন দুটি ছোট কথায়। আকাশের আনুগত্য মানে আল্লাহ তার ব্যাপারে যা চান, সে তাতে বাধা দেয় না। আবার তার ভেতরে প্রাণ সৃষ্টি করে দেওয়া হবে আর সে আনুগত্য করবে ও সাড়া দেবে, এটাও অসম্ভব কিছু নয়। মাআরিফুল কুরআন একই প্রশ্ন বিস্তারিত তোলে। তার মতে আল্লাহর আদেশ দুই রকম। এক, শরীয়তের বিধান, যা বুদ্ধিসম্পন্ন সৃষ্টি স্বাধীন ইচ্ছায় মানতেও পারে, ভাঙতেও পারে। দুই, তাকদীরের মহাজাগতিক আদেশ, যা থেকে সৃষ্টির কোনো কিছুই এতটুকু সরে যেতে পারে না।"
+          },
+          {
+            "en": "The sky's obedience, Ma'arif continues, may belong to either. It is possible that Allah will on that Day give the sky and the earth a special sense and perception, so that they choose of their own volition to act on His command. Or the command may be the cosmic command that none can violate. The words adhinat li-rabbiha wa-huqqat, it judges, are closer to the first meaning, while the second is possible if they are taken figuratively. Like al-Qurtubi, it keeps both on the page.",
+            "bn": "মাআরিফুল কুরআন আরও বলে, আকাশের আনুগত্য এ দুইয়ের যেকোনোটির মধ্যে পড়তে পারে। হতে পারে, সেদিন আল্লাহ আকাশ ও জমিনকে বিশেষ অনুভূতি ও বোধ দেবেন, ফলে তারা নিজের ইচ্ছাতেই তাঁর আদেশ পালন করা বেছে নেবে। আবার হতে পারে, আদেশটি সেই মহাজাগতিক আদেশ, যা কেউ ভাঙতে পারে না। তার বিচারে আযিনাত লিরাব্বিহা ওয়া হুক্কাত শব্দগুলো প্রথম অর্থের বেশি কাছে। দ্বিতীয় অর্থও সম্ভব, যদি শব্দগুলোকে রূপক হিসেবে ধরা হয়। কুরতুবীর মতো মাআরিফও দুটো সম্ভাবনাই খোলা রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Earth Gives Up Its Dead",
+          "bn": "জমিন ফিরিয়ে দেয় তার মৃতদের"
+        },
+        "p": [
+          {
+            "en": "Then the earth, in 84:3: wa-idha al-ardu muddat, and when the earth is stretched. At-Tabari: it is spread out and increased in breadth. Al-Baghawi and as-Sa'di use the image of a leather hide drawn taut, as-Sa'di adding that its mountains are blown away and its buildings levelled until it holds all who stand there. Ma'arif al-Qur'an pictures a flat earth without caves, mountains, buildings or trees, with room for the former and the latter generations to gather. At-Tabari and Ibn Kathir also relay a longer report on the stretched earth, from 'Ali ibn al-Husayn, given without a grading; it is not used.",
+            "bn": "এরপর ৮৪:৩ আয়াতে জমিন: ওয়া ইযাল আরদু মুদ্দাত, আর যখন জমিনকে টেনে বিছিয়ে দেওয়া হবে। তাবারী বলেন, তাকে বিছিয়ে দেওয়া হবে আর তার প্রশস্ততা বাড়িয়ে দেওয়া হবে। বাগাভী ও সা'দী টানটান করে মেলে দেওয়া চামড়ার উপমা দেন। সা'দী যোগ করেন, তার পাহাড়গুলো উড়িয়ে দেওয়া হবে, দালানকোঠা মিশিয়ে দেওয়া হবে, শেষে সেখানে দাঁড়ানো সবার জায়গা হয়ে যাবে। মাআরিফুল কুরআনের ছবিতে জমিন সমতল, তাতে গুহা, পাহাড়, দালান বা গাছ নেই, যাতে আগের ও পরের সব প্রজন্ম একসঙ্গে জড়ো হতে পারে। তাবারী ও ইবন কাসীর এখানে বিছিয়ে দেওয়া জমিন নিয়ে আলী ইবনুল হুসাইন থেকে একটি দীর্ঘ বর্ণনাও আনেন, কোনো মান উল্লেখ ছাড়া। এ লেখায় তা নেওয়া হয়নি।"
+          },
+          {
+            "en": "In 84:4 the earth casts out what is in it and empties itself. Ibn Kathir, after Mujahid, Sa'id and Qatada: it casts out its dead. Al-Qurtubi reports Ibn Jubayr: it casts out the dead in its belly and is emptied of the living on its back. Al-Baghawi and as-Sa'di add its treasures, as-Sa'di picturing people grieving over what they used to compete for. Then 84:5 repeats over the earth the very clause said of the sky, which at-Tabari reads as the earth hearing its Lord in bringing its dead up to its surface alive.",
+            "bn": "৮৪:৪ আয়াতে জমিন তার ভেতরে যা আছে তা বের করে দেয় আর খালি হয়ে যায়। মুজাহিদ, সাঈদ ও কাতাদার অনুসরণে ইবন কাসীর বলেন: সে তার মৃতদের বের করে দেয়। কুরতুবী ইবন জুবাইরের কথা আনেন: পেটের ভেতরের মৃতদের সে বের করে দেয়, আর পিঠের উপরের জীবিতদের থেকে খালি হয়ে যায়। বাগাভী ও সা'দী এর সঙ্গে তার গুপ্তধনের কথাও যোগ করেন। সা'দীর ছবিতে মানুষ সেদিন সেই সম্পদের দিকে তাকিয়ে আফসোস করবে, যা নিয়ে তারা পাল্লা দিত। এরপর ৮৪:৫ আয়াত আকাশের বেলায় বলা কথাটাই হুবহু জমিনের বেলায় বলে। তাবারীর ব্যাখ্যায়, জমিন তার মৃতদের জীবিত অবস্থায় উপরে তুলে দিয়ে রবের আদেশ শুনেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Does the Answer Fall?",
+          "bn": "শর্তের জবাব কোথায়?"
+        },
+        "p": [
+          {
+            "en": "Every idha waits for its main clause, and in these five verses it never plainly comes. At-Tabari records that the scholars of Arabic differed over where the answer lies, and al-Qurtubi and al-Baghawi record the dispute too. One view makes wa-adhinat itself the answer, the waw being extra; al-Qurtubi attributes it to al-Farra', and al-Baghawi lists it. Al-Qurtubi then reports Ibn al-Anbari calling this a mistake, since the Arabs insert such a waw only after hatta idha, as in 39:73, and after lamma, as in 37:103 and 37:104. A Kufan grammarian in at-Tabari makes the same objection.",
+            "bn": "প্রতিটি ইযা তার মূল বাক্যের অপেক্ষায় থাকে, অথচ এই পাঁচ আয়াতে তা স্পষ্ট করে কোথাও আসেনি। তাবারী জানান, জবাবটা কোথায়, তা নিয়ে আরবি ভাষার পণ্ডিতেরা একমত হননি। কুরতুবী ও বাগাভীও এ মতভেদ উল্লেখ করেন। একটি মত হলো, ওয়া আযিনাত নিজেই জবাব, আর ওয়াওটি অতিরিক্ত। কুরতুবী মতটি ফাররার বলে উল্লেখ করেন, বাগাভীও একে একটি মত হিসেবে গণ্য করেন। এরপর কুরতুবী ইবনুল আনবারীর আপত্তি আনেন: এটা ভুল। কারণ আরবরা এমন ওয়াও বাড়তি বসায় শুধু হাত্তা ইযার পরে, যেমন ৩৯:৭৩ আয়াতে, আর লাম্মার পরে, যেমন ৩৭:১০৩ ও ৩৭:১০৪ আয়াতে। তাবারীর উদ্ধৃত কুফার এক ব্যাকরণবিদও একই আপত্তি তোলেন।"
+          },
+          {
+            "en": "Others tie the answer to what follows. A Basran grammarian in at-Tabari, and al-Mubarrad in al-Qurtubi, read the order as reversed, so that the address of 84:6 comes first in sense. The Kufan in at-Tabari allows that address as the answer with an implied fa, and al-Baghawi records it with the sense that every toiler meets his work; al-Qurtubi records it too, with a near view: the answer is what fa-mulaqih implies. Al-Qurtubi also reports, from al-Mubarrad and as al-Kisa'i's view, that the answer is 84:7, which an-Nahhas called the soundest and best thing said on it.",
+            "bn": "অন্যরা জবাবটাকে পরের আয়াতের সঙ্গে জুড়ে দেন। তাবারীর উদ্ধৃত বসরার এক ব্যাকরণবিদ, আর কুরতুবীর বর্ণনায় মুবাররাদ, বাক্যের ক্রম উল্টে পড়েন। তাঁদের মতে অর্থের দিক থেকে ৮৪:৬ আয়াতের সম্বোধনটাই আগে। তাবারীর উদ্ধৃত কুফার ব্যাকরণবিদ মনে করেন, একটি উহ্য ফা ধরে নিলে ওই সম্বোধনই জবাব হতে পারে। বাগাভী মতটি এনে তার অর্থ করেন: প্রত্যেক পরিশ্রমী তার আমলের মুখোমুখি হবে। কুরতুবীও মতটি আনেন, সঙ্গে কাছাকাছি আরেকটি মত: জবাব হলো ফামুলাকীহ শব্দ থেকে যা বোঝা যায়। কুরতুবী আরও জানান, মুবাররাদ থেকে এবং কিসাঈর মত হিসেবে, জবাব হলো ৮৪:৭ আয়াত। নাহহাস এ মতকেই এ বিষয়ে বলা সবচেয়ে বিশুদ্ধ ও সুন্দর কথা বলেছেন।"
+          },
+          {
+            "en": "A third group holds that the answer is left unsaid. The Kufan calls it as if omitted, because its meaning recurs through the Qur'an and is known. At-Tabari makes this his own view: it is omitted because those addressed knew its meaning, and the sense is that a person will see what he sent ahead of good or evil. Al-Baghawi has him seeing reward and punishment; al-Qurtubi has the deniers of the Resurrection learning their loss, and adds that the Qur'an is like a single verse, part pointing to part. Al-Hasan took the verse as an oath; al-Qurtubi says the majority read it as a statement.",
+            "bn": "তৃতীয় দলের মতে জবাবটা মুখে বলা হয়নি। কুফার ব্যাকরণবিদ বলেন, জবাবটা যেন বাদ রাখা হয়েছে, কারণ এর অর্থ কুরআনে বারবার এসেছে, সবাই তা জানে। তাবারী এটাকেই নিজের মত হিসেবে নেন। তাঁর কথায়, শ্রোতারা অর্থটা জানত বলে জবাবটা বাদ দেওয়া হয়েছে। মর্মার্থ হলো, মানুষ দেখতে পাবে ভালো-মন্দ যা সে আগে পাঠিয়েছে। বাগাভীর ভাষায়, মানুষ সওয়াব ও শাস্তি দেখতে পাবে। কুরতুবীর এক ব্যাখ্যায়, পুনরুত্থান অস্বীকারকারীরা তখন নিজেদের ক্ষতি টের পাবে। তিনি যোগ করেন, গোটা কুরআন যেন একটি আয়াত, এক অংশ আরেক অংশের দিকে ইঙ্গিত করে। হাসান আয়াতটিকে শপথ ধরেছেন। কুরতুবী বলেন, অধিকাংশের মতে এটি শপথ নয়, সংবাদ।"
+          }
+        ]
+      }
+    ]
+  },
   "84:6": {
     "sections": [
       {

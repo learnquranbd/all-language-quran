@@ -29643,6 +29643,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Deeds are inscribed in a record that does not fade, so write on your own page now what you would want kept, and read the warning as yours.",
     "lessonBn": "আমল লেখা হয় এমন খাতায় যা মুছে যায় না। তাই যা রেখে দিতে চান, এখনই নিজের পাতায় তা লিখুন, আর সতর্কবাণীকে নিজের বলে পড়ুন।"
+  },
+  "84:1": {
+    "reflectionEn": "The surah opens with a condition and holds back what follows it. When the sky splits open, and listens to its Lord, and it is right that it should. Then the earth: stretched out, emptied of all it was holding, and listening in the very same words. Nothing in these lines argues. The sky is not asked whether it wishes to split. It hears, and its hearing is its obeying, because obedience is what it owes the One who made it. Only after both have answered does the surah turn to a human being. I hear His commands every day. Does my hearing stop at the ear, or does it reach my hands? And what in me still debates where the sky simply answered?",
+    "reflectionBn": "সূরাটি শুরু হয় একটি শর্ত দিয়ে, আর শর্তের পরে কী ঘটবে তা চেপে রাখে। যখন আকাশ ফেটে যাবে, আর তার রবের কথা শুনবে, আর তা-ই তার কর্তব্য। তারপর জমিন: তাকে টেনে বিছিয়ে দেওয়া হবে, ভেতরে যা ছিল সব বের করে সে খালি হয়ে যাবে, আর হুবহু একই কথায় সে-ও শুনবে। এ আয়াতগুলোতে কেউ তর্ক করে না। আকাশকে জিজ্ঞেস করা হয় না সে ফাটতে চায় কি না। সে শোনে, আর তার শোনাটাই তার মানা, কারণ যিনি তাকে বানিয়েছেন, তাঁর আনুগত্যই তার পাওনা। দুজনের সাড়া দেওয়া শেষ হলে তবেই সূরা মানুষের দিকে ফেরে। আমিও রোজ তাঁর আদেশ শুনি। আমার শোনা কি কান পর্যন্তই থেমে যায়, নাকি হাত পর্যন্ত পৌঁছায়? আকাশ যেখানে সোজা সাড়া দিয়েছে, আমার ভেতরের কোন অংশ সেখানে এখনো তর্ক জুড়ে বসে?",
+    "pointsEn": [
+      "Which clear command of Allah have I heard many times, yet treated the hearing as if it were already the obeying?",
+      "The sky obeys because obedience is its due; what do I owe the One who made me, and does my week show that I know it?",
+      "The earth gives up everything it was holding; what am I holding now that I would not want brought out on that Day?",
+      "When I look up at the night sky that will one day split, what am I treating as permanent that is not?",
+      "The surah leaves the answer to its 'when' unspoken; what do I already know will follow, and am I acting as if I knew it?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন স্পষ্ট আদেশ আমি বহুবার শুনেছি, অথচ শুনে ফেলাটাকেই মেনে চলা ভেবে বসে আছি?",
+      "আনুগত্য আকাশের পাওনা বলেই সে মানে। যিনি আমাকে বানিয়েছেন, তাঁর কাছে আমার পাওনা কী? আমার এই সপ্তাহের দিনগুলো দেখে কি বোঝা যায় যে আমি তা জানি?",
+      "জমিন তার ভেতরে রাখা সবকিছু বের করে দেয়। আমি এখন এমন কী লুকিয়ে রাখছি, যা সেদিন বের হয়ে আসুক আমি চাই না?",
+      "রাতের যে আকাশের দিকে আমি তাকাই, একদিন তা ফেটে যাবে। তাহলে কোন জিনিসকে আমি চিরস্থায়ী ধরে বসে আছি, যা আসলে চিরস্থায়ী নয়?",
+      "'যখন' বলার পর কী হবে, সূরা তা মুখে বলে না। এরপর কী আসবে তা আমি আগেই জানি। আমার চলাফেরা কি সেই জানার মতো?"
+    ],
+    "lessonEn": "Let your hearing of Allah's command end in obeying it, as the sky's hearing does, since obedience is what every creature owes the One who made it.",
+    "lessonBn": "আকাশের শোনা যেমন আনুগত্যে গিয়ে শেষ হয়, আপনার শোনাও যেন তেমনি আল্লাহর আদেশ মানায় গিয়ে শেষ হয়, কারণ প্রতিটি সৃষ্টির কাছে তার স্রষ্টার পাওনা এই আনুগত্যই।"
   }
 };
 
