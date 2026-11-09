@@ -607,6 +607,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "83:18": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Turn After the Fire",
+          "bn": "আগুনের পরে মোড়"
+        },
+        "p": [
+          {
+            "en": "The verses before it end in the Fire. At 83:16 the deniers enter al-Jahim, and at 83:17 they are told: this is what you used to deny. Then comes kalla, and the subject changes. This verse is six Arabic words, kalla inna kitaba al-abrari la-fi 'illiyyin: no, the record of the righteous is in 'Illiyyun. A question follows at 83:19, what will make you know what 'Illiyyun is, and a two-word answer at 83:20, a register inscribed. This article stays mostly with the first.",
+            "bn": "এই আয়াতের ঠিক আগের আয়াতগুলো শেষ হয় আগুনে। ৮৩:১৬ আয়াতে অস্বীকারকারীরা জাহীমে প্রবেশ করে, আর ৮৩:১৭ আয়াতে তাদের বলা হয়: এটাই তা, যা তোমরা অস্বীকার করতে। এরপর আসে কাল্লা, আর কথার বিষয় বদলে যায়। আয়াতটি আরবিতে ছয়টি শব্দের: কাল্লা ইন্না কিতাবাল আবরারি লাফী ইল্লিয়্যীন। কক্ষনো না, সৎলোকদের আমলনামা ইল্লিয়্যীনে। ৮৩:১৯ আয়াতে প্রশ্ন আসে, ইল্লিয়্যীন কী তা তোমাকে কে জানাবে। ৮৩:২০ আয়াতে দুই শব্দের উত্তর, লিখিত এক খাতা। এ লেখা মূলত প্রথম আয়াতটিতেই থাকবে।"
+          },
+          {
+            "en": "Ibn Kathir and the Muyassar open with haqqan, truly; al-Qurtubi gives kalla the same sense, with the pause on tukadhdhibun at the end of 83:17. He then records two other readings. In one, kalla means the matter is not as they say or suppose: their book is in Sijjin, and the book of the believers is in 'Illiyyun. In Muqatil's, which al-Baghawi also carries, kalla rejects their disbelief in the punishment they will burn in. In al-Qurtubi's telling, a fresh sentence then begins: the book of the righteous is raised in 'Illiyyun, according to their rank.",
+            "bn": "ইবন কাসীর আর মুয়াসসার দুজনেই ব্যাখ্যা শুরু করেন হাক্কান দিয়ে, মানে সত্যিই। কুরতুবীও কাল্লাকে এই অর্থে নেন, আর বলেন থামতে হবে ৮৩:১৭ আয়াতের শেষ শব্দ তুকাযযিবূনে। এরপর তিনি আরও দুটি পাঠ আনেন। একটিতে কাল্লা মানে, ব্যাপারটা তারা যেমন বলে বা ভাবে তেমন নয়। তাদের খাতা সিজ্জীনে, আর মুমিনদের খাতা ইল্লিয়্যীনে। মুকাতিলের পাঠটি বাগাভীও এনেছেন। তাতে কাল্লা নাকচ করে তাদের অবিশ্বাস, যে শাস্তিতে তারা পুড়বে তার প্রতি। কুরতুবীর বর্ণনায় এরপর নতুন বাক্য শুরু হয়: সৎলোকদের খাতা তাদের মর্যাদা অনুযায়ী ইল্লিয়্যীনে তুলে রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harming Not Even an Ant",
+          "bn": "পিঁপড়েরও কষ্ট নয়"
+        },
+        "p": [
+          {
+            "en": "Who are al-abrar? At-Tabari explains the word as the plural of barr: those who were dutiful to Allah by carrying out what He made obligatory and keeping away from what He made unlawful. The Muyassar names them with a single word, the muttaqun, those who guard themselves. Ibn Kathir defines them by contrast: they are unlike the fujjar, the wicked whose record was placed in Sijjin at 83:7.",
+            "bn": "আল-আবরার কারা? তাবারী বলেন, শব্দটি বার্র-এর বহুবচন। এরা তারা, যারা আল্লাহর প্রতি দায়িত্ব পালন করেছে: তিনি যা ফরজ করেছেন তা আদায় করেছে, আর যা হারাম করেছেন তা থেকে দূরে থেকেছে। মুয়াসসার এক শব্দে তাদের নাম দেয়: মুত্তাকূন, যারা নিজেদের বাঁচিয়ে চলে। ইবন কাসীর তাদের চেনান বিপরীত দিয়ে। এরা ফুজ্জারের মতো নয়, যে পাপাচারীদের খাতা ৮৩:৭ আয়াতে সিজ্জীনে রাখা হয়েছে।"
+          },
+          {
+            "en": "At-Tabari then adds a definition of another kind. Al-Hasan used to say that the abrar are those who do not harm anything, not even the dharr, the tiniest ants. At-Tabari gives it through two chains. The first definition measures righteousness by duties done and limits kept. Al-Hasan's measures it by harm withheld, down to a creature most people never notice underfoot. The two do not compete; together they describe a life that is careful both upward and downward.",
+            "bn": "এরপর তাবারী আরেক ধরনের সংজ্ঞা যোগ করেন। হাসান বলতেন, আবরার তারা, যারা কোনো কিছুকে কষ্ট দেয় না, এমনকি যার, মানে একেবারে ক্ষুদ্র পিঁপড়েকেও না। তাবারী কথাটি এনেছেন দুটি সনদে। প্রথম সংজ্ঞা সৎকর্মকে মাপে আদায় করা ফরজ আর মেনে চলা সীমা দিয়ে। হাসানের সংজ্ঞা মাপে বিরত থাকা কষ্ট দিয়ে, পায়ের নিচের এমন প্রাণী পর্যন্ত, যার দিকে বেশির ভাগ মানুষ চোখই ফেরায় না। দুটির মধ্যে বিরোধ নেই। দুটো মিলে এমন এক জীবনের ছবি, যা আল্লাহর হকেও সাবধান, সৃষ্টির হকেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deeds Written, or a Home Reached",
+          "bn": "লেখা আমল, নাকি শেষ ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "What exactly is in 'Illiyyun? Ibn Kathir's Arabic reads the verse as a statement about where the righteous end up: their destination is to 'Illiyyun, the opposite of Sijjin. The Muyassar places the book in the high ranks of Paradise. As-Sa'di draws the contrast: the book of the wicked was placed in the lowest and narrowest of places, and the book of the righteous is in the highest, the widest and the most spacious. Ma'arif al-Qur'an keeps to the record of deeds of the righteous.",
+            "bn": "ইল্লিয়্যীনে ঠিক কী থাকে? ইবন কাসীরের আরবি তাফসীর আয়াতটিকে পড়ে সৎলোকদের শেষ গন্তব্যের কথা হিসেবে: তাদের গন্তব্য ইল্লিয়্যীন, যা সিজ্জীনের বিপরীত। মুয়াসসার খাতাটিকে রাখে জান্নাতের উঁচু স্তরগুলোতে। সা'দী একে দাঁড় করান পাপাচারীদের খাতার পাশে। সেটি সবচেয়ে নিচের আর সবচেয়ে সংকীর্ণ জায়গায়, আর এটি সবচেয়ে উঁচু, সবচেয়ে চওড়া, সবচেয়ে প্রশস্ত জায়গায়। মাআরিফুল কুরআন থাকে সৎলোকদের আমলনামার অর্থেই।"
+          },
+          {
+            "en": "Ibn 'Abbas (RA) is reported on the written side. Through al-'Awfi, at-Tabari has him say: their deeds are in a book with Allah in the heaven, and Ibn Kathir's version of that report has their deeds in the heaven with Allah, adding that ad-Dahhak said likewise. Al-Qurtubi's wording is close: their deeds are in the book of Allah in the heaven. So the texts consulted here hold record, rank and resting place together, much as Muqatil's raised book according to their rank already did.",
+            "bn": "লেখার দিকটির পক্ষে আছে ইবন আব্বাস (রাঃ)-এর বর্ণনা। আওফীর সূত্রে তাবারী তাঁর কথা আনেন: তাদের আমল আসমানে আল্লাহর কাছে এক কিতাবে। ইবন কাসীরের পাঠে একই বর্ণনায় আছে: তাদের আমল আসমানে আল্লাহর কাছে। তিনি জানান দাহহাকও এমনই বলেছেন। কুরতুবীর ভাষা কাছাকাছি: তাদের আমল আসমানে আল্লাহর কিতাবে। ফলে এখানে দেখা তাফসীরগুলো আমলনামা, মর্যাদা আর ঠিকানা, তিনটিকেই একসঙ্গে ধরে রাখে। মুকাতিলের কথাতেও তাই ছিল: মর্যাদা অনুযায়ী তুলে রাখা খাতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seven Answers to Where",
+          "bn": "কোথায়, তার সাত উত্তর"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states the question plainly: the people of interpretation differed over what 'Illiyyun means. The first answer is the seventh heaven. Ibn 'Abbas (RA) asked Ka'b about it, with Hilal ibn Yasaf present, and Ka'b said: it is the seventh heaven, and in it are the souls of the believers. Ibn Kathir, who also carries this, adds that others said the same. At-Tabari also lists Mujahid and the father of Usama ibn Zayd for the seventh heaven, and Qatada for the highest heaven. Al-Qurtubi names ad-Dahhak, Mujahid and Qatada.",
+            "bn": "তাবারী প্রশ্নটা সোজাসুজি তোলেন: ইল্লিয়্যীনের অর্থ নিয়ে তাফসীরের আলিমদের মতভেদ আছে। প্রথম উত্তর সপ্তম আসমান। ইবন আব্বাস (রাঃ) কা'বকে এ নিয়ে জিজ্ঞেস করেছিলেন, হিলাল ইবন ইয়াসাফ তখন উপস্থিত ছিলেন। কা'ব বলেন: এটা সপ্তম আসমান, আর সেখানে আছে মুমিনদের রূহ। ইবন কাসীরও এটি এনেছেন, আর যোগ করেন, আরও কয়েকজন একই কথা বলেছেন। সপ্তম আসমানের মতের পক্ষে তাবারী আরও আনেন মুজাহিদ আর উসামা ইবন যায়দের পিতার নাম, আর সবচেয়ে উঁচু আসমানের পক্ষে কাতাদার নাম। কুরতুবী নাম নেন দাহহাক, মুজাহিদ ও কাতাদার।"
+          },
+          {
+            "en": "The second answer is the right-hand pillar of the Throne, qa'imat al-'arsh al-yumna. At-Tabari has Qatada report it from Ka'b, and also say it himself: above the seventh heaven, at the right-hand pillar of the Throne. Al-Qurtubi gives that same wording from Qatada, and al-Baghawi names Ka'b and Qatada together. Ibn Kathir's Arabic phrases Qatada's view as the right leg of the Throne. The third answer is Paradise itself: Ibn 'Abbas, through 'Ali ibn Abi Talha in at-Tabari and Ibn Kathir, and through 'Ata' in al-Baghawi.",
+            "bn": "দ্বিতীয় উত্তর আরশের ডান দিকের খুঁটি, কায়িমাতুল আরশিল ইউমনা। তাবারীর বর্ণনায় কাতাদা কথাটি কা'ব থেকে জানান, আবার নিজেও বলেন: সপ্তম আসমানের উপরে, আরশের ডান দিকের খুঁটির কাছে। কুরতুবী কাতাদা থেকে ঠিক এই কথাই আনেন। বাগাভী কা'ব আর কাতাদার নাম একসঙ্গে নেন। ইবন কাসীরের আরবি তাফসীরে কাতাদার মতটি এসেছে আরশের ডান পায়া হিসেবে। তৃতীয় উত্তর স্বয়ং জান্নাত। এটি ইবন আব্বাস (রাঃ)-এর কথা, তাবারী আর ইবন কাসীরে আলী ইবন আবী তালহার সূত্রে, আর বাগাভীতে আতার সূত্রে।"
+          },
+          {
+            "en": "The fourth is Sidrat al-Muntaha, the Lote Tree of the Utmost Boundary, from ad-Dahhak in at-Tabari, al-Qurtubi and al-Baghawi, while Ibn Kathir says only that someone else held it. The fifth is simply in the heaven with Allah, from Ibn 'Abbas through al-'Awfi and from ad-Dahhak. Al-Qurtubi and al-Baghawi add a sixth from Ibn 'Abbas, with no chain: a tablet of green chrysolite hung from the Throne, or beneath it in al-Baghawi's wording, with their deeds written on it. Al-Qurtubi has a seventh, which people relate from Ibn 'Abbas: the fourth heaven. Ibn 'Abbas thus stands behind four different answers.",
+            "bn": "চতুর্থ উত্তর সিদরাতুল মুনতাহা, শেষ সীমার কুলগাছ। তাবারী, কুরতুবী ও বাগাভী এটি আনেন দাহহাক থেকে, আর ইবন কাসীর শুধু বলেন, অন্য একজন এ কথা বলেছেন। পঞ্চম উত্তর সাদামাটা: আসমানে আল্লাহর কাছে। এটি আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে, আর দাহহাক থেকেও। কুরতুবী ও বাগাভী ইবন আব্বাস (রাঃ) থেকে ষষ্ঠ একটি উত্তর আনেন, কোনো সনদ ছাড়া: সবুজ যবরজদ পাথরের এক ফলক, আরশে ঝোলানো, বাগাভীর ভাষায় আরশের নিচে। তাতে তাদের আমল লেখা। কুরতুবী আনেন সপ্তম উত্তরও, যা কিছু লোক ইবন আব্বাস (রাঃ) থেকে বর্ণনা করে: চতুর্থ আসমান। ফলে চারটি ভিন্ন উত্তরের পেছনে ইবন আব্বাস (রাঃ)-এর নাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Height Above Height",
+          "bn": "উচ্চতার উপরে উচ্চতা"
+        },
+        "p": [
+          {
+            "en": "Having set out the answers, at-Tabari gives his own. 'Illiyyun, he says, is a plural whose meaning is a thing above a thing: height above height, rising after rising. That is why it takes the plural ending, as 'ishrun and thalathun do. Arabs use that ending for a plural with no singular or dual built from it, whose count has no fixed end, and he cites poetry for the pattern. So la-fi 'illiyyin, for him, means in height and elevation, heaven above heaven.",
+            "bn": "উত্তরগুলো সাজিয়ে রাখার পর তাবারী নিজের মত দেন। তাঁর কথায় ইল্লিয়্যূন এমন এক বহুবচন, যার অর্থ একটার উপরে আরেকটা: উচ্চতার উপরে উচ্চতা, ওঠার পরে আরও ওঠা। এ কারণেই শব্দটি বহুবচনের প্রত্যয় নিয়েছে। যে বহুবচনের নিজস্ব একবচন বা দ্বিবচন নেই, আর যার সংখ্যার কোনো বাঁধা শেষ বোঝানো হয় না, আরবরা তাকে এভাবেই বলে। ইশরূন আর সালাসূনও এমন, আর নজির হিসেবে তিনি কবিতার পঙক্তি আনেন। তাই তাঁর কাছে লাফী ইল্লিয়্যীন মানে উচ্চতায় আর উন্নতিতে, আসমানের উপরে আসমানে।"
+          },
+          {
+            "en": "That height, he grants, may reach the seventh heaven, Sidrat al-Muntaha or the pillar of the Throne, but no report, he says, settles which of them is meant. His conclusion is a model of restraint. The record of the deeds of the righteous is in an elevation reaching a limit whose end Allah knows, and we have no knowledge of its furthest point. He fixes only a floor: it is not short of the seventh heaven, because the authorities of interpretation agree on that.",
+            "bn": "তিনি মেনে নেন, এই উচ্চতা সপ্তম আসমান, সিদরাতুল মুনতাহা কিংবা আরশের খুঁটি পর্যন্ত পৌঁছাতে পারে। তবে তাঁর কথায়, এর কোনটি উদ্দেশ্য, তার মীমাংসা করে দেয় এমন কোনো বর্ণনা নেই। তাঁর উপসংহারটি সংযমের নমুনা। সৎলোকদের আমলনামা এমন এক উচ্চতায়, যার শেষ সীমা আল্লাহ জানেন, আর তার শেষ বিন্দুর কোনো জ্ঞান আমাদের নেই। তিনি শুধু নিচের সীমাটা বেঁধে দেন: তা সপ্তম আসমানের নিচে নয়, কারণ তাফসীরের প্রামাণ্য আলিমরা এ বিষয়ে একমত।"
+          },
+          {
+            "en": "The next two verses deepen the height rather than map it. At-Tabari reads 83:19 as Allah addressing the Prophet ﷺ to make him marvel: what has made you aware, O Muhammad, what 'Illiyyun is? Ibn Kathir's abridgement says the question magnifies its matter. At 83:20, Ma'arif al-Qur'an notes that kitabun marqum is not a definition of 'Illiyyun but a description of the records themselves. At-Tabari glosses it as written with Allah's safety from the Fire, and points back to the accounts of Ka'b and ad-Dahhak of a sealed writ.",
+            "bn": "পরের দুই আয়াত এই উচ্চতার মানচিত্র আঁকে না, বরং তাকে আরও গভীর করে। তাবারী ৮৩:১৯ আয়াতকে পড়েন এভাবে: আল্লাহ নবী ﷺ-কে সম্বোধন করছেন, যেন তিনি বিস্মিত হন। হে মুহাম্মাদ, ইল্লিয়্যীন কী, তা তোমাকে কিসে জানাল? ইবন কাসীরের সংক্ষিপ্ত তাফসীর বলে, এ প্রশ্ন বিষয়টির মর্যাদা বাড়িয়ে তোলে। ৮৩:২০ আয়াত নিয়ে মাআরিফুল কুরআন জানায়, কিতাবুম মারকূম ইল্লিয়্যীনের সংজ্ঞা নয়, বরং খোদ আমলনামার বর্ণনা। তাবারী এর অর্থ করেন জাহান্নাম থেকে আল্লাহর দেওয়া নিরাপত্তাসহ লেখা খাতা। সঙ্গে তিনি ফিরে দেখান কা'ব ও দাহহাকের সেই বর্ণনার দিকে, যাতে আছে সিলমোহর করা এক পরোয়ানার কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plural With No Singular",
+          "bn": "একবচনহীন এক বহুবচন"
+        },
+        "p": [
+          {
+            "en": "For Ibn Kathir the apparent meaning is that the word is taken from 'uluww, height, and the more a thing rises the greater and wider it becomes. The grammarians press on the odd form. Al-Farra', in both al-Qurtubi and al-Baghawi, calls it a name set on the pattern of a plural, with no singular from its own letters, like 'ishrun and thalathun; al-Qurtubi also has him say rise after rise. Al-Baghawi credits some scholars of meanings with height after height and honour after honour.",
+            "bn": "ইবন কাসীরের মতে বাহ্যিক অর্থ হলো, শব্দটি এসেছে উলুউ থেকে, মানে উচ্চতা। কোনো জিনিস যত উপরে ওঠে, তত বড় আর চওড়া হয়। ব্যাকরণবিদরা নজর দেন শব্দটির অদ্ভুত গঠনে। কুরতুবী ও বাগাভী দুজনেই ফাররার কথা আনেন: এটি বহুবচনের ছাঁচে গড়া একটি নাম, যার নিজের অক্ষর থেকে কোনো একবচন নেই, যেমন ইশরূন আর সালাসূন। কুরতুবীতে ফাররা আরও বলেন: উচ্চতার পরে উচ্চতা। বাগাভী অর্থবিদদের কারও কারও কথা আনেন: উচ্চতার পরে উচ্চতা, মর্যাদার পরে মর্যাদা।"
+          },
+          {
+            "en": "Al-Qurtubi gathers more. Az-Zajjaj says the name is declined like a plural, like Qinnasrun and Qinnasrin. Yunus the grammarian gives its singular as 'illiyy and 'illiyya. Abu al-Fath takes it as the plural of 'illiyy, a fa'il form from height; by rule it should have been 'illiyya, the word for an upper room, and when the final ta' was dropped, the plural ending came in to make up for it, as with aradun. Al-Qurtubi notes that the sense of height upon height is also at-Tabari's meaning.",
+            "bn": "কুরতুবী আরও কিছু মত জড়ো করেন। যাজ্জাজ বলেন, নামটির শব্দরূপ বহুবচনের মতো চলে, যেমন বলা হয় কিন্নাসরূন আর কিন্নাসরীন। ব্যাকরণবিদ ইউনুস এর একবচন বলেন ইল্লিয়্যি ও ইল্লিয়্যা। আবুল ফাতহ একে ধরেন ইল্লিয়্যি-এর বহুবচন হিসেবে, উচ্চতা থেকে ফাঈল ওজনের শব্দ। নিয়ম অনুযায়ী হওয়ার কথা ছিল ইল্লিয়্যা, উপরতলার ঘরকে যে নামে ডাকা হয়। শেষের তা বাদ পড়ায় তার জায়গা পূরণ করেছে বহুবচনের প্রত্যয়, যেমন আরাদূন শব্দে। কুরতুবী জানান, উচ্চতার উপরে উচ্চতা, এ অর্থ তাবারীরও।"
+          },
+          {
+            "en": "Al-Qurtubi also records, with it is said, a reading that leaves place behind: 'Illiyyun is a description of the angels, since they are the highest assembly, al-mala' al-a'la. To be in 'Illiyyun would then be like saying a man is among a certain tribe, in their company. He then points to reports that speak of the people of 'Illiyyun and draws the other conclusion from them, that 'Illiyyun is the name of an elevated place. Both stand in his text, and both are kept here.",
+            "bn": "কুরতুবী 'বলা হয়' বলে এমন এক পাঠও আনেন, যা জায়গার ধারণা ছেড়ে যায়। তাতে ইল্লিয়্যীন ফেরেশতাদের বিশেষণ, কারণ তারাই আল-মালাউল আ'লা, সবচেয়ে উঁচু সভা। ইল্লিয়্যীনে থাকা তখন এমন, যেমন বলা হয় অমুক লোক অমুক গোত্রের ভেতরে আছে, মানে তাদের দলে, তাদের সঙ্গে। এরপর কুরতুবী কিছু বর্ণনার দিকে ইঙ্গিত করেন, যেগুলোতে ইল্লিয়্যীনবাসীদের কথা আছে। সেগুলো থেকে তিনি উল্টো সিদ্ধান্ত টানেন: ইল্লিয়্যীন এক উঁচু জায়গার নাম। দুটি কথাই তাঁর লেখায় আছে, এখানেও দুটিই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Narrations Allow",
+          "bn": "বর্ণনাগুলো কতটুকু বলে"
+        },
+        "p": [
+          {
+            "en": "No commentary consulted for this verse attaches to it a hadith carrying a collector's grading. Al-Qurtubi and al-Baghawi each relay a short report from al-Bara' ibn 'Azib (RA), raised to the Prophet ﷺ, on where 'Illiyyun lies. Neither names a collector or gives a grading, so it is mentioned here and not quoted. Al-Qurtubi also relays from Ibn 'Umar (RA) a report about the people of 'Illiyyun, and another about how the people of Paradise see them. He names no collector, so these too are only mentioned.",
+            "bn": "এই আয়াতের জন্য দেখা কোনো তাফসীর আয়াতটির সঙ্গে এমন কোনো হাদীস জোড়ে না, যার সংকলকের দেওয়া মান জানা যায়। কুরতুবী ও বাগাভী দুজনেই বারা ইবন আযিব (রাঃ) থেকে একটি ছোট বর্ণনা আনেন, যা নবী ﷺ পর্যন্ত পৌঁছানো, আর যার বিষয় ইল্লিয়্যীন কোথায়। কেউই কোনো সংকলকের নাম বা মান দেন না। তাই এখানে বর্ণনাটির শুধু উল্লেখ থাকল, উদ্ধৃতি নয়। কুরতুবী ইবন উমর (রাঃ) থেকেও একটি বর্ণনা আনেন ইল্লিয়্যীনবাসীদের নিয়ে, আর আরেকটি আনেন জান্নাতবাসীরা তাদের কীভাবে দেখে তা নিয়ে। কোনোটির সংকলকের নাম তিনি দেন না, তাই এগুলোরও শুধু উল্লেখ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an points to the long tradition of al-Bara' (RA), which it cited earlier under Sijjin, as proof that 'Illiyyun is a particular place. The version of that long report this article could check, Sunan Abi Dawud 4753, describes the questioning in the grave, and its wording on that page does not mention 'Illiyyun at all. The fuller wording that Ma'arif relies on was not on any page consulted here. So nothing here is built on it.",
+            "bn": "মাআরিফুল কুরআন বারা (রাঃ)-এর সেই দীর্ঘ বর্ণনার দিকে ইঙ্গিত করে, যা সে আগে সিজ্জীনের আলোচনায় এনেছে। তার দাবি, এ বর্ণনা প্রমাণ করে ইল্লিয়্যীন একটি নির্দিষ্ট জায়গা। এ লেখা ওই দীর্ঘ বর্ণনার যে রূপটি যাচাই করতে পেরেছে, তা সুনান আবী দাউদের ৪৭৫৩ নম্বর। তাতে কবরের প্রশ্নোত্তরের বিবরণ আছে, কিন্তু সে পাতার শব্দে ইল্লিয়্যীনের কোনো উল্লেখই নেই। মাআরিফ যে পূর্ণতর ভাষ্যের উপর ভর করে, তা এখানে দেখা কোনো পাতায় পাওয়া যায়নি। তাই এখানে কোনো কিছু তার উপর দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "One narration that uses the word was confirmed on its page, though no commentary here attaches it to this verse. In Sunan Abi Dawud 3987, Abu Sa'id al-Khudri (RA) reports that the Prophet ﷺ said: A man from the Illiyyun will look downwards at the people of Paradise and Paradise will be glittering as if it were a brilliant star. After a note on how the word durri is voiced, the report ends: Abu Bakr and 'Umar will be of them and will have some additional blessings. Abu Dawud gives it no grading on that page.",
+            "bn": "শব্দটি ব্যবহার করেছে এমন একটি বর্ণনা তার নিজের পাতায় যাচাই করা গেছে, যদিও এখানে দেখা কোনো তাফসীর তা এই আয়াতের সঙ্গে জোড়ে না। সুনান আবী দাউদের ৩৯৮৭ নম্বরে আবু সাঈদ খুদরী (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: ইল্লিয়্যীনবাসীদের একজন জান্নাতবাসীদের দিকে উপর থেকে তাকাবে, আর জান্নাত তার চেহারার আলোয় ঝলমল করে উঠবে, যেন তা এক উজ্জ্বল তারা। দুররী শব্দটি কীভাবে উচ্চারিত হয়, সে বিষয়ে এক টীকার পর বর্ণনাটি শেষ হয় এভাবে: আবু বকর ও উমর তাদের অন্তর্ভুক্ত, আর তাঁরা আরও বাড়তি নেয়ামত পাবেন। সে পাতায় আবু দাউদ বর্ণনাটির কোনো মান উল্লেখ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept High, Left to Allah",
+          "bn": "উঁচুতে রাখা, আল্লাহর হাতে ছাড়া"
+        },
+        "p": [
+          {
+            "en": "What does a reader carry away from a verse whose key word the commentators cannot pin down? Perhaps the shape of at-Tabari's answer. He weighed the reports and stopped where the evidence stopped: no lower than the seventh heaven, and beyond that known to Allah. The disagreement over 'Illiyyun is not a contest to be won. It can be held lightly while the work that fills a record is held firmly, since every reading gathered here agrees that the record of the righteous is kept high.",
+            "bn": "যে আয়াতের মূল শব্দটির অবস্থান তাফসীরকারেরা নির্দিষ্ট করে বলতে পারেন না, তা থেকে পাঠক কী নিয়ে যাবেন? হয়তো তাবারীর উত্তরের ধরনটা। তিনি বর্ণনাগুলো ওজন করেছেন, আর থেমেছেন ঠিক সেখানে, যেখানে প্রমাণ থেমে গেছে: সপ্তম আসমানের নিচে নয়, তার পরেরটা আল্লাহর জ্ঞানে। ইল্লিয়্যীন নিয়ে মতভেদ জেতার মতো কোনো লড়াই নয়। মতগুলো হালকা হাতে ধরা যায়, আর শক্ত করে ধরতে হয় সেই আমল, যা দিয়ে খাতা ভরে। কারণ এখানে জড়ো করা প্রতিটি পাঠই একমত, সৎলোকদের আমলনামা রাখা হয় উঁচুতে।"
+          },
+          {
+            "en": "And what goes up is ordinary. At-Tabari's definition of the abrar asks for duties done and the unlawful left alone; al-Hasan's asks that nothing be harmed, not even an ant. Neither describes a rare feat. Both describe a day: a prayer kept on time, a harsh word held back, a debt paid, a small creature stepped around. As-Sa'di's contrast of lowest and highest lets a reader ask which way an ordinary day is pointing.",
+            "bn": "আর যা উপরে ওঠে, তা সাধারণ জিনিস। আবরারের যে সংজ্ঞা তাবারী দেন, তা চায় ফরজ আদায় আর হারাম বর্জন। হাসানের সংজ্ঞা চায়, কোনো কিছুকে কষ্ট না দেওয়া, একটা পিঁপড়েকেও না। কোনোটাই বিরল কোনো কীর্তির কথা বলে না। দুটোই বলে একটা সাধারণ দিনের কথা: সময়মতো আদায় করা নামাজ, মুখে আসা কড়া কথা গিলে ফেলা, শোধ করা ঋণ, পাশ কাটিয়ে বাঁচিয়ে দেওয়া ছোট্ট প্রাণী। সবচেয়ে নিচু আর সবচেয়ে উঁচু, সা'দীর এই তুলনা পাঠককে প্রশ্ন করতে শেখায়: আজকের সাধারণ দিনটা কোন দিকে মুখ করে আছে?"
+          },
+          {
+            "en": "The verse describes two records and where each is kept. It licenses nothing against any living person or community. No one may point at a neighbour and assign him to Sijjin, and no one may claim 'Illiyyun for himself or for his group. The verdict belongs to Allah, who keeps the records. What the verse leaves in the reader's hands is the part of the record still unwritten, for as long as a life is still being lived.",
+            "bn": "আয়াতটি দুটি খাতার কথা বলে আর জানায় কোনটি কোথায় রাখা। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে আয়াতটি কোনো কিছুর অনুমতি দেয় না। কেউ প্রতিবেশীর দিকে আঙুল তুলে তাকে সিজ্জীনে পাঠাতে পারে না। আবার কেউ নিজের জন্য বা নিজের দলের জন্য ইল্লিয়্যীন দাবি করতে পারে না। রায় আল্লাহর, যিনি খাতাগুলো রাখেন। আয়াতটি পাঠকের হাতে যা রেখে যায়, তা খাতার সেই অংশ, যা এখনো লেখা হয়নি। আর জীবন যতক্ষণ চলছে, সে অংশ ততক্ষণ তাঁর হাতেই।"
+          }
+        ]
+      }
+    ]
+  },
   "83:21": {
     "sections": [
       {

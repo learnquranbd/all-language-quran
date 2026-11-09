@@ -29763,6 +29763,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Denial can wall in a heart, yet Allah encompasses the denier, and the Qur'an stays glorious and preserved whatever is said of it; let the warnings reach you.",
     "lessonBn": "অস্বীকার হৃদয়কে দেয়ালে ঘিরে ফেলতে পারে, কিন্তু অস্বীকারকারীকে ঘিরে আছেন আল্লাহ। কে কী বলল তাতে কুরআনের মহিমা আর সংরক্ষণ একটুও কমে না। তাই সতর্কবাণীগুলোকে ভেতরে পৌঁছাতে দিন।"
+  },
+  "83:18": {
+    "reflectionEn": "After the scene of the Fire, the surah turns on a single word and lifts the eye upward: the record of the righteous is in 'Illiyyun. The word speaks of height. The commentators place it in different high places, and the careful among them admit that only Allah knows how far it reaches. One early definition of the righteous is quietly striking: those who harm nothing, not even an ant. So the record that rises is filled with ordinary things, a duty done, a wrong left alone, a small creature spared. Where is my own record heading today, and is there anything in it light enough to rise?",
+    "reflectionBn": "আগুনের দৃশ্যের পর সূরা একটি শব্দে মোড় নেয়, আর চোখ তুলে ধরে উপরের দিকে: সৎলোকদের আমলনামা ইল্লিয়্যীনে। শব্দটির ভেতরেই উঁচুর কথা। তাফসীরকারেরা একে রাখেন ভিন্ন ভিন্ন উঁচু জায়গায়। তাঁদের মধ্যে যাঁরা সাবধানী, তাঁরা স্বীকার করেন, এ উচ্চতা কত দূর পৌঁছায় তা শুধু আল্লাহই জানেন। সৎলোকের এক পুরোনো সংজ্ঞা মনে গেঁথে যায়: যারা কারও কষ্ট দেয় না, একটা পিঁপড়েরও না। তাহলে যে খাতা উপরে ওঠে, তা ভরে ওঠে সাধারণ সব জিনিসে। একটা ফরজ আদায়, একটা অন্যায় থেকে সরে থাকা, ছোট্ট এক প্রাণীকে রেহাই দেওয়া। আজ আমার খাতা কোন দিকে যাচ্ছে? তাতে কি এমন কিছু আছে, যা উপরে ওঠার মতো হালকা?",
+    "pointsEn": [
+      "If my record were opened today, which entries would I want carried upward, and which would I hope had never been written?",
+      "Who or what around me, down to the smallest creature, have I harmed this week without stopping to notice?",
+      "Which duty do I keep postponing, and which forbidden thing do I keep within reach, when either would change what is being written?",
+      "When I hear of the high places of the next life, do I picture myself there while forgetting the daily work that fills a record?",
+      "Does not knowing exactly where 'Illiyyun lies become, for me, a reason to argue or a reason to work?"
+    ],
+    "pointsBn": [
+      "আজ যদি আমার আমলনামা খোলা হয়, কোন লেখাগুলো আমি উপরে তুলে নিতে চাইব? আর কোনগুলো সম্পর্কে চাইব, সেগুলো যেন কখনো লেখাই না হতো?",
+      "এ সপ্তাহে আমার চারপাশে কাকে বা কোন জিনিসকে, একেবারে ছোট্ট প্রাণী পর্যন্ত, আমি না ভেবেই কষ্ট দিয়েছি?",
+      "কোন ফরজটা আমি বারবার পিছিয়ে দিচ্ছি, আর কোন হারাম জিনিস হাতের কাছে রেখে দিয়েছি? অথচ এর যেকোনোটা বদলালেই বদলে যেত খাতার লেখা।",
+      "আখিরাতের উঁচু মর্যাদার কথা শুনলে আমি কি নিজেকে সেখানে কল্পনা করি, আর ভুলে যাই রোজকার সেই আমল, যা দিয়ে খাতা ভরে?",
+      "ইল্লিয়্যীন ঠিক কোথায়, তা জানা নেই বলে আমি কি তর্কে জড়াই, নাকি আমলে মন দিই?"
+    ],
+    "lessonEn": "The record of the righteous is kept high, in 'Illiyyun. Fill yours with duties done and harm avoided, down to the smallest creature, and leave its final place to Allah.",
+    "lessonBn": "সৎলোকদের আমলনামা রাখা হয় উঁচুতে, ইল্লিয়্যীনে। আপনার খাতা ভরে তুলুন আদায় করা ফরজ আর এড়িয়ে চলা কষ্ট দিয়ে, ছোট্ট প্রাণীর বেলাতেও। আর তার শেষ ঠিকানা ছেড়ে দিন আল্লাহর হাতে।"
   }
 };
 
