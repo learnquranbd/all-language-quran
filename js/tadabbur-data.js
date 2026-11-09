@@ -29883,6 +29883,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your eyes, tongue and lips are gifts, and the One who gave them sees how you use them; spend sight and speech as someone who knows he is seen.",
     "lessonBn": "চোখ, জিহ্বা আর ঠোঁট আল্লাহর দান, আর যিনি দিয়েছেন তিনি দেখেন আপনি এগুলো কীভাবে ব্যবহার করছেন। তাই দৃষ্টি আর কথাকে খরচ করুন এমন মানুষের মতো, যে জানে তাকে দেখা হচ্ছে।"
+  },
+  "101:1": {
+    "reflectionEn": "The surah opens with one word, al-Qari'ah, the Striker, and lets it stand alone. Then it asks what the Striker is, and asks again: what will make you know what it is? Only after that comes a picture instead of a definition. On that Day people will be like moths, scattered, darting this way and that with nowhere to go. The name is taken from what the Day does: it knocks on hearts with terror. The double question admits that no description can hold it. And the moth is something I have watched at a lamp many times, circling the light and dropping into the flame. Have I ever seen myself in it, hurrying toward what will burn me while the warning is still being repeated?",
+    "reflectionBn": "সূরাটি শুরু হয় একটিমাত্র শব্দে: আল-কারিআহ, আঘাতকারী। শব্দটি একা দাঁড়িয়ে থাকে। তারপর প্রশ্ন আসে, কী সেই আঘাতকারী? আবার প্রশ্ন, কিসে আপনাকে জানাবে সেটা কী? এরপর কোনো সংজ্ঞা আসে না, আসে একটা ছবি। সেদিন মানুষ হবে বিক্ষিপ্ত পতঙ্গের মতো, এদিক-ওদিক ছুটছে, যাওয়ার কোনো জায়গা নেই। নামটা এসেছে দিনটা যা করে তা থেকে: সে আতঙ্কে অন্তরে আঘাত হানে। দুবার প্রশ্ন করা মানে মেনে নেওয়া যে কোনো বর্ণনায় তাকে ধরা যায় না। আর পতঙ্গ তো আমার চেনা। বাতির চারপাশে ঘুরতে ঘুরতে আগুনে পড়ে যেতে কতবার দেখেছি। সেই ছবিতে কি কখনো নিজেকে দেখেছি? সতর্কবাণী বারবার শোনার পরও কি আমি এমন কিছুর দিকে ছুটছি, যা আমাকে পোড়াবে?",
+    "pointsEn": [
+      "Which warning have I heard so often that it no longer strikes me at all, and what would let it reach my heart again?",
+      "The surah asks twice before it describes anything. Where do I rush to explain away what I should first sit with in awe?",
+      "What bright thing am I circling right now, drawn by its light, though I can already feel its heat?",
+      "On a Day when people scatter with nowhere to turn, what do I hope will steady me, and am I building it this week?",
+      "When I read about the terror of that Day, does it move me toward Allah in practice, or only leave me anxious and still?"
+    ],
+    "pointsBn": [
+      "কোন সতর্কবাণী এত বেশি শুনেছি যে এখন আর তা আমাকে নাড়া দেয় না? কী করলে তা আবার অন্তরে পৌঁছাবে?",
+      "কিছু বর্ণনা করার আগে সূরাটি দুবার প্রশ্ন করে। কোন জিনিসের সামনে আমার আগে ভয়ে-বিস্ময়ে থামা উচিত, অথচ আমি তাড়াহুড়ো করে তার ব্যাখ্যা দিয়ে পার পেতে চাই?",
+      "এই মুহূর্তে কোন উজ্জ্বল জিনিসের চারপাশে আমি ঘুরছি? তার আলো আমাকে টানছে, অথচ তার তাপ আমি এখনই টের পাচ্ছি।",
+      "যে দিন মানুষ দিশাহারা হয়ে ছড়িয়ে পড়বে, সেদিন আমাকে কী স্থির রাখবে বলে আশা করি? এ সপ্তাহে কি আমি সেটা গড়ছি?",
+      "সেই দিনের আতঙ্কের কথা পড়ে আমি কি সত্যিই আমলে আল্লাহর দিকে এগোই, নাকি শুধু দুশ্চিন্তায় পড়ে থমকে থাকি?"
+    ],
+    "lessonEn": "The Day is named the Striker for what it does to hearts; let the name strike mine now, while there is time to turn, before people scatter like moths.",
+    "lessonBn": "দিনটির নাম আঘাতকারী, কারণ সে অন্তরে আঘাত হানে। মানুষ পতঙ্গের মতো ছড়িয়ে পড়ার আগে, ফেরার সময় থাকতেই, নামটা আজ আমার অন্তরে আঘাত করুক।"
   }
 };
 

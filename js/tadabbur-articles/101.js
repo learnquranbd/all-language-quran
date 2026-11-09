@@ -11,6 +11,158 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "101:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Surah Opening on One Word",
+          "bn": "এক শব্দে খোলা সূরা"
+        },
+        "p": [
+          {
+            "en": "Al-qari'ah: the Striker. Surat al-Qari'ah opens with a single word, and that word is the whole of 101:1. The next verse, 101:2, has two words, ma al-qari'ah, what is the Striker? Then 101:3 has four, wa ma adraka ma al-qari'ah, and what will make you know what the Striker is? Only 101:4, with five words, offers a picture: the Day when people will be like scattered moths. These four verses form one movement, so this article reads them together.",
+            "bn": "আল-কারিআহ: আঘাতকারী। সূরা আল-কারিআহ খোলে একটিমাত্র শব্দে, আর ১০১:১ আয়াতের পুরোটাই ওই শব্দ। পরের আয়াত ১০১:২-এ দুটি শব্দ: মাল কারিআহ, কী সেই আঘাতকারী? তারপর ১০১:৩-এ চারটি: ওয়া মা আদরাকা মাল কারিআহ, আর কিসে আপনাকে জানাবে আঘাতকারী কী? কেবল ১০১:৪-এ, পাঁচ শব্দে, একটা ছবি আসে: যেদিন মানুষ হবে বিক্ষিপ্ত পতঙ্গের মতো। চারটি আয়াত মিলে একটাই চলন, তাই এ লেখা এগুলোকে একসঙ্গে পড়ে।"
+          },
+          {
+            "en": "Al-Qurtubi records that the surah is Makkan by consensus and has ten verses, and Ibn Kathir also marks it Makkan. After these four verses, 101:5 sets the mountains beside the people, like fluffed wool; that verse has its own article and is named here only as the next picture. From 101:6 the surah turns to the scales. What follows takes up the name al-Qari'ah, the double question, and the moths, as the commentaries fetched for these verses explain them.",
+            "bn": "কুরতুবী লিখেছেন, সূরাটি সর্বসম্মতিক্রমে মাক্কী এবং এর আয়াত দশটি। ইবন কাসীরও একে মাক্কী বলেছেন। এই চারটি আয়াতের পর ১০১:৫ মানুষের পাশে পাহাড়ের ছবি রাখে, ধুনা পশমের মতো পাহাড়। সে আয়াতের আলাদা লেখা আছে, এখানে তার নাম আসছে শুধু পরের ছবি হিসেবে। ১০১:৬ থেকে সূরাটি পাল্লার দিকে মোড় নেয়। সামনে থাকছে আল-কারিআহ নামটি, দুবারের প্রশ্ন আর পতঙ্গের কথা, এই আয়াতগুলোর জন্য আনা তাফসীরগুলো যেভাবে ব্যাখ্যা করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "It Strikes the Heart",
+          "bn": "আঘাত পড়ে অন্তরে"
+        },
+        "p": [
+          {
+            "en": "Why is the Day called the Striker? At-Tabari answers in his first sentence: al-qari'ah is the Hour whose terror strikes people's hearts, yaqra'u qulub al-nas hawluha, together with the immense trial that comes down on them at it. Then he fixes the moment with a short phrase: wa dhalika subhatun la layla ba'daha, and that is a morning with no night after it. He adds that the people of interpretation said much the same, and lists their reports, taken up below.",
+            "bn": "দিনটিকে আঘাতকারী বলা হলো কেন? তাবারী প্রথম বাক্যেই উত্তর দেন। আল-কারিআহ হলো সেই মুহূর্ত, যার বিভীষিকা মানুষের অন্তরে আঘাত হানে: ইয়াকরাউ কুলূবান নাসি হাওলুহা। সঙ্গে থাকে সে সময় তাদের ওপর নেমে আসা ভয়ংকর বিপদ। তারপর ছোট্ট এক বাক্যে তিনি সময়টা চিনিয়ে দেন: ওয়া যালিকা সুবহাতুন লা লাইলা বা'দাহা, সে এমন এক সকাল, যার পরে আর রাত নেই। তিনি জানান, তাফসীরের আলেমরাও প্রায় একই কথা বলেছেন, এবং তাঁদের বর্ণনা উল্লেখ করেন। সেগুলো সামনে আসছে।"
+          },
+          {
+            "en": "The other commentaries give the same reason in their own words. Al-Baghawi says it is so named because it strikes the hearts with fright, taqra'u al-qulub bi-l-faza'. The Muyassar calls it the Hour that strikes people's hearts with its terrors. As-Sa'di says it strikes people and shakes them, tuz'ijuhum, with its terrors, and that this is why Allah made its matter great and imposing. Al-Qurtubi says it strikes al-khala'iq, all created beings, with its terrors and its frights.",
+            "bn": "বাকি তাফসীরগুলোও নিজের ভাষায় একই কারণ বলে। বাগাভীর কথায়, নামটা এ জন্য যে সে অন্তরে ভীতির আঘাত হানে: তাকরাউল কুলূবা বিল-ফাযা'। মুয়াসসার একে বলে সেই মুহূর্ত, যা নিজের বিভীষিকা দিয়ে মানুষের অন্তরে আঘাত করে। সা'দী বলেন, সে মানুষকে আঘাত করে আর বিভীষিকা দিয়ে নাড়িয়ে দেয়, তুযইজুহুম। এ কারণেই আল্লাহ তার ব্যাপারটাকে বড় ও ভারী করে দেখিয়েছেন। কুরতুবী বলেন, সে আল-খালাইককে, অর্থাৎ সমস্ত সৃষ্টিকে, তার বিভীষিকা আর আতঙ্ক দিয়ে আঘাত করে।"
+          },
+          {
+            "en": "Set side by side, the notes agree on the reason and differ only in what they say is struck. At-Tabari, al-Baghawi and the Muyassar name the heart; as-Sa'di names people; al-Qurtubi widens it to every created thing. None of them explains the name by what the Day is made of. Each explains it by what the Day does to those who meet it. The first word of the surah is a name drawn from an effect, and the effect is fear.",
+            "bn": "পাশাপাশি রাখলে দেখা যায়, কারণের ব্যাপারে সবাই একমত। পার্থক্য কেবল আঘাতটা কোথায় পড়ে, সেখানে। তাবারী, বাগাভী আর মুয়াসসার বলেন অন্তরের কথা। সা'দী বলেন মানুষের কথা। কুরতুবী তা ছড়িয়ে দেন সমস্ত সৃষ্টির ওপর। দিনটি কী দিয়ে গড়া, তা দিয়ে কেউ নামটা ব্যাখ্যা করেননি। প্রত্যেকে ব্যাখ্যা করেছেন, দিনটি তার মুখোমুখি হওয়া মানুষের সঙ্গে কী করে, তা দিয়ে। সূরার প্রথম শব্দটি তাই একটা প্রভাব থেকে নেওয়া নাম, আর সেই প্রভাব হলো ভয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word for Any Calamity",
+          "bn": "যে কোনো বিপর্যয়ের শব্দ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi steps back to ordinary Arabic. The people of language, he reports, say the Arabs use the phrase qara'athum al-qari'ah, the striker struck them, and the parallel faqarathum al-faqirah, when something dreadful, amr fazi', has befallen them. He quotes a line of the poet Ibn Ahmar that speaks of a qari'ah among the days, and a second line by another poet built on the same verb. Before it named the Day, then, the word named any heavy blow of misfortune.",
+            "bn": "কুরতুবী এরপর সাধারণ আরবি ভাষার দিকে ফেরেন। তিনি ভাষাবিদদের সূত্রে জানান, আরবরা বলে কারাআতহুমুল কারিআহ, আঘাতকারী তাদের আঘাত করেছে। একই ধাঁচে বলে ফাকারাতহুমুল ফাকিরাহ। দুটোই বলা হয় তখন, যখন তাদের ওপর ভয়াবহ কিছু, আমরুন ফাযী', এসে পড়ে। তিনি কবি ইবন আহমারের একটি পঙ্‌ক্তি উদ্ধৃত করেন, যেখানে দিনগুলোর মধ্যে এক কারিআর কথা আছে। আরেক কবির একটি পঙ্‌ক্তিও আনেন, যা একই ক্রিয়া দিয়ে গড়া। অর্থাৎ শেষ দিনের নাম হওয়ার আগে শব্দটি ছিল যে কোনো কঠিন বিপদের আঘাতের নাম।"
+          },
+          {
+            "en": "He then gives the Qur'an's own use of the word in another surah, 13:31: wa la yazalu alladhina kafaru tusibuhum bima sana'u qari'ah, those who disbelieve will not cease to be struck by a qari'ah for what they have done. There, he says, it means al-shadidah min shada'id al-dahr, a severe one among the hardships of time. So the Qur'an also uses qari'ah for blows that land again and again in this life, while in 101:1 the word stands with the definite article, al-qari'ah, as the name of one Day.",
+            "bn": "এরপর তিনি অন্য এক সূরা থেকে কুরআনের নিজস্ব ব্যবহার দেখান, ১৩:৩১: ওয়া লা ইয়াযালুল্লাযীনা কাফারূ তুসীবুহুম বিমা সানাঊ কারিআহ। যারা কুফরি করে, নিজেদের কাজের কারণে কোনো না কোনো কারিআ তাদের ওপর পড়তেই থাকবে। কুরতুবী বলেন, সেখানে এর অর্থ আশ-শাদীদাতু মিন শাদাইদিদ দাহর, কালের কঠিন বিপদগুলোর একটি। তাহলে কুরআন এমন কারিআর কথাও জানে, যা এ দুনিয়াতেই বারবার পড়ে। আর ১০১:১-এ শব্দটি নির্দিষ্টবাচক 'আল' নিয়ে একা দাঁড়ায়, আল-কারিআহ, একটি দিনের নাম হয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One of the Day's Names",
+          "bn": "সেই দিনের এক নাম"
+        },
+        "p": [
+          {
+            "en": "Which Day? Ibn Kathir answers that al-qari'ah is one of the names of the Resurrection, like al-haqqah, at-tammah, as-sakhkhah and al-ghashiyah, among others. Each of those names stands in the Qur'an: al-Haqqah opens 69:1, at-Tammah comes in 79:34, as-Sakhkhah in 80:33, and al-Ghashiyah in 88:1. Al-Baghawi and as-Sa'di use the same formula, a name among the names of the Resurrection. Al-Qurtubi says the general body of commentators, 'ammat al-mufassirin, explained it as al-qiyamah wa-l-sa'ah, the Resurrection and the Hour.",
+            "bn": "কোন দিন? ইবন কাসীরের উত্তর: আল-কারিআহ কিয়ামতের নামগুলোর একটি, যেমন আল-হাক্কাহ, আত-তাম্মাহ, আস-সাখখাহ, আল-গাশিয়াহ এবং আরও কিছু। এ নামগুলোর প্রতিটি কুরআনে আছে। আল-হাক্কাহ দিয়ে ৬৯:১ শুরু, আত-তাম্মাহ আছে ৭৯:৩৪-এ, আস-সাখখাহ ৮০:৩৩-এ, আর আল-গাশিয়াহ ৮৮:১-এ। বাগাভী আর সা'দীও একই কথা বলেন: কিয়ামতের নামগুলোর একটি নাম। কুরতুবী জানান, অধিকাংশ মুফাসসির, আম্মাতুল মুফাসসিরীন, এর ব্যাখ্যা দিয়েছেন আল-কিয়ামাহ ওয়াস সাআহ, অর্থাৎ পুনরুত্থান ও সেই নির্ধারিত মুহূর্ত।"
+          },
+          {
+            "en": "At-Tabari supports his reading with early reports. In one, Ibn Abbas says al-qari'ah is one of the names of the Day of Resurrection, which Allah made great and warned His servants of, 'azzamahu Allah wa haddharahu 'ibadahu. In a second report from Ibn Abbas, and in one from Qatadah, both on the opening pair of verses, the answer is shorter: hiya al-sa'ah, it is the Hour. Finally Waki' says he heard that al-qari'ah, al-waqi'ah and al-haqqah are all the Resurrection.",
+            "bn": "তাবারী নিজের ব্যাখ্যার পক্ষে আগের যুগের বর্ণনা আনেন। একটি বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, আল-কারিআহ কিয়ামত দিবসের নামগুলোর একটি। আল্লাহ একে বড় করে দেখিয়েছেন এবং এ নিয়ে বান্দাদের সতর্ক করেছেন: আযযামাহুল্লাহু ওয়া হাযযারাহু ইবাদাহু। ইবন আব্বাস (রাঃ)-এর আরেক বর্ণনায় এবং কাতাদার এক বর্ণনায়, দুটোই প্রথম দুই আয়াত নিয়ে, উত্তর আরও ছোট: হিয়াস সাআহ, এ হলো সেই মুহূর্ত। শেষে ওয়াকী' বলেন, তিনি শুনেছেন যে আল-কারিআহ, আল-ওয়াকিআহ আর আল-হাক্কাহ, সবই কিয়ামত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked Twice, Answered Late",
+          "bn": "দুবার প্রশ্ন, উত্তর দেরিতে"
+        },
+        "p": [
+          {
+            "en": "Then comes 101:2, ma al-qari'ah. Al-Qurtubi calls it an istifham, a question: what thing is the Striker? At-Tabari reads the question as Allah magnifying the matter of the Hour whose terror strikes His servants: what thing is al-qari'ah, meaning how great it is, how grievous, how terrible, ma a'zamaha wa afza'aha wa ahwalaha. Al-Baghawi gives two words, tahwil wa ta'zim, making it fearsome and making it great. As-Sa'di's note on this verse and the next is the same short line: He made its matter great.",
+            "bn": "তারপর আসে ১০১:২, মাল কারিআহ। কুরতুবী একে বলেন ইস্তিফহাম, অর্থাৎ প্রশ্ন: আঘাতকারী কী জিনিস? তাবারীর পাঠে এ প্রশ্ন দিয়ে আল্লাহ সেই মুহূর্তের মর্যাদা বাড়িয়ে দেখাচ্ছেন, যার বিভীষিকা তাঁর বান্দাদের আঘাত করে। মানে, সেটা কত বিশাল, কত ভয়ানক, কত বিভীষিকাময়: মা আ'যামাহা ওয়া আফযাআহা ওয়া আহওয়ালাহা। বাগাভী দেন দুটি শব্দ, তাহওয়ীল ওয়া তা'যীম: ভীতিকর করে তোলা আর বড় করে তোলা। এ আয়াত আর পরের আয়াতে সা'দীর টীকা একই ছোট বাক্য: তিনি এর ব্যাপারটাকে বড় করে দেখিয়েছেন।"
+          },
+          {
+            "en": "In 101:3 the question returns in a fuller form, wa ma adraka ma al-qari'ah. Al-Qurtubi says this too is a question by way of magnifying and exalting its matter, and points to the same pattern at the opening of al-Haqqah: al-haqqah, ma al-haqqah, wa ma adraka ma al-haqqah, saying he has discussed it there already. Ibn Kathir describes 101:3 as Allah speaking to magnify the Day and to make its matter fearsome. The surah thus repeats its name three times before saying anything about it.",
+            "bn": "১০১:৩-এ প্রশ্নটা আরও পূর্ণ রূপে ফিরে আসে: ওয়া মা আদরাকা মাল কারিআহ। কুরতুবী বলেন, এটিও প্রশ্ন, এর ব্যাপারটাকে মহিমান্বিত আর ভারী করে দেখানোর জন্য। তিনি সূরা আল-হাক্কাহর শুরুর একই ধাঁচের দিকে ইঙ্গিত করেন: আল-হাক্কাহ, মাল হাক্কাহ, ওয়া মা আদরাকা মাল হাক্কাহ। বলেন, সে আলোচনা আগেই হয়ে গেছে। ইবন কাসীরের ভাষায়, ১০১:৩-এ আল্লাহ দিনটিকে বড় করে আর তার ব্যাপারটাকে ভয়াবহ করে দেখাচ্ছেন। ফলে কিছু বলার আগেই সূরাটি নামটা তিনবার উচ্চারণ করে।"
+          },
+          {
+            "en": "At-Tabari names the one addressed: Allah says to His Prophet Muhammad ﷺ, and what has made you aware, O Muhammad, what thing al-qari'ah is? The Muyassar puts it as, and what thing has taught you about it? The answer, when it comes, is not a definition. The abridged English Ibn Kathir says Allah first intensifies concern and fright for it, then explains it with the words that follow. What follows is a scene of people on that Day.",
+            "bn": "কাকে সম্বোধন করা হচ্ছে, তাবারী তা স্পষ্ট করেন। আল্লাহ তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন: হে মুহাম্মাদ, কিসে আপনাকে জানাল আল-কারিআহ কী জিনিস? মুয়াসসারের ভাষায়: কোন জিনিস আপনাকে এর ব্যাপারে জানিয়েছে? উত্তর যখন আসে, তা কোনো সংজ্ঞা নয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, আল্লাহ প্রথমে এ নিয়ে উদ্বেগ আর ভয় বাড়িয়ে দেন, তারপর পরের কথাগুলো দিয়ে তা ব্যাখ্যা করেন। আর সেই পরের কথা হলো, সেদিনের মানুষের একটা দৃশ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Creatures That Fall Into Flame",
+          "bn": "আগুনে ঝাঁপ দেওয়া পতঙ্গ"
+        },
+        "p": [
+          {
+            "en": "Yawma yakunu al-nasu ka-l-farashi al-mabthuth. At-Tabari reads it straight on from 101:3: al-qari'ah is the Day when people will be like al-farash. He defines al-farash as the creature that keeps falling into the fire and the lamp, and adds laysa bi-ba'ud wa la dhubab, it is neither mosquito nor fly. Al-mabthuth, he says, is the scattered. He then brings Qatadah: this is the farash you have seen tumbling into the fire. Ibn Zayd adds only that it is a likeness Allah has drawn.",
+            "bn": "ইয়াওমা ইয়াকূনুন নাসু কাল ফারাশিল মাবসূস। তাবারী একে ১০১:৩-এর সঙ্গে জুড়ে পড়েন: আল-কারিআহ হলো সেই দিন, যেদিন মানুষ হবে আল-ফারাশের মতো। ফারাশের সংজ্ঞা তিনি দেন এভাবে: যা বারবার আগুনে আর বাতিতে গিয়ে পড়ে। সঙ্গে যোগ করেন, লাইসা বিবাউদিন ওয়া লা যুবাব, এটা মশাও নয়, মাছিও নয়। আল-মাবসূস মানে, তাঁর ভাষায়, ছড়ানো-ছিটানো। তারপর আনেন কাতাদার কথা: এ সেই ফারাশ, যাকে আপনারা আগুনে হুমড়ি খেয়ে পড়তে দেখেছেন। ইবন যায়দ শুধু বলেন, এটি আল্লাহর দেওয়া একটি উপমা।"
+          },
+          {
+            "en": "Al-Qurtubi gathers more. Qatadah, he reports, said the farash are flying things that fall into the fire and the lamp; the singular is farashah, and Abu 'Ubaydah said the same. Al-Farra' called them al-hamaj al-ta'ir, small flying creatures, mosquitoes and others, and counted locusts among them. Al-Qurtubi also cites the saying atyash min farashah, more giddy than a farashah. Al-Baghawi describes small flying creatures you see rushing into the fire. The Muyassar says people will be like spread farash in their number, dispersal and movement.",
+            "bn": "কুরতুবী আরও কথা জড়ো করেন। তাঁর বর্ণনায় কাতাদা বলেছেন, ফারাশ হলো সেই উড়ন্ত প্রাণী, যা আগুনে আর বাতিতে গিয়ে পড়ে। একবচনে ফারাশাহ, আর আবু উবায়দাও তা-ই বলেছেন। ফাররা একে বলেছেন আল-হামাজুত তাইর, ছোট ছোট উড়ন্ত প্রাণী, মশা ও অন্যান্য, আর পঙ্গপালকেও এর মধ্যে ধরেছেন। কুরতুবী একটি প্রবাদও আনেন: আতইয়াশু মিন ফারাশাহ, ফারাশার চেয়েও বেশি দিশাহীন। বাগাভীর বর্ণনায় এরা ছোট উড়ন্ত প্রাণী, যাদের আগুনে ঝাঁপিয়ে পড়তে দেখা যায়। মুয়াসসার বলে, সংখ্যায়, ছড়িয়ে পড়ায় আর ছোটাছুটিতে মানুষ হবে ছড়ানো ফারাশের মতো।"
+          },
+          {
+            "en": "So the commentators define al-farash by what it does more than by its species: it is drawn to fire and lamps and drops into them. The translation printed with the verse says moths; al-Farra's wider net takes in mosquitoes and locusts, while at-Tabari explicitly excludes mosquitoes and flies. That difference is left as it stands. Al-Qurtubi adds a point of grammar: al-mabthuth, scattered and spread, is masculine because it follows the word's form, as in 54:20, a'jaz nakhlin munqa'ir; mabthuthah would have matched 69:7, a'jaz nakhlin khawiyah.",
+            "bn": "তাহলে তাফসীরকারেরা ফারাশকে চেনান প্রজাতি দিয়ে যতটা, তার চেয়ে বেশি তার আচরণ দিয়ে: আগুন আর বাতির দিকে ছুটে যায়, আর তাতে পড়ে যায়। আয়াতের সঙ্গে ছাপা অনুবাদে আছে পতঙ্গ। ফাররার পরিধি বড়, তাতে মশা আর পঙ্গপালও আছে। অথচ তাবারী স্পষ্ট করে মশা আর মাছিকে বাদ দেন। এ মতভেদ যেমন আছে তেমনই রাখা হলো। কুরতুবী একটা ব্যাকরণের কথাও বলেন। আল-মাবসূস, অর্থাৎ ছড়ানো, পুংলিঙ্গে এসেছে শব্দের বাহ্যিক রূপ মেনে, যেমন ৫৪:২০-এ আ'জাযু নাখলিন মুনকাইর। মাবসূসাহ হলে তা মিলত ৬৯:৭-এর আ'জাযু নাখলিন খাওয়িয়াহ-র সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Moths First, Then Locusts",
+          "bn": "আগে ফারাশ, পরে পঙ্গপাল"
+        },
+        "p": [
+          {
+            "en": "A second line of explanation brings in locusts. At-Tabari reports that some scholars of Arabic said the meaning is ka-ghawgha' al-jarad, like the ghawgha' of locusts, riding one upon another; so people on that Day will surge about among each other. Al-Qurtubi gives the same wording from Ibn Abbas and al-Farra', adding idha bu'ithu, when they are raised. Al-Baghawi gives it from al-Farra' and explains that people at the raising will surge and climb over one another from terror.",
+            "bn": "ব্যাখ্যার আরেকটি ধারা পঙ্গপালের কথা আনে। তাবারী জানান, আরবি ভাষার কিছু আলেম বলেছেন, অর্থ হলো কা-গাওগাইল জারাদ, পঙ্গপালের গাওগার মতো, যারা একে অন্যের ওপর চড়ে বসে। সেদিন মানুষও তেমনি একে অন্যের ভেতর দিয়ে ঘুরপাক খাবে। কুরতুবী একই কথা আনেন ইবন আব্বাস (রাঃ) আর ফাররার সূত্রে, সঙ্গে যোগ করেন ইযা বুইসূ, যখন তাদের ওঠানো হবে। বাগাভী তা আনেন ফাররার সূত্রে। তাঁর ব্যাখ্যা, পুনরুত্থানের সময় মানুষ আতঙ্কে একে অন্যের মধ্যে ঢেউয়ের মতো দুলবে আর একে অন্যের ওপর উঠে পড়বে।"
+          },
+          {
+            "en": "Several notes tie this to 54:7, ka-annahum jaradun muntashir, as if they were locusts spread abroad. Ibn Kathir reads 101:4 as people in their spreading and dividing, their going and coming, out of bewilderment at what they face, and cites 54:7 beside it; al-Baghawi cites it too. As-Sa'di says, like spreading locusts surging into each other, and describes al-farash as night creatures that surge about not knowing where to head, rushing into a lit fire from weakness of perception: such is the state of people, the possessors of minds.",
+            "bn": "কয়েকটি তাফসীর একে ৫৪:৭-এর সঙ্গে মেলায়: কাআন্নাহুম জারাদুম মুনতাশির, যেন তারা ছড়িয়ে পড়া পঙ্গপাল। ইবন কাসীর ১০১:৪ পড়েন এভাবে: যা ঘটছে তাতে দিশাহারা হয়ে মানুষ ছড়িয়ে পড়ছে, ভাগ হয়ে যাচ্ছে, যাচ্ছে আর আসছে। পাশে তিনি ৫৪:৭ উদ্ধৃত করেন। বাগাভীও তা উদ্ধৃত করেন। সা'দী বলেন, ছড়িয়ে পড়া পঙ্গপালের মতো, যারা একে অন্যের মধ্যে ঢেউ খেলে। ফারাশকে তিনি বলেন রাতের প্রাণী, কোন দিকে যাবে জানে না, এলোমেলো দোলে। আগুন জ্বালালে বোধের দুর্বলতায় তাতে ঝাঁপিয়ে পড়ে। তারপর তিনি বলেন, এ-ই হলো মানুষের অবস্থা, যারা কিনা বুদ্ধির অধিকারী।"
+          },
+          {
+            "en": "Al-Qurtubi alone sets the two verses in sequence. Their first state, he says, is like al-farash, which has no direction and wanders bewildered in every direction; afterwards they become like locusts, because locusts have a direction they make for. On his reading 101:4 and 54:7 describe two stages of the same crowd. Ibn Kathir, al-Baghawi and as-Sa'di set the two images side by side without ordering them. Both readings are reported here, and neither is preferred.",
+            "bn": "দুই আয়াতকে পরপর দুটি ধাপে সাজান কেবল কুরতুবী। তিনি বলেন, তাদের প্রথম অবস্থা ফারাশের মতো, যার কোনো দিক নেই, দিশাহারা হয়ে সব দিকে ঘোরে। পরে তারা হয়ে যায় পঙ্গপালের মতো, কারণ পঙ্গপালের একটা দিক থাকে, যেদিকে সে ছোটে। তাঁর পাঠে ১০১:৪ আর ৫৪:৭ একই ভিড়ের দুটি ধাপের ছবি। ইবন কাসীর, বাগাভী আর সা'দী দুটি ছবিকে পাশাপাশি রাখেন, কোনো ক্রম দেন না। দুটো পাঠই এখানে উল্লেখ করা হলো, কোনোটিকে প্রাধান্য দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held Back From the Fire",
+          "bn": "আগুন থেকে টেনে রাখা"
+        },
+        "p": [
+          {
+            "en": "Under 101:4 al-Qurtubi cites a hadith from Sahih Muslim. In Muslim's wording (no. 2285), Jabir reports that the Messenger of Allah ﷺ said: My likeness and yours is that of a man who lit a fire, and grasshoppers and moths began falling into it while he kept driving them away from it; and I am taking hold of your waist-wraps to keep you from the Fire, and you keep slipping from my hand. Muslim includes it in his Sahih and adds no separate grading.",
+            "bn": "১০১:৪-এর আলোচনায় কুরতুবী সহীহ মুসলিম থেকে একটি হাদীস আনেন। মুসলিমের ভাষ্যে (নং ২২৮৫) জাবির (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আমার আর তোমাদের দৃষ্টান্ত সেই লোকের মতো, যে আগুন জ্বালাল। তারপর ফড়িং আর পতঙ্গ তাতে এসে পড়তে লাগল, আর সে তাদের আগুন থেকে তাড়িয়ে দিতে থাকল। আমি তোমাদের কোমরের বাঁধন ধরে আগুন থেকে টেনে রাখছি, আর তোমরা আমার হাত ফসকে বেরিয়ে যাচ্ছ। মুসলিম এটিকে তাঁর সহীহ গ্রন্থে রেখেছেন, আলাদা কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "The narration does not mention this verse or the Day, and it is not attached to 101:4; al-Qurtubi brings it because both speak of al-farash falling into fire. None of the commentaries fetched for 101:1 to 101:4 attaches a hadith to the verses themselves, and none gives an occasion of revelation. Ma'arif al-Qur'an's note covers the whole surah and speaks only of the weighing of deeds. What the sources give on these verses is the name, the questions, and the image.",
+            "bn": "বর্ণনাটিতে এ আয়াত বা সেই দিনের কথা নেই, আর এটি ১০১:৪-এর সঙ্গে সরাসরি যুক্তও নয়। কুরতুবী এটি এনেছেন, কারণ দুটোতেই ফারাশের আগুনে পড়ার কথা আছে। ১০১:১ থেকে ১০১:৪ পর্যন্ত যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই আয়াতগুলোর সঙ্গে কোনো হাদীস যুক্ত করেনি, আর কোনোটিই নাযিলের প্রেক্ষাপট বলেনি। মাআরিফুল কুরআনের টীকা পুরো সূরা জুড়ে, আর তাতে কথা শুধু আমল ওজনের। এ আয়াতগুলো নিয়ে উৎসগুলো যা দেয়, তা হলো নামটি, প্রশ্ন দুটি আর ছবিটি।"
+          },
+          {
+            "en": "Read together, the four verses do something a definition could not. They give the Day a name taken from its blow, ask twice what it is, and answer with creatures everyone has watched at a lamp. The hadith adds the other half of that picture: a hand holding people back while the fire is still only a fire. A reader can take the surah's opening as that hand. The warning is being given now, while there is still time to stop circling the flame and turn back.",
+            "bn": "চারটি আয়াত মিলে যা করে, কোনো সংজ্ঞা তা পারত না। দিনটির নাম রাখে তার আঘাত থেকে, দুবার জিজ্ঞেস করে সেটা কী, আর উত্তর দেয় এমন প্রাণীর ছবিতে, যাদের বাতির চারপাশে সবাই দেখেছে। হাদীসটি ছবির বাকি অর্ধেক যোগ করে: আগুন যখনো শুধু আগুন, তখন একটা হাত মানুষকে টেনে রাখছে। পাঠক সূরার এই সূচনাকে সেই হাত হিসেবেও নিতে পারেন। সতর্কবাণী আসছে এখনই, যখনো সময় আছে শিখার চারপাশে ঘোরা থামিয়ে ফিরে আসার।"
+          }
+        ]
+      }
+    ]
+  },
   "101:5": {
     "sections": [
       {
