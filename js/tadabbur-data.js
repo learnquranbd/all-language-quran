@@ -30123,6 +30123,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let certain knowledge of the Fire reach your heart now, while it can still change what you chase, before it is seen with the eyes when it can change nothing.",
     "lessonBn": "জাহান্নামের নিশ্চিত জ্ঞান এখনই অন্তরে পৌঁছাতে দিন, যখন তা আপনার ছুটে চলার দিক বদলাতে পারে। চোখে দেখার দিন এলে আর কিছুই বদলানো যাবে না।"
+  },
+  "91:7": {
+    "reflectionEn": "The surah's oaths have taken in the sun and the moon, day and night, the sky and the earth. The seventh brings them home: wa nafsin wa ma sawwaha, by a soul and the One who proportioned it, or, as the Arabic also allows, by a soul and its proportioning. Either way, a soul is set beside the sky as something worth swearing by. Mine was shaped and set level before I made a single choice, and the next verse says it was then made to know its wickedness and its righteousness. I did not build the instrument I think with, love with and choose with. What am I doing with something so carefully made, and do I ask its Maker to keep it on course?",
+    "reflectionBn": "সূরাটির শপথে একে একে এসেছে সূর্য আর চাঁদ, দিন আর রাত, আকাশ আর পৃথিবী। সপ্তম শপথে সব এসে থামে ঘরের ভেতরে: ওয়া নাফসিঁও ওয়া মা সাওয়াহা, শপথ প্রাণের আর তাঁর, যিনি তাকে সুঠাম করেছেন। আরবি এ অর্থও বহন করে: শপথ প্রাণের আর তার সুঠাম গড়নের। যেভাবেই পড়ি, একটি প্রাণকে আকাশের পাশে বসানো হয়েছে শপথের যোগ্য জিনিস হিসেবে। আমি একটি সিদ্ধান্ত নেওয়ারও আগে আমার প্রাণকে গড়ে সোজা করে দেওয়া হয়েছে। পরের আয়াত বলে, তারপর তাকে চিনিয়ে দেওয়া হয়েছে তার অসৎ পথ আর তার তাকওয়া। যে যন্ত্র দিয়ে আমি ভাবি, ভালোবাসি আর বেছে নিই, সেটা আমার বানানো নয়। এত যত্নে গড়া জিনিসটা নিয়ে আমি কী করছি? আর তাকে ঠিক পথে রাখতে তার স্রষ্টার কাছে কি আমি চাই?",
+    "pointsEn": [
+      "When I last looked closely at my own inner life, its worries, wants, loves and dislikes, did I see in it a sign of the One who shaped it?",
+      "What in me was made level and upright, and which habits have I let bend it since?",
+      "Do I know right from wrong more clearly than I act on it, and where is that gap widest this week?",
+      "When I think about decree, does it make me more careful in what I do, or has it become an excuse to do less?",
+      "Do I ask Allah to give my soul its taqwa as often as I ask Him for things outside it?"
+    ],
+    "pointsBn": [
+      "নিজের ভেতরের জগৎ, তার দুশ্চিন্তা, চাওয়া, ভালোবাসা আর অপছন্দ, শেষবার কবে মন দিয়ে দেখেছি? তাতে কি যিনি একে গড়েছেন তাঁর নিদর্শন চোখে পড়েছে?",
+      "আমার ভেতরে কী সোজা আর সুঠাম করে গড়া হয়েছিল, আর কোন অভ্যাসকে আমি পরে তা বাঁকিয়ে দিতে দিয়েছি?",
+      "ভালো-মন্দ আমি যতটা পরিষ্কার জানি, ততটা কি মেনে চলি? এ সপ্তাহে জানা আর করার ফাঁকটা কোথায় সবচেয়ে বড়?",
+      "তাকদীরের কথা ভাবলে আমি কি আমলে আরও সতর্ক হই, নাকি সেটা কম করার অজুহাত হয়ে দাঁড়িয়েছে?",
+      "বাইরের জিনিস যত বার আল্লাহর কাছে চাই, নিজের প্রাণের তাকওয়া কি তত বার চাই?"
+    ],
+    "lessonEn": "Your soul was shaped with care and shown right from wrong before you chose anything; treat it as a trust from its Maker and ask Him to guide it.",
+    "lessonBn": "কিছু বেছে নেওয়ার আগেই আপনার প্রাণকে যত্নে গড়া হয়েছে আর ভালো-মন্দ চিনিয়ে দেওয়া হয়েছে। একে তার স্রষ্টার আমানত হিসেবে রাখুন, আর তাঁরই কাছে পথ দেখানোর দোয়া করুন।"
   }
 };
 

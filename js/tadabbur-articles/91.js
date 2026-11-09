@@ -163,6 +163,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "91:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Last Oath Turns Inward",
+          "bn": "শেষ শপথ ফেরে ভেতরের দিকে"
+        },
+        "p": [
+          {
+            "en": "Wa nafsin wa ma sawwaha: and by a soul and what proportioned it. These three Arabic words close the run of oaths that opened at 91:1. The sun, the moon, the day, the night, the sky and the earth have been called as witnesses, and now the oath turns to the self that lives among them. Al-Qurtubi notes that all these nouns stand in the genitive of the oath, and gives a reason for the series: Allah swore by His creation for the wonders of craftsmanship in it that point to Him.",
+            "bn": "ওয়া নাফসিঁও ওয়া মা সাওয়াহা: শপথ প্রাণের, আর যা তাকে সুঠাম করেছে তার। আরবিতে তিনটি শব্দ, আর এখানেই শেষ হয় ৯১:১ থেকে শুরু হওয়া শপথের সারি। সূর্য, চাঁদ, দিন, রাত, আকাশ আর পৃথিবীকে সাক্ষী হিসেবে ডাকা হয়েছে। এবার শপথ ফেরে সেই সত্তার দিকে, যে এদের মাঝে বাস করে। কুরতুবী লক্ষ করেন, এই সব বিশেষ্যই শপথের কারণে যের-যুক্ত। সারিটির একটা কারণও তিনি দেন: আল্লাহ নিজের সৃষ্টির শপথ করেছেন, কারণ তাতে নির্মাণের এমন বিস্ময় আছে যা তাঁর দিকেই ইশারা করে।"
+          },
+          {
+            "en": "Unlike the sky and the earth, nafs comes here without the definite article, and the commentators ask which soul is meant. The Muyassar, reading 91:1 to 91:10 as a single passage, answers: every soul, with Allah completing its creation so that it can carry out its task. The verdict these oaths reach in 91:9 and 91:10 has its own article and is not retold here. This article stays with the soul, its making, and 91:8.",
+            "bn": "আকাশ আর পৃথিবীর মতো নয়, এখানে নাফস এসেছে নির্দিষ্টবাচক আল ছাড়া। তাই তাফসীরকারেরা প্রশ্ন তোলেন, কোন প্রাণের কথা? মুয়াসসার ৯১:১ থেকে ৯১:১০ পর্যন্ত এক অনুচ্ছেদ হিসেবে পড়ে। তার জবাব: প্রতিটি প্রাণ, যার সৃষ্টি আল্লাহ পূর্ণ করেছেন, যাতে সে নিজের দায়িত্ব পালন করতে পারে। এই শপথগুলো ৯১:৯ ও ৯১:১০ আয়াতে যে রায়ে পৌঁছায়, তার আলাদা প্রবন্ধ আছে, এখানে তা আবার বলা হবে না। এ লেখা থাকবে প্রাণ, তার গড়ন আর ৯১:৮ আয়াত নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Proportioner or the Proportioning",
+          "bn": "গড়নদাতা, নাকি গড়ন"
+        },
+        "p": [
+          {
+            "en": "Every commentator fetched for this verse stops on the small word ma. At-Tabari reads it as Allah Himself, since it is He who proportioned the soul, created it and balanced its make: ma, usually what, has been put in the place of man, who. He then allows a second sense, in which ma turns the verb into a verbal noun: by a soul and its proportioning. The oath then falls on the soul and on the act of making it level.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত প্রত্যেক তাফসীরকার ছোট্ট শব্দ মা-তে এসে থামেন। তাবারী একে আল্লাহ নিজেই বলে পড়েন, কারণ তিনিই প্রাণকে সুঠাম করেছেন, সৃষ্টি করেছেন আর তার গড়নে ভারসাম্য এনেছেন। মা সাধারণত বোঝায় 'যা', কিন্তু এখানে বসেছে মান, অর্থাৎ 'যিনি', এর জায়গায়। এরপর তিনি দ্বিতীয় অর্থের সুযোগও রাখেন: মা ক্রিয়াটিকে ক্রিয়াবাচক বিশেষ্যে পরিণত করতে পারে। তখন অর্থ দাঁড়ায়, শপথ প্রাণের আর তার সুঠাম গড়নের। শপথ তখন পড়ে প্রাণ আর তাকে সমান করে গড়ার কাজটির উপর।"
+          },
+          {
+            "en": "Al-Qurtubi gives both readings here without names, each under it is said, the verbal noun first. The names come at 91:5, wa-s-sama'i wa ma banaha, the same construction with the sky. There he gives and its building to Qatadah, a reading al-Mubarrad chose, and and the One who built it to al-Hasan and Mujahid, adding that at-Tabari chose it. Ibn Kathir, on 91:5, likewise gives the verbal noun to Qatadah and the Builder to Mujahid.",
+            "bn": "কুরতুবী এখানে দুটি পাঠই দেন কোনো নাম ছাড়া, প্রতিটির আগে 'বলা হয়েছে' জুড়ে, আর ক্রিয়াবাচক বিশেষ্যের পাঠটি রাখেন আগে। নামগুলো আসে ৯১:৫ আয়াতে, ওয়াস সামায়ি ওয়া মা বানাহা, আকাশ নিয়ে হুবহু একই গঠন। সেখানে তিনি 'আর তার নির্মাণ' পাঠটি কাতাদার বলে উল্লেখ করেন, মুবাররাদও এটিই বেছে নিয়েছেন। আর 'যিনি তা নির্মাণ করেছেন' পাঠটি দেন হাসান ও মুজাহিদের নামে, সঙ্গে জানান, তাবারীর পছন্দও এটি। ইবন কাসীরও ৯১:৫ আয়াতে ক্রিয়াবাচক বিশেষ্যের পাঠ দেন কাতাদাকে, আর নির্মাতার পাঠ দেন মুজাহিদকে।"
+          },
+          {
+            "en": "Al-Baghawi's names on 91:5 differ again: al-Kalbi and Ata for the One who built it, al-Farra and az-Zajjaj for its building, with 36:27, bima ghafara li rabbi, my Lord's forgiving of me, as their parallel. Ma'arif al-Qur'an says on 91:5 that the context most clearly suggests the verbal noun, though its translation follows Maulana Thanawi in taking ma as the One who. Ibn Kathir joins rather than chooses: the two readings are mutalazim, each entailing the other, since to swear by a soul's proportioning already points to its Proportioner.",
+            "bn": "৯১:৫ আয়াতে বাগাভীর নামগুলো আবার আলাদা। 'যিনি নির্মাণ করেছেন' পাঠে কালবী ও আতা। 'তার নির্মাণ' পাঠে ফাররা ও যাজ্জাজ, আর তাঁদের সাক্ষী ৩৬:২৭, বিমা গাফারা লী রাব্বী, আমার রব আমাকে যে ক্ষমা করেছেন। মাআরিফুল কুরআন ৯১:৫ আয়াতে বলে, প্রসঙ্গ সবচেয়ে স্পষ্টভাবে ক্রিয়াবাচক বিশেষ্যের দিকেই ইঙ্গিত করে, যদিও তার অনুবাদ মাওলানা থানভীর অনুসরণে মা-কে 'যিনি' অর্থে নিয়েছে। ইবন কাসীর কোনোটি বাছেন না, দুটিকে জুড়ে দেন। তাঁর ভাষায় পাঠ দুটি মুতালাযিম, একটি অন্যটিকে অনিবার্য করে। প্রাণের সুঠাম গড়নের শপথ করলেই ইশারা যায় তার গড়নদাতার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Soul, Levelled How",
+          "bn": "কোন প্রাণ, কেমন গড়ন"
+        },
+        "p": [
+          {
+            "en": "On which soul is meant, al-Qurtubi records two views: Adam, or every soul brought into being, kull nafsin manfusa. Al-Baghawi reports Ata: Allah means all that He created of jinn and humankind. As-Sa'di frames it as two possibilities: the souls of all living creatures, which the general wording would support, or the soul of the accountable human being, given what follows in the next verses. He does not settle it, and moves straight on to why any soul deserves an oath at all.",
+            "bn": "কোন প্রাণের কথা, এ নিয়ে কুরতুবী দুটি মত লেখেন: আদম (আঃ), অথবা অস্তিত্বে আসা প্রতিটি প্রাণ, কুল্লু নাফসিন মানফূসা। বাগাভী আতার কথা জানান: জিন ও মানুষের মধ্যে আল্লাহ যা কিছু সৃষ্টি করেছেন, সবই এর উদ্দেশ্য। সা'দী বিষয়টিকে দুই সম্ভাবনা হিসেবে সাজান। হতে পারে সব প্রাণীর প্রাণ, শব্দের ব্যাপকতা যার পক্ষে। আবার হতে পারে দায়িত্বপ্রাপ্ত মানুষের প্রাণ, পরের আয়াতগুলো যার দিকে ইঙ্গিত দেয়। তিনি কোনোটি চূড়ান্ত করেন না। সোজা চলে যান অন্য প্রশ্নে: কোনো প্রাণ শপথের যোগ্য হয় কেন?"
+          },
+          {
+            "en": "The verb sawwa gathers several glosses. Al-Qurtubi gives hayya'a, He prepared it, and reports Mujahid: He made its creation level and balanced. At-Tabari pairs the same ideas. Al-Baghawi makes it bodily: He balanced its creation and made its limbs even. Ma'arif al-Qur'an defines taswiyah as proportioning, balancing and perfecting, and the Muyassar ties it to a task. Together they describe a soul not only finished but fitted for something.",
+            "bn": "সাওয়া ক্রিয়াকে ঘিরে কয়েকটি ব্যাখ্যা জড়ো হয়। কুরতুবী অর্থ দেন হাইয়াআ, তিনি তাকে প্রস্তুত করেছেন, আর মুজাহিদের কথা আনেন: তিনি তার সৃষ্টিকে সমান ও সুষম করেছেন। তাবারীর ব্যাখ্যাতেও একই কথার জোড়া। বাগাভী ব্যাখ্যাটি দেহের দিকে নেন: তিনি তার সৃষ্টিতে ভারসাম্য দিয়েছেন, অঙ্গপ্রত্যঙ্গ সমান করেছেন। মাআরিফুল কুরআনের মতে তাসবিয়া মানে মাপমতো গড়া, ভারসাম্য আনা আর পূর্ণ করা, আর মুয়াসসার একে একটি দায়িত্বের সঙ্গে বাঁধে। সব মিলিয়ে ছবিটা এমন প্রাণের, যাকে শুধু বানিয়ে শেষ করা হয়নি, কোনো কাজের উপযোগী করে গড়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Without It, a Statue",
+          "bn": "প্রাণ না থাকলে মূর্তি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di answers that question directly. Whichever soul is meant, he says, it is a great sign among Allah's signs, truly worthy to be sworn by. He describes it as extremely subtle and light, quick to shift and move, quick to change and to be affected, the seat of the inner movements: concern, will, intention, love and hatred. Were it not for the soul, he writes, the body would be a mere statue with no benefit in it, and the levelling of the soul in this form is one of Allah's great signs.",
+            "bn": "সা'দী সেই প্রশ্নের জবাব দেন সরাসরি। যে প্রাণই উদ্দেশ্য হোক, তাঁর মতে তা আল্লাহর বড় নিদর্শনগুলোর একটি, শপথের সত্যিকার যোগ্য। তিনি প্রাণের বর্ণনা দেন এভাবে: অতি সূক্ষ্ম ও হালকা, দ্রুত এক অবস্থা থেকে আরেক অবস্থায় যায়, দ্রুত বদলায় আর প্রভাবিত হয়। ভেতরের সব নড়াচড়া তারই: দুশ্চিন্তা, ইচ্ছা, সংকল্প, ভালোবাসা আর ঘৃণা। তিনি লেখেন, প্রাণ না থাকলে দেহ হতো নিছক এক মূর্তি, যাতে কোনো উপকার নেই। আর প্রাণকে এই আকারে সুঠাম করে গড়া আল্লাহর মহান নিদর্শনগুলোর একটি।"
+          },
+          {
+            "en": "The sky of 91:5 is seen from outside; the soul is known only from within, and even then in glimpses. Its traffic of worries, wishes and attachments runs all day without being designed or ordered by the person who has it. Set beside the sky and the earth, it is a sign that needs no journey to reach, because the faculty doing the looking is itself among the things sworn by.",
+            "bn": "৯১:৫ আয়াতের আকাশ দেখা যায় বাইরে থেকে। প্রাণকে চেনা যায় কেবল ভেতর থেকে, তাও মাঝে মাঝে এক ঝলক। দুশ্চিন্তা, আকাঙ্ক্ষা আর টানের আনাগোনা সারা দিন চলে, অথচ যার প্রাণ, সে এর নকশা করেনি, সাজিয়েও দেয়নি। আকাশ আর পৃথিবীর পাশে বসানো প্রাণ তাই এমন এক নিদর্শন, যার কাছে পৌঁছাতে কোথাও যেতে হয় না। কারণ যে চোখ দিয়ে দেখা হচ্ছে, সেটাই শপথের বিষয়গুলোর একটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Set Level Upon the Fitrah",
+          "bn": "ফিতরাতের উপর সোজা করে গড়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads sawwaha as more than physical make: Allah created the soul sound and upright upon the straight fitrah, and he sets beside it 30:30, the fitrah of Allah upon which He originated people. He then brings a hadith he says al-Bukhari and Muslim both recorded from Abu Hurayrah (RA). In al-Bukhari's Sahih (1385), the Prophet ﷺ said: Every newborn is born upon the fitrah, then his parents make him a Jew, a Christian or a Magian, like the beast that gives birth to a beast: do you see in it one that is mutilated?",
+            "bn": "ইবন কাসীর সাওয়াহা-কে কেবল দেহের গড়ন হিসেবে পড়েন না। তাঁর ব্যাখ্যায় আল্লাহ প্রাণকে সৃষ্টি করেছেন নিখুঁত ও সোজা করে, সঠিক ফিতরাতের উপর। পাশে রাখেন ৩০:৩০ আয়াত: আল্লাহর ফিতরাত, যার উপর তিনি মানুষকে সৃষ্টি করেছেন। তারপর আনেন একটি হাদীস, যা তাঁর ভাষ্যমতে বুখারী ও মুসলিম দুজনেই আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন। সহীহ বুখারীতে (১৩৮৫) নবী ﷺ বলেছেন: প্রতিটি নবজাতক ফিতরাতের উপর জন্মায়। তারপর তার বাবা-মা তাকে ইহুদি, খ্রিষ্টান বা অগ্নিপূজক বানায়, যেমন পশু পশুর জন্ম দেয়। তুমি কি তাতে কোনোটাকে অঙ্গ-কাটা দেখতে পাও?"
+          },
+          {
+            "en": "The newborn animal is whole in every part; a mutilation is something done to it afterwards. Ibn Kathir sets this beside the verse to show what proportioned means for a soul: it begins level, and what bends it comes later. He adds a report from Muslim's Sahih through 'Iyad ibn Himar on the same theme, not checked on a collection page here and so only mentioned. That leads into 91:8, where this soul receives its wickedness and its righteousness, in a sense the commentators dispute.",
+            "bn": "সদ্যোজাত পশুর প্রতিটি অঙ্গ অক্ষত থাকে। অঙ্গহানি ঘটে পরে, কেউ ঘটায়। আয়াতের পাশে ইবন কাসীর হাদীসটি রাখেন এটা দেখাতে যে প্রাণের বেলায় সুঠাম করার অর্থ কী: শুরুতে প্রাণ থাকে সোজা, তাকে বাঁকায় যা পরে আসে। একই বিষয়ে তিনি সহীহ মুসলিম থেকে ইয়াদ ইবন হিমারের সূত্রে আরেকটি বর্ণনা আনেন। এখানে তা কোনো হাদীস-সংকলনের পাতায় মেলানো হয়নি, তাই শুধু উল্লেখ করা হলো। এখান থেকেই আসে ৯১:৮, যেখানে এই প্রাণ পায় তার অসৎ পথ আর তার তাকওয়া। কোন অর্থে পায়, তা নিয়ে তাফসীরকারদের মতভেদ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made Known, or Placed Within",
+          "bn": "চিনিয়ে দেওয়া, নাকি ভেতরে রাখা"
+        },
+        "p": [
+          {
+            "en": "91:8 follows with fa: fa-alhamaha fujuraha wa taqwaha, then He inspired it with its wickedness and its righteousness. Ma'arif al-Qur'an defines ilham as casting into the heart and fujur as open transgression. At-Tabari's own gloss is that Allah made clear to the soul what it ought to do or leave, of good or evil, obedience or disobedience. He says the people of interpretation held the like, and quotes Ibn Abbas (RA): He made clear the good and the evil; and by another chain, He taught it obedience and disobedience.",
+            "bn": "৯১:৮ আসে ফা দিয়ে: ফাআলহামাহা ফুজূরাহা ওয়া তাকওয়াহা, অতঃপর তিনি তাকে তার অসৎ পথ ও তার তাকওয়া ইলহাম করেছেন। মাআরিফুল কুরআনের সংজ্ঞায় ইলহাম মানে অন্তরে ঢেলে দেওয়া, আর ফুজূর মানে প্রকাশ্য সীমালঙ্ঘন। তাবারীর নিজের ব্যাখ্যা: প্রাণের কী করা উচিত আর কী ছাড়া উচিত, ভালো হোক বা মন্দ, আনুগত্য হোক বা নাফরমানি, আল্লাহ তা তার কাছে স্পষ্ট করে দিয়েছেন। তিনি বলেন, তাফসীরের আলেমরাও এমনই বলেছেন। প্রমাণে আনেন ইবন আব্বাস (রাঃ)-এর কথা: তিনি ভালো আর মন্দ স্পষ্ট করে দিয়েছেন। আরেক সূত্রে: তিনি তাকে আনুগত্য আর নাফরমানি শিখিয়েছেন।"
+          },
+          {
+            "en": "At-Tabari adds Mujahid, 'arrafaha, He made it know; Qatadah and ad-Dahhak, He made clear; and Sufyan, He informed it. Al-Qurtubi adds al-Farra: He made known the road of good and the road of evil, as in 90:10, wa hadaynahu an-najdayn, and We guided him to the two high roads. On this line ilham is knowledge given: the soul is made aware of what wickedness is and what righteousness is, and the doing comes after.",
+            "bn": "এই ধারায় তাবারী আরও আনেন মুজাহিদকে: আররাফাহা, তাকে চিনিয়ে দিয়েছেন। কাতাদা ও দাহহাক বলেন: স্পষ্ট করে দিয়েছেন। সুফিয়ান বলেন: তাকে জানিয়ে দিয়েছেন। কুরতুবী যোগ করেন ফাররার ব্যাখ্যা: ভালোর পথ আর মন্দের পথ চিনিয়ে দিয়েছেন, যেমন ৯০:১০ আয়াতে, ওয়া হাদাইনাহুন নাজদাইন, আর আমি তাকে দুটি উঁচু পথ দেখিয়েছি। এই ধারায় ইলহাম মানে জ্ঞান দান। অসৎ পথ কী আর তাকওয়া কী, প্রাণকে তা জানিয়ে দেওয়া হয়েছে। কাজটা আসে তার পরে।"
+          },
+          {
+            "en": "At-Tabari then opens a second line with wa qala akharun, and others said: the meaning is that Allah placed that within the soul. His witness is Ibn Zayd: He set in it its wickedness and its righteousness. Al-Baghawi explains Ibn Zayd's words as Allah's granting the soul success towards taqwa and His leaving it unaided towards wickedness. He reports that az-Zajjaj chose this view, and his text adds that this shows Allah created taqwa in the believer and wickedness in the disbeliever.",
+            "bn": "এরপর তাবারী দ্বিতীয় ধারা খোলেন ওয়া কালা আখারূন বলে, অর্থাৎ অন্যরা বলেছেন: আল্লাহ এগুলো প্রাণের ভেতরেই রেখে দিয়েছেন। সাক্ষী হিসেবে আনেন ইবন যায়দকে: তিনি তার ভেতরে তার অসৎ পথ ও তাকওয়া রেখেছেন। বাগাভী ইবন যায়দের কথার ব্যাখ্যা দেন এভাবে: তাকওয়ার দিকে আল্লাহ প্রাণকে তাওফীক দেন, আর অসৎ পথের দিকে তাকে সাহায্যহীন ছেড়ে দেন। তিনি জানান, যাজ্জাজ এই মতটিই বেছে নিয়েছেন। তাঁর লেখায় এরপর আছে: এ থেকে বোঝা যায়, আল্লাহ মুমিনের ভেতরে তাকওয়া আর কাফিরের ভেতরে অসৎ পথ সৃষ্টি করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi relays two reports in the same direction. Muhammad ibn Ka'b: when Allah wills good for His servant He inspires him with good and he acts on it, and when He wills ill for him, inspires him with evil and he acts on it. Ad-Dahhak from Ibn Abbas: He inspired the believer his taqwa and the sinner his wickedness. Yet after listing these, al-Qurtubi says the meaning is close. Ibn Kathir joins the two lines: He made them clear to the soul and guided it to what was decreed for it.",
+            "bn": "কুরতুবী একই দিকের আরও দুটি বর্ণনা আনেন। মুহাম্মাদ ইবন কা'ব বলেন: আল্লাহ বান্দার কল্যাণ চাইলে তার মনে ভালো ঢেলে দেন, আর সে তা করে। আর তার অকল্যাণ চাইলে মনে মন্দ ঢেলে দেন, আর সে তা করে। দাহহাক ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: তিনি মুমিনকে তার তাকওয়া আর পাপাচারীকে তার অসৎ পথ ইলহাম করেছেন। তবু এসব সাজিয়ে কুরতুবী বলেন, অর্থগুলো কাছাকাছি। ইবন কাসীর দুই ধারাকে জুড়ে দেন: তিনি প্রাণের কাছে এ দুটি স্পষ্ট করেছেন, আর তার জন্য যা নির্ধারিত, সেদিকে তাকে চালিত করেছেন।"
+          },
+          {
+            "en": "Sa'id ibn Jubayr's words reach the tafsirs in two forms: alhamaha, He inspired it with good and evil, in Ibn Kathir, and alzamaha, He bound it to its wickedness and its righteousness, in al-Baghawi. Ma'arif al-Qur'an reads the verse as a capacity built into human make-up to tell right from wrong and to choose freely, for which a person is rewarded or punished. The sources set these readings side by side, and this article leaves them there.",
+            "bn": "সাঈদ ইবন জুবায়রের কথা তাফসীরে এসেছে দুই রূপে। ইবন কাসীরে আছে আলহামাহা, তিনি তাকে ভালো ও মন্দ ইলহাম করেছেন। বাগাভীতে আছে আলযামাহা, তিনি তাকে তার অসৎ পথ ও তাকওয়ার সঙ্গে বেঁধে দিয়েছেন। মাআরিফুল কুরআন আয়াতটি পড়ে মানুষের গড়নে রাখা এক সামর্থ্য হিসেবে: ঠিক-বেঠিক চেনার আর স্বাধীনভাবে পথ বেছে নেওয়ার সামর্থ্য, যার জন্য সে পুরস্কার বা শাস্তি পাবে। উৎসগুলো এই পাঠগুলো পাশাপাশি রেখেছে, এ প্রবন্ধও সেখানেই রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Imran's Testing Question",
+          "bn": "ইমরানের যাচাইয়ের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "These two verses entered the discussion of decree through a report that at-Tabari, al-Qurtubi, Ibn Kathir and al-Baghawi all bring. In Muslim's Sahih (2650), Abu al-Aswad ad-Du'ali relates that 'Imran ibn Husayn (RA) asked him whether what people do today and toil at is something decreed for them, gone forth from a decree that came before, or something they meet from what their prophet brought them, with the proof established against them. Abu al-Aswad said it was decreed. Then, said 'Imran, would that not be an injustice?",
+            "bn": "তাকদীরের আলোচনায় এ দুটি আয়াত ঢুকেছে একটি বর্ণনার মাধ্যমে, যা তাবারী, কুরতুবী, ইবন কাসীর ও বাগাভী সবাই আনেন। সহীহ মুসলিমে (২৬৫০) আবুল আসওয়াদ দুয়ালী বর্ণনা করেন, ইমরান ইবন হুসাইন (রাঃ) তাঁকে জিজ্ঞেস করলেন: মানুষ আজ যা করছে, যার পেছনে খাটছে, তা কি আগেই তাদের উপর ফয়সালা হয়ে গেছে, পূর্বনির্ধারিত তাকদীর থেকে কার্যকর হয়েছে? নাকি নবী যা নিয়ে এসেছেন আর যার দ্বারা তাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়েছে, সেখান থেকে সামনে আসছে? আবুল আসওয়াদ বললেন, আগেই ফয়সালা হয়ে গেছে। ইমরান বললেন: তাহলে কি তা জুলুম হয়ে যায় না?"
+          },
+          {
+            "en": "Abu al-Aswad was badly shaken and answered: everything is Allah's creation and the possession of His hand; He is not asked about what He does, while they are asked, the words of 21:23. 'Imran said: May Allah have mercy on you, I asked only to gauge your understanding. Two men of Muzaynah came to the Messenger of Allah ﷺ with this question, and he said: No, rather it is something decreed upon them and gone forth in them, and the confirmation of that is in the Book of Allah, Mighty and Majestic: wa nafsin wa ma sawwaha, fa-alhamaha fujuraha wa taqwaha.",
+            "bn": "আবুল আসওয়াদ ভীষণ ঘাবড়ে গেলেন। জবাব দিলেন: সব কিছুই আল্লাহর সৃষ্টি আর তাঁর হাতের মালিকানা। তিনি যা করেন সে বিষয়ে তাঁকে জিজ্ঞেস করা হবে না, বরং তাদেরকেই জিজ্ঞেস করা হবে। এটি ২১:২৩ আয়াতের ভাষা। ইমরান বললেন: আল্লাহ আপনাকে রহম করুন, আমি শুধু আপনার বুদ্ধি যাচাই করতে চেয়েছিলাম। মুযাইনা গোত্রের দুজন লোক রাসূলুল্লাহ ﷺ-এর কাছে এসে এই একই প্রশ্ন করেছিল। তিনি বলেছিলেন: না, বরং তা এমন বিষয়, যা তাদের উপর ফয়সালা হয়ে গেছে এবং তাদের মধ্যে কার্যকর হয়েছে। আর এর সত্যায়ন আছে মহিমান্বিত আল্লাহর কিতাবে: ওয়া নাফসিঁও ওয়া মা সাওয়াহা, ফাআলহামাহা ফুজূরাহা ওয়া তাকওয়াহা।"
+          },
+          {
+            "en": "At-Tabari's and Ibn Kathir's chains name one man, of Muzaynah or Juhaynah, and add a further exchange; this article keeps to Muslim's wording. Al-Baghawi sets a second report here, which Muslim's Sahih (2648) records from Jabir (RA) without mention of this verse. Suraqa ibn Malik asked whether deeds lay in what the pens have dried upon and the decrees have run with, or in what lies ahead. The Prophet ﷺ said: No, rather in what the pens have dried upon and the decrees have run with. Suraqa asked: then why the deeds? He said: Act, for each is eased.",
+            "bn": "তাবারী ও ইবন কাসীরের সনদে আছে একজন লোকের কথা, মুযাইনা বা জুহাইনা গোত্রের, আর সেখানে আরও এক দফা প্রশ্নোত্তর আছে। এ প্রবন্ধ মুসলিমের ভাষাই রাখছে। বাগাভী এখানে আরেকটি বর্ণনা রাখেন, যা সহীহ মুসলিমে (২৬৪৮) জাবির (রাঃ) থেকে এসেছে, তবে সেখানে এ আয়াতের উল্লেখ নেই। সুরাকা ইবন মালিক জিজ্ঞেস করলেন, আমল কি সেই বিষয়ে, যা লিখে কলম শুকিয়ে গেছে আর তাকদীর চালু হয়ে গেছে, নাকি সামনে যা আসছে তাতে? নবী ﷺ বললেন: না, বরং যা লিখে কলম শুকিয়ে গেছে আর তাকদীর চালু হয়ে গেছে, তাতে। সুরাকা বললেন: তাহলে আমল কেন? তিনি বললেন: আমল করে যাও, কারণ প্রত্যেকের জন্য সহজ করে দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Soul Received, Then Used",
+          "bn": "পাওয়া প্রাণ, তারপর তার কাজ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and Ma'arif al-Qur'an relay reports, from Abu Hurayrah and Ibn Abbas (RA), that the Prophet ﷺ answered his recitation of 91:8 with a supplication. None is graded in the fetched texts or confirmed on a collection page, so they are only mentioned. Muslim's Sahih (2722) does record a supplication of his, from Zayd ibn Arqam (RA), that uses taqwaha and zakkaha; it is not tied there to this verse, and the article on 91:9 quotes it in full.",
+            "bn": "কুরতুবী ও মাআরিফুল কুরআন আবু হুরায়রা ও ইবন আব্বাস (রাঃ) থেকে কিছু বর্ণনা আনেন যে, ৯১:৮ তিলাওয়াত করে নবী ﷺ একটি দোয়া করতেন। সংগৃহীত কোনো লেখাই এসব বর্ণনার মান নির্ণয় করেনি, কোনো হাদীস-সংকলনের পাতায়ও তা মেলানো যায়নি। তাই এখানে কেবল উল্লেখ করা হলো। তবে সহীহ মুসলিমে (২৭২২) যায়দ ইবন আরকাম (রাঃ) থেকে নবী ﷺ-এর একটি দোয়া আছে, যাতে তাকওয়াহা ও যাক্কাহা শব্দ দুটি এসেছে। সেখানে দোয়াটি এ আয়াতের সঙ্গে যুক্ত নয়। ৯১:৯ আয়াতের প্রবন্ধে দোয়াটি পুরোটা উদ্ধৃত আছে।"
+          },
+          {
+            "en": "Read together, 91:7 and 91:8 describe a soul received rather than self-made: levelled by its Maker, then given its wickedness and its righteousness, as knowledge on one reading and as something placed within it on another. 'Imran's report shows the question of what this means for human action being asked in the first generation. Yet the answer given to Suraqa did not end with the decree; it ended with an instruction to act. The soul proportioned with such care is still the one that must be put to work.",
+            "bn": "৯১:৭ আর ৯১:৮ একসঙ্গে পড়লে ছবিটা দাঁড়ায় এমন এক প্রাণের, যা মানুষ নিজে বানায়নি, পেয়েছে। তার স্রষ্টা তাকে সুঠাম করেছেন, তারপর তাকে দিয়েছেন তার অসৎ পথ আর তার তাকওয়া। একটি পাঠে তা জ্ঞান হিসেবে, আরেক পাঠে তার ভেতরে রাখা কিছু হিসেবে। মানুষের আমলের বেলায় এর অর্থ কী, সে প্রশ্ন যে প্রথম প্রজন্মেই উঠেছিল, ইমরানের বর্ণনা তা দেখায়। তবু সুরাকাকে দেওয়া জবাব তাকদীরের কথায় থামেনি, থেমেছে আমল করার নির্দেশে। এত যত্নে সুঠাম করা এই প্রাণকেই কাজে লাগাতে হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "91:9": {
     "sections": [
       {
