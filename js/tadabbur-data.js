@@ -29683,6 +29683,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Strive now in ways you will be content to meet on that Day, and start keeping your tongue and ears from the idle talk the Garden is free of.",
     "lessonBn": "আজই এমনভাবে চেষ্টা করুন, যাতে সেদিন নিজের আমল দেখে সন্তুষ্ট হতে পারেন। আর জান্নাত যে অনর্থক কথা থেকে মুক্ত, এখন থেকেই নিজের জিভ ও কানকে তা থেকে দূরে রাখুন।"
+  },
+  "84:18": {
+    "reflectionEn": "First the red glow after sunset, then the night that gathers everything home, and now the third oath: the moon when it has gathered its light. The commentators explain the word as complete, even and round, the full moon of the middle nights. Yet anyone who has watched the sky knows what comes after fullness. The moon thins again, night by night, until it is gone. The oath leads straight into its answer: you will surely pass from state to state. I have been a child, then not; well, then ill; anxious, then at ease. None of my phases has held. Am I treating my present state, easy or hard, as if it were the last one, or as one stage on a road that ends with my Lord?",
+    "reflectionBn": "প্রথমে সূর্য ডোবার পরের লালিমা, তারপর রাত, যে সব কিছুকে ঘরে ফিরিয়ে এনে জড়ো করে। এবার তৃতীয় শপথ: চাঁদ, যখন সে তার আলো পুরোপুরি জমিয়ে নেয়। তাফসীরকারেরা শব্দটির ব্যাখ্যা দেন পূর্ণ হওয়া, সমান হওয়া, গোল হয়ে ওঠা। অর্থাৎ মাসের মাঝের রাতগুলোর পূর্ণিমার চাঁদ। কিন্তু আকাশের দিকে যে কখনো তাকিয়েছে, সে জানে পূর্ণতার পরে কী আসে। রাতের পর রাত চাঁদ আবার সরু হতে থাকে, একসময় হারিয়ে যায়। শপথটি সোজা গিয়ে মেলে তার জবাবে: তোমরা অবশ্যই এক অবস্থা থেকে আরেক অবস্থায় পৌঁছাবে। আমি শিশু ছিলাম, এখন নেই। সুস্থ ছিলাম, তারপর অসুস্থ হয়েছি। দুশ্চিন্তায় ছিলাম, আবার স্বস্তি পেয়েছি। আমার কোনো পর্বই টিকে থাকেনি। তাহলে সহজ হোক বা কঠিন, আমার আজকের অবস্থাকে কি আমি শেষ অবস্থা ভেবে বসে আছি? নাকি দেখছি এমন এক পথের একটি ধাপ হিসেবে, যে পথ শেষ হয় আমার রবের কাছে গিয়ে?",
+    "pointsEn": [
+      "Which state am I in right now, ease or strain, and am I living as though it will never change?",
+      "When something in my life reaches its fullness, a plan, a role, a season of good health, do I thank Allah for it or simply assume it will stay?",
+      "Looking back over the stages I have already passed through, which one taught me most about my need for my Lord?",
+      "The night gathers every creature back to its shelter; where does my heart go back to each evening once the day's scattering is over?",
+      "If my life so far has been stage after stage, what am I doing now for the stage that comes after the last one here?"
+    ],
+    "pointsBn": [
+      "এই মুহূর্তে আমি কোন অবস্থায় আছি, স্বস্তিতে না চাপে? আর আমি কি এমনভাবে চলছি, যেন এ অবস্থা কখনো বদলাবে না?",
+      "আমার জীবনের কোনো কিছু যখন পূর্ণতায় পৌঁছায়, কোনো পরিকল্পনা, কোনো দায়িত্ব, সুস্থতার কোনো মৌসুম, তখন কি আমি আল্লাহর শুকরিয়া আদায় করি, নাকি ধরে নিই এটা চিরকাল থাকবে?",
+      "যেসব ধাপ আমি এর মধ্যেই পার হয়ে এসেছি, তার কোনটি আমাকে সবচেয়ে বেশি বুঝিয়েছে যে রবকে আমার কতটা প্রয়োজন?",
+      "রাত প্রতিটি প্রাণীকে তার আশ্রয়ে ফিরিয়ে আনে। দিনের ছোটাছুটি শেষ হলে প্রতি সন্ধ্যায় আমার মন কোথায় গিয়ে ফেরে?",
+      "এ পর্যন্ত আমার জীবন যদি ধাপের পর ধাপ হয়ে থাকে, তাহলে এখানকার শেষ ধাপের পরে যে ধাপ আসবে, তার জন্য আমি এখন কী করছি?"
+    ],
+    "lessonEn": "Let the moon's fullness remind you that every state, ease or hardship, is one stage on the road to your Lord; thank Him at its height and prepare for what follows.",
+    "lessonBn": "চাঁদের পূর্ণতা আপনাকে মনে করিয়ে দিক, স্বস্তি হোক বা কষ্ট, প্রতিটি অবস্থা রবের দিকে যাওয়ার পথের একটি ধাপমাত্র। শিখরে থাকতে তাঁর শুকরিয়া আদায় করুন, আর সামনে যা আসছে তার প্রস্তুতি নিন।"
   }
 };
 

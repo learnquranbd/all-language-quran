@@ -467,6 +467,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "84:18": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Moon at Its Fullest",
+          "bn": "চাঁদ যখন ভরপুর"
+        },
+        "p": [
+          {
+            "en": "Wa-l-qamari idha ttasaq: and by the moon when it becomes full. Three Arabic words close a run of oaths that began two verses earlier with the glow after sunset. At-Tabari glosses the verse briefly: by the moon when it is complete and even, and says the people of interpretation said the like. His reports follow: from Ibn 'Abbas, when it became even, and by another chain, when it gathered and became even; from 'Ikrimah, when it became even; and from al-Hasan, when it gathered, when it filled.",
+            "bn": "ওয়াল কামারি ইযাত্তাসাক: আর চাঁদের শপথ, যখন তা পূর্ণ হয়। আরবিতে মাত্র তিনটি শব্দ। দুই আয়াত আগে সূর্য ডোবার পরের আভা দিয়ে যে শপথের সারি শুরু হয়েছিল, এ আয়াতে তা শেষ হয়। তাবারী সংক্ষেপে অর্থ বলেন: চাঁদের শপথ, যখন তা পূর্ণ ও সমান হয়। তিনি জানান, তাফসীরের আলেমরাও এমনই বলেছেন। তারপর বর্ণনাগুলো আনেন। ইবন আব্বাস (রাঃ) থেকে: যখন তা সমান হয়। আরেক সনদে: যখন তা একত্র হয়ে সমান হয়। ইকরিমা থেকে: যখন সমান হয়। আর হাসান থেকে: যখন একত্র হয়, যখন ভরে ওঠে।"
+          },
+          {
+            "en": "Qatadah's word, carried by at-Tabari, al-Qurtubi, al-Baghawi and Ibn Kathir, is istadara: when it became round. Some put a date on it. At-Tabari reports from Sa'id ibn Jubayr, on the thirteenth, and the same from Mujahid by several chains. Al-Baghawi places it in the white days of the month; Ma'arif al-Qur'an speaks of the full moon of the fourteenth night. Ibn Kathir sums up what all these answers mean: its light has been completed and it has become a full moon.",
+            "bn": "কাতাদার শব্দটি হলো ইসতাদারা, অর্থাৎ যখন তা গোল হয়ে ওঠে। তাবারী, কুরতুবী, বাগাভী ও ইবন কাসীর সবাই তাঁর এ কথা এনেছেন। কেউ কেউ তারিখও বলে দিয়েছেন। তাবারী সাঈদ ইবন জুবাইর থেকে বর্ণনা করেন: তেরো তারিখে। মুজাহিদ থেকেও কয়েকটি সনদে একই কথা আনেন। বাগাভী একে রাখেন মাসের আইয়ামে বীযে, অর্থাৎ চাঁদের আলোয় উজ্জ্বল দিনগুলোতে। মাআরিফুল কুরআন বলে চৌদ্দ তারিখের পূর্ণ চাঁদের কথা। এসব উত্তরের সারকথা ইবন কাসীর এভাবে বলেন: চাঁদের আলো পূর্ণ হয়েছে, আর তা পূর্ণিমার চাঁদ হয়ে উঠেছে।"
+          },
+          {
+            "en": "As-Sa'di adds appreciation to the definition: the moon has filled with light in becoming full, and that is the most beautiful it ever is and the richest in benefit. None of the commentaries read the verse as anything but the visible moon at its fullest, and at first the oath asks nothing more of the hearer than to look up.",
+            "bn": "সা'দী সংজ্ঞার সঙ্গে জুড়ে দেন মুগ্ধতার একটি কথা। তিনি বলেন, পূর্ণিমায় চাঁদ আলোয় ভরে ওঠে, আর তখনই তা সবচেয়ে সুন্দর, সবচেয়ে বেশি উপকারী। কোনো তাফসীরই আয়াতটিকে চোখে দেখা পূর্ণ চাঁদ ছাড়া অন্য কিছু বলে পড়েনি। শপথটি শুরুতে শ্রোতার কাছে এর বেশি কিছু চায় না: একবার মাথা তুলে আকাশের দিকে তাকান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Root, Two Gatherings",
+          "bn": "এক ধাতু, দুই জমায়েত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the grammar through the linguist al-Farra': ittisaq is the moon's filling and evenness on the nights of the full moon, a form built from al-wasq, which is gathering. One says wasaqtuhu fa-ttasaqa, I gathered it and it became gathered, as one says wasaltuhu fa-ttasala, I joined it and it became joined. Al-Baghawi agrees on the root. So the moon's word is built from the same letters as the night's word one verse earlier, wa-l-layli wa-ma wasaq, and by the night and what it gathers.",
+            "bn": "কুরতুবী ব্যাকরণটা দেন ভাষাবিদ ফাররার সূত্রে। ইত্তিসাক মানে পূর্ণিমার রাতগুলোতে চাঁদের ভরে ওঠা আর সমান হওয়া। শব্দটি গড়া আল-ওয়াসক থেকে, যার অর্থ জড়ো করা। আরবরা বলে ওয়াসাকতুহু ফাত্তাসাকা: আমি তা জড়ো করলাম, আর তা জড়ো হলো। যেমন বলে ওয়াসালতুহু ফাত্তাসালা: আমি তা জুড়লাম, আর তা জুড়ে গেল। বাগাভীও ধাতুর ব্যাপারে একমত। তাহলে চাঁদের শব্দটি তৈরি সেই একই অক্ষরে, যা দিয়ে এক আয়াত আগে রাতের কথা এসেছে: ওয়াল লাইলি ওয়ামা ওয়াসাক, রাতের শপথ এবং সে যা জড়ো করে তার।"
+          },
+          {
+            "en": "At-Tabari explains what the night gathers as every creature with a soul that flew or crept about by day and now settles and grows still. Al-Baghawi says that when night comes on, everything goes back to its shelter. The night gathers its creatures in; then the moon gathers its own light. Ibn Kathir sees the pairing: after summing up the early answers on the moon's fullness, he says it is set as a counterpart to the night and what it gathers. The two gatherings face each other across a single verse.",
+            "bn": "রাত কী জড়ো করে, তাবারী তা ব্যাখ্যা করেন এভাবে: দিনের বেলা যত প্রাণী উড়ে বেড়াত বা হেঁটে চলত, সবাই রাতে থিতু হয়, নিশ্চুপ হয়ে যায়। বাগাভী বলেন, রাত নামলে সব কিছু নিজের আশ্রয়ে ফিরে যায়। রাত তার প্রাণীদের ঘরে টেনে আনে, তারপর চাঁদ জড়ো করে নিজের আলো। ইবন কাসীর এই জোড়টা লক্ষ করেন। পূর্ণিমা নিয়ে পূর্বসূরিদের কথার সারাংশ টেনে তিনি বলেন, পূর্ণ চাঁদকে রাখা হয়েছে রাত ও তার জড়ো করা সব কিছুর মুখোমুখি। এক আয়াতের এপারে-ওপারে দুই জমায়েত।"
+          },
+          {
+            "en": "Al-Qurtubi records two more uses of the word. People say amru fulanin muttasiq, so-and-so's affairs are muttasiq, meaning gathered upon what is sound and well ordered; and ittasaqa ash-shay' is said of a thing whose parts follow one another. Ma'arif al-Qur'an makes the same point from the sky: the moon first appears as a very fine arc, and its light grows night after night until it is full. Fullness here is order arriving in sequence.",
+            "bn": "কুরতুবী শব্দটির আরও দুটি ব্যবহার উল্লেখ করেন। লোকে বলে, অমুকের কাজকর্ম মুত্তাসিক, মানে ভালোর উপর জড়ো হয়ে আছে, গোছানো আছে। আবার কোনো জিনিসের অংশগুলো একটার পর একটা এলে বলা হয়, জিনিসটা ইত্তাসাকা করেছে। মাআরিফুল কুরআন আকাশ থেকেই একই কথা দেখায়। শুরুতে চাঁদ দেখা দেয় খুব সরু এক বাঁক হয়ে, তারপর রাতের পর রাত তার আলো বাড়ে, শেষে পূর্ণ হয়। পূর্ণতা তাই ধাপে ধাপে আসা এক শৃঙ্খলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Oath Opened With La",
+          "bn": "‘লা’ দিয়ে খোলা শপথ"
+        },
+        "p": [
+          {
+            "en": "The run of oaths opens at verse 16 with fa-la uqsimu, word for word so no, I swear. Al-Qurtubi reads it as so I swear and calls the la a sila, a connecting particle that does not negate. That is the only account of the la in the commentaries consulted for these verses. Then come four witnesses joined by wa: the glow, the night, what the night gathers, and the moon.",
+            "bn": "শপথের সারি শুরু হয় ১৬ আয়াতে, ফালা উকসিমু দিয়ে। শব্দে শব্দে এর মানে দাঁড়ায়: তাহলে না, আমি শপথ করছি। কুরতুবী একে পড়েন ‘তাহলে আমি শপথ করছি’ অর্থে। তাঁর মতে এখানে ‘লা’ হলো সিলা, এক সংযোগকারী অব্যয়, যা কোনো কিছু অস্বীকার করে না। এ আয়াতগুলোর জন্য যেসব তাফসীর দেখা হয়েছে, তাতে ‘লা’-এর এ ব্যাখ্যাই এসেছে। এরপর ওয়া দিয়ে জোড়া চারটি সাক্ষী: সন্ধ্যার আভা, রাত, রাত যা জড়ো করে, আর চাঁদ।"
+          },
+          {
+            "en": "Why these four? Ma'arif al-Qur'an answers that each is a change: light leaving, darkness completing the change, scattered things drawn in, and the moon passing through its phases. Together they bear witness to the oath's answer, that the human condition never stays the same. As-Sa'di puts it more briefly: here Allah swears by signs of the night, beginning with the glow that is the remainder of the sun's light and the opening of the night. The moon at its full is the last and brightest of those signs.",
+            "bn": "চারটিই কেন? মাআরিফুল কুরআনের উত্তর, প্রতিটিই একেকটা পরিবর্তন। আলো চলে যাচ্ছে, অন্ধকার সেই পরিবর্তন পূর্ণ করছে, ছড়িয়ে থাকা সব কিছু গুটিয়ে আসছে, আর চাঁদ পার হচ্ছে তার একেকটা দশা। চারটি মিলে সাক্ষ্য দেয় শপথের জবাবের পক্ষে: মানুষের অবস্থা কখনো এক রকম থাকে না। সা'দী আরও সংক্ষেপে বলেন, এখানে আল্লাহ রাতের নিদর্শনগুলোর শপথ করেছেন। শুরু করেছেন সেই আভা দিয়ে, যা সূর্যের আলোর অবশিষ্ট অংশ আর রাতের সূচনা। পূর্ণ চাঁদ সেই নিদর্শনগুলোর শেষটি, আর সবচেয়ে উজ্জ্বলটি।"
+          },
+          {
+            "en": "A further note belongs here. The Muyassar, after explaining the oath, adds that a created being may not swear by anything other than Allah, and that whoever does so has fallen into shirk. The Creator swears by His signs to turn attention towards them; the servant swears only by his Lord. The full moon is held up in this verse as a witness to a truth about people, not as something to be revered in itself.",
+            "bn": "এখানে আরেকটি কথা বলা দরকার। মুয়াসসার শপথের ব্যাখ্যা দেওয়ার পর যোগ করে, কোনো সৃষ্টির জন্য আল্লাহ ছাড়া অন্য কিছুর নামে শপথ করা জায়েয নয়। কেউ তা করলে সে শিরকে পড়ে যায়। স্রষ্টা নিজের নিদর্শনের শপথ করেন, যাতে মানুষের মনোযোগ সেদিকে যায়। আর বান্দা শপথ করে শুধু তার রবের নামে। এ আয়াতে পূর্ণ চাঁদকে তুলে ধরা হয়েছে মানুষ সম্পর্কে এক সত্যের সাক্ষী হিসেবে, নিজে সম্মান পাওয়ার মতো কিছু হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Red Glow or White",
+          "bn": "লাল আভা, না সাদা"
+        },
+        "p": [
+          {
+            "en": "Ash-shafaq, the first witness, carries a real difference that reaches into the prayer times. At-Tabari reports three positions: it is the redness on the western horizon, held by a group of the people of Iraq; it is the day, from Mujahid, who said the whole day; and it is a name for both the redness and the whiteness, a word with opposite meanings. On the oath he chooses the day departing. On the shafaq after which 'Isha' may be prayed, he says it is the redness, for a reason given in his book on prayer.",
+            "bn": "প্রথম সাক্ষী আশ-শাফাক। এর অর্থ নিয়ে সত্যিকারের এক মতভেদ আছে, যা নামাজের সময় পর্যন্ত গড়ায়। তাবারী তিনটি মত আনেন। এক, শাফাক হলো পশ্চিম দিগন্তের লালিমা। ইরাকের একদল আলেম এ মতের। দুই, শাফাক মানে দিন। এটি মুজাহিদের কথা, তিনি বলেছেন গোটা দিন। তিন, শব্দটি লালিমা ও শুভ্রতা দুটিরই নাম, পরস্পরবিরোধী দুই অর্থের শব্দ। শপথের ক্ষেত্রে তাবারী বেছে নেন বিদায়ী দিনের অর্থ। তবে যে শাফাকের পরে এশার নামাজ পড়া যায়, তাঁর মতে তা লালিমা। এর কারণ তিনি নামাজ বিষয়ক তাঁর গ্রন্থে বলেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi sets out both sides of the jurists' dispute. For the redness he cites Malik through many of his students, a long list of Companions and Successors, and among jurists al-Awza'i, Malik, ash-Shafi'i, Abu Yusuf, Abu Thawr, Ahmad and Ishaq. For the whiteness he reports Ibn 'Abbas, Abu Hurayrah, 'Umar ibn 'Abd al-'Aziz, al-Awza'i, and Abu Hanifah in one of two narrations from him. Ibn 'Abbas, Abu Hurayrah, Ibn 'Umar and al-Awza'i appear in his lists on both sides.",
+            "bn": "কুরতুবী ফকীহদের মতভেদের দুই দিকই তুলে ধরেন। লালিমার পক্ষে তিনি আনেন ইমাম মালিককে, তাঁর বহু ছাত্রের সূত্রে। সঙ্গে সাহাবি ও তাবিয়িদের দীর্ঘ তালিকা। ফকীহদের মধ্যে আওযাঈ, মালিক, শাফিঈ, আবু ইউসুফ, আবু সাওর, আহমাদ ও ইসহাক। আর শুভ্রতার পক্ষে তিনি উল্লেখ করেন ইবন আব্বাস (রাঃ), আবু হুরায়রা (রাঃ), উমর ইবন আব্দুল আযীয ও আওযাঈকে, এবং আবু হানীফার দুই বর্ণনার একটিতে তাঁকে। ইবন আব্বাস, আবু হুরায়রা, ইবন উমর (রাঃ) ও আওযাঈর নাম তাঁর তালিকায় দুই দিকেই এসেছে।"
+          },
+          {
+            "en": "Al-Qurtubi himself prefers the redness, saying most Companions, Successors and jurists hold it and that Arabic usage, the word's origin and the Sunnah support it. Ibn Kathir leans the same way through the lexicographers al-Khalil and al-Jawhari. Muslim records from 'Abdullah ibn 'Amr that the Prophet ﷺ, listing the prayer times, said: 'When you pray Maghrib, its time is until the twilight has disappeared' (Sahih Muslim 612). The hadith names the shafaq without naming its colour, and that is where the two views part. Both are held by recognised imams, and this article takes neither side.",
+            "bn": "কুরতুবী নিজে লালিমার মত পছন্দ করেন। তাঁর যুক্তি, অধিকাংশ সাহাবি, তাবিয়ি ও ফকীহ এ মতের, আর আরবদের ব্যবহার, শব্দের উৎস ও সুন্নাহ এর পক্ষে সাক্ষ্য দেয়। ইবন কাসীরও অভিধানবিদ খলীল ও জাওহারীর সূত্রে একই দিকে ঝোঁকেন। ইমাম মুসলিম আব্দুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ নামাজের সময়গুলো বলতে গিয়ে বলেছেন: ‘যখন তোমরা মাগরিব পড়ো, তার সময় শাফাক অদৃশ্য হওয়া পর্যন্ত’ (সহীহ মুসলিম ৬১২)। হাদীসে শাফাকের নাম আছে, রঙের উল্লেখ নেই। মতভেদের শুরু ঠিক সেখান থেকে। দুই মতই স্বীকৃত ইমামদের, আর এ লেখা কোনো পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Moon Kept Time",
+          "bn": "চাঁদ যখন সময়ের মাপকাঠি"
+        },
+        "p": [
+          {
+            "en": "The moon of this verse turns up inside the twilight dispute itself. Al-Qurtubi argues that the whiteness cannot serve as the measure because it has no fixed end. He reports al-Khalil saying that he climbed the lighthouse of Alexandria, watched the whiteness, and saw it pass from horizon to horizon without setting. Since its time could not be fixed, al-Qurtubi's own scholars said, it was not taken into account. He then cites a report from the Sunan of Abu Dawud.",
+            "bn": "এ আয়াতের চাঁদ শাফাকের মতভেদের ভেতরেও এসে হাজির হয়। কুরতুবীর যুক্তি, শুভ্রতাকে মাপকাঠি করা যায় না, কারণ তার কোনো নির্দিষ্ট শেষ নেই। তিনি খলীলের কথা আনেন। খলীল আলেকজান্দ্রিয়ার বাতিঘরে উঠে শুভ্রতার দিকে তাকিয়ে ছিলেন। দেখলেন, তা এক দিগন্ত থেকে আরেক দিগন্তে সরে যাচ্ছে, কিন্তু ডুবছে না। কুরতুবীর মাযহাবের আলেমরা বলেছেন, যার সময় নির্দিষ্ট করা যায় না, তা হিসাবে ধরা হয় না। এরপর তিনি আবু দাউদের সুনান থেকে একটি বর্ণনা আনেন।"
+          },
+          {
+            "en": "An-Nu'man ibn Bashir said: 'I am the one who is best informed of the time of this prayer, i.e. the night prayer. The Messenger of Allah ﷺ used to offer it at the hour when the moon went down on its third night' (Sunan Abi Dawud 419). Abu Dawud records it without a grading. Al-Qurtubi calls this a fixing of the time. It is a quiet picture: a Companion telling the hour of 'Isha' by where the young moon stood in the evening sky.",
+            "bn": "নুমান ইবন বাশীর (রাঃ) বলেছেন: ‘এই নামাজ, অর্থাৎ এশার নামাজের সময় সম্পর্কে আমি সবচেয়ে ভালো জানি। আল্লাহর রাসূল ﷺ মাসের তৃতীয় রাতে চাঁদ যখন ডুবে যেত, সেই সময় এ নামাজ আদায় করতেন’ (সুনান আবি দাউদ ৪১৯)। আবু দাউদ এর কোনো মান উল্লেখ করেননি। কুরতুবী একে বলেন সময়ের নির্ধারণ। ছবিটা শান্ত: একজন সাহাবি সন্ধ্যার আকাশে নতুন চাঁদের অবস্থান দেখে এশার সময় চিনিয়ে দিচ্ছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "You Alone, or All of You",
+          "bn": "শুধু আপনি, নাকি সবাই"
+        },
+        "p": [
+          {
+            "en": "The oath's answer comes in verse 19: la-tarkabunna tabaqan 'an tabaq. The verb is read in two ways, and the commentators name the readers. At-Tabari gives la-tarkabanna, with fatha on the ba', to 'Umar ibn al-Khattab, Ibn Mas'ud and his companions, Ibn 'Abbas, and most readers of Makkah and Kufah. Al-Baghawi names the people of Makkah, Hamzah and al-Kisa'i, and al-Qurtubi's list includes Ibn Kathir, Hamzah and al-Kisa'i. In this reading the address is singular: you, O Muhammad, will surely ride.",
+            "bn": "শপথের জবাব আসে ১৯ আয়াতে: লাতারকাবুন্না তাবাকান আন তাবাক। ক্রিয়াটি দুইভাবে পড়া হয়, আর তাফসীরকারেরা পাঠকারীদের নাম বলে দেন। তাবারীর বর্ণনায় ‘বা’ অক্ষরে যবর দিয়ে লাতারকাবান্না পড়েছেন উমর ইবনুল খাত্তাব (রাঃ), ইবন মাসউদ (রাঃ) ও তাঁর শিষ্যরা, ইবন আব্বাস (রাঃ), আর মক্কা ও কুফার অধিকাংশ কারী। বাগাভী নাম বলেন মক্কাবাসী, হামযা ও কিসাঈর। কুরতুবীর তালিকায় আছেন ইবন কাসীর, হামযা ও কিসাঈ। এ পাঠে সম্বোধন একবচনে: হে মুহাম্মাদ, আপনি অবশ্যই আরোহণ করবেন।"
+          },
+          {
+            "en": "The other reading is la-tarkabunna, with damma on the ba', plural and addressed to people at large. At-Tabari gives it to most readers of Madinah and some Kufans; al-Baghawi says the rest read it so. Al-Qurtubi notes that Abu 'Ubayd and Abu Hatim chose it, because the meaning fits people better after the verses on those given their record. Al-Baghawi adds the verse that follows, which asks what is the matter with them.",
+            "bn": "অন্য পাঠটি হলো লাতারকাবুন্না, ‘বা’ অক্ষরে পেশ দিয়ে। এটি বহুবচন, সম্বোধন সব মানুষকে। তাবারীর বর্ণনায় মদীনার অধিকাংশ কারী ও কুফার কেউ কেউ এভাবে পড়েছেন। বাগাভী বলেন, বাকিরা এভাবেই পড়েছেন। কুরতুবী জানান, আবু উবাইদ ও আবু হাতিম এ পাঠ বেছে নিয়েছেন। কারণ, যাদের আমলনামা দেওয়া হবে তাদের কথার পর অর্থটা মানুষের সঙ্গেই বেশি মেলে। বাগাভী যোগ করেন পরের আয়াতটি, যেখানে প্রশ্ন: তাদের কী হলো?"
+          },
+          {
+            "en": "At-Tabari himself prefers the fatha reading, since the early interpreters explained the verse on it, while granting that the other readings have meanings that can be understood. Yet he does not narrow the meaning. Though the address is turned to the Messenger ﷺ, he says, all people are intended, and they will meet state after state of the hardships of the Day of Resurrection, because the verses before and after speak to everyone. Al-Qurtubi, after listing the meanings, gives his own verdict in a single short line: all of it is meant.",
+            "bn": "তাবারী নিজে যবরওয়ালা পাঠটিকে অগ্রাধিকার দেন। কারণ, পূর্বসূরি তাফসীরকারেরা এ পাঠ ধরেই আয়াতের ব্যাখ্যা করেছেন। সঙ্গে তিনি মেনে নেন যে অন্য পাঠগুলোরও বোধগম্য অর্থ আছে। তবে অর্থটা তিনি সংকুচিত করেন না। তাঁর কথায়, সম্বোধন রাসূল ﷺ-এর দিকে হলেও উদ্দেশ্য সব মানুষ। কিয়ামতের দিনের কঠিন অবস্থাগুলো তারা একটার পর একটা পার হবে। কেননা আগের ও পরের আয়াতে সবাইকেই সম্বোধন করা হয়েছে। কুরতুবী অর্থগুলো গুনে শেষে ছোট্ট এক রায় দেন: সবগুলোই উদ্দেশ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Ibn 'Abbas Said of It",
+          "bn": "ইবন আব্বাস (রাঃ) যা বললেন"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records from Mujahid that Ibn 'Abbas said of la-tarkabunna tabaqan 'an tabaq: 'from one state to another. That concerns your Prophet' (Sahih al-Bukhari 4940). The Arabic is halan ba'da hal, qala hadha nabiyyukum, and Ibn Kathir weighs two ways of reading its last words. Either your Prophet is the one who said it, so that Ibn 'Abbas heard this explanation from him ﷺ, which Ibn Kathir thinks the more apparent; or this means your Prophet, so that the verse speaks about him.",
+            "bn": "ইমাম বুখারী মুজাহিদের সূত্রে বর্ণনা করেন, ইবন আব্বাস (রাঃ) লাতারকাবুন্না তাবাকান আন তাবাক সম্পর্কে বলেছেন: ‘এক অবস্থা থেকে আরেক অবস্থায়। এটা তোমাদের নবী সম্পর্কে’ (সহীহ বুখারী ৪৯৪০)। আরবি পাঠ হলো হালান বা'দা হাল, কালা হাযা নাবিয়্যুকুম। শেষ শব্দগুলো দুইভাবে পড়া যায়, ইবন কাসীর দুটিই বিবেচনা করেন। একটি পাঠে, কথাটি তোমাদের নবী ﷺ বলেছেন, অর্থাৎ ইবন আব্বাস এ ব্যাখ্যা তাঁর কাছ থেকে শুনেছেন। ইবন কাসীরের কাছে এটিই বেশি স্পষ্ট। আরেকটি পাঠে, ‘এটা’ মানে তোমাদের নবী, অর্থাৎ আয়াতটি তাঁর সম্পর্কেই।"
+          },
+          {
+            "en": "Ibn Kathir supports the second sense with a report through Shu'bah, also carried by at-Tabari, in which Ibn 'Abbas said of the verse, Muhammad ﷺ, and with the fatha reading itself. Either way, the sound report attached to this verse gives its meaning in three Arabic words, state after state. A longer narration from Jabir, relayed by Abu Nu'aim and Ibn Abi Hatim and quoted by al-Qurtubi and Ma'arif al-Qur'an, raises a phrase of this verse to the Prophet ﷺ; Ibn Kathir calls it munkar, with weak narrators in its chain. It is noted only so the reader knows of it; nothing is built on it.",
+            "bn": "দ্বিতীয় অর্থের পক্ষে ইবন কাসীর আনেন শু'বার সূত্রে একটি বর্ণনা, যা তাবারীতেও আছে। তাতে ইবন আব্বাস (রাঃ) আয়াতটি সম্পর্কে বলেছেন: মুহাম্মাদ ﷺ। সঙ্গে আনেন যবরওয়ালা পাঠটিও। যেভাবেই পড়া হোক, এ আয়াতের সঙ্গে যুক্ত সহীহ বর্ণনাটি অর্থ বলে দেয় আরবি তিনটি শব্দে: অবস্থার পর অবস্থা। জাবির (রাঃ) থেকে আরেকটি দীর্ঘ বর্ণনা আবু নুআইম ও ইবন আবী হাতিম এনেছেন, কুরতুবী ও মাআরিফুল কুরআন তা উদ্ধৃত করেছে। তাতে এ আয়াতের একটি অংশ নবী ﷺ-এর মুখে তুলে দেওয়া হয়েছে। ইবন কাসীর একে মুনকার বলেছেন, তাঁর মতে এর সনদে দুর্বল বর্ণনাকারী আছে। পাঠক যেন জানেন যে এমন বর্ণনা আছে, শুধু সে জন্য এর উল্লেখ। এর উপর কিছুই দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Layer Upon Layer, Then a Question",
+          "bn": "স্তরের পর স্তর, তারপর প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The early generation read the layers in several ways, and al-Qurtubi's verdict lets them stand together. Ash-Sha'bi: you will ride, O Muhammad, heaven after heaven, which Ibn Kathir takes as the Night Journey. Ibn Mas'ud: the sky itself, colour after colour. 'Ikrimah: weaned after nursing, old after young. Al-Hasan: ease after hardship, wealth after poverty, health after sickness, and back again. As-Sa'di sees in these shifting layers proof that Allah alone is worshipped, and that the servant is poor and powerless under His governance.",
+            "bn": "পূর্বসূরিরা এই স্তরগুলো নানাভাবে পড়েছেন, আর কুরতুবীর রায় সবগুলোকে পাশাপাশি থাকতে দেয়। শা'বী বলেন: হে মুহাম্মাদ, আপনি আসমানের পর আসমানে আরোহণ করবেন। ইবন কাসীরের মতে এর দ্বারা ইসরার রাত বোঝানো হয়েছে। ইবন মাসউদ (রাঃ) বলেন: আকাশ নিজেই, রঙের পর রঙ বদলাবে। ইকরিমা: দুধ খাওয়া শিশু থেকে দুধ ছাড়া শিশু, যুবক থেকে বৃদ্ধ। হাসান: কষ্টের পর স্বস্তি, দারিদ্র্যের পর সচ্ছলতা, অসুখের পর সুস্থতা, আবার উল্টোটাও। সা'দী এই বদলে যাওয়া স্তরগুলোতে প্রমাণ দেখেন যে ইবাদতের যোগ্য একমাত্র আল্লাহ, আর বান্দা তাঁর ব্যবস্থাপনার অধীনে অভাবী ও অসহায়।"
+          },
+          {
+            "en": "Verse 20 then asks: so what is the matter with them that they do not believe? Ibn Kathir explains it as what prevents them from believing in Allah, His Messenger and the Last Day. It describes those the passage describes and licenses nothing against any living person. For the hearer, the moon is a gentler mirror: it gathers its light over many nights, holds it briefly, and lets it go. No state stays; every stage leads on towards the meeting with Him.",
+            "bn": "এরপর ২০ আয়াত প্রশ্ন করে: তাদের কী হলো যে তারা ঈমান আনে না? ইবন কাসীর ব্যাখ্যা করেন, আল্লাহ, তাঁর রাসূল ও আখিরাতের উপর ঈমান আনতে তাদের বাধা কোথায়। আয়াতটি যাদের কথা বলছে, শুধু তাদেরই বর্ণনা দেয়। কোনো জীবিত মানুষের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। শ্রোতার জন্য চাঁদ বরং এক কোমল আয়না। বহু রাত ধরে সে আলো জমায়, অল্প সময় ধরে রাখে, তারপর ছেড়ে দেয়। কোনো অবস্থাই থাকে না। প্রতিটি ধাপ এগিয়ে নিয়ে যায় তাঁর সঙ্গে সাক্ষাতের দিকে।"
+          }
+        ]
+      }
+    ]
+  },
   "84:21": {
     "sections": [
       {
