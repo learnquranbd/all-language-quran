@@ -299,6 +299,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "96:11-12": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Second Have You Seen",
+          "bn": "দ্বিতীয় আরাআইতা"
+        },
+        "p": [
+          {
+            "en": "Ara'ayta in kana 'ala l-huda, aw amara bi-t-taqwa: have you seen, if he is upon guidance, or enjoins mindfulness of Allah? The first verse has five Arabic words and the second only three, and between them they hold a condition with no answer attached. This is the second ara'ayta of the passage. The first, in 96:9, points at the one who forbids a servant when he prays. The third, in 96:13, turns to one who denies and turns away. These two verses stand in the middle.",
+            "bn": "আরাআইতা ইন কানা আলাল হুদা, আও আমারা বিত-তাকওয়া: তুমি কি ভেবে দেখেছ, সে যদি হিদায়াতের উপর থাকে, কিংবা তাকওয়ার আদেশ দেয়? প্রথম আয়াতে আরবি শব্দ পাঁচটি, দ্বিতীয়টিতে মাত্র তিনটি। দুটি মিলে একটি শর্ত দাঁড়ায়, অথচ তার জবাব কোথাও বলা নেই। এই অংশে আরাআইতা এসেছে তিনবার, এটি তার দ্বিতীয়টি। প্রথমটি ৯৬:৯ আয়াতে, সেখানে ইশারা সেই লোকের দিকে যে নামাযরত বান্দাকে নিষেধ করে। তৃতীয়টি ৯৬:১৩ আয়াতে, সেখানে কথা ঘোরে তার দিকে যে মিথ্যা বলে আর মুখ ফিরিয়ে নেয়। এ দুটি আয়াত ঠিক মাঝখানে।"
+          },
+          {
+            "en": "Al-Baghawi notices the repetition and names its purpose: the word is repeated for emphasis. On 96:10 he explains what ara'ayta does in this passage: it is ta'jib, a call to the person addressed to wonder. Al-Tafsir al-Wasit of Tantawi points to the missing half of the sentence. The condition if he is upon guidance has no stated answer, and he says the answer is omitted because it is already known. The reader supplies it; the conclusion needs no words.",
+            "bn": "শব্দটির বারবার আসা বাগাভীর চোখ এড়ায়নি। তিনি এর উদ্দেশ্যও বলে দেন: জোর দেওয়ার জন্যই শব্দটি ফিরে ফিরে এসেছে। ৯৬:১০ আয়াতের আলোচনায় তিনি বোঝান, এখানে আরাআইতা মানে তা'জীব, অর্থাৎ যাকে বলা হচ্ছে তাকে বিস্ময়ে থমকে দাঁড় করানো। তানতাবীর আত-তাফসীরুল ওয়াসীত নজর দেয় বাক্যের হারানো অর্ধেকের দিকে। 'সে যদি হিদায়াতের উপর থাকে' শর্তটির কোনো জবাব বলা হয়নি। তাঁর মতে জবাবটা বাদ রাখা হয়েছে, কারণ তা সবার জানা। পাঠক নিজেই সেটা পূরণ করে নেন। সিদ্ধান্তটা মুখে বলার দরকার পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Threat Beside the Ka'ba",
+          "bn": "কাবার পাশে এক হুমকি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens the passage at 96:9 with its occasion: it came down about Abu Jahl, who threatened the Prophet ﷺ over his prayer at the House, and Allah first admonished him with what is better. At-Tabari introduces the same with the words it is mentioned, and gives reports naming Abu Jahl from Mujahid and Qatada. One comes through 'Ikrima from Ibn 'Abbas: the Messenger ﷺ was praying, Abu Jahl came and forbade him to pray, and Allah revealed the verses from 96:9 to the lying, sinning forelock of 96:16.",
+            "bn": "৯৬:৯ আয়াত থেকে শুরু হওয়া অংশটির প্রেক্ষাপট দিয়েই ইবন কাসীর আলোচনা খোলেন। আয়াতগুলো নাযিল হয়েছে আবু জাহল সম্পর্কে। বাইতুল্লাহর কাছে নবী ﷺ-এর নামায নিয়ে সে তাঁকে হুমকি দিয়েছিল, আর আল্লাহ প্রথমে তাকে উত্তম পন্থায় নসিহত করেন। তাবারী একই কথা আনেন 'উল্লেখ করা হয়' বলে, আর মুজাহিদ ও কাতাদা থেকে বর্ণনা দেন, যেগুলোতে আবু জাহলের নাম আছে। একটি বর্ণনা ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে: রাসূল ﷺ নামায পড়ছিলেন, আবু জাহল এসে তাঁকে নামায পড়তে নিষেধ করল। তখন আল্লাহ ৯৬:৯ থেকে ৯৬:১৬ আয়াতের মিথ্যাবাদী, পাপী কপাল পর্যন্ত আয়াতগুলো নাযিল করেন।"
+          },
+          {
+            "en": "Al-Bukhari's Sahih carries the threat itself, in a report of Ibn 'Abbas confirmed on quranx as Hadith 4958: \"Abu Jahl said, 'If I see Muhammad praying at the Ka'ba, I will tread on his neck.' When the Prophet (ﷺ) heard of that, he said, 'If he does so, the Angels will snatch him away.'\" Al-Bukhari places it in his Sahih and adds no separate grading. The report records the threat and the Prophet's answer. It does not itself name a verse.",
+            "bn": "হুমকির কথাটা সরাসরি এসেছে সহীহ বুখারীতে, ইবন আব্বাস (রাঃ)-এর বর্ণনায়। কুরআনএক্স-এ হাদীস ৪৯৫৮ হিসেবে তা মিলিয়ে দেখা হয়েছে। তিনি বলেন: আবু জাহল বলল, আমি যদি মুহাম্মাদকে কাবার কাছে নামায পড়তে দেখি, তবে অবশ্যই তার ঘাড় পায়ে মাড়িয়ে দেব। কথাটা নবী ﷺ-এর কানে পৌঁছালে তিনি বললেন, সে যদি তা করত, তাহলে ফেরেশতারা তাকে ধরে নিয়ে যেত। বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন, আলাদা কোনো মান উল্লেখ করেননি। বর্ণনায় আছে হুমকি আর নবী ﷺ-এর জবাব, কোনো আয়াতের নাম নেই।"
+          },
+          {
+            "en": "A longer report of Abu Hurayrah in Sahih Muslim, number 2797 on quranx, which al-Baghawi cites with Muslim's own chain on 96:10, ends with the passage from 96:6 onward recited as revealed, these two verses among them. The narrator adds that they did not know whether that part belonged to Abu Hurayrah's report or reached him from elsewhere. In Muslim's Arabic, the gloss meaning Abu Jahl falls after 96:13, not after these two verses. The occasion is reported, then, but for the passage as a whole.",
+            "bn": "সহীহ মুসলিমে আবু হুরাইরা (রাঃ)-এর একটি দীর্ঘ বর্ণনা আছে, কুরআনএক্স-এ তার নম্বর ২৭৯৭। বাগাভী ৯৬:১০ আয়াতে মুসলিমের নিজস্ব সনদসহ সেটি এনেছেন। বর্ণনার শেষে ৯৬:৬ থেকে পরের আয়াতগুলো নাযিল হওয়ার কথা আছে, এ দুটি আয়াতও তার ভেতরে। তবে বর্ণনাকারী নিজেই বলেন, অংশটুকু আবু হুরাইরা (রাঃ)-এর বর্ণনারই, নাকি অন্য কোথাও থেকে তাঁর কাছে পৌঁছেছে, তা তাঁরা জানেন না। মুসলিমের আরবি পাঠে 'অর্থাৎ আবু জাহল' কথাটা বসেছে ৯৬:১৩ আয়াতের পরে, এ দুটি আয়াতের পরে নয়। প্রেক্ষাপটের বর্ণনা তাই আছে, কিন্তু তা গোটা অংশটির জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Guidance Is Meant?",
+          "bn": "কার হিদায়াতের কথা?"
+        },
+        "p": [
+          {
+            "en": "Who is the he of if he is upon guidance? Most of the commentators consulted here take him to be the servant at prayer. At-Tabari reads: if Muhammad is upon guidance, that is, upon uprightness and soundness in his prayer to his Lord. Al-Baghawi says it means the servant who is forbidden, and he is Muhammad ﷺ. Ibn Kathir has it addressed to the forbidder: what do you think, if this man whom you forbid is on the straight path in his deed? As-Sa'di names him the praying servant.",
+            "bn": "'সে যদি হিদায়াতের উপর থাকে', এখানে 'সে' কে? এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁদের বেশিরভাগের মতে তিনি নামাযরত সেই বান্দা। তাবারীর ব্যাখ্যা: যদি মুহাম্মাদ হিদায়াতের উপর থাকেন, অর্থাৎ রবের উদ্দেশে তাঁর নামাযে তিনি যদি সোজা ও সঠিক পথে থাকেন। বাগাভী বলেন, এখানে উদ্দেশ্য সেই বান্দা যাকে নিষেধ করা হচ্ছে, আর তিনি মুহাম্মাদ ﷺ। ইবন কাসীর কথাটা নিষেধকারীর দিকে ফিরিয়ে বলেন: যাকে তুমি বাধা দিচ্ছ, সে যদি তার কাজে সরল পথের উপর থাকে, তবে তোমার কী ধারণা? সা'দীও তাঁকে বলেন নামাযরত বান্দা।"
+          },
+          {
+            "en": "The Muyassar says the same in its own words: if the one forbidden to pray is upon guidance, how then does he forbid him? Al-Qurtubi likewise speaks of Muhammad being of this description. Al-Tafsir al-Wasit reads the pronoun the other way. Addressing the Messenger ﷺ, it asks: what if this man, the transgressor and disbeliever, had come to be upon guidance, followed the truth and called to righteousness and piety? Would that not have been better for him than persisting in disbelief, and than his forbidding you to pray?",
+            "bn": "মুয়াসসার নিজের ভাষায় একই কথা বলে: নামায থেকে যাকে নিষেধ করা হচ্ছে, সে যদি হিদায়াতের উপর থাকে, তবে তাকে নিষেধ করা হয় কোন যুক্তিতে? কুরতুবীও এই গুণের অধিকারী বলেছেন মুহাম্মাদ ﷺ-কেই। আত-তাফসীরুল ওয়াসীত সর্বনামটি পড়ে উল্টো দিক থেকে। রাসূল ﷺ-কে সম্বোধন করে সে প্রশ্ন রাখে: সীমালঙ্ঘনকারী এই কাফের লোকটি নিজেই যদি হিদায়াতে আসত, সত্যের অনুসরণ করত আর নেকি ও তাকওয়ার দিকে ডাকত, তাহলে কেমন হতো? কুফরে অটল থাকার চেয়ে, আর আপনাকে নামায থেকে নিষেধ করার চেয়ে, সেটা কি তার জন্য অনেক ভালো হতো না?"
+          },
+          {
+            "en": "The two readings give the question different work. On the first, it exposes the forbidding by showing whom it targets: a man at prayer, upright in it, calling to taqwa. On the second, it sets beside the forbidder the life he could have chosen and did not. At-Tabari says on 96:12 that the people of interpretation said as he did, and cites Qatada; al-Wasit gives its reading without discussing the other. This article reports each under its own name and does not choose. Either way, it is the forbidding that stands questioned.",
+            "bn": "দুই পাঠে প্রশ্নটা দুই রকম কাজ করে। প্রথম পাঠে প্রশ্নটা নিষেধের আসল চেহারা খুলে দেয়, কারণ দেখা যায় নিষেধটা কার উপর: নামাযে দাঁড়ানো এক মানুষ, যিনি তাতে সোজা পথে আছেন আর তাকওয়ার দিকে ডাকছেন। দ্বিতীয় পাঠে প্রশ্নটা নিষেধকারীর পাশে রেখে দেয় সেই জীবন, যা সে বেছে নিতে পারত অথচ নেয়নি। তাবারী ৯৬:১২ আয়াতে বলেন, তাফসীরের আলেমরাও তাঁর মতোই বলেছেন, আর প্রমাণ হিসেবে কাতাদার কথা আনেন। ওয়াসীত নিজের পাঠটি দেয়, অন্য মত নিয়ে কোনো আলোচনা করে না। এ লেখা প্রত্যেকটি মত তার নিজের নামে জানায়, কোনোটি বেছে নেয় না। যেভাবেই পড়া হোক, প্রশ্নের মুখে দাঁড়ায় নিষেধটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Upright Deed, Counselling Word",
+          "bn": "সোজা আমল, তাকওয়ার ডাক"
+        },
+        "p": [
+          {
+            "en": "What is the guidance meant here? At-Tabari, as quoted, places it in the prayer itself: uprightness and soundness in praying to his Lord. As-Sa'di defines al-huda as knowledge of the truth and acting upon it. Al-Wasit glosses it as being guided to the straight path. Ibn Kathir divides the two verses neatly between action and speech: the man is upon the straight path in his deed, or enjoins taqwa in his words, and still the forbidder rebukes him and threatens him over his prayer.",
+            "bn": "এখানে হিদায়াত বলতে কী বোঝানো হয়েছে? তাবারী, আগেই যেমন বলা হয়েছে, একে রাখেন নামাযের ভেতরেই: রবের উদ্দেশে নামায পড়ায় সোজা ও সঠিক থাকা। সা'দীর সংজ্ঞায় হুদা মানে সত্যকে জানা এবং সে অনুযায়ী আমল করা। ওয়াসীতের ব্যাখ্যায় এর অর্থ সরল পথের দিশা পাওয়া। ইবন কাসীর দুই আয়াতকে সুন্দরভাবে ভাগ করেন কাজ আর কথায়। লোকটি তার কাজে সরল পথে আছে, কিংবা মুখে তাকওয়ার আদেশ দিচ্ছে। তবু নিষেধকারী তাকে ধমকায়, তার নামাযের জন্য তাকে হুমকি দেয়।"
+          },
+          {
+            "en": "Amara bi-t-taqwa raises a second question: whom does he command? At-Tabari answers sharply: or Muhammad commanded this man who forbids prayer to be mindful of Allah and to fear His punishment. He adds that the people of interpretation said the same, and cites Qatada: Muhammad was upon guidance and enjoined taqwa. As-Sa'di says he commands others to it. Al-Baghawi defines the taqwa here as sincerity and tawhid. Al-Wasit makes it guarding oneself from all that angers Allah, and commanding others to do the same.",
+            "bn": "আমারা বিত-তাকওয়া থেকে দ্বিতীয় প্রশ্ন ওঠে: তিনি আদেশ দেন কাকে? তাবারীর জবাব বেশ তীক্ষ্ণ: কিংবা মুহাম্মাদ আদেশ দিয়েছেন এই নামাযে নিষেধকারীকেই, যেন সে আল্লাহকে ভয় করে আর তাঁর শাস্তিকে ডরায়। তিনি যোগ করেন, তাফসীরের আলেমরাও এ কথা বলেছেন, আর কাতাদার উক্তি আনেন: মুহাম্মাদ হিদায়াতের উপর ছিলেন এবং তাকওয়ার আদেশ দিয়েছেন। সা'দী বলেন, তিনি অন্যদের তাকওয়ার আদেশ দেন। বাগাভীর মতে এখানে তাকওয়া মানে ইখলাস আর তাওহীদ। ওয়াসীতের কাছে এর অর্থ আল্লাহর অসন্তুষ্টির সব কাজ থেকে নিজেকে বাঁচানো, আর অন্যকেও সেই আদেশ দেওয়া।"
+          },
+          {
+            "en": "At-Tabari's reading leaves a striking picture. The man being silenced was the one telling his silencer to fear Allah. The counsel ran from the praying servant towards the one standing over him, and the threat ran back the other way. Ibn Kathir's division points the same direction: nothing in the servant's deed or his word gave cause for rebuke. Whatever is wrong in the scene, the verses place none of it on the side of the one at prayer.",
+            "bn": "তাবারীর পাঠে একটা চমকে দেওয়ার মতো ছবি ফুটে ওঠে। যাঁকে চুপ করানো হচ্ছিল, তিনিই চুপ করাতে আসা লোকটিকে আল্লাহকে ভয় করতে বলছিলেন। নসিহত যাচ্ছিল নামাযরত বান্দার কাছ থেকে তাঁর সামনে দাঁড়ানো লোকটির দিকে, আর হুমকি ফিরে আসছিল উল্টো পথে। ইবন কাসীরের ভাগও একই দিকে ইশারা করে। বান্দার কাজে বা কথায় ধমক খাওয়ার মতো কিছুই ছিল না। দৃশ্যটিতে যা কিছু অন্যায়, আয়াতগুলো তার কোনোটাই নামাযে দাঁড়ানো মানুষটির ঘাড়ে রাখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Supplying What Is Unsaid",
+          "bn": "না-বলা জবাবটুকু"
+        },
+        "p": [
+          {
+            "en": "Since the answer is left out, each commentator supplies it. Al-Qurtubi turns to Abu Jahl: have you considered, O Abu Jahl, if Muhammad is of this description, is not the man who forbids him piety and prayer ruined? The Muyassar asks how he can forbid him, and whether he would forbid him that. As-Sa'di asks whether it is fitting to forbid a man so described, and answers with another question: is his forbidding not among the gravest opposition to Allah and warring against the truth?",
+            "bn": "জবাব যেহেতু বলা নেই, প্রত্যেক তাফসীরকার নিজের মতো করে তা পূরণ করেন। কুরতুবী সম্বোধন করেন আবু জাহলকে: হে আবু জাহল, ভেবে দেখেছ কি, মুহাম্মাদ যদি এমন গুণের অধিকারী হন, তবে যে তাঁকে তাকওয়া আর নামায থেকে নিষেধ করে, সে কি ধ্বংস হয়ে যায় না? মুয়াসসার প্রশ্ন তোলে, সে তাঁকে নিষেধ করে কোন মুখে, এই কাজ থেকেও কি সে তাঁকে আটকাবে? সা'দী জানতে চান, এমন গুণের মানুষকে নিষেধ করা কি শোভা পায়? তারপর আরেক প্রশ্নেই জবাব দেন: তার এই নিষেধ কি আল্লাহর সঙ্গে সবচেয়ে বড় শত্রুতা আর সত্যের বিরুদ্ধে যুদ্ধ নয়?"
+          },
+          {
+            "en": "As-Sa'di then gives the principle behind his answer. Forbidding, he says, is rightly aimed only at someone who is himself not upon guidance, or who commands others to the opposite of taqwa. A prohibition needs a wrong to land on, and here there is none. Ibn Kathir notes the order of the passage: Allah first admonished the man with what is better. Before the warnings of the closing verses comes a question to weigh.",
+            "bn": "এরপর সা'দী তাঁর জবাবের পেছনের মূলনীতিটা বলে দেন। তাঁর কথায়, নিষেধ ন্যায্যভাবে কেবল তার দিকেই যায়, যে নিজে হিদায়াতের উপর নেই, কিংবা অন্যকে তাকওয়ার উল্টো কাজের আদেশ দেয়। নিষেধ করতে হলে কোনো অন্যায় থাকা চাই, আর এখানে তেমন কিছুই নেই। ইবন কাসীর অংশটির ধারাবাহিকতার দিকে দৃষ্টি দেন: আল্লাহ প্রথমে লোকটিকে উত্তম পন্থায় নসিহত করেছেন। শেষের আয়াতগুলোর সতর্কবাণীর আগে আসে ভেবে দেখার মতো একটি প্রশ্ন।"
+          },
+          {
+            "en": "Some read the whole passage as one sentence. Al-Qurtubi relays al-Farra', and al-Baghawi gives nearly the same arrangement: have you seen the one who forbids a servant when he prays, while the one forbidden is upon guidance and enjoins piety, and the forbidder denies and turns away? How astonishing this is! At-Tabari and al-Qurtubi also relay, as something said, that each ara'ayta stands in place of the first, and al-Qurtubi adds that does he not know that Allah sees completes the statement.",
+            "bn": "কেউ কেউ গোটা অংশটাকে একটি বাক্য হিসেবে পড়েন। কুরতুবী ফাররার মত তুলে ধরেন, আর বাগাভীর সাজানোও প্রায় একই রকম: তুমি কি দেখেছ সেই লোককে, যে নামাযরত বান্দাকে নিষেধ করে, অথচ যাকে নিষেধ করা হচ্ছে সে হিদায়াতের উপর আছে আর তাকওয়ার আদেশ দেয়, আর নিষেধকারী নিজে মিথ্যা বলে ও মুখ ফিরিয়ে নেয়? এর চেয়ে আশ্চর্য আর কী হতে পারে! তাবারী ও কুরতুবী 'বলা হয়' বলে আরেকটি মতও আনেন: প্রতিটি আরাআইতা প্রথমটির স্থলাভিষিক্ত। কুরতুবী যোগ করেন, 'সে কি জানে না যে আল্লাহ দেখেন' কথাটিই বাক্যটিকে পূর্ণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Whom the Question Turns",
+          "bn": "প্রশ্নটা কার দিকে"
+        },
+        "p": [
+          {
+            "en": "The commentators also differ over who is asked. At-Tabari, at the head of the passage, reads: have you seen, O Muhammad, Abu Jahl, who forbids you to pray at the Maqam, as Allah makes His Prophet and the believers wonder at Abu Jahl's ignorance. Al-Wasit calls 96:11 another address to the Prophet ﷺ. Al-Qurtubi, as above, has it spoken to Abu Jahl himself, and Ibn Kathir to the forbidder. As-Sa'di, on 96:9, addresses this defiant tyrant: O you who forbid the servant when he prays.",
+            "bn": "প্রশ্নটা কাকে করা হচ্ছে, তা নিয়েও তাফসীরকারদের মধ্যে ভিন্নতা আছে। অংশটির শুরুতে তাবারীর পাঠ: হে মুহাম্মাদ, তুমি কি দেখেছ আবু জাহলকে, যে তোমাকে মাকামের কাছে নামায পড়তে নিষেধ করে? এভাবে আল্লাহ তাঁর নবী আর মুমিনদের অবাক করে দেন আবু জাহলের মূর্খতায়। ওয়াসীত ৯৬:১১ আয়াতকে বলে নবী ﷺ-এর প্রতি আরেকটি সম্বোধন। কুরতুবী, আগেই যেমন দেখা গেছে, কথাটা বলান খোদ আবু জাহলকে, আর ইবন কাসীর নিষেধকারীকে। সা'দী ৯৬:৯ আয়াতে সম্বোধন করেন এই উদ্ধত সীমালঙ্ঘনকারীকে: হে বান্দাকে নামায থেকে নিষেধকারী!"
+          },
+          {
+            "en": "Maududi, on the quranx page for this verse, takes a third line: the audience is apparently every just man, asked what he makes of the act if the servant is rightly guided and the forbidder denies the truth. So the one question is heard three ways. To the Prophet ﷺ it is, in al-Wasit's word on 96:13, a consolation. To the forbidder it is a rebuke. To every fair listener it is a case laid out for judgement. None of the three needs the answer spelled out.",
+            "bn": "এই আয়াতের কুরআনএক্স পাতায় মওদূদী তৃতীয় একটি পথ নেন। তাঁর মতে শ্রোতা সম্ভবত প্রত্যেক ন্যায়পরায়ণ মানুষ। তাকে জিজ্ঞেস করা হচ্ছে: বান্দা যদি সঠিক পথে থাকে আর নিষেধকারী সত্যকে অস্বীকার করে, তবে এই কাজকে সে কী বলবে? এভাবে একটিই প্রশ্ন তিনভাবে কানে পৌঁছায়। নবী ﷺ-এর কাছে তা সান্ত্বনা, ৯৬:১৩ আয়াতে ওয়াসীত ঠিক এই শব্দই ব্যবহার করে। নিষেধকারীর কাছে তা তিরস্কার। আর প্রত্যেক ন্যায়নিষ্ঠ শ্রোতার কাছে তা বিচারের জন্য সাজিয়ে রাখা এক মামলা। তিনজনের কারও জন্যই জবাব খুলে বলার দরকার পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seen From Both Sides",
+          "bn": "দুই দিকই তাঁর চোখে"
+        },
+        "p": [
+          {
+            "en": "Two verses on, 96:14 asks: does he not know that Allah sees? Ibn Kathir glosses it: does this man who forbids this rightly guided man not know that Allah sees him, hears his words, and will repay him in full for what he did? At-Tabari reads it of Abu Jahl forbidding Muhammad to worship and pray: does he not know that Allah sees him, and so fear His might and punishment? Al-Qurtubi calls it a confirmation and a rebuke.",
+            "bn": "দুই আয়াত পরে ৯৬:১৪ জিজ্ঞেস করে: সে কি জানে না যে আল্লাহ দেখেন? ইবন কাসীরের ব্যাখ্যা: এই হিদায়াতপ্রাপ্ত মানুষটিকে যে নিষেধ করছে, সে কি জানে না যে আল্লাহ তাকে দেখছেন, তার কথা শুনছেন, আর তার কাজের পুরো প্রতিদান তাকে দেবেন? তাবারী আয়াতটি পড়েন আবু জাহলের বেলায়, যে মুহাম্মাদকে রবের ইবাদত আর নামায থেকে নিষেধ করছিল: সে কি জানে না, আল্লাহ তাকে দেখছেন? জানলে তো সে তাঁর পাকড়াও আর শাস্তিকে ভয় করত। কুরতুবী একে বলেন স্বীকারোক্তি আদায় আর তিরস্কার।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an observes that the verse does not say whom Allah is watching. It is of general application, it says: He watches the pious one performing the prayer, and the wretched one obstructing it. Maududi's note on the quranx page makes the same point, that Allah watches both the oppressor and the one wronged. As-Sa'di keeps the object open as well: He sees what he does and carries out. The guided servant and his forbidder stand in the same sight, and there the unspoken answer of 96:11 and 96:12 is finally heard.",
+            "bn": "মাআরিফুল কুরআন লক্ষ করে, আল্লাহ কাকে দেখছেন, আয়াতটি তা বলেনি। এর মতে কথাটা সবার বেলায় খাটে। নামাযে দাঁড়ানো মুত্তাকী মানুষটিকেও তিনি দেখেন, আর নামাযে বাধা দেওয়া হতভাগাকেও দেখেন। কুরআনএক্স পাতায় মওদূদীর টীকাও একই কথা বলে: আল্লাহ জালিমকেও দেখেন, মজলুমকেও দেখেন। সা'দীও দেখার বিষয়টি খোলা রাখেন: সে যা করে আর ঘটায়, তিনি সবই দেখেন। হিদায়াতপ্রাপ্ত বান্দা আর তার নিষেধকারী, দুজনই একই দৃষ্টির সামনে। ৯৬:১১ ও ৯৬:১২ আয়াতের না-বলা জবাবটা শেষমেশ শোনা যায় এখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Kept for Oneself",
+          "bn": "প্রশ্নটা নিজের জন্য"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The forbidder in these verses is the man the reports name, in a single episode at Makkah, threatening a servant at prayer beside the Ka'ba. The verses describe what they describe and license nothing against any living person or community. They give no one a warrant to cast a neighbour, a relative, a rival or a ruler as that man. This article passes no verdict on anyone's faith or fate, and the reader should not borrow the verses to pass any.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ আয়াতগুলোর নিষেধকারী হলো সেই লোক, বর্ণনাগুলো যার নাম বলে। মক্কায় ঘটে যাওয়া একটিমাত্র ঘটনায় কাবার পাশে সে নামাযরত এক বান্দাকে হুমকি দিয়েছিল। আয়াতগুলো যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি দেয় না। প্রতিবেশী, আত্মীয়, প্রতিপক্ষ বা শাসক, কাউকেই সেই লোকের জায়গায় বসানোর অধিকার কারও নেই। এ লেখা কারও ঈমান বা পরিণতি নিয়ে কোনো রায় দেয় না, আর পাঠকেরও উচিত নয় এ আয়াত ধার করে কোনো রায় দেওয়া।"
+          },
+          {
+            "en": "What the verses hand the reader is a question to ask of himself. As-Sa'di's principle travels well: forbidding is rightly aimed only at someone not upon guidance. A word of mockery about a colleague's prayer break, a sigh at a relative's new fast, a joke that talks a friend out of a good habit: each is a small forbidding. Before any of them, the question of 96:11 waits. If this person is upon guidance, or enjoins mindfulness of Allah, what exactly am I stopping?",
+            "bn": "আয়াতগুলো পাঠকের হাতে তুলে দেয় নিজেকে করার মতো একটা প্রশ্ন। সা'দীর মূলনীতিটা আমাদের জীবনেও খাটে: নিষেধ ন্যায্যভাবে কেবল তার দিকেই যায়, যে হিদায়াতের উপর নেই। সহকর্মী নামাযের জন্য উঠলে তা নিয়ে একটু বাঁকা কথা, আত্মীয় নতুন করে রোযা রাখা শুরু করলে বিরক্তির দীর্ঘশ্বাস, কিংবা এমন ঠাট্টা যা বন্ধুকে কোনো ভালো অভ্যাস থেকে সরিয়ে আনে। প্রতিটিই ছোট্ট এক নিষেধ। এর যেকোনোটির আগে ৯৬:১১ আয়াতের প্রশ্নটা অপেক্ষা করে আছে। মানুষটি যদি হিদায়াতের উপর থাকে, কিংবা তাকওয়ার কথা বলে, তবে আমি আসলে কী থামাচ্ছি?"
+          },
+          {
+            "en": "The second reading speaks inward too. Al-Wasit hears in the verse a question about what the forbidder himself might have been: guided, following the truth, calling others to piety. Anyone who has ever stood in the way of good can hear that question addressed to his own past, and find in it a road not yet closed. The servant in these verses kept praying, as the surah's close will tell. The reader is asked which of the two he resembles, and which he would rather become.",
+            "bn": "দ্বিতীয় পাঠটিও মনের ভেতরে কথা বলে। ওয়াসীত আয়াতে শুনতে পায় এমন এক প্রশ্ন, যা নিষেধকারীর সম্ভাব্য অন্য জীবনের কথা বলে: হিদায়াতপ্রাপ্ত, সত্যের অনুসারী, অন্যকে তাকওয়ার দিকে ডাকা এক জীবন। যে কখনো ভালো কাজের পথে বাধা হয়ে দাঁড়িয়েছে, সে নিজের অতীতের উদ্দেশেও প্রশ্নটা শুনতে পারে। আর তাতে খুঁজে পেতে পারে এমন এক পথ, যা এখনো বন্ধ হয়নি। এ আয়াতগুলোর বান্দা নামায থামাননি, সূরার শেষ আয়াত সে কথা বলবে। পাঠকের কাছে প্রশ্ন: সে দুজনের কার মতো, আর কার মতো হতে চায়?"
+          }
+        ]
+      }
+    ]
+  },
   "96:19": {
     "sections": [
       {

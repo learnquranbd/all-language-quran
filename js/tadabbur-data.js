@@ -30023,6 +30023,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Clear proof comes to free us from what we cling to and to bring us together; do not let it become one more reason to divide.",
     "lessonBn": "সুস্পষ্ট প্রমাণ আসে আঁকড়ে থাকা ভুল থেকে আমাদের ছাড়িয়ে আনতে আর আমাদের এক করতে। সেটাকে বিভেদের আরেকটা কারণ বানাবেন না।"
+  },
+  "96:11-12": {
+    "reflectionEn": "A servant of Allah stands in prayer, and a man stands over him and orders him to stop. Before any threat, the Qur'an asks: have you considered, if he is upon guidance, or enjoins mindfulness of Allah? The answer is left unsaid, because it needs no saying. No one is rightly silenced for being right. The question cuts two ways. It asks the one who forbids to look at whom he is forbidding, and some read it as asking him to picture himself upon guidance instead. So I put it to myself. When I discourage someone, mock a habit of worship or talk a friend out of a good deed, have I first asked whether they are upon guidance? And if they are, what exactly am I stopping?",
+    "reflectionBn": "এক বান্দা নামাযে দাঁড়িয়ে আছেন, আর এক লোক তাঁর সামনে দাঁড়িয়ে হুকুম দিচ্ছে: থামো। হুমকির কথা আসার আগেই কুরআন একটা প্রশ্ন রাখে: তুমি কি ভেবে দেখেছ, সে যদি হিদায়াতের উপর থাকে, কিংবা তাকওয়ার আদেশ দেয়? উত্তরটা বলা হয়নি, কারণ বলার দরকারই নেই। ঠিক পথে আছে বলে কাউকে থামানোর কোনো হক কারও নেই। প্রশ্নটার দুই দিকেই ধার। যে নিষেধ করছে, সে দেখুক কাকে নিষেধ করছে। আবার কেউ কেউ পড়েন এভাবে: নিষেধকারী নিজেই যদি হিদায়াতের পথে আসত, তাহলে কেমন হতো? তাই প্রশ্নটা আমি নিজেকেই করি। কাউকে নিরুৎসাহ করার আগে, কারও ইবাদতের অভ্যাস নিয়ে ঠাট্টা করার আগে, কিংবা বন্ধুকে কোনো নেক কাজ থেকে ফিরিয়ে আনার আগে, আমি কি একবারও ভেবেছি সে হিদায়াতের উপর আছে কি না? যদি থাকে, তবে আমি আসলে কী থামাচ্ছি?",
+    "pointsEn": [
+      "Whom have I discouraged lately, in jest or in earnest, from a prayer, a fast or a good habit, and was that person upon guidance?",
+      "Before I object to what someone does, do I ask whether it is guidance or only something unfamiliar to me?",
+      "When someone tells me to fear Allah, do I hear the counsel, or only the rebuke?",
+      "If I picture myself upon guidance and calling others to it, which of my present habits would have to change first?",
+      "When my own prayer is mocked or interrupted, do I remember that the Qur'an has already asked the question and left its answer plain?"
+    ],
+    "pointsBn": [
+      "ইদানীং ঠাট্টায় হোক বা সত্যি সত্যি, কাকে আমি নামায, রোযা বা কোনো ভালো অভ্যাস থেকে নিরুৎসাহ করেছি? সে কি আসলে হিদায়াতের উপর ছিল?",
+      "কারও কোনো কাজে আপত্তি তোলার আগে আমি কি ভেবে দেখি, সেটা হিদায়াত, নাকি শুধু আমার কাছে অচেনা কিছু?",
+      "কেউ যখন আমাকে আল্লাহকে ভয় করতে বলে, আমি কি নসিহতটা শুনি, নাকি শুধু তিরস্কারটাই কানে বাজে?",
+      "নিজেকে যদি হিদায়াতের উপর আর অন্যকে সেদিকে ডাকার কাজে কল্পনা করি, তাহলে আমার কোন অভ্যাসটা সবার আগে বদলাতে হবে?",
+      "আমার নিজের নামায নিয়ে কেউ ঠাট্টা করলে বা বাধা দিলে আমার কি মনে পড়ে যে কুরআন প্রশ্নটা আগেই করে রেখেছে, আর উত্তরটাও স্পষ্ট রেখে দিয়েছে?"
+    ],
+    "lessonEn": "Before you discourage anyone's prayer or good deed, ask whether they may be upon guidance; no one is rightly silenced for being right.",
+    "lessonBn": "কারও নামায বা নেক কাজে বাধা দেওয়ার আগে ভেবে দেখুন, সে হয়তো হিদায়াতের উপরই আছে; ঠিক পথে থাকার জন্য কাউকে থামানোর হক কারও নেই।"
   }
 };
 
