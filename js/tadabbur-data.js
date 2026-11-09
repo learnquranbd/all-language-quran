@@ -29903,6 +29903,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Day is named the Striker for what it does to hearts; let the name strike mine now, while there is time to turn, before people scatter like moths.",
     "lessonBn": "দিনটির নাম আঘাতকারী, কারণ সে অন্তরে আঘাত হানে। মানুষ পতঙ্গের মতো ছড়িয়ে পড়ার আগে, ফেরার সময় থাকতেই, নামটা আজ আমার অন্তরে আঘাত করুক।"
+  },
+  "90:17": {
+    "reflectionEn": "A neck set free, an orphan fed, a man in the dust looked after. Then the verse adds something that is not one more deed. It asks whether the giver stands among people who believe, and who keep saying two things to each other: hold on, and be kind. Both are counselled, which means both run out. Patience thins under pressure, and mercy hardens when the need never ends. So the climb is not made alone. Someone reminds me when I want to stop, and I remind someone else when their hand starts to close. Do I have people like that around me? And am I that voice for anyone, or do I give quietly and leave others to manage alone?",
+    "reflectionBn": "একজনের গলা থেকে বাঁধন খুলে দেওয়া, একজন ইয়াতীমকে খাওয়ানো, ধুলোয় পড়ে থাকা একজনের খোঁজ নেওয়া। এরপর আয়াতটি যা যোগ করে, তা আরেকটা আমল নয়। প্রশ্ন হলো, দানকারী কি এমন মানুষদের দলে আছেন, যারা ঈমান এনেছে আর একে অপরকে বারবার দুটি কথা বলে: টিকে থাকো, দয়া করো। দুটোরই উপদেশ লাগে, কারণ দুটোই ফুরিয়ে আসে। চাপের মুখে সবর পাতলা হয়ে যায়, আর অভাব যখন শেষই হয় না, তখন দয়াও শক্ত হয়ে আসে। তাই এ চড়াই কেউ একা পার হয় না। আমি থামতে চাইলে কেউ আমাকে মনে করিয়ে দেয়, আর কারও হাত গুটিয়ে আসতে দেখলে আমি তাকে মনে করিয়ে দিই। আমার চারপাশে কি এমন মানুষ আছে? আর আমি কি কারও জন্য সেই কণ্ঠ, নাকি চুপচাপ দান করে অন্যদের নিজেদের ভরসায় ছেড়ে দিই?",
+    "pointsEn": [
+      "Who in my life tells me to hold on when I am ready to give up, and when did I last thank them for it?",
+      "When I last urged someone to be patient, did it help them carry their load, or did it only tell them to stop complaining?",
+      "Is my patience with people who hurt me joined to mercy toward them, or do I put up with them while staying cold?",
+      "Do my good deeds rest on faith in Allah and hope of His reward, or on wanting to be known as generous?",
+      "Which circle of believers do I actually belong to, and what do we remind one another of when we meet?"
+    ],
+    "pointsBn": [
+      "আমি যখন হাল ছেড়ে দিতে বসি, তখন কে আমাকে টিকে থাকতে বলে? শেষ কবে তাকে এর জন্য কৃতজ্ঞতা জানিয়েছি?",
+      "শেষবার কাউকে সবর করতে বলার সময় আমার কথা কি তার বোঝা বইতে সাহায্য করেছে, নাকি শুধু অভিযোগ থামাতে বলেছে?",
+      "যারা আমাকে কষ্ট দেয়, তাদের ব্যাপারে আমার সবরের সঙ্গে কি দয়াও আছে, নাকি মন শীতল রেখে কোনোরকমে সহ্য করে যাই?",
+      "আমার নেক আমলের ভিত কি আল্লাহর উপর ঈমান আর তাঁর কাছে প্রতিদানের আশা, নাকি দানশীল বলে পরিচিত হওয়ার ইচ্ছা?",
+      "বাস্তবে আমি মুমিনদের কোন দলের অংশ? আমরা একসঙ্গে হলে একে অপরকে কী মনে করিয়ে দিই?"
+    ],
+    "lessonEn": "Good deeds stand on faith and are kept alive in company: belong among believers who keep urging one another to patience and to mercy.",
+    "lessonBn": "নেক আমল দাঁড়ায় ঈমানের উপর, আর টিকে থাকে সঙ্গীদের মাঝে। এমন মুমিনদের দলে থাকুন, যারা একে অপরকে বারবার সবর আর দয়ার উপদেশ দেয়।"
   }
 };
 

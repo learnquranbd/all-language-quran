@@ -754,5 +754,157 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "90:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "Who Makes the Climb",
+          "bn": "চড়াই পার হয় কে"
+        },
+        "p": [
+          {
+            "en": "Surah al-Balad names the steep pass in 90:13 to 90:16: freeing a neck, or feeding on a day of hunger an orphan near of kin or a needy person in the dust. Those verses have their own articles here. Verse 90:17, nine words in Arabic, turns from what the climber does to who the climber is: thumma kana mina alladhina amanu, then he was among those who believed, wa tawasaw bis-sabr, and counselled one another to patience, wa tawasaw bil-marhamah, and counselled one another to mercy.",
+            "bn": "সূরা বালাদ ৯০:১৩ থেকে ৯০:১৬ আয়াতে দুর্গম গিরিপথের পরিচয় দিয়েছে: একজনের গলা বাঁধনমুক্ত করা, অথবা ক্ষুধার দিনে নিকটাত্মীয় ইয়াতীম কিংবা ধুলোয় মিশে থাকা মিসকীনকে খাওয়ানো। ওই আয়াতগুলো নিয়ে এ সংকলনে আলাদা প্রবন্ধ আছে। আরবিতে নয়টি শব্দের ৯০:১৭ আয়াত এবার প্রশ্ন বদলায়। চড়াইয়ে যে উঠছে সে কী করে, তা আর নয়; সে কে, সেটাই এখন কথা। সুম্মা কানা মিনাল্লাযীনা আমানূ: তারপর সে হলো তাদের একজন, যারা ঈমান এনেছে। ওয়া তাওয়াসাও বিসসাবরি: আর তারা একে অপরকে সবরের উপদেশ দিয়েছে। ওয়া তাওয়াসাও বিলমারহামাহ: আর একে অপরকে দয়ার উপদেশ দিয়েছে।"
+          },
+          {
+            "en": "At-Tabari reads the subject of kana as the same man the surah has been describing, the one who said, I have squandered heaps of wealth: then this man was among those who believed in Allah and His Messenger, believing with them as they believed. Ma'arif al-Qur'an says that the good actions of the verses before are not enough, on their own, to raise the stature of the Muslim community. After naming faith, the verse points the believer to a social and moral duty: to teach his fellow Muslims to be patient and to be merciful.",
+            "bn": "তাবারীর মতে কানা ক্রিয়ার কর্তা সেই লোকটিই, যার কথা সূরাটি আগে থেকে বলে আসছে, যে বড়াই করে বলেছিল, আমি রাশি রাশি সম্পদ উড়িয়েছি। তাবারীর ব্যাখ্যায় অর্থ দাঁড়ায়: তারপর এই লোকটি হলো তাদের একজন, যারা আল্লাহ ও তাঁর রাসূলের উপর ঈমান এনেছে; তারা যেমন ঈমান এনেছে, সে-ও তাদের সঙ্গে তেমনি ঈমান আনে। মাআরিফুল কুরআন বলে, আগের আয়াতের নেক কাজগুলো একা মুসলিম সমাজের মর্যাদা উঁচু করার জন্য যথেষ্ট নয়। ঈমানের কথা বলার পর আয়াতটি মুমিনকে তার সামাজিক ও নৈতিক দায়িত্বের দিকে ফেরায়: অন্য মুসলিম ভাইদের সবর আর দয়া শেখানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Small Word Thumma",
+          "bn": "ছোট্ট শব্দ সুম্মা"
+        },
+        "p": [
+          {
+            "en": "Thumma usually means then, after an interval, which would place faith after the freeing and the feeding. Al-Qurtubi's first reading does not let the order stand that way. No one breaks through the pass by freeing a neck or feeding on a day of hunger until he is among those who believe, because faith in Allah is the condition for deeds of obedience to be accepted. The obedience must come accompanied by faith. He cites 9:54, where only their disbelief in Allah and His Messenger kept the hypocrites' spending from being accepted.",
+            "bn": "সুম্মা সাধারণত বোঝায় 'তারপর', কিছুটা বিরতির পর। সে অর্থে ঈমান আসে দাসমুক্তি আর খাওয়ানোর পরে। কুরতুবীর প্রথম ব্যাখ্যা এ ক্রম মেনে নেয় না। তিনি বলেন, গলা মুক্ত করে বা ক্ষুধার দিনে খাইয়ে কেউ গিরিপথ পার হয় না, যতক্ষণ না সে ঈমানদারদের একজন হয়। কারণ আল্লাহর উপর ঈমানই আনুগত্যের আমল কবুল হওয়ার শর্ত। আমলের সঙ্গে ঈমান থাকতেই হবে। দলিল হিসেবে তিনি ৯:৫৪ আয়াত আনেন। সেখানে মুনাফিকদের দান কবুল না হওয়ার একমাত্র কারণ বলা হয়েছে এই যে, তারা আল্লাহ ও তাঁর রাসূলকে অস্বীকার করেছিল।"
+          },
+          {
+            "en": "He then records other readings under it is said. One: he did these things as a believer and then stayed on his faith until death, as in 20:82, which promises forgiveness to whoever repents, believes, does good and then keeps to guidance. Another: then he was among those who believe that these acts will benefit them with Allah. A third: he did these acts for Allah's sake and afterwards believed in Muhammad ﷺ. And a last: thumma here carries the sense of wa, and. Al-Baghawi gives the same pair: these acts benefit only with faith, and it is said that thumma means wa.",
+            "bn": "এরপর কুরতুবী 'বলা হয়' দিয়ে আরও কিছু ব্যাখ্যা উল্লেখ করেন। এক: সে মুমিন অবস্থাতেই এসব করেছে, তারপর মৃত্যু পর্যন্ত ঈমানের উপর টিকে থেকেছে। এর নজির ২০:৮২, যেখানে ক্ষমার ওয়াদা সেই ব্যক্তির জন্য, যে তওবা করে, ঈমান আনে, নেক আমল করে, তারপর হিদায়াতের পথে অটল থাকে। আরেক ব্যাখ্যা: তারপর সে হলো তাদের একজন, যারা বিশ্বাস করে যে এসব আমল আল্লাহর কাছে তাদের কাজে আসবে। তৃতীয়টি: আল্লাহর সন্তুষ্টির জন্য সে এসব নেক কাজ করেছে, পরে মুহাম্মাদ ﷺ-এর উপর ঈমান এনেছে। শেষটি: এখানে সুম্মা মানে ওয়া, অর্থাৎ 'এবং'। বাগাভীও একই দুটি কথা বলেন: ঈমান থাকলেই এসব আমল কাজে আসে, আর বলা হয় সুম্মা মানে ওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "After, or All Along",
+          "bn": "পরে, নাকি শুরু থেকেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir does not treat the word as a delay at all. Then, along with these beautiful and pure qualities, he is a believer in his heart, seeking their reward from Allah. He sets the verse beside 17:19, whoever wants the Hereafter and strives for it as it deserves while he is a believer, their striving is appreciated, and 16:97, whoever does good, male or female, while a believer. The Muyassar agrees: then, with doing these good works, he was among those who made their faith sincere for Allah.",
+            "bn": "ইবন কাসীর শব্দটিকে কোনো বিলম্ব হিসেবেই পড়েন না। তাঁর ব্যাখ্যায়: এই সুন্দর ও পবিত্র গুণগুলোর পাশাপাশি সে অন্তরে ঈমানদার, আর এর প্রতিদান সে আল্লাহর কাছেই আশা করে। আয়াতটিকে তিনি মিলিয়ে দেখান ১৭:১৯ আয়াতের সঙ্গে: যে আখিরাত চায় এবং মুমিন অবস্থায় তার জন্য যথাযথ চেষ্টা করে, তাদের চেষ্টার কদর করা হবে। আর ১৬:৯৭ আয়াতের সঙ্গে: পুরুষ হোক বা নারী, যে মুমিন অবস্থায় নেক আমল করে। মুয়াসসারও একইভাবে পড়ে: এসব নেক কাজ করার সঙ্গে সঙ্গে সে তাদের একজন ছিল, যারা আল্লাহর জন্য ঈমানকে খাঁটি করেছে।"
+          },
+          {
+            "en": "Al-Jalalayn, read on quranx, says thumma here orders the things being mentioned, not the times they happened: at the moment he took on the climb, he was already one of those who believe. So the commentators read here give three answers to the small word. Some keep a sequence in time, as in al-Qurtubi's readings of later faith or lasting faith. Some make it an order of statement. Some make it simply and. None of the texts read for this verse calls it a step up in rank, so this article does not either.",
+            "bn": "কুরআনএক্স-এ পড়া তাফসীরে জালালাইন বলে, এখানে সুম্মা ঘটনার সময়ের ক্রম নয়, বলার ক্রম সাজায়। অর্থাৎ যে মুহূর্তে সে চড়াইয়ে পা রেখেছে, তখনই সে ঈমানদারদের একজন। তাহলে এখানে পড়া তাফসীরগুলো ছোট্ট শব্দটির তিনটি আলাদা উত্তর দেয়। কেউ সময়ের ক্রম ধরে রাখেন, যেমন কুরতুবীর বর্ণিত পরে ঈমান আনা বা আজীবন ঈমানে টিকে থাকার ব্যাখ্যা। কেউ একে বলার ক্রম বানান। কেউ সোজা 'এবং' অর্থ নেন। এ আয়াতের জন্য পড়া কোনো লেখাই একে মর্যাদার ধাপ বলেনি, তাই এ প্রবন্ধও তা বলছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Generous Before Islam",
+          "bn": "ইসলামের আগের দানশীলতা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi brings two reports into this discussion, and both are in the Sahih collections. Muslim (214) has 'A'isha (RA) ask about Ibn Jud'an, a man of the days before Islam. The wording on quranx, whole: I said: Messenger of Allah, the son of Jud'an established ties of relationship, fed the poor. Would that be of any avail to him? He said: It would be of no avail to him as he did not ever say: O my Lord, pardon my sins on the Day of Resurrection. Al-Qurtubi places it with his first reading, that obedience must come with faith.",
+            "bn": "এ আলোচনায় কুরতুবী দুটি বর্ণনা আনেন, দুটিই সহীহ গ্রন্থে আছে। মুসলিমের (২১৪) বর্ণনায় আয়েশা (রাঃ) ইসলামপূর্ব যুগের লোক ইবন জুদআন সম্পর্কে জিজ্ঞেস করেন। কুরআনএক্স-এ পাওয়া পুরো বর্ণনা: আমি বললাম, হে আল্লাহর রাসূল, ইবন জুদআন জাহিলিয়াতের যুগে আত্মীয়তার বন্ধন রক্ষা করত, মিসকীনকে খাওয়াত। এটা কি তার কোনো কাজে আসবে? তিনি বললেন, এটা তার কোনো কাজে আসবে না। কারণ সে কোনোদিন বলেনি, হে আমার রব, প্রতিদান দিবসে আমার গুনাহ মাফ করে দিয়ো। কুরতুবী এটিকে রাখেন তাঁর প্রথম ব্যাখ্যার সঙ্গে: আমলের সঙ্গে ঈমান থাকতেই হবে।"
+          },
+          {
+            "en": "The second is from Hakim ibn Hizam (RA). Al-Bukhari (1436) has him say: Before embracing Islam I used to do good deeds like giving in charity, slave-manumitting, and the keeping of good relations with Kith and kin. Shall I be rewarded for those deeds? The Prophet ﷺ replied, You became Muslim with all those good deeds (Without losing their reward). Al-Qurtubi sets it under the reading in which the deeds came first and faith in Muhammad ﷺ after. Neither report names this verse. They answer two different questions, about a man who never sought forgiveness and a man who came to Islam.",
+            "bn": "দ্বিতীয়টি হাকীম ইবন হিযাম (রাঃ)-এর। বুখারীর (১৪৩৬) বর্ণনায় তিনি বলেন: হে আল্লাহর রাসূল, জাহিলিয়াতের যুগে আমি সাদাকা, দাসমুক্তি আর আত্মীয়তার বন্ধন রক্ষার মতো কিছু নেক কাজ করতাম। এগুলোর কি কোনো প্রতিদান আছে? নবী ﷺ বললেন: তুমি যে কল্যাণ আগে করেছ, তা নিয়েই মুসলিম হয়েছ। কুরতুবী এটি রাখেন সেই ব্যাখ্যার নিচে, যেখানে নেক কাজ আগে আর মুহাম্মাদ ﷺ-এর উপর ঈমান পরে। কোনো বর্ণনাতেই এ আয়াতের নাম নেই। দুটি দুই প্রশ্নের জবাব: একজন কোনোদিন ক্ষমা চায়নি, আরেকজন ইসলামে এসেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Joining Those Who Believed",
+          "bn": "ঈমানদারদের কাতারে শামিল"
+        },
+        "p": [
+          {
+            "en": "Kana mina alladhina: he was among those who. Maududi, in Tafhim al-Qur'an on quranx, stops on that wording. The verse does not say then he believed, but then he joined those who believed. Believing as an individual and resting content with it, he writes, is not what is wanted; each new believer should join those who already believe, so that a believing society forms and works to establish virtue and wipe out vice. At-Tabari's gloss leans the same way: he believes with them, as they believed.",
+            "bn": "কানা মিনাল্লাযীনা: সে ছিল তাদের একজন, যারা। তাফহীমুল কুরআনে সাইয়্যেদ আবুল আ'লা মওদূদী, যা কুরআনএক্স-এ পড়া হয়েছে, এই শব্দবিন্যাসে থামেন। আয়াতটি বলেনি 'তারপর সে ঈমান আনল'; বলেছে 'তারপর সে ঈমানদারদের দলে শামিল হলো'। তাঁর মতে একা ঈমান এনে তাতেই তুষ্ট থাকা কাম্য নয়। প্রত্যেক নতুন মুমিন আগের মুমিনদের সঙ্গে যুক্ত হবে, যাতে একটি ঈমানদার সমাজ গড়ে ওঠে আর সে সমাজ নেকি প্রতিষ্ঠা ও মন্দ দূর করার কাজ করে। তাবারীর ব্যাখ্যাও একই দিকে ঝোঁকে: তারা যেমন ঈমান এনেছে, সে-ও তাদের সঙ্গে তেমনি ঈমান আনে।"
+          },
+          {
+            "en": "Tawasaw is a verb of the shared kind, and at-Tabari, al-Qurtubi and al-Baghawi all gloss it the same way: some of them counselled others. Counsel then runs in both directions; the one who advises today is the one advised tomorrow. Maududi gives the reason it must be shared. A believer tested alone faces the danger of defeat at every step, while a society whose members support one another in patience gains the strength to face evil.",
+            "bn": "তাওয়াসাও এমন ক্রিয়া, যাতে কাজটা পারস্পরিক। তাবারী, কুরতুবী ও বাগাভী তিনজনই এর একই ব্যাখ্যা দেন: তাদের একজন আরেকজনকে উপদেশ দিয়েছে। ফলে উপদেশ চলে দুই দিকেই। আজ যে উপদেশ দেয়, কাল সে-ই উপদেশ পায়। কেন এটা মিলেমিশে হতে হবে, মওদূদী তার কারণ বলেন। একা পরীক্ষার মুখে পড়া মুমিনের প্রতি পদে হেরে যাওয়ার ভয় থাকে। কিন্তু যে সমাজের সদস্যরা সবরের পরীক্ষায় একে অপরকে সাহায্য করে, সে সমাজ মন্দের মোকাবিলা করার শক্তি পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience, Named Three Ways",
+          "bn": "সবর কীসের উপর"
+        },
+        "p": [
+          {
+            "en": "Bis-sabr, to patience, and the commentators name what the patience is with. At-Tabari: with what befell them in the cause of Allah. Al-Baghawi: upon Allah's obligations and commands. The Muyassar: in obeying Allah and in keeping away from disobeying Him. Al-Qurtubi gathers three objects: patience upon obedience to Allah, patience away from disobedience, and patience with the trials and calamities that strike. As-Sa'di keeps the same three and calls the last the painful decrees. Ma'arif al-Qur'an defines sabr as holding oneself back from evil deeds and acting on good ones.",
+            "bn": "বিসসাবরি, সবরের উপদেশ। কীসের উপর সবর, তাফসীরকারেরা তা বলে দেন। তাবারী: আল্লাহর পথে তাদের উপর যা এসে পড়ে, তার উপর সবর। বাগাভী: আল্লাহর ফরজ ও আদেশ পালনে সবর। মুয়াসসার: আল্লাহর আনুগত্যে সবর, আর তাঁর নাফরমানি থেকে নিজেকে বিরত রাখায় সবর। কুরতুবী তিনটি ক্ষেত্র একসঙ্গে আনেন: আল্লাহর আনুগত্যে সবর, গুনাহ থেকে দূরে থাকায় সবর, আর বিপদ ও মুসিবতে সবর। সা'দীও এই তিনটিই রাখেন, শেষটিকে বলেন কষ্টদায়ক তাকদীর। মাআরিফুল কুরআনের সংজ্ঞায় সবর মানে মন্দ কাজ থেকে নিজেকে সংযত রাখা আর ভালো কাজের উপর আমল করা।"
+          },
+          {
+            "en": "As-Sa'di also describes what the counsel looks like in practice: that they urge one another to submit to all this and to carry it out in full, with an open chest and a settled soul. Ibn Kathir names a different object, patience with the harm people do, and sets it right beside mercy toward those same people. The commentators here do not contradict one another; each adds an object, and the verse itself leaves the word unbounded.",
+            "bn": "উপদেশটা বাস্তবে কেমন, সা'দী তা-ও বলেন: তারা একে অপরকে এসব মেনে নিতে উৎসাহ দেয়, আর খোলা মনে, প্রশান্ত চিত্তে পুরোপুরি পালন করতে বলে। ইবন কাসীর আরেকটি ক্ষেত্রের নাম করেন: মানুষের দেওয়া কষ্টে সবর। আর ঠিক তার পাশেই রাখেন সেই মানুষদের প্রতি দয়া। তাফসীরকারেরা এখানে একে অপরের বিরোধিতা করেন না। প্রত্যেকে একটি করে ক্ষেত্র যোগ করেন, আর আয়াতটি নিজে শব্দটিকে কোনো সীমায় বাঁধেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy Kept in Circulation",
+          "bn": "দয়া যেন থেমে না যায়"
+        },
+        "p": [
+          {
+            "en": "Bil-marhamah, to mercy. At-Tabari supports his gloss with a report through 'Ikrimah from Ibn 'Abbas (RA): marhamat an-nas, mercy toward people. Al-Baghawi says the same in two words, mercy to people. The Muyassar and al-Qurtubi widen it to al-khalq, all of creation. Al-Qurtubi then closes the circle the surah has drawn: when they do this, they show mercy to the orphan and the needy, the very people of 90:15 and 90:16. On his reading, the counsel to mercy is what keeps the earlier deeds alive.",
+            "bn": "বিলমারহামাহ, দয়ার উপদেশ। তাবারী তাঁর ব্যাখ্যার পক্ষে ইকরিমার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: মারহামাতুন নাস, মানুষের প্রতি দয়া। বাগাভীও দুই শব্দে একই কথা বলেন: মানুষের প্রতি দয়া। মুয়াসসার আর কুরতুবী একে আরও বড় করে বলেন আল-খালক, গোটা সৃষ্টির প্রতি দয়া। এরপর কুরতুবী সূরাটির আঁকা বৃত্তটি পূর্ণ করেন। তিনি বলেন, তারা এমন করলে ইয়াতীম আর মিসকীনের প্রতি দয়া করবে, অর্থাৎ ৯০:১৫ ও ৯০:১৬ আয়াতের সেই মানুষগুলোর প্রতিই। তাঁর ব্যাখ্যায় দয়ার উপদেশই আগের নেক কাজগুলোকে বাঁচিয়ে রাখে।"
+          },
+          {
+            "en": "As-Sa'di spells out what mercy to creation includes: giving to their needy, teaching those who do not know, standing by them in everything they need, helping them toward their good in religion and in this world, and loving for them what a person loves for himself, and disliking for them what he dislikes for himself. Ma'arif al-Qur'an defines marhamah as showing mercy to each other, feeling with others and refraining from hurting them. Having defined both words, it says that this embraces almost all the injunctions of the religion.",
+            "bn": "সৃষ্টির প্রতি দয়ার ভেতরে কী কী পড়ে, সা'দী তা খুলে বলেন। তাদের অভাবীকে দান করা, অজ্ঞকে শেখানো, তাদের যেকোনো প্রয়োজনে পাশে দাঁড়ানো, দ্বীন ও দুনিয়ার কল্যাণে সাহায্য করা। আর নিজের জন্য যা ভালোবাসে, তাদের জন্যও তা ভালোবাসা, নিজের জন্য যা অপছন্দ করে, তাদের জন্যও তা অপছন্দ করা। মাআরিফুল কুরআনে মারহামাহ মানে একে অপরের প্রতি দয়া করা, অন্যের কষ্ট নিজের মনে অনুভব করা আর কাউকে কষ্ট না দেওয়া। দুটি শব্দের সংজ্ঞা দেওয়ার পর গ্রন্থটি বলে, এর মধ্যে দ্বীনের প্রায় সব বিধান এসে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Merciful Are Shown Mercy",
+          "bn": "দয়ালুর প্রতি রহমানের দয়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir follows his gloss with: as has come in the hadith. None of the narrations he brings mentions this verse; he sets them beside it as parallels, and no tafsir read here gives the verse an occasion of revelation. At-Tirmidhi (1924) records from 'Abdullah ibn 'Amr (RA) that the Messenger of Allah ﷺ said: The merciful are shown mercy by Ar-Rahman. Be merciful on the earth, and you will be shown mercy from Who is above the heavens. The womb is named after Ar-Rahman, so whoever connects it, Allah connects him, and whoever severs it, Allah severs him. At-Tirmidhi grades it hasan sahih.",
+            "bn": "নিজের ব্যাখ্যার পর ইবন কাসীর বলেন: যেমন হাদীসে এসেছে। তাঁর আনা বর্ণনাগুলোর কোনোটিতেই এ আয়াতের উল্লেখ নেই। তিনি সেগুলো আয়াতের পাশে রাখেন সমার্থক কথা হিসেবে। এখানে পড়া কোনো তাফসীর আয়াতটির শানে নুযূলও উল্লেখ করেনি। তিরমিযী (১৯২৪) আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: দয়াশীলদের প্রতি রহমান দয়া করেন। পৃথিবীতে যারা আছে তাদের প্রতি দয়া করো, আসমানে যিনি আছেন তিনি তোমাদের প্রতি দয়া করবেন। রক্তের বন্ধন (রাহিম) রহমানেরই একটি শাখা। যে তা জুড়ে রাখে, আল্লাহ তাকে জুড়ে রাখেন, আর যে তা ছিন্ন করে, আল্লাহ তাকে ছিন্ন করেন। তিরমিযী একে হাসান সহীহ বলেছেন।"
+          },
+          {
+            "en": "His second narration is in al-Bukhari (7376), from Jarir ibn 'Abdullah (RA): Allah will not be merciful to those who are not merciful to mankind. He also cites Abu Dawud, and that report on quranx (4943), from 'Abdullah ibn 'Amr (RA), reads: Those who do not show mercy to our young ones and do not realise the right of our elders are not from us. Abu Dawud gives no grading for it there. Beside the verse, they show what the counsel to mercy guards: mercy shown is mercy received.",
+            "bn": "তাঁর দ্বিতীয় বর্ণনাটি বুখারীতে (৭৩৭৬), জারীর ইবন আবদুল্লাহ (রাঃ) থেকে: যে মানুষের প্রতি দয়া করে না, আল্লাহ তার প্রতি দয়া করেন না। তিনি আবু দাউদের বর্ণনাও আনেন। কুরআনএক্স-এ আবু দাউদের (৪৯৪৩) সেই বর্ণনা, আবদুল্লাহ ইবন আমর (রাঃ) থেকে: যে আমাদের ছোটদের প্রতি দয়া করে না এবং বড়দের হক বোঝে না, সে আমাদের দলভুক্ত নয়। সেখানে আবু দাউদ এর কোনো মান উল্লেখ করেননি। আয়াতের পাশে রাখলে বোঝা যায়, দয়ার উপদেশ আসলে কী আগলে রাখে: যে দয়া করে, সে-ই দয়া পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Companies, One Closed Fire",
+          "bn": "দুই দল, এক রুদ্ধ আগুন"
+        },
+        "p": [
+          {
+            "en": "Then 90:18: those are ashab al-maymanah. At-Tabari: those who did these deeds, freeing necks, feeding the orphan and the rest, are the people of the right, taken on the Day of Resurrection toward the right, to Paradise. Al-Qurtubi lists four explanations: they get their books in their right hands, from Muhammad ibn Ka'b al-Qurazi and others; they were blessed for themselves, from Yahya ibn Sallam; they were taken from the right side of Adam (AS), from Ibn Zayd; their station is on the right, from Maymun ibn Mihran. He gathers them: these are the people of Paradise, as in 56:27.",
+            "bn": "তারপর ৯০:১৮: তারাই আসহাবুল মাইমানাহ। তাবারী বলেন, যারা এসব কাজ করেছে, গলা মুক্ত করেছে, ইয়াতীমকে খাইয়েছে, আরও যা বলা হয়েছে, তারাই ডানপন্থী। কিয়ামতের দিন তাদের নেওয়া হবে ডান দিকে, জান্নাতের পথে। কুরতুবী চারটি ব্যাখ্যা উল্লেখ করেন। মুহাম্মাদ ইবন কা'ব কুরাযী ও অন্যদের মতে তারা ডান হাতে আমলনামা পাবে। ইয়াহইয়া ইবন সাল্লামের মতে তারা নিজেদের জন্য বরকতময়। ইবন যায়দের মতে তাদের নেওয়া হয়েছিল আদম (আঃ)-এর ডান পাশ থেকে। মাইমূন ইবন মিহরানের মতে তাদের অবস্থান ডান দিকে। কুরতুবী সবগুলো এক করে বলেন: তারা জান্নাতবাসী, যেমন ৫৬:২৭ আয়াতে।"
+          },
+          {
+            "en": "Verse 90:19 names the other company: those who disbelieved in Our signs are ashab al-mash'amah. At-Tabari reads the signs as Our proofs, marks and arguments, in the scriptures, the messengers and the rest; they are the people of the left, taken toward the left. Al-Qurtubi mirrors each explanation, ending with 56:41. As-Sa'di says they cast all this behind their backs: they did not believe, did no good and showed no mercy to Allah's servants, the reverse of 90:17. The verse describes those it describes, and licenses nothing against any living person or community.",
+            "bn": "৯০:১৯ আয়াত অন্য দলের নাম বলে: যারা আমার আয়াত অস্বীকার করেছে, তারাই আসহাবুল মাশআমাহ। তাবারীর ব্যাখ্যায় আয়াত মানে আমার প্রমাণ, নিদর্শন ও যুক্তি, কিতাব, রাসূল ও অন্য সবকিছুতে। তারা বামপন্থী, তাদের নেওয়া হবে বাম দিকে। কুরতুবী প্রতিটি ব্যাখ্যার উল্টো রূপ দেন, শেষ করেন ৫৬:৪১ দিয়ে। সা'দী বলেন, তারা এসব পেছনে ছুড়ে ফেলেছে। ঈমান আনেনি, নেক আমল করেনি, আল্লাহর বান্দাদের প্রতি দয়া করেনি। ৯০:১৭ আয়াতের ঠিক উল্টো ছবি। আয়াতটি যাদের বর্ণনা দেয়, শুধু তাদেরই বর্ণনা দেয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এটি দেয় না।"
+          },
+          {
+            "en": "Then 90:20: over them is a fire mu'sadah. At-Tabari: closed over them, and the verb is said both ways, awsadtu and asadtu. Ibn Kathir relays Mujahid, that asada al-bab in the dialect of Quraysh means he shut the door, and Qatadah: no light in it, no opening, no way out, ever. Al-Qurtubi lists Abu 'Amr, Hafs, Hamza and Ya'qub, with one transmission from al-Kisa'i, as reading the word with hamza, here and in al-Humazah, and the rest without; al-Baghawi names Abu 'Amr, Hamza and Hafs. Both say these are two dialects.",
+            "bn": "তারপর ৯০:২০: তাদের উপর থাকবে মু'সাদাহ আগুন। তাবারী বলেন, তাদের উপর বন্ধ করে দেওয়া। ক্রিয়াটি দুইভাবেই বলা হয়: আওসাদতু আর আ-সাদতু। ইবন কাসীর মুজাহিদের কথা আনেন: কুরাইশের ভাষায় আসাদাল বাব মানে সে দরজা বন্ধ করল। আর কাতাদার কথা: তাতে আলো নেই, কোনো ফাঁক নেই, বের হওয়ার পথ নেই, কখনোই না। কুরতুবী জানান, আবু আমর, হাফস, হামযা ও ইয়াকূব, আর কিসাঈ থেকে একটি বর্ণনাসূত্রে, শব্দটি হামযাসহ পড়া হয়েছে, এখানে এবং সূরা হুমাযাতেও। বাকিরা পড়েছেন হামযা ছাড়া। বাগাভী নাম করেন আবু আমর, হামযা ও হাফসের। দুজনেই বলেন, এ দুটি আরবদের দুই রকম বাকরীতি।"
+          }
+        ]
+      }
+    ]
   }
 });
