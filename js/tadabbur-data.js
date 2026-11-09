@@ -29863,6 +29863,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an calls the way of good a steep pass and makes you ask what it is before it answers; the climb is hard, but it is named, and it can be begun.",
     "lessonBn": "কুরআন কল্যাণের পথকে বলে দুর্গম গিরিপথ, আর উত্তর দেওয়ার আগে আপনাকে দিয়ে প্রশ্ন করায় সেটা কী। ওঠা কঠিন, তবে পথের নাম বলে দেওয়া আছে, আর আজই শুরু করা যায়।"
+  },
+  "90:8": {
+    "reflectionEn": "The verses just before picture a man who boasts of the fortune he has poured out and assumes no one was watching. The reply does not argue with him. It asks a question: have We not made for him two eyes? A tongue and two lips follow, and then the two roads he was shown. The question expects a yes, and every reader can give it, because the proof sits in the face that is reading. The eyes that look round for an audience were themselves a gift, and the One who gave sight does not fail to see. So the boast turns into a reckoning. What have my eyes been for today? What has my tongue done with speech, and to whom have I been showing my spending?",
+    "reflectionBn": "আগের আয়াতগুলোতে এক লোকের ছবি। সে বড়াই করে বলে, অঢেল সম্পদ উড়িয়ে দিয়েছি, আর ভাবে কেউ তাকে দেখেনি। জবাবে কোনো তর্ক নেই, আছে একটা প্রশ্ন: আমি কি তাকে দুটি চোখ দিইনি? এরপর একটি জিহ্বা আর দুটি ঠোঁট, তারপর দেখানো দুটি পথ। প্রশ্নটার উত্তর একটাই, হ্যাঁ। যে পড়ছে, সে-ই এ উত্তর দিতে পারে, কারণ প্রমাণটা তার নিজের মুখেই বসানো। যে চোখ দিয়ে মানুষ দর্শক খোঁজে, সেই চোখও তো দান। আর যিনি দেখার শক্তি দিয়েছেন, তিনি দেখেন না, তা কী করে হয়? এভাবে বড়াইটাই হিসাবের খাতা হয়ে দাঁড়ায়। আজ আমার চোখ কী কাজে লাগল? কথা বলার নেয়ামত দিয়ে আমার জিহ্বা কী করল? আর আমার খরচের কথা আমি কাকে দেখিয়ে বেড়াচ্ছি?",
+    "pointsEn": [
+      "What did my eyes spend the most time on today, and would I be glad to have that counted as the use I made of them?",
+      "When I give, am I hoping to be seen by people, or content that the One who gave me sight already sees it?",
+      "Which words this week should have stayed behind my lips, and which did I hold back that I should have said?",
+      "Do I ever mention what I have spent on others as if it left them, or my Lord, in my debt?",
+      "Of the two roads I have been shown, which one are my small daily choices wearing into a path?"
+    ],
+    "pointsBn": [
+      "আজ আমার চোখ সবচেয়ে বেশি সময় কোথায় কাটাল? চোখের ব্যবহারের হিসাবে সেটাই লেখা হলে কি আমি খুশি হব?",
+      "দান করার সময় আমি কি মানুষের চোখে পড়তে চাই, নাকি এতেই তৃপ্ত যে যিনি আমাকে দেখার শক্তি দিয়েছেন, তিনি তো দেখছেনই?",
+      "এ সপ্তাহে কোন কথাগুলো ঠোঁটের আড়ালেই থাকা উচিত ছিল? আর কোন কথা চেপে গেছি, যা বলা দরকার ছিল?",
+      "অন্যের পেছনে যা খরচ করেছি, তা কি কখনো এমনভাবে বলি, যেন তারা বা আমার রব আমার কাছে ঋণী হয়ে গেছেন?",
+      "যে দুটি পথ আমাকে দেখানো হয়েছে, আমার রোজকার ছোট ছোট সিদ্ধান্ত কোনটিকে পায়ে চলা রাস্তা বানিয়ে ফেলছে?"
+    ],
+    "lessonEn": "Your eyes, tongue and lips are gifts, and the One who gave them sees how you use them; spend sight and speech as someone who knows he is seen.",
+    "lessonBn": "চোখ, জিহ্বা আর ঠোঁট আল্লাহর দান, আর যিনি দিয়েছেন তিনি দেখেন আপনি এগুলো কীভাবে ব্যবহার করছেন। তাই দৃষ্টি আর কথাকে খরচ করুন এমন মানুষের মতো, যে জানে তাকে দেখা হচ্ছে।"
   }
 };
 

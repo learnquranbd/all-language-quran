@@ -163,6 +163,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "90:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Expecting Yes",
+          "bn": "যে প্রশ্নের উত্তর হ্যাঁ"
+        },
+        "p": [
+          {
+            "en": "Alam naj'al lahu 'aynayn: have We not made for him two eyes? The verse is four Arabic words, and it asks rather than informs. It follows straight on from 90:7, does he think that no one has seen him?, and opens a short list that runs to 90:10: two eyes, a tongue, two lips, and the two ways. Al-Qurtubi introduces it in one clause: then He counted out His favours to him. Al-Baghawi says He reminded him of His favours so that he would take heed.",
+            "bn": "আলাম নাজআল লাহু আইনাইন: আমি কি তার জন্য দুটি চোখ বানাইনি? আরবিতে মাত্র চারটি শব্দ, আর আয়াতটি খবর দেয় না, প্রশ্ন করে। ঠিক আগের আয়াতে ছিল, সে কি ভাবে তাকে কেউ দেখেনি? (৯০:৭)। তার পরেই এই আয়াত একটা ছোট তালিকা খুলে দেয়, যা চলে ৯০:১০ পর্যন্ত: দুটি চোখ, একটি জিহ্বা, দুটি ঠোঁট, আর দুটি পথ। কুরতুবী এক বাক্যে ভূমিকা টানেন: এরপর তিনি তার উপর নিজের নেয়ামতগুলো গুনে দেখালেন। বাগাভী বলেন, তিনি তাকে নেয়ামতের কথা মনে করিয়ে দিলেন, যাতে সে শিক্ষা নেয়।"
+          },
+          {
+            "en": "As-Sa'di uses the verb qarrarahu: He made him acknowledge His favours. At-Tabari relays the same idea from Qatadah: favours from Allah, one backing another, by which He makes you acknowledge them so that you will thank Him. At-Tabari also ties the verse to the boaster himself: have We not made for this man who said I have spent wealth in abundance two eyes with which he sees Allah's proofs against him, a tongue to express what he wants, and two lips, as a favour from Us?",
+            "bn": "সা'দী এখানে কাররারাহু ক্রিয়াটি ব্যবহার করেন, অর্থাৎ নেয়ামতগুলো দেখিয়ে তিনি তাকে স্বীকার করিয়ে নিলেন। তাবারী একই কথা আনেন কাতাদা থেকে: আল্লাহর নেয়ামত, একটার পিঠে আরেকটা, যা দেখিয়ে তিনি তোমাকে স্বীকার করান, যাতে তুমি শোকর করো। তাবারী আয়াতটিকে সেই বড়াইকারীর সঙ্গেও জুড়ে দেন। যে লোক বলেছিল, আমি অঢেল সম্পদ উড়িয়েছি, তাকে কি আমি দুটি চোখ দিইনি, যা দিয়ে সে নিজের বিরুদ্ধে আল্লাহর প্রমাণগুলো দেখে? দিইনি কি একটি জিহ্বা, যা দিয়ে মনের কথা বলে, আর দুটি ঠোঁট? সবই আমার পক্ষ থেকে তার প্রতি নেয়ামত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Man Behind the Boast",
+          "bn": "বড়াইয়ের পেছনের লোকটি"
+        },
+        "p": [
+          {
+            "en": "Who is the \"he\" of 90:5 to 90:8? The fetched commentators answer differently. At-Tabari, under 90:5, says it is mentioned that the verse came down about a particular man of Banu Jumah called Abu al-Ashadd, who was strong, and reads it as: does this strong man think that no one will overpower him, when Allah overpowers him? Al-Baghawi calls him Abu al-Ashaddayn, from his strength, and adds with \"it was said\" that it was al-Walid ibn al-Mughirah.",
+            "bn": "৯০:৫ থেকে ৯০:৮ পর্যন্ত যে \"সে\", সে কে? সংগৃহীত তাফসীরগুলো একমত নয়। তাবারী ৯০:৫ আয়াতের আলোচনায় বলেন, উল্লেখ আছে যে আয়াতটি বনু জুমাহর এক নির্দিষ্ট লোককে নিয়ে নাযিল হয়, তাকে ডাকা হতো আবুল আশাদ্দ, আর সে ছিল খুব শক্তিশালী। তাবারীর পাঠে অর্থ দাঁড়ায়: এই শক্তিধর কি ভাবে কেউ তাকে কাবু করতে পারবে না? অথচ আল্লাহই তাকে কাবু করেন। বাগাভী তার নাম বলেন আবুল আশাদ্দাইন, শক্তির কারণে এই নাম। তারপর \"বলা হয়েছে\" কথাটি জুড়ে আরেকটি নাম আনেন: ওয়ালীদ ইবনুল মুগীরা।"
+          },
+          {
+            "en": "Under 90:7, al-Qurtubi gives from Ibn 'Abbas (RA) that Abu al-Ashaddayn used to say he had spent a great deal in enmity to Muhammad ﷺ, and was lying in it. He also gives Muqatil's report that it came down about al-Harith ibn 'Amir ibn Nawfal, who sinned, asked the Prophet ﷺ for a ruling, was told to expiate, and complained that his wealth had gone on expiations and spending since he entered the religion. Al-Qurtubi says that remark could be boasting or regret.",
+            "bn": "৯০:৭ আয়াতের আলোচনায় কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন যে আবুল আশাদ্দাইন বলত, মুহাম্মাদ ﷺ-এর শত্রুতায় সে প্রচুর অর্থ খরচ করেছে, আর এ কথায় সে মিথ্যুক ছিল। মুকাতিলের আরেকটি বর্ণনাও তিনি দেন। তাতে আয়াতটি নাযিল হয় হারিস ইবন আমির ইবন নাওফালকে নিয়ে। সে একটা গুনাহ করে নবী ﷺ-এর কাছে ফতোয়া চায়, তিনি তাকে কাফফারা দিতে বলেন। তখন সে বলে, এই দ্বীনে ঢোকার পর থেকে আমার সম্পদ কাফফারা আর খরচেই শেষ হয়ে গেল। কুরতুবী বলেন, কথাটা খরচ নিয়ে বড়াইও হতে পারে, আবার আফসোসও।"
+          },
+          {
+            "en": "Others read the passage about the son of Adam in general. Al-Qurtubi glosses 90:5: does the son of Adam think Allah will not punish him? Ibn Kathir gives Qatadah: the son of Adam thinks he will not be asked where this wealth came from and where it went; and as-Suddi says the one with power over him is Allah. The naming reports carry no grading in the texts fetched. Whoever was meant, the verses describe one boast and its answer, and license nothing against any living person or community.",
+            "bn": "অন্যরা অংশটিকে পড়েন আদমসন্তান সবার কথা হিসেবে। কুরতুবী ৯০:৫ আয়াতের ব্যাখ্যায় বলেন, আদমসন্তান কি ভাবে আল্লাহ তাকে শাস্তি দেবেন না? ইবন কাসীর আনেন কাতাদার কথা: আদমসন্তান ভাবে, এই সম্পদ কোথা থেকে এল আর কোথায় গেল, সে প্রশ্ন তাকে কেউ করবে না। আর সুদ্দী বলেন, তার উপর যিনি ক্ষমতাবান, তিনি আল্লাহ। নাম উল্লেখ করা বর্ণনাগুলোর কোনো মান সংগৃহীত লেখায় দেওয়া নেই। লোকটি যে-ই হোক, আয়াতগুলো একটি বড়াই আর তার জবাবের বর্ণনা দেয়, এর বেশি কিছু নয়। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এগুলো দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seen by the Giver of Sight",
+          "bn": "দৃষ্টিদাতার চোখের সামনে"
+        },
+        "p": [
+          {
+            "en": "The order of the verses carries an argument. 90:7 asks whether he thinks no one has seen him; 90:8 answers with eyes. Mujahid, in Ibn Kathir, reads 90:7 as: does he think Allah, Mighty and Majestic, does not see him? Al-Qurtubi adds that Allah knew it of him, so that he lied when he said he had spent. Al-Baghawi gives al-Kalbi's version: he had not spent all he claimed, and the verse asks whether he thinks Allah did not see it and so know the real amount.",
+            "bn": "আয়াতগুলোর ক্রমের ভেতরেই একটা যুক্তি লুকিয়ে আছে। ৯০:৭ প্রশ্ন তোলে, সে কি ভাবে কেউ তাকে দেখেনি? ৯০:৮ তার জবাব দেয় চোখের কথা তুলে। ইবন কাসীরে মুজাহিদ ৯০:৭ আয়াতের অর্থ করেন: সে কি ভাবে মহান ও পরাক্রমশালী আল্লাহ তাকে দেখেন না? কুরতুবী যোগ করেন, আল্লাহ তার এ ব্যাপার জানতেন। তাই খরচ করেছি বলে সে মিথ্যা বলেছিল। বাগাভী আনেন কালবীর ভাষ্য: যত খরচের দাবি সে করেছিল, আসলে তত খরচ করেনি। আয়াত জানতে চায়, সে কি ভাবে আল্লাহ তা দেখেননি, আর তাই আসল পরিমাণও জানেন না?"
+          },
+          {
+            "en": "Al-Qurtubi, under 90:9, states the meaning of the list: We did that, and We are able to raise him and count against him what he did. As-Sa'di, under 90:7, says Allah saw him, kept his deeds on record and set the noble scribes over everything he did, good or bad. Ma'arif al-Qur'an makes the same link: the verse before showed a man who thinks no one watches his actions, and this one sets his own organs before him.",
+            "bn": "৯০:৯ আয়াতের আলোচনায় কুরতুবী তালিকাটির মর্ম বলে দেন: এসব আমিই করেছি, আর আমি তাকে আবার জীবিত করতে এবং তার সব কাজ গুনে রাখতে সক্ষম। সা'দী ৯০:৭ আয়াতের আলোচনায় বলেন, আল্লাহ তাকে দেখেছেন, তার আমল সংরক্ষণ করেছেন, আর ভালো-মন্দ যা কিছু সে করে তার উপর সম্মানিত লেখক ফেরেশতাদের নিযুক্ত করেছেন। মাআরিফুল কুরআনও একই যোগসূত্র টানে। আগের আয়াতে দেখা গেছে এমন মানুষ, যে ভাবে তার কাজের উপর কেউ নজর রাখে না। এই আয়াত তার নিজের অঙ্গগুলোই তার সামনে মেলে ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Each Gift Is For",
+          "bn": "কোন দান কোন কাজে"
+        },
+        "p": [
+          {
+            "en": "The commentators give each organ its work. Ibn Kathir: two eyes for him to see with; a tongue to speak with and to express what is inside him; two lips to help him speak and eat, and to beautify his face and mouth. Al-Qurtubi gives the lips another task: with them he covers his teeth. As-Sa'di reads the three together, for beauty, sight and speech and the other necessary benefits in them.",
+            "bn": "প্রতিটি অঙ্গের কাজ তাফসীরকারেরা আলাদা করে বলে দেন। ইবন কাসীরের ভাষায়: দুটি চোখ, যা দিয়ে সে দেখে। একটি জিহ্বা, যা দিয়ে কথা বলে আর মনের ভেতরের কথা প্রকাশ করে। দুটি ঠোঁট, যা কথা বলায় আর খাবার খাওয়ায় সাহায্য করে, আবার মুখ ও চেহারার সৌন্দর্যও বাড়ায়। কুরতুবী ঠোঁটের আরেকটি কাজ বলেন: এ দিয়ে মানুষ নিজের দাঁত ঢেকে রাখে। সা'দী তিনটিকে একসঙ্গে পড়েন সৌন্দর্য, দৃষ্টি আর কথার জন্য, সঙ্গে আরও যত জরুরি উপকার।"
+          },
+          {
+            "en": "As-Sa'di then draws a line the passage itself suggests. Eyes, tongue and lips, he says, are the favours of this world. When 90:10 says We showed him the two ways, he heads it as the favours of religion: Allah made clear to him guidance from misguidance, and right conduct from error. The list moves from the body to the conscience. Ma'arif al-Qur'an, reading 90:8 to 90:10 together, does the same, setting the two ways beside 91:8: He inspired the soul with its wickedness and its piety.",
+            "bn": "এরপর সা'দী একটা সীমারেখা টানেন, যার ইঙ্গিত অংশটির ভেতরেই আছে। তাঁর মতে চোখ, জিহ্বা আর ঠোঁট দুনিয়ার নেয়ামত। আর ৯০:১০ আয়াতে যখন বলা হয়, আমি তাকে দুটি পথ দেখিয়েছি, সেটাকে তিনি গণ্য করেন দ্বীনের নেয়ামত হিসেবে। আল্লাহ তার সামনে হেদায়াত আর গোমরাহি, সঠিক পথ আর ভ্রান্তি আলাদা করে স্পষ্ট করে দিয়েছেন। তালিকাটা তাই শরীর থেকে বিবেকের দিকে এগোয়। মাআরিফুল কুরআন ৯০:৮ থেকে ৯০:১০ একসঙ্গে পড়ে একই কাজ করে। দুটি পথের পাশে সে রাখে ৯১:৮ আয়াত: তিনি আত্মাকে তার পাপ আর তাকওয়ার জ্ঞান দিয়েছেন।"
+          },
+          {
+            "en": "Ma'arif then lingers on the eye itself: the lids, lashes and brows that guard it, and the lids that close of themselves when something comes at it. On the tongue it is sharper. A word of faith said in half a minute can take a man out of the Fire and into the Garden, and a word of disbelief can do the reverse. The tongue, it says, is a double-edged sword, so Allah kept it covered within the case of two lips, and that is probably why the lips are named.",
+            "bn": "এরপর মাআরিফুল কুরআন চোখের গঠন নিয়ে কিছুক্ষণ থামে। পাপড়ি, পলক আর ভ্রু চোখকে আগলে রাখে। সামনে থেকে কিছু ছুটে এলে পলক নিজে থেকেই বন্ধ হয়ে যায়। জিহ্বার বেলায় তার কথা আরও ধারালো। আধা মিনিটে বলা ঈমানের একটি কথা মানুষকে জাহান্নাম থেকে বের করে জান্নাতে পৌঁছে দিতে পারে, আর কুফরের একটি কথা ঘটাতে পারে ঠিক উল্টোটা। তার ভাষায় জিহ্বা দুই দিকে ধারওয়ালা তলোয়ার। তাই আল্লাহ একে দুটি ঠোঁটের খাপে ঢেকে রেখেছেন। সম্ভবত এ কারণেই আয়াতে ঠোঁটের উল্লেখ এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lids and Lips as Covers",
+          "bn": "ঢাকনা হিসেবে পলক ও ঠোঁট"
+        },
+        "p": [
+          {
+            "en": "The thought of lids and lips as covers also reaches the commentaries through narrations raised to the Prophet ﷺ, and these need care. Ibn Kathir relays one that al-Hafiz Ibn 'Asakir recorded in a biographical entry, from Makhul, about covers Allah gave to the eyes, the tongue and the private parts. Ibn Kathir gives it no grading, and his text names no Companion between Makhul and the Prophet ﷺ. Al-Qurtubi relays one on the same topic from Abu Hazim, again with no Companion named and no grading.",
+            "bn": "পলক আর ঠোঁট যে ঢাকনা, এ ভাবনা তাফসীরে নবী ﷺ-এর নামে বর্ণিত কিছু রেওয়ায়েতের মাধ্যমেও এসেছে। এগুলোর বেলায় সাবধানতা দরকার। ইবন কাসীর একটি বর্ণনা আনেন, যা হাফিয ইবন আসাকির এক জীবনী-অধ্যায়ে মাকহূল থেকে লিপিবদ্ধ করেছেন। বিষয়: চোখ, জিহ্বা আর লজ্জাস্থানের জন্য আল্লাহ যে আবরণ দিয়েছেন। ইবন কাসীর এর কোনো মান উল্লেখ করেননি, আর তাঁর লেখায় মাকহূল ও নবী ﷺ-এর মাঝে কোনো সাহাবীর নাম নেই। কুরতুবী একই বিষয়ে আবু হাযিম থেকে একটি বর্ণনা আনেন। সেখানেও কোনো সাহাবীর নাম নেই, মানও বলা নেই।"
+          },
+          {
+            "en": "Al-Baghawi introduces a similar narration only with the words \"it has come in the hadith\". None of the three is confirmed on a hadith page fetched for this article, so their wording is not given here and nothing is built on them. No fetched commentary attaches a sound hadith to 90:8 itself. What stands on firm ground is the plain sense the commentators give in their own words: lips that speak, eat and cover the teeth, and gifts that call for thanks.",
+            "bn": "বাগাভী অনুরূপ একটি বর্ণনা আনেন শুধু \"হাদীসে এসেছে\" বলে। তিনটির কোনোটিই এ লেখার জন্য সংগৃহীত কোনো হাদীস-পাতায় নিশ্চিত হয়নি। তাই এগুলোর ভাষা এখানে উদ্ধৃত হয়নি, আর এগুলোর উপর কিছু দাঁড় করানোও হয়নি। সংগৃহীত কোনো তাফসীর ৯০:৮ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। নিশ্চিত ভিত্তির উপর দাঁড়িয়ে আছে তাফসীরকারদের নিজেদের ভাষায় বলা সরল অর্থটুকু: ঠোঁট কথা বলে, খেতে সাহায্য করে, দাঁত ঢেকে রাখে। আর এসব দান শোকর দাবি করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Roads on High Ground",
+          "bn": "উঁচু জমিনের দুই পথ"
+        },
+        "p": [
+          {
+            "en": "Wa-hadaynahu an-najdayn, in 90:10, closes the list. At-Tabari, al-Qurtubi and al-Baghawi agree on the word: a najd is a road that climbs, and al-Qurtubi adds that the region of Najd is named for rising above low-lying Tihamah. Most read the two high roads as good and evil. At-Tabari and Ibn Kathir give this from Ibn Mas'ud (RA) through Zirr; at-Tabari also has it from Ibn 'Abbas (RA), as guidance and misguidance, and from Mujahid, 'Ikrimah and ad-Dahhak. Al-Baghawi calls it the view of most commentators.",
+            "bn": "৯০:১০ আয়াতের ওয়া হাদাইনাহুন নাজদাইন দিয়ে তালিকাটি শেষ হয়। শব্দটির অর্থে তাবারী, কুরতুবী আর বাগাভী একমত: নাজদ মানে উপরের দিকে উঠে যাওয়া পথ। কুরতুবী যোগ করেন, নিচু তিহামার তুলনায় উঁচু বলেই নাজদ অঞ্চলের এই নাম। বেশিরভাগ তাফসীরকার দুই উঁচু পথকে ভালো আর মন্দের পথ বলে পড়েন। তাবারী ও ইবন কাসীর এ মত আনেন ইবন মাসউদ (রাঃ) থেকে, যির-এর সূত্রে। তাবারী এটি ইবন আব্বাস (রাঃ) থেকেও আনেন হেদায়াত ও গোমরাহি অর্থে, আর আনেন মুজাহিদ, ইকরিমা ও দাহহাক থেকে। বাগাভী একে বলেন অধিকাংশ মুফাসসিরের মত।"
+          },
+          {
+            "en": "A second reading takes an-najdayn as the mother's two breasts, the infant's two roads to milk. At-Tabari gives it from Ibn 'Abbas (RA) through 'Isa ibn 'Iqal, and from ad-Dahhak through Juwaybir, so ad-Dahhak appears on both sides. Al-Qurtubi gives it from 'Ikrimah, Sa'id ibn al-Musayyib and ad-Dahhak, and as reported from Ibn 'Abbas and 'Ali (RA), explaining that the breasts are like two roads for the child's life and provision. Ar-Rabi' ibn Khuthaym, in at-Tabari, rejected it: they are not the two breasts.",
+            "bn": "দ্বিতীয় একটি পাঠে নাজদাইন মানে মায়ের দুটি স্তন, শিশুর দুধ পাওয়ার দুই পথ। তাবারী এটি আনেন ইবন আব্বাস (রাঃ) থেকে ঈসা ইবন ইকালের সূত্রে, আর দাহহাক থেকে জুওয়াইবিরের সূত্রে। ফলে দাহহাকের নাম দুই দিকেই পাওয়া যায়। কুরতুবী এ মত আনেন ইকরিমা, সাঈদ ইবনুল মুসাইয়িব আর দাহহাক থেকে, এবং ইবন আব্বাস ও আলী (রাঃ) থেকে বর্ণিত বলে। তাঁর ব্যাখ্যা: স্তন দুটি শিশুর জীবন আর রিজিকের জন্য যেন দুটি পথ। তাবারীতে রবী' ইবন খুসাইম এ পাঠ নাকচ করেন। তাঁর কথা: এ দুটি স্তন নয়।"
+          },
+          {
+            "en": "At-Tabari judged good and evil the sounder reading, reasoning that when Allah counts His favours on His servant in 76:2 and 76:3, He counts guiding him to the way; Ibn Kathir relays that verdict. A saying on the two highways reaches at-Tabari and Ibn Kathir from al-Hasan and Qatadah with no Companion named, and Ibn Kathir calls both mursal. Ibn Kathir's linked version from Anas (RA) runs only through Sinan ibn Sa'd, whom Ibn Ma'in trusted and Ahmad and an-Nasa'i called munkar al-hadith. It is mentioned, not used.",
+            "bn": "তাবারী ভালো-মন্দের পাঠকেই বেশি সঠিক ধরেছেন। তাঁর যুক্তি: ৭৬:২ ও ৭৬:৩ আয়াতে আল্লাহ যখন বান্দার উপর নিজের নেয়ামত গোনেন, তখন পথ দেখানোকেই নেয়ামত হিসেবে গোনেন। ইবন কাসীর তাবারীর এ রায় উদ্ধৃত করেন। দুই উঁচু পথ নিয়ে একটি উক্তি তাবারী ও ইবন কাসীরে পৌঁছেছে হাসান বসরী আর কাতাদা থেকে। মাঝে কোনো সাহাবীর নাম নেই, আর ইবন কাসীর দুটিকেই মুরসাল বলেন। আনাস (রাঃ) থেকে ইবন কাসীরের সংযুক্ত সূত্রটি চলে কেবল সিনান ইবন সা'দের মাধ্যমে। ইবন মাঈন তাঁকে নির্ভরযোগ্য বলেছেন, আর আহমাদ ও নাসাঈ বলেছেন মুনকারুল হাদীস। বর্ণনাটির শুধু উল্লেখ রইল, ব্যবহার নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked About What Was Given",
+          "bn": "যা দেওয়া হয়েছে, তার জিজ্ঞাসা"
+        },
+        "p": [
+          {
+            "en": "Under 90:7, al-Qurtubi relays briefly from Abu Hurayra (RA), without raising it to the Prophet ﷺ in his text, a report about a man questioned over the wealth he spent. Sahih Muslim (1905) carries from Abu Hurayra (RA), from the Prophet ﷺ, a fuller narration of three men judged first on the Day of Resurrection: one killed in battle, one who learned and taught, and one given wealth. None of the fetched commentators attaches it to 90:8; it is a general narration, set beside the verse here.",
+            "bn": "৯০:৭ আয়াতের আলোচনায় কুরতুবী আবু হুরায়রা (রাঃ) থেকে সংক্ষেপে একটি বর্ণনা আনেন, তাঁর লেখায় নবী ﷺ পর্যন্ত না পৌঁছিয়ে। বিষয়: খরচ করা সম্পদ নিয়ে এক লোককে জিজ্ঞাসাবাদ। সহীহ মুসলিমে (১৯০৫) আবু হুরায়রা (রাঃ) নবী ﷺ থেকে আরও পূর্ণ একটি হাদীস বর্ণনা করেছেন। কিয়ামতের দিন সবার আগে যে তিনজনের বিচার হবে, তাদের কথা: যুদ্ধে নিহত একজন, জ্ঞান শিখে শেখানো একজন, আর সম্পদ পাওয়া একজন। সংগৃহীত কোনো তাফসীর একে ৯০:৮ আয়াতের সঙ্গে যুক্ত করেনি। এটি সাধারণ একটি হাদীস, এখানে আয়াতের পাশে রাখা হলো মাত্র।"
+          },
+          {
+            "en": "The third man, in the page's English: \"Then will be brought a man whom Allah had made abundantly rich and had granted every kind of wealth. He will be brought and Allah will make him recount His blessings and he will recount them and (admit having enjoyed them in his lifetime). Allah will (then) ask: What have you done (to requite these blessings)? He will say: I spent money in every cause in which Thou wished that it should be spent. Allah will say: You are lying. You did (so) that it might be said about (You): 'He is a generous fellow' and so it was said.\"",
+            "bn": "তৃতীয় লোকটির কথা হাদীসে এভাবে এসেছে: আরেকজন লোক, যাকে আল্লাহ প্রাচুর্য দিয়েছিলেন এবং সব রকম সম্পদ দান করেছিলেন। তাকে আনা হবে। আল্লাহ তাকে নিজের নেয়ামতগুলো চিনিয়ে দেবেন, আর সে সেগুলো চিনবে। তিনি জিজ্ঞেস করবেন, এগুলো দিয়ে তুমি কী করেছ? সে বলবে, যে পথে খরচ হওয়া আপনি পছন্দ করেন, এমন কোনো পথ আমি বাদ রাখিনি, আপনার জন্য সব পথেই খরচ করেছি। আল্লাহ বলবেন, তুমি মিথ্যা বলেছ। বরং তুমি এসব করেছ যাতে বলা হয়, সে বড় দানশীল। আর তা বলা হয়েছে।"
+          },
+          {
+            "en": "The Arabic says of each man fa-'arrafahu ni'amahu fa-'arafaha: He made him recognise His favours, and he recognised them. That is the shape of 90:8, a question that draws out an admission of what was given before anything is asked about its use. Qatadah's two questions, in Ibn Kathir and at-Tabari, point the same way: where the wealth came from and where it went. The verse opens that reckoning with eyes and a tongue, before wealth is even named.",
+            "bn": "হাদীসের আরবিতে প্রত্যেকের বেলায় আছে: ফাআররাফাহু নিআমাহু ফাআরাফাহা, তিনি তাকে নিজের নেয়ামত চিনিয়ে দেবেন, আর সে চিনবে। ৯০:৮ আয়াতের গড়নও এমন। প্রশ্নটা আগে স্বীকার করিয়ে নেয় কী দেওয়া হয়েছিল, ব্যবহারের প্রশ্ন আসে তার পরে। ইবন কাসীর ও তাবারীতে কাতাদার দুটি প্রশ্নও একই দিকে ইশারা করে: সম্পদ কোথা থেকে এল, আর কোথায় গেল। আয়াতটি সেই হিসাব শুরু করে চোখ আর জিহ্বা দিয়ে, সম্পদের নাম আসার আগেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeing Before the Climb",
+          "bn": "চড়াইয়ের আগে দেখা"
+        },
+        "p": [
+          {
+            "en": "The list is followed at once by 90:11: yet he has not attempted the steep pass. As-Sa'di draws the link. These great favours, he says, require the servant to fulfil Allah's rights, to thank Him for His favours and not to use them as help in disobeying Him, yet this man did not do that. Ma'arif al-Qur'an says the same in its own words: all these bounties did not move him to attempt the steep course. What the pass is, the verses after explain.",
+            "bn": "তালিকার ঠিক পরেই আসে ৯০:১১: তবু সে দুর্গম গিরিপথে পা বাড়ায়নি। সা'দী দুটিকে জুড়ে দেন। তাঁর কথা, এত বড় নেয়ামতের দাবি হলো বান্দা আল্লাহর হক আদায় করবে, তাঁর নেয়ামতের শোকর করবে, আর সেগুলোকে তাঁর নাফরমানির কাজে লাগাবে না। কিন্তু এই লোক তা করেনি। মাআরিফুল কুরআনও নিজের ভাষায় একই কথা বলে: এত সব নেয়ামতও তাকে দুর্গম পথে ওঠার চেষ্টায় নামাতে পারেনি। গিরিপথটা কী, পরের আয়াতগুলো তা খুলে বলে।"
+          },
+          {
+            "en": "Ma'arif closes its passage with a line that turns the verse into a practice: the heedless man should look into his own being, observe with his two eyes and confess with his tongue. At-Tabari's gloss gives the eyes a sharper task, to see Allah's proofs against him. Read together, 90:8 asks each reader whether the eyes in their face have been used to look for an audience, or to see the signs, and the needs, set in front of them.",
+            "bn": "মাআরিফুল কুরআন আলোচনা শেষ করে এমন এক কথায়, যা আয়াতটিকে আমলে নিয়ে আসে। গাফেল মানুষের উচিত নিজের ভেতরে তাকানো, দুই চোখ দিয়ে দেখা আর জিহ্বা দিয়ে স্বীকার করা। তাবারীর ব্যাখ্যা চোখকে আরও কঠিন একটা কাজ দেয়: নিজের বিরুদ্ধে আল্লাহর প্রমাণগুলো দেখা। দুটো মিলিয়ে পড়লে ৯০:৮ প্রত্যেক পাঠককে জিজ্ঞেস করে, আপনার চোখ কি এতদিন দর্শক খুঁজে বেড়িয়েছে? নাকি সামনে রাখা নিদর্শনগুলো আর মানুষের প্রয়োজনগুলো দেখেছে?"
+          },
+          {
+            "en": "A gift held up as a question asks for a reply in conduct. The man of 90:6 counted out what he had spent and wanted it seen. The verse answers by counting what he had been given, and the list is longer than his: sight, speech, the lips that guard it, and two roads shown, with the steep one waiting.",
+            "bn": "প্রশ্নের আকারে সামনে ধরা দানের জবাব দিতে হয় আচরণ দিয়ে। ৯০:৬ আয়াতের লোকটি নিজের খরচ গুনে গুনে বলেছিল, চেয়েছিল সবাই দেখুক। আয়াত জবাব দেয় তাকে কী কী দেওয়া হয়েছিল, তা গুনে। আর সেই তালিকা তার তালিকার চেয়ে লম্বা: দৃষ্টি, কথা, কথাকে আগলে রাখা ঠোঁট, আর দেখিয়ে দেওয়া দুটি পথ, যার একটি খাড়া চড়াই, অপেক্ষায় আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "90:12": {
     "sections": [
       {
