@@ -29743,6 +29743,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Make sure your hardest efforts are for Allah and on His path, and leave the end of every other person, whatever their faith, to Him alone.",
     "lessonBn": "আপনার সবচেয়ে কঠিন পরিশ্রমটা যেন আল্লাহর জন্য আর তাঁর পথে হয়, তা নিশ্চিত করুন। আর অন্য প্রত্যেক মানুষের পরিণাম, তার ধর্ম যা-ই হোক, একমাত্র তাঁর হাতে ছেড়ে দিন।"
+  },
+  "85:19": {
+    "reflectionEn": "After the stories of Pharaoh and Thamud, the surah turns: yet those who disbelieve are in denial. The stories had reached them, and they stayed inside their refusal anyway, the way someone can live in a room so long that they stop noticing its walls. Then the next verse widens the view. Allah is behind them, encompassing them. Denial can close around a heart, but the denial is itself surrounded. And what they denied loses nothing by being denied: it is a glorious Qur'an, in a preserved Tablet. So the question turns to me. Which warning have I heard so often that it no longer reaches me? And do I live as someone who knows there is no way out from behind?",
+    "reflectionBn": "ফেরাউন আর সামূদের কাহিনি শেষ হতেই সূরা মোড় নেয়: তবুও কাফিররা অস্বীকারের মধ্যেই ডুবে আছে। কাহিনিগুলো তাদের কানে পৌঁছেছিল। তবু তারা নিজেদের প্রত্যাখ্যানের ভেতরেই রয়ে গেল। অনেক দিন এক ঘরে থাকলে মানুষ যেমন তার দেয়ালগুলো আর খেয়ালই করে না, ব্যাপারটা তেমন। পরের আয়াত দৃষ্টিটা বড় করে দেয়। আল্লাহ তাদের পেছন থেকে ঘিরে রেখেছেন। অস্বীকার একটা হৃদয়কে ঘিরে ফেলতে পারে, কিন্তু সেই অস্বীকারও ঘেরাওয়ের ভেতরে। আর যাকে তারা অস্বীকার করল, তাতে তার কিছুই কমে না। তা মহিমান্বিত কুরআন, সংরক্ষিত ফলকে লেখা। এবার প্রশ্নটা আমার দিকে ফেরে। কোন সতর্কবাণী আমি এত বার শুনেছি যে তা আর আমার ভেতরে পৌঁছায় না? আর আমি কি এমনভাবে বাঁচি, যেন জানি পেছন দিয়ে পালানোর কোনো পথ নেই?",
+    "pointsEn": [
+      "Which reminder have I heard so many times that I now hear it without letting it reach me?",
+      "When I push back against something true, is it the evidence I am weighing, or my own wishes and the habits I inherited?",
+      "If Allah surrounds me on every side, what do I do in private that I would stop if I kept that in mind?",
+      "Do I treat the Qur'an as glorious in the way I read it and act on it, or only in what I say about it?",
+      "When people reject what I hold true, do I lose heart, or remember that a Book Allah keeps is not made smaller by being denied?"
+    ],
+    "pointsBn": [
+      "কোন উপদেশ আমি এত বার শুনেছি যে এখন শুনি ঠিকই, কিন্তু ভেতরে ঢুকতে দিই না?",
+      "সত্য কোনো কথা মানতে যখন আমার আপত্তি জাগে, তখন আমি কি আসলে প্রমাণ মাপছি? নাকি নিজের ইচ্ছা আর বাপদাদার কাছ থেকে পাওয়া অভ্যাস আমাকে টানছে?",
+      "আল্লাহ যদি আমাকে চারদিক থেকে ঘিরে রাখেন, তাহলে একা থাকলে আমি এমন কী করি, যা কথাটা মনে থাকলে ছেড়ে দিতাম?",
+      "কুরআনকে কি আমি মহিমান্বিত মানি পড়ায় আর আমলে, নাকি শুধু মুখের কথায়?",
+      "আমি যাকে সত্য জানি, মানুষ তা প্রত্যাখ্যান করলে কি আমি ভেঙে পড়ি? নাকি মনে রাখি, যে কিতাব আল্লাহ নিজে সংরক্ষণ করেন, অস্বীকারে তা ছোট হয় না?"
+    ],
+    "lessonEn": "Denial can wall in a heart, yet Allah encompasses the denier, and the Qur'an stays glorious and preserved whatever is said of it; let the warnings reach you.",
+    "lessonBn": "অস্বীকার হৃদয়কে দেয়ালে ঘিরে ফেলতে পারে, কিন্তু অস্বীকারকারীকে ঘিরে আছেন আল্লাহ। কে কী বলল তাতে কুরআনের মহিমা আর সংরক্ষণ একটুও কমে না। তাই সতর্কবাণীগুলোকে ভেতরে পৌঁছাতে দিন।"
   }
 };
 

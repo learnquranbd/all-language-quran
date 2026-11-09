@@ -594,5 +594,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "85:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Bal: The Turn After the Hosts",
+          "bn": "বাল: বাহিনীর পরে মোড়"
+        },
+        "p": [
+          {
+            "en": "Bal alladhina kafaru fi takdhib: rather, those who disbelieve are in denial. The verse is five words in the Arabic, and it opens with bal, rather. Just before it, 85:17 asked whether the story of the hosts had reached the Prophet ﷺ, and 85:18 named them, Fir'awn and Thamud; 85:17 has its own entry, and the story is not retold here. The Muyassar fills the gap that bal leaves with a short clause: lam ya'tabir al-qawm bi-dhalika, the people took no lesson from it. The report had reached them. It changed nothing.",
+            "bn": "বালিল্লাযীনা কাফারূ ফী তাকযীব: বরং যারা কুফরি করেছে, তারা অস্বীকারে লিপ্ত। আরবিতে আয়াতটি পাঁচ শব্দের, আর শুরু হয়েছে বাল, অর্থাৎ বরং, দিয়ে। ঠিক আগে ৮৫:১৭ আয়াতে নবী ﷺ-কে জিজ্ঞেস করা হয়েছে, বাহিনীর খবর কি তাঁর কাছে পৌঁছেছে। ৮৫:১৮ আয়াতে তাদের নাম এসেছে: ফেরাউন ও সামূদ। ৮৫:১৭ আয়াতের আলাদা ভুক্তি আছে, কাহিনিটি এখানে আবার বলা হচ্ছে না। বাল শব্দটি যে ফাঁক রেখে যায়, মুয়াসসার তা ভরেন ছোট এক বাক্যে: লাম ইয়া'তাবিরিল কাওমু বিযালিক, লোকেরা এ থেকে কোনো শিক্ষা নেয়নি। খবর তাদের কাছে পৌঁছেছিল, কিন্তু কিছুই বদলায়নি।"
+          },
+          {
+            "en": "The verse is the first of four that close the surah, in two pairs. 85:19 and 85:20 speak of the deniers and the One who surrounds them; 85:21 and 85:22 speak of what they denied. Each pair opens with the same bal. Read together, they set two things side by side with the small word fi, in: the deniers are fi takdhib, in denial, and the Qur'an is fi lawh, in a Tablet. One is a place people shut themselves into; the other is where Allah keeps His word.",
+            "bn": "সূরাটি শেষ হয়েছে চারটি আয়াতে, আর এ আয়াত তাদের প্রথমটি। চারটিকে দুই জোড়ায় ভাগ করা যায়। ৮৫:১৯ ও ৮৫:২০ আয়াতে কথা অস্বীকারকারীদের নিয়ে, আর যিনি তাদের ঘিরে আছেন তাঁকে নিয়ে। ৮৫:২১ ও ৮৫:২২ আয়াতে কথা সেই জিনিস নিয়ে, যাকে তারা অস্বীকার করেছে। দুই জোড়াই শুরু হয় একই অব্যয় বাল দিয়ে। একসঙ্গে পড়লে দেখা যায়, ছোট্ট শব্দ ফী, অর্থাৎ মধ্যে, দুটি জিনিসকে পাশাপাশি দাঁড় করায়। অস্বীকারকারীরা আছে ফী তাকযীব, অস্বীকারের মধ্যে। আর কুরআন আছে ফী লাওহ, এক ফলকের মধ্যে। প্রথমটি এমন জায়গা, যেখানে মানুষ নিজেকে আটকে ফেলে। দ্বিতীয়টি সেই জায়গা, যেখানে আল্লাহ তাঁর বাণী সংরক্ষণ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Desire and the Fathers' Ways",
+          "bn": "খেয়ালখুশি আর বাপদাদার পথ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the verse as answering an unspoken excuse. It is not, he writes, that these people who deny Allah's warning never received the news of earlier nations who denied His messengers, Fir'awn and his people, Thamud and their like, and the retribution that came on them. Rather they are in their denial of Allah's revelation, ithar minhum li-ahwa'ihim wa ittiba'an minhum li-sunan aba'ihim: preferring their own desires, and following the ways of their fathers. He names two causes, and neither of them is a lack of information.",
+            "bn": "তাবারী আয়াতটিকে পড়েন না-বলা এক অজুহাতের জবাব হিসেবে। তাঁর ভাষায়, ব্যাপারটা এমন নয় যে আল্লাহর সতর্কবাণী অস্বীকারকারী এ লোকেরা আগের জাতিগুলোর খবর পায়নি। ফেরাউন ও তার কওম, সামূদ ও তাদের মতো যারা আল্লাহর রাসূলদের অস্বীকার করেছিল, আর তাদের উপর যে শাস্তি নেমেছিল, সে খবর তারা জানত। আসলে তারা আল্লাহর ওহি অস্বীকারের মধ্যেই আছে, ঈসারান মিনহুম লিআহওয়াইহিম ওয়া ইত্তিবাআন মিনহুম লিসুনানি আবাইহিম: নিজেদের খেয়ালখুশিকে প্রাধান্য দিয়ে, আর বাপদাদার রীতি মেনে। তিনি দুটি কারণ বলেন। কোনোটিই খবরের অভাব নয়।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi say who is meant. For al-Baghawi it is min qawmika ya Muhammad, those of your people, O Muhammad, in denial of you and of the Qur'an, ka-da'bi Al Fir'awn, in the manner of Fir'awn's people before them; they did not take warning from the disbelievers who came earlier. Al-Qurtubi writes: of those who do not believe in you, in denial of you, like the way of those before them. In both, the verse tells the Prophet ﷺ about the people in front of him and links their refusal to the ones just recalled.",
+            "bn": "কারা উদ্দেশ্য, বাগাভী ও কুরতুবী তা বলে দেন। বাগাভীর মতে তারা মিন কাওমিকা ইয়া মুহাম্মাদ, হে মুহাম্মাদ, তোমার কওমের লোকেরা। তারা তোমাকে আর কুরআনকে অস্বীকার করছে, কা-দা'বি আলি ফির'আওন, তাদের আগের ফেরাউনের লোকদের ধারায়। আগের কাফিরদের পরিণতি থেকে তারা শিক্ষা নেয়নি। কুরতুবী লেখেন: যারা তোমার উপর ঈমান আনে না, তারা তোমাকে অস্বীকার করছে, তাদের পূর্বসূরিদের ধারায়। দুজনের ব্যাখ্যাতেই আয়াতটি নবী ﷺ-কে তাঁর সামনের লোকদের কথা বলছে, আর তাদের প্রত্যাখ্যানকে জুড়ে দিচ্ছে এইমাত্র স্মরণ করা প্রত্যাখ্যানগুলোর সঙ্গে।"
+          },
+          {
+            "en": "The translation adds the word persistent in brackets, and the commentators supply it. As-Sa'di: la yazaluna mustamirrin 'ala at-takdhib wa al-'inad, they go on and on in denial and obstinacy; signs do not benefit them and admonitions avail them nothing. The Muyassar calls the denial mutawasil, continuous. Ibn Kathir opens it into four words: fi shakk wa rayb wa kufr wa 'inad, in doubt, suspicion, disbelief and obstinacy. His list begins with uncertainty and ends with stubbornness; as-Sa'di's stays with the stubbornness. Both describe a state people live in, not a single act.",
+            "bn": "অনুবাদে বন্ধনীর মধ্যে স্থায়ী শব্দটি যোগ করা আছে, আর শব্দটি তাফসীরকারদের কাছ থেকেই আসে। সা'দী লেখেন: লা ইয়াযালূনা মুসতামিররীনা আলাত তাকযীবি ওয়াল ইনাদ, তারা অস্বীকার আর জেদের মধ্যে লেগেই থাকে। নিদর্শন তাদের কাজে আসে না, উপদেশও তাদের কিছু দেয় না। মুয়াসসার এ অস্বীকারকে বলেন মুতাওয়াসিল, অবিরাম। ইবন কাসীর এটিকে খুলে চারটি শব্দে বলেন: ফী শাক্কিন ওয়া রাইবিন ওয়া কুফরিন ওয়া ইনাদ, সন্দেহ, সংশয়, কুফর আর জেদের মধ্যে। তাঁর তালিকা শুরু হয় দ্বিধা দিয়ে, শেষ হয় একগুঁয়েমিতে। সা'দী থাকেন একগুঁয়েমিতেই। দুজনেই এমন অবস্থার কথা বলেন, যার মধ্যে মানুষ বাস করে। এটা কোনো একবারের কাজ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Encompassed by Knowledge and Power",
+          "bn": "জ্ঞানে ও ক্ষমতায় ঘেরা"
+        },
+        "p": [
+          {
+            "en": "Then 85:20: wa-Allahu min wara'ihim muhit, and Allah, from behind them, is encompassing. The commentators read muhit in two directions. At-Tabari reads it as knowledge of deeds: muhit bi-a'malihim muhsin laha, encompassing their deeds and counting them, so that nothing of them is hidden from Him, and He will requite them for all of it. On this reading the verse answers the denial with a record. Whatever the deniers say or do while they stay in their denial is being counted, item by item, by the One they deny.",
+            "bn": "এরপর ৮৫:২০ আয়াত: ওয়াল্লাহু মিন ওয়ারাইহিম মুহীত, আর আল্লাহ তাদের পেছন থেকে পরিবেষ্টনকারী। মুহীত শব্দটিকে তাফসীরকারেরা দুই দিক থেকে পড়েন। তাবারী একে আমলের জ্ঞান হিসেবে বোঝেন: মুহীতুন বিআ'মালিহিম মুহসিন লাহা, তিনি তাদের আমলকে ঘিরে আছেন, গুনে গুনে রাখছেন। তার কিছুই তাঁর কাছে গোপন নয়, আর সবকিছুরই তিনি প্রতিদান দেবেন। এ পাঠে আয়াতটি অস্বীকারের জবাব দেয় একটা হিসাবের খাতা দিয়ে। অস্বীকারের মধ্যে থেকে তারা যা-ই বলে বা করে, যাঁকে তারা অস্বীকার করছে, তিনিই তার প্রতিটি জিনিস গুনে রাখছেন।"
+          },
+          {
+            "en": "Ibn Kathir reads it as power: qadir 'alayhim qahir, la yafutunahu wa la yu'jizunahu, able over them and subduing them; they do not slip past Him and do not frustrate Him. Al-Qurtubi starts in the same place: He is able to bring on them what He brought on Fir'awn. Then he adds an image, al-muhat bihi ka-al-mahsur: whoever is encompassed is like someone under siege. Only after that does he record, as another view introduced with qila, it was said, that the word means Allah knows them and will requite them.",
+            "bn": "ইবন কাসীর একে পড়েন ক্ষমতা হিসেবে: কাদিরুন আলাইহিম কাহির, লা ইয়াফূতূনাহু ওয়ালা ইউ'জিযূনাহু। তিনি তাদের উপর ক্ষমতাবান, তাদের দমনকারী। তারা তাঁকে এড়িয়ে যেতে পারে না, তাঁকে অক্ষমও করতে পারে না। কুরতুবীও শুরু করেন এখান থেকে: ফেরাউনের উপর যা নামিয়েছিলেন, তাদের উপরও তা নামাতে তিনি সক্ষম। তারপর তিনি একটা ছবি যোগ করেন, আল-মুহাতু বিহী কাল-মাহসূর: যাকে ঘিরে ফেলা হয়েছে, সে অবরুদ্ধ মানুষের মতো। এর পরেই তিনি কীলা, বলা হয়েছে, দিয়ে আরেকটি মত আনেন: শব্দটির অর্থ, আল্লাহ তাদের জানেন এবং তাদের প্রতিদান দেবেন।"
+          },
+          {
+            "en": "As-Sa'di joins the two: ahata bihim 'ilman wa qudratan, He encompasses them in knowledge and in power. He sets beside it 89:14, Indeed, your Lord is in observation, and finds in the verse a severe warning to the disbelievers of punishment from Him in whose grip they are and under whose disposal. Al-Baghawi and the Muyassar also hold both meanings. None of the texts consulted here glosses min wara'ihim, from behind them, on its own. Their difference lies in emphasis, not contradiction.",
+            "bn": "সা'দী দুটিকে এক করেন: আহাতা বিহিম ইলমান ওয়া কুদরাতান, তিনি জ্ঞানে ও ক্ষমতায় তাদের ঘিরে আছেন। পাশে তিনি রাখেন ৮৯:১৪ আয়াত: নিশ্চয় তোমার রব সতর্ক দৃষ্টি রাখছেন। তাঁর মতে আয়াতটিতে কাফিরদের জন্য কঠিন হুঁশিয়ারি আছে। শাস্তি আসবে এমন সত্তার কাছ থেকে, যাঁর মুঠোয় তারা আছে, যাঁর ব্যবস্থাপনার অধীনে তারা চলে। বাগাভী ও মুয়াসসারও দুটি অর্থই ধরেন। এখানে দেখা কোনো তাফসীরেই মিন ওয়ারাইহিম, তাদের পেছন থেকে, কথাটির আলাদা ব্যাখ্যা নেই। তাঁদের মধ্যে পার্থক্য জোরের জায়গায়, পরস্পরবিরোধিতায় নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Poetry, Not Soothsaying",
+          "bn": "কবিতাও নয়, গণকের কথাও নয়"
+        },
+        "p": [
+          {
+            "en": "85:21 opens with the second bal: bal huwa qur'anun majid, rather, it is a glorious Qur'an. At-Tabari says what the bal sets aside: Allah is refuting those who called the Qur'an shi'r wa saj', poetry and rhymed prose. Al-Baghawi names the claim as shi'r wa kahana, poetry and soothsaying; the Muyassar as shi'r wa sihr, poetry and sorcery, which is why, it says, they denied it. In all three texts poetry comes paired with another charge. 69:41 and 69:42 answer two of them by name.",
+            "bn": "৮৫:২১ আয়াত শুরু হয় দ্বিতীয় বাল দিয়ে: বাল হুওয়া কুরআনুম মাজীদ, বরং এটি মহিমান্বিত কুরআন। এই বাল কী সরিয়ে দিচ্ছে, তাবারী তা বলেন: যারা কুরআনকে বলত শি'র ওয়া সাজ', কবিতা আর ছন্দোবদ্ধ গদ্য, আল্লাহ তাদের খণ্ডন করছেন। বাগাভীর বর্ণনায় অভিযোগটা শি'র ওয়া কাহানা, কবিতা আর গণকের কথা। মুয়াসসারের বর্ণনায় শি'র ওয়া সিহর, কবিতা আর জাদু, আর তাঁর মতে এ কারণেই তারা একে অস্বীকার করেছিল। তিনটি তাফসীরেই কবিতার সঙ্গে জোড়া লেগে আছে আরেকটা অভিযোগ। ৬৯:৪১ ও ৬৯:৪২ আয়াত এর দুটিকে নাম ধরে খণ্ডন করে।"
+          },
+          {
+            "en": "What does majid add? At-Tabari reports from Qatada a single word, karim, noble. Ibn Kathir: 'azim karim, great and noble. Al-Qurtubi: mutanahin fi ash-sharaf wa al-karam wa al-baraka, reaching the utmost in honour, generosity and blessing. As-Sa'di: wasi' al-ma'ani 'azimuha, kathir al-khayr wa al-'ilm, wide and great in meaning, abundant in good and knowledge. The word has already sounded in 85:15, where Allah is Owner of the Throne, al-majid, and it returns in 50:1, By the honored Qur'an. The deniers offered small names; the surah answers with a word it has just used beside the Throne.",
+            "bn": "মাজীদ শব্দটি কী যোগ করে? তাবারী কাতাদা থেকে একটিমাত্র শব্দ বর্ণনা করেন: কারীম, সম্মানিত। ইবন কাসীর বলেন: আযীমুন কারীম, মহান ও সম্মানিত। কুরতুবীর ভাষায়: মুতানাহিন ফিশ শারাফি ওয়াল কারামি ওয়াল বারাকা, মর্যাদা, উদারতা আর বরকতে সর্বোচ্চ সীমায় পৌঁছানো। সা'দী বলেন: ওয়াসিউল মাআনী আযীমুহা, কাসীরুল খাইরি ওয়াল ইলম, অর্থে প্রশস্ত ও মহান, কল্যাণ আর জ্ঞানে ভরপুর। শব্দটি আগেই এসেছে ৮৫:১৫ আয়াতে, যেখানে আল্লাহ আরশের অধিপতি, আল-মাজীদ। আবার এসেছে ৫০:১ আয়াতে: শপথ মাহাত্ম্যপূর্ণ কুরআনের। অস্বীকারকারীরা কুরআনকে ছোট ছোট নাম দিয়েছিল। সূরা জবাব দেয় সেই শব্দে, যা সে এইমাত্র আরশের পাশে ব্যবহার করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mahfuz: Two Canonical Readings",
+          "bn": "মাহফূয: দুই প্রামাণ্য কিরাআত"
+        },
+        "p": [
+          {
+            "en": "85:22: fi lawhin mahfuz, in a preserved Tablet. At-Tabari glosses it as muthbat, set down in a preserved Tablet, and reports that the readers differ on the last word. Read mahfuzin, in the genitive, it describes the Tablet. He names those who read it so: from the Hijaz, Abu Ja'far and Ibn Kathir, a reader of that name and not the commentator quoted here; from Kufa, 'Asim, al-A'mash, Hamza and al-Kisa'i; from Basra, Abu 'Amr. The Tablet is then preserved from any addition to or loss from what Allah set down in it.",
+            "bn": "৮৫:২২ আয়াত: ফী লাওহিম মাহফূয, সংরক্ষিত এক ফলকে। তাবারী এর ব্যাখ্যা দেন মুসবাত শব্দে, অর্থাৎ সংরক্ষিত ফলকে লিপিবদ্ধ। তারপর জানান, শেষ শব্দটির পাঠে কারীদের মধ্যে ভিন্নতা আছে। যের দিয়ে মাহফূযিন পড়লে শব্দটি ফলকের বিশেষণ হয়। এভাবে যাঁরা পড়েছেন, তিনি তাঁদের নাম দেন। হিজায থেকে আবূ জা'ফর ও ইবন কাসীর। ইনি ওই নামের একজন কারী, এখানে উদ্ধৃত তাফসীরকার নন। কূফা থেকে আসিম, আ'মাশ, হামযা ও কিসাঈ। বসরা থেকে আবূ আমর। তখন অর্থ দাঁড়ায়: আল্লাহ ফলকে যা লিখে রেখেছেন, তাতে কিছু যোগ হওয়া বা কমে যাওয়া থেকে ফলকটি সংরক্ষিত।"
+          },
+          {
+            "en": "Read mahfuzun, in the nominative, the word describes the Qur'an. At-Tabari names Nafi' of Medina and Ibn Muhaysin of Mecca for this reading: a glorious Qur'an, preserved from change and alteration, in a Tablet. Al-Qurtubi and al-Baghawi also name Nafi', and al-Baghawi ties this to 15:9. At-Tabari does not choose between the two: both are known readings among the reciters of the great cities, both sound in meaning, and whichever a reciter follows, he is right. One reading keeps the Tablet safe, the other the Qur'an within it.",
+            "bn": "পেশ দিয়ে মাহফূযুন পড়লে শব্দটি কুরআনের বিশেষণ হয়। তাবারী এ পাঠের জন্য মদীনার নাফি' আর মক্কার ইবন মুহাইসিনের নাম দেন। অর্থ দাঁড়ায়: মহিমান্বিত কুরআন, পরিবর্তন আর রদবদল থেকে সংরক্ষিত, এক ফলকে লিপিবদ্ধ। কুরতুবী ও বাগাভীও নাফি'র নাম উল্লেখ করেন, আর বাগাভী একে জুড়ে দেন ১৫:৯ আয়াতের সঙ্গে। তাবারী দুটির মধ্যে কোনোটিকে বেছে নেন না। বড় বড় শহরের কারীদের মধ্যে দুটিই পরিচিত কিরাআত, দুটির অর্থই সঠিক, যে কারী যেটি পড়েন তিনিই সঠিক। একটি পাঠ ফলককে সুরক্ষিত বলে, অন্যটি তার ভেতরের কুরআনকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Is Said of the Tablet",
+          "bn": "ফলক নিয়ে যা বর্ণিত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi quotes the lexicon al-Sihah: al-lawh is the shoulder blade and any broad bone, and al-lawh is what is written on. For the Tablet of this verse the early glosses are brief. At-Tabari reports from Mujahid, fi umm al-kitab, in the Mother of the Book, and from Qatada, 'inda Allah, with Allah. Ibn Kathir places it in the highest assembly, preserved from addition, loss, distortion and change. As-Sa'di and al-Qurtubi add that it is preserved from the devils, and as-Sa'di calls it the Tablet in which Allah has recorded everything.",
+            "bn": "কুরতুবী আস-সিহাহ অভিধান থেকে উদ্ধৃত করেন: আল-লাওহ মানে কাঁধের হাড়, আর যেকোনো চওড়া হাড়। আবার আল-লাওহ সেই জিনিস, যার উপর লেখা হয়। এ আয়াতের ফলক নিয়ে প্রাচীন ব্যাখ্যাগুলো সংক্ষিপ্ত। তাবারী মুজাহিদ থেকে বর্ণনা করেন: ফী উম্মিল কিতাব, মূল কিতাবে। কাতাদা থেকে বর্ণনা করেন: ইনদাল্লাহ, আল্লাহর কাছে। ইবন কাসীর একে রাখেন ঊর্ধ্বজগতের মজলিসে, যা বাড়ানো, কমানো, বিকৃতি ও রদবদল থেকে সুরক্ষিত। সা'দী ও কুরতুবী যোগ করেন, তা শয়তানদের নাগাল থেকেও সুরক্ষিত। সা'দী একে বলেন সেই ফলক, যাতে আল্লাহ সবকিছু লিখে রেখেছেন।"
+          },
+          {
+            "en": "Ibn Kathir relays from al-Hasan al-Basri that this glorious Qur'an is with Allah in a preserved Tablet, and He sends down from it what He wills on whom He wills. Beyond that, the reports grow more detailed. At-Tabari, through his chain, has Anas ibn Malik say the Tablet is on the forehead of Israfil; al-Qurtubi gives this from Anas and Mujahid. Muqatil, in Ibn Kathir, al-Qurtubi and al-Baghawi, places it to the right of the Throne. These are sayings of a Companion and of later scholars, not words of the Prophet ﷺ.",
+            "bn": "ইবন কাসীর হাসান বাসরী থেকে বর্ণনা করেন: এই মহিমান্বিত কুরআন আল্লাহর কাছে সংরক্ষিত ফলকে আছে। তিনি যাকে চান, তার উপর তা থেকে যা চান নাযিল করেন। এর বাইরে বর্ণনাগুলো ক্রমে বিস্তারিত হয়। তাবারী নিজের সনদে আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন যে ফলকটি ইসরাফীল (আঃ)-এর কপালে। কুরতুবী কথাটি আনেন আনাস ও মুজাহিদ থেকে। ইবন কাসীর, কুরতুবী ও বাগাভীর বর্ণনায় মুকাতিল বলেন, তা আরশের ডান দিকে। এগুলো একজন সাহাবী ও পরবর্তী আলিমদের কথা, নবী ﷺ-এর বাণী নয়।"
+          },
+          {
+            "en": "Ibn 'Abbas is credited with two descriptions that do not agree. Al-Baghawi relays, through Ishaq ibn Bishr from Muqatil and Ibn Jurayj from Mujahid, that the Tablet is of white pearl with covers of red ruby, as long as heaven is from earth; Ibn Kathir repeats it from al-Baghawi. Al-Qurtubi relays through ad-Dahhak that the Tablet itself is of red ruby. None of them grades these reports. Ibn Kathir also ends the surah with a narration at-Tabarani raises to the Prophet ﷺ about the Tablet; he gives no grading, it was not confirmed on a page fetched here, and it is only noted.",
+            "bn": "ইবন আব্বাস (রাঃ)-এর নামে দুটি বর্ণনা আছে, যা পুরোপুরি মেলে না। বাগাভী ইসহাক ইবন বিশরের সূত্রে, মুকাতিল ও ইবন জুরাইজ থেকে, তাঁরা মুজাহিদ থেকে বর্ণনা করেন: ফলকটি সাদা মুক্তার, তার দুই মলাট লাল ইয়াকুতের, দৈর্ঘ্যে আসমান থেকে যমীনের দূরত্বের সমান। ইবন কাসীর বাগাভী থেকে কথাটি আবার আনেন। কুরতুবী দাহহাকের সূত্রে বর্ণনা করেন: ফলকটি নিজেই লাল ইয়াকুতের। এসব বর্ণনার মান তাঁদের কেউ নির্ণয় করেননি। ফলক নিয়ে তাবারানী নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা এনেছেন, ইবন কাসীর সেটি দিয়ে সূরার তাফসীর শেষ করেন। তিনি এর কোনো মান উল্লেখ করেননি, আর এখানে আনা কোনো পাতায় তা নিশ্চিতও হয়নি। তাই শুধু উল্লেখটুকু রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Written Before Creation",
+          "bn": "সৃষ্টির আগেই লেখা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted here attaches a sound hadith to these four verses. One narration in Sahih Muslim (2653), not attached to this verse and not naming the Tablet, speaks of what was written before creation. 'Abdullah ibn 'Amr ibn al-'As reported: \"I heard Allah's Messenger (ﷺ) as saying: Allah ordained the measures (of quality) of the creation fifty thousand years before He created the heavens and the earth, as His Throne was upon water.\" The verb behind ordained is kataba, He wrote. It sits beside as-Sa'di's description of a Tablet in which everything is recorded.",
+            "bn": "এখানে দেখা কোনো তাফসীরই এই চারটি আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। সহীহ মুসলিমের একটি বর্ণনা (২৬৫৩) এ আয়াতের সঙ্গে যুক্ত নয়, ফলকের নামও তাতে নেই। তবে সৃষ্টির আগে যা লেখা হয়েছিল, সে কথা তাতে আছে। আবদুল্লাহ ইবন আমর ইবনুল আস (রাঃ) বলেন: আমি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছি, আল্লাহ আসমানসমূহ ও যমীন সৃষ্টির পঞ্চাশ হাজার বছর আগে সৃষ্টিকুলের তাকদীর লিখে রেখেছেন। তিনি বলেন, তখন তাঁর আরশ ছিল পানির উপর। মূল আরবিতে ক্রিয়াটি কাতাবা, তিনি লিখেছেন। সা'দীর বর্ণনায় ফলক এমন জিনিস, যাতে সবকিছু লেখা আছে। হাদীসটি সেই কথার পাশে রাখা যায়।"
+          },
+          {
+            "en": "Several verses keep company with these four. Of muhit, 4:126: ever is Allah, of all things, encompassing, and 89:14, which as-Sa'di cites, your Lord is in observation. Of the Qur'an's rank and keeping, 56:77 and 56:78: it is a noble Qur'an, in a Register well-protected, and 43:4: it is, in the Mother of the Book with Us, exalted and full of wisdom, which echoes Mujahid's gloss. Of the accusations at-Tabari and al-Baghawi report, 69:41 and 69:42: it is not the word of a poet, nor the word of a soothsayer. And of guarding, 15:9.",
+            "bn": "কয়েকটি আয়াত এই চারটি আয়াতের সঙ্গী। মুহীত প্রসঙ্গে ৪:১২৬: আল্লাহ সবকিছুকেই পরিবেষ্টন করে আছেন। আর ৮৯:১৪, যা সা'দী উদ্ধৃত করেছেন: তোমার রব অবশ্যই সতর্ক দৃষ্টি রাখছেন। কুরআনের মর্যাদা ও সংরক্ষণ প্রসঙ্গে ৫৬:৭৭ ও ৫৬:৭৮: অবশ্যই তা সম্মানিত কুরআন, সুরক্ষিত কিতাবে লিপিবদ্ধ। আর ৪৩:৪: আমার কাছে উম্মুল কিতাবে তা সমুন্নত, প্রজ্ঞায় পূর্ণ। এ আয়াত মুজাহিদের ব্যাখ্যার সঙ্গে মিলে যায়। তাবারী ও বাগাভী যে অভিযোগগুলোর কথা বলেন, সে প্রসঙ্গে ৬৯:৪১ ও ৬৯:৪২: এটি কোনো কবির কথা নয়, কোনো গণকের কথাও নয়। আর সংরক্ষণ প্রসঙ্গে ১৫:৯।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Warnings Stop Arriving",
+          "bn": "সতর্কবাণী যখন আর পৌঁছায় না"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes the deniers the text describes, those who denied the Prophet ﷺ in his own day, whom al-Baghawi calls your people, O Muhammad. It licenses nothing against any living person or community, and gives no one a label to fix on a neighbour. Earlier the surah told of believers burned for their faith, and 85:10 still held out repentance to those who burned them. A verse about denial is a warning to hear, not a verdict to hand out.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি সেই অস্বীকারকারীদের কথাই বলে, যাদের কথা পাঠে আছে: নবী ﷺ-এর নিজের সময়ে যারা তাঁকে অস্বীকার করেছিল, বাগাভী যাদের বলেন, হে মুহাম্মাদ, তোমার কওম। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। প্রতিবেশীর গায়ে লাগানোর মতো কোনো তকমাও কাউকে দেয় না। এ সূরা আগেই এমন মুমিনদের কথা বলেছে, যাদের ঈমানের জন্য আগুনে পোড়ানো হয়েছিল। আর ৮৫:১০ আয়াত তখনও তাদের পোড়ানো লোকদের সামনে তওবার দরজা খোলা রেখেছিল। অস্বীকার নিয়ে কোনো আয়াত শোনার জন্য সতর্কবাণী, অন্যকে শোনানোর জন্য রায় নয়।"
+          },
+          {
+            "en": "So the reader turns it inward. At-Tabari's two causes, one's own desires and the ways of one's fathers, belong to no single city or century. A person can hear a warning so often that it stops arriving, the state as-Sa'di describes, where signs no longer benefit. The next verse answers fear and false ease alike: no one wronged is out of Allah's sight, and no wrongdoer has a way out from behind. No text consulted here gives a du'a for these verses; a reader may ask, in their own words, not to be left inside their own refusal.",
+            "bn": "তাই পাঠক আয়াতটিকে নিজের দিকে ফেরান। তাবারী যে দুটি কারণ বলেছেন, নিজের খেয়ালখুশি আর বাপদাদার রীতি, তা কোনো একটি শহর বা যুগের লোকদের একার নয়। একই সতর্কবাণী বারবার শুনতে শুনতে মানুষ একসময় আর শোনেই না। সা'দী ঠিক এ অবস্থার কথা বলেছেন, যখন নিদর্শন আর কাজে আসে না। পরের আয়াত ভয় আর মিথ্যা নিশ্চিন্তি দুটোরই জবাব দেয়। যার উপর জুলুম হয়, সে আল্লাহর দৃষ্টির বাইরে নয়। যে জুলুম করে, পেছন দিয়ে পালানোর পথ তার নেই। এখানে দেখা কোনো তাফসীর এ আয়াতগুলোর জন্য দোয়া দেয়নি। পাঠক নিজের ভাষায় চাইতে পারেন, আল্লাহ যেন তাকে তার নিজের প্রত্যাখ্যানের ভেতরে ফেলে না রাখেন।"
+          }
+        ]
+      }
+    ]
   }
 });
