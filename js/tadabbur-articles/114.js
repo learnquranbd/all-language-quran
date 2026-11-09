@@ -150,5 +150,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "114:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Enemy Known by Its Habits",
+          "bn": "স্বভাব দিয়ে চেনানো শত্রু"
+        },
+        "p": [
+          {
+            "en": "Min sharri al-waswasi al-khannas: from the evil of the whisperer who withdraws. With these four Arabic words the surah turns. Three names of the Sheltering Lord have been spoken in 114:1 to 114:3; now comes the enemy. Ma'arif al-Qur'an says that after invoking three attributes of Allah, the verse describes him from whom protection is sought. Ibn Kathir reads the order the same way: the seeker of protection is commanded to seek refuge with Him who has these attributes, from the evil of this whisperer.",
+            "bn": "মিন শাররিল ওয়াসওয়াসিল খান্নাস: সেই কুমন্ত্রণাদাতার অনিষ্ট থেকে, যে সরে পড়ে। আরবিতে মাত্র চারটি শব্দ, আর এখানেই সূরাটি মোড় নেয়। ১১৪:১ থেকে ১১৪:৩ আয়াতে আশ্রয়দাতার তিনটি নাম বলা হয়ে গেছে। এবার আসে তার কথা, যার থেকে আশ্রয় চাওয়া হচ্ছে। মাআরিফুল কুরআন সহজ করে বলে: আল্লাহর তিনটি গুণ উল্লেখের পর এ আয়াত সেই সত্তার বর্ণনা দেয়, যার হাত থেকে সুরক্ষা চাওয়া হয়। ইবন কাসীরও ক্রমটা এভাবেই পড়েন। যে সুরক্ষা চায়, তাকে আদেশ করা হয়েছে এই গুণগুলোর অধিকারীর কাছে আশ্রয় নিতে, সেই কুমন্ত্রণাদাতার অনিষ্ট থেকে, যে সরে পড়ে।"
+          },
+          {
+            "en": "Notice how the enemy is introduced. He is named by two habits: one word for what he does, and one for how he leaves. The Muyassar's gloss keeps both: from the harm of the devil who whispers at times of heedlessness and hides when Allah is remembered. For as-Sa'di, the surah seeks refuge from Shaytan, who is the root and source of all evils, and part of his trial and his evil is that he whispers in the breasts of people.",
+            "bn": "শত্রুকে কীভাবে পরিচয় করানো হলো, খেয়াল করুন। তাকে চেনানো হয়েছে দুটি স্বভাব দিয়ে। একটি শব্দ বলে সে কী করে, অন্যটি বলে সে কীভাবে চলে যায়। মুয়াসসারের ব্যাখ্যায় দুটোই আছে: সেই শয়তানের কষ্ট থেকে, যে গাফিলতির সময় কুমন্ত্রণা দেয় আর আল্লাহর জিকির হলে লুকিয়ে যায়। সা'দীর ভাষায়, এই সূরায় আশ্রয় চাওয়া হয়েছে শয়তান থেকে, যে সব অনিষ্টের মূল ও উৎস। আর তার ফিতনা ও অনিষ্টের একটি দিক হলো, সে মানুষের বুকে কুমন্ত্রণা দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When a Whisper Becomes a Name",
+          "bn": "ফিসফিসানি যখন নাম হয়ে যায়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi explains al-waswas as the devil, and the meaning as from the evil of him who possesses the whispering, with the possessor's word left out; he gives this from al-Farra'. With a fatha on the waw, waswas is a noun, the whisperer; with a kasra, wiswas is the verbal noun, the whispering, as with zalzal and zilzal. Al-Baghawi says it serves as both verbal noun and noun, and relays al-Zajjaj: it means the devil who owns the whispering. Waswasa itself, al-Qurtubi says, is the talk of the self.",
+            "bn": "কুরতুবী বলেন, আল-ওয়াসওয়াস মানে শয়তান। অর্থ দাঁড়ায়: কুমন্ত্রণার অধিকারীর অনিষ্ট থেকে। অধিকারী বোঝানো শব্দটি উহ্য রাখা হয়েছে, আর এ ব্যাখ্যা তিনি নেন ফাররা থেকে। ওয়াও-এ যবর দিলে ওয়াসওয়াস বিশেষ্য, অর্থাৎ কুমন্ত্রণাদাতা। যের দিলে উইসওয়াস ক্রিয়াবাচক বিশেষ্য, অর্থাৎ কুমন্ত্রণা দেওয়া, ঠিক যেমন যালযাল আর যিলযাল। বাগাভী বলেন, শব্দটি দুই অর্থেই চলে। তিনি যাজ্জাজের ব্যাখ্যাও আনেন: এর মানে কুমন্ত্রণার মালিক শয়তান। আর ওয়াসওয়াসা জিনিসটা কী, কুরতুবী তাও বলে দেন: মনের ভেতরের কথা।"
+          },
+          {
+            "en": "The word carries sound in it. Al-Qurtubi notes that the Arabs called the low murmur of the hunter, the noise of hounds and the faint clink of jewellery waswas, and he cites lines of Dhu ar-Rumma and al-A'sha. Ma'arif al-Qur'an adds that the verbal noun is used here in a hyperbolic way for Shaytan, as if he were whisper embodied, and that his whispering means inviting people to obey him through speech whose subject is cast into the heart while no voice is heard.",
+            "bn": "শব্দটার ভেতরেই একটা আওয়াজ লুকিয়ে আছে। কুরতুবী জানান, শিকারির চাপা গুঞ্জন, শিকারি কুকুরের শব্দ আর গয়নার মৃদু টুংটাংকে আরবরা ওয়াসওয়াস বলত। প্রমাণে তিনি যুর-রুম্মা ও আ'শার কবিতার চরণ আনেন। মাআরিফুল কুরআন যোগ করে, এখানে ক্রিয়াবাচক বিশেষ্যটি শয়তানের জন্য ব্যবহার করা হয়েছে অতিশয়োক্তি হিসেবে, যেন সে নিজেই মূর্তিমান ফিসফিসানি। তার কুমন্ত্রণা মানে নিজের আনুগত্যের দিকে ডাকা, এমন কথায় যার বিষয়টা অন্তরে ঢেলে দেওয়া হয়, অথচ কোনো আওয়াজ শোনা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Squatting on the Heart",
+          "bn": "অন্তরের উপর ঘাপটি মেরে"
+        },
+        "p": [
+          {
+            "en": "Al-khannas is the second habit. Al-Qurtubi gives two reasons for the name. He is called khannas because he hides much, and from the same root comes 81:15, al-khunnas, the stars that vanish after they have shone. Or he is called so because he falls back when the servant remembers Allah; the Arabs say khanastuhu fa-khanasa, I held him back and he fell back. Ma'arif al-Qur'an renders the verb as to sneak, recede or withdraw furtively.",
+            "bn": "আল-খান্নাস হলো দ্বিতীয় স্বভাব। নামটির দুটি কারণ বলেন কুরতুবী। এক, সে খুব বেশি লুকায়, তাই তাকে খান্নাস বলা হয়। একই ধাতু থেকে এসেছে ৮১:১৫ আয়াতের আল-খুন্নাস, সেই তারাগুলো, যারা জ্বলে ওঠার পর মিলিয়ে যায়। দুই, বান্দা আল্লাহকে স্মরণ করলে সে পিছিয়ে যায়। আরবরা বলে, খানাসতুহু ফা-খানাসা: আমি তাকে পিছিয়ে দিলাম, আর সে পিছিয়ে গেল। মাআরিফুল কুরআনে ক্রিয়াটির অর্থ চুপিসারে সরে পড়া বা পিছু হটা।"
+          },
+          {
+            "en": "The best-known gloss comes from Ibn 'Abbas (RA). Ibn Kathir gives it through Sa'id ibn Jubayr, and at-Tabari through another chain: the devil is squatting on the heart of the son of Adam; when he grows absent-minded and heedless, the devil whispers, and when he remembers Allah, the devil withdraws. At-Tabari also reports from Ibn 'Abbas (RA) that no child is born without the whisperer upon its heart; once it comes to reason and remembers Allah, the whisperer withdraws, and when it grows heedless, he whispers.",
+            "bn": "সবচেয়ে পরিচিত ব্যাখ্যাটি ইবন আব্বাস (রাঃ)-এর। ইবন কাসীর তা আনেন সাঈদ ইবন জুবাইরের সূত্রে, তাবারী আনেন আরেকটি সনদে। শয়তান আদমসন্তানের অন্তরের উপর ঘাপটি মেরে বসে থাকে। মানুষ যখন অন্যমনস্ক ও গাফিল হয়, সে কুমন্ত্রণা দেয়। আর মানুষ আল্লাহকে স্মরণ করলে সে সরে পড়ে। তাবারী ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনাও আনেন। এমন কোনো শিশু জন্মায় না, যার অন্তরের উপর কুমন্ত্রণাদাতা থাকে না। বুদ্ধি হওয়ার পর সে আল্লাহকে স্মরণ করলে কুমন্ত্রণাদাতা সরে যায়, আর গাফিল হলে আবার কুমন্ত্রণা দেয়।"
+          },
+          {
+            "en": "Mujahid, in at-Tabari, draws the same movement in two verbs: the devil spreads himself out, and when Allah is remembered he shrinks back and withdraws; when the man grows heedless, he spreads out again. Al-Baghawi keeps the picture and glosses al-khannas as the one who keeps coming back. The reader is left with a simple map of the heart. His opening is the moment of forgetting, and his retreat begins at the moment of remembering. Both moments belong to the servant, which is why the surah puts a plea in the servant's mouth.",
+            "bn": "তাবারীর বর্ণনায় মুজাহিদ একই আসা-যাওয়াকে দুটি ক্রিয়ায় ধরেন। শয়তান নিজেকে ছড়িয়ে দেয়। আল্লাহর জিকির হলে সে গুটিয়ে যায় আর সরে পড়ে। মানুষ আবার গাফিল হলে আবার ছড়িয়ে পড়ে। বাগাভীও একই ছবি রাখেন, আর আল-খান্নাসের অর্থ করেন: যে বারবার ফিরে আসে। পাঠকের হাতে তাই অন্তরের একটা সহজ মানচিত্র থাকে। ভুলে যাওয়ার মুহূর্তটাই তার প্রবেশপথ, আর স্মরণের মুহূর্তেই শুরু হয় তার পিছু হটা। দুটো মুহূর্তই বান্দার নিজের। এ কারণেই সূরাটি বান্দার মুখে একটি মিনতি তুলে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Ways of Falling Back",
+          "bn": "পিছু হটার দুই রকম"
+        },
+        "p": [
+          {
+            "en": "Not every retreat is a defeat. Through al-'Awfi, at-Tabari and Ibn Kathir both report a second saying of Ibn 'Abbas (RA): al-waswas is Shaytan; he gives his command, and once he is obeyed, he withdraws. At-Tabari frames it as whispering a call to obey him in people's breasts until the call is answered, and then falling back. Here the withdrawing is no flight from remembrance. The silence that follows a sin is not peace; it may only mean that the whisper got what it came for.",
+            "bn": "সব পিছু হটা পরাজয় নয়। আওফীর সূত্রে তাবারী ও ইবন কাসীর দুজনেই ইবন আব্বাস (রাঃ)-এর দ্বিতীয় একটি কথা আনেন। আল-ওয়াসওয়াস হলো শয়তান। সে হুকুম দেয়, আর তার কথা মানা হয়ে গেলে সরে পড়ে। তাবারী বিষয়টা এভাবে সাজান: মানুষের বুকে সে নিজের আনুগত্যের ডাক দিতে থাকে, যতক্ষণ না সে ডাকে সাড়া মেলে, তারপর পিছিয়ে যায়। এখানে সরে যাওয়াটা জিকির থেকে পালানো নয়। গুনাহের পরের নীরবতা তাই শান্তি নয়। হতে পারে, কুমন্ত্রণা যা চাইতে এসেছিল, তা পেয়ে গেছে।"
+          },
+          {
+            "en": "At-Tabari keeps both sayings. In his judgement, Allah commanded His Prophet ﷺ to seek refuge from a devil who whispers at times and withdraws at others, and did not confine his whispering to a single kind or his withdrawing to a single manner. He may whisper a call to disobey Allah and withdraw once obeyed. He may whisper against obeying Allah, and withdraw when the servant recalls his Lord's command, obeys it and defies him. In both states, at-Tabari concludes, he is a whisperer who withdraws; that is his description.",
+            "bn": "তাবারী দুটি কথাই রাখেন। তাঁর মতে আল্লাহ তাঁর নবী ﷺ-কে এমন শয়তান থেকে আশ্রয় চাইতে বলেছেন, যে কখনো কুমন্ত্রণা দেয়, কখনো সরে পড়ে। তার কুমন্ত্রণাকে কোনো এক ধরনে বাঁধা হয়নি, তার সরে যাওয়াকেও কোনো এক পথে সীমিত করা হয়নি। সে আল্লাহর নাফরমানির দিকে ডাকতে পারে, আর কথা মানা হলে সরে যেতে পারে। আবার আল্লাহর আনুগত্য থেকে ফেরাতেও পারে। তখন বান্দা রবের হুকুম মনে করে তা পালন করলে এবং শয়তানের কথা অমান্য করলে সে পিছিয়ে যায়। তাবারীর উপসংহার: দুই অবস্থাতেই সে কুমন্ত্রণাদাতা, যে সরে পড়ে। এটাই তার পরিচয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dressing Wrong in Fine Clothes",
+          "bn": "অন্যায়ের গায়ে সুন্দর পোশাক"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di describes the method closely. The whisperer makes evil seem good to people, shows it to them in a handsome form and rouses their will to do it. He makes good seem ugly to them, holds them back from it and shows it in a form not its own. He is always in this state, whispering and withdrawing, which as-Sa'di explains as falling back when the servant remembers his Lord and asks His help in pushing him away.",
+            "bn": "সা'দী কৌশলটা খুঁটিয়ে বর্ণনা করেন। কুমন্ত্রণাদাতা মন্দকে মানুষের চোখে ভালো করে তোলে, সুন্দর চেহারায় তা দেখায়, আর সে কাজের জন্য তাদের ইচ্ছাকে উসকে দেয়। ভালোকে সে তাদের চোখে কুৎসিত করে তোলে, তা থেকে তাদের পিছিয়ে রাখে, আর এমন চেহারায় দেখায় যা তার আসল চেহারা নয়। সে সবসময় এ অবস্থাতেই থাকে: কুমন্ত্রণা দেয়, আর সরে পড়ে। সা'দী সরে পড়ার অর্থ করেন, বান্দা যখন রবকে স্মরণ করে আর তাকে হটাতে রবের সাহায্য চায়, তখন পিছিয়ে যাওয়া।"
+          },
+          {
+            "en": "When does it come? Ibn Kathir relays, through al-Mu'tamir ibn Sulayman from his father, a report the father says was mentioned to him: the devil, or the whisperer, blows into the heart of the son of Adam at times of grief and at times of joy, and when Allah is remembered he withdraws. Grief can whisper that Allah has forgotten you; joy can whisper that you did it alone. As-Sa'di draws the remedy from the surah's own order: seek help, refuge and protection in Allah's lordship over all people.",
+            "bn": "কুমন্ত্রণা আসে কখন? ইবন কাসীর মু'তামির ইবন সুলাইমানের সূত্রে তাঁর বাবার একটি বর্ণনা আনেন। বাবা বলেন, কথাটা তাঁকে জানানো হয়েছে: শয়তান, কিংবা কুমন্ত্রণাদাতা, দুঃখের সময় আর আনন্দের সময় আদমসন্তানের অন্তরে ফুঁ দেয়, আর আল্লাহর জিকির হলে সরে পড়ে। দুঃখ কানে কানে বলতে পারে, আল্লাহ আপনাকে ভুলে গেছেন। আনন্দ বলতে পারে, এসব আপনি একাই করেছেন। প্রতিকারটা সা'দী সূরার নিজের ক্রম থেকেই বের করেন। সব মানুষের উপর আল্লাহর যে রুবুবিয়্যাত, তার কাছেই সাহায্য চাইতে হবে, আশ্রয় নিতে হবে, তাকেই আঁকড়ে ধরতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Blood Runs",
+          "bn": "রক্ত যেখানে বয়ে চলে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir brings a scene from the Prophet's ﷺ life into his commentary on this surah, and al-Qurtubi alludes to its key sentence under 114:5. In Sahih al-Bukhari (3281), Safiyya bint Huyay (RA) relates that she visited him at night while he was in i'tikaf, talked with him, and rose to leave; he rose to walk her back. Two men of the Ansar passed, and on seeing him they hurried. He said: Slowly, it is Safiyya bint Huyay. They said: Glory be to Allah, O Messenger of Allah!",
+            "bn": "ইবন কাসীর এই সূরার তাফসীরে নবী ﷺ-এর জীবনের একটি দৃশ্য নিয়ে আসেন, আর কুরতুবী ১১৪:৫ আয়াতের আলোচনায় তার মূল বাক্যটির দিকে ইঙ্গিত করেন। সহীহ বুখারীতে (৩২৮১) সাফিয়্যা বিনতে হুয়াই (রাঃ) বলেন, নবী ﷺ তখন ই'তিকাফে ছিলেন। রাতে তিনি তাঁর সঙ্গে দেখা করতে যান, কথা বলেন, তারপর ফেরার জন্য ওঠেন। নবী ﷺ-ও উঠলেন তাঁকে বাড়ি পৌঁছে দিতে। পথে আনসারের দুজন লোক যাচ্ছিল। তাঁকে দেখে তারা দ্রুত হাঁটতে লাগল। তিনি বললেন: ধীরে চলো, এ সাফিয়্যা বিনতে হুয়াই। তারা বলল: সুবহানাল্লাহ, হে আল্লাহর রাসূল!"
+          },
+          {
+            "en": "He answered: Shaytan runs in the human being where the blood runs, and I feared that he might cast something evil, or he said something, into your hearts. The report concerns that night, not this verse; the commentators bring it to show what the whisperer is like. Notice what the Prophet ﷺ did with the knowledge. He did not wait for a suspicion to settle in two loyal hearts. He named his wife at once and closed the door before a whisper could pass through it.",
+            "bn": "তিনি বললেন: শয়তান মানুষের ভেতরে চলাচল করে, যেখানে রক্ত চলাচল করে। আমার ভয় হলো, সে তোমাদের অন্তরে মন্দ কিছু, কিংবা তিনি বলেছেন কিছু একটা, ঢেলে দিতে পারে। ঘটনাটা সেই রাতের, এই আয়াতের নয়। কুমন্ত্রণাদাতা কেমন, তা বোঝাতে তাফসীরকারেরা এটি টেনে আনেন। দেখুন, এই জ্ঞান দিয়ে নবী ﷺ কী করলেন। দুটি বিশ্বস্ত অন্তরে সন্দেহ জমে বসার অপেক্ষা তিনি করেননি। সঙ্গে সঙ্গে স্ত্রীর নাম বলে দিলেন, আর কুমন্ত্রণা ঢোকার আগেই দরজাটা বন্ধ করে দিলেন।"
+          },
+          {
+            "en": "Ibn Kathir also cites, as confirmed in the Sahih, a report found in Sahih Muslim (2814) from 'Abdullah ibn Mas'ud (RA): There is none of you but his companion from the jinn has been assigned to him. They asked: And you too, O Messenger of Allah? He said: And me too, except that Allah has helped me against him, fa-aslama, so he commands me only to good. The two translations at hand render fa-aslama differently: he accepted Islam, or I am safe from him. On either reading, Allah's help is the decisive fact.",
+            "bn": "ইবন কাসীর আরেকটি বর্ণনাও আনেন, যাকে তিনি সহীহ গ্রন্থে প্রমাণিত বলেন। সহীহ মুসলিমে (২৮১৪) আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে বর্ণিত: তোমাদের প্রত্যেকের সঙ্গেই জিনদের মধ্য থেকে তার একজন সঙ্গী নিযুক্ত করা আছে। সাহাবিরা জিজ্ঞেস করলেন: আপনার সঙ্গেও, হে আল্লাহর রাসূল? তিনি বললেন: আমার সঙ্গেও, তবে আল্লাহ তার বিরুদ্ধে আমাকে সাহায্য করেছেন, ফা-আসলামা, তাই সে আমাকে কেবল ভালো কাজেরই হুকুম দেয়। হাতে থাকা দুটি অনুবাদে ফা-আসলামার অর্থ দুই রকম: সে ইসলাম গ্রহণ করেছে, অথবা আমি তার থেকে নিরাপদ। যেভাবেই পড়া হোক, মূল কথা আল্লাহর সাহায্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Of Jinn and of People",
+          "bn": "জিনদের মধ্য থেকে, মানুষের মধ্য থেকে"
+        },
+        "p": [
+          {
+            "en": "The description runs on to 114:6, min al-jinnati wan-nas, of the jinn and of people, and the commentators differ over what the phrase explains. A first reading takes it as naming two kinds of whisperer. Al-Qurtubi reports al-Hasan: the devil of the jinn whispers in people's breasts, while the devil of mankind comes openly. Qatadah, in al-Qurtubi, says there are devils among both. At-Tabari relays Ibn Zayd, for whom the khannas is of jinn and of men, and who adds that it used to be said the human devil is harder on people, since the jinn whispers unseen while the human confronts you face to face.",
+            "bn": "বর্ণনাটা গড়িয়ে যায় ১১৪:৬ পর্যন্ত: মিনাল জিন্নাতি ওয়ান-নাস, জিনদের মধ্য থেকে এবং মানুষের মধ্য থেকে। বাক্যাংশটি কোন কথার ব্যাখ্যা, তা নিয়ে তাফসীরকারদের মতভেদ আছে। প্রথম ব্যাখ্যায় এটি কুমন্ত্রণাদাতার দুই প্রকারের নাম। কুরতুবী হাসানের কথা আনেন: জিন-শয়তান মানুষের বুকে কুমন্ত্রণা দেয়, আর মানুষ-শয়তান আসে প্রকাশ্যে। কুরতুবীর বর্ণনায় কাতাদা বলেন, শয়তান দুই দলেই আছে। তাবারী ইবন যায়দের কথা আনেন: খান্নাস কুমন্ত্রণা দেয় আর সরে পড়ে, সে জিনদের মধ্যেও আছে, মানুষের মধ্যেও। ইবন যায়দ আরও জানান, আগে বলা হতো, মানুষ-শয়তান মানুষের জন্য বেশি কঠিন। জিন-শয়তান কুমন্ত্রণা দেয় অদেখা থেকে, আর মানুষ-শয়তান আপনার সামনে দাঁড়িয়ে মুখোমুখি কথা বলে।"
+          },
+          {
+            "en": "The other reading takes the phrase as explaining the breasts that are whispered into. At-Tabari reads in the breasts of people as meaning their jinn and their humans. If jinn are not people, he answers, Allah has named them people here, as He named them men in 72:6, and he cites an Arab who heard jinn call themselves people of the jinn. Ibn Kathir records two views on 114:5, the plain view limiting it to the children of Adam and a wider view including jinn, and says 114:6 strengthens the second, before noting the first reading with 6:112.",
+            "bn": "অন্য ব্যাখ্যায় বাক্যাংশটি বলছে, কাদের বুকে কুমন্ত্রণা দেওয়া হয়। তাবারী 'মানুষের বুকে' কথাটির অর্থ করেন: তাদের জিন ও তাদের মানুষ, দুই দলের বুকেই। জিন কি তবে মানুষ? তাঁর জবাব, আল্লাহ এখানে তাদের মানুষ বলেছেন, যেমন ৭২:৬ আয়াতে তাদের পুরুষ বলেছেন। তিনি এক আরবের কথাও আনেন, যে শুনেছিল জিনেরা নিজেদের বলছে জিনদের মানুষ। ইবন কাসীর ১১৪:৫ আয়াতে দুটি মত লেখেন। বাহ্যিক মতে কথাটি কেবল আদমসন্তানের জন্য, আরেক মতে জিনও এর ভেতরে পড়ে। তিনি বলেন, ১১৪:৬ দ্বিতীয় মতটিকে জোরালো করে। তারপর ৬:১১২ আয়াত দিয়ে প্রথম ব্যাখ্যাটিও উল্লেখ করেন।"
+          },
+          {
+            "en": "Al-Qurtubi lays out still more: a group, with al-Farra', who take an-nas in 114:6 itself to mean jinn; others who say Iblis whispers in the breasts of jinn as of people; and others again who make the whisper the talk of the self. He closes: Allah knows best what is meant. The disagreement stands. One thing does not depend on it. The verse describes an act, whispering towards evil. It names no one, and it licenses nothing against any living person or community; to call one's opponent a devil is not what this plea teaches.",
+            "bn": "কুরতুবী আরও কয়েকটি মত সাজিয়ে দেন। ফাররাসহ একদলের মতে ১১৪:৬ আয়াতের আন-নাস শব্দটিই এখানে জিন বোঝায়। আরেক দল বলে, ইবলীস যেমন মানুষের বুকে কুমন্ত্রণা দেয়, তেমনি জিনদের বুকেও দেয়। আরেক দল কুমন্ত্রণাকে মনের ভেতরের কথা বলে ধরে। শেষে তিনি বলেন: উদ্দেশ্য কী, আল্লাহই ভালো জানেন। মতভেদটা তাই রয়ে যায়। তবে একটি বিষয় এর উপর নির্ভর করে না। আয়াতটি একটি কাজের বর্ণনা দেয়, মন্দের দিকে কুমন্ত্রণা দেওয়া। এখানে কারও নাম নেই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে আয়াতটি কোনো অনুমতিও দেয় না। প্রতিপক্ষকে শয়তান বলে দাগানো এই মিনতির শিক্ষা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plot Shrunk to a Whisper",
+          "bn": "চক্রান্ত নেমে এল ফিসফিসানিতে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir ends his whole commentary on the Qur'an with a report he gives from Imam Ahmad, noting that Abu Dawud and an-Nasa'i also record it. In Sunan Abu Dawud (5112), Ibn 'Abbas (RA) says a man came to the Prophet ﷺ and said: O Messenger of Allah, one of us finds something in himself, hinting at it, such that to become charcoal would be dearer to him than to speak of it. He said: Allah is Most Great, Allah is Most Great, Allah is Most Great. Praise be to Allah, who turned his plot back into whispering.",
+            "bn": "ইবন কাসীর তাঁর পুরো তাফসীর শেষ করেন একটি বর্ণনা দিয়ে, যা তিনি ইমাম আহমাদ থেকে আনেন। সঙ্গে জানান, আবু দাউদ ও নাসাঈও এটি বর্ণনা করেছেন। সুনান আবু দাউদে (৫১১২) ইবন আব্বাস (রাঃ) বলেন, এক লোক নবী ﷺ-এর কাছে এসে বলল: হে আল্লাহর রাসূল, আমাদের কেউ কেউ মনের ভেতর এমন কিছু টের পায়, সে কথাটার দিকে ইঙ্গিত করল, যা মুখে আনার চেয়ে পুড়ে কয়লা হয়ে যাওয়াও তার কাছে প্রিয়। তিনি বললেন: আল্লাহু আকবার, আল্লাহু আকবার, আল্লাহু আকবার। সব প্রশংসা আল্লাহর, যিনি তার চক্রান্তকে ফিরিয়ে দিয়েছেন নিছক কুমন্ত্রণায়।"
+          },
+          {
+            "en": "Abu Dawud gives no grading for it on the page consulted. Al-Qurtubi, closing his discussion of 114:6, cites a narration of Abu Hurayra (RA) that Muslim records, found in Sahih Muslim (127): Allah has overlooked for my community what their selves tell them, so long as they do not speak of it or act upon it. Neither report is about this verse in particular; both concern what passes through the heart. A whisper heard is not a sin committed.",
+            "bn": "যে পৃষ্ঠা দেখা হয়েছে, সেখানে আবু দাউদ এর কোনো মান উল্লেখ করেননি। কুরতুবী ১১৪:৬ আয়াতের আলোচনা শেষ করেন আবু হুরায়রা (রাঃ)-এর একটি বর্ণনা দিয়ে, যা মুসলিম এনেছেন। সহীহ মুসলিমে (১২৭) আছে: আমার উম্মতের মনে যা আসে, আল্লাহ তা ক্ষমা করে দিয়েছেন, যতক্ষণ না তারা তা মুখে বলে বা সে অনুযায়ী কাজ করে। কোনো বর্ণনাই বিশেষভাবে এই আয়াত নিয়ে নয়। দুটোই অন্তরের ভেতর দিয়ে যা বয়ে যায়, তা নিয়ে। কুমন্ত্রণা শুনে ফেলা মানেই গুনাহ করে ফেলা নয়।"
+          },
+          {
+            "en": "So the verse leaves the reader with an enemy cut down to size. He is real, patient and close. Yet his power is that of a voice that cannot be heard, and it gives way before a name that can be spoken. The Qur'an's final surah does not ask the believer to defeat him alone. It teaches words to say, and to Whom. The remembrance that sends the whisperer back is the very refuge the surah began with.",
+            "bn": "আয়াতটি তাই পাঠকের সামনে শত্রুকে তার আসল মাপে দাঁড় করায়। সে বাস্তব, সে ধৈর্যশীল, আর সে কাছেই থাকে। তবু তার শক্তি এমন এক কণ্ঠের শক্তি, যা শোনা যায় না। আর সে শক্তি হার মানে এমন এক নামের সামনে, যা মুখে উচ্চারণ করা যায়। কুরআনের শেষ সূরা মুমিনকে একা লড়ে তাকে হারাতে বলে না। সে শেখায় কী বলতে হবে, আর কাকে বলতে হবে। যে জিকির কুমন্ত্রণাদাতাকে পিছু হটায়, সেটাই সেই আশ্রয় চাওয়া, যা দিয়ে সূরাটি শুরু হয়েছিল।"
+          }
+        ]
+      }
+    ]
   }
 });

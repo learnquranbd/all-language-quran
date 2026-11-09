@@ -30203,6 +30203,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The warning has already been given while there is still time; hear it as meant for you, and turn toward the way He has made plain rather than away from it.",
     "lessonBn": "সময় থাকতেই সতর্কবাণী দেওয়া হয়ে গেছে। একে নিজের জন্য বলা কথা হিসেবে শুনুন, আর তিনি যে পথ স্পষ্ট করে দিয়েছেন, তা থেকে মুখ না ফিরিয়ে সেদিকেই ফিরুন।"
+  },
+  "114:4": {
+    "reflectionEn": "After three names of the One who shelters comes the thing sheltered from, and it is described by its habits, not its strength. It whispers, and it withdraws. It does not shout or drag anyone by force. It speaks where no voice is heard, makes the wrong thing look attractive and the right thing look heavy, then falls back the moment the heart turns to its Lord, and waits for the next lapse. Such an enemy is patient but not strong. It works through heedlessness, so the remedy is close at hand: remembering Allah. Which thoughts this week came in quietly and stayed? When did I last feel one leave because I called on Him?",
+    "reflectionBn": "আশ্রয়দাতার তিনটি নাম বলা শেষ। এবার আসে সেই জিনিসের কথা, যার থেকে আশ্রয় চাওয়া হচ্ছে। তার পরিচয় দেওয়া হয়েছে শক্তি দিয়ে নয়, স্বভাব দিয়ে। সে ফিসফিস করে, আর সরে পড়ে। চিৎকার করে না, কাউকে জোর করে টেনেও নেয় না। এমনভাবে কথা বলে যে কোনো আওয়াজ শোনা যায় না। ভুল কাজটাকে লোভনীয় দেখায়, সঠিক কাজটাকে ভারী করে তোলে। তারপর অন্তর যেই রবের দিকে ফেরে, সে পিছিয়ে যায় আর পরের অমনোযোগের অপেক্ষায় থাকে। এমন শত্রু ধৈর্যশীল, কিন্তু শক্তিশালী নয়। তার কাজ চলে গাফিলতির ভেতর দিয়ে, তাই প্রতিকারও হাতের কাছেই: আল্লাহর জিকির। এ সপ্তাহে কোন চিন্তাগুলো চুপিচুপি ঢুকে থেকে গেছে? শেষ কবে টের পেয়েছি, তাঁকে ডাকতেই একটা কুমন্ত্রণা সরে গেল?",
+    "pointsEn": [
+      "Which thought keeps coming back to me in quiet moments, and have I ever answered it by remembering Allah instead of arguing with it?",
+      "When am I most open to whispering: in grief, in joy, or in idle hours with nothing to do?",
+      "What good deed has lately been made to look heavy to me, and what wrong has been made to look easy?",
+      "Have my own words ever worked like a whisper on someone else, making a wrong look small or a duty look pointless?",
+      "When an unwanted thought frightens me, do I treat it as proof of my own guilt, or do I turn to Allah and let it pass?"
+    ],
+    "pointsBn": [
+      "নিরিবিলি মুহূর্তে কোন চিন্তাটা বারবার ফিরে আসে? তার সঙ্গে তর্ক না করে আল্লাহর জিকির দিয়ে কি কখনো জবাব দিয়েছি?",
+      "কোন অবস্থায় আমি কুমন্ত্রণার সামনে সবচেয়ে অরক্ষিত: দুঃখের সময়, আনন্দের সময়, নাকি কাজহীন অলস সময়ে?",
+      "ইদানীং কোন নেক কাজকে আমার কাছে ভারী দেখানো হয়েছে, আর কোন অন্যায়কে সহজ দেখানো হয়েছে?",
+      "আমার নিজের কথাও কি কখনো অন্যের কানে কুমন্ত্রণার মতো কাজ করেছে, কোনো অন্যায়কে তুচ্ছ বা কোনো দায়িত্বকে অর্থহীন দেখিয়ে?",
+      "অনাকাঙ্ক্ষিত কোনো চিন্তা যখন আমাকে ভয় পাইয়ে দেয়, আমি কি তাকে নিজের অপরাধের প্রমাণ ধরে নিই, নাকি আল্লাহর দিকে ফিরে তাকে চলে যেতে দিই?"
+    ],
+    "lessonEn": "The whisperer works through heedlessness: he speaks unseen and falls back when Allah is remembered. Keep the heart awake with remembrance, and do not take every passing whisper for your own.",
+    "lessonBn": "কুমন্ত্রণাদাতার কাজ চলে গাফিলতির ভেতর দিয়ে। সে অদৃশ্যে কথা বলে, আর আল্লাহর জিকির হলেই পিছিয়ে যায়। জিকির দিয়ে অন্তরকে জাগিয়ে রাখুন, আর মনে আসা প্রতিটি কুমন্ত্রণাকে নিজের বলে ধরে নেবেন না।"
   }
 };
 
