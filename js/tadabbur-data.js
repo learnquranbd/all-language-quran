@@ -29783,6 +29783,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The record of the righteous is kept high, in 'Illiyyun. Fill yours with duties done and harm avoided, down to the smallest creature, and leave its final place to Allah.",
     "lessonBn": "সৎলোকদের আমলনামা রাখা হয় উঁচুতে, ইল্লিয়্যীনে। আপনার খাতা ভরে তুলুন আদায় করা ফরজ আর এড়িয়ে চলা কষ্ট দিয়ে, ছোট্ট প্রাণীর বেলাতেও। আর তার শেষ ঠিকানা ছেড়ে দিন আল্লাহর হাতে।"
+  },
+  "85:4": {
+    "reflectionEn": "Three Arabic words, and the first is a sentence passed: qutila, destroyed, which the commentators read as cursed. On whom? On the people of the trench, who cut a long gash in the ground, filled it with fire and sat at its rim, watching what they did to believers whose only offence was faith in Allah. The verse names no country, no year and no king. It watches the deed, and the One who saw it. Who the people of the trench were is disputed; what they did is not. Few of us will stand at such a rim. Yet pressure to give up what we believe comes in smaller shapes, and the question stays the same: what would I let go of to be spared?",
+    "reflectionBn": "আরবিতে মাত্র তিনটি শব্দ, আর প্রথম শব্দেই রায় ঘোষণা হয়ে গেছে: কুতিলা, ধ্বংস হোক। তাফসীরকারেরা এর অর্থ করেন, অভিশপ্ত হোক। কারা? গর্তওয়ালারা। তারা মাটিতে লম্বা ফাটল কেটেছিল, তাতে আগুন জ্বেলেছিল, তারপর কিনারায় বসে দেখছিল মু'মিনদের সঙ্গে কী করছে। সেই মু'মিনদের অপরাধ একটাই, আল্লাহর প্রতি ঈমান। আয়াতে কোনো দেশের নাম নেই, সাল নেই, রাজার নাম নেই। চোখ শুধু কাজটার উপর, আর যিনি সব দেখেছেন তাঁর উপর। গর্তওয়ালারা কারা ছিল, তা নিয়ে মতভেদ আছে। তারা কী করেছিল, তা নিয়ে নেই। আমাদের খুব কম মানুষকেই এমন আগুনের কিনারায় দাঁড়াতে হবে। তবু বিশ্বাস ছেড়ে দেওয়ার চাপ ছোট ছোট চেহারায় আসে, আর প্রশ্নটা একই থাকে: রেহাই পেতে আমি কী কী ছেড়ে দিতে রাজি?",
+    "pointsEn": [
+      "When holding to my faith costs me something small, a joke at my expense, a lost chance, a raised eyebrow, do I pay it or quietly step back?",
+      "The people of the trench sat and watched. When harm is done in front of me, am I ever among those who only look on?",
+      "Do I let the argument over who, where and when crowd out the plain point the verse makes?",
+      "If someone held something against me, would it be my faith, or my faults?",
+      "Is my belief rooted deeply enough to hold under pressure, or could I be talked out of it?"
+    ],
+    "pointsBn": [
+      "ঈমান আঁকড়ে থাকতে গিয়ে যখন সামান্য দাম দিতে হয়, কারও ঠাট্টা, হাতছাড়া হওয়া কোনো সুযোগ, কারও বাঁকা চাহনি, তখন আমি কি দামটা দিই, নাকি চুপচাপ পিছিয়ে আসি?",
+      "গর্তওয়ালারা বসে বসে দেখছিল। আমার চোখের সামনে কারও উপর অন্যায় হলে আমি কি কখনো শুধু দর্শক হয়ে থাকি?",
+      "কারা, কোথায়, কবে, এই তর্ক কি আয়াতের সোজা কথাটাকে আমার কাছে ঢেকে দেয়?",
+      "কেউ যদি আমার উপর কোনো কারণে নাখোশ হয়, সেটা কি আমার ঈমানের জন্য, নাকি আমার দোষের জন্য?",
+      "আমার বিশ্বাসের শিকড় কি এত গভীরে যে চাপের মুখেও টিকে থাকবে, নাকি কথার জোরে কেউ আমাকে টলিয়ে দিতে পারবে?"
+    ],
+    "lessonEn": "Hold to faith when it costs you, and never be among those who sit and watch others harmed for what they believe; Allah sees the deed and the onlookers alike.",
+    "lessonBn": "ঈমানের দাম দিতে হলেও তা আঁকড়ে থাকুন। বিশ্বাসের কারণে কাউকে কষ্ট দেওয়া হলে বসে বসে দেখা লোকদের দলে কখনো থাকবেন না। কাজটা আর দর্শক, দুটোই আল্লাহ দেখেন।"
   }
 };
 

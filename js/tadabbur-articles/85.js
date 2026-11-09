@@ -159,6 +159,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "85:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Verb Without Its Doer",
+          "bn": "কর্তাহীন এক ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Qutila ashabu al-ukhdud: destroyed were the companions of the trench, a phrase most of the commentators consulted here gloss as cursed. The verse is three Arabic words. The first is a passive verb: it states what befell them, not who brought it about. The second, ashab, means companions or owners, the people who belong to a thing. The third, al-ukhdud, is the trench. The verse names no place, no ruler and no year, and the commentators fill that silence differently.",
+            "bn": "কুতিলা আসহাবুল উখদূদ: ধ্বংস হয়েছে গর্তওয়ালারা। এখানে যেসব তাফসীর দেখা হয়েছে, তার বেশিরভাগই এর অর্থ করে, অভিশপ্ত হয়েছে। আয়াতটি আরবিতে তিনটি শব্দের। প্রথম শব্দটি কর্মবাচ্যের ক্রিয়া। তাদের উপর কী নেমে এল, তা সে বলে দেয়, কিন্তু কে নামাল তার নাম নেয় না। দ্বিতীয় শব্দ আসহাব, মানে সঙ্গী বা মালিক, অর্থাৎ যারা কোনো কিছুর সঙ্গে জড়িয়ে আছে। তৃতীয় শব্দ আল-উখদূদ, গর্ত বা পরিখা। আয়াতে কোনো জায়গার নাম নেই, শাসকের নাম নেই, সালও নেই। আর এই নীরবতা তাফসীরকারেরা ভরাট করেছেন একেবারে ভিন্ন ভিন্নভাবে।"
+          },
+          {
+            "en": "The verse comes straight after three oaths: by the sky with the buruj in 85:1, by the promised day in 85:2, and by the witness and the witnessed in 85:3. With 85:4 the surah turns from what it swears by to a scene, and the next five verses fill it in: a fire full of fuel, the persecutors seated over it, their watching, their one grievance against the believers, and the dominion of the One who witnessed it all. The ruling in 85:10 has its own entry.",
+            "bn": "আয়াতটি আসে পরপর তিনটি শপথের ঠিক পরে। ৮৫:১ আয়াতে বুরূজওয়ালা আকাশের শপথ, ৮৫:২ আয়াতে প্রতিশ্রুত দিনের, আর ৮৫:৩ আয়াতে সাক্ষী ও যার সাক্ষ্য দেওয়া হয় তার। ৮৫:৪ থেকে সূরা শপথ ছেড়ে একটি দৃশ্যের দিকে ফেরে। পরের পাঁচ আয়াত সেই দৃশ্য পূর্ণ করে: ইন্ধনে ঠাসা আগুন, তার উপর বসে থাকা নির্যাতনকারীরা, তাদের চেয়ে চেয়ে দেখা, মু'মিনদের বিরুদ্ধে তাদের একমাত্র আপত্তি, আর যিনি সবকিছুর সাক্ষী, আসমান-যমীনের রাজত্ব তাঁরই। ৮৫:১০ আয়াতের বিধানের আলোচনা আলাদা জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Curse or a Report",
+          "bn": "অভিশাপ, না বিবরণ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with the gloss: qutila means lu'ina, cursed were the companions of the trench. He then records a second view, introduced with some used to say: that qutila is a report from Allah about the fire, that it killed them. From Qatada he adds that the companions of the trench are the killers, the ones who killed them. Al-Qurtubi gives the curse together with a rule from Ibn 'Abbas: every qutila in the Qur'an means lu'ina. Al-Baghawi, Ibn Kathir in his Arabic and the Muyassar give the same single word, cursed.",
+            "bn": "তাবারী শুরু করেন অর্থ দিয়ে: কুতিলা মানে লু'ইনা, গর্তওয়ালারা অভিশপ্ত হয়েছে। তারপর তিনি আরেকটি মত আনেন, 'কেউ কেউ বলতেন' বলে: কুতিলা হলো আগুন সম্পর্কে আল্লাহর দেওয়া খবর, আগুন তাদের মেরে ফেলেছে। কাতাদা থেকে তিনি যোগ করেন, গর্তওয়ালা মানে হত্যাকারীরা, যারা তাদের হত্যা করেছিল। কুরতুবীও অভিশাপের অর্থ নেন, সঙ্গে ইবন আব্বাস (রাঃ)-এর একটি নিয়ম জুড়ে দেন: কুরআনে যেখানেই কুতিলা, তার মানে লু'ইনা। বাগাভী, আরবি তাফসীরে ইবন কাসীর এবং মুয়াসসার একই কথা বলেন এক শব্দে: অভিশপ্ত।"
+          },
+          {
+            "en": "As-Sa'di hears the words as a du'a against them, a prayer for their destruction, and then says in his own voice that for this Allah cursed them, destroyed them and threatened them. So the verse is heard as a curse pronounced, as a sentence carried out, and as a report of what the fire did. At-Tabari weighs the two readings he recorded and calls the curse the sounder reading: cursed were the companions of the trench, who threw the believing men and women into it. He credits his reason to al-Rabi' ibn Anas and draws it from 85:10, whose entry sets it out.",
+            "bn": "সা'দী কথাটিকে দেখেন তাদের বিরুদ্ধে দু'আ হিসেবে, ধ্বংস হোক বলে বদদু'আ। তারপর নিজের ভাষায় বলেন, এ কারণেই আল্লাহ তাদের অভিশাপ দিয়েছেন, ধ্বংস করেছেন, আর শাস্তির হুমকি দিয়েছেন। ফলে আয়াতটি তিনভাবে শোনা যায়: উচ্চারিত অভিশাপ, কার্যকর হয়ে যাওয়া রায়, আর আগুন কী করেছিল তার খবর। তাবারী নিজের আনা দুই ব্যাখ্যা মেপে দেখে অভিশাপের অর্থটিকেই বেশি সঠিক বলেন: অভিশপ্ত হয়েছে সেই গর্তওয়ালারা, যারা মু'মিন নারী-পুরুষকে তাতে ছুড়ে ফেলেছিল। তাঁর যুক্তি তিনি রাবী' ইবন আনাস থেকে নেন, আর তা দাঁড়িয়ে আছে ৮৫:১০ আয়াতের উপর। সে আলোচনা ওই আয়াতের জায়গায়।"
+          },
+          {
+            "en": "Whether 85:4 also answers the oath of 85:1 to 85:3 is discussed under this verse too, by at-Tabari, al-Qurtubi and as-Sa'di. The entry on 85:1 sets out their views in full, so they are only named here; at-Tabari's own choice is that the answer is left unstated. None of the views changes on whom the curse falls: on those who dug the trench and fed it with believers.",
+            "bn": "৮৫:৪ আয়াতটিই ৮৫:১ থেকে ৮৫:৩ আয়াতের শপথের জবাব কি না, সে আলোচনাও তাবারী, কুরতুবী ও সা'দী এই আয়াতের নিচেই করেছেন। ৮৫:১ আয়াতের আলোচনায় তাঁদের মতগুলো বিস্তারিত আছে, তাই এখানে শুধু উল্লেখ করা হলো। তাবারীর নিজের পছন্দ, জবাবটি উহ্য রাখা হয়েছে। কোনো মতেই অভিশাপের লক্ষ্য বদলায় না। তা পড়ে তাদেরই উপর, যারা গর্ত খুঁড়েছিল আর তাতে মু'মিনদের ঠেলে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Furrows Cut in the Earth",
+          "bn": "মাটির বুকে লম্বা ফাটল"
+        },
+        "p": [
+          {
+            "en": "What is an ukhdud? At-Tabari closes his comment with a short answer: the pit dug in the ground, and as-Sa'di says the same. Ibn Kathir gives the plural, akhadid, and calls them pits in the earth. Al-Baghawi adds a shape: the long split in the earth, like a river channel. Al-Qurtubi adds a size: the great, long split in the earth, like a khandaq, a defensive trench. The Muyassar describes the deed rather than the word: they split the earth with a great split, to torment the believers.",
+            "bn": "উখদূদ জিনিসটা কী? তাবারী তাঁর আলোচনা শেষ করেন ছোট্ট উত্তরে: মাটিতে খোঁড়া গর্ত। সা'দীও তা-ই বলেন। ইবন কাসীর বহুবচন আখাদীদ উল্লেখ করে বলেন, মাটির গর্তগুলো। বাগাভী আকারটা জুড়ে দেন: মাটিতে লম্বা ফাটল, নালার মতো। কুরতুবী জুড়ে দেন মাপ: মাটির বুকে বিশাল লম্বা ফাটল, খন্দকের মতো, অর্থাৎ প্রতিরক্ষার পরিখা। মুয়াসসার শব্দের সংজ্ঞায় যায় না, কাজটার বর্ণনা দেয়: মু'মিনদের শাস্তি দিতে তারা মাটিতে বিরাট ফাটল কেটেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi then follows the root kh-d-d through ordinary speech. The khadd, the cheek, takes its name from the courses the tears run in, and the mikhadda, the pillow, from the cheek laid on it. Of a man whose face has been furrowed by wounds, one says takhaddada wajhuhu. He closes with a line from the poet Tarafa, praising a face so clear that it had never been furrowed. The word pictures a long, deep line cut into a surface: something dug, by hands, with a purpose.",
+            "bn": "এরপর কুরতুবী খ-দ-দ ধাতুটিকে রোজকার কথায় খুঁজে দেখান। খাদ্দ মানে গাল, নাম হয়েছে চোখের পানি গড়িয়ে নামার পথ থেকে। মিখাদ্দা মানে বালিশ, কারণ তাতে গাল রাখা হয়। কারও মুখে আঘাতের দাগে খাঁজ পড়ে গেলে আরবরা বলে, তাখাদ্দাদা ওয়াজহুহু। শেষে তিনি কবি তারাফার একটি পঙ্‌ক্তি আনেন। সেখানে এমন এক মুখের প্রশংসা, যা এত উজ্জ্বল যে তাতে কখনো খাঁজ পড়েনি। শব্দটা তাই চোখে আনে কোনো তলের উপর কাটা লম্বা, গভীর এক দাগ। অর্থাৎ এমন কিছু, যা হাতে খোঁড়া হয়েছে, উদ্দেশ্য নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Boy Who Would Not Recant",
+          "bn": "যে বালক ফিরে যায়নি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, al-Baghawi and Ibn Kathir each bring, under this verse, a long narration from Suhayb from the Messenger of Allah ﷺ. It is in Sahih Muslim, number 3005 on quranx.com. Al-Baghawi, who carries it by his own chain, calls it sahih and says Muslim recorded it; Ibn Kathir notes that Ahmad recorded it too. It is too long to quote whole, so what follows summarises Muslim's wording alone. A king's aging magician asked for a boy to train, and on his way to lessons the boy began sitting with a monk.",
+            "bn": "তাবারী, বাগাভী ও ইবন কাসীর তিনজনই এই আয়াতের নিচে সুহাইব (রাঃ)-এর সূত্রে রাসূলুল্লাহ ﷺ থেকে একটি দীর্ঘ বর্ণনা আনেন। হাদীসটি সহীহ মুসলিমে আছে, quranx.com-এ তার নম্বর ৩০০৫। বাগাভী নিজের সনদে এটি বর্ণনা করে একে সহীহ বলেন এবং জানান যে মুসলিম এটি সংকলন করেছেন। ইবন কাসীর উল্লেখ করেন, আহমাদও এটি বর্ণনা করেছেন। পুরোটা উদ্ধৃত করার মতো ছোট নয়, তাই নিচে শুধু মুসলিমের ভাষ্যের সারকথা দেওয়া হলো। এক রাজার জাদুকর বুড়ো হয়ে গেলে শেখানোর জন্য একটি বালক চাইল। জাদুকরের কাছে যাওয়ার পথে বালকটি এক সন্ন্যাসীর কাছে বসতে শুরু করল।"
+          },
+          {
+            "en": "When a great beast blocked the road, the boy threw a stone, asking Allah to kill it if the monk's way was dearer to Him than the magician's, and it died. He came to heal the blind and the leper, and told a blind courtier who brought gifts that he healed no one: only Allah heals, and if you believe I will pray to Him. The courtier believed, could see, and told the king it was his Lord and the king's: Allah. Under torture he pointed to the boy, and the boy, under torture, pointed to the monk.",
+            "bn": "একদিন বিশাল এক জন্তু পথ আটকে দাঁড়াল। বালকটি পাথর ছুড়ল আর আল্লাহর কাছে চাইল, সন্ন্যাসীর পথ যদি জাদুকরের পথের চেয়ে তাঁর কাছে বেশি প্রিয় হয়, তবে জন্তুটা যেন মরে যায়। জন্তুটা মরে গেল। এরপর সে অন্ধ ও কুষ্ঠরোগীদের সারিয়ে তুলতে লাগল। রাজার এক অন্ধ সভাসদ উপহার নিয়ে এলে সে বলল, আমি কাউকে সারাই না, সারান কেবল আল্লাহ। আপনি ঈমান আনলে আমি তাঁর কাছে দু'আ করব। সভাসদ ঈমান আনল, চোখ ফিরে পেল। রাজাকে সে জানাল, এ কাজ তার রবের, যিনি রাজারও রব, আল্লাহ। নির্যাতনের মুখে সে বালকের কথা বলে দিল, আর নির্যাতনের মুখে বালক বলে দিল সন্ন্যাসীর কথা।"
+          },
+          {
+            "en": "The monk and the courtier would not turn back and were sawn apart. Twice the boy was taken away to be killed, and twice those who took him perished. Then he told the king to gather the people, tie him to a trunk and shoot him saying, in the name of Allah, Lord of the boy. He died, and the people said: we believe in the Lord of the boy. The king had trenches cut at the mouths of the roads and fires lit. A mother shrank back at the edge, and her child said: mother, be patient, for you are on the truth.",
+            "bn": "সন্ন্যাসী ও সভাসদ কেউই নিজের দীন ছাড়তে রাজি হলো না। করাত দিয়ে দুজনকেই চিরে ফেলা হলো। বালককে দুবার মেরে ফেলতে নিয়ে যাওয়া হলো, আর দুবারই যারা নিয়ে গেল তারাই মারা পড়ল। তখন সে রাজাকে বলল, লোকজন জড়ো করুন, আমাকে একটা গাছের গুঁড়িতে বাঁধুন, তারপর 'বালকের রব আল্লাহর নামে' বলে তির ছুড়ুন। সে মারা গেল, আর লোকেরা বলে উঠল, আমরা বালকের রবের প্রতি ঈমান আনলাম। রাজা পথের মুখে মুখে গর্ত কাটিয়ে তাতে আগুন জ্বালাল। এক মা কিনারায় এসে পিছিয়ে যাচ্ছিল। তার শিশু বলল, মা, সবর করুন, আপনি তো সত্যের উপর আছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Najran and a King of Himyar",
+          "bn": "নাজরান ও হিময়ারের রাজা"
+        },
+        "p": [
+          {
+            "en": "Muslim's narration names no place and does not quote 85:4, but other reports do. At-Tabari reports from Mujahid that there were fissures in the ground at Najran in which people were tormented. Al-Baghawi relays, through Muhammad ibn Ishaq from Wahb ibn Munabbih, that a man who had stayed on the religion of 'Isa (AS) came to the people of Najran and they followed him. In that report a king called Dhu Nuwas, described as a Jew, marched on them with soldiers of Himyar, offered them the fire or his own religion, and burned twelve thousand.",
+            "bn": "মুসলিমের বর্ণনায় কোনো জায়গার নাম নেই, ৮৫:৪ আয়াতের উদ্ধৃতিও নেই। অন্য কিছু বর্ণনায় অবশ্য জায়গার নাম আছে। তাবারী মুজাহিদ থেকে বর্ণনা করেন, নাজরানে মাটিতে কিছু ফাটল ছিল, সেখানে মানুষকে শাস্তি দেওয়া হতো। বাগাভী মুহাম্মাদ ইবন ইসহাকের মাধ্যমে ওয়াহব ইবন মুনাব্বিহ থেকে আনেন: ঈসা (আঃ)-এর দীনে টিকে থাকা এক ব্যক্তি নাজরানবাসীর কাছে এলে তারা তাঁর অনুসারী হলো। সেই বর্ণনা অনুযায়ী যু নুওয়াস নামের এক রাজা, যাকে ইহুদি বলা হয়েছে, হিময়ারের সৈন্য নিয়ে তাদের উপর চড়াও হলো। সামনে রাখল দুটি পথ, আগুন অথবা তার দীন। তারা মানল না, আর সে ১২ হাজার মানুষকে পুড়িয়ে মারল।"
+          },
+          {
+            "en": "Ibn Kathir summarises Ibn Ishaq's Sira with a different count: Dhu Nuwas called the people of Najran, who had taken up the boy's religion, to his own, and killed nearly twenty thousand by fire and sword; Ibn Ishaq takes the verses to speak of him and his army. Al-Baghawi also gives a report from 'Ata' from Ibn 'Abbas naming the king Yusuf Dhu Nuwas, a Himyarite ruler at Najran, and the boy 'Abdullah ibn at-Tamir. Ma'arif al-Qur'an gives the king the same name on Ibn 'Abbas's authority, about seventy years before the Prophet's ﷺ birth.",
+            "bn": "ইবন কাসীর ইবন ইসহাকের সীরাহ থেকে সারসংক্ষেপ দেন, তবে সংখ্যাটা আলাদা। নাজরানের লোকেরা বালকের দীন গ্রহণ করেছিল, যু নুওয়াস তাদের নিজের দীনের দিকে ডাকল, তারপর আগুনে ও তলোয়ারে প্রায় ২০ হাজার মানুষ হত্যা করল। ইবন ইসহাকের মতে আয়াতগুলো তাকে আর তার বাহিনীকে নিয়েই। বাগাভী আতার সূত্রে ইবন আব্বাস (রাঃ) থেকেও একটি বর্ণনা আনেন। সেখানে রাজার নাম ইউসুফ যু নুওয়াস, নাজরানে হিময়ারের এক শাসক, আর বালকের নাম আবদুল্লাহ ইবন তামির। মাআরিফুল কুরআনও ইবন আব্বাস (রাঃ)-এর বরাতে রাজার একই নাম দেয়, আর সময় বলে নবী ﷺ-এর জন্মের প্রায় ৭০ বছর আগে।"
+          },
+          {
+            "en": "These reports describe one king, his soldiers and one town in one age, and the religion they give him is part of what they report. The verse itself names neither him nor any people. It describes what its text describes and licenses nothing against any living person or community. What they share with the verse is plainer: believers were put to the fire for their faith in Allah and for nothing else, as 85:8 says.",
+            "bn": "এসব বর্ণনা এক যুগের এক রাজা, তার সৈন্যদল আর একটি জনপদের কথা বলে। রাজার যে ধর্মপরিচয় তারা দেয়, সেটাও বর্ণনারই অংশ। আয়াত নিজে না তার নাম নেয়, না কোনো জাতির। আয়াতের ভাষ্য যা বলে, আয়াত শুধু সেটুকুই বলে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে সে কোনো কিছুর অনুমতি দেয় না। বর্ণনাগুলোর সঙ্গে আয়াতের মিল আরও সোজা জায়গায়: মু'মিনদের আগুনে ফেলা হয়েছিল কেবল আল্লাহর প্রতি ঈমানের কারণে, আর কিছুর জন্য নয়, যেমনটি ৮৫:৮ আয়াত বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Lands, Other Kings",
+          "bn": "অন্য দেশ, অন্য রাজা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying the people of knowledge differed over who the companions of the trench were, and his first answer is not Najran. Through Ibn Abza he reports from 'Ali ibn Abi Talib that they were a people of the Book, from the remnant of the Majus. A king of theirs, after a grave sin, told his people that Allah had permitted what no prophet had brought them. When they refused even under whip and sword, he cut the trench and threw in all who held out. Al-Baghawi gives the same account through Sa'id ibn Jubayr and Ibn Abza.",
+            "bn": "তাবারী প্রশ্নটি শুরু করেন এই বলে যে, গর্তওয়ালারা কারা, তা নিয়ে আলেমদের মধ্যে মতভেদ হয়েছে। আর তাঁর প্রথম উত্তর নাজরান নয়। ইবন আবযার সূত্রে তিনি আলী ইবন আবী তালিব (রাঃ) থেকে বর্ণনা করেন: তারা ছিল আহলে কিতাব, মাজুসদের অবশিষ্ট অংশ। তাদের এক রাজা গুরুতর এক গুনাহ করার পর লোকদের বলল, আল্লাহ এমন জিনিস হালাল করেছেন, যা কোনো নবী তাদের কাছে আনেননি। চাবুক আর তলোয়ারের মুখেও তারা তা মানল না। তখন সে গর্ত কাটাল, আর যে-ই মানল না তাকে তাতে ছুড়ে ফেলল। বাগাভী একই ঘটনা আনেন সাঈদ ইবন জুবাইর ও ইবন আবযার সূত্রে।"
+          },
+          {
+            "en": "From Ibn 'Abbas, through al-'Awfi's chain, and from ad-Dahhak, at-Tabari reports that they were from the Children of Israel, who dug a trench, lit fires in it and set men and women before it; they claimed, he adds, that it was Daniyal (AS) and his companions. Al-Baghawi has two more. Abu at-Tufayl reports from 'Ali that the people of the trench had an Abyssinian prophet, sent to his own people, whose followers were seized and thrown into the fire. 'Ikrima said they were from the Nabataeans.",
+            "bn": "আওফীর সনদে ইবন আব্বাস (রাঃ) থেকে এবং দাহহাক থেকে তাবারী বর্ণনা করেন: তারা ছিল বনী ইসরাঈলের লোক। তারা গর্ত খুঁড়ে তাতে আগুন জ্বালায়, তারপর নারী-পুরুষদের তার সামনে দাঁড় করায়। সঙ্গে তিনি যোগ করেন, লোকেরা বলত, এরা ছিলেন দানিয়াল (আঃ) ও তাঁর সঙ্গীরা। বাগাভী আরও দুটি মত আনেন। আবু তুফাইল আলী (রাঃ) থেকে বর্ণনা করেন, গর্তওয়ালাদের নবী ছিলেন হাবশার লোক, নিজের জাতির কাছেই প্রেরিত। তাঁর অনুসারীদের ধরে আগুনে ফেলা হয়। আর ইকরিমা বলেন, তারা ছিল নাবাতি।"
+          },
+          {
+            "en": "At-Tabari also reports from al-Rabi' ibn Anas that they were believers who had withdrawn from people in the interval between prophets, and that an idol-worshipping tyrant offered them his religion or the fire. Al-Baghawi reports from Muqatil that there were three trenches, at Najran, in al-Sham under a Roman named Abtamus, and in Persia under Bukhtnassar, and that the Qur'an speaks only of the one at Najran. Ma'arif al-Qur'an, citing Ibn Kathir from Ibn Abi Hatim, likewise names three places and says the one meant here is Najran.",
+            "bn": "তাবারী রাবী' ইবন আনাস থেকে বর্ণনা করেন, তারা ছিলেন মু'মিন, দুই নবীর মাঝখানের সময়ে মানুষের কাছ থেকে আলাদা হয়ে থাকতেন। এক মূর্তিপূজারী জালিম শাসক তাদের সামনে রাখল তার দীন অথবা আগুন। বাগাভী মুকাতিল থেকে বর্ণনা করেন, গর্ত ছিল তিনটি: একটি নাজরানে, একটি শামে, আবতামূস নামের এক রোমানের হাতে, আর একটি পারস্যে, বুখতনাসরের হাতে। কুরআন কথা বলেছে কেবল নাজরানেরটি নিয়ে। মাআরিফুল কুরআন ইবন কাসীরের বরাতে ইবন আবী হাতিম থেকে একইভাবে তিনটি জায়গার নাম নেয়, আর বলে, এখানে উদ্দেশ্য নাজরানেরটিই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Accounts, One Deed",
+          "bn": "নানা বর্ণনা, একই অপরাধ"
+        },
+        "p": [
+          {
+            "en": "Laid side by side, the reports agree on no single place, ruler, religion or number. At-Tabari weighs the meaning of qutila but does not choose among the stories. Muqatil and the report Ma'arif relays favour Najran; the narration in Sahih Muslim names no place at all. This article keeps the disagreement as a disagreement. Each report speaks of people of its own distant age, and none makes any community alive today the subject of the verse. The verse describes what its text describes and licenses nothing against any living person or community.",
+            "bn": "বর্ণনাগুলো পাশাপাশি রাখলে দেখা যায়, জায়গা, শাসক, ধর্ম বা সংখ্যা, কোনোটিতেই সবাই একমত নয়। তাবারী কুতিলার অর্থ মেপে দেখেন, কিন্তু কাহিনিগুলোর মধ্যে কোনোটিকে বেছে নেন না। মুকাতিল আর মাআরিফের আনা বর্ণনা নাজরানের দিকে ঝোঁকে। সহীহ মুসলিমের বর্ণনায় কোনো জায়গার নামই নেই। এই লেখা মতভেদটাকে মতভেদ হিসেবেই রেখে দিচ্ছে। প্রতিটি বর্ণনা নিজের দূর অতীতের মানুষের কথা বলে। আজ বেঁচে থাকা কোনো সম্প্রদায়কে কোনো বর্ণনাই আয়াতের লক্ষ্য বানায় না। আয়াতের ভাষ্য যা বলে, আয়াত সেটুকুই বলে, আর জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না।"
+          },
+          {
+            "en": "One detail does recur, though none of the commentators consulted points it out. In Muslim's narration a mother shrinks back at the fire and her child holds her to the truth. A child speaks to a wavering mother again in the report Qatada relays from 'Ali, in Abu at-Tufayl's report from 'Ali, in Muqatil's account and in 'Ata''s report from Ibn 'Abbas. The settings differ; the moment stays. Someone stands at the edge and falters, and a small voice tells them not to turn back.",
+            "bn": "তবে একটা খুঁটিনাটি বারবার ফিরে আসে, যদিও এখানে দেখা কোনো তাফসীরকার তা আলাদা করে দেখাননি। মুসলিমের বর্ণনায় এক মা আগুনের সামনে পিছিয়ে যায়, আর তার শিশু তাকে সত্যের উপর ধরে রাখে। দ্বিধায় পড়া মায়ের সঙ্গে শিশুর কথা বলার দৃশ্য আবার আসে কাতাদার আনা আলী (রাঃ)-এর বর্ণনায়, আবু তুফাইলের সূত্রে আলী (রাঃ)-এর বর্ণনায়, মুকাতিলের বিবরণে, আর আতার সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনায়। পটভূমি বদলায়, মুহূর্তটা থেকে যায়। কেউ কিনারায় দাঁড়িয়ে টলে ওঠে, আর ছোট্ট একটি কণ্ঠ তাকে বলে, ফিরে যাবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing at the Rim",
+          "bn": "আগুনের কিনারায় দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's Arabic puts the whole scene in one sentence: a people of the disbelievers went after the believers among them, overpowered them and wanted them to turn back from their religion, and they refused. As-Sa'di adds how it worked: whoever answered them was let go, and whoever held to faith was thrown in. So the trench was more than a punishment. It was a choice set before each person, one at a time, with the fire in full view.",
+            "bn": "ইবন কাসীরের আরবি তাফসীর পুরো দৃশ্যটা এক বাক্যে বলে দেয়: কাফেরদের একদল তাদের মধ্যকার মু'মিনদের উপর চড়াও হলো, তাদের কাবু করল, চাইল তারা দীন ছেড়ে ফিরে আসুক। মু'মিনরা অস্বীকার করল। সা'দী জানান ব্যাপারটা চলত কীভাবে: যে তাদের কথা মানত, তাকে ছেড়ে দেওয়া হতো, আর যে ঈমানে অটল থাকত, তাকে ছুড়ে ফেলা হতো আগুনে। গর্তটা তাই শুধু শাস্তি ছিল না। প্রত্যেকের সামনে, একজন একজন করে, আগুন চোখের সামনে রেখে, এক বাছাইয়ের প্রশ্ন রাখা হচ্ছিল।"
+          },
+          {
+            "en": "Few readers will ever see such a trench, but the pressure to let go of faith comes in smaller forms: mockery, a lost opening, the hint that belief is better kept out of sight. The curse falls on the people of the trench, whom the next verses show seated at its rim, watching. It names no one alive today. It asks something narrower: what would I give up to be let go, and when someone is pressed for their faith before me, do I only look on?",
+            "bn": "এমন গর্ত খুব কম পাঠকই কোনোদিন দেখবেন। কিন্তু ঈমান ছেড়ে দেওয়ার চাপ আসে ছোট ছোট চেহারায়: ঠাট্টা, হাতছাড়া হওয়া কোনো সুযোগ, কিংবা এই ইঙ্গিত যে বিশ্বাসটা লোকচক্ষুর আড়ালে রাখাই ভালো। অভিশাপ পড়েছে গর্তওয়ালাদের উপর, পরের আয়াতগুলো যাদের দেখায় কিনারায় বসে চেয়ে থাকতে। আজকের কারও নাম তাতে নেই। পাঠকের কাছে আয়াতের চাওয়া আরও সরু: রেহাই পেতে আমি কী ছেড়ে দেব? আর আমার সামনে কাউকে তার ঈমানের জন্য চাপ দেওয়া হলে আমি কি শুধু চেয়েই থাকি?"
+          }
+        ]
+      }
+    ]
+  },
   "85:10": {
     "sections": [
       {
