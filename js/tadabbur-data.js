@@ -30103,6 +30103,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The woe here is not for the worshipper whose mind wanders, but for prayer kept for show, pushed out of its time, and never reaching the hand that should help others.",
     "lessonBn": "এখানকার দুর্ভোগ সেই নামাযির জন্য নয় যার মন মাঝে মাঝে সরে যায়। তা সেই নামাযের জন্য, যা লোক দেখানো, ওয়াক্ত পার করে পড়া, আর যা অন্যকে সাহায্য করার হাত পর্যন্ত কখনো পৌঁছায় না।"
+  },
+  "102:6": {
+    "reflectionEn": "Two words carry this verse: you will surely see the Blaze. Twice the surah has said that knowing is coming, and here is what will be known. It is sworn, so the seeing is not in question; only its timing is. The verse before it points to another way of seeing: with the knowledge of certainty, now, while the eyes are still on the next purchase, the next comparison, the next thing to count. One sight comes when it can change nothing. The other can still change what I spend this evening on. Which of the two am I choosing, and what would I let go of today if I truly saw what lies ahead?",
+    "reflectionBn": "এ আয়াতের পুরো ভার দুটি শব্দে: তোমরা অবশ্যই জাহান্নাম দেখবে। সূরাটি দুবার বলেছে, শিগগিরই তোমরা জানবে। কী জানবে, এখানে এসে তা খুলে গেল। কথাটা শপথ করে বলা, তাই দেখা নিয়ে কোনো সংশয় নেই, প্রশ্ন কেবল কখন। আগের আয়াত আরেক রকম দেখার কথা বলে: নিশ্চিত জ্ঞান দিয়ে দেখা, এখনই, যখন চোখ আটকে আছে পরের কেনাকাটায়, পরের তুলনায়, পরের হিসাবে। এক দেখা আসবে তখন, যখন আর কিছুই বদলানো যাবে না। অন্য দেখাটা আজ সন্ধ্যা কীসে কাটবে, তা এখনো বদলে দিতে পারে। এ দুইয়ের কোনটা আমি বেছে নিচ্ছি? সামনে যা আছে তা সত্যিই দেখতে পেলে আজ কোন জিনিসটা ছেড়ে দিতাম?",
+    "pointsEn": [
+      "If I knew with certainty what lies ahead, which of today's pursuits would I drop first?",
+      "What am I counting and comparing that has quietly taken the time I meant to give Allah?",
+      "When a warning is repeated to me, do I let it sharpen my attention, or do I grow used to it?",
+      "Do I picture the Hereafter often enough for it to change even one decision this week?",
+      "Of the plain blessings I had today, water, food and shade, which did I actually thank Allah for?"
+    ],
+    "pointsBn": [
+      "সামনে কী আছে তা নিশ্চিতভাবে জানলে আজকের কোন দৌড়টা আমি সবার আগে থামাতাম?",
+      "কোন জিনিসের হিসাব আর তুলনা চুপিসারে সেই সময়টুকু খেয়ে ফেলেছে, যা আল্লাহর জন্য রাখব ভেবেছিলাম?",
+      "একই সতর্কবাণী বারবার শুনলে আমি কি আরও সজাগ হই, নাকি কানে সয়ে যায়?",
+      "আখিরাতের ছবি কি আমি এত ঘন ঘন মনে আনি যে এ সপ্তাহের অন্তত একটা সিদ্ধান্ত তাতে বদলে যায়?",
+      "আজ যে সাধারণ নিয়ামতগুলো পেয়েছি, পানি, খাবার, ছায়া, তার কোনটার জন্য সত্যিই আল্লাহর শুকরিয়া আদায় করেছি?"
+    ],
+    "lessonEn": "Let certain knowledge of the Fire reach your heart now, while it can still change what you chase, before it is seen with the eyes when it can change nothing.",
+    "lessonBn": "জাহান্নামের নিশ্চিত জ্ঞান এখনই অন্তরে পৌঁছাতে দিন, যখন তা আপনার ছুটে চলার দিক বদলাতে পারে। চোখে দেখার দিন এলে আর কিছুই বদলানো যাবে না।"
   }
 };
 

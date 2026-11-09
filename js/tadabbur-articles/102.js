@@ -154,5 +154,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "102:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Oath in Two Words",
+          "bn": "দুই শব্দে এক শপথ"
+        },
+        "p": [
+          {
+            "en": "La-tarawunna al-jahim: you will surely see the Blaze. In Arabic the verse is two words, and its force sits in the grammar. The la- at the front and the doubled -nna at the end mark a sworn statement, and al-Qurtubi says so plainly: the verse rests on an implied oath. He calls it another threat, laid on top of the ones before it, and fixes its time: you will see the Jahim in the Hereafter.",
+            "bn": "লাতারাউন্নাল জাহীম: তোমরা অবশ্যই জ্বলন্ত আগুন দেখবে। আরবিতে আয়াতটি মাত্র দুই শব্দের, আর এর জোর লুকিয়ে আছে ব্যাকরণে। শুরুর 'লা' আর শেষের দ্বিত্ব 'ন্না' শপথ করে বলা কথার চিহ্ন। কুরতুবী সোজাসুজি বলেন, আয়াতের ভেতরে একটি উহ্য শপথ আছে। তিনি একে বলেন আরেকটি হুমকি, আগেরগুলোর উপর নতুন করে চাপানো। সময়টাও তিনি বেঁধে দেন: আখিরাতে তোমরা জাহীম দেখবে।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse as a key to what came before. Twice the surah has said kalla sawfa ta'lamun, no indeed, you will come to know, without saying what would be known. This, he says, is the explanation of that threat: what they will come to know is the sight of the Fire. The Muyassar compresses 102:5 to 102:8 into a single line: you will surely behold the Jahim, then behold it beyond doubt.",
+            "bn": "ইবন কাসীরের চোখে আয়াতটি আগের কথার চাবি। সূরাটি দুবার বলেছে কাল্লা সাওফা তা'লামূন, কক্ষনো না, শিগগিরই তোমরা জানবে। কিন্তু কী জানবে, তা বলেনি। ইবন কাসীর বলেন, এ আয়াত সেই হুমকির ব্যাখ্যা: তারা যা জানবে, তা হলো আগুনকে চোখে দেখা। মুয়াসসার ১০২:৫ থেকে ১০২:৮ পর্যন্ত এক বাক্যে গুটিয়ে আনে: তোমরা অবশ্যই জাহীম দেখবে, তারপর নিঃসন্দেহে দেখবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Warning Comes Twice",
+          "bn": "সতর্কবাণী কেন দুবার"
+        },
+        "p": [
+          {
+            "en": "102:3 and 102:4 repeat a single sentence, the second time after thumma, then. At-Tabari glosses kalla as: this is not how you ought to act, letting rivalry divert you. He adds that when the Arabs wanted to make a warning harsher, they said the word twice. Al-Hasan al-Basri, in Ibn Kathir and in al-Baghawi (who pairs him with Muqatil), calls it a threat after a threat; al-Qurtubi gives the same words from Mujahid, and from al-Farra' the view that the repetition is for emphasis and severity.",
+            "bn": "১০২:৩ ও ১০২:৪ আয়াতে একই বাক্য দুবার এসেছে, দ্বিতীয়বার সামনে 'সুম্মা', অর্থাৎ তারপর। তাবারী 'কাল্লা'-র অর্থ করেন এভাবে: প্রতিযোগিতা তোমাদের ভুলিয়ে রাখবে, এভাবে চলা তোমাদের সাজে না। তিনি যোগ করেন, আরবরা সতর্কবাণী আরও কঠোর করতে চাইলে শব্দটি দুবার বলত। ইবন কাসীর ও বাগাভী হাসান বসরীর কথা আনেন, বাগাভী তাঁর পাশে মুকাতিলকেও রাখেন: এ হলো হুমকির পর হুমকি। কুরতুবী একই কথা আনেন মুজাহিদ থেকে, আর ফাররা থেকে আনেন এ মত যে পুনরাবৃত্তি জোর আর কঠোরতার জন্য।"
+          },
+          {
+            "en": "Others hear two different moments. Al-Qurtubi reports Ibn 'Abbas: you will know what comes down on you of punishment in the grave, then you will know in the Hereafter when the punishment falls; the first is the grave, the second the Hereafter, and the repetition covers both. He relays 'Ali (RA), through Zirr ibn Hubaysh, saying they doubted the punishment of the grave until this surah came down, a report already discussed under 102:1 and 102:2, and he reads the first warning as in the graves.",
+            "bn": "কেউ কেউ এখানে দুটি আলাদা মুহূর্ত শোনেন। কুরতুবী ইবন আব্বাস (রাঃ)-এর কথা আনেন: কবরে তোমাদের উপর যে আযাব নামবে, তা তোমরা জানবে। তারপর আখিরাতে আযাব যখন নেমে আসবে, তখন জানবে। প্রথমটা কবরে, দ্বিতীয়টা আখিরাতে, তাই পুনরাবৃত্তি দুই অবস্থার জন্য। তিনি যির ইবন হুবাইশের সূত্রে আলী (রাঃ)-এর কথাও আনেন: এ সূরা নাযিল হওয়ার আগে তাঁরা কবরের আযাব নিয়ে সন্দেহে ছিলেন। রিওয়ায়াতটি ১০২:১ ও ১০২:২ আয়াতের আলোচনায় আগেই এসেছে। কুরতুবী এ থেকে প্রথম সতর্কবাণী বোঝেন কবরের প্রসঙ্গে।"
+          },
+          {
+            "en": "Ad-Dahhak divides the people rather than the times. At-Tabari gives it with his chain: the first kalla sawfa ta'lamun, he said, is for the disbelievers; the second, for the believers. Al-Qurtubi, al-Baghawi and Ibn Kathir carry the same split. Al-Qurtubi and al-Baghawi report his recitation of the two verbs in opposite orders, so that detail is left aside. Emphasis, two stages, or two groups: the commentators keep these side by side, and so does this article.",
+            "bn": "দাহহাক সময় নয়, মানুষ ভাগ করেন। তাবারী সনদসহ তাঁর কথা আনেন: প্রথম 'কাল্লা সাওফা তা'লামূন' কাফিরদের উদ্দেশে, দ্বিতীয়টি মুমিনদের উদ্দেশে। কুরতুবী, বাগাভী ও ইবন কাসীরও এই ভাগের কথা বলেন। দুটি ক্রিয়া দাহহাক কীভাবে পড়তেন, সে বিবরণ কুরতুবী আর বাগাভী দেন উল্টো ক্রমে, তাই সে প্রসঙ্গ এখানে বাদ রইল। জোর দেওয়া, দুই পর্যায়, নাকি দুই দল? তাফসীরকারেরা মতগুলো পাশাপাশি রেখেছেন, এ লেখাও তা-ই রাখল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If Only, and Then Silence",
+          "bn": "যদি, তারপর নীরবতা"
+        },
+        "p": [
+          {
+            "en": "Then a third kalla, this time with law, if: no, if only you knew with the knowledge of certainty. Al-Qurtubi says the word returns as a rebuke because each time something new follows it, as if to say: do not, for you will regret it; do not, for you will earn the punishment. Both he and al-Baghawi note that the answer to law is left unsaid, and both set 'ilm al-yaqin beside haqq al-yaqin in 56:95. Al-Baghawi supplies the missing half: if you knew with certainty, what you knew would occupy you and leave no room for rivalry and boasting.",
+            "bn": "তারপর তৃতীয় 'কাল্লা', এবার সঙ্গে 'লাও', অর্থাৎ যদি: কক্ষনো না, তোমরা যদি নিশ্চিত জ্ঞান দিয়ে জানতে! কুরতুবী বলেন, শব্দটি ধমক হয়ে বারবার ফিরে আসে, কারণ প্রতিবার তার পরে নতুন কিছু আসে। যেন বলা হচ্ছে: এমন কোরো না, পরে পস্তাবে; এমন কোরো না, শাস্তির যোগ্য হবে। তিনি আর বাগাভী দুজনেই বলেন, 'যদি'-র জবাবটা উহ্য রাখা হয়েছে। দুজনেই 'ইলমুল ইয়াকীন'-কে রাখেন ৫৬:৯৫ আয়াতের 'হাক্কুল ইয়াকীন'-এর পাশে। বাগাভী বাকি অর্ধেকটা পূরণ করে দেন: নিশ্চিতভাবে জানলে সেই জ্ঞানই তোমাদের ব্যস্ত রাখত, প্রতিযোগিতা আর অহংকারের কোনো জায়গা থাকত না।"
+          },
+          {
+            "en": "What is the certainty? Qatada, in at-Tabari and al-Baghawi: we used to be told that the knowledge of certainty is to know that Allah will raise a person after death. Al-Qurtubi gives two more from Qatada: al-yaqin here is death, or else the resurrection, because when it comes, doubt is gone. As-Sa'di puts the matter in the heart: if you knew what lies ahead of you with a knowledge that reaches the heart, rivalry would not have diverted you, and you would have hurried to good deeds.",
+            "bn": "এই নিশ্চয়তা কীসের? তাবারী ও বাগাভী কাতাদার কথা আনেন: আমাদের বলা হতো, ইলমুল ইয়াকীন মানে এ কথা জানা যে আল্লাহ মৃত্যুর পর মানুষকে আবার জীবিত করবেন। কুরতুবী কাতাদা থেকে আরও দুটি মত আনেন: এখানে ইয়াকীন মানে মৃত্যু, অথবা পুনরুত্থান, কারণ তা এসে গেলে আর কোনো সন্দেহ থাকে না। সা'দী কথাটা বলেন অন্তরের ভাষায়: সামনে যা আছে, তা যদি এমন জ্ঞানে জানতে যা হৃদয়ে পৌঁছায়, তবে প্রতিযোগিতা তোমাদের ভুলিয়ে রাখত না, তোমরা নেক আমলের দিকে ছুটে যেতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeing It, or Being Shown It",
+          "bn": "দেখবে, নাকি দেখানো হবে"
+        },
+        "p": [
+          {
+            "en": "The verb itself is read two ways. Most read la-tarawunna, with fatha on the ta: you will see. Al-Qurtubi and al-Baghawi report that Ibn 'Amir and al-Kisa'i read la-turawunna, with damma, from araytuhu ash-shay', I showed him the thing: you will be shown it. Al-Qurtubi spells out the picture behind that reading: you will be gathered to it, and so you will see it. For the majority reading both give the same gloss: you will see it with your own eyes, from a distance.",
+            "bn": "ক্রিয়াটি নিজেই দুইভাবে পড়া হয়। অধিকাংশের পাঠ 'লাতারাউন্না', তা অক্ষরে যবর দিয়ে: তোমরা দেখবে। কুরতুবী ও বাগাভী জানান, ইবন আমির ও কিসাঈ পড়েছেন 'লাতুরাউন্না', পেশ দিয়ে, 'আরাইতুহুশ শাইআ' থেকে, অর্থাৎ আমি তাকে জিনিসটা দেখালাম। মানে দাঁড়ায়: তোমাদের তা দেখানো হবে। এ পাঠের পেছনের ছবিটা কুরতুবী খুলে বলেন: তোমাদের তার কাছে জড়ো করা হবে, ফলে তোমরা তা দেখবে। অধিকাংশের পাঠের ব্যাখ্যায় দুজনেই একই কথা বলেন: তোমরা নিজের চোখে দূর থেকে তা দেখবে।"
+          },
+          {
+            "en": "At-Tabari's account is narrower. He names only al-Kisa'i, and has him read damma on the first verb and fatha on the second, in 102:7. He then gives his own preference, fatha in both, because the authorities he counts as proof agree on it. That is his weighting; al-Qurtubi and al-Baghawi report the other reading without rejecting it. Held side by side, the two readings add rather than compete: the Blaze will be seen, and those who see it will be brought to it and made to see it.",
+            "bn": "তাবারীর বিবরণ আরও সংকীর্ণ। তিনি শুধু কিসাঈর নাম নেন, আর বলেন, কিসাঈ প্রথম ক্রিয়ায় পেশ আর ১০২:৭ আয়াতের দ্বিতীয়টিতে যবর পড়েছেন। এরপর তিনি নিজের পছন্দ জানান: দুটিতেই যবর, কারণ যাঁদের কথাকে তিনি দলীল মানেন, তাঁরা এতে একমত। এটা তাঁর বিচার। কুরতুবী ও বাগাভী অন্য পাঠটি উল্লেখ করেন, প্রত্যাখ্যান করেন না। দুটি পাঠ পাশাপাশি রাখলে একটি অন্যটির সঙ্গে লড়ে না, বরং যোগ করে: জাহীম দেখা যাবে, আর যারা দেখবে তাদের টেনে এনে দেখানো হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Eyes Will See It",
+          "bn": "কার চোখ তা দেখবে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss names the addressees: you will see, O polytheists, Jahannam on the Day of Resurrection, then see it openly, never absent from it. Ibn 'Abbas, in a report at-Tabari files under 102:7, says the same of the second seeing: it means the people of shirk. Al-Qurtubi's first view agrees: the address is to the disbelievers for whom the Fire has become due. As-Sa'di says you will arrive at the Resurrection and see the Jahim that Allah prepared for the disbelievers, and names the cause: it was the lack of real knowledge that brought you to what you will see.",
+            "bn": "তাবারীর ব্যাখ্যায় সম্বোধিতদের পরিচয় আছে: হে মুশরিকরা, কিয়ামতের দিন তোমরা জাহান্নাম দেখবে, তারপর তা দেখবে প্রকাশ্যে, তার থেকে আড়ালে থাকতে পারবে না। ১০২:৭ আয়াতের অধীনে তাবারী ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা রাখেন। দ্বিতীয় দেখা সম্পর্কে সেখানেও একই কথা: এর অর্থ শিরককারীরা। কুরতুবীর প্রথম মতও তাই: সম্বোধন সেই কাফিরদের প্রতি, যাদের জন্য আগুন অবধারিত হয়ে গেছে। সা'দী বলেন, তোমরা কিয়ামতে উপস্থিত হবে আর দেখবে সেই জাহীম, যা আল্লাহ কাফিরদের জন্য প্রস্তুত রেখেছেন। কারণটাও তিনি বলে দেন: প্রকৃত জ্ঞান না থাকাই তোমাদের সেই পরিণতিতে পৌঁছে দিল, যা তোমরা দেখবে।"
+          },
+          {
+            "en": "Al-Qurtubi then gives a second view, under qila: the address is general, as in 19:71, and there is none of you but will come to it. On that view the Fire is a home made ready for the disbelievers and a crossing for the believers, and he points to a hadith in the Sahih. Muslim (195) records it in a long narration: \"the first of you would pass with (the swiftness) of lightning\", and later, \"Then (they would pass) like the passing of the wind, then like the passing of a bird, and the hastening of persons would be according to their deeds.\"",
+            "bn": "এরপর কুরতুবী 'বলা হয়' দিয়ে দ্বিতীয় মত আনেন: সম্বোধন সবার প্রতি, যেমন ১৯:৭১ আয়াতে আছে, তোমাদের এমন কেউ নেই যে সেখানে পৌঁছাবে না। এ মতে আগুন কাফিরদের জন্য প্রস্তুত আবাস, আর মুমিনদের জন্য পার হওয়ার পথ। এখানে তিনি সহীহের একটি হাদীসের দিকে ইঙ্গিত করেন। মুসলিম (১৯৫) এক দীর্ঘ বর্ণনার ভেতরে হাদীসটি এনেছেন: তোমাদের প্রথম দল পার হবে বিদ্যুতের গতিতে। কিছু পরে আছে: তারপর বাতাসের গতিতে, তারপর পাখির গতিতে, আর মানুষের দ্রুততা হবে তাদের আমল অনুযায়ী।"
+          },
+          {
+            "en": "That hadith describes the crossing on that Day and was not narrated about this verse; the link is al-Qurtubi's, made under the general view. None of the tafsir fetched for 102:6 attaches a hadith narrated about these two words themselves. The two views of the address are left here as the commentators leave them. Both hold the sight itself to be certain; they differ only on whom the verse is speaking to.",
+            "bn": "এ হাদীস সেদিনের পারাপারের বর্ণনা, এ আয়াত সম্পর্কে বর্ণিত নয়। যোগসূত্রটা কুরতুবীর, সাধারণ সম্বোধনের মতের অধীনে টানা। ১০২:৬ আয়াতের জন্য আনা কোনো তাফসীরে এই দুই শব্দ সম্পর্কে বর্ণিত কোনো হাদীস নেই। সম্বোধন কাদের প্রতি, এ নিয়ে দুই মত তাফসীরকারেরা যেভাবে রেখেছেন, এখানেও সেভাবেই রইল। দুই মতেই দেখাটা নিশ্চিত। পার্থক্য শুধু এতে যে আয়াত কার সঙ্গে কথা বলছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heart's Eye, Then Head's Eye",
+          "bn": "অন্তরের চোখ, তারপর মাথার চোখ"
+        },
+        "p": [
+          {
+            "en": "102:7 repeats the oath and adds two words: then you will surely see it with the eye of certainty, 'ayn al-yaqin. Al-Baghawi and al-Qurtubi gloss it as mushahada, witnessing; as-Sa'di as sight with the eyes, and he cites 18:53, where the guilty see the Fire, realise they will fall into it, and find no way to turn from it. Al-Qurtubi also relays, under qila, that the second seeing tells of their lasting stay in the Fire: a sight that continues without a break.",
+            "bn": "১০২:৭ আয়াত শপথটা আবার করে, সঙ্গে যোগ করে আরও দুটি শব্দ: তারপর তোমরা অবশ্যই তা দেখবে আইনুল ইয়াকীন দিয়ে, নিশ্চয়তার চোখে। বাগাভী ও কুরতুবী এর অর্থ করেন মুশাহাদা, অর্থাৎ প্রত্যক্ষ দেখা। সা'দী বলেন, এ হলো চোখের দেখা, আর প্রমাণ আনেন ১৮:৫৩ আয়াত থেকে: অপরাধীরা আগুন দেখবে, বুঝবে তারা তাতে পড়তে যাচ্ছে, আর তা থেকে সরে যাওয়ার কোনো পথ পাবে না। কুরতুবী 'বলা হয়' দিয়ে আরও আনেন যে দ্বিতীয় দেখা আগুনে তাদের স্থায়ী অবস্থানের খবর: এমন দেখা যা চলতেই থাকবে, থামবে না।"
+          },
+          {
+            "en": "The distinction between the two certainties is drawn in a view al-Qurtubi relays without naming who held it. If only you knew today, in this world, with the knowledge of certainty about what lies ahead, you would see the Jahim with the eyes of your hearts, since such knowledge pictures for the heart the stages of the Resurrection and the distances it crosses. Then you will see it with the eye of certainty: at the moment of seeing with the eye of the head, so that it never leaves your sight. On this reading, 102:6 is a sight of the heart, open in this life.",
+            "bn": "দুই নিশ্চয়তার পার্থক্য এসেছে এমন এক মতে, যা কুরতুবী বর্ণনা করেন, তবে মতটি কার তা বলেন না। আজ এই দুনিয়াতেই যদি সামনের বিষয়ে তোমাদের ইলমুল ইয়াকীন থাকত, তবে তোমরা অন্তরের চোখে জাহীম দেখতে। কারণ এমন জ্ঞান হৃদয়ের সামনে কিয়ামতের পর্বগুলো আর তার দীর্ঘ পথ এঁকে দেয়। তারপর তোমরা তা দেখবে আইনুল ইয়াকীনে, অর্থাৎ যখন মাথার চোখে সরাসরি দেখবে, আর তা চোখের আড়াল হবে না। এ ব্যাখ্যায় ১০২:৬ আয়াতের দেখা হলো অন্তরের দেখা, যার দরজা এই জীবনেই খোলা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an calls 'ayn al-yaqin the certainty gained by physical observation, and the highest degree of certainty. To show the gap between being told and seeing, it relays from Ahmad and at-Tabarani a report through Ibn 'Abbas concerning Musa (AS) and the calf. It is known here only through that relay and was not confirmed in a fetched collection, so this article names its topic and does not retell it.",
+            "bn": "মাআরিফুল কুরআন বলে, আইনুল ইয়াকীন হলো চোখে দেখে পাওয়া নিশ্চয়তা, আর এটাই নিশ্চয়তার সর্বোচ্চ স্তর। শোনা আর দেখার ফারাক বোঝাতে কিতাবটি আহমাদ ও তাবারানী থেকে ইবন আব্বাস (রাঃ)-এর সূত্রে মূসা (আঃ) ও বাছুরের প্রসঙ্গে একটি বর্ণনা আনে। বর্ণনাটি এখানে শুধু এই উদ্ধৃতির মাধ্যমেই জানা, কোনো হাদীসগ্রন্থে মিলিয়ে দেখা যায়নি। তাই এখানে কেবল এর বিষয়টুকু বলা হলো, কাহিনিটি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dates, Water and a Question",
+          "bn": "খেজুর, পানি আর একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The sequence closes in 102:8 with a question: then you will surely be asked that Day about an-na'im, the delight. At-Tabari: Allah will ask you about the delight you lived in during this world, what you did in it, how you came by it, where you obtained it and what you did with it. Ibn Kathir: about thanks for what Allah gave you of health, security, provision and the rest. As-Sa'di: whether you thanked Him for it and gave Him His due in it, or were deceived by it, or even used it to disobey Him.",
+            "bn": "১০২:৮ আয়াতে এসে ধারাটা শেষ হয় একটি প্রশ্নে: তারপর সেদিন অবশ্যই তোমাদের জিজ্ঞেস করা হবে নাঈম, অর্থাৎ নিয়ামত সম্পর্কে। তাবারী বলেন, দুনিয়ায় যে নিয়ামতের মধ্যে তোমরা ছিলে, আল্লাহ সে সম্পর্কে জিজ্ঞেস করবেন: তাতে কী করেছ, কোন পথে তা পেয়েছ, কোথা থেকে জোগাড় করেছ, আর তা দিয়ে কী করেছ। ইবন কাসীরের মতে প্রশ্ন হবে শুকরিয়া নিয়ে, আল্লাহর দেওয়া সুস্থতা, নিরাপত্তা, রিযিক ইত্যাদির শুকরিয়া। সা'দী বলেন, জানতে চাওয়া হবে, তোমরা কি এর শুকরিয়া আদায় করেছিলে, এতে আল্লাহর হক দিয়েছিলে? নাকি এতে ধোঁকা খেয়েছিলে, এমনকি এ দিয়েই তাঁর নাফরমানি করেছিলে?"
+          },
+          {
+            "en": "What the delight is, the commentators list in many forms. At-Tabari gives security and health, from Ibn Mas'ud and Mujahid; health of the body, the hearing and the sight, from Ibn 'Abbas, citing 17:36; and wellbeing, from others. Ibn Kathir relays Mujahid's every pleasure of this world and calls it the most comprehensive of the sayings. At-Tirmidhi (3356) records from az-Zubair (RA): \"O Messenger of Allah! Which are the delights that we will be asked about, when they (delights) are but the two black things: dates and water?\" The Prophet ﷺ said: \"But it is what shall come.\" At-Tirmidhi grades it hasan.",
+            "bn": "নিয়ামত বলতে কী, তাফসীরকারেরা তার নানা রূপ গুনিয়েছেন। তাবারী ইবন মাসউদ (রাঃ) ও মুজাহিদ থেকে আনেন নিরাপত্তা আর সুস্থতা। ইবন আব্বাস (রাঃ) থেকে আনেন দেহ, শ্রবণ আর দৃষ্টির সুস্থতা, সঙ্গে ১৭:৩৬ আয়াতের প্রমাণ। অন্যদের থেকে আনেন আফিয়াত, অর্থাৎ নিরাপদ সুস্থ জীবন। ইবন কাসীর মুজাহিদের মত আনেন, দুনিয়ার প্রতিটি স্বাদ, আর বলেন এটাই সবচেয়ে ব্যাপক মত। তিরমিযী (৩৩৫৬) যুবাইর (রাঃ) থেকে বর্ণনা করেন: হে আল্লাহর রাসূল, কোন নিয়ামত সম্পর্কে আমাদের জিজ্ঞেস করা হবে? এ তো কেবল দুটি কালো জিনিস, খেজুর আর পানি! নবী ﷺ বললেন: তবে তা আসছে। তিরমিযী হাদীসটিকে হাসান বলেছেন।"
+          },
+          {
+            "en": "Muslim (2038) records from Abu Hurayrah (RA) that the Prophet ﷺ went out one day or night and found Abu Bakr and 'Umar; hunger had brought them out, and he said the same had brought him out. An Ansari welcomed them with dates, slaughtered a sheep, and they ate and drank their fill. Then the Prophet ﷺ said to them: \"By Him in Whose Hand is my life, you will certainly be questioned about this bounty on the Day of judgment. Hunger brought you out of your house, then you did not return until this bounty came to you.\" Al-Qurtubi opens his comment on 102:8 with it.",
+            "bn": "মুসলিম (২০৩৮) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন: এক দিন বা এক রাতে নবী ﷺ বের হয়ে আবু বকর ও উমার (রাঃ)-কে পেলেন। ক্ষুধা তাঁদের ঘর থেকে বের করে এনেছিল, আর তিনি বললেন, তাঁকেও সেই একই জিনিস বের করেছে। এক আনসারী খেজুর দিয়ে তাঁদের আপ্যায়ন করলেন, একটি ভেড়া জবাই করলেন, আর তাঁরা পেট ভরে খেলেন ও পান করলেন। তখন নবী ﷺ তাঁদের বললেন: যাঁর হাতে আমার প্রাণ, তাঁর কসম, কিয়ামতের দিন এই নিয়ামত সম্পর্কে তোমাদের অবশ্যই জিজ্ঞেস করা হবে। ক্ষুধা তোমাদের ঘর থেকে বের করেছিল, আর এই নিয়ামত না পাওয়া পর্যন্ত তোমরা ফেরোনি। কুরতুবী ১০২:৮ আয়াতের আলোচনা এ হাদীস দিয়েই শুরু করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeing It While It Still Helps",
+          "bn": "যখন দেখা এখনো কাজে আসে"
+        },
+        "p": [
+          {
+            "en": "Read in order, 102:5 to 102:8 move from a knowledge that would have helped, to a sight that will come regardless, to a question about the very things that once distracted. The verse at the centre is sworn, so the seeing is not in doubt; only its timing and its use are. On the view al-Qurtubi relays, there is a seeing of the Jahim open now, with the heart, while it can still change what a person spends a day chasing, and a seeing later that changes nothing.",
+            "bn": "১০২:৫ থেকে ১০২:৮ পর্যন্ত পরপর পড়লে একটা ধারা চোখে পড়ে। প্রথমে এমন জ্ঞান, যা কাজে আসত। তারপর এমন দেখা, যা আসবেই। শেষে প্রশ্ন, ঠিক সেই জিনিসগুলো নিয়ে যা একদিন ভুলিয়ে রেখেছিল। মাঝের আয়াতটি শপথ করে বলা, তাই দেখা নিয়ে সংশয় নেই। প্রশ্ন শুধু কখন, আর কী কাজে। কুরতুবীর বর্ণিত মত অনুযায়ী জাহীমের এক দেখা এখনই খোলা, অন্তর দিয়ে, যখন তা মানুষের সারাদিনের ছুটে চলার দিক বদলে দিতে পারে। আরেক দেখা আসবে পরে, যা কিছুই বদলাবে না।"
+          },
+          {
+            "en": "The verse describes what the text describes: a threat and a scene of the next life, addressed in at-Tabari's reading to polytheists diverted by rivalry. It licenses nothing against any living person or community. It gives no one the right to say who will see the Fire as a home and who as a crossing; al-Qurtubi himself leaves that question with two views. Its warning is turned first on the reader, who also counts, compares and puts off what matters.",
+            "bn": "আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: আখিরাতের এক হুমকি আর এক দৃশ্য। তাবারীর ব্যাখ্যায় এর সম্বোধন প্রতিযোগিতায় মত্ত মুশরিকদের প্রতি। কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কে আগুনকে আবাস হিসেবে দেখবে আর কে পারাপারের পথ হিসেবে, তা বলে দেওয়ার অধিকার এ আয়াত কাউকে দেয় না। কুরতুবী নিজেও প্রশ্নটি দুই মতের মধ্যে রেখে দিয়েছেন। এর সতর্কবাণী সবার আগে পাঠকের দিকেই ফেরানো, কারণ তিনিও গোনেন, তুলনা করেন, আর জরুরি কাজ পিছিয়ে রাখেন।"
+          }
+        ]
+      }
+    ]
   }
 });
