@@ -30003,6 +30003,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Corruption grows by addition: keep to your limits, stop adding to the harm you have done, and remember that your Lord watches every road.",
     "lessonBn": "বিপর্যয় বাড়ে একটু একটু জুড়ে: নিজের সীমায় থাকুন, যে ক্ষতি করেছেন তাতে আর কিছু যোগ করবেন না, আর মনে রাখুন, আপনার রব প্রতিটি পথে নজর রাখেন।"
+  },
+  "98:1": {
+    "reflectionEn": "The surah opens on people who would not let go. Some had a scripture and some had idols, and neither would leave what they held until a clear proof came: a Messenger reciting pages kept clean. Then comes the hard turn of 98:4. Those given the Scripture did not split apart until after the proof arrived. The light that should have gathered them became the place where they divided. The verse describes them, but it reads me too. What am I still holding only because nobody has shown me otherwise? And when the proof does come, a verse, a sound report, an honest correction, do I let it change me, or do I let it start one more argument?",
+    "reflectionBn": "সূরাটি শুরু হয় এমন মানুষদের কথা দিয়ে, যারা হাতের জিনিস ছাড়তে রাজি ছিল না। কারও কাছে ছিল কিতাব, কারও কাছে মূর্তি। সুস্পষ্ট প্রমাণ না আসা পর্যন্ত কেউই নিজের অবস্থান ছাড়ার লোক ছিল না। সেই প্রমাণ এল একজন রসূলের রূপে, যিনি পাঠ করেন পবিত্র সহীফা। এরপর ৯৮:৪ আয়াতে আসে কঠিন মোড়। যাদের কিতাব দেওয়া হয়েছিল, তারা বিভক্ত হলো প্রমাণ আসার পরেই। যে আলো তাদের এক করার কথা, সেটাই হয়ে গেল বিভেদের জায়গা। আয়াত তাদের কথা বলছে, কিন্তু আমাকেও পড়ে ফেলছে। কোন জিনিস আমি আঁকড়ে আছি শুধু এ কারণে যে কেউ এখনো উল্টোটা দেখায়নি? আর প্রমাণ যখন সত্যিই আসে, একটি আয়াত, একটি সহীহ বর্ণনা, কারও সৎ সংশোধন, তখন কি আমি নিজেকে বদলাতে দিই, নাকি সেটাকে নতুন এক তর্কের সূচনা বানাই?",
+    "pointsEn": [
+      "What habit or opinion am I holding only because nothing has yet made me let go of it?",
+      "When a clear proof reaches me, a verse or a sound report, how long do I wait before I act on it?",
+      "Have I ever turned something meant to bring people together into one more reason to argue with them?",
+      "Do I treat the Qur'an as pages to recite and nothing more, or as writings meant to set my life straight?",
+      "When I read verses about other communities, do I look for myself in them before I look for anyone else?"
+    ],
+    "pointsBn": [
+      "কোন অভ্যাস বা কোন মত আমি ধরে আছি শুধু এ কারণে যে এখনো কিছুই আমাকে তা ছাড়তে বাধ্য করেনি?",
+      "একটি আয়াত বা একটি সহীহ বর্ণনার মতো সুস্পষ্ট প্রমাণ যখন আমার কাছে পৌঁছায়, তার উপর আমল করতে আমি কতদিন দেরি করি?",
+      "যে জিনিস মানুষকে কাছে টানার জন্য এসেছিল, তাকে কি আমি কখনো তাদের সঙ্গে ঝগড়ার আরেকটা উপলক্ষ বানিয়েছি?",
+      "কুরআনকে আমি কি শুধু তিলাওয়াতের পাতা মনে করি, নাকি এমন লেখা, যা আমার জীবনকে সোজা করে দেওয়ার জন্য এসেছে?",
+      "অন্য জাতির কথা বলা আয়াত পড়ার সময় আমি কি অন্য কাউকে খোঁজার আগে সেখানে নিজেকে খুঁজি?"
+    ],
+    "lessonEn": "Clear proof comes to free us from what we cling to and to bring us together; do not let it become one more reason to divide.",
+    "lessonBn": "সুস্পষ্ট প্রমাণ আসে আঁকড়ে থাকা ভুল থেকে আমাদের ছাড়িয়ে আনতে আর আমাদের এক করতে। সেটাকে বিভেদের আরেকটা কারণ বানাবেন না।"
   }
 };
 

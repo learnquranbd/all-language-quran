@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "98:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Groups, One Awaited Proof",
+          "bn": "দুই দল, এক প্রতীক্ষিত প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "Lam yakuni alladhina kafaru min ahli al-kitabi wa-al-mushrikina munfakkina hatta ta'tiyahumu al-bayyinah: those who disbelieved among the People of the Scripture and the polytheists were not going to let go until the clear proof came to them. Al-Baghawi identifies the People of the Book as the Jews and the Christians, and the polytheists as the worshippers of idols. Ibn Kathir widens the second group to worshippers of idols and of fire, Arab and non-Arab, and as-Sa'di to the polytheists of every kind of nation.",
+            "bn": "লাম ইয়াকুনিল্লাযীনা কাফারূ মিন আহলিল কিতাবি ওয়াল মুশরিকীনা মুনফাক্কীনা হাত্তা তা'তিয়াহুমুল বাইয়্যিনাহ: কিতাবধারীদের মধ্যে যারা কুফরি করেছিল তারা আর মুশরিকরা নিজেদের অবস্থান ছাড়ার লোক ছিল না, যতক্ষণ না তাদের কাছে সুস্পষ্ট প্রমাণ আসে। বাগাভী বলেন, আহলে কিতাব মানে ইহুদি ও খ্রিস্টান, আর মুশরিক মানে মূর্তিপূজারি। ইবন কাসীর দ্বিতীয় দলটিকে আরও বড় করে দেখান: আরব ও অনারব, মূর্তি ও আগুনের পূজারি সবাই। সা'দীর ভাষায়, সব জাতির সব ধরনের মুশরিক।"
+          },
+          {
+            "en": "Al-Qurtubi reports Ibn 'Abbas (RA) placing both groups in the setting of the revelation: the People of the Book were the Jews of Yathrib, Qurayzah, an-Nadir and Banu Qaynuqa', and the polytheists were those in and around Mecca and Medina, the polytheists of Quraysh. Where the surah itself came down is disputed. Al-Qurtubi gives it as Meccan in the view of Yahya ibn Sallam and Medinan in the view of Ibn 'Abbas and the majority. Ibn Kathir heads it Medinan; al-Baghawi heads it Meccan.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ)-এর বক্তব্য আনেন, যেখানে দুই দলকেই নাজিলের প্রেক্ষাপটে বসানো হয়েছে। আহলে কিতাব হলো ইয়াসরিবের ইহুদিরা: কুরাইযা, নাদীর আর বনু কায়নুকা। আর মুশরিক হলো মক্কা ও মদীনা এবং তার আশপাশের লোকেরা, অর্থাৎ কুরাইশের মুশরিকরা। সূরাটি কোথায় নাজিল হয়েছে, তা নিয়েও মতভেদ আছে। কুরতুবী জানান, ইয়াহইয়া ইবন সাল্লামের মতে সূরাটি মাক্কী, আর ইবন আব্বাস ও অধিকাংশের মতে মাদানী। ইবন কাসীর শিরোনামে লেখেন মাদানী, বাগাভী লেখেন মাক্কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Going to Let Go",
+          "bn": "যারা ছাড়ার লোক ছিল না"
+        },
+        "p": [
+          {
+            "en": "Everything turns on munfakkin. At-Tabari opens by saying the people of interpretation differed over it. The first group read it as muntahin, desisting: the disbelievers among the people of the Torah and the Injil, and the idol-worshipping polytheists, were not going to desist until this Qur'an came to them. He gives it with chains from Mujahid, they were not going to desist until the truth became clear to them; from Qatadah, desisting from what they were in; and from Ibn Zayd. Ibn Kathir quotes Mujahid and Qatadah to the same effect.",
+            "bn": "সব কিছু ঘোরে মুনফাক্কীন শব্দটিকে ঘিরে। তাবারী শুরুতেই বলেন, এর ব্যাখ্যায় মুফাসসিরদের মতভেদ আছে। প্রথম দল এর অর্থ করেছেন মুনতাহীন, অর্থাৎ বিরত হওয়া। তাওরাত ও ইনজীলের অনুসারীদের মধ্যে যারা কাফির, আর মূর্তিপূজারি মুশরিকরা, এই কুরআন না আসা পর্যন্ত বিরত হওয়ার লোক ছিল না। তাবারী সনদসহ মুজাহিদের কথা আনেন: সত্য স্পষ্ট না হওয়া পর্যন্ত তারা বিরত হতো না। কাতাদার কথা: যাতে তারা ছিল, তা থেকে বিরত হওয়া। ইবন যায়দের কথাও আনেন। ইবন কাসীরও মুজাহিদ ও কাতাদার একই কথা উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Al-Baghawi gives the same gloss, desisting from their disbelief and shirk, and adds the linguists' sense, moving away and coming apart, as one says fakaktu ash-shay'a fa-nfakka: I unfastened the thing and it came loose. As-Sa'di fills in the picture. They would remain in their error and straying, and the passing of years would add nothing to them but disbelief, until the clear proof came. The Muyassar: they were not going to leave their disbelief until the sign came that they had been promised in the earlier books.",
+            "bn": "বাগাভীও একই অর্থ দেন: কুফর ও শিরক থেকে বিরত হওয়া। সঙ্গে ভাষাবিদদের অর্থটাও যোগ করেন: সরে যাওয়া, আলাদা হয়ে যাওয়া। আরবিতে বলা হয়, ফাকাকতুশ শাইআ ফানফাক্কা, আমি জিনিসটার বাঁধন খুললাম, আর তা খুলে গেল। সা'দী ছবিটা পূর্ণ করেন। তারা নিজেদের গোমরাহি আর ভ্রান্তিতেই থেকে যেত। বছরের পর বছর গেলেও তাদের কুফর শুধু বাড়ত, যতক্ষণ না স্পষ্ট প্রমাণ আসে। মুয়াসসারের ভাষায়: আগের কিতাবগুলোতে যে নিদর্শনের ওয়াদা তাদের দেওয়া হয়েছিল, তা না আসা পর্যন্ত তারা কুফর ছাড়ত না।"
+          },
+          {
+            "en": "A second group, in at-Tabari's account, read the word another way: the People of the Book were not going to give up the description of Muhammad ﷺ in their book until he was sent, and once he was sent they divided over him. Al-Qurtubi gives this in the name of Ibn Kaysan, adding that once he was sent they envied and denied him. He extends it to the polytheists: they spoke no ill of him and called him al-Amin until the proof came on his tongue and he was sent to them, and then they turned hostile.",
+            "bn": "তাবারীর বর্ণনায় দ্বিতীয় একটি দল শব্দটিকে অন্যভাবে পড়েছেন। তাঁদের মতে, মুহাম্মাদ ﷺ প্রেরিত না হওয়া পর্যন্ত আহলে কিতাব নিজেদের কিতাবে থাকা তাঁর গুণাবলির কথা ছাড়েনি। তিনি প্রেরিত হলে তারা তাঁকে নিয়ে বিভক্ত হয়ে পড়ে। কুরতুবী এই মতটি ইবন কাইসানের নামে আনেন, আর যোগ করেন যে প্রেরিত হওয়ার পর তারা তাঁকে হিংসা করল, অস্বীকার করল। মুশরিকদের ক্ষেত্রেও তিনি একই কথা টানেন। তারা তাঁর সম্পর্কে মন্দ কিছু বলত না, তাঁকে ডাকত আল-আমীন। তারপর তাঁর মুখে প্রমাণ এল, তিনি তাদের কাছে প্রেরিত হলেন, আর তখনই তারা শত্রু হয়ে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Chooses Apart",
+          "bn": "তাবারীর বাছাই: আলাদা হওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gives the reading he judges most correct, and it is neither of the two. The meaning, he says, is that the disbelievers among the People of the Book and the polytheists were not muftariqin, divided, over the matter of Muhammad until the clear proof came, which is Allah's sending him as messenger to His creation. His reason lies in the word. Munfakkin here is from the infikak of two things one from the other, which is why it stands without a predicate; had it meant ma zala, 'still went on', it would have needed one to complete it.",
+            "bn": "এরপর তাবারী নিজের বিচারে সবচেয়ে সঠিক মতটি দেন, আর সেটি আগের দুটির কোনোটিই নয়। তাঁর মতে অর্থ হলো: আহলে কিতাবের কাফিররা আর মুশরিকরা মুহাম্মাদের বিষয়ে মুফতারিকীন, অর্থাৎ বিভক্ত ছিল না, যতক্ষণ না সুস্পষ্ট প্রমাণ এল। সেই প্রমাণ হলো আল্লাহর পক্ষ থেকে তাঁকে সৃষ্টির কাছে রসূল করে পাঠানো। কারণটা তিনি খোঁজেন শব্দের ভেতরেই। এখানে মুনফাক্কীন এসেছে ইনফিকাক থেকে, দুটি জিনিস একটি থেকে অন্যটি আলাদা হওয়া। তাই শব্দটি খবর ছাড়াই দাঁড়াতে পারে। এর অর্থ যদি মা যালা, অর্থাৎ 'থেকেই গেল' হতো, তবে বাক্য পূর্ণ করতে একটি খবর লাগত।"
+          },
+          {
+            "en": "Al-Qurtubi notes the other sense of the word, as in ma nfakaktu af'alu kadha, I never stopped doing it, and lists further readings with 'it is said': they would not die, or their term would not pass, until the proof came. Some linguists, in al-Qurtubi, read munfakkin as halikin, perishing: they would not be punished or destroyed until the proof was established against them by messengers and books. Al-Baghawi gives that reading from some authorities on the language, then his verdict: the first, desisting from disbelief, is the sounder. The difference is kept here as they leave it.",
+            "bn": "কুরতুবী শব্দটির অন্য অর্থটিও লিখে রাখেন। আরবরা বলে, মানফাকাকতু আফআলু কাযা, অর্থাৎ আমি এ কাজ করা থামাইনি। এরপর 'বলা হয়' দিয়ে আরও ব্যাখ্যা দেন: প্রমাণ না আসা পর্যন্ত তারা মারা যেত না, কিংবা তাদের মেয়াদ ফুরাত না। কুরতুবী কিছু ভাষাবিদের মতও আনেন, যাঁরা মুনফাক্কীনের অর্থ করেছেন হালিকীন, অর্থাৎ ধ্বংস হওয়া। তখন অর্থ দাঁড়ায়: রসূল ও কিতাব দিয়ে তাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত না হওয়া পর্যন্ত তাদের শাস্তি দেওয়া হতো না, ধ্বংস করা হতো না। বাগাভীও কয়েকজন ভাষাবিদ থেকে এই ব্যাখ্যা আনেন, তারপর রায় দেন: প্রথম ব্যাখ্যাটি, অর্থাৎ কুফর থেকে বিরত হওয়া, বেশি সঠিক। মতভেদটা তাঁরা যেভাবে রেখেছেন, এখানেও সেভাবেই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Proof Is a Messenger",
+          "bn": "প্রমাণটি একজন রসূল"
+        },
+        "p": [
+          {
+            "en": "Hatta ta'tiyahumu al-bayyinah: until the clear proof came to them. Al-Baghawi notes that the verb is future in form and past in meaning: until it came. What is the bayyinah? For al-Baghawi it is the clear argument, meaning Muhammad ﷺ, who brought them the Qur'an, laid bare their errors and called them to faith. Al-Qurtubi says plainly that the bayyinah is Muhammad ﷺ. Qatadah, in at-Tabari, and Ibn Kathir say: this Qur'an. Ma'arif al-Qur'an gives al-Bayyinah, the Clear Proof, as a description of the Final Messenger ﷺ.",
+            "bn": "হাত্তা তা'তিয়াহুমুল বাইয়্যিনাহ: যতক্ষণ না তাদের কাছে সুস্পষ্ট প্রমাণ আসে। বাগাভী খেয়াল করান, ক্রিয়াটি রূপে ভবিষ্যৎ, অর্থে অতীত: যতক্ষণ না তা এল। বাইয়্যিনাহ কী? বাগাভীর কাছে এটি স্পষ্ট দলিল, অর্থাৎ মুহাম্মাদ ﷺ। তিনি তাদের কাছে কুরআন নিয়ে এলেন, তাদের ভুলগুলো খুলে দেখালেন, তাদের ঈমানের দিকে ডাকলেন। কুরতুবী সোজাসুজি বলেন, বাইয়্যিনাহ হলেন মুহাম্মাদ ﷺ। তাবারীর বর্ণনায় কাতাদা, আর ইবন কাসীর বলেন: এই কুরআন। মাআরিফুল কুরআন বলে, শেষ রসূল ﷺ-ই সেই সত্তা, যাঁকে আল-বাইয়্যিনাহ বলা হয়েছে।"
+          },
+          {
+            "en": "The next verse, 98:2, settles it: rasulun mina Allah, a Messenger from Allah. As-Sa'di, Ibn Kathir and al-Baghawi each say Allah there explains the bayyinah, and the Muyassar names him: the Messenger of Allah, Muhammad ﷺ. Az-Zajjaj, in al-Qurtubi, parses rasul as standing in place of al-bayyinah; al-Farra' supplies 'it is a messenger', since a person can be called someone's proof. At-Tabari notes an indefinite noun following a definite one, as in 85:15 and 85:16, and al-Qurtubi that the reading of Ubayy (RA) and Ibn Mas'ud (RA) has rasulan, in the accusative.",
+            "bn": "পরের আয়াত ৯৮:২ বিষয়টা মীমাংসা করে দেয়: রাসূলুম মিনাল্লাহ, আল্লাহর পক্ষ থেকে একজন রসূল। সা'দী, ইবন কাসীর ও বাগাভী প্রত্যেকেই বলেন, এখানে আল্লাহ বাইয়্যিনাহর ব্যাখ্যা দিচ্ছেন। মুয়াসসার নাম ধরেই বলে: আল্লাহর রসূল মুহাম্মাদ ﷺ। কুরতুবী যাজ্জাজের বিশ্লেষণ আনেন: রাসূল শব্দটি আল-বাইয়্যিনাহর স্থলাভিষিক্ত। ফাররা উহ্য শব্দ ধরে পড়েন, 'তা একজন রসূল', কারণ কোনো মানুষকেও কারও প্রমাণ বলা যায়। তাবারী দেখান, নির্দিষ্ট শব্দের পরে এসেছে অনির্দিষ্ট শব্দ, যেমন ৮৫:১৫ ও ৮৫:১৬ আয়াতে। কুরতুবী জানান, উবাই (রাঃ) ও ইবন মাসঊদ (রাঃ)-এর কিরাআতে আছে রাসূলান, যবর দিয়ে।"
+          },
+          {
+            "en": "Whom does the verse finally concern? Al-Baghawi answers: those of both groups who believed. They did not desist from disbelief until the Messenger came and called them to faith; they believed, and Allah rescued them from ignorance and error. Al-Qurtubi reports from the scholars a division of the passage: from the opening to the word qayyimah in 98:3, its ruling concerns those of the People of the Book and the polytheists who believed; from 98:4, those who did not believe after the proofs were established. On this reading the surah's first verse is about a rescue.",
+            "bn": "শেষ পর্যন্ত আয়াতটি কাদের নিয়ে? বাগাভীর উত্তর: দুই দলের মধ্যে যারা ঈমান এনেছিল। রসূল এসে তাদের ঈমানের দিকে না ডাকা পর্যন্ত তারা কুফর থেকে বিরত হয়নি। তারপর তারা ঈমান আনল, আর আল্লাহ তাদের অজ্ঞতা ও গোমরাহি থেকে উদ্ধার করলেন। কুরতুবী আলেমদের কাছ থেকে অংশটির একটি ভাগ বর্ণনা করেন। শুরু থেকে ৯৮:৩ আয়াতের কাইয়্যিমাহ শব্দ পর্যন্ত বিধানটি আহলে কিতাব ও মুশরিকদের মধ্যে যারা ঈমান এনেছে তাদের নিয়ে। আর ৯৮:৪ থেকে কথা তাদের নিয়ে, যারা প্রমাণ প্রতিষ্ঠার পরও ঈমান আনেনি। এই পাঠে সূরার প্রথম আয়াতটি এক উদ্ধারের গল্প।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pages Kept Clean, Writings Upright",
+          "bn": "পবিত্র পাতা, সোজা লেখা"
+        },
+        "p": [
+          {
+            "en": "Yatlu suhufan mutahharah: reciting purified pages. Al-Qurtubi and al-Baghawi both note that he ﷺ recited from memory, not from a written page, since he neither read nor wrote; the pages are what the recitation contains. Purified from what? At-Tabari: from falsehood. Al-Qurtubi reports Ibn 'Abbas, from forgery, doubt, hypocrisy and misguidance, and Qatadah, from falsehood. As-Sa'di reads it as guarded from the approach of devils, touched only by the purified, because they hold the highest of speech.",
+            "bn": "ইয়াতলূ সুহুফাম মুতাহহারাহ: যিনি পাঠ করেন পবিত্র সহীফা। কুরতুবী ও বাগাভী দুজনেই বলেন, তিনি ﷺ পাঠ করতেন মুখস্থ থেকে, লেখা পাতা দেখে নয়, কারণ তিনি লিখতে-পড়তে জানতেন না। সহীফা বলতে বোঝানো হয়েছে পাঠের ভেতরের লেখাটুকু। কিসের থেকে পবিত্র? তাবারী বলেন: বাতিল থেকে। কুরতুবী ইবন আব্বাসের কথা আনেন: মিথ্যা রচনা, সন্দেহ, নিফাক আর গোমরাহি থেকে। আর কাতাদার কথা: বাতিল থেকে। সা'দী অর্থ করেন, শয়তানের নাগাল থেকে সুরক্ষিত, পবিত্ররা ছাড়া কেউ তা ছোঁয় না, কারণ এতে আছে সর্বোচ্চ স্তরের কালাম।"
+          },
+          {
+            "en": "Others look upward. Ibn Kathir says the Qur'an he recites is written in purified pages in the highest assembly, and cites 80:13 to 80:16: pages honoured, raised, purified, in the hands of noble, righteous scribes. Al-Qurtubi reports a view that they are the pages with Allah in the Mother of the Book, and al-Hasan's: pages in heaven. Qatadah, in at-Tabari: the verse mentions the Qur'an with the finest mention and praises it with the finest praise.",
+            "bn": "কেউ কেউ দৃষ্টি তোলেন উপরের দিকে। ইবন কাসীর বলেন, তিনি যে কুরআন পাঠ করেন, তা ঊর্ধ্বজগতের মহাসভায় পবিত্র সহীফায় লেখা আছে। প্রমাণ হিসেবে তিনি আনেন ৮০:১৩ থেকে ৮০:১৬ আয়াত: সম্মানিত, উচ্চ, পবিত্র সহীফা, সম্মানিত সৎ লেখকদের হাতে। কুরতুবী একটি মত আনেন যে এগুলো আল্লাহর কাছে উম্মুল কিতাবে থাকা সহীফা। হাসানের মতে, আসমানের সহীফা। তাবারীর বর্ণনায় কাতাদা বলেন: এখানে কুরআনকে উল্লেখ করা হয়েছে সবচেয়ে সুন্দরভাবে, প্রশংসা করা হয়েছে সবচেয়ে সুন্দর প্রশংসায়।"
+          },
+          {
+            "en": "Fiha kutubun qayyimah: in them are upright writings. At-Tabari: writings from Allah, just and straight, with no error in them because they are from Allah; Ibn Zayd: straight and balanced. Al-Qurtubi raises the obvious puzzle. Pages are books, so how do pages hold books? His answer: kutub here means rulings, as kataba Allah in 58:21 means Allah has decreed. Or the Qur'an is called books because it gathers many kinds of exposition. As-Sa'di: truthful reports and just commands that guide to the truth. Al-Baghawi: the verses and rulings written in them, without any crookedness.",
+            "bn": "ফীহা কুতুবুন কাইয়্যিমাহ: তাতে আছে সঠিক লেখা। তাবারীর ব্যাখ্যা: আল্লাহর পক্ষ থেকে ন্যায়নিষ্ঠ, সোজা লেখা, যাতে কোনো ভুল নেই, কারণ তা আল্লাহর কাছ থেকে এসেছে। ইবন যায়দ বলেন: সোজা ও ভারসাম্যপূর্ণ। কুরতুবী একটা স্বাভাবিক প্রশ্ন তোলেন। সহীফা তো কিতাবই, তাহলে সহীফার ভেতরে কিতাব থাকে কীভাবে? তাঁর উত্তর: এখানে কুতুব মানে বিধান, যেমন ৫৮:২১ আয়াতে কাতাবাল্লাহ মানে আল্লাহ ফয়সালা করে দিয়েছেন। অথবা কুরআনকেই কিতাবসমূহ বলা হয়েছে, কারণ তাতে নানা ধরনের বর্ণনা একত্র হয়েছে। সা'দী বলেন: সত্য সংবাদ আর ন্যায়সংগত আদেশ, যা সত্যের দিকে পথ দেখায়। বাগাভী বলেন: তাতে লেখা আয়াত ও বিধান, যাতে কোনো বক্রতা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "They Split Once It Came",
+          "bn": "প্রমাণ আসার পরই ভাঙন"
+        },
+        "p": [
+          {
+            "en": "Then 98:4: wa ma tafarraqa alladhina utu al-kitaba illa min ba'di ma ja'athumu al-bayyinah, and those given the Scripture did not divide until after the clear proof came to them. At-Tabari names who is meant: the Jews and the Christians, who divided over Muhammad ﷺ only after the proof came. Before he was sent they were not divided over his being a prophet; once he was sent, some denied him and some believed. Al-Baghawi gives this as what the commentators said, and the Muyassar gives the reason for the earlier agreement: they found his description in their books.",
+            "bn": "এরপর ৯৮:৪: ওয়ামা তাফাররাকাল্লাযীনা ঊতুল কিতাবা ইল্লা মিম বা'দি মা জাআতহুমুল বাইয়্যিনাহ। যাদের কিতাব দেওয়া হয়েছিল, তারা বিভক্ত হলো তাদের কাছে সুস্পষ্ট প্রমাণ আসার পরেই। কারা এরা, তাবারী নাম ধরে বলেন: ইহুদি ও খ্রিস্টানরা, যারা প্রমাণ আসার পরই মুহাম্মাদ ﷺ-কে নিয়ে বিভক্ত হলো। তাঁর আগমনের আগে তিনি যে নবী, এ নিয়ে তাদের মধ্যে বিভেদ ছিল না। তিনি প্রেরিত হলে কেউ অস্বীকার করল, কেউ ঈমান আনল। বাগাভী এটাকে মুফাসসিরদের কথা হিসেবে আনেন। আগের সেই ঐকমত্যের কারণও মুয়াসসার বলে দেয়: নিজেদের কিতাবে তারা তাঁর গুণাবলি পেয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi asks why only the People of the Book are named here, when the polytheists stood beside them in 98:1. Knowledge was presumed of them, he answers, so if they divided, those with no book fit the description all the more. The bayyinah here, he says, is Muhammad ﷺ, or else the statement in their own books that he is a sent prophet; al-Baghawi takes the second. Ibn Kathir reads more widely, beside 3:105: the people of the earlier scriptures differed over what Allah intended in their books.",
+            "bn": "কুরতুবী প্রশ্ন তোলেন, ৯৮:১ আয়াতে মুশরিকরা পাশে থাকলেও এখানে শুধু আহলে কিতাবের নাম কেন? তাঁর উত্তর: তাদের কাছ থেকে জ্ঞান আশা করা হতো। তারাই যদি বিভক্ত হয়, তবে যাদের কোনো কিতাব নেই, তারা এই বর্ণনার আরও বেশি উপযুক্ত। তিনি বলেন, এখানে বাইয়্যিনাহ হলেন মুহাম্মাদ ﷺ, অথবা তাদের নিজেদের কিতাবে থাকা এই বক্তব্য যে তিনি প্রেরিত নবী। বাগাভী দ্বিতীয়টি নেন। ইবন কাসীর আয়াতটিকে আরও বড় পরিসরে পড়েন, ৩:১০৫ আয়াতের পাশে রেখে: আগের কিতাবধারীরা মতভেদ করেছিল, আল্লাহ তাদের কিতাবে কী চেয়েছেন তা নিয়ে।"
+          },
+          {
+            "en": "As-Sa'di draws the sharpest line. The proof that came was the very thing that obliges those who receive it to come together and agree, he says, and all the books had come with one root and one religion; yet for those who refused it, guidance only deepened their straying and insight only their blindness. At-Tabari's reading of 98:1 now makes sense of the pairing: the people who were not divided before the proof are the people who divided after it. The division came after knowledge, not for want of it.",
+            "bn": "সবচেয়ে স্পষ্ট রেখাটি টানেন সা'দী। তিনি বলেন, যে প্রমাণ এসেছিল, তা-ই তো গ্রহণকারীদের এক হতে আর একমত হতে বাধ্য করে। সব কিতাব এসেছিল একই মূল আর একই দ্বীন নিয়ে। তবু যারা তা প্রত্যাখ্যান করল, হেদায়াত তাদের গোমরাহিই বাড়াল, অন্তর্দৃষ্টি বাড়াল অন্ধত্ব। এখানে এসে ৯৮:১ আয়াতের তাবারীর ব্যাখ্যা জোড়াটার অর্থ বুঝিয়ে দেয়। প্রমাণের আগে যারা বিভক্ত ছিল না, প্রমাণের পরে তারাই বিভক্ত হলো। বিভেদ এসেছে জ্ঞান আসার পরে, জ্ঞানের অভাবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ubayy Wept at His Name",
+          "bn": "নিজের নাম শুনে উবাইয়ের কান্না"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays a report on the merit of this surah and says it is not sound; Ibn al-'Arabi, in al-Qurtubi, calls it false. The sound report, Ibn al-'Arabi says, is the one from Anas (RA). Al-Bukhari gives it in his Sahih (4959): The Prophet ﷺ said to Ubayy, 'Allah has commanded me to recite to you: Lam yakuni alladhina kafaru.' He said, 'And He named me?' He said, 'Yes.' And he wept. It concerns the surah as a whole, whose opening words are this verse's.",
+            "bn": "কুরতুবী এই সূরার ফজিলত নিয়ে একটি বর্ণনা আনেন, তারপর বলেন তা সহীহ নয়। তাঁর উদ্ধৃতিতে ইবনুল আরাবী সেটিকে বাতিল বলেন। ইবনুল আরাবীর মতে সহীহ বর্ণনা হলো আনাস (রাঃ)-এর বর্ণনাটি। ইমাম বুখারী তা তাঁর সহীহ গ্রন্থে (৪৯৫৯) এনেছেন: নবী ﷺ উবাইকে বললেন, 'আল্লাহ আমাকে আদেশ করেছেন তোমাকে পড়ে শোনাতে: লাম ইয়াকুনিল্লাযীনা কাফারূ।' তিনি বললেন, 'তিনি আমার নাম নিয়েছেন?' নবী ﷺ বললেন, 'হ্যাঁ।' তখন তিনি কেঁদে ফেললেন। বর্ণনাটি পুরো সূরা নিয়ে, আর সূরার প্রথম শব্দগুলো এই আয়াতেরই।"
+          },
+          {
+            "en": "Why recite it to Ubayy? Al-Qurtubi draws from it the scholar's reciting to the learner, and reports two reasons given. One: to teach humility, so that no one disdains learning from, or reciting to, someone of lower rank. Two: Ubayy was quickest to take the Prophet's ﷺ wording, so he would recite as he heard and teach others. Ibn Kathir calls it a recitation of conveying, confirming and warning, not of learning or recollection, given to strengthen Ubayy's faith. The surah that opens on people who would not let go was received by one man with tears.",
+            "bn": "উবাইকেই কেন পড়ে শোনানো হলো? কুরতুবী এখান থেকে আলেমের পক্ষ থেকে ছাত্রকে পড়ে শোনানোর বিধান বের করেন, আর দুটি কারণ বর্ণনা করেন। এক, বিনয় শেখানো, যাতে মর্যাদায় নিচের কারও কাছে শিখতে বা তাকে পড়ে শোনাতে কেউ নাক না সিঁটকায়। দুই, নবী ﷺ-এর শব্দ সবচেয়ে দ্রুত আয়ত্ত করতেন উবাই। তাই তিনি যেমন শুনবেন তেমন পড়বেন, অন্যকেও শেখাবেন। ইবন কাসীর বলেন, এ ছিল পৌঁছে দেওয়া, দৃঢ় করা আর সতর্ক করার তিলাওয়াত, শেখা বা স্মরণ করার নয়, উবাইয়ের ঈমান মজবুত করার জন্য। যে সূরা শুরু হয় নিজের অবস্থান ছাড়তে নারাজ মানুষদের কথা দিয়ে, একজন মানুষ তা গ্রহণ করলেন চোখের পানিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Description, Not Accusation",
+          "bn": "বিবরণ আছে, অভিযোগ নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. These verses name the People of the Scripture and the polytheists, and the commentators name the Jews of Yathrib, the Christians and the polytheists of Quraysh. The verses describe what the text describes, about the people they addressed when the proof came. They license nothing against any living person or community, and this article applies them to no group today. Al-Baghawi, and the scholars in al-Qurtubi, read the opening as a verse about those who believed: what it records first is a rescue.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এই আয়াতগুলো আহলে কিতাব ও মুশরিকদের নাম নেয়, আর মুফাসসিররা নাম নেন ইয়াসরিবের ইহুদি, খ্রিস্টান আর কুরাইশের মুশরিকদের। আয়াতগুলো তা-ই বর্ণনা করে, যা পাঠে আছে, প্রমাণ আসার সময় যাদের সম্বোধন করা হয়েছিল তাদের নিয়ে। জীবিত কোনো মানুষ বা কোনো জাতির বিরুদ্ধে এগুলো কোনো কিছুর অনুমতি দেয় না। এই লেখাও আজকের কোনো দলের উপর এগুলো খাটায় না। বাগাভী এবং কুরতুবীর উদ্ধৃত আলেমরা সূরার শুরুকে পড়েছেন ঈমান আনা মানুষদের আয়াত হিসেবে। এখানে প্রথমে যা লেখা আছে, তা এক উদ্ধারের কথা।"
+          },
+          {
+            "en": "So the verses turn back on the reader. Everyone holds something until a proof moves them, and any community that receives knowledge can divide over it. At-Tabari's reading and as-Sa'di's warning meet here: the proof that should gather people can become the line along which they split. When a clear proof reaches me, do I let go of what it corrects? And do I draw closer to those who received it with me, or further away?",
+            "bn": "তাই আয়াতগুলো ফিরে আসে পাঠকের দিকে। প্রমাণ নাড়া না দেওয়া পর্যন্ত প্রত্যেকেই কিছু না কিছু আঁকড়ে থাকে। আর যে জাতির কাছেই জ্ঞান আসে, তারা সেটা নিয়ে বিভক্ত হতে পারে। তাবারীর ব্যাখ্যা আর সা'দীর সতর্কবাণী এখানে এসে মেলে। যে প্রমাণ মানুষকে কাছে টানার কথা, সেটাই হয়ে যেতে পারে তাদের ভাগ হওয়ার রেখা। সুস্পষ্ট প্রমাণ যখন আমার কাছে পৌঁছায়, তা যা শুধরে দেয় আমি কি তা ছাড়ি? যারা আমার সঙ্গে তা পেয়েছে, আমি কি তাদের কাছে আসি, নাকি আরও দূরে সরে যাই?"
+          }
+        ]
+      }
+    ]
+  },
   "98:5": {
     "sections": [
       {
