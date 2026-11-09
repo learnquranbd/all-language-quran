@@ -11,6 +11,158 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "89:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Daybreak Opens the Surah",
+          "bn": "ভোর দিয়ে সূরার শুরু"
+        },
+        "p": [
+          {
+            "en": "Wal-fajr: and by the dawn. The surah's first verse is one Arabic word, and it begins a chain. Al-Qurtubi counts five oaths in the opening verses: the dawn, ten nights, the even, the odd, and the night as it moves on. The Muyassar folds them into one sentence: Allah swore by the time of dawn, the first ten nights of Dhul-Hijjah, every even and single thing, and the night travelling with its darkness, then asked whether these oaths are not enough for a person of sense.",
+            "bn": "ওয়াল ফাজর: ঊষার শপথ। সূরার প্রথম আয়াত মাত্র একটি আরবি শব্দ, আর এখান থেকেই শুরু হয় শপথের এক মালা। কুরতুবী শুরুর আয়াতগুলোতে পাঁচটি শপথ গোনেন: ঊষা, দশটি রাত, জোড়, বেজোড়, আর চলে যেতে থাকা রাত। মুয়াসসার সবগুলোকে এক বাক্যে বেঁধে দেয়। আল্লাহ শপথ করেছেন ফজরের সময়ের, জিলহজের প্রথম দশ রাতের, প্রতিটি জোড় ও বেজোড়ের, আর আঁধার নিয়ে বয়ে চলা রাতের। তারপর প্রশ্ন রেখেছেন, বোধসম্পন্ন মানুষের জন্য এই শপথগুলো কি যথেষ্ট নয়?"
+          },
+          {
+            "en": "As-Sa'di explains why the dawn heads the list. It ends the night and opens the day, and in the night turning away and the day coming on are signs of the completeness of Allah's power, and that He alone arranges every affair and alone deserves worship. Ibn Kathir opens the surah with a report relayed from an-Nasa'i, on the length of a congregational prayer, that names this surah. I could not confirm it on a collection page, so it is only mentioned.",
+            "bn": "তালিকার মাথায় ঊষা কেন, সা'দী তা বুঝিয়ে দেন। ঊষা রাতের শেষ প্রান্ত আর দিনের সামনের ভাগ। রাত পিঠ ফিরিয়ে চলে যায়, দিন এগিয়ে আসে, আর এই পালাবদলে আছে এমন নিদর্শন, যা আল্লাহর পূর্ণ ক্ষমতার দিকে ইশারা করে। ইশারা করে এদিকেও যে সব কাজের ব্যবস্থাপক তিনি একাই, আর ইবাদত কেবল তাঁরই প্রাপ্য। ইবন কাসীর সূরাটির শুরুতে নাসাঈ থেকে একটি বর্ণনা আনেন। বিষয় জামাতের নামাজে ইমাম কতটা লম্বা করবেন, আর সেখানে এ সূরার নাম এসেছে। কোনো হাদিসগ্রন্থের পাতায় আমি এটি মিলিয়ে দেখতে পারিনি, তাই এখানে শুধু উল্লেখ রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Morning, or One",
+          "bn": "প্রতিটি সকাল, নাকি একটি"
+        },
+        "p": [
+          {
+            "en": "The commentators agree on the word and differ on its reach. Ibn Kathir calls the dawn well known: it is the morning, as 'Ali, Ibn 'Abbas, Mujahid, 'Ikrimah and as-Suddi said. Al-Qurtubi describes it as the darkness bursting open onto the day, every day, naming 'Ali, Ibn az-Zubayr and Ibn 'Abbas (RA), and Ma'arif al-Qur'an likewise calls the word general: any dawn, the daily change that turns a person towards Allah's power.",
+            "bn": "শব্দটির অর্থে তাফসীরকারেরা একমত, তবে তার পরিধি নিয়ে মত ভিন্ন। ইবন কাসীর বলেন, ফজর তো জানা কথা, অর্থ সকাল। এ মতের জন্য তিনি নাম নেন আলী (রাঃ), ইবন আব্বাস (রাঃ), মুজাহিদ, ইকরিমা ও সুদ্দীর। কুরতুবীর ব্যাখ্যায় ফজর হলো রোজকার সেই মুহূর্ত, যখন আঁধার ফেটে দিন বেরিয়ে আসে। এখানে তিনি আলী, ইবনুয যুবাইর ও ইবন আব্বাসের নাম নেন। মাআরিফুল কুরআনও শব্দটিকে সাধারণ বলে, যেকোনো ভোরই এর অর্থ। প্রতিদিনের এই বড় পরিবর্তন মানুষের মনকে আল্লাহর ক্ষমতার দিকে ফেরায়।"
+          },
+          {
+            "en": "Other early readers fixed it to one day. Ibn Kathir reports from Masruq, Mujahid and Muhammad ibn Ka'b that the dawn of the Day of Sacrifice is meant in particular, as the close of the ten nights. Al-Qurtubi reports from Qatadah the dawn of the first day of Muharram, the dawn from which the year bursts open, and al-Baghawi reports the same from Qatadah. Ad-Dahhak, in both al-Qurtubi and al-Baghawi, said the dawn of Dhul-Hijjah, because the ten nights are joined to it.",
+            "bn": "প্রথম যুগের আরও কয়েকজন একে একটি নির্দিষ্ট দিনে বেঁধেছেন। ইবন কাসীর মাসরুক, মুজাহিদ ও মুহাম্মাদ ইবন কা'ব থেকে বর্ণনা করেন, বিশেষভাবে কুরবানির দিনের ভোর বোঝানো হয়েছে, যা দশটি রাতের সমাপ্তি। কুরতুবী কাতাদা থেকে আনেন মুহাররমের প্রথম দিনের ভোর, যে ভোর থেকে বছর ফুটে বের হয়। বাগাভীও কাতাদা থেকে একই কথা বর্ণনা করেন। কুরতুবী ও বাগাভী দুজনের বর্ণনাতেই দাহহাক বলেছেন জিলহজের ভোর। কারণ দশ রাত এর সঙ্গে জোড়া লাগানো।"
+          },
+          {
+            "en": "A third group read it as worship. At-Tabari reports, through a chain to Ibn 'Abbas, that it means the Fajr prayer; al-Baghawi reports the same from Ibn 'Abbas through 'Atiyyah, and Ibn Kathir names 'Ikrimah for the prayer offered at that hour. A fourth reading widens it: at-Tabari has Ibn 'Abbas saying the dawn is the daytime, and al-Qurtubi explains that the whole day is named after its first part. At-Tabari lists these views and, in the text fetched for this verse, gives no preference among them.",
+            "bn": "তৃতীয় একদল ফজরকে দেখেছেন ইবাদত হিসেবে। তাবারী এক সনদে ইবন আব্বাস থেকে বর্ণনা করেন, এর অর্থ ফজরের নামাজ। বাগাভীও আতিয়্যার সূত্রে ইবন আব্বাস থেকে একই কথা আনেন, আর ইবন কাসীর ওই সময়ে আদায় করা নামাজের মতের জন্য ইকরিমার নাম নেন। চতুর্থ একটি মত অর্থটা আরও ছড়িয়ে দেয়। তাবারীর বর্ণনায় ইবন আব্বাস বলেছেন, ফজর মানে দিন। কুরতুবী ব্যাখ্যা করেন, গোটা দিনকে তার শুরুর অংশের নামে ডাকা হয়েছে। এই আয়াতের যে পাঠ আমার সামনে আছে, তাতে তাবারী মতগুলো সাজিয়ে দেন, কোনোটিকে প্রাধান্য দেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Day With No Eve",
+          "bn": "যে দিনের আগে রাত নেই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the reasoning behind the Day of Sacrifice reading, in a report from Ibn Jurayj through 'Ata' from Ibn 'Abbas. Allah gave every day a night before it except the Day of Sacrifice, which has no night of its own before it or after it, because the Day of 'Arafah has two nights: the one before it and the one after it. Whoever reaches the standing place in the night after 'Arafah has caught the Hajj, until the dawn of the Day of Sacrifice rises. Al-Qurtubi adds that this is Mujahid's view.",
+            "bn": "কুরবানির দিনের ভোরের মতটির পেছনের যুক্তি কুরতুবী দেন ইবন জুরাইজের একটি বর্ণনায়, যা আতা হয়ে ইবন আব্বাস পর্যন্ত গেছে। আল্লাহ প্রতিটি দিনের আগে একটি রাত রেখেছেন, শুধু কুরবানির দিন ছাড়া। ওই দিনের আগে বা পরে তার নিজের কোনো রাত নেই। কারণ আরাফার দিনের রাত দুটি, একটি আগে, একটি পরে। আরাফার পরের রাতে যে অবস্থানস্থলে পৌঁছে যায়, সে হজ পেয়ে যায়, আর এ সুযোগ থাকে কুরবানির দিনের ভোর ফোটা পর্যন্ত। কুরতুবী যোগ করেন, এটাই মুজাহিদের মত।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an carries the same argument, naming al-Qurtubi, and draws the conclusion that the dawn of that day holds a special place among all the days of the year. As-Sa'di stays with the daily dawn and adds a second reason for swearing by it: a prayer of great merit falls at that time, one held in high honour, and it is fitting that Allah should swear by it.",
+            "bn": "মাআরিফুল কুরআন কুরতুবীর নাম নিয়ে একই যুক্তি তুলে ধরে, আর সিদ্ধান্ত টানে যে বছরের সব দিনের মধ্যে ওই দিনের ভোরের আলাদা মর্যাদা আছে। সা'দী থাকেন রোজকার ভোরের সঙ্গেই, আর এর শপথের পেছনে দ্বিতীয় একটি কারণ যোগ করেন। ওই সময়ে আদায় হয় এক মহা ফজিলতের নামাজ, যাকে বড় সম্মানের চোখে দেখা হয়। এমন জিনিসের শপথ আল্লাহ করবেন, সেটাই মানানসই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten Nights Without a Name",
+          "bn": "নামহীন দশ রাত"
+        },
+        "p": [
+          {
+            "en": "The second oath, wa-layalin 'ashr, and by ten nights, does not say which ten. At-Tabari reports the first ten of Dhul-Hijjah from Ibn 'Abbas through several chains, from Ibn az-Zubayr (from the start of the month to the Day of Sacrifice), and from Masruq, 'Ikrimah, Mujahid, Qatadah and ad-Dahhak. He then gives his verdict: the correct view is the ten of al-Adha, because the authorities among the interpreters agree on it. Ibn Kathir calls this first view correct, and the Muyassar adopts it without comment.",
+            "bn": "দ্বিতীয় শপথ, ওয়া লায়ালিন আশর, দশটি রাতের শপথ। কোন দশটি, তা আয়াত বলে না। তাবারী জিলহজের প্রথম দশের মতটি আনেন ইবন আব্বাস থেকে কয়েকটি সনদে, ইবনুয যুবাইর থেকে (মাসের শুরু থেকে কুরবানির দিন পর্যন্ত), আর মাসরুক, ইকরিমা, মুজাহিদ, কাতাদা ও দাহহাক থেকে। তারপর রায় দেন: সঠিক মত হলো কুরবানির দশ, কারণ তাফসীরের নির্ভরযোগ্য আলেমরা এতে একমত। ইবন কাসীরও এই প্রথম মতকেই সঠিক বলেন, আর মুয়াসসার কোনো মন্তব্য ছাড়াই এটা গ্রহণ করে।"
+          },
+          {
+            "en": "Other readings are on record. Al-Baghawi reports through Abu Zabyan from Ibn 'Abbas that the first ten of Ramadan are meant; al-Baghawi also reports from ad-Dahhak, through Abu Rawq, the last ten of Ramadan, which al-Qurtubi attributes to Ibn 'Abbas and ad-Dahhak. At-Tabari has Ibn Zayd naming the first of Dhul-Hijjah and also the opening ten of Muharram, and al-Baghawi gives the Muharram view to Yaman ibn Rabab, with 'Ashura as its tenth. As-Sa'di holds that the ten are either those of Ramadan or those of Dhul-Hijjah.",
+            "bn": "আরও কয়েকটি মত বর্ণিত আছে। বাগাভী আবু যাবইয়ানের সূত্রে ইবন আব্বাস থেকে বর্ণনা করেন, এখানে রমজানের প্রথম দশটি রাত বোঝানো হয়েছে। বাগাভী আবু রাওকের সূত্রে দাহহাক থেকে রমজানের শেষ দশের কথাও আনেন, আর কুরতুবী এই মত ইবন আব্বাস ও দাহহাকের নামে দেন। তাবারীর বর্ণনায় ইবন যায়দ জিলহজের প্রথম দশের কথা বলেন, আবার মুহাররমের শুরুর দশের কথাও বলেন। বাগাভী মুহাররমের মতটি দেন ইয়ামান ইবন রাবাবের নামে, যার দশম দিন আশুরা। সা'দীর মতে দশ রাত হয় রমজানের, নয়তো জিলহজের।"
+          },
+          {
+            "en": "As-Sa'di gives a reason for each: the ten nights of Ramadan hold Laylat al-Qadr, better than a thousand months, and the days of Dhul-Hijjah hold the standing at 'Arafah and much of the Hajj. Masruq, in at-Tabari and al-Qurtubi, links the ten to the ten nights by which Musa's (AS) appointment was completed in 7:142. Al-Qurtubi also notes the grammar: the ten are left indefinite, without the article, to mark their distinction, because the definite form would not carry the sense of excellence that the indefinite gives.",
+            "bn": "প্রতিটি মতের পক্ষে সা'দী একটি করে কারণ দেখান। রমজানের দশটি রাতের ভেতর আছে লাইলাতুল কদর, যা হাজার মাসের চেয়ে উত্তম। আর জিলহজের দিনগুলোতে আছে আরাফায় অবস্থান আর হজের অনেক আমল। তাবারী ও কুরতুবী দুজনের বর্ণনাতেই মাসরুক এই দশকে মিলিয়েছেন সেই দশ রাতের সঙ্গে, যা দিয়ে ৭:১৪২ আয়াতে মূসা (আঃ)-এর নির্ধারিত সময় পূর্ণ করা হয়েছিল। কুরতুবী ব্যাকরণের দিকেও দৃষ্টি দেন। দশ রাতকে আলিফ-লাম ছাড়া অনির্দিষ্ট রাখা হয়েছে তাদের বিশেষ মর্যাদা বোঝাতে। নির্দিষ্ট রূপে বললে অনির্দিষ্ট রূপের ভেতরের সেই শ্রেষ্ঠত্বের ভাব আসত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Narrations Can Carry",
+          "bn": "বর্ণনা কতটা বইতে পারে"
+        },
+        "p": [
+          {
+            "en": "Under the ten nights Ibn Kathir cites a narration of Ibn 'Abbas, attributing it to al-Bukhari. The wording here is at-Tirmidhi's (no. 757): the Messenger of Allah ﷺ said, \"There are no days in which righteous deeds are more beloved to Allah than these ten days.\" They said, \"O Messenger of Allah, not even jihad in the way of Allah?\" He said, \"Not even jihad in the way of Allah, except a man who goes out with his self and his wealth and does not return with any of it.\" At-Tirmidhi grades it hasan sahih gharib.",
+            "bn": "দশটি রাতের আলোচনায় ইবন কাসীর ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন এবং সেটিকে বুখারীর বলে উল্লেখ করেন। এখানে শব্দগুলো তিরমিযীর (নং ৭৫৭)। রাসূলুল্লাহ ﷺ বলেছেন, \"এমন কোনো দিন নেই, যেদিনের নেক আমল আল্লাহর কাছে এই দশ দিনের আমলের চেয়ে বেশি প্রিয়।\" সাহাবিরা বললেন, \"হে আল্লাহর রাসূল, আল্লাহর পথে জিহাদও নয়?\" তিনি বললেন, \"আল্লাহর পথে জিহাদও নয়, তবে সেই ব্যক্তি ছাড়া, যে নিজের জান ও মাল নিয়ে বের হলো, আর তার কিছুই নিয়ে ফিরে এলো না।\" তিরমিযী একে হাসান সহীহ গরীব বলেছেন।"
+          },
+          {
+            "en": "Two cautions belong beside it. The narration speaks of \"these ten days\" and never mentions this verse; it is a general narration on the merit of the days, and it is Ibn Kathir who reads it as Dhul-Hijjah's ten and sets it beside the oath. He also relays, from Ahmad and an-Nasa'i, a report through Jabir (RA), raised to the Prophet ﷺ, that matches the ten, the even and the odd to particular days. He finds its narrators acceptable but its being raised to the Prophet ﷺ objectionable. It is mentioned here, not used.",
+            "bn": "এর পাশে দুটি সতর্কতা রাখা দরকার। বর্ণনাটি \"এই দশ দিন\"-এর কথা বলে, এই আয়াতের নাম নেয় না। এটি দিনগুলোর ফজিলত নিয়ে একটি সাধারণ বর্ণনা। একে জিলহজের দশটি দিন হিসেবে পড়ে শপথের পাশে বসিয়েছেন ইবন কাসীর নিজে। ইবন কাসীর আহমাদ ও নাসাঈ থেকে জাবির (রাঃ)-এর সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো আরেকটি বর্ণনাও আনেন। তাতে দশ, জোড় ও বেজোড়কে নির্দিষ্ট কয়েকটি দিনের সঙ্গে মেলানো হয়েছে। তিনি বলেন, এর বর্ণনাকারীরা চলনসই, তবে তাঁর বিবেচনায় একে নবী ﷺ-এর কথা বলে চালানোয় আপত্তি আছে। তাই এখানে শুধু উল্লেখ রইল, ব্যবহার নয়।"
+          },
+          {
+            "en": "The same holds for a report through 'Imran ibn Husayn (RA), raised to the Prophet ﷺ, on the even and the odd, which Ibn Kathir relays from Ahmad and at-Tirmidhi; he judges it more likely to be 'Imran's own words. So no narration confirmed in a collection explains these oaths. What explains them is the record of the Companions and their students, set out below with their names attached.",
+            "bn": "একই কথা খাটে ইমরান ইবন হুসাইন (রাঃ)-এর সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো আরেকটি বর্ণনার বেলায়, যার বিষয় জোড় ও বেজোড়। ইবন কাসীর এটি আহমাদ ও তিরমিযী থেকে আনেন। ইবন কাসীরের বিচারে এটি ইমরানের নিজের কথা হওয়াই বেশি সম্ভব। তাই এখানে শুধু উল্লেখ, কোনো ব্যবহার নয়। সোজা কথায়, হাদিসগ্রন্থে মিলিয়ে দেখা কোনো বর্ণনা এই শপথগুলোর একটিরও ব্যাখ্যা দেয় না। ব্যাখ্যা দেয় সাহাবি ও তাঁদের শিষ্যদের রেখে যাওয়া মতামত, যা পরের অংশগুলোতে নামসহ সাজানো আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Pair and Every Single",
+          "bn": "প্রতিটি জোড়, প্রতিটি একক"
+        },
+        "p": [
+          {
+            "en": "Wash-shaf'i wal-watr: and by the even and the odd; al-Qurtubi defines shaf' as two and watr as single. At-Tabari reports from Ibn 'Abbas, through several chains, and from 'Ikrimah that the odd is the Day of 'Arafah and the even the Day of Sacrifice; al-Qurtubi explains that these are the ninth and the tenth. 'Ata', in a report Ibn Kathir relays, made the even the Day of 'Arafah and the odd the night of al-Adha. Ibn az-Zubayr read the pair through 2:203: leaving after two days is the even, staying on is the odd.",
+            "bn": "ওয়াশ শাফয়ি ওয়াল ওয়াতর: জোড় ও বেজোড়ের শপথ। কুরতুবী বলেন, শাফ মানে দুই, আর ওয়াতর মানে একক। তাবারী কয়েকটি সনদে ইবন আব্বাস থেকে এবং ইকরিমা থেকে বর্ণনা করেন: বেজোড় আরাফার দিন, জোড় কুরবানির দিন। কারণটা দেন কুরতুবী। দশের মধ্যে আরাফা নবম দিন, আর কুরবানির দিন দশম। ইবন কাসীর আতার যে বর্ণনা আনেন, তাতে উল্টো কথা: জোড় আরাফার দিন, বেজোড় কুরবানির রাত। ইবনুয যুবাইর জোড়-বেজোড়কে পড়েছেন ২:২০৩ আয়াতের আলোয়। দুই দিনে তাড়াতাড়ি ফিরে যাওয়া জোড়, আর থেকে যাওয়া বেজোড়।"
+          },
+          {
+            "en": "Others widened the oath to all creation. Mujahid, in Ibn Kathir's report, said everything Allah created is a pair: sky and earth, land and sea, jinn and humans, sun and moon. Ibn Kathir ties this to 51:49, so that people learn the Creator of the pairs is One; in another report from Mujahid, Allah is the odd and His creation the even. Al-Hasan said it is number itself, part even and part odd. Abu al-'Aliyah and ar-Rabi' ibn Anas said it is the prayer: some prayers even, Maghrib odd.",
+            "bn": "কেউ কেউ শপথটিকে গোটা সৃষ্টিজগৎ পর্যন্ত ছড়িয়ে দিয়েছেন। ইবন কাসীরের বর্ণনায় মুজাহিদ বলেছেন, আল্লাহর সৃষ্টি সবকিছুই জোড়া জোড়া: আসমান ও জমিন, স্থল ও সাগর, জিন ও মানুষ, সূর্য ও চাঁদ। ইবন কাসীর একে মেলান ৫১:৪৯ আয়াতের সঙ্গে, যাতে মানুষ বোঝে, জোড়াগুলোর স্রষ্টা একজনই। মুজাহিদের আরেক বর্ণনায় আল্লাহ বেজোড়, আর তাঁর সৃষ্টি জোড়। হাসান বসরীর মতে এর অর্থ সংখ্যা নিজেই, যার কিছু জোড়, কিছু বেজোড়। আবুল আলিয়া ও রাবী ইবন আনাস বলেছেন, এর অর্থ নামাজ। কিছু নামাজ জোড়, আর মাগরিব বেজোড়।"
+          },
+          {
+            "en": "At-Tabari closes the question with a ruling of method. Allah swore by the even and the odd and did not single out one kind of either, by any report or by reason, so every even and every odd falls within His oath. Near this verse both Ibn Kathir and al-Qurtubi cite a general narration that does not mention it. Al-Bukhari's wording (no. 6410), from Abu Hurayrah (RA): \"Allah has ninety-nine names, one hundred less one; no one preserves them but he enters Paradise; and He is witr and loves the witr.\"",
+            "bn": "তাবারী প্রশ্নটির ইতি টানেন একটি পদ্ধতিগত রায় দিয়ে। আল্লাহ জোড় ও বেজোড়ের শপথ করেছেন, কিন্তু কোনো বর্ণনা বা যুক্তি দিয়ে এর কোনো একটি প্রকারকে আলাদা করেননি। তাই প্রতিটি জোড় আর প্রতিটি বেজোড়ই তাঁর শপথের ভেতরে পড়ে। এই আয়াতের কাছাকাছি ইবন কাসীর ও কুরতুবী দুজনেই একটি সাধারণ বর্ণনা আনেন, যা এই আয়াতের নাম নেয় না। আবু হুরায়রা (রাঃ) থেকে বুখারীর শব্দ (নং ৬৪১০): \"আল্লাহর নিরানব্বইটি নাম আছে, এক কম একশ। যে-ই এগুলো সংরক্ষণ করবে, সে জান্নাতে যাবে। আর তিনি বেজোড়, বেজোড়কে ভালোবাসেন।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Night on Its Journey",
+          "bn": "পথ চলা রাত"
+        },
+        "p": [
+          {
+            "en": "Wal-layli idha yasr: and by the night when it travels. At-Tabari explains the verb from sara, to journey by night: the night when it moves on and goes. He reports this from Ibn 'Abbas (when it goes), from Ibn az-Zubayr (until one part of it takes away another), and from Mujahid, Abu al-'Aliyah, Qatadah and Ibn Zayd (when it moves along). Al-Qurtubi, though, reports from Qatadah and Abu al-'Aliyah that it means the night when it comes and approaches, and al-Baghawi has the same from Qatadah. The direction of the journey is itself in dispute.",
+            "bn": "ওয়াল লাইলি ইযা ইয়াসর: আর রাতের শপথ, যখন তা চলতে থাকে। তাবারী ক্রিয়াটি ব্যাখ্যা করেন সারা ধাতু থেকে, যার অর্থ রাতে পথ চলা। অর্থাৎ রাত যখন এগিয়ে চলে বিদায় নেয়। এ মত তিনি আনেন ইবন আব্বাস থেকে (যখন চলে যায়), ইবনুয যুবাইর থেকে (যখন তার এক অংশ আরেক অংশকে সরিয়ে নিয়ে যায়), আর মুজাহিদ, আবুল আলিয়া, কাতাদা ও ইবন যায়দ থেকে (যখন চলতে থাকে)। কিন্তু কুরতুবী কাতাদা ও আবুল আলিয়া থেকে বর্ণনা করেন, অর্থ হলো রাত যখন আসে, এগিয়ে আসে। বাগাভীও কাতাদা থেকে একই কথা আনেন। রাতের এই যাত্রা কোন দিকে, সেটাই তাই মতভেদের বিষয়।"
+          },
+          {
+            "en": "Ibn Kathir weighs the two. The verb can mean that the night goes, as Ibn 'Abbas said; it can also mean that it comes on, and that may suit the passage better, because the dawn is the day arriving and the night leaving, so this would be an oath by the night arriving and the day leaving, as in 81:17 and 81:18. 'Ikrimah, in at-Tabari and Ibn Kathir, took it as the night of Jam', the night at Muzdalifah. Al-Qurtubi holds that night in general is meant and calls that the most apparent reading.",
+            "bn": "ইবন কাসীর দুই অর্থ পাশাপাশি রেখে বিচার করেন। ক্রিয়াটির অর্থ হতে পারে রাত চলে যাওয়া, যেমন ইবন আব্বাস বলেছেন। আবার হতে পারে রাত এগিয়ে আসা, আর এটা হয়তো প্রসঙ্গের সঙ্গে বেশি মানায়। কারণ ফজর মানে দিনের আগমন আর রাতের প্রস্থান। তাহলে এটি হবে রাতের আগমন আর দিনের প্রস্থানের শপথ, যেমন ৮১:১৭ ও ৮১:১৮ আয়াতে। তাবারী ও ইবন কাসীরের বর্ণনায় ইকরিমা একে ধরেছেন জাম'-এর রাত, অর্থাৎ মুযদালিফার রাত। কুরতুবীর মতে এখানে সাধারণভাবে যেকোনো রাত বোঝানো হয়েছে, আর এটাকেই তিনি সবচেয়ে স্পষ্ট অর্থ বলেন।"
+          },
+          {
+            "en": "As-Sa'di reads the verse as a mercy. It is the time when the night flows and lets its darkness down over Allah's servants, so that they become still, rest and settle, a mercy from Him and a wisdom. At-Tabari prefers to recite the word without its final ya, as it is written, to keep the verse endings matched on ra.",
+            "bn": "সা'দী আয়াতটিকে পড়েন রহমত হিসেবে। এ সেই সময়, যখন রাত বয়ে চলে আর বান্দাদের উপর আঁধারের পর্দা নামিয়ে দেয়। তারা তখন স্থির হয়, বিশ্রাম নেয়, শান্তি পায়। এ তাঁর পক্ষ থেকে রহমত, আর তাঁর হিকমত। তাবারী শব্দটি শেষের ইয়া ছাড়া পড়াই বেশি পছন্দ করেন, যেমনটা লেখা আছে, যাতে আয়াতগুলোর শেষ রা অক্ষরে মিলে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enough for One Who Holds Back",
+          "bn": "সংযমী বুদ্ধির জন্য যথেষ্ট"
+        },
+        "p": [
+          {
+            "en": "Hal fi dhalika qasamun li-dhi hijr: is there in that an oath for a person of hijr? Ibn Kathir, al-Baghawi and al-Qurtubi explain hijr as intellect, from a root meaning to prevent, because it holds a person back from what does not befit him. At-Tabari reads the question as saying these oaths suffice for whoever understands his Lord, and as-Sa'di answers it: yes, part of it is enough for anyone with a heart. Ibn Kathir adds that the oaths are by times of worship and by worship itself.",
+            "bn": "হাল ফী যালিকা কাসামুল লিযী হিজর: এতে কি হিজরওয়ালার জন্য শপথ নেই? ইবন কাসীর, বাগাভী ও কুরতুবী বলেন, হিজর মানে বুদ্ধি। শব্দের মূল অর্থ বাধা দেওয়া, কারণ বুদ্ধি মানুষকে বেমানান কাজ থেকে আটকে রাখে। তাবারীর মতে প্রশ্নটি আসলে জানিয়ে দেয়, যে নিজের রবকে বোঝে, তার জন্য এই শপথগুলোই যথেষ্ট। সা'দী প্রশ্নের জবাবও দেন: হ্যাঁ, যার অন্তর আছে, তার জন্য এর কিছু অংশই যথেষ্ট। ইবন কাসীর যোগ করেন, এই শপথগুলো ইবাদতের সময়ের, আর খোদ ইবাদতের।"
+          },
+          {
+            "en": "What the oaths swear to is itself disputed. Al-Qurtubi says the answer is left unstated, in the sense of \"He will surely punish\", indicated by 89:6 to 89:13, and he relays Ibn al-Anbari's view that it is 89:14, that your Lord is ever watchful; al-Baghawi names 89:14 outright. As-Sa'di holds that what is sworn by is itself the matter sworn to. The verses that follow recall 'Ad, Thamud and Pharaoh; they describe what the text describes, and license nothing against any living person or community.",
+            "bn": "শপথগুলো কোন কথার উপর, তা নিয়েও মতভেদ আছে। কুরতুবী বলেন, জবাবটি উহ্য রাখা হয়েছে। তার ভাব হলো, \"তিনি অবশ্যই শাস্তি দেবেন\", আর এর ইঙ্গিত দেয় ৮৯:৬ থেকে ৮৯:১৩ আয়াত। পাশাপাশি তিনি ইবনুল আনবারীর মত জানান যে জবাব হলো ৮৯:১৪, তোমার রব অবশ্যই সতর্ক দৃষ্টি রাখেন। বাগাভী সরাসরি ৮৯:১৪-কেই জবাব বলেন। সা'দীর মতে যার শপথ করা হয়েছে, সেটাই শপথের বিষয়। পরের আয়াতগুলো আদ, সামূদ ও ফিরআউনের কথা স্মরণ করায়। আয়াতগুলো কেবল ততটুকুই বর্ণনা করে, যতটুকু পাঠে আছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এগুলো দেয় না।"
+          }
+        ]
+      }
+    ]
+  },
   "89:6-7": {
     "sections": [
       {

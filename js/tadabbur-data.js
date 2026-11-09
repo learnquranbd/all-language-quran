@@ -30043,6 +30043,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Before you discourage anyone's prayer or good deed, ask whether they may be upon guidance; no one is rightly silenced for being right.",
     "lessonBn": "কারও নামায বা নেক কাজে বাধা দেওয়ার আগে ভেবে দেখুন, সে হয়তো হিদায়াতের উপরই আছে; ঠিক পথে থাকার জন্য কাউকে থামানোর হক কারও নেই।"
+  },
+  "89:1": {
+    "reflectionEn": "The surah opens on a single word: wal-fajr, by the dawn. Before any warning and before any story, Allah swears by the moment when the dark gives way to light. It happens every morning, which is exactly why it is so easy to miss. The commentators differ over which dawn is meant: every dawn, the dawn of one honoured day, or the prayer that is prayed at it. Whichever it is, I am being asked to notice. The night did not argue its way out; it was ended by the One who ends every night. Do I sleep through the very sign that is sworn by? And when something in my life feels like a night that will not lift, do I remember who brings the morning?",
+    "reflectionBn": "সূরাটি শুরু হয় একটিমাত্র শব্দে: ওয়াল ফাজর, ঊষার শপথ। কোনো সতর্কবাণী বা কাহিনির আগেই আল্লাহ শপথ করেন সেই মুহূর্তের, যখন অন্ধকার সরে আলোকে জায়গা ছেড়ে দেয়। রোজ ভোরে এমনটা ঘটে, আর ঠিক এ কারণেই চোখ এড়িয়ে যাওয়া এত সহজ। কোন ভোর বোঝানো হয়েছে, তা নিয়ে তাফসীরকারদের মত ভিন্ন। কারও মতে প্রতিটি ভোর, কারও মতে বিশেষ মর্যাদার এক দিনের ভোর, আবার কারও মতে ভোরে আদায় করা নামাজ। যেটাই হোক, আমাকে বলা হচ্ছে চোখ খুলে দেখতে। রাত তর্ক করে বিদায় নেয়নি। যিনি প্রতিটি রাত শেষ করেন, তিনিই একে শেষ করেছেন। যে নিদর্শনের নামে শপথ করা হলো, আমি কি সেটাই ঘুমিয়ে পার করে দিই? আর জীবনের কোনো অন্ধকার যখন মনে হয় আর কাটবে না, তখন কি মনে রাখি, সকাল কে আনেন?",
+    "pointsEn": [
+      "When did I last watch the dawn on purpose, instead of sleeping through it or scrolling past it?",
+      "If the dawn prayer is the first thing the day asks of me, what usually takes its place?",
+      "Which darkness in my life am I treating as permanent, though every morning shows me that nights end?",
+      "Allah swears here by something ordinary; what ordinary thing in my day have I stopped seeing as a sign?",
+      "Who around me is going through a long night just now, and could I help bring them some of their morning?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আমি ইচ্ছে করে ভোর হওয়া দেখেছি, ঘুমিয়ে বা ফোন ঘেঁটে পার না করে?",
+      "দিনের প্রথম দাবি যদি হয় ফজরের নামাজ, তবে সাধারণত তার জায়গা কী দখল করে নেয়?",
+      "জীবনের কোন অন্ধকারকে আমি চিরস্থায়ী ধরে বসে আছি, অথচ প্রতিটি সকাল দেখিয়ে দেয় রাত শেষ হয়?",
+      "আল্লাহ এখানে খুব চেনা একটি জিনিসের শপথ করেছেন। আমার দিনের কোন চেনা জিনিসকে আমি আর নিদর্শন হিসেবে দেখি না?",
+      "আমার আশপাশে কে এখন লম্বা এক রাতের ভেতর দিয়ে যাচ্ছে? তার সকালের খানিকটা কি আমি এনে দিতে পারি?"
+    ],
+    "lessonEn": "Treat each dawn as a sign Allah has sworn by: rise to meet it in prayer, and remember that the One who ends every night can end the one you are in.",
+    "lessonBn": "প্রতিটি ভোরকে দেখুন এমন এক নিদর্শন হিসেবে, যার শপথ আল্লাহ করেছেন। নামাজ দিয়ে তাকে বরণ করুন, আর মনে রাখুন, যিনি প্রতিটি রাত শেষ করেন, তিনি আপনার রাতটিও শেষ করতে পারেন।"
   }
 };
 
