@@ -747,6 +747,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "83:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eight Words, Looking Back",
+          "bn": "আট শব্দে পেছনে ফিরে দেখা"
+        },
+        "p": [
+          {
+            "en": "Inna alladhina ajramu kanu mina alladhina amanu yadhakun: indeed, those who committed crimes used to laugh at those who believed. In Arabic the verse is eight words. It comes straight after 83:22 to 83:28, the couches, the radiance in the faces, the sealed drink and the spring of Tasnim. As-Sa'di explains the turn: having mentioned the recompense of the criminals and of the believers, and the vast gap between them, Allah tells that the criminals used to mock the believers in the world.",
+            "bn": "ইন্নাল্লাযীনা আজরামূ কানূ মিনাল্লাযীনা আমানূ ইয়াদহাকূন: নিশ্চয়ই যারা অপরাধ করেছিল, তারা ঈমানদারদের নিয়ে হাসত। আরবিতে আয়াতটি আটটি শব্দের। এর ঠিক আগে ৮৩:২২ থেকে ৮৩:২৮ পর্যন্ত এসেছে উঁচু আসন, মুখে নিয়ামতের দীপ্তি, সীল-আঁটা পানীয় আর তাসনীমের ঝর্ণা। এই মোড় ঘোরার কারণ সা'দী বুঝিয়ে দেন। অপরাধী আর ঈমানদার, দুই দলের প্রতিদান এবং দুয়ের মাঝে বিশাল ফারাকের কথা বলার পর আল্লাহ জানাচ্ছেন, দুনিয়াতে অপরাধীরা ঈমানদারদের নিয়ে ঠাট্টা করত।"
+          },
+          {
+            "en": "The wording holds the point. Kanu, they used to, makes the laughter a habit that went on, not a single moment. The phrase mina alladhina amanu, at those who believed, is placed before the verb, and yadhakun, they laugh, closes the verse. Ibn Kathir opens his comment by fixing the setting: Allah informs about the criminals that in the abode of this world they used to laugh at the believers. The Muyassar paraphrases this verse and the four after it in one passage, and this article follows that unit up to 83:33.",
+            "bn": "শব্দের গঠনেই কথাটা ধরা আছে। কানূ, তারা করত, হাসিটাকে বানিয়ে দেয় চলমান অভ্যাস, এক মুহূর্তের ঘটনা নয়। আরবিতে মিনাল্লাযীনা আমানূ, ঈমানদারদের নিয়ে, অংশটি ক্রিয়ার আগে বসেছে, আর ইয়াদহাকূন, তারা হাসে, শব্দে আয়াতটি শেষ হয়েছে। ইবন কাসীর তাঁর ব্যাখ্যার শুরুতেই প্রেক্ষাপট বেঁধে দেন: আল্লাহ অপরাধীদের সম্পর্কে জানাচ্ছেন যে দুনিয়ার জীবনে তারা ঈমানদারদের নিয়ে হাসত। মুয়াসসার এই আয়াত আর পরের চারটি আয়াতের ব্যাখ্যা দেয় একটি অনুচ্ছেদেই। এ লেখাও সেই একককে অনুসরণ করে ৮৩:৩৩ পর্যন্ত যাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Earning Sins, Refusing Faith",
+          "bn": "গুনাহ কামাই, ঈমান প্রত্যাখ্যান"
+        },
+        "p": [
+          {
+            "en": "Who are alladhina ajramu? At-Tabari glosses them as those who earned sins, iktasabu al-ma'athim, and so disbelieved in Allah in the world. Al-Baghawi gives a single word, ashraku, they associated partners with Allah, and adds that the disbelievers of Quraysh are meant. Al-Qurtubi reads the verse as a description of the disbelievers in the world, in their mocking of the believers. Ibn Kathir simply calls them al-mujrimin, the criminals, keeping the surah's own word. Each gloss names a refusal of faith as the root of the crime.",
+            "bn": "আল্লাযীনা আজরামূ কারা? তাবারী ব্যাখ্যা দেন, যারা গুনাহ কামাই করেছিল, ইকতাসাবুল মাআসিম, আর এভাবে দুনিয়াতে আল্লাহকে অস্বীকার করেছিল। বাগাভী একটি শব্দেই বলেন, আশরাকূ, তারা আল্লাহর সঙ্গে শরিক করেছিল। সঙ্গে জুড়ে দেন যে উদ্দেশ্য কুরাইশের কাফিররা। কুরতুবী আয়াতটিকে পড়েন দুনিয়ায় কাফিরদের ছবি হিসেবে, যারা ঈমানদারদের নিয়ে বিদ্রুপ করত। ইবন কাসীর সূরার নিজের শব্দটাই রেখে দেন, আল-মুজরিমীন, অপরাধীরা। প্রতিটি ব্যাখ্যাতেই অপরাধের শিকড় হলো ঈমান প্রত্যাখ্যান।"
+          },
+          {
+            "en": "The other side is named just as briefly. At-Tabari defines alladhina amanu as those who affirmed the oneness of Allah and believed Him, aqarru bi-wahdaniyyati Allah wa saddaqu bihi. The line the verse draws, then, runs between faith and its refusal. Reports given below add other details, such as wealth among the mockers and poverty among the believers, but the verse itself names only the crime and the faith. What made the believers a target, in at-Tabari's wording, was that they affirmed Allah's oneness and believed Him.",
+            "bn": "অন্য পক্ষের পরিচয়ও সংক্ষেপে। তাবারী আল্লাযীনা আমানূর সংজ্ঞা দেন: যারা আল্লাহর একত্ব স্বীকার করেছিল এবং তাঁকে সত্য বলে মেনেছিল, আকাররূ বিওয়াহদানিয়্যাতিল্লাহি ওয়া সাদ্দাকূ বিহি। তাহলে আয়াতটি যে রেখা টানে, তা ঈমান আর ঈমান প্রত্যাখ্যানের মাঝখানে। নিচের বর্ণনাগুলো আরও কিছু খুঁটিনাটি যোগ করে, যেমন বিদ্রুপকারীদের সচ্ছলতা আর ঈমানদারদের দারিদ্র্য। কিন্তু আয়াত নিজে শুধু অপরাধ আর ঈমানের নাম নেয়। তাবারীর ভাষায়, ঈমানদারদের নিশানা বানানোর কারণ ছিল এটুকুই: তারা আল্লাহর একত্ব মেনেছিল আর তাঁকে বিশ্বাস করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Laughter Carrying Contempt",
+          "bn": "তাচ্ছিল্যে ভরা হাসি"
+        },
+        "p": [
+          {
+            "en": "What kind of laughing is this? Not shared joy. At-Tabari adds one word after yadhakun: istihza'an minhum bihim, in mockery of them. Ibn Kathir gives two verbs, yastahzi'una bihim wa yahtaqirunahum: they mock them and look down on them. As-Sa'di stacks three: yaskharuna, yastahzi'una and yadhakuna minhum, they ridicule, they mock, they laugh at them. In every gloss the laugh carries a judgement. It sets the believers below the one laughing, and it asks the onlookers to agree.",
+            "bn": "এ কেমন হাসি? একসঙ্গে আনন্দ করার হাসি নয়। তাবারী ইয়াদহাকূনের পর একটি কথা জুড়ে দেন: ইসতিহযাআন মিনহুম বিহিম, তাদের প্রতি বিদ্রুপ করে। ইবন কাসীর দুটি ক্রিয়া দেন, ইয়াসতাহযিঊনা বিহিম ওয়া ইয়াহতাকিরূনাহুম: তারা তাদের নিয়ে ঠাট্টা করে আর তুচ্ছ করে। সা'দী সাজান তিনটি: ইয়াসখারূনা, ইয়াসতাহযিঊনা, ইয়াদহাকূনা মিনহুম। মানে উপহাস করে, ঠাট্টা করে, তাদের নিয়ে হাসে। প্রতিটি ব্যাখ্যায় হাসিটার ভেতরে একটা রায় লুকানো। যে হাসছে, ঈমানদারদের সে নিজের নিচে নামিয়ে রাখে, আর আশপাশের লোকদের কাছে সায় চায়।"
+          },
+          {
+            "en": "At-Tabari then cites Qatada, through Bishr, from Yazid, from Sa'id, saying what the laughter sounded like in the world: they would say, wallahi inna ha'ula'i la-kadhaba wa ma hum 'ala shay', by Allah, these people are liars and stand on nothing, in mockery of them. So the laugh had words. It called the believers liars and dismissed their faith as nothing at all. This is Qatada's own explanation of the verse, not a saying of the Prophet ﷺ, and at-Tabari gives it as such.",
+            "bn": "এরপর তাবারী উদ্ধৃত করেন কাতাদাকে, বিশর থেকে, ইয়াযীদ থেকে, সাঈদ থেকে। দুনিয়াতে হাসিটার আওয়াজ কেমন ছিল, কাতাদা তা বলেন: তারা বলত, ওয়াল্লাহি ইন্না হাউলাই লাকাযাবাতুন ওয়া মা হুম আলা শাই। আল্লাহর কসম, এরা মিথ্যুক, এদের কোনো ভিত্তি নেই। এ কথা তারা বলত বিদ্রুপ করে। তাহলে হাসির সঙ্গে কথাও ছিল। সে কথা ঈমানদারদের মিথ্যুক বলত, আর তাদের ঈমানকে একেবারে কিছুই না বলে উড়িয়ে দিত। এটি আয়াতের ব্যাপারে কাতাদার নিজের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। তাবারীও এটিকে সেভাবেই আনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Glance Between Them",
+          "bn": "নিজেদের মধ্যে চোখাচোখি"
+        },
+        "p": [
+          {
+            "en": "83:30 adds the second gesture: wa idha marru bihim yataghamazun, and when they passed by them, they would exchange glances. The commentators differ over who was passing whom. At-Tabari makes the believers the ones walking past: when those who believed passed the criminals, they nudged each other about the believer. Al-Baghawi agrees, naming the poor among the believers passing the disbelievers. Ibn Kathir has the criminals pass by the believers. Al-Qurtubi ties the scene to the time of their coming to the Messenger of Allah ﷺ, without naming who walked past whom.",
+            "bn": "৮৩:৩০ যোগ করে দ্বিতীয় ভঙ্গি: ওয়া ইযা মাররূ বিহিম ইয়াতাগামাযূন, আর যখন তারা তাদের পাশ দিয়ে যেত, পরস্পরে চোখ টিপত। কে কার পাশ দিয়ে যাচ্ছিল, তা নিয়ে তাফসীরকারদের মত আলাদা। তাবারীর মতে হেঁটে যেতেন ঈমানদাররা। তাঁরা অপরাধীদের পাশ দিয়ে গেলে ওরা ঈমানদার মানুষটিকে নিয়ে একে অপরকে খোঁচা দিত। বাগাভীও তা-ই বলেন, আর নাম নেন দরিদ্র ঈমানদারদের, যাঁরা কাফিরদের পাশ দিয়ে যেতেন। ইবন কাসীরের বর্ণনায় অপরাধীরা যেত ঈমানদারদের পাশ দিয়ে। কুরতুবী দৃশ্যটিকে বাঁধেন আল্লাহর রাসূল ﷺ-এর কাছে তাদের আসার সময়ের সঙ্গে, তবে কে কার পাশ দিয়ে গেল তা আলাদা করে বলেন না।"
+          },
+          {
+            "en": "The verb itself gets two senses. Al-Baghawi defines al-ghamz as signalling with the eyelid and the brow: they pointed at the believers with their eyes, in mockery. Al-Qurtubi gives that meaning and then a second, under qila, it is said: they reproached them for Islam and found fault with them for it, since ghamazahu can mean he found a fault in him. As-Sa'di adds a detail about the mockers themselves. They winked out of contempt, and all the while they were at ease, with no fear crossing their minds.",
+            "bn": "ক্রিয়াটির নিজেরই দুটি অর্থ আসে। বাগাভী আল-গামযের সংজ্ঞা দেন: চোখের পাতা আর ভুরু দিয়ে ইশারা করা। অর্থাৎ বিদ্রুপ করে তারা চোখের ইশারায় ঈমানদারদের দেখিয়ে দিত। কুরতুবী এই অর্থ দিয়ে তারপর 'বলা হয়' কথাটি জুড়ে আরেকটি অর্থ আনেন: তারা ইসলামের জন্য তাদের খোঁটা দিত, এর জন্য তাদের দোষ ধরত। কারণ গামাযাহু কথাটির মানে হতে পারে, সে তার দোষ ধরল। সা'দী বিদ্রুপকারীদের নিয়েই একটা খুঁটিনাটি যোগ করেন। তারা তাচ্ছিল্য করে চোখ টিপত, আর পুরো সময়টা থাকত নিশ্চিন্তে। ভয় তাদের মনেও আসত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Going Home Pleased",
+          "bn": "খোশমেজাজে ঘরে ফেরা"
+        },
+        "p": [
+          {
+            "en": "83:31 follows the mockers home: wa idha inqalabu ila ahlihim inqalabu fakihin, and when they returned to their people, they returned jesting. At-Tabari explains: when they left their gatherings for their families, they went back na'imin mu'jabin, at ease and pleased with themselves. He cites Ibn 'Abbas (RA), through a chain of 'Ali, Abu Salih and Mu'awiya, with one word: mu'jabin, pleased. He cites Ibn Zayd too: he went back at ease; that was in the world, and then the Fire followed it in the Hereafter.",
+            "bn": "৮৩:৩১ বিদ্রুপকারীদের পিছু পিছু ঘর পর্যন্ত যায়: ওয়া ইযানকালাবূ ইলা আহলিহিমুনকালাবূ ফাকিহীন, আর যখন তারা আপনজনদের কাছে ফিরত, ফিরত মজা করতে করতে। তাবারী ব্যাখ্যা দেন, মজলিস ছেড়ে তারা যখন পরিবারের কাছে ফিরত, ফিরত নাইমীন মুজাবীন, আরামে আর নিজেদের নিয়ে খুশি হয়ে। তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন আলী, আবু সালিহ ও মুআবিয়ার সূত্রে। কথা একটিই: মুজাবীন, খুশি। ইবন যায়দের কথাও আনেন: সে আরামে ফিরে গেল। এ ছিল দুনিয়ায়, তারপর আখিরাতে এর পেছনে এল আগুন।"
+          },
+          {
+            "en": "The last word comes in two readings. Al-Qurtubi reports that Abu Ja'far ibn al-Qa'qa', Hafs, al-A'raj and as-Sulami read fakihin without the long a, while the others read faakihin, with it, and he cites al-Farra': they are two forms of one word, like tami' and tami'. At-Tabari quotes it as faakihin, and records that one expert in Arabic separated the two, faakihin meaning at ease and fakihin meaning merry, while another held them to be one meaning.",
+            "bn": "শেষ শব্দটির দুটি কিরাআত আছে। কুরতুবী জানান, আবু জা'ফর ইবনুল কা'কা', হাফস, আল-আ'রাজ ও আস-সুলামী পড়েছেন ফাকিহীন, আলিফ ছাড়া। বাকিরা পড়েছেন আলিফসহ, ফা-কিহীন। তিনি ফাররার কথা আনেন: দুটো একই শব্দের দুই রূপ, যেমন তামি' আর তা-মি'। তাবারী শব্দটি আলিফসহ উদ্ধৃত করেন। আর লিখে রাখেন, আরবি ভাষার এক বিশেষজ্ঞ দুটোকে আলাদা করতেন: আলিফসহ রূপের মানে আরামে থাকা, আলিফ ছাড়া রূপের মানে ফুর্তিবাজ। আরেকজনের মতে দুটোর অর্থ একই।"
+          },
+          {
+            "en": "What were they pleased about? Al-Baghawi says they were pleased with what they had and made sport of mentioning the believers, yatafakkahuna bi-dhikrihim. Al-Qurtubi adds, under it is said, that they were pleased with their own disbelief. Ibn Kathir notices something else: whatever they asked for, they found, yet they did not thank Allah for His favour; instead they busied themselves with the believers, despising and envying them. In his reading, the mockery filled a space where gratitude should have been.",
+            "bn": "কী নিয়ে তারা খুশি ছিল? বাগাভী বলেন, নিজেদের যা আছে তা নিয়ে তারা খুশি, আর ঈমানদারদের কথা তুলে মজা লুটত, ইয়াতাফাক্কাহূনা বিযিকরিহিম। কুরতুবী 'বলা হয়' জুড়ে যোগ করেন, তারা খুশি ছিল নিজেদের কুফর নিয়েই। ইবন কাসীর লক্ষ করেন অন্য একটা জিনিস। তারা যা চাইত তা-ই পেত, তবু আল্লাহর নিয়ামতের শুকরিয়া আদায় করত না। উল্টো ঈমানদারদের নিয়ে ব্যস্ত থাকত, তাদের তুচ্ছ করত আর হিংসা করত। তাঁর পাঠে বিদ্রুপ জায়গা দখল করে নিয়েছিল সেখানে, যেখানে থাকার কথা ছিল কৃতজ্ঞতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sure That Others Are Lost",
+          "bn": "অন্যরা পথহারা, এই নিশ্চয়তা"
+        },
+        "p": [
+          {
+            "en": "83:32 gives the verdict: wa idha ra'awhum qalu inna ha'ula'i la-dallun, and when they saw them, they said, these people are surely astray. At-Tabari: astray from the highway of truth and the path of right direction. Al-Qurtubi and the Muyassar: astray in following Muhammad ﷺ. Al-Baghawi: they come to Muhammad ﷺ, thinking they are on something. Ibn Kathir: because they are on a religion other than theirs. Together the glosses show what the mockers counted as error: leaving the religion of their people to follow the Prophet ﷺ.",
+            "bn": "৮৩:৩২ রায়টা শোনায়: ওয়া ইযা রাআওহুম কালূ ইন্না হাউলাই লাদাল্লূন, আর যখন তাদের দেখত, বলত, এরা তো নিশ্চিত পথহারা। তাবারী বলেন, সত্যের রাজপথ আর সোজা রাস্তা থেকে বিচ্যুত। কুরতুবী ও মুয়াসসারের মতে, মুহাম্মাদ ﷺ-কে অনুসরণ করায় তারা পথহারা। বাগাভী বলেন, এরা মুহাম্মাদ ﷺ-এর কাছে যায় আর ভাবে কিছু একটার উপর আছে। ইবন কাসীর বলেন, কারণ এরা তাদের ধর্ম ছেড়ে অন্য ধর্মে আছে। সব ব্যাখ্যা মিলিয়ে দেখা যায়, বিদ্রুপকারীদের চোখে ভুলটা কী ছিল: নিজেদের লোকদের ধর্ম ছেড়ে নবী ﷺ-এর অনুসরণ।"
+          },
+          {
+            "en": "As-Sa'di calls this min a'zami ma yakunu min al-ightirar, among the greatest self-deceptions there can be. They joined the utmost wrongdoing with feeling safe in the world, as if a book and a covenant had come to them from Allah that they were among the people of felicity. They ruled that they themselves were rightly guided and the believers astray, a fabrication against Allah, and they dared to speak about Him without knowledge. In his reading the fault is a pair: certainty about others' error, and comfort about oneself.",
+            "bn": "সা'দী একে বলেন মিন আ'যামি মা ইয়াকূনু মিনাল ইগতিরার, আত্মপ্রবঞ্চনার সবচেয়ে বড় রূপগুলোর একটি। তারা চরম অন্যায়ের সঙ্গে দুনিয়ায় নিশ্চিন্ত থাকাকে মিলিয়ে নিয়েছিল। যেন আল্লাহর কাছ থেকে তাদের কাছে কোনো কিতাব আর অঙ্গীকার এসেছে যে তারা সৌভাগ্যবানদের দলে। তারা নিজেরাই রায় দিল, তারা হিদায়াতপ্রাপ্ত আর ঈমানদাররা পথহারা। এটা আল্লাহর নামে বানানো কথা। না জেনে তাঁর সম্পর্কে কথা বলার দুঃসাহস তারা দেখিয়েছিল। সা'দীর পাঠে দোষটা জোড়া: অন্যের ভুল নিয়ে নিশ্চয়তা, আর নিজেকে নিয়ে নিশ্চিন্তি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Never Appointed as Watchers",
+          "bn": "পাহারাদার করে পাঠানো হয়নি"
+        },
+        "p": [
+          {
+            "en": "83:33 answers them: wa ma ursilu 'alayhim hafizin, but they had not been sent as guardians over them. Whose words are these? None of the commentaries read for this article takes them as part of the mockers' speech; they read the line as Allah's own comment on them. At-Tabari opens with yaqulu jalla thana'uhu, He, exalted be His praise, says, and names the subject: these disbelievers who say of the believers, these are astray. Al-Baghawi: they, the idolaters, over them, the believers. The Muyassar: these criminals were not sent as observers over the Companions of Muhammad ﷺ.",
+            "bn": "৮৩:৩৩ তাদের জবাব দেয়: ওয়া মা উরসিলূ আলাইহিম হাফিযীন, অথচ তাদের তো এদের উপর পাহারাদার করে পাঠানো হয়নি। কথাটা কার? এ লেখার জন্য পড়া কোনো তাফসীরই একে বিদ্রুপকারীদের কথার অংশ ধরেনি। তাঁরা পড়েছেন তাদের নিয়ে আল্লাহর নিজের মন্তব্য হিসেবে। তাবারী শুরু করেন ইয়াকূলু জাল্লা সানাউহু দিয়ে, অর্থাৎ মহিমাময় আল্লাহ বলছেন। তারপর কর্তার পরিচয় দেন: সেই কাফিররা, যারা ঈমানদারদের বলত, এরা পথহারা। বাগাভী বলেন, তারা মানে মুশরিকরা, আর তাদের উপর মানে ঈমানদারদের উপর। মুয়াসসার বলে, এই অপরাধীদের মুহাম্মাদ ﷺ-এর সাহাবিদের উপর পর্যবেক্ষক করে পাঠানো হয়নি।"
+          },
+          {
+            "en": "What were they not appointed to do? At-Tabari: to keep the believers' deeds over them. Innama kullifu al-imana billah wa al-'amala bi-ta'atihi: they were charged only with believing in Allah and acting in obedience to Him, and were not made watchers over others, guarding and inspecting their deeds. Al-Qurtubi: entrusted with their states, watchers over them. As-Sa'di: they were not agents bound to keep the believers' deeds, that they should be so eager to charge them with error; this was only obstinacy, with no support and no proof.",
+            "bn": "কোন কাজের জন্য তাদের নিযুক্ত করা হয়নি? তাবারী বলেন, ঈমানদারদের আমলের হিসাব রাখার জন্য। ইন্নামা কুল্লিফুল ঈমানা বিল্লাহি ওয়াল আমালা বিতাআতিহি: তাদের উপর দায়িত্ব ছিল শুধু আল্লাহর উপর ঈমান আনা আর তাঁর আনুগত্যে আমল করা। অন্যদের উপর পাহারাদার বানিয়ে তাদের আমল আগলে রাখতে আর খুঁটিয়ে দেখতে তাদের বসানো হয়নি। কুরতুবী বলেন, তাদের অবস্থার দেখভালের ভার বা তাদের উপর নজরদারির দায়িত্ব তাদের দেওয়া হয়নি। সা'দী বলেন, তারা এমন উকিল ছিল না যার ঘাড়ে ঈমানদারদের আমলের দায়, যে তাদের পথহারা বলে দোষ দিতে এত উৎসাহী হবে। এ শুধু জেদ আর হঠকারিতা, যার পেছনে কোনো ভিত্তি বা প্রমাণ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names Some Reports Give",
+          "bn": "কিছু বর্ণনায় আসা নাম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi says the ones meant are the leaders of Quraysh among the idolaters, and gives a list under rawa nasun 'an Ibn 'Abbas, some people related from Ibn 'Abbas: al-Walid ibn al-Mughira, 'Uqba ibn Abi Mu'ayt, al-'As ibn Wa'il, al-Aswad ibn 'Abd Yaghuth, al-'As ibn Hisham, Abu Jahl and an-Nadr ibn al-Harith. They laughed in ridicule, the report says, at believers among the Companions such as 'Ammar, Khabbab, Suhayb and Bilal (RA). Al-Baghawi, without a chain, names Abu Jahl, al-Walid and al-'As ibn Wa'il with their fellows among the affluent of Makkah, and the same four believers with their fellows among the poor.",
+            "bn": "কুরতুবী বলেন, উদ্দেশ্য মুশরিকদের মধ্যে কুরাইশের নেতারা। তারপর একটি তালিকা দেন রাওয়া নাসুন আন ইবন আব্বাস কথাটি দিয়ে, অর্থাৎ কিছু লোক ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছে: ওয়ালীদ ইবনুল মুগীরা, উকবা ইবন আবী মুআইত, আস ইবন ওয়াইল, আসওয়াদ ইবন আবদ ইয়াগূস, আস ইবন হিশাম, আবু জাহল ও নাদর ইবনুল হারিস। বর্ণনা অনুযায়ী তারা উপহাস করে হাসত সাহাবিদের মধ্যকার ঈমানদারদের নিয়ে, যেমন আম্মার, খাব্বাব, সুহাইব ও বিলাল (রাঃ)। বাগাভী কোনো সনদ ছাড়া নাম নেন আবু জাহল, ওয়ালীদ ও আস ইবন ওয়াইলের, সঙ্গে মক্কার বিত্তশালী সঙ্গীদের। আর ঈমানদারদের পক্ষে সেই চারজন ও তাঁদের দরিদ্র সঙ্গীদের।"
+          },
+          {
+            "en": "A different report sits in al-Qurtubi's comment on 83:30. Muqatil said it was revealed about 'Ali ibn Abi Talib (RA), who came with a group of Muslims to the Prophet ﷺ, and the munafiqun, the hypocrites, found fault with them, laughed at them and winked at one another. In this report the mockers are unnamed hypocrites, and 'Ali (RA) and the Muslims with him are the ones mocked. So the two reports set the scene differently: one names leaders of Quraysh, the other an unnamed group. Neither is chosen here.",
+            "bn": "অন্য একটি বর্ণনা আছে ৮৩:৩০ আয়াতে কুরতুবীর আলোচনায়। মুকাতিল বলেছেন, আয়াতটি নাযিল হয়েছে আলী ইবন আবী তালিব (রাঃ)-এর ব্যাপারে। তিনি একদল মুসলমানকে নিয়ে নবী ﷺ-এর কাছে এসেছিলেন। তখন মুনাফিকরা তাঁদের দোষ ধরল, তাঁদের নিয়ে হাসল আর পরস্পরে চোখ টিপল। এ বর্ণনায় বিদ্রুপকারীরা নামহীন মুনাফিক। আর আলী (রাঃ) ও তাঁর সঙ্গের মুসলমানরা হলেন বিদ্রুপের শিকার। দুই বর্ণনা তাই দৃশ্যটা সাজায় দুইভাবে। একটিতে কুরাইশের নেতাদের নাম, অন্যটিতে এক নামহীন দল। এখানে কোনোটিকে বেছে নেওয়া হচ্ছে না।"
+          },
+          {
+            "en": "These are reports, and they are weighed as such. Al-Qurtubi's list rests on some people relating from Ibn 'Abbas, with the narrators unnamed. Muqatil's account comes with no chain at all. Al-Baghawi's names come without a chain. None of the commentators grades them, and none of them attaches a hadith of the Prophet ﷺ to this verse. The verse names nobody. Its eight words describe a habit of mocking faith, and the names in the reports illustrate that habit without fixing the verse to one occasion.",
+            "bn": "এগুলো বর্ণনা, আর সেই হিসেবেই এদের ওজন। কুরতুবীর তালিকা দাঁড়িয়ে আছে 'কিছু লোক ইবন আব্বাস থেকে বর্ণনা করেছে' কথার উপর, যেখানে বর্ণনাকারীদের নাম নেই। মুকাতিলের বর্ণনার কোনো সনদই নেই। বাগাভীর নামগুলোর সঙ্গে কোনো সনদ নেই। তাফসীরকারদের কেউ এগুলোর মান নির্ণয় করেননি, আর কেউই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদিস যুক্ত করেননি। আয়াত নিজে কারও নাম নেয় না। এর আটটি শব্দ ঈমান নিয়ে বিদ্রুপের একটা অভ্যাসের বর্ণনা দেয়। বর্ণনার নামগুলো সেই অভ্যাসের উদাহরণ, আয়াতকে কোনো একটি ঘটনায় বেঁধে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mockery Then, No Label Now",
+          "bn": "সেদিনের বিদ্রুপ, আজকের তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: people in the Prophet's time ﷺ who committed crimes and laughed at those who believed, and the commentators' reports about who they were. It licenses nothing against any living person or community. Mockery of believers then is not a label to fix on anyone today, and no reader is appointed to decide who now stands among alladhina ajramu. The verse names no living group, and this article names none.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঠিক ততটুকুই বলে, যতটুকু এর শব্দে আছে: নবী ﷺ-এর যুগের কিছু মানুষ, যারা অপরাধ করেছিল আর ঈমানদারদের নিয়ে হাসত, আর তারা কারা ছিল সে বিষয়ে তাফসীরকারদের বর্ণনা। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। সে যুগে ঈমানদারদের নিয়ে বিদ্রুপ আজ কারও গায়ে সাঁটানোর তকমা নয়। আজ কে আল্লাযীনা আজরামূর দলে আছে, তা ঠিক করার দায়িত্বও কোনো পাঠককে দেওয়া হয়নি। আয়াত কোনো জীবিত দলের নাম নেয় না, এ লেখাও নেয় না।"
+          },
+          {
+            "en": "Read this way, the passage turns back on the reader. The posture it condemns is a set of habits: a laugh at someone's faith, a glance exchanged as they pass, a story carried home, a verdict that they are lost, and through it all a calm sense of personal safety. 83:33 names the root: they made themselves keepers of other people's deeds. At-Tabari's line is the remedy, since each person is charged with his own faith and his own obedience. The reversal of the laughter belongs to 83:34 and is taken up there.",
+            "bn": "এভাবে পড়লে অংশটি পাঠকের দিকেই ঘুরে আসে। যে ভঙ্গির নিন্দা এখানে, তা কয়েকটি অভ্যাসের সমষ্টি: কারও ঈমান নিয়ে হাসি, পাশ দিয়ে যাওয়ার সময় চোখাচোখি, ঘরে বয়ে নেওয়া গল্প, এরা পথহারা বলে রায়। আর এসবের ভেতর দিয়ে নিজের নিরাপত্তা নিয়ে এক শান্ত নিশ্চিন্তি। ৮৩:৩৩ শিকড়টা চিনিয়ে দেয়: তারা নিজেদের বানিয়ে নিয়েছিল অন্যের আমলের পাহারাদার। তাবারীর কথাতেই এর প্রতিকার আছে, কারণ প্রত্যেকের দায়িত্ব নিজের ঈমান আর নিজের আনুগত্য। হাসির পালা উল্টে যাওয়ার কথা ৮৩:৩৪ আয়াতের, সেখানেই তার আলোচনা।"
+          }
+        ]
+      }
+    ]
+  },
   "83:34": {
     "sections": [
       {

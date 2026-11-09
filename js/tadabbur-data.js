@@ -29585,6 +29585,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The returning rain and the opening earth are witnesses you rely on every day; thank the One who sends them back, and trust the word they are sworn for.",
     "lessonBn": "ফিরে আসা বৃষ্টি আর ফেটে যাওয়া মাটির উপর আপনি প্রতিদিন ভরসা করেন। যিনি এগুলো ফিরিয়ে দেন তাঁর শুকরিয়া আদায় করুন, আর যে বাণীর জন্য এদের শপথ করা হয়েছে তার উপর ভরসা রাখুন।"
+  },
+  "83:29": {
+    "reflectionEn": "The surah has just described a sealed drink and a spring for those brought near. Then it turns back to this world and names a habit: those who committed crimes used to laugh at those who believed. The next verses fill in the scene. There is a wink as they pass, a laugh carried home, and a verdict that these people are lost. Then one quiet line answers all of it: they were never sent as guardians over them. The mockers had made other people's faith their business and left their own unattended. The verse is a mirror, not a list of others. Do I laugh at someone's sincerity because it looks simple? And whose path have I appointed myself to judge?",
+    "reflectionBn": "সূরাটি এইমাত্র বলেছে সীল-আঁটা পানীয়ের কথা, নৈকট্যপ্রাপ্তদের ঝর্ণার কথা। তারপর ফিরে আসে এই দুনিয়ায়, আর একটা অভ্যাসের নাম নেয়: অপরাধীরা ঈমানদারদের নিয়ে হাসত। পরের আয়াতগুলো ছবিটা পূর্ণ করে। পাশ দিয়ে যাওয়ার সময় চোখ টেপা, হাসিটা ঘরে বয়ে নিয়ে যাওয়া, আর রায় দিয়ে দেওয়া যে এরা পথহারা। তারপর একটি শান্ত বাক্য সবকিছুর জবাব দেয়: তাদের তো এদের পাহারাদার করে পাঠানো হয়নি। বিদ্রুপকারীরা অন্যের ঈমানকে নিজেদের মাথাব্যথা বানিয়েছিল, আর নিজেদের ঈমানের খোঁজ নেয়নি। আয়াতটি অন্যদের তালিকা নয়, আয়না। কারও আন্তরিকতা সাদাসিধে দেখায় বলে আমি কি তা নিয়ে হাসি? আর কার পথের বিচারক হয়ে আমি নিজেকে নিজেই বসিয়ে দিয়েছি?",
+    "pointsEn": [
+      "When I see someone hold to a practice of faith that strikes me as old-fashioned or awkward, what is my first reaction, and would I say it to their face?",
+      "Have I ever shared a laugh at someone's devotion behind their back, with a glance in passing or a story told at home?",
+      "Whose deeds have I been watching more closely than my own this month?",
+      "When I am laughed at for a prayer kept or a line not crossed, does it shake me, or do I carry it with patience?",
+      "What would change if I treated my own faith and my own deeds as the only account I was sent to keep?"
+    ],
+    "pointsBn": [
+      "কেউ যখন ঈমানের এমন কোনো আমল আঁকড়ে থাকে যা আমার কাছে সেকেলে বা বেমানান লাগে, তখন আমার প্রথম প্রতিক্রিয়া কী হয়? সে কথা কি আমি তার মুখের উপর বলতে পারতাম?",
+      "কারও ইবাদত নিয়ে আড়ালে কি কখনো হাসাহাসিতে যোগ দিয়েছি, পাশ দিয়ে যেতে চোখের ইশারায় বা ঘরে ফিরে গল্প করে?",
+      "এ মাসে কার আমলের দিকে আমি নিজের আমলের চেয়েও বেশি নজর রেখেছি?",
+      "নামাজ ধরে রাখার জন্য বা কোনো সীমা না পেরোনোর জন্য কেউ যখন আমাকে নিয়ে হাসে, তা কি আমাকে নাড়িয়ে দেয়, নাকি সবরের সঙ্গে তা বয়ে নিই?",
+      "নিজের ঈমান আর নিজের আমলকেই যদি একমাত্র হিসাব মনে করতাম, যা রাখার দায়িত্ব আমাকে দেওয়া হয়েছে, তাহলে কী বদলে যেত?"
+    ],
+    "lessonEn": "Mocking people for their faith is the habit the verse condemns. You were not sent to guard anyone's deeds; tend your own, and bear ridicule for your faith with patience.",
+    "lessonBn": "ঈমানের জন্য মানুষকে বিদ্রুপ করা সেই অভ্যাস, যার নিন্দা আয়াতটি করে। কারও আমল পাহারা দিতে আপনাকে পাঠানো হয়নি। নিজের আমলের যত্ন নিন, আর ঈমানের জন্য বিদ্রুপ সইতে হলে সবরের সঙ্গে সয়ে নিন।"
   }
 };
 
