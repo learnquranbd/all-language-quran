@@ -29703,6 +29703,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let the moon's fullness remind you that every state, ease or hardship, is one stage on the road to your Lord; thank Him at its height and prepare for what follows.",
     "lessonBn": "চাঁদের পূর্ণতা আপনাকে মনে করিয়ে দিক, স্বস্তি হোক বা কষ্ট, প্রতিটি অবস্থা রবের দিকে যাওয়ার পথের একটি ধাপমাত্র। শিখরে থাকতে তাঁর শুকরিয়া আদায় করুন, আর সামনে যা আসছে তার প্রস্তুতি নিন।"
+  },
+  "87:7": {
+    "reflectionEn": "The Prophet ﷺ is promised that he will be made to recite and will not forget, and then four words place the whole promise in Allah's hand: except what Allah wills. Even the memory that carried the revelation was kept by His will, not by its own strength. Then the verse turns: He knows what is declared and what is hidden. What I say aloud and what I keep in my chest are equally open to Him. So the verse puts two questions to me. What have I been given that I treat as mine to keep, when it is held for me? And is there a gap between my open life and my hidden one that I would rather He did not see?",
+    "reflectionBn": "নবী ﷺ-কে কথা দেওয়া হলো: তাঁকে পড়িয়ে দেওয়া হবে, তিনি ভুলবেন না। তারপরই চারটি শব্দ গোটা প্রতিশ্রুতিকে আল্লাহর হাতে রেখে দেয়: তবে আল্লাহ যা চান। যে স্মৃতি ওহি বহন করেছে, সেটিও টিকে ছিল তাঁরই ইচ্ছায়, নিজের জোরে নয়। এরপর আয়াত মোড় নেয়: তিনি জানেন যা প্রকাশ্য আর যা গোপন। আমি মুখে যা বলি আর বুকের ভেতরে যা চেপে রাখি, দুটোই তাঁর সামনে সমান খোলা। তাই আয়াতটি আমাকে দুটি প্রশ্ন করে। যা আমাকে দেওয়া হয়েছে, তার কোনটাকে আমি নিজের দখলের জিনিস ভাবি, অথচ তা আমার জন্য ধরে রাখা আমানত? আর আমার প্রকাশ্য জীবন ও গোপন জীবনের মাঝে কি এমন কোনো ফাঁক আছে, যা তিনি না দেখলেই আমি খুশি হতাম?",
+    "pointsEn": [
+      "Which verse, skill or piece of knowledge do I speak of as my own achievement, rather than as something kept for me by Allah's will?",
+      "When something I once knew well slips from me, does it humble me and send me back to Him, or does it only frustrate me?",
+      "What do I do in front of people that I would do differently if I kept in mind that He sees the hidden side as well?",
+      "If He knows what is good for me better than I do, which of His commands have I been weighing as though I knew better?",
+      "What do I carry in secret that I have never once brought to Him in du'a?"
+    ],
+    "pointsBn": [
+      "কোন আয়াত, কোন দক্ষতা বা কোন জ্ঞানকে আমি নিজের কৃতিত্ব বলে বলি, অথচ সেটা আল্লাহর ইচ্ছাতেই আমার কাছে টিকে আছে?",
+      "একসময় ভালো করে জানা কিছু যখন হারিয়ে যায়, তা কি আমাকে বিনয়ী করে তাঁর দিকে ফিরিয়ে দেয়, নাকি শুধু বিরক্তই করে?",
+      "মানুষের সামনে যা করি, তার কোনটা বদলে যেত যদি মনে রাখতাম যে তিনি গোপন দিকটাও দেখেন?",
+      "আমার জন্য কী ভালো, তা যদি তিনি আমার চেয়ে ভালো জানেন, তবে তাঁর কোন হুকুমকে আমি এমনভাবে মাপছি যেন আমিই বেশি বুঝি?",
+      "গোপনে এমন কী বয়ে বেড়াচ্ছি, যা একবারও দোয়ায় তাঁর সামনে তুলে ধরিনি?"
+    ],
+    "lessonEn": "Hold what you have learned as a trust kept by Allah's will, and live the same in private as in public, for He knows what is declared and what is hidden.",
+    "lessonBn": "যা শিখেছেন তাকে আল্লাহর ইচ্ছায় টিকে থাকা আমানত হিসেবে ধরে রাখুন, আর গোপনে ও প্রকাশ্যে একই রকম থাকুন, কারণ তিনি জানেন যা প্রকাশ্য আর যা গোপন।"
   }
 };
 

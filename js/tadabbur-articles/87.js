@@ -159,6 +159,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "87:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "Nine Words After a Promise",
+          "bn": "প্রতিশ্রুতির পরে নয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "Illa ma sha'a Allah, innahu ya'lamu al-jahra wa ma yakhfa: except what Allah wills; indeed, He knows what is declared and what is hidden. The verse is nine Arabic words, and it completes 87:6, sanuqri'uka fa-la tansa, We will make you recite, and you will not forget, three words addressed to the Prophet ﷺ. Its first four words qualify that promise, and its last five give a reason that reaches beyond it: the knowledge of Him who makes the promise.",
+            "bn": "ইল্লা মা শা-আল্লাহ, ইন্নাহু ইয়া'লামুল জাহরা ওয়া মা ইয়াখফা: তবে আল্লাহ যা চান; নিশ্চয়ই তিনি জানেন যা প্রকাশ্য আর যা গোপন। আয়াতটি আরবিতে নয়টি শব্দের। এটি ৮৭:৬ আয়াতের কথা পূর্ণ করে: সানুকরিউকা ফালা তানসা, আমি তোমাকে পড়িয়ে দেব, ফলে তুমি ভুলবে না। নবী ﷺ-কে বলা তিনটি শব্দের প্রতিশ্রুতি। এ আয়াতের প্রথম চারটি শব্দ সেই প্রতিশ্রুতির সীমা টানে। শেষ পাঁচ শব্দ এমন এক কারণ দেখায়, যা প্রতিশ্রুতি ছাড়িয়েও যায়: যিনি কথা দিচ্ছেন, তাঁর জ্ঞান।"
+          },
+          {
+            "en": "Al-Qurtubi first asks what kind of sentence precedes the exception. The la in fa-la tansa, he says, is a negation, not a prohibition: a statement that the Prophet ﷺ will not forget, not an order not to forget. Some, he records, took it as a prohibition, the final ya kept only for the rhyme. He prefers negation for two reasons: an exception from a prohibition is hardly ever anything but fixed in time and known, and the ya stands in every copy of the mushaf.",
+            "bn": "ব্যতিক্রমটা মাপার আগে কুরতুবী দেখে নেন, তার আগের বাক্যটা কী ধরনের। তিনি বলেন, ফালা তানসা-র 'লা' নিষেধ নয়, না-বাচক সংবাদ। অর্থাৎ নবী ﷺ ভুলবেন না, এ এক ঘোষণা। ভুলো না, এমন হুকুম নয়। কেউ কেউ একে নিষেধ ধরেছেন, তাঁদের মতে শেষের 'ইয়া' রাখা হয়েছে শুধু আয়াতের ছন্দ মেলাতে। কুরতুবী না-বাচক অর্থটাই বেছে নেন, দুই কারণে। নিষেধ থেকে ব্যতিক্রম প্রায় সবসময় নির্দিষ্ট ও জানা সময়ের সঙ্গে বাঁধা থাকে। আর মুসহাফের প্রতিটি কপিতে ওই 'ইয়া' লেখা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rehearsing for Fear of Loss",
+          "bn": "হারানোর ভয়ে মনে মনে আওড়ানো"
+        },
+        "p": [
+          {
+            "en": "The promise answers a worry. At-Tabari reports from Mujahid, with his chain, that the Prophet ﷺ used to rehearse the Qur'an to himself for fear of forgetting it, and he sets the promise beside 75:16 and 75:17: do not move your tongue with it to hasten it; upon Us is its gathering and its recitation. Al-Baghawi and al-Qurtubi relay a fuller account from Mujahid and al-Kalbi as the verse's occasion. It is a Successors' report, not an established occasion, so the verse is read here from its placement.",
+            "bn": "প্রতিশ্রুতিটি এক দুশ্চিন্তার জবাব। তাবারী নিজের সনদে মুজাহিদ থেকে বর্ণনা করেন: নবী ﷺ ভুলে যাওয়ার ভয়ে কুরআন মনে মনে আওড়াতেন। তাবারী এ প্রতিশ্রুতিকে ৭৫:১৬ ও ৭৫:১৭ আয়াতের পাশে রাখেন: তাড়াহুড়া করে তা আয়ত্ত করতে তোমার জিহ্বা নাড়িয়ো না; তা একত্র করা ও পাঠ করানো আমারই দায়িত্ব। বাগাভী ও কুরতুবী মুজাহিদ ও কালবী থেকে আরও বিস্তারিত এক বর্ণনা আনেন, আয়াত নাজিলের উপলক্ষ হিসেবে। তবে এটি তাবেয়িদের বর্ণনা, প্রতিষ্ঠিত শানে নুজুল নয়। তাই এখানে আয়াতটি পড়া হচ্ছে তার অবস্থান থেকে।"
+          },
+          {
+            "en": "Al-Qurtubi calls the promise glad tidings and a clear sign: the Prophet ﷺ was unlettered, neither writing nor reading, yet Jibril (AS) would recite the revelation to him and he would keep it and not forget it. As-Sa'di likewise calls it great glad tidings from Allah to His servant and Messenger. Ma'arif al-Qur'an adds: he hurried to repeat lest anything be lost, and was assured that nothing would be. Into that assurance the exception comes.",
+            "bn": "কুরতুবী এ প্রতিশ্রুতিকে বলেন সুসংবাদ, আর এক স্পষ্ট নিদর্শন। নবী ﷺ ছিলেন উম্মি, লিখতেও জানতেন না, পড়তেও না। তবু জিবরীল (আঃ) তাঁকে ওহি পড়ে শোনাতেন, আর তিনি তা মনে রাখতেন, ভুলতেন না। সা'দীও একে বলেন আল্লাহর পক্ষ থেকে তাঁর বান্দা ও রাসূলের জন্য বিরাট সুসংবাদ। মাআরিফুল কুরআন যোগ করে: কিছু যেন হারিয়ে না যায়, সেই ভয়ে তিনি তাড়াতাড়ি পুনরাবৃত্তি করতেন। তাঁকে নিশ্চয়তা দেওয়া হলো, কিছুই হারাবে না। এই নিশ্চয়তার ভেতরেই ব্যতিক্রমটা আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgotten Because Lifted",
+          "bn": "তুলে নেওয়া হয়েছে বলে ভোলা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says the people of interpretation differed over the exception. Those who took the verse as news that Allah would teach and preserve the Qur'an for him read it as about forgetting itself: except what Allah wills you to forget and not remember, which, they said, is what Allah abrogated of the Qur'an, lifting both its ruling and its recitation. At-Tabari ends with his own preference: you will not forget, except that We will to make you forget it by abrogating and lifting it, as the most apparent meaning.",
+            "bn": "তাবারী বলেন, এ ব্যতিক্রমের অর্থ নিয়ে তাফসীরকারদের মধ্যে মতভেদ হয়েছে। যাঁরা আয়াতটিকে এই সংবাদ হিসেবে পড়েছেন যে আল্লাহ তাঁকে কুরআন শেখাবেন ও তাঁর জন্য সংরক্ষণ করবেন, তাঁরা ব্যতিক্রমকে ভুলে যাওয়ার সঙ্গেই যুক্ত করেছেন। অর্থ দাঁড়ায়: তবে আল্লাহ যা তোমাকে ভুলিয়ে দিতে চান, যা আর মনে পড়বে না। তাঁদের মতে সেটা কুরআনের সেই অংশ যা আল্লাহ মানসুখ করেছেন, যার বিধান ও তিলাওয়াত দুটোই তুলে নিয়েছেন। শেষে তাবারী নিজের পছন্দ জানান: তুমি ভুলবে না, তবে আমি যদি মানসুখ করে ও তুলে নিয়ে তা ভুলিয়ে দিতে চাই। তাঁর মতে এটাই আয়াতের সবচেয়ে স্পষ্ট অর্থ।"
+          },
+          {
+            "en": "Al-Baghawi gives the same reading in fewer words, what Allah abrogated of the Qur'an's recitation, and cites 2:106: whatever verse We abrogate or cause to be forgotten. Causing to forget, he adds, is a kind of abrogation. Ma'arif al-Qur'an explains it alike: Allah made the Prophet ﷺ remember all of the Qur'an, but certain verses He made him forget because they had been abrogated, by His command and not without reason, and it points to the same verse.",
+            "bn": "বাগাভী একই ব্যাখ্যা দেন আরও সংক্ষেপে: আল্লাহ কুরআনের যে অংশের তিলাওয়াত মানসুখ করেছেন। তিনি ২:১০৬ আয়াত উদ্ধৃত করেন: আমি কোনো আয়াত রহিত করলে বা ভুলিয়ে দিলে। তাঁর কথায়, ভুলিয়ে দেওয়াও এক রকমের নাসখ। মাআরিফুল কুরআনের ব্যাখ্যাও এমনই। আল্লাহ নবী ﷺ-কে পুরো কুরআন মনে রাখিয়েছেন, তবে কিছু আয়াত তাঁকে ভুলিয়ে দিয়েছেন, কারণ সেগুলো মানসুখ হয়ে গিয়েছিল। এটা হয়েছে আল্লাহরই হুকুমে, অকারণে নয়। মাআরিফুল কুরআনও প্রমাণ হিসেবে ওই একই আয়াতের দিকে ইঙ্গিত করে।"
+          },
+          {
+            "en": "The Muyassar and as-Sa'di put the same exception in terms of wisdom rather than abrogation: except what His wisdom required that He make you forget, for a benefit He knows, in the Muyassar's words, and for a far-reaching benefit, maslaha baligha, in as-Sa'di's. On each of these readings, what leaves the memory leaves it by decree and not by accident.",
+            "bn": "মুয়াসসার ও সা'দী একই ব্যতিক্রমের কথা বলেন নাসখের ভাষায় নয়, হিকমতের ভাষায়। মুয়াসসারের ভাষ্যে: তবে আল্লাহর হিকমত যা ভুলিয়ে দেওয়ার দাবি করেছে, এমন কল্যাণের জন্য যা তিনি জানেন। সা'দীর ভাষ্যে কল্যাণটি সুদূরপ্রসারী, মাসলাহা বালিগা। এ সব ব্যাখ্যাতেই যা স্মৃতি থেকে সরে যায়, তা সরে যায় আল্লাহর ফয়সালায়, দৈবক্রমে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaving the Practice Behind",
+          "bn": "আমল ছেড়ে দেওয়ার অর্থে"
+        },
+        "p": [
+          {
+            "en": "A second group reported by at-Tabari read nisyan, forgetting, as tark, leaving. On their reading the verse says: We will make you recite, O Muhammad, and you will not leave off acting on anything of it, except what Allah wills you to leave off acting on, of what We abrogate. Al-Qurtubi names the difference: this reading concerns the abrogation of practice, and the first concerns the abrogation of recitation.",
+            "bn": "তাবারী আরেক দলের মত বর্ণনা করেন, যাঁরা নিসইয়ান বা ভুলে যাওয়াকে পড়েছেন তারক অর্থে, অর্থাৎ ছেড়ে দেওয়া। তাঁদের পাঠে আয়াতের কথা দাঁড়ায়: হে মুহাম্মাদ, আমি তোমাকে পড়িয়ে দেব, আর তুমি এর কোনো অংশের ওপর আমল ছেড়ে দেবে না। তবে আমি যা মানসুখ করি, তার যে অংশের আমল আল্লাহ তোমাকে ছাড়াতে চান, সেটা আলাদা। কুরতুবী পার্থক্যটা স্পষ্ট করে দেন: এটা আমলের নাসখ, আর আগেরটা তিলাওয়াতের নাসখ।"
+          },
+          {
+            "en": "Al-Qurtubi also preserves a short exchange through al-Farghani. The grammarian Ibn Kaysan, who attended al-Junayd's gatherings, once asked him about sanuqri'uka fa-la tansa. Al-Junayd answered at once, as if prepared long before: you will not forget to act on it. Ibn Kaysan answered with a formula of praise. Ibn Kathir records a related reading that takes fa-la tansa as a request, with the exception covering what Allah lifts, so that there is no blame on him for leaving it.",
+            "bn": "কুরতুবী ফারগানীর সূত্রে ছোট্ট এক কথোপকথনও সংরক্ষণ করেছেন। ব্যাকরণবিদ ইবন কাইসান জুনাইদের মজলিসে আসতেন। একদিন তিনি জুনাইদকে সানুকরিউকা ফালা তানসা সম্পর্কে জিজ্ঞেস করলেন। জুনাইদ সঙ্গে সঙ্গে জবাব দিলেন, যেন প্রশ্নটা অনেক আগেই তাঁর কাছে এসেছিল: তুমি এর ওপর আমল করতে ভুলবে না। ইবন কাইসান প্রশংসার এক বাক্যে সাড়া দিলেন। ইবন কাসীর কাছাকাছি আরেকটি ব্যাখ্যা উল্লেখ করেন, যেখানে ফালা তানসা আদেশসূচক। সেখানে ব্যতিক্রমটা আল্লাহ যা তুলে নেন তার জন্য, ফলে তা ছেড়ে দিলে তাঁর কোনো দোষ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Exception Never Used",
+          "bn": "যে ব্যতিক্রম কখনো খাটেনি"
+        },
+        "p": [
+          {
+            "en": "A third reading holds that the exception was never exercised. At-Tabari gives it from some of the scholars of Arabic, and al-Qurtubi names al-Farra': Allah did not will that you forget anything. They compare the phrase in Hud, abiding therein as long as the heavens and the earth endure, except what your Lord wills (11:107 and 11:108), where, they say, He does not so will. In speech a man may say, I will give you all you asked except what I will, meaning never to withhold.",
+            "bn": "তৃতীয় এক ব্যাখ্যা বলে, এ ব্যতিক্রম কখনো কার্যকর হয়নি। তাবারী এটা এনেছেন আরবি ভাষার কয়েকজন পণ্ডিতের কাছ থেকে, আর কুরতুবী নাম বলেছেন ফাররা-র: আল্লাহ চাননি যে তুমি কিছু ভুলে যাও। তাঁরা তুলনা টানেন সূরা হূদের এই বাক্যের সঙ্গে: সেখানে তারা থাকবে যতদিন আসমান ও জমিন থাকবে, তবে তোমার রব যা চান (১১:১০৭ ও ১১:১০৮)। তাঁদের মতে সেখানেও তিনি তা চান না। মানুষের কথাতেও এমন বলা চলে: তুমি যা চেয়েছ সবই দেব, তবে আমি যা চাই তা বাদে। অথচ বক্তার ইচ্ছা কিছুই আটকে না রাখা।"
+          },
+          {
+            "en": "Early reports fit this reading. At-Tabari, al-Qurtubi and Ibn Kathir all give Qatada: the Prophet ﷺ did not forget anything, except what Allah willed. Al-Qurtubi adds, through Abu Salih from Ibn 'Abbas (RA), that after this verse he did not forget until he died, except what Allah willed; al-Baghawi, closing the account from Mujahid and al-Kalbi, says he forgot nothing after it. Al-Qurtubi sums these views up: except what Allah wills that he forget, but he forgot nothing of it after this verse.",
+            "bn": "প্রথম যুগের কিছু বর্ণনা এ ব্যাখ্যার সঙ্গে মেলে। তাবারী, কুরতুবী ও ইবন কাসীর তিনজনই কাতাদার কথা আনেন: নবী ﷺ কিছুই ভুলতেন না, তবে আল্লাহ যা চাইতেন। কুরতুবী আবু সালিহের সূত্রে ইবন আব্বাস (রাঃ) থেকে যোগ করেন: এ আয়াত নাজিলের পর মৃত্যু পর্যন্ত তিনি আর ভোলেননি, তবে আল্লাহ যা চেয়েছেন। মুজাহিদ ও কালবীর বর্ণনা শেষ করতে গিয়ে বাগাভীও বলেন, এরপর তিনি কিছুই ভোলেননি। এসব মতের সারকথা কুরতুবী নিজেই বলে দেন: আল্লাহ যা চান তা তিনি ভুলতে পারেন, কিন্তু এ আয়াতের পর কুরআনের কিছুই তিনি ভোলেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brought Back to Mind",
+          "bn": "আবার মনে ফিরে আসা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives one more reading, under it is said: except what Allah wills that he forget and then remember afterwards. On this view he may forget, but he recalls, and does not forget entirely. Ma'arif al-Qur'an ascribes the same view to some scholars: Allah may for a reason remove a verse from his memory for a time, and he may remember it again. Forgetting for a while and then remembering, Ma'arif adds, does not go against the promise; it is an exception from it.",
+            "bn": "কুরতুবী 'বলা হয়' শব্দে আরও একটি ব্যাখ্যা আনেন: তবে আল্লাহ যা চান, তিনি তা ভুলে যাবেন, পরে আবার মনে পড়বে। এ মতে ভুলে যাওয়া ঘটতে পারে, কিন্তু তা মনে ফিরে আসে, পুরোপুরি হারিয়ে যায় না। মাআরিফুল কুরআন একে কিছু আলেমের মত হিসেবে উল্লেখ করে: কোনো কারণে আল্লাহ কোনো আয়াত কিছু সময়ের জন্য তাঁর স্মৃতি থেকে সরিয়ে দিতে পারেন, পরে তা আবার মনে পড়তে পারে। মাআরিফুল কুরআন যোগ করে, সাময়িক ভুলে আবার মনে পড়া প্রতিশ্রুতির বিরোধী নয়। এটা বরং প্রতিশ্রুতির ভেতরের ব্যতিক্রম।"
+          },
+          {
+            "en": "Al-Qurtubi and Ma'arif al-Qur'an both support this view with a report about a verse left out while reciting in prayer and a Companion's question about it. Neither gives a chain or a grading, so it is only mentioned here and nothing is built on it. A related report does stand in al-Bukhari's Sahih. None of the commentaries consulted cites it under this verse, so it is given as a narration on the same subject, not as an explanation attached to the verse.",
+            "bn": "কুরতুবী ও মাআরিফুল কুরআন দুজনেই এ মতের পক্ষে একটি বর্ণনা আনেন। বিষয়: নামাজে তিলাওয়াতের সময় একটি আয়াত বাদ পড়া, আর সে সম্পর্কে এক সাহাবির প্রশ্ন। কেউই এর সনদ বা মান উল্লেখ করেননি, তাই এখানে শুধু উল্লেখ করা হলো, এর ওপর কিছু দাঁড় করানো হলো না। তবে বুখারীর সহীহ গ্রন্থে কাছাকাছি একটি বর্ণনা আছে। এখানে দেখা কোনো তাফসীর এ আয়াতের অধীনে সেটা আনেনি। তাই একে আয়াতের ব্যাখ্যা হিসেবে নয়, একই বিষয়ের একটি বর্ণনা হিসেবে দেওয়া হলো।"
+          },
+          {
+            "en": "In al-Bukhari's wording: Narrated Aisha: Allah's Messenger (ﷺ) heard a man reciting the Qur'an at night, and said, \"May Allah bestow His Mercy on him, as he has reminded me of such-and-such Verses of such-and-such Suras, which I was caused to forget.\" (Sahih al-Bukhari 5038) The Arabic verb in this wording, unsituha, is passive: I was caused to forget. The verses came back through a man's recitation at night, for which the Prophet ﷺ asked Allah's mercy on him.",
+            "bn": "বুখারীর ভাষ্যে: আয়িশা (রাঃ) বলেন, রাসূলুল্লাহ ﷺ রাতে এক ব্যক্তিকে একটি সূরা তিলাওয়াত করতে শুনলেন। তিনি বললেন: \"আল্লাহ তার ওপর রহম করুন, সে আমাকে অমুক অমুক আয়াত মনে করিয়ে দিয়েছে, যা অমুক অমুক সূরা থেকে আমাকে ভুলিয়ে দেওয়া হয়েছিল।\" (সহীহ বুখারী ৫০৩৮) এ বর্ণনায় আরবি ক্রিয়াটি উনসীতুহা, কর্মবাচ্যে: আমাকে ভুলিয়ে দেওয়া হয়েছিল। আয়াতগুলো মনে ফিরে এসেছে এক ব্যক্তির রাতের তিলাওয়াতের মাধ্যমে, আর সেজন্য নবী ﷺ তার জন্য আল্লাহর রহমত চেয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Open Deeds, Hidden Hearts",
+          "bn": "প্রকাশ্য আমল, গোপন অন্তর"
+        },
+        "p": [
+          {
+            "en": "Then the verse turns: innahu ya'lamu al-jahra wa ma yakhfa. Ibn Kathir reads it broadly: He knows what His servants declare and what they hide of their words and deeds, and nothing of it is hidden from Him. Al-Baghawi and the Muyassar gloss it as the open and the hidden of speech and action. Al-Qurtubi gives jahr as open speech and action and ma yakhfa as the secret, then adds Ibn 'Abbas (RA): what is in your heart and your self.",
+            "bn": "এরপর আয়াত মোড় নেয়: ইন্নাহু ইয়া'লামুল জাহরা ওয়া মা ইয়াখফা। ইবন কাসীর একে পড়েন ব্যাপক অর্থে: বান্দারা কথায় ও কাজে যা প্রকাশ করে আর যা লুকায়, তিনি সবই জানেন, তার কিছুই তাঁর কাছে গোপন নয়। বাগাভী ও মুয়াসসার ব্যাখ্যা করেন কথা ও কাজের প্রকাশ্য ও গোপন দিক হিসেবে। কুরতুবী জাহর বলতে বোঝান প্রকাশ্য কথা ও কাজ, আর মা ইয়াখফা বলতে গোপন বিষয়। তারপর ইবন আব্বাস (রাঃ)-এর কথা যোগ করেন: তোমার অন্তরে ও মনে যা আছে।"
+          },
+          {
+            "en": "At-Tabari keeps the address to the Prophet ﷺ: Allah knows, O Muhammad, what you have shown of your deeds and what you have hidden of them. Then he draws a warning: so beware lest He see you, in any of your states, acting otherwise than as He has permitted you. Al-Qurtubi records two narrower readings: Muhammad ibn Hatim's, that He knows charity given openly and in secret, and another under it is said, that the declared is what the Prophet ﷺ had memorised of the Qur'an and the hidden is what was abrogated from his heart.",
+            "bn": "তাবারী সম্বোধনটা নবী ﷺ-এর দিকেই রাখেন: হে মুহাম্মাদ, তোমার আমলের যা তুমি প্রকাশ করেছ আর যা গোপন রেখেছ, আল্লাহ তার সবই জানেন। তারপর তিনি সতর্ক করেন: অতএব সাবধান, তিনি যেন তোমাকে কোনো অবস্থায় তাঁর অনুমতির বাইরে কিছু করতে না দেখেন। কুরতুবী আরও সীমিত দুটি ব্যাখ্যা উল্লেখ করেন। মুহাম্মাদ ইবন হাতিমের মতে, তিনি প্রকাশ্য ও গোপন সদকা দুটোই জানেন। আর 'বলা হয়' শব্দে আসা অন্য মতে, প্রকাশ্য হলো নবী ﷺ বুকে যা কুরআন মুখস্থ রেখেছিলেন, আর গোপন হলো তাঁর বুক থেকে যা মানসুখ হয়ে গেছে।"
+          },
+          {
+            "en": "As-Sa'di ties the clause back to the exception. Part of His knowing the open and the hidden, he says, is that He knows what sets His servants right, and for that reason He legislates what He wills and rules as He wills. On this reading the second half explains the first: what is kept and what is lifted are both decided by One who sees what no servant sees.",
+            "bn": "সা'দী এ অংশকে আবার ব্যতিক্রমের সঙ্গে জুড়ে দেন। তিনি বলেন, প্রকাশ্য ও গোপন জানার মধ্যে এটাও আছে যে বান্দাদের জন্য কী কল্যাণকর, তা তিনি জানেন। সে কারণেই তিনি যা চান বিধান দেন, যেভাবে চান ফয়সালা করেন। এ পাঠে আয়াতের দ্বিতীয় অর্ধেক প্রথম অর্ধেকের ব্যাখ্যা। কী থাকবে আর কী তুলে নেওয়া হবে, দুটোরই ফয়সালা করেন এমন একজন, যিনি দেখেন যা কোনো বান্দা দেখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If It Benefits, or Always",
+          "bn": "উপকার হলে, নাকি সবসময়"
+        },
+        "p": [
+          {
+            "en": "Two verses on, 87:9 gives the command, fa-dhakkir in nafa'ati adh-dhikra, so remind, if the reminder benefits, and the commentators read its if in several ways. At-Tabari makes the command general: remind the servants of Allah, O Muhammad, of His greatness, admonish them and warn them of His punishment. The condition, on his reading, points to those whose faith Allah had made him despair of: remind, if the reminder benefits them, and it does not.",
+            "bn": "দুই আয়াত পরে ৮৭:৯ আয়াতে আসে আদেশ: ফাযাক্কির ইন নাফাআতিয যিকরা, অতএব উপদেশ দাও, যদি উপদেশ উপকারে আসে। এই 'যদি' তাফসীরকারেরা একাধিকভাবে পড়েছেন। তাবারী আদেশটিকে সবার জন্য ধরেন: হে মুহাম্মাদ, আল্লাহর বান্দাদের তাঁর মহিমার কথা মনে করিয়ে দাও, তাদের নসিহত করো, তাঁর শাস্তি সম্পর্কে সাবধান করো। তাঁর পাঠে শর্তটা ইঙ্গিত করে তাদের দিকে, যাদের ঈমানের ব্যাপারে আল্লাহ নবী ﷺ-কে নিরাশ করে দিয়েছিলেন। অর্থাৎ উপদেশ দাও, যদি তাদের উপকারে আসে, অথচ আসবে না।"
+          },
+          {
+            "en": "Al-Baghawi reads a clause left unsaid: remind whether it benefits or not, the second case omitted as in 16:81, garments that protect you from the heat, where the cold is meant too. Al-Qurtubi reports the same from al-Jurjani, who states it as a ruling: reminding is obligatory even if it does not benefit. Al-Qurtubi also records al-Hasan, a reminder for the believer and a proof against the disbeliever, and Ibn Shajara, who takes in as ma, so that the sense is not conditional, since the reminder benefits in every case.",
+            "bn": "বাগাভী এখানে একটি না-বলা অংশ ধরে পড়েন: উপকার হোক বা না হোক, উপদেশ দাও। দ্বিতীয় অবস্থাটা উহ্য, যেমন ১৬:৮১ আয়াতে: এমন পোশাক যা তোমাদের গরম থেকে রক্ষা করে, অথচ উদ্দেশ্য শীতও। কুরতুবী একই কথা জুরজানী থেকে আনেন, যিনি একে বিধান হিসেবেই বলেন: উপকার না হলেও উপদেশ দেওয়া ওয়াজিব। কুরতুবী হাসানের কথাও আনেন: মুমিনের জন্য এটা উপদেশ, কাফিরের বিরুদ্ধে প্রমাণ। আর ইবন শাজারার মত, এখানে 'ইন' মানে 'মা'। তাহলে বাক্যটা শর্তসূচক নয়, কারণ উপদেশ সব অবস্থাতেই উপকারী।"
+          },
+          {
+            "en": "As-Sa'di keeps the condition and gives it force: remind as long as the reminder is accepted and the admonition heard, whether all or part of its aim is reached. If reminding would only increase evil or lessen good, he says, it is not commanded but forbidden. Ibn Kathir's reading, and Ma'arif al-Qur'an's emphatic sense, are given in the entry on 87:10. The texts leave these readings side by side, and so does this article.",
+            "bn": "সা'দী শর্তটা বহাল রাখেন এবং তাকে জোর দেন: যতক্ষণ উপদেশ গ্রহণ করা হয় আর নসিহত শোনা হয়, ততক্ষণ উপদেশ দাও, এর উদ্দেশ্য পুরোপুরি পূরণ হোক বা আংশিক। তাঁর মতে, উপদেশ যদি কেবল মন্দ বাড়ায় বা ভালো কমায়, তবে তা আর আদিষ্ট নয়, বরং নিষিদ্ধ। ইবন কাসীরের ব্যাখ্যা আর মাআরিফুল কুরআনের জোরালো ঘোষণার পাঠ ৮৭:১০ আয়াতের আলোচনায় দেওয়া আছে। তাফসীরগুলো এসব মত পাশাপাশি রেখেছে, এ লেখাও তাই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Memory Held in Trust",
+          "bn": "আমানত হয়ে থাকা স্মৃতি"
+        },
+        "p": [
+          {
+            "en": "Between the exception and the command stands 87:8, wa-nuyassiruka li-l-yusra, and We will ease you toward ease, which the English abridgement of Ibn Kathir reads as making good deeds and statements easy for him and giving him a law that is easy and just. Read in order, the passage moves from a promise about memory held under Allah's will, to His knowledge of the open and the hidden, to ease, and only then to the command to remind.",
+            "bn": "ব্যতিক্রম আর আদেশের মাঝখানে আছে ৮৭:৮ আয়াত: ওয়া নুইয়াসসিরুকা লিল ইউসরা, আর আমি তোমার জন্য সহজ পথ সহজ করে দেব। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এর অর্থ করে: ভালো কাজ ও ভালো কথা তাঁর জন্য সহজ করে দেওয়া, আর তাঁকে এমন শরিয়ত দেওয়া যা সহজ ও ন্যায়সংগত। ক্রমানুসারে পড়লে অংশটা এভাবে এগোয়: প্রথমে আল্লাহর ইচ্ছার অধীন স্মৃতির প্রতিশ্রুতি, তারপর প্রকাশ্য ও গোপন সম্পর্কে তাঁর জ্ঞান, তারপর সহজতা। উপদেশ দেওয়ার আদেশ আসে তার পরেই।"
+          },
+          {
+            "en": "The promise in 87:6 was made to the Prophet ﷺ, not to every reciter, yet what any of us memorises or understands stays by Allah's will, not by effort alone, and is better held as a trust. The second half asks for one life, not two. At-Tabari's warning, beware lest He see you acting otherwise than He permitted, was addressed to the Prophet ﷺ; no reader can hold himself to less. He knows what is declared and what is hidden.",
+            "bn": "৮৭:৬ আয়াতের প্রতিশ্রুতি ছিল নবী ﷺ-এর জন্য, প্রত্যেক তিলাওয়াতকারীর জন্য নয়। তবু আমরা যা মুখস্থ করি বা বুঝি, তা টিকে থাকে আল্লাহর ইচ্ছায়, শুধু নিজের চেষ্টায় নয়। তাই একে আমানত হিসেবে ধরে রাখাই ভালো। আয়াতের দ্বিতীয় অর্ধেক চায় একটাই জীবন, দুটি নয়। তাবারীর সতর্কবাণী, সাবধান, তিনি যেন তোমাকে তাঁর অনুমতির বাইরে কিছু করতে না দেখেন, বলা হয়েছিল নবী ﷺ-কে। কোনো পাঠক নিজের জন্য এর চেয়ে কম মাপকাঠি রাখতে পারেন না। তিনি জানেন যা প্রকাশ্য আর যা গোপন।"
+          }
+        ]
+      }
+    ]
+  },
   "87:10": {
     "sections": [
       {
