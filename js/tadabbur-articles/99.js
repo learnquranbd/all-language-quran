@@ -11,6 +11,158 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "99:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Scene, Six Verses",
+          "bn": "ছয় আয়াতে একটি দৃশ্য"
+        },
+        "p": [
+          {
+            "en": "Idha zulzilat al-ardu zilzalaha: when the earth is shaken with its shaking. The surah opens with a condition and makes the listener wait for its outcome. Al-Qurtubi notes that yawma'idhin, on that Day, at the head of 99:4 takes its place from this opening idha, and mentions a view tying it to tuhaddithu instead. Either way, the first six verses form one scene: the earth is shaken, it casts out its burdens, a human voice asks what has happened to it, the earth reports its news by its Lord's command, and people go out in scattered groups.",
+            "bn": "ইযা যুলযিলাতিল আরদু যিলযালাহা: যখন পৃথিবীকে তার কম্পনে কাঁপিয়ে দেওয়া হবে। সূরাটি শুরু হয় একটা শর্ত দিয়ে, আর ফল শোনার জন্য শ্রোতাকে অপেক্ষায় রাখে। কুরতুবী বলেন, ৯৯:৪ আয়াতের শুরুতে যে ইয়াওমাইযিন, অর্থাৎ সেদিন, তার ব্যাকরণগত সম্পর্ক এই প্রথম ইযা-র সঙ্গে। আরেকটি মতও তিনি উল্লেখ করেন, যাতে শব্দটি যুক্ত তুহাদ্দিসু ক্রিয়ার সঙ্গে। যেভাবেই ধরা হোক, প্রথম ৬টি আয়াত মিলে একটিই দৃশ্য। পৃথিবী কেঁপে ওঠে, ভেতরের বোঝা বের করে দেয়, মানুষ জিজ্ঞেস করে এর কী হলো, রবের আদেশে পৃথিবী তার খবর বলে, আর মানুষ দলে দলে বেরিয়ে আসে।"
+          },
+          {
+            "en": "Where the surah came down is itself a disagreement. Al-Qurtubi reports that it is Madinan in the view of Ibn 'Abbas and Qatada, and Makkan in the view of Ibn Mas'ud, 'Ata' and Jabir. Al-Baghawi calls it Makkan without comment, and so does the Arabic text of Ibn Kathir. Al-Qurtubi counts nine verses and says the scholars hold its merit to be great. Nothing below depends on settling the place, since the scene it describes belongs to no single city.",
+            "bn": "সূরাটি কোথায় নাযিল হয়েছে, তা নিয়েও মতভেদ আছে। কুরতুবী জানান, ইবন আব্বাস (রাঃ) ও কাতাদার মতে এটি মাদানী, আর ইবন মাসউদ (রাঃ), আতা ও জাবিরের মতে মাক্কী। বাগাভী কোনো মন্তব্য ছাড়াই একে মাক্কী বলেন, ইবন কাসীরের আরবি পাঠেও তাই আছে। কুরতুবী আয়াত গুনেছেন নয়টি, আর বলেছেন, আলিমদের মতে এ সূরার ফযিলত অনেক। নিচের আলোচনার কিছুই জায়গা নির্ধারণের উপর নির্ভর করে না। সূরাটি যে দৃশ্যের কথা বলে, তা কোনো একটি শহরের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Shaking That Is Its Own",
+          "bn": "পৃথিবীর নিজস্ব কম্পন"
+        },
+        "p": [
+          {
+            "en": "Zulzilat is passive: the earth is shaken; it does not set itself moving. Then comes zilzalaha, its shaking, a verbal noun joined to the earth. At-Tabari explains the joining with an Arab idiom, la-ukrimannaka karamataka, I will honour you with your honouring, which simply means an honouring; the possessive attaches to the earth what is really its description. He adds that the form also suits the endings of the verses that follow. Al-Qurtubi gives a parallel one, la-u'tiyannaka 'atiyyataka, and says the verbal noun is there for emphasis.",
+            "bn": "যুলযিলাত ক্রিয়াটি কর্মবাচ্য। পৃথিবী নিজে নড়ে ওঠে না, তাকে নাড়ানো হয়। তারপর আসে যিলযালাহা, তার কম্পন। এটি ক্রিয়াবাচক বিশেষ্য, জুড়ে দেওয়া হয়েছে পৃথিবীর সঙ্গে। তাবারী এই জোড়ার ব্যাখ্যা দেন আরবদের একটি বাকরীতি দিয়ে: লা উকরিমান্নাকা কারামাতাকা, আমি তোমাকে তোমার সম্মানে সম্মানিত করব। এর মানে নিছক সম্মান করা। অর্থাৎ যে জিনিস আসলে পৃথিবীর বিশেষণ, সম্বন্ধপদ সেটাকে পৃথিবীর সঙ্গে বেঁধে দিয়েছে। তিনি আরও বলেন, পরের আয়াতগুলোর শেষ ধ্বনির সঙ্গেও এ রূপটি মেলে। কুরতুবী একই ধাঁচের উদাহরণ দেন, লা উতিয়ান্নাকা আতিয়্যাতাকা, আর বলেন, ক্রিয়াবাচক বিশেষ্যটি এসেছে জোর দেওয়ার জন্য।"
+          },
+          {
+            "en": "At-Tabari ties the shaking to one moment: the earth is shaken for the rising of the Hour, convulsed with a convulsion. Al-Baghawi says it is moved with a violent motion, again for the Hour. Ibn Kathir reports Ibn 'Abbas as saying it moves from beneath; al-Qurtubi, through 'Ikrima from Ibn 'Abbas, has it moved from its very root. As-Sa'di draws the result: it quakes until every building and landmark on it falls, its mountains crumble, its hills are levelled, and it becomes a bare plain with no crookedness and no rise, words that echo 20:106 and 20:107.",
+            "bn": "তাবারী কম্পনটিকে একটি মুহূর্তের সঙ্গে বেঁধে দেন: কিয়ামত কায়েমের জন্য পৃথিবীকে প্রবলভাবে ঝাঁকানো হবে। বাগাভীও বলেন, কিয়ামতের জন্যই তাকে প্রচণ্ড জোরে নাড়ানো হবে। ইবন কাসীর ইবন আব্বাস (রাঃ)-এর কথা আনেন: পৃথিবী নিচ থেকে নড়ে উঠবে। কুরতুবী ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: তাকে নাড়ানো হবে একেবারে মূল থেকে। সা'দী এর পরিণতি দেখান। এমনভাবে কাঁপবে যে উপরের সব দালান আর চিহ্ন ভেঙে পড়বে, পাহাড় চূর্ণ হবে, টিলা সমান হয়ে যাবে। পৃথিবী হবে এক খোলা সমতল, যাতে কোনো বাঁক নেই, কোনো উঁচু-নিচু নেই। তাঁর এ কথায় ২০:১০৬ ও ২০:১০৭ আয়াতের প্রতিধ্বনি শোনা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The First Blast or the Second",
+          "bn": "প্রথম ফুঁ, নাকি দ্বিতীয়?"
+        },
+        "p": [
+          {
+            "en": "Which quake is meant? Al-Qurtubi, through 'Ikrima, reports Ibn 'Abbas as saying that at the first blowing of the Trumpet He shakes it, and Mujahid said the same; the proof given is 79:6 and 79:7: on the Day the quaking one quakes, followed by the one that follows. Then, al-Qurtubi continues, the earth is shaken a second time and brings out its dead, which are its burdens. On this account the shaking of 99:1 comes with the first blast, and the casting out in 99:2 follows a second shaking.",
+            "bn": "কোন কম্পনের কথা বলা হচ্ছে? কুরতুবী ইকরিমার সূত্রে ইবন আব্বাস (রাঃ)-এর বক্তব্য আনেন: শিঙায় প্রথম ফুঁ দেওয়ার সময় তিনি পৃথিবীকে কাঁপাবেন। মুজাহিদও একই কথা বলেছেন। দলিল হিসেবে আনা হয়েছে ৭৯:৬ ও ৭৯:৭ আয়াত: যেদিন প্রকম্পিতকারী প্রকম্পিত করবে, তার পেছনে আসবে পরবর্তীটি। কুরতুবী আরও বলেন, তারপর পৃথিবীকে দ্বিতীয়বার কাঁপানো হবে, আর সে তার মৃতদের বের করে দেবে। এরাই তার বোঝা। এই হিসাবে ৯৯:১ আয়াতের কম্পন প্রথম ফুঁয়ের সঙ্গে, আর ৯৯:২ আয়াতে বের করে দেওয়ার ঘটনা দ্বিতীয় কম্পনের পরে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, drawing on Mazhari, says plainly that it is not clear whether this is the convulsion before the first blowing, among the portents of the Hour, or the quake after the second, when the dead are raised. Reports and commentators differ, it notes; there may be several quakes. It leans towards the second because the surah moves on to reckoning and recompense, and closes with: Allah knows best.",
+            "bn": "মাআরিফুল কুরআন মাযহারীর বরাতে সোজাসুজি বলে, বিষয়টি পরিষ্কার নয়। এ কি প্রথম ফুঁয়ের আগের সেই ঝাঁকুনি, যা কিয়ামতের আলামতের মধ্যে গণ্য, নাকি দ্বিতীয় ফুঁয়ের পরের কম্পন, যখন মৃতদের ওঠানো হবে? বর্ণনা আর তাফসীরকারদের মত এখানে ভিন্ন। কম্পন একাধিকও হতে পারে। তবু মাআরিফুল কুরআন দ্বিতীয়টির দিকে ঝোঁকে, কারণ সূরাটি এরপর হিসাব আর প্রতিদানের কথায় যায়। শেষে বলে: আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Al-Qurtubi traces the difference into the next verses. Those who take al-insan in 99:3 as every person who sees it, believer and disbeliever, place the quake in this world as a sign of the Hour; those who take it as the disbeliever alone place it at the Resurrection, since the believer affirms that Day and would not ask. Through al-Mawardi he does the same with 99:4: news of deeds fits the Resurrection view, and news of the burdens cast out, Yahya ibn Sallam's reading, fits the sign-of-the-Hour view.",
+            "bn": "কুরতুবী এই মতভেদকে পরের আয়াত পর্যন্ত টেনে নেন। ৯৯:৩ আয়াতের আল-ইনসান বলতে যাঁরা বোঝেন যে-ই তা দেখবে সে-ই, মুমিন হোক বা কাফির, তাঁরা কম্পনটিকে রাখেন দুনিয়ায়, কিয়ামতের আলামত হিসেবে। আর যাঁরা বোঝেন শুধু কাফির, তাঁরা রাখেন পুনরুত্থানের দিনে। কারণ মুমিন সেদিনকে মানে, তাই সে প্রশ্ন করবে না। মাওয়ারদীর বরাতে ৯৯:৪ আয়াতেও তিনি একই কাজ করেন। পৃথিবী আমলের খবর দেবে, এ ব্যাখ্যা পুনরুত্থানের মতের সঙ্গে যায়। আর পৃথিবী তার বের করে দেওয়া বোঝার খবর দেবে, ইয়াহইয়া ইবন সাল্লামের এ ব্যাখ্যা যায় আলামতের মতের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Weight the Ground Holds",
+          "bn": "মাটির ভেতরের ভার"
+        },
+        "p": [
+          {
+            "en": "Wa akhrajat al-ardu athqalaha: and the earth brings out its burdens. At-Tabari says it brings out the dead inside it, alive, and explains the word: a dead person inside the earth is a weight for it, and a living person on its back is a weight upon it. Al-Qurtubi gives the same distinction from Abu 'Ubayda and al-Akhfash, and adds that this is why jinn and humans are called ath-thaqalan. At-Tabari reports Ibn 'Abbas and Mujahid saying the burdens are the dead, those in the graves;",
+            "bn": "ওয়া আখরাজাতিল আরদু আসকালাহা: আর পৃথিবী তার বোঝা বের করে দেবে। তাবারী বলেন, ভেতরে থাকা মৃতদের সে জীবিত অবস্থায় বের করে দেবে। শব্দটির ব্যাখ্যাও তিনি দেন। মাটির ভেতরে যে মৃত, সে মাটির ভেতরের ভার। আর মাটির পিঠে যে জীবিত, সে মাটির উপরের ভার। কুরতুবী আবু উবাইদা ও আখফাশ থেকে একই পার্থক্য আনেন, আর বলেন, এ কারণেই জিন ও মানুষকে বলা হয় আস-সাকালান। তাবারী ইবন আব্বাস (রাঃ) ও মুজাহিদের কথা আনেন: বোঝা মানে মৃতরা, কবরে যারা আছে।"
+          },
+          {
+            "en": "A second reading widens the word: al-Qurtubi gives, as another view, that the burdens are the earth's treasures. As-Sa'di, al-Baghawi and the Muyassar join both, the dead and the treasures in its belly, and al-Baghawi adds that the earth throws them onto its surface. Ibn Kathir sets two verses beside this one: 22:1, where the quaking of the Hour is a tremendous thing, and 84:3 and 84:4, where the earth is spread out, casts out what is in it and becomes empty.",
+            "bn": "দ্বিতীয় আরেকটি ব্যাখ্যা শব্দটির পরিধি বাড়ায়। কুরতুবী ভিন্ন একটি মত হিসেবে বলেন, বোঝা মানে পৃথিবীর গুপ্তধন। সা'দী, বাগাভী আর মুয়াসসার দুটোকেই একসঙ্গে ধরেন: পেটের ভেতরের মৃত আর গুপ্তধন। বাগাভী যোগ করেন, পৃথিবী এগুলো ছুড়ে ফেলবে নিজের উপরিভাগে। ইবন কাসীর এ আয়াতের পাশে আরও দুটি আয়াত রাখেন। ২২:১ আয়াতে কিয়ামতের কম্পনকে বলা হয়েছে ভয়ংকর এক ব্যাপার। আর ৮৪:৩ ও ৮৪:৪ আয়াতে পৃথিবীকে বিস্তৃত করা হয়, সে ভেতরের সব কিছু বাইরে ফেলে দিয়ে খালি হয়ে যায়।"
+          },
+          {
+            "en": "Ibn Kathir and al-Baghawi set here a hadith that does not itself name this verse. In Muslim's wording (1013), from Abu Hurayra, the Messenger of Allah ﷺ said: The earth will vomit long pieces of its liver like columns of gold and silver, and the murderer will come and say: It was for this that I committed murder. The breaker of family ties will come and say: It was for this that I broke the family ties; and the thief will come and say: It is for this that my hands were cut off. They will then leave it and will not take anything out of it.",
+            "bn": "ইবন কাসীর ও বাগাভী এখানে একটি হাদীস আনেন, যাতে এ আয়াতের নাম নেই। মুসলিমের (১০১৩) বর্ণনায় আবু হুরায়রা (রাঃ) থেকে, রাসূলুল্লাহ ﷺ বলেছেন: পৃথিবী তার কলিজার টুকরোগুলো বমি করে বের করে দেবে, সোনা-রুপার স্তম্ভের মতো। তখন খুনি এসে বলবে, এর জন্যই আমি খুন করেছিলাম। আত্মীয়তার সম্পর্ক ছিন্নকারী এসে বলবে, এর জন্যই আমি সম্পর্ক ছিন্ন করেছিলাম। চোর এসে বলবে, এর জন্যই আমার হাত কাটা গিয়েছিল। তারপর তারা সেগুলো ফেলে রেখে চলে যাবে, কিছুই নেবে না।"
+          },
+          {
+            "en": "Al-Qurtubi cites it under the treasures reading, and it needs little comment. The things people killed for, cut off their families for and lost a hand for lie in the open at last, stacked like columns, and nobody wants them. What the earth held, whether bodies or gold, was never gone; it was only kept. When the keeping ends, its worth ends; what remains is what was done for it.",
+            "bn": "কুরতুবী একে এনেছেন গুপ্তধনের ব্যাখ্যার পক্ষে। বর্ণনাটির উপর বেশি কথা বলার দরকার নেই। যে জিনিসের জন্য মানুষ খুন করেছে, আত্মীয়ের সঙ্গে সম্পর্ক কেটেছে, হাত হারিয়েছে, শেষে তা স্তম্ভের মতো খোলা জায়গায় পড়ে আছে, অথচ কেউ চায় না। মাটি যা ধরে রেখেছিল, লাশ হোক বা সোনা, তা হারিয়ে যায়নি, শুধু জমা ছিল। জমা রাখার পালা শেষ হলে তার দামও শেষ। থেকে যায় শুধু তার জন্য যা করা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports on Its Merit",
+          "bn": "ফযিলতের বর্ণনাগুলো"
+        },
+        "p": [
+          {
+            "en": "The reports on this surah's merit call for care. At-Tirmidhi records one from Anas and another from Ibn 'Abbas that measure the surah against a share of the Qur'an. On both he gives his own verdict, gharib, adding that he knows the first only through al-Hasan ibn Salm and the second only through Yaman ibn al-Mughira. Ibn Kathir and al-Qurtubi relay those verdicts; Ma'arif al-Qur'an cites the content without them. They are mentioned here, and nothing is built on them.",
+            "bn": "এ সূরার ফযিলত নিয়ে যেসব বর্ণনা আছে, সেগুলোর বেলায় সতর্ক থাকা দরকার। তিরমিযী আনাস (রাঃ) থেকে একটি আর ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনা এনেছেন, যাতে সূরাটিকে কুরআনের একটি অংশের সমান ধরা হয়েছে। দুটির ব্যাপারেই তাঁর নিজের রায়: গরীব। সঙ্গে বলেছেন, প্রথমটি তিনি শুধু হাসান ইবন সালমের সূত্রে জানেন, দ্বিতীয়টি শুধু ইয়ামান ইবনুল মুগীরার সূত্রে। ইবন কাসীর ও কুরতুবী তাঁর এই রায় উল্লেখ করেছেন। মাআরিফুল কুরআন রায়টি ছাড়াই বিষয়বস্তু এনেছে। এখানে বর্ণনা দুটির শুধু উল্লেখ থাকল, এর উপর কিছু দাঁড় করানো হলো না।"
+          },
+          {
+            "en": "A third report in the same place, which at-Tirmidhi grades hasan (2895), is about a Companion who said he had nothing to marry with. The Prophet ﷺ asked him about several short surahs he knew; of Idha zulzilat he said: a quarter of the Qur'an, and he ended: marry, marry. Ibn Kathir also relays a report from Imam Ahmad about a man taught this surah; it was not checked on a collection page here, so it is only mentioned.",
+            "bn": "একই জায়গায় তৃতীয় একটি বর্ণনা আছে, যাকে তিরমিযী হাসান বলেছেন (২৮৯৫)। এক সাহাবী বলেছিলেন, বিয়ে করার মতো কিছুই তাঁর কাছে নেই। নবী ﷺ তাঁর জানা কয়েকটি ছোট সূরার কথা জিজ্ঞেস করলেন। ইযা যুলযিলাত সম্পর্কে বললেন: কুরআনের এক-চতুর্থাংশ। শেষে বললেন: বিয়ে করো, বিয়ে করো। ইবন কাসীর ইমাম আহমাদ থেকেও একটি বর্ণনা আনেন, যাতে এক ব্যক্তিকে এ সূরাটি শেখানো হয়। এখানে তা কোনো হাদীসগ্রন্থের পাতায় যাচাই করা হয়নি, তাই শুধু উল্লেখ থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Bewildered Question",
+          "bn": "হতভম্ব মানুষের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Wa qala al-insanu ma laha: and man says, what is the matter with it? At-Tabari reads it as people asking, when the earth is shaken for the Hour, what has happened to it and what its story is. Ibn Kathir describes the shock: man finds its state strange after it had been settled, still and firm while he lived settled on its back; now it heaves, struck by the quake Allah prepared for it, which it cannot escape. As-Sa'di hears a person overwhelmed by what he sees.",
+            "bn": "ওয়া কালাল ইনসানু মা লাহা: আর মানুষ বলবে, এর কী হলো? তাবারীর ব্যাখ্যায়, কিয়ামতের জন্য পৃথিবী যখন কেঁপে উঠবে, মানুষ তখন জিজ্ঞেস করবে, পৃথিবীর কী হলো, এর ঘটনাটা কী। ইবন কাসীর সেই ধাক্কাটা তুলে ধরেন। এতদিন পৃথিবী ছিল স্থির, শান্ত, অটল, আর মানুষ নিশ্চিন্তে তার পিঠে বাস করত। এখন সেই পৃথিবী দুলছে। আল্লাহ তার জন্য যে কম্পন ঠিক করে রেখেছিলেন, তা এসে পড়েছে, তা থেকে তার রেহাই নেই। তাই তার অবস্থা মানুষের কাছে অচেনা ঠেকে। সা'দী এ প্রশ্নে শোনেন এমন একজনের কণ্ঠ, যে চোখের সামনের দৃশ্যের বিশালতায় দিশেহারা।"
+          },
+          {
+            "en": "At-Tabari keeps a small scene, with his chain and no grading: Sa'id said the earth shook in the time of 'Abdullah, and 'Abdullah said to it: what is the matter with you? Were it to speak, the Hour would come. A real tremor met a question and a thought of the Hour. The verse describes the earth's last quake and licenses no reading of any earthquake today as a verdict on the people it strikes.",
+            "bn": "তাবারী নিজের সনদে, কোনো মান নির্ধারণ ছাড়াই, ছোট্ট একটি ঘটনা রেখেছেন। সাঈদ বলেন, আবদুল্লাহর যুগে একবার মাটি কেঁপে উঠেছিল। আবদুল্লাহ মাটিকে বললেন: তোমার কী হলো? এ যদি কথা বলত, তবে কিয়ামত কায়েম হয়ে যেত। সত্যিকারের এক কম্পনের জবাব ছিল একটি প্রশ্ন আর কিয়ামতের ভাবনা। আয়াতটি বলে পৃথিবীর শেষ কম্পনের কথা। আজকের কোনো ভূমিকম্পকে আক্রান্ত মানুষদের উপর রায় হিসেবে পড়ার অনুমতি এ আয়াত দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "News the Ground Will Tell",
+          "bn": "মাটি যে খবর দেবে"
+        },
+        "p": [
+          {
+            "en": "Yawma'idhin tuhaddithu akhbaraha: that Day it reports its news. What news? At-Tabari first explains it on the view he cited from 'Abdullah ibn Mas'ud: the earth will speak and say, Allah commanded me to this, revealed it to me and permitted me. Sa'id ibn Jubayr, he reports, once recited tunabbi'u, it informs, and once tuhaddithu, and for Sa'id the informing seems to have been the earth bringing its burdens from its belly to its back. At-Tabari calls that meaning sound: the earth makes its news plain by the shaking and by casting out the dead, at Allah's revelation and permission.",
+            "bn": "ইয়াওমাইযিন তুহাদ্দিসু আখবারাহা: সেদিন পৃথিবী তার খবর বলবে। কোন খবর? তাবারী প্রথমে ব্যাখ্যা দেন আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে আগে আনা মত অনুযায়ী। পৃথিবী কথা বলবে, আর বলবে, আল্লাহ আমাকে এর আদেশ দিয়েছেন, আমার কাছে ওহী পাঠিয়েছেন, আমাকে অনুমতি দিয়েছেন। তিনি আরও জানান, সাঈদ ইবন জুবাইর একবার পড়েছিলেন তুনাব্বিউ, অর্থাৎ জানাবে, আরেকবার তুহাদ্দিসু। মনে হয়, সাঈদের কাছে জানানো মানে ছিল পৃথিবী তার পেটের বোঝা পিঠে তুলে আনা। তাবারী এ অর্থকে সঠিক বলেন। আল্লাহর ওহী আর অনুমতিতে পৃথিবী কম্পন দিয়ে আর মৃতদের বের করে দিয়েই তার খবর স্পষ্ট করে দেবে।"
+          },
+          {
+            "en": "Others took the news to be the deeds done on it. At-Tabari reports Sufyan: what was done on it of good or evil; Ibn Zayd: the servants' deeds on its back; and Mujahid: it tells people what they did on it. Ibn Kathir puts it in one line, and as-Sa'di gives the reason: the earth testifies against those who acted on it, because it is among the witnesses against the servants.",
+            "bn": "অন্যরা খবর বলতে বুঝেছেন পৃথিবীর উপর করা আমল। তাবারী সুফিয়ানের কথা আনেন: তার উপর যত ভালো-মন্দ করা হয়েছে। ইবন যায়দের কথা: তার পিঠে বান্দাদের আমল। আর মুজাহিদের কথা: মানুষ তার উপর কী করেছে, তা সে তাদের জানিয়ে দেবে। ইবন কাসীর এক লাইনে একই কথা বলেন। সা'দী কারণটাও বলেন: যারা পৃথিবীর উপর আমল করেছে, পৃথিবী তাদের বিরুদ্ধে সাক্ষ্য দেবে, কারণ বান্দাদের বিরুদ্ধে যারা সাক্ষ্য দেবে, সে তাদেরই একজন।"
+          },
+          {
+            "en": "One hadith speaks to the verse directly. At-Tirmidhi (3353) records from Abu Hurayra: The Messenger of Allah recited this Ayah: ‘That Day it will declare its information.’ He said: ‘Do you know what its information is?’ They said: ‘Allah and His Messenger know better.’ He said: ‘That it testifies about what every male or female slave (of Allah) did upon its surface. It says: He did this and that on this day. This is its information.’",
+            "bn": "একটি হাদীস সরাসরি এ আয়াত নিয়ে কথা বলে। তিরমিযী (৩৩৫৩) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন: রাসূলুল্লাহ ﷺ এই আয়াত তিলাওয়াত করলেন: সেদিন পৃথিবী তার খবর বলবে। তারপর বললেন: তোমরা কি জানো তার খবর কী? সাহাবীরা বললেন: আল্লাহ ও তাঁর রাসূলই ভালো জানেন। তিনি বললেন: তার খবর হলো, প্রত্যেক বান্দা ও বান্দী তার পিঠের উপর যা করেছে, সে তার সাক্ষ্য দেবে। সে বলবে: অমুক দিন সে এই এই করেছে। এটাই তার খবর।"
+          },
+          {
+            "en": "The grading is not reported one way. On the page fetched for this article, at-Tirmidhi calls it hasan sahih at 3353, while at 2429, through the same chain, the page shows hasan gharib. Ibn Kathir quotes him as saying hasan sahih gharib, and al-Qurtubi as hasan sahih. These are set down as they were found, and none is raised above the others.",
+            "bn": "এর মান নিয়ে বর্ণনা এক রকম নয়। এ লেখার জন্য যে পাতা দেখা হয়েছে, তাতে ৩৩৫৩ নম্বরে তিরমিযী একে বলেছেন হাসান সহীহ। আবার ২৪২৯ নম্বরে, একই সনদে, পাতায় আছে হাসান গরীব। ইবন কাসীর তাঁর কথা উদ্ধৃত করেছেন হাসান সহীহ গরীব হিসেবে, আর কুরতুবী হাসান সহীহ হিসেবে। যেমন পাওয়া গেছে, তেমনই এখানে রাখা হলো। কোনোটিকে অন্যটির উপরে তোলা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Inspired by Its Lord",
+          "bn": "রবের ইশারায় মুখ খোলা"
+        },
+        "p": [
+          {
+            "en": "Bi-anna rabbaka awha laha: because your Lord inspired it. The verb takes la, to it, where ila might be expected. Al-Bukhari, as Ibn Kathir quotes him, says awha laha, awha ilayha, waha laha and waha ilayha are one. Al-Qurtubi says the Arabs put this la in place of ila, and cites the poet al-'Ajjaj describing the earth: He inspired it to stay still, and it settled. Ibn Kathir adds that the apparent sense carries a meaning of permission: the earth speaks because it has been allowed to.",
+            "bn": "বিআন্না রাব্বাকা আওহা লাহা: কারণ তোমার রব তার প্রতি ওহী পাঠিয়েছেন। ক্রিয়াটির সঙ্গে এসেছে লা, তাকে, যেখানে ইলা আশা করা যেত। ইবন কাসীর বুখারীর কথা উদ্ধৃত করেন: আওহা লাহা, আওহা ইলাইহা, ওয়াহা লাহা আর ওয়াহা ইলাইহা, সবই এক। কুরতুবী বলেন, আরবরা ইলা-র জায়গায় এই লা ব্যবহার করে। প্রমাণ হিসেবে আনেন কবি আজ্জাজের একটি পঙক্তি, যেখানে তিনি পৃথিবীর বর্ণনা দিচ্ছেন: তিনি তাকে স্থির থাকার ইশারা দিলেন, আর সে স্থির হয়ে গেল। ইবন কাসীর যোগ করেন, বাহ্যিক অর্থে এতে অনুমতির ভাবও আছে। পৃথিবী কথা বলবে, কারণ তাকে বলার অনুমতি দেওয়া হয়েছে।"
+          },
+          {
+            "en": "What was it told? Ibn Kathir relays from Ibn 'Abbas, through 'Ikrima: its Lord says to it, speak, and it speaks. Mujahid, in at-Tabari and Ibn Kathir, says: He commanded it. Al-Qurazi, in Ibn Kathir, says: He commanded it to split open from them. As-Sa'di ends the verse with a clause worth keeping: He commanded it to tell what was done on it, and it does not disobey His command. The ground that stayed silent under every step was obeying then as well; on that Day it obeys again.",
+            "bn": "তাকে কী বলা হয়েছিল? ইবন কাসীর ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: তার রব তাকে বলবেন, বলো, আর সে বলবে। তাবারী ও ইবন কাসীর মুজাহিদের কথা আনেন: তিনি তাকে আদেশ করেছেন। ইবন কাসীর কুরাযীর কথা আনেন: তিনি তাকে আদেশ করেছেন তাদের থেকে ফেটে আলাদা হয়ে যেতে। সা'দী আয়াতটি শেষ করেন মনে রাখার মতো একটি কথায়। তিনি তাকে আদেশ করেছেন তার উপর যা করা হয়েছে তা জানাতে, আর সে তাঁর আদেশ অমান্য করে না। যে মাটি প্রতিটি পদক্ষেপের নিচে চুপ ছিল, সে তখনও আদেশই মানছিল। সেদিনও সে আদেশই মানবে।"
+          }
+        ]
+      }
+    ]
+  },
   "99:7-8": {
     "sections": [
       {

@@ -30143,6 +30143,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your soul was shaped with care and shown right from wrong before you chose anything; treat it as a trust from its Maker and ask Him to guide it.",
     "lessonBn": "কিছু বেছে নেওয়ার আগেই আপনার প্রাণকে যত্নে গড়া হয়েছে আর ভালো-মন্দ চিনিয়ে দেওয়া হয়েছে। একে তার স্রষ্টার আমানত হিসেবে রাখুন, আর তাঁরই কাছে পথ দেখানোর দোয়া করুন।"
+  },
+  "99:1": {
+    "reflectionEn": "Everything we build assumes the ground will hold. We lay foundations, plant trees, bury our dead and walk to work without a thought for what lies beneath. The surah opens by taking that assumption away. When the earth is shaken with its shaking, it will not be a tremor that passes and is forgotten by the weekend. It is the earth's own final quake, and what follows is stranger still: the ground gives up what it has held, and then it speaks, because its Lord has told it to. The floor I treat as silent has been present at every step I took. So the question is not only what I will say on that Day, but what the ground under me could truthfully say about where I went.",
+    "reflectionBn": "আমরা যা কিছু গড়ি, সবই এই ভরসায় যে মাটি টিকে থাকবে। ভিত গাঁথি, গাছ লাগাই, মৃতকে কবর দিই, রোজ কাজে যাই। পায়ের নিচে কী আছে, একবারও ভাবি না। সূরাটি শুরুতেই এই ভরসাটা কেড়ে নেয়। পৃথিবীকে যখন তার কম্পনে কাঁপিয়ে দেওয়া হবে, সে কম্পন এমন হবে না যে দুদিন পরে সবাই ভুলে যাবে। এটা পৃথিবীর নিজের শেষ কম্পন। তারপর যা ঘটবে তা আরও অদ্ভুত। মাটি তার ভেতরে যা রেখেছিল সব বের করে দেবে, তারপর কথা বলবে, কারণ তার রব তাকে বলতে আদেশ করেছেন। যে মাটিকে আমি বোবা ভেবে এসেছি, আমার প্রতিটি পদক্ষেপে সে হাজির ছিল। তাই প্রশ্ন শুধু এই নয় যে সেদিন আমি কী বলব। প্রশ্ন হলো, আমার পায়ের নিচের মাটি আমি কোথায় কোথায় গিয়েছি সে সম্পর্কে সত্যি কী বলতে পারবে।",
+    "pointsEn": [
+      "What am I building, or saving for, as if the ground beneath it will hold forever?",
+      "If the places I walked this week could speak, which of them would I want to stay silent?",
+      "When something shakes in my life, do I only ask what is wrong with it, or does it turn me towards the Day it points to?",
+      "What am I chasing now that one day will lie on the open ground with nobody bothering to pick it up?",
+      "Where can I leave a deed this week that I would be glad for the ground to report?"
+    ],
+    "pointsBn": [
+      "কোন জিনিস আমি গড়ছি বা জমাচ্ছি এমনভাবে, যেন তার নিচের মাটি চিরকাল স্থির থাকবে?",
+      "এ সপ্তাহে যেসব জায়গায় আমি পা রেখেছি, তারা যদি কথা বলতে পারত, কোনগুলোকে আমি চুপ থাকতে বলতাম?",
+      "জীবনে কিছু কেঁপে উঠলে আমি কি শুধু জিজ্ঞেস করি এর কী হলো, নাকি সেই কাঁপুনি আমাকে সেই দিনের দিকে ফিরিয়ে দেয়, যার দিকে সে ইশারা করছে?",
+      "আজ আমি এমন কিসের পেছনে ছুটছি, যা একদিন খোলা মাটির উপর পড়ে থাকবে আর কেউ তুলেও নেবে না?",
+      "এ সপ্তাহে কোথায় এমন একটা আমল রেখে যেতে পারি, যার খবর মাটি দিলে আমি খুশি হব?"
+    ],
+    "lessonEn": "The earth that carries you will one day shake, give up what it holds and report what was done on it, so walk on it as on a witness.",
+    "lessonBn": "যে মাটি আজ আপনাকে বয়ে বেড়াচ্ছে, একদিন সে কেঁপে উঠবে, ভেতরের সব বের করে দেবে আর তার উপর যা করা হয়েছে তার খবর দেবে। তাই সাক্ষীর উপর যেভাবে হাঁটতে হয়, তার উপর সেভাবেই হাঁটুন।"
   }
 };
 
