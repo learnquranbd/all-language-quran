@@ -29663,6 +29663,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let your hearing of Allah's command end in obeying it, as the sky's hearing does, since obedience is what every creature owes the One who made it.",
     "lessonBn": "আকাশের শোনা যেমন আনুগত্যে গিয়ে শেষ হয়, আপনার শোনাও যেন তেমনি আল্লাহর আদেশ মানায় গিয়ে শেষ হয়, কারণ প্রতিটি সৃষ্টির কাছে তার স্রষ্টার পাওনা এই আনুগত্যই।"
+  },
+  "88:8": {
+    "reflectionEn": "The surah has just shown faces bowed and worn out. Then the same two words return, faces that Day, and one word changes everything: glad. These faces are content with their striving, set in a Garden raised high, and there they hear no idle word, no falsehood, no abuse. Before any spring or couch, the passage names a face at peace with what it did, and an ear left untouched by harmful talk. My striving is mostly small: a prayer kept on time, a kindness that cost me something, a sharp word held back. Will I be glad of it on that Day? And how much of what I say and hear today would have no place in that Garden?",
+    "reflectionBn": "সূরাটি এইমাত্র দেখিয়েছে নত, ক্লান্ত-বিধ্বস্ত কিছু মুখ। তারপর ফিরে আসে সেই একই দুটি শব্দ: সেদিন কতক মুখ। এবার একটি শব্দেই সব বদলে যায়: আনন্দে উজ্জ্বল। এই মুখগুলো নিজেদের চেষ্টা-সাধনায় সন্তুষ্ট, তাদের ঠিকানা উঁচু জান্নাত, আর সেখানে কোনো অনর্থক কথা, মিথ্যা বা গালি তাদের কানে আসে না। ঝর্ণা বা আসনের কথা আসার আগেই আয়াতগুলো বলে এমন এক মুখের কথা, যে নিজের আমলে শান্ত, আর এমন এক কানের কথা, যাকে কষ্টের কথা ছোঁয় না। আমার চেষ্টা বেশির ভাগই ছোট: সময়মতো এক ওয়াক্ত নামাজ, নিজের ক্ষতি মেনে নিয়ে কারও উপকার, মুখে এসে যাওয়া একটা কড়া কথা গিলে ফেলা। সেদিন কি এগুলো দেখে আমি খুশি হব? আর আজ আমি যা বলি ও শুনি, তার কতটুকুর জায়গা সেই জান্নাতে নেই?",
+    "pointsEn": [
+      "If this week's striving showed on my face on that Day, what would I want it to have been spent on?",
+      "Which of my efforts am I quietly ashamed of, and what would it take to turn them into striving I could be content with?",
+      "How much of what I said today was idle talk, mockery, a careless oath or a word that hurt someone?",
+      "Is there a gathering, a screen or a conversation where I regularly hear what the Garden has no room for?",
+      "The Garden is set high. Do I aim my effort high as well, or settle for whatever costs me least?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহের চেষ্টা-সাধনা যদি সেদিন আমার চেহারায় ফুটে ওঠে, তবে আমি চাইব তা কোন কাজে খরচ হয়ে থাকুক?",
+      "আমার কোন চেষ্টাগুলো নিয়ে মনে মনে আমি লজ্জিত? সেগুলোকে এমন আমলে বদলাতে কী লাগবে, যাতে আমি সন্তুষ্ট থাকতে পারি?",
+      "আজ আমার মুখের কথার কতটুকু ছিল অনর্থক গল্প, ঠাট্টা-বিদ্রূপ, হেলাফেলার কসম, কিংবা এমন কথা যা কাউকে কষ্ট দিয়েছে?",
+      "এমন কোনো আড্ডা, পর্দা বা আলাপ কি আছে, যেখানে আমি নিয়মিত সেই কথা শুনি, জান্নাতে যার কোনো জায়গা নেই?",
+      "জান্নাত উঁচুতে। আমার চেষ্টার লক্ষ্যও কি উঁচু, নাকি যাতে সবচেয়ে কম খাটুনি তাতেই আমি থেমে যাই?"
+    ],
+    "lessonEn": "Strive now in ways you will be content to meet on that Day, and start keeping your tongue and ears from the idle talk the Garden is free of.",
+    "lessonBn": "আজই এমনভাবে চেষ্টা করুন, যাতে সেদিন নিজের আমল দেখে সন্তুষ্ট হতে পারেন। আর জান্নাত যে অনর্থক কথা থেকে মুক্ত, এখন থেকেই নিজের জিভ ও কানকে তা থেকে দূরে রাখুন।"
   }
 };
 

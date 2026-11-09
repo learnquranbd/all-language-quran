@@ -159,6 +159,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "88:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words Return, One Changes",
+          "bn": "দুটি শব্দ ফেরে, একটি বদলায়"
+        },
+        "p": [
+          {
+            "en": "Wujuhun yawma'idhin na'imah: faces, that Day, glad with bliss. The verse has three Arabic words, and the first two are the very words that opened 88:2. There they led to faces bowed, toiling and worn, a scene with its own page. Here the same two words lead somewhere else, and only the third word has changed. Ibn Kathir describes the turn in one clause: having mentioned the state of the wretched, He follows it with mention of the happy.",
+            "bn": "উজূহুই ইয়াওমাইযিন নাইমাহ: সেদিন কতক মুখ হবে সুখে উজ্জ্বল। আয়াতে আরবি শব্দ তিনটি, আর প্রথম দুটি হুবহু সেই শব্দ, যা দিয়ে ৮৮:২ শুরু হয়েছিল। সেখানে এ দুটি শব্দ নিয়ে গিয়েছিল নত, খেটে খেটে ক্লান্ত মুখের দিকে, যার আলোচনা আলাদা পাতায়। এখানে একই দুটি শব্দ অন্য দিকে নিয়ে যায়, বদলেছে শুধু তৃতীয় শব্দটি। ইবন কাসীর এই মোড় ঘোরাটা একটি বাক্যে বলেন: হতভাগাদের অবস্থা বলার পর আল্লাহ এবার ভাগ্যবানদের কথা আনলেন।"
+          },
+          {
+            "en": "Al-Qurtubi notices what is missing between the two scenes. No 'and' stands before the second wujuh, yet he says a waw is implied: and faces, that Day, set apart from the faces that came before. He adds that the faces here are an expression for the selves. That note shapes what follows, because the next verse calls these faces content with their striving, and a face does not strive. The person strives, and the face is where that person's state is seen.",
+            "bn": "দুই দৃশ্যের মাঝখানে কী অনুপস্থিত, কুরতুবী তা লক্ষ করেন। দ্বিতীয় উজূহ শব্দের আগে কোনো 'ওয়া' (এবং) নেই। তবু তাঁর মতে একটি ওয়া উহ্য আছে: আর সেদিন কতক মুখ। এতে আগের মুখগুলো থেকে এদের আলাদা করা হয়। তিনি আরও বলেন, এখানে মুখ বলে আসলে পুরো মানুষটিকেই বোঝানো হয়েছে। পরের আয়াত বুঝতে কথাটি কাজে লাগে। পরের আয়াত এই মুখগুলোকে বলে নিজের চেষ্টায় সন্তুষ্ট, অথচ মুখ তো চেষ্টা করে না। চেষ্টা করে মানুষ, আর তার অবস্থা ফুটে ওঠে মুখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bliss That Shows",
+          "bn": "যে সুখ চেহারায় ফোটে"
+        },
+        "p": [
+          {
+            "en": "What does na'imah carry? At-Tabari reads it as faces blessed because Allah has given bliss to their people in His gardens, and he names who they are: the people of faith in Allah. Al-Qurtubi's first gloss is dhat ni'mah, possessed of blessing, and he too says these are the faces of the believers. He gives a reason for their glow: they were gladdened by what they saw of how their affair ended, and of their righteous work. Al-Baghawi relays Muqatil: in blessing and in honour.",
+            "bn": "নাইমাহ শব্দে কী আছে? তাবারীর ব্যাখ্যায় এ মুখগুলো সুখী, কারণ আল্লাহ তাঁর জান্নাতে এদের অধিকারীদের নিয়ামত দিয়েছেন। এরা কারা, তাও তিনি বলে দেন: আল্লাহর প্রতি ঈমান আনা মানুষ। কুরতুবীর প্রথম ব্যাখ্যা যাতু নি'মাহ, অর্থাৎ নিয়ামতের অধিকারী। তাঁর মতেও এগুলো মুমিনদের মুখ। এই ঔজ্জ্বল্যের কারণও তিনি দেন: নিজেদের পরিণতি আর নিজেদের নেক আমল চোখের সামনে দেখে তারা আনন্দিত। বাগাভী মুকাতিলের কথা উদ্ধৃত করেন: নিয়ামত আর সম্মানের মধ্যে।"
+          },
+          {
+            "en": "Ibn Kathir's gloss is that bliss is recognised in them, and he adds at once that they reached this only by their striving. The Muyassar says it plainly: the faces of the believers on the Day of Resurrection are possessed of blessing. As-Sa'di describes it more fully: the radiance of bliss has passed over them, so their bodies grew fresh, their faces shone, and their joy was complete. His phrase, nadrat an-na'im, is the Qur'an's own in 83:24: you will recognise in their faces the radiance of bliss.",
+            "bn": "ইবন কাসীরের ব্যাখ্যা: তাদের মুখে নিয়ামতের ছাপ চেনা যায়। সঙ্গে সঙ্গে তিনি যোগ করেন, এ অবস্থা তারা পেয়েছে কেবল নিজেদের চেষ্টার কারণে। মুয়াসসার সোজা কথায় বলে: কিয়ামতের দিন মুমিনদের মুখ হবে নিয়ামতে ভরা। সা'দী ছবিটা আরও খুলে আঁকেন। নিয়ামতের সজীবতা তাদের উপর বয়ে গেছে, ফলে দেহ হয়েছে সতেজ, মুখ হয়েছে আলোকিত, আর আনন্দ পৌঁছেছে চূড়ান্ত সীমায়। তাঁর ব্যবহৃত শব্দবন্ধ নাদরাতান নাঈম কুরআনেরই ভাষা, ৮৩:২৪ আয়াতে: তুমি তাদের চেহারায় নিয়ামতের সজীবতা চিনতে পারবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Content With Which Striving?",
+          "bn": "কোন চেষ্টায় সন্তুষ্টি?"
+        },
+        "p": [
+          {
+            "en": "Li-sa'yiha radiyah: with their striving, content. Two Arabic words, and the commentators ask what exactly the contentment looks at. At-Tabari gives the first answer as his own: content with the work they did in the world in obedience to their Lord. Then, under the words it is said, he records a second: content with the reward of their striving in the Hereafter. One reading looks back at the deed itself. The other looks at what the deed has brought.",
+            "bn": "লিসা'ইহা রাদিয়াহ: নিজেদের চেষ্টা-সাধনায় সন্তুষ্ট। আরবিতে মাত্র দুটি শব্দ, অথচ তাফসীরকারেরা প্রশ্ন তোলেন, সন্তুষ্টিটা ঠিক কীসের প্রতি। তাবারী প্রথম উত্তরটি দেন নিজের কথা হিসেবে: দুনিয়ায় রবের আনুগত্যে যে আমল তারা করেছে, তাতে তারা সন্তুষ্ট। তারপর 'বলা হয়' কথাটি জুড়ে দিয়ে দ্বিতীয় একটি মত আনেন: আখিরাতে নিজেদের চেষ্টার প্রতিদান পেয়ে তারা সন্তুষ্ট। প্রথম মত পেছন ফিরে আমলটির দিকেই তাকায়। দ্বিতীয় মত তাকায় আমলটি যা এনে দিয়েছে তার দিকে।"
+          },
+          {
+            "en": "Al-Qurtubi joins the two. Their striving is the work they did in the world, and they are content in the Hereafter when they have been given the Garden for their work. He then states the underlying sense: content with the reward of their striving. Al-Baghawi has almost the same two clauses, striving in the world and contentment in the Hereafter when the Garden was given. The Muyassar ties both ends together too: content in the Hereafter because of their striving in the world through acts of obedience.",
+            "bn": "কুরতুবী দুটিকে এক করেন। তাদের চেষ্টা মানে দুনিয়ায় করা আমল। আর আখিরাতে সেই আমলের বিনিময়ে যখন জান্নাত দেওয়া হলো, তখন তারা সন্তুষ্ট। এরপর তিনি বাক্যের ভেতরের অর্থটা খুলে বলেন: নিজেদের চেষ্টার প্রতিদানে সন্তুষ্ট। বাগাভীর কথাও প্রায় হুবহু, দুটি অংশেই: চেষ্টা দুনিয়ায়, আর সন্তুষ্টি আখিরাতে, যখন জান্নাত দেওয়া হলো। মুয়াসসারও দুই প্রান্ত এক সুতোয় বাঁধে: দুনিয়ায় আনুগত্যের কাজে চেষ্টার কারণে আখিরাতে তারা সন্তুষ্ট।"
+          },
+          {
+            "en": "Ibn Kathir quotes Sufyan: they are pleased with their deeds. As-Sa'di widens what the striving held: the righteous deeds the person sent ahead in the world, and kindness to the servants of Allah. Then he gives the reason for the contentment. The face found the reward of that striving stored up and multiplied, so it praised how things ended, and everything it had wished for came to it. In his gloss, striving includes the way a person treated other people.",
+            "bn": "ইবন কাসীর সুফিয়ানের ছোট্ট একটি কথা উদ্ধৃত করেন: তারা নিজেদের আমলে খুশি। সা'দী চেষ্টার পরিধি আরও বাড়িয়ে দেন। এর মধ্যে আছে দুনিয়ায় আগেভাগে পাঠানো নেক আমল, আর আল্লাহর বান্দাদের প্রতি সদাচরণ। তারপর তিনি সন্তুষ্টির কারণ বলেন। সেই চেষ্টার প্রতিদান মানুষটি জমা পেয়েছে, তাও বহুগুণ বাড়িয়ে। তাই শেষ ফলটির সে প্রশংসা করেছে, আর যা কিছু চেয়েছিল সবই পেয়েছে। তাঁর ব্যাখ্যায় তাই চেষ্টার মধ্যে পড়ে মানুষের সঙ্গে আচরণও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Giver and the Effort",
+          "bn": "দাতা আর চেষ্টা"
+        },
+        "p": [
+          {
+            "en": "Two kinds of phrase sit side by side here. Ibn Kathir says the faces reached their bliss only by their striving, and al-Qurtubi and al-Baghawi say the Garden was given to them for their work. At-Tabari's gloss on 88:8 puts the Giver first: the faces are blessed by Allah's giving of bliss to their people in His gardens. Neither cancels the other: the verse names the striving, the gloss names the Giver, and the commentators quoted here hold both.",
+            "bn": "এসব ব্যাখ্যায় দুই ধরনের কথা পাশাপাশি বসে আছে। ইবন কাসীর বলেন, এই মুখগুলো সুখ পেয়েছে কেবল নিজেদের চেষ্টার কারণে। কুরতুবী আর বাগাভী বলেন, আমলের বিনিময়ে তাদের জান্নাত দেওয়া হয়েছে। আবার ৮৮:৮ আয়াতের ব্যাখ্যায় তাবারী আগে আনেন দাতাকে: মুখগুলো সুখী, কারণ আল্লাহ তাঁর জান্নাতে এদের নিয়ামত দিয়েছেন। এক কথা অন্য কথাকে বাতিল করে না। আয়াত বলে চেষ্টার কথা, ব্যাখ্যা বলে দাতার কথা, আর এখানে উদ্ধৃত তাফসীরকারেরা দুটিকেই একসঙ্গে ধরে রাখেন।"
+          },
+          {
+            "en": "A single line of contrast is enough, since 88:2 to 88:7 have their own page: 88:3 calls those faces labouring and worn out, and these are content with their striving. The commentators do not leave this striving vague. They tie it to obedience to the Lord, to righteous deeds, and, in as-Sa'di's words, to kindness to Allah's servants. Much of it is small and unseen: a prayer guarded when tired, a debt paid on time, patience with a hard relative. Is mine the kind I would want shown on my face?",
+            "bn": "তুলনার জন্য একটি লাইনই যথেষ্ট, কারণ ৮৮:২ থেকে ৮৮:৭ আয়াতের আলোচনা আলাদা পাতায়। ৮৮:৩ আয়াত ওই মুখগুলোকে বলে খেটে খেটে ক্লান্ত, আর এগুলো নিজেদের চেষ্টায় সন্তুষ্ট। তাফসীরকারেরা এই চেষ্টাকে অস্পষ্ট রাখেন না। তাঁরা একে বাঁধেন রবের আনুগত্যের সঙ্গে, নেক আমলের সঙ্গে, আর সা'দীর ভাষায় আল্লাহর বান্দাদের প্রতি সদাচরণের সঙ্গে। এর বেশির ভাগই ছোট, চোখের আড়ালে: ক্লান্ত শরীরেও নামাজ রক্ষা করা, সময়মতো ঋণ শোধ করা, কঠিন স্বভাবের আত্মীয়ের সঙ্গে ধৈর্য ধরা। আমার চেষ্টা কি এমন, যা সেদিন চেহারায় ফুটে উঠুক বলে আমি চাইব?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "High in Place, High in Worth",
+          "bn": "স্থানে উঁচু, মর্যাদায় উঁচু"
+        },
+        "p": [
+          {
+            "en": "Fi jannatin 'aliyah: in a Garden set high. At-Tabari keeps it short: the jannah is a garden, and 'aliyah means raised. Ibn Kathir adds brightness and safety: raised and resplendent, and they are secure in the high chambers, wording close to the end of 34:37, wa-hum fi al-ghurufati aminun. The adjective can point to height of place or to height of worth. Some commentators leave the word general; others separate the two senses or join them.",
+            "bn": "ফী জান্নাতিন আলিয়াহ: উঁচু জান্নাতে। তাবারী সংক্ষেপে বলেন: জান্নাত মানে বাগান, আর আলিয়াহ মানে উঁচু। ইবন কাসীর এর সঙ্গে যোগ করেন দীপ্তি আর নিরাপত্তা: উঁচু ও ঝলমলে, আর তারা উঁচু প্রাসাদকক্ষে নিরাপদ। তাঁর এ কথাটি ৩৪:৩৭ আয়াতের শেষাংশের খুব কাছাকাছি: ওয়া হুম ফিল গুরুফাতি আমিনূন। আলিয়াহ বিশেষণটি স্থানের উচ্চতাও বোঝাতে পারে, মর্যাদার উচ্চতাও। কোনো কোনো তাফসীরকার শব্দটিকে সাধারণ অর্থে রেখে দেন, অন্যরা দুই অর্থ আলাদা করেন কিংবা একসঙ্গে বলেন।"
+          },
+          {
+            "en": "Al-Qurtubi gives both senses. First, raised, because the Garden is above the heavens, as he had set out earlier in his commentary. Then, under the words it is said, high in worth, because in it is whatever souls desire and eyes delight in, wording taken from 43:71. The Muyassar makes no choice and joins both in one phrase: a Garden high in place and in standing. Al-Baghawi's entry for 88:10 only restates the verse, and adds nothing on the word.",
+            "bn": "কুরতুবী দুটি অর্থই দেন। প্রথমে বলেন উঁচু, কারণ জান্নাত আসমানসমূহের উপরে, যেমনটা তিনি আগেই ব্যাখ্যা করেছেন। তারপর 'বলা হয়' কথাটি জুড়ে দিয়ে আনেন মর্যাদায় উঁচু অর্থটি, কারণ সেখানে আছে মন যা চায় আর চোখ যাতে তৃপ্তি পায়। এ ভাষা ৪৩:৭১ আয়াত থেকে নেওয়া। মুয়াসসার কোনোটি বেছে নেয় না, দুটিকে একটি শব্দবন্ধে বেঁধে দেয়: স্থানে ও মর্যাদায় উঁচু জান্নাত। ৮৮:১০ আয়াতে বাগাভীর ব্যাখ্যা শুধু আয়াতটিই আবার বলে, শব্দটি নিয়ে কিছু যোগ করে না।"
+          },
+          {
+            "en": "As-Sa'di explains the height through place and dwellings. Its location is the highest 'Illiyyin, he says, and its dwellings are lofty, with chambers built above chambers, from which the people look out over the honour Allah has prepared for them; the image of chambers above chambers is the wording of 39:20. He also draws in 69:23, its clusters hanging near: the fruit is easy to reach in whatever posture they are in, with no tree to climb. Height, in his reading, never puts anything out of reach.",
+            "bn": "সা'দী উচ্চতা ব্যাখ্যা করেন জায়গা আর বাসস্থান দিয়ে। তাঁর ভাষায়, জান্নাতের অবস্থান সর্বোচ্চ ইল্লিয়্যীনে। এর বাসস্থানগুলো উঁচু, কক্ষের উপর নির্মিত কক্ষ, যেখান থেকে জান্নাতবাসীরা আল্লাহর প্রস্তুত করে রাখা সম্মানের দিকে তাকিয়ে দেখে। কক্ষের উপর কক্ষের এই ছবি ৩৯:২০ আয়াতের ভাষা। তিনি ৬৯:২৩ আয়াতও টেনে আনেন: এর ফলের গুচ্ছ ঝুলে থাকবে নাগালের মধ্যে। যে অবস্থাতেই তারা থাকুক, ফল হাতের কাছে, গাছে চড়ার দরকার নেই। তাঁর ব্যাখ্যায় এই উচ্চতা কোনো কিছুকে নাগালের বাইরে নিয়ে যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is It That Hears?",
+          "bn": "কে শোনে, কী শোনা যায়"
+        },
+        "p": [
+          {
+            "en": "La tasma'u fiha laghiyah: in it they hear no idle word, or, in another reading, no idle word is heard in it. At-Tabari reports how the readers differed. The general body of Kufan readers, and among the Madinans Abu Ja'far, read tasma'u with an open ta: the faces do not hear. Ibn Kathir the Makkan reader, Nafi' and Abu 'Amr, he says, read tusma'u, with its doer left unnamed and the verb made feminine to match laghiyah. The unnamed-doer form with ya he records from Ibn Muhaysin.",
+            "bn": "লা তাসমাউ ফীহা লাগিয়াহ: সেখানে তারা কোনো অনর্থক কথা শুনবে না। অন্য এক কিরাআতে অর্থ দাঁড়ায়: সেখানে কোনো অনর্থক কথা শোনা যাবে না। কারীদের মধ্যে কী ভিন্নতা ছিল, তাবারী তা জানান। কূফার কারীদের অধিকাংশ, আর মদীনার কারীদের মধ্যে আবু জা'ফর, পড়েছেন তাসমাউ, তা-তে যবর দিয়ে। অর্থ: মুখগুলো শুনবে না। তাঁর বর্ণনায় মক্কার কারী ইবন কাসীর, নাফে' আর আবু আমর পড়েছেন তুসমাউ। এখানে শ্রোতার নাম নেই, আর লাগিয়াহ স্ত্রীলিঙ্গ বলে ক্রিয়াও স্ত্রীলিঙ্গ। শ্রোতার নাম ছাড়া ইয়া দিয়ে পড়ার রূপটি তিনি উল্লেখ করেন ইবন মুহাইসিন থেকে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi assign the forms differently. Al-Qurtubi has Abu 'Amr and Ibn Kathir reading la yusma'u, with ya and the doer unnamed, and Nafi' the same but with ta, because laghiyah is feminine; the ya is allowed, he explains, because the phrase fiha stands between verb and noun. Al-Baghawi gives the ya to the readers of Makkah and Basrah, with laghiyatun as subject, and the ta form to Nafi'. For Ibn Kathir and Abu 'Amr, then, at-Tabari has ta where these two have ya.",
+            "bn": "কুরতুবী আর বাগাভী রূপগুলো ভিন্নভাবে বণ্টন করেন। কুরতুবীর বর্ণনায় আবু আমর ও ইবন কাসীর পড়েছেন লা ইউসমাউ, ইয়া দিয়ে, শ্রোতার নাম ছাড়া। নাফে'-ও তাই পড়েছেন, তবে তা দিয়ে, কারণ লাগিয়াহ স্ত্রীলিঙ্গ। তিনি বলেন, ইয়া দিয়ে পড়া চলে, কারণ ক্রিয়া আর বিশেষ্যের মাঝে ফীহা শব্দটি দাঁড়িয়ে আছে। বাগাভী ইয়া-র কিরাআতটি দেন মক্কা ও বসরার কারীদের নামে, লাগিয়াতুন তখন কর্তা। আর তা-র রূপটি দেন নাফে'-কে। অর্থাৎ ইবন কাসীর ও আবু আমরের বেলায় তাবারী বলেন তা, আর এ দুজন বলেন ইয়া।"
+          },
+          {
+            "en": "Both give the remaining readers tasma'u with an open ta and laghiyatan as object, but they differ on who is addressed. Al-Qurtubi takes it as said of the faces: the faces will not hear an idle word there. Al-Baghawi takes it as address to the Prophet ﷺ: you will not hear. At-Tabari, like al-Qurtubi, makes the faces, meaning their owners, the ones who hear. His verdict on the forms is generous: all are known readings, sound in meaning, and whichever a reader recites, he is right.",
+            "bn": "বাকি কারীদের কিরাআত দুজনেই দেন তাসমাউ, তা-তে যবর, আর লাগিয়াতান কর্ম। তবে সম্বোধন কার প্রতি, তা নিয়ে তাঁরা ভিন্ন। কুরতুবীর মতে কথাটি মুখগুলো সম্পর্কে: সেখানে মুখগুলো কোনো অনর্থক কথা শুনবে না। বাগাভীর মতে এ সম্বোধন নবী ﷺ-এর প্রতি: তুমি শুনবে না। তাবারীও কুরতুবীর মতো শ্রোতা বানান মুখগুলোকে, অর্থাৎ মুখের অধিকারীদের। কিরাআতগুলো নিয়ে তাঁর রায় উদার: সবগুলোই পরিচিত কিরাআত, অর্থেও সঠিক। কারী যেটিই পড়ুন, তিনি ঠিক পড়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word the Garden Lacks",
+          "bn": "যে কথা জান্নাতে নেই"
+        },
+        "p": [
+          {
+            "en": "What is the laghiyah that is never heard? At-Tabari says it is a word of laghw, and laghw is falsehood. The form names a word by what it carries, he explains, as Arabs call the man with a coat of mail dari' and the man with a horse faris. Some Kufans, he reports, read it as one who swears falsely. He grants that view a basis, but sets it aside because the interpreters among the Companions and Followers held otherwise, and no one may depart from what they agreed on.",
+            "bn": "যে লাগিয়াহ কখনো কানে আসবে না, সেটা কী? তাবারী বলেন, লাগিয়াহ মানে লাগওয়ের কথা, আর লাগও মানে বাতিল, অসার মিথ্যা। তাঁর ব্যাখ্যায় শব্দটি কোনো কথাকে নাম দেয় তার ভেতরের জিনিস দিয়ে, আরবরা যেমন বর্মধারীকে বলে দারি', আর ঘোড়ার মালিককে বলে ফারিস। তিনি জানান, কূফার কিছু লোক এর অর্থ করেছেন মিথ্যা কসমকারী। তাবারী মতটির একটা ভিত্তি মানেন, কিন্তু গ্রহণ করেন না। কারণ সাহাবি ও তাবেঈ মুফাসসিরগণ এর বিপরীত মত দিয়েছেন, আর তাঁরা যে বিষয়ে একমত, তার বিরোধিতা কারও জন্য বৈধ নয়।"
+          },
+          {
+            "en": "The early interpreters he cites name the content. From Ibn 'Abbas (RA): no harm and no falsehood. From Mujahid: abuse. From Qatada: neither falsehood nor anyone who abuses. Al-Qurtubi lists six views, and his report from Ibn 'Abbas (RA) differs in wording: lies, slander and disbelief in Allah. Qatada in his list: no falsehood and no sin. Mujahid: abuse. Al-Hasan: disobedience. Al-Farra': someone swearing a lying oath; al-Kalbi: no oath at all, true or false. Al-Farra' again: no idle word in their speech, since they speak only wisdom and praise of Allah.",
+            "bn": "তাবারী যেসব প্রাচীন মুফাসসিরের কথা আনেন, তাঁরা বিষয়বস্তুর নাম বলেন। ইবন আব্বাস (রাঃ): কোনো কষ্টদায়ক কথা নয়, কোনো বাতিলও নয়। মুজাহিদ: গালি। কাতাদা: না বাতিল, না কোনো গালিদাতা। কুরতুবী ছয়টি মত গুনে দেন, আর তাঁর বর্ণনায় ইবন আব্বাস (রাঃ)-এর কথার ভাষা ভিন্ন: মিথ্যা, অপবাদ আর আল্লাহর সঙ্গে কুফরি। তাঁর তালিকায় কাতাদা: না বাতিল, না গুনাহ। মুজাহিদ: গালি। হাসান: নাফরমানি। ফাররা: মিথ্যা কসমকারী। কালবী: সত্য-মিথ্যা কোনো কসমই নয়। আবার ফাররা: তাদের কথায় কোনো অনর্থক শব্দ নেই, কারণ তারা কেবল হিকমতের কথা বলে আর আল্লাহর প্রশংসা করে।"
+          },
+          {
+            "en": "Al-Qurtubi judges that last view the best, because it takes in all the others. As-Sa'di arrives at a similar place: not even a word of idle talk and falsehood is heard there, let alone forbidden speech. Their talk is good and beneficial, he says, full of the remembrance of Allah and His continuing favours, and of the courtesy companions show one another, talk that gladdens hearts and opens the chest. Ma'arif al-Qur'an lists words of disbelief, futile talk, obscene language, calumny and anything that hurts people's feelings.",
+            "bn": "কুরতুবী শেষ মতটিকেই সবচেয়ে ভালো বলেন, কারণ এটি বাকি সবগুলোকে ধারণ করে। সা'দীও কাছাকাছি জায়গায় পৌঁছান। সেখানে অনর্থক বা বাতিল একটি কথাও শোনা যাবে না, হারাম কথা তো দূরের কথা। তাঁর বর্ণনায় জান্নাতবাসীদের কথা সুন্দর ও উপকারী। তাতে থাকে আল্লাহর জিকির, তাঁর অবিরাম নিয়ামতের আলোচনা, আর একসঙ্গে থাকা মানুষদের পরস্পরের প্রতি সুন্দর আদব। এমন কথা মনকে খুশি করে, বুক প্রশস্ত করে। মাআরিফুল কুরআন তালিকা দেয়: কুফরি কথা, অর্থহীন কথা, অশ্লীল ভাষা, অপবাদ, আর মানুষের মনে কষ্ট দেয় এমন যেকোনো কথা।"
+          },
+          {
+            "en": "Ibn Kathir explains the verse through three others: 19:62, they hear no idle talk there, only peace; 52:23, no idle talk in it and no sin; and 56:25 and 56:26, which end on the words salaman salaman. Ma'arif al-Qur'an also cites 56:25 and draws from it that false accusation and absurd talk wound, which is why their absence is counted a blessing. The quiet of the Garden is not empty: in 19:62 and 56:26, peace fills it.",
+            "bn": "ইবন কাসীর আয়াতটি বোঝান আরও তিনটি আয়াত দিয়ে। ১৯:৬২: সেখানে তারা কোনো অনর্থক কথা শুনবে না, শুধু সালাম। ৫২:২৩: সেখানে না আছে অনর্থক কথা, না গুনাহ। আর ৫৬:২৫ ও ৫৬:২৬, যার শেষ শব্দ সালামান সালামা। মাআরিফুল কুরআনও ৫৬:২৫ উদ্ধৃত করে, আর সেখান থেকে সিদ্ধান্ত টানে যে মিথ্যা অপবাদ আর অর্থহীন কথা মানুষকে আঘাত করে। এজন্যই এসব না থাকাকে জান্নাতবাসীদের জন্য নিয়ামত গণ্য করা হয়েছে। জান্নাতের এই নীরবতা ফাঁকা নয়। ১৯:৬২ আর ৫৬:২৬ বলছে, সেখানে ভরে থাকে সালাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Practising That Speech Now",
+          "bn": "সেই ভাষার চর্চা এখনই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for 88:8 to 88:11 attaches a hadith to these verses, so this page quotes none. The verses describe one outcome on the Day the surah calls al-ghashiyah, and like the scene before them they name a state, not a person or group a reader could point to. They license no judgement on any living person or community, in either direction. They speak to the one reading them, about his or her own face, own striving and own speech.",
+            "bn": "৮৮:৮ থেকে ৮৮:১১ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতগুলোর সঙ্গে কোনো হাদিস যুক্ত করেনি। তাই এ পাতাও কোনো হাদিস উদ্ধৃত করছে না। আয়াতগুলো এমন এক দিনের একটি পরিণতির বর্ণনা, যাকে সূরাটি বলে আল-গাশিয়াহ। আগের দৃশ্যের মতো এখানেও আছে একটি অবস্থার কথা, এমন কোনো মানুষ বা দলের নাম নয়, যার দিকে পাঠক আঙুল তুলতে পারে। কোনো জীবিত মানুষ বা সম্প্রদায় সম্পর্কে, ভালো বা মন্দ, কোনো রায় দেওয়ার অনুমতি এ আয়াতগুলো দেয় না। এগুলো কথা বলে পাঠকের সঙ্গেই: তার নিজের মুখ, নিজের চেষ্টা আর নিজের কথা নিয়ে।"
+          },
+          {
+            "en": "Three practices follow. Look at this week's striving with one question: will I be content with it on that Day? Choose one act of obedience, or one kindness to another of Allah's servants, that costs something, since that is the striving the commentators name. And begin now to keep the tongue and the ear from what the Garden will not hold: falsehood, abuse, careless oaths and talk that hurts. The speech of the Garden, remembrance and peace, can be practised long before it is reached.",
+            "bn": "এখান থেকে তিনটি অনুশীলন আসে। এ সপ্তাহের চেষ্টাগুলোর দিকে একটি প্রশ্ন নিয়ে তাকান: সেদিন কি এতে আমি সন্তুষ্ট থাকব? এমন একটি আনুগত্যের কাজ, কিংবা আল্লাহর কোনো বান্দার প্রতি এমন একটি সদাচরণ বেছে নিন, যাতে কিছু খরচ হয়, কারণ তাফসীরকারেরা এই চেষ্টার কথাই বলেন। আর এখন থেকেই জিভ ও কানকে দূরে রাখুন সেসব থেকে, যার জায়গা জান্নাতে নেই: মিথ্যা, গালি, হেলাফেলার কসম আর কষ্ট দেওয়া কথা। জিকির আর সালাম, জান্নাতের এই ভাষা সেখানে পৌঁছানোর অনেক আগে থেকেই চর্চা করা যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "88:12": {
     "sections": [
       {
