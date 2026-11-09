@@ -315,6 +315,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "86:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Witnesses, Three Words Each",
+          "bn": "দুই সাক্ষী, তিন শব্দের দুই আয়াত"
+        },
+        "p": [
+          {
+            "en": "Wa-s-sama'i dhati ar-raj': by the sky that has the returning. The next verse completes the pair: wa-l-ardi dhati as-sad', and by the earth that has the splitting. Each verse is three words in the Arabic text, and both are built the same way: the wa of an oath, a part of creation, then dhat, possessor of, followed by a single noun. The surah opened in 86:1 with an oath by the sky and at-tariq. Here the sky returns, this time beside the earth, and each is named by one thing it does.",
+            "bn": "ওয়াস সামাই যাতির রাজ': শপথ সেই আকাশের, যার আছে ফিরে আসা। পরের আয়াত জোড়াটা পূর্ণ করে: ওয়াল আরদি যাতিস সাদ', আর শপথ সেই জমিনের, যার আছে ফেটে যাওয়া। আরবি পাঠে দুটি আয়াতই তিনটি শব্দের, গড়নও এক। প্রথমে শপথের ওয়া, তারপর সৃষ্টির একটি অংশ, তারপর যাত, মানে অধিকারী, আর শেষে একটিমাত্র বিশেষ্য। সূরার শুরুতে ৮৬:১ আয়াতে শপথ ছিল আকাশ আর তারিকের। এখানে আকাশ আবার ফিরে এসেছে, এবার জমিনের পাশে। দুটোকেই চেনানো হয়েছে তাদের একটি করে কাজ দিয়ে।"
+          },
+          {
+            "en": "The commentators mark the shift. As-Sa'di writes that Allah then swore a second oath on the truthfulness of the Qur'an, and he explains the two verses together. Al-Baghawi opens his note with the words then He mentioned another oath, and al-Qurtubi closes his note on 86:11 with: and this is an oath. The Muyassar explains 86:11 to 86:14 as one passage. The oath's answer is 86:13, the decisive word, which has its own entry; this article stays with the two witnesses and what each word names.",
+            "bn": "তাফসীরকারেরা এই মোড়টা চিহ্নিত করেছেন। সা'দী লেখেন, এরপর আল্লাহ কুরআনের সত্যতার উপর দ্বিতীয় একটি শপথ করলেন। দুটি আয়াতের ব্যাখ্যাও তিনি দেন একসঙ্গে। বাগাভী তাঁর আলোচনা শুরু করেন এই বলে: তারপর তিনি আরেকটি শপথ উল্লেখ করলেন। কুরতুবী ৮৬:১১-এর আলোচনা শেষ করেন এক বাক্যে: আর এটি একটি শপথ। মুয়াসসার ৮৬:১১ থেকে ৮৬:১৪ পর্যন্ত একটানা ব্যাখ্যা করে। শপথের জবাব ৮৬:১৩ আয়াতে, সেই চূড়ান্ত বাণী, যার আলাদা আলোচনা আছে। এ লেখা থাকবে শুধু দুই সাক্ষী আর তাদের দুই শব্দের অর্থ নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Poets Used for Rain",
+          "bn": "কবিদের ভাষায় বৃষ্টির নাম"
+        },
+        "p": [
+          {
+            "en": "Raj' is a verbal noun from the root r-j-', to return. Al-Qurtubi reports that the people of language said raj' means rain, and he quotes al-Khalil: raj' is the rain itself, and raj' is also the plants of spring. He adds that rain is sometimes called awb, another word for coming back, just as it is called raj'. He cites a line of poetry about a lofty peak whose summit nothing reaches except the clouds, the awb and the downpour. On this account, Arabic already named rain by a word for return.",
+            "bn": "রাজ' শব্দটি এসেছে র-জ-আ ধাতু থেকে, যার অর্থ ফিরে আসা। কুরতুবী জানান, ভাষাবিদেরা বলেছেন রাজ' মানে বৃষ্টি। খলীলের কথাও তিনি তুলে আনেন: রাজ' হলো খোদ বৃষ্টি, আবার বসন্তের গাছগাছালিকেও রাজ' বলা হয়। কুরতুবী আরও বলেন, বৃষ্টিকে যেমন রাজ' বলা হয়, তেমনি কখনো আওবও বলা হয়, আর আওব শব্দেও আছে ফিরে আসার অর্থ। প্রমাণ হিসেবে তিনি একটি কবিতার চরণ আনেন। তাতে এক উঁচু চূড়ার বর্ণনা, যার শিখরে মেঘ, আওব আর মুষলধারা ছাড়া কিছুই পৌঁছায় না। এই হিসাবে আরবি ভাষা বৃষ্টিকে আগে থেকেই ফিরে আসার একটি শব্দে ডাকত।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi both cite a line by al-Mutanakhkhil that describes a sword as white like the raj'. Al-Qurtubi explains that the poet likens the sword to water. Such a simile only works if raj' already meant rain to the listener. At-Tabari sets the line straight after his own paraphrase, introducing it with wa-minhu, and of this usage is. The word, then, was not coined by the commentators to fit the verse. It was a usage they could point to in the poetry the Arabs already knew.",
+            "bn": "তাবারী ও কুরতুবী দুজনেই মুতানাখখিলের একটি চরণ উদ্ধৃত করেন, যেখানে একটি তলোয়ারকে বলা হয়েছে রাজ'-এর মতো সাদা। কুরতুবী বুঝিয়ে দেন, কবি তলোয়ারকে পানির সঙ্গে তুলনা করেছেন। এমন উপমা তখনই খাটে, যখন শ্রোতার কাছে রাজ' মানেই বৃষ্টি। তাবারী নিজের ব্যাখ্যার ঠিক পরেই চরণটি বসান, ওয়া মিনহু বলে, অর্থাৎ এ ব্যবহারেরই নমুনা। কাজেই আয়াতের সঙ্গে মেলাতে তাফসীরকারেরা শব্দটি বানিয়ে নেননি। আরবদের চেনা কবিতাতেই এ ব্যবহার ছিল, আর তাঁরা সেদিকেই আঙুল তুলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain After Rain",
+          "bn": "বৃষ্টির পরে বৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the main reading in a line: the sky that has rain, returning every year with rain after rain, and he says this is what the general body of commentators said. Al-Baghawi agrees, calling it the sky of rain because rain returns every year and repeats. Ibn Kathir's Arabic gathers three reports from Ibn 'Abbas: raj' is rain; it is the clouds that hold rain; and, of the whole phrase, it rains and then rains again. The Muyassar's gloss is short: the sky of repeated rain.",
+            "bn": "কুরতুবী মূল ব্যাখ্যাটা দেন এক লাইনে: বৃষ্টির অধিকারী আকাশ, যা প্রতি বছর বৃষ্টির পর বৃষ্টি নিয়ে ফিরে আসে। তিনি জানান, সাধারণভাবে তাফসীরকারেরা এ কথাই বলেছেন। বাগাভীও একমত। তাঁর ভাষায় এটি বৃষ্টির আকাশ, কারণ বৃষ্টি প্রতি বছর ফিরে আসে, বারবার হয়। ইবন কাসীরের আরবি তাফসীরে ইবন আব্বাস (রাঃ) থেকে তিনটি বর্ণনা একসঙ্গে পাওয়া যায়। রাজ' মানে বৃষ্টি। রাজ' মানে বৃষ্টিভরা মেঘ। আর পুরো বাক্যাংশের অর্থ, বৃষ্টি হয়, তারপর আবার বৃষ্টি হয়। মুয়াসসারের ব্যাখ্যা সংক্ষিপ্ত: বারবার বৃষ্টি দেওয়া আকাশ।"
+          },
+          {
+            "en": "At-Tabari supplies the chains. Through 'Ikrimah, Ibn 'Abbas said: the clouds with rain in them, and in a second wording, the sky that has clouds with rain in them. Through another chain he said raj' means the drops of rain and provision, every year. Ad-Dahhak said simply: rain. Mujahid described the movement: the clouds rain, then return with rain. Al-Baghawi likewise reports Ibn 'Abbas: it is the clouds that return with rain. Ma'arif al-Qur'an keeps to the same picture, rain that comes down, stops, and then returns.",
+            "bn": "বর্ণনার সূত্রগুলো দেন তাবারী। ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) বলেছেন: বৃষ্টিভরা মেঘ। আরেক শব্দে: বৃষ্টিভরা মেঘের অধিকারী আকাশ। ভিন্ন এক সূত্রে তিনি বলেছেন, রাজ' মানে বৃষ্টির ফোঁটা আর রিযিক, প্রতি বছর। দাহহাক বলেছেন শুধু একটি শব্দ: বৃষ্টি। মুজাহিদ বর্ণনা করেছেন চলাচলটা: মেঘ বৃষ্টি ঝরায়, তারপর বৃষ্টি নিয়ে আবার ফিরে আসে। বাগাভীও ইবন আব্বাস (রাঃ) থেকে একই কথা আনেন: এ সেই মেঘ, যা বৃষ্টি নিয়ে ফিরে আসে। মাআরিফুল কুরআনের ছবিটাও এক। বৃষ্টি নামে, থামে, তারপর আবার ফিরে আসে।"
+          },
+          {
+            "en": "Two shades sit inside this agreement. One places the return in the rain itself, coming back season after season. The other places it in the clouds, which empty and come back full. Ibn 'Abbas is reported with both, and the books set them side by side without ranking one over the other. This article does not turn Mujahid's few words into a lesson in physics or a modern theory of water. He describes what anyone who watches the sky can see, and that is all the text attributes to him.",
+            "bn": "এই ঐকমত্যের ভেতরেও দুটি সূক্ষ্ম ভিন্নতা আছে। একটি মতে ফিরে আসাটা খোদ বৃষ্টির, মৌসুমের পর মৌসুম যা ফিরে আসে। অন্য মতে ফিরে আসাটা মেঘের, যা খালি হয়ে আবার ভরা অবস্থায় ফেরে। ইবন আব্বাস (রাঃ) থেকে দুটো কথাই বর্ণিত, আর কিতাবগুলো একটিকে অন্যটির উপর প্রাধান্য না দিয়ে পাশাপাশি রেখেছে। মুজাহিদের এই অল্প কথাকে এ লেখা পদার্থবিদ্যার পাঠ বা পানি নিয়ে কোনো আধুনিক তত্ত্ব বানাবে না। আকাশের দিকে যে-ই তাকায়, সে যা দেখে, মুজাহিদ সেটুকুই বলেছেন। তাঁর নামে পাঠে এর বেশি কিছু নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Provision Sent Back Each Year",
+          "bn": "প্রতি বছর ফেরত আসা রিযিক"
+        },
+        "p": [
+          {
+            "en": "Several of the early authorities hear raj' less as weather than as livelihood. Qatadah, in at-Tabari's chain through Sa'id, said: it returns with the provision of the servants every year, and were it not for that they would perish and their livestock would perish. Ibn Kathir's Arabic carries the same words from Qatadah. Through Ma'mar, Qatadah is reported more briefly: it returns with the ghayth, the rain, every year. Al-Hasan said: it returns with people's provisions every year. For these men, the sky gives back a living.",
+            "bn": "প্রথম যুগের কয়েকজন রাজ' শব্দে আবহাওয়ার চেয়ে জীবিকার কথাই বেশি শুনেছেন। সাঈদের সূত্রে তাবারী কাতাদার কথা আনেন: আকাশ প্রতি বছর বান্দাদের রিযিক নিয়ে ফিরে আসে। তা না হলে তারা ধ্বংস হয়ে যেত, তাদের গবাদি পশুও ধ্বংস হতো। ইবন কাসীরের আরবি তাফসীরেও কাতাদার এই কথাই আছে। মা'মারের সূত্রে কাতাদার কথা আরও ছোট: আকাশ প্রতি বছর গাইস, অর্থাৎ বৃষ্টি, নিয়ে ফিরে আসে। হাসান বলেছেন: প্রতি বছর মানুষের রিযিক নিয়ে ফিরে আসে। তাঁদের চোখে আকাশ ফিরিয়ে দেয় মানুষের জীবিকা।"
+          },
+          {
+            "en": "Abu Raja', who narrated al-Hasan's words, adds that 'Ikrimah was asked about the verse and said: it came back with the rain. At-Tabari's own paraphrase joins the two strands, the sky returning with the clouds and with the provisions of the servants every year. He says the people of interpretation said something like this, then lists the reports above. As-Sa'di draws out the consequence. The sky returns with rain every year and the earth splits for plants, and by that, he says, human beings and animals live.",
+            "bn": "হাসানের কথাটি যিনি বর্ণনা করেছেন, সেই আবু রাজা যোগ করেন: ইকরিমাকে আয়াতটি সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেছিলেন, আকাশ বৃষ্টি নিয়ে ফিরে এসেছে। তাবারী নিজের ব্যাখ্যায় দুটি ধারাকে এক করেছেন। তাঁর ভাষায়, আকাশ প্রতি বছর মেঘ নিয়ে আর বান্দাদের রিযিক নিয়ে ফিরে আসে। তিনি বলেন, ব্যাখ্যাকারেরা এ রকমই বলেছেন, তারপর উপরের বর্ণনাগুলো সাজিয়ে দেন। সা'দী এর ফলটা স্পষ্ট করেন। আকাশ প্রতি বছর বৃষ্টি নিয়ে ফেরে, জমিন ফেটে চারা বের হয়, আর তাঁর ভাষায়, এতেই মানুষ আর পশুপাখি বেঁচে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sky's Other Returns",
+          "bn": "আকাশের আরও কিছু ফিরে আসা"
+        },
+        "p": [
+          {
+            "en": "A minority reading moves the return from rain to the heavenly bodies. At-Tabari introduces it with and others said: its sun and moon set and rise. He gives it from Ibn Zayd, who said: its sun, its moon and its stars come from here. Ibn Kathir reports the same from Ibn Zayd, with the verb return: its stars, sun and moon return. Al-Qurtubi words Ibn Zayd's view as the sun, moon and stars returning in the sky, rising from one side and setting in another. At-Tabari lists this view after the rain reports.",
+            "bn": "অল্প কয়েকজনের মতে ফিরে আসাটা বৃষ্টির নয়, আকাশের জ্যোতিষ্কগুলোর। তাবারী এ মতটি আনেন 'অন্যরা বলেছেন' বলে: আকাশের সূর্য আর চাঁদ অস্ত যায়, আবার ওঠে। মতটি তিনি দেন ইবন যায়দ থেকে। ইবন যায়দ বলেছেন: এর সূর্য, চাঁদ আর তারাগুলো এদিক থেকে আসে। ইবন কাসীরও ইবন যায়দ থেকে একই কথা আনেন, তবে 'ফিরে আসে' ক্রিয়াটি দিয়ে: এর তারা, সূর্য আর চাঁদ ফিরে ফিরে আসে। কুরতুবীর ভাষায় ইবন যায়দের মত এই: সূর্য, চাঁদ আর তারা আকাশে ফিরে ফিরে আসে, এক দিক থেকে ওঠে, অন্য দিকে ডোবে। তাবারী এই মতটি রেখেছেন বৃষ্টির বর্ণনাগুলোর পরে।"
+          },
+          {
+            "en": "Al-Qurtubi records two more readings without naming who held them. One, introduced with it is said, takes dhat ar-raj' as the sky that has benefit. The other takes it as the sky of the angels, because they return to it with the deeds of the servants. As-Sa'di, after the rain, adds a sense of his own: the sky also returns with the divine decrees and affairs at every moment. None of these commentators rejects the rain reading. The other senses are set down beside it, and this article leaves them there.",
+            "bn": "কুরতুবী আরও দুটি মত লিখেছেন, কারা বলেছেন তা উল্লেখ না করে। 'বলা হয়' দিয়ে শুরু হওয়া প্রথম মতে যাতির রাজ' মানে উপকারের অধিকারী আকাশ। দ্বিতীয় মতে এটি ফেরেশতাদের আকাশ, কারণ বান্দাদের আমল নিয়ে তাঁরা সেখানে ফিরে যান। সা'দী বৃষ্টির কথা বলার পর নিজের একটি অর্থ যোগ করেন। আকাশ প্রতিটি মুহূর্তে আল্লাহর ফয়সালা আর নানা বিষয় নিয়েও ফিরে আসে। এই তাফসীরকারদের কেউই বৃষ্টির ব্যাখ্যা নাকচ করেননি। অন্য অর্থগুলো তাঁরা পাশে রেখেছেন, এ লেখাও সেগুলো সেখানেই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground That Opens for Growth",
+          "bn": "চারার জন্য খুলে যাওয়া মাটি"
+        },
+        "p": [
+          {
+            "en": "Then the second witness: wa-l-ardi dhati as-sad'. Al-Qurtubi defines sad' as shaqq, splitting, and reads the verse as another oath: the earth splits open from plants, trees, fruits and rivers. He cites as a parallel 80:26, then We split the earth open. He adds a neat turn: it is as though He said the earth of plants, because the plant is what splits the earth. Al-Baghawi gives almost the same list. In his words, the earth splits and cracks open from plants, trees and rivers.",
+            "bn": "তারপর দ্বিতীয় সাক্ষী: ওয়াল আরদি যাতিস সাদ'। কুরতুবী সাদ'-এর অর্থ দেন শাক্ক, অর্থাৎ ফাটল। আয়াতটিকে তিনি আরেকটি শপথ হিসেবে পড়েন: জমিন ফেটে বের হয় চারাগাছ, বৃক্ষ, ফলমূল আর নদী। সমার্থক আয়াত হিসেবে তিনি আনেন ৮০:২৬, তারপর আমি জমিনকে বিদীর্ণ করেছি। তিনি একটি সুন্দর কথাও যোগ করেন। যেন বলা হয়েছে, গাছপালার অধিকারী জমিন, কারণ চারাগাছই তো মাটি ফাটিয়ে বের হয়। বাগাভীর তালিকাও প্রায় এক। তাঁর ভাষায়, জমিন ফেটে চৌচির হয়ে বের হয় চারা, গাছ আর নদী।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic reports Ibn 'Abbas: it is the earth splitting open from plants, and says the same was said by Sa'id ibn Jubayr, 'Ikrimah, Abu Malik, ad-Dahhak, al-Hasan, Qatadah, as-Suddi and more than one other. At-Tabari's paraphrase is the earth that has the splitting with plants. His chains give Ibn 'Abbas saying the earth that has plants, and by another chain, its splitting is bringing out plants every year. Qatadah said it splits from fruits and plants, adding: as you have seen. The Muyassar speaks of the earth cracking with the plants that pass through it.",
+            "bn": "ইবন কাসীরের আরবি তাফসীরে ইবন আব্বাস (রাঃ)-এর কথা: এ হলো চারাগাছ বের করতে জমিনের ফেটে যাওয়া। তিনি জানান, সাঈদ ইবন জুবাইর, ইকরিমা, আবু মালিক, দাহহাক, হাসান, কাতাদা, সুদ্দী এবং আরও অনেকে একই কথা বলেছেন। তাবারীর ব্যাখ্যা: চারাগাছ নিয়ে ফেটে যাওয়ার অধিকারী জমিন। তাঁর সূত্রগুলোতে ইবন আব্বাস (রাঃ) বলেন, গাছপালার অধিকারী জমিন। আরেক সূত্রে বলেন, জমিনের ফাটল মানে প্রতি বছর চারা বের করে দেওয়া। কাতাদা বলেছেন, জমিন ফেটে ফলমূল আর চারাগাছ বের হয়, তারপর যোগ করেছেন: যেমন তোমরা দেখেছ। মুয়াসসার বলে, জমিন ফাটে, আর সেই ফাটল দিয়ে চারাগাছ বেরিয়ে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Passes, Furrows and the Dead",
+          "bn": "গিরিপথ, লাঙলের রেখা আর কবর"
+        },
+        "p": [
+          {
+            "en": "Other glosses widen the picture. Al-Hasan said: this splits from what is beneath it; and 'Ikrimah, asked about it, said: this splits from provision. Ibn Zayd recited 80:26 to 80:28, then We split the earth open, and caused grain to grow in it, and grapes and herbage, and said: its splitting is for tillage. Al-Qurtubi also records the tillage reading, introduced with it is said, because ploughing splits the earth. Each of these keeps the earth's opening tied to food and to the work of the people who live on it.",
+            "bn": "অন্য কিছু ব্যাখ্যা ছবিটাকে আরও বড় করে। হাসান বলেছেন: জমিন ফেটে বের করে দেয় তার নিচে যা আছে। আর ইকরিমাকে জিজ্ঞেস করা হলে তিনি বলেছেন: জমিন ফেটে রিযিক বের হয়। ইবন যায়দ পড়েছেন ৮০:২৬ থেকে ৮০:২৮ আয়াত: তারপর আমি জমিনকে বিদীর্ণ করেছি, তাতে উৎপন্ন করেছি শস্য, আঙুর আর শাকসবজি। তারপর বলেছেন, জমিনের ফাটল মানে চাষাবাদের জন্য ফাটল। 'বলা হয়' দিয়ে কুরতুবীও চাষের ব্যাখ্যাটি লিখেছেন, কারণ লাঙল মাটি চিরে দেয়। এই সব ব্যাখ্যাতেই জমিনের খুলে যাওয়া বাঁধা আছে খাবারের সঙ্গে, আর সেই মানুষদের শ্রমের সঙ্গে, যারা এ মাটিতে বাস করে।"
+          },
+          {
+            "en": "Mujahid is reported in two different ways. In at-Tabari's two chains he says the sad' is like the ma'zim, the narrow pass, of Mina, and in one wording adds: not the valleys and not the eroded banks. In al-Qurtubi he says it is the earth that has paths, which those who walk cut into it. Both make the splitting a feature of the land's shape rather than its growth. They are still not the same description, and each is kept here as its own book gives it, without one being used to correct the other.",
+            "bn": "মুজাহিদের কথা পাওয়া যায় দুই রকমে। তাবারীর দুটি সূত্রে তিনি বলেন, সাদ' হলো মিনার মা'যিমের মতো, অর্থাৎ সরু গিরিপথের মতো। এক বর্ণনায় যোগ করেন: উপত্যকা নয়, ক্ষয়ে যাওয়া পাড়ও নয়। কুরতুবীর বর্ণনায় তিনি বলেন, এ সেই জমিন, যাতে পথ আছে, আর পথচারীরা হেঁটে হেঁটে সে পথ কেটে ফেলে। দুটো ব্যাখ্যাতেই ফাটল জমিনের গড়নের অংশ, উদ্ভিদের ব্যাপার নয়। তবু বর্ণনা দুটো এক নয়। এখানে প্রতিটি রাখা হলো তার নিজের কিতাবে যেমন আছে তেমন, একটি দিয়ে অন্যটিকে সংশোধন না করে।"
+          },
+          {
+            "en": "A further reading reaches past this life. Al-Qurtubi records, again with it is said, that this is the earth of the dead, because it splits away from them at the raising. As-Sa'di, after the plants, says in his own voice that the earth also splits open from the dead. A reader will recall that 86:8 has just said Allah is able to bring man back. Neither commentator links the two verses in the text fetched for this entry, so this article only places them side by side and claims no more.",
+            "bn": "আরেকটি ব্যাখ্যা এই জীবনের সীমা পেরিয়ে যায়। কুরতুবী আবার 'বলা হয়' দিয়ে লিখেছেন, এটি মৃতদের জমিন, কারণ পুনরুত্থানের সময় তাদের সামনে জমিন ফেটে যাবে। সা'দী চারাগাছের কথা বলার পর নিজের ভাষায় বলেন, জমিন মৃতদের জন্যও ফেটে যায়। পাঠকের মনে পড়বে, ৮৬:৮ আয়াত এইমাত্র বলেছে, আল্লাহ মানুষকে ফিরিয়ে আনতে সক্ষম। তবে এ আলোচনার জন্য সংগৃহীত পাঠে দুই তাফসীরকারের কেউই আয়াত দুটিকে জোড়া লাগাননি। তাই এ লেখা শুধু দুটোকে পাশাপাশি রাখছে, এর বেশি কিছু দাবি করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Witnesses We Lean On",
+          "bn": "যাদের উপর আমরা ভর দিই"
+        },
+        "p": [
+          {
+            "en": "No commentary consulted here attaches a hadith or an occasion of revelation to 86:11 or 86:12, and none is supplied. The Muyassar adds to this passage its ruling that a creature may swear only by Allah, a point already treated under 85:1. What remains is the plain force of the two witnesses. Rain and split soil are not distant wonders. Qatadah's words put the stakes simply: without that yearly return, people and their animals would perish. The oath calls as witness the very things a life depends on.",
+            "bn": "এখানে দেখা কোনো তাফসীর ৮৬:১১ বা ৮৬:১২ আয়াতের সঙ্গে কোনো হাদীস বা শানে নুযূল জুড়ে দেয়নি, তাই এ লেখাতেও তা আনা হয়নি। মুয়াসসার এ অংশে বিধানটি যোগ করে যে সৃষ্টি কেবল আল্লাহর নামেই শপথ করতে পারে। বিষয়টি ৮৫:১ আয়াতের আলোচনায় এসে গেছে। বাকি থাকে দুই সাক্ষীর সাদামাটা জোর। বৃষ্টি আর ফাটা মাটি দূরের কোনো বিস্ময় নয়। কাতাদার কথায় বিষয়টা পরিষ্কার: প্রতি বছরের এই ফিরে আসা না থাকলে মানুষ আর তাদের পশু ধ্বংস হয়ে যেত। শপথে সাক্ষী করা হয়েছে ঠিক সেই জিনিসগুলোকে, যাদের উপর জীবন টিকে আছে।"
+          },
+          {
+            "en": "That gives the verse a hold on the reader. Most of what feeds us arrives by a return we did not arrange: a season that comes round, a cloud that fills again, ground that opens at the right time. Because it keeps coming back, it is easy to stop seeing it. The surah asks for the opposite habit. Look at what keeps returning and recognise the Sender behind it, and let the steady faithfulness of the sky and the earth stand behind the word they are sworn for in 86:13.",
+            "bn": "এখানেই আয়াতটি পাঠককে ধরে ফেলে। আমাদের মুখের খাবারের বেশির ভাগই আসে এমন এক ফিরে আসার পথ ধরে, যার ব্যবস্থা আমরা করিনি। মৌসুম ঘুরে আসে, মেঘ আবার ভরে ওঠে, ঠিক সময়ে মাটি খুলে যায়। বারবার ফিরে আসে বলেই এগুলো আর চোখে পড়ে না। সূরাটি চায় উল্টো অভ্যাস। যা বারবার ফিরে আসে, তার দিকে তাকান, আর চিনে নিন কে তা ফিরিয়ে দেন। আকাশ আর জমিনের এই অটল বিশ্বস্ততা যে বাণীর জন্য শপথ হয়ে এসেছে, ৮৬:১৩ আয়াতের সেই বাণীর পেছনে তাকে দাঁড়াতে দিন।"
+          }
+        ]
+      }
+    ]
+  },
   "86:13": {
     "sections": [
       {

@@ -29565,6 +29565,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Fear of Allah that sends you toward guidance is the ground a reminder grows in; honour the one who comes seeking with it, however little else he brings.",
     "lessonBn": "যে আল্লাহভীতি আপনাকে হিদায়াতের দিকে পাঠায়, উপদেশ সেখানেই শিকড় গাড়ে। যে সেই ভয় নিয়ে শিখতে আসে, আর কিছু না আনলেও তাকে সম্মান করুন।"
+  },
+  "86:11": {
+    "reflectionEn": "The surah has just said that on the Day secrets are laid bare, a person will have no strength and no helper. Then it swears by two ordinary things: the sky that sends its rain back again, and the earth that splits open. Neither needs an expert to see. The rain came last season and will come again; the ground cracks and a green shoot pushes through. Farmers plant on the strength of that return without a second thought. These two witnesses stand behind the decisive word that follows. What they test is my attention. I lean my whole life on rain I cannot send and soil I cannot open. Do I thank the One who sends them back, or notice them only when they fail?",
+    "reflectionBn": "সূরাটি এইমাত্র বলেছে, যেদিন গোপন কথা যাচাই হবে, সেদিন মানুষের না থাকবে নিজের জোর, না কোনো সাহায্যকারী। তারপরই শপথ আসে দুটি খুব চেনা জিনিসের নামে। এক, সেই আকাশ, যে বৃষ্টি বারবার ফিরিয়ে দেয়। দুই, সেই মাটি, যা ফেটে যায়। এ দুটো দেখতে কোনো বিশেষজ্ঞ লাগে না। গত মৌসুমে বৃষ্টি এসেছিল, আবার আসবে। মাটিতে চিড় ধরে, ভেতর থেকে সবুজ চারা মাথা তোলে। কৃষক বীজ বোনেন এই ফিরে আসার ভরসায়, দ্বিতীয়বার না ভেবেই। এই দুই সাক্ষী দাঁড়িয়ে আছে পরের আয়াতের চূড়ান্ত বাণীর পেছনে। আসল পরীক্ষাটা আমার মনোযোগের। যে বৃষ্টি আমি নামাতে পারি না, যে মাটি আমি খুলতে পারি না, তার উপর ভর দিয়েই আমার গোটা জীবন চলে। যিনি এগুলো বারবার ফিরিয়ে দেন, আমি কি তাঁর শুকরিয়া আদায় করি? নাকি এদের কথা মনে পড়ে কেবল তখন, যখন এরা থেমে যায়?",
+    "pointsEn": [
+      "What did I eat today that began with rain I had no part in sending?",
+      "Which of Allah's regular gifts have I stopped seeing simply because they keep coming back?",
+      "Do I think about the sky and the earth only when the rain fails or the harvest is poor?",
+      "When the Qur'an is sworn to by the sky and the earth, do I give its word the same trust I give to next season's rain?",
+      "How can I turn one ordinary rainfall this week into a moment of remembrance and thanks?"
+    ],
+    "pointsBn": [
+      "আজ যা খেয়েছি, তার কোনটার শুরু হয়েছিল এমন বৃষ্টি দিয়ে, যা নামানোয় আমার কোনো হাত ছিল না?",
+      "আল্লাহর কোন নিয়মিত নিয়ামত আমি আর চোখে দেখি না, শুধু এ কারণে যে তা বারবার ফিরে আসে?",
+      "আকাশ আর মাটির কথা কি আমার মনে পড়ে কেবল তখন, যখন বৃষ্টি হয় না বা ফসল খারাপ হয়?",
+      "আকাশ আর মাটির শপথ করে যে কুরআনের কথা বলা হয়েছে, আগামী মৌসুমের বৃষ্টির উপর আমার যতটা ভরসা, ততটা ভরসা কি তার বাণীর উপর রাখি?",
+      "এ সপ্তাহের একটা সাধারণ বৃষ্টিকে কীভাবে আমি জিকির আর শুকরিয়ার একটা মুহূর্ত বানাতে পারি?"
+    ],
+    "lessonEn": "The returning rain and the opening earth are witnesses you rely on every day; thank the One who sends them back, and trust the word they are sworn for.",
+    "lessonBn": "ফিরে আসা বৃষ্টি আর ফেটে যাওয়া মাটির উপর আপনি প্রতিদিন ভরসা করেন। যিনি এগুলো ফিরিয়ে দেন তাঁর শুকরিয়া আদায় করুন, আর যে বাণীর জন্য এদের শপথ করা হয়েছে তার উপর ভরসা রাখুন।"
   }
 };
 
