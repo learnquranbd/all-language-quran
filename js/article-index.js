@@ -1873,6 +1873,38 @@ var LQ_ARTICLE_IDS = {
     "zamzam_reopen",
     "zayd_scribe",
     "zaynab_adoption"
+  ],
+  "conduct": [
+    "cd_animals",
+    "cd_bedouins",
+    "cd_children",
+    "cd_companions",
+    "cd_daughters",
+    "cd_debts",
+    "cd_disabled",
+    "cd_elderly",
+    "cd_fosterfamily",
+    "cd_funerals",
+    "cd_grandchildren",
+    "cd_grieving",
+    "cd_guests",
+    "cd_harmers",
+    "cd_hypocrites",
+    "cd_learners",
+    "cd_neighbours",
+    "cd_newmuslims",
+    "cd_orphans",
+    "cd_otherfaiths",
+    "cd_poor",
+    "cd_relatives",
+    "cd_rich",
+    "cd_servants",
+    "cd_sick",
+    "cd_sinners",
+    "cd_wives",
+    "cd_women",
+    "cd_workers",
+    "cd_youth"
   ]
 };
 

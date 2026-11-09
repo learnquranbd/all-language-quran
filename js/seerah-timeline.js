@@ -227,8 +227,9 @@ class SeerahView {
     };
     const toggle = `
       <div class="flex justify-center mb-4">
-        <div class="inline-flex gap-1 p-1 rounded-xl bg-gray-100 dark:bg-gray-800">
+        <div class="inline-flex flex-wrap justify-center gap-1 p-1 rounded-xl bg-gray-100 dark:bg-gray-800">
           ${vbtn('timeline', SEERAH_TIMELINE_ICON, this.tt('seerah_view_timeline'))}
+          ${vbtn('conduct', SEERAH_CONDUCT_ICON, this.tt('seerah_view_conduct'))}
           ${vbtn('story', SEERAH_STORY_ICON, this.tt('seerah_view_story'))}
           ${vbtn('topics', SEERAH_TOPICS_ICON, this.tt('seerah_view_topics'))}
           ${vbtn('quiz', SEERAH_QUIZ_ICON, this.tt('seerah_view_quiz'))}
@@ -281,12 +282,14 @@ class SeerahView {
 
     const subtitleLine = this.view === 'topics'
       ? this.tt('seerah_topics_title')
+      : this.view === 'conduct' ? this.tt('seerah_conduct_title')
       : (this.view === 'quiz' ? this.tt('seerah_quiz_title')
         : (this.view === 'story' ? this.tt('seerah_story_title')
           : (this.view === 'resources' ? this.tt('seerah_resources_title') : this.tt('seerah_intro'))));
 
     let body = timelineBody;
     if (this.view === 'topics') body = topicsBody;
+    else if (this.view === 'conduct') body = this.conductHtml();
     else if (this.view === 'quiz') body = this.quizHtml();
     else if (this.view === 'story') body = this.storyHtml();
     else if (this.view === 'resources') body = this.resourcesHtml();
@@ -766,6 +769,58 @@ class SeerahView {
     this.render();
   }
 
+  /** "As He Was" (যেমন ছিলেন তিনি): the Prophet's ﷺ conduct with each kind of
+   *  person, grouped (family, the vulnerable, society, faith, creation). Each card
+   *  opens to a summary and the long-form article, fetched on first open. */
+  conductHtml() {
+    const groups = SEERAH_CONDUCT_GROUPS.map(g => {
+      const cards = SEERAH_CONDUCT.filter(c => c.group === g.id).sort((a, b) => (a.order || 0) - (b.order || 0));
+      if (!cards.length) return '';
+      return `
+        <section class="mb-5">
+          <h3 class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-2" dir="auto">${this.esc(this.tt(g.key))}</h3>
+          <div class="space-y-3">${cards.map(c => this.conductCardHtml(c)).join('')}</div>
+        </section>`;
+    }).join('');
+    return `
+      <div class="text-center mb-4">
+        <p class="text-xs text-gray-400 dark:text-gray-500" dir="auto">${this.esc(this.tt('seerah_conduct_intro'))}</p>
+      </div>
+      ${groups}`;
+  }
+
+  conductCardHtml(c) {
+    const isOpen = this.expanded.has(c.id);
+    const ns = 'art-conduct/' + c.id;
+    const points = (c.pointsEn || []).map((_, pi) => this.lc({ en: (c.pointsEn || [])[pi], bn: (c.pointsBn || [])[pi] }));
+    const verses = Array.isArray(c.verses) ? c.verses : [];
+    const hasArt = typeof LQArticle !== 'undefined' && !!LQArticle && LQArticle.has('conduct', c.id);
+    const article = isOpen && hasArt
+      ? `<div class="mt-3">${LQArticle.html('conduct', c.id, {
+          lc: (x) => this.lc(x, ns),
+          esc: (s) => this.esc(s),
+          title: this.tt('seerah_label_article'),
+          open: true,
+          onLoad: () => { if (this.expanded.has(c.id) && this.view === 'conduct') this.render(); },
+        })}</div>`
+      : '';
+    return `
+      <article data-seerah-conduct-card="${this.esc(c.id)}" class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 shadow-sm">
+        <button type="button" data-seerah-toggle="${this.esc(c.id)}" class="w-full text-left p-4 flex items-center gap-3">
+          <span class="text-2xl" aria-hidden="true">${this.esc(c.emoji)}</span>
+          <span class="flex-1 font-semibold text-gray-800 dark:text-gray-100 leading-snug" dir="auto">${this.esc(this.pick(c, 'title'))}</span>
+          ${hasArt ? `<span class="px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-semibold whitespace-nowrap">📜</span>` : ''}
+          <span class="text-gray-300 dark:text-gray-500 text-sm">${isOpen ? '▲' : '▼'}</span>
+        </button>
+        <div class="${isOpen ? '' : 'hidden'} px-4 pb-4 -mt-1">
+          <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.pick(c, 'summary'))}</p>
+          ${points.length ? `<ul class="mt-2 space-y-1 list-none">${points.map(p => `<li class="flex gap-2 text-sm text-gray-700 dark:text-gray-200" dir="auto"><span class="text-primary mt-0.5" aria-hidden="true">▸</span><span class="flex-1">${this.esc(p)}</span></li>`).join('')}</ul>` : ''}
+          ${verses.length ? `<div class="flex flex-wrap gap-1.5 mt-3">${verses.map(v => `<button type="button" data-seerah-ayah="${this.esc(v)}" class="inline-flex items-center gap-1 px-2 py-1 rounded-md bg-primary/10 text-primary text-xs font-medium hover:bg-primary hover:text-white transition-colors">📖 ${this.esc(v)}</button>`).join('')}</div>` : ''}
+          ${article}
+        </div>
+      </article>`;
+  }
+
   topicCardHtml(tp) {
     const isOpen = this.expanded.has(tp.id);
     const points = (tp.pointsEn || tp.pointsBn || []).map((_, pi) => this.lc({ en: (tp.pointsEn || [])[pi], bn: (tp.pointsBn || [])[pi] }));
@@ -1227,6 +1282,13 @@ class SeerahView {
      * unhiding a detail built while the card was closed would reveal a detail
      * with no article in it. Rebuild the card instead, exactly as toggleRead
      * does, and the panel appears with it. */
+    const cd = SEERAH_CONDUCT.find(x => x.id === id);
+    const cdCard = cd && this.container && this.container.querySelector(`[data-seerah-conduct-card="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
+    if (cdCard) {
+      const wrap = document.createElement('div');
+      wrap.innerHTML = this.conductCardHtml(cd).trim();
+      if (wrap.firstElementChild) { cdCard.replaceWith(wrap.firstElementChild); return; }
+    }
     const ev = SEERAH_EVENTS.find(x => x.id === id);
     const card = this.container && this.container.querySelector(`[data-seerah-card="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
     if (ev && card) {

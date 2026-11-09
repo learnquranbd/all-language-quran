@@ -23,6 +23,8 @@ const SETS = [
   { key: 'prophets', file: 'js/prophets-articles.js', obj: 'PROPHET_ARTICLES', subjFile: 'js/prophets-data.js', subjArr: 'PROPHETS_DATA', label: 'prophets' },
   { key: 'sahaba', file: 'js/sahaba-articles.js', obj: 'SAHABA_ARTICLES', subjFile: 'js/sahaba-data.js', subjArr: 'SAHABA_DATA', label: 'companions' },
   { key: 'seerah', file: 'js/seerah-articles.js', obj: 'SEERAH_ARTICLES', subjFile: 'js/seerah-data.js', subjArr: 'SEERAH_EVENTS', label: 'seerah events' },
+  /* "As He Was": the Prophet's conduct with each kind of person, 1,100-1,400 words. */
+  { key: 'conduct', file: 'js/seerah-conduct-articles.js', obj: 'SEERAH_CONDUCT_ARTICLES', subjFile: 'js/seerah-data.js', subjArr: 'SEERAH_CONDUCT', label: 'conduct categories', maxWords: 1500 },
   /* Tadabbur is sharded per surah; the deep template runs 1,400-1,800 words. */
   { key: 'tadabbur', loader: loadTadabburArticles, label: 'tadabbur verses', maxWords: 2000 },
 ];

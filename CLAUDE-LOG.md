@@ -14,6 +14,13 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
+## AS HE WAS wave (2026-11-09, USER: "Quick Enrich wave for Seerat ... his conduct with old, poor, rich ... (Jemon chilen tini)")
+New Seerah view "As He Was / যেমন ছিলেন তিনি": SEERAH_CONDUCT cards (js/seerah-data.js, groups) + SEERAH_CONDUCT_ARTICLES (js/seerah-conduct-articles.js, lazy, module key 'conduct'). Code wired (seerah-timeline.js conductHtml, article-view, build-article-index, check-articles, sw precache) but UNCOMMITTED.
+Pipeline: tools/wip/conduct/ (registry.js 30 ids, groups.js, BRIEF.md, gate.js, merge.js <id>). Drafts -> gate -> merge.js -> at end: bump, npm test, headless check, one commit, push, deploy (deploy still blocked by hosting quota).
+DONE v1867 2026-11-09: all 30 categories merged (40,952 EN words + BN), committed + pushed. Deploy blocked by hosting quota (see WAVE 2 STATE). Next: translate cards/articles into the other 12 languages (content-i18n art-conduct/<id>), as done for Seerah.
+OPEN (small): shipped tp_nature card (js/seerah-data.js ~l.1352) says "a man" took the young birds and returned them "to their nest"; Abu Dawud 2675 (audit/cd_animals) says "we" took them, return them to the mother. Fixing the EN breaks its 13-lang CI18N keys; fix EN+re-translate together.
+OPEN (small): shipped Seerah Mu'tah article (js/seerah-articles.js ~l.6002) says the Prophet held Ja'far's children and wept; Abu Dawud 4192 (fetched, audit/cd_grieving) has only calling them + the barber. Unconfirmed.
+
 ## WAVE 2 (2026-11-02): more ayahs.
 STATE 2026-11-09 ~14:50: WAVE 2 COMPLETE (queue.js: 1618 shipped, 0 targets left). This run v1834-v1866 = 33 keys (83:9 -> 114:4), up to 20 drafters. PUSHED origin+pro (619cb365). DEPLOY BLOCKED: firebase 429 hosting storage quota (10.82 GB stored / 10 GB; 9 FINALIZED versions of 0.9-1.48 GB each although site maxVersions=5). Needs user OK to delete the 4 oldest versions (7e8fb13f, c5da60ad, fe39245f, 0231b98d) or lower retention, then `firebase deploy --only hosting` and verify lq-v1866. Also check why Nov-6 versions held ~11.5k files / 1.4 GB when the local deployable tree is ~6.7k files / 366 MB. 109:1 mention-only fix went out in v1866.
 OPEN (small): shipped 109:1 section 4 quotes the Prophet's reply "until I see what comes from my Lord" from at-Tabari's ungraded chain; under the mention-only rule it should be reworded to a mention (see audit/109_4/LEDGER.md).

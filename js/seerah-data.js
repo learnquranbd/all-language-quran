@@ -2066,4 +2066,868 @@ const SEERAH_UI = {
   seerah_resources_video: { en: 'Video Series', bn: 'ভিডিও সিরিজ', zh: '视频系列', ja: 'ビデオシリーズ' },
   seerah_resources_podcast: { en: 'Podcast', bn: 'পডকাস্ট', zh: '播客', ja: 'ポッドキャスト' },
   seerah_resources_by: { en: 'by', bn: 'লেখক', zh: '作者', ja: '著者' },
+  seerah_view_conduct: { en: 'As He Was', bn: 'যেমন ছিলেন তিনি' },
+  seerah_conduct_title: { en: 'As He Was: his conduct with every kind of person', bn: 'যেমন ছিলেন তিনি: সব ধরনের মানুষের সাথে তাঁর আচরণ' },
+  seerah_conduct_intro: { en: 'How the Prophet ﷺ treated the elderly, children, the poor, the rich, his family, strangers and even his enemies, drawn from confirmed hadith. Tap any category to read.', bn: 'বয়স্ক, শিশু, গরিব, ধনী, পরিবার, অপরিচিত, এমনকি শত্রুদের সাথেও নবী ﷺ কেমন আচরণ করতেন, যাচাই করা হাদিস থেকে। পড়তে যেকোনো বিষয়ে ট্যাপ করুন।' },
+  seerah_conduct_g_family: { en: 'His Family', bn: 'তাঁর পরিবার' },
+  seerah_conduct_g_vulnerable: { en: 'The Vulnerable', bn: 'অসহায় ও দুর্বল' },
+  seerah_conduct_g_society: { en: 'Society', bn: 'সমাজ' },
+  seerah_conduct_g_faith: { en: 'Faith and Opposition', bn: 'ঈমান ও বিরোধিতা' },
+  seerah_conduct_g_creation: { en: 'All Creation', bn: 'সমগ্র সৃষ্টি' },
 };
+
+/**
+ * AS HE WAS (যেমন ছিলেন তিনি) — the Prophet's ﷺ conduct with each kind of person.
+ * Cards are merged by tools/wip/conduct (one per category); the long-form
+ * articles live in js/seerah-conduct-articles.js and load on first open.
+ */
+const SEERAH_CONDUCT_ICON = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M12 20 C12 20 4 14.5 4 9.2 C4 6.6 6 4.8 8.3 4.8 C9.8 4.8 11.2 5.7 12 7 C12.8 5.7 14.2 4.8 15.7 4.8 C18 4.8 20 6.6 20 9.2 C20 14.5 12 20 12 20 Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>';
+const SEERAH_CONDUCT_GROUPS = [
+  { id: 'family', key: 'seerah_conduct_g_family' },
+  { id: 'vulnerable', key: 'seerah_conduct_g_vulnerable' },
+  { id: 'society', key: 'seerah_conduct_g_society' },
+  { id: 'faith', key: 'seerah_conduct_g_faith' },
+  { id: 'creation', key: 'seerah_conduct_g_creation' },
+];
+const SEERAH_CONDUCT = [
+  {
+    "id": "cd_sinners",
+    "emoji": "🌱",
+    "titleEn": "With Those Who Sinned",
+    "titleBn": "যারা পাপ করেছে তাদের সাথে",
+    "summaryEn": "Sinners came to the Prophet ﷺ expecting to be finished, and left with a way back. He did not press one confessor for details, sent a man who broke his fast home with dates for his family, stopped bystanders from cursing a man punished for drinking, and turned insistent confessors away, telling them to seek Allah's forgiveness. He taught that whoever screens another believer's faults, Allah will screen his on the Day of Resurrection.",
+    "summaryBn": "গুনাহ করে যারা নবী ﷺ-এর কাছে আসত, তারা ভাবত সব শেষ। ফিরে যেত ফেরার পথ হাতে নিয়ে। এক স্বীকারকারীর কাছে তিনি খুঁটিয়ে জানতে চাননি কী হয়েছিল। রোজা ভেঙে ফেলা লোকটিকে পরিবারের জন্য খেজুর দিয়ে বাড়ি পাঠিয়েছেন। মদ খাওয়ার শাস্তি পাওয়া লোককে লানত দিতে লোকদের থামিয়েছেন। নাছোড় স্বীকারকারীদের বারবার ফিরিয়ে দিয়ে বলেছেন, আল্লাহর কাছে মাফ চাও। তিনি শিখিয়েছেন, যে কোনো মুসলিমের দোষ ঢেকে রাখে, কিয়ামতের দিন আল্লাহ তার দোষ ঢেকে রাখবেন।",
+    "pointsEn": [
+      "He did not ask a confessor for details, and pointed him to prayer and forgiveness.",
+      "He forbade cursing a man punished for drinking: he loves Allah and His Messenger.",
+      "He sent a man who broke his fast home with food for his family.",
+      "He taught that whoever screens a Muslim's faults, Allah will screen his."
+    ],
+    "pointsBn": [
+      "স্বীকারকারীর কাছে খুঁটিনাটি জানতে চাননি, তাকে নামাজ ও মাফের দিকে দেখিয়ে দিয়েছেন।",
+      "মদের শাস্তি পাওয়া লোককে লানত দিতে নিষেধ করেছেন: সে আল্লাহ ও তাঁর রাসূলকে ভালোবাসে।",
+      "রোজা ভেঙে ফেলা লোকটিকে পরিবারের খাবার হাতে দিয়ে বাড়ি পাঠিয়েছেন।",
+      "শিখিয়েছেন, যে মুসলিমের দোষ ঢাকে, আল্লাহ তার দোষ ঢাকবেন।"
+    ],
+    "verses": [
+      "39:53",
+      "11:114",
+      "3:135",
+      "24:19"
+    ],
+    "group": "faith",
+    "order": 2
+  },
+  {
+    "id": "cd_youth",
+    "emoji": "🌟",
+    "titleEn": "With the Young",
+    "titleBn": "তরুণদের সাথে",
+    "summaryEn": "In a society that gave rank to age, the Prophet ﷺ kept young people close and took them seriously. He taught a boy the largest truths of faith, told a Companion he loved him before advising him, noticed when young guests missed home, and gave young men command and the writing of letters, defending a young commander against his critics. His love never stopped him from correcting them when they did wrong.",
+    "summaryBn": "যে সমাজে বয়সই ছিল মর্যাদা, সেখানে নবী ﷺ তরুণদের কাছে রাখতেন, গুরুত্ব দিতেন। এক কিশোরকে তিনি ঈমানের সবচেয়ে বড় সত্যগুলো শিখিয়েছেন। এক সাহাবিকে উপদেশ দেওয়ার আগে বলেছেন, তাঁকে ভালোবাসেন। বাড়ির জন্য মন খারাপ করা তরুণ মেহমানদের অবস্থা টের পেয়েছেন। যুবকদের হাতে সেনাপতিত্ব আর চিঠি লেখার দায়িত্ব দিয়েছেন, তরুণ সেনাপতির সমালোচনা হলে তাঁর পক্ষে দাঁড়িয়েছেন। তবু ভুল করলে ভালোবাসা তাঁকে শুধরে দেওয়া থেকে থামায়নি।",
+    "pointsEn": [
+      "He taught a boy to be mindful of Allah and to ask of Him alone.",
+      "He gave a young man an army and defended him against those who objected.",
+      "He told Mu'adh (RA) he loved him, then gave him a supplication for every prayer.",
+      "He sharply questioned Usamah (RA), whom he loved, over killing a man who declared faith."
+    ],
+    "pointsBn": [
+      "এক কিশোরকে শিখিয়েছেন আল্লাহর হক রক্ষা করতে আর শুধু তাঁর কাছেই চাইতে।",
+      "এক যুবককে বাহিনীর নেতৃত্ব দিয়েছেন, আপত্তিকারীদের সামনে তাঁর পক্ষে দাঁড়িয়েছেন।",
+      "মুআয (রাঃ)-কে বলেছেন, তাঁকে ভালোবাসেন, তারপর প্রতি নামাজের পরের একটি দোয়া শিখিয়েছেন।",
+      "প্রিয় উসামা (রাঃ)-কে কালিমা পড়া লোককে হত্যার জন্য কড়াভাবে জিজ্ঞাসাবাদ করেছেন।"
+    ],
+    "verses": [
+      "18:13",
+      "21:60",
+      "19:12",
+      "37:102"
+    ],
+    "group": "society",
+    "order": 2
+  },
+  {
+    "id": "cd_otherfaiths",
+    "emoji": "🤝",
+    "titleEn": "With People of Other Faiths",
+    "titleBn": "অন্য ধর্মের মানুষের সাথে",
+    "summaryEn": "The Prophet ﷺ lived among Jews, Christians and polytheists, and dealt with them fairly. He stood when a Jewish funeral passed, asking whether it was not a soul. He bought grain on credit from a Jewish man and died with his armour still pledged to him. He visited a sick Jewish boy, heard a Jew's complaint against one of his own followers, and sent his most trusted Companion to Najran.",
+    "summaryBn": "নবী ﷺ ইহুদি, খ্রিষ্টান ও মুশরিকদের মাঝেই জীবন কাটিয়েছেন, তাদের সাথে ন্যায্য আচরণ করেছেন। এক ইহুদির জানাজা পাশ দিয়ে গেলে তিনি দাঁড়িয়ে যান, বলেন: সে কি একটি প্রাণ নয়? এক ইহুদির কাছ থেকে বাকিতে খাদ্যশস্য কিনে বর্ম বন্ধক রাখেন, ইন্তেকালের সময়ও সেই বর্ম বন্ধক ছিল। অসুস্থ ইহুদি কিশোরকে দেখতে গেছেন, নিজের এক অনুসারীর বিরুদ্ধে এক ইহুদির নালিশ শুনেছেন, আর নাজরানে পাঠিয়েছেন তাঁর সবচেয়ে আমানতদার সাহাবিকে।",
+    "pointsEn": [
+      "He stood for a passing Jewish funeral, saying the dead man was a soul.",
+      "He traded on credit with a Jewish neighbour and pledged his armour until his death.",
+      "He summoned the follower who had struck a Jew and rebuked the boast behind it.",
+      "He stopped Aishah (RA) from cursing those who insulted him, for Allah loves gentleness."
+    ],
+    "pointsBn": [
+      "ইহুদির জানাজা যেতে দেখে তিনি দাঁড়িয়েছেন, বলেছেন মৃত লোকটিও একটি প্রাণ।",
+      "ইহুদি প্রতিবেশীর সাথে বাকিতে লেনদেন করেছেন, ইন্তেকাল পর্যন্ত বর্ম বন্ধক ছিল।",
+      "ইহুদিকে চড় মারা অনুসারীকে ডেকে এনেছেন, আর যে অহংকার থেকে চড় এসেছিল তা থামিয়েছেন।",
+      "অপমানকারীদের লানত দিতে আয়েশা (রাঃ)-কে থামিয়েছেন, কারণ আল্লাহ কোমলতা ভালোবাসেন।"
+    ],
+    "verses": [
+      "60:8",
+      "29:46",
+      "5:8",
+      "2:256"
+    ],
+    "group": "faith",
+    "order": 5
+  },
+  {
+    "id": "cd_children",
+    "emoji": "🧒",
+    "titleEn": "With Children",
+    "titleBn": "শিশুদের সাথে",
+    "summaryEn": "He greeted children before they greeted him, patted their cheeks, asked a toddler about his pet bird, and told a scolding father to let his little girl play. He shortened prayer when a baby cried so its mother would not be troubled, corrected a boy's table manners in one sentence, and asked a boy's permission before passing a cup to older men. Mercy to the young, he said, marks who belongs to his community.",
+    "summaryBn": "শিশুরা সালাম দেওয়ার আগেই তিনি তাদের সালাম দিতেন, তাদের গালে হাত বুলিয়ে দিতেন, ছোট্ট এক শিশুকে তার পোষা পাখির খোঁজ জিজ্ঞেস করতেন। এক বাবা মেয়েকে ধমক দিলে বলেছিলেন, ওকে খেলতে দাও। শিশুর কান্না শুনলে নামাজ সংক্ষেপ করতেন, যাতে মায়ের কষ্ট না হয়। এক বালকের খাওয়ার আদব শুধরে দিয়েছেন এক বাক্যে, আর বয়স্কদের পানীয় দেওয়ার আগে এক বালকের অনুমতি চেয়েছেন। তিনি বলেছেন, ছোটদের প্রতি রহমত তাঁর উম্মতের পরিচয়।",
+    "pointsEn": [
+      "He greeted children first and asked a toddler, by name, about his pet bird.",
+      "He cut a prayer short on hearing a child cry, to spare the mother.",
+      "He asked a boy's permission before giving the cup to older men, and honoured his refusal.",
+      "He refused to witness a gift made to one son alone: be just between your children."
+    ],
+    "pointsBn": [
+      "তিনি শিশুদের আগে সালাম দিতেন, আর ছোট্ট শিশুকে নাম ধরে তার পোষা পাখির খোঁজ নিতেন।",
+      "শিশুর কান্না শুনে মায়ের কষ্টের কথা ভেবে তিনি নামাজ সংক্ষেপ করতেন।",
+      "বয়স্কদের পানীয় দেওয়ার আগে তিনি এক বালকের অনুমতি চেয়েছেন, আর তার ‘না’ মেনে নিয়েছেন।",
+      "এক ছেলেকে আলাদা উপহার দেওয়ার সাক্ষী হতে তিনি রাজি হননি: সন্তানদের মধ্যে ইনসাফ করো।"
+    ],
+    "verses": [
+      "17:31",
+      "18:46",
+      "25:74",
+      "66:6"
+    ],
+    "group": "vulnerable",
+    "order": 2
+  },
+  {
+    "id": "cd_orphans",
+    "emoji": "🤲",
+    "titleEn": "With Orphans",
+    "titleBn": "এতিমদের সাথে",
+    "summaryEn": "He had been an orphan himself, and the Quran told him not to oppress one. In Madinah he asked two orphan boys to name a price for their yard, raised a widow's son at his own table, and stood by a martyr's family when creditors pressed them. He said the guardian of an orphan will be beside him in Paradise, and he counted devouring an orphan's wealth among the destructive sins.",
+    "summaryBn": "নবী ﷺ নিজেও এতিম ছিলেন, আর কুরআন তাঁকে বলেছে এতিমের প্রতি কঠোর না হতে। মদিনায় দুই এতিম বালকের উঠান মসজিদের জন্য নেওয়ার আগে তিনি তাদের কাছে দাম জানতে চেয়েছেন। বিধবার ছেলেকে নিজের দস্তরখানে বড় করেছেন। শহিদের পরিবারকে পাওনাদাররা চেপে ধরলে পাশে দাঁড়িয়েছেন। তিনি বলেছেন, এতিমের দেখাশোনাকারী জান্নাতে তাঁর পাশে থাকবে। আর এতিমের মাল গ্রাস করাকে তিনি ধ্বংসাত্মক গুনাহের তালিকায় রেখেছেন।",
+    "pointsEn": [
+      "He asked two orphan boys to name a price before taking their yard for the mosque.",
+      "He raised Umm Salamah's son in his home and corrected his table manners plainly.",
+      "He placed the orphan's guardian beside him in Paradise, like two fingers.",
+      "Devouring an orphan's wealth is a destructive sin, yet the Quran allowed shared households."
+    ],
+    "pointsBn": [
+      "মসজিদের জন্য উঠান নেওয়ার আগে দুই এতিম বালকের কাছে তিনি দাম জানতে চেয়েছেন।",
+      "উম্মে সালামা (রাঃ)-এর ছেলেকে নিজের ঘরে বড় করেছেন, খাওয়ার আদব সোজা কথায় শিখিয়েছেন।",
+      "এতিমের অভিভাবককে তিনি জান্নাতে নিজের পাশে রেখেছেন, দুই আঙুলের মতো।",
+      "এতিমের মাল গ্রাস করা ধ্বংসাত্মক গুনাহ, তবু কুরআন এক সংসারে মিলেমিশে থাকার অনুমতি দিয়েছে।"
+    ],
+    "verses": [
+      "93:6",
+      "93:9",
+      "4:10",
+      "2:220"
+    ],
+    "group": "vulnerable",
+    "order": 3
+  },
+  {
+    "id": "cd_grandchildren",
+    "emoji": "👶",
+    "titleEn": "With His Grandchildren",
+    "titleBn": "নাতি-নাতনিদের সাথে",
+    "summaryEn": "The Prophet ﷺ was openly tender with his grandchildren: al-Hasan and al-Husayn, sons of Fatimah (RA), and Umamah, daughter of Zaynab (RA). He carried Umamah on his shoulder while leading the prayer, lengthened a prostration rather than hurry a grandson riding on his back, and kissed and embraced them in front of others, praying aloud for Allah to love them. Yet he took no exception for them: a charity date came out of al-Hasan's mouth.",
+    "summaryBn": "নাতি-নাতনিদের প্রতি নবী ﷺ-এর স্নেহ ছিল খোলাখুলি: ফাতিমা (রাঃ)-এর দুই ছেলে হাসান ও হুসাইন (রাঃ), আর যয়নব (রাঃ)-এর মেয়ে উমামা (রাঃ)। ইমামতির সময়ও তিনি উমামা (রাঃ)-কে কাঁধে রেখেছেন। পিঠে চড়ে বসা নাতিকে তাড়া না দিয়ে সিজদা লম্বা করেছেন। সবার সামনে তাদের চুমু খেয়েছেন, বুকে টেনেছেন, আর জোরে দোয়া করেছেন, আল্লাহ যেন তাদের ভালোবাসেন। তবু নিয়মে ছাড় দেননি: হাসান (রাঃ)-এর মুখ থেকে সদকার খেজুর ফেলিয়ে দিয়েছেন।",
+    "pointsEn": [
+      "Carried Umamah (RA) on his shoulder while leading the prayer, setting her down and lifting her again",
+      "Lengthened a prostration rather than hurry a grandson riding on his back",
+      "Kissed al-Hasan (RA) openly and told a father who never kissed his children that the unmerciful find no mercy",
+      "Loved them without loosening the law: no charity for his family, not even one date"
+    ],
+    "pointsBn": [
+      "ইমামতির সময় উমামা (রাঃ)-কে কাঁধে রেখেছেন, নামিয়ে রেখে আবার তুলে নিয়েছেন",
+      "পিঠে চড়া নাতিকে তাড়া না দিয়ে সিজদা লম্বা করেছেন",
+      "সবার সামনে হাসান (রাঃ)-কে চুমু খেয়েছেন; বলেছেন, যে দয়া করে না সে দয়া পায় না",
+      "ভালোবাসায় শরিয়ত ঢিলে হয়নি: পরিবারের জন্য সদকার একটা খেজুরও নয়"
+    ],
+    "verses": [
+      "16:72",
+      "25:74",
+      "64:15",
+      "52:21"
+    ],
+    "group": "family",
+    "order": 3
+  },
+  {
+    "id": "cd_women",
+    "emoji": "🧕",
+    "titleEn": "With the Women of His Community",
+    "titleBn": "সমাজের নারীদের সাথে",
+    "summaryEn": "He gave the women of his community his time and took their questions seriously. When they asked for a day of teaching, he set a day and place and came to teach them. He answered intimate questions plainly, honoured a woman's grant of protection as his own, accepted their gifts, and forbade stopping women from the mosque. He took their pledge by speech, never by touching a woman's hand.",
+    "summaryBn": "নবী ﷺ সমাজের নারীদের সময় দিয়েছেন, তাঁদের প্রশ্নকে গুরুত্ব দিয়েছেন। তাঁরা শেখার জন্য আলাদা দিন চাইলে তিনি দিন ও জায়গা ঠিক করে নিজে গিয়ে শিখিয়েছেন। একান্ত ব্যক্তিগত প্রশ্নের সোজা জবাব দিয়েছেন। এক নারীর দেওয়া আশ্রয়কে নিজের আশ্রয় বলে মেনে নিয়েছেন, নারীদের উপহার গ্রহণ করেছেন, আর তাঁদের মসজিদে যেতে বাধা দিতে নিষেধ করেছেন। তাঁদের বাই‘আত নিয়েছেন মুখের কথায়, কোনো নারীর হাত ছুঁয়ে নয়।",
+    "pointsEn": [
+      "When women asked for their own day of teaching, he set a day and place.",
+      "He answered intimate questions plainly; shyness did not stop the women of Madinah asking.",
+      "He made Umm Hani's (RA) grant of protection his own.",
+      "He forbade stopping women from the mosques, and took their pledge by speech alone."
+    ],
+    "pointsBn": [
+      "নারীরা শেখার জন্য আলাদা দিন চাইলে তিনি দিন ও জায়গা ঠিক করে দিয়েছেন।",
+      "একান্ত প্রশ্নেরও সোজা জবাব দিয়েছেন; লজ্জা মদিনার নারীদের প্রশ্ন করা থেকে আটকায়নি।",
+      "উম্মে হানি (রাঃ)-এর দেওয়া আশ্রয়কে তিনি নিজের আশ্রয় করে নিয়েছেন।",
+      "নারীদের মসজিদে যেতে বাধা দিতে নিষেধ করেছেন, আর তাঁদের বাই‘আত নিয়েছেন শুধু মুখের কথায়।"
+    ],
+    "verses": [
+      "60:12",
+      "58:1",
+      "33:35",
+      "3:195"
+    ],
+    "group": "society",
+    "order": 3
+  },
+  {
+    "id": "cd_bedouins",
+    "emoji": "🐪",
+    "titleEn": "With the Rough and Untaught",
+    "titleBn": "রূঢ় ও অজ্ঞদের সাথে",
+    "summaryEn": "Desert visitors rode a camel into his mosque, urinated on its floor, yanked his cloak and called out mid-prayer. The Prophet ﷺ stopped the Companions from rushing at them, let the act finish, then taught in a sentence or two, with the reason attached. He smiled at rudeness and gave what was asked. Yet gentleness did not mean yielding: a pledge made on Islam he would not cancel.",
+    "summaryBn": "মরুর আগন্তুকেরা উট নিয়ে তাঁর মসজিদে ঢুকেছে, মেঝেতে প্রস্রাব করেছে, তাঁর চাদর ধরে টেনেছে, নামাজের মাঝখানে জোরে কথা বলেছে। নবী ﷺ সাহাবিদের তেড়ে যেতে দেননি। কাজটা শেষ হতে দিয়েছেন, তারপর দু-এক কথায় কারণসহ শিখিয়েছেন। রূঢ়তার জবাবে হেসেছেন, চাওয়া জিনিস দিয়ে দিয়েছেন। তবু কোমলতা মানে নতি স্বীকার নয়। ইসলামের ওপর দেওয়া বাইআত তিনি ফিরিয়ে নেননি।",
+    "pointsEn": [
+      "When a bedouin urinated in the mosque, he stopped the crowd and had water poured.",
+      "He corrected after the prayer ended, without scolding, and gave the reason with the rule.",
+      "Pulled roughly by his cloak, he turned, smiled and ordered a gift.",
+      "He refused to cancel a pledge, yet no pursuit or punishment of the man who left is recorded."
+    ],
+    "pointsBn": [
+      "এক বেদুইন মসজিদে প্রস্রাব করলে তিনি লোকদের থামালেন, পানি ঢেলে দিতে বললেন।",
+      "নামাজ শেষ হওয়ার পর ধমক ছাড়াই শুধরে দিতেন, নিয়মের সঙ্গে কারণও বলতেন।",
+      "কেউ চাদর ধরে জোরে টানলেও তিনি ফিরে তাকিয়ে হেসেছেন, কিছু দিয়ে দিতে বলেছেন।",
+      "বাইআত ফিরিয়ে নিতে রাজি হননি, তবু চলে যাওয়া লোকটাকে ধাওয়া বা শাস্তির কোনো কথা বর্ণনায় নেই।"
+    ],
+    "verses": [
+      "3:159",
+      "7:199",
+      "9:99",
+      "49:14"
+    ],
+    "group": "faith",
+    "order": 3
+  },
+  {
+    "id": "cd_servants",
+    "emoji": "🧹",
+    "titleEn": "With Servants and the Enslaved",
+    "titleBn": "খাদেম ও দাস-দাসীদের সাথে",
+    "summaryEn": "Anas (RA) served the Prophet ﷺ for ten years and never once heard \"uff\" from him, or \"why did you do that?\" He never struck a servant with his hand. He told owners that their slaves were their brothers, to be fed and clothed as they fed and clothed themselves and never overburdened. He honoured freed men such as Zayd and Bilal (RA), and let a freed woman refuse his own intercession.",
+    "summaryBn": "আনাস (রাঃ) দশ বছর নবী ﷺ-এর খেদমত করেছেন, অথচ একবারও তাঁর মুখে \"উফ\" শোনেননি, \"এটা কেন করলে\" কথাটাও না। কোনো খাদেমের গায়ে তিনি কখনো হাত তোলেননি। মালিকদের তিনি বলেছেন, তোমাদের দাসেরা তোমাদের ভাই: নিজে যা খাও তাদের তা-ই খাওয়াবে, নিজে যা পরো তা-ই পরাবে, সাধ্যের বাইরে বোঝা চাপাবে না। যায়েদ ও বিলাল (রাঃ)-এর মতো মুক্ত হওয়া মানুষদের তিনি সম্মানের আসনে বসিয়েছেন, আর মুক্ত হওয়া এক নারী তাঁর নিজের সুপারিশ ফিরিয়ে দিলে তিনি তা মেনে নিয়েছেন।",
+    "pointsEn": [
+      "Ten years of service, and not one \"uff\" or \"why did you do that?\"",
+      "Your slaves are your brothers: feed them what you eat, dress them as you dress",
+      "He stopped a Companion beating his slave, and the slave walked away free",
+      "A freed woman turned down his intercession, and he let her choice stand"
+    ],
+    "pointsBn": [
+      "দশ বছরের খেদমতে একবারও \"উফ\" নেই, \"কেন করলে\" নেই",
+      "দাসেরা তোমাদের ভাই: নিজে যা খাও তাদের খাওয়াও, নিজে যা পরো তাদের পরাও",
+      "এক সাহাবিকে দাস পেটাতে দেখে থামালেন, আর দাসটি মুক্ত হয়ে গেল",
+      "মুক্ত এক নারী তাঁর সুপারিশ ফিরিয়ে দিলেন, তিনি তাঁর সিদ্ধান্তই মেনে নিলেন"
+    ],
+    "verses": [
+      "4:36",
+      "90:13",
+      "24:33",
+      "33:5"
+    ],
+    "group": "vulnerable",
+    "order": 8
+  },
+  {
+    "id": "cd_grieving",
+    "emoji": "💧",
+    "titleEn": "With the Grieving",
+    "titleBn": "শোকার্তদের সাথে",
+    "summaryEn": "The Prophet ﷺ wept openly at the deathbeds of his infant son and of his grandson, and called those tears mercy, while keeping his words to what pleases Allah. He went into grieving houses, told a mourning family to ask only for good, had food prepared for the household of Ja'far, and taught the bereaved a supplication for loss. Wailing, slapping and tearing clothes he forbade; patience, he said, is at the first stroke.",
+    "summaryBn": "শিশুপুত্র ও নাতির মৃত্যুশয্যায় নবী ﷺ সবার সামনে কেঁদেছেন, আর সেই কান্নাকে বলেছেন রহমত। তবু মুখে এমন কথাই এনেছেন যাতে আল্লাহ সন্তুষ্ট। শোকের ঘরে তিনি নিজে গেছেন, শোকার্ত পরিবারকে বলেছেন নিজেদের জন্য ভালো ছাড়া কিছু না চাইতে, জাফর (রাঃ)-এর পরিবারের জন্য খাবার তৈরি করিয়েছেন, আর বিপদে পড়া মানুষকে একটি দোয়া শিখিয়েছেন। বিলাপ, গালে চড় মারা আর কাপড় ছেঁড়া তিনি নিষেধ করেছেন। তাঁর কথায়, আসল সবর বিপদের প্রথম আঘাতের সময়।",
+    "pointsEn": [
+      "He wept at his dying son's side and called the tears mercy, not weakness.",
+      "Patience, he told a grieving woman, is at the first stroke of a calamity.",
+      "He had food prepared for a bereaved family, since their loss kept them occupied.",
+      "Tears and a grieving heart bring no blame; what the tongue says is what counts."
+    ],
+    "pointsBn": [
+      "মৃত্যুপথযাত্রী ছেলের পাশে তিনি কেঁদেছেন, আর সেই কান্নাকে দুর্বলতা নয়, রহমত বলেছেন।",
+      "শোকার্ত এক নারীকে তিনি বলেছেন, সবর তো বিপদের প্রথম আঘাতের সময়।",
+      "শোকে ব্যস্ত এক পরিবারের জন্য তিনি অন্যদের দিয়ে খাবার তৈরি করিয়েছেন।",
+      "চোখের পানি আর মনের দুঃখে দোষ নেই; হিসাব হয় জিহ্বা যা বলে তার।"
+    ],
+    "verses": [
+      "2:156",
+      "12:86",
+      "39:10"
+    ],
+    "group": "vulnerable",
+    "order": 6
+  },
+  {
+    "id": "cd_daughters",
+    "emoji": "🌸",
+    "titleEn": "With His Daughters",
+    "titleBn": "কন্যাদের সাথে",
+    "summaryEn": "In a society where a daughter's birth could be news to hide, the Prophet ﷺ rose when Fatimah (RA) entered, kissed her and gave her his seat. He was deeply moved by Zaynab's (RA) necklace, came himself to Fatimah's house at night, wept at a daughter's grave, and called her a part of himself. He promised his company to anyone who raises daughters with care.",
+    "summaryBn": "যে সমাজে মেয়ের জন্ম ছিল লুকিয়ে রাখার মতো খবর, সেখানে ফাতিমা (রাঃ) এলে নবী ﷺ উঠে দাঁড়াতেন, চুমু খেতেন, নিজের আসনে বসাতেন। যয়নব (রাঃ)-এর পাঠানো হার দেখে তাঁর মন গলে গিয়েছিল। রাতে নিজে ফাতিমা (রাঃ)-এর ঘরে গেছেন, মেয়ের কবরের পাশে কেঁদেছেন, আর মেয়েকে বলেছেন নিজের অংশ। যে যত্ন করে মেয়েদের বড় করে, তাকে তিনি নিজের সঙ্গের কথা দিয়েছেন।",
+    "pointsEn": [
+      "He stood for Fatimah (RA), took her hand, kissed her and seated her in his place",
+      "He asked, not ordered, the Companions to free the prisoner Zaynab (RA) had ransomed",
+      "He wept beside a daughter's grave, and gave his own waist-sheet for a daughter's shroud",
+      "Daughters raised with kindness, he said, become a shield from the Fire"
+    ],
+    "pointsBn": [
+      "ফাতিমা (রাঃ) এলে উঠে দাঁড়াতেন, হাত ধরে চুমু খেতেন, নিজের জায়গায় বসাতেন",
+      "যয়নব (রাঃ)-এর বন্দিকে ছাড়তে তিনি হুকুম নয়, সাহাবিদের কাছে অনুরোধ করেছেন",
+      "কন্যার কবরের পাশে কেঁদেছেন, কন্যার কাফনের জন্য নিজের লুঙ্গি দিয়েছেন",
+      "তিনি বলেছেন, সদয়ভাবে লালিত কন্যারা জাহান্নাম থেকে ঢাল হয়"
+    ],
+    "verses": [
+      "16:58",
+      "81:8",
+      "42:49",
+      "33:59"
+    ],
+    "group": "family",
+    "order": 2
+  },
+  {
+    "id": "cd_neighbours",
+    "emoji": "🏘️",
+    "titleEn": "With Neighbours",
+    "titleBn": "প্রতিবেশীদের সাথে",
+    "summaryEn": "The Prophet ﷺ treated the household next door as a duty of faith. He said Jibril (AS) urged the neighbour's right on him until he thought neighbours would be made heirs, and swore that one whose neighbour is not safe from his harm does not believe. He accepted milk from Ansari neighbours, taught that gifts go first to the nearest door, and told Abu Dharr (RA) to add water to the broth for them.",
+    "summaryBn": "নবী ﷺ পাশের বাড়ির মানুষের হককে ঈমানের অংশ হিসেবে দেখতেন। তিনি বলেছেন, জিবরাইল (আঃ) প্রতিবেশীর ব্যাপারে এত তাগিদ দিয়েছেন যে তাঁর মনে হয়েছিল, প্রতিবেশীকে হয়তো ওয়ারিশ বানানো হবে। কসম খেয়ে বলেছেন, যার অনিষ্ট থেকে প্রতিবেশী নিরাপদ নয়, সে মুমিন নয়। আনসারি প্রতিবেশীদের পাঠানো দুধ তিনি গ্রহণ করতেন। উপহার আগে যাবে সবচেয়ে কাছের দরজায়, এ শিক্ষাও তাঁর। আর আবু যর (রাঃ)-কে বলেছেন, ঝোলে পানি বাড়িয়ে প্রতিবেশীকে দিতে।",
+    "pointsEn": [
+      "Jibril (AS) urged the neighbour's right so often he thought neighbours would inherit.",
+      "He swore three times: one whose neighbour is unsafe from his harm does not believe.",
+      "Gifts go first to the nearest door, and even a sheep's trotter is not to be scorned.",
+      "A man wronged by his neighbour was told to be patient before taking it public."
+    ],
+    "pointsBn": [
+      "জিবরাইল (আঃ) প্রতিবেশীর হকের এত তাগিদ দেন যে তিনি ভাবলেন, প্রতিবেশী ওয়ারিশ হবে।",
+      "তিনবার কসম খেয়ে বলেছেন: যার অনিষ্ট থেকে প্রতিবেশী নিরাপদ নয়, সে মুমিন নয়।",
+      "উপহার আগে যাবে সবচেয়ে কাছের দরজায়; ছাগলের পায়াও তুচ্ছ নয়।",
+      "প্রতিবেশীর কষ্টে ভোগা লোককে আগে সবর করতে বলা হয়, প্রকাশ্য পদক্ষেপ পরে।"
+    ],
+    "verses": [
+      "4:36",
+      "24:27",
+      "49:12",
+      "107:7"
+    ],
+    "group": "society",
+    "order": 4
+  },
+  {
+    "id": "cd_guests",
+    "emoji": "🫖",
+    "titleEn": "With Guests",
+    "titleBn": "মেহমানদের সাথে",
+    "summaryEn": "Before revelation the Prophet ﷺ was already known for feeding his guests, and Islam made honouring the guest a mark of faith. When a hungry man came and his own house had only water, he found him a host. He welcomed delegations warmly, accepted plain invitations, asked a host's leave before bringing an extra man, and set the guest's right at a generous day and night, then three days.",
+    "summaryBn": "ওহি নাজিলের আগেই নবী ﷺ মেহমানকে খাওয়ানোর জন্য পরিচিত ছিলেন। ইসলাম মেহমানের সম্মানকে ঈমানের আলামত বানিয়েছে। এক ক্ষুধার্ত লোক এলে নিজের ঘরে পানি ছাড়া কিছু ছিল না, তবু তিনি তার জন্য মেজবান খুঁজে দেন। প্রতিনিধিদলকে তিনি সাদরে গ্রহণ করতেন, সাধারণ দাওয়াতও কবুল করতেন। বাড়তি একজনকে নিয়ে যাওয়ার আগে মেজবানের অনুমতি চাইতেন। মেহমানের হক তিনি ঠিক করে দেন: এক দিন-রাত বিশেষ আপ্যায়ন, আর তিনটি দিন পর্যন্ত মেহমানদারি।",
+    "pointsEn": [
+      "Honouring the guest is tied to belief in Allah and the Last Day.",
+      "When his own house was empty, he found a hungry visitor a host.",
+      "As a guest he asked the host's leave before bringing an extra man.",
+      "Guests should not overstay; a verse came when guests lingered at his wedding meal."
+    ],
+    "pointsBn": [
+      "মেহমানের সম্মান আল্লাহ ও আখিরাতের প্রতি ঈমানের সাথে জোড়া।",
+      "নিজের ঘর খালি থাকলে তিনি ক্ষুধার্ত মেহমানের জন্য মেজবান খুঁজে দিতেন।",
+      "মেহমান হয়ে বাড়তি লোক আনার আগে তিনি মেজবানের অনুমতি নিতেন।",
+      "মেহমান যেন বেশিক্ষণ বসে না থাকে; তাঁর বিয়ের ভোজে এ নিয়েই আয়াত নাজিল হয়।"
+    ],
+    "verses": [
+      "51:24",
+      "15:68",
+      "59:9",
+      "33:53"
+    ],
+    "group": "society",
+    "order": 5
+  },
+  {
+    "id": "cd_poor",
+    "emoji": "🍞",
+    "titleEn": "With the Poor",
+    "titleBn": "গরিবদের সাথে",
+    "summaryEn": "He lived close to the poor and at their level. He kept the people of the Suffa near him, sent them the charity that reached him, shared his gifts with them, and once had a bowl of milk served round them, drinking last himself. His face changed at the sight of poverty and he urged people to give. He taught that the truly poor are often those too dignified to ask.",
+    "summaryBn": "নবী ﷺ গরিবদের কাছাকাছি থাকতেন, থাকতেন তাঁদের মতো করেই। আহলে সুফফাকে তিনি পাশে রাখতেন। সদকা এলে তাঁদের কাছে পাঠিয়ে দিতেন, হাদিয়া এলে তাঁদের সঙ্গে ভাগ করতেন। একবার এক পেয়ালা দুধ আগে তাঁদের সবার হাতে ঘুরিয়ে নিজে খেয়েছেন সবার শেষে। কারও অভাব দেখলে তাঁর চেহারা বদলে যেত, আর তিনি মানুষকে দান করতে ডাকতেন। তিনি শিখিয়েছেন, আসল অভাবী অনেক সময় সেই মানুষ, যে আত্মসম্মানের কারণে হাত পাতে না।",
+    "pointsEn": [
+      "He sent the charity he received to the Suffa and shared his gifts with them",
+      "He had a bowl of milk served round the poor and drank last himself",
+      "His face changed colour at others' poverty, and he urged people to give",
+      "He taught that the truly poor are those who stay quiet and do not beg"
+    ],
+    "pointsBn": [
+      "সদকা এলে তিনি আহলে সুফফার কাছে পাঠাতেন, হাদিয়াও তাঁদের সঙ্গে ভাগ করতেন",
+      "দুধের পেয়ালা আগে গরিবদের হাতে হাতে ঘুরিয়েছেন, নিজে খেয়েছেন সবার শেষে",
+      "অন্যের অভাব দেখে তাঁর চেহারার রং বদলে যেত, আর তিনি দান করতে ডাকতেন",
+      "তিনি শিখিয়েছেন, আসল অভাবী সেই মানুষ যে চুপ থাকে, ভিক্ষা চায় না"
+    ],
+    "verses": [
+      "18:28",
+      "6:52",
+      "2:273",
+      "59:8"
+    ],
+    "group": "vulnerable",
+    "order": 4
+  },
+  {
+    "id": "cd_wives",
+    "emoji": "🏡",
+    "titleEn": "With His Wives",
+    "titleBn": "স্ত্রীদের সাথে",
+    "summaryEn": "At home the Prophet ﷺ kept busy serving his family, and only the prayer took him out. He raced Aishah (RA) on a journey, screened her with his cloak while she watched a display, read her moods and took counsel from Umm Salamah (RA). He drew lots for journeys and gave each wife her day and night. When jealousy flared he repaired rather than rebuked, and he honoured Khadijah (RA) long after her death.",
+    "summaryBn": "ঘরে নবী ﷺ পরিবারের কাজে ব্যস্ত থাকতেন, শুধু নামাজের সময় হলে বেরিয়ে যেতেন। সফরে আয়েশা (রাঃ)-এর সাথে দৌড় প্রতিযোগিতা করেছেন, চাদর দিয়ে আড়াল করে তাঁকে খেলা দেখিয়েছেন, তাঁর মেজাজ চিনতেন। উম্মে সালামা (রাঃ)-এর পরামর্শ নিয়েছেন। সফরের সঙ্গী বাছতে লটারি করতেন, প্রত্যেক স্ত্রীকে তাঁর দিন ও রাত দিতেন। ঈর্ষার মুহূর্তে বকাঝকা না করে ক্ষতি পূরণ করেছেন। আর খাদিজা (রাঃ)-এর মৃত্যুর বহু পরেও তাঁকে সম্মানের সাথে স্মরণ করেছেন।",
+    "pointsEn": [
+      "He kept busy serving his family at home, leaving when it was time for prayer",
+      "He raced Aishah (RA) on a journey and named her moods with gentle humour",
+      "He drew lots for journeys and gave each wife her own day and night",
+      "He met jealousy and argument with repair, patience and a smile"
+    ],
+    "pointsBn": [
+      "ঘরে পরিবারের কাজে ব্যস্ত থাকতেন, নামাজের সময় হলে বেরিয়ে যেতেন",
+      "সফরে আয়েশা (রাঃ)-এর সাথে দৌড়েছেন, মমতা আর রসিকতায় তাঁর মেজাজ চিনেছেন",
+      "সফরের জন্য লটারি করতেন, প্রত্যেক স্ত্রীকে তাঁর নিজের দিন ও রাত দিতেন",
+      "ঈর্ষা ও তর্কের জবাব দিয়েছেন মেরামত, ধৈর্য আর মুচকি হাসিতে"
+    ],
+    "verses": [
+      "4:19",
+      "30:21",
+      "4:129",
+      "33:28"
+    ],
+    "group": "family",
+    "order": 1
+  },
+  {
+    "id": "cd_sick",
+    "emoji": "🩺",
+    "titleEn": "With the Sick",
+    "titleBn": "অসুস্থদের সাথে",
+    "summaryEn": "He went to the sick, on foot if need be, and took companions with him. He sat by the head, laid his hand on them, and prayed that Allah, the only Healer, remove the illness. He visited a Jewish boy who served him, wept beside a gravely ill friend, and let a bedouin who refused comfort have the last word. He called visiting the sick a right owed, not a favour.",
+    "summaryBn": "অসুস্থের কাছে তিনি নিজে যেতেন, দরকারে পায়ে হেঁটে, সঙ্গীদেরও নিয়ে যেতেন। শিয়রে বসতেন, রোগীর গায়ে হাত রাখতেন, আর একমাত্র আরোগ্যদাতা আল্লাহর কাছে রোগ সারানোর দোয়া করতেন। খেদমতকারী ইহুদি কিশোরকে দেখতে গেছেন, গুরুতর অসুস্থ এক সাথীর পাশে কেঁদেছেন, আর সান্ত্বনা ফিরিয়ে দেওয়া বেদুইনের কথাকে শেষ কথা হিসেবে থাকতে দিয়েছেন। রোগী দেখতে যাওয়াকে তিনি দয়া নয়, পাওনা হক বলেছেন।",
+    "pointsEn": [
+      "Visiting the sick is a right believers owe one another, not a favour.",
+      "He sat near the head and laid his hand on the sick.",
+      "His bedside prayer returns all healing to Allah, the only Healer.",
+      "He offered patience or a prayer for cure, and let the patient choose."
+    ],
+    "pointsBn": [
+      "রোগী দেখতে যাওয়া মুসলিমদের পরস্পরের পাওনা হক, কোনো অনুগ্রহ নয়।",
+      "তিনি রোগীর শিয়রে বসতেন, গায়ে হাত রাখতেন।",
+      "শিয়রে তাঁর দোয়া সব আরোগ্য ফিরিয়ে দেয় একমাত্র আরোগ্যদাতা আল্লাহর কাছে।",
+      "ধৈর্য নাকি আরোগ্যের দোয়া, তিনি বেছে নেওয়ার ভার রোগীকে দিয়েছেন।"
+    ],
+    "verses": [
+      "26:80",
+      "21:83",
+      "9:91",
+      "17:82"
+    ],
+    "group": "vulnerable",
+    "order": 5
+  },
+  {
+    "id": "cd_elderly",
+    "emoji": "👴",
+    "titleEn": "With the Elderly",
+    "titleBn": "বয়স্কদের সাথে",
+    "summaryEn": "The Prophet ﷺ treated old age as a stage Allah brings people to, owed both honour and relief. He had the eldest speak first, even in a murder case, and named the old among the reasons an imam must keep prayer short. He eased worship for the frail and called honouring a grey-haired Muslim part of glorifying Allah. Yet age never outranked knowledge or another person's prior right.",
+    "summaryBn": "নবী ﷺ বার্ধক্যকে দেখতেন আল্লাহর নিয়ে আসা এক পর্যায় হিসেবে, যার প্রাপ্য সম্মানও, ছাড়ও। হত্যা মামলাতেও তিনি আগে বড়জনকে বলতে দিয়েছেন, আর ইমামকে নামাজ সংক্ষেপ করতে বলেছেন, কারণ পেছনে বৃদ্ধরাও দাঁড়ান। দুর্বল বৃদ্ধদের জন্য ইবাদত সহজ করেছেন, আর পাকা চুলওয়ালা মুসলিমকে সম্মান করাকে আল্লাহর প্রতি সম্মানের অংশ বলেছেন। তবু বয়স কখনো জ্ঞান বা অন্যের আগের হকের উপরে ওঠেনি।",
+    "pointsEn": [
+      "He had the eldest speak first, even when men came to him over a killing.",
+      "He told imams to keep prayer short because the old and the weak stand behind them.",
+      "He told a frail old man to ride, not walk his vow, and allowed Hajj for an old father.",
+      "Age was honoured, yet Quran knowledge and another's prior right could come before it."
+    ],
+    "pointsBn": [
+      "হত্যার বিচার নিয়ে লোকেরা এলেও তিনি আগে বড়জনকে কথা বলতে দিয়েছেন।",
+      "ইমামদের নামাজ সংক্ষেপ করতে বলেছেন, কারণ পেছনে বৃদ্ধ ও দুর্বলেরা দাঁড়ায়।",
+      "দুর্বল বৃদ্ধকে কষ্টের মানত থেকে রেহাই দিয়েছেন, বুড়ো বাবার হয়ে হজের অনুমতি দিয়েছেন।",
+      "বয়সের সম্মান ছিল, তবু কুরআনের জ্ঞান আর অন্যের আগের হক তার আগে আসতে পারত।"
+    ],
+    "verses": [
+      "30:54",
+      "17:23",
+      "16:70",
+      "2:184"
+    ],
+    "group": "vulnerable",
+    "order": 1
+  },
+  {
+    "id": "cd_harmers",
+    "emoji": "🕊️",
+    "titleEn": "With Those Who Harmed Him",
+    "titleBn": "যারা তাঁকে কষ্ট দিয়েছে তাদের সাথে",
+    "summaryEn": "Those who hurt the Prophet ﷺ most were often met with pardon. He refused to have his persecutors crushed and hoped for their children instead, left unpunished a man who drew his own sword on him, freed a captured enemy, and at the conquest of Makkah made a former enemy's house a refuge. He never took revenge for himself, yet his pardon kept the limits of Allah, and forgiving did not always mean closeness.",
+    "summaryBn": "যারা নবী ﷺ-কে সবচেয়ে বেশি কষ্ট দিয়েছে, অনেক সময় তারাই পেয়েছে তাঁর ক্ষমা। নির্যাতনকারীদের পিষে ফেলার প্রস্তাব তিনি ফিরিয়ে দিয়ে তাদের সন্তানদের হেদায়েতের আশা করেছেন। তাঁরই তলোয়ার তাঁর দিকে তোলা লোককে শাস্তি দেননি, বন্দি শত্রুকে ছেড়ে দিয়েছেন। মক্কা বিজয়ের দিন এক সাবেক শত্রুর ঘরকে বানিয়েছেন আশ্রয়স্থল। নিজের জন্য কখনো প্রতিশোধ নেননি, তবে তাঁর ক্ষমা আল্লাহর সীমা রক্ষা করেছে। আর ক্ষমা মানেই সবসময় কাছে টেনে নেওয়া ছিল না।",
+    "pointsEn": [
+      "Offered the mountains against his persecutors, he hoped their descendants would worship Allah instead.",
+      "He did not punish the man who drew his own sword on him.",
+      "At the conquest of Makkah, safety was promised even through Abu Sufyan's house.",
+      "He never avenged himself, but his pardon did not set aside Allah's limits."
+    ],
+    "pointsBn": [
+      "নির্যাতনকারীদের ওপর পাহাড় চাপানোর প্রস্তাব পেয়েও তিনি আশা করেছেন, তাদের বংশধর আল্লাহর ইবাদত করবে।",
+      "তাঁরই তলোয়ার তাঁর দিকে তুলেছিল যে লোক, তাকে তিনি শাস্তি দেননি।",
+      "মক্কা বিজয়ের দিন আবু সুফিয়ানের ঘরে ঢুকলেও নিরাপত্তার ঘোষণা দেন।",
+      "নিজের জন্য কখনো প্রতিশোধ নেননি, তবে ক্ষমা করতে গিয়ে আল্লাহর সীমা ছাড়েননি।"
+    ],
+    "verses": [
+      "41:34",
+      "42:40",
+      "3:134",
+      "3:128"
+    ],
+    "group": "faith",
+    "order": 4
+  },
+  {
+    "id": "cd_rich",
+    "emoji": "💰",
+    "titleEn": "With the Rich and Powerful",
+    "titleBn": "ধনী ও প্রভাবশালীদের সাথে",
+    "summaryEn": "He welcomed the wealthy and the chiefs, wrote to kings with courtesy and accepted gifts from rulers, yet never let rank buy a place ahead of the poor. When chiefs asked him to send poor believers away, the Quran forbade it. He refused to bend the law for a noble family, praised rich Companions for what they gave, and taught that true wealth is contentment of the soul.",
+    "summaryBn": "ধনী ও সরদারদের তিনি স্বাগত জানাতেন, রাজাদের কাছে সৌজন্য রেখে চিঠি লিখতেন, শাসকদের উপহারও নিতেন। কিন্তু পদমর্যাদা দিয়ে গরিবের আগে জায়গা কেনা যেত না। সরদাররা গরিব মুমিনদের সরিয়ে দিতে বললে কুরআন তা নিষেধ করেছে। অভিজাত পরিবারের জন্য তিনি আইন শিথিল করেননি, ধনী সাহাবিদের প্রশংসা করেছেন তাঁদের দানের জন্য, আর শিখিয়েছেন যে আসল ধন হলো মনের অভাবহীনতা।",
+    "pointsEn": [
+      "When chiefs asked him to dismiss poor believers, revelation forbade it (6:52).",
+      "He rebuked intercession for a well-born thief: the law is one for rich and poor.",
+      "He praised rich Companions for what they gave, not for what they owned.",
+      "True wealth is contentment of the soul; Allah looks at hearts and deeds."
+    ],
+    "pointsBn": [
+      "সরদাররা গরিব মুমিনদের সরিয়ে দিতে বললে ওহি তা নিষেধ করল (৬:৫২)।",
+      "অভিজাত ঘরের চোরের জন্য সুপারিশে তিনি ভর্ৎসনা করলেন: আইন ধনী-গরিব সবার জন্য এক।",
+      "ধনী সাহাবিদের প্রশংসা করেছেন তাঁদের দানের জন্য, সম্পদের জন্য নয়।",
+      "আসল ধন মনের অভাবহীনতা; আল্লাহ দেখেন অন্তর আর আমল।"
+    ],
+    "verses": [
+      "6:52",
+      "18:28",
+      "80:1-10",
+      "49:13"
+    ],
+    "group": "society",
+    "order": 6
+  },
+  {
+    "id": "cd_relatives",
+    "emoji": "🌳",
+    "titleEn": "With His Relatives",
+    "titleBn": "আত্মীয়দের সাথে",
+    "summaryEn": "Every branch of Quraysh held relatives of his, including those who fought his message, and he kept the tie with them. Told to warn his closest kindred, he called the clans by name while his uncle Abu Lahab cursed him. He honoured his uncle al-Abbas like a father yet would not waive his ransom. He pleaded with the dying Abu Talib, and taught that real kinship joins those who cut you off.",
+    "summaryBn": "কুরাইশের প্রতিটি শাখায় নবী ﷺ-এর আত্মীয় ছিল, যারা তাঁর দাওয়াতের বিরুদ্ধে লড়েছে তাদের মধ্যেও। তবু তিনি সম্পর্ক রেখেছেন। নিকটাত্মীয়দের সতর্ক করার হুকুম এলে তিনি গোত্রগুলোকে নাম ধরে ডেকেছেন, আর চাচা আবু লাহাব তাঁকে অভিশাপ দিয়েছে। চাচা আব্বাস (রাঃ)-কে বাবার মতো সম্মান দিয়েছেন, অথচ তাঁর মুক্তিপণ মাফ করেননি। মৃত্যুশয্যায় আবু তালিবকে কালিমার জন্য অনুনয় করেছেন। আর শিখিয়েছেন, যে সম্পর্ক কেটে দেয় তাকেও জুড়ে রাখাই আসল আত্মীয়তা।",
+    "pointsEn": [
+      "Told to warn his closest kindred, he called the clans by name, then al-Abbas, Safiyyah and Fatimah.",
+      "He said an uncle is like a father, yet would not waive a single dirham of al-Abbas's ransom.",
+      "He pleaded with the dying Abu Talib; the Quran answered that guidance belongs to Allah alone.",
+      "The true keeper of ties, he taught, is the one who joins relatives who cut him off."
+    ],
+    "pointsBn": [
+      "নিকটাত্মীয়দের সতর্ক করার হুকুমে তিনি গোত্রগুলোকে নাম ধরে ডেকেছেন, তারপর আব্বাস, সাফিয়্যা ও ফাতিমাকে।",
+      "বলেছেন চাচা বাবার মতো, তবু আব্বাস (রাঃ)-এর মুক্তিপণের একটা দিরহামও ছাড়েননি।",
+      "মৃত্যুপথযাত্রী আবু তালিবকে অনুনয় করেছেন; কুরআন জানিয়েছে, হেদায়েত শুধু আল্লাহর হাতে।",
+      "তিনি শিখিয়েছেন, আসল আত্মীয়তা রক্ষাকারী সে, যে সম্পর্ক কেটে দেওয়া আত্মীয়কেও জুড়ে রাখে।"
+    ],
+    "verses": [
+      "26:214",
+      "4:1",
+      "47:22",
+      "28:56"
+    ],
+    "group": "family",
+    "order": 4
+  },
+  {
+    "id": "cd_companions",
+    "emoji": "👥",
+    "titleEn": "With His Companions",
+    "titleBn": "সাহাবিদের সাথে",
+    "summaryEn": "With his Companions the Prophet ﷺ led as a friend. He asked their counsel before deciding, as the Quran told him to, and acted on their suggestions. He carried bricks for his mosque and took the spade at the trench, as hungry as the diggers. He joked but said only what was true, turned his face fully to whoever spoke, noticed who was missing and sent for them, and shielded one friend from another's harshness.",
+    "summaryBn": "সাহাবিদের মাঝে নবী ﷺ ছিলেন বন্ধুর মতো নেতা। কুরআনের নির্দেশমতো সিদ্ধান্তের আগে তাঁদের পরামর্শ নিতেন, তাঁদের প্রস্তাব কাজে লাগাতেন। মসজিদের জন্য নিজে ইট বয়েছেন, পরিখায় কোদাল ধরেছেন, খননকারীদের মতোই ক্ষুধা নিয়ে। রসিকতা করতেন, কিন্তু সত্য ছাড়া কিছু বলতেন না। যে কথা বলত তার দিকে পুরো মুখ ফেরাতেন, কে অনুপস্থিত তা খেয়াল করে খোঁজ নিতেন, আর এক বন্ধুর কড়া কথা থেকে আরেক বন্ধুকে আগলে রাখতেন।",
+    "pointsEn": [
+      "He consulted them before deciding, as 3:159 commands, and acted on a Companion's suggestion.",
+      "He carried bricks for his mosque and took the spade at the trench, hungry like them.",
+      "He joked with them, yet said nothing but the truth.",
+      "He noticed when a Companion was missing, sent for news, and answered his fear."
+    ],
+    "pointsBn": [
+      "৩:১৫৯-এর নির্দেশমতো সিদ্ধান্তের আগে পরামর্শ নিতেন, সাহাবির প্রস্তাবও কাজে লাগাতেন।",
+      "মসজিদের জন্য ইট বয়েছেন, পরিখায় কোদাল ধরেছেন, তাঁদের মতোই ক্ষুধার্ত অবস্থায়।",
+      "তাঁদের সাথে রসিকতা করতেন, তবু সত্য ছাড়া কিছু বলতেন না।",
+      "কোনো সাহাবি অনুপস্থিত হলে খোঁজ নিতেন, তাঁর ভয় দূর করতেন।"
+    ],
+    "verses": [
+      "3:159",
+      "42:38",
+      "49:2",
+      "9:118"
+    ],
+    "group": "society",
+    "order": 1
+  },
+  {
+    "id": "cd_animals",
+    "emoji": "🐦",
+    "titleEn": "With Animals",
+    "titleBn": "প্রাণীদের সাথে",
+    "summaryEn": "The Prophet ﷺ treated animals as creatures with claims of their own. He told of a man forgiven for watering a thirsty dog and a woman punished for starving a cat. He told a camel's owner to fear Allah for keeping it hungry and overloaded, had captured fledglings returned to their mother, cursed branding an animal on the face, and taught that even slaughter must be done well, with a sharpened blade.",
+    "summaryBn": "নবী ﷺ প্রাণীদের দেখতেন এমন সৃষ্টি হিসেবে, যাদের নিজেদেরও হক আছে। তিনি শুনিয়েছেন সেই লোকের কথা, তৃষ্ণার্ত কুকুরকে পানি খাইয়ে যে মাফ পেয়েছিল। আর সেই নারীর কথা, বিড়ালকে না খাইয়ে মারার জন্য যার শাস্তি হয়েছিল। উটকে ক্ষুধার্ত রেখে ভারী বোঝা চাপানোর জন্য মালিককে বলেছেন আল্লাহকে ভয় করতে। ধরে আনা পাখির ছানা মায়ের কাছে ফিরিয়ে দিতে বলেছেন। পশুর মুখে দাগ দেওয়াকে লানত করেছেন। আর শিখিয়েছেন, জবাইও করতে হবে সুন্দরভাবে, ছুরিতে ধার দিয়ে।",
+    "pointsEn": [
+      "A man who watered a thirsty dog was forgiven; there is reward in serving any living creature.",
+      "A woman entered the Fire for a cat she locked up, neither feeding nor freeing it.",
+      "He told a camel's owner to fear Allah for keeping it hungry and overloaded.",
+      "Slaughter well: sharpen the blade, ease the animal, and never make a living thing a target."
+    ],
+    "pointsBn": [
+      "তৃষ্ণার্ত কুকুরকে পানি খাইয়ে এক লোক মাফ পেয়েছে; যেকোনো প্রাণীর সেবায় সওয়াব আছে।",
+      "এক নারী বিড়াল আটকে রেখে না খাইয়ে, না ছেড়ে দিয়ে জাহান্নামে গেছে।",
+      "উটকে ক্ষুধার্ত রেখে ভারী বোঝা চাপানোর জন্য মালিককে আল্লাহকে ভয় করতে বলেছেন।",
+      "জবাই হোক সুন্দরভাবে: ছুরিতে ধার, পশুকে স্বস্তি, আর কোনো প্রাণীকে নিশানা বানানো নয়।"
+    ],
+    "verses": [
+      "6:38",
+      "16:7",
+      "22:37",
+      "27:18"
+    ],
+    "group": "creation",
+    "order": 1
+  },
+  {
+    "id": "cd_hypocrites",
+    "emoji": "🎭",
+    "titleEn": "With the Hypocrites",
+    "titleBn": "মুনাফিকদের সাথে",
+    "summaryEn": "The Quran told the Prophet ﷺ that the hypocrites were liars and the enemy, yet he dealt with them by what they showed. He greeted 'Abdullah ibn Ubayy after an insult and excused him, refused to have him killed lest people say he killed his companions, accepted sworn excuses and left hearts to Allah, and gave his own shirt for the man's shroud, until a verse forbade praying over them.",
+    "summaryBn": "কুরআন নবী ﷺ-কে জানিয়েছিল, মুনাফিকরা মিথ্যাবাদী, তারাই শত্রু। তবু তিনি তাদের সাথে চলেছেন তাদের বাহ্যিক আচরণ দেখে। অপমানের পরও আবদুল্লাহ ইবনে উবাইকে সালাম দিয়েছেন, মাফ করেছেন। লোকে বলবে তিনি নিজের সঙ্গীদের হত্যা করেন, এই ভয়ে তাকে হত্যা করতে দেননি। কসম খাওয়া অজুহাত মেনে নিয়েছেন, অন্তরের খবর আল্লাহর হাতে ছেড়েছেন। এমনকি তার কাফনের জন্য নিজের জামা দিয়েছেন, যতদিন না আয়াত এসে তাদের জানাযা নিষেধ করল।",
+    "pointsEn": [
+      "Insulted in a public gathering, he greeted, preached, calmed the quarrel, then excused the man.",
+      "He refused to have Ibn Ubayy killed, lest people say he killed his companions.",
+      "He accepted sworn excuses at face value and left the secrets of hearts to Allah.",
+      "He gave his shirt for Ibn Ubayy's shroud and prayed over him before 9:84 forbade it."
+    ],
+    "pointsBn": [
+      "প্রকাশ্য মজলিসে অপমানিত হয়েও সালাম দিলেন, দাওয়াত দিলেন, ঝগড়া থামালেন, তারপর লোকটাকে মাফ করলেন।",
+      "ইবনে উবাইকে হত্যা করতে দেননি, যাতে লোকে না বলে তিনি নিজের সঙ্গীদের হত্যা করেন।",
+      "কসম খাওয়া অজুহাত বাহ্যিকভাবে মেনে নিয়েছেন, অন্তরের গোপন কথা আল্লাহর হাতে ছেড়েছেন।",
+      "ইবনে উবাইয়ের কাফনের জন্য নিজের জামা দিয়েছেন, ৯:৮৪ নিষেধ করার আগে তার জানাযাও পড়েছেন।"
+    ],
+    "verses": [
+      "63:1",
+      "4:63",
+      "9:80",
+      "9:84"
+    ],
+    "group": "faith",
+    "order": 6
+  },
+  {
+    "id": "cd_learners",
+    "emoji": "📚",
+    "titleEn": "With Learners and Questioners",
+    "titleBn": "শিক্ষার্থী ও প্রশ্নকারীদের সাথে",
+    "summaryEn": "People came to the Prophet ﷺ with questions of every kind, and he answered them: the same question again and again, a question held over until his talk ended, different answers to the same question for different askers. He praised an eager questioner, sometimes taught by asking, and said plainly where his knowledge stopped. Yet questions that pried, or pressed for burdens Allah had left open, angered him.",
+    "summaryBn": "নানা রকম প্রশ্ন নিয়ে মানুষ নবী ﷺ-এর কাছে আসত, আর তিনি উত্তর দিতেন। একই প্রশ্ন বারবার এলেও দিতেন। কথার মাঝে আসা প্রশ্ন মনে রেখে কথা শেষে উত্তর দিয়েছেন। একই প্রশ্নে ভিন্ন ভিন্ন মানুষকে ভিন্ন উত্তর দিয়েছেন। আগ্রহী প্রশ্নকারীর প্রশংসা করতেন, কখনো নিজে প্রশ্ন করে শেখাতেন, আর নিজের জ্ঞানের সীমা খোলাখুলি বলতেন। তবে খোঁচাখুঁচির প্রশ্ন, কিংবা আল্লাহ যা খোলা রেখেছেন তাতে বোঝা চাপানোর পীড়াপীড়িতে তিনি রেগে যেতেন।",
+    "pointsEn": [
+      "He answered repeated questions patiently, and said key sentences three times so they were understood.",
+      "Asked which deed is best, he gave different askers different answers.",
+      "He praised a good question, and sometimes taught by asking the learner first.",
+      "Questions that pried or sought extra burdens angered him; the Quran also fences off such asking."
+    ],
+    "pointsBn": [
+      "বারবার করা প্রশ্নের উত্তর ধৈর্য ধরে দিতেন, আর জরুরি কথা তিনবার বলতেন যেন সবাই বোঝে।",
+      "কোন আমল সবচেয়ে উত্তম, এ প্রশ্নে ভিন্ন ভিন্ন জনকে ভিন্ন উত্তর দিয়েছেন।",
+      "ভালো প্রশ্নের প্রশংসা করতেন, কখনো শিক্ষার্থীকে আগে প্রশ্ন করে শেখাতেন।",
+      "খোঁচাখুঁচির বা বাড়তি বোঝা চাওয়ার প্রশ্নে রেগে যেতেন। কুরআনও এমন প্রশ্নে বেড়া দিয়েছে।"
+    ],
+    "verses": [
+      "16:43",
+      "5:101",
+      "2:189",
+      "20:114"
+    ],
+    "group": "society",
+    "order": 9
+  },
+  {
+    "id": "cd_workers",
+    "emoji": "⚒️",
+    "titleEn": "With Workers and Labourers",
+    "titleBn": "শ্রমিক ও কর্মজীবীদের সাথে",
+    "summaryEn": "He told his Companions that he had once herded the sheep of the people of Makkah for wages. He paid the enslaved man who cupped him and asked the man's masters to lower his tax, and he never withheld anyone's wage. He praised food earned by one's own hands, warned that Allah Himself opposes the employer who takes the work and keeps the pay, and exposed wet grain hidden in a seller's heap.",
+    "summaryBn": "তিনি সাহাবিদের বলেছেন, একসময় তিনি মজুরির বিনিময়ে মক্কাবাসীর ছাগল-ভেড়া চরাতেন। যে দাস তাঁকে হিজামা করেছিলেন, তাঁকে তিনি মজুরি দিয়েছেন, তাঁর মালিকদের বলেছেন কর কমাতে। কারও মজুরি তিনি কখনো আটকে রাখেননি। নিজের হাতে খেটে উপার্জিত খাবারের প্রশংসা করেছেন, সতর্ক করেছেন যে কাজ পুরো আদায় করে মজুরি না দেওয়া নিয়োগকর্তার প্রতিপক্ষ হবেন স্বয়ং আল্লাহ। আর বিক্রেতার স্তূপে লুকানো ভেজা শস্য তিনি নিজের হাতে বের করে দেখিয়েছেন।",
+    "pointsEn": [
+      "He herded the sheep of Makkah's people for some qirats, and said so openly",
+      "He paid his cupper and asked the man's masters to lower his tax",
+      "Allah opposes the employer who takes the full work and withholds the wage",
+      "He found wet grain hidden in a heap and said the deceiver is not of him"
+    ],
+    "pointsBn": [
+      "কয়েক কিরাতের বিনিময়ে মক্কাবাসীর ছাগল চরিয়েছেন, আর সে কথা খোলাখুলি বলেছেন",
+      "হিজামাকারীকে মজুরি দিয়েছেন, তাঁর মালিকদের বলেছেন কর কমাতে",
+      "পুরো কাজ আদায় করে মজুরি না দিলে প্রতিপক্ষ স্বয়ং আল্লাহ",
+      "স্তূপের ভেতরে ভেজা শস্য পেয়ে বললেন, প্রতারক তাঁর দলভুক্ত নয়"
+    ],
+    "verses": [
+      "28:26",
+      "28:27",
+      "62:10",
+      "83:1"
+    ],
+    "group": "society",
+    "order": 7
+  },
+  {
+    "id": "cd_debts",
+    "emoji": "⚖️",
+    "titleEn": "With Creditors and Debtors",
+    "titleBn": "পাওনাদার ও দেনাদারদের সাথে",
+    "summaryEn": "He borrowed and owed like those around him, and repaid better than he had borrowed. When a creditor spoke to him rudely, he held back his Companions: the one owed has a right to speak. He urged lenders to give the hard-pressed time or forgive part, and settled a debt quarrel by asking the creditor to drop half. He once withheld a debtor's funeral prayer until a Companion took the debt on.",
+    "summaryBn": "আশপাশের মানুষের মতো নবী ﷺ-ও ধার নিয়েছেন, দেনায় থেকেছেন, আর যা নিয়েছেন তার চেয়ে ভালো জিনিস ফিরিয়ে দিয়েছেন। এক পাওনাদার তাঁর সাথে রূঢ় আচরণ করলে তিনি সাহাবিদের থামিয়ে বলেছেন, পাওনাদারের কথা বলার হক আছে। অভাবী ঋণীকে সময় দিতে বা কিছু মাফ করতে তিনি উৎসাহ দিয়েছেন। পাওনা নিয়ে এক ঝগড়া মিটিয়েছেন পাওনাদারকে অর্ধেক ছেড়ে দিতে বলে। একবার তিনি এক ঋণগ্রস্ত মৃতের জানাজা পড়াননি, যতক্ষণ না এক সাহাবি সেই ঋণের দায় নিলেন।",
+    "pointsEn": [
+      "He repaid a borrowed young camel with a better, older one",
+      "He let a rude creditor speak: the one owed has a right to speak",
+      "He asked a creditor to drop half, then told the debtor to pay the rest",
+      "He withheld a debtor's funeral prayer until a Companion took the debt on"
+    ],
+    "pointsBn": [
+      "ধার নেওয়া কম বয়সী উটের বদলে তিনি ফিরিয়ে দিয়েছেন বেশি বয়সী, ভালো উট",
+      "রূঢ় পাওনাদারকে তিনি বলতে দিয়েছেন: পাওনাদারের কথা বলার হক আছে",
+      "পাওনাদারকে অর্ধেক ছাড়তে বলেছেন, তারপর দেনাদারকে বাকিটা শোধ করতে বলেছেন",
+      "ঋণগ্রস্ত মৃতের জানাজা পড়াননি, যতক্ষণ না এক সাহাবি সেই ঋণের দায় নিলেন"
+    ],
+    "verses": [
+      "2:280",
+      "2:282",
+      "2:279",
+      "33:6"
+    ],
+    "group": "society",
+    "order": 8
+  },
+  {
+    "id": "cd_funerals",
+    "emoji": "🕯️",
+    "titleEn": "With the Dead",
+    "titleBn": "মৃতদের সাথে",
+    "summaryEn": "The Prophet ﷺ treated the dead as people still owed something. When a woman who swept his mosque died without anyone telling him, he asked to be led to her grave and prayed there. He prayed for a distant king on the day of his death, went out at night to ask forgiveness for the people of al-Baqi', and taught a greeting for graveyards. Abusing the dead he forbade.",
+    "summaryBn": "নবী ﷺ মৃতদের সাথে এমন আচরণ করতেন, যেন তাদের হক তখনও বাকি। মসজিদ ঝাড়ু দিত এমন এক নারী মারা গেলে কেউ তাঁকে খবর দেয়নি। তিনি বললেন, তার কবরটা দেখাও, তারপর সেখানে গিয়ে জানাজা পড়লেন। দূরদেশের এক বাদশাহর জন্য মৃত্যুর দিনই জানাজা পড়েছেন, রাতে বেরিয়ে বাকির কবরবাসীদের জন্য মাফ চেয়েছেন, কবরস্থানে গিয়ে কী সালাম দিতে হয় তা শিখিয়েছেন। মৃতদের গালমন্দ করতে তিনি নিষেধ করেছেন।",
+    "pointsEn": [
+      "He went looking for the grave of a mosque sweeper nobody thought worth mentioning, and prayed there.",
+      "After Jibril (AS) brought word, he went out at night to ask forgiveness for the dead of al-Baqi'.",
+      "He forbade abusing the dead, since they have reached what they sent ahead.",
+      "Over a body he asked mercy, a spacious grave and a better home for the dead."
+    ],
+    "pointsBn": [
+      "যে ঝাড়ুদারের মৃত্যুর খবর কেউ দরকারি মনে করেনি, তিনি তার কবর খুঁজে গিয়ে জানাজা পড়েছেন।",
+      "জিবরাইল (আঃ)-এর বার্তা পেয়ে তিনি রাতে বাকির মৃতদের জন্য মাফ চাইতে বেরিয়েছেন।",
+      "মৃতদের গালমন্দ করতে তিনি নিষেধ করেছেন, কারণ তারা নিজেদের আগে পাঠানো আমলের কাছে পৌঁছে গেছে।",
+      "জানাজায় তিনি মৃতের জন্য রহমত, প্রশস্ত কবর আর আরও ভালো ঘর চেয়েছেন।"
+    ],
+    "verses": [
+      "80:21",
+      "59:10",
+      "5:31",
+      "3:169"
+    ],
+    "group": "society",
+    "order": 10
+  },
+  {
+    "id": "cd_fosterfamily",
+    "emoji": "🤱",
+    "titleEn": "With Those Who Raised Him",
+    "titleBn": "যাঁরা তাঁকে লালন করেছেন তাঁদের সাথে",
+    "summaryEn": "Born after his father died, he was raised partly by others: a wet nurse, a freed slave woman, an Abyssinian slave girl who cared for him, and an uncle. He spread his own cloak for the woman who nursed him, kept visiting Umm Ayman (RA) even when she scolded him, treated milk kinship as real family, and repaid those who raised him generously.",
+    "summaryBn": "বাবার মৃত্যুর পর জন্ম, তাই তাঁকে বড় করেছেন অনেকে মিলে: এক দুধমা, এক আজাদ করা দাসী, হাবশার এক দাসী যিনি তাঁর দেখাশোনা করতেন, আর এক চাচা। যে নারী তাঁকে দুধ খাইয়েছিলেন, তাঁর জন্য নবী ﷺ নিজের চাদর বিছিয়ে দিয়েছেন। উম্মে আয়মান (রাঃ) বকলেও তাঁকে দেখতে যাওয়া বন্ধ করেননি। দুধের আত্মীয়তাকে সত্যিকারের পরিবার হিসেবে মেনেছেন, আর যাঁরা তাঁকে মানুষ করেছেন তাঁদের ঋণ শোধ করেছেন উদার হাতে।",
+    "pointsEn": [
+      "He spread his cloak as a seat for the woman who had nursed him.",
+      "He visited Umm Ayman (RA), who had cared for him, and bore her scolding.",
+      "He treated milk kinship as blood kinship in marriage and in custody.",
+      "He paid Umm Ayman (RA) tenfold rather than take back trees by command."
+    ],
+    "pointsBn": [
+      "যিনি তাঁকে দুধ খাইয়েছিলেন, তাঁর বসার জন্য নিজের চাদর বিছিয়ে দিয়েছেন।",
+      "শৈশবে দেখাশোনা করা উম্মে আয়মান (রাঃ)-কে দেখতে যেতেন, তাঁর বকুনিও সয়েছেন।",
+      "বিয়ে আর শিশুর দায়িত্বের প্রশ্নে দুধের সম্পর্ককে রক্তের সম্পর্কের মতো মেনেছেন।",
+      "হুকুম দিয়ে গাছ ফেরত না নিয়ে উম্মে আয়মান (রাঃ)-কে দশ গুণ দিয়েছেন।"
+    ],
+    "verses": [
+      "4:23",
+      "2:233",
+      "93:6",
+      "17:24"
+    ],
+    "group": "family",
+    "order": 5
+  },
+  {
+    "id": "cd_disabled",
+    "emoji": "🦯",
+    "titleEn": "With People with Disabilities",
+    "titleBn": "প্রতিবন্ধী মানুষের সাথে",
+    "summaryEn": "He gave a blind Companion the dawn call, the prayer and the city while he was away. When that man grieved that he could not fight, revelation lifted the duty mid-verse. He prayed in a half-blind man's home where that man chose, and stood in the street with a troubled woman until she was done. He promised Paradise for patience over lost sight, yet held a blind man to what he could still do.",
+    "summaryBn": "এক অন্ধ সাহাবিকে তিনি দিয়েছিলেন ভোরের আজান, নামাজের ইমামতি, আর নিজের অনুপস্থিতিতে শহরের দায়িত্ব। যুদ্ধে যেতে না পারার কষ্ট সেই মানুষটি জানালে আয়াতের মাঝখানেই ওহি এসে দায় তুলে নিল। দুর্বল দৃষ্টির এক সাহাবির ঘরে গিয়ে তিনি নামাজ পড়েছেন তাঁরই বেছে দেওয়া জায়গায়। মানসিকভাবে বিপর্যস্ত এক নারীর কথা শেষ না হওয়া পর্যন্ত রাস্তার পাশে দাঁড়িয়ে থেকেছেন। চোখ হারিয়ে সবর করলে জান্নাতের সুসংবাদ দিয়েছেন, আবার অন্ধ মানুষকেও তাঁর সাধ্যের দায়ে ধরে রেখেছেন।",
+    "pointsEn": [
+      "The Quran lifts duties from the blind and the lame, never their worth.",
+      "He trusted a blind Companion with the dawn call, the prayer and the city.",
+      "He let a troubled woman choose the street and stayed until she finished.",
+      "Patience over lost sight is promised Paradise in exchange."
+    ],
+    "pointsBn": [
+      "কুরআন অন্ধ ও খোঁড়ার ওপর থেকে দায় নামায়, তাঁদের মর্যাদা নয়।",
+      "এক অন্ধ সাহাবিকে তিনি ভোরের আজান, নামাজ আর শহরের ভার দিয়েছিলেন।",
+      "বিপর্যস্ত এক নারীকে গলি বাছতে দিয়ে কথা শেষ না হওয়া পর্যন্ত দাঁড়িয়েছেন।",
+      "চোখ হারিয়ে সবর করলে তার বিনিময় জান্নাত।"
+    ],
+    "verses": [
+      "4:95",
+      "24:61",
+      "48:17",
+      "80:2"
+    ],
+    "group": "vulnerable",
+    "order": 7
+  },
+  {
+    "id": "cd_newmuslims",
+    "emoji": "🌅",
+    "titleEn": "With New Muslims",
+    "titleBn": "নতুন মুসলিমদের সাথে",
+    "summaryEn": "He received new Muslims with ease rather than conditions. A former enemy who asked for pardon was told that Islam wipes out what came before; a man anxious about his old good deeds was told they were kept. He taught the prayer and a short supplication first, sent envoys to make things easy, and after Hunayn gave generously to win hearts, even when his most loyal followers felt passed over.",
+    "summaryBn": "নতুন মুসলিমদের তিনি গ্রহণ করতেন সহজ করে, শর্ত চাপিয়ে নয়। মাফ চাইতে আসা সাবেক শত্রুকে বললেন, ইসলাম আগের সব মুছে দেয়। আগের ভালো কাজ নিয়ে চিন্তিত মানুষকে বললেন, সেগুলো রয়ে গেছে। আগে শেখাতেন নামাজ আর ছোট একটা দোয়া। দূতদের পাঠাতেন সহজ করার নির্দেশ দিয়ে। হুনাইনের পর মন জয় করতে দুই হাতে দান করেছেন, যদিও তাতে সবচেয়ে বিশ্বস্ত সঙ্গীরা নিজেদের উপেক্ষিত ভেবেছিলেন।",
+    "pointsEn": [
+      "Told a former enemy that Islam wipes out all that came before it.",
+      "Taught a new Muslim the prayer first, then a short supplication for pardon, mercy, guidance and provision.",
+      "Charged his envoys: make things easy, give glad tidings, do not drive people away.",
+      "Gave generously after Hunayn to win new hearts, and explained why to the Ansar."
+    ],
+    "pointsBn": [
+      "সাবেক শত্রুকে জানালেন, ইসলাম আগের সব গুনাহ মুছে দেয়।",
+      "নতুন মুসলিমকে আগে নামাজ, তারপর মাফ, রহমত, হিদায়াত ও রিজিক চাওয়ার ছোট দোয়া শেখাতেন।",
+      "দূতদের নির্দেশ দিলেন: সহজ করো, সুসংবাদ দাও, মানুষকে তাড়িয়ে দিয়ো না।",
+      "হুনাইনের পর নতুনদের মন জয় করতে অকাতরে দিলেন, আর আনসারদের কারণটা বুঝিয়ে বললেন।"
+    ],
+    "verses": [
+      "8:38",
+      "9:60",
+      "2:185",
+      "25:70"
+    ],
+    "group": "faith",
+    "order": 1
+  },
+  // @@CONDUCT_END@@
+];
