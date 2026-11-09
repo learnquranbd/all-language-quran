@@ -30183,6 +30183,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let your refusal of what Allah forbids become part of who you are rather than a choice reopened each day, and worship Him in the way He taught.",
     "lessonBn": "আল্লাহ যা নিষেধ করেছেন, তাকে না বলাটা প্রতিদিন নতুন করে নেওয়া সিদ্ধান্ত না রেখে নিজের পরিচয়ের অংশ করে নিন, আর তাঁর ইবাদত করুন তাঁরই শেখানো পথে।"
+  },
+  "92:14": {
+    "reflectionEn": "Just before this verse the surah says two things: making the way plain is upon Us, and to Us belong the last life and the first. Then the voice turns to you: so I have warned you of a Fire that blazes. A warning is a strange kind of mercy. It comes while there is still time to act, and it asks nothing of the one warned except attention. The next verses say who burns there: the one who denied and turned away. They describe a turning, not a list of names, and they hand me no one else to point at. So I ask whether I hear this verse as news about others, or as a sign set up for me while I can still choose the road.",
+    "reflectionBn": "এ আয়াতের ঠিক আগে সূরাটি দুটি কথা বলে। পথ স্পষ্ট করে দেখানো আমারই দায়িত্ব, আর শেষ জীবন ও প্রথম জীবন দুটোরই মালিক আমি। তারপর কথা সোজা আপনার দিকে ফেরে: তাই আমি তোমাদের সতর্ক করে দিয়েছি দাউ দাউ করে জ্বলা আগুন সম্পর্কে। সতর্কবাণী এক অদ্ভুত রকমের রহমত। এটা আসে তখন, যখন এখনো কিছু করার সময় আছে। যাকে সতর্ক করা হলো, তার কাছে এটা মনোযোগ ছাড়া আর কিছু চায় না। পরের আয়াতগুলো জানায় সেখানে কে জ্বলবে: যে অস্বীকার করেছে আর মুখ ফিরিয়ে নিয়েছে। সেখানে আছে এক মুখ ফেরানোর বর্ণনা, কারও নামের তালিকা নয়। অন্য কারও দিকে আঙুল তোলার সুযোগ আমাকে দেওয়া হয়নি। তাই নিজেকে জিজ্ঞেস করি: আয়াতটা কি আমি অন্যদের খবর হিসেবে শুনি, নাকি পথ বেছে নেওয়ার সময় থাকতেই আমার জন্য টাঙানো এক পথনির্দেশ হিসেবে?",
+    "pointsEn": [
+      "When did a warning last change what I actually did, and not only how I felt for an hour?",
+      "If making the way plain is His part, what step do I already know I should take and keep putting off?",
+      "Where am I asking for something of this life or the next from someone who does not own it?",
+      "Is there a command I have quietly turned away from while still saying that I believe?",
+      "When I read a verse about the Fire, whose face comes to my mind first, mine or someone else's?"
+    ],
+    "pointsBn": [
+      "শেষ কবে কোনো সতর্কবাণী আমার কাজ বদলে দিয়েছে, শুধু এক ঘণ্টার জন্য মন খারাপ করে দেওয়া নয়?",
+      "পথ স্পষ্ট করে দেওয়া যদি তাঁর কাজ হয়, তবে কোন পদক্ষেপটা নেওয়া উচিত বলে আমি আগেই জানি, অথচ বারবার পিছিয়ে দিচ্ছি?",
+      "দুনিয়া বা আখিরাতের কোন জিনিস আমি এমন কারও কাছে চাইছি, যে তার মালিক নয়?",
+      "এমন কোনো হুকুম কি আছে, যা থেকে আমি চুপচাপ মুখ ফিরিয়ে রেখেছি, অথচ মুখে ঈমানের দাবি করছি?",
+      "জাহান্নামের কথা আছে এমন আয়াত পড়লে প্রথমে কার চেহারা মনে আসে, আমার নিজের, নাকি অন্য কারও?"
+    ],
+    "lessonEn": "The warning has already been given while there is still time; hear it as meant for you, and turn toward the way He has made plain rather than away from it.",
+    "lessonBn": "সময় থাকতেই সতর্কবাণী দেওয়া হয়ে গেছে। একে নিজের জন্য বলা কথা হিসেবে শুনুন, আর তিনি যে পথ স্পষ্ট করে দিয়েছেন, তা থেকে মুখ না ফিরিয়ে সেদিকেই ফিরুন।"
   }
 };
 

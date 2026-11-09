@@ -467,6 +467,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "92:14": {
+    "sections": [
+      {
+        "h": {
+          "en": "Warned in Three Words",
+          "bn": "তিন শব্দে দেওয়া সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "Fa-andhartukum naran talazza: so I have warned you of a Fire that blazes. Three Arabic words, and the voice changes. In 92:12 and 92:13 the speaker uses the plural of majesty, upon Us and to Us; here a single I speaks to a plural you. The opening fa, so, joins the warning to what came just before it: the way made plain, and both lives owned. The verb is past. The warning has already been given.",
+            "bn": "ফাআনযারতুকুম নারান তালাযযা: তাই আমি তোমাদের সতর্ক করে দিয়েছি দাউ দাউ করে জ্বলা আগুন সম্পর্কে। আরবিতে মাত্র তিনটি শব্দ, আর এর মধ্যেই বক্তার ভঙ্গি বদলে যায়। ৯২:১২ ও ৯২:১৩ আয়াতে কথা এসেছে সম্মানসূচক বহুবচনে: আমাদের উপর, আমাদেরই। এখানে একক ‘আমি’ কথা বলছেন বহু মানুষের সঙ্গে। আয়াতের শুরুতে ‘ফা’, অর্থাৎ তাই। এটি সতর্কবাণীকে জুড়ে দেয় ঠিক আগের কথার সঙ্গে: পথ স্পষ্ট করে দেওয়া, আর দুই জীবনের মালিকানা। ক্রিয়াটি অতীত কালের। সতর্কবাণী দেওয়া হয়ে গেছে।"
+          },
+          {
+            "en": "Who is the you? At-Tabari glosses it as O people, and al-Muyassar does the same; al-Baghawi narrows it to O people of Makka, the surah's first hearers. At-Tabari then turns the warning into a plain instruction: beware of disobeying your Lord in this world and disbelieving in Him, lest you burn in it in the Hereafter. Al-Qurtubi gives andhartukum as I have cautioned you and made you afraid: caution with fear inside it.",
+            "bn": "‘তোমরা’ কারা? তাবারী ব্যাখ্যা করেন, হে মানুষ। মুয়াসসারও তা-ই বলে। বাগাভী পরিসরটা ছোট করে আনেন: হে মক্কাবাসী, অর্থাৎ সূরাটির প্রথম শ্রোতারা। তারপর তাবারী সতর্কবাণীকে সোজা এক নির্দেশে পরিণত করেন: দুনিয়ায় তোমাদের রবের নাফরমানি কোরো না, তাঁকে অস্বীকার কোরো না, নইলে আখিরাতে এই আগুনেই জ্বলবে। কুরতুবী ‘আনযারতুকুম’-এর অর্থ করেন, আমি তোমাদের সাবধান করেছি আর ভয় দেখিয়েছি। অর্থাৎ এমন সাবধান করা, যার ভেতরে ভয় মেশানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Upon Us, the Making Plain",
+          "bn": "পথ চেনানোর দায় আমার"
+        },
+        "p": [
+          {
+            "en": "Inna 'alayna lal-huda: upon Us is guidance. At-Tabari reads it as bayan, making clear: upon Us is to make plain the truth from falsehood, and obedience from disobedience. He cites Qatada: upon Allah is the making clear of what He permits and forbids, of obeying Him and disobeying Him. Al-Qurtubi and al-Baghawi carry the same reading from al-Zajjaj: it is upon Us to show the road of guidance apart from the road of misguidance.",
+            "bn": "ইন্না আলাইনা লালহুদা: পথনির্দেশ আমারই দায়িত্ব। তাবারী এখানে পড়েন ‘বায়ান’, অর্থাৎ স্পষ্ট করে দেওয়া। তাঁর ব্যাখ্যায় আল্লাহ বলছেন, সত্যকে মিথ্যা থেকে, আনুগত্যকে নাফরমানি থেকে আলাদা করে দেখানো আমার কাজ। এর সমর্থনে তিনি আনেন কাতাদার কথা: তিনি কী হালাল করেছেন আর কী হারাম, কোনটা তাঁর আনুগত্য আর কোনটা নাফরমানি, তা খুলে বলার দায় আল্লাহর। কুরতুবী ও বাগাভী একই অর্থ আনেন যাজ্জাজ থেকে: হিদায়াতের পথকে গোমরাহির পথ থেকে আলাদা করে দেখানো আমার দায়িত্ব।"
+          },
+          {
+            "en": "A second reading moves the weight from showing to arriving. Al-Qurtubi and al-Baghawi give it from al-Farra': whoever takes the way of guidance, upon Allah is his path, as in 16:9, and upon Allah is the direction of the way. At-Tabari reports it from some scholars of Arabic, and Ibn Kathir relays it from him: whoever walks the road of guidance reaches Allah. Here the verse speaks less of what Allah explains than of where the straight road ends.",
+            "bn": "দ্বিতীয় এক পাঠে জোর সরে যায় দেখানো থেকে পৌঁছানোর দিকে। কুরতুবী ও বাগাভী এটি আনেন ফাররা থেকে: যে হিদায়াতের পথ ধরে, তার পথের দায় আল্লাহর। যেমন ১৬:৯ আয়াতে আছে, সোজা পথ দেখানোর দায় আল্লাহর। তাবারী মতটি উল্লেখ করেন কয়েকজন আরবি ভাষাবিদের নামে, আর ইবন কাসীর তা আনেন তাবারী থেকে: যে হিদায়াতের পথে চলে, সে আল্লাহর কাছে পৌঁছায়। এ পাঠে আয়াতটি আল্লাহ কী বুঝিয়ে দেন তার চেয়ে বেশি বলে, সোজা পথ শেষে কোথায় গিয়ে থামে।"
+          },
+          {
+            "en": "A third reading, also in al-Qurtubi and al-Baghawi, takes it as guidance and misguidance both, the second left unsaid because the first implies it, as 16:81 speaks of garments that protect from heat and leaves the cold understood. Al-Qurtubi also gives: upon Us is the reward of the guidance We gave. As-Sa'di contrasts roads: guidance is the straight road that reaches Allah and His pleasure; the roads of misguidance are closed off from Him and lead only to severe punishment.",
+            "bn": "তৃতীয় এক পাঠ, এটিও কুরতুবী ও বাগাভীতে আছে, অর্থ ধরে হিদায়াত ও গোমরাহি দুটোই। দ্বিতীয়টি মুখে বলা হয়নি, কারণ প্রথমটি থেকেই তা বোঝা যায়। ১৬:৮১ আয়াতেও এমন আছে: সেখানে গরম থেকে বাঁচানো পোশাকের কথা বলা হয়েছে, শীতের কথা বোঝার উপর ছেড়ে দেওয়া হয়েছে। কুরতুবী এ মতও আনেন: আমি যে হিদায়াত দিয়েছি, তার প্রতিদান দেওয়া আমার দায়িত্ব। সা'দী তুলনা করেন দুই পথের। হিদায়াত সেই সোজা পথ, যা আল্লাহ ও তাঁর সন্তুষ্টি পর্যন্ত পৌঁছায়। গোমরাহির পথগুলো আল্লাহর দিকে বন্ধ, সেগুলো কঠিন শাস্তি ছাড়া আর কোথাও নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owner of the Last and First",
+          "bn": "শেষ ও প্রথম জীবনের মালিক"
+        },
+        "p": [
+          {
+            "en": "Wa inna lana lal-akhirata wal-ula: and to Us belong the last and the first. At-Tabari reads ownership with a purpose: Ours is the dominion of both worlds; We give from them to whom We will and withhold from whom We please. Allah grants success in obeying Him to whom He loves, honouring him by it here and preparing reward for him there, and He forsakes whom He wills, who is shamed by his disobedience here and disgraced by its punishment there.",
+            "bn": "ওয়া ইন্না লানা লালআখিরাতা ওয়াল উলা: আর শেষ ও প্রথম, দুটোই আমার। তাবারী এখানে এমন মালিকানা পড়েন, যার পেছনে উদ্দেশ্য আছে। দুই জগতের সবকিছুর মালিক আমি। যাকে চাই তা থেকে দিই, যাকে চাই বঞ্চিত করি। আল্লাহ যাকে ভালোবাসেন, তাকে নিজের আনুগত্যের তাওফিক দেন। দুনিয়ায় এর মাধ্যমে তাকে সম্মানিত করেন, আর আখিরাতে তার জন্য প্রতিদান প্রস্তুত রাখেন। আর যাকে চান সাহায্য থেকে বঞ্চিত করেন। নাফরমানির কারণে সে দুনিয়ায় অপমানিত হয়, আর আখিরাতে তার শাস্তিতে লাঞ্ছিত হয়।"
+          },
+          {
+            "en": "Al-Qurtubi reports from Ibn 'Abbas, through 'Ata', that the last is the Garden and the first is this world, and through Abu Salih that it is the reward of both, like 4:134: whoever desires the reward of this world, with Allah is the reward of this world and the Hereafter. Al-Qurtubi and al-Baghawi close on the same line: whoever seeks them from other than their owner has missed the way. As-Sa'di draws it out: no one shares in this ownership, so let those who seek turn to Him, and cut off their hope in created beings.",
+            "bn": "কুরতুবী আতার সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: শেষ মানে জান্নাত, আর প্রথম মানে দুনিয়া। আবু সালিহের সূত্রে তাঁর আরেক বর্ণনা: দুই জগতের প্রতিদান। এ যেন ৪:১৩৪ আয়াতের মতো: যে দুনিয়ার প্রতিদান চায়, আল্লাহর কাছেই আছে দুনিয়া ও আখিরাতের প্রতিদান। কুরতুবী ও বাগাভী দুজনেই শেষ করেন একই বাক্যে: যে এ দুটি এদের মালিক ছাড়া অন্য কারও কাছে চায়, সে পথ ভুল করেছে। সা'দী কথাটা আরেকটু খোলেন। এই মালিকানায় কোনো অংশীদার নেই। তাই যারা চায়, তারা তাঁর কাছেই চাক, আর সৃষ্টির কাছ থেকে আশা ছিন্ন করুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fire Still Kindling",
+          "bn": "যে আগুন এখনো জ্বলছে"
+        },
+        "p": [
+          {
+            "en": "Talazza describes the Fire. At-Tabari renders it a fire that blazes and names it: the fire of Jahannam, as al-Muyassar also does. His chain to Mujahid gives a single word, tawahhaj, it blazes, and Ibn Kathir opens his note with the same word from Mujahid. Al-Qurtubi: it flames and is kindled; as-Sa'di: it rages and is kindled; al-Baghawi: it is kindled and blazes. They differ only in which verbs of burning they choose, and none of them softens the picture.",
+            "bn": "তালাযযা শব্দটি আগুনের বিশেষণ। তাবারী এর অর্থ করেন, দাউ দাউ করে জ্বলা আগুন, আর নামও বলে দেন: জাহান্নামের আগুন। মুয়াসসারও তা-ই বলে। মুজাহিদ পর্যন্ত তাবারীর সনদে আসে একটিমাত্র শব্দ: তাওয়াহহাজ, অর্থাৎ লেলিহান হয়ে জ্বলে। ইবন কাসীরও আলোচনা শুরু করেন মুজাহিদের এই শব্দ দিয়ে। কুরতুবী বলেন, শিখা তোলে আর জ্বলে ওঠে। সা'দী বলেন, দাউ দাউ করে জ্বলে আর প্রজ্বলিত হয়। বাগাভী বলেন, প্রজ্বলিত হয় আর লেলিহান হয়। তফাত শুধু আগুনের কোন ক্রিয়া বেছে নেওয়া হলো তাতে। কেউই ছবিটাকে নরম করেননি।"
+          },
+          {
+            "en": "The grammar has its own small point. At-Tabari explains that talazza stands for tatalazza, with one of the two ta's dropped: a present verb in the nominative position, for had it been past the wording would have been talazzat. Al-Qurtubi agrees that the root form is tatalazza, and notes that the fuller form is the reading of 'Ubayd ibn 'Umayr, Yahya ibn Ya'mar and Talha ibn Musarrif. So the warning is past, already given, while the Fire it names is described by a verb of what is still going on.",
+            "bn": "ব্যাকরণেও একটা ছোট কথা আছে। তাবারী বুঝিয়ে দেন, তালাযযা আসলে তাতালাযযা, দুটি ‘তা’-এর একটি বাদ পড়েছে। তাঁর মতে এটি বর্তমান কালের ক্রিয়া, পেশযুক্ত অবস্থানে। অতীত কালের হলে শব্দটা হতো তালাযযাত। কুরতুবীও বলেন, মূল রূপ তাতালাযযা। তিনি জানান, এই পূর্ণ রূপটিই উবাইদ ইবন উমাইর, ইয়াহইয়া ইবন ইয়া'মার ও তালহা ইবন মুসাররিফের কিরাআত। ফলে সতর্কবাণী অতীতের, দেওয়া হয়ে গেছে। আর যে আগুনের কথা বলা হচ্ছে, তার বর্ণনা এসেছে চলমান কিছুর ক্রিয়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Lightest Punishment There",
+          "bn": "সেখানকার সবচেয়ে হালকা শাস্তি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches two narrations to this verse, both through Imam Ahmad. The first, from an-Nu'man ibn Bashir, concerns a sermon of the Prophet ﷺ about the Fire; Ibn Kathir relays it from Ahmad alone and gives no grading, so this article notes it and builds nothing on it. Of the second he says al-Bukhari also recorded it, and it is in Sahih al-Bukhari, number 6562, from an-Nu'man ibn Bashir, in wording close to Ibn Kathir's.",
+            "bn": "ইবন কাসীর এ আয়াতের সঙ্গে দুটি বর্ণনা জুড়ে দেন, দুটিই ইমাম আহমাদের সূত্রে। প্রথমটি নুমান ইবন বাশীর (রাঃ) থেকে, জাহান্নাম বিষয়ে নবী ﷺ-এর এক খুতবা সম্পর্কে। ইবন কাসীর এটি শুধু আহমাদ থেকে আনেন, কোনো মান উল্লেখ করেন না। তাই এ লেখায় শুধু এর উপস্থিতি জানানো হলো, এর উপর কিছু দাঁড় করানো হয়নি। দ্বিতীয়টি সম্পর্কে তিনি বলেন, বুখারীও এটি বর্ণনা করেছেন। সত্যিই তা সহীহ বুখারীতে আছে (৬৫৬২), নুমান ইবন বাশীর (রাঃ) থেকে, ইবন কাসীরের দেওয়া শব্দের কাছাকাছি ভাষায়।"
+          },
+          {
+            "en": "In al-Bukhari's wording, an-Nu'man said: I heard the Prophet ﷺ say, 'The least punished of the people of the Fire on the Day of Resurrection is a man on the arches of whose feet are two embers, from which his brain boils as the cauldron and the narrow-necked pot boil.' Ibn Kathir adds a second wording that he credits to Muslim; it is left aside here so that one collection's wording stands whole.",
+            "bn": "বুখারীর ভাষায় নুমান (রাঃ) বলেন, আমি নবী ﷺ-কে বলতে শুনেছি: ‘কিয়ামতের দিন জাহান্নামবাসীদের মধ্যে সবচেয়ে হালকা শাস্তি হবে সেই ব্যক্তির, যার দুই পায়ের তলার খাঁজে থাকবে দুটি জ্বলন্ত অঙ্গার। তাতে তার মগজ ফুটতে থাকবে, যেমন ডেকচি আর সরু গলার পাত্র ফোটে।’ ইবন কাসীর আরেকটি ভাষ্য আনেন, যা তিনি মুসলিমের বলে উল্লেখ করেন। একটিমাত্র সংকলনের ভাষা পুরোপুরি অক্ষুণ্ণ রাখতে সেটি এখানে আনা হয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi, closing his notes on this passage, relays from Malik that 'Umar ibn 'Abd al-'Aziz once led the sunset prayer and recited this surah. At fa-andhartukum naran talazza weeping overcame him and he could not go past it, so he left the surah and recited another. It is a report about 'Umar ibn 'Abd al-'Aziz, not a narration from the Prophet ﷺ, given for what it shows: a man leading the prayer, stopped short by these three words.",
+            "bn": "এ অংশের আলোচনা শেষ করতে গিয়ে কুরতুবী ইমাম মালিক থেকে একটি ঘটনা আনেন। উমর ইবন আবদুল আযীয একবার মাগরিবের নামাজে ইমামতি করছিলেন, আর পড়ছিলেন এই সূরা। ফাআনযারতুকুম নারান তালাযযা পর্যন্ত পৌঁছাতেই কান্না তাঁকে চেপে ধরল। তিনি আর সামনে এগোতে পারলেন না, সূরাটি রেখে অন্য একটি সূরা পড়লেন। এটি উমর ইবন আবদুল আযীযের ঘটনা, নবী ﷺ থেকে কোনো বর্ণনা নয়। এর উল্লেখ শুধু এ জন্য যে এতে দেখা যায়, নামাজে ইমামতি করতে থাকা একজন মানুষ এই তিনটি শব্দে এসে থেমে গেলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denied, Then Turned Away",
+          "bn": "অস্বীকার, তারপর মুখ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "The next two verses say who reaches it: la yaslaha illa l-ashqa, alladhi kadhdhaba wa tawalla, none will burn in it but the most wretched, who denied and turned away. At-Tabari: none enters it and burns in its blaze except al-ashqa. Ibn Kathir sharpens the verb: none enters it with an entry that surrounds him from every side. Al-Baghawi notes that al-ashqa simply means ash-shaqi, the wretched one, as al-atqa means at-taqi; at-Tabari says the same of al-atqa at 92:17.",
+            "bn": "পরের দুই আয়াত জানায় কে সেখানে পৌঁছাবে: লা ইয়াসলাহা ইল্লাল আশকা, আল্লাযী কাযযাবা ওয়া তাওয়াল্লা। চরম হতভাগা ছাড়া কেউ তাতে জ্বলবে না, যে অস্বীকার করেছে আর মুখ ফিরিয়ে নিয়েছে। তাবারীর ব্যাখ্যা: আশকা ছাড়া কেউ তাতে ঢুকে তার লেলিহান শিখায় জ্বলবে না। ইবন কাসীর ক্রিয়াটিকে আরও ধারালো করেন: এমনভাবে ঢোকা, যাতে আগুন চারদিক থেকে ঘিরে ফেলে। বাগাভী জানান, আশকা এখানে সাধারণ অর্থে শাকী, অর্থাৎ হতভাগা, যেমন আতকা মানে তাকী। ৯২:১৭ আয়াতে তাবারীও আতকা নিয়ে একই কথা বলেন।"
+          },
+          {
+            "en": "They word the denial and the turning differently. At-Tabari: he denied the signs of his Lord, turned from them and did not believe in them. Al-Baghawi: he denied the Messenger and turned from faith. As-Sa'di: he denied the news and turned from the command. Ibn Kathir: he denied with his heart, and turned from acting with his limbs. At-Tabari also relays al-Hasan's short answer to who al-ashqa is: the mushrik, the person who sets up partners with Allah.",
+            "bn": "অস্বীকার আর মুখ ফেরানোকে তাঁরা ভিন্ন ভিন্ন ভাষায় বলেন। তাবারী: সে তার রবের আয়াতগুলো অস্বীকার করেছে, সেগুলো থেকে মুখ ফিরিয়েছে, সেগুলোকে সত্য বলে মানেনি। বাগাভী: সে রাসূলকে অস্বীকার করেছে আর ঈমান থেকে মুখ ফিরিয়েছে। সা'দী: সে খবরকে অস্বীকার করেছে, আর হুকুম থেকে মুখ ফিরিয়েছে। ইবন কাসীর: অন্তর দিয়ে অস্বীকার, আর অঙ্গপ্রত্যঙ্গ দিয়ে আমল করা থেকে মুখ ফেরানো। আশকা কে, এ প্রশ্নে তাবারী হাসানের ছোট্ট উত্তরও আনেন: মুশরিক, যে আল্লাহর সঙ্গে শরিক করে।"
+          },
+          {
+            "en": "One reading takes kadhdhaba more widely. Al-Qurtubi gives it from al-Farra', and at-Tabari from some scholars of Arabic: not an outright rejection, but a falling short of the obedience commanded, counted as denial, as Arabs say kadhaba of a fighter who meets the enemy, holds back and retreats. Al-Qurtubi also gives al-Farra' on al-ashqa: the one who was wretched in Allah's knowledge. At-Tabari sets this wider reading after his own gloss, the denial of the signs, and passes no comment on it.",
+            "bn": "একটি পাঠে ‘কাযযাবা’ শব্দকে আরও বিস্তৃত অর্থে নেওয়া হয়েছে। কুরতুবী এটি আনেন ফাররা থেকে, আর তাবারী আনেন কয়েকজন আরবি ভাষাবিদের নামে। এটা সরাসরি প্রত্যাখ্যান নয়। যে আনুগত্যের হুকুম ছিল, তাতে পিছিয়ে পড়া, আর সেটাকেই অস্বীকার বলা হয়েছে। আরবরা যেমন বলে, শত্রুর মুখোমুখি হয়ে যে যোদ্ধা থমকে যায় আর পিছু হটে, সে ‘কাযাবা’ করেছে। কুরতুবী আশকা নিয়েও ফাররার কথা আনেন: যে আল্লাহর জ্ঞানে হতভাগা। তাবারী এই বিস্তৃত পাঠ আনেন নিজের ব্যাখ্যার পরে, যে ব্যাখ্যা আয়াত অস্বীকারের কথা বলে, আর এ নিয়ে কোনো মন্তব্য করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Fire, and Whose Entry",
+          "bn": "কোন আগুন, কেমন প্রবেশ"
+        },
+        "p": [
+          {
+            "en": "Read flatly, the verse might seem to say that no one but a denier will ever enter the Fire. Al-Qurtubi relays from al-Zajjaj that this is the verse from which a group drew exactly that claim: that only a disbeliever enters the Fire. The question is real for any reader who also knows the texts about believers punished for sins, and the fetched commentators answer it by more than one route. This article sets the routes out and does not choose between them.",
+            "bn": "সোজাসুজি পড়লে মনে হতে পারে, অস্বীকারকারী ছাড়া আর কেউ কখনো জাহান্নামে যাবে না। কুরতুবী যাজ্জাজ থেকে আনেন, এই আয়াত থেকেই একটি দল ঠিক এই দাবি তুলেছিল: কাফির ছাড়া কেউ জাহান্নামে ঢুকবে না। যে পাঠক গুনাহের কারণে মুমিনদের শাস্তি পাওয়ার কথাও জানেন, তাঁর কাছে প্রশ্নটা সত্যিকারের। এখানে দেখা তাফসীরগুলো এর উত্তর দেয় একাধিক পথে। এ লেখা সেই পথগুলো সাজিয়ে রাখে, কোনোটিকে বেছে নেয় না।"
+          },
+          {
+            "en": "The reply that follows in al-Qurtubi's text, with no break from al-Zajjaj's report, is that the matter is not as they supposed. This is a fire described in its own right, and none burns in this fire except the one who denied and turned away. The people of the Fire have different stations; the hypocrites are in its lowest depth, as 4:145 says, and whatever punishment Allah has threatened, He may inflict. Then 4:48: Allah forgives what is less than association for whom He wills. If no one short of association were punished, that clause would have no point.",
+            "bn": "কুরতুবীর পাঠে যাজ্জাজের বর্ণনার ঠিক পরেই, কোনো বিরতি ছাড়া, উত্তর আসে: ব্যাপারটা তারা যেমন ভেবেছে, তেমন নয়। এটি আলাদা বিশেষণে চিহ্নিত এক নির্দিষ্ট আগুন। এই আগুনে জ্বলবে একমাত্র সে, যে অস্বীকার করেছে আর মুখ ফিরিয়েছে। জাহান্নামবাসীদের আছে ভিন্ন ভিন্ন স্তর। মুনাফিকরা থাকবে তার সবচেয়ে নিচের স্তরে, ৪:১৪৫ আয়াত যেমন বলে। আর আল্লাহ যে ধরনের শাস্তির হুমকি দিয়েছেন, তা দেওয়ার অধিকার তাঁর আছে। তারপর তিনি আনেন ৪:৪৮ আয়াত: শিরকের চেয়ে ছোট গুনাহ আল্লাহ যাকে চান মাফ করেন। শিরক ছাড়া কারও শাস্তিই যদি না হতো, তবে এ বাক্যের কোনো অর্থ থাকত না।"
+          },
+          {
+            "en": "Al-Qurtubi then quotes az-Zamakhshari, who reads the passage as a weighing of two states, that of a great man among the idolaters and that of a great man among the believers. Their opposite descriptions are pushed to the limit: the first is called al-ashqa and given the burning as if the Fire were made for him alone, the second al-atqa, as if the Garden were made for him alone. Ibn Kathir does not take up the question; his gloss names an entry that surrounds a person from every side.",
+            "bn": "এরপর কুরতুবী যামাখশারীর কথা আনেন। তাঁর পাঠে অংশটি দুই অবস্থার তুলনা: মুশরিকদের এক বড় নেতার অবস্থা, আর মুমিনদের এক মহান ব্যক্তির অবস্থা। দুজনের বিপরীত গুণকে চূড়ান্ত মাত্রায় বলা হয়েছে। তাই প্রথমজনকে বলা হয়েছে আশকা, আর জ্বলাকে তার জন্য এমনভাবে নির্দিষ্ট করা হয়েছে যেন আগুন শুধু তার জন্যই তৈরি। দ্বিতীয়জনকে বলা হয়েছে আতকা, যেন জান্নাত শুধু তার জন্যই তৈরি। ইবন কাসীর প্রশ্নটি নিয়ে আলোচনা করেন না। তাঁর ব্যাখ্যা শুধু জানায়, আয়াতে এমন প্রবেশের কথা, যেখানে আগুন মানুষকে চারদিক থেকে ঘিরে ফেলে।"
+          },
+          {
+            "en": "Ibn Kathir closes his note on 92:16 with a narration he gives through Ahmad and says al-Bukhari also recorded. In Sahih al-Bukhari, number 7280, Abu Hurayra reports that the Messenger of Allah ﷺ said: 'All my nation will enter Paradise except whoever refuses.' They said: 'O Messenger of Allah, and who refuses?' He said: 'Whoever obeys me enters Paradise, and whoever disobeys me has refused.' At-Tabari and al-Qurtubi also report Abu Hurayra, in his own words and with no grading given, answering the same question by reciting alladhi kadhdhaba wa tawalla.",
+            "bn": "৯২:১৬ আয়াতের আলোচনা ইবন কাসীর শেষ করেন একটি হাদিস দিয়ে। তিনি এটি আনেন আহমাদের সূত্রে, আর বলেন বুখারীও এটি বর্ণনা করেছেন। সহীহ বুখারীতে (৭২৮০) আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: ‘আমার উম্মতের সবাই জান্নাতে যাবে, তবে যে অস্বীকৃতি জানায় সে ছাড়া।’ সাহাবিরা বললেন: ‘হে আল্লাহর রাসূল, কে অস্বীকৃতি জানাবে?’ তিনি বললেন: ‘যে আমার আনুগত্য করে, সে জান্নাতে যাবে। আর যে আমার অবাধ্য হয়, সে-ই অস্বীকৃতি জানাল।’ তাবারী ও কুরতুবী আবু হুরায়রা (রাঃ)-এর নিজের একটি কথাও আনেন, কোনো মান উল্লেখ ছাড়া। একই প্রশ্নের জবাবে তিনি তিলাওয়াত করেন: আল্লাযী কাযযাবা ওয়া তাওয়াল্লা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Name to Point At",
+          "bn": "আঙুল তোলার মতো নাম নেই"
+        },
+        "p": [
+          {
+            "en": "Some reports put names to the two figures. Al-Qurtubi relays from Ibn 'Abbas, through ad-Dahhak, that al-ashqa is Umayya ibn Khalaf and those like him who denied Muhammad ﷺ; az-Zamakhshari, in al-Qurtubi's quotation, says it is said they are Abu Jahl or Umayya, and Abu Bakr. Whatever the names, the verse describes what its text describes: a person who denied and turned away. It licenses nothing against any living person or community, and gives no reader the right to call anyone al-ashqa.",
+            "bn": "কিছু বর্ণনায় এই দুই চরিত্রের নাম এসেছে। কুরতুবী দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: আশকা হলো উমাইয়া ইবন খালাফ আর তার মতো যারা মুহাম্মাদ ﷺ-কে অস্বীকার করেছিল। কুরতুবীর উদ্ধৃতিতে যামাখশারী বলেন, কারও মতে এ দুজন হলো আবু জাহল কিংবা উমাইয়া, আর আবু বকর (রাঃ)। নাম যা-ই হোক, আয়াত ততটুকুই বর্ণনা করে, যতটুকু তার শব্দে আছে: এমন মানুষ, যে অস্বীকার করেছে আর মুখ ফিরিয়েছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কাউকে আশকা বলে ডাকার অধিকারও কোনো পাঠককে দেয় না।"
+          },
+          {
+            "en": "The next verse, 92:17, turns to the other figure: al-atqa will be kept far from it, and his giving belongs to the verses that follow. Here the reader is left with a warning in the past tense, which at-Tabari's paraphrase turns into a plea: beware of disobeying your Lord in this world. The way, 92:12 said, has been made plain, and the Owner of both lives has spoken. The warning is part of that making plain, and it reaches each reader while there is still a road to choose.",
+            "bn": "পরের আয়াত, ৯২:১৭, ফেরে অন্য চরিত্রটির দিকে: আতকাকে তা থেকে দূরে রাখা হবে। তাঁর দানের কথা আসে পরের আয়াতগুলোতে। এখানে পাঠকের হাতে থাকে অতীত কালের এক সতর্কবাণী, তাবারীর ব্যাখ্যায় যা হয়ে ওঠে এক অনুরোধ: দুনিয়ায় তোমাদের রবের নাফরমানি থেকে সাবধান থাকো। ৯২:১২ আয়াত বলেছে, পথ স্পষ্ট করে দেওয়া হয়েছে, আর দুই জীবনের মালিক নিজে কথা বলেছেন। এই সতর্কবাণীও সেই স্পষ্ট করে দেওয়ারই অংশ। তা প্রত্যেক পাঠকের কাছে পৌঁছায় এমন সময়ে, যখন বেছে নেওয়ার মতো পথ এখনো খোলা।"
+          }
+        ]
+      }
+    ]
+  },
   "92:20": {
     "sections": [
       {
