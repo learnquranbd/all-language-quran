@@ -29983,6 +29983,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer the surah's closing question with your life as well as your tongue: Allah is the most just of judges, so no wrong is lost and no good deed goes unrecorded.",
     "lessonBn": "সূরার শেষ প্রশ্নের জবাব শুধু মুখে নয়, জীবন দিয়েও দিন: আল্লাহই শ্রেষ্ঠ বিচারক, তাই কোনো জুলুম হারিয়ে যায় না, কোনো নেক আমলও অলিখিত থাকে না।"
+  },
+  "89:12": {
+    "reflectionEn": "Three words close a long list: and they increased corruption in it. 'Ad, Thamud and Pharaoh had different lands and different skills, yet the Qur'an gathers them under one description. First they overstepped their limits, then the harm spread and kept growing, and then came the reply in the next verse, with a sentence that has outlasted them all: your Lord is on the watch. The verse names no people of today and hands no one a verdict on anyone else. It asks about something smaller. Wrong rarely begins large. It begins as a limit crossed once, then a habit, then a weight that other people carry. Where in my own reach, at home, at work or online, is a little harm still being added?",
+    "reflectionBn": "তিনটি শব্দে শেষ হয় এক দীর্ঘ তালিকা: আর তারা সেখানে বিপর্যয় বাড়িয়ে তুলেছিল। ‘আদ, সামূদ আর ফেরাউন, কারও দেশ এক নয়, দক্ষতাও আলাদা। তবু কুরআন তাদের একটি বর্ণনায় বেঁধে দেয়। আগে তারা সীমা ছাড়িয়েছিল, তারপর ক্ষতি ছড়িয়েছে আর বেড়েই চলেছে। পরের আয়াতে এসেছে জবাব, সঙ্গে এমন এক বাক্য যা তাদের সবাইকে ছাপিয়ে আজও টিকে আছে: তোমার রব ঘাঁটিতে নজর রাখছেন। আজকের কোনো জাতির নাম এখানে নেই। অন্য কারও বিচারের রায়ও আয়াতটি কারও হাতে তুলে দেয় না। প্রশ্নটা বরং ছোট পরিসরের। অন্যায় সাধারণত বড় হয়ে শুরু হয় না। শুরু হয় একবার সীমা পেরোনো দিয়ে, তারপর সেটা অভ্যাস হয়, তারপর হয়ে যায় অন্যের ঘাড়ে চাপা বোঝা। আমার নিজের নাগালে, ঘরে, কাজে কিংবা অনলাইনে, কোথায় এখনো অল্প অল্প করে ক্ষতি জমছে?",
+    "pointsEn": [
+      "Which limit did I cross once with a pang, and now cross without noticing?",
+      "Who carries the cost of a habit of mine that I have stopped calling a fault?",
+      "When I hear of wrong done far away, do I look as hard at the harm within my own reach?",
+      "If I truly believed my Lord is on the watch, what would I stop doing this week, and what would I begin?",
+      "Do I read a delay in consequences as permission, or as time given to turn back?"
+    ],
+    "pointsBn": [
+      "কোন সীমাটা একসময় বুকে খচখচ নিয়ে পেরিয়েছি, আর এখন টেরও পাই না?",
+      "আমার কোন অভ্যাসকে আমি আর দোষ বলি না, অথচ তার দাম দিচ্ছে অন্য কেউ?",
+      "দূরের কোনো অন্যায়ের খবর শুনলে যতটা মন দিই, নিজের নাগালের ক্ষতির দিকে কি ততটাই তাকাই?",
+      "আমার রব নজর রাখছেন, এ কথা সত্যিই বিশ্বাস করলে এ সপ্তাহে কোন কাজটা ছেড়ে দিতাম, আর কোনটা শুরু করতাম?",
+      "পরিণাম দেরিতে আসছে বলে কি সেটাকে অনুমতি ধরে নিই, নাকি ফিরে আসার জন্য দেওয়া সময় ভাবি?"
+    ],
+    "lessonEn": "Corruption grows by addition: keep to your limits, stop adding to the harm you have done, and remember that your Lord watches every road.",
+    "lessonBn": "বিপর্যয় বাড়ে একটু একটু জুড়ে: নিজের সীমায় থাকুন, যে ক্ষতি করেছেন তাতে আর কিছু যোগ করবেন না, আর মনে রাখুন, আপনার রব প্রতিটি পথে নজর রাখেন।"
   }
 };
 

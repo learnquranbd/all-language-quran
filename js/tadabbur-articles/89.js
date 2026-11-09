@@ -319,6 +319,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "89:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Last Line of a Roll-Call",
+          "bn": "নামের তালিকার শেষ বাক্য"
+        },
+        "p": [
+          {
+            "en": "Fa-aktharu fiha al-fasad: and they increased corruption in it. Three Arabic words complete a sentence that began in 89:11, where those who transgressed in the lands are gathered under one description. Before that, from 89:6, the surah has named three peoples: 'Ad of Iram with its pillars, Thamud who cut the rock in the valley, and Pharaoh of the stakes. After it, 89:13 gives their outcome and 89:14 a sentence of warning, and from 89:15 the surah turns to the human being who reads honour and disgrace off his own provision.",
+            "bn": "ফাআকসারূ ফীহাল ফাসাদ: আর তারা সেখানে বিপর্যয় বাড়িয়ে তুলেছিল। আরবিতে মাত্র তিনটি শব্দ, আর এ তিন শব্দেই শেষ হয় ৮৯:১১ আয়াতে শুরু হওয়া বাক্যটি। সেখানে দেশে দেশে সীমালঙ্ঘনকারীদের একটি বর্ণনার নিচে জড়ো করা হয়েছে। তার আগে ৮৯:৬ থেকে সূরাটি তিনটি জাতির নাম নিয়েছে: স্তম্ভের অধিকারী ইরামের ‘আদ, উপত্যকায় পাথর কাটা সামূদ, আর কীলকের অধিপতি ফেরাউন। পরে ৮৯:১৩ জানায় তাদের পরিণাম, ৮৯:১৪ শোনায় এক সতর্কবাণী। আর ৮৯:১৫ থেকে সূরা ফিরে তাকায় সেই মানুষের দিকে, যে নিজের রিযক দেখে সম্মান আর অপমানের হিসাব কষে।"
+          },
+          {
+            "en": "Who are the people described? At-Tabari names them: 'Ad, Thamud, and Pharaoh with his soldiers; as-Sa'di adds those who followed them. Al-Qurtubi weighs the grammar of alladhina, the relative word that opens 89:11. The best reading in his view takes it as accusative of censure, naming people in order to blame them. It may also stand as the predicate of an implied they are, or as a description joined to the three names before it. None of the sources fetched for this passage reports an occasion of revelation for it.",
+            "bn": "বর্ণনাটা কাদের? তাবারী নাম ধরে বলেন: ‘আদ, সামূদ, আর ফেরাউন ও তার সৈন্যদল। সা'দী যোগ করেন, যারা তাদের অনুসরণ করেছিল তারাও। ৮৯:১১ আয়াত শুরু হয়েছে আল্লাযীনা শব্দে, কুরতুবী এর ব্যাকরণ যাচাই করেন। তাঁর মতে সবচেয়ে ভালো পাঠ হলো, শব্দটি নিন্দাসূচক কর্মকারকে আছে, অর্থাৎ দোষ ধরার জন্যই নাম নেওয়া। আবার উহ্য 'তারাই' শব্দের বিধেয় হিসেবেও পড়া যায়, কিংবা আগের তিনটি নামের বিশেষণ হিসেবেও। এ অংশের জন্য যে উৎসগুলো দেখা হয়েছে, তার কোনোটিতে নাযিলের কোনো উপলক্ষ বর্ণিত হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Overstepping, Then Piling Up",
+          "bn": "আগে সীমা পেরোনো, তারপর স্তূপ"
+        },
+        "p": [
+          {
+            "en": "The verse is joined to the verse before it by fa, and so. At-Tabari explains tagha in 89:11 as going beyond what their Lord had made lawful for them, and defying Him towards the disbelief He had forbidden. Al-Qurtubi has them rebel, grow insolent and pass all measure in injustice and aggression. As-Sa'di ties the two verses together: they transgressed in the lands of Allah and harmed His servants in their religion and their worldly life, and that, he says, is why the verse goes on to their corruption.",
+            "bn": "আয়াতটি আগের আয়াতের সঙ্গে জোড়া লেগেছে ফা দিয়ে, যার অর্থ: আর তাই। ৮৯:১১ আয়াতের তাগা শব্দের ব্যাখ্যায় তাবারী বলেন, রব যা তাদের জন্য বৈধ করেছিলেন তারা তার সীমা ছাড়িয়েছিল, আর তাঁর অবাধ্য হয়ে এগিয়েছিল সেই কুফরির দিকে যা তিনি নিষেধ করেছিলেন। কুরতুবীর ভাষায় তারা বিদ্রোহী হয়েছিল, ঔদ্ধত্য দেখিয়েছিল, যুলুম আর আগ্রাসনে মাত্রা ছাড়িয়েছিল। সা'দী দুই আয়াতকে এক সুতোয় গাঁথেন। তারা আল্লাহর দেশে সীমালঙ্ঘন করেছিল, তাঁর বান্দাদের দ্বীন ও দুনিয়া দুটোতেই কষ্ট দিয়েছিল। তাঁর কথায়, এ কারণেই আয়াত এরপর তাদের বিপর্যয়ের কথা বলে।"
+          },
+          {
+            "en": "Aktharu means they made much of it, they multiplied it. Fiha, in it, points back to al-bilad, the lands of 89:11, and at-Tabari spells it out as in the lands. The sequence the verses lay out is plain to read: an overstepping of limits, then its spread, then in 89:13 a verb that opens with the same fa, fa-sabba, so He poured. Al-Muyassar draws the thread in a single line: those who were despotic and did wrong in Allah's lands increased corruption in them by their wrongdoing.",
+            "bn": "আকসারূ মানে তারা সেটাকে অনেক করে তুলেছিল, বাড়িয়েই চলেছিল। ফীহা, অর্থাৎ সেখানে, শব্দটি ফিরে যায় ৮৯:১১ আয়াতের আল-বিলাদ বা দেশগুলোর দিকে। তাবারী খুলেই বলেন: দেশগুলোতে। আয়াতগুলোর ধারা পড়লেই বোঝা যায়। প্রথমে সীমা পেরোনো, তারপর তা ছড়িয়ে পড়া, তারপর ৮৯:১৩ আয়াতে এমন এক ক্রিয়া যা শুরু হয় সেই একই ফা দিয়ে: ফাসাব্বা, অতঃপর তিনি ঢেলে দিলেন। মুয়াসসার পুরো সুতোটা এক বাক্যে টেনে আনে: যারা আল্লাহর দেশে স্বেচ্ছাচারী হয়েছিল আর যুলুম করেছিল, তারা নিজেদের যুলুম দিয়ে সেখানে বিপর্যয় বাড়িয়ে তুলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sins, Injury, or Both",
+          "bn": "গুনাহ, জুলুম, নাকি দুটোই"
+        },
+        "p": [
+          {
+            "en": "What was the corruption? The commentators answer from different sides. At-Tabari reads it as disobedience: they multiplied sins in the lands and took up what Allah had forbidden them. Ibn Kathir looks at those on the receiving end: they ran amok in the land with corruption and with harm to people. Al-Qurtubi names it in two words, al-jawr wa-l-adha, injustice and hurt. Al-Baghawi, on 89:11, puts both sides into his gloss of the transgression: they worked sins in the land and acted as tyrants.",
+            "bn": "বিপর্যয়টা আসলে কী ছিল? তাফসীরকারেরা উত্তর দেন ভিন্ন ভিন্ন দিক থেকে। তাবারী একে দেখেন নাফরমানি হিসেবে: তারা দেশে দেশে গুনাহ বাড়িয়েছিল, আল্লাহ যা হারাম করেছিলেন তাতে জড়িয়েছিল। ইবন কাসীরের চোখ যায় যাদের উপর আঘাত পড়েছিল তাদের দিকে: তারা বিপর্যয় ছড়িয়ে আর মানুষকে কষ্ট দিয়ে দেশে তাণ্ডব চালিয়েছিল। কুরতুবী দুই শব্দে নাম দেন: আল-জাওর ওয়াল-আযা, অবিচার আর পীড়ন। ৮৯:১১ আয়াতের সীমালঙ্ঘনের ব্যাখ্যায় বাগাভী দুটো দিকই রাখেন: তারা দেশে গুনাহর কাজ করেছিল আর স্বৈরাচারী হয়ে উঠেছিল।"
+          },
+          {
+            "en": "As-Sa'di gives the widest reading. Corruption, he says, is acting on disbelief and its branches, every kind of sin; and beyond that they strove to fight the messengers and to turn people away from the path of Allah. These are differences of emphasis, not a dispute. One commentator looks at the offence against Allah, another at the damage done to His servants, and as-Sa'di holds both together. The verse itself lists no particular deeds: the commentators supply the kinds, and the verses before it supply the names.",
+            "bn": "সবচেয়ে বিস্তৃত পাঠ সা'দীর। তাঁর মতে বিপর্যয় হলো কুফর আর তার শাখা-প্রশাখা অনুযায়ী চলা, সব রকমের গুনাহ। তার উপর তারা রাসূলদের বিরুদ্ধে লড়াই করেছিল, মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখার চেষ্টা করেছিল। এগুলো জোর দেওয়ার পার্থক্য, বিরোধ নয়। একজন তাকান আল্লাহর হকের দিকে, আরেকজন তাঁর বান্দাদের যে ক্ষতি হয়েছে তার দিকে। সা'দী দুটোকে একসঙ্গে ধরে রাখেন। আয়াত নিজে কোনো নির্দিষ্ট কাজের তালিকা দেয় না। কাজের ধরনগুলো জোগান তাফসীরকারেরা, আর নামগুলো জোগায় আগের আয়াতগুলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why a Whip Was Named",
+          "bn": "চাবুকের নাম কেন এল"
+        },
+        "p": [
+          {
+            "en": "The next verse answers: fa-sabba 'alayhim rabbuka sawta 'adhab, so your Lord poured upon them a whip of punishment. Al-Qurtubi glosses sabba as emptied out and cast down upon them. Why a whip, when no whip fell? At-Tabari answers directly. Their punishments came as afflictions: a wind that destroyed them, a quake that crushed them, a drowning that ended them, without any blow from whip or stick. But flogging was among the most painful punishments known to the people this Qur'an first addressed, and the phrase became a proverb for any severe punishment.",
+            "bn": "পরের আয়াত জবাব দেয়: ফাসাব্বা আলাইহিম রাব্বুকা সাওতা আযাব, অতঃপর তোমার রব তাদের উপর শাস্তির চাবুক ঢেলে দিলেন। কুরতুবী সাব্বা শব্দের অর্থ করেন: খালি করে ঢেলে দেওয়া, উপরে ছুড়ে ফেলা। কোনো চাবুক তো পড়েনি, তবু চাবুক কেন? তাবারী সরাসরি উত্তর দেন। তাদের শাস্তি এসেছিল নানা বিপদ হয়ে। কখনো ধ্বংস করে দেওয়া বাতাস, কখনো চূর্ণ করে দেওয়া ভূকম্পন, কখনো ডুবিয়ে শেষ করে দেওয়া পানি। চাবুক বা লাঠির একটি আঘাতও ছিল না। তবে কুরআন প্রথম যাদের সম্বোধন করেছিল, তাদের কাছে বেত্রাঘাত ছিল সবচেয়ে কষ্টের শাস্তিগুলোর একটি। তাই কথাটা হয়ে দাঁড়াল যেকোনো কঠিন শাস্তির প্রবাদ।"
+          },
+          {
+            "en": "Al-Qurtubi gathers several glosses. A whip of punishment is a portion of punishment. Or it is its intensity, because for the Arabs the whip was the utmost of what one could be punished with; al-Farra' calls it a word they used for every kind of punishment. Or it comes from sata, to mix, a punishment that mingles with flesh and blood. Qatada, in al-Qurtubi, says that everything Allah punished with is a whip of punishment; in al-Baghawi he calls it a kind of punishment poured upon them.",
+            "bn": "কুরতুবী কয়েকটি ব্যাখ্যা একসঙ্গে আনেন। শাস্তির চাবুক মানে শাস্তির একটি ভাগ। অথবা তার তীব্রতা, কারণ আরবদের কাছে চাবুকই ছিল শাস্তির চূড়ান্ত রূপ। ফাররা বলেন, শাস্তির যেকোনো ধরনের বেলায় আরবরা কথাটা বলত। আবার শব্দটি আসতে পারে সাতা থেকে, যার অর্থ মিশিয়ে ফেলা। তখন অর্থ দাঁড়ায় এমন শাস্তি, যা রক্ত-মাংসের সঙ্গে মিশে যায়। কুরতুবীর বর্ণনায় কাতাদা বলেন, আল্লাহ যা দিয়েই শাস্তি দিয়েছেন, সবই শাস্তির চাবুক। বাগাভীর বর্ণনায় তিনি একে বলেন শাস্তির এক ধরন, যা তাদের উপর ঢেলে দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an adds a picture: as lashes fall across different parts of a body, these nations suffered different kinds of punishment. Al-Qurtubi relays that al-Hasan, on reaching this verse, would say that Allah has many whips and seized them with one of them. Mujahid, in at-Tabari, keeps it plain: it is what they were punished with. The image comes from the hearers' own world; what stands behind it is the end that each of these peoples met.",
+            "bn": "মাআরিফুল কুরআন একটি ছবি যোগ করে। চাবুকের ঘা যেমন শরীরের নানা জায়গায় পড়ে, তেমনি এ জাতিগুলোর উপর নেমেছিল নানা রকমের শাস্তি। কুরতুবী বর্ণনা করেন, হাসান এ আয়াতে পৌঁছে বলতেন, আল্লাহর কাছে অনেক চাবুক আছে, তার একটি দিয়ে তিনি তাদের পাকড়াও করেছেন। তাবারীর বর্ণনায় মুজাহিদ সোজা কথায় বলেন: যা দিয়ে তাদের শাস্তি দেওয়া হয়েছিল, সেটাই। ছবিটা নেওয়া শ্রোতাদের নিজেদের জগৎ থেকে। তার পেছনে আছে সেই পরিণতি, যা এ জাতিগুলোর প্রত্যেকে ভোগ করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At the Lookout on the Road",
+          "bn": "পথের ধারে পাহারার ঘাঁটি"
+        },
+        "p": [
+          {
+            "en": "Then a sentence that stands apart from the story: inna rabbaka la-bil-mirsad, indeed your Lord is at the lookout. Ma'arif al-Qur'an traces mirsad to rasada, to lie in wait or keep watch: a place of observation, used especially for a pass where travellers must go by someone waiting for them. Ibn 'Abbas, in at-Tabari, Ibn Kathir, al-Baghawi and al-Qurtubi, gives a short gloss: He hears and sees. Al-Hasan and 'Ikrima, in al-Qurtubi and al-Baghawi, say He watches each person's deeds in order to repay them. Ibn Kathir adds that He repays each by his striving, in this world and the next, and is free of all injustice.",
+            "bn": "তারপর এমন এক বাক্য, যা কাহিনি থেকে আলাদা হয়ে দাঁড়ায়: ইন্না রাব্বাকা লাবিল মিরসাদ, নিশ্চয়ই তোমার রব ঘাঁটিতে নজর রাখছেন। মাআরিফুল কুরআন মিরসাদ শব্দকে নিয়ে যায় রাসাদা ধাতুতে, যার অর্থ ওত পেতে থাকা বা পাহারা দেওয়া। মিরসাদ তাই পর্যবেক্ষণের জায়গা। বিশেষ করে বলা হয় এমন গিরিপথকে, যেখান দিয়ে পথিককে যেতেই হয় আর সেখানে কেউ তার অপেক্ষায় থাকে। তাবারী, ইবন কাসীর, বাগাভী ও কুরতুবী সবাই ইবন আব্বাস (রাঃ)-এর ছোট্ট ব্যাখ্যা আনেন: তিনি শোনেন ও দেখেন। কুরতুবী ও বাগাভীর বর্ণনায় হাসান ও ইকরিমা বলেন, তিনি প্রত্যেকের আমলের উপর নজর রাখেন, যাতে তার প্রতিদান দিতে পারেন। ইবন কাসীর যোগ করেন, দুনিয়া ও আখিরাতে তিনি প্রত্যেককে তার চেষ্টা অনুযায়ী প্রতিদান দেন, আর তিনি সব রকমের যুলুম থেকে পবিত্র।"
+          },
+          {
+            "en": "A second reading takes mirsad as the road itself. Al-Qurtubi gives it as it is said: He is on the path of His servants and no one gets past Him, and notes that mirsad and marsad mean the path. Al-Baghawi names holders: al-Kalbi, that the servants' path runs by Him and no one escapes Him; Muqatil, that people's passage is by Him. As-Suddi read it as Allah setting the Fire in wait on their road. Al-Baghawi then joins the readings: nothing of the servants' deeds escapes Him, just as nothing escapes anyone who keeps watch.",
+            "bn": "দ্বিতীয় পাঠে মিরসাদ মানে পথটাই। কুরতুবী একে 'বলা হয়' দিয়ে আনেন: তিনি বান্দাদের পথের উপর আছেন, কেউ তাঁকে এড়িয়ে যেতে পারে না। তিনি এ-ও জানান যে মিরসাদ আর মারসাদ দুটোরই অর্থ পথ। বাগাভী মত অনুযায়ী নাম বলেন। কালবীর মতে বান্দাদের পথ তাঁর পাশ দিয়েই গেছে, কেউ তাঁকে ফাঁকি দিতে পারে না। মুকাতিলের মতে মানুষের যাতায়াত তাঁরই সামনে দিয়ে। সুদ্দী বুঝেছেন, আল্লাহ তাদের পথে আগুনকে ওত পেতে রেখেছেন। তারপর বাগাভী দুই পাঠকে মিলিয়ে দেন: বান্দাদের কোনো আমলই তাঁকে এড়ায় না, যেমন পাহারায় বসা কাউকে কিছুই এড়াতে পারে না।"
+          },
+          {
+            "en": "Is this sentence also the answer to the oaths that open the surah? Here the commentators differ. Al-Qurtubi, on 89:5, reports Muqatil's view that the word hal there stands in place of inna, so that 89:5 itself carries the answer. Others take 89:5 as a question that confirms; on that reading, he says, the answer is inna rabbaka la-bil-mirsad, or else an answer left unstated. Ma'arif al-Qur'an mentions that some commentators make 89:14 the subject of the oaths, while its own note on 89:5 treats the subject as implied: that everyone will give account of his deeds.",
+            "bn": "এ বাক্যই কি সূরার শুরুর শপথগুলোর জবাব? এখানে তাফসীরকারেরা একমত নন। কুরতুবী ৮৯:৫ আয়াতের আলোচনায় মুকাতিলের মত জানান। সেখানে হাল শব্দটি ইন্না অর্থাৎ 'নিশ্চয়ই'-এর জায়গায় বসেছে, ফলে ৮৯:৫ নিজেই শপথের জবাব। অন্যরা ৮৯:৫-কে দেখেন সমর্থন আদায়ের প্রশ্ন হিসেবে। কুরতুবী বলেন, সে পাঠে জবাব হলো ইন্না রাব্বাকা লাবিল মিরসাদ, নয়তো এমন এক জবাব যা উহ্য রাখা হয়েছে। মাআরিফুল কুরআন উল্লেখ করে, কোনো কোনো তাফসীরকার ৮৯:১৪-কে শপথের বিষয় ধরেন। তবে ৮৯:৫ আয়াতে তার নিজের ব্যাখ্যায় বিষয়টি উহ্য: প্রত্যেককে নিজের আমলের হিসাব দিতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Respite Before the Seizure",
+          "bn": "পাকড়াওয়ের আগে অবকাশ"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this passage attaches a sound hadith to 89:12, or to the two verses after it. On 89:14 Ibn Kathir relays from Ibn Abi Hatim a report attributed to the Prophet ﷺ through Mu'adh, and himself calls it very gharib, with doubt about its chain and its soundness; it is mentioned here only, and nothing is built on it. At-Tabari, al-Qurtubi and Ibn Kathir also relay reports from Companions and later figures about bridges over Hell, and those stay with the commentators.",
+            "bn": "এ অংশের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই ৮৯:১২ বা পরের দুই আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। ৮৯:১৪ আয়াতে ইবন কাসীর ইবন আবী হাতিম থেকে মুআয (রাঃ)-এর সূত্রে নবী ﷺ-এর নামে বর্ণিত একটি রেওয়ায়েত আনেন। তিনি নিজেই একে খুবই গরীব বলেন, এর সনদ ও বিশুদ্ধতা দুটো নিয়েই সংশয় প্রকাশ করেন। তাই এখানে শুধু উল্লেখ করা হলো, এর উপর কিছুই দাঁড় করানো হয়নি। তাবারী, কুরতুবী ও ইবন কাসীর সাহাবি ও পরবর্তীদের থেকে জাহান্নামের উপরের সেতু নিয়ে কিছু বর্ণনাও আনেন। সেগুলো তাফসীরকারদের কাছেই থাকুক।"
+          },
+          {
+            "en": "As-Sa'di and al-Muyassar read 89:14 as a warning to whoever disobeys: Allah gives him a little respite, then seizes him with the seizure of the Mighty, the Able. A general narration, which none of these commentators attaches to this verse, makes the same point. Al-Bukhari records from Abu Musa that the Messenger of Allah ﷺ said: Allah gives respite to the oppressor, but when He takes him over, He never releases him. Then he recited 11:102. It stands in al-Bukhari's Sahih, number 4686.",
+            "bn": "সা'দী ও মুয়াসসার ৮৯:১৪ আয়াতকে পড়েন অবাধ্যদের প্রতি সতর্কবাণী হিসেবে। আল্লাহ তাকে অল্প কিছু অবকাশ দেন, তারপর মহাপরাক্রমশালী, সর্বশক্তিমানের পাকড়াওয়ে ধরেন। একই কথা বলে একটি সাধারণ হাদীস, যদিও এ তাফসীরকারদের কেউ সেটিকে এ আয়াতের সঙ্গে জোড়েননি। বুখারী আবু মূসা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আল্লাহ যালিমকে অবকাশ দেন, কিন্তু যখন তাকে পাকড়াও করেন, তখন আর ছাড়েন না। তারপর তিনি ১১:১০২ আয়াত তিলাওয়াত করেন। হাদীসটি সহীহ বুখারীতে আছে, নম্বর ৪৬৮৬।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Exaltation and Corruption, Paired Again",
+          "bn": "ঔদ্ধত্য আর বিপর্যয়, আবারও জোড়ায়"
+        },
+        "p": [
+          {
+            "en": "Several verses keep company with this one. 28:4 says of Pharaoh that he exalted himself in the land and that he was one of the corrupters, the same two steps as 89:11 and 89:12, told of one man. 28:83 promises the home of the Hereafter to those who seek neither exaltation in the earth nor corruption, so the pair becomes a description of the saved. 29:40 tells how each was seized for his sin, by a storm of stones, a blast, the swallowing earth and drowning, close to how at-Tabari unpacks the whip.",
+            "bn": "কয়েকটি আয়াত এ আয়াতের পাশে এসে দাঁড়ায়। ২৮:৪ আয়াত ফেরাউন সম্পর্কে বলে, সে দেশে উদ্ধত হয়ে উঠেছিল এবং সে ছিল ফাসাদ সৃষ্টিকারীদের একজন। ৮৯:১১ ও ৮৯:১২ আয়াতের সেই দুই ধাপই, এবার একজন মানুষের গল্পে। ২৮:৮৩ আয়াত আখিরাতের ঘরের প্রতিশ্রুতি দেয় তাদের, যারা পৃথিবীতে ঔদ্ধত্যও চায় না, বিপর্যয়ও না। জোড়াটি সেখানে হয়ে যায় মুক্তিপ্রাপ্তদের পরিচয়। ২৯:৪০ আয়াত জানায়, প্রত্যেককে তার গুনাহর কারণে পাকড়াও করা হয়েছিল: পাথরের ঝড়ে, বিকট আওয়াজে, ভূগর্ভে ধসিয়ে আর ডুবিয়ে। তাবারী চাবুকের ব্যাখ্যা যেভাবে খুলেছেন, তার সঙ্গে এর মিল আছে।"
+          },
+          {
+            "en": "54:42, said of the people of Pharaoh, speaks of them being seized with the seizure of the Mighty, the Able, the very phrase al-Muyassar and as-Sa'di use on 89:14. And 30:41 widens the frame: corruption has appeared on land and sea because of what people's hands have earned, so that they may taste some of what they did and perhaps return. That last clause is the door these verses leave open for the reader, who is still alive and still able to turn back.",
+            "bn": "৫৪:৪২ আয়াত ফেরাউনের লোকদের প্রসঙ্গে বলে, তাদের পাকড়াও করা হয়েছিল মহাপরাক্রমশালী, সর্বশক্তিমানের পাকড়াওয়ে। ৮৯:১৪ আয়াতের ব্যাখ্যায় মুয়াসসার ও সা'দী ঠিক এই কথাটিই ব্যবহার করেন। আর ৩০:৪১ আয়াত চোখের সামনে আরও বড় ছবি মেলে ধরে: মানুষের হাতের কামাইয়ের কারণে জলে-স্থলে বিপর্যয় ছড়িয়ে পড়েছে, যাতে তারা নিজেদের কিছু কাজের স্বাদ পায় আর হয়তো ফিরে আসে। শেষ কথাটাই সেই দরজা, যা এ আয়াতগুলো পাঠকের জন্য খোলা রাখে। পাঠক এখনো বেঁচে আছেন, এখনো ফিরতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Story, Not Our Verdict",
+          "bn": "তাদের কাহিনি, আমাদের রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verses describe what the text describes: 'Ad, Thamud and Pharaoh, peoples the Qur'an names, their overstepping and their end. They license nothing against any living person or community. They give no one standing to name a state, a nation or a group of today as the heirs of Pharaoh or as the corrupters of this verse, or to read a disaster that strikes any people as Allah's whip upon them. That verdict was Allah's, over peoples whose record He Himself recited.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতগুলো শুধু সেটুকুই বলে, যা কুরআনে আছে: ‘আদ, সামূদ আর ফেরাউন, যাদের নাম কুরআন নিজে নিয়েছে, তাদের সীমালঙ্ঘন আর তাদের পরিণতি। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজকের কোনো রাষ্ট্র, জাতি বা দলকে ফেরাউনের উত্তরসূরি কিংবা এ আয়াতের ফাসাদকারী বলে দাগানোর অধিকার কাউকে দেয় না। কোনো জনপদে বিপদ এলে সেটাকে তাদের উপর আল্লাহর চাবুক বলে রায় দেওয়ার অধিকারও না। সে রায় ছিল আল্লাহর, সেই জাতিগুলোর উপর, যাদের ইতিহাস তিনি নিজেই শুনিয়েছেন।"
+          },
+          {
+            "en": "So the verse turns back on the reader. Aktharu describes harm that was made much of, added to. In an ordinary week that can be a small dishonesty in an account, a harsh word repeated at home until it is the tone of the house, a rumour forwarded because it was easy. The answer the verse suggests runs the other way: name the limit, stop adding to the harm, and repair what has already spread, before a respite is mistaken for permission.",
+            "bn": "তাই আয়াতের মুখ ঘুরে যায় পাঠকের দিকে। আকসারূ শব্দে আছে এমন ক্ষতি, যাকে বাড়িয়ে তোলা হয়েছে, একটার উপর আরেকটা চাপানো হয়েছে। সাধারণ একটা সপ্তাহে তা হতে পারে হিসাবের খাতায় ছোট্ট একটা অসততা। হতে পারে ঘরে বারবার বলা কড়া কথা, যা একসময় পুরো সংসারের সুর হয়ে যায়। হতে পারে সহজ ছিল বলে কোনো গুজব আরেকজনকে পাঠিয়ে দেওয়া। আয়াত যে পথ দেখায় তা উল্টো দিকে। সীমাটার নাম দিন, ক্ষতিতে আর কিছু যোগ করবেন না, আর যা ছড়িয়ে গেছে তা মেরামত করুন। অবকাশকে অনুমতি ভেবে ভুল করার আগেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer to Stop Adding",
+          "bn": "আর না বাড়ানোর দোয়া"
+        },
+        "p": [
+          {
+            "en": "The Qur'an records a prayer in this very vocabulary. Lut (AS), facing his people, said in 29:30: rabbi-nsurni 'ala al-qawmi al-mufsidin, my Lord, support me against the people who spread corruption. Beside it, a supplication in the verse's own words, composed here and not taken from the Sunnah: O Allah, do not let me be among those who overstep and add to corruption; let me not mistake Your respite for Your neglect; and make me among those who put right what they have spoiled.",
+            "bn": "কুরআন ঠিক এই শব্দভাণ্ডারেই একটি দোয়া সংরক্ষণ করেছে। লূত (আঃ) নিজের জাতির মুখোমুখি দাঁড়িয়ে ২৯:৩০ আয়াতে বলেছিলেন: রব্বিনসুরনী আলাল কাওমিল মুফসিদীন, হে আমার রব, ফাসাদ সৃষ্টিকারী জাতির বিরুদ্ধে আমাকে সাহায্য করুন। তার পাশে আয়াতের নিজের শব্দ দিয়ে একটি দোয়া, যা এখানে রচিত, সুন্নাহ থেকে নেওয়া নয়: হে আল্লাহ, যারা সীমা ছাড়ায় আর বিপর্যয় বাড়ায়, আমাকে তাদের দলে রাখবেন না। আপনার অবকাশকে আপনার উদাসীনতা ভাবার ভুল থেকে আমাকে বাঁচান। আর যা নষ্ট করেছি, তা মেরামত করে যারা, আমাকে তাদের একজন করুন।"
+          },
+          {
+            "en": "Questions to carry from these three words. Which limit have I crossed so often that I no longer feel it? Whose life carries the cost of a habit I have stopped calling a fault? When the wrong I hear about is far away, do I look as hard at the harm within my own reach? And if my Lord is truly at the lookout on every road, which road would I walk differently tomorrow, and what would I go back to put right?",
+            "bn": "এই তিনটি শব্দ থেকে সঙ্গে নেওয়ার মতো কিছু প্রশ্ন। কোন সীমা এতবার পেরিয়েছি যে এখন আর টেরই পাই না? আমার কোন অভ্যাসকে আর দোষ বলি না, অথচ তার দাম চুকাচ্ছে অন্য কারও জীবন? দূরের অন্যায়ের খবর শুনলে যতটা মন দিই, নিজের নাগালের ক্ষতির দিকে কি ততটাই তাকাই? আর আমার রব যদি সত্যিই প্রতিটি পথে পাহারায় থাকেন, তবে কাল কোন পথে অন্যভাবে হাঁটব? কোন জিনিস মেরামত করতে আবার ফিরে যাব?"
+          }
+        ]
+      }
+    ]
+  },
   "89:18": {
     "sections": [
       {
