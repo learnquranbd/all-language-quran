@@ -315,6 +315,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "83:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words for a Question",
+          "bn": "এক প্রশ্নের দুই শব্দের জবাব"
+        },
+        "p": [
+          {
+            "en": "The passage runs in three steps. In 83:7 the surah states that the book of the wicked is in sijjin. In 83:8 it turns to ask: wa ma adraka ma sijjin, and what will make you know what sijjin is? Then 83:9 answers in two Arabic words, kitabun marqum, a book inscribed: six words in the statement, four in the question, two in the reply. Both nouns are indefinite, with no article and no further description. What sijjin is and where it lies are taken up at 83:7; this verse is about the two words that close the question.",
+            "bn": "অংশটা এগোয় তিনটি ধাপে। ৮৩:৭ আয়াতে সূরা জানায়, পাপাচারীদের আমলনামা সিজ্জীনে আছে। ৮৩:৮ আয়াতে প্রশ্ন আসে: ওয়া মা আদরাকা মা সিজ্জীন, সিজ্জীন কী, তা আপনাকে কিসে জানাবে? তারপর ৮৩:৯ আয়াত জবাব দেয় আরবি দুই শব্দে: কিতাবুম মারকূম, লিখে রাখা এক কিতাব। বক্তব্যে ছয়টি শব্দ, প্রশ্নে চারটি, জবাবে দুটি। দুটো শব্দই অনির্দিষ্ট, আগে কোনো নির্দেশক নেই, পরে বাড়তি কোনো বিশেষণও নেই। সিজ্জীন কী আর কোথায়, সে আলোচনা ৮৩:৭ আয়াতে। এখানে কথা সেই দুই শব্দ নিয়ে, যা প্রশ্নটার জবাব হয়ে আসে।"
+          },
+          {
+            "en": "The question itself is a form of emphasis. Al-Qurtubi glosses it: this is not something you knew, O Muhammad, neither you nor your people. He adds that the question does not show the word sijjin to be foreign, any more than the same form does in al-Qari'a, what is al-Qari'a, and what will make you know what al-Qari'a is; it magnifies the matter of sijjin. Al-Baghawi relays the same gloss from az-Zajjaj: not something you or your people knew.",
+            "bn": "প্রশ্নটা আসলে গুরুত্ব বোঝানোর এক ধরন। কুরতুবী এর ব্যাখ্যা দেন এভাবে: হে মুহাম্মাদ, এ এমন বিষয় নয় যা আপনি জানতেন, আপনিও না, আপনার কওমও না। তিনি আরও বলেন, এ প্রশ্ন থেকে প্রমাণ হয় না যে সিজ্জীন শব্দটা আরবি নয়। আল-কারিআ সূরায়ও একই গড়নের প্রশ্ন আছে, সেখানেও তা প্রমাণ হয় না। প্রশ্নটা বরং সিজ্জীনের ব্যাপারটাকে বড় করে দেখায়। বাগাভী যাজ্জাজের সূত্রে একই কথা আনেন: এ এমন কিছু নয় যা আপনি বা আপনার কওম জানতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answer, or Something Else?",
+          "bn": "জবাব, নাকি অন্য কিছু?"
+        },
+        "p": [
+          {
+            "en": "The commentators part ways on what the two words answer. At-Tabari reads them as the reply to 83:8. He paraphrases the question as Allah saying to His Prophet: what has made you know, O Muhammad, what thing that book is? Then, he says, Allah made it plain, and said: it is kitabun marqum. On this reading the question of 83:8 already concerns the book, and 83:9 supplies its answer. At-Tabari does not set sijjin and the book against each other; he moves from one to the other.",
+            "bn": "দুই শব্দ কোন প্রশ্নের জবাব, এ নিয়ে মুফাসসিরদের পথ আলাদা। তাবারী একে ৮৩:৮ আয়াতের জবাব হিসেবে পড়েন। প্রশ্নটার অর্থ তিনি করেন এভাবে: আল্লাহ তাঁর নবীকে বলছেন, হে মুহাম্মাদ, ওই কিতাবটা কী জিনিস, তা আপনাকে কিসে জানাল? তারপর, তাবারী বলেন, আল্লাহ বিষয়টা খুলে বললেন: তা কিতাবুম মারকূম। এই পড়ায় ৮৩:৮ আয়াতের প্রশ্ন আগেই কিতাবটাকে ঘিরে, আর ৮৩:৯ তার জবাব দেয়। সিজ্জীন আর কিতাবকে তাবারী মুখোমুখি দাঁড় করান না। একটা থেকে আরেকটায় তিনি সহজে চলে যান।"
+          },
+          {
+            "en": "Al-Baghawi says the opposite in so many words: this is not the explanation of sijjin, but a statement about the book mentioned in inna kitaba al-fujjari, the book of the wicked in 83:7. It is a book in which their deeds are written. Ibn Kathir, in his Arabic, also denies that the words explain what sijjin is. For him they explain what has been written for them of the destination to sijjin, and he reports this from Muhammad ibn Ka'b al-Qurazi.",
+            "bn": "বাগাভী স্পষ্ট ভাষায় উল্টো কথা বলেন। তাঁর মতে এটা সিজ্জীনের ব্যাখ্যা নয়। এটা সেই কিতাবের বিবরণ, যার কথা এসেছে ইন্না কিতাবাল ফুজ্জারি অংশে, অর্থাৎ ৮৩:৭ আয়াতের পাপাচারীদের আমলনামা। তাতে তাদের আমল লেখা আছে। ইবন কাসীরও তাঁর আরবি তাফসীরে মানেন না যে এ শব্দ দুটো সিজ্জীন কী, তার ব্যাখ্যা। তাঁর মতে শব্দ দুটো বোঝায় তাদের জন্য সিজ্জীনে যাওয়ার যে পরিণতি লিখে দেওয়া হয়েছে, সেটাকে। এ কথা তিনি মুহাম্মাদ ইবন কা'ব আল-কুরাযী থেকে বর্ণনা করেন।"
+          },
+          {
+            "en": "The two denials are not identical. Al-Baghawi ties the words to the record of deeds; Ibn Kathir ties them to the destination decreed. Ma'arif al-Qur'an names both men together and says the words explain the book of the wicked in 83:7, while sijjin is the place where it is kept. The Muyassar, explaining 83:7 to 83:9 together, answers the question with a lasting prison and painful punishment, and what was written for them to reach. The sources consulted here leave both readings standing.",
+            "bn": "দুজনের অস্বীকার অবশ্য হুবহু এক নয়। বাগাভী শব্দ দুটোকে জুড়েছেন আমলনামার সঙ্গে, ইবন কাসীর জুড়েছেন নির্ধারিত পরিণতির সঙ্গে। মাআরিফুল কুরআন দুজনের নাম একসঙ্গে এনে বলে, শব্দ দুটো ৮৩:৭ আয়াতের পাপাচারীদের আমলনামার ব্যাখ্যা, আর সিজ্জীন সেই জায়গা, যেখানে তা রাখা হয়। মুয়াসসার ৮৩:৭ থেকে ৮৩:৯ একসঙ্গে ব্যাখ্যা করে। প্রশ্নের জবাবে সে বলে, এ এক স্থায়ী কারাগার আর যন্ত্রণাদায়ক শাস্তি, আর এটাই সেই গন্তব্য যা তাদের জন্য লিখে দেওয়া হয়েছে। এখানে দেখা উৎসগুলো দুই পড়াকেই পাশাপাশি রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Finished, With No One Added",
+          "bn": "খাতা বন্ধ, নতুন নাম ওঠে না"
+        },
+        "p": [
+          {
+            "en": "The line Ibn Kathir reports from al-Qurazi describes the book in three terms: marqum, maktub, mafrugh minhu. Inscribed, written, and finished with. Then: no one is added to it and no one is taken out of it. The Arabic word is ahad, a person. What al-Qurazi calls closed is the roll of those entered in it, not only the page of their deeds. The English abridgement renders it more loosely, that no one can add to it or remove anything from it.",
+            "bn": "কুরাযী থেকে ইবন কাসীর যে কথা আনেন, তাতে কিতাবটার তিনটি গুণ: মারকূম, মাকতূব, মাফরূগুন মিনহু। খোদাই করা, লেখা, আর শেষ করে রাখা। তারপর বলা হয়: এতে কাউকে যোগ করা হয় না, কাউকে বাদও দেওয়া হয় না। আরবিতে শব্দটা আহাদ, অর্থাৎ কোনো ব্যক্তি। তাই কুরাযী যাকে বন্ধ বলছেন, তা শুধু আমলের পাতা নয়। তা ওই খাতায় যাদের নাম উঠেছে, তাদের তালিকা। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ কথাটা একটু ঢিলেভাবে অনুবাদ করে: কেউ এতে কিছু যোগ করতে বা এ থেকে কিছু সরাতে পারে না।"
+          },
+          {
+            "en": "Al-Qurtubi gives nearly the same words under another name. Qatada said, he reports: marqum means written; evil was inscribed for them; no one is added to them and no one taken away from them. So one sentence travels under al-Qurazi in Ibn Kathir and under Qatada in al-Qurtubi. The Muyassar keeps the idea without the word for a person: written, finished with, nothing added to it and nothing reduced. The fetched texts do not say which wording came first.",
+            "bn": "কুরতুবী প্রায় একই কথা আনেন অন্য একজনের নামে। তাঁর বর্ণনায় কাতাদা বলেছেন: মারকূম মানে লেখা। তাদের জন্য মন্দ লিখে রাখা হয়েছে। তাদের মধ্যে কাউকে যোগ করা হয় না, তাদের থেকে কাউকে বাদও দেওয়া হয় না। একই বাক্য তাহলে ইবন কাসীরে কুরাযীর নামে, আর কুরতুবীতে কাতাদার নামে পাওয়া যায়। মুয়াসসার ব্যক্তিবাচক শব্দটা ছাড়াই ভাবটা রাখে: লেখা হয়ে গেছে, শেষ করে রাখা হয়েছে, এতে কিছু বাড়ে না, কিছু কমেও না। কোন ভাষ্যটা আগের, হাতে থাকা পাঠ তা বলে না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an pushes the point to its end: a book inscribed and sealed, to which no one can add anything, from which no one can remove anything, and in which no alteration is possible. Each of these sources describes the book as complete. None of them describes it as a draft still open to revision by anyone. That is the weight of the passive participle: marqum names a thing on which the writing has already been done.",
+            "bn": "মাআরিফুল কুরআন কথাটাকে শেষ সীমা পর্যন্ত নিয়ে যায়। কিতাবটা লেখা ও সীলমোহর করা। কেউ এতে কিছু যোগ করতে পারে না, কিছু সরাতেও পারে না, এতে কোনো রদবদলও সম্ভব নয়। এখানে উদ্ধৃত প্রত্যেক উৎস কিতাবটাকে সম্পূর্ণ হিসেবে বর্ণনা করে। কেউই একে এমন খসড়া বলে না, যা কারও হাতে বদলানোর জন্য খোলা পড়ে আছে। মারকূম শব্দের গড়ন থেকেও এ ভার আসে। এটা কর্মবাচক বিশেষণ, এমন জিনিসের নাম, যার উপর লেখার কাজ আগেই শেষ হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like a Mark in Cloth",
+          "bn": "কাপড়ে বসানো নকশার মতো"
+        },
+        "p": [
+          {
+            "en": "The most common gloss of marqum is simply written. At-Tabari gives it as his own reading, al-marqum means al-maktub, and says the people of interpretation said the like. He then cites them. Qatada, through Ma'mar: a written book. Ibn Zayd: al-marqum is the written. A second chain from Qatada, through Sa'id, reads 83:8 and 83:9 together and adds a darker phrase: ruqima lahum bi-sharr, evil was inscribed for them. The verb is the same root, now with its content named.",
+            "bn": "মারকূম শব্দের সবচেয়ে প্রচলিত অর্থ সোজা: লেখা। তাবারী এটাকে নিজের মত হিসেবে দেন, আল-মারকূম মানে আল-মাকতূব। তিনি বলেন, তাফসীরবিদরাও এমনটাই বলেছেন, তারপর তাঁদের কথা আনেন। মা'মারের সূত্রে কাতাদা: লেখা কিতাব। ইবন যায়দ: মারকূম মানে লিখিত। সাঈদের সূত্রে কাতাদার আরেকটি বর্ণনা ৮৩:৮ আর ৮৩:৯ একসঙ্গে পড়ে আরও কঠিন এক কথা যোগ করে: রুকিমা লাহুম বিশাররিন, তাদের জন্য মন্দ লিখে রাখা হয়েছে। ক্রিয়াটা একই ধাতুর, এবার কী লেখা হয়েছে তা-ও বলা হলো।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both add an image. The book is written ka-r-raqmi fi ath-thawb, like the raqm on a garment: it is not forgotten and it is not erased. Raqm in this image is the marking made on a piece of cloth, and the comparison is chosen for what it keeps: a mark that stays where it was put. Al-Baghawi adds where the image leads: their deeds are written in it, fixed against them, not forgotten or erased, until they are recompensed by it.",
+            "bn": "কুরতুবী আর বাগাভী দুজনেই একটা উপমা যোগ করেন। কিতাবটা লেখা কাররাকমি ফিস সাওব, অর্থাৎ কাপড়ের উপর রাকমের মতো। তা ভোলা যায় না, মোছাও যায় না। উপমার রাকম হলো কাপড়ের উপর করা নকশা বা দাগ। উপমাটা বাছা হয়েছে তার টিকে থাকার গুণের জন্য: যেখানে বসানো হয়, দাগটা সেখানেই থেকে যায়। উপমাটা কোথায় গিয়ে দাঁড়ায়, বাগাভী তা-ও বলেন। তাতে তাদের আমল লেখা আছে, তাদের বিরুদ্ধে স্থির হয়ে আছে। তা ভোলা হবে না, মোছাও হবে না, যতক্ষণ না সে অনুযায়ী তাদের প্রতিফল দেওয়া হয়।"
+          },
+          {
+            "en": "Al-Qurtubi also gives the root's origin: the basis of raqm is writing. He supports it with a line of verse in which a poet tells people far from him: I will write to you on clear water, despite your distance, if water had anyone who could write on it. The poet uses raqm for writing that cannot hold. The verse of the surah uses the same root for writing that does, set in a book that is neither forgotten nor wiped.",
+            "bn": "কুরতুবী শব্দটার মূলও জানান: রাকমের আসল অর্থ লেখা। প্রমাণ হিসেবে তিনি একটি কবিতার চরণ আনেন। দূরে থাকা মানুষদের উদ্দেশে কবি বলছেন: তোমরা যত দূরেই থাকো, স্বচ্ছ পানির উপর আমি তোমাদের লিখে পাঠাব, যদি পানির উপর লেখার মতো কেউ থাকত। কবি রাকম শব্দটা ব্যবহার করেছেন এমন লেখার জন্য, যা টেকে না। সূরার আয়াত একই ধাতু ব্যবহার করে এমন লেখার জন্য, যা টিকে থাকে। সে লেখা এমন কিতাবে, যা ভোলা হয় না, মোছাও হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sealed in the Speech of Himyar",
+          "bn": "হিমইয়ারের ভাষায় সীলমোহর"
+        },
+        "p": [
+          {
+            "en": "A second gloss reads marqum as makhtum, sealed. Al-Qurtubi gives it a name and a source: ad-Dahhak said marqum means sealed, in the dialect of Himyar. Al-Baghawi records the same gloss without a name, opening it with wa qila, and it is said. Ma'arif al-Qur'an adopts it outright, saying that marqum here signifies makhtum, and it describes the book as inscribed and sealed, joining the two readings rather than choosing between them.",
+            "bn": "দ্বিতীয় এক ব্যাখ্যায় মারকূম মানে মাখতূম, সীলমোহর করা। কুরতুবী এর বক্তা আর উৎস দুটোই জানান: দাহহাক বলেছেন, হিমইয়ারের ভাষায় মারকূম মানে সীলমোহর করা। বাগাভী একই ব্যাখ্যা আনেন কারও নাম ছাড়া, ওয়া কীলা, অর্থাৎ বলা হয়েছে, এই বলে। মাআরিফুল কুরআন এটা সরাসরি গ্রহণ করে। তার মতে এখানে মারকূম মানে মাখতূম। কিতাবটাকে সে বলে লেখা ও সীলমোহর করা, দুই ব্যাখ্যার একটা বেছে না নিয়ে দুটোকেই জুড়ে দেয়।"
+          },
+          {
+            "en": "A third gloss turns from the book to the person. Al-Baghawi reports from Qatada and Muqatil that a mark was set upon him, as though he had been marked with a sign by which he is known to be a disbeliever. Here raqm is a brand of identification. So the fetched commentaries carry three readings: written, sealed, and marked. At-Tabari, al-Qurtubi and al-Baghawi lead with written; the others are kept as reports. None of them sets one gloss against another as an error.",
+            "bn": "তৃতীয় ব্যাখ্যা কিতাব থেকে চোখ ফেরায় মানুষটার দিকে। বাগাভী কাতাদা ও মুকাতিল থেকে বর্ণনা করেন, তার উপর একটা চিহ্ন বসিয়ে দেওয়া হয়েছে। যেন তাকে এমন আলামত দিয়ে দাগানো হয়েছে, যা দেখে চেনা যায় যে সে কাফির। রাকম এখানে পরিচয়ের ছাপ। তাহলে হাতে থাকা তাফসীরগুলোয় তিনটি পড়া মেলে: লেখা, সীলমোহর করা, আর চিহ্নিত করা। তাবারী, কুরতুবী আর বাগাভী শুরু করেন লেখা অর্থ দিয়ে। বাকিগুলো তাঁরা বর্ণনা হিসেবে রেখে দেন। কেউই এক ব্যাখ্যাকে অন্যটার বিপরীতে ভুল বলে দাঁড় করান না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Page Contains",
+          "bn": "পাতায় কী লেখা আছে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads 83:8 and 83:9 as one phrase and says what is on the page: a book in which their foul deeds are recorded. He defines sijjin briefly as the narrow, cramped place, and adds that it is the opposite of 'illiyyin, the place of the book of the righteous, which the surah reaches shortly. The same two words, kitabun marqum, return at 83:20 for that second book; the comparison belongs to its own verses.",
+            "bn": "সা'দী ৮৩:৮ আর ৮৩:৯ এক বাক্য হিসেবে পড়েন, আর জানান পাতায় কী আছে: এমন এক কিতাব, যাতে তাদের নোংরা আমলগুলো লেখা। সিজ্জীনের সংজ্ঞা তিনি দেন সংক্ষেপে: সরু, দমবন্ধ এক জায়গা। সঙ্গে যোগ করেন, সিজ্জীন হলো ইল্লিয়্যীনের বিপরীত, যেখানে থাকে নেককারদের আমলনামা, আর সূরা একটু পরেই সেখানে পৌঁছায়। সেই দ্বিতীয় কিতাবের বেলায়ও ৮৩:২০ আয়াতে একই দুই শব্দ ফিরে আসে, কিতাবুম মারকূম। দুইয়ের তুলনা সেই আয়াতগুলোর আলোচনার বিষয়।"
+          },
+          {
+            "en": "No fetched commentary on this verse attaches a hadith to the words kitabun marqum. Ibn Kathir, in the passage that spans these verses, recalls the long narration of al-Bara' ibn 'Azib on the disbeliever's book being written in sijjin; it bears on 83:7 and is discussed there. No occasion of revelation is given for 83:9 in the texts consulted. Its place is enough: it completes the reply that opens with kalla in 83:7, answering those in 83:4 who do not think they will be raised.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই কিতাবুম মারকূম শব্দ দুটোর সঙ্গে কোনো হাদীস জোড়ে না। এ আয়াতগুলো জুড়ে চলা আলোচনায় ইবন কাসীর বারা ইবন আযিব (রাঃ)-এর দীর্ঘ বর্ণনার কথা স্মরণ করান, যেখানে কাফিরের আমলনামা সিজ্জীনে লেখার কথা আছে। সে বর্ণনা ৮৩:৭ আয়াতের বিষয়, আলোচনাও সেখানে। দেখা পাঠগুলোয় ৮৩:৯ আয়াতের কোনো শানে নুযূল নেই। আয়াতের অবস্থানই যথেষ্ট। ৮৩:৭ আয়াতে কাল্লা দিয়ে যে জবাব শুরু হয়, এ আয়াত তা পূর্ণ করে। জবাবটা তাদের উদ্দেশে, যারা ৮৩:৪ আয়াতে মনে করে না যে তাদের আবার ওঠানো হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Roll No Reader Holds",
+          "bn": "যে তালিকা কারও হাতে নেই"
+        },
+        "p": [
+          {
+            "en": "The book belongs to al-fujjar, the wicked, and the surah says at once whom it means: in 83:10 to 83:13, those who deny the Day of Recompense, every sinful transgressor who, when the verses are recited to him, calls them legends of the ancients. The verse describes the register of that group as the text describes it, and it licenses nothing against any living person or community. It gives no reader a list to fill with names, and no grounds to treat anyone as already entered in it.",
+            "bn": "কিতাবটা আল-ফুজ্জার, অর্থাৎ পাপাচারীদের। কারা তারা, সূরা সঙ্গে সঙ্গে বলে দেয়। ৮৩:১০ থেকে ৮৩:১৩ আয়াতে তারা হলো সেই লোক, যারা কর্মফল দিবসকে মিথ্যা বলে। প্রত্যেক সীমালঙ্ঘনকারী পাপিষ্ঠ, যার সামনে আয়াত পড়া হলে বলে, এ তো আগের লোকদের কিসসা। আয়াতটি সেই দলের খাতার কথা বলে, ঠিক যেভাবে পাঠে আছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো পাঠকের হাতে এটা নাম বসানোর তালিকা তুলে দেয় না। কাউকে আগেই ওই খাতায় উঠে গেছে বলে ধরে নেওয়ার ভিত্তিও দেয় না।"
+          },
+          {
+            "en": "The sources themselves place the book beyond human reach. Ma'arif al-Qur'an says it is kept for safe custody in sijjin; al-Qurazi's line says no one is added to it or taken out, which is a statement about Allah's record, not a permission for anyone to keep such a list. The surah opened by addressing traders who short the scale in 83:1 to 83:3, people still alive and still dealing. That is a reason to hear the warning about the inscribed book first as addressed to oneself.",
+            "bn": "উৎসগুলো নিজেরাই কিতাবটাকে মানুষের নাগালের বাইরে রাখে। মাআরিফুল কুরআন বলে, তা হেফাজতে রাখা আছে সিজ্জীনে। কুরাযীর কথা হলো, এতে কাউকে যোগ করা হয় না, কাউকে বাদও দেওয়া হয় না। এ কথা আল্লাহর রাখা খাতা নিয়ে। নিজে এমন তালিকা রাখার অনুমতি এতে কারও জন্য নেই। সূরার শুরু ৮৩:১ থেকে ৮৩:৩ আয়াতে, মাপে কম দেওয়া ব্যবসায়ীদের সম্বোধন করে। তারা তখনো জীবিত, তখনো লেনদেন করছে। লিখে রাখা কিতাবের সতর্কবাণী তাই আগে নিজের বলে শোনার কারণ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Writing While Ink Is Wet",
+          "bn": "কালি শুকানোর আগে লেখা"
+        },
+        "p": [
+          {
+            "en": "Set the glosses side by side and they agree on one thing: what is in this book stays. Written, it is not forgotten. Sealed, it is not opened and changed. Marked like cloth, it is not wiped. For the reader, the practical weight falls on the present. Each day's dealings go somewhere, and the verse refuses the comfort that small things are lost. What earned deeds do to the heart is the subject of 83:14, read at its own verse.",
+            "bn": "ব্যাখ্যাগুলো পাশাপাশি রাখলে একটা বিষয়ে সবাই একমত: এ কিতাবে যা আছে, তা থেকে যায়। লেখা হলে ভোলা হয় না। সীলমোহর করা হলে খুলে বদলানো যায় না। কাপড়ের নকশার মতো বসানো হলে মোছা যায় না। পাঠকের জন্য আসল ভার পড়ে বর্তমানের উপর। প্রতিদিনের লেনদেন কোথাও না কোথাও গিয়ে জমা হয়। ছোট জিনিস হারিয়ে যায়, এ সান্ত্বনা আয়াতটা মেনে নেয় না। অর্জিত আমল অন্তরের উপর কী করে, সে কথা ৮৩:১৪ আয়াতে, আলোচনাও সেখানে।"
+          },
+          {
+            "en": "There is also something to notice in what comes after the question. Asked what will make you know what sijjin is, the reader might expect a picture of the place: its depth, its narrowness, its fire. The verse gives none of that here. Whether kitabun marqum answers the question or turn back to the book of 83:7, what the reader is handed next is a book that has been written. The weight of the warning sits in what was done and set down, before anything is said of what follows.",
+            "bn": "প্রশ্নের পরে কী আসে, সেখানেও খেয়াল করার মতো কিছু আছে। সিজ্জীন কী, তা কিসে জানাবে, এ প্রশ্ন শুনে পাঠক হয়তো জায়গাটার একটা ছবি আশা করেন: কত গভীর, কত সরু, কেমন আগুন। এখানে আয়াত তার কিছুই দেয় না। শব্দ দুটো প্রশ্নের জবাব হোক, কিংবা ৮৩:৭ আয়াতের কিতাবের দিকে ফিরে যাক, পাঠকের হাতে এরপর আসে লেখা হয়ে যাওয়া এক কিতাব। সতর্কবাণীর ভার তাই পড়ে করা কাজ আর লিখে রাখা হিসাবের উপর, পরে কী ঘটবে তা বলার আগেই।"
+          },
+          {
+            "en": "The book in this verse is described as finished, and it belongs to a group named by its denial. The one reading it still has a page that is open. The warning comes in the middle of a surah addressed to people who were still able to hear it, to change their measures, and to expect the Day. A useful question to carry from these two words: if what I did today were inscribed and kept, would I want it read back to me as it stands?",
+            "bn": "এ আয়াতের কিতাবকে শেষ হয়ে যাওয়া খাতা হিসেবে বর্ণনা করা হয়েছে, আর তা এমন দলের, যাদের পরিচয় তাদের অস্বীকারে। যিনি আয়াতটা পড়ছেন, তাঁর পাতা এখনো খোলা। সতর্কবাণীটা এসেছে এমন এক সূরার মাঝখানে, যার শ্রোতারা তখনো শুনতে পারত, নিজেদের মাপ ঠিক করতে পারত, বিচারদিবসের কথা মাথায় রাখতে পারত। এই দুই শব্দ থেকে সঙ্গে রাখার মতো একটা প্রশ্ন: আজ যা করেছি, তা যদি লিখে রেখে দেওয়া হয়, হুবহু সেভাবেই কি তা আমাকে পড়ে শোনানো হোক, আমি চাইব?"
+          }
+        ]
+      }
+    ]
+  },
   "83:14": {
     "sections": [
       {

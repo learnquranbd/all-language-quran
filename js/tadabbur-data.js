@@ -29625,6 +29625,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every soul has a guardian over it from Allah, keeping its deeds and shielding it until the decree; live as one watched over, never as one left alone.",
     "lessonBn": "প্রতিটি প্রাণের উপর আল্লাহর পক্ষ থেকে একজন হেফাজতকারী আছেন, যিনি তার আমল সংরক্ষণ করেন এবং তাকদীর আসা পর্যন্ত তাকে আগলে রাখেন। তাই নিজেকে কখনো একা ভাববেন না, পাহারায় থাকা মানুষের মতো বাঁচুন।"
+  },
+  "83:9": {
+    "reflectionEn": "The surah asks what will make you know what sijjin is, and the answer comes in two words: a book inscribed. Not a long description, only a page that has been written. The word for inscribed is likened to the marking on cloth, which is neither forgotten nor erased, and some read it as sealed. Either way, nothing on it slips away and nothing is quietly added. The verse speaks of a group the surah names, the wicked who deny the Day, and it is no list for my neighbours' names. It turns me to my own page. What am I writing on it now, while the pen is still moving and the ink is still mine to choose?",
+    "reflectionBn": "সূরাটি প্রশ্ন করে: সিজ্জীন কী, তা আপনাকে কিসে জানাবে? জবাব মাত্র দুই শব্দে: লিখে রাখা এক কিতাব। লম্বা কোনো বর্ণনা নেই, আছে শুধু লেখা হয়ে যাওয়া একটা পাতা। মারকূম শব্দটাকে তুলনা করা হয় কাপড়ের নকশার সঙ্গে, যা ভোলা হয় না, মোছাও যায় না। কেউ কেউ এর অর্থ করেছেন সীলমোহর করা। যেভাবেই পড়ি, সেখান থেকে কিছু হারায় না, গোপনে কিছু যোগও হয় না। আয়াতটি সূরার চিহ্নিত এক দলের কথা বলে, যারা বিচারদিবসকে মিথ্যা বলে। প্রতিবেশীর নাম বসানোর তালিকা এটা নয়। আয়াতটি আমাকে ফিরিয়ে আনে আমার নিজের পাতার দিকে। কলম এখনো চলছে, কালি বেছে নেওয়ার সুযোগও এখনো আমার হাতে। এই সময়ে আমি সেখানে কী লিখছি?",
+    "pointsEn": [
+      "If what I did today were set into my record like a marking on cloth, which part would I most want to unpick?",
+      "Which of my habits do I treat as passing, as if nothing about them is being written down?",
+      "When I read about the wicked and their register, whose face comes to mind first, and why is it not my own?",
+      "What one deed this week could I set down on my page on purpose, knowing it will not fade?"
+    ],
+    "pointsBn": [
+      "আজ যা করেছি তা যদি কাপড়ের নকশার মতো আমার আমলনামায় বসিয়ে দেওয়া হয়, কোন অংশটা আমি সবচেয়ে বেশি খুলে ফেলতে চাইতাম?",
+      "আমার কোন অভ্যাসগুলোকে আমি সাময়িক ভাবি, যেন সেগুলোর কিছুই লেখা হচ্ছে না?",
+      "পাপাচারীদের খাতার কথা পড়লে প্রথমে কার মুখ মনে আসে? আমার নিজের মুখ কেন নয়?",
+      "এ সপ্তাহে কোন একটা কাজ আমি জেনেবুঝে নিজের পাতায় লিখে রাখতে পারি, এ কথা মনে রেখে যে তা মুছবে না?"
+    ],
+    "lessonEn": "Deeds are inscribed in a record that does not fade, so write on your own page now what you would want kept, and read the warning as yours.",
+    "lessonBn": "আমল লেখা হয় এমন খাতায় যা মুছে যায় না। তাই যা রেখে দিতে চান, এখনই নিজের পাতায় তা লিখুন, আর সতর্কবাণীকে নিজের বলে পড়ুন।"
   }
 };
 
