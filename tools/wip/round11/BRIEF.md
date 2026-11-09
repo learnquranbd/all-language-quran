@@ -45,6 +45,12 @@ sunnah.com returns 403, so don't try it.
 - One collection's wording, quoted whole. Report the collector's grading and never
   upgrade it. If no tafsir attaches a sound hadith, say so in one sentence. A general
   narration must be marked as not attached to the verse.
+- Words raised to the Prophet ﷺ (or divine speech) that are NOT confirmed on a fetched
+  quranx page, or that the collector himself grades gharib/weak (or that a tafsir only
+  relays from Ahmad, Ibn Abi Hatim, at-Tayalisi, etc.): MENTION only
+  (who relays it, the topic, "not graded / weak"). Never quote or closely paraphrase
+  its content, not even after a colon, and build nothing on it. (A canonical entry you
+  fetched on quranx where the collector is silent may be quoted, saying he gives no grading.)
 - Never report a grading or a narrator judgement that comes only from a printed
   edition's editor or footnote (e.g. at-Tabari's editor), or one a tafsir relays for
   another collector (al-Hakim via a footnote). Keep it in the LEDGER, not the article.
