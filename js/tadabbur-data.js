@@ -29823,6 +29823,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Turn towards the reminders that reach you instead of away from them, and when you remind others, speak plainly and leave their hearts and their reckoning to Allah.",
     "lessonBn": "যে উপদেশ আপনার কাছে পৌঁছায়, তার দিকে মুখ ফেরান, পিঠ নয়। আর অন্যকে উপদেশ দিলে স্পষ্ট করে বলুন, তাদের অন্তর আর তাদের হিসাব আল্লাহর ওপর ছেড়ে দিন।"
+  },
+  "89:23": {
+    "reflectionEn": "The earth is pounded flat, the angels stand rank upon rank, and Hell is brought where it can be seen. Only then, the verse says, does man remember. He remembers what he did and what he left undone, the good he meant to send ahead and kept putting off. Then comes the question that closes the verse: and how will the remembering help him now? The faculty that could have saved him is finally awake, and it has arrived a Day too late. The verse is not set before me to frighten me into silence. It is set before me while remembering still counts. What would I remember on that Day if today passed like yesterday? And what can I remember now, while it still changes something?",
+    "reflectionBn": "পৃথিবী চূর্ণ হয়ে সমান হয়ে গেছে, ফেরেশতারা সারির পর সারি দাঁড়িয়ে, আর জাহান্নামকে এনে চোখের সামনে রাখা হয়েছে। আয়াত বলছে, ঠিক তখনই মানুষের মনে পড়ে। মনে পড়ে কী করেছিল, কী করেনি। কোন নেক কাজ আগে পাঠাবে বলে ভেবেছিল, অথচ দিনের পর দিন পিছিয়ে দিয়েছে। তারপর আয়াতের শেষ প্রশ্ন: এখন এই মনে পড়া তার কী কাজে আসবে? যে বোধ তাকে বাঁচাতে পারত, তা শেষ পর্যন্ত জেগেছে ঠিকই, কিন্তু একটা দিন দেরিতে। আয়াতটি আমাকে ভয়ে চুপ করিয়ে দেওয়ার জন্য আসেনি। এসেছে এমন সময়ে, যখন মনে পড়ার এখনো দাম আছে। আজকের দিনটাও যদি গতকালের মতো চলে যায়, সেদিন আমার কী মনে পড়বে? আর এখন, যখন মনে পড়লে কিছু বদলায়, আমার কী মনে করা দরকার?",
+    "pointsEn": [
+      "What good deed have I been meaning to do for months, and what exactly is it waiting for?",
+      "When someone reminds me of a fault, do I take the reminder as a gift that came in time, or as an interruption?",
+      "If what I sent ahead this week were laid out before me today, what would I be glad to see, and what would I wish undone?",
+      "What do I fear I will only remember then, and what would it take for me to remember it today?",
+      "Whom could I remind gently this week, and whose reminder have I been brushing aside?"
+    ],
+    "pointsBn": [
+      "কোন নেক কাজটা কয়েক মাস ধরে করব করব করছি? সেটা আসলে কিসের অপেক্ষায় পড়ে আছে?",
+      "কেউ আমার কোনো দোষ ধরিয়ে দিলে আমি কি তাকে সময়মতো পাওয়া উপহার ভাবি, নাকি বিরক্তিকর বাধা?",
+      "এ সপ্তাহে যা আগে পাঠিয়েছি, আজ যদি তা আমার সামনে মেলে ধরা হয়, কোনটা দেখে খুশি হব, আর কোনটা মুছে ফেলতে চাইব?",
+      "কোন কথাটা আমার কেবল সেদিনই মনে পড়বে বলে ভয় হয়? আজই তা মনে করতে আমার কী লাগবে?",
+      "এ সপ্তাহে কাকে আমি নরম করে মনে করিয়ে দিতে পারি? আর কার মনে করিয়ে দেওয়া কথা আমি এড়িয়ে চলছি?"
+    ],
+    "lessonEn": "Remember your deeds now, while remembering can still change them; on that Day the memory returns whole, but it can no longer help.",
+    "lessonBn": "নিজের আমলের কথা এখনই মনে করুন, যখন মনে পড়লে তা বদলানো যায়। সেদিন সব কিছুই পুরো মনে পড়বে, কিন্তু তখন আর কোনো কাজে আসবে না।"
   }
 };
 

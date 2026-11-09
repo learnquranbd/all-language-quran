@@ -451,6 +451,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "89:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "Hell, Brought Into View",
+          "bn": "চোখের সামনে আনা জাহান্নাম"
+        },
+        "p": [
+          {
+            "en": "Wa-ji'a yawma'idhin bi-jahannam: and Hell is brought, that Day. The verse is the third line of a scene that opens in 89:21, where the earth is pounded flat, pounding upon pounding, and continues in 89:22 with the coming of your Lord and the angels rank upon rank. With kalla, which Ibn Kathir's English abridgement glosses as truly, the surah turns from the man who misread wealth and want to the Day on which such readings are answered. This verse stands at the centre of that turn.",
+            "bn": "ওয়া জী'আ ইয়াওমাইযিন বিজাহান্নাম: আর সেদিন জাহান্নামকে আনা হবে। একটি দৃশ্যের তৃতীয় লাইন এই আয়াত। দৃশ্যের শুরু ৮৯:২১ আয়াতে, যেখানে পৃথিবীকে চূর্ণ করে সমান করে দেওয়া হয়, আঘাতের পর আঘাতে। তারপর ৮৯:২২ আয়াতে আসে তোমার রবের আগমন, আর ফেরেশতারা দাঁড়ায় সারির পর সারি। ৮৯:২১-এর শুরুতে কাল্লা শব্দটি আছে, ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ যার অর্থ করে নিশ্চয়ই। এখান থেকে সম্পদ আর অভাবের ভুল ব্যাখ্যা করা মানুষটির কথা ছেড়ে সূরা এবার সেই দিনের দিকে ফেরে, যেদিন এসব ব্যাখ্যার জবাব মিলবে। এই মোড়ের ঠিক মাঝখানে দাঁড়িয়ে আছে আয়াতটি।"
+          },
+          {
+            "en": "The verb ji'a is passive: Hell is brought, and the verse does not name who brings it. At-Tabari supplies the agent in his paraphrase: Allah brought Hell that Day. The word yawma'idhin, that Day, then comes twice in the verse's nine Arabic words, once for Hell's arrival and once for man's remembering. Al-Baghawi ties the second to the first in a short gloss: that Day means the day Hell is brought. The remembering is set beside the sight of the Fire, not before it.",
+            "bn": "জী'আ ক্রিয়াটি কর্মবাচ্য। জাহান্নামকে আনা হবে, কিন্তু কে আনবেন আয়াত তা বলে না। তাবারী নিজের ব্যাখ্যায় কর্তাটি জুড়ে দেন: সেদিন আল্লাহ জাহান্নামকে আনবেন। আয়াতের নয়টি আরবি শব্দের মধ্যে ইয়াওমাইযিন, অর্থাৎ সেদিন, এসেছে দুবার। একবার জাহান্নাম আসার কথায়, আরেকবার মানুষের মনে পড়ার কথায়। বাগাভী ছোট্ট এক ব্যাখ্যায় দ্বিতীয়টিকে প্রথমটির সঙ্গে বেঁধে দেন: সেদিন মানে যেদিন জাহান্নামকে আনা হবে। মানুষের মনে পড়াটা তাই আগুন দেখার আগে নয়, দেখার পাশাপাশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Lord Comes: Four Readings",
+          "bn": "রবের আগমন: চার রকম পাঠ"
+        },
+        "p": [
+          {
+            "en": "The verse before speaks of a coming: wa-ja'a rabbuka wa-l-malaku saffan saffan, and your Lord comes, and the angels, rank upon rank. The commentators fetched for this page read that clause in more than one way, and this article reports them rather than choosing. At-Tabari restates it plainly: when your Lord comes, O Muhammad, and His angels, rank after rank. As-Sa'di writes that Allah comes to judge between His servants in shadows of cloud, and that the angels of each heaven come as one rank, surrounding the creatures beneath them, ranks of humility before the Compelling King.",
+            "bn": "আগের আয়াতে এক আগমনের কথা: ওয়া জা'আ রাব্বুকা ওয়াল মালাকু সাফ্ফান সাফ্ফা, আর তোমার রব আসবেন, আর ফেরেশতারা সারির পর সারি। এ পাতার জন্য যে তাফসীরগুলো আনা হয়েছে, সেগুলো এই বাক্যটি একাধিকভাবে পড়ে। এই লেখা কোনো একটিকে বেছে নেয় না, সবগুলোই তুলে ধরে। তাবারী সোজাসুজি আবার বলেন: হে মুহাম্মাদ, যখন তোমার রব আসবেন আর তাঁর ফেরেশতারা আসবে সারির পর সারি। সা'দী লেখেন, আল্লাহ মেঘের ছায়ায় আসবেন বান্দাদের মধ্যে ফয়সালা করতে। প্রতিটি আসমানের ফেরেশতারা আসবে এক এক সারি হয়ে, নিচের সৃষ্টিকে ঘিরে রাখবে। মহাপরাক্রমশালী বাদশাহর সামনে এগুলো বিনয় আর নত হওয়ার সারি।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic sets the coming after the first and greatest intercession, which he says he explained under Surat al-Isra', and then writes: the Lord comes for the judgement between His creatures as He wills, and the angels come before Him in ranks. Al-Qurtubi and al-Baghawi relay a different reading from al-Hasan: His command and His decree came. Al-Qurtubi calls this a case of an omitted first term in the phrase. Al-Baghawi sets beside it a single word from al-Kalbi: He descends.",
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে এই আগমনকে রাখেন প্রথম ও সবচেয়ে বড় শাফাআতের পরে। সেই শাফাআতের ব্যাখ্যা তিনি সূরা ইসরায় দিয়েছেন বলে উল্লেখ করেন। তারপর লেখেন: রব সৃষ্টির মধ্যে ফয়সালা করতে আসবেন যেভাবে তিনি চান, আর ফেরেশতারা তাঁর সামনে আসবে সারি বেঁধে। কুরতুবী ও বাগাভী হাসান থেকে ভিন্ন এক পাঠ বর্ণনা করেন: তাঁর আদেশ ও তাঁর ফয়সালা এসেছে। কুরতুবীর মতে এখানে বাক্যের প্রথম অংশটি উহ্য রাখা হয়েছে। বাগাভী এর পাশে কালবীর একটিমাত্র কথা রাখেন: তিনি নেমে আসবেন।"
+          },
+          {
+            "en": "Al-Qurtubi lists more. Some said the Lord came to them with tremendous signs, the coming of the signs counted as His coming to magnify their weight; others, that doubts vanish that Day and knowledge becomes compelled. He ends with a group he calls the people of allusion, who say His power appeared and prevailed, and the passage goes on that Allah is not described as moving from place to place. These are the positions the fetched texts hold. The article sets them side by side and settles nothing between them; the verse's own weight falls on what follows.",
+            "bn": "কুরতুবী আরও কয়েকটি মত আনেন। কেউ বলেছেন, রব তাদের কাছে বিরাট সব নিদর্শন নিয়ে আসবেন। নিদর্শনগুলোর গুরুত্ব বোঝাতে সেগুলোর আগমনকেই তাঁর আগমন বলা হয়েছে। আবার কেউ বলেছেন, সেদিন সব সংশয় দূর হয়ে যাবে, জ্ঞান হয়ে যাবে অনিবার্য। শেষে তিনি আনেন একদলের কথা, যাদের তিনি বলেন আহলুল ইশারা। তাদের মতে, তাঁর কুদরত প্রকাশ পাবে আর সব কিছু ছেয়ে ফেলবে। বর্ণনাটি আরও বলে, আল্লাহকে এক জায়গা থেকে আরেক জায়গায় সরে যাওয়ার গুণে বর্ণনা করা হয় না। আনা তাফসীরগুলোতে এই মতগুলোই আছে। এ লেখা সেগুলো পাশাপাশি রাখে, কোনোটির পক্ষে রায় দেয় না। আয়াতের নিজের জোর পড়েছে পরের কথায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seventy Thousand Bridles",
+          "bn": "সত্তর হাজার লাগাম"
+        },
+        "p": [
+          {
+            "en": "How is Hell brought? Ibn Kathir in both his Arabic and the English abridgement, and al-Qurtubi, cite a report that Muslim placed in his Sahih. In Muslim's wording, 'Abdullah ibn Mas'ud reported the Messenger of Allah ﷺ as saying: \"Hell would be brought on that day (the Day of Judgment) with seventy thousand bridles, and seventy thousand angels dragging each bridle\" (Sahih Muslim 2842). The narration answers the passive verb of the verse: it names the angels as the ones who drag it, bridle by bridle.",
+            "bn": "জাহান্নামকে আনা হবে কীভাবে? ইবন কাসীর তাঁর আরবি তাফসীরে ও সংক্ষিপ্ত ইংরেজি সংস্করণে, আর কুরতুবী, তিনজনই এমন একটি বর্ণনা আনেন যা মুসলিম তাঁর সহীহ গ্রন্থে রেখেছেন। মুসলিমের ভাষায়, আবদুল্লাহ ইবন মাসঊদ (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"সেদিন জাহান্নামকে আনা হবে, তার থাকবে সত্তর হাজার লাগাম, আর প্রতিটি লাগামের সঙ্গে থাকবে সত্তর হাজার ফেরেশতা, তারা তাকে টেনে আনবে।\" (সহীহ মুসলিম ২৮৪২)। আয়াতের কর্মবাচ্য ক্রিয়ার একটা উত্তর মেলে এখানে। বর্ণনাটি জানিয়ে দেয়, লাগামে লাগামে তাকে টেনে আনবে ফেরেশতারা।"
+          },
+          {
+            "en": "Ibn Kathir adds a note on how it travelled. At-Tirmidhi recorded it through the same chain, and also through Sufyan ath-Thawri as Ibn Mas'ud's own saying, without raising it to the Prophet ﷺ; Ibn Jarir, he says, has it that way too. At-Tabari's tafsir bears this out. He gives it from Ibn Mas'ud as Ibn Mas'ud's words: it is brought, led by seventy thousand reins, with seventy thousand angels at each rein. He gives it again from Abu Wa'il in nearly the same words. Muslim's chain raises it, and his wording is the one quoted here.",
+            "bn": "বর্ণনাটি কীভাবে পৌঁছেছে, সে বিষয়ে ইবন কাসীর একটি কথা যোগ করেন। তিরমিযী এটি একই সনদে বর্ণনা করেছেন। আবার সুফিয়ান সাওরীর সূত্রে এটিকে ইবন মাসঊদ (রাঃ)-এর নিজের কথা হিসেবেও এনেছেন, নবী ﷺ পর্যন্ত পৌঁছাননি। ইবন কাসীর বলেন, ইবন জারীরও এভাবেই এনেছেন। তাবারীর তাফসীর তা মিলিয়ে দেয়। তিনি এটি ইবন মাসঊদ (রাঃ)-এর নিজের কথা হিসেবে আনেন: সত্তর হাজার লাগামে টেনে তাকে আনা হবে, প্রতিটি লাগামে সত্তর হাজার ফেরেশতা। আবু ওয়াইল থেকেও প্রায় একই কথা তিনি আবার আনেন। মুসলিমের সনদ এটিকে নবী ﷺ পর্যন্ত পৌঁছায়। এখানে তাঁর ভাষাটিই উদ্ধৃত হয়েছে।"
+          },
+          {
+            "en": "The other commentators add detail, none of it raised to the Prophet ﷺ. Qatadah, in at-Tabari, says it is brought bridled. As-Sa'di says the angels lead it with chains. Al-Qurtubi and al-Baghawi give, from Ibn Mas'ud and Muqatil, that it comes raging and roaring until it is set up to the left of the Throne. Al-Qurtubi also relays, without a chain or a grading, a longer account from Abu Sa'id al-Khudri and 'Ali about how the Prophet ﷺ received this verse. It is mentioned here and nothing is built on it.",
+            "bn": "বাকি তাফসীরকারেরা আরও কিছু খুঁটিনাটি যোগ করেন, তবে তার কোনোটিই নবী ﷺ পর্যন্ত পৌঁছানো কথা নয়। তাবারীর বর্ণনায় কাতাদা বলেন, তাকে লাগাম পরিয়ে আনা হবে। সা'দী বলেন, ফেরেশতারা তাকে শিকল দিয়ে টেনে আনবে। কুরতুবী ও বাগাভী ইবন মাসঊদ (রাঃ) ও মুকাতিল থেকে আনেন, সে আসবে ক্রোধে ফুঁসতে ফুঁসতে, গর্জন করতে করতে, শেষে তাকে আরশের বাঁ দিকে স্থাপন করা হবে। কুরতুবী আবু সাঈদ খুদরী (রাঃ) ও আলী (রাঃ) থেকে আরেকটি দীর্ঘ বর্ণনাও আনেন, নবী ﷺ এই আয়াত কীভাবে গ্রহণ করেছিলেন সে বিষয়ে। কিন্তু তিনি এর সনদ বা মান কিছুই দেননি। তাই এখানে শুধু উল্লেখ করা হলো, এর উপর কিছু দাঁড় করানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What He Remembers Then",
+          "bn": "কী মনে পড়ে তখন"
+        },
+        "p": [
+          {
+            "en": "Yawma'idhin yatadhakkaru al-insan: that Day man remembers. The commentators differ on what he remembers. Ibn Kathir says his deeds, what he sent ahead in the early part of his life and the late. At-Tabari says his neglect, in the world, of obeying Allah and of the good deeds that would have brought him near to Him. As-Sa'di says what he sent ahead of good and of evil. Ma'arif al-Qur'an takes tadhakkur here to mean realising: the truth he had set aside now dawns on him.",
+            "bn": "ইয়াওমাইযিন ইয়াতাযাক্কারুল ইনসান: সেদিন মানুষের মনে পড়বে। কী মনে পড়বে, তা নিয়ে তাফসীরকারদের কথায় ভিন্নতা আছে। ইবন কাসীর বলেন, তার আমল, জীবনের শুরুতে আর শেষে সে যা আগে পাঠিয়েছে। তাবারী বলেন, দুনিয়ায় আল্লাহর আনুগত্যে তার অবহেলা, আর যে নেক আমল তাকে আল্লাহর কাছে নিয়ে যেত, তাতে তার ঢিলেমি। সা'দী বলেন, ভালো-মন্দ যা কিছু সে আগে পাঠিয়েছে। মাআরিফুল কুরআন এখানে তাযাক্কুর শব্দের অর্থ ধরে উপলব্ধি করা। যে সত্যকে সে এতদিন সরিয়ে রেখেছিল, এখন তা তার কাছে স্পষ্ট হয়ে ওঠে।"
+          },
+          {
+            "en": "A second line of comment reads the verb as more than memory. Al-Muyassar, al-Qurtubi and al-Baghawi all gloss it with two verbs: he takes the warning, and he repents. Who is meant? Al-Muyassar and al-Baghawi name the disbeliever. Al-Qurtubi gives two possibilities: the disbeliever, or the person whose chief concern was this world. Ma'arif speaks of the unbelievers coming to see the errors of their ways. In the verse itself the word stays general, al-insan, man; the narrowing is the commentators' reading, and it is reported here as theirs.",
+            "bn": "তাফসীরের আরেকটি ধারা এই ক্রিয়াকে শুধু স্মৃতি হিসেবে পড়ে না। মুয়াসসার, কুরতুবী ও বাগাভী তিনজনই এর ব্যাখ্যা দেন দুটি ক্রিয়া দিয়ে: সে উপদেশ গ্রহণ করবে আর তওবা করবে। কার কথা বলা হচ্ছে? মুয়াসসার ও বাগাভী বলেন, কাফির। কুরতুবী দুটি সম্ভাবনা রাখেন: কাফির, অথবা দুনিয়াই ছিল যার প্রধান চিন্তা। মাআরিফুল কুরআন বলে, কাফিররা তখন নিজেদের পথের ভুল দেখতে পাবে। আয়াতে কিন্তু শব্দটি সাধারণ, আল ইনসান, মানুষ। অর্থকে এভাবে সীমিত করা তাফসীরকারদের পাঠ, আর এখানে তা তাঁদের কথা হিসেবেই বলা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Where, Then, the Benefit?",
+          "bn": "তখন লাভ আসবে কোথা থেকে"
+        },
+        "p": [
+          {
+            "en": "Then wa-anna lahu adh-dhikra, three Arabic words that end in a question: and how, for him, the remembrance? Ibn Kathir gives the sense: how will remembering benefit him then? At-Tabari: from what quarter is the reminding his? He cites Ibn 'Abbas glossing it simply as and how for him. As-Sa'di answers the question in his gloss: its time has passed and its season is gone. Al-Muyassar gives the reason in a clause: he neglected taking warning and repenting in the world, and their time has slipped away.",
+            "bn": "তারপর ওয়া আন্না লাহুয যিকরা, তিনটি আরবি শব্দ, শেষ হয় এক প্রশ্নে: তখন মনে পড়া তার কী কাজে আসবে? ইবন কাসীর অর্থটা বলে দেন: তখন মনে পড়া তার কী উপকারে আসবে? তাবারী বলেন: উপদেশ তার কাছে আসবে কোন পথে? তিনি ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনেন সংক্ষেপে: আর তার জন্য কীভাবে? সা'দী নিজের ব্যাখ্যাতেই প্রশ্নের জবাব দেন: এর সময় পেরিয়ে গেছে, এর মৌসুম চলে গেছে। মুয়াসসার এক বাক্যে কারণটা বলেন: দুনিয়ায় সে উপদেশ নেওয়া আর তওবা করায় অবহেলা করেছে, আর এখন সে দুটির সময় হাতছাড়া হয়ে গেছে।"
+          },
+          {
+            "en": "Al-Qurtubi notices a tension in the wording. The verse says he remembers, then asks how the remembrance can be his. He relays az-Zamakhshari's answer: a word must be understood as dropped, the benefit of the remembrance, or the two clauses would contradict each other. So al-Qurtubi gives two glosses: from where would taking warning and repenting be his, when he neglected them in the world; and from where the benefit of remembering. Al-Baghawi relays az-Zajjaj in a sharper line: he shows repentance, and from where would repentance be his?",
+            "bn": "কুরতুবী আয়াতের শব্দে একটা টান লক্ষ করেন। আয়াত বলছে তার মনে পড়বে, আবার প্রশ্ন করছে মনে পড়া তার কীভাবে হবে। এর জবাবে তিনি যামাখশারীর কথা আনেন: এখানে একটি শব্দ উহ্য ধরতে হবে, মনে পড়ার উপকার। নইলে দুই অংশ পরস্পরবিরোধী হয়ে যায়। তাই কুরতুবী দুটি ব্যাখ্যা দেন। দুনিয়ায় যে উপদেশ আর তওবায় অবহেলা করেছে, এখন তা তার জুটবে কোথা থেকে? অথবা, মনে পড়ার উপকার সে পাবে কোথা থেকে? বাগাভী যাজ্জাজের আরও ধারালো এক বাক্য আনেন: সে তওবার কথা মুখে আনবে, কিন্তু তওবা তার জুটবে কোথা থেকে?"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the line the others share. It is in this present world that faith and good deeds benefit people; the Hereafter is the place only for reckoning and recompense. The remembering of 89:23, then, is real and it is complete. What it lacks is a place to act. That is the verse's quiet pressure on whoever reads it now: the same remembering, done today, still has somewhere to go, a deed to mend, a debt to pay.",
+            "bn": "অন্যরা যে সীমারেখা মেনে চলেন, মাআরিফুল কুরআন তা স্পষ্ট করে টানে। ঈমান আর নেক আমল মানুষের উপকারে আসে এই দুনিয়াতেই। আখিরাত কেবল হিসাব আর প্রতিদানের জায়গা। তাহলে ৮৯:২৩ আয়াতের সেই মনে পড়া সত্যি, আর পুরোপুরিই। শুধু কাজে লাগানোর জায়গাটা আর নেই। যে আজ আয়াতটি পড়ছে, তার উপর এখানেই আয়াতের নীরব চাপ। আজ যদি ঠিক এভাবেই মনে পড়ে, তার যাওয়ার জায়গা এখনো আছে। শোধরানোর মতো কোনো আমল, শোধ করার মতো কোনো ঋণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wish for the Lasting Life",
+          "bn": "চিরস্থায়ী জীবনের জন্য আফসোস"
+        },
+        "p": [
+          {
+            "en": "The next verse gives the remembering a voice: yaqulu ya laytani qaddamtu li-hayati, he will say, would that I had sent ahead for my life. At-Tabari reads it as the anguish of the son of Adam on the Day of Resurrection at his neglect of good deeds in the world: would that I had sent ahead, for this life of mine after which there is no death, what would save me from Allah's anger. Mujahid, in at-Tabari, glosses my life in a single word: the Hereafter. Qatadah says that there is the long life.",
+            "bn": "পরের আয়াতে এই মনে পড়া মুখের ভাষা পায়: ইয়াকূলু ইয়া লাইতানী কাদ্দামতু লিহায়াতী, সে বলবে, হায়, আমার জীবনের জন্য যদি কিছু আগে পাঠাতাম! তাবারী একে পড়েন কিয়ামতের দিন আদম সন্তানের হাহাকার হিসেবে। দুনিয়ায় নেক আমলে সে অবহেলা করেছিল। এখন বলছে, আমার এই জীবনের জন্য, যার পরে আর মৃত্যু নেই, এমন কিছু যদি আগে পাঠাতাম, যা আমাকে আল্লাহর গজব থেকে বাঁচাত! তাবারীর বর্ণনায় মুজাহিদ আমার জীবন কথাটির ব্যাখ্যা দেন এক শব্দে: আখিরাত। কাতাদা বলেন, আসল দীর্ঘ জীবন তো সেখানেই।"
+          },
+          {
+            "en": "Al-Qurtubi offers other readings of the small word li. One takes it as in: in my life. Another keeps it as for: for a life with no death in it. A third notes that the life of the people of the Fire is no pleasant life at all, so the wish means: would that I had sent ahead good for my rescue from the Fire. As-Sa'di draws a lesson from the verse: the life worth striving for, in its root and its completion, is the life in the abode of permanence.",
+            "bn": "লি, ছোট্ট এই অব্যয়টির আরও কয়েকটি পাঠ দেন কুরতুবী। এক মতে এর অর্থ মধ্যে: আমার জীবনের মধ্যে। আরেক মতে এর অর্থ জন্য: এমন জীবনের জন্য, যাতে মৃত্যু নেই। তৃতীয় মতটি বলে, জাহান্নামিদের জীবন আসলে কোনো সুখের জীবনই নয়। তাই আফসোসের অর্থ দাঁড়ায়: জাহান্নাম থেকে বাঁচার জন্য যদি কিছু ভালো কাজ আগে পাঠাতাম! সা'দী আয়াত থেকে একটি শিক্ষা বের করেন। যে জীবনের জন্য চেষ্টা করা উচিত, তার মূলে এবং তার পূর্ণতায়, তা হলো চিরস্থায়ী আবাসের জীবন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Active or Passive at 89:25",
+          "bn": "৮৯:২৫-এ দুই কিরাআত"
+        },
+        "p": [
+          {
+            "en": "Then 89:25 and 89:26: fa-yawma'idhin la yu'adhdhibu 'adhabahu ahad, wa la yuthiqu wathaqahu ahad. Here the readings differ, and the meaning moves with them. At-Tabari reports that the readers of the cities read both verbs with a kasrah, yu'adhdhibu and yuthiqu, in the active voice, while al-Kisa'i read them with a fathah, yu'adhdhabu and yuthaqu, in the passive. Al-Baghawi names al-Kisa'i and Ya'qub for the fathah. Both are canonical readings of the Qur'an, and each yields its own sense.",
+            "bn": "এরপর ৮৯:২৫ ও ৮৯:২৬: ফাইয়াওমাইযিল লা ইউআযযিবু আযাবাহু আহাদ, ওয়া লা ইউসিকু ওয়াসাকাহু আহাদ। এখানে কিরাআত ভিন্ন, আর কিরাআতের সঙ্গে অর্থও বদলায়। তাবারী জানান, বিভিন্ন শহরের কারীরা দুটি ক্রিয়াই পড়েছেন যের দিয়ে, ইউআযযিবু আর ইউসিকু, কর্তৃবাচ্যে। আর কিসাঈ পড়েছেন যবর দিয়ে, ইউআযযাবু আর ইউসাকু, কর্মবাচ্যে। বাগাভী যবরের পাঠে কিসাঈর সঙ্গে ইয়াকুবের নামও বলেন। দুটিই কুরআনের স্বীকৃত কিরাআত, আর প্রতিটি থেকে আসে নিজস্ব অর্থ।"
+          },
+          {
+            "en": "On the active reading, the pronoun in his punishment returns to Allah. Al-Qurtubi gives this as the view of Ibn 'Abbas and al-Hasan: none punishes as Allah punishes, and none binds as He binds. Al-Hasan, in at-Tabari, says why the comparison is made: Allah knew there is punishment and binding in this world, so He said that no one in the world punishes as He will punish. Ibn Kathir's Arabic: none is more severe in punishing than Allah in punishing whoever disobeyed Him. As-Sa'di adds that they are yoked together in chains of fire.",
+            "bn": "কর্তৃবাচ্যের পাঠে আযাবাহু, তাঁর শাস্তি, এই সর্বনাম ফেরে আল্লাহর দিকে। কুরতুবী একে ইবন আব্বাস (রাঃ) ও হাসানের মত বলে উল্লেখ করেন: আল্লাহ যেমন শাস্তি দেন, তেমন শাস্তি কেউ দিতে পারে না। তিনি যেমন বাঁধেন, তেমন বাঁধতেও কেউ পারে না। তুলনাটা কেন, তাবারীর বর্ণনায় হাসান তা বলেন। আল্লাহ জানতেন, দুনিয়াতেও শাস্তি আছে, বাঁধন আছে। তাই তিনি বললেন, দুনিয়ার কেউ তাঁর মতো শাস্তি দিতে পারে না। ইবন কাসীরের আরবি তাফসীরে আছে, যে আল্লাহর নাফরমানি করেছে, তাকে আল্লাহ যে শাস্তি দেবেন, তার চেয়ে কঠিন শাস্তি কারও নেই। সা'দী যোগ করেন, তাদের আগুনের শিকলে একসঙ্গে বেঁধে রাখা হবে।"
+          },
+          {
+            "en": "On the passive reading the sense turns to the one punished: no one is punished as he is punished that Day, no one bound as he is bound. Al-Qurtubi notes that Abu 'Ubayd and Abu Hatim chose this reading, the pronoun then referring to the disbeliever. At-Tabari, for his part, preferred the reading of the city readers. Al-Qurtubi also relays Abu 'Ali's remark that even on the majority reading the pronoun may be the disbeliever's, with ahad meaning the angels who carry out the punishment. Read either way, the two verses say this punishment has no equal.",
+            "bn": "কর্মবাচ্যের পাঠে অর্থ ঘুরে যায় শাস্তিপ্রাপ্ত লোকটির দিকে: সেদিন তাকে যেমন শাস্তি দেওয়া হবে, তেমন শাস্তি আর কাউকে দেওয়া হবে না। তাকে যেমন বাঁধা হবে, তেমন বাঁধা হবে না আর কাউকে। কুরতুবী জানান, আবু উবাইদ ও আবু হাতিম এই পাঠটি বেছে নিয়েছিলেন। তখন সর্বনামটি ফেরে কাফিরের দিকে। তাবারী অবশ্য শহরের কারীদের পাঠটিকেই অগ্রাধিকার দিয়েছেন। কুরতুবী আবু আলীর একটি মন্তব্যও আনেন। তাঁর মতে অধিকাংশের পাঠেও সর্বনামটি কাফিরের দিকে ফিরতে পারে, তখন আহাদ মানে শাস্তি দেওয়ার দায়িত্বে থাকা ফেরেশতারা। যেভাবেই পড়া হোক, আয়াত দুটি বলে, এই শাস্তির কোনো তুলনা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembering While It Still Counts",
+          "bn": "যখন মনে পড়ার দাম আছে"
+        },
+        "p": [
+          {
+            "en": "None of the commentators fetched for this page gives an established occasion of revelation for these verses, so they are read in their place: the close of a warning that began with the man who took wealth for honour and want for disgrace. Muslim's report of the seventy thousand bridles is the one sound narration the tafsirs attach here, and it describes Hell's arrival, not the remembering. Everything else about the remembering comes from the verse itself and from the commentators named above.",
+            "bn": "এ পাতার জন্য আনা তাফসীরগুলোর কোনোটিই এই আয়াতগুলোর প্রতিষ্ঠিত কোনো শানে নুযূল দেয় না। তাই আয়াতগুলো পড়তে হয় তাদের নিজের জায়গায় রেখে। এগুলো এক সতর্কবাণীর সমাপ্তি, যার শুরু সেই মানুষটিকে দিয়ে, যে সম্পদকে সম্মান আর অভাবকে অপমান ভেবেছিল। সত্তর হাজার লাগামের বর্ণনাটি, যা মুসলিম এনেছেন, এখানে তাফসীরগুলোর আনা একমাত্র সহীহ বর্ণনা। আর সেটি জাহান্নামের আগমনের কথা বলে, মনে পড়ার কথা নয়। মনে পড়া নিয়ে বাকি সব কথা এসেছে আয়াত থেকে, আর উপরে যাঁদের নাম এসেছে সেই তাফসীরকারদের কাছ থেকে।"
+          },
+          {
+            "en": "The verses describe what the text describes. Some commentators name the disbeliever, or a person whose concern was this world; that reading licenses nothing against any living person or community, and places no reader in the Fire. Its pressure points inward. The man of 89:23 remembers everything at the moment remembering can do nothing. The reader of 89:23 still stands where remembering can become repentance, a good deed sent ahead, a wrong put right. That is the whole distance between him and us, and it is measured in time.",
+            "bn": "আয়াতগুলো যা বলে, শুধু তা-ই বলে। কোনো কোনো তাফসীরকার এখানে কাফিরের কথা বলেন, অথবা দুনিয়াই ছিল যার প্রধান চিন্তা তার কথা। এই পাঠ আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি দেয় না, আর কোনো পাঠককে জাহান্নামে বসিয়েও দেয় না। এর চাপ ভেতরের দিকে। ৮৯:২৩ আয়াতের মানুষটির সব কিছু মনে পড়ে ঠিক তখন, যখন মনে পড়ায় আর কিছু হয় না। আর যে আজ আয়াতটি পড়ছে, সে এখনো এমন জায়গায় দাঁড়িয়ে, যেখানে মনে পড়া হয়ে উঠতে পারে তওবা, আগে পাঠানো কোনো নেক আমল, শুধরে নেওয়া কোনো অন্যায়। তার আর আমাদের মাঝে পুরো দূরত্ব এটুকুই, আর তা মাপা হয় সময়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "89:27-30": {
     "sections": [
       {
