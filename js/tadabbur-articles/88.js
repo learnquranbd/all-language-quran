@@ -159,6 +159,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "88:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words After the Weariness",
+          "bn": "ক্লান্তির পরে তিনটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Tasla naran hamiya: they will burn in a fire, intensely hot. The verse has three Arabic words. Tasla shares its root with sila', the burning of a fire, and al-Qurtubi glosses it: its burning and its heat strike them. Naran is a fire, left without the definite article. Hamiya is hot, heated through. The subject is the faces of 88:2, and at-Tabari paraphrases: these faces come down to a fire that has been heated, its heat grown intense. Al-Qurtubi on 88:2 and al-Baghawi on 88:3 both note that the faces stand for the people who own them.",
+            "bn": "তাসলা নারান হামিয়া: তারা জ্বলবে আগুনে, প্রচণ্ড উত্তপ্ত আগুনে। আয়াতে আরবি শব্দ তিনটি। তাসলা এসেছে সেই ধাতু থেকে, যা থেকে এসেছে সিলা, মানে আগুনের দহন। কুরতুবী এর ব্যাখ্যা দেন এভাবে: আগুনের দহন আর তাপ তাদের গায়ে এসে লাগে। নারান মানে একটি আগুন, শব্দটিতে নির্দিষ্টবাচক আল নেই। হামিয়া মানে গরম, ভেতর পর্যন্ত তপ্ত। ক্রিয়ার কর্তা ৮৮:২ আয়াতের সেই মুখগুলো। তাবারীর ভাষায়: এই মুখগুলো গিয়ে নামবে এমন আগুনে, যাকে উত্তপ্ত করা হয়েছে আর যার তাপ তীব্র হয়ে উঠেছে। কুরতুবী ৮৮:২ আয়াতে এবং বাগাভী ৮৮:৩ আয়াতে মনে করিয়ে দেন, মুখ বলে এখানে বোঝানো হয়েছে মুখের মালিকদের।"
+          },
+          {
+            "en": "The verse sits inside a short run. In 88:2 some faces are humbled on that Day; in 88:3 they are 'amilatun nasibah, labouring and weary; here they burn; in 88:5 they are given drink from a boiling spring, and 88:6 and 88:7 go on to their food. Then 88:8 turns to other faces, soft with bliss, which have their own entry. This article stays with 88:4 and with the three verses it cannot be read without: 88:2, 88:3 and 88:5.",
+            "bn": "আয়াতটি ছোট একটা ধারার ভেতরে বসানো। ৮৮:২ আয়াতে সেদিন কিছু মুখ অবনত। ৮৮:৩ আয়াতে তারা আমিলাতুন নাসিবা, খেটে চলা আর ক্লান্ত। এখানে তারা জ্বলছে। ৮৮:৫ আয়াতে তাদের পান করানো হয় ফুটন্ত ঝরনা থেকে, আর ৮৮:৬ ও ৮৮:৭ আয়াতে আসে তাদের খাবারের কথা। এরপর ৮৮:৮ আয়াত ফেরে অন্য কিছু মুখের দিকে, যেগুলো সুখে কোমল। সেগুলোর আলোচনা আলাদা জায়গায়। এ লেখা থাকছে ৮৮:৪ আয়াতের সঙ্গে, আর সেই তিনটি আয়াতের সঙ্গে যেগুলো বাদ দিয়ে একে পড়া যায় না: ৮৮:২, ৮৮:৩ ও ৮৮:৫।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tasla or Tusla",
+          "bn": "তাসলা, নাকি তুসলা"
+        },
+        "p": [
+          {
+            "en": "The first word is read in two ways, and the texts consulted name the readers differently. At-Tabari writes that the general body of the readers of Kufa read tasla, with a fatha on the ta', meaning that the faces burn. Abu 'Amr read tusla, with a damma, taking his lead from the verse that follows, tusqa min 'aynin aniya. At-Tabari then gives his judgement: these are two readings, both sound in meaning, and whichever of them the reciter reads, he is right.",
+            "bn": "প্রথম শব্দটি দুইভাবে পড়া হয়, আর কারা কোনটা পড়েছেন, তা নিয়ে তাফসীরগুলোর বর্ণনায় নামের তফাত আছে। তাবারী লেখেন, কুফার কারীদের অধিকাংশ পড়েছেন তাসলা, তা অক্ষরে যবর দিয়ে। অর্থ: মুখগুলো জ্বলবে। আবু আমর পড়েছেন তুসলা, পেশ দিয়ে। পরের আয়াতের তুসকা মিন আইনিন আনিয়া শব্দটির দিকে তাকিয়েই তিনি এভাবে পড়েছেন। এরপর তাবারী নিজের রায় দেন: দুটোই কিরাআত, দুটোরই অর্থ সঠিক। কারী যেটাই পড়ুন, ঠিকই পড়লেন।"
+          },
+          {
+            "en": "Al-Qurtubi names more readers: Abu 'Amr, Abu Bakr and Ya'qub read tusla with a damma, and the rest with a fatha. He adds that it was also read tussalla, with the lam doubled, names no reader for that, and refers back to his discussion in Surat al-Inshiqaq. Al-Baghawi gives the damma to the people of Basra and to Abu Bakr, again in view of tusqa, and the fatha to the others. Tasla is active in form: they burn. Tusla is passive, like tusqa beside it: the act is done to them.",
+            "bn": "কুরতুবী আরও কয়েকজনের নাম দেন। আবু আমর, আবু বকর আর ইয়াকুব পড়েছেন তুসলা, পেশ দিয়ে, বাকিরা যবর দিয়ে। তিনি আরও জানান, তাশদীদসহ তুসাল্লা পাঠও আছে। এর কারীর নাম তিনি দেননি, শুধু সূরা ইনশিকাকে আগের আলোচনার দিকে ইঙ্গিত করেছেন। বাগাভীর বর্ণনায় পেশের পাঠ বসরার লোকদের আর আবু বকরের। এখানেও কারণ সেই তুসকা। বাকিরা পড়েছেন যবর দিয়ে। গঠনের দিক থেকে তাসলা কর্তৃবাচ্য: তারা জ্বলবে। তুসলা কর্মবাচ্য, পাশের তুসকার মতোই। কাজটা তাদের উপর ঘটানো হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Call a Fire Hot?",
+          "bn": "আগুনকে গরম বলা কেন"
+        },
+        "p": [
+          {
+            "en": "The third word drew most of the comment. Ibn Kathir reports that Ibn Abbas, al-Hasan and Qatada said: hot, of intense heat. At-Tabari has a fire that has been heated, its heat grown fierce. Al-Baghawi gives from Ibn Abbas: it has been heated, and so it blazes against the enemies of Allah. Al-Qurtubi explains it as kindled and heated over a long stretch of time, and supports the word from ordinary speech: the day grew hot, the oven grew hot, and from al-Kisa'i, the heat of the sun grew fierce.",
+            "bn": "সবচেয়ে বেশি আলোচনা হয়েছে তৃতীয় শব্দটি নিয়ে। ইবন কাসীর জানান, ইবন আব্বাস (রাঃ), হাসান আর কাতাদা বলেছেন: গরম, প্রচণ্ড তাপের। তাবারীর ব্যাখ্যায় এ আগুনকে উত্তপ্ত করা হয়েছে, তার তাপ ভীষণ হয়ে উঠেছে। বাগাভী ইবন আব্বাস (রাঃ) থেকে আনেন: একে তাতানো হয়েছে, তাই আল্লাহর শত্রুদের উপর তা দাউদাউ করে জ্বলছে। কুরতুবী বলেন, দীর্ঘ সময় ধরে একে জ্বালানো আর তাতানো হয়েছে। শব্দটির সমর্থনে তিনি আনেন রোজকার আরবি বুলি: দিন গরম হয়ে উঠল, চুলা তেতে উঠল। কিসাঈ থেকে আনেন: সূর্যের তাপ চড়ে গেল।"
+          },
+          {
+            "en": "As-Sa'di adds one detail: its heat is intense, and it surrounds them from every side. The Muyassar writes of a fire fierce in its blaze that strikes them. Then al-Qurtubi relays a question from al-Mawardi. If it is asked why the fire is described as hot at all, when a fire is never anything but hot and heat is the least of its states, where is the force in so slight a description? Al-Mawardi answers that the meaning of hamiya here was disputed, and sets out four lines of explanation.",
+            "bn": "সা'দী একটি কথা যোগ করেন: এর তাপ তীব্র, আর তা চারদিক থেকে তাদের ঘিরে রাখবে। মুয়াসসার লেখে, প্রচণ্ড শিখার এক আগুন তাদের গায়ে লাগবে। এরপর কুরতুবী মাওয়ার্দীর একটি প্রশ্ন তুলে আনেন। আগুন তো গরম ছাড়া কিছু হয় না, আর গরম হওয়াটা তার সবচেয়ে সামান্য অবস্থা। তাহলে এমন দুর্বল একটি বিশেষণে জোরটা কোথায়? মাওয়ার্দীর উত্তর, এখানে হামিয়া শব্দের অর্থ নিয়ে মতভেদ আছে। তারপর তিনি চারটি ব্যাখ্যা সাজিয়ে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Answers From al-Mawardi",
+          "bn": "মাওয়ার্দীর চার জবাব"
+        },
+        "p": [
+          {
+            "en": "The first answer: hamiya means lasting in its heat. It is not like the fire of this world, whose heat ends when it is put out. Ma'arif al-Qur'an makes the same point: worldly fire's heat lessens or ends in time, while Hell's fire is everlasting and its heat neither lessens nor ends. The second answer reads hamiya from hima, a guarded preserve: the fire is a barrier against committing what is forbidden and violating what is sacred, and al-Mawardi supports this with a saying of the Prophet ﷺ, taken up below.",
+            "bn": "প্রথম জবাব: হামিয়া মানে যার তাপ স্থায়ী। দুনিয়ার আগুনের মতো নয়, যার তাপ নিভিয়ে দিলেই শেষ। মাআরিফুল কুরআনও নিজের ভাষায় একই কথা বলে: দুনিয়ার আগুনের তাপ কোনো না কোনো সময় কমে আসে বা ফুরিয়ে যায়। জাহান্নামের আগুন চিরস্থায়ী, তার তাপ কমবেও না, ফুরাবেও না। দ্বিতীয় জবাবে হামিয়াকে পড়া হয়েছে হিমা থেকে, মানে সংরক্ষিত চারণভূমি। এ আগুন হারাম কাজে জড়ানো আর পবিত্র সীমা লঙ্ঘনের পথে এক বাধা। এর সমর্থনে মাওয়ার্দী নবী ﷺ-এর একটি বাণী আনেন। সে কথা একটু পরে আসছে।"
+          },
+          {
+            "en": "The third answer: the fire guards itself, so that no one can bear to touch it or hope to handle it, as a lion guards its den. Al-Mawardi cites a line of an-Nabigha on the lion-like guardian, al-hami. The fourth: hamiya is the heat of rage and anger, the utmost in vengeance, not the heat of a substance, as a man is said to grow hot when he rages to take revenge. Allah, he says, made this meaning plain in 67:8: it almost bursts apart with rage. Al-Qurtubi lists the four and chooses none.",
+            "bn": "তৃতীয় জবাব: আগুন নিজেকে আগলে রাখে। কেউ তাকে ছোঁয়ার কথা ভাবতেও পারে না, নাগাল পাওয়ার আশাও করতে পারে না, ঠিক যেমন সিংহ তার গুহা আগলে রাখে। মাওয়ার্দী এখানে নাবিগার একটি পঙ্‌ক্তি আনেন, সিংহের মতো পাহারাদার, আল-হামীকে নিয়ে। চতুর্থ জবাব: হামিয়া মানে রাগ আর ক্রোধের উত্তাপ, প্রতিশোধে চূড়ান্ত কঠোরতা। কোনো বস্তুর গরম নয়। প্রতিশোধ নিতে গিয়ে কেউ রেগে আগুন হলে আরবরা বলে, সে তেতে উঠেছে। তাঁর মতে আল্লাহ ৬৭:৮ আয়াতে এ অর্থ স্পষ্ট করেছেন: ক্রোধে তা যেন ফেটে পড়বে। কুরতুবী চারটি ব্যাখ্যাই তুলে ধরেন, কোনোটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Preserve of Allah",
+          "bn": "আল্লাহর সংরক্ষিত সীমানা"
+        },
+        "p": [
+          {
+            "en": "The saying al-Mawardi points to stands in Sahih al-Bukhari, number 52, and al-Bukhari placed it in his Sahih. An-Nu'man ibn Bashir (RA) said he heard the Messenger of Allah ﷺ, and part of its English on the page reads: \"And whoever indulges in these suspicious things is like a shepherd who grazes (his animals) near the Hima (private pasture) of someone else and at any moment he is liable to get in it. (O people!) Beware! Every king has a Hima and the Hima of Allah on the earth is His illegal (forbidden) things.\"",
+            "bn": "মাওয়ার্দী যে বাণীর দিকে ইঙ্গিত করেন, তা আছে সহীহ বুখারীতে, ৫২ নম্বরে। বুখারী একে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন। নুমান ইবন বশীর (রাঃ) বলেন, তিনি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছেন। সেখানকার একটি অংশ এরকম: যে ব্যক্তি সন্দেহজনক বিষয়ে জড়িয়ে পড়ে, সে যেন সেই রাখাল, যে অন্যের সংরক্ষিত চারণভূমির পাশে পশু চরায়, আর যেকোনো মুহূর্তে তার ভেতরে ঢুকে পড়ার আশঙ্কা থাকে। সাবধান! প্রত্যেক রাজার একটি সংরক্ষিত এলাকা আছে, আর পৃথিবীতে আল্লাহর সংরক্ষিত এলাকা হলো তাঁর হারাম করা বিষয়গুলো।"
+          },
+          {
+            "en": "This is a general narration and is not attached to the verse. The full hadith begins with the lawful and the unlawful being evident and ends with the heart; al-Mawardi uses only its picture of a guarded preserve to explain one sense of a word. None of the commentators consulted for 88:4 attaches a sound hadith to the verse itself, and none gives an occasion of revelation for it.",
+            "bn": "বর্ণনাটি সাধারণ, আয়াতের সঙ্গে সরাসরি যুক্ত নয়। পুরো হাদীসটি শুরু হয় এ কথা দিয়ে যে হালাল স্পষ্ট, হারামও স্পষ্ট। শেষ হয় অন্তরের কথায়। মাওয়ার্দী এর থেকে শুধু সংরক্ষিত চারণভূমির ছবিটুকু নিয়েছেন, একটি শব্দের একটি অর্থ বোঝাতে। ৮৮:৪ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। শানে নুযূলও কেউ উল্লেখ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Spring Long on the Boil",
+          "bn": "বহুকাল ধরে ফুটতে থাকা ঝরনা"
+        },
+        "p": [
+          {
+            "en": "The next verse, 88:5, continues: tusqa min 'aynin aniya, they are given drink from a spring that is aniya. Ibn Kathir explains: its heat and its boiling have reached their end, and names Ibn Abbas, Mujahid, al-Hasan and as-Suddi. At-Tabari paraphrases: a spring whose heat has come to its term and reached the limit of intensity. He gives Ibn Abbas: it is the spring whose moaning, anin, has gone on long. He gives al-Hasan: it has been cooking to its point since the day Allah created the world, or in another telling, the heavens and the earth.",
+            "bn": "পরের আয়াত ৮৮:৫ বলছে: তুসকা মিন আইনিন আনিয়া, তাদের পান করানো হবে আনিয়া এক ঝরনা থেকে। ইবন কাসীরের ব্যাখ্যা: এর তাপ আর ফুটন্ত অবস্থা চূড়ান্তে পৌঁছেছে। এ মত তিনি দেন ইবন আব্বাস (রাঃ), মুজাহিদ, হাসান আর সুদ্দীর নামে। তাবারীর ভাষায়, এমন ঝরনা যার তাপ পূর্ণ মেয়াদে পৌঁছে তীব্রতার শেষ সীমা ছুঁয়েছে। তিনি ইবন আব্বাস (রাঃ) থেকে আনেন: এ সেই ঝরনা, যার গোঙানি, আনীন, দীর্ঘ হয়েছে। হাসান থেকে আনেন: আল্লাহ যেদিন দুনিয়া সৃষ্টি করেছেন, সেদিন থেকেই এর রান্না চূড়ান্তে পৌঁছেছে। আরেক বর্ণনায়: যেদিন আসমান ও জমিন সৃষ্টি করেছেন।"
+          },
+          {
+            "en": "Mujahid, in at-Tabari, says it has reached its time and its drinking has fallen due. One view stands apart: Ibn Zayd read aniya as hadira, present and at hand. Al-Qurtubi derives the word from a root of delay, something held back until its heat is complete, and sets it beside hamimin an in 55:44. Al-Qurtubi and al-Baghawi both report from the commentators that a drop of it falling on the mountains of this world would melt them. As-Sa'di glosses it hot, intensely hot, and joins it to 18:29, on the water given to those who cry for relief.",
+            "bn": "তাবারীর উদ্ধৃতিতে মুজাহিদ বলেন, এর সময় হয়ে গেছে, পান করার মেয়াদ এসে পড়েছে। একটি মত আলাদা পথে চলে। ইবন যায়দ আনিয়ার অর্থ করেছেন হাদিরা: হাজির, হাতের কাছে প্রস্তুত। কুরতুবী শব্দটির মূল খোঁজেন বিলম্ব অর্থের ধাতুতে। অর্থাৎ যা আটকে রাখা হয়েছে, যতক্ষণ না তাপ পূর্ণ হয়। তিনি একে পাশে রাখেন ৫৫:৪৪ আয়াতের হামীমিন আন কথাটির। কুরতুবী আর বাগাভী দুজনেই তাফসীরকারদের থেকে জানান, এর এক ফোঁটা দুনিয়ার পাহাড়ে পড়লে পাহাড় গলে যেত। সা'দী এর অর্থ করেন গরম, প্রচণ্ড গরম। তারপর একে মেলান ১৮:২৯ আয়াতের সঙ্গে, যেখানে ফরিয়াদকারীদের পানি দেওয়ার কথা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Toil in the Fire or Before?",
+          "bn": "খাটুনি আগুনে, না আগুনের আগে"
+        },
+        "p": [
+          {
+            "en": "Who are these faces, and where did they grow weary? At-Tabari reads 'amila and nasiba of 88:3 both in the Fire. He gives Ibn Abbas: they labour and toil from the Fire; al-Hasan: it did not work for Allah in the world, so He set it to work in the Fire; Qatada: it was too proud in the world to obey Allah, so He set it to labour and toil in the Fire. Al-Qurtubi gives Qatada at greater length: dragging heavy chains, carrying shackles, standing barefoot and naked, on a day whose length is fifty thousand years.",
+            "bn": "এই মুখগুলো কাদের, আর তারা ক্লান্ত হলো কোথায়? তাবারী ৮৮:৩ আয়াতের আমিলা আর নাসিবা দুটোকেই আগুনের ভেতরের অবস্থা হিসেবে পড়েন। ইবন আব্বাস (রাঃ) থেকে আনেন: আগুনের কারণে তারা খাটবে আর ক্লান্ত হবে। হাসান থেকে: দুনিয়ায় সে আল্লাহর জন্য কাজ করেনি, তাই আল্লাহ তাকে আগুনে খাটালেন। কাতাদা থেকে: দুনিয়ায় সে অহংকারে আল্লাহর আনুগত্য করেনি, তাই আল্লাহ তাকে আগুনে খাটিয়ে ক্লান্ত করলেন। কুরতুবী কাতাদার কথা আরও বিস্তারে দেন: ভারী শিকল টানা, বেড়ি বয়ে বেড়ানো, খালি পায়ে নগ্ন দাঁড়িয়ে থাকা, এমন এক দিনে যার দৈর্ঘ্য পঞ্চাশ হাজার বছর।"
+          },
+          {
+            "en": "Al-Qurtubi also reports from al-Kalbi and others that they will be made to climb a mountain of iron in Hell, and says Ibn Abbas said it too; al-Baghawi gives the mountain to ad-Dahhak, and from Ibn Mas'ud: it wades through the Fire as camels wade through mud. As-Sa'di is plain: wearied in the punishment, dragged on their faces. Al-Qurtubi himself opens differently, though. This is in the world, he says, because the Hereafter is not an abode of work: faces that laboured and wearied in this world are humbled in the next. Ikrima and as-Suddi split the pair: labouring in the world in sins, wearied in the Fire.",
+            "bn": "কুরতুবী কালবী ও অন্যদের থেকে আরও জানান, জাহান্নামে তাদের দিয়ে লোহার পাহাড়ে চড়ানো হবে। তাঁর ভাষ্যে ইবন আব্বাস (রাঃ)-ও এ কথা বলেছেন। বাগাভী পাহাড়ের কথাটি দেন দাহহাকের নামে। ইবন মাসঊদ (রাঃ) থেকে আনেন: কাদায় উট যেমন হাঁটে, সে তেমনি আগুনের ভেতর দিয়ে হাঁটবে। সা'দীর কথা সরল: শাস্তির ভেতরে ক্লান্ত, মুখের উপর ভর দিয়ে টেনে নেওয়া। তবে কুরতুবী নিজে শুরু করেন অন্যভাবে। তাঁর মতে এটি দুনিয়ার কথা, কারণ আখিরাত আমলের জায়গা নয়। দুনিয়ায় যে মুখ খেটে ক্লান্ত হয়েছে, আখিরাতে তা অবনত। ইকরিমা আর সুদ্দী জোড়াটা ভাগ করেন: দুনিয়ায় গুনাহের কাজে খাটুনি, আগুনে ক্লান্তি।"
+          },
+          {
+            "en": "On the worldly reading, al-Qurtubi gives from Ibn Abbas, through ad-Dahhak, people who wore themselves out in disobedience and disbelief; al-Baghawi, through 'Ata', people who toiled on a religion other than Islam. Both name idol-worshippers and disbelievers among the People of the Book, such as monks. Sa'id ibn Jubayr and Zayd ibn Aslam held it, and Ibn Kathir reports that al-Bukhari cited Ibn Abbas: the Christians. As-Sa'di grants the reading is sound in meaning, deeds without faith, their condition, become scattered dust, but holds the first reading certainly correct: the verse is tied to 'that Day' and describes the people of the Fire as a whole.",
+            "bn": "দুনিয়ার ব্যাখ্যায় কুরতুবী দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: এরা সেই লোক, যারা গুনাহ আর কুফরির পথে নিজেদের ক্ষয় করেছে। বাগাভী আতার সূত্রে আনেন: যারা ইসলাম ছাড়া অন্য দীনের উপর খেটেছে। উদাহরণে দুজনেই মূর্তিপূজারি আর আহলে কিতাবের কাফিরদের কথা বলেন, যেমন সন্ন্যাসীরা। সাঈদ ইবন জুবায়র আর যায়দ ইবন আসলামও এ মত দিয়েছেন। ইবন কাসীর জানান, বুখারী ইবন আব্বাস (রাঃ)-এর কথা এনেছেন: খ্রিস্টানরা। সা'দী মানেন, অর্থের দিক থেকে এ ব্যাখ্যা ঠিক আছে। ঈমান হলো আমলের শর্ত, তা না থাকলে আমল উড়ন্ত ধুলোর মতো হয়ে যায়। তবু তাঁর মতে নিশ্চিত সঠিক প্রথম ব্যাখ্যাটিই। কারণ আয়াত বাঁধা আছে সেদিন শব্দের সঙ্গে, আর এখানে বলা হচ্ছে গোটা জাহান্নামবাসীর অবস্থা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why 'Umar Wept",
+          "bn": "উমর (রাঃ) কেন কাঁদলেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gives a report from al-Hafiz Abu Bakr al-Burqani, with his chain to Abu 'Imran al-Jawni. 'Umar ibn al-Khattab (RA) passed the monastery of a monk and called out to him, and the monk looked down from it. 'Umar looked at him and began to weep. He was asked: Commander of the Faithful, what makes you weep at this? He said: I remembered the words of Allah in His Book, 'amilatun nasibah, tasla naran hamiya, and that is what made me weep.",
+            "bn": "ইবন কাসীর একটি বর্ণনা আনেন হাফিয আবু বকর বারকানী থেকে, যার সনদ গিয়ে পৌঁছেছে আবু ইমরান জাওনী পর্যন্ত। উমর ইবনুল খাত্তাব (রাঃ) এক সন্ন্যাসীর আশ্রমের পাশ দিয়ে যাচ্ছিলেন। তিনি সন্ন্যাসীকে ডাকলেন, সন্ন্যাসী উপর থেকে উঁকি দিল। উমর (রাঃ) তার দিকে তাকিয়ে রইলেন, আর কাঁদতে লাগলেন। তাঁকে জিজ্ঞেস করা হলো, আমীরুল মুমিনীন, এতে কাঁদার কী আছে? তিনি বললেন, আল্লাহর কিতাবে তাঁর বাণী মনে পড়ে গেল: আমিলাতুন নাসিবা, তাসলা নারান হামিয়া। সেটাই আমাকে কাঁদিয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi relays it from al-Hasan in another form. When 'Umar came to Syria, an aged monk came to him, worn and shabby, dressed in black, and 'Umar wept on seeing him. He said: this poor man sought something and did not reach it, and hoped a hope and missed it; and he recited 88:2 and 88:3. Ma'arif al-Qur'an relays the same from al-Hasan al-Basri. None of these texts grades the report, and it is told of 'Umar, not raised to the Prophet ﷺ. What it records is tears and the word miskin, poor man: pity, not a verdict.",
+            "bn": "কুরতুবী হাসান থেকে ঘটনাটি আনেন অন্য রূপে। উমর (রাঃ) যখন শামে এলেন, এক বৃদ্ধ সন্ন্যাসী তাঁর কাছে এল। জীর্ণ চেহারা, মলিন বেশ, গায়ে কালো পোশাক। তাকে দেখে উমর (রাঃ) কেঁদে ফেললেন। বললেন, এই বেচারা একটা জিনিস চেয়েছিল, পায়নি। একটা আশা করেছিল, তা ফসকে গেছে। তারপর তিনি তিলাওয়াত করলেন ৮৮:২ ও ৮৮:৩ আয়াত। মাআরিফুল কুরআনও হাসান বসরী থেকে একই ঘটনা আনে। এই তাফসীরগুলোর কোনোটিই বর্ণনাটির মান নিয়ে কিছু বলেনি। এটি উমর (রাঃ)-এর ঘটনা, নবী ﷺ-এর বাণী নয়। এতে যা ধরা আছে তা হলো চোখের পানি আর মিসকীন, বেচারা শব্দটি। এ করুণা, রায় নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Name Inside the Verse",
+          "bn": "আয়াতে কারও নাম নেই"
+        },
+        "p": [
+          {
+            "en": "The verse names no community and no person. At-Tabari and the Muyassar speak of the faces of the disbelievers, and as-Sa'di of the people of the Fire as a whole. The monk belongs to one early reading of 88:3, held by named figures, and as-Sa'di sets it aside as the verse's meaning. On any reading, the verse describes what it describes on that Day. It licenses nothing against any living person or faith community, Christian or other, and no one may name another person as one of these faces. How any life ends is known to Allah alone.",
+            "bn": "আয়াত কোনো সম্প্রদায় বা কোনো মানুষের নাম নেয়নি। তাবারী আর মুয়াসসার বলেন কাফিরদের মুখের কথা, সা'দী বলেন গোটা জাহান্নামবাসীর কথা। সন্ন্যাসীর প্রসঙ্গ ৮৮:৩ আয়াতের একটি প্রাচীন ব্যাখ্যার অংশ। কয়েকজন নির্দিষ্ট ব্যক্তি এ মত দিয়েছেন, আর সা'দী একে আয়াতের অর্থ হিসেবে মানেননি। যে ব্যাখ্যাই ধরুন, আয়াত শুধু সেদিনের সেই ছবি আঁকে, যা সে আঁকে। জীবিত কোনো মানুষ বা কোনো ধর্মীয় সম্প্রদায়ের বিরুদ্ধে, খ্রিস্টান হোক বা অন্য কেউ, এ আয়াত কিছুরই অনুমতি দেয় না। কাউকে আঙুল তুলে বলার অধিকার কারও নেই যে সে এই মুখগুলোর একজন। কার জীবন কীভাবে শেষ হবে, তা একমাত্র আল্লাহ জানেন।"
+          },
+          {
+            "en": "Both readings turn the reader back on himself. On the first, al-Hasan and Qatada tie the toil in the Fire to what came before it: it did not work for Allah; it was too proud to obey Him. On the second, al-Qurtubi's report from Ibn Abbas says that Allah accepts only what was done purely for Him. Either way, the measure is not how tired a person grew, but for whom and on what terms. A Muslim reader hears the verse about his own prayer, his own fasting and his own daily labour.",
+            "bn": "দুটো ব্যাখ্যাই পাঠককে ফিরিয়ে আনে তার নিজের দিকে। প্রথম ব্যাখ্যায় হাসান আর কাতাদা আগুনের খাটুনিকে বেঁধে দেন আগের জীবনের সঙ্গে। সে আল্লাহর জন্য কাজ করেনি, অহংকারে তাঁর আনুগত্য করেনি। দ্বিতীয় ব্যাখ্যায় কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, আল্লাহ শুধু সেটুকুই কবুল করেন যা খাঁটিভাবে তাঁর জন্য করা। দুই দিক থেকেই মাপকাঠি একটা। মানুষ কতটা ক্লান্ত হলো, সেটা নয়। কার জন্য খাটল, কোন শর্তে খাটল, সেটাই আসল। একজন মুসলিম পাঠক আয়াতটি শোনেন নিজের নামাজ, নিজের রোজা আর নিজের রোজকার পরিশ্রমের কথা ভেবে।"
+          }
+        ]
+      }
+    ]
+  },
   "88:8": {
     "sections": [
       {

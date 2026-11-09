@@ -29723,6 +29723,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold what you have learned as a trust kept by Allah's will, and live the same in private as in public, for He knows what is declared and what is hidden.",
     "lessonBn": "যা শিখেছেন তাকে আল্লাহর ইচ্ছায় টিকে থাকা আমানত হিসেবে ধরে রাখুন, আর গোপনে ও প্রকাশ্যে একই রকম থাকুন, কারণ তিনি জানেন যা প্রকাশ্য আর যা গোপন।"
+  },
+  "88:4": {
+    "reflectionEn": "Three Arabic words follow faces lowered on that Day, worn out and weary: they burn in a fire that is hot. The commentators ask why a fire needs to be called hot at all, and answer in several ways: a heat that never cools, a fire that guards itself from any touch, a fire hot with wrath. They also differ over where the weariness happened. Some place the toil in the Fire itself. Others read it as long labour in this world that was not done for Allah, and so came to nothing. The verse names no one, and it gives me no right to place anyone in it. It turns me to my own effort instead. For whom am I tiring myself, and on whose terms?",
+    "reflectionBn": "সেদিন কিছু মুখ নত থাকবে, খেটে খেটে ক্লান্ত, অবসন্ন। তারপর আসে তিনটি আরবি শব্দ: তারা জ্বলবে উত্তপ্ত আগুনে। তাফসীরকারেরা প্রশ্ন তোলেন, আগুন তো গরমই, তাকে আলাদা করে গরম বলার কী দরকার? উত্তরও দেন কয়েক রকম। এমন তাপ যা কখনো জুড়ায় না। এমন আগুন যা কাউকে কাছে ঘেঁষতে দেয় না। ক্রোধে জ্বলে ওঠা আগুন। ক্লান্তিটা কোথায় হয়েছিল, তা নিয়েও তাঁদের মত আলাদা। কেউ বলেন, খাটুনিটা আগুনের ভেতরেই। কেউ বলেন, এ দুনিয়ার দীর্ঘ পরিশ্রম, যা আল্লাহর জন্য ছিল না, তাই শেষে কোনো কাজে আসেনি। আয়াত কারও নাম নেয়নি। কাউকে এর ভেতরে বসিয়ে দেওয়ার অধিকারও আমাকে দেয়নি। বরং আঙুলটা ঘুরে আসে আমার নিজের দিকে। আমি কার জন্য নিজেকে খাটিয়ে মারছি, আর কার শর্তে?",
+    "pointsEn": [
+      "What am I wearing myself out for this week, and would I be content to have that effort weighed exactly as it is?",
+      "Is there a good deed I do mainly to be seen, which I could turn quietly towards Allah alone?",
+      "When I hear a verse about the Fire, whom do I think of first: other people, or myself?",
+      "Have I ever looked at someone else's devotion and pronounced on where it will end, when that judgement belongs to Allah alone?",
+      "A fire that never cools: does the thought change anything I do today, or does it pass as a moment's shiver?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে আমি কীসের পেছনে নিজেকে ক্ষয় করছি? সেই চেষ্টাটা যেমন আছে ঠিক তেমনভাবে ওজন করা হলে আমি কি খুশি থাকব?",
+      "এমন কোনো নেক আমল কি আছে, যা আমি মূলত লোক দেখানোর জন্য করি, অথচ চুপচাপ শুধু আল্লাহর দিকে ফিরিয়ে দেওয়া যেত?",
+      "আগুনের কথা আছে এমন আয়াত শুনলে প্রথমে কার কথা মনে পড়ে: অন্যদের, নাকি নিজের?",
+      "অন্য কারও ইবাদত দেখে আমি কি কখনো রায় দিয়ে ফেলেছি যে তার পরিণাম কী হবে, অথচ সে বিচার একমাত্র আল্লাহর?",
+      "যে আগুন কখনো জুড়ায় না, তার কথা ভেবে আজ কি আমার কোনো কাজ বদলায়, নাকি শুধু এক মুহূর্তের শিহরন হয়ে মিলিয়ে যায়?"
+    ],
+    "lessonEn": "Make sure your hardest efforts are for Allah and on His path, and leave the end of every other person, whatever their faith, to Him alone.",
+    "lessonBn": "আপনার সবচেয়ে কঠিন পরিশ্রমটা যেন আল্লাহর জন্য আর তাঁর পথে হয়, তা নিশ্চিত করুন। আর অন্য প্রত্যেক মানুষের পরিণাম, তার ধর্ম যা-ই হোক, একমাত্র তাঁর হাতে ছেড়ে দিন।"
   }
 };
 
