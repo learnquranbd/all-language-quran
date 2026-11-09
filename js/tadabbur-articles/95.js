@@ -158,5 +158,165 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "95:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Built for Yes",
+          "bn": "যে প্রশ্নের জবাব হ্যাঁ"
+        },
+        "p": [
+          {
+            "en": "Alaysa-llahu bi-ahkami-l-hakimin: is not Allah the most just of judges? Four Arabic words close Surah at-Tin, and they close it with a question rather than a statement. Al-Qurtubi explains how such a question works. When the interrogative alif enters a negation, and the sentence carries the sense of making the hearer stop and acknowledge, the whole becomes an affirmation. The question does not ask for information. It asks for agreement, and the answer it is built to draw out is yes.",
+            "bn": "আলাইসাল্লাহু বিআহকামিল হাকিমীন: আল্লাহ কি বিচারকদের মধ্যে শ্রেষ্ঠ বিচারক নন? আরবিতে মাত্র চারটি শব্দ, আর এগুলো দিয়েই সূরা আত-তীন শেষ হয়। শেষটা কোনো ঘোষণা নয়, একটি প্রশ্ন। এমন প্রশ্ন কীভাবে কাজ করে, কুরতুবী তা বুঝিয়ে দেন। প্রশ্নবোধক আলিফ যখন না-বাচক বাক্যের শুরুতে বসে, আর বাক্যের ভেতরে থাকে শ্রোতাকে থামিয়ে স্বীকার করিয়ে নেওয়ার ভাব, তখন পুরো কথাটা হয়ে যায় হ্যাঁ-বাচক। এ প্রশ্ন কিছু জানতে চায় না, সম্মতি চায়। আর যে জবাব টেনে আনার জন্য প্রশ্নটা গড়া, তা হলো হ্যাঁ।"
+          },
+          {
+            "en": "He shows the pattern with a line of Arabic verse: are you not the best of all who ride on mounts, the most open-handed of the worlds? No listener takes that line as doubt about the man it praises; it is praise shaped as a question. The Muyassar writes the answer straight into its own gloss. Is not Allah, who made this Day for deciding between people, the most just of judges in all that He has created? Then one word: bala, yes indeed.",
+            "bn": "উদাহরণ হিসেবে তিনি একটি আরবি কবিতার চরণ আনেন: তোমরা কি বাহনে চড়া সবার মধ্যে সেরা নও, জগতের সবচেয়ে দরাজ হাতের মানুষ নও? এ চরণ শুনে কেউ ভাবে না যে প্রশংসিত মানুষটিকে নিয়ে কবির সন্দেহ আছে। এটা প্রশ্নের চেহারায় প্রশংসা। মুয়াসসার জবাবটা নিজের ব্যাখ্যার ভেতরেই লিখে দেয়। যিনি মানুষের মধ্যে ফয়সালার জন্য এই দিনটি নির্ধারণ করেছেন, সেই আল্লাহ কি তাঁর সব সৃষ্টির ব্যাপারে শ্রেষ্ঠ বিচারক নন? তারপর একটি শব্দ: বালা, অবশ্যই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Exact in Making, Just in Judging",
+          "bn": "নিখুঁত গড়নে, ন্যায্য বিচারে"
+        },
+        "p": [
+          {
+            "en": "The commentators read ahkam in two directions, toward making and toward judging. Al-Qurtubi gives both readings. The first: the most exact in workmanship of all who judge, in everything He created. The second, introduced with it is said: the most just of judges in deciding by the truth and in fairness among His creatures. The first reading looks back to the best of shapings in 95:4; the second looks forward to a Day of decision.",
+            "bn": "আহকাম শব্দটি তাফসীরকারেরা দুই দিকে পড়েন: একদিকে সৃষ্টির নিপুণতা, অন্যদিকে বিচার। কুরতুবী দুটো ব্যাখ্যাই দেন। প্রথমটি: যা কিছু তিনি সৃষ্টি করেছেন, তার নির্মাণে তিনি সবচেয়ে নিখুঁত কারিগর। দ্বিতীয়টি তিনি আনেন 'বলা হয়েছে' দিয়ে: সত্য দিয়ে ফয়সালা করা আর সৃষ্টির মধ্যে ইনসাফ করায় তিনি শ্রেষ্ঠ বিচারক। প্রথম ব্যাখ্যা পেছনে তাকায় ৯৫:৪-এর সুন্দরতম গড়নের দিকে। দ্বিতীয়টি সামনে তাকায় ফয়সালার এক দিনের দিকে।"
+          },
+          {
+            "en": "At-Tabari takes the second path and makes the address personal: is not Allah, O Muhammad, the most just of all who have judged, in His rulings and in settling His decree among His servants? Al-Baghawi compresses it into two words, aqda al-qadin, the most decisive of those who pass judgement. Al-Qurtubi adds that the question presses a point on those disbelievers who acknowledged a Maker without beginning. It asks them to carry what they already grant a step further, to the Judge who is coming.",
+            "bn": "তাবারী দ্বিতীয় পথ ধরেন, আর সম্বোধনটা করেন ব্যক্তিগত: হে মুহাম্মাদ, আল্লাহ কি তাঁর বিধানে আর বান্দাদের মধ্যে ফয়সালা চূড়ান্ত করায় সব বিচারকের চেয়ে শ্রেষ্ঠ নন? বাগাভী পুরো কথাটা দুই শব্দে বলেন: আকদাল কাদীন, অর্থাৎ যারা রায় দেয় তাদের মধ্যে সবচেয়ে চূড়ান্ত রায়দাতা। কুরতুবী যোগ করেন, এ প্রশ্ন সেই কাফিরদের উপর যুক্তিটা চাপিয়ে দেয়, যারা অনাদি এক স্রষ্টাকে স্বীকার করত। যা তারা আগেই মানে, প্রশ্নটা তাদের সেখান থেকে এক ধাপ এগিয়ে নিয়ে যায় সেই সত্তার দিকে, যিনি বিচার করবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Man or Messenger",
+          "bn": "মানুষকে, না রাসূলকে"
+        },
+        "p": [
+          {
+            "en": "The verse before it, 95:7, asks fa-ma yukadhdhibuka ba'du bi-d-din, and at-Tabari reports that the early interpreters differed over whom it addresses. One group read it as speech to the human being: what makes you deny, O human, after these proofs? Mansur asked Mujahid whether it meant the Prophet ﷺ, and Mujahid answered: Allah forbid! It means the human being. At-Tabari carries that answer through three chains, and al-Kalbi said the same: I created you in the best shaping, so what makes you deny?",
+            "bn": "এর আগের আয়াত ৯৫:৭ জিজ্ঞেস করে: ফামা ইউকাযযিবুকা বা'দু বিদ্দীন। তাবারী জানান, এখানে সম্বোধন কার প্রতি, তা নিয়ে প্রথম যুগের ব্যাখ্যাকারদের মধ্যে মতভেদ ছিল। একদল একে মানুষের প্রতি কথা ধরেছেন: হে মানুষ, এসব প্রমাণের পরও কিসে তোমাকে অস্বীকার করায়? মানসূর মুজাহিদকে জিজ্ঞেস করেছিলেন, এখানে কি নবী ﷺ-কে বোঝানো হয়েছে? মুজাহিদ বললেন: আল্লাহর পানাহ! এখানে মানুষকে বোঝানো হয়েছে। তাবারী এ জবাব তিনটি সনদে আনেন। কালবীও একই কথা বলেছেন: আমি তোমাকে সুন্দরতম গড়নে সৃষ্টি করেছি, তবু কিসে তোমাকে অস্বীকার করায়?"
+          },
+          {
+            "en": "A second group took the words as said to the Prophet ﷺ himself. Qatadah glossed them: be certain, after the clear exposition that has come to you from Allah, that Allah is the most just of judges. A third reading treats ma as meaning who: who can call you a liar, O Muhammad, after this exposition, about the Recompense? At-Tabari names this third reading as the most correct. Al-Qurtubi lays out the same three and credits the third to Qatadah and al-Farra', noting that at-Tabari chose it.",
+            "bn": "আরেক দল এ কথাকে স্বয়ং নবী ﷺ-এর প্রতি সম্বোধন ধরেছেন। কাতাদা এর ব্যাখ্যা দিয়েছেন: আল্লাহর কাছ থেকে যে স্পষ্ট বর্ণনা তোমার কাছে এসেছে, তার পর দৃঢ় বিশ্বাস রাখো যে আল্লাহই শ্রেষ্ঠ বিচারক। তৃতীয় একটি পাঠে 'মা' শব্দটি 'কে' অর্থে: হে মুহাম্মাদ, এই বর্ণনার পর প্রতিদানের ব্যাপারে কে তোমাকে মিথ্যাবাদী বলতে পারে? তাবারী এই তৃতীয় পাঠকেই সবচেয়ে সঠিক বলেন। কুরতুবীও এই তিনটি মত তুলে ধরেন। তৃতীয়টিকে তিনি কাতাদা ও ফাররার মত বলে উল্লেখ করেন, আর জানান যে তাবারী এটাই বেছে নিয়েছেন।"
+          },
+          {
+            "en": "Under at-Tabari's choice the Prophet ﷺ is addressed as the man denied, never as a denier; Mujahid, for his part, refused to read the Prophet ﷺ into the words at all. As-Sa'di and al-Baghawi read the address as O human being, and Ibn Kathir as O son of Adam. On 95:8 al-Baghawi relays Muqatil in the same personal register as at-Tabari: is not Allah He who will judge between you, O Muhammad, and those who deny you? The disagreement over the addressee stays open here, each reading with its holders.",
+            "bn": "তাবারীর বেছে নেওয়া পাঠে নবী ﷺ-কে সম্বোধন করা হয়েছে এমন মানুষ হিসেবে, যাঁকে অস্বীকার করা হয়। তিনি কখনো অস্বীকারকারী নন। আর মুজাহিদ তো এ কথার মধ্যে নবী ﷺ-কে টেনে আনতেই রাজি হননি। সা'দী ও বাগাভী সম্বোধনটা পড়েন 'হে মানুষ' হিসেবে, আর ইবন কাসীর পড়েন 'হে আদম সন্তান' হিসেবে। ৯৫:৮ আয়াতে বাগাভী মুকাতিলের ব্যাখ্যা আনেন, যা তাবারীর মতোই ব্যক্তিগত: হে মুহাম্মাদ, আল্লাহ কি তোমার আর তোমাকে যারা অস্বীকার করে তাদের মধ্যে ফয়সালা করবেন না? সম্বোধন কার প্রতি, সে প্রশ্ন এখানে খোলাই থাকছে, প্রতিটি পাঠ তার ধারকদের নামসহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Din as Repayment in Kind",
+          "bn": "দীন মানে যেমন কর্ম তেমন ফল"
+        },
+        "p": [
+          {
+            "en": "The same verse ends bi-d-din, and at-Tabari records a second disagreement over that word. 'Ikrimah said: the reckoning, al-hisab. A report from Ibn 'Abbas glosses it as the judgement of Allah: what makes you deny the judgement of Allah? At-Tabari prefers the first. Din here, he says, is repayment and reckoning, since that is one of its meanings in the speech of the Arabs, as in their saying kama tadinu tudan: as you deal, so you will be dealt with.",
+            "bn": "একই আয়াতের শেষ শব্দ বিদ্দীন। এ শব্দ নিয়েও তাবারী আরেকটি মতভেদ লিখে রাখেন। ইকরিমা বলেছেন: হিসাব। ইবন আব্বাস (রাঃ) থেকে বর্ণিত এক ব্যাখ্যায় এর অর্থ আল্লাহর ফয়সালা: আল্লাহর ফয়সালাকে অস্বীকার করতে কিসে তোমাকে প্রলুব্ধ করে? তাবারী প্রথম মতটিকে অগ্রাধিকার দেন। তাঁর মতে এখানে দীন মানে প্রতিদান ও হিসাব, কারণ আরবদের ভাষায় দীন শব্দের এটি একটি অর্থ। যেমন তারা বলে, কামা তাদীনু তুদান: যেমন আচরণ করবে, তেমন আচরণ পাবে।"
+          },
+          {
+            "en": "He adds that he does not know judgement among the meanings of din in their speech, unless what is meant is the command of Allah that He has laid on you, to obey Him in it. Al-Baghawi, al-Qurtubi and as-Sa'di all land near at-Tabari: the reckoning and the recompense for deeds. Read that way, 95:7 asks about a repayment, and 95:8 names who will make it. The surah ends by placing the settling of every account in the hands of the most just of judges.",
+            "bn": "তিনি আরও বলেন, আরবদের কথায় দীন শব্দের অর্থ হিসেবে 'ফয়সালা' তাঁর জানা নেই। তবে যদি এর দ্বারা বোঝানো হয় আল্লাহর সেই আদেশ, যা তিনি তোমার উপর দিয়েছেন যেন তুমি তাতে তাঁর আনুগত্য করো, তাহলে সে অর্থ হতে পারে। বাগাভী, কুরতুবী ও সা'দী সবাই তাবারীর কাছাকাছি থাকেন: আমলের হিসাব ও প্রতিদান। এভাবে পড়লে ৯৫:৭ প্রশ্ন তোলে এক প্রতিদান নিয়ে, আর ৯৫:৮ জানিয়ে দেয় সেই প্রতিদান কে দেবেন। সব হিসাব মেটানোর ভার শ্রেষ্ঠ বিচারকের হাতে রেখেই সূরাটি শেষ হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Argument Drawn From Frailty",
+          "bn": "দুর্বলতা থেকে টানা যুক্তি"
+        },
+        "p": [
+          {
+            "en": "Ba'du, after this, points back to proofs already given, and at-Tabari's sense of what those proofs were shapes his reading of 95:5. He lists two groups on asfala safilin. Ibn 'Abbas, 'Ikrimah, Ibrahim and Qatadah said: the most decrepit stage of life, or in Qatadah's word, al-haram, extreme old age. Abu al-'Aliyah said: in the worst of forms. Mujahid, al-Hasan and Ibn Zayd said: the Fire. At-Tabari prefers the first: the age of those whose minds have gone through senility.",
+            "bn": "বা'দু, অর্থাৎ এর পরে, শব্দটি আগেই দেওয়া কিছু প্রমাণের দিকে ইঙ্গিত করে। সেই প্রমাণগুলো কী, তা নিয়ে তাবারীর বোঝাপড়া থেকেই তৈরি হয় ৯৫:৫-এর ব্যাপারে তাঁর পাঠ। আসফালা সাফিলীন নিয়ে তিনি দুটি দল উল্লেখ করেন। ইবন আব্বাস (রাঃ), ইকরিমা, ইবরাহীম ও কাতাদা বলেছেন: জীবনের সবচেয়ে জরাজীর্ণ স্তর। কাতাদার শব্দে: আল-হারাম, চরম বার্ধক্য। আবুল আলিয়া বলেছেন: নিকৃষ্টতম আকৃতিতে। মুজাহিদ, হাসান ও ইবন যায়দ বলেছেন: জাহান্নাম। তাবারী প্রথম মতকে প্রাধান্য দেন: সেই বয়স, যখন বার্ধক্যের ভারে মানুষের বুদ্ধি লোপ পায়।"
+          },
+          {
+            "en": "His reason comes from the closing questions. Allah told of creating the son of Adam and turning him from state to state as an argument against those who denied His power to raise the dead; that is why He says, so what makes you deny after this? And it is impossible, at-Tabari writes, to argue against a people by means of the very thing they deny. A denier of the resurrection does not grant the Fire, but he cannot deny the decline of the body he lives in.",
+            "bn": "তাঁর যুক্তি আসে সূরার শেষ প্রশ্নগুলো থেকে। আল্লাহ আদম সন্তানকে সৃষ্টি করা আর তাকে এক অবস্থা থেকে আরেক অবস্থায় ঘোরানোর কথা জানিয়েছেন। উদ্দেশ্য ছিল তাদের বিরুদ্ধে প্রমাণ দাঁড় করানো, যারা মৃত্যুর পর পুনরুত্থানে তাঁর ক্ষমতা অস্বীকার করত। তাই তিনি বলেন: এরপর কিসে তোমাকে অস্বীকার করায়? তাবারী লেখেন, যে জিনিস কোনো সম্প্রদায় নিজেই অস্বীকার করে, তা দিয়ে তাদের বিরুদ্ধে যুক্তি দেওয়া অসম্ভব। পুনরুত্থান অস্বীকারকারী জাহান্নাম মানে না, কিন্তু নিজের শরীরের ক্ষয় সে অস্বীকার করতে পারে না।"
+          },
+          {
+            "en": "Al-Baghawi draws the picture of that decline. His mind diminishes and his body weakens; the low ones of the phrase are the weak, the chronically ill and small children, and the very old man sinks below them all. Al-Qurtubi gives the same reading from ad-Dahhak, al-Kalbi and others: weakness after strength, until he becomes like a child in his first state.",
+            "bn": "সেই ক্ষয়ের ছবি আঁকেন বাগাভী। তার বুদ্ধি কমে যায়, শরীর দুর্বল হয়। আয়াতের 'নিচু লোকেরা' হলো দুর্বল, দীর্ঘ রোগে পঙ্গু মানুষ আর ছোট শিশুরা, আর খুব বুড়ো মানুষ তাদের সবার চেয়েও নিচে নেমে যায়। কুরতুবীও দাহহাক, কালবী ও অন্যদের সূত্রে একই ব্যাখ্যা দেন: শক্তির পর দুর্বলতা, এমনকি মানুষ আবার শিশুর প্রথম অবস্থার মতো হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Exception Excepts",
+          "bn": "ব্যতিক্রমটা কিসের থেকে"
+        },
+        "p": [
+          {
+            "en": "The reading of 95:5 decides the grammar of 95:6, illa-lladhina amanu, except those who believe. Al-Qurtubi states it in a line. On the view that the lowest of the low is the Fire, the exception is connected: the believers are taken out of the very group that is returned there. On the view that it is old age, the exception is disconnected, and illa works like but. The believers are not lifted out of old age; something else is said about them.",
+            "bn": "৯৫:৫ কীভাবে পড়া হয়, তার উপরই নির্ভর করে ৯৫:৬-এর ব্যাকরণ: ইল্লাল্লাযীনা আমানূ, তবে যারা ঈমান এনেছে তারা ছাড়া। কুরতুবী কথাটা এক লাইনে বলেন। যারা বলেন সবচেয়ে নিচু স্থান মানে জাহান্নাম, তাদের মতে ব্যতিক্রমটি সংযুক্ত। অর্থাৎ যে দলকে সেখানে ফেরানো হয়, মুমিনদের সেই দল থেকেই বের করে আনা হয়েছে। আর যারা বলেন এর মানে বার্ধক্য, তাদের মতে ব্যতিক্রমটি বিচ্ছিন্ন, আর ইল্লা এখানে 'কিন্তু' অর্থে। মুমিনরা বার্ধক্য থেকে মুক্তি পান না। তাদের সম্পর্কে বলা হয় ভিন্ন এক কথা।"
+          },
+          {
+            "en": "At-Tabari's preferred reading spells out that other thing. We returned him to the most decrepit age, except those who believed and did righteous deeds while they were healthy and young: they have a reward uncut after their old age, like the reward they had for their work when they were strong enough to do it. It also meets the objection Ibn Kathir later raised, that the exception would not fit, since senility reaches some believers too. The exception is not from old age, but from the loss that comes with it.",
+            "bn": "সেই ভিন্ন কথাটা তাবারীর পছন্দের পাঠে খুলে বলা আছে। আমি তাকে ফিরিয়ে দিই সবচেয়ে জরাজীর্ণ বয়সে, তবে তারা ছাড়া যারা সুস্থ ও যুবক থাকা অবস্থায় ঈমান এনেছে আর নেক আমল করেছে। বার্ধক্যের পরও তাদের জন্য আছে অবিচ্ছিন্ন প্রতিদান, ঠিক তেমন, যেমনটা তারা পেত শক্তি থাকা অবস্থায় করা আমলের জন্য। পরে ইবন কাসীর আপত্তি তোলেন, বার্ধক্য তো কিছু মুমিনকেও ধরে, তাই এখানে ব্যতিক্রম খাপ খায় না। তাবারীর পাঠে এ আপত্তিরও জবাব মেলে: ব্যতিক্রমটা বার্ধক্য থেকে নয়, বার্ধক্যের সঙ্গে আসা ক্ষতি থেকে।"
+          },
+          {
+            "en": "Al-Baghawi gives the same sense: for the others, minds go and deeds are cut off and no good deed is written for them, but for those who believe, there is written after old age and dotage the like of what they used to do in youth and health. Al-Qurtubi relays from Ibn 'Abbas, through ad-Dahhak, that when a servant prayed, fasted and gave much in his youth and then grew too weak, Allah keeps running for him what he used to do. As-Sa'di and Ibn Kathir read the lowest of the low as the Fire; both readings are kept here, with no verdict between them.",
+            "bn": "বাগাভীও একই অর্থ দেন। অন্যদের বুদ্ধি লোপ পায়, আমল বন্ধ হয়ে যায়, তাদের জন্য আর কোনো নেকি লেখা হয় না। কিন্তু যারা ঈমান এনেছে, বার্ধক্য ও বুদ্ধিভ্রংশের পরও তাদের জন্য লেখা হয় ঠিক তেমন আমল, যেমনটা তারা যৌবনে আর সুস্থ অবস্থায় করত। কুরতুবী দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: কোনো বান্দা যদি যৌবনে বেশি বেশি নামায, রোযা আর সদকা করে থাকে, তারপর দুর্বল হয়ে সেগুলো আর করতে না পারে, তবু আল্লাহ তার জন্য সেই আমলের সওয়াব জারি রাখেন। অন্যদিকে সা'দী ও ইবন কাসীর সবচেয়ে নিচু স্থান বলতে জাহান্নাম বোঝেন। দুটি পাঠই এখানে রাখা হলো, কোনোটির পক্ষে রায় না দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Bedouin Without a Name",
+          "bn": "নামহীন এক বেদুইন"
+        },
+        "p": [
+          {
+            "en": "At-Tirmidhi's Jami' (3347) carries a reply to this verse. Isma'il ibn Umayyah said: I heard a Bedouin man say: I heard Abu Hurayrah, relating it: whoever recites wat-tini waz-zaytun and recites alaysa-llahu bi-ahkami-l-hakimin, let him say: bala, wa ana 'ala dhalika mina sh-shahidin, yes indeed, and I am one of the witnesses to that. At-Tirmidhi then adds his own remark: this hadith is narrated only with this chain, from this Bedouin from Abu Hurayrah, and he is not named.",
+            "bn": "তিরমিযীর জামি'তে (৩৩৪৭) এ আয়াতের একটি জবাবের কথা আছে। ইসমাঈল ইবন উমাইয়া বলেন: আমি এক বেদুইনকে বলতে শুনেছি, আমি আবু হুরায়রা (রাঃ)-কে বর্ণনা করতে শুনেছি: যে ওয়াত্তীনি ওয়াযযাইতূন পড়ে, আর পড়তে পড়তে আলাইসাল্লাহু বিআহকামিল হাকিমীন পর্যন্ত পৌঁছায়, সে যেন বলে: বালা, ওয়া আনা আলা যালিকা মিনাশ শাহিদীন, অবশ্যই, আর আমি এর সাক্ষীদের একজন। এরপর তিরমিযী নিজের মন্তব্য যোগ করেন: এ হাদীস কেবল এই সনদেই বর্ণিত, এই বেদুইনের মাধ্যমে আবু হুরায়রা (রাঃ) থেকে, আর তার নাম উল্লেখ করা হয়নি।"
+          },
+          {
+            "en": "Abu Dawud's Sunan (887) has the same chain through the same unnamed Bedouin, with the words raised plainly to the Messenger of Allah ﷺ, and it goes on to 75:40 at the close of Surah al-Qiyamah, answered with yes, and 77:50 at the close of Surah al-Mursalat, answered with we believe in Allah. Abu Dawud gives no grading there. The link that matters is unnamed, as at-Tirmidhi himself says, and nothing more is claimed for the report here.",
+            "bn": "আবু দাউদের সুনানেও (৮৮৭) একই সনদ, একই নামহীন বেদুইনের মাধ্যমে, তবে সেখানে কথাগুলো স্পষ্টভাবে আল্লাহর রাসূল ﷺ-এর বাণী হিসেবে এসেছে। বর্ণনাটি আরও এগিয়ে সূরা আল-কিয়ামাহর শেষে ৭৫:৪০ আর সূরা আল-মুরসালাতের শেষে ৭৭:৫০ আয়াতের কথাও বলে। প্রথমটির জবাব 'অবশ্যই', দ্বিতীয়টির জবাব 'আমরা আল্লাহর উপর ঈমান এনেছি'। আবু দাউদ সেখানে কোনো মান নির্ণয় করেননি। আসল যোগসূত্রটির নাম নেই, তিরমিযী নিজেই তা বলেছেন। তাই এখানে বর্ণনাটির পক্ষে এর বেশি কিছু দাবি করা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Companions Who Answered Aloud",
+          "bn": "যে সাহাবীরা মুখে জবাব দিতেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir cites the Abu Hurayrah report at this verse, al-Qurtubi notes that at-Tirmidhi narrated it, and at-Tabari mentions the reply from the Prophet ﷺ twice without a connected chain, once with according to what has reached us and once from Qatadah with it was mentioned to us. The Companions' own practice is reported too. At-Tabari reports through Sa'id ibn Jubayr that Ibn 'Abbas, on reciting the verse, would say: subhanaka-llahumma, wa bala, glory be to You, O Allah, and yes indeed.",
+            "bn": "ইবন কাসীর এ আয়াতে আবু হুরায়রা (রাঃ)-এর বর্ণনাটি আনেন, কুরতুবী জানান যে তিরমিযী এটি বর্ণনা করেছেন। তাবারী নবী ﷺ থেকে জবাবটির কথা দুবার উল্লেখ করেন, কিন্তু কোনোবারই নবী ﷺ পর্যন্ত যুক্ত সনদ নেই। একবার বলেন 'আমাদের কাছে যা পৌঁছেছে সে অনুযায়ী', আরেকবার কাতাদা থেকে 'আমাদের কাছে উল্লেখ করা হয়েছে'। সাহাবীদের নিজেদের আমলের কথাও বর্ণিত আছে। তাবারী সাঈদ ইবন জুবাইরের সূত্রে জানান, ইবন আব্বাস (রাঃ) আয়াতটি পড়ে বলতেন: সুবহানাকাল্লাহুম্মা, ওয়া বালা, হে আল্লাহ, তুমি পবিত্র, আর অবশ্যই।"
+          },
+          {
+            "en": "Ma'mar said that Qatadah, on reciting it, said: bala, wa ana 'ala dhalika mina sh-shahidin, and the narrator adds: I think he used to raise it to the Prophet ﷺ. Qatadah answered 75:40 with bala, and 77:50 with: I believe in Allah and in what He sent down. Al-Qurtubi reports that Ibn 'Abbas and 'Ali ibn Abi Talib both said bala, wa ana 'ala dhalika mina sh-shahidin, and calls it the preferred practice. Ma'arif al-Qur'an records that the jurists have ruled the words mustahab, recommended.",
+            "bn": "মা'মার বলেন, কাতাদা আয়াতটি পড়ে বলতেন: বালা, ওয়া আনা আলা যালিকা মিনাশ শাহিদীন। বর্ণনাকারী যোগ করেন: আমার ধারণা, তিনি কথাটা নবী ﷺ পর্যন্ত পৌঁছাতেন। কাতাদা ৭৫:৪০ আয়াতের জবাবে বলতেন 'বালা', আর ৭৭:৫০ আয়াতের জবাবে বলতেন: আমি আল্লাহর উপর আর তিনি যা নাযিল করেছেন তার উপর ঈমান এনেছি। কুরতুবী জানান, ইবন আব্বাস (রাঃ) ও আলী ইবন আবী তালিব (রাঃ) দুজনেই বলতেন: বালা, ওয়া আনা আলা যালিকা মিনাশ শাহিদীন। তিনি একে পছন্দনীয় আমল বলেন। মাআরিফুল কুরআন জানায়, ফকীহগণ এ কথাগুলো বলাকে মুস্তাহাব বলে রায় দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Creation Not Left to Wander",
+          "bn": "সৃষ্টিকে উদ্দেশ্যহীন ছাড়া হয়নি"
+        },
+        "p": [
+          {
+            "en": "The Muyassar and as-Sa'di turn the question into another. Would His wisdom leave creation to wander, neither commanded nor forbidden, neither rewarded nor punished? The Muyassar answers: that is not sound and will not be. As-Sa'di reasons from the whole surah: He who created the human being stage after stage, brought him blessings past counting and raised him with fine nurture must return His creatures to an abode that is their settling place and their goal.",
+            "bn": "মুয়াসসার ও সা'দী প্রশ্নটাকে আরেকটি প্রশ্নে রূপ দেন। তাঁর প্রজ্ঞা কি সৃষ্টিকে এমনি ছেড়ে দেবে, যেখানে কোনো আদেশ নেই, নিষেধ নেই, পুরস্কার নেই, শাস্তিও নেই? মুয়াসসারের জবাব: তা ঠিক নয়, আর তা হবেও না। সা'দী পুরো সূরা থেকে যুক্তি টানেন। যিনি মানুষকে ধাপে ধাপে সৃষ্টি করেছেন, অগণিত নিয়ামত তার কাছে পৌঁছে দিয়েছেন, সুন্দরভাবে লালন করেছেন, তিনি অবশ্যই তাঁর সৃষ্টিকে এমন এক আবাসে ফিরিয়ে নেবেন, যা তাদের স্থায়ী ঠিকানা আর চূড়ান্ত গন্তব্য।"
+          },
+          {
+            "en": "The denier whom 95:7 and 95:8 confront is a figure the text describes, someone who rejects the Recompense after its proofs. The verses describe what the text describes and license nothing against any living person or community. What they ask of the reader is simpler: to hear the closing question as addressed to oneself, and to answer it as Ibn 'Abbas did, with glory to Allah and a yes.",
+            "bn": "৯৫:৭ ও ৯৫:৮ যে অস্বীকারকারীর মুখোমুখি হয়, সে আয়াতে বর্ণিত এক চরিত্র, যে প্রমাণ দেখার পরও প্রতিদান অস্বীকার করে। আয়াত দুটি কেবল সেটুকুই বর্ণনা করে, যা পাঠে আছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এগুলো কিছুরই অনুমতি দেয় না। পাঠকের কাছে এদের চাওয়া আরও সহজ: শেষ প্রশ্নটাকে নিজের প্রতি করা প্রশ্ন হিসেবে শোনা, আর ইবন আব্বাস (রাঃ)-এর মতো আল্লাহর পবিত্রতা ঘোষণা করে জবাব দেওয়া: অবশ্যই।"
+          }
+        ]
+      }
+    ]
   }
 });

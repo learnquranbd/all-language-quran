@@ -29963,6 +29963,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Skill and power are trusts. What you carve and what you hold in place can outlast you, so build and govern in a way that will not stand as a warning.",
     "lessonBn": "দক্ষতা আর ক্ষমতা দুটোই আমানত। আপনি যা খোদাই করেন আর যা ধরে রাখেন, তা আপনার পরেও টিকে থাকতে পারে। তাই এমনভাবে গড়ুন ও চালান, যাতে তা পরে সতর্কবাণী হয়ে না দাঁড়ায়।"
+  },
+  "95:8": {
+    "reflectionEn": "The surah does not close on a statement. It closes on a question, and the question is built to be answered: is not Allah the most just of judges? Some readers pause here and answer aloud, yes, and to that I bear witness. The answer takes a second to say and a lifetime to mean. A body shaped well and then worn down by the years, good work that keeps its reward after the strength for it is gone, a wrong done to someone that no court on earth ever put right: all of it waits on that one Judge. If my tongue says yes, do my dealings say it too? And when I am the one wronged, do I trust that the account is still open?",
+    "reflectionBn": "সূরাটি কোনো ঘোষণা দিয়ে শেষ হয় না, শেষ হয় একটি প্রশ্নে। আর প্রশ্নটা এমনভাবে গড়া যে তার জবাব দিতেই হয়: আল্লাহ কি বিচারকদের মধ্যে শ্রেষ্ঠ বিচারক নন? অনেক পাঠক এখানে থেমে মুখে জবাব দেন: হ্যাঁ, আর আমি এর সাক্ষী। জবাবটা বলতে এক মুহূর্ত লাগে, কিন্তু সত্যিই মানতে লাগে সারা জীবন। সুন্দর গড়নের শরীর, যা বয়সের ভারে একদিন ক্ষয়ে যায়। নেক আমল, যার সওয়াব শক্তি ফুরিয়ে গেলেও থামে না। কারও উপর করা এমন জুলুম, দুনিয়ার কোনো আদালত যার বিচার করেনি। সবকিছুই সেই এক বিচারকের অপেক্ষায়। মুখে আমি হ্যাঁ বলি, কিন্তু আমার লেনদেনও কি তাই বলে? আর জুলুমটা যখন আমার উপর হয়, তখন কি ভরসা রাখি যে হিসাবের খাতা এখনো খোলা?",
+    "pointsEn": [
+      "When the Qur'an puts a question to me, do I stop and answer it, or read straight past it?",
+      "Which of my dealings this week would I be content to have weighed by a Judge who wrongs no one?",
+      "Is there a wrong done to me that I keep trying to settle myself, because I doubt it will ever be settled otherwise?",
+      "Is there a wrong I did to someone that I am quietly hoping will just be forgotten?",
+      "What good am I building now, while I have the strength, that I would want still counted for me when I no longer can?"
+    ],
+    "pointsBn": [
+      "কুরআন যখন আমাকে কোনো প্রশ্ন করে, আমি কি থেমে জবাব দিই, নাকি পড়ে চলে যাই?",
+      "এ সপ্তাহে আমার কোন লেনদেনগুলো এমন এক বিচারকের সামনে মাপা হলে আমি নিশ্চিন্ত থাকতাম, যিনি কারও উপর জুলুম করেন না?",
+      "আমার উপর হওয়া কোনো জুলুমের শোধ কি আমি নিজেই নিতে চাইছি, কারণ মনে সন্দেহ যে অন্যভাবে তার বিচার আর হবে না?",
+      "আমি কারও উপর এমন কোনো অন্যায় করেছি কি, যা নিয়ে চুপচাপ আশা করছি যে সবাই একদিন ভুলে যাবে?",
+      "শক্তি থাকতে থাকতে এখন কোন নেক আমল গড়ে তুলছি, যা আর করতে না পারার দিনেও আমার নামে লেখা হতে থাকুক বলে চাই?"
+    ],
+    "lessonEn": "Answer the surah's closing question with your life as well as your tongue: Allah is the most just of judges, so no wrong is lost and no good deed goes unrecorded.",
+    "lessonBn": "সূরার শেষ প্রশ্নের জবাব শুধু মুখে নয়, জীবন দিয়েও দিন: আল্লাহই শ্রেষ্ঠ বিচারক, তাই কোনো জুলুম হারিয়ে যায় না, কোনো নেক আমলও অলিখিত থাকে না।"
   }
 };
 
