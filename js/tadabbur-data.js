@@ -29803,6 +29803,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold to faith when it costs you, and never be among those who sit and watch others harmed for what they believe; Allah sees the deed and the onlookers alike.",
     "lessonBn": "ঈমানের দাম দিতে হলেও তা আঁকড়ে থাকুন। বিশ্বাসের কারণে কাউকে কষ্ট দেওয়া হলে বসে বসে দেখা লোকদের দলে কখনো থাকবেন না। কাজটা আর দর্শক, দুটোই আল্লাহ দেখেন।"
+  },
+  "88:23": {
+    "reflectionEn": "The Prophet ﷺ has just been told: so remind, you are only one who reminds; you are not a controller over them. Then come four words: except whoever turns away and disbelieves. The commentators read the exception in more than one way, but the verses after it are plain: his return is to Allah, and so is his reckoning. That frees the one who reminds from trying to own other hearts, and it leaves the listener with no one else to blame. So the question comes back to me. When a reminder reaches me, a verse, a word of advice, a warning I already know, do I turn towards it, or turn my back and call that freedom?",
+    "reflectionBn": "নবী ﷺ-কে এইমাত্র বলা হয়েছে: তুমি উপদেশ দাও, তুমি তো কেবল উপদেশদাতা; তুমি তাদের ওপর জবরদস্তিকারী নও। তারপর চারটি শব্দ: তবে যে মুখ ফিরিয়ে নেয় ও কুফরি করে। মুফাসসিররা এই ব্যতিক্রম একাধিকভাবে পড়েছেন। কিন্তু পরের আয়াতগুলো একেবারে স্পষ্ট: তার ফিরে যাওয়া আল্লাহর কাছে, তার হিসাবও আল্লাহর কাছে। এতে যিনি উপদেশ দেন, তিনি অন্যের হৃদয়ের মালিক হওয়ার বোঝা থেকে মুক্ত। আর যে শোনে, দোষ চাপানোর মতো আর কাউকে সে পায় না। তাই প্রশ্নটা ঘুরে আমার কাছেই আসে। কোনো আয়াত, কোনো নসিহত, কিংবা আগে থেকেই জানা কোনো সতর্কবাণী যখন আমার কাছে পৌঁছায়, আমি কি সেদিকে মুখ ফেরাই? নাকি পিঠ ফিরিয়ে নিয়ে সেটাকেই স্বাধীনতা বলে চালাই?",
+    "pointsEn": [
+      "When did a reminder last reach me that I turned my back on, and what was I protecting by turning away?",
+      "Is my turning away mostly in the heart, or mostly in what I leave undone while I still say I believe?",
+      "When I remind someone, do I try to control the outcome, or say the truth well and leave the rest to Allah?",
+      "Which reminder have I heard so often that I no longer hear it at all?",
+      "If my return and my reckoning are with Allah, what would I change today before that return?"
+    ],
+    "pointsBn": [
+      "শেষ কবে কোনো উপদেশ আমার কাছে এসেছিল আর আমি তার দিকে পিঠ ফিরিয়েছিলাম? মুখ ফিরিয়ে আমি আসলে কী আগলে রাখতে চাইছিলাম?",
+      "আমার মুখ ফেরানোটা কি বেশিরভাগ অন্তরে, নাকি সেই আমলগুলোতে, যা ঈমানের দাবি করেও আমি ছেড়ে রাখি?",
+      "কাউকে উপদেশ দিলে আমি কি ফলাফল নিজের হাতে রাখতে চাই, নাকি সুন্দর করে সত্যটা বলে বাকিটা আল্লাহর ওপর ছেড়ে দিই?",
+      "কোন উপদেশ এত বেশি শুনেছি যে এখন আর তা কানেই ঢোকে না?",
+      "আমার ফিরে যাওয়া আর আমার হিসাব যদি আল্লাহর কাছেই হয়, সেই ফেরার আগে আজ আমি কী বদলাব?"
+    ],
+    "lessonEn": "Turn towards the reminders that reach you instead of away from them, and when you remind others, speak plainly and leave their hearts and their reckoning to Allah.",
+    "lessonBn": "যে উপদেশ আপনার কাছে পৌঁছায়, তার দিকে মুখ ফেরান, পিঠ নয়। আর অন্যকে উপদেশ দিলে স্পষ্ট করে বলুন, তাদের অন্তর আর তাদের হিসাব আল্লাহর ওপর ছেড়ে দিন।"
   }
 };
 

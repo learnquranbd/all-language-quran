@@ -774,5 +774,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "88:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words After a Comfort",
+          "bn": "সান্ত্বনার পরে চার শব্দ"
+        },
+        "p": [
+          {
+            "en": "Illa man tawalla wa kafara: except whoever turns away and disbelieves. These four Arabic words follow directly on 88:21 and 88:22, where the Prophet ﷺ is told: so remind, you are only one who reminds; you are not a controller over them. The surah moves from what can be seen to what the Messenger is charged with, and where that charge stops. This verse is the hinge between the charge and the closing lines on punishment, return and reckoning in 88:24 to 88:26.",
+            "bn": "ইল্লা মান তাওয়াল্লা ওয়া কাফার: তবে যে মুখ ফিরিয়ে নেয় ও কুফরি করে। আরবিতে মাত্র চারটি শব্দ। এর ঠিক আগে ৮৮:২১ ও ৮৮:২২ আয়াতে নবী ﷺ-কে বলা হয়েছে: তুমি উপদেশ দাও, তুমি তো কেবল একজন উপদেশদাতা; তুমি তাদের ওপর জবরদস্তিকারী নও। সূরা এবার চোখে দেখার জিনিস ছেড়ে এসেছে রাসূলের দায়িত্বের কথায়, আর সেই দায়িত্ব কোথায় গিয়ে থামে সে কথায়। এই আয়াত সেই দায়িত্ব আর শেষের আয়াতগুলোর মাঝখানের কবজা। শেষের আয়াতগুলো, অর্থাৎ ৮৮:২৪ থেকে ৮৮:২৬, কথা বলে শাস্তি, ফিরে যাওয়া আর হিসাব নিয়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the close of the surah as comfort for the Prophet ﷺ: he is a preacher who must keep preaching and need not worry beyond that, for it is Allah who will call the unbelievers to account. Al-Baghawi glosses this verse as whoever turns away and disbelieves after the reminding, and the Muyassar as whoever turned from the reminder and the admonition and persisted in disbelief. On these glosses the verse does not describe someone who never heard anything. It describes a response to a reminder that actually arrived.",
+            "bn": "মাআরিফুল কুরআনের চোখে সূরার এই শেষাংশ নবী ﷺ-এর জন্য সান্ত্বনা। তিনি একজন প্রচারক, প্রচার চালিয়ে যাওয়াই তাঁর কাজ, এর বাইরে দুশ্চিন্তার কিছু নেই। অবিশ্বাসীদের ডেকে হিসাব নেবেন আল্লাহ নিজে। বাগাভী আয়াতটির ব্যাখ্যা দেন এভাবে: উপদেশ পৌঁছানোর পরও যে মুখ ফিরিয়ে নেয় ও কুফরি করে। মুয়াসসার বলে: যে উপদেশ আর নসিহত থেকে মুখ ফিরিয়েছে এবং কুফরিতে অটল থেকেছে। এই ব্যাখ্যাগুলো ধরলে আয়াতটি এমন কারও কথা বলছে না, যে কখনো কিছু শোনেনি। বলছে এমন এক সাড়ার কথা, যা এসেছে সত্যিই পৌঁছে যাওয়া উপদেশের জবাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Except, or Rather But?",
+          "bn": "ব্যতিক্রম, নাকি 'তবে'?"
+        },
+        "p": [
+          {
+            "en": "The first question is grammatical: what does illa, except, cut out, and from what? Al-Qurtubi and al-Baghawi both call it istithna' munqati', a disconnected exception, one whose excepted case does not belong to the group named before it. Each then restates the verse with lakin, but: but whoever turns away from the admonition and the reminding, in al-Qurtubi's words; but whoever turns away and disbelieves after the reminding, in al-Baghawi's. As-Sa'di and the Muyassar use the same lakin without naming the term.",
+            "bn": "প্রথম প্রশ্নটা ব্যাকরণের। ইল্লা, অর্থাৎ 'তবে' বা 'ছাড়া', কাকে বাদ দিচ্ছে, আর কোন দল থেকে? কুরতুবী ও বাগাভী দুজনেই একে বলেন ইস্তিসনা মুনকাতি, বিচ্ছিন্ন ব্যতিক্রম। এমন ব্যতিক্রমে যাকে বাদ দেওয়া হয়, সে আগের দলের অংশই নয়। দুজনেই এরপর আয়াতটা নতুন করে বলেন 'লাকিন' দিয়ে, যার মানে 'কিন্তু'। কুরতুবীর ভাষায়: কিন্তু যে নসিহত আর উপদেশ থেকে মুখ ফিরিয়ে নেয়। বাগাভীর ভাষায়: কিন্তু উপদেশ পৌঁছানোর পর যে মুখ ফিরিয়ে নেয় ও কুফরি করে। সা'দী ও মুয়াসসারও পরিভাষার নাম না নিয়ে একই লাকিন ব্যবহার করেন।"
+          },
+          {
+            "en": "On this reading the verse removes no one from the Prophet's ﷺ duty to remind, nor from the statement that he is no controller. It opens a new thought: as for the one who turns away, Allah will punish him. In his comment on the next verse, al-Qurtubi offers as evidence for this interpretation, dalil hadha at-ta'wil, the reading of Ibn Mas'ud (RA): illa man tawalla wa kafara fa-innahu yu'adhdhibuhu Allah, with an added fa-innahu, so that it runs, whoever turns away and disbelieves, Allah will punish him. Only then, under it is said, does he turn to the view that the exception is connected.",
+            "bn": "এভাবে পড়লে আয়াতটি কাউকে নবী ﷺ-এর উপদেশ দেওয়ার দায়িত্ব থেকে বাদ দেয় না, 'তুমি জবরদস্তিকারী নও' কথাটা থেকেও না। বরং নতুন একটা কথা শুরু করে: আর যে মুখ ফিরিয়ে নেয়, আল্লাহ তাকে শাস্তি দেবেন। পরের আয়াতের আলোচনায় কুরতুবী এই ব্যাখ্যার দলিল হিসেবে ইবন মাসউদ (রাঃ)-এর কিরাআত আনেন: ইল্লা মান তাওয়াল্লা ওয়া কাফারা ফাইন্নাহু ইউআযযিবুহুল্লাহ। এখানে বাড়তি আছে 'ফাইন্নাহু', ফলে অর্থ দাঁড়ায়: যে মুখ ফিরিয়ে নেয় ও কুফরি করে, আল্লাহ অবশ্যই তাকে শাস্তি দেবেন। এর পরেই কেবল তিনি 'বলা হয়' কথাটি দিয়ে সেই মতের দিকে যান, যেখানে ব্যতিক্রমটি সংযুক্ত।"
+          },
+          {
+            "en": "Al-Qurtubi also reports that Ibn 'Abbas (RA) and Qatada read ala in place of illa, an opening particle that calls for attention. Read that way, man becomes conditional, whoever, and its answer is the next verse: whoever turns away and disbelieves, Allah will punish him. The grammar changes, but on each of these readings the warning falls on whoever turns away.",
+            "bn": "কুরতুবী আরও জানান, ইবন আব্বাস (রাঃ) ও কাতাদা ইল্লা-র জায়গায় পড়েছেন 'আলা', যা মনোযোগ টানতে বাক্যের শুরুতে বসে। এভাবে পড়লে 'মান' হয়ে যায় শর্তবাচক, অর্থাৎ 'যে-ই'। আর তার জবাব পরের আয়াত: যে-ই মুখ ফিরিয়ে নেয় ও কুফরি করে, আল্লাহ তাকে শাস্তি দেবেন। বাক্যের গঠন এতে বদলায়। কিন্তু এর কোনো পাঠেই সতর্কবাণী মুখ ফেরানো মানুষটির ওপর থেকে সরে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Leaves Two Roads",
+          "bn": "তাবারীর রেখে যাওয়া দুই পথ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not choose. The words, he says, point in two directions. In the first, the exception is taken from those the Prophet ﷺ was to remind: remind your people, O Muhammad, except whoever of them turns away from you, shuns the signs of Allah and so disbelieves. Illa then cuts someone out of the reminding, even though the reminded were never named in the verse. He compares it to saying: he went and called, except the one whose answer could not be hoped for, meaning he called the people except that one.",
+            "bn": "তাবারী কোনো একটি বেছে নেন না। তাঁর ভাষায়, শব্দগুলো দুই দিকে যেতে পারে। প্রথম পথে ব্যতিক্রমটি নেওয়া হয়েছে তাদের মধ্য থেকে, যাদের উপদেশ দেওয়ার কথা নবী ﷺ-কে বলা হয়েছে। অর্থ দাঁড়ায়: হে মুহাম্মাদ, তোমার কওমকে উপদেশ দাও, তবে তাদের মধ্যে যে তোমার থেকে মুখ ফিরিয়ে নেয়, আল্লাহর আয়াত এড়িয়ে চলে আর এভাবে কুফরি করে, সে বাদে। তাহলে ইল্লা কাউকে উপদেশের আওতা থেকে বাদ দিচ্ছে, যদিও আয়াতে উপদেশপ্রাপ্তদের নাম আলাদা করে বলা হয়নি। তাবারী তুলনা দেন এমন এক কথার সঙ্গে: লোকটি গিয়ে ডাকল, তবে যার সাড়া দেওয়ার আশা নেই তাকে ছাড়া। মানে, সে সবাইকে ডাকল, শুধু ওই একজনকে বাদ দিয়ে।"
+          },
+          {
+            "en": "In the second, the exception is cut off from what precedes: you are not a controller over them; but whoever turns away and disbelieves, Allah will punish him. At-Tabari then supplies a test. A disconnected exception is one with which inna sits well; if inna fits, the exception is disconnected, and if it does not, the exception is connected and sound, as in: the people travelled except Zayd. He sets out both roads and leaves them standing. The fa-innahu of Ibn Mas'ud's reading, as al-Qurtubi relays it, contains the very particle on which at-Tabari's test turns.",
+            "bn": "দ্বিতীয় পথে ব্যতিক্রমটি আগের কথা থেকে বিচ্ছিন্ন। অর্থ: তুমি তাদের ওপর জবরদস্তিকারী নও; কিন্তু যে মুখ ফিরিয়ে নেয় ও কুফরি করে, আল্লাহ তাকে শাস্তি দেবেন। এরপর তাবারী একটা পরীক্ষাও বাতলে দেন। বিচ্ছিন্ন ব্যতিক্রমের সঙ্গে 'ইন্না' শব্দটি মানিয়ে যায়। মানিয়ে গেলে ব্যতিক্রমটি বিচ্ছিন্ন। না মানালে সেটি সংযুক্ত ও যথার্থ ব্যতিক্রম, যেমন: লোকেরা রওনা হলো, যায়দ ছাড়া। দুটি পথই তিনি তুলে ধরেন, কোনোটিকে বাতিল করেন না। লক্ষ করার মতো ব্যাপার হলো, কুরতুবীর উদ্ধৃত ইবন মাসউদ (রাঃ)-এর কিরাআতের 'ফাইন্নাহু'-তে ঠিক সেই শব্দটিই আছে, যার ওপর তাবারীর পরীক্ষা দাঁড়িয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi records a third attachment under it is said: the exception is connected, but to the words just before it. The meaning becomes: you are not set in control over them, except over whoever turns away and disbelieves, for over him you are given authority through jihad, and Allah will afterwards punish him with the greatest punishment. Al-Qurtubi adds that on this reckoning there is no abrogation in the verse. That remark leads to the question of 88:22.",
+            "bn": "কুরতুবী 'বলা হয়' কথাটি দিয়ে তৃতীয় আরেকটি সংযোগের কথা লেখেন। এ মতে ব্যতিক্রমটি সংযুক্ত, তবে ঠিক আগের কথাটির সঙ্গে। অর্থ দাঁড়ায়: তুমি তাদের ওপর কর্তৃত্বশীল নও, তবে যে মুখ ফিরিয়ে নেয় ও কুফরি করে তার ওপর ছাড়া। কারণ তার ওপর তোমাকে জিহাদের মাধ্যমে কর্তৃত্ব দেওয়া হয়েছে, আর এরপর আল্লাহ তাকে মহাশাস্তি দেবেন। কুরতুবী যোগ করেন, এই হিসাবে আয়াতে কোনো নাসখ বা রহিতকরণ নেই। এই মন্তব্য আমাদের নিয়ে যায় ৮৮:২২ আয়াতের প্রশ্নে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Was the Controller Clause Lifted?",
+          "bn": "'জবরদস্তিকারী নও' কি রহিত?"
+        },
+        "p": [
+          {
+            "en": "Lasta 'alayhim bi-musaytir: you are not a controller over them. At-Tabari glosses it as you are not set over them with power, nor a tyrant who drives them to what you want; leave them to Me and to My judgement. He reports from Ibn 'Abbas (RA) and Mujahid: not a tyrant, jabbar, and from Qatada: leave My servants to Me. Ibn Kathir adds from Ibn Zayd: it is not you who forces them to believe. As-Sa'di reads it as not appointed over their deeds; once you have done your part, no blame falls on you.",
+            "bn": "লাসতা আলাইহিম বিমুসাইতির: তুমি তাদের ওপর জবরদস্তিকারী নও। তাবারী এর ব্যাখ্যা দেন এভাবে: তুমি তাদের ওপর ক্ষমতা দিয়ে বসানো কেউ নও, এমন জবরদস্তিকারীও নও যে নিজের ইচ্ছামতো তাদের চালাবে। তাদের আমার হাতে ছেড়ে দাও, আমার ফয়সালার হাতে। ইবন আব্বাস (রাঃ) ও মুজাহিদ থেকে তিনি বর্ণনা করেন: অর্থাৎ জাব্বার নও। কাতাদা থেকে: আমার বান্দাদের আমার কাছে সঁপে দাও। ইবন কাসীর যোগ করেন ইবন যায়দের কথা: তুমি এমন কেউ নও যে তাদের ঈমান আনতে বাধ্য করবে। সা'দীর পাঠে: তাদের আমলের দায়িত্ব দিয়ে তোমাকে পাঠানো হয়নি। নিজের কাজটুকু করে ফেললে এরপর তোমার ওপর আর কোনো দোষ নেই।"
+          },
+          {
+            "en": "Whether this was later abrogated is where the sources part. At-Tabari, with his chain, reports Ibn Zayd: after this came the command to strive against the disbelievers and the hypocrites and be harsh with them (9:73, 66:9), and to sit in wait for them at every place of ambush (9:5), and it abrogated you are not a controller over them; but the reminding stands and was not abrogated, and he recites 51:55: and remind, for the reminder benefits the believers. Al-Qurtubi says on 88:22 that the verse of the sword then abrogated it, and al-Baghawi that the verse of fighting did.",
+            "bn": "পরে এটি রহিত হয়েছে কি না, এখানে এসে সূত্রগুলো আলাদা হয়ে যায়। তাবারী নিজের সনদে ইবন যায়দের কথা আনেন: এর পরে এসেছে কাফির ও মুনাফিকদের বিরুদ্ধে জিহাদ করার এবং তাদের প্রতি কঠোর হওয়ার নির্দেশ, যে শব্দগুলো আছে ৯:৭৩ ও ৬৬:৯ আয়াতে। আরও এসেছে ৯:৫ আয়াতের নির্দেশ, প্রতিটি ঘাঁটিতে তাদের জন্য ওত পেতে বসার। এগুলো 'তুমি তাদের ওপর জবরদস্তিকারী নও' কথাটি রহিত করেছে। তবে উপদেশ দেওয়ার কাজটি, ইবন যায়দ যোগ করেন, যেমন ছিল তেমনই আছে, রহিত হয়নি। প্রমাণ হিসেবে তিনি ৫১:৫৫ পড়েন: আর উপদেশ দাও, কেননা উপদেশ মুমিনদের উপকারে আসে। কুরতুবী ৮৮:২২ আয়াতের আলোচনায় নিজেই বলেন, পরে তরবারির আয়াত একে রহিত করেছে। বাগাভী বলেন, কিতালের আয়াত একে রহিত করেছে।"
+          },
+          {
+            "en": "Against this stands the connected reading al-Qurtubi records, which ends with no abrogation in the verse. At-Tabari relays Ibn Zayd's view without adding a verdict of his own, and Ibn Kathir and as-Sa'di do not mention abrogation at this verse. Both positions are in the sources, and this page does not decide between them. Even Ibn Zayd keeps one thing standing: whatever he held lifted, the duty to remind was not, and that duty is the command 88:21 opens with.",
+            "bn": "এর বিপরীতে আছে কুরতুবীর লেখা সেই সংযুক্ত পাঠ, যার শেষ কথা: আয়াতে কোনো রহিতকরণ নেই। তাবারী ইবন যায়দের মত বর্ণনা করেন, নিজের কোনো রায় যোগ করেন না। আর ইবন কাসীর ও সা'দী এই আয়াতে রহিতকরণের কথা তোলেনই না। দুটি অবস্থানই সূত্রগুলোতে আছে, এই লেখা তাদের মধ্যে ফয়সালা করে না। তবে একটি জায়গায় ইবন যায়দও একমত। তাঁর মতে যা-ই রহিত হোক, উপদেশ দেওয়ার দায়িত্ব রহিত হয়নি। আর ৮৮:২১ আয়াত শুরুই হয়েছে সেই নির্দেশ দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recited at a Hadith's End",
+          "bn": "হাদীসের শেষে তিলাওয়াত"
+        },
+        "p": [
+          {
+            "en": "One sound narration is tied to this passage, though to 88:21 and 88:22 rather than to the exception itself. Muslim records it in his Sahih (Muslim 21), in the Book of Faith, from Jabir (RA): the Messenger of Allah ﷺ said: I have been commanded that I should fight against people till they declare that there is no god but Allah, and when they profess it that there is no god but Allah, their blood and riches are guaranteed protection on my behalf except where it is justified by law, and their affairs rest with Allah. Then he recited: innama anta mudhakkir, lasta 'alayhim bi-musaytir.",
+            "bn": "একটি সহীহ বর্ণনা এই অংশের সঙ্গে যুক্ত, তবে ব্যতিক্রমের আয়াতটির সঙ্গে নয়, ৮৮:২১ ও ৮৮:২২ আয়াতের সঙ্গে। ইমাম মুসলিম তাঁর সহীহ গ্রন্থের ঈমান অধ্যায়ে (মুসলিম ২১) জাবির (রাঃ) থেকে এটি বর্ণনা করেছেন। রাসূলুল্লাহ ﷺ বলেছেন: আমাকে আদেশ দেওয়া হয়েছে মানুষের সঙ্গে লড়াই করতে, যতক্ষণ না তারা বলে, আল্লাহ ছাড়া কোনো ইলাহ নেই। যখন তারা বলে, আল্লাহ ছাড়া কোনো ইলাহ নেই, তখন তারা আমার কাছ থেকে নিজেদের রক্ত ও সম্পদ সুরক্ষিত করে নেয়, তবে এর ন্যায্য হক ছাড়া। আর তাদের হিসাব আল্লাহর ওপর। এরপর তিনি তিলাওয়াত করলেন: ইন্নামা আনতা মুযাক্কির, লাসতা আলাইহিম বিমুসাইতির।"
+          },
+          {
+            "en": "At-Tabari and Ibn Kathir both place it under 88:22. At-Tabari gives it through several chains from Abu az-Zubayr from Jabir, and in one of them it is Abu az-Zubayr who says: then he recited. Ibn Kathir notes that Muslim, at-Tirmidhi and an-Nasa'i carry it with this addition of the verse, and that the hadith is found in both Sahihs from Abu Hurayra without mention of the verse. Its Arabic closes on hisabuhum 'ala Allah, their reckoning is upon Allah; the surah closes on 'alayna hisabahum, upon Us is their reckoning (88:26).",
+            "bn": "তাবারী ও ইবন কাসীর দুজনেই হাদীসটি এনেছেন ৮৮:২২ আয়াতের আলোচনায়। তাবারী একাধিক সনদে আবুয যুবাইরের মাধ্যমে জাবির (রাঃ) থেকে এটি বর্ণনা করেন। তার একটি সনদে 'এরপর তিনি তিলাওয়াত করলেন' কথাটি আবুয যুবাইরের নিজের। ইবন কাসীর জানান, মুসলিম, তিরমিযী ও নাসাঈ আয়াতের এই সংযোজনসহ হাদীসটি এনেছেন। আর বুখারী ও মুসলিম দুটিতেই হাদীসটি আছে আবু হুরায়রা (রাঃ) থেকে, তবে আয়াতের উল্লেখ ছাড়া। হাদীসের আরবি শেষ হয় 'হিসাবুহুম আলাল্লাহ' দিয়ে, তাদের হিসাব আল্লাহর ওপর। আর সূরা শেষ হয় 'আলাইনা হিসাবাহুম' দিয়ে, তাদের হিসাব নেওয়া আমারই দায়িত্ব (৮৮:২৬)।"
+          },
+          {
+            "en": "The hadith is quoted as the collector and these commentators give it, a saying after which the verses were recited, and nothing further is built on it; quoting it licenses nothing against any living person or community. No narration in the fetched sources is attached to 88:23 itself. Ibn Kathir relays one at 88:24 from Ahmad alone, as he himself notes, with no grading; it is only mentioned here.",
+            "bn": "হাদীসটি এখানে উদ্ধৃত হয়েছে ঠিক যেভাবে সংকলক আর এই মুফাসসিররা এনেছেন: এমন একটি বাণী হিসেবে, যার পরে আয়াতগুলো তিলাওয়াত করা হয়েছিল। এর ওপর আর কিছু দাঁড় করানো হয়নি। এটি উদ্ধৃত করা কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। সংগ্রহ করা সূত্রগুলোতে খোদ ৮৮:২৩ আয়াতের সঙ্গে কোনো বর্ণনা যুক্ত পাওয়া যায়নি। ইবন কাসীর ৮৮:২৪ আয়াতে ইমাম আহমাদ থেকে একটি বর্ণনা আনেন এবং জানান, কেবল আহমাদই এটি বর্ণনা করেছেন। সেখানে এর কোনো মান নির্ধারণ করা হয়নি। তাই এখানে শুধু এর উল্লেখটুকু থাকল, এর ওপর কিছু দাঁড় করানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Back Turned, Then Denial",
+          "bn": "পিঠ ফেরানো, তারপর অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "What do the two verbs cover? Ibn Kathir divides them between deed and belief: tawalla, he turned away from acting by its pillars; kafara, he disbelieved in the truth with his heart and his tongue. He sets beside it 75:31 and 75:32: so he neither affirmed the truth nor prayed, but he denied and turned away. There too the turning away stands next to a refusal that is both inward and outward, and the prayer left unprayed stands beside the truth left unaffirmed.",
+            "bn": "ক্রিয়া দুটি কতটা জায়গা জুড়ে? ইবন কাসীর এদের ভাগ করেন আমল আর বিশ্বাসের মধ্যে। তাওয়াল্লা: সে তার রুকন অনুযায়ী আমল করা থেকে মুখ ফিরিয়ে নিয়েছে। কাফারা: সে অন্তর ও মুখ দিয়ে সত্যকে অস্বীকার করেছে। পাশে তিনি রাখেন ৭৫:৩১ ও ৭৫:৩২ আয়াত: সে সত্যকে মানেনি, নামাযও পড়েনি; বরং অস্বীকার করেছে ও মুখ ফিরিয়ে নিয়েছে। সেখানেও মুখ ফেরানোর পাশেই আছে এমন এক প্রত্যাখ্যান, যা ভেতরেরও, বাইরেরও। না-পড়া নামায সেখানে দাঁড়িয়ে আছে না-মানা সত্যের ঠিক পাশে।"
+          },
+          {
+            "en": "The others place the turning a little differently. As-Sa'di: he turned from obedience and disbelieved in Allah. The Muyassar: he turned from the reminding and the admonition and persisted in his disbelief. Al-Qurtubi: he turned from the admonition and the reminding. Al-Baghawi: he turned away and disbelieved after the reminding. Read together, they make the turning a refusal of something offered: the pillars of practice, obedience, an admonition actually delivered. The verse names a response to what was offered, not a lineage, a land or a group.",
+            "bn": "অন্যরা মুখ ফেরানোর জায়গাটা একটু ভিন্নভাবে দেখান। সা'দী: সে আনুগত্য থেকে মুখ ফিরিয়েছে আর আল্লাহর সঙ্গে কুফরি করেছে। মুয়াসসার: সে উপদেশ ও নসিহত থেকে মুখ ফিরিয়েছে এবং কুফরিতে অটল থেকেছে। কুরতুবী: সে নসিহত ও উপদেশ থেকে মুখ ফিরিয়েছে। বাগাভী: উপদেশ পৌঁছানোর পর সে মুখ ফিরিয়েছে ও কুফরি করেছে। সব মিলিয়ে পড়লে মুখ ফেরানো মানে যা সামনে রাখা হয়েছিল, তা ফিরিয়ে দেওয়া। সেটা হতে পারে আমলের রুকন, আনুগত্য, কিংবা সত্যিই পৌঁছে যাওয়া কোনো নসিহত। আয়াতটি নাম দেয় একটি সাড়ার, কোনো বংশ, দেশ বা দলের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Called the Greatest",
+          "bn": "কেন সবচেয়ে বড় শাস্তি"
+        },
+        "p": [
+          {
+            "en": "The exception finds its answer in 88:24: then Allah will punish him with the greatest punishment. At-Tabari names it the punishment of Jahannam. As-Sa'di calls it severe and lasting, and the Muyassar the severe punishment in the Fire. Al-Qurtubi and al-Baghawi explain the word greatest by comparison: it is called the greater because those addressed had already been punished in this world with hunger, drought, captivity and killing. That describes what these two commentators say befell those addressed, and it licenses nothing against any living person or community.",
+            "bn": "ব্যতিক্রমের জবাব আসে ৮৮:২৪ আয়াতে: আল্লাহ তাকে মহাশাস্তি দেবেন। তাবারী একে বলেন জাহান্নামের শাস্তি। সা'দী বলেন, কঠিন ও স্থায়ী। মুয়াসসার বলে, আগুনে কঠিন শাস্তি। কুরতুবী ও বাগাভী 'আকবার', অর্থাৎ সবচেয়ে বড়, শব্দটা বোঝান তুলনা দিয়ে। একে বড় বলা হয়েছে, কারণ যাদের সম্বোধন করা হয়েছিল তারা দুনিয়াতেই ক্ষুধা, দুর্ভিক্ষ, বন্দিত্ব আর হত্যার শাস্তি ভোগ করেছিল। এটা কেবল সেই বর্ণনা, যা এই দুই মুফাসসির সম্বোধিত লোকদের সম্পর্কে দেন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটা কোনো কিছুর অনুমতি দেয় না।"
+          },
+          {
+            "en": "Then 88:25 and 88:26 close the surah: indeed to Us is their return; then indeed upon Us is their reckoning. Ibn Kathir glosses the return as their place of return and their resort, and the reckoning as: We will reckon their deeds and requite them for them; if they did good they receive good, and if evil, evil. So the hand that punishes in 88:24 is not the reminder's. The passage that told the Prophet ﷺ he was no controller ends with two verses that put both the return and the reckoning with Allah.",
+            "bn": "এরপর ৮৮:২৫ ও ৮৮:২৬ আয়াত দিয়ে সূরা শেষ হয়: নিশ্চয় আমার কাছেই তাদের ফিরে আসা; তারপর নিশ্চয় তাদের হিসাব নেওয়া আমারই দায়িত্ব। ইবন কাসীর ফিরে আসার ব্যাখ্যা দেন: তাদের ফেরার জায়গা, তাদের শেষ আশ্রয়। আর হিসাবের ব্যাখ্যা: আমি তাদের আমলের হিসাব নেব এবং সে অনুযায়ী প্রতিদান দেব। ভালো করলে ভালো পাবে, মন্দ করলে মন্দ। তাহলে ৮৮:২৪ আয়াতে শাস্তি যে হাতে, তা উপদেশদাতার হাত নয়। যে অংশটি নবী ﷺ-কে বলেছিল তিনি জবরদস্তিকারী নন, তা শেষ হয় এমন দুটি আয়াতে, যা ফিরে আসা আর হিসাব দুটোই রাখে আল্লাহর কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verdict Is Not Ours",
+          "bn": "রায় আমাদের হাতে নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes one who turns away and disbelieves after a reminder has reached him, and it places his punishment, his return and his reckoning with Allah. It names no one, and it licenses nothing against any living person or community. No reader is made a judge of who has turned away, and no one is handed the punishment that the next verse reserves to Allah. The disagreement over abrogation set out above is reported as a difference among the commentators; this page draws no instruction from it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে এমন একজনকে, যার কাছে উপদেশ পৌঁছানোর পরও সে মুখ ফিরিয়ে নেয় ও কুফরি করে। আর তার শাস্তি, তার ফিরে যাওয়া, তার হিসাব, সবকিছু রাখে আল্লাহর কাছে। আয়াতটি কারও নাম নেয় না। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। কে মুখ ফিরিয়েছে, তার বিচারক কোনো পাঠককে বানানো হয়নি। পরের আয়াত যে শাস্তি আল্লাহর জন্য রেখেছে, তা কারও হাতে তুলে দেওয়া হয়নি। রহিতকরণ নিয়ে ওপরের মতভেদটি এখানে এসেছে মুফাসসিরদের মতপার্থক্য হিসেবে। এই লেখা তা থেকে কোনো নির্দেশ বের করে না।"
+          },
+          {
+            "en": "What the verse does hand its reader is two roles. To whoever reminds: remind, speak clearly, and do not mistake yourself for the controller of other hearts. To whoever is reminded: the turning the verse describes begins with a back turned on a reminder that arrived. The surah that opened by asking whether the news had reached you (88:1) ends by telling everyone where they will return, and who will take the account.",
+            "bn": "আয়াতটি পাঠকের হাতে যা তুলে দেয়, তা দুটি ভূমিকা। যিনি উপদেশ দেন, তাঁর জন্য: উপদেশ দিন, স্পষ্ট করে বলুন, কিন্তু নিজেকে অন্যের অন্তরের নিয়ন্ত্রক ভাববেন না। আর যাকে উপদেশ দেওয়া হয়, তার জন্য: আয়াত যে মুখ ফেরানোর কথা বলে, তার শুরু পৌঁছে যাওয়া কোনো উপদেশের দিকে পিঠ ফেরানো দিয়ে। যে সূরা শুরু হয়েছিল এই প্রশ্নে, তোমার কাছে কি সেই খবর পৌঁছেছে (৮৮:১), তা শেষ হয় সবাইকে জানিয়ে: কোথায় তারা ফিরবে, আর হিসাব নেবেন কে।"
+          }
+        ]
+      }
+    ]
   }
 });
