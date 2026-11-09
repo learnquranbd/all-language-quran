@@ -30063,6 +30063,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Treat each dawn as a sign Allah has sworn by: rise to meet it in prayer, and remember that the One who ends every night can end the one you are in.",
     "lessonBn": "প্রতিটি ভোরকে দেখুন এমন এক নিদর্শন হিসেবে, যার শপথ আল্লাহ করেছেন। নামাজ দিয়ে তাকে বরণ করুন, আর মনে রাখুন, যিনি প্রতিটি রাত শেষ করেন, তিনি আপনার রাতটিও শেষ করতে পারেন।"
+  },
+  "94:1": {
+    "reflectionEn": "The surah opens with a question that does not wait for an answer: did We not expand your chest for you? The Prophet ﷺ is not asked what he lacks. He is reminded of what is already his: a heart made wide enough to hold guidance, carry a heavy message, and stay patient with people who turned him away. The question works like a hand on the shoulder. Before any promise of ease, it points back to a gift already in place. A chest can feel wide or tight, and the difference is not always the size of what presses on it. Where has Allah already widened mine? And when I feel cornered, do I count the room I have been given, or only the walls?",
+    "reflectionBn": "সূরাটি শুরু হয় এমন এক প্রশ্ন দিয়ে, যা উত্তরের অপেক্ষা করে না: আমি কি তোমার জন্য তোমার বক্ষ প্রশস্ত করে দিইনি? নবী ﷺ-কে জিজ্ঞেস করা হচ্ছে না তাঁর কী নেই। তাঁকে মনে করিয়ে দেওয়া হচ্ছে যা আগেই তাঁর হয়ে গেছে: এমন এক হৃদয়, যা হেদায়েত ধারণ করার মতো, ভারী এক বার্তা বহন করার মতো, আর যারা তাঁকে ফিরিয়ে দিয়েছে তাদের প্রতি ধৈর্য ধরে রাখার মতো প্রশস্ত। প্রশ্নটি যেন কাঁধে রাখা একটি হাত। স্বস্তির কোনো প্রতিশ্রুতির আগে তা দেখিয়ে দেয় এমন এক দান, যা আগে থেকেই আছে। বুক কখনো প্রশস্ত লাগে, কখনো সংকীর্ণ। আর এ পার্থক্য সবসময় চেপে বসা বোঝার আকারের উপর নির্ভর করে না। আল্লাহ আমার বুক কোথায় আগেই প্রশস্ত করে দিয়েছেন? আর কোণঠাসা লাগলে আমি কি পাওয়া জায়গাটুকু গুনি, নাকি শুধু দেয়ালগুলো?",
+    "pointsEn": [
+      "When my chest tightens, what do I reach for first: a complaint, a distraction, or a prayer that Allah widen it?",
+      "Which gift in my life have I stopped noticing simply because I have had it for so long?",
+      "Is there a truth I keep at arm's length because accepting it would mean changing something in me?",
+      "With the people who test my patience, does my heart grow narrower, or do I ask for room to bear them?",
+      "Before I ask Allah for something new this week, can I name what He has already given me?"
+    ],
+    "pointsBn": [
+      "বুক যখন সংকুচিত হয়ে আসে, আমি প্রথমে কী আঁকড়ে ধরি: অভিযোগ, অন্যমনস্কতা, নাকি এই দোয়া যে আল্লাহ তা প্রশস্ত করে দিন?",
+      "আমার জীবনের কোন দানটি অনেকদিন ধরে আছে বলেই আমি আর খেয়াল করি না?",
+      "এমন কোনো সত্য কি আছে, যা আমি দূরে সরিয়ে রাখি, কারণ মেনে নিলে নিজের ভেতরে কিছু বদলাতে হবে?",
+      "যারা আমার ধৈর্যের পরীক্ষা নেয়, তাদের বেলায় আমার হৃদয় কি আরও সংকীর্ণ হয়ে যায়, নাকি তাদের সহ্য করার মতো জায়গা আমি চেয়ে নিই?",
+      "এ সপ্তাহে আল্লাহর কাছে নতুন কিছু চাওয়ার আগে, তিনি যা আগেই দিয়েছেন তার নাম কি আমি বলতে পারি?"
+    ],
+    "lessonEn": "Before asking for ease, recall how Allah has already widened your heart, and ask Him to open it further to guidance, patience and the truth.",
+    "lessonBn": "স্বস্তি চাওয়ার আগে মনে করুন আল্লাহ আপনার হৃদয় কতটা প্রশস্ত করে দিয়েছেন, আর তাঁর কাছে চান তিনি যেন তা হেদায়েত, ধৈর্য ও সত্যের জন্য আরও খুলে দেন।"
   }
 };
 

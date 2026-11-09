@@ -11,6 +11,166 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "94:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question That Already Answers",
+          "bn": "যে প্রশ্নে উত্তর আগেই দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Alam nashrah laka sadrak: did We not expand for you your chest? So opens ash-Sharh, which al-Qurtubi calls Makkan by everyone's account. Ma'arif al-Qur'an notes that it keeps the style of ad-Duha before it: that surah asked, did He not find you; this asks, did We not expand. Neither question seeks information. Both address the Prophet ﷺ and point at something Allah has already done for him.",
+            "bn": "আলাম নাশরাহ লাকা সাদরাক: আমি কি তোমার জন্য তোমার বক্ষ প্রশস্ত করে দিইনি? এভাবেই শুরু হয় সূরা আশ-শারহ, যাকে কুরতুবী সবার মতে মক্কী বলেন। মাআরিফুল কুরআন লক্ষ করে, এটি আগের সূরা আদ-দুহার ভঙ্গি বহাল রাখে: সে সূরা জিজ্ঞেস করেছিল, তিনি কি তোমাকে পাননি; এ সূরা জিজ্ঞেস করে, আমি কি প্রশস্ত করিনি। কোনো প্রশ্নই তথ্য জানতে চায় না। দুটিরই সম্বোধন নবী ﷺ-এর প্রতি, আর দুটিই ইশারা করে এমন কিছুর দিকে যা আল্লাহ আগেই তাঁর জন্য করে দিয়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi makes the grammar plain. Alam nashrah means qad sharahna: We have indeed expanded. His proof is the next verse, wa-wada'na, a past tense joined to the first verse's meaning rather than its wording; otherwise it would read wa-nada'. A negative inside a question turns back into an affirmation, he says, as in 95:8, is Allah not the most just of judges, and in Jarir's praise of a caliph: are you not the best of riders? That is: you are.",
+            "bn": "কুরতুবী ব্যাকরণটা পরিষ্কার করে দেন। আলাম নাশরাহ মানে কাদ শারাহনা: আমি অবশ্যই প্রশস্ত করেছি। তাঁর প্রমাণ পরের আয়াত, ওয়া ওয়াদা'না, যা অতীত কালের ক্রিয়া এবং প্রথম আয়াতের শব্দের সাথে নয়, অর্থের সাথে যুক্ত; নইলে বলা হতো ওয়া নাদা'। তিনি বলেন, প্রশ্নের ভেতরের না-বাচক কথা হ্যাঁ-বাচক নিশ্চয়তায় ফিরে আসে, যেমন ৯৫:৮ আয়াতে: আল্লাহ কি শ্রেষ্ঠ বিচারক নন? কিংবা এক খলিফার প্রশংসায় জারীরের পঙ্‌ক্তি: তোমরা কি সওয়ারিদের সেরা নও? অর্থাৎ, তোমরাই সেরা।"
+          },
+          {
+            "en": "Why a question at all? At-Tabari answers at the start of his comment. Allah addresses His Prophet reminding him of His favours and kindness, urging him to give thanks for them, so that by thanking he would earn still more. The question opens a ledger of gifts, not a list of demands, and 94:2 to 94:4 continue the same ledger before the surah turns to its promise.",
+            "bn": "প্রশ্নের ভঙ্গি কেন? তাবারী তাঁর ব্যাখ্যার শুরুতেই উত্তর দেন। আল্লাহ তাঁর নবীকে সম্বোধন করছেন নিজের নিয়ামত ও অনুগ্রহের কথা মনে করিয়ে দিতে, যাতে তিনি এগুলোর জন্য শুকরিয়া আদায়ে উদ্বুদ্ধ হন, আর শুকরিয়ার মাধ্যমে আরও বেশি পাওয়ার যোগ্য হন। তাই প্রশ্নটি দাবির তালিকা নয়, দানের হিসাবের খাতা খোলে। প্রতিশ্রুতির দিকে যাওয়ার আগে ৯৪:২ থেকে ৯৪:৪ পর্যন্ত আয়াত একই খাতা চালিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Room Made for Guidance",
+          "bn": "হেদায়েতের জন্য জায়গা"
+        },
+        "p": [
+          {
+            "en": "Sharh as-sadr is literally the opening of the chest. Al-Qurtubi defines sharh as fath, opening: did We not open your chest to Islam. Through Abu Salih he reports Ibn Abbas: did We not soften your heart for you. From al-Hasan: it was filled with judgement and knowledge. Al-Baghawi gathers the verbs together: did We not open, widen and soften your heart with faith, prophethood, knowledge and wisdom.",
+            "bn": "শারহুস সাদর শব্দগতভাবে বক্ষ খুলে দেওয়া। কুরতুবী শারহের সংজ্ঞা দেন ফাতহ, অর্থাৎ খোলা: আমি কি তোমার বক্ষ ইসলামের জন্য খুলে দিইনি? আবু সালিহের সূত্রে তিনি ইবন আব্বাসের কথা আনেন: আমি কি তোমার জন্য তোমার হৃদয় কোমল করে দিইনি? হাসান থেকে: তা প্রজ্ঞাপূর্ণ বিচারবোধ আর জ্ঞানে ভরে দেওয়া হয়েছে। বাগাভী ক্রিয়াগুলো একসাথে জড়ো করেন: আমি কি তোমার হৃদয় খুলে, প্রশস্ত করে, কোমল করে দিইনি, ঈমান, নবুওয়াত, জ্ঞান আর হিকমত দিয়ে?"
+          },
+          {
+            "en": "At-Tabari names what the widening was for: guidance, faith in Allah and knowledge of the truth. Then he says what it did: We make your heart gentle for you and make it a vessel for wisdom. Ibn Kathir speaks of light and space: We illuminated it and made it roomy, broad and wide. Ma'arif al-Qur'an adds wisdom, divine light and calm, and room for the finest morals.",
+            "bn": "তাবারী বলে দেন প্রশস্ত করা হয়েছিল কিসের জন্য: হেদায়েত, আল্লাহর প্রতি ঈমান আর সত্যকে চেনার জন্য। এরপর বলেন এর ফল কী: আমি তোমার জন্য তোমার হৃদয় নরম করে দিই, আর একে হিকমতের পাত্র বানাই। ইবন কাসীর আলো আর বিস্তারের ভাষায় বলেন: আমি একে আলোকিত করেছি, একে করেছি উদার, বিস্তৃত ও প্রশস্ত। মাআরিফুল কুরআন যোগ করে হিকমত, ঐশী আলো ও প্রশান্তি, আর উত্তম চরিত্রের জন্য জায়গা।"
+          },
+          {
+            "en": "As-Sa'di and al-Muyassar describe the widening by what it made room for: the laws of the religion, calling people to Allah, and noble character; as-Sa'di adds turning to the Hereafter and ease in doing good. Then he describes the opposite, which makes the gift visible: a chest narrow and constricted, that scarcely yields to anything good and is scarcely ever found at ease.",
+            "bn": "সা'দী ও মুয়াসসার এই প্রশস্ততাকে বর্ণনা করেন এটা কিসের জন্য জায়গা করে দিয়েছে তা দিয়ে: দ্বীনের বিধান, মানুষকে আল্লাহর দিকে ডাকা, আর মহৎ চরিত্র। সা'দী যোগ করেন আখিরাতের দিকে মুখ ফেরানো আর ভালো কাজ সহজ হয়ে যাওয়া। এরপর তিনি বিপরীতটা বর্ণনা করেন, যাতে দানটা চোখে পড়ে: এমন বক্ষ যা সংকীর্ণ ও রুদ্ধ, যা কোনো ভালোর কাছে সহজে নত হয় না, আর যাকে কখনো স্বচ্ছন্দ পাওয়া যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wide Messenger, Wide Law",
+          "bn": "প্রশস্ত রাসূল, প্রশস্ত শরীআত"
+        },
+        "p": [
+          {
+            "en": "The phrase has a family in the Qur'an. Ibn Kathir and Ma'arif al-Qur'an set beside it 6:125: whomever Allah wills to guide, He opens his chest to Islam. Al-Qurtubi points back to his comment on 39:22: is the person whose chest Allah has opened to Islam, so that he is upon a light from his Lord, like the person who is not? In both verses Allah does the opening, and the opened chest is guidance granted.",
+            "bn": "কুরআনে এই বাক্যাংশের একটি পরিবার আছে। ইবন কাসীর ও মাআরিফুল কুরআন এর পাশে রাখে ৬:১২৫ আয়াত: আল্লাহ যাকে হেদায়েত দিতে চান, ইসলামের জন্য তার বক্ষ খুলে দেন। কুরতুবী ফিরিয়ে নিয়ে যান ৩৯:২২ আয়াতে তাঁর ব্যাখ্যার দিকে: আল্লাহ যার বক্ষ ইসলামের জন্য খুলে দিয়েছেন, ফলে সে তার রবের দেওয়া আলোর উপর আছে, সে কি তার মতো যে এমন নয়? দুই আয়াতেই খোলেন আল্লাহ, আর খুলে দেওয়া বক্ষ মানেই প্রদত্ত হেদায়েত।"
+          },
+          {
+            "en": "Ibn Kathir then draws a line from the man to the message. Just as Allah widened his chest, He made his Law broad, tolerant and easy, with no hardship, crushing burden or narrowness in it. Ma'arif al-Qur'an notes a quieter effect of the same gift: because his chest was opened, his attention to people never disturbed his attention to and concentration on Allah. The width held both at once.",
+            "bn": "এরপর ইবন কাসীর মানুষটি থেকে বার্তার দিকে একটি রেখা টানেন। আল্লাহ যেমন তাঁর বক্ষ প্রশস্ত করেছেন, তেমনি তাঁর শরীআতকেও করেছেন উদার, সহনশীল ও সহজ, যাতে কোনো সংকট, ভারী বোঝা বা সংকীর্ণতা নেই। মাআরিফুল কুরআন একই দানের আরেকটি নীরব ফলের কথা বলে: বক্ষ খুলে দেওয়া হয়েছিল বলে মানুষের প্রতি তাঁর মনোযোগ কখনো আল্লাহর প্রতি তাঁর মনোযোগ ও একাগ্রতায় বিঘ্ন ঘটায়নি। এই প্রশস্ততায় দুটোই একসাথে জায়গা পেত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Opened Beside the Ka'bah",
+          "bn": "কা'বার পাশে খোলা বক্ষ"
+        },
+        "p": [
+          {
+            "en": "Beside the inner meaning stand reports of a physical opening of the Prophet's chest ﷺ, and Ibn Kathir notes that at-Tirmidhi placed one of them under this surah. In Jami' at-Tirmidhi 3346, Anas reports from Malik ibn Sa'sa'ah that the Prophet ﷺ said: \"While I was at the House, between sleeping and being awake, I heard someone saying: 'The one in the middle of the three.' I was brought a vessel of gold containing Zamzam water, so my chest was split, to here.\"",
+            "bn": "অন্তরের অর্থের পাশাপাশি নবী ﷺ-এর বক্ষ শারীরিকভাবে খোলার বর্ণনাও আছে। ইবন কাসীর উল্লেখ করেন, তিরমিযী এর একটি বর্ণনা এই সূরার অধীনে এনেছেন। জামি' তিরমিযী ৩৩৪৬-এ আনাস, মালিক ইবন সা'সাআর সূত্রে বর্ণনা করেন যে নবী ﷺ বলেছেন: \"আমি কা'বাঘরের কাছে ঘুম ও জাগরণের মাঝামাঝি অবস্থায় ছিলাম। তখন শুনলাম কেউ একজন বলছে: 'তিনজনের মাঝের জন।' আমার কাছে সোনার একটি পাত্র আনা হলো, যাতে যমযমের পানি ছিল। তারপর আমার বক্ষ এখান পর্যন্ত চিরে খোলা হলো।\""
+          },
+          {
+            "en": "The report continues. Qatadah said: \"I said to Anas: 'What does that mean?' He said: 'To the lowest part of his stomach.'\" The Prophet ﷺ went on: \"So my heart was removed, and washed with Zamzam water, then returned to its place. Then I was filled with faith and wisdom.\" At-Tirmidhi adds that there is a long story with the hadith, and grades it hasan sahih. In the Arabic, the verb for the opening is the verse's own: fa-sharaha sadri, so my chest was opened.",
+            "bn": "বর্ণনাটি আরও এগোয়। কাতাদা বলেন: \"আমি আনাসকে জিজ্ঞেস করলাম: 'এর মানে কী?' তিনি বললেন: 'তাঁর পেটের নিচের অংশ পর্যন্ত।'\" নবী ﷺ বলে চললেন: \"এরপর আমার হৃদপিণ্ড বের করে যমযমের পানিতে ধোয়া হলো, তারপর আগের জায়গায় ফিরিয়ে দেওয়া হলো। এরপর আমাকে ঈমান ও হিকমতে পূর্ণ করে দেওয়া হলো।\" তিরমিযী যোগ করেন, এই হাদীসের সাথে একটি দীর্ঘ কাহিনি আছে, আর তিনি একে হাসান সহীহ বলেন। আরবিতে খোলার ক্রিয়াটি আয়াতেরই ক্রিয়া: ফাশারাহা সাদরী, অর্থাৎ আমার বক্ষ খোলা হলো।"
+          },
+          {
+            "en": "Sahih Muslim 162 records an earlier opening, from Anas: Jibril came to the Messenger of Allah ﷺ while he was a boy playing with other children, opened his chest, took a clot from his heart, washed it in a golden basin with Zamzam water and restored it. Anas adds that he used to see the trace of the stitching on his chest. Sahih al-Bukhari 3207 carries Malik ibn Sa'sa'ah's report of the opening on the night of the Journey.",
+            "bn": "সহীহ মুসলিম ১৬২-তে আনাস থেকে এর আগের একটি ঘটনা আছে: রাসূলুল্লাহ ﷺ যখন বালক বয়সে অন্য শিশুদের সাথে খেলছিলেন, জিবরীল এসে তাঁর বক্ষ খোলেন, হৃদপিণ্ড থেকে একটি জমাট রক্তপিণ্ড বের করেন, সোনার পাত্রে যমযমের পানি দিয়ে তা ধুয়ে যথাস্থানে বসিয়ে দেন। আনাস যোগ করেন, তিনি তাঁর বুকে সেলাইয়ের দাগ দেখতেন। সহীহ বুখারী ৩২০৭-এ আছে মালিক ইবন সা'সাআর বর্ণনা, ইসরার রাতে বক্ষ খোলার কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Opening the Verse Means",
+          "bn": "আয়াতে কোন খোলার কথা"
+        },
+        "p": [
+          {
+            "en": "Do the reports explain the verse? Ibn Kathir records a view that the verse means the opening on the night of the Journey, as in Malik ibn Sa'sa'ah's report. He accepts that the event happened and sees no conflict: what was done to his chest that night is part of the opening of his chest, and so is the inner opening that grew from it. Al-Qurtubi defines the word as opening to Islam, then cites the sound report beside it. Ma'arif al-Qur'an says some commentators take the verse to mean that miracle.",
+            "bn": "বর্ণনাগুলো কি আয়াতের ব্যাখ্যা? ইবন কাসীর একটি মত উল্লেখ করেন যে আয়াতের অর্থ ইসরার রাতের সেই বক্ষ খোলা, যেমনটি মালিক ইবন সা'সাআর বর্ণনায় আছে। ঘটনাটি যে ঘটেছে তা তিনি মেনে নেন, আর কোনো বিরোধ দেখেন না: সে রাতে তাঁর বক্ষে যা করা হয়েছিল তা বক্ষ খোলারই অংশ, আর তা থেকে যে অন্তরের প্রশস্ততা জন্মেছে সেটাও। কুরতুবী শব্দটির সংজ্ঞা দেন ইসলামের জন্য খুলে দেওয়া, তারপর সহীহ বর্ণনাটি পাশে উল্লেখ করেন। মাআরিফুল কুরআন বলে, কিছু মুফাসসির আয়াতটিকে সেই মু'জিযা অর্থে নিয়েছেন।"
+          },
+          {
+            "en": "At-Tabari, as-Sa'di, al-Baghawi and al-Muyassar explain the verse only as the inner widening and do not bring the physical reports into it. None of them denies the event; they differ on whether this verse names it. The careful reading keeps both: the physical opening as an event that sound reports describe, and the widening of heart for guidance and wisdom, which every one of these commentators places in the verse.",
+            "bn": "তাবারী, সা'দী, বাগাভী ও মুয়াসসার আয়াতটিকে কেবল অন্তরের প্রশস্ততা হিসেবে ব্যাখ্যা করেন, শারীরিক বর্ণনাগুলো এখানে আনেন না। তাঁদের কেউই ঘটনাটি অস্বীকার করেন না; মতভেদ শুধু এ নিয়ে যে এই আয়াত সেটির কথা বলছে কি না। সতর্ক পাঠ দুটোকেই ধরে রাখে: সহীহ বর্ণনায় বর্ণিত একটি ঘটনা হিসেবে শারীরিক বক্ষ খোলা, আর হেদায়েত ও হিকমতের জন্য হৃদয়ের প্রশস্ততা, যা এখানে উল্লিখিত প্রত্যেক মুফাসসিরই আয়াতের অর্থে রাখেন।"
+          },
+          {
+            "en": "Other reports in these commentaries are only mentioned here: Ibn Kathir's narration from Ubayy ibn Ka'b, through Abdullah son of Imam Ahmad, about an opening in the desert in childhood; al-Qurtubi's unsourced accounts of angels opening the chest; and his report through ad-Dahhak from Ibn Abbas on the sign of a widened chest. None is in a collection checked here or graded in these texts, so nothing is built on them.",
+            "bn": "এসব তাফসীরের আরও কিছু বর্ণনা এখানে শুধু উল্লেখ করা হলো: ইমাম আহমাদের পুত্র আবদুল্লাহর সূত্রে উবাই ইবন কা'ব থেকে ইবন কাসীরের আনা বর্ণনা, যার বিষয় শৈশবে মরুভূমিতে বক্ষ খোলা; ফেরেশতাদের বক্ষ খোলা নিয়ে কুরতুবীর সূত্রবিহীন বিবরণ; আর দাহহাকের সূত্রে ইবন আব্বাস থেকে প্রশস্ত বক্ষের নিদর্শন নিয়ে তাঁর আনা বর্ণনা। এগুলোর কোনোটি এখানে যাচাই করা কোনো সংকলনে নেই, এসব তাফসীরে মানও নির্ধারিত হয়নি, তাই এগুলোর উপর কিছু দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Load That Creaked",
+          "bn": "যে বোঝায় পিঠ কঁকিয়ে উঠেছিল"
+        },
+        "p": [
+          {
+            "en": "The next favour: wa-wada'na 'anka wizrak, alladhi anqada zahrak, and We removed from you your burden, which had weighed upon your back. Al-Qurtubi gives wizr its root sense, a heavy load. Of anqada, Ibn Kathir says the inqad is a sound, and al-Qurtubi cites the linguists: a load is said to do this to a camel's back when you hear it creak under the weight.",
+            "bn": "পরের অনুগ্রহ: ওয়া ওয়াদা'না আনকা উইযরাক, আল্লাযী আনকাদা যাহরাক, আর আমি তোমার উপর থেকে তোমার বোঝা নামিয়ে দিয়েছি, যা তোমার পিঠ ভারী করে রেখেছিল। কুরতুবী উইযরের মূল অর্থ দেন: ভারী বোঝা। আনকাদা সম্পর্কে ইবন কাসীর বলেন, ইনকাদ মানে একটি শব্দ। আর কুরতুবী ভাষাবিদদের কথা আনেন: উটের পিঠে বোঝা এত ভারী হলে, যখন ভারের চাপে তার কঁকানির শব্দ শোনা যায়, তখন এ কথা বলা হয়।"
+          },
+          {
+            "en": "At-Tabari reaches for another camel: one back from a long journey, worn down and thin, is called niqd safar. Ibn Zayd, in at-Tabari, says the load wore him down as a heavy burden wears a fat camel thin. At-Tabari and al-Qurtubi relay a reading attributed to Ibn Mas'ud, wa-halalna 'anka wiqrak, and We untied your load. Al-Muyassar ties this favour to the first: by widening your chest, We lifted your load from you.",
+            "bn": "তাবারী আরেকটি উটের ছবি আনেন: দীর্ঘ সফর থেকে ফেরা যে উট ক্লান্ত ও শীর্ণ, তাকে বলা হয় নিকদু সাফার। তাবারীর বর্ণনায় ইবন যায়দ বলেন, এ বোঝা তাঁকে ক্লান্ত করেছিল, যেমন ভারী বোঝা মোটাতাজা উটকেও শুকিয়ে ফেলে। তাবারী ও কুরতুবী ইবন মাসউদের নামে প্রচলিত একটি কিরাআত উল্লেখ করেন: ওয়া হালালনা আনকা উইকরাক, আর আমি তোমার বোঝার বাঁধন খুলে দিয়েছি। মুয়াসসার এই অনুগ্রহকে প্রথমটির সাথে জুড়ে দেয়: তোমার বক্ষ প্রশস্ত করার মাধ্যমে আমি তোমার বোঝা নামিয়ে দিয়েছি।"
+          },
+          {
+            "en": "What was the load? The commentators did not agree. Mujahid, in at-Tabari, answers with the word dhanb, a fault, and Ibn Kathir and as-Sa'di read it in the light of 48:2: that Allah may forgive you what preceded of your dhanb and what followed. At-Tabari pairs that forgiveness with lifting the weight of the days of ignorance he had lived among. Ibn Zayd places it before prophethood, and al-Qurtubi, reporting that view, adds that he never worshipped an idol.",
+            "bn": "বোঝাটা কী ছিল? এ নিয়ে মুফাসসিরগণ একমত নন। তাবারীর বর্ণনায় মুজাহিদ একটি শব্দে উত্তর দেন: যানব, অর্থাৎ ত্রুটি। ইবন কাসীর ও সা'দী একে পড়েন ৪৮:২ আয়াতের আলোয়: যাতে আল্লাহ তোমার আগের ও পরের যানব ক্ষমা করেন। তাবারী এই ক্ষমার সাথে জুড়ে দেন জাহিলিয়্যাতের যে দিনগুলোর মাঝে তিনি ছিলেন, সেগুলোর ভার নামিয়ে দেওয়ার কথা। ইবন যায়দ একে নবুওয়াতের আগের সময়ের সাথে যুক্ত করেন, আর কুরতুবী সে মত উল্লেখ করে যোগ করেন যে তিনি কখনো কোনো মূর্তির উপাসনা করেননি।"
+          },
+          {
+            "en": "Abd al-Aziz ibn Yahya and Abu Ubaydah, in al-Qurtubi and al-Baghawi, read it as the burdens of prophethood and of carrying it out, lightened so they would not weigh on him. Both commentators also report that it meant the faults of his community, laid on him because his heart was busy with them. A last view in al-Qurtubi: We guarded you from bearing such a load, and kept you clean through the forty years before revelation.",
+            "bn": "কুরতুবী ও বাগাভীর বর্ণনায় আবদুল আযীয ইবন ইয়াহইয়া ও আবু উবাইদা একে পড়েন নবুওয়াতের ভার ও তা পালনের দায়িত্ব হিসেবে, যা হালকা করা হয়েছে যাতে তা তাঁর উপর ভারী না হয়। এই দুই মুফাসসির আরেকটি মতও আনেন: এটি তাঁর উম্মাতের ত্রুটি, যা তাঁর সাথে যুক্ত করা হয়েছে কারণ তাঁর হৃদয় তাদের নিয়েই ব্যস্ত থাকত। কুরতুবীতে শেষ একটি মত: আমি তোমাকে এমন বোঝা বহন করা থেকেই রক্ষা করেছি, আর ওহী নাযিলের আগের চল্লিশ বছর তোমাকে পবিত্র রেখেছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Raised Beside His",
+          "bn": "তাঁর নামের পাশে উঁচু নাম"
+        },
+        "p": [
+          {
+            "en": "The fourth favour is wa-rafa'na laka dhikrak: and We raised high for you your mention. At-Tabari explains that Allah is not mentioned without the Prophet ﷺ being mentioned with Him, in la ilaha illa Allah, Muhammad rasul Allah, and relays Mujahid tying it to the testimony of faith. Qatadah, in at-Tabari, Ibn Kathir and al-Baghawi, says Allah raised his mention in this world and the next: every preacher, every worshipper reciting the tashahhud and every person at prayer calls out with it.",
+            "bn": "চতুর্থ অনুগ্রহ: ওয়া রাফা'না লাকা যিকরাক, আর আমি তোমার জন্য তোমার স্মরণকে উঁচু করেছি। তাবারী ব্যাখ্যা করেন, আল্লাহর নাম যেখানে নেওয়া হয় সেখানে তাঁর সাথে নবী ﷺ-এর নামও নেওয়া হয়, এই বাক্যে: লা ইলাহা ইল্লাল্লাহ, মুহাম্মাদুর রাসূলুল্লাহ। তিনি মুজাহিদের কথা আনেন, যিনি একে কালিমা শাহাদাতের সাথে যুক্ত করেন। তাবারী, ইবন কাসীর ও বাগাভীর বর্ণনায় কাতাদা বলেন, আল্লাহ দুনিয়া ও আখিরাতে তাঁর স্মরণ উঁচু করেছেন: প্রত্যেক খতীব, তাশাহহুদ পাঠকারী প্রত্যেক মুসল্লি আর নামাযে দাঁড়ানো প্রত্যেক মানুষ এই সাক্ষ্য উচ্চারণ করে।"
+          },
+          {
+            "en": "Mujahid, in al-Qurtubi and al-Baghawi, names the call to prayer, and both quote Hassan ibn Thabit: God joined the Prophet's name to His own when the caller says ashhadu in the five prayers. Al-Qurtubi relays from Ibn Abbas, through ad-Dahhak, a longer list, from the Friday pulpit to Arafah and the marriage sermon. He also reports views adding the books of earlier prophets, told to give news of him, and the praised station in the Hereafter. As-Sa'di turns to the heart: his community holds for him a love and reverence given to nobody else after Allah.",
+            "bn": "কুরতুবী ও বাগাভীর বর্ণনায় মুজাহিদ আযানের কথা বলেন, আর দুজনেই হাসসান ইবন সাবিতের কবিতা উদ্ধৃত করেন: পাঁচ ওয়াক্তে মুআযযিন যখন 'আশহাদু' বলে, তখন আল্লাহ নবীর নাম নিজের নামের সাথে জুড়ে দিয়েছেন। কুরতুবী দাহহাকের সূত্রে ইবন আব্বাস থেকে আরও দীর্ঘ একটি তালিকা আনেন, জুমুআর মিম্বার থেকে আরাফা আর বিয়ের খুতবা পর্যন্ত। তিনি এমন মতও উল্লেখ করেন, যাতে যুক্ত হয় পূর্ববর্তী নবীদের কিতাবের কথা, যেখানে তাঁদের তাঁর সুসংবাদ দিতে বলা হয়েছিল, আর আখিরাতে মাকামে মাহমূদের কথা। সা'দী হৃদয়ের দিকে ফেরেন: তাঁর উম্মাতের অন্তরে তাঁর জন্য এমন ভালোবাসা ও শ্রদ্ধা আছে, যা আল্লাহর পরে আর কারও জন্য নেই।"
+          },
+          {
+            "en": "At-Tabari, Ibn Kathir and al-Baghawi each relay a report through Darraj from Abu al-Haytham from Abu Sa'id al-Khudri, raised to the Prophet ﷺ, about Jibril and the raising of his mention; Ibn Kathir adds that Ibn Abi Hatim and Abu Ya'la carry it. None of them grades it and it is not in a collection checked here, so it is only mentioned. No commentary fetched here attaches a sound hadith to 94:4.",
+            "bn": "তাবারী, ইবন কাসীর ও বাগাভী প্রত্যেকে দাররাজ থেকে, আবুল হাইসামের সূত্রে, আবু সাঈদ খুদরী থেকে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন, যার বিষয় জিবরীল ও তাঁর স্মরণ উঁচু করা। ইবন কাসীর যোগ করেন, ইবন আবী হাতিম ও আবু ইয়া'লাও এটি বর্ণনা করেছেন। তাঁদের কেউ এর মান নির্ধারণ করেননি, আর এখানে যাচাই করা কোনো সংকলনে এটি নেই, তাই শুধু উল্লেখ করা হলো। এখানে দেখা কোনো তাফসীর ৯৪:৪ আয়াতের সাথে কোনো সহীহ হাদীস যুক্ত করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for a Wider Chest",
+          "bn": "প্রশস্ত বক্ষের প্রার্থনা"
+        },
+        "p": [
+          {
+            "en": "These favours belong to the Prophet ﷺ; no reader shares in his prophethood or in a name joined to the testimony of faith. Yet the language of 94:1 is not closed to us. In 6:125 an opened chest marks anyone Allah wills to guide, and in 20:25 Musa (AS), sent to Pharaoh, asks for it: rabbi-shrah li sadri, my Lord, expand for me my chest. What Musa (AS) asked for, this verse names as already given to the last Prophet ﷺ. And every verb in 94:1 to 94:4 has Allah as its subject.",
+            "bn": "এই অনুগ্রহগুলো নবী ﷺ-এর; তাঁর নবুওয়াতে, কিংবা কালিমা শাহাদাতে যুক্ত তাঁর নামে কোনো পাঠকের অংশ নেই। তবু ৯৪:১ আয়াতের ভাষা আমাদের জন্য বন্ধ নয়। ৬:১২৫ আয়াতে খুলে দেওয়া বক্ষ আল্লাহ যাকে হেদায়েত দিতে চান তারই নিদর্শন, আর ২০:২৫ আয়াতে ফেরআউনের কাছে প্রেরিত মূসা (আঃ) এটাই চেয়েছিলেন: রাব্বিশরাহ লী সাদরী, হে আমার রব, আমার বক্ষ প্রশস্ত করে দিন। মূসা (আঃ) যা চেয়ে নিয়েছিলেন, এই আয়াত তা শেষ নবী ﷺ-কে আগেই দেওয়া হয়েছে বলে জানায়। আর ৯৪:১ থেকে ৯৪:৪ পর্যন্ত প্রতিটি ক্রিয়ার কর্তা আল্লাহ।"
+          },
+          {
+            "en": "So a narrow chest is not widened by willpower alone; it is asked for. As-Sa'di's description doubles as a test: is my chest open to the laws of the religion, to good character, to doing good without strain, or does it scarcely yield to anything good? At-Tabari's reading supplies the response the question seeks: gratitude, which earns more. The surah counts favours before it speaks of hardship. A reader in a tight place can keep that order: name what has been given, ask for room for what comes next, then read on into 94:5.",
+            "bn": "তাই সংকীর্ণ বক্ষ শুধু মনের জোরে প্রশস্ত হয় না; তা চেয়ে নিতে হয়। সা'দীর বর্ণনা একই সাথে একটি পরীক্ষাও: আমার বক্ষ কি দ্বীনের বিধান, উত্তম চরিত্র আর অনায়াসে ভালো কাজের জন্য খোলা, নাকি তা কোনো ভালোর কাছে সহজে নত হয় না? তাবারীর পাঠ বলে দেয় প্রশ্নটি কোন সাড়া চায়: শুকরিয়া, যা আরও বেশি পাওয়ার যোগ্য করে। সূরাটি কষ্টের কথা বলার আগে অনুগ্রহগুলো গুনে নেয়। সংকটে থাকা পাঠকও এই ক্রম মেনে চলতে পারেন: যা পেয়েছেন তার নাম বলুন, সামনে যা আসছে তার জন্য জায়গা চেয়ে নিন, তারপর ৯৪:৫ আয়াতের দিকে এগিয়ে যান।"
+          }
+        ]
+      }
+    ]
+  },
   "94:5-6": {
     "sections": [
       {
