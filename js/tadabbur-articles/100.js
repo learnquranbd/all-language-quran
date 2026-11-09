@@ -318,5 +318,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "100:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Second Charge Against Man",
+          "bn": "মানুষের বিরুদ্ধে দ্বিতীয় অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "Wa innahu li-hubbi al-khayri la-shadid: and indeed he is, in love of al-khayr, intense. These four Arabic words bring the surah's second charge. The first, in 100:6, was that man is ungrateful to his Lord; this verse says what he holds on to instead. At-Tabari restates it plainly: man is intense in love of wealth. The Muyassar, which glosses 100:6 to 100:8 as one group, closes with the same sentence, and al-Qurtubi, al-Baghawi, as-Sa'di and Ibn Kathir each gloss al-khayr as al-mal, wealth.",
+            "bn": "ওয়া ইন্নাহু লি-হুব্বিল খাইরি লা-শাদীদ: আর নিশ্চয় সে আল-খায়রের ভালোবাসায় বড়ই কঠিন। আরবির এই চারটি শব্দে সূরাটি মানুষের বিরুদ্ধে দ্বিতীয় অভিযোগ তুলেছে। প্রথমটি ছিল ১০০:৬ আয়াতে: মানুষ তার রবের প্রতি অকৃতজ্ঞ। এবারের কথা, কৃতজ্ঞতার বদলে সে কী আঁকড়ে থাকে। তাবারী সোজা ভাষায় বলেন: মানুষ সম্পদের ভালোবাসায় বড়ই প্রবল। মুয়াসসার ১০০:৬ থেকে ১০০:৮ পর্যন্ত একই দলে ব্যাখ্যা করেছে, আর শেষ করেছে ঠিক এই বাক্য দিয়ে। কুরতুবী, বাগাভী, সা'দী ও ইবন কাসীর প্রত্যেকেই আল-খায়রের অর্থ করেছেন আল-মাল, অর্থাৎ ধনসম্পদ।"
+          },
+          {
+            "en": "Why should wealth carry the name of the good? Ma'arif al-Qur'an explains that khayr literally means any good thing, and that Arabic usage came to apply it to wealth, as if wealth were the very shape of benefit. The commentators' proof text is 2:180, on bequests: in taraka khayran, if he leaves behind khayr. At-Tabari reports that Ibn Zayd glossed al-khayr here as ad-dunya, this world, and recited that verse. Ibn Wahb, who narrates from him, asked whether khayr there meant wealth. He answered: yes, and what is it but wealth?",
+            "bn": "সম্পদের নাম 'ভালো' হলো কেন? মাআরিফুল কুরআন বুঝিয়ে বলে, খায়রের আক্ষরিক অর্থ যেকোনো ভালো জিনিস। আরবি ভাষার প্রচলনে শব্দটি সম্পদের জন্য বসে গেছে, যেন সম্পদই উপকারের মূর্ত রূপ। তাফসীরকারদের দলিল ২:১৮০ আয়াত, অসিয়তের বিধান: ইন তারাকা খাইরান, যদি সে খায়র রেখে যায়। তাবারী জানান, ইবন যায়দ এ আয়াতে আল-খায়রের অর্থ করেছেন আদ-দুনইয়া, এই দুনিয়া, তারপর ওই আয়াতটি পড়েছেন। তাঁর কাছ থেকে বর্ণনাকারী ইবন ওয়াহব জিজ্ঞেস করলেন, সেখানে খায়র মানে কি সম্পদ? তিনি বললেন: হ্যাঁ, সম্পদ ছাড়া আর কী?"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sums up what the oaths have produced so far. Having sworn by the horses, the surah states two things about man: he is ungrateful, a blamer of his Lord who remembers misfortunes and forgets favours, and he is passionate in his love of wealth. Both, it says, are evils by reason and by the Shari'ah, and the surah warns against them. Al-Qurtubi adds a line of poetry by 'Adi in which souls go seeking al-khayr, to show the word used this way in Arabic speech.",
+            "bn": "শপথগুলো এ পর্যন্ত কী সামনে এনেছে, মাআরিফুল কুরআন তার সারসংক্ষেপ দেয়। ঘোড়ার শপথ করার পর সূরাটি মানুষ সম্পর্কে দুটি কথা বলে। এক, সে অকৃতজ্ঞ, রবের বিরুদ্ধে অভিযোগকারী, বিপদ মনে রাখে আর অনুগ্রহ ভুলে যায়। দুই, সম্পদের ভালোবাসায় সে প্রবল। মাআরিফুলের ভাষায়, দুটোই যুক্তিতেও মন্দ, শরীয়তেও মন্দ, আর সূরাটি এ দুটি থেকেই সতর্ক করছে। কুরতুবী আদী নামের এক কবির একটি পঙক্তি উদ্ধৃত করেন, যেখানে মানুষের মন আল-খায়রের খোঁজে ছোটে। আরবদের মুখে শব্দটি যে এ অর্থেই চলত, পঙক্তিটি তারই নমুনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named in the Hearer's Words",
+          "bn": "শ্রোতার মুখের নামেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Zayd did not stop at the gloss. In at-Tabari's report he goes on: it may be unlawful, but people count it good, so Allah called it good, because people call it good in this world, though it may be foul. He gives a parallel in the other direction. In 3:174 the believers returned with blessing and bounty from Allah, lam yamsashum su', no harm touched them; Ibn Zayd says the harm meant there is fighting in the path of Allah, which is not harm with Allah, but people call it harm.",
+            "bn": "ইবন যায়দ শুধু অর্থ বলে থামেননি। তাবারীর বর্ণনায় তিনি আরও বলেন: এ সম্পদ হারামও হতে পারে, কিন্তু মানুষ একে ভালো বলে গণ্য করে। তাই আল্লাহ একে ভালো নামে ডেকেছেন, কারণ দুনিয়াতে মানুষ একে ভালোই বলে, যদিও তা নাপাকও হতে পারে। এরপর তিনি উল্টো দিকের একটি দৃষ্টান্ত দেন। ৩:১৭৪ আয়াতে মুমিনরা আল্লাহর নিয়ামত ও অনুগ্রহ নিয়ে ফিরে এলেন, লাম ইয়ামসাসহুম সূ', কোনো অনিষ্ট তাঁদের স্পর্শ করেনি। ইবন যায়দ বলেন, সেখানে অনিষ্ট মানে আল্লাহর পথে লড়াই। আল্লাহর কাছে তা অনিষ্ট নয়, কিন্তু মানুষ একে অনিষ্টই বলে।"
+          },
+          {
+            "en": "Al-Qurtubi carries the same observation from Ibn Zayd: Allah named wealth good though it may be evil and unlawful, because people count it good, and He named fighting harm, as people name it. On this gloss the word al-khayr is the hearer's own label, and the verse uses it to describe him. Ma'arif al-Qur'an makes the same caution from another side: some wealth draws a person into untold misery, all wealth gained unlawfully will be so in the Hereafter, and even in this world wealth can turn into a burden.",
+            "bn": "কুরতুবীও ইবন যায়দ থেকে একই কথা এনেছেন: সম্পদ মন্দ ও হারাম হতে পারে, তবু আল্লাহ একে ভালো নাম দিয়েছেন, কারণ মানুষ একে ভালো মনে করে। আর লড়াইকে অনিষ্ট বলেছেন, যেমন মানুষ বলে থাকে। এই ব্যাখ্যা অনুযায়ী আল-খায়র নামটি শ্রোতার নিজেরই দেওয়া, আর আয়াতটি সেই নাম দিয়েই তাকে চিনিয়ে দিচ্ছে। মাআরিফুল কুরআন অন্য দিক থেকে একই সতর্কতা দেয়। কিছু সম্পদ মানুষকে অশেষ দুর্ভোগে ফেলে। হারাম পথে কামানো সব সম্পদের পরিণাম আখিরাতে এমনই হবে। আর দুনিয়াতেও সম্পদ কখনো কখনো বোঝা হয়ে দাঁড়ায়।"
+          },
+          {
+            "en": "This is worth holding on to before reading further. The verse does not call wealth evil, and it does not call it good in itself. It names the thing as its lover sees it, and then, through the verses that follow, sets that view beside the Day when what is in the graves is brought out. The question the word leaves is not whether wealth is good, but whether the love of it has made a person forget the Giver.",
+            "bn": "সামনে এগোনোর আগে কথাটা মনে রাখা ভালো। আয়াতটি সম্পদকে মন্দ বলেনি, আবার নিজে থেকে ভালো বলেও রায় দেয়নি। যে সম্পদ ভালোবাসে, সে যে চোখে দেখে, আয়াত জিনিসটাকে সেই নামেই ডেকেছে। তারপর পরের আয়াতগুলোতে সেই দৃষ্টিকে দাঁড় করিয়েছে সেই দিনের পাশে, যেদিন কবরের ভেতরের সবকিছু বের করে আনা হবে। শব্দটি তাই প্রশ্ন রেখে যায়: সম্পদ ভালো কি না, সেটা আসল কথা নয়। আসল কথা হলো, এর ভালোবাসা কি মানুষকে দাতার কথা ভুলিয়ে দিয়েছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Strong in Love, Tight in Hand",
+          "bn": "ভালোবাসায় প্রবল, হাতে কৃপণ"
+        },
+        "p": [
+          {
+            "en": "The last word, la-shadid, is where the commentators divide. One reading takes shadid as strong. Al-Qurtubi gives it as his own gloss: strong in his love of wealth. As-Sa'di says: much in love of wealth. At-Tabari reports it from a group, others said: it means strong. Al-Baghawi gives it second, introduced with it was said: he is strong in love of al-khayr, that is, intense in love of wealth. On this reading the verse measures the love itself.",
+            "bn": "শেষ শব্দ লা-শাদীদে এসে তাফসীরকারদের পথ দুই ভাগ হয়ে যায়। একটি ব্যাখ্যায় শাদীদ মানে শক্তিশালী, প্রবল। কুরতুবী নিজের ব্যাখ্যা হিসেবে এটাই দেন: সম্পদের ভালোবাসায় সে প্রবল। সা'দী বলেন: সম্পদকে সে খুব বেশি ভালোবাসে। তাবারী এটি একদল থেকে বর্ণনা করেন: অন্যরা বলেছেন, এর অর্থ শক্তিশালী। বাগাভী এটি দ্বিতীয় স্থানে রাখেন, 'বলা হয়েছে' কথাটি দিয়ে: আল-খায়রের ভালোবাসায় সে শক্ত, মানে সম্পদের ভালোবাসায় প্রবল। এই পাঠে আয়াতটি মাপছে ভালোবাসার মাত্রা।"
+          },
+          {
+            "en": "The other reading takes shadid as stingy. At-Tabari reports it from some Basran scholars of Arabic: because of love of al-khayr he is shadid, that is, a miser, for the miser is called shadid and mutashaddid. They cited a line of Tarafah ibn al-'Abd about death choosing among souls and picking out the choicest wealth of the tight-fisted miser. Al-Baghawi puts this reading first: shadid means bakhil, stingy, so that love of wealth makes him a miser. Al-Qurtubi gives it after his own gloss, as it was said, with the same line of Tarafah.",
+            "bn": "অন্য ব্যাখ্যায় শাদীদ মানে কৃপণ। তাবারী এটি বসরার কয়েকজন আরবি ভাষাবিদ থেকে বর্ণনা করেন: আল-খায়রের ভালোবাসার কারণে সে শাদীদ, অর্থাৎ কৃপণ। কৃপণকে আরবিতে শাদীদ ও মুতাশাদ্দিদ বলা হয়। তাঁরা প্রমাণ হিসেবে তারাফা ইবনুল আবদের একটি পঙক্তি আনেন। সেখানে মৃত্যু মানুষের প্রাণ বেছে বেছে নেয়, আর হাতটান কৃপণের সবচেয়ে প্রিয় সম্পদটাও তুলে নেয়। বাগাভী এই ব্যাখ্যাকেই প্রথমে রাখেন: শাদীদ মানে বাখীল, কৃপণ, সম্পদের ভালোবাসাই তাকে কৃপণ বানায়। কুরতুবী নিজের ব্যাখ্যার পরে 'বলা হয়েছে' দিয়ে এটি আনেন, সঙ্গে সেই পঙক্তিটিও।"
+          },
+          {
+            "en": "Ibn Kathir sets the two side by side and does not rank them. There are two views, he writes: that he is intense in his love of wealth, and that he is covetous and stingy out of love of wealth. Then he adds: both are correct. So the commentators who name a preference lean different ways, al-Qurtubi and as-Sa'di towards the strength of the love and al-Baghawi towards the miserliness, while Ibn Kathir accepts both. This study keeps each view with its holders.",
+            "bn": "ইবন কাসীর দুটোকে পাশাপাশি রাখেন, কোনোটিকে আগে-পিছে করেন না। তিনি লেখেন, এখানে দুটি মত: এক, সম্পদের ভালোবাসায় সে প্রবল। দুই, সম্পদের ভালোবাসা থেকেই সে লোভী ও কৃপণ। তারপর যোগ করেন: দুটোই সঠিক। তাহলে যাঁরা কোনো দিকে ঝোঁক দেখিয়েছেন, তাঁরা দুই দিকে গেছেন। কুরতুবী ও সা'দী ভালোবাসার প্রবলতার দিকে, বাগাভী কৃপণতার দিকে, আর ইবন কাসীর দুটোকেই গ্রহণ করেছেন। এই আলোচনা প্রতিটি মতকে তার ধারকের নামসহ রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Love Was Moved",
+          "bn": "ভালোবাসা যেখানে সরে এল"
+        },
+        "p": [
+          {
+            "en": "The two readings also read the small word li, before hubb, differently. On the Basran reading at-Tabari reports, li means min ajl, because of: because of love of al-khayr he is stingy. Al-Baghawi spells it out in the same words, that he is a miser for the sake of love of wealth. On the other reading the li simply ties the intensity to its object, so that he is strong in love of al-khayr, and the verse says how much he loves, not what the love does to his hand.",
+            "bn": "হুব্বের আগে যে ছোট্ট লি, দুই ব্যাখ্যা সেটাকেও দুইভাবে পড়ে। তাবারীর উদ্ধৃত বসরার ব্যাখ্যায় লি মানে মিন আজলি, কারণে: আল-খায়রের ভালোবাসার কারণে সে কৃপণ। বাগাভীও একই শব্দে খুলে বলেন, সম্পদের ভালোবাসার খাতিরেই সে কৃপণ। অন্য ব্যাখ্যায় লি শুধু প্রবলতাকে তার বিষয়ের সঙ্গে জুড়ে দেয়: আল-খায়রের ভালোবাসায় সে প্রবল। তখন আয়াতটি বলছে সে কতটা ভালোবাসে, ভালোবাসা তার হাতকে কী করে, তা নয়।"
+          },
+          {
+            "en": "Al-Qurtubi names al-Farra' for a point of word order, and at-Tabari gives it from some Kufan grammarians. The plain order would be wa innahu la-shadidu hubbi al-khayr, intense in love of al-khayr. Love was brought forward, so after shadid it was dropped from the end, since it had already been mentioned, and to keep the verse endings. Their parallel is 14:18, ashes on which the wind blows hard fi yawmin 'asif, on a stormy day: storminess belongs to the wind, not the day, as if it said a day stormy of wind.",
+            "bn": "শব্দের ক্রম নিয়ে কুরতুবী ফাররার নাম উল্লেখ করেন, আর তাবারী একই কথা আনেন কুফার কয়েকজন ব্যাকরণবিদ থেকে। স্বাভাবিক ক্রম হতো: ওয়া ইন্নাহু লা-শাদীদু হুব্বিল খাইর, আল-খায়রের ভালোবাসায় সে প্রবল। ভালোবাসার কথা আগে চলে এসেছে, তাই শাদীদের পরে শেষ থেকে তা বাদ পড়েছে। একবার তো উল্লেখ হয়েই গেছে, আর আয়াতের শেষের ছন্দও রাখতে হবে। তাঁদের দৃষ্টান্ত ১৪:১৮ আয়াত: ছাই, যার উপর দিয়ে প্রবল বাতাস বয়ে যায়, ফী ইয়াওমিন আসিফ, ঝড়ের দিনে। ঝড়ো হওয়া বাতাসের গুণ, দিনের নয়। যেন বলা হয়েছে: বাতাসে ঝড়ো এক দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Pronoun Without Dispute",
+          "bn": "যে সর্বনামে মতভেদ নেই"
+        },
+        "p": [
+          {
+            "en": "Wa innahu, and indeed he: al-Qurtubi says the he here is man, min ghayr khilaf, without any disagreement. Al-Baghawi and as-Sa'di gloss it the same way, simply, man. Al-Baghawi adds something on 100:11 that reaches back to this verse. When the surah later says their Lord, in the plural, he explains that the pronoun is plural because al-insan is the name of a kind. The he who loves wealth so intensely is the human kind, which is why the surah can turn to them.",
+            "bn": "ওয়া ইন্নাহু, আর নিশ্চয় সে: কুরতুবী বলেন, এখানে 'সে' মানে মানুষ, মিন গাইরি খিলাফ, কোনো মতভেদ ছাড়াই। বাগাভী ও সা'দীও সোজাসুজি একই অর্থ করেন: মানুষ। ১০০:১১ আয়াতে বাগাভী এমন একটি কথা যোগ করেন, যা এই আয়াত পর্যন্ত পৌঁছায়। সূরাটি পরে বহুবচনে বলে, তাদের রব। বাগাভী বুঝিয়ে দেন, সর্বনাম বহুবচন কারণ আল-ইনসান গোটা মানবজাতির নাম। সম্পদকে এত তীব্রভাবে যে ভালোবাসে, সে মানবজাতি। তাই সূরাটি একবচন থেকে বহুবচনে যেতে পারে।"
+          },
+          {
+            "en": "The verse just before is a different matter. In 100:7, wa innahu 'ala dhalika la-shahid, the he is disputed: Ibn Kathir reports Qatadah and Sufyan ath-Thawri taking it as Allah, and Muhammad ibn Ka'b al-Qurazi taking it as man, a witness against himself; the Muyassar takes man. The study of 100:6 sets out both, and this one keeps them both without choosing. At-Tabari, who follows Qatadah, draws a consequence for 100:8 that the next paragraph explains.",
+            "bn": "ঠিক আগের আয়াতের ব্যাপারটা আলাদা। ১০০:৭ আয়াতে, ওয়া ইন্নাহু আলা যালিকা লা-শাহীদ, 'সে' কে, তা নিয়ে মতভেদ আছে। ইবন কাসীর জানান, কাতাদা ও সুফইয়ান সাওরী এর অর্থ করেছেন আল্লাহ। আর মুহাম্মাদ ইবন কা'ব কুরাযী অর্থ করেছেন মানুষ, যে নিজের বিরুদ্ধে নিজেই সাক্ষী। মুয়াসসারও মানুষ অর্থ নিয়েছে। ১০০:৬ আয়াতের আলোচনায় দুটো মতই এসেছে, আর এখানেও কোনোটিকে বেছে না নিয়ে দুটোই রাখা হলো। কাতাদার অনুসারী তাবারী এ থেকে ১০০:৮ আয়াতের জন্য একটি সিদ্ধান্ত টানেন, পরের অনুচ্ছেদে তা বলা হলো।"
+          },
+          {
+            "en": "At-Tabari gives the passage in its sense order: man is ungrateful to his Lord, and he is intense in love of al-khayr, and Allah is a witness to that. The witness verse, he says, was placed earlier while its meaning comes later, set as an interjection between 100:6 and 100:8. He cites Qatadah: this is among the forward-placed parts of speech, and Allah is witness that man is intense in love of al-khayr. On this reading the love of wealth is not hidden; it happens before a Witness.",
+            "bn": "তাবারী অংশটি অর্থের ক্রমে সাজিয়ে দেন: মানুষ তার রবের প্রতি অকৃতজ্ঞ, আল-খায়রের ভালোবাসায় সে প্রবল, আর আল্লাহ এর সাক্ষী। তাঁর মতে সাক্ষীর আয়াতটি আগে বসানো হয়েছে, কিন্তু এর অর্থ পরে আসার। ১০০:৬ ও ১০০:৮ আয়াতের মাঝখানে এটি একটি অন্তর্বর্তী বাক্য। তিনি কাতাদার কথা উদ্ধৃত করেন: এটি বাক্যের আগে-আনা অংশগুলোর একটি, আর আল্লাহ সাক্ষী যে মানুষ আল-খায়রের ভালোবাসায় প্রবল। এই পাঠে সম্পদের ভালোবাসা গোপন কিছু নয়। তা ঘটছে এক সাক্ষীর চোখের সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water Inside the Boat",
+          "bn": "নৌকার ভেতরে পানি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di names what the love costs. His love of wealth, he writes, is what led him to abandon the rights he owed; he put his soul's desire before the right of his Lord, and all this because he confined his sight to this world and grew heedless of the Hereafter. Ma'arif al-Qur'an adds a balance: wealth is the axis of human needs, and the Shari'ah permits earning it and even requires it to the extent of need. What the verse condemns is a love that makes a person neglect obligations, or the love of wealth settling in the heart.",
+            "bn": "এই ভালোবাসার দাম কী, সা'দী তা বলে দেন। তাঁর ভাষায়, সম্পদের ভালোবাসাই তাকে নিজের উপর ওয়াজিব হকগুলো ছেড়ে দিতে বাধ্য করেছে। রবের হকের আগে সে নিজের মনের চাহিদাকে বসিয়েছে। আর এসবের মূলে, সে তার দৃষ্টি এই দুনিয়াতেই আটকে রেখেছে, আখিরাত থেকে গাফেল হয়েছে। মাআরিফুল কুরআন এখানে ভারসাম্য যোগ করে। সম্পদ মানুষের প্রয়োজনের কেন্দ্র। শরীয়ত তা উপার্জনের অনুমতি দিয়েছে, এমনকি প্রয়োজন পরিমাণে উপার্জন ফরজও করেছে। আয়াত যার নিন্দা করছে, তা হলো এমন ভালোবাসা যা দায়িত্ব ভুলিয়ে দেয়, অথবা অন্তরে সম্পদের ভালোবাসা জেঁকে বসা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an pictures the right relation through medicine: a sick person takes it, even undergoes surgery, out of need, without his heart becoming attached to it. So a believer earns wealth as Allah commands, to the extent of need, keeps it, looks after it and spends it where needed, with his heart unattached. It quotes a line of Rumi: water beneath the boat carries it along, and water inside the boat sinks it. Wealth around the heart serves it; wealth that seeps into the heart drowns it.",
+            "bn": "সঠিক সম্পর্কটা মাআরিফুল কুরআন বোঝায় ওষুধের উদাহরণ দিয়ে। অসুস্থ মানুষ ওষুধ খায়, দরকার হলে অস্ত্রোপচারও করায়, কিন্তু প্রয়োজনের খাতিরে। ওষুধের প্রতি তার মনে টান জন্মায় না। মুমিনও তেমনি আল্লাহর হুকুম মেনে প্রয়োজন পরিমাণে সম্পদ উপার্জন করবে, জমাবে, দেখাশোনা করবে, দরকারের জায়গায় খরচ করবে, কিন্তু মন তাতে বাঁধা পড়বে না। এখানে রুমীর একটি পঙক্তি উদ্ধৃত হয়েছে: নৌকার নিচের পানি নৌকাকে ভাসিয়ে নেয়, আর নৌকার ভেতরে ঢোকা পানি তাকে ডুবিয়ে দেয়। সম্পদ অন্তরের চারপাশে থাকলে কাজে আসে। অন্তরের ভেতরে ঢুকে পড়লে তাকে ডুবিয়ে মারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Graves Overturned, Breasts Sifted",
+          "bn": "কবর ওলটপালট, অন্তর বাছাই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes his gloss on this verse by saying that Allah therefore urges him to fear the Day of the threat, and on 100:9 he calls him this deluded man. Does he not know, when bu'thira what is in the graves? At-Tabari glosses it as stirred up, the dead brought out, and notes a report that 'Abdullah's copy read buhitha, searched out; al-Qurtubi gives Abu 'Ubaydah: ba'thartu the goods, I turned their bottom to the top. Wa hussila what is in the breasts: sorted and laid bare, its good and evil, at-Tabari and al-Baghawi say; Ibn 'Abbas said brought out.",
+            "bn": "সা'দী এই আয়াতের ব্যাখ্যা শেষ করেন এই বলে যে, এ কারণেই আল্লাহ তাকে প্রতিশ্রুত দিনের ভয় দেখিয়ে সজাগ করছেন। আর ১০০:৯ আয়াতে তাকে বলেন, এই প্রতারিত লোকটি। সে কি জানে না, যখন বু'সিরা, কবরে যা আছে? তাবারী ব্যাখ্যা করেন: খুঁড়ে তোলা হবে, মৃতদের বের করে আনা হবে। তিনি একটি বর্ণনা উল্লেখ করেন যে আবদুল্লাহর মুসহাফে পাঠ ছিল বুহিসা, খুঁজে বের করা হবে। কুরতুবী আবু উবায়দা থেকে আনেন: বা'সারতুল মাতা', মালপত্রের নিচটা উপরে তুলে দিলাম। ওয়া হুসসিলা, অন্তরে যা আছে: তাবারী ও বাগাভী বলেন, তার ভালো-মন্দ বাছাই করে প্রকাশ করা হবে। ইবন আব্বাস বলেছেন: বের করে আনা হবে।"
+          },
+          {
+            "en": "As-Sa'di puts 100:10 most sharply: what lay hidden in the breasts becomes plain, the secret public and the inward outward. Then 100:11: their Lord, that Day, is fully aware of them. Why that Day, when He always knows? Al-Qurtubi answers that He knows them on that Day and on every other, but the meaning is that He recompenses them then. Al-Baghawi relays the same from az-Zajjaj, and as-Sa'di says the Day is singled out because the point is recompense, which arises from Allah's knowledge.",
+            "bn": "১০০:১০ আয়াতকে সা'দী সবচেয়ে ধারালোভাবে বলেন: অন্তরে যা লুকানো ছিল তা প্রকাশ হয়ে যাবে, গোপন কথা হবে প্রকাশ্য, ভেতরের জিনিস বাইরে চলে আসবে। তারপর ১০০:১১: সেদিন তাদের রব তাদের সম্পর্কে পুরোপুরি অবহিত। প্রশ্ন জাগে, তিনি তো সবসময়ই জানেন, তবে সেদিনের কথা কেন? কুরতুবীর উত্তর: সেদিনও জানেন, অন্য সব দিনেও জানেন, তবে এখানে অর্থ হলো সেদিন তিনি তাদের প্রতিদান দেবেন। বাগাভী যাজ্জাজ থেকে একই কথা আনেন। সা'দী বলেন, দিনটিকে আলাদা করে বলা হয়েছে, কারণ উদ্দেশ্য প্রতিদান, যা আল্লাহর জ্ঞান থেকেই আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loving Less, Paying What Is Owed",
+          "bn": "টান কমিয়ে পাওনা মিটিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "None of the fetched tafsirs attaches a hadith to this verse, and this study cites none. The verse describes a trait of the human kind; it hands no reader a verdict on anyone else's heart or wallet. Its question is turned on the listener, and the surah has already said why it matters: the thing he calls good, he loves with an intensity that, in as-Sa'di's words, pushes aside the rights he owes, while in at-Tabari's reading a Witness looks on.",
+            "bn": "সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, এই আলোচনাও কোনো হাদীস উদ্ধৃত করছে না। আয়াতটি মানবজাতির একটি স্বভাবের বর্ণনা দেয়। অন্য কারও অন্তর বা টাকার থলি নিয়ে রায় দেওয়ার অনুমতি এটি কোনো পাঠককে দেয় না। এর প্রশ্ন শ্রোতার নিজের দিকে ফেরানো। কেন জরুরি, সূরাটি আগেই বলেছে: যাকে সে ভালো বলে, তাকে এত তীব্রভাবে ভালোবাসে যে, সা'দীর ভাষায়, নিজের উপর থাকা হকগুলোই পেছনে পড়ে যায়। আর তাবারীর পাঠে এক সাক্ষী সবকিছু দেখছেন।"
+          },
+          {
+            "en": "The remedy the commentators point to is not poverty. Ma'arif al-Qur'an allows earning, saving and caring for wealth, and asks only that it stay outside the heart. A reader can test where the water is: when a right falls due, the zakah, a debt, a parent's need, does the hand open, or does the love argue first? The breasts will be sifted on the Day of 100:10. Keeping the love small and the payments on time is work for the days before it.",
+            "bn": "তাফসীরকাররা যে প্রতিকারের দিকে ইঙ্গিত করেন, তা দারিদ্র্য নয়। মাআরিফুল কুরআন উপার্জন, সঞ্চয়, সম্পদের দেখভাল সবই অনুমোদন করে। শুধু চায়, সম্পদ যেন অন্তরের বাইরে থাকে। পানি কোথায় ঢুকেছে, পাঠক নিজেই যাচাই করতে পারেন। যখন কোনো হক পরিশোধের সময় আসে, যাকাত, ঋণ, বাবা-মায়ের প্রয়োজন, তখন কি হাত খুলে যায়? নাকি ভালোবাসা আগে তর্ক জুড়ে দেয়? ১০০:১০ আয়াতের দিনে অন্তর বাছাই করা হবে। টান ছোট রাখা আর পাওনা সময়মতো মিটিয়ে দেওয়া, এ কাজ তার আগের দিনগুলোর।"
+          }
+        ]
+      }
+    ]
   }
 });

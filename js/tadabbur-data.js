@@ -29923,6 +29923,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Good deeds stand on faith and are kept alive in company: belong among believers who keep urging one another to patience and to mercy.",
     "lessonBn": "নেক আমল দাঁড়ায় ঈমানের উপর, আর টিকে থাকে সঙ্গীদের মাঝে। এমন মুমিনদের দলে থাকুন, যারা একে অপরকে বারবার সবর আর দয়ার উপদেশ দেয়।"
+  },
+  "100:8": {
+    "reflectionEn": "The surah has just said that man is ungrateful to his Lord. Now it names what he clings to instead: and indeed he is, in love of al-khayr, intense. Al-khayr means the good, and here it means wealth. The Qur'an calls money by the name people give it, while the one who loves it forgets the One who gave it. Intense can mean strong in that love, or tight-fisted because of it, and the two usually travel together. Wealth itself is not blamed; it can be earned, kept and used. What is blamed is a love that pushes aside what I owe to my Lord and to others. The very next verses ask what that love will be worth when the graves are emptied.",
+    "reflectionBn": "সূরাটি এইমাত্র বলেছে, মানুষ তার রবের প্রতি অকৃতজ্ঞ। এবার জানাচ্ছে, কৃতজ্ঞতার বদলে সে কী আঁকড়ে ধরে: আর নিশ্চয় সে আল-খায়রের ভালোবাসায় বড়ই কঠিন। খায়র মানে কল্যাণ, ভালো জিনিস, আর এখানে এর অর্থ ধনসম্পদ। মানুষ টাকাকে যে নামে ডাকে, কুরআনও সেই নামেই ডাকল। অথচ যে এই ভালো জিনিসকে ভালোবাসে, সে-ই দাতাকে ভুলে বসে। শাদীদ শব্দে দুই অর্থই ধরা যায়: ভালোবাসায় প্রবল, অথবা সেই ভালোবাসার কারণে হাতটান। সাধারণত দুটো একসঙ্গেই চলে। সম্পদ নিজে দোষের নয়, তা উপার্জন করা যায়, জমানো যায়, কাজে লাগানো যায়। দোষ সেই ভালোবাসার, যা রবের হক আর মানুষের হক দুটোকেই পেছনে ঠেলে দেয়। ঠিক পরের আয়াতগুলো জিজ্ঞেস করে, কবর যেদিন খালি হবে, সেদিন এই ভালোবাসার দাম কত থাকবে?",
+    "pointsEn": [
+      "If someone read my bank statement and my calendar side by side, what would they say I love most?",
+      "Which payment that I owe, to family, to the poor or to a debt, have I been putting off while my savings grow?",
+      "Do I call money 'the good' in my own head, and has that name ever made me forget where it came from?",
+      "When I give, does my hand open easily, or does it tighten first and need persuading?",
+      "What would I want to have done with my wealth on the day what is in my heart is laid open?"
+    ],
+    "pointsBn": [
+      "কেউ যদি আমার ব্যাংকের হিসাব আর আমার দিনের রুটিন পাশাপাশি রেখে দেখে, সে কী বলবে, আমি সবচেয়ে বেশি কী ভালোবাসি?",
+      "পরিবারের, গরিবের বা কোনো ঋণের এমন কোন পাওনা আছে, যা আমি পিছিয়ে যাচ্ছি, অথচ আমার সঞ্চয় বাড়ছে?",
+      "মনে মনে আমি কি টাকাকেই 'ভালো জিনিস' বলে ধরে নিয়েছি? সেই ধারণা কি কখনো ভুলিয়ে দিয়েছে টাকাটা কোথা থেকে এল?",
+      "দান করার সময় আমার হাত কি সহজে খোলে, নাকি আগে শক্ত হয়ে যায়, তারপর বুঝিয়ে-সুঝিয়ে খুলতে হয়?",
+      "যেদিন অন্তরের সবকিছু খুলে দেখানো হবে, সেদিন আমি চাইব আমার সম্পদ দিয়ে কী করে এসেছি?"
+    ],
+    "lessonEn": "Earn and keep wealth as a need, not a love, and let no attachment to it hold back what you owe to Allah and to others.",
+    "lessonBn": "সম্পদ উপার্জন করুন ও রাখুন প্রয়োজন হিসেবে, ভালোবাসার বস্তু হিসেবে নয়। এর প্রতি টান যেন আল্লাহর ও মানুষের পাওনা আটকে না রাখে।"
   }
 };
 
