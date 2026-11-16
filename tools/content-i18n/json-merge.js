@@ -23,10 +23,12 @@ for (const c of fs.readdirSync(WORK).filter((d) => /^J\d+$/.test(d)).sort((a, b)
 }
 for (const [ns, add] of Object.entries(out)) {
   const f = path.join(ROOT, 'data/content-i18n', ns === 'shared' ? `${lang}.json` : `${ns}/${lang}.json`);
-  const cur = fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : {};
+  const raw = fs.existsSync(f) ? fs.readFileSync(f, 'utf8') : '';
+  const cur = raw ? JSON.parse(raw) : {};
+  const ind = ((raw.split('\n')[1] || '').match(/^ */) || [''])[0].length;   // keep the file's own layout
   let n = 0;
   for (const [en, v] of Object.entries(add)) if (force || cur[en] == null || cur[en] === en) { cur[en] = v; n++; }
   console.log(`${lang} ${ns}: +${n} (file now ${Object.keys(cur).length})`);
-  if (write) { fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, JSON.stringify(cur) + '\n'); }
+  if (write) { fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, (ind ? JSON.stringify(cur, null, ind) : JSON.stringify(cur)) + '\n'); }
 }
 console.log(`${lang}: chunks ${JSON.stringify(stat)}${write ? ' written' : ' (dry run; pass --write)'}`);
