@@ -121,7 +121,7 @@ class QuranPlacesView {
     if (this.language === 'bn' && o.bn) return o.bn;
     const en = o.en || '';
     if (!en || this.language === 'en' || this.language === 'bn') return en;
-    try { if (typeof CI18N !== 'undefined') return CI18N.tr(this.language, en) || en; } catch (_) { /* ignore */ }
+    try { if (typeof CI18N !== 'undefined') return CI18N.tr(this.language, en, 'places') || en; } catch (_) { /* ignore */ }
     return en;
   }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }

@@ -109,7 +109,7 @@ class ThemePages {
     if (this.language && o[this.language]) return o[this.language];
     if (this.language === 'bn') return o.bn || o.en || '';
     if (o.en && typeof CI18N !== 'undefined' && this.language && this.language !== 'en') {
-      try { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; } catch (_) { /* fall through */ }
+      try { const tr = CI18N.tr(this.language, o.en, 'themes'); if (tr) return tr; } catch (_) { /* fall through */ }
     }
     return o.en || o.bn || '';
   }

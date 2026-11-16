@@ -119,7 +119,7 @@ class QuranDuasView {
     if (this.language === 'bn' && o.bn) return o.bn;
     const en = o.en || '';
     if (!en || this.language === 'en' || this.language === 'bn') return en;
-    try { if (typeof CI18N !== 'undefined') return CI18N.tr(this.language, en) || en; } catch (_) { /* ignore */ }
+    try { if (typeof CI18N !== 'undefined') return CI18N.tr(this.language, en, 'quran-duas') || en; } catch (_) { /* ignore */ }
     return en;
   }
   num(n) { const s = String(n); return this.language === 'bn' ? s.replace(/\d/g, d => '০১২৩৪৫৬৭৮৯'[d]) : s; }
