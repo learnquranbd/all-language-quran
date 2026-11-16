@@ -1,5 +1,7 @@
 // Gather everything a drafter needs for one Quranic Arabic batch, with zero model tokens.
-// usage: node tools/qarabic/prep.js <batch> <surah> [<surah> ...]
+// usage: node tools/qarabic/prep.js <batch> <surah>|<surah:lo-hi> [...]
+//   A range ("57:1-10") preps only those ayat; its lesson ids start at nextId + lo - 1, so
+//   two range batches of one surah can never hand out the same id.
 //   → tools/qarabic/work/<batch>/PREP.md      (what the drafter reads)
 //   → tools/qarabic/work/<batch>/targets.json (what validate.js / merge.js check against)
 // For every ayah not yet parsed in data/qarabic/: the Arabic words, the bundled en/bn
@@ -53,16 +55,19 @@ const targets = { batch, surahs: [], ayat: [] };
 const out = [`# PREP ${batch}: surahs ${surahs.join(', ')}\n`,
   'Fixed fields (copied in at merge from the bundled data; you do NOT write them): each word\'s Arabic, en/bn gloss, and each ayah\'s en/bn translation. They are shown so you can teach from them.\n'];
 
-for (const s of surahs.map(Number)) {
+for (const arg of surahs) {
+  const am = String(arg).match(/^(\d+)(?::(\d+)-(\d+))?$/);
+  if (!am) { console.log('bad surah/range: ' + arg); process.exit(1); }
+  const s = +am[1], lo = am[2] ? +am[2] : 1, hi = am[3] ? +am[3] : Infinity;
   const unit = unitOf(s);
   const existing = lessonsBySurah(s);
   const covered = new Set(existing.flatMap(l => l.examples.map(e => e.ref)));
   const n = Object.keys(QW).filter(k => k.startsWith(s + ':')).length;
-  const missing = []; for (let a = 1; a <= n; a++) if (!covered.has(`${s}:${a}`)) missing.push(a);
+  const missing = []; for (let a = Math.max(1, lo); a <= Math.min(n, hi); a++) if (!covered.has(`${s}:${a}`)) missing.push(a);
   // contiguous runs of unparsed ayat; a lesson may not span a gap
   const runs = []; missing.forEach(a => { const r = runs[runs.length - 1]; if (r && r[1] === a - 1) r[1] = a; else runs.push([a, a]); });
   const used = existing.map(l => +l.id.split('-').pop()).filter(Number.isFinite);
-  const nextId = (used.length ? Math.max(...used) : 0) + 1;
+  const nextId = (used.length ? Math.max(...used) : 0) + 1 + (lo - 1);
   targets.surahs.push({ surah: s, unit: unit.id, file: fileOf(s), nextId, runs });
   out.push(`\n---\n\n# Surah ${s}: ${unit.en} (unit id \`${unit.id}\`, ${n} ayat)\n`,
     `Unparsed: ${missing.length} ayat, runs ${runs.map(r => r[0] === r[1] ? r[0] : r[0] + '-' + r[1]).join(', ')}. New lesson ids start at \`${unit.id}-${nextId}\`.\n`,

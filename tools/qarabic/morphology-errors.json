@@ -593,5 +593,593 @@
   "word": "ٱلْمَحِيضِ (w3, w10)",
   "tag": "N PASS_PCPL VF:1 M GEN",
   "correct": "N M GEN: noun of the action (maṣdar mīmī) 'menstruation'; ḥāḍa is intransitive and has no passive participle here. Same correction as 65:4. Lesson text states no form."
+ },
+ {
+  "batch": "X15",
+  "ref": "57:20",
+  "word": "وَتَكَاثُرٌ",
+  "tag": "VN VF:3",
+  "correct": "VN VF:6 (tafāʿul is the Form VI verbal noun, like تَفَاخُرٌ beside it; Form III would be mukāthara)"
+ },
+ {
+  "batch": "X15",
+  "ref": "57:21",
+  "word": "وَجَنَّةٍ",
+  "tag": "FP INDEF GEN",
+  "correct": "FS INDEF GEN (singular jannatin; not used by the lesson)"
+ },
+ {
+  "batch": "X15",
+  "ref": "57:23",
+  "word": "وَلَا",
+  "tag": "lā PRO (prohibition)",
+  "correct": "lā NEG, repeating the negation of kaylā; wa- coordinates tafraḥū to taʾsaw"
+ },
+ {
+  "batch": "X15",
+  "ref": "57:23",
+  "word": "تَفْرَحُوا۟",
+  "tag": "IMPF 2MP MOOD:JUS",
+  "correct": "IMPF 2MP MOOD:SUBJ (coordinated to taʾsaw under kay; nūn dropped for the subjunctive)"
+ },
+ {
+  "batch": "X15",
+  "ref": "57:24",
+  "word": "وَمَن",
+  "tag": "man REL",
+  "correct": "man COND (yatawalla is jussive and fa-inna opens the answer)"
+ },
+ {
+  "batch": "X15",
+  "ref": "57:26",
+  "word": "مُّهْتَدٍ",
+  "tag": "INDEF GEN",
+  "correct": "INDEF NOM (delayed mubtadaʾ after fronted fa-minhum; manqūṣ, -in written in nominative and genitive)"
+ },
+ {
+  "batch": "X15",
+  "ref": "57:27",
+  "word": "مَرْيَمَ",
+  "tag": "PN F ACC",
+  "correct": "PN F GEN (muḍāf ilayh of ibni; diptote, genitive shown by fatḥa)"
+ },
+ {
+  "batch": "X15",
+  "ref": "57:28",
+  "word": "كِفْلَيْنِ",
+  "tag": "MD NOM",
+  "correct": "MD ACC (second object of yuʾti-kum; nominative would be kiflāni)"
+ },
+ {
+  "batch": "X15",
+  "ref": "57:29",
+  "word": "لِّئَلَّا",
+  "tag": "lā NEG",
+  "correct": "extra (zāʾida) lā of emphasis; sense is 'so that … may know'"
+ },
+ {
+  "batch": "X3",
+  "ref": "52:1",
+  "word": "وَٱلطُّورِ",
+  "tag": "P وَ CONJ",
+  "correct": "P وَ oath particle (wāw al-qasam): first word of the surah, nothing to conjoin to; the genitive is governed by it. The draft already teaches oath wāw."
+ },
+ {
+  "batch": "X3",
+  "ref": "52:15",
+  "word": "أَفَسِحْرٌ",
+  "tag": "N أَ INTG PREF",
+  "correct": "P أَ INTG PREF: the interrogative hamza is a particle, not a noun. The draft makes no POS claim on it."
+ },
+ {
+  "batch": "X4",
+  "ref": "52:44",
+  "word": "يَرَوْا۟",
+  "tag": "IMPF VF:1 3MP MOOD:SUBJ",
+  "correct": "IMPF VF:1 3MP MOOD:JUS (condition verb of in; no subjunctive governor present)"
+ },
+ {
+  "batch": "X4",
+  "ref": "52:44",
+  "word": "يَقُولُوا۟",
+  "tag": "IMPF VF:1 3MP MOOD:SUBJ",
+  "correct": "IMPF VF:1 3MP MOOD:JUS (answer of the condition in)"
+ },
+ {
+  "batch": "X14",
+  "ref": "57:12",
+  "word": "أَيْدِيهِمْ",
+  "tag": "N أَيْدِي FP NOM",
+  "correct": "GEN (muḍāf ilayh of the ẕarf بَيْنَ; manqūṣ noun, so the -ī cannot show the case; بَيْنَ أَيْدِيهِمْ is genitive everywhere)"
+ },
+ {
+  "batch": "X14",
+  "ref": "57:13",
+  "word": "وَٱلْمُنَٰفِقَٰتُ",
+  "tag": "N مُنَٰفِقَٰتُ ACT_PCPL VF:3 FP GEN",
+  "correct": "NOM (ends in -ātu with ḍamma; coordinated by wa- to the nominative subject ٱلْمُنَٰفِقُونَ of يَقُولُ)"
+ },
+ {
+  "batch": "X14",
+  "ref": "57:15",
+  "word": "مَأْوَىٰكُمُ",
+  "tag": "N مَأْوَىٰ M GEN",
+  "correct": "NOM (mubtadaʾ of مَأْوَىٰكُمُ ٱلنَّارُ, whose khabar ٱلنَّارُ carries ḍamma; nothing governs a genitive; maqṣūr noun, so the ending shows no case)"
+ },
+ {
+  "batch": "X14",
+  "ref": "57:15",
+  "word": "مَوْلَىٰكُمْ",
+  "tag": "N مَوْلَىٰ M GEN",
+  "correct": "NOM (khabar of هِىَ in هِىَ مَوْلَىٰكُمْ; no preposition or muḍāf precedes it; maqṣūr noun, so the ending shows no case)"
+ },
+ {
+  "batch": "X9",
+  "ref": "55:12",
+  "word": "وَٱلرَّيْحَانُ",
+  "tag": "N M GEN",
+  "correct": "N M NOM: ḍamma in the text; joined by wa- to nominative al-ḥabbu, not to al-ʿaṣfi. Genitive rayḥāni is the reading of Ḥamza and al-Kisāʾī, not this text."
+ },
+ {
+  "batch": "X9",
+  "ref": "55:17",
+  "word": "ٱلْمَشْرِقَيْنِ",
+  "tag": "N MD NOM",
+  "correct": "N MD GEN: dual -ayni (nominative would be -āni); muḍāf ilayh of rabbu."
+ },
+ {
+  "batch": "X9",
+  "ref": "55:17",
+  "word": "ٱلْمَغْرِبَيْنِ",
+  "tag": "N MD NOM",
+  "correct": "N MD GEN: dual -ayni; muḍāf ilayh of wa-rabbu."
+ },
+ {
+  "batch": "X9",
+  "ref": "55:27",
+  "word": "وَيَبْقَىٰ",
+  "tag": "V IMPF VF:1 3MS MOOD:SUBJ",
+  "correct": "MOOD:IND: no subjunctive particle (an, lan, kay, li-, ḥattā) or causal fa-/wāw of maʿiyya after a command or negation governs it; wa- joins it to the statement kullu man ʿalayhā fānin. Marfūʿ with the ḍamma implied on the final alif, which cannot show mood. The draft's role states no mood, so no lesson text changes."
+ },
+ {
+  "batch": "X9",
+  "ref": "55:33",
+  "word": "يَٰمَعْشَرَ",
+  "tag": "N NOM",
+  "correct": "N ACC: visible fatḥa; a vocative that is muḍāf (maʿshara l-jinni) is accusative."
+ },
+ {
+  "batch": "X10",
+  "ref": "55:54",
+  "word": "وَجَنَى",
+  "tag": "N M GEN",
+  "correct": "N M NOM: mubtadaʾ, case hidden on the final alif maqṣūra; its khabar is dānin and nothing governs a genitive"
+ },
+ {
+  "batch": "X10",
+  "ref": "55:54",
+  "word": "ٱلْجَنَّتَيْنِ",
+  "tag": "N FD ACC",
+  "correct": "N FD GEN: muḍāf ilayh of janā; -ayni serves both acc. and gen., and nothing here takes an object"
+ },
+ {
+  "batch": "X10",
+  "ref": "55:78",
+  "word": "ذِى",
+  "tag": "N MS NOM",
+  "correct": "N MS GEN: dhī is the genitive form of dhū (nom. dhū, acc. dhā), naʿt of the genitive rabbika"
+ },
+ {
+  "batch": "X10",
+  "ref": "55:50",
+  "word": "تَجْرِيَانِ",
+  "tag": "suffix PRON SUFF 2D",
+  "correct": "PRON SUFF 3FD: dual subject pronoun agreeing with ʿaynāni; the verb stem itself is tagged 3FD"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:7",
+  "word": "ٱلْأَعْلَىٰ",
+  "tag": "NOM",
+  "correct": "GEN: naʿt of bi-l-ufuqi (genitive after bi-); alif maqṣūra hides the -i"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:8",
+  "word": "فَتَدَلَّىٰ",
+  "tag": "PERF VF:1 3MS",
+  "correct": "PERF VF:5 3MS (tafaʿʿala: ta- + doubled lām, root dlw)"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:9",
+  "word": "قَوْسَيْنِ",
+  "tag": "MD NOM",
+  "correct": "MD GEN: muḍāf ilayh of qāba; -ayni is the oblique dual, nominative would be qawsāni"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:12",
+  "word": "أَفَتُمَٰرُونَهُۥ",
+  "tag": "IMPF VF:1 PASS 2MP",
+  "correct": "IMPF VF:3 active 2MP (tumārūna 'you dispute'; passive would be tumārawna; takes object -hu)"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:13",
+  "word": "أُخْرَىٰ",
+  "tag": "FS NOM",
+  "correct": "FS ACC: naʿt of nazlatan (indef. accusative)"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:19",
+  "word": "وَٱلْعُزَّىٰ",
+  "tag": "PN GEN",
+  "correct": "PN ACC: coordinated by wa- with al-Lāta, object of raʾaytum"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:20",
+  "word": "وَمَنَوٰةَ",
+  "tag": "PN GEN",
+  "correct": "PN ACC: coordinated with al-Lāta; its naʿt al-thālithata is visibly accusative (Manāt is diptote, so the -a alone would not decide it)"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:20",
+  "word": "ٱلْأُخْرَىٰٓ",
+  "tag": "FS NOM",
+  "correct": "FS ACC: second naʿt of Manāta, alongside al-thālithata (ACC)"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:23",
+  "word": "ٱلْهُدَىٰٓ",
+  "tag": "GEN",
+  "correct": "NOM: delayed fāʿil of jāʾa-hum; min rabbihim is complete (rabbi already has -him), nothing governs it in the genitive"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:24",
+  "word": "تَمَنَّىٰ",
+  "tag": "PERF VF:1 3MS",
+  "correct": "PERF VF:5 3MS (ta- + doubled nūn, root mny)"
+ },
+ {
+  "batch": "X5",
+  "ref": "53:27",
+  "word": "ٱلْأُنثَىٰ",
+  "tag": "F NOM",
+  "correct": "F GEN: muḍāf ilayh of tasmiyata (no al-, no tanwīn)"
+ },
+ {
+  "batch": "X7",
+  "ref": "54:16",
+  "word": "وَنُذُرِ",
+  "tag": "N GEN (no PRON segment)",
+  "correct": "N NOM, coordinated by wa- with kāna's noun عَذَابِى + elided PRON 1S (yā dropped at the ayah-end, kasra before it remains)"
+ },
+ {
+  "batch": "X7",
+  "ref": "54:18",
+  "word": "وَنُذُرِ",
+  "tag": "N GEN (no PRON segment)",
+  "correct": "N NOM, coordinated with عَذَابِى + elided PRON 1S"
+ },
+ {
+  "batch": "X7",
+  "ref": "54:21",
+  "word": "وَنُذُرِ",
+  "tag": "N GEN (no PRON segment)",
+  "correct": "N NOM, coordinated with عَذَابِى + elided PRON 1S"
+ },
+ {
+  "batch": "X7",
+  "ref": "54:2",
+  "word": "يَرَوْا۟",
+  "tag": "IMPF MOOD:SUBJ",
+  "correct": "IMPF MOOD:JUS (verb of the condition after إِن)"
+ },
+ {
+  "batch": "X7",
+  "ref": "54:2",
+  "word": "يُعْرِضُوا۟",
+  "tag": "IMPF MOOD:SUBJ",
+  "correct": "IMPF MOOD:JUS (answer of the condition)"
+ },
+ {
+  "batch": "X7",
+  "ref": "54:2",
+  "word": "وَيَقُولُوا۟",
+  "tag": "IMPF MOOD:SUBJ",
+  "correct": "IMPF MOOD:JUS (coordinated with the answer)"
+ },
+ {
+  "batch": "X8",
+  "ref": "54:41",
+  "word": "فِرْعَوْنَ",
+  "tag": "PN M ACC",
+  "correct": "PN M GEN: muḍāf ilayh of ءَالَ; diptote, so genitive shown by -a"
+ },
+ {
+  "batch": "X8",
+  "ref": "54:29",
+  "word": "فَتَعَاطَىٰ",
+  "tag": "PERF VF:1 3MS",
+  "correct": "PERF VF:6 3MS (tafāʿala of ʿ-ṭ-w)"
+ },
+ {
+  "batch": "X8",
+  "ref": "54:36",
+  "word": "فَتَمَارَوْا۟",
+  "tag": "PERF VF:1 3MP",
+  "correct": "PERF VF:6 3MP (tafāʿala of m-r-y)"
+ },
+ {
+  "batch": "X8",
+  "ref": "54:37",
+  "word": "عَذَابِى",
+  "tag": "M NOM + PRON 1S",
+  "correct": "M ACC (hidden before -ī) + PRON 1S: object of ذُوقُوا۟"
+ },
+ {
+  "batch": "X8",
+  "ref": "54:39",
+  "word": "عَذَابِى",
+  "tag": "M NOM + PRON 1S",
+  "correct": "M ACC (hidden before -ī) + PRON 1S: object of ذُوقُوا۟"
+ },
+ {
+  "batch": "X8",
+  "ref": "54:30",
+  "word": "وَنُذُرِ",
+  "tag": "N GEN (no suffix)",
+  "correct": "N + PRON SUFF 1S with the yā elided; case follows عَذَابِى (NOM, hidden)"
+ },
+ {
+  "batch": "X8",
+  "ref": "54:37",
+  "word": "وَنُذُرِ",
+  "tag": "N GEN (no suffix)",
+  "correct": "N + PRON SUFF 1S with the yā elided; case follows عَذَابِى (ACC, hidden)"
+ },
+ {
+  "batch": "X8",
+  "ref": "54:39",
+  "word": "وَنُذُرِ",
+  "tag": "N GEN (no suffix)",
+  "correct": "N + PRON SUFF 1S with the yā elided; case follows عَذَابِى (ACC, hidden)"
+ },
+ {
+  "batch": "X8",
+  "ref": "54:38",
+  "word": "صَبَّحَهُم",
+  "tag": "PERF VF:2 FAM:كَان 3MS",
+  "correct": "PERF VF:2 3MS, no kāna family: full transitive verb (object -hum, subject عَذَابٌ); the kāna sister is Form IV aṣbaḥa"
+ },
+ {
+  "batch": "X6",
+  "ref": "53:38",
+  "word": "أُخْرَىٰ",
+  "tag": "N FS NOM",
+  "correct": "N FS GEN: muḍāf ilayh of وِزْرَ (no al-, no tanwīn); alif maqṣūra hides the kasra."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:41",
+  "word": "ٱلْأَوْفَىٰ",
+  "tag": "N MS NOM ADJ",
+  "correct": "N MS ACC ADJ: naʿt of ٱلْجَزَآءَ (visible fatḥa); alif maqṣūra hides the case."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:42",
+  "word": "ٱلْمُنتَهَىٰ",
+  "tag": "N PASS_PCPL VF:8 M GEN",
+  "correct": "ACC: ism of أَنَّ delayed after the fronted khabar إِلَىٰ رَبِّكَ (cf. 53:47 عَلَيْهِ ٱلنَّشْأَةَ with visible fatḥa); nothing governs it in the genitive."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:45",
+  "word": "ٱلزَّوْجَيْنِ",
+  "tag": "N MD NOM",
+  "correct": "N MD ACC: object of خَلَقَ; -ayni is the accusative/genitive dual, the nominative would be -āni."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:45",
+  "word": "وَٱلْأُنثَىٰ",
+  "tag": "N F NOM",
+  "correct": "N F ACC: joined by wa to ٱلذَّكَرَ (ACC, badal of ٱلزَّوْجَيْنِ); alif maqṣūra hides the case."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:47",
+  "word": "ٱلْأُخْرَىٰ",
+  "tag": "N FS NOM",
+  "correct": "N FS ACC: naʿt of ٱلنَّشْأَةَ (visible fatḥa)."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:48",
+  "word": "وَأَقْنَىٰ",
+  "tag": "N MS NOM (root قني)",
+  "correct": "V PERF VF:4 3MS (aqnā 'gave possessions / gave enough'): joined by wa to the verb أَغْنَىٰ in the frame هُوَ أَفْعَلَ وَأَفْعَلَ of 53:43-44."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:49",
+  "word": "ٱلشِّعْرَىٰ",
+  "tag": "PN F NOM",
+  "correct": "PN F GEN: muḍāf ilayh of رَبُّ (no al-, no tanwīn)."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:50",
+  "word": "ٱلْأُولَىٰ",
+  "tag": "N F NOM",
+  "correct": "N F ACC: naʿt of عَادًا (visible tanwīn fatḥ)."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:51",
+  "word": "وَثَمُودَا۟",
+  "tag": "PN GEN",
+  "correct": "PN ACC (diptote): joined to عَادًا, object of أَهْلَكَ; it cannot be the object of أَبْقَىٰ, since what follows negative mā does not govern what precedes it, and nothing in the ayah governs a genitive."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:56",
+  "word": "ٱلْأُولَىٰٓ",
+  "tag": "N F NOM",
+  "correct": "N F GEN: naʿt of ٱلنُّذُرِ (majrūr by مِّنَ); feminine singular adjective of a broken plural."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:35",
+  "word": "يَرَىٰٓ",
+  "tag": "V IMPF VF:1 3MS MOOD:SUBJ",
+  "correct": "MOOD:IND (ḍamma hidden on the alif): khabar of هُوَ in the nominal sentence فَهُوَ يَرَىٰ; no particle governs a subjunctive."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:40",
+  "word": "يُرَىٰ",
+  "tag": "V IMPF VF:1 PASS 3MS MOOD:SUBJ",
+  "correct": "MOOD:IND: after سَوْفَ, khabar of أَنَّ; nothing makes it subjunctive."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:41",
+  "word": "يُجْزَىٰهُ",
+  "tag": "V IMPF VF:1 PASS 3MS MOOD:SUBJ",
+  "correct": "MOOD:IND: joined by ثُمَّ to the indicative يُرَىٰ; nothing makes it subjunctive."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:48",
+  "word": "أَغْنَىٰ",
+  "tag": "V PERF VF:1 3MS",
+  "correct": "V PERF VF:4 3MS: afʿala of غني, causative 'enriched' (Form I is ghaniya)."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:51",
+  "word": "أَبْقَىٰ",
+  "tag": "V PERF VF:1 3MS (lemma بَقِيَ)",
+  "correct": "V PERF VF:4 3MS, lemma أَبْقَى: afʿala, causative 'left remaining / spared'."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:53",
+  "word": "أَهْوَىٰ",
+  "tag": "V PERF VF:1 3MS (lemma هَوَى)",
+  "correct": "V PERF VF:4 3MS, lemma أَهْوَى: afʿala 'hurled down' (Form I hawā 'fell')."
+ },
+ {
+  "batch": "X6",
+  "ref": "53:55",
+  "word": "تَتَمَارَىٰ",
+  "tag": "V IMPF VF:1 2MS (lemma تَمارَ)",
+  "correct": "V IMPF VF:6 2MS MOOD:IND, lemma تَمَارَى: tafāʿala of مري."
+ },
+ {
+  "batch": "X12",
+  "ref": "56:62",
+  "word": "ٱلْأُولَىٰ",
+  "tag": "F NOM",
+  "correct": "F ACC: naʿt of the accusative object ٱلنَّشْأَةَ; the case is hidden on the alif maqṣūra"
+ },
+ {
+  "batch": "X12",
+  "ref": "56:89",
+  "word": "وَجَنَّتُ",
+  "tag": "FP NOM",
+  "correct": "FS NOM: singular jannatu (tāʾ marbūṭa written open), muḍāf to نَعِيمٍ; a plural would be jannātu"
+ },
+ {
+  "batch": "X12",
+  "ref": "56:95",
+  "word": "ٱلْيَقِينِ",
+  "tag": "ADJ (MS GEN)",
+  "correct": "noun, MS GEN: muḍāf ilayh of حَقُّ, which has no al and no tanwīn"
+ },
+ {
+  "batch": "X12",
+  "ref": "56:77",
+  "word": "لَقُرْءَانٌ",
+  "tag": "PN (M INDEF NOM)",
+  "correct": "common noun, indefinite: its naʿt كَرِيمٌ is indefinite, so qurʾānun here is not a definite proper name"
+ },
+ {
+  "batch": "X12",
+  "ref": "56:53",
+  "word": "فَمَالِـُٔونَ",
+  "tag": "fa- REM",
+  "correct": "fa- CONJ: māliʾūna is joined to ءَاكِلُونَ (56:52), a further khabar of inna; same structure as فَشَٰرِبُونَ (56:54), tagged CONJ"
+ },
+ {
+  "batch": "X2",
+  "ref": "51:31",
+  "word": "فَمَا",
+  "tag": "N مَا REL",
+  "correct": "N مَا INTG: question word 'what?' (mubtadaʾ, khaṭbukum its khabar); the translation is a question, 'Then what is your business?'"
+ },
+ {
+  "batch": "X2",
+  "ref": "51:45",
+  "word": "قِيَامٍ",
+  "tag": "N ACT_PCPL VF:1 MP INDEF GEN (lemma qāʾim)",
+  "correct": "N VN INDEF GEN: verbal noun (maṣdar) qiyām of qāma 'standing up', object of istaṭāʿū after the extra min; istaṭāʿa takes an act, not 'standers', and the translation is 'unable to arise'"
+ },
+ {
+  "batch": "X2",
+  "ref": "51:49",
+  "word": "زَوْجَيْنِ",
+  "tag": "N MD NOM",
+  "correct": "N MD ACC: dual -ayni is the oblique form (nominative would be zawjāni); object of khalaqnā"
+ },
+ {
+  "batch": "X2",
+  "ref": "51:59",
+  "word": "فَلَا",
+  "tag": "P لَا NEG",
+  "correct": "P لَا PRO: lā of prohibition; the verb after it is jussive (yastaʿjilū without -na, tagged MOOD:JUS) and the translation is 'let them not'"
+ },
+ {
+  "batch": "X2",
+  "ref": "51:36",
+  "word": "ٱلْمُسْلِمِينَ",
+  "tag": "N PN ACT_PCPL VF:4 MP GEN",
+  "correct": "N ACT_PCPL VF:4 MP GEN: a participle 'those who submit', not a proper noun (PN)"
+ },
+ {
+  "batch": "X1",
+  "ref": "51:7",
+  "word": "ذَاتِ",
+  "tag": "N FS NOM lemma:ذُو",
+  "correct": "N FS GEN: ends in kasra, naʿt of the genitive وَٱلسَّمَآءِ, muḍāf to ٱلْحُبُكِ"
+ },
+ {
+  "batch": "X1",
+  "ref": "51:5",
+  "word": "إِنَّمَا",
+  "tag": "P إِنَّ ACC + P مَا PREV",
+  "correct": "إِنَّ + N مَا REL (inna's noun; maṣdariyya also given), not the cancelling mā: la-ṣādiqun carries the lām of inna's khabar"
+ },
+ {
+  "batch": "X11",
+  "ref": "56:18",
+  "word": "وَأَبَارِيقَ",
+  "tag": "N MP ACC",
+  "correct": "N MP GEN (diptote afāʿīl plural, genitive marked by -a without tanwīn; joined by wa- to bi-akwābin, followed by wa-kaʾsin -in)"
+ },
+ {
+  "batch": "X11",
+  "ref": "56:47",
+  "word": "مِتْنَا",
+  "tag": "PERF VF:1 PASS 1P",
+  "correct": "PERF VF:1 1P active (māta is intransitive, no passive; kasra of the mīm is the māta/yamātu stem vowel, cf. مِتُّ 19:23)"
  }
 ]

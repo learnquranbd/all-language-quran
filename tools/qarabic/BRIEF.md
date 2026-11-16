@@ -96,6 +96,19 @@ bundled data at merge time. You do not write them, and you must not contradict t
 - *illā* after a negative statement may be disconnected (munqaṭiʿ, "but"); where
   grammarians differ, say "sets apart" and that they differ.
 
+- Fronted noun + a verb that already has its pronoun object (*was-samāʾa banaynāhā*,
+  *kulla shayʾin khalaqnāhu*) is *ishtighāl*: the noun is governed by an understood verb.
+  Never call it the written verb's "fronted object", and never teach "a fronted object
+  is resumed by a pronoun" (*iyyāka naʿbudu* has none).
+- State a rule for the ayah in front of you ("here"), not for Arabic: "lā before a present
+  verb forbids", "in takes a past verb", "a condition's answer takes fa-", "every ayah here
+  begins with am" were all false generalisations in Juz 27.
+- *wa-lā* after *kay-lā* / *li-allā* continues the negation (subjunctive), it is not a
+  prohibition; *li-allā* in 57:29 has an extra lā that does not negate.
+- A final yā dropped at an ayah end (*nudhuri*, *yaʿbudūni*) is dropped "at the end of the
+  ayah", not "at the pause".
+- Transliterate ẓ (U+1E93), never ẕ (U+1E95).
+
 ## Notes, concept, practice
 
 - A note explains the highlighted word(s): what form or function it shows and how

@@ -14,6 +14,16 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
+## NEXT AFTER JUZ 27 (USER 2026-11-16, mid-wave): "Once this wave done, next - we need to audit the system and make sure all language works for major modules (big important), we need to run workflow a way that an agents will run sub-agents to do check - full possible max run (claude max) - no limit"
+USER 2026-11-16 ~10:30: "run max agents number possible, we need a HUGE progress" -> LAUNCHED NOW in parallel with Juz 27: Workflow lang-audit-all-modules run wf_fa8b0d49-217 (22 units x runtime+static finders -> verifier -> completeness critic -> REPORT at tools/wip/lang-audit/REPORT.md). Audit only; fix workflow(s) follow from the report.
+-> (orig plan) After Juz 27 ships: run a Workflow (user opted in, no size limit) auditing every major module in all languages (render in each lang, untranslated/English leaks, CI18N bypass, broken keys). Load workflow-authoring skill first; reuse qa/ headless harness + audit-suite memory.
+
+## Quranic Arabic Juz 27 — DONE v1868 2026-11-16 (USER: "start Juz 27 wave, 15 agents")
+95 lessons, all 429 ayat of 51-57 in data/qarabic/parse-57-51.json; 15 drafters + 15 auditors (every batch had real fixes; X9/X15 blockers). Refrains normalised across batches (55 X9/X10; 54 X7/X8). BRIEF.md traps extended (ishtighāl, over-general rules, kay-lā + wa-lā, ẓ not ẕ).
+OPEN (user decides): tools/qarabic/morphology-errors.json now 169 entries; only the 92 older ones are applied to data/morphology via morphology-fixes.json (apply-morphology-fixes.js). Juz 27's 77 new ones are not applied yet.
+OPEN: Juz 27 lessons are en/bn only (as Juz 28-30 lesson bodies).
+DEPLOY STILL BLOCKED (v1866-v1868): firebase hosting quota; user must delete old versions in console (or explicitly OK the REST delete), then `firebase deploy --only hosting`.
+
 ## AS HE WAS wave (2026-11-09, USER: "Quick Enrich wave for Seerat ... his conduct with old, poor, rich ... (Jemon chilen tini)")
 New Seerah view "As He Was / যেমন ছিলেন তিনি": SEERAH_CONDUCT cards (js/seerah-data.js, groups) + SEERAH_CONDUCT_ARTICLES (js/seerah-conduct-articles.js, lazy, module key 'conduct'). Code wired (seerah-timeline.js conductHtml, article-view, build-article-index, check-articles, sw precache) but UNCOMMITTED.
 Pipeline: tools/wip/conduct/ (registry.js 30 ids, groups.js, BRIEF.md, gate.js, merge.js <id>). Drafts -> gate -> merge.js -> at end: bump, npm test, headless check, one commit, push, deploy (deploy still blocked by hosting quota).
