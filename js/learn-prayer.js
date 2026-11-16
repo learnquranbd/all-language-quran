@@ -388,7 +388,7 @@ class SalahModule {
             <details class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden">
               <summary class="flex items-center gap-2 p-3 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors list-none">
                 <span class="text-lg">${this.esc(st?.emoji || '🤲')}</span>
-                <span class="flex-1 font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.lc(st?.title) || d.id.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()))}</span>
+                <span class="flex-1 font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.lc(d.title) || this.lc(st?.title) || d.id.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()))}</span>
                 <span class="text-gray-400 text-xs">▼</span>
               </summary>
               <div class="px-4 pb-4 space-y-2">
@@ -531,9 +531,9 @@ class SalahModule {
                 <span aria-hidden="true">${r.emoji}</span>
                 <span class="text-sm font-semibold text-gray-800 dark:text-gray-100">${this.esc(this.lc({ en: r.nameEn, bn: r.nameBn }))}</span>
               </div>
-              ${r.authorEn ? `<p class="text-xs text-gray-400 dark:text-gray-500 ml-6">${this.esc(this.lc({ en: r.authorEn, bn: r.authorBn }))}</p>` : ''}
-              <p class="text-xs text-gray-500 dark:text-gray-400 mt-1 leading-relaxed ml-6" dir="auto">${this.esc(this.lc({ en: r.descEn, bn: r.descBn }))}</p>
-              <span class="inline-block mt-1 ml-6 px-1.5 py-0.5 rounded text-[0.6rem] font-medium uppercase tracking-wider
+              ${r.authorEn ? `<p class="text-xs text-gray-400 dark:text-gray-500 ms-6">${this.esc(this.lc({ en: r.authorEn, bn: r.authorBn }))}</p>` : ''}
+              <p class="text-xs text-gray-500 dark:text-gray-400 mt-1 leading-relaxed ms-6" dir="auto">${this.esc(this.lc({ en: r.descEn, bn: r.descBn }))}</p>
+              <span class="inline-block mt-1 ms-6 px-1.5 py-0.5 rounded text-[0.6rem] font-medium uppercase tracking-wider
                 ${r.type === 'book' ? 'bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-300' :
                   r.type === 'web' ? 'bg-green-100 dark:bg-green-900/30 text-green-600 dark:text-green-300' :
                   r.type === 'video' ? 'bg-purple-100 dark:bg-purple-900/30 text-purple-600 dark:text-purple-300' :
@@ -622,7 +622,7 @@ class SalahModule {
                   cls = 'bg-primary/10 border-primary text-primary';
                 }
                 return `<button type="button" data-wq-opt="${i}:${oi}"
-                  class="w-full text-left px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(this.lc({ en: o, bn: qq.optsBn[oi] }))}</button>`;
+                  class="w-full text-start px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(this.lc({ en: o, bn: qq.optsBn[oi] }))}</button>`;
               }).join('')}
             </div>
           </div>`;
@@ -666,7 +666,7 @@ class SalahModule {
           cls = 'bg-primary/10 border-primary text-primary';
         }
         return `<button type="button" data-salah-quiz-opt="${qi}:${oi}"
-          class="w-full text-left px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(this.lc(o))}${mark}</button>`;
+          class="w-full text-start px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(this.lc(o))}${mark}</button>`;
       }).join('');
       return `
         <div class="p-3 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
@@ -692,7 +692,7 @@ class SalahModule {
     return `
       <div class="text-center mb-4">
         <p class="text-xs text-gray-400 dark:text-gray-500" dir="auto">${this.esc(this.tt('salah_quiz_intro'))}
-          <span class="ml-2">· ${this.esc(this.tt('salah_quiz_best'))}: ${this.quizBest} / ${total}</span></p>
+          <span class="ms-2">· ${this.esc(this.tt('salah_quiz_best'))}: ${this.quizBest} / ${total}</span></p>
       </div>
       <div class="space-y-3">${questions}</div>
       ${footer}`;

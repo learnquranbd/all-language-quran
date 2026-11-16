@@ -71,9 +71,24 @@ const TAFSIR_SOURCES = {
   zh: [
     { slug: 'chinese-mokhtasar', name: '古兰经简明注释 (Al-Mukhtasar)' }
   ]
-  // ms/de have no published al-Mukhtasar edition → fall back to the English
-  // list plus the Arabic classics (see sourcesFor / populateSources).
+  // ms/de have no published al-Mukhtasar edition: see sourcesFor (ms gets the
+  // Indonesian al-Mukhtasar first, then the English list; de gets the English
+  // list) plus the Arabic classics, with a t('tafsir_no_edition') notice.
 };
+
+/**
+ * Sources bundled offline as data/tafsir/<key>.json. Only these are looked up
+ * locally; every other source goes straight to its CDN/API (no 404 probe).
+ * Keep in sync with the files in data/tafsir/.
+ */
+const TAFSIR_BUNDLED = new Set(['16', '160', '164', '165', '169', '170',
+  'chinese-mokhtasar', 'japanese-mokhtasar']);
+
+/** spa5k/tafsir_api hosts, tried in order (jsdelivr, then GitHub raw). */
+const TAFSIR_SLUG_HOSTS = [
+  'https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/',
+  'https://raw.githubusercontent.com/spa5k/tafsir_api/main/tafsir/'
+];
 
 /** Stable string key for a source: the slug, or the quran.com id as text. */
 function tafsirKey(src) {
@@ -276,9 +291,21 @@ class TafseerView {
     document.head.appendChild(style);
   }
 
-  /** Native tafsir list for a UI language (fr/id/tr fall back to English). */
+  /**
+   * Native tafsir list for a UI language. ms/de have no edition of their own:
+   * ms is offered the Indonesian al-Mukhtasar first (mutually intelligible),
+   * then the English list; de (and any other) falls back to English.
+   */
   sourcesFor(lang) {
-    return TAFSIR_SOURCES[lang] || TAFSIR_SOURCES.en;
+    if (TAFSIR_SOURCES[lang]) return TAFSIR_SOURCES[lang];
+    if (lang === 'ms') return [TAFSIR_SOURCES.id[0]].concat(TAFSIR_SOURCES.en);
+    return TAFSIR_SOURCES.en;
+  }
+
+  /** One-line notice when the UI language has no edition and English is shown. */
+  noEditionHtml(lang) {
+    if (TAFSIR_SOURCES[lang] || TAFSIR_ID_LANG[this.selectedTafsirId()] !== 'en') return '';
+    return `<p class="mb-3 text-xs text-amber-700 dark:text-amber-300">${t('tafsir_no_edition', lang)}</p>`;
   }
 
   populateSources() {
@@ -307,13 +334,17 @@ class TafseerView {
       this.select.appendChild(group);
     }
 
-    // Keep the previous choice, else fall back to the source remembered for
-    // this language, else leave the first option selected.
+    // Keep the previous choice only when it is one of this language's own
+    // sources or the one saved for this language (an Arabic classic picked
+    // under ar must not carry over to fr); else the saved source; else the
+    // first (native) option.
     const has = (val) => val && [...this.select.options].some(o => o.value === val);
+    const native = this.sourcesFor(lang).map(tafsirKey);
     let saved = null;
     try { saved = localStorage.getItem('tafsirSource:' + lang); } catch (e) { /* ignore */ }
-    if (has(previous)) this.select.value = previous;
+    if (has(previous) && (native.includes(previous) || previous === saved)) this.select.value = previous;
     else if (has(saved)) this.select.value = saved;
+    else if (this.select.options.length) this.select.selectedIndex = 0;
   }
 
   /** Shared <option>/<optgroup> markup for the primary + compare selects. */
@@ -338,8 +369,9 @@ class TafseerView {
     const primary = this.selectedTafsirId();
     let stored = null;
     try { stored = localStorage.getItem('tafsirCompareId'); } catch (e) { /* ignore */ }
-    if (stored && stored !== primary) return stored;
     const list = this.sourcesFor(this.language).concat(TAFSIR_SOURCES.ar);
+    // The stored id is global: use it only if this language's list offers it.
+    if (stored && stored !== primary && list.some(s => tafsirKey(s) === stored)) return stored;
     const alt = list.find(s => tafsirKey(s) !== primary);
     return alt ? tafsirKey(alt) : primary;
   }
@@ -376,6 +408,7 @@ class TafseerView {
    * source isn't bundled offline (then fetchTafsir falls back to the live API).
    */
   getLocalTafsir(tafsirId) {
+    if (!TAFSIR_BUNDLED.has(String(tafsirId))) return Promise.resolve(null);
     if (!this._localTafsir) this._localTafsir = {};
     if (!(tafsirId in this._localTafsir)) {
       this._localTafsir[tafsirId] = fetch(`data/tafsir/${tafsirId}.json`)
@@ -391,8 +424,9 @@ class TafseerView {
     if (this.cache.has(cacheKey)) return this.cache.get(cacheKey);
 
     // spa5k/tafsir_api sources (slug-keyed): check offline bundle first, then
-    // fall back to the jsdelivr CDN. The service worker caches cross-origin
-    // GETs, so once viewed, slug tafsir also becomes available offline.
+    // the jsdelivr CDN, then GitHub raw (jsdelivr intermittently 403s on this
+    // >50 MB package). The service worker caches cross-origin GETs, so once
+    // viewed, slug tafsir also becomes available offline.
     if (isTafsirSlug(tafsirId)) {
       // Offline-first: try the bundled slug tafsir (data/tafsir/<slug>.json)
       try {
@@ -408,12 +442,17 @@ class TafseerView {
       } catch (e) { /* fall through to CDN */ }
 
       const [s, a] = verseKey.split(':');
-      const url = `https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/${tafsirId}/${s}/${a}.json`;
-      const promise = fetch(url)
+      const path = `${tafsirId}/${s}/${a}.json`;
+      const fetchFrom = (i) => fetch(TAFSIR_SLUG_HOSTS[i] + path)
         .then(r => {
           if (!r.ok) throw new Error(`Tafsir request failed (${r.status})`);
           return r.json();
         })
+        .catch(err => {
+          if (i + 1 < TAFSIR_SLUG_HOSTS.length) return fetchFrom(i + 1);
+          throw err;
+        });
+      const promise = fetchFrom(0)
         .then(data => {
           const txt = data && data.text;
           if (typeof txt !== 'string' || !txt.trim()) return null;
@@ -511,7 +550,7 @@ class TafseerView {
 
   /** Full in-pane header: outline strip (jump-to-ayah) + control toolbar. */
   headerHtml(lang) {
-    return this.bookmarksBarHtml(lang) + this.outlineHtml(lang) +
+    return this.noEditionHtml(lang) + this.bookmarksBarHtml(lang) + this.outlineHtml(lang) +
            this.toolbarHtml(lang) + this.compareBarHtml(lang);
   }
 
@@ -552,9 +591,9 @@ class TafseerView {
         <span class="w-px h-5 bg-gray-200 dark:bg-gray-600 mx-1"></span>
         <span class="text-xs text-gray-400 mx-1" title="${t('reading_width', lang)}">${t('reading_width', lang)}</span>
         ${btn(`data-tafsir-width="1" aria-label="${t('reading_width', lang)}"`, this.readingWidth() === 'narrow' ? '↔' : '⇥')}
-        <span class="ml-auto text-xs text-gray-400 mr-1">${t('font_size', lang)}</span>
-        ${btn(`data-tafsir-font="-1" aria-label="${t('font_size', lang)}"`, 'A-')}
-        ${btn(`data-tafsir-font="1" aria-label="${t('font_size', lang)}"`, 'A+')}
+        <span class="ms-auto text-xs text-gray-400 me-1">${t('font_size', lang)}</span>
+        ${btn(`data-tafsir-font="-1" aria-label="${t('font_smaller', lang)}" title="${t('font_smaller', lang)}"`, 'A-')}
+        ${btn(`data-tafsir-font="1" aria-label="${t('font_larger', lang)}" title="${t('font_larger', lang)}"`, 'A+')}
       </div>`;
   }
 
@@ -673,11 +712,14 @@ class TafseerView {
 
   ayahHeaderHtml(ayah, withCopy = true) {
     // withCopy=false inside the accordion toggle (a button can't nest a button)
+    // Surah name resolved at display time (the verse object caches names.en).
+    const name = (typeof getSurahName === 'function' && ayah.surah &&
+                  getSurahName(ayah.surah, this.language)) || ayah.surahName || '';
     return `
       <div class="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400 flex-1">
         <span class="ayah-number">${ayah.ayah}</span>
-        <span>${ayah.surahName} ${ayah.key}</span>
-        ${withCopy ? `<span class="ml-auto flex items-center gap-1">${this.cardActionsHtml(ayah.key)}</span>` : ''}
+        <span>${name} <bdi dir="ltr">${ayah.key}</bdi></span>
+        ${withCopy ? `<span class="ms-auto flex items-center gap-1">${this.cardActionsHtml(ayah.key)}</span>` : ''}
       </div>
     `;
   }
@@ -734,7 +776,7 @@ class TafseerView {
           <span aria-hidden="true">${icon}</span>${t(key, lang)}</button>`;
     return `
       <div class="flex flex-wrap items-center gap-1.5 mt-3 pt-3 border-t border-gray-100 dark:border-gray-700">
-        <span class="text-xs text-gray-400 mr-1">${t('related_tools', lang)}</span>
+        <span class="text-xs text-gray-400 me-1">${t('related_tools', lang)}</span>
         ${btn('preview', '👁️', 'preview')}
         ${btn('wordbyword', '🔤', 'word_by_word')}
         ${btn('grammar', '🧩', 'grammar')}
@@ -910,6 +952,17 @@ class TafseerView {
         return false;
       }
 
+      // Grouped slug editions repeat one commentary on every verse of the
+      // group: show it once, and point the later verses back to it.
+      const lead = await this.repeatOfKey(tafsirId, verseKey, tafsir.text);
+      if (token !== this.renderToken) return false;
+      if (lead) {
+        body.innerHTML = `<p class="text-sm text-gray-500 dark:text-gray-400">↑
+          <button type="button" data-tafsir-jump="${lead}"
+                  class="underline hover:text-primary">${t('open_verse', lang)} <bdi dir="ltr">${lead}</bdi></button></p>`;
+        return true;
+      }
+
       body.innerHTML = tafsir.text;
       if (tafsir.resourceName) {
         const credit = document.createElement('p');
@@ -926,10 +979,32 @@ class TafseerView {
         <div class="text-sm text-gray-400">
           <p class="mb-2">${t('tafsir_load_error', lang)}</p>
           <button data-tafsir-retry="1"
-                  class="px-3 py-1 rounded-md border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">${t('retry', lang)}</button>
+                  class="px-3 py-1 rounded-md border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">${t('retry_load', lang)}</button>
         </div>`;
       return false;
     }
+  }
+
+  /**
+   * For a grouped slug edition (As-Saadi: one commentary per verse group,
+   * repeated verbatim on each verse), return the earliest loaded verse of the
+   * same surah carrying the identical text, else null. Walks back over the
+   * loaded verses only, so it never reaches a card the reader cannot open.
+   */
+  async repeatOfKey(tafsirId, verseKey, text) {
+    if (!isTafsirSlug(tafsirId) || !/as-saadi/.test(tafsirId) || !text) return null;
+    const [s, a] = verseKey.split(':').map(Number);
+    const loaded = new Set(this.ayahs.map(x => x.key));
+    let first = null;
+    for (let x = a - 1; x >= 1; x--) {
+      const k = `${s}:${x}`;
+      if (!loaded.has(k)) break;
+      let prev;
+      try { prev = await this.fetchTafsir(tafsirId, k); } catch (e) { break; }
+      if (!prev || prev.text !== text) break;
+      first = k;
+    }
+    return first;
   }
 
   /** Pulsing placeholder lines shown while a tafsir entry is being fetched. */

@@ -679,7 +679,7 @@ const TRANSLATIONS = {
    "rec_correct": "Correct",
    "rec_wrong": "Needs review",
    "rec_summary": "{ok} correct · {wrong} to review",
-   "rec_privacy": "Your recording stays on this device and is never uploaded or saved.",
+   "rec_privacy": "Your recording stays on this device and is never uploaded. Use Download to keep a copy.",
    "rec_mic_denied": "Microphone access is needed to record. Please allow it and try again.",
    "rec_unsupported": "Recording isn't supported in this browser.",
    "mutashabihat_title": "Similar Verses",
@@ -1568,7 +1568,7 @@ const TRANSLATIONS = {
    "nuzul_view_themes": "Themes",
    "nuzul_view_timeline": "Timeline",
    "nuzul_themes_intro": "Browse sūrahs grouped by dominant theme. A sūrah may appear under more than one theme.",
-   "nuzul_timeline_intro": "Six revelation phases from the first waḥy in Ḥirāʾ to the completion of the Qurʾānic message.",
+   "nuzul_timeline_intro": "Four revelation phases from the first waḥy in Ḥirāʾ to the completion of the Qurʾānic message.",
    "nuzul_rev_neighbors": "Neighbors in Revelation Order",
    "nuzul_first_last_rev": "Revelation Position",
    "nuzul_asbab_count": "asbāb entries",
@@ -1713,7 +1713,7 @@ const TRANSLATIONS = {
    "wm_f_vocab_h": "Quranic vocabulary",
    "wm_f_vocab_b": "The words that recur most, grouped by theme, with spaced-repetition practice.",
    "wm_f_arabic_h": "Quranic Arabic course",
-   "wm_f_arabic_b": "Grammar from the alphabet upward — 74 lessons, iʿrāb exercises and a glossary.",
+   "wm_f_arabic_b": "Grammar from the alphabet upward — over 400 lessons, iʿrāb exercises and a glossary.",
    "wm_f_seerah_h": "Seerah",
    "wm_f_seerah_b": "The life of the Prophet ﷺ as a timeline, with places, lessons and a quiz.",
    "wm_f_prophets_h": "Prophets & Messengers",
@@ -1729,7 +1729,7 @@ const TRANSLATIONS = {
    "wm_f_sahaba_b": "127 Companions of the Prophet ﷺ, each with a full-length article.",
    "wm_f_places_b": "53 places on a map, with 12 journeys drawn as routes.",
    "wm_f_tadabbur_h": "Tadabbur — reflect",
-   "wm_f_tadabbur_b": "1,061 reflection-worthy verses, each with a note to ponder and a full-length article.",
+   "wm_f_tadabbur_b": "More than a thousand reflection-worthy verses, each with a note to ponder and a full-length article.",
    "wm_offline": "Everything works offline once loaded — install it to your home screen and read without a connection.",
    "wm_start": "Start reading",
    "wm_reopen": "About this app",
@@ -1837,7 +1837,211 @@ const TRANSLATIONS = {
    "islam_makruh_title": "Makruh (Discouraged)",
    "islam_mustahabb_title": "Mustahabb (Recommended)",
    "prophets_title": "Prophets & Messengers",
-   "group_prophets": "Prophets & Messengers"
+   "group_prophets": "Prophets & Messengers",
+   "open_tadabbur_of": "Open the Tadabbur of {ref}",
+   "n_verses": "{n} verses",
+   "n_verses_one": "{n} verse",
+   "retry_load": "Retry",
+   "font_smaller": "Smaller text",
+   "font_larger": "Larger text",
+   "rec_no_ayahs": "No verses in this selection.",
+   "typemem_backspace": "Delete last letter",
+   "mem_tap_word_hint": "After reciting, tap any word to compare it with what you said and hear both recordings",
+   "tj_group_ra": "Ra' Rules",
+   "tj_letters_izhar_shafawi": "26 letters (all except ب م)",
+   "tj_letters_same_x2": "same letter ×2",
+   "kids_stories_intro": "Pick a story — read and learn!",
+   "kids_adab_intro": "Islamic manners for children",
+   "res_80_words_course": "80% words course",
+   "hw_similar_letters": "Similar letters:",
+   "hw_practice_sequence": "Recommended Practice Sequence",
+   "hw_writing_tips": "Writing Tips",
+   "hw_fundamentals": "Writing Fundamentals",
+   "hw_common_words": "Writing common Quranic words",
+   "hw_common_mistakes": "Common beginner mistakes",
+   "hw_placement": "Placement:",
+   "hw_sound": "Sound:",
+   "hw_harakat": "Harakat & Sukūn (Diacritics)",
+   "hw_fatiha_guide": "Sūrat al-Fātiḥa — Verse-by-Verse Stroke Guide",
+   "hw_kufi_notes": "Letter-by-letter Kufi notes",
+   "hw_scripts_title": "Five Major Arabic Calligraphic Scripts",
+   "hw_scripts_sub": "The five major Arabic calligraphic scripts encountered in various contexts — with notes on their distinguishing traits and Quranic usage.",
+   "mushaf_edition": "Mushaf edition",
+   "mushaf_warsh_note": "Warsh riwayah — a different qiraah",
+   "dua_sec_prophets": "Prophets' Du'ās",
+   "dua_sec_protection": "Protection Du'ās",
+   "dua_sec_gratitude": "Gratitude Du'ās",
+   "dua_sec_hardship": "Hardship Du'ās",
+   "dua_sec_travel": "Travel Du'ās",
+   "dua_sec_family": "Family & Progeny Du'ās",
+   "dua_sec_knowledge": "Knowledge Du'ās",
+   "dua_sec_wealth": "Provision & Wealth Du'ās",
+   "dua_sec_morning_evening": "Morning & Evening Quranic Du'ās",
+   "mt_intro_ref_sub": "the Quran's own distinction",
+   "seerah_view_conduct": "As He Was",
+   "seerah_conduct_title": "As He Was: his conduct with every kind of person",
+   "seerah_conduct_intro": "How the Prophet ﷺ treated the elderly, children, the poor, the rich, his family, strangers and even his enemies, drawn from confirmed hadith. Tap any category to read.",
+   "seerah_conduct_g_family": "His Family",
+   "seerah_conduct_g_vulnerable": "The Vulnerable",
+   "seerah_conduct_g_society": "Society",
+   "seerah_conduct_g_faith": "Faith and Opposition",
+   "seerah_conduct_g_creation": "All Creation",
+   "year_ce": "{y} CE",
+   "year_ah": "{y} AH",
+   "year_circa": "c. {y}",
+   "article_minutes": "{n} min",
+   "article_en_only": "This article is available in English and Bengali only for now.",
+   "prophet_honorific": "(AS)",
+   "qa_lesson_of": "Lesson {n} of {total}",
+   "tad_themes": "Themes",
+   "qa_label_q": "Q",
+   "quiz_seconds": "{n}s",
+   "nuzul_revealed": "revealed",
+   "nuzul_of_114": "of 114",
+   "nuzul_spans": "Spans āyāt {from}–{to}",
+   "nuzul_revealed_before": "revealed before",
+   "nuzul_revealed_after": "revealed after",
+   "nuzul_surahs": "{n} sūrahs",
+   "nuzul_surahs_one": "{n} sūrah",
+   "nuzul_loading_phase": "Loading phase data…",
+   "nuzul_revelation_order": "Revelation order",
+   "toggle_sidebar": "Toggle sidebar",
+   "go_to_top": "Go to top",
+   "home_title": "Home",
+   "seerah_timeline_graph": "Timeline graph",
+   "seerah_hijra_map": "Abstract Hijra route map",
+   "seerah_battle_diagram": "Abstract battle diagram",
+   "irab_source": "Source: corpus.quran.com",
+   "irab_english_only": "This analysis is available in English only.",
+   "tafsir_no_edition": "No edition in your language. Showing English.",
+   "wr_showing_of": "Showing {n} of {total}",
+   "mushaf_pct_of": "{pct}% of the Quran",
+   "tj_learned_of": "{n} / {total} learned",
+   "tj_drill_best_of": "Best: {score} / {total}",
+   "typemem_ayat_done_n": "{n} verses done",
+   "typemem_ayat_done_n_one": "{n} verse done",
+   "mem_speech_summary": "{correct}/{total} · {secs}s · Best run {best}",
+   "wbw_occurrences_n": "{n} occurrences in the Quran",
+   "wbw_occurrences_n_one": "{n} occurrence in the Quran",
+   "topics_count_n": "{n} topics",
+   "topics_count_n_one": "{n} topic",
+   "mt_words_n": "{n} words",
+   "mt_words_n_one": "{n} word",
+   "mt_find_diff_n": "{n} words differ",
+   "mt_find_diff_n_one": "{n} word differs",
+   "khatmah_days_label_one": "{n} day",
+   "khatmah_ahead_one": "{n} day ahead",
+   "khatmah_behind_one": "{n} day behind — you can catch up!",
+   "khatmah_progress_one": "{done} of {total} day completed",
+   "gram_N": "Noun",
+   "gram_PN": "Proper noun",
+   "gram_ADJ": "Adjective",
+   "gram_V": "Verb",
+   "gram_P": "Particle",
+   "gram_PRON": "Pronoun",
+   "gram_DEM": "Demonstrative",
+   "gram_REL": "Relative pronoun",
+   "gram_T": "Time adverb",
+   "gram_LOC": "Location adverb",
+   "gram_NUM": "Number",
+   "gram_DET": "Definite article (ال)",
+   "gram_PREF": "Prefix",
+   "gram_CONJ": "Conjunction",
+   "gram_SUB": "Subordinating conjunction",
+   "gram_NEG": "Negative particle",
+   "gram_INTG": "Interrogative",
+   "gram_VOC": "Vocative",
+   "gram_EMPH": "Emphatic",
+   "gram_COND": "Conditional",
+   "gram_ACC": "Accusative particle",
+   "gram_AMD": "Amendment particle",
+   "gram_ANS": "Answer particle",
+   "gram_AVR": "Aversion particle",
+   "gram_CAUS": "Causative",
+   "gram_CERT": "Certainty particle",
+   "gram_CIRC": "Circumstantial",
+   "gram_COM": "Comitative",
+   "gram_EXH": "Exhortation",
+   "gram_EXL": "Explanation",
+   "gram_EXP": "Exceptive",
+   "gram_FUT": "Future",
+   "gram_INC": "Inceptive",
+   "gram_INT": "Interpretation",
+   "gram_PREV": "Preventive",
+   "gram_PRO": "Prohibition",
+   "gram_PRP": "Purpose",
+   "gram_REM": "Resumption",
+   "gram_RES": "Restriction",
+   "gram_RET": "Retraction",
+   "gram_RSLT": "Result",
+   "gram_SUP": "Supplemental",
+   "gram_SUR": "Surprise",
+   "gram_INL": "Quranic initials",
+   "gram_EQ": "Equalization particle",
+   "gram_IMPN": "Imperative verbal noun",
+   "gram_ACT_PCPL": "Active participle",
+   "gram_PASS_PCPL": "Passive participle",
+   "gram_VN": "Verbal noun",
+   "gram_PERF": "Perfect (past)",
+   "gram_IMPF": "Imperfect (present)",
+   "gram_IMPV": "Imperative",
+   "gram_PASS": "Passive voice",
+   "gram_MOOD_IND": "Indicative",
+   "gram_MOOD_SUBJ": "Subjunctive",
+   "gram_MOOD_JUS": "Jussive",
+   "gram_NOM": "Nominative (مرفوع)",
+   "gram_GEN": "Genitive (مجرور)",
+   "gram_ACC_case": "Accusative (منصوب)",
+   "gram_DIST": "Distal",
+   "gram_ATT": "Attention particle",
+   "gram_OBJ": "Object",
+   "gram_SUFF": "Suffix",
+   "gram_INDEF": "Indefinite",
+   "gram_ADDR": "Addressee suffix",
+   "gram_NV": "Verb-like noun (ism fiʿl)",
+   "gram_FAM_inna": "Family of inna (إنّ وأخواتها)",
+   "gram_FAM_kana": "Family of kāna (كان وأخواتها)",
+   "gram_FAM_kada": "Family of kāda (كاد وأخواتها)",
+   "gram_verb_form": "Verb form {n}",
+   "gram_d_p1": "1st person",
+   "gram_d_p2": "2nd person",
+   "gram_d_p3": "3rd person",
+   "gram_d_masc": "masculine",
+   "gram_d_fem": "feminine",
+   "gram_d_sing": "singular",
+   "gram_d_dual": "dual",
+   "gram_d_plur": "plural",
+   "gram_d_nom": "nominative",
+   "gram_d_acc": "accusative",
+   "gram_d_gen": "genitive",
+   "gram_d_passive": "passive",
+   "gram_d_perfect": "perfect",
+   "gram_d_imperfect": "imperfect",
+   "gram_d_imperative": "imperative",
+   "gram_d_form": "(form {n})",
+   "gram_d_mood_ind": "indicative mood",
+   "gram_d_mood_subj": "subjunctive mood",
+   "gram_d_mood_jus": "jussive mood",
+   "gram_d_noun": "noun",
+   "gram_d_proper_noun": "proper noun",
+   "gram_d_adjective": "adjective",
+   "gram_d_act_pcpl": "active participle",
+   "gram_d_pass_pcpl": "passive participle",
+   "gram_d_vn": "verbal noun",
+   "gram_d_pronoun": "pronoun",
+   "gram_d_attached_pronoun": "attached pronoun",
+   "gram_d_personal_pronoun": "personal pronoun",
+   "gram_d_demonstrative": "demonstrative pronoun",
+   "gram_d_relative": "relative pronoun",
+   "gram_d_det": "prefixed determiner ال (the)",
+   "gram_d_preposition": "preposition",
+   "gram_d_particle": "particle",
+   "gram_tpl_pgn": "{person} {gender} {number}",
+   "gram_tpl_verb": "{pgn} {voice} {aspect} verb {form}",
+   "gram_tpl_verb_mood": "{verb}, {mood}",
+   "gram_tpl_noun": "{case} {pgn} {kind}",
+   "gram_tpl_pron": "{kind} — {pgn}",
+   "gram_tpl_prefixed": "prefixed {x}"
   }
 };
 
@@ -1862,6 +2066,70 @@ function t(key, lang = 'en') {
 }
 
 /**
+ * True when the language's own pack carries the key. t() cannot tell you this
+ * because it silently falls back to English. Module helpers with their own
+ * local fallback maps (prophets, sahaba, nuzul) use it to decide whether to
+ * consult the pack or their own table.
+ */
+function hasKey(key, lang = 'en') {
+  const pack = TRANSLATIONS[lang];
+  return !!pack && Object.prototype.hasOwnProperty.call(pack, key) && !!pack[key];
+}
+
+/* Replace {name} placeholders. Unknown placeholders are left as they are. */
+function __lqFill(str, vars) {
+  if (!vars) return str;
+  return String(str).replace(/\{(\w+)\}/g, (m, name) =>
+    (vars[name] === undefined || vars[name] === null) ? m : String(vars[name]));
+}
+
+/**
+ * t() plus placeholder substitution:
+ *   tFill('qa_lesson_of', lang, { n: 3, total: 443 })  ->  "Lesson 3 of 443"
+ * Values are inserted as given, so pass already-formatted (localised-digit,
+ * escaped) strings when the template is rendered as HTML.
+ */
+function tFill(key, lang = 'en', vars) {
+  return __lqFill(t(key, lang), vars);
+}
+
+/**
+ * Plural-aware t(): picks `${key}_${category}` from the language's own pack,
+ * where category is Intl.PluralRules(lang).select(n) (zero, one, two, few,
+ * many, other), then falls back to `${key}`. {n} is filled with n unless
+ * vars.n is given (use that for localised digits).
+ *   tPlural('n_verses', 1, 'en')          -> "1 verse"
+ *   tPlural('n_verses', 5, 'ru')          -> "5 аятов"
+ *   tPlural('khatmah_progress', total, lang, { done, total })
+ * Variants are looked up only in the pack that owns the base key, so a pack
+ * without a `_few` form never borrows the English `_one`.
+ */
+function tPlural(key, n, lang = 'en', vars) {
+  let pack = TRANSLATIONS[lang];
+  let pl = lang;
+  if (!pack || !pack[key]) { pack = TRANSLATIONS.en; pl = 'en'; }
+  let cat = 'other';
+  try { cat = new Intl.PluralRules(pl).select(Number(n)); } catch (e) { /* old engine: base form */ }
+  const str = pack[key + '_' + cat] || pack[key] || key;
+  return __lqFill(str, Object.assign({ n: n }, vars || {}));
+}
+
+/**
+ * tFill() for composed grammar phrases (gram_tpl_*). Slots left empty drop out
+ * together with their separator: no doubled spaces, no dangling ", " / "، " /
+ * " — ", no empty "()" or "（）".
+ */
+function tCompose(key, lang = 'en', vars) {
+  return tFill(key, lang, vars)
+    .replace(/\(\s*\)|（\s*）/g, '')
+    .replace(/\s*[,،、，—]\s*(?=[,،、，—)）]|$)/g, '')
+    .replace(/^\s*[,،、，—]\s*/, '')
+    .replace(/\s+([,،、，)）])/g, '$1')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+
+/**
  * Check if language is RTL
  * @param {string} lang
  * @returns {boolean}
@@ -1881,6 +2149,14 @@ function applyTranslations(lang = 'en') {
     el.textContent = t(key, lang);
   });
 
+  // Attribute-only strings: tooltips and screen-reader labels.
+  document.querySelectorAll('[data-lang-title]').forEach(el => {
+    el.title = t(el.getAttribute('data-lang-title'), lang);
+  });
+  document.querySelectorAll('[data-lang-aria]').forEach(el => {
+    if (el.setAttribute) el.setAttribute('aria-label', t(el.getAttribute('data-lang-aria'), lang));
+  });
+
   // Update page direction for RTL languages
   document.documentElement.dir = isRTL(lang) ? 'rtl' : 'ltr';
   document.documentElement.lang = lang;
@@ -1888,7 +2164,7 @@ function applyTranslations(lang = 'en') {
 
 // Export for module usage
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { TRANSLATIONS, t, isRTL, applyTranslations };
+  module.exports = { TRANSLATIONS, t, hasKey, tFill, tPlural, tCompose, isRTL, applyTranslations };
 }
 
 

@@ -28,7 +28,9 @@ class AyahTimeline {
     // fill() uses the new one — close instead of showing mixed-language rows.
     try {
       window.addEventListener('settingChanged', (e) => {
-        if (e && e.detail && e.detail.key === 'language') this.close();
+        // A content-i18n pack load re-announces the same language; only a real
+        // language switch closes the overlay.
+        if (e && e.detail && e.detail.key === 'language' && !e.detail.contentI18n) this.close();
       });
     } catch (_) { /* ignore */ }
   }
@@ -75,13 +77,33 @@ class AyahTimeline {
     } catch (_) { this._words = null; }
     return this._words;
   }
+  /** Arabic readers get no translation line (data/translations/ar.json is
+   *  deliberately `{}`, and the verse modal shows none for ar), so the
+   *  timeline must not fall back to English for them. */
+  noTranslationLine(lang) { return lang === 'ar'; }
+
+  /** Some bundled translations (tr, ru) carry HTML entities such as &quot;;
+   *  the text is set via textContent, so decode them first. */
+  decodeEntities(s) {
+    if (!s || String(s).indexOf('&') === -1) return s;
+    const named = { quot: '"', amp: '&', apos: "'", lt: '<', gt: '>', nbsp: '\u00a0' };
+    return String(s).replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (m, e) => {
+      if (e[0] === '#') {
+        const cp = (e[1] === 'x' || e[1] === 'X') ? parseInt(e.slice(2), 16) : parseInt(e.slice(1), 10);
+        try { return String.fromCodePoint(cp); } catch (_) { return m; }
+      }
+      const v = named[e.toLowerCase()];
+      return v === undefined ? m : v;
+    });
+  }
+
   async trFile(lang) {
     if (this._trFiles[lang] !== undefined) return this._trFiles[lang];
+    if (this.noTranslationLine(lang)) { this._trFiles[lang] = null; return null; }
     try {
-      /* An empty dictionary counts as absent: data/translations/ar.json is
-       * deliberately `{}` (Arabic readers need no translation line) and `{}`
-       * is truthy, so without this every caller keeps a dictionary with no
-       * entries and renders blank translations instead of falling back. */
+      /* An empty dictionary counts as absent, so a language whose file is
+       * missing or empty falls back to English in fill(). Arabic never gets
+       * here (see noTranslationLine). */
       this._trFiles[lang] = await fetch(`data/translations/${lang}.json`)
         .then(r => (r.ok ? r.json() : null))
         .then(d => (d && typeof d === 'object' && Object.keys(d).length ? d : null));
@@ -109,8 +131,8 @@ class AyahTimeline {
     // distinctive about this verse's wording).
     const note = (this._paging && this._paging.notes) ? this._paging.notes[first] : null;
     return `
-        <li class="relative pl-5 pb-5 border-l-2 border-primary/25 ml-2 last:pb-1">
-          <span class="absolute -left-[7px] top-1 w-3 h-3 rounded-full bg-primary/70 border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
+        <li class="relative ps-5 pb-5 border-s-2 border-primary/25 ms-2 last:pb-1">
+          <span class="absolute -start-[7px] top-1 w-3 h-3 rounded-full bg-primary/70 border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
           <button data-at-ref="${this.esc(first)}" title="${this.esc(first)}"
             class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md bg-gray-100 dark:bg-gray-700/60 text-xs font-medium text-gray-700 dark:text-gray-200 hover:bg-primary/10 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
             ${this.esc(this.surahName(s))} <span class="text-gray-400 dark:text-gray-500">${this.esc(ref)}</span> <span aria-hidden="true">↗</span>
@@ -169,9 +191,9 @@ class AyahTimeline {
             <div class="font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(o.title || '')}</div>
             ${o.titleAr ? `<div class="ayah-arabic !text-base !leading-snug !border-b-0 !pb-0 text-gray-500 dark:text-gray-400 mt-0.5" dir="rtl">${this.esc(o.titleAr)}</div>` : ''}
           </div>
-          <span class="shrink-0 px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 text-[0.65rem] font-medium">${refs.length} ${this.esc(this.tt('mt_group_verses_label'))}</span>
+          <span class="shrink-0 px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 text-[0.65rem] font-medium">${this.esc((typeof tPlural === 'function') ? tPlural('n_verses', refs.length, this.lang()) : `${refs.length} ${this.tt('mt_group_verses_label')}`)}</span>
           <button data-at-close aria-label="${this.esc(this.tt('close'))}"
-            class="shrink-0 w-8 h-8 -mt-1 -mr-1 inline-flex items-center justify-center rounded-full text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">✕</button>
+            class="shrink-0 w-8 h-8 -mt-1 -me-1 inline-flex items-center justify-center rounded-full text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">✕</button>
         </div>
         <div data-lq-autolink class="overflow-y-auto p-4 pt-3">
           ${o.subtitle ? `<p class="text-xs text-gray-500 dark:text-gray-400 mb-4 leading-relaxed" dir="auto">${this.esc(o.subtitle)}</p>` : ''}
@@ -232,13 +254,14 @@ class AyahTimeline {
       }
     }
     const lang = this.lang();
+    if (this.noTranslationLine(lang)) return;
     let dict = await this.trFile(lang);
     if (!dict && lang !== 'en') dict = await this.trFile('en');
     if (this._el !== el || !dict) return;
     for (const ref of refs) {
       const first = String(ref).split('-')[0];
       const node = el.querySelector(`[data-at-tr="${first}"]`);
-      if (node && dict[first]) node.textContent = dict[first];
+      if (node && dict[first]) node.textContent = this.decodeEntities(dict[first]);
     }
   }
 }

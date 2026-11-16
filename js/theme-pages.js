@@ -49,6 +49,14 @@ var THEME_EMOJI = {
 /** i18n key for a page title: 'allah-loves' -> 'th_allah_loves'. */
 function themeTitleKey(id) { return 'th_' + String(id).replace(/-/g, '_'); }
 
+/* Descriptor notes inside source titles ("Tafsir Ibn Kathir (abridged, English)").
+ * The book title stays as written; only the note in brackets is localised. */
+var THEME_SRC_NOTES = {
+  'abridged, english': { en: 'abridged, English', bn: 'সংক্ষিপ্ত, ইংরেজি' },
+  'abridged english': { en: 'abridged, English', bn: 'সংক্ষিপ্ত, ইংরেজি' },
+  'arabic': { en: 'Arabic', bn: 'আরবি' },
+};
+
 class ThemePages {
   constructor() {
     this.language = (typeof appSettings !== 'undefined' && appSettings)
@@ -104,6 +112,16 @@ class ThemePages {
       try { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; } catch (_) { /* fall through */ }
     }
     return o.en || o.bn || '';
+  }
+
+  /** One source line: a string or {en, bn}; a known bracketed note is localised. */
+  sourceLabel(src) {
+    if (src && typeof src === 'object') return this.lc(src);
+    const str = String(src == null ? '' : src);
+    if (!this.language || this.language === 'en') return str;
+    const m = str.match(/^(.*\S)\s*\(([^()]+)\)\s*$/);
+    const note = m && THEME_SRC_NOTES[m[2].trim().toLowerCase()];
+    return note ? `${m[1]} (${this.lc(note)})` : str;
   }
 
   esc(s) {
@@ -444,7 +462,7 @@ class ThemePages {
 
     box.innerHTML = `
       <article class="max-w-4xl mx-auto">
-        ${group ? `<button data-th-go="${group.id}" class="text-sm text-gray-500 dark:text-gray-400 hover:text-primary mb-3">← ${group.emoji} ${this.esc(this.tt(group.label))}</button>` : ''}
+        ${group ? `<button data-th-go="${group.id}" class="text-sm text-gray-500 dark:text-gray-400 hover:text-primary mb-3"><span aria-hidden="true">${(typeof isRTL === 'function' && isRTL(this.language)) ? '→' : '←'}</span> ${group.emoji} ${this.esc(this.tt(group.label))}</button>` : ''}
         <header class="rounded-2xl border border-emerald-200 dark:border-emerald-900/50 bg-gradient-to-br from-emerald-50 via-white to-sky-50 dark:from-gray-800 dark:via-gray-800 dark:to-gray-800 p-5 mb-5">
           <div class="flex items-start gap-3">
             <div class="text-4xl leading-none">${THEME_EMOJI[id] || '📖'}</div>
@@ -511,7 +529,7 @@ class ThemePages {
 
         ${(d.sources || []).length ? `
           <footer class="text-xs text-gray-400 border-t border-gray-200 dark:border-gray-700 pt-3 mb-6">
-            <span class="font-semibold">${this.esc(this.tt('th_sources'))}:</span> ${this.esc(d.sources.join(' · '))}
+            <span class="font-semibold">${this.esc(this.tt('th_sources'))}:</span> ${this.esc(d.sources.map((src) => this.sourceLabel(src)).filter(Boolean).join(' · '))}
           </footer>` : ''}
       </article>`;
   }

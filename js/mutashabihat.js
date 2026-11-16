@@ -65,6 +65,14 @@ class Mutashabihat {
 
   tt(key) { return t(key, this.language); }
   /**
+   * "{n} words" etc. with plural forms (Group K keys); falls back to the old
+   * "<n> <label>" concatenation when the plural helper or key is missing.
+   */
+  tn(key, n, labelKey) {
+    if (typeof tPlural === 'function' && t(key, this.language) !== key) return tPlural(key, n, this.language);
+    return `${n} ${this.tt(labelKey)}`;
+  }
+  /**
    * Localize an { en, bn } content pair to the active UI language.
    * bn → the Bangla field (falls back to en); en → en; any other language →
    * the CI18N content-translation if present, else the English source.
@@ -117,7 +125,7 @@ class Mutashabihat {
       ]);
       this.index = idx; this.words = wd;
     } catch (e) {
-      this.container.innerHTML = `<div class="text-center py-16 text-red-500">${this.tt('topics_load_error')}</div>`;
+      this.container.innerHTML = `<div class="text-center py-16 text-red-500">${this.tt('load_failed')}</div>`;
       return;
     }
     this.loaded = true;
@@ -302,7 +310,7 @@ class Mutashabihat {
   copyPair(key, btn) {
     const words = (this.words[key] || []).join(' ');
     const [s] = key.split(':');
-    const sims = (this.index[key] || []).map(x => x[0]).join('، ');
+    const sims = (this.index[key] || []).map(x => x[0]).join((typeof isRTL === 'function' && isRTL(this.language)) ? '، ' : ', ');
     const text = `${this.surahName(s)} ${key}\n${words}\n${this.tt('mutashabihat_similar')}: ${sims}`;
     const done = () => {
       if (!btn) return;
@@ -342,7 +350,7 @@ class Mutashabihat {
         <div class="ayah-arabic !text-xl !leading-[2.2] !border-b-0 !pb-0 text-amber-900 dark:text-amber-100 mb-2" dir="rtl">
           ${this.esc(this.tt('mt_intro_verse'))}
         </div>
-        <p class="text-xs text-amber-800 dark:text-amber-300 font-medium mb-2 italic">${this.tt('mt_intro_ref')} — the Quran's own distinction</p>
+        <p class="text-xs text-amber-800 dark:text-amber-300 font-medium mb-2 italic">${this.tt('mt_intro_ref')} — ${this.tt('mt_intro_ref_sub') !== 'mt_intro_ref_sub' ? this.tt('mt_intro_ref_sub') : "the Quran's own distinction"}</p>
         <p class="text-xs text-gray-700 dark:text-gray-300 leading-relaxed">${this.tt('mt_intro_body')}</p>
       </div>`;
   }
@@ -368,7 +376,7 @@ class Mutashabihat {
               <div class="font-semibold text-sm text-gray-800 dark:text-gray-100">${this.esc(this.L({ en: g.nameEn, bn: g.nameBn }))}</div>
               <div class="ayah-arabic !text-base !leading-snug !border-b-0 !pb-0 text-gray-500 dark:text-gray-400 mt-0.5" dir="rtl">${this.esc(g.nameAr)}</div>
             </div>
-            <span class="shrink-0 px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 text-[0.65rem] font-medium">${g.verses.length} ${this.tt('mt_group_verses_label')}</span>
+            <span class="shrink-0 px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 text-[0.65rem] font-medium">${this.esc(this.tn('n_verses', g.verses.length, 'mt_group_verses_label'))}</span>
           </div>
           <p class="text-xs text-gray-500 dark:text-gray-400 mb-3 leading-relaxed">${this.esc(this.L({ en: g.descEn, bn: g.descBn }))}</p>
           <div class="flex flex-wrap gap-1.5">${chips}<button data-mt-group-view="${g.id}"
@@ -779,8 +787,8 @@ class Mutashabihat {
     const cards = shown.map(r => {
       const [s, a] = r.key.split(':');
       const badge = f.match === 'shared'
-        ? `${r.len} ${this.tt('mt_words')}`
-        : (r.dist ? `${r.dist} ${this.tt('mt_find_diff')}` : this.tt('mt_find_exact'));
+        ? this.esc(this.tn('mt_words_n', r.len, 'mt_words'))
+        : (r.dist ? this.esc(this.tn('mt_find_diff_n', r.dist, 'mt_find_diff')) : this.tt('mt_find_exact'));
       const phrase = (this.words[r.key] || []).slice(r.start, r.start + r.len).join(' ');
       return `
         <div class="bg-white dark:bg-gray-800 rounded-xl shadow p-4">
@@ -804,7 +812,7 @@ class Mutashabihat {
       </div>
       <p class="text-xs text-gray-400 dark:text-gray-500 text-center mb-3">${
         f.match === 'close' ? this.tt('mt_find_close_d').replace('{k}', res.k)
-        : f.match === 'shared' ? this.tt('mt_find_shared_d') : this.tt('mt_find_exact_d')} · ${n} ${this.tt('mt_words')}</p>
+        : f.match === 'shared' ? this.tt('mt_find_shared_d') : this.tt('mt_find_exact_d')} · ${this.esc(this.tn('mt_words_n', n, 'mt_words'))}</p>
       ${list.length ? `<div class="flex justify-center mb-3"><button data-mt-f-timeline class="px-3 py-1.5 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${this.tt('mt_group_open_all')} · ${list.length}</button></div>` : ''}
       <div class="space-y-3">${cards || `<div class="text-center py-8 text-gray-400">${this.tt('mt_no_match')}</div>`}</div>
       ${list.length > f.shown ? `<div class="flex justify-center mt-3"><button data-mt-f-more class="px-4 py-2 rounded-lg border border-gray-200 dark:border-gray-700 text-sm hover:border-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.tt('mt_find_more')} (${list.length - f.shown})</button></div>` : ''}`;
@@ -962,11 +970,11 @@ class Mutashabihat {
     const tricky = this.isTricky(key);
     const chips = sims.map(([ref, len, start]) => {
       const [s] = ref.split(':');
-      return `<button data-mt-card-tl="${key}" title="${this.tt('mutashabihat_shared')}: ${len} ${this.tt('mt_words')}"
+      return `<button data-mt-card-tl="${key}" title="${this.esc(this.tt('mutashabihat_shared') + ': ' + this.tn('mt_words_n', len, 'mt_words'))}"
                 class="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-lg border border-gray-200 dark:border-gray-700 text-xs hover:border-primary hover:bg-primary/5 dark:hover:bg-primary/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
                 <span class="ayah-arabic !text-sm !mb-0 !pb-0 !border-b-0 !leading-none">${this.esc(this.shortName(s))}</span>
                 <span class="text-gray-500 dark:text-gray-400">${ref}</span>
-                <span class="text-[0.65rem] text-amber-600 dark:text-amber-400">${len} ${this.tt('mt_words')}</span>
+                <span class="text-[0.65rem] text-amber-600 dark:text-amber-400">${this.esc(this.tn('mt_words_n', len, 'mt_words'))}</span>
               </button>`;
     }).join('');
     return `

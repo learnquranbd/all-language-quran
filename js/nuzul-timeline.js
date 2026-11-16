@@ -12,7 +12,6 @@ const NUZUL_I18N = {
   nuzul_view_themes:    { en: 'Themes', bn: 'বিষয়ভিত্তিক', zh: '主题', ja: 'テーマ' },
   nuzul_view_timeline:  { en: 'Timeline', bn: 'কালরেখা', zh: '时间轴', ja: 'タイムライン' },
   nuzul_themes_intro:   { en: 'Browse sūrahs grouped by dominant theme. A sūrah may appear under more than one theme.', bn: 'প্রধান বিষয় অনুযায়ী সূরাসমূহ দেখুন। একটি সূরা একাধিক বিষয়ের অন্তর্ভুক্ত হতে পারে।', zh: '按主题浏览章节，一章可能出现在多个主题下。', ja: 'テーマ別にスーラを閲覧します。一つのスーラが複数のテーマに登場することがあります。' },
-  nuzul_timeline_intro: { en: 'Four revelation phases from the first waḥy in Ḥirāʾ to the completion of the Qurʾānic message.', bn: 'হেরা গুহায় প্রথম ওয়াহী থেকে কুরআনের বার্তা পূর্ণ হওয়া পর্যন্ত চারটি অবতীর্ণ পর্যায়।', zh: '从希拉山的第一次启示到古兰经信息完成的四个阶段。', ja: 'ヒラーの洞窟の最初のワヒーからクルアーンのメッセージ完成までの4つの段階。' },
   nuzul_rev_neighbors:  { en: 'Neighbors in Revelation Order', bn: 'অবতীর্ণ ক্রমে প্রতিবেশী সূরা', zh: '启示顺序中的相邻章节', ja: '啓示順序の隣接スーラ' },
   nuzul_first_last_rev: { en: 'Revelation Position', bn: 'অবতীর্ণ অবস্থান', zh: '启示位置', ja: '啓示の位置' },
   nuzul_asbab_count:    { en: 'asbāb entries', bn: 'আসবাব', zh: '启示背景条目', ja: 'アスバーブ記録' },
@@ -246,8 +245,28 @@ class NuzulView {
   tt(key) {
     try { const v = t(key, this.language); if (v && v !== key) return v; } catch (_) { }
     const e = NUZUL_I18N[key];
-    if (e) return e[this.language] || e.en || key;
-    return key;
+    if (!e) return key;
+    if (e[this.language]) return e[this.language];
+    if (e.en && typeof CI18N !== 'undefined') { try { const tr = CI18N.tr(this.language, e.en); if (tr) return tr; } catch (_) { } }
+    return e.en || key;
+  }
+
+  /** tt() with {name} placeholders filled. */
+  ttf(key, vars) {
+    try { if (typeof tFill === 'function') { const v = tFill(key, this.language, vars); if (v && v !== key) return v; } } catch (_) { }
+    return String(this.tt(key)).replace(/\{(\w+)\}/g, (m, k) => (vars && vars[k] != null) ? String(vars[k]) : m);
+  }
+
+  /** Back / forward arrows that point the reading direction in RTL. */
+  arrow(back) {
+    const rtl = (typeof isRTL === 'function') ? isRTL(this.language) : ['ar', 'ur', 'fa'].includes(this.language);
+    return (back !== rtl) ? '\u2190' : '\u2192';
+  }
+
+  /** "{n} sūrahs" with the language's plural form. */
+  surahsLabel(n) {
+    try { if (typeof tPlural === 'function') { const v = tPlural('nuzul_surahs', n, this.language); if (v && v !== 'nuzul_surahs') return v; } } catch (_) { }
+    return n + ' ' + this.lc({ en: 's\u016brahs', bn: '\u09b8\u09c2\u09b0\u09be' });
   }
 
   lc(o) {
@@ -535,7 +554,7 @@ class NuzulView {
 
     const back = `
       <button data-nuzul-back class="inline-flex items-center gap-1 text-sm text-emerald-700 dark:text-emerald-300 mb-3 hover:underline">
-        <span aria-hidden="true">←</span> ${this.esc(this.lc({ en: 'All sūrahs', bn: 'সব সূরা' }))}
+        <span aria-hidden="true">${this.arrow(true)}</span> ${this.esc(this.lc({ en: 'All sūrahs', bn: 'সব সূরা' }))}
       </button>`;
 
     const place = m.medinan ? this.lc({ en: 'Medinan', bn: 'মাদানী' }) : this.lc({ en: 'Meccan', bn: 'মক্কী' });
@@ -556,7 +575,7 @@ class NuzulView {
           </div>
           ${r ? `<div class="flex-shrink-0 text-center">
             <div class="w-14 h-14 rounded-full bg-emerald-50 dark:bg-emerald-900/40 text-emerald-700 dark:text-emerald-300 flex items-center justify-center text-xl font-bold">${r.order}</div>
-            <div class="text-[0.6rem] text-gray-500 dark:text-gray-400 mt-1 leading-tight">${this.esc(this.lc({ en: 'revealed', bn: 'অবতীর্ণ' }))}<br>${this.esc(this.lc({ en: 'of 114', bn: '১১৪-এর' }))}</div>
+            <div class="text-[0.6rem] text-gray-500 dark:text-gray-400 mt-1 leading-tight">${this.esc(this.tt('nuzul_revealed'))}<br>${this.esc(this.tt('nuzul_of_114'))}</div>
           </div>` : ''}
         </div>
         ${ph ? `<div class="mt-3 pt-3 border-t border-gray-100 dark:border-gray-700 flex items-start gap-2">
@@ -575,9 +594,9 @@ class NuzulView {
           <span class="text-xs font-semibold uppercase tracking-wide text-emerald-700 dark:text-emerald-300">${this.esc(this.tt('nuzul_first_last_rev'))}</span>
         </div>
         <div class="flex flex-wrap gap-x-5 gap-y-1 text-sm text-gray-700 dark:text-gray-200">
-          <span dir="auto">${this.esc(this.lc({ en: 'Revelation order', bn: 'অবতীর্ণ ক্রম' }))}: <strong class="text-emerald-700 dark:text-emerald-300">#${r.order}</strong> / 114</span>
+          <span dir="auto">${this.esc(this.tt('nuzul_revelation_order'))}: <strong class="text-emerald-700 dark:text-emerald-300">#${r.order}</strong> / 114</span>
           ${ph ? `<span dir="auto">${this.esc(ph.emoji || '')} ${this.esc(this.pick(ph, 'title'))}</span>` : ''}
-          <span dir="auto">${this.esc(this.lc({ en: 'Spans', bn: 'বিস্তৃত' }))} ${this.esc(this.lc({ en: 'āyāt', bn: 'আয়াত' }))} 1–${m.ayahCount}</span>
+          <span dir="auto">${this.esc(this.ttf('nuzul_spans', { from: 1, to: m.ayahCount }))}</span>
         </div>
       </div>` : '';
 
@@ -587,13 +606,13 @@ class NuzulView {
         <div class="flex items-stretch gap-2">
           ${prevRevN ? `
             <button data-nuzul-surah="${prevRevN}" class="flex-1 text-start p-2 rounded-lg border border-gray-200 dark:border-gray-600 hover:border-emerald-400 dark:hover:border-emerald-500 transition-colors">
-              <div class="text-[0.65rem] text-gray-400 dark:text-gray-500 mb-0.5">← #${r.order - 1} ${this.esc(this.lc({ en: 'revealed before', bn: 'আগে অবতীর্ণ' }))}</div>
+              <div class="text-[0.65rem] text-gray-400 dark:text-gray-500 mb-0.5"><span aria-hidden="true">${this.arrow(true)}</span> #${r.order - 1} ${this.esc(this.tt('nuzul_revealed_before'))}</div>
               <div class="font-semibold text-sm text-emerald-700 dark:text-emerald-300 truncate" dir="auto">${this.esc(this.surahMeta(prevRevN).name)}</div>
               <div class="text-[0.65rem] text-gray-400 dark:text-gray-500 truncate" dir="rtl">${this.esc(this.surahMeta(prevRevN).arabic)}</div>
             </button>` : '<div class="flex-1"></div>'}
           ${nextRevN ? `
             <button data-nuzul-surah="${nextRevN}" class="flex-1 text-end p-2 rounded-lg border border-gray-200 dark:border-gray-600 hover:border-emerald-400 dark:hover:border-emerald-500 transition-colors">
-              <div class="text-[0.65rem] text-gray-400 dark:text-gray-500 mb-0.5">#${r.order + 1} ${this.esc(this.lc({ en: 'revealed after', bn: 'পরে অবতীর্ণ' }))} →</div>
+              <div class="text-[0.65rem] text-gray-400 dark:text-gray-500 mb-0.5">#${r.order + 1} ${this.esc(this.tt('nuzul_revealed_after'))} <span aria-hidden="true">${this.arrow(false)}</span></div>
               <div class="font-semibold text-sm text-emerald-700 dark:text-emerald-300 truncate" dir="auto">${this.esc(this.surahMeta(nextRevN).name)}</div>
               <div class="text-[0.65rem] text-gray-400 dark:text-gray-500 truncate" dir="rtl">${this.esc(this.surahMeta(nextRevN).arabic)}</div>
             </button>` : '<div class="flex-1"></div>'}
@@ -603,7 +622,7 @@ class NuzulView {
     let timeline;
     if (entries.length) {
       const items = entries.map((e, i) => `
-        <div class="relative pl-8 pb-5 ${i === entries.length - 1 ? '' : 'border-s-2 border-emerald-200 dark:border-emerald-800'} ms-1">
+        <div class="relative ps-8 pb-5 ${i === entries.length - 1 ? '' : 'border-s-2 border-emerald-200 dark:border-emerald-800'} ms-1">
           <span class="absolute -start-[9px] top-0.5 w-4 h-4 rounded-full bg-emerald-500 border-2 border-white dark:border-gray-900"></span>
           <button data-nuzul-ayah="${this.esc(e.ref)}" class="inline-block text-xs font-semibold px-2 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 mb-1 hover:bg-emerald-200">${this.esc(e.ref)}</button>
           <h4 class="font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.pick(e, 'title'))}</h4>
@@ -624,8 +643,8 @@ class NuzulView {
 
     const nav = `
       <div class="flex items-center justify-between mt-5 pt-3 border-t border-gray-100 dark:border-gray-700">
-        <button data-nuzul-surah="${n > 1 ? n - 1 : 1}" class="text-sm text-gray-600 dark:text-gray-300 hover:text-emerald-600 ${n <= 1 ? 'invisible' : ''}">← ${this.esc(this.surahMeta(n - 1 || 1).name)}</button>
-        <button data-nuzul-surah="${n < 114 ? n + 1 : 114}" class="text-sm text-gray-600 dark:text-gray-300 hover:text-emerald-600 ${n >= 114 ? 'invisible' : ''}">${this.esc(this.surahMeta(n + 1 > 114 ? 114 : n + 1).name)} →</button>
+        <button data-nuzul-surah="${n > 1 ? n - 1 : 1}" class="text-sm text-gray-600 dark:text-gray-300 hover:text-emerald-600 ${n <= 1 ? 'invisible' : ''}"><span aria-hidden="true">${this.arrow(true)}</span> ${this.esc(this.surahMeta(n - 1 || 1).name)}</button>
+        <button data-nuzul-surah="${n < 114 ? n + 1 : 114}" class="text-sm text-gray-600 dark:text-gray-300 hover:text-emerald-600 ${n >= 114 ? 'invisible' : ''}">${this.esc(this.surahMeta(n + 1 > 114 ? 114 : n + 1).name)} <span aria-hidden="true">${this.arrow(false)}</span></button>
       </div>`;
 
     return `<div class="w-full p-1">${back}${headCard}${revInfoCard}${revNeighbors}${timeline}${nav}</div>`;
@@ -653,7 +672,7 @@ class NuzulView {
           cls = 'bg-primary/10 border-primary text-primary';
         }
         return `<button type="button" ${submitted ? 'disabled' : ''} data-nuzul-quiz-opt="${qi}:${oi}"
-          class="w-full text-left px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(this.lc(o))}${mark}</button>`;
+          class="w-full text-start px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(this.lc(o))}${mark}</button>`;
       }).join('');
       return `
         <div class="p-3 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
@@ -684,7 +703,7 @@ class NuzulView {
       <div class="w-full p-1">${this.header()}${this.subToggleHtml()}
         <div class="text-center mb-4">
           <p class="text-xs text-gray-400 dark:text-gray-500" dir="auto">${this.esc(this.tt('nuzul_quiz_intro'))}
-            <span class="ml-2">· ${this.esc(this.tt('nuzul_quiz_best'))}: ${this.quizBest} / ${total}</span></p>
+            <span class="ms-2">· ${this.esc(this.tt('nuzul_quiz_best'))}: ${this.quizBest} / ${total}</span></p>
         </div>
         <div class="space-y-3">${questions}</div>
         ${footer}
@@ -695,14 +714,14 @@ class NuzulView {
     const themeCards = NUZUL_THEMES.map(th => {
       const chips = th.surahs.map(sn => {
         const sm = this.surahMeta(sn);
-        return `<button data-nuzul-surah="${sn}" class="text-xs px-2 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-emerald-100 dark:hover:bg-emerald-900/50 hover:text-emerald-700 dark:hover:text-emerald-300 transition-colors" dir="auto">${this.esc(sm.name)}<span class="opacity-50 ml-0.5">(${sn})</span></button>`;
+        return `<button data-nuzul-surah="${sn}" class="text-xs px-2 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-emerald-100 dark:hover:bg-emerald-900/50 hover:text-emerald-700 dark:hover:text-emerald-300 transition-colors" dir="auto">${this.esc(sm.name)}<span class="opacity-50 ms-0.5">(${sn})</span></button>`;
       }).join('');
       return `
         <div class="rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-4">
           <div class="flex items-center gap-2 mb-1">
             <span class="text-xl">${this.esc(th.emoji)}</span>
             <h3 class="font-semibold text-gray-800 dark:text-gray-100 text-sm" dir="auto">${this.esc(this.lc({ en: th.titleEn, bn: th.titleBn }))}</h3>
-            <span class="ml-auto text-[0.65rem] px-1.5 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300">${th.surahs.length}</span>
+            <span class="ms-auto text-[0.65rem] px-1.5 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300">${th.surahs.length}</span>
           </div>
           <p class="text-xs text-gray-500 dark:text-gray-400 mb-3 leading-relaxed" dir="auto">${this.esc(this.lc({ en: th.descEn, bn: th.descBn }))}</p>
           <div class="flex flex-wrap gap-1.5">${chips}</div>
@@ -719,6 +738,7 @@ class NuzulView {
 
   renderTimeline() {
     const L = (o) => this.esc(this.lc(o));
+    // One group per phase in data/nuzul/revelation-order.json (4: early, middle, late Meccan, Medinan).
     const phaseEvents = [
       [
         { en: 'First revelation in Cave Hira (610 CE)', bn: 'হেরা গুহায় প্রথম ওয়াহী (৬১০ খ্রি.)' },
@@ -741,14 +761,10 @@ class NuzulView {
         { en: 'Constitution of Madinah established; first Islamic state formed', bn: 'মদিনার সনদ প্রতিষ্ঠা; প্রথম ইসলামি রাষ্ট্র গঠন' },
         { en: 'Change of Qiblah from Jerusalem to Makkah (624 CE)', bn: 'কিবলা পরিবর্তন — জেরুসালেম থেকে মক্কায় (৬২৪ খ্রি.)' },
         { en: 'Battle of Badr — decisive first major victory (2 AH)', bn: 'বদর যুদ্ধ — প্রথম বড় বিজয় (২ হিজরি)' },
-      ],
-      [
         { en: 'Battle of Uhud (3 AH / 625 CE)', bn: 'উহুদ যুদ্ধ (৩ হিজরি / ৬২৫ খ্রি.)' },
         { en: 'Battle of the Trench — Khandaq (5 AH / 627 CE)', bn: 'খন্দকের যুদ্ধ (৫ হিজরি / ৬২৭ খ্রি.)' },
         { en: 'Treaty of Hudaybiyyah — the clear victory (6 AH / 628 CE)', bn: 'হুদায়বিয়ার সন্ধি — স্পষ্ট বিজয় (৬ হিজরি / ৬২৮ খ্রি.)' },
         { en: 'Letters sent to Heraclius, Khosrow, and other heads of state', bn: 'হিরাক্লিয়াস, কিসরা ও অন্যান্য রাষ্ট্রপ্রধানদের পত্র প্রেরণ' },
-      ],
-      [
         { en: 'Conquest of Makkah (8 AH / 630 CE) — mass acceptance of Islam', bn: 'মক্কা বিজয় (৮ হিজরি / ৬৩০ খ্রি.) — ব্যাপক ইসলাম গ্রহণ' },
         { en: 'Battle of Hunayn (8 AH / 630 CE)', bn: 'হুনায়ন যুদ্ধ (৮ হিজরি / ৬৩০ খ্রি.)' },
         { en: 'Farewell Pilgrimage — Hajjat al-Wada (10 AH / 632 CE)', bn: 'বিদায় হজ (১০ হিজরি / ৬৩২ খ্রি.)' },
@@ -758,7 +774,7 @@ class NuzulView {
     ];
 
     if (!this.phases.length) {
-      return `<div class="w-full p-1">${this.header()}${this.subToggleHtml()}<p class="text-center text-sm text-gray-500 dark:text-gray-400 py-8" dir="auto">${L({ en: 'Loading phase data\u2026', bn: 'লোড হচ্ছে\u2026' })}</p></div>`;
+      return `<div class="w-full p-1">${this.header()}${this.subToggleHtml()}<p class="text-center text-sm text-gray-500 dark:text-gray-400 py-8" dir="auto">${this.esc(this.tt('nuzul_loading_phase'))}</p></div>`;
     }
 
     const phaseCount = {};
@@ -777,7 +793,7 @@ class NuzulView {
           <span dir="auto">${L(ev)}</span>
         </li>`).join('');
       return `
-        <div class="relative pl-8 pb-6 ${isLast ? '' : 'border-s-2 border-emerald-200 dark:border-emerald-800'} ms-3">
+        <div class="relative ps-8 pb-6 ${isLast ? '' : 'border-s-2 border-emerald-200 dark:border-emerald-800'} ms-3">
           <span class="absolute -start-[11px] top-1 w-5 h-5 rounded-full ${isFirst ? 'bg-emerald-600' : isLast ? 'bg-rose-500' : 'bg-emerald-400'} border-2 border-white dark:border-gray-900 flex items-center justify-center text-white text-[0.55rem] font-bold">${idx + 1}</span>
           <details class="rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 overflow-hidden">
             <summary class="flex items-center gap-2 p-3 cursor-pointer list-none hover:bg-gray-50 dark:hover:bg-gray-700/40">
@@ -786,8 +802,8 @@ class NuzulView {
                 <span class="block font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.pick(ph, 'title'))}</span>
                 <span class="block text-xs text-gray-500 dark:text-gray-400 mt-0.5 leading-snug" dir="auto">${this.esc(this.pick(ph, 'desc'))}</span>
               </span>
-              <span class="flex-shrink-0 text-xs px-2 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 font-medium whitespace-nowrap">${count} ${L({ en: 's\u016brahs', bn: '\u09b8\u09c2\u09b0\u09be' })}</span>
-              <span class="text-gray-400 text-xs ml-1">\u25bc</span>
+              <span class="flex-shrink-0 text-xs px-2 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 font-medium whitespace-nowrap">${this.esc(this.surahsLabel(count))}</span>
+              <span class="text-gray-400 text-xs ms-1">\u25bc</span>
             </summary>
             <div class="px-4 pb-3 border-t border-gray-100 dark:border-gray-700">
               <p class="text-xs font-semibold text-gray-500 dark:text-gray-400 mt-3 mb-2 uppercase tracking-wide">${this.esc(this.tt('nuzul_key_events'))}</p>

@@ -26,7 +26,7 @@
 
   <!-- Tailwind CSS CDN -->
   <!-- Prebuilt Tailwind (npm run build:css). Replaced the Play CDN, whose in-browser JIT cost up to 234 s on the Khatmah path. -->
-  <link rel="stylesheet" href="css/tailwind.min.css?v=1868">
+  <link rel="stylesheet" href="css/tailwind.min.css?v=1869">
 
   <!-- Google Fonts for Arabic -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -37,7 +37,10 @@
   <noscript><link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"></noscript>
 
   <!-- Custom Styles -->
-  <link rel="stylesheet" href="css/style.css?v=1868">
+  <link rel="stylesheet" href="css/style.css?v=1869">
+  <!-- ← and → are not Bidi_Mirrored, so "back" arrows point forward in ar/ur/fa
+       unless flipped. Used by index.html, js/app-nav.js and js/tabs.js. -->
+  <style>[dir="rtl"] .rtl-flip { display: inline-block; transform: scaleX(-1); }</style>
 </head>
 <body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300 overflow-x-hidden">
 
@@ -50,13 +53,13 @@
 
           <!-- Logo/Brand -->
           <div class="flex items-center gap-2">
-            <button id="sidebar-toggle" class="p-2 hover:bg-white/10 rounded-lg" title="Toggle sidebar" aria-label="Toggle sidebar">
+            <button id="sidebar-toggle" class="p-2 hover:bg-white/10 rounded-lg" title="Toggle sidebar" aria-label="Toggle sidebar" data-lang-title="toggle_sidebar" data-lang-aria="toggle_sidebar">
               <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
               </svg>
             </button>
             <h1 class="text-xl font-bold">
-              <a href="#" id="site-title" title="Home" class="hover:opacity-90 focus:outline-none focus:ring-2 focus:ring-white/50 rounded">Learn Quran</a>
+              <a href="#" id="site-title" title="Home" data-lang-title="home_title" class="hover:opacity-90 focus:outline-none focus:ring-2 focus:ring-white/50 rounded">Learn Quran</a>
             </h1>
           </div>
 
@@ -116,7 +119,7 @@
                in css/style.css (.nav-group / .nav-group-parent hooks) applies. -->
           <div id="legacy-menu-wrap" class="hidden">
             <button id="legacy-menu-back" class="w-full flex items-center gap-2 px-3 py-2 mb-2 rounded-lg text-sm font-semibold text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
-              <span class="text-lg leading-none">←</span><span data-lang-key="back">Back</span>
+              <span class="text-lg leading-none rtl-flip">←</span><span data-lang-key="back">Back</span>
             </button>
             <nav id="legacy-menu" class="space-y-1"></nav>
           </div>
@@ -548,7 +551,7 @@
   </div>
 
   <!-- Go to top -->
-  <button id="go-top" title="Go to top" aria-label="Go to top"
+  <button id="go-top" title="Go to top" aria-label="Go to top" data-lang-title="go_to_top" data-lang-aria="go_to_top"
           class="fixed bottom-6 right-6 z-40 hidden w-11 h-11 rounded-full bg-primary text-white shadow-lg hover:bg-primary/90 items-center justify-center">
     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7"/>
@@ -578,8 +581,8 @@
   </div>
 
   <!-- Scripts -->
-  <script defer src="js/surah-data.js?v=1868"></script>
-  <script defer src="js/translations.js?v=1868"></script>
+  <script defer src="js/surah-data.js?v=1869"></script>
+  <script defer src="js/translations.js?v=1869"></script>
   <script>
     /* UI strings used to ship all 15 languages in one 1.4 MB file. They now live
        one-per-file in js/i18n/, and only the reader's saved language is fetched
@@ -612,87 +615,87 @@
       }
       if (KNOWN.indexOf(lang) === -1) return;        // English needs no pack
       try {
-        document.write('<script defer src="js/i18n/' + lang + '.js?v=1868"><\/script>');
+        document.write('<script defer src="js/i18n/' + lang + '.js?v=1869"><\/script>');
       } catch (e) { /* English core already covers every key */ }
     })();
   </script>
-  <script defer src="js/content-i18n.js?v=1868"></script>
-  <script defer src="js/module-loader.js?v=1868"></script>
-  <script defer src="js/ayah-autolink.js?v=1868"></script>
-  <script defer src="js/quran-data.js?v=1868"></script>
+  <script defer src="js/content-i18n.js?v=1869"></script>
+  <script defer src="js/module-loader.js?v=1869"></script>
+  <script defer src="js/ayah-autolink.js?v=1869"></script>
+  <script defer src="js/quran-data.js?v=1869"></script>
   <!-- Generated: verse ref -> Seerah events. Read by the verse modal, so it must
        precede ayah-modal.js. 9 KB, against the 355 KB timeline data it stands in for. -->
-  <script defer src="js/seerah-ayah-index.js?v=1868"></script>
-  <script defer src="js/ayah-modal.js?v=1868"></script>
-    <script defer src="js/ayah-timeline.js?v=1868"></script>
-  <script defer src="js/tabs.js?v=1868"></script>
-  <script defer src="js/settings.js?v=1868"></script>
-  <script defer src="js/wordbyword.js?v=1868"></script>
-  <script defer src="js/grammar.js?v=1868"></script>
-  <script defer src="js/memorize.js?v=1868"></script>
-  <script defer src="js/quiz-center.js?v=1868"></script>
-  <script defer src="js/word-highlight.js?v=1868"></script>
-  <script defer src="js/audio.js?v=1868"></script>
-  <script defer src="js/tafseer.js?v=1868"></script>
-  <script defer src="js/tajweed.js?v=1868"></script>
-  <script defer src="js/qaida-data.js?v=1868"></script>
-  <script defer src="js/learn-kids.js?v=1868"></script>
-  <script defer src="js/vocab-data.js?v=1868"></script>
-  <script defer src="js/learn-vocab.js?v=1868"></script>
-  <script defer src="js/names-data.js?v=1868"></script>
-  <script defer src="js/learn-names.js?v=1868"></script>
-  <script defer src="js/learn.js?v=1868"></script>
-  <script defer src="js/learn-prayer-data.js?v=1868"></script>
-  <script defer src="js/learn-prayer.js?v=1868"></script>
-  <script defer src="js/learn-sawm.js?v=1868"></script>
-  <script defer src="js/learn-hajj.js?v=1868"></script>
-  <script defer src="js/learn-zakat.js?v=1868"></script>
-  <script defer src="js/handwriting-data.js?v=1868"></script>
-  <script defer src="js/handwriting.js?v=1868"></script>
-  <script defer src="js/type-memorize.js?v=1868"></script>
-  <script defer src="js/word-arrange.js?v=1868"></script>
-  <script defer src="js/record-memorize.js?v=1868"></script>
-  <script defer src="js/menu-data.js?v=1868"></script>
-  <script defer src="js/sidebar-menu.js?v=1868"></script>
-  <script defer src="js/app-nav.js?v=1868"></script>
-  <script defer src="js/topics-browser.js?v=1868"></script>
-  <script defer src="js/word-repeat.js?v=1868"></script>
-  <script defer src="js/sarf.js?v=1868"></script>
-  <script defer src="js/amal-daily.js?v=1868"></script>
-  <script defer src="js/tajweed-data.js?v=1868"></script>
-  <script defer src="js/letter-practice-rules.js?v=1868"></script>
-  <script defer src="js/tajweed-learn.js?v=1868"></script>
-  <script defer src="js/khatmah.js?v=1868"></script>
-  <script defer src="js/resources.js?v=1868"></script>
-  <script defer src="js/mutashabihat-data.js?v=1868"></script>
-  <script defer src="js/mutashabihat.js?v=1868"></script>
-  <script defer src="js/islam-fard.js?v=1868"></script>
-  <script defer src="js/islam-wajib.js?v=1868"></script>
-  <script defer src="js/islam-nafl.js?v=1868"></script>
-  <script defer src="js/islam-makruh.js?v=1868"></script>
-  <script defer src="js/islam-mustahabb.js?v=1868"></script>
-  <script defer src="js/nuzul-timeline.js?v=1868"></script>
-  <script defer src="js/topics-data.js?v=1868"></script>
-  <script defer src="js/topics-prophet-duas.js?v=1868"></script>
-  <script defer src="js/topics-protection-duas.js?v=1868"></script>
-  <script defer src="js/topics-life-duas.js?v=1868"></script>
-  <script defer src="js/topics-growth-duas.js?v=1868"></script>
-  <script defer src="js/hope-index.js?v=1868"></script>
-  <script defer src="js/sahaba-index.js?v=1868"></script>
-  <script defer src="js/navigation.js?v=1868"></script>
-  <script defer src="js/legacy-ayah.js?v=1868"></script>
-  <script defer src="js/settings-drawer.js?v=1868"></script>
-  <script defer src="js/firebase-config.js?v=1868"></script>
-  <script defer src="js/account.js?v=1868"></script>
-  <script defer src="js/ponder.js?v=1868"></script>
-  <script defer src="js/mushaf.js?v=1868"></script>
-  <script defer src="js/pwa.js?v=1868"></script>
-  <script defer src="js/search.js?v=1868"></script>
-  <script defer src="js/subscribe.js?v=1868"></script>
-  <script defer src="js/bookmarks.js?v=1868"></script>
-  <script defer src="js/dashboard.js?v=1868"></script>
-    <script defer src="js/app.js?v=1868"></script>
-  <script defer src="js/welcome-modal.js?v=1868"></script>
+  <script defer src="js/seerah-ayah-index.js?v=1869"></script>
+  <script defer src="js/ayah-modal.js?v=1869"></script>
+    <script defer src="js/ayah-timeline.js?v=1869"></script>
+  <script defer src="js/tabs.js?v=1869"></script>
+  <script defer src="js/settings.js?v=1869"></script>
+  <script defer src="js/wordbyword.js?v=1869"></script>
+  <script defer src="js/grammar.js?v=1869"></script>
+  <script defer src="js/memorize.js?v=1869"></script>
+  <script defer src="js/quiz-center.js?v=1869"></script>
+  <script defer src="js/word-highlight.js?v=1869"></script>
+  <script defer src="js/audio.js?v=1869"></script>
+  <script defer src="js/tafseer.js?v=1869"></script>
+  <script defer src="js/tajweed.js?v=1869"></script>
+  <script defer src="js/qaida-data.js?v=1869"></script>
+  <script defer src="js/learn-kids.js?v=1869"></script>
+  <script defer src="js/vocab-data.js?v=1869"></script>
+  <script defer src="js/learn-vocab.js?v=1869"></script>
+  <script defer src="js/names-data.js?v=1869"></script>
+  <script defer src="js/learn-names.js?v=1869"></script>
+  <script defer src="js/learn.js?v=1869"></script>
+  <script defer src="js/learn-prayer-data.js?v=1869"></script>
+  <script defer src="js/learn-prayer.js?v=1869"></script>
+  <script defer src="js/learn-sawm.js?v=1869"></script>
+  <script defer src="js/learn-hajj.js?v=1869"></script>
+  <script defer src="js/learn-zakat.js?v=1869"></script>
+  <script defer src="js/handwriting-data.js?v=1869"></script>
+  <script defer src="js/handwriting.js?v=1869"></script>
+  <script defer src="js/type-memorize.js?v=1869"></script>
+  <script defer src="js/word-arrange.js?v=1869"></script>
+  <script defer src="js/record-memorize.js?v=1869"></script>
+  <script defer src="js/menu-data.js?v=1869"></script>
+  <script defer src="js/sidebar-menu.js?v=1869"></script>
+  <script defer src="js/app-nav.js?v=1869"></script>
+  <script defer src="js/topics-browser.js?v=1869"></script>
+  <script defer src="js/word-repeat.js?v=1869"></script>
+  <script defer src="js/sarf.js?v=1869"></script>
+  <script defer src="js/amal-daily.js?v=1869"></script>
+  <script defer src="js/tajweed-data.js?v=1869"></script>
+  <script defer src="js/letter-practice-rules.js?v=1869"></script>
+  <script defer src="js/tajweed-learn.js?v=1869"></script>
+  <script defer src="js/khatmah.js?v=1869"></script>
+  <script defer src="js/resources.js?v=1869"></script>
+  <script defer src="js/mutashabihat-data.js?v=1869"></script>
+  <script defer src="js/mutashabihat.js?v=1869"></script>
+  <script defer src="js/islam-fard.js?v=1869"></script>
+  <script defer src="js/islam-wajib.js?v=1869"></script>
+  <script defer src="js/islam-nafl.js?v=1869"></script>
+  <script defer src="js/islam-makruh.js?v=1869"></script>
+  <script defer src="js/islam-mustahabb.js?v=1869"></script>
+  <script defer src="js/nuzul-timeline.js?v=1869"></script>
+  <script defer src="js/topics-data.js?v=1869"></script>
+  <script defer src="js/topics-prophet-duas.js?v=1869"></script>
+  <script defer src="js/topics-protection-duas.js?v=1869"></script>
+  <script defer src="js/topics-life-duas.js?v=1869"></script>
+  <script defer src="js/topics-growth-duas.js?v=1869"></script>
+  <script defer src="js/hope-index.js?v=1869"></script>
+  <script defer src="js/sahaba-index.js?v=1869"></script>
+  <script defer src="js/navigation.js?v=1869"></script>
+  <script defer src="js/legacy-ayah.js?v=1869"></script>
+  <script defer src="js/settings-drawer.js?v=1869"></script>
+  <script defer src="js/firebase-config.js?v=1869"></script>
+  <script defer src="js/account.js?v=1869"></script>
+  <script defer src="js/ponder.js?v=1869"></script>
+  <script defer src="js/mushaf.js?v=1869"></script>
+  <script defer src="js/pwa.js?v=1869"></script>
+  <script defer src="js/search.js?v=1869"></script>
+  <script defer src="js/subscribe.js?v=1869"></script>
+  <script defer src="js/bookmarks.js?v=1869"></script>
+  <script defer src="js/dashboard.js?v=1869"></script>
+    <script defer src="js/app.js?v=1869"></script>
+  <script defer src="js/welcome-modal.js?v=1869"></script>
   <script>
     // Site title: translate to current language and hard-refresh on click.
     // Runs on DOMContentLoaded because the module scripts above are deferred:
@@ -702,6 +705,7 @@
     document.addEventListener('DOMContentLoaded', function () {
       var el = document.getElementById('site-title');
       if (!el) return;
+      var DOC_TITLE_EN = 'Learn Quran - Multi-Language Quran Reader';
       var TITLES = {
         en: 'Learn Quran', bn: 'কুরআন শিখুন', ar: 'تعلّم القرآن',
         ur: 'قرآن سیکھیں', fa: 'قرآن بیاموز', id: 'Belajar Al-Quran',
@@ -709,7 +713,12 @@
         fr: 'Apprendre le Coran', es: 'Aprender el Corán', de: 'Koran lernen',
         ru: 'Изучаем Коран', ja: 'クルアーンを学ぶ', zh: '学习古兰经'
       };
-      function apply(lang) { el.textContent = TITLES[lang] || TITLES.en; }
+      // The browser tab title follows the UI language too (tab, history, bookmarks).
+      function apply(lang) {
+        var name = TITLES[lang] || TITLES.en;
+        el.textContent = name;
+        document.title = (lang === 'en' || !TITLES[lang]) ? DOC_TITLE_EN : name;
+      }
       var lang = (typeof appSettings !== 'undefined' && appSettings)
         ? appSettings.get('language') : 'en';
       apply(lang);

@@ -230,7 +230,7 @@ class TabSystem {
       const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
       const labels = { reading: 'ayah_reading', search: 'search', tafseer: 'tafseers', wordbyword: 'word_by_word', grammar: 'grammar', learn: 'learn', memorize: 'memorize', quiz: 'quiz_center_title', audio: 'audio', mushaf: 'mushaf', topics: 'topics_title', wordrepeat: 'wr_title', sarf: 'sarf_title' };
       const name = (typeof t === 'function') ? t(labels[backTo] || 'back', lang) : backTo;
-      this.backPill.innerHTML = `<span class="text-base leading-none">←</span><span>${name}</span>`;
+      this.backPill.innerHTML = `<span class="text-base leading-none rtl-flip">←</span><span>${name}</span>`;
       this.backPill.classList.remove('hidden');
       this.backPill.classList.add('flex');
     } else {

@@ -146,6 +146,38 @@
     return false;
   }
 
+  /** The reader's UI language, read at link time. */
+  function uiLang() {
+    try {
+      return (typeof appSettings !== 'undefined' && appSettings && appSettings.get('language')) || 'en';
+    } catch (e) { return 'en'; }
+  }
+
+  /** title + aria-label in the UI language. The ref keeps the digits the
+   *  author wrote. Falls back to English when translations.js is absent. */
+  function labelButton(btn, ref, tad, lang) {
+    let label;
+    try {
+      label = tad
+        ? (typeof tFill === 'function' ? tFill('open_tadabbur_of', lang, { ref: ref }) : 'Open the Tadabbur of ' + ref)
+        : (typeof t === 'function' ? t('open_verse', lang) : 'Open verse') + ' ' + ref;
+    } catch (e) {
+      label = (tad ? 'Open the Tadabbur of ' : 'Open verse ') + ref;
+    }
+    btn.setAttribute('title', label);
+    btn.setAttribute('aria-label', label);
+  }
+
+  /** Links made before a language switch keep their old labels otherwise. */
+  function relabelAll() {
+    const lang = uiLang();
+    try {
+      document.querySelectorAll('button.lq-ayah-link[data-ayah-ref]').forEach((b) => {
+        labelButton(b, b.textContent, b.hasAttribute('data-ayah-tad'), lang);
+      });
+    } catch (e) { /* labels are a nicety */ }
+  }
+
   /** Wrap every valid reference inside one text node. */
   function linkTextNode(node) {
     const text = node.nodeValue;
@@ -177,8 +209,7 @@
       // Ranges open at their first verse — the modal navigates from there.
       btn.setAttribute('data-ayah-ref', tad ? tad.ref : s + ':' + a);
       if (tad) btn.setAttribute('data-ayah-tad', '1');
-      btn.setAttribute('title', (tad ? 'Open the Tadabbur of ' : 'Open ') + m[0]);
-      btn.setAttribute('aria-label', (tad ? 'Open the Tadabbur of verse ' : 'Open verse ') + m[0]);
+      labelButton(btn, m[0], !!tad, uiLang());
       btn.textContent = m[0];
       frag.appendChild(btn);
 
@@ -273,7 +304,7 @@
     window.addEventListener('tabChanged', schedule);
     window.addEventListener('lqModuleLoaded', schedule);
     window.addEventListener('settingChanged', (e) => {
-      if (e && e.detail && e.detail.key === 'language') schedule();
+      if (e && e.detail && e.detail.key === 'language') { relabelAll(); schedule(); }
     });
   });
 

@@ -21,7 +21,7 @@ const AMAL_ITEMS = [
     en: 'The Prophet ﷺ would not sleep until he recited As-Sajdah and Al-Mulk.',
     bn: 'নবী ﷺ সূরা সাজদাহ ও সূরা মুলক না পড়ে ঘুমাতেন না।'},
   { id: 'kursi', refs: '2:255', surahs: [2], when: ['night', 'any'],
-    src: 'Bukhari 2311 · an-Nasa’i (after-salah, sahih)', grade: 'sahih',
+    src: 'Bukhari 2311 · an-Nasa’i', srcNote: { en: 'after-salah, sahih', bn: 'ফরজ নামাজের পরে, সহিহ' }, grade: 'sahih',
     en: 'Ayat al-Kursi before sleep — a guardian from Allah remains with you and Shaytan cannot approach until morning. After every fard prayer, nothing stands between its reciter and Paradise except death.',
     bn: 'ঘুমানোর আগে আয়াতুল কুরসি পড়লে আল্লাহর পক্ষ থেকে একজন পাহারাদার আপনার সঙ্গে থাকেন, সকাল পর্যন্ত শয়তান কাছে আসতে পারে না। প্রতি ফরজ নামাজের পরে যে এটি পড়ে, তার আর জান্নাতের মাঝে মৃত্যু ছাড়া কোনো বাধা থাকে না।',
     zh: '睡前诵读库尔西节文——真主的保护者与你同在，撒旦直到早晨不能接近。每番拜后也诵读。',
@@ -43,7 +43,7 @@ const AMAL_ITEMS = [
     zh: '睡前诵读不信道章——这是对多神崇拜的否认。',
     ja: '就寝前にカーフィルーン章を唱えよ——それはシルクの否認である。'},
   { id: 'kahf', refs: '18:1-110', surahs: [18], when: ['friday'],
-    src: 'al-Hakim 2/399 (sahih)', grade: 'sahih',
+    src: 'al-Hakim 2/399', srcNote: { en: 'sahih', bn: 'সহিহ' }, grade: 'sahih',
     en: 'Recite Al-Kahf on Friday — a light shines for you between the two Fridays.',
     bn: 'জুমার দিনে সূরা কাহফ পড়ুন; এক জুমা থেকে পরের জুমা পর্যন্ত আপনার জন্য একটি নূর জ্বলতে থাকবে।',
     zh: '主麻日诵读山洞章——两个主麻日之间有光芒照耀你。',
@@ -239,13 +239,13 @@ const MORNING_EVENING_ADHKAR = [
   { id: 'radina', count: 3,
     ar: 'رَضِيتُ بِاللَّهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا، وَبِمُحَمَّدٍ ﷺ نَبِيًّا',
     tr: 'Raditu billahi Rabban, wa bil-Islami dinan, wa bi-Muhammadin ﷺ nabiyya',
-    src: 'Abu Dawud 5072 · Tirmidhi 3389 · Ibn Majah 3870 (al-Albani: weak; others: hasan)',
+    src: 'Abu Dawud 5072 · Tirmidhi 3389 · Ibn Majah 3870', srcNote: { en: 'al-Albani: weak; others: hasan', bn: 'আলবানি: দুর্বল; অন্যরা: হাসান' },
     en: '“I am pleased with Allah as Lord, Islam as religion, and Muhammad ﷺ as Prophet” — three times; it is reported that Allah takes it upon Himself to please him on the Day of Resurrection (graded weak by al-Albani, hasan by others).',
     bn: '“রাযিতু বিল্লাহি রাব্বান, ওয়া বিল-ইসলামি দীনান, ওয়া বিমুহাম্মাদিন ﷺ নাবিয়্যা” (আমি আল্লাহকে রব, ইসলামকে দ্বীন আর মুহাম্মাদ ﷺ-কে নবী হিসেবে পেয়ে সন্তুষ্ট) — তিনবার; বর্ণিত আছে, কিয়ামতের দিন তাকে সন্তুষ্ট করার দায়িত্ব আল্লাহ নিজে নিয়েছেন (আলবানি দুর্বল বলেছেন, অন্যরা হাসান)।'},
   { id: 'salawat', count: 10,
     ar: 'اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَىٰ نَبِيِّنَا مُحَمَّدٍ',
     tr: 'Allahumma salli wa sallim ‘ala nabiyyina Muhammad',
-    src: 'Tabarani (al-Albani: weak; al-Haythami: one chain good)',
+    src: 'Tabarani', srcNote: { en: 'al-Albani: weak; al-Haythami: one chain good', bn: 'আলবানি: দুর্বল; হাইসামি: একটি সনদ উত্তম' },
     en: 'Send blessings upon the Prophet ﷺ — ten times morning and evening; it is reported that whoever does so attains his intercession on the Day of Resurrection (graded weak by al-Albani).',
     bn: 'সকাল-সন্ধ্যায় দশবার নবী ﷺ-এর ওপর দরূদ পড়ুন; বর্ণিত আছে, যে এমন করে, কিয়ামতের দিন সে তাঁর শাফাআত পাবে (আলবানি দুর্বল বলেছেন)।'},
 ];
@@ -310,15 +310,25 @@ class AmalDaily {
     return (typeof CI18N !== 'undefined' && CI18N.tr(this.language, item.en)) || item.en;
   }
 
-  /** Link a hadith citation to sunnah.com so users can verify the source. */
-  srcHtml(src) {
+  /** Grading note beside a citation ({en, bn}): inline language, else CI18N, else English. */
+  srcNoteText(note) {
+    if (!note) return '';
+    const lang = this.language;
+    if (lang && note[lang]) return note[lang];
+    if (lang === 'bn') return note.bn || note.en || '';
+    return (lang && lang !== 'en' && typeof CI18N !== 'undefined' && CI18N.tr(lang, note.en)) || note.en || '';
+  }
+
+  /** Link a hadith citation to sunnah.com so users can verify the source.
+   *  The grading note is kept out of src so it can be translated. */
+  srcHtml(src, note) {
     const M = { 'Bukhari': 'bukhari', 'Muslim': 'muslim', 'Tirmidhi': 'tirmidhi', 'Abu Dawud': 'abudawud' };
     const parts = src.split('·').map(x => x.trim());
     return parts.map(part => {
       const m = part.match(/^(Bukhari|Muslim|Tirmidhi|Abu Dawud)\s+(\d+[a-z]?)$/);
       if (m) return `<a href="https://sunnah.com/${M[m[1]]}:${m[2]}" target="_blank" rel="noopener" class="underline decoration-dotted hover:text-primary">${this.esc(part)}</a>`;
       return this.esc(part);
-    }).join(' · ');
+    }).join(' · ') + (note ? ` (${this.esc(this.srcNoteText(note))})` : '');
   }
 
   /** Current period of the local day. */
@@ -412,7 +422,7 @@ class AmalDaily {
         </div>
         <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.desc(item))}</p>
         <div class="flex flex-wrap items-center gap-1.5">${whenBadges} ${gradeBadge}
-          ${item.src !== '—' ? `<span class="text-xs text-gray-400">📖 ${this.srcHtml(item.src)}</span>` : ''}
+          ${item.src !== '—' ? `<span class="text-xs text-gray-400">📖 ${this.srcHtml(item.src, item.srcNote)}</span>` : ''}
         </div>
         <div class="flex flex-wrap gap-2 mt-1">
           <button data-amal-read="${item.refs}" class="px-4 py-2 rounded-lg bg-primary text-white text-sm font-medium hover:bg-primary/80">📖 ${this.tt('amal_read')}</button>
@@ -534,7 +544,7 @@ class AmalDaily {
         <div class="text-xs italic text-gray-500 dark:text-gray-400" dir="ltr">${this.esc(a.tr)}</div>
         <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(desc)}</p>
         <div class="flex items-center justify-between gap-2">
-          <span class="text-xs text-gray-400">📖 ${this.srcHtml(a.src)}</span>
+          <span class="text-xs text-gray-400">📖 ${this.srcHtml(a.src, a.srcNote)}</span>
           ${tally > 0 ? `<button data-adhkar-reset="${a.id}" class="shrink-0 text-xs text-gray-400 hover:text-primary dark:hover:text-blue-400 px-2.5 py-1.5 -my-1 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">↺ ${this.tt('amal_reset')}</button>` : ''}
         </div>
       </div>`;

@@ -18,6 +18,7 @@ class SettingsDrawer {
     window.addEventListener('settingChanged', (e) => {
       if (e.detail.key === 'language') {
         this.language = e.detail.value;
+        this.updateButtonLabel();
         if (!this.drawer.classList.contains('translate-x-full')) this.render();
       }
     });
@@ -35,8 +36,8 @@ class SettingsDrawer {
     const btn = document.createElement('button');
     btn.id = 'settings-drawer-btn';
     btn.className = 'p-2 hover:bg-white/10 rounded-lg';
-    btn.setAttribute('aria-label', t('reading_settings', this.language) || 'Settings');
-    btn.setAttribute('title', t('reading_settings', this.language) || 'Settings');
+    this.btn = btn;
+    this.updateButtonLabel();
     btn.innerHTML = `
       <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -45,6 +46,29 @@ class SettingsDrawer {
       </svg>`;
     container.appendChild(btn);
     btn.addEventListener('click', () => this.open());
+  }
+
+  /** Gear button title/aria-label; re-run on every language change. */
+  updateButtonLabel() {
+    if (!this.btn) return;
+    const label = this.tr('reading_settings', 'Reading Settings');
+    this.btn.setAttribute('aria-label', label);
+    this.btn.setAttribute('title', label);
+  }
+
+  /** Localised name of a language code ("de" -> "Deutsch" / "German" / "ألمانية"), else the code. */
+  langName(code) {
+    try {
+      if (typeof Intl !== 'undefined' && Intl.DisplayNames) {
+        if (!this._langNames || this._langNamesFor !== this.language) {
+          this._langNames = new Intl.DisplayNames([this.language, 'en'], { type: 'language' });
+          this._langNamesFor = this.language;
+        }
+        const n = this._langNames.of(code);
+        if (n && n !== code) return n;
+      }
+    } catch (e) { /* unsupported locale: fall back to the code */ }
+    return code;
   }
 
   createDrawer() {
@@ -194,7 +218,7 @@ class SettingsDrawer {
     this.drawer.innerHTML = `
       <div class="flex items-center justify-between px-5 py-4 border-b border-gray-200 dark:border-gray-700 sticky top-0 bg-white dark:bg-gray-800 z-10">
         <h3 class="font-bold">⚙️ ${t('reading_settings', lang)}</h3>
-        <button id="sd-close" aria-label="${t('close', lang) || 'Close'}" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg text-gray-500">✕</button>
+        <button id="sd-close" aria-label="${this.tr('close', 'Close')}" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg text-gray-500">✕</button>
       </div>
       <div class="px-5 pb-8">
         ${this.sectionHead(t('display', lang))}
@@ -214,7 +238,7 @@ class SettingsDrawer {
         ${this.sectionHead(t('wbw_language', lang))}
         <select data-sd-select="wbwlang" class="w-full px-3 py-2 text-sm rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700">
           <option value="">${t('follow_app_language', lang)}</option>
-          ${QuranData.WBW_LANGS.map(l => `<option value="${l}" ${appSettings.get('wbwLang') === l ? 'selected' : ''}>${l}</option>`).join('')}
+          ${QuranData.WBW_LANGS.map(l => `<option value="${l}" ${appSettings.get('wbwLang') === l ? 'selected' : ''}>${this.langName(l)}</option>`).join('')}
         </select>
 
         ${this.sectionHead(t('font_size', lang))}

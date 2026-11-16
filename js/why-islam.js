@@ -146,6 +146,7 @@ class WhyIslamView {
     const readCount = WHY_ISLAM_DATA.filter(t => this.readSet.has(t.id)).length;
     const pct = total ? Math.round((readCount / total) * 100) : 0;
 
+    const rtl = typeof isRTL === 'function' && isRTL(this.language);
     const cards = list.map(topic => {
       const isRead = this.readSet.has(topic.id);
       const badge = isRead
@@ -158,7 +159,7 @@ class WhyIslamView {
           <span class="flex items-center gap-3">
             <span class="text-2xl" aria-hidden="true">${topic.emoji}</span>
             <span class="flex-1 min-w-0 font-bold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.lc(topic.title))}</span>
-            <span class="text-gray-300 dark:text-gray-600 group-hover:text-primary transition-colors" aria-hidden="true">→</span>
+            <span class="text-gray-300 dark:text-gray-600 group-hover:text-primary transition-colors" aria-hidden="true">${rtl ? '←' : '→'}</span>
           </span>
           <span class="text-sm text-gray-500 dark:text-gray-400 leading-relaxed" dir="auto">${this.esc(this.lc(topic.summary))}</span>
           <span class="mt-1 flex items-center justify-between">
@@ -231,7 +232,10 @@ class WhyIslamView {
     let body = '';
 
     if (topic.kind === 'qa') {
-      const qlabel = topic.qaLabel ? (this.esc(this.lc(topic.qaLabel)) + '&nbsp;') : 'Q';
+      /* The one-letter "Q" label comes from the qa_label_q key (es "P", de "F",
+       * ar "س"); longer labels such as "Objection" stay in the data. */
+      const ql = topic.qaLabel;
+      const qlabel = this.esc((!ql || ql.en === 'Q') ? this.tt('qa_label_q') : this.lc(ql)) + '&nbsp;';
       body = `<div class="flex flex-col gap-3">${(topic.qa || []).map((x, i) => `
         <details class="group rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden">
           <summary class="cursor-pointer list-none flex items-center gap-3 p-4 font-semibold text-gray-800 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-700/50">
@@ -303,7 +307,7 @@ class WhyIslamView {
       <div class="w-full">
         <button type="button" id="wi-back"
           class="inline-flex items-center gap-1.5 text-sm text-gray-500 dark:text-gray-400 hover:text-primary mb-5">
-          <span aria-hidden="true">←</span><span>${this.esc(this.tt('whyislam_back'))}</span>
+          <span aria-hidden="true">${(typeof isRTL === 'function' && isRTL(this.language)) ? '→' : '←'}</span><span>${this.esc(this.tt('whyislam_back'))}</span>
         </button>
 
         <div class="flex items-start gap-3 mb-4">

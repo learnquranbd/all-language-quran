@@ -634,6 +634,7 @@ const WHY_ISLAM_DATA = [
     id: 'questions',
     emoji: '💬',
     kind: 'qa',
+    qaLabel: { en: 'Q', bn: 'প্র' },
     title: { en: 'Common Questions', bn: 'সাধারণ প্রশ্নাবলি' },
     summary: {
       en: 'Sincere questions answered from the Islamic position — respectfully, without strawmen.',

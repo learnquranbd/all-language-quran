@@ -429,6 +429,7 @@ class ProgressDashboard {
     window.addEventListener('settingChanged', (e) => {
       if (e && e.detail && e.detail.key === 'language') {
         this.lang = e.detail.value;
+        if (this.btn) this.btn.setAttribute('title', this.tt('my_progress', 'My Progress'));
         if (this._open) this.renderPanel();
       }
     });

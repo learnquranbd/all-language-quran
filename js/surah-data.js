@@ -185,8 +185,14 @@ function getSurahName(surahNumber, lang = 'en') {
  * @returns {string}
  */
 function formatSurahOption(surah, lang = 'en') {
-  const name = surah.names[lang] || surah.names.en;
-  return `${surah.number}. ${name} (${surah.arabicName}) : ${surah.ayahCount} Ayahs`;
+  // getSurahName gives ar/fa the Arabic name; then the bracketed Arabic name
+  // would only repeat it.
+  const name = getSurahName(surah.number, lang) || surah.names.en;
+  const arabic = surah.arabicName && surah.arabicName !== name ? ` (${surah.arabicName})` : '';
+  const count = typeof tPlural === 'function'
+    ? tPlural('n_verses', surah.ayahCount, lang)
+    : `${surah.ayahCount} verses`;
+  return `${surah.number}. ${name}${arabic} : ${count}`;
 }
 
 // Export for module usage

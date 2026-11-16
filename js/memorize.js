@@ -53,6 +53,7 @@ class MemorizeChecker {
     window.addEventListener('ayahsLoaded', (e) => {
       this.ayahs = e.detail.ayahs;
       this.language = e.detail.language;
+      this.updateTipModalLabels();
       this.stop();
       this.drill = null;
       this.activeEnd = null;
@@ -66,6 +67,7 @@ class MemorizeChecker {
     window.addEventListener('settingChanged', (e) => {
       if (e.detail.key === 'language') {
         this.language = e.detail.value;
+        this.updateTipModalLabels();
       }
     });
 
@@ -210,7 +212,7 @@ class MemorizeChecker {
           <button id="mem-peek" class="px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700" title="${t('mem_peek', lang)}">
             👁️ <span id="mem-peek-label">${t('mem_peek', lang)} (${Math.max(0, this.peekMax - this.peeksUsed)})</span>
           </button>
-          <label class="flex items-center gap-2 ml-auto text-sm text-gray-600 dark:text-gray-300 cursor-pointer">
+          <label class="flex items-center gap-2 ms-auto text-sm text-gray-600 dark:text-gray-300 cursor-pointer">
             <input type="checkbox" id="mem-hide" ${this.hideWords ? 'checked' : ''} class="w-4 h-4">
             ${t('hide_words', lang)}
           </label>
@@ -261,7 +263,7 @@ class MemorizeChecker {
         </div>
 
         <div id="mem-status" role="status" aria-live="polite" class="mb-1 text-sm text-gray-500 dark:text-gray-400 min-h-[1.5rem]"></div>
-        <div class="mb-4 text-xs text-gray-400 dark:text-gray-500">💡 ${t('tap_word_hint', lang)}</div>
+        <div class="mb-4 text-xs text-gray-400 dark:text-gray-500">💡 ${t('mem_tap_word_hint', lang)}</div>
 
         <div id="mem-verses" class="space-y-6"></div>
 
@@ -305,7 +307,7 @@ class MemorizeChecker {
     versesEl.innerHTML = this.ayahs.map(ayah => `
       <div class="mem-verse" data-verse="${ayah.key}">
         <div class="flex flex-wrap items-center gap-2 mb-2">
-          <span class="text-xs text-gray-400">${ayah.surahName} ${ayah.key}</span>
+          <span class="text-xs text-gray-400">${(typeof getSurahName === 'function' && getSurahName(ayah.surah, lang)) || ayah.surahName} ${ayah.key}</span>
           <button data-restart-ayah="${ayah.key}" title="${t('restart_from_here', lang)}"
                   class="px-2 py-1.5 text-xs rounded border border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">
             ⟲ ${t('restart_from_here', lang)}
@@ -734,7 +736,7 @@ class MemorizeChecker {
         ${t('accuracy', lang)}: ${pct}%
       </div>
       <div class="text-sm text-gray-500 dark:text-gray-400 mt-1">
-        ${correct}/${total} · ${secs}s · ${t('mem_best_run', lang)} ${best}
+        ${tFill('mem_speech_summary', lang, { correct, total, secs, best })}
       </div>
       ${this.mistakesHtml(states)}
     `;
@@ -755,7 +757,7 @@ class MemorizeChecker {
       return `<div class="mt-3 text-sm text-green-600 dark:text-green-400">${t('mem_no_mistakes', lang)}</div>`;
     }
     return `
-      <div class="mt-4 pt-3 border-t border-green-200 dark:border-green-800 text-left">
+      <div class="mt-4 pt-3 border-t border-green-200 dark:border-green-800 text-start">
         <div class="text-xs uppercase text-gray-400 mb-2">${t('mem_mistakes', lang)} (${misses.length})</div>
         <div class="flex flex-wrap gap-2" dir="rtl">
           ${misses.map(idx => `
@@ -1121,6 +1123,15 @@ class MemorizeChecker {
       const ra = e.target.closest('[data-tip-recording]');
       if (ra) this.playRecording(ra.getAttribute('data-tip-recording'));
     });
+  }
+
+  /** Close button labels follow the UI language (the modal is built once). */
+  updateTipModalLabels() {
+    const btn = this.tipModal && this.tipModal.querySelector('#mem-tip-close');
+    if (!btn) return;
+    const label = t('close', this.language);
+    btn.setAttribute('aria-label', label);
+    btn.setAttribute('title', label);
   }
 
   closeTipModal() {

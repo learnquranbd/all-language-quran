@@ -181,10 +181,12 @@ class WordArrange {
     try {
       const verses = await QuranData.fetchRange(this.surah, this.ayah, this.ayah, this.language);
       const v = verses && verses[0];
-      this.words = (v && v.words ? v.words : []).filter(w => w.arabic && w.meaning);
+      // Keep every Arabic word: some ur/fa glosses are empty, and dropping those
+      // words left the verse incomplete yet still marked correct.
+      this.words = (v && v.words ? v.words : []).filter(w => w.arabic);
       if (!this.words.length) { board.innerHTML = `<div class="text-center py-10 text-gray-400">${this.tt('wa_no_words')}</div>`; return; }
     } catch (e) {
-      board.innerHTML = `<div class="text-center py-10 text-red-500">${this.tt('topics_load_error')}</div>`;
+      board.innerHTML = `<div class="text-center py-10 text-red-500">${this.tt('load_failed')}</div>`;
       return;
     }
     this.revealed = new Set();
@@ -224,10 +226,10 @@ class WordArrange {
         if (v.ayah === this.ayah && v.surah === this.surah) continue;
         for (const w of (v.words || [])) {
           if (decoys.length >= count) return;
-          if (!w.arabic || !w.meaning) continue;
+          if (!w.arabic) continue;
           if (inVerse.has(w.arabic) || seen.has(w.arabic)) continue;
           seen.add(w.arabic);
-          decoys.push({ arabic: w.arabic, meaning: w.meaning });
+          decoys.push({ arabic: w.arabic, meaning: w.meaning || '', translit: w.translit || '' });
         }
       }
     };
@@ -285,7 +287,7 @@ class WordArrange {
             <div class="flex flex-col items-center max-w-[110px]">
               <button data-reveal="${i}" class="ayah-arabic !text-2xl !leading-loose !mb-0 !pb-0 !border-b-0 px-1 transition ${shown ? '' : 'blur-sm hover:blur-none'}" title="${this.tt('wa_tap_reveal')}">${this.esc(w.arabic)}</button>
               <span class="flex items-center gap-1 mt-1">
-                <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 text-center leading-tight break-words" dir="auto">${this.esc(w.meaning)}</span>
+                <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 text-center leading-tight break-words" dir="auto">${this.esc(this.gloss(w))}</span>
                 ${w.audio ? `<button data-wa-audio="${this.esc(w.audio)}" title="${this.esc(this.tt('wa_hear_word'))}" aria-label="${this.esc(this.tt('wa_hear_word'))}" class="text-xs text-gray-400 hover:text-primary focus:outline-none">🔊</button>` : ''}
               </span>
             </div>`;
@@ -321,7 +323,7 @@ class WordArrange {
                 <span class="ayah-arabic !text-2xl !leading-normal !mb-0 !pb-0 !border-b-0">${filled ? this.esc(this.wordAt(placedIdx)?.arabic || '') : ''}</span>
               </button>
               <span class="flex items-center gap-1 mt-1 max-w-[72px]">
-                <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 text-center leading-tight break-words" dir="auto">${this.esc(w.meaning)}</span>
+                <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 text-center leading-tight break-words" dir="auto">${this.esc(this.gloss(w))}</span>
                 ${filled && this.wordAt(placedIdx) && this.wordAt(placedIdx).audio ? `<button data-wa-audio="${this.esc(this.wordAt(placedIdx).audio)}" title="${this.esc(this.tt('wa_hear_word'))}" aria-label="${this.esc(this.tt('wa_hear_word'))}" class="text-xs text-gray-400 hover:text-primary focus:outline-none">🔊</button>` : ''}
               </span>
             </div>`;
@@ -340,7 +342,7 @@ class WordArrange {
           <button data-reset class="text-xs px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">${this.tt('wa_reset')}</button>
           ${done ? `<span class="text-sm font-semibold ${allCorrect ? 'text-green-600 dark:text-green-400' : 'text-red-500 dark:text-red-400'}">${allCorrect ? '✓ ' + this.tt('wa_correct') : '✗ ' + this.tt('wa_wrong')}</span>` : ''}
           ${allCorrect && this._newBest ? `<span class="text-xs font-semibold text-amber-600 dark:text-amber-300">🏆 ${this.tt('wa_new_best')}</span>` : ''}
-          ${allCorrect && hasNext ? `<button data-ayah-nav="next" class="text-xs px-4 py-1.5 rounded-lg bg-primary text-white hover:bg-primary/80">${this.tt('wa_next_ayah')} →</button>` : ''}
+          ${allCorrect && hasNext ? `<button data-ayah-nav="next" class="text-xs px-4 py-1.5 rounded-lg bg-primary text-white hover:bg-primary/80">${this.tt('wa_next_ayah')} ${(typeof isRTL === 'function' && isRTL(this.language)) ? '←' : '→'}</button>` : ''}
         </div>
       </div>`;
   }
@@ -397,6 +399,9 @@ class WordArrange {
     const undo = e.target.closest('[data-undo]');
     if (undo && this.placed.length > 0) { this.placed.pop(); this.moves++; this._scored = false; this.renderBoard(); return; }
   }
+
+  /** Gloss for a word; an empty WBW gloss falls back to the transliteration. */
+  gloss(w) { return (w && (w.meaning || w.translit)) || '…'; }
 
   esc(s) { return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }
 }

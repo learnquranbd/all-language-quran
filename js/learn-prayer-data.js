@@ -66,7 +66,7 @@ const SALAH_DUAS = [
     arabic: 'سُبْحَانَ رَبِّيَ الْعَظِيمِ',
     transliteration: "Subhana Rabbiyal 'Azim",
     meaning: { en: 'Glory be to my Lord, the Most Great.', bn: 'আমার মহান রবের পবিত্রতা ঘোষণা করছি।' },
-    reference: { en: 'Abu Dawud, Ibn Majah' },
+    reference: { en: 'Abu Dawud, Ibn Majah', bn: 'আবু দাউদ, ইবন মাজাহ' },
     count: 3
   },
   {
@@ -83,7 +83,7 @@ const SALAH_DUAS = [
     arabic: 'رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيرًا طَيِّبًا مُّبَارَكًا فِيهِ',
     transliteration: "Rabbana wa lakal hamd, hamdan kathiran tayyiban mubarakan fih",
     meaning: { en: 'Our Lord, all praise is Yours — abundant, pure and blessed praise.', bn: 'হে আমাদের রব, সব প্রশংসা আপনারই; অনেক অনেক প্রশংসা, পবিত্র ও বরকতময় প্রশংসা।' },
-    reference: { en: 'Bukhari' }
+    reference: { en: 'Bukhari', bn: 'বুখারী' }
   },
   {
     id: 'sujud_tasbeeh',
@@ -91,7 +91,7 @@ const SALAH_DUAS = [
     arabic: 'سُبْحَانَ رَبِّيَ الْأَعْلَىٰ',
     transliteration: "Subhana Rabbiyal A'la",
     meaning: { en: 'Glory be to my Lord, the Most High.', bn: 'আমার সুউচ্চ রবের পবিত্রতা ঘোষণা করছি।' },
-    reference: { en: 'Abu Dawud, Ibn Majah' },
+    reference: { en: 'Abu Dawud, Ibn Majah', bn: 'আবু দাউদ, ইবন মাজাহ' },
     count: 3
   },
   {
@@ -100,7 +100,7 @@ const SALAH_DUAS = [
     arabic: 'رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي',
     transliteration: "Rabbighfir li, Rabbighfir li",
     meaning: { en: 'My Lord, forgive me. My Lord, forgive me.', bn: 'হে আমার রব, আমাকে ক্ষমা করুন। হে আমার রব, আমাকে ক্ষমা করুন।' },
-    reference: { en: 'Abu Dawud, Ibn Majah, Hakim' }
+    reference: { en: 'Abu Dawud, Ibn Majah, Hakim', bn: 'আবু দাউদ, ইবন মাজাহ, হাকিম' }
   },
   {
     id: 'tashahhud',
@@ -124,7 +124,7 @@ const SALAH_DUAS = [
     arabic: 'رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ',
     transliteration: "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan waqina 'adhaban-nar",
     meaning: { en: 'Our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.', bn: 'হে আমাদের রব, আমাদের দুনিয়াতে কল্যাণ দিন, আখিরাতেও কল্যাণ দিন এবং জাহান্নামের শাস্তি থেকে রক্ষা করুন।' },
-    reference: { en: 'Quran 2:201' }
+    reference: { en: 'Quran 2:201', bn: 'কুরআন ২:২০১' }
   },
   {
     id: 'salam',
@@ -132,11 +132,12 @@ const SALAH_DUAS = [
     arabic: 'السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ',
     transliteration: "Assalamu alaykum wa rahmatullah",
     meaning: { en: 'Peace be upon you and the mercy of Allah.', bn: 'আপনার উপর শান্তি ও আল্লাহর রহমত বর্ষিত হোক।' },
-    reference: { en: 'Abu Dawud, Tirmidhi' }
+    reference: { en: 'Abu Dawud, Tirmidhi', bn: 'আবু দাউদ, তিরমিযী' }
   },
   {
     id: 'ta_awwudh',
     step: 'before_fatiha',
+    title: { en: "Ta'awwudh (Seeking Refuge)", bn: 'তাআউয (আশ্রয় প্রার্থনা)' },
     arabic: 'أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ',
     transliteration: "A'udhu billahi minash-shaytanir-rajim",
     meaning: { en: 'I seek refuge in Allah from the accursed Shaytan. (Isti\'adhah — recited silently before Surah al-Fatiha in each rak\'ah.)', bn: 'আমি বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চাই। (একে ইসতিয়াযাহ বলে; প্রতি রাকাতে সূরা ফাতিহার আগে চুপে চুপে পড়তে হয়।)' },
@@ -209,6 +210,7 @@ const SALAH_DUAS = [
   {
     id: 'qunut_witr',
     step: 'qunut',
+    title: { en: "The Qunut du'a", bn: 'দোয়া কুনুত (বিতর)' },
     arabic: 'اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلَا يُقْضَىٰ عَلَيْكَ، وَإِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ، وَلَا يَعِزُّ مَنْ عَادَيْتَ، تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ',
     transliteration: "Allahummahdini fiman hadayt, wa 'afini fiman 'afayt, wa tawallanee fiman tawallayt, wa barik li fima a'tayt, wa qini sharra ma qadayt, fa-innaka taqdee wa la yuqdaa 'alayk, wa innahu la yadhillu man walayt, wa la ya'izzu man 'adayt, tabarakta Rabbana wa ta'alayt",
     meaning: { en: 'O Allah, guide me among those You have guided; grant well-being among those You gave well-being; take me into Your care among those You cared for; bless me in what You bestowed; protect me from the evil of what You decreed — for You decree and none decrees over You; none whom You befriend is humbled; none whom You oppose is honoured. Blessed are You, our Lord, Most High. (Qunut al-Witr — recited in the last rak\'ah of Witr.)', bn: 'হে আল্লাহ! আপনি যাদের হেদায়াত দিয়েছেন, তাদের সঙ্গে আমাকেও হেদায়াত দিন। যাদের সুস্থতা দিয়েছেন, তাদের সঙ্গে আমাকেও সুস্থতা দিন। যাদের অভিভাবক হয়েছেন, তাদের সঙ্গে আমারও অভিভাবক হোন। যা দিয়েছেন, তাতে বরকত দিন। আপনার ফায়সালার মন্দ থেকে আমাকে রক্ষা করুন। আপনিই ফায়সালা করেন, আপনার ওপর কেউ ফায়সালা করতে পারে না। আপনি যার বন্ধু হন, সে কখনো অপমানিত হয় না; আর যার শত্রু হন, সে কখনো সম্মান পায় না। হে আমাদের রব, আপনি বরকতময়, সুউচ্চ। (কুনূতে বিতর: বিতরের শেষ রাকাতে পড়া হয়।)' },
@@ -217,6 +219,7 @@ const SALAH_DUAS = [
   {
     id: 'istikhara',
     step: 'istikhara',
+    title: { en: 'Istikhara (Seeking Guidance)', bn: 'ইস্তিখারার দোয়া' },
     arabic: 'اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ. اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ. وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ وَاقْدُرْ لِي الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ',
     transliteration: "Allahumma inni astakhiruka bi'ilmika, wa astaqdiruka biqudratika, wa as'aluka min fadlikal-'azim, fa-innaka taqdiru wa la aqdir, wa ta'lamu wa la a'lam, wa Anta 'allamul-ghuyub. Allahumma in kunta ta'lamu anna hadhal-amra khayrun li fi dini wa ma'ashi wa 'aqibati amri faqdurhu li wa yassirhu li thumma barik li fih. Wa in kunta ta'lamu anna hadhal-amra sharrun li fi dini wa ma'ashi wa 'aqibati amri fasrifhu 'anni wasrifni 'anhu waqdur liyal-khayra haythu kana thumma ardini bih.",
     meaning: { en: 'O Allah, I seek Your guidance through Your knowledge, and I seek Your decree through Your power, and I ask You from Your immense bounty. For You decree and I cannot, and You know and I do not, and You are the Knower of the unseen. O Allah, if You know that this matter is good for me in my religion, my livelihood, and the outcome of my affairs, then decree it for me, make it easy for me, and bless me in it. And if You know that this matter is evil for me in my religion, my livelihood, and the outcome of my affairs, then turn it away from me and turn me away from it, and decree for me good wherever it may be, and then make me content with it. (The prescribed du\'a after 2 rak\'ahs of Istikhara, mentioning the specific matter.)', bn: 'হে আল্লাহ! আমি আপনার জ্ঞানের ওসিলায় আপনার কাছে কল্যাণ চাই, আপনার কুদরতের ওসিলায় সামর্থ্য চাই এবং আপনার মহা অনুগ্রহ প্রার্থনা করি। আপনি ক্ষমতা রাখেন, আমি রাখি না; আপনি জানেন, আমি জানি না; আর আপনিই গায়েবের সব খবর জানেন। হে আল্লাহ! আপনি যদি জানেন যে এই কাজটি আমার দ্বীন, জীবিকা ও শেষ পরিণামের জন্য কল্যাণকর, তাহলে তা আমার জন্য নির্ধারণ করুন, সহজ করে দিন এবং তাতে বরকত দিন। আর যদি জানেন যে এই কাজটি আমার দ্বীন, জীবিকা ও শেষ পরিণামের জন্য ক্ষতিকর, তাহলে তা আমার কাছ থেকে সরিয়ে দিন এবং আমাকেও তা থেকে ফিরিয়ে রাখুন। কল্যাণ যেখানেই থাকুক, আমার জন্য তা নির্ধারণ করুন, তারপর তাতে আমাকে সন্তুষ্ট রাখুন। (ইস্তিখারার ২ রাকাত নামাজের পর নির্দিষ্ট বিষয়টি উল্লেখ করে এই দোয়া পড়তে হয়।)' },
@@ -233,6 +236,7 @@ const SALAH_DUAS = [
   {
     id: 'post_salam_istighfar',
     step: 'post_salam',
+    title: { en: "After Salam: Istighfar", bn: 'সালামের পর: ইস্তিগফার' },
     arabic: 'أَسْتَغْفِرُ اللَّهَ',
     transliteration: "Astaghfirullah",
     meaning: { en: 'I seek forgiveness from Allah — said three times immediately upon completing the salam.', bn: 'আমি আল্লাহর কাছে ক্ষমা চাই। (সালাম ফেরানোর সঙ্গে সঙ্গে তিনবার বলতে হয়।)' },
@@ -242,6 +246,7 @@ const SALAH_DUAS = [
   {
     id: 'post_salam_antassalam',
     step: 'post_salam',
+    title: { en: "After Salam: Allahumma Antas-Salam", bn: 'সালামের পর: আল্লাহুম্মা আনতাস সালাম' },
     arabic: 'اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ',
     transliteration: "Allahumma antas-salamu wa minkas-salamu, tabarakta ya dhal-jalali wal-ikram",
     meaning: { en: 'O Allah, You are Peace and from You is peace. Blessed are You, O Possessor of Majesty and Honor. (Said after the three istighfars following salam.)', bn: 'হে আল্লাহ! আপনিই শান্তি, আপনার কাছ থেকেই শান্তি আসে। আপনি বরকতময়, হে মহিমা ও সম্মানের মালিক। (সালামের পর তিনবার ইস্তিগফার পড়ে এটি বলা হয়।)' },
@@ -304,14 +309,14 @@ const SALAH_TASBEEH = [
     transliteration: "Astaghfirullah",
     meaning: { en: 'I seek forgiveness from Allah.', bn: 'আমি আল্লাহর কাছে ক্ষমা চাই।' },
     count: 3,
-    reference: { en: 'Muslim' }
+    reference: { en: 'Muslim', bn: 'মুসলিম' }
   },
   {
     id: 'allahumma_antassalam',
     arabic: 'اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ',
     transliteration: "Allahumma antas-salamu wa minkas-salamu, tabarakta ya dhal-jalali wal-ikram",
     meaning: { en: 'O Allah, You are Peace and from You is peace. Blessed are You, O Possessor of Majesty and Honor.', bn: 'হে আল্লাহ! আপনিই শান্তি এবং আপনার কাছ থেকেই শান্তি। আপনি বরকতময়, হে মহিমা ও সম্মানের অধিকারী।' },
-    reference: { en: 'Muslim' }
+    reference: { en: 'Muslim', bn: 'মুসলিম' }
   },
   {
     id: 'subhanallah',
@@ -349,14 +354,14 @@ const SALAH_TASBEEH = [
     arabic: 'اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ',
     transliteration: "Allahu la ilaha illa Huwal-Hayyul-Qayyum. La ta'khudhuhu sinatun wa la nawm. Lahu ma fis-samawati wa ma fil-ard. Man dhal-ladhi yashfa'u 'indahu illa bi-idhnih. Ya'lamu ma bayna aydihim wa ma khalfahum, wa la yuhituna bi shay'im min 'ilmihi illa bima sha'. Wasi'a kursiyyuhus-samawati wal-ard, wa la ya'uduhu hifdhuhuma, wa Huwal-'Aliyyul-'Azim.",
     meaning: { en: 'Allah — there is no god but He, the Ever-Living, the Sustainer of all. Neither drowsiness nor sleep overtakes Him. To Him belongs all that is in the heavens and all that is on earth. Who can intercede with Him except by His permission? He knows what is before them and what is behind them, while they encompass nothing of His knowledge except what He wills. His Kursi extends over the heavens and the earth, and their preservation does not weary Him. He is the Most High, the Most Great.', bn: 'আল্লাহ, তিনি ছাড়া কোনো মাবুদ নেই। তিনি চিরঞ্জীব, সবকিছুর ধারক। তন্দ্রা বা ঘুম কোনোটিই তাঁকে স্পর্শ করে না। আসমান ও জমিনে যা কিছু আছে, সবই তাঁর। কে আছে যে তাঁর অনুমতি ছাড়া তাঁর কাছে সুপারিশ করবে? তাদের সামনে ও পেছনে যা আছে, সবই তিনি জানেন। তিনি যতটুকু চান, তার বাইরে তাঁর জ্ঞানের কিছুই তারা আয়ত্ত করতে পারে না। তাঁর কুরসি আসমান ও জমিন জুড়ে বিস্তৃত, আর এ দুটোকে রক্ষা করা তাঁকে ক্লান্ত করে না। তিনি সুউচ্চ, মহান।' },
-    reference: { en: 'Quran 2:255' }
+    reference: { en: 'Quran 2:255', bn: 'কুরআন ২:২৫৫' }
   },
   {
     id: 'quls',
     arabic: 'قُلْ هُوَ اللَّهُ أَحَدٌ …',
     transliteration: "Qul Huwallahu Ahad...",
     meaning: { en: 'Recite Surah al-Ikhlas, al-Falaq and an-Nas for protection.', bn: 'হেফাজতের জন্য সূরা ইখলাস, ফালাক ও নাস পড়ুন।' },
-    reference: { en: 'Abu Dawud, Tirmidhi' },
+    reference: { en: 'Abu Dawud, Tirmidhi', bn: 'আবু দাউদ, তিরমিযী' },
     count: 3
   },
   {

@@ -51,7 +51,13 @@ class QuranicArabicView {
     window.addEventListener('settingChanged', (e) => {
       try {
         if (e && e.detail && e.detail.key === 'language') {
-          this.language = e.detail.value || 'en';
+          // A content-pack load event carries the language of the file that
+          // just arrived, which may be stale; trust the current app setting.
+          let lang = e.detail.value;
+          if (e.detail.contentI18n && typeof appSettings !== 'undefined' && appSettings) {
+            try { lang = appSettings.get('language') || lang; } catch (er) { /* ignore */ }
+          }
+          this.language = lang || 'en';
           if (this.rendered) this.render();
         }
       } catch (err) { /* ignore */ }
@@ -205,7 +211,23 @@ class QuranicArabicView {
   }
   L(obj) { return this.lc(obj); } // legacy alias
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
-  optText(o) { return typeof o === 'string' ? o : this.lc(o); }
+  optText(o) {
+    if (typeof o !== 'string') return this.lc(o);
+    if (this.language !== 'en' && typeof CI18N !== 'undefined') {
+      try { const tr = CI18N.tr(this.language, o); if (tr) return tr; } catch (e) { /* ignore */ }
+    }
+    return o;
+  }
+
+  // "Lesson 3 of 443" as one template so word order is right in every language.
+  lessonOf(n, total) {
+    try {
+      if (typeof tFill === 'function' && typeof t === 'function' && t('qa_lesson_of', this.language) !== 'qa_lesson_of') {
+        return tFill('qa_lesson_of', this.language, { n: n, total: total });
+      }
+    } catch (e) { /* fall through */ }
+    return this.tt('qa_lesson') + ' ' + n + ' ' + this.tt('qa_of') + ' ' + total;
+  }
 
   loadProgress() {
     try {
@@ -519,7 +541,7 @@ class QuranicArabicView {
       const deck = this.shuffle(this.allVocab()).slice(0, 5);
       if (deck.length < 2) { this.toSyllabus(); return; }
       // Each pair gets a stable id; the right column is a shuffled view of the same pairs.
-      const pairs = deck.map((w, i) => ({ id: i, ar: w.ar, meaning: this.lc(w) }));
+      const pairs = deck.map((w, i) => ({ id: i, ar: w.ar, rec: w }));
       this.match = {
         left: pairs,
         right: this.shuffle(pairs.slice()),
@@ -620,7 +642,7 @@ class QuranicArabicView {
         const learned = this.isLearned(l.id);
         return `
           <button type="button" data-qa-open="${idx}"
-            class="group w-full text-left flex items-center gap-3 p-3 rounded-xl bg-white dark:bg-gray-800 border ${learned ? 'border-emerald-300 dark:border-emerald-700' : 'border-gray-200 dark:border-gray-700'} hover:border-primary hover:shadow-md transition-all">
+            class="group w-full text-start flex items-center gap-3 p-3 rounded-xl bg-white dark:bg-gray-800 border ${learned ? 'border-emerald-300 dark:border-emerald-700' : 'border-gray-200 dark:border-gray-700'} hover:border-primary hover:shadow-md transition-all">
             <span class="flex items-center justify-center w-9 h-9 shrink-0 rounded-lg text-lg ${learned ? 'bg-emerald-100 dark:bg-emerald-900/40' : 'bg-gray-100 dark:bg-gray-700'}" aria-hidden="true">${learned ? '✓' : this.esc(l.icon)}</span>
             <span class="flex-1 min-w-0">
               <span class="block font-semibold text-gray-800 dark:text-gray-100 truncate" dir="auto">${this.esc(this.lc(l.title))}</span>
@@ -703,7 +725,7 @@ class QuranicArabicView {
           const rl = this.lessons()[ri];
           if (!rl) return '';
           return `
-        <button type="button" data-qa-resume class="w-full mb-5 flex items-center gap-3 p-3 rounded-2xl bg-white dark:bg-gray-800 border border-primary/40 hover:border-primary hover:shadow-md transition-all text-left">
+        <button type="button" data-qa-resume class="w-full mb-5 flex items-center gap-3 p-3 rounded-2xl bg-white dark:bg-gray-800 border border-primary/40 hover:border-primary hover:shadow-md transition-all text-start">
           <span class="flex items-center justify-center w-10 h-10 shrink-0 rounded-xl bg-primary/10 text-lg" aria-hidden="true">↩️</span>
           <span class="flex-1 min-w-0">
             <span class="block text-[0.7rem] font-semibold uppercase tracking-wide text-primary">${this.esc(this.tt('qa_resume'))}</span>
@@ -828,7 +850,7 @@ class QuranicArabicView {
       }
       return `
         <button type="button" ${answered ? 'disabled' : `data-qa-opt="${i}"`}
-          class="w-full text-left flex items-center justify-between gap-2 px-3.5 py-2.5 rounded-xl border ${cls} transition-all">
+          class="w-full text-start flex items-center justify-between gap-2 px-3.5 py-2.5 rounded-xl border ${cls} transition-all">
           <span dir="auto">${this.esc(this.optText(o))}</span>
           <span class="text-sm font-bold" aria-hidden="true">${icon}</span>
         </button>`;
@@ -872,7 +894,7 @@ class QuranicArabicView {
           <button type="button" data-qa-back class="inline-flex items-center gap-1.5 text-sm font-semibold text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
             ‹ ${this.esc(this.tt('qa_back'))}
           </button>
-          <span class="text-xs text-gray-400 dark:text-gray-500">${this.esc(this.tt('qa_lesson'))} ${idx + 1} ${this.esc(this.tt('qa_of'))} ${list.length}</span>
+          <span class="text-xs text-gray-400 dark:text-gray-500">${this.esc(this.lessonOf(idx + 1, list.length))}</span>
         </div>
 
         <div class="mb-4">
@@ -906,7 +928,7 @@ class QuranicArabicView {
               <span class="text-[0.6rem] text-primary/70">📖 ${this.esc(w.ref)}</span>
             </button>
             ${tts ? `<button type="button" data-qa-say="${this.esc(w.ar)}" title="${this.esc(this.tt('qa_listen'))}" aria-label="${this.esc(this.tt('qa_listen'))}"
-              class="absolute top-1.5 right-1.5 w-7 h-7 flex items-center justify-center rounded-full bg-gray-100 dark:bg-gray-700 text-sm text-gray-500 dark:text-gray-300 hover:bg-primary/15 hover:text-primary transition-colors">🔊</button>` : ''}
+              class="absolute top-1.5 end-1.5 w-7 h-7 flex items-center justify-center rounded-full bg-gray-100 dark:bg-gray-700 text-sm text-gray-500 dark:text-gray-300 hover:bg-primary/15 hover:text-primary transition-colors">🔊</button>` : ''}
           </div>`).join('')}
         </div>` : ''}
 
@@ -935,7 +957,7 @@ class QuranicArabicView {
   /* ---------- glossary ---------- */
   glossaryMatch(item, q) {
     if (!q) return true;
-    const hay = [item.translit, item.en, item.bn, item.ar].join(' ').toLowerCase();
+    const hay = [item.translit, item.en, item.bn, item.ar, this.lc(item)].join(' ').toLowerCase();
     return hay.indexOf(q.toLowerCase()) >= 0;
   }
 
@@ -998,7 +1020,7 @@ class QuranicArabicView {
   renderGlossary() {
     const q = (this.glossaryQuery || '').trim();
     const rows = QA_GLOSSARY.map(item => {
-      const hay = [item.translit, item.en, item.bn, item.ar].join(' ');
+      const hay = [item.translit, item.en, item.bn, item.ar, this.lc(item)].join(' ');
       const hidden = this.glossaryMatch(item, q) ? '' : ' hidden';
       const ex = item.ex ? `
         <button type="button" data-qa-ref="${this.esc(item.ex.ref)}" data-qa-word="${this.esc(item.ex.ar)}"
@@ -1158,7 +1180,7 @@ class QuranicArabicView {
         <button type="button" ${done ? 'disabled' : `data-qa-mleft="${p.id}"`}
           class="w-full flex items-center justify-center px-3 py-3 rounded-xl border ${cls} transition-all">
           <span class="text-2xl leading-snug text-gray-800 dark:text-gray-100" dir="rtl" lang="ar">${this.esc(p.ar)}</span>
-          ${done ? '<span class="ml-2 text-emerald-600 dark:text-emerald-400 text-sm">✓</span>' : ''}
+          ${done ? '<span class="ms-2 text-emerald-600 dark:text-emerald-400 text-sm">✓</span>' : ''}
         </button>`;
     }).join('');
 
@@ -1170,8 +1192,8 @@ class QuranicArabicView {
       else if (wrong) cls = 'bg-rose-50 dark:bg-rose-900/30 border-rose-300 dark:border-rose-700';
       return `
         <button type="button" ${done ? 'disabled' : `data-qa-mright="${p.id}"`}
-          class="w-full flex items-center justify-between gap-2 px-3 py-3 rounded-xl border ${cls} transition-all text-left">
-          <span class="text-sm text-gray-700 dark:text-gray-200" dir="auto">${this.esc(p.meaning)}</span>
+          class="w-full flex items-center justify-between gap-2 px-3 py-3 rounded-xl border ${cls} transition-all text-start">
+          <span class="text-sm text-gray-700 dark:text-gray-200" dir="auto">${this.esc(this.lc(p.rec))}</span>
           ${done ? '<span class="text-emerald-600 dark:text-emerald-400 text-sm">✓</span>' : (wrong ? '<span class="text-rose-500 text-sm">✕</span>' : '')}
         </button>`;
     }).join('');
@@ -1225,7 +1247,7 @@ class QuranicArabicView {
       return `
         <div class="w-full max-w-xl mx-auto text-center">
           <div class="mb-4">
-            <button type="button" data-qa-back class="inline-flex items-center gap-1.5 text-sm font-semibold text-gray-500 dark:text-gray-400 hover:text-primary transition-colors float-left">‹ ${this.esc(this.tt('qa_back'))}</button>
+            <button type="button" data-qa-back class="inline-flex items-center gap-1.5 text-sm font-semibold text-gray-500 dark:text-gray-400 hover:text-primary transition-colors float-start">‹ ${this.esc(this.tt('qa_back'))}</button>
           </div>
           <div class="pt-8 p-6 rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
             <div class="text-5xl mb-3">${good ? '🎉' : '📚'}</div>
@@ -1254,7 +1276,7 @@ class QuranicArabicView {
       }
       return `
         <button type="button" ${answered ? 'disabled' : `data-qa-qopt="${i}"`}
-          class="w-full text-left flex items-center justify-between gap-2 px-3.5 py-2.5 rounded-xl border ${cls} transition-all">
+          class="w-full text-start flex items-center justify-between gap-2 px-3.5 py-2.5 rounded-xl border ${cls} transition-all">
           <span dir="auto">${this.esc(this.optText(o))}</span>
           <span class="text-sm font-bold" aria-hidden="true">${icon}</span>
         </button>`;

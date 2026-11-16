@@ -41,6 +41,17 @@ class SawmModule {
     return d.innerHTML;
   }
 
+  /* Verse chip label. en and bn keep "2:183 Read"; other languages use the
+   * imperative open_verse key, because the shared 'Read' string translates as
+   * "already read" in many packs (de "Gelesen", ar "مقروء"). ref is HTML-safe. */
+  readLbl(ref) {
+    const lang = this.language;
+    if (lang && lang !== 'en' && lang !== 'bn' && typeof t === 'function') {
+      return this.esc(t('open_verse', lang)) + (ref ? ' ' + ref : '');
+    }
+    return (ref ? ref + ' ' : '') + (lang === 'bn' ? 'পড়ুন' : 'Read');
+  }
+
   render() {
     this.rendered = true;
     const L = (o) => this.lc(o);
@@ -61,15 +72,15 @@ class SawmModule {
           <div class="space-y-3">
             <div class="p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
               <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${L({ en: '"O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous."', bn: '"হে ঈমানদারগণ! তোমাদের উপর রোজা ফরয করা হয়েছে, যেমন ফরয করা হয়েছিল তোমাদের পূর্ববর্তীদের উপর, যাতে তোমরা তাকওয়া অবলম্বন করতে পার।"' })}</p>
-              <button type="button" data-sawm-ayah="2:183" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium hover:bg-amber-500 hover:text-white transition-colors">📖 2:183 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+              <button type="button" data-sawm-ayah="2:183" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium hover:bg-amber-500 hover:text-white transition-colors">📖 ${this.readLbl('2:183')}</button>
             </div>
             <div class="p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
               <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${L({ en: '"The month of Ramadan [is that] in which was revealed the Qur\'an, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the new moon of] the month, let him fast it."', bn: '"রমজান মাস, যাতে কুরআন নাযিল করা হয়েছে মানুষের জন্য হিদায়াতস্বরূপ এবং হিদায়াত ও ফুরকানের সুস্পষ্ট প্রমাণস্বরূপ। সুতরাং তোমাদের মধ্যে যে এই মাস পাবে, সে যেন রোজা রাখে।"' })}</p>
-              <button type="button" data-sawm-ayah="2:185" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium hover:bg-amber-500 hover:text-white transition-colors">📖 2:185 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+              <button type="button" data-sawm-ayah="2:185" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium hover:bg-amber-500 hover:text-white transition-colors">📖 ${this.readLbl('2:185')}</button>
             </div>
             <div class="p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
               <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${L({ en: '"And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the night."', bn: '"আর তোমরা পানাহর কর যতক্ষণ না ফজরের শুভ্র রেখা কালো রেখা থেকে স্পষ্ট হয়। এরপর রাত পর্যন্ত রোজা পূর্ণ কর।"' })}</p>
-              <button type="button" data-sawm-ayah="2:187" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium hover:bg-amber-500 hover:text-white transition-colors">📖 2:187 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+              <button type="button" data-sawm-ayah="2:187" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium hover:bg-amber-500 hover:text-white transition-colors">📖 ${this.readLbl('2:187')}</button>
             </div>
           </div>
         </div>
@@ -176,21 +187,21 @@ class SawmModule {
             <div class="p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
               <div class="flex items-center gap-2 mb-1">
                 <span class="text-xs font-bold text-amber-700 dark:text-amber-300 bg-amber-200/60 dark:bg-amber-800/40 px-2 py-0.5 rounded">2:183</span>
-                <button type="button" data-sawm-ayah="2:183" class="text-xs text-amber-600 dark:text-amber-400 hover:underline">📖 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+                <button type="button" data-sawm-ayah="2:183" class="text-xs text-amber-600 dark:text-amber-400 hover:underline">📖 ${this.readLbl('')}</button>
               </div>
               <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${L({ en: 'Allah addresses the believers directly — "O you who have believed" — tying fasting to faith itself. Fasting was decreed for earlier nations too, confirming its universal spiritual value across all revealed religions. The word "kutiba" (decreed) is the same used for obligatory prayer, indicating fasting\'s firm obligation. The ultimate purpose is taqwa: heightened God-consciousness that shapes every action.', bn: 'আল্লাহ সরাসরি মুমিনদের সম্বোধন করেন — "হে ঈমানদারগণ" — রোজাকে ঈমানের সাথে যুক্ত করে। পূর্ববর্তী উম্মতের জন্যও রোজা ফরজ ছিল, যা এর সার্বজনীন আধ্যাত্মিক মূল্য প্রমাণ করে। "কুতিবা" শব্দটি নামাজের জন্যও ব্যবহৃত হয়েছে, যা রোজার দৃঢ় বাধ্যবাধকতা নির্দেশ করে। চূড়ান্ত উদ্দেশ্য হলো তাকওয়া — গভীর আল্লাহ-সচেতনতা।' })}</p>
             </div>
             <div class="p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
               <div class="flex items-center gap-2 mb-1">
                 <span class="text-xs font-bold text-amber-700 dark:text-amber-300 bg-amber-200/60 dark:bg-amber-800/40 px-2 py-0.5 rounded">2:184</span>
-                <button type="button" data-sawm-ayah="2:184" class="text-xs text-amber-600 dark:text-amber-400 hover:underline">📖 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+                <button type="button" data-sawm-ayah="2:184" class="text-xs text-amber-600 dark:text-amber-400 hover:underline">📖 ${this.readLbl('')}</button>
               </div>
               <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${L({ en: 'This verse establishes the mercy-based exemptions: the sick and the traveler may break the fast and make up an equal number of days. Those permanently unable to fast — the elderly and chronically ill — pay fidyah (feeding one poor person per missed day). Ibn Kathir notes the early Muslims had a choice between fasting or fidyah, but 2:185 then made fasting obligatory for those who are present and able.', bn: 'এই আয়াত রহমত-ভিত্তিক ছাড় নির্ধারণ করে: অসুস্থ ও মুসাফির রোজা ভেঙে পরে সমান দিন কাযা করবে। স্থায়ীভাবে অক্ষম — বৃদ্ধ ও দীর্ঘমেয়াদী রোগী — ফিদইয়া দেবে (প্রতিটি রোজার জন্য একজন দরিদ্রকে খাওয়ানো)। ইবনে কাসির বলেন, শুরুতে মুসলিমদের রোজা বা ফিদইয়ার বিকল্প ছিল, কিন্তু ২:১৮৫ আয়াত সক্ষম মুকিমদের জন্য রোজাকে বাধ্যতামূলক করে।' })}</p>
             </div>
             <div class="p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
               <div class="flex items-center gap-2 mb-1">
                 <span class="text-xs font-bold text-amber-700 dark:text-amber-300 bg-amber-200/60 dark:bg-amber-800/40 px-2 py-0.5 rounded">2:185</span>
-                <button type="button" data-sawm-ayah="2:185" class="text-xs text-amber-600 dark:text-amber-400 hover:underline">📖 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+                <button type="button" data-sawm-ayah="2:185" class="text-xs text-amber-600 dark:text-amber-400 hover:underline">📖 ${this.readLbl('')}</button>
               </div>
               <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${L({ en: 'Ramadan is identified as the month of the Quran\'s revelation — making it the most blessed month. Whoever witnesses the crescent must fast the full month. The traveler\'s exemption is repeated, emphasising Allah\'s mercy. The verse closes with "Allah intends for you ease, not hardship" — a foundational principle of Islamic law (la haraj). The phrase "walitukammilu al-\'iddata" commands completing the full count of days.', bn: 'রমজানকে কুরআন নাযিলের মাস হিসেবে চিহ্নিত করা হয়েছে — এটিকে সর্বোচ্চ মর্যাদার মাস করে। যে এই মাস পাবে সে পূর্ণ মাস রোজা রাখবে। মুসাফিরের ছাড় পুনরাবৃত্তি করে আল্লাহর রহমত তুলে ধরা হয়। আয়াতটি "আল্লাহ তোমাদের জন্য সহজ চান, কঠিন চান না" দিয়ে শেষ হয় — ইসলামি বিধানের ভিত্তিমূলক নীতি (লা হারাজ)।' })}</p>
             </div>
@@ -203,7 +214,7 @@ class SawmModule {
             <div class="p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
               <div class="flex items-center gap-2 mb-1">
                 <span class="text-xs font-bold text-amber-700 dark:text-amber-300 bg-amber-200/60 dark:bg-amber-800/40 px-2 py-0.5 rounded">2:187</span>
-                <button type="button" data-sawm-ayah="2:187" class="text-xs text-amber-600 dark:text-amber-400 hover:underline">📖 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+                <button type="button" data-sawm-ayah="2:187" class="text-xs text-amber-600 dark:text-amber-400 hover:underline">📖 ${this.readLbl('')}</button>
               </div>
               <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${L({ en: 'This verse abrogated an earlier restriction, informing believers that marital relations are permitted at night during Ramadan. The metaphor "they are garments for you and you are garments for them" — expressing profound intimacy and mutual protection — is one of the Quran\'s most beautiful descriptions of marriage. The verse precisely defines the fast: from the white thread of dawn (Fajr) to the night (Maghrib). It also commands staying in mosques for i\'tikaf and not approaching spouses during that retreat.', bn: 'এই আয়াত একটি পূর্ববর্তী নিষেধাজ্ঞা রহিত করে, মুমিনদের জানায় রমজানের রাতে দাম্পত্য মিলন বৈধ। "তারা তোমাদের পোশাক এবং তোমরা তাদের পোশাক" — গভীর ঘনিষ্ঠতা ও পারস্পরিক সুরক্ষা প্রকাশকারী — কুরআনের বিবাহের সুন্দরতম বর্ণনা। আয়াতটি রোজার সময় নির্ধারণ করে: ফজরের শুভ্র রেখা থেকে রাত পর্যন্ত এবং ইতিকাফের নির্দেশ দেয়।' })}</p>
             </div>

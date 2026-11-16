@@ -33,7 +33,7 @@ const VOCAB_WORDS = [
   },
   {
     arabic: 'فِي', translit: 'fī', count: 1700,
-    meanings: { en: 'in', bn: 'মধ্যে', fr: 'dans', id: 'di dalam', ur: 'میں', tr: 'içinde', ar: 'دَاخِلَ' , zh: '在…里', ja: '〜の中に'}
+    meanings: { en: 'in', bn: 'মধ্যে', fr: 'dans', id: 'di dalam', ur: 'میں', tr: 'içinde', ar: 'دَاخِلَ' , zh: '在…里', ja: '〜の中に', hi: 'में', es: 'en', ru: 'в', de: 'in', fa: 'در', ms: 'dalam'}
   },
   {
     arabic: 'إِنَّ', translit: 'inna', count: 1680,
@@ -53,7 +53,7 @@ const VOCAB_WORDS = [
   },
   {
     arabic: 'إِنْ', translit: 'in', count: 690,
-    meanings: { en: 'if', bn: 'যদি', fr: 'si', id: 'jika', ur: 'اگر', tr: 'eğer', ar: 'لِلشَّرْط' , zh: '如果', ja: 'もし'}
+    meanings: { en: 'if', bn: 'যদি', fr: 'si', id: 'jika', ur: 'اگر', tr: 'eğer', ar: 'لِلشَّرْط' , zh: '如果', ja: 'もし', hi: 'यदि, अगर', es: 'si', ru: 'если', de: 'wenn, falls', fa: 'اگر', ms: 'jika'}
   },
   {
     arabic: 'ذَٰلِكَ', translit: 'dhālika', count: 520,
@@ -61,7 +61,7 @@ const VOCAB_WORDS = [
   },
   {
     arabic: 'هُوَ', translit: 'huwa', count: 480,
-    meanings: { en: 'he, it', bn: 'সে, তিনি', fr: 'il, lui', id: 'dia', ur: 'وہ', tr: 'o', ar: 'ضَمِيرُ الْغَائِب' , zh: '他，它', ja: '彼、それ'}
+    meanings: { en: 'he, it', bn: 'সে, তিনি', fr: 'il, lui', id: 'dia', ur: 'وہ', tr: 'o', ar: 'ضَمِيرُ الْغَائِب' , zh: '他，它', ja: '彼、それ', hi: 'वह', es: 'él, ello', ru: 'он, оно', de: 'er, es', fa: 'او، آن', ms: 'dia, ia'}
   },
   {
     arabic: 'إِذَا', translit: 'idhā', count: 400,
@@ -77,7 +77,7 @@ const VOCAB_WORDS = [
   },
   {
     arabic: 'أَوْ', translit: 'aw', count: 280,
-    meanings: { en: 'or', bn: 'অথবা', fr: 'ou', id: 'atau', ur: 'یا', tr: 'veya', ar: 'لِلتَّخْيِير' , zh: '或者', ja: 'または'}
+    meanings: { en: 'or', bn: 'অথবা', fr: 'ou', id: 'atau', ur: 'یا', tr: 'veya', ar: 'لِلتَّخْيِير' , zh: '或者', ja: 'または', hi: 'या', es: 'o', ru: 'или', de: 'oder', fa: 'یا', ms: 'atau'}
   },
 
   // ---- Prepositions / adverbs of place and time ----

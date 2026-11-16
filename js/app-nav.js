@@ -213,7 +213,7 @@ class AppNav {
     this.popup.innerHTML = items.map(it => {
       const hasSub = it.children || it.modes;
       return `<button data-popup-child="${it.key}" data-popup-kind="${it.kind}" data-popup-drill="${it.drill}"
-        class="w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium text-left transition-colors text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 whitespace-nowrap">
+        class="w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium text-start transition-colors text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 whitespace-nowrap">
         <span class="text-lg leading-none">${it.emoji}</span>
         <span class="flex-1">${this.tt(it.label)}</span>
         ${hasSub ? '<span class="text-gray-400">›</span>' : ''}
@@ -221,7 +221,14 @@ class AppNav {
     }).join('');
 
     const rect = btn.getBoundingClientRect();
-    this.popup.style.left = (rect.right + 8) + 'px';
+    // In RTL the sidebar sits on the right edge, so open the popup to its left.
+    if (document.documentElement.dir === 'rtl') {
+      this.popup.style.left = '';
+      this.popup.style.right = (window.innerWidth - rect.left + 8) + 'px';
+    } else {
+      this.popup.style.right = '';
+      this.popup.style.left = (rect.right + 8) + 'px';
+    }
     this.popup.style.top = Math.max(rect.top, 80) + 'px';
     this.popup.classList.remove('hidden');
 
@@ -249,14 +256,20 @@ class AppNav {
       const key = si.mode || si.module || si.tab || '';
       const kind = si.mode ? 'mode' : (si.module ? 'module' : 'tab');
       return `<button data-sub-child="${key}" data-sub-kind="${kind}"
-        class="w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium text-left transition-colors text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 whitespace-nowrap">
+        class="w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium text-start transition-colors text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 whitespace-nowrap">
         <span class="text-lg leading-none">${si.emoji}</span>
         <span class="flex-1">${this.tt(si.label)}</span>
       </button>`;
     }).join('');
 
     const btnRect = triggerBtn.getBoundingClientRect();
-    this.subPopup.style.left = (btnRect.right + 4) + 'px';
+    if (document.documentElement.dir === 'rtl') {
+      this.subPopup.style.left = '';
+      this.subPopup.style.right = (window.innerWidth - btnRect.left + 4) + 'px';
+    } else {
+      this.subPopup.style.right = '';
+      this.subPopup.style.left = (btnRect.right + 4) + 'px';
+    }
     this.subPopup.style.top = Math.max(btnRect.top, 80) + 'px';
     this.subPopup.classList.remove('hidden');
   }
@@ -323,7 +336,7 @@ class AppNav {
   itemClass(active) {
     // The sidebar always uses the dark legacy theme (#343a40), so items must be
     // light-on-dark in BOTH colour schemes — not the light-mode gray text.
-    return 'app-nav-item w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium text-left transition-colors ' +
+    return 'app-nav-item w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium text-start transition-colors ' +
       (active
         ? 'bg-white/15 text-white'
         : 'text-gray-200 hover:bg-white/10 hover:text-white');
@@ -401,10 +414,10 @@ class AppNav {
       : primary.modes.map(m => ({ key: m.mode, kind: 'mode', emoji: m.emoji, label: m.label }));
     this.root.innerHTML = `
       <button data-nav-back class="w-full flex items-center gap-2 px-3 py-2 mb-2 rounded-lg text-sm font-semibold text-gray-200 hover:bg-white/10 hover:text-white">
-        <span class="text-lg leading-none">←</span><span>${this.tt('back')}</span>
+        <span class="text-lg leading-none rtl-flip">←</span><span>${this.tt('back')}</span>
       </button>
       <button data-nav-heading="${primary.id}"
-        class="w-full flex items-center gap-2 px-3 py-2 mb-2 rounded-lg text-sm font-bold text-white hover:bg-white/10 transition-colors text-left"
+        class="w-full flex items-center gap-2 px-3 py-2 mb-2 rounded-lg text-sm font-bold text-white hover:bg-white/10 transition-colors text-start"
         title="${this.tt('back')}">
         <span>${primary.emoji}</span><span class="flex-1">${this.tt(primary.label)}</span>
         <span class="text-xs text-gray-400">⌂</span>

@@ -324,8 +324,9 @@ class NamesOfAllah {
     const explainBn   = (name.explain && !explainTr) ? (name.explain.bn || '') : '';
     const hadithObj   = name.hadith  || null;
     const invokeObj   = name.invoke  || null;
-    const hadithTr    = hadithObj ? this.contentTr(hadithObj.en) : null;
-    const invokeTr    = invokeObj ? this.contentTr(invokeObj.en) : null;
+    // bn has its own field: render it alone, not under the English.
+    const hadithTr    = hadithObj ? ((lang === 'bn' && hadithObj.bn) || this.contentTr(hadithObj.en)) : null;
+    const invokeTr    = invokeObj ? ((lang === 'bn' && invokeObj.bn) || this.contentTr(invokeObj.en)) : null;
     body.innerHTML = `
       <div class="text-center mb-4">
         <div class="ayah-arabic !text-5xl mb-2" dir="rtl">${name.ar}</div>
@@ -462,17 +463,18 @@ class NamesOfAllah {
     const lang = this.language;
     const prevDisabled = idx <= 0;
     const nextDisabled = idx >= total - 1;
+    const rtl = typeof isRTL === 'function' && isRTL(lang);
 
     const skeleton = `
       <div class="rounded-xl border border-amber-200 dark:border-amber-500/30 bg-amber-50/60 dark:bg-amber-500/10 p-3">
         <div class="flex items-center justify-between mb-2 text-xs">
           <button data-occ-nav="prev" ${prevDisabled ? 'disabled' : ''}
-            class="px-2.5 py-1 rounded-md ${prevDisabled ? 'text-gray-400 dark:text-gray-600 cursor-not-allowed' : 'bg-white/70 dark:bg-gray-800/70 text-gray-700 dark:text-gray-200 hover:bg-primary hover:text-white'}">← ${t('previous', lang) || 'Prev'}</button>
+            class="px-2.5 py-1 rounded-md ${prevDisabled ? 'text-gray-400 dark:text-gray-600 cursor-not-allowed' : 'bg-white/70 dark:bg-gray-800/70 text-gray-700 dark:text-gray-200 hover:bg-primary hover:text-white'}"><span aria-hidden="true">${rtl ? '→' : '←'}</span> ${t('previous', lang)}</button>
           <span class="font-mono text-amber-800 dark:text-amber-200">${ref} · ${idx + 1} / ${total}</span>
           <button data-occ-nav="next" ${nextDisabled ? 'disabled' : ''}
-            class="px-2.5 py-1 rounded-md ${nextDisabled ? 'text-gray-400 dark:text-gray-600 cursor-not-allowed' : 'bg-white/70 dark:bg-gray-800/70 text-gray-700 dark:text-gray-200 hover:bg-primary hover:text-white'}">${t('next', lang) || 'Next'} →</button>
+            class="px-2.5 py-1 rounded-md ${nextDisabled ? 'text-gray-400 dark:text-gray-600 cursor-not-allowed' : 'bg-white/70 dark:bg-gray-800/70 text-gray-700 dark:text-gray-200 hover:bg-primary hover:text-white'}">${t('next', lang)} <span aria-hidden="true">${rtl ? '←' : '→'}</span></button>
         </div>
-        <div id="names-occ-body"><p class="text-center text-gray-400 text-sm py-3">${t('loading', lang) || 'Loading…'}</p></div>
+        <div id="names-occ-body"><p class="text-center text-gray-400 text-sm py-3">${t('loading', lang)}</p></div>
       </div>`;
     box.innerHTML = skeleton;
 
@@ -486,7 +488,7 @@ class NamesOfAllah {
       if (req !== this._occReq) return; // superseded
       const bodyEl = box.querySelector('#names-occ-body');
       if (!bodyEl) return;
-      if (!v) { bodyEl.innerHTML = `<p class="text-center text-red-500 text-sm py-3">${t('error', lang) || 'Could not load ayah.'}</p>`; return; }
+      if (!v) { bodyEl.innerHTML = `<p class="text-center text-red-500 text-sm py-3">${t('error', lang)}</p>`; return; }
       const norm = this._occNorm;
       const arabicHtml = (v.words || []).map(w => {
         const isMatch = norm && QuranData.normalizeWord(w.arabic) === norm;
@@ -497,12 +499,12 @@ class NamesOfAllah {
         <div class="ayah-arabic text-right leading-loose mb-2" dir="rtl">${arabicHtml || this.escapeHtml(v.arabic || '')}</div>
         ${trans ? `<div class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed" dir="auto">${this.escapeHtml(trans)}</div>` : ''}
         <div class="mt-2 text-right">
-          <button data-occ-open="${ref}" class="text-xs text-primary hover:underline">${t('view_full_ayah', lang) || 'Open full view →'}</button>
+          <button data-occ-open="${ref}" class="text-xs text-primary hover:underline">${t('view_full_ayah', lang)}</button>
         </div>`;
     } catch (e) {
       if (req !== this._occReq) return;
       const bodyEl = box.querySelector('#names-occ-body');
-      if (bodyEl) bodyEl.innerHTML = `<p class="text-center text-red-500 text-sm py-3">${t('error', lang) || 'Could not load ayah.'}</p>`;
+      if (bodyEl) bodyEl.innerHTML = `<p class="text-center text-red-500 text-sm py-3">${t('error', lang)}</p>`;
     }
   }
 

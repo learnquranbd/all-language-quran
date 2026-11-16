@@ -365,9 +365,7 @@ class AudioPlayer {
         ⏰ <span data-lang-key="audio_sleep_timer">${this.tr('audio_sleep_timer', 'Sleep timer')}</span>
         <select id="audio-sleep" class="${selCls}">
           <option value="0" data-lang-key="audio_sleep_off">${this.tr('audio_sleep_off', 'Off')}</option>
-          <option value="5">5 ${min}</option><option value="10">10 ${min}</option>
-          <option value="15">15 ${min}</option><option value="30">30 ${min}</option>
-          <option value="60">60 ${min}</option>
+          ${[5, 10, 15, 30, 60].map(m => `<option value="${m}" data-sleep-min="${m}">${m} ${min}</option>`).join('')}
         </select>
         <span id="audio-sleep-left" class="hidden text-xs font-medium text-primary dark:text-blue-400 tabular-nums"></span>
       </label>`;
@@ -475,6 +473,26 @@ class AudioPlayer {
       const key = el.getAttribute('data-lang-key');
       if (el.textContent === key && fallbacks[key]) el.textContent = fallbacks[key];
     });
+    // The sleep-timer minute options carry no data-lang-key: rebuild their text.
+    const min = this.tr('audio_min_short', 'min');
+    row.querySelectorAll('[data-sleep-min]').forEach(o => {
+      o.textContent = `${o.getAttribute('data-sleep-min')} ${min}`;
+    });
+    const seek = document.getElementById('audio-seek');
+    if (seek) seek.setAttribute('aria-label', this.seekLabel());
+    // Surah names in the now-playing header and the playlist rows
+    document.querySelectorAll('[data-ap-surah]').forEach(el => {
+      const n = parseInt(el.getAttribute('data-ap-surah'), 10);
+      if (n) el.textContent = this.surahLabel({ surah: n }) || el.textContent;
+    });
+  }
+
+  /** Surah name in the UI language (the verse object's name may be frozen in English). */
+  surahLabel(ayah) {
+    const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    const n = ayah && ayah.surah;
+    const name = (n && typeof getSurahName === 'function') ? getSurahName(n, lang) : '';
+    return name || (ayah && ayah.surahName) || '';
   }
 
   onEnded() {
@@ -719,7 +737,7 @@ class AudioPlayer {
         <span class="text-[0.6875rem] text-gray-500 dark:text-gray-400" dir="auto">${w.meaning || ''}</span>
       </span>`).join('');
     el.innerHTML = `
-      <div class="text-xs text-gray-400 mb-2 text-center">${ayah.surahName || ''} ${ayah.key}</div>
+      <div class="text-xs text-gray-400 mb-2 text-center"><span data-ap-surah="${ayah.surah}">${this.surahLabel(ayah)}</span> ${ayah.key}</div>
       <div class="ayah-arabic !text-3xl !leading-loose text-center mb-3" dir="rtl">${ayah.arabic || ''}</div>
       <div class="flex flex-wrap justify-center gap-x-1 gap-y-1" dir="rtl">${words}</div>
       <div class="mt-3 flex items-center gap-2" dir="ltr">
@@ -754,7 +772,7 @@ class AudioPlayer {
       <button class="audio-ayah-row w-full flex items-center gap-3 px-3 py-2 rounded-lg text-left
                      hover:bg-gray-100 dark:hover:bg-gray-700" data-index="${i}">
         <span class="ayah-number">${ayah.ayah}</span>
-        <span class="text-sm text-gray-500 dark:text-gray-400">${ayah.surahName} ${ayah.key}</span>
+        <span class="text-sm text-gray-500 dark:text-gray-400"><span data-ap-surah="${ayah.surah}">${this.surahLabel(ayah)}</span> ${ayah.key}</span>
         <span class="ayah-arabic !text-lg truncate flex-1 text-right" dir="rtl">${ayah.arabic}</span>
       </button>
     `).join('');

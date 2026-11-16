@@ -303,11 +303,8 @@ body {
   }
 }
 
-/* RTL Support */
-[dir="rtl"] .ayah-header {
-  flex-direction: row-reverse;
-}
-
+/* RTL Support. Flex rows already follow dir, so the ayah header needs no
+   override (a row-reverse here laid it out left-to-right again). */
 [dir="rtl"] .sidebar-link {
   text-align: right;
 }

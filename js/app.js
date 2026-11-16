@@ -78,8 +78,22 @@ class QuranApp {
     // Listen for language changes
     window.addEventListener('settingChanged', (e) => {
       if (e.detail.key === 'language') {
+        // A content-i18n pack finished loading: the language did not change.
+        // Never reload, reset wbwLang or switch tabs here; only repaint the
+        // open inline Tadabbur boxes so their translated card text shows.
+        if (e.detail.contentI18n) {
+          const cur = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : this.language;
+          if (e.detail.value === cur && this.ayahContainer) {
+            this.ayahContainer.querySelectorAll('.inline-tadabbur[data-loaded]').forEach(sec => {
+              const card = sec.closest('.ayah-card');
+              if (card) this.renderInlineTadabbur(card);
+            });
+          }
+          return;
+        }
         this.language = e.detail.value;
         this.populateSurahDropdown();
+        this.populateJuzList();
         // Word-by-word meanings should follow the reading language: drop any stale
         // WBW-language override so switching to Bangla shows Bangla WBW (not English).
         if (typeof appSettings !== 'undefined' && appSettings) appSettings.set('wbwLang', null);
@@ -386,7 +400,7 @@ class QuranApp {
     return `
       <div id="global-reading-controls"
            class="flex flex-wrap items-center gap-2 bg-white dark:bg-gray-800 rounded-lg shadow px-4 py-3 sticky top-0 z-10">
-        <span class="text-xs uppercase font-semibold text-gray-400 dark:text-gray-500 mr-1">${t('display', lang)}</span>
+        <span class="text-xs uppercase font-semibold text-gray-400 dark:text-gray-500 me-1">${t('display', lang)}</span>
         ${btn('wbw', this.globalWbw, '🔤', t('word_by_word', lang))}
         ${btn('tafsir', this.globalTafsir, '📖', t('tafseer', lang))}
         ${btn('grammar', this.globalGrammar, '🧩', t('grammar', lang))}
@@ -503,19 +517,47 @@ class QuranApp {
   }
 
   /**
+   * Collection banner title, localised at render time so it follows a later
+   * language switch. Producers may pass the label source instead of (or as well
+   * as) the frozen string: `src` = a names object ({en, bn, ar, …}), `key` = a
+   * t() key, `pre` = a prefix such as an emoji. Plain `t` is the old fallback.
+   */
+  collectionTitle(ctx, lang) {
+    if (!ctx) return '';
+    const pre = ctx.pre ? ctx.pre + ' ' : '';
+    if (ctx.key && typeof hasKey === 'function' && (hasKey(ctx.key, lang) || hasKey(ctx.key, 'en'))) {
+      return pre + t(ctx.key, lang);
+    }
+    const src = ctx.src;
+    if (src && typeof src === 'object') {
+      let s = src[lang] || (lang === 'bn' ? src.bn : '');
+      if (!s && lang !== 'en' && lang !== 'bn' && src.en && typeof CI18N !== 'undefined' && CI18N) {
+        s = CI18N.tr(lang, src.en) || '';
+      }
+      s = s || src.en || src.bn || '';
+      if (s) return pre + s;
+    }
+    return ctx.t || '';
+  }
+
+  /**
    * Banner shown above the verses when they were loaded from a
    * dua/topic/story collection (title + optional Bangla intro).
    */
   renderCollectionBanner(lang) {
     const ctx = this.collectionContext;
-    if (!ctx || !ctx.t) return '';
-    const escape = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    const title = this.collectionTitle(ctx, lang);
+    if (!title) return '';
+    const escape = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
     const showIntro = ctx.i && lang === 'bn';
+    const count = (typeof tPlural === 'function')
+      ? tPlural('n_verses', this.ayahData.length, lang)
+      : `${this.ayahData.length} ${t('verses', lang)}`;
     return `
       <div class="bg-gradient-to-br from-primary/10 to-secondary/10 dark:from-blue-900/30 dark:to-emerald-900/20
                   border border-primary/20 dark:border-blue-800 rounded-lg p-5">
-        <h2 class="text-lg font-bold text-primary dark:text-blue-300" dir="auto">${escape(ctx.t)}
-          <span class="text-sm font-normal text-gray-500 dark:text-gray-400">· ${this.ayahData.length} ${t('verses', lang)}</span>
+        <h2 class="text-lg font-bold text-primary dark:text-blue-300" dir="auto">${escape(title)}
+          <span class="text-sm font-normal text-gray-500 dark:text-gray-400">· ${escape(count)}</span>
         </h2>
         ${showIntro ? `<p class="mt-2 text-sm leading-relaxed text-gray-700 dark:text-gray-300" dir="auto">${escape(ctx.i)}</p>` : ''}
       </div>
@@ -528,6 +570,16 @@ class QuranApp {
    * @param {string} lang
    * @returns {string}
    */
+  /** Card-header surah label: the name in the reading language, plus the Arabic
+   *  name in brackets unless the name already is the Arabic one (ar/fa). */
+  surahLabel(ayah, lang) {
+    const arabic = ayah.surahArabicName ||
+      ((typeof getSurahByNumber === 'function' && getSurahByNumber(ayah.surah)) || {}).arabicName || '';
+    const name = (typeof getSurahName === 'function') ? getSurahName(ayah.surah, lang) : (ayah.surahName || '');
+    if (!arabic || name === arabic) return name || arabic;
+    return `${name} (${arabic})`;
+  }
+
   /** Convert a number to Arabic-Indic digits for the verse-end medallion */
   toArabicDigits(n) {
     return String(n).replace(/\d/g, d => '٠١٢٣٤٥٦٧٨٩'[d]);
@@ -580,8 +632,8 @@ class QuranApp {
                   title="${t('tajweed_label', lang)}">🎨 ${t('tajweed_label', lang)}</button>` : ''}
           <button class="toggle-tadabbur px-2 py-1 text-xs rounded-full border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
                   title="${t('ayah_tad_btn', lang)}">💭 ${t('ayah_tad_btn', lang)}</button>
-          <span class="ml-auto text-sm text-gray-500 dark:text-gray-400">
-            ${ayah.surahName} (${ayah.surahArabicName}) ${ayah.key} · ${t('juz', lang)} ${ayah.juz}
+          <span class="ms-auto text-sm text-gray-500 dark:text-gray-400">
+            ${this.surahLabel(ayah, lang)} ${ayah.key} · ${t('juz', lang)} ${ayah.juz}
           </span>
         </div>
         <div class="ayah-content">
@@ -605,7 +657,8 @@ class QuranApp {
   async copyAyah(btn) {
     const ayah = this.ayahData.find(a => a.key === btn.getAttribute('data-key'));
     if (!ayah) return;
-    const text = `${ayah.arabic}\n\n${ayah.translation}\n— ${ayah.surahName} ${ayah.key}`;
+    const name = (typeof getSurahName === 'function') ? getSurahName(ayah.surah, this.language) : (ayah.surahName || '');
+    const text = `${ayah.arabic}\n\n${ayah.translation}\n— ${name} ${ayah.key}`;
     try {
       await navigator.clipboard.writeText(text);
       btn.textContent = '✅';
@@ -659,7 +712,7 @@ class QuranApp {
       <div class="rounded-lg border border-gray-200 dark:border-gray-700 overflow-hidden">
         <button class="tafsir-acc w-full flex items-center justify-between px-4 py-2 text-sm font-medium
                        bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-600"
-                data-tafsir-id="${src.id}" data-verse-key="${key}">
+                data-tafsir-id="${typeof tafsirKey === 'function' ? tafsirKey(src) : src.id}" data-verse-key="${key}">
           <span>${src.name}</span><span class="acc-icon">+</span>
         </button>
         <div class="tafsir-acc-body hidden px-4 py-3 text-sm leading-relaxed"></div>
@@ -681,7 +734,8 @@ class QuranApp {
 
     body.innerHTML = `<span class="text-gray-400">${t('loading', this.language)}</span>`;
     try {
-      const tafsirId = parseInt(btn.getAttribute('data-tafsir-id'));
+      const rawId = btn.getAttribute('data-tafsir-id');
+      const tafsirId = /^\d+$/.test(rawId) ? parseInt(rawId, 10) : rawId;
       const result = await tafseerView.fetchTafsir(tafsirId, btn.getAttribute('data-verse-key'));
       if (result && result.text) {
         body.innerHTML = result.text;
@@ -728,7 +782,7 @@ class QuranApp {
               <span class="text-xs text-gray-400">${i + 1}</span>
               <span class="ayah-arabic !text-2xl">${apiWord?.arabic || segments.map(s => s.t).join('')}</span>
               <span class="text-sm text-gray-600 dark:text-gray-300" dir="auto">${apiWord?.meaning || ''}</span>
-              ${root ? `<span class="ml-auto text-sm text-gray-500 dark:text-gray-400">${t('root', lang)}: <span class="ayah-arabic !text-lg">${root.split('').join(' ')}</span></span>` : ''}
+              ${root ? `<span class="ms-auto text-sm text-gray-500 dark:text-gray-400">${t('root', lang)}: <span class="ayah-arabic !text-lg">${root.split('').join(' ')}</span></span>` : ''}
             </div>
             ${renderSegments(segments, lang)}
           </div>
@@ -789,14 +843,21 @@ class QuranApp {
       section.innerHTML = `<p class="text-gray-500 dark:text-gray-400">💭 ${esc(t('ayah_tad_none', lang))}</p>`;
       return;
     }
-    // Notes and articles are written in English and Bengali; other languages read English.
+    // Notes and articles are written in English and Bengali; the other languages
+    // resolve through the tadabbur content-i18n pack (as js/tadabbur.js does),
+    // with English as the last resort.
     const bn = lang === 'bn';
-    const refl = (bn && n.reflectionBn) || n.reflectionEn || '';
-    const pts = (bn && n.pointsBn && n.pointsBn.length ? n.pointsBn : (n.pointsEn || []));
-    const lesson = (bn && n.lessonBn) || n.lessonEn || '';
+    const ci = (en) => {
+      if (!en) return '';
+      if (typeof CI18N === 'undefined' || !CI18N) return en;
+      return CI18N.tr(lang, en, 'tadabbur') || en;
+    };
+    const refl = (bn && n.reflectionBn) || ci(n.reflectionEn || '');
+    const pts = (bn && n.pointsBn && n.pointsBn.length) ? n.pointsBn : (n.pointsEn || []).map(ci);
+    const lesson = (bn && n.lessonBn) || ci(n.lessonEn || '');
     const art = (typeof LQArticle !== 'undefined' && LQArticle && LQArticle.has('tadabbur', k))
       ? LQArticle.html('tadabbur', k, {
-          lc: (x) => (bn && x && x.bn) || (x && x.en) || '',
+          lc: (x) => (bn && x && x.bn) || ci((x && x.en) || ''),
           esc,
           title: t('tad_article', lang),
           open: false,
@@ -860,8 +921,8 @@ class QuranApp {
           <div class="flex items-center gap-2 mb-3">
             <span class="ayah-number">${ayah.ayah}</span>
             ${this.ayahPlayBtnHtml(ayah.key, lang)}
-            <span class="ml-auto text-sm text-gray-500 dark:text-gray-400">
-              ${ayah.surahName} (${ayah.surahArabicName}) ${ayah.key} · ${t('juz', lang)} ${ayah.juz}
+            <span class="ms-auto text-sm text-gray-500 dark:text-gray-400">
+              ${this.surahLabel(ayah, lang)} ${ayah.key} · ${t('juz', lang)} ${ayah.juz}
             </span>
           </div>
           <div class="tj-body ayah-arabic !leading-loose p-3 rounded-lg bg-gray-50 dark:bg-gray-900/40" dir="rtl">

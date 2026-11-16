@@ -286,6 +286,17 @@ class MakruhModule {
    * ref sent there produced a modal reading just "Error". */
   isVerseRef(ref) { return /^\d{1,3}:\d{1,3}/.test(String(ref || '').trim()); }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
+  /* Verse chip label. en and bn keep "2:183 Read"; other languages use the
+   * imperative open_verse key, because the shared 'Read' string translates as
+   * "already read" in many packs (de "Gelesen", ar "مقروء"). ref is HTML-safe. */
+  readLbl(ref) {
+    const lang = this.language;
+    if (lang && lang !== 'en' && lang !== 'bn' && typeof t === 'function') {
+      return this.esc(t('open_verse', lang)) + (ref ? ' ' + ref : '');
+    }
+    return (ref ? ref + ' ' : '') + (lang === 'bn' ? 'পড়ুন' : 'Read');
+  }
+
   render() {
     this.rendered = true;
     const L = (o) => this.esc(this.lc(o));
@@ -318,7 +329,7 @@ class MakruhModule {
               <div class="p-3 rounded-xl bg-orange-50 dark:bg-orange-900/20 border border-orange-100 dark:border-orange-900/40">
                 <div class="text-sm font-semibold text-orange-800 dark:text-orange-200"><span aria-hidden="true">${n.emoji}</span> ${L({ en: n.titleEn, bn: n.titleBn })}</div>
                 <p class="text-xs text-orange-700 dark:text-orange-300 mt-1 leading-relaxed" dir="auto">${L({ en: n.descEn, bn: n.descBn })}</p>
-                ${this.isVerseRef(this.esc(n.ref.split(',')[0].trim())) ? `<button type="button" data-makruh-ayah="${this.esc(n.ref.split(',')[0].trim())}" class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-orange-500/10 text-orange-700 dark:text-orange-300 text-[0.65rem] font-medium hover:bg-orange-500 hover:text-white transition-colors">&#128214; ${this.esc(n.ref)}</button>` : `<span class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-orange-500/10 text-orange-700 dark:text-orange-300 text-[0.65rem] font-medium transition-colors">&#128214; ${this.esc(n.ref)}</span>`}
+                ${this.isVerseRef(this.esc(n.ref.split(',')[0].trim())) ? `<button type="button" data-makruh-ayah="${this.esc(n.ref.split(',')[0].trim())}" class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-orange-500/10 text-orange-700 dark:text-orange-300 text-[0.65rem] font-medium hover:bg-orange-500 hover:text-white transition-colors">&#128214; ${this.esc(n.ref)}</button>` : `<span class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-orange-500/10 text-orange-700 dark:text-orange-300 text-[0.65rem] font-medium transition-colors">&#128214; ${L({ en: n.ref })}</span>`}
               </div>`).join('')}
           </div>
         </div>
@@ -340,7 +351,7 @@ class MakruhModule {
             ${MAKRUH_QUR.map(q => `
               <div class="p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
                 <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${L({ en: q.en, bn: q.bn })}</p>
-                ${this.isVerseRef(this.esc(q.ref)) ? `<button type="button" data-makruh-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium hover:bg-amber-500 hover:text-white transition-colors">&#128214; ${this.esc(q.ref)} ${L({ en: 'Read', bn: '\u09aa\u09dc\u09c1\u09a8' })}</button>` : `<span class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium transition-colors">&#128214; ${this.esc(q.ref)} ${L({ en: 'Read', bn: '\u09aa\u09dc\u09c1\u09a8' })}</span>`}
+                ${this.isVerseRef(this.esc(q.ref)) ? `<button type="button" data-makruh-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium hover:bg-amber-500 hover:text-white transition-colors">&#128214; ${this.readLbl(this.esc(q.ref))}</button>` : `<span class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-medium transition-colors">&#128214; ${L({ en: q.ref })}</span>`}
               </div>`).join('')}
           </div>
         </div>

@@ -104,12 +104,12 @@ const TAJWEED_LESSONS = {
     bn: "সাকত: হাফস আন আসিমের রিওয়ায়েতে কুরআনের চারটি জায়গায় শ্বাস না নিয়ে অল্প সময় আওয়াজ বন্ধ রাখা জরুরি (যেমন عِوَجاً|قَيِّماً, مَرْقَدِنَا|هَذَا, مَنْ|رَاقٍ, بَلْ|رَانَ)।" },
 
   // ── Meem Sākinah: the clear ruling ────────────────────────────────────────
-  izhar_shafawi: { group: 'meem', names: { bn: 'ইযহার শাফাবি', ar: 'الإظهار الشفوي' }, letters: '26 letters (all except ب م)',
+  izhar_shafawi: { group: 'meem', names: { bn: 'ইযহার শাফাবি', ar: 'الإظهار الشفوي' }, letters: '', lettersExtraKey: 'tj_letters_izhar_shafawi',
     en: "Labial clarity: meem sakinah (مْ) before any of the 26 letters other than ب and م is pronounced clearly with no ghunnah. Take extra care before و and ف — sharing the meem's articulation area — so the meem is not accidentally hidden.",
     bn: 'ইযহার শাফাবি: মীম সাকিন (مْ)-এর পরে ب ও م ছাড়া বাকি ২৬টি হরফের যেকোনোটি এলে মীম গুন্নাহ ছাড়া স্পষ্ট পড়া হয়। و ও ف-এর আগে বিশেষ সতর্ক থাকুন; এ দুটির মাখরাজ মীমের কাছাকাছি, তাই অসাবধানে মীম গোপন হয়ে যেতে পারে।' },
 
   // ── Idghām of two identical letters ───────────────────────────────────────
-  idghaam_mutamathilayn: { group: 'other', names: { bn: 'ইদগাম মুতামাসিলাইন', ar: 'إدغام المتماثلين' }, letters: 'same letter ×2',
+  idghaam_mutamathilayn: { group: 'other', names: { bn: 'ইদগাম মুতামাসিলাইন', ar: 'إدغام المتماثلين' }, letters: '', lettersExtraKey: 'tj_letters_same_x2',
     en: 'Merging of two identical letters: when a letter with sukoon is followed by the same letter (same makhraj AND same attributes), the first merges completely into the second, which takes a shaddah (e.g. اضْرِب بِّعَصَاكَ, قَد دَّخَلُوا).',
     bn: 'ইদগাম মুতামাসিলাইন: সাকিনওয়ালা কোনো হরফের পরে হুবহু সেই হরফই এলে (মাখরাজ ও সিফাত দুটোই এক), প্রথমটি দ্বিতীয়টিতে পুরোপুরি মিশে যায়, আর দ্বিতীয়টিতে তাশদীদ হয় (যেমন اضْرِب بِّعَصَاكَ, قَد دَّخَلُوا)।' },
 
@@ -151,6 +151,87 @@ const TAJWEED_LESSONS = {
     en: 'Stopping & starting: choosing correct places to pause (waqf) and resume (ibtidāʾ). A tāmm (complete) stop ends a full meaning, e.g. a verse end; a ḥasan stop is sound mid-verse; avoid a qabīḥ stop that breaks the meaning. A tie-mark (muʿānaqah ۛ) means stop at only ONE of two adjacent spots.',
     bn: 'ওয়াকফ ও ইবতিদা: কোথায় থামবেন (ওয়াকফ) আর কোথা থেকে আবার শুরু করবেন (ইবতিদা), তার সঠিক জায়গা বেছে নেওয়া। তাম্ম (পূর্ণ) ওয়াকফে পুরো অর্থ শেষ হয়, যেমন আয়াতের শেষে; হাসান ওয়াকফ আয়াতের মাঝেও ঠিক আছে; আর যে কবিহ ওয়াকফ অর্থ নষ্ট করে, তা এড়িয়ে চলুন। মুআনাকা চিহ্ন (ۛ) মানে পাশাপাশি দুই জায়গার শুধু একটিতে থামবেন।' },
 };
+
+/**
+ * Rule names for the languages without their own `names` entry, limited to the
+ * rules whose fallback label contains English words ("Silent", "Heavy Ra"…).
+ * The other fallbacks are plain transliterations (Ikhfa, Madd Badal) and read
+ * the same in every Latin-script language. Merged into TAJWEED_LESSONS[k].names
+ * below without overwriting a name that is already there.
+ */
+const TAJWEED_NAMES_I18N = {
+  silent: {
+    ur: 'غیر ملفوظ حرف', fa: 'حرف ناخوانا', id: 'Huruf tidak dibaca', ms: 'Huruf tidak dibaca', tr: 'Okunmayan harf',
+    hi: 'मौन अक्षर', fr: 'Lettre muette', es: 'Letra muda', de: 'Stummer Buchstabe', ru: 'Непроизносимая буква' },
+  idghaam_ghunnah: {
+    ur: 'ادغام مع الغنہ', fa: 'ادغام با غنه', id: 'Idgham Bighunnah', ms: 'Idgham Bi Ghunnah', tr: 'İdğâm maa’l-ğunne',
+    hi: 'इदग़ाम (ग़ुन्नह के साथ)', fr: 'Idgham (avec ghounna)', es: 'Idgham (con ghunnah)', de: 'Idgham (mit Ghunna)', ru: 'Идгам (с гунной)' },
+  idghaam_no_ghunnah: {
+    ur: 'ادغام بلا غنہ', fa: 'ادغام بدون غنه', id: 'Idgham Bilaghunnah', ms: 'Idgham Bila Ghunnah', tr: 'İdğâm bilâ ğunne',
+    hi: 'इदग़ाम (बिना ग़ुन्नह)', fr: 'Idgham (sans ghounna)', es: 'Idgham (sin ghunnah)', de: 'Idgham (ohne Ghunna)', ru: 'Идгам (без гунны)' },
+  ghunnah_maratib: {
+    ur: 'غنہ کے مراتب', fa: 'مراتب غنه', id: 'Tingkatan Ghunnah', ms: 'Martabat Ghunnah', tr: 'Ğunnenin mertebeleri',
+    hi: 'ग़ुन्नह के स्तर', fr: 'Degrés de la ghounna', es: 'Niveles de la ghunnah', de: 'Stufen der Ghunna', ru: 'Степени гунны',
+    ja: 'グンナの段階', zh: '鼻音的等级' },
+  ra_tafkhim: {
+    ur: 'را کی تفخیم (پُر را)', fa: 'تفخیم راء (راء پُر)', id: 'Tafkhim Ra (Ra tebal)', ms: 'Tafkhim Ra (Ra tebal)', tr: 'Ra’nın tefhîmi (kalın Ra)',
+    hi: 'रा का तफ़्ख़ीम (भारी रा)', fr: 'Tafkhim du Ra (Ra emphatique)', es: 'Tafjim de la Ra (Ra enfática)', de: 'Ra-Tafchim (schweres Ra)', ru: 'Тафхим ра (твёрдое ра)',
+    ja: 'ラーのタフヒーム（重いラー）', zh: '拉字母重读（重音拉）' },
+  ra_tarqiq: {
+    ur: 'را کی ترقیق (باریک را)', fa: 'ترقیق راء (راء نازک)', id: 'Tarqiq Ra (Ra tipis)', ms: 'Tarqiq Ra (Ra nipis)', tr: 'Ra’nın terkîki (ince Ra)',
+    hi: 'रा का तरक़ीक़ (हल्की रा)', fr: 'Tarqiq du Ra (Ra léger)', es: 'Tarqiq de la Ra (Ra ligera)', de: 'Ra-Tarqiq (leichtes Ra)', ru: 'Таркик ра (мягкое ра)',
+    ja: 'ラーのタルキーク（軽いラー）', zh: '拉字母轻读（轻音拉）' },
+  tafkhim_istila: {
+    ur: 'حروفِ استعلاء کی تفخیم', fa: 'تفخیم حروف استعلاء', id: 'Tafkhim huruf isti‘la', ms: 'Tafkhim huruf isti‘la', tr: 'İsti‘lâ harflerinin tefhîmi',
+    hi: 'इस्तिअला अक्षरों का तफ़्ख़ीम', fr: 'Tafkhim des lettres d’isti‘la', es: 'Tafjim de las letras de isti‘la', de: 'Tafchim der Isti‘la-Buchstaben', ru: 'Тафхим букв исти‘ля',
+    ja: 'イスティアラー文字のタフヒーム', zh: '上扬字母的重读' },
+  tarqiq_lam: {
+    ur: 'لام کی ترقیق', fa: 'ترقیق لام', id: 'Tarqiq Lam', ms: 'Tarqiq Lam', tr: 'Lâm’ın terkîki',
+    hi: 'लाम का तरक़ीक़', fr: 'Tarqiq du Lam', es: 'Tarqiq de la Lam', de: 'Tarqiq des Lam', ru: 'Таркик лама',
+    ja: 'ラームのタルキーク', zh: '拉姆轻读' },
+  sakt: {
+    ur: 'سکتہ', fa: 'سکت (مکث کوتاه)', id: 'Saktah (jeda singkat)', ms: 'Saktah (berhenti seketika)', tr: 'Sekte (kısa duraklama)',
+    hi: 'सक्त (छोटा ठहराव)', fr: 'Sakt (brève pause)', es: 'Sakt (pausa breve)', de: 'Sakt (kurze Pause)', ru: 'Сакт (краткая пауза)',
+    ja: 'サクト（短い休止）', zh: '短暂停顿（Sakt）' },
+  waqf_ibtida: {
+    ur: 'وقف و ابتدا', fa: 'وقف و ابتدا', id: 'Waqaf dan Ibtida’ (berhenti dan memulai)', ms: 'Waqaf dan Ibtida’ (berhenti dan memulakan)', tr: 'Vakf ve İbtidâ (durma ve başlama)',
+    hi: 'वक़्फ़ और इब्तिदा (रुकना और शुरू करना)', fr: 'Waqf et Ibtida (s’arrêter et reprendre)', es: 'Waqf e Ibtida (pausar y reanudar)', de: 'Waqf und Ibtida (Anhalten und Neubeginnen)', ru: 'Вакф и ибтида (остановка и начало)',
+    ja: 'ワクフとイブティダー（止まり方と始め方）', zh: '停顿与起读' },
+};
+Object.keys(TAJWEED_NAMES_I18N).forEach((k) => {
+  const les = TAJWEED_LESSONS[k];
+  if (!les) return;
+  les.names = les.names || {};
+  const add = TAJWEED_NAMES_I18N[k];
+  Object.keys(add).forEach((l) => { if (!les.names[l]) les.names[l] = add[l]; });
+});
+
+/**
+ * Shared rule-name resolver (Tajweed Learn, tajweed.js legend / guide / span
+ * titles, quiz). Order: names[lang] → TAJWEED_RULES label → curated English
+ * for the lesson-only keys → title-cased key, so a raw key never leaks.
+ * A function declaration, so it is a window global for the other modules.
+ */
+function tajweedRuleName(k, lang) {
+  if (!lang) lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+  const l = TAJWEED_LESSONS[k] || {};
+  if (l.names && l.names[lang]) return l.names[lang];
+  const lbl = ((typeof TAJWEED_RULES !== 'undefined' && TAJWEED_RULES[k]) || {}).label;
+  if (lbl) return lbl;
+  /* 21 lesson keys have Bengali/Arabic names but no English label anywhere.
+   * Curated English here; a readable title-cased key is the last resort. */
+  const EN = {
+    lam_qamariyyah: 'Lam Qamariyyah', lam_shamsiyyah: 'Lam Shamsiyyah', hamzat_qat: 'Hamzat al-Qat‘', hamzat_wasl: 'Hamzat al-Wasl',
+    izhar_halqi: 'Izhar Halqi', izhar_mutlaq: 'Izhar Mutlaq', izhar_shafawi: 'Izhar Shafawi', ikhfa_shafawi: 'Ikhfa Shafawi',
+    idgham_shafawi: 'Idgham Shafawi', madd_aridh: 'Madd Aridh li-s-Sukun', madd_lin: 'Madd Lin', madd_badal: 'Madd Badal',
+    madd_iwad: 'Madd Iwad', madd_silah: 'Madd Silah', madd_farq: 'Madd Farq', madd_tamkin: 'Madd Tamkin', madd_lazim: 'Madd Lazim',
+    ghunnah_maratib: 'Levels of Ghunnah', ra_tafkhim: 'Ra Tafkhim (Heavy Ra)', ra_tarqiq: 'Ra Tarqiq (Light Ra)',
+    lafz_jalalah: 'Lafz al-Jalalah (Allah)', tafkhim_istila: 'Tafkhim of the Isti‘la Letters', tarqiq_lam: 'Tarqiq of Lam',
+    ha_sakt: 'Ha as-Sakt', idghaam_mutamathilayn: 'Idgham Mutamathilayn', idgham_mutajanisayn: 'Idgham Mutajanisayn',
+    idgham_mutaqaribayn: 'Idgham Mutaqaribayn', waqf_ibtida: 'Waqf and Ibtida (Stopping and Starting)', sakt: 'Sakt (Brief Pause)',
+  };
+  return EN[k] || String(k).replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+}
 
 /**
  * Structured learning path: classical teaching order. A level is "complete"

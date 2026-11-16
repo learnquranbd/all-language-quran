@@ -1042,7 +1042,7 @@ class KidsQaida {
             <span class="ayah-arabic !text-4xl sm:!text-5xl !leading-tight" dir="rtl">${w.arabic}</span>
             <span class="text-sm font-bold text-gray-700 dark:text-gray-200">${w.translit}</span>
             <span class="text-xs text-gray-600 dark:text-gray-300" dir="auto">${this.wordMeaning(w)}</span>
-            <span class="text-[10px] text-gray-500/80 dark:text-gray-400/80">≈ ${w.count.toLocaleString()}× ${t('kids_in_quran', lang)}</span>
+            <span class="text-[10px] text-gray-500/80 dark:text-gray-400/80">≈ ${w.count.toLocaleString(lang)}× ${t('kids_in_quran', lang)}</span>
           </button>
         `).join('')}
       </div>
@@ -1162,7 +1162,7 @@ class KidsQaida {
         <button data-kids-num-word="${this.esc(num.word)}" class="flex flex-col items-center gap-0.5 hover:scale-105 transition-transform max-w-full" title="${t('play', this.language)}">
           <span class="ayah-arabic !text-3xl sm:!text-5xl !leading-none max-w-full" dir="rtl">${num.digit}</span>
           <span class="ayah-arabic !text-2xl !leading-[2.2] max-w-full break-words text-gray-700 dark:text-gray-200" dir="rtl">${num.word}</span>
-          <span class="text-sm font-bold text-gray-600 dark:text-gray-300">${num.value.toLocaleString()} · ${num.translit}</span>
+          <span class="text-sm font-bold text-gray-600 dark:text-gray-300">${num.value.toLocaleString(this.language)} · ${num.translit}</span>
         </button>
         <button data-kids-num-verse="${num.ref}" data-kids-num-hl="${this.esc(num.hl || num.word.split(' ')[0])}"
                 class="mt-1 w-full rounded-lg bg-white/60 dark:bg-gray-900/40 hover:bg-white dark:hover:bg-gray-900 px-2 py-1.5 text-center">
@@ -1230,7 +1230,7 @@ class KidsQaida {
               <button data-kids-surah-pick="${s.n}"
                       class="rounded-2xl bg-gradient-to-br ${KIDS_GRADIENTS[i % KIDS_GRADIENTS.length]}
                              shadow hover:shadow-lg hover:scale-105 transition-all p-4 sm:p-5
-                             flex items-center gap-3 text-left">
+                             flex items-center gap-3 text-start">
                 <span class="shrink-0 w-11 h-11 rounded-full bg-white/70 dark:bg-gray-900/40 flex items-center justify-center
                              text-lg font-extrabold text-gray-700 dark:text-gray-100">${s.n}</span>
                 <span class="flex-1 min-w-0">
@@ -1474,12 +1474,12 @@ class KidsQaida {
     const moralLabel = t('kids_story_moral', lang);
     const refLabel   = t('kids_story_ref', lang);
     return `
-      <p class="text-center text-gray-500 dark:text-gray-400 mb-4">📚 ${lang === 'bn' ? 'একটি গল্প বেছে নাও — পড়ো ও শিখো!' : "Pick a story — read and learn!"}</p>
+      <p class="text-center text-gray-500 dark:text-gray-400 mb-4">📚 ${this.tk('kids_stories_intro', 'Pick a story — read and learn!', lang)}</p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         ${src.map((s, i) => {
-          const title   = s.title   ? (s.title[lang]   || s.title.en)   : s.id;
+          const title   = s.title   ? (this.L(s.title, lang))   : s.id;
           const summary = s.summary ? (this.L(s.summary, lang)) : '';
-          const moral   = s.moral   ? (s.moral[lang]   || s.moral.en)   : '';
+          const moral   = s.moral   ? (this.L(s.moral, lang))   : '';
           const refs    = (s.refs || []).join(', ');
           return `
           <div class="rounded-2xl bg-gradient-to-br ${KIDS_GRADIENTS[i % KIDS_GRADIENTS.length]}
@@ -1503,11 +1503,11 @@ class KidsQaida {
   renderAdab(lang) {
     const src = (typeof KIDS_ADAB !== 'undefined') ? KIDS_ADAB : [];
     return `
-      <p class="text-center text-gray-500 dark:text-gray-400 mb-4">🌸 ${lang === 'bn' ? 'ইসলামি আদব — ছোটদের জন্য' : 'Islamic manners for children'}</p>
+      <p class="text-center text-gray-500 dark:text-gray-400 mb-4">🌸 ${this.tk('kids_adab_intro', 'Islamic manners for children', lang)}</p>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         ${src.map((a, i) => {
           const title = a.title ? (this.L(a.title, lang)) : a.id;
-          const body  = a.body  ? (a.body[lang]  || a.body.en)  : '';
+          const body  = a.body  ? (this.L(a.body, lang))  : '';
           return `
           <div class="rounded-2xl bg-gradient-to-br ${KIDS_GRADIENTS[i % KIDS_GRADIENTS.length]}
                       shadow hover:shadow-lg transition-all p-5 sm:p-6 flex flex-col gap-3">
@@ -1804,7 +1804,7 @@ class KidsQaida {
       return `
         <button data-kids-quiz-go="${g.mode}"
                 class="w-full rounded-2xl bg-gradient-to-br ${g.grad} shadow hover:shadow-lg hover:scale-[1.02]
-                       transition-all p-4 flex items-center gap-3 text-left">
+                       transition-all p-4 flex items-center gap-3 text-start">
           <span class="text-3xl shrink-0">${g.emoji}</span>
           <span class="flex-1 min-w-0">
             <span class="block font-extrabold text-gray-800 dark:text-gray-100 truncate">${g.title}</span>

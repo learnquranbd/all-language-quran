@@ -105,6 +105,15 @@ class WordRepeat {
     return loc || key;                       // enrichment key → local fallback
   }
 
+  /** "Showing <b>n</b> of total" as one template so each language orders it. */
+  showingOf(n, total) {
+    const b = `<b class="text-gray-600 dark:text-gray-300">${n}</b>`;
+    if (typeof tFill === 'function' && t('wr_showing_of', this.language) !== 'wr_showing_of') {
+      return tFill('wr_showing_of', this.language, { n: b, total });
+    }
+    return `${this.tt('wr_showing')} ${b} ${this.tt('wr_of')} ${total}`;
+  }
+
   async ensureLoaded() {
     if (this.loaded) { this.render(); return; }
     this.container.innerHTML = `<div class="text-center py-16 text-gray-400">${this.tt('loading')}</div>`;
@@ -117,10 +126,10 @@ class WordRepeat {
       ]);
       this.tokens = tk; this.roots = rt; this.wordIndex = wi;
       this.sarfRoots = sf ? new Set(sf.order) : null;
-      this.sarfGloss = {};       // root -> English gloss from sarf.json (~30 roots)
+      this.sarfGloss = {};       // root -> English gloss from sarf.json (en only; see meaningOf)
       if (sf && sf.roots) for (const r in sf.roots) { if (sf.roots[r].gloss) this.sarfGloss[r] = sf.roots[r].gloss; }
     } catch (e) {
-      this.container.innerHTML = `<div class="text-center py-16 text-red-500">${this.tt('topics_load_error')}</div>`;
+      this.container.innerHTML = `<div class="text-center py-16 text-red-500">${this.tt('load_failed')}</div>`;
       return;
     }
     this.loaded = true;
@@ -344,7 +353,7 @@ class WordRepeat {
     const lang = this.language;
     return SURAH_DATA.map(s => {
       const active = s.number === this.surah;
-      const name = s.names[lang] || s.names.en;
+      const name = (typeof getSurahName === 'function') ? getSurahName(s.number, lang) : (s.names[lang] || s.names.en);
       return `
         <button data-wr-surah="${s.number}" ${active ? 'aria-current="true"' : ''}
                 class="wr-rail-btn shrink-0 md:shrink md:w-full text-start px-3 py-2 rounded-lg border-s-2 transition-colors
@@ -355,7 +364,7 @@ class WordRepeat {
             <span class="text-xs font-semibold w-6 text-center shrink-0 ${active ? 'text-primary/70 dark:text-blue-300/70' : 'text-gray-400'}">${s.number}</span>
             <span class="min-w-0">
               <span class="block text-sm truncate max-w-[9rem]" dir="auto">${this.esc(name)}</span>
-              <span class="block ayah-arabic !text-sm !leading-none !mb-0 !pb-0 !border-b-0 ${active ? 'text-primary dark:text-blue-300' : 'text-gray-500 dark:text-gray-400'}" dir="rtl">${this.esc(s.arabicName)}</span>
+              ${name === s.arabicName ? '' : `<span class="block ayah-arabic !text-sm !leading-none !mb-0 !pb-0 !border-b-0 ${active ? 'text-primary dark:text-blue-300' : 'text-gray-500 dark:text-gray-400'}" dir="rtl">${this.esc(s.arabicName)}</span>`}
             </span>
           </span>
         </button>`;
@@ -548,7 +557,7 @@ class WordRepeat {
   copyList(btn) {
     const { list } = this.buildView();
     const info = getSurahByNumber(this.surah);
-    const name = info ? (info.names[this.language] || info.names.en) : this.surah;
+    const name = info ? ((typeof getSurahName === 'function') ? getSurahName(this.surah, this.language) : (info.names[this.language] || info.names.en)) : this.surah;
     const scope = this.scope === 'ayah' ? `${this.surah}:${this.ayah}` : `${this.surah}`;
     const mode = this.type === 'root' ? this.tt('wr_root') : this.tt('wr_exact');
     const where = this.scope === 'quran' ? this.tt('wr_whole_quran')
@@ -723,10 +732,17 @@ class WordRepeat {
 
   meaningOf(term) {
     if (this.type === 'root') {
-      // Curated sarf gloss first, else the WBW meaning of the first occurrence
-      if (this.sarfGloss && this.sarfGloss[term]) return this.sarfGloss[term];
+      // The curated sarf.json gloss is English: use it first only in English.
+      // Other languages: SARF_GLOSS (js/sarf.js) for the UI language, then the
+      // WBW meaning of the first occurrence, then the English gloss.
+      const enGloss = (this.sarfGloss && this.sarfGloss[term]) || '';
+      if (this.language === 'en' && enGloss) return enGloss;
+      const loc = (typeof SARF_GLOSS !== 'undefined' && SARF_GLOSS && SARF_GLOSS[this.language])
+        ? SARF_GLOSS[this.language][term] : '';
+      if (loc) return loc;
       const m = this._rootMeaning[this.metaKey()];
-      return m ? (m[term] || '') : '';
+      if (m && m[term]) return m[term];
+      return m ? enGloss : '';
     }
     const m = this._meaning[this.metaKey()];
     return m ? (m[term] || '') : '';
@@ -891,7 +907,7 @@ class WordRepeat {
         if (cur) cur.innerHTML = this.inlineVerseHtml(v, word, s, a, cur.getAttribute('data-color'), posOf(cur));
       }).catch(() => {
         const cur = this.container.querySelector(`[data-inline-slot="${ref}"]`);
-        if (cur) cur.innerHTML = `<p class="text-center text-gray-400 py-3 text-sm">${this.tt('topics_load_error')}</p>`;
+        if (cur) cur.innerHTML = `<p class="text-center text-gray-400 py-3 text-sm">${this.tt('load_failed')}</p>`;
       });
     });
   }
@@ -923,7 +939,7 @@ class WordRepeat {
     const list = v.list;
     const stats = this.statsCardHtml(v);
     const bars = this.topBarsHtml(list);
-    const showing = `<p class="text-center text-xs text-gray-400 mb-3">${this.tt('wr_tap_hint')}<br>${this.tt('wr_showing')} <b class="text-gray-600 dark:text-gray-300">${list.length}</b> ${this.tt('wr_of')} ${v.unique}</p>`;
+    const showing = `<p class="text-center text-xs text-gray-400 mb-3">${this.tt('wr_tap_hint')}<br>${this.showingOf(list.length, v.unique)}</p>`;
     // Render in pages: the whole Quran has thousands of terms. An open card
     // past the page stays visible (moved to the front).
     let shown = list.slice(0, this.listLimit);

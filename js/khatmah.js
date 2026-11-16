@@ -148,7 +148,7 @@ class Khatmah {
 
   segLabel(seg) {
     const name = (typeof getSurahName === 'function') ? getSurahName(seg.surah, this.language) : String(seg.surah);
-    return `${name} ${seg.from}${seg.to > seg.from ? '–' + seg.to : ''}`;
+    return `${name} ${this.num(seg.from)}${seg.to > seg.from ? '–' + this.num(seg.to) : ''}`;
   }
   segsToHash(segs) {
     return segs.map(s => s.from === s.to ? `${s.surah}:${s.from}` : `${s.surah}:${s.from}-${s.to}`).join(',');
@@ -207,8 +207,38 @@ class Khatmah {
     return { date: new Date(today.getTime() + projDays * DAY) };
   }
 
+  /* One digit system per language for the whole card: counters go through
+   * num() and dates through fmtDate(), both with the numbering system Intl
+   * picks for the language (bn ০-৯, ar ٠-٩, fa ۰-۹, Western elsewhere), so a
+   * card never mixes "1 of 30" with a "১৫ ডিসে" date. Change it here only. */
+  numberingSystem() {
+    const lang = this.language || 'en';
+    if (this._nuLang !== lang) {
+      this._nuLang = lang;
+      try { this._nu = new Intl.NumberFormat(lang).resolvedOptions().numberingSystem || 'latn'; }
+      catch (e) { this._nu = 'latn'; }
+      try { this._nf = new Intl.NumberFormat(lang, { numberingSystem: this._nu, useGrouping: false }); }
+      catch (e) { this._nf = null; }
+    }
+    return this._nu;
+  }
+
+  num(n) {
+    this.numberingSystem();
+    return this._nf ? this._nf.format(n) : String(n);
+  }
+
   fmtDate(d) {
-    return d.toLocaleDateString(this.language, { day: 'numeric', month: 'short', year: 'numeric' });
+    const opts = { day: 'numeric', month: 'short', year: 'numeric', numberingSystem: this.numberingSystem() };
+    try { return d.toLocaleDateString(this.language, opts); }
+    catch (e) { return d.toLocaleDateString(this.language, { day: 'numeric', month: 'short', year: 'numeric' }); }
+  }
+
+  /** Plural-aware template (khatmah_days_label/ahead/behind/progress) with localised digits. */
+  plural(key, count, vars) {
+    const v = Object.assign({ n: this.num(count) }, vars || {});
+    if (typeof tPlural === 'function') return tPlural(key, count, this.language, v);
+    return this.f(key, v);
   }
 
   /* ---------- navigation ---------- */
@@ -294,10 +324,10 @@ class Khatmah {
     const presets = [7, 15, 30, 60];
     const cards = presets.map(d => `
       <button data-kh-start="${d}" class="rounded-2xl p-5 text-center bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 shadow hover:shadow-lg hover:-translate-y-0.5 transition-all">
-        <div class="text-3xl font-extrabold text-primary dark:text-blue-400">${d}</div>
-        <div class="text-sm font-medium mt-0.5">${this.tt('khatmah_days_label').replace('{n}', d)}</div>
-        <div class="text-xs text-gray-400 mt-2">${this.tt('khatmah_pages_day').replace('{n}', Math.ceil(604 / d))}</div>
-        <div class="text-xs text-gray-400">${this.tt('khatmah_verses_day').replace('{n}', Math.ceil(this.totalVerses / d))}</div>
+        <div class="text-3xl font-extrabold text-primary dark:text-blue-400">${this.num(d)}</div>
+        <div class="text-sm font-medium mt-0.5">${this.plural('khatmah_days_label', d)}</div>
+        <div class="text-xs text-gray-400 mt-2">${this.tt('khatmah_pages_day').replace('{n}', this.num(Math.ceil(604 / d)))}</div>
+        <div class="text-xs text-gray-400">${this.tt('khatmah_verses_day').replace('{n}', this.num(Math.ceil(this.totalVerses / d)))}</div>
         ${d === 30 ? `<div class="text-xs mt-2 px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:text-blue-300 inline-block">${this.tt('khatmah_juz_aligned')}</div>` : ''}
       </button>`).join('');
     return `
@@ -335,12 +365,12 @@ class Khatmah {
   ring(pct) {
     const r = 26, c = 2 * Math.PI * r, off = c * (1 - Math.max(0, Math.min(100, pct)) / 100);
     return `
-      <svg width="64" height="64" viewBox="0 0 64 64" class="shrink-0" role="img" aria-label="${pct}%">
+      <svg width="64" height="64" viewBox="0 0 64 64" class="shrink-0" role="img" aria-label="${this.num(pct)}%">
         <circle cx="32" cy="32" r="${r}" fill="none" stroke="currentColor" stroke-width="6" class="text-gray-100 dark:text-gray-700"/>
         <circle cx="32" cy="32" r="${r}" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round"
                 stroke-dasharray="${c.toFixed(1)}" stroke-dashoffset="${off.toFixed(1)}"
                 transform="rotate(-90 32 32)" class="text-primary dark:text-blue-400 transition-all"/>
-        <text x="32" y="37" text-anchor="middle" font-size="15" font-weight="700" class="fill-current text-primary dark:text-blue-400">${pct}%</text>
+        <text x="32" y="37" text-anchor="middle" font-size="15" font-weight="700" class="fill-current text-primary dark:text-blue-400">${this.num(pct)}%</text>
       </svg>`;
   }
 
@@ -366,8 +396,8 @@ class Khatmah {
     const diff = doneCount - (cur - 1);
     let pace;
     if (complete) pace = `<span class="text-green-600 dark:text-green-400 font-semibold">🎉 ${this.tt('khatmah_completed')}</span>`;
-    else if (diff >= 0) pace = `<span class="text-green-600 dark:text-green-400">✓ ${diff > 0 ? this.tt('khatmah_ahead').replace('{n}', diff) : this.tt('khatmah_on_track')}</span>`;
-    else pace = `<span class="text-amber-600 dark:text-amber-400">${this.tt('khatmah_behind').replace('{n}', -diff)}</span>`;
+    else if (diff >= 0) pace = `<span class="text-green-600 dark:text-green-400">✓ ${diff > 0 ? this.plural('khatmah_ahead', diff) : this.tt('khatmah_on_track')}</span>`;
+    else pace = `<span class="text-amber-600 dark:text-amber-400">${this.plural('khatmah_behind', -diff)}</span>`;
 
     const finish = new Date(p.start + (p.days - 1) * 86400000);
     const finishStr = this.fmtDate(finish);
@@ -380,8 +410,8 @@ class Khatmah {
       : (proj.date ? this.fmtDate(proj.date) : this.f('khatmah_none'));
     const stats = `
       <div class="grid grid-cols-3 gap-2 mb-5">
-        ${this.statCard(this.f('khatmah_stat_streak'), '🔥 ' + streak)}
-        ${this.statCard(this.f('khatmah_stat_verses'), vr + ' / ' + this.totalVerses)}
+        ${this.statCard(this.f('khatmah_stat_streak'), '🔥 ' + this.num(streak))}
+        ${this.statCard(this.f('khatmah_stat_verses'), this.num(vr) + ' / ' + this.num(this.totalVerses))}
         ${this.statCard(this.f('khatmah_stat_projected'), projStr)}
       </div>`;
 
@@ -395,7 +425,7 @@ class Khatmah {
       catchup = `
         <div class="rounded-2xl border border-amber-300 dark:border-amber-500/50 bg-amber-50 dark:bg-amber-900/20 p-4 mb-5">
           <div class="text-sm font-bold text-amber-700 dark:text-amber-300 mb-1">⏱️ ${this.f('khatmah_catchup_title')}</div>
-          <div class="text-xs text-amber-700/90 dark:text-amber-200/90 mb-3">${this.f('khatmah_catchup_desc', { n: -diff })}</div>
+          <div class="text-xs text-amber-700/90 dark:text-amber-200/90 mb-3">${this.f('khatmah_catchup_desc', { n: this.num(-diff) })}</div>
           <div class="flex flex-wrap gap-2">
             <button data-kh-read="${mRefs}" class="px-4 py-2 rounded-lg bg-amber-500 text-white text-sm font-medium hover:bg-amber-600">📖 ${this.f('khatmah_catchup_read')}</button>
             <button data-kh-resume class="px-4 py-2 rounded-lg bg-white dark:bg-gray-800 border border-amber-300 dark:border-amber-500/50 text-amber-700 dark:text-amber-300 text-sm font-medium hover:bg-amber-100 dark:hover:bg-amber-900/40">↩️ ${this.f('khatmah_resume')}</button>
@@ -418,7 +448,7 @@ class Khatmah {
                ${done ? 'bg-green-500 text-white' : 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'}
                ${isCur ? 'ring-2 ring-primary dark:ring-blue-400' : ''}
                ${isView && !isCur ? 'ring-2 ring-gray-400/60' : ''}"
-        title="${this.tt('khatmah_day').replace('{n}', d)}" aria-label="${this.tt('khatmah_day').replace('{n}', d)}">${done ? '✓' : d}</button>`;
+        title="${this.tt('khatmah_day').replace('{n}', this.num(d))}" aria-label="${this.tt('khatmah_day').replace('{n}', this.num(d))}">${done ? '✓' : this.num(d)}</button>`;
     }).join('');
 
     return `
@@ -429,7 +459,7 @@ class Khatmah {
             ${this.ring(pct)}
             <div class="flex-1 min-w-0">
               <div class="flex flex-wrap items-center justify-between gap-2 mb-2">
-                <span class="text-sm font-semibold">${this.tt('khatmah_progress').replace('{done}', doneCount).replace('{total}', p.days)}</span>
+                <span class="text-sm font-semibold">${this.plural('khatmah_progress', p.days, { done: this.num(doneCount), total: this.num(p.days) })}</span>
                 <span class="text-sm">${pace}</span>
               </div>
               <div class="h-2.5 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden">
@@ -448,8 +478,8 @@ class Khatmah {
 
         <div class="rounded-2xl border ${view === cur ? 'border-amber-300 dark:border-amber-500/50 shadow-lg' : 'border-gray-200 dark:border-gray-700'} bg-white dark:bg-gray-800 p-4 mb-5">
           <div class="flex flex-wrap items-center gap-2 mb-2">
-            <span class="text-sm font-bold">${view === cur ? '🌟 ' + this.tt('khatmah_today').replace('{n}', view) : this.tt('khatmah_day').replace('{n}', view)}</span>
-            ${p.days === 30 ? `<span class="text-xs px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:text-blue-300">${this.tt('juz')} ${view}</span>` : ''}
+            <span class="text-sm font-bold">${view === cur ? '🌟 ' + this.tt('khatmah_today').replace('{n}', this.num(view)) : this.tt('khatmah_day').replace('{n}', this.num(view))}</span>
+            ${p.days === 30 ? `<span class="text-xs px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:text-blue-300">${this.tt('juz')} ${this.num(view)}</span>` : ''}
           </div>
           <div class="flex flex-wrap gap-1.5 mb-3" dir="auto">
             ${segs.map(s => `<span class="text-sm px-2 py-1 rounded-lg bg-gray-100 dark:bg-gray-700">${this.segLabel(s)}</span>`).join('')}

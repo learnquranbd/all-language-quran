@@ -64,7 +64,9 @@ class Bookmarks {
 
     window.addEventListener('settingChanged', (e) => {
       if (e.detail.key === 'language') {
-        this.language = e.detail.value;
+        // A late content-i18n event may carry a previous language; trust appSettings.
+        this.language = (e.detail.contentI18n && typeof appSettings !== 'undefined' && appSettings)
+          ? (appSettings.get('language') || e.detail.value) : e.detail.value;
         this.scheduleStrip();
       }
     });
@@ -162,31 +164,44 @@ class Bookmarks {
     if (!hash) return;
     const first = ayahs[0];
     const last = ayahs[ayahs.length - 1];
-    const name = this.localSurahName(first.surah);
-    let label;
-    if (ayahs.length > 1 && first.surah !== last.surah) {
-      // A multi-surah load: "Al-Fatiha 1 … Al-Baqarah 141", not "Al-Fatiha 1–141".
-      label = `${name} ${first.ayah} … ${this.localSurahName(last.surah)} ${last.ayah}`.trim();
-    } else {
-      const range = ayahs.length > 1 ? `${first.ayah}–${last.ayah}` : `${first.ayah}`;
-      label = `${name} ${range}`.trim();
-    }
-    this.write('lastRead', { hash, label });
+    // Store the position only; the label is built at render time in the
+    // current language (see readLabel), so it follows a language switch.
+    const entry = { hash, s: first.surah, a: first.ayah, s2: last.surah, a2: last.ayah };
+    this.write('lastRead', entry);
 
     // Recent-read history: newest first, deduped by hash, capped.
     const prev = this.read('recentReads', []);
     const arr = Array.isArray(prev) ? prev.filter(x => x && x.hash && x.hash !== hash) : [];
-    arr.unshift({ hash, label, at: Date.now() });
+    arr.unshift(Object.assign({ at: Date.now() }, entry));
     this.write('recentReads', arr.slice(0, 8));
   }
 
   /* --------------------------------------------------------- helpers */
 
   localSurahName(num) {
+    if (typeof getSurahName === 'function') {
+      const n = getSurahName(num, this.language);
+      if (n) return n;
+    }
     if (typeof getSurahByNumber !== 'function') return '';
     const s = getSurahByNumber(num);
     if (!s) return '';
     return (s.names && (s.names[this.language] || s.names.en)) || s.arabicName || '';
+  }
+
+  /** Label for a lastRead / recentReads entry, in the current language.
+   *  Entries saved before the label moved to render time only have `label`. */
+  readLabel(x) {
+    if (!x) return '';
+    if (!x.s || !x.a) return x.label || x.hash || '';
+    const name = this.localSurahName(x.s);
+    const s2 = x.s2 || x.s, a2 = x.a2 || x.a;
+    if (s2 !== x.s) {
+      // A multi-surah load: "Al-Fatiha 1 … Al-Baqarah 141", not "Al-Fatiha 1–141".
+      return `${name} ${x.a} … ${this.localSurahName(s2)} ${a2}`.trim();
+    }
+    const range = a2 !== x.a ? `${x.a}–${a2}` : `${x.a}`;
+    return `${name} ${range}`.trim();
   }
 
   escapeHtml(s) {
@@ -489,7 +504,7 @@ class Bookmarks {
                        text-primary dark:text-blue-300 hover:bg-primary/20 dark:hover:bg-blue-900/50 transition-colors">
           <span>↪️</span>
           <span class="font-medium">${t('continue_reading', lang)}:</span>
-          <span class="truncate" dir="auto">${this.escapeHtml(lastRead.label || lastRead.hash)}</span>
+          <span class="truncate" dir="auto">${this.escapeHtml(this.readLabel(lastRead))}</span>
         </button>`;
     }
 
@@ -517,7 +532,7 @@ class Bookmarks {
     if (!items.length) return '';
     const chips = items.map(x => `
       <button class="bm-recent px-2.5 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-primary hover:text-white transition-colors truncate max-w-[11rem]"
-              data-hash="${this.escapeHtml(x.hash)}" dir="auto">${this.escapeHtml(x.label || x.hash)}</button>`).join('');
+              data-hash="${this.escapeHtml(x.hash)}" dir="auto">${this.escapeHtml(this.readLabel(x))}</button>`).join('');
     return `
       <div class="mt-3">
         <h3 class="text-xs uppercase font-semibold text-gray-400 dark:text-gray-500 mb-2 px-1">🕘 ${this.fb('recently_read', lang)}</h3>
@@ -561,7 +576,7 @@ class Bookmarks {
         <span>★ ${t('your_bookmarks', lang)}</span>
         <span class="normal-case px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-300 text-[10px] font-medium">${bookmarks.length}</span>
         ${(typeof ayahTimeline !== 'undefined' && ayahTimeline && bookmarks.length > 1) ? `<button id="bm-timeline" class="p-1.5 rounded normal-case text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700" title="${t('mt_group_open_all', lang)}" aria-label="${t('mt_group_open_all', lang)}">🕐</button>` : ''}
-        <button id="bm-sort" class="ml-auto p-1.5 rounded normal-case font-medium text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-0.5"
+        <button id="bm-sort" class="ms-auto p-1.5 rounded normal-case font-medium text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-0.5"
                 title="${t('sort_by', lang)}" aria-label="${t('sort_by', lang)}">↕ <span class="hidden sm:inline">${t(this.sortMode === 'surah' ? 'sort_surah' : 'sort_recent', lang)}</span></button>
         <button id="bm-export-json" class="p-1.5 rounded text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700 normal-case font-mono" title="${t('export_json', lang)}" aria-label="${t('export_json', lang)}">{ }</button>
         <button id="bm-import" class="p-1.5 rounded normal-case ${this.importing ? 'text-primary dark:text-blue-400' : 'text-gray-400'} hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700" title="${t('import_bookmarks', lang)}" aria-label="${t('import_bookmarks', lang)}">📥</button>
@@ -645,15 +660,15 @@ class Bookmarks {
           <button class="bm-remove p-2 rounded-lg text-gray-400 hover:text-red-500 dark:hover:text-red-400 hover:bg-gray-200 dark:hover:bg-gray-600"
                   data-key="${this.escapeHtml(key)}" title="${t('remove_bookmark', lang)}" aria-label="${t('remove_bookmark', lang)}">✕</button>
         </div>
-        ${!editingNote && note ? `<p class="ml-7 mt-0.5 text-xs italic text-gray-500 dark:text-gray-400" dir="auto">${this.escapeHtml(note)}</p>` : ''}
+        ${!editingNote && note ? `<p class="ms-7 mt-0.5 text-xs italic text-gray-500 dark:text-gray-400" dir="auto">${this.escapeHtml(note)}</p>` : ''}
         ${editingNote ? `
-          <div class="ml-7 mt-1 flex items-center gap-1">
+          <div class="ms-7 mt-1 flex items-center gap-1">
             <input id="bm-note-input" type="text" value="${this.escapeHtml(note)}" maxlength="200" dir="auto"
                    class="flex-1 px-2 py-1 text-xs rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-primary">
             <button class="bm-note-save px-2.5 py-1.5 text-xs rounded-md bg-primary text-white hover:bg-primary/80" data-key="${this.escapeHtml(key)}" title="${t('ponder_save', lang)}" aria-label="${t('ponder_save', lang)}">✓</button>
           </div>` : ''}
         ${editingColl ? `
-          <div class="ml-7 mt-1">
+          <div class="ms-7 mt-1">
             <div class="flex items-center gap-1">
               <input id="bm-collection-input" type="text" value="${this.escapeHtml(coll)}" maxlength="40" dir="auto"
                      placeholder="${t('new_collection', lang)}"

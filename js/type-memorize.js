@@ -147,7 +147,7 @@ class TypeMemorize {
               <input type="checkbox" id="tm-strict" ${this.strictTashkeel ? 'checked' : ''} class="w-4 h-4"> ${t('typemem_strict', lang)}
             </label>
             <button id="tm-reveal" class="px-2.5 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">💡 ${t('typemem_reveal', lang)}</button>
-            <span class="ml-auto font-mono">⏱ <span id="tm-timer">0:00</span></span>
+            <span class="ms-auto font-mono">⏱ <span id="tm-timer">0:00</span></span>
           </div>
 
           <div id="tm-skeleton" class="ayah-arabic !text-2xl !leading-loose p-3 rounded-lg bg-gray-50 dark:bg-gray-900/40 min-h-[3.5rem]" dir="rtl"></div>
@@ -160,7 +160,7 @@ class TypeMemorize {
           <textarea id="tm-input" rows="4" dir="rtl"
             class="w-full px-3 py-2 ayah-arabic !text-2xl !leading-loose rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-primary"
             placeholder="${t('typemem_placeholder', lang)}"></textarea>
-          <div class="text-right text-sm mt-1">${t('typemem_matched', lang)}: <span id="tm-live" class="text-gray-500 dark:text-gray-400 font-semibold">0 / 0</span></div>
+          <div class="text-end text-sm mt-1">${t('typemem_matched', lang)}: <span id="tm-live" class="text-gray-500 dark:text-gray-400 font-semibold">0 / 0</span></div>
 
           ${this.arabicKeyboard(lang)}
 
@@ -208,7 +208,7 @@ class TypeMemorize {
           </div>`).join('')}
           <div class="flex justify-center gap-1">
             <button data-tm-key=" " class="px-8 h-10 rounded bg-gray-100 dark:bg-gray-700 text-xs hover:bg-blue-100 dark:hover:bg-gray-600">${t('typemem_space', lang)}</button>
-            <button data-tm-key="BS" aria-label="${t('clear', lang)}" title="${t('clear', lang)}" class="px-4 h-10 rounded bg-gray-100 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-gray-600">⌫</button>
+            <button data-tm-key="BS" aria-label="${t('typemem_backspace', lang)}" title="${t('typemem_backspace', lang)}" class="px-4 h-10 rounded bg-gray-100 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-gray-600">⌫</button>
           </div>
         </div>
       </details>
@@ -418,8 +418,8 @@ class TypeMemorize {
     el.classList.remove('hidden');
     el.innerHTML = `
       <div class="flex flex-wrap items-center gap-2 text-sm p-2 rounded-lg bg-blue-50 dark:bg-blue-900/20">
-        <span>${t('typemem_session', lang)}: ${s.count} ${t('typemem_ayat_done', lang)} · ${t('accuracy', lang)} ${avg}% · ⏱ ${this.fmtTime(s.sumMs)}</span>
-        <button id="tm-finish" class="ml-auto px-3 py-1 rounded-lg border border-blue-300 dark:border-blue-700 hover:bg-blue-100 dark:hover:bg-blue-800/40">${t('typemem_finish', lang)}</button>
+        <span>${t('typemem_session', lang)}: ${tPlural('typemem_ayat_done_n', s.count, lang)} · ${t('accuracy', lang)} ${avg}% · ⏱ ${this.fmtTime(s.sumMs)}</span>
+        <button id="tm-finish" class="ms-auto px-3 py-1 rounded-lg border border-blue-300 dark:border-blue-700 hover:bg-blue-100 dark:hover:bg-blue-800/40">${t('typemem_finish', lang)}</button>
       </div>`;
   }
 
@@ -436,7 +436,7 @@ class TypeMemorize {
       <div class="p-3 rounded-lg bg-gray-50 dark:bg-gray-900/40">
         <div class="text-center font-bold mb-2">🏁 ${t('typemem_session', lang)}</div>
         <div class="flex flex-wrap justify-center gap-x-4 gap-y-1 text-sm mb-3">
-          <span>${t('typemem_ayat_done', lang)}: <b>${s.count}</b></span>
+          <span>${tPlural('typemem_ayat_done_n', s.count, lang, { n: `<b>${s.count}</b>` })}</span>
           <span>${t('typemem_avg_accuracy', lang)}: <b>${avg}%</b></span>
           <span>${t('typemem_total_time', lang)}: <b>${this.fmtTime(s.sumMs)}</b></span>
         </div>
@@ -534,10 +534,10 @@ class TypeMemorize {
     res.innerHTML = `
       <div class="text-center mb-3">
         <span class="text-2xl font-bold ${pct >= 80 ? 'text-green-600 dark:text-green-400' : 'text-amber-600 dark:text-amber-400'}">${t('accuracy', lang)}: ${pct}%</span>
-        <span class="text-sm text-gray-500 dark:text-gray-400 ml-2">${correct}/${total}</span>
-        ${extraCount ? `<span class="text-sm text-red-500 dark:text-red-400 ml-2">+${extraCount} ${t('typemem_extra', lang)}</span>` : ''}
-        <span class="text-sm text-gray-500 dark:text-gray-400 ml-2">⏱ ${this.fmtTime(ms)}</span>
-        ${improved ? `<span class="ml-2 text-xs font-semibold px-2 py-0.5 rounded-full bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300">★ ${t('typemem_new_best', lang)}</span>` : ''}
+        <span class="text-sm text-gray-500 dark:text-gray-400 ms-2">${correct}/${total}</span>
+        ${extraCount ? `<span class="text-sm text-red-500 dark:text-red-400 ms-2">+${extraCount} ${t('typemem_extra', lang)}</span>` : ''}
+        <span class="text-sm text-gray-500 dark:text-gray-400 ms-2">⏱ ${this.fmtTime(ms)}</span>
+        ${improved ? `<span class="ms-2 text-xs font-semibold px-2 py-0.5 rounded-full bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300">★ ${t('typemem_new_best', lang)}</span>` : ''}
       </div>
       <div class="ayah-arabic !text-2xl !leading-loose p-3 rounded-lg bg-gray-50 dark:bg-gray-900/40" dir="rtl">
         ${expected.map((w, idx) => {
@@ -550,7 +550,7 @@ class TypeMemorize {
         ${this.extraSpans(extras[expected.length])}
       </div>
       <div class="flex justify-center mt-3">
-        <button id="tm-next" class="px-5 py-2 rounded-lg bg-primary text-white font-medium hover:bg-primary/80">${t('typemem_next_ayah', lang)} →</button>
+        <button id="tm-next" class="px-5 py-2 rounded-lg bg-primary text-white font-medium hover:bg-primary/80">${t('typemem_next_ayah', lang)} ${(typeof isRTL === 'function' && isRTL(lang)) ? '←' : '→'}</button>
       </div>
     `;
   }

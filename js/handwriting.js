@@ -87,7 +87,7 @@ class Handwriting {
       // are traced exactly like letters, so they slot in as their own section.
       return (typeof HW_NUMBERS !== 'undefined' ? HW_NUMBERS : []).map(n => ({
         text: n.arabicNumeral,
-        label: (this.language === 'bn' ? n.name_bn : n.name_en) || String(n.digit),
+        label: this.L({ en: n.name_en, bn: n.name_bn }) || String(n.digit),
         audio: n.arabicNumeral,
       }));
     }
@@ -180,7 +180,6 @@ class Handwriting {
    * and HW_PRACTICE_WORDS. Never touches canvas state.
    */
   teachingHTML() {
-    const isBn = this.language === 'bn';
     const ch = this.current().text;
 
     // Per-letter writing tip
@@ -198,7 +197,7 @@ class Handwriting {
         <span class="text-base shrink-0">⚠️</span>
         <div>
           <p class="text-xs font-semibold text-amber-700 dark:text-amber-400 mb-0.5">
-            ${isBn ? 'বিভ্রান্তিকর অক্ষর:' : 'Similar letters:'}
+            ${t('hw_similar_letters', this.language)}
             <span dir="rtl" class="ayah-arabic font-normal">${confGroup.letters.join(' ')}</span>
           </p>
           <p class="text-xs text-gray-600 dark:text-gray-400 leading-snug">${this.L(confGroup.tip)}</p>
@@ -220,14 +219,14 @@ class Handwriting {
     const wordsHTML = this.section === 'words' ? `
       <div class="bg-gray-50 dark:bg-gray-800/50 rounded-xl p-3 border border-gray-200 dark:border-gray-700">
         <h4 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-3">
-          📝 ${isBn ? 'অনুশীলন শব্দ ক্রম' : 'Recommended Practice Sequence'}
+          📝 ${t('hw_practice_sequence', this.language)}
         </h4>
         <div class="grid grid-cols-2 gap-1.5" dir="rtl">
           ${HW_PRACTICE_WORDS.map(w => `
             <div class="bg-white dark:bg-gray-800 rounded-lg px-2 py-2 border border-gray-100 dark:border-gray-700 text-center">
               <div class="ayah-arabic text-2xl leading-none mb-0.5">${w.arabic}</div>
               <div class="text-xs font-medium text-gray-600 dark:text-gray-400" dir="ltr">${w.translit}</div>
-              <div class="text-xs text-gray-400 dark:text-gray-500 mt-0.5 leading-tight" dir="ltr">${this.L(w.note)}</div>
+              <div class="text-xs text-gray-400 dark:text-gray-500 mt-0.5 leading-tight" dir="auto">${this.L(w.note)}</div>
             </div>`).join('')}
         </div>
       </div>` : '';
@@ -237,14 +236,14 @@ class Handwriting {
         ${(tipHTML || confHTML) ? `
         <div class="bg-blue-50 dark:bg-blue-900/20 rounded-xl p-3 border border-blue-100 dark:border-blue-800">
           <h4 class="text-xs font-semibold text-blue-700 dark:text-blue-300 uppercase tracking-wide mb-2">
-            📖 ${isBn ? 'লেখার টিপস' : 'Writing Tips'} &nbsp;<span dir="rtl" class="ayah-arabic font-normal text-base normal-case">${ch}</span>
+            📖 ${t('hw_writing_tips', this.language)} &nbsp;<span dir="rtl" class="ayah-arabic font-normal text-base normal-case">${ch}</span>
           </h4>
           ${tipHTML}${confHTML}
         </div>` : ''}
 
         <div class="bg-gray-50 dark:bg-gray-800/50 rounded-xl p-3 border border-gray-200 dark:border-gray-700">
           <h4 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-2">
-            📐 ${isBn ? 'লেখার মূলনীতি' : 'Writing Fundamentals'}
+            📐 ${t('hw_fundamentals', this.language)}
           </h4>
           <div class="space-y-1.5">${basicsHTML}</div>
         </div>
@@ -270,10 +269,9 @@ class Handwriting {
    */
   commonWordsHTML() {
     if (typeof HW_COMMON_WORDS === 'undefined' || !HW_COMMON_WORDS.length) return '';
-    const isBn = this.language === 'bn';
     const cards = HW_COMMON_WORDS.map(w => {
-      const meaning = (isBn && w.meaningBn) ? w.meaningBn : w.meaningEn;
-      const tip = (isBn && w.tipBn) ? w.tipBn : w.tipEn;
+      const meaning = this.L({ en: w.meaningEn, bn: w.meaningBn });
+      const tip = this.L({ en: w.tipEn, bn: w.tipBn });
       const letters = Array.isArray(w.letters) ? w.letters.join(' · ') : '';
       return `
         <div class="p-2.5 rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
@@ -291,7 +289,7 @@ class Handwriting {
         <details>
           <summary class="cursor-pointer select-none flex items-center justify-between">
             <h4 class="text-xs font-semibold text-emerald-700 dark:text-emerald-300 uppercase tracking-wide">
-              📝 ${isBn ? 'পরিচিত কুরআনি শব্দ লেখা' : 'Writing common Quranic words'}
+              📝 ${t('hw_common_words', this.language)}
             </h4>
             <span class="text-gray-400 text-xs shrink-0">▾</span>
           </summary>
@@ -306,10 +304,9 @@ class Handwriting {
    */
   kidMistakesHTML() {
     if (typeof HW_MISTAKES_KIDS === 'undefined' || !HW_MISTAKES_KIDS.length) return '';
-    const isBn = this.language === 'bn';
     const rows = HW_MISTAKES_KIDS.map(m => {
-      const bad = (isBn && m.mistakeBn) ? m.mistakeBn : m.mistakeEn;
-      const good = (isBn && m.correctBn) ? m.correctBn : m.correctEn;
+      const bad = this.L({ en: m.mistakeEn, bn: m.mistakeBn });
+      const good = this.L({ en: m.correctEn, bn: m.correctBn });
       return `
         <div class="p-2.5 rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
           <p class="text-xs text-red-600 dark:text-red-400 leading-snug" dir="auto">✗ ${bad}</p>
@@ -321,7 +318,7 @@ class Handwriting {
         <details>
           <summary class="cursor-pointer select-none flex items-center justify-between">
             <h4 class="text-xs font-semibold text-amber-700 dark:text-amber-300 uppercase tracking-wide">
-              ⚠️ ${isBn ? 'শিক্ষানবিশদের সাধারণ ভুল' : 'Common beginner mistakes'}
+              ⚠️ ${t('hw_common_mistakes', this.language)}
             </h4>
             <span class="text-gray-400 text-xs shrink-0">▾</span>
           </summary>
@@ -335,7 +332,6 @@ class Handwriting {
    * Rendered as a grid of <details> cards — blue header card + amber mistake warning per mark.
    */
   harakatHTML() {
-    const isBn = this.language === 'bn';
     const cards = HW_HARAKAT.map(h => `
       <details class="border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden">
         <summary class="flex items-center gap-2 px-3 py-2 cursor-pointer select-none bg-white dark:bg-gray-800">
@@ -345,11 +341,11 @@ class Handwriting {
         </summary>
         <div class="px-3 pb-3 pt-2 space-y-1.5 border-t border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800">
           <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed">
-            <span class="font-medium text-gray-700 dark:text-gray-300">${isBn ? '📍 স্থান:' : '📍 Placement:'}</span>
+            <span class="font-medium text-gray-700 dark:text-gray-300">📍 ${t('hw_placement', this.language)}</span>
             ${this.L(h.placement)}
           </p>
           <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed">
-            <span class="font-medium text-gray-700 dark:text-gray-300">${isBn ? '🔊 উচ্চারণ:' : '🔊 Sound:'}</span>
+            <span class="font-medium text-gray-700 dark:text-gray-300">🔊 ${t('hw_sound', this.language)}</span>
             ${this.L(h.sound)}
           </p>
           <div class="flex gap-1.5 items-start mt-1 bg-amber-50 dark:bg-amber-900/20 rounded-lg px-2 py-1.5 border border-amber-100 dark:border-amber-800">
@@ -364,14 +360,14 @@ class Handwriting {
         <details>
           <summary class="flex items-center gap-2 cursor-pointer select-none list-none">
             <h4 class="text-xs font-semibold text-blue-700 dark:text-blue-300 uppercase tracking-wide flex-1">
-              ◌ ${isBn ? 'হারাকাত ও সুকুন (স্বরচিহ্ন)' : 'Harakat & Sukūn (Diacritics)'}
+              ◌ ${t('hw_harakat', this.language)}
             </h4>
             <span class="text-blue-400 text-xs shrink-0">▾</span>
           </summary>
           <p class="text-xs text-blue-600 dark:text-blue-400 mt-1 mb-3 leading-relaxed">
-            ${isBn
-              ? 'হারাকাত ছোট চিহ্ন যা অক্ষরের উপরে বা নিচে বসে এবং উচ্চারণ নির্ধারণ করে। সঠিক তাজওয়ীদ ও কুরআন তেলাওয়াতের জন্য এগুলো সঠিকভাবে লেখা আবশ্যক।'
-              : 'Harakat are small marks placed above or below letters to specify vowels and consonant states. Writing them correctly is essential for accurate tajwīd and Quranic recitation.'}
+            ${this.L({
+              bn: 'হারাকাত ছোট চিহ্ন যা অক্ষরের উপরে বা নিচে বসে এবং উচ্চারণ নির্ধারণ করে। সঠিক তাজওয়ীদ ও কুরআন তেলাওয়াতের জন্য এগুলো সঠিকভাবে লেখা আবশ্যক।',
+              en: 'Harakat are small marks placed above or below letters to specify vowels and consonant states. Writing them correctly is essential for accurate tajwīd and Quranic recitation.' })}
           </p>
           <div class="space-y-1.5">${cards}</div>
         </details>
@@ -383,7 +379,6 @@ class Handwriting {
    * Shows each verse's Arabic text, transliteration, and focus-letter tips.
    */
   fatihaHTML() {
-    const isBn = this.language === 'bn';
     const verses = HW_FATIHA_STROKES.map(v => {
       const focusItems = v.focusLetters.map(fl => `
         <div class="flex gap-2 items-start">
@@ -414,14 +409,14 @@ class Handwriting {
         <details>
           <summary class="flex items-center gap-2 cursor-pointer select-none list-none">
             <h4 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide flex-1">
-              📖 ${isBn ? 'সূরা আল-ফাতিহা — আয়াত-ভিত্তিক স্ট্রোক গাইড' : 'Sūrat al-Fātiḥa — Verse-by-Verse Stroke Guide'}
+              📖 ${t('hw_fatiha_guide', this.language)}
             </h4>
             <span class="text-gray-400 text-xs shrink-0">▾</span>
           </summary>
           <p class="text-xs text-gray-500 dark:text-gray-400 mt-1 mb-3 leading-relaxed">
-            ${isBn
-              ? 'প্রতিটি আয়াতের জন্য মূল অক্ষর এবং সেই প্রসঙ্গে তাদের স্ট্রোক নির্দেশিকা। হারাকাত সহ অনুশীলন করুন।'
-              : 'For each verse, key letters and their stroke guidance in that specific context. Practice with harakat applied.'}
+            ${this.L({
+              bn: 'প্রতিটি আয়াতের জন্য মূল অক্ষর এবং সেই প্রসঙ্গে তাদের স্ট্রোক নির্দেশিকা। হারাকাত সহ অনুশীলন করুন।',
+              en: 'For each verse, key letters and their stroke guidance in that specific context. Practice with harakat applied.' })}
           </p>
           <div class="space-y-1.5">${verses}</div>
         </details>
@@ -444,23 +439,21 @@ class Handwriting {
     const plain = String((style && style.name && style.name.en) || '')
       .normalize('NFD').replace(/[̀-ͯ]/g, '');
     if (!/kufi/i.test(plain)) return '';
-    const isBn = this.language === 'bn';
     const rows = HW_KUFI_TIPS.map(k => `
       <div class="flex gap-2 items-start">
         <span class="ayah-arabic !text-lg !leading-none shrink-0 w-6 text-center text-gray-700 dark:text-gray-200" dir="rtl" lang="ar">${k.letter}</span>
-        <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed" dir="auto">${(isBn && k.tipBn) ? k.tipBn : k.tipEn}</p>
+        <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed" dir="auto">${this.L({ en: k.tipEn, bn: k.tipBn })}</p>
       </div>`).join('');
     return `
       <div class="mt-2 pt-2 border-t border-gray-100 dark:border-gray-700 space-y-1.5">
         <p class="text-[11px] font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide">
-          ${isBn ? 'অক্ষরভিত্তিক কুফি নির্দেশনা' : 'Letter-by-letter Kufi notes'}
+          ${t('hw_kufi_notes', this.language)}
         </p>
         ${rows}
       </div>`;
   }
 
   khatStylesHTML() {
-    const isBn = this.language === 'bn';
     const styleCards = HW_KHAT_STYLES.map(s => {
       const noteItems = s.notes.map(n => `
         <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed">${this.L(n)}</p>`).join('');
@@ -484,14 +477,12 @@ class Handwriting {
         <details>
           <summary class="flex items-center gap-2 cursor-pointer select-none list-none">
             <h4 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide flex-1">
-              🖋️ ${isBn ? 'আরবি ক্যালিগ্রাফির পাঁচটি প্রধান শৈলী' : 'Five Major Arabic Calligraphic Scripts'}
+              🖋️ ${t('hw_scripts_title', this.language)}
             </h4>
             <span class="text-gray-400 text-xs shrink-0">▾</span>
           </summary>
           <p class="text-xs text-gray-500 dark:text-gray-400 mt-1 mb-3 leading-relaxed">
-            ${isBn
-              ? 'বিভিন্ন প্রসঙ্গে ব্যবহৃত আরবি ক্যালিগ্রাফির পাঁচটি প্রধান শৈলী — তাদের বৈশিষ্ট্য এবং কুরআনিক ব্যবহারের নোট সহ।'
-              : 'The five major Arabic calligraphic scripts encountered in various contexts — with notes on their distinguishing traits and Quranic usage.'}
+            ${t('hw_scripts_sub', this.language)}
           </p>
           <div class="space-y-1.5">${styleCards}</div>
         </details>

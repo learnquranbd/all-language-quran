@@ -45,6 +45,9 @@ class SearchView {
 
     window.addEventListener('settingChanged', (e) => {
       if (e.detail.key !== 'language') return;
+      // A content-i18n pack load re-announces the same language: nothing here
+      // reads those packs, so do not wipe the cache and re-run the search.
+      if (e.detail.contentI18n) return;
       this.language = e.detail.value;
       this.displayCache.clear();   // translations + word text follow the language
       this.renderShell();
@@ -560,10 +563,10 @@ class SearchView {
           <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-primary/10 dark:bg-blue-900/40 text-primary dark:text-blue-300">${v.key}</span>
           <span class="text-sm text-gray-600 dark:text-gray-300" dir="auto">${this._esc(surahName)}</span>
           ${badge}
-          <span class="ms-auto text-xs text-gray-400 dark:text-gray-500">${t('search_open_verse', lang)} →</span>
+          <span class="ms-auto text-xs text-gray-400 dark:text-gray-500">${t('search_open_verse', lang)} ${(typeof isRTL === 'function' && isRTL(lang)) ? '←' : '→'}</span>
         </div>
         <div class="ayah-arabic !mb-2 !pb-2" dir="rtl" data-arabic>
-          <span class="text-gray-300 dark:text-gray-600 text-base">${t('loading', lang)}…</span>
+          <span class="text-gray-300 dark:text-gray-600 text-base">${t('loading', lang)}</span>
         </div>
         <div class="text-sm text-gray-600 dark:text-gray-300" dir="auto" data-translation></div>
       </div>
@@ -593,7 +596,22 @@ class SearchView {
 
     // Prefer the already-shown local Arabic; use the API text only as a fallback.
     if (arabicEl && arabicEl.dataset.local !== '1') arabicEl.innerHTML = this.highlightArabic(verse, v.ranges);
-    if (transEl) transEl.textContent = verse.translation || '';
+    if (transEl) transEl.textContent = this._decodeEntities(verse.translation || '');
+  }
+
+  /** Some bundled translations (tr, ru) carry HTML entities such as &quot;.
+   *  The text goes in via textContent, so decode them first. */
+  _decodeEntities(s) {
+    if (!s || s.indexOf('&') === -1) return s;
+    const named = { quot: '"', amp: '&', apos: "'", lt: '<', gt: '>', nbsp: '\u00a0' };
+    return String(s).replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (m, e) => {
+      if (e[0] === '#') {
+        const cp = e[1] === 'x' || e[1] === 'X' ? parseInt(e.slice(2), 16) : parseInt(e.slice(1), 10);
+        try { return String.fromCodePoint(cp); } catch (err) { return m; }
+      }
+      const v = named[e.toLowerCase()];
+      return v === undefined ? m : v;
+    });
   }
 
   /** Build the verse Arabic with the matched word-block(s) highlighted (amber). */

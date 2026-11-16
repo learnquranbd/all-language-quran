@@ -63,13 +63,6 @@ class MushafView {
       }
     };
 
-    // Local fallback for NEW i18n keys not yet merged into translations.js;
-    // t() falls back to the raw key when missing, fb() substitutes these.
-    this.FB = {
-      en: { mushaf_edition: 'Mushaf edition', mushaf_warsh_note: 'Warsh riwayah — a different qiraah' },
-      bn: { mushaf_edition: 'মুসহাফ সংস্করণ', mushaf_warsh_note: 'ওয়ারশ রেওয়ায়েত — ভিন্ন কিরাআত' }
-    };
-
     // Editions that are a different qiraah/riwayah (flagged with a small note)
     this.WARSH_EDITIONS = { warsh: true, kfgqpc_warsh: true };
 
@@ -97,6 +90,9 @@ class MushafView {
     // Re-render chrome in the new language
     window.addEventListener('settingChanged', (e) => {
       if (e.detail && e.detail.key === 'language') {
+        // content-i18n re-fires 'language' after loading a content file; the
+        // mushaf chrome uses only t() strings, so skip the full rebuild then.
+        if (e.detail.contentI18n && e.detail.value === this.language) return;
         this.language = e.detail.value;
         if (this.rendered) {
           this.rendered = false;
@@ -117,11 +113,9 @@ class MushafView {
     return Math.min(Math.max(page || 1, 1), this.TOTAL_PAGES);
   }
 
-  /** Translate a (possibly new) key with a local en/bn fallback. */
+  /** Translate a key (mushaf_edition / mushaf_warsh_note now live in every pack). */
   fb(key) {
-    let s = t(key, this.language);
-    if (s === key) s = (this.FB[this.language] && this.FB[this.language][key]) || this.FB.en[key] || key;
-    return s;
+    return t(key, this.language);
   }
 
   /**
@@ -861,7 +855,10 @@ class MushafView {
     if (this.progressBar) this.progressBar.style.width = pct + '%';
     if (this.progressText) {
       this.progressText.textContent =
-        `${t('page', lang)} ${page} / ${this.TOTAL_PAGES} · ${pct}% ${t('mushaf_of_quran', lang)}`;
+        `${t('page', lang)} ${page} / ${this.TOTAL_PAGES} · ` +
+        ((typeof tFill === 'function' && t('mushaf_pct_of', lang) !== 'mushaf_pct_of')
+          ? tFill('mushaf_pct_of', lang, { pct })
+          : `${pct}% ${t('mushaf_of_quran', lang)}`);
     }
     if (this.sessionCountEl) {
       this.sessionCountEl.textContent =

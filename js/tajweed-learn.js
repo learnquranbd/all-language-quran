@@ -99,27 +99,20 @@ class TajweedLearn {
     return CI18N.tr(this.language, en, 'tajweed') || en;
   }
   lesson(k) { const l = TAJWEED_LESSONS[k] || {}; return l[this.language] || this.ci(l.en || ''); }
-  /** Rule display name in the UI language (technical Arabic terms transliterated). */
-  ruleName(k) {
-    const l = TAJWEED_LESSONS[k] || {};
-    if (l.names && l.names[this.language]) return l.names[this.language];
-    const lbl = ((typeof TAJWEED_RULES !== 'undefined' && TAJWEED_RULES[k]) || {}).label;
-    if (lbl) return lbl;
-    /* 21 lesson keys have Bengali/Arabic names but no English label anywhere, so
-     * every non-Bengali reader saw raw keys like "izhar_halqi" in the path, the
-     * rules list and the drill answers. Curated English here; a readable
-     * title-cased key is the last resort so a new key can never leak raw. */
-    const EN = {
-      lam_qamariyyah: 'Lam Qamariyyah', lam_shamsiyyah: 'Lam Shamsiyyah', hamzat_qat: 'Hamzat al-Qat\u2018', hamzat_wasl: 'Hamzat al-Wasl',
-      izhar_halqi: 'Izhar Halqi', izhar_mutlaq: 'Izhar Mutlaq', izhar_shafawi: 'Izhar Shafawi', ikhfa_shafawi: 'Ikhfa Shafawi',
-      idgham_shafawi: 'Idgham Shafawi', madd_aridh: 'Madd Aridh li-s-Sukun', madd_lin: 'Madd Lin', madd_badal: 'Madd Badal',
-      madd_iwad: 'Madd Iwad', madd_silah: 'Madd Silah', madd_farq: 'Madd Farq', madd_tamkin: 'Madd Tamkin', madd_lazim: 'Madd Lazim',
-      ghunnah_maratib: 'Levels of Ghunnah', ra_tafkhim: 'Ra Tafkhim (Heavy Ra)', ra_tarqiq: 'Ra Tarqiq (Light Ra)',
-      lafz_jalalah: 'Lafz al-Jalalah (Allah)', tafkhim_istila: 'Tafkhim of the Isti\u2018la Letters', tarqiq_lam: 'Tarqiq of Lam',
-      ha_sakt: 'Ha as-Sakt', idghaam_mutamathilayn: 'Idgham Mutamathilayn', idgham_mutajanisayn: 'Idgham Mutajanisayn',
-      idgham_mutaqaribayn: 'Idgham Mutaqaribayn', waqf_ibtida: 'Waqf and Ibtida (Stopping and Starting)', sakt: 'Sakt (Brief Pause)',
-    };
-    return EN[k] || String(k).replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+  /** Rule display name in the UI language (shared resolver in js/tajweed-data.js). */
+  ruleName(k) { return tajweedRuleName(k, this.language); }
+  /** Count in the UI language's digits (bn → Bengali, ar/fa → Arabic-Indic, …). */
+  num(n) { return Number(n).toLocaleString(this.language === 'bn' ? 'bn-BD' : (this.language || 'en')); }
+  isRtl() { return ['ar', 'ur', 'fa'].includes(this.language); }
+  /**
+   * Trigger letters of a rule as HTML. `lettersExtraKey` is a translated label:
+   * appended after the Arabic letters, or the whole value when `letters` is
+   * empty (izhar_shafawi, idghaam_mutamathilayn).
+   */
+  ruleLettersHtml(les) {
+    if (!les.lettersExtraKey) return this.esc(les.letters || '');
+    const extra = this.esc(this.tt(les.lettersExtraKey));
+    return les.letters ? `${this.esc(les.letters)} <span dir="auto">+ ${extra}</span>` : `<span dir="auto">${extra}</span>`;
   }
 
   bindOnce() {
@@ -332,19 +325,17 @@ class TajweedLearn {
     const open = this.rule === key;
     const learned = this.learned.has(key);
     const les = TAJWEED_LESSONS[key] || {};
-    const lettersHtml = les.lettersExtraKey
-      ? `${this.esc(les.letters || '')} <span dir="auto">+ ${this.esc(this.tt(les.lettersExtraKey))}</span>`
-      : this.esc(les.letters || '');
+    const lettersHtml = this.ruleLettersHtml(les);
     return `
       <div class="rounded-xl bg-white dark:bg-gray-800 border ${open ? 'border-2' : 'border-gray-200 dark:border-gray-700'} ${learned ? 'ring-2 ring-green-500/40' : ''}" ${open ? `style="border-color:${def.color}"` : ''}>
         <div class="flex items-center pe-2">
-          <button data-tj-rule="${key}" class="flex-1 min-w-0 flex items-center gap-3 px-3 py-3 text-left hover:bg-gray-50 dark:hover:bg-gray-700/40 rounded-xl">
+          <button data-tj-rule="${key}" class="flex-1 min-w-0 flex items-center gap-3 px-3 py-3 text-start hover:bg-gray-50 dark:hover:bg-gray-700/40 rounded-xl">
             <span class="shrink-0 w-4 h-4 rounded-full" style="background:${def.color}"></span>
             <span class="flex-1 min-w-0">
               <span class="block font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.ruleName(key))}</span>
               <span class="block text-gray-400 truncate ayah-arabic !text-lg !leading-normal" dir="rtl">${lettersHtml}</span>
             </span>
-            <span class="text-gray-400">${open ? '▾' : '▸'}</span>
+            <span class="text-gray-400">${open ? '▾' : (this.isRtl() ? '◂' : '▸')}</span>
           </button>
           <button data-tj-learned="${key}" title="${this.tt('tj_mark_learned')}"
                   class="shrink-0 w-7 h-7 rounded-full text-sm leading-none ${learned
@@ -410,14 +401,14 @@ class TajweedLearn {
           <div class="flex items-center gap-2 mb-1">
             <button data-ayah-ref="${surah}:${r.a}" title="${this.tt('tj_open_verse')}"
                     class="text-xs font-mono text-gray-400 hover:text-primary underline decoration-dotted underline-offset-2">${surah}:${r.a} ⓘ</button>
-            <span class="text-xs px-1.5 rounded-full" style="background:${color}22;color:${color}">×${r.n}</span>
+            <span class="text-xs px-1.5 rounded-full" style="background:${color}22;color:${color}">×${this.num(r.n)}</span>
             <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(surah)}${pad(r.a)}.mp3" title="${this.tt('play')}" aria-label="${this.tt('play')}" class="ms-auto text-xs px-2.5 py-1 rounded-md bg-primary text-white hover:bg-primary/80">🔊</button>
           </div>
           <div class="ayah-arabic !text-2xl !leading-[2.4]" dir="rtl">${r.html}</div>
         </div>`).join('')
         + (remaining > 0 ? `
         <button data-tj-more class="w-full text-center text-sm py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
-          ${this.tt('topics_show_more')} (+${remaining})
+          ${this.tt('topics_show_more')} (+${this.num(remaining)})
         </button>` : '');
     } catch (e) {
       if (req !== this._exReq) return;
@@ -448,7 +439,7 @@ class TajweedLearn {
           <p class="text-gray-500 dark:text-gray-400 text-sm">${this.tt('tj_learn_subtitle')}</p>
           <div class="max-w-md mx-auto mt-3">
             <div class="flex justify-between text-xs font-medium text-green-600 dark:text-green-400 mb-1">
-              <span>✓ ${learnedCount} / ${keys.length} ${this.tt('tj_learned')}</span><span>${pct}%</span>
+              <span>✓ ${this.esc(tFill('tj_learned_of', this.language, { n: this.num(learnedCount), total: this.num(keys.length) }))}</span><span>${this.num(pct)}%</span>
             </div>
             <div class="h-2 rounded-full bg-gray-200 dark:bg-gray-700 overflow-hidden">
               <div class="h-full rounded-full bg-green-500 transition-all duration-500" style="width:${pct}%"></div>
@@ -516,7 +507,7 @@ class TajweedLearn {
           <div class="flex items-center gap-2 mb-1.5">
             <span>${complete ? '✅' : unlocked ? stage.emoji : '🔒'}</span>
             <span class="font-semibold text-sm flex-1">${this.tt(stage.labelKey, stage.fallback)}</span>
-            <span class="text-xs text-gray-400">${done}/${total}</span>
+            <span class="text-xs text-gray-400">${this.num(done)}/${this.num(total)}</span>
           </div>
           <div class="h-1.5 rounded-full bg-gray-200 dark:bg-gray-700 overflow-hidden mb-2">
             <div class="h-full rounded-full ${complete ? 'bg-green-500' : 'bg-primary'} transition-all duration-500" style="width:${pct}%"></div>
@@ -796,7 +787,7 @@ class TajweedLearn {
           <span class="text-[11px] text-gray-500 dark:text-gray-400 leading-tight line-clamp-2" dir="auto">${this.esc(this.lpGlossOf(r))}</span>
         </button>
         <button data-lp-occw="${this.esc(w)}" data-lp-occr="${r}" data-lp-occk="${k}" title="${occTitle}" aria-label="${occTitle}"
-          class="absolute top-1 end-1 text-[11px] font-medium px-1.5 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${n}</button>
+          class="absolute top-1 end-1 text-[11px] font-medium px-1.5 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${this.num(n)}</button>
       </div>`;
     const blocks = groups.map(([x, y, items]) => `
       <div class="mb-3">
@@ -824,7 +815,7 @@ class TajweedLearn {
           <span class="text-[10px] text-gray-500 dark:text-gray-400 leading-tight line-clamp-1" dir="auto">${this.esc(this.lpGlossOf(r))}</span>
         </button>
         <button data-lp-occw="${this.esc(w)}" data-lp-occr="${r}" data-lp-occk="${key}" data-lp-occx title="${occTitle}" aria-label="${occTitle}"
-          class="absolute top-1 end-1 text-[10px] font-medium px-1 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${n}</button>
+          class="absolute top-1 end-1 text-[10px] font-medium px-1 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${this.num(n)}</button>
       </div>`;
   }
 
@@ -973,7 +964,7 @@ class TajweedLearn {
   lpRuleHead(r) {
     return `
       <div class="flex flex-wrap items-start gap-2 mb-2">
-        <button data-tj-path="${r}" class="shrink-0 text-xs font-semibold px-2.5 py-1 rounded-full text-white hover:opacity-80" style="background:${this.lpRuleColor(r)}">${this.esc(this.ruleName(r))} ›</button>
+        <button data-tj-path="${r}" class="shrink-0 text-xs font-semibold px-2.5 py-1 rounded-full text-white hover:opacity-80" style="background:${this.lpRuleColor(r)}">${this.esc(this.ruleName(r))} ${this.isRtl() ? '‹' : '›'}</button>
         <span class="flex-1 min-w-[12rem] text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.lesson(r))}</span>
       </div>`;
   }
@@ -1049,7 +1040,7 @@ class TajweedLearn {
           ${nav('prev', '‹', this.tt('tj_rc_prev', 'Previous word'))}
           <div class="text-center min-w-[8rem]">
             <span class="block ayah-arabic !text-4xl !leading-[1.9]" dir="rtl">${this.lpHighlight(w.w, key, '#7C3AED')}</span>
-            <span class="block text-xs text-gray-500 dark:text-gray-400" dir="auto">${this.esc(this.lpGlossOf(w.r))} · ${(R.idx % words.length) + 1}/${words.length}</span>
+            <span class="block text-xs text-gray-500 dark:text-gray-400" dir="auto">${(g => g ? this.esc(g) + ' · ' : '')(this.lpGlossOf(w.r))}${this.num((R.idx % words.length) + 1)}/${this.num(words.length)}</span>
           </div>
           ${nav('next', '›', this.tt('tj_rc_next', 'Next word'))}
         </div>
@@ -1178,7 +1169,7 @@ class TajweedLearn {
         .grid{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;direction:rtl}
         .w{border:1px solid #ccc;border-radius:6px;padding:2px 4px;text-align:center;position:relative;break-inside:avoid}
         .w .ar{display:block;font-size:22px;line-height:1.9}
-        .w small{display:block;font-size:9px;color:#555;direction:ltr;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+        .w small{display:block;font-size:9px;color:#555;unicode-bidi:plaintext;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
         .w i{position:absolute;top:1px;left:4px;font-size:8px;color:#888;font-style:normal}
         .a{break-inside:avoid;border-bottom:1px solid #eee;padding:2px 0}
         .a .ref{font-size:10px;color:#666;font-family:monospace}
@@ -1553,7 +1544,7 @@ class TajweedLearn {
         <div class="flex items-center gap-2 rounded-lg bg-gray-50 dark:bg-gray-900/40 px-2.5 py-2">
           <span class="w-3.5 h-3.5 rounded-full shrink-0" style="background:${def.color}"></span>
           <span class="flex-1 min-w-0 text-xs font-medium text-gray-700 dark:text-gray-200 truncate" dir="auto">${this.esc(this.ruleName(k))}</span>
-          <span class="ayah-arabic !text-base !leading-none text-gray-400 shrink-0 max-w-[8rem] truncate" dir="rtl">${this.esc(les.letters || '')}</span>
+          <span class="ayah-arabic !text-base !leading-none text-gray-400 shrink-0 max-w-[8rem] truncate" dir="rtl">${this.ruleLettersHtml(les)}</span>
         </div>`;
     }).join('');
     const decisionCard = (title, rows) => `
@@ -1684,7 +1675,7 @@ class TajweedLearn {
       <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${this.tt('tj_drill_intro', 'Read the highlighted letters in a real verse and pick the tajweed rule that applies.')}</p>`;
     const startBtn = `<button data-tj-drill-start class="px-5 py-2.5 rounded-lg bg-primary text-white text-sm font-medium hover:bg-primary/80">▶ ${this.tt('tj_drill_start', 'Start drill')}</button>`;
     const bestBadge = this.drillBest ? `
-      <p class="text-xs text-amber-600 dark:text-amber-400 mt-2">🏅 ${this.tt('tj_drill_best', 'Best')}: ${this.drillBest.score} / ${this.drillBest.total}</p>` : '';
+      <p class="text-xs text-amber-600 dark:text-amber-400 mt-2">🏅 ${this.esc(tFill('tj_drill_best_of', this.language, { score: this.num(this.drillBest.score), total: this.num(this.drillBest.total) }))}</p>` : '';
     if (!d) return `
       <div class="max-w-xl mx-auto rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-6 text-center">
         ${head}
@@ -1705,8 +1696,8 @@ class TajweedLearn {
       return `
         <div class="max-w-xl mx-auto rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-6 text-center">
           <div class="text-4xl mb-2">${scorePct === 1 ? '🏆' : scorePct >= 0.5 ? '🎉' : '💪'}</div>
-          <p class="font-semibold text-gray-800 dark:text-gray-100 mb-1">${this.esc(this.tt('quiz_your_score').replace('{score}', d.score).replace('{total}', d.questions.length))}</p>
-          ${bestBadge ? `<p class="text-xs text-amber-600 dark:text-amber-400 mb-4">🏅 ${this.tt('tj_drill_best', 'Best')}: ${this.drillBest.score} / ${this.drillBest.total}</p>` : '<div class="mb-4"></div>'}
+          <p class="font-semibold text-gray-800 dark:text-gray-100 mb-1">${this.esc(this.tt('quiz_your_score').replace('{score}', this.num(d.score)).replace('{total}', this.num(d.questions.length)))}</p>
+          ${bestBadge ? `<p class="text-xs text-amber-600 dark:text-amber-400 mb-4">🏅 ${this.esc(tFill('tj_drill_best_of', this.language, { score: this.num(this.drillBest.score), total: this.num(this.drillBest.total) }))}</p>` : '<div class="mb-4"></div>'}
           <div class="flex flex-wrap justify-center gap-2">
             <button data-tj-drill-start class="px-5 py-2.5 rounded-lg bg-primary text-white text-sm font-medium hover:bg-primary/80">🔄 ${this.tt('retry')}</button>
             <button data-tj-quiz class="px-5 py-2.5 rounded-lg border border-gray-300 dark:border-gray-600 text-sm hover:bg-gray-100 dark:hover:bg-gray-700">❓ ${this.tt('tj_practice_quiz')}</button>
@@ -1719,8 +1710,8 @@ class TajweedLearn {
     return `
       <div class="max-w-2xl mx-auto rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-5">
         <div class="flex items-center justify-between text-xs text-gray-400 mb-3">
-          <span>${d.idx + 1} / ${d.questions.length}</span>
-          <span>${this.tt('quiz_score')}: ${d.score}</span>
+          <span>${this.num(d.idx + 1)} / ${this.num(d.questions.length)}</span>
+          <span>${this.tt('quiz_score')}: ${this.num(d.score)}</span>
         </div>
         <p class="text-sm font-medium text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.tt('quiz_which_rule')}</p>
         <div class="rounded-lg bg-gray-50 dark:bg-gray-900/40 p-4 mb-2">

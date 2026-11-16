@@ -135,6 +135,7 @@
    * @param opts.esc    escaper: (string) -> string       (the module's own)
    * @param opts.title  heading for the panel
    * @param opts.onLoad called once the file arrives, so the caller can repaint
+   * @param opts.lang   UI language for the reading-time chip (default: appSettings)
    */
   function html(module, id, opts) {
     const o = opts || {};
@@ -174,18 +175,41 @@
     }).join('');
     if (!sections) return '';
 
-    const words = entry.sections.reduce((n, s) => n
-      + (Array.isArray(s.p) ? s.p : []).reduce((m, p) => m + String(lc(p) || '').split(/\s+/).filter(Boolean).length, 0), 0);
-    const mins = Math.max(1, Math.round(words / 180));
+    /* Reading time comes from the English source, whatever language is shown:
+     * ja/zh text has no spaces, so a whitespace word count there always gave
+     * "1 min". The count is the same for every reader, so it is cached. */
+    if (!entry.__lqMins) {
+      const words = entry.sections.reduce((n, s) => n
+        + (Array.isArray(s.p) ? s.p : []).reduce((m, p) => {
+          const src = (p && typeof p === 'object' && p.en) ? p.en : lc(p);
+          return m + String(src || '').split(/\s+/).filter(Boolean).length;
+        }, 0), 0);
+      try {
+        Object.defineProperty(entry, '__lqMins', { value: Math.max(1, Math.round(words / 180)), configurable: true });
+      } catch (e) { entry.__lqMins = Math.max(1, Math.round(words / 180)); }
+    }
+    const mins = entry.__lqMins;
+    const lang = o.lang || ((typeof appSettings !== 'undefined' && appSettings && appSettings.get('language')) || 'en');
+    let minsDigits = String(mins);
+    try { minsDigits = Number(mins).toLocaleString(lang === 'bn' ? 'bn-BD' : lang); } catch (e) { /* keep ASCII */ }
+    const minsText = typeof tPlural === 'function'
+      ? tPlural('article_minutes', mins, lang, { n: minsDigits })
+      : mins + ' min';
+
+    /* Tadabbur and Seerah-conduct articles exist only in English and Bengali; say so instead of
+     * silently showing English to readers of the other 13 languages. */
+    const EN_BN_ONLY = { tadabbur: 1, conduct: 1 };
+    const enOnly = (EN_BN_ONLY[module] && lang !== 'en' && lang !== 'bn' && typeof t === 'function')
+      ? `<p class="mb-3 text-xs text-amber-700 dark:text-amber-300" dir="auto">${esc(t('article_en_only', lang))}</p>` : '';
 
     return `
       <details class="mb-4 rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800/50 overflow-hidden" data-article${o.open === false ? '' : ' open'}>
         <summary class="cursor-pointer select-none px-4 py-3 flex items-center gap-2 text-sm font-bold text-gray-700 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-800">
           <span aria-hidden="true">📜</span>
           <span dir="auto">${esc(o.title || 'Full article')}</span>
-          <span class="ms-auto text-[0.7rem] font-normal text-gray-400 dark:text-gray-500">${mins} min</span>
+          <bdi class="ms-auto text-[0.7rem] font-normal text-gray-400 dark:text-gray-500">${esc(minsText)}</bdi>
         </summary>
-        <div class="px-4 pb-4 pt-1">${sections}</div>
+        <div class="px-4 pb-4 pt-1">${enOnly}${sections}</div>
       </details>`;
   }
 

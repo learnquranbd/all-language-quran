@@ -41,6 +41,23 @@ class ZakatModule {
     return d.innerHTML;
   }
 
+  /* Verse chip label. en and bn keep "2:183 Read"; other languages use the
+   * imperative open_verse key, because the shared 'Read' string translates as
+   * "already read" in many packs (de "Gelesen", ar "مقروء"). ref is HTML-safe. */
+  readLbl(ref) {
+    const lang = this.language;
+    if (lang && lang !== 'en' && lang !== 'bn' && typeof t === 'function') {
+      return this.esc(t('open_verse', lang)) + (ref ? ' ' + ref : '');
+    }
+    return (ref ? ref + ' ' : '') + (lang === 'bn' ? 'পড়ুন' : 'Read');
+  }
+
+  /** Money amount with two decimals in the reader's locale (digits and separators). */
+  fmtAmount(n) {
+    try { return n.toLocaleString(this.language || 'en', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+    catch (_) { return n.toFixed(2); }
+  }
+
   render() {
     this.rendered = true;
     const L = (o) => this.lc(o);
@@ -61,15 +78,15 @@ class ZakatModule {
           <div class="space-y-3">
             <div class="p-3 rounded-xl bg-teal-50 dark:bg-teal-900/20 border border-teal-100 dark:border-teal-900/40">
               <p class="text-sm text-teal-800 dark:text-teal-200 leading-relaxed" dir="auto">${L({ en: '"And establish prayer and give zakah, and bow with those who bow [in worship].', bn: '"আর তোমরা সালাত কায়েম কর, যাকাত দাও এবং রুকুকারীদের সাথে রুকু কর।"' })}</p>
-              <button type="button" data-zakat-ayah="2:43" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-teal-500/10 text-teal-700 dark:text-teal-300 text-xs font-medium hover:bg-teal-500 hover:text-white transition-colors">📖 2:43 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+              <button type="button" data-zakat-ayah="2:43" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-teal-500/10 text-teal-700 dark:text-teal-300 text-xs font-medium hover:bg-teal-500 hover:text-white transition-colors">📖 ${this.readLbl('2:43')}</button>
             </div>
             <div class="p-3 rounded-xl bg-teal-50 dark:bg-teal-900/20 border border-teal-100 dark:border-teal-900/40">
               <p class="text-sm text-teal-800 dark:text-teal-200 leading-relaxed" dir="auto">${L({ en: '"Zakah expenditures are only for the poor and the needy, and for those employed to collect [zakah], and for bringing hearts together [for Islam], and for freeing captives [or slaves], and for those in debt, and for the cause of Allah, and for the [stranded] traveler — an obligation [imposed] by Allah."', bn: '"যাকাত কেবল ফকীর, মিসকীন, যাকাত আদায়কারী, নব মুসলিমের হৃদয় জয়, দাসমুক্তি, ঋণগ্রস্ত, আল্লাহর পথে এবং মুসাফিরদের জন্য — আল্লাহর পক্ষ থেকে ফরয।"' })}</p>
-              <button type="button" data-zakat-ayah="9:60" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-teal-500/10 text-teal-700 dark:text-teal-300 text-xs font-medium hover:bg-teal-500 hover:text-white transition-colors">📖 9:60 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+              <button type="button" data-zakat-ayah="9:60" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-teal-500/10 text-teal-700 dark:text-teal-300 text-xs font-medium hover:bg-teal-500 hover:text-white transition-colors">📖 ${this.readLbl('9:60')}</button>
             </div>
             <div class="p-3 rounded-xl bg-teal-50 dark:bg-teal-900/20 border border-teal-100 dark:border-teal-900/40">
               <p class="text-sm text-teal-800 dark:text-teal-200 leading-relaxed" dir="auto">${L({ en: '"Take, [O Muhammad], from their wealth a charity by which you purify them and cause them to increase, and invoke [Allah\'s blessings] upon them."', bn: '"হে নবী! তাদের সম্পদ থেকে সদকা গ্রহণ করুন, যা দ্বারা আপনি তাদের পবিত্র করবেন ও পরিশুদ্ধ করবেন এবং তাদের জন্য দোয়া করুন।"' })}</p>
-              <button type="button" data-zakat-ayah="9:103" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-teal-500/10 text-teal-700 dark:text-teal-300 text-xs font-medium hover:bg-teal-500 hover:text-white transition-colors">📖 9:103 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+              <button type="button" data-zakat-ayah="9:103" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-teal-500/10 text-teal-700 dark:text-teal-300 text-xs font-medium hover:bg-teal-500 hover:text-white transition-colors">📖 ${this.readLbl('9:103')}</button>
             </div>
           </div>
         </div>
@@ -257,7 +274,7 @@ class ZakatModule {
             <button type="button" id="zakat-calc-btn" class="w-full px-4 py-2.5 rounded-lg bg-teal-600 hover:bg-teal-700 text-white font-medium text-sm transition-colors">${L({ en: 'Calculate Zakat', bn: 'যাকাত গণনা করুন' })}</button>
             <div id="zakat-result" class="p-3 rounded-xl bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700 text-center hidden">
               <div class="text-sm text-gray-500 dark:text-gray-400">${L({ en: 'Your estimated zakat:', bn: 'আপনার আনুমানিক যাকাত:' })}</div>
-              <div class="text-2xl font-bold text-teal-600 dark:text-teal-400" id="zakat-amount">0.00</div>
+              <div class="text-2xl font-bold text-teal-600 dark:text-teal-400" id="zakat-amount">${this.fmtAmount(0)}</div>
             </div>
           </div>
         </div>
@@ -482,10 +499,10 @@ class ZakatModule {
             <table class="w-full text-xs border-collapse">
               <thead>
                 <tr class="bg-teal-100 dark:bg-teal-900/40">
-                  <th class="text-left p-2 font-semibold text-teal-800 dark:text-teal-200 border border-teal-200 dark:border-teal-800/60">${L({ en: 'Aspect', bn: 'দিক' })}</th>
-                  <th class="text-left p-2 font-semibold text-teal-800 dark:text-teal-200 border border-teal-200 dark:border-teal-800/60">${L({ en: 'Zakat', bn: 'যাকাত' })}</th>
-                  <th class="text-left p-2 font-semibold text-teal-800 dark:text-teal-200 border border-teal-200 dark:border-teal-800/60">${L({ en: 'Sadaqah Jariyah', bn: 'সাদাকাহ জারিয়াহ' })}</th>
-                  <th class="text-left p-2 font-semibold text-teal-800 dark:text-teal-200 border border-teal-200 dark:border-teal-800/60">${L({ en: 'Sadaqah', bn: 'সাদাকাহ' })}</th>
+                  <th class="text-start p-2 font-semibold text-teal-800 dark:text-teal-200 border border-teal-200 dark:border-teal-800/60">${L({ en: 'Aspect', bn: 'দিক' })}</th>
+                  <th class="text-start p-2 font-semibold text-teal-800 dark:text-teal-200 border border-teal-200 dark:border-teal-800/60">${L({ en: 'Zakat', bn: 'যাকাত' })}</th>
+                  <th class="text-start p-2 font-semibold text-teal-800 dark:text-teal-200 border border-teal-200 dark:border-teal-800/60">${L({ en: 'Sadaqah Jariyah', bn: 'সাদাকাহ জারিয়াহ' })}</th>
+                  <th class="text-start p-2 font-semibold text-teal-800 dark:text-teal-200 border border-teal-200 dark:border-teal-800/60">${L({ en: 'Sadaqah', bn: 'সাদাকাহ' })}</th>
                 </tr>
               </thead>
               <tbody>
@@ -665,7 +682,7 @@ class ZakatModule {
          * the calculator used to charge 2.5% on any amount at all. */
         const due = nisab > 0 && total < nisab;
         const zakat = due ? 0 : total * 0.025;
-        calcAmount.textContent = zakat.toFixed(2);
+        calcAmount.textContent = this.fmtAmount(zakat);
         let note = calcResult.querySelector('[data-zakat-note]');
         if (!note) { note = document.createElement('p'); note.setAttribute('data-zakat-note', ''); note.className = 'text-xs text-gray-500 dark:text-gray-400 mt-1'; note.setAttribute('dir', 'auto'); calcResult.appendChild(note); }
         note.textContent = due

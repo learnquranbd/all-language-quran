@@ -2066,14 +2066,6 @@ const SEERAH_UI = {
   seerah_resources_video: { en: 'Video Series', bn: 'ভিডিও সিরিজ', zh: '视频系列', ja: 'ビデオシリーズ' },
   seerah_resources_podcast: { en: 'Podcast', bn: 'পডকাস্ট', zh: '播客', ja: 'ポッドキャスト' },
   seerah_resources_by: { en: 'by', bn: 'লেখক', zh: '作者', ja: '著者' },
-  seerah_view_conduct: { en: 'As He Was', bn: 'যেমন ছিলেন তিনি' },
-  seerah_conduct_title: { en: 'As He Was: his conduct with every kind of person', bn: 'যেমন ছিলেন তিনি: সব ধরনের মানুষের সাথে তাঁর আচরণ' },
-  seerah_conduct_intro: { en: 'How the Prophet ﷺ treated the elderly, children, the poor, the rich, his family, strangers and even his enemies, drawn from confirmed hadith. Tap any category to read.', bn: 'বয়স্ক, শিশু, গরিব, ধনী, পরিবার, অপরিচিত, এমনকি শত্রুদের সাথেও নবী ﷺ কেমন আচরণ করতেন, যাচাই করা হাদিস থেকে। পড়তে যেকোনো বিষয়ে ট্যাপ করুন।' },
-  seerah_conduct_g_family: { en: 'His Family', bn: 'তাঁর পরিবার' },
-  seerah_conduct_g_vulnerable: { en: 'The Vulnerable', bn: 'অসহায় ও দুর্বল' },
-  seerah_conduct_g_society: { en: 'Society', bn: 'সমাজ' },
-  seerah_conduct_g_faith: { en: 'Faith and Opposition', bn: 'ঈমান ও বিরোধিতা' },
-  seerah_conduct_g_creation: { en: 'All Creation', bn: 'সমগ্র সৃষ্টি' },
 };
 
 /**

@@ -41,6 +41,17 @@ class HajjModule {
     return d.innerHTML;
   }
 
+  /* Verse chip label. en and bn keep "2:183 Read"; other languages use the
+   * imperative open_verse key, because the shared 'Read' string translates as
+   * "already read" in many packs (de "Gelesen", ar "مقروء"). ref is HTML-safe. */
+  readLbl(ref) {
+    const lang = this.language;
+    if (lang && lang !== 'en' && lang !== 'bn' && typeof t === 'function') {
+      return this.esc(t('open_verse', lang)) + (ref ? ' ' + ref : '');
+    }
+    return (ref ? ref + ' ' : '') + (lang === 'bn' ? 'পড়ুন' : 'Read');
+  }
+
   render() {
     this.rendered = true;
     const L = (o) => this.lc(o);
@@ -78,15 +89,15 @@ class HajjModule {
           <div class="space-y-3">
             <div class="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40">
               <p class="text-sm text-emerald-800 dark:text-emerald-200 leading-relaxed" dir="auto">${L({ en: '"Indeed, the first House [of worship] established for mankind was that at Bakkah [Makkah] — blessed and a guidance for the worlds. In it are clear signs [such as] the standing place of Abraham. And whoever enters it shall be safe. And [due] to Allah from the people is a pilgrimage to the House — for whoever is able to find a way there."', bn: '"নিশ্চয়ই প্রথম ঘর যা মানুষের জন্য প্রতিষ্ঠিত হয়েছে তা হলো বাক্কায় (মক্কা) — বরকতময় ও সারা বিশ্বের জন্য হিদায়াত। সেখানে রয়েছে সুস্পষ্ট নিদর্শনসমূহ, মাকামে ইবরাহীম। আর যে তাতে প্রবেশ করে সে নিরাপদ। আর মানুষের উপর আল্লাহর জন্য এই ঘরের হজ করা ফরয, যে সেখানে পৌঁছার সামর্থ্য রাখে।"' })}</p>
-              <button type="button" data-hajj-ayah="3:96-97" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 3:96-97 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+              <button type="button" data-hajj-ayah="3:96-97" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 ${this.readLbl('3:96-97')}</button>
             </div>
             <div class="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40">
               <p class="text-sm text-emerald-800 dark:text-emerald-200 leading-relaxed" dir="auto">${L({ en: '"And complete the Hajj and Umrah for Allah."', bn: '"আর তোমরা আল্লাহর জন্য হজ ও উমরা পূর্ণ কর।"' })}</p>
-              <button type="button" data-hajj-ayah="2:196" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 2:196 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+              <button type="button" data-hajj-ayah="2:196" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 ${this.readLbl('2:196')}</button>
             </div>
             <div class="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40">
               <p class="text-sm text-emerald-800 dark:text-emerald-200 leading-relaxed" dir="auto">${L({ en: '"Hajj is [during] well-known months. So whoever has made Hajj obligatory upon himself therein, there is [to be for him] no sexual relations and no disobedience and no disputing during Hajj."', bn: '"হজ নির্ধারিত মাসসমূহে। অতএব যে তাতে হজ ফরয করে নেয়, তার জন্য হজে স্ত্রীসঙ্গম, পাপকার্য ও ঝগড়া-বিবাদ বৈধ নয়।"' })}</p>
-              <button type="button" data-hajj-ayah="2:197" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 2:197 ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+              <button type="button" data-hajj-ayah="2:197" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 ${this.readLbl('2:197')}</button>
             </div>
           </div>
         </div>
@@ -424,9 +435,9 @@ class HajjModule {
             <table class="w-full text-xs border-collapse">
               <thead>
                 <tr>
-                  <th class="p-2.5 border border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-700 text-left font-semibold text-gray-700 dark:text-gray-200" dir="auto">${L({ en: 'Aspect', bn: 'বিষয়' })}</th>
-                  <th class="p-2.5 border border-gray-200 dark:border-gray-600 bg-emerald-50 dark:bg-emerald-900/30 text-left font-semibold text-emerald-700 dark:text-emerald-300">🕋 ${L({ en: 'Hajj', bn: 'হজ' })}</th>
-                  <th class="p-2.5 border border-gray-200 dark:border-gray-600 bg-sky-50 dark:bg-sky-900/30 text-left font-semibold text-sky-700 dark:text-sky-300">🌙 ${L({ en: 'Umrah', bn: 'উমরা' })}</th>
+                  <th class="p-2.5 border border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-700 text-start font-semibold text-gray-700 dark:text-gray-200" dir="auto">${L({ en: 'Aspect', bn: 'বিষয়' })}</th>
+                  <th class="p-2.5 border border-gray-200 dark:border-gray-600 bg-emerald-50 dark:bg-emerald-900/30 text-start font-semibold text-emerald-700 dark:text-emerald-300">🕋 ${L({ en: 'Hajj', bn: 'হজ' })}</th>
+                  <th class="p-2.5 border border-gray-200 dark:border-gray-600 bg-sky-50 dark:bg-sky-900/30 text-start font-semibold text-sky-700 dark:text-sky-300">🌙 ${L({ en: 'Umrah', bn: 'উমরা' })}</th>
                 </tr>
               </thead>
               <tbody>

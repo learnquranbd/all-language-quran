@@ -46,6 +46,18 @@ class HopeView {
     });
     window.addEventListener('settingChanged', (e) => {
       if (e && e.detail && e.detail.key === 'language') {
+        if (e.detail.contentI18n) {
+          /* A content-i18n pack finished loading. Its value is the language
+           * the pack was fetched for, which may be a previous one, so read the
+           * current language from appSettings and only repaint: the verse
+           * translation dictionary has not changed. */
+          let cur = e.detail.value || 'en';
+          try { if (typeof appSettings !== 'undefined' && appSettings) cur = appSettings.get('language') || cur; } catch (_) { /* ignore */ }
+          if (e.detail.value !== cur) return;
+          this.language = cur;
+          if (this.loaded) this.render();
+          return;
+        }
         this.language = e.detail.value || 'en';
         if (this.loaded) this.reloadTranslations();
       }
@@ -92,6 +104,24 @@ class HopeView {
 
   surahName(n) {
     return (typeof getSurahName === 'function') ? getSurahName(parseInt(n, 10), this.language) : String(n);
+  }
+
+  /** "{n} verses" / "{n} hadith" from a count template (plural forms where the
+   *  pack has them); the old "n · heading" form only if the helpers are absent. */
+  countLabel(key, n, fallbackKey) {
+    if (typeof tPlural === 'function') return tPlural(key, n, this.language);
+    return `${n} · ${this.tt(fallbackKey)}`;
+  }
+
+  /** Names-panel citation. Some src values add an English prose clause after
+   *  " — " (as-Sittīr: "… — from the Sunnah, not a Qur’anic name"). The card
+   *  already says that through hope_from_sunnah_only, so outside English show
+   *  the bare citation only. */
+  nameSrc(src) {
+    const s = String(src || '');
+    if (this.language === 'en') return s;
+    const i = s.indexOf(' — ');
+    return i > 0 ? s.slice(0, i) : s;
   }
 
   esc(s) {
@@ -177,7 +207,8 @@ class HopeView {
         this.loadTranslations(this.language),
       ]);
       this.words = wd;
-      this.tr = tr || await this.loadTranslations('en');
+      // Arabic readers get no translation line (same rule as reloadTranslations).
+      this.tr = tr || (this.language === 'ar' ? null : await this.loadTranslations('en'));
     } catch (e) {
       this.container.innerHTML = `<div class="text-center py-16 text-red-500">${this.esc(this.tt('error'))}</div>`;
       return;
@@ -338,7 +369,7 @@ class HopeView {
         <p class="text-sm font-semibold text-gray-800 dark:text-gray-100 mt-1">${this.esc(n.translit)}</p>
         <p class="text-xs text-gray-500 dark:text-gray-400" dir="auto">${this.esc(this.lc(n.meaning))}</p>
         <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed mt-1.5" dir="auto">${this.esc(this.lc(n.note))}</p>
-        ${n.src ? `<p class="text-[10px] text-gray-400 mt-1">${this.esc(n.src)}</p>` : ''}
+        ${n.src ? `<p class="text-[10px] text-gray-400 mt-1">${this.esc(this.nameSrc(n.src))}</p>` : ''}
       </li>`).join('');
     return `
       <details class="rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 overflow-hidden">
@@ -394,7 +425,7 @@ class HopeView {
         </div>
         <h3 class="text-sm font-bold text-gray-800 dark:text-gray-100 mb-1" dir="auto">${this.esc(this.lc(ch.title))}</h3>
         <p class="text-xs text-gray-500 dark:text-gray-400 leading-relaxed" dir="auto">${this.esc(this.lc(ch.tagline))}</p>
-        <p class="mt-2 text-[11px] text-gray-400 dark:text-gray-500">${ch.verses.length} · ${this.esc(this.tt('hope_verses_label'))} &nbsp;·&nbsp; ${ch.hadith.length} · ${this.esc(this.tt('hope_hadith_label'))}</p>
+        <p class="mt-2 text-[11px] text-gray-400 dark:text-gray-500">${this.esc(this.countLabel('n_verses', ch.verses.length, 'hope_verses_label'))} &nbsp;·&nbsp; ${this.esc(this.countLabel('th_hadith_n', ch.hadith.length, 'hope_hadith_label'))}</p>
       </button>`;
   }
 
@@ -465,7 +496,7 @@ class HopeView {
       <div class="space-y-5">
         <button data-hope-back
           class="inline-flex items-center gap-1.5 text-sm font-medium text-primary dark:text-sky-300 hover:underline">
-          <span aria-hidden="true">←</span> ${this.esc(this.tt('hope_back'))}
+          <span aria-hidden="true">${(typeof isRTL === 'function' && isRTL(this.language)) ? '→' : '←'}</span> ${this.esc(this.tt('hope_back'))}
         </button>
 
         <div class="rounded-2xl border border-gray-200 dark:border-gray-700 bg-gradient-to-br from-gray-50 to-white dark:from-gray-800 dark:to-gray-800 p-5">

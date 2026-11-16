@@ -45,7 +45,11 @@ class SeerahView {
     window.addEventListener('settingChanged', (e) => {
       try {
         if (e && e.detail && e.detail.key === 'language') {
-          this.language = e.detail.value || 'en';
+          // content-i18n re-dispatches with the language of the file that just
+          // loaded; a slow file for a previous language must not win.
+          let lang = e.detail.value;
+          if (e.detail.contentI18n && typeof appSettings !== 'undefined' && appSettings) lang = appSettings.get('language') || lang;
+          this.language = lang || 'en';
           if (this.rendered) this.render();
         }
       } catch (_) { /* ignore */ }
@@ -156,6 +160,36 @@ class SeerahView {
   }
   pick(item, field) {
     return this.lc({ en: item[field + 'En'], bn: item[field + 'Bn'] });
+  }
+  /** A number in the reader's locale digits (Intl), plain digits if unavailable. */
+  num(n) {
+    try { return new Intl.NumberFormat(this.language, { useGrouping: false }).format(n); } catch (_) { return String(n); }
+  }
+  /** "c. 570–574 CE" / "1–2 AH" -> year_ce / year_ah (wrapped in year_circa)
+   *  with localised digits. en keeps the source text; anything that does not
+   *  parse ("before c. 545 CE", "Pre-Hijra") goes through lc(). */
+  fmtYear(s) {
+    if (!s) return '';
+    if (this.language === 'en') return s;
+    const m = /^(c\.\s*)?(\d+)(?:\s*[–-]\s*(\d+))?\s+(CE|AH)$/.exec(String(s).trim());
+    if (!m || typeof tFill !== 'function') return this.lc({ en: s });
+    const y = this.num(+m[2]) + (m[3] ? '–' + this.num(+m[3]) : '');
+    let out = tFill(m[4] === 'CE' ? 'year_ce' : 'year_ah', this.language, { y });
+    if (m[1]) out = tFill('year_circa', this.language, { y: out });
+    return out;
+  }
+  yearLine(ev) {
+    return [ev.yearCE, ev.yearAH].filter(Boolean).map(y => this.fmtYear(y)).join(' · ');
+  }
+  /** "~450 km" -> localised unit and digits (Intl), source text if unsupported. */
+  fmtKm(s) {
+    const m = /^(~\s*)?(\d+)\s*km$/.exec(String(s || '').trim());
+    if (!m || this.language === 'en') return s;
+    try { return (m[1] ? '~' : '') + new Intl.NumberFormat(this.language, { style: 'unit', unit: 'kilometer', useGrouping: false }).format(+m[2]); } catch (_) { return s; }
+  }
+  /** Verse refs are "S:A" strings; tolerate {surah, ayah} objects too. */
+  verseRef(v) {
+    return (v && typeof v === 'object') ? (v.surah && v.ayah ? v.surah + ':' + v.ayah : '') : String(v || '');
   }
 
   loadRead() {
@@ -321,11 +355,11 @@ class SeerahView {
       quba: this.lc({ en: 'Quba', bn: 'কুবা' }),
       medina: this.lc({ en: 'Medina', bn: 'মদিনা' }),
       sea: this.lc({ en: 'Red Sea', bn: 'লোহিত সাগর' }),
-      dist: '~450 km',
+      dist: this.fmtKm('~450 km'),
     };
     const G = '#16a34a';
     const svg = `
-      <svg viewBox="0 0 320 200" width="100%" style="max-width:340px;height:auto;display:block;margin:0 auto" role="img" aria-label="Abstract Hijra route map">
+      <svg viewBox="0 0 320 200" width="100%" style="max-width:340px;height:auto;display:block;margin:0 auto" role="img" aria-label="${this.esc(this.tt('seerah_hijra_map'))}">
         <rect x="0" y="0" width="320" height="200" rx="8" fill="currentColor" opacity="0.04"/>
         <path d="M28 200 C 20 150, 30 90, 18 40 L 0 30 L 0 200 Z" fill="currentColor" opacity="0.08"/>
         <path d="M28 200 C 20 150, 30 90, 18 40" fill="none" stroke="currentColor" stroke-width="1.2" opacity="0.5"/>
@@ -451,7 +485,7 @@ class SeerahView {
                   <span class="shrink-0 text-lg leading-none mt-0.5" aria-hidden="true">${this.esc(ls.emoji)}</span>
                   <span class="flex-1 text-sm text-gray-700 dark:text-gray-200 leading-relaxed" dir="auto">${this.esc(this.lc({ en: ls.textEn, bn: ls.textBn }))}</span>
                 </div>
-                <div class="flex flex-wrap gap-1.5 pl-8">${evPill}${ayahPill}</div>
+                <div class="flex flex-wrap gap-1.5 ps-8">${evPill}${ayahPill}</div>
               </div>`;
           }).join('')}
         </div>
@@ -555,7 +589,7 @@ class SeerahView {
     const eraKeys = { before: 'seerah_tg_era_before', meccan: 'seerah_tg_era_meccan', medinan: 'seerah_tg_era_medinan', farewell: 'seerah_tg_era_farewell' };
 
     return `
-      <section class="mb-6" aria-label="Timeline graph">
+      <section class="mb-6" aria-label="${this.esc(this.tt('seerah_timeline_graph'))}">
         <h4 class="text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-3">${this.esc(t('seerah_glance_title'))}</h4>
         <div class="relative px-0.5">
           <div class="relative h-2 rounded-full bg-gray-200 dark:bg-gray-700 overflow-hidden">
@@ -568,7 +602,7 @@ class SeerahView {
           <div class="flex text-[0.55rem] text-gray-400 dark:text-gray-500 mt-0.5">
             <span style="flex:1">0</span>
             <span style="flex:13;text-align:center">13</span>
-            <span style="flex:10;text-align:right">23 ${this.esc(t('seerah_glance_years'))}</span>
+            <span style="flex:10;text-align:end">23 ${this.esc(t('seerah_glance_years'))}</span>
           </div>
           <div class="flex flex-wrap gap-x-2 gap-y-1 mt-3">
             ${['before','meccan','medinan'].map(k => `
@@ -585,10 +619,10 @@ class SeerahView {
             return `
             <div class="flex items-center gap-2 text-xs">
               <span class="shrink-0 w-5 text-center leading-none" aria-hidden="true">${m.emoji}</span>
-              <span class="shrink-0 w-6 text-right font-mono text-[0.6rem] text-gray-400 dark:text-gray-500">${m.year < 0 ? '~' + Math.abs(m.year) : m.year}</span>
+              <span class="shrink-0 w-6 text-end font-mono text-[0.6rem] text-gray-400 dark:text-gray-500">${m.year < 0 ? '~' + Math.abs(m.year) : m.year}</span>
               <div class="flex-1 relative h-4">
-                <div class="absolute inset-y-0 left-0 rounded-full" style="width:${Math.max(2, pct)}%;background:${ec}20;border:1px solid ${ec}40"></div>
-                <span class="absolute inset-y-0 left-0 flex items-center pl-1 text-[0.6rem] font-medium text-gray-700 dark:text-gray-200 truncate" style="max-width:${Math.min(100, pct + 10)}%">${this.esc(t(m.key))}</span>
+                <div class="absolute inset-y-0 start-0 rounded-full" style="width:${Math.max(2, pct)}%;background:${ec}20;border:1px solid ${ec}40"></div>
+                <span class="absolute inset-y-0 start-0 flex items-center ps-1 text-[0.6rem] font-medium text-gray-700 dark:text-gray-200 truncate" style="max-width:${Math.min(100, pct + 10)}%">${this.esc(t(m.key))}</span>
               </div>
             </div>`;
           }).join('')}
@@ -635,7 +669,7 @@ class SeerahView {
     const pct = eras.length ? Math.round(((this.storyPos + 1) / eras.length) * 100) : 0;
 
     const passages = events.map(ev => {
-      const year = [ev.yearCE, ev.yearAH].filter(Boolean).join(' · ');
+      const year = this.yearLine(ev);
       return `
         <div class="mb-5">
           <h4 class="flex items-baseline gap-2 flex-wrap font-semibold text-gray-800 dark:text-gray-100 leading-snug" dir="auto">
@@ -712,7 +746,9 @@ class SeerahView {
       // Display in the shuffled order; each button still carries its ORIGINAL
       // option index, so answer checking and stored answers are unaffected.
       const optHtml = this.quizPerm()[qi].map((oi) => {
-        const o = this.lc({ en: (q.optsEn || [])[oi], bn: (q.optsBn || [])[oi] });
+        const oEn = (q.optsEn || [])[oi];
+        let o = this.lc({ en: oEn, bn: (q.optsBn || [])[oi] });
+        if (o === oEn && oEn) o = /\b(CE|AH)$/.test(oEn) ? this.fmtYear(oEn) : this.fmtKm(oEn);
         const chosen = sel === oi;
         let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 hover:border-primary';
         let mark = '';
@@ -724,7 +760,7 @@ class SeerahView {
           cls = 'bg-primary/10 border-primary text-primary';
         }
         return `<button type="button" ${submitted ? 'disabled' : ''} data-seerah-quiz-opt="${qi}:${oi}"
-          class="w-full text-left px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(o)}${mark}</button>`;
+          class="w-full text-start px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(o)}${mark}</button>`;
       }).join('');
       return `
         <div class="p-3 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
@@ -754,7 +790,7 @@ class SeerahView {
     return `
       <div class="text-center mb-4">
         <p class="text-xs text-gray-400 dark:text-gray-500" dir="auto">${this.esc(this.tt('seerah_quiz_intro'))}
-          <span class="ml-1">· ${this.esc(this.tt('seerah_quiz_best'))}: ${this.quizBest} / ${total}</span></p>
+          <span class="ms-1">· ${this.esc(this.tt('seerah_quiz_best'))}: ${this.quizBest} / ${total}</span></p>
       </div>
       <div class="space-y-3">${questions}</div>
       ${footer}`;
@@ -806,7 +842,7 @@ class SeerahView {
       : '';
     return `
       <article data-seerah-conduct-card="${this.esc(c.id)}" class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 shadow-sm">
-        <button type="button" data-seerah-toggle="${this.esc(c.id)}" class="w-full text-left p-4 flex items-center gap-3">
+        <button type="button" data-seerah-toggle="${this.esc(c.id)}" class="w-full text-start p-4 flex items-center gap-3">
           <span class="text-2xl" aria-hidden="true">${this.esc(c.emoji)}</span>
           <span class="flex-1 font-semibold text-gray-800 dark:text-gray-100 leading-snug" dir="auto">${this.esc(this.pick(c, 'title'))}</span>
           ${hasArt ? `<span class="px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-semibold whitespace-nowrap">📜</span>` : ''}
@@ -824,7 +860,7 @@ class SeerahView {
   topicCardHtml(tp) {
     const isOpen = this.expanded.has(tp.id);
     const points = (tp.pointsEn || tp.pointsBn || []).map((_, pi) => this.lc({ en: (tp.pointsEn || [])[pi], bn: (tp.pointsBn || [])[pi] }));
-    const verses = Array.isArray(tp.verses) ? tp.verses : [];
+    const verses = (Array.isArray(tp.verses) ? tp.verses : []).map(v => this.verseRef(v)).filter(Boolean);
     const pointsHtml = points.length
       ? `<ul class="mt-2 space-y-1 list-none">
            ${points.map(p => `<li class="flex gap-2 text-sm text-gray-700 dark:text-gray-200" dir="auto"><span class="text-primary mt-0.5" aria-hidden="true">▸</span><span class="flex-1">${this.esc(p)}</span></li>`).join('')}
@@ -842,7 +878,7 @@ class SeerahView {
     return `
       <article class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 shadow-sm">
         <button type="button" data-seerah-toggle="${this.esc(tp.id)}"
-          class="w-full text-left p-4 flex items-center gap-3">
+          class="w-full text-start p-4 flex items-center gap-3">
           <span class="text-2xl" aria-hidden="true">${this.esc(tp.emoji)}</span>
           <span class="flex-1 font-semibold text-gray-800 dark:text-gray-100 leading-snug" dir="auto">${this.esc(this.pick(tp, 'title'))}</span>
           <span class="text-gray-300 dark:text-gray-500 text-sm" data-seerah-caret="${this.esc(tp.id)}">${isOpen ? '▲' : '▼'}</span>
@@ -873,7 +909,7 @@ class SeerahView {
                      sticky top-0 bg-gray-50/90 dark:bg-gray-900/90 backdrop-blur py-1 z-10">
             <span class="${em.text || ''}" aria-hidden="true">${em.icon || '<span>' + this.esc(era.emoji) + '</span>'}</span><span>${this.esc(this.tt(era.key))}</span>
           </h3>
-          <div class="relative pl-5 border-l-2 border-gray-200 dark:border-gray-700 space-y-3">
+          <div class="relative ps-5 border-s-2 border-gray-200 dark:border-gray-700 space-y-3">
             ${events.map(ev => this.cardHtml(ev)).join('')}
           </div>
         </section>`;
@@ -907,7 +943,7 @@ class SeerahView {
   cardHtml(ev) {
     const isRead = this.read.has(ev.id);
     const isOpen = this.expanded.has(ev.id);
-    const year = [ev.yearCE, ev.yearAH].filter(Boolean).join(' · ');
+    const year = this.yearLine(ev);
     const em = ERA_META[ev.era] || {};
     const battle = SEERAH_BATTLES[ev.id] || null;
     const ayahBtn = (ev.ayah && !battle)
@@ -927,9 +963,9 @@ class SeerahView {
     return `
       <article data-seerah-card="${this.esc(ev.id)}"
         class="relative rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} shadow-sm">
-        <span class="absolute -left-[1.65rem] top-4 w-3 h-3 rounded-full ${isRead ? 'bg-green-500' : (em.dot || 'bg-primary')} ring-4 ring-gray-50 dark:ring-gray-900" aria-hidden="true"></span>
+        <span class="absolute -start-[1.65rem] top-4 w-3 h-3 rounded-full ${isRead ? 'bg-green-500' : (em.dot || 'bg-primary')} ring-4 ring-gray-50 dark:ring-gray-900" aria-hidden="true"></span>
         <button type="button" data-seerah-toggle="${this.esc(ev.id)}"
-          class="w-full text-left p-4 flex flex-col gap-1.5">
+          class="w-full text-start p-4 flex flex-col gap-1.5">
           <span class="flex items-center gap-2 flex-wrap">
             <span class="px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-semibold whitespace-nowrap">${this.esc(year)}</span>
             <span class="px-2 py-0.5 rounded-md bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-300 text-[0.7rem] whitespace-nowrap">📍 ${this.esc(this.pick(ev, 'place'))}</span>
@@ -977,7 +1013,7 @@ class SeerahView {
   // Build a short shareable text from an event's existing title/desc/year.
   buildShareText(ev) {
     if (!ev) return '';
-    const year = [ev.yearCE, ev.yearAH].filter(Boolean).join(' · ');
+    const year = this.yearLine(ev);
     const title = this.pick(ev, 'title');
     const desc = this.pick(ev, 'desc');
     return [title + (year ? ` (${year})` : ''), desc].filter(Boolean).join('\n\n');
@@ -1201,7 +1237,7 @@ class SeerahView {
           arrow(92, 85, 150, 85, G) + arrow(228, 85, 170, 85, R);
     }
 
-    return `<svg viewBox="0 0 320 170" width="100%" style="max-width:340px;height:auto;display:block;margin:0 auto" role="img" aria-label="Abstract battle diagram">
+    return `<svg viewBox="0 0 320 170" width="100%" style="max-width:340px;height:auto;display:block;margin:0 auto" role="img" aria-label="${this.esc(this.tt('seerah_battle_diagram'))}">
       <rect x="0" y="0" width="320" height="170" rx="8" fill="currentColor" opacity="0.04"/>
       ${body}
     </svg>`;

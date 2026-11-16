@@ -61,6 +61,18 @@ class TopicsBrowser {
     return s;
   }
 
+  /**
+   * "{n} verses" / "{n} topics" with plural forms (Group K keys). Falls back to
+   * the old "<n> <label>" concatenation when the plural helper is missing.
+   */
+  countLabel(key, n, labelKey) {
+    if (typeof tPlural === 'function' && t(key, this.language) !== key) return tPlural(key, n, this.language);
+    return `${n} ${this.tt(labelKey)}`;
+  }
+
+  /** CJK names have hundreds of distinct first characters; no letter bar there. */
+  noLetterBar() { return this.language === 'ja' || this.language === 'zh'; }
+
   /** Localized display name for a topic (falls back to the English key). */
   dn(topic) { return (this.names && this.names[topic]) || topic; }
 
@@ -172,6 +184,14 @@ class TopicsBrowser {
   rebuildLetters() {
     if (!this.list.length) return;
     this.byLetter = {};
+    if (this.noLetterBar()) {
+      // ja/zh: one bucket sorted by the displayed name; browse via "Show more" / search
+      this.byLetter['*'] = this.list.slice()
+        .sort((a, b) => this.dn(a.topic).localeCompare(this.dn(b.topic), this.language));
+      this.letters = [];
+      this.activeLetter = '*';
+      return;
+    }
     for (const item of this.list) {
       const c = (this.dn(item.topic)[0] || '#').toLocaleUpperCase(this.language);
       const key = /\p{L}/u.test(c) ? c : '#';
@@ -227,8 +247,8 @@ class TopicsBrowser {
         ${this.collectionsHtml()}
         ${this.favouritesHtml()}
         ${this.recentHtml()}
-        <div class="text-xs font-semibold uppercase tracking-wide text-gray-400 mb-2">${this.tt('topics_az_index')}</div>
-        <div id="topics-letters" class="flex flex-wrap gap-1 justify-center mb-5">
+        ${this.letters.length ? `<div class="text-xs font-semibold uppercase tracking-wide text-gray-400 mb-2">${this.tt('topics_az_index')}</div>` : ''}
+        <div id="topics-letters" class="flex flex-wrap gap-1 justify-center mb-5${this.letters.length ? '' : ' hidden'}">
           ${this.letters.map(l => `
             <button data-letter="${l}" class="w-9 h-9 rounded-lg text-sm font-semibold transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-primary dark:focus-visible:ring-blue-400 ${
               l === this.activeLetter
@@ -251,7 +271,7 @@ class TopicsBrowser {
               <span class="text-xl shrink-0">${c.emoji || '•'}</span>
               <span class="min-w-0">
                 <span class="block text-sm font-medium truncate">${this.esc(this.cn(c))}</span>
-                <span class="block text-xs text-gray-400">${this.countRefs(c.refs)} ${this.tt('topics_verses_label')}</span>
+                <span class="block text-xs text-gray-400">${this.esc(this.countLabel('n_verses', this.countRefs(c.refs), 'topics_verses_label'))}</span>
               </span>
             </button>`).join('')}
         </div>
@@ -283,7 +303,7 @@ class TopicsBrowser {
     const shown = items.slice(0, this.PREVIEW);
     const more = items.length - shown.length;
     return `
-      <div class="text-xs text-gray-400 mb-2">${items.length} ${this.tt('topics_count_label')}</div>
+      <div class="text-xs text-gray-400 mb-2">${this.esc(this.countLabel('topics_count_n', items.length, 'topics_count_label'))}</div>
       <div class="flex flex-wrap gap-2">
         ${shown.map(i => this.chip(i)).join('')}
       </div>
@@ -407,10 +427,12 @@ class TopicsBrowser {
       total = items.length;
     }
     items = this.sortItems(items);
+    // ja/zh have no letter bar, so the unfiltered list is the whole index: cap it
+    if (!this.modalQuery && items.length > 300) items = items.slice(0, 300);
     if (!items.length) { box.innerHTML = `<p class="text-center py-8 text-gray-400">${this.tt('topics_no_results')}</p>`; return; }
     const countLine = total > items.length
       ? this.tt('topics_showing_first').replace('{shown}', items.length).replace('{total}', total)
-      : `${items.length} ${this.tt('topics_count_label')}`;
+      : this.countLabel('topics_count_n', items.length, 'topics_count_label');
     const sortBtn = (mode, label) =>
       `<button data-sort="${mode}" class="px-2 py-0.5 rounded-md ${this.sort === mode
         ? 'bg-primary text-white'
@@ -501,7 +523,7 @@ class TopicsBrowser {
     }
     return `
       <div class="flex items-center justify-between gap-2 flex-wrap mb-3">
-        <span class="flex items-center gap-1 text-sm text-gray-500 dark:text-gray-400">${headerExtra || ''}<span>${verses.length} ${this.tt('topics_verses_label')}</span></span>
+        <span class="flex items-center gap-1 text-sm text-gray-500 dark:text-gray-400">${headerExtra || ''}<span>${this.esc(this.countLabel('n_verses', verses.length, 'topics_verses_label'))}</span></span>
         <span class="flex items-center gap-1.5">
           <button data-copyrefs="${this.esc(verses.join(','))}" title="${this.esc(this.tt('copy'))}" aria-label="${this.esc(this.tt('copy'))}"
                   class="text-xs px-2.5 py-1.5 rounded-lg border border-gray-200 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">📋</button>

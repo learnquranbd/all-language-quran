@@ -110,10 +110,23 @@ class Tadabbur {
 
     window.addEventListener('tabChanged', (e) => { if (e.detail.tabId === 'tadabbur') this.ensureLoaded(); });
     window.addEventListener('settingChanged', (e) => {
-      if (e.detail.key === 'language') {
-        this.language = e.detail.value;
-        if (this.loaded) this.reloadTranslations();
+      if (!e.detail || e.detail.key !== 'language') return;
+      if (e.detail.contentI18n) {
+        /* A content-i18n pack just landed. Its value is the language of that
+         * file, which may be stale after a quick switch; the reader's language
+         * is in appSettings. The verse-translation dict is unaffected, so only
+         * repaint (when the tab is showing). */
+        const cur = this.currentLang();
+        if (cur !== this.language) {
+          this.language = cur;
+          if (this.loaded) this.reloadTranslations();
+          return;
+        }
+        if (this.loaded && document.getElementById('tad-grid')) this.render();
+        return;
       }
+      this.language = e.detail.value;
+      if (this.loaded) this.reloadTranslations();
     });
 
     this.container.addEventListener('click', (e) => this.onClick(e));
@@ -123,7 +136,31 @@ class Tadabbur {
   }
 
   /* ---------- i18n helpers ---------- */
+  currentLang() {
+    try {
+      if (typeof appSettings !== 'undefined' && appSettings) return appSettings.get('language') || this.language;
+    } catch (_) { /* ignore */ }
+    return this.language;
+  }
   tt(key) { return t(key, this.language); }
+  /** A number in the reader's locale (Intl.NumberFormat), plain digits if unavailable. */
+  num(n) {
+    try { return new Intl.NumberFormat(this.language).format(n); } catch (_) { return String(n); }
+  }
+  /** Arabic-Indic, Persian, Bengali, Devanagari and full-width digits (and the
+   *  full-width colon) to ASCII, so a reference typed with a native keyboard
+   *  ("٢:١٥٢", "২:১৫২") parses like "2:152". */
+  asciiDigits(s) {
+    return String(s).replace(/[\u0660-\u0669\u06F0-\u06F9\u09E6-\u09EF\u0966-\u096F\uFF10-\uFF19\uFF1A]/g, (c) => {
+      const cp = c.charCodeAt(0);
+      if (cp === 0xFF1A) return ':';
+      if (cp >= 0xFF10) return String(cp - 0xFF10);
+      if (cp >= 0x09E6) return String(cp - 0x09E6);
+      if (cp >= 0x0966) return String(cp - 0x0966);
+      if (cp >= 0x06F0) return String(cp - 0x06F0);
+      return String(cp - 0x0660);
+    });
+  }
   L(key) {
     const s = t(key, this.language);
     if (s !== key) return s;
@@ -147,7 +184,11 @@ class Tadabbur {
   themeLabel(id) {
     const o = (typeof PONDER_THEMES !== 'undefined') ? PONDER_THEMES[id] : null;
     if (!o) return '';
-    return o[this.language] || this.ci(o.en);
+    if (o[this.language]) return o[this.language];
+    /* Theme names live in the shared content file, not in the multi-MB
+     * tadabbur card pack: no namespace, so painting the chips never pulls it. */
+    const tr = (o.en && typeof CI18N !== 'undefined') ? CI18N.tr(this.language, o.en) : null;
+    return tr || o.en || '';
   }
 
   /* ---------- data ---------- */
@@ -200,7 +241,7 @@ class Tadabbur {
    *  with an optional '-' ayah range) matches every entry overlapping it; any
    *  other query falls back to a substring / surah-name match. */
   filtered() {
-    const q = this.query.trim().toLowerCase();
+    const q = this.asciiDigits(this.query).trim().toLowerCase();
     if (!q) return this.pool();
     const rq = this.parseRefQuery(q);
     return this.pool().filter(ref => {
@@ -358,7 +399,7 @@ class Tadabbur {
           </ul>
         </div>` : '';
       const take = lesson ? `
-        <p class="mt-2 flex gap-2 text-xs text-emerald-700 dark:text-emerald-300"><span aria-hidden="true">🎯</span><span dir="auto"><span class="font-semibold">${this.esc(this.L('tad_lesson'))}:</span> ${this.esc(lesson)}</span></p>` : '';
+        <p class="mt-2 flex gap-2 text-xs text-emerald-700 dark:text-emerald-300"><span aria-hidden="true">🎯</span><span><bdi class="font-semibold">${this.esc(this.L('tad_lesson'))}</bdi>: <bdi>${this.esc(lesson)}</bdi></span></p>` : '';
       /* A verse with a long-form exposition gets a collapsed opener. Collapsed
        * matters: this list paints every card in one pass, and the articles are
        * a large file — it must not be fetched because a tab was opened. The
@@ -404,16 +445,26 @@ class Tadabbur {
           class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md bg-gray-100 dark:bg-gray-700/60 text-xs font-semibold text-primary dark:text-sky-300 hover:bg-primary/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
           ${this.esc(this.surahName(s))} <span class="text-gray-400 dark:text-gray-500 font-normal">${this.esc(ref)}</span> <span aria-hidden="true">↗</span>
         </button>
-        ${tags ? `<span class="text-sm shrink-0" title="themes">${tags}</span>` : ''}
+        ${tags ? `<span class="text-sm shrink-0" title="${this.esc(this.themesTitle())}">${tags}</span>` : ''}
       </div>
       <div class="ayah-arabic !text-xl !leading-loose !border-b-0 !pb-0 mb-2 text-gray-800 dark:text-gray-100" dir="rtl">${arabic || '…'}</div>
       ${translation ? `<p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(translation)}</p>` : ''}`;
   }
 
-  /** One-line summary of a verse for the compact row: the translation, clamped. */
+  themesTitle() { return this.tt('tad_themes') === 'tad_themes' ? 'Themes' : this.tt('tad_themes'); }
+  /** One-line summary of a verse for the compact row: the translation, clamped.
+   *  Arabic readers have no translation dictionary (data/translations/ar.json
+   *  is empty by design), so they get the opening words of the verse itself. */
   snippetHtml(ref) {
     const { translation } = this.verseData(ref);
-    return translation ? `<span class="block text-xs text-gray-500 dark:text-gray-400 leading-snug line-clamp-2" dir="auto">${this.esc(translation)}</span>` : '';
+    if (translation) return `<span class="block text-xs text-gray-500 dark:text-gray-400 leading-snug line-clamp-2" dir="auto">${this.esc(translation)}</span>`;
+    if (this.language !== 'ar') return '';
+    const m = String(ref).match(/(\d+):(\d+)/);
+    const toks = (m && this.words) ? this.words[m[1] + ':' + m[2]] : null;
+    if (!Array.isArray(toks) || !toks.length) return '';
+    const MAX = 8;
+    const snip = toks.slice(0, MAX).join(' ') + (toks.length > MAX ? ' …' : '');
+    return `<span class="block font-arabic text-sm text-gray-500 dark:text-gray-400 leading-relaxed line-clamp-1" dir="rtl" lang="ar">${this.esc(snip)}</span>`;
   }
   /** The expand/collapse control shared by both views. */
   toggleHtml(ref, expanded) {
@@ -443,14 +494,14 @@ class Tadabbur {
     const [s] = first.split(':');
     const tags = (this.themeMap()[ref] || []).slice(0, 3).join(' ');
     return `
-      <li data-tad-item="${this.esc(ref)}" class="relative pl-5 pb-4 border-l-2 border-primary/25 ml-2 last:pb-1">
-        <span class="absolute -left-[7px] top-2 w-3 h-3 rounded-full ${expanded ? 'bg-primary' : 'bg-primary/60'} border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
+      <li data-tad-item="${this.esc(ref)}" class="relative ps-5 pb-4 border-s-2 border-primary/25 ms-2 last:pb-1">
+        <span class="absolute -start-[7px] top-2 w-3 h-3 rounded-full ${expanded ? 'bg-primary' : 'bg-primary/60'} border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
         <div class="flex items-start justify-between gap-3">
           <button data-tad-toggle="${this.esc(ref)}" aria-expanded="${expanded ? 'true' : 'false'}" class="flex-1 min-w-0 text-start rounded-lg -mx-1 px-1 py-0.5 hover:bg-gray-50 dark:hover:bg-gray-800/60 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
             <span class="flex items-center gap-2 text-sm font-semibold text-gray-800 dark:text-gray-100">
               <span dir="auto">${this.esc(this.surahName(s))}</span>
               <span class="text-xs font-normal text-gray-400 dark:text-gray-500">${this.esc(ref)}</span>
-              ${tags && !expanded ? `<span class="text-xs" title="themes">${tags}</span>` : ''}
+              ${tags && !expanded ? `<span class="text-xs" title="${this.esc(this.themesTitle())}">${tags}</span>` : ''}
               <span class="ms-auto text-gray-400 text-xs" aria-hidden="true">${expanded ? '▴' : '▾'}</span>
             </span>
             ${expanded ? '' : this.snippetHtml(ref)}
@@ -462,7 +513,7 @@ class Tadabbur {
   /** A surah divider inside the timeline, with how many verses it holds. */
   timelineSurahHeadHtml(s, count) {
     return `
-      <li class="relative ml-2 pl-5 pt-1 pb-3 border-l-2 border-transparent">
+      <li class="relative ms-2 ps-5 pt-1 pb-3 border-s-2 border-transparent">
         <span class="inline-flex items-center gap-2 rounded-full bg-gray-100 dark:bg-gray-800 px-3 py-1 text-xs font-bold text-gray-700 dark:text-gray-200">
           <span class="text-primary">${this.esc(String(s))}</span><span dir="auto">${this.esc(this.surahName(s))}</span>
           <span class="font-normal text-gray-400">${count}</span></span>
@@ -507,8 +558,8 @@ class Tadabbur {
 
   countLabel() {
     const n = this.filtered().length;
-    const label = this.tt('mt_group_verses_label');
-    return `${n} ${label === 'mt_group_verses_label' ? 'verses' : label}`;
+    if (typeof tPlural === 'function') return tPlural('n_verses', n, this.language, { n: this.num(n) });
+    return `${this.num(n)} verses`;
   }
 
   renderGrid() {

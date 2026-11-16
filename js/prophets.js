@@ -59,17 +59,23 @@ class ProphetsView {
 
   // ── helpers ──────────────────────────────────────────────────────────
   tt(key) {
-    try { const v = t(key, this.language); if (v && v !== key) return v; } catch (_) { /* ignore */ }
-    const e = PROPHETS_UI[key];
+    // The language's own pack wins. t() silently falls back to English, so ask
+    // hasKey() first; otherwise the local PROPHETS_UI / CI18N branches never run.
+    try {
+      if (typeof hasKey !== 'function' || hasKey(key, this.language)) {
+        const v = t(key, this.language); if (v && v !== key) return v;
+      }
+    } catch (_) { /* ignore */ }
+    const e = (typeof PROPHETS_UI !== 'undefined' && PROPHETS_UI) ? PROPHETS_UI[key] : null;
     if (e) {
       if (this.language && e[this.language]) return e[this.language];
       if (this.language === 'bn') return e.bn || e.en;
       if (this.language && this.language !== 'en' && typeof CI18N !== 'undefined' && e.en) {
         const tr = CI18N.tr(this.language, e.en, 'prophets'); if (tr) return tr;
       }
-      return e.en;
     }
-    return key;
+    try { const v = t(key, this.language); if (v && v !== key) return v; } catch (_) { /* ignore */ }
+    return e ? e.en : key;
   }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
   // Localized content picker: bn → CI18N knowledgebase → en fallback.
@@ -210,7 +216,7 @@ class ProphetsView {
           <div class="h-2 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden">
             <div class="h-full bg-primary transition-all" style="width:${pct}%" data-prophets-bar></div>
           </div>
-          <div class="text-right mt-1">
+          <div class="text-end mt-1">
             <button type="button" data-prophets-reset class="text-[0.7rem] text-gray-400 hover:text-red-500 transition-colors">↺ ${this.esc(this.tt('prophets_reset'))}</button>
           </div>
         </div>
@@ -369,7 +375,7 @@ class ProphetsView {
           <li class="ms-6">
             <span class="absolute -start-[0.72rem] flex items-center justify-center w-6 h-6 rounded-full ${isRead ? 'bg-green-500 text-white' : 'bg-primary/15 text-primary'} ring-4 ring-gray-50 dark:ring-gray-900 text-[0.7rem] font-bold" aria-hidden="true">${p.order}</span>
             <button type="button" data-prophets-open="${this.esc(p.id)}"
-              class="w-full text-left rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} p-4 hover:border-primary hover:shadow-md transition-all">
+              class="w-full text-start rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} p-4 hover:border-primary hover:shadow-md transition-all">
               <div class="flex items-start gap-3">
                 <span class="text-2xl font-arabic text-primary shrink-0" dir="rtl" lang="ar">${this.esc(p.ar)}</span>
                 <div class="flex-1 min-w-0">
@@ -400,7 +406,7 @@ class ProphetsView {
           return `
           <div class="contents">
           <button type="button" data-prophets-open="${this.esc(p.id)}"
-            class="group text-left relative rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} p-4 hover:border-primary hover:shadow-md transition-all overflow-hidden">
+            class="group text-start relative rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} p-4 hover:border-primary hover:shadow-md transition-all overflow-hidden">
             <span class="absolute top-2 end-2 text-primary/15 group-hover:text-primary/30 transition-colors">${this.starAccent('w-8 h-8')}</span>
             <span class="inline-flex items-center justify-center w-7 h-7 rounded-full ${isRead ? 'bg-green-500 text-white' : 'bg-primary/10 text-primary'} text-xs font-bold mb-2" aria-hidden="true">${p.order}</span>
             <div class="text-2xl font-arabic text-primary mb-1" dir="rtl" lang="ar">${this.esc(p.ar)}</div>
@@ -436,13 +442,34 @@ class ProphetsView {
       </div>`;
   }
 
-  // Display name (transliteration) for a prophet id; safe fallback.
+  // Short display name for a prophet id: Bengali form for bn, transliteration
+  // for en, the localised name (via lc) elsewhere. Only the base name is kept:
+  // the gloss in brackets, a trailing epithet ("…, Dhun-Nun") and ﷺ are dropped
+  // so it fits quiz buttons, <option>s and lineage boxes. Falls back to translit.
   pname(pid) {
-    // Localized prophet name: Bengali form for the bn UI, transliteration elsewhere.
     const p = PROPHETS_DATA.find(x => x.id === pid);
     if (!p) return String(pid || '');
-    return (this.language === 'bn' && p.bn) ? p.bn : p.translit;
+    if (this.language === 'bn') return p.bn || p.translit;
+    if (!this.language || this.language === 'en') return p.translit;
+    let name = '';
+    try { if (p.en && typeof CI18N !== 'undefined') name = CI18N.tr(this.language, p.en, 'prophets') || ''; } catch (_) { name = ''; }
+    name = String(name)
+      .replace(/\s*\uFDFA\s*/g, ' ')
+      .replace(/\s*[(\uFF08][^)\uFF09]*[)\uFF09]/g, '')
+      .replace(/\s*[,\u060C\uFF0C\u3001].*$/, '')
+      .trim();
+    return name || p.translit;
   }
+  /** pname() as HTML, with the transliteration as a small subtitle when it differs. */
+  pnameHtml(pid) {
+    const name = this.pname(pid);
+    const p = PROPHETS_DATA.find(x => x.id === pid);
+    const sub = (p && this.language !== 'en' && this.language !== 'bn' && p.translit && p.translit !== name)
+      ? ` <span class="text-[0.65rem] font-normal text-gray-400 dark:text-gray-500" dir="ltr" lang="en">${this.esc(p.translit)}</span>` : '';
+    return this.esc(name) + sub;
+  }
+  /** Localised "(AS)" honorific with a leading space. */
+  hon() { return ' ' + this.tt('prophet_honorific'); }
 
   duasHtml() {
     return `
@@ -453,7 +480,7 @@ class ProphetsView {
           ${PROPHETS_DUAS.map(d => `
             <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 flex flex-col gap-2">
               <div class="flex items-center justify-between gap-2">
-                <span class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.esc(this.pname(d.pid))}</span>
+                <span class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.pnameHtml(d.pid)}</span>
                 <button type="button" data-prophets-ayah="${this.esc(this.openRef(d.ref))}"
                   class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-medium hover:bg-primary hover:text-white transition-colors" dir="auto">📖 ${this.esc(this.refLabel(d.ref))}</button>
               </div>
@@ -483,7 +510,7 @@ class ProphetsView {
     const head = (p) => `
       <div class="text-center">
         <div class="text-2xl font-arabic text-primary" dir="rtl" lang="ar">${this.esc(p.ar)}</div>
-        <div class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.esc(this.pname(p.id))}</div>
+        <div class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.pnameHtml(p.id)}</div>
       </div>`;
     return `
       <div class="mt-8">
@@ -521,18 +548,18 @@ class ProphetsView {
       .map(id => this.pname(id)).join(' · ');
     return `
       <div class="space-y-2 min-w-[16rem]">
-        ${node(this.pname('adam') + ' (AS)')}
+        ${node(this.pname('adam') + this.hon())}
         ${branch(`
-          ${node(this.pname('nuh') + ' (AS)')}
+          ${node(this.pname('nuh') + this.hon())}
           ${branch(`
-            ${node(this.pname('ibrahim') + ' (AS)')}
+            ${node(this.pname('ibrahim') + this.hon())}
             ${branch(`
-              ${node(this.pname('ismail') + ' (AS)', '→ ' + this.tt('prophets_lineage_arabs') + ' → ' + this.pname('muhammad') + ' ﷺ')}
-              ${node(this.pname('ishaq') + ' (AS)', '→ ' + this.pname('yaqub') + ' (' + this.tt('prophets_lineage_israel') + ') (AS)')}
+              ${node(this.pname('ismail') + this.hon(), '→ ' + this.tt('prophets_lineage_arabs') + ' → ' + this.pname('muhammad') + ' ﷺ')}
+              ${node(this.pname('ishaq') + this.hon(), '→ ' + this.pname('yaqub') + ' (' + this.tt('prophets_lineage_israel') + ')' + this.hon())}
               ${branch(`
                 <div>
                   <div class="text-[0.7rem] font-semibold uppercase tracking-wide text-gray-400 dark:text-gray-500 mb-1">${this.esc(this.tt('prophets_lineage_bani'))}</div>
-                  <div class="text-xs text-gray-600 dark:text-gray-300" dir="auto">${this.esc(baniList)} (AS)</div>
+                  <div class="text-xs text-gray-600 dark:text-gray-300" dir="auto">${this.esc(baniList + this.hon())}</div>
                 </div>`)}
             `)}
           `)}
@@ -558,27 +585,27 @@ class ProphetsView {
     const baniBoxes = baniIds.map(id => `<div class="inline-flex items-center px-2 py-1 rounded-md border border-primary/30 bg-white dark:bg-gray-800 text-primary text-[0.7rem] font-medium whitespace-nowrap" dir="auto">${this.esc(this.pname(id))}</div>`).join('');
     return `
       <div class="flex flex-col items-center gap-1 text-center min-w-[20rem] py-2">
-        ${box(this.pname('adam') + ' (AS)')}
+        ${box(this.pname('adam') + this.hon())}
         ${vline()}
-        ${box(this.pname('nuh') + ' (AS)')}
+        ${box(this.pname('nuh') + this.hon())}
         ${vline()}
-        ${box(this.pname('ibrahim') + ' (AS)')}
+        ${box(this.pname('ibrahim') + this.hon())}
         <div class="relative w-full pt-4 mt-1">
           <div class="absolute top-0 left-1/4 right-1/4 h-0.5 bg-gray-300 dark:bg-gray-600" aria-hidden="true"></div>
           <div class="absolute top-0 left-1/4 -ml-px w-0.5 h-4 bg-gray-300 dark:bg-gray-600" aria-hidden="true"></div>
           <div class="absolute top-0 right-1/4 -mr-px w-0.5 h-4 bg-gray-300 dark:bg-gray-600" aria-hidden="true"></div>
           <div class="grid grid-cols-2 gap-3">
             ${branchCol(`
-              ${box(this.pname('ismail') + ' (AS)')}
+              ${box(this.pname('ismail') + this.hon())}
               ${vline()}
               ${box(this.tt('prophets_lineage_arabs'), 'muted')}
               ${vline()}
               ${box(this.pname('muhammad') + ' ﷺ', 'final')}
             `)}
             ${branchCol(`
-              ${box(this.pname('ishaq') + ' (AS)')}
+              ${box(this.pname('ishaq') + this.hon())}
               ${vline()}
-              ${box(this.pname('yaqub') + ' · ' + this.tt('prophets_lineage_israel') + ' (AS)')}
+              ${box(this.pname('yaqub') + ' · ' + this.tt('prophets_lineage_israel') + this.hon())}
               ${vline()}
               <div class="text-[0.65rem] font-semibold uppercase tracking-wide text-gray-400 dark:text-gray-500">${this.esc(this.tt('prophets_lineage_bani'))}</div>
               <div class="flex flex-wrap justify-center gap-1">${baniBoxes}</div>
@@ -627,7 +654,7 @@ class ProphetsView {
               && typeof ayahTimeline !== 'undefined' && ayahTimeline;
             const inner = `
               <div class="flex items-center justify-between gap-2 text-xs">
-                <span class="font-medium text-gray-700 dark:text-gray-200">${this.esc(this.pname(m.pid))}</span>
+                <span class="font-medium text-gray-700 dark:text-gray-200">${this.pnameHtml(m.pid)}</span>
                 <span class="text-gray-400 dark:text-gray-500 whitespace-nowrap">${m.n} ${this.esc(this.tt('prophets_mentions_times'))}${clickable ? ' <span class="text-primary" aria-hidden="true">🕐</span>' : ''}</span>
               </div>
               <div class="h-1.5 mt-0.5 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden">
@@ -635,7 +662,7 @@ class ProphetsView {
               </div>
               ${note ? `<p class="text-[0.65rem] text-gray-400 dark:text-gray-500 mt-0.5" dir="auto">${this.esc(note)}</p>` : ''}`;
             return clickable
-              ? `<button type="button" data-prophets-mentions="${m.pid}" class="block w-full text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">${inner}</button>`
+              ? `<button type="button" data-prophets-mentions="${m.pid}" class="block w-full text-start focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">${inner}</button>`
               : `<div>${inner}</div>`;
           }).join('')}
         </div>
@@ -767,7 +794,7 @@ class ProphetsView {
         else { cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 opacity-60'; }
       }
       return `<button type="button" ${answered ? 'disabled' : ''} data-prophets-quiz-answer="${this.esc(o.id)}"
-        class="w-full flex items-center justify-between gap-2 text-left px-4 py-3 rounded-xl border font-medium text-gray-700 dark:text-gray-200 transition-colors ${cls}">
+        class="w-full flex items-center justify-between gap-2 text-start px-4 py-3 rounded-xl border font-medium text-gray-700 dark:text-gray-200 transition-colors ${cls}">
         <span>${this.esc(o.label)}</span> ${mark}</button>`;
     }).join('');
 
@@ -939,7 +966,7 @@ class ProphetsView {
       <div class="rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden mb-4">
         <div class="relative p-5 bg-gradient-to-br from-primary/10 to-transparent">
           <button type="button" data-prophets-close="${this.esc(p.id)}"
-            class="absolute top-3 end-3 inline-flex items-center justify-center w-8 h-8 rounded-full bg-white/80 dark:bg-gray-800/80 text-gray-500 hover:text-primary hover:bg-white dark:hover:bg-gray-700 shadow-sm transition-colors z-10" title="Close">
+            class="absolute top-3 end-3 inline-flex items-center justify-center w-8 h-8 rounded-full bg-white/80 dark:bg-gray-800/80 text-gray-500 hover:text-primary hover:bg-white dark:hover:bg-gray-700 shadow-sm transition-colors z-10" title="${this.esc(this.tt('close'))}" aria-label="${this.esc(this.tt('close'))}">
             ✕
           </button>
           <div class="flex items-center gap-2">
@@ -1149,7 +1176,7 @@ class ProphetsView {
           ${PROPHETS_HADITH.map(h => `
             <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 flex flex-col gap-2">
               <div class="flex items-center justify-between gap-2">
-                <span class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.esc(this.pname(h.pid))}</span>
+                <span class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.pnameHtml(h.pid)}</span>
                 <span class="text-[0.65rem] text-gray-400 dark:text-gray-500 whitespace-nowrap" dir="auto">${this.esc(this.lc({en: h.sourceEn, bn: h.sourceBn}))}</span>
               </div>
               <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed italic" dir="auto">${this.esc(this.lc({en: h.glossEn, bn: h.glossBn}))}</p>

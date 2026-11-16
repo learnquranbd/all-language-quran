@@ -23,7 +23,7 @@ const QuranData = {
     fr: 31,   // Muhammad Hamidullah
     id: 33,   // Indonesian Islamic Affairs Ministry
     ur: 234,  // Fatah Muhammad Jalandhari
-    tr: 77,   // Diyanet
+    tr: 77,   // Diyanet (API fallback only; the bundled data/translations/tr.json is Diyanet Vakfi, per ayah)
     ar: null, // Arabic UI: no translation needed
     es: 83,   // Sheikh Isa Garcia (Spanish)
     ru: 45,   // Elmir Kuliev (Russian)
@@ -38,7 +38,8 @@ const QuranData = {
   // Languages with real word-by-word translations bundled offline (data/wbw/<lang>.json).
   // Verified genuine (non-English) glosses: en, bn, ur, id, tr, fa, hi.
   // All other UI languages reuse en.json glosses (their ayah translation is still native).
-  WBW_LANGS: ['en', 'bn', 'ur', 'id', 'tr', 'fa', 'hi', 'zh', 'ja'],
+  // ja/zh were dropped 2026-11-16: their files were byte copies of en.json and quran.com has no ja/zh word glosses.
+  WBW_LANGS: ['en', 'bn', 'ur', 'id', 'tr', 'fa', 'hi'],
 
   _morphCache: {},
   _rootsPromise: null,
@@ -123,7 +124,9 @@ const QuranData = {
       translation: this.stripFootnotes(v.translations?.[0]?.text || ''),
       juz: v.juz_number || 0,
       page: v.page_number || 0,
-      surahName: surahInfo?.names?.en || '',
+      // Not frozen to English: resolved in the UI language each time it is
+      // read. New renderers should call getSurahName(surah, lang) directly.
+      get surahName() { return verseSurahName(surah); },
       surahArabicName: surahInfo?.arabicName || '',
       words: (v.words || [])
         .filter(w => w.char_type_name === 'word')
@@ -350,7 +353,7 @@ const QuranData = {
           translation: (translations && translations[key]) || '',
           juz: b.j || 0,
           page: b.p || 0,
-          surahName: surahInfo?.names?.en || '',
+          get surahName() { return verseSurahName(surah); },
           surahArabicName: surahInfo?.arabicName || '',
           words: wArr.map((ar, i) => ({
             position: i + 1,
@@ -403,6 +406,21 @@ const QuranData = {
 };
 
 /**
+ * Surah name for a verse object, in the current UI language. Verse objects are
+ * cached across language switches, so the name is looked up when read rather
+ * than stored (it used to be frozen to the English name).
+ */
+function verseSurahName(surah) {
+  let lang = 'en';
+  try {
+    if (typeof appSettings !== 'undefined' && appSettings) lang = appSettings.get('language') || 'en';
+  } catch (e) { /* English */ }
+  if (typeof getSurahName === 'function') return getSurahName(surah, lang) || '';
+  const info = (typeof getSurahByNumber === 'function') ? getSurahByNumber(surah) : null;
+  return (info && info.names && info.names.en) || '';
+}
+
+/**
  * Human-readable labels for Quranic Arabic Corpus morphology tags.
  */
 const GRAMMAR_LABELS = {
@@ -415,7 +433,7 @@ const GRAMMAR_LABELS = {
   DET: 'Definite article (ال)', PREF: 'Prefix', CONJ: 'Conjunction',
   SUB: 'Subordinating conjunction', NEG: 'Negative particle',
   INTG: 'Interrogative', VOC: 'Vocative', EMPH: 'Emphatic',
-  COND: 'Conditional', ACC: 'Accusative', AMD: 'Amendment particle',
+  COND: 'Conditional', ACC: 'Accusative particle', AMD: 'Amendment particle',
   ANS: 'Answer particle', AVR: 'Aversion particle', CAUS: 'Causative',
   CERT: 'Certainty particle', CIRC: 'Circumstantial', COM: 'Comitative',
   EXH: 'Exhortation', EXL: 'Explanation', EXP: 'Exceptive', FUT: 'Future',
@@ -437,7 +455,7 @@ const GRAMMAR_LABELS = {
   // ACC also means accusative case on nominals — handled contextually below
 
   // Special
-  DIST: 'Distal', ATT: 'Attached', OBJ: 'Object'
+  DIST: 'Distal', ATT: 'Attention particle', OBJ: 'Object'
 };
 
 /**
@@ -453,78 +471,191 @@ function segmentColor(seg) {
   return 'text-gray-700 dark:text-gray-200';
 }
 
+/* Grammar text helpers. Every label and description token is a t() key
+ * (gram_*, gram_d_*, gram_tpl_*); the English constants here are only the
+ * fallback for when translations.js is not loaded (node tests). */
+function __gramLang(lang) {
+  if (lang) return lang;
+  try {
+    if (typeof appSettings !== 'undefined' && appSettings) return appSettings.get('language') || 'en';
+  } catch (e) { /* fall through */ }
+  return 'en';
+}
+
+/** t() that reports a miss as the given English instead of the raw key. */
+function __gramT(key, lang, fallback) {
+  if (typeof t !== 'function') return fallback;
+  const v = t(key, lang);
+  return (v && v !== key) ? v : fallback;
+}
+
+/** English for the gram_d_* description tokens (fallback only). */
+const __GRAM_D_EN = {
+  p1: '1st person', p2: '2nd person', p3: '3rd person', masc: 'masculine', fem: 'feminine',
+  sing: 'singular', dual: 'dual', plur: 'plural', nom: 'nominative', acc: 'accusative', gen: 'genitive',
+  passive: 'passive', perfect: 'perfect', imperfect: 'imperfect', imperative: 'imperative',
+  mood_ind: 'indicative mood', mood_subj: 'subjunctive mood', mood_jus: 'jussive mood',
+  noun: 'noun', proper_noun: 'proper noun', adjective: 'adjective', act_pcpl: 'active participle',
+  pass_pcpl: 'passive participle', vn: 'verbal noun', pronoun: 'pronoun',
+  attached_pronoun: 'attached pronoun', personal_pronoun: 'personal pronoun',
+  demonstrative: 'demonstrative pronoun', relative: 'relative pronoun',
+  det: 'prefixed determiner ال (the)', preposition: 'preposition', particle: 'particle'
+};
+function __gramD(token, lang) {
+  return __gramT('gram_d_' + token, lang, __GRAM_D_EN[token] || token);
+}
+
+/** Join slots in English order when the templates are unavailable. */
+function __gramJoin(parts) { return parts.filter(Boolean).join(' '); }
+
+/** Template fill that drops empty slots; plain English join as the fallback. */
+function __gramTpl(key, lang, vars, fallback) {
+  if (typeof tCompose !== 'function' || typeof t !== 'function' || t(key, lang) === key) return fallback;
+  try { return tCompose(key, lang, vars); } catch (e) { return fallback; }
+}
+
+/** First-strong isolation for RTL UIs (FSI … PDI): unlike <bdi>, it survives
+ *  callers that escape the result or set it as textContent. */
+function __gramIsolate(text, lang) {
+  if (!text) return text;
+  const rtl = (typeof isRTL === 'function') ? isRTL(lang) : ['ar', 'ur', 'fa'].includes(lang);
+  return rtl ? '⁨' + text + '⁩' : text;
+}
+
+/** t() key for a GRAMMAR_LABELS tag. */
+function __gramLabelKey(tag, segTag) {
+  if (tag === 'ACC' && segTag !== 'P') return 'gram_ACC_case';
+  if (tag.startsWith('MOOD:')) return 'gram_MOOD_' + tag.slice(5);
+  return 'gram_' + tag;
+}
+
+/** Person / gender / number ("3MS", "FD", "P") as words, or ''. */
+function __gramPgn(feat, lang) {
+  const m = /^([123])?(M|F)?(S|D|P)?$/.exec(feat || '');
+  if (!m || !(m[1] || m[2] || m[3])) return '';
+  const person = m[1] ? __gramD('p' + m[1], lang) : '';
+  const gender = m[2] ? __gramD(m[2] === 'M' ? 'masc' : 'fem', lang) : '';
+  const number = m[3] ? __gramD({ S: 'sing', D: 'dual', P: 'plur' }[m[3]], lang) : '';
+  return __gramTpl('gram_tpl_pgn', lang, { person, gender, number }, __gramJoin([person, gender, number]));
+}
+
 /**
  * Build a corpus.quran.com-style description sentence for one segment,
  * e.g. "prefixed preposition", "genitive masculine noun",
  *      "3rd person masculine singular perfect verb (form IV)".
+ * `lang` defaults to the UI language; the result is isolated for RTL UIs.
  */
-function corpusDescribe(seg) {
-  const f = seg.f || [];
-  const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'];
-  const parts = [];
+function corpusDescribe(seg, lang) {
+  lang = __gramLang(lang);
+  return __gramIsolate(__corpusDescribeText(seg || {}, lang), lang);
+}
 
-  const pgn = f.find(x => /^[123]?(M|F)?(S|D|P)?$/.test(x) && x.length > 0);
-  const pgnText = pgn ? decodeGrammarFeature(pgn, seg.g) : '';
+function __corpusDescribeText(seg, lang) {
+  const f = (seg.f || []).filter(Boolean);
+  const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'];
+
+  // On a preposition (segTag P) the "P" feature is the part of speech, not "plural".
+  const pgn = f.find(x => /^[123]?(M|F)?(S|D|P)?$/.test(x) && x.length > 0 && !(x === 'P' && seg.g === 'P'));
+  const pgnText = pgn ? __gramPgn(pgn, lang) : '';
 
   if (seg.g === 'V') {
-    if (pgnText) parts.push(pgnText);
-    if (f.includes('PASS')) parts.push('passive');
-    if (f.includes('IMPV')) parts.push('imperative');
-    else if (f.includes('IMPF')) parts.push('imperfect');
-    else parts.push('perfect');
-    parts.push('verb');
+    const voice = f.includes('PASS') ? __gramD('passive', lang) : '';
+    const aspect = __gramD(f.includes('IMPV') ? 'imperative' : f.includes('IMPF') ? 'imperfect' : 'perfect', lang);
     const vf = f.find(x => x.startsWith('VF:'));
-    if (vf && parseInt(vf.slice(3)) > 1) parts.push(`(form ${ROMAN[parseInt(vf.slice(3)) - 1]})`);
+    const vfn = vf ? parseInt(vf.slice(3), 10) : 0;
+    const roman = vfn > 1 ? (ROMAN[vfn - 1] || String(vfn)) : '';
+    const form = roman
+      ? (typeof tFill === 'function' && typeof t === 'function' && t('gram_d_form', lang) !== 'gram_d_form'
+        ? tFill('gram_d_form', lang, { n: roman }) : `(form ${roman})`)
+      : '';
+    const verb = __gramTpl('gram_tpl_verb', lang, { pgn: pgnText, voice, aspect, form },
+      __gramJoin([pgnText, voice, aspect, 'verb', form]));
     const mood = f.find(x => x.startsWith('MOOD:'));
-    if (mood) parts.push(`, ${(GRAMMAR_LABELS[mood] || mood.slice(5)).toLowerCase()} mood`);
-    return parts.join(' ');
+    if (!mood) return verb;
+    const moodKey = { 'MOOD:IND': 'mood_ind', 'MOOD:SUBJ': 'mood_subj', 'MOOD:JUS': 'mood_jus' }[mood];
+    const moodText = moodKey ? __gramD(moodKey, lang) : mood.slice(5).toLowerCase() + ' mood';
+    return __gramTpl('gram_tpl_verb_mood', lang, { verb, mood: moodText }, `${verb}, ${moodText}`);
+  }
+
+  // Pronouns carry segTag N in the corpus data, so test them before nouns.
+  if (f.includes('PRON') || f.includes('DEM') || f.includes('REL')) {
+    const kind = __gramD(f.includes('DEM') ? 'demonstrative' : f.includes('REL') ? 'relative'
+      : f.includes('SUFF') ? 'attached_pronoun' : f.includes('PRON') ? 'personal_pronoun' : 'pronoun', lang);
+    return __gramTpl('gram_tpl_pron', lang, { kind, pgn: pgnText },
+      pgnText ? `${kind} — ${pgnText}` : kind);
   }
 
   if (seg.g === 'N' || f.includes('ADJ')) {
-    const kase = f.includes('NOM') ? 'nominative' : f.includes('ACC') ? 'accusative' : f.includes('GEN') ? 'genitive' : '';
-    if (kase) parts.push(kase);
-    if (pgnText) parts.push(pgnText);
-    if (f.includes('ACT_PCPL')) parts.push('active participle');
-    else if (f.includes('PASS_PCPL')) parts.push('passive participle');
-    else if (f.includes('VN')) parts.push('verbal noun');
-    else if (f.includes('PN')) parts.push('proper noun');
-    else if (f.includes('ADJ')) parts.push('adjective');
-    else parts.push('noun');
-    return parts.join(' ');
+    const kase = f.includes('NOM') ? __gramD('nom', lang) : f.includes('ACC') ? __gramD('acc', lang)
+      : f.includes('GEN') ? __gramD('gen', lang) : '';
+    const kind = __gramD(f.includes('ACT_PCPL') ? 'act_pcpl' : f.includes('PASS_PCPL') ? 'pass_pcpl'
+      : f.includes('VN') ? 'vn' : f.includes('PN') ? 'proper_noun' : f.includes('ADJ') ? 'adjective' : 'noun', lang);
+    return __gramTpl('gram_tpl_noun', lang, { case: kase, pgn: pgnText, kind }, __gramJoin([kase, pgnText, kind]));
   }
 
-  // Particles, pronouns, prefixes
+  // Particles and prefixes
   const prefixed = f.includes('PREF');
-  if (f.includes('DET')) return 'prefixed determiner ال (the)';
-  if (f.includes('PRON')) return `attached pronoun${pgnText ? ' — ' + pgnText : ''}`;
-  if (f.includes('P')) return (prefixed ? 'prefixed ' : '') + 'preposition';
-  const main = f.filter(x => x !== 'PREF').map(x => GRAMMAR_LABELS[x]).find(Boolean)
-    || GRAMMAR_LABELS[seg.g] || 'particle';
-  return (prefixed ? 'prefixed ' : '') + main.toLowerCase();
+  const withPrefix = (x) => prefixed
+    ? __gramTpl('gram_tpl_prefixed', lang, { x }, 'prefixed ' + x)
+    : x;
+  if (f.includes('DET')) return __gramD('det', lang);
+  if (f.includes('P')) return withPrefix(__gramD('preposition', lang));
+  const tag = f.filter(x => x !== 'PREF').find(x => GRAMMAR_LABELS[x])
+    || (GRAMMAR_LABELS[seg.g] ? seg.g : null);
+  let main;
+  if (tag) {
+    main = __gramT(__gramLabelKey(tag, 'P'), lang, GRAMMAR_LABELS[tag]);
+    if (lang === 'en' || main === GRAMMAR_LABELS[tag]) main = main.toLowerCase();
+  } else {
+    main = __gramD('particle', lang);
+  }
+  return withPrefix(main);
 }
 
+/** FAM:<head> -> key suffix (the inna / kana / kada families). */
+function __gramFamily(feat) {
+  const head = feat.slice(4).replace(/[ً-ْٰ]/g, '').replace(/[أإآ]/g, 'ا');
+  if (head === 'ان') return 'inna';
+  if (head === 'كان') return 'kana';
+  if (head === 'كاد') return 'kada';
+  return null;
+}
+
+const __GRAM_FEAT_EN = {
+  SUFF: 'Suffix', INDEF: 'Indefinite', ADDR: 'Addressee suffix', NV: 'Verb-like noun (ism fiʿl)',
+  FAM_inna: 'Family of inna (إنّ وأخواتها)', FAM_kana: 'Family of kāna (كان وأخواتها)',
+  FAM_kada: 'Family of kāda (كاد وأخواتها)'
+};
+
 /**
- * Decode a single morphology feature into a readable label.
+ * Decode a single morphology feature into a readable label in `lang`
+ * (default: the UI language). Empty features give ''.
  */
-function decodeGrammarFeature(feat, segTag) {
+function decodeGrammarFeature(feat, segTag, lang) {
+  lang = __gramLang(lang);
+  if (!feat) return '';
+  // "P" on a noun or pronoun is the plural number, not the particle tag.
+  if (feat === 'P' && segTag && segTag !== 'P') return __gramPgn(feat, lang);
   if (GRAMMAR_LABELS[feat]) {
     // On nouns, ACC is the accusative case, not the accusative particle
-    if (feat === 'ACC' && segTag !== 'P') return 'Accusative (منصوب)';
-    return GRAMMAR_LABELS[feat];
+    const fb = (feat === 'ACC' && segTag !== 'P') ? 'Accusative (منصوب)' : GRAMMAR_LABELS[feat];
+    return __gramT(__gramLabelKey(feat, segTag), lang, fb);
   }
-  if (feat.startsWith('VF:')) return `Verb form ${feat.slice(3)}`;
-  if (feat.startsWith('MOOD:')) return GRAMMAR_LABELS[feat] || feat.slice(5);
+  if (feat.startsWith('VF:')) {
+    const n = feat.slice(3);
+    return (typeof tFill === 'function' && typeof t === 'function' && t('gram_verb_form', lang) !== 'gram_verb_form')
+      ? tFill('gram_verb_form', lang, { n }) : `Verb form ${n}`;
+  }
+  if (feat.startsWith('MOOD:')) return __gramT(__gramLabelKey(feat, segTag), lang, feat.slice(5));
+  if (__GRAM_FEAT_EN[feat]) return __gramT('gram_' + feat, lang, __GRAM_FEAT_EN[feat]);
+  if (feat.startsWith('FAM:')) {
+    const fam = __gramFamily(feat);
+    if (fam) return __gramT('gram_FAM_' + fam, lang, __GRAM_FEAT_EN['FAM_' + fam]);
+    return feat;
+  }
 
   // Person / gender / number combos like 3MS, 2FP, 1P, MS, FD, M, F
-  const pgn = feat.match(/^([123])?(M|F)?(S|D|P)?$/);
-  if (pgn && (pgn[1] || pgn[2] || pgn[3])) {
-    const parts = [];
-    if (pgn[1]) parts.push({ '1': '1st person', '2': '2nd person', '3': '3rd person' }[pgn[1]]);
-    if (pgn[2]) parts.push(pgn[2] === 'M' ? 'masculine' : 'feminine');
-    if (pgn[3]) parts.push({ S: 'singular', D: 'dual', P: 'plural' }[pgn[3]]);
-    return parts.join(' ');
-  }
-  return feat;
+  return __gramPgn(feat, lang) || feat;
 }
 
 // Export for module usage

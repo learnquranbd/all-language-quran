@@ -117,7 +117,7 @@ class RecordMemorize {
       const verses = await QuranData.fetchRange(this.surah, this.from, this.to, this.language);
       this.ayahs = (verses || []).map(v => ({ key: v.key, ayah: v.ayah, arabic: v.arabic }));
     } catch (e) {
-      board.innerHTML = `<div class="text-center py-10 text-red-500">${this.tt('topics_load_error')}</div>`;
+      board.innerHTML = `<div class="text-center py-10 text-red-500">${this.tt('load_failed')}</div>`;
       return;
     }
     // Restore any ✓/✗ marks saved for this exact range earlier in the session
@@ -302,7 +302,7 @@ class RecordMemorize {
   renderBoard() {
     const board = this.root.querySelector('#rc-board');
     if (!board) return;
-    if (!this.ayahs.length) { board.innerHTML = `<div class="text-center py-10 text-gray-400">${this.tt('wa_no_words')}</div>`; return; }
+    if (!this.ayahs.length) { board.innerHTML = `<div class="text-center py-10 text-gray-400">${this.tt('rec_no_ayahs')}</div>`; return; }
     const ok = this.ayahs.filter(a => this.marks[a.key] === 'ok').length;
     const wrong = this.ayahs.filter(a => this.marks[a.key] === 'wrong').length;
     const total = this.ayahs.length;

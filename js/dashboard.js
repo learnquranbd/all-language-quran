@@ -61,7 +61,14 @@ class DashboardView {
     window.addEventListener('settingChanged', (e) => {
       try {
         if (e && e.detail && e.detail.key === 'language') {
-          this.language = e.detail.value || 'en';
+          // A late content-i18n event carries the language its pack was fetched
+          // for, possibly a previous one: trust appSettings for those.
+          let lang = e.detail.value || 'en';
+          if (e.detail.contentI18n && typeof appSettings !== 'undefined' && appSettings) {
+            lang = appSettings.get('language') || lang;
+            if (lang !== e.detail.value) return;
+          }
+          this.language = lang;
           if (this.rendered) this.render();
         }
       } catch (_) { /* ignore */ }
@@ -74,14 +81,19 @@ class DashboardView {
   /* ---------- helpers ---------- */
   tt(key) { return (typeof t === 'function') ? t(key, this.language) : key; }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
-  /** Localize an {en,bn} pair: bn native, en native, other langs via CI18N (fallback en). */
-  L(o) {
+  /** Localize an {en,bn} pair: bn native, en native, other langs via CI18N (fallback en).
+   *  `ns` names a module's own content-i18n file (e.g. 'hope'), consulted
+   *  before the shared one, so a card reads the same as the module it opens. */
+  L(o, ns) {
     if (!o) return '';
     if (this.language === 'bn') return o.bn || o.en || '';
     if (this.language === 'en') return o.en || '';
-    const tr = (typeof CI18N !== 'undefined') ? CI18N.tr(this.language, o.en) : null;
+    const tr = (typeof CI18N !== 'undefined') ? CI18N.tr(this.language, o.en, ns) : null;
     return tr || o.en || '';
   }
+  /** Arabic readers get no translation line (data/translations/ar.json is
+   *  deliberately `{}`; the verse modal shows none for ar either). */
+  noTranslationLine(lang) { return lang === 'ar'; }
   surahName(n) {
     return (typeof getSurahName === 'function') ? getSurahName(parseInt(n, 10), this.language) : String(n);
   }
@@ -109,11 +121,11 @@ class DashboardView {
   }
   async trFile(lang) {
     if (this._trFiles[lang] !== undefined) return this._trFiles[lang];
+    if (this.noTranslationLine(lang)) { this._trFiles[lang] = null; return null; }
     try {
-      /* An empty dictionary counts as absent: data/translations/ar.json is
-       * deliberately `{}` (Arabic readers need no translation line) and `{}`
-       * is truthy, so without this every caller keeps a dictionary with no
-       * entries and renders blank translations instead of falling back. */
+      /* An empty dictionary counts as absent, so a language whose file is
+       * missing or empty falls back to English in fillVerse(). Arabic never
+       * gets here (see noTranslationLine). */
       this._trFiles[lang] = await fetch(`data/translations/${lang}.json`)
         .then(r => (r.ok ? r.json() : null))
         .then(d => (d && typeof d === 'object' && Object.keys(d).length ? d : null));
@@ -162,7 +174,7 @@ class DashboardView {
     const meaning = (n.meanings && (n.meanings[this.language] || n.meanings.en)) || '';
     return this.card(`
       ${this.heading('✨', this.L(DASH_L.name_day))}
-      <button data-dash-go="names" class="w-full text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
+      <button data-dash-go="names" class="w-full text-start focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
         <div class="ayah-arabic !text-2xl !border-b-0 !pb-0 text-primary" dir="rtl">${this.esc(n.ar)}</div>
         <div class="text-sm font-semibold text-gray-800 dark:text-gray-100 mt-1">${this.esc(n.translit)}</div>
         <div class="text-xs text-gray-500 dark:text-gray-400">${this.esc(meaning)}</div>
@@ -181,7 +193,7 @@ class DashboardView {
     const role = this.language === 'bn' ? (c.roleBn || c.roleEn) : (this.L({ en: c.roleEn, bn: c.roleBn }));
     return this.card(`
       ${this.heading('🤝', this.L(DASH_L.companion_day))}
-      <button data-dash-go="sahaba" class="w-full text-left flex items-center gap-3 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
+      <button data-dash-go="sahaba" class="w-full text-start flex items-center gap-3 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
         <span class="shrink-0 w-10 h-10 rounded-full ${this.esc(c.color || 'bg-primary')} text-white flex items-center justify-center text-sm font-bold">${this.esc(c.init || '☆')}</span>
         <span class="flex-1 min-w-0">
           <span class="block text-sm font-semibold text-gray-800 dark:text-gray-100 truncate" dir="auto">${this.esc(name)}</span>
@@ -225,7 +237,7 @@ class DashboardView {
     return this.card(`
       ${this.heading('📿', this.L(DASH_L.amal_today))}
       <ul class="space-y-1.5 mb-2">${rows}</ul>
-      <button data-dash-go="amal" class="text-xs font-medium text-primary hover:underline focus:outline-none">${this.esc(this.L(DASH_L.see_all))} →</button>
+      <button data-dash-go="amal" class="text-xs font-medium text-primary hover:underline focus:outline-none">${this.esc(this.L(DASH_L.see_all))} ${(typeof isRTL === 'function' && isRTL(this.language)) ? '←' : '→'}</button>
     `);
   }
 
@@ -234,10 +246,15 @@ class DashboardView {
   wordCard() {
     if (typeof VOCAB_WORDS === 'undefined' || !VOCAB_WORDS || !VOCAB_WORDS.length) return '';
     const w = VOCAB_WORDS[this.dayIndex() % VOCAB_WORDS.length];
-    const meaning = (w.meanings && (w.meanings[this.language] || w.meanings.en)) || '';
+    const m = w.meanings || {};
+    let meaning = m[this.language] || '';
+    if (!meaning && m.en && this.language !== 'en' && this.language !== 'bn' && typeof CI18N !== 'undefined') {
+      meaning = CI18N.tr(this.language, m.en) || '';
+    }
+    meaning = meaning || m.en || '';
     return this.card(`
       ${this.heading('📚', this.L(DASH_L.word_day))}
-      <button data-dash-vocab="flashcards" class="w-full text-left flex items-center gap-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
+      <button data-dash-vocab="flashcards" class="w-full text-start flex items-center gap-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
         <span class="ayah-arabic !text-3xl !border-b-0 !pb-0" dir="rtl">${w.arabic}</span>
         <span class="flex-1 min-w-0">
           <span class="block text-sm italic text-gray-400">${this.esc(w.translit || '')}</span>
@@ -270,11 +287,11 @@ class DashboardView {
     const [s] = (first || '0:0').split(':');
     return this.card(`
       ${this.heading('🕊️', this.L(DASH_L.hope_day))}
-      <button data-dash-go="hope" class="w-full text-left flex items-start gap-3 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
+      <button data-dash-go="hope" class="w-full text-start flex items-start gap-3 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
         <span class="text-2xl leading-none shrink-0" aria-hidden="true">${ch.emoji}</span>
         <span class="flex-1 min-w-0">
-          <span class="block text-sm font-semibold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.L(ch.title))}</span>
-          <span class="block text-xs text-gray-500 dark:text-gray-400 leading-snug mt-0.5" dir="auto">${this.esc(this.L(ch.tagline))}</span>
+          <span class="block text-sm font-semibold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.L(ch.title, 'hope'))}</span>
+          <span class="block text-xs text-gray-500 dark:text-gray-400 leading-snug mt-0.5" dir="auto">${this.esc(this.L(ch.tagline, 'hope'))}</span>
         </span>
       </button>
       <div class="flex flex-wrap items-center gap-1.5 mt-3">
@@ -440,6 +457,7 @@ class DashboardView {
       }
     } catch (_) { /* ignore */ }
     try {
+      if (this.noTranslationLine(this.language)) { if (trEl) trEl.textContent = ''; return; }
       let dict = await this.trFile(this.language);
       if (!dict && this.language !== 'en') dict = await this.trFile('en');
       if (dict && dict[first] && trEl) trEl.textContent = dict[first];

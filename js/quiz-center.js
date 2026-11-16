@@ -65,6 +65,16 @@ class QuizCenter {
     window.addEventListener('settingChanged', (e) => {
       if (e.detail && e.detail.key === 'language') {
         this.language = e.detail.value;
+        // Questions bake their prompt/options text when the round is built, so a
+        // running (or loading) round would stay in the old language: drop it and
+        // go back to the config screen, where Start builds it in the new one.
+        if (this.view === 'running' || this.view === 'loading') {
+          this._roundToken = (this._roundToken || 0) + 1;
+          if (this.advanceTimer) { clearTimeout(this.advanceTimer); this.advanceTimer = null; }
+          this.clearQuestionTimer();
+          this.answered = false;
+          this.view = this.currentType ? 'config' : 'home';
+        }
         if (this.rendered) this.render();
       }
     });
@@ -177,10 +187,29 @@ class QuizCenter {
     return this._sarfPromise;
   }
 
-  // Localized root gloss: SARF_GLOSS (js/sarf.js) if present, else the English gloss
+  // Localized root gloss: SARF_GLOSS (js/sarf.js), then the 'sarf' content-i18n
+  // namespace, else the English gloss
   sarfGloss(sarf, root) {
     const map = (typeof SARF_GLOSS !== 'undefined' && SARF_GLOSS) ? SARF_GLOSS[this.language] : null;
-    return (map && map[root]) || (sarf.roots[root] && sarf.roots[root].gloss) || '';
+    if (map && map[root]) return map[root];
+    const en = (sarf.roots[root] && sarf.roots[root].gloss) || '';
+    return this.sarfTr(en) || en;
+  }
+
+  // A sarf.json English gloss in the UI language ('sarf' namespace), or null
+  sarfTr(en) {
+    if (!en || this.language === 'en' || typeof CI18N === 'undefined' || !CI18N) return null;
+    try { return CI18N.tr(this.language, en, 'sarf'); } catch (e) { return null; }
+  }
+
+  // Seconds label for the exam timer ("15s", ar "15 ث")
+  secs(n) {
+    return (typeof tFill === 'function') ? tFill('quiz_seconds', this.language, { n }) : `${n}s`;
+  }
+
+  // "Back" arrow pointing toward the reading start (→ in RTL)
+  backArrow() {
+    return (typeof isRTL === 'function' && isRTL(this.language)) ? '→' : '←';
   }
 
   // [{ ayah, text }] for a surah, real verses only (verse_0 = bismillah dropped)
@@ -426,6 +455,7 @@ class QuizCenter {
 
   async start() {
     if (this.advanceTimer) { clearTimeout(this.advanceTimer); this.advanceTimer = null; }
+    const token = this._roundToken = (this._roundToken || 0) + 1;
     this.view = 'loading';
     this.render();
 
@@ -435,6 +465,8 @@ class QuizCenter {
     } catch (err) {
       questions = [];
     }
+    // The reader switched language (or left) while this round was building
+    if (token !== this._roundToken || this.view !== 'loading') return;
 
     // Shuffle each question's options, cap the round to the chosen difficulty
     questions = questions.slice(0, this.roundSize()).map(q => ({
@@ -532,7 +564,7 @@ class QuizCenter {
       if (q.options[bi].correct) {
         b.classList.remove('border-gray-200', 'dark:border-gray-700', 'bg-white', 'dark:bg-gray-800');
         b.classList.add('border-green-500', 'bg-green-100', 'dark:bg-green-900/40', 'text-green-800', 'dark:text-green-200', 'quiz-pop');
-        b.insertAdjacentHTML('afterbegin', '<span class="mr-1">✓</span>');
+        b.insertAdjacentHTML('afterbegin', '<span class="me-1">✓</span>');
       } else if (b === btn) {
         b.classList.remove('border-gray-200', 'dark:border-gray-700', 'bg-white', 'dark:bg-gray-800');
         b.classList.add('border-red-500', 'bg-red-100', 'dark:bg-red-900/40', 'text-red-800', 'dark:text-red-200', 'quiz-shake');
@@ -591,7 +623,7 @@ class QuizCenter {
       this.timeLeft--;
       const el = document.getElementById('quiz-timer');
       if (el) {
-        el.textContent = `⏱ ${Math.max(0, this.timeLeft)}s`;
+        el.textContent = `⏱ ${this.secs(Math.max(0, this.timeLeft))}`;
         if (this.timeLeft <= 5) el.classList.add('text-red-500');
       }
       if (this.timeLeft <= 0) { this.clearQuestionTimer(); this.timeUp(); }
@@ -620,7 +652,7 @@ class QuizCenter {
       if (q.options[bi].correct) {
         b.classList.remove('border-gray-200', 'dark:border-gray-700', 'bg-white', 'dark:bg-gray-800');
         b.classList.add('border-green-500', 'bg-green-100', 'dark:bg-green-900/40', 'text-green-800', 'dark:text-green-200', 'quiz-pop');
-        b.insertAdjacentHTML('afterbegin', '<span class="mr-1">✓</span>');
+        b.insertAdjacentHTML('afterbegin', '<span class="me-1">✓</span>');
       }
     });
 
@@ -734,7 +766,7 @@ class QuizCenter {
       const lenBtn = (n) => `<button data-action="set-exam-len" data-len="${n}"
           class="px-4 py-2 rounded-lg text-sm font-medium transition-colors ${optCls(this.examLen === n)}">${n}<span class="block text-[10px] opacity-70">${t('quiz_q_short', lang)}</span></button>`;
       const timeBtn = (s) => `<button data-action="set-exam-time" data-sec="${s}"
-          class="px-3 py-2 rounded-lg text-sm font-medium transition-colors ${optCls(this.examTimePer === s)}">${s === 0 ? t('quiz_exam_no_timer', lang) : `⏱ ${s}s`}</button>`;
+          class="px-3 py-2 rounded-lg text-sm font-medium transition-colors ${optCls(this.examTimePer === s)}">${s === 0 ? t('quiz_exam_no_timer', lang) : `⏱ ${this.secs(s)}`}</button>`;
       diffUI = `
         <div class="text-xs text-gray-400 mb-1">${t('quiz_exam_length', lang)}</div>
         <div class="flex flex-wrap justify-center gap-2 mb-3">${this.EXAM_LENS.map(lenBtn).join('')}</div>
@@ -753,7 +785,7 @@ class QuizCenter {
 
     return `
       <div class="mb-4">
-        <button data-action="back-menu" class="text-sm text-gray-500 dark:text-gray-400 hover:text-primary dark:hover:text-blue-400">← ${t('back', lang)}</button>
+        <button data-action="back-menu" class="text-sm text-gray-500 dark:text-gray-400 hover:text-primary dark:hover:text-blue-400">${this.backArrow()} ${t('back', lang)}</button>
       </div>
       <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-700 p-8 text-center">
         <div class="text-5xl mb-2">${type.emoji}</div>
@@ -816,19 +848,19 @@ class QuizCenter {
                      bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-100 break-words
                      hover:border-primary dark:hover:border-blue-400 transition-colors text-center
                      focus:outline-none focus-visible:ring-2 focus-visible:ring-primary dark:focus-visible:ring-blue-400 focus-visible:ring-offset-2 dark:focus-visible:ring-offset-gray-900">
-        <span class="hidden sm:flex absolute top-1.5 left-2 w-5 h-5 rounded-md bg-gray-100 dark:bg-gray-700 text-[10px] text-gray-400 items-center justify-center" aria-hidden="true">${i + 1}</span>
+        <span class="hidden sm:flex absolute top-1.5 start-2 w-5 h-5 rounded-md bg-gray-100 dark:bg-gray-700 text-[10px] text-gray-400 items-center justify-center" aria-hidden="true">${i + 1}</span>
         ${o.html}
       </button>`).join('');
 
     return `
       <div class="mb-3">
-        <button data-action="back-menu" class="text-sm text-gray-500 dark:text-gray-400 hover:text-primary dark:hover:text-blue-400">← ${t('back', lang)}</button>
+        <button data-action="back-menu" class="text-sm text-gray-500 dark:text-gray-400 hover:text-primary dark:hover:text-blue-400">${this.backArrow()} ${t('back', lang)}</button>
       </div>
       <div class="flex items-center justify-between text-sm text-gray-500 dark:text-gray-400 mb-3">
         <span>${t('quiz_question_of', lang).replace('{current}', this.index + 1).replace('{total}', total)}</span>
         <span class="flex items-center gap-3">
           ${this.currentType.exam && this.examTimePer > 0
-            ? `<span id="quiz-timer" class="font-mono font-semibold text-gray-700 dark:text-gray-200">⏱ ${this.examTimePer}s</span>` : ''}
+            ? `<span id="quiz-timer" class="font-mono font-semibold text-gray-700 dark:text-gray-200">⏱ ${this.secs(this.examTimePer)}</span>` : ''}
           <span>${t('score', lang)}: <b class="text-gray-700 dark:text-gray-200">${this.score}</b></span>
           <span>🔥 ${t('quiz_streak', lang)}: <b class="text-gray-700 dark:text-gray-200">${this.streak}</b></span>
         </span>
@@ -1117,7 +1149,7 @@ class QuizCenter {
             surah: n, ayah: parseInt(ayah),
             text: segs.map(s => s.t).join(''),
             pos,
-            hint: corpusDescribe(this.coreSegment(segs))
+            hint: corpusDescribe(this.coreSegment(segs), this.language)
           });
         }
       }
@@ -1224,10 +1256,18 @@ class QuizCenter {
     return questions;
   }
 
-  // Localized tajweed rule name (TAJWEED_LESSONS carries per-language names), English label fallback
+  // Localized tajweed rule name, resolved the way the Tajweed tab does it:
+  // TAJWEED_LESSONS names.<lang>, then the 'tajweed' content-i18n namespace,
+  // then the English label.
   ruleName(key) {
+    const lang = this.language;
     const lesson = (typeof TAJWEED_LESSONS !== 'undefined' && TAJWEED_LESSONS) ? TAJWEED_LESSONS[key] : null;
-    return (lesson && lesson.names && lesson.names[this.language]) || TAJWEED_RULES[key].label;
+    if (lesson && lesson.names && lesson.names[lang]) return lesson.names[lang];
+    const label = (TAJWEED_RULES[key] && TAJWEED_RULES[key].label) || key;
+    if (lang !== 'en' && typeof CI18N !== 'undefined' && CI18N) {
+      try { const tr = CI18N.tr(lang, label, 'tajweed'); if (tr) return tr; } catch (e) { /* English label */ }
+    }
+    return label;
   }
 
   // 8. Tajweed: which rule applies to a highlighted span
@@ -1432,11 +1472,48 @@ class QuizCenter {
           + `<div class="text-sm text-gray-500 dark:text-gray-400 mt-2" dir="auto">${this.esc(this.sarfGloss(sarf, root))}</div>`,
         options: [{ html: this.ar(answer.form, '!text-3xl'), correct: true }]
           .concat(distractors.map(w => ({ html: this.ar(w.form, '!text-3xl'), correct: false }))),
-        explanation: answer.meaning ? `${this.esc(answer.form)} — ${this.esc(answer.meaning)}` : undefined,
+        explanation: undefined,   // filled below, once the form meanings are localised
+        _answer: answer,
         gotoVerse: answer.ref || null
       });
     }
+
+    // sarf.json form meanings are English WBW: outside en, take each answer's
+    // meaning from its sample verse's word-by-word in the UI language.
+    const local = await this.localFormMeanings(questions.map(q => q._answer));
+    questions.forEach(q => {
+      const a = q._answer;
+      delete q._answer;
+      const meaning = (this.language === 'en') ? a.meaning : (local[`${a.form}|${a.ref}`] || a.meaning);
+      q.explanation = meaning ? `${this.esc(a.form)} — <span dir="auto">${this.esc(meaning)}</span>` : undefined;
+    });
     return questions;
+  }
+
+  // { "form|ref": meaning } from QuranData.fetchRange in the UI language (non-en only)
+  async localFormMeanings(forms) {
+    const lang = this.language;
+    const out = {};
+    if (lang === 'en' || typeof QuranData === 'undefined' || !QuranData.fetchRange) return out;
+    const norm = w => (QuranData.normalizeWord ? QuranData.normalizeWord(w) : w);
+    const byRef = {};
+    forms.forEach(m => { if (m && m.ref) (byRef[m.ref] = byRef[m.ref] || []).push(m); });
+    const refs = Object.keys(byRef);
+    for (let i = 0; i < refs.length; i += 6) {
+      await Promise.all(refs.slice(i, i + 6).map(async ref => {
+        try {
+          const [su, ay] = ref.split(':').map(Number);
+          const verses = await QuranData.fetchRange(su, ay, ay, lang);
+          const words = (verses && verses[0] && verses[0].words) || [];
+          byRef[ref].forEach(m => {
+            const nf = norm(m.form);
+            const hit = words.find(w => norm(w.arabic || '') === nf);
+            if (hit && hit.meaning) out[`${m.form}|${m.ref}`] = hit.meaning;
+          });
+        } catch (e) { /* keep the English meaning for this ref */ }
+      }));
+    }
+    return out;
   }
 
   // 13. Word frequency: which of these 4 words appears most often (data/word-index.json)

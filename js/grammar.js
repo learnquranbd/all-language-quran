@@ -110,12 +110,15 @@ class GrammarView {
   morphToText(ayah, segments, wordIndex) {
     const loc = `${ayah.surah}:${ayah.ayah}:${wordIndex + 1}`;
     const arabic = segments.map(s => s.t).join('');
+    const lang = this.language;
     const lines = [`${arabic}  (${loc})`];
     const root = segments.map(s => s.r).find(Boolean);
-    if (root) lines.push(`Root: ${root}`);
+    if (root) lines.push(`${t('root', lang)}: ${root}`);
     segments.forEach(seg => {
-      const desc = (typeof corpusDescribe === 'function') ? corpusDescribe(seg) : (seg.g || '');
-      lines.push(`  ${seg.t} — ${desc}${seg.l ? '  [lemma ' + seg.l + ']' : ''}`);
+      // corpusDescribe may wrap its text in <bdi> for RTL; the clipboard wants plain text.
+      const desc = (typeof corpusDescribe === 'function')
+        ? String(corpusDescribe(seg, lang)).replace(/<[^>]*>/g, '') : (seg.g || '');
+      lines.push(`  ${seg.t} — ${desc}${seg.l ? `  [${t('lemma', lang)} ${seg.l}]` : ''}`);
     });
     return lines.join('\n');
   }
@@ -124,10 +127,14 @@ class GrammarView {
     return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   }
 
-  /** Like t(), but prefers the local GRAMMAR_STRINGS map for enrichment-only keys. */
+  /**
+   * Like t(), but uses the local GRAMMAR_STRINGS map when it has this
+   * language (en, bn). Every other language reads its own pack via t(), which
+   * already falls back to English.
+   */
   gui(key) {
-    const map = GRAMMAR_STRINGS[this.language] || GRAMMAR_STRINGS.en;
-    return (map && map[key]) || (GRAMMAR_STRINGS.en && GRAMMAR_STRINGS.en[key]) || t(key, this.language);
+    const map = GRAMMAR_STRINGS[this.language];
+    return (map && map[key]) || t(key, this.language);
   }
 
   // -------------------------------------------------------- quiz persistence
@@ -237,11 +244,20 @@ class GrammarView {
     return `<div class="space-y-6">${card}${card}</div>`;
   }
 
+  /** Surah name in the UI language (the verse object only carries the English one). */
+  surahLabel(ayah) {
+    if (typeof getSurahName === 'function') {
+      const n = getSurahName(ayah.surah, this.language);
+      if (n) return n;
+    }
+    return ayah.surahName || '';
+  }
+
   ayahHeaderHtml(ayah) {
     return `
       <div class="flex items-center gap-2 mb-3 text-sm text-gray-500 dark:text-gray-400">
         <span class="ayah-number">${ayah.ayah}</span>
-        <span>${ayah.surahName} ${ayah.key}</span>
+        <span>${this.esc(this.surahLabel(ayah))} ${ayah.key}</span>
       </div>`;
   }
 
@@ -268,12 +284,12 @@ class GrammarView {
           ${swatch('bg-indigo-600 dark:bg-indigo-400', t('gr_proper_noun', lang))}
         </div>
         <div class="flex flex-wrap items-center gap-2">
-          <span class="text-xs font-semibold uppercase text-gray-500 dark:text-gray-400 mr-1">${t('gr_highlight', lang)}</span>
+          <span class="text-xs font-semibold uppercase text-gray-500 dark:text-gray-400 me-1">${t('gr_highlight', lang)}</span>
           ${filterBtn('all', t('gr_filter_all', lang))}
           ${filterBtn('noun', t('gr_nouns', lang))}
           ${filterBtn('verb', t('gr_verbs', lang))}
           ${filterBtn('particle', t('gr_particles', lang))}
-          <span class="ml-auto flex items-center gap-2">
+          <span class="ms-auto flex items-center gap-2">
             <button data-gr-practice aria-pressed="${this.practiceOn}"
               class="text-xs px-3 py-1.5 rounded-full transition-colors ${this.practiceOn ? 'bg-primary text-white' : 'bg-primary/10 text-primary dark:text-blue-300 hover:bg-primary hover:text-white'}">
               🎯 ${this.esc(this.gui('gr_practice'))}
@@ -312,7 +328,7 @@ class GrammarView {
         </div>
         ${roots.length ? `
           <div class="flex flex-wrap items-center gap-1.5">
-            <span class="text-xs text-gray-500 dark:text-gray-400 mr-1">${t('gr_roots', lang)}:</span>
+            <span class="text-xs text-gray-500 dark:text-gray-400 me-1">${t('gr_roots', lang)}:</span>
             ${rootChips}
           </div>` : ''}
       </div>`;
@@ -339,7 +355,7 @@ class GrammarView {
           <span class="text-sm text-gray-600 dark:text-gray-300" dir="auto">${meaning}</span>
           ${root ? `
             <button data-sarf-root="${this.esc(root)}" title="${t('gr_open_sarf', lang)}"
-              class="ml-auto text-sm text-gray-500 dark:text-gray-400 hover:text-fuchsia-600 dark:hover:text-fuchsia-300 transition-colors">
+              class="ms-auto text-sm text-gray-500 dark:text-gray-400 hover:text-fuchsia-600 dark:hover:text-fuchsia-300 transition-colors">
               ${t('root', lang)}: <span class="ayah-arabic !text-lg !mb-0 !pb-0 !border-b-0">${this.esc(root.split('').join(' '))}</span> 🧬
             </button>` : ''}
         </div>
@@ -370,15 +386,16 @@ class GrammarView {
   featuresDetail(segments, lang) {
     return segments.map(seg => {
       const color = (typeof segmentColor === 'function') ? segmentColor(seg) : '';
-      const feats = (seg.f || []).map(f => {
-        const label = (typeof decodeGrammarFeature === 'function') ? decodeGrammarFeature(f, seg.g) : f;
-        return `<span class="px-1.5 py-0.5 rounded bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-600 text-xs">${this.esc(label)}</span>`;
+      const feats = (seg.f || []).filter(Boolean).map(f => {
+        const label = (typeof decodeGrammarFeature === 'function') ? decodeGrammarFeature(f, seg.g, lang) : f;
+        if (!label) return '';
+        return `<span class="px-1.5 py-0.5 rounded bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-600 text-xs" dir="auto">${this.esc(String(label).replace(/<[^>]*>/g, ''))}</span>`;
       }).join('');
       return `
         <div class="flex flex-wrap items-center gap-1.5 text-sm">
           <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0 min-w-[2rem] ${color}">${seg.t}</span>
           ${feats || '<span class="text-xs text-gray-400">—</span>'}
-          ${seg.l ? `<span class="text-xs text-gray-500 dark:text-gray-400 ml-1">${t('lemma', lang)}: <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0">${seg.l}</span></span>` : ''}
+          ${seg.l ? `<span class="text-xs text-gray-500 dark:text-gray-400 ms-1">${t('lemma', lang)}: <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0">${seg.l}</span></span>` : ''}
         </div>`;
     }).join('');
   }

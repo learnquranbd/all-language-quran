@@ -69,7 +69,7 @@ class WordByWord {
             <span class="ayah-number">${ayah.ayah}</span>
             <button class="ayah-play-btn p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-primary dark:text-blue-400 leading-none"
                     data-play-ref="${ayah.key}" title="${t('play', lang)}" aria-label="${t('play', lang)}">▶</button>
-            <span class="ml-auto">${ayah.surahName} ${ayah.key}</span>
+            <span class="ms-auto">${wbwSurahLabel(ayah, lang)} ${ayah.key}</span>
           </div>
           <div class="flex flex-wrap gap-2" dir="rtl">
             ${ayah.words.map(w => this.renderWordTile(ayah, w)).join('')}
@@ -314,7 +314,7 @@ class WordByWord {
           <div class="text-xs text-gray-400 uppercase">${t('transliteration', lang)}</div>
           <div class="italic">${word.translit}</div>
         </div>
-        <div class="ml-auto flex items-center gap-2">
+        <div class="ms-auto flex items-center gap-2">
           <button data-word-copy class="px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg text-sm hover:bg-gray-100 dark:hover:bg-gray-700">
             📋 ${t('copy', lang)}
           </button>
@@ -327,18 +327,19 @@ class WordByWord {
       <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase mb-2">
         ${t('grammar', lang)}
         <a href="https://corpus.quran.com/wordmorphology.jsp?location=${encodeURIComponent(corpusLoc)}"
-           target="_blank" rel="noopener" class="ml-2 text-xs normal-case font-normal text-primary dark:text-blue-400 hover:underline">
+           target="_blank" rel="noopener" class="ms-2 text-xs normal-case font-normal text-primary dark:text-blue-400 hover:underline">
           corpus.quran.com ↗
         </a>
       </h4>
       ${morphHtml}
       ${exactHtml}
       ${rootHtml}
+      ${(word.meaning || '').trim() ? `
       <div class="mt-5">
         <button data-quiz-start class="px-3 py-2 rounded-lg border border-primary text-primary dark:text-blue-400 text-sm hover:bg-blue-50 dark:hover:bg-gray-700">
           🧠 ${t('wbw_quiz_me', lang)}
         </button>
-      </div>
+      </div>` : ''}
       <div id="wdp-quiz"></div>
     `;
 
@@ -390,12 +391,17 @@ class WordByWord {
     const lang = this.language;
     const box = this.panel.querySelector('#wdp-quiz'); if (!box) return;
     const correct = (c.word.meaning || '').trim();
-    if (!correct) return;
     const pool = [];
     (c.ayah.words || []).forEach(w => {
       const m = (w.meaning || '').trim();
       if (m && m !== correct && !pool.includes(m)) pool.push(m);
     });
+    // No gloss for this word (some ur/fa entries are empty) or nothing to
+    // compare it with: say so instead of doing nothing.
+    if (!correct || !pool.length) {
+      box.innerHTML = `<p class="mt-4 text-sm text-gray-500 dark:text-gray-400">${t('quiz_no_data', lang)}</p>`;
+      return;
+    }
     this.shuffle(pool);
     const opts = pool.slice(0, 3);
     opts.push(correct);
@@ -409,7 +415,7 @@ class WordByWord {
         <div class="flex flex-col gap-2">
           ${opts.map(o => `
             <button data-quiz-opt="${encodeURIComponent(o)}"
-                    class="text-left px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm hover:bg-blue-50 dark:hover:bg-gray-700" dir="auto">${o}</button>
+                    class="text-start px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm hover:bg-blue-50 dark:hover:bg-gray-700" dir="auto">${o}</button>
           `).join('')}
         </div>
         <div class="wdp-quiz-result mt-2 text-sm font-medium"></div>
@@ -457,7 +463,8 @@ class WordByWord {
       <div class="mt-5" data-occ-section="${id}">
         <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase mb-2">
           ${headingHtml}
-          — <span class="text-primary dark:text-blue-400">${locations.length}</span> ${t('occurrences', lang)}
+          — ${tPlural('wbw_occurrences_n', locations.length, lang,
+                { n: `<span class="text-primary dark:text-blue-400">${locations.length}</span>` })}
           ${tlBtn}
         </h4>
         <div class="occ-chips flex flex-wrap gap-2"></div>
@@ -485,7 +492,7 @@ class WordByWord {
     ayahTimeline.open({
       titleAr: state.titleAr,
       subtitle: refs.length !== state.locations.length
-        ? `${refs.length} ${t('mt_group_verses_label', lang)} · ${state.locations.length}×` : '',
+        ? `${tPlural('n_verses', refs.length, lang)} · ${state.locations.length}×` : '',
       refs,
       marks
     });
@@ -548,9 +555,9 @@ class WordByWord {
       previewEl.innerHTML = `
         <div class="rounded-lg border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-700/40 p-3">
           <div class="flex items-center gap-2 mb-2">
-            <span class="text-xs font-semibold text-gray-500 dark:text-gray-400">${verse.surahName} ${verse.key}</span>
+            <span class="text-xs font-semibold text-gray-500 dark:text-gray-400">${wbwSurahLabel(verse, lang)} ${verse.key}</span>
             <button data-goto-verse="${verse.key}"
-                    class="ml-auto px-2 py-1 text-xs rounded bg-primary text-white hover:bg-primary/80">
+                    class="ms-auto px-2 py-1 text-xs rounded bg-primary text-white hover:bg-primary/80">
               ${t('open_verse', lang)} →
             </button>
           </div>
@@ -562,6 +569,15 @@ class WordByWord {
       previewEl.innerHTML = `<p class="text-sm text-gray-400 p-2">${t('error', lang)}</p>`;
     }
   }
+}
+
+/**
+ * Surah name in the UI language for a verse header. The verse object only
+ * carries the English name (or, once quran-data stops freezing it, none).
+ */
+function wbwSurahLabel(verse, lang) {
+  const n = (typeof getSurahName === 'function') ? getSurahName(verse.surah, lang) : '';
+  return n || verse.surahName || '';
 }
 
 /**
@@ -586,7 +602,7 @@ function renderSegments(segments, lang) {
         ${segments.map(seg => `
           <div class="flex flex-wrap items-baseline gap-2 text-sm">
             <span class="ayah-arabic !text-lg !mb-0 !pb-0 !border-b-0 min-w-[2.5rem] text-center ${segmentColor(seg)}">${seg.t}</span>
-            <span class="text-gray-700 dark:text-gray-200">${corpusDescribe(seg)}</span>
+            <span class="text-gray-700 dark:text-gray-200">${corpusDescribe(seg, lang)}</span>
             ${seg.r ? `<span class="text-xs text-gray-500 dark:text-gray-400">${t('root', lang)}: <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0">${seg.r.split('').join(' ')}</span></span>` : ''}
             ${seg.l ? `<span class="text-xs text-gray-500 dark:text-gray-400">${t('lemma', lang)}: <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0">${seg.l}</span></span>` : ''}
           </div>`).join('')}

@@ -131,10 +131,25 @@ class LegacyAyah {
     });
 
     if (baseDir) this.rewriteImages(tpl.content, baseDir);
+    this.rewriteLinks(tpl.content);
 
     const div = document.createElement('div');
     div.appendChild(tpl.content);
     return div;
+  }
+
+  /**
+   * The corpus fragments link to site-rooted pages ("/concept.jsp?id=allah"),
+   * which 404 on this origin. Point them at corpus.quran.com in a new tab.
+   */
+  rewriteLinks(root) {
+    root.querySelectorAll('a[href]').forEach(a => {
+      const href = a.getAttribute('href') || '';
+      if (!/^\/[^/]/.test(href)) return;
+      a.setAttribute('href', 'https://corpus.quran.com' + href);
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener');
+    });
   }
 
   /**
@@ -250,7 +265,8 @@ class LegacyAyah {
 
     this.openModal(`${t('irab_label', lang)} — ${surah}:${ayah}`, {
       nav: true,
-      footer: 'Source: corpus.quran.com'
+      // The corpus analysis is English-only third-party data; say so outside en.
+      footer: (lang === 'en' ? '' : t('irab_english_only', lang) + ' · ') + t('irab_source', lang)
     });
     this.updateIrabNav();
     this.modalBody.innerHTML = this.loadingHtml();

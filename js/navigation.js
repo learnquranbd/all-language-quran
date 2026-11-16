@@ -219,9 +219,51 @@ class AppNavigation {
     return this._datasets[name];
   }
 
-  /** Display label for a ported catalog item: Bangla UI gets the original label */
+  /**
+   * Topic-name translations (data/topic-names/<lang>.json, keyed by the English
+   * subject label) shared with the Topics tab. Cached per language; resolves to
+   * {} when the file is missing so callers can always await it.
+   */
+  loadTopicNames(lang) {
+    if (!lang || lang === 'en') return Promise.resolve({});
+    this._topicNames = this._topicNames || {};
+    if (!this._topicNames[lang]) {
+      this._topicNames[lang] = fetch(`data/topic-names/${lang}.json`)
+        .then(r => { if (!r.ok) throw new Error('no names'); return r.json(); })
+        .then(names => {
+          // Case-insensitive index: subjects.json has labels like "ALLAH Names"
+          const lc = {};
+          for (const k of Object.keys(names)) lc[k.toLowerCase()] = names[k];
+          return { names, lc };
+        })
+        .catch(() => { delete this._topicNames[lang]; return {}; });
+    }
+    return this._topicNames[lang];
+  }
+
+  /** Localized topic name for an English label, or '' when none is known. */
+  topicName(en, lang) {
+    const cache = this._topicNamesReady && this._topicNamesReady[lang];
+    if (!cache || !cache.names || !en) return '';
+    return cache.names[en] || cache.lc[en.toLowerCase()] || '';
+  }
+
+  /** Await the topic names for lang and keep them for synchronous lookups. */
+  async readyTopicNames(lang) {
+    const res = await this.loadTopicNames(lang);
+    this._topicNamesReady = this._topicNamesReady || {};
+    this._topicNamesReady[lang] = res;
+    return res;
+  }
+
+  /** Display label for a ported catalog item: Bangla UI gets the original label,
+   *  other languages the topic-names translation of the English label. */
   catalogLabel(item, lang) {
     if (lang === 'bn' && item.bn) return item.bn;
+    if (lang !== 'en' && lang !== 'bn' && item.en) {
+      const loc = this.topicName(item.en, lang);
+      if (loc) return loc;
+    }
     if (item.en) return item.en;
     return (item.slug || '').replace(/^_+/, '').replace(/_+/g, ' ')
       .replace(/\b\w/g, c => c.toUpperCase());
@@ -274,31 +316,31 @@ class AppNavigation {
         <span class="text-xs text-gray-400 dark:text-gray-500 whitespace-nowrap" dir="ltr">${dua.refs}</span>
       </button>`;
     const prophetSection = (typeof PROPHET_DUAS !== 'undefined' && PROPHET_DUAS.length)
-      ? this.sectionHeading('📜 ' + (lang === 'bn' ? 'নবীদের দোয়া' : "Prophets' Du'ās")) +
+      ? this.sectionHeading('📜 ' + t('dua_sec_prophets', lang)) +
         PROPHET_DUAS.map(d => chip(d, '📜')).join('') : '';
     const protectionSection = (typeof PROTECTION_DUAS !== 'undefined' && PROTECTION_DUAS.length)
-      ? this.sectionHeading('🛡️ ' + (lang === 'bn' ? 'সুরক্ষার দোয়া' : "Protection Du'ās")) +
+      ? this.sectionHeading('🛡️ ' + t('dua_sec_protection', lang)) +
         PROTECTION_DUAS.map(d => chip(d, '🛡️')).join('') : '';
     const gratitudeSection = (typeof GRATITUDE_DUAS !== 'undefined' && GRATITUDE_DUAS.length)
-      ? this.sectionHeading('🌸 ' + (lang === 'bn' ? 'শোকরের দোয়া' : "Gratitude Du'ās")) +
+      ? this.sectionHeading('🌸 ' + t('dua_sec_gratitude', lang)) +
         GRATITUDE_DUAS.map(d => chip(d, '🌸')).join('') : '';
     const hardshipSection = (typeof HARDSHIP_DUAS !== 'undefined' && HARDSHIP_DUAS.length)
-      ? this.sectionHeading('🌧️ ' + (lang === 'bn' ? 'বিপদ ও কষ্টের দোয়া' : "Hardship Du'ās")) +
+      ? this.sectionHeading('🌧️ ' + t('dua_sec_hardship', lang)) +
         HARDSHIP_DUAS.map(d => chip(d, '🌧️')).join('') : '';
     const travelSection = (typeof TRAVEL_DUAS !== 'undefined' && TRAVEL_DUAS.length)
-      ? this.sectionHeading('🗺️ ' + (lang === 'bn' ? 'সফরের দোয়া' : "Travel Du'ās")) +
+      ? this.sectionHeading('🗺️ ' + t('dua_sec_travel', lang)) +
         TRAVEL_DUAS.map(d => chip(d, '🗺️')).join('') : '';
     const familySection = (typeof FAMILY_DUAS !== 'undefined' && FAMILY_DUAS.length)
-      ? this.sectionHeading('🏡 ' + (lang === 'bn' ? 'পরিবার ও সন্তানের দোয়া' : "Family & Progeny Du'ās")) +
+      ? this.sectionHeading('🏡 ' + t('dua_sec_family', lang)) +
         FAMILY_DUAS.map(d => chip(d, '🏡')).join('') : '';
     const knowledgeSection = (typeof KNOWLEDGE_DUAS !== 'undefined' && KNOWLEDGE_DUAS.length)
-      ? this.sectionHeading('📚 ' + (lang === 'bn' ? 'জ্ঞানের দোয়া' : "Knowledge Du'ās")) +
+      ? this.sectionHeading('📚 ' + t('dua_sec_knowledge', lang)) +
         KNOWLEDGE_DUAS.map(d => chip(d, '📚')).join('') : '';
     const wealthSection = (typeof WEALTH_DUAS !== 'undefined' && WEALTH_DUAS.length)
-      ? this.sectionHeading('🌾 ' + (lang === 'bn' ? 'রিযিক ও সম্পদের দোয়া' : "Provision & Wealth Du'ās")) +
+      ? this.sectionHeading('🌾 ' + t('dua_sec_wealth', lang)) +
         WEALTH_DUAS.map(d => chip(d, '🌾')).join('') : '';
     const morningEveningSection = (typeof MORNING_EVENING_QURANIC_DUAS !== 'undefined' && MORNING_EVENING_QURANIC_DUAS.length)
-      ? this.sectionHeading('☀️ ' + (lang === 'bn' ? 'সকাল-সন্ধ্যার কুরআনি দোয়া' : "Morning & Evening Quranic Du'ās")) +
+      ? this.sectionHeading('☀️ ' + t('dua_sec_morning_evening', lang)) +
         MORNING_EVENING_QURANIC_DUAS.map(d => chip(d, '☀️')).join('') : '';
 
     this.modalBody.innerHTML = featured + prophetSection + protectionSection + gratitudeSection +
@@ -306,8 +348,8 @@ class AppNavigation {
     this.openModal(t('duas', lang));
 
     // Ported dua collections (data/duas.json)
-    const collections = await this.loadDataset('duas');
-    if (this.modalType !== 'dua' || collections.length === 0) return;
+    const [collections] = await Promise.all([this.loadDataset('duas'), this.readyTopicNames(lang)]);
+    if (this.modalType !== 'dua' || this.language !== lang || collections.length === 0) return;
     this.modalBody.innerHTML =
       this.sectionHeading(t('dua_collections', lang)) +
       collections.map(c => this.catalogButton(c, lang, c.emoji)).join('') +
@@ -349,9 +391,10 @@ class AppNavigation {
 
     // Append ported catalogs: prophet stories + pillars of Islam
     const [stories, pillars, subjects] = await Promise.all([
-      this.loadDataset('stories'), this.loadDataset('pillars'), this.loadDataset('subjects')
+      this.loadDataset('stories'), this.loadDataset('pillars'), this.loadDataset('subjects'),
+      this.readyTopicNames(lang)
     ]);
-    if (this.modalType !== 'topics') return;
+    if (this.modalType !== 'topics' || this.language !== lang) return;
 
     const defaults = this.modalBody.querySelector('#topics-default');
     if (defaults) {
@@ -379,9 +422,15 @@ class AppNavigation {
           return;
         }
         if (defaultsEl) defaultsEl.classList.add('hidden');
-        const matches = subjects.filter(s =>
-          (s.en && s.en.toLowerCase().includes(q)) || (s.bn && s.bn.includes(input.value.trim()))
-        ).slice(0, 60);
+        const raw = input.value.trim();
+        const qLoc = raw.toLocaleLowerCase(lang);
+        const matches = subjects.filter(s => {
+          if (s.en && s.en.toLowerCase().includes(q)) return true;
+          if (s.bn && s.bn.includes(raw)) return true;
+          // Match the label the user actually sees in their language
+          const loc = (lang !== 'en' && lang !== 'bn') ? this.topicName(s.en, lang) : '';
+          return !!loc && loc.toLocaleLowerCase(lang).includes(qLoc);
+        }).slice(0, 60);
         results.innerHTML = matches.length
           ? matches.map(s => this.catalogButton(s, lang)).join('')
           : `<p class="px-4 py-3 text-sm text-gray-500 dark:text-gray-400">${t('no_results', lang)}</p>`;
@@ -803,6 +852,14 @@ class AppNavigation {
     if (rsLabel) rsLabel.textContent = t('surah', lang);
     const rjLabel = this.surahSection.querySelector('.qn-rj-label');
     if (rjLabel) rjLabel.textContent = t('juz', lang);
+    // Tooltips are set once in injectSurahPicker; refresh them too
+    const setTitle = (sel, key) => {
+      const el = this.surahSection.querySelector(sel);
+      if (el) el.setAttribute('title', t(key, lang));
+    };
+    setTitle('#qn-continue', 'continue_reading');
+    setTitle('#qn-rand-surah', 'random_surah_title');
+    setTitle('#qn-rand-juz', 'random_juz_title');
     this.renderQuickExtras();
 
     this.renderSurahList(this.searchInput ? this.searchInput.value : '');

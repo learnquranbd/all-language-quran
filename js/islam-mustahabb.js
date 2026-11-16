@@ -288,9 +288,22 @@ class MustahabbModule {
    * ref sent there produced a modal reading just "Error". */
   isVerseRef(ref) { return /^\d{1,3}:\d{1,3}/.test(String(ref || '').trim()); }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
+  /* Verse chip label. en and bn keep "2:183 Read"; other languages use the
+   * imperative open_verse key, because the shared 'Read' string translates as
+   * "already read" in many packs (de "Gelesen", ar "مقروء"). ref is HTML-safe. */
+  readLbl(ref) {
+    const lang = this.language;
+    if (lang && lang !== 'en' && lang !== 'bn' && typeof t === 'function') {
+      return this.esc(t('open_verse', lang)) + (ref ? ' ' + ref : '');
+    }
+    return (ref ? ref + ' ' : '') + (lang === 'bn' ? 'পড়ুন' : 'Read');
+  }
+
   render() {
     this.rendered = true;
     const L = (o) => this.esc(this.lc(o));
+    /* The two grade paragraphs carry <strong>/<em> in this static data, so
+     * they use this.lc() unescaped; L() showed the tags as text. */
     this.root.innerHTML = `
       <div class="w-full space-y-6 py-4">
 
@@ -305,8 +318,8 @@ class MustahabbModule {
         <div class="rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-5">
           <h3 class="font-bold text-gray-800 dark:text-gray-100 mb-2 flex items-center gap-2">&#9989; ${L({ en: this.tt('islam_mustahabb_grade'), bn: '\u09ae\u09be\u09a8 \u0993 \u09ae\u09c2\u09b2\u09a8\u09c0\u09a4\u09bf' })}</h3>
           <div class="p-4 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40 text-sm text-emerald-800 dark:text-emerald-200 leading-relaxed space-y-2" dir="auto">
-            <p>${L({ en: '<strong>Mustahabb</strong> (also called <em>mandub</em>, <em>sunnah</em> or <em>nadb</em>) is an act the Lawgiver encouraged without making it obligatory. The rule: <em>doing it earns reward; leaving it is not sinful.</em>', bn: '<strong>\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u09b9\u09be\u09ac</strong> (\u09ae\u09be\u09a8\u09a6\u09c2\u09ac, \u09b8\u09c1\u09a8\u09cd\u09a8\u09be\u09a4 \u09ac\u09be \u09a8\u09be\u09a6\u09ac \u09a8\u09be\u09ae\u09c7\u0993 \u09aa\u09b0\u09bf\u099a\u09bf\u09a4) \u09b9\u09b2\u09cb \u09b8\u09c7\u0987 \u0986\u09ae\u09b2 \u09af\u09be \u09b6\u09b0\u09bf\u09af\u09bc\u09a4 \u0989\u09ce\u09b8\u09be\u09b9\u09bf\u09a4 \u0995\u09b0\u09c7\u099b\u09c7 \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09ab\u09b0\u099c \u0995\u09b0\u09c7\u09a8\u09bf\u0964 \u09ae\u09c2\u09b2\u09a8\u09c0\u09a4\u09bf: <em>\u0995\u09b0\u09b2\u09c7 \u09b8\u0993\u09af\u09bc\u09be\u09ac, \u099b\u09be\u09dc\u09b2\u09c7 \u0997\u09c1\u09a8\u09be\u09b9 \u09a8\u09c7\u0987\u0964</em>' })}</p>
-            <p>${L({ en: 'Classical scholars distinguish: <em>sunnah mu\'akkadah</em> (strongly confirmed — habitual omission is blameworthy) and <em>sunnah ghayru mu\'akkadah</em> (light recommendation — no blame at all for omitting). Both fall under mustahabb.', bn: '\u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995\u09cd\u09af\u09be\u09b2 \u0986\u09b2\u09c7\u09ae\u09b0\u09be \u09ac\u09bf\u09ad\u09be\u099c\u09a8 \u0995\u09b0\u09c7\u09a8: <em>\u09b8\u09c1\u09a8\u09cd\u09a8\u09be\u09a4\u09c7 \u09ae\u09c1\u09af\u09bc\u09be\u0995\u09cd\u0995\u09be\u09a6\u09be</em> (\u09a6\u09c3\u09a2\u09bc\u09ad\u09be\u09ac\u09c7 \u09aa\u09cd\u09b0\u09ae\u09be\u09a3\u09bf\u09a4 \u2014 \u0985\u09ad\u09cd\u09af\u09be\u09b8\u0997\u09a4\u09ad\u09be\u09ac\u09c7 \u099b\u09be\u09dc\u09b2\u09c7 \u09a8\u09bf\u09a8\u09cd\u09a6\u09a8\u09c0\u09af\u09bc) \u0993 <em>\u09b8\u09c1\u09a8\u09cd\u09a8\u09be\u09a4 \u0997\u09be\u09af\u09bc\u09b0\u09c7 \u09ae\u09c1\u09af\u09bc\u09be\u0995\u09cd\u0995\u09be\u09a6\u09be</em> (\u09b9\u09be\u09b2\u0995\u09be \u09b8\u09c1\u09aa\u09be\u09b0\u09bf\u09b6 \u2014 \u09ac\u09be\u09a6 \u09a6\u09bf\u09b2\u09c7 \u09a6\u09cb\u09b7 \u09a8\u09c7\u0987)\u0964 \u09a6\u09c1\u099f\u09cb\u0987 \u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u09b9\u09be\u09ac\u09c7\u09b0 \u0985\u09a8\u09cd\u09a4\u09b0\u09cd\u09ad\u09c1\u0995\u09cd\u09a4\u0964' })}</p>
+            <p>${this.lc({ en: '<strong>Mustahabb</strong> (also called <em>mandub</em>, <em>sunnah</em> or <em>nadb</em>) is an act the Lawgiver encouraged without making it obligatory. The rule: <em>doing it earns reward; leaving it is not sinful.</em>', bn: '<strong>\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u09b9\u09be\u09ac</strong> (\u09ae\u09be\u09a8\u09a6\u09c2\u09ac, \u09b8\u09c1\u09a8\u09cd\u09a8\u09be\u09a4 \u09ac\u09be \u09a8\u09be\u09a6\u09ac \u09a8\u09be\u09ae\u09c7\u0993 \u09aa\u09b0\u09bf\u099a\u09bf\u09a4) \u09b9\u09b2\u09cb \u09b8\u09c7\u0987 \u0986\u09ae\u09b2 \u09af\u09be \u09b6\u09b0\u09bf\u09af\u09bc\u09a4 \u0989\u09ce\u09b8\u09be\u09b9\u09bf\u09a4 \u0995\u09b0\u09c7\u099b\u09c7 \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09ab\u09b0\u099c \u0995\u09b0\u09c7\u09a8\u09bf\u0964 \u09ae\u09c2\u09b2\u09a8\u09c0\u09a4\u09bf: <em>\u0995\u09b0\u09b2\u09c7 \u09b8\u0993\u09af\u09bc\u09be\u09ac, \u099b\u09be\u09dc\u09b2\u09c7 \u0997\u09c1\u09a8\u09be\u09b9 \u09a8\u09c7\u0987\u0964</em>' })}</p>
+            <p>${this.lc({ en: 'Classical scholars distinguish: <em>sunnah mu\'akkadah</em> (strongly confirmed — habitual omission is blameworthy) and <em>sunnah ghayru mu\'akkadah</em> (light recommendation — no blame at all for omitting). Both fall under mustahabb.', bn: '\u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995\u09cd\u09af\u09be\u09b2 \u0986\u09b2\u09c7\u09ae\u09b0\u09be \u09ac\u09bf\u09ad\u09be\u099c\u09a8 \u0995\u09b0\u09c7\u09a8: <em>\u09b8\u09c1\u09a8\u09cd\u09a8\u09be\u09a4\u09c7 \u09ae\u09c1\u09af\u09bc\u09be\u0995\u09cd\u0995\u09be\u09a6\u09be</em> (\u09a6\u09c3\u09a2\u09bc\u09ad\u09be\u09ac\u09c7 \u09aa\u09cd\u09b0\u09ae\u09be\u09a3\u09bf\u09a4 \u2014 \u0985\u09ad\u09cd\u09af\u09be\u09b8\u0997\u09a4\u09ad\u09be\u09ac\u09c7 \u099b\u09be\u09dc\u09b2\u09c7 \u09a8\u09bf\u09a8\u09cd\u09a6\u09a8\u09c0\u09af\u09bc) \u0993 <em>\u09b8\u09c1\u09a8\u09cd\u09a8\u09be\u09a4 \u0997\u09be\u09af\u09bc\u09b0\u09c7 \u09ae\u09c1\u09af\u09bc\u09be\u0995\u09cd\u0995\u09be\u09a6\u09be</em> (\u09b9\u09be\u09b2\u0995\u09be \u09b8\u09c1\u09aa\u09be\u09b0\u09bf\u09b6 \u2014 \u09ac\u09be\u09a6 \u09a6\u09bf\u09b2\u09c7 \u09a6\u09cb\u09b7 \u09a8\u09c7\u0987)\u0964 \u09a6\u09c1\u099f\u09cb\u0987 \u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u09b9\u09be\u09ac\u09c7\u09b0 \u0985\u09a8\u09cd\u09a4\u09b0\u09cd\u09ad\u09c1\u0995\u09cd\u09a4\u0964' })}</p>
           </div>
         </div>
 
@@ -317,7 +330,7 @@ class MustahabbModule {
               <div class="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40">
                 <div class="text-sm font-semibold text-emerald-800 dark:text-emerald-200"><span aria-hidden="true">${n.emoji}</span> ${L({ en: n.titleEn, bn: n.titleBn })}</div>
                 <p class="text-xs text-emerald-700 dark:text-emerald-300 mt-1 leading-relaxed" dir="auto">${L({ en: n.descEn, bn: n.descBn })}</p>
-                ${this.isVerseRef(this.esc(n.ref.split(',')[0].trim())) ? `<button type="button" data-mustahabb-ayah="${this.esc(n.ref.split(',')[0].trim())}" class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium hover:bg-emerald-500 hover:text-white transition-colors">&#128214; ${this.esc(n.ref)}</button>` : `<span class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium transition-colors">&#128214; ${this.esc(n.ref)}</span>`}
+                ${this.isVerseRef(this.esc(n.ref.split(',')[0].trim())) ? `<button type="button" data-mustahabb-ayah="${this.esc(n.ref.split(',')[0].trim())}" class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium hover:bg-emerald-500 hover:text-white transition-colors">&#128214; ${this.esc(n.ref)}</button>` : `<span class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium transition-colors">&#128214; ${L({ en: n.ref })}</span>`}
               </div>`).join('')}
           </div>
         </div>
@@ -339,7 +352,7 @@ class MustahabbModule {
             ${MUSTAHABB_QUR.map(q => `
               <div class="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40">
                 <p class="text-sm text-emerald-800 dark:text-emerald-200 leading-relaxed" dir="auto">${L({ en: q.en, bn: q.bn })}</p>
-                ${this.isVerseRef(this.esc(q.ref)) ? `<button type="button" data-mustahabb-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">&#128214; ${this.esc(q.ref)} ${L({ en: 'Read', bn: '\u09aa\u09dc\u09c1\u09a8' })}</button>` : `<span class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium transition-colors">&#128214; ${this.esc(q.ref)} ${L({ en: 'Read', bn: '\u09aa\u09dc\u09c1\u09a8' })}</span>`}
+                ${this.isVerseRef(this.esc(q.ref)) ? `<button type="button" data-mustahabb-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">&#128214; ${this.readLbl(this.esc(q.ref))}</button>` : `<span class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium transition-colors">&#128214; ${L({ en: q.ref })}</span>`}
               </div>`).join('')}
           </div>
         </div>

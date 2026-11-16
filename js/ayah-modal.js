@@ -65,6 +65,33 @@ class AyahModal {
     return (typeof t === 'function') ? t(key, lang) : key;
   }
 
+  /** tt() with a real fallback: t() returns the key itself on a miss. */
+  ttOr(key, fallback) {
+    const v = this.tt(key);
+    return (v && v !== key) ? v : fallback;
+  }
+
+  /** Module content (English source) in the UI language via the content-i18n
+   *  packs; the English when there is no translation. en/bn never look. */
+  _ct(en, ns) {
+    if (!en) return en;
+    const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    if (!lang || lang === 'en' || lang === 'bn' || typeof CI18N === 'undefined' || !CI18N) return en;
+    return CI18N.tr(lang, en, ns) || en;
+  }
+
+  /** Resolves once the UI language's content pack (and `ns`, if given) is in
+   *  memory, so a first paint is not stuck in English. Immediate for en/bn. */
+  _ciReady(ns) {
+    const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    if (typeof CI18N === 'undefined' || !CI18N || !lang || CI18N.SKIP.includes(lang)) return Promise.resolve(false);
+    const shared = `${lang}` in CI18N._files;
+    const own = !ns || `${ns}/${lang}` in CI18N._files;
+    if (shared && own) return Promise.resolve(false);
+    return Promise.all([CI18N.load(lang), ns ? CI18N.load(lang, ns) : null])
+      .then(() => true).catch(() => false);
+  }
+
   normW(x) { return QuranData.normalizeWord ? QuranData.normalizeWord(x || '') : String(x || ''); }
 
   getAudio() {
@@ -95,7 +122,7 @@ class AyahModal {
       <div role="dialog" aria-modal="true" tabindex="-1" class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-3xl max-h-[88vh] flex flex-col focus:outline-none">
         <div class="flex items-center gap-2 px-5 py-3 border-b border-gray-200 dark:border-gray-700">
           <h3 id="sam-title" class="flex-1 font-bold text-gray-800 dark:text-gray-100 truncate"></h3>
-          <button id="sam-close" aria-label="${this.esc(this.tt('close') || 'Close')}" title="${this.esc(this.tt('close') || 'Close')}" class="p-2.5 rounded-lg leading-none text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
+          <button id="sam-close" aria-label="${this.esc(this.ttOr('close', 'Close'))}" title="${this.esc(this.ttOr('close', 'Close'))}" class="p-2.5 rounded-lg leading-none text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
         </div>
         <div id="sam-body" data-lq-autolink class="flex-1 overflow-y-auto p-5"></div>
       </div>`;
@@ -519,11 +546,17 @@ class AyahModal {
       seerah = ids.map((id, i) => Object.assign({ id, anchor: i < anchors }, (ix.t && ix.t[id]) || {}));
     } catch (e) { seerah = []; }
     const bnLang = ((typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en') === 'bn';
+    /* Seerah titles and asbab notes are translated in the shared content pack;
+     * wait for it (only the first time) so they do not paint in English. */
+    if (seerah.length) {
+      try { await this._ciReady(); } catch (e) { /* English */ }
+      if (!this._st || this._st.v.key !== key) return;
+    }
     const seerahChips = seerah.length ? `
       <div class="flex flex-wrap items-center gap-1.5">
         <span class="text-xs text-gray-400 dark:text-gray-500">${this.esc(this._seerahLabel())}</span>
         ${seerah.map(ev => `<button data-seerah-open="${this.esc(ev.id)}" title="${this.esc(this._seerahLabel())}"
-            class="px-2.5 py-1 rounded-full text-xs border ${ev.anchor ? 'border-emerald-300 dark:border-emerald-600/60 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-50' : 'border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100'} dark:hover:bg-emerald-500/10">🌙 ${this.esc((bnLang && ev.bn) || ev.en || ev.id)}${ev.y ? ` · ${this.esc(ev.y)}` : ''}</button>`).join('')}
+            class="px-2.5 py-1 rounded-full text-xs border ${ev.anchor ? 'border-emerald-300 dark:border-emerald-600/60 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-50' : 'border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100'} dark:hover:bg-emerald-500/10">🌙 ${this.esc((bnLang && ev.bn) || this._ct(ev.en) || ev.id)}${ev.y ? ` · ${this.esc(ev.y)}` : ''}</button>`).join('')}
       </div>` : '';
     const topics = this.topicsFor(key);
     const chips = topics.length ? `
@@ -542,15 +575,20 @@ class AyahModal {
     if (!entry) return;
     const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
     const bn = lang === 'bn';
-    const title = (bn && entry.titleBn) || entry.titleEn || '';
-    const ctx = (bn && entry.contextBn) || entry.contextEn || '';
+    if (!bn) {
+      try { await this._ciReady(); } catch (e) { /* English */ }
+      if (!this._st || this._st.v.key !== key) return;
+      if (box.querySelector('[data-sam-asbab]')) return;
+    }
+    const title = (bn && entry.titleBn) || this._ct(entry.titleEn) || '';
+    const ctx = (bn && entry.contextBn) || this._ct(entry.contextEn) || '';
     if (!ctx) return;
     box.insertAdjacentHTML('afterbegin', `
-      <details class="rounded-xl border border-emerald-200 dark:border-emerald-500/30 bg-emerald-50 dark:bg-emerald-500/10 px-4 py-2.5">
+      <details data-sam-asbab class="rounded-xl border border-emerald-200 dark:border-emerald-500/30 bg-emerald-50 dark:bg-emerald-500/10 px-4 py-2.5">
         <summary class="cursor-pointer text-sm font-medium text-emerald-800 dark:text-emerald-200 list-none">
-          📜 ${this.esc(this.tt('nuzul_title'))}${title ? ` · ${this.esc(title)}` : ''}
+          📜 ${this.esc(this.tt('nuzul_title'))}${title ? ` · <bdi>${this.esc(title)}</bdi>` : ''}
         </summary>
-        <p class="mt-2 text-sm text-gray-700 dark:text-gray-200 leading-relaxed">${this.esc(ctx)}</p>
+        <p class="mt-2 text-sm text-gray-700 dark:text-gray-200 leading-relaxed" dir="auto">${this.esc(ctx)}</p>
       </details>`);
     this._link();
   }
@@ -657,9 +695,18 @@ class AyahModal {
     if (!n) return;
     const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
     const bn = lang === 'bn';
-    const refl = (bn && n.reflectionBn) || n.reflectionEn || '';
-    const pts = (bn && n.pointsBn && n.pointsBn.length ? n.pointsBn : (n.pointsEn || []));
-    const lesson = (bn && n.lessonBn) || n.lessonEn || '';
+    /* Other languages: the card prose is translated in the Tadabbur content
+     * pack (data/content-i18n/tadabbur/<lang>.json). If it is not in memory
+     * yet, paint now and repaint once it lands. */
+    if (!bn) {
+      this._ciReady('tadabbur').then((loaded) => {
+        const b = this.overlay && this.overlay.querySelector('#sam-tadabbur');
+        if (loaded && b && !b.classList.contains('hidden') && b.getAttribute('data-tad-scope') === k) this.toggleTadabbur(ref, true);
+      });
+    }
+    const refl = (bn && n.reflectionBn) || this._ct(n.reflectionEn, 'tadabbur') || '';
+    const pts = (bn && n.pointsBn && n.pointsBn.length ? n.pointsBn : (n.pointsEn || []).map(p => this._ct(p, 'tadabbur')));
+    const lesson = (bn && n.lessonBn) || this._ct(n.lessonEn, 'tadabbur') || '';
     /* 319 verses also carry a 1,400-1,800 word article. It is fetched only when
      * the reader opens the panel, so listing it here costs nothing until then. */
     const art = (typeof LQArticle !== 'undefined' && LQArticle && LQArticle.has('tadabbur', k))
@@ -676,9 +723,9 @@ class AyahModal {
       : '';
     box.setAttribute('data-tad-scope', k);
     box.innerHTML = `
-      ${refl ? `<p>🧭 ${this.esc(refl)}</p>` : ''}
-      ${pts.length ? `<ul class="list-disc ms-5 space-y-1">${pts.map(p => `<li>💭 ${this.esc(p)}</li>`).join('')}</ul>` : ''}
-      ${lesson ? `<p class="font-medium">🎯 ${this.esc(lesson)}</p>` : ''}
+      ${refl ? `<p dir="auto">🧭 ${this.esc(refl)}</p>` : ''}
+      ${pts.length ? `<ul class="list-disc ms-5 space-y-1">${pts.map(p => `<li dir="auto">💭 ${this.esc(p)}</li>`).join('')}</ul>` : ''}
+      ${lesson ? `<p class="font-medium" dir="auto">🎯 ${this.esc(lesson)}</p>` : ''}
       ${art}`;
     box.classList.remove('hidden');
     this._link();
@@ -862,7 +909,8 @@ class AyahModal {
     const content = segs.filter(x => !((x.f || []).includes('PREF')));
     const pool = content.length ? content : segs;
     const head = pool.find(x => x.r) || pool.find(x => x.l) || pool[pool.length - 1] || segs[0];
-    const desc = (typeof corpusDescribe === 'function' && head) ? corpusDescribe(head) : (head && head.g || '');
+    const gLang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    const desc = (typeof corpusDescribe === 'function' && head) ? corpusDescribe(head, gLang) : (head && head.g || '');
     const root = segs.map(x => x.r).find(Boolean);
     const lemma = segs.map(x => x.l).find(Boolean);
     const arabic = segs.map(x => x.t).join('');
@@ -872,7 +920,7 @@ class AyahModal {
         <div class="flex flex-wrap items-center gap-x-3 gap-y-1">
           <span class="text-[0.65rem] font-semibold uppercase tracking-wide text-gray-400">${this.tt('sam_word_grammar')}</span>
           <span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0">${arabic}</span>
-          ${desc ? `<span class="text-sm text-gray-600 dark:text-gray-300">${this.esc(desc)}</span>` : ''}
+          ${desc ? `<span class="text-sm text-gray-600 dark:text-gray-300" dir="auto">${this.esc(desc)}</span>` : ''}
         </div>
         <div class="flex flex-wrap items-center gap-2 mt-2">
           ${root ? `<button data-open-sarf-root="${this.esc(root)}" title="${this.esc(this.tt('gr_open_sarf'))}"

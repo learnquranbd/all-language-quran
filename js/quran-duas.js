@@ -236,14 +236,19 @@ class QuranDuasView {
   }
 
   filtered() {
-    const q = this.query.trim().toLowerCase();
+    // Arabic: ignore harakat and Quranic marks so a plain-typed word still matches.
+    const norm = s => String(s || '').toLowerCase().replace(/[ؐ-ًؚ-ٰٟۖ-ۭـ]/g, '');
+    const q = norm(this.query.trim());
     return this.data.duas.filter(d => {
       if (this.theme && d.theme !== this.theme) return false;
       if (this.who && d.who !== this.who) return false;
       if (!q) return true;
-      const hay = [d.title.en, d.title.bn, d.context.en, d.context.bn, this.lc(QDUAS_WHO[d.who]), d.parts.map(p => p.ref).join(' '),
-        d.parts.map(p => p.en.join(' ') + ' ' + p.bn.join(' ')).join(' ')].join(' ').toLowerCase();
-      return hay.includes(q);
+      const list = a => (Array.isArray(a) ? a.join(' ') : (a || ''));
+      const hay = [d.title.en, d.title.bn, d.context.en, d.context.bn, this.lc(d.title), this.lc(d.context),
+        this.lc(QDUAS_WHO[d.who]), d.parts.map(p => p.ref).join(' '),
+        d.parts.map(p => [list(p.ar), list(p.en), list(p.bn), list(this.glossesFor(p)), this.translationFor(d, p.ref)].join(' ')).join(' ')
+      ].join(' ');
+      return norm(hay).includes(q);
     });
   }
 

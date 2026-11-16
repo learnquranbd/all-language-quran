@@ -49,8 +49,15 @@ const CI18N = {
         .then(r => r.ok ? r.json() : null)
         .then(d => {
           this._files[key] = d || null;
-          if (d) {
-            // Repaint any module already rendered in this language.
+          /* Repaint any module already rendered in this language, but only
+           * when it is still the reader's language: a slow pack for the
+           * previous language must not flip modules back to it (consumers set
+           * their language from e.detail.value). */
+          let current = lang;
+          try {
+            if (typeof appSettings !== 'undefined' && appSettings) current = appSettings.get('language');
+          } catch (e) { /* assume current */ }
+          if (d && lang === current) {
             try {
               window.dispatchEvent(new CustomEvent('settingChanged', {
                 detail: { key: 'language', value: lang, contentI18n: true }

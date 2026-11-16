@@ -51,7 +51,13 @@ class SahabaView {
 
   // ── helpers ──────────────────────────────────────────────────────────
   tt(key) {
-    try { const v = t(key, this.language); if (v && v !== key) return v; } catch (_) { /* ignore */ }
+    // The language's own pack wins. t() silently falls back to English, so ask
+    // hasKey() first; otherwise the local SAHABA_UI / CI18N branches never run.
+    try {
+      if (typeof hasKey !== 'function' || hasKey(key, this.language)) {
+        const v = t(key, this.language); if (v && v !== key) return v;
+      }
+    } catch (_) { /* ignore */ }
     const e = (typeof SAHABA_UI !== 'undefined' && SAHABA_UI) ? SAHABA_UI[key] : null;
     if (e) {
       if (this.language && e[this.language]) return e[this.language];
@@ -59,9 +65,9 @@ class SahabaView {
       if (this.language && this.language !== 'en' && typeof CI18N !== 'undefined' && e.en) {
         const tr = CI18N.tr(this.language, e.en); if (tr) return tr;
       }
-      return e.en;
     }
-    return key;
+    try { const v = t(key, this.language); if (v && v !== key) return v; } catch (_) { /* ignore */ }
+    return e ? e.en : key;
   }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
   // Localized content picker: bn → CI18N knowledgebase → en fallback.
@@ -73,6 +79,37 @@ class SahabaView {
     return o.en || o.bn || '';
   }
   loc(item, base) { return this.lc({ en: item[base + 'En'], bn: item[base + 'Bn'] }); }
+  /**
+   * Year line. en shows the authored yearEn as is. Other languages rebuild the
+   * dated patterns ("c. 573-634 CE", "d. c. 52 AH / 672 CE", ...) from the
+   * year_ce / year_ah / year_circa keys and the sahaba_year_died label; the few
+   * free-text values ("d. in Madinah", "1st century AH") go through yearBn / CI18N.
+   */
+  yearText(c) {
+    const raw = (c && c.yearEn) ? String(c.yearEn) : '';
+    if (!raw || !this.language || this.language === 'en') return raw;
+    return this.fmtYear(raw) || this.lc({ en: raw, bn: c.yearBn });
+  }
+  fmtYear(s) {
+    if (typeof tFill !== 'function') return '';
+    const L = this.language;
+    const ce = y => tFill('year_ce', L, { y });
+    const ah = y => tFill('year_ah', L, { y });
+    const circa = y => tFill('year_circa', L, { y });
+    const died = y => {
+      const tpl = this.tt('sahaba_year_died');
+      return (tpl && tpl.indexOf('{y}') >= 0) ? tpl.replace('{y}', y) : y;
+    };
+    let m;
+    if ((m = s.match(/^c\. (\d+)\s*[-\u2013]\s*(\d+) CE$/))) return circa(ce(m[1] + '\u2013' + m[2]));
+    if ((m = s.match(/^d\. (c\. )?(\d+) CE$/))) { const y = ce(m[2]); return died(m[1] ? circa(y) : y); }
+    if ((m = s.match(/^d\. (c\. )?(\d+) AH \/ (c\. )?(\d+) CE$/))) {
+      const y = ah(m[2]) + ' / ' + (m[3] ? circa(ce(m[4])) : ce(m[4]));
+      return died(m[1] ? circa(y) : y);
+    }
+    if ((m = s.match(/^d\. (\d+) CE \((\d+) AH\)$/))) return died(ce(m[1]) + ' (' + ah(m[2]) + ')');
+    return '';
+  }
   // Localized display name: Bengali form for the bn UI, transliteration elsewhere.
   cname(c) { return (this.language === 'bn' && c.bn) ? c.bn : c.translit; }
 
@@ -205,7 +242,7 @@ class SahabaView {
           <div class="h-2 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden">
             <div class="h-full bg-primary transition-all" style="width:${pct}%" data-sahaba-bar></div>
           </div>
-          <div class="text-right mt-1">
+          <div class="text-end mt-1">
             <button type="button" data-sahaba-reset class="text-[0.7rem] text-gray-400 hover:text-red-500 transition-colors">↺ ${this.esc(this.tt('sahaba_reset'))}</button>
           </div>
         </div>
@@ -288,7 +325,7 @@ class SahabaView {
               <span class="font-bold text-gray-800 dark:text-gray-100">${this.esc(this.cname(c))}</span>
               <span class="text-lg font-arabic text-primary" dir="rtl" lang="ar">${this.esc(c.ar)}</span>
             </div>
-            <p class="text-xs text-gray-600 dark:text-gray-300 mt-0.5" dir="auto">${this.esc(this.loc(c, 'role'))} · ${this.esc(c.yearEn)}</p>
+            <p class="text-xs text-gray-600 dark:text-gray-300 mt-0.5" dir="auto">${this.esc(this.loc(c, 'role'))} · ${this.esc(this.yearText(c))}</p>
             <button type="button" data-sahaba-open="${this.esc(c.id)}"
               class="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-primary text-white text-xs font-semibold hover:opacity-90 transition-opacity">
               📖 ${this.esc(this.tt('sahaba_cotd_open'))} ›
@@ -341,7 +378,7 @@ class SahabaView {
           <li class="ms-6">
             <span class="absolute -start-[1.35rem] ring-4 ring-gray-50 dark:ring-gray-900 rounded-full">${this.avatar(c, 'w-9 h-9 text-xs')}</span>
             <button type="button" data-sahaba-open="${this.esc(c.id)}"
-              class="w-full text-left rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} p-4 hover:border-primary hover:shadow-md transition-all">
+              class="w-full text-start rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} p-4 hover:border-primary hover:shadow-md transition-all">
               <div class="flex items-start gap-3">
                 <div class="flex-1 min-w-0">
                   <div class="flex items-center gap-2 flex-wrap">
@@ -349,7 +386,7 @@ class SahabaView {
                     <span class="text-sm font-arabic text-primary" dir="rtl" lang="ar">${this.esc(c.ar)}</span>
                     ${isRead ? '<span class="text-green-500 text-xs">✓</span>' : ''}
                   </div>
-                  <p class="text-xs font-medium text-gray-500 dark:text-gray-400 mt-0.5" dir="auto">${this.esc(this.loc(c, 'role'))} <span class="opacity-60">· ${this.esc(c.yearEn)}</span></p>
+                  <p class="text-xs font-medium text-gray-500 dark:text-gray-400 mt-0.5" dir="auto">${this.esc(this.loc(c, 'role'))} <span class="opacity-60">· ${this.esc(this.yearText(c))}</span></p>
                   <p class="text-xs text-gray-500 dark:text-gray-400 mt-1 italic" dir="auto">“${this.esc(this.loc(c, 'highlight'))}”</p>
                   <div class="flex flex-wrap gap-1 mt-1.5">${this.badges(c)}</div>
                 </div>
@@ -370,7 +407,7 @@ class SahabaView {
           return `
           <div class="contents">
           <button type="button" data-sahaba-open="${this.esc(c.id)}"
-            class="group text-left relative rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} p-4 hover:border-primary hover:shadow-md transition-all">
+            class="group text-start relative rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} p-4 hover:border-primary hover:shadow-md transition-all">
             <div class="flex items-center gap-2.5 mb-2">
               ${this.avatar(c, 'w-10 h-10 text-sm')}
               <div class="min-w-0">
@@ -428,7 +465,7 @@ class SahabaView {
       <div class="rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden mb-4">
         <div class="relative p-5 bg-gradient-to-br from-primary/10 to-transparent">
           <button type="button" data-sahaba-close="${this.esc(c.id)}"
-            class="absolute top-3 end-3 inline-flex items-center justify-center w-8 h-8 rounded-full bg-white/80 dark:bg-gray-800/80 text-gray-500 hover:text-primary hover:bg-white dark:hover:bg-gray-700 shadow-sm transition-colors z-10" title="Close">✕</button>
+            class="absolute top-3 end-3 inline-flex items-center justify-center w-8 h-8 rounded-full bg-white/80 dark:bg-gray-800/80 text-gray-500 hover:text-primary hover:bg-white dark:hover:bg-gray-700 shadow-sm transition-colors z-10" title="${this.esc(this.tt('close'))}" aria-label="${this.esc(this.tt('close'))}">✕</button>
           <div class="flex items-center gap-3">
             ${this.avatar(c, 'w-14 h-14 text-lg')}
             <div class="min-w-0">
@@ -436,7 +473,7 @@ class SahabaView {
                 <span class="font-bold text-lg text-gray-800 dark:text-gray-100">${this.esc(this.cname(c))}</span>
                 <span class="text-xl font-arabic text-primary" dir="rtl" lang="ar">${this.esc(c.ar)}</span>
               </div>
-              <p class="text-xs text-gray-500 dark:text-gray-400 mt-0.5" dir="auto">${this.esc(this.loc(c, 'role'))} · ${this.esc(c.yearEn)}</p>
+              <p class="text-xs text-gray-500 dark:text-gray-400 mt-0.5" dir="auto">${this.esc(this.loc(c, 'role'))} · ${this.esc(this.yearText(c))}</p>
               <div class="flex flex-wrap gap-1 mt-1.5">${this.badges(c)}</div>
             </div>
           </div>
@@ -605,7 +642,7 @@ class SahabaView {
         else { cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 opacity-60'; }
       }
       return `<button type="button" ${answered ? 'disabled' : ''} data-sahaba-quiz-answer="${this.esc(id)}"
-        class="w-full flex items-center justify-between gap-2 text-left px-4 py-3 rounded-xl border font-medium text-gray-700 dark:text-gray-200 transition-colors ${cls}">
+        class="w-full flex items-center justify-between gap-2 text-start px-4 py-3 rounded-xl border font-medium text-gray-700 dark:text-gray-200 transition-colors ${cls}">
         <span dir="auto">${this.esc(this.quizOptionLabel(cur, id))}</span> ${mark}</button>`;
     }).join('');
 

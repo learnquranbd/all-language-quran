@@ -154,10 +154,13 @@ class Sarf {
 
   tt(key) { return t(key, this.language); }
 
-  /** Like tt(), but prefers the local SARF_STRINGS map for enrichment-only keys. */
+  /** Local SARF_STRINGS for the UI language, then the t() pack, then English. */
   ui(key) {
-    const map = SARF_STRINGS[this.language] || SARF_STRINGS.en;
-    return (map && map[key]) || (SARF_STRINGS.en && SARF_STRINGS.en[key]) || t(key, this.language);
+    const map = SARF_STRINGS[this.language];
+    if (map && map[key]) return map[key];
+    const v = t(key, this.language);
+    if (v && v !== key) return v;
+    return (SARF_STRINGS.en && SARF_STRINGS.en[key]) || key;
   }
 
   // ---- Persistence (localStorage, defensive) -----------------------------
@@ -207,10 +210,14 @@ class Sarf {
     return `sarf-fav ms-auto shrink-0 text-base leading-none cursor-pointer select-none transition-colors ${on ? 'text-amber-400' : 'text-gray-300 dark:text-gray-600 hover:text-amber-400'}`;
   }
 
-  /** Localized gloss for a root, falling back to the English gloss in sarf.json. */
+  /** Localized gloss for a root: SARF_GLOSS, then the 'sarf' content-i18n
+   *  namespace, then the English gloss in sarf.json. */
   gloss(root) {
     const map = SARF_GLOSS[this.language];
-    return (map && map[root]) || this.data.roots[root].gloss || '';
+    if (map && map[root]) return map[root];
+    const en = this.data.roots[root].gloss || '';
+    if (!en || this.language === 'en' || typeof CI18N === 'undefined' || !CI18N) return en;
+    try { return CI18N.tr(this.language, en, 'sarf') || en; } catch (e) { return en; }
   }
 
   /** Per-form meaning in the UI language (fetched WBW), falling back to the baked English. */

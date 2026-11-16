@@ -52,6 +52,12 @@ if (typeof document !== 'undefined') (function () {
   });
 })();
 
+/** Rule name in `lang` via the shared resolver (js/tajweed-data.js), English label fallback. */
+function tajweedLabel(key, lang) {
+  if (typeof tajweedRuleName === 'function') return tajweedRuleName(key, lang);
+  return (TAJWEED_RULES[key] || {}).label || key;
+}
+
 const TajweedData = {
   _cache: {},
 
@@ -70,8 +76,9 @@ const TajweedData = {
   /**
    * Colored HTML for one ayah, or null when unavailable.
    * Annotations are UTF-16 char ranges [start, end) over the verse string.
+   * `lang` localises the hover title (defaults to the UI language).
    */
-  async renderAyah(surah, ayah) {
+  async renderAyah(surah, ayah, lang) {
     const data = await this.load(surah);
     const text = data.text[`verse_${ayah}`];
     if (!text) return null;
@@ -83,6 +90,9 @@ const TajweedData = {
     let html = '';
     let cursor = 0;
     const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+    const escAttr = s => esc(String(s)).replace(/"/g, '&quot;');
+    if (!lang) lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    const titles = {};
 
     for (const ann of anns) {
       const start = Math.max(ann.start, cursor);
@@ -91,7 +101,7 @@ const TajweedData = {
       if (start > cursor) html += esc(text.slice(cursor, start));
       const rule = TAJWEED_RULES[ann.rule];
       html += rule
-        ? `<span class="tj-seg cursor-pointer" style="color:${rule.color}" title="${rule.label}" data-tj-rule="${ann.rule}">${esc(text.slice(start, end))}</span>`
+        ? `<span class="tj-seg cursor-pointer" style="color:${rule.color}" title="${titles[ann.rule] || (titles[ann.rule] = escAttr(tajweedLabel(ann.rule, lang)))}" data-tj-rule="${ann.rule}">${esc(text.slice(start, end))}</span>`
         : esc(text.slice(start, end));
       cursor = end;
     }
@@ -104,7 +114,7 @@ const TajweedData = {
     return `
       <div class="flex flex-wrap gap-x-4 gap-y-1.5 justify-end">
         ${Object.entries(TAJWEED_RULES).map(([key, rule]) => {
-          const name = (typeof TAJWEED_LESSONS !== 'undefined' && TAJWEED_LESSONS[key] && TAJWEED_LESSONS[key].names && TAJWEED_LESSONS[key].names[lang]) || rule.label;
+          const name = tajweedLabel(key, lang);
           return `
           <span class="tj-item relative group inline-flex items-center gap-1.5 text-xs text-gray-600 dark:text-gray-300 cursor-help" dir="auto">
             <span class="inline-block w-3 h-3 rounded-full" style="background:${rule.color}"></span>${name}
@@ -202,7 +212,7 @@ const TajweedGuide = {
    */
   _rowsHtml(lang, tipSide) {
     return Object.entries(TAJWEED_RULES).map(([key, rule]) => {
-      const name = (typeof TAJWEED_LESSONS !== 'undefined' && TAJWEED_LESSONS[key] && TAJWEED_LESSONS[key].names && TAJWEED_LESSONS[key].names[lang]) || rule.label;
+      const name = tajweedLabel(key, lang);
       const nameColor = rule.color === '#AAAAAA' ? '#ddd' : rule.color;
       const tip = tipSide
         ? `<span class="tj-tip hidden group-hover:block absolute ${tipSide} top-1/2 -translate-y-1/2 w-64 p-2.5 rounded-lg

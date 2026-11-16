@@ -168,8 +168,11 @@ class VocabTrainer {
     return (n.en && typeof CI18N !== 'undefined' && CI18N.tr(this.language, n.en)) || n.en;
   }
 
+  /** A word's meaning: inline per-language value, then the content dictionary, else English. */
   meaningOf(word) {
-    return word.meanings[this.language] || word.meanings.en;
+    const m = word.meanings || {};
+    if (m[this.language]) return m[this.language];
+    return (m.en && typeof CI18N !== 'undefined' && CI18N.tr(this.language, m.en)) || m.en;
   }
 
   /** t() with {placeholder} substitution. */
@@ -1298,9 +1301,9 @@ class VocabTrainer {
       <div class="mt-6">
         <h3 class="text-xs uppercase font-semibold text-gray-400 dark:text-gray-500 mb-2 text-center">🌐 ${t('resources_title', lang)}</h3>
         <div class="flex flex-wrap justify-center gap-2">
-          <a href="https://corpus.quran.com/wordbyword.jsp" target="_blank" rel="noopener" class="flex items-center gap-2 px-3 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:shadow text-sm"><span>🏛️</span><span class="font-medium">Quranic Corpus</span><span class="text-xs text-gray-400">word grammar &amp; morphology</span></a>
-          <a href="https://understandquran.com" target="_blank" rel="noopener" class="flex items-center gap-2 px-3 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:shadow text-sm"><span>📗</span><span class="font-medium">UnderstandQuran</span><span class="text-xs text-gray-400">80% words course</span></a>
-          <a href="https://quranwbw.com" target="_blank" rel="noopener" class="flex items-center gap-2 px-3 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:shadow text-sm"><span>🔤</span><span class="font-medium">QuranWBW</span><span class="text-xs text-gray-400">word-by-word reader</span></a>
+          <a href="https://corpus.quran.com/wordbyword.jsp" target="_blank" rel="noopener" class="flex items-center gap-2 px-3 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:shadow text-sm"><span>🏛️</span><span class="font-medium">Quranic Corpus</span><span class="text-xs text-gray-400">${t('res_grammar_corpus', lang)}</span></a>
+          <a href="https://understandquran.com" target="_blank" rel="noopener" class="flex items-center gap-2 px-3 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:shadow text-sm"><span>📗</span><span class="font-medium">UnderstandQuran</span><span class="text-xs text-gray-400">${t('res_80_words_course', lang)}</span></a>
+          <a href="https://quranwbw.com" target="_blank" rel="noopener" class="flex items-center gap-2 px-3 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:shadow text-sm"><span>🔤</span><span class="font-medium">QuranWBW</span><span class="text-xs text-gray-400">${t('res_wbw_reader', lang)}</span></a>
         </div>
       </div>
     `;
@@ -1365,13 +1368,16 @@ class VocabTrainer {
       });
   }
 
-  /** Localized root gloss: SARF_GLOSS (defined in js/sarf.js) → English gloss. */
+  /** Localized root gloss: SARF_GLOSS (defined in js/sarf.js), then the 'sarf'
+   *  content-i18n namespace, then the English gloss. */
   rootGloss(root, info) {
     if (typeof SARF_GLOSS !== 'undefined'
         && SARF_GLOSS[this.language] && SARF_GLOSS[this.language][root]) {
       return SARF_GLOSS[this.language][root];
     }
-    return (info && info.gloss) || '';
+    const en = (info && info.gloss) || '';
+    if (!en || this.language === 'en' || typeof CI18N === 'undefined' || !CI18N) return en;
+    try { return CI18N.tr(this.language, en, 'sarf') || en; } catch (e) { return en; }
   }
 
   /** Random verb form {text, meaning} from a sarf root entry. */
