@@ -33463,6 +33463,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Trace your food back to the rain and to the One who sends it, and let ordinary meals become signs that move you to think and to give thanks.",
     "lessonBn": "নিজের খাবারকে বৃষ্টি পর্যন্ত, আর যিনি বৃষ্টি পাঠান তাঁর পর্যন্ত খুঁজে দেখুন। প্রতিদিনের সাধারণ খাবারও যেন নিদর্শন হয়ে আপনাকে চিন্তা আর শোকরের দিকে টানে।"
+  },
+  "16:46": {
+    "reflectionEn": "The verse before this one asks whether those who plotted evil feel safe from the earth giving way beneath them, or from a punishment arriving from where they never look. This verse adds a third possibility, and it is the most ordinary of all: that He seize them in their going about. On the road, in the market, in the busy round of night and day, while nothing of the kind crosses the mind. Then it closes the last exit: they cannot escape Him. The threat is aimed at people who plotted against the truth, not at whoever happens to fall ill or meet an accident. Still, it asks something of me. Does my busy day leave any room for the thought of Him?",
+    "reflectionBn": "আগের আয়াত জিজ্ঞেস করে, যারা মন্দ চক্রান্ত করেছে তারা কি নির্ভয় হয়ে গেছে যে পায়ের নিচের মাটি ধসে যাবে না, কিংবা এমন দিক থেকে শাস্তি আসবে না যেদিকে তারা তাকায়ও না? এ আয়াত তৃতীয় আরেকটা সম্ভাবনা যোগ করে, আর সেটা সবচেয়ে সাধারণ: তিনি তাদের ধরবেন তাদের চলাফেরার মধ্যেই। পথে, বাজারে, দিনরাতের ব্যস্ত আসা-যাওয়ায়, যখন এমন কিছুর কথা মনেও আসে না। তারপর শেষ দরজাটাও বন্ধ করে দেয়: তাঁকে তারা ব্যর্থ করতে পারবে না। এ হুমকি সত্যের বিরুদ্ধে চক্রান্তকারীদের জন্য। যে অসুস্থ হলো বা দুর্ঘটনায় পড়ল, তার দিকে আঙুল তোলার জন্য নয়। তবু আমার কাছেও এ আয়াত একটা প্রশ্ন রাখে। আমার ব্যস্ত দিনে কি তাঁর কথা ভাবার একটুও জায়গা থাকে?",
+    "pointsEn": [
+      "On my busiest day this week, at what moment, if any, did I remember Allah without being reminded?",
+      "Which part of my routine, the commute, the shop, the screen, has quietly become the place where I forget Him?",
+      "If I were taken in the middle of what I am doing now, would I be content to be found doing it?",
+      "Do I treat the time Allah has given me as safety, or as a respite to use for turning back to Him?",
+      "When I hear of someone's sudden illness or accident, do I reach for a verdict on them, or for a lesson for myself?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহের সবচেয়ে ব্যস্ত দিনে কোন মুহূর্তে, কেউ মনে করিয়ে দেওয়ার আগেই, আমি আল্লাহকে স্মরণ করেছি? আদৌ করেছি কি?",
+      "আমার রোজকার কোন অংশ, যাতায়াত, দোকান, নাকি পর্দার সামনে বসা, চুপচাপ এমন জায়গা হয়ে গেছে যেখানে আমি তাঁকে ভুলে থাকি?",
+      "এই মুহূর্তে যে কাজ করছি, তার মাঝখানেই যদি আমাকে তুলে নেওয়া হয়, এ অবস্থায় পাওয়া যাওয়াটা কি আমি পছন্দ করব?",
+      "আল্লাহ যে সময়টা দিয়েছেন, সেটাকে কি আমি নিরাপত্তা ভেবে বসে আছি, নাকি তাঁর দিকে ফেরার অবকাশ হিসেবে কাজে লাগাচ্ছি?",
+      "কারও হঠাৎ অসুখ বা দুর্ঘটনার খবর পেলে আমি কি তার সম্পর্কে রায় খুঁজি, নাকি নিজের জন্য শিক্ষা খুঁজি?"
+    ],
+    "lessonEn": "No journey, trade or busy hour puts anyone beyond Allah's reach. Keep Him in mind in the middle of the day, and use His respite to turn back to Him.",
+    "lessonBn": "কোনো সফর, ব্যবসা বা ব্যস্ত সময় কাউকে আল্লাহর নাগালের বাইরে নিয়ে যায় না। দিনের ব্যস্ততার মাঝেও তাঁকে মনে রাখুন, আর তাঁর দেওয়া অবকাশ কাজে লাগিয়ে তাঁর দিকে ফিরে আসুন।"
   }
 };
 

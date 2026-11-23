@@ -2387,6 +2387,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:46": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Carried Forward",
+          "bn": "প্রশ্নটা চলতেই থাকে"
+        },
+        "p": [
+          {
+            "en": "Aw ya'khudhahum fi taqallubihim, fa-ma hum bi-mu'jizin: or that He seize them in their going about, and they cannot frustrate Him. The verse opens on aw, or, so it is not a new sentence but the next limb of a question begun in 16:45: do those who plotted evil deeds feel secure that Allah will not make the earth swallow them, or that the punishment will not come upon them from where they do not perceive? Here the question gains a third limb, and 16:47 will add a fourth.",
+            "bn": "আও ইয়া'খুযাহুম ফী তাকাল্লুবিহিম, ফামা হুম বিমু'জিযীন: অথবা তিনি তাদের ধরবেন তাদের চলাফেরার মধ্যে, আর তারা তাঁকে ব্যর্থ করতে পারবে না। আয়াতটি শুরু হয় 'আও' দিয়ে, মানে 'অথবা'। তাই এটা নতুন কোনো বাক্য নয়। ১৬:৪৫ আয়াতে যে প্রশ্ন শুরু হয়েছিল, এ তারই পরের অংশ। সেখানে জিজ্ঞাসা ছিল: যারা মন্দ চক্রান্ত করেছে, তারা কি নির্ভয় হয়ে গেছে যে আল্লাহ তাদেরকে মাটিতে ধসিয়ে দেবেন না, কিংবা এমন দিক থেকে শাস্তি আসবে না যা তারা টেরও পাবে না? এখানে প্রশ্নে যোগ হলো তৃতীয় অংশ, আর ১৬:৪৭ যোগ করবে চতুর্থটি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an places the passage in the surah's flow. Earlier verses, it says, warned the disbelievers of the punishment of the Hereafter, citing 16:27, Then on the Day of Resurrection He will disgrace them. Now they are warned that they may also be caught by a punishment from Allah right here in this world, well before the punishment of the Hereafter. The abridged Ibn Kathir opens the group differently, on Allah's patience: He delays the punishment of those who do evil and plot to call others to it, though He is able to make the earth swallow them.",
+            "bn": "সূরার ধারায় এ অংশের জায়গা কোথায়, মাআরিফুল কুরআন তা দেখিয়ে দেয়। তার কথায়, আগের আয়াতগুলো কাফিরদের সতর্ক করেছিল আখিরাতের শাস্তি সম্পর্কে, যেমন ১৬:২৭: তারপর কিয়ামতের দিন তিনি তাদের লাঞ্ছিত করবেন। এবার তাদের সতর্ক করা হচ্ছে যে আখিরাতের অনেক আগে এই দুনিয়াতেই আল্লাহর শাস্তি তাদের ধরে ফেলতে পারে। সংক্ষিপ্ত ইবন কাসীর এ আয়াতগুচ্ছ শুরু করেন অন্য দিক থেকে, আল্লাহর ধৈর্যের কথা দিয়ে। যারা মন্দ কাজ করে আর অন্যদেরও সেদিকে ডাকার ফন্দি আঁটে, তিনি তাদের শাস্তি পিছিয়ে রাখেন, যদিও মাটিতে ধসিয়ে দেওয়ার পূর্ণ ক্ষমতা তাঁর আছে।"
+          },
+          {
+            "en": "As-Sa'di reads 16:45 to 16:47 as one passage and names its purpose in his first words: this is a warning from Allah to the people of disbelief and denial and of the various kinds of disobedience, that He may seize them with punishment 'ala ghirra, unawares, while they do not perceive. The Muyassar names the same people as the disbelievers who devise schemes. So the verse is addressed, in the first place, to people who had set themselves to plot against the truth.",
+            "bn": "সা'দী ১৬:৪৫ থেকে ১৬:৪৭ পর্যন্ত এক অংশ হিসেবে পড়েন, আর প্রথম কথাতেই এর উদ্দেশ্য বলে দেন। এ হলো আল্লাহর পক্ষ থেকে সতর্কবাণী, কুফরি ও মিথ্যারোপকারী আর নানা রকম নাফরমানিতে লিপ্ত লোকদের প্রতি। তিনি তাদের শাস্তি দিয়ে ধরতে পারেন 'আলা গিররা, অর্থাৎ অসতর্ক অবস্থায়, যখন তারা কিছুই টের পায় না। মুয়াসসারও একই লোকদের কথা বলে: চক্রান্ত রচনাকারী কাফিররা। তাই আয়াতের প্রথম লক্ষ্য সেই লোকেরা, যারা সত্যের বিরুদ্ধে ষড়যন্ত্রে লেগে গিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What It Means to Be Taken",
+          "bn": "ধরা পড়ার অর্থ"
+        },
+        "p": [
+          {
+            "en": "The verb is ya'khudhahum, that He take or seize them. The commentators fill in what the seizing is. Al-Baghawi supplies the missing word: bil-'adhab, He seizes them with punishment. At-Tabari glosses the verb more starkly as aw yuhlikahum, or that He destroy them. The Muyassar shifts the grammar and makes the punishment the subject: or the punishment takes them. All three agree on the point that matters: the seizing in this verse is not a gentle arrest but the punishment itself, reaching people where they are.",
+            "bn": "ক্রিয়াটি হলো ইয়া'খুযাহুম, তিনি তাদের ধরবেন বা পাকড়াও করবেন। ধরাটা কীসের, তাফসীরকারেরা তা খুলে বলেন। বাগাভী না-বলা শব্দটি জুড়ে দেন: বিল-আযাব, অর্থাৎ শাস্তি দিয়ে ধরবেন। তাবারী আরও কড়া ভাষায় ব্যাখ্যা করেন: আও ইউহলিকাহুম, অথবা তিনি তাদের ধ্বংস করে দেবেন। মুয়াসসার বাক্যের গঠন বদলে শাস্তিকেই কর্তা বানায়: অথবা শাস্তি তাদের ধরে ফেলবে। আসল কথায় তিনজনই এক। এ আয়াতের পাকড়াও মৃদু কোনো আটক নয়। এ হলো স্বয়ং শাস্তি, যা মানুষকে ধরে ফেলে সে যেখানে আছে সেখানেই।"
+          },
+          {
+            "en": "The same verb returns at once. 16:47 begins aw ya'khudhahum again, the identical words, and only the circumstance changes. The repetition is itself part of the warning. Across 16:45 to 16:47 the setting moves from the ground beneath them, to an unseen direction, to their daily movement, to their state of fear. Whatever the setting, the one who seizes is the same, and the verse's last clause will say that no setting offers a way out of His hold.",
+            "bn": "একই ক্রিয়া সঙ্গে সঙ্গে ফিরে আসে। ১৬:৪৭ আয়াত আবার শুরু হয় হুবহু 'আও ইয়া'খুযাহুম' দিয়ে, বদলায় শুধু অবস্থাটা। এই পুনরাবৃত্তি নিজেই সতর্কবাণীর অংশ। ১৬:৪৫ থেকে ১৬:৪৭ পর্যন্ত দৃশ্য সরে যায়: পায়ের নিচের মাটি, তারপর অদেখা কোনো দিক, তারপর রোজকার চলাফেরা, শেষে ভয়ে কাঁপতে থাকা অবস্থা। দৃশ্য যা-ই হোক, যিনি ধরেন তিনি একজনই। আর আয়াতের শেষ অংশ জানিয়ে দেবে, কোনো অবস্থাই তাঁর মুঠো থেকে বেরোনোর পথ দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "On the Road and in Trade",
+          "bn": "পথে আর লেনদেনে"
+        },
+        "p": [
+          {
+            "en": "Fi taqallubihim is the verse's centre. The abridged Ibn Kathir renders it their going to and fro, and the commentators' first reading takes it as travel. At-Tabari explains it as their moving about in the lands and their going back and forth on their journeys. He cites Qatadah, by two chains, saying simply fi asfarihim, on their journeys, and Ibn 'Abbas, in a chain through Mu'awiya from 'Ali, explaining the seizure as being taken on a journey. Al-Qurtubi gives the travel reading first, in Qatadah's name, adding tasarrufihim, their dealings.",
+            "bn": "ফী তাকাল্লুবিহিম হলো আয়াতের কেন্দ্র। সংক্ষিপ্ত ইবন কাসীরের ইংরেজিতে এর অর্থ এদিক-ওদিক আসা-যাওয়া। তাফসীরকারদের প্রথম ব্যাখ্যা একে সফর অর্থে নেয়। তাবারী বলেন, এর মানে দেশে দেশে তাদের ঘোরাফেরা আর সফরে আসা-যাওয়া। তিনি দুটি সনদে কাতাদার কথা আনেন, যিনি সোজাসুজি বলেছেন: ফী আসফারিহিম, তাদের সফরে। মুআবিয়া থেকে আলীর সনদে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যাও আনেন: পাকড়াওটা হবে সফরের মধ্যে। কুরতুবীও কাতাদার নামে প্রথমে সফরের ব্যাখ্যা দেন, সঙ্গে যোগ করেন তাসাররুফিহিম, তাদের কাজকারবার।"
+          },
+          {
+            "en": "Ibn Kathir widens the frame from the road to the whole working life. In their taqallub, he says, means in their going about in their livelihoods and their absorption in them, journeys and other such occupations that distract, al-ashghal al-mulhiya. He then adds that Qatadah and as-Suddi both said their journeys. The Muyassar keeps both strands together in its paraphrase: or the punishment takes them while they go about on their journeys and their dealings. Al-Baghawi has the same pair, their tasarruf on journeys.",
+            "bn": "ইবন কাসীর ছবিটা পথ থেকে বাড়িয়ে গোটা কর্মজীবনে নিয়ে যান। তাঁর মতে তাকাল্লুব মানে জীবিকার পেছনে তাদের ছোটাছুটি আর তাতে ডুবে থাকা। সফর আর এ ধরনের আরও যত কাজ মানুষকে ভুলিয়ে রাখে, তিনি বলেন আল-আশগাল আল-মুলহিয়া। তারপর জানান, কাতাদা ও সুদ্দী দুজনেই বলেছেন: তাদের সফর। মুয়াসসার তার ব্যাখ্যায় দুটো সুতো একসঙ্গে রাখে: অথবা শাস্তি তাদের ধরবে যখন তারা সফরে আর কাজকারবারে ঘুরে বেড়াচ্ছে। বাগাভীতেও একই জোড়া: সফরে তাদের তাসাররুফ।"
+          },
+          {
+            "en": "The detail matters for the verse's force. In each of these readings people are out on business, on the move, occupied. Ibn Kathir's word mulhiya, distracting, names exactly what makes such a moment dangerous: the mind is full of the business at hand. As-Sa'di says the same in his own terms. The seizure comes in the state of their taqallub and their busyness, wa-'adam khutur al-'adhab bi-balihim, when punishment does not so much as cross their minds.",
+            "bn": "আয়াতের জোর বুঝতে এ খুঁটিনাটির দাম আছে। এসব ব্যাখ্যার প্রতিটিতে মানুষ কাজে বেরিয়েছে, পথে আছে, ব্যস্ত। ইবন কাসীরের শব্দ 'মুলহিয়া', মানে যা ভুলিয়ে রাখে, ঠিক সে জিনিসটাকেই চিহ্নিত করে যা এমন মুহূর্তকে বিপজ্জনক বানায়: মন তখন হাতের কাজে ভরা। সা'দী নিজের ভাষায় একই কথা বলেন। পাকড়াও আসে তাদের ঘোরাফেরা আর ব্যস্ততার মধ্যে, ওয়া আদাম খুতূরিল আযাবি বিবালিহিম, যখন শাস্তির কথা তাদের মনে উঁকিও দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "By Night, by Day, Abed",
+          "bn": "রাতে, দিনে, বিছানায়"
+        },
+        "p": [
+          {
+            "en": "A second reading takes taqallub as time rather than road. Ibn Kathir reports that Mujahid and ad-Dahhak said: fi taqallubihim, in the night and the day. Al-Qurtubi gives the same in ad-Dahhak's name, and at-Tabari relays it from Ibn Jurayj: the taqallub is that He seize them by night and by day. Ibn Kathir then sets 7:97 and 7:98 beside it: did the people of the towns feel secure that Our might would come upon them by night while they slept, or in the forenoon while they played?",
+            "bn": "দ্বিতীয় ব্যাখ্যায় তাকাল্লুব মানে পথ নয়, সময়। ইবন কাসীর জানান, মুজাহিদ ও দাহহাক বলেছেন: ফী তাকাল্লুবিহিম, মানে রাতে ও দিনে। কুরতুবীও দাহহাকের নামে একই কথা দেন। তাবারী তা আনেন ইবন জুরাইজ থেকে: তাকাল্লুব হলো রাতে ও দিনে তাদের ধরে ফেলা। ইবন কাসীর এর পাশে রাখেন ৭:৯৭ ও ৭:৯৮: জনপদের লোকেরা কি নিশ্চিন্ত হয়ে গেছে যে আমার শাস্তি তাদের উপর রাতে আসবে না যখন তারা ঘুমিয়ে থাকে? কিংবা পূর্বাহ্ণে আসবে না যখন তারা খেলায় মেতে থাকে?"
+          },
+          {
+            "en": "Two narrower readings sit beside these. Al-Qurtubi records, under qila, it is said, that it means their turning over on their beds, wherever they are. Al-Baghawi reports Ibn 'Abbas as saying fi ikhtilafihim, which he leaves unexplained, and Ibn Jurayj as saying in their coming and their going. Ibn Jurayj is thus quoted with night and day in at-Tabari and with coming and going in al-Baghawi. The two glosses describe the same restless motion of a life, measured once by the clock and once by the doorstep.",
+            "bn": "এগুলোর পাশে আরও দুটি সরু ব্যাখ্যা আছে। কুরতুবী 'কীলা', অর্থাৎ 'বলা হয়' কথাটি দিয়ে উল্লেখ করেন, এর মানে যেখানেই থাকুক, বিছানায় তাদের পাশ ফেরা। বাগাভী ইবন আব্বাস (রাঃ)-এর কথা আনেন: ফী ইখতিলাফিহিম, তবে এর ব্যাখ্যা দেন না। আর ইবন জুরাইজের কথা: তাদের আসা আর যাওয়ার মধ্যে। তাহলে তাবারীতে ইবন জুরাইজের কথা রাত-দিন নিয়ে, আর বাগাভীতে আসা-যাওয়া নিয়ে। দুটো ব্যাখ্যাই জীবনের একই অস্থির চলাচলের ছবি। একটা মাপে ঘড়ি দিয়ে, অন্যটা ঘরের চৌকাঠ দিয়ে।"
+          },
+          {
+            "en": "These readings sit together easily. At-Tabari gives his own gloss of moving about the lands and on journeys, says the people of interpretation said something like it, and names Ibn 'Abbas and Qatadah. He then adds Ibn Jurayj's night-and-day reading on its own, without arguing against it. Ibn Kathir keeps both within a few lines. Each reading names an ordinary state: travelling, trading, night and day, lying abed, coming and going. Taken together, they leave no hour and no place on the road outside Allah's reach.",
+            "bn": "এসব ব্যাখ্যা সহজেই পাশাপাশি থাকে। তাবারী নিজের ব্যাখ্যা দেন, দেশে দেশে আর সফরে ঘোরাফেরা। তারপর বলেন, তাফসীরের আলেমরাও এর কাছাকাছি কথা বলেছেন, আর ইবন আব্বাস (রাঃ) ও কাতাদার নাম আনেন। এরপর আলাদা করে যোগ করেন ইবন জুরাইজের রাত-দিনের ব্যাখ্যা, তার বিরুদ্ধে কোনো যুক্তি না দিয়ে। ইবন কাসীরও কয়েক লাইনের মধ্যে দুটোই রাখেন। প্রতিটি ব্যাখ্যা একটা সাধারণ অবস্থার নাম নেয়: সফর, ব্যবসা, রাত ও দিন, বিছানায় শুয়ে থাকা, আসা-যাওয়া। সব মিলিয়ে দিনের কোনো ঘণ্টা বা পথের কোনো জায়গা আল্লাহর নাগালের বাইরে থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Outrunning Him",
+          "bn": "তাঁকে এড়িয়ে যাওয়া যায় না"
+        },
+        "p": [
+          {
+            "en": "Fa-ma hum bi-mu'jizin: and they are not ones who can frustrate Him. Al-Qurtubi and al-Baghawi both gloss mu'jizin as sabiqin, those who outrun Allah, al-Qurtubi adding wa-la fa'itihi, nor slip past Him. The Muyassar goes further: they will not outrun Allah, nor escape Him, nor be saved from His punishment, because He is the Strong whom nothing frustrates. The picture is of a fugitive with a head start, and the verse says the head start is worth nothing.",
+            "bn": "ফামা হুম বিমু'জিযীন: আর তারা তাঁকে ব্যর্থ করে দিতে পারবে না। কুরতুবী ও বাগাভী দুজনেই মু'জিযীনের অর্থ দেন সাবিকীন, যারা আল্লাহকে পেছনে ফেলে এগিয়ে যায়। কুরতুবী যোগ করেন: ওয়া লা ফাইতীহি, তাঁর হাত ফসকেও যেতে পারবে না। মুয়াসসার আরও এক ধাপ এগোয়। তারা আল্লাহকে পেছনে ফেলতে পারবে না, তাঁর থেকে পালাতে পারবে না, তাঁর শাস্তি থেকেও বাঁচবে না। কারণ তিনি মহাশক্তিমান, কোনো কিছুই তাঁকে অক্ষম করতে পারে না। ছবিটা যেন আগে রওনা দেওয়া এক পলাতকের, আর আয়াত বলে, ওই এগিয়ে থাকার কোনো দাম নেই।"
+          },
+          {
+            "en": "At-Tabari ties the clause to the condition: they cannot frustrate Allah in that, if He wishes to seize them so. Ibn Kathir ties it to every condition: they do not frustrate Allah 'ala ayyi halin kanu 'alayhi, in whatever state they are. As-Sa'di draws the four states of the passage into one phrase: they cannot frustrate Allah in any one of these states; rather they are under His grip, and their forelocks are in His hand. The journey that feels like freedom is, in this verse, movement inside His hold.",
+            "bn": "তাবারী বাক্যাংশটিকে শর্তের সঙ্গে জুড়ে দেন: তিনি যদি এভাবে তাদের ধরতে চান, তারা আল্লাহকে তাতে ব্যর্থ করতে পারবে না। ইবন কাসীর জুড়ে দেন প্রতিটি অবস্থার সঙ্গে: 'আলা আইয়ি হালিন কানূ 'আলাইহি, তারা যে অবস্থাতেই থাকুক, আল্লাহকে অক্ষম করতে পারে না। সা'দী এ অংশের চারটি অবস্থাকে এক কথায় বেঁধে দেন। এর কোনো একটি অবস্থাতেও তারা আল্লাহকে ব্যর্থ করতে পারবে না, বরং তারা তাঁর মুঠোর মধ্যে, তাদের কপালের চুল তাঁরই হাতে। যে সফরকে স্বাধীনতা মনে হয়, এ আয়াতে তা আসলে তাঁর মুঠোর ভেতরেই চলাফেরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four States, One Grip",
+          "bn": "চার অবস্থা, এক মুঠো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di lays the passage out as a list of the ways punishment might come unawares: from above them, or from below by the earth giving way and the like; or in the state of their taqallub and busyness; or in the state of their fear of it. The Muyassar gives 16:45 a precedent, the earth swallowing them as it did Qarun. Ibn Kathir sets 67:16 and 67:17 beside the same verse: do you feel secure that He who is above the heaven will not make the earth swallow you?",
+            "bn": "শাস্তি কীভাবে অসতর্ক অবস্থায় আসতে পারে, সা'দী পুরো অংশটা সেভাবে সাজিয়ে দেন। উপর থেকে আসতে পারে। নিচ থেকে আসতে পারে, মাটি ধসে যাওয়া বা এমন কিছু দিয়ে। আসতে পারে তাদের ঘোরাফেরা আর ব্যস্ততার মধ্যে। কিংবা আসতে পারে যখন তারা শাস্তির ভয়ে ভীত। মুয়াসসার ১৬:৪৫-এর জন্য একটা নজির দেয়: মাটিতে ধসিয়ে দেওয়া, যেমন কারূনের বেলায় হয়েছিল। ইবন কাসীর একই আয়াতের পাশে রাখেন ৬৭:১৬ ও ৬৭:১৭: তোমরা কি নিশ্চিন্ত হয়ে গেছ যে আসমানে যিনি আছেন, তিনি তোমাদের মাটিতে ধসিয়ে দেবেন না?"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives each limb a shape. Punishment from an unseen direction it illustrates with Badr, where a thousand armed men met defeat at the hands of a ragtag band of Muslims, something they had never thought possible. For this verse it offers being seized while roaming about freely, by a fatal disease, a fall from a height, or a collision. For 16:47 it offers a gradual shrinking of wealth, health and peace until a people disappears. These are its illustrations of the threat held over the plotters, not a key for reading anyone's misfortune.",
+            "bn": "মাআরিফুল কুরআন প্রতিটি অংশের একটা রূপ দেখায়। অদেখা দিক থেকে শাস্তির উদাহরণ দেয় বদর দিয়ে। সেখানে হাজার সশস্ত্র লোক হেরে গিয়েছিল মুসলিমদের এলোমেলো, সাদামাটা এক দলের হাতে, যা তারা কখনো সম্ভব ভাবেনি। এ আয়াতের জন্য দেয় স্বাধীনভাবে ঘুরে বেড়ানোর মধ্যে ধরা পড়ার উদাহরণ: প্রাণঘাতী রোগ, উঁচু থেকে পড়ে যাওয়া, কিংবা কোনো শক্ত কিছুর সঙ্গে ধাক্কা। ১৬:৪৭-এর জন্য দেয় ধীরে ধীরে কমে যাওয়ার কথা: সম্পদ, স্বাস্থ্য আর শান্তি কমতে কমতে একসময় গোটা জাতি মুছে যায়। এগুলো চক্রান্তকারীদের উপর ঝুলে থাকা হুমকির উদাহরণ। কারও বিপদকে পড়ার চাবি এগুলো নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Respite, Then the Hold",
+          "bn": "অবকাশ, তারপর পাকড়াও"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the set with 'ala takhawwuf, and Ma'arif reports two readings of the word. Some commentators take it as dread, one group seized so that the next grows afraid; Ibn 'Abbas, Mujahid and others take it as tanaqqus, gradual decrease. It relays from Sa'id ibn al-Musayyab that 'Umar asked from the minbar what the word meant, and a man of Hudhayl answered with his tribe's usage and a line of their poetry. Then 16:47 ends: indeed your Lord is Kind, Merciful.",
+            "bn": "পরের আয়াত 'আলা তাখাওউফ দিয়ে তালিকাটা পূর্ণ করে, আর মাআরিফ শব্দটির দুই ব্যাখ্যা জানায়। কিছু তাফসীরকারের মতে এর মানে আতঙ্ক: একটি দলকে ধরা হয়, যাতে পরের দল ভয় পায়। ইবন আব্বাস (রাঃ), মুজাহিদ ও অন্যরা একে নেন তানাক্কুস অর্থে, অর্থাৎ ধীরে ধীরে কমিয়ে দেওয়া। মাআরিফ সাঈদ ইবনুল মুসাইয়্যাব থেকে বর্ণনা করে, উমর (রাঃ) মিম্বার থেকে শব্দটির অর্থ জিজ্ঞেস করেছিলেন। হুযাইল গোত্রের এক লোক তাঁর গোত্রের ব্যবহার আর তাদের এক কবিতার পঙক্তি দিয়ে জবাব দেন। তারপর ১৬:৪৭ শেষ হয়: নিশ্চয়ই তোমাদের রব বড়ই দয়ার্দ্র, পরম দয়ালু।"
+          },
+          {
+            "en": "Ibn Kathir explains that close: because He does not hasten to punish. He then brings two narrations from the Two Sahihs, attached to the group's last words rather than to this verse alone. Al-Bukhari records in his Sahih, from Abu Musa, that Allah's Messenger ﷺ said: Allah gives respite to the oppressor, but when He takes him over, He never releases him. Then he recited 11:102: such is the seizure of your Lord when He seizes the towns in the midst of their wrong; His seizure is painful, severe.",
+            "bn": "ইবন কাসীর এ সমাপ্তির ব্যাখ্যা দেন: কারণ তিনি শাস্তি দিতে তাড়াহুড়া করেন না। এরপর তিনি বুখারী ও মুসলিম থেকে দুটি হাদীস আনেন। হাদীস দুটি তিনি জুড়েছেন আয়াতগুচ্ছের শেষ কথার সঙ্গে, শুধু এ আয়াতের সঙ্গে নয়। বুখারী তাঁর সহীহ গ্রন্থে আবূ মূসা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: আল্লাহ জালিমকে অবকাশ দেন, কিন্তু যখন তাকে পাকড়াও করেন, তখন আর ছাড়েন না। তারপর তিনি ১১:১০২ তিলাওয়াত করেন: তোমার রবের পাকড়াও এমনই, যখন তিনি জনপদগুলোকে পাকড়াও করেন তাদের জুলুমে লিপ্ত অবস্থায়। তাঁর পাকড়াও বড়ই যন্ত্রণাদায়ক, কঠিন।"
+          },
+          {
+            "en": "As-Sa'di turns the same close into counsel. He is Kind and Merciful, he says, and does not hasten the punishment of the disobedient; He gives them respite, keeps them well and provides for them while they offend Him, and opens for them the doors of repentance. So let the wrongdoer feel shame before his Lord that Allah's blessings descend on him at every moment while his sins rise to Him at all times. Allah yumhil wa-la yuhmil: He grants respite, but He does not neglect.",
+            "bn": "সা'দী একই সমাপ্তিকে নসীহতে রূপ দেন। তিনি বলেন, আল্লাহ দয়ার্দ্র ও দয়ালু, নাফরমানদের শাস্তি দিতে তাড়াহুড়া করেন না। তারা তাঁকে কষ্ট দেয়, তবু তিনি তাদের অবকাশ দেন, সুস্থ রাখেন, রিযিক দেন, আর তাদের জন্য তওবার দরজা খুলে রাখেন। তাই গুনাহগার যেন তার রবের সামনে লজ্জা পায়। প্রতিটি মুহূর্তে আল্লাহর নিয়ামত তার উপর নামছে, আর তার গুনাহ সারাক্ষণ উঠে যাচ্ছে তাঁর কাছে। আল্লাহ ইউমহিলু ওয়া লা ইউহমিলু: তিনি অবকাশ দেন, কিন্তু উপেক্ষা করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read Amid a Busy Day",
+          "bn": "ব্যস্ত দিনের মাঝে পড়া"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a threat held over those who plotted evil deeds against the truth, in the setting of its revelation. It licenses nothing against any living person or community. No present-day disaster, illness, accident or sudden death may be read from it as Allah's punishment on the person it strikes. Ma'arif's examples illustrate the threat to the plotters; they do not turn every fall or collision into a verdict, and no reader is given the right to pass such a verdict.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: নাযিলের প্রেক্ষাপটে যারা সত্যের বিরুদ্ধে মন্দ চক্রান্ত করেছিল, তাদের উপর ঝুলে থাকা এক হুমকি। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো দুর্যোগ, অসুখ, দুর্ঘটনা বা আকস্মিক মৃত্যুকে এ আয়াত দিয়ে আক্রান্ত মানুষটির উপর আল্লাহর শাস্তি বলে পড়া যাবে না। মাআরিফের উদাহরণগুলো চক্রান্তকারীদের উপর হুমকির ছবি। এগুলো প্রতিটি পড়ে যাওয়া বা ধাক্কাকে রায়ে পরিণত করে না, আর কোনো পাঠককে সে রায় দেওয়ার অধিকারও দেয় না।"
+          },
+          {
+            "en": "What the verse leaves for every reader is a question about the ordinary day. Its scenes are the road, the trade, the night and the morning, the very places where, in Ibn Kathir's word, occupations distract and, in as-Sa'di's, the thought of punishment does not cross the mind. The believer's answer is not fear of travel or work but remembrance carried into them, and repentance made while the respite still runs. As-Sa'di's last line says it: hasten, hasten, to His wide mercy, by taqwa and by doing what He loves.",
+            "bn": "প্রত্যেক পাঠকের জন্য আয়াতটি রেখে যায় সাধারণ দিন নিয়ে একটা প্রশ্ন। এর দৃশ্যগুলো পথ, ব্যবসা, রাত আর সকাল। ঠিক এসব জায়গাতেই, ইবন কাসীরের ভাষায়, কাজকর্ম মানুষকে ভুলিয়ে রাখে। আর সা'দীর ভাষায়, শাস্তির কথা মনেও আসে না। মুমিনের জবাব সফর বা কাজকে ভয় পাওয়া নয়। জবাব হলো সেসবের ভেতরেও আল্লাহর জিকির বয়ে নেওয়া, আর অবকাশ থাকতে থাকতেই তওবা করে নেওয়া। সা'দীর শেষ কথাতেই তা আছে: তাড়াতাড়ি করো, তাড়াতাড়ি করো তাঁর প্রশস্ত রহমতের দিকে, তাকওয়া আর তাঁর পছন্দের আমল দিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "16:48-49": {
     "sections": [
       {
