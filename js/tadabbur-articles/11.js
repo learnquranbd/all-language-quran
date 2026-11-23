@@ -5327,6 +5327,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:115": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Words After Four Commands",
+          "bn": "চার আদেশের পর সাত শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa-sbir fa-inna Allaha la yudi'u ajra al-muhsinin: and be patient, for Allah does not let the reward of those who do good be lost. The verse is seven Arabic words, a command and then its reason, joined by fa-inna, for indeed. It closes a short run of instructions to the Prophet ﷺ and those who turned back with him: keep to the straight course and do not overstep (11:112), do not incline toward wrongdoers (11:113), and establish the prayer at the two ends of the day and in hours of the night (11:114). Those verses have their own articles. This one asks what keeps them standing.",
+            "bn": "ওয়াসবির ফাইন্নাল্লাহা লা ইউদীউ আজরাল মুহসিনীন: আর ধৈর্য ধরো, কারণ আল্লাহ সৎকর্মশীলদের প্রতিদান নষ্ট করেন না। আয়াতটি সাতটি আরবি শব্দে গড়া। প্রথমে একটি আদেশ, তারপর তার কারণ, মাঝখানে ফা-ইন্না, অর্থাৎ কেননা। নবী ﷺ এবং তাঁর সঙ্গে যারা তওবা করে ফিরেছে, তাদের প্রতি কয়েকটি নির্দেশের ঠিক পরেই এর জায়গা। সোজা পথে অটল থাকা আর সীমা না ছাড়ানো (১১:১১২), জালিমদের দিকে না ঝোঁকা (১১:১১৩), দিনের দুই প্রান্তে ও রাতের কিছু অংশে নামাজ কায়েম করা (১১:১১৪)। ওই আয়াতগুলোর আলোচনা আলাদা আছে। এ আয়াতের প্রশ্ন হলো, ওগুলোকে টিকিয়ে রাখে কী।"
+          },
+          {
+            "en": "As-Sa'di, at the end of his comment on 11:114, suggests that its words 'that is a reminder' may point back to everything before them: firmness on the straight path without going past it, not leaning on the wrongdoers, the prayer, and good deeds removing bad ones. Then he adds a sentence that reads like a bridge. These matters, he says, need striving against the self and patience upon them. The next verse gives that word as a command. Al-Muyassar makes the same link from the other side, naming the prayer, mentioned just before, as the first thing the patience is for.",
+            "bn": "১১:১১৪-এর আলোচনার শেষে সা'দী বলেন, 'এটা এক উপদেশ' কথাটি হয়তো আগের সবকিছুর দিকেই ইশারা করছে। সোজা পথে অটল থাকা আর তা ছাড়িয়ে না যাওয়া, জালিমদের দিকে না ঝোঁকা, নামাজ, আর নেকি দিয়ে গুনাহ মুছে যাওয়া। তারপর তিনি এমন একটি বাক্য যোগ করেন যা যেন দুই আয়াতের মাঝে সেতু। তাঁর কথায়, এসব কাজে নফসের সঙ্গে লড়াই আর তাতে ধৈর্য দরকার। পরের আয়াত ঠিক সেই শব্দটিকেই আদেশ হিসেবে নিয়ে আসে। মুয়াসসার উল্টো দিক থেকে একই যোগসূত্র টানে। তার মতে ধৈর্যের প্রথম ক্ষেত্র নামাজ, যার কথা ঠিক আগের আয়াতেই এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tying the Self Down",
+          "bn": "নিজেকে বেঁধে রাখা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an begins with the word itself. Sabr, it says, literally means to tie, and so in usage it came to mean keeping the unruly self under control. It then widens the sense in two directions. The first is the effort to keep the self firm and unflinching when it comes to doing what is good and right. The second is the effort to check it and hold it back from being drawn into bad deeds. On this account patience is not only something that happens to a person under pressure. It is something a person does to himself, day after day.",
+            "bn": "মাআরিফুল কুরআন শুরু করে শব্দটি দিয়ে। সবর শব্দের আসল অর্থ বাঁধা। তাই ব্যবহারে এর মানে দাঁড়িয়েছে অবাধ্য নফসকে বশে রাখা। এরপর অর্থটা দুই দিকে ছড়িয়ে পড়ে। একদিকে ভালো ও ন্যায্য কাজে নফসকে অটল আর দৃঢ় রাখার চেষ্টা। অন্যদিকে মন্দ কাজে জড়িয়ে পড়া থেকে তাকে থামিয়ে রাখার চেষ্টা। এ ব্যাখ্যায় ধৈর্য শুধু চাপের মুখে মানুষের সঙ্গে ঘটে যাওয়া কোনো অবস্থা নয়। এটা মানুষ নিজেই নিজের ওপর করে, দিনের পর দিন।"
+          },
+          {
+            "en": "As-Sa'di's gloss says much the same in sharper verbs. Wa-sbir, he writes, means: confine your self upon obedience to Allah and away from disobeying Him, bind it to that, keep on, and do not grow fed up. The last phrase, la tadjar, names the real opponent of the command. Few people refuse obedience outright on a given day. Far more simply tire of it. His gloss here says nothing of persecution. It speaks to that weariness, and it treats patience as a discipline kept up, not a feeling waited for.",
+            "bn": "সা'দীর ব্যাখ্যায় কথা প্রায় একই, তবে ক্রিয়াগুলো আরও ধারালো। ওয়াসবির মানে, তিনি লেখেন: আল্লাহর আনুগত্যে নিজেকে আটকে রাখো, তাঁর নাফরমানি থেকে নিজেকে সরিয়ে রাখো, এতে নিজেকে বেঁধে নাও, লেগে থাকো, আর বিরক্ত হয়ে পড়ো না। শেষ কথাটি, লা তাদজার, আদেশটির আসল প্রতিপক্ষের নাম বলে দেয়। কোনো একটা দিনে সরাসরি আনুগত্য অস্বীকার করে খুব কম মানুষ। অনেক বেশি মানুষ স্রেফ ক্লান্ত হয়ে যায়। এখানে তাঁর ব্যাখ্যায় নির্যাতনের কোনো কথা নেই। কথা এই ক্লান্তি নিয়েই। ধৈর্য তাঁর কাছে অপেক্ষা করে পাওয়ার মতো কোনো অনুভূতি নয়, বরং ধরে রাখার মতো এক অনুশীলন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patient Upon Which Burden",
+          "bn": "ধৈর্য কোন বোঝার ওপর"
+        },
+        "p": [
+          {
+            "en": "On what, then, is the Prophet ﷺ told to be patient? The commentators fetched for this verse give two answers, and they order them differently. Al-Qurtubi puts the prayer first: be patient upon the prayer, as in wa-mur ahlaka bis-salati wa-stabir 'alayha, enjoin the prayer on your family and be steadfast in it (20:132). Then, under 'it was said', he gives the second reading: be patient, Muhammad, with the harm you meet. Al-Baghawi reverses the order. He leads with the harm, and gives the prayer, with the same verse of Ta-Ha as its parallel, under 'it was said'.",
+            "bn": "তাহলে নবী ﷺ-কে কিসের ওপর ধৈর্য ধরতে বলা হচ্ছে? এ আয়াতের যেসব তাফসীর দেখা হয়েছে, সেগুলোতে দুটি উত্তর আছে, তবে সাজানো ভিন্ন ক্রমে। কুরতুবী আগে নামাজের কথা বলেন: নামাজের ওপর ধৈর্য ধরো, যেমন অন্য আয়াতে এসেছে, ওয়া'মুর আহলাকা বিসসালাতি ওয়াসতাবির আলাইহা, তোমার পরিবারকে নামাজের আদেশ দাও এবং নিজে তাতে অবিচল থাকো (২০:১৩২)। তারপর 'বলা হয়েছে' বলে দ্বিতীয় অর্থটি আনেন: হে মুহাম্মাদ, যে কষ্ট পাচ্ছ তাতে ধৈর্য ধরো। বাগাভী ক্রমটা উল্টে দেন। তিনি আগে কষ্টের কথা বলেন, আর নামাজের ব্যাখ্যাটি সূরা ত্বা-হার সেই আয়াতসহ আনেন 'বলা হয়েছে' দিয়ে।"
+          },
+          {
+            "en": "At-Tabari gives only the second reading, and fills it in. Be patient, Muhammad, with what you meet from the polytheists of your people, the harm suffered for Allah's sake and the hardship, hoping for Allah's abundant reward for it. Al-Muyassar joins both: be patient, O Prophet, upon the prayer and upon the harm you meet from the polytheists of your people. Ma'arif al-Qur'an also keeps both open. The command could mean holding fast to the injunctions just given, such as standing firm and establishing the prayer, or it could be an exhortation to bear the hostility of enemies and the pain they caused.",
+            "bn": "তাবারী শুধু দ্বিতীয় অর্থটি নেন, আর তা বিস্তারিত বলেন। হে মুহাম্মাদ, তোমার কওমের মুশরিকদের কাছ থেকে আল্লাহর পথে যে কষ্ট আর অপ্রীতিকর আচরণ পাচ্ছ, তাতে ধৈর্য ধরো, এর বিনিময়ে আল্লাহর কাছে বিপুল সওয়াবের আশা রেখে। মুয়াসসার দুটোকে এক করে: হে নবী, নামাজের ওপর ধৈর্য ধরো, আর তোমার কওমের মুশরিকদের দেওয়া কষ্টের ওপরও। মাআরিফুল কুরআনও দুই দিকই খোলা রাখে। আদেশটির মানে হতে পারে সদ্য দেওয়া নির্দেশগুলো, যেমন অটল থাকা আর নামাজ কায়েম করা, শক্ত করে ধরে রাখা। আবার হতে পারে শত্রুদের বৈরিতা আর তাদের দেওয়া যন্ত্রণা সহ্য করার তাগিদ।"
+          },
+          {
+            "en": "The difference is real, and the sources do not settle it, so it is left here as they leave it. What can be said is that the two readings sit close together. One is the patience of keeping up a duty when it is heavy; the other is the patience of not letting it go when people make it costly. Where at-Tabari and al-Muyassar name the polytheists of the Prophet's people, they describe what he met in his own time. The verse describes that, and it licenses nothing against any living person or community today.",
+            "bn": "মতভেদটি বাস্তব, আর সূত্রগুলো এর মীমাংসা করে না। তাই এখানেও বিষয়টি সেভাবেই রাখা হলো। এটুকু বলা যায় যে দুই ব্যাখ্যা একে অন্যের খুব কাছাকাছি। একটি হলো ভারী লাগলেও দায়িত্ব পালন করে যাওয়ার ধৈর্য। অন্যটি হলো মানুষ যখন সেই দায়িত্বের দাম চড়িয়ে দেয়, তখনও তা ছেড়ে না দেওয়ার ধৈর্য। তাবারী আর মুয়াসসার যখন নবী ﷺ-এর কওমের মুশরিকদের কথা বলেন, তখন তাঁরা তাঁর নিজের সময়ে তিনি যা পেয়েছিলেন তারই বর্ণনা দেন। আয়াতটি সেটুকুই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who the Doers of Good Are",
+          "bn": "সৎকর্মশীল বলতে কারা"
+        },
+        "p": [
+          {
+            "en": "The reason clause turns on one word, al-muhsinin: those who do good, or those who do things well. Al-Qurtubi glosses it in a single word, al-musallin, those who pray. Al-Baghawi first explains it as 'in their deeds', and then gives the same gloss from Ibn 'Abbas (RA): it means those who pray. Read alongside the prayer reading of the command, the verse closes neatly on itself. Be patient upon the prayer, for Allah does not let the reward of those who pray be lost.",
+            "bn": "কারণ-অংশটি ঘুরছে একটি শব্দকে ঘিরে: আল-মুহসিনীন, যারা ভালো কাজ করে, কিংবা যারা কাজ সুন্দরভাবে করে। কুরতুবী এর ব্যাখ্যা দেন এক শব্দে: আল-মুসাল্লীন, নামাজিরা। বাগাভী প্রথমে বলেন, অর্থাৎ নিজেদের আমলে যারা সৎ। তারপর ইবন আব্বাস (রাঃ) থেকে একই ব্যাখ্যা আনেন: এর মানে নামাজিরা। আদেশটির নামাজ-কেন্দ্রিক ব্যাখ্যার পাশে রাখলে আয়াতটি নিজের ভেতরেই গোল হয়ে মিলে যায়। নামাজের ওপর ধৈর্য ধরো, কারণ আল্লাহ নামাজিদের প্রতিদান নষ্ট করেন না।"
+          },
+          {
+            "en": "At-Tabari reads the word more widely, in keeping with his reading of the command. Allah does not let be lost the reward for the deed of anyone who did good, obeyed Allah and followed His command. Al-Muyassar keeps it general too: the doers of good in their deeds. Ma'arif al-Qur'an ties it to the passage. The muhsinin, it says, are those who faithfully keep the do's and don'ts of the verses just cited. They are firm in their religion, stay within the limits of the Shari'ah, keep no needless friendship with the unjust, and are punctual with the prayer at its preferred times.",
+            "bn": "তাবারী শব্দটিকে আরও প্রশস্ত অর্থে নেন, আদেশের ব্যাপারে তাঁর ব্যাখ্যার সঙ্গে মিলিয়ে। যে ভালো কাজ করেছে, আল্লাহর আনুগত্য করেছে আর তাঁর হুকুম মেনে চলেছে, তার আমলের প্রতিদান আল্লাহ নষ্ট হতে দেন না। মুয়াসসারও অর্থটা সাধারণ রাখে: আমলে যারা সৎকর্মশীল। মাআরিফুল কুরআন শব্দটিকে বেঁধে দেয় এই অংশের সঙ্গে। তার মতে মুহসিন তারাই, যারা সদ্য উল্লিখিত আয়াতগুলোর আদেশ-নিষেধ যত্ন করে মানে। দ্বীনের ওপর তারা অটল, শরিয়তের সীমার ভেতরে থাকে, অকারণে জালিমদের সঙ্গে বন্ধুত্ব রাখে না, আর নামাজ আদায় করে উত্তম সময়ে, নিয়মিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As Though You See Him",
+          "bn": "যেন আপনি তাঁকে দেখছেন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an then reaches for a word the Prophet ﷺ defined himself. The essence of all this, it says, is what he said when he defined ihsan. Al-Bukhari (50) records that definition in the long hadith of Jibril, narrated by Abu Hurayra (RA). Asked what ihsan is, the Prophet ﷺ answered: 'That you worship Allah as though you see Him, and if you do not see Him, then He sees you.' The hadith is general and is not attached to this verse in any source consulted. The link between the two is Ma'arif's.",
+            "bn": "এরপর মাআরিফুল কুরআন এমন একটি শব্দের কাছে যায়, যার সংজ্ঞা নবী ﷺ নিজেই দিয়েছেন। তার মতে এসব কথার সারকথা হলো ইহসানের সংজ্ঞায় তিনি যা বলেছেন। বুখারী (৫০) জিবরীলের দীর্ঘ হাদীসে সেই সংজ্ঞা বর্ণনা করেছেন, আবু হুরায়রা (রাঃ) থেকে। ইহসান কী, এই প্রশ্নের উত্তরে নবী ﷺ বলেন: 'তুমি আল্লাহর ইবাদত করবে যেন তাঁকে দেখছ, আর যদি তাঁকে না দেখো, তবে তিনি তো তোমাকে দেখছেন।' হাদীসটি সাধারণ। যেসব সূত্র দেখা হয়েছে, তার কোনোটিতেই এটি এ আয়াতের সঙ্গে যুক্ত নয়। এই দুই বিষয়কে মিলিয়েছে মাআরিফুল কুরআন।"
+          },
+          {
+            "en": "Ma'arif draws one consequence from the definition. When a person reaches this station of certainty about Allah's being and attributes, the words and deeds that issue from him come out right as a matter of course. The connection to patience is worth sitting with. Much of what makes good deeds hard to keep up is that they seem to go unseen: the prayer no one counts, the restraint no one hears about, the kindness that gets no thanks. The definition of ihsan answers that feeling directly. Whoever else is not watching, He is.",
+            "bn": "সংজ্ঞাটি থেকে মাআরিফ একটি ফল টানে। আল্লাহর সত্তা ও গুণাবলি সম্পর্কে কেউ যখন এই দৃঢ় বিশ্বাসের স্তরে পৌঁছায়, তখন তার মুখের কথা আর হাতের কাজ আপনা থেকেই ঠিক হয়ে আসে। ধৈর্যের সঙ্গে এর সম্পর্কটা একটু ভেবে দেখার মতো। ভালো কাজ ধরে রাখা কঠিন লাগে অনেকটা এ কারণে যে কেউ তা দেখে বলে মনে হয় না। যে নামাজের হিসাব কেউ রাখে না, যে সংযমের খবর কেউ পায় না, যে উপকারের জন্য কেউ ধন্যবাদ দেয় না। ইহসানের সংজ্ঞা ঠিক এই অনুভূতির জবাব দেয়। আর কেউ না দেখুক, তিনি দেখছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept for the Hour of Need",
+          "bn": "প্রয়োজনের দিনের জন্য জমা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's reading of the last clause is the most striking line in the sources gathered here. Allah does not let the reward for the deed of whoever did good be lost, so that it goes and is taken away. Rather, he writes, He keeps it in full for him at the time he is most in need of it. He does not say when that time comes. The promise is that the reward is neither spent before then nor dropped on the way.",
+            "bn": "শেষ অংশটির যে ব্যাখ্যা তাবারী দেন, এখানে জড়ো করা সূত্রগুলোর মধ্যে সেটিই সবচেয়ে মনে দাগ কাটে। যে ভালো কাজ করেছে, তার আমলের প্রতিদান আল্লাহ এমনভাবে নষ্ট হতে দেন না যে তা হারিয়ে যাবে বা কেড়ে নেওয়া হবে। বরং, তিনি লেখেন, আল্লাহ তা পুরোপুরি জমা রাখেন সেই সময়ের জন্য, যখন বান্দার তা সবচেয়ে বেশি প্রয়োজন। সেই সময় কখন আসবে, তা তিনি বলেন না। প্রতিশ্রুতি শুধু এটুকু যে প্রতিদান তার আগে খরচ হয়ে যায় না, পথে পড়েও যায় না।"
+          },
+          {
+            "en": "As-Sa'di reads the same clause as a promise of more than the deed itself earned. Allah, he says, accepts from them the best of what they did, and rewards them by the best of what they used to do. Then he names what the clause is doing in the verse. In this, he writes, there is a great encouragement to hold to patience, by making the weak self long for Allah's reward whenever it slackens and flags.",
+            "bn": "একই অংশকে সা'দী পড়েন আমলের প্রাপ্যের চেয়েও বেশি কিছুর প্রতিশ্রুতি হিসেবে। তাঁর কথায়, আল্লাহ তাদের সবচেয়ে ভালো আমলগুলো কবুল করেন, আর তারা যা করত তার সবচেয়ে উত্তমটির হিসাবে তাদের প্রতিদান দেন। তারপর তিনি বলে দেন, আয়াতে এই অংশটি আসলে কী কাজ করছে। এতে ধৈর্যে লেগে থাকার বড় এক উৎসাহ আছে। দুর্বল নফস যখনই ঢিলে হয়ে পড়ে, নিস্তেজ হয়ে আসে, তখন আল্লাহর প্রতিদানের কথা তার মনে আগ্রহ জাগায়।"
+          },
+          {
+            "en": "The same assurance closes other verses, and two of them join it to patience or to prayer, much as this passage does. Yusuf (AS), when his brothers at last recognise him, says that whoever fears Allah and is patient, then Allah does not let the reward of the doers of good be lost (12:90). Another verse speaks of those who hold fast to the Book and establish the prayer: We do not let the reward of the reformers be lost (7:170). Similar wording comes in 9:120, 12:56 and 18:30, and in 3:171 it is the reward of the believers that is not lost.",
+            "bn": "একই আশ্বাস দিয়ে আরও কিছু আয়াত শেষ হয়েছে, আর তার দুটিতে এই অংশের মতোই আশ্বাসটি জুড়ে আছে ধৈর্য বা নামাজের সঙ্গে। ভাইয়েরা যখন শেষ পর্যন্ত ইউসুফ (আঃ)-কে চিনতে পারে, তখন তিনি বলেন, যে আল্লাহকে ভয় করে আর ধৈর্য ধরে, আল্লাহ সেই সৎকর্মশীলদের প্রতিদান নষ্ট করেন না (১২:৯০)। আরেক আয়াতে আছে যারা কিতাবকে শক্ত করে ধরে আর নামাজ কায়েম করে তাদের কথা: আমি সংশোধনকারীদের প্রতিদান নষ্ট করি না (৭:১৭০)। কাছাকাছি শব্দ এসেছে ৯:১২০, ১২:৫৬ ও ১৮:৩০ আয়াতেও। আর ৩:১৭১ আয়াতে বলা হয়েছে, মুমিনদের প্রতিদান নষ্ট হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Gift Wider Than Any",
+          "bn": "সবচেয়ে প্রশস্ত দান"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. There is, though, a sound narration on patience itself, general and not attached to this verse. Al-Bukhari (1469) records from Abu Sa'id al-Khudri (RA) that some of the Ansar asked the Prophet ﷺ for something and he gave them. They asked again, and again he gave, until all he had was gone. Then he said the words quoted in full in the next paragraph.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও দেয়নি। তবে ধৈর্য নিয়েই একটি সহীহ বর্ণনা আছে, যা সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। বুখারী (১৪৬৯) আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন: আনসারদের কয়েকজন নবী ﷺ-এর কাছে কিছু চাইলেন, তিনি দিলেন। তাঁরা আবার চাইলেন, তিনি আবারও দিলেন। এভাবে চলতে চলতে তাঁর কাছে যা ছিল সব শেষ হয়ে গেল। তখন তিনি যে কথাগুলো বললেন, পরের অনুচ্ছেদে তা পুরোটা দেওয়া হলো।"
+          },
+          {
+            "en": "'Whatever good I have, I will never hold it back from you. Whoever seeks to keep from asking, Allah keeps him from it; whoever seeks to be free of need, Allah makes him free of need; whoever strives to be patient, Allah makes him patient. And no one has been given a gift better and wider than patience.' Two things in it sit close to this verse. Patience is something a person reaches for, and Allah answers the reaching with the thing itself. And patience is called a gift, not only a burden laid on someone.",
+            "bn": "'আমার কাছে যে কল্যাণই থাকুক, তা আমি তোমাদের কাছ থেকে কখনো আটকে রাখব না। যে চাওয়া থেকে বাঁচতে চায়, আল্লাহ তাকে বাঁচিয়ে রাখেন। যে অভাবমুক্ত থাকতে চায়, আল্লাহ তাকে অভাবমুক্ত করেন। যে ধৈর্য ধরার চেষ্টা করে, আল্লাহ তাকে ধৈর্য দান করেন। আর ধৈর্যের চেয়ে উত্তম ও প্রশস্ত কোনো দান কাউকে দেওয়া হয়নি।' এর দুটি কথা এ আয়াতের খুব কাছাকাছি। ধৈর্য এমন জিনিস, যার দিকে মানুষ হাত বাড়ায়, আর সেই চেষ্টার জবাবে আল্লাহ জিনিসটাই দিয়ে দেন। আর ধৈর্যকে এখানে বলা হয়েছে দান, শুধু কারও ঘাড়ে চাপানো বোঝা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Long Middle of Obedience",
+          "bn": "আনুগত্যের দীর্ঘ মাঝপথ"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an ends its comment with three sayings that, citing Tafsir Ruh al-Bayan, it says the early righteous used to write to each other. Whoever works for the Hereafter, Allah takes care of his worldly affairs. Whoever sets right his inner self, Allah sets right his outward self. And whoever sets right what is between him and Allah, Allah sets right what is between him and people. These are the words of early scholars, not of the Prophet ﷺ, and they are given here as such. They fit the verse because each asks for work whose return is not yet seen.",
+            "bn": "মাআরিফুল কুরআন তার আলোচনা শেষ করে তিনটি কথা দিয়ে। তাফসীরে রূহুল বায়ানের বরাতে সে জানায়, পূর্বসূরি নেককার মানুষেরা এ কথাগুলো একে অন্যকে লিখে পাঠাতেন। যে আখিরাতের জন্য কাজ করে, আল্লাহ তার দুনিয়ার কাজ গুছিয়ে দেন। যে নিজের ভেতরটা ঠিক করে, আল্লাহ তার বাইরেটা ঠিক করে দেন। আর যে আল্লাহর সঙ্গে নিজের সম্পর্ক ঠিক রাখে, আল্লাহ মানুষের সঙ্গে তার সম্পর্ক ঠিক করে দেন। এগুলো পূর্বসূরি আলিমদের কথা, নবী ﷺ-এর বাণী নয়, এখানে সেভাবেই রাখা হলো। আয়াতের সঙ্গে এগুলো মেলে, কারণ প্রতিটিই এমন কাজ চায় যার ফল এখনো চোখে পড়ে না।"
+          },
+          {
+            "en": "Read with the verses before it, 11:115 is a verse for the long middle of obedience: after the start, and before any end is in sight. At-Tabari puts hope inside the patience itself, be patient hoping for Allah's abundant reward. As-Sa'di admits that the self will slacken. Neither asks for a patience that feels nothing. Both ask for a patience that keeps going, and that remembers, when nothing seems to come of the effort, that nothing done well for Allah is lost.",
+            "bn": "আগের আয়াতগুলোর সঙ্গে মিলিয়ে পড়লে ১১:১১৫ হলো আনুগত্যের দীর্ঘ মাঝপথের আয়াত। শুরুটা পেরিয়ে গেছে, অথচ শেষ এখনো চোখে পড়ে না। তাবারী আশাকে ধৈর্যের ভেতরেই রেখে দেন: আল্লাহর বিপুল প্রতিদানের আশায় ধৈর্য ধরো। সা'দী স্বীকার করেন যে নফস ঢিলে হয়ে পড়বেই। দুজনের কেউই এমন ধৈর্য চান না যাতে কোনো কষ্ট লাগে না। তাঁরা চান এমন ধৈর্য, যা থামে না। চেষ্টার কোনো ফল যখন দেখা যায় না, তখনও যা মনে রাখে যে আল্লাহর জন্য সুন্দরভাবে করা কিছুই হারায় না।"
+          },
+          {
+            "en": "One way to take the verse into the week ahead: name the single duty you find hardest to keep. It may be a prayer at its time, a habit of speech, or a distance from people who pull you toward wrong. Hold to it for this week, not forever. When it tires you, return to the seven words, wa-sbir fa-inna Allaha la yudi'u ajra al-muhsinin. Then ask Allah for the patience that, in the hadith, He gives to the one who strives for it.",
+            "bn": "আয়াতটিকে সামনের সপ্তাহে নিয়ে যাওয়ার একটি উপায়: যে দায়িত্বটি ধরে রাখা আপনার কাছে সবচেয়ে কঠিন, সেটির নাম ঠিক করুন। হতে পারে সময়মতো কোনো এক ওয়াক্তের নামাজ, কথাবার্তার কোনো অভ্যাস, কিংবা যারা অন্যায়ের দিকে টানে তাদের থেকে দূরত্ব। চিরকালের জন্য নয়, শুধু এই সপ্তাহের জন্য সেটি আঁকড়ে থাকুন। ক্লান্ত লাগলে সেই সাতটি শব্দে ফিরে আসুন: ওয়াসবির ফাইন্নাল্লাহা লা ইউদীউ আজরাল মুহসিনীন। তারপর আল্লাহর কাছে সেই ধৈর্য চান, যা হাদীসের ভাষায় তিনি চেষ্টাকারীকে দান করেন।"
+          }
+        ]
+      }
+    ]
+  },
   "11:118": {
     "sections": [
       {

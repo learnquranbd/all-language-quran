@@ -32583,6 +32583,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Refusing the truth never leaves a person following no one. Obedience withheld from the sincere warner goes to the proud and stubborn, and the follower is not excused for it.",
     "lessonBn": "সত্যকে ফিরিয়ে দিলে মানুষ কারও অনুসারী না হয়ে থাকে না। আন্তরিক সতর্ককারীকে যে আনুগত্য দেওয়া হয়নি, তা চলে যায় অহংকারী আর একগুঁয়েদের হাতে, আর অনুসারী এতে দায়মুক্ত হয় না।"
+  },
+  "11:115": {
+    "reflectionEn": "Before this verse come four instructions: stand straight as commanded, do not overstep, do not lean on wrongdoers, keep the prayer at its times. None of them is hard for a day. The trouble is the second year, when no one notices and nothing seems to change. Then come seven Arabic words: be patient, for Allah does not let the reward of those who do good be lost. The command is short because the reason carries it. Patience here is less a mood than a holding on, keeping the self at what it was told to do and away from what it was told to leave. And the effort is not wasted, even when it feels unseen. Where in my life am I being asked to hold on?",
+    "reflectionBn": "এ আয়াতের আগে চারটি নির্দেশ এসেছে: আদেশমতো সোজা থাকা, সীমা না ছাড়ানো, জালিমদের দিকে না ঝোঁকা, আর ঠিক সময়ে নামাজ কায়েম রাখা। একদিনের জন্য এর কোনোটাই কঠিন নয়। কঠিন হয় দ্বিতীয় বছরে, যখন কেউ খেয়াল করে না আর কিছুই বদলাচ্ছে বলে মনে হয় না। তখনই আসে সাতটি আরবি শব্দ: ধৈর্য ধরো, কারণ আল্লাহ সৎকর্মশীলদের প্রতিদান নষ্ট করেন না। আদেশটা ছোট, কারণ তার ভার বইছে পেছনের কারণটা। এখানে ধৈর্য কোনো মেজাজ নয়, বরং আঁকড়ে থাকা। যা করতে বলা হয়েছে, নিজেকে তাতে বেঁধে রাখা। যা ছাড়তে বলা হয়েছে, তা থেকে আটকে রাখা। আর এই চেষ্টা কেউ না দেখলেও বৃথা যায় না। আমার জীবনের কোন জায়গায় আমাকে আঁকড়ে থাকতে বলা হচ্ছে?",
+    "pointsEn": [
+      "Which good habit did I start with energy and then let slip once nobody was watching?",
+      "Is my patience mostly about putting up with people, or also about staying with the prayer and the deeds I was told to keep?",
+      "When I feel that my effort is going nowhere, do I remind myself that Allah lets no good deed be lost?",
+      "What is one thing I am being asked to hold myself back from, again and again, and how do I hold on when I am tired?",
+      "Do I do good only when the result shows, or as one who knows Allah sees it?"
+    ],
+    "pointsBn": [
+      "কোন ভালো অভ্যাস আমি উৎসাহ নিয়ে শুরু করেছিলাম, তারপর কেউ দেখছে না বলে ঢিলে দিয়েছি?",
+      "আমার ধৈর্য কি শুধু মানুষকে সহ্য করা পর্যন্ত, নাকি যে নামাজ আর আমল ধরে রাখতে বলা হয়েছে, তাতে লেগে থাকাও এর ভেতরে পড়ে?",
+      "যখন মনে হয় আমার চেষ্টা কোথাও পৌঁছাচ্ছে না, তখন কি নিজেকে মনে করিয়ে দিই যে আল্লাহ কোনো নেক আমল নষ্ট করেন না?",
+      "কোন জিনিস থেকে বারবার নিজেকে আটকে রাখতে বলা হচ্ছে আমাকে? ক্লান্ত হয়ে পড়লে তখন আমি কীভাবে টিকে থাকি?",
+      "আমি কি ভালো কাজ করি শুধু ফল দেখা গেলে, নাকি এই জেনে যে আল্লাহ তা দেখছেন?"
+    ],
+    "lessonEn": "Hold yourself to what you were commanded and away from what you were forbidden, and keep going when it feels unseen: Allah lets no good deed be lost.",
+    "lessonBn": "যা আদেশ করা হয়েছে তাতে নিজেকে বেঁধে রাখুন, যা নিষেধ করা হয়েছে তা থেকে দূরে রাখুন, আর কেউ না দেখলেও থামবেন না: আল্লাহ কোনো নেক আমল নষ্ট করেন না।"
   }
 };
 
