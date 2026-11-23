@@ -6711,6 +6711,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:122-123": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words, Then Nineteen",
+          "bn": "তিন শব্দ, তারপর উনিশ"
+        },
+        "p": [
+          {
+            "en": "The contest is over before these verses begin. The staff of Musa (AS) has swallowed what the magicians threw (7:117), the truth has been established (7:118), and the court has gone home small (7:119). The magicians themselves have been thrown down in prostration, saying: we believe in the Lord of the worlds (7:120 and 7:121). Verse 7:122 is three Arabic words that complete their sentence: rabbi Musa wa-Harun, the Lord of Musa and Harun. Then 7:123 hands the floor to Pharaoh, and he needs nineteen words to answer them.",
+            "bn": "এ দুই আয়াত শুরুর আগেই প্রতিযোগিতা শেষ। মূসা (আঃ)-এর লাঠি যাদুকরদের ছুঁড়ে দেওয়া সবকিছু গিলে ফেলেছে (৭:১১৭), সত্য প্রতিষ্ঠিত হয়ে গেছে (৭:১১৮), আর দরবারের লোকেরা ছোট হয়ে ফিরে গেছে (৭:১১৯)। যাদুকররা নিজেরাই সিজদায় লুটিয়ে পড়েছে, মুখে বলছে: আমরা বিশ্বজগতের রবের প্রতি ঈমান আনলাম (৭:১২০ ও ৭:১২১)। ৭:১২২ মাত্র তিনটি আরবি শব্দ, তাদের বাক্যটা ওখানেই পূর্ণ হয়: রাব্বি মূসা ওয়া হারূন, মূসা ও হারূনের রব। এরপর ৭:১২৩-এ কথা বলে ফিরআউন। তাদের জবাব দিতে তার লাগে উনিশটি শব্দ।"
+          },
+          {
+            "en": "The two verses belong together because the second is a reply to the first. Three words of testimony are met with a rebuke for disloyalty, a charge of conspiracy, a political motive and an open threat. The next verse turns the threat into a sentence of mutilation and crucifixion (7:124), and the magicians answer in 7:125 and 7:126; this article stops before them. No occasion of revelation is established for either verse. Both sit inside the long account of Musa (AS) in a Makkan surah, as narration of a single day.",
+            "bn": "দুটি আয়াত একসঙ্গে পড়তে হয়, কারণ দ্বিতীয়টি প্রথমটির জবাব। তিনটি শব্দের সাক্ষ্যের বিপরীতে আসে আনুগত্য ভাঙার ধমক, ষড়যন্ত্রের অভিযোগ, রাজনৈতিক মতলবের দোষারোপ আর খোলা হুমকি। পরের আয়াতে সেই হুমকি হাত-পা কাটা আর শূলে চড়ানোর রায় হয়ে যায় (৭:১২৪), আর যাদুকরদের জবাব আসে ৭:১২৫ ও ৭:১২৬ আয়াতে। এ লেখা তার আগেই থামবে। কোনো আয়াতেরই শানে নুযূল প্রমাণিত নয়। দুটিই মাক্কী সূরার ভেতরে মূসা (আঃ)-এর দীর্ঘ কাহিনির অংশ, একটিমাত্র দিনের বর্ণনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fence Around the Confession",
+          "bn": "সাক্ষ্যের চারপাশে বেড়া"
+        },
+        "p": [
+          {
+            "en": "They had already said Lord of the worlds, so why add the names? At-Tabari answers in a phrase placed straight after the verse: the Lord of Musa and Harun, la Fir'awn, not Pharaoh. Ma'arif al-Qur'an spells the reason out. The names make clear that the Lord whom Musa (AS) and Harun (AS) worship is in fact the Lord of the universe, and not Pharaoh, as he pretended to be. Ibn Kathir, on the next verse, quotes the claim itself, Pharaoh's own words in 79:24: I am your lord, the most high.",
+            "bn": "বিশ্বজগতের রব তো তারা আগেই বলেছিল, তাহলে নাম জুড়ল কেন? তাবারী আয়াতের ঠিক পরেই ছোট্ট এক কথায় জবাব দেন: মূসা ও হারূনের রব, ফিরআউন নয়। মাআরিফুল কুরআন কারণটা খুলে বলে। নাম দুটি জানিয়ে দেয়, মূসা (আঃ) ও হারূন (আঃ) যাঁর ইবাদত করেন তিনিই আসলে জগতের রব, ফিরআউন নয়, যদিও সে নিজেকে তেমনই দাবি করত। দাবিটা কী ছিল, ইবন কাসীর পরের আয়াতের আলোচনায় তা উদ্ধৃত করেন। ৭৯:২৪-এ ফিরআউনের নিজের কথা: আমিই তোমাদের সর্বোচ্চ রব।"
+          },
+          {
+            "en": "On that reading the second phrase is a fence around the first. Lord of the worlds is true, but a man who called himself the highest lord could pretend it pointed at him. Lord of Musa and Harun cannot be bent that way. It ties the confession to the two brothers standing in the open against the throne, and says in front of the throne that the throne is not the Lord. The Muyassar draws the consequence: He is the Lord of Musa and Harun, and He is the one to whom worship must be directed alone, to the exclusion of all others.",
+            "bn": "এ ব্যাখ্যায় দ্বিতীয় কথাটি প্রথমটির চারপাশে বেড়ার মতো। বিশ্বজগতের রব কথাটা সত্য। কিন্তু যে লোক নিজেকে সর্বোচ্চ রব বলে, সে ভান করতে পারত যে কথাটা তারই দিকে ইশারা। মূসা ও হারূনের রব কথাটাকে সেভাবে বাঁকানো যায় না। সাক্ষ্যটা বাঁধা পড়ে গেল সেই দুই ভাইয়ের সঙ্গে, যারা খোলা ময়দানে সিংহাসনের বিপরীতে দাঁড়িয়ে। সিংহাসনের সামনেই ঘোষণা হলো, সিংহাসন রব নয়। মুয়াসসার এর ফল টেনে বলে: তিনিই মূসা ও হারূনের রব, আর ইবাদত একমাত্র তাঁরই প্রাপ্য, আর কারও নয়।"
+          },
+          {
+            "en": "As-Sa'di gives the content of their faith rather than its object: we have affirmed the clear signs with which Musa was sent. Al-Jalalayn gives its ground: they realised that what they had witnessed of the staff could not be done through sorcery. In Ibn Ishaq's report, carried by Ibn Kathir, they say it outright: had this man been a sorcerer, he would not have beaten us. Their craft is what made the testimony so quick. They knew exactly where sorcery ends, so they knew exactly when something had gone past it.",
+            "bn": "সা'দী বলেন ঈমানের বিষয়বস্তুর কথা: মূসাকে যেসব স্পষ্ট নিদর্শন দিয়ে পাঠানো হয়েছে, আমরা সেগুলো সত্য বলে মেনে নিলাম। জালালাইন বলে এর ভিত্তির কথা: লাঠির যে কাণ্ড তারা দেখল, তা যে যাদু দিয়ে সম্ভব নয়, সেটা তারা বুঝে গিয়েছিল। ইবন কাসীরের আনা ইবন ইসহাকের বর্ণনায় তারা সোজাসুজিই বলে: এ লোক যাদুকর হলে আমাদের হারাতে পারত না। তাদের এত দ্রুত সাক্ষ্য দেওয়ার পেছনে ছিল তাদের নিজেদের বিদ্যা। যাদুর সীমা কোথায়, তারা ঠিক জানত। তাই কোনো কিছু সেই সীমা পেরোলে সেটাও তারা ঠিক ধরতে পারল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief That Came Too Early",
+          "bn": "সময়ের আগে আসা ঈমান"
+        },
+        "p": [
+          {
+            "en": "Pharaoh's first sentence is about permission, not about what happened. Amantum bihi qabla an adhana lakum: you believed in him before I gave you leave. Al-Baghawi records that Hafs reads amantum as a statement here, as in Ta-Ha and ash-Shu'ara, while the other readers make it a question, a-amantum, have you believed? Al-Qurtubi names its force in one word, inkar, a rebuke, and at-Tabari glosses it: did you affirm Musa and acknowledge his prophethood before I permitted you to believe in him? Pharaoh never says the belief is false. He says it came too early.",
+            "bn": "ফিরআউনের প্রথম বাক্য ঘটনা নিয়ে নয়, অনুমতি নিয়ে। আমানতুম বিহী কাবলা আন আযানা লাকুম: আমি অনুমতি দেওয়ার আগেই তোমরা তার প্রতি ঈমান আনলে। বাগাভী জানান, হাফস এখানে, আর সূরা ত্বা-হা ও শু'আরাতেও, আমানতুম পড়েন সংবাদ হিসেবে। অন্য কারিরা পড়েন প্রশ্ন হিসেবে, আ-আমানতুম, তোমরা কি ঈমান আনলে? কুরতুবী এর সুর একটি শব্দে ধরেন: ইনকার, অর্থাৎ ভর্ৎসনা। তাবারীর ব্যাখ্যা: তোমরা কি আমার অনুমতির আগেই মূসাকে সত্য বলে মেনে নিলে আর তার নবুওয়াত স্বীকার করে বসলে? ঈমানটা মিথ্যা, ফিরআউন একবারও তা বলে না। সে বলে, ঈমানটা এসেছে সময়ের আগে।"
+          },
+          {
+            "en": "As-Sa'di reads the sentence as a portrait of the man. He was a tyrant ruling over bodies and over words; it was settled with him and with them that his word was obeyed and his command carried out, and no one stepped outside it. In that condition, he says, nations sink, their minds weaken, and they cannot defend their rights, and he cites 43:54: he made his people light, and they obeyed him. Ma'arif al-Qur'an hears a second audience. The sentence threatened the magicians and told the crowd that they had believed in haste and fallen into a trap.",
+            "bn": "সা'দী এই বাক্যে লোকটির আসল চেহারা দেখেন। সে ছিল দেহ আর মুখের কথা দুটোরই উপর চেপে বসা এক স্বৈরশাসক। তার কাছে আর প্রজাদের কাছে ব্যাপারটা পাকা হয়ে গিয়েছিল যে তার কথাই মানতে হবে, তার হুকুমই চলবে, কেউ তার বাইরে যেতে পারবে না। সা'দী বলেন, এমন অবস্থায় জাতি নিচে নামে, তাদের বুদ্ধি দুর্বল হয়, নিজেদের হক রক্ষার ক্ষমতাও হারায়। তিনি ৪৩:৫৪ উদ্ধৃত করেন: সে তার জাতিকে হালকা করে ফেলল, আর তারা তার কথা মানল। মাআরিফুল কুরআন এখানে আরেক দল শ্রোতার কথাও বলে। বাক্যটি যাদুকরদের হুমকি দিল, আবার ভিড়কে বোঝাল যে এরা তাড়াহুড়া করে ঈমান এনেছে আর ফাঁদে পা দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Renaming a Defeat",
+          "bn": "পরাজয়ের নতুন নাম"
+        },
+        "p": [
+          {
+            "en": "Then the renaming. Inna hadha la-makrun makartumuhu fi l-madina: this is a plot you plotted in the city. At-Tabari makes this your affirming of him and your acknowledging his prophethood, and makr a ruse by which you deceived those in our city, to drive them out of it. Al-Qurtubi and al-Baghawi read in the city as both time and place: it was arranged between you and Musa in the city of Misr, before you came out to this open ground. Al-Qurtubi calls it muwata'a, collusion, so that you might take control of Egypt.",
+            "bn": "এরপর আসে নাম বদলের পালা। ইন্না হাযা লামাকরুন মাকারতুমূহু ফিল মাদীনা: এটা শহরে বসে তোমাদের পাকানো চক্রান্ত। তাবারীর মতে এটা মানে মূসাকে সত্য বলে মেনে নেওয়া আর তার নবুওয়াত স্বীকার করা। আর মাকর হলো এমন ধোঁকা, যা দিয়ে তোমরা আমাদের শহরের লোকদের ঠকিয়েছ, যাতে তাদের সেখান থেকে বের করে দিতে পারো। কুরতুবী ও বাগাভী শহরে কথাটিকে সময় আর জায়গা দুটোই ধরেন। তাদের ব্যাখ্যায়, এই ময়দানে বেরিয়ে আসার আগে মিসরের শহরেই তোমাদের আর মূসার মধ্যে এটা ঠিক হয়ে গিয়েছিল। কুরতুবী একে বলেন মুওয়াতাআ, অর্থাৎ যোগসাজশ, যাতে তোমরা মিসর দখল করতে পারো।"
+          },
+          {
+            "en": "Li-tukhriju minha ahlaha, to drive its people out of it, is given a political edge. The Muyassar: so that you expel the people of your city and keep its good things for yourselves. Ibn Kathir: so that you and he combine, gain power and force, drive out the great men and the chiefs, and the state and its management become yours. Fa-sawfa ta'lamun, you will come to know, is left open in the Arabic. Al-Qurtubi calls it a threat, and at-Tabari, Ibn Kathir and al-Baghawi supply its object: what I will do to you.",
+            "bn": "লিতুখরিজূ মিনহা আহলাহা, যাতে এর বাসিন্দাদের বের করে দিতে পারো। কথাটায় রাজনীতির ধার দেওয়া হয়েছে। মুয়াসসারের ব্যাখ্যা: যাতে শহরের লোকদের তাড়িয়ে তার সব ভালো জিনিস তোমরা একাই ভোগ করতে পারো। ইবন কাসীরের ব্যাখ্যা: যাতে তোমরা আর সে মিলে ক্ষমতা আর দাপট হাতে পাও, বড় বড় লোক আর সরদারদের বের করে দাও, আর রাষ্ট্র ও তার পরিচালনা তোমাদের হাতে চলে আসে। ফাসাওফা তা'লামূন, শীঘ্রই জানতে পারবে। আরবিতে কথাটা খোলা রাখা হয়েছে। কুরতুবী একে হুমকি বলেন। কী জানবে, তা তাবারী, ইবন কাসীর ও বাগাভী পূরণ করে দেন: আমি তোমাদের সঙ্গে কী করি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Pretext Behind the Charge",
+          "bn": "অভিযোগের পেছনের অজুহাত"
+        },
+        "p": [
+          {
+            "en": "Was there anything behind the charge? As-Suddi, by what Ibn Kathir calls his well-known chain from Ibn Mas'ud (RA), Ibn Abbas (RA) and other Companions, reports in at-Tabari and Ibn Kathir that Musa (AS) met the chief of the magicians and asked him: if I defeat you, will you believe in me and bear witness that what I brought is true? The magician said that tomorrow he would bring a sorcery no sorcery could defeat, and by Allah, if Musa defeated him, he would believe in him. Pharaoh was watching them, the report says, and that is why he said what he said.",
+            "bn": "অভিযোগের পেছনে কি কিছু ছিল? সুদ্দী ইবন মাসঊদ (রাঃ), ইবন আব্বাস (রাঃ) ও আরও কয়েকজন সাহাবি থেকে একটি বর্ণনা আনেন, ইবন কাসীর যার সনদকে বলেন সুপরিচিত। তাবারী ও ইবন কাসীর দুজনেই তা উদ্ধৃত করেন। মূসা (আঃ) যাদুকরদের সর্দারের দেখা পেয়ে জিজ্ঞেস করলেন: আমি তোমাকে হারালে তুমি কি আমার প্রতি ঈমান আনবে, আর সাক্ষ্য দেবে যে আমি যা এনেছি তা সত্য? যাদুকর বলল, কাল সে এমন যাদু আনবে যা কোনো যাদু হারাতে পারবে না। আল্লাহর কসম, মূসা তাকে হারালে সে তাঁর প্রতি ঈমান আনবে। বর্ণনা বলে, ফিরআউন দুজনকে দেখছিল। সে কারণেই সে ওই কথা বলেছিল।"
+          },
+          {
+            "en": "Al-Baghawi carries the same exchange from Muqatil, again with Pharaoh looking on. It is a report from the early generations, not a word of the Prophet ﷺ, and at most it shows what pretext the charge was hung on. On the charge itself Ibn Kathir and as-Sa'di agree: Pharaoh knew it was false, as did anyone who looked into the matter. Musa (AS) had never met any of these men; they had been gathered under Pharaoh's eye by his own messengers, and they had spent every effort to beat Musa until they could not. Ibn Kathir carries the report and this judgement side by side without reconciling them.",
+            "bn": "বাগাভী একই কথোপকথন আনেন মুকাতিল থেকে, সেখানেও ফিরআউন তাকিয়ে দেখছিল। এটা প্রথম যুগের লোকদের বর্ণনা, নবী ﷺ-এর কথা নয়। বড়জোর এটুকু দেখায় যে অভিযোগটা কোন অজুহাতের উপর ঝোলানো হয়েছিল। অভিযোগ নিয়ে ইবন কাসীর ও সা'দী একমত: ফিরআউন জানত এটা মিথ্যা, আর যে কেউ খোঁজ নিলে তা-ই জানত। মূসা (আঃ) এদের কারও সঙ্গে আগে কখনো মেলেননি। এদের জড়ো করা হয়েছিল ফিরআউনের চোখের সামনে, তার নিজের দূতদের দিয়ে। মূসাকে হারাতে তারা সব চেষ্টা করেছিল, শেষে পারেনি। ইবন কাসীর বর্ণনাটি আর এই মূল্যায়ন পাশাপাশি রাখেন, দুটোর মিল ঘটানোর চেষ্টা করেন না।"
+          },
+          {
+            "en": "Ibn Kathir also says how the magicians were collected. Pharaoh sent through the cities of his realm, gathered sorcerers scattered across the regions of Egypt, chosen by him and his chiefs, and promised them a large reward. How many came, the commentary on these two verses does not say. At-Tabari, at 7:113, gives counts that do not agree: fifteen thousand from Ibn Ishaq, who adds Allah knows best; seventy from Ikrima, where at-Tabari thinks he said seventy thousand; eighty thousand from Ibn al-Mundhir; twelve thousand from Ka'b. None is from the Prophet ﷺ, and nothing here rests on any of them.",
+            "bn": "যাদুকরদের কীভাবে জড়ো করা হয়েছিল, ইবন কাসীর তাও বলেন। ফিরআউন তার রাজ্যের শহরে শহরে লোক পাঠাল। মিসরের নানা অঞ্চলে ছড়িয়ে থাকা যাদুকরদের মধ্য থেকে সে আর তার সরদাররা বাছাই করে তাদের ডেকে আনল, আর বড় পুরস্কারের প্রতিশ্রুতি দিল। কতজন এসেছিল, এ দুই আয়াতের তাফসীরে তা নেই। তাবারী ৭:১১৩ আয়াতের আলোচনায় কয়েকটি সংখ্যা আনেন, যেগুলো একটি আরেকটির সঙ্গে মেলে না। ইবন ইসহাক বলেন ১৫ হাজার, সঙ্গে যোগ করেন, আল্লাহই ভালো জানেন। ইকরিমা বলেন ৭০, আর তাবারীর ধারণা তিনি ৭০ হাজার বলেছিলেন। ইবন মুনযির বলেন ৮০ হাজার, কা'ব বলেন ১২ হাজার। এর কোনোটিই নবী ﷺ থেকে নয়, আর এ লেখার কিছুই এগুলোর উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Command Has an Edge",
+          "bn": "হুকুমেরও সীমা আছে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for these two verses attaches a hadith of the Prophet ﷺ to them. What the Sunnah supplies, as a general teaching and not a comment on this scene, is the principle Pharaoh's question denies. Sahih al-Bukhari 7257 records from Ali (RA) that the Prophet ﷺ sent out an army under a commander. The man lit a fire and told them to enter it. Some meant to; others said: we only fled from it. They told the Prophet ﷺ, and he said of those who had meant to enter: had they entered it, they would have stayed in it until the Day of Resurrection.",
+            "bn": "এ দুই আয়াতের যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস জোড়ে না। সুন্নাহ যা দেয়, তা এই দৃশ্যের ব্যাখ্যা নয়, একটি সাধারণ শিক্ষা। আর ফিরআউনের প্রশ্ন ঠিক সেই নীতিটাকেই অস্বীকার করে। সহীহ বুখারী ৭২৫৭-এ আলী (রাঃ) বর্ণনা করেন, নবী ﷺ একটি বাহিনী পাঠালেন, এক ব্যক্তিকে তাদের আমীর বানালেন। লোকটি আগুন জ্বালিয়ে বলল, এতে ঢোকো। কেউ কেউ ঢুকতে চাইল। অন্যরা বলল, আমরা তো আগুন থেকেই পালিয়ে এসেছি। তারা ঘটনাটা নবী ﷺ-কে জানাল। যারা ঢুকতে চেয়েছিল, তাদের সম্পর্কে তিনি বললেন: তারা ঢুকলে কিয়ামত পর্যন্ত তাতেই থেকে যেত।"
+          },
+          {
+            "en": "Then he said to the others: no obedience for evil deeds; obedience is required only in what is good. The commander in that narration was appointed by the Prophet ﷺ himself, and still his order had an edge it could not pass. Pharaoh claimed far more than command; he claimed the right to license belief itself. The narration does not mention Pharaoh and is not attached to this verse, but it states plainly the line the magicians crossed without asking: a command reaches as far as what is good, and no further.",
+            "bn": "আর অন্যদের বললেন: গুনাহের কাজে কোনো আনুগত্য নেই, আনুগত্য কেবল ভালো কাজে। ওই বর্ণনার আমীরকে নিযুক্ত করেছিলেন নবী ﷺ নিজে। তবু তার হুকুমের একটা সীমা ছিল, যা সে পেরোতে পারত না। ফিরআউনের দাবি তো হুকুমের চেয়ে অনেক বেশি। সে চাইত, ঈমান আনার অনুমতিও তার কাছ থেকে নিতে হবে। এ হাদীসে ফিরআউনের উল্লেখ নেই, এ আয়াতের সঙ্গেও তা জোড়া নয়। কিন্তু যাদুকররা অনুমতি না চেয়ে যে রেখা পার হলো, হাদীসটি সেই রেখা স্পষ্ট করে দেয়। হুকুম চলে ভালো কাজ পর্যন্ত, তার বাইরে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hall in Two Other Tellings",
+          "bn": "আরও দুই জায়গায় একই দরবার"
+        },
+        "p": [
+          {
+            "en": "The scene is told twice more, and each telling is worth reading beside this one. In 20:70 the magicians name the brothers in the other order, the Lord of Harun and Musa, and in 20:71 Pharaoh's reply adds a line this surah leaves out: he is your chief who taught you magic. In 26:47 and 26:48 the confession repeats the words of 7:121 and 7:122 exactly, and 26:49 carries the same added line. Ibn Kathir cites the Ta-Ha wording to explain the plot of 7:123, and as-Sa'di folds it into his paraphrase: Musa is your chief, and you agreed with him to be beaten.",
+            "bn": "দৃশ্যটি আরও দুবার বলা হয়েছে, আর দুটোই এর পাশে রেখে পড়ার মতো। ২০:৭০-এ যাদুকররা দুই ভাইয়ের নাম নেয় উল্টো ক্রমে, হারূন ও মূসার রব। ২০:৭১-এ ফিরআউনের জবাবে একটা কথা বাড়তি আছে, যা এ সূরায় নেই: সে-ই তোমাদের গুরু, যে তোমাদের যাদু শিখিয়েছে। ২৬:৪৭ ও ২৬:৪৮-এ সাক্ষ্যের ভাষা হুবহু ৭:১২১ ও ৭:১২২-এর মতো, আর ২৬:৪৯-এ আছে সেই বাড়তি কথাটাই। ৭:১২৩-এর চক্রান্তের অভিযোগ বোঝাতে ইবন কাসীর ত্বা-হার এই ভাষা উদ্ধৃত করেন। সা'দীও তাঁর ব্যাখ্যায় কথাটা মিশিয়ে দেন: মূসা তোমাদের গুরু, আর তোমরা তার সঙ্গে আগেই ঠিক করে রেখেছিলে যে হেরে যাবে।"
+          },
+          {
+            "en": "One limit needs stating plainly. These verses describe what the text describes: one king, one court, one accusation, on one day. They license nothing against any living person or community. They are not a template for calling a present-day ruler Pharaoh, nor for treating anyone's conversion, or anyone's refusal to convert, as proof of a conspiracy. Ibn Kathir notes that Pharaoh said it to cover himself and to deceive the ignorant mass of his kingdom. The warning in that runs toward the reader: the habit of explaining away an unwelcome truth as somebody's plot is the thing to check in oneself.",
+            "bn": "একটা সীমা পরিষ্কার করে বলা দরকার। আয়াত দুটি বর্ণনা করে কেবল সেটুকু, যা পাঠ বর্ণনা করে: এক রাজা, এক দরবার, এক অভিযোগ, একটি দিন। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো শাসককে ফিরআউন বলে দাগানোর ছাঁচও এটা নয়। কারও ঈমান আনা, কিংবা কারও ঈমান না আনা, ষড়যন্ত্রের প্রমাণ বলে ধরার সুযোগও এখানে নেই। ইবন কাসীর বলেন, ফিরআউন কথাটা বলেছিল নিজেকে আড়াল করতে আর রাজ্যের অজ্ঞ সাধারণ লোকদের ধোঁকা দিতে। সতর্কবাণীটা তাই পাঠকের দিকেই ফেরে। অপছন্দের সত্যকে কারও চক্রান্ত বলে উড়িয়ে দেওয়ার অভ্যাস নিজের মধ্যে আছে কি না, সেটাই যাচাই করার জিনিস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief Without a Permit",
+          "bn": "অনুমতি ছাড়াই ঈমান"
+        },
+        "p": [
+          {
+            "en": "The practical weight of the passage falls on two habits. The first is precision. The magicians did not leave their confession general enough to offend nobody. They named the Lord they meant, in words that shut out the one man in the hall who claimed the title. Our own words about Allah can drift into phrases broad enough to fit whatever we currently serve, whether wealth, approval or a party. Naming Him as the Lord of His messengers, and meaning it, closes that gap.",
+            "bn": "এ আয়াত দুটির বাস্তব শিক্ষা দুটি অভ্যাসে। প্রথমটি স্পষ্টতা। যাদুকররা তাদের সাক্ষ্য এমন ঝাপসা রাখেনি যাতে কেউ অসন্তুষ্ট না হয়। যে রবকে তারা মানে, তাঁর নাম নিল এমন ভাষায়, যা দরবারে রব দাবি করা একমাত্র লোকটিকে বাদ দিয়ে দেয়। আল্লাহকে নিয়ে আমাদের কথাও অনেক সময় এত ঢিলেঢালা হয়ে যায় যে তা আমাদের সেবা করা যেকোনো কিছুর গায়ে লেগে যায়, হোক তা টাকা, মানুষের বাহবা বা কোনো দল। তাঁকে তাঁর রাসূলদের রব বলে চেনা, আর মন থেকে তা মানা, এই ফাঁকটা বন্ধ করে দেয়।"
+          },
+          {
+            "en": "The second is noticing when an argument has stopped being about evidence. Pharaoh's nineteen words hold a rule about permission, a charge of conspiracy, a motive and a threat, and not one word about the staff. When I am answered that way, or catch myself answering that way, the subject has been changed because the evidence could not be met. So ask: is it clear which Lord I mean? What truth am I holding until someone gives me leave? And whose change of heart have I called a plot because of what it cost me?",
+            "bn": "দ্বিতীয়টি হলো খেয়াল করা, কখন তর্কটা আর প্রমাণ নিয়ে থাকে না। ফিরআউনের উনিশ শব্দে আছে অনুমতির নিয়ম, ষড়যন্ত্রের অভিযোগ, মতলবের দোষারোপ আর হুমকি। লাঠি নিয়ে একটি শব্দও নেই। কেউ আমাকে এভাবে জবাব দিলে, কিংবা আমি নিজে এভাবে জবাব দিতে গেলে, বুঝতে হবে প্রমাণের মোকাবিলা করা যায়নি বলেই প্রসঙ্গ বদলানো হয়েছে। তাই নিজেকে জিজ্ঞেস করুন: আমি কোন রবের কথা বলছি, তা কি স্পষ্ট? কোন সত্যকে আমি কারও অনুমতির আশায় আটকে রেখেছি? আর কার মন বদলানোকে আমি ষড়যন্ত্র বলেছি, শুধু তাতে আমার ক্ষতি হয়েছে বলে?"
+          }
+        ]
+      }
+    ]
+  },
   "7:126": {
     "sections": [
       {

@@ -31743,6 +31743,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Name the One who sent what you carry before you say anything about yourself, and remember that the Lord of the worlds is also Lord of whoever stands before you.",
     "lessonBn": "যা বহন করছেন, তা কে পাঠিয়েছেন, নিজের কথা বলার আগে সেটা বলুন। আর মনে রাখুন, আপনার সামনে যে-ই দাঁড়িয়ে থাকুক, বিশ্বজগতের প্রতিপালক তারও প্রতিপালক।"
+  },
+  "7:122-123": {
+    "reflectionEn": "The magicians had already said they believed in the Lord of the worlds. Then they added two names: the Lord of Musa and Harun. In a court where one man called himself lord, those names left no room for a misreading. Pharaoh answered with a question of procedure: you believed before I gave you leave? Then he renamed what everyone had just watched. It was not a defeat, he said, but a plot hatched in the city to take the land from its people. Nothing in his speech touches the staff. He argues about permission and motive, because the evidence had no answer. When the truth reaches me, whose leave am I still waiting for, and what story do I tell to avoid it?",
+    "reflectionBn": "যাদুকররা আগেই বলে ফেলেছিল, তারা বিশ্বজগতের রবের প্রতি ঈমান এনেছে। তারপর জুড়ে দিল দুটি নাম: মূসা ও হারূনের রব। যে দরবারে একজন মানুষ নিজেকেই রব বলে দাবি করত, সেখানে এই দুই নাম ভুল বোঝার কোনো ফাঁক রাখল না। ফিরআউনের জবাব এল নিয়মকানুনের প্রশ্ন দিয়ে: আমি অনুমতি দেওয়ার আগেই তোমরা ঈমান আনলে? তারপর সবাই যা নিজের চোখে দেখল, সে তার নাম বদলে দিল। এটা নাকি হার নয়, শহরে বসে পাকানো ষড়যন্ত্র, দেশের মানুষকে দেশছাড়া করার ফন্দি। লাঠির কথা তার মুখে একবারও আসে না। সে তর্ক করে অনুমতি আর মতলব নিয়ে, কারণ প্রমাণের কোনো জবাব তার কাছে ছিল না। সত্য যখন আমার কাছে পৌঁছায়, আমি তখনো কার অনুমতির অপেক্ষায় থাকি? আর তা এড়াতে নিজেকে কোন গল্প শোনাই?",
+    "pointsEn": [
+      "When I say I believe, would anyone listening know exactly which Lord I mean, or could my words be stretched to fit something else I serve?",
+      "Is there a truth I have already recognised but keep on hold until someone whose approval I want gives me leave?",
+      "When the evidence goes against me, do I answer the evidence, or do I change the subject to procedure and motive?",
+      "Have I ever called another person's change of heart a plot, simply because it cost me something?",
+      "Whose voice in my life quietly decides in advance what I am allowed to believe, and have I ever questioned it?"
+    ],
+    "pointsBn": [
+      "আমি যখন বলি ঈমান এনেছি, শ্রোতা কি স্পষ্ট বোঝে আমি কোন রবের কথা বলছি? নাকি আমার কথা টেনেটুনে এমন কিছুর গায়েও লাগানো যায়, যার সেবা আমি করি?",
+      "এমন কোনো সত্য কি আছে, যা আমি চিনে ফেলেছি, অথচ যার সম্মতি আমি চাই সে অনুমতি না দেওয়া পর্যন্ত ঝুলিয়ে রেখেছি?",
+      "প্রমাণ আমার বিপক্ষে গেলে আমি কি প্রমাণের জবাব দিই, নাকি কথা ঘুরিয়ে নিয়ম আর মতলবের দিকে নিয়ে যাই?",
+      "অন্য কারও মন বদলানোকে কি কখনো ষড়যন্ত্র বলেছি, শুধু এ জন্য যে তাতে আমার কিছু খোয়া গেছে?",
+      "আমার জীবনে কার কণ্ঠ আগেভাগেই ঠিক করে দেয় আমি কী বিশ্বাস করতে পারব? সেই কণ্ঠকে কি কখনো প্রশ্ন করেছি?"
+    ],
+    "lessonEn": "Name the Lord you mean so plainly that no false lord can claim it, and do not wait for anyone's permission to follow a truth you have already seen.",
+    "lessonBn": "যে রবকে মানেন, তাঁর নাম এত স্পষ্ট করে নিন যে কোনো মিথ্যা রব তাতে ভাগ বসাতে না পারে। আর যে সত্য একবার দেখে ফেলেছেন, তা মানতে কারও অনুমতির অপেক্ষা করবেন না।"
   }
 };
 
