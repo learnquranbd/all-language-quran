@@ -31503,6 +31503,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a whisper recasts a limit Allah set as a good He is keeping from you, recognise the old voice behind it and keep to the limit.",
     "lessonBn": "কুমন্ত্রণা যখন আল্লাহর টানা সীমাকে আটকে রাখা কোনো কল্যাণ বলে দেখায়, তখন তার পেছনের পুরোনো কণ্ঠটা চিনে নিন, আর সীমার ভেতরেই থাকুন।"
+  },
+  "6:148": {
+    "reflectionEn": "The idolaters had their answer ready before anyone asked: had Allah willed, we would not have associated partners with Him, nor would our fathers, nor would we have forbidden anything. It sounds almost humble. In practice it was a wall, built so that nothing need change. The reply does not argue about His power. It asks for knowledge: do you have anything that shows He is pleased with what you do? Bring it out. And it names what they had instead, assumption and guesswork. The same wall is easy to rebuild in a quieter voice: this is just how I am, it must have been written. Before I lean on that, the verse asks what I actually know, and what I am only supposing.",
+    "reflectionBn": "কেউ প্রশ্ন তোলার আগেই তাদের জবাব তৈরি ছিল: আল্লাহ চাইলে আমরা শিরক করতাম না, আমাদের বাপদাদারাও করত না, আর কোনো কিছু হারামও করতাম না। শুনতে প্রায় বিনয়ের মতো লাগে। আসলে এ ছিল একটা দেয়াল, যাতে কিছুই বদলাতে না হয়। জবাবে আল্লাহর ক্ষমতা নিয়ে কোনো তর্ক নেই। জবাবটা বরং জ্ঞান চায়: তোমরা যা করছ তাতে তিনি সন্তুষ্ট, এমন কোনো প্রমাণ কি তোমাদের হাতে আছে? থাকলে বের করে দেখাও। আর তাদের হাতে আসলে যা ছিল, আয়াত তারও নাম বলে দেয়: ধারণা আর আন্দাজ। একই দেয়াল আরও নিচু গলায় আবার গড়া খুব সহজ: আমি তো এমনই, কপালে এটাই লেখা ছিল। সে দেয়ালে হেলান দেওয়ার আগে আয়াতটা আমাকে জিজ্ঞেস করে, আমি আসলে কী জানি, আর কী শুধু অনুমান করে যাচ্ছি?",
+    "pointsEn": [
+      "Which habit of mine do I defend with 'this is how I was made' rather than with anything Allah actually said?",
+      "When I call something forbidden or required, can I bring out where that knowledge comes from, or am I following an assumption I inherited?",
+      "Do I take the fact that Allah has not yet stopped me as a sign that He is pleased with what I am doing?",
+      "Is there a truth that has already become clear to me, which I keep at a distance with an argument instead of a change?",
+      "When I speak about what Allah wills or wants, how much of it rests on knowledge and how much on guesswork?"
+    ],
+    "pointsBn": [
+      "আমার কোন অভ্যাসকে আমি আল্লাহর কোনো কথা দিয়ে নয়, বরং 'আমি তো এভাবেই তৈরি' বলে আগলে রাখি?",
+      "কোনো কিছুকে যখন হারাম বা জরুরি বলি, সে জ্ঞান কোথা থেকে এল তা কি দেখাতে পারি, নাকি বাপদাদার কাছ থেকে পাওয়া একটা ধারণার পেছনে চলছি?",
+      "আল্লাহ এখনো আমাকে থামাননি, শুধু এ থেকেই কি ধরে নিচ্ছি যে আমার কাজে তিনি খুশি?",
+      "কোনো সত্য কি আমার কাছে পরিষ্কার হয়ে গেছে, অথচ নিজেকে না বদলে যুক্তি দিয়ে সেটাকে দূরে ঠেকিয়ে রাখছি?",
+      "আল্লাহ কী চান বা কী পছন্দ করেন, এ নিয়ে আমি যা বলি তার কতটা জ্ঞানের উপর দাঁড়িয়ে, আর কতটা আন্দাজের উপর?"
+    ],
+    "lessonEn": "Do not use Allah's will as cover for what you choose; before claiming He is pleased with something, ask what knowledge you have, and leave assumption behind.",
+    "lessonBn": "নিজের বেছে নেওয়া পথ ঢাকতে আল্লাহর ইচ্ছাকে ঢাল বানাবেন না। কোনো কিছুতে তিনি সন্তুষ্ট, এ কথা বলার আগে নিজেকে জিজ্ঞেস করুন আপনার কাছে কী জ্ঞান আছে, আর আন্দাজ ছেড়ে দিন।"
   }
 };
 

@@ -7491,6 +7491,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:148": {
+    "sections": [
+      {
+        "h": {
+          "en": "Answered Before It Was Spoken",
+          "bn": "মুখে আনার আগেই জবাব"
+        },
+        "p": [
+          {
+            "en": "The verse opens in the future tense: sayaqulu alladhina ashraku, those who associate partners will say. Al-Qurtubi reads this as Allah informing in advance, from the unseen, of what they were going to say. As-Sa'di adds that they did say it, just as they were told they would, and quotes the other verse where the words appear as already spoken: and those who associated partners said, had Allah willed we would not have worshipped anything besides Him. That verse is 16:35.",
+            "bn": "আয়াতের শুরু ভবিষ্যৎ কালে: সাইয়াকূলুল্লাযীনা আশরাকূ, যারা শিরক করেছে তারা বলবে। কুরতুবীর মতে এখানে আল্লাহ গায়েব থেকে আগাম জানিয়ে দিচ্ছেন, তারা কী বলতে যাচ্ছে। সা'দী যোগ করেন, তারা ঠিক তা-ই বলেছিল, যেমনটা আগে জানানো হয়েছিল। প্রমাণ হিসেবে তিনি আরেকটি আয়াত উদ্ধৃত করেন, যেখানে একই কথা অতীত কালে এসেছে: যারা শিরক করেছিল তারা বলল, আল্লাহ চাইলে আমরা তিনি ছাড়া আর কিছুর ইবাদত করতাম না। আয়াতটি ১৬:৩৫।"
+          },
+          {
+            "en": "Who are the speakers? Al-Qurtubi relays from Mujahid that the verse means the disbelievers of Quraysh, and at-Tabari names them the same way: the idolaters of Quraysh who set up idols as equals to Allah. Their sentence has two halves. One concerns worship: we would not have associated, nor our fathers. The other concerns law: nor would we have forbidden anything. Through at-Tabari, Mujahid explains the second half as Quraysh claiming, without certainty, that Allah had forbidden the bahirah and the sa'ibah; al-Qurtubi adds the wasilah.",
+            "bn": "কথাগুলো কাদের? কুরতুবী মুজাহিদ থেকে বর্ণনা করেন, এখানে কুরাইশের কাফিরদের কথা বলা হয়েছে। তাবারীও একই লোকদের চিহ্নিত করেন: কুরাইশের সেই মুশরিকরা, যারা মূর্তিকে আল্লাহর সমকক্ষ বানাত। তাদের বাক্যের দুটি ভাগ। একটি ইবাদত নিয়ে: আমরা শিরক করতাম না, বাপদাদারাও না। অন্যটি বিধান নিয়ে: কোনো কিছু হারামও করতাম না। তাবারীর সূত্রে মুজাহিদ দ্বিতীয় ভাগটির ব্যাখ্যা দেন: কুরাইশ কোনো নিশ্চিত জ্ঞান ছাড়াই দাবি করত যে বাহীরা ও সাইবা আল্লাহই হারাম করেছেন। কুরতুবী এর সঙ্গে ওয়াসীলার কথাও যোগ করেন।"
+          },
+          {
+            "en": "That second half ties the verse to what precedes it. At-Tabari says the prohibitions they defend are the ones Allah set out from 6:136 onward, where they assigned Him a share of the crops and cattle He had produced. Two verses back, 6:144 asked whether they were present when Allah charged them. Here the plea goes to the root: if He let it happen, He wanted it.",
+            "bn": "এই দ্বিতীয় ভাগটাই আয়াতকে আগের আলোচনার সঙ্গে জুড়ে দেয়। তাবারী বলেন, তারা যেসব নিষেধ আঁকড়ে ছিল, সেগুলোর বিবরণ আল্লাহ দিয়েছেন ৬:১৩৬ থেকে শুরু করে, যেখানে তারা আল্লাহরই সৃষ্টি করা ফসল আর গবাদি পশু থেকে তাঁর জন্য একটা ভাগ আলাদা করত। দুই আয়াত আগে ৬:১৪৪ জিজ্ঞেস করেছিল, আল্লাহ যখন এসব নির্দেশ দিলেন তখন কি তোমরা হাজির ছিলে? এখানে অজুহাতটা একেবারে গোড়ায় গিয়ে ঠেকে: তিনি যখন হতে দিয়েছেন, তিনি এটাই চেয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Could Have Stopped Us",
+          "bn": "তিনি তো থামাতে পারতেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari spells out the reasoning behind the plea. Allah, they said, is able to come between us and what we do, so that we have no way to do it: either by compelling us into faith and into declaring lawful what we forbade, or by showing us gentle favour through His help, so that we come to affirm His oneness. He did neither. Therefore He is pleased with our worship of idols, and He has willed the crops and cattle we forbid.",
+            "bn": "অজুহাতের পেছনের যুক্তিটা তাবারী খুলে বলেন। তাদের কথা ছিল এমন: আমরা যা করছি, আল্লাহ চাইলে আমাদের আর সে কাজের মাঝে আড়াল হয়ে দাঁড়াতে পারেন, যাতে করার কোনো পথই না থাকে। হয় জোর করে আমাদের ঈমানে আনবেন, আমাদের হারাম করা জিনিস হালাল বলিয়ে নেবেন। নয়তো তাওফীক দিয়ে কোমলভাবে টেনে নেবেন, যাতে আমরা তাঁর একত্ব মেনে নিই। তিনি এর কোনোটাই করেননি। কাজেই মূর্তিপূজায় তিনি আমাদের উপর সন্তুষ্ট, আর যেসব ফসল ও পশু আমরা হারাম করি, সেটাও তাঁরই চাওয়া।"
+          },
+          {
+            "en": "Ibn Kathir calls it a doubt the idolaters clung to, and his version runs the same way: Allah sees our shirk and our prohibitions, and is able to change them by inspiring us with faith or by barring us from disbelief; He has not changed them, which shows that this is by His will, His wish and His pleasure with us. Al-Baghawi has them add the last step outright: had He not been pleased, wanted it of us and commanded it, He would have prevented it.",
+            "bn": "ইবন কাসীর একে বলেন মুশরিকদের আঁকড়ে ধরা এক সংশয়, আর তাঁর বর্ণনাতেও যুক্তিটা একই পথে চলে। আল্লাহ আমাদের শিরক আর হারাম করার সব খবর রাখেন। তিনি চাইলে ঈমানের প্রেরণা দিয়ে বা কুফর থেকে আটকে দিয়ে এসব বদলে দিতে পারতেন। বদলাননি। এতেই বোঝা যায়, এসব তাঁর ইচ্ছা, তাঁর চাওয়া আর আমাদের প্রতি তাঁর সন্তুষ্টি থেকেই ঘটছে। বাগাভী তাদের মুখে শেষ ধাপটাও খোলাখুলি বসান: তিনি যদি খুশি না হতেন, এটা না চাইতেন, এর আদেশ না দিতেন, তাহলে নিশ্চয়ই বাধা দিতেন।"
+          },
+          {
+            "en": "The commentators also say when the plea was made. At-Tabari: they said it as a barrier against yielding to the truth, with a false argument, after the truth had become clear to them and they knew their shirk was false. Al-Baghawi and al-Qurtubi say nearly the same: when the proof had bound them and they were certain their way was false. Al-Muyassar widens the claim: they asserted that Allah had willed disbelief for them, was pleased with it and loved it for them.",
+            "bn": "কথাটা কখন বলা হয়েছিল, তাফসীরকারেরা সেটাও জানান। তাবারীর মতে, সত্য যখন তাদের সামনে পরিষ্কার হয়ে গেছে আর তারা বুঝে ফেলেছে যে তাদের শিরক বাতিল, তখন সত্যের কাছে মাথা নোয়ানো ঠেকাতে তারা এই ভ্রান্ত যুক্তিকে আড়াল বানিয়েছিল। বাগাভী ও কুরতুবীর কথাও প্রায় এক: দলিল যখন তাদের চেপে ধরেছে, আর নিজেদের পথ যে বাতিল তা তারা নিশ্চিত জেনে গেছে। মুয়াসসার দাবিটাকে আরও বড় করে দেখান। তারা বলত, আল্লাহই তাদের জন্য কুফর চেয়েছেন, তাতে খুশি হয়েছেন, আর তাদের জন্য সেটা পছন্দও করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denied, Assumed, Guessed",
+          "bn": "অস্বীকার, ধারণা, আন্দাজ"
+        },
+        "p": [
+          {
+            "en": "The verb that answers them is kadhdhaba, with a doubled dhal: likewise those before them denied. At-Tabari builds an argument on the doubling. Kadhdhaba is to call someone a liar, to deny a messenger; kadhaba, with a single dhal, is simply to lie. Had Allah been reporting that their sentence was itself a lie, he says, the verse would have read kadhaba. It reads kadhdhaba, so it ranks them with earlier nations who denied their prophets. Al-Baghawi makes the same argument in nearly the same words.",
+            "bn": "যে ক্রিয়াপদ দিয়ে তাদের জবাব দেওয়া হলো তা কাযযাবা, যাল অক্ষরে তাশদীদসহ: এভাবেই তাদের আগের লোকেরাও অস্বীকার করেছিল। এই তাশদীদের উপর তাবারী একটা যুক্তি দাঁড় করান। কাযযাবা মানে কাউকে মিথ্যাবাদী বলা, রাসূলকে অস্বীকার করা। তাশদীদ ছাড়া কাযাবা মানে নিছক মিথ্যা বলা। তাঁর কথা, আল্লাহ যদি জানাতে চাইতেন যে তাদের বাক্যটাই মিথ্যা, তাহলে আয়াতে কাযাবা আসত। এসেছে কাযযাবা। তাই আয়াত তাদের বসিয়েছে আগের সেই জাতিগুলোর কাতারে, যারা নিজেদের নবীকে অস্বীকার করেছিল। বাগাভীও প্রায় একই ভাষায় একই যুক্তি দেন।"
+          },
+          {
+            "en": "Two more words close the verse. Zann, assumption: Ibn Kathir glosses it as illusion and fancy, and says it means here a corrupt belief. At-Tabari: they say what they say and worship what they worship, reckoning it true and themselves in the right, when it is falsehood. Takhrusun, from kharṣ: at-Tabari explains it as speaking falsehood about Allah by guesswork, with no certain knowledge and no clear proof. Ibn Kathir and al-Baghawi gloss it as: you lie, Ibn Kathir adding, about Allah.",
+            "bn": "আয়াতের শেষে আরও দুটি শব্দ। প্রথমটি যন্ন, অর্থাৎ ধারণা। ইবন কাসীর এর অর্থ করেন কল্পনা আর খেয়াল, আর বলেন, এখানে যন্ন মানে ভ্রান্ত বিশ্বাস। তাবারীর ব্যাখ্যা: তারা যা বলে, যার ইবাদত করে, সবই এই ধারণায় যে এটাই হক আর তারাই হকের উপর আছে, অথচ সবটাই বাতিল। দ্বিতীয়টি তাখরুসূন, খারস থেকে। তাবারী বলেন, এর মানে কোনো নিশ্চিত জ্ঞান বা স্পষ্ট দলিল ছাড়া আন্দাজে আল্লাহর নামে অসত্য বলা। ইবন কাসীর ও বাগাভী এর অর্থ করেন: তোমরা মিথ্যা বলছ। ইবন কাসীর যোগ করেন, আল্লাহর নামে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Part Was the Falsehood",
+          "bn": "মিথ্যাটা ঠিক কোথায়"
+        },
+        "p": [
+          {
+            "en": "The commentators do not all locate the falsehood in the same place. At-Tabari, Ibn Kathir and al-Muyassar put it in the conclusion. At-Tabari says Allah gave the lie to their saying that He was pleased with their shirk and their prohibitions. Ibn Kathir reads the question as: have you knowledge that Allah is pleased with you in what you do? Al-Muyassar's version asks for sound knowledge that Allah willed their disbelief and loved it. On this reading, what fails is the claimed approval.",
+            "bn": "মিথ্যাটা ঠিক কোথায়, এ নিয়ে তাফসীরকারেরা সবাই এক জায়গায় দাঁড়ান না। তাবারী, ইবন কাসীর ও মুয়াসসার মিথ্যাটা দেখেন উপসংহারে। তাবারী বলেন, আল্লাহ তাদের যে কথাটা মিথ্যা প্রমাণ করেছেন তা হলো, তাদের শিরক আর হারাম করায় তিনি সন্তুষ্ট। ইবন কাসীরের কাছে প্রশ্নটা এই: তোমরা যা করছ তাতে আল্লাহ তোমাদের উপর খুশি, এমন জ্ঞান কি তোমাদের আছে? মুয়াসসারের প্রশ্ন: আল্লাহ তোমাদের কুফর চেয়েছেন ও পছন্দ করেছেন, এর পক্ষে খাঁটি জ্ঞান আছে কি? এই পাঠে অচল হয়ে যায় তাঁর সন্তুষ্টির দাবিটা।"
+          },
+          {
+            "en": "Al-Baghawi records an argument over the verse. A group of theologians, he says, cite it as proof that the words had Allah willed were themselves what Allah denied. He replies that the denial does not fall on those words, which are true, but on their claim that Allah commanded their practice and was pleased with it. He compares 7:28, where people say of an indecency that Allah has commanded us to it, and the answer comes: Allah does not command indecency.",
+            "bn": "আয়াতটি নিয়ে একটি বিতর্কের কথা বাগাভী লিখে রেখেছেন। তিনি বলেন, একদল তাত্ত্বিক এ আয়াতকে দলিল বানান এই বলে যে, আল্লাহ চাইলে, এ কথাটাকেই আল্লাহ মিথ্যা বলেছেন। বাগাভীর জবাব, অস্বীকার ওই কথার উপর পড়েনি, কারণ কথাটা সত্য। অস্বীকার পড়েছে তাদের এই দাবির উপর যে, আল্লাহ তাদের এ কাজের আদেশ দিয়েছেন আর তাতে খুশি হয়েছেন। তুলনা হিসেবে তিনি ৭:২৮ আনেন। সেখানে লোকেরা একটা অশ্লীল কাজ সম্পর্কে বলে, আল্লাহ আমাদের এর আদেশ দিয়েছেন। জবাব আসে: আল্লাহ অশ্লীলতার আদেশ দেন না।"
+          },
+          {
+            "en": "He then relays al-Husayn ibn al-Fadl: had they said these words out of reverence for Allah and knowledge of Him, He would not have faulted them, since He Himself says in 6:107 that had Allah willed they would not have associated, and in 6:111 that they would not believe unless Allah willed, and the believers say the same. They said it to deny and to dispute, by guesswork, without knowing Allah or what they were saying.",
+            "bn": "এরপর বাগাভী হুসাইন ইবনুল ফাদলের কথা উদ্ধৃত করেন। তারা যদি আল্লাহর প্রতি সম্মান আর তাঁকে চেনার জায়গা থেকে কথাটা বলত, তাহলে আল্লাহ তাদের দোষ ধরতেন না। কারণ আল্লাহ নিজেই ৬:১০৭ আয়াতে বলেছেন, আল্লাহ চাইলে তারা শিরক করত না। ৬:১১১ আয়াতে বলেছেন, আল্লাহ না চাইলে তারা ঈমান আনত না। মুমিনরাও এ কথা বলে। কিন্তু তারা বলেছিল অস্বীকার আর তর্কের জন্য, আন্দাজে, আল্লাহকে না চিনে এবং নিজেরা কী বলছে তা না বুঝে।"
+          },
+          {
+            "en": "Al-Baghawi adds a further reading, under it is said: they spoke a truth with these words but made it an excuse for leaving faith, and were answered because Allah's command stands apart from His will. He wills all that comes to be without commanding all He wills, and His will is no excuse for anyone. Al-Qurtubi gives the plea another sense: had Allah willed, He would have sent our fathers a messenger to forbid them, they would have stopped, and we would have followed them.",
+            "bn": "বাগাভী 'বলা হয়' কথাটি জুড়ে আরেকটি ব্যাখ্যা আনেন। এ কথায় তারা সত্যই বলেছিল, কিন্তু সেটাকে ঈমান না আনার অজুহাত বানিয়েছিল। তাদের জবাব দেওয়া হয়েছে, কারণ আল্লাহর আদেশ তাঁর ইচ্ছা থেকে আলাদা। যা কিছু ঘটে সবই তিনি চান, কিন্তু যা চান তার সবকিছুর আদেশ দেন না। আর তাঁর ইচ্ছা কারও জন্য অজুহাত হয় না। কুরতুবী অজুহাতটির অন্য এক অর্থ করেন: আল্লাহ চাইলে আমাদের বাপদাদার কাছে রাসূল পাঠাতেন, তিনি তাদের নিষেধ করতেন, তারা থেমে যেত, আর আমরা তাদের অনুসরণ করতাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If the Excuse Had Held",
+          "bn": "অজুহাত টিকলে যা হতো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di names the move directly: they would argue for their shirk, and for forbidding what Allah made lawful, from the decree, al-qada' wa al-qadar, making His will that covers everything good and bad a proof to push the blame off themselves. Then comes kadhalika kadhdhaba alladhina min qablihim. Ibn Kathir reads it as saying that with this same doubt those before them went astray. Al-Muyassar: the disbelievers before them raised it too, and with it rejected their messengers' call.",
+            "bn": "সা'দী চালটার নাম সরাসরি বলে দেন। নিজেদের শিরক আর আল্লাহর হালাল করা জিনিস হারাম করার পক্ষে তারা দলিল টানবে তাকদীর থেকে, অর্থাৎ কাযা ও কদর থেকে। ভালো-মন্দ সবকিছু জুড়ে থাকা আল্লাহর ইচ্ছাকে তারা ঢাল বানাবে, যাতে দোষ নিজেদের ঘাড় থেকে নামানো যায়। তারপর আসে কাযালিকা কাযযাবাল্লাযীনা মিন কাবলিহিম। ইবন কাসীর এর অর্থ করেন: এই একই সংশয়ে পড়ে তাদের আগের লোকেরাও পথ হারিয়েছিল। মুয়াসসার বলেন, আগের কাফিররাও এ কথা তুলেছিল, আর এ দিয়েই রাসূলদের দাওয়াত ফিরিয়ে দিয়েছিল।"
+          },
+          {
+            "en": "The phrase hatta dhaqu ba'sana, until they tasted Our punishment, supplies the first rebuttal. Ibn Kathir: had the argument been sound, Allah would not have made them taste His punishment, destroyed them and given His noble messengers the upper hand over them. As-Sa'di frames it as a rule: a sound proof would have kept the punishment away, and He sends His punishment only on one who has earned it. At-Tabari adds: the later deniers will be led down the same road unless they turn back and believe.",
+            "bn": "হাত্তা যাকূ বা'সানা, অবশেষে তারা আমার শাস্তির স্বাদ নিল। প্রথম খণ্ডনটা এই কথাতেই। ইবন কাসীর বলেন, যুক্তিটা ঠিক হলে আল্লাহ তাদের শাস্তির স্বাদ দিতেন না, ধ্বংস করতেন না, আর তাঁর সম্মানিত রাসূলদের তাদের উপর বিজয়ী করতেন না। সা'দী একে একটা নিয়মের আকারে বলেন: দলিল সঠিক হলে শাস্তি ঠেকিয়ে দিত, আর আল্লাহ শাস্তি নামান কেবল তার উপর, যে তার যোগ্য হয়েছে। তাবারী যোগ করেন, পরের অস্বীকারকারীদেরও একই পথে নেওয়া হবে, যদি না তারা ফিরে এসে ঈমান আনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge You Could Bring Out",
+          "bn": "যে জ্ঞান বের করে দেখানো যায়"
+        },
+        "p": [
+          {
+            "en": "Then the Prophet ﷺ is told to ask: hal 'indakum min 'ilmin fa-tukhrijuhu lana, do you have any knowledge, so that you bring it out for us? At-Tabari defines what is asked for as certain knowledge: a report from someone whose word cuts off every excuse, or a proof that makes the matter certain. Al-Baghawi: a book and a proof from Allah. Ibn Kathir names its content: knowledge that Allah is pleased with you.",
+            "bn": "এরপর নবী ﷺ-কে প্রশ্নটা করতে বলা হলো: হাল ইনদাকুম মিন ইলমিন ফাতুখরিজূহু লানা, তোমাদের কাছে কি কোনো জ্ঞান আছে, যা আমাদের সামনে বের করে দেখাবে? তাবারী বলেন, এখানে চাওয়া হয়েছে নিশ্চিত জ্ঞান। হয় এমন কারও খবর, যার কথার পর আর কোনো ওজর চলে না, নয়তো এমন দলিল, যা বিষয়টাকে নিশ্চিত করে দেয়। বাগাভীর মতে, আল্লাহর কাছ থেকে আসা কোনো কিতাব ও দলিল। ইবন কাসীর জ্ঞানের বিষয়টাও বলে দেন: আল্লাহ যে তোমাদের উপর খুশি, সেই জ্ঞান।"
+          },
+          {
+            "en": "Fa-tukhrijuhu, bring it out, means in at-Tabari's words: make it plain and show it, just as We have shown you where your words and deeds go wrong, how they contradict each other, and how they fail by reason and by transmitted report. As-Sa'di reads the silence that follows as the answer. These were bitter opponents; had they had knowledge they would have produced it, and since they did not, it is known they had none. A proof, he says, must rest on knowledge and demonstration.",
+            "bn": "ফাতুখরিজূহু, বের করে দেখাও। তাবারীর ভাষায় এর মানে, বিষয়টা খোলাসা করে সামনে রাখো, যেমন আমরা তোমাদের দেখিয়ে দিয়েছি তোমাদের কথা আর কাজ কোথায় ভুল, কোথায় একটা আরেকটার বিরোধী, আর যুক্তি ও বর্ণনা দুই দিক থেকেই কীভাবে অচল। সা'দী পরের নীরবতাকেই জবাব হিসেবে পড়েন। এরা ছিল কট্টর প্রতিপক্ষ। জ্ঞান থাকলে অবশ্যই বের করে আনত। আনেনি, কাজেই বোঝা গেল তাদের কাছে কোনো জ্ঞান নেই। তাঁর কথা, দলিলকে দাঁড়াতে হয় জ্ঞান আর প্রমাণের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Plea in Other Surahs",
+          "bn": "অন্য সূরায় একই অজুহাত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the verse beside 43:20: and they said, had the Most Merciful willed we would not have worshipped them; they have no knowledge of that. He notes that the passage in an-Nahl is the same, and as-Sa'di quotes it, 16:35. Both he and at-Tabari relay from Ibn 'Abbas (RA), via 'Ali ibn Abi Talhah, that in 6:107 Allah means: had I willed, I would have gathered them all on guidance.",
+            "bn": "ইবন কাসীর আয়াতটিকে ৪৩:২০-এর পাশে রাখেন: তারা বলে, দয়াময় চাইলে আমরা ওদের ইবাদত করতাম না। এ বিষয়ে তাদের কোনো জ্ঞান নেই। তিনি বলেন, সূরা নাহলের আয়াতটিও হুবহু এমন, আর সা'দী সেটি উদ্ধৃত করেন, ১৬:৩৫। ইবন কাসীর ও তাবারী দুজনেই আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, ৬:১০৭ আয়াতে আল্লাহর কথার মর্ম হলো: আমি চাইলে তাদের সবাইকে হিদায়াতের উপর একত্র করতাম।"
+          },
+          {
+            "en": "The next verse gives the other side: say, to Allah belongs the conclusive argument; had He willed He would have guided you all (6:149). Ibn Kathir's abridged commentary on the group reads it as the complete wisdom and decisive proof by which He guides and leaves astray whom He wills, and relays from ad-Dahhak that no one has an excuse if he disobeys Allah, for Allah has the complete proof against His servants. The plea of 6:148 is answered there; this article only points to it.",
+            "bn": "পরের আয়াত বিষয়টার অন্য দিকটা দেখায়: বলো, চূড়ান্ত দলিল আল্লাহরই। তিনি চাইলে তোমাদের সবাইকে হিদায়াত দিতেন (৬:১৪৯)। এই আয়াতগুচ্ছের উপর ইবন কাসীরের সংক্ষিপ্ত তাফসীর একে বলে পূর্ণ প্রজ্ঞা আর অকাট্য প্রমাণ, যা দিয়ে তিনি যাকে চান হিদায়াত দেন, যাকে চান পথহারা রাখেন। সেখানে দাহহাক থেকে বর্ণিত হয়েছে: আল্লাহর নাফরমানি করে কারও কোনো অজুহাত চলে না, বান্দাদের বিরুদ্ধে পূর্ণ দলিল আল্লাহর হাতে। ৬:১৪৮-এর অজুহাতের জবাব সেখানেই। এ লেখা শুধু সেদিকে ইঙ্গিত করে রাখল।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. In a narration not attached to it, Sahih al-Bukhari (4949), 'Ali (RA) relates that the Prophet ﷺ said at a funeral that each of them had his place written in the Fire or in Paradise. They asked: \"Shall we not depend upon what has been written for us and give up deeds?\" He said: \"Carry on doing (good) deeds, for everybody will find easy to do such deeds as will lead him to his destined place for which he has been created.\"",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। আয়াতের সঙ্গে যুক্ত নয় এমন এক বর্ণনায়, সহীহ বুখারীতে (৪৯৪৯), আলী (রাঃ) জানান, এক জানাযায় নবী ﷺ বললেন, তোমাদের প্রত্যেকের ঠিকানা জাহান্নামে কিংবা জান্নাতে লেখা হয়ে আছে। তাঁরা বললেন, আমাদের জন্য যা লেখা হয়ে আছে তার উপর ভরসা করে আমল ছেড়ে দেব না? তিনি বললেন: তোমরা আমল করতে থাকো, কারণ প্রত্যেককে যে জন্য সৃষ্টি করা হয়েছে, তার জন্য সেটাই সহজ করে দেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaning on the Decree",
+          "bn": "তাকদীরে হেলান দেওয়া"
+        },
+        "p": [
+          {
+            "en": "A word on whom the verse describes. It reports what the idolaters of Quraysh said, as the commentators identify them, and what befell the nations before them who denied their messengers. It describes what the text describes, and it licenses nothing against any living person or community. No one may name a group today as those who tasted Our punishment. Its question is put to whoever makes the plea.",
+            "bn": "আয়াতটি কাদের কথা বলছে, সে বিষয়ে একটু বলা দরকার। তাফসীরকারদের চিহ্নিত কুরাইশের মুশরিকরা কী বলেছিল, আর তাদের আগে রাসূলদের অস্বীকারকারী জাতিগুলোর কী পরিণতি হয়েছিল, আয়াত সেটুকুই বর্ণনা করে। পাঠ যা বলে, আয়াত তা-ই বলে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। আজকের কোনো দলকে 'যারা আমার শাস্তির স্বাদ নিল' বলে চিহ্নিত করার অধিকার কারও নেই। আয়াতের প্রশ্নটা তার দিকে, যে এই অজুহাত মুখে আনে।"
+          },
+          {
+            "en": "And the plea is easy to make without any idol in sight. As-Sa'di's phrase fits it: making Allah's all-embracing will a proof to push the blame off oneself. It surfaces as this is just how I am, it was written for me, if Allah wanted me to stop He would have stopped me. The reading al-Baghawi reports draws the line the verse asks me to keep: His will is no excuse for anyone, and what the servant owes is to follow His command.",
+            "bn": "অথচ আশপাশে কোনো মূর্তি না থাকলেও এ অজুহাত দেওয়া খুব সহজ। সা'দীর কথাটা এখানে খাটে: সবকিছু জুড়ে থাকা আল্লাহর ইচ্ছাকে দলিল বানিয়ে নিজের ঘাড় থেকে দোষ নামানো। কথাটা ফিরে আসে নানা চেহারায়। আমি তো এমনই। কপালে এটাই লেখা ছিল। আল্লাহ চাইলে তো আমাকে থামিয়েই দিতেন। বাগাভী যে ব্যাখ্যাটা উদ্ধৃত করেন, তা সীমারেখাটা টেনে দেয়, যা আয়াত আমাকে মেনে চলতে বলে। তাঁর ইচ্ছা কারও জন্য অজুহাত নয়, আর বান্দার দায় হলো তাঁর আদেশ মেনে চলা।"
+          },
+          {
+            "en": "The verse's own test is short. Before I say that Allah is pleased with something, or that He forbade it, or that my state is simply His will for me, it asks: do you have knowledge you can bring out? If the honest answer is assumption, the next step is not a better argument but the change the argument was built to avoid. At-Tabari's description of the plea is worth keeping in view: a barrier raised against yielding to the truth.",
+            "bn": "আয়াতের নিজের পরীক্ষাটা ছোট। কোনো কিছুতে আল্লাহ খুশি, কিংবা তিনি এটা হারাম করেছেন, কিংবা আমার এই অবস্থাটাই আমার জন্য তাঁর ইচ্ছা, এমন কিছু বলার আগে আয়াত জিজ্ঞেস করে: তোমার কাছে কি এমন জ্ঞান আছে, যা বের করে দেখাতে পারো? সৎ উত্তর যদি হয় শুধু ধারণা, তাহলে পরের কাজ আরও জোরালো যুক্তি খোঁজা নয়। পরের কাজ সেই বদলটা, যা এড়াতেই যুক্তিটা বানানো হয়েছিল। অজুহাতটা সম্পর্কে তাবারীর কথা মনে রাখার মতো: সত্যের কাছে মাথা নোয়ানো ঠেকাতে তোলা এক আড়াল।"
+          }
+        ]
+      }
+    ]
+  },
   "6:152": {
     "sections": [
       {
