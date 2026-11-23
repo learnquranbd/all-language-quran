@@ -8067,6 +8067,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:205": {
+    "sections": [
+      {
+        "h": {
+          "en": "What He Does Once Outside",
+          "bn": "বাইরে গিয়ে সে যা করে"
+        },
+        "p": [
+          {
+            "en": "The passage began with two kinds of people at prayer after the rites: one asks only for this world, the other asks for good in both worlds. Ma'arif al-Qur'an reads the verses that follow as the same division, now as hypocrite and sincere. In 2:204 comes a man whose speech pleases you in the life of this world, who calls Allah to witness what is in his heart, yet is the most stubborn of opponents. Verse 2:205 follows that same man out of the door.",
+            "bn": "হজের আমল শেষে দোয়ায় দুই ধরনের মানুষ দিয়ে অংশটি শুরু হয়েছিল। একজন শুধু দুনিয়া চায়, অন্যজন চায় দুনিয়া ও আখিরাত দুটোরই কল্যাণ। মাআরিফুল কুরআনের মতে পরের আয়াতগুলোতে একই ভাগ আবার দেখা দেয়, এবার মুনাফিক আর মুখলিস রূপে। ২:২০৪ আয়াতে আসে এমন এক লোক, দুনিয়ার জীবনে যার কথা আপনাকে মুগ্ধ করে। মনে যা আছে তার পক্ষে সে আল্লাহকে সাক্ষী মানে, অথচ সে ঝগড়ায় সবচেয়ে কঠিন। ২:২০৫ আয়াত সেই লোকটিরই পিছু নিয়ে দরজার বাইরে যায়।"
+          },
+          {
+            "en": "As-Sa'di makes the link explicit: the man who turns away here is the same man whose words impressed you while he sat with you. The verse then lists four things: he strives in the land, to spread corruption in it, to destroy al-harth and an-nasl, and Allah does not love corruption. Two verses complete the picture and are only pointed to here. In 2:206 he meets the call to fear Allah with pride in sin, and in 2:207 another person sells himself seeking Allah's pleasure.",
+            "bn": "সা'দী সংযোগটা স্পষ্ট করে দেন: এখানে যে ফিরে যায়, সে সেই লোকই, পাশে বসে থাকার সময় যার কথা আপনাকে মুগ্ধ করেছিল। আয়াতটি এরপর চারটি কথা বলে। সে জমিনে দৌড়ঝাঁপ করে, সেখানে ফাসাদ ছড়াতে, হারস আর নাসল ধ্বংস করতে। আর আল্লাহ ফাসাদ পছন্দ করেন না। দুটি আয়াত ছবিটা পূর্ণ করে, এখানে শুধু সেদিকে ইশারা থাকল। ২:২০৬ আয়াতে আল্লাহকে ভয় করার আহ্বান শুনে সে গুনাহর অহংকারে আটকে যায়। আর ২:২০৭ আয়াতে আরেকজন আল্লাহর সন্তুষ্টির খোঁজে নিজেকেই বিকিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaving the Room, or Taking Power",
+          "bn": "সরে যাওয়া, নাকি ক্ষমতা পাওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa-idha tawalla: and when he tawalla. The commentators read the verb in two directions. On the first, it means to turn away and leave. At-Tabari reports from Ibn Abbas: when he goes out from you. At-Tabari's own reading is the same: when this hypocrite turns his back and departs from you, Muhammad. Al-Baghawi glosses it as turning back and turning away from you, and the Muyassar writes: when he goes out from your presence, O Messenger. On this side, the scene is a man leaving a gathering.",
+            "bn": "ওয়া ইযা তাওয়াল্লা: আর যখন সে তাওয়াল্লা করে। তাফসীরকারেরা ক্রিয়াটিকে দুই দিকে পড়েন। প্রথম পাঠে এর মানে মুখ ফিরিয়ে চলে যাওয়া। তাবারী ইবন আব্বাস থেকে বর্ণনা করেন: যখন সে তোমার কাছ থেকে বেরিয়ে যায়। তাবারীর নিজের ব্যাখ্যাও তাই: হে মুহাম্মাদ, এই মুনাফিক যখন পিঠ ফিরিয়ে তোমার কাছ থেকে চলে যায়। বাগাভী অর্থ করেন পেছন ফিরে তোমার থেকে মুখ সরিয়ে নেওয়া। মুয়াসসার লেখে: হে রাসূল, যখন সে তোমার কাছ থেকে বের হয়। এই পাঠে দৃশ্যটা হলো মজলিস ছেড়ে বেরিয়ে যাওয়া এক লোকের।"
+          },
+          {
+            "en": "The second direction reads tawalla as taking charge. Al-Baghawi relays ad-Dahhak: when he gains control of affairs and becomes a governor. He also relays Mujahid with the same sense: when he holds office and acts with aggression and injustice, Allah withholds the rain. At-Tabari's chain from Mujahid gives the wording differently: when he turns away, he strives in the land with aggression and injustice. So the two commentators relay Mujahid's words in two forms, and only al-Baghawi's form carries the sense of rule.",
+            "bn": "দ্বিতীয় পাঠে তাওয়াল্লা মানে কর্তৃত্ব হাতে পাওয়া। বাগাভী দাহহাকের কথা আনেন: যখন সে বিষয়ের মালিক হয়ে শাসক হয়ে বসে। মুজাহিদ থেকেও তিনি একই অর্থের কথা আনেন: যখন সে দায়িত্বে বসে জুলুম আর সীমালঙ্ঘন করে, আল্লাহ বৃষ্টি আটকে দেন। তাবারীর সনদে মুজাহিদের কথাটা অন্য রূপে এসেছে: যখন সে ফিরে যায়, জুলুম আর সীমালঙ্ঘন নিয়ে জমিনে দৌড়ঝাঁপ করে। অর্থাৎ দুই মুফাসসির মুজাহিদের কথা দুই রূপে বর্ণনা করেন, আর শাসনের অর্থটা আছে কেবল বাগাভীর রূপে।"
+          },
+          {
+            "en": "A third gloss, from Ibn Jurayj in at-Tabari: when he becomes angry. Al-Qurtubi sorts the readings into two groups. Either both verbs are acts of the heart: tawalla means he went astray, grew angry and swelled with disdain, and sa'a means he plotted against Islam and its people, a view he cites from Ibn Jurayj and others. Or both are acts of the body: he turned away and left, then went out, robbed travellers on the road and ruined it, a view he cites from Ibn Abbas and others. Either way, he says, both are corruption.",
+            "bn": "তাবারীতে ইবন জুরাইজের তৃতীয় এক ব্যাখ্যা: যখন সে রেগে যায়। কুরতুবী এসব মতকে দুই ভাগে সাজান। হয় তাওয়াল্লা আর সাআ দুটোই অন্তরের কাজ। তখন তাওয়াল্লা মানে সে পথ হারাল, রেগে গেল, ভেতরে ভেতরে অহংকারে ফুলে উঠল। আর সাআ মানে ইসলাম ও মুসলিমদের বিরুদ্ধে ষড়যন্ত্র আঁটল। এ মত তিনি ইবন জুরাইজ ও অন্যদের থেকে আনেন। নয়তো দুটোই শরীরের কাজ: সে মুখ ফিরিয়ে চলে গেল, তারপর বেরিয়ে রাহাজানি করল, পথটাকেই নষ্ট করে দিল। এ মত তিনি আনেন ইবন আব্বাস ও অন্যদের থেকে। তাঁর কথায়, দুই রকম দৌড়ঝাঁপই ফাসাদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Effort Spent on Ruin",
+          "bn": "ধ্বংসের পেছনে খাটুনি"
+        },
+        "p": [
+          {
+            "en": "Sa'a fi al-ard: he strives in the land. At-Tabari says sa'y in the speech of the Arabs means work, as when one says a man strives for his family, meaning he works for what benefits them, and he cites a line of al-A'sha in that sense. Mujahid, in at-Tabari's chain, glosses it with one word: he worked. At-Tabari's paraphrase: leaving you angry, this hypocrite works in the land at what Allah forbade, blocking the road for Allah's servants.",
+            "bn": "সাআ ফিল আরদ: সে জমিনে দৌড়ঝাঁপ করে। তাবারী বলেন, আরবদের ভাষায় সাঈ মানে কাজ করা। যেমন বলা হয়, লোকটা পরিবারের জন্য সাঈ করে, অর্থাৎ যাতে তাদের উপকার হয় সেই কাজে খাটে। এ অর্থের পক্ষে তিনি আ'শার একটি পঙ্‌ক্তি আনেন। তাবারীর সনদে মুজাহিদ শব্দটির অর্থ বলেন এক কথায়: সে কাজ করল। তাই তাবারী আয়াতের মর্ম দাঁড় করান এভাবে: এই মুনাফিক রেগে তোমার কাছ থেকে বেরিয়ে যায়, তারপর আল্লাহ যা হারাম করেছেন জমিনে সেই কাজে লাগে, আল্লাহর বান্দাদের পথ আটকায়।"
+          },
+          {
+            "en": "Ibn Kathir says sa'y here means qasd, setting out with an aim, as in 79:22, where Pharaoh turned his back, striving, and 62:9, where believers are told to hasten to Allah's remembrance on Friday, meaning to head there with that intention, since the Sunnah forbids running bodily to prayer. Al-Bukhari's wording (no. 908, from Abu Hurayra) is: when the iqamah for the prayer is called, do not come to it running; come walking, with calm upon you; pray what you catch and complete what you missed.",
+            "bn": "ইবন কাসীর বলেন, এখানে সাঈ মানে কাসদ, অর্থাৎ লক্ষ্য স্থির করে রওনা দেওয়া। তিনি তুলনা টানেন ৭৯:২২ আয়াতের সঙ্গে, যেখানে ফিরআউন পিঠ ফিরিয়ে দৌড়ঝাঁপে লাগল। আর ৬২:৯ আয়াতের সঙ্গে, যেখানে জুমার দিন মুমিনদের আল্লাহর জিকিরের দিকে ছুটে যেতে বলা হয়েছে। তাঁর মতে সেখানে অর্থ হলো সেই নিয়তে সেদিকে যাওয়া। কারণ শরীর নিয়ে দৌড়ে নামাজে যাওয়া সুন্নাহ নিষেধ করেছে। বুখারীর বর্ণনা (নং ৯০৮, আবু হুরায়রা (রাঃ) থেকে): নামাজের ইকামত হয়ে গেলে দৌড়ে এসো না। হেঁটে এসো, প্রশান্তি নিয়ে। যতটুকু পাও পড়ে নাও, আর যা ছুটে গেছে তা পূর্ণ করো।"
+          },
+          {
+            "en": "Al-Qurtubi adds the root sense: sa'y in the land is walking quickly, and here it stands for stirring up strife and setting people against each other. Ibn Kathir draws the conclusion from the word: this hypocrite has no ambition except corruption in the land. Whichever gloss is taken, work, aim or haste, the verb describes effort. The man in this verse does not stumble into harm by accident. He spends himself on it, as deliberately as another man spends himself on his family.",
+            "bn": "কুরতুবী শব্দের মূল অর্থটা যোগ করেন: জমিনে সাঈ মানে দ্রুত হাঁটা। এখানে তা বোঝায় ফিতনা বাধানো আর মানুষে মানুষে বিরোধ লাগিয়ে দেওয়া। শব্দটি থেকে ইবন কাসীর সিদ্ধান্ত টানেন: জমিনে ফাসাদ ছাড়া এই মুনাফিকের আর কোনো লক্ষ্য নেই। কাজ, লক্ষ্য বা তাড়াহুড়া, যে অর্থই ধরুন, ক্রিয়াটি পরিশ্রমের কথা বলে। এ আয়াতের লোকটি দুর্ঘটনায় ক্ষতির মধ্যে গিয়ে পড়ে না। সে এর পেছনে নিজেকে খরচ করে, ঠিক যেমন আরেকজন জেনেবুঝে নিজেকে খরচ করে পরিবারের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Robbery, Bloodshed, or Every Sin",
+          "bn": "রাহাজানি, রক্তপাত, নাকি সব গুনাহ"
+        },
+        "p": [
+          {
+            "en": "Li-yufsida fiha: to spread corruption in it. At-Tabari records that the commentators differed over what this corruption was. Some said it was cutting off the road and making travel unsafe. Ibn Jurayj said it was severing ties of kinship and shedding the blood of Muslims, and he adds a telling detail: when such a man is asked why he did it, he answers that he does it to draw near to Allah. Al-Baghawi relays the same gloss from Ibn Jurayj on kinship and bloodshed, without that detail.",
+            "bn": "লি-ইউফসিদা ফীহা: সেখানে ফাসাদ ছড়ানোর জন্য। তাবারী জানান, এই ফাসাদ আসলে কী, তা নিয়ে তাফসীরকারদের মতভেদ আছে। কেউ বলেছেন, এর মানে পথ আটকানো আর যাতায়াত অনিরাপদ করা। ইবন জুরাইজ বলেছেন, এর মানে আত্মীয়তার বন্ধন ছিন্ন করা আর মুসলিমদের রক্ত ঝরানো। সঙ্গে তিনি একটা অর্থপূর্ণ কথা জুড়ে দেন: এমন লোককে জিজ্ঞেস করা হলে, কেন এমন করলে, সে বলে, এ দিয়ে আমি আল্লাহর নৈকট্য খুঁজি। বাগাভীও ইবন জুরাইজের আত্মীয়তা ছিন্ন করা আর রক্তপাতের ব্যাখ্যাটি আনেন, তবে শেষের কথাটি ছাড়া।"
+          },
+          {
+            "en": "At-Tabari's own judgement has two parts. First, corruption here can include every sin, since acting in disobedience is itself corruption in the land, and Allah did not restrict the description to a single kind. Second, the reading closest to the outward wording is that the man robbed on the roads and spread fear on them, because the verse goes on to the destruction of crops and offspring, which fits a man who terrorises a road better than a man who cuts off his relatives.",
+            "bn": "তাবারীর নিজের সিদ্ধান্তের দুটি অংশ। এক, এখানে ফাসাদের মধ্যে সব গুনাহই ঢুকতে পারে। কারণ নাফরমানির কাজ নিজেই জমিনে ফাসাদ, আর আল্লাহ বর্ণনাটিকে কোনো এক ধরনে সীমিত করেননি। দুই, আয়াতের বাহ্যিক শব্দের সবচেয়ে কাছের অর্থ হলো লোকটি রাস্তায় রাহাজানি করত, পথে আতঙ্ক ছড়াত। কারণ আয়াত এরপরই ফসল আর বংশধর ধ্বংসের কথা বলে। আর সে কাজ আত্মীয়তা ছিন্নকারীর চেয়ে পথে ত্রাস সৃষ্টিকারীর সঙ্গেই বেশি মেলে।"
+          },
+          {
+            "en": "Others widened the word. Sa'id ibn al-Musayyib, in both al-Baghawi and al-Qurtubi, counted clipping coins as corruption in the land. Al-Qurtubi relays that Qatadah told 'Ata they used to hear that a garment a pilgrim had to take off should be torn; 'Ata answered with this verse's close: Allah does not love corruption. Al-Qurtubi's own conclusion is that the verse, by its generality, covers every corruption, in land, wealth or religion, and he calls this the correct view.",
+            "bn": "অন্যরা শব্দটির পরিধি আরও বাড়িয়েছেন। বাগাভী ও কুরতুবী দুজনেই আনেন, সাঈদ ইবনুল মুসাইয়িব মুদ্রা কেটে ছোট করাকেও জমিনে ফাসাদ গণ্য করতেন। কুরতুবী বর্ণনা করেন, কাতাদা আতাকে বললেন: ইহরাম অবস্থায় যে জামা গা থেকে খুলে ফেলতে হয়, আমরা শুনতাম সেটা ছিঁড়ে ফেলতে হবে। আতা জবাব দিলেন এ আয়াতের শেষ বাক্য দিয়েই: আল্লাহ ফাসাদ পছন্দ করেন না। কুরতুবীর নিজের সিদ্ধান্ত হলো, আয়াতটি তার ব্যাপকতায় জমিন, সম্পদ বা দ্বীন, সব ক্ষেত্রের সব ফাসাদকে শামিল করে। এ মতকেই তিনি সঠিক বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Akhnas and the Burned Fields",
+          "bn": "আখনাস ও পোড়ানো খেত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, on 2:204, gives as-Suddi's account through Asbat. Al-Akhnas ibn Shariq ath-Thaqafi, an ally of Banu Zuhrah, came to the Prophet ﷺ in Madinah and declared Islam, and the Prophet ﷺ was pleased with him. He said he had come only wanting Islam, and that Allah knew he was truthful. Then he left, passed crops and donkeys belonging to some Muslims, burned the crops and hamstrung the donkeys, and on that, as-Suddi says, Allah revealed this verse.",
+            "bn": "তাবারী ২:২০৪ আয়াতের আলোচনায় আসবাতের সূত্রে সুদ্দীর বর্ণনা আনেন। বনু যুহরার মিত্র আখনাস ইবন শারীক সাকাফী মদিনায় নবী ﷺ-এর কাছে এসে ইসলাম প্রকাশ করল, আর নবী ﷺ তাতে খুশি হলেন। সে বলল, শুধু ইসলাম গ্রহণের ইচ্ছাতেই এসেছে, আর আল্লাহ জানেন সে সত্যবাদী। তারপর সে বেরিয়ে গেল। পথে কিছু মুসলিমের খেত আর গাধা পড়ল। সে খেতে আগুন দিল, গাধাগুলোর পায়ের রগ কেটে দিল। সুদ্দী বলেন, এ ঘটনাতেই আল্লাহ এ আয়াত নাজিল করেন।"
+          },
+          {
+            "en": "In at-Tabari (no. 3961) the chain of this report ends with as-Suddi; it names no Companion who saw the event. The details also vary. Al-Baghawi says al-Akhnas had a dispute with Thaqif, came upon them by night, burned their crops and killed their livestock. He also relays Muqatil: al-Akhnas went to Ta'if to collect a debt and burned a stack of his debtor's grain and hamstrung his she-donkey. Ibn Kathir also names al-Akhnas on as-Suddi's authority, and Ma'arif al-Qur'an names him without a source.",
+            "bn": "এ বর্ণনার সনদ শেষ হয় সুদ্দীতে (তাবারি, নং ৩৯৬১)। ঘটনাটা নিজের চোখে দেখেছেন, এমন কোনো সাহাবির নাম এতে নেই। খুঁটিনাটিও এক রকম নয়। বাগাভী বলেন, সাকীফ গোত্রের সঙ্গে আখনাসের বিবাদ ছিল। সে রাতে তাদের উপর চড়াও হয়ে খেত পুড়িয়ে দেয়, গবাদি পশু মেরে ফেলে। মুকাতিলের বর্ণনাও তিনি আনেন: আখনাস তায়েফে গিয়েছিল পাওনা আদায় করতে। সেখানে দেনাদারের শস্যের গাদা পুড়িয়ে দেয় আর তার গাধীর পায়ের রগ কেটে দেয়। ইবন কাসীরও সুদ্দীর সূত্রে আখনাসের নাম নেন, আর মাআরিফুল কুরআন তার নাম নেয় কোনো সূত্র উল্লেখ না করে।"
+          },
+          {
+            "en": "Two other readings stand beside it. At-Tabari relays from Ibn Abbas, through Ibn Ishaq, and Ibn Kathir also cites him, that these verses came down about hypocrites who found fault with the party killed at ar-Raji', with 2:207 praising the slain. Others, Ibn Kathir names Qatadah, Mujahid and ar-Rabi' ibn Anas, said the verses describe hypocrites in general, and he calls that correct. Al-Qurazi's principle, recorded by at-Tabari, joins them: a verse comes down about one man and then becomes general. Ibn Kathir calls his saying good and sound.",
+            "bn": "এর পাশে আরও দুটি মত আছে। তাবারী ইবন ইসহাকের সূত্রে ইবন আব্বাস থেকে আনেন, ইবন কাসীরও তাঁর বরাত দেন: রাজী নামক জায়গায় যে দলটি শহীদ হয়েছিল, তাদের নিয়ে যে মুনাফিকেরা খুঁত ধরেছিল, এ আয়াতগুলো নাজিল হয়েছে তাদের ব্যাপারে, আর ২:২০৭ আয়াতে প্রশংসা শহীদদের। অন্যদিকে ইবন কাসীরের তালিকায় কাতাদা, মুজাহিদ ও রাবী ইবন আনাসসহ অনেকে বলেছেন, আয়াতগুলো সাধারণভাবে সব মুনাফিকের বর্ণনা। ইবন কাসীর এ মতকেই সঠিক বলেন। তাবারীতে কুরাযীর একটি নীতিকথা দুই মতকে জুড়ে দেয়: আয়াত নাজিল হয় এক ব্যক্তিকে নিয়ে, পরে তা সবার জন্য হয়ে যায়। ইবন কাসীর তাঁর এ কথাকে উত্তম ও বিশুদ্ধ বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fields, Herds and Generations",
+          "bn": "খেত, পশুপাল ও প্রজন্ম"
+        },
+        "p": [
+          {
+            "en": "Most early glosses read al-harth wa an-nasl literally. At-Tabari: al-harth is crops, an-nasl is descendants and young. Ibn Abbas, asked by a man of Tamim: al-harth is what you till, an-nasl the young of every animal; another chain from him adds, and of people too. Mujahid, Qatadah and ad-Dahhak say the plants of the earth and the young of every creature; 'Ata says the young of people and livestock. Ibn Kathir adds that people cannot stand without either.",
+            "bn": "প্রথম যুগের অধিকাংশ ব্যাখ্যা আল-হারস ওয়ান-নাসলকে আক্ষরিক অর্থে পড়ে। তাবারী: হারস মানে ফসল, নাসল মানে সন্তান ও বংশধর। তামীম গোত্রের এক লোক জিজ্ঞেস করলে ইবন আব্বাস বলেন: হারস হলো যা তোমরা চাষ করো, নাসল হলো সব প্রাণীর বাচ্চা। তাঁর থেকে আরেক সনদে যোগ হয়েছে: মানুষেরও। মুজাহিদ, কাতাদা ও দাহহাক বলেন, জমিনের উদ্ভিদ আর সব প্রাণীর বংশ। আতা বলেন, মানুষ ও গবাদি পশুর বংশ। ইবন কাসীর যোগ করেন, এ দুটি ছাড়া মানুষের জীবন টেকে না।"
+          },
+          {
+            "en": "How would one man destroy them? As-Suddi's answer is by burning and hamstringing, and at-Tabari judges it closest to the outward wording. Mujahid's answer is that his aggression makes Allah hold back the rain, so crops and herds perish; he then recited 30:41, corruption has appeared on land and sea. At-Tabari accepts that as a possible reading and adds others: killing those who tend the crops, or killing the parents so that the line ends. He concludes the verse is general, covering every animal killed without right.",
+            "bn": "একজন মানুষ এগুলো ধ্বংস করে কীভাবে? সুদ্দীর জবাব: আগুন দিয়ে আর পায়ের রগ কেটে। তাবারীর বিচারে এটাই আয়াতের বাহ্যিক শব্দের সবচেয়ে কাছের অর্থ। মুজাহিদের জবাব: তার জুলুমের কারণে আল্লাহ বৃষ্টি আটকে দেন, ফলে ফসল আর পশুপাল মরে যায়। এরপর তিনি ৩০:৪১ আয়াত পড়েন: জলে ও স্থলে ফাসাদ ছড়িয়ে পড়েছে। তাবারী এটাকেও সম্ভাব্য অর্থ হিসেবে মেনে নেন, আর আরও কিছু যোগ করেন: খেতের দেখাশোনা যারা করে তাদের হত্যা করা, কিংবা বাপ-মাকে মেরে বংশধারা শেষ করে দেওয়া। তাঁর সিদ্ধান্ত, আয়াতটি ব্যাপক, অন্যায়ভাবে মারা প্রতিটি প্রাণীকে তা শামিল করে।"
+          },
+          {
+            "en": "Al-Qurtubi records a figurative reading with the words it was said: al-harth is women and an-nasl is children, because hypocrisy splits people apart and leads to fighting, in which people perish. He credits that sense to az-Zajjaj. As-Sa'di sees a further link: crops, fruit and livestock perish, shrink and lose their blessing because of sins. And al-Qurtubi draws a lesson from the pairing itself: the verse shows the worth of tilling, planting and raising animals, by which human life is sustained.",
+            "bn": "কুরতুবী 'বলা হয়েছে' শব্দে একটি রূপক ব্যাখ্যাও আনেন: হারস মানে নারী, নাসল মানে সন্তান। কারণ মুনাফিকি মানুষের ঐক্য ভেঙে দেয়, লড়াই বাধায়, আর তাতে মানুষ ধ্বংস হয়। এ অর্থ তিনি যাজ্জাজের বলে উল্লেখ করেন। সা'দী আরেকটি যোগসূত্র দেখান: গুনাহের কারণেই ফসল, ফল আর গবাদি পশু নষ্ট হয়, কমে যায়, তাদের বরকত উঠে যায়। আর জোড়টি থেকেই কুরতুবী একটা শিক্ষা টানেন: চাষাবাদ, গাছ লাগানো আর পশু পালনের মূল্য এ আয়াত থেকে বোঝা যায়, কারণ এসবের উপরই মানুষের জীবন দাঁড়িয়ে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words Wait for Their Deeds",
+          "bn": "কথা অপেক্ষা করে কাজের"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the closing sentence as a verdict on the man: since Allah does not love corruption, He utterly detests the one who spreads it, even if his tongue says fine things. From this he draws a rule. What people say is no proof of truth or lies, righteousness or wickedness, until a deed confirms it. Witnesses, and people in the right or the wrong, are to be tested by examining their deeds and circumstances, not by their polish or their praise of themselves.",
+            "bn": "সা'দী শেষ বাক্যটিকে লোকটির উপর রায় হিসেবে পড়েন। আল্লাহ যেহেতু ফাসাদ পছন্দ করেন না, তাই ফাসাদকারীকে তিনি চরম অপছন্দ করেন, তার মুখে যত সুন্দর কথাই থাকুক। এখান থেকে তিনি একটি নীতি বের করেন। মানুষের মুখের কথা সত্য-মিথ্যা বা নেককার-বদকার কোনো কিছুরই প্রমাণ নয়, যতক্ষণ না কাজ এসে তাকে সত্য বলে প্রমাণ করে। সাক্ষী হোক, কিংবা হকের পক্ষের বা বাতিলের পক্ষের লোক, তাদের যাচাই করতে হবে কাজ আর অবস্থা খুঁটিয়ে দেখে। তাদের চাকচিক্য বা আত্মপ্রশংসায় ভোলা চলবে না।"
+          },
+          {
+            "en": "No commentator attaches a sound hadith to this verse itself. On 2:204, Ibn Kathir cites al-Bukhari (no. 4523, from 'A'ishah): the most hated of men to Allah is the most quarrelsome adversary. A general narration, not tied to this verse, is in al-Bukhari (no. 34, from 'Abdullah ibn 'Amr): four traits, whoever has them is a pure hypocrite, and whoever has one of them has a trait of hypocrisy until he leaves it: when trusted, he betrays; when he speaks, he lies; when he makes a pact, he breaks it; when he disputes, he is wicked.",
+            "bn": "এ আয়াতের সঙ্গে সরাসরি যুক্ত কোনো সহীহ হাদীস কোনো তাফসীরকার আনেননি। ২:২০৪ আয়াতের আলোচনায় ইবন কাসীর বুখারী থেকে আনেন (নং ৪৫২৩, আয়েশা (রাঃ) থেকে): আল্লাহর কাছে সবচেয়ে ঘৃণিত মানুষ সেই, যে সবচেয়ে বেশি ঝগড়াটে। এ আয়াতের সঙ্গে যুক্ত নয়, এমন একটি সাধারণ হাদীস আছে বুখারীতে (নং ৩৪, আবদুল্লাহ ইবন আমর (রাঃ) থেকে): চারটি স্বভাব যার মধ্যে থাকে, সে খাঁটি মুনাফিক। আর যার মধ্যে এর একটি থাকে, তা ছাড়া পর্যন্ত তার মধ্যে মুনাফিকির একটি স্বভাব থেকে যায়: আমানত রাখলে খেয়ানত করে, কথা বললে মিথ্যা বলে, চুক্তি করলে ভঙ্গ করে, ঝগড়া করলে অশ্লীলতায় নামে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Name to Pin Today",
+          "bn": "আজ কারও গায়ে সাঁটার নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a man of the Prophet's ﷺ time, in the reports named as al-Akhnas, or the hypocrites of that time in general. It licenses nothing against any living person, ruler, official or community. The reading of tawalla as taking power is a gloss on the word, not a verdict on anyone who governs today. Hypocrisy lives in the heart, and only Allah sees there; as-Sa'di's test is for weighing testimony and trust, not for passing sentence on souls.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: নবী ﷺ-এর যুগের এক ব্যক্তি, বর্ণনায় যার নাম আখনাস, অথবা সাধারণভাবে সে যুগের মুনাফিকেরা। আজকের কোনো জীবিত মানুষ, শাসক, কর্মকর্তা বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। তাওয়াল্লার অর্থ ক্ষমতা পাওয়া, এ ব্যাখ্যা শব্দটির অর্থ নিয়ে, আজকের কোনো শাসকের উপর রায় নয়। মুনাফিকি থাকে অন্তরে, আর সেখানে শুধু আল্লাহই দেখেন। সা'দীর পরীক্ষা সাক্ষ্য আর আস্থা যাচাইয়ের জন্য, কারও অন্তরের উপর রায় দেওয়ার জন্য নয়।"
+          },
+          {
+            "en": "Where the verse does point, it points inward. Its last sentence is general: Allah does not love corruption, and al-Qurtubi applies it to land, wealth and religion alike. The reports reach down to a clipped coin and a torn garment. So the reader's question is not who among others fits this man, but whether my conduct after I leave a gathering matches what I said inside it, and what I spoil, carelessly or on purpose, that others need to live.",
+            "bn": "আয়াতটি যদি কোনো দিকে আঙুল তোলে, তা নিজের দিকে। এর শেষ বাক্যটি ব্যাপক: আল্লাহ ফাসাদ পছন্দ করেন না। কুরতুবী একে জমিন, সম্পদ আর দ্বীন, সব ক্ষেত্রেই প্রয়োগ করেন। বর্ণনাগুলো নেমে আসে কেটে ছোট করা মুদ্রা আর ছিঁড়ে ফেলা জামা পর্যন্ত। তাই পাঠকের প্রশ্ন এটা নয় যে অন্যদের মধ্যে কে এই লোকটির সঙ্গে মেলে। প্রশ্ন হলো, মজলিস থেকে বেরিয়ে আমার আচরণ কি ভেতরে বলা কথার সঙ্গে মেলে? আর অন্যদের বেঁচে থাকার জন্য যা দরকার, অবহেলায় বা ইচ্ছা করে তার কী কী আমি নষ্ট করি?"
+          }
+        ]
+      }
+    ]
+  },
   "2:208-209": {
     "sections": [
       {

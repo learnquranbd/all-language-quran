@@ -30323,6 +30323,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you learn that Allah has forbidden a gain, stop collecting it at once, even if it is still owed to you, and let fear of Him come before the count of your loss.",
     "lessonBn": "আল্লাহ কোনো লাভ হারাম করেছেন জানামাত্র তা আদায় করা থামিয়ে দিন, পাওনা বাকি থাকলেও। লোকসানের হিসাবের আগে তাঁর ভয়কে জায়গা দিন।"
+  },
+  "2:205": {
+    "reflectionEn": "The verse before this one shows a man whose words win you over; he even calls Allah to witness what is in his heart. This verse follows him out. When he turns away, his effort goes into ruin, and the verse names what that ruin looks like: crops and young lives destroyed, the very things people live on. Then a short sentence closes it: Allah does not love corruption. Fine speech is not the measure; what a person does once the listener is gone is. That is a test to put to myself before I put it to anyone else. Do my deeds after I leave match the words I spoke while I was there? And what do I spoil, even in small ways, that others depend on?",
+    "reflectionBn": "আগের আয়াতে এমন এক লোকের ছবি, যার কথা শুনে মন ভরে যায়। মনে যা আছে, তার পক্ষে সে আল্লাহকেও সাক্ষী মানে। এ আয়াত তার পিছু নিয়ে বাইরে যায়। সে যখন ফিরে চলে যায়, তার সব চেষ্টা খাটে ধ্বংসের কাজে। সেই ধ্বংসের চেহারাও আয়াত বলে দেয়: ফসল আর বংশধর নষ্ট করা, মানুষ যা দিয়ে বেঁচে থাকে ঠিক সেগুলোই। তারপর ছোট্ট এক বাক্যে শেষ: আল্লাহ ফাসাদ পছন্দ করেন না। মাপকাঠি তাই সুন্দর কথা নয়। শ্রোতা চলে যাওয়ার পর মানুষ কী করে, মাপকাঠি সেটাই। এ পরীক্ষা অন্যের আগে নিজের উপর চালানোর। বেরিয়ে যাওয়ার পর আমার কাজ কি সেখানে বসে বলা কথার সঙ্গে মেলে? আর অন্যরা যার উপর নির্ভর করে, তার কী কী আমি নষ্ট করি, অল্প করে হলেও?",
+    "pointsEn": [
+      "When I walk out of a room where I spoke well, does the rest of my day keep the promises I just made there?",
+      "What have I damaged lately, a shared thing, a trust or a relationship, that other people were relying on?",
+      "Do I judge people by how well they speak, or do I wait to see what their actions show?",
+      "Which small waste or spoiling do I excuse because it seems too minor to count as corruption?",
+      "Before I read this verse as a description of someone else, have I held my own conduct up to it?"
+    ],
+    "pointsBn": [
+      "যে মজলিসে সুন্দর কথা বলে এলাম, সেখান থেকে বেরোনোর পর দিনের বাকিটা কি সেই কথাগুলো রাখে?",
+      "সম্প্রতি এমন কী নষ্ট করেছি, সবার জিনিস হোক, আমানত হোক বা সম্পর্ক, যার উপর অন্যরা ভরসা করে ছিল?",
+      "মানুষকে আমি কি তার কথার মিষ্টতা দিয়ে বিচার করি, নাকি তার কাজ কী বলে তা দেখার অপেক্ষা করি?",
+      "কোন ছোটখাটো অপচয় বা নষ্ট করাকে আমি এত তুচ্ছ ভেবে ছেড়ে দিই যে তাকে ফাসাদ বলে গণ্যই করি না?",
+      "এ আয়াতকে অন্য কারও বর্ণনা ভাবার আগে নিজের আচরণ কি একবার এর সামনে ধরেছি?"
+    ],
+    "lessonEn": "Let your deeds, not your words, show what is in your heart, and keep away from every kind of corruption, small or large, because Allah does not love it.",
+    "lessonBn": "মনে কী আছে, তা আপনার কথা নয়, কাজ দেখাক। ছোট হোক বা বড়, সব রকম ফাসাদ থেকে দূরে থাকুন, কারণ আল্লাহ তা পছন্দ করেন না।"
   }
 };
 
