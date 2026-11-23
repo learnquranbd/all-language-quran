@@ -32063,6 +32063,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Betrayal needs trust before it can happen: guard what Allah and people have placed in your hands, in private as in public, since you already know its weight.",
     "lessonBn": "বিশ্বাস না থাকলে বিশ্বাসঘাতকতাও হয় না। আল্লাহ ও মানুষ আপনার হাতে যা রেখেছে, তা লোকের সামনে যেমন, একা থাকলেও তেমনি আগলে রাখুন, কারণ এর ভার আপনি আগেই জানেন।"
+  },
+  "8:65": {
+    "reflectionEn": "The Prophet ﷺ is told to rouse the believers, and then come the numbers: twenty who are steadfast against two hundred, a hundred against a thousand. The sentence reads like a forecast, yet it carried a duty, and the very next verse lightens it because Allah knew there was weakness in them. One against ten became one against two. The word steadfast was not taken out; only the size of what it had to carry changed. I see the same shape in what is asked of me. Every duty comes measured, and the One who measured it knows my weakness better than I do. Do I give the full measure, or do I hide behind a weakness He has already allowed for?",
+    "reflectionBn": "নবী ﷺ-কে বলা হলো মু'মিনদের উদ্বুদ্ধ করতে, তারপর এল সংখ্যাগুলো: অটল বিশজন দুশোর বিরুদ্ধে, একশো জন এক হাজারের বিরুদ্ধে। শুনতে ভবিষ্যদ্বাণীর মতো, কিন্তু এর ভেতরে ছিল একটা দায়িত্ব। ঠিক পরের আয়াতেই আল্লাহ সেটা হালকা করে দিলেন, কারণ তিনি জানতেন তাদের মধ্যে দুর্বলতা আছে। একজনের সামনে দশজন থেকে নেমে এল দুজনে। 'অটল' শব্দটা কিন্তু বাদ পড়েনি, বদলেছে শুধু তার কাঁধের বোঝার মাপ। আমার উপর যা চাপানো হয়, তাতেও আমি একই ছবি দেখি। প্রতিটি দায়িত্ব আসে মেপে, আর যিনি মেপেছেন তিনি আমার দুর্বলতা আমার চেয়ে ভালো জানেন। আমি কি পুরো মাপটা দিই, নাকি যে দুর্বলতার হিসাব তিনি আগেই ধরে রেখেছেন, তার আড়ালে লুকাই?",
+    "pointsEn": [
+      "Where am I asked to hold my ground, and do I count the other side before I count what I have been given?",
+      "Whom do I urge toward something hard, and do I urge with hope and reason, or only with pressure?",
+      "When a duty was made lighter for me, did my effort settle at the new measure, or sink below it?",
+      "Do I understand why I keep my hardest commitments well enough that they would hold if no one were watching?",
+      "Is there a weakness I call excused that I have never actually tried to mend?"
+    ],
+    "pointsBn": [
+      "কোথায় আমাকে অটল থাকতে বলা হয়েছে? আর সেখানে আমি কি নিজের হাতে যা আছে তা গোনার আগেই অপর পক্ষের মাথা গুনতে বসি?",
+      "কঠিন কোনো কাজের দিকে আমি কাকে উৎসাহ দিই? আশা আর যুক্তি দিয়ে, নাকি শুধু চাপ দিয়ে?",
+      "কোনো দায়িত্ব যখন আমার জন্য হালকা করা হয়েছে, আমার চেষ্টা কি নতুন মাপে এসে থেমেছে, নাকি তারও নিচে নেমে গেছে?",
+      "আমার সবচেয়ে কঠিন অঙ্গীকারগুলো কেন রাখি, তা কি এতটা বুঝি যে কেউ না দেখলেও সেগুলো টিকে থাকবে?",
+      "এমন কোনো দুর্বলতা কি আছে, যাকে আমি 'মাফ করা' বলে ধরে নিয়েছি, অথচ সারানোর চেষ্টা কখনো করিনি?"
+    ],
+    "lessonEn": "Steadfastness is a duty measured by One who knows your weakness; give the full measure asked of you, and do not let a lightened load become a reason to carry less.",
+    "lessonBn": "অটল থাকা এমন এক দায়িত্ব, যার মাপ ঠিক করেছেন আপনার দুর্বলতা জানা সেই সত্তা। আপনার কাছে যতটুকু চাওয়া হয়েছে পুরোটা দিন, আর বোঝা হালকা হয়েছে বলে তার চেয়েও কম বহন করার অজুহাত বানাবেন না।"
   }
 };
 

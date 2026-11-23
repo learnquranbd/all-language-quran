@@ -3359,6 +3359,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:65": {
+    "sections": [
+      {
+        "h": {
+          "en": "Rousing Those Who Follow",
+          "bn": "অনুসারীদের জাগিয়ে তোলা"
+        },
+        "p": [
+          {
+            "en": "Ya ayyuha an-nabiyyu harridi al-mu'minina 'ala al-qital: O Prophet, urge the believers to fight. The verse before told him that Allah is enough for him and for the believers who follow him, and this one turns that sufficiency into a task. Ibn Kathir glosses harrid as urge them and spur them on; al-Qurtubi as urge them and press them. At-Tabari names both sides: urge those who follow you and believe what you brought to fight the idolaters who turned their backs on the truth.",
+            "bn": "ইয়া আইয়ুহান নাবিয়্যু হাররিদিল মু'মিনীনা 'আলাল কিতাল: হে নবী, মু'মিনদের যুদ্ধে উদ্বুদ্ধ করুন। আগের আয়াত তাঁকে জানিয়েছিল, আল্লাহই তাঁর জন্য যথেষ্ট, আর যথেষ্ট সেই মু'মিনদের জন্যও যারা তাঁকে অনুসরণ করে। এ আয়াত সেই ভরসাকে একটা কাজে রূপ দেয়। ইবন কাসীর হাররিদ শব্দের অর্থ করেন: তাদের তাগিদ দিন, উসকে দিন। কুরতুবী বলেন: তাদের উৎসাহ দিন, জোর দিয়ে বলুন। তাবারী দুই পক্ষেরই নাম নেন। যারা আপনাকে মানে আর আপনার আনা সত্যকে সত্য বলে বিশ্বাস করে, তাদের উদ্বুদ্ধ করুন সেই মুশরিকদের বিরুদ্ধে লড়তে, যারা সত্য থেকে মুখ ফিরিয়ে চলে গেছে।"
+          },
+          {
+            "en": "Al-Qurtubi pauses on the word. Harada 'ala al-amr, he says, means the same as persisted at it and kept to it. And al-harid is one who has come near to perishing, as in 12:85, until you become harad, which he explains as wasting away with grief until near to death. As-Sa'di widens the means of urging to everything that strengthens resolve: making the struggle desirable, warning against its opposite, recounting the merits of courage and patience, and naming cowardice as a base trait that lessens both religion and manliness.",
+            "bn": "কুরতুবী শব্দটির কাছে একটু থামেন। তাঁর মতে হারাদা 'আলাল আমর মানে কোনো কাজে লেগে থাকা, তা আঁকড়ে ধরে রাখা। আর আল-হারিদ হলো এমন একজন, যে ধ্বংসের কাছাকাছি পৌঁছে গেছে। ১২:৮৫ আয়াতে আছে, হাত্তা তাকূনা হারাদা: যতক্ষণ না তুমি হারাদ হয়ে যাও। কুরতুবী এর ব্যাখ্যা দেন দুঃখে গলে গলে মৃত্যুর কিনারায় পৌঁছানো। সা'দী উদ্বুদ্ধ করার পথকে আরও চওড়া করেন। যা কিছু মনোবল বাড়ায় সবই এর অংশ: জিহাদের প্রতি আগ্রহ জাগানো, তার উল্টোটা থেকে সাবধান করা, সাহস ও ধৈর্যের ফজিলত বলা। আর কাপুরুষতাকে তিনি বলেন নিচু স্বভাব, যা দ্বীন আর মানবিক মর্যাদা দুটোকেই খাটো করে।"
+          },
+          {
+            "en": "Ibn Kathir illustrates the urging with Badr. Sahih Muslim 1901 has it from Anas: as the idolaters drew near, the Prophet ﷺ told his Companions to rise to a Garden as wide as the heavens and the earth. 'Umayr ibn al-Humam (RA) asked if it was truly that wide, was told yes, and said bakh, bakh, hoping to be among its people; he was told he was. He began eating some dates, said that to live until he finished them would be a long life, threw them down, and fought until he was killed. Muslim does not tie the report to this verse.",
+            "bn": "ইবন কাসীর এই উদ্বুদ্ধ করার উদাহরণ টানেন বদর থেকে। ঘটনাটি আছে সহীহ মুসলিমে (১৯০১), আনাস (রাঃ)-এর বর্ণনায়। মুশরিকরা কাছে এগিয়ে এলে নবী ﷺ সাহাবিদের বললেন, ওঠো সেই জান্নাতের দিকে, যার প্রশস্ততা আসমান ও জমিনের সমান। উমাইর ইবনুল হুমাম (রাঃ) জিজ্ঞেস করলেন, সত্যিই কি এত প্রশস্ত? উত্তর এল, হ্যাঁ। তিনি বলে উঠলেন, বাখ বাখ! কেন এমন বললেন জানতে চাইলে বললেন, আশা করি আমি তার বাসিন্দা হব। তাঁকে বলা হলো, তুমি তার বাসিন্দাদেরই একজন। তিনি কয়েকটা খেজুর বের করে খেতে শুরু করলেন। তারপর বললেন, এগুলো শেষ করা পর্যন্ত বেঁচে থাকলে সে তো লম্বা জীবন, আর খেজুরগুলো ছুড়ে ফেলে দিলেন। তারপর লড়লেন, শহীদ হলেন। মুসলিম এ বর্ণনাকে এই আয়াতের সঙ্গে জোড়েননি; ইবন কাসীর এটি এনেছেন উদ্বুদ্ধ করার একটা ছবি হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Command Worded as Good News",
+          "bn": "সুসংবাদের ভাষায় আদেশ"
+        },
+        "p": [
+          {
+            "en": "In yakun minkum 'ishruna sabiruna yaghlibu mi'atayn: if there are twenty of you, steadfast, they will overcome two hundred; and a hundred will overcome a thousand of those who disbelieve. Ibn Kathir reads the arithmetic plainly, each one for ten, and introduces the clause as Allah giving the believers good news and commanding them in the same breath. As-Sa'di says the same: one stands in proportion to ten of the disbelievers. Al-Qurtubi names the form. It is the wording of a statement, he says, carrying a promise on a condition: if twenty of you hold firm, they will overcome.",
+            "bn": "ইন ইয়াকুন মিনকুম 'ইশরূনা সাবিরূনা ইয়াগলিবূ মিআতাইন: তোমাদের মধ্যে ২০ জন অটল থাকলে তারা দুইশো জনের উপর জয়ী হবে, আর একশো জন জয়ী হবে কাফিরদের এক হাজারের উপর। ইবন কাসীর হিসাবটা সোজাসুজি পড়েন: প্রত্যেকে ১০ জনের বিপরীতে। তাঁর ভাষায় আল্লাহ এখানে একই সঙ্গে মু'মিনদের সুসংবাদ দিচ্ছেন আর আদেশও দিচ্ছেন। সা'দীও একই কথা বলেন: একজন কাফিরদের দশজনের সমান অনুপাতে। কুরতুবী বাক্যের ধরনটা চিনিয়ে দেন। শব্দে এটা খবর, কিন্তু ভেতরে আছে শর্তযুক্ত প্রতিশ্রুতি: তোমাদের ২০ জন যদি অটল থাকে, তবে তারা জয়ী হবে।"
+          },
+          {
+            "en": "Why read a duty into a sentence that seems only to predict? At-Tabari answers from the next verse. The verse comes out in the form of a statement, he says, but its meaning is a command, and the proof is 8:66: now Allah has lightened for you. There is no lightening except after a heaviness. Had ten standing against a hundred been merely recommended, the lightening would have had no point, since it is a permission to leave what was required. He adds a general rule: any statement promising reward for a deed and punishment for leaving it carries the sense of a command.",
+            "bn": "যে বাক্য শুধু ভবিষ্যতের খবর দিচ্ছে বলে মনে হয়, তার ভেতরে দায়িত্ব খুঁজব কেন? তাবারী উত্তর দেন পরের আয়াত থেকে। তিনি বলেন, আয়াতটা খবরের আকারে এসেছে, কিন্তু অর্থ আদেশের। প্রমাণ ৮:৬৬ আয়াত: এখন আল্লাহ তোমাদের বোঝা হালকা করেছেন। ভারী না হলে হালকা করার প্রশ্নই ওঠে না। একশো জনের সামনে ১০ জনের টিকে থাকা যদি শুধু পছন্দনীয় কাজ হতো, ফরজ না হতো, তবে হালকা করার কোনো মানে থাকত না। কারণ হালকা করা মানেই আগে যা বাধ্যতামূলক ছিল তা ছাড়ার অনুমতি। তিনি একটা সাধারণ নিয়মও যোগ করেন: আল্লাহর যে কোনো বাণীতে কোনো কাজের জন্য পুরস্কার আর তা ছাড়ার জন্য শাস্তির কথা থাকলে, তা আদেশের অর্থ বহন করে।"
+          },
+          {
+            "en": "Then why the form of news at all? Ma'arif al-Qur'an calls it the style of a welcome announcement: the purpose was to make it unlawful for a hundred to run from a thousand, but the wording strengthens hearts with a promise of safety and victory, where a bare law in the imperative would have weighed heavily. As-Sa'di, on 8:66, adds a fine point: the wording of news strengthens the believers' hearts and gives them glad tidings that they will overcome.",
+            "bn": "তাহলে খবরের ভঙ্গি কেন? মাআরিফুল কুরআন একে বলে সুখবর ঘোষণার ধরন। উদ্দেশ্য ছিল এক হাজারের সামনে থেকে একশো জনের পালানো নিষিদ্ধ করা। কিন্তু খবরের ভাষা নিরাপত্তা আর বিজয়ের প্রতিশ্রুতি দিয়ে মনকে শক্ত করে। আদেশের ভাষায় সরাসরি আইন হিসেবে এলে কথাটা মনের উপর ভারী হয়ে চাপত। ৮:৬৬ আয়াতের আলোচনায় সা'দী একটা সূক্ষ্ম কথা যোগ করেন: খবরের ভাষা মু'মিনদের মন মজবুত করে, আর সুসংবাদ দেয় যে তারা জয়ী হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Twenty Who Hold Their Ground",
+          "bn": "মাটি আঁকড়ে থাকা বিশজন"
+        },
+        "p": [
+          {
+            "en": "The numbers hang on one word, sabirun, steadfast. At-Tabari glosses it as steadfast when they meet the enemy, reckoning their lives with Allah and standing firm against their foe. Al-Baghawi gives muhtasibun, those who count what they bear toward Allah's reward. The verse puts the word on the twenty only, and leaves the hundred bare; al-Baghawi and the Muyassar both carry it over, a hundred steadfast, as 8:66 also does. On these glosses the promise of overcoming is made to twenty who stand firm with a reckoning, not to twenty bodies.",
+            "bn": "সংখ্যাগুলো ঝুলে আছে একটি শব্দের উপর: সাবিরূন, অটল। তাবারী এর ব্যাখ্যা দেন, শত্রুর মুখোমুখি হলে যারা অটল থাকে, নিজের প্রাণের হিসাব আল্লাহর কাছে রাখে, আর শত্রুর সামনে স্থির দাঁড়িয়ে থাকে। বাগাভী বলেন মুহতাসিবূন, অর্থাৎ যা সইছে তা আল্লাহর প্রতিদানের খাতায় লিখে রাখে যারা। আয়াত শব্দটা বসিয়েছে শুধু ২০ জনের সঙ্গে, একশো জনের সঙ্গে নয়। বাগাভী আর মুয়াসসার দুজনেই সেটা টেনে আনেন একশো জনের সঙ্গেও, যেমন ৮:৬৬ আয়াতেও আছে। এ ব্যাখ্যা অনুযায়ী জয়ের প্রতিশ্রুতি বিশটা দেহকে দেওয়া হয়নি। দেওয়া হয়েছে সেই বিশজনকে, যারা হিসাব রেখে অটল থাকে।"
+          },
+          {
+            "en": "As-Sa'di, writing on the next verse, raises a second objection. The condition that they be steadfast, trained in patience, implies that where they are not, they may withdraw even when they are fewer than double, if harm is most likely. He answers that tying the number to the steadfast is itself an urging toward patience: you are meant to take up the causes that produce it. Once they do, the causes of faith and the material causes together become good news that the victory Allah announced for this small number will come.",
+            "bn": "পরের আয়াতের আলোচনায় সা'দী দ্বিতীয় একটা আপত্তি তোলেন। অটল থাকার শর্ত, অর্থাৎ ধৈর্যে অভ্যস্ত হওয়ার শর্ত থেকে বোঝা যায়, তারা যদি অটল না হয়, তবে সংখ্যায় দ্বিগুণের চেয়ে কম হলেও সরে আসা জায়েজ, যদি ক্ষতির আশঙ্কাই প্রবল হয়। তাঁর জবাব: সংখ্যাটাকে অটলদের সঙ্গে বাঁধাটাই ধৈর্যের দিকে একটা তাগিদ। মানে, যে উপায়ে ধৈর্য জন্মায় সেই উপায়গুলো তোমাদের ধরতে হবে। তারা তা ধরলে ঈমানের উপায় আর বস্তুগত উপায় মিলে সুসংবাদ হয়ে দাঁড়ায় যে, এই অল্প সংখ্যার জন্য আল্লাহ যে বিজয়ের কথা বলেছেন, তা আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fighting Without Knowing Why",
+          "bn": "কেন লড়ছে তা না জেনে"
+        },
+        "p": [
+          {
+            "en": "Bi-annahum qawmun la yafqahun: because they are a people who do not understand. At-Tabari reads the cause in the fighters' hearts. The idolaters fight with no hope of reward, seeking no wage and reckoning nothing, because they have not understood that Allah has bound Himself to give those who fight for His reward what He promised. So they do not stand firm when the meeting is real, afraid of being killed and losing their world. Al-Baghawi says much the same. Ibn Ishaq, as at-Tabari relays him, puts it shortly: they fight on no intention and no right, with no knowledge of good or evil.",
+            "bn": "বিআন্নাহুম কাওমুন লা ইয়াফকাহূন: কারণ তারা এমন এক সম্প্রদায়, যারা বোঝে না। তাবারী এর কারণ খোঁজেন যোদ্ধাদের অন্তরে। মুশরিকরা লড়ে কোনো প্রতিদানের আশা ছাড়া। তারা পারিশ্রমিক চায় না, আল্লাহর কাছে কিছুর হিসাবও রাখে না। কারণ তারা বোঝেনি যে, আল্লাহর প্রতিদানের আশায় যারা লড়ে, তাদেরকে প্রতিশ্রুত জিনিস দেওয়া আল্লাহ নিজের উপর অবধারিত করে রেখেছেন। তাই লড়াই সত্যিই জমে উঠলে তারা টিকে থাকে না। মারা পড়ার আর দুনিয়া হারানোর ভয় তাদের পিছু হটায়। বাগাভীর কথাও প্রায় এমনই। তাবারী ইবন ইসহাকের যে কথা আনেন তা আরও সংক্ষিপ্ত: তারা লড়ে কোনো নিয়ত ছাড়া, কোনো হক ছাড়া, ভালো-মন্দের কোনো জ্ঞান ছাড়া।"
+          },
+          {
+            "en": "The Muyassar and as-Sa'di locate the lack in knowledge: they have no knowledge of what Allah has prepared for those who strive in His way, so they fight for high standing in the land and for corruption in it. As-Sa'di then turns to the believers. You understand the purpose of fighting, he says: to raise the word of Allah, make His religion prevail, defend His Book and attain the greatest success with Him, and each of these is a spur to courage. Earlier he quotes 4:104: if you are suffering, they suffer as you suffer, and you hope from Allah what they do not hope.",
+            "bn": "মুয়াসসার আর সা'দী ঘাটতিটা দেখেন জ্ঞানের জায়গায়। আল্লাহর পথে যারা জিহাদ করে, তাদের জন্য আল্লাহ কী প্রস্তুত রেখেছেন, সে জ্ঞান ওদের নেই। তাই ওরা লড়ে জমিনে নিজেদের বড়ত্ব আর সেখানে ফাসাদ ছড়ানোর জন্য। সা'দী এরপর মু'মিনদের দিকে ফেরেন। তিনি বলেন, তোমরা তো লড়াইয়ের উদ্দেশ্য বোঝো: আল্লাহর বাণীকে উঁচু করা, তাঁর দ্বীনকে বিজয়ী করা, তাঁর কিতাবের পক্ষে দাঁড়ানো, আর তাঁর কাছে সবচেয়ে বড় সাফল্য পাওয়া। এর প্রতিটিই সাহসের প্রেরণা। এর আগে তিনি ৪:১০৪ আয়াত উদ্ধৃত করেন: তোমরা যদি কষ্ট পাও, তারাও তো তোমাদের মতোই কষ্ট পায়, আর তোমরা আল্লাহর কাছে যা আশা করো, তারা তা আশা করে না।"
+          },
+          {
+            "en": "Al-Qurtubi, on 8:66, relays Ibn al-'Arabi drawing the same line: Allah tied the ruling to your understanding what you fight for, which is the reward, while they do not know what they fight for. On each of these readings the word yafqahun is not about cleverness or tactics. The verse explains the odds by what each side knows about why it stands there.",
+            "bn": "৮:৬৬ আয়াতের আলোচনায় কুরতুবী ইবনুল আরাবীর কথা আনেন, যেখানে একই রেখা টানা হয়েছে। আল্লাহ বিধানটা বেঁধেছেন এই কথার সঙ্গে যে, তোমরা জানো কিসের জন্য লড়ছ, আর তা হলো প্রতিদান। অথচ ওরা জানে না ওরা কিসের জন্য লড়ছে। এই সব ব্যাখ্যাতেই ইয়াফকাহূন শব্দটা চালাকি বা যুদ্ধকৌশলের কথা নয়। আয়াত শক্তির হিসাব মেলায় এ দিয়ে যে, কোন পক্ষ জানে সে কেন সেখানে দাঁড়িয়ে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten Became Two",
+          "bn": "দশ থেকে নেমে দুই"
+        },
+        "p": [
+          {
+            "en": "The other half of this ruling is 8:66, and the two verses are read together. Al-Bukhari has Ibn 'Abbas (RA) on the change by two routes. Through 'Amr ibn Dinar, in 4652: it was written for them that one should not flee from ten, and Sufyan, the sub-narrator, sometimes said twenty from two hundred; then 8:66 came down, and it was written that a hundred should not flee from two hundred. Through 'Ikrima, in 4653, the report gives the reason the change came.",
+            "bn": "এ বিধানের বাকি অর্ধেক ৮:৬৬ আয়াতে, আর আয়াত দুটি একসঙ্গেই পড়া হয়। বুখারী ইবন আব্বাস (রাঃ)-এর কাছ থেকে এই পরিবর্তনের কথা এনেছেন দুটি সূত্রে। আমর ইবন দীনারের সূত্রে (৪৬৫২): তাদের উপর লিখে দেওয়া হলো, একজন ১০ জনের সামনে থেকে পালাবে না। বর্ণনাকারী সুফিয়ান কখনো কখনো বলতেন, ২০ জন দুইশো জনের সামনে থেকে পালাবে না। তারপর ৮:৬৬ নাজিল হলো, আর লিখে দেওয়া হলো, একশো জন দুইশো জনের সামনে থেকে পালাবে না। ইকরিমার সূত্রে (৪৬৫৩) বর্ণনাটি জানায় পরিবর্তনটা কেন এল।"
+          },
+          {
+            "en": "In al-Bukhari 4653: \"When the Verse:--'If there are twenty steadfast amongst you (Muslims), they will overcome two hundred (non-Muslims).' was revealed, it became hard on the Muslims when it became compulsory that one Muslim ought not to flee (in war) before ten (non-Muslims). So (Allah) lightened the order by revealing: '(But) now Allah has lightened your (task) for He knows that there is weakness in you. So if there are of you one-hundred steadfast, they will overcome two-hundred (non-Muslims).' So when Allah reduced the number of enemies which Muslims should withstand, their patience and perseverance against the enemy decreased as much as their task was lightened for them.\"",
+            "bn": "সহীহ বুখারী ৪৬৫৩, ইবন আব্বাস (রাঃ) বলেন: \"যখন নাজিল হলো, 'তোমাদের মধ্যে ২০ জন অটল থাকলে তারা দুইশো জনের উপর জয়ী হবে', তখন মুসলিমদের উপর তা কঠিন হয়ে গেল, কারণ তাদের উপর ফরজ করা হলো যে একজন ১০ জনের সামনে থেকে পালাবে না। তারপর হালকা করার বিধান এল। আল্লাহ বললেন, 'এখন আল্লাহ তোমাদের বোঝা হালকা করেছেন, তিনি জানেন তোমাদের মধ্যে দুর্বলতা আছে। কাজেই তোমাদের মধ্যে একশো জন অটল থাকলে তারা দুইশো জনের উপর জয়ী হবে।' আল্লাহ যখন সংখ্যার দিক থেকে তাদের বোঝা হালকা করলেন, তখন যতটুকু হালকা করা হলো, ধৈর্যও ততটুকু কমে গেল।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Repealed, or Only Relieved",
+          "bn": "রহিত, নাকি শুধু হালকা"
+        },
+        "p": [
+          {
+            "en": "Was 8:65 repealed, or only lightened? The commentators answer differently, and partly over a name. Ibn Kathir says it outright: then this command was abrogated, and the good news remained. At-Tabari concludes from the argument above that the ruling of 8:66 abrogates the ruling of 8:65, and the reports he gathers use the same word: Ibn 'Abbas through 'Ata', He abrogated it with the other verse; through 'Ali ibn Abi Talha, so the first command was abrogated; 'Ikrima and al-Hasan, then it was abrogated; as-Suddi, Allah abrogated it from them.",
+            "bn": "৮:৬৫ কি রহিত হয়ে গেছে, নাকি শুধু হালকা করা হয়েছে? তাফসীরকারদের উত্তর ভিন্ন, আর মতভেদের একটা অংশ নাম নিয়ে। ইবন কাসীর সোজাসুজি বলেন: তারপর এই আদেশ রহিত হলো, আর সুসংবাদটা রয়ে গেল। তাবারী আগের যুক্তি থেকে সিদ্ধান্তে আসেন যে, ৮:৬৬ আয়াতের বিধান ৮:৬৫ আয়াতের বিধানকে রহিত করেছে। তিনি যে বর্ণনাগুলো জড়ো করেন, সেগুলোতেও একই শব্দ। আতার সূত্রে ইবন আব্বাস (রাঃ): তিনি অন্য আয়াত দিয়ে একে রহিত করলেন। আলী ইবন আবী তালহার সূত্রে: ফলে প্রথম আদেশ রহিত হলো। ইকরিমা ও হাসান: তারপর তা রহিত হলো। সুদ্দী: আল্লাহ তাদের থেকে তা রহিত করলেন।"
+          },
+          {
+            "en": "Al-Qurtubi weighs it the other way. The hadith of Ibn 'Abbas shows that the ratio was an obligation, he says; when it proved hard, the obligation was brought down to one standing against two. On this view it is a lightening, not an abrogation, and he calls that view good. He then records al-Qadi Ibn at-Tayyib's position that when part of a ruling, one of its features or its number is changed, it may be called abrogation, since what remains is no longer the first ruling but another, and he notes that this point is itself disputed.",
+            "bn": "কুরতুবী পাল্লাটা অন্য দিকে ঝোঁকান। তিনি বলেন, ইবন আব্বাস (রাঃ)-এর হাদিস দেখায় যে অনুপাতটা ছিল ফরজ। যখন তা কঠিন হয়ে দাঁড়াল, তখন ফরজটা নামিয়ে আনা হলো একজনের দুজনের সামনে টিকে থাকায়। এ মত অনুযায়ী এটা হালকা করা, রহিত করা নয়। কুরতুবী এ মতকে বলেন উত্তম। এরপর তিনি কাযী ইবনুত তায়্যিবের অবস্থান উল্লেখ করেন: কোনো বিধানের একাংশ, তার কোনো বৈশিষ্ট্য বা তার সংখ্যা বদলে গেলে তাকে রহিত বলা যায়, কারণ যা থাকে তা আর প্রথম বিধান নয়, অন্য একটা। আর কুরতুবী জানিয়ে দেন, এ বিষয়েও মতভেদ আছে।"
+          },
+          {
+            "en": "A second question is when the stricter ratio applied. Mujahid, in at-Tabari, says it was for the Companions on the day of Badr; al-Baghawi says the same, and Ma'arif al-Qur'an places it at Badr, the first battle, when the Muslims were few. Al-Qurtubi relays Ibn al-'Arabi calling it a mistake to say the verse was for Badr and then abrogated, since it was never reported that the idolaters lined up against the Muslims at that ratio.",
+            "bn": "দ্বিতীয় প্রশ্ন হলো, কড়া অনুপাতটা কখন প্রযোজ্য ছিল। তাবারীর বর্ণনায় মুজাহিদ বলেন, এটা ছিল বদরের দিন সাহাবিদের জন্য। বাগাভীও তাই বলেন, আর মাআরিফুল কুরআনও একে বদরের সঙ্গে জোড়ে, যা ছিল প্রথম যুদ্ধ, যখন মুসলমানরা সংখ্যায় ছিল অল্প। কুরতুবী ইবনুল আরাবীর কথা আনেন, যিনি বলেন আয়াতটা বদরের জন্য ছিল আর পরে রহিত হয়েছে, এ কথা ভুল। কারণ কখনো বর্ণিত হয়নি যে মুশরিকরা ওই অনুপাতে মুসলমানদের সামনে সারি বেঁধেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ruling Bound to Its Field",
+          "bn": "নিজের ময়দানে বাঁধা বিধান"
+        },
+        "p": [
+          {
+            "en": "A plain boundary belongs here. The verse addressed the Prophet ﷺ and the believers under his command, in the battles of his lifetime, and fixed how far a soldier in the ranks had to hold before withdrawing was allowed. Ma'arif al-Qur'an calls it a law of war setting the limit to which standing firm was obligatory. It is a battlefield ruling of its time, lightened by the very next verse. It licenses no violence today by any person or group, and it describes no living person or community.",
+            "bn": "এখানে একটা স্পষ্ট সীমা টানা দরকার। আয়াতটি সম্বোধন করেছে নবী ﷺ আর তাঁর নেতৃত্বে থাকা মু'মিনদের, তাঁর জীবদ্দশার যুদ্ধগুলোতে। এটি ঠিক করে দিয়েছিল, সারিতে দাঁড়ানো একজন সৈনিককে কতটা পর্যন্ত টিকে থাকতে হবে, তারপর সরে আসার অনুমতি। মাআরিফুল কুরআন একে বলে যুদ্ধের আইন, যা স্থির থাকা কতদূর ফরজ তার সীমা বেঁধে দেয়। এটি সেই সময়ের যুদ্ধক্ষেত্রের বিধান, যা ঠিক পরের আয়াতেই হালকা করা হয়েছে। আজ কোনো ব্যক্তি বা দলকে এ আয়াত কোনো সহিংসতার অনুমতি দেয় না, আর কোনো জীবিত মানুষ বা সম্প্রদায়ের বর্ণনাও এটি নয়।"
+          },
+          {
+            "en": "What settled after the lightening was narrow as well. In the report Ibn Kathir and at-Tabari carry from Ibn 'Abbas through 'Ata', if the Muslims were half their enemy they were not to flee, and if they were fewer, fighting was not required of them and they could draw aside. The ruling concerned retreat and its limits in a declared battle, and it was a matter for those who carried that command.",
+            "bn": "হালকা করার পর যা স্থির হলো, তার পরিসরও ছিল সরু। আতার সূত্রে ইবন আব্বাস (রাঃ)-এর যে বর্ণনা ইবন কাসীর ও তাবারী আনেন, তাতে আছে: মুসলমানরা শত্রুর অর্ধেক হলে তারা পালাবে না। আর তার চেয়ে কম হলে লড়াই তাদের উপর বাধ্যতামূলক নয়, তারা সরে যেতে পারে। বিধানটা ছিল ঘোষিত যুদ্ধে পিছু হটা আর তার সীমা নিয়ে, আর তা ছিল সেই নেতৃত্বের দায়িত্বে থাকা মানুষদের বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience Sized to the Burden",
+          "bn": "বোঝার মাপে ধৈর্য"
+        },
+        "p": [
+          {
+            "en": "Two sayings carry the verse beyond the field. Ibn 'Abbas closes his report with a measure: when the number was lightened, patience lessened by as much. And in 4652 Sufyan relays Ibn Shubruma saying he saw commanding good and forbidding wrong as like this; al-Baghawi cites him too. On that view a duty comes with a measure, and the measure is fitted to the one who carries it.",
+            "bn": "দুটি কথা আয়াতটাকে যুদ্ধের ময়দানের বাইরে নিয়ে আসে। ইবন আব্বাস (রাঃ) তাঁর বর্ণনা শেষ করেন একটা মাপ দিয়ে: সংখ্যা যতটা হালকা হলো, ধৈর্যও ততটা কমল। আর ৪৬৫২ নম্বর বর্ণনায় সুফিয়ান ইবন শুবরুমার কথা আনেন: তাঁর মতে সৎকাজের আদেশ আর অসৎকাজে নিষেধও এমনই। বাগাভীও তাঁর কথা উদ্ধৃত করেন। এ দৃষ্টিতে প্রতিটি দায়িত্ব আসে একটা মাপ নিয়ে, আর মাপটা ঠিক করা হয় যে বহন করবে তার সঙ্গে মিলিয়ে।"
+          },
+          {
+            "en": "As-Sa'di says Allah's mercy and wisdom called for the lightening, because He knew of the weakness. The reader can ask where his own steadfastness is measured, whether he understands what he stands for, and whether he gives the measure asked of him, neither claiming more strength than he has nor using a weakness already allowed for as a reason to give less.",
+            "bn": "সা'দী বলেন, আল্লাহ দুর্বলতার কথা জানতেন বলে তাঁর রহমত আর হিকমত হালকা করাটাই চেয়েছে। পাঠক নিজেকে জিজ্ঞেস করতে পারেন: আমার অটল থাকার মাপ কোথায় ঠিক করা আছে? আমি যার জন্য দাঁড়িয়ে আছি, তা কি সত্যিই বুঝি? আর আমার কাছে যতটুকু চাওয়া হয়েছে, তা কি পুরোটা দিই? নিজের যতটা শক্তি নেই ততটার দাবি না করে, আবার যে দুর্বলতার হিসাব আগেই ধরা আছে তাকে কম দেওয়ার অজুহাত না বানিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "8:67": {
     "sections": [
       {
