@@ -32103,6 +32103,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Faith that looks like folly to onlookers is not a delusion when it rests on Allah; count His might and wisdom before you call anyone deceived.",
     "lessonBn": "বাইরের চোখে বোকামি মনে হলেও যে ঈমান আল্লাহর উপর ভর করে আছে, তা ধোঁকা নয়। কাউকে প্রতারিত বলার আগে আল্লাহর পরাক্রম আর প্রজ্ঞাকেও হিসাবে ধরুন।"
+  },
+  "9:38": {
+    "reflectionEn": "The verse opens with a question before it gives any command: what is the matter with you? A call to go out in the way of Allah had been given, and some who believed felt themselves pulled down, heavy toward the ground they stood on. The verse names that pull before it offers the cure. It asks whether they had settled for this life in exchange for the next, then sets the two side by side: the enjoyment of this world, weighed against the Hereafter, is little. The heaviness is familiar. A prayer on time, a debt to repay, a visit owed, a true word that needs saying: the body finds reasons to stay seated. Which ground am I holding on to, and what am I giving up for it?",
+    "reflectionBn": "আয়াতটি কোনো আদেশ দেওয়ার আগে একটা প্রশ্ন করে: তোমাদের হলো কী? আল্লাহর পথে বেরিয়ে পড়ার ডাক এসেছিল। ঈমান আনা মানুষদের কেউ কেউ তখন টের পেল, কে যেন তাদের নিচের দিকে টানছে, যে মাটিতে দাঁড়িয়ে আছে সেদিকেই তারা ভারী হয়ে পড়ছে। ওষুধ দেওয়ার আগে আয়াত রোগটার নাম বলে দেয়। জিজ্ঞেস করে, আখিরাতের বদলে দুনিয়ার জীবন নিয়েই কি তোমরা খুশি হয়ে গেলে? তারপর দুটোকে পাশাপাশি রাখে: আখিরাতের পাল্লায় দুনিয়ার ভোগ সামান্যই। এই ভার আমাদের চেনা। সময়মতো একটা নামাজ, শোধ করার মতো একটা ঋণ, আত্মীয়ের বাড়িতে বাকি পড়ে থাকা একটা যাওয়া, বলা দরকার এমন একটা সত্য কথা। শরীর বসে থাকার অজুহাত খুঁজে নেয়। কোন মাটি আমি আঁকড়ে আছি, আর তার বদলে কী ছেড়ে দিচ্ছি?",
+    "pointsEn": [
+      "When a duty I already accept arrives at an inconvenient hour, what is the first reason my mind offers for staying where I am?",
+      "What comfort, shade or harvest of mine has quietly become the thing I will not leave?",
+      "If I listed what I keep by staying and what I lose by it, which list would this verse call little?",
+      "Is my heaviness laziness, a real excuse, or a doubt I have not faced, and have I been honest with myself about which one it is?",
+      "What one small going-forth could I make this week, to teach myself that I can rise when I am called?"
+    ],
+    "pointsBn": [
+      "যে দায়িত্ব আমি মেনেই নিয়েছি, তা যখন অসুবিধার সময়ে এসে হাজির হয়, বসে থাকার পক্ষে মন সবার আগে কোন অজুহাতটা দেয়?",
+      "আমার কোন আরাম, কোন ছায়া বা কোন ফসল চুপিচুপি এমন জিনিস হয়ে গেছে, যা ছেড়ে আমি নড়তে চাই না?",
+      "বসে থাকলে কী রাখি আর কী হারাই, দুটোর তালিকা করলে এ আয়াত কোনটাকে সামান্য বলবে?",
+      "আমার এই ভার কি আলসেমি, সত্যিকারের ওজর, নাকি এমন কোনো সন্দেহ যার মুখোমুখি আমি হইনি? কোনটা, সে ব্যাপারে নিজের কাছে কি আমি সৎ থেকেছি?",
+      "এ সপ্তাহে ছোট্ট কোন বেরিয়ে পড়াটা আমি করতে পারি, যাতে নিজেকে শেখাই যে ডাক এলে আমি উঠে দাঁড়াতে পারি?"
+    ],
+    "lessonEn": "Notice the pull toward comfort when a duty calls, name it honestly, and weigh what you keep by staying against what you lose by it.",
+    "lessonBn": "দায়িত্বের ডাক এলে আরামের দিকে যে টান অনুভব করেন, সেটা খেয়াল করুন, সৎভাবে তার নাম দিন, আর বসে থেকে যা রাখছেন তা মাপুন যা হারাচ্ছেন তার পাশে রেখে।"
   }
 };
 

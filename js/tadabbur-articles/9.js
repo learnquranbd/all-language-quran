@@ -1355,6 +1355,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:38": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Calendar to the March",
+          "bn": "মাসের হিসাব থেকে অভিযানের ডাকে"
+        },
+        "p": [
+          {
+            "en": "The verses just before it deal with the reckoning of months. 9:36 fixes the year at twelve, four of them sacred, and 9:37 condemns the practice of shifting a sacred month to suit a season. Then the address changes. Ya ayyuha alladhina amanu, O you who have believed, and what follows is a reproach. Ibn Kathir opens his comment by calling this verse the beginning of a rebuke to those who stayed behind from the Messenger of Allah ﷺ in the campaign of Tabuk.",
+            "bn": "ঠিক আগের আয়াতগুলোর বিষয় মাসের হিসাব। ৯:৩৬ বছরের মাস বারোটি বলে স্থির করে, যার চারটি নিষিদ্ধ। ৯:৩৭ মৌসুমের সুবিধামতো নিষিদ্ধ মাস পিছিয়ে দেওয়ার রীতিকে নিন্দা করে। এরপর সম্বোধন বদলে যায়। ইয়া আইয়্যুহাল্লাযীনা আমানূ, হে ঈমানদারগণ, আর তার পরে যা আসে তা ভর্ৎসনা। ইবন কাসীর তাঁর ব্যাখ্যা শুরুই করেন এই বলে যে, তাবুক অভিযানে যারা আল্লাহর রাসূল ﷺ-এর সঙ্গে না গিয়ে পেছনে থেকে গিয়েছিল, তাদের প্রতি তিরস্কারের সূচনা এ আয়াত।"
+          },
+          {
+            "en": "The commentators agree on the occasion. Al-Qurtubi states that there is no disagreement that the verse came down as a reproach over the staying behind at Tabuk, which took place in the ninth year of the Hijra, a year after the conquest of Makkah. At-Tabari describes the verse as Allah urging the believers among the Prophet's Companions toward the campaign against the Byzantines, which was the campaign of Tabuk. As-Sa'di adds that much of this surah came down about Tabuk.",
+            "bn": "প্রেক্ষাপট নিয়ে তাফসীরকারেরা একমত। কুরতুবী বলেন, আয়াতটি যে তাবুকে পেছনে থেকে যাওয়া লোকদের তিরস্কার করে নাযিল হয়েছে, এতে কোনো মতভেদ নেই। তাবুক হয়েছিল হিজরতের নবম বছরে, মক্কা বিজয়ের এক বছর পর। তাবারীর ভাষায়, আয়াতটি রাসূলের সাহাবিদের মধ্যে যাঁরা ঈমানদার, তাঁদেরকে রোমানদের বিরুদ্ধে অভিযানে উদ্বুদ্ধ করছে, আর সেই অভিযানই তাবুক। সা'দী যোগ করেন, এ সূরার অনেকখানিই নাযিল হয়েছে তাবুক প্রসঙ্গে।"
+          },
+          {
+            "en": "What made the call heavy is also recorded. At-Tabari relays Mujahid: they were ordered to Tabuk after the conquest, after at-Ta'if and after Hunayn, in the summer, when the dates were being picked, the fruit was ripe, they longed for shade, and setting out was hard on them. Al-Baghawi adds the distance, open deserts and a numerous enemy, and says the Prophet ﷺ, who usually veiled a campaign's destination, made it plain this time so people could prepare. As-Sa'di names the heat, the scant provision and the hard living.",
+            "bn": "ডাকটা কেন ভারী লেগেছিল, তারও বিবরণ আছে। তাবারী মুজাহিদের কথা উদ্ধৃত করেন: মক্কা বিজয়, তায়েফ আর হুনাইনের পর তাদেরকে তাবুকে যাওয়ার হুকুম দেওয়া হয় গ্রীষ্মকালে। তখন খেজুর পাড়া চলছে, ফল পেকে উঠেছে, মন চাইছে ছায়া, আর বের হওয়া তাদের জন্য কষ্টকর হয়ে পড়েছিল। বাগাভী যোগ করেন দূরত্ব, বিশাল মরুপ্রান্তর আর শত্রুর সংখ্যার কথা। তিনি বলেন, নবী ﷺ সাধারণত অভিযানের গন্তব্য আড়ালে রাখতেন, কিন্তু এবার তা খোলাখুলি জানিয়ে দেন, যাতে লোকেরা প্রস্তুতি নিতে পারে। সা'দী উল্লেখ করেন প্রচণ্ড গরম, পাথেয়ের স্বল্পতা আর জীবনের টানাটানি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ma Lakum, a Question That Reproves",
+          "bn": "মা লাকুম: জবাব চাওয়া প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Ma lakum: what is the matter with you? Al-Qurtubi explains that ma here is an interrogative whose meaning is taqrir and tawbikh, holding someone to what he has done and reproaching him for it. The implied sense, he says, is: what thing keeps you from this? It is the way Arabs say ma laka 'an fulanin mu'ridan, what is wrong with you, turning away from so-and-so. At-Tabari glosses it as ayyu shay'in amrukum, what is this affair of yours. Neither reads it as a request for information.",
+            "bn": "মা লাকুম: তোমাদের হলো কী? কুরতুবী ব্যাখ্যা করেন, এখানে মা প্রশ্নবোধক শব্দ, তবে তার অর্থ তাকরীর ও তাওবীখ। অর্থাৎ যা করা হয়েছে তা স্বীকার করানো এবং তার জন্য তিরস্কার করা। তাঁর মতে ভেতরের অর্থটা হলো: কোন জিনিস তোমাদেরকে এ কাজ থেকে আটকে রাখছে? আরবরা যেমন বলে, মা লাকা আন ফুলানিন মু'রিদা, অমুকের দিক থেকে মুখ ফিরিয়ে আছ, তোমার হলো কী? তাবারী এর ব্যাখ্যা দেন আইয়্যু শাইয়িন আমরুকুম, তোমাদের এ কী অবস্থা। দুজনের কেউই একে তথ্য জানতে চাওয়া প্রশ্ন হিসেবে পড়েন না।"
+          },
+          {
+            "en": "Idha qila lakum: when it is said to you. At-Tabari and al-Baghawi both name the speaker: when the Messenger of Allah ﷺ says to you. And the reproach comes under the name of faith. The Muyassar paraphrases the vocative as you who believed Allah and His Messenger and acted by His law. As-Sa'di hears a reminder inside it: will you not act on what faith requires and what certainty calls for, hastening to Allah's command and to His pleasure? The name they carry becomes the measure the heaviness is judged by.",
+            "bn": "ইযা কীলা লাকুম: যখন তোমাদেরকে বলা হয়। কে বলছে, তাবারী আর বাগাভী দুজনেই তা জানিয়ে দেন: যখন আল্লাহর রাসূল ﷺ তোমাদেরকে বলেন। তিরস্কারটা আসছে ঈমানের নাম ধরে ডেকে। মুয়াসসার সম্বোধনটির ব্যাখ্যা দেয় এভাবে: তোমরা যারা আল্লাহ ও তাঁর রাসূলকে সত্য বলে মেনেছ আর তাঁর শরীয়ত অনুযায়ী আমল করেছ। সা'দী এর ভেতরে একটা স্মরণ করিয়ে দেওয়া শোনেন: ঈমানের দাবি আর ইয়াকীনের ডাক অনুযায়ী তোমরা কি কাজ করবে না, আল্লাহর হুকুমের দিকে আর তাঁর সন্তুষ্টির দিকে ছুটে যাবে না? যে নামে তাদের ডাকা হলো, ভারী হয়ে পড়াটা মাপা হচ্ছে সেই নামের মাপকাঠিতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nafr, a Departure at Speed",
+          "bn": "নাফর: তড়িঘড়ি বেরিয়ে পড়া"
+        },
+        "p": [
+          {
+            "en": "Infiru: go forth. At-Tabari gives the root's first sense: nafr is leaving one place for another because of something that has stirred a person to it. From it comes the nufur of a riding animal, its bolting. For going out to fight, he notes, the Arabs say nafara ila thaghri kadha, yanfiru nafran wa-nafiran, and he suspects this is one of the ways they mark a difference in who is being spoken of while the meaning stays the same. His gloss on the command itself is plain: go out from your homes to the place of your campaign.",
+            "bn": "ইনফিরূ: বেরিয়ে পড়ো। তাবারী ধাতুটির মূল অর্থ বলেন: কোনো কিছু মানুষকে নাড়া দিলে তার কারণে এক জায়গা ছেড়ে আরেক জায়গায় চলে যাওয়ার নাম নাফর। বাহনের পশু হঠাৎ চমকে ছুটে পালালে তাকে বলে নুফূর, সেটাও এ থেকেই। যুদ্ধে বের হওয়ার বেলায় আরবরা বলে, নাফারা ইলা সাগরি কাযা, ইয়ানফিরু নাফরান ওয়া নাফীরা। তাবারীর ধারণা, কার সম্পর্কে বলা হচ্ছে সেই পার্থক্য বোঝাতে আরবরা এভাবে শব্দ আলাদা করে, যদিও অর্থ একই থাকে। আদেশটির ব্যাখ্যা তিনি সোজাসুজি দেন: নিজেদের ঘর ছেড়ে অভিযানের জায়গার দিকে বেরিয়ে যাও।"
+          },
+          {
+            "en": "Al-Qurtubi's definition adds speed. Nafr, he says, is moving quickly from one place to another because of something that has happened. Of a person one says nafara ila al-amr, he hurried out to the matter; of an animal, nafarat, it bolted; and of pilgrims, nafara al-hajj min Mina, they set off from Mina. The word therefore holds both haste and a cause. The command asked for lightness; the answer from some was its opposite, weight settling toward the ground.",
+            "bn": "কুরতুবীর সংজ্ঞায় যোগ হয় দ্রুততা। তিনি বলেন, কিছু একটা ঘটলে তার জন্য দ্রুত এক জায়গা থেকে আরেক জায়গায় সরে যাওয়াই নাফর। মানুষের বেলায় বলা হয় নাফারা ইলাল আমর, সে কাজের দিকে ছুটে বেরোল। পশুর বেলায় নাফারাত, সেটা চমকে পালাল। হাজিদের বেলায় নাফারাল হাজ্জু মিন মিনা, হাজিরা মিনা থেকে রওনা দিল। শব্দটার ভেতরে তাই তাড়া আছে, কারণও আছে। আদেশটা চেয়েছিল হালকা পায়ে সাড়া। কারও কারও জবাব ছিল ঠিক উল্টো: মাটির দিকে ভার ছেড়ে দিয়ে বসে পড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Iththaqaltum, Weight Settling Down",
+          "bn": "ইছছাকালতুম: নিচের দিকে ভার"
+        },
+        "p": [
+          {
+            "en": "Iththaqaltum ila al-ard: you grew heavy toward the earth. Both at-Tabari and al-Qurtubi explain the form. It comes from thiql, weight, and the base is tathaqaltum; the ta has merged into the tha that follows, and a connecting alif is added so that the word can be pronounced from its start. Each gives a parallel, iddaraku in 7:38, and al-Qurtubi lists others of the same build. He also records, through al-Mahdawi, that al-A'mash recited it in the unmerged form, tathaqaltum.",
+            "bn": "ইছছাকালতুম ইলাল আরদ: তোমরা মাটির দিকে ভারী হয়ে পড়লে। শব্দটির গঠন তাবারী আর কুরতুবী দুজনেই ব্যাখ্যা করেন। এর উৎস সিকল, অর্থাৎ ভার, আর মূল রূপ তাছাকালতুম। পরের ছা-এর মধ্যে তা মিশে গেছে, আর শুরু থেকে উচ্চারণ করা যায় সেজন্য সামনে একটি সংযোগের আলিফ যোগ হয়েছে। দুজনেই একই গঠনের উদাহরণ দেন ৭:৩৮ আয়াতের ইদ্দারাকূ, আর কুরতুবী এমন আরও কয়েকটি শব্দের তালিকা দেন। তিনি মাহদাবীর সূত্রে এটাও জানান যে আ'মাশ শব্দটি না মিলিয়ে মূল রূপে তাছাকালতুম পড়তেন।"
+          },
+          {
+            "en": "The meaning is where they differ in emphasis. At-Tabari reads it as weight toward staying put: you were heavy toward keeping to your land and your dwellings and sitting in them. Al-Qurtubi reports two readings from the commentators: heavy toward the comforts of the earth, or toward remaining on the earth. He sets it beside akhlada ila al-ard in 7:176, clinging to the earth, and calls the phrase a rebuke for leaving the campaign and a reproach for holding back from hastening out.",
+            "bn": "অর্থের দিক থেকে জোর পড়েছে ভিন্ন ভিন্ন জায়গায়। তাবারী একে পড়েন এক জায়গায় আটকে থাকার ভার হিসেবে: নিজেদের এলাকা আর ঘরবাড়ি আঁকড়ে সেখানে বসে থাকার দিকে তোমরা ভারী হয়ে পড়েছ। কুরতুবী তাফসীরকারদের কাছ থেকে দুটি ব্যাখ্যা আনেন: মাটির আরাম-আয়েশের দিকে ভারী হওয়া, অথবা মাটিতে থেকে যাওয়ার দিকে। তিনি একে ৭:১৭৬ আয়াতের আখলাদা ইলাল আরদ, মাটি আঁকড়ে ধরা, কথাটার পাশে রাখেন। তাঁর ভাষায় কথাটি অভিযান ছেড়ে দেওয়ার জন্য ভর্ৎসনা, আর দ্রুত বেরিয়ে পড়া থেকে পিছিয়ে বসে থাকার জন্য তিরস্কার।"
+          },
+          {
+            "en": "Others join both strands. Ibn Kathir: you became sluggish and inclined toward staying in ease and comfort and pleasant fruit. As-Sa'di: you became sluggish and inclined to the earth, to ease and stillness on it. The Muyassar: you were sluggish and kept to your homes. The heaviness is described from outside and inside: a body that will not rise, and a heart that has found something it would rather keep.",
+            "bn": "অন্যরা দুটো দিক একসঙ্গে ধরেন। ইবন কাসীর বলেন, তোমরা অলস হয়ে পড়েছ, আরাম-আয়েশ আর পাকা ফলের মাঝে থেকে যাওয়ার দিকে ঝুঁকেছ। সা'দী বলেন, তোমরা অলস হয়েছ, মাটির দিকে, সেখানকার আরাম আর স্থিরতার দিকে ঝুঁকে পড়েছ। মুয়াসসার বলে, তোমরা আলসেমি করেছ আর ঘরে বসে থেকেছ। ভারটার বর্ণনা তাই বাইরে থেকেও আছে, ভেতর থেকেও। একদিকে শরীর, যা উঠতে চায় না। অন্যদিকে মন, যা এমন কিছু পেয়ে গেছে যা ছাড়তে চায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Min, Meaning In Place Of",
+          "bn": "মিন, অর্থাৎ বদলে"
+        },
+        "p": [
+          {
+            "en": "A-raditum bil-hayati ad-dunya min al-akhira: are you content with the life of this world rather than the Hereafter? Al-Qurtubi stops on the small word min. Here, he says, it carries the sense of badal, exchange: are you content with the bliss of this world in place of the bliss of the Hereafter? He supports it from 43:60, where Allah says He could have made from among you angels on the earth, meaning in place of you, and from a line of poetry wishing for a cooled drink in place of Zamzam water.",
+            "bn": "আরাদীতুম বিল হায়াতিদ দুনইয়া মিনাল আখিরাহ: আখিরাতের বদলে দুনিয়ার জীবন নিয়েই কি তোমরা সন্তুষ্ট? কুরতুবী ছোট্ট শব্দ মিন-এর কাছে থামেন। তিনি বলেন, এখানে মিন বদল অর্থ বহন করে, অর্থাৎ বিনিময়: আখিরাতের নিয়ামতের জায়গায় দুনিয়ার নিয়ামত পেয়েই কি তোমরা খুশি? এর সমর্থনে তিনি আনেন ৪৩:৬০ আয়াত। সেখানে আল্লাহ বলেন, তিনি চাইলে তোমাদের মধ্য থেকে ফেরেশতা বানাতে পারতেন যারা পৃথিবীতে থাকত, অর্থাৎ তোমাদের বদলে। সঙ্গে আনেন এক কবির পঙ্‌ক্তি, যেখানে কবি যমযমের পানির বদলে এক চুমুক ঠান্ডা পানি পাওয়ার আকাঙ্ক্ষা করছেন।"
+          },
+          {
+            "en": "The others describe the same trade. At-Tabari: content with a share of this world and its ease, taken in exchange for the bliss of the Hereafter and what Allah keeps for the God-fearing in His gardens. Ibn Kathir: why have you acted so, out of contentment with this world instead of the Hereafter? As-Sa'di goes furthest: your state is only that of someone content with this world, striving for it and careless of the Hereafter, as though he did not believe in it. He is describing a likeness of their state; the verse itself still calls them those who believed.",
+            "bn": "বাকিরাও একই লেনদেনের কথা বলেন। তাবারী বলেন, আখিরাতের নিয়ামত আর আল্লাহ তাঁর জান্নাতে মুত্তাকীদের জন্য যা রেখেছেন, তার বিনিময়ে দুনিয়ার ভাগ আর তার আরামে সন্তুষ্ট হয়ে যাওয়া। ইবন কাসীর বলেন, তোমরা এমন করলে কেন? আখিরাতের বদলে দুনিয়াতে খুশি হয়ে গেছ বলে? সা'দী সবচেয়ে দূর পর্যন্ত যান। তাঁর কথায়, তোমাদের অবস্থা ঠিক সেই লোকের মতো, যে দুনিয়া নিয়ে সন্তুষ্ট, তারই জন্য দৌড়ায়, আখিরাতের পরোয়া করে না, যেন সে আখিরাতে ঈমানই আনেনি। তিনি তাদের অবস্থার একটা উপমা দিচ্ছেন। আয়াত নিজে কিন্তু তখনও তাদের ডাকছে ঈমানদার বলেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Finger in the Sea",
+          "bn": "আঙুল আর অথৈ সাগর"
+        },
+        "p": [
+          {
+            "en": "Fa-ma mata'u al-hayati ad-dunya fil-akhirati illa qalil: yet the enjoyment of this world's life, in the Hereafter, is only little. At-Tabari glosses qalil as yasir, slight: whatever people enjoy of this world's living and pleasures, set within the bliss of the Hereafter and the honour Allah has prepared for those who obey Him, is small. He draws the instruction out: seek that bliss, then, through obedience to Him and through hastening to answer His command to go out. Ibn Kathir says Allah, having asked, now turns them away from this world and toward desire for the Hereafter.",
+            "bn": "ফামা মাতাউল হায়াতিদ দুনইয়া ফিল আখিরাতি ইল্লা কালীল: অথচ আখিরাতের তুলনায় দুনিয়ার জীবনের ভোগ সামান্যই। তাবারী কালীল-এর অর্থ করেন ইয়াসীর, অল্প। দুনিয়ার জীবনযাত্রা আর ভোগবিলাস থেকে মানুষ যা কিছু উপভোগ করে, আখিরাতের নিয়ামত আর আনুগত্যকারীদের জন্য আল্লাহর প্রস্তুত রাখা সম্মানের পাশে রাখলে তা খুবই সামান্য। এখান থেকে তিনি নির্দেশনাও বের করেন: তাহলে সেই নিয়ামত খোঁজো তাঁর আনুগত্যের মাধ্যমে, আর বের হওয়ার যে হুকুম তিনি দিয়েছেন তাতে দ্রুত সাড়া দিয়ে। ইবন কাসীর বলেন, প্রশ্ন করার পর আল্লাহ এবার তাদের মন দুনিয়া থেকে ফিরিয়ে আখিরাতের দিকে আগ্রহী করে তুলছেন।"
+          },
+          {
+            "en": "Ibn Kathir then cites a hadith through Ahmad's chain from al-Mustawrid of Banu Fihr, and notes that Muslim alone recorded it. In Sahih Muslim (2858) al-Mustawrid reports that the Messenger of Allah ﷺ said: \"By Allah, this world compared to the Hereafter is only like what one of you does when he puts this finger of his into the sea: let him look at what it comes back with.\" A narrator, Yahya, pointed with his forefinger as he said it. The hadith is general and not tied to this verse's occasion.",
+            "bn": "ইবন কাসীর এরপর আহমাদের সনদে বনু ফিহরের মুসতাওরিদ (রাঃ)-এর একটি হাদীস আনেন, আর জানান যে এটি এককভাবে মুসলিম বর্ণনা করেছেন। সহীহ মুসলিমে (২৮৫৮) মুসতাওরিদ (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"আল্লাহর কসম, আখিরাতের তুলনায় দুনিয়া ঠিক তেমন, যেমন তোমাদের কেউ তার এই আঙুলটি সাগরে ডোবায়। তারপর সে দেখুক, আঙুলটা কী নিয়ে ফেরে।\" বর্ণনাকারী ইয়াহইয়া কথাটা বলার সময় তর্জনী দিয়ে ইশারা করেছিলেন। হাদীসটি সাধারণ, এ আয়াতের নাযিলের প্রেক্ষাপটের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "Ibn Kathir gathers other images. Ath-Thawri reports from al-A'mash on this clause: like a rider's provisions. Ibn Kathir also relays, through Ibn Abi Hatim, a report from Abu Hurayra about how a good deed is multiplied, which ends with this verse being recited; no grading is given, and it is only mentioned here. And he tells of 'Abd al-'Aziz ibn Marwan, who asked on his deathbed to see his shroud, looked at it and said: is this all I have of the great deal I leave behind? Then he turned away weeping.",
+            "bn": "ইবন কাসীর আরও কিছু ছবি জড়ো করেন। সাওরী আ'মাশ থেকে এ অংশ সম্পর্কে বর্ণনা করেন: মুসাফিরের পাথেয়র মতো। ইবন কাসীর ইবন আবী হাতিমের সূত্রে আবু হুরায়রা (রাঃ) থেকে নেক আমলের প্রতিদান কয়েক গুণ হওয়া বিষয়ে একটি বর্ণনাও আনেন, যার শেষে এ আয়াত তিলাওয়াত করা হয়েছে। এর কোনো মান নির্ণয় দেওয়া নেই, তাই এখানে শুধু উল্লেখ করা হলো। তিনি আবদুল আযীয ইবন মারওয়ানের কথাও বলেন। মৃত্যুশয্যায় তিনি নিজের কাফন দেখতে চাইলেন। সেটা সামনে রাখা হলে তাকিয়ে বললেন, এত কিছু রেখে যাচ্ছি, তার মধ্যে আমার ভাগে কি শুধু এটুকুই? তারপর মুখ ফিরিয়ে কাঁদতে লাগলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rest That Toil Buys",
+          "bn": "পরিশ্রমে কেনা বিশ্রাম"
+        },
+        "p": [
+          {
+            "en": "For al-Qurtubi, Tabuk and the call to it came in the full heat of summer, with the fruit ripe and the shade cool, and sluggishness took hold of them, so they held back and grew heavy. Allah rebuked them with this verse and faulted their preferring this world to the Hereafter. Then he states the principle: Allah reproached them for preferring rest in this world to rest in the Hereafter, since the rest of the Hereafter is reached only through the toil of this world.",
+            "bn": "কুরতুবীর বর্ণনায়, তাবুক আর তার ডাক এসেছিল ভরা গ্রীষ্মের তাপে, যখন ফল পাকা আর ছায়া শীতল। লোকদের ওপর আলসেমি চেপে বসল, তারা পিছিয়ে বসে রইল, ভারী হয়ে পড়ল। আল্লাহ এ আয়াতে তাদের ভর্ৎসনা করলেন, আর আখিরাতের ওপর দুনিয়াকে প্রাধান্য দেওয়ার দোষ ধরলেন। তারপর কুরতুবী মূল কথাটা বলে দেন: আখিরাতের আরামের চেয়ে দুনিয়ার আরামকে বেছে নেওয়ার জন্যই আল্লাহ তাদের তিরস্কার করেছেন। কারণ আখিরাতের আরাম মেলে কেবল দুনিয়ার পরিশ্রমের পথ ধরেই।"
+          },
+          {
+            "en": "As-Sa'di turns the clause into an argument. Has Allah not given you minds to weigh things with, to see which is more deserving of being preferred? Is not this world, from its first day to its last, without any proportion to the Hereafter? And what is a person's very short lifespan within it, that he should make it the goal beyond which there is none, his effort and care never passing a brief life full of troubles and dangers? He closes with an oath: by Allah, no one in whose heart faith has settled prefers this world to the Hereafter.",
+            "bn": "সা'দী এ অংশটিকে একটা যুক্তিতে রূপ দেন। আল্লাহ কি তোমাদের এমন বুদ্ধি দেননি, যা দিয়ে বিষয়গুলো মেপে দেখতে পারো কোনটা অগ্রাধিকারের বেশি হকদার? দুনিয়া, তার শুরু থেকে শেষ পর্যন্ত, আখিরাতের সঙ্গে তুলনারই যোগ্য নয়, তাই না? তাহলে এর ভেতরে মানুষের খুবই ছোট্ট আয়ুর মূল্য কতটুকু, যে সেটাকেই সে চূড়ান্ত লক্ষ্য বানিয়ে নেবে? তার চেষ্টা, খাটুনি আর চিন্তা দুঃখ-কষ্ট আর বিপদে ভরা এই সংক্ষিপ্ত জীবনের সীমা পেরোবে না? শেষে তিনি কসম করে বলেন: আল্লাহর কসম, যার অন্তরে ঈমান স্থির হয়ে বসেছে, সে আখিরাতের ওপর দুনিয়াকে প্রাধান্য দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Call Tied to One Day",
+          "bn": "নির্দিষ্ট দিনের এক ডাক"
+        },
+        "p": [
+          {
+            "en": "The next verse follows at once. 9:39 warns that if they do not go forth, He will punish them and replace them with another people, and they will not harm Him at all. 9:40 then turns to the Prophet ﷺ himself: if you do not help him, Allah has already helped him, in the cave. Mujahid, in at-Tabari, adds that they said the heavy are those with needs, property and work, and Allah sent down 9:41: go forth, light and heavy. The help never hung on those who stayed; the loss would be theirs.",
+            "bn": "পরের আয়াত সঙ্গে সঙ্গেই আসে। ৯:৩৯ সতর্ক করে, তোমরা না বের হলে তিনি তোমাদের শাস্তি দেবেন, তোমাদের জায়গায় অন্য জাতি নিয়ে আসবেন, আর তোমরা তাঁর কোনো ক্ষতিই করতে পারবে না। এরপর ৯:৪০ ফিরে তাকায় নবী ﷺ-এর দিকে: তোমরা তাঁকে সাহায্য না করলে কী, আল্লাহ তো গুহায় তাঁকে আগেই সাহায্য করেছেন। তাবারীতে মুজাহিদ যোগ করেন, তারা বলেছিল, ভারী তো সে, যার প্রয়োজন আছে, জমিজমা আছে, কাজ আছে। তখন আল্লাহ নাযিল করেন ৯:৪১: হালকা হও বা ভারী, বেরিয়ে পড়ো। সাহায্য কখনো পেছনে থাকা লোকদের ওপর নির্ভর করেনি। ক্ষতিটা হতো তাদেরই।"
+          },
+          {
+            "en": "Who exactly is being reproached? Ma'arif al-Qur'an sorts those who stayed behind from Tabuk: some had genuine excuses, accepted in 9:91; some stayed from mere inertia without an excuse, and 9:102, 9:106 and 9:118 speak of them and of their repentance being accepted; and there were hypocrites. It says this verse concerns those who held back from inertia, and that the number who stayed was small beside those who went. That fits the verse's own address: believers, rebuked by name, not written off.",
+            "bn": "ঠিক কাদের তিরস্কার করা হচ্ছে? মাআরিফুল কুরআন তাবুক থেকে পিছিয়ে থাকা লোকদের কয়েক ভাগে ভাগ করে। কারও ছিল সত্যিকারের ওজর, ৯:৯১ আয়াতে তা কবুল করা হয়েছে। কেউ কোনো ওজর ছাড়াই নিছক আলসেমিতে থেকে গিয়েছিল। ৯:১০২, ৯:১০৬ ও ৯:১১৮ আয়াত তাদের কথা বলে এবং তাদের তওবা কবুলের খবর দেয়। আর ছিল মুনাফিকরা। মাআরিফুল কুরআনের মতে এ আয়াত সেই আলসেমিতে পিছিয়ে থাকা লোকদের সম্পর্কে, আর যারা গিয়েছিল তাদের তুলনায় পেছনে থাকাদের সংখ্যা ছিল অল্প। আয়াতের নিজের সম্বোধনও তাই বলে: ঈমানদারদের নাম ধরে তিরস্কার করা হচ্ছে, বাদ দিয়ে দেওয়া হচ্ছে না।"
+          },
+          {
+            "en": "This needs saying plainly. The verse records one call, made by the Messenger of Allah ﷺ for one campaign in the ninth year of the Hijra, and the reproach of those who did not answer it. This article issues no call to arms, and the verse licenses nothing against any person or community living today. What it hands every reader is its question. When something Allah has asked of me arrives at a hard hour, which way do I lean, and what am I content to take in place of what I leave?",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি ডাকের কথা বলে, যা আল্লাহর রাসূল ﷺ হিজরতের নবম বছরে একটি নির্দিষ্ট অভিযানের জন্য দিয়েছিলেন, আর যারা সে ডাকে সাড়া দেয়নি তাদের তিরস্কারের কথা। এ লেখা কাউকে অস্ত্র ধরার ডাক দেয় না, আর আয়াতটিও আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুর অনুমতি দেয় না। প্রত্যেক পাঠকের হাতে আয়াত তুলে দেয় তার প্রশ্নটা। আল্লাহ আমার কাছে যা চেয়েছেন তা যখন কঠিন সময়ে এসে পৌঁছায়, আমি কোন দিকে ঝুঁকি? আর যা ছেড়ে যাচ্ছি, তার বদলে কী পেয়েই আমি সন্তুষ্ট থাকি?"
+          }
+        ]
+      }
+    ]
+  },
   "9:40": {
     "sections": [
       {
