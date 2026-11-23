@@ -5,7 +5,7 @@ const ROOT = path.join(__dirname, '../../..');
 const L = require(path.join(ROOT, 'tests/lib.js'));
 const N = +(process.argv[2] || 6);
 const have = Object.keys(L.get(L.load('js/tadabbur-data.js'), 'TADABBUR_NOTES'));
-const order = ['tools/tadabbur-targets.json', 'tools/tadabbur-targets-2.json']
+const order = ['tools/tadabbur-targets.json', 'tools/tadabbur-targets-2.json', 'tools/tadabbur-targets-3.json']
   .flatMap(f => JSON.parse(fs.readFileSync(path.join(ROOT, f), 'utf8')).order);
 const span = k => { const m = k.match(/^(\d+):(\d+)(?:-(\d+))?$/); if (!m) return []; const r = []; for (let a = +m[2]; a <= (+m[3] || +m[2]); a++) r.push(m[1] + ':' + a); return r; };
 const cov = new Set(have.flatMap(span));

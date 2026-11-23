@@ -5,7 +5,7 @@ const pre=s=>s.replace(/[\u09AF\u09A1\u09A2]\u09BC/g,m=>({'\u09AF\u09BC':'\u09DF
 const bn2a=s=>s.replace(/[০-৯]/g,d=>'০১২৩৪৫৬৭৮৯'.indexOf(d));
 const stripRefs=s=>s.replace(/\d+\s*:\s*\d+(?:\s*[-–]\s*\d+)?/g,' ');
 const W={one:1,two:2,three:3,four:4,five:5,six:6,seven:7,eight:8,nine:9,ten:10,eleven:11,twelve:12,twenty:20};
-const BNW={'একটি':1,'একজন':1,'একটা':1,'দুই':2,'দুটি':2,'দুজন':2,'তিনটি':3,'তিনজন':3,'তিনবার':3,'চারটি':4,'চারজন':4,'পাঁচটি':5,'পাঁচ':5,'ছয়টি':6,'সাতটি':7,'আটটি':8,'নয়টি':9,'দশটি':10,'বারোটি':12};
+const BNW={'একটি':1,'একজন':1,'একটা':1,'দুই':2,'দুটি':2,'দুজন':2,'তিনটি':3,'তিনজন':3,'তিনবার':3,'চারটি':4,'চারজন':4,'পাঁচটি':5,'পাঁচ':5,'ছয়টি':6,'সাতটি':7,'সাতজন':7,'দশজন':10,'বিশজন':20,'বিশ':20,'দুশো':200,'একশো':100,'একশ':100,'আটটি':8,'নয়টি':9,'দশটি':10,'বারোটি':12};
 for(const [id,e] of Object.entries(o)) e.sections.forEach((s,si)=>s.p.forEach((p,pi)=>{
   const en=stripRefs(p.en).replace(/\b(twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)\s+(one|two|three|four|five|six|seven|eight|nine)\b/gi,'$1-$2'), bn=stripRefs(bn2a(p.bn));
   const enN=new Set([...(en.match(/(?<![\d])\d+(?![\d])/g)||[]).map(Number),...(en.match(/(?<![\w-])(?<!\bno )(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|twenty)(?![\w-])/gi)||[]).map(x=>W[x.toLowerCase()])]);
