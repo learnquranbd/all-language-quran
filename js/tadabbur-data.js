@@ -30243,6 +30243,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Rest your life on the Ever-Living who sustains all things, not on anything that must itself be kept alive.",
     "lessonBn": "যাকে নিজেকেই বাঁচিয়ে রাখতে হয় তার উপর নয়, জীবনের ভার রাখুন সেই চিরঞ্জীবের উপর, যিনি সবকিছু ধরে রাখেন।"
+  },
+  "2:94": {
+    "reflectionEn": "The claim was a large one: the home of the Hereafter is ours with Allah, and no one else's. The reply is short. If that is so, wish for death, if you are truthful. A person certain that a garden waits behind a door does not dread the door. The next verse says they would never wish for it, and it names the reason: what their hands had sent ahead. This is no call to long for dying; the Prophet ﷺ forbade wishing for death because of some hardship. It is a test of whether a claim about the next life matches the record kept in this one. What do I quietly assume about my own place with Allah, and would my deeds back that assumption?",
+    "reflectionBn": "দাবিটা ছিল বিরাট: আল্লাহর কাছে আখিরাতের ঘর শুধু আমাদের, আর কারও নয়। জবাবটা ছোট। তাই যদি হয়, তবে মৃত্যু কামনা করো, যদি সত্যবাদী হও। যে নিশ্চিত জানে দরজার ওপারে বাগান অপেক্ষা করছে, সে দরজাকে ভয় পায় না। পরের আয়াত জানিয়ে দেয়, তারা কখনো তা কামনা করবে না, আর কারণটাও বলে দেয়: নিজের হাতে তারা আগে যা পাঠিয়েছে। এ আয়াত মৃত্যুর জন্য ব্যাকুল হওয়ার ডাক নয়। কোনো বিপদে পড়ে মৃত্যু কামনা করতে নবী ﷺ নিষেধ করেছেন। এ আসলে এক পরীক্ষা: পরকাল নিয়ে মুখের দাবি আর দুনিয়ায় জমানো আমলনামা কি একই কথা বলে? আল্লাহর কাছে নিজের জায়গা নিয়ে মনে মনে আমি কী ধরে বসে আছি? আমার আমল কি সেই ধারণার পক্ষে সাক্ষী দেবে?",
+    "pointsEn": [
+      "When I say I hope for Paradise, is it a hope I am working towards, or a claim I treat as already settled?",
+      "Which people do I quietly count as outside Allah's mercy, and on what evidence?",
+      "If the thought of meeting Allah unsettles me, is it the ordinary dislike of death, or something in my deeds I have not yet faced?",
+      "What have my hands sent ahead this week that I would be glad to find waiting for me?",
+      "Do I make claims in an argument that I would never be willing to stake anything on?"
+    ],
+    "pointsBn": [
+      "জান্নাতের আশা করি বলে যখন বলি, সেটা কি এমন আশা যার জন্য আমি খাটছি, নাকি এমন দাবি যা আমি আগেই মীমাংসিত ধরে নিয়েছি?",
+      "কোন মানুষদের আমি মনে মনে আল্লাহর রহমতের বাইরে গুনে রেখেছি? কোন প্রমাণের ভিত্তিতে?",
+      "আল্লাহর সাক্ষাতের কথা ভাবলে মন অস্থির হলে সেটা কি মৃত্যুর প্রতি স্বাভাবিক অনীহা, নাকি আমার আমলের এমন কিছু, যার মুখোমুখি আমি এখনো হইনি?",
+      "এ সপ্তাহে নিজের হাতে আগে কী পাঠিয়েছি, যা সামনে অপেক্ষা করছে দেখলে আমি খুশি হব?",
+      "তর্কের সময় এমন দাবি কি করি, যার জন্য কিছুই বাজি রাখতে আমি কখনো রাজি হতাম না?"
+    ],
+    "lessonEn": "A claim on the Hereafter is tested by how one faces the thought of death; let deeds, not belonging, carry your hope.",
+    "lessonBn": "আখিরাতের দাবি যাচাই হয় মৃত্যুর ভাবনার সামনে মানুষ কেমন দাঁড়ায় তা দিয়ে। আপনার আশা বহন করুক আমল, দলের পরিচয় নয়।"
   }
 };
 

@@ -3275,6 +3275,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:94": {
+    "sections": [
+      {
+        "h": {
+          "en": "Ours Alone, They Said",
+          "bn": "শুধু আমাদের, এই ছিল দাবি"
+        },
+        "p": [
+          {
+            "en": "The verse sits inside a long run of replies in al-Baqarah. 2:93 has just closed on one condition: how wretched is what your faith commands, if you are believers. This verse opens a second: if the home of the Hereafter with Allah is yours alone. At-Tabari begins by calling it one of the verses through which Allah argued for His Prophet ﷺ against the Jews who lived around the place he had emigrated to, and through which He exposed their rabbis and scholars.",
+            "bn": "আল-বাকারার দীর্ঘ এক ধারাবাহিক জবাবের মাঝখানে আয়াতটির জায়গা। ২:৯৩ সবে একটা শর্তে শেষ হয়েছে: তোমাদের ঈমান যা নির্দেশ দেয় তা কত নিকৃষ্ট, যদি তোমরা মুমিন হও। এ আয়াত খোলে দ্বিতীয় শর্ত দিয়ে: আল্লাহর কাছে আখিরাতের ঘর যদি শুধু তোমাদেরই হয়। তাবারী শুরুতেই বলেন, এটি সেই আয়াতগুলোর একটি, যা দিয়ে আল্লাহ তাঁর নবী ﷺ-এর পক্ষে যুক্তি দাঁড় করিয়েছেন হিজরতের শহরের আশপাশে বসবাসকারী ইহুদিদের বিরুদ্ধে। এ আয়াত দিয়েই তিনি তাদের পণ্ডিত ও আলেমদের মুখোশ খুলে দিয়েছেন।"
+          },
+          {
+            "en": "Which claim was being answered? Al-Baghawi and al-Qurtubi list three, each taken from the Quran itself: the Fire will touch us only for a few days (2:80), none will enter Paradise except a Jew or a Christian (2:111), and we are the sons of Allah and His beloved (5:18). At-Tabari, citing reports from Qatadah and Abu al-'Aliyah, names the last two as the reason the challenge was given. As-Sa'di says the Prophet ﷺ was told to put it to them as a way of testing whether their claim held.",
+            "bn": "কোন দাবির জবাব দেওয়া হচ্ছিল? বাগাভী ও কুরতুবী তিনটি দাবির কথা বলেন, তিনটিই কুরআন থেকে নেওয়া। আগুন আমাদের ছোঁবে মাত্র গোনা কয়েক দিন (২:৮০)। ইহুদি বা খ্রিস্টান ছাড়া কেউ জান্নাতে যাবে না (২:১১১)। আমরা আল্লাহর পুত্র ও তাঁর প্রিয়জন (৫:১৮)। কাতাদা ও আবুল আলিয়ার বর্ণনা উদ্ধৃত করে তাবারী শেষের দুটিকেই চ্যালেঞ্জের কারণ বলে উল্লেখ করেন। সা'দী বলেন, নবী ﷺ-কে কথাটা তাদের সামনে রাখতে বলা হয়েছিল তাদের দাবি টেকে কি না, তা যাচাই করার পথ হিসেবে।"
+          },
+          {
+            "en": "One boundary before going further. The verse addresses a particular group at Madinah who made this claim to the Prophet's ﷺ face. Ma'arif al-Quran says the trial was proposed not for all Jews of all ages but for his contemporaries, who denied him out of envy after recognising him. The verse describes what the text describes and licenses nothing against any living person or community. Its question can be put to anyone who assumes Paradise already carries his own group's name.",
+            "bn": "আরও এগোনোর আগে একটা সীমারেখা টেনে রাখা দরকার। আয়াতটি মদীনার নির্দিষ্ট একদল লোককে সম্বোধন করছে, যারা নবী ﷺ-এর মুখের ওপর এ দাবি করেছিল। মাআরিফুল কুরআন বলে, এ পরীক্ষা সব যুগের সব ইহুদির জন্য রাখা হয়নি। রাখা হয়েছিল তাঁর সমসাময়িকদের জন্য, যারা তাঁকে চিনেও হিংসার বশে অস্বীকার করেছিল। আয়াতে যা বর্ণিত আছে, এটি কেবল তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। এর প্রশ্নটা বরং যে কারও সামনে রাখা যায়, যে ধরে নিয়েছে জান্নাতের গায়ে তার নিজের দলের নাম আগেই লেখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Khalisah, Min Dun an-Nas, Tamannaw",
+          "bn": "খালিসা, মিন দূনিন নাস, তামান্নাও"
+        },
+        "p": [
+          {
+            "en": "Khalisah first. At-Tabari explains it as pure and unshared, as one says khalasa li, it became mine alone, and he notes that the Arabs call a man's closest friend khulsani, mine above my other companions. He relays that Ibn Abbas read the word as khassah, reserved, and calls that close to his own reading; al-Baghawi glosses it the same way. The home of the Hereafter, at-Tabari adds, means its bliss and its pleasures; the word home was enough because the first listeners knew what it meant.",
+            "bn": "প্রথমে খালিসা। তাবারী এর অর্থ করেন নির্ভেজাল, যাতে আর কারও ভাগ নেই। যেমন বলা হয় খালাসা লী, অর্থাৎ জিনিসটা একান্ত আমার হয়ে গেল। তিনি আরও জানান, আরবরা কারও সবচেয়ে কাছের বন্ধুকে বলে খুলসানী, মানে অন্য সঙ্গীদের ছাড়িয়ে যে আমার। ইবন আব্বাস (রাঃ) শব্দটিকে খাসসা অর্থে পড়তেন, অর্থাৎ সংরক্ষিত। তাবারী এ ব্যাখ্যাকে নিজের ব্যাখ্যার কাছাকাছি বলেন, আর বাগাভীও একই অর্থ দেন। তাবারী যোগ করেন, আখিরাতের ঘর বলতে বোঝানো হয়েছে তার নিয়ামত ও আনন্দ। প্রথম শ্রোতারা জানতেন কী বোঝানো হচ্ছে, তাই শুধু ঘর বলাই যথেষ্ট ছিল।"
+          },
+          {
+            "en": "Then min dun an-nas, to the exclusion of people. At-Tabari says the plain sense of the revelation is that they claimed the Hereafter to the exclusion of all people, and he finds his proof in 2:111, where their claim makes no exception for anyone among the children of Adam. He also records a different report from Ibn Abbas, by way of ad-Dahhak: to the exclusion of Muhammad ﷺ and his companions, whom you mocked, while you claimed that the truth was in your hands and the Hereafter yours instead of theirs.",
+            "bn": "তারপর মিন দূনিন নাস, মানুষকে বাদ দিয়ে। তাবারী বলেন, আয়াতের বাহ্যিক অর্থ হলো, তারা সব মানুষকে বাদ দিয়ে আখিরাত নিজেদের বলে দাবি করেছিল। এর প্রমাণ তিনি পান ২:১১১ আয়াতে। সেখানে তাদের দাবিতে আদমসন্তানদের কাউকেই ব্যতিক্রম রাখা হয়নি। তবে দাহহাকের সূত্রে ইবন আব্বাস (রাঃ)-এর ভিন্ন একটি বর্ণনাও তিনি লিখে রাখেন। সেখানে অর্থ হলো মুহাম্মাদ ﷺ ও তাঁর সাহাবিদের বাদ দিয়ে। এঁদেরকেই তোমরা ঠাট্টা করতে, আর দাবি করতে যে সত্য তোমাদের হাতে, আখিরাতও এঁদের নয়, তোমাদের।"
+          },
+          {
+            "en": "Last, tamannaw, wish. At-Tabari explains it as crave it and want it. He relays from Ibn Abbas a different gloss: ask for death. Then he pauses on the word. Tamanni, he says, is not known in the speech of the Arabs in the sense of asking; but he reckons that Ibn Abbas carried the wish, which is the soul's love and craving, over to longing and request, since a request is the asker's longing turned to Allah. That single word is where the two readings in the next section part ways.",
+            "bn": "শেষে তামান্নাও, কামনা করো। তাবারী এর ব্যাখ্যা করেন: তা চাও, তার আকাঙ্ক্ষা করো। ইবন আব্বাস (রাঃ) থেকে তিনি ভিন্ন একটি অর্থও আনেন: মৃত্যু প্রার্থনা করো। তারপর শব্দটার ওপর তিনি একটু থামেন। তাঁর কথা হলো, আরবদের ভাষায় তামান্নী শব্দ প্রার্থনা অর্থে পরিচিত নয়। তবু তাঁর ধারণা, কামনা মানে যেহেতু মনের ভালোবাসা ও আকুতি, ইবন আব্বাস (রাঃ) সেটাকে আগ্রহ ও প্রার্থনার দিকে টেনে নিয়েছেন। কারণ প্রার্থনাও তো আল্লাহর দিকে ফেরানো প্রার্থীর আকুতি। পরের অংশের দুই ব্যাখ্যা ঠিক এই শব্দটাতেই আলাদা হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wish, or a Mubahalah?",
+          "bn": "কামনা, নাকি মুবাহালা?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi takes the wish as a wish. Whoever believes he is among the people of Paradise, he reasons, holds death dearer than life in this world, for the bliss he will reach and the harm of the world that will leave him. Al-Baghawi gives the same as his first gloss: want it and ask for it, because one who knows that Paradise is his home yearns for it, and there is no way into it except after death, so hasten it by wishing. At-Tabari's gloss on the word, crave it and want it, reads it the same way.",
+            "bn": "কুরতুবী কামনাকে কামনা অর্থেই নেন। তাঁর যুক্তি: যে বিশ্বাস করে সে জান্নাতবাসীদের একজন, দুনিয়ার জীবনের চেয়ে মৃত্যুই তার কাছে বেশি প্রিয়। কারণ সামনে সে পাবে জান্নাতের নিয়ামত, আর দুনিয়ার কষ্ট তার কাছ থেকে সরে যাবে। বাগাভীর প্রথম ব্যাখ্যাও এটাই: মৃত্যু চাও, তার জন্য প্রার্থনা করো। যে জানে জান্নাতই তার ঠিকানা, সে তার জন্য ব্যাকুল থাকে। আর মৃত্যুর পরে ছাড়া সেখানে ঢোকার কোনো পথ নেই। তাই কামনা করে তা এগিয়ে আনো। শব্দটির ওপর তাবারীর ব্যাখ্যা, তা চাও ও তার আকাঙ্ক্ষা করো, এটিকেও একই অর্থে পড়ে।"
+          },
+          {
+            "en": "The second reading comes from Ibn Abbas, through Ibn Ishaq: invoke death upon whichever of the two parties is the greater liar. Ibn Kathir opens his commentary on the verse with this report, which ends by saying that they refused it to the Messenger of Allah ﷺ. At-Tabari notes that the people of interpretation differed over the manner in which they were told to wish, and files this report under those who said it was a prayer against the lying party. Al-Qurtubi relays it from Ikrimah from Ibn Abbas, and al-Baghawi gives it with the words it is said.",
+            "bn": "দ্বিতীয় ব্যাখ্যা ইবন আব্বাস (রাঃ)-এর, ইবন ইসহাকের সূত্রে: দুই দলের মধ্যে যে বেশি মিথ্যাবাদী, তার ওপর মৃত্যুর বদদোয়া করো। ইবন কাসীর এ আয়াতের তাফসীর শুরুই করেন এই বর্ণনা দিয়ে। বর্ণনার শেষে আছে, তারা রাসূলুল্লাহ ﷺ-এর এ প্রস্তাব প্রত্যাখ্যান করেছিল। তাবারী জানান, কোন অর্থে তাদের কামনা করতে বলা হয়েছিল, তা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। এ বর্ণনাটি তিনি রাখেন তাঁদের দলে, যাঁরা বলেছেন এটা ছিল মিথ্যাবাদী পক্ষের বিরুদ্ধে দোয়া। কুরতুবী এটি বর্ণনা করেন ইকরিমা থেকে, তিনি ইবন আব্বাস (রাঃ) থেকে। বাগাভী এটি আনেন 'বলা হয়' কথাটি দিয়ে।"
+          },
+          {
+            "en": "Two more commentators take this side in their own words. Al-Muyassar renders the verse as: invoke death upon the liars, whether among you or among others, if you are truthful in this claim. As-Sa'di calls the challenge a kind of mubahalah between them and the Messenger of Allah ﷺ. A mubahalah is a mutual invocation in which each side calls on Allah against whichever of them is lying, the form named outright in 3:61. Both readings stand in the sources read for this verse, and the difference is kept here as a difference.",
+            "bn": "আরও দুজন মুফাসসির নিজের ভাষায় এই দিকটাই নেন। মুয়াসসার আয়াতের অর্থ করে এভাবে: তোমাদের মধ্যে হোক বা অন্যদের মধ্যে, যারা মিথ্যাবাদী তাদের ওপর মৃত্যুর বদদোয়া করো, যদি এ দাবিতে তোমরা সত্যবাদী হও। সা'দী চ্যালেঞ্জটিকে বলেন তাদের ও রাসূলুল্লাহ ﷺ-এর মধ্যে এক ধরনের মুবাহালা। মুবাহালা হলো পারস্পরিক বদদোয়া, যেখানে দুই পক্ষই আল্লাহকে ডাকে তাদের মধ্যে যে মিথ্যা বলছে তার বিরুদ্ধে। ৩:৬১ আয়াতে এর নাম সরাসরি এসেছে। এ আয়াতের জন্য পড়া সূত্রগুলোতে দুটি ব্যাখ্যাই আছে, আর মতভেদটা এখানে মতভেদ হিসেবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fair Settlement Proposed",
+          "bn": "ন্যায্য মীমাংসার প্রস্তাব"
+        },
+        "p": [
+          {
+            "en": "At-Tabari frames the verse as a proposal. Allah commanded His Prophet ﷺ to call them to a just settlement between him and them over what they disputed, as He commanded him to call the Christians who argued with him about Isa (AS) to the settlement of mubahalah. The message to the Jews, as at-Tabari words it: if you are in the right, wish for death, for it will not harm you. If your wish is granted, you pass to rest from the toil of the world and to nearness to Allah in His gardens, if the matter is as you claim.",
+            "bn": "তাবারী আয়াতটিকে দেখেন একটা প্রস্তাব হিসেবে। আল্লাহ তাঁর নবী ﷺ-কে নির্দেশ দিয়েছিলেন, বিরোধের বিষয়ে তাদেরকে তাঁর ও তাদের মাঝে একটা ন্যায্য মীমাংসার দিকে ডাকতে। ঠিক যেমন ঈসা (আঃ)-কে নিয়ে যে খ্রিস্টানরা তাঁর সঙ্গে তর্ক করেছিল, তাদেরকে মুবাহালার মীমাংসার দিকে ডাকতে বলেছিলেন। তাবারীর ভাষায় ইহুদিদের প্রতি বার্তাটি ছিল এমন: তোমরা যদি সত্যের ওপর থাকো, তবে মৃত্যু কামনা করো, এতে তোমাদের কোনো ক্ষতি নেই। কামনা পূর্ণ হলে দুনিয়ার কষ্ট থেকে মুক্তি পেয়ে তোমরা চলে যাবে বিশ্রামে, আল্লাহর জান্নাতে তাঁর সান্নিধ্যে, যদি ব্যাপারটা সত্যিই তোমাদের দাবির মতো হয়।"
+          },
+          {
+            "en": "Ibn Kathir, who reads the verse as a mubahalah, asks why such an invocation should be called a wish at all. His answer has two parts. Every just person wishes that Allah would destroy the unjust opponent who disputes with him, above all when he holds a clear proof for what he calls to. And to those who reject faith, life is the greatest prize, the more so when they know what waits after death. He sets the Najran delegation beside this verse: called to the invocation of 3:61, they chose a settlement instead.",
+            "bn": "ইবন কাসীর আয়াতটিকে মুবাহালা হিসেবে পড়েন, আর নিজেই প্রশ্ন তোলেন: এমন বদদোয়াকে কামনা বলা হলো কেন? তাঁর জবাবের দুটি অংশ। প্রত্যেক ন্যায়নিষ্ঠ মানুষই চায়, তার সঙ্গে তর্ক করা অন্যায়কারী প্রতিপক্ষকে আল্লাহ ধ্বংস করুন, বিশেষ করে যখন তার দাওয়াতের পক্ষে তার হাতে স্পষ্ট প্রমাণ থাকে। আর যারা ঈমান প্রত্যাখ্যান করে, তাদের কাছে জীবনই সবচেয়ে বড় পুরস্কার, বিশেষত যখন তারা জানে মৃত্যুর পরে কী অপেক্ষা করছে। এ আয়াতের পাশে তিনি রাখেন নাজরানের প্রতিনিধিদলের ঘটনা। ৩:৬১ আয়াতের মুবাহালায় ডাকা হলে তারা তার বদলে সন্ধি বেছে নিয়েছিল।"
+          },
+          {
+            "en": "Ma'arif al-Quran notes that the ordinary way to settle a dispute is discussion, each side bringing its arguments, and says the Quran here proposed an unusual method that needed little learning, only a slight effort of the tongue. As-Sa'di explains why it was so hard to refuse. After such pressing, only two courses remained: believe in Allah and His Messenger, or take up the invocation on an easy matter, wishing for the death that would deliver them to the home they said was theirs alone.",
+            "bn": "মাআরিফুল কুরআন বলে, বিবাদ মেটানোর সাধারণ পথ হলো আলোচনা, যেখানে দুই পক্ষই নিজ নিজ যুক্তি হাজির করে। কিন্তু কুরআন এখানে একটা অস্বাভাবিক পথ প্রস্তাব করেছে, যার জন্য বেশি জ্ঞানের দরকার নেই, দরকার শুধু জিভের সামান্য কষ্ট। প্রস্তাবটা ফিরিয়ে দেওয়া কেন এত কঠিন ছিল, সা'দী তা খুলে বলেন। এমন চাপের পর তাদের সামনে পথ ছিল মাত্র দুটি। হয় আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আনা। নয়তো একটা সহজ বিষয়ে মুবাহালায় নামা: সেই মৃত্যু কামনা করা, যা তাদের পৌঁছে দেবে সেই ঘরে, যাকে তারা শুধু নিজেদের বলে দাবি করত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Refusal Laid Bare",
+          "bn": "প্রত্যাখ্যানে যা স্পষ্ট হলো"
+        },
+        "p": [
+          {
+            "en": "They did not take it up. At-Tabari says the Jews refused to answer the Prophet ﷺ because they knew that if they wished for death they would perish, losing their world and passing to lasting disgrace in the Hereafter, just as the Christians who argued about Isa (AS) had declined the mubahalah. By their refusal, he says, Allah made their falsehood plain and gave the argument to His Messenger ﷺ. For anyone who had been unsure about them in those days, the matter came into the open.",
+            "bn": "তারা প্রস্তাবটা গ্রহণ করেনি। তাবারী বলেন, ইহুদিরা নবী ﷺ-এর ডাকে সাড়া দিতে অস্বীকার করেছিল, কারণ তারা জানত মৃত্যু কামনা করলে তারা ধ্বংস হবে। দুনিয়া হাতছাড়া হবে, আর আখিরাতে জুটবে চিরস্থায়ী লাঞ্ছনা। ঈসা (আঃ)-কে নিয়ে তর্ক করা খ্রিস্টানরাও ঠিক এভাবেই মুবাহালা এড়িয়ে গিয়েছিল। তাবারীর মতে, এ প্রত্যাখ্যান দিয়েই আল্লাহ তাদের মিথ্যা প্রকাশ করে দেন, আর যুক্তির জয় দেন তাঁর রাসূল ﷺ-কে। সে সময়ে যাদের মনে তাদের ব্যাপারে সংশয় ছিল, তাদের সামনেও বিষয়টা খোলাসা হয়ে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi counts three ways of explaining why they held back. First, they shrank from it in fear of Allah, because of the ugliness of their deeds, their knowledge of their own disbelief and their greed for this world. Second, a report raised to the Prophet ﷺ about what would have befallen them. Third, a view that Allah turned them away from voicing the wish, to make it a sign for His Prophet ﷺ. The cause the Quran itself names belongs to 2:95, which follows: what their hands had sent ahead. That verse, and 2:96 on their eagerness for life, carry the passage on from here.",
+            "bn": "তারা কেন পিছিয়ে গেল, কুরতুবী তার তিনটি ব্যাখ্যা গুনিয়ে দেন। প্রথমত, আল্লাহর ভয়ে তারা সরে দাঁড়িয়েছিল। কারণ তাদের আমল ছিল কুৎসিত, নিজেদের কুফরি তারা নিজেরাই জানত, আর দুনিয়ার প্রতি ছিল তাদের লোভ। দ্বিতীয়ত, নবী ﷺ-এর দিকে সম্পৃক্ত একটি বর্ণনা, তাদের কী পরিণতি হতো সে বিষয়ে। তৃতীয়ত, একটি মত যে আল্লাহই তাদের মুখে কামনাটা প্রকাশ করতে দেননি, যাতে তা তাঁর নবী ﷺ-এর জন্য নিদর্শন হয়। কুরআন নিজে যে কারণের নাম বলে, তা পরের আয়াত ২:৯৫-এর বিষয়: নিজের হাতে তারা যা আগে পাঠিয়েছে। সে আয়াত, আর বেঁচে থাকার লোভ নিয়ে ২:৯৬, এখান থেকে আলোচনাটা সামনে নিয়ে যায়।"
+          },
+          {
+            "en": "That raised report needs its status stated plainly. At-Tabari relays it with his own chain through Ibn Abbas, al-Qurtubi with the words it is reported, and al-Baghawi in a different wording. None of them is a graded entry in a collection confirmed for this article, so its wording is not quoted here and nothing is built on it. Ibn Kathir notes separately that several comments of Ibn Abbas on the same point reach him by authentic chains. Those remain the words of a Companion, not of the Prophet ﷺ.",
+            "bn": "নবী ﷺ-এর দিকে সম্পৃক্ত সেই বর্ণনাটির অবস্থান স্পষ্ট করে বলা দরকার। তাবারী নিজের সনদে ইবন আব্বাস (রাঃ)-এর সূত্রে এটি বর্ণনা করেন। কুরতুবী আনেন 'বর্ণিত আছে' বলে, আর বাগাভী আনেন ভিন্ন শব্দে। এ প্রবন্ধের জন্য যাচাই করা কোনো হাদিসগ্রন্থে এর কোনো মানসহ বর্ণনা পাওয়া যায়নি। তাই এর ভাষা এখানে উদ্ধৃত করা হলো না, এর ওপর কিছু দাঁড় করানোও হলো না। ইবন কাসীর আলাদাভাবে জানান, একই বিষয়ে ইবন আব্বাস (রাঃ)-এর কয়েকটি উক্তি তাঁর পর্যন্ত সহীহ সনদে পৌঁছেছে। তবে সেগুলো একজন সাহাবির কথা, নবী ﷺ-এর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Words in Al-Jumu'ah",
+          "bn": "আল-জুমুআয় একই কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets a near twin beside this verse, 62:6, 62:7 and 62:8. There the address is to those who are Jews: if you claim to be allies of Allah to the exclusion of other people, then wish for death, if you are truthful. The next verse there says they will never wish for it because of what their hands have sent ahead, and the third adds that the death they flee will meet them. He also compares 19:75, where the Prophet ﷺ is told to say that whoever is in error, the Most Merciful extends him further in it.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে রাখেন প্রায় এর যমজ আয়াতগুলো, ৬২:৬, ৬২:৭ ও ৬২:৮। সেখানে সম্বোধন ইহুদিদের প্রতি: তোমরা যদি দাবি করো যে অন্য মানুষদের বাদ দিয়ে তোমরাই আল্লাহর বন্ধু, তবে মৃত্যু কামনা করো, যদি সত্যবাদী হও। পরের আয়াত বলে, নিজের হাতে আগে পাঠানো আমলের কারণে তারা কখনো তা কামনা করবে না। তৃতীয় আয়াত যোগ করে, যে মৃত্যু থেকে তারা পালায়, সেটা তাদের সঙ্গে দেখা করবেই। তিনি ১৯:৭৫ আয়াতের সঙ্গেও তুলনা করেন। সেখানে নবী ﷺ-কে বলতে বলা হয়েছে, যে পথভ্রষ্টতায় আছে, দয়াময় তাকে তাতে আরও অবকাশ দেন।"
+          },
+          {
+            "en": "Al-Qurtubi raises an objection of his own. A wish may be on the tongue or in the heart, so how is it known that they did not wish for death inwardly? His answer: the Quran said they would never wish for it, and had they wished it in their hearts they would have said so aloud, to answer the Prophet ﷺ and undo his argument. Ma'arif al-Quran makes the same point, adding that a public acceptance of the challenge, had it happened, would hardly have gone unreported by the many who opposed Islam.",
+            "bn": "কুরতুবী নিজেই একটা আপত্তি তোলেন। কামনা মুখেও হতে পারে, মনেও হতে পারে। তাহলে কীভাবে জানা গেল যে মনে মনেও তারা মৃত্যু কামনা করেনি? তাঁর জবাব: কুরআন বলে দিয়েছে তারা কখনো তা কামনা করবে না। আর মনে মনে কামনা করলে তারা তা মুখেও বলত, যাতে নবী ﷺ-কে জবাব দেওয়া যায় আর তাঁর যুক্তি ভেঙে দেওয়া যায়। মাআরিফুল কুরআনও একই কথা বলে। সঙ্গে যোগ করে, তারা প্রকাশ্যে চ্যালেঞ্জ গ্রহণ করলে ইসলামের অসংখ্য বিরোধী সে খবর ঢাকঢোল পিটিয়ে প্রচার করত, তা চাপা থাকত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loving the Meeting, Not the Grave",
+          "bn": "কবর নয়, সাক্ষাৎকে ভালোবাসা"
+        },
+        "p": [
+          {
+            "en": "None of this makes longing for death a believer's virtue. Al-Bukhari records from Anas ibn Malik that the Prophet ﷺ said: None of you should wish for death because of a calamity befalling him; but if he has to wish for death, he should say: O Allah, keep me alive as long as life is better for me, and let me die if death is better for me. It is a general narration, not attached to this verse, but it keeps the challenge from being read as a model to copy.",
+            "bn": "এসবের মানে এই নয় যে মৃত্যুর জন্য ব্যাকুল হওয়া মুমিনের গুণ। আনাস ইবন মালিক (রাঃ) থেকে বুখারী বর্ণনা করেন, নবী ﷺ বলেছেন: তোমাদের কেউ যেন কোনো বিপদে পড়ে মৃত্যু কামনা না করে। আর যদি কামনা করতেই হয়, তবে যেন বলে: হে আল্লাহ, যতদিন বেঁচে থাকা আমার জন্য কল্যাণকর, ততদিন আমাকে বাঁচিয়ে রাখুন, আর যখন মৃত্যু আমার জন্য কল্যাণকর, তখন আমাকে মৃত্যু দিন। এটি একটি সাধারণ বর্ণনা, এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়। তবু এটি পাঠককে সতর্ক রাখে, যাতে চ্যালেঞ্জটাকে কেউ অনুকরণের আদর্শ বানিয়ে না ফেলে।"
+          },
+          {
+            "en": "Al-Bukhari also records from Ubadah ibn as-Samit, again as a general narration, that the Prophet ﷺ said: whoever loves to meet Allah, Allah loves to meet him, and whoever hates to meet Allah, Allah hates to meet him. When A'ishah, or another of his wives, said that we dislike death, he answered that this was not what he meant: a believer at death is given good news of Allah's pleasure, and then nothing is dearer to him than what lies ahead. Ordinary dread of dying is not what this verse exposed. It exposed a claim its owners would stake nothing on.",
+            "bn": "উবাদা ইবন সামিত (রাঃ) থেকেও বুখারী একটি সাধারণ বর্ণনা আনেন। নবী ﷺ বলেছেন: যে আল্লাহর সাক্ষাৎ ভালোবাসে, আল্লাহও তার সাক্ষাৎ ভালোবাসেন। আর যে আল্লাহর সাক্ষাৎ অপছন্দ করে, আল্লাহও তার সাক্ষাৎ অপছন্দ করেন। আয়েশা (রাঃ) বা নবী ﷺ-এর অন্য কোনো স্ত্রী বললেন, আমরা তো মৃত্যু অপছন্দ করি। তিনি জানালেন, কথাটা সে অর্থে নয়। মুমিনের মৃত্যু ঘনিয়ে এলে তাকে আল্লাহর সন্তুষ্টির সুসংবাদ দেওয়া হয়, তখন সামনে যা আছে তার চেয়ে প্রিয় তার কাছে আর কিছু থাকে না। মরণের স্বাভাবিক ভয় এ আয়াতে ধরা পড়েনি। ধরা পড়েছে এমন এক দাবি, যার জন্য দাবিদাররা কিছুই বাজি রাখতে রাজি ছিল না।"
+          }
+        ]
+      }
+    ]
+  },
   "2:97-98": {
     "sections": [
       {
