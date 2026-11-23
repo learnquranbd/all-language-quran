@@ -1351,6 +1351,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "14:30": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Home of Ruin",
+          "bn": "ধ্বংসের ঘরের পরের কথা"
+        },
+        "p": [
+          {
+            "en": "Verse 14:30 does not open a new subject; it finishes a portrait begun two verses earlier. In 14:28 the listener is asked to consider those who exchanged the favour of Allah for disbelief and settled their people in the home of ruin, which 14:29 names as Hell, a wretched place to settle. Then comes wa-ja'alu, and they made. At-Tabari draws the line between the verses himself: the ones who set up rivals to their Lord here are the same people who exchanged the favour of Allah for disbelief.",
+            "bn": "১৪:৩০ আয়াত নতুন কোনো প্রসঙ্গ শুরু করে না; দুই আয়াত আগে যে ছবি আঁকা শুরু হয়েছিল, এটি তা সম্পূর্ণ করে। ১৪:২৮ আয়াতে শ্রোতাকে ভাবতে বলা হয় তাদের কথা, যারা আল্লাহর অনুগ্রহের বদলে কুফর গ্রহণ করেছে আর নিজেদের জাতিকে নামিয়ে এনেছে ধ্বংসের ঘরে। ১৪:২৯ আয়াত সেই ঘরের নাম বলে দেয়: জাহান্নাম, বসবাসের জন্য কত নিকৃষ্ট জায়গা। তারপর আসে ওয়া জাআলূ, আর তারা বানাল। দুই আয়াতের সংযোগ তাবারী নিজেই স্পষ্ট করে দেন: এখানে যারা নিজেদের রবের প্রতিদ্বন্দ্বী দাঁড় করায়, তারা সেই একই লোক, যারা আল্লাহর অনুগ্রহকে কুফর দিয়ে বদলে নিয়েছিল।"
+          },
+          {
+            "en": "Who were they? Al-Bukhari records (no. 4700) that when Ibn 'Abbas (RA) heard 14:28 he said they were the disbelievers among the people of Makkah. That is the statement of a Companion, not a saying of the Prophet ﷺ, and it concerns 14:28 rather than this verse. At-Tabari carries many reports, most of them to the same effect, among them 'Ali (RA) naming the disbelievers of Quraysh at Badr. Ibn Kathir, in the abridged English edition, then widens the description to all disbelievers, since Muhammad ﷺ was sent as a mercy to all people.",
+            "bn": "তারা কারা? বুখারী বর্ণনা করেছেন (নং ৪৭০০), ইবন আব্বাস (রাঃ) ১৪:২৮ আয়াত শুনে বলেছিলেন, এরা মক্কাবাসীদের মধ্যকার কাফিররা। এটি একজন সাহাবীর উক্তি, নবী ﷺ-এর বাণী নয়, আর তা ১৪:২৮ আয়াত নিয়ে, এই আয়াত নিয়ে নয়। তাবারী বহু বর্ণনা এনেছেন, যার অধিকাংশ একই মর্মের, তার একটিতে আলী (রাঃ) বদরের দিনের কুরাইশ কাফিরদের কথা বলেন। ইবন কাসীর, তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে, বর্ণনাটিকে সব কাফির পর্যন্ত বিস্তৃত করেন, কারণ মুহাম্মাদ ﷺ-কে সমগ্র মানবজাতির জন্য রহমত হিসেবে পাঠানো হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rivals for One Without Equal",
+          "bn": "যাঁর সমকক্ষ নেই, তাঁর প্রতিদ্বন্দ্বী"
+        },
+        "p": [
+          {
+            "en": "Andad is the plural of nidd. Ma'arif al-Qur'an defines a nidd as a like or an equal, and says idols were called andad because those who worshipped them, by their deeds, treated them as the equal of God. At-Tabari says only that they made partners for Allah, and relays from Qatada a one-word gloss: al-andad, the partners. As-Sa'di pairs two words, peers and partners. Al-Baghawi glosses the word as likenesses, and his printed text adds at once, in brackets: and Allah has no nidd.",
+            "bn": "আনদাদ শব্দটি নিদ্দ-এর বহুবচন। মাআরিফুল কুরআন নিদ্দ-এর অর্থ করে সদৃশ বা সমকক্ষ, আর বলে, মূর্তিগুলোকে আনদাদ বলা হতো কারণ যারা সেগুলোর পূজা করত, তারা নিজেদের কাজের মাধ্যমে সেগুলোকে আল্লাহর সমকক্ষ গণ্য করত। তাবারী শুধু বলেন, তারা আল্লাহর জন্য শরীক বানিয়েছিল, আর কাতাদা থেকে এক শব্দের ব্যাখ্যা উদ্ধৃত করেন: আনদাদ মানে শরীকেরা। সা'দী দুটি শব্দ পাশাপাশি রাখেন: সমতুল্য ও শরীক। বাগাভী শব্দটির অর্থ করেন সদৃশসমূহ, আর তাঁর মুদ্রিত পাঠে সঙ্গে সঙ্গে বন্ধনীর ভেতরে যোগ করা আছে: অথচ আল্লাহর কোনো নিদ্দ নেই।"
+          },
+          {
+            "en": "The commentators differ on how concrete to be. Al-Qurtubi names the thing: idols which they worshipped. He points back to al-Baqara, where he had already treated the word; that surah's 2:22 is the verse that says, do not set up andad for Allah while you know. Ibn Kathir and al-Muyassar describe the act rather than the object: they made partners for Him and worshipped them alongside Him. Ibn Kathir then adds what makes this verse heavier than a private error: and they called people to that.",
+            "bn": "কতটা নির্দিষ্ট করে বলবেন, এ নিয়ে তাফসীরকারদের মধ্যে পার্থক্য আছে। কুরতুবী বস্তুটির নাম বলেন: মূর্তি, যেগুলোর তারা পূজা করত। তিনি পাঠককে সূরা বাকারায় ফিরিয়ে দেন, যেখানে শব্দটি নিয়ে আগেই আলোচনা করেছেন; সেই সূরার ২:২২ আয়াতই বলে, জেনেশুনে আল্লাহর জন্য আনদাদ দাঁড় করিও না। ইবন কাসীর ও মুয়াসসার বস্তুর বদলে কাজটির বর্ণনা দেন: তারা তাঁর জন্য শরীক বানিয়েছিল আর তাঁর সঙ্গে সেগুলোর ইবাদত করত। তারপর ইবন কাসীর এমন একটি কথা যোগ করেন, যা এ আয়াতকে ব্যক্তিগত ভুলের চেয়ে ভারী করে তোলে: আর তারা মানুষকেও সেদিকে ডাকত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Li-Yudillu or Li-Yadillu",
+          "bn": "লিইউদিল্লূ, নাকি লিইয়াদিল্লূ"
+        },
+        "p": [
+          {
+            "en": "Li-yudillu 'an sabilihi is read in two ways, and the commentators report both. At-Tabari says the general body of Kufan readers read li-yudillu, with the vowel u, meaning: so that they lead people astray from the path of Allah by what they did. The general body of Basran readers read li-yadillu, with a, meaning: so that those who set up the rivals themselves go astray from the path of Allah. One reading looks outward to the people misled, the other inward to the misleaders.",
+            "bn": "লিইউদিল্লূ আন সাবীলিহী অংশটি দুইভাবে পড়া হয়, আর তাফসীরকারেরা দুটিই উল্লেখ করেন। তাবারী বলেন, কূফার অধিকাংশ কারী পড়েছেন লিইউদিল্লূ, উ-স্বরে, যার অর্থ: যাতে তারা নিজেদের এই কাজ দিয়ে মানুষকে আল্লাহর পথ থেকে বিপথে নেয়। বসরার অধিকাংশ কারী পড়েছেন লিইয়াদিল্লূ, আ-স্বরে, যার অর্থ: যাতে প্রতিদ্বন্দ্বী দাঁড় করানো লোকেরা নিজেরাই আল্লাহর পথ থেকে বিপথগামী হয়। একটি পাঠ তাকায় বাইরের দিকে, বিপথে নেওয়া মানুষদের দিকে; অন্যটি তাকায় ভেতরের দিকে, যারা বিপথে নেয় তাদের দিকে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi name readers rather than cities. Both say Ibn Kathir and Abu 'Amr read with a, and the others with u. This Ibn Kathir is the Qur'an reader, not the commentator quoted elsewhere in this article. Both add that the same difference occurs in al-Hajj, in Luqman and in az-Zumar, and the same phrase does stand in 22:9, 31:6 and 39:8. So the question is not peculiar to this verse; it runs through a phrase the Qur'an uses again and again.",
+            "bn": "কুরতুবী ও বাগাভী শহরের বদলে কারীদের নাম বলেন। দুজনেই বলেন, ইবন কাসীর ও আবু আমর আ-স্বরে পড়েছেন, আর বাকিরা উ-স্বরে। এই ইবন কাসীর কুরআনের কারী, এ প্রবন্ধে অন্যত্র উদ্ধৃত তাফসীরকার নন। দুজনেই যোগ করেন, একই পাঠভেদ আছে সূরা হাজ্জ, সূরা লুকমান ও সূরা যুমারে, আর সত্যিই একই বাক্যাংশ পাওয়া যায় ২২:৯, ৩১:৬ ও ৩৯:৮ আয়াতে। অর্থাৎ প্রশ্নটি শুধু এই আয়াতের নয়; কুরআনে বারবার আসা একটি বাক্যাংশ জুড়েই তা বিস্তৃত।"
+          },
+          {
+            "en": "Neither reading is set aside in the texts fetched for this verse. At-Tabari reports both as the readings of whole regions and does not choose between them here. Read together they describe one movement seen from two sides: those who appoint a rival to Allah lose the path themselves, and they take others off it with them. As-Sa'di's gloss keeps the outward side in view: they set up the rivals and called the servants of Allah to worship them.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত লেখাগুলোর কোথাও কোনো পাঠকে বাতিল করা হয়নি। তাবারী দুটিকেই পুরো অঞ্চলের পাঠ হিসেবে উল্লেখ করেন, আর এখানে কোনোটিকে বেছে নেন না। দুটি পাঠ একসঙ্গে পড়লে একই চলাকে দুই দিক থেকে দেখা যায়: যারা আল্লাহর প্রতিদ্বন্দ্বী দাঁড় করায়, তারা নিজেরা পথ হারায়, আর অন্যদেরও সঙ্গে নিয়ে পথ থেকে সরে যায়। সা'দীর ব্যাখ্যা বাইরের দিকটা চোখের সামনে রাখে: তারা প্রতিদ্বন্দ্বী দাঁড় করিয়েছিল আর আল্লাহর বান্দাদের সেগুলোর ইবাদতের দিকে ডেকেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Aim, or Their End?",
+          "bn": "লক্ষ্য, নাকি শেষ পরিণতি?"
+        },
+        "p": [
+          {
+            "en": "The small letter li- raises a further question: does it state what they aimed at, or only where they arrived? At-Tabari glosses both readings with kay, in order that. On the Kufan reading they set up rivals in order to lead people astray; on the Basran, in order that they themselves go astray. He takes the lam as one of purpose either way, and al-Muyassar's paraphrase runs the same line: they set up partners so as to draw people away from His religion.",
+            "bn": "ছোট্ট অক্ষর লি- আরেকটি প্রশ্ন তোলে: এটি কি তাদের লক্ষ্য জানায়, নাকি শুধু জানায় তারা কোথায় গিয়ে পৌঁছাল? তাবারী দুটি পাঠেরই ব্যাখ্যা করেন কাই শব্দ দিয়ে, যার অর্থ যাতে। কূফার পাঠে তারা প্রতিদ্বন্দ্বী দাঁড় করায় যাতে মানুষকে বিপথে নিতে পারে; বসরার পাঠে, যাতে তারা নিজেরাই বিপথে যায়। দুই ক্ষেত্রেই তিনি লাম-কে উদ্দেশ্যবাচক ধরেন। মুয়াসসারের ভাষ্যও একই পথে চলে: তারা শরীক দাঁড় করিয়েছিল, যাতে মানুষকে তাঁর দ্বীন থেকে দূরে সরিয়ে দিতে পারে।"
+          },
+          {
+            "en": "Al-Qurtubi reads the Basran reading another way. Those who read it with a, he says, mean that they go astray from the path of Allah as a consequence: their end is misleading and misguidance. And he names the letter: this is lam al-'aqibah, the lam of outcome. The reasoning is easy to follow. A man does not usually set out to lose his own way, so on that reading the letter marks where a course ended rather than what was intended. Al-Baghawi reports both readings without discussing the lam.",
+            "bn": "কুরতুবী বসরার পাঠটি অন্যভাবে পড়েন। তিনি বলেন, যারা আ-স্বরে পড়েন, তাদের মতে অর্থ হলো তারা পরিণামে আল্লাহর পথ থেকে বিপথে যায়: তাদের শেষ পরিণতি অন্যকে বিপথে নেওয়া আর নিজেরা পথভ্রষ্ট হওয়া। আর তিনি অক্ষরটির নাম বলে দেন: এটি লামুল আকিবা, পরিণতির লাম। যুক্তিটা বোঝা কঠিন নয়। মানুষ সাধারণত নিজের পথ হারানোর লক্ষ্য নিয়ে যাত্রা শুরু করে না, তাই এ পাঠে অক্ষরটি জানায় কোনো পথ কোথায় গিয়ে শেষ হলো, কী উদ্দেশ্য ছিল তা নয়। বাগাভী দুটি পাঠ উল্লেখ করেন, কিন্তু লাম নিয়ে কিছু বলেন না।"
+          },
+          {
+            "en": "So the difference is real, and it stays a difference. At-Tabari reads purpose on both readings; al-Qurtubi reads outcome on the Basran reading. Either way, the verse will not treat the setting up of a rival as a private opinion without effect. Whether misguidance was the aim or only the result, the text lays it at the door of the people who made the rivals, and the next clause tells them what it will cost.",
+            "bn": "অতএব পার্থক্যটি বাস্তব, আর তা পার্থক্য হিসেবেই থাকে। তাবারী দুই পাঠেই উদ্দেশ্য দেখেন; কুরতুবী বসরার পাঠে দেখেন পরিণতি। যেভাবেই পড়া হোক, আয়াতটি প্রতিদ্বন্দ্বী দাঁড় করানোকে প্রভাবহীন কোনো ব্যক্তিগত মত হিসেবে দেখে না। বিপথগামিতা লক্ষ্য ছিল, নাকি কেবল ফল, যা-ই হোক, পাঠ্যটি তার দায় চাপায় প্রতিদ্বন্দ্বী নির্মাতাদের ঘাড়েই, আর পরের বাক্যাংশ তাদের জানিয়ে দেয় এর মূল্য কী হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enjoy, Said as a Threat",
+          "bn": "ভোগ করো, হুমকির সুরে"
+        },
+        "p": [
+          {
+            "en": "Qul tamatta'u: say, enjoy yourselves. The verb is a command, and at-Tabari is careful about what kind. Say to them, O Muhammad, enjoy the life of this world, as a threat from Allah to them: not a permission to enjoy it, and not a command given by way of worship, but rebuke, menace and warning. The next clause, he says, makes that plain, so the imperative has to be read in the light of where the sentence ends.",
+            "bn": "কুল তামাত্তাঊ: বলো, ভোগ করে নাও। ক্রিয়াটি আদেশসূচক, আর কোন ধরনের আদেশ, তা নিয়ে তাবারী সতর্ক। হে মুহাম্মাদ, তাদের বলো, দুনিয়ার জীবন ভোগ করে নাও। এটি তাদের প্রতি আল্লাহর পক্ষ থেকে হুমকি: ভোগ করার অনুমতি নয়, ইবাদত হিসেবে দেওয়া আদেশও নয়, বরং তিরস্কার, ভীতিপ্রদর্শন আর সতর্কবাণী। তিনি বলেন, পরের বাক্যাংশ বিষয়টা পরিষ্কার করে দেয়, তাই আদেশটি পড়তে হবে বাক্যটি যেখানে গিয়ে শেষ হয়েছে, তার আলোয়।"
+          },
+          {
+            "en": "Al-Qurtubi calls it wa'id, a warning of punishment, and finds more in the choice of verb: it points to how little their worldly pleasures amount to, since they are cut off. As-Sa'di supplies an object: enjoy your disbelief and your misguidance for a little while, for it will not benefit you. Al-Baghawi glosses it simply as live in the world, and Ma'arif al-Qur'an defines tamattu' as drawing a temporary benefit from something.",
+            "bn": "কুরতুবী একে বলেন ওয়াঈদ, শাস্তির সতর্কবাণী, আর ক্রিয়াটির নির্বাচনে আরও কিছু দেখেন: এটি ইঙ্গিত করে, তাদের দুনিয়াবি আনন্দ কত সামান্য, কারণ তা একসময় ছিন্ন হয়ে যায়। সা'দী ক্রিয়ার একটি কর্ম জুড়ে দেন: নিজেদের কুফর আর পথভ্রষ্টতা নিয়ে অল্প কিছুদিন ভোগ করে নাও, তা তোমাদের কোনো উপকারে আসবে না। বাগাভী সহজভাবে অর্থ করেন: দুনিয়াতে জীবন কাটাও। আর মাআরিফুল কুরআন তামাত্তু-এর সংজ্ঞা দেয়: কোনো কিছু থেকে সাময়িক উপকার আদায় করা।"
+          },
+          {
+            "en": "As-Sa'di's wording echoes 39:8, where the Qur'an uses nearly the same frame for a single man. When harm touches him he calls on his Lord; when a favour is granted he forgets, and sets up andad for Allah to lead astray from His path. Say: enjoy your disbelief a little; you are among the companions of the Fire. The plural here addresses a group, the singular there a person who forgot his Lord once his hardship lifted. The command and the end are the same.",
+            "bn": "সা'দীর ভাষা মনে করিয়ে দেয় ৩৯:৮ আয়াতকে, যেখানে কুরআন প্রায় একই কাঠামো ব্যবহার করে একজন মানুষের জন্য। বিপদ ছুঁলে সে তার রবকে ডাকে; অনুগ্রহ পেলে ভুলে যায়, আর আল্লাহর পথ থেকে বিপথে নিতে তাঁর জন্য আনদাদ দাঁড় করায়। বলো: তোমার কুফর নিয়ে অল্প কিছুদিন ভোগ করে নাও; তুমি তো জাহান্নামের অধিবাসীদের একজন। এখানে বহুবচন সম্বোধন করে একটি দলকে, সেখানে একবচন সম্বোধন করে এমন এক ব্যক্তিকে, যে কষ্ট দূর হতেই তার রবকে ভুলে গেছে। আদেশ আর পরিণতি দুই জায়গায় একই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Road Arrives",
+          "bn": "পথ যেখানে গিয়ে পৌঁছায়"
+        },
+        "p": [
+          {
+            "en": "Fa-inna masirakum ila n-nar: for your destination is the Fire. Each commentator gives masir its own glosses. Ibn Kathir has your return and your refuge; al-Qurtubi, your being sent back and your return to the punishment of Hell. As-Sa'di gathers three, your outcome, your settling place and your abode, and adds: and wretched is the destination. The word that closed 14:29, al-qarar, the settlement, is answered here by a word for arrival at the end of a road.",
+            "bn": "ফাইন্না মাসীরাকুম ইলান নার: কারণ তোমাদের গন্তব্য জাহান্নাম। প্রত্যেক তাফসীরকার মাসীর শব্দের নিজস্ব ব্যাখ্যা দেন। ইবন কাসীরের ভাষায়: তোমাদের ফেরার জায়গা ও আশ্রয়স্থল; কুরতুবীর ভাষায়: জাহান্নামের শাস্তির দিকে তোমাদের ফিরিয়ে দেওয়া ও তোমাদের প্রত্যাবর্তন। সা'দী তিনটি শব্দ একত্র করেন: তোমাদের পরিণাম, তোমাদের অবস্থানস্থল, তোমাদের ঠিকানা, আর যোগ করেন: কত নিকৃষ্ট সেই গন্তব্য। ১৪:২৯ আয়াত যে শব্দে শেষ হয়েছিল, আল-কারার, অর্থাৎ বসবাসের জায়গা, এখানে তার জবাব আসে এমন এক শব্দে, যা পথের শেষে পৌঁছানো বোঝায়।"
+          },
+          {
+            "en": "Ibn Kathir paraphrases the whole command bluntly: whatever you are able to do in this world, do it, for whatever happens, your return is to the Fire. He sets beside it two verses. In 31:24 Allah says, We let them enjoy a little, then We drive them to a harsh punishment. In 10:70: an enjoyment in this world, then to Us is their return, then We make them taste the severe punishment for what they used to deny.",
+            "bn": "ইবন কাসীর পুরো আদেশটির ভাষ্য দেন সোজাসাপ্টা: দুনিয়ায় যা কিছু করতে পারো, করে নাও, কারণ যা-ই ঘটুক, তোমাদের ফেরা জাহান্নামেই। এর পাশে তিনি দুটি আয়াত রাখেন। ৩১:২৪ আয়াতে আল্লাহ বলেন, আমি তাদের অল্প কিছুদিন ভোগ করতে দিই, তারপর তাদের ঠেলে নিয়ে যাই কঠিন শাস্তির দিকে। আর ১০:৭০ আয়াতে: দুনিয়ায় কিছু ভোগ, তারপর আমার কাছেই তাদের ফেরা, তারপর তাদের কুফরের কারণে আমি তাদের কঠোর শাস্তির স্বাদ গ্রহণ করাব।"
+          },
+          {
+            "en": "At-Tabari and al-Muyassar add the clock. Enjoy yourselves in this life, at-Tabari writes, for it passes quickly from you, and to the Fire you will soon come, and there you will know the aftermath of your enjoyment in this world through disobedience to Allah and disbelief in Him. The pleasure is not called false or tasteless. It is called short, and it is measured by what comes after it.",
+            "bn": "তাবারী ও মুয়াসসার এর সঙ্গে সময়ের হিসাব জুড়ে দেন। তাবারী লেখেন, দুনিয়ার জীবন ভোগ করে নাও, কারণ তা দ্রুত তোমাদের কাছ থেকে সরে যাবে, আর অচিরেই তোমরা জাহান্নামে পৌঁছাবে, সেখানে জানতে পারবে আল্লাহর অবাধ্যতা আর তাঁর প্রতি কুফরের মধ্য দিয়ে দুনিয়ায় যে ভোগ করেছিলে, তার পরিণাম কী। এখানে আনন্দকে মিথ্যা বা স্বাদহীন বলা হয়নি। বলা হয়েছে ক্ষণস্থায়ী, আর তার মাপ ঠিক হয় পরে যা আসে তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Favour, Another Use",
+          "bn": "একই অনুগ্রহ, ভিন্ন ব্যবহার"
+        },
+        "p": [
+          {
+            "en": "The next verse turns at once. Qul li-'ibadiya alladhina amanu: tell My servants who have believed to establish prayer and spend from what We have provided them, secretly and openly, before a Day comes with no trade and no friendship. Ma'arif al-Qur'an reads the verses as a pair: the first deplores the conduct of the disbelievers and points to their evil end, and the second marks out the believers and gives them commands by which to fulfil the duty of gratitude.",
+            "bn": "পরের আয়াতেই দিক বদলে যায়। কুল লিইবাদিয়াল্লাযীনা আমানূ: আমার ঈমানদার বান্দাদের বলো, তারা যেন নামায কায়েম করে আর আমি তাদের যা দিয়েছি তা থেকে গোপনে ও প্রকাশ্যে ব্যয় করে, এমন একদিন আসার আগে, যেদিন কোনো কেনাবেচা নেই, কোনো বন্ধুত্বও নেই। মাআরিফুল কুরআন আয়াত দুটিকে জোড়া হিসেবে পড়ে: প্রথমটি কাফিরদের আচরণের নিন্দা করে আর তাদের মন্দ পরিণতির দিকে ইঙ্গিত দেয়; দ্বিতীয়টি মুমিনদের আলাদা করে চিহ্নিত করে আর তাদের এমন কিছু আদেশ দেয়, যা দিয়ে তারা কৃতজ্ঞতার দায়িত্ব পালন করতে পারে।"
+          },
+          {
+            "en": "Ma'arif makes the contrast explicit in its paraphrase: though the disbelievers of Makkah turned their backs on the favour of Allah, tell My believing servants to pray and to spend. The favour that one group exchanged for disbelief becomes, for the other, the material of thanks. Both commands begin with qul, say. One says enjoy, the other says pray and give, and the reader is left to see which use of a short life the Qur'an commends.",
+            "bn": "মাআরিফ নিজের ভাষ্যে বৈপরীত্যটি স্পষ্ট করে দেয়: মক্কার কাফিররা আল্লাহর অনুগ্রহ থেকে মুখ ফিরিয়ে নিলেও, আমার ঈমানদার বান্দাদের বলো, তারা যেন নামায পড়ে আর ব্যয় করে। যে অনুগ্রহকে একদল কুফর দিয়ে বদলে নিয়েছিল, অন্যদলের কাছে সেটাই হয়ে ওঠে কৃতজ্ঞতার উপকরণ। দুটি আদেশই শুরু হয় কুল দিয়ে, অর্থাৎ বলো। একটি বলে ভোগ করো, অন্যটি বলে নামায পড়ো আর দান করো। পাঠকের উপর ছেড়ে দেওয়া হয় বোঝার ভার: অল্প এই জীবনের কোন ব্যবহারকে কুরআন প্রশংসা করে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith of the Prophet ﷺ to it, and none reports an occasion of revelation for it. What they give is language, the two readings and the setting. The reports about 14:28 already noted, from Ibn 'Abbas (RA) and 'Ali (RA), are statements of Companions about the identity of the people described, not sayings of the Prophet ﷺ, and they belong to the verse before this.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি, আর কোনোটিই এর অবতরণের কোনো প্রেক্ষাপট উল্লেখ করেনি। তারা যা দেয় তা হলো ভাষা, দুটি পাঠ আর প্রসঙ্গ। ১৪:২৮ আয়াত নিয়ে আগে উল্লেখ করা বর্ণনাগুলো, ইবন আব্বাস (রাঃ) ও আলী (রাঃ) থেকে, বর্ণিত লোকেরা কারা ছিল সে সম্পর্কে সাহাবীদের উক্তি, নবী ﷺ-এর বাণী নয়, আর সেগুলো এর আগের আয়াতের সঙ্গে সম্পর্কিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning Not Ours to Issue",
+          "bn": "এ সতর্কবাণী আমাদের দেওয়ার নয়"
+        },
+        "p": [
+          {
+            "en": "The verse describes what it describes: a group, whom Ibn 'Abbas (RA) identified as the disbelievers of Makkah, who set up rivals to Allah, drew others from His path and were told where that would end. It licenses nothing against any living person or community. It gives no reader a way of deciding who now stands under its last clause, and no warrant to say to anyone, enjoy yourself, your destination is the Fire. That sentence was given to the Prophet ﷺ to say, by command.",
+            "bn": "আয়াতটি যা বর্ণনা করে, তা-ই বর্ণনা করে: একটি দল, যাদের ইবন আব্বাস (রাঃ) মক্কার কাফির হিসেবে চিহ্নিত করেছেন, যারা আল্লাহর প্রতিদ্বন্দ্বী দাঁড় করিয়েছিল, অন্যদের তাঁর পথ থেকে সরিয়ে নিয়েছিল, আর যাদের জানিয়ে দেওয়া হয়েছিল এর শেষ কোথায়। কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আজ কে এর শেষ বাক্যাংশের আওতায় পড়ে, তা ঠিক করার কোনো উপায় এটি কোনো পাঠকের হাতে দেয় না, আর কাউকে এ কথা বলার অধিকারও দেয় না যে, ভোগ করে নাও, তোমার গন্তব্য জাহান্নাম। সে বাক্য নবী ﷺ-কে বলতে দেওয়া হয়েছিল আল্লাহর আদেশে।"
+          },
+          {
+            "en": "What the verse does hand the reader is a set of questions about himself. The commentators gloss nidd as a like, an equal, a partner; a reader can ask what in his own life has been given standing of that kind in his love, his fear or his trust. Ibn Kathir's addition, they called people to that, shows that such a rival seldom stays private. And the lam that al-Qurtubi calls the lam of outcome warns that a course may end where no one meant it to.",
+            "bn": "আয়াতটি পাঠকের হাতে যা তুলে দেয়, তা হলো নিজের সম্পর্কে কিছু প্রশ্ন। তাফসীরকারেরা নিদ্দ-এর ব্যাখ্যা করেন সদৃশ, সমকক্ষ, শরীক হিসেবে; পাঠক নিজেকে জিজ্ঞেস করতে পারে, তার ভালোবাসায়, ভয়ে বা ভরসায় কোন জিনিস এমন মর্যাদা পেয়ে গেছে। ইবন কাসীরের সংযোজন, তারা মানুষকেও সেদিকে ডাকত, দেখায় যে এমন প্রতিদ্বন্দ্বী খুব কমই ব্যক্তিগত থাকে। আর কুরতুবী যে লামকে পরিণতির লাম বলেন, তা সতর্ক করে: কোনো পথ এমন জায়গায় শেষ হতে পারে, যেখানে কেউ পৌঁছাতে চায়নি।"
+          },
+          {
+            "en": "The word tamatta'u reaches anyone who is enjoying life without thinking of its end, and at-Tabari insists it is no permission. A long stretch of comfort is not evidence of approval; in 31:24 it is the very thing that comes before the reckoning. The verse that follows shows another way to spend the same days: prayer kept up, and giving, secretly and openly, before the Day that 14:31 describes.",
+            "bn": "তামাত্তাঊ শব্দটি পৌঁছে যায় এমন প্রত্যেকের কাছে, যে জীবনের শেষের কথা না ভেবে জীবন উপভোগ করছে, আর তাবারী জোর দিয়ে বলেন, এটি অনুমতি নয়। দীর্ঘ আরামের সময় সন্তুষ্টির প্রমাণ নয়; ৩১:২৪ আয়াতে ঠিক সেটাই আসে হিসাবের আগে। পরের আয়াত একই দিনগুলো কাটানোর আরেক পথ দেখায়: নামায কায়েম রাখা, আর গোপনে ও প্রকাশ্যে দান করা, সেই দিনের আগে, যার বর্ণনা ১৪:৩১ আয়াতে আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "14:32": {
     "sections": [
       {

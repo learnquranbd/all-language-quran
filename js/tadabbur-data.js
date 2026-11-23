@@ -33123,6 +33123,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Trust the One who knew you and fed you in the womb with what you cannot see now, and take each gain and loss as falling within a measure He has set.",
     "lessonBn": "যিনি গর্ভে আপনাকে জানতেন আর খাইয়েছেন, এখন যা দেখতে পাচ্ছেন না তা নিয়ে তাঁর উপর ভরসা রাখুন। প্রতিটি পাওয়া আর হারানোকে তাঁর বেঁধে দেওয়া মাপের ভেতরেই দেখুন।"
+  },
+  "14:30": {
+    "reflectionEn": "The verse names what they did in a few words. They set up rivals beside Allah, and the rivals led people away from His path. Then the Prophet ﷺ is told to answer them with one word: enjoy. It sounds like permission. It is a warning, because the sentence goes on to say where all that enjoyment is heading. A rival is rarely set up alone; it needs followers, and whoever raises one draws others after it. So the verse is a mirror for me as well. What have I set beside Allah in my love, my fear or my trust? Whom have I drawn after it? And when life tells me to enjoy, do I hear the end of the sentence?",
+    "reflectionBn": "আয়াতটি অল্প কথায় তাদের কাজের বিবরণ দেয়। তারা আল্লাহর পাশে প্রতিদ্বন্দ্বী দাঁড় করাল, আর সেই প্রতিদ্বন্দ্বীরা মানুষকে তাঁর পথ থেকে সরিয়ে নিল। তারপর নবী ﷺ-কে বলা হলো তাদের একটিমাত্র কথায় জবাব দিতে: ভোগ করে নাও। শুনতে অনুমতির মতো লাগে। আসলে এটা সতর্কবাণী, কারণ বাক্যের বাকি অংশ বলে দেয় সেই সব ভোগ শেষে কোথায় গিয়ে থামবে। প্রতিদ্বন্দ্বী সাধারণত একা দাঁড় করানো হয় না; তার অনুসারী লাগে, আর যে তাকে দাঁড় করায় সে অন্যদেরও পেছনে টেনে নেয়। তাই আয়াতটি আমার জন্যও এক আয়না। ভালোবাসায়, ভয়ে বা ভরসায় আমি আল্লাহর পাশে কাকে বসিয়েছি? কাকে আমি তার পেছনে টেনে এনেছি? আর জীবন যখন বলে ভোগ করে নাও, আমি কি বাক্যের শেষটুকু শুনতে পাই?",
+    "pointsEn": [
+      "What do I love, fear or rely on in a way that belongs to Allah alone, even if I would never call it a rival?",
+      "Whom have I led, by my words or my example, towards something that pulls them away from His path?",
+      "When life gives me room to enjoy, do I think about where the road ends, or only about how pleasant it is today?",
+      "Is there a habit I keep only because nothing has stopped me yet, mistaking delay for approval?",
+      "Which favour of Allah have I used this week in a way that took me further from Him?"
+    ],
+    "pointsBn": [
+      "কোন জিনিসকে আমি এমনভাবে ভালোবাসি, ভয় করি বা তার উপর ভরসা করি, যা কেবল আল্লাহরই প্রাপ্য, যদিও আমি কখনো তাকে প্রতিদ্বন্দ্বী বলব না?",
+      "আমার কথা বা আমার দৃষ্টান্ত দিয়ে কাকে আমি এমন কিছুর দিকে নিয়ে গেছি, যা তাকে তাঁর পথ থেকে দূরে সরায়?",
+      "জীবন যখন ভোগের সুযোগ দেয়, আমি কি ভাবি পথটা কোথায় গিয়ে শেষ হবে, নাকি শুধু আজকের আরামটুকুই দেখি?",
+      "এমন কোনো অভ্যাস কি আছে, যা আমি শুধু এজন্য ধরে রেখেছি যে এখনো কিছু আমাকে থামায়নি, আর সেই অবকাশকে সম্মতি ভেবে বসেছি?",
+      "এ সপ্তাহে আল্লাহর কোন অনুগ্রহ আমি এমনভাবে ব্যবহার করেছি, যা আমাকে তাঁর কাছ থেকে আরও দূরে নিয়ে গেছে?"
+    ],
+    "lessonEn": "Give Allah no rival in your love, fear or trust, and never take a long, comfortable life as His approval of how you are living it.",
+    "lessonBn": "ভালোবাসা, ভয় বা ভরসায় আল্লাহর কোনো প্রতিদ্বন্দ্বী দাঁড় করাবেন না, আর দীর্ঘ আরামের জীবনকে কখনো ভাববেন না যে আপনার জীবনযাপনে তিনি সন্তুষ্ট।"
   }
 };
 
