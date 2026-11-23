@@ -783,6 +783,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After the Intercessors",
+          "bn": "সুপারিশকারীর দাবির ঠিক পরে"
+        },
+        "p": [
+          {
+            "en": "The verse arrives straight after a charge. In 10:18 the idolaters worship what neither harms nor benefits them, call those things their intercessors with Allah, and are asked whether they would inform Allah of something He does not know. Ibn Kathir opens his comment on 10:19 by naming the link: Allah then tells that this shirk arose among people, coming to be after it had not been, and that all of mankind had once followed one religion, Islam. Idolatry, on this reading, is not humanity's first condition. It is a departure from it.",
+            "bn": "আয়াতটি এসেছে একটি অভিযোগের ঠিক পরে। ১০:১৮ আয়াতে মুশরিকরা এমন জিনিসের ইবাদত করে যা তাদের ক্ষতিও করতে পারে না, উপকারও না। সেগুলোকেই তারা বলে আল্লাহর কাছে তাদের সুপারিশকারী। তাদের জিজ্ঞেস করা হয়, তোমরা কি আল্লাহকে এমন কিছু জানাতে চাও যা তিনি জানেন না? ইবন কাসীর ১০:১৯-এর ব্যাখ্যা শুরু করেন দুই আয়াতের যোগসূত্র দেখিয়ে। আল্লাহ এরপর জানাচ্ছেন, এই শিরক মানুষের মধ্যে পরে জন্মেছে, একসময় যার অস্তিত্বই ছিল না। সব মানুষ একদিন একই দ্বীনে ছিল, আর সে দ্বীন ইসলাম। এই ব্যাখ্যায় মূর্তিপূজা মানবজাতির আদি অবস্থা নয়, বরং সেখান থেকে সরে যাওয়া।"
+          },
+          {
+            "en": "The surrounding passage is a long argument with the people of Makkah. In 10:15 they ask for a different Qur'an, or for this Qur'an to be changed. 10:17 asks who does greater wrong than whoever invents a lie about Allah or denies His signs. 10:20 reports their next demand: why is no sign sent down to him? Between the accusation and that demand, 10:19 steps back and takes in the whole of human history in seventeen Arabic words. It says how the differing began, and why it has not yet been settled.",
+            "bn": "চারপাশের আয়াতগুলো মক্কার লোকদের সঙ্গে এক দীর্ঘ বিতর্ক। ১০:১৫ আয়াতে তারা চায় অন্য কোনো কুরআন, নয়তো এটাকেই বদলে দেওয়া হোক। ১০:১৭ প্রশ্ন তোলে, যে আল্লাহর নামে মিথ্যা বানায় বা তাঁর আয়াতকে মিথ্যা বলে, তার চেয়ে বড় জালিম আর কে? ১০:২০ জানায় তাদের পরের দাবি: তাঁর কাছে কোনো নিদর্শন নাযিল হয় না কেন? এই অভিযোগ আর ওই দাবির মাঝখানে ১০:১৯ এক পা পিছিয়ে দাঁড়ায়। আরবির সতেরোটি শব্দে সে গোটা মানব-ইতিহাসকে ধরে ফেলে। মতভেদ কীভাবে শুরু হলো, আর কেন এখনো তার মীমাংসা হয়নি, দুটো কথাই এখানে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seventeen Words, Two Tenses",
+          "bn": "সতেরো শব্দ, দুই কাল"
+        },
+        "p": [
+          {
+            "en": "The verse opens with a restriction: wa-ma kana an-nasu illa ummatan wahidatan, mankind was nothing but one community. The pairing of ma with illa shuts out every other description; at the start people were one, and only one. Then comes fa-khtalafu, and they differed. The particle fa marks what follows as coming after, and the verb is past. The split is recorded as something that happened at a point in history. Ibn Kathir's word for the shirk that came of it is the same idea: hadith, in its plain sense of newly arisen.",
+            "bn": "আয়াতের শুরুতেই একটা সীমা টেনে দেওয়া হয়েছে: ওয়া মা কানান নাসু ইল্লা উম্মাতান ওয়াহিদাহ, মানুষ এক উম্মত ছাড়া আর কিছু ছিল না। 'মা' আর 'ইল্লা' একসঙ্গে এসে অন্য সব বর্ণনার পথ বন্ধ করে দেয়। শুরুতে মানুষ ছিল এক, শুধুই এক। তারপর আসে ফাখতালাফূ, অতঃপর তারা মতভেদ করল। 'ফা' বুঝিয়ে দেয় যে এটা ঘটেছে পরে, আর ক্রিয়াটিও অতীত কালের। বিভক্তিটা তাই ইতিহাসের এক নির্দিষ্ট সময়ে ঘটে যাওয়া ঘটনা। এর ফলে যে শিরক এল, ইবন কাসীর তাকে বলেছেন 'হাদিস', সাধারণ অর্থে: নতুন উদ্ভূত। কথাটা একই।"
+          },
+          {
+            "en": "The second half is a conditional. Wa-law-la kalimatun sabaqat min rabbika: and were it not for a word that went before from your Lord. What law-la holds back is la-qudiya baynahum, it would have been decided between them. The verb leaves the decider unnamed, and al-Qurtubi records that a reciter named 'Isa read it la-qada, He would have decided. The last phrase shifts tense. Fima fihi yakhtalifun, in what they differ over, is present, though the differing began in the past with fa-khtalafu. The dispute that started then is still running.",
+            "bn": "দ্বিতীয় অর্ধেক একটি শর্তবাক্য: ওয়া লাওলা কালিমাতুন সাবাকাত মির রাব্বিকা, তোমার রবের পক্ষ থেকে একটি কথা যদি আগেই না থাকত। 'লাওলা' যা আটকে রেখেছে তা হলো লাকুদিয়া বাইনাহুম, তাদের মধ্যে মীমাংসা হয়ে যেত। কে মীমাংসা করতেন, ক্রিয়াটি তা বলে না। কুরতুবী জানান, ঈসা নামের এক কারী পড়েছেন লাকাদা, যাতে কর্তা স্পষ্ট: তিনি মীমাংসা করে দিতেন। শেষ অংশে এসে কাল বদলে যায়। ফীমা ফীহি ইয়াখতালিফূন, যে বিষয়ে তারা মতভেদ করছে, বর্তমান কালের কথা। অথচ মতভেদ শুরু হয়েছিল অতীতে, ফাখতালাফূ দিয়ে। তখন যে বিরোধ শুরু হয়েছিল, তা আজও চলছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten Qurun Upon Islam",
+          "bn": "আদম থেকে নূহ, এক দ্বীন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names his source for the first community. Ibn Abbas (RA) said: between Adam and Nuh (AS) there were ten qurun, all of them upon Islam; then differing arose among people, and idols, rivals and images were worshipped, so Allah sent the messengers with His signs, His clear proofs and His conclusive arguments. The abridged English renders qurun as centuries. Ibn Kathir closes the thought with 8:42: so that whoever perished might perish upon clear evidence, and whoever lived might live upon clear evidence.",
+            "bn": "প্রথম উম্মত নিয়ে ইবন কাসীর তাঁর সূত্রের নাম বলেন। ইবন আব্বাস (রাঃ) বলেছেন, আদম (আঃ) আর নূহ (আঃ)-এর মাঝে দশটি 'করন' কেটেছে, আর তারা সবাই ছিল ইসলামের উপর। তারপর মানুষের মধ্যে মতভেদ দেখা দিল। মূর্তি, প্রতিমা আর শরিকদের পূজা শুরু হলো। তখন আল্লাহ রাসূলদের পাঠালেন তাঁর নিদর্শন, সুস্পষ্ট প্রমাণ আর অকাট্য যুক্তি দিয়ে। সংক্ষিপ্ত ইংরেজি সংস্করণ 'করন' শব্দের অনুবাদ করেছে শতাব্দী। ইবন কাসীর কথাটি শেষ করেন ৮:৪২ দিয়ে: যে ধ্বংস হবে সে যেন সুস্পষ্ট প্রমাণ দেখেই ধ্বংস হয়, আর যে বাঁচবে সে যেন সুস্পষ্ট প্রমাণ দেখেই বাঁচে।"
+          },
+          {
+            "en": "The other short commentaries agree on the substance. Al-Muyassar: people were on one religion, Islam, then differed, some disbelieving and some holding firm to the truth. Al-Baghawi: upon Islam, then they split into believer and disbeliever. As-Sa'di: agreed upon the sound religion, but they differed, so Allah sent messengers bearing good news and warning, with the Book to judge in what they differed over, words that echo 2:213. At-Tabari glosses one religion and one creed, and says he set out the disagreement over its meaning under 2:213.",
+            "bn": "অন্য সংক্ষিপ্ত তাফসীরগুলোও মূল কথায় একমত। মুয়াসসার বলে, মানুষ ছিল একই দ্বীনে, ইসলামে। তারপর তারা মতভেদ করল, কেউ কুফরি করল, কেউ সত্যে অটল রইল। বাগাভীর কথায়, তারা ছিল ইসলামের উপর, পরে মুমিন আর কাফির দুই ভাগে ভাগ হয়ে গেল। সা'দী বলেন, তারা সঠিক দ্বীনে একমত ছিল, কিন্তু মতভেদ করল। তখন আল্লাহ সুসংবাদদাতা ও সতর্ককারী রাসূল পাঠালেন, সঙ্গে কিতাব দিলেন, যাতে মতভেদের বিষয়ে ফয়সালা হয়। কথাগুলো ২:২১৩-এর প্রতিধ্বনি। তাবারী শুধু বলেন এক দ্বীন, এক মিল্লাত, আর জানান যে এর অর্থ নিয়ে মতভেদ তিনি ২:২১৩-এর আলোচনায় তুলে ধরেছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing Tafsir Mazhari, says this single community of monotheists lasted until Nuh (AS), the first to confront shirk and kufr. It then makes a social point. Across that long span, colour, ethnicity, ways of life, region and perhaps language had certainly diversified, yet the Qur'an still calls them one community. What it names as the split is the departure from faith, and Ma'arif cites 64:2: He is the One who created you, and among you is a disbeliever and among you is a believer.",
+            "bn": "মাআরিফুল কুরআন তাফসীরে মাযহারীর বরাতে বলে, তাওহীদপন্থী এই এক উম্মত টিকে ছিল নূহ (আঃ) পর্যন্ত। তিনিই প্রথম শিরক আর কুফরের মুখোমুখি হন। এরপর সেখানে একটি সামাজিক কথা আসে। এত দীর্ঘ সময়ে মানুষের গায়ের রং, গোত্র, জীবনযাত্রা, বসতির এলাকা, হয়তো ভাষাও নিশ্চয়ই আলাদা হয়ে গিয়েছিল। তবু কুরআন তাদের এক উম্মতই বলেছে। বিভক্তির কারণ হিসেবে সে চিহ্নিত করেছে কেবল ঈমান থেকে সরে যাওয়াকে। মাআরিফ এখানে ৬৪:২ উদ্ধৃত করে: তিনিই তোমাদের সৃষ্টি করেছেন, অতঃপর তোমাদের কেউ কাফির, কেউ মুমিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One in Shirk, or at Birth",
+          "bn": "শিরকে এক, নাকি জন্মে এক"
+        },
+        "p": [
+          {
+            "en": "Not every commentator reads the unity that way. Al-Qurtubi says the meaning was treated in al-Baqarah and needs no repeating, then adds two views. Az-Zajjaj: they were the Arabs, and they were upon shirk. On this reading the one community was one in idolatry, not in faith. A second view, given with 'it is said': every child is born upon the fitrah, and people differed on reaching maturity. Here the one community is each human being at birth, not an age of history.",
+            "bn": "ঐক্যটাকে সব তাফসীরকার এভাবে পড়েননি। কুরতুবী বলেন, এর অর্থ সূরা বাকারায় আলোচিত হয়েছে, আবার বলার দরকার নেই। তারপর তিনি আরও দুটি মত আনেন। যাজ্জাজের মতে, এরা ছিল আরব, আর তারা ছিল শিরকের উপর। এই পাঠে মানুষ একই পথে ছিল, তবে সে পথ মূর্তিপূজার, ঈমানের নয়। দ্বিতীয় মতটি তিনি আনেন 'বলা হয়' বলে: প্রতিটি শিশু ফিতরাতের উপর জন্মায়, আর বালেগ হওয়ার পর মানুষ মতভেদে জড়ায়। এখানে এক উম্মত মানে জন্মের মুহূর্তের প্রতিটি মানুষ, ইতিহাসের কোনো যুগ নয়।"
+          },
+          {
+            "en": "At-Tabari, by three chains to Mujahid, gives a narrower point of departure: then they differed, when one of Adam's two sons killed his brother. The unity, for Mujahid, is the first family, and the first split is a killing. These readings do not agree, and this page does not choose between Ibn Abbas's account, carried by Ibn Kathir, and az-Zajjaj's, carried by al-Qurtubi. The 2:213 article sets out the two readings more fully. On every one of them, the differing comes after a unity, and it is the differing that awaits judgement.",
+            "bn": "তাবারী তিনটি সনদে মুজাহিদ থেকে আরও সরু একটি সূচনাবিন্দু দেন: তারা মতভেদ করল তখন, যখন আদমের দুই ছেলের একজন তার ভাইকে হত্যা করল। মুজাহিদের কাছে ঐক্য মানে প্রথম পরিবার, আর প্রথম ফাটল একটি হত্যা। এই ব্যাখ্যাগুলো একমত নয়। ইবন কাসীরের আনা ইবন আব্বাসের বর্ণনা আর কুরতুবীর আনা যাজ্জাজের মত, এ দুয়ের মধ্যে এই লেখা কোনো পক্ষ নেয় না। দুই পাঠের বিস্তারিত আলোচনা আছে ২:২১৩-এর প্রবন্ধে। তবে প্রতিটি পাঠেই মতভেদ আসে এক ঐক্যের পরে, আর বিচারের অপেক্ষায় আছে সেই মতভেদই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Prior Word Was",
+          "bn": "আগেই স্থির হয়ে থাকা কথা"
+        },
+        "p": [
+          {
+            "en": "What is the kalimah, the word that went before? Ibn Kathir gives two parts: that Allah punishes no one until the proof has been established against him, and that He has deferred creation to a counted term. At-Tabari: that He does not destroy a people until their appointed terms have run out. Al-Muyassar and as-Sa'di use the same words: respite for the disobedient, and not hastening them for their sins. Al-Baghawi: that He set a term for every community.",
+            "bn": "এই 'কালিমা', আগেই চলে যাওয়া কথাটি আসলে কী? ইবন কাসীর এর দুটি দিক বলেন। এক, আল্লাহ কাউকে শাস্তি দেন না যতক্ষণ না তার বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়। দুই, তিনি সৃষ্টিকে একটি গোনা মেয়াদ পর্যন্ত সময় দিয়েছেন। তাবারীর কথায়, কোনো জাতির নির্ধারিত মেয়াদ শেষ না হওয়া পর্যন্ত তিনি তাদের ধ্বংস করেন না। মুয়াসসার আর সা'দী একই ভাষা ব্যবহার করেন: নাফরমানদের অবকাশ দেওয়া, গুনাহের জন্য তাদের তাড়াতাড়ি পাকড়াও না করা। বাগাভী বলেন, প্রতিটি জাতির জন্য তিনি একটি মেয়াদ বেঁধে দিয়েছেন।"
+          },
+          {
+            "en": "Some tie the word to this ummah. Al-Kalbi, reported by both al-Baghawi and al-Qurtubi: Allah deferred this community, so He does not destroy them with punishment in this world. Al-Hasan, also in both: it had gone forth in His decree that He would not judge between them with reward and punishment short of the Resurrection; al-Qurtubi's version adds 'with His knowledge of what they would do'. So He made their appointment the Day itself. Al-Qurtubi calls the phrase a pointer to the divine decree, al-qada' wa-l-qadar.",
+            "bn": "কেউ কেউ কথাটিকে এই উম্মতের সঙ্গে যুক্ত করেন। বাগাভী ও কুরতুবী দুজনেই কালবীর মত আনেন: আল্লাহ এই উম্মতকে সময় দিয়েছেন, তাই দুনিয়াতে আযাব দিয়ে তাদের ধ্বংস করবেন না। দুজনেই হাসানের মতও আনেন। তাঁর হুকুমে আগেই স্থির হয়ে ছিল যে, কিয়ামতের আগে সওয়াব আর শাস্তি দিয়ে তিনি তাদের মতভেদের ফয়সালা করবেন না। কুরতুবীর বর্ণনায় এর সঙ্গে আছে: তাদের কাজকর্ম জানা সত্ত্বেও। তাই তিনি তাদের প্রতিশ্রুত সময় করেছেন কিয়ামতের দিনকেই। কুরতুবী এই অংশকে বলেন কাযা ও কদরের দিকে ইঙ্গিত।"
+          },
+          {
+            "en": "Al-Qurtubi gives two more views, each with 'it is said'. One: the prior word is that He seizes no one except with a proof, which is the sending of messengers, as in 17:15: and We never punish until We send a messenger. The other: the word is His saying, 'My mercy has preceded My wrath', and were it not for that, He would not have deferred the disobedient so they could repent. These views overlap more than they compete. Each names a reason the verdict is not given now: a term, a proof, a mercy.",
+            "bn": "কুরতুবী 'বলা হয়' বলে আরও দুটি মত আনেন। একটি হলো, আগের কথাটি এই যে, প্রমাণ ছাড়া তিনি কাউকে পাকড়াও করেন না, আর সে প্রমাণ হলো রাসূল পাঠানো। যেমন ১৭:১৫ বলছে: রাসূল না পাঠানো পর্যন্ত আমি শাস্তি দিই না। অন্যটি হলো, কথাটি তাঁর এই বাণী: আমার রহমত আমার ক্রোধকে ছাড়িয়ে গেছে। তা না হলে নাফরমানদের তিনি তওবার সুযোগ দিয়ে পিছিয়ে রাখতেন না। মতগুলো একে অন্যের বিরোধী নয়, বরং অনেকটাই মিলে যায়। প্রতিটিই বলে দেয় রায় এখন কেন আসছে না: একটি মেয়াদ, একটি প্রমাণ, একটি রহমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If the Verdict Came Now",
+          "bn": "রায় যদি এখনই আসত"
+        },
+        "p": [
+          {
+            "en": "What would the decision have looked like? At-Tabari: it would have been decided between them by destroying the people of falsehood and saving the people of truth, and al-Muyassar says the same. As-Sa'di: We would save the believers and destroy the denying disbelievers, and that would separate them. Al-Baghawi: by sending down punishment and hastening the penalty for the deniers. Al-Hasan: He would have admitted the believers to Paradise and the disbelievers to the Fire in this world. Abu Rawq, in al-Qurtubi: He would have made the Hour arrive for them.",
+            "bn": "ফয়সালাটা হলে কেমন হতো? তাবারী বলেন, বাতিলপন্থীদের ধ্বংস করে আর সত্যপন্থীদের বাঁচিয়ে তাদের মধ্যে মীমাংসা হয়ে যেত। মুয়াসসারও একই কথা বলে। সা'দীর ভাষায়, আমি মুমিনদের রক্ষা করতাম আর মিথ্যারোপকারী কাফিরদের ধ্বংস করতাম, আর এভাবেই দুই দল আলাদা হয়ে যেত। বাগাভী বলেন, আযাব নাযিল করে আর মিথ্যারোপকারীদের শাস্তি এগিয়ে এনে। হাসানের মতে, তিনি দুনিয়াতেই মুমিনদের জান্নাতে আর কাফিরদের জাহান্নামে প্রবেশ করাতেন। কুরতুবী আবু রাওকের মত আনেন: তিনি তাদের উপর কিয়ামত ঘটিয়ে দিতেন।"
+          },
+          {
+            "en": "As-Sa'di then says why it was not done: He willed to test them, trying some of them by means of others, so that the truthful would be distinguished from the liar. Ibn Kathir describes the outcome being held back: the believers made happy and the disbelievers made wretched. Al-Qurtubi names whom the verse addresses. It is a consolation for the Prophet ﷺ over the delay of punishment for those who disbelieved in him. He was being told why his opponents were still standing, and that their standing settled nothing.",
+            "bn": "সা'দী এরপর বলেন কেন তা করা হয়নি: তিনি তাদের পরীক্ষা করতে চেয়েছেন, একদলকে আরেকদল দিয়ে যাচাই করতে চেয়েছেন, যাতে সত্যবাদী আর মিথ্যাবাদী আলাদা হয়ে যায়। ইবন কাসীর বলেন, যে ফলাফল আটকে রাখা হয়েছে তা হলো মুমিনদের সৌভাগ্য আর কাফিরদের দুর্ভাগ্য। কুরতুবী জানান আয়াতটি কাকে উদ্দেশ করে। এ হলো নবী ﷺ-এর জন্য সান্ত্বনা, কারণ যারা তাঁকে অস্বীকার করেছিল তাদের শাস্তি দেরিতে আসছিল। তাঁকে বোঝানো হচ্ছিল, বিরোধীরা কেন এখনো টিকে আছে। তাদের টিকে থাকা কোনো কিছুর মীমাংসা নয়।"
+          },
+          {
+            "en": "This needs saying plainly. The verse speaks of people who differed and of a judgement kept for its term. It does not tell the reader who, among living people, stands on which side, and it licenses nothing against any person or community today. In at-Tabari's words the outcome would have been destruction for the people of falsehood, but that outcome is Allah's to carry out, at the time He has fixed. Whoever hastens it against someone else has done what the verse says Allah Himself has not yet done.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এমন মানুষের কথা বলে যারা মতভেদ করেছিল, আর এমন এক বিচারের কথা যা তার মেয়াদের জন্য তুলে রাখা হয়েছে। আজকের জীবিত মানুষদের মধ্যে কে কোন পক্ষে, আয়াত তা পাঠককে জানায় না। কোনো ব্যক্তি বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতিও এ আয়াত দেয় না। তাবারীর ভাষায় পরিণতি হতো বাতিলপন্থীদের ধ্বংস। কিন্তু সে পরিণতি ঘটানোর মালিক আল্লাহ, তাঁরই ঠিক করা সময়ে। যে কেউ অন্যের বিরুদ্ধে তা আগেভাগে ঘটাতে চায়, সে এমন কাজ করে যা আয়াত বলছে আল্লাহ নিজেই এখনো করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy Written Above the Throne",
+          "bn": "আরশের উপরে লেখা রহমত"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. The nearest link is the view al-Qurtubi gives with 'it is said', that the prior word is 'My mercy has preceded My wrath'. That wording is in Sahih al-Bukhari (7554), from Abu Hurayrah (RA), who heard the Messenger of Allah ﷺ say: 'Allah wrote a Book before He created the creation: My mercy has preceded My wrath. And it is written with Him above the Throne.' It is a general narration, not attached to this verse.",
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। সবচেয়ে কাছের যোগসূত্র কুরতুবীর 'বলা হয়' দিয়ে আনা মতটি, যাতে আগের কথাটি হলো: আমার রহমত আমার ক্রোধকে ছাড়িয়ে গেছে। এই ভাষ্য আছে সহীহ বুখারীতে (৭৫৫৪)। আবু হুরায়রা (রাঃ) আল্লাহর রাসূল ﷺ-কে বলতে শুনেছেন: 'আল্লাহ সৃষ্টিজগৎ সৃষ্টির আগে একটি কিতাব লিখেছেন: আমার রহমত আমার ক্রোধকে ছাড়িয়ে গেছে। আর সেটি তাঁর কাছে আরশের উপরে লেখা আছে।' এটি একটি সাধারণ বর্ণনা, এই আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "Read beside the verse on that one view, the narration gives the respite a face. The verdict of 10:19 is not delayed by indifference or by any inability. The delay is ordered, and the order was written before anyone differed. Al-Qurtubi's own clause draws the consequence: were it not for that, He would not have deferred the disobedient so that they could repent. The time between the differing and the judgement is, on this view, the time in which tawbah is still open, for the one who was wrong and knows it.",
+            "bn": "ওই একটি মত ধরে হাদীসটি আয়াতের পাশে রাখলে অবকাশটার একটা চেহারা ফুটে ওঠে। ১০:১৯-এর রায় দেরিতে আসছে উদাসীনতার কারণে নয়, অক্ষমতার কারণেও নয়। দেরিটা হুকুম করা, আর সে হুকুম লেখা হয়েছিল কেউ মতভেদ করার আগেই। কুরতুবীর বাক্যেই পরিণতিটা বলা আছে: তা না হলে তিনি নাফরমানদের তওবার জন্য পিছিয়ে রাখতেন না। এই মত অনুযায়ী, মতভেদ আর বিচারের মাঝখানের সময়টুকুই সেই সময়, যখন তওবার দরজা এখনো খোলা। খোলা তার জন্যও, যে ভুল পথে ছিল আর তা জানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living Within the Respite",
+          "bn": "অবকাশটুকু কাজে লাগানো"
+        },
+        "p": [
+          {
+            "en": "The pairing of a lasting difference with a deferred verdict recurs. 11:118 says that had your Lord willed He would have made mankind one community, and they will not cease to differ. 10:93 ends: your Lord will judge between them on the Day of Resurrection in what they used to differ over. And the very next verse, 10:20, turns the same posture into an instruction for the Prophet ﷺ: the unseen belongs to Allah alone, so wait, and I am waiting with you. 10:19 explains why there is a wait; 10:20 says how to wait.",
+            "bn": "স্থায়ী মতভেদ আর স্থগিত রায়ের এই জোড়া কুরআনে আবারও আসে। ১১:১১৮ বলছে, তোমার রব চাইলে মানুষকে এক উম্মত বানিয়ে দিতেন, অথচ তারা মতভেদ করতেই থাকবে। ১০:৯৩ শেষ হয় এভাবে: তারা যে বিষয়ে মতভেদ করত, কিয়ামতের দিন তোমার রব তাদের মধ্যে তার ফয়সালা করবেন। ঠিক পরের আয়াত ১০:২০ একই অবস্থানকে নবী ﷺ-এর জন্য নির্দেশে পরিণত করে: অদৃশ্যের মালিক কেবল আল্লাহ, তাই অপেক্ষা করো, আমিও তোমাদের সঙ্গে অপেক্ষা করছি। অপেক্ষা কেন, তা বলে ১০:১৯। কীভাবে অপেক্ষা করতে হয়, তা বলে ১০:২০।"
+          },
+          {
+            "en": "For the reader the respite cuts two ways. Ibn Kathir calls it a counted term, which means it runs out. A person can take the absence of an immediate verdict as proof that none is coming, or take it as time still being given, and use it. The verse does not ask anyone to stop holding to the truth. It asks them not to sit in the judge's seat before the term ends, and to look first at their own differing, in case it is the kind on which the verdict, when it comes, will fall against them.",
+            "bn": "পাঠকের জন্য অবকাশের দুটি দিক আছে। ইবন কাসীর একে বলেছেন গোনা মেয়াদ, মানে একদিন তা ফুরোবে। কেউ তাৎক্ষণিক রায় না দেখে ধরে নিতে পারে যে রায় আর আসবেই না। আবার কেউ একে দেখতে পারে এখনো দিয়ে রাখা সময় হিসেবে, আর সেটা কাজে লাগাতে পারে। আয়াত কাউকে সত্য আঁকড়ে থাকা ছাড়তে বলে না। বলে, মেয়াদ শেষ হওয়ার আগে বিচারকের আসনে বসবেন না। আগে নিজের মতভেদের দিকে তাকান। হতে পারে সেটাই এমন মতভেদ, যার রায় যখন আসবে, আপনার বিপক্ষেই যাবে।"
+          }
+        ]
+      }
+    ]
+  },
   "10:24": {
     "sections": [
       {

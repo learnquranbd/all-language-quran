@@ -32363,6 +32363,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Messenger ﷺ was grieved by what burdens you and eager for your good. Answer that care by following him with love, and carry the same care to others.",
     "lessonBn": "আপনার কষ্ট রাসূল ﷺ-কে ব্যথা দিত, আপনার কল্যাণের জন্য তিনি ছিলেন ব্যাকুল। ভালোবাসা নিয়ে তাঁকে অনুসরণ করে সেই দরদের জবাব দিন, আর একই দরদ পৌঁছে দিন অন্যদের কাছে।"
+  },
+  "10:19": {
+    "reflectionEn": "Before the idols, before the arguments, before the sects, there was one community. Then people differed, and they are differing still. A reader might expect the next words to be the verdict. Instead the verse says the verdict was held back, because of a word that went before from your Lord. The judgement is real and it is coming, but not yet. That delay is easy to misread. It does not mean the dispute is trivial, or that the wrong side has won. It is time, given on purpose: time to look at the proofs again, to turn back, and to be found on the right side when the appointed term runs out. What am I doing with the time I have been given?",
+    "reflectionBn": "মূর্তির আগে, তর্কের আগে, দলাদলির আগে মানুষ ছিল এক উম্মত। তারপর তারা মতভেদে জড়াল, আর সে মতভেদ আজও থামেনি। পাঠক ভাবতে পারেন, এর পরেই রায় শোনানো হবে। আয়াত কিন্তু বলছে উল্টো কথা: রায় আটকে আছে, কারণ রবের পক্ষ থেকে একটি কথা আগেই স্থির হয়ে আছে। বিচার সত্য, বিচার আসবেই, শুধু এখনই নয়। এই দেরিটা ভুল বোঝা খুব সহজ। এর মানে এই নয় যে বিরোধটা তুচ্ছ, কিংবা ভুল পক্ষ জিতে গেছে। এ হলো জেনেশুনে দেওয়া সময়। প্রমাণগুলো আবার দেখার সময়, ফিরে আসার সময়, যাতে নির্ধারিত মেয়াদ ফুরোলে আমাকে সঠিক পক্ষে পাওয়া যায়। যে সময়টা আমাকে দেওয়া হয়েছে, তা দিয়ে আমি কী করছি?",
+    "pointsEn": [
+      "When I see falsehood go unpunished, do I read the delay as approval, or as time still being given?",
+      "Is there a difference I keep alive out of pride, long after the proof has reached me?",
+      "If the verdict on my own disputes were given today, which side would I want to be found on, and am I standing there now?",
+      "How much of the respite I have been given have I spent on turning back, and how much on putting it off?",
+      "Do I demand that every argument be settled now, on my timetable, when the verse says the verdict waits for its appointed term?"
+    ],
+    "pointsBn": [
+      "মিথ্যাকে শাস্তি ছাড়া পার পেয়ে যেতে দেখলে আমি দেরিটাকে কী ভাবি: সম্মতি, নাকি এখনো দিয়ে রাখা সময়?",
+      "এমন কোনো মতভেদ কি আছে, যা প্রমাণ হাতে আসার পরেও আমি শুধু অহংকারের জোরে টিকিয়ে রেখেছি?",
+      "আমার নিজের বিরোধগুলোর রায় যদি আজই হয়ে যেত, কোন পক্ষে নিজেকে দেখতে চাইতাম? আমি কি এখন সেখানেই দাঁড়িয়ে আছি?",
+      "যে অবকাশ আমাকে দেওয়া হয়েছে, তার কতটা খরচ করেছি ফিরে আসায়, আর কতটা শুধু পিছিয়ে দেওয়ায়?",
+      "আয়াত যখন বলছে রায় তার নির্ধারিত মেয়াদের অপেক্ষায়, তখনো কি আমি চাই প্রতিটি তর্ক এখনই, আমার সময়সূচি মেনে, মিটে যাক?"
+    ],
+    "lessonEn": "Allah's verdict on humanity's differences is held back by His prior word, not forgotten. Use the respite to turn back before the judgement comes.",
+    "lessonBn": "মানুষের মতভেদের রায় আল্লাহ ভুলে যাননি, তাঁর আগের কথার কারণে তা স্থগিত আছে। বিচার আসার আগেই এই অবকাশে ফিরে আসুন।"
   }
 };
 
