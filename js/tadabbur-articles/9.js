@@ -5631,6 +5631,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:115": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question the Ban Left",
+          "bn": "নিষেধের পর জেগে ওঠা প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Wa ma kana Allahu li-yudilla qawman ba'da idh hadahum hatta yubayyina lahum ma yattaqun: and Allah would not let a people go astray after He has guided them until He makes clear to them what they should guard against. The verse follows the prohibition of 9:113 on asking forgiveness for the idolaters, and 9:114, which explains why Ibrahim (AS) once asked it for his father and why he stopped. That verse is its own subject. This verse turns to the believers who were listening, and to a question the prohibition had left open.",
+            "bn": "ওয়ামা কানাল্লাহু লিইউদিল্লা কাওমান বা'দা ইয হাদাহুম হাত্তা ইউবাইয়িনা লাহুম মা ইয়াত্তাকূন: আল্লাহ কোনো জাতিকে হিদায়াত দেওয়ার পর পথভ্রষ্ট করেন না, যতক্ষণ না তিনি তাদের কাছে স্পষ্ট করে দেন কী থেকে তাদের বেঁচে থাকতে হবে। আয়াতটি এসেছে ৯:১১৩ আয়াতের পরে, যেখানে মুশরিকদের জন্য ইস্তিগফার নিষেধ করা হয়েছে। তার পরেই ৯:১১৪, যা বলে ইবরাহীম (আঃ) কেন একসময় পিতার জন্য ক্ষমা চেয়েছিলেন আর কেন থেমে গেলেন। সে আয়াতের আলোচনা আলাদা। এ আয়াত ফিরে তাকায় শ্রোতা মুমিনদের দিকে, আর সেই প্রশ্নের দিকে, যা নিষেধটি আসার পর তাদের মনে রয়ে গিয়েছিল।"
+          },
+          {
+            "en": "At-Tabari names that question. He reads the verse as spoken to the believers about the forgiveness they had asked for their dead who were idolaters: Allah would not decree misguidance against you for it, after He had provided you with guidance and granted you faith in Him and His Messenger, until He had come forward to you with the prohibition and you had then failed to stop. Before He made His dislike of it clear by forbidding it, He does not judge you astray. Ibn Kathir quotes this passage from him almost word for word.",
+            "bn": "প্রশ্নটা কী ছিল, তাবারী তা খুলে বলেন। তাঁর পাঠে আয়াতের সম্বোধন মুমিনদের প্রতি, যারা তাদের মৃত মুশরিক আত্মীয়দের জন্য ক্ষমা চেয়েছিল। আল্লাহ তোমাদের হিদায়াত দিয়েছেন, তাঁর ও তাঁর রাসূলের প্রতি ঈমানের তাওফীক দিয়েছেন। এরপর সে কাজের জন্য তিনি তোমাদের বিরুদ্ধে গোমরাহির ফয়সালা করবেন না, যতক্ষণ না আগে নিষেধ জানিয়ে দেন আর তোমরা তারপরও বিরত না হও। নিষেধ করে নিজের অপছন্দ স্পষ্ট করার আগে তিনি তোমাদের পথভ্রষ্ট বলে রায় দেন না। ইবন কাসীর তাবারীর এ অংশটি প্রায় হুবহু উদ্ধৃত করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict Before a Command",
+          "bn": "আদেশের আগে রায় নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's reading turns on the verb. Li-yudilla, to send astray, he glosses as li-yaqdiya 'alaykum bi-d-dalal, to pass a judgment of misguidance against you. Al-Baghawi does the same: Allah would not rule you astray for leaving His commands by asking forgiveness for the idolaters, until He had come forward to you with the prohibition. On this reading the verse concerns a verdict, and the moment at which a verdict becomes possible. The root b-y-n also runs through the passage: tabayyana in 9:113, tabayyana again in 9:114, and here yubayyina.",
+            "bn": "তাবারীর ব্যাখ্যার ভর ক্রিয়াপদটির উপর। লিইউদিল্লা, অর্থাৎ পথভ্রষ্ট করা, তিনি বোঝান লিইয়াকদিয়া আলাইকুম বিদ্দালাল দিয়ে: তোমাদের বিরুদ্ধে গোমরাহির রায় দেওয়া। বাগাভীও একই পথে যান। তাঁর ভাষায়, মুশরিকদের জন্য ক্ষমা চেয়ে আদেশ ছেড়ে দেওয়ার কারণে আল্লাহ তোমাদের পথভ্রষ্ট সাব্যস্ত করবেন না, যতক্ষণ না আগে নিষেধ জানিয়ে দেন। এ পাঠে আয়াতের বিষয় একটি রায়, আর সেই রায় কখন দেওয়া যায় সেই মুহূর্ত। ব-ই-ন ধাতুটিও পুরো অংশ জুড়ে আছে: ৯:১১৩ আয়াতে তাবাইয়ানা, ৯:১১৪ আয়াতে আবার তাবাইয়ানা, আর এখানে ইউবাইয়িনা।"
+          },
+          {
+            "en": "At-Tabari states the reason as a principle that reaches beyond this occasion: obedience and disobedience come only from one who has been commanded and forbidden. Whoever was neither commanded nor forbidden in a matter is neither obedient nor disobedient in it. Al-Baghawi then states the other half bluntly: when it has been made clear and you do not take it, at that point you deserve misguidance. The excuse covers the time before clarity, and only that time. The verse that consoled the believers about the past binds them from then on.",
+            "bn": "কারণটা তাবারী বলেন একটি মূলনীতি আকারে, যা এই এক ঘটনার চেয়ে অনেক দূর পর্যন্ত যায়। আনুগত্য আর নাফরমানি কেবল তার পক্ষেই সম্ভব, যাকে আদেশ ও নিষেধ করা হয়েছে। যে বিষয়ে কাউকে আদেশও করা হয়নি, নিষেধও করা হয়নি, সে বিষয়ে সে অনুগতও নয়, নাফরমানও নয়। বাগাভী এরপর বাকি অর্ধেকটা খোলাখুলি বলে দেন: বিষয়টি স্পষ্ট হওয়ার পরও যদি তোমরা তা গ্রহণ না করো, তখনই তোমরা গোমরাহির উপযুক্ত হবে। ওজর তাই কেবল স্পষ্ট হওয়ার আগের সময়টুকুর জন্য। যে আয়াত অতীত নিয়ে মুমিনদের সান্ত্বনা দিল, সেটাই সামনের দিনের জন্য তাদের বেঁধে দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Message Reaches First",
+          "bn": "আগে পৌঁছায় বার্তা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens on a wider frame. Allah, he says, is telling of His noble Self and His just judgment: He does not lead a people astray after the message has been conveyed to them, until the proof has been established against them. His witness is 41:17: as for Thamud, We guided them, but they preferred blindness to guidance. The abridged English Ibn Kathir renders that guidance as We showed and made clear to them the path of truth. The guidance came first, and the blindness was something they preferred over it.",
+            "bn": "ইবন কাসীর শুরু করেন আরও বড় পরিসর থেকে। তাঁর ভাষায়, আল্লাহ এখানে নিজের মহান সত্তা ও ন্যায়বিচারের কথা জানাচ্ছেন। কোনো জাতির কাছে বার্তা পৌঁছে যাওয়ার পর তিনি তাদের পথভ্রষ্ট করেন না, যতক্ষণ না তাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়। সাক্ষী হিসেবে তিনি আনেন ৪১:১৭ আয়াত: আর সামূদ, আমি তাদের পথ দেখিয়েছিলাম, কিন্তু তারা হিদায়াতের চেয়ে অন্ধত্বকেই বেশি ভালোবাসল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই হিদায়াতের অর্থ করে: আমি তাদের সত্যের পথ দেখিয়েছিলাম ও স্পষ্ট করেছিলাম। হিদায়াত এসেছিল আগে। অন্ধত্ব ছিল তাদের নিজেদের বেছে নেওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi records a linguist's gloss. Abu 'Amr ibn al-'Ala' said hatta yubayyina lahum means until He establishes the argument against them by His command, and cited 17:16: when We intend to destroy a town, We command its affluent ones and they transgress in it. Al-Baghawi brings ad-Dahhak in the same order: Allah would not punish a people until He makes clear to them what they should do and what they should leave. Thamud and that town are the commentators' illustrations; the verses describe what they describe and license nothing against any living person or community.",
+            "bn": "কুরতুবী একজন ভাষাবিদের ব্যাখ্যা উল্লেখ করেন। আবু আমর ইবনুল আলা বলেছেন, হাত্তা ইউবাইয়িনা লাহুম মানে যতক্ষণ না তিনি নিজের আদেশ দিয়ে তাদের বিরুদ্ধে যুক্তি প্রতিষ্ঠা করেন। তিনি দলিল দেন ১৭:১৬ আয়াত দিয়ে: যখন আমি কোনো জনপদ ধ্বংস করতে চাই, তখন তার বিত্তশালীদের আদেশ দিই, আর তারা সেখানে অবাধ্যতা করে। বাগাভী একই ক্রমে আনেন দাহহাকের কথা: আল্লাহ কোনো জাতিকে শাস্তি দেন না, যতক্ষণ না তাদের কাছে স্পষ্ট করেন কী করবে আর কী ছাড়বে। সামূদ আর সেই জনপদ তাফসীরকারদের দেওয়া উদাহরণ। আয়াতগুলো যা বর্ণনা করে তা-ই বর্ণনা করে, আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mujahid's Two Widths",
+          "bn": "মুজাহিদের দুই পরিসর"
+        },
+        "p": [
+          {
+            "en": "The voice these tafsirs quote most on this verse is Mujahid's, and at-Tabari brings his words through four chains, three through Ibn Abi Najih and one through Ibn Jurayj. In its fullest form: Allah's making clear to the believers that they should not ask forgiveness for the idolaters, in particular, and in His making clear His obedience and His disobedience, in general; so do, or leave. Al-Baghawi and Ibn Kathir carry the same saying, and al-Qurtubi gives it with the matter of Ibrahim named as the particular case.",
+            "bn": "এই তাফসীরগুলো আয়াতটি নিয়ে সবচেয়ে বেশি উদ্ধৃত করেছে মুজাহিদের কথা। তাবারী তাঁর কথা এনেছেন চারটি সনদে: তিনটি ইবন আবী নাজীহের মাধ্যমে, একটি ইবন জুরাইজের মাধ্যমে। পূর্ণতম রূপে কথাটা এমন: মুমিনদের কাছে আল্লাহর স্পষ্ট করে দেওয়া, বিশেষভাবে এই যে তারা মুশরিকদের জন্য ক্ষমা চাইবে না, আর সাধারণভাবে তাঁর আনুগত্য কী আর নাফরমানি কী, তা স্পষ্ট করে দেওয়া। কাজেই করো, অথবা ছাড়ো। বাগাভী আর ইবন কাসীরও একই কথা এনেছেন। কুরতুবী এনেছেন ইবরাহীমের বিষয়টিকে বিশেষ উদাহরণ হিসেবে উল্লেখ করে।"
+          },
+          {
+            "en": "Mujahid holds the verse at two widths at once. Its occasion is narrow: one prohibition, about one kind of prayer, which the believers had not known before. Its reach is as wide as the religion: every command and prohibition that Allah makes clear falls under the same rule. Read beside at-Tabari's principle, the time before the making clear carries no disobedience, and the time after it is decided by Mujahid's last two verbs, fa-f'alu aw dharu. The abridged English Ibn Kathir renders them more loosely, as either do or suffer.",
+            "bn": "মুজাহিদ আয়াতটিকে একসঙ্গে দুই পরিসরে দেখেন। এর উপলক্ষ সংকীর্ণ: একটিমাত্র নিষেধ, একটি নির্দিষ্ট দোয়া নিয়ে, যা মুমিনরা আগে জানত না। কিন্তু এর ব্যাপ্তি গোটা দ্বীনের সমান। আল্লাহ যে আদেশ বা নিষেধই স্পষ্ট করেন, তা একই নিয়মের অধীন। তাবারীর মূলনীতির পাশে রাখলে দাঁড়ায়: স্পষ্ট হওয়ার আগের সময়ে কোনো নাফরমানি নেই। আর পরের সময়ের ফয়সালা মুজাহিদের শেষ দুটি ক্রিয়ায়, ফাফআলূ আও যারূ, করো অথবা ছাড়ো। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কথাটা আরও খোলামেলা অনুবাদ করেছে: হয় করো, নয় ফল ভোগ করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wine, the Qiblah, the Absent",
+          "bn": "মদ, কিবলা আর অনুপস্থিতরা"
+        },
+        "p": [
+          {
+            "en": "Two commentators set the verse in a different scene. Al-Qurtubi writes, in the passive form it is narrated and without a chain, that when the prohibition of wine came down and was made strict, people asked the Prophet ﷺ about those who had died while still drinking it, and this verse came down. Al-Baghawi relays a fuller story from Muqatil and al-Kalbi, who say it concerns the abrogated: people who had acted on a ruling that was later replaced. A group came to the Prophet ﷺ and accepted Islam when wine was not yet forbidden and the qiblah had not yet been turned, then went home.",
+            "bn": "দুজন তাফসীরকার আয়াতটিকে অন্য এক পটভূমিতে রাখেন। কুরতুবী 'বর্ণিত আছে' বলে, কোনো সনদ ছাড়া, লিখেছেন: মদ হারামের বিধান নাজিল হয়ে যখন কঠোর হলো, তখন লোকেরা নবী ﷺ-কে জিজ্ঞেস করল, যারা মদ পান করা অবস্থায় মারা গেছে তাদের কী হবে। তখন এ আয়াত নাজিল হয়। বাগাভী মুকাতিল ও কালবী থেকে আরও বিস্তারিত একটি কাহিনি আনেন। তাঁদের মতে আয়াতটি রহিত বিধান প্রসঙ্গে, অর্থাৎ যারা এমন বিধানের উপর আমল করেছিল যা পরে বদলে গেছে। একদল লোক নবী ﷺ-এর কাছে এসে ইসলাম গ্রহণ করে। তখনো মদ হারাম হয়নি, কিবলাও কাবার দিকে ফেরানো হয়নি। এরপর তারা নিজেদের লোকদের কাছে ফিরে যায়।"
+          },
+          {
+            "en": "Then wine was forbidden and the qiblah changed, with no news reaching them. Returning to Madinah, they found both changes in place and asked whether, having followed something else, they were now astray. The verse came down, and al-Baghawi glosses it on this reading: Allah would not render void the deeds of a people who had acted on the abrogated ruling until the abrogating ruling had been made clear to them. Neither al-Qurtubi nor al-Baghawi gives a chain for these reports, and neither grades them, so they stay reports about the verse.",
+            "bn": "এরপর মদ হারাম হলো, কিবলাও বদলে গেল, কিন্তু খবর তাদের কাছে পৌঁছাল না। পরে মদীনায় ফিরে তারা দেখল দুটো পরিবর্তনই হয়ে গেছে। তারা জানতে চাইল, অন্য কিছু মেনে চলার কারণে তারা কি এখন পথভ্রষ্ট? তখন আয়াতটি নাজিল হয়। এ পাঠে বাগাভীর ব্যাখ্যা: যারা রহিত বিধানের উপর আমল করেছে, রহিতকারী বিধান তাদের কাছে স্পষ্ট হওয়ার আগে আল্লাহ তাদের আমল বাতিল করেন না। কুরতুবী বা বাগাভী কেউই এসব বর্ণনার সনদ দেননি, মানও যাচাই করেননি। তাই এগুলো আয়াত সম্পর্কে বর্ণনা হিসেবেই থাকে, প্রতিষ্ঠিত শানে নুযূল হিসেবে নয়।"
+          },
+          {
+            "en": "None of these tafsirs attaches a sound hadith to this verse. Two reports in al-Bukhari, not linked to it, show the same worry answered elsewhere. Al-Bukhari (40) records from al-Bara' (RA) that some Muslims had died or been killed before the qiblah was changed and they did not know what to say about them, until Allah revealed 2:143: He would never let their faith be lost. Al-Bukhari (4620) records from Anas (RA) that when wine was forbidden, some said men had been killed with it in their stomachs, and 5:93 came down: on those who believe and do good deeds there is no blame for what they ate.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই একে কোনো সহীহ হাদীসের সঙ্গে যুক্ত করেনি। বুখারীর দুটি বর্ণনায় একই দুশ্চিন্তার জবাব এসেছে অন্য আয়াতে, যদিও এই তাফসীরকারদের কেউ সেগুলোকে এ আয়াতের সঙ্গে জোড়েননি। বুখারী (৪০) বারা (রাঃ) থেকে বর্ণনা করেন: কিবলা বদলের আগে কিছু মুসলমান মারা গিয়েছিলেন বা নিহত হয়েছিলেন, তাঁদের ব্যাপারে কী বলা হবে তা কেউ জানত না। তখন আল্লাহ ২:১৪৩ নাজিল করেন, তিনি তোমাদের ঈমান কখনো নষ্ট করবেন না। বুখারী (৪৬২০) আনাস (রাঃ) থেকে বর্ণনা করেন: মদ হারাম হলে কেউ কেউ বলল, অনেকে তো পেটে মদ নিয়েই নিহত হয়েছে। তখন ৫:৯৩ নাজিল হয়: যারা ঈমান এনেছে ও সৎকাজ করেছে, তারা যা খেয়েছে তার জন্য তাদের কোনো দোষ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Completed Gift or a Penalty",
+          "bn": "পূর্ণ দান, নাকি শাস্তি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse first as a promise. When Allah favours a people with guidance and commands them to walk the straight path, He completes His kindness to them and makes clear all that they need and that their necessity calls for, and does not leave them astray, ignorant of the matters of their religion. In this, he says, is proof of the perfection of His mercy, and that His law is sufficient for all that the servants need in the religion's foundations and its branches. The Muyassar says much the same, naming the foundations and the branches.",
+            "bn": "সা'দী আয়াতটিকে প্রথমে পড়েন একটি প্রতিশ্রুতি হিসেবে। আল্লাহ যখন কোনো জাতিকে হিদায়াত দিয়ে অনুগ্রহ করেন এবং সরল পথে চলার আদেশ দেন, তখন তিনি তাদের প্রতি নিজের দয়া পূর্ণ করেন। তাদের যা প্রয়োজন, যা না হলে চলে না, সবই স্পষ্ট করে দেন। দ্বীনের বিষয়ে অজ্ঞ করে, পথহারা অবস্থায় তাদের ফেলে রাখেন না। সা'দীর মতে এতে প্রমাণ আছে যে তাঁর রহমত পরিপূর্ণ, আর তাঁর শরীয়ত দ্বীনের মূল ও শাখা, দুই ক্ষেত্রেই বান্দার সব প্রয়োজন মেটায়। মুয়াসসারও প্রায় একই কথা বলে, মূল ও শাখার উল্লেখসহ।"
+          },
+          {
+            "en": "He then gives a second possibility: once Allah has made clear what they should guard against and they do not yield to it, He punishes them with misguidance, in recompense for rejecting the plain truth. This is close to al-Qurtubi's reading: Allah would not place misguidance in their hearts after guidance until He makes clear what they should avoid and they do not avoid it; at that point they deserve to be sent astray. As-Sa'di then closes the question in three words, wa-l-awwal awla: the first is more fitting.",
+            "bn": "এরপর সা'দী দ্বিতীয় একটি সম্ভাবনার কথা বলেন। কী থেকে বাঁচতে হবে তা আল্লাহ স্পষ্ট করে দেওয়ার পরও যদি তারা তা না মানে, তবে সুস্পষ্ট সত্য প্রত্যাখ্যানের প্রতিফল হিসেবে তিনি তাদের গোমরাহিতে ফেলে শাস্তি দেন। কুরতুবীর ব্যাখ্যা এর কাছাকাছি। আল্লাহ হিদায়াতের পর কারও অন্তরে গোমরাহি ঢেলে দেন না, যতক্ষণ না স্পষ্ট করেন কী থেকে বাঁচতে হবে। এরপর তারা যদি না বাঁচে, তখনই তারা পথভ্রষ্ট হওয়ার উপযুক্ত হয়। সা'দী শেষে তিনটি শব্দে নিজের মত জানান, ওয়াল আউওয়ালু আওলা: প্রথম অর্থটিই অধিকতর উপযুক্ত।"
+          },
+          {
+            "en": "The difference is real, and it is kept here as the commentators leave it. On as-Sa'di's preferred reading the verse speaks of a gift: a law that leaves no one without what they need. On the second, which al-Qurtubi gives without mentioning the first, it speaks of what follows when the clear word is refused. At-Tabari's and al-Baghawi's reading, a verdict withheld until the prohibition comes, looks at the verse from a third side. All three readings rest on the same two words, hatta yubayyina: nothing happens to the people until the making clear.",
+            "bn": "মতভেদটা সত্যিকারের, আর তাফসীরকারেরা যেভাবে রেখেছেন, এখানেও সেভাবেই রইল। সা'দীর পছন্দের পাঠে আয়াতটি এক দানের কথা বলে: এমন শরীয়ত, যা কাউকে প্রয়োজন থেকে বঞ্চিত রাখে না। দ্বিতীয় পাঠে, যা কুরতুবী প্রথমটির উল্লেখ না করেই দিয়েছেন, আয়াতটি বলে স্পষ্ট কথা প্রত্যাখ্যানের পরিণতির কথা। তাবারী ও বাগাভীর পাঠ, অর্থাৎ নিষেধ আসা পর্যন্ত রায় স্থগিত, আয়াতটিকে দেখে তৃতীয় একটি দিক থেকে। তিনটি পাঠেরই ভিত্তি একই দুটি শব্দ, হাত্তা ইউবাইয়িনা। স্পষ্ট করে দেওয়ার আগে জাতির উপর কিছুই নেমে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When a Veil Is Torn",
+          "bn": "যখন পর্দা ছিঁড়ে যায়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a warning from his reading, in his own voice: here is the clearest proof that sins, once committed and their veil torn, become a cause leading to misguidance and ruin, and a ladder to abandoning right conduct and guidance. He follows it with a prayer: we ask Allah for soundness, success and right guidance, by His favour. He applies it to no person and no group. He describes a path that begins with a known command set aside, and he meets it by asking Allah for help, not by pointing at anyone.",
+            "bn": "কুরতুবী নিজের ব্যাখ্যা থেকে নিজের ভাষায় একটি সতর্কবাণী টানেন। এতে সবচেয়ে স্পষ্ট প্রমাণ আছে যে গুনাহ যখন করা হয় আর তার পর্দা ছিঁড়ে ফেলা হয়, তখন তা গোমরাহি ও ধ্বংসের কারণ হয়ে দাঁড়ায়। সৎপথ আর হিদায়াত ছেড়ে যাওয়ার সিঁড়ি হয়ে যায়। এরপর তিনি দোয়া করেন: আমরা আল্লাহর কাছে তাঁর অনুগ্রহে সঠিকতা, তাওফীক আর সৎপথ চাই। কথাটা তিনি কোনো ব্যক্তি বা দলের উপর চাপাননি। তিনি এমন এক পথের বর্ণনা দেন, যার শুরু জানা আদেশ ফেলে রাখা দিয়ে। আর তার মোকাবিলা করেন কারও দিকে আঙুল তুলে নয়, আল্লাহর সাহায্য চেয়ে।"
+          },
+          {
+            "en": "He adds that the verse answers a group of theologians and others who held that people create their own guidance and faith, and he refers back to what he had said on the matter earlier. The verse speaks of Allah guiding a people and of Allah sending a people astray, and al-Qurtubi reads that wording against their claim. For the reader, what stays from his passage is the order it describes: guidance given, a command made clear, then a choice, and a prayer that the choice be right.",
+            "bn": "তিনি আরও বলেন, একদল কালামশাস্ত্রবিদ ও অন্যরা মনে করতেন, মানুষ নিজেই নিজের হিদায়াত ও ঈমান সৃষ্টি করে। এ আয়াত তাদের জবাব। এ বিষয়ে আগে যা বলেছেন, সেদিকেও তিনি ইঙ্গিত করেন। আয়াতে হিদায়াত দেওয়ার কাজটিও আল্লাহর, পথভ্রষ্ট করার কাজটিও আল্লাহর। কুরতুবী এই শব্দচয়নকেই তাদের দাবির বিপক্ষে পড়েন। পাঠকের জন্য তাঁর আলোচনা থেকে যে ক্রমটি থেকে যায় তা এই: আগে হিদায়াত, তারপর আদেশ স্পষ্ট করা, তারপর বান্দার বেছে নেওয়া। আর সঙ্গে দোয়া, যেন বেছে নেওয়াটা সঠিক হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing What Weighed on Them",
+          "bn": "যে ভার তাদের বুকে ছিল"
+        },
+        "p": [
+          {
+            "en": "The verse ends inna Allaha bi-kulli shay'in 'alim, Allah knows all things, and at-Tabari gives the close a tender reading. Allah knows, he says, what entered your souls when He forbade you to ask forgiveness for your dead idolaters: distress over the asking you had already done for them before He came forward with the prohibition, along with all else in your hidden and open affairs. So He made His forbearance in that clear to you, to lift from you the weight of grief over it.",
+            "bn": "আয়াতের শেষ কথা ইন্নাল্লাহা বিকুল্লি শাইয়িন আলীম: আল্লাহ সবকিছু জানেন। তাবারী এর একটি কোমল ব্যাখ্যা দেন। তাঁর ভাষায়, মৃত মুশরিক আত্মীয়দের জন্য ক্ষমা চাইতে যখন আল্লাহ তোমাদের নিষেধ করলেন, তখন তোমাদের মনে কী জেগেছিল তা তিনি জানেন। নিষেধ আসার আগেই যে ক্ষমা চেয়ে ফেলেছিলে, তা নিয়ে অস্থিরতা জেগেছিল। তোমাদের গোপন ও প্রকাশ্য সব ব্যাপারও তিনি জানেন। তাই এ বিষয়ে নিজের সহনশীলতা তিনি তোমাদের সামনে স্পষ্ট করে দিলেন, যেন সেই দুঃখের ভার তোমাদের উপর থেকে নেমে যায়।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar read the same close as the ground of the making clear. Because His knowledge is complete and all-embracing, as-Sa'di says, He taught you what you did not know and made clear to you what benefits you. The Muyassar uses nearly the same words and adds that He established the proof against you by conveying His message to you. One reading looks at the believers' hearts, the other at their schooling; both find knowledge behind the verse's patience with them.",
+            "bn": "সা'দী ও মুয়াসসার একই সমাপ্তিকে দেখেন স্পষ্ট করে দেওয়ার ভিত্তি হিসেবে। সা'দী বলেন, তাঁর জ্ঞান পরিপূর্ণ ও সর্বব্যাপী, তাই তিনি তোমাদের শিখিয়েছেন যা তোমরা জানতে না, আর স্পষ্ট করেছেন কিসে তোমাদের উপকার। মুয়াসসার প্রায় একই শব্দ ব্যবহার করে, সঙ্গে যোগ করে: নিজের বার্তা পৌঁছে দিয়ে তিনি তোমাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠা করেছেন। একটি পাঠের দৃষ্টি মুমিনদের অন্তরের দিকে, অন্যটির দৃষ্টি তাদের শেখার দিকে। দুটিই আয়াতের এই ধৈর্যের পেছনে আল্লাহর জ্ঞানকে দেখতে পায়।"
+          },
+          {
+            "en": "For the reader the verse draws a line in time. What was done before a ruling was known, these commentators do not count as disobedience, and at-Tabari's reading of the close shows Allah lifting even the grief of it. The same line makes the time after knowing heavier: al-Baghawi's at that point you deserve misguidance falls there. Mujahid's two verbs, do or leave, are then the whole question, and the next verse, 9:116, reminds the listener that besides Allah there is no protector and no helper.",
+            "bn": "পাঠকের জন্য আয়াতটি সময়ের মাঝে একটা রেখা টেনে দেয়। কোনো বিধান জানার আগে যা করা হয়েছে, এই তাফসীরকারেরা তাকে নাফরমানি গণ্য করেন না। আর তাবারীর ব্যাখ্যায় দেখা যায়, আল্লাহ সে কাজের দুঃখটুকুও হালকা করে দেন। কিন্তু একই রেখা জানার পরের সময়টাকে ভারী করে তোলে। বাগাভীর কথা, তখনই তোমরা গোমরাহির উপযুক্ত হবে, খাটে ঠিক সেখানে। তখন মুজাহিদের দুটি ক্রিয়াই পুরো প্রশ্ন: করো, অথবা ছাড়ো। আর পরের আয়াত, ৯:১১৬, শ্রোতাকে মনে করিয়ে দেয় যে আল্লাহ ছাড়া কোনো অভিভাবক নেই, কোনো সাহায্যকারী নেই।"
+          }
+        ]
+      }
+    ]
+  },
   "9:119": {
     "sections": [
       {

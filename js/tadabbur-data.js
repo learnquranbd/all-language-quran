@@ -32263,6 +32263,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Rank with Allah follows faith and what it costs you, not the service people see; keep doing every good work, but do not let the visible one stand in for the costly one.",
     "lessonBn": "আল্লাহর কাছে মর্যাদা আসে ঈমান আর তার জন্য যা খরচ হয় তা থেকে, মানুষের চোখে পড়া খেদমত থেকে নয়। প্রতিটি নেক কাজ চালিয়ে যান, তবে চোখে পড়া কাজকে কষ্টের কাজের জায়গা নিতে দেবেন না।"
+  },
+  "9:115": {
+    "reflectionEn": "Two verses earlier a door was closed: no asking forgiveness for idolaters whose end had become clear. Anyone who had already prayed it for a parent or relative, before any word came, might wonder where that left them. This verse answers. Allah does not let a people go astray after guiding them until He has made clear to them what they must guard against. What I did before I knew is not where He finds me. Yet the same sentence turns the other way: once a thing has been made clear, the excuse of not knowing is gone. Two questions stay with me. What am I still carrying as guilt that He never held against me? And what has He already made clear that I go on treating as unheard?",
+    "reflectionBn": "দুই আয়াত আগে একটা দরজা বন্ধ হয়েছে। যে মুশরিকদের পরিণতি স্পষ্ট হয়ে গেছে, তাদের জন্য ইস্তিগফার আর চলবে না। কিন্তু এ নিষেধ আসার আগেই যে কেউ বাবা-মা বা আত্মীয়ের জন্য সে দোয়া করে ফেলেছিল, তার মনে প্রশ্ন জাগা স্বাভাবিক: তাহলে আমার কী হবে? এ আয়াত সেই প্রশ্নের জবাব। আল্লাহ কোনো জাতিকে হিদায়াত দেওয়ার পর পথভ্রষ্ট করেন না, যতক্ষণ না কী থেকে বাঁচতে হবে তা তাদের সামনে স্পষ্ট করে দেন। না জেনে যা করেছি, আল্লাহ সেখানে আমাকে আটকে রাখেন না। আবার একই বাক্য উল্টো দিকেও ইশারা করে। কোনো বিষয় একবার স্পষ্ট হয়ে গেলে না জানার অজুহাত আর থাকে না। তাই দুটো প্রশ্ন আমার সঙ্গে থেকে যায়। এমন কোন অপরাধবোধ আমি এখনো বয়ে বেড়াচ্ছি, যার জন্য আল্লাহ আমাকে কখনো ধরেননি? আর তিনি যা স্পষ্ট করে দিয়েছেন, তার কোনটা আমি এখনো না শোনার মতো করে চলছি?",
+    "pointsEn": [
+      "Is there something I did before I knew better that I still carry as if it were a fresh sin?",
+      "What has been made clear to me this year, in a verse, a ruling or a lesson, that I have not yet acted on?",
+      "When a rule I did not know reaches me, do I take it at once, or look for reasons it was not meant for me?",
+      "Do I blame other people for what they could not yet have known, while excusing myself for what I already knew?",
+      "When I teach or advise someone, do I make it clear enough that they know what to avoid?"
+    ],
+    "pointsBn": [
+      "ভালো করে জানার আগে করা এমন কোনো কাজ কি আছে, যা আমি এখনো নতুন গুনাহের মতো বয়ে বেড়াচ্ছি?",
+      "এ বছর কোনো আয়াত, কোনো বিধান বা কোনো শিক্ষার মাধ্যমে কোন বিষয়টা আমার কাছে স্পষ্ট হয়েছে, অথচ এখনো আমি সে অনুযায়ী আমল শুরু করিনি?",
+      "অজানা কোনো বিধান আমার কাছে পৌঁছালে আমি কি সঙ্গে সঙ্গে তা মেনে নিই, নাকি খুঁজতে থাকি কেন এটা আমার জন্য নয়?",
+      "যা মানুষ তখনো জানার সুযোগ পায়নি, তার জন্য কি আমি তাদের দোষ দিই, আর যা আমি আগেই জানতাম, তার জন্য নিজেকে ছাড় দিই?",
+      "কাউকে কিছু শেখানো বা পরামর্শ দেওয়ার সময় আমি কি এতটা স্পষ্ট করে বলি যে সে বুঝতে পারে কী থেকে বেঁচে থাকতে হবে?"
+    ],
+    "lessonEn": "Allah does not hold a people to what He has not yet made clear; once He has made it clear, take it and keep away from what you are told to avoid.",
+    "lessonBn": "যা আল্লাহ এখনো স্পষ্ট করেননি, তার জন্য তিনি কোনো জাতিকে পাকড়াও করেন না। আর যখন স্পষ্ট করে দেন, তখন তা গ্রহণ করুন এবং যা থেকে বাঁচতে বলা হয়েছে তা থেকে দূরে থাকুন।"
   }
 };
 
