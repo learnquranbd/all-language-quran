@@ -30943,6 +30943,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do what is asked of you even if you must do it alone, keep encouraging others toward good, and trust that when Allah says perhaps, He means it.",
     "lessonBn": "একা হলেও নিজের দায়িত্বটা পালন করুন, অন্যদের ভালোর দিকে উৎসাহ দিতে থাকুন, আর ভরসা রাখুন যে আল্লাহর 'হয়তো' আসলে তাঁর প্রতিশ্রুতি।"
+  },
+  "5:23": {
+    "reflectionEn": "A whole people has just said: we will never go in while they are inside. Then two men speak against the crowd. Before quoting them, the verse describes them twice: they feared, and Allah had favoured them. Their counsel is short. Go in on them through the gate; once you are in, you will prevail. And rely on Allah, if you are believers. They did not deny that the people inside were strong. They named a door, told what lies past it, and put reliance where it belongs. The next verse shows they were not heeded, yet they had spoken. When everyone near me is backing away from something right, which voice am I, and whom do I fear more?",
+    "reflectionBn": "গোটা এক কওম এইমাত্র বলে দিয়েছে: ওরা ভেতরে থাকতে আমরা কখনো ঢুকব না। তখন ভিড়ের বিপরীতে দুজন মানুষ মুখ খোলেন। তাঁদের কথা তুলে ধরার আগে আয়াত তাঁদের দুটি পরিচয় দেয়: তাঁরা ভয় করতেন, আর আল্লাহ তাঁদের উপর অনুগ্রহ করেছিলেন। তাঁদের পরামর্শ ছোট্ট। ফটক দিয়ে ওদের উপর ঢুকে পড়ো, ঢুকলেই তোমরা জয়ী। আর মু'মিন হলে আল্লাহর উপরই ভরসা করো। ভেতরের লোকেরা শক্তিশালী, এ কথা তাঁরা অস্বীকার করেননি। তাঁরা একটা দরজা দেখিয়েছেন, দরজার ওপারে কী আছে বলেছেন, আর ভরসাকে তার আসল জায়গায় রেখেছেন। পরের আয়াত দেখায়, কেউ তাঁদের কথা শোনেনি। তবু কথাটা তাঁরা বলেছিলেন। আমার চারপাশের সবাই যখন কোনো ন্যায্য কাজ থেকে পিছিয়ে যায়, আমি তখন কার কণ্ঠ? আর আমি কাকে বেশি ভয় করি?",
+    "pointsEn": [
+      "Which door have I been told to walk through, and am I waiting for the difficulty inside to leave before I move?",
+      "When I hesitate, whom do I fear most: Allah, people, or my own weakness? What would change if the first fear were the strongest?",
+      "When a group I belong to backs away from something right, do I speak, even if I am one of only two?",
+      "Do I treat my clarity and courage as my own achievement, or as a favour from Allah that I could lose?",
+      "Where am I calling it reliance on Allah while refusing to take the first step through the gate?"
+    ],
+    "pointsBn": [
+      "কোন দরজা দিয়ে ঢুকতে আমাকে বলা হয়েছে? ভেতরের কঠিন বাধা নিজে থেকে সরে যাবে, সে আশায় কি আমি বসে আছি?",
+      "দ্বিধার মুহূর্তে আমি সবচেয়ে বেশি ভয় করি কাকে: আল্লাহকে, মানুষকে, নাকি নিজের দুর্বলতাকে? প্রথম ভয়টাই সবচেয়ে বড় হলে কী বদলে যেত?",
+      "আমার দল যখন কোনো ন্যায্য কাজ থেকে পিছিয়ে যায়, আমি কি মুখ খুলি, দুজনের একজন হলেও?",
+      "আমার স্পষ্ট বুঝ আর সাহসকে কি নিজের কৃতিত্ব মনে করি, নাকি আল্লাহর দেওয়া অনুগ্রহ, যা হারিয়েও যেতে পারে?",
+      "কোথায় আমি আল্লাহর উপর ভরসার কথা বলছি, অথচ ফটকের দিকে প্রথম পা-টাই ফেলছি না?"
+    ],
+    "lessonEn": "Fear Allah more than the obstacle, step through the door He has shown you while relying on Him, and speak for what is right even when the crowd refuses.",
+    "lessonBn": "বাধার চেয়ে আল্লাহকে বেশি ভয় করুন, তাঁর উপর ভরসা রেখে তাঁর দেখানো দরজা দিয়ে পা বাড়ান, আর ভিড় মুখ ফিরিয়ে নিলেও ন্যায্য কথাটা বলুন।"
   }
 };
 

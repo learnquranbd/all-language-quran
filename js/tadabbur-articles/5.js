@@ -891,6 +891,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Voices Against a Crowd",
+          "bn": "ভিড়ের বিপরীতে দুটি কণ্ঠ"
+        },
+        "p": [
+          {
+            "en": "Qala rajulani mina alladhina yakhafuna an'ama Allahu 'alayhima: two men from among those who feared, whom Allah had favoured, said. The verse stands between two refusals. In 5:22 the people tell Musa (AS) that a people of overpowering strength holds the land and that they will not enter until it leaves; in 5:24 they repeat the refusal more harshly. Between the two, a pair of voices is allowed to speak, and the Qur'an records their words in full before the crowd answers.",
+            "bn": "কালা রাজুলানি মিনাল্লাযীনা ইয়াখাফূনা আনআমাল্লাহু আলাইহিমা: যারা ভয় করত তাদের মধ্যে দুজন লোক, যাদের উপর আল্লাহ অনুগ্রহ করেছিলেন, বলল। আয়াতটি দাঁড়িয়ে আছে দুটি অস্বীকৃতির মাঝখানে। ৫:২২ আয়াতে কওম মূসা (আঃ)-কে জানিয়ে দেয়, ভূমিটা এক প্রবল শক্তিধর জাতির দখলে, তারা বের না হলে আমরা ঢুকব না। ৫:২৪ আয়াতে সেই অস্বীকৃতি ফিরে আসে আরও রূঢ় ভাষায়। এ দুইয়ের মাঝে দুজন মানুষকে কথা বলার সুযোগ দেওয়া হয়েছে। ভিড়ের জবাব আসার আগেই কুরআন তাঁদের পুরো কথাটা লিখে রেখেছে।"
+          },
+          {
+            "en": "The verse has four parts. It names the speakers only as two men, with no names given. It describes them twice: they were of those who fear, and Allah had favoured them. It gives their counsel: enter upon them through the gate, for once you have entered it you will prevail. And it closes on a condition: upon Allah rely, if you are believers. The commentators work through each part in turn, and on two of them, who the men were and whom they feared, they do not all agree.",
+            "bn": "আয়াতের চারটি অংশ। প্রথমত, বক্তাদের পরিচয় শুধু দুজন লোক, কোনো নাম নেই। দ্বিতীয়ত, তাঁদের দুটি বৈশিষ্ট্য: তাঁরা ভয়কারীদের অন্তর্ভুক্ত, আর আল্লাহ তাঁদের অনুগ্রহ করেছিলেন। তৃতীয়ত, তাঁদের পরামর্শ: ফটক দিয়ে ওদের উপর ঢুকে পড়ো, ঢুকলেই তোমরা জয়ী হবে। চতুর্থত, একটি শর্ত: মু'মিন হলে আল্লাহর উপরই ভরসা করো। মুফাসসিরগণ একে একে প্রতিটি অংশ খুলে দেখেছেন। তবে দুটি প্রশ্নে তাঁরা সবাই একমত নন: লোক দুজন কারা, আর তাঁরা কাকে ভয় করতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named by the Early Reporters",
+          "bn": "পূর্বসূরিদের বর্ণনায় দুটি নাম"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with a definite reading: this is Allah's report about the two righteous men of Musa's people, Yusha' ibn Nun and Kalib ibn Yafna, who kept faith with Musa (AS) in what he had charged them with. That charge was not to tell the Children of Israel what they had seen of the tyrants' fierce might and great size. He supports the names with chains from Mujahid, Ibn Abbas, as-Suddi, 'Atiyya, Qatada and ar-Rabi'. One of Mujahid's reports adds that the two were among the twelve chiefs of 5:12.",
+            "bn": "তাবারী শুরুতেই নির্দিষ্ট করে বলেন: এ হলো মূসা (আঃ)-এর কওমের দুই নেককার লোক সম্পর্কে আল্লাহর সংবাদ, ইউশা ইবন নূন আর কালেব ইবন ইয়াফনা। মূসা (আঃ) তাঁদের যে দায়িত্ব দিয়েছিলেন, তাঁরা তা রক্ষা করেছিলেন। দায়িত্বটা ছিল এই: জাব্বারদের ভয়ংকর শক্তি আর বিশাল দেহের যা তাঁরা দেখে এসেছেন, বনী ইসরাঈলকে তা না জানানো। নাম দুটির পক্ষে তিনি মুজাহিদ, ইবন আব্বাস (রাঃ), সুদ্দী, আতিয়্যা, কাতাদা ও রবী'র সূত্রে বর্ণনা আনেন। মুজাহিদের একটি বর্ণনায় আরও আছে, এ দুজন ছিলেন ৫:১২ আয়াতে উল্লিখিত ১২ জন নকীবের অন্তর্ভুক্ত।"
+          },
+          {
+            "en": "Two of these reports fill in the moment. In Mujahid's, the chiefs came back and each forbade his own tribe to fight, except these two, who urged the tribes to fight the tyrants; the people disobeyed the two and obeyed the rest. In Ibn Abbas's, through 'Ikrima, Musa (AS) told the chiefs to keep what they had seen to themselves, lest the camp lose heart; each went and told a relative or cousin, except these two, who kept it hidden. As-Suddi calls Yusha' Musa's young attendant and Kalib his relative by marriage.",
+            "bn": "এর মধ্যে দুটি বর্ণনা মুহূর্তটাকে আরও স্পষ্ট করে। মুজাহিদের বর্ণনায়, নকীবরা ফিরে এসে প্রত্যেকে নিজের গোত্রকে যুদ্ধ থেকে বারণ করল। ব্যতিক্রম শুধু এ দুজন, তাঁরা গোত্রগুলোকে জাব্বারদের সঙ্গে লড়তে বললেন। লোকেরা এ দুজনের কথা অমান্য করে বাকিদের কথা মানল। ইকরিমার সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনায়, মূসা (আঃ) নকীবদের বললেন, যা দেখেছ তা গোপন রাখো, নইলে লোকেরা সাহস হারাবে। প্রত্যেকে গিয়ে কোনো আত্মীয় বা চাচাতো ভাইকে বলে দিল, শুধু এ দুজন গোপন রাখলেন। সুদ্দী ইউশাকে বলেন মূসা (আঃ)-এর তরুণ সহচর, আর কালেবকে তাঁর বৈবাহিক আত্মীয়।"
+          },
+          {
+            "en": "Ibn Kathir introduces the same pair with the words it is said: Yusha' ibn Nun and Kalib ibn Yufna, as Ibn Abbas, Mujahid, 'Ikrima, 'Atiyya, as-Suddi, ar-Rabi' ibn Anas and others of the early and later generations stated. Al-Qurtubi, from Ibn Abbas and others, gives the same two, notes that Kalib's father's name is recorded in more than one form, and also places them among the twelve chiefs. These identifications come from the early generations of commentary. The verse itself leaves the two men unnamed.",
+            "bn": "ইবন কাসীর একই দুজনের কথা আনেন 'বলা হয়' শব্দে: ইউশা ইবন নূন আর কালেব ইবন ইউফান্না। এ কথা বলেছেন ইবন আব্বাস (রাঃ), মুজাহিদ, ইকরিমা, আতিয়্যা, সুদ্দী, রবী' ইবন আনাস এবং পূর্ব ও পরের যুগের আরও অনেকে। কুরতুবীও ইবন আব্বাস (রাঃ) প্রমুখের সূত্রে এ দুজনের নাম দেন। তিনি জানান, কালেবের পিতার নাম একাধিক রূপে পাওয়া যায়, আর তিনিও তাঁদের ১২ জন নকীবের মধ্যে গণ্য করেন। এ পরিচয় এসেছে তাফসীরের প্রথম যুগের বর্ণনা থেকে। আয়াত নিজে লোক দুজনের নাম বলেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Fear Left Unnamed",
+          "bn": "ভয় আছে, কার ভয় বলা নেই"
+        },
+        "p": [
+          {
+            "en": "Yakhafun, they fear, has no object in the verse, and most commentators supply one: Allah. At-Tabari says Allah described the two as of those who fear Him and watch Him in His command and prohibition; al-Baghawi, as-Sa'di and the Muyassar gloss it the same way. Qatada used to say that in some readings the words ran yakhafuna Allaha, who fear Allah, and at-Tabari counts this as further support for naming the pair Yusha' and Kalib. Ibn Kathir puts it as fearing Allah's command and dreading His punishment.",
+            "bn": "ইয়াখাফূন মানে তারা ভয় করে, কিন্তু কাকে, আয়াতে তা বলা নেই। বেশিরভাগ মুফাসসির শূন্য জায়গাটা পূরণ করেন আল্লাহ দিয়ে। তাবারী বলেন, আল্লাহ এ দুজনকে এমন লোকদের মধ্যে গণ্য করেছেন যারা তাঁকে ভয় করে এবং তাঁর আদেশ-নিষেধে তাঁকে সামনে রেখে চলে। বাগাভী, সা'দী আর মুয়াসসারের ব্যাখ্যাও একই। কাতাদা বলতেন, কোনো কোনো কিরাআতে শব্দগুলো ছিল ইয়াখাফূনাল্লাহ, অর্থাৎ যারা আল্লাহকে ভয় করে। তাবারী একে দেখেন এ দুজনকে ইউশা ও কালেব বলার পক্ষে আরেকটি সমর্থন হিসেবে। ইবন কাসীরের ভাষায়, তাঁরা আল্লাহর হুকুমকে ভয় করতেন আর তাঁর শাস্তির আশঙ্কা রাখতেন।"
+          },
+          {
+            "en": "Al-Qurtubi lists other objects. His first gloss is that they feared the tyrants, and he gives Qatada's fear of Allah after it. Ad-Dahhak, in his account, held that the two lived in the tyrants' city and followed Musa's religion, so their fear was a natural fear of the Amalekites, lest their faith be discovered and they be put to trial; yet they trusted Allah. A further view he records is that they feared the weakness and cowardice of the Children of Israel. The single word holds fear of Allah, of the enemy, and of one's own side failing.",
+            "bn": "কুরতুবী আরও কয়েকটি সম্ভাবনা তুলে ধরেন। তাঁর প্রথম ব্যাখ্যা, তাঁরা জাব্বারদের ভয় করতেন। কাতাদার মত, অর্থাৎ আল্লাহর ভয়, তিনি আনেন এর পরে। তাঁর উদ্ধৃতিতে দাহহাকের মত হলো, এ দুজন থাকতেন জাব্বারদের শহরে, অথচ ছিলেন মূসা (আঃ)-এর দ্বীনের অনুসারী। তাই আমালেকাদের প্রতি তাঁদের ভয় ছিল স্বভাবজাত: ঈমানের কথা ফাঁস হলে বিপদে পড়বেন। তবু তাঁরা আল্লাহর উপর আস্থা রেখেছিলেন। আরেকটি মত তিনি উল্লেখ করেন: তাঁরা ভয় পাচ্ছিলেন বনী ইসরাঈলের দুর্বলতা আর ভীরুতাকে। একটিমাত্র শব্দে তাই জায়গা পেয়েছে আল্লাহর ভয়, শত্রুর ভয়, আর নিজের পক্ষের ব্যর্থ হওয়ার ভয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the silence itself. The verse does not say whom they feared, and it takes the omission as a hint: there is only one Being in the world who deserves to be feared, since no one can bring the least benefit or cause any harm without His will. Once that is settled, it says, there is no need to settle it again. On this reading the description is complete as it stands, and the reader is left to supply the only object that fits.",
+            "bn": "মাআরিফুল কুরআন এই নীরবতাকেই অর্থপূর্ণ মনে করে। তাঁরা কাকে ভয় করতেন, আয়াত বলেনি, আর এ না-বলাটাকে সে ইঙ্গিত হিসেবে পড়ে। গোটা জগতে ভয় পাওয়ার যোগ্য কেবল একজনই, কারণ তাঁর ইচ্ছা ছাড়া কেউ কারও সামান্য উপকার বা ক্ষতি করতে পারে না। কথাটা যখন আগে থেকেই মীমাংসিত, তখন নতুন করে বলার দরকার পড়ে না। এ পাঠে বর্ণনাটা যেমন আছে তেমনই পূর্ণ। যে একমাত্র নাম সেখানে বসে, পাঠক নিজেই তা বসিয়ে নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Yukhafun, the Lone Reading",
+          "bn": "ইউখাফূন: একক কিরাআত"
+        },
+        "p": [
+          {
+            "en": "A second question is how the word was read. At-Tabari reports that the reciters of the Hijaz, Iraq and Syria read yakhafun, with the ya' opened: those who fear. Sa'id ibn Jubayr is reported to have read yukhafun, with the ya' closed: those who are feared. At-Tabari gives the chain for this and remarks within it that one narrator is not known to have heard from the man he reports from. Al-Qurtubi names Mujahid alongside Ibn Jubayr for the closed reading.",
+            "bn": "দ্বিতীয় প্রশ্ন, শব্দটি পড়া হয়েছে কীভাবে। তাবারী জানান, হিজায, ইরাক ও শামের কারীরা পড়েছেন ইয়াখাফূন, ইয়া-তে যবর দিয়ে: যারা ভয় করে। সাঈদ ইবন জুবাইর সম্পর্কে বর্ণিত, তিনি পড়তেন ইউখাফূন, ইয়া-তে পেশ দিয়ে: যাদের ভয় করা হয়। তাবারী এ বর্ণনার সনদ দেন, আর সনদের ভেতরেই মন্তব্য করেন, একজন বর্ণনাকারী যাঁর কাছ থেকে বর্ণনা করছেন, তাঁর কাছ থেকে শুনেছেন বলে জানা নেই। কুরতুবী পেশওয়ালা পাঠে ইবন জুবাইরের সঙ্গে মুজাহিদের নামও উল্লেখ করেন।"
+          },
+          {
+            "en": "The closed reading changes who the two men were. Al-Baghawi reports Sa'id saying they were of the tyrants, had accepted Islam and followed Musa (AS). At-Tabari carries something similar from Ibn Abbas, through 'Ali ibn Abi Talha: the two were people of the city who became Muslim and followed Musa and Harun (AS). On this reading, at-Tabari notes, none of the twelve chiefs kept the secret. Al-Qurtubi says the closed reading strengthens the view that the two were not of Musa's people. Ibn Kathir gives it a different sense: men held in awe and standing among people.",
+            "bn": "পেশওয়ালা পাঠে বদলে যায় লোক দুজনের পরিচয়। বাগাভী সাঈদের কথা উদ্ধৃত করেন: তাঁরা ছিলেন জাব্বারদেরই লোক, ইসলাম গ্রহণ করে মূসা (আঃ)-এর অনুসরণ করেছিলেন। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে প্রায় একই কথা আনেন: এ দুজন ছিলেন সেই শহরের বাসিন্দা, মুসলিম হয়ে মূসা ও হারূন (আঃ)-এর অনুসারী হয়েছিলেন। তাবারী লক্ষ করেন, এ পাঠ অনুযায়ী ১২ জন নকীবের কেউই গোপন কথা গোপন রাখেননি। কুরতুবী বলেন, পেশওয়ালা পাঠ এ মতকে জোরালো করে যে তাঁরা মূসা (আঃ)-এর কওমের লোক ছিলেন না। ইবন কাসীর এর আরেক অর্থ দেন: মানুষের মধ্যে প্রভাব ও মর্যাদার অধিকারী দুজন, যাদের সবাই সমীহ করত।"
+          },
+          {
+            "en": "At-Tabari decides between the readings and gives his reasons. The opened reading is preferred, he says, because the reciters of the great cities agreed on it; what spreads widely among them is a proof not to be opposed, while what one reciter has alone may contain error or oversight. He adds the agreement of the authorities that the two were companions of Musa (AS) from the Children of Israel, Yusha' and Kalib. Al-Qurtubi, al-Baghawi and Ibn Kathir record the closed reading without weighing it. Both are set down here as they set them down.",
+            "bn": "দুই পাঠের মধ্যে তাবারী নিজে একটি বেছে নেন, কারণও বলেন। তাঁর মতে যবরওয়ালা পাঠ অগ্রগণ্য, কেননা বড় বড় শহরের কারীরা এতে একমত। যে পাঠ তাঁদের মধ্যে ব্যাপকভাবে প্রচলিত, তা এমন দলিল যার বিরোধিতা চলে না। আর একজন কারী একা যা পড়েন, তাতে ভুল বা অসাবধানতা থাকতে পারে। সঙ্গে তিনি যোগ করেন বিজ্ঞজনদের ঐকমত্য: এ দুজন বনী ইসরাঈলের লোক, মূসা (আঃ)-এর সঙ্গী, ইউশা ও কালেব। কুরতুবী, বাগাভী আর ইবন কাসীর পেশওয়ালা পাঠ উল্লেখ করেছেন, কোনো পাল্লায় না মেপে। তাঁরা যেভাবে রেখেছেন, এখানেও দুটিকে সেভাবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Favour That Held Them",
+          "bn": "যে অনুগ্রহ তাঁদের অটল রাখল"
+        },
+        "p": [
+          {
+            "en": "An'ama Allahu 'alayhima: Allah had favoured them. At-Tabari reads the favour as obedience: Allah favoured them with obeying Him by obeying Musa (AS), and with holding back from spreading among the Children of Israel what they had seen of the tyrants, as the other chiefs did. He records two further readings: Sahl ibn 'Ali's, that the favour was fear itself, and ad-Dahhak's, that it was guidance, so they kept Musa's religion inside the tyrants' city. Al-Baghawi names success and protection; al-Qurtubi, Islam, or certainty and righteousness.",
+            "bn": "আনআমাল্লাহু আলাইহিমা: আল্লাহ তাঁদের অনুগ্রহ করেছিলেন। তাবারীর কাছে এ অনুগ্রহ হলো আনুগত্য। মূসা (আঃ)-এর আনুগত্যের ভেতর দিয়ে তাঁরা আল্লাহর আনুগত্য করেছেন। জাব্বারদের যা দেখে এসেছিলেন, তা বনী ইসরাঈলের মধ্যে ছড়ানো থেকে বিরত থেকেছেন, যদিও অন্য নকীবরা ছড়িয়ে দিয়েছিল। তিনি আরও দুটি মত উল্লেখ করেন। সাহল ইবন আলীর মতে অনুগ্রহটা ছিল ভয় নিজেই। দাহহাকের মতে হিদায়াত, যার ফলে জাব্বারদের শহরে থেকেও তাঁরা মূসা (আঃ)-এর দ্বীনে ছিলেন। বাগাভীর মতে তাওফীক আর গুনাহ থেকে হেফাজত। কুরতুবীর মতে ইসলাম, অথবা ইয়াকীন ও নেককারি।"
+          },
+          {
+            "en": "As-Sa'di gives the fullest list: success, and a word of truth in a place that needed words like theirs, with patience and certainty. On his reading, part of the favour was the sentence itself, spoken when it was needed. Ma'arif al-Qur'an draws a wider lesson. The chiefs had the same faculties and the same company of Musa (AS), yet all slipped but these two. Guidance, it says, does not rest on one's own strengths; it is a reward from Allah, though effort is a condition of deserving it.",
+            "bn": "সবচেয়ে বিস্তারিত তালিকা দেন সা'দী: তাওফীক, আর এমন জায়গায় হক কথা বলার সামর্থ্য, যেখানে ঠিক এমন কথারই প্রয়োজন ছিল। সঙ্গে সবর আর ইয়াকীন। তাঁর পাঠে অনুগ্রহের একটা অংশ ছিল কথাটা নিজেই, প্রয়োজনের মুহূর্তে উচ্চারিত। মাআরিফুল কুরআন এখান থেকে আরও বড় শিক্ষা টানে। নকীবদের সবার ছিল একই রকম শক্তি-সামর্থ্য, একই মূসা (আঃ)-এর সাহচর্য। তবু এ দুজন ছাড়া সবাই পিছলে গেল। তার মতে হিদায়াত নিজের যোগ্যতার উপর দাঁড়িয়ে থাকে না। তা আল্লাহর দেওয়া পুরস্কার, তবে সে পুরস্কারের যোগ্য হতে চেষ্টা ও আমল শর্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Gate, Then Victory",
+          "bn": "একটি ফটক, তারপর বিজয়"
+        },
+        "p": [
+          {
+            "en": "Udkhulu 'alayhimu al-bab: enter upon them through the gate. Mujahid, in at-Tabari, takes al-bab as the town of the tyrants, as al-Baghawi also does, and at-Tabari glosses: enter the gate of their city, for Allah is with you and will help you. As-Sa'di is plainer still: nothing stands between you and victory except resolving against them and entering through the gate. The Muyassar adds that they were to enter akhdhan bil-asbab, taking hold of the means.",
+            "bn": "উদখুলূ আলাইহিমুল বাব: ফটক দিয়ে ওদের উপর ঢুকে পড়ো। তাবারীর উদ্ধৃতিতে মুজাহিদ বাব বলতে বোঝান জাব্বারদের জনপদ, বাগাভীও তা-ই বলেন। তাবারীর ব্যাখ্যা: ওদের শহরের ফটক দিয়ে ঢোকো, আল্লাহ তোমাদের সঙ্গে আছেন, তিনিই তোমাদের সাহায্য করবেন। সা'দী আরও সরাসরি: তোমাদের আর বিজয়ের মাঝে বাধা শুধু এটুকু, দৃঢ় সংকল্প নিয়ে ফটক দিয়ে ঢুকে পড়া। মুয়াসসার যোগ করে, তাদের ঢুকতে হতো আখযান বিল-আসবাব, অর্থাৎ উপায়-উপকরণ হাতে নিয়ে।"
+          },
+          {
+            "en": "How could two men promise fa-innakum ghalibun, you will prevail? Al-Baghawi gives two grounds together: Allah fulfils His promise, and, in the two men's voice, we have seen them, their bodies great and their hearts weak, so do not fear them. Al-Qurtubi has the same picture, then allows that they may have spoken in trust of Allah's promise. Ma'arif al-Qur'an keeps both: a close reading of the enemy, or faith in the decree they had heard from Musa (AS).",
+            "bn": "ফা-ইন্নাকুম গালিবূন, তোমরা জয়ী হবে: দুজন মানুষ এত নিশ্চিত হয়ে কথা দিলেন কীভাবে? বাগাভী একসঙ্গে দুটি কারণ দেন। এক, আল্লাহ তাঁর ওয়াদা পূরণ করেন। দুই, তাঁদের নিজেদের মুখে: আমরা ওদের দেখেছি, ওদের দেহ বিশাল, কিন্তু অন্তর দুর্বল, ওদের ভয় পেয়ো না। কুরতুবীর কাছেও একই ছবি, তবে তিনি আরেকটি সম্ভাবনা রাখেন: হয়তো তাঁরা কথাটা বলেছিলেন আল্লাহর ওয়াদার উপর ভরসা করে। মাআরিফুল কুরআন দুটিই রাখে: শত্রুকে কাছ থেকে যাচাই করা, অথবা মূসা (আঃ)-এর মুখে শোনা আল্লাহর ফয়সালায় পূর্ণ বিশ্বাস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reliance Placed First",
+          "bn": "ভরসা সবার আগে"
+        },
+        "p": [
+          {
+            "en": "Wa 'ala Allahi fa-tawakkalu: and upon Allah rely. Upon Allah comes before the verb, and the Muyassar renders it upon Allah alone. Having told them to enter, says as-Sa'di, the two men gave them the strongest of all equipment, since reliance on Allah at such a moment eases the matter and brings victory. He draws from it that reliance is obligatory, and that a servant's reliance matches his faith. At-Tabari reads if you are believers as: if you believe your prophet's report of victory, and that your Lord can keep His promise.",
+            "bn": "ওয়া আলাল্লাহি ফাতাওয়াক্কালূ: আর আল্লাহর উপরই ভরসা করো। আল্লাহর উপর কথাটা এসেছে ক্রিয়ার আগে, আর মুয়াসসার এর অর্থ করে: একমাত্র আল্লাহর উপর। সা'দী বলেন, ঢুকে পড়ার কথা বলার পর দুজন তাদের হাতে তুলে দিলেন সবচেয়ে মজবুত হাতিয়ার। কারণ এমন মুহূর্তে আল্লাহর উপর ভরসা কাজ সহজ করে, শত্রুর বিরুদ্ধে বিজয় আনে। তিনি এখান থেকে দুটি কথা বের করেন: ভরসা করা ফরজ, আর বান্দার ভরসা হয় তার ঈমানের মাপে। তাবারী 'মু'মিন হলে' কথাটার অর্থ করেন: নবী তোমাদের বিজয়ের যে খবর দিয়েছেন তা যদি বিশ্বাস করো, আর বিশ্বাস করো যে তোমাদের রব তাঁর ওয়াদা রাখতে সক্ষম।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to 5:23 itself. A general narration, not attached to the verse, joins reliance to going out. In Jami' at-Tirmidhi 2344, 'Umar ibn al-Khattab narrated that the Messenger of Allah ﷺ said: \"If you were to rely upon Allah with the required reliance, then He would provide for you just as a bird is provided for, it goes out in the morning empty, and returns full.\" At-Tirmidhi grades it hasan sahih. The bird relies, and still leaves the nest.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই ৫:২৩ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, কিন্তু ভরসার সঙ্গে বেরিয়ে পড়াকে জুড়ে দেয়। জামে তিরমিযী ২৩৪৪-এ উমর ইবনুল খাত্তাব (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"তোমরা যদি আল্লাহর উপর যথাযথভাবে ভরসা করতে, তবে তিনি তোমাদের রিযিক দিতেন যেভাবে পাখিকে রিযিক দেওয়া হয়: সকালে সে খালি পেটে বের হয়, আর সন্ধ্যায় ফেরে ভরা পেটে।\" তিরমিযী একে হাসান সহীহ বলেছেন। পাখি ভরসা করে, তবু বাসা ছেড়ে বেরোয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answered With Stones",
+          "bn": "জবাবে পাথর"
+        },
+        "p": [
+          {
+            "en": "The counsel was refused. Al-Qurtubi records, on the view that the two were Musa's own people, that the Children of Israel wanted to stone them, saying: shall we believe you two and leave the word of ten? Al-Baghawi likewise says they wanted to stone them and disobeyed them. At-Tabari carries a longer account from Ibn Ishaq, from people of knowledge of the earlier scripture, in which Yusha' and Kalib tore their garments and told the assembly not to fear the land's people, for Allah was with them. That is a report from the earlier scripture's people, not from the Prophet ﷺ.",
+            "bn": "পরামর্শটা প্রত্যাখ্যাত হলো। কুরতুবী উল্লেখ করেন, যাঁরা এ দুজনকে মূসা (আঃ)-এর নিজের কওমের লোক বলেন, তাঁদের মতে বনী ইসরাঈল তাঁদের পাথর মারতে চেয়েছিল। তারা বলেছিল: তোমাদের দুজনের কথা মেনে নেব, আর ১০ জনের কথা ফেলে দেব? বাগাভীও বলেন, লোকেরা তাঁদের পাথর মারতে চেয়েছিল এবং তাঁদের কথা অমান্য করেছিল। তাবারী আরও দীর্ঘ একটি বিবরণ আনেন ইবন ইসহাকের সূত্রে, যিনি তা নিয়েছেন পূর্ববর্তী কিতাবের জ্ঞানীদের কাছ থেকে। সেখানে ইউশা আর কালেব নিজেদের কাপড় ছিঁড়ে ফেলেন এবং সমবেত লোকদের বলেন, ওই ভূমির লোকদের ভয় কোরো না, আল্লাহ আমাদের সঙ্গে আছেন। এ বর্ণনা পূর্ববর্তী কিতাবের লোকদের, নবী ﷺ থেকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When You Are One of Two",
+          "bn": "যখন আপনি দুজনের একজন"
+        },
+        "p": [
+          {
+            "en": "Musa (AS) delivered the command he had been given, and nothing in these verses lays a fault on him; the two men's counsel supports his and does not correct it. The verse describes what the text describes, the conduct of one people at one moment and the counsel of two of them, and it licenses nothing against any living person or community. Nothing here is a ruling about any modern people, land or war.",
+            "bn": "মূসা (আঃ) তাঁকে দেওয়া আদেশ পৌঁছে দিয়েছেন, আর এ আয়াতগুলোর কোথাও তাঁর উপর কোনো দোষ চাপানো হয়নি। দুজনের পরামর্শ তাঁর কথাকে সমর্থন করে, সংশোধন করে না। আয়াত শুধু ততটুকুই বলে যতটুকু তার ভাষায় আছে: একটি নির্দিষ্ট সময়ে একটি কওমের আচরণ, আর তাদের মধ্যকার দুজনের পরামর্শ। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। আধুনিক কোনো জাতি, ভূমি বা যুদ্ধ নিয়েও এখানে কোনো ফয়সালা নেই।"
+          },
+          {
+            "en": "For a reader, the verse is about where fear sits and when to speak. The two men saw the strength the others saw; on most readings they feared Allah, and that fear made the other one smaller. Name one duty you keep postponing because of what stands inside it, and take the first step through its gate relying on Allah. And if you are one of two in a room backing away from something right, say the true sentence plainly, without contempt for anyone, and leave the outcome with Allah.",
+            "bn": "পাঠকের জন্য আয়াতের কথা দুটি: ভয় কোথায় রাখবেন, আর কখন মুখ খুলবেন। অন্যরা যে শক্তি দেখেছিল, এ দুজনও তা-ই দেখেছিলেন। বেশিরভাগ ব্যাখ্যায় তাঁদের ভয় ছিল আল্লাহর, আর সে ভয় অন্য ভয়টাকে ছোট করে দিয়েছিল। এমন একটি দায়িত্বের নাম লিখুন, যা ভেতরের কোনো বাধার ভয়ে আপনি পিছিয়ে রাখছেন। তারপর আল্লাহর উপর ভরসা করে তার ফটকের দিকে প্রথম পা বাড়ান। আর কোনো ঘরে সবাই যদি ন্যায্য কাজ থেকে পিছিয়ে যায়, আর আপনি হন দুজনের একজন, তবে সত্য কথাটা সোজাসুজি বলুন, কাউকে তুচ্ছ না করে। ফলাফল আল্লাহর হাতে ছেড়ে দিন।"
+          }
+        ]
+      }
+    ]
+  },
   "5:25-26": {
     "sections": [
       {
