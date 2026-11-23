@@ -32023,6 +32023,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A favour is not withdrawn at random; it follows a change in the one who received it. Watch what is changing in you before you blame what is changing around you.",
     "lessonBn": "নিয়ামত এলোমেলোভাবে কেড়ে নেওয়া হয় না, যে পেয়েছে তার ভেতরের বদলের পরেই তা সরে যায়। চারপাশের বদলকে দোষ দেওয়ার আগে দেখুন, আপনার ভেতরে কী বদলাচ্ছে।"
+  },
+  "8:45": {
+    "reflectionEn": "The verse is spoken to people at the hardest moment a person can face: the other side has arrived and there is no more waiting. It gives two orders. Stand firm, and remember Allah much. One might expect the second order to be saved for a quieter hour, yet it is given for this one, when hands, eyes and fear are all fully taken. The remembrance is not a rest from the stand; it is what holds the stand up. Few of us will ever face an army. But each of us has an hour when everything arrives at once, and the instinct is to run, or to forget Him until it is over. What do I do with that hour?",
+    "reflectionBn": "আয়াতটি বলা হচ্ছে মানুষের সবচেয়ে কঠিন মুহূর্তে। অপর পক্ষ এসে পড়েছে, অপেক্ষার আর সময় নেই। এমন সময়ে দুটি হুকুম আসে: অবিচল থাকো, আর আল্লাহকে বেশি বেশি স্মরণ করো। মনে হতে পারে, দ্বিতীয় হুকুমটা কোনো শান্ত সময়ের জন্য তোলা থাকবে। অথচ তা দেওয়া হয়েছে ঠিক এই মুহূর্তের জন্য, যখন হাত, চোখ আর ভয়, সবই পুরোপুরি ব্যস্ত। জিকির এখানে দাঁড়িয়ে থাকা থেকে বিরতি নয়। জিকিরই সেই দাঁড়িয়ে থাকাকে ধরে রাখে। আমাদের খুব কম মানুষই কোনোদিন কোনো বাহিনীর মুখোমুখি হবে। কিন্তু প্রত্যেকের জীবনে এমন একটা সময় আসে, যখন সবকিছু একসঙ্গে এসে পড়ে। মন তখন চায় পালিয়ে যেতে, কিংবা ঝড় না থামা পর্যন্ত তাঁকে ভুলে থাকতে। সেই সময়টা নিয়ে আমি কী করি?",
+    "pointsEn": [
+      "When pressure arrives all at once, is my first reflex to leave the ground, or to stay where I am and call on Allah?",
+      "Which hours of my week are so full that I quietly assume remembrance can wait until they are over?",
+      "Do I keep dhikr for calm moments only, or have I learned to reach for it in the hard ones?",
+      "When I promise myself I will stand firm, what am I actually relying on: my own nerve, or the One I remember?",
+      "Does my remembrance of Allah reach my heart, or does it stop at my tongue?"
+    ],
+    "pointsBn": [
+      "চাপ যখন একসঙ্গে এসে পড়ে, আমার প্রথম প্রতিক্রিয়া কী হয়? জায়গা ছেড়ে সরে যাওয়া, নাকি যেখানে আছি সেখানে থেকে আল্লাহকে ডাকা?",
+      "সপ্তাহের কোন সময়গুলো এত ব্যস্ত যে আমি মনে মনে ধরে নিই, জিকির ওগুলো শেষ হওয়া পর্যন্ত অপেক্ষা করতে পারে?",
+      "জিকির কি আমি শুধু শান্ত সময়ের জন্য তুলে রাখি, নাকি কঠিন সময়েও তার দিকে হাত বাড়াতে শিখেছি?",
+      "নিজেকে যখন কথা দিই যে অবিচল থাকব, তখন আসলে কার উপর ভরসা করি? নিজের সাহসের উপর, নাকি যাঁকে স্মরণ করি তাঁর উপর?",
+      "আল্লাহর স্মরণ কি আমার অন্তর পর্যন্ত পৌঁছায়, নাকি জিহ্বাতেই থেমে যায়?"
+    ],
+    "lessonEn": "When the hardest moment arrives, hold your ground and keep Allah on your tongue and in your heart; remembrance is not a pause from steadfastness but what keeps it standing.",
+    "lessonBn": "সবচেয়ে কঠিন মুহূর্ত যখন আসে, নিজের জায়গায় অবিচল থাকুন, আর জিহ্বায় ও অন্তরে আল্লাহকে ধরে রাখুন। জিকির অবিচলতা থেকে বিরতি নয়, বরং সেটাই অবিচলতাকে দাঁড় করিয়ে রাখে।"
   }
 };
 

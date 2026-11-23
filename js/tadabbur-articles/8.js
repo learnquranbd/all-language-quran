@@ -1995,6 +1995,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:45": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Recollection to Orders",
+          "bn": "স্মৃতিচারণ থেকে নির্দেশে"
+        },
+        "p": [
+          {
+            "en": "The preceding verses look back at Badr: the two sides of the valley in 8:42, the enemy shown as few in a dream in 8:43, each army made small in the other's eyes in 8:44. Here the surah turns from recalling to instructing. O you who believe opens a set of orders that 8:46 and 8:47 continue, and this verse gives the first two: stand firm, and remember Allah much.",
+            "bn": "এর ঠিক আগের আয়াতগুলো বদরের দিকে ফিরে তাকায়। ৮:৪২ আয়াতে উপত্যকার কাছের আর দূরের প্রান্ত, ৮:৪৩ আয়াতে স্বপ্নে শত্রুকে অল্প করে দেখানো, ৮:৪৪ আয়াতে দুই বাহিনীকে একে অপরের চোখে ছোট করে দেখানো। এখানে এসে সূরা স্মৃতিচারণ থামিয়ে নির্দেশ দিতে শুরু করে। ইয়া আইয়ুহাল্লাযীনা আমানূ, হে ঈমানদারগণ: এই ডাক দিয়ে একগুচ্ছ হুকুম শুরু হয়, যা ৮:৪৬ ও ৮:৪৭ আয়াতে এগিয়ে চলে। এ আয়াত দেয় প্রথম দুটি: অবিচল থাকো, আর আল্লাহকে বেশি বেশি স্মরণ করো।"
+          },
+          {
+            "en": "At-Tabari calls the verse Allah's way of acquainting the people of faith with the conduct of war against His enemies, and with the acts by whose use they may hope for victory when they meet them. Ibn Kathir's opening line is close to it: this is Allah teaching His believing servants the manners of the meeting and the way of courage when facing the enemy. Both read the verse as instruction for one particular hour, the hour when two forces actually meet.",
+            "bn": "তাবারীর ভাষায়, এ আয়াতের মাধ্যমে আল্লাহ ঈমানদারদের জানিয়ে দিচ্ছেন তাঁর শত্রুদের বিরুদ্ধে যুদ্ধের রীতি কী, আর কোন কোন আমল করলে মুখোমুখি হওয়ার সময় বিজয়ের আশা করা যায়। ইবন কাসীরের প্রথম বাক্যও কাছাকাছি। তিনি বলেন, আল্লাহ এখানে তাঁর মুমিন বান্দাদের শেখাচ্ছেন মুখোমুখি হওয়ার আদব আর শত্রুর সামনে সাহসের পথ। দুজনের কাছেই আয়াতটি একটি নির্দিষ্ট মুহূর্তের নির্দেশনা: যে মুহূর্তে দুই পক্ষ সত্যিই মুখোমুখি হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fi'a, a Company Met",
+          "bn": "ফিআ: মুখোমুখি এক দল"
+        },
+        "p": [
+          {
+            "en": "The verse says only idha laqitum fi'atan, when you meet a company, and does not say whose. The commentators supply it. Al-Qurtubi glosses fi'a as a group, al-Baghawi as a disbelieving group, as-Sa'di as a party of disbelievers fighting you. The Muyassar adds that they have prepared to fight you, and Ibn Ishaq, in a report at-Tabari carries, says: those who fight you, in the cause of Allah. Every reading fetched here makes the company an army already in the field.",
+            "bn": "আয়াতে শুধু আছে ইযা লাকীতুম ফিআতান, যখন তোমরা কোনো দলের মুখোমুখি হও। দলটা কাদের, তা বলা নেই। তাফসীরকারেরা সেটা পূরণ করেন। কুরতুবী ফিআ-র অর্থ করেন শুধু একটি দল। বাগাভী বলেন কাফিরদের একটি দল, আর শাইখ সাদী বলেন কাফিরদের এমন একটি দল, যারা তোমাদের সঙ্গে লড়ছে। মুয়াসসার যোগ করে, তারা তোমাদের সঙ্গে লড়াইয়ের প্রস্তুতি নিয়ে এসেছে। তাবারী ইবন ইসহাকের যে বর্ণনা আনেন, তাতে অর্থ করা হয়েছে: যারা তোমাদের সঙ্গে লড়ছে, আল্লাহর পথে। এখানে পাওয়া প্রতিটি ব্যাখ্যায় দলটি এমন এক বাহিনী, যা আগে থেকেই ময়দানে নেমেছে।"
+          },
+          {
+            "en": "Fa-thbutu, then stand firm. At-Tabari spells it out: stand firm to fight them, do not break before them, and do not turn your backs in flight, except a man turning aside to fight or withdrawing to a company of your own. Those last words come from 8:16. The surah had already forbidden flight in 8:15, which opens much as this verse does: O you who believe, when you meet those who disbelieve advancing, do not turn your backs to them.",
+            "bn": "ফাসবুতূ, তবে অবিচল থাকো। তাবারী কথাটা খুলে বলেন: তাদের সঙ্গে লড়াইয়ে অটল থাকো, তাদের সামনে ভেঙে পড়ো না, পালাতে গিয়ে পিঠ দেখিয়ো না। ব্যতিক্রম শুধু সে, যে লড়াইয়ের কৌশল হিসেবে সরে যায়, কিংবা নিজেদের কোনো দলের সঙ্গে গিয়ে মেলে। শেষের কথাগুলো ৮:১৬ আয়াত থেকে নেওয়া। পালানো তো সূরাটি আগেই ৮:১৫ আয়াতে নিষেধ করেছে। সে আয়াতের শুরুও প্রায় এ আয়াতের মতো: হে ঈমানদারগণ, কাফিরদের সঙ্গে যখন অগ্রসরমান অবস্থায় মুখোমুখি হও, তাদের দিকে পিঠ ফিরিয়ো না।"
+          },
+          {
+            "en": "Al-Qurtubi reads the command against that earlier ban. The earlier verse forbade fleeing from the disbelievers, this verse orders standing firm when fighting them, so, he says, the command and the prohibition meet on equal terms. The effect is emphasis: hold your ground against the enemy and bear up under it. Ma'arif al-Qur'an adds that the firmness meant here is of the feet and of the heart together, since a person whose heart is not firm can hardly expect the rest of his body to hold its place.",
+            "bn": "কুরতুবী এই হুকুমকে পড়েন আগের সেই নিষেধের পাশে রেখে। আগেরটি কাফিরদের সামনে থেকে পালাতে নিষেধ করেছিল, আর এটি তাদের সঙ্গে লড়াইয়ে অবিচল থাকার হুকুম দেয়। তাঁর ভাষায়, এভাবে আদেশ আর নিষেধ সমান সমান এসে মিলেছে। ফল দাঁড়ায় জোর দিয়ে বলা: শত্রুর সামনে জায়গা ধরে রাখো, কষ্ট সয়ে দাঁড়িয়ে থাকো। মাআরিফুল কুরআন যোগ করে, এখানে অবিচলতা মানে পা আর অন্তর দুটোই স্থির রাখা। কারণ যার অন্তর স্থির নয়, তার শরীরের বাকিটা জায়গায় থাকবে, এমন আশা করা কঠিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plea, or Something Wider",
+          "bn": "দোয়া, নাকি আরও বিস্তৃত কিছু"
+        },
+        "p": [
+          {
+            "en": "What does wa-dhkuru Allaha kathiran ask for? Three commentators make it first a prayer. At-Tabari: call on Allah for victory over them and the upper hand, and let your hearts and tongues be filled with remembering Him. Al-Baghawi keeps only the first half: pray to Allah for victory and success against them. The Muyassar pictures the believers remembering Allah much as they call on Him and plead earnestly for victory to be sent down upon them.",
+            "bn": "ওয়াযকুরুল্লাহা কাসীরান, এ হুকুম আসলে কী চায়? তিনজন তাফসীরকারের কাছে এটা প্রথমত দোয়া। তাবারী বলেন: তাদের বিরুদ্ধে বিজয় আর সাফল্যের জন্য আল্লাহকে ডাকো, আর তোমাদের অন্তর ও জিহ্বা তাঁর স্মরণে ভরিয়ে রাখো। বাগাভী শুধু প্রথম অংশটুকু রাখেন: তাদের বিরুদ্ধে বিজয় আর সাফল্যের জন্য আল্লাহর কাছে দোয়া করো। মুয়াসসারের ছবিতে ঈমানদারেরা আল্লাহকে বেশি বেশি স্মরণ করছে, তাঁকে ডাকছে, কাকুতি-মিনতি করে চাইছে যেন তাদের উপর বিজয় নাযিল হয়।"
+          },
+          {
+            "en": "Al-Qurtubi reports that the scholars held three views on this remembrance. First: remember Allah when your hearts are seized by alarm, because remembering Him helps a person stand firm in hardship. Second: stand firm with your hearts and remember Him with your tongues, since at the meeting the heart does not settle and the tongue falters; the command fixes the heart on certainty and the tongue on remembrance. Third: remember what Allah has promised you in buying your souls from you and paying their price.",
+            "bn": "কুরতুবী জানান, এই স্মরণ নিয়ে আলেমদের তিনটি মত। প্রথম মত: অন্তর যখন ভয়ে অস্থির হয়ে ওঠে, তখন আল্লাহকে স্মরণ করো, কারণ তাঁর স্মরণ বিপদে অবিচল থাকতে সাহায্য করে। দ্বিতীয় মত: অন্তর দিয়ে অবিচল থাকো, আর জিহ্বা দিয়ে তাঁকে স্মরণ করো। মুখোমুখি হওয়ার সময় অন্তর শান্ত থাকে না, জিহ্বাও জড়িয়ে যায়। তাই জিকিরের হুকুম এসেছে, যাতে অন্তর ইয়াকীনের উপর আর জিহ্বা জিকিরের উপর স্থির থাকে। তৃতীয় মত: তোমাদের প্রাণ কিনে নিয়ে তার দাম দেওয়ার যে ওয়াদা আল্লাহ করেছেন, তা স্মরণ করো।"
+          },
+          {
+            "en": "Al-Qurtubi gives his own preference: the plainest meaning is remembrance by the tongue in agreement with the heart. Under the second view he sets the words of Talut's companions in 2:250, our Lord, pour patience upon us and plant our feet firmly, and he says such a state comes only from strong knowledge and keen insight. Ibn Ishaq's gloss, carried by at-Tabari, leans towards the third view: remember Allah, for whom you have given your lives, and keep the pledge you made.",
+            "bn": "কুরতুবী নিজের পছন্দও জানান: সবচেয়ে স্পষ্ট অর্থ হলো জিহ্বার জিকির, যা অন্তরের সঙ্গে মিলে যায়। দ্বিতীয় মতের সঙ্গে তিনি ২:২৫০ আয়াতে তালুতের সঙ্গীদের দোয়াটি আনেন: হে আমাদের রব, আমাদের উপর ধৈর্য ঢেলে দিন আর আমাদের পা অবিচল রাখুন। তিনি বলেন, এমন অবস্থা আসে কেবল গভীর জ্ঞান আর তীক্ষ্ণ অন্তর্দৃষ্টি থেকে। তাবারী ইবন ইসহাকের যে ব্যাখ্যা আনেন, তা তৃতীয় মতের দিকে ঝোঁকে: সেই আল্লাহকে স্মরণ করো, যাঁর জন্য তোমরা প্রাণ বিলিয়ে দিয়েছ, আর যে অঙ্গীকার করেছ তা পূরণ করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Hands Are Fullest",
+          "bn": "হাত যখন সবচেয়ে ব্যস্ত"
+        },
+        "p": [
+          {
+            "en": "One saying recurs in three of the tafsirs fetched. At-Tabari gives it with his chain through Sa'id from Qatada, and Ibn Kathir and al-Qurtubi repeat it: Allah made His remembrance obligatory at the time people are most occupied, at the striking of swords. The point is the timing: this worship is placed inside the most absorbing work there is, as though no hour were too full for it.",
+            "bn": "এখানে পাওয়া তিনটি তাফসীরে একটি কথা বারবার এসেছে। তাবারী সনদসহ তা আনেন সাঈদের সূত্রে কাতাদা থেকে, আর ইবন কাসীর ও কুরতুবী তা পুনরায় উল্লেখ করেন: মানুষ যখন সবচেয়ে ব্যস্ত, তরবারির আঘাত চলার সেই সময়েই আল্লাহ তাঁর জিকির ফরজ করেছেন। আসল কথা সময়টা। এই ইবাদতকে বসানো হয়েছে সবচেয়ে মন-কাড়া কাজের ঠিক ভেতরে, যেন কোনো সময়ই এর জন্য বেশি ব্যস্ত নয়।"
+          },
+          {
+            "en": "Al-Qurtubi brings a saying of Muhammad ibn Ka'b al-Qurazi that sets this verse beside 3:41. If anyone were to be excused from remembrance, he said, it would have been Zakariyya (AS), for Allah told him he would not speak to people for three days except by gesture, and yet said: and remember your Lord much. And it would have been the man at war, for Allah says: when you meet a company, stand firm and remember Allah much. Neither was excused.",
+            "bn": "কুরতুবী মুহাম্মাদ ইবন কাব আল-কুরাযীর একটি কথা আনেন, যা এ আয়াতকে ৩:৪১ আয়াতের পাশে দাঁড় করায়। তিনি বলেন, জিকির ছেড়ে দেওয়ার ছাড় কাউকে দেওয়া হলে তা দেওয়া হতো যাকারিয়া (আঃ)-কে। আল্লাহ তাঁকে জানিয়েছিলেন, তিনটি দিন তিনি ইশারা ছাড়া মানুষের সঙ্গে কথা বলতে পারবেন না। তবু বলেছিলেন: আর তোমার রবকে বেশি বেশি স্মরণ করো। ছাড় দেওয়া হতো যুদ্ধের ময়দানের মানুষটিকেও। অথচ আল্লাহ বলছেন: যখন কোনো দলের মুখোমুখি হও, অবিচল থাকো আর আল্লাহকে বেশি বেশি স্মরণ করো। কাউকেই ছাড় দেওয়া হয়নি।"
+          },
+          {
+            "en": "Ibn Kathir then quotes two lines of old Arabic poetry, one of them by 'Antara: I remembered you while the spears were drinking from me and the Indian blades dripped with my blood. Ma'arif al-Qur'an explains why the poets boasted of this. In the heat of battle no one thinks of anyone but himself, so to remember a beloved there was proof of a strong heart. The Qur'an, it says, calls the believers to remember Allah in that very danger, and to do it much.",
+            "bn": "এরপর ইবন কাসীর পুরোনো আরবি কবিতার দুটি চরণ উদ্ধৃত করেন। তার একটি আনতারার: আমি তোমাকে মনে করেছিলাম, যখন বর্শাগুলো আমার রক্ত পান করছিল আর ভারতীয় তরবারি থেকে আমার রক্ত ঝরছিল। কবিরা কেন এ নিয়ে গর্ব করত, মাআরিফুল কুরআন তা ব্যাখ্যা করে। যুদ্ধের উত্তাপে কেউ নিজেকে ছাড়া আর কারও কথা ভাবে না। তাই সেখানে প্রিয়জনকে মনে করা ছিল শক্ত হৃদয়ের প্রমাণ। মাআরিফুল কুরআন বলে, কুরআন ঈমানদারদের ডাকছে ঠিক সেই বিপদের মধ্যেই আল্লাহকে স্মরণ করতে, আর তা-ও বেশি বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aloud, or Under the Breath",
+          "bn": "জোরে, নাকি নিচু স্বরে"
+        },
+        "p": [
+          {
+            "en": "How loud should this remembrance be? Al-Qurtubi rules that it should be quiet, because raising the voice on the battlefield is bad and disliked when one person does it on his own. When it comes from the whole army together at the moment of the charge, he says, it is good, for it weakens the enemy's resolve. He supports the first half with a report in Abu Dawud from Qays ibn 'Ubad, and with a second that Abu Dawud gives as similar.",
+            "bn": "এই জিকির কতটা জোরে হবে? কুরতুবীর মত, তা হবে নিচু স্বরে। কারণ যুদ্ধের ময়দানে কেউ একা গলা চড়ালে তা মন্দ ও অপছন্দনীয়। তবে আক্রমণের মুহূর্তে পুরো বাহিনী যদি একসঙ্গে আওয়াজ তোলে, তিনি বলেন, তা ভালো, কারণ তাতে শত্রুর মনোবল ভেঙে যায়। প্রথম অংশের পক্ষে তিনি আবু দাউদে কায়স ইবন উবাদের একটি বর্ণনা আনেন, আর আরেকটি আনেন, যাকে আবু দাউদ এর অনুরূপ বলে উল্লেখ করেছেন।"
+          },
+          {
+            "en": "Sunan Abu Dawud (2656) reads in full: Narrated Qays ibn Abbad: The Companions of the Prophet (ﷺ), disliked shouting while fighting. This is a report of the Companions' practice, not a saying of the Prophet ﷺ, and Abu Dawud gives it no grading. He follows it (2657) with a line saying that a similar report was transmitted by Abu Burda from his father from the Prophet ﷺ; he gives no wording for it and no grading, so nothing is built on it here.",
+            "bn": "সুনান আবু দাউদে (২৬৫৬) বর্ণনাটি পুরোপুরি এই: কায়স ইবন উবাদ বলেন, নবী ﷺ-এর সাহাবীরা লড়াইয়ের সময় আওয়াজ তোলা অপছন্দ করতেন। এটা সাহাবীদের আমলের বিবরণ, নবী ﷺ-এর নিজের কথা নয়। আবু দাউদ এর কোনো মান উল্লেখ করেননি। এরপর তিনি (২৬৫৭) এক লাইনে জানান, আবু বুরদা তাঁর পিতা থেকে, তিনি নবী ﷺ থেকে এর অনুরূপ বর্ণনা করেছেন। সেটার শব্দ তিনি দেননি, মানও বলেননি। তাই এখানে তার উপর কিছু দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "The question was not settled. Ibn Kathir relays, through Ibn Abi Hatim, the view of 'Ata' that silence and remembrance of Allah became obligatory at the advance; asked whether the fighters then say their remembrance aloud, he answered yes. Al-Qurtubi asks the lone soldier for a quiet remembrance, and 'Ata' answered that it is said aloud. The difference is kept here as it stands. Ma'arif al-Qur'an, for its part, counts the battle cry Allahu akbar as one form of this remembrance.",
+            "bn": "প্রশ্নটার মীমাংসা একভাবে হয়নি। ইবন কাসীর ইবন আবী হাতিমের সূত্রে আতার মত আনেন: অগ্রসর হওয়ার সময় চুপ থাকা আর আল্লাহর জিকির করা ওয়াজিব হয়ে যায়। তাঁকে জিজ্ঞেস করা হয়েছিল, যোদ্ধারা কি তখন জোরে জিকির করবে? তিনি বলেছিলেন, হ্যাঁ। কুরতুবী একা সৈনিকের কাছে চান নিচু স্বরের জিকির, আর আতা বলেছেন জিকির হবে জোরে। মতভেদটা এখানে যেমন আছে তেমনই রাখা হলো। মাআরিফুল কুরআন আবার যুদ্ধের ধ্বনি আল্লাহু আকবারকেও এই জিকিরেরই একটি রূপ বলে গণ্য করে।"
+          },
+          {
+            "en": "Ibn Kathir also relays three reports raised to the Prophet ﷺ: one on silence in battle from 'Abd ar-Razzaq, one on silence at certain moments from at-Tabarani, with an unnamed man in the chain as he gives it, and a report of divine speech on remembering Allah in combat with no collector named. None is confirmed or graded on a page fetched for this verse, so their wording is not used.",
+            "bn": "ইবন কাসীর একই বিষয়ে নবী ﷺ পর্যন্ত পৌঁছানো আরও তিনটি বর্ণনা আনেন। একটি যুদ্ধে চুপ থাকা নিয়ে, আবদুর রাযযাকের সূত্রে। আরেকটি কয়েকটি বিশেষ সময়ে চুপ থাকা নিয়ে, তাবারানীর সূত্রে। ইবন কাসীর যেভাবে সনদ দিয়েছেন, তাতে একজন নামহীন ব্যক্তি আছেন। তৃতীয়টি লড়াইয়ের মধ্যে আল্লাহকে স্মরণ করা নিয়ে আল্লাহর বাণী হিসেবে বর্ণিত, কোনো সংকলকের নাম ছাড়াই। এ আয়াতের জন্য খোঁজা কোনো পাতায় এগুলোর কোনোটি নিশ্চিত হয়নি, মানও পাওয়া যায়নি। তাই এখানে এগুলোর শব্দ ব্যবহার করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sermon Quoted Elsewhere",
+          "bn": "অন্যত্র উদ্ধৃত এক খুতবা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his commentary with a sermon he says is established in the Two Sahihs, from 'Abdullah ibn Abi Awfa (RA): on one of the days he met the enemy, the Messenger of Allah ﷺ waited until the sun had declined and then stood among the people. Its full wording, in al-Bukhari (3024), is quoted at 3:142 and is not repeated here. It sets the hour this verse addresses between two limits: the believer does not wish for that meeting, and when it comes, he is patient.",
+            "bn": "ইবন কাসীর তাঁর তাফসীর শুরু করেন একটি খুতবা দিয়ে, যা তাঁর ভাষায় বুখারী ও মুসলিম দুই সহীহতেই প্রমাণিত, আবদুল্লাহ ইবন আবী আওফা (রাঃ) থেকে। শত্রুর মুখোমুখি হওয়ার এক দিনে রাসূলুল্লাহ ﷺ সূর্য হেলে পড়া পর্যন্ত অপেক্ষা করেন, তারপর লোকদের মাঝে দাঁড়ান। বুখারীতে (৩০২৪) এর পূর্ণ শব্দ ৩:১৪২ আয়াতের আলোচনায় উদ্ধৃত হয়েছে, এখানে আর দোহরানো হলো না। খুতবাটি এ আয়াতের মুহূর্তটিকে দুই সীমার মাঝে রাখে: মুমিন সেই মুখোমুখি হওয়ার কামনা করে না, আর তা এসে পড়লে ধৈর্য ধরে।"
+          },
+          {
+            "en": "Ibn Kathir's report ends with a prayer against the enemy. Al-Bukhari (2933) records a separate report from the same Companion, about the day of al-Ahzab: Allah's Messenger (ﷺ) invoked evil upon the pagans, saying, \"O Allah! The Revealer of the Holy Book, the Swift-Taker of Accounts, O Allah, defeat Al-Ahzab (i.e. the clans), O Allah, defeat them and shake them.\" Its place in al-Bukhari's Sahih is his grading. It was not narrated on this verse, but it shows remembrance as a plea for victory.",
+            "bn": "ইবন কাসীরের বর্ণনা শেষ হয় একটি দোয়া দিয়ে, যা নবী ﷺ এরপর শত্রুর বিরুদ্ধে করেছিলেন। একই সাহাবী থেকে আলাদা একটি বর্ণনা বুখারী (২৯৩৩) সংকলন করেছেন, আহযাবের দিন নিয়ে: রাসূলুল্লাহ ﷺ মুশরিকদের বিরুদ্ধে বদদোয়া করে বলেছিলেন, \"হে আল্লাহ! কিতাব নাযিলকারী, দ্রুত হিসাব গ্রহণকারী! হে আল্লাহ, আহযাবকে (সম্মিলিত দলগুলোকে) পরাজিত করুন। হে আল্লাহ, তাদের পরাজিত করুন আর তাদের কাঁপিয়ে দিন।\" বুখারীর সহীহতে এর স্থান পাওয়াই তাঁর দেওয়া মান। এটি এ আয়াত প্রসঙ্গে বর্ণিত হয়নি। তবে বিজয়ের জন্য দোয়া হিসেবে জিকির কেমন শোনাত, তার একটা নমুনা এতে পাওয়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Much, and Then Success",
+          "bn": "বেশি বেশি, তারপর সাফল্য"
+        },
+        "p": [
+          {
+            "en": "La'allakum tuflihun, that you may succeed. At-Tabari reads it as so that you prevail and win against your enemy, and Allah grants you victory over them. Al-Baghawi reads the la'alla as a stance to hold: be in hope of success. As-Sa'di reads it as reaching what you seek, victory over your enemies, and calls the stand itself a great act of obedience whose outcome is honour and help. He then draws the rule: patience, firmness and much remembrance of Allah are among the greatest causes of victory.",
+            "bn": "লাআল্লাকুম তুফলিহূন, যাতে তোমরা সফল হও। তাবারীর ব্যাখ্যায়, যাতে তোমরা শত্রুর উপর জয়ী হও, আর আল্লাহ তাদের বিরুদ্ধে তোমাদের বিজয় দান করেন। বাগাভী লাআল্লা শব্দটিকে পড়েন এক মনোভাব হিসেবে: সাফল্যের আশায় থাকো। শাইখ সাদীর মতে, অর্থ হলো যা চাইছ তা পেয়ে যাওয়া, অর্থাৎ শত্রুর উপর বিজয়। এই দাঁড়িয়ে থাকাকে তিনি বলেন এক বড় আনুগত্য, যার পরিণাম ইজ্জত আর সাহায্য। তারপর তিনি নিয়মটা টানেন: ধৈর্য, অবিচলতা আর আল্লাহর বেশি বেশি জিকির বিজয়ের সবচেয়ে বড় উপায়গুলোর অন্যতম।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an remarks that no act of worship except remembrance is commanded in the Qur'an with the word kathir, much; it finds no command to pray much or to fast much. Its reason is that dhikr is light. It needs no ablution and no facing of the qibla, it can be done standing, sitting or lying down, and it does not take the hands from the task in front of them.",
+            "bn": "মাআরিফুল কুরআন লক্ষ করে, কুরআনে জিকির ছাড়া আর কোনো ইবাদতের হুকুম কাসীর, অর্থাৎ বেশি, শব্দ দিয়ে দেওয়া হয়নি। বেশি বেশি নামাজ পড়ো বা বেশি বেশি রোজা রাখো, এমন হুকুম সে খুঁজে পায় না। কারণ হিসেবে বলে, জিকির হালকা। এর জন্য অজু লাগে না, কিবলামুখী হতে হয় না। দাঁড়িয়ে, বসে, শুয়ে, যেকোনো অবস্থায় করা যায়, আর সামনের কাজ থেকে হাতও সরাতে হয় না।"
+          },
+          {
+            "en": "The closing words return elsewhere. 62:10 ends with the same clause, but says it to people leaving the Friday prayer to disperse through the land and seek Allah's bounty. 3:200 closes on la'allakum tuflihun after patience, outlasting and standing guard. The same instruction thus reaches the battlefield and the marketplace, two places where people are most fully taken up with something other than Allah, and 33:41 gives the command with no setting at all.",
+            "bn": "আয়াতের শেষ কথাগুলো অন্যত্রও ফিরে আসে। ৬২:১০ আয়াত শেষ হয় হুবহু একই বাক্যে, ওয়াযকুরুল্লাহা কাসীরান লাআল্লাকুম তুফলিহূন। তবে সেখানে কথাটা বলা হয়েছে জুমার নামাজ শেষে যারা জমিনে ছড়িয়ে পড়ে আল্লাহর অনুগ্রহ খোঁজে, তাদের। ৩:২০০ আয়াতও লাআল্লাকুম তুফলিহূন দিয়ে শেষ হয়, ধৈর্য, দৃঢ়তায় টিকে থাকা আর পাহারায় থাকার হুকুমের পর। একই নির্দেশনা তাই পৌঁছে যায় যুদ্ধের ময়দানে আর বাজারে। এ দুটি জায়গাতেই মানুষ আল্লাহ ছাড়া অন্য কিছুতে সবচেয়ে বেশি ডুবে থাকে। আর ৩৩:৪১ আয়াত হুকুমটা দেয় কোনো প্রেক্ষাপট ছাড়াই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Licence for Fighting Now",
+          "bn": "আজকের লড়াইয়ের অনুমতি নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse addresses believers at a meeting of two armies, which every commentator fetched here reads as a force already in the field against them, and the surah around it recalls the Prophet's ﷺ own campaign at Badr. It describes how they were to bear themselves in that hour. It licenses no violence today by any person or group against anyone, and nothing in it can be lifted out of its setting to justify harm to any living person or community.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি সম্বোধন করছে দুই বাহিনীর মুখোমুখি হওয়ার মুহূর্তে থাকা ঈমানদারদের। এখানে পাওয়া প্রত্যেক তাফসীরকার সেই দলকে পড়েছেন এমন বাহিনী হিসেবে, যা আগে থেকেই তাদের বিরুদ্ধে ময়দানে নেমেছে। আর চারপাশের আয়াতগুলো স্মরণ করছে নবী ﷺ-এর নিজের বদর অভিযান। আয়াতটি শুধু জানায়, সেই মুহূর্তে তাদের আচরণ কেমন হওয়ার কথা ছিল। আজ কোনো ব্যক্তি বা দলকে কারও বিরুদ্ধে সহিংসতার কোনো অনুমতি এ আয়াত দেয় না। প্রেক্ষাপট থেকে তুলে এনে কোনো জীবিত মানুষ বা সম্প্রদায়ের ক্ষতির পক্ষে একে দাঁড় করানো যায় না।"
+          },
+          {
+            "en": "What carries over is the pairing. Each of us has hours when everything arrives together, and the instinct is either to leave the ground or to postpone Allah until the pressure has passed. The verse refuses both. It asks a person to hold where they stand, and to fill the hardest hour with remembrance rather than keep it for the quiet hour afterwards. Al-Qurtubi's preferred reading supplies the measure: a tongue that remembers, in agreement with the heart.",
+            "bn": "যা আজও প্রাসঙ্গিক, তা এই জোড়াটা। প্রত্যেকের জীবনে এমন সময় আসে, যখন সবকিছু একসঙ্গে এসে পড়ে। মন তখন চায় হয় জায়গা ছেড়ে সরে যেতে, নয়তো চাপ না কমা পর্যন্ত আল্লাহকে পরে রাখতে। আয়াতটি দুটোই নাকচ করে দেয়। সে বলে, যেখানে আছেন সেখানে অবিচল থাকুন। আর সবচেয়ে কঠিন সময়টাকেই জিকিরে ভরিয়ে দিন, পরের শান্ত সময়ের জন্য তা তুলে রাখবেন না। মাপকাঠিটা দেয় কুরতুবীর পছন্দের ব্যাখ্যা: এমন জিহ্বা, যা স্মরণ করে অন্তরের সঙ্গে মিল রেখে।"
+          }
+        ]
+      }
+    ]
+  },
   "8:46": {
     "sections": [
       {
