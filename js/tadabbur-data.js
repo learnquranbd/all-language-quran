@@ -30903,6 +30903,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are caught in a fault, carry it yourself: throwing it on an innocent person does not lighten it, it adds a slander to the sin.",
     "lessonBn": "দোষে ধরা পড়লে তা নিজেই বহন করুন। নির্দোষ কারও ঘাড়ে চাপালে বোঝা হালকা হয় না, গুনাহর উপর জমা হয় অপবাদের বোঝা।"
+  },
+  "4:170": {
+    "reflectionEn": "The verses before this one close on a hard sentence about those who disbelieve and block the way of Allah. Then the voice turns, and the next words are for everyone: O mankind, the Messenger has come to you with the truth from your Lord. It is an invitation, and it gives its reason before any warning: believe, it is better for you. Only then comes the other road, and even there the verse makes no threat. It simply observes that everything in the heavens and the earth already belongs to Allah. My refusal would cost Him nothing; the whole gain or loss is mine. So the question it leaves me with is not what Allah needs from me, but what I am choosing for myself.",
+    "reflectionBn": "এর আগের আয়াতগুলো শেষ হয়েছে কঠিন এক রায়ে, যারা কুফরী করে আর আল্লাহর পথ আটকে দাঁড়ায় তাদের নিয়ে। তারপর সুর বদলে যায়। পরের কথাগুলো সবার জন্য: হে মানুষ, রসূল তোমাদের রবের কাছ থেকে সত্য নিয়ে তোমাদের কাছে এসেছেন। এ এক দাওয়াত। সতর্ক করার আগেই সে কারণটা বলে দেয়: ঈমান আনো, এতেই তোমাদের কল্যাণ। এরপর আসে অন্য পথের কথা, আর সেখানেও আয়াত কোনো হুমকি দেয় না। শুধু মনে করিয়ে দেয়, আসমান ও জমিনে যা কিছু আছে সবই আগে থেকেই আল্লাহর। আমি মুখ ফিরিয়ে নিলে তাঁর কিছুই কমে না, লাভ-ক্ষতি পুরোটাই আমার। তাই আয়াতটা আমাকে যে প্রশ্নের সামনে দাঁড় করায়, তা এই নয় যে আমার কাছে আল্লাহর কী দরকার। প্রশ্ন হলো, আমি নিজের জন্য কী বেছে নিচ্ছি।",
+    "pointsEn": [
+      "If faith is better for me, which part of my life am I still running as though it were better off without it?",
+      "When I invite someone to the truth, do I begin with what is good for them, or with what they stand to lose?",
+      "Do I ever treat my worship as a favour to Allah, when this verse says He loses nothing if I turn away?",
+      "The truth came 'from your Lord'. Do I hear the Prophet's teaching as addressed to me, or as history about other people?",
+      "What would change this week if I really believed that every loss from disobedience falls on me alone?"
+    ],
+    "pointsBn": [
+      "ঈমান যদি আমার জন্য কল্যাণকর হয়, তবে জীবনের কোন অংশটা আমি এখনো এমনভাবে চালাচ্ছি যেন ঈমান ছাড়াই সেটা ভালো চলে?",
+      "কাউকে সত্যের দিকে ডাকার সময় আমি কি শুরু করি তার কল্যাণের কথা দিয়ে, নাকি সে কী হারাবে সেই কথা দিয়ে?",
+      "আমি কি কখনো নিজের ইবাদতকে আল্লাহর প্রতি অনুগ্রহ ভাবি, অথচ এ আয়াত বলছে আমি মুখ ফেরালে তাঁর কিছুই কমে না?",
+      "সত্য এসেছে 'তোমাদের রবের কাছ থেকে'। নবী ﷺ-এর শিক্ষাকে আমি কি নিজের উদ্দেশে বলা কথা হিসেবে শুনি, নাকি অন্যদের ইতিহাস হিসেবে?",
+      "নাফরমানির প্রতিটি ক্ষতি যে কেবল আমার উপরেই পড়ে, এটা সত্যিই বিশ্বাস করলে এ সপ্তাহে আমার কী বদলাত?"
+    ],
+    "lessonEn": "The Messenger came with the truth to all mankind; believing is for our own good, and Allah, who owns the heavens and the earth, loses nothing if anyone refuses.",
+    "lessonBn": "রসূল সত্য নিয়ে এসেছেন সব মানুষের কাছে। ঈমান আনা আমাদের নিজেদেরই কল্যাণ, আর আসমান-জমিনের মালিক আল্লাহর কিছুই কমে না, কেউ ফিরিয়ে দিলেও।"
   }
 };
 

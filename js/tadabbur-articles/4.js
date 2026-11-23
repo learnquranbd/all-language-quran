@@ -6995,6 +6995,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:170": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Verdict to Invitation",
+          "bn": "রায়ের পরে দাওয়াত"
+        },
+        "p": [
+          {
+            "en": "The passage just before this verse reads like a sentence passed. 4:167 speaks of those who disbelieve and turn people from the way of Allah, and says they have strayed far. 4:168 and 4:169 say of those who disbelieve and do wrong that Allah will not forgive them, nor guide them to any road except the road of Hell, to abide there forever. Then, without a pause, the address widens: ya ayyuha an-nas, O mankind. The surah that has just described the end of the obstinate opens its door again, to anyone who will listen.",
+            "bn": "এ আয়াতের ঠিক আগের অংশটা যেন এক রায় ঘোষণা। ৪:১৬৭ বলে, যারা কুফরী করে আর মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখে, তারা বহুদূর পথ হারিয়েছে। ৪:১৬৮ ও ৪:১৬৯ বলে, যারা কুফরী করে আর জুলুম করে, আল্লাহ তাদের ক্ষমা করবেন না, জাহান্নামের পথ ছাড়া আর কোনো পথও দেখাবেন না, সেখানে তারা চিরকাল থাকবে। তারপর কোনো বিরতি ছাড়াই সম্বোধনটা প্রশস্ত হয়ে যায়: ইয়া আইয়ুহান নাস, হে মানুষ। জেদিদের পরিণতি যে সূরা এইমাত্র শোনাল, সেই সূরাই আবার দরজা খুলে দেয়, শুনতে রাজি যে কারও জন্য।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the turn this way: after answering the objections of the Jews and confirming the prophethood of Muhammad ﷺ, the Qur'an carries Allah's message to all human beings, wherever they may be, as its direct addressees. The surah calls mankind again at 4:174, and between the two calls stands a word to the People of the Scripture that has its own page. Here the subject is the first call: whom it reaches, what it brings, and what it says to whoever refuses.",
+            "bn": "মাআরিফুল কুরআন এই মোড়টা এভাবে পড়ে: ইহুদিদের তোলা আপত্তির জবাব দিয়ে আর মুহাম্মাদ ﷺ-এর নবুওয়াত প্রতিষ্ঠা করে কুরআন এবার আল্লাহর বার্তা নিয়ে যায় সব মানুষের কাছে, তারা যেখানেই থাকুক। তারাই এর সরাসরি শ্রোতা। ৪:১৭৪ আয়াতে সূরাটি আবার মানুষকে ডাকে। দুই ডাকের মাঝখানে কিতাবধারীদের উদ্দেশে একটি কথা আছে, তার আলোচনা আলাদা পাতায়। এখানে বিষয় প্রথম ডাকটি নিজেই: কাদের কাছে তা পৌঁছায়, কী নিয়ে আসে, আর যে ফিরিয়ে দেয় তাকে কী বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Everyone Within Earshot",
+          "bn": "যার কানে পৌঁছায়, তারই জন্য"
+        },
+        "p": [
+          {
+            "en": "Who is meant by an-nas, the people? Al-Qurtubi answers briefly: this is an address to all, khitab lil-kull. At-Tabari, explaining the same words, specifies those he takes the call to be aimed at: the idolaters of the Arabs and every other kind of disbeliever. The two commentators place the emphasis differently. One reads the wording at its full width; the other names the people to whom the command to believe was directed. Both readings stand.",
+            "bn": "আন-নাস, মানুষ, বলতে কারা? কুরতুবীর উত্তর ছোট: এ সম্বোধন সবার প্রতি, খিতাবুন লিল-কুল্ল। তাবারী একই শব্দের ব্যাখ্যায় নির্দিষ্ট করে বলেন কাদের দিকে এ ডাক তাক করা: আরবের মুশরিকরা এবং অন্য সব ধরনের কাফির। দুই মুফাসসিরের জোর দুই জায়গায়। একজন শব্দটাকে পড়েন তার পুরো বিস্তারে। অন্যজন নাম ধরে বলেন, ঈমান আনার আদেশটা কাদের উদ্দেশে। দুটো পাঠই এখানে থাকছে।"
+          },
+          {
+            "en": "Al-Muyassar draws a conclusion from the address: the verse is evidence that the message of Muhammad ﷺ is general, for all people. A sound narration, not attached to this verse, says the same in the Prophet's own words. In Sahih al-Bukhari (335), Jabir ibn 'Abdullah reports that the Prophet ﷺ named five things he was given which no one before him was given. The fifth is this: 'Every Prophet used to be sent to his nation only but I have been sent to all mankind.'",
+            "bn": "মুয়াসসার এই সম্বোধন থেকে একটা সিদ্ধান্ত টানে: আয়াতটি প্রমাণ করে, মুহাম্মাদ ﷺ-এর রিসালাত সাধারণ, সব মানুষের জন্য। একটি সহীহ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, নবী ﷺ-এর নিজের মুখে একই কথা বলে। সহীহ বুখারীতে (৩৩৫) জাবির ইবন আব্দুল্লাহ (রাঃ) বর্ণনা করেন, নবী ﷺ পাঁচটি জিনিসের কথা বলেছেন, যা তাঁকে দেওয়া হয়েছে আর তাঁর আগে কাউকে দেওয়া হয়নি। পঞ্চমটি এই: 'প্রত্যেক নবী প্রেরিত হতেন কেবল নিজের জাতির কাছে, আর আমি প্রেরিত হয়েছি সব মানুষের কাছে।'"
+          },
+          {
+            "en": "Look at how the call is built. The verses just before it spoke of disbelief, yet this verse does not open with 'O you who disbelieve'. It says O mankind, and a few words later it says rabbikum, your Lord. The listener who has not yet believed is still told whose servant he is. The truth is not handed to him by a stranger. It comes, the verse says, from his own Lord, and the Sender is named before anything is asked of him.",
+            "bn": "ডাকটা কীভাবে গড়া, খেয়াল করুন। ঠিক আগের আয়াতগুলো ছিল কুফরী নিয়ে, তবু এ আয়াত 'হে কাফিররা' বলে শুরু হয় না। বলে, হে মানুষ। আর কয়েক শব্দ পরেই বলে রব্বিকুম, তোমাদের রব। যে এখনো ঈমান আনেনি, তাকেও জানিয়ে দেওয়া হয় সে কার বান্দা। সত্যটা তার হাতে তুলে দিচ্ছে না কোনো অচেনা কেউ। আয়াত বলছে, তা এসেছে তার নিজের রবের কাছ থেকে। তার কাছে কিছু চাওয়ার আগেই প্রেরকের নাম বলা হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What He Brought, and How",
+          "bn": "তিনি কী আনলেন, কীভাবে"
+        },
+        "p": [
+          {
+            "en": "Qad ja'akum ar-rasulu bil-haqq: the Messenger has come to you with the truth. The commentators agree that the Messenger is Muhammad ﷺ; what al-haqq names is where they vary. Al-Qurtubi first says the Qur'an, then gives others' readings: the true religion, or the testimony that there is no god but Allah. He adds a note on the letter bi: it can be read so that the meaning is 'he came to you, and the truth with him', the phrase then describing his state as he arrived. At-Tabari reads al-haqq as Islam, the religion Allah approved for His servants.",
+            "bn": "কাদ জাআকুমুর রাসূলু বিল-হাক্ক: রসূল তোমাদের কাছে সত্য নিয়ে এসেছেন। রসূল বলতে যে মুহাম্মাদ ﷺ, তাতে মুফাসসিরগণ একমত। ভিন্নতা আল-হাক্ক শব্দ নিয়ে। কুরতুবী প্রথমে বলেন, এর অর্থ কুরআন। তারপর অন্যদের মত আনেন: সত্য দ্বীন, অথবা লা ইলাহা ইল্লাল্লাহর সাক্ষ্য। সঙ্গে 'বি' হরফটি নিয়ে একটা কথাও যোগ করেন। একে এভাবে পড়া যায় যে অর্থ দাঁড়ায়: তিনি তোমাদের কাছে এলেন, আর সত্য তাঁর সঙ্গে। তখন কথাটা তাঁর আগমনের অবস্থা বর্ণনা করে। তাবারী আল-হাক্ক পড়েন ইসলাম অর্থে, যে দ্বীন আল্লাহ তাঁর বান্দাদের জন্য পছন্দ করেছেন।"
+          },
+          {
+            "en": "Ibn Kathir gathers several of these into one line: Muhammad ﷺ has come with guidance, the religion of truth and a clear, sufficient explanation from Allah, so believe in what he brought and follow him. At-Tabari explains min rabbikum simply as min 'indi rabbikum, from your Lord's presence. The weight of the phrase falls there. The truth is not the Messenger's private opinion, and it is not put to a vote. Its source is named in the same breath as its bearer.",
+            "bn": "ইবন কাসীর কয়েকটি অর্থ এক বাক্যে জড়ো করেন: মুহাম্মাদ ﷺ এসেছেন হেদায়েত, সত্য দ্বীন আর আল্লাহর পক্ষ থেকে যথেষ্ট স্পষ্ট বিবরণ নিয়ে, তাই তিনি যা এনেছেন তাতে ঈমান আনো আর তাঁকে অনুসরণ করো। তাবারী মিন রব্বিকুম-এর ব্যাখ্যা দেন সোজাসুজি: মিন ইন্দি রব্বিকুম, তোমাদের রবের কাছ থেকে। বাক্যের ভার এখানেই। এ সত্য রসূলের ব্যক্তিগত মত নয়, ভোটে তোলার জিনিসও নয়। যিনি বহন করে এনেছেন তাঁর নামের সঙ্গে একই নিঃশ্বাসে উৎসের নামও এসেছে।"
+          },
+          {
+            "en": "As-Sa'di finds in bil-haqq the reason the verse gives for believing: the Messenger's coming is truth, and what he brought is truth. To leave people wandering in ignorance, cut off from the message, does not befit Allah's wisdom and mercy, he says, so the very sending of a messenger is from that mercy. He points to the Shari'a's reports of the unseen and its command of every good and ban on every evil, then adds: the more insight a servant gains in it, the more his faith and certainty grow.",
+            "bn": "সা'দী বিল-হাক্ক শব্দে খুঁজে পান ঈমান আনার সেই কারণ, যা আয়াত নিজেই দিয়েছে। রসূলের আগমন সত্য, আর তিনি যা এনেছেন তাও সত্য। তাঁর কথা, রিসালাত থেকে বিচ্ছিন্ন রেখে মানুষকে অজ্ঞতার মধ্যে দিশেহারা ফেলে রাখা আল্লাহর হিকমত ও রহমতের সঙ্গে মানায় না। তাই রসূল পাঠানোটাই সেই রহমত থেকে আসা। তিনি দেখান, এ শরীয়তে গায়েবের খবর আছে, আছে সব ভালোর আদেশ আর সব মন্দের নিষেধ। তারপর বলেন, বান্দা এতে যত অন্তর্দৃষ্টি পায়, তার ঈমান ও ইয়াকীন তত বাড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Readings of Khayran",
+          "bn": "খাইরান-এর তিন ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Then comes fa-aminu khayran lakum: so believe, better for you. Khayran is in the accusative, and nothing in the sentence plainly governs it, so the grammarians differed over why. Al-Qurtubi names three positions. In the view of Sibawayh something is left unsaid: believe, and bring about what is better for you. On the view of al-Farra, khayran describes an omitted noun of the verb: believe with a faith that is better for you. On the view of Abu 'Ubayda: believe, and it will be better for you.",
+            "bn": "তারপর আসে ফাআমিনূ খাইরাল লাকুম: সুতরাং ঈমান আনো, তোমাদের জন্য কল্যাণকর। খাইরান শব্দের শেষে যবর, অথচ বাক্যে স্পষ্ট এমন কিছু নেই যা তাকে যবর দেয়। কেন, তা নিয়ে আরবি ভাষাবিদদের মতভেদ হয়েছে। কুরতুবী তিনটি মত উল্লেখ করেন। সিবাওয়াইহের মতে এখানে একটা কথা উহ্য: ঈমান আনো, আর যা তোমাদের জন্য ভালো তা করো। ফাররার মতে খাইরান আসলে না-বলা 'ঈমান' শব্দের গুণ: এমন ঈমান আনো যা তোমাদের জন্য ভালো। আবু উবাইদার মতে: ঈমান আনো, তাহলে তা তোমাদের জন্য ভালো হবে।"
+          },
+          {
+            "en": "Al-Baghawi supplies the same kind of hidden verb as the third view, without naming anyone: believe, and faith will be better for you. At-Tabari reports the debate at length but names no one; he speaks of some grammarians of Kufa and some of Basra. One Kufan holds that the sentence is complete at 'believe', and the Arabs then attach khayran in the accusative, as in ittaqi Allaha khayran lak, fear Allah, better for you. Where the sentence is incomplete, the word can only be nominative, as in wa an tasbiru khayrun lakum, 'and to be patient is better for you' (4:25).",
+            "bn": "বাগাভী তৃতীয় মতের মতোই একটা উহ্য ক্রিয়া ধরে নেন, কারও নাম না নিয়ে: ঈমান আনো, তাহলে ঈমান তোমাদের জন্য ভালো হবে। তাবারী বিতর্কটা বিস্তারিত তুলে ধরেন, কিন্তু কারও নাম বলেন না। তিনি শুধু কুফার কিছু ব্যাকরণবিদ আর বসরার কিছু ব্যাকরণবিদের কথা বলেন। কুফার একজনের মতে 'ঈমান আনো' বলার সঙ্গেই বাক্য পূর্ণ, তারপর আরবরা যবর দিয়ে খাইরান জুড়ে দেয়, যেমন ইত্তাকিল্লাহা খাইরাল লাক, আল্লাহকে ভয় করো, তোমার জন্য ভালো। বাক্য অপূর্ণ থাকলে শব্দটি পেশ ছাড়া আসে না, যেমন ওয়া আন তাসবিরূ খাইরুল লাকুম, 'আর ধৈর্য ধরা তোমাদের জন্য ভালো' (৪:২৫)।"
+          },
+          {
+            "en": "Another Kufan says the original was 'believe, it is better for you', and when the pronoun 'it', standing for the believing, dropped away, khayran fell into the accusative. He rejects the hidden 'it will be' outright, arguing from usage: you may say 'fear Allah and you will be doing good', but not 'fear Allah, doing good' with that verb left out. So the very estimate al-Baghawi and Abu 'Ubayda adopt is refused by this Kufan. At-Tabari leaves the positions standing side by side, and so does this page.",
+            "bn": "কুফার আরেকজন বলেন, মূল কথা ছিল 'ঈমান আনো, তা তোমাদের জন্য ভালো'। 'তা' সর্বনামটি, যা ঈমান আনাকে বোঝায়, বাদ পড়ে যাওয়ায় খাইরান যবর পেয়েছে। উহ্য 'হবে' ক্রিয়াটি তিনি সরাসরি নাকচ করেন, আরবদের ব্যবহার দেখিয়ে: 'আল্লাহকে ভয় করো, তুমি সৎকর্মশীল হবে' বলা যায়, কিন্তু সেই ক্রিয়া উহ্য রেখে 'আল্লাহকে ভয় করো, সৎকর্মশীল' বলা যায় না। অর্থাৎ বাগাভী ও আবু উবাইদা যে ব্যাখ্যা নেন, কুফার এই ব্যাকরণবিদ ঠিক সেটাই মানেন না। তাবারী মতগুলো পাশাপাশি রেখে দেন, এ পাতাও তা-ই করছে।"
+          },
+          {
+            "en": "A Basran view he reports makes the command itself the key. In telling them 'believe', He commanded them to what is better for them, as if He had said, do what is better for you. This happens, that grammarian says, only with commands and prohibitions, because a command moves the hearer out of one thing and into another. The same construction returns a verse later in intahu khayran lakum. Whichever estimate one prefers, every one of them points the word 'better' at the listener. The good named here is the hearer's own.",
+            "bn": "বসরার এক ব্যাকরণবিদের মতও তিনি আনেন, যেখানে আদেশটাই মূল চাবি। 'ঈমান আনো' বলে তিনি তাদের এমন কিছুর আদেশ দিলেন যা তাদের জন্য ভালো, যেন বললেন: তোমাদের জন্য যা ভালো তা করো। সেই ব্যাকরণবিদের মতে এমনটা হয় কেবল আদেশ ও নিষেধে, কারণ আদেশ শ্রোতাকে এক অবস্থা থেকে বের করে আরেক অবস্থায় ঢোকায়। এক আয়াত পরে ইনতাহূ খাইরাল লাকুম কথায় একই গঠন ফিরে আসে। যে ব্যাখ্যাই নেওয়া হোক, 'ভালো' কথাটা তাক করা শ্রোতার দিকেই। এখানে যে কল্যাণের কথা, তা শ্রোতার নিজের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owner of Heavens, Needing None",
+          "bn": "আসমান-জমিনের মালিক, অমুখাপেক্ষী"
+        },
+        "p": [
+          {
+            "en": "Wa in takfuru: and if you disbelieve. The verse does not finish this sentence with a threat. It finishes it with a fact: to Allah belongs whatever is in the heavens and the earth. At-Tabari draws out what the fact means here. Your denial will harm no one but you, and its harm returns on you alone. Everything in the heavens and the earth is His, as dominion and as creation, and neither your disbelief nor your disobedience in whatever you disobey takes anything away from His dominion and authority.",
+            "bn": "ওয়া ইন তাকফুরূ: আর যদি তোমরা কুফরী করো। আয়াত এ বাক্য হুমকি দিয়ে শেষ করে না, শেষ করে একটি সত্য দিয়ে: আসমান ও জমিনে যা কিছু আছে সব আল্লাহর। এখানে সে সত্যের অর্থ কী, তাবারী তা খুলে বলেন। তোমাদের অস্বীকার তোমরা ছাড়া আর কারও ক্ষতি করবে না, তার কুফল তোমাদের উপরেই ফিরবে। আসমান ও জমিনের সবকিছু তাঁর, মালিকানায়ও, সৃষ্টিতেও। তোমাদের কুফরী, আর যেসব বিষয়ে তোমরা তাঁর নাফরমানি করো তা, তাঁর রাজত্ব ও ক্ষমতা থেকে এতটুকুও কমায় না।"
+          },
+          {
+            "en": "Ibn Kathir says it in fewer words: He is free of need of you and of your faith, and He is not harmed by your disbelief. He sets beside it the words of Musa (AS) in 14:8: if you disbelieve, you and everyone on earth together, then Allah is Free of need, Praiseworthy. As-Sa'di puts the point from the servant's side. The servant harms no one but himself; Allah is rich beyond him, and the disobedience of the disobedient does not harm Him. All of it is His creation and His property, under His management and control.",
+            "bn": "ইবন কাসীর একই কথা বলেন আরও অল্প কথায়: তিনি তোমাদের থেকে আর তোমাদের ঈমান থেকে অমুখাপেক্ষী, তোমাদের কুফরীতে তাঁর কোনো ক্ষতি হয় না। পাশে রাখেন ১৪:৮ আয়াতে মূসা (আঃ)-এর কথা: তোমরা আর পৃথিবীর সবাই মিলে যদি কুফরী করো, তবু আল্লাহ অমুখাপেক্ষী, প্রশংসিত। সা'দী কথাটা বলেন বান্দার দিক থেকে। বান্দা নিজের ছাড়া আর কারও ক্ষতি করে না। আল্লাহ তার থেকে অমুখাপেক্ষী, নাফরমানদের নাফরমানি তাঁর কোনো ক্ষতি করে না। সবকিছু তাঁর সৃষ্টি, তাঁর মালিকানা, তাঁরই পরিচালনা ও নিয়ন্ত্রণের অধীন।"
+          },
+          {
+            "en": "Al-Muyassar adds a turn the others do not make. The heavens and the earth have already yielded to Allah by His creating and decreeing. It is more fitting, then, that you believe in Allah, His Messenger and the Qur'an, and yield in law as well, so that all creation submits to Allah in decree and in law. Read this way, the clause is an argument as well as a statement of power: the rest of creation already obeys, and the hearer is invited to join it.",
+            "bn": "মুয়াসসার এমন একটা দিক যোগ করে, যা অন্যরা বলেননি। আসমান ও জমিন তো আল্লাহর সৃষ্টি ও তাকদীরের কাছে আগেই নত হয়ে আছে। তাহলে তোমাদের জন্য আরও মানানসই হলো আল্লাহ, তাঁর রসূল আর কুরআনের উপর ঈমান আনা, আর শরীয়তের দিক থেকেও তার কাছে নিজেকে সঁপে দেওয়া। তখন গোটা সৃষ্টি আল্লাহর কাছে নত হবে তাকদীরেও, শরীয়তেও। এ পাঠে বাক্যটি শুধু ক্ষমতার ঘোষণা নয়, একটা যুক্তিও। বাকি সৃষ্টি আগে থেকেই মেনে চলছে, আর শ্রোতাকে ডাকা হচ্ছে তাদের সঙ্গে শামিল হতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Lost from His Kingdom",
+          "bn": "তাঁর রাজত্বে কিছুই কমে না"
+        },
+        "p": [
+          {
+            "en": "A sound narration, not attached to this verse, gives the same truth as divine speech. Sahih Muslim (2577) records from Abu Dharr that the Prophet ﷺ reported Allah as saying: 'O My servants, you will not attain harming Me so as to harm Me, and will not attain benefitting Me so as to benefit Me.' Near its end it says: 'So let him who finds good, praise Allah, and let him who finds other than that blame no one but himself.' That is where at-Tabari's comment landed: the harm of refusal returns on the one who refuses.",
+            "bn": "একটি সহীহ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, একই সত্য জানায় আল্লাহর বাণী হিসেবে। সহীহ মুসলিম (২৫৭৭) আবু যার (রাঃ) থেকে বর্ণনা করে, নবী ﷺ আল্লাহর এ কথা জানিয়েছেন: 'হে আমার বান্দারা, তোমরা কখনো আমার ক্ষতি করার পর্যায়ে পৌঁছাতে পারবে না যে আমার ক্ষতি করবে, আর কখনো আমার উপকার করার পর্যায়ে পৌঁছাতে পারবে না যে আমার উপকার করবে।' শেষের দিকে আছে: 'কাজেই যে কল্যাণ পায় সে যেন আল্লাহর প্রশংসা করে, আর যে অন্য কিছু পায় সে যেন নিজেকে ছাড়া আর কাউকে দোষ না দেয়।' তাবারীর ব্যাখ্যাও এখানেই এসে থেমেছিল: অস্বীকারের ক্ষতি ফিরে আসে অস্বীকারকারীর উপরেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Closing Pair of Names",
+          "bn": "শেষের দুই নাম"
+        },
+        "p": [
+          {
+            "en": "The verse ends wa kana Allahu 'aliman hakima: and Allah is ever Knowing, Wise. Ibn Kathir reads both names against the choice just set out: He knows who deserves guidance and guides him, and who deserves deviation and leads him to it, and He is wise in His words, acts, law and decree. As-Sa'di is close: Knowing of everything, Wise in His creation and command, setting guidance and straying each in its proper place. At-Tabari ties 'Knowing' to the listeners: He knew what they would come to, obedience or disobedience, when He commanded and forbade them.",
+            "bn": "আয়াতের শেষ: ওয়া কানাল্লাহু আলীমান হাকীমা, আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়। ইবন কাসীর দুটি নামকেই পড়েন এইমাত্র সামনে রাখা বাছাইয়ের আলোয়। কে হেদায়েতের যোগ্য, তিনি জানেন এবং তাকে হেদায়েত দেন। কে বিপথের যোগ্য, তাও জানেন এবং তাকে সেদিকেই নিয়ে যান। আর তিনি প্রজ্ঞাময় তাঁর কথায়, কাজে, শরীয়তে ও তাকদীরে। সা'দীর কথাও কাছাকাছি: তিনি সবকিছু জানেন, সৃষ্টি ও আদেশে প্রজ্ঞাময়, হেদায়েত ও পথভ্রষ্টতা প্রত্যেকটাকে রাখেন তার যথাস্থানে। তাবারী 'সর্বজ্ঞ' নামটিকে যুক্ত করেন শ্রোতাদের সঙ্গে: আদেশ-নিষেধ দেওয়ার সময়ই তিনি জানতেন তারা কোন দিকে যাবে, আনুগত্যে না নাফরমানিতে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a warning from the pair. Let those who disbelieve be certain that Allah knows everything about their believing and disbelieving, and let no delay or lightening of punishment in this world mislead them, for He is All-Wise and does what His wisdom allows to prevail. The two names close two doors of self-deception. No one can say the choice went unseen, and no one can read Allah's patience as approval.",
+            "bn": "মাআরিফুল কুরআন এই জোড়া নাম থেকে একটা সতর্কবার্তা টানে। যারা কুফরী করে, তারা যেন নিশ্চিত জানে, তাদের ঈমান আনা বা না আনার সবকিছু আল্লাহ জানেন। দুনিয়ায় শাস্তি দেরিতে আসা বা হালকা হওয়া যেন তাদের ভুল পথে না নেয়, কারণ তিনি প্রজ্ঞাময়, তাঁর প্রজ্ঞা যা চায় তা-ই তিনি কার্যকর করেন। দুই নাম আত্মপ্রবঞ্চনার দুটি দরজা বন্ধ করে দেয়। কেউ বলতে পারবে না তার বাছাই কারও চোখে পড়েনি। আর আল্লাহর ধৈর্যকে কেউ তাঁর সম্মতি ভাবতে পারবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading the Call Rightly",
+          "bn": "ডাকটা ঠিকভাবে শোনা"
+        },
+        "p": [
+          {
+            "en": "Two things should be said plainly. None of the commentaries fetched for this verse attaches an occasion of revelation or a sound hadith to it; its place after 4:169 is the context they give. And the condemnation in the verses before it describes what the text describes. It licenses nothing against any living person or community. The verse itself shows the manner: it calls mankind, names Allah as their Lord, gives the reason before the warning, and leaves the reckoning with Him who is Knowing and Wise.",
+            "bn": "দুটি কথা সোজাসুজি বলা দরকার। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো শানে নুযূল বা সহীহ হাদীস যুক্ত করেনি। ৪:১৬৯-এর পরে এর অবস্থানই তাঁদের দেওয়া প্রেক্ষাপট। আর আগের আয়াতগুলোর নিন্দা কেবল পাঠে যা আছে তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে তা কোনো কিছুর অনুমতি দেয় না। আয়াত নিজেই পথটা দেখায়: মানুষকে ডাকে, আল্লাহকে তাদের রব বলে পরিচয় দেয়, সতর্ক করার আগে কারণ জানায়, আর হিসাব ছেড়ে দেয় সর্বজ্ঞ, প্রজ্ঞাময়ের হাতে।"
+          },
+          {
+            "en": "For the believer the verse is not finished business. As-Sa'di counts the fruits of faith: help, guidance, knowledge, righteous deeds, joy, and Paradise with all its bliss, all caused by faith, just as misery in this world and the next comes from its absence or its deficiency. Its deficiency, he says, and not only its absence. Khayran lakum therefore also reaches whoever already believes, yet runs some corner of life as though it were better kept outside faith.",
+            "bn": "মুমিনের জন্যও এ আয়াত পুরোনো কোনো অধ্যায় নয়। সা'দী ঈমানের ফলগুলো গুনেছেন: সাহায্য, হেদায়েত, ইলম, নেক আমল, আনন্দ-খুশি, আর জান্নাত ও তার সব নিয়ামত। এ সবকিছুর কারণ ঈমান। তেমনি দুনিয়া ও আখিরাতের দুর্ভোগ আসে ঈমান না থাকা থেকে, অথবা ঈমানের ঘাটতি থেকে। লক্ষ করুন, শুধু না থাকা নয়, ঘাটতিও। তাই খাইরাল লাকুম কথাটা তার কাছেও পৌঁছায়, যে ঈমান এনেছে, অথচ জীবনের কোনো কোণ এমনভাবে চালায় যেন সেখানে ঈমানকে বাইরে রাখাই ভালো।"
+          }
+        ]
+      }
+    ]
+  },
   "4:171": {
     "sections": [
       {
