@@ -5803,6 +5803,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:104": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Summary, Then the Scene",
+          "bn": "সংক্ষেপের পর বিস্তার"
+        },
+        "p": [
+          {
+            "en": "Verse 7:103 announces the whole episode in a single sentence: then We sent after them Musa with Our signs to Pharaoh and his chiefs, and they wronged them, so see how the corrupters ended. At-Tabari and Ibn Kathir, commenting there, both read after them as after the messengers this surah has already named, Nuh, Hud, Salih, Lut and Shu'ayb. Ibn Kathir adds who Pharaoh is in this account: the king of Egypt in the time of Musa (AS). The surah turns from ruined towns to one king's court.",
+            "bn": "৭:১০৩ আয়াত পুরো ঘটনাটা এক বাক্যে জানিয়ে দেয়: তারপর তাদের পরে আমি মূসাকে আমার নিদর্শনসহ ফেরাউন ও তার প্রধানদের কাছে পাঠালাম, কিন্তু তারা সেগুলোর প্রতি অন্যায় করল, তাই দেখো বিপর্যয় সৃষ্টিকারীদের পরিণতি কী হয়েছিল। ওই আয়াতের আলোচনায় তাবারী ও ইবনু কাসীর দুজনেই বলেন, তাদের পরে মানে এই সূরা আগে যে রাসূলদের কথা বলেছে তাঁদের পরে: নূহ, হূদ, সালিহ, লূত ও শুআইব। ইবনু কাসীর জানিয়ে দেন এই বিবরণে ফেরাউন কে। সে মূসা (আঃ)-এর যুগে মিসরের রাজা। ধ্বংস হয়ে যাওয়া জনপদগুলো পেরিয়ে সূরা এবার এসে দাঁড়ায় একজন রাজার দরবারে।"
+          },
+          {
+            "en": "As-Sa'di names the relation between the two verses. The previous one, he says, is a summary, and Allah sets out its detail with this one: and Musa said, when he came to Pharaoh calling him to faith. Al-Baghawi marks the same moment in a few words, when he entered upon Pharaoh. So 7:104 is the first sentence of the detail, eight words of Arabic, and everything that follows hangs on it: the sign demanded in 7:106, the staff and the hand, and the magicians summoned from the cities.",
+            "bn": "দুই আয়াতের সম্পর্কটা শাইখ সাদী নাম ধরে বলে দেন। তাঁর ভাষায়, আগের আয়াতটি সংক্ষেপ, আর এই আয়াত দিয়ে আল্লাহ তার বিস্তারিত বিবরণ শুরু করেন: আর মূসা বললেন, যখন তিনি ফেরাউনকে ঈমানের দাওয়াত দিতে তার কাছে এলেন। বাগাভী একই মুহূর্তকে চিহ্নিত করেন অল্প কথায়: যখন তিনি ফেরাউনের কাছে প্রবেশ করলেন। তাহলে ৭:১০৪ হলো বিস্তারিত বিবরণের প্রথম বাক্য, আরবিতে মাত্র আটটি শব্দ। পরে যা কিছু আসে, সবই এর উপর দাঁড়িয়ে। ৭:১০৬ আয়াতে নিদর্শনের দাবি, লাঠি আর হাত, শহরে শহরে লোক পাঠিয়ে জড়ো করা যাদুকরেরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "O Pharaoh, Not O My People",
+          "bn": "হে ফেরাউন, হে আমার কওম নয়"
+        },
+        "p": [
+          {
+            "en": "This surah has put almost the same words in a messenger's mouth twice before. Nuh says in 7:61, O my people, there is no error in me, but I am a messenger from the Lord of the worlds, and Hud in 7:67 says the same with foolishness in place of error. In both places the sentence is a reply. The chiefs of each man's people have just called him misguided or foolish (7:60, 7:66), and he answers by pointing past himself to his Sender.",
+            "bn": "এই সূরায় এর আগেও দুবার একজন রাসূলের মুখে প্রায় হুবহু এই কথা এসেছে। ৭:৬১ আয়াতে নূহ (আঃ) বলেন, হে আমার কওম, আমার মধ্যে কোনো বিভ্রান্তি নেই, বরং আমি বিশ্বজগতের প্রতিপালকের পক্ষ থেকে রাসূল। ৭:৬৭ আয়াতে হূদ (আঃ)-ও একই কথা বলেন, শুধু বিভ্রান্তির জায়গায় নির্বুদ্ধিতা। দুই জায়গাতেই বাক্যটা আসে জবাব হিসেবে। প্রত্যেকের কওমের প্রধানরা সবে তাঁকে পথভ্রষ্ট বা নির্বোধ বলেছে (৭:৬০, ৭:৬৬)। তিনি জবাবে নিজেকে ছাড়িয়ে আঙুল তোলেন তাঁর প্রেরকের দিকে।"
+          },
+          {
+            "en": "Musa says it before any charge has been made, and he speaks not to a people but to one man, ya Fir'awn. No fetched commentator remarks on this contrast, so it is offered only as the wording laid side by side. Ibn Kathir does name the kind of exchange that begins here: a munazara, a debate, in which Musa silences Pharaoh with proof. The Muyassar describes Musa as muhawiran muballighan, speaking in dialogue while delivering a message. Both words describe two parties talking, with a message carried inside an argument.",
+            "bn": "মূসা (আঃ) কথাটা বলেন কোনো অভিযোগ ওঠার আগেই। আর তিনি কথা বলেন কোনো কওমের সঙ্গে নয়, একজন মানুষের সঙ্গে: ইয়া ফিরআউন, হে ফেরাউন। পড়া কোনো তাফসীর এই পার্থক্য নিয়ে কিছু বলেনি, তাই এটা শুধু শব্দগুলো পাশাপাশি রেখে দেখা। তবে এখানে যে কথোপকথন শুরু হলো, তার ধরন ইবনু কাসীর বলে দেন। তিনি একে বলেন মুনাযারা, অর্থাৎ বিতর্ক, যেখানে মূসা প্রমাণ দিয়ে ফেরাউনের মুখ বন্ধ করে দেন। মুয়াসসার মূসার অবস্থা বোঝাতে বলে মুহাউইরান মুবাল্লিগান: আলাপ করছেন, আর সেই আলাপের ভেতর দিয়েই বার্তা পৌঁছে দিচ্ছেন। দুটো শব্দেই দুই পক্ষের কথাবার্তার ছবি, যুক্তির ভেতরে বয়ে আনা একটি বার্তা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Creator, King, Arranger",
+          "bn": "স্রষ্টা, মালিক, পরিচালনাকারী"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir glosses the title in one line, with Musa as the speaker: the One who sent me is the Creator of everything, its Lord and its King, khaliq kulli shay'in wa rabbuhu wa malikuhu. The abridged English Ibn Kathir carries the same gloss. His stress falls on making and owning, and the word everything leaves nothing outside it, Pharaoh's throne included. The Muyassar leans another way: a messenger from Allah, Creator of all creation, the mudabbir of their states and of where they end, the One who manages how they live and where they arrive.",
+            "bn": "ইবনু কাসীর উপাধিটার ব্যাখ্যা দেন এক লাইনে, মূসার মুখের কথা হিসেবে: যিনি আমাকে পাঠিয়েছেন, তিনি সবকিছুর স্রষ্টা, সবকিছুর রব, সবকিছুর মালিক। খালিকু কুল্লি শাইয়িন ওয়া রাব্বুহু ওয়া মালীকুহু। ইবনু কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও একই ব্যাখ্যা। তাঁর জোর সৃষ্টি আর মালিকানার উপর। আর সবকিছু শব্দটা বাইরে কিছুই রাখে না, ফেরাউনের সিংহাসনও না। মুয়াসসার ঝোঁকে অন্য দিকে। তার ভাষায় মূসা আল্লাহর রাসূল, যিনি সব সৃষ্টির স্রষ্টা, আর তাদের অবস্থা ও শেষ পরিণতির মুদাব্বির। অর্থাৎ তারা কীভাবে বাঁচে আর কোথায় গিয়ে পৌঁছায়, সবই তিনি পরিচালনা করেন।"
+          },
+          {
+            "en": "As-Sa'di reads the phrase most fully. I am a messenger from a great Sender, he has Musa say, the Lord of the worlds, which takes in the upper world and the lower, the One who nurtures all His creation with kinds of divine arrangement. And among those arrangements, he adds, is that He does not leave them suda, neglected and without purpose, but sends them messengers bringing good news and warning. In his reading the title is already an argument for the mission: a Lord who raises His creation sends someone to it.",
+            "bn": "সবচেয়ে বিস্তারিত পড়েছেন শাইখ সাদী। তাঁর ভাষায় মূসা বলছেন, আমি এক মহান প্রেরকের রাসূল। তিনি বিশ্বজগতের রব, যা ঊর্ধ্বজগৎ ও নিম্নজগৎ দুটোকেই শামিল করে। তিনি তাঁর সব সৃষ্টিকে লালন করেন নানা রকম ঐশী ব্যবস্থার মধ্য দিয়ে। সাদী যোগ করেন, সেই ব্যবস্থার একটি হলো, তিনি তাদের সুদা, অর্থাৎ অবহেলায় ও উদ্দেশ্যহীন অবস্থায় ফেলে রাখেন না। বরং তাদের কাছে রাসূল পাঠান সুসংবাদদাতা ও সতর্ককারী হিসেবে। তাঁর পাঠে উপাধিটাই রিসালাতের পক্ষে যুক্তি হয়ে দাঁড়ায়। যে রব নিজের সৃষ্টিকে লালন করেন, তিনি তার কাছে কাউকে পাঠাবেন, এটাই স্বাভাবিক।"
+          },
+          {
+            "en": "At-Tabari's entry restates the verse and adds nothing: Musa said to Pharaoh, O Pharaoh, I am a messenger from the Lord of the worlds. Al-Qurtubi's slot for 7:104 is empty, and his comments on 7:103 and 7:105 do not touch this verse's wording. So the readings above are not in dispute; they differ in emphasis. Ibn Kathir stresses creation and kingship, the Muyassar management and final outcome, and as-Sa'di care, with the sending of messengers counted as part of that care.",
+            "bn": "তাবারীর আলোচনা আয়াতটা আবার বলে, নতুন কিছু যোগ করে না: মূসা ফেরাউনকে বললেন, হে ফেরাউন, আমি বিশ্বজগতের প্রতিপালকের পক্ষ থেকে রাসূল। কুরতুবীর তাফসীরে ৭:১০৪ আয়াতের জায়গা খালি। ৭:১০৩ ও ৭:১০৫ আয়াতে তাঁর যে আলোচনা, তাও এ আয়াতের শব্দ পর্যন্ত পৌঁছায় না। কাজেই ওপরের ব্যাখ্যাগুলোর মধ্যে বিরোধ নেই, পার্থক্য কেবল জোরের জায়গায়। ইবনু কাসীরের জোর সৃষ্টি আর রাজত্বে, মুয়াসসারের জোর পরিচালনা আর শেষ পরিণতিতে। আর সাদীর জোর লালন-পালনে, যার অংশ হিসেবেই তিনি রাসূল পাঠানোকে গণ্য করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Claim No One Dares Forge",
+          "bn": "যে দাবি বানানোর দুঃসাহস নেই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends his comment with a clause that turns the title into a safeguard. The Lord of the worlds, he says, is the One against whom no one is able to be so bold as to claim that He sent him when He did not. A man may say many things before a king. This claim stakes everything on the Sender, and Musa makes it in his first sentence. Ma'arif al-Qur'an approaches it from the other side: his miracles, it says, are a clear proof supporting his claim to prophethood.",
+            "bn": "শাইখ সাদী তাঁর আলোচনা শেষ করেন এমন একটি বাক্যে, যা উপাধিটাকে এক রক্ষাকবচ বানিয়ে দেয়। তিনি বলেন, বিশ্বজগতের রব এমন সত্তা, যাঁর বিরুদ্ধে কেউ এতটা দুঃসাহস দেখাতে পারে না যে তিনি পাঠাননি অথচ সে দাবি করবে তিনিই তাকে পাঠিয়েছেন। রাজার সামনে মানুষ অনেক কথাই বলতে পারে। কিন্তু এই দাবি পুরো ভার রাখে প্রেরকের উপর, আর মূসা (আঃ) তা বলেন তাঁর প্রথম বাক্যেই। মাআরিফুল কুরআন একই কথায় আসে উল্টো দিক থেকে। তার ভাষায়, মূসার মুজিজাগুলো তাঁর নবুওয়াতের দাবির পক্ষে স্পষ্ট প্রমাণ।"
+          },
+          {
+            "en": "Ibn Kathir frames the passage this way from its opening line. Allah is telling, he writes, of Musa's debate with Pharaoh, of his silencing him with proof, and of his showing the clear signs in the presence of Pharaoh and his people, the Copts of Egypt. Al-Baghawi records, without a chain, how the claim was first received: after the words to you, Pharaoh said kadhabta, you have lied, and Musa's answer follows in the next verse. So the claim is made, denied, and then argued, in that order.",
+            "bn": "ইবনু কাসীর প্রথম লাইন থেকেই অংশটাকে এভাবে সাজান। তিনি লেখেন, আল্লাহ এখানে জানাচ্ছেন ফেরাউনের সঙ্গে মূসার বিতর্কের কথা, প্রমাণ দিয়ে তার মুখ বন্ধ করে দেওয়ার কথা, আর ফেরাউন ও তার লোকজন, মিসরের কিবতীদের সামনে স্পষ্ট নিদর্শন দেখানোর কথা। দাবিটা প্রথমে কীভাবে গৃহীত হয়েছিল, বাগাভী তা বর্ণনা করেন কোনো সনদ ছাড়াই। তাঁর বর্ণনায় মূসা যখন বললেন, তোমার কাছে, তখন ফেরাউন বলল কাযাবতা, তুমি মিথ্যা বলেছ। মূসার জবাব আসে পরের আয়াতে। কাজেই আগে দাবি, তারপর অস্বীকার, তারপর যুক্তি, এই ক্রমে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word Lord in Pharaoh's Court",
+          "bn": "ফেরাউনের দরবারে রব শব্দটি"
+        },
+        "p": [
+          {
+            "en": "The word rabb was not neutral in that room. The Qur'an elsewhere reports Pharaoh's own claims in his own voice: I am your most exalted lord (79:24), and to his chiefs, I have not known you to have a god other than me (28:38). They are cited here only as the Qur'an reports them, as his words; no tafsir fetched for 7:104 connects them to this verse. Set beside them, Ibn Kathir's gloss stands as it is: Creator, Lord and King of everything.",
+            "bn": "সেই দরবারে রব শব্দটা নিরীহ কোনো শব্দ ছিল না। কুরআন অন্য জায়গায় ফেরাউনের নিজের দাবি তার নিজের ভাষাতেই জানায়: আমিই তোমাদের সর্বোচ্চ রব (৭৯:২৪)। আর প্রধানদের উদ্দেশে: আমি ছাড়া তোমাদের অন্য কোনো ইলাহ আছে বলে আমি জানি না (২৮:৩৮)। আয়াত দুটি এখানে আনা হলো কেবল কুরআন যেভাবে জানিয়েছে সেভাবে, তার কথা হিসেবে। ৭:১০৪ আয়াতের জন্য পড়া কোনো তাফসীর এগুলোকে এ আয়াতের সঙ্গে যুক্ত করেনি। এগুলোর পাশে ইবনু কাসীরের ব্যাখ্যা যেমন আছে তেমনই দাঁড়িয়ে থাকে: সবকিছুর স্রষ্টা, রব ও মালিক।"
+          },
+          {
+            "en": "The same sentence returns in other surahs. 43:46 tells this scene with almost the same words: We sent Musa with Our signs to Pharaoh and his chiefs, and he said, I am the messenger of the Lord of the worlds. In 26:16 Musa and Harun are told to say it together, and in 26:23 Pharaoh fastens on the phrase: and what is the Lord of the worlds? The answer in 26:24 is the Lord of the heavens and the earth and what is between them. In 20:49 the question comes again: who is your Lord, O Musa?",
+            "bn": "একই বাক্য অন্য সূরাগুলোতেও ফিরে আসে। ৪৩:৪৬ আয়াত এই দৃশ্যটাই বলে প্রায় একই শব্দে: আমি মূসাকে আমার নিদর্শনসহ ফেরাউন ও তার প্রধানদের কাছে পাঠিয়েছিলাম, আর তিনি বলেছিলেন, আমি বিশ্বজগতের প্রতিপালকের রাসূল। ২৬:১৬ আয়াতে মূসা ও হারূন (আঃ)-কে একসঙ্গে কথাটা বলতে বলা হয়। আর ২৬:২৩ আয়াতে ফেরাউন শব্দটাকেই আঁকড়ে ধরে: বিশ্বজগতের প্রতিপালক আবার কী? ২৬:২৪ আয়াতে জবাব আসে, আসমান, জমিন আর এ দুয়ের মাঝে যা কিছু আছে, সবকিছুর রব। ২০:৪৯ আয়াতে প্রশ্নটা আবার ওঠে: হে মূসা, তোমাদের রব কে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Letter Naming Its Sender",
+          "bn": "প্রেরকের নাম দিয়ে শুরু চিঠি"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs read for this verse, at-Tabari, Ibn Kathir in Arabic and in the abridged English, as-Sa'di, al-Baghawi, the Muyassar and Ma'arif al-Qur'an, attaches a narration from the Prophet ﷺ to it, and none reports an occasion of revelation. That gap is reported rather than filled. What follows is a general narration, not attached to 7:104, chosen because it shows the Prophet ﷺ doing what Musa does here: introducing himself to a ruler through the One who sent him.",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীর, তাবারী, আরবি ও সংক্ষিপ্ত ইংরেজি ইবনু কাসীর, শাইখ সাদী, বাগাভী, মুয়াসসার কিংবা মাআরিফুল কুরআন, এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। কোনো শানে নুযূলও উল্লেখ করেনি। এই শূন্যতা ভরাট না করে সোজাসুজি জানিয়ে দেওয়াই ঠিক। নিচের বর্ণনাটি সাধারণ, ৭:১০৪ আয়াতের সঙ্গে যুক্ত নয়। এটা আনা হলো, কারণ এতে দেখা যায় নবী ﷺ ঠিক সেই কাজটাই করছেন যা মূসা (আঃ) এখানে করছেন। একজন শাসকের সামনে নিজের পরিচয় দিচ্ছেন যিনি পাঠিয়েছেন তাঁর মাধ্যমে।"
+          },
+          {
+            "en": "Sahih al-Bukhari 7, from Ibn Abbas (RA) relating Abu Sufyan's account, preserves the letter read out at Heraclius's court. In the Darussalam English it opens: In the name of Allah the Beneficent, the Merciful (This letter is) from Muhammad the slave of Allah and His Apostle to Heraclius the ruler of Byzantine. Peace be upon him, who follows the right path. The sender's name comes with two descriptions, servant and messenger, and both point back to Allah before the letter makes any request.",
+            "bn": "সহীহ বুখারীর ৭ নম্বর হাদীসে ইবনু আব্বাস (রাঃ) আবূ সুফিয়ানের বিবরণ বর্ণনা করেছেন। সেখানে হিরাক্লিয়াসের দরবারে পড়ে শোনানো চিঠিটা সংরক্ষিত আছে। চিঠির শুরু: বিসমিল্লাহির রাহমানির রাহীম। আল্লাহর বান্দা ও তাঁর রাসূল মুহাম্মাদের পক্ষ থেকে রোমের প্রধান হিরাক্লিয়াসের প্রতি। যে হিদায়াতের অনুসরণ করে, তার প্রতি সালাম। প্রেরকের নামের সঙ্গে এসেছে দুটি পরিচয়, বান্দা আর রাসূল। চিঠি কোনো আহ্বান জানানোর আগেই দুটি পরিচয় আল্লাহর দিকে ফিরিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pharaoh Belongs to History",
+          "bn": "ফেরাউন ইতিহাসেরই অধ্যায়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes one prophet speaking to one king and his chiefs, in a history the Qur'an tells to its end; 7:103 has already announced how it closed. The verse describes what the text describes and licenses nothing against any living person or community. No ruler, nation or opponent today becomes Pharaoh because a reader says so. Nor may anyone now repeat Musa's claim, since the Qur'an names the Prophet Muhammad ﷺ the seal of the prophets (33:40). The mirror here faces the reader.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে একজন নবী একজন রাজা ও তার প্রধানদের সঙ্গে কথা বলছেন, এমন এক ইতিহাসে যা কুরআন শেষ পর্যন্ত বলে দিয়েছে। এর পরিণতি কী হয়েছিল, ৭:১০৩ আয়াত আগেই জানিয়ে দিয়েছে। আয়াত শুধু সেটুকুই বর্ণনা করে যা পাঠে আছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কোনো পাঠক বলে দিলেই আজকের কোনো শাসক, জাতি বা প্রতিপক্ষ ফেরাউন হয়ে যায় না। আর মূসা (আঃ)-এর দাবি আজ কেউ নিজের জন্য করতে পারে না, কারণ কুরআন মুহাম্মাদ ﷺ-কে বলেছে শেষ নবী (৩৩:৪০)। আয়নাটা ঘোরানো পাঠকের নিজের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speaking on Borrowed Authority",
+          "bn": "ধার করা কর্তৃত্বে কথা বলা"
+        },
+        "p": [
+          {
+            "en": "What the believer inherits is not the claim but its shape. When we speak about Allah's religion, we speak from something received: a verse, a hadith, a ruling someone taught us. The honest form of that speech says where it came from before it asks anything of anyone. It sounds like a teacher who says this is in the Qur'an, or this is my own view, and knows which is which. Authority you can point to is safer, for you and for your listener, than authority you have to perform.",
+            "bn": "মুমিন উত্তরাধিকার হিসেবে পায় দাবিটা নয়, দাবির ধরনটা। আল্লাহর দ্বীন নিয়ে যখন আমরা কথা বলি, তখন বলি পাওয়া কোনো কিছু থেকে: একটি আয়াত, একটি হাদীস, কারও শেখানো একটি মাসআলা। এমন কথার সৎ রূপ হলো, কারও কাছে কিছু চাওয়ার আগে কথাটা কোথা থেকে এসেছে তা বলে দেওয়া। ভালো শিক্ষক যেমন বলেন, এটা কুরআনে আছে, অথবা এটা আমার নিজের মত, আর কোনটা কোনটা তা তিনি জানেন। যে কর্তৃত্বের উৎস দেখানো যায়, তা আপনার জন্যও নিরাপদ, শ্রোতার জন্যও। অভিনয় করে দেখাতে হয় যে কর্তৃত্ব, তার চেয়ে অনেক বেশি।"
+          },
+          {
+            "en": "The verse also changes how a person stands before power. Musa's first words neither flatter the king nor insult him; they place him. In Ibn Kathir's gloss Musa's Sender is Lord and King of everything, so the man on the throne is inside the sentence too. For anyone who must speak to an employer, an official or a family elder they fear, the lesson is not defiance. It is remembering who else is in the room, and letting that settle both the fear and the pride.",
+            "bn": "ক্ষমতার সামনে মানুষ কীভাবে দাঁড়াবে, আয়াতটি সেটাও বদলে দেয়। মূসা (আঃ)-এর প্রথম কথায় রাজার তোষামোদ নেই, অপমানও নেই। কথাটা শুধু রাজাকে তার আসল জায়গায় বসিয়ে দেয়। ইবনু কাসীরের ব্যাখ্যায় মূসার প্রেরক সবকিছুর রব ও মালিক, তাই সিংহাসনে বসা মানুষটিও ওই বাক্যের ভেতরেই পড়ে। মালিক, কর্মকর্তা বা পরিবারের এমন কোনো মুরুব্বি, যাঁকে আপনি ভয় পান, তাঁর সঙ্গে কথা বলতে হলে শিক্ষাটা বিদ্রোহ নয়। শিক্ষা হলো মনে রাখা, ঘরে আর কে আছেন। তাতে ভয়ও থিতিয়ে আসে, অহংকারও।"
+          },
+          {
+            "en": "As-Sa'di's point about care comes closer to home. He reads the Lord of the worlds as a Lord who does not leave His creation without purpose, and who sends guidance into it. If guidance has reached you, then the message you received was itself part of that care. Passing it on gently, accurately and with its source attached is how you hand that care to the next person, instead of quietly keeping the credit for something you were only given to carry.",
+            "bn": "লালন-পালন নিয়ে সাদীর কথাটা আমাদের আরও কাছে চলে আসে। তাঁর পাঠে বিশ্বজগতের রব নিজের সৃষ্টিকে উদ্দেশ্যহীন ফেলে রাখেন না, তার কাছে হিদায়াত পাঠান। হিদায়াত যদি আপনার কাছে পৌঁছে থাকে, তবে যে বার্তা আপনি পেয়েছেন, সেটাও সেই যত্নেরই অংশ। নরমভাবে, নির্ভুলভাবে আর উৎসসহ সেটা অন্যের কাছে পৌঁছে দিলে সেই যত্নটাই আপনি পরের মানুষের হাতে তুলে দিলেন। যা শুধু বহন করার জন্য আপনাকে দেওয়া হয়েছিল, তার কৃতিত্ব চুপচাপ নিজের কাছে রেখে দেওয়ার চেয়ে এটাই ভালো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Who Sent It",
+          "bn": "কে পাঠালেন, নিজেকে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When I last spoke about the religion, could my listener tell which parts came from the Qur'an and the Sunnah and which parts were mine? Have I ever borrowed the weight of revelation for an opinion that needed it? When someone treated me as the source of something I had only received, did I correct them, or did I enjoy it? And when I quote, do I quote exactly, or do I improve the words a little on the way?",
+            "bn": "শেষবার দ্বীন নিয়ে যখন কথা বলেছি, শ্রোতা কি বুঝতে পেরেছে কোন অংশ কুরআন-সুন্নাহর আর কোন অংশ আমার নিজের? নিজের কোনো মতকে ভারী করতে কি কখনো ওয়াহীর ওজন ধার করেছি? আমি শুধু পেয়েছি এমন কিছুর উৎস হিসেবে কেউ যখন আমাকে ধরে নিয়েছে, আমি কি তাকে শুধরে দিয়েছি, নাকি ব্যাপারটা উপভোগ করেছি? আর উদ্ধৃতি দেওয়ার সময় কি হুবহু দিই, নাকি পথে শব্দগুলো একটু ঘষামাজা করে নিই?"
+          },
+          {
+            "en": "Who is the person I find hardest to speak to plainly, and do I remember, standing in front of them, that they too live under the Lord of the worlds? Do I give people respect because of whose servants they are, or only because of what they can do to me? If guidance reached me because Allah does not leave His creation without purpose, what do I owe the next person it was meant to reach through me?",
+            "bn": "কার সঙ্গে সোজাসুজি কথা বলা আমার কাছে সবচেয়ে কঠিন? তার সামনে দাঁড়িয়ে কি মনে রাখি, সেও বিশ্বজগতের রবের অধীনেই বেঁচে আছে? মানুষকে আমি সম্মান করি কি এ কারণে যে সে কার বান্দা, নাকি শুধু এ কারণে যে সে আমার কী করতে পারে? আল্লাহ তাঁর সৃষ্টিকে উদ্দেশ্যহীন ফেলে রাখেন না বলেই যদি হিদায়াত আমার কাছে এসে থাকে, তবে যার কাছে আমার মাধ্যমে তা পৌঁছানোর কথা, সেই পরের মানুষটির প্রতি আমার দায় কতখানি?"
+          }
+        ]
+      }
+    ]
+  },
   "7:105": {
     "sections": [
       {

@@ -31723,6 +31723,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Approving a wrong makes you a partner in it, and mocking a warning does nothing to delay what it warns of.",
     "lessonBn": "অন্যায়ে সায় দেওয়া মানে তাতে শরিক হওয়া, আর সতর্কবাণী নিয়ে ঠাট্টা করলে যার ভয় দেখানো হয়েছে তা একটুও পিছিয়ে যায় না।"
+  },
+  "7:104": {
+    "reflectionEn": "Musa stands before the king of Egypt, the most powerful man in the land, and he speaks first. He does not open with his own name, his grievance, or a miracle. He opens with who sent him: O Pharaoh, I am a messenger from the Lord of the worlds. The king is addressed to his face, and in the same breath he is placed inside a larger word, the worlds, which take in Pharaoh, his court and his Egypt. Musa's standing in that room was borrowed, and he said so before anything else. We also carry borrowed things into our rooms: knowledge, a trust, a duty. Do we name the One they came from, or let the room believe they are ours?",
+    "reflectionBn": "মিসরের রাজা, দেশের সবচেয়ে ক্ষমতাধর মানুষটির সামনে মূসা (আঃ) দাঁড়িয়ে, আর কথা শুরু করেন তিনিই। নিজের নাম বলেন না, নিজের অভিযোগও না, কোনো মুজিজাও দেখান না। প্রথমে জানান কে তাঁকে পাঠিয়েছেন: হে ফেরাউন, আমি বিশ্বজগতের প্রতিপালকের পক্ষ থেকে রাসূল। রাজাকে সরাসরি তার মুখের উপর সম্বোধন করা হলো। আর সেই একই নিঃশ্বাসে তাকে ঢুকিয়ে দেওয়া হলো আরও বড় একটা শব্দের ভেতরে। সেই বিশ্বজগতে ফেরাউনও আছে, তার দরবারও আছে, তার মিসরও আছে। ওই দরবারে মূসার যে মর্যাদা, তা ধার করা। আর সে কথা তিনি সবার আগে বলে দিয়েছেন। আমরাও নিজেদের ঘরে ধার করা জিনিস নিয়ে ঢুকি: ইলম, আমানত, দায়িত্ব। যাঁর কাছ থেকে এসব এসেছে, তাঁর নাম কি আমরা মুখে আনি? নাকি সবাই ধরে নেয় এগুলো আমাদের নিজের, আর আমরা চুপ থাকি?",
+    "pointsEn": [
+      "When I speak about my faith, do I make plain where it comes from, or let people take it as my own opinion?",
+      "Before someone whose approval I need, do I soften who I answer to, or say it first and plainly?",
+      "What have I been given in trust, a skill, a post, some knowledge, that I have quietly begun to treat as my own?",
+      "If the Lord of the worlds is also the Lord of the people I fear, how should that change the way I stand in front of them?",
+      "When I carry something true to someone, does my confidence rest on the One it comes from, or on how well I perform?"
+    ],
+    "pointsBn": [
+      "দ্বীনের কথা বলার সময় আমি কি পরিষ্কার করে দিই কথাটা কোথা থেকে এসেছে? নাকি শ্রোতা একে আমার নিজের মত ভেবে নিলেও কিছু বলি না?",
+      "যার সন্তুষ্টি আমার দরকার, তার সামনে আমি কার কাছে জবাবদিহি করি, সে কথা কি নরম করে ফেলি? নাকি সবার আগে সোজাসুজি বলি?",
+      "আমানত হিসেবে পাওয়া কোন জিনিসকে, হোক তা কোনো দক্ষতা, পদ বা ইলম, আমি চুপচাপ নিজের সম্পত্তি ভাবতে শুরু করেছি?",
+      "যাদের আমি ভয় পাই, বিশ্বজগতের প্রতিপালক তাদেরও প্রতিপালক। এ কথা মনে থাকলে তাদের সামনে আমার দাঁড়ানোর ধরন কেমন বদলানো উচিত?",
+      "কারও কাছে সত্য কোনো কথা নিয়ে গেলে আমার ভরসা কিসের উপর থাকে? যাঁর কাছ থেকে কথাটা এসেছে তাঁর উপর, নাকি আমি কত ভালো বলতে পারি তার উপর?"
+    ],
+    "lessonEn": "Name the One who sent what you carry before you say anything about yourself, and remember that the Lord of the worlds is also Lord of whoever stands before you.",
+    "lessonBn": "যা বহন করছেন, তা কে পাঠিয়েছেন, নিজের কথা বলার আগে সেটা বলুন। আর মনে রাখুন, আপনার সামনে যে-ই দাঁড়িয়ে থাকুক, বিশ্বজগতের প্রতিপালক তারও প্রতিপালক।"
   }
 };
 
