@@ -1103,6 +1103,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:25": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the First Story Opens",
+          "bn": "প্রথম কাহিনির সূচনা"
+        },
+        "p": [
+          {
+            "en": "Until this verse, Surah Hud has argued its case directly. It opened with a Book whose verses were made firm and a call to worship none but Allah, and in 11:24 it likened two parties to the blind and deaf and the seeing and hearing. With our verse the surah changes method. It stops describing and starts to narrate. Nuh (AS) is the first of the prophets it brings forward, and the story opened here runs until 11:49. As-Sa'di marks the turn in his first words: his comment covers the passage to the end of the story.",
+            "bn": "এই আয়াতের আগ পর্যন্ত সূরা হূদ সরাসরি যুক্তি দিয়ে কথা বলেছে। শুরু হয়েছে এমন এক কিতাবের কথা দিয়ে, যার আয়াতগুলো সুদৃঢ় করা হয়েছে, আর আল্লাহ ছাড়া কারও ইবাদত না করার ডাক দিয়ে। ১১:২৪ আয়াতে দুই দলকে তুলনা করা হয়েছে অন্ধ-বধির আর চক্ষুষ্মান-শ্রবণশীলের সঙ্গে। এই আয়াতে এসে সূরা তার ধরন বদলায়। বর্ণনা থামিয়ে সে কাহিনি বলতে শুরু করে। যেসব নবীর কথা সূরাটি সামনে আনে, তাঁদের প্রথমজন নূহ (আঃ), আর এখানে শুরু হওয়া কাহিনি চলে ১১:৪৯ পর্যন্ত। সা'দী তাঁর ব্যাখ্যার প্রথম কথাতেই মোড়টা চিহ্নিত করেন: তাঁর আলোচনা কাহিনির শেষ পর্যন্ত গোটা অংশকে ধরে।"
+          },
+          {
+            "en": "Why tell the story at all? Al-Qurtubi answers at the head of his comment. Allah relates the stories of the prophets to the Prophet ﷺ, he says, to alert him to hold fast to patience under the harm of the disbelievers until Allah relieves him of them. The surah bears this out. 11:12 had asked whether he might leave out part of what was revealed to him and told him that he is only a warner, and 11:49 closes the Nuh story with the words so be patient. None of the tafsirs consulted reports an occasion of revelation for this verse.",
+            "bn": "কাহিনিটা কেন বলা হলো? কুরতুবী তাঁর আলোচনার শুরুতেই উত্তর দেন। তাঁর ভাষ্যে, আল্লাহ নবীদের কাহিনি নবী ﷺ-কে শোনান তাঁকে সজাগ করতে, যাতে কাফিরদের দেওয়া কষ্টে তিনি ধৈর্য আঁকড়ে থাকেন, যতক্ষণ না আল্লাহ তাদের ব্যাপারে তাঁর জন্য যথেষ্ট হয়ে যান। সূরাটিও এর সাক্ষ্য দেয়। ১১:১২ আয়াতে প্রশ্ন ছিল, তাঁর প্রতি যা ওহী করা হয়েছে তার কিছু অংশ কি তিনি ছেড়ে দেবেন, আর সেখানেই বলা হয়েছে, তিনি তো কেবল একজন সতর্ককারী। আর ১১:৪৯ নূহের কাহিনি শেষ করে এই কথায়: অতএব ধৈর্য ধরো। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের কোনো শানে নুযূল উল্লেখ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nine Words, Two Speakers",
+          "bn": "নয় শব্দ, দুই বক্তা"
+        },
+        "p": [
+          {
+            "en": "The verse is nine words in Arabic, and it has two speakers. Wa-laqad arsalna Nuhan ila qawmihi: and We certainly sent Nuh to his people. That is Allah speaking, in the first person plural, about a sending in the past. Then, with no verb of saying in between, the voice becomes Nuh's own: inni lakum nadhirun mubin, I am to you a clear warner. English translations supply the missing link in brackets, saying. The Arabic does without it, and two of the commentators explain how the sentence holds together.",
+            "bn": "আরবিতে আয়াতটি নয়টি শব্দের, আর এতে বক্তা দুজন। ওয়া লাকাদ আরসালনা নূহান ইলা কওমিহী: আর আমি অবশ্যই নূহকে তার কওমের কাছে পাঠিয়েছিলাম। এখানে কথা বলছেন আল্লাহ নিজে, অতীতের এক প্রেরণের খবর দিয়ে। তারপর বলা-ক্রিয়া ছাড়াই কণ্ঠ বদলে হয়ে যায় নূহের নিজের: ইন্নী লাকুম নাযীরুম মুবীন, আমি তোমাদের জন্য স্পষ্ট সতর্ককারী। অনুবাদে ফাঁকটা পূরণ করা হয় বন্ধনীতে, (সে বলেছিল)। আরবি বাক্য সেই শব্দ ছাড়াই চলে। বাক্যটা কীভাবে জোড়া লাগে, দুজন মুফাসসির তা বুঝিয়ে দেন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi give the same account. Inni stands as if the text had said fa-qala inni, then he said: I am, because sending carries within it the meaning of saying. Al-Qurtubi adds a note on the pronoun. The verse does not say innahu, he is, because it turns from speaking about Nuh to Nuh's own address to his people. He compares 7:145, where We wrote for him on the tablets passes straight into take them with determination, with no We said placed between the two.",
+            "bn": "কুরতুবী আর বাগাভী একই ব্যাখ্যা দেন। ইন্নী এমনভাবে বসেছে, যেন বলা হয়েছে ফাকালা ইন্নী, তারপর সে বলল: আমি। কারণ পাঠানোর ভেতরেই বলার অর্থ লুকিয়ে আছে। সর্বনাম নিয়ে কুরতুবী আরেকটি কথা যোগ করেন। আয়াতে ইন্নাহূ, সে, বলা হয়নি। কারণ নূহ সম্পর্কে বলা থেকে বাক্যটি ঘুরে গেছে তাঁর কওমের প্রতি তাঁর নিজের সম্বোধনে। তিনি তুলনা টানেন ৭:১৪৫ আয়াতের সঙ্গে। সেখানে 'আমি তার জন্য ফলকে লিখে দিলাম' সরাসরি গিয়ে মিশেছে 'এগুলো শক্ত করে ধরো' কথায়। এই দুই অংশের মাঝখানে 'আমি বললাম' শব্দটি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Vowel, Two Readings",
+          "bn": "এক হরকত, দুই কিরাআত"
+        },
+        "p": [
+          {
+            "en": "The verse has a second recognised reading, and the difference is one vowel on the first letter of inni. At-Tabari records that the readers differed. The general body of the readers of Kufa and some Madinans read inni, with kasra, as the start of a fresh sentence, since sending carries the sense of saying. Some readers of Madina, Kufa and Basra read anni, with fatha, letting the verb of sending govern it. The sense then becomes: We sent Nuh to his people with the message that I am to you a clear warner.",
+            "bn": "আয়াতটির আরেকটি স্বীকৃত কিরাআত আছে। পার্থক্য কেবল ইন্নী শব্দের প্রথম অক্ষরের একটি হরকতে। তাবারী জানান, কারীগণ এখানে ভিন্ন ভিন্ন পড়েছেন। কূফার অধিকাংশ কারী আর মদীনার কয়েকজন পড়েছেন ইন্নী, যের দিয়ে, নতুন বাক্যের শুরু হিসেবে। কারণ পাঠানোর মধ্যে বলার অর্থ আছে। মদীনা, কূফা ও বসরার কিছু কারী পড়েছেন আন্নী, যবর দিয়ে, যাতে পাঠানো ক্রিয়াটিই শব্দটির উপর কাজ করে। তখন অর্থ দাঁড়ায়: আমি নূহকে তার কওমের কাছে এই বার্তা দিয়ে পাঠিয়েছিলাম যে, আমি তোমাদের জন্য স্পষ্ট সতর্ককারী।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi name the readers instead of their cities. Both list Ibn Kathir, Abu Amr and al-Kisa'i among those who read anni, and al-Baghawi adds Ya'qub; al-Baghawi says the rest read inni. The Ibn Kathir in these lists is the reader of the Qur'an, not the commentator of the same name quoted elsewhere in this article. The text printed with this verse carries inni, with kasra. One commentator describes the split by region and the other two by name, and both descriptions are given here as they stand.",
+            "bn": "বাগাভী আর কুরতুবী শহরের বদলে কারীদের নাম বলেন। দুজনের তালিকাতেই আছেন ইবন কাসীর, আবূ আমর আর কিসাঈ, যাঁরা পড়েছেন আন্নী। বাগাভী এর সঙ্গে ইয়াকূবের নাম যোগ করেন, আর বলেন বাকিরা পড়েছেন ইন্নী। এই তালিকার ইবন কাসীর কুরআনের কারী। এই প্রবন্ধে অন্য জায়গায় যে মুফাসসির ইবন কাসীরের কথা এসেছে, তিনি ভিন্ন ব্যক্তি। এ আয়াতের সঙ্গে ছাপা পাঠে আছে ইন্নী, যের দিয়ে। একজন মুফাসসির ভিন্নতাটা দেখিয়েছেন অঞ্চল ধরে, অন্য দুজন নাম ধরে। দুটো বিবরণই এখানে যেমন আছে তেমন রাখা হলো।"
+          },
+          {
+            "en": "At-Tabari then gives his own judgement, and it is not a choice between the two. In his view they are two readings that agree in meaning, each read by a body of the readers, so whichever one a reciter follows, he is right. Nothing in the warning changes with the vowel. Read inni, and Nuh's words arrive as his own direct speech; read anni, and they arrive as the content of his commission. Either way the sentence says the same thing about who he was to them.",
+            "bn": "এরপর তাবারী নিজের মত দেন, আর সেটা দুটোর একটিকে বেছে নেওয়া নয়। তাঁর মতে এ দুটো এমন দুই কিরাআত যাদের অর্থ এক, আর প্রত্যেকটিই কারীদের একটি দল পড়েছেন। তাই যে কারী যেটাই পড়ুন, তিনি সঠিক পড়েছেন। হরকত বদলালেও সতর্কবাণীর কিছুই বদলায় না। ইন্নী পড়লে নূহের কথা আসে তাঁর নিজের মুখের সরাসরি কথা হয়ে। আন্নী পড়লে তা আসে তাঁকে দেওয়া দায়িত্বের বিষয়বস্তু হয়ে। দুই পাঠেই বাক্যটি একই কথা বলে: তাদের কাছে তিনি কে ছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning That Is Not His",
+          "bn": "সতর্কবাণী তাঁর নিজের নয়"
+        },
+        "p": [
+          {
+            "en": "Nadhir is one who warns, and the commentators agree on whose warning it is. At-Tabari paraphrases: I am to you, O people, a warner from Allah; I warn you of His might, for your disbelief in Him, so believe in Him and obey His command. The Muyassar says a warner to you of the punishment of Allah. Ibn Kathir says plain in warning you of Allah's punishment if you worship other than Allah. In none of them does Nuh speak for himself. The source of the warning is Allah, and its object is what Allah will do.",
+            "bn": "নাযীর মানে এমন একজন, যিনি সতর্ক করেন। সতর্কবাণীটা কার, এ নিয়ে মুফাসসিরেরা একমত। তাবারী ব্যাখ্যা করেন এভাবে: হে আমার কওম, আমি আল্লাহর পক্ষ থেকে তোমাদের জন্য সতর্ককারী। তাঁর প্রতি তোমাদের কুফরির কারণে তাঁর পাকড়াও সম্পর্কে আমি তোমাদের সতর্ক করছি, তাই তাঁর উপর ঈমান আনো, তাঁর হুকুম মানো। মুয়াসসার বলে: আল্লাহর আযাব সম্পর্কে তোমাদের সতর্ককারী। ইবন কাসীর বলেন: আল্লাহ ছাড়া অন্যের ইবাদত করলে আল্লাহর আযাব সম্পর্কে তিনি প্রকাশ্যে সতর্ক করেন। কারও ব্যাখ্যাতেই নূহ নিজের হয়ে কথা বলছেন না। সতর্কবাণীর উৎস আল্লাহ, আর তার বিষয় আল্লাহ যা করবেন তা।"
+          },
+          {
+            "en": "Who were the people being warned? Ibn Kathir opens his comment by saying that Nuh (AS) was the first messenger Allah sent to the people of the earth, and that they were polytheists who worshipped idols. As-Sa'di likewise calls him the first of the messengers, sent to call his people to Allah and to forbid them shirk. The content of the warning is spelled out in the very next verse, 11:26: that you not worship except Allah; indeed, I fear for you the punishment of a painful day.",
+            "bn": "যাদের সতর্ক করা হচ্ছিল, তারা কারা? ইবন কাসীর তাঁর আলোচনা শুরু করেন এই বলে যে, নূহ (আঃ) ছিলেন পৃথিবীবাসীর কাছে আল্লাহর পাঠানো প্রথম রাসূল, আর তারা ছিল মূর্তিপূজারী মুশরিক। সা'দীও তাঁকে বলেন রাসূলদের মধ্যে প্রথম, যাঁকে পাঠানো হয়েছিল কওমকে আল্লাহর দিকে ডাকতে আর শিরক থেকে নিষেধ করতে। সতর্কবাণীর বিষয়বস্তু খুলে বলা হয়েছে ঠিক পরের আয়াতে, ১১:২৬: তোমরা আল্লাহ ছাড়া আর কারও ইবাদত কোরো না। আমি তোমাদের জন্য এক যন্ত্রণাদায়ক দিনের আযাবের ভয় করি।"
+          },
+          {
+            "en": "Ibn Kathir's abridged English reads the two verses as one sentence: the clear warning of 11:25 is filled out by the call to worship none but Allah in 11:26. He explains the painful day as meaning that if they continue, Allah will punish them with a severe punishment in the Hereafter. So the warner names no date and claims no power. He reports a consequence that is in Allah's hands, and he states the one thing that would avert it.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ দুই আয়াতকে এক বাক্য হিসেবে পড়ে। ১১:২৫-এর স্পষ্ট সতর্কবাণী পূর্ণ হয় ১১:২৬-এর ডাকে, আল্লাহ ছাড়া কারও ইবাদত না করার ডাকে। যন্ত্রণাদায়ক দিনের ব্যাখ্যায় তিনি বলেন, তারা যদি এভাবেই চলতে থাকে, তবে আল্লাহ আখিরাতে তাদের কঠিন শাস্তি দেবেন। তাই সতর্ককারী কোনো তারিখ বলেন না, কোনো ক্ষমতারও দাবি করেন না। তিনি এমন এক পরিণতির খবর দেন যা আল্লাহর হাতে। আর যে একটি জিনিস সেই পরিণতি ঠেকাতে পারে, সেটাও বলে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plain, or Making Plain",
+          "bn": "নিজে স্পষ্ট, না স্পষ্টকারী"
+        },
+        "p": [
+          {
+            "en": "The last word, mubin, is glossed in two ways. At-Tabari says it means that he makes clear to you what he was sent with to you of Allah's command and prohibition. The Muyassar gives the same sense: making clear to you what I was sent with, Allah's command and His prohibition. On this reading mubin describes what the warner does to something else; he lays out the message. Ibn Kathir glosses it differently, as plain in warning. There the clarity belongs to the warning itself. It is open, not veiled.",
+            "bn": "শেষ শব্দ মুবীনের ব্যাখ্যা এসেছে দুইভাবে। তাবারী বলেন, এর অর্থ: আল্লাহর আদেশ-নিষেধের যা কিছু নিয়ে তাঁকে তোমাদের কাছে পাঠানো হয়েছে, তিনি তা তোমাদের কাছে স্পষ্ট করে দেন। মুয়াসসারও একই অর্থ দেয়: আমাকে যা দিয়ে পাঠানো হয়েছে, আল্লাহর আদেশ ও নিষেধ, তা আমি তোমাদের জন্য স্পষ্ট করে দিই। এই পাঠে মুবীন বোঝায় সতর্ককারী অন্য কিছুর উপর কী করেন: তিনি বার্তাটা খুলে বলেন। ইবন কাসীর ব্যাখ্যা করেন ভিন্নভাবে: সতর্ক করায় প্রকাশ্য। সেখানে স্পষ্টতা খোদ সতর্কবাণীর গুণ। তাতে কোনো আড়াল নেই।"
+          },
+          {
+            "en": "As-Sa'di takes it one step further. He has Nuh say, in effect: I have made clear to you what I warned you of, with a clarity that removed all ambiguity. For him the clarity reaches the listener and does its work there; after it, no confusion is left to hide behind. None of the commentators argues against the others on this word. Each gives his gloss, and nothing in one gloss excludes another. The warning is open, its content is laid out, and the listener is left without the excuse of not having understood.",
+            "bn": "সা'দী আরও এক ধাপ এগিয়ে যান। তাঁর ব্যাখ্যায় নূহ যেন বলছেন: যে বিষয়ে আমি তোমাদের সতর্ক করেছি, তা এমন স্পষ্ট করে বলেছি যে সব অস্পষ্টতা দূর হয়ে গেছে। তাঁর কাছে স্পষ্টতা শ্রোতা পর্যন্ত পৌঁছে সেখানেই কাজ করে। এরপর আড়াল নেওয়ার মতো কোনো বিভ্রান্তি আর থাকে না। এই শব্দ নিয়ে কোনো মুফাসসির অন্যদের বিরোধিতা করেননি। প্রত্যেকে নিজের ব্যাখ্যা দিয়েছেন, আর একজনের ব্যাখ্যা অন্যজনেরটাকে বাদ দেয় না। সতর্কবাণী প্রকাশ্য, তার বিষয়বস্তু খুলে বলা, আর শ্রোতার হাতে 'বুঝিনি' বলার অজুহাত থাকে না।"
+          },
+          {
+            "en": "What comes next bears this out. In 11:27 the chiefs do not say they failed to understand. They say they see him only as a man like themselves, that only the lowest of them follow him, and that they think him and his followers liars. Ibn Kathir's abridgement calls this a proof of their ignorance, and adds that the truth is not to be rejected because of the lowly status of those who follow it. Ma'arif al-Qur'an frames the whole passage as a dialogue: they answered with doubts and objections, and Nuh, by Allah's leave, answered them.",
+            "bn": "পরের আয়াতই এর সাক্ষ্য দেয়। ১১:২৭ আয়াতে কওমের নেতারা বলেনি যে তারা বুঝতে পারেনি। তারা বলেছে, তাঁকে তারা নিজেদের মতো একজন মানুষ ছাড়া কিছু দেখে না, তাদের মধ্যে সবচেয়ে নিচু লোকেরাই কেবল তাঁর অনুসরণ করছে, আর তারা তাঁকে ও তাঁর অনুসারীদের মিথ্যাবাদী মনে করে। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ একে তাদের অজ্ঞতার প্রমাণ বলে। সঙ্গে যোগ করে, অনুসারীরা সমাজে নিচু বলে সত্যকে প্রত্যাখ্যান করা যায় না। মাআরিফুল কুরআন পুরো অংশটিকে দেখে এক কথোপকথন হিসেবে: তারা সন্দেহ আর আপত্তি তুলেছিল, আর নূহ আল্লাহর ইচ্ছা ও অনুমতিতে তার জবাব দিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sound Reports, Not Attached",
+          "bn": "সহীহ বর্ণনা, আয়াতের সঙ্গে নয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted attaches a saying of the Prophet ﷺ to this verse; at-Tabari's comment rests on language and the readings. Three sound narrations bear on its two claims, as general principle and not as comment on it. In Sahih al-Bukhari 3340, from Abu Hurairah (RA), the long account of intercession on the Day of Resurrection reaches Nuh, and the people say to him: O Noah! You are the first amongst the messengers of Allah to the people of the earth, and Allah named you a thankful slave. Al-Bukhari gives it no separate grading.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো বাণী যুক্ত করেনি। তাবারীর আলোচনা ভাষা আর কিরাআতের উপর দাঁড়ানো। তবে তিনটি সহীহ বর্ণনা আয়াতের দুই দাবির সঙ্গে সম্পর্ক রাখে, সাধারণ নীতি হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়। সহীহ বুখারী ৩৩৪০-এ আবূ হুরায়রা (রাঃ) থেকে কিয়ামতের দিনের শাফাআতের দীর্ঘ বর্ণনা আছে। তা নূহ পর্যন্ত পৌঁছালে লোকেরা তাঁকে বলে: হে নূহ! আপনি পৃথিবীবাসীর কাছে পাঠানো প্রথম রাসূল, আর আল্লাহ আপনাকে কৃতজ্ঞ বান্দা নাম দিয়েছেন। বুখারী এর আলাদা কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "That line stands close to the wording Ibn Kathir uses at the head of his comment. The second narration concerns warning. Sahih al-Bukhari 3337 reports from Ibn Umar (RA) that Allah's Messenger ﷺ stood among the people, praised Allah as He deserves, then mentioned the Dajjal and said: I warn you against him, and there was no prophet but warned his nation against him. No doubt, Noah warned his nation against him, but I tell you about him something of which no prophet told his nation before me. You should know that he is one-eyed, and Allah is not one-eyed.",
+            "bn": "এই কথাটি ইবন কাসীর তাঁর আলোচনার শুরুতে যে ভাষা ব্যবহার করেন, তার খুব কাছাকাছি। দ্বিতীয় বর্ণনাটি সতর্ক করা নিয়ে। সহীহ বুখারী ৩৩৩৭-এ ইবন উমার (রাঃ) জানান, আল্লাহর রাসূল ﷺ লোকদের মাঝে দাঁড়ালেন, আল্লাহর যথাযোগ্য প্রশংসা করলেন, তারপর দাজ্জালের কথা তুলে বললেন: আমি তোমাদের তার সম্পর্কে সতর্ক করছি। এমন কোনো নবী নেই যিনি তাঁর কওমকে তার ব্যাপারে সতর্ক করেননি। নূহও তাঁর কওমকে তার সম্পর্কে সতর্ক করেছিলেন। কিন্তু আমি তোমাদের তার সম্পর্কে এমন এক কথা বলছি, যা আমার আগে কোনো নবী তাঁর কওমকে বলেননি। জেনে রাখো, সে এক চোখ কানা, আর আল্লাহ কানা নন।"
+          },
+          {
+            "en": "Al-Bukhari gives it no separate grading. The third is Sahih al-Bukhari 4801, from Ibn Abbas (RA). The Prophet ﷺ climbed as-Safa and called out until Quraysh gathered, then asked whether they would believe him if he told them an enemy would attack by morning or evening. They said they would. He said: I am a warner to you in face of a terrible punishment. Nadhirun lakum: the same two words Nuh used, in the other order. Al-Bukhari gives this report no separate grading either.",
+            "bn": "বুখারী এরও আলাদা কোনো মান উল্লেখ করেননি। তৃতীয়টি সহীহ বুখারী ৪৮০১, ইবন আব্বাস (রাঃ) থেকে। নবী ﷺ সাফা পাহাড়ে উঠে ডাক দিলেন, কুরাইশরা জড়ো হলো। তিনি জিজ্ঞেস করলেন, যদি বলি সকালে বা সন্ধ্যায় শত্রু তোমাদের উপর হামলা করবে, তোমরা কি আমাকে বিশ্বাস করবে? তারা বলল, হ্যাঁ। তিনি বললেন: তাহলে আমি তোমাদের জন্য এক কঠিন আযাবের আগে সতর্ককারী। নাযীরুন লাকুম: নূহ যে দুটি শব্দ বলেছিলেন, সেই দুটিই, শুধু ক্রম উল্টো। বুখারী এরও আলাদা কোনো মান উল্লেখ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Opening Heard Again",
+          "bn": "একই সূচনা, অন্য সূরায়"
+        },
+        "p": [
+          {
+            "en": "The same opening recurs in 7:59, 23:23 and 29:14, and 71:1 has inna arsalna Nuhan ila qawmihi. In 7:59 and 23:23 the next word is fa-qala, and he said, the very word al-Qurtubi and al-Baghawi supply here. 71:1 states the commission itself: warn your people before a painful punishment comes to them. And 71:2 has Nuh answer in the words of our verse: O my people, indeed I am to you a clear warner.",
+            "bn": "একই সূচনা আবার এসেছে ৭:৫৯, ২৩:২৩ ও ২৯:১৪ আয়াতে, আর ৭১:১ আয়াতে আছে ইন্না আরসালনা নূহান ইলা কওমিহী। ৭:৫৯ ও ২৩:২৩ আয়াতে পরের শব্দটিই ফাকালা, তারপর সে বলল। কুরতুবী আর বাগাভী এখানে ঠিক এই শব্দটিই ধরে নেন। ৭১:১ আয়াতে খোদ দায়িত্বটাই বলা হয়েছে: যন্ত্রণাদায়ক আযাব আসার আগে তোমার কওমকে সতর্ক করো। আর ৭১:২ আয়াতে নূহ জবাব দেন আমাদের আয়াতের ভাষাতেই: হে আমার কওম, আমি তোমাদের জন্য স্পষ্ট সতর্ককারী।"
+          },
+          {
+            "en": "Inside Hud the echo is nearer. The surah's opening, in 11:2, sets out the call that you not worship except Allah, then the words indeed I am to you from Him a warner and a bringer of good tidings. 11:26 gives Nuh the same call in nearly the same words, and his fear for them of a painful day. The first prophet the surah brings forward repeats the surah's own opening call.",
+            "bn": "সূরা হূদের ভেতরে প্রতিধ্বনিটা আরও কাছে। ১১:২ আয়াতে সূরার শুরুতেই ডাক দেওয়া হয়েছে: তোমরা আল্লাহ ছাড়া কারও ইবাদত কোরো না। তারপর এই কথা: আমি তাঁর পক্ষ থেকে তোমাদের জন্য সতর্ককারী ও সুসংবাদদাতা। ১১:২৬ আয়াতে নূহের মুখে প্রায় একই শব্দে একই ডাক আসে, সঙ্গে তাদের জন্য যন্ত্রণাদায়ক দিনের ভয়। সূরা যে প্রথম নবীকে সামনে আনে, তিনি সূরার নিজের শুরুর ডাকটিই আবার উচ্চারণ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nobody Today Is Nuh's People",
+          "bn": "আজ কেউ নূহের কওম নয়"
+        },
+        "p": [
+          {
+            "en": "Nuh's people went on to refuse, and 11:37 and 11:44 tell how they were drowned. The verse describes what the text describes: one prophet sent to one people long gone, and the warning he gave them. It licenses nothing against any living person or community, and gives no one the standing to cast his own neighbours as the people of Nuh. Whoever repeats the warning today carries no prophet's commission.",
+            "bn": "নূহের কওম শেষ পর্যন্ত প্রত্যাখ্যানই করেছিল, আর ১১:৩৭ ও ১১:৪৪ আয়াত জানায় কীভাবে তারা ডুবে গিয়েছিল। আয়াতটি কেবল তা-ই বর্ণনা করে যা পাঠে আছে: বহু আগে বিলুপ্ত একটি কওমের কাছে পাঠানো একজন নবী, আর তাদের তিনি যে সতর্কবাণী দিয়েছিলেন। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। নিজের প্রতিবেশীদের নূহের কওম বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। আজ যে এই সতর্কবাণী আবার শোনায়, তার কাঁধে কোনো নবীর দায়িত্ব নেই।"
+          },
+          {
+            "en": "What can be carried is the shape of the warning. In these glosses it comes from Allah, not from the warner; it is plain; it lays out command and prohibition; and the next verse adds that the warner fears for those he warns. Anyone passing on a reminder can keep those marks: say only what Allah has said, say it clearly, and say it as someone afraid for the listener. Anyone receiving a reminder can ask what it says before asking who said it.",
+            "bn": "যা নেওয়া যায়, তা হলো সতর্কবাণীর গড়ন। এসব ব্যাখ্যায় তা আসে আল্লাহর কাছ থেকে, সতর্ককারীর নিজের কাছ থেকে নয়। তা প্রকাশ্য। তা আদেশ-নিষেধ খুলে বলে। আর পরের আয়াত যোগ করে, যাদের সতর্ক করা হচ্ছে, সতর্ককারী তাদের জন্য ভয় পান। কেউ কাউকে নসীহত করলে এই চিহ্নগুলো ধরে রাখতে পারেন: আল্লাহ যা বলেছেন শুধু তা-ই বলুন, স্পষ্ট করে বলুন, আর বলুন এমনভাবে যেন শ্রোতার জন্য আপনার ভয় হচ্ছে। আর যার কাছে নসীহত আসে, তিনি 'কে বলল' জিজ্ঞেস করার আগে জিজ্ঞেস করতে পারেন 'কী বলল'।"
+          }
+        ]
+      }
+    ]
+  },
   "11:31": {
     "sections": [
       {

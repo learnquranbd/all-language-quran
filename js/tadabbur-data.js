@@ -32683,6 +32683,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What is hidden belongs to Allah and every matter returns to Him. Do your part in worship, rely on Him for the rest, and remember that He sees all you do.",
     "lessonBn": "অদৃশ্যের মালিক আল্লাহ, আর সব বিষয় তাঁর কাছেই ফিরে যায়। ইবাদতে নিজের ভাগের কাজটা করুন, বাকিটার জন্য তাঁর উপর ভরসা রাখুন, আর মনে রাখুন, আপনি যা করেন সবই তিনি দেখেন।"
+  },
+  "11:25": {
+    "reflectionEn": "Surah Hud has just asked whether the blind and the seeing can be equal. Then, with no pause, the first story begins: We sent Nuh to his people. His opening words are not about his rank or his miracles. He tells them what he is to them: a clear warner, someone who sees a danger they cannot yet see and says so plainly. The next verse shows what sits inside the warning: I fear for you. This story was told to a Prophet ﷺ who was facing his own people's refusal. So the verse asks two things of me. When someone warns me plainly, do I hear care or an insult? And when I warn, is it clear, and is it for their sake?",
+    "reflectionBn": "সূরা হূদ এইমাত্র প্রশ্ন রেখেছে: অন্ধ আর চক্ষুষ্মান কি সমান হতে পারে? তারপর কোনো বিরতি ছাড়াই প্রথম কাহিনি শুরু হয়: আমি নূহকে তার কওমের কাছে পাঠিয়েছিলাম। তাঁর প্রথম কথায় নিজের মর্যাদা বা মুজিজার কোনো উল্লেখ নেই। তিনি জানান, তাদের কাছে তিনি কে: একজন স্পষ্ট সতর্ককারী। এমন একজন, যিনি সেই বিপদ দেখছেন যা তারা এখনো দেখছে না, আর সোজাসুজি তা বলে দিচ্ছেন। সতর্কবাণীর ভেতরে কী আছে, পরের আয়াত তা খুলে দেয়: আমি তোমাদের জন্য ভয় করি। কাহিনিটি শোনানো হয়েছিল এমন এক নবী ﷺ-কে, যিনি নিজের কওমের প্রত্যাখ্যানের মুখে দাঁড়িয়ে ছিলেন। তাই আয়াতটি আমার কাছে দুটো জিনিস জানতে চায়। কেউ আমাকে সোজাসুজি সতর্ক করলে আমি কি তাতে মমতা শুনি, নাকি অপমান? আর আমি যখন সতর্ক করি, কথাটা কি স্পষ্ট হয়, আর তা কি তার ভালোর জন্যই হয়?",
+    "pointsEn": [
+      "Who in my life has warned me plainly, and did I thank them or quietly hold it against them?",
+      "When I have to warn someone, do I say it clearly enough that nothing is left to guess, or do I soften it until it means nothing?",
+      "Is the warning I give about what Allah has said, or about my own preferences dressed up as religion?",
+      "Can the person I warn hear in my voice that I fear for them, rather than that I am pleased to be right?",
+      "Which warning in the Qur'an have I read so often that I no longer hear it as spoken to me?"
+    ],
+    "pointsBn": [
+      "আমার জীবনে কে আমাকে সোজাসুজি সতর্ক করেছে? আমি কি তাকে ধন্যবাদ দিয়েছি, নাকি মনে মনে তার উপর নারাজ থেকেছি?",
+      "কাউকে সতর্ক করতে হলে আমি কি এমন স্পষ্ট করে বলি যে অনুমানের কিছু বাকি থাকে না? নাকি এত নরম করে বলি যে কথাটার আর কোনো মানে থাকে না?",
+      "আমার সতর্কবাণী কি আল্লাহর কথা নিয়ে, নাকি দ্বীনের পোশাক পরানো আমার নিজের পছন্দ-অপছন্দ নিয়ে?",
+      "যাকে সতর্ক করছি, সে কি আমার গলায় শুনতে পায় যে আমি তার জন্য ভয় পাচ্ছি? নাকি শুধু শোনে যে নিজেকে সঠিক প্রমাণ করে আমি খুশি?",
+      "কুরআনের কোন সতর্কবাণী আমি এত বেশিবার পড়েছি যে এখন আর মনে হয় না, ওটা আমাকেই বলা হচ্ছে?"
+    ],
+    "lessonEn": "A clear warning is a mercy. Give it plainly and for the listener's sake, and when one comes to you, hear the care inside it before the sting.",
+    "lessonBn": "স্পষ্ট সতর্কবাণী আসলে রহমত। সোজাসুজি আর শ্রোতার ভালোর জন্য তা দিন, আর আপনার কাছে এলে খোঁচার আগে তার ভেতরের মমতাটুকু শুনুন।"
   }
 };
 
