@@ -6234,5 +6234,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "11:123": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Act and Wait",
+          "bn": "কাজ আর অপেক্ষার পরে"
+        },
+        "p": [
+          {
+            "en": "Surah Hud has told its accounts of the messengers, from Nuh (AS) to Musa (AS), and 11:120 has said why: to make the Prophet's heart firm. Then 11:121 and 11:122 give him words for those who will not believe. Act according to your position; we are acting. And wait; we are waiting. Shu'ayb (AS) had said nearly the same to Madyan in 11:93: act according to your position, I am acting, and watch, I am watching with you.",
+            "bn": "সূরা হূদ নূহ (আঃ) থেকে মূসা (আঃ) পর্যন্ত রাসূলদের কাহিনি শুনিয়েছে, আর ১১:১২০ আয়াত জানিয়ে দিয়েছে কেন: নবী ﷺ-এর হৃদয় মজবুত করার জন্য। এরপর ১১:১২১ ও ১১:১২২ আয়াত তাঁকে শিখিয়ে দেয়, যারা ঈমান আনবে না তাদের কী বলতে হবে। তোমরা নিজেদের অবস্থানে থেকে কাজ করো, আমরাও কাজ করছি। আর অপেক্ষা করো, আমরাও অপেক্ষায় আছি। প্রায় একই কথা শুআইব (আঃ) মাদইয়ানকে বলেছিলেন ১১:৯৩ আয়াতে: নিজেদের অবস্থানে থেকে কাজ করো, আমিও করছি। আর নজর রাখো, আমিও তোমাদের সঙ্গে নজর রাখছি।"
+          },
+          {
+            "en": "Waiting leaves a question open: waiting for what, and decided by whom? The surah's last verse answers in sixteen Arabic words and four movements. To Allah belongs the unseen of the heavens and the earth. To Him the whole matter is returned. So worship Him and rely on Him. And your Lord is not unaware of what you do. At-Tabari, al-Qurtubi, Ibn Kathir and as-Sa'di each mark the end of their work on Surah Hud here, and as-Sa'di opens with a verdict.",
+            "bn": "অপেক্ষার কথায় একটা প্রশ্ন থেকে যায়: কিসের অপেক্ষা, আর ফয়সালা করবেন কে? সূরার শেষ আয়াত জবাব দেয় আরবিতে ষোলো শব্দে, চারটি ধাপে। আসমান ও জমিনের অদৃশ্য আল্লাহরই। সব বিষয় তাঁর কাছেই ফিরিয়ে নেওয়া হয়। কাজেই তাঁর ইবাদত করো, তাঁর উপর ভরসা রাখো। আর তোমরা যা করো, তোমার রব সে সম্পর্কে বেখবর নন। তাবারী, কুরতুবী, ইবন কাসীর আর সা'দী, প্রত্যেকে এখানে এসে সূরা হূদের তাফসীর শেষ হওয়ার কথা লিখে দেন। আর সা'দী আলোচনা শুরু করেন একটি ফয়সালার কথা দিয়ে।"
+          },
+          {
+            "en": "In his words, Allah has already judged between the two parties and shown His servants His help for the believers and His crushing of His enemies who denied. So the closing verse is not read as a hope still hanging in the air. The surah has shown how the earlier waits ended. What it gives the Prophet ﷺ now is the ground under the present wait: whose knowledge covers what is not yet seen, and to whom every outcome finally goes back.",
+            "bn": "তাঁর ভাষায়, আল্লাহ দুই দলের মধ্যে ফয়সালা করে দিয়েছেন। তিনি তাঁর বান্দাদের দেখিয়ে দিয়েছেন মুমিনদের জন্য তাঁর সাহায্য, আর মিথ্যা প্রতিপন্নকারী শত্রুদের তিনি কীভাবে দমন করেছেন। তাই শেষ আয়াতটিকে শূন্যে ঝুলে থাকা কোনো আশা হিসেবে পড়া হয় না। আগের অপেক্ষাগুলো কীভাবে শেষ হয়েছিল, সূরাটি তা দেখিয়েছে। এবার নবী ﷺ-কে সে দেয় চলমান অপেক্ষার নিচের মাটি: যা এখনো দেখা যায়নি, তা কার জ্ঞানের আওতায়, আর প্রতিটি পরিণতি শেষ পর্যন্ত কার কাছে ফিরে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hidden From Us, Not Him",
+          "bn": "আমাদের আড়ালে, তাঁর নয়"
+        },
+        "p": [
+          {
+            "en": "Wa lillahi ghaybu as-samawati wal-ard: and to Allah belongs the unseen of the heavens and the earth. Al-Qurtubi gathers several readings. His own gloss is their unseen and their seen, the second dropped because the sense points to it. Ibn 'Abbas (RA): the treasures of the heavens and the earth. Ad-Dahhak: all that is hidden from the servants in them. The rest, he says, took it as punishment coming down from the sky and rising from the earth.",
+            "bn": "ওয়া লিল্লাহি গায়বুস সামাওয়াতি ওয়াল আরদ: আসমান ও জমিনের অদৃশ্য আল্লাহরই। কুরতুবী এর কয়েকটি ব্যাখ্যা একসঙ্গে এনেছেন। তাঁর নিজের ব্যাখ্যা: আসমান-জমিনের অদৃশ্য ও দৃশ্য দুটোই। দ্বিতীয়টা বাদ পড়েছে, কারণ অর্থই তার দিকে ইশারা করে। ইবন আব্বাস (রাঃ) বলেন: আসমান ও জমিনের ভান্ডারসমূহ। দাহহাকের মতে: এ দুয়ের মধ্যে বান্দাদের কাছ থেকে যা কিছু লুকানো। কুরতুবী জানান, বাকিরা এর অর্থ ধরেছেন আসমান থেকে আজাব নেমে আসা আর জমিন থেকে তা উঠে আসা।"
+          },
+          {
+            "en": "He adds the grammarian Abu 'Ali al-Farisi: the knowledge of what is hidden in them. On this reading ghayb is joined to the heavens and the earth by a widening of usage, the preposition dropped, as Arabs say ghibtu fi al-ard, I went out of sight in the land. At-Tabari, speaking to the Prophet ﷺ, makes it ownership: to Allah, O Muhammad, belongs the dominion of all that is absent from you in the heavens and the earth, which you have not seen or come to know.",
+            "bn": "এরপর কুরতুবী আনেন ব্যাকরণবিদ আবু আলী ফারিসীর মত: এ দুয়ের মধ্যে যা লুকানো, তার জ্ঞান। এ ব্যাখ্যায় গায়ব শব্দটি আসমান-জমিনের সঙ্গে জুড়েছে ভাষার প্রশস্ত ব্যবহারের নিয়মে, মাঝের অব্যয়টি বাদ দিয়ে। যেমন আরবরা বলে গিবতু ফিল আরদ, অর্থাৎ আমি দেশের ভেতর চোখের আড়ালে চলে গেলাম। তাবারী কথাটা বলেন নবী ﷺ-কে সম্বোধন করে, আর এর অর্থ নেন মালিকানা। হে মুহাম্মাদ, আসমান ও জমিনে যা কিছু তোমার আড়ালে, যা তুমি দেখোনি আর জানোনি, তার সবকিছুর মালিকানা আল্লাহর।"
+          },
+          {
+            "en": "All of it, he goes on, is in His hand and His knowledge; nothing of it is hidden from Him. Then he names one hidden thing in particular: what the idolaters of the Prophet's people were doing, and where their affair would end, whether they stayed in shirk or gave it up and repented. That ties the unseen to the very wait of 11:122. The others keep to the general sense: al-Baghawi, the knowledge of what is hidden from the servants; as-Sa'di, the concealed things and matters of the unseen.",
+            "bn": "তিনি আরও বলেন, এর সবই তাঁর হাতে আর তাঁর জ্ঞানে, এর কিছুই তাঁর কাছে গোপন নয়। তারপর একটি গোপন বিষয়ের কথা আলাদা করে বলেন। নবী ﷺ-এর কওমের মুশরিকরা কী করছে, আর তাদের ব্যাপারটা শেষে কোথায় গিয়ে দাঁড়াবে: তারা শিরকেই অটল থাকবে, নাকি তা ছেড়ে তওবা করবে। এভাবে অদৃশ্যের কথাটা জুড়ে যায় ১১:১২২ আয়াতের সেই অপেক্ষার সঙ্গেই। অন্যরা সাধারণ অর্থেই থাকেন। বাগাভীর মতে, বান্দাদের কাছ থেকে যা লুকানো তার জ্ঞান। সা'দীর মতে, গোপন বিষয়াদি আর অদৃশ্যের যাবতীয় ব্যাপার।"
+          },
+          {
+            "en": "The word has already done work in this surah. In 11:31 Nuh (AS) tells his people that he does not know the unseen. In 11:49 his story is called from the news of the unseen which We reveal to you, unknown to the Prophet ﷺ and his people before. The one who brought those reports knew of the unseen only what was revealed to him, and the last verse returns the whole of it to its Owner. The same opening words recur in 16:77.",
+            "bn": "এই সূরায় শব্দটি আগেও কাজ করেছে। ১১:৩১ আয়াতে নূহ (আঃ) তাঁর কওমকে বলেন, তিনি অদৃশ্য জানেন না। ১১:৪৯ আয়াতে তাঁর কাহিনিকে বলা হয়েছে অদৃশ্যের খবর, যা আমি তোমার কাছে ওহি করছি, এর আগে যা তুমিও জানতে না, তোমার কওমও না। অর্থাৎ যিনি এসব খবর পৌঁছে দিলেন, অদৃশ্যের ততটুকুই তিনি জেনেছেন, যতটুকু তাঁর কাছে ওহি করা হয়েছে। আর শেষ আয়াত পুরো অদৃশ্যকে ফিরিয়ে দেয় তার মালিকের কাছে। হুবহু একই শব্দে শুরু হয়েছে ১৬:৭৭ আয়াতও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Whole Matter Goes Back",
+          "bn": "সব বিষয় ফেরে তাঁরই কাছে"
+        },
+        "p": [
+          {
+            "en": "Wa ilayhi yurja'u al-amru kulluh: and to Him the whole matter is returned. Al-Qurtubi and al-Baghawi both note that Nafi' and Hafs read yurja'u, with damma on the ya and fatha on the jim, meaning it is sent back. Al-Baghawi gives the others' reading, yarji'u, meaning the whole matter goes back to Him, until creation is left with no say at all. Al-Qurtubi and the Muyassar place the return on the Day of Resurrection, al-Qurtubi adding that no created being has any command except by His leave.",
+            "bn": "ওয়া ইলাইহি ইউরজাউল আমরু কুল্লুহ: আর সব বিষয় তাঁর কাছেই ফিরিয়ে নেওয়া হয়। কুরতুবী ও বাগাভী দুজনেই জানান, নাফে' ও হাফস পড়েছেন ইউরজাউ, ইয়া-তে পেশ আর জীমে যবর দিয়ে। অর্থ, ফিরিয়ে দেওয়া হয়। বাগাভী অন্যদের কিরাআতও দেন: ইয়ারজিউ, অর্থাৎ সব বিষয় নিজেই তাঁর দিকে ফিরে যায়, শেষে সৃষ্টির হাতে কোনো এখতিয়ারই আর থাকে না। কুরতুবী ও মুয়াসসার এই ফিরে যাওয়াকে রাখেন কিয়ামতের দিনে। কুরতুবী যোগ করেন, তাঁর অনুমতি ছাড়া কোনো সৃষ্টির কোনো হুকুম তখন নেই।"
+          },
+          {
+            "en": "At-Tabari makes it concrete: to Allah is the return of every doer and his deed, and He will recompense all of them for what they did. He relays Ibn Jurayj: so He judges between them by His ruling, with justice. As-Sa'di takes al-amr as deeds and doers together, which He sorts, the bad from the good. Ibn Kathir: to Him is the final return, He will pay every doer his deed in full on the Day of Reckoning, and His are the creation and the command. Kulluh, all of it, leaves nothing outside.",
+            "bn": "তাবারী কথাটাকে আরও স্পষ্ট করেন: প্রত্যেক আমলকারী আর তার আমল আল্লাহর কাছেই ফিরে যাবে, আর তিনি সবাইকে তাদের কাজের প্রতিফল দেবেন। তিনি ইবন জুরাইজের কথাও আনেন: এরপর তিনি নিজের হুকুমে ইনসাফের সঙ্গে তাদের মধ্যে ফয়সালা করবেন। সা'দী আমর বলতে বোঝেন আমল আর আমলকারী দুটোকেই, যাদের তিনি আলাদা করবেন, মন্দকে ভালো থেকে। ইবন কাসীর বলেন, শেষ প্রত্যাবর্তন তাঁরই কাছে, হিসাবের দিন তিনি প্রত্যেককে তার আমলের পুরো প্রতিদান দেবেন, আর সৃষ্টি ও হুকুম দুটোই তাঁর। কুল্লুহ, অর্থাৎ সবটুকু, কোনো কিছুকেই বাইরে রাখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worship With Reliance Inside It",
+          "bn": "ইবাদতের ভেতরেই ভরসা"
+        },
+        "p": [
+          {
+            "en": "Then the command, joined by fa, so: fa'budhu wa tawakkal 'alayh, so worship Him and rely on Him. Because the unseen and the return are His, the servant is told what to do in the meantime. At-Tabari: worship your Lord, O Muhammad, and entrust your affair to Him, trust Him and His sufficiency, for He suffices whoever relies on Him. Ibn Kathir: He is enough for whoever relies on Him and turns to Him. Al-Qurtubi: take refuge in Him and trust Him.",
+            "bn": "এরপর আদেশ, ফা দিয়ে জোড়া, অর্থাৎ কাজেই: ফা'বুদহু ওয়া তাওয়াক্কাল আলাইহ, কাজেই তাঁর ইবাদত করো আর তাঁর উপর ভরসা রাখো। অদৃশ্য আর প্রত্যাবর্তন যেহেতু তাঁরই, তাই বান্দাকে বলে দেওয়া হলো এর মাঝের সময়টায় তার কী করণীয়। তাবারী বলেন: হে মুহাম্মাদ, তোমার রবের ইবাদত করো, নিজের ব্যাপার তাঁর হাতে সঁপে দাও, তাঁর উপর আর তাঁর যথেষ্টতার উপর আস্থা রাখো, কারণ যে তাঁর উপর ভরসা করে, তিনিই তার জন্য যথেষ্ট। ইবন কাসীরের ভাষায়, যে তাঁর উপর ভরসা করে আর তাঁর দিকে ফিরে আসে, তিনি তার জন্য যথেষ্ট। কুরতুবীর মতে: তাঁর আশ্রয় নাও, তাঁর উপর আস্থা রাখো।"
+          },
+          {
+            "en": "As-Sa'di joins the two words. Worship, he says, is all that Allah has commanded which you are able to do, and rely on Allah in that. Reliance then is not a second task beside worship but the way worship is carried out. The surah began here: 11:2 puts its message as alla ta'budu illa Allah, that you worship none but Allah. Hud (AS) said in 11:56, I have relied on Allah, my Lord and your Lord, and Shu'ayb (AS) in 11:88, on Him I have relied.",
+            "bn": "সা'দী দুটি শব্দকে একসঙ্গে বাঁধেন। তিনি বলেন, ইবাদত হলো আল্লাহর দেওয়া সেই সব হুকুম, যা পালন করার সামর্থ্য তোমার আছে, আর সেই কাজেই আল্লাহর উপর ভরসা রাখো। তাহলে ভরসা ইবাদতের পাশে আলাদা কোনো দায়িত্ব নয়, বরং ইবাদত আদায়ের ধরন। সূরাটি শুরুও হয়েছিল এখান থেকে। ১১:২ আয়াতে তার বার্তা এক বাক্যে: আল্লাহ ছাড়া কারও ইবাদত কোরো না। হূদ (আঃ) ১১:৫৬ আয়াতে বলেছিলেন, আমি আল্লাহর উপর ভরসা করেছি, যিনি আমার রব, তোমাদেরও রব। আর শুআইব (আঃ) ১১:৮৮ আয়াতে: তাঁরই উপর আমি ভরসা করেছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Deed Goes Unnoticed",
+          "bn": "কোনো কাজ চোখ এড়ায় না"
+        },
+        "p": [
+          {
+            "en": "Wa ma rabbuka bi-ghafilin 'amma ta'malun: and your Lord is not unaware of what you do. At-Tabari: your Lord, O Muhammad, is not inattentive to what these idolaters of your people do; He encompasses it, nothing of it escapes Him, and He lies in wait for them. Then he turns it to comfort: let their turning away not grieve you, nor their denial of the truth you brought; go on with your Lord's command, for you are under Our eyes. Ibn Kathir adds that He will help you and your party against them in both abodes.",
+            "bn": "ওয়া মা রাব্বুকা বিগাফিলিন আম্মা তা'মালূন: আর তোমরা যা করো, তোমার রব সে সম্পর্কে বেখবর নন। তাবারী বলেন: হে মুহাম্মাদ, তোমার কওমের এই মুশরিকরা যা করছে, তোমার রব সে ব্যাপারে অমনোযোগী নন। সবকিছু তাঁর আয়ত্তে, এর কিছুই তাঁর কাছ থেকে হারিয়ে যায় না, আর তিনি তাদের জন্য ওত পেতে আছেন। তারপর কথাটাকে তিনি সান্ত্বনায় বদলে দেন। তাদের মুখ ফিরিয়ে নেওয়া যেন তোমাকে দুঃখ না দেয়, তুমি যে সত্য এনেছ তা অস্বীকার করাও না। রবের হুকুম নিয়ে এগিয়ে যাও, কারণ তুমি আমার চোখের সামনেই আছ। ইবন কাসীর যোগ করেন, দুনিয়া ও আখিরাত দুই জগতেই আল্লাহ তোমাকে আর তোমার দলকে তাদের বিরুদ্ধে সাহায্য করবেন।"
+          },
+          {
+            "en": "Al-Qurtubi, the Muyassar and as-Sa'di widen it: He will recompense each by his deed, good and evil alike, and as-Sa'di adds that His knowledge has encompassed it and His Pen has written it. On the last word, al-Qurtubi says the people of Madinah and Sham, with Hafs, read ta'malun, what you do, as address; the rest read ya'malun, what they do, as report. Al-Baghawi adds the reader Ya'qub and notes the same split at the end of Surah an-Naml, which closes on these words in 27:93.",
+            "bn": "কুরতুবী, মুয়াসসার ও সা'দী কথাটাকে আরও প্রশস্ত করেন: ভালো হোক বা মন্দ, প্রত্যেককে তিনি তার আমলের প্রতিফল দেবেন। সা'দী যোগ করেন, তাঁর জ্ঞান সবকিছুকে ঘিরে রেখেছে, তাঁর কলম তা লিখে রেখেছে। শেষ শব্দটি নিয়ে কুরতুবী জানান, মদীনা ও শামের লোকেরা আর হাফস পড়েছেন তা'মালূন, অর্থাৎ তোমরা যা করো, সরাসরি সম্বোধন হিসেবে। বাকিরা পড়েছেন ইয়া'মালূন, অর্থাৎ তারা যা করে, খবর হিসেবে। বাগাভী এই দলে কারী ইয়াকুবের নামও যোগ করেন। তিনি জানান, সূরা নামলের শেষেও একই ভাগাভাগি, যে সূরা ২৭:৯৩ আয়াতে হুবহু এই শব্দেই শেষ হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Saying About the Torah",
+          "bn": "তাওরাত নিয়ে একটি উক্তি"
+        },
+        "p": [
+          {
+            "en": "Four of the commentators record one remark at this verse. At-Tabari gives it with his chain, from Ibn Waki' back through 'Abd Allah ibn Rabah to Ka'b: the closing of the Torah is the closing of Hud. Ibn Kathir relays it from at-Tabari with the same chain. Al-Baghawi gives it in a line: Ka'b said, the closing of the Torah is the closing of Surah Hud. Al-Qurtubi names him Ka'b al-Ahbar and marks the span: from wa lillahi ghaybu as-samawati wal-ard to the end of the surah.",
+            "bn": "চারজন তাফসীরকার এই আয়াতে একটি উক্তি উল্লেখ করেছেন। তাবারী তা এনেছেন নিজের সনদে, ইবন ওয়াকী থেকে আবদুল্লাহ ইবন রাবাহ হয়ে কা'ব পর্যন্ত: তাওরাতের সমাপ্তি আর হূদের সমাপ্তি একই। ইবন কাসীর একই সনদে তাবারী থেকে কথাটি বর্ণনা করেছেন। বাগাভী এক লাইনে বলেন: কা'ব বলেছেন, তাওরাতের সমাপ্তিই সূরা হূদের সমাপ্তি। কুরতুবী তাঁর পুরো নাম দেন কা'ব আল-আহবার, আর অংশটাও চিহ্নিত করে দেন: ওয়া লিল্লাহি গায়বুস সামাওয়াতি ওয়াল আরদ থেকে সূরার শেষ পর্যন্ত।"
+          },
+          {
+            "en": "It is Ka'b's own statement, not words of the Prophet ﷺ, and none of the four weighs it or explains it; at-Tabari's chain runs to Ka'b and stops there. It is set down here as they set it down, a saying attributed to him, with nothing built on it. What can be seen from the verse itself is why its clauses sound like an ending. They move from what Allah owns, to where everything returns, to what the servant must do, to the One who sees it done.",
+            "bn": "এটি কা'বের নিজের কথা, নবী ﷺ-এর বাণী নয়। চারজনের কেউই একে যাচাই করেননি, ব্যাখ্যাও করেননি। তাবারীর সনদ কা'ব পর্যন্ত গিয়ে থেমে গেছে। তাই তাঁরা যেভাবে লিখেছেন, এখানেও সেভাবেই রাখা হলো: কা'বের নামে বর্ণিত একটি উক্তি, যার উপর কিছুই দাঁড় করানো হচ্ছে না। তবে আয়াতটি নিজেই দেখিয়ে দেয়, তার বাক্যগুলো কেন সমাপ্তির মতো শোনায়। শুরু হয় আল্লাহর মালিকানা দিয়ে, তারপর সবকিছু কোথায় ফেরে, তারপর বান্দার করণীয়, আর শেষে সেই সত্তা, যিনি সব কাজ দেখছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hud Among Five Surahs",
+          "bn": "পাঁচ সূরার মধ্যে হূদ"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi ends his tafsir of the surah with a narration he gives through his own chain back to at-Tirmidhi. It is in at-Tirmidhi (no. 3297), from Ibn 'Abbas (RA): \"Abu Bakr [may Allah be pleased with him] said: 'O Messenger of Allah! You have become gray.' He said: 'I have gone gray from (Surat) Hud, Al-Waqi'ah, Al-Mursalat and 'Amma Yatasa'alun and Idhash-Shamsu Kuwwirat.'\" At-Tirmidhi grades it hasan gharib, and says he knows it from Ibn 'Abbas only by this one route.",
+            "bn": "বাগাভী সূরার তাফসীর শেষ করেন একটি বর্ণনা দিয়ে, যা তিনি নিজের সনদে তিরমিযী পর্যন্ত পৌঁছে দেন। বর্ণনাটি তিরমিযীতে আছে (নং ৩২৯৭), ইবন আব্বাস (রাঃ) থেকে: আবু বকর (রাঃ) বললেন, \"হে আল্লাহর রাসূল, আপনার চুল তো পেকে গেছে।\" তিনি বললেন, \"হূদ, ওয়াকিআ, মুরসালাত, আম্মা ইয়াতাসাআলূন আর ইযাশ শামসু কুওয়িরাত আমার চুল পাকিয়ে দিয়েছে।\" তিরমিযী একে হাসান গরীব বলেছেন, আর জানিয়েছেন, ইবন আব্বাস (রাঃ) থেকে এটি তিনি কেবল এই একটি সূত্রেই জানেন।"
+          },
+          {
+            "en": "The report names five surahs and no single verse, so it belongs to the surah as a whole, not to 11:123 in particular; the articles on 11:112 and 11:120 take it up at more length. Al-Baghawi adds, under it is narrated, a shorter form about Hud and its sisters, with no source given, so it is only noted here. No commentary consulted attaches any other hadith to this verse, and none gives an occasion of revelation for it.",
+            "bn": "বর্ণনাটিতে পাঁচটি সূরার নাম আছে, কোনো নির্দিষ্ট আয়াতের নয়। তাই এটি গোটা সূরার সঙ্গে যুক্ত, আলাদা করে ১১:১২৩ আয়াতের সঙ্গে নয়। ১১:১১২ ও ১১:১২০ আয়াতের প্রবন্ধে এ নিয়ে বিস্তারিত আলোচনা আছে। বাগাভী 'বর্ণিত আছে' বলে এর একটি ছোট রূপও আনেন, হূদ ও তার বোনদের কথা, কিন্তু কোনো সূত্র উল্লেখ করেননি। তাই এখানে শুধু তার উল্লেখটুকুই থাকল। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এই আয়াতের সঙ্গে অন্য কোনো হাদীস যুক্ত করেনি, আর কোনোটিই এর নাযিলের কোনো উপলক্ষ বলেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Waiting With the Ending His",
+          "bn": "শেষটা তাঁর হাতে রেখে অপেক্ষা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's idolaters and Ibn Kathir's deniers are the Prophet's own opponents, in the setting the surah describes. The verse describes what the text describes: a Lord who saw what they did, and an outcome left with Him. It licenses nothing against any living person or community. Notice where it puts the believer's effort: not in settling accounts with others, but in worship and reliance. The verdict on other people is exactly what the verse hands back to Allah, along with the rest of the unseen.",
+            "bn": "তাবারী যাদের মুশরিক বলেন আর ইবন কাসীর যাদের মিথ্যা প্রতিপন্নকারী বলেন, তারা নবী ﷺ-এর নিজের যুগের বিরোধী, সূরাটি যে প্রেক্ষাপটের কথা বলে সেখানকার মানুষ। আয়াতটি কেবল ততটুকুই বলে, যতটুকু তার পাঠ বলে: এক রব, যিনি তাদের কাজ দেখেছেন, আর এক পরিণতি, যা তাঁর হাতেই রাখা। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। খেয়াল করুন, মুমিনের চেষ্টাকে আয়াতটি কোথায় রাখে। অন্যের সঙ্গে হিসাব চুকানোয় নয়, ইবাদত আর ভরসায়। অন্য মানুষের ব্যাপারে ফয়সালাটাই আয়াত বাকি অদৃশ্যের সঙ্গে আল্লাহর হাতে ফিরিয়ে দেয়।"
+          },
+          {
+            "en": "For a reader now, the verse speaks to every kind of waiting: for an illness to lift, a wrong to be put right, a child to come home, a long effort to bear fruit. How it will turn out belongs to the unseen, and the unseen is His. The outcome goes back to Him. What stays in my hands is worship, in as-Sa'di's words all that is commanded which I am able to do, and reliance on Allah while doing it.",
+            "bn": "আজকের পাঠকের কাছে আয়াতটি সব রকম অপেক্ষার কথা বলে। অসুখ সেরে ওঠার অপেক্ষা, কোনো অন্যায়ের প্রতিকারের অপেক্ষা, সন্তানের ঘরে ফেরার অপেক্ষা, দীর্ঘ পরিশ্রমের ফল দেখার অপেক্ষা। শেষে কী হবে, তা অদৃশ্যের অংশ, আর অদৃশ্য তাঁরই। পরিণতি ফিরে যায় তাঁর কাছে। আমার হাতে যা থাকে, তা হলো ইবাদত। সা'দীর ভাষায়, যে হুকুম পালনের সামর্থ্য আমার আছে তার সবটুকু, আর সেই কাজ করতে করতে আল্লাহর উপর ভরসা।"
+          },
+          {
+            "en": "Surah Hud does not end on the ruin of nations. It ends on a servant at work and a Lord who is watching, and on a promise folded into a warning: your Lord is not unaware of what you do. The deniers hear it as a threat. The one who is worshipping and relying hears that nothing done for Allah, however small or unseen by others, has gone unnoticed. Both are told the same sentence, and each hears what his deeds have earned.",
+            "bn": "সূরা হূদ জাতিগুলোর ধ্বংসের কথায় শেষ হয় না। শেষ হয় কাজে লেগে থাকা এক বান্দা আর নজর রাখা এক রবের কথায়। আর একটি সতর্কবাণীর ভেতরে ভাঁজ করা এক প্রতিশ্রুতিতে: তোমরা যা করো, তোমার রব সে সম্পর্কে বেখবর নন। অস্বীকারকারীর কানে এটা হুমকি। যে ইবাদত করছে আর ভরসা রাখছে, সে এখানে শোনে আশ্বাস। আল্লাহর জন্য করা কোনো কাজ, যত ছোটই হোক, অন্যের চোখে যত অদেখাই থাকুক, তাঁর নজর এড়ায়নি। দুজনকে একই বাক্য বলা হয়, আর প্রত্যেকে শোনে তার আমল যা পাওয়ার যোগ্য।"
+          }
+        ]
+      }
+    ]
   }
 });

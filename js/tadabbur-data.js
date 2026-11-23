@@ -32663,6 +32663,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh a word by its truth, not by the standing of the one who says it, and let fear of Allah, not fear of someone's people, keep your hands off them.",
     "lessonBn": "কথা মাপুন তার সত্যতা দিয়ে, বক্তার পদমর্যাদা দিয়ে নয়। আর কারও উপর হাত তোলা থেকে আপনাকে থামাক আল্লাহর ভয়, তার লোকজনের ভয় নয়।"
+  },
+  "11:123": {
+    "reflectionEn": "Surah Hud has told its stories, then told those who refuse: act as you will, and wait. Its last verse leaves the believer with four things. What is hidden from me is not hidden from Allah. Every matter, mine and theirs, goes back to Him. So my part is to worship Him and lean on Him, both together. And nothing slips past: my Lord is not unaware of what I do. The verse does not promise that I will live to see how things end. It tells me who holds the ending. When I am waiting on an outcome I cannot see, am I still doing what is mine to do, and leaving the rest with Him?",
+    "reflectionBn": "সূরা হূদ তার কাহিনিগুলো শেষ করেছে। তারপর যারা মানে না, তাদের বলে দিয়েছে: তোমরা নিজের মতো কাজ করে যাও, আর অপেক্ষা করো। শেষ আয়াতটি মুমিনের হাতে চারটি জিনিস তুলে দেয়। যা আমার চোখের আড়ালে, তা আল্লাহর আড়ালে নয়। আমার আর তাদের, সব বিষয়ই ফিরে যায় তাঁর কাছে। তাই আমার কাজ তাঁর ইবাদত করা আর তাঁর উপর ভরসা রাখা, দুটোই একসঙ্গে। আর কিছুই তাঁর নজর এড়ায় না: আমি যা করি, আমার রব সে সম্পর্কে বেখবর নন। আয়াতটি কথা দেয় না যে শেষটা আমি নিজের চোখে দেখে যাব। সে শুধু জানিয়ে দেয়, শেষটা কার হাতে। যে ফলাফল দেখা যায় না, তার অপেক্ষায় থাকার সময় আমি কি নিজের ভাগের কাজটা করে যাচ্ছি, আর বাকিটা তাঁর হাতে ছেড়ে দিচ্ছি?",
+    "pointsEn": [
+      "What outcome am I waiting on right now, and have I handed it to Allah, or am I still gripping it myself?",
+      "Is my reliance on Allah joined to worship, or have I been asking Him to carry what I have not lifted a hand for?",
+      "When people dismiss what I believe, do I answer with bitterness, or keep to my work and leave the verdict to Him?",
+      "If I truly kept in mind that my Lord is not unaware of what I do, what would I stop today, and what would I begin?",
+      "Which hidden thing do I worry over most, and what would change if I believed that it belongs to Him?"
+    ],
+    "pointsBn": [
+      "এই মুহূর্তে কোন ফলাফলের অপেক্ষায় আছি? সেটা কি আল্লাহর হাতে সঁপে দিয়েছি, নাকি এখনো নিজেই আঁকড়ে ধরে আছি?",
+      "আল্লাহর উপর আমার ভরসার সঙ্গে কি ইবাদত আছে? নাকি যে কাজে আমি হাতই লাগাইনি, তার ভার তাঁর উপর চাপিয়ে দিতে চাইছি?",
+      "আমার বিশ্বাসকে কেউ তুচ্ছ করলে আমি কি তিক্ততা নিয়ে জবাব দিই? নাকি নিজের কাজে লেগে থেকে ফয়সালা তাঁর হাতে ছেড়ে দিই?",
+      "আমার রব আমার কোনো কাজ সম্পর্কে বেখবর নন, এ কথা সত্যিই মনে রাখলে আজ কোন কাজটা ছেড়ে দিতাম, আর কোনটা শুরু করতাম?",
+      "কোন অদেখা বিষয় নিয়ে আমি সবচেয়ে বেশি দুশ্চিন্তা করি? সেটা যে তাঁরই, এ কথা বিশ্বাস করলে কী বদলে যেত?"
+    ],
+    "lessonEn": "What is hidden belongs to Allah and every matter returns to Him. Do your part in worship, rely on Him for the rest, and remember that He sees all you do.",
+    "lessonBn": "অদৃশ্যের মালিক আল্লাহ, আর সব বিষয় তাঁর কাছেই ফিরে যায়। ইবাদতে নিজের ভাগের কাজটা করুন, বাকিটার জন্য তাঁর উপর ভরসা রাখুন, আর মনে রাখুন, আপনি যা করেন সবই তিনি দেখেন।"
   }
 };
 
