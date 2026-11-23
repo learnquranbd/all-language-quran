@@ -1715,6 +1715,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:42": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Among the Deniers",
+          "bn": "অস্বীকারকারীদের ভেতর থেকেই"
+        },
+        "p": [
+          {
+            "en": "The verses before ours sort the people the Qur'an reached. 10:40 says that of them are some who believe in it and some who do not, and that your Lord knows best the corrupters. 10:41 tells the Prophet ﷺ what to say if they deny him: for me are my deeds and for you are your deeds. Ibn Kathir's abridged English heads that verse as the command to be clear of the idolaters, citing 109:1 and 109:2, and 60:4. Our verse then opens with wa minhum, and among them, the same word that divided the people in 10:40.",
+            "bn": "এ আয়াতের আগের আয়াতগুলো কুরআন যাদের কাছে পৌঁছেছে, তাদের ভাগ করে দেখায়। ১০:৪০ বলে, তাদের কেউ এতে ঈমান আনে, কেউ আনে না, আর ফাসাদকারীদের আপনার রবই সবচেয়ে ভালো জানেন। ১০:৪১ নবী ﷺ-কে শিখিয়ে দেয়, তারা অস্বীকার করলে কী বলতে হবে: আমার আমল আমার, তোমাদের আমল তোমাদের। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ওই আয়াতের শিরোনাম দেয় মুশরিকদের থেকে দায়মুক্ত থাকার আদেশ, আর সঙ্গে আনে ১০৯:১ ও ১০৯:২ এবং ৬০:৪। এরপর আমাদের আয়াত শুরু হয় 'ওয়া মিনহুম' দিয়ে, অর্থাৎ তাদের মধ্যে কেউ কেউ। ১০:৪০-এ মানুষকে যে শব্দ দুই ভাগে ভাগ করেছিল, এটা সেই শব্দই।"
+          },
+          {
+            "en": "Who are the them? At-Tabari answers: of these mushrikun, and on the twin verse, 10:43, he narrows it to the mushrikun of the Prophet's own people. As-Sa'di says Allah is informing about some of those who denied the Messenger and what he brought. The Muyassar says simply: of the disbelievers. So the listeners in this verse are not the believers of 10:40. They come from the other group, people who had already refused, and who still came near enough to hear. The verse begins with the one thing they did, which was to listen.",
+            "bn": "এই 'তারা' কারা? তাবারীর জবাব: এই মুশরিকদের মধ্যে কেউ কেউ। পাশের জোড়া আয়াত ১০:৪৩-এ তিনি আরও নির্দিষ্ট করে বলেন, নবী ﷺ-এর নিজের কওমের মুশরিকরা। সা'দী বলেন, যারা রাসূলকে আর তাঁর আনা বাণীকে মিথ্যা বলেছিল, আল্লাহ এখানে তাদের কিছু লোকের খবর দিচ্ছেন। মুয়াসসার সোজা বলে দেয়: কাফিরদের মধ্যে কেউ কেউ। তাহলে এ আয়াতের শ্রোতারা ১০:৪০-এর মুমিনরা নন। তারা অন্য দলের মানুষ, যারা আগেই অস্বীকার করে বসেছিল, তবু শোনার মতো কাছে এসে বসত। আয়াতের শুরু তাদের একটিমাত্র কাজ দিয়ে, আর সেটা হলো শোনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Gives the Hearing",
+          "bn": "শোনার ক্ষমতা কে দেয়"
+        },
+        "p": [
+          {
+            "en": "The verse is eleven words in Arabic, and the root s-m-' carries it twice. Yastami'una, they listen, is something the listeners do. Tusmi'u, you cause to hear, is something that would have to be done to them, and the verse puts that second verb to the Prophet ﷺ as a question. At-Tabari spells the question out in Allah's voice: is it you who create hearing for them, though they have no hearing they reason with, or I? The weight falls on anta, you, placed in front. The issue raised is who gives the hearing.",
+            "bn": "আরবিতে আয়াতটি ১১টি শব্দের, আর স-ম-আ ধাতু এতে দুবার এসেছে। ইয়াসতামিঊনা, তারা শোনে, এটা শ্রোতাদের নিজের কাজ। তুসমিউ, তুমি শোনাবে, এটা এমন কাজ যা তাদের উপর কাউকে করে দিতে হবে। আর এই দ্বিতীয় ক্রিয়াটিই আয়াত নবী ﷺ-এর সামনে রাখে প্রশ্ন আকারে। তাবারী প্রশ্নটা আল্লাহর জবানিতে খুলে বলেন: তাদের তো এমন শ্রবণশক্তি নেই যা দিয়ে তারা বুঝবে, তবু কি তুমি তাদের জন্য শোনার শক্তি সৃষ্টি করবে, নাকি আমি? জোরটা পড়ে সামনে বসানো 'আনতা', তুমি, শব্দটির উপর। প্রশ্ন আসলে এই: শোনার ক্ষমতা দেয় কে।"
+          },
+          {
+            "en": "Al-Qurtubi names the form: outwardly it is a question, and its meaning is negation, you will not make them hear. As-Sa'di calls it a question in the sense of a settled negation. There is also a detail of number. Man, those who, is singular in form, yet the verb after it is plural. Al-Qurtubi, comparing the twin verse, says yastami'una follows the meaning of man while yanzuru in 10:43 follows its form. The plural fits the scene the commentators describe: more than one person sat within earshot of the recitation, and none of them was moved.",
+            "bn": "কুরতুবী রূপটার নাম বলে দেন: বাইরে থেকে এটা প্রশ্ন, কিন্তু অর্থে না-বাচক, অর্থাৎ তুমি তাদের শোনাতে পারবে না। সা'দী বলেন, এ প্রশ্নের অর্থ পাকা না-বাচক উক্তি। সংখ্যারও একটা খুঁটিনাটি আছে। 'মান', যারা, গঠনে একবচন, অথচ এর পরের ক্রিয়াটি বহুবচন। জোড়া আয়াতের সঙ্গে মিলিয়ে কুরতুবী বলেন, ইয়াসতামিঊনা চলেছে 'মান'-এর অর্থ ধরে, আর ১০:৪৩-এর ইয়ানযুরু চলেছে তার গঠন ধরে। তাফসীরকারেরা যে দৃশ্যের কথা বলেন, বহুবচন তার সঙ্গে মেলে। তিলাওয়াতের আওয়াজ পৌঁছায় এমন দূরত্বে একাধিক লোক বসে ছিল, অথচ কারও মন নড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enough Reached Their Ears",
+          "bn": "কানে যথেষ্টই পৌঁছেছিল"
+        },
+        "p": [
+          {
+            "en": "The commentators do not fault what was said to these listeners. Ibn Kathir lists what reached their ears: the Prophet's ﷺ fine speech, the mighty Qur'an, and his sound and eloquent sayings that benefit hearts, bodies and religion. In this, he adds, is a great sufficiency. The Muyassar says they heard his speech of truth and his recitation of the Qur'an, and yet they were not guided. Nothing was missing from the message and nothing from its delivery. The verse does not say the Prophet ﷺ spoke too softly, or that the words were obscure. It locates the problem elsewhere.",
+            "bn": "এই শ্রোতাদের যা শোনানো হয়েছিল, তাতে তাফসীরকারেরা কোনো ঘাটতি দেখেন না। ইবন কাসীর গুনে গুনে বলেন তাদের কানে কী পৌঁছেছিল: নবী ﷺ-এর সুন্দর কথা, মহান কুরআন, আর তাঁর বিশুদ্ধ ও প্রাঞ্জল বাণী, যা অন্তর, দেহ আর দ্বীন সবকিছুর উপকারে আসে। তিনি যোগ করেন, এতেই আছে বিরাট যথেষ্টতা। মুয়াসসার বলে, তারা তাঁর হক কথা শুনেছে, তাঁর কুরআন তিলাওয়াতও শুনেছে, তবু হিদায়াত পায়নি। বাণীতে কিছু কম ছিল না, পৌঁছে দেওয়াতেও না। আয়াত বলে না যে নবী ﷺ আস্তে বলেছিলেন বা কথাগুলো দুর্বোধ্য ছিল। সমস্যাটা আয়াত অন্য জায়গায় দেখায়।"
+          },
+          {
+            "en": "As-Sa'di draws the line that explains how both things can be true. There is hearing a proof, and there is hearing that benefits. As for hearing the proof, he says, they heard that by which Allah's conclusive proof, al-hujjah al-balighah, stands against them. What was shut was the second kind. He calls it a great road among the roads of knowledge, now closed to them: the road of things heard that lead to good. So the verse does not deny that sound reached them. It denies that the sound did them any good.",
+            "bn": "দুটো কথাই কীভাবে একসঙ্গে সত্য, সা'দী তার একটা সীমারেখা টেনে দেন। এক হলো প্রমাণ শোনা, আরেক হলো এমন শোনা যা উপকারে আসে। প্রমাণ শোনার কথা যদি বলেন, তিনি বলেন, তারা ততটুকু শুনেছিল যাতে তাদের বিরুদ্ধে আল্লাহর চূড়ান্ত প্রমাণ, আল-হুজ্জাতুল বালিগা, কায়েম হয়ে যায়। বন্ধ হয়েছিল দ্বিতীয়টা। একে তিনি বলেন জ্ঞানের পথগুলোর মধ্যে এক বিরাট পথ, যা তাদের জন্য বন্ধ হয়ে গেছে: কল্যাণের সঙ্গে জড়িত শোনা জিনিসের পথ। তাই আয়াত এ কথা অস্বীকার করে না যে আওয়াজ তাদের কানে গিয়েছিল। অস্বীকার করে এটুকু যে সেই আওয়াজ তাদের কোনো কাজে লেগেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Listening for a Stumble",
+          "bn": "হোঁচট খোঁজার কান"
+        },
+        "p": [
+          {
+            "en": "Where, then, was the problem? As-Sa'di finds it in the manner of the listening. They listened to the Prophet ﷺ while he recited the revelation, he says, not seeking guidance but as a spectacle, in denial, and hunting for slips. That listening, he says, does its owners no good and gains them nothing. Then he draws the consequence with la jarama, no wonder: the door of tawfiq was shut against them, and they were denied the benefit of listening. In his account the order matters. The aim they brought to the recitation came first, and the closed door followed it.",
+            "bn": "তাহলে সমস্যাটা কোথায়? সা'দী তা খুঁজে পান শোনার ধরনে। তিনি বলেন, নবী ﷺ যখন ওহি তিলাওয়াত করতেন, তারা শুনত ঠিকই, তবে পথের খোঁজে নয়। শুনত তামাশা দেখতে, মিথ্যা বলতে আর ভুল খুঁজে বেড়াতে। এমন শোনা, তাঁর ভাষায়, শ্রোতার কোনো উপকার করে না, কোনো কল্যাণও এনে দেয় না। তারপর 'লা জারামা', তাতে আর আশ্চর্য কী, বলে তিনি ফলটা টানেন: তাওফীকের দরজা তাদের জন্য বন্ধ হয়ে গেল, শোনার উপকার থেকে তারা বঞ্চিত হলো। তাঁর বর্ণনায় ক্রমটা গুরুত্বপূর্ণ। তিলাওয়াতের কাছে তারা যে উদ্দেশ্য নিয়ে এসেছিল, সেটা আগে। বন্ধ দরজা এসেছে তার পরে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi describe two hearings in one person. Al-Qurtubi says they listened with their outward selves, while their hearts kept nothing of the truth he spoke or the Qur'an he recited. Al-Baghawi says they listened with their outward ears and it did not benefit them, and he glosses the deaf of the question as deafness of the heart's hearing. Two other verses, 6:25 and 47:16, open with nearly the same words, wa minhum man yastami'u ilayka. In 47:16 such listeners leave and ask those given knowledge, what did he say just now? The words passed through them and left nothing.",
+            "bn": "কুরতুবী আর বাগাভী একই মানুষের ভেতরে দুই রকম শোনার কথা বলেন। কুরতুবীর ভাষায়, তারা শুনত বাইরের অবয়ব দিয়ে, অথচ নবী ﷺ যে হক কথা বলতেন আর যে কুরআন পড়তেন, তার কিছুই তাদের অন্তরে ধরা থাকত না। বাগাভী বলেন, তারা শুনত বাইরের কান দিয়ে, আর সে শোনা তাদের কোনো কাজে আসত না। প্রশ্নের 'বধির' শব্দটির ব্যাখ্যায় তিনি বলেন, এখানে উদ্দেশ্য অন্তরের শোনা। আরও দুটি আয়াত, ৬:২৫ ও ৪৭:১৬, প্রায় একই কথায় শুরু হয়: ওয়া মিনহুম মান ইয়াসতামিউ ইলাইকা। ৪৭:১৬-তে এমন শ্রোতারা বেরিয়ে গিয়ে জ্ঞানপ্রাপ্তদের জিজ্ঞেস করে, এই মাত্র সে কী বলল? কথাগুলো তাদের ভেতর দিয়ে চলে গেছে, কিছুই রেখে যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deaf, and Not Reasoning",
+          "bn": "বধির, তার উপর বোঝেও না"
+        },
+        "p": [
+          {
+            "en": "The verse ends with wa law kanu la ya'qilun, even though they do not reason. At-Tabari folds it into the hearing itself: even though they have no hearing with which they reason. As-Sa'di reads it as a step further. You cannot make the deaf hear, he says, those who do not take in speech even if you say it aloud, and above all when their reason is absent. If making a deaf man who does not grasp speech hear is impossible, he concludes, then for these deniers too it is out of reach to be made to hear with a hearing they benefit from.",
+            "bn": "আয়াত শেষ হয় 'ওয়া লাও কানূ লা ইয়া'কিলূন' দিয়ে, যদিও তারা বোঝে না। তাবারী অংশটাকে শোনার সঙ্গেই জুড়ে দেন: যদিও তাদের এমন শ্রবণশক্তি নেই যা দিয়ে তারা বোঝে। সা'দী একে পড়েন আরও এক ধাপ হিসেবে। তিনি বলেন, বধিরকে তুমি শোনাতে পারো না, যারা কথা কানে নেয় না, জোরে বললেও না। আর বিশেষ করে তখন, যখন তাদের বুদ্ধিই নেই। যে বধির কথা বোঝেই না, তাকে শোনানো যখন অসম্ভব, তখন এই অস্বীকারকারীদেরও এমনভাবে শোনানো যায় না, যাতে তারা উপকার পায়। এই তাঁর সিদ্ধান্ত।"
+          },
+          {
+            "en": "The Muyassar joins the two in one clause: they are deaf to hearing the truth, and they do not understand it. The pairing of hearing with reasoning recurs elsewhere in the Qur'an, quoted here from the mushaf rather than from the commentators on this verse. In 67:10 the people of the Blaze say: had we been listening or reasoning, we would not be among them. 8:22 calls the worst of creatures before Allah the deaf and dumb who do not reason, and 8:21 warns the believers not to be like those who said, we have heard, while they do not hear.",
+            "bn": "মুয়াসসার দুই কথাকে একটা বাক্যে বাঁধে: হক শোনার ব্যাপারে তারা বধির, আর তা তারা বোঝেও না। শোনা আর বোঝার এই জুটি কুরআনের আরও জায়গায় ফিরে আসে। আয়াতগুলো এখানে সরাসরি মুসহাফ থেকে আনা, এ আয়াতের তাফসীরকারেরা এগুলো উল্লেখ করেননি। ৬৭:১০-এ জাহান্নামের বাসিন্দারা বলবে: আমরা যদি শুনতাম অথবা বুঝতাম, তাহলে আজ এদের দলে থাকতাম না। ৮:২২ আল্লাহর কাছে সবচেয়ে নিকৃষ্ট জীব বলে তাদের, যারা বধির, বোবা, কিছুই বোঝে না। আর ৮:২১ মুমিনদের সাবধান করে, তোমরা তাদের মতো হয়ো না, যারা বলেছিল আমরা শুনলাম, অথচ তারা শোনেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not in a Speaker's Hand",
+          "bn": "বক্তার হাতে যা নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says what the question is for. It is an announcement from Allah to His servants that tawfiq, the enabling to faith in Him, is in His hand and with no one besides Him. Then he has Allah address the Prophet ﷺ: just as you cannot make hear someone whom I have deprived of hearing, so you cannot make a heart understand My command and My prohibition when I have deprived it of that understanding, because I have sealed it so that it will not believe. Al-Qurtubi likewise ties the deafness to the seal and stamp upon their hearts.",
+            "bn": "প্রশ্নটা কেন, তাবারী তা বলে দেন। এটা আল্লাহর পক্ষ থেকে তাঁর বান্দাদের জানিয়ে দেওয়া যে তাঁর উপর ঈমান আনার তাওফীক তাঁরই হাতে, আর কারও হাতে নয়। তারপর তিনি নবী ﷺ-এর প্রতি আল্লাহর কথা এভাবে তুলে ধরেন: যার শোনার শক্তি আমি কেড়ে নিয়েছি, তাকে তুমি যেমন শোনাতে পারো না, তেমনি যে অন্তর থেকে আমি আমার আদেশ-নিষেধ বোঝার শক্তি কেড়ে নিয়েছি, তাকেও তুমি তা বোঝাতে পারো না। কারণ আমি তাতে মোহর মেরে দিয়েছি, সে ঈমান আনবে না। কুরতুবীও বধিরতাকে বেঁধে দেন তাদের অন্তরের উপর পড়া মোহর আর ছাপের সঙ্গে।"
+          },
+          {
+            "en": "Al-Qurtubi adds, on the twin verse, that Allah informs us no one believes except by His tawfiq and guidance, and he reads this as an answer to a group who held otherwise. Ibn Kathir puts it in two short clauses: that is not up to you, nor up to them, so you cannot guide them unless Allah wills. The Muyassar repeats the exception: unless Allah wills their guidance. As-Sa'di's order from the previous section stands beside all this. The commentators keep both statements, the listeners' own aim and Allah's hand over hearts, and this article adds nothing to them about decree.",
+            "bn": "জোড়া আয়াতের আলোচনায় কুরতুবী যোগ করেন, আল্লাহ জানিয়ে দিচ্ছেন যে তাঁর তাওফীক আর হিদায়াত ছাড়া কেউ ঈমান আনে না। এর ভিন্ন মত পোষণকারী এক দলের জবাব হিসেবে তিনি একে পড়েন। ইবন কাসীর ব্যাপারটা বলেন দুটি ছোট বাক্যে: এটা নবী ﷺ-এর হাতেও নয়, তাদের হাতেও নয়। তাই আল্লাহ না চাইলে তিনি তাদের হিদায়াত দিতে পারবেন না। মুয়াসসারও একই ব্যতিক্রম রাখে: যদি না আল্লাহ তাদের হিদায়াত চান। আগের অংশে সা'দী যে ক্রম দেখিয়েছেন, সেটাও এর পাশেই দাঁড়িয়ে থাকে। তাফসীরকারেরা দুটো কথাই রাখেন, শ্রোতার নিজের উদ্দেশ্য আর অন্তরের উপর আল্লাহর হাত। তাকদীর নিয়ে এ লেখা তাঁদের কথার সঙ্গে কিছু যোগ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Weight Lifted From Him",
+          "bn": "তাঁর কাঁধ থেকে নামানো ভার"
+        },
+        "p": [
+          {
+            "en": "Three commentators say outright, on the twin verse, what this pair is for. At-Tabari calls it tasliyah from Allah for His Prophet ﷺ over a group of his people who disbelieved in him, turned their backs and denied, and a ta'ziyah, a consoling, about them. With it, he says, came a command to lift his hope of their turning to faith. Al-Qurtubi writes that the intended meaning is consolation for the Prophet ﷺ. Al-Baghawi calls it a consolation from Allah to His Prophet ﷺ, and like al-Qurtubi he speaks of hearing and sight together.",
+            "bn": "জোড়া আয়াতের আলোচনায় তিনজন তাফসীরকার খোলাখুলি বলেন, এই আয়াত দুটির উদ্দেশ্য কী। তাবারী একে বলেন আল্লাহর পক্ষ থেকে তাঁর নবী ﷺ-এর জন্য তাসলিয়া, প্রবোধ। তাঁর কওমের যে দলটি তাঁকে অস্বীকার করেছিল, পিঠ ফিরিয়ে চলে গিয়েছিল আর মিথ্যা বলেছিল, তাদের ব্যাপারে এটা তা'যিয়া, সান্ত্বনা। তিনি বলেন, এর সঙ্গে ছিল একটা নির্দেশও: তারা ঈমানে ফিরবে, এ আশা তিনি যেন তুলে নেন। কুরতুবী লেখেন, উদ্দেশ্য নবী ﷺ-কে সান্ত্বনা দেওয়া। বাগাভীও একে বলেন আল্লাহর পক্ষ থেকে তাঁর নবী ﷺ-এর জন্য সান্ত্বনা। কুরতুবীর মতো তিনিও শোনা আর দেখার কথা একসঙ্গে বলেন।"
+          },
+          {
+            "en": "The twin verse, 10:43, does for looking what ours does for listening: some look at you, but can you guide the blind, even though they do not see? As-Sa'di calls it the second road closed to them, and draws from it that looking at the Prophet's ﷺ conduct, character and deeds is among the greatest proofs of his truthfulness. Al-Baghawi's consolation names both roads in one sentence: you cannot make hear someone I have deprived of hearing, nor guide someone I have deprived of sight, nor enable to faith someone I have judged will not believe.",
+            "bn": "জোড়া আয়াত ১০:৪৩ দেখার বেলায় তা-ই করে, যা আমাদের আয়াত করে শোনার বেলায়: কেউ কেউ তোমার দিকে তাকায়, কিন্তু তুমি কি অন্ধকে পথ দেখাবে, তারা না দেখলেও? সা'দী একে বলেন তাদের সামনে বন্ধ হয়ে যাওয়া দ্বিতীয় পথ। তিনি এখান থেকে এ কথাও বের করেন যে নবী ﷺ-এর চালচলন, চরিত্র আর আমলের দিকে তাকানো তাঁর সত্যবাদিতার সবচেয়ে বড় প্রমাণগুলোর একটি। বাগাভীর সান্ত্বনাবাক্যে দুই পথের কথাই এক বাক্যে আছে: যার শোনার শক্তি আমি কেড়ে নিয়েছি, তাকে তুমি শোনাতে পারো না। যার দৃষ্টি কেড়ে নিয়েছি, তাকে পথ দেখাতে পারো না। আর যার ব্যাপারে আমি ফয়সালা দিয়েছি সে ঈমান আনবে না, তাকে ঈমানের তাওফীক দিতে পারো না।"
+          },
+          {
+            "en": "The verse describes those hearers, in that setting, around the Prophet ﷺ, and it licenses nothing against any living person or community. It gives no one today the right to call a listener deaf, or to stop speaking kindly because a hearer seems closed. What it lifted from the Prophet ﷺ was the weight of results, not the duty of the message; 10:41 had just told him what to say to those who denied. No fetched tafsir attaches a hadith to this verse, and al-Qurtubi's unattributed remark on the twin verse about whom it concerned is not used here.",
+            "bn": "আয়াতটি নবী ﷺ-এর চারপাশের সেই পরিবেশের সেই শ্রোতাদের বর্ণনা দেয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু বলার অনুমতি এতে নেই। আজ কেউ এ আয়াত দেখিয়ে কোনো শ্রোতাকে বধির বলতে পারে না। শ্রোতাকে বন্ধ মনে হলেও নরম কথা বলা থামিয়ে দেওয়ার অনুমতিও এতে নেই। নবী ﷺ-এর কাঁধ থেকে আয়াত নামিয়েছে ফলাফলের ভার, বাণী পৌঁছানোর দায়িত্ব নয়। যারা অস্বীকার করে তাদের কী বলতে হবে, ১০:৪১ তো ঠিক আগেই তাঁকে বলে দিয়েছে। যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। জোড়া আয়াত কাদের নিয়ে, সে বিষয়ে কুরতুবীর সূত্রহীন একটি মন্তব্যও এখানে নেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Listener Who Follows the Best",
+          "bn": "যে শোনে, আর উত্তমটা মানে"
+        },
+        "p": [
+          {
+            "en": "The same verb appears elsewhere for listeners whose listening did them good. 39:18 describes those who listen to the word, yastami'una al-qawl, and follow the best of it: those are the ones Allah has guided, and those are the people of understanding. 50:37 says that in what came before is a reminder for whoever has a heart, or gives ear while he is present. The ears in 10:42 and in 39:18 heard the same kind of speech. Read with as-Sa'di's comment on 10:42, the difference lies in what each listener came for; 50:37 adds whether he was present.",
+            "bn": "একই ক্রিয়া কুরআনে অন্য শ্রোতাদের জন্যও এসেছে, যাদের শোনা তাদের উপকারে লেগেছিল। ৩৯:১৮ তাদের কথা বলে, যারা কথা মন দিয়ে শোনে, 'ইয়াসতামিঊনাল কাওল', আর তার উত্তমটা মেনে চলে। এরাই তারা, যাদের আল্লাহ হিদায়াত দিয়েছেন, এরাই বুদ্ধিমান। ৫০:৩৭ বলে, আগে যা বলা হলো তাতে উপদেশ আছে তার জন্য, যার অন্তর আছে, কিংবা যে হাজির মন নিয়ে কান পাতে। ১০:৪২-এর কান আর ৩৯:১৮-এর কান একই রকম কথা শুনেছিল। ১০:৪২-এ সা'দীর ব্যাখ্যার আলোয় পড়লে তফাতটা অন্যখানে: কে কী খুঁজতে এসেছিল। আর ৫০:৩৭ যোগ করে, শোনার সময় সে হাজির ছিল কি না।"
+          },
+          {
+            "en": "A reader can take that home without accusing anyone. A person can hear the Qur'an for years and receive only the first of as-Sa'di's two hearings, the proof, without the second, the benefit. 8:23 says that had Allah known any good in them, He would have made them hear. So the remedy the verse points to is twofold: bring the aim of a seeker to every recitation, and ask Him who gives hearing for the hearing that benefits. And for those we love who will not listen, keep speaking, and leave their hearts where the verse leaves them.",
+            "bn": "কাউকে দোষ না দিয়েও পাঠক কথাটা নিজের ঘরে নিয়ে যেতে পারেন। কেউ বছরের পর বছর কুরআন শুনেও সা'দীর বলা দুই শোনার শুধু প্রথমটা পেতে পারেন, অর্থাৎ প্রমাণ। দ্বিতীয়টা, উপকার, থেকে যেতে পারে অধরা। ৮:২৩ বলে, আল্লাহ যদি তাদের মধ্যে কোনো কল্যাণ আছে বলে জানতেন, তবে তাদের শোনাতেন। তাই আয়াত যে প্রতিকারের দিকে ইশারা করে, তার দুই দিক। প্রতিটি তিলাওয়াতের কাছে আসুন সত্য-সন্ধানীর উদ্দেশ্য নিয়ে। আর যিনি শোনার শক্তি দেন, তাঁর কাছে চান সেই শোনা, যা উপকারে আসে। প্রিয় যারা শুনতে চায় না, তাদের বলে যান, আর তাদের অন্তর রেখে দিন সেখানে, যেখানে আয়াত রেখেছে।"
+          }
+        ]
+      }
+    ]
+  },
   "10:44": {
     "sections": [
       {

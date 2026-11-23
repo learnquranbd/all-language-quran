@@ -32383,6 +32383,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah's verdict on humanity's differences is held back by His prior word, not forgotten. Use the respite to turn back before the judgement comes.",
     "lessonBn": "মানুষের মতভেদের রায় আল্লাহ ভুলে যাননি, তাঁর আগের কথার কারণে তা স্থগিত আছে। বিচার আসার আগেই এই অবকাশে ফিরে আসুন।"
+  },
+  "10:42": {
+    "reflectionEn": "They were in the room. The recitation reached them, the words were clear, and they listened, some of them closely. Then the verse puts a question to the Prophet ﷺ that answers itself: can you make the deaf hear, even when they do not reason? Their ears were never the problem. What they listened for decided what they heard: a slip to repeat, a line to mock, a reason to leave unchanged. The question is set beside him to lift a weight from him, because the hearing that moves a heart is in no speaker's hand. Then it turns towards me. When the Qur'an is recited, or I recite it myself, am I present, or only within earshot?",
+    "reflectionBn": "তারা সেখানেই উপস্থিত ছিল। তিলাওয়াত তাদের কানে পৌঁছেছিল, কথাগুলো ছিল স্পষ্ট, আর তারা শুনেছিল। কেউ কেউ বেশ মন দিয়েই শুনেছিল। তারপর আয়াতটি নবী ﷺ-কে এমন এক প্রশ্ন করে, যার উত্তর প্রশ্নের ভেতরেই আছে: তুমি কি বধিরকে শোনাতে পারবে, তারা না বুঝলেও? গোলমালটা কখনো তাদের কানে ছিল না। তারা কী খুঁজতে শুনছিল, সেটাই ঠিক করে দিয়েছিল তারা কী শুনবে। খুঁজছিল রটানোর মতো একটা ভুল, ঠাট্টার মতো একটা লাইন, বদলে না যাওয়ার মতো একটা অজুহাত। প্রশ্নটা রাখা হয়েছে নবী ﷺ-এর বুক থেকে একটা ভার নামাতে, কারণ যে শোনা অন্তরকে নাড়া দেয়, তা কোনো বক্তার হাতে নেই। তারপর প্রশ্নটা আমার দিকে ফেরে। কুরআন যখন তিলাওয়াত হয়, কিংবা আমি নিজেই পড়ি, তখন আমি কি সত্যিই হাজির থাকি, নাকি শুধু কানের নাগালে বসে থাকি?",
+    "pointsEn": [
+      "The last time I heard the Qur'an recited, could I name afterwards one thing it asked of me?",
+      "When I sit through a reminder, am I listening for its benefit, or for the speaker's mistakes?",
+      "Is there a truth I have heard many times that has never once changed what I do?",
+      "When someone I love will not listen, can I keep telling them gently while leaving their heart to the One who opens hearts?",
+      "Before I listen today, will I ask Allah for a hearing that does me good?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন কুরআন তিলাওয়াত শুনেছি, পরে কি বলতে পেরেছি, এটা আমার কাছে অন্তত একটা কী চেয়েছিল?",
+      "কোনো নসিহতের মজলিসে বসে আমি কি উপকারটা খুঁজি, নাকি বক্তার ভুল খুঁজি?",
+      "এমন কোনো সত্য কি আছে, যা আমি বহুবার শুনেছি, অথচ একবারও তা আমার কাজে কোনো বদল আনেনি?",
+      "প্রিয় কেউ যখন শুনতে চায় না, আমি কি নরমভাবে বলে যেতে পারি, আর তার অন্তরের ভার ছেড়ে দিতে পারি তাঁর হাতে, যিনি অন্তর খুলে দেন?",
+      "আজ কিছু শোনার আগে আমি কি আল্লাহর কাছে এমন শোনা চাইব, যা আমার উপকারে আসে?"
+    ],
+    "lessonEn": "Hearing is not yet listening for benefit. Bring your mind with your ears to the Qur'an, and leave the hearts you cannot open to Allah.",
+    "lessonBn": "কানে শোনা আর উপকারের জন্য শোনা এক জিনিস নয়। কুরআনের কাছে কানের সঙ্গে মনটাও নিয়ে আসুন, আর যে অন্তর আপনি খুলতে পারেন না, তার ভার আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 
