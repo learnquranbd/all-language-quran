@@ -32983,6 +32983,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Build a record of honest dealing that others can witness, so your word holds when you are wrongly accused, and keep the oath by Allah for the truth.",
     "lessonBn": "এমনভাবে সৎ লেনদেন করুন যাতে অন্যরা তার সাক্ষী থাকে। তাহলে অন্যায় অভিযোগের সময়ও আপনার কথার ওজন থাকবে। আর আল্লাহর নামে শপথ রাখুন কেবল সত্যের জন্য।"
+  },
+  "12:94": {
+    "reflectionEn": "The caravan has only just set out from Egypt, carrying a shirt. Far away, an old father who has wept until his eyes went white tells those around him that he can smell Yusuf. He knows how it will sound, so he puts a guard in front of it: were it not that you would call me a foolish old man. He neither keeps quiet to protect himself nor argues for his own sanity. He says what Allah let him perceive and leaves the rest to Him. The verses after prove him right. Sometimes hope arrives before the evidence, and those closest to us laugh. Do I bury what I trust from Allah because it may sound foolish? And do I mock another's hope before the caravan comes in?",
+    "reflectionBn": "মিসর থেকে কাফেলা সবে রওনা হয়েছে, সঙ্গে একটা জামা। বহু দূরে এক বৃদ্ধ পিতা, কাঁদতে কাঁদতে যাঁর চোখ সাদা হয়ে গেছে, আশপাশের লোকদের বলেন: আমি ইউসুফের ঘ্রাণ পাচ্ছি। কথাটা শুনতে কেমন লাগবে, তিনি জানেন। তাই আগেই একটা আড়াল দিয়ে রাখেন: তোমরা যদি আমাকে বুড়ো বেহুঁশ না ভাবতে। নিজেকে বাঁচাতে তিনি চুপ থাকেননি, আবার নিজের বুদ্ধি ঠিক আছে বলে তর্কেও নামেননি। আল্লাহ তাঁকে যা অনুভব করিয়েছেন, তা বলে বাকিটা আল্লাহর হাতে ছেড়ে দিয়েছেন। পরের আয়াতগুলো প্রমাণ করে, তিনিই ঠিক ছিলেন। কখনো কখনো আশা আসে প্রমাণের আগে, আর সবচেয়ে কাছের মানুষগুলোই হাসে। আল্লাহর কাছ থেকে যে ভরসা পেয়েছি, বোকামি শোনাবে ভেবে আমি কি তা চেপে রাখি? আর কাফেলা পৌঁছানোর আগেই আমি কি অন্যের আশা নিয়ে ঠাট্টা করি?",
+    "pointsEn": [
+      "What hope from Allah have I stopped mentioning because I was afraid of how it would sound to others?",
+      "When someone I love says something whose reason I cannot yet see, is my first reply a question or a label?",
+      "Have I ever called an elder's words confused only because they did not match what I expected?",
+      "Where in my life has relief already been on its way to me before I could see any sign of it?",
+      "If good news were already travelling towards me today, what would I want to have said and done while I waited?"
+    ],
+    "pointsBn": [
+      "অন্যের কানে কেমন শোনাবে, এই ভয়ে আল্লাহর কাছ থেকে পাওয়া কোন আশার কথা আমি বলা ছেড়ে দিয়েছি?",
+      "প্রিয় কেউ যখন এমন কিছু বলে যার কারণ আমি এখনো বুঝি না, আমার প্রথম জবাব কি একটা প্রশ্ন, নাকি একটা তকমা?",
+      "শুধু আমার ধারণার সঙ্গে মেলেনি বলে কোনো মুরব্বির কথাকে কি কখনো আবোলতাবোল বলে দিয়েছি?",
+      "আমার জীবনে কোথায় স্বস্তি আগেই রওনা হয়ে গিয়েছিল, অথচ তখনো আমি তার কোনো আলামত দেখিনি?",
+      "আজই যদি কোনো সুসংবাদ আমার দিকে রওনা হয়ে থাকে, অপেক্ষার এই সময়টায় আমি কী বলে আর কী করে থাকতে চাই?"
+    ],
+    "lessonEn": "Speak of the hope Allah gives you even when others may mock it, and never be quick to call an elder foolish for perceiving what you cannot.",
+    "lessonBn": "অন্যেরা ঠাট্টা করতে পারে জেনেও আল্লাহর দেওয়া আশার কথা বলুন, আর আপনি যা টের পান না তা টের পাওয়ার জন্য কোনো মুরব্বিকে তাড়াহুড়ো করে নির্বোধ বলবেন না।"
   }
 };
 

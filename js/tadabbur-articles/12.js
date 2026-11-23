@@ -4675,6 +4675,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:94": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Caravan Pulls Away",
+          "bn": "কাফেলা পথে নামল"
+        },
+        "p": [
+          {
+            "en": "One verse earlier, in 12:93, Yusuf (AS) hands his brothers his shirt: take it, cast it over my father's face, he will regain his sight, and bring me your whole family. The Qur'an does not show the loading of the camels or a single day of the road. This verse, twelve Arabic words long, cuts from that instruction to the moment the caravan moves off, and the speaker is no longer Yusuf in Egypt but his father, far away, among the people who had stayed behind with him.",
+            "bn": "ঠিক আগের আয়াতে, ১২:৯৩-এ, ইউসুফ (আঃ) ভাইদের হাতে নিজের জামা তুলে দেন: এটা নিয়ে যাও, আমার পিতার মুখের উপর রেখো, তিনি দৃষ্টি ফিরে পাবেন, আর পরিবারের সবাইকে আমার কাছে নিয়ে এসো। উট বোঝাই করা বা পথের একটা দিনও কুরআন দেখায় না। বারোটি আরবি শব্দের এ আয়াত ওই নির্দেশ থেকে সোজা চলে যায় সেই মুহূর্তে, যখন কাফেলা নড়ে উঠল। এবার কথা বলছেন মিসরের ইউসুফ নন, বহু দূরের তাঁর পিতা, যাঁরা তাঁর কাছে রয়ে গিয়েছিল তাদের মাঝে বসে।"
+          },
+          {
+            "en": "Wa-lamma fasalati l-'ir: and when the caravan set out. Ibn Kathir glosses fasalat simply as left Egypt. Al-Qurtubi has it leaving Egypt for ash-Sham, and notes that the verb fasala is used both with and without an object. Al-Baghawi has it setting out from al-'Arish of Egypt towards Kan'an, and as-Sa'di from the land of Egypt towards the land of Palestine. At-Tabari puts it in family terms: the caravan of Ya'qub's sons left Yusuf's presence, heading for Ya'qub. The Muyassar adds the detail that matters most here: the shirt was with them.",
+            "bn": "ওয়া লাম্মা ফাসালাতিল ঈর: আর কাফেলা যখন বেরিয়ে পড়ল। ইবন কাসীর ফাসালাত-এর অর্থ করেন সাদামাটা: মিসর থেকে বের হল। কুরতুবীর বর্ণনায় কাফেলা মিসর ছেড়ে শামের পথে রওনা হয়। তিনি এটাও বলেন যে ফাসালা ক্রিয়াটি কর্ম নিয়েও বসে, কর্ম ছাড়াও বসে। বাগাভী বলেন, কাফেলা মিসরের আরীশ থেকে কানআনের দিকে বের হয়েছিল। সা'দী বলেন, মিসরের ভূমি থেকে ফিলিস্তিনের ভূমির দিকে। তাবারী কথাটা পরিবারের ভাষায় বলেন: ইয়াকুবের ছেলেদের কাফেলা ইউসুফের কাছ থেকে ইয়াকুবের দিকে রওনা হল। মুয়াসসার যোগ করে সবচেয়ে জরুরি তথ্যটি: জামাটা তাদের সঙ্গেই ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ajidu: Found by Smell",
+          "bn": "আজিদু: ঘ্রাণে পাওয়া"
+        },
+        "p": [
+          {
+            "en": "Inni la-ajidu riha Yusuf: I do indeed find the scent of Yusuf. The Arabic verb is the ordinary one for finding, and al-Qurtubi pins down what kind of finding it is: ajidu here means ashummu, I smell, a finding through the sense of smell. Ibn Ishaq, in a report at-Tabari carries, uses a vivid word for it: when the caravan left Egypt, Ya'qub istarwaha, caught Yusuf's scent on the air, and said to those of his sons who were with him that he found it.",
+            "bn": "ইন্নী লাআজিদু রীহা ইউসুফ: আমি অবশ্যই ইউসুফের ঘ্রাণ পাচ্ছি। আরবি ক্রিয়াটি খুঁজে পাওয়ার সাধারণ শব্দ। কুরতুবী নির্দিষ্ট করে দেন, এখানে কোন ধরনের পাওয়া বোঝানো হয়েছে: আজিদু মানে আশুম্মু, আমি ঘ্রাণ নিচ্ছি। অর্থাৎ এ পাওয়া নাকের অনুভূতি দিয়ে। তাবারী ইবন ইসহাকের যে বর্ণনা এনেছেন, তাতে একটা জীবন্ত শব্দ আছে। কাফেলা যখন মিসর থেকে বের হল, ইয়াকুব (আঃ) ইসতারওয়াহা করলেন, মানে বাতাসে ইউসুফের ঘ্রাণ টের পেলেন। তারপর কাছে থাকা ছেলেদের বললেন, তিনি সেই ঘ্রাণ পাচ্ছেন।"
+          },
+          {
+            "en": "What carried it? Ibn Kathir and at-Tabari both give the report of 'Abd ar-Razzaq from Ibn 'Abbas: when the caravan set out, a wind rose and brought Ya'qub the scent of Yusuf's shirt, and he said the words of this verse. Ibn Kathir adds that Sufyan ath-Thawri, Shu'ba and others reported the same from Abu Sinan. As-Sa'di says plainly that Ya'qub smelled the scent of the shirt. So the father names Yusuf, and the commentators trace the scent to the garment that left Egypt with the caravan, the same one that will be cast over his face in 12:96.",
+            "bn": "ঘ্রাণটা বয়ে আনল কে? ইবন কাসীর ও তাবারী দুজনেই আবদুর রাযযাকের সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনা এনেছেন: কাফেলা রওনা হতেই একটা বাতাস উঠল, আর তা ইয়াকুবের কাছে ইউসুফের জামার ঘ্রাণ পৌঁছে দিল। তখন তিনি এ আয়াতের কথাগুলো বললেন। ইবন কাসীর জানান, সুফইয়ান সাওরী, শু'বা ও আরও কয়েকজন আবু সিনান থেকে একই কথা বর্ণনা করেছেন। সা'দী সোজাসুজি বলেন, ইয়াকুব জামার ঘ্রাণ পেয়েছিলেন। পিতা নাম নেন ইউসুফের, আর তাফসীরকারেরা ঘ্রাণের উৎস খুঁজে পান সেই জামায়, যা কাফেলার সঙ্গে মিসর ছেড়েছিল। ১২:৯৬ আয়াতে এই জামাই তাঁর মুখের উপর রাখা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eight Nights of Road",
+          "bn": "আট রাতের পথ"
+        },
+        "p": [
+          {
+            "en": "How far away was the caravan? At-Tabari lists a long run of chains from 'Abdullah ibn Abi al-Hudhayl, who heard Ibn 'Abbas say that Ya'qub found the scent of Yusuf's shirt from a journey of eight nights. Some chains say eight days, and in one, through Sufyan ibn 'Uyayna, Ibn 'Abbas answers a direct question with seven nights or eight. Ibn Abi al-Hudhayl, who in one telling sat behind Ibn 'Abbas's couch while the people of Kufa put their questions, remarked that this is like the distance from Basra to Kufa; in another he only thought it to himself.",
+            "bn": "কাফেলা তখন কত দূরে? তাবারী আবদুল্লাহ ইবন আবিল হুযাইলের সূত্রে লম্বা এক সারি সনদ এনেছেন। তিনি ইবন আব্বাস (রাঃ)-কে বলতে শুনেছেন, ইয়াকুব ইউসুফের জামার ঘ্রাণ পেয়েছিলেন ৮ রাতের পথের দূরত্ব থেকে। কোনো সনদে আছে ৮ দিন। সুফইয়ান ইবন উয়াইনার একটি সনদে সরাসরি প্রশ্নের জবাবে ইবন আব্বাস বলেন, ৭ রাত বা ৮ রাত। এক বর্ণনায় ইবন আবিল হুযাইল ইবন আব্বাসের আসনের পেছনে বসে কূফার লোকদের প্রশ্ন শুনছিলেন। তিনি মন্তব্য করেন, এ তো বসরা থেকে কূফার দূরত্বের মতো। আরেক বর্ণনায় কথাটা তিনি শুধু মনে মনে ভেবেছিলেন।"
+          },
+          {
+            "en": "Other reports measure it differently. Al-Hasan, through Qatada in at-Tabari, said there were eighty farsakhs between them that day, Yusuf in Egypt and Ya'qub in the land of Kan'an; al-Baghawi and Ibn Kathir carry the same figure from him. Al-Qurtubi records from al-Hasan a journey of ten nights, and from him also a month. Al-Baghawi has Mujahid say three days. Ma'arif al-Qur'an converts al-Hasan's eighty farsakhs into nearly two hundred and fifty miles, and gives the eight days from Ibn 'Abbas alongside it.",
+            "bn": "অন্য বর্ণনাগুলো দূরত্ব মাপে ভিন্নভাবে। তাবারীতে কাতাদার সূত্রে হাসান বলেন, সেদিন দুজনের মাঝে ছিল ৮০ ফারসাখ। ইউসুফ মিসরে, ইয়াকুব কানআনের ভূমিতে। বাগাভী ও ইবন কাসীরও তাঁর থেকে একই সংখ্যা এনেছেন। কুরতুবী হাসান থেকে লিখেছেন ১০ রাতের পথ, আবার তাঁরই আরেক বর্ণনায় ১ মাসের পথ। বাগাভীর বর্ণনায় মুজাহিদ বলেন ৩ দিন। মাআরিফুল কুরআন হাসানের ৮০ ফারসাখকে প্রায় ২৫০ মাইল হিসেবে দেখায়, আর তার পাশে ইবন আব্বাস (রাঃ)-এর ৮ দিনের কথাও রাখে।"
+          },
+          {
+            "en": "The years apart are counted differently too. Ibn Jurayj, in at-Tabari, says they had parted seventy-seven years before; Ibn Kathir, citing al-Hasan and Ibn Jurayj, gives eighty years; al-Hasan in at-Tabari says only that a long time had passed. None of these figures is attributed to the Prophet ﷺ, and the verse itself names neither distance nor years. What the reports agree on is the shape of the thing: the scent reached a father who was very far away, at the moment the caravan set out, long before it could arrive.",
+            "bn": "বিচ্ছেদের বছরের হিসাবেও মিল নেই। তাবারীতে ইবন জুরাইজ বলেন, এর ৭৭ বছর আগে তাঁরা আলাদা হয়েছিলেন। ইবন কাসীর হাসান ও ইবন জুরাইজের নামে বলেন ৮০ বছর। তাবারীতে হাসান শুধু এটুকু বলেন যে দীর্ঘ সময় পেরিয়ে গিয়েছিল। এসব সংখ্যার কোনোটিই নবী ﷺ-এর কথা হিসেবে বর্ণিত নয়, আর আয়াত নিজে দূরত্ব বা বছর কিছুই বলে না। বর্ণনাগুলো যেখানে এক, তা হল ঘটনার মূল চেহারা। বহু দূরে থাকা এক পিতার কাছে ঘ্রাণ পৌঁছেছিল কাফেলা রওনা হওয়ার মুহূর্তেই, তার পৌঁছানোর অনেক আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wind Given Leave",
+          "bn": "অনুমতি পাওয়া বাতাস"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens his comment with a report introduced by the words it is mentioned: the wind asked its Lord's leave to bring Ya'qub the scent of Yusuf before the bearer of good news reached him, and was given leave. He carries it from Abu Ayyub al-Hawzani. Al-Baghawi relays the same with it is narrated, and names the wind as the saba, the east wind. Neither commentator raises this to the Prophet ﷺ, and neither grades it. It is a report about the scene, and nothing here is built on it.",
+            "bn": "তাবারী তাঁর আলোচনা শুরু করেন 'উল্লেখ করা হয়' বলে একটি বর্ণনা দিয়ে। তাতে আছে, সুসংবাদদাতা পৌঁছানোর আগেই ইয়াকুবের কাছে ইউসুফের ঘ্রাণ নিয়ে যেতে বাতাস তার রবের কাছে অনুমতি চেয়েছিল, আর অনুমতি পেয়েছিল। বর্ণনাটি তিনি এনেছেন আবু আইয়ুব হাওযানী থেকে। বাগাভী একই কথা আনেন 'বর্ণিত আছে' বলে, আর বাতাসটির নাম বলেন সাবা, অর্থাৎ পুবালি বাতাস। দুজনের কেউই এটিকে নবী ﷺ-এর কথা বলে উল্লেখ করেননি, কোনো মানও বলেননি। এটি দৃশ্যটি নিয়ে একটি বর্ণনা মাত্র। এ লেখার কোনো কথা এর উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "A second report gives the scent an unusual source. Al-Qurtubi has Mujahid say that a wind blew and struck the shirt, the fragrances of Paradise spread into this world and reached Ya'qub, and he found the scent of Paradise; he knew that nothing of Paradise's scent exists on earth except what came from that shirt, and so he said, I find. Al-Baghawi gives the same account with only it is said, naming no one. So one commentator names Mujahid for it and the other leaves it unattributed.",
+            "bn": "আরেকটি বর্ণনা ঘ্রাণের এক অসাধারণ উৎসের কথা বলে। কুরতুবীর বর্ণনায় মুজাহিদ বলেন, একটা বাতাস বয়ে গিয়ে জামায় ঝাপটা দিল। তাতে জান্নাতের সুবাস দুনিয়ায় ছড়িয়ে পড়ে ইয়াকুবের কাছে পৌঁছাল, আর তিনি জান্নাতের ঘ্রাণ পেলেন। তিনি জানতেন, ওই জামা ছাড়া পৃথিবীতে জান্নাতের ঘ্রাণের আর কিছু নেই। তাই তিনি বললেন, আমি পাচ্ছি। বাগাভী একই বিবরণ আনেন শুধু 'বলা হয়' বলে, কারও নাম না নিয়ে। অর্থাৎ একজন তাফসীরকার এর জন্য মুজাহিদের নাম নেন, অন্যজন কারও নাম বলেন না।"
+          },
+          {
+            "en": "Al-Qurtubi also records a remark of Malik ibn Anas that sets the whole matter in its place: the One who brought Yusuf's scent to him is the One who brought the throne of Bilqis before Sulayman's glance returned to him, the scene of 27:40. Ma'arif al-Qur'an says the same in its own words: unique is the power of Allah, who carried the scent of Yusuf to Ya'qub across such a distance through the shirt. In both, the subject of the sentence is Allah, not an old man's senses.",
+            "bn": "কুরতুবী মালিক ইবন আনাসের একটি মন্তব্যও এনেছেন, যা পুরো বিষয়টিকে তার ঠিক জায়গায় বসিয়ে দেয়। যিনি ইউসুফের ঘ্রাণ ইয়াকুবের কাছে পৌঁছে দিয়েছেন, তিনিই সেই সত্তা যিনি সুলাইমানের চোখের পলক ফেরার আগেই বিলকীসের সিংহাসন তাঁর কাছে এনে দিয়েছিলেন। সে দৃশ্য ২৭:৪০ আয়াতে। মাআরিফুল কুরআনও নিজের ভাষায় একই কথা বলে: আল্লাহর কুদরত অনন্য, যিনি এত দূর থেকে জামার মাধ্যমে ইউসুফের ঘ্রাণ ইয়াকুবের কাছে বয়ে এনেছেন। দুই জায়গাতেই বাক্যের কর্তা আল্লাহ, এক বৃদ্ধের নাক নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tufannidun, Gloss by Gloss",
+          "bn": "তুফান্নিদূন: একেক জনের একেক অর্থ"
+        },
+        "p": [
+          {
+            "en": "Then the guard he places in front of his words: lawla an tufannidun, were it not that you tufannidun me. Ibn Kathir's Arabic explains it as were it not that you ascribe me to fanad and old age. At-Tabari says the people of interpretation differed over it, and sets out the groups. Some said it means call me foolish, tusaffihun: Ibn 'Abbas, Mujahid, 'Ata' and Qatada in his chains, with Sa'id ibn Jubayr added by Ibn Kathir. In one chain Ibn 'Abbas says call me ignorant, and Mujahid, in several, says lest you say his mind has gone.",
+            "bn": "এরপর তিনি নিজের কথার সামনে একটা আড়াল দাঁড় করান: লাওলা আন তুফান্নিদূন, তোমরা যদি আমাকে তুফান্নিদূন না করতে। ইবন কাসীরের আরবি ব্যাখ্যায় এর মানে, তোমরা যদি আমাকে ফানাদ আর বার্ধক্যের দিকে সম্পৃক্ত না করতে। তাবারী বলেন, তাফসীরবিদেরা এর অর্থ নিয়ে ভিন্নমত পোষণ করেছেন, আর তিনি দলগুলো একে একে সাজান। একদল বলেন, এর মানে আমাকে নির্বোধ ঠাওরানো, তুসাফফিহূন। তাঁর সনদে এ মত ইবন আব্বাস (রাঃ), মুজাহিদ, আতা ও কাতাদার। ইবন কাসীর এ তালিকায় সাঈদ ইবন জুবাইরকেও যোগ করেন। একটি সনদে ইবন আব্বাস বলেন, আমাকে অজ্ঞ ভাবা। আর মুজাহিদ কয়েকটি সনদে বলেন, পাছে তোমরা বলো, তার বুদ্ধি লোপ পেয়েছে।"
+          },
+          {
+            "en": "Others said it means call me a liar, tukadhdhibun. At-Tabari gives this from Sa'id ibn Jubayr, ad-Dahhak, Ibn 'Abbas in another chain and 'Ata', who said foolish or lying; as-Suddi combined senile and lying. Al-Qurtubi cites Sa'id and ad-Dahhak for it and adds that fanad means a lie. A third group said it means call me senile, tuharrimun: Mujahid and al-Hasan in at-Tabari, with Qatada added by al-Qurtubi. Al-Baghawi gives this from ad-Dahhak with the words they would say, an old man who has grown senile and lost his mind.",
+            "bn": "আরেক দল বলেন, এর মানে আমাকে মিথ্যাবাদী বলা, তুকাযযিবূন। তাবারী এ মত আনেন সাঈদ ইবন জুবাইর, দাহহাক, আরেক সনদে ইবন আব্বাস (রাঃ) এবং আতা থেকে। আতা বলেছেন, নির্বোধ ঠাওরানো অথবা মিথ্যাবাদী বলা। সুদ্দী দুটো একসঙ্গে বলেছেন: বুড়ো অথর্ব ভাবা আর মিথ্যাবাদী বলা। কুরতুবী এ মতের জন্য সাঈদ ও দাহহাকের নাম নেন, আর বলেন ফানাদ মানে মিথ্যা। তৃতীয় দল বলেন, এর মানে আমাকে বার্ধক্যে অথর্ব ভাবা, তুহাররিমূন। তাবারীতে এ মত মুজাহিদ ও হাসানের, কুরতুবী সঙ্গে কাতাদাকেও যোগ করেন। বাগাভী এটি আনেন দাহহাক থেকে, এই কথায়: তারা বলবে, বুড়ো মানুষ, ভীমরতি ধরেছে, বুদ্ধিশুদ্ধি চলে গেছে।"
+          },
+          {
+            "en": "Al-Qurtubi widens the list with the language scholars. Abu 'Amr said it means reproach me, tuqabbihun; Ibn al-A'rabi and Ibn Ishaq said weaken my judgement, fanad being weakness of judgement that comes with age; Abu 'Ubayda said call me astray; al-Akhfash said blame me. In at-Tabari, Ibn Zayd says the mufannad is a person who does not reason. The Muyassar and as-Sa'di give a fuller paraphrase: were it not that you would mock me and claim these words came from me without awareness.",
+            "bn": "কুরতুবী ভাষাবিদদের মত যোগ করে তালিকাটা আরও বড় করেন। আবু আমর বলেন, এর মানে আমাকে ভর্ৎসনা করা, তুকাব্বিহূন। ইবনুল আরাবী ও ইবন ইসহাক বলেন, আমার বিচারবুদ্ধিকে দুর্বল ঠাওরানো, কারণ ফানাদ হল বয়সের সঙ্গে আসা মতের দুর্বলতা। আবু উবাইদা বলেন, আমাকে পথভ্রষ্ট বলা। আখফাশ বলেন, আমাকে দোষারোপ করা। তাবারীতে ইবন যায়দ বলেন, মুফান্নাদ এমন একজন মানুষ, যার বোধবুদ্ধি নেই। মুয়াসসার ও সা'দী একটু খুলে বলেন: তোমরা যদি আমাকে নিয়ে ঠাট্টা না করতে, আর না বলতে যে কথাটা আমি বেখেয়ালে বলে ফেলেছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Gloss, One Root",
+          "bn": "সব অর্থের এক শিকড়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own gloss gathers several of these at once: were it not that you rebuke me harshly, call me incapable, blame me and call me a liar. He cites a verse of poetry in which a man asks his two companions to leave off their blame and their tafnid, and the Arab saying that time afnada someone, meaning it spoiled him. From this he draws his conclusion: the root of tafnid is ifsad, spoiling. Weakness, senility, lying and loss of mind all fall under it.",
+            "bn": "তাবারীর নিজের ব্যাখ্যায় এর কয়েকটি অর্থ একসঙ্গে আছে: তোমরা যদি আমাকে কড়া ভর্ৎসনা না করতে, অক্ষম না ঠাওরাতে, দোষ না দিতে আর মিথ্যাবাদী না বলতে। তিনি একটি কবিতার চরণ আনেন, যেখানে এক লোক তার দুই সঙ্গীকে বলছে দোষারোপ আর তাফনীদ ছেড়ে দিতে। আরবদের একটি কথাও আনেন: কালের আঘাত অমুককে আফনাদা করেছে, অর্থাৎ নষ্ট করে দিয়েছে। এখান থেকেই তিনি সিদ্ধান্তে পৌঁছান। তাফনীদের মূল হল ইফসাদ, নষ্ট করা। দুর্বলতা, বার্ধক্যের অথর্বতা, মিথ্যা আর বুদ্ধি লোপ, সবই এর ভেতরে পড়ে।"
+          },
+          {
+            "en": "He explains why. Spoiling in the body is senility, loss of mind and weakness; spoiling in conduct is lying and blame without right. So the sayings he has listed, for all their differing wording, are close in meaning, and the plain text bears all of them, since nothing in the verse shows that one is meant to the exclusion of the others. Al-Qurtubi reaches the same verdict: all of it is close in meaning and returns to making someone out as incapable and weak in judgement. Al-Baghawi states the root in a single clause: the origin of fanad is spoiling.",
+            "bn": "কারণটাও তিনি বুঝিয়ে বলেন। শরীরে নষ্ট হওয়া মানে বার্ধক্যের অথর্বতা, বুদ্ধি লোপ আর দুর্বলতা। আচরণে নষ্ট হওয়া মানে মিথ্যা আর অন্যায় দোষারোপ। তাই যত মত তিনি এনেছেন, শব্দ আলাদা হলেও অর্থে সবই কাছাকাছি। আয়াতের বাহ্যিক ভাষা সবগুলোই ধারণ করতে পারে, কারণ এর কোনো একটিকেই বোঝানো হয়েছে আর বাকিগুলো নয়, এমন কোনো ইঙ্গিত আয়াতে নেই। কুরতুবীও একই রায়ে পৌঁছান: সবই অর্থে কাছাকাছি, আর সবই ফিরে যায় কাউকে অক্ষম আর দুর্বল বুদ্ধির বলে ধরে নেওয়ার দিকে। বাগাভী শিকড়ের কথাটা বলেন ছোট্ট এক বাক্যে: ফানাদের মূল অর্থ বিকৃতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Heard Him Say It",
+          "bn": "কথাটা কারা শুনেছিল"
+        },
+        "p": [
+          {
+            "en": "Who was the you he addressed? Ibn Kathir says it was those of his sons who had stayed with him, and Ibn Ishaq in at-Tabari says the same. Al-Qurtubi says it was the relatives present who had not gone down to Egypt, his grandchildren, and allows that some of his sons may also have stayed behind. Al-Baghawi says his grandchildren, and the Muyassar simply whoever was with him. As for why he spoke with a guard in front, as-Sa'di explains: he had seen in them such astonishment at his state that it drew these words from him.",
+            "bn": "তিনি তোমরা বলে কাদের সম্বোধন করেছিলেন? ইবন কাসীর বলেন, ছেলেদের মধ্যে যারা তাঁর কাছে রয়ে গিয়েছিল। তাবারীতে ইবন ইসহাকও একই কথা বলেন। কুরতুবী বলেন, উপস্থিত সেই আত্মীয়েরা যারা মিসরে যায়নি, অর্থাৎ তাঁর নাতিরা। তবে তিনি এ সম্ভাবনাও রাখেন যে কয়েকজন ছেলেও হয়তো বাড়িতে ছিল। বাগাভী বলেন, তাঁর নাতিরা। মুয়াসসার শুধু বলে, যারা তাঁর কাছে উপস্থিত ছিল। কথার সামনে কেন তিনি আড়াল দিলেন, সা'দী তার কারণ বলেন: তাঁর অবস্থা দেখে তাদের মধ্যে তিনি এমন বিস্ময় দেখেছিলেন যে মুখ থেকে এ কথাগুলো বেরিয়ে এল।"
+          },
+          {
+            "en": "Their answer comes in 12:95: by Allah, you are still in your old error. Ibn Kathir's abridged English relays Qatada's comment that they meant his love for Yusuf would never let him forget, and that they spoke a harsh word they should never have said to their father, nor to a Prophet of Allah. These verses describe what was said in one household, and they license nothing against any living person. The very next verse settles the matter: the shirt is cast over his face, his sight returns, and what he perceived is shown to be true.",
+            "bn": "তাদের জবাব আসে ১২:৯৫ আয়াতে: আল্লাহর কসম, তুমি তো এখনো তোমার সেই পুরনো ভ্রান্তিতেই আছ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে কাতাদার মন্তব্য আছে। তাদের কথার মানে ছিল, ইউসুফের প্রতি ভালোবাসা তাঁকে কখনো ভুলতে দেবে না। আর তারা এমন কঠিন কথা বলেছিল, যা নিজেদের পিতাকে বলা উচিত ছিল না, আল্লাহর একজন নবীকে তো নয়ই। এ আয়াতগুলো একটি পরিবারের ভেতরে বলা কথার বিবরণ দেয়, কোনো জীবিত মানুষের বিরুদ্ধে কিছুর অনুমতি দেয় না। ঠিক পরের আয়াতেই মীমাংসা হয়ে যায়। জামাটা তাঁর মুখের উপর রাখা হয়, দৃষ্টি ফিরে আসে, আর প্রমাণ হয় তিনি যা টের পেয়েছিলেন তা সত্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Given, Not Summoned",
+          "bn": "চেয়ে আনা নয়, দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws out a point from the contrast. It is a wonder, it says, that when Yusuf sat confined in a well in his own homeland, his scent stirred nothing in his father, yet now it crossed the whole distance from Egypt. From this it concludes that no miracle is within a prophet's control, nor even his personal act; it is directly the act of Allah. When Allah wills, He makes it appear, and when He does not, the nearest of the near becomes the farthest of the far.",
+            "bn": "মাআরিফুল কুরআন এই বৈপরীত্য থেকে একটি শিক্ষা বের করে আনে। তার ভাষায় এ এক বিস্ময়: ইউসুফ যখন নিজের দেশেই এক কূপে আটকে ছিলেন, তখন তাঁর ঘ্রাণ পিতার মনে কোনো সাড়া জাগায়নি। অথচ এখন সেই ঘ্রাণ মিসর থেকে পুরো পথ পেরিয়ে এল। এ থেকে সে সিদ্ধান্ত টানে, কোনো মুজিযা নবীর হাতে থাকে না, এমনকি তা নবীর নিজের কাজও নয়। এটি সরাসরি আল্লাহর কাজ। আল্লাহ চাইলে তা প্রকাশ করেন, আর না চাইলে সবচেয়ে কাছের জিনিসও সবচেয়ে দূরে সরে যায়।"
+          },
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a sound hadith to it; what they carry are reports from Ibn 'Abbas and those after him. The verse is enough on its own. Earlier, in 12:86, Ya'qub (AS) had told his household that he knew from Allah what they did not know, and in 12:96 he will remind them of it. Here he says what he has been given, knowing how it will be heard, and leaves the proof to Allah. Hope spoken like that is not bravado. It is trust, said aloud before the caravan arrives.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। তাতে আছে ইবন আব্বাস (রাঃ) ও পরবর্তীদের বর্ণনা। আয়াত নিজেই যথেষ্ট। এর আগে ১২:৮৬ আয়াতে ইয়াকুব (আঃ) পরিবারের লোকদের বলেছিলেন, আল্লাহর কাছ থেকে তিনি এমন কিছু জানেন যা তারা জানে না। ১২:৯৬ আয়াতে তিনি তাদের সে কথা মনে করিয়ে দেবেন। এখানে তিনি যা পেয়েছেন তা-ই বলেন, জানেন কথাটা কীভাবে শোনা হবে, আর প্রমাণের ভার ছেড়ে দেন আল্লাহর উপর। এভাবে বলা আশা বড়াই নয়। কাফেলা পৌঁছানোর আগেই মুখে উচ্চারিত ভরসা।"
+          }
+        ]
+      }
+    ]
+  },
   "12:97": {
     "sections": [
       {
