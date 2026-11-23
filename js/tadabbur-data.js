@@ -32083,6 +32083,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Steadfastness is a duty measured by One who knows your weakness; give the full measure asked of you, and do not let a lightened load become a reason to carry less.",
     "lessonBn": "অটল থাকা এমন এক দায়িত্ব, যার মাপ ঠিক করেছেন আপনার দুর্বলতা জানা সেই সত্তা। আপনার কাছে যতটুকু চাওয়া হয়েছে পুরোটা দিন, আর বোঝা হালকা হয়েছে বলে তার চেয়েও কম বহন করার অজুহাত বানাবেন না।"
+  },
+  "8:49": {
+    "reflectionEn": "At Badr a small band of believers walked toward an army far larger than itself, and some who watched said: their religion has deluded these people. To the onlooker it looked like folly, men led by their faith into a fight they could not win. The verse does not argue about the numbers. It answers with a name: whoever relies on Allah, then Allah is Mighty and Wise. Mighty, so the one He shelters is not overcome; Wise, so nothing He arranges is out of place. The same remark is still made about people whose faith asks of them what looks unwise. Before I repeat it about someone else, whose strength am I counting? And when it is said of me, do I keep trusting, or quietly agree?",
+    "reflectionBn": "বদরে মুমিনদের ছোট্ট একটা দল নিজেদের চেয়ে অনেক বড় এক বাহিনীর দিকে এগিয়ে গেল। পাশ থেকে যারা দেখছিল, তাদের কেউ কেউ বলল: এদের দ্বীন এদের ধোঁকায় ফেলেছে। বাইরের চোখে ব্যাপারটা বোকামি, ঈমানের টানে মানুষগুলো এমন লড়াইয়ে নেমেছে যা জেতার নয়। আয়াতটি সংখ্যা নিয়ে তর্কে যায় না। জবাব দেয় একটি নাম দিয়ে: যে আল্লাহর উপর ভরসা করে, আল্লাহ তো মহাপরাক্রমশালী, প্রজ্ঞাময়। পরাক্রমশালী, তাই তিনি যাকে আশ্রয় দেন তাকে কেউ হারাতে পারে না। প্রজ্ঞাময়, তাই তাঁর কোনো ব্যবস্থা বেঠিক জায়গায় পড়ে না। যাদের ঈমান তাদের কাছে আপাত-অবিবেচক কিছু দাবি করে, তাদের নিয়ে আজও এই কথাই বলা হয়। অন্যের বেলায় কথাটা মুখে আনার আগে নিজেকে জিজ্ঞেস করি, আমি কার শক্তি গুনছি? আর আমাকে নিয়ে কেউ এ কথা বললে, আমি কি ভরসায় অটল থাকি, নাকি মনে মনে তার সঙ্গে একমত হয়ে যাই?",
+    "pointsEn": [
+      "When I see someone give up comfort or gain for the sake of their faith, do I privately think them naive?",
+      "When I decide that something cannot be done, what am I counting: only what I have, or also the One who arranges every matter?",
+      "The last time my obedience was called foolish, did I hold on to my trust in Allah, or begin to agree with the people saying it?",
+      "Is there a right step I keep postponing only because, by the numbers, it looks unwise?",
+      "What doubt in my own heart would make me speak like those onlookers if the hour of testing came?"
+    ],
+    "pointsBn": [
+      "কেউ যখন ঈমানের খাতিরে আরাম বা লাভ ছেড়ে দেয়, আমি কি মনে মনে তাকে সরলমনা বোকা ভাবি?",
+      "কোনো কাজকে অসম্ভব বলে রায় দেওয়ার সময় আমি কী গুনি? শুধু নিজের হাতে যা আছে, নাকি সেই সত্তাকেও, যিনি সব বিষয়ের ব্যবস্থা করেন?",
+      "শেষবার যখন আমার আনুগত্যকে কেউ বোকামি বলেছে, আমি কি আল্লাহর উপর ভরসা ধরে রেখেছি, নাকি তাদের কথাতেই সায় দিতে শুরু করেছি?",
+      "এমন কোনো সঠিক পদক্ষেপ কি আছে, যা আমি কেবল হিসাবের খাতায় অবিবেচক দেখায় বলে পিছিয়ে যাচ্ছি?",
+      "পরীক্ষার সময় এলে আমার নিজের মনের কোন সংশয় আমাকে দিয়ে ওই দর্শকদের মতো কথা বলাবে?"
+    ],
+    "lessonEn": "Faith that looks like folly to onlookers is not a delusion when it rests on Allah; count His might and wisdom before you call anyone deceived.",
+    "lessonBn": "বাইরের চোখে বোকামি মনে হলেও যে ঈমান আল্লাহর উপর ভর করে আছে, তা ধোঁকা নয়। কাউকে প্রতারিত বলার আগে আল্লাহর পরাক্রম আর প্রজ্ঞাকেও হিসাবে ধরুন।"
   }
 };
 

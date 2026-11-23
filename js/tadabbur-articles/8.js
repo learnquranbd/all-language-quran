@@ -2771,6 +2771,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "Back Among the Ranks",
+          "bn": "আবার বদরের কাতারে"
+        },
+        "p": [
+          {
+            "en": "Idh yaqulu al-munafiquna wa-lladhina fi qulubihim marad: when the hypocrites and those in whose hearts is a disease were saying. The opening idh, when, places the verse in the chain of remembered moments this part of al-Anfal sets around Badr. At-Tabari says this idh returns to that of 8:43, where Allah showed the enemy to the Prophet ﷺ as few in a dream, and he reads the whole run as moments in which Allah is Hearing and Knowing, the words that close 8:42.",
+            "bn": "ইয ইয়াকূলুল মুনাফিকূনা ওয়াল্লাযীনা ফী কুলূবিহিম মারাদ: যখন মুনাফিকরা আর যাদের অন্তরে রোগ আছে তারা বলছিল। শুরুর ইয, অর্থাৎ যখন, শব্দটি আয়াতটিকে বসিয়ে দেয় বদরকে ঘিরে আনফালের এই অংশে স্মরণ করানো মুহূর্তগুলোর ধারায়। তাবারী বলেন, এই ইয ফিরে যায় ৮:৪৩-এর ইয-এর দিকে, যেখানে আল্লাহ স্বপ্নে নবী ﷺ-কে শত্রুদের অল্প করে দেখিয়েছিলেন। পুরো ধারাটিকে তিনি পড়েন এমন সব মুহূর্ত হিসেবে, যেগুলোতে আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ। ৮:৪২ শেষ হয়েছে ঠিক এই কথায়।"
+          },
+          {
+            "en": "The verse before it, 8:48, told how Satan made the march look fine to Quraysh and then deserted them. This verse turns to people who looked at the believers and passed judgement. Gharra ha'ula'i dinuhum: their religion has deluded these. Wa man yatawakkal 'ala-llahi fa-inna-llaha 'azizun hakim: and whoever relies on Allah, then Allah is Mighty, Wise.",
+            "bn": "ঠিক আগের আয়াত ৮:৪৮ বলেছে, শয়তান কুরাইশের অভিযানকে তাদের চোখে সুন্দর করে দেখিয়ে তারপর তাদের ফেলে চলে গিয়েছিল। এ আয়াত চোখ ফেরায় সেই লোকদের দিকে, যারা মুমিনদের দেখে তাদের নিয়ে রায় দিয়ে বসেছিল। গাররা হাউলাই দীনুহুম: এদের দ্বীন এদের ধোঁকায় ফেলেছে। ওয়া মাঁই ইয়াতাওয়াক্কাল আলাল্লাহি ফাইন্নাল্লাহা আযীযুন হাকীম: আর যে আল্লাহর উপর ভরসা করে, আল্লাহ তো মহাপরাক্রমশালী, প্রজ্ঞাময়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sickness of Conviction",
+          "bn": "বিশ্বাসের অসুখ"
+        },
+        "p": [
+          {
+            "en": "What is the disease? At-Tabari defines it here as shakk fi al-islam, doubt about Islam: people whose certainty had not become sound and whose breasts had not opened to faith. As-Sa'di calls it shakk and shubha, doubt and a clouding suspicion, and places such people among du'afa' al-iman, the weak in faith. Al-Baghawi glosses it in two words, doubt and hypocrisy. On all three readings the sickness is not of the body but of conviction: a heart that has heard Islam and has not settled on it.",
+            "bn": "রোগটা কী? তাবারী এখানে এর সংজ্ঞা দেন শাক্ক ফিল ইসলাম, অর্থাৎ ইসলাম নিয়ে সংশয়। এরা এমন মানুষ, যাদের ইয়াকীন পোক্ত হয়নি, যাদের বুক ঈমানের জন্য খুলে যায়নি। সা'দী একে বলেন শাক্ক আর শুবহা, সংশয় আর মনকে ঘোলা করে দেওয়া সন্দেহ। এদের তিনি গণ্য করেন দুআফাউল ঈমান, অর্থাৎ দুর্বল ঈমানের লোকদের মধ্যে। বাগাভী দুই শব্দে ব্যাখ্যা সারেন: সংশয় আর নিফাক। তিনজনের পাঠেই অসুখটা শরীরের নয়, বিশ্বাসের। এমন অন্তর ইসলামের কথা শুনেছে, কিন্তু তাতে স্থির হয়ে বসেনি।"
+          },
+          {
+            "en": "Al-Qurtubi asks whether the verse names two groups or one. The first view he reports with qila, it is said: the munafiqun showed faith and hid disbelief, while those with a disease were doubters a step below them, recent to Islam and somewhat weak in intention. The second view, that the two are a single group, he calls the more fitting. His proof is 2:3 and 2:4, where those who believe in the unseen and those who believe in what was sent down are the same people described twice.",
+            "bn": "কুরতুবী প্রশ্ন তোলেন, আয়াতে কি দুটি দলের কথা, নাকি একটির? প্রথম মতটি তিনি আনেন 'কীলা', অর্থাৎ 'বলা হয়' দিয়ে। এ মতে মুনাফিক তারা, যারা ঈমান দেখাত আর কুফর লুকিয়ে রাখত। আর যাদের অন্তরে রোগ, তারা সংশয়ী, মুনাফিকদের এক ধাপ নিচে, ইসলামে নতুন, নিয়তে কিছুটা দুর্বল। দ্বিতীয় মতটি হলো, দুটি আসলে একই দল, আর এ মতকেই তিনি বেশি সংগত বলেন। প্রমাণ হিসেবে দেখান ২:৩ ও ২:৪, যেখানে গায়েবে বিশ্বাসী আর নাযিলকৃত কিতাবে বিশ্বাসী একই মানুষ, দুবার বর্ণিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Led Down to the Water",
+          "bn": "যে ঘাটে তাদের নামানো হলো"
+        },
+        "p": [
+          {
+            "en": "Gharra ha'ula'i dinuhum. At-Tabari spells it out: these Companions of Muhammad ﷺ, fighting the polytheists, have been deceived about themselves by their religion, and that religion is Islam. Al-Muyassar sets the scene: the speakers saw how few the Muslims were and how many their enemy, and meant that their religion had led them on and brought them down to these watering places. As-Sa'di uses the same image: mawarid where they have no strength and no power to stand.",
+            "bn": "গাররা হাউলাই দীনুহুম। তাবারী খুলে বলেন: মুশরিকদের সঙ্গে লড়তে থাকা মুহাম্মাদ ﷺ-এর এই সাহাবিদের তাদের দ্বীন নিজেদের ব্যাপারে ধোঁকায় ফেলেছে, আর সেই দ্বীন হলো ইসলাম। মুয়াসসার দৃশ্যটা এঁকে দেয়। বক্তারা দেখছিল মুসলিমরা কত কম, আর শত্রু কত বেশি। তাদের কথার মানে ছিল, দ্বীনই এদের ভুলিয়ে এনে এই ঘাটে নামিয়েছে। সা'দীও একই ছবি আনেন: এমন সব ঘাট, যেখানে দাঁড়ানোর মতো শক্তি বা সামর্থ্য এদের নেই।"
+          },
+          {
+            "en": "The tafsirs hear different tones in the remark. Ma'arif al-Qur'an finds combined sympathy and contempt, as if the handful of Muslims had been led by their faith into the jaws of death. As-Sa'di hears contempt alone, a way to belittle the believers and make light of their minds. Either way, the remark is no argument against Islam. It is a forecast about a battle, made by people sure they could read it from a head count, and 8:44 has just said each side was made to look few to the other.",
+            "bn": "কথাটার সুর তাফসীরকারেরা শোনেন ভিন্নভাবে। মাআরিফুল কুরআন এতে পায় করুণা আর তাচ্ছিল্যের মিশেল, যেন হাতেগোনা কজন মুসলিমকে তাদের ঈমান টেনে এনেছে মৃত্যুর মুখে। সা'দী শোনেন কেবল তাচ্ছিল্য, মুমিনদের ছোট করা আর তাদের বুদ্ধিকে হালকা দেখানোর চেষ্টা। যেভাবেই শুনি, এটা ইসলামের বিরুদ্ধে কোনো যুক্তি নয়। এ এক যুদ্ধের ফল নিয়ে ভবিষ্যদ্বাণী, এমন লোকদের, যারা ভাবত মাথা গুনেই ফল বলা যায়। অথচ ৮:৪৪ এইমাত্র জানিয়েছে, প্রত্যেক পক্ষকে অন্য পক্ষের চোখে কম করে দেখানো হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Meccans Who Had Spoken Islam",
+          "bn": "মক্কার যারা মুখে ইসলাম এনেছিল"
+        },
+        "p": [
+          {
+            "en": "Who said it? At-Tabari opens, under the words it is mentioned, with a few polytheists of Quraysh who had spoken Islam without it taking firm hold in their hearts. He supports it from Amir ash-Sha'bi: people of Mecca had spoken Islam, went out with the polytheists on the day of Badr, and said it when they saw how few the Muslims were. Ibn Jurayj, in at-Tabari, calls them hypocrites in Mecca who said it at Badr, when the Muslims were 310-odd men.",
+            "bn": "কথাটা কারা বলেছিল? তাবারী 'উল্লেখ করা হয়' বলে শুরু করেন কুরাইশ মুশরিকদের কয়েকজনকে দিয়ে, যারা মুখে ইসলাম এনেছিল, কিন্তু ইসলাম তাদের অন্তরে মজবুত হয়ে বসেনি। এর সমর্থনে আনেন আমির আশ-শা'বীর বর্ণনা: মক্কার কিছু লোক মুখে ইসলাম এনেছিল, বদরের দিন মুশরিকদের সঙ্গে বের হয়, আর মুসলিমদের সংখ্যা কত কম দেখে কথাটা বলে। তাবারীর সংকলনে ইবন জুরাইজ এদের বলেন মক্কার মুনাফিক, যারা কথাটা বলেছিল বদরের দিন, যখন মুসলিমরা ছিলেন ৩১০-এর কিছু বেশি।"
+          },
+          {
+            "en": "Mujahid names them, in at-Tabari and in Ibn Kathir: a party of Quraysh who left Mecca with the army in doubt, and their doubt held them back. Among them are Abu Qays ibn al-Fakih ibn al-Mughira, al-Harith ibn Zam'a ibn al-Aswad, Ali ibn Umayya ibn Khalaf, al-As ibn Munabbih ibn al-Hajjaj and a son of al-Walid ibn al-Mughira, named Abu Qays in some copies and Qays in al-Baghawi. Ibn Kathir adds that Muhammad ibn Ishaq said the same.",
+            "bn": "মুজাহিদ এদের নাম বলেন, তাবারীতে, আবার ইবন কাসীরেও। এরা কুরাইশের একটি দল, যারা সংশয় নিয়েই বাহিনীর সঙ্গে মক্কা ছেড়েছিল, আর সেই সংশয়ই তাদের আটকে রেখেছিল। তাদের মধ্যে আছে আবু কায়স ইবনুল ফাকিহ ইবনুল মুগীরা, হারিস ইবন যাম'আ ইবনুল আসওয়াদ, আলী ইবন উমাইয়া ইবন খালাফ, আস ইবন মুনাব্বিহ ইবনুল হাজ্জাজ, আর ওয়ালীদ ইবনুল মুগীরার এক ছেলে, যার নাম কোনো কপিতে আবু কায়স, বাগাভীতে কায়স। ইবন কাসীর যোগ করেন, মুহাম্মাদ ইবন ইসহাকও একই কথা বলেছেন।"
+          },
+          {
+            "en": "Al-Baghawi tells more. These were people held weak in Mecca who had accepted Islam, kept by relatives from emigrating. Quraysh made them march to Badr against their will; seeing how few the Muslims were, they fell into doubt, turned back from Islam, said the words, and were all killed. Among the fetched texts only al-Baghawi says they were forced out and that none survived. Ma'mar, in at-Tabari, gives the Meccan reading briefly as what some said.",
+            "bn": "বাগাভী আরেকটু বলেন। এরা মক্কায় দুর্বল অবস্থায় ছিল, ইসলাম গ্রহণ করেছিল, কিন্তু আত্মীয়রা তাদের হিজরত করতে দেয়নি। কুরাইশ তাদের জোর করে বদরে নিয়ে যায়। মুসলিমদের অল্প সংখ্যা দেখে তারা সংশয়ে পড়ে, ইসলাম থেকে ফিরে যায়, কথাটা বলে, আর পরে সবাই নিহত হয়। সংগৃহীত তাফসীরগুলোর মধ্যে কেবল বাগাভীই বলেন যে তাদের জোর করে আনা হয়েছিল আর কেউ বাঁচেনি। তাবারীর সংকলনে মা'মার মক্কার লোকদের এই পাঠটি সংক্ষেপে আনেন, কারও কারও মত হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Mouths for the Taunt",
+          "bn": "একই খোঁচা, ভিন্ন মুখে"
+        },
+        "p": [
+          {
+            "en": "Not every report puts the speakers in the Meccan army. Al-Hasan, in at-Tabari, says they were people who stayed out of the fighting at Badr, and so were named hypocrites. Ma'arif al-Qur'an calls the remark a common saying of the hypocrites of Madinah and the polytheists of Makkah. A third report gives it to the polytheists alone: Ibn Kathir relays it from Ibn Abbas through Ali ibn Abi Talha, and at-Tabari carries the same words from Ibn Jurayj.",
+            "bn": "সব বর্ণনা বক্তাদের মক্কার বাহিনীর ভেতরে রাখে না। তাবারীর সংকলনে হাসান বলেন, এরা ছিল সেই লোক, যারা বদরের যুদ্ধে অংশ নেয়নি, আর সে কারণেই এদের মুনাফিক বলা হয়েছে। মাআরিফুল কুরআনের মতে কথাটা ছিল মদিনার মুনাফিক আর মক্কার মুশরিক, দুই দলেরই মুখের বুলি। তৃতীয় এক বর্ণনা কথাটা কেবল মুশরিকদের মুখে দেয়। ইবন কাসীর তা আনেন আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে, আর তাবারী একই কথা আনেন ইবন জুরাইজ থেকে।"
+          },
+          {
+            "en": "In that report, as the armies drew near, Allah made each side look few to the other, and the polytheists said it, sure beyond doubt that they would rout the believers. Then Allah said: and whoever relies on Allah. Qatadah, as Ibn Kathir gives him, adds that they saw a band of believers braced for Allah's command, and that he was told Abu Jahl, on coming within sight of the Prophet ﷺ and his Companions, swore they would not worship Allah after that day, out of harshness and insolence.",
+            "bn": "সেই বর্ণনায় আছে, দুই বাহিনী কাছাকাছি এলে আল্লাহ প্রত্যেক পক্ষকে অন্য পক্ষের চোখে কম দেখালেন। মুশরিকরা তখন কথাটা বলল, পুরো নিশ্চিত হয়ে যে এদের হটিয়ে দেবে। তখন আল্লাহ বললেন: আর যে আল্লাহর উপর ভরসা করে। ইবন কাসীরের উদ্ধৃতিতে কাতাদা যোগ করেন, তারা দেখেছিল মুমিনদের এমন এক দল, যারা আল্লাহর হুকুমের জন্য কোমর বেঁধে দাঁড়িয়েছে। তিনি এও বলেন, তাঁকে জানানো হয়েছে যে আবু জাহল নবী ﷺ ও তাঁর সাহাবিদের দেখতে পেয়ে কসম খেয়ে বলেছিল, আজকের পর এরা আর আল্লাহর ইবাদত করবে না। কথাটা ছিল তার নিষ্ঠুরতা আর ঔদ্ধত্যের প্রকাশ।"
+          },
+          {
+            "en": "The fetched texts leave these answers side by side; at-Tabari leads with the Meccan converts but does not weigh the others against them. The speakers may have been doubters marching with Quraysh, people who stayed away, or the enemy reading the field. What the reports share is the moment: a small force had chosen to stand, and someone looking on decided that only a delusion could explain it.",
+            "bn": "সংগৃহীত তাফসীরগুলো এই উত্তরগুলো পাশাপাশি রেখে দেয়। তাবারী মক্কার সেই নবমুসলিমদের কথা আগে আনেন, কিন্তু অন্য মতগুলোকে তার বিপরীতে মেপে দেখেন না। তাই বক্তারা হতে পারে কুরাইশের সঙ্গে আসা সংশয়ী লোক, হতে পারে যুদ্ধ থেকে দূরে থাকা লোক, আবার হতে পারে ময়দান মাপতে থাকা শত্রু। সব বর্ণনায় যা মেলে, তা হলো মুহূর্তটা। ছোট্ট একটা বাহিনী দাঁড়িয়ে যাওয়ার সিদ্ধান্ত নিয়েছে, আর পাশ থেকে কেউ ঠিক করে নিয়েছে, ধোঁকা ছাড়া এর আর কোনো ব্যাখ্যা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reply Is a Name",
+          "bn": "জবাবে একটি নাম"
+        },
+        "p": [
+          {
+            "en": "The verse does not recount the armies; it answers with a condition: wa man yatawakkal 'ala-llah, and whoever relies on Allah. At-Tabari explains the reliance in three verbs: to hand one's affair over to Allah, to trust Him, and to be content with His decree; then Allah is his keeper and helper. Al-Baghawi repeats the first two, and Ibn Kathir says it is to lean on His side. Al-Muyassar adds trust in His promise, and the conclusion the speakers missed: Allah will not forsake such a person.",
+            "bn": "আয়াতটি বাহিনীর হিসাব আবার কষতে বসে না। বিদ্রূপের জবাব দেয় একটি শর্ত দিয়ে: ওয়া মাঁই ইয়াতাওয়াক্কাল আলাল্লাহ, আর যে আল্লাহর উপর ভরসা করে। তাবারী এই ভরসাকে খুলে বলেন তিনটি কাজে: নিজের বিষয়টা আল্লাহর হাতে সঁপে দেওয়া, তাঁর উপর আস্থা রাখা, আর তাঁর ফয়সালায় রাজি থাকা। এমন মানুষের রক্ষক ও সাহায্যকারী তখন আল্লাহ নিজে। বাগাভী প্রথম দুটি কথা হুবহু বলেন। ইবন কাসীরের ভাষায় এর মানে তাঁর দরবারে ভর দেওয়া। মুয়াসসার যোগ করে তাঁর ওয়াদার উপর আস্থা, আর বক্তারা যে সিদ্ধান্ত ধরতে পারেনি, তা টেনে আনে: আল্লাহ এমন মানুষকে কখনো অসহায় ফেলে দেবেন না।"
+          },
+          {
+            "en": "Then the two names. At-Tabari: 'Aziz, nothing overcomes Him and none subdues Him, so whoever He shelters, His jar, cannot be reached, and whoever relies on Him is provided for; Hakim, no flaw enters His management of His creation. Ibn Kathir: whoever takes refuge with Him is not wronged, for His side is guarded; He is wise, putting each thing only in its place, so He helps whoever deserves help and forsakes whoever deserves it. Al-Baghawi reads 'Aziz as strong, doing with His enemies what He wills.",
+            "bn": "এরপর দুটি নাম। তাবারী বলেন, আযীয মানে কোনো কিছু তাঁকে হারাতে পারে না, কেউ তাঁকে দমাতে পারে না। ফলে তিনি যাকে আশ্রয় দেন, তাঁর সেই জার, তার নাগাল কেউ পায় না, আর যে তাঁর উপর ভরসা করে, তার প্রয়োজন মিটে যায়। হাকীম মানে সৃষ্টির ব্যবস্থাপনায় তাঁর কাজে কোনো ত্রুটি ঢোকে না। ইবন কাসীর বলেন, যে তাঁর কাছে আশ্রয় নেয়, তার উপর জুলুম চলে না, কারণ তাঁর দরবার সুরক্ষিত। তিনি প্রজ্ঞাময়, প্রতিটি জিনিস রাখেন তার যথাস্থানে। তাই যে সাহায্যের যোগ্য, তাকে সাহায্য করেন, আর যে পরিত্যাগের যোগ্য, তাকে পরিত্যাগ করেন। বাগাভী আযীয পড়েন শক্তিমান অর্থে, যিনি শত্রুদের সঙ্গে যা চান তা-ই করেন।"
+          },
+          {
+            "en": "At-Tabari's word for those Allah shelters, jar, is the word Satan used in 8:48: inni jarun lakum, I am your protector. The tafsirs do not draw the contrast, but the two verses sit side by side. Quraysh were promised a protector who turned on his heels, while the believers relied on Allah, whose protected cannot be overcome. At-Tabari also reads the clause as a command to the believers, Companions and others, to entrust their affair to Him and submit to His decree, so that He suffices them against their enemies.",
+            "bn": "আল্লাহ যাদের আশ্রয় দেন, তাদের বোঝাতে তাবারী যে শব্দ ব্যবহার করেন, সেই জার শব্দটাই শয়তান বলেছিল ৮:৪৮-এ: ইন্নী জারুল লাকুম, আমি তোমাদের রক্ষক। তাফসীরকারেরা এই বৈপরীত্য টানেন না, কিন্তু পাশাপাশি দুটি আয়াতে তা চোখে পড়ে। কুরাইশকে রক্ষার কথা দিয়েছিল এমন এক অভিভাবক, যে উল্টো পায়ে পালিয়ে গেল। আর মুমিনরা ভরসা করেছিল আল্লাহর উপর, যাঁর আশ্রিতকে কেউ হারাতে পারে না। তাবারী অংশটিকে মুমিনদের প্রতি, সাহাবি ও অন্যদের প্রতি, এক আদেশ হিসেবেও পড়েন: নিজেদের বিষয় তাঁর হাতে সঁপে দাও, তাঁর ফয়সালা মেনে নাও, যাতে শত্রুদের মোকাবিলায় তিনিই যথেষ্ট হন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Minds Were Light",
+          "bn": "হালকা বুদ্ধি আসলে কার"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di turns the charge round on those who made it. They said it, he writes, to belittle the believers and to make light of their intelligence, and yet they themselves, by Allah, were the lighter in mind and the weaker in understanding. His reason is what faith does to its holder. Faith, he says, obliges the believer to step forward into fearful undertakings that great armies would not attempt.",
+            "bn": "সা'দী অভিযোগটা অভিযোগকারীদের দিকেই ঘুরিয়ে দেন। তিনি লেখেন, মুমিনদের ছোট করতে আর তাদের বুদ্ধিকে হালকা দেখাতেই তারা কথাটা বলেছিল। অথচ আল্লাহর কসম, বুদ্ধিতে হালকা আর বিবেচনায় দুর্বল তো তারাই। কারণ হিসেবে তিনি দেখান, ঈমান তার ধারকের ভেতরে কী ঘটায়। তাঁর ভাষায়, ঈমান মানুষকে এমন সব ভয়ংকর কাজে এগিয়ে যেতে বাধ্য করে, যাতে বিশাল বিশাল বাহিনীও পা বাড়ায় না।"
+          },
+          {
+            "en": "He then draws the believer who relies on Allah. Such a person knows that no one has might, strength or ability except through Allah, that he is on the truth, and that Allah is wise and merciful in all He has decreed. So he does not care what force or numbers he meets; he trusts his Lord, his heart at rest, neither alarmed nor cowardly. That, as-Sa'di says, is why the verse ends so: Allah is Mighty, no strength overpowering His, and Wise in what He has decreed and set in motion.",
+            "bn": "এরপর তিনি আল্লাহর উপর ভরসাকারী মুমিনের ছবি আঁকেন। এমন মানুষ জানে, আল্লাহ ছাড়া কারও কোনো শক্তি, ক্ষমতা বা সামর্থ্য নেই। সে জানে, সে হকের উপর আছে, আর আল্লাহ তাঁর প্রতিটি ফয়সালায় প্রজ্ঞাময়, দয়াময়। তাই সামনে কত শক্তি আর কত লোক, তা নিয়ে সে মাথা ঘামায় না। রবের উপর তার আস্থা থাকে, অন্তর থাকে শান্ত। সে আতঙ্কিত হয় না, কাপুরুষও হয় না। সা'দী বলেন, এ কারণেই আয়াতের শেষটা এমন: আল্লাহ মহাপরাক্রমশালী, কোনো শক্তি তাঁর শক্তিকে হারাতে পারে না। আর তিনি যা ফয়সালা করেন ও চালু করেন, তাতে তিনি প্রজ্ঞাময়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sufficient for Us, Said Twice",
+          "bn": "দুবার উচ্চারিত হাসবুনাল্লাহ"
+        },
+        "p": [
+          {
+            "en": "None of the fetched tafsirs attaches a sound hadith of the Prophet ﷺ to this verse; the line about Abu Jahl is Qatadah's \"we were told\". A saying of Ibn Abbas in al-Bukhari's Sahih (4563), not tied to this verse, records the believers' words before a warning of the same kind: \"Hasbuna-llahu wa ni'ma al-wakil: Ibrahim (AS) said it when he was thrown into the fire, and Muhammad ﷺ said it when they said: the people have gathered against you, so fear them; and it increased them in faith, and they said: Allah is sufficient for us, and He is the best Disposer of affairs.\"",
+            "bn": "সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো সহীহ হাদীস যুক্ত করেনি। আবু জাহলের কথাটিও কাতাদার 'আমাদের জানানো হয়েছে' ধরনের বর্ণনা। ইবন আব্বাস (রাঃ)-এর একটি উক্তি বুখারী তাঁর সহীহ গ্রন্থে এনেছেন (৪৫৬৩), যা এ আয়াতের সঙ্গে যুক্ত নয়। তাতে আছে একই রকম এক হুমকির মুখে মুমিনদের জবাব: \"হাসবুনাল্লাহু ওয়া নি'মাল ওয়াকীল: ইবরাহীম (আঃ) এ কথা বলেছিলেন যখন তাঁকে আগুনে ফেলা হয়, আর মুহাম্মাদ ﷺ বলেছিলেন যখন লোকেরা বলল: মানুষ তোমাদের বিরুদ্ধে জড়ো হয়েছে, কাজেই তাদের ভয় করো। এতে তাদের ঈমান আরও বেড়ে গেল, আর তারা বলল: আল্লাহই আমাদের জন্য যথেষ্ট, আর তিনি কতই না উত্তম কর্মবিধায়ক।\""
+          },
+          {
+            "en": "Other verses stand beside this one. In 33:12 the same pair, the hypocrites and those with a disease in their hearts, say that Allah and His Messenger promised them nothing but ghurur, delusion, from the root of gharra: here the religion deluded, there the promise. The words in Ibn Abbas's report are 3:173. In 2:249 those certain of meeting Allah answer a larger army: how many a small company has overcome a large company by Allah's permission. And 65:3 says it without a battle: whoever relies on Allah, He is sufficient for him.",
+            "bn": "এ আয়াতের পাশে আরও কিছু আয়াত দাঁড়ায়। ৩৩:১২-এ সেই একই জোড়া, মুনাফিক আর যাদের অন্তরে রোগ, বলে যে আল্লাহ ও তাঁর রাসূল তাদের গুরূর ছাড়া কিছুই দেননি, মানে ধোঁকা। শব্দটা গাররা-র ধাতু থেকেই। এখানে ধোঁকা দিয়েছে দ্বীন, সেখানে ওয়াদা। ইবন আব্বাস (রাঃ)-এর বর্ণনার কথাগুলো ৩:১৭৩ আয়াতের। ২:২৪৯-এ যারা আল্লাহর সঙ্গে সাক্ষাতের ব্যাপারে নিশ্চিত, তারা বড় বাহিনীর জবাবে বলে: আল্লাহর অনুমতিতে কত ছোট দল বড় দলকে হারিয়েছে! আর ৬৫:৩ যুদ্ধ ছাড়াই কথাটা বলে: যে আল্লাহর উপর ভরসা করে, তার জন্য তিনিই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Trust Is Called Folly",
+          "bn": "ভরসাকে যখন বোকামি বলা হয়"
+        },
+        "p": [
+          {
+            "en": "The verse records what particular people said on one day at Badr, and Allah's reply. It licenses nothing against any living person or community, and gives no one the right to call a fellow Muslim a hypocrite or sick of heart; even the reports that name names disagree about who spoke. Its use is inward. In al-Qurtubi's first view the sick of heart stand close to the believers, new to Islam and weak in intention, and the doubt the tafsirs describe can be looked for in oneself first.",
+            "bn": "আয়াতটি বদরের একটি দিনে নির্দিষ্ট কিছু মানুষের মুখের কথা, আর তার জবাবে আল্লাহর কথা বর্ণনা করে। আজকের কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো মুসলিম ভাইকে মুনাফিক বা রুগ্ণ অন্তরের মানুষ বলে দাগানোর অধিকারও কাউকে দেয় না। যে বর্ণনাগুলো নাম ধরে বলে, তারাও একমত নয় কথাটা কে বলেছিল। এ আয়াতের কাজ ভেতরের দিকে। কুরতুবীর প্রথম মতে রুগ্ণ অন্তরের লোকেরা মুমিনদের খুব কাছেই থাকে, ইসলামে নতুন, নিয়তে দুর্বল। তাফসীরগুলো যে সংশয় আর নড়বড়ে ইয়াকীনের কথা বলে, অন্যের মধ্যে খোঁজার অনেক আগে তা নিজের মধ্যে খোঁজা যায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notes that observant Muslims today are dismissed as old-timers by people who claim to have advanced in reason, and that those who know only the material trust only the material. The test is not whether others call us deluded but what we lean on when they do. At-Tabari's three verbs make a check: have I handed the matter over, do I trust Him in it, will I be content with His decree? And hasbuna-llahu wa ni'ma al-wakil remain words anyone can say when told the odds.",
+            "bn": "মাআরিফুল কুরআন লক্ষ করে, আমাদের সময়েও দ্বীনদার মুসলিমদের অনেকে সেকেলে বলে উড়িয়ে দেয়, যারা নিজেদের যুক্তিতে অগ্রসর বলে দাবি করে। বইটি আরও বলে, যারা শুধু বস্তুকেই চেনে, তারা ভরসাও করে শুধু বস্তুর উপর। আয়াতের পরীক্ষা তাই এ নয় যে অন্যরা আমাদের প্রতারিত বলছে কি না। পরীক্ষা হলো, তারা বললে আমরা কীসের উপর ভর দিই। তাবারীর তিনটি কাজ এখানে নিজেকে যাচাইয়ের মাপকাঠি: বিষয়টা কি আমি আল্লাহর হাতে সঁপে দিয়েছি? এতে কি তাঁর উপর আস্থা রাখছি? তিনি যা ফয়সালা করবেন, তাতে কি রাজি থাকব? আর হিসাবের খাতা যখন ভয় দেখায়, হাসবুনাল্লাহু ওয়া নি'মাল ওয়াকীল তখনও যে কারও মুখের কুরআনি কথা।"
+          }
+        ]
+      }
+    ]
+  },
   "8:54": {
     "sections": [
       {
