@@ -8507,6 +8507,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:155": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seventy for the Appointment",
+          "bn": "নির্ধারিত সাক্ষাতের সত্তর জন"
+        },
+        "p": [
+          {
+            "en": "Wa-khtara Musa qawmahu sab'ina rajulan li-miqatina: and Musa chose from his people seventy men for Our appointment. The verse comes straight after 7:154, where his anger had subsided and he took up the tablets again. Al-Qurtubi and al-Baghawi note that a preposition has dropped out: he chose seventy men from his people. At-Tabari explains that choosing already implies taking a part out of a whole, so the Arabs leave the word out.",
+            "bn": "ওয়াখতারা মূসা কাওমাহু সাবঈনা রাজুলান লিমীকাতিনা: আর মূসা আমার নির্ধারিত সময়ের জন্য তার জাতি থেকে সত্তর জন লোক বাছাই করল। আয়াতটি আসে ঠিক ৭:১৫৪-এর পরে, যেখানে তাঁর রাগ থেমে গেছে আর তিনি ফলকগুলো আবার হাতে তুলে নিয়েছেন। কুরতুবী ও বাগাভী দেখান, এখানে 'থেকে' অর্থের একটি অব্যয় উহ্য রয়েছে: তিনি জাতির মধ্য থেকে সত্তর জন বেছে নিলেন। তাবারী বুঝিয়ে বলেন, বাছাই করা মানেই পুরো দল থেকে একটা অংশ নেওয়া, তাই আরবরা শব্দটি বাদ দিয়েই বলে।"
+          },
+          {
+            "en": "Al-Muyassar says they were among the best of his people, taken to Mount Sinai at the time Allah had promised, to repent of what the foolish among the Children of Israel had done with the calf. Al-Baghawi draws an inference from the choosing: it shows that not all of them had worshipped the calf. Then he quotes Ibn Ishaq, in whose account Musa told the seventy to repent of what they had done, and remarks that this suggests all of them had worshipped it. Abu Sa'id ar-Raqashi, in at-Tabari, says they were past 20 and not yet 40.",
+            "bn": "মুয়াসসার বলে, তাঁরা ছিলেন জাতির সেরা মানুষদের মধ্যে। আল্লাহর দেওয়া প্রতিশ্রুত সময়ে তাঁদের নেওয়া হয় সিনাই পাহাড়ে, বনী ইসরাঈলের নির্বোধেরা বাছুর নিয়ে যা করেছিল তা থেকে তওবা করতে। বাগাভী বাছাইয়ের ঘটনা থেকেই একটা সিদ্ধান্ত টানেন: এতে বোঝা যায়, সবাই বাছুরের পূজা করেনি। এরপর তিনি ইবন ইসহাকের কথা আনেন। তাঁর বর্ণনায় মূসা সত্তর জনকে বলেছিলেন, তোমরা যা করেছ তা থেকে তওবা কর। বাগাভী মন্তব্য করেন, এ থেকে বোঝা যায় তাঁরা সবাই বাছুরের পূজা করেছিলেন। তাবারীতে আবু সাঈদ রাকাশী বলেন, তাঁদের বয়স ছিল ২০ বছরের বেশি, তবে ৪০ পেরোয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reasons Given for the Quake",
+          "bn": "কম্পনের কারণ নিয়ে নানা বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The verse does not say why the trembling seized them, and the commentators give several reasons without settling the matter. One group ties it to a demand to see Allah openly. As-Suddi, in at-Tabari and Ibn Kathir, says Allah told Musa to bring men to apologise for the calf, and at the place they said: we will not believe you until we see Allah plainly. As-Sa'di and al-Muyassar follow this line. Ibn Ishaq's longer account of the same demand is told in this collection under 2:55 and 2:56.",
+            "bn": "কম্পন কেন তাঁদের পাকড়াও করল, আয়াত তা বলে না। তাফসীরকারেরা কয়েকটি কারণ উল্লেখ করেন, কোনোটিকে চূড়ান্ত না করেই। এক দল এটিকে জুড়ে দেন আল্লাহকে প্রকাশ্যে দেখার দাবির সঙ্গে। তাবারী ও ইবন কাসীরে সুদ্দী বলেন, আল্লাহ মূসাকে আদেশ দিয়েছিলেন বাছুরপূজার জন্য ক্ষমা চাইতে কিছু লোক নিয়ে আসতে। নির্ধারিত জায়গায় পৌঁছে তারা বলল: আল্লাহকে প্রকাশ্যে না দেখা পর্যন্ত আমরা তোমার কথা মানব না। সা'দী ও মুয়াসসার এ ধারাই অনুসরণ করেন। একই দাবি নিয়ে ইবন ইসহাকের দীর্ঘ বর্ণনা এ সংকলনে ২:৫৫ ও ২:৫৬ আয়াতের আলোচনায় আছে।"
+          },
+          {
+            "en": "A second group says they were seized for staying beside the calf-worshippers. At-Tabari records from Qatada that Ibn Abbas used to say the trembling reached them because they did not part from the people when the calf was set up, though they disliked joining them in it. Ibn Jurayj says the same, and Muhammad ibn Ka'b al-Qurazi adds that they had not enjoined the right or forbidden the wrong. Ibn Kathir notes that Musa's own words in the verse lend this reading support: would You destroy us for what the foolish among us did?",
+            "bn": "দ্বিতীয় দল বলেন, বাছুরপূজারীদের পাশে থেকে যাওয়ার কারণেই তাঁদের পাকড়াও করা হয়েছিল। তাবারী কাতাদা থেকে বর্ণনা করেন, ইবন আব্বাস (রাঃ) বলতেন: যখন বাছুর দাঁড় করানো হল, তাঁরা লোকদের থেকে আলাদা হননি, যদিও তাদের সঙ্গে তাতে শরিক হওয়া তাঁদের অপছন্দ ছিল। সে কারণেই কম্পন তাঁদের ধরেছিল। ইবন জুরাইজও একই কথা বলেন। মুহাম্মাদ ইবন কা'ব কুরাযী যোগ করেন, তাঁরা সৎকাজের আদেশ দেননি, অসৎকাজে নিষেধও করেননি। ইবন কাসীর বলেন, আয়াতে মূসার নিজের কথাই এ ব্যাখ্যাকে সমর্থন দেয়: আমাদের মধ্যকার নির্বোধেরা যা করেছে, তার জন্য কি তুমি আমাদের ধ্বংস করবে?"
+          },
+          {
+            "en": "Other reports differ again. Ali ibn Abi Talha relates from Ibn Abbas that the seventy, in their prayer, asked for what Allah had given no one before them and would give no one after, and He disliked it. Al-Baghawi reports him as saying the seventy of 2:55 came before these, and al-Qurtubi records that these were not the men who asked to see Allah. A report from Ali about the death of Harun (AS) is also relayed; Ibn Kathir calls it very strange. Al-Qurtubi's verdict on the list: Allah knows best which of it is sound.",
+            "bn": "অন্য বর্ণনাগুলো আবার ভিন্ন কথা বলে। আলী ইবন আবী তালহা ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, সত্তর জন দু‘আয় এমন কিছু চেয়েছিল যা আল্লাহ তাদের আগে কাউকে দেননি, পরেও কাউকে দেবেন না। আল্লাহ সে চাওয়া অপছন্দ করলেন। বাগাভী তাঁর এ কথাও আনেন যে ২:৫৫-এর সত্তর জন ছিল এদের আগের দল। কুরতুবী একটি মত উল্লেখ করেন যে এরা সেই লোক নয় যারা আল্লাহকে দেখতে চেয়েছিল। হারূন (আঃ)-এর মৃত্যু নিয়ে আলী (রাঃ) থেকেও একটি বর্ণনা আসে। ইবন কাসীর সেটিকে খুবই অদ্ভুত বলেছেন। পুরো তালিকা নিয়ে কুরতুবীর শেষ কথা: এর কোনটি সঠিক, আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rajfa: Death or Dread",
+          "bn": "রাজফা: মৃত্যু, না আতঙ্ক"
+        },
+        "p": [
+          {
+            "en": "Ar-rajfa is the trembling. Al-Qurtubi says the word means a violent quaking, and glosses the clause simply: they died. At-Tabari defines it as whatever shook the people, unsettled and moved them, and then either destroyed them or struck them senseless. Ibn Ishaq equates it with the thunderbolt, the sa'iqa, which is the word 2:55 uses. Ma'arif al-Qur'an reconciles the two words by suggesting that both struck, a quake from beneath and a thunderclap from above.",
+            "bn": "আর-রাজফা মানে কাঁপুনি। কুরতুবী বলেন, শব্দটির অর্থ প্রচণ্ড ভূকম্পন, আর অংশটির ব্যাখ্যা দেন এক কথায়: তারা মারা গেল। তাবারীর সংজ্ঞায় রাজফা হল যা মানুষকে নাড়িয়ে দেয়, অস্থির করে তোলে, তারপর হয় ধ্বংস করে দেয়, নয়তো বেহুঁশ করে বোধশক্তি কেড়ে নেয়। ইবন ইসহাক একে বজ্রাঘাত বা সা'ইকা বলেছেন, ২:৫৫ আয়াতে যে শব্দটি এসেছে। মাআরিফুল কুরআন দুটি শব্দের মধ্যে মিল খোঁজে এভাবে: হয়তো দুটোই এসেছিল, নিচ থেকে ভূমিকম্প আর উপর থেকে বজ্রধ্বনি।"
+          },
+          {
+            "en": "Whether they died is itself disputed. Mujahid, in at-Tabari, says they died and Allah then brought them back to life, and as-Sa'di says Allah answered Musa's prayer, revived them after their death and forgave them. Wahb, in al-Qurtubi and al-Baghawi, says they did not die: the awe of what they witnessed set them trembling until their joints nearly came apart, and Musa feared they would die. In al-Baghawi's telling Musa wept and implored his Lord, and Allah lifted the trembling from them. Ma'arif al-Qur'an leaves it open: they looked dead, or perhaps they were.",
+            "bn": "তাঁরা সত্যিই মারা গিয়েছিলেন কি না, তা নিয়েও মতভেদ আছে। তাবারীতে মুজাহিদ বলেন, তাঁরা মারা যান, তারপর আল্লাহ তাঁদের আবার জীবিত করেন। সা'দীও বলেন, আল্লাহ মূসার দু‘আ কবুল করেন, মৃত্যুর পর তাঁদের জীবন ফিরিয়ে দেন আর তাঁদের গুনাহ মাফ করেন। কুরতুবী ও বাগাভীতে ওয়াহব বলেন, তাঁরা মারা যাননি। যা দেখেছিলেন তার ভয়ে এমন কাঁপুনি ধরে যে গাঁটগুলো যেন খুলে আসছিল, আর মূসা তাঁদের মৃত্যুর আশঙ্কা করছিলেন। বাগাভীর বর্ণনায় মূসা কেঁদে কেঁদে রবকে মিনতি করেন, আর আল্লাহ সেই কাঁপুনি সরিয়ে দেন। মাআরিফুল কুরআন প্রশ্নটা খোলা রাখে: তাঁদের মৃতের মতো দেখাচ্ছিল, হয়তো সত্যিই মারা গিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Had You Willed, Long Before",
+          "bn": "চাইলে তো আগেই পারতে"
+        },
+        "p": [
+          {
+            "en": "Qala rabbi law shi'ta ahlaktahum min qablu wa iyyaya: he said, my Lord, had You willed, You would have destroyed them before, and me. Al-Qurtubi takes ahlakta here as caused to die, citing 4:176, in imru'un halaka, if a man dies. His paraphrase: had You willed, You could have made us die before we set out for the appointment, in front of the Children of Israel, so that they would not suspect me. As-Suddi, in at-Tabari, has Musa weeping: my Lord, what shall I say to the Children of Israel when I return, and You have destroyed their best?",
+            "bn": "কালা রাব্বি লাও শি'তা আহলাকতাহুম মিন কাবলু ওয়া ইয়্যায়া: সে বলল, হে আমার রব, তুমি চাইলে আগেই এদের ধ্বংস করে দিতে, আমাকেও। কুরতুবী এখানে আহলাকতা মানে নিয়েছেন মৃত্যু ঘটানো, প্রমাণ হিসেবে আনেন ৪:১৭৬, ইনিমরাউন হালাকা, যদি কোনো লোক মারা যায়। তাঁর ব্যাখ্যা: তুমি চাইলে সাক্ষাতের জন্য রওনা হওয়ার আগেই, বনী ইসরাঈলের চোখের সামনে আমাদের মৃত্যু দিতে পারতে, তাহলে তারা আমাকে সন্দেহ করত না। তাবারীতে সুদ্দীর বর্ণনায় মূসা কাঁদছেন আর বলছেন: হে রব, বনী ইসরাঈলের কাছে ফিরে গিয়ে কী বলব, যখন তুমি তাদের সেরা মানুষগুলোকেই ধ্বংস করে দিলে?"
+          },
+          {
+            "en": "Others read before differently. As-Sa'di: before they came, while they were still apologising for their people, rather than now, when they had themselves become the wrongdoers. Al-Muyassar adds that destroying them all earlier, with Musa among them, would have been lighter for him to bear. Al-Baghawi reads before as at the time of the calf. Ma'arif al-Qur'an reasons that they could have perished on earlier occasions, in the sea with Pharaoh or at the calf, and since they had not, Musa knew this was a warning rather than Allah's will to end them.",
+            "bn": "অন্যরা 'আগে' শব্দটি পড়েছেন নিজ নিজ ভাবে। সা'দীর মতে: তারা আসার আগেই, যখন তারা জাতির হয়ে ক্ষমা চাওয়ার অবস্থায় ছিল, এখন নয়, যখন তারা নিজেরাই জালিম হয়ে গেছে। মুয়াসসার যোগ করে, মূসাসহ সবাইকে আগেই ধ্বংস করে দিলে সেটা তাঁর পক্ষে সহ্য করা সহজ হত। বাগাভী 'আগে' বলতে বোঝেন বাছুরপূজার সময়। মাআরিফুল কুরআনের যুক্তি: আগেও তারা ধ্বংস হতে পারত, ফেরাউনের সঙ্গে সাগরে, কিংবা বাছুরের ঘটনায়। তা যখন হয়নি, মূসা বুঝলেন এটা সতর্ক করা, তাদের শেষ করে দেওয়া আল্লাহর ইচ্ছা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question That Pleads",
+          "bn": "প্রশ্নের ভেতরে মিনতি"
+        },
+        "p": [
+          {
+            "en": "Atuhlikuna bima fa'ala as-sufaha'u minna: would You destroy us for what the foolish among us did? The commentators hear a plea here, not a protest. Al-Qurtubi says the question carries a denial, meaning You do not do that, or a request, meaning do not destroy us. He quotes al-Mubarrad, who calls it a question that weighs how grave the matter is; al-Baghawi quotes him as calling it a question that seeks compassion. In both, Musa knew that Allah does not destroy anyone for another's sin, and al-Qurtubi's quotation likens it to the words of Isa (AS) in 5:118: if You punish them, they are Your servants.",
+            "bn": "আতুহলিকুনা বিমা ফা'আলাস সুফাহাউ মিন্না: আমাদের মধ্যকার নির্বোধেরা যা করেছে, তার জন্য কি তুমি আমাদের ধ্বংস করবে? তাফসীরকারেরা এখানে আপত্তি নয়, মিনতিই শোনেন। কুরতুবী বলেন, প্রশ্নটির ভেতরে আছে অস্বীকার, অর্থাৎ তুমি তো এমন করো না, অথবা আছে প্রার্থনা, অর্থাৎ আমাদের ধ্বংস করো না। তিনি মুবাররাদের কথা আনেন, যিনি একে বলেছেন ব্যাপারটির গুরুত্ব বোঝানোর প্রশ্ন। বাগাভীর উদ্ধৃতিতে মুবাররাদ একে বলেন দয়া প্রার্থনার প্রশ্ন। দুই জায়গাতেই কথাটা হল, মূসা জানতেন, আল্লাহ একজনের অপরাধে আরেকজনকে ধ্বংস করেন না। কুরতুবীর উদ্ধৃতিতে এটিকে তুলনা করা হয়েছে ৫:১১৮-এ ঈসা (আঃ)-এর কথার সঙ্গে: তুমি যদি তাদের শাস্তি দাও, তারা তো তোমারই বান্দা।"
+          },
+          {
+            "en": "Who are the foolish? At-Tabari records a disagreement. As-Suddi says Allah revealed to Musa that these seventy were among those who took the calf, and that this is when Musa said: it is only Your trial. Ibn Ishaq makes the foolish the seventy themselves, who had demanded to see their Lord; Musa's fear is then for those left behind: I chose seventy, the best and then the best, and I go back without a single man; how will they believe me after this? Ibn Zayd reads it as: will You take us to task, when not one of us abandoned Your worship?",
+            "bn": "নির্বোধ কারা? তাবারী এখানে মতভেদ উল্লেখ করেন। সুদ্দী বলেন, আল্লাহ মূসাকে জানিয়ে দিলেন যে এই সত্তর জনও বাছুর গ্রহণকারীদের মধ্যে ছিল, আর তখনই মূসা বললেন: এ তো কেবল তোমার পরীক্ষা। ইবন ইসহাকের মতে নির্বোধ হল সেই সত্তর জনই, যারা রবকে দেখার দাবি তুলেছিল। তখন মূসার ভয় পেছনে থেকে যাওয়া মানুষদের নিয়ে: বেছে বেছে সেরা সত্তর জনকে এনেছিলাম, ফিরছি একজনকেও না নিয়ে, এরপর তারা আমাকে কীভাবে বিশ্বাস করবে? ইবন যায়দের ব্যাখ্যা: তুমি কি আমাদের পাকড়াও করবে, অথচ আমাদের একজনও তোমার ইবাদত ছাড়েনি?"
+          },
+          {
+            "en": "At-Tabari prefers the reading that the foolish were the calf-worshippers and that Musa was grieving for the seventy. It is impossible, he argues, that Musa chose for an audience with his Lord anyone but the best of his people, and impossible that the best included men who had taken the calf as a god. He then answers an objection: might Musa have thought Allah punishes some for the sins of others? Not necessarily, he replies, since destroying can mean taking souls without any punishment, as in 4:176. The plea then means: will You make us die for what the foolish among us did?",
+            "bn": "তাবারীর পছন্দ সেই ব্যাখ্যা, যাতে নির্বোধ মানে বাছুরপূজারীরা, আর মূসা শোক করছিলেন সত্তর জনের জন্য। তাঁর যুক্তি: রবের সামনে নিয়ে যাওয়ার জন্য মূসা জাতির সেরাদের ছাড়া অন্য কাউকে বাছাই করবেন, তা অসম্ভব। আর সেরাদের মধ্যে এমন লোক থাকবে যারা বাছুরকে ইলাহ বানিয়েছিল, সেটাও অসম্ভব। এরপর তিনি একটি আপত্তির জবাব দেন: মূসা কি ভাবতে পারতেন যে আল্লাহ একজনের গুনাহে অন্যকে শাস্তি দেন? জরুরি নয়, তিনি বলেন। কারণ ধ্বংস করা মানে শাস্তি ছাড়াই প্রাণ নিয়ে নেওয়াও হতে পারে, যেমন ৪:১৭৬-এ। তখন মিনতির অর্থ দাঁড়ায়: আমাদের নির্বোধদের কাজের জন্য কি তুমি আমাদের মৃত্যু দেবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only Your Fitnah",
+          "bn": "এ তো কেবল তোমারই পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "In hiya illa fitnatuka: it is nothing but Your trial. Ibn Kathir reports from Ibn Abbas, Sa'id ibn Jubayr, Abu al-'Aliya, ar-Rabi' ibn Anas and others that fitnah here means trial, test and examination, and says the phrase bears no other meaning. He spells it out: the command and the judgement are Yours alone. At-Tabari applies it to the calf: what my people did was a trial from You, to make clear who strays from the truth by worshipping it and who is guided by leaving it.",
+            "bn": "ইন হিয়া ইল্লা ফিতনাতুক: এ তো কেবল তোমার পরীক্ষা। ইবন কাসীর ইবন আব্বাস (রাঃ), সাঈদ ইবন জুবাইর, আবুল আলিয়া, রাবী' ইবন আনাস ও আরও অনেকের সূত্রে জানান, ফিতনা এখানে মানে পরীক্ষা, যাচাই আর বাছাই। তাঁর মতে কথাটির এ ছাড়া আর কোনো অর্থ হয় না। তিনি খুলে বলেন: হুকুম আর ফয়সালা কেবল তোমারই। তাবারী কথাটি বাছুরের ঘটনায় প্রয়োগ করেন: আমার জাতি যা করেছে তা তোমারই পরীক্ষা। এতে স্পষ্ট হয়ে যায় কে বাছুর পূজা করে সত্য থেকে সরে যায়, আর কে তা ছেড়ে দিয়ে পথ পায়।"
+          },
+          {
+            "en": "Ibn Abbas, through Ali ibn Abi Talha, glosses fitnah here as punishment, which You bring on whom You will and turn from whom You will. Al-Qurtubi notes that Musa ascribes the trial to Allah and not to himself, and sets this beside Ibrahim (AS) in 26:80, who ascribed sickness to himself and healing to Allah. Musa learned it, he suggests, from 20:85: We have tried your people after you. As-Sa'di hears an excuse in it: a trial had come of the kind that puts a person's religion at risk.",
+            "bn": "আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) এখানে ফিতনার অর্থ করেন শাস্তি, যা তুমি যার উপর চাও নামিয়ে দাও, যার থেকে চাও সরিয়ে নাও। কুরতুবী লক্ষ করেন, মূসা পরীক্ষাকে নিজের দিকে নয়, আল্লাহর দিকে সম্পর্কিত করেছেন। পাশে রাখেন ২৬:৮০-তে ইবরাহীম (আঃ)-কে, যিনি অসুখ নিজের দিকে আর আরোগ্য আল্লাহর দিকে সম্পর্কিত করেছেন। তাঁর ধারণা, মূসা এ কথা শিখেছিলেন ২০:৮৫ থেকে: তোমার পরে আমি তোমার জাতিকে পরীক্ষায় ফেলেছি। সা'দী এতে একটা অজুহাত শোনেন: এমন পরীক্ষা এসেছিল, যাতে মানুষের দীনই ঝুঁকিতে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Our Wali, Best of Forgivers",
+          "bn": "আমাদের অভিভাবক, শ্রেষ্ঠ ক্ষমাশীল"
+        },
+        "p": [
+          {
+            "en": "The plea now turns from question to request. Anta waliyyuna, You are our protector: at-Tabari glosses it as our helper, al-Baghawi as our helper and guardian. Fa-ghfir lana: Ibn Kathir explains forgiveness as covering the sin and leaving it unpunished. Wa-rhamna: when mercy is paired with forgiveness, Ibn Kathir says, it means not letting a person fall into the like of it again. Wa anta khayru al-ghafirin: the best of those who pardon a crime and cover a sin, say at-Tabari and al-Muyassar; none forgives sins but You, says Ibn Kathir.",
+            "bn": "এবার মিনতি প্রশ্ন থেকে প্রার্থনায় মোড় নেয়। আনতা ওয়ালিয়্যুনা, তুমিই আমাদের অভিভাবক: তাবারী এর অর্থ করেন আমাদের সাহায্যকারী, বাগাভী বলেন সাহায্যকারী ও রক্ষাকারী। ফাগফির লানা: ইবন কাসীরের ব্যাখ্যায় মাগফিরাত মানে গুনাহ ঢেকে দেওয়া আর তার জন্য পাকড়াও না করা। ওয়ারহামনা: ইবন কাসীর বলেন, রহমত যখন মাগফিরাতের সঙ্গে আসে, তখন তার মানে হল ভবিষ্যতে একই কাজে আর পড়তে না দেওয়া। ওয়া আনতা খাইরুল গাফিরীন: তাবারী ও মুয়াসসারের ভাষায়, অপরাধ মাফ করা আর গুনাহ ঢেকে দেওয়ার ক্ষেত্রে তুমিই সবার সেরা। ইবন কাসীর বলেন, তুমি ছাড়া গুনাহ মাফ করার কেউ নেই।"
+          },
+          {
+            "en": "Notice the pronouns. Musa (AS) does not say forgive them; he says forgive us, and places himself inside the request. As-Sa'di hears the whole plea this way: what all of us intend, my Lord, is to hold to Your obedience; whoever kept his sense and the help You gave stayed upright, and those whose sense failed did what they did; and still You are the most merciful and the best of forgivers. The prayer runs on into 7:156, asking for good in both worlds; that verse, with Allah's reply, has its own article.",
+            "bn": "সর্বনামগুলো খেয়াল করুন। মূসা (আঃ) বলেননি, ওদের ক্ষমা কর। বলেছেন, আমাদের ক্ষমা কর, নিজেকেও সেই চাওয়ার ভেতরে রেখে। সা'দী পুরো মিনতিটা এভাবে পড়েন: হে রব, আমাদের সবার আসল লক্ষ্য তোমার আনুগত্য ধরে রাখা। যার বুদ্ধি ঠিক ছিল আর তোমার দেওয়া তাওফীক যার সঙ্গে ছিল, সে সোজা পথেই থেকেছে। যাদের বুদ্ধি দুর্বল হয়ে পড়েছিল, তারাই যা করার করেছে। তবু তুমিই সবচেয়ে বড় দয়ালু, শ্রেষ্ঠ ক্ষমাশীল। দু‘আটি গড়িয়ে যায় ৭:১৫৬-তে, যেখানে দুনিয়া ও আখিরাতের কল্যাণ চাওয়া হয়েছে। আল্লাহর জবাবসহ সে আয়াতের আলোচনা আলাদা প্রবন্ধে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answering for Other People",
+          "bn": "অন্যের দায় কাঁধে নিয়ে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse tells what happened to seventy men of the Children of Israel in the time of Musa (AS), as the Qur'an tells it, and the reasons offered are reports the commentators do not agree on. It licenses nothing against any living person or community, and no reader may use it to decide that some group today is the foolish of the verse. What it does offer every reader is a prophet's speech in the hardest hour of his leadership. No tafsir fetched for this verse attaches a hadith to it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। মূসা (আঃ)-এর যুগে বনী ইসরাঈলের সত্তর জন মানুষের সঙ্গে যা ঘটেছিল, কুরআন যেভাবে বলেছে, আয়াতটি তা-ই বর্ণনা করে। আর ঘটনার কারণ হিসেবে যা বলা হয়, সেগুলো এমন বর্ণনা যার ব্যাপারে তাফসীরকারেরা একমত নন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো দলকে আয়াতের 'নির্বোধ' সাব্যস্ত করার অধিকারও কোনো পাঠকের নেই। প্রত্যেক পাঠকের জন্য আয়াতটি যা রাখে, তা হল নেতৃত্বের সবচেয়ে কঠিন মুহূর্তে একজন নবীর মুখের কথা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "A general narration, not tied to this verse, touches Musa's question. Sahih al-Bukhari 3346 records from Zaynab bint Jahsh (RA) that the Prophet ﷺ came to her in a state of fear, saying: None has the right to be worshipped but Allah. Woe to the Arabs from an evil that has come near. An opening has been made today in the barrier of Gog and Magog like this, and he made a circle with his thumb and the finger next to it. She asked: O Messenger of Allah, shall we be destroyed while there are righteous people among us? He said: Yes, when wickedness increases.",
+            "bn": "একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে সম্পর্কিত নয়, মূসার প্রশ্নটিকে ছুঁয়ে যায়। সহীহ বুখারী ৩৩৪৬-এ যয়নব বিনত জাহশ (রাঃ) বর্ণনা করেন, নবী ﷺ ভীত অবস্থায় তাঁর কাছে এলেন, বলছিলেন: আল্লাহ ছাড়া কোনো ইলাহ নেই। আরবদের জন্য দুর্ভোগ এক অনিষ্ট থেকে, যা কাছে এসে গেছে। আজ ইয়াজুজ-মাজুজের প্রাচীরে এতটুকু ফাঁক খুলে গেছে, বলে তিনি বুড়ো আঙুল আর তার পাশের আঙুল দিয়ে একটা বৃত্ত বানালেন। যয়নব বললেন: হে আল্লাহর রাসূল, আমাদের মধ্যে নেককার লোক থাকতেও কি আমরা ধ্বংস হয়ে যাব? তিনি বললেন: হ্যাঁ, যখন পাপাচার বেড়ে যাবে।"
+          },
+          {
+            "en": "The two concern different events, yet meet at one point: good people present do not by themselves keep a community safe when wrong is left to grow. Beside the second group's reading of the verse, that raises a question about silence. Beside Musa's prayer, it becomes a way to act. When those he answered for fell, he went first to his Lord, said us rather than them, named Allah as protector and best of forgivers, and asked.",
+            "bn": "হাদীস আর আয়াত দুটি ভিন্ন ঘটনার কথা বলে, তবু এক জায়গায় এসে মেলে: অন্যায়কে বাড়তে দিলে কেবল ভালো মানুষের উপস্থিতি কোনো সমাজকে নিরাপদ রাখে না। কারণ নিয়ে দ্বিতীয় দলের ব্যাখ্যার পাশে রাখলে এ কথা নীরবতা নিয়ে একটা প্রশ্ন হয়ে দাঁড়ায়। আর মূসার দু‘আর পাশে রাখলে তা হয়ে যায় চলার একটা পথ। যাদের দায় তাঁর উপর ছিল, তারা যখন পড়ে গেল, তিনি সবার আগে গেলেন রবের কাছে। 'ওরা' না বলে বললেন 'আমরা', আল্লাহকে ডাকলেন অভিভাবক ও শ্রেষ্ঠ ক্ষমাশীল বলে, তারপর চাইলেন।"
+          }
+        ]
+      }
+    ]
+  },
   "7:156": {
     "sections": [
       {

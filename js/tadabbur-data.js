@@ -31863,6 +31863,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You were given a heart, eyes and ears so that you would find your Lord; use them for that, and leave every person's end to Allah, who alone knows it.",
     "lessonBn": "আপনাকে হৃদয়, চোখ আর কান দেওয়া হয়েছে আপনার রবকে খুঁজে পাওয়ার জন্য। এগুলো সে কাজেই লাগান, আর কার শেষ কোথায়, তা আল্লাহর হাতে ছেড়ে দিন। তিনিই একমাত্র তা জানেন।"
+  },
+  "7:155": {
+    "reflectionEn": "Seventy of the best men walk with Musa (AS) to a meeting their Lord appointed, and the ground shakes beneath them until they fall. He is left standing among seventy men struck down, with a whole people waiting for him to come back. What he says next is not an accusation, and not a defence of himself. It is a prayer. He reminds his Lord that He could have taken them all, and him with them, long before. He asks whether many will be ruined for what a few fools did. He calls the whole thing a trial that is Allah's to send. Then he asks forgiveness for us, himself included. When the people I answer for fall, do I reach first for blame, or for my Lord?",
+    "reflectionBn": "জাতির সেরা সত্তর জনকে সঙ্গে নিয়ে মূসা (আঃ) চলেছেন রবের ঠিক করে দেওয়া সাক্ষাতে। হঠাৎ পায়ের নিচের মাটি কেঁপে ওঠে, সবাই লুটিয়ে পড়ে। তিনি দাঁড়িয়ে আছেন সত্তরটি পড়ে থাকা মানুষের মাঝে, আর পেছনে গোটা জাতি অপেক্ষা করছে কখন তিনি ফিরবেন। এমন মুহূর্তে তাঁর মুখে অভিযোগ আসে না, নিজের সাফাইও না। আসে দু‘আ। রবকে তিনি মনে করিয়ে দেন, চাইলে তো আগেই এদের সবাইকে, তাঁকেও, শেষ করে দিতে পারতেন। জানতে চান, কয়েকজন নির্বোধের কাজের জন্য কি সবাই ধ্বংস হবে? পুরো ব্যাপারটাকে বলেন আল্লাহরই পাঠানো পরীক্ষা। তারপর ক্ষমা চান ‘আমাদের’ জন্য, নিজেকেও সেই চাওয়ার ভেতরে রেখে। যাদের দায় আমার কাঁধে, তারা পড়ে গেলে আমি আগে কাকে খুঁজি: দোষ চাপানোর মতো কাউকে, নাকি আমার রবকে?",
+    "pointsEn": [
+      "When people I am responsible for fail, do my first words go to Allah in prayer, or to others in blame?",
+      "When I ask forgiveness for a family or group I belong to, do I include myself, or pray as though the fault were only theirs?",
+      "What hardship in my life am I treating as an accident, when it may be a trial sent to show what I will do with it?",
+      "Have I stayed quiet beside a wrong in my own circle, telling myself that not joining in was enough?",
+      "Musa (AS) called on Allah as our Protector and the best of forgivers. Which of His names do I lean on when I ask for something hard?"
+    ],
+    "pointsBn": [
+      "যাদের দায়িত্ব আমার উপর, তারা ভুল করলে আমার প্রথম কথাগুলো কোথায় যায়: আল্লাহর কাছে দু‘আয়, নাকি মানুষের কাছে দোষারোপে?",
+      "নিজের পরিবার বা দলের জন্য ক্ষমা চাইলে আমি কি নিজেকেও তার মধ্যে গুনি, নাকি এমনভাবে দু‘আ করি যেন দোষটা কেবল ওদেরই?",
+      "জীবনের কোন কষ্টকে আমি নিছক দুর্ঘটনা ভাবছি, অথচ হয়তো সেটা পরীক্ষা, আমি কী করি তা দেখানোর জন্য পাঠানো?",
+      "নিজের চেনা মহলে কোনো অন্যায়ের পাশে কি আমি চুপ থেকেছি, আর নিজেকে বুঝিয়েছি যে যোগ না দেওয়াই যথেষ্ট?",
+      "মূসা (আঃ) আল্লাহকে ডেকেছেন আমাদের অভিভাবক আর শ্রেষ্ঠ ক্ষমাশীল বলে। কঠিন কিছু চাইতে গেলে আমি তাঁর কোন নামের উপর ভর দিই?"
+    ],
+    "lessonEn": "When the people you answer for fall, turn first to Allah rather than to blame: count yourself among those who need forgiveness, and ask the Protector, the best of forgivers.",
+    "lessonBn": "যাদের দায় আপনার কাঁধে, তারা পড়ে গেলে আগে দোষ খুঁজবেন না, আল্লাহর দিকে ফিরুন। ক্ষমা যাদের দরকার তাদের মধ্যে নিজেকেও গুনুন, আর অভিভাবক, শ্রেষ্ঠ ক্ষমাশীলের কাছে চান।"
   }
 };
 
