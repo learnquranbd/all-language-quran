@@ -2087,6 +2087,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Sent Back to Them",
+          "bn": "প্রশ্নটা ফিরল তাদেরই কাছে"
+        },
+        "p": [
+          {
+            "en": "Qul hal tarabbasuna bina illa ihda al-husnayayn: say, are you waiting for anything to befall us but one of the two best things? This is the second reply in a row that the Prophet ﷺ is told to give. Two verses earlier, 9:50 portrays people who are pained when good reaches him and who turn away glad when a setback does, saying they had taken their precautions beforehand. 9:51 has already answered them with decree and trust. This verse answers the same people from another side: it looks at what they are actually waiting for.",
+            "bn": "কুল হাল তারাব্বাসূনা বিনা ইল্লা ইহদাল হুসনায়াইন: বলো, তোমরা কি আমাদের ব্যাপারে দুটো সেরা জিনিসের একটি ছাড়া আর কিছুর অপেক্ষা করছ? পরপর দুটি জবাব নবী ﷺ-কে দিতে বলা হয়েছে, এটি তার দ্বিতীয়টি। দুই আয়াত আগে ৯:৫০ এমন লোকদের ছবি আঁকে, যারা তাঁর ভালো কিছু হলে কষ্ট পায়, আর বিপদ এলে খুশিমনে সরে পড়ে, বলে যে তারা আগেই সাবধান হয়ে গিয়েছিল। ৯:৫১ তাদের জবাব দিয়েছে তাকদীর আর তাওয়াক্কুলের কথা বলে। এ আয়াত একই লোকদের জবাব দেয় অন্য দিক থেকে। তারা আসলে কিসের অপেক্ষায় বসে আছে, আয়াত সেদিকে চোখ ফেরায়।"
+          },
+          {
+            "en": "At-Tabari names the addressees: these hypocrites whose description and whose affair Allah had just set out for His Prophet ﷺ. As-Sa'di describes them as the hypocrites who wait for turns of fortune to go against the believers. Al-Qurtubi makes a point about the form of the sentence: the wording is a question, but the meaning is rebuke. Nobody is being asked for information. The question lays out what their waiting can possibly produce, and lets the listeners see that what they hoped for holds nothing they could enjoy.",
+            "bn": "কাদের উদ্দেশে বলা, তাবারী তা জানিয়ে দেন: সেই মুনাফিকরা, যাদের স্বভাব আর কর্মকাণ্ড আল্লাহ এইমাত্র তাঁর নবী ﷺ-এর সামনে খুলে বলেছেন। সা'দী তাদের পরিচয় দেন এভাবে: যারা মুমিনদের উপর দুর্দিন নেমে আসার অপেক্ষায় থাকে। বাক্যের গড়ন নিয়ে কুরতুবী একটি কথা বলেন। শব্দে এটি প্রশ্ন, কিন্তু অর্থে ভর্ৎসনা। কেউ কোনো তথ্য জানতে চাইছে না। প্রশ্নটা কেবল সাজিয়ে দেখায়, তাদের অপেক্ষা থেকে কী কী ফল বেরোতে পারে। শ্রোতা নিজেই বুঝে নেয়, যা তারা আশা করছিল তাতে তাদের খুশি হওয়ার মতো কিছুই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Grain Held for a Price",
+          "bn": "দাম চড়ার আশায় আটকে রাখা শস্য"
+        },
+        "p": [
+          {
+            "en": "Tarabbus is waiting, and al-Qurtubi defines it in one word: intizar. He then gives an everyday usage that shows the verb's colour: tarabbasa bil-ta'am, he held the grain back, waiting with it until a time of high prices. The waiting in this verb is not idle. It has an object and an expected payoff. Ibn Kathir, at-Tabari and the Muyassar all gloss the verb with the same plain word, tantazirun, you are waiting, and the verse uses it four times, twice for each side.",
+            "bn": "তারাব্বুস মানে অপেক্ষা। কুরতুবী একটি শব্দেই এর ব্যাখ্যা দেন: ইনতিযার। তারপর রোজকার ব্যবহারের একটি উদাহরণ আনেন, যাতে ক্রিয়াটির রং বোঝা যায়: তারাব্বাসা বিত-তাআম, সে শস্য আটকে রাখল, দাম চড়ার সময়ের অপেক্ষায়। এ অপেক্ষা অলস বসে থাকা নয়। এর একটা লক্ষ্য আছে, একটা প্রত্যাশিত লাভ আছে। ইবন কাসীর, তাবারী আর মুয়াসসার তিনজনই ক্রিয়াটির অর্থ দেন একই সহজ শব্দে: তানতাযিরূন, তোমরা অপেক্ষা করছ। আয়াতে শব্দটি এসেছে চারটি জায়গায়, দুই পক্ষের জন্য দুবার করে।"
+          },
+          {
+            "en": "Al-husnayayn is a dual. Al-Qurtubi explains that al-husna is the feminine of al-ahsan, the better or the best, so the pair are two best things; he adds that the word is only used with the definite article, so one does not say ra'aytu imra'atan husna. He also records a point of recitation: the Kufans merge the lam of hal into the ta of tarabbasuna. He explains why the same merging is not allowed in qul ta'alaw: qul is already a weakened form, he says, and two weakenings are not laid on one word.",
+            "bn": "আল-হুসনায়াইন শব্দটি দ্বিবচন। কুরতুবী বুঝিয়ে বলেন, আল-হুসনা হলো আল-আহসানের স্ত্রীলিঙ্গ, যার মানে উত্তম বা সর্বোত্তম। কাজেই জোড়াটি মানে দুটি সর্বোত্তম জিনিস। তিনি আরও বলেন, শব্দটি নির্দিষ্টবাচক আলিফ-লাম ছাড়া ব্যবহার হয় না, তাই রাআইতু ইমরাআতান হুসনা বলা চলে না। তিলাওয়াতের একটি দিকও তিনি উল্লেখ করেন। কুফার কারীরা হাল-এর লামকে তারাব্বাসূনার তা-এর সঙ্গে মিলিয়ে পড়েন। কুল তাআলাও-তে একই রকম মেলানো কেন চলে না, তারও কারণ দেন: তাঁর ভাষায়, কুল নিজেই একটি দুর্বল রূপ, আর এক শব্দের উপর দুটি দুর্বলতা চাপানো হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Victory, or Killed in His Way",
+          "bn": "বিজয়, নয়তো তাঁর পথে শহীদ"
+        },
+        "p": [
+          {
+            "en": "Which two goods are meant? Ibn Kathir answers: martyrdom, or victory over you, and he gives this as what Ibn Abbas, Mujahid, Qatada and others said. At-Tabari lists the reports one by one. In one report, Ibn Abbas says conquest or martyrdom, and on another occasion the same report has him say the killing, which is martyrdom, life and provision. Mujahid, by several routes: being killed in the way of Allah, and prevailing over His enemies. Qatada: conquest, or being killed in the way of Allah.",
+            "bn": "দুটি কল্যাণ বলতে কী বোঝানো হয়েছে? ইবন কাসীর জবাব দেন: শাহাদাত, অথবা তোমাদের উপর বিজয়। তিনি জানান, ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা ও আরও কয়েকজন এ কথাই বলেছেন। তাবারী বর্ণনাগুলো একটি একটি করে সাজান। এক বর্ণনায় ইবন আব্বাস (রাঃ) বলেন: বিজয় অথবা শাহাদাত। একই বর্ণনায় আরেকবার তিনি বলেন: নিহত হওয়া, আর তাতেই আছে শাহাদাত, জীবন আর রিযক। মুজাহিদ থেকে কয়েকটি সূত্রে আসে: আল্লাহর পথে নিহত হওয়া, আর তাঁর শত্রুদের উপর বিজয়ী হওয়া। কাতাদা বলেন: বিজয়, অথবা আল্লাহর পথে নিহত হওয়া।"
+          },
+          {
+            "en": "A second report from Ibn Abbas, which at-Tabari also records, frames the pair as being killed, in which there is life and provision, or prevailing, after which Allah gives a great reward. It links the verse to 4:74: whoever fights in the way of Allah and is killed or prevails, We will give him a great reward. Al-Qurtubi words the pair differently, as booty and martyrdom, and cites Ibn Abbas, Mujahid and others for it. Al-Baghawi joins both wordings: victory and booty, or martyrdom and forgiveness.",
+            "bn": "ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনাও তাবারী এনেছেন। সেখানে জোড়াটি এভাবে আসে: নিহত হওয়া, যাতে আছে জীবন ও রিযক, অথবা জয়ী হওয়া, যার পর আল্লাহ মহা প্রতিদান দেন। এ বর্ণনা আয়াতটিকে ৪:৭৪-এর সঙ্গে জুড়ে দেয়: যে আল্লাহর পথে লড়াই করে, তারপর নিহত হয় অথবা জয়ী হয়, আমি তাকে মহা প্রতিদান দেব। কুরতুবী জোড়াটি বলেন অন্য শব্দে: গনীমত আর শাহাদাত। এর পক্ষে তিনিও ইবন আব্বাস (রাঃ), মুজাহিদ ও অন্যদের নাম নেন। বাগাভী দুই রকম ভাষ্যকে একসঙ্গে আনেন: বিজয় ও গনীমত, অথবা শাহাদাত ও মাগফিরাত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loved Either Way",
+          "bn": "যেদিকেই যাক, প্রিয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains why each outcome deserves the name best. If the believers overcome the enemy, there is reward in it, and booty, and safety. If the enemy kills them, there is martyrdom in it, the winning of Paradise and rescue from the Fire. Then he adds the sentence the verse turns on: both of them are among what we love and do not dislike. The hypocrites were waiting for something they thought would hurt. In at-Tabari's reading, whatever came, the believers would not count it as harm.",
+            "bn": "দুটি ফলাফলের প্রতিটিকে কেন সর্বোত্তম বলা হলো, তাবারী তা ব্যাখ্যা করেন। মুমিনরা শত্রুকে পরাস্ত করলে তাতে আছে সওয়াব, গনীমত আর নিরাপত্তা। শত্রু তাদের হত্যা করলে তাতে আছে শাহাদাত, জান্নাত লাভ আর জাহান্নাম থেকে মুক্তি। তারপর তিনি সেই বাক্যটি যোগ করেন, যার উপর গোটা আয়াত দাঁড়িয়ে: দুটোই আমাদের পছন্দের, কোনোটাই অপছন্দের নয়। মুনাফিকরা অপেক্ষা করছিল এমন কিছুর জন্য, যা তাদের ধারণায় মুমিনদের আঘাত করবে। তাবারীর পাঠে, যা-ই আসুক, মুমিনরা তাকে ক্ষতি বলে গুনত না।"
+          },
+          {
+            "en": "As-Sa'di says the same with a sharper edge: you are waiting for nothing but something in which lies the utmost benefit for us. He describes victory over the enemy as bringing reward in this world and the next, and martyrdom as among the highest ranks of creation and the loftiest stations with Allah. The Muyassar keeps it to the bare pair: martyrdom, or victory over you. Read together, the commentators agree on the shape of the answer even where they word the two goods differently.",
+            "bn": "সা'দী একই কথা বলেন আরও ধারালো ভাষায়: তোমরা আমাদের জন্য যার অপেক্ষা করছ, তাতে আমাদের চূড়ান্ত লাভ ছাড়া আর কিছু নেই। তাঁর বর্ণনায় শত্রুর উপর বিজয় আনে দুনিয়া ও আখিরাত দুই জায়গার প্রতিদান। আর শাহাদাত হলো সৃষ্টির সর্বোচ্চ মর্যাদাগুলোর একটি, আল্লাহর কাছে সবচেয়ে উঁচু স্থানগুলোর একটি। মুয়াসসার শুধু জোড়াটুকুই রাখে: শাহাদাত, অথবা তোমাদের উপর বিজয়। একসঙ্গে পড়লে দেখা যায়, দুটি কল্যাণের শব্দ আলাদা হলেও জবাবের কাঠামো নিয়ে তাফসীরকারেরা একমত।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the inward lesson. What the hypocrites take for suffering, and are glad about, is not suffering for a person of true faith but another form of success, because he becomes deserving of lasting reward even when his firm resolve fails of its aim. In its words, he succeeds even in failure and gains even in loss. That is a claim about faith and intention, not a promise that every plan will work. The reports at-Tabari gathers set the goods in the way of Allah.",
+            "bn": "মাআরিফুল কুরআন এখান থেকে ভেতরের শিক্ষাটা বের করে আনে। মুনাফিকরা যাকে মুমিনের কষ্ট ভাবে আর তাতে খুশি হয়, খাঁটি ঈমানদারের জন্য তা কষ্টই নয়। সেটা বরং সাফল্যের আরেক রূপ। কারণ দৃঢ় সংকল্প লক্ষ্যে না পৌঁছালেও সে স্থায়ী প্রতিদানের যোগ্য হয়ে যায়। মাআরিফের ভাষায়, ব্যর্থতার মধ্যেও সে সফল, ক্ষতির মধ্যেও সে লাভবান। কথাটা ঈমান আর নিয়তের, প্রতিটি পরিকল্পনা সফল হওয়ার নিশ্চয়তা নয়। তাবারীর সংগৃহীত বর্ণনাগুলো কল্যাণ দুটিকে রাখে আল্লাহর পথের ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Guarantee Al-Baghawi Recalls",
+          "bn": "বাগাভীর স্মরণ করা এক জিম্মাদারি"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi brings a hadith of Abu Hurayra under this verse. Muslim records it in his Sahih (1876), from Abu Hurayra, from the Prophet ﷺ, in this wording: Allah has taken it upon Himself, for one who strives in His way, whom nothing brings out of his house but striving in His way and belief in His word, that He will admit him to Paradise, or return him to the dwelling he set out from, with whatever reward or booty he gained. Its two outcomes line up with the verse's two goods.",
+            "bn": "এ আয়াতের আলোচনায় বাগাভী আবু হুরায়রা (রাঃ)-এর একটি হাদীস আনেন। মুসলিম তাঁর সহীহ গ্রন্থে (১৮৭৬) হাদীসটি আবু হুরায়রা (রাঃ) থেকে, তিনি নবী ﷺ থেকে বর্ণনা করেছেন এই ভাষায়: যে আল্লাহর পথে জিহাদ করে, যাকে তাঁর পথে জিহাদ আর তাঁর বাণীর প্রতি বিশ্বাস ছাড়া আর কিছুই ঘর থেকে বের করেনি, আল্লাহ তার দায়িত্ব নিয়েছেন: তিনি তাকে জান্নাতে প্রবেশ করাবেন, অথবা যে ঘর থেকে সে বেরিয়েছিল সেখানে ফিরিয়ে আনবেন, যা সওয়াব বা গনীমত সে পেয়েছে তা সহ। হাদীসের দুটি পরিণতি আয়াতের দুটি কল্যাণের সঙ্গে মিলে যায়।"
+          },
+          {
+            "en": "This hadith is not attached to the verse. It is a general narration about those who go out in Allah's way, and al-Baghawi places it here because its two outcomes match the verse's. None of the tafsirs consulted gives an occasion of revelation for 9:52, and none attaches a hadith to it directly. The narration's conditions matter as much as its promise: nothing brings the man out but striving in Allah's way and belief in His word. The guarantee is tied to that intention, and to nothing less.",
+            "bn": "হাদীসটি এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়। আল্লাহর পথে যারা বের হয়, তাদের সম্পর্কে এটি একটি সাধারণ বর্ণনা। এর দুটি পরিণতি আয়াতের সঙ্গে মেলে বলে বাগাভী এটিকে এখানে এনেছেন। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৯:৫২-এর নাযিলের কোনো প্রেক্ষাপট দেয় না, কোনোটিই সরাসরি এ আয়াতের সঙ্গে কোনো হাদীস জোড়ে না। বর্ণনাটির শর্ত তার প্রতিশ্রুতির মতোই গুরুত্বপূর্ণ: তাকে ঘর থেকে বের করেছে কেবল আল্লাহর পথে জিহাদ আর তাঁর বাণীর প্রতি বিশ্বাস। জিম্মাদারিটা সেই নিয়তের সঙ্গেই বাঁধা, তার চেয়ে কমে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Him, or at Our Hands",
+          "bn": "তাঁর কাছ থেকে, নয়তো আমাদের হাতে"
+        },
+        "p": [
+          {
+            "en": "The second half turns the waiting around: and we are waiting, for you, that Allah strike you with a punishment from Himself or at our hands. Al-Baghawi names the symmetry outright: the believers await for them one of the two evils. On the punishment from Him, the readings differ. At-Tabari and the Muyassar explain it as a swift punishment from Allah that destroys them. Al-Qurtubi and al-Baghawi liken it to what destroyed the nations who came before. Ibn Kathir calls it a qari'a from Him, a striking calamity.",
+            "bn": "আয়াতের দ্বিতীয় অর্ধেক অপেক্ষাটাকে উল্টো দিকে ঘুরিয়ে দেয়: আর আমরা তোমাদের ব্যাপারে অপেক্ষা করছি, আল্লাহ তোমাদের শাস্তি দেবেন তাঁর নিজের পক্ষ থেকে, অথবা আমাদের হাত দিয়ে। বাগাভী এই প্রতিসাম্যটা সোজাসুজি বলে দেন: মুমিনরা তাদের জন্য দুটি মন্দের একটির অপেক্ষায় আছে। তাঁর পক্ষ থেকে আসা শাস্তির ব্যাখ্যায় মত ভিন্ন। তাবারী আর মুয়াসসার বলেন, এ হলো আল্লাহর পক্ষ থেকে দ্রুত আসা শাস্তি, যা তাদের ধ্বংস করে দেবে। কুরতুবী আর বাগাভী একে তুলনা করেন আগের জাতিগুলোর উপর নেমে আসা ধ্বংসের সঙ্গে। ইবন কাসীর একে বলেন তাঁর পক্ষ থেকে আসা কারিআ, অর্থাৎ আছড়ে পড়া বিপর্যয়।"
+          },
+          {
+            "en": "Two readings take the phrase in other directions. At-Tabari records, through Ibn Jurayj, that Ibn Abbas said by a punishment from Him means by death. As-Sa'di stresses who acts: a punishment from Him, in which the believers have no part. Ma'arif al-Qur'an reads the pair against the Hereafter: whatever reaches them in this world, if they somehow escape it, there is no escape from the punishment of the next. The sources set these readings side by side, and this article keeps them that way.",
+            "bn": "আরও দুটি ব্যাখ্যা শব্দগুলোকে অন্য দিকে নিয়ে যায়। তাবারী ইবন জুরাইজের সূত্রে বর্ণনা করেন, ইবন আব্বাস (রাঃ) বলেছেন: তাঁর পক্ষ থেকে শাস্তি মানে মৃত্যু। সা'দী জোর দেন কাজটা কার, তার উপর: শাস্তি আসবে তাঁর কাছ থেকে, তাতে মুমিনদের কোনো ভূমিকা থাকবে না। মাআরিফুল কুরআন জোড়াটি পড়ে আখিরাতের আলোয়। দুনিয়াতে তাদের উপর যা-ই আসুক, কোনোভাবে তা এড়িয়ে গেলেও পরকালের শাস্তি থেকে রেহাই নেই। সূত্রগুলো এই ব্যাখ্যাগুলো পাশাপাশি রেখেছে, এ লেখাও সেভাবেই রাখল।"
+          },
+          {
+            "en": "At our hands is read with care. At-Tabari and the Muyassar gloss it as: we kill you. Ibn Kathir: by capture or by killing. Al-Qurtubi qualifies it: that is, permission is given to us to fight you. Al-Baghawi adds a condition: at the hands of the believers, if you bring into the open what is in your hearts. As-Sa'di frames it as Allah giving the believers power over them. Read together, al-Qurtubi's permission and al-Baghawi's condition leave the hands no will of their own.",
+            "bn": "আমাদের হাতে কথাটি তাফসীরকারেরা সাবধানে পড়েন। তাবারী আর মুয়াসসারের ব্যাখ্যা: আমরা তোমাদের হত্যা করব। ইবন কাসীর বলেন: বন্দি করে, অথবা হত্যা করে। কুরতুবী একটা শর্ত জুড়ে দেন: অর্থাৎ তোমাদের সঙ্গে লড়াইয়ের অনুমতি আমাদের দেওয়া হবে। বাগাভীর শর্ত আরেকটি: মুমিনদের হাতে, যদি তোমরা মনের ভেতরের কথা প্রকাশ্যে নিয়ে আসো। সা'দী বলেন, আল্লাহ মুমিনদের তাদের উপর ক্ষমতা দেবেন। কুরতুবীর অনুমতি আর বাগাভীর শর্ত একসঙ্গে পড়লে বোঝা যায়, এ হাতের নিজের খেয়ালে চলার কোনো সুযোগ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Parties, Both Waiting",
+          "bn": "দুই দল, দুই অপেক্ষা"
+        },
+        "p": [
+          {
+            "en": "Fa-tarabbasu inna ma'akum mutarabbisun: so wait; we are waiting with you. Al-Qurtubi calls it a threat and a warning, and explains it as: wait for the promises of Satan; we are waiting for the promises of Allah. Al-Baghawi gives the same contrast in the name of al-Hasan and spells out what Allah's promises are: making His religion prevail and uprooting whoever opposes it. As-Sa'di sets the two waits running in opposite directions: you wait, regarding us, for what is good, and we wait, regarding you, for what is bad.",
+            "bn": "ফাতারাব্বাসূ ইন্না মাআকুম মুতারাব্বিসূন: তাহলে অপেক্ষা করো, আমরাও তোমাদের সঙ্গে অপেক্ষায় আছি। কুরতুবী একে বলেন হুমকি ও সতর্কবাণী। তাঁর ব্যাখ্যা: তোমরা শয়তানের ওয়াদার অপেক্ষা করো, আমরা অপেক্ষা করছি আল্লাহর ওয়াদার। বাগাভী একই তুলনা আনেন হাসানের নামে, আর আল্লাহর ওয়াদা কী, তা খুলে বলেন: তাঁর দীনকে বিজয়ী করা আর এর বিরোধীদের মূলোৎপাটন। সা'দীর ব্যাখ্যায় দুই অপেক্ষা চলে দুই উল্টো দিকে। আমাদের ব্যাপারে তোমরা অপেক্ষা করছ এমন কিছুর, যা আসলে ভালো। আর তোমাদের ব্যাপারে আমরা অপেক্ষা করছি এমন কিছুর, যা মন্দ।"
+          },
+          {
+            "en": "At-Tabari's gloss is the quietest. Wait, then; we are waiting with you for what Allah will do with us, and for where the affair of each party, ours and yours, will end. Both sides wait under the same Lord, and in his reading the end belongs to Him. The believers are not told to bring the outcome about; they are told to wait. The word ma'akum, with you, sets the two waits side by side, and the verse closes without naming which of them will be answered first.",
+            "bn": "তাবারীর ব্যাখ্যা সবচেয়ে শান্ত। তাহলে অপেক্ষা করো। আল্লাহ আমাদের নিয়ে কী করবেন, আর আমাদের ও তোমাদের প্রত্যেক দলের পরিণাম কোথায় গিয়ে দাঁড়াবে, আমরাও তোমাদের সঙ্গে তার অপেক্ষায় আছি। দুই পক্ষই অপেক্ষা করছে একই রবের অধীনে, আর তাবারীর পাঠে শেষ ফয়সালা তাঁরই হাতে। মুমিনদের বলা হয়নি ফলাফল নিজেরা ঘটিয়ে আনতে, বলা হয়েছে অপেক্ষা করতে। মাআকুম, তোমাদের সঙ্গে, শব্দটি দুই অপেক্ষাকে পাশাপাশি দাঁড় করায়। কোনটির জবাব আগে আসবে, আয়াত তা না বলেই শেষ হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Reply, Not a Warrant",
+          "bn": "একটি জবাব, কোনো ছাড়পত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse records one reply, given in the Prophet's ﷺ lifetime to a group the surrounding verses had just described. It describes what the text describes and licenses nothing against any living person or community. It gives no reader the right to name anyone a hypocrite, to wish for anyone's ruin, or to harm anyone in any way. Even within the readings above, the hands act only by permission given, as al-Qurtubi puts it, and only against hostility brought into the open, as al-Baghawi conditions it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি জবাবের বর্ণনা, যা নবী ﷺ-এর জীবদ্দশায় দেওয়া হয়েছিল এমন এক দলকে, যাদের কথা আশপাশের আয়াতগুলো এইমাত্র বলেছে। আয়াত যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ থেকে কোনো অনুমতি মেলে না। কাউকে মুনাফিক বলে দাগানোর, কারও সর্বনাশ কামনা করার বা কোনোভাবে কারও ক্ষতি করার অধিকার কোনো পাঠককে এ আয়াত দেয় না। উপরের ব্যাখ্যাগুলোর ভেতরেও হাত চলে কেবল দেওয়া অনুমতিতে, যেমন কুরতুবী বলেন, আর কেবল প্রকাশ্য শত্রুতার বেলায়, যেমন বাগাভী শর্ত দেন।"
+          },
+          {
+            "en": "The verse names nobody, and no reader can see into another's heart. What the hypocrites are blamed for here is a posture: watching someone else's road, hoping for the stumble. That posture is not confined to one group in one century, and the place to look for it is one's own heart, not a neighbour's. The waiting the verse hands the believers, in at-Tabari's reading, is a wait on what Allah will do. It answered people who gloated; it trains no one to gloat.",
+            "bn": "আয়াত কারও নাম নেয় না, আর অন্যের মনের ভেতরে কোনো পাঠক দেখতে পায় না। এখানে মুনাফিকদের যে দোষ ধরা হয়েছে, তা একটা মনোভাব: অন্যের পথের দিকে তাকিয়ে থাকা, কখন সে হোঁচট খায়। এ মনোভাব কোনো এক যুগের এক দলের মধ্যে আটকে নেই। একে খুঁজতে হবে নিজের মনে, প্রতিবেশীর মনে নয়। তাবারীর পাঠে মুমিনদের হাতে আয়াত যে অপেক্ষা তুলে দেয়, তা আল্লাহ কী করেন তার অপেক্ষা। এ জবাব দেওয়া হয়েছিল অন্যের বিপদে খুশি হওয়া লোকদের। কাউকে সে খুশি হওয়া শেখানোর জন্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Waiting With Nothing to Lose",
+          "bn": "যে অপেক্ষায় হারানোর কিছু নেই"
+        },
+        "p": [
+          {
+            "en": "Few readers now stand where the first listeners stood, but the frame of the reply still travels. A believer who does a thing for Allah's sake has, in at-Tabari's words, two outcomes that are both loved and neither disliked. A plan that succeeds and a plan that falls through can both be carried to Allah, because the reward the commentators describe rests on the striving and the intention. The question for a reader is how much of what he dreads would still count as loss if it were done for Him.",
+            "bn": "প্রথম শ্রোতারা যেখানে দাঁড়িয়ে ছিলেন, আজকের খুব কম পাঠকই সেখানে দাঁড়িয়ে। তবু জবাবের দেখার ভঙ্গিটা সময় পেরিয়ে আসে। তাবারীর ভাষায়, যে মুমিন আল্লাহর জন্য কোনো কাজ করে, তার সামনে দুটি পরিণতি, দুটোই প্রিয়, কোনোটাই অপছন্দের নয়। যে পরিকল্পনা সফল হয় আর যেটা ভেস্তে যায়, দুটোই আল্লাহর কাছে নিয়ে যাওয়া যায়। কারণ তাফসীরকারেরা যে প্রতিদানের কথা বলেন, তা দাঁড়িয়ে আছে চেষ্টা আর নিয়তের উপর। পাঠকের জন্য প্রশ্ন: যে জিনিসের ভয় পাচ্ছি, তা আল্লাহর জন্য করা হলে তার কতটুকু আর ক্ষতি বলে গণ্য হতো?"
+          },
+          {
+            "en": "The verse also asks something from the other side. Its first listeners were people glad at someone else's setback and waiting for it to come. A reader may find a small version of that in himself: a colleague whose failure would feel pleasant, a relative whose plan one quietly hopes will fail. Ask Allah for a heart busy with its own two goods, so taken up with doing its part for Him that it has no time left to stand at the roadside and watch for anyone's fall.",
+            "bn": "আয়াত অন্য দিক থেকেও কিছু জিজ্ঞেস করে। এর প্রথম শ্রোতারা ছিল এমন লোক, যারা অন্যের বিপদে খুশি হতো আর সেই বিপদের অপেক্ষায় বসে থাকত। পাঠক নিজের মধ্যেও এর ছোট একটা রূপ খুঁজে পেতে পারেন: কোনো সহকর্মী, যার ব্যর্থতা শুনলে মনে একটু আরাম লাগবে, কোনো আত্মীয়, যার পরিকল্পনা ভেস্তে যাক বলে মনে মনে চাওয়া হয়। আল্লাহর কাছে এমন একটা মন চান, যা নিজের দুই কল্যাণ নিয়েই ব্যস্ত। তাঁর জন্য নিজের ভাগের কাজে এতটাই মগ্ন, যে পথের ধারে দাঁড়িয়ে কারও পতন দেখার সময় তার নেই।"
+          }
+        ]
+      }
+    ]
+  },
   "9:55": {
     "sections": [
       {

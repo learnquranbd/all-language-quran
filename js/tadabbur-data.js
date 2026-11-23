@@ -32143,6 +32143,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Faith is called true here once it has cost something visible; let your deeds carry your belief, and leave the verdict on anyone else's faith to Allah.",
     "lessonBn": "এখানে ঈমানকে খাঁটি বলা হয়েছে তখন, যখন তার দাম চোখে দেখা গেছে। আপনার আমল যেন আপনার বিশ্বাস বহন করে, আর অন্য কারও ঈমানের রায় আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "9:52": {
+    "reflectionEn": "Some stayed home and waited to see the believers hurt. The reply they are told to hear turns their waiting inside out: what are you waiting to see happen to us? Only one of two good things. Either the believers prevail, or they are killed in Allah's way, and each of those ends in reward. The believers wait too, for Allah's punishment to reach those who gloated, from Him or at their hands. That was said in one setting, to one group, and gives no one today a licence to harm anybody. What reaches me is the frame. If I have truly done a thing for Allah, can its outcome be a loss? And whose fall have I been quietly waiting for?",
+    "reflectionBn": "কিছু লোক ঘরে বসে ছিল আর অপেক্ষা করছিল, কখন মুমিনদের উপর বিপদ নামে। তাদের যে জবাব শোনাতে বলা হলো, তা তাদের অপেক্ষাটাকেই উল্টে দেয়: আমাদের জন্য তোমরা কিসের অপেক্ষা করছ? দুটো ভালোর একটা ছাড়া তো কিছু নয়। হয় মুমিনরা জয়ী হবে, নয়তো আল্লাহর পথে নিহত হবে, আর দুটোরই শেষ প্রতিদানে। মুমিনরাও অপেক্ষায় আছে: যারা তাদের বিপদে খুশি হয়েছিল, তাদের উপর আল্লাহর শাস্তি আসবে, তাঁর নিজের পক্ষ থেকে কিংবা মুমিনদের হাত দিয়ে। কথাটা বলা হয়েছিল এক নির্দিষ্ট সময়ে, নির্দিষ্ট এক দলকে। আজ কারও ক্ষতি করার কোনো অনুমতি এ থেকে মেলে না। আমার কাছে যা পৌঁছায়, তা হলো দেখার ধরনটা। কোনো কাজ যদি সত্যিই আল্লাহর জন্য করে থাকি, তার ফল কি ক্ষতি হতে পারে? আর কার পতনের অপেক্ষায় আমি চুপচাপ বসে আছি?",
+    "pointsEn": [
+      "What outcome am I dreading right now, and would it still count as a loss if I had done my part for Allah's sake?",
+      "When people around me expect me to fail, do I measure myself by their waiting or by what Allah has promised?",
+      "Is there anyone whose stumble I have been half hoping for, and what would it take for me to stop waiting for it?",
+      "Do I do my work in a way that leaves room for both outcomes to be good, or only for the one I want?",
+      "When I am mocked for a choice made for Allah, do I answer with steady patience or with threats of my own?"
+    ],
+    "pointsBn": [
+      "এই মুহূর্তে কোন ফলাফলের ভয় আমাকে তাড়া করছে? আল্লাহর জন্য নিজের ভাগের কাজটা করে থাকলে সেটা কি তবু ক্ষতি বলে গণ্য হবে?",
+      "আশপাশের লোকেরা যখন আমার ব্যর্থতার অপেক্ষায় থাকে, আমি নিজেকে মাপি তাদের অপেক্ষা দিয়ে, নাকি আল্লাহর ওয়াদা দিয়ে?",
+      "এমন কেউ কি আছে, যার হোঁচট খাওয়ার আশা আমি মনে মনে করে আসছি? সে অপেক্ষা ছাড়তে আমার কী দরকার?",
+      "আমি কি এমনভাবে কাজ করি যাতে দুই ফলাফলই ভালো হতে পারে, নাকি কেবল যেটা চাই সেটার জন্যই জায়গা রাখি?",
+      "আল্লাহর জন্য নেওয়া কোনো সিদ্ধান্তের কারণে কেউ বিদ্রূপ করলে আমি কি ধৈর্য ধরে স্থির থাকি, নাকি পাল্টা হুমকি দিয়ে বসি?"
+    ],
+    "lessonEn": "Work for Allah in a way that makes every outcome a gain, and stop measuring yourself by those who are waiting for your fall.",
+    "lessonBn": "আল্লাহর জন্য এমনভাবে কাজ করুন যাতে যেকোনো ফলাফলই লাভ হয়, আর যারা আপনার পতনের অপেক্ষায় আছে, তাদের দিয়ে নিজেকে মাপা ছেড়ে দিন।"
   }
 };
 
