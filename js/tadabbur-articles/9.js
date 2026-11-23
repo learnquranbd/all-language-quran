@@ -5627,6 +5627,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:107": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Group Named by Its Building",
+          "bn": "যাদের পরিচয় তাদের গড়া ঘরে"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina ttakhadhu masjidan diraran: and those who took a mosque for harm. The verse closes a run of groups among the people of Madinah and the Bedouin around it: hypocrites hardened in hypocrisy in 9:101, those who confessed their sins in 9:102, those deferred to Allah's command in 9:106. The earlier groups were named by their state; this one is named by something it built. Al-Qurtubi reads the opening as joined to what went before: and among them are those who took a mosque.",
+            "bn": "ওয়াল্লাযীনাত্তাখাযূ মাসজিদান দিরারান: আর যারা ক্ষতি করার জন্য একটি মাসজিদ বানিয়ে নিয়েছে। এর আগে কয়েকটি আয়াত জুড়ে মাদীনাবাসী ও আশপাশের বেদুঈনদের কয়েকটি দলের কথা এসেছে। ৯:১০১ আয়াতে মুনাফিকিতে অনড় লোকেরা, ৯:১০২ আয়াতে যারা নিজেদের গুনাহ স্বীকার করেছে, ৯:১০৬ আয়াতে যাদের বিষয় আল্লাহর ফায়সালার অপেক্ষায় রাখা হয়েছে। আগের দলগুলো চেনা গেছে তাদের অবস্থা দিয়ে, আর এ দলকে চেনানো হচ্ছে তাদের গড়া একটি ঘর দিয়ে। কুরতুবী শুরুর অংশটিকে আগের কথার সঙ্গে যুক্ত ধরে পড়েন। অর্থ দাঁড়ায়: আর তাদের মধ্যে আছে তারাও, যারা একটি মাসজিদ বানিয়ে নিয়েছে।"
+          },
+          {
+            "en": "He allows a second reading: the phrase is a subject whose predicate is left unsaid, something like they will be punished. Al-Baghawi notes that the people of Madinah and Syria read alladhina without the opening and, as their copies of the mushaf have it, while the others read it with the and. On the reading without it, al-Qurtubi reports al-Kisa'i taking the predicate to be the next verse, do not stand in it ever, and an-Nahhas taking it to be 9:110.",
+            "bn": "তিনি আরেকটি পাঠও সম্ভব মনে করেন। সে অনুযায়ী অংশটি একটি উদ্দেশ্য, যার বিধেয় উহ্য রাখা হয়েছে, যেমন: তাদের শাস্তি দেওয়া হবে। বাগাভী জানান, মাদীনা ও শামের লোকেরা শুরুর 'ওয়া' ছাড়া শুধু 'আল্লাযীনা' পড়েন, তাঁদের মুসহাফেও এভাবেই লেখা। বাকিরা পড়েন 'ওয়া' সহ। 'ওয়া' ছাড়া পাঠে বিধেয় কোনটি, সে বিষয়ে কুরতুবী দুটি মত আনেন। কিসাঈর মতে বিধেয় হলো পরের আয়াতের কথা: সেখানে কখনো দাঁড়াবেন না। আর নাহহাসের মতে বিধেয় রয়েছে ৯:১১০ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Purposes Under One Roof",
+          "bn": "এক ছাদের নিচে চার মতলব"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi parses the four words alike: diraran is a verbal noun of purpose, and the other three are joined to it. On dirar he passes on a remark from the commentators worth keeping: harm by means of the mosque, though no harm reaches a mosque; it reaches the mosque's people. The building was a tool, and the people praying elsewhere were its target. As-Sa'di reads it the same way: harm to the believers and to the mosque in which they gather.",
+            "bn": "কুরতুবী চারটি শব্দকে একই ছাঁচে বিশ্লেষণ করেন। দিরারান একটি ক্রিয়াবাচক বিশেষ্য, যা কাজের উদ্দেশ্য জানায়, আর বাকি তিনটি তার সঙ্গেই জোড়া। দিরার প্রসঙ্গে তিনি তাফসীরকারদের একটি কথা আনেন, যা মনে রাখার মতো। ক্ষতিটা মাসজিদ দিয়ে, অথচ মাসজিদের তো কোনো ক্ষতি হয় না, ক্ষতি হয় মাসজিদের মানুষগুলোর। ঘরটা ছিল হাতিয়ার, আর নিশানা ছিল অন্য জায়গায় নামায পড়া মানুষেরা। সা'দীও এভাবেই পড়েন: মু'মিনদের ক্ষতি, আর তারা যে মাসজিদে একত্র হয়, সেই মাসজিদের ক্ষতি।"
+          },
+          {
+            "en": "Some scholars, in al-Qurtubi, separate two forms of the word. Darar is harm in which you gain something while your neighbour bears the loss; dirar is harm in which you gain nothing and your neighbour loses all the same. Others, he adds, take the two as one meaning, said together for emphasis. Ma'arif al-Qur'an adopts the first distinction and draws its point: the word dirar suits this building, because its founders were to gain nothing from it.",
+            "bn": "কুরতুবী কিছু আলেমের মত আনেন, যাঁরা শব্দটির দুই রূপের মধ্যে ফারাক করেন। দারার হলো এমন ক্ষতি, যাতে আপনার কিছু লাভ হয় আর লোকসান গুনতে হয় প্রতিবেশীকে। দিরার হলো এমন ক্ষতি, যাতে আপনার কোনো লাভই নেই, তবু প্রতিবেশীর লোকসান হয়। আবার কেউ কেউ বলেন, দুটির অর্থ একই, জোর দেওয়ার জন্য একসঙ্গে বলা হয়েছে। মাআরিফুল কুরআন প্রথম ফারাকটিই গ্রহণ করে এবং তা থেকে কথা টানে: এ ঘরের বেলায় দিরার শব্দটাই খাটে, কারণ এর প্রতিষ্ঠাতারা এ থেকে কিছুই পাওয়ার ছিল না।"
+          },
+          {
+            "en": "On kufr al-Qurtubi gives two readings: Ibn al-'Arabi takes it as their belief that neither the mosque of Quba' nor the Prophet's mosque had any sanctity, and al-Qushayri as disbelief in the Prophet ﷺ and what he brought. As-Sa'di puts it starkly: their aim in the place was disbelief, while others aimed at faith. On division, al-Qurtubi draws a wider lesson: the congregation's greatest aim is to bind hearts together in obedience, so that closeness grows from mixing and hearts are cleared of the grime of grudges.",
+            "bn": "কুফর শব্দের দুটি ব্যাখ্যা দেন কুরতুবী। ইবনুল আরাবীর মতে এর মানে তাদের এই বিশ্বাস যে কুবার মাসজিদ বা নবী ﷺ-এর মাসজিদ, কোনোটিরই কোনো মর্যাদা নেই। কুশাইরীর মতে এর মানে নবী ﷺ ও তাঁর আনা দীনকে অস্বীকার। সা'দী কথাটা বলেন কঠিন ভাষায়: অন্যরা যখন ঈমানের নিয়তে আসছে, তখন এ জায়গায় তাদের নিয়ত ছিল কুফর। বিভেদ প্রসঙ্গে কুরতুবী বড় একটা শিক্ষা টানেন। জামাআতের সবচেয়ে বড় উদ্দেশ্য হলো আনুগত্যের উপর অন্তরগুলোকে এক করা, যাতে মেলামেশা থেকে আপনজনের টান জন্মায় আর অন্তর থেকে বিদ্বেষের ময়লা ধুয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Mosque Was Being Undercut",
+          "bn": "কোন মাসজিদের ক্ষতি চাওয়া হলো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the harm as aimed at the mosque of the Messenger of Allah ﷺ: some would pray in the new building instead of his mosque, others in his mosque, and the believers would fall out over it. Al-Baghawi says they built it to rival the mosque of Quba', where they had all been praying together; al-Muyassar, as-Sa'di and Ibn Kathir set it beside Quba' too, as does Ibn Zayd in at-Tabari.",
+            "bn": "তাবারীর পাঠে ক্ষতির লক্ষ্য ছিল রাসূলুল্লাহ ﷺ-এর মাসজিদ। কেউ কেউ তাঁর মাসজিদ ছেড়ে নতুন ঘরে নামায পড়বে, কেউ কেউ তাঁর মাসজিদেই থাকবে, আর এ নিয়ে মু'মিনরা ভাগ হয়ে যাবে। বাগাভী বলেন, তারা কুবার মাসজিদের প্রতিদ্বন্দ্বী হিসেবে এটা বানিয়েছিল, কারণ সবাই আগে সেখানে একসঙ্গে নামায পড়ত। মুয়াসসার, সা'দী ও ইবন কাসীরও একে কুবার পাশেই রাখেন, তাবারীর আনা বর্ণনায় ইবন যায়দও তাই।"
+          },
+          {
+            "en": "Al-Qurtubi, relaying the people of tafsir, adds a rivalry between clans. The Banu 'Amr ibn 'Awf had built the mosque of Quba' and invited the Prophet ﷺ, who came and prayed in it. Their brothers the Banu Ghanm ibn 'Awf envied them, and resolved to build their own, invite him likewise, and have Abu 'Amir pray in it when he came back from Syria. Sa'id ibn Jubayr, in at-Tabari, names the builders as the Banu Ghanm. Both readings of the injured mosque stay here as the commentators left them.",
+            "bn": "কুরতুবী তাফসীরকারদের সূত্রে দুই গোত্রের রেষারেষির কথা যোগ করেন। বনূ আমর ইবন আওফ কুবার মাসজিদ বানিয়ে নবী ﷺ-কে দাওয়াত দিয়েছিল, তিনি এসে সেখানে নামায পড়েছিলেন। তাদের ভাই-গোত্র বনূ গানম ইবন আওফ এতে ঈর্ষা করল। তারা ঠিক করল, নিজেরাও একটা মাসজিদ বানাবে, একইভাবে তাঁকে দাওয়াত দেবে, আর আবূ আমির শাম থেকে ফিরলে সে-ও সেখানে নামায পড়বে। তাবারীর বর্ণনায় সাঈদ ইবন জুবায়র নির্মাতাদের পরিচয় দেন বনূ গানম বলে। কোন মাসজিদের ক্ষতি চাওয়া হয়েছিল, এ নিয়ে দুই মত তাফসীরকারেরা যেভাবে রেখেছেন, এখানেও সেভাবেই রইল।"
+          },
+          {
+            "en": "The next verse sets this building beside a mosque founded on taqwa from the first day, and the commentators differ over which mosque that is. Ibn Kathir names Quba'. Muslim records in his Sahih (1398) that Abu Sa'id al-Khudri asked the Messenger of Allah ﷺ which of the two mosques was founded on piety; he took a handful of pebbles, struck the ground with them, and said: \"It is this mosque of yours\", meaning the mosque of Madinah. That question belongs to 9:108.",
+            "bn": "পরের আয়াত এ ঘরের পাশে রাখে এমন এক মাসজিদকে, যার ভিত্তি প্রথম দিন থেকেই তাকওয়ার উপর। সেটা কোন মাসজিদ, তা নিয়েও তাফসীরকারদের মতভেদ আছে। ইবন কাসীর বলেন কুবা। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (১৩৯৮) বর্ণনা করেন, আবূ সাঈদ খুদরী (রাঃ) রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করেছিলেন, দুই মাসজিদের কোনটির ভিত্তি তাকওয়ার উপর। তিনি এক মুঠো কাঁকর নিয়ে মাটিতে ছুড়ে মারলেন, তারপর বললেন: \"সেটা তোমাদের এই মাসজিদ।\" অর্থাৎ মাদীনার মাসজিদ। এ প্রশ্নের আসল জায়গা ৯:১০৮।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Seat Kept for the Monk",
+          "bn": "পাদ্রির জন্য রাখা আসন"
+        },
+        "p": [
+          {
+            "en": "Irsad, al-Qurtubi explains, is waiting: you say arsadtu a thing when you have made it ready while watching for someone. He cites Abu Zayd, for whom rasadtu and arsadtu are both said of good while arsadtu lahu is the form for evil, and Ibn al-A'rabi, who allows only arsadtu. Al-Baghawi joins waiting and preparation; as-Sa'di calls it readiness, a fortress kept for those who had fought Allah and His Messenger. Min qabl means before the mosque was built, say at-Tabari, al-Qurtubi and al-Baghawi.",
+            "bn": "কুরতুবী বলেন, ইরসাদ মানে অপেক্ষা। কারও আসার পথ চেয়ে কিছু প্রস্তুত করে রাখলে আরবিতে বলা হয় আরসাদতু। তিনি ভাষাবিদ আবূ যায়দের মত উল্লেখ করেন: ভালো অর্থে রাসাদতু ও আরসাদতু দুটোই চলে, আর মন্দ অর্থে বলা হয় আরসাদতু লাহু। ইবনুল আ'রাবীর মতে শুধু আরসাদতুই বলা হয়। বাগাভী অপেক্ষা আর প্রস্তুতি, দুটো অর্থই একসঙ্গে নেন। সা'দী একে বলেন প্রস্তুতি: আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যারা লড়েছে, তাদের জন্য একটা দুর্গ। আর মিন কাবল মানে মাসজিদটা বানানোর আগে। তাবারী, কুরতুবী ও বাগাভী তিনজনই এ কথা বলেন।"
+          },
+          {
+            "en": "The man who had warred before is Abu 'Amir, called ar-Rahib, the monk, in reports at-Tabari gathers from Ibn 'Abbas, Mujahid, Qatada and ad-Dahhak. In a report through 'Urwa, 'A'isha says Abu 'Amir went to Syria, and the builders said they had built it only so that he might pray in it. Ibn Kathir describes a man of the Khazraj who had become a Christian before Islam, read the learning of the People of the Book, and had high standing among his people. After Badr he declared his enmity and went to stir Quraysh to war.",
+            "bn": "আগে থেকে যে লড়ে আসছিল, সে আবূ আমির, যাকে বলা হতো আর-রাহিব, অর্থাৎ পাদ্রি। ইবন আব্বাস, মুজাহিদ, কাতাদা ও দাহহাক থেকে তাবারীর সংকলিত বর্ণনাগুলো এ কথাই বলে। উরওয়ার সূত্রে আসা বর্ণনায় আয়েশা (রাঃ) বলেন, আবূ আমির শামে চলে গিয়েছিল। আর মাসজিদের নির্মাতারা বলেছিল, তারা এটা বানিয়েছে শুধু এজন্য, যাতে সে এসে এখানে নামায পড়তে পারে। ইবন কাসীরের বর্ণনায় সে খাযরাজ গোত্রের লোক। ইসলামের আগেই সে খ্রিস্টান হয়েছিল, আহলে কিতাবের বিদ্যা পড়েছিল, নিজের গোত্রে তার মর্যাদাও ছিল অনেক। বদরের পর সে শত্রুতা ঘোষণা করে এবং কুরাইশকে যুদ্ধে উসকে দিতে চলে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi say he fought the Muslims until Hunayn, then left for Syria when Hawazin were routed. In a report Ibn Kathir carries from Ibn 'Abbas, he told the builders to prepare what strength and weapons they could, for he was going to Caesar to bring an army and drive out Muhammad and his Companions. Al-Qurtubi and al-Baghawi add a quiet detail: this man was the father of Hanzala, the one washed by the angels. The father's road, which this verse names, did not become the son's.",
+            "bn": "কুরতুবী ও বাগাভী বলেন, হুনাইন পর্যন্ত সে মুসলিমদের বিরুদ্ধে লড়ে গেছে। হাওয়াযিন হেরে যাওয়ার পর সে শামের পথ ধরে। ইবন আব্বাস থেকে ইবন কাসীর যে বর্ণনা আনেন, তাতে সে নির্মাতাদের বলে দিয়েছিল: যতটা পারো শক্তি আর অস্ত্র জোগাড় করে রাখো, আমি রোমের সম্রাট কায়সারের কাছে যাচ্ছি, সেখান থেকে সৈন্য এনে মুহাম্মাদ আর তাঁর সঙ্গীদের বের করে দেব। কুরতুবী ও বাগাভী নিঃশব্দে একটা তথ্যও যোগ করেন। এই লোকটিই ছিল হানযালা (রাঃ)-এর বাবা, যাঁকে ফেরেশতারা গোসল দিয়েছিলেন। বাবা যে পথে হেঁটেছে, আয়াত সে পথের কথা বলে, কিন্তু ছেলের পথ সেটা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Blessing They Hoped to Borrow",
+          "bn": "ধার করা বরকতের আশা"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators carry an account from Ibn Ishaq, through az-Zuhri, Yazid ibn Ruman and others, found in at-Tabari and Ibn Kathir. The builders came while the Prophet ﷺ was preparing for Tabuk, saying they had built a mosque for the sick and the needy, the rainy night and the winter night, and asking him to pray in it for them. His reply in the report is not quoted here, since it reaches us only through this sira chain. Ibn Kathir comments that Allah protected him from praying in it.",
+            "bn": "বেশির ভাগ তাফসীরকার যে কাহিনি আনেন, তা ইবন ইসহাকের, যুহরী, ইয়াযীদ ইবন রূমান ও অন্যদের সূত্রে। তাবারী ও ইবন কাসীর দুজনেই এটা এনেছেন। নবী ﷺ তখন তাবুকের প্রস্তুতি নিচ্ছিলেন। নির্মাতারা এসে বলল, অসুস্থ আর অভাবী মানুষের জন্য, বৃষ্টির রাত আর শীতের রাতের জন্য তারা একটা মাসজিদ বানিয়েছে। তারা চাইল, তিনি এসে সেখানে তাদের নিয়ে নামায পড়ুন। বর্ণনায় তাঁর জবাবও আছে, তবে তা এখানে উদ্ধৃত করা হলো না, কারণ কথাটা আমাদের কাছে এসেছে শুধু এই সীরাত-সূত্রে। ইবন কাসীর মন্তব্য করেন, আল্লাহ তাঁকে সেখানে নামায পড়া থেকে রক্ষা করেছিলেন।"
+          },
+          {
+            "en": "In a report from Ibn 'Abbas that at-Tabari and Ibn Kathir both carry, they say their mosque is finished and ask him to pray in it and to call down blessing on them. Ibn Kathir names the motive: his prayer there would be their proof that he had approved and confirmed it. The building needed a borrowed blessing, and the borrowing was part of the plan.",
+            "bn": "ইবন আব্বাসের একটি বর্ণনা তাবারী ও ইবন কাসীর দুজনেই আনেন। তাতে তারা বলে, আমাদের মাসজিদের কাজ শেষ, আমরা চাই আপনি এতে নামায পড়ুন আর আমাদের জন্য বরকতের দু'আ করুন। ইবন কাসীর আসল উদ্দেশ্যটা খুলে বলেন। তাঁর নামাযকেই তারা প্রমাণ হিসেবে দাঁড় করাতে চেয়েছিল যে তিনি ঘরটাকে মেনে নিয়েছেন, স্বীকৃতি দিয়েছেন। ঘরটার দরকার ছিল ধার করা বরকত। আর সেই ধার নেওয়াটাই ছিল পরিকল্পনার অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Palm Fronds Lit at Dhu Awan",
+          "bn": "যূ আওয়ানে জ্বলল খেজুরপাতা"
+        },
+        "p": [
+          {
+            "en": "On the way back from Tabuk, the same Ibn Ishaq report says, he stopped at Dhu Awan, an hour of daylight from Madinah, and news of the mosque reached him there. Qatada, in at-Tabari, adds that he had called for his shirt to go to them when Allah informed him. As-Sa'di says in his own words that the Prophet ﷺ sent someone to demolish and burn it, and it was demolished and burned. None of the commentaries fetched here attaches a sound hadith to this verse itself; the account rests on these reports.",
+            "bn": "একই ইবন ইসহাক-বর্ণনা বলে, তাবুক থেকে ফেরার পথে তিনি যূ আওয়ানে থামলেন, জায়গাটা মাদীনা থেকে দিনের আলোয় ঘণ্টাখানেকের পথ। সেখানেই মাসজিদের খবর তাঁর কাছে পৌঁছাল। তাবারীর বর্ণনায় কাতাদা যোগ করেন, তাদের কাছে যাওয়ার জন্য তিনি জামা চেয়ে পাঠিয়েছিলেন, এমন সময় আল্লাহ তাঁকে বিষয়টা জানিয়ে দিলেন। সা'দী নিজের ভাষায় বলেন, নবী ﷺ লোক পাঠালেন ঘরটা ভেঙে পুড়িয়ে দিতে, আর তা ভেঙে পুড়িয়ে দেওয়া হলো। এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদীস যুক্ত করেনি। পুরো কাহিনি দাঁড়িয়ে আছে এসব বর্ণনার উপর।"
+          },
+          {
+            "en": "Ibn Ishaq names the two men sent as Malik ibn ad-Dukhshum and Ma'n ibn 'Adi, or Ma'n's brother; al-Qurtubi and al-Baghawi add 'Amir ibn as-Sakan and Wahshi, who had killed Hamza. Malik lit a bundle of palm fronds at his family's house, and they ran to the mosque with its people inside, burned it and brought it down, and its people scattered. As-Sa'di says the place became a rubbish heap; Ibn Zayd, in at-Tabari, says it collapsed and people threw straw and refuse onto it.",
+            "bn": "ইবন ইসহাক যে দুজনকে পাঠানোর কথা বলেন, তাঁরা মালিক ইবনুদ দুখশুম আর মা'ন ইবন আদী, কিংবা মা'নের ভাই। কুরতুবী ও বাগাভী আরও দুজনের নাম যোগ করেন: আমির ইবনুস সাকান, আর হামযা (রাঃ)-এর হত্যাকারী ওয়াহশী। মালিক নিজের বাড়িতে এক আঁটি খেজুরপাতায় আগুন ধরালেন। তারপর তাঁরা দৌড়ে গিয়ে মাসজিদে ঢুকলেন, ভেতরে তখন তার লোকজন। ঘরটা পুড়িয়ে ভেঙে ফেলা হলো, লোকজন যে যার মতো সরে গেল। সা'দী বলেন, পরে জায়গাটা আবর্জনার স্তূপ হয়ে যায়। তাবারীর বর্ণনায় ইবন যায়দ বলেন, ঘরটা ধসে পড়েছিল, আর লোকেরা তার উপর খড় ও ময়লা ফেলত।"
+          },
+          {
+            "en": "Not everyone tied to the building was judged alike. At-Tabari counts the builders as twelve men; their names are not repeated here, and the lists disagree. Al-Qurtubi and al-Baghawi relay that under 'Umar's caliphate the Banu 'Amr ibn 'Awf asked him to let Mujammi' ibn Jariya lead them in prayer, and 'Umar refused: was he not the imam of Masjid ad-Dirar? Mujammi' said he had been a young reciter leading old men who could not read the Qur'an, unaware of what they concealed. 'Umar excused him and believed him.",
+            "bn": "ঘরটার সঙ্গে যাদের নাম জড়িয়েছিল, তাদের সবার বিচার এক রকম হয়নি। তাবারী নির্মাতাদের সংখ্যা বলেন ১২ জন। তাদের নাম এখানে আর তোলা হলো না, তালিকাগুলোও পরস্পর মেলে না। কুরতুবী ও বাগাভী বর্ণনা করেন, উমর (রাঃ)-এর খিলাফতকালে বনূ আমর ইবন আওফ তাঁর কাছে অনুমতি চাইল, মুজাম্মি' ইবন জারিয়া যেন তাদের নামায পড়ান। উমর রাজি হলেন না: সে কি মাসজিদে দিরারের ইমাম ছিল না? মুজাম্মি' জবাব দিলেন, তিনি তখন কুরআন জানা এক তরুণ, আর যাদের নামায পড়াতেন তারা কুরআন পড়তে না-জানা বুড়ো মানুষ। তাদের মনে কী লুকানো ছিল, তিনি জানতেন না। উমর তাঁর ওজর মেনে নিলেন, তাঁর কথা বিশ্বাস করলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Oath Answered by a Witness",
+          "bn": "কসমের জবাবে সাক্ষ্য"
+        },
+        "p": [
+          {
+            "en": "Wa-la-yahlifunna in aradna illa l-husna: and they will surely swear, we intended nothing but the best. The oath is foretold before it is sworn. At-Tabari spells out the claim: kindness to the Muslims, and room for the weak, the sick and whoever could not reach the Prophet's mosque to pray, which, he says, is the good deed. Then: Allah testifies that they are liars. They built it, at-Tabari says, wanting as-su'a, the evil, the very opposite of the husna they swore to.",
+            "bn": "ওয়া লাইয়াহলিফুন্না ইন আরাদনা ইল্লাল হুসনা: আর তারা অবশ্যই কসম খেয়ে বলবে, আমরা ভালো ছাড়া আর কিছু চাইনি। কসম খাওয়ার আগেই আয়াত তা জানিয়ে দিচ্ছে। তারা কী দাবি করবে, তাবারী তা খুলে বলেন: মুসলিমদের প্রতি সদয় আচরণ, আর দুর্বল, অসুস্থ ও নবী ﷺ-এর মাসজিদ পর্যন্ত যেতে অক্ষম মানুষের জন্য সুবিধা। তাঁর ভাষায় এটাই সেই ভালো কাজ। তারপর আসে: আল্লাহ সাক্ষ্য দিচ্ছেন, তারা মিথ্যাবাদী। তাবারী বলেন, তারা ঘরটা বানিয়েছিল আস-সূআ, অর্থাৎ মন্দের উদ্দেশ্যে, যে হুসনার কসম তারা খেয়েছিল, ঠিক তার উল্টো।"
+          },
+          {
+            "en": "As-Sa'di reads their claimed good as kindness to the weak, the incapable and the blind, and closes in one short sentence: Allah's testimony against them is truer than their oath. Al-Qurtubi draws a principle: deeds differ according to what is aimed at and intended by them. The stated need was real. Rain, sickness and distance are genuine burdens, which is why the cover worked, and why only the Knower of hearts could lift it.",
+            "bn": "সা'দী তাদের দাবি করা ভালোটাকে পড়েন দুর্বল, অক্ষম আর অন্ধদের প্রতি দয়া হিসেবে। তারপর ছোট্ট এক বাক্যে শেষ করেন: তাদের কসমের চেয়ে তাদের বিরুদ্ধে আল্লাহর সাক্ষ্য বেশি সত্য। কুরতুবী এ অংশ থেকে একটা মূলনীতি বের করেন: উদ্দেশ্য আর নিয়তের ফারাকে আমলও আলাদা হয়ে যায়। যে প্রয়োজনের কথা তারা বলেছিল, সেটা সত্যিকারের প্রয়োজন। বৃষ্টি, অসুখ আর দূরত্ব সত্যিই কষ্টের। এ কারণেই আড়ালটা কাজ করেছিল, আর এ কারণেই অন্তরের খবর যিনি জানেন, শুধু তিনিই সে পর্দা সরাতে পারতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rulings Drawn, and Their Limit",
+          "bn": "টানা বিধান, আর তার সীমা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi cites those he calls our scholars: a mosque may not be built beside another so as to empty the first, unless the quarter is too large for one mosque. At-Tabari records that Shaqiq, having missed the prayer at one mosque, declined to pray at another, saying it had been built for harm, and that every mosque built for harm, show or reputation traces its root to the mosque built for harm.",
+            "bn": "কুরতুবী তাঁর মাযহাবের আলেমদের রায় উল্লেখ করেন: আগের মাসজিদকে খালি করে দেওয়ার উদ্দেশ্যে তার পাশে আরেকটি মাসজিদ বানানো জায়েয নয়। তবে মহল্লা এত বড় হলে যে একটি মাসজিদে সবার জায়গা হয় না, তখন আলাদা কথা। তাবারী বর্ণনা করেন, শাকীক এক মাসজিদে জামাআত ধরতে পারেননি, তবু আরেকটিতে যেতে রাজি হলেন না। বললেন, ওটা ক্ষতির উদ্দেশ্যে বানানো, আর ক্ষতি, লোকদেখানো বা নামডাকের জন্য বানানো প্রতিটি মাসজিদের শিকড় গিয়ে ঠেকে সেই ক্ষতির মাসজিদে।"
+          },
+          {
+            "en": "Al-Qurtubi also refuses an extension. An-Naqqash argued that by this logic one should not pray in a church; al-Qurtubi answers that a church was not built to harm anyone, and that scholars agree a prayer on a clean spot in one stands. Ma'arif al-Qur'an sets a firmer limit. A mosque built today out of rivalry earns its builder a sin, yet it remains a mosque in law, prayer in it is valid, and demolishing or burning it is not permissible. Nor may it be called Masjid Dirar; at most, it says, one may call it like it.",
+            "bn": "কুরতুবী আবার বিধানটাকে অযথা টেনে লম্বা করতেও রাজি নন। নাক্কাশ যুক্তি দিয়েছিলেন, এ হিসাবে তো গির্জায়ও নামায পড়া চলে না। কুরতুবীর জবাব: গির্জা কারও ক্ষতি করার জন্য বানানো হয়নি, আর আলেমরা একমত যে সেখানে পবিত্র জায়গায় কেউ নামায পড়লে তা আদায় হয়ে যায়। মাআরিফুল কুরআন আরও শক্ত একটা সীমা টানে। আজ কেউ প্রতিদ্বন্দ্বিতা করে মাসজিদ বানালে নির্মাতা গুনাহগার হবে। তবু শরীআতে সেটা মাসজিদই থাকবে, সেখানে নামায আদায় হবে, আর তা ভাঙা বা পোড়ানো জায়েয নয়। সেটাকে মাসজিদে দিরার বলাও চলবে না। বড়জোর বলা যায়, ওটা তার মতো।"
+          },
+          {
+            "en": "So this needs saying plainly. The verse describes one building in Madinah, a group whose purpose revelation itself exposed, and a demolition carried out on the return from Tabuk. It licenses no act against any mosque, congregation or community today, and this article gives no present-day mosque its name. No revelation now testifies to what is in another person's heart, and without that testimony its verdict falls on no one living. What it can still do is turn the eye inward: before I build, I ask what else the building is for.",
+            "bn": "তাই কথাটা সোজাসুজি বলা দরকার। আয়াতটি মাদীনার একটিমাত্র ঘরের কথা বলে, এমন এক দলের কথা, যাদের উদ্দেশ্য স্বয়ং ওহি ফাঁস করে দিয়েছিল, আর তাবুক থেকে ফেরার পথে কার্যকর হওয়া একটি ভাঙার কথা। আজকের কোনো মাসজিদ, জামাআত বা জনগোষ্ঠীর বিরুদ্ধে কোনো পদক্ষেপের অনুমতি এ আয়াত দেয় না। এ লেখাও বর্তমান কালের কোনো মাসজিদকে ওই নাম দিচ্ছে না। কারও অন্তরে কী আছে, সে বিষয়ে আজ কোনো ওহি সাক্ষ্য দেয় না। সেই সাক্ষ্য ছাড়া এ রায় কোনো জীবিত মানুষের উপর পড়ে না। আয়াতটি এখনো যা পারে, তা হলো চোখ ভেতরের দিকে ফেরানো: কিছু গড়ার আগে নিজেকে জিজ্ঞেস করি, এটা আর কী কাজে লাগানোর জন্য গড়ছি?"
+          }
+        ]
+      }
+    ]
+  },
   "9:111-112": {
     "sections": [
       {

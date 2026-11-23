@@ -32443,6 +32443,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah repays evil only with its like and good many times over. Earn good while you can, for on that Day no one will shield you from Him.",
     "lessonBn": "আল্লাহ মন্দের বদলা দেন কেবল তার সমান, আর ভালোর বদলা বহু গুণ। সময় থাকতে নেকি কামাই করুন, কারণ সেদিন তাঁর পাকড়াও থেকে কেউ আপনাকে আড়াল করতে পারবে না।"
+  },
+  "9:107": {
+    "reflectionEn": "A building goes up that looks like any house of prayer, and its builders have a good reason ready. The verse looks under the stones and names four other purposes: harm, disbelief, division among the believers, and a waiting place for a man who had already fought Allah and His Messenger. It even foretells the oath before it is sworn, and answers it with a Witness no one can cross-examine. The same bricks could have held worship; intention decided what they were. This is no lens for inspecting anyone else's mosque, since no revelation now testifies about a living heart. It is a lens for my own work. When I build something in the name of good, what else is it quietly built to do?",
+    "reflectionBn": "একটা ঘর উঠল, দেখতে আর দশটা মাসজিদের মতোই। নির্মাতাদের মুখে ভালো একটা কারণও তৈরি। আয়াতটি ইটের নিচে তাকায় আর চারটি আসল উদ্দেশ্যের নাম বলে দেয়: ক্ষতি করা, কুফরি, মু'মিনদের মধ্যে ভাঙন ধরানো, আর এমন এক লোকের জন্য ঘাঁটি সাজিয়ে রাখা, যে আগেই আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে লড়েছে। কসমটা খাওয়ার আগেই আয়াত জানিয়ে দেয় যে তারা কসম খাবে, আর জবাবে আনে এমন এক সাক্ষীকে, যাঁর সাক্ষ্যে কেউ জেরা চালাতে পারে না। একই ইট দিয়ে ইবাদতের ঘরও হতে পারত। ঘরটা কী হবে, তা ঠিক করেছে নিয়ত। তবে অন্যের মাসজিদ যাচাই করার চশমা এটা নয়, কারণ আজ কোনো জীবিত মানুষের অন্তর নিয়ে ওহি সাক্ষ্য দেয় না। এ চশমা আমার নিজের কাজের জন্য। ভালোর নামে আমি যা গড়ি, চুপিসারে তা আর কী কাজে লাগানোর জন্য গড়া?",
+    "pointsEn": [
+      "Which of my projects carries a good label on the outside, and what would the four words of this verse find if they looked underneath it?",
+      "Have I ever asked a respected person to stand beside something of mine, mainly so that their presence would silence questions about it?",
+      "When I start something new beside an existing good effort, am I adding to it, or drawing people away from it?",
+      "Do I reach for an oath or a strong assurance at exactly the moments when my intention is least clear to myself?",
+      "When I hear of a rival gathering or institution, do I rush to give it this verse's name, though no revelation has told me what is in its builders' hearts?"
+    ],
+    "pointsBn": [
+      "আমার কোন উদ্যোগের গায়ে বাইরে থেকে ভালো একটা নাম লাগানো আছে? এ আয়াতের চারটি শব্দ যদি তার নিচে উঁকি দেয়, কী খুঁজে পাবে?",
+      "কোনো সম্মানিত মানুষকে কি কখনো নিজের কোনো কাজের পাশে দাঁড় করাতে চেয়েছি, মূলত এই আশায় যে তিনি পাশে থাকলে আর কেউ প্রশ্ন তুলবে না?",
+      "আগে থেকে চলা কোনো ভালো কাজের পাশে নতুন কিছু শুরু করলে আমি কি তাতে শক্তি যোগ করছি, নাকি সেখান থেকে মানুষ সরিয়ে আনছি?",
+      "যখন নিজের নিয়তই আমার কাছে সবচেয়ে ঘোলাটে, ঠিক তখনই কি আমি কসম বা জোরালো আশ্বাসের আশ্রয় নিই?",
+      "প্রতিদ্বন্দ্বী কোনো জমায়েত বা প্রতিষ্ঠানের কথা শুনলে কি তাড়াতাড়ি এ আয়াতের নামটা তার গায়ে সেঁটে দিই, অথচ তার নির্মাতাদের অন্তরে কী আছে, কোনো ওহি তো আমাকে জানায়নি?"
+    ],
+    "lessonEn": "Intention decides what a building is. Audit the hidden purposes of your own good works, and leave other people's hearts to the One who alone can testify about them.",
+    "lessonBn": "কোনো ঘর আসলে কী, তা ঠিক করে নিয়ত। নিজের ভালো কাজগুলোর গোপন উদ্দেশ্য নিজে যাচাই করুন, আর অন্যের অন্তরের বিচার ছেড়ে দিন তাঁর হাতে, যিনি একাই সে বিষয়ে সাক্ষ্য দিতে পারেন।"
   }
 };
 
