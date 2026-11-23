@@ -31483,6 +31483,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Book was sent so that no one could plead ignorance of it, so read it in a language you understand and never need that plea.",
     "lessonBn": "কিতাব পাঠানো হয়েছে যাতে কেউ তার ব্যাপারে অজ্ঞতার অজুহাত দিতে না পারে। তাই নিজের বোঝার ভাষায় তা পড়ুন, যাতে সে অজুহাতের দরকারই না পড়ে।"
+  },
+  "7:20": {
+    "reflectionEn": "Satan did not tell them to disobey. He told them what the prohibition really meant. Your Lord kept this tree from you, he said, only so that you would not become angels, or live forever. He took a limit they had been given and turned it into a good being withheld from them. The verse names his real aim too: to lay bare what had been covered for them. Both of them are spoken to, and the deceiver is named. Most whispers I hear take this same shape. They seldom argue that wrong is good. They suggest that what Allah has kept back is a loss, and that the line He drew stands between me and something better.",
+    "reflectionBn": "শয়তান তাঁদের নাফরমানি করতে বলেনি। সে বুঝিয়েছিল, নিষেধটার আসল মানে কী। বলেছিল, তোমাদের রব এ গাছ থেকে তোমাদের দূরে রেখেছেন শুধু এ জন্য, যাতে তোমরা ফেরেশতা না হয়ে যাও, কিংবা চিরকাল থেকে না যাও। যে সীমা তাঁদের দেওয়া হয়েছিল, সেটাকেই সে বানিয়ে দিল আটকে রাখা এক নিয়ামত। আয়াত তার আসল মতলবও বলে দেয়: যা তাঁদের জন্য ঢাকা ছিল, তা খুলে দেওয়া। কথা বলা হচ্ছে দুজনকেই, আর ধোঁকাবাজের নামটাও স্পষ্ট। আমার কানে যত কুমন্ত্রণা আসে, তার বেশির ভাগের চেহারা এরকমই। অন্যায়কে সরাসরি ভালো বলে খুব কমই। বরং বোঝায়, আল্লাহ যা আটকে রেখেছেন তা আমার লোকসান, আর তাঁর টানা রেখাটা আমাকে আরও ভালো কিছু থেকে দূরে রাখছে।",
+    "pointsEn": [
+      "Which limit in my life have I started to describe to myself as something I am missing out on?",
+      "When a thought tells me a prohibition exists only to keep something good from me, do I stop and ask whose voice that is?",
+      "What had I already been given in plenty before my eyes fixed on the one thing kept back?",
+      "What cover, in my faith, my privacy or my character, would I lose by following the offer I keep hearing?",
+      "When a whisper comes, do I treat it as an instruction, or turn it away before it reaches my hands and my tongue?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন সীমাটাকে আমি মনে মনে এমন কিছু বলে ভাবতে শুরু করেছি, যা থেকে আমাকে বঞ্চিত রাখা হচ্ছে?",
+      "কোনো ভাবনা যখন বলে, এই নিষেধ আছে শুধু আমাকে ভালো কিছু থেকে আটকাতে, তখন কি আমি থেমে জিজ্ঞেস করি, কথাটা কার?",
+      "যে একটা জিনিস আটকে রাখা হয়েছে, তার দিকে চোখ আটকে যাওয়ার আগে কত কিছু আমাকে অঢেল দেওয়া হয়েছিল?",
+      "যে প্রস্তাব বারবার কানে আসছে, তা মানলে আমার ঈমান, আমার আড়াল বা আমার চরিত্রের কোন আবরণটা খসে যাবে?",
+      "কুমন্ত্রণা এলে আমি কি তাকে হুকুম ভেবে মানি, নাকি হাত আর জিহ্বা পর্যন্ত পৌঁছানোর আগেই ফিরিয়ে দিই?"
+    ],
+    "lessonEn": "When a whisper recasts a limit Allah set as a good He is keeping from you, recognise the old voice behind it and keep to the limit.",
+    "lessonBn": "কুমন্ত্রণা যখন আল্লাহর টানা সীমাকে আটকে রাখা কোনো কল্যাণ বলে দেখায়, তখন তার পেছনের পুরোনো কণ্ঠটা চিনে নিন, আর সীমার ভেতরেই থাকুন।"
   }
 };
 

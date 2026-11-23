@@ -779,6 +779,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Whisper Addressed to Two",
+          "bn": "দুজনের কানে এক কুমন্ত্রণা"
+        },
+        "p": [
+          {
+            "en": "The verse opens on fa, so. In 7:19 Adam (AS) and his wife are settled in the Garden, told to eat from wherever they wish and to keep away from one tree. As-Sa'di describes what came next: the two of them went on obeying Allah's command until their enemy Iblis worked his way in to them by his cunning, whispered to them a whisper that deceived them, and dressed the matter up before their eyes.",
+            "bn": "আয়াতের শুরু ফা দিয়ে, মানে তারপর। ৭:১৯ আয়াতে আদম (আঃ) ও তাঁর স্ত্রীকে জান্নাতে থাকতে দেওয়া হয়েছে। যেখান থেকে খুশি খাওয়ার অনুমতি আছে, শুধু একটি গাছের কাছে যাওয়া নিষেধ। তারপর কী হলো, সা'দী তা বলেন এভাবে: তাঁরা দুজন আল্লাহর হুকুম মেনেই চলছিলেন। শেষে তাঁদের দুশমন ইবলীস চালাকি করে ভেতরে ঢুকে পড়ল, এমন কুমন্ত্রণা দিল যাতে তাঁরা ধোঁকা খেলেন, আর ব্যাপারটাকে তাঁদের চোখে রং চড়িয়ে দেখাল।"
+          },
+          {
+            "en": "Every pronoun and verb in the verse is dual: to the two of them, from the two of them, your Lord forbade the two of you, that the two of you become. Al-Muyassar names them as Adam and Hawwa', and so does at-Tabari. The verse names a single agent, the Shaytan. Nothing in it singles Hawwa' out or lays more on her than on her husband. 7:21 adds his oath and 7:22 the tasting, and 7:23, their reply, has its own article.",
+            "bn": "আয়াতের প্রতিটি সর্বনাম আর ক্রিয়া দ্বিবচনে: তাদের দুজনকে, তাদের দুজনের কাছ থেকে, তোমাদের দুজনকে তোমাদের রব নিষেধ করেছেন, তোমরা দুজন হয়ে যাবে। মুয়াসসার তাঁদের নাম বলে দেয়: আদম ও হাওয়া। তাবারীও তাই বলেন। আয়াতে কাজের কর্তা একজনই, শয়তান। হাওয়াকে আলাদা করে ধরার বা স্বামীর চেয়ে বেশি দায় তাঁর উপর চাপানোর কিছুই এখানে নেই। ৭:২১ আয়াতে আসে তার কসম, ৭:২২ আয়াতে স্বাদ নেওয়া। আর ৭:২৩ আয়াতের জবাব নিয়ে আলাদা প্রবন্ধ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sound of Waswasa",
+          "bn": "ওয়াসওয়াসার আওয়াজ"
+        },
+        "p": [
+          {
+            "en": "Fa-waswasa lahuma: then he whispered to them. Al-Baghawi defines waswasa as talk that the Shaytan casts into a person's heart. Al-Qurtubi starts from the sound: waswasa is the hidden voice, and it is also hadith an-nafs, the self talking to itself. The low murmur of a hunter and his hounds and the jingle of jewellery are called waswas too, he says, and al-Waswas is a name of the Shaytan, as in 114:4.",
+            "bn": "ফা ওয়াসওয়াসা লাহুমা: তারপর সে তাদের কুমন্ত্রণা দিল। বাগাভীর সংজ্ঞায় ওয়াসওয়াসা হলো সেই কথা, যা শয়তান মানুষের অন্তরে ফেলে দেয়। কুরতুবী শুরু করেন আওয়াজ থেকে। ওয়াসওয়াসা মানে চাপা স্বর, আবার হাদীসুন নাফসও, অর্থাৎ মনের ভেতরে নিজের সঙ্গে নিজের কথা। শিকারি আর তার কুকুরের চাপা শব্দ, গয়নার টুংটাং, এগুলোকেও ওয়াসওয়াস বলে। আর আল-ওয়াসওয়াস শয়তানেরই এক নাম, যেমন ১১৪:৪ আয়াতে।"
+          },
+          {
+            "en": "At-Tabari says plainly what the whisper was: his words to them, your Lord forbade you this tree only lest you become angels or among the immortals, together with his swearing to them on it. Ibn Kathir names the motive. The Shaytan envied them, he says, and set about plotting, deceit and whispering to strip them of the blessing they were in and the fine clothing they wore, and he spoke as a lie and a fabrication.",
+            "bn": "কুমন্ত্রণাটা আসলে কী ছিল, তাবারী সোজাসুজি বলেন: তাদের প্রতি তার এই কথা যে, তোমাদের রব এ গাছ থেকে নিষেধ করেছেন শুধু এ জন্য, যাতে তোমরা ফেরেশতা না হও বা চিরস্থায়ীদের দলে না পড়ো। সঙ্গে ছিল এ কথার উপর তার কসম। ইবন কাসীর বলে দেন কারণটা। শয়তান তাঁদের হিংসা করত। তাঁরা যে নিয়ামত আর সুন্দর পোশাকে ছিলেন, তা কেড়ে নিতে সে চক্রান্ত, ধোঁকা আর কুমন্ত্রণায় নামল। আর যা বলল, তা ছিল ডাহা মিথ্যা আর বানোয়াট।"
+          },
+          {
+            "en": "How did the whisper reach them in the Garden? Al-Qurtubi records two answers, each introduced with it was said: that he entered the Garden, carried in by the serpent, or that he reached them from outside, by the power he had been given. He does not choose between them. The serpent detail is of the kind known as isra'iliyyat, lore from earlier scriptures; the Qur'an does not mention it, and neither does any narration fetched for this verse.",
+            "bn": "জান্নাতের ভেতরে কুমন্ত্রণা তাঁদের কাছে পৌঁছাল কীভাবে? কুরতুবী দুটি জবাব আনেন, দুটোই 'বলা হয়' দিয়ে শুরু। এক, সাপ তাকে জান্নাতের ভেতরে নিয়ে গিয়েছিল। দুই, তাকে যে ক্ষমতা দেওয়া হয়েছিল, তা দিয়ে সে বাইরে থেকেই তাঁদের কাছে পৌঁছেছিল। কুরতুবী কোনোটাকেই বেছে নেন না। সাপের কথাটা ইসরাঈলিয়্যাত জাতের, অর্থাৎ আগের কিতাবধারীদের কাহিনি থেকে আসা। কুরআন এর উল্লেখ করেনি, এ আয়াতের জন্য যে বর্ণনাগুলো দেখা হয়েছে সেগুলোও করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Had Been Covered",
+          "bn": "যা ঢাকা ছিল"
+        },
+        "p": [
+          {
+            "en": "Li-yubdiya lahuma ma wuriya 'anhuma min saw'atihima: to make apparent to them what had been concealed from them of their nakedness. Was exposure what he meant? Al-Baghawi reports that some called this lam the lam of outcome: Iblis did not whisper for this, but it was where their affair ended, the showing of their nakedness. He compares 28:8, where Pharaoh's household picked up the infant so that he would become to them an enemy and a grief.",
+            "bn": "লিইউবদিয়া লাহুমা মা উরিয়া আনহুমা মিন সাওআতিহিমা: যাতে তাদের লজ্জাস্থানের যা তাদের কাছে ঢাকা ছিল, তা তাদের সামনে খুলে দেয়। খুলে দেওয়াটাই কি তার উদ্দেশ্য ছিল? বাগাভী জানান, কেউ কেউ এই লামকে বলেছেন পরিণতির লাম। ইবলীস এ জন্য কুমন্ত্রণা দেয়নি, তবে শেষমেশ ব্যাপারটা গিয়ে দাঁড়িয়েছিল সেখানেই: তাঁদের লজ্জাস্থান প্রকাশ হয়ে পড়ল। তিনি তুলনা দেন ২৮:৮ আয়াতের, যেখানে ফেরাউনের লোকেরা শিশুটিকে তুলে নিয়েছিল, যাতে সে তাদের শত্রু আর দুঃখের কারণ হয়।"
+          },
+          {
+            "en": "Al-Qurtubi also names it the lam of outcome and cites the same verse, then adds a second view under it was said: the lam of purpose, on which exposure was the aim from the start. Al-Muyassar reads it as outcome, that their end would be the uncovering of what had been hidden. At-Tabari's paraphrase keeps the li- and names who did the covering: what Allah had concealed from them and covered with the cover He had placed over them.",
+            "bn": "কুরতুবীও একে পরিণতির লাম বলেন, একই আয়াত দিয়ে। তারপর 'বলা হয়' দিয়ে আনেন আরেক মত: এটা উদ্দেশ্যের লাম, অর্থাৎ খুলে দেওয়াই শুরু থেকে তার লক্ষ্য ছিল। মুয়াসসার পড়ে পরিণতির অর্থে, যাতে শেষ ফল দাঁড়ায় গোপন অঙ্গ প্রকাশ হয়ে পড়া। তাবারীর ব্যাখ্যায় লি থেকে যায়, আর ঢেকে রেখেছিলেন কে, সেটা তিনি স্পষ্ট করেন: যা আল্লাহ তাঁদের থেকে আড়াল করে রেখেছিলেন, নিজের দেওয়া আবরণে ঢেকে রেখেছিলেন।"
+          },
+          {
+            "en": "What was that cover? The verse does not say. At-Tabari reports, through Sufyan ibn 'Uyaynah, that Wahb ibn Munabbih said on the words their nakedness became apparent to them: there was a light upon them, and their nakedness could not be seen. Al-Qurtubi gives that picture, a light upon them which then departed, and a second, a garment which fell away, and closes with: and Allah knows best.",
+            "bn": "সেই আবরণটা কী ছিল? আয়াত তা বলে না। তাবারী সুফইয়ান ইবন উয়াইনার সূত্রে জানান, 'তাদের লজ্জাস্থান তাদের সামনে প্রকাশ হয়ে পড়ল' কথাটি প্রসঙ্গে ওয়াহব ইবন মুনাব্বিহ বলেছেন: তাঁদের গায়ে একটা নূর ছিল, তাই লজ্জাস্থান দেখা যেত না। কুরতুবী এই ছবিটা আনেন: তাঁদের উপর নূর ছিল, পরে তা সরে গেল। আরেকটা মতও আনেন: একটা কাপড় ছিল, যা খসে পড়ল। শেষে বলেন, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Al-Qurtubi explains saw'at as 'awrat, the private parts, and says they are so named because showing them grieves their owner: yasu'u, from the same root. The verse, he adds, shows how ugly it is to uncover them. A little later the surah turns to every child of Adam and speaks of clothing sent down to conceal the same saw'at, and of a better garment still, the clothing of taqwa, in 7:26.",
+            "bn": "কুরতুবী সাওআতের অর্থ করেন আওরাত, অর্থাৎ লজ্জাস্থান। তাঁর কথায়, এ নাম এসেছে কারণ এগুলো প্রকাশ পেলে মালিক কষ্ট পায়: ইয়াসূউ, একই ধাতু থেকে। তিনি আরও বলেন, আয়াতটি দেখিয়ে দেয় এগুলো খুলে ফেলা কতটা কুৎসিত। একটু পরেই সূরাটি সব আদমসন্তানের দিকে ফেরে। ৭:২৬ আয়াতে বলে এমন পোশাকের কথা, যা ঢেকে রাখে সেই একই লজ্জাস্থান, আর তার চেয়েও উত্তম এক পোশাকের কথা: তাকওয়ার পোশাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angels, or Kings",
+          "bn": "ফেরেশতা, নাকি বাদশাহ"
+        },
+        "p": [
+          {
+            "en": "The common reading is malakayn, with the lam vowelled a: two angels. At-Tabari reports by two chains that Ibn 'Abbas and Yahya ibn Abi Kathir read malikayn, with the lam vowelled i: two kings. Ibn Kathir names the same two and says the majority read the a; al-Qurtubi adds ad-Dahhak to those who read the i. At-Tabari suggests where the reading came from: the two took it from 20:120, where the offer includes possession that will not deteriorate. The word there is mulk, kingship.",
+            "bn": "প্রচলিত পাঠ মালাকাইন, লামে যবর: দুই ফেরেশতা। তাবারী দুটি সনদে জানান, ইবন আব্বাস (রাঃ) আর ইয়াহইয়া ইবন আবী কাসীর পড়তেন মালিকাইন, লামে যের: দুই বাদশাহ। ইবন কাসীরও এ দুজনের নাম নেন এবং বলেন, অধিকাংশ পড়েন যবর দিয়ে। কুরতুবী যের-পাঠকারীদের মধ্যে দাহহাককেও যোগ করেন। পাঠটা কোথা থেকে এল, তাবারী তার আন্দাজ দেন: তাঁরা এটা নিয়েছিলেন ২০:১২০ আয়াত থেকে, যেখানে প্রস্তাবে ছিল এমন রাজত্ব, যা কখনো ক্ষয় হবে না। সেখানে শব্দটা মুলক, মানে রাজত্ব।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the argument around the minority reading. Abu 'Amr ibn al-'Ala rejected it: there had been no king before Adam, he said, that they should become kings. Ibn 'Abbas, as al-Qurtubi reports him, said the accursed came at them from the side of kingship, which is why he spoke of a kingship that will not decay. Abu 'Ubayd held that Yahya's argument from that verse was a clear proof, but said people had left the reading, so he left it too.",
+            "bn": "সংখ্যালঘু পাঠটি ঘিরে যে তর্ক, কুরতুবী তা এক জায়গায় জড়ো করেন। আবু আমর ইবনুল আলা পাঠটি মানেননি। তাঁর যুক্তি: আদমের আগে কোনো বাদশাহই ছিল না যে তাঁরা দুজন বাদশাহ হয়ে যাবেন। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন, অভিশপ্তটা তাঁদের কাছে এসেছিল রাজত্বের দিক দিয়ে, তাই সে অক্ষয় রাজত্বের কথা বলেছিল। আবু উবাইদের মতে ওই আয়াত থেকে ইয়াহইয়ার যুক্তি ছিল স্পষ্ট প্রমাণ। কিন্তু লোকেরা পাঠটা ছেড়ে দিয়েছে, তাই তিনিও ছেড়েছেন।"
+          },
+          {
+            "en": "An-Nahhas, in al-Qurtubi's report, called malikayn an irregular reading, and others objected to Abu 'Ubayd's remark as a gross error. Could Adam (AS) have imagined, they asked, that he would reach more than the kingdom of Paradise? On this view, a kingship that will not decay means staying in the kingdom of Paradise, forever. At-Tabari will not permit reciting anything but the a, because what is widely spread among the reciters of Islam is correct and may not be departed from.",
+            "bn": "কুরতুবীর বর্ণনায় নাহহাস মালিকাইনকে বলেছেন শায পাঠ, অর্থাৎ বিরল ও বিচ্ছিন্ন। আবু উবাইদের ওই মন্তব্যের প্রতিবাদও হয়েছে, কেউ কেউ একে গুরুতর ভুল বলেছেন। তাঁদের প্রশ্ন: আদম (আঃ) কি কল্পনা করতে পারেন যে জান্নাতের রাজত্বের চেয়েও বড় কিছু তিনি পাবেন,? এ মতে অক্ষয় রাজত্ব মানে জান্নাতের রাজত্বে চিরকাল থেকে যাওয়া। তাবারী যবর ছাড়া অন্য কোনোভাবে তিলাওয়াতের অনুমতি দেন না। তাঁর কারণ: মুসলিম কারীদের মধ্যে যে পাঠ ব্যাপকভাবে ছড়িয়ে আছে, সেটাই সঠিক, তার বাইরে যাওয়া চলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A La Left Unsaid",
+          "bn": "না-বলা একটি 'লা'"
+        },
+        "p": [
+          {
+            "en": "Read word by word, illa an takuna malakayn says except that you become angels. The commentators supply what is understood. At-Tabari says a la, not, has been dropped because the context points to it: only lest you become angels. He compares 4:176, where Allah makes things clear to you an tadillu, meaning lest you go astray. Ibn Kathir gives the same reading with the same verse and adds 16:15, mountains cast into the earth lest it shift with you.",
+            "bn": "শব্দ ধরে ধরে পড়লে ইল্লা আন তাকূনা মালাকাইন মানে দাঁড়ায়, তোমরা ফেরেশতা হয়ে যাবে এ ছাড়া। তাফসীরকারেরা তাই উহ্য অংশটা জুড়ে দেন। তাবারী বলেন, এখানে একটা 'লা', মানে না, বাদ পড়েছে, কারণ প্রসঙ্গই তা বুঝিয়ে দেয়: শুধু এ জন্য, যাতে তোমরা ফেরেশতা না হও। তুলনা দেন ৪:১৭৬ আয়াতের, যেখানে আল্লাহ তোমাদের জন্য স্পষ্ট করে দেন আন তাদিল্লূ, মানে যাতে তোমরা পথ না হারাও। ইবন কাসীর একই ব্যাখ্যা দেন একই আয়াত দিয়ে, সঙ্গে যোগ করেন ১৬:১৫ আয়াত: পৃথিবীতে পাহাড় গেঁথে দেওয়া হয়েছে, যাতে তা তোমাদের নিয়ে হেলে না পড়ে।"
+          },
+          {
+            "en": "At-Tabari also reports a Basran grammarian who read it as karahiyata an, out of dislike that you become angels. Al-Qurtubi sorts them by school: the Basrans supply dislike, the Kufans supply lest. Al-Baghawi joins them: lest you become, out of dislike that you become angels who know good and evil. Al-Muyassar states the claim plainly: He forbade it only so that you would not become angels and not be among those who live on forever.",
+            "bn": "তাবারী বসরার এক ব্যাকরণবিদের মতও আনেন। তিনি পড়েছেন কারাহিয়াতা আন: তোমরা ফেরেশতা হয়ে যাবে, এটা অপছন্দ করে। কুরতুবী ব্যাখ্যাগুলোকে ঘরানা ধরে ভাগ করেন: বসরার লোকেরা ধরে নেন অপছন্দ, কূফার লোকেরা ধরে নেন 'যাতে না'। বাগাভী দুটোকে মেলান: যাতে তোমরা না হও, তোমরা ভালো-মন্দ জানা ফেরেশতা হয়ে যাবে, তা অপছন্দ করে। মুয়াসসার দাবিটা সাদা কথায় বলে: তিনি নিষেধ করেছেন শুধু এ জন্য, যাতে তোমরা ফেরেশতা না হও আর চিরজীবীদের দলে না পড়ো।"
+          },
+          {
+            "en": "Then the second bait, min al-khalidin, among the immortals. At-Tabari explains it as those who abide in the Garden forever, so that you would not die; al-Baghawi as those who remain and do not die. Al-Qurtubi records, under it was said, that Adam desired immortality because he knew the angels do not die until the Day of Resurrection. As-Sa'di, al-Baghawi and Ibn Kathir all set 20:120 beside this verse, where the same offer comes as the tree of eternity.",
+            "bn": "এরপর দ্বিতীয় টোপ, মিনাল খালিদীন, চিরজীবীদের অন্তর্ভুক্ত। তাবারীর ব্যাখ্যায় এর মানে জান্নাতে চিরকাল থেকে যাওয়া, যাতে তোমাদের মৃত্যু না হয়। বাগাভীর ব্যাখ্যায়, যারা টিকে থাকে, যাদের মৃত্যু নেই। কুরতুবী 'বলা হয়' দিয়ে একটি মত আনেন: আদম চিরস্থায়িত্ব চেয়েছিলেন, কারণ তিনি জানতেন ফেরেশতারা কিয়ামত পর্যন্ত মরে না। সা'দী, বাগাভী আর ইবন কাসীর সবাই এ আয়াতের পাশে রাখেন ২০:১২০ আয়াত, যেখানে একই প্রস্তাব আসে অন্য শব্দে: চিরস্থায়ী জীবনের গাছ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Are the Angels Higher?",
+          "bn": "ফেরেশতারা কি উঁচুতে?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi uses the verse to open an old question. An-Nahhas, he reports, held that Allah showed the superiority of the angels over all creation in more than one place in the Qur'an: here, in except that you become angels; in I do not say that I am an angel, in 11:31; and in nor would the angels near to Him, in 4:172. Al-Hasan said Allah favoured the angels with their forms, their wings and their honour.",
+            "bn": "আয়াতটি ধরে কুরতুবী একটা পুরোনো প্রশ্ন তোলেন। তাঁর বর্ণনায় নাহহাসের মত: আল্লাহ কুরআনের একাধিক জায়গায় সব সৃষ্টির উপর ফেরেশতাদের শ্রেষ্ঠত্ব দেখিয়েছেন। একটি এখানে, 'তোমরা ফেরেশতা হয়ে যাবে' কথায়। আরেকটি ১১:৩১ আয়াতে, 'আমি বলি না যে আমি ফেরেশতা'। আরেকটি ৪:১৭২ আয়াতে, 'নিকটবর্তী ফেরেশতারাও না'। হাসান বলেছেন, আল্লাহ ফেরেশতাদের মর্যাদা দিয়েছেন তাদের আকৃতি, ডানা আর সম্মান দিয়ে।"
+          },
+          {
+            "en": "Others weighed it the other way. Ibn Furak said the verse is no proof, since it may mean angels in having no appetite for food. Al-Qurtubi reports that Ibn 'Abbas, az-Zajjaj and many scholars preferred the believers over the angels, and that al-Kalbi held the believers above all creatures except a group of angels, Jibril, Mika'il, Israfil and the angel of death. Each party, al-Qurtubi concludes, holds to outward texts of the Shari'ah, and favour is in Allah's hand.",
+            "bn": "অন্যরা পাল্লাটা উল্টো দিকে ভারী দেখেছেন। ইবন ফূরাকের মতে আয়াতটি কোনো প্রমাণই নয়, কারণ এর মানে হতে পারে খাবারের চাহিদা না থাকার দিক থেকে ফেরেশতার মতো হওয়া। কুরতুবী জানান, ইবন আব্বাস (রাঃ), যাজ্জাজ এবং বহু আলেম মুমিনদের ফেরেশতাদের চেয়ে শ্রেষ্ঠ মনে করতেন। কালবীর মতে মুমিনরা সব সৃষ্টির উপরে, শুধু এক দল ফেরেশতা ছাড়া: জিবরীল, মীকাঈল, ইসরাফীল ও মৃত্যুর ফেরেশতা। কুরতুবীর শেষ কথা: প্রত্যেক দল শরীয়তের বাহ্যিক বক্তব্য আঁকড়ে আছে, আর শ্রেষ্ঠত্ব আল্লাহরই হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thoughts Not Yet Deeds",
+          "bn": "ভাবনা, যা কাজে গড়ায়নি"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none reports an occasion of revelation. Two sound narrations speak to whispering in general; neither is about this verse. Al-Bukhari relates from Abu Hurayrah (RA) that the Prophet ﷺ said: Allah has forgiven my followers the evil thoughts that occur to their minds, as long as such thoughts are not put into action or uttered.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জোড়েনি, নাযিলের কোনো প্রেক্ষাপটও জানায়নি। কুমন্ত্রণা নিয়ে সাধারণভাবে দুটি সহীহ বর্ণনা আছে, তবে কোনোটিই এ আয়াত প্রসঙ্গে নয়। বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আল্লাহ আমার উম্মতের মনে উদয় হওয়া মন্দ ভাবনা মাফ করে দিয়েছেন, যতক্ষণ না সে ভাবনা কাজে পরিণত হয় বা মুখে উচ্চারিত হয়।"
+          },
+          {
+            "en": "In a second report, al-Bukhari relates that Safiyyah, the wife of the Prophet ﷺ, visited him while he was in i'tikaf in the mosque in the last ten days of Ramadan. He walked her to the door, and two men of the Ansar passed. He told them she was Safiyyah bint Huyayy, and when they exclaimed at the very thought, he said: Satan reaches everywhere in the human body as blood reaches in it, and I was afraid lest Satan might insert an evil thought in your minds.",
+            "bn": "দ্বিতীয় বর্ণনায় বুখারী জানান, নবী ﷺ রমযানের শেষ দশটি দিনে মসজিদে ইতিকাফে ছিলেন। তাঁর স্ত্রী সাফিয়্যা (রাঃ) তাঁকে দেখতে আসেন। ফেরার সময় তিনি তাঁকে এগিয়ে দিতে দরজা পর্যন্ত যান। তখন দুজন আনসারী সাহাবী পাশ দিয়ে যাচ্ছিলেন। তিনি তাঁদের বললেন, ইনি সাফিয়্যা বিনতে হুয়াই। তাঁরা এমন সন্দেহের কথা ভেবেই চমকে উঠলেন। তখন তিনি বললেন: শয়তান মানুষের শরীরের সর্বত্র পৌঁছে যায়, যেমন রক্ত পৌঁছে যায়। আমার ভয় হচ্ছিল, শয়তান তোমাদের মনে কোনো মন্দ ভাবনা ঢুকিয়ে দেয় কি না।"
+          },
+          {
+            "en": "Set beside 7:20, the two narrations draw a line the verse leaves for what follows. The whisper reaches deep, as the second report says; here it reached two people in the Garden itself. A thought that arrives is not yet a deed, as the first says; in the story the whisper became an act only at the tasting, in 7:22.",
+            "bn": "৭:২০ আয়াতের পাশে রাখলে বর্ণনা দুটি একটা সীমারেখা টেনে দেয়, যা আয়াত পরের অংশের জন্য রেখে দিয়েছে। দ্বিতীয় বর্ণনা বলে, কুমন্ত্রণা অনেক গভীরে পৌঁছায়। এখানে তা পৌঁছেছিল খোদ জান্নাতের ভেতরে দুজন মানুষের কাছে। প্রথম বর্ণনা বলে, মনে আসা ভাবনা তখনো কাজ নয়। কাহিনিতেও কুমন্ত্রণা কাজে গড়িয়েছে কেবল স্বাদ নেওয়ার মুহূর্তে, ৭:২২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Limit Renamed a Loss",
+          "bn": "সীমাকে লোকসান বলে চালানো"
+        },
+        "p": [
+          {
+            "en": "Look at how the sentence is built. Satan does not deny that the tree was forbidden, and he does not tell them to disobey. He supplies a reason for the prohibition that turns it inside out: the limit becomes a withholding, and the Lord who gave them the whole Garden becomes a Lord keeping the best back. And the endless life he dangled was, in the reading al-Qurtubi records, no more than staying where they already were.",
+            "bn": "বাক্যটা কীভাবে সাজানো, খেয়াল করুন। শয়তান অস্বীকার করছে না যে গাছটা নিষিদ্ধ, নাফরমানি করতেও সরাসরি বলছে না। সে নিষেধের এমন এক কারণ বানিয়ে দেয়, যাতে পুরো ব্যাপারটাই উল্টে যায়। সীমা হয়ে যায় বঞ্চনা। যে রব তাঁদের গোটা জান্নাত দিয়েছেন, তিনি হয়ে যান সেরা জিনিসটা আটকে রাখা কেউ। আর কুরতুবী যে মত উদ্ধৃত করেন, সে অনুযায়ী যে চিরজীবনের লোভ দেখানো হয়েছিল, তা আসলে যেখানে তাঁরা আগে থেকেই ছিলেন, সেখানেই থেকে যাওয়া।"
+          },
+          {
+            "en": "That shape has not aged. A whisper today rarely argues that a sin is good. It suggests that the prohibition is a loss, and that the line is there to keep you small. Ibn Kathir, on the oath in 7:21, offers a quiet comfort: a believer in Allah may sometimes be taken in by deceit. What 7:23 then shows is what Adam (AS) and his wife did next, and that answer stays open to everyone after them.",
+            "bn": "এই ছাঁচ আজও পুরোনো হয়নি। আজকের কুমন্ত্রণাও খুব কমই বলে যে গুনাহটা ভালো। সে বরং বোঝায়, নিষেধ মানেই লোকসান, আর রেখাটা টানা হয়েছে আপনাকে ছোট করে রাখতে। ৭:২১ আয়াতের কসম প্রসঙ্গে ইবন কাসীরের একটা কথা মনে সান্ত্বনা দেয়: আল্লাহর উপর ঈমান রাখা মানুষও কখনো কখনো ধোঁকার শিকার হয়। এরপর আদম (আঃ) ও তাঁর স্ত্রী কী করলেন, তা দেখায় ৭:২৩ আয়াত। সেই পথ তাঁদের পরের সবার জন্য খোলা।"
+          },
+          {
+            "en": "This verse describes what Satan said and did to the first two people, in the Garden. It licenses nothing against any living person. It gives no ground for blaming women through Hawwa', whom it addresses exactly as it addresses Adam, and no ground for treating anyone who has slipped as Satan's own. The Qur'an's own words for what followed, in 20:121, are taken up in the article on 7:23. The work left for the reader is smaller: name the voice, refuse its reframing, and keep to the limit.",
+            "bn": "এ আয়াত বর্ণনা করে, জান্নাতে প্রথম দুজন মানুষের সঙ্গে শয়তান কী বলেছিল আর কী করেছিল। কোনো জীবিত মানুষের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। হাওয়াকে টেনে এনে নারীদের দোষী করারও কোনো ভিত্তি নেই, কারণ আয়াত তাঁকে ঠিক সেভাবেই সম্বোধন করেছে, যেভাবে আদমকে। যে একবার পা ফসকেছে, তাকে শয়তানের লোক ধরে নেওয়ারও ভিত্তি নেই। এরপর যা ঘটেছিল, সে বিষয়ে কুরআনের নিজের ভাষা আছে ২০:১২১ আয়াতে, তার আলোচনা ৭:২৩ আয়াতের প্রবন্ধে। পাঠকের কাজটা ছোট: কণ্ঠটা চিনে নেওয়া, তার উল্টো ব্যাখ্যা ফিরিয়ে দেওয়া, আর সীমার ভেতরে থাকা।"
+          }
+        ]
+      }
+    ]
+  },
   "7:23": {
     "sections": [
       {
