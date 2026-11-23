@@ -599,6 +599,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Broken Covenants",
+          "bn": "ভাঙা অঙ্গীকারের পরে"
+        },
+        "p": [
+          {
+            "en": "The verse stands in a sequence. 5:12 recalls the covenant taken from the Children of Israel, 5:13 its breaking, and 5:14 the covenant of those who said, we are Christians, who forgot a portion of what they were reminded of. As-Sa'di reads 5:17 from there: having told of the covenant taken from both peoples of the Book, and that they broke it, Allah now mentions their grievous sayings, beginning with the Christians' saying about the Messiah.",
+            "bn": "আয়াতটি একটি ধারাবাহিকতার ভেতরে দাঁড়িয়ে। ৫:১২ বানী ইসরাঈলের কাছ থেকে নেওয়া অঙ্গীকারের কথা মনে করায়, ৫:১৩ বলে তা ভাঙার কথা, আর ৫:১৪ বলে তাদের অঙ্গীকারের কথা যারা বলেছিল, আমরা নাসারা, অথচ যা স্মরণ করানো হয়েছিল তার একটি অংশ তারা ভুলে গিয়েছিল। সা'দী ৫:১৭ পড়েন সেখান থেকেই। দুই আহলে কিতাবের কাছ থেকে নেওয়া অঙ্গীকার আর তা ভেঙে ফেলার কথা বলার পর আল্লাহ এখন তাদের গুরুতর কথাগুলো উল্লেখ করছেন, শুরু করছেন মাসীহ সম্পর্কে নাসারাদের কথা দিয়ে।"
+          },
+          {
+            "en": "Between the covenants and this verse come 5:15 and 5:16: a messenger has come with a light and a clear Book, by which Allah guides whoever follows His pleasure to subul as-salam, the ways of peace. At-Tabari uses that very phrase in his opening. He calls 5:17 a censure from Allah of the Christians who strayed from the ways of peace, and an argument He gives His Prophet ﷺ against their claim that He has a son. 5:18 then answers a second claim, that both peoples are the children of Allah and His beloved.",
+            "bn": "অঙ্গীকারগুলোর পর আর এই আয়াতের আগে আছে ৫:১৫ ও ৫:১৬। একজন রসূল এসেছেন এক নূর আর স্পষ্ট কিতাব নিয়ে, যা দিয়ে আল্লাহ তাঁর সন্তুষ্টির অনুসারীদের সুবুলুস সালাম, শান্তির পথগুলোতে পরিচালিত করেন। তাবারী তাঁর আলোচনার শুরুতেই এই শব্দটি ব্যবহার করেন। তাঁর ভাষায় ৫:১৭ হলো শান্তির পথ থেকে বিচ্যুত নাসারাদের প্রতি আল্লাহর নিন্দা, আর আল্লাহর সন্তান আছে বলে তাদের দাবির বিরুদ্ধে তাঁর নবী ﷺ-এর হাতে দেওয়া এক যুক্তি। এরপর ৫:১৮ জবাব দেয় দ্বিতীয় এক দাবির, যে দুই সম্প্রদায়ই নাকি আল্লাহর সন্তান ও তাঁর প্রিয়পাত্র।"
+          },
+          {
+            "en": "The surah returns to the same opening at 5:72 and answers it there with the Messiah's own words, my Lord and your Lord; 5:73 takes up the saying that Allah is the third of three. Those verses are only pointed to here. What belongs to 5:17 is the form of its answer: no quotation from the Messiah, but a question about power, then who owns the heavens and the earth, then that He creates what He wills.",
+            "bn": "সূরাটি ৫:৭২ আয়াতে আবার একই সূচনায় ফিরে আসে এবং সেখানে জবাব দেয় মাসীহের নিজের কথা দিয়ে: আমার রব ও তোমাদের রব। ৫:৭৩ আয়াত আলোচনা করে আল্লাহকে তিনজনের তৃতীয়জন বলার কথা। ওই আয়াতগুলোর দিকে এখানে শুধু ইঙ্গিত করা হলো। ৫:১৭-এর নিজস্ব বিষয় তার জবাবের ধরন: মাসীহের কোনো উক্তি নয়, বরং ক্ষমতা নিয়ে একটি প্রশ্ন, তারপর আসমান ও জমিনের মালিক কে, তারপর তিনি যা ইচ্ছা সৃষ্টি করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Saying Held as Creed",
+          "bn": "বিশ্বাস হিসেবে ধরা উক্তি"
+        },
+        "p": [
+          {
+            "en": "Laqad kafara alladhina qalu inna Allaha huwa al-Masihu ibnu Maryam: they have certainly disbelieved who say that Allah is the Messiah, son of Maryam. At-Tabari reads laqad as carrying an oath: I swear, they have disbelieved. Their kufr, he says, was a covering of the truth: refusing to deny that Allah has a son, and claiming that the Messiah is Allah, a fabrication and a lie against Him.",
+            "bn": "লাকাদ কাফারাল্লাযীনা কালূ ইন্নাল্লাহা হুওয়াল মাসীহুবনু মারইয়াম: তারা অবশ্যই কুফরী করেছে যারা বলে, আল্লাহই মাসীহ ইবনে মারইয়াম। তাবারী লাকাদ শব্দে একটি শপথের অর্থ পড়েন: আমি শপথ করে বলছি, তারা কুফরী করেছে। তিনি বলেন, তাদের কুফর হলো সত্যকে ঢেকে রাখা: আল্লাহর সন্তান থাকার কথা অস্বীকার না করা, আর মাসীহকেই আল্লাহ বলে দাবি করা, যা আল্লাহর বিরুদ্ধে এক মনগড়া কথা ও মিথ্যা।"
+          },
+          {
+            "en": "Al-Qurtubi points back to the end of an-Nisa for the substance, and adds a precise limit. The disbelief named here lies in saying that Allah is the Messiah as one's religion. Had they said the same words as a report, rejecting them, they would not have disbelieved. The distinction matters for every reader: to recite a claim in order to answer it, as the Qur'an does here, is not to make it.",
+            "bn": "মূল আলোচনার জন্য কুরতুবী সূরা নিসার শেষাংশের দিকে ইঙ্গিত করেন, তারপর একটি সূক্ষ্ম সীমা টেনে দেন। এখানে যে কুফরের কথা বলা হয়েছে, তা হলো আল্লাহই মাসীহ, এ কথা নিজের দ্বীন হিসেবে বিশ্বাস করে বলা। একই কথা যদি তারা অন্যের উক্তি হিসেবে উল্লেখ করত, আর তা প্রত্যাখ্যান করত, তবে তারা কুফরী করত না। প্রত্যেক পাঠকের জন্য এই পার্থক্য জরুরি: জবাব দেওয়ার জন্য কোনো দাবি উল্লেখ করা, যেমন কুরআন এখানে করছে, সেই দাবি করা নয়।"
+          },
+          {
+            "en": "Whose saying was it? Al-Baghawi identifies those meant as one particular group among the Christians, who said that the Messiah is Allah. Ma'arif al-Qur'an likewise says the verse refutes only one saying, the belief of one group among them, and then observes that the argument used reaches further. It answers every claim that sets anyone beside Allah, whether as a son or as one of three. The verse names a single sentence, but its reasoning is general.",
+            "bn": "কথাটি কাদের ছিল? বাগাভী বলেন, এখানে উদ্দেশ্য নাসারাদের মধ্যকার একটি নির্দিষ্ট দল, যারা বলত মাসীহই আল্লাহ। মাআরিফুল কুরআনও বলে, আয়াতটি কেবল একটি উক্তি খণ্ডন করছে, যা তাদের একটি দলের বিশ্বাস। তারপর লক্ষ করে যে, খণ্ডনে ব্যবহৃত যুক্তিটি এর চেয়ে অনেক দূর পর্যন্ত পৌঁছায়। আল্লাহর পাশে যে-কাউকে দাঁড় করানোর প্রতিটি দাবির জবাব এতে আছে, তা সন্তান হিসেবে হোক বা তিনজনের একজন হিসেবে। আয়াতটি একটি বাক্যের নাম নেয়, কিন্তু তার যুক্তি সর্বব্যাপী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Holds Anything Against Him",
+          "bn": "তাঁর বিপরীতে কার কী ক্ষমতা"
+        },
+        "p": [
+          {
+            "en": "Qul fa-man yamliku mina Allahi shay'an: say, then who has any power at all against Allah? At-Tabari spells out the address: say, O Muhammad, to the Christians who fabricated against Me. Yamliku normally means to own, but at-Tabari and al-Qurtubi both explain it through an Arab idiom, malaktu 'ala fulanin amrahu, I came to control so-and-so's affair; at-Tabari glosses it as a state in which the other can carry out nothing except through you.",
+            "bn": "কুল ফামাই ইয়ামলিকু মিনাল্লাহি শাইআ: বলো, তাহলে আল্লাহর বিপরীতে কার এতটুকু ক্ষমতা আছে? তাবারী সম্বোধনটা খুলে বলেন: হে মুহাম্মাদ, যে নাসারারা আমার বিরুদ্ধে মিথ্যা রটিয়েছে, তাদের বলো। ইয়ামলিকু শব্দের সাধারণ অর্থ মালিক হওয়া, কিন্তু তাবারী ও কুরতুবী দুজনেই একে ব্যাখ্যা করেন আরবদের একটি বাগধারা দিয়ে: মালাকতু আলা ফুলানিন আমরাহু, অমুকের ব্যাপার আমার নিয়ন্ত্রণে এসেছে। তাবারীর ব্যাখ্যায়, এমন অবস্থা যেখানে অন্যজন তোমাকে ছাড়া কোনো কাজই সম্পন্ন করতে পারে না।"
+          },
+          {
+            "en": "So the question is not who owns property beside Allah. Al-Qurtubi says yamliku here means yaqdiru, to be able: who is able to prevent any of that? At-Tabari: who can repel anything of Allah's command, and turn it back once He has decreed it? Al-Baghawi gives nearly the same words. Ibn Kathir asks: if He willed it, who could stop Him, or turn Him away from it?",
+            "bn": "অতএব প্রশ্নটি এ নয় যে আল্লাহর পাশাপাশি সম্পদের মালিক কে। কুরতুবী বলেন, এখানে ইয়ামলিকু মানে ইয়াকদিরু, সক্ষম হওয়া: এর কোনো কিছু ঠেকাতে কে সক্ষম? তাবারীর ভাষায়: আল্লাহর আদেশের কোনো কিছু কে প্রতিহত করতে পারে, আর তিনি ফয়সালা করে ফেলার পর তা ফিরিয়ে দিতে পারে? বাগাভীও প্রায় একই শব্দ ব্যবহার করেন। ইবন কাসীর প্রশ্ন করেন: তিনি যদি তা চাইতেন, কে তাঁকে থামাত, কিংবা কে তাঁকে তা থেকে ফেরাতে পারত?"
+          },
+          {
+            "en": "Shay'an, anything at all: not a great power, not even the smallest share. The rest of the clause names the case: in arada an yuhlika al-Masiha ibna Maryama wa ummahu wa man fi al-ardi jami'an, if He intended to destroy the Messiah, son of Maryam, and his mother, and everyone on earth. Ibn Kathir introduces it as Allah telling of His power over all things, all of them under His subjugation and authority.",
+            "bn": "শাইআন, কোনো কিছু: বড় কোনো ক্ষমতা তো নয়ই, সামান্যতম অংশও নয়। বাক্যের বাকি অংশ ঘটনাটা স্পষ্ট করে: ইন আরাদা আই ইউহলিকাল মাসীহাবনা মারইয়ামা ওয়া উম্মাহু ওয়া মান ফিল আরদি জামীআ, যদি তিনি মাসীহ ইবনে মারইয়াম, তাঁর মা আর পৃথিবীর সবাইকে ধ্বংস করতে চান। ইবন কাসীর এর ভূমিকায় বলেন, আল্লাহ এখানে সব কিছুর ওপর তাঁর ক্ষমতার কথা জানাচ্ছেন, আর সব কিছু তাঁর প্রবল কর্তৃত্ব ও শাসনের অধীন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Mother, Already Taken",
+          "bn": "তাঁর মা, যিনি আগেই চলে গেছেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari turns the condition into an argument. Say to them: if the Messiah were as you claim, Allah, he would have been able to turn back Allah's command when it came to destroy him and his mother. Then he adds the fact that settles it. Allah has already caused his mother to die, and he could not repel His command concerning her when it came down. In that, at-Tabari says, is a lesson for you if you will take it, and a proof against you if you reason.",
+            "bn": "তাবারী শর্তবাক্যটিকে একটি যুক্তিতে রূপ দেন। তাদের বলো: মাসীহ যদি তোমাদের দাবি অনুযায়ী আল্লাহ হতেন, তবে তাঁকে আর তাঁর মাকে ধ্বংস করার আল্লাহর আদেশ যখন আসত, তিনি তা ফিরিয়ে দিতে পারতেন। তারপর তিনি সেই বাস্তবতা যোগ করেন যা বিষয়টির নিষ্পত্তি করে দেয়। আল্লাহ তো তাঁর মাকে আগেই মৃত্যু দিয়েছেন, আর সেই আদেশ যখন নেমে এসেছিল, তিনি তা প্রতিহত করতে পারেননি। তাবারী বলেন, তোমরা যদি শিক্ষা নাও তবে এতে তোমাদের জন্য শিক্ষা আছে, আর যদি বুদ্ধি খাটাও তবে এতে তোমাদের বিরুদ্ধে প্রমাণ আছে।"
+          },
+          {
+            "en": "From this he concludes that the Messiah was a human being like the rest of the children of Adam, and that Allah is the One whose command is not turned back, the Ever-Living who gives life and death and does not die. Al-Qurtubi argues the same way: had the Messiah been a god he could have repelled what befell him or another, yet his mother died and he could not keep death from her. Al-Muyassar adds that both were servants of Allah, unable to keep destruction from themselves.",
+            "bn": "এ থেকে তিনি সিদ্ধান্তে পৌঁছান যে মাসীহ ছিলেন আদম সন্তানদের মতোই একজন মানুষ, আর আল্লাহ সেই সত্তা যাঁর আদেশ ফেরানো যায় না, যিনি চিরঞ্জীব, জীবন দেন ও মৃত্যু দেন, আর নিজে কখনো মরেন না। কুরতুবীও একই পথে যুক্তি দেন: মাসীহ উপাস্য হলে নিজের বা অন্যের ওপর যা আসে তা ঠেকাতে পারতেন, অথচ তাঁর মা মারা গেছেন আর তিনি তাঁর থেকে মৃত্যু ঠেকাতে পারেননি। মুয়াসসার যোগ করে, তাঁরা দুজনেই ছিলেন আল্লাহর বান্দা, নিজেদের থেকে ধ্বংস ঠেকানোর ক্ষমতা তাঁদের ছিল না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notices a difficulty: the verse speaks of the mother's destruction as a supposition, though Maryam had died before the revelation. It offers two explanations. The supposition was really about the Messiah, and his mother was named with him as part of one subject. Or the sense is: as death has taken Maryam, Allah can bring it on the Messiah and all creation too. For at-Tabari, al-Qurtubi and al-Muyassar alike, that death, already past, gives the condition its force.",
+            "bn": "মাআরিফুল কুরআন একটি জটিলতার দিকে নজর দেয়: আয়াতটি মায়ের ধ্বংসের কথা বলছে অনুমান হিসেবে, অথচ অবতরণের আগেই মারইয়াম ইন্তিকাল করেছিলেন। এর দুটি ব্যাখ্যা দেওয়া হয়। এক, অনুমানটি মূলত মাসীহকে নিয়ে, আর তাঁর মায়ের উল্লেখ এসেছে একই বিষয়ের অংশ হিসেবে। দুই, অর্থটা এরকম: মৃত্যু যেভাবে মারইয়ামকে নিয়ে গেছে, সেভাবে মাসীহ ও সমস্ত সৃষ্টির ওপরও আল্লাহ তা আনতে পারেন। তাবারী, কুরতুবী ও মুয়াসসার তিনজনের কাছেই আগে ঘটে যাওয়া সেই মৃত্যুই শর্তবাক্যটিকে তার জোর দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Name the Mother",
+          "bn": "মায়ের নাম কেন এল"
+        },
+        "p": [
+          {
+            "en": "Why name the mother at all? Ma'arif al-Qur'an gives two considerations. The first is the Messiah's humility before Allah: he could never think of saving himself against Allah's will, nor his mother, whose care a good son holds dearer than his own life. The second is that naming her also answers a view that counted Maryam herself among three gods.",
+            "bn": "মায়ের নাম আদৌ কেন আনা হলো? মাআরিফুল কুরআন দুটি বিবেচনার কথা বলে। প্রথমটি আল্লাহর সামনে মাসীহের বিনয়। আল্লাহর ইচ্ছার বিপরীতে নিজেকে বাঁচানোর কথা তিনি কখনো ভাবতেও পারতেন না, নিজের মাকেও নয়, অথচ একজন ভালো সন্তানের কাছে মায়ের সেবাযত্ন নিজের জীবনের চেয়েও প্রিয়। দ্বিতীয়টি হলো, তাঁর নাম উল্লেখ করায় সেই মতেরও জবাব হয়ে যায়, যা মারইয়ামকেও তিনজন উপাস্যের একজন গণ্য করত।"
+          },
+          {
+            "en": "Then the circle widens to wa man fi al-ardi jami'an, and everyone on earth. At-Tabari explains the destruction as removing the Messiah from the earth, removing his mother Maryam, and removing every creature on earth together. Placing the Messiah inside that list is itself the answer. He is counted with his mother and with all the people of the earth, among those whose existence Allah can end, and not with Him who ends it.",
+            "bn": "তারপর বৃত্তটা বড় হয়: ওয়া মান ফিল আরদি জামীআ, আর পৃথিবীর সবাইকে। তাবারী ধ্বংসের ব্যাখ্যা দেন এভাবে: পৃথিবী থেকে মাসীহকে বিলুপ্ত করা, তাঁর মা মারইয়ামকে বিলুপ্ত করা, আর পৃথিবীর সব সৃষ্টিকে একসঙ্গে বিলুপ্ত করা। মাসীহকে এই তালিকার ভেতরে রাখাটাই জবাব। তাঁকে গণনা করা হয়েছে তাঁর মায়ের সঙ্গে, পৃথিবীর সব মানুষের সঙ্গে, তাদের মধ্যে যাদের অস্তিত্ব আল্লাহ শেষ করে দিতে পারেন। যিনি শেষ করেন, তাঁর সঙ্গে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owned, Bounded, and Called God",
+          "bn": "মালিকানাধীন, সীমিত, তবু উপাস্য?"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di calls what follows clear proofs of reason. If those named have nothing to shield them should Allah will to destroy them, the divinity of one who cannot shield himself from destruction is void. Then wa lillahi mulku as-samawati wa al-ardi wa ma baynahuma: to Allah alone belongs the dominion. He disposes of all within it by His rulings in creation, in law and in recompense, and they are owned and managed.",
+            "bn": "এরপর যা আসে, সা'দী তাকে বলেন বুদ্ধির স্পষ্ট প্রমাণ। আল্লাহ উল্লিখিত ব্যক্তিদের ধ্বংস করতে চাইলে যদি তাঁদের কাছে ঠেকানোর কোনো ঢাল না থাকে, তবে যে নিজেকে ধ্বংস থেকে বাঁচাতে পারে না, তার উপাস্য হওয়ার দাবি বাতিল। তারপর আসে ওয়া লিল্লাহি মুলকুস সামাওয়াতি ওয়াল আরদি ওয়া মা বাইনাহুমা: সার্বভৌমত্ব একমাত্র আল্লাহর। সৃষ্টিগত, শরীয়তগত ও প্রতিদানগত বিধান দিয়ে তিনি এর সব কিছু পরিচালনা করেন, আর সবাই তাঁর মালিকানাধীন ও তাঁর পরিচালনার অধীন।"
+          },
+          {
+            "en": "So as-Sa'di asks: is it fitting that the owned servant, poor in need, should be a god worshipped, free of need in every respect? That, he says, is among the greatest impossibilities. At-Tabari asks it in Allah's voice: how can someone be a god who cannot repel the harm another intends for him? Ibn Kathir adds that all that exists is His property and creation, and that He is not asked about what He does, because of His power and authority, justice and greatness.",
+            "bn": "তাই সা'দী প্রশ্ন করেন: যে মালিকানাধীন বান্দা, যে নিজেই মুখাপেক্ষী, সে কি সব দিক থেকে অমুখাপেক্ষী এক উপাস্য হতে পারে? তাঁর মতে এটি সবচেয়ে বড় অসম্ভবগুলোর একটি। তাবারী প্রশ্নটি রাখেন আল্লাহর জবানিতে: অন্য কেউ যার অনিষ্ট চায়, তা ঠেকাতে যে অক্ষম, সে কীভাবে উপাস্য হতে পারে? ইবন কাসীর যোগ করেন, যা কিছু অস্তিত্বে আছে সবই তাঁর মালিকানা ও সৃষ্টি, আর তিনি যা করেন সে বিষয়ে তাঁকে প্রশ্ন করা হয় না, তাঁর ক্ষমতা ও কর্তৃত্ব, ন্যায় ও মহত্ত্বের কারণে।"
+          },
+          {
+            "en": "Wa ma baynahuma, and what is between them, uses a dual pronoun after the plural heavens. At-Tabari and al-Qurtubi both explain that the two kinds are meant, the heavens and the earth, and both cite a line of the poet ar-Ra'i for the same usage. Al-Qurtubi then draws a point from it: the Messiah and his mother are between them, created, limited, enclosed, and whatever a limit and an end surround is not fit for divinity.",
+            "bn": "ওয়া মা বাইনাহুমা, আর এদের দুয়ের মাঝে যা আছে: বহুবচন আসমানের পরে এখানে দ্বিবচনের সর্বনাম এসেছে। তাবারী ও কুরতুবী দুজনেই ব্যাখ্যা দেন, উদ্দেশ্য দুটি শ্রেণি, আসমান ও জমিন, আর এমন ব্যবহারের প্রমাণ হিসেবে দুজনেই কবি রাঈর একটি পঙক্তি উদ্ধৃত করেন। কুরতুবী এ থেকে একটি কথা বের করেন: মাসীহ ও তাঁর মা এদের দুয়ের মাঝেই আছেন, সৃষ্ট, সীমিত, পরিবেষ্টিত। আর যাকে সীমা ও শেষ ঘিরে রাখে, সে উপাস্য হওয়ার যোগ্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Birth That Proves Power",
+          "bn": "যে জন্ম ক্ষমতার প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "Yakhluqu ma yasha': He creates what He wills. As-Sa'di names the doubt this answers. The ground of their claim was that the Messiah was born without a father. Yet Hawwa was created without a mother, and Adam, with greater reason, without father or mother. Why then did they not claim divinity for those two as they claimed it for the Messiah? That, he says, shows the claim follows desire, without proof and without even a real doubt to stand on.",
+            "bn": "ইয়াখলুকু মা ইয়াশা: তিনি যা ইচ্ছা সৃষ্টি করেন। এটি কোন সংশয়ের জবাব, সা'দী তা স্পষ্ট করেন। তাদের দাবির ভিত্তি ছিল, মাসীহ জন্মেছেন বাবা ছাড়া। অথচ হাওয়াকে সৃষ্টি করা হয়েছে মা ছাড়া, আর আদম, যিনি এ বিষয়ে আরও অগ্রগণ্য, সৃষ্টি হয়েছেন বাবা-মা দুজন ছাড়াই। তাহলে মাসীহের ক্ষেত্রে যেমন উপাস্য হওয়ার দাবি করা হলো, এ দুজনের ক্ষেত্রে কেন করা হলো না? তিনি বলেন, এ থেকেই বোঝা যায় দাবিটি প্রবৃত্তির অনুসরণ, এর পেছনে কোনো প্রমাণ নেই, দাঁড়ানোর মতো কোনো সংশয়ও নেই।"
+          },
+          {
+            "en": "He then sets out four ways of creation under one will: from a father and a mother, like the rest of Adam's children; from a father without a mother, like Hawwa; from a mother without a father, like 'Isa; and from neither, like Adam. Al-Qurtubi says the same in a single line: 'Isa from a mother without a father, a sign for His servants. Ma'arif al-Qur'an points to 3:59, where the case of 'Isa before Allah is likened to that of Adam.",
+            "bn": "তারপর তিনি সৃষ্টির চারটি ধরন তুলে ধরেন, সবই একই ইচ্ছার অধীন: বাবা ও মা থেকে, অন্য আদম সন্তানদের মতো; মা ছাড়া শুধু বাবা থেকে, হাওয়ার মতো; বাবা ছাড়া শুধু মা থেকে, ঈসা (আঃ)-এর মতো; আর দুজনের কাউকে ছাড়াই, আদম (আঃ)-এর মতো। কুরতুবী একই কথা বলেন এক লাইনে: বাবা ছাড়া মা থেকে ঈসা, তাঁর বান্দাদের জন্য এক নিদর্শন। মাআরিফুল কুরআন ৩:৫৯ আয়াতের দিকে ইঙ্গিত করে, যেখানে আল্লাহর কাছে ঈসার দৃষ্টান্তকে আদমের দৃষ্টান্তের সঙ্গে তুলনা করা হয়েছে।"
+          },
+          {
+            "en": "At-Tabari explains yakhluqu as bringing a thing out of non-existence into existence, which none but Allah can do. He gives the closing argument in Allah's voice: this belongs to no one besides Me, so how do you claim the Messiah is a god, when he cannot repel harm from himself or his mother, nor bring them benefit, except by My permission? Then wa Allahu 'ala kulli shay'in qadir: Allah, he says, is able over everything, and nothing He wants can defeat Him.",
+            "bn": "তাবারী ইয়াখলুকু শব্দের ব্যাখ্যা দেন: কোনো কিছুকে অনস্তিত্ব থেকে অস্তিত্বে নিয়ে আসা, যা আল্লাহ ছাড়া আর কেউ পারে না। সমাপনী যুক্তিটা তিনি দেন আল্লাহর জবানিতে: এ ক্ষমতা আমি ছাড়া আর কারও নেই। তাহলে কীভাবে তোমরা দাবি করো যে মাসীহ উপাস্য, অথচ আমার অনুমতি ছাড়া তিনি নিজের বা মায়ের থেকে ক্ষতি ঠেকাতে পারেন না, তাঁদের কোনো উপকারও আনতে পারেন না? তারপর ওয়াল্লাহু আলা কুল্লি শাইইন কাদীর। তাবারী বলেন, আল্লাহ সব কিছুর ওপর সক্ষম, তিনি যা চান কোনো কিছুই তাঁকে অক্ষম করতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour Without Overpraise",
+          "bn": "সম্মান, অতিরিক্ত প্রশংসা নয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted attaches a hadith or an occasion of revelation to this verse. A general narration, not tied to the verse, turns its warning inward. Sahih al-Bukhari (3445) records from Ibn 'Abbas that 'Umar said on the pulpit that he heard the Prophet ﷺ say: do not overpraise me as the Christians overpraised the son of Maryam; I am only His servant, so say: the servant of Allah and His Messenger.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি। এ আয়াতের সঙ্গে সম্পৃক্ত নয় এমন একটি সাধারণ বর্ণনা আয়াতের সতর্কবাণীকে আমাদের নিজেদের দিকে ফিরিয়ে আনে। সহীহ বুখারী (৩৪৪৫) ইবন আব্বাস থেকে বর্ণনা করে, উমার মিম্বারে বলেছেন যে তিনি নবী ﷺ-কে বলতে শুনেছেন: নাসারারা যেমন মারইয়ামের পুত্রের অতিরিক্ত প্রশংসা করেছে, তোমরা আমার তেমন অতিরিক্ত প্রশংসা করো না। আমি তো কেবল তাঁর বান্দা, তাই বলো: আল্লাহর বান্দা ও তাঁর রসূল।"
+          },
+          {
+            "en": "Al-Muyassar draws the same lesson from the verse itself. Tawhid requires that Allah alone hold the attributes of lordship and divinity, and people often fall into shirk through excess over prophets and righteous people, as the Christians did over the Messiah; whatever wonders appear return to Allah. A Muslim reads 5:17 rightly when he checks his own speech about saints, teachers and leaders by it.",
+            "bn": "মুয়াসসার আয়াত থেকেই একই শিক্ষা বের করে। তাওহীদ দাবি করে যে রুবূবিয়্যাত ও উলূহিয়্যাতের গুণাবলি একমাত্র আল্লাহর। নবী ও নেককার মানুষদের নিয়ে বাড়াবাড়ি করে মানুষ প্রায়ই শিরকে পড়ে যায়, যেমন নাসারারা মাসীহকে নিয়ে বাড়াবাড়ি করেছে, আর যত অলৌকিক ঘটনা দেখা যায়, সবই আল্লাহর দিকে ফেরে। একজন মুসলিম ৫:১৭ সঠিকভাবে পড়েন তখনই, যখন বুজুর্গ, শিক্ষক ও নেতাদের নিয়ে নিজের কথাগুলো এ আয়াত দিয়ে যাচাই করেন।"
+          },
+          {
+            "en": "This also needs saying plainly. The verse names a claim and answers it with an argument. It describes what it describes, and licenses nothing against any Christian today, in word or in deed. A Muslim may state the difference clearly and still speak of 'Isa (AS) and his mother with the honour the Qur'an gives them, and treat Christian neighbours with justice and courtesy.",
+            "bn": "এ কথাও স্পষ্ট করে বলা দরকার। আয়াতটি একটি দাবির নাম নেয় আর যুক্তি দিয়ে তার জবাব দেয়। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে, আর আজকের কোনো খ্রিস্টানের বিরুদ্ধে কথায় বা কাজে কোনো কিছুর অনুমতি দেয় না। একজন মুসলিম এই পার্থক্য স্পষ্ট করে বলতে পারেন, আবার ঈসা (আঃ) ও তাঁর মাকে কুরআনের দেওয়া সম্মান দিয়েই তাঁদের কথা বলতে পারেন, আর খ্রিস্টান প্রতিবেশীদের সঙ্গে ন্যায় ও সৌজন্যের আচরণ করতে পারেন।"
+          }
+        ]
+      }
+    ]
+  },
   "5:19": {
     "sections": [
       {

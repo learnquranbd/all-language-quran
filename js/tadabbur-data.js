@@ -31023,6 +31023,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take Allah, His Messenger and the believers as your allies, and know the believers by their prayer, their giving and their humility before Allah.",
     "lessonBn": "আল্লাহ, তাঁর রাসূল আর মুমিনদেরকেই নিজের অভিভাবক ও সহায় করুন, আর মুমিনদের চিনুন তাদের নামায, তাদের দান আর আল্লাহর সামনে তাদের বিনয় দেখে।"
+  },
+  "5:17": {
+    "reflectionEn": "The verse answers a claim about the Messiah with a single question: if Allah intended to destroy the Messiah, son of Maryam, and his mother, and everyone on earth, who could hold back anything of His command? His mother had already died, and no one turned that decree aside. A god cannot be someone who is unable to defend himself or the person he loves most. Then the verse widens its view: the heavens, the earth and all between them belong to Allah, and He creates what He wills. A birth without a father shows His power, not a partner. Whom do I raise in my own heart beyond the rank Allah gave them?",
+    "reflectionBn": "মাসীহ সম্পর্কে একটি দাবির জবাব আয়াতটি দেয় একটিমাত্র প্রশ্নে: আল্লাহ যদি মাসীহ ইবনে মারইয়াম, তাঁর মা আর পৃথিবীর সবাইকে ধ্বংস করতে চান, তবে তাঁর আদেশের এতটুকুও কে ঠেকাতে পারে? তাঁর মা তো আগেই মারা গেছেন, আর সেই ফয়সালা কেউ ফেরাতে পারেনি। যে নিজেকে বা নিজের সবচেয়ে প্রিয় মানুষকে রক্ষা করতে পারে না, সে উপাস্য হতে পারে না। তারপর আয়াতের দৃষ্টি আরও প্রশস্ত হয়: আসমান, জমিন আর এর মাঝের সবকিছু আল্লাহর, তিনি যা ইচ্ছা সৃষ্টি করেন। বাবা ছাড়া জন্ম তাঁর ক্ষমতার নিদর্শন, তাঁর কোনো শরিকের প্রমাণ নয়। আমার নিজের মনে আমি কাকে আল্লাহর দেওয়া মর্যাদার চেয়ে উঁচুতে তুলে রেখেছি?",
+    "pointsEn": [
+      "When I need protection, whom do I turn to first in my heart, and can that person hold back anything Allah has decreed?",
+      "Is there a teacher, a saint or a leader I praise in words that belong only to Allah?",
+      "A loss already came to someone the Messiah loved. What loss of mine taught me who truly owns the outcome?",
+      "When something in creation amazes me, does it lead my thoughts to the One who made it, or stop them at the thing itself?",
+      "Can I speak of what I believe about the Messiah plainly and with the honour the Quran gives him, without contempt for those who differ?"
+    ],
+    "pointsBn": [
+      "বিপদে আশ্রয় চাইলে মনে মনে আমি প্রথমে কার দিকে ফিরি? আর আল্লাহ যা ফয়সালা করেছেন, তার এতটুকুও কি সে ঠেকাতে পারে?",
+      "এমন কোনো শিক্ষক, বুজুর্গ বা নেতা কি আছেন, যার প্রশংসায় আমি এমন কথা বলি যা শুধু আল্লাহরই প্রাপ্য?",
+      "মাসীহ যাঁকে ভালোবাসতেন, তাঁর জীবনেও মৃত্যু এসেছিল। আমার কোন হারানো আমাকে শিখিয়েছে যে ফলাফলের আসল মালিক কে?",
+      "সৃষ্টির কোনো কিছু আমাকে বিস্মিত করলে আমার ভাবনা কি তার স্রষ্টার দিকে যায়, নাকি জিনিসটাতেই আটকে থাকে?",
+      "মাসীহ সম্পর্কে আমার বিশ্বাস কি আমি স্পষ্ট করে বলতে পারি, কুরআন তাঁকে যে সম্মান দিয়েছে সেই সম্মান বজায় রেখে, আর ভিন্নমতের মানুষকে তুচ্ছ না করে?"
+    ],
+    "lessonEn": "No one can hold back anything of Allah's decree, not even the noblest of His messengers; honour them as servants and give worship to Him alone.",
+    "lessonBn": "আল্লাহর ফয়সালার এতটুকুও কেউ ঠেকাতে পারে না, তাঁর শ্রেষ্ঠ রসূলরাও নন; তাঁদের সম্মান করুন বান্দা হিসেবে, আর ইবাদত দিন একমাত্র আল্লাহকে।"
   }
 };
 
