@@ -33343,6 +33343,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Trust what Allah has settled and made known, and still walk your own part of the road, without turning back toward what you were told to leave.",
     "lessonBn": "আল্লাহ যা চূড়ান্ত করে জানিয়ে দিয়েছেন তার উপর ভরসা রাখুন, তবু নিজের ভাগের পথটুকু হাঁটুন, আর যা ছেড়ে আসতে বলা হয়েছে সেদিকে ফিরে তাকাবেন না।"
+  },
+  "15:83": {
+    "reflectionEn": "They had carved their homes out of the mountains and slept in them feeling secure. Stone keeps out weather, raiders and the years. It does not keep out a sound. The verse is three words long: the cry seized them as morning came. Morning is when a household wakes, sets out its plans and begins the day it expects to have. For this people it came after the three days they had been plainly given, and the walls they trusted played no part at all. The next verse says that what they had earned availed them nothing. So the question turns back on me. What do I lean on as if it were stone, and have I mistaken a delay for safety?",
+    "reflectionBn": "তারা পাহাড় কেটে ঘর বানিয়েছিল, আর সেই ঘরে নিশ্চিন্তে ঘুমাত। পাথর ঝড়-বৃষ্টি ঠেকায়, ডাকাত ঠেকায়, বছরের পর বছর টিকেও থাকে। কিন্তু একটা আওয়াজ ঠেকাতে পারে না। আয়াতটি মাত্র তিন শব্দের: ভোর হতেই গর্জন তাদের পাকড়াও করল। ভোর তো সেই সময়, যখন ঘরের লোক জেগে ওঠে, দিনের কাজ গুছিয়ে নেয়, আর ধরে নেয় দিনটা তার হাতেই আছে। এই জাতির কাছে সেই ভোর এল পরিষ্কার করে জানিয়ে দেওয়া তিন দিনের পর। যে দেয়ালের উপর তারা ভরসা করত, ঘটনায় তার কোনো ভূমিকাই রইল না। পরের আয়াত বলে, তাদের উপার্জন তাদের কোনো কাজে আসেনি। তাই প্রশ্নটা ফিরে আসে আমার কাছেই। কোন জিনিসকে আমি পাথরের দেয়াল ভেবে ভরসা করে আছি? আর অবকাশ পেয়ে কি আমি সেটাকেই নিরাপত্তা ভেবে বসেছি?",
+    "pointsEn": [
+      "What in my life do I treat as a wall nothing can get through, and what would it actually stop?",
+      "Which warning have I heard plainly and then gone on counting the days as if the deadline were not real?",
+      "When I begin a morning, do I lay out my plans as though the day were already mine?",
+      "Does the safety I feel come from where I stand with Allah, or from what I have built and earned?",
+      "When I hear of a people who were destroyed, does the fear settle in me, or does it travel to somebody else?"
+    ],
+    "pointsBn": [
+      "জীবনে কোন জিনিসকে আমি এমন দেয়াল ভাবি, যা কিছুই ভেদ করতে পারবে না? আসলে সেটা কী ঠেকাতে পারত?",
+      "কোন সতর্কবাণী আমি পরিষ্কার শুনেছি, তারপরও এমনভাবে দিন গুনে চলেছি যেন সময়সীমাটা সত্যি নয়?",
+      "সকাল শুরু করার সময় আমি কি এমনভাবে পরিকল্পনা সাজাই, যেন দিনটা আগে থেকেই আমার?",
+      "যে নিরাপত্তা আমি অনুভব করি, তা কি আল্লাহর সঙ্গে আমার সম্পর্ক থেকে আসে, নাকি আমার বানানো আর উপার্জন করা জিনিস থেকে?",
+      "ধ্বংস হয়ে যাওয়া কোনো জাতির কথা শুনলে ভয়টা কি আমার ভেতরে এসে বসে, নাকি অন্য কারও দিকে চলে যায়?"
+    ],
+    "lessonEn": "Do not mistake walls, wealth or a quiet delay for safety. Every morning you plan for belongs to Allah, so meet each one ready.",
+    "lessonBn": "দেয়াল, সম্পদ কিংবা চুপচাপ পেরিয়ে যাওয়া অবকাশকে নিরাপত্তা ভেবে ভুল করবেন না। যে সকালের জন্য আপনি পরিকল্পনা করেন, তা আল্লাহর হাতে, তাই প্রতিটি সকালে প্রস্তুত থাকুন।"
   }
 };
 

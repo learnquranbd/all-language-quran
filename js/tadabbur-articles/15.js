@@ -3787,6 +3787,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:83": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words After the Carving",
+          "bn": "খোদাই করা ঘরের পরে তিন শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-akhadhat-humu as-sayhatu musbihin: so the cry seized them as morning came. The verse is three Arabic words, the shortest in the passage on the companions of al-Hijr, which runs from 15:80 to 15:84. 15:80 says they denied the messengers. 15:81 says they were given Our signs and kept turning away from them. 15:82 says they used to carve houses out of the mountains, aminin, feeling secure. Our verse follows with fa, the particle of sequence, and 15:84 closes the account: what they used to earn availed them nothing.",
+            "bn": "ফাআখাযাতহুমুস সাইহাতু মুসবিহীন: অতঃপর ভোর হতেই গর্জন তাদের পাকড়াও করল। আয়াতটিতে আরবি শব্দ মাত্র তিনটি। হিজরবাসীদের যে অংশ ১৫:৮০ থেকে ১৫:৮৪ পর্যন্ত চলে, তার মধ্যে এটিই সবচেয়ে ছোট আয়াত। ১৫:৮০ বলে, তারা রাসূলদের মিথ্যা বলেছিল। ১৫:৮১ বলে, তাদের নিদর্শন দেওয়া হয়েছিল, আর তারা সেগুলো থেকে মুখ ফিরিয়েই রেখেছিল। ১৫:৮২ বলে, তারা পাহাড় কেটে ঘর বানাত, আমিনীন, নিজেদের নিরাপদ ভেবে। আমাদের আয়াত আসে ফা দিয়ে, যা একটার পর আরেকটা ঘটার অর্থ দেয়। আর ১৫:৮৪ হিসাবটা শেষ করে: তারা যা উপার্জন করত, তা তাদের কোনো কাজে আসেনি।"
+          },
+          {
+            "en": "The verse just before ends on a feeling, aminin, and this verse answers that feeling without a word of comment. The same word comes from Salih (AS) himself in 26:146, where he asks his people whether they will be left secure in what they have here. The articles on 15:80 and 26:146 set out who these people were and what that security meant. This article keeps to the three words and the moment they name.",
+            "bn": "ঠিক আগের আয়াত শেষ হয় এক অনুভূতিতে, আমিনীন, নিরাপদ বোধ করা। এই আয়াত সেই অনুভূতির জবাব দেয়, কোনো মন্তব্য ছাড়াই। শব্দটা সালিহ (আঃ)-এর নিজের মুখেও এসেছে, ২৬:১৪৬ আয়াতে। সেখানে তিনি তাঁর জাতিকে জিজ্ঞেস করেন, এখানে যা আছে তার মধ্যে কি তোমাদের নিরাপদে ছেড়ে রাখা হবে? এরা কারা ছিল, আর সেই নিরাপত্তার মানে কী ছিল, তা ১৫:৮০ ও ২৬:১৪৬ আয়াতের প্রবন্ধে বলা আছে। এই লেখা থাকবে তিনটি শব্দ আর সেগুলো যে মুহূর্তের নাম নেয়, তার মধ্যেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Cry Glossed by Its Purpose",
+          "bn": "উদ্দেশ্য দিয়ে গর্জনের ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Akhadhat-hum: it took them, seized them. Here the verb is feminine, agreeing with as-sayhah; the masculine form in 11:67 and the commentators' explanation of it are discussed in the article on that verse. As-sayhah is a cry, a single shout. The commentators on this verse each gloss it by adding one word. At-Tabari calls it sayhat al-halak, the cry of destruction. Al-Baghawi calls it sayhat al-'adhab, the cry of punishment. Al-Muyassar gives a different noun altogether, sa'iqat al-'adhab, the blast of punishment.",
+            "bn": "আখাযাতহুম: তাদের ধরে ফেলল, পাকড়াও করল। এখানে ক্রিয়াটি স্ত্রীলিঙ্গ, আস-সাইহাহ শব্দের সঙ্গে মিল রেখে। ১১:৬৭ আয়াতে একই ক্রিয়া পুংলিঙ্গে এসেছে, আর মুফাসসিরগণ তার যে ব্যাখ্যা দেন, তা সেই আয়াতের প্রবন্ধে আছে। আস-সাইহাহ মানে চিৎকার, একটিমাত্র হাঁক। এই আয়াতে মুফাসসিরগণ প্রত্যেকে শব্দটির সঙ্গে আরেকটি শব্দ জুড়ে অর্থ খুলে দেন। তাবারী বলেন সাইহাতুল হালাক, ধ্বংসের গর্জন। বাগাভী বলেন সাইহাতুল আযাব, শাস্তির গর্জন। মুয়াসসার আনেন একেবারে অন্য একটি বিশেষ্য, সাইকাতুল আযাব, শাস্তির বজ্রাঘাত।"
+          },
+          {
+            "en": "Al-Qurtubi adds no gloss here. He notes only that the cry has already been discussed in Surah Hud and Surah al-A'raf, and refers the reader back. What he says there, on whose voice it was and on the quake that al-A'raf names in its place, is set out in the article on 11:67 and is not repeated. None of the glosses on this verse describes the sound. Each adds a word that says what the cry was for, destruction or punishment, and none says how it was heard.",
+            "bn": "কুরতুবী এখানে কোনো ব্যাখ্যা যোগ করেন না। তিনি শুধু জানান, সূরা হুদ আর সূরা আ'রাফে গর্জনের আলোচনা আগেই হয়ে গেছে, আর পাঠককে সেদিকে ফিরিয়ে দেন। সেখানে তিনি যা বলেন, গর্জনটা কার কণ্ঠের ছিল আর আ'রাফ তার জায়গায় যে ভূমিকম্পের নাম নেয়, সে সব ১১:৬৭ আয়াতের প্রবন্ধে আছে, এখানে আবার বলা হবে না। এই আয়াতের ব্যাখ্যাগুলোর কোনোটিই আওয়াজটার বর্ণনা দেয় না। প্রত্যেকে এমন একটি শব্দ জোড়েন, যা বলে গর্জনটা কীসের জন্য ছিল, ধ্বংসের জন্য না শাস্তির জন্য। কানে তা কেমন শোনাল, সে কথা কেউ বলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Blast Word in Fussilat",
+          "bn": "ফুসসিলাতে বজ্রাঘাতের শব্দ"
+        },
+        "p": [
+          {
+            "en": "Al-Muyassar's noun has a home elsewhere in the Qur'an, and it is about the same people. 41:17 reads: as for Thamud, We guided them, but they preferred blindness to guidance, so the sa'iqah of the humiliating punishment seized them for what they used to earn. His phrase sa'iqat al-'adhab is two words of that verse, matched exactly, and it opens with the same verb, fa-akhadhat-hum.",
+            "bn": "মুয়াসসারের বিশেষ্যটি কুরআনের অন্য জায়গাতেও আছে, আর সেখানেও কথা একই জাতিকে নিয়ে। ৪১:১৭ আয়াতে আছে: আর সামূদ, তাদের আমি পথ দেখিয়েছিলাম, কিন্তু তারা হিদায়াতের চেয়ে অন্ধত্বকেই বেশি ভালোবাসল। ফলে তাদের উপার্জনের কারণে লাঞ্ছনাকর আযাবের সাইকাহ তাদের পাকড়াও করল। মুয়াসসারের সাইকাতুল আযাব কথাটি হুবহু সেই আয়াতেরই দুটি শব্দ, আর সেখানেও শুরু একই ক্রিয়া দিয়ে, ফাআখাযাতহুম।"
+          },
+          {
+            "en": "The two verses also share an ending. 41:17 closes on bima kanu yaksibun, for what they used to earn, and 15:84, the verse after ours, says that ma kanu yaksibun, what they used to earn, availed them nothing. In Fussilat their earning is the reason the blast came; in al-Hijr it is the thing that could not turn the cry away. No commentator fetched here joins the two; this is a reader's note. The one phrase stands on both sides of the event, once for what brought it and once for what could not stop it.",
+            "bn": "দুটি আয়াতের শেষটাও এক। ৪১:১৭ শেষ হয় বিমা কানূ ইয়াকসিবূন দিয়ে, তারা যা উপার্জন করত তার কারণে। আর আমাদের পরের আয়াত ১৫:৮৪ বলে, মা কানূ ইয়াকসিবূন, তারা যা উপার্জন করত, তা তাদের কোনো কাজে আসেনি। ফুসসিলাতে তাদের উপার্জনই বজ্রাঘাত আসার কারণ। হিজরে সেই উপার্জনই গর্জনকে ফেরাতে পারেনি। এখানে দেখা কোনো তাফসীর দুটিকে এক জায়গায় আনে না, তাই এটা পাঠকের নিজের লক্ষ করা কথা। একই কথাটা ঘটনার দুই পাশে দাঁড়িয়ে আছে: একবার যা তা ডেকে এনেছিল তার নাম হয়ে, আরেকবার যা তা ঠেকাতে পারেনি তার নাম হয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counted to the Fourth Morning",
+          "bn": "গুনে গুনে চতুর্থ ভোর"
+        },
+        "p": [
+          {
+            "en": "Musbihin is the last word. Al-Qurtubi explains it as at the time of as-subh, the morning, and says it is in the accusative as a hal, a word describing the state of the people at the moment they were seized. Al-Baghawi gives the sense in two words: dakhilin fi waqt as-subh, entering the time of morning. At-Tabari paraphrases with the verb itself, hina asbahu, when they entered the morning. So the word describes the people rather than the clock. They were taken as people who had just stepped into their day.",
+            "bn": "শেষ শব্দ মুসবিহীন। কুরতুবী এর অর্থ বলেন আস-সুবহের সময়, অর্থাৎ ভোরবেলা। ব্যাকরণে তিনি একে হাল ধরেন, যে শব্দ পাকড়াও হওয়ার মুহূর্তে মানুষগুলোর অবস্থা জানায়। বাগাভী অর্থটা দেন দুই শব্দে: দাখিলীনা ফী ওয়াকতিস সুবহ, ভোরের সময়ে প্রবেশ করছিল এমন অবস্থায়। তাবারী ক্রিয়াটি দিয়েই ব্যাখ্যা করেন, হীনা আসবাহূ, যখন তারা ভোরে প্রবেশ করল। ফলে শব্দটা ঘড়ির সময়ের চেয়ে বেশি মানুষগুলোর অবস্থার কথা বলে। তাদের ধরা হয়েছিল এমন অবস্থায়, যখন তারা সবে দিনের ভেতরে পা রেখেছে।"
+          },
+          {
+            "en": "Which morning it was, two commentators state outright. Ibn Kathir in his Arabic text says the time of morning on the fourth day. At-Tabari says the same and counts from a fixed point: they were seized when they entered the morning of the fourth day from the day they were promised the punishment and told, enjoy yourselves in your home for three days. Those are the words of 11:65, tamatta'u fi darikum thalathata ayyam, and Ibn Kathir's abridged English quotes that verse in this passage too. Al-Muyassar adds only mubakkirin, early.",
+            "bn": "কোন ভোর, তা দুজন মুফাসসির স্পষ্ট বলে দেন। ইবন কাসীর তাঁর আরবি পাঠে বলেন, চতুর্থ দিনের ভোরবেলা। তাবারীও একই কথা বলেন, আর গোনেন একটি নির্দিষ্ট দিন থেকে। যেদিন তাদের আযাবের প্রতিশ্রুতি দেওয়া হয়েছিল আর বলা হয়েছিল, নিজেদের ঘরে তিনটি দিন ভোগ করে নাও, সেদিন থেকে চতুর্থ দিনের ভোরে প্রবেশ করতেই তাদের ধরা হয়। কথাগুলো ১১:৬৫ আয়াতের, তামাত্তাঊ ফী দারিকুম সালাসাতা আইয়াম। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি পাঠও এই অংশে আয়াতটি উদ্ধৃত করে। মুয়াসসার শুধু যোগ করেন মুবাক্কিরীন, খুব সকালে।"
+          },
+          {
+            "en": "So in this verse the morning carries a count. The deadline was announced in days, in words that 11:65 calls a promise that will not be denied, and the commentators place the cry on the morning after it ran out. The people knew the length of the delay and spent it. As-Sa'di gives no hour at all and moves straight to what the cry did, which is where the next part of the passage leads as well.",
+            "bn": "তাই এই আয়াতে ভোরের সঙ্গে একটা গোনা হিসাব জড়িয়ে আছে। সময়সীমা ঘোষণা করা হয়েছিল দিনের হিসাবে, আর ১১:৬৫ সেই কথাকে বলে এমন প্রতিশ্রুতি, যা মিথ্যা হবে না। মুফাসসিরগণ গর্জনকে রাখেন সময় ফুরোনোর পরের ভোরে। অবকাশ কতদিনের, তারা জানত, আর সেটা খরচ করে ফেলেছিল। সা'দী কোনো সময়ের কথাই বলেন না। তিনি সরাসরি চলে যান গর্জন কী করল সেই কথায়, আর এই অংশের পরের ধাপও সেদিকেই যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Frame, Two Peoples",
+          "bn": "এক কাঠামো, দুই জাতি"
+        },
+        "p": [
+          {
+            "en": "The two words fa-akhadhat-humu as-sayhatu open three verses in the Qur'an. One is 23:41, where they go on with bil-haqq, in truth. The other two are in this surah, ten verses apart: 15:73, on the people of Lut (AS), and 15:83, on the companions of al-Hijr. These two are the same sentence with only the last word changed. Lut's people were seized mushriqin, as the sun rose. Thamud were seized musbihin, as morning came. Two peoples, two endings, and one frame set around both of them.",
+            "bn": "ফাআখাযাতহুমুস সাইহাহ, এই দুই শব্দ দিয়ে কুরআনের তিনটি আয়াত শুরু হয়। একটি ২৩:৪১, সেখানে এরপর আসে বিল হাক্ক, যথার্থভাবে। বাকি দুটি এই সূরাতেই, দশটি আয়াতের ব্যবধানে: ১৫:৭৩, লূত (আঃ)-এর জাতিকে নিয়ে, আর ১৫:৮৩, হিজরবাসীদের নিয়ে। এ দুটি আসলে একই বাক্য, শুধু শেষ শব্দটা বদলেছে। লূতের জাতিকে ধরা হয়েছিল মুশরিকীন, সূর্য ওঠার সময়ে। সামূদকে ধরা হয়েছিল মুসবিহীন, ভোর হতেই। জাতি দুটি, পরিণতিও দুটি, কিন্তু দুটিকে ঘিরে কাঠামো একটাই।"
+          },
+          {
+            "en": "For Lut's people the commentators had a question to settle, because 15:66 had decreed that they would be cut off musbihin and 15:73 reports mushriqin. Al-Baghawi, on 15:73, says that the punishment began when they entered the morning and was completed when they entered the sunrise; al-Qurtubi gives the same account as one of his views. At-Tabari, on 15:73, explains mushriqin and musbihin with one grammar, both describing the state of the people.",
+            "bn": "লূতের জাতির বেলায় মুফাসসিরগণকে একটা প্রশ্নের মীমাংসা করতে হয়েছিল। কারণ ১৫:৬৬ আয়াতে ফয়সালা ছিল, তাদের মূলোৎপাটন হবে মুসবিহীন, ভোরে, অথচ ১৫:৭৩ জানায় মুশরিকীন। ১৫:৭৩-এর ব্যাখ্যায় বাগাভী বলেন, শাস্তি শুরু হয়েছিল তারা ভোরে প্রবেশ করার সময়, আর পূর্ণ হয়েছিল সূর্যোদয়ে প্রবেশ করার সময়। কুরতুবীও তাঁর মতগুলোর একটি হিসেবে একই কথা আনেন। তাবারী ১৫:৭৩-এ মুশরিকীন আর মুসবিহীনকে একই ব্যাকরণে ব্যাখ্যা করেন, দুটিই মানুষগুলোর অবস্থা জানায়।"
+          },
+          {
+            "en": "For al-Hijr there is nothing to reconcile, and none of the commentators on 15:83 raises the question. No page fetched for this verse mentions sunrise, and the account given for Lut's people is not carried across to Thamud; every gloss here stays with the morning. A reader should not import it either. What the pairing does allow is a plain observation. The frame says that both endings were of one kind. The last word says that each people met its ending at its own hour.",
+            "bn": "হিজরের বেলায় মেলানোর কিছু নেই, আর ১৫:৮৩-এর কোনো মুফাসসির প্রশ্নটা তোলেনও না। এই আয়াতের জন্য দেখা কোনো তাফসীরে সূর্যোদয়ের কথা নেই। লূতের জাতির জন্য দেওয়া ব্যাখ্যা সামূদের উপর টেনে আনা হয়নি, এখানকার প্রতিটি ব্যাখ্যা ভোরের কথাতেই থাকে। পাঠকেরও সেটা টেনে আনা উচিত নয়। তবে দুটি আয়াত পাশাপাশি থাকায় একটা সোজা কথা বলা যায়। কাঠামো বলে, দুই জাতির পরিণতি একই ধরনের। শেষ শব্দ বলে, প্রত্যেক জাতি নিজের পরিণতির মুখোমুখি হয়েছে নিজের নির্দিষ্ট সময়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearts Inside Carved Rock",
+          "bn": "পাথরের ঘরের ভেতরে হৃদয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di describes what the cry did, and his words point inward. Fa-taqatta'at qulubuhum fi ajwafihim: their hearts were torn apart inside their bodies. Then they became, in their home, jathimin, perished, he says, along with what follows from that of disgrace and a curse that does not lift. He names no posture and no voice. The damage he records is in the place no wall reaches, and the disgrace he adds outlasts the morning itself.",
+            "bn": "গর্জন কী করল, সা'দী তা বলেন, আর তাঁর কথা ভেতরের দিকে ইঙ্গিত করে। ফাতাকাত্তাআত কুলূবুহুম ফী আজওয়াফিহিম: তাদের হৃদয় তাদের দেহের ভেতরেই টুকরো টুকরো হয়ে গেল। তারপর তিনি বলেন, তারা নিজেদের ঘরে জাসিমীন হয়ে পড়ে রইল, ধ্বংস হয়ে। সঙ্গে এল তার পিছু পিছু আসা লাঞ্ছনা, আর এমন অভিশাপ যা আর ওঠে না। তিনি কোনো ভঙ্গির কথা বলেন না, কার কণ্ঠ তাও বলেন না। তিনি যে ক্ষতির কথা লেখেন, তা এমন জায়গায়, যেখানে কোনো দেয়াল পৌঁছায় না। আর যে লাঞ্ছনা তিনি যোগ করেন, তা সেই ভোরের চেয়েও দীর্ঘস্থায়ী।"
+          },
+          {
+            "en": "Al-Muyassar reads 15:83 and 15:84 as a single comment. The blast of punishment took them in the morning, early, and then neither their wealth nor their fortresses in the mountains pushed Allah's punishment away from them, nor did the strength and standing they had been given. His word for the houses is husun, fortresses, which is what the carving of 15:82 had made them.",
+            "bn": "মুয়াসসার ১৫:৮৩ আর ১৫:৮৪ একসঙ্গে এক ব্যাখ্যায় পড়েন। ভোরবেলা, খুব সকালে, শাস্তির বজ্রাঘাত তাদের ধরল। তারপর তাদের সম্পদ বা পাহাড়ের দুর্গ আল্লাহর আযাব তাদের থেকে ঠেকাতে পারল না, তাদের দেওয়া শক্তি আর মর্যাদাও নয়। ঘরগুলোর জন্য তাঁর শব্দ হুসূন, দুর্গ। ১৫:৮২-এর খোদাই সেগুলোকে তা-ই বানিয়েছিল।"
+          },
+          {
+            "en": "Set the commentators side by side and the passage has a shape, which is offered here as reflection rather than report. 15:82 ends with the people feeling secure behind stone. 15:84 says what they had gathered was of no use. Between the two stands this verse, and in as-Sa'di's reading the cry did its work beneath the stone, inside the chest. The same surah uses aminin once more, in 15:46, where the people of the Garden are told to enter it in peace, secure. One security is given; the other was assumed.",
+            "bn": "মুফাসসিরদের কথা পাশাপাশি রাখলে অংশটার একটা গড়ন দেখা যায়। এটা ব্যাখ্যার বিবরণ নয়, পাঠকের ভাবনা। ১৫:৮২ শেষ হয় পাথরের আড়ালে নিরাপদ বোধ করা মানুষ দিয়ে। ১৫:৮৪ বলে, তারা যা জমিয়েছিল তা কোনো কাজে আসেনি। দুটির মাঝখানে এই আয়াত। আর সা'দীর পাঠে গর্জন তার কাজ করেছিল পাথরের নিচে, বুকের ভেতরে। এই সূরা আমিনীন শব্দটা আরেকবার ব্যবহার করে, ১৫:৪৬ আয়াতে। সেখানে জান্নাতবাসীদের বলা হয়, শান্তির সঙ্গে নিরাপদে এতে প্রবেশ করো। একটা নিরাপত্তা দান করা হয়। অন্যটা তারা নিজেরাই ধরে নিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enter Only Weeping",
+          "bn": "ঢুকলে কাঁদতে কাঁদতে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's abridged English, on this passage, recalls that the Prophet ﷺ passed through al-Hijr on the way to Tabuk, and gives a longer wording of what he said there which is not confirmed in a graded collection here, so it is not quoted. Al-Bukhari records the instruction at 433, from Abdullah ibn Umar (RA): the Messenger of Allah ﷺ said, do not enter upon these people who were punished unless you are weeping; if you are not weeping, do not enter upon them, lest what struck them should strike you.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি পাঠ এই অংশে স্মরণ করিয়ে দেয়, নবী ﷺ তাবুকের পথে হিজরের ভেতর দিয়ে গিয়েছিলেন। সেখানে তিনি যা বলেছিলেন, তার একটি দীর্ঘতর ভাষ্যও ইবন কাসীর আনেন। কিন্তু সেই ভাষ্য এখানে কোনো মান-নির্ধারিত সংকলনে মিলিয়ে দেখা যায়নি, তাই উদ্ধৃত করা হলো না। নির্দেশটি ইমাম বুখারী এনেছেন ৪৩৩ নম্বরে, আবদুল্লাহ ইবন উমার (রাঃ) থেকে: আল্লাহর রাসূল ﷺ বললেন, শাস্তিপ্রাপ্ত এই লোকদের কাছে ঢুকো না, যদি না তোমরা কাঁদতে থাক। যদি কাঁদতে না পার, তবে তাদের কাছে ঢুকো না, যাতে তাদের উপর যা এসেছিল তা তোমাদের উপর না আসে।"
+          },
+          {
+            "en": "The narration is about the place and its people, not about the wording of this verse, and no commentator fetched here attaches it to 15:83 in particular; it is a general instruction, collected in the Sahih. The article on 11:67 quotes the two related reports at 3379 and 3380. The danger it names is not to the dead, whose account is closed, but to the visitor. The site of an old punishment becomes a place where the living fear for themselves.",
+            "bn": "বর্ণনাটি জায়গা আর সেখানকার মানুষদের নিয়ে, এই আয়াতের শব্দ নিয়ে নয়। এখানে দেখা কোনো মুফাসসির একে বিশেষ করে ১৫:৮৩-এর সঙ্গে জোড়েন না। এটি একটি সাধারণ নির্দেশ, যা সহীহ গ্রন্থে সংকলিত। ১১:৬৭ আয়াতের প্রবন্ধে এ বিষয়ের আরও দুটি বর্ণনা উদ্ধৃত আছে, ৩৩৭৯ ও ৩৩৮০ নম্বর। যে বিপদের কথা সেখানে আছে, তা মৃতদের জন্য নয়, তাদের হিসাব তো বন্ধ হয়ে গেছে। বিপদ যে দেখতে আসে তার। পুরোনো শাস্তির জায়গা হয়ে ওঠে এমন এক জায়গা, যেখানে জীবিতরা নিজেদের জন্য ভয় পায়।"
+          },
+          {
+            "en": "That sets the limit for reading this verse. It describes what the text describes: one named people of the past, given signs and a stated delay, seized by a cry on a particular morning. It licenses nothing against any living person or community. It gives no one a key for declaring that an earthquake, a storm or any disaster that strikes people today is this verse repeated. The only direction the Prophet ﷺ allowed the lesson to travel at al-Hijr was inward, towards the one standing there.",
+            "bn": "এ থেকেই এই আয়াত পড়ার সীমা ঠিক হয়ে যায়। আয়াতটি তা-ই বর্ণনা করে, যা তার পাঠে আছে: অতীতের নাম-জানা একটি জাতি, যাদের নিদর্শন আর ঘোষিত অবকাশ দেওয়া হয়েছিল, নির্দিষ্ট এক ভোরে এক গর্জন তাদের পাকড়াও করল। আজ বেঁচে থাকা কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে আয়াতটি কিছুরই অনুমতি দেয় না। আজ মানুষের উপর যে ভূমিকম্প, ঝড় বা দুর্যোগ নেমে আসে, তাকে এই আয়াতের পুনরাবৃত্তি বলে ঘোষণা করার চাবিও এটি কারও হাতে তুলে দেয় না। হিজরে নবী ﷺ শিক্ষাটাকে চলতে দিয়েছিলেন শুধু এক দিকে, ভেতরের দিকে, যে সেখানে দাঁড়িয়ে আছে তার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mornings People Plan For",
+          "bn": "যে সকালের পরিকল্পনা মানুষ করে"
+        },
+        "p": [
+          {
+            "en": "Musbihin occurs five times in the Qur'an, and the other four give the word a range. In 15:66 it is the hour decreed for Lut's people. In 37:137 it is the hour of travellers passing the ruins of those same people, by morning and by night. In 68:17 and 68:21 it belongs to the owners of a garden, who swore they would pick its fruit musbihin and then called to each other musbihin to go out to their harvest. There the morning is a time people set for their own gain. No commentator fetched here joins these; what follows is reflection.",
+            "bn": "মুসবিহীন শব্দটি কুরআনে পাঁচবার এসেছে, আর বাকি চারটি জায়গা শব্দটির পরিসর দেখিয়ে দেয়। ১৫:৬৬ আয়াতে এটি লূতের জাতির জন্য নির্ধারিত সময়। ৩৭:১৩৭ আয়াতে এটি পথিকদের সময়, যারা সকালে ও রাতে সেই জাতিরই ধ্বংসাবশেষের পাশ দিয়ে যায়। ৬৮:১৭ ও ৬৮:২১ আয়াতে শব্দটি এক বাগানের মালিকদের। তারা কসম খেয়েছিল, মুসবিহীন অবস্থায় বাগানের ফল কেটে নেবে, তারপর ভোর হতেই ফসল তুলতে বেরোনোর জন্য একে অপরকে ডাকল। সেখানে ভোর এমন এক সময়, যা মানুষ নিজের লাভের জন্য ঠিক করে রাখে। এই আয়াতের জন্য দেখা কোনো মুফাসসির এগুলো এক জায়গায় আনেন না। বাকিটা পাঠকের ভাবনা।"
+          },
+          {
+            "en": "Morning is the hour of plans. It is when a household counts what it has and sets out to add to it. Thamud had been told the number of their days, and the morning that came was not theirs to plan. It came to them. The verse does not ask a reader to fear mornings. It asks something narrower: whether the confidence with which a day is begun rests on anything that could stand against the cry.",
+            "bn": "সকাল পরিকল্পনার সময়। এ সময়েই ঘরের মানুষ হিসাব করে কী আছে, আর আরও যোগ করতে বেরিয়ে পড়ে। সামূদকে তাদের দিনের সংখ্যা জানিয়ে দেওয়া হয়েছিল। যে সকাল এল, তার পরিকল্পনা করার অধিকার তাদের ছিল না। সকালটা নিজেই তাদের কাছে এসে হাজির হলো। আয়াতটি পাঠককে সকালকে ভয় পেতে বলে না। এর প্রশ্নটা আরও সরু: যে ভরসা নিয়ে আপনি দিন শুরু করেন, তা কি এমন কিছুর উপর দাঁড়িয়ে, যা সেই গর্জনের সামনে টিকতে পারত?"
+          },
+          {
+            "en": "The questions the verse leaves are small ones, and they belong to an ordinary week. What do I treat as stone, the savings, the position, the health, the people who owe me favours, and what would any of it stop? Which warning have I already accepted as true and then gone on spending the delay as if it were not counting down? And when I read of the companions of al-Hijr, do I come to their story the way the Prophet ﷺ told his companions to come to their dwellings, weeping and afraid for myself?",
+            "bn": "আয়াতটি যে প্রশ্নগুলো রেখে যায়, সেগুলো ছোট, আর সাধারণ এক সপ্তাহের ভেতরেই সেগুলোর জায়গা। কোন জিনিসকে আমি পাথরের দেয়াল ভাবি? জমানো টাকা, পদমর্যাদা, শরীরের সুস্থতা, নাকি যারা আমার কাছে ঋণী সেই মানুষগুলো? এর কোনোটা আসলে কী ঠেকাতে পারত? কোন সতর্কবাণী আমি সত্য বলে মেনে নিয়েছি, তারপরও অবকাশটা এমনভাবে খরচ করে চলেছি যেন সময় গোনা চলছে না? আর হিজরবাসীদের কথা পড়ার সময় আমি কি তাদের কাহিনির কাছে সেভাবে যাই, যেভাবে নবী ﷺ তাঁর সাহাবিদের তাদের বসতিতে যেতে বলেছিলেন, কাঁদতে কাঁদতে, নিজের জন্য ভয় নিয়ে?"
+          }
+        ]
+      }
+    ]
+  },
   "15:85": {
     "sections": [
       {
