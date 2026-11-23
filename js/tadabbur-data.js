@@ -30303,6 +30303,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard your good deeds from showing off, reminders and later sins, because you will need them most when you can no longer plant again.",
     "lessonBn": "লোক দেখানো, খোঁটা আর পরের গুনাহ থেকে নিজের নেক আমল আগলে রাখুন, কারণ যখন নতুন করে কিছু লাগানোর শক্তি থাকবে না, তখনই সেগুলোর দরকার হবে সবচেয়ে বেশি।"
+  },
+  "2:278": {
+    "reflectionEn": "The verse speaks to people who already believe, and it reaches into the part of their wealth that was still only a promise on paper. What had been collected before the ruling was left where it was. What was still owed had to be let go. That is often the hardest place to obey: a sum someone still owes me, a gain that feels earned because the agreement was made long ago. Before the command comes the fear of Allah, and after it a quiet test: if you are believers. Faith here is not a feeling kept apart from the ledger. It shows in what I am willing to stop collecting the moment I learn that Allah has forbidden it.",
+    "reflectionBn": "আয়াতটি তাঁদের সম্বোধন করছে যাঁরা আগেই ঈমান এনেছেন, আর হাত দিচ্ছে তাঁদের সম্পদের সেই অংশে, যা তখনো কাগজে লেখা এক পাওনামাত্র। বিধান আসার আগে যা আদায় হয়ে গিয়েছিল, তা যেমন ছিল তেমনই থাকল। কিন্তু যা তখনো বাকি, তা ছেড়ে দিতে হলো। মানতে সবচেয়ে কষ্ট হয় ঠিক এই জায়গায়। টাকাটা এখনো অন্যের হাতে, অথচ মনে হয় ওটা আমারই। চুক্তিটা অনেক আগের, তাই লাভটাকে মনে হয় ন্যায্য পাওনা। হুকুমের আগে আসে আল্লাহর ভয়, আর হুকুমের পরে নিঃশব্দ এক পরীক্ষা: যদি তোমরা মুমিন হও। ঈমান এখানে হিসাবের খাতা থেকে আলাদা করে রাখা কোনো অনুভূতি নয়। আল্লাহ হারাম করেছেন জানামাত্র কোন পাওনা আদায় করা আমি থামিয়ে দিই, ঈমান ধরা পড়ে সেখানেই।",
+    "pointsEn": [
+      "Is there a gain I still expect from an old arrangement that I would not agree to today, knowing what I now know?",
+      "When a ruling of Allah costs me money I had already counted as mine, do I obey at once, or wait to see whether someone will excuse me?",
+      "Does the fear of Allah come before my count of what I stand to lose, or only after I have measured the cost?",
+      "Where does my faith show in what I collect from others, and not only in what I give?",
+      "If only what I lent were returned to me, would I feel wronged, or would I see justice in it?"
+    ],
+    "pointsBn": [
+      "পুরোনো কোনো চুক্তি থেকে এমন কোনো লাভ কি আমি এখনো আশা করছি, যা আজ জেনেবুঝে আমি কখনো মেনে নিতাম না?",
+      "আল্লাহর কোনো বিধান মানতে গিয়ে যদি এমন টাকা হাতছাড়া হয়, যা আমি আগেই নিজের বলে ধরে রেখেছিলাম, আমি কি সঙ্গে সঙ্গে মানি, নাকি অপেক্ষা করি কেউ যদি ছাড় দেয়?",
+      "কী হারাতে যাচ্ছি সেই হিসাবের আগে কি আল্লাহর ভয় আসে, নাকি খরচ মেপে নেওয়ার পরে?",
+      "আমি কী দান করি শুধু তাতে নয়, অন্যের কাছ থেকে কী আদায় করি তাতেও কি আমার ঈমানের ছাপ পড়ে?",
+      "যা ধার দিয়েছিলাম শুধু সেটুকুই যদি ফেরত আসে, আমার কি মনে হবে আমার উপর জুলুম হলো, নাকি এতেই ইনসাফ দেখব?"
+    ],
+    "lessonEn": "When you learn that Allah has forbidden a gain, stop collecting it at once, even if it is still owed to you, and let fear of Him come before the count of your loss.",
+    "lessonBn": "আল্লাহ কোনো লাভ হারাম করেছেন জানামাত্র তা আদায় করা থামিয়ে দিন, পাওনা বাকি থাকলেও। লোকসানের হিসাবের আগে তাঁর ভয়কে জায়গা দিন।"
   }
 };
 

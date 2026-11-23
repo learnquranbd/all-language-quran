@@ -10903,6 +10903,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:278": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Call After the Reward",
+          "bn": "প্রতিদানের পরেই ডাক"
+        },
+        "p": [
+          {
+            "en": "Ya ayyuha alladhina amanu ittaqu Allaha wa dharu ma baqiya min ar-riba in kuntum mu'minin: O you who have believed, fear Allah and give up what remains of riba, if you are believers. Thirteen Arabic words carry three moves: a call by faith, a command to fear Allah, and a command to let go, closed by a condition that turns back to the opening call. The verse sits inside the riba passage that begins at 2:275, after 2:276 sets the wiping out of riba against the growth of charity.",
+            "bn": "ইয়া আইয়ুহাল্লাযীনা আমানুত্তাকুল্লাহা ওয়া যারূ মা বাকিয়া মিনার রিবা ইন কুনতুম মুমিনীন: হে মুমিনগণ, আল্লাহকে ভয় করো এবং সুদের যা বাকি আছে তা ছেড়ে দাও, যদি তোমরা মুমিন হও। আরবিতে মাত্র তেরোটি শব্দ, অথচ ভেতরে তিনটি ধাপ। প্রথমে ঈমানের নামে ডাক, তারপর আল্লাহকে ভয় করার হুকুম, তারপর ছেড়ে দেওয়ার হুকুম। শেষে একটি শর্ত, যা ঘুরে গিয়ে মেলে শুরুর ডাকের সঙ্গে। আয়াতটি সুদের সেই অংশের ভেতরে, যার শুরু ২:২৭৫ থেকে। তার আগে ২:২৭৬ আয়াত সুদ মিটিয়ে দেওয়া আর দানকে বাড়িয়ে দেওয়াকে পাশাপাশি রেখেছে।"
+          },
+          {
+            "en": "As-Sa'di explains why the address turns here. Having described those who consume riba, and since it was known that, had their faith been a faith that benefits, they would not have done what they did, Allah mentioned the state of the believers and their reward in 2:277. Then He addressed them by their faith and forbade them riba, if they are believers. These, he says, are the people who accept their Lord's admonition and yield to His command. The promise comes first, and the demand on the purse follows it.",
+            "bn": "সম্বোধন এখানে কেন ঘুরে গেল, সা'দী তা বুঝিয়ে বলেন। আগে সুদখোরদের কথা এসেছে। জানা কথা, তাদের ঈমান যদি উপকারে আসার মতো হতো, তারা ওই কাজ করত না। তাই আল্লাহ ২:২৭৭ আয়াতে মুমিনদের অবস্থা আর তাদের প্রতিদানের কথা বললেন। তারপর তাদের ঈমানের নামে ডেকে সুদ থেকে নিষেধ করলেন, যদি তারা মুমিন হয়। সা'দীর ভাষায়, এরাই সেই লোক যারা রবের উপদেশ কবুল করে আর তাঁর হুকুমের সামনে মাথা নত করে। প্রতিশ্রুতি আগে এসেছে, থলির উপর দাবি এসেছে তার পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Set Before the Order",
+          "bn": "হুকুমের আগে আল্লাহর ভয়"
+        },
+        "p": [
+          {
+            "en": "Each commentator gives ittaqu Allah its own weight. At-Tabari reads it as: fear Allah for yourselves, and guard against Him by obeying Him in what He commanded and stopping at what He forbade. Ibn Kathir: fear Him, and keep Him in view in what you do. Al-Qurtubi gives the meaning as: set a shield between yourselves and Allah's punishment by leaving the riba still owed to you and letting it go.",
+            "bn": "ইত্তাকুল্লাহ, আল্লাহকে ভয় করো, কথাটিকে প্রত্যেক মুফাসসির নিজের মতো করে ওজন দেন। তাবারীর ব্যাখ্যা: নিজেদের ব্যাপারে আল্লাহকে ভয় করো। তিনি যা হুকুম করেছেন তা মেনে আর যা নিষেধ করেছেন তা থেকে থেমে তাঁর শাস্তি থেকে বাঁচো। ইবন কাসীরের ভাষায়: তাঁকে ভয় করো, আর যা-ই করো, তাঁকে চোখের সামনে রাখো। কুরতুবীর মতে অর্থ হলো: নিজেদের আর আল্লাহর আযাবের মাঝে একটা ঢাল দাঁড় করাও, আর সেই ঢাল হলো পাওনা সুদের বাকিটা ছেড়ে দেওয়া, মাফ করে দেওয়া।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an calls this the Qur'an's own style, unlike the world's law books. When a law that is hard to act upon is given, it comes wrapped in accountability before Allah and the reward and punishment of the Hereafter, so that hearts are ready for it. Giving up riba that had already fallen due could weigh on a person's nature, so fear Allah was said first, then the injunction, and if you are believers after it. As-Sa'di counts leaving what remains of riba as part of that fear.",
+            "bn": "মাআরিফুল কুরআনের মতে এটাই কুরআনের নিজস্ব ধরন, দুনিয়ার আইনের বইয়ে যা মেলে না। মানতে কঠিন এমন কোনো বিধান যখন আসে, তার আগে-পরে থাকে আল্লাহর সামনে জবাবদিহি আর আখিরাতের পুরস্কার ও শাস্তির কথা, যেন মন আগে থেকেই তৈরি হয়ে থাকে। মেয়াদ পুরো হয়ে যাওয়া সুদ ছেড়ে দেওয়া মানুষের মনে ভারী ঠেকতে পারে। তাই আগে বলা হলো আল্লাহকে ভয় করো, তারপর হুকুম, আর শেষে যদি তোমরা মুমিন হও। সা'দীও সুদের বাকিটা ছেড়ে দেওয়াকে সেই তাকওয়ারই অংশ ধরেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only the Unpaid Balance",
+          "bn": "শুধু অনাদায়ী বাকিটুকু"
+        },
+        "p": [
+          {
+            "en": "Wa dharu, at-Tabari says, means leave it. Ma baqiya min ar-riba is the part not yet paid: give up demanding whatever excess remains owed to you over the capital that was yours before you charged riba on it. The Muyassar says the same, dating that capital to before riba was forbidden. Ibn Kathir reads the order as leaving the increase over capital that people still owe you, once this warning has come. The command does not touch the lender's principal. It falls on the excess that has not yet changed hands.",
+            "bn": "তাবারী বলেন, ওয়া যারূ মানে ছেড়ে দাও। মা বাকিয়া মিনার রিবা হলো যে অংশ এখনো আদায় হয়নি। অর্থাৎ সুদ চাপানোর আগে তোমাদের যে মূলধন ছিল, তার উপরে বাড়তি যা এখনো পাওনা, তা দাবি করা ছেড়ে দাও। মুয়াসসারও একই কথা বলে, আর সেই মূলধনকে ধরে সুদ হারাম হওয়ার আগের মূলধন হিসেবে। ইবন কাসীরের পাঠে হুকুমটি হলো, এই সতর্কবাণী আসার পর মানুষের কাছে মূলধনের উপরে যে বাড়তি পাওনা আছে, তা ছেড়ে দেওয়া। হুকুম পাওনাদারের আসল টাকায় হাত দেয় না। হাত দেয় সেই বাড়তিতে, যা এখনো হাতবদল হয়নি।"
+          },
+          {
+            "en": "What of riba already received? At-Tabari reports that the verse came down about people who had become Muslims while others owed them riba; they had collected some of it and some remained, and Allah pardoned what they had taken before the verse and forbade them to demand the rest. Al-Qurtubi says the apparent sense is that it voided whatever riba had not been received, even when the contract predated the prohibition, while what had been received is not undone. As-Sa'di calls the remainder the dealings still standing. What is past belongs to 2:275, which has its own article.",
+            "bn": "যে সুদ আগেই হাতে এসে গেছে, তার কী হবে? তাবারী জানান, আয়াতটি নাজিল হয়েছিল এমন কিছু লোকের ব্যাপারে, যারা ইসলাম গ্রহণ করেছিল, অথচ অন্যদের কাছে তাদের সুদ পাওনা ছিল। কিছুটা তারা আদায় করে ফেলেছিল, কিছুটা বাকি ছিল। আয়াত নাজিলের আগে যা নিয়েছিল আল্লাহ তা মাফ করলেন, আর বাকিটা দাবি করা হারাম করলেন। কুরতুবী বলেন, বাহ্যিক অর্থ হলো, যে সুদ হাতে আসেনি তা বাতিল, চুক্তি নিষেধাজ্ঞার আগে হয়ে থাকলেও। আর যা হাতে এসে গেছে, তা ভেঙে ফেরত নেওয়া হয় না। সা'দী বাকি অংশ বলতে বোঝেন যে লেনদেনগুলো তখনো চলছিল। আগে যা হয়ে গেছে তার আলোচনা ২:২৭৫-এর, সেটির আলাদা প্রবন্ধ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thaqif, Makhzum and a Letter",
+          "bn": "সাকীফ, মাখযূম আর একটি চিঠি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names four early authorities, Zayd ibn Aslam, Ibn Jurayj, Muqatil ibn Hayyan and as-Suddi, for the report that this passage came down about Banu Amr ibn Umayr of Thaqif and Banu al-Mughirah of Makhzum. Riba had run between them since the Jahiliyyah. When Islam came and they entered it, Thaqif asked to collect what was owed, and Banu al-Mughirah, after consulting, said: we will not pay riba in Islam. Attab ibn Usayd, the Prophet's deputy over Makkah, wrote to the Messenger of Allah ﷺ about the matter.",
+            "bn": "ইবন কাসীর চারজন প্রথম যুগের ব্যক্তির নাম নেন: যায়দ ইবন আসলাম, ইবন জুরাইজ, মুকাতিল ইবন হাইয়ান আর সুদ্দী। তাঁদের বর্ণনা অনুযায়ী এই অংশ নাজিল হয়েছিল সাকীফ গোত্রের বনু আমর ইবন উমাইর আর মাখযূম গোত্রের বনু মুগীরাকে নিয়ে। জাহিলিয়া যুগ থেকেই তাদের মধ্যে সুদের লেনদেন চলত। ইসলাম এল, তারাও ইসলাম গ্রহণ করল। সাকীফ তখন পাওনা আদায় করতে চাইল। বনু মুগীরা নিজেদের মধ্যে পরামর্শ করে জানাল: ইসলামে এসে আমরা সুদ দেব না। মক্কায় নবীজির প্রতিনিধি আত্তাব ইবন উসাইদ (রাঃ) বিষয়টি জানিয়ে আল্লাহর রাসূল ﷺ-এর কাছে চিঠি লিখলেন।"
+          },
+          {
+            "en": "This verse came down, Ibn Kathir continues, and the Messenger ﷺ wrote it to Attab with the verse after it, the warning of war. They said: we repent to Allah and leave what remains of riba, and all of them left it. At-Tabari gives Ibn Jurayj's fuller account. Thaqif had made a settlement with the Prophet ﷺ that riba owed to them, and riba they owed, was put down. After the conquest Attab was placed over Makkah, Banu Amr came for their riba, Banu al-Mughirah refused, and the case went to Attab.",
+            "bn": "ইবন কাসীর আরও বলেন, তখন এই আয়াত নাজিল হলো। রাসূল ﷺ আয়াতটি আত্তাবের কাছে লিখে পাঠালেন, সঙ্গে পরের আয়াতের যুদ্ধের সতর্কবাণী। তারা বলল, আমরা আল্লাহর কাছে তওবা করছি আর সুদের বাকিটা ছেড়ে দিচ্ছি। তাদের প্রত্যেকে তা ছেড়ে দিল। তাবারী ইবন জুরাইজের বর্ণনাটি আরও বিস্তারে আনেন। সাকীফ নবী ﷺ-এর সঙ্গে সন্ধি করেছিল যে, মানুষের কাছে তাদের পাওনা সুদ আর তাদের কাছে মানুষের পাওনা সুদ, দুটোই বাতিল। মক্কা বিজয়ের পর আত্তাবকে মক্কার দায়িত্ব দেওয়া হলো। বনু আমর তাদের সুদ চাইতে এল, বনু মুগীরা দিতে অস্বীকার করল, আর মামলা গেল আত্তাবের কাছে।"
+          },
+          {
+            "en": "Al-Qurtubi, under the words it has been said, gives the settlement different terms: riba owed to Thaqif stayed theirs, and riba they owed was dropped. When the debts fell due they sent to Makkah to collect, Banu al-Mughirah answered that riba had been lifted, Attab wrote, the verse came, and Thaqif, learning of it, held back. He calls this a summary of what Ibn Ishaq, Ibn Jurayj, as-Suddi and others narrated. Al-Baghawi gives Muqatil's version, naming four brothers of Banu Amr who became Muslims after the Prophet ﷺ prevailed over at-Ta'if, and calls the sum very large.",
+            "bn": "কুরতুবী 'বলা হয়েছে' কথাটি দিয়ে শুরু করে সন্ধির শর্ত বলেন অন্যভাবে: সাকীফের পাওনা সুদ তাদেরই থাকবে, আর তাদের কাছে অন্যদের পাওনা সুদ মাফ। মেয়াদ এলে তারা আদায়ের জন্য মক্কায় লোক পাঠাল। বনু মুগীরা জবাব দিল, সুদ তো উঠে গেছে। আত্তাব চিঠি লিখলেন, আয়াত নাজিল হলো, আর সাকীফ তা জেনে থেমে গেল। কুরতুবী বলেন, ইবন ইসহাক, ইবন জুরাইজ, সুদ্দী প্রমুখের বর্ণনা একত্র করে এ তার সংক্ষেপ। বাগাভী আনেন মুকাতিলের ভাষ্য। তাতে বনু আমরের চারজন ভাইয়ের নাম আছে, যারা তায়েফে নবী ﷺ বিজয়ী হওয়ার পর ইসলাম গ্রহণ করে। বাগাভী বলেন, পাওনার অঙ্কটা ছিল বিশাল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Names in the Reports",
+          "bn": "বর্ণনায় আরও কিছু নাম"
+        },
+        "p": [
+          {
+            "en": "At-Tabari has as-Suddi say the verse came about al-Abbas ibn Abd al-Muttalib (RA) and a man of Banu al-Mughirah, partners in the Jahiliyyah who lent at riba to Banu Amr ibn Umayr of Thaqif; Islam came while large sums were owed to them. Al-Baghawi gives as-Suddi's partners as al-Abbas and Khalid ibn al-Walid (RA). He also relays from Ata and Ikrimah that the verse concerned al-Abbas and Uthman ibn Affan (RA), who had paid in advance for dates and later sought an increase; the Prophet ﷺ forbade them, and they heard, obeyed and took their capital.",
+            "bn": "তাবারীর বর্ণনায় সুদ্দী বলেন, আয়াতটি নাজিল হয়েছিল আব্বাস ইবন আবদুল মুত্তালিব (রাঃ) আর বনু মুগীরার এক ব্যক্তিকে নিয়ে। জাহিলিয়া যুগে দুজনে অংশীদার ছিলেন, সাকীফের বনু আমর ইবন উমাইরকে সুদে ধার দিতেন। ইসলাম যখন এল, তাঁদের বিপুল সুদ তখনো পাওনা। বাগাভী সুদ্দীর বর্ণনায় অংশীদার দুজনের নাম দেন আব্বাস আর খালিদ ইবনুল ওয়ালীদ (রাঃ)। আতা ও ইকরিমা থেকে তিনি আরেকটি বর্ণনা আনেন: আয়াতটি আব্বাস আর উসমান ইবন আফফান (রাঃ)-কে নিয়ে। তাঁরা খেজুরের দাম আগাম দিয়েছিলেন, পরে বাড়তি চেয়েছিলেন। নবী ﷺ নিষেধ করলেন, আর তাঁরা শুনলেন, মানলেন, শুধু মূলধন নিলেন।"
+          },
+          {
+            "en": "Ad-Dahhak, in at-Tabari, keeps no names at all: it was riba they traded in during the Jahiliyyah, and when they became Muslims they were ordered to take their capital. These are reports from early commentators, and they differ on who is meant; no commentary fetched here attaches a sound hadith of the Prophet ﷺ naming the occasion, and this article does not choose between them. Where a report says how it ended, the lenders let the riba go. The verse describes what these reports describe and licenses nothing against any tribe, family or living community.",
+            "bn": "তাবারীর বর্ণনায় দাহহাক কোনো নামই নেন না। তাঁর কথা, জাহিলিয়া যুগে তারা সুদে লেনদেন করত। ইসলাম গ্রহণের পর তাদের হুকুম দেওয়া হলো শুধু মূলধন নিতে। এগুলো প্রথম যুগের তাফসীরকারদের বর্ণনা, আর কাকে বোঝানো হয়েছে তা নিয়ে এগুলো এক নয়। এখানে দেখা কোনো তাফসীর নবী ﷺ-এর এমন কোনো সহীহ হাদীস আনেনি, যাতে আয়াতের প্রেক্ষাপটের নাম আছে। এই প্রবন্ধ বর্ণনাগুলোর মধ্যে কোনোটিকে বেছে নেয় না। যে বর্ণনায় শেষটা বলা আছে, সেখানে পাওনাদারেরা সুদ ছেড়েই দিয়েছে। বর্ণনাগুলো যা বলে আয়াত তা-ই তুলে ধরে, কোনো গোত্র, বংশ বা আজকের কোনো জনগোষ্ঠীর বিরুদ্ধে কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Starting With His Uncle's Claim",
+          "bn": "শুরু চাচার পাওনা দিয়ে"
+        },
+        "p": [
+          {
+            "en": "Muslim records in his Sahih, in Jabir ibn Abdullah's (RA) long account of the Prophet's Hajj (1218), the sermon at Arafah: \"Behold! Everything pertaining to the Days of Ignorance is under my feet completely abolished. Abolished are also the blood-revenges of the Days of Ignorance. The first claim of ours on blood-revenge which I abolish is that of the son of Rabi'a b. al-Harith, who was nursed among the tribe of Sa'd and killed by Hudhail. And the usury of the pre-Islamic period is abolished, and the first of our usury I abolish is that of 'Abbas b. 'Abd al-Muttalib, for it is all abolished.\"",
+            "bn": "নবী ﷺ-এর হজের যে দীর্ঘ বিবরণ জাবির ইবন আবদুল্লাহ (রাঃ) দিয়েছেন, মুসলিম তাঁর সহীহ গ্রন্থে তা বর্ণনা করেছেন (১২১৮)। তাতে আরাফার খুতবায় তিনি বলেন: \"শোনো! জাহিলিয়া যুগের সবকিছু আমার দুই পায়ের নিচে বাতিল। জাহিলিয়া যুগের রক্তের দাবিও বাতিল। আমাদের রক্তের দাবির মধ্যে প্রথম যেটি আমি বাতিল করছি, তা রবীআ ইবনুল হারিসের ছেলের রক্ত। সে বনু সা'দে দুধপান করছিল, তখন হুযাইল গোত্র তাকে হত্যা করে। আর জাহিলিয়া যুগের সুদ বাতিল। আমাদের সুদের মধ্যে প্রথম যা আমি বাতিল করছি, তা আব্বাস ইবন আবদুল মুত্তালিবের সুদ। তা পুরোটাই বাতিল।\""
+          },
+          {
+            "en": "Jabir's account does not name this verse, and Muslim does not attach the sermon to it; the link is made by the commentators. Al-Baghawi sets the sermon directly after as-Suddi's report about al-Abbas's riba. Ma'arif al-Qur'an reads the order of the sermon as deliberate: the law served no individual, nation or even the believers' own purse, so the first riba surrendered was al-Abbas's, much of it owed by people outside Islam. Ibn Kathir relays another wording of the sermon, through Amr ibn al-Ahwas, from Ibn Abi Hatim; it is mentioned here and not quoted.",
+            "bn": "জাবিরের বিবরণে এই আয়াতের নাম নেই, আর মুসলিমও খুতবাটিকে এই আয়াতের সঙ্গে জুড়ে দেননি। যোগসূত্রটা টেনেছেন মুফাসসিররা। বাগাভী আব্বাসের সুদ নিয়ে সুদ্দীর বর্ণনার ঠিক পরেই খুতবাটি আনেন। মাআরিফুল কুরআন খুতবার এই ক্রমকে ইচ্ছাকৃত বলে পড়ে। তার মতে বিধানটি কোনো ব্যক্তি, জাতি, এমনকি মুমিনদের নিজেদের আর্থিক স্বার্থের জন্যও ছিল না। তাই সবার আগে ছাড়া হলো আব্বাসের সুদ, যার বড় অংশ পাওনা ছিল ইসলামের বাইরের লোকদের কাছে। ইবন কাসীর ইবন আবী হাতিম থেকে আমর ইবনুল আহওয়াসের সূত্রে খুতবার আরেকটি ভাষ্য আনেন। এখানে শুধু তার উল্লেখ রইল, উদ্ধৃতি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Condition, or a Spur?",
+          "bn": "শর্ত, নাকি জাগিয়ে তোলা?"
+        },
+        "p": [
+          {
+            "en": "In kuntum mu'minin: if you are believers. The verse opened by calling them believers, so what does the condition add? At-Tabari reads it as: if you make your faith real, the faith you profess and affirm with your tongues, by your deeds. The Muyassar puts it the same way, faith made real in word and deed. Ibn Kathir names its object: if you believe in what Allah has laid down for you, the lawfulness of trade, the prohibition of riba and the rest. On these readings the clause asks faith to show itself in a ledger.",
+            "bn": "ইন কুনতুম মুমিনীন: যদি তোমরা মুমিন হও। আয়াতের শুরুতেই তো তাদের মুমিন বলে ডাকা হয়েছে, তাহলে এই শর্ত নতুন কী যোগ করে? তাবারীর পাঠে অর্থ হলো: মুখে যে ঈমানের ঘোষণা দাও, জিহ্বা দিয়ে যা সত্য বলে স্বীকার করো, তা যদি কাজ দিয়ে সত্য প্রমাণ করো। মুয়াসসারও একই কথা বলে, ঈমানকে কথায় ও কাজে বাস্তব করে তোলা। ইবন কাসীর বলেন ঈমানটা কিসের উপর: আল্লাহ তোমাদের জন্য যা বিধান করেছেন তার উপর, কেনাবেচা হালাল আর সুদ হারাম, এবং আরও যা আছে। এই পাঠগুলোতে শর্তটি চায়, ঈমান হিসাবের খাতাতেও ধরা পড়ুক।"
+          },
+          {
+            "en": "Al-Qurtubi distinguishes two cases. For Thaqif it is a plain condition in its proper sense, since the verse came at the very start of their entry into Islam. Applied to those whose faith is already settled, it is a figurative condition used for emphasis, as you might say to a man you want to stir: if you are a man, do this. Ma'arif al-Qur'an takes it as a sign that faith requires following Allah's injunctions faithfully, and that acting otherwise works against faith itself. As-Sa'di likewise has Allah forbid them riba if they are believers.",
+            "bn": "কুরতুবী দুটি অবস্থা আলাদা করেন। সাকীফের বেলায় এটি আক্ষরিক অর্থেই শর্ত, কারণ আয়াতটি এসেছিল তাদের ইসলামে প্রবেশের একেবারে শুরুতে। আর যাদের ঈমান আগে থেকেই পাকা, তাদের বেলায় এটি রূপক শর্ত, জোর দেওয়ার জন্য। যেমন কাউকে জাগিয়ে তুলতে চাইলে বলা হয়: তুমি যদি পুরুষ হও, তবে এ কাজটা করো। মাআরিফুল কুরআন একে দেখে এই ইঙ্গিত হিসেবে যে, ঈমানের দাবি হলো আল্লাহর বিধান বিশ্বস্তভাবে মেনে চলা, আর উল্টোটা করা ঈমানেরই বিপরীতে যায়। সা'দীর ভাষ্যেও আল্লাহ তাদের সুদ থেকে নিষেধ করছেন, যদি তারা মুমিন হয়।"
+          },
+          {
+            "en": "Al-Qurtubi also records two readings and rejects both. An-Naqqash relays from Muqatil ibn Sulayman that in here means idh, since: since you are believers. Ibn Atiyya, as al-Qurtubi quotes him, calls this rejected and unknown in the language. Ibn Furak suggested the address might be to those who believed in the prophets before Muhammad ﷺ, told to leave riba if they believe in him as well, since the first faith would not avail them without this. Al-Qurtubi answers that what is narrated about the verse's occasion refutes it.",
+            "bn": "কুরতুবী আরও দুটি পাঠ উল্লেখ করে দুটিই নাকচ করেন। নাক্কাশ মুকাতিল ইবন সুলাইমান থেকে বর্ণনা করেন, এখানে ইন মানে ইয, অর্থাৎ যেহেতু: যেহেতু তোমরা মুমিন। কুরতুবীর উদ্ধৃতিতে ইবন আতিয়্যা বলেন, এ মত প্রত্যাখ্যাত, ভাষায় এর কোনো নজির জানা নেই। ইবন ফূরাক সম্ভাবনা দেখিয়েছিলেন, সম্বোধনটা হয়তো তাদের প্রতি যারা মুহাম্মাদ ﷺ-এর আগের নবীদের উপর ঈমান এনেছিল। তাদের বলা হচ্ছে, তাঁর উপরও ঈমান আনলে সুদ ছাড়ো, কারণ এ ছাড়া আগের ঈমান কাজে আসবে না। কুরতুবীর জবাব: আয়াতের প্রেক্ষাপট নিয়ে যা বর্ণিত হয়েছে, তা-ই এ মতকে খণ্ডন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sum Still Owed",
+          "bn": "এখনো পাওনা যে অঙ্ক"
+        },
+        "p": [
+          {
+            "en": "The verse does not stand alone. 2:279 follows at once: if you do not, be informed of war from Allah and His Messenger, and if you repent, your capital is yours. Ibn Kathir calls that a severe threat for whoever keeps dealing in riba after the warning. 2:280 then turns to the debtor in hardship and gives him time until ease. The claim that trade is like riba belongs to 2:275, and the Day of return that seals the passage to 2:281; each has its own article.",
+            "bn": "আয়াতটি একা দাঁড়িয়ে নেই। ঠিক পরেই ২:২৭৯: যদি না করো, তবে আল্লাহ ও তাঁর রাসূলের পক্ষ থেকে যুদ্ধের ঘোষণা শুনে নাও, আর যদি তওবা করো, মূলধন তোমাদেরই। ইবন কাসীর একে বলেন কঠিন হুমকি, তাদের জন্য যারা সতর্কবাণীর পরেও সুদের কারবার চালিয়ে যায়। তারপর ২:২৮০ আসে অভাবে পড়া ঋণীর কথায়, সচ্ছল হওয়া পর্যন্ত তাকে সময় দেয়। কেনাবেচা সুদেরই মতো, এই দাবির আলোচনা ২:২৭৫-এ। আর ফিরে যাওয়ার যে দিন দিয়ে অংশটি শেষ হয়, তা ২:২৮১-তে। দুটিরই আলাদা প্রবন্ধ আছে।"
+          },
+          {
+            "en": "That order touches a particular kind of wealth: money not yet in hand but already counted. Refusing a forbidden gain never offered is easy. It is harder to stop collecting a sum that an old agreement says is owed, when the lender feels he has waited long enough. The reports show the first hearers letting such sums go. This article does not rule on modern contracts; that belongs to qualified scholars. It stays with the verse and what the commentators said of it.",
+            "bn": "হুকুমটা হাত দেয় বিশেষ এক ধরনের সম্পদে: টাকা এখনো হাতে আসেনি, অথচ গোনা হয়ে গেছে। যে হারাম লাভ কেউ কখনো সামনে আনেনি, তা ফিরিয়ে দেওয়া সহজ। কঠিন হলো এমন অঙ্ক আদায় করা থামানো, যা পুরোনো চুক্তি অনুযায়ী পাওনা, আর পাওনাদারের মনে হচ্ছে অনেক তো অপেক্ষা করা হলো। বর্ণনাগুলো দেখায়, প্রথম শ্রোতারা এমন অঙ্কই ছেড়ে দিয়েছিলেন। আজকের চুক্তিগুলোর বিধান এই প্রবন্ধ দেয় না, সে কাজ যোগ্য আলেমদের। এখানে কথা শুধু আয়াত আর তার ব্যাপারে মুফাসসিরদের বক্তব্য নিয়ে।"
+          },
+          {
+            "en": "A few questions to carry. Is anything still owed to me that I would stop asking for if I asked first what Allah has ruled about it? When fear of Allah and the loss of money meet in the same decision, which speaks first? Do I treat the believers' name the verse gives me as a title I already hold, or as a claim my dealings have to keep proving? And when someone in my care must give something up, do I begin, as the Prophet ﷺ began at Arafah with his uncle's claim, with what is mine?",
+            "bn": "সঙ্গে রাখার মতো কয়েকটি প্রশ্ন। আমার কি এমন কিছু পাওনা আছে, যা আল্লাহর বিধান আগে জেনে নিলে আর চাইতাম না? আল্লাহর ভয় আর টাকার লোকসান যখন একই সিদ্ধান্তে মুখোমুখি হয়, আগে কে কথা বলে? আয়াত আমাকে মুমিন বলে ডেকেছে। এই নামকে কি আমি আগে থেকেই পাওয়া উপাধি ভাবি, নাকি এমন দাবি, যা আমার লেনদেন দিয়ে বারবার প্রমাণ করতে হয়? আর আমার দায়িত্বে থাকা কাউকে যখন কিছু ছাড়তে হয়, আমি কি নিজেরটা দিয়ে শুরু করি, যেমন আরাফায় নবী ﷺ শুরু করেছিলেন চাচার পাওনা দিয়ে?"
+          }
+        ]
+      }
+    ]
+  },
   "2:281": {
     "sections": [
       {
