@@ -33283,6 +33283,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take the Book whole: do not keep the parts that please you and set the rest aside, and do not dismiss a truth by giving it a label.",
     "lessonBn": "কিতাবকে পুরোটাই গ্রহণ করুন। মনের মতো অংশ রেখে বাকিটা সরিয়ে দেবেন না, আর কোনো সত্যের গায়ে নাম সেঁটে দিয়ে তাকে উড়িয়েও দেবেন না।"
+  },
+  "16:2": {
+    "reflectionEn": "The verse before this one says Allah's command has come, so do not ask to hurry it. This verse tells how that warning reaches people at all. He sends the angels down with the ruh of His command, a word for spirit, used here for the revelation that brings hearts to life, on whichever of His servants He wills. And the message they carried has one core: there is no god but Me, so fear Me. Notice the turn. The verse starts by speaking about Allah and ends with Allah speaking. The warning is not a messenger's opinion; it is His own word. I repeat that line often. Does it bring my heart to life, or only pass my lips?",
+    "reflectionBn": "আগের আয়াত বলেছে, আল্লাহর আদেশ এসে গেছে, তাই তাড়াহুড়ো করে তা চেয়ো না। এ আয়াত জানায়, সেই সতর্কবাণী মানুষের কাছে পৌঁছায় কীভাবে। তিনি ফেরেশতাদের নামান তাঁর আদেশের রূহ দিয়ে, নিজের বান্দাদের মধ্যে যার উপর চান। রূহ মানে প্রাণ, আর এখানে তা সেই ওহী, যা অন্তরকে জীবিত করে। সব বার্তার মূল কথা একটাই: আমি ছাড়া কোনো ইলাহ নেই, অতএব আমাকেই ভয় করো। বাঁকটা খেয়াল করুন। আয়াত শুরু হয় আল্লাহর ব্যাপারে কথা দিয়ে, আর শেষ হয় আল্লাহর নিজের মুখের কথায়। সতর্কবাণীটা কোনো রাসূলের ব্যক্তিগত মত নয়, তাঁরই বাণী। এ বাক্য আমি প্রায়ই মুখে আনি। তা কি আমার অন্তরে প্রাণ জাগায়, নাকি শুধু ঠোঁট ছুঁয়ে চলে যায়?",
+    "pointsEn": [
+      "When I recite 'there is no god but Me', do I hear Allah addressing me, or a sentence I think I already know?",
+      "What would change in my week if I feared displeasing Him more than displeasing the people around me?",
+      "Revelation is called ruh, the thing that gives life. Which corner of my life has gone longest without it?",
+      "Do I hear the messengers' warning as news meant for others, or as a warning addressed to me first?",
+      "When I grow impatient for Allah's promise or His justice, do I turn back to what He has already sent down?"
+    ],
+    "pointsBn": [
+      "'আমি ছাড়া কোনো ইলাহ নেই' পড়ার সময় আমি কি শুনি আল্লাহ আমাকেই বলছেন? নাকি মনে হয়, এ তো জানা কথা?",
+      "আশপাশের মানুষকে নারাজ করার চেয়ে তাঁকে নারাজ করার ভয় যদি বেশি হতো, এ সপ্তাহে আমার জীবনে কী বদলাত?",
+      "ওহীকে বলা হয়েছে রূহ, যা প্রাণ দেয়। আমার জীবনের কোন কোণটা সবচেয়ে বেশি দিন তার ছোঁয়া পায়নি?",
+      "রাসূলদের সতর্কবাণী কি আমার কাছে অন্যদের জন্য খবর, নাকি সবার আগে আমাকেই দেওয়া সতর্কবার্তা?",
+      "আল্লাহর ওয়াদা বা তাঁর ইনসাফ দেখার জন্য যখন অধৈর্য হয়ে পড়ি, তখন কি তাঁর পাঠানো বাণীর দিকে ফিরে যাই?"
+    ],
+    "lessonEn": "Take revelation as life for the heart, and answer its one message: worship none but Allah, and fear Him by keeping what He has made your duty.",
+    "lessonBn": "ওহীকে অন্তরের প্রাণ হিসেবে গ্রহণ করুন, আর তার একটিমাত্র বার্তায় সাড়া দিন: আল্লাহ ছাড়া কারও ইবাদত নয়, আর তাঁর দেওয়া দায়িত্ব পালন করে তাঁকেই ভয় করুন।"
   }
 };
 

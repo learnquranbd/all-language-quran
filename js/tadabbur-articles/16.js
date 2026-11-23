@@ -11,6 +11,170 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "16:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Command, Then Its Messengers",
+          "bn": "আদেশের পরে বার্তাবাহক"
+        },
+        "p": [
+          {
+            "en": "Yunazzilu al-mala'ikata bi-r-ruhi min amrihi: He sends down the angels with the ruh of His command. The surah opens in 16:1 with a stern line: Allah's command has come, so do not seek to hasten it. Ma'arif al-Qur'an explains why it opens so. The polytheists challenged the Prophet's ﷺ warnings of the Day and of punishment, saying they saw none of it coming. The reply does not argue about timing, and the next verse turns to how the warning reached them at all.",
+            "bn": "ইউনাযযিলুল মালাইকাতা বির-রূহি মিন আমরিহি: তিনি তাঁর আদেশের রূহ দিয়ে ফেরেশতাদের নামান। সূরাটি ১৬:১ আয়াতে শুরু হয় কড়া এক ঘোষণায়: আল্লাহর আদেশ এসে গেছে, তাই তা তাড়াতাড়ি চেয়ো না। এভাবে শুরুর কারণ মাআরিফুল কুরআন ব্যাখ্যা করে। নবী ﷺ মুশরিকদের কিয়ামত আর শাস্তির ব্যাপারে সতর্ক করতেন, আর তারা চ্যালেঞ্জ ছুড়ে বলত, এর কিছুই তো আসতে দেখছি না। জবাবটা সময় নিয়ে তর্কে যায় না। পরের আয়াতই বলে দেয়, সতর্কবাণীটা তাদের কাছে পৌঁছাল কোন পথে।"
+          },
+          {
+            "en": "As-Sa'di draws the link in one clause. Having declared Himself exalted above what His enemies ascribed to Him, Allah mentions the revelation He sends down on His prophets, which must be followed in whatever is said of Him. The order matters. People had been describing Allah by their own guesses. Before any argument from creation, the passage names the one channel through which a true description of Him comes: what He Himself sends down.",
+            "bn": "সা'দী দুই আয়াতের সম্পর্কটা এক বাক্যে ধরিয়ে দেন। শত্রুরা আল্লাহর প্রতি যা আরোপ করত, তা থেকে নিজেকে পবিত্র ঘোষণা করার পর তিনি সেই ওহীর কথা বলেন, যা তিনি নবীদের উপর নাযিল করেন। আল্লাহর ব্যাপারে কী বলা যাবে, সেখানে এই ওহীরই অনুসরণ করতে হয়। ক্রমটা গুরুত্বপূর্ণ। মানুষ নিজের আন্দাজে আল্লাহর বর্ণনা দিচ্ছিল। সৃষ্টি থেকে কোনো যুক্তি আনার আগেই আয়াত জানিয়ে দেয়, তাঁর সঠিক পরিচয় আসে একটিমাত্র পথে: তিনি নিজে যা নাযিল করেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sees three steps in the opening. The first verse calls to the Oneness of Allah through warning. The second gives what it calls a reported proof: messengers who came in different lands and ages, knowing nothing of one another's lives, all preached the same belief. Then 16:3 to 16:8 prove that belief by reason, through the blessings of creation. The reflection already published on 16:4 takes up one of them, man created from a drop.",
+            "bn": "মাআরিফুল কুরআন সূরার শুরুতে তিনটি ধাপ দেখে। প্রথম আয়াত সতর্ক করে আল্লাহর একত্বের দিকে ডাকে। দ্বিতীয় আয়াত দেয় বর্ণনানির্ভর প্রমাণ। ভিন্ন ভিন্ন দেশে, ভিন্ন ভিন্ন যুগে রাসূলরা এসেছেন, একে অপরের জীবনের খবর জানতেন না, তবু সবাই একই আকীদা প্রচার করেছেন। এরপর ১৬:৩ থেকে ১৬:৮ আয়াত সৃষ্টির নিয়ামত দেখিয়ে সেই আকীদাকেই যুক্তি দিয়ে প্রমাণ করে। ১৬:৪ আয়াতের যে আলোচনা আগে প্রকাশিত হয়েছে, তা এর একটি নিয়ে: এক ফোঁটা থেকে মানুষের সৃষ্টি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Sends the Angels Down",
+          "bn": "ফেরেশতাদের নামান কে"
+        },
+        "p": [
+          {
+            "en": "The reciters did not all read the opening verb alike. At-Tabari reports that the reciters of Madina and Kufa read yunazzilu, with a doubled z and the angels as object: Allah sends them down. Some reciters of Basra and Makkah read yunzilu, the same sense with a single z. A Kufan reciter is reported to have read tanazzalu, with the angels as subject, though he is also reported to have read as the rest of his city did.",
+            "bn": "শুরুর ক্রিয়াটি সব কারী একভাবে পড়েননি। তাবারী জানান, মদীনা ও কুফার কারীরা পড়েছেন ইউনাযযিলু, যা (ز) অক্ষরে তাশদীদ দিয়ে, আর ফেরেশতারা সেখানে কর্ম: আল্লাহ তাদের নামান। বসরা ও মক্কার কয়েকজন কারী পড়েছেন ইউনযিলু, তাশদীদ ছাড়া, অর্থ একই। কুফার এক কারী তানাযযালু পড়তেন বলে বর্ণিত আছে, যেখানে ফেরেশতারা নিজেরাই কর্তা। তবে তাঁর কাছ থেকে শহরের বাকি কারীদের মতো পড়ার বর্ণনাও আছে।"
+          },
+          {
+            "en": "At-Tabari prefers yunazzilu and gives two reasons. Allah is the one who sends His angels down with His revelation to His messengers, so the act is more fittingly attributed to Him. And the doubled form suits a revelation that came down to its recipient piece after piece. Al-Baghawi names Ya'qub for tanazzalu, with the angels in the nominative, and al-Qurtubi lists further readings, among them a passive one and one in the first person plural.",
+            "bn": "তাবারী ইউনাযযিলু পড়াটাকেই বেছে নেন, আর কারণ দেখান দুটি। রাসূলদের কাছে ওহী দিয়ে ফেরেশতাদের নামান আল্লাহ নিজেই, তাই কাজটা তাঁর দিকে সম্পৃক্ত করাই বেশি সংগত। আর ওহী যাঁর উপর নাযিল হতো, তাঁর কাছে আসত অল্প অল্প করে, ধাপে ধাপে। তাশদীদওয়ালা রূপটা সেই অর্থের সঙ্গেই বেশি মেলে। বাগাভী ইয়াকুবের নাম নেন তানাযযালু পাঠের জন্য, যেখানে ফেরেশতারা কর্তা। কুরতুবী আরও কয়েকটি পাঠ উল্লেখ করেন, তার একটি কর্মবাচ্যে, আরেকটি বহুবচনের উত্তম পুরুষে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruh Read Many Ways",
+          "bn": "রূহের নানা ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "The key word is ruh, spirit. The leading reading makes it revelation. At-Tabari carries it from Ibn Abbas (RA) in two words, bi-l-wahy, by revelation, and al-Muyassar and Ibn Kathir explain the verse the same way. Ibn Kathir supports it with 42:52, where Allah says He revealed to the Prophet a ruh of His command and made it a light by which He guides whom He wills. Al-Qurtubi gives the reading from Ibn Abbas as revelation, which is prophethood.",
+            "bn": "আয়াতের মূল শব্দ রূহ, অর্থাৎ প্রাণ বা আত্মা। প্রধান ব্যাখ্যায় এর মানে ওহী। তাবারী ইবন আব্বাস (রাঃ) থেকে দুই শব্দে এ ব্যাখ্যা বর্ণনা করেন: বিল-ওয়াহয়, অর্থাৎ ওহী দিয়ে। মুয়াসসার আর ইবন কাসীরও আয়াতটি এভাবেই বোঝান। ইবন কাসীর এর পক্ষে আনেন ৪২:৫২ আয়াত, যেখানে আল্লাহ বলছেন, তিনি নবীর কাছে নিজের আদেশের এক রূহ ওহী করেছেন এবং তাকে এমন আলো বানিয়েছেন, যা দিয়ে যাকে চান পথ দেখান। কুরতুবী ইবন আব্বাস (রাঃ) থেকে ব্যাখ্যাটি দেন এভাবে: ওহী, আর তা হলো নবুওয়াত।"
+          },
+          {
+            "en": "Others gave the word a nearer sense. Mujahid, in at-Tabari's report through Ibn Jurayj, said by prophethood, and al-Baghawi gives the same from Ata. Qatada said by mercy and revelation, and al-Qurtubi names al-Hasan and Qatada for mercy. Ar-Rabi ibn Anas said that every word our Lord has spoken is a ruh from Him, which al-Qurtubi sums up as the speech of Allah, the Qur'an. Al-Qurtubi also records az-Zajjaj's reading: guidance.",
+            "bn": "অন্যরা শব্দটির কাছাকাছি আরও কিছু অর্থ করেছেন। তাবারীর বর্ণনায়, ইবন জুরাইজের সূত্রে মুজাহিদ বলেছেন, নবুওয়াত দিয়ে। বাগাভী একই কথা আনেন আতা থেকে। কাতাদা বলেছেন, রহমত ও ওহী দিয়ে, আর কুরতুবী রহমতের ব্যাখ্যাটি হাসান ও কাতাদার নামে দেন। রাবী ইবন আনাস বলেছেন, আমাদের রব যে কথাই বলেছেন, তা তাঁর পক্ষ থেকে এক রূহ। কুরতুবী তাঁর মতটা সংক্ষেপে বলেন: আল্লাহর কালাম, অর্থাৎ কুরআন। কুরতুবী যাজ্জাজের ব্যাখ্যাও উল্লেখ করেন: হিদায়াত।"
+          },
+          {
+            "en": "Two readings move further away, and they are kept here as a real difference. Abu Ubayda, quoted by al-Qurtubi and al-Baghawi, took ruh here to be Jibril and the preposition bi to mean with: the angels come down with Jibril. Mujahid, in at-Tabari's reports from him, also said that no angel descends without a ruh accompanying it, and al-Qurtubi files this under the spirits of created beings. Al-Qurtubi lists these readings beside the others without choosing between them.",
+            "bn": "আরও দুটি ব্যাখ্যা অনেকটা ভিন্ন দিকে যায়। এখানে মতভেদ হিসেবেই সেগুলো রাখা হলো। কুরতুবী ও বাগাভী আবু উবায়দার উক্তি আনেন: এখানে রূহ মানে জিবরীল (আঃ), আর বি অব্যয়ের অর্থ সঙ্গে। অর্থাৎ ফেরেশতারা নামেন জিবরীলের (আঃ) সঙ্গে। তাবারীর বর্ণনাগুলোতে মুজাহিদ এ কথাও বলেছেন যে কোনো ফেরেশতা রূহ সঙ্গে না নিয়ে নামেন না। কুরতুবী এ মতকে সৃষ্টির রূহসমূহের ব্যাখ্যার মধ্যে রাখেন। অন্য ব্যাখ্যাগুলোর পাশাপাশি কুরতুবী এগুলোও উল্লেখ করেন, কোনোটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Makes Hearts Live",
+          "bn": "যাতে অন্তর বেঁচে ওঠে"
+        },
+        "p": [
+          {
+            "en": "Why call revelation spirit? Al-Baghawi answers directly: it is named ruh because hearts, and the truth, come alive by it. As-Sa'di calls it the revelation by which souls live. At-Tabari's own paraphrase does without the word and says the angels come down with that by which the truth lives and falsehood fades away. Az-Zajjaj, in al-Qurtubi's report, frames it as a likeness: hearts live by guidance as bodies live by their souls.",
+            "bn": "ওহীকে রূহ বলা হলো কেন? বাগাভী সরাসরি জবাব দেন: এর নাম রূহ, কারণ এর দ্বারা অন্তর বেঁচে ওঠে, সত্যও প্রাণ পায়। সা'দী একে বলেন সেই ওহী, যাতে আত্মার জীবন। তাবারী নিজের ব্যাখ্যায় শব্দটি ব্যবহারই করেন না। তিনি বলেন, ফেরেশতারা নামেন এমন জিনিস নিয়ে, যা দিয়ে সত্য বেঁচে থাকে আর মিথ্যা মিলিয়ে যায়। কুরতুবীর বর্ণনায় যাজ্জাজ বিষয়টা উপমা দিয়ে বোঝান: দেহ যেমন রূহ দিয়ে বাঁচে, অন্তর তেমনি বাঁচে হিদায়াত দিয়ে।"
+          },
+          {
+            "en": "Here the readings that seemed to differ come close. Whether ruh is taken as revelation, prophethood, the Qur'an, mercy or guidance, each gives life to what would otherwise lie still. The parallel Ibn Kathir cites, 42:52, completes the picture: before the ruh came, the Prophet ﷺ did not know what the Book was or what faith was, and Allah made it a light to guide by. A body without its soul does not move; a heart without revelation does not find its way.",
+            "bn": "এখানে এসে আপাতভিন্ন ব্যাখ্যাগুলো কাছাকাছি চলে আসে। রূহ মানে ওহী, নবুওয়াত, কুরআন, রহমত বা হিদায়াত, যা-ই ধরা হোক, প্রতিটিই এমন কিছুকে প্রাণ দেয়, যা নইলে নিথর পড়ে থাকত। ইবন কাসীর যে ৪২:৫২ আয়াত পাশে রাখেন, তা ছবিটা পূর্ণ করে। রূহ আসার আগে নবী ﷺ জানতেন না কিতাব কী, ঈমান কী। আল্লাহ সেটিকে বানালেন আলো, যা দিয়ে তিনি পথ দেখান। রূহ ছাড়া দেহ নড়ে না, আর ওহী ছাড়া অন্তর পথ খুঁজে পায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom He Knows Fit",
+          "bn": "যাঁকে তিনি যোগ্য জানেন"
+        },
+        "p": [
+          {
+            "en": "Ala man yasha'u min ibadihi: upon whom He wills of His servants. Ibn Kathir says these are the prophets and lines up three verses. In 6:124, Allah knows best where to place His message. In 22:75, Allah chooses messengers from the angels and from mankind. And in 40:15, He casts the ruh of His command upon whom He wills of His servants, to warn of the Day of Meeting. That last verse runs very close to this verse's own wording.",
+            "bn": "আলা মাই ইয়াশাউ মিন ইবাদিহি: নিজের বান্দাদের মধ্যে যার উপর তিনি চান। ইবন কাসীর বলেন, এঁরা হলেন নবীগণ, আর পরপর তিনটি আয়াত আনেন। ৬:১২৪ আয়াতে আছে, আল্লাহই ভালো জানেন তাঁর রিসালাত কোথায় রাখবেন। ২২:৭৫ আয়াতে আছে, আল্লাহ ফেরেশতাদের মধ্য থেকে রাসূল বেছে নেন, মানুষের মধ্য থেকেও। আর ৪০:১৫ আয়াতে আছে, তিনি নিজের বান্দাদের মধ্যে যার উপর চান, নিজের আদেশের রূহ পাঠান, যাতে সে সাক্ষাতের দিন সম্পর্কে সতর্ক করে। শেষ আয়াতটি প্রায় হুবহু এ আয়াতেরই বাক্য।"
+          },
+          {
+            "en": "At-Tabari glosses the phrase as whomever He wills of His messengers, and Qatada, in his report, says Allah selects messengers from among them. As-Sa'di gives the ground of the choice: Allah sends it on those He knows to be fit to carry His message. On this reading the will in the verse is the will of a Lord who knows where His message belongs, which is also the point of 6:124.",
+            "bn": "তাবারী বাক্যাংশটির ব্যাখ্যা দেন: তাঁর রাসূলদের মধ্যে যাকে তিনি চান। তাঁর বর্ণনায় কাতাদা বলেন, আল্লাহ তাদের মধ্য থেকে রাসূল বাছাই করে নেন। এ বাছাইয়ের ভিত্তি কী, সা'দী তা বলে দেন। আল্লাহ জানেন কে তাঁর রিসালাতের ভার বইবার যোগ্য, আর তার উপরই তিনি ওহী নাযিল করেন। এ ব্যাখ্যায় আয়াতের চাওয়া এমন এক সত্তার চাওয়া, যিনি জানেন তাঁর বার্তা কোথায় রাখতে হয়। ৬:১২৪ আয়াতের কথাও এটাই।"
+          },
+          {
+            "en": "Al-Qurtubi hears a reply in the phrase. It answers those who said, as 43:31 reports, Why was this Qur'an not sent down on some great man of the two towns? Their measure of worth was standing among men. The verse sets another measure. Allah sends His revelation on whom He wills of His servants, and the word servants itself describes the one who receives it: a person whose standing lies in belonging to Allah.",
+            "bn": "কুরতুবী এ বাক্যাংশে একটা জবাব শুনতে পান। ৪৩:৩১ আয়াত জানায়, কিছু লোক বলেছিল, এ কুরআন দুই জনপদের কোনো বড় মানুষের উপর নাযিল হলো না কেন? তাদের মাপকাঠি ছিল মানুষের মধ্যে মর্যাদা। আয়াত অন্য এক মাপকাঠি সামনে আনে। আল্লাহ নিজের বান্দাদের মধ্যে যার উপর চান, ওহী নাযিল করেন। বান্দা শব্দটাই বলে দেয় গ্রহীতা কেমন মানুষ: তাঁর মর্যাদা আল্লাহর হয়ে থাকায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sentence Every Messenger Carried",
+          "bn": "সব রাসূলের এক বাক্য"
+        },
+        "p": [
+          {
+            "en": "An andhiru annahu la ilaha illa ana fattaqun: warn that there is no god but Me, so fear Me. Ibn Kathir sets beside it 21:25: We sent no messenger before you except that We revealed to him that there is no god but Me, so worship Me. Qatada, in at-Tabari, says that Allah sent the messengers only so that He alone be worshipped, His Oneness affirmed, His command obeyed and His displeasure avoided.",
+            "bn": "আন আনযিরূ আন্নাহু লা ইলাহা ইল্লা আনা ফাত্তাকূন: সতর্ক করো যে আমি ছাড়া কোনো ইলাহ নেই, অতএব আমাকে ভয় করো। ইবন কাসীর এর পাশে রাখেন ২১:২৫ আয়াত: তোমার আগে আমি যে রাসূলই পাঠিয়েছি, তার কাছে এ ওহীই পাঠিয়েছি যে আমি ছাড়া কোনো ইলাহ নেই, অতএব আমারই ইবাদত করো। তাবারীর বর্ণনায় কাতাদা বলেন, আল্লাহ রাসূলদের পাঠিয়েছেন শুধু এ জন্য যে তাঁকে এক বলে মেনে তাঁরই ইবাদত হবে, তাঁর আদেশ মানা হবে, আর তাঁর অসন্তুষ্টি এড়িয়ে চলা হবে।"
+          },
+          {
+            "en": "As-Sa'di calls this sentence the cream of the call of all the messengers, the axis on which it turns: knowing Allah, affirming that He alone has the attributes of greatness that belong to divinity, and worshipping Him alone with no partner. For this, he says, Allah sent down His books and sent His messengers, and made every revealed law call to it. Ma'arif al-Qur'an, as noted above, makes this same agreement of the messengers its proof.",
+            "bn": "সা'দী এ বাক্যকে বলেন সব রাসূলের দাওয়াতের নির্যাস, যাকে ঘিরে পুরো দাওয়াত ঘোরে। তা হলো আল্লাহকে চেনা, মহিমার যেসব গুণ উলূহিয়্যাতের গুণ, তাতে তাঁকে একক বলে মানা, আর শরীকহীনভাবে শুধু তাঁরই ইবাদত করা। তাঁর ভাষায়, এর জন্যই আল্লাহ কিতাবগুলো নাযিল করেছেন, রাসূলদের পাঠিয়েছেন, আর প্রতিটি শরীয়তকে এর দিকে ডাকার জন্য বানিয়েছেন। আগেই বলা হয়েছে, মাআরিফুল কুরআন রাসূলদের এই ঐকমত্যকেই প্রমাণ হিসেবে দাঁড় করায়।"
+          },
+          {
+            "en": "At-Tabari reads the grammar so that the message and the ruh are one. The first an, he says, stands in the genitive as a restatement of the ruh, so the ruh the angels bring is itself this command to warn. Al-Qurtubi reads it differently, as governed by a dropped preposition: with the instruction to warn the disbelievers. Al-Baghawi glosses andhiru as inform, and records a view that it means bid them to say la ilaha illa Allah.",
+            "bn": "তাবারী ব্যাকরণ এমনভাবে পড়েন যে বার্তা আর রূহ এক হয়ে যায়। তাঁর মতে প্রথম আন শব্দটি সম্বন্ধপদে আছে, রূহেরই পুনরুক্তি হিসেবে। তাহলে ফেরেশতারা যে রূহ নিয়ে আসেন, তা নিজেই সতর্ক করার এই আদেশ। কুরতুবী অন্যভাবে পড়েন। তাঁর মতে শব্দটির আগে একটি অব্যয় উহ্য আছে, অর্থাৎ কাফিরদের সতর্ক করার নির্দেশ নিয়ে। বাগাভী আনযিরূর অর্থ করেন, জানিয়ে দাও। তিনি একটি মতও উল্লেখ করেন, যার অর্থ: তাদের লা ইলাহা ইল্লাল্লাহ বলতে আদেশ করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Warned, Then Told to Fear",
+          "bn": "সতর্কবাণী, তারপর তাকওয়া"
+        },
+        "p": [
+          {
+            "en": "Why warn rather than simply inform? Al-Qurtubi says the root sense of indhar is cautioning against something to be feared, and that the warning here is against the worship of idols, as the closing fattaqun confirms. Al-Muyassar says it plainly: make people afraid of associating partners with Allah. At-Tabari spells it out as warning His servants of His might, set against their disbelief in Him and their taking gods and idols beside Him.",
+            "bn": "শুধু জানিয়ে দেওয়া নয়, সতর্ক করা কেন? কুরতুবী বলেন, ইনযারের মূল অর্থ ভয়ের কিছু থেকে সাবধান করা। এখানে সাবধান করা হচ্ছে মূর্তিপূজা থেকে, আর শেষের ফাত্তাকূন শব্দটি তা নিশ্চিত করে। মুয়াসসার সোজা কথায় বলে: মানুষকে শিরকের ভয় দেখাও। তাবারী বিষয়টা খুলে বলেন। বান্দাদের সতর্ক করতে হবে আল্লাহর প্রবল পাকড়াও সম্পর্কে, কারণ তারা তাঁকে অস্বীকার করে আর তাঁর পাশাপাশি অন্য উপাস্য ও মূর্তি গ্রহণ করে।"
+          },
+          {
+            "en": "Then fattaqun, so fear Me. Ibn Kathir explains it as fear My punishment, which falls on whoever opposes My command and worships another. At-Tabari makes the fear practical: beware of Me by carrying out My obligations, singling Me out in worship and making lordship purely Mine, for that is your rescue from ruin. And the verse itself turns. It opens speaking of Allah, He sends down, and closes with Allah speaking: no god but Me.",
+            "bn": "তারপর ফাত্তাকূন, অতএব আমাকে ভয় করো। ইবন কাসীর এর ব্যাখ্যা দেন: আমার শাস্তিকে ভয় করো, যা আসে আমার আদেশ অমান্যকারী আর অন্যের ইবাদতকারীর উপর। তাবারী ভয়টাকে আমলের রূপ দেন: আমার ফরযগুলো আদায় করে, ইবাদতে আমাকে একক রেখে, আর রুবুবিয়্যাত খাঁটিভাবে আমারই বলে মেনে আমাকে সমঝে চলো। এতেই ধ্বংস থেকে তোমাদের মুক্তি। আয়াতের নিজের ভেতরেও একটা বাঁক আছে। শুরুতে আল্লাহর ব্যাপারে কথা: তিনি নামান। শেষে আল্লাহ নিজেই বলছেন: আমি ছাড়া কোনো ইলাহ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked How Revelation Came",
+          "bn": "ওহী আসত কীভাবে"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it. A general narration, not attached to the verse, shows what the descent of revelation was like for the one who received it. Al-Bukhari reports it in his Sahih (no. 2) from Aisha (RA): al-Harith ibn Hisham asked the Messenger of Allah ﷺ, O Allah's Messenger! How is the Divine Inspiration revealed to you?",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তবে একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, কিন্তু দেখায় ওহী নাযিলের মুহূর্তটা গ্রহীতার কাছে কেমন ছিল। বুখারী তাঁর সহীহ গ্রন্থে (নং ২) আয়িশা (রাঃ) থেকে বর্ণনা করেছেন: হারিস ইবন হিশাম আল্লাহর রাসূল ﷺ-কে জিজ্ঞেস করলেন, হে আল্লাহর রাসূল, আপনার কাছে ওহী আসে কীভাবে?"
+          },
+          {
+            "en": "He replied: \"Sometimes it is (revealed) like the ringing of a bell, this form of Inspiration is the hardest of all and then this state passes off after I have grasped what is inspired. Sometimes the Angel comes in the form of a man and talks to me and I grasp whatever he says.\" Aisha added: \"Verily I saw the Prophet (ﷺ) being inspired divinely on a very cold day and noticed the sweat dropping from his forehead (as the Inspiration was over).\"",
+            "bn": "তিনি বললেন: \"কখনো তা আসে ঘণ্টার ঝনঝন শব্দের মতো। এটাই আমার জন্য সবচেয়ে কঠিন। তারপর তিনি যা বলেন, তা আমি আত্মস্থ করে ফেলার পর অবস্থাটা কেটে যায়। আর কখনো ফেরেশতা মানুষের রূপ ধরে আমার সামনে আসেন, আমার সঙ্গে কথা বলেন, আর তিনি যা বলেন, আমি তা আত্মস্থ করি।\" আয়িশা (রাঃ) বলেন: \"আমি তাঁকে দেখেছি, প্রচণ্ড শীতের দিনে তাঁর উপর ওহী নাযিল হচ্ছে। ওহী শেষ হলে দেখা যেত, তাঁর কপাল থেকে ঘাম ঝরছে।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living by the Ruh Today",
+          "bn": "আজও রূহ নিয়ে বাঁচা"
+        },
+        "p": [
+          {
+            "en": "The messengers carried the warning; whoever reads the Qur'an now receives it. If revelation is what gives the heart life, time spent with it is not an extra laid on top of faith. The verse also hands the reader something to check himself against. At-Tabari's gloss on fattaqun is a short list: the duties Allah has made obligatory, worship given to Him alone, and lordship owned as His. Each can be looked for in an ordinary day.",
+            "bn": "সতর্কবাণী বয়ে এনেছিলেন রাসূলরা। আজ যে কুরআন পড়ে, সে-ই তা গ্রহণ করে। ওহীই যদি অন্তরের প্রাণ হয়, তবে তার সঙ্গে কাটানো সময় ঈমানের উপর বাড়তি কোনো বোঝা নয়। আয়াত পাঠককে নিজেকে মেপে দেখার একটা মাপকাঠিও দেয়। ফাত্তাকূনের যে ব্যাখ্যা তাবারী দেন, তা ছোট্ট একটা তালিকা: আল্লাহর ফরয করা দায়িত্বগুলো, শুধু তাঁরই ইবাদত, আর রুবুবিয়্যাত তাঁরই বলে মানা। সাধারণ একটা দিনের মধ্যেই এর প্রতিটি খুঁজে দেখা যায়।"
+          },
+          {
+            "en": "The verse also meets a particular kind of impatience. Its neighbour, 16:1, told people who demanded the promised punishment not to hurry it. The answer it gives is not a date. It is the message already sent down. Before anyone asks when Allah will act, the passage turns him to what Allah has already said: there is no god but Me, so fear Me. That sentence asks something of whoever hears it today, and the asking does not wait for the Day.",
+            "bn": "আয়াতটি এক বিশেষ ধরনের অধৈর্যেরও জবাব দেয়। পাশের আয়াত ১৬:১ প্রতিশ্রুত শাস্তি দাবি করা লোকদের বলেছিল, তাড়াহুড়ো কোরো না। জবাবে কোনো তারিখ দেওয়া হয়নি। দেওয়া হয়েছে আগেই নাযিল হওয়া বার্তা। আল্লাহ কবে কী করবেন, সে প্রশ্ন তোলার আগে আয়াত মানুষকে ফিরিয়ে দেয় আল্লাহ যা বলেই দিয়েছেন তার দিকে: আমি ছাড়া কোনো ইলাহ নেই, অতএব আমাকে ভয় করো। আজ যে এ বাক্য শোনে, তার কাছে এটি কিছু দাবি করে। সে দাবি কিয়ামতের অপেক্ষায় বসে থাকে না।"
+          }
+        ]
+      }
+    ]
+  },
   "16:4": {
     "sections": [
       {
