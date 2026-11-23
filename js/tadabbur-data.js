@@ -30483,6 +30483,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Call a wrong grave even when your own side did it, weigh every wrong on one honest scale, and guard your faith to the end, for your deeds stand on it.",
     "lessonBn": "নিজের পক্ষ করলেও অন্যায়কে গুরুতর বলুন, সব অন্যায় একই সৎ দাঁড়িপাল্লায় মাপুন, আর শেষ পর্যন্ত ঈমান আগলে রাখুন, কারণ আপনার আমল তার উপরেই দাঁড়িয়ে।"
+  },
+  "2:27": {
+    "reflectionEn": "The verse before this one ends on a word, al-fasiqin, and this verse says who they are. It names no one; it lists three acts. They break the covenant of Allah after it was made firm. They cut what Allah ordered to be joined. They spread corruption on earth. Then one verdict: these are the losers. The commentators differ over which covenant and which ties are meant, and the widest readings take in every command and every bond, from faith in all the messengers to the relative I have not called in a year. That width turns the verse from a description of others into a question for me. Which promise to Allah have I let unravel? Which tie have I let go cold?",
+    "reflectionBn": "আগের আয়াত শেষ হয়েছে একটি শব্দে, আল-ফাসিকীন। এ আয়াত বলে দেয় তারা কারা। কারও নাম নেয় না, শুধু তিনটি কাজের কথা বলে। পাকাপোক্ত করার পর তারা আল্লাহর অঙ্গীকার ভেঙে ফেলে। আল্লাহ যা জুড়ে রাখতে বলেছেন, তা কেটে দেয়। আর পৃথিবীতে ফাসাদ ছড়ায়। তারপর একটিই রায়: এরাই ক্ষতিগ্রস্ত। কোন অঙ্গীকার আর কোন বন্ধন, তা নিয়ে মুফাসসিরদের মত আলাদা। সবচেয়ে প্রশস্ত ব্যাখ্যায় এর ভেতরে আসে প্রতিটি আদেশ আর প্রতিটি সম্পর্ক, সব রাসূলের প্রতি ঈমান থেকে শুরু করে সেই আত্মীয় পর্যন্ত, যাকে এক বছর ধরে একটা ফোনও করিনি। এই প্রশস্ততাই আয়াতটিকে অন্যের বর্ণনা থেকে আমার নিজের প্রশ্নে বদলে দেয়। আল্লাহকে দেওয়া কোন কথাটা আমি খুলে যেতে দিয়েছি? কোন সম্পর্কটা ঠান্ডা হয়ে যেতে দিয়েছি?",
+    "pointsEn": [
+      "What have I promised Allah, in a prayer or a hard hour, and then quietly set aside once the hour passed?",
+      "Is there a relative I have stopped visiting or calling, and what would it take to reach out to them this week?",
+      "Where does my word part company with my deed, so that I say what I do not do?",
+      "Do I keep agreements with people unlike me as carefully as with my own, and would they say so?",
+      "When a verse describes the losers, do I look for other people in it, or measure myself against it first?"
+    ],
+    "pointsBn": [
+      "দোয়ায় বা কঠিন সময়ে আল্লাহকে আমি কী কথা দিয়েছিলাম, যা সময়টা পার হতেই চুপচাপ সরিয়ে রেখেছি?",
+      "এমন কোনো আত্মীয় কি আছেন, যাঁর কাছে যাওয়া বা যাঁকে ফোন করা আমি ছেড়ে দিয়েছি? এ সপ্তাহে তাঁর খোঁজ নিতে আমার কী লাগবে?",
+      "আমার কথা আর কাজ কোথায় আলাদা হয়ে যায়, যেখানে আমি এমন কথা বলি যা নিজে করি না?",
+      "আমার মতো নয় এমন মানুষের সঙ্গে করা চুক্তিও কি নিজের লোকের চুক্তির মতো যত্নে রক্ষা করি? তারা কি তা স্বীকার করবে?",
+      "কোনো আয়াত যখন ক্ষতিগ্রস্তদের বর্ণনা দেয়, আমি কি তাতে অন্যদের খুঁজি, নাকি আগে নিজেকে তার সঙ্গে মিলিয়ে দেখি?"
+    ],
+    "lessonEn": "Keep the covenant you owe Allah and the ties He ordered joined, for loss begins with a promise left to unravel and a bond allowed to break.",
+    "lessonBn": "আল্লাহর সঙ্গে করা অঙ্গীকার আর তিনি যে বন্ধন জুড়ে রাখতে বলেছেন তা রক্ষা করুন। ক্ষতির শুরু হয় খুলে যেতে দেওয়া একটি কথা আর ছিঁড়ে যেতে দেওয়া একটি সম্পর্ক থেকে।"
   }
 };
 

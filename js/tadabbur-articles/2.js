@@ -915,6 +915,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Fasiqin, Defined by Deeds",
+          "bn": "কাজ দিয়ে চেনা ফাসিকরা"
+        },
+        "p": [
+          {
+            "en": "Al-ladhina yanqudun 'ahd Allah: those who break the covenant of Allah. The verse leans on the last word of 2:26, where the gnat parable closes: He leads astray by it none but al-fasiqin. Al-Qurtubi reads al-ladhina either as an adjective of al-fasiqin or as the predicate of an unspoken subject: they are those who. At-Tabari says it plainly: this is Allah's description of the fasiqin, the only ones the parable leads astray.",
+            "bn": "আল্লাযীনা ইয়ানকুদূনা আহদাল্লাহ: যারা আল্লাহর অঙ্গীকার ভাঙে। আয়াতটি ভর দিয়ে আছে ২:২৬ আয়াতের শেষ শব্দের উপর। মশার উপমা সেখানে শেষ হয় এ কথায়: তিনি এ দিয়ে ফাসিকদের ছাড়া কাউকে বিভ্রান্ত করেন না। কুরতুবীর মতে আল্লাযীনা হয় ফাসিকীন শব্দের বিশেষণ, নয়তো উহ্য এক উদ্দেশ্যের বিধেয়, অর্থাৎ তারা হলো সেই লোক যারা। তাবারী সোজাসুজি বলেন, এ হলো সেই ফাসিকদের পরিচয়, উপমা যাদের ছাড়া আর কাউকে বিভ্রান্ত করে না।"
+          },
+          {
+            "en": "Ibn Kathir starts from the word. Fisq in the language is going out from obedience: the Arabs say a ripe date fasaqat when it comes out of its skin, and call the mouse fuwaysiqa because it leaves its burrow to do damage. He adds the hadith of the Two Sahihs that calls five harmful animals fawasiq. The fasiq, he says, may be a disbeliever or simply disobedient, and he takes the verse to mean the disbeliever. His evidence is the three traits themselves, which stand opposite the traits of the believers.",
+            "bn": "ইবন কাসীর শুরু করেন শব্দটি থেকে। ভাষায় ফিসক মানে আনুগত্যের গণ্ডি থেকে বেরিয়ে যাওয়া। পাকা খেজুর খোসা ছেড়ে বেরোলে আরবরা বলে ফাসাকাত, আর ইঁদুরকে বলে ফুওয়াইসিকা, কারণ সে গর্ত ছেড়ে বেরিয়ে ক্ষতি করে বেড়ায়। তিনি দুই সহীহ গ্রন্থের সেই হাদীসও আনেন, যেখানে পাঁচটি ক্ষতিকর প্রাণীকে ফাওয়াসিক বলা হয়েছে। তাঁর মতে ফাসিক কাফিরও হতে পারে, শুধু গুনাহগারও হতে পারে। তবে এ আয়াতে তিনি কাফিরকেই উদ্দেশ্য ধরেন। তাঁর প্রমাণ এই তিনটি বৈশিষ্ট্যই, যা মুমিনদের বৈশিষ্ট্যের ঠিক উল্টো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Undoing a Knot Tied Twice",
+          "bn": "দুবার বাঁধা গিঁট খুলে ফেলা"
+        },
+        "p": [
+          {
+            "en": "Yanqudun, they break. Al-Qurtubi defines naqd as spoiling what you had made firm, a building, a rope or a pact; a nuqada is a strand undone from a rope of hair. Al-Baghawi glosses the verb as they oppose and abandon, and gives its root sense as breaking. The picture is a twisted cord picked apart. The Qur'an uses the same verb in 16:92 for a woman who undoes her spun yarn after it had grown strong.",
+            "bn": "ইয়ানকুদূন, তারা ভাঙে। কুরতুবী নাকদের সংজ্ঞা দেন এভাবে: যা মজবুত করে গড়েছিলে তা নষ্ট করে ফেলা, হোক তা দালান, দড়ি বা চুক্তি। চুলের দড়ি থেকে খুলে আসা আঁশকে বলে নুকাদা। বাগাভী ক্রিয়াটির অর্থ করেন বিরোধিতা করা ও ছেড়ে দেওয়া, আর বলেন এর মূল অর্থ ভেঙে ফেলা। ছবিটা এক পাকানো দড়ির, যার আঁশ খুঁটে খুঁটে খুলে ফেলা হয়েছে। ১৬:৯২ আয়াতে কুরআন এই একই ক্রিয়া ব্যবহার করেছে সেই নারীর বেলায়, যে মজবুত করে কাটা সুতা নিজেই খুলে ফেলে।"
+          },
+          {
+            "en": "Then min ba'di mithaqihi, after its firm making. Al-Qurtubi calls the mithaq a covenant confirmed by oath, from wathaqa, firmness in tying. Al-Baghawi glosses the phrase as its confirmation. At-Tabari reads it as after Allah had made it firm by taking their pledges to keep it, the pronoun returning to Allah. So the charge is not a careless word. It is undoing something knotted twice, once as a covenant and again as a confirmed pledge.",
+            "bn": "তারপর মিন বা'দি মীসাকিহী, পাকাপোক্ত করার পর। কুরতুবী বলেন, মীসাক হলো শপথ দিয়ে দৃঢ় করা অঙ্গীকার। শব্দটি এসেছে ওয়াসাকা থেকে, যার অর্থ বাঁধনের মজবুতি। বাগাভী অংশটির অর্থ করেন: তা দৃঢ় করার পর। তাবারীর ব্যাখ্যায়, রক্ষার প্রতিশ্রুতি নিয়ে আল্লাহ তা মজবুত করার পর, আর সর্বনামটি ফিরেছে আল্লাহর দিকে। তাই অভিযোগটা মুখ ফসকে বেরোনো কোনো কথার নয়। অভিযোগ দুবার বাঁধা গিঁট খুলে ফেলার: একবার অঙ্গীকার হিসেবে, আরেকবার দৃঢ় প্রতিশ্রুতি হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Pledge Was Broken",
+          "bn": "কোন প্রতিশ্রুতি ভাঙা হলো"
+        },
+        "p": [
+          {
+            "en": "Which covenant? At-Tabari reports four views. Some said it is Allah's charge to His creation: the obedience He commanded and the disobedience He forbade in His books and on the tongue of His Messenger ﷺ, and breaking it is leaving it undone. Others said these verses came down about the disbelievers of the People of the Book and their hypocrites, and the covenant is what Allah took from them in the Torah: to act on it, and to follow Muhammad ﷺ when he was sent and believe in him.",
+            "bn": "কোন অঙ্গীকার? তাবারী চারটি মত আনেন। কেউ বলেছেন, এ হলো সৃষ্টির প্রতি আল্লাহর নির্দেশনামা: তাঁর কিতাবগুলোতে আর তাঁর রাসূল ﷺ-এর মুখে তিনি যে আনুগত্যের আদেশ দিয়েছেন আর যে নাফরমানি নিষেধ করেছেন। তা ভাঙা মানে সে অনুযায়ী আমল ছেড়ে দেওয়া। অন্যরা বলেছেন, এ আয়াতগুলো নাযিল হয়েছে আহলে কিতাবের কাফির আর তাদের মুনাফিকদের ব্যাপারে। অঙ্গীকারটি তাওরাতে তাদের কাছ থেকে নেওয়া: তাওরাত অনুযায়ী আমল করা, আর মুহাম্মাদ ﷺ প্রেরিত হলে তাঁর অনুসরণ করা ও তাঁর উপর ঈমান আনা।"
+          },
+          {
+            "en": "A third group said it covers all people of shirk, disbelief and hypocrisy: the covenant is the proofs Allah set up for His lordship and the miracles that bore witness for His messengers, and breaking it is refusing what those proofs made clear. Ibn Kathir finds something like it reported from Muqatil ibn Hayyan, calls it good, and quotes az-Zamakhshari leaning towards it. A fourth group said it is the covenant taken when Allah drew Adam's offspring from their backs, in 7:172 and 7:173. Al-Baghawi gives this one first.",
+            "bn": "তৃতীয় একদল বলেছেন, এর আওতায় শিরক, কুফর ও নিফাকের সব লোক। অঙ্গীকার হলো আল্লাহর রুবুবিয়্যাতের পক্ষে তাঁর সাজিয়ে রাখা প্রমাণ, আর সেই মুজিযা যা তাঁর রাসূলদের সত্যতার সাক্ষ্য দিয়েছে। তা ভাঙা মানে প্রমাণ যা স্পষ্ট করেছে তা মানতে অস্বীকার করা। ইবন কাসীর মুকাতিল ইবন হাইয়ান থেকে এর কাছাকাছি একটি বর্ণনা পান, একে ভালো বলেন, আর উদ্ধৃত করেন যে যামাখশারীও এদিকে ঝুঁকেছেন। চতুর্থ একদল বলেছেন, এ সেই অঙ্গীকার যা আল্লাহ নিয়েছিলেন আদম (আঃ)-এর সন্তানদের তাদের পিঠ থেকে বের করার সময়, ৭:১৭২ ও ৭:১৭৩ আয়াতে। বাগাভী এ মতটিই প্রথমে আনেন।"
+          },
+          {
+            "en": "At-Tabari prefers the second: the verses came down about the disbelieving rabbis around the Prophet's city of emigration and the idolatrous hypocrites, as 2:40 shows, where the Children of Israel alone are told to fulfil My covenant, and 3:187, where they threw the Book's clear statement behind their backs. Whoever follows their way, he adds, enters their censure. Al-Qurtubi counts five views, adding from az-Zajjaj the pledge of 3:81, and judges that Allah's charge in His books gathers them all. As-Sa'di reads it at its widest: every covenant with Allah and with His servants.",
+            "bn": "তাবারী দ্বিতীয় মতটিকে অগ্রাধিকার দেন। তাঁর মতে আয়াতগুলো নাযিল হয়েছে নবী ﷺ-এর হিজরতের শহরের আশপাশের কাফির ইহুদি আলিম আর মূর্তিপূজারি মুনাফিকদের ব্যাপারে। প্রমাণ ২:৪০ আয়াত, যেখানে শুধু বনী ইসরাঈলকে বলা হয়েছে, আমার অঙ্গীকার পূর্ণ কর। আর ৩:১৮৭ আয়াত, যেখানে কিতাবের স্পষ্ট বর্ণনা তারা পিঠের পেছনে ছুড়ে ফেলেছিল। তবে তিনি যোগ করেন, যে-ই তাদের পথে চলবে, সে-ও তাদের নিন্দার ভেতরে পড়বে। কুরতুবী পাঁচটি মত গোনেন, যাজ্জাজের সূত্রে যোগ করেন ৩:৮১ আয়াতের অঙ্গীকার। তাঁর বিচারে কিতাবগুলোতে দেওয়া আল্লাহর নির্দেশনামার মতটিই বাকিগুলোকে ধারণ করে। সা'দী একে পড়েন সবচেয়ে প্রশস্ত অর্থে: আল্লাহর সঙ্গে আর তাঁর বান্দাদের সঙ্গে করা প্রতিটি অঙ্গীকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Womb, or Every Bond",
+          "bn": "রক্তের সম্পর্ক, নাকি সব বন্ধন"
+        },
+        "p": [
+          {
+            "en": "Wa-yaqta'una ma amara Allahu bihi an yusal: and they sever what Allah ordered to be joined. At-Tabari reads it narrowly as the rahm, the bond of kinship, pointing to 47:22, where corruption on earth and cutting kinship stand side by side. Kin, he says, are those a shared mother's womb has joined. Cutting is wronging them by withholding the rights and kindness Allah made due; joining is giving those rights with tenderness. Qatadah, in his chain, swore: by Allah, he cut what Allah ordered joined by cutting off kin and relatives.",
+            "bn": "ওয়া ইয়াকতাঊনা মা আমারাল্লাহু বিহী আন ইউসাল: আর আল্লাহ যা জুড়ে রাখার আদেশ দিয়েছেন, তা তারা কেটে দেয়। তাবারী একে সংকীর্ণ অর্থে পড়েন: রাহিম, অর্থাৎ আত্মীয়তার বন্ধন। তিনি দেখান ৪৭:২২ আয়াত, যেখানে পৃথিবীতে ফাসাদ আর আত্মীয়তা ছিন্ন করার কথা পাশাপাশি এসেছে। তাঁর সংজ্ঞায় আত্মীয় তারা, মায়ের গর্ভের সূত্র যাদের জুড়ে দিয়েছে। আল্লাহ তাদের যে হক আর সদ্ব্যবহার পাওনা করেছেন, তা না দিয়ে জুলুম করাই সম্পর্ক কাটা। মমতা নিয়ে সে হক আদায় করাই সম্পর্ক জোড়া। তাঁর সনদে কাতাদা শপথ করে বলেছেন: আল্লাহর কসম, আত্মীয়-স্বজনের সঙ্গে সম্পর্ক ছিন্ন করে সে কেটে দিল আল্লাহ যা জুড়ে রাখতে বলেছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir notes that at-Tabari preferred this reading. Yet at-Tabari also reports some who took the wording as general, so that the verse blames them for cutting off the Messenger ﷺ, the believers and their own kin. He calls this not far from right, and concludes that even on his own reading the verse shows Allah's censure of anyone who cuts what He ordered joined, kinship or otherwise.",
+            "bn": "ইবন কাসীর উল্লেখ করেন, তাবারী এ ব্যাখ্যাকেই অগ্রাধিকার দিয়েছেন। তবে তাবারী এমন কয়েকজনের মতও আনেন, যাঁরা আয়াতের শব্দকে ব্যাপক ধরেছেন। তাঁদের ব্যাখ্যায় নিন্দা হচ্ছে রাসূল ﷺ, মুমিনগণ আর নিজেদের আত্মীয়দের থেকে সম্পর্ক কেটে নেওয়ার জন্য। তাবারী একে সঠিক থেকে দূরে নয় বলে মনে করেন। শেষে বলেন, তাঁর নিজের ব্যাখ্যা ধরলেও আয়াতটি নিন্দা জানায় এমন যে কারও প্রতি, যে আল্লাহর জোড়া রাখার আদেশ দেওয়া জিনিস কেটে দেয়, তা আত্মীয়তা হোক বা অন্য কিছু।"
+          },
+          {
+            "en": "Al-Qurtubi lists four answers: kinship; word joined to deed, cut by saying and not doing; belief in all the prophets, cut by accepting some and denying others; and Allah's religion, His laws and His limits. The verse, he says, is general in all Allah ordered joined; that is the majority's view, and kinship is part of it. Al-Baghawi puts faith in all the messengers first, since they believed in some and denied others, while the believers say in 2:285 that they make no distinction among His messengers. Kinship comes second.",
+            "bn": "কুরতুবী চারটি উত্তর গোনেন। আত্মীয়তার বন্ধন। কথার সঙ্গে কাজ জুড়ে রাখা, যা তারা কেটেছে বলে কিন্তু না করে। সব নবীর প্রতি বিশ্বাস, যা কেটেছে কাউকে মেনে কাউকে অস্বীকার করে। আর আল্লাহর দীন, তাঁর শরীয়ত ও তাঁর সীমারেখা। তিনি বলেন, আল্লাহ যা কিছু জুড়ে রাখতে বলেছেন তার সবই এর আওতায়। এটাই অধিকাংশের মত, আর আত্মীয়তা তারই একটি অংশ। বাগাভী প্রথমে আনেন সব রাসূলের প্রতি ঈমানের ব্যাখ্যা, কারণ তারা কাউকে মানত আর কাউকে অস্বীকার করত। অথচ ২:২৮৫ আয়াতে মুমিনরা বলে, তাঁর রাসূলদের কারও মধ্যে আমরা পার্থক্য করি না। আত্মীয়তার ব্যাখ্যা আসে দ্বিতীয় স্থানে।"
+          },
+          {
+            "en": "As-Sa'di draws three circles. Allah ordered us to join what lies between us and Him, by faith and by worship; what lies between us and His Messenger, by faith in him, love, support and his rights; and what lies between us and parents, relatives, companions and the rest of creation, by their rights. Ma'arif al-Qur'an gives a similar list, from Allah and His servant to one man and another, and says Islam itself means fulfilling the obligations of all these relationships.",
+            "bn": "সা'দী তিনটি বৃত্ত আঁকেন। আল্লাহ আমাদের আদেশ দিয়েছেন জুড়ে রাখতে আমাদের আর তাঁর মাঝের সম্পর্ক, ঈমান আর ইবাদত দিয়ে। আমাদের আর তাঁর রাসূলের মাঝের সম্পর্ক, তাঁর প্রতি ঈমান, ভালোবাসা, সাহায্য আর তাঁর হক আদায় করে। আর আমাদের সঙ্গে মা-বাবা, আত্মীয়, সঙ্গী-সাথি ও গোটা সৃষ্টির সম্পর্ক, তাদের হক আদায় করে। মাআরিফুল কুরআনও প্রায় একই তালিকা দেয়, আল্লাহ ও বান্দার সম্পর্ক থেকে শুরু করে এক মানুষের সঙ্গে আরেক মানুষের সম্পর্ক পর্যন্ত। তার মতে এসব সম্পর্কের দায় পূরণ করারই নাম ইসলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Corruption as the Commentators Read It",
+          "bn": "মুফাসসিরদের চোখে ফাসাদ"
+        },
+        "p": [
+          {
+            "en": "Wa-yufsiduna fi al-ard: and they cause corruption on earth. At-Tabari ties it to what he has already described: their disobedience to their Lord, their disbelief in Him, their belying of His Messenger, and their denial of his prophethood and of what he brought. Al-Qurtubi says they worship other than Allah and act unjustly, their deeds following their desires, and calls this the utmost corruption. Al-Baghawi names sins, and holding people back from faith in Muhammad ﷺ and the Qur'an.",
+            "bn": "ওয়া ইউফসিদূনা ফিল আরদ: আর তারা পৃথিবীতে ফাসাদ সৃষ্টি করে। তাবারী একে বেঁধে রাখেন আগের বর্ণনার সঙ্গেই: রবের নাফরমানি, তাঁর সঙ্গে কুফরি, তাঁর রাসূলকে মিথ্যা বলা, তাঁর নবুওয়াত আর তাঁর আনা বাণী অস্বীকার করা। কুরতুবী বলেন, তারা আল্লাহ ছাড়া অন্যের ইবাদত করে আর কাজে জুলুম করে, কারণ তাদের কাজ চলে খেয়ালখুশি মতো। তাঁর ভাষায় এটাই ফাসাদের চূড়ান্ত রূপ। বাগাভী নাম নেন গুনাহর, আর মানুষকে মুহাম্মাদ ﷺ ও কুরআনের প্রতি ঈমান আনা থেকে আটকে রাখার।"
+          },
+          {
+            "en": "As-Sa'di ties the clauses together. The believers joined the rights Allah ordered joined; the fasiqin cut them and threw them behind their backs, taking in exchange fisq, severance and disobedience, and that, he says, is corruption on earth. Ma'arif al-Qur'an says failure in these obligations breeds disorder among people, until the transgressors destroy others and themselves. On these readings the corruption is not a fourth crime; it is what the first two acts become once they spread.",
+            "bn": "সা'দী অংশগুলোকে এক সুতায় গাঁথেন। মুমিনরা আল্লাহর জুড়ে রাখতে বলা হকগুলো জুড়ে রেখেছে। ফাসিকরা সেগুলো কেটে পিঠের পেছনে ছুড়ে ফেলেছে, আর বদলে নিয়েছে ফিসক, সম্পর্কচ্ছেদ আর নাফরমানি। তিনি বলেন, এটাই পৃথিবীতে ফাসাদ। মাআরিফুল কুরআন বলে, এসব দায় পূরণে ঘাটতি মানুষের মধ্যে বিশৃঙ্খলা জন্ম দেয়, শেষে সীমালঙ্ঘনকারীরা অন্যদেরও ধ্বংস করে, নিজেদেরও। এ ব্যাখ্যাগুলোতে ফাসাদ আলাদা কোনো চতুর্থ অপরাধ নয়। প্রথম দুটি কাজ ছড়িয়ে পড়লে যা হয়ে দাঁড়ায়, সেটাই ফাসাদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Capital Lost in the Trade",
+          "bn": "ব্যবসায় খোয়ানো পুঁজি"
+        },
+        "p": [
+          {
+            "en": "Ula'ika humu al-khasirun: it is they who are the losers. At-Tabari explains the word by trade: the losers cut their own share of Allah's mercy by disobeying Him, as a merchant loses when part of his capital goes in a sale. So the disbeliever and the hypocrite are denied the mercy Allah created for His servants on the Day of Resurrection, when they need it most. Al-Qurtubi's loser has reduced his own share of success, and is called khasir because he has lost himself and his family on that Day.",
+            "bn": "উলাইকা হুমুল খাসিরূন: এরাই ক্ষতিগ্রস্ত। তাবারী শব্দটি বোঝান ব্যবসার উদাহরণে। ক্ষতিগ্রস্তরা আল্লাহর নাফরমানি করে তাঁর রহমত থেকে নিজের ভাগ নিজেই কমিয়ে ফেলে, যেমন বেচাকেনায় পুঁজির একাংশ খুইয়ে ব্যবসায়ী ক্ষতিতে পড়ে। কিয়ামতের দিন আল্লাহ বান্দাদের জন্য যে রহমত সৃষ্টি করেছেন, কাফির আর মুনাফিক তা থেকে বঞ্চিত হয়, ঠিক যখন তাদের সেটা সবচেয়ে বেশি দরকার। কুরতুবীর ব্যাখ্যায় ক্ষতিগ্রস্ত সফলতা থেকে নিজের ভাগ নিজেই কমিয়েছে। তাকে খাসির বলা হয়, কারণ সেদিন সে নিজেকে আর নিজের পরিবারকে হারিয়েছে।"
+          },
+          {
+            "en": "When does the loss fall? Ibn Kathir reports Muqatil ibn Hayyan: in the Hereafter. Al-Muyassar, as-Sa'di and Ma'arif al-Qur'an say in this world and the next. As-Sa'di explains why the verse confines loss to them: theirs is total, with no profit of any kind, because every good deed has faith as its condition. He separates it from the loss of 103:2, which may be disbelief, sin or neglect of something recommended, and covers everyone except those with faith, good deeds, and counsel to truth and patience.",
+            "bn": "ক্ষতিটা কখন? ইবন কাসীর মুকাতিল ইবন হাইয়ান থেকে আনেন: আখিরাতে। মুয়াসসার, সা'দী আর মাআরিফুল কুরআন বলে, দুনিয়া ও আখিরাত দুই জায়গাতেই। আয়াত কেন ক্ষতিকে শুধু তাদের মধ্যে সীমিত করল, সা'দী তার কারণ বলেন। তাদের ক্ষতি পুরোপুরি, কোনো রকম লাভ তাতে নেই, কারণ প্রতিটি নেক আমলের শর্ত ঈমান। তিনি একে আলাদা করেন ১০৩:২ আয়াতের ক্ষতি থেকে। সে ক্ষতি হতে পারে কুফর, গুনাহ বা কোনো মুস্তাহাব ছেড়ে দেওয়া, আর তা সবার জন্য, তাদের ছাড়া যাদের আছে ঈমান, নেক আমল, আর সত্য ও সবরের পারস্পরিক উপদেশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Words in Ar-Ra'd",
+          "bn": "সূরা রা'দে একই শব্দমালা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse beside 13:19 to 13:25. There the people of understanding fulfil the covenant of Allah and do not break the mithaq, join what Allah ordered joined, and fear their Lord. A few verses on, the three acts of 2:27 return almost word for word, and the sentence ends: theirs is the curse, and theirs the evil home. The same phrases draw both portraits, the covenant kept and the covenant broken, so that each explains the other.",
+            "bn": "ইবন কাসীর আয়াতটি পড়েন ১৩:১৯ থেকে ১৩:২৫ আয়াতের পাশে রেখে। সেখানে বোধসম্পন্ন মানুষ আল্লাহর অঙ্গীকার পূর্ণ করে আর মীসাক ভাঙে না, আল্লাহ যা জুড়ে রাখতে বলেছেন তা জুড়ে রাখে, আর রবকে ভয় করে। কয়েক আয়াত পরেই ২:২৭ আয়াতের তিনটি কাজ প্রায় হুবহু ফিরে আসে, আর বাক্য শেষ হয় এভাবে: তাদের জন্য লানত, আর তাদের জন্য নিকৃষ্ট আবাস। একই শব্দে আঁকা দুটি ছবি, একটিতে অঙ্গীকার রক্ষা, অন্যটিতে ভাঙন। ফলে একটি অন্যটিকে বুঝিয়ে দেয়।"
+          },
+          {
+            "en": "Abu al-'Aliyah, as Ibn Kathir relays him through ar-Rabi' ibn Anas (at-Tabari has it from ar-Rabi' himself), counted six traits of the hypocrites. With the upper hand over people, they show all six: they lie when they speak, break their promises, betray trusts, break Allah's covenant, cut what He ordered joined, and cause corruption on earth. When the upper hand is against them, they show only the first three. The larger breaches, on this reading, wait for power.",
+            "bn": "আবুল আলিয়া, ইবন কাসীর যাঁর কথা রবী' ইবন আনাসের সূত্রে আনেন (তাবারীতে কথাটি রবী'র নিজের), মুনাফিকদের ছয়টি স্বভাব গুনেছেন। মানুষের উপর প্রাধান্য থাকলে ছয়টিই প্রকাশ পায়। কথা বললে মিথ্যা বলে, ওয়াদা করলে ভাঙে, আমানতে খিয়ানত করে। আর আল্লাহর অঙ্গীকার ভাঙে, তিনি যা জুড়ে রাখতে বলেছেন তা কাটে, পৃথিবীতে ফাসাদ ছড়ায়। প্রাধান্য বিপক্ষে গেলে প্রকাশ পায় শুধু প্রথম তিনটি। এ ব্যাখ্যা অনুযায়ী বড় ভাঙনগুলো অপেক্ষা করে ক্ষমতার জন্য।"
+          },
+          {
+            "en": "Those first three echo a well-known hadith, a general narration that the fetched commentators do not attach to this verse. Al-Bukhari records it in his Sahih (33) from Abu Hurayrah (RA), that the Prophet ﷺ said: \"The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise ). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it.)\" Small breaches can become the training ground for large ones.",
+            "bn": "প্রথম তিনটিতে একটি সুপরিচিত হাদীসের প্রতিধ্বনি আছে। হাদীসটি সাধারণ বর্ণনা, দেখা তাফসীরগুলোর কোনোটি একে এ আয়াতের সঙ্গে জুড়ে দেয়নি। বুখারী তাঁর সহীহ গ্রন্থে (৩৩) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন: \"মুনাফিকের আলামত তিনটি: ১. যখন কথা বলে, মিথ্যা বলে। ২. যখন ওয়াদা করে, ভঙ্গ করে। ৩. আর যখন তার কাছে আমানত রাখা হয়, খিয়ানত করে।\" ছোট ছোট ভাঙনই হয়ে উঠতে পারে বড় ভাঙনের অনুশীলনের মাঠ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning Turned Inward",
+          "bn": "সতর্কবাণী, নিজের দিকে ফেরানো"
+        },
+        "p": [
+          {
+            "en": "The verse describes what the text describes: people who break Allah's covenant, cut what He ordered joined, spread corruption, and lose. At-Tabari names the audience he believes it first addressed, but neither he nor the verse hands anyone a list of living people to brand. It licenses nothing against any living person or community. Ibn Kathir is careful. Sa'd ibn Abi Waqqas (RA) applied the verse to a rebel group of his day; if that chain is sound, Ibn Kathir says, it is explanation by meaning, since the group did not exist when the verse came down and enters only by its description.",
+            "bn": "আয়াতটি তা-ই বর্ণনা করে, যা তার শব্দে আছে: যারা আল্লাহর অঙ্গীকার ভাঙে, তিনি যা জুড়ে রাখতে বলেছেন তা কাটে, ফাসাদ ছড়ায়, আর ক্ষতিগ্রস্ত হয়। তাবারী বলেছেন, তাঁর মতে আয়াতটি প্রথমে কাদের উদ্দেশে এসেছিল। কিন্তু তিনিও না, আয়াতও না, কারও হাতে জীবিত মানুষের এমন তালিকা তুলে দেয় না যাদের গায়ে ছাপ মারা যায়। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। ইবন কাসীরের সতর্কতা এখানে চোখে পড়ে। সা'দ ইবন আবী ওয়াক্কাস (রাঃ) আয়াতটিকে নিজের সময়ের এক বিদ্রোহী দলের উপর প্রয়োগ করেছিলেন। ইবন কাসীর বলেন, সনদ সহীহ হলে এটা অর্থের দিক থেকে ব্যাখ্যা, কারণ তখনো সে দলের অস্তিত্ব ছিল না। তারা আয়াতের ভেতরে আসে কেবল বৈশিষ্ট্যের কারণে।"
+          },
+          {
+            "en": "Entry by description cuts both ways, and Qatadah, in at-Tabari's chain, turned it on his listeners: beware of breaking this covenant, for Allah has disliked its breaking and threatened over it, and has set out in the Qur'an proof, admonition and counsel about it; we know of no sin over which Allah threatened as He threatened over breaking the covenant. Whoever has given Allah his covenant and pledge from the fruit of his heart, let him keep it for Allah.",
+            "bn": "বৈশিষ্ট্যের কারণে আওতায় আসার কথাটা দুই দিকেই খাটে। তাবারীর সনদে কাতাদা কথাটা ঘুরিয়ে দিয়েছেন শ্রোতাদের দিকেই: এই মীসাক ভাঙা থেকে সাবধান থেকো। আল্লাহ তা ভাঙা অপছন্দ করেছেন, এর জন্য শাস্তির হুঁশিয়ারি দিয়েছেন, আর কুরআনের আয়াতে এ নিয়ে প্রমাণ, উপদেশ ও নসিহত আগেই রেখে দিয়েছেন। মীসাক ভাঙার ব্যাপারে আল্লাহ যেমন হুঁশিয়ারি দিয়েছেন, অন্য কোনো গুনাহর ব্যাপারে তেমন দিয়েছেন বলে আমাদের জানা নেই। কাজেই যে নিজের অন্তরের নির্যাস থেকে আল্লাহকে অঙ্গীকার ও প্রতিশ্রুতি দিয়েছে, সে যেন আল্লাহর জন্য তা পূরণ করে।"
+          },
+          {
+            "en": "Al-Qurtubi draws a ruling from the verse: keeping a covenant is binding, and no permissible pledge a person takes on may be broken, whether between Muslims or with anyone else, since Allah censured those who broke His covenant. He cites 5:1, fulfil your contracts, and 8:58, which forbids treachery. A promise made to a client, a neighbour of another faith, or a relative left waiting is no small thing under this verse.",
+            "bn": "কুরতুবী আয়াত থেকে একটি বিধান বের করেন: অঙ্গীকার রক্ষা করা বাধ্যতামূলক। মানুষ নিজের উপর যে বৈধ প্রতিশ্রুতি চাপিয়ে নেয়, তা ভাঙা হালাল নয়, তা মুসলিমদের মধ্যে হোক বা অন্য কারও সঙ্গে। কারণ যারা আল্লাহর অঙ্গীকার ভেঙেছে, আল্লাহ তাদের নিন্দা করেছেন। তিনি দলিল দেন ৫:১ আয়াত দিয়ে, তোমরা চুক্তিগুলো পূরণ কর। আর দেন ৮:৫৮ আয়াত, যা বিশ্বাসঘাতকতা নিষেধ করে। খদ্দেরকে দেওয়া কথা, ভিন্ন ধর্মের প্রতিবেশীকে দেওয়া কথা, কিংবা অপেক্ষায় থাকা আত্মীয়ের প্রতি দায়, এ আয়াতের আলোয় কোনোটাই তুচ্ছ নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "2:30-33": {
     "sections": [
       {
