@@ -31263,6 +31263,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold the line on worship as a command you received, refuse what desire dresses up as reason, and refuse without contempt for those you refuse.",
     "lessonBn": "ইবাদতের সীমারেখাকে নিজের পাওয়া হুকুম হিসেবে আঁকড়ে ধরুন, খেয়ালখুশি যা যুক্তির পোশাকে আনে তা ফিরিয়ে দিন, আর যাদের ফেরাচ্ছেন তাদের তুচ্ছ না করেই ফেরান।"
+  },
+  "6:70": {
+    "reflectionEn": "The verse gives two commands that seem to pull against each other: leave them, and remind. Leave those who have made their religion a game and a pastime, whom the near life has fooled. Yet remind with the Quran, so that no soul is handed over for what it earned. Then it shuts every door a person counts on: no protector besides Allah, no intercessor, and a ransom of everything refused. Before I point this at anyone else, the verse asks where play has crept into my own religion: a prayer rushed for appearance, a verse quoted as a joke, a practice kept for show. And it asks whether, having stepped away from mockery, I have stopped reminding altogether.",
+    "reflectionBn": "আয়াতটি দুটি আদেশ দেয়, যা আপাতদৃষ্টিতে উল্টো দিকে টানে: ওদের ছেড়ে দাও, আবার উপদেশও দাও। যারা নিজেদের দ্বীনকে খেলা আর তামাশা বানিয়েছে, দুনিয়ার জীবন যাদের ধোঁকায় ফেলেছে, তাদের ছেড়ে দাও। তবু কুরআন দিয়ে মনে করিয়ে দাও, যেন কোনো প্রাণ নিজের কামাইয়ের দায়ে ধরা না পড়ে। তারপর আয়াতটি সেই সব দরজা বন্ধ করে দেয়, যার ভরসায় মানুষ থাকে। আল্লাহ ছাড়া কোনো অভিভাবক নেই, কোনো সুপারিশকারী নেই, আর সবকিছু মুক্তিপণ দিলেও তা নেওয়া হবে না। অন্য কারও দিকে আঙুল তোলার আগে আয়াতটি আমাকেই জিজ্ঞেস করে, আমার নিজের দ্বীনে খেলা ঢুকেছে কোথায়? লোক দেখানোর জন্য তাড়াহুড়ো করা নামাযে, মজা করে উদ্ধৃত কোনো আয়াতে, নাকি শুধু দেখানোর জন্য ধরে রাখা কোনো আমলে? আর জিজ্ঞেস করে, উপহাসের মজলিস ছেড়ে আসার পর আমি কি উপদেশ দেওয়াও একেবারে ছেড়ে দিয়েছি?",
+    "pointsEn": [
+      "Which part of my worship has slowly become habit or display rather than something done for Allah?",
+      "When I step away from people who make light of the religion, do I still leave them a reminder, or only my silence?",
+      "What am I quietly counting on to rescue me, whether family, connections or money, that this verse says will not be accepted?",
+      "How many of my plans assume that this near life will go on flattering me?",
+      "If what I earn today were the pledge held against me, what would I want it to be?"
+    ],
+    "pointsBn": [
+      "আমার ইবাদতের কোন অংশটা ধীরে ধীরে আল্লাহর জন্য না হয়ে অভ্যাস বা লোক দেখানো হয়ে গেছে?",
+      "যারা দ্বীনকে হালকা করে দেখে, তাদের কাছ থেকে সরে আসার সময় আমি কি একটা উপদেশ রেখে আসি, নাকি শুধু নীরবতা?",
+      "পরিবার, পরিচিতি বা টাকা, কোন জিনিসের ভরসায় আমি চুপচাপ বসে আছি, যা এ আয়াত বলছে সেদিন কবুল হবে না?",
+      "আমার কতগুলো পরিকল্পনা ধরে নিয়েছে যে দুনিয়ার এ জীবন আমাকে এভাবেই ভুলিয়ে রাখবে?",
+      "আজ যা কামাই করছি, তা-ই যদি আমার বিরুদ্ধে বন্ধক হয়ে থাকে, তবে কী কামাই করতে চাইব?"
+    ],
+    "lessonEn": "Keep your religion from becoming a pastime and keep reminding with the Quran, for on that Day no protector or intercessor besides Allah, and no ransom, will avail.",
+    "lessonBn": "নিজের দ্বীনকে খেলায় পরিণত হতে দেবেন না, আর কুরআন দিয়ে উপদেশ দিতে থাকুন। সেদিন আল্লাহ ছাড়া কোনো অভিভাবক বা সুপারিশকারী থাকবে না, কোনো মুক্তিপণও কাজে আসবে না।"
   }
 };
 

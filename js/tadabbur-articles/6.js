@@ -3431,6 +3431,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:70": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Verbs: Leave and Remind",
+          "bn": "দুই আদেশ: ছাড়ো, মনে করাও"
+        },
+        "p": [
+          {
+            "en": "Surah al-An'am is Makkan, and 6:68 and 6:69 have just dealt with the gatherings where the verses are mocked. This verse moves from the gathering to the people themselves: those who have taken their religion as play and diversion, and whom the life of this world has deceived. It answers them with two verbs, dhar and dhakkir, leave and remind. Then it describes the soul that was not reminded, or would not be, until it stands where nothing it owns can buy it back.",
+            "bn": "সূরা আনআম মাক্কী। ঠিক আগের দুই আয়াত, ৬:৬৮ ও ৬:৬৯, সেই মজলিসের কথা বলেছে যেখানে আয়াত নিয়ে ঠাট্টা চলে। এ আয়াত মজলিস ছেড়ে মানুষগুলোর দিকে তাকায়। তারা নিজেদের দ্বীনকে খেলা আর তামাশা বানিয়ে নিয়েছে, দুনিয়ার জীবন তাদের ধোঁকায় ফেলেছে। তাদের জন্য আয়াতে দুটি ক্রিয়া: যার ও যাক্কির, ছেড়ে দাও আর মনে করিয়ে দাও। তারপর আয়াতটি সেই প্রাণের ছবি আঁকে, যাকে মনে করানো হয়নি, কিংবা যে মনে রাখতে চায়নি। শেষে সে এমন জায়গায় দাঁড়ায়, যেখানে নিজের কোনো সম্পদ দিয়েও নিজেকে ছাড়িয়ে আনা যায় না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an explains dhar as leaving something out of displeasure with it. At-Tabari reads the command as turning away from them, and gives its reason in Allah's voice: I am lying in wait for them, and behind them stands the retribution for what they do, for being deceived by the adornment of this life and forgetting the return to Allah. He relays from Mujahid a comparison with 74:11, leave Me with the one I created alone, a verse whose leaving is a threat rather than a release.",
+            "bn": "মাআরিফুল কুরআন বলে, যার মানে কোনো কিছুর উপর অসন্তুষ্ট হয়ে তা ছেড়ে দেওয়া। তাবারী আদেশটিকে পড়েন তাদের থেকে মুখ ফিরিয়ে নেওয়া হিসেবে। কারণটাও তিনি দেন আল্লাহর ভাষায়: আমি তাদের জন্য ওত পেতে আছি। তাদের কাজের জন্য, দুনিয়ার চাকচিক্যে ধোঁকা খাওয়ার জন্য আর আল্লাহর কাছে ফেরার কথা ভুলে থাকার জন্য, পেছনে শাস্তি অপেক্ষা করছে। মুজাহিদ থেকে তিনি একটি তুলনা আনেন ৭৪:১১ আয়াতের সঙ্গে: আমাকে ছেড়ে দাও তার সঙ্গে, যাকে আমি একা সৃষ্টি করেছি। সেখানে ছেড়ে দেওয়ার মানে মুক্তি নয়, হুমকি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Religion Turned Into a Game",
+          "bn": "দ্বীন যখন খেলার বস্তু"
+        },
+        "p": [
+          {
+            "en": "Who are they, and what did they do to their religion? At-Tabari says they made their share of obedience to Allah into play with His verses, diversion and mockery whenever the verses were recited to them. Al-Baghawi names them as the disbelievers who, on hearing the verses of Allah, mocked them and toyed with them at their mention. The Muyassar addresses the Messenger ﷺ directly: leave these idolaters who made the religion of Islam a game and a diversion, mocking the verses of Allah.",
+            "bn": "তারা কারা, আর নিজেদের দ্বীনের সঙ্গে কী করেছে? তাবারী বলেন, আল্লাহর আনুগত্যের যে ভাগ তাদের পাওনা ছিল, সেটাকে তারা বানিয়েছে তাঁর আয়াত নিয়ে খেলা। আয়াত তিলাওয়াত হলেই চলত তামাশা আর ঠাট্টা। বাগাভী তাদের পরিচয় দেন এভাবে: তারা সেই কাফির, যারা আল্লাহর আয়াত শুনলেই তা নিয়ে উপহাস করত, আয়াতের আলোচনা উঠলেই খেলায় মাতত। মুয়াসসার সরাসরি রাসূল ﷺ-কে সম্বোধন করে: এই মুশরিকদের ছেড়ে দিন, যারা ইসলাম দ্বীনকে খেলা আর তামাশা বানিয়েছে, আল্লাহর আয়াত নিয়ে ঠাট্টা করেছে।"
+          },
+          {
+            "en": "Al-Qurtubi records more than one reading. Some say they mocked the religion the Prophet ﷺ called them to. Others say they mocked the religion they themselves claimed and did not act on it, and he adds that mockery is permitted in no religion. A third gloss is falsehood and idle merriment. Ma'arif al-Qur'an sets out two senses: they made the true religion a laughing stock, or they left their real religion and took fun as their religion and purpose. It judges the outcome nearly the same.",
+            "bn": "কুরতুবী একাধিক ব্যাখ্যা উল্লেখ করেন। কেউ বলেন, নবী ﷺ তাদের যে দ্বীনের দিকে ডেকেছিলেন, তারা সেটা নিয়ে ঠাট্টা করেছে। কেউ বলেন, নিজেরা যে ধর্মের দাবি করত, সেটা নিয়েই ঠাট্টা করেছে, তার উপর আমল করেনি। কুরতুবী সঙ্গে যোগ করেন, কোনো ধর্মেই ঠাট্টার অনুমতি নেই। তৃতীয় ব্যাখ্যা: বাতিল আর অসার ফুর্তি। মাআরিফুল কুরআন দুটি অর্থ দেখায়। হয় তারা সত্য দ্বীনকে হাসির খোরাক বানিয়েছে, নয়তো আসল দ্বীন ছেড়ে মজা-ফুর্তিকেই দ্বীন আর জীবনের লক্ষ্য বানিয়েছে। তার মতে দুই অর্থের পরিণতি প্রায় একই।"
+          },
+          {
+            "en": "There is a further reading, in which din here means a festival. Al-Qurtubi gives it from al-Kalbi, and al-Baghawi relays it with it is said: Allah gave every people a feast day to honour and to pray in, and every people made theirs play and diversion, except the community of Muhammad ﷺ, who made theirs prayer, remembrance and charity, like Jumu'ah, al-Fitr and al-Nahr. Al-Baghawi's list is prayer, takbir and doing good. Either way, the test is what a person does with the days set apart for Allah.",
+            "bn": "আরেকটি ব্যাখ্যায় এখানে দ্বীন মানে উৎসবের দিন, ঈদ। কুরতুবী এটি এনেছেন কালবী থেকে, আর বাগাভী 'বলা হয়' কথাটি দিয়ে উল্লেখ করেছেন। আল্লাহ প্রত্যেক জাতিকে একটি উৎসবের দিন দিয়েছিলেন, যাকে তারা সম্মান করবে আর যাতে আল্লাহর জন্য নামায পড়বে। প্রত্যেক জাতি নিজের ঈদকে খেলা-তামাশা বানিয়ে ফেলেছে। ব্যতিক্রম মুহাম্মাদ ﷺ-এর উম্মত, যারা ঈদকে বানিয়েছে নামায, জিকির আর সদকার দিন, যেমন জুমুআ, ঈদুল ফিতর আর ঈদুল আযহা। বাগাভীর তালিকায় আছে নামায, তাকবীর আর ভালো কাজ। যে ব্যাখ্যাই ধরুন, পরীক্ষাটা হল, আল্লাহর জন্য আলাদা করা দিনগুলো দিয়ে মানুষ কী করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Near Life Whispers",
+          "bn": "নিকট জীবনের ধোঁকা"
+        },
+        "p": [
+          {
+            "en": "Wa gharrathum al-hayatu ad-dunya: and the life of this world deceived them. At-Tabari ties the deception to the adornment of this life and to forgetting the return to Allah after death. Al-Qurtubi explains it with words that stand in 30:7: they know only an outward side of the life of this world. Ma'arif al-Qur'an calls the clause a true diagnosis of their problem. Had they believed in the Hereafter and the Last Day, it says, they would never have acted so recklessly.",
+            "bn": "ওয়া গাররাতহুমুল হায়াতুদ দুনইয়া: দুনিয়ার জীবন তাদের ধোঁকায় ফেলেছে। তাবারী এই ধোঁকাকে জুড়ে দেন দুনিয়ার সাজসজ্জার সঙ্গে, আর মৃত্যুর পর আল্লাহর কাছে ফেরার কথা ভুলে যাওয়ার সঙ্গে। কুরতুবী ব্যাখ্যা করেন সেই কথায়, যা ৩০:৭ আয়াতে আছে: তারা দুনিয়ার জীবনের কেবল বাইরের দিকটা জানে। মাআরিফুল কুরআন এ অংশকে বলে তাদের আসল রোগের সঠিক নির্ণয়। তার কথায়, আখিরাত আর কিয়ামাতে বিশ্বাস থাকলে তারা কখনো এমন বেপরোয়া আচরণ করত না।"
+          },
+          {
+            "en": "Al-Qurtubi also notes that play comes before diversion in four places in the Quran, two of them in al-An'am, one in al-Hadid and one in al-Qital. The four are 6:32, this verse, 47:36 and 57:20. The order is reversed at 29:64 and at 7:51, which repeats this verse almost word for word and then adds: today We forget them as they forgot the meeting of this Day of theirs. And 6:32 has already said that the life of this world is nothing but play and diversion.",
+            "bn": "কুরতুবী আরও লক্ষ করেন, কুরআনে চারটি জায়গায় খেলা শব্দটি তামাশার আগে এসেছে: দুটি সূরা আনআমে, একটি সূরা হাদীদে, একটি সূরা কিতালে। জায়গাগুলো হল ৬:৩২, এই আয়াত, ৪৭:৩৬ আর ৫৭:২০। ক্রম উল্টে গেছে ২৯:৬৪ আয়াতে, আর ৭:৫১ আয়াতে। শেষোক্ত আয়াতটি প্রায় হুবহু এ আয়াতেরই কথা বলে, তারপর যোগ করে: আজ আমি তাদের ভুলে যাব, যেমন তারা এ দিনের সাক্ষাৎকে ভুলে গিয়েছিল। আর ৬:৩২ আগেই বলে দিয়েছে, দুনিয়ার জীবন খেলা আর তামাশা ছাড়া কিছু নয়।"
+          },
+          {
+            "en": "Set the two verses of this surah side by side and the charge sharpens. 6:32 describes the world as play and diversion. Here people take their religion as play and diversion. The religion was given to them as the one serious thing in a passing life, and they made it the same shape as the life it was meant to measure. That is the sense in which the world deceived them: not by being enjoyed, but by becoming the measure of everything, including the religion.",
+            "bn": "এ সূরার দুটি আয়াত পাশাপাশি রাখলে অভিযোগটা আরও ধারালো হয়। ৬:৩২ দুনিয়াকে বলেছে খেলা আর তামাশা। এখানে মানুষ নিজের দ্বীনকেই বানিয়েছে খেলা আর তামাশা। ক্ষণস্থায়ী জীবনে দ্বীন ছিল একমাত্র গুরুতর জিনিস, দুনিয়াকে মাপার দাঁড়িপাল্লা। তারা সেই দাঁড়িপাল্লাকেই দুনিয়ার চেহারায় গড়ে নিয়েছে। দুনিয়ার ধোঁকা তাই উপভোগের মধ্যে নয়। ধোঁকা হল দুনিয়া যখন সবকিছুর মাপকাঠি হয়ে বসে, এমনকি দ্বীনেরও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abrogated, or Left Standing",
+          "bn": "রহিত, নাকি বহাল"
+        },
+        "p": [
+          {
+            "en": "The commentators differ over whether the command to leave them still stands. At-Tabari states that Allah abrogated this verse with 9:5, kill the idolaters wherever you find them, and that a number of interpreters said so. He gives it from Qatadah in two chains: this verse came, then Surah Bara'ah was sent down and he commanded fighting them. Al-Qurtubi also relays Qatadah's statement that it is abrogated, and later says in his own summary that the verse is abrogated by the verse of fighting.",
+            "bn": "ওদের ছেড়ে দেওয়ার আদেশ এখনো বহাল কি না, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। তাবারী বলেন, আল্লাহ এ আয়াতকে রহিত করেছেন ৯:৫ আয়াত দিয়ে: মুশরিকদের যেখানে পাও হত্যা কর। তিনি আরও বলেন, ব্যাখ্যাকারদের একাধিক জন এ কথা বলেছেন। কাতাদা থেকে তিনি দুটি সূত্রে বর্ণনা আনেন: এ আয়াত নাযিল হয়, তারপর সূরা বারাআ নাযিল হয় আর তাদের সঙ্গে যুদ্ধের আদেশ আসে। কুরতুবীও কাতাদার রহিত হওয়ার কথা উল্লেখ করেন, আর পরে নিজের সারকথায় বলেন, আয়াতটি যুদ্ধের আয়াত দিয়ে রহিত।"
+          },
+          {
+            "en": "Al-Qurtubi then records the other view with it is said: the verse is not abrogated, because leave those is a threat, like 15:3, leave them to eat and enjoy themselves and be diverted by hope. Its meaning, on this view, is do not grieve over them, for your duty is only to convey and to remind. Ibn Kathir does not raise abrogation at all. He reads the verse as leave them, turn away from them and give them a little respite, for they are heading to a tremendous punishment.",
+            "bn": "এরপর কুরতুবী 'বলা হয়' দিয়ে অন্য মতটি উল্লেখ করেন: আয়াতটি রহিত নয়, কারণ ওদের ছেড়ে দাও কথাটা একটা হুমকি। যেমন ১৫:৩ আয়াতে আছে: ওদের ছেড়ে দাও, ওরা খাক, ভোগ করুক, আর আশা ওদের ভুলিয়ে রাখুক। এ মত অনুযায়ী অর্থ দাঁড়ায়, ওদের জন্য দুঃখ করো না, তোমার দায়িত্ব শুধু পৌঁছে দেওয়া আর মনে করিয়ে দেওয়া। ইবন কাসীর রহিত হওয়ার প্রসঙ্গই তোলেন না। তিনি আয়াতটি পড়েন এভাবে: ওদের ছেড়ে দাও, ওদের থেকে মুখ ফিরিয়ে নাও, ওদের কিছুদিন অবকাশ দাও, কারণ ওরা এক ভয়াবহ শাস্তির দিকে এগোচ্ছে।"
+          },
+          {
+            "en": "Both positions are held, and this article takes neither. Both are also about one thing: the instruction to the Prophet ﷺ concerning the idolaters of his day who mocked the revelation when it was recited to them. The verse describes the people it describes. It names no one living today as such people, and it licenses nothing against any person or community now. Whoever reaches for it to label a neighbour or to justify harm has stepped outside what at-Tabari, al-Qurtubi and Ibn Kathir were discussing.",
+            "bn": "দুটি মতই আলেমদের মধ্যে আছে, এ লেখা কোনোটির পক্ষ নিচ্ছে না। আর দুটি মতই একটি বিষয় নিয়ে: নবী ﷺ-এর সময়ের সেই মুশরিকদের সম্পর্কে তাঁর প্রতি নির্দেশ, যারা ওহী তিলাওয়াত হলেই তা নিয়ে ঠাট্টা করত। আয়াতটি যাদের কথা বলে, কেবল তাদেরই বর্ণনা দেয়। আজকের কোনো জীবিত মানুষকে এ আয়াত তাদের দলে ফেলে না, কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতিও দেয় না। কেউ যদি প্রতিবেশীর গায়ে তকমা লাগাতে বা ক্ষতি করার যুক্তি হিসেবে এ আয়াত টেনে আনে, তবে তাবারী, কুরতুবী আর ইবন কাসীর যে আলোচনা করছিলেন, সে তার বাইরে চলে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reminding Before It Is Too Late",
+          "bn": "দেরি হওয়ার আগে মনে করানো"
+        },
+        "p": [
+          {
+            "en": "Wa dhakkir bihi: and remind with it. At-Tabari, Ibn Kathir, al-Baghawi and as-Sa'di all take it to mean the Quran, and al-Qurtubi adds a second possibility, the reckoning. An tubsala nafs then means lest a soul be given up. At-Tabari explains that the negative la has dropped out because the sentence makes it plain, as in 4:176, Allah makes things clear to you lest you go astray. The sense, he says, is: remind them so that they believe and follow the truth, and their souls are not given up.",
+            "bn": "ওয়া যাক্কির বিহি: আর তা দিয়ে মনে করিয়ে দাও। তাবারী, ইবন কাসীর, বাগাভী আর সা'দী সবাই বলেন, তা মানে কুরআন। কুরতুবী আরেকটি সম্ভাবনা যোগ করেন: হিসাবের কথা দিয়ে। এরপর আন তুবসালা নাফস মানে, যেন কোনো প্রাণ সঁপে দেওয়া না হয়। তাবারী বুঝিয়ে বলেন, এখানে না-বোধক লা শব্দটি উহ্য, কারণ বাক্যই তা বুঝিয়ে দেয়। যেমন ৪:১৭৬ আয়াতে: আল্লাহ তোমাদের জন্য স্পষ্ট করে বলছেন, যেন তোমরা পথ না হারাও। তাঁর মতে অর্থ হল, তাদের মনে করিয়ে দাও, যেন তারা ঈমান আনে, সত্যের অনুসরণ করে, আর তাদের প্রাণ সঁপে দেওয়া না হয়।"
+          },
+          {
+            "en": "So the leaving is never the whole command. At-Tabari says the reminder goes to those who wade into the verses and to every idolater who takes their path, and the Muyassar says the same. As-Sa'di describes what reminding with the Quran means: setting out what benefits people and showing its beauty, and what harms them and showing its ugliness, before a servant plunges into sins and persists. Ma'arif al-Qur'an reads two orders here, to keep away from such people and to keep preaching to them with the Quran.",
+            "bn": "তাই ছেড়ে দেওয়াই পুরো আদেশ নয়। তাবারী বলেন, এ উপদেশ যাবে তাদের কাছে, যারা আয়াত নিয়ে অনর্থক আলোচনায় মাতে, আর তাদের পথে চলা প্রত্যেক মুশরিকের কাছে। মুয়াসসারও একই কথা বলে। সা'দী বুঝিয়ে দেন, কুরআন দিয়ে মনে করানো মানে কী। মানুষের জন্য যা উপকারী, তা খুলে বলা আর তার সৌন্দর্য দেখানো। যা ক্ষতিকর, তা খুলে বলা আর তার কদর্যতা দেখানো। আর এ কাজ করতে হয় বান্দা গুনাহে ঝাঁপিয়ে পড়ে তাতে অটল হয়ে যাওয়ার আগেই। মাআরিফুল কুরআন এখানে দুটি আদেশ পড়ে: এমন লোকদের থেকে দূরে থাকা, আর কুরআন দিয়ে তাদের কাছে দাওয়াত চালিয়ে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tubsala: Handed Over and Held",
+          "bn": "তুবসালা: সঁপে দেওয়া, আটকে রাখা"
+        },
+        "p": [
+          {
+            "en": "The early authorities glossed tubsala in different words. At-Tabari gives four groups: to be handed over, from Ikrimah, al-Hasan and Mujahid; to be detained, from Qatadah, with Ibn Zayd's to be seized; to be exposed, from Ibn Abbas (RA) by way of Ali ibn Abi Talhah; and to be recompensed, from al-Kalbi. Al-Baghawi adds to be burned, from ad-Dahhak, and al-Farra's to be held in pledge. Ibn Kathir judges all these close in meaning: handing over to destruction, being barred from good, and being held in pledge.",
+            "bn": "প্রথম যুগের আলেমেরা তুবসালার অর্থ বলেছেন ভিন্ন ভিন্ন শব্দে। তাবারী চারটি দল উল্লেখ করেন। সঁপে দেওয়া, ইকরিমা, হাসান আর মুজাহিদ থেকে। আটকে রাখা, কাতাদা থেকে, সঙ্গে ইবন যায়দের কথা: পাকড়াও করা। লাঞ্ছিত করে প্রকাশ করা, ইবন আব্বাস (রাঃ) থেকে, আলী ইবন আবী তালহার সূত্রে। আর প্রতিফল দেওয়া, কালবী থেকে। বাগাভী যোগ করেন যাহহাকের মত: পুড়িয়ে দেওয়া, আর ফাররার মত: বন্ধক রাখা। ইবন কাসীরের বিচারে এসব কথার অর্থ কাছাকাছি। সব মিলিয়ে দাঁড়ায়: ধ্বংসের হাতে সঁপে দেওয়া, কল্যাণ থেকে আটকে রাখা, আর বন্ধক হয়ে থাকা।"
+          },
+          {
+            "en": "Ibn Kathir sets beside it 74:38, every soul is held in pledge for what it earned, with the companions of the right as the exception. At-Tabari traces the root to prohibition: the Arabs say absaltu al-makan of a place made forbidden so that no one approaches it, and a lion is basil because nothing comes near it. The mubsal is a man held in pledge for a crime, barred from everything except that. He and al-Qurtubi both cite a poet who handed over his sons as pledges, guilty of no crime.",
+            "bn": "ইবন কাসীর এর পাশে রাখেন ৭৪:৩৮ আয়াত: প্রত্যেক প্রাণ নিজের কামাইয়ের দায়ে বন্ধক, ডান দিকের লোকেরা ছাড়া। তাবারী শব্দটির মূলে খুঁজে পান নিষেধের অর্থ। আবসালতুল মাকান বলা হয় এমন জায়গাকে, যা নিষিদ্ধ করা হয়েছে, কেউ কাছে ঘেঁষে না। সিংহকে বাসিল বলা হয়, কারণ কোনো কিছু তার কাছে যায় না। আর মুবসাল সেই লোক, যে কোনো অপরাধের দায়ে বন্ধক হয়ে আছে, সে ছাড়া আর সবকিছু থেকে বঞ্চিত। তাবারী আর কুরতুবী দুজনেই এক কবির পঙক্তি আনেন, যিনি কোনো অপরাধ ছাড়াই নিজের ছেলেদের বন্ধক হিসেবে তুলে দিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Friend, No Plea, No Ransom",
+          "bn": "বন্ধু নেই, সুপারিশ নেই, মুক্তিপণ নেই"
+        },
+        "p": [
+          {
+            "en": "Then the verse closes the exits one by one. At-Tabari reads no protector besides Allah as no one to take the soul's side and rescue it, and no intercessor as no one with a standing before Him to plead for it. Ibn Kathir sets beside it 2:254, a day with no trade, no friendship and no intercession. On wa in ta'dil kulla 'adl, at-Tabari explains 'adl as ransom, and Qatadah says that if it came with the earth full of gold it would not be accepted; Ibn Kathir cites 3:91 for the same.",
+            "bn": "এরপর আয়াতটি একে একে সব বেরোনোর পথ বন্ধ করে দেয়। তাবারীর ব্যাখ্যায়, আল্লাহ ছাড়া কোনো অভিভাবক নেই মানে, এমন কেউ নেই যে প্রাণটির পক্ষ নিয়ে তাকে উদ্ধার করবে। আর কোনো সুপারিশকারী নেই মানে, তাঁর কাছে মর্যাদা রাখে এমন কেউ নেই যে তার হয়ে সুপারিশ করবে। ইবন কাসীর এর পাশে রাখেন ২:২৫৪ আয়াত: এমন দিন, যেদিন বেচাকেনা নেই, বন্ধুত্ব নেই, সুপারিশ নেই। ওয়া ইন তা'দিল কুল্লা আদল অংশে তাবারী আদল মানে বলেন মুক্তিপণ। কাতাদা বলেন, পৃথিবী-ভরা সোনা নিয়ে এলেও তা কবুল হবে না। ইবন কাসীর একই কথার জন্য ৩:৯১ আয়াত আনেন।"
+          },
+          {
+            "en": "At-Tabari also refutes a reading. Some scholar of Arabic took 'adl as justice, so that the verse would mean however fair it acts, it is not accepted, and said this was repentance during life. At-Tabari answers that this has no sense, because whoever repents in this world, Allah accepts his repentance. So the shut doors belong to that Day, not to this one. Ma'arif al-Qur'an names what people lean on here: the power of their group, the word of the influential, and money. None of the three will work there.",
+            "bn": "তাবারী একটি ব্যাখ্যা খণ্ডনও করেন। আরবি ভাষার এক পণ্ডিত আদল মানে নিয়েছিলেন ন্যায়, ফলে অর্থ দাঁড়ায়: যত ন্যায়ই সে করুক, কবুল হবে না। তিনি বলেছিলেন, এটা জীবদ্দশার তওবা। তাবারীর জবাব, এ কথার কোনো অর্থ হয় না, কারণ দুনিয়ায় যে-ই তওবা করে, আল্লাহ তার তওবা কবুল করেন। অর্থাৎ বন্ধ দরজাগুলো সেই দিনের, আজকের নয়। মাআরিফুল কুরআন দেখায়, মানুষ এখানে কীসের উপর ভরসা করে: নিজের দলের ক্ষমতা, প্রভাবশালীদের সুপারিশ আর টাকা। সেখানে এই তিনটির কোনোটিই কাজে আসবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water That Adds to Thirst",
+          "bn": "যে পানি তৃষ্ণা বাড়ায়"
+        },
+        "p": [
+          {
+            "en": "Ula'ika alladhina ubsilu: those are the ones given up for what they earned. At-Tabari says they were handed over to Allah's punishment and held in pledge to it, as recompense. Hamim, he explains, is what is hot in the speech of the Arabs, and the hammam is named for warming the body. He gives the reason for the drink: hot water does not quench thirst, so when they thirst they are given what only adds to it. As-Sa'di adds that it scalds their faces and cuts their bowels, as 47:15 describes.",
+            "bn": "উলাইকাল্লাযীনা উবসিলূ: এরাই তারা, যাদের নিজেদের কামাইয়ের দায়ে সঁপে দেওয়া হয়েছে। তাবারী বলেন, তাদের আল্লাহর শাস্তির হাতে তুলে দেওয়া হয়েছে, প্রতিফল হিসেবে সেখানে বন্ধক রাখা হয়েছে। তিনি বুঝিয়ে বলেন, আরবদের ভাষায় হামীম মানে গরম, আর হাম্মামের নাম হয়েছে শরীর গরম করার কারণে। পানীয়টির কারণও তিনি বলেন: গরম পানি তৃষ্ণা মেটায় না। তাই তৃষ্ণার্ত হলে তাদের দেওয়া হবে এমন কিছু, যা তৃষ্ণা আরও বাড়ায়। সা'দী যোগ করেন, তা তাদের মুখ ঝলসে দেবে আর নাড়িভুঁড়ি কেটে ফেলবে, যেমন ৪৭:১৫ আয়াতে বর্ণনা আছে।"
+          },
+          {
+            "en": "No commentator fetched for this verse attaches a sound hadith to it. Ma'arif al-Qur'an brings a general narration, not about this verse, which at-Tirmidhi records (no. 3334) from Abu Hurairah (RA) and grades hasan sahih: \"Verily, when the slave (of Allah) commits a sin, a black spot appears on his heart. When he refrains from it, seeks forgiveness and repents, his heart is polished clean. But if he returns, it increases until it covers his entire heart. And that is the 'Ran' which Allah mentioned: 'Nay, but on their hearts is the Ran which they used to earn.'\"",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। মাআরিফুল কুরআন একটি সাধারণ বর্ণনা আনে, যা এ আয়াত নিয়ে নয়। তিরমিযী (হাদীস ৩৩৩৪) আবু হুরায়রা (রাঃ) থেকে এটি বর্ণনা করেছেন এবং একে হাসান সহীহ বলেছেন: \"বান্দা যখন কোনো গুনাহ করে, তার অন্তরে একটি কালো দাগ পড়ে। সে যদি তা থেকে বিরত হয়, ইস্তিগফার করে আর তওবা করে, তার অন্তর পরিষ্কার হয়ে যায়। আর যদি আবার করে, দাগ বাড়তে থাকে, শেষে তা পুরো অন্তর ঢেকে ফেলে। এটাই সেই রান, যার কথা আল্লাহ বলেছেন: কখনো নয়, বরং তারা যা কামাই করত, তা-ই তাদের অন্তরে মরিচা ধরিয়েছে।\""
+          },
+          {
+            "en": "The verse it quotes is 83:14, and its verb of earning is the one that runs through this verse and through 74:38: a soul given up for what it earned. As-Sa'di turns the verse inward: real religion is earnest and sincere, and work done for other than Allah is itself play. Read with that, the first question the verse puts to a believer is not who those people are, but how much of their description has already settled on one's own practice.",
+            "bn": "হাদীসে উদ্ধৃত আয়াতটি ৮৩:১৪। সেখানে কামাই করার যে ক্রিয়া, সেটাই এ আয়াতে বারবার এসেছে, ৭৪:৩৮ আয়াতেও আছে: প্রাণকে সঁপে দেওয়া হয় নিজের কামাইয়ের দায়ে। সা'দী আয়াতটিকে ভেতরের দিকে ফেরান। তাঁর মতে আসল দ্বীন হল আন্তরিকতা আর ঐকান্তিকতা। আল্লাহ ছাড়া অন্য কারও জন্য করা আমল নিজেই খেলা। এভাবে পড়লে আয়াতটি একজন মুমিনকে প্রথমে জিজ্ঞেস করে না, ওরা কারা। জিজ্ঞেস করে, ওদের বর্ণনার কতখানি ইতিমধ্যে নিজের আমলের উপর এসে বসেছে।"
+          }
+        ]
+      }
+    ]
+  },
   "6:73": {
     "sections": [
       {
