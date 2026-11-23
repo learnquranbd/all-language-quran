@@ -33163,6 +33163,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah can bring the wronged and those who wronged him face to face in His own time; when that hour reaches you, hold your power with restraint and leave room for repair.",
     "lessonBn": "যার প্রতি অন্যায় হয়েছে আর যারা অন্যায় করেছে, আল্লাহ নিজের সময়ে তাদের মুখোমুখি করতে পারেন। সেই মুহূর্ত আপনার জীবনে এলে ক্ষমতাকে সংযমের সঙ্গে ধরে রাখুন, আর সম্পর্ক জোড়া লাগার পথ খোলা রাখুন।"
+  },
+  "14:44": {
+    "reflectionEn": "The verses before this one show eyes fixed in terror and hearts left empty. Now the Prophet ﷺ is told to warn people of that Day, and the verse lets us hear what the wrongdoers will say on it: our Lord, put us off a little while; we will answer Your call and follow the messengers. What they beg for then is what they are given now and leave unused. The reply hands their own words back to them: did you not swear, before, that there would be no passing away for you? The short delay they ask for is the time I am living in. Which call have I heard and set aside for later? And what am I quietly sure will never end?",
+    "reflectionBn": "আগের আয়াতগুলোতে ছবিটা ছিল আতঙ্কে স্থির হয়ে যাওয়া চোখ আর শূন্য হৃদয়ের। এবার নবী ﷺ-কে বলা হচ্ছে, সেই দিনের ব্যাপারে মানুষকে সতর্ক করুন। আয়াতটি আমাদের শুনিয়ে দেয়, সেদিন যালিমরা কী বলবে: হে আমাদের রব, আমাদের আর অল্প কিছু সময় দাও, আমরা তোমার ডাকে সাড়া দেব, রাসূলদের পথে চলব। অথচ সেদিন যা তারা কাকুতি করে চাইবে, আজ তা তাদের হাতেই আছে, আর তারা তা কাজে লাগাচ্ছে না। জবাবে তাদের নিজেদের কথাই তাদের সামনে ফিরিয়ে দেওয়া হয়: তোমরা কি আগে কসম খেয়ে বলোনি যে তোমাদের কোনো বিদায় নেই? যে অল্প সময়ের জন্য তারা মিনতি করবে, আমি তো সেই সময়ের ভেতরেই বেঁচে আছি। কোন ডাক আমি শুনেছি, অথচ পরে দেখব বলে সরিয়ে রেখেছি? আর কোন জিনিসকে মনে মনে ভাবছি, এর কোনো শেষ নেই?",
+    "pointsEn": [
+      "If I were given the short delay they ask for, what is the first thing I would do with it, and what stops me from starting it today?",
+      "Which call from Allah have I already heard clearly and still keep putting off to some later season of my life?",
+      "What do I live as if it will never pass away: my health, my money, my position, or the people around me?",
+      "Have I made promises to Allah in a hard moment and let them go once the hardship lifted?",
+      "Whom do I actually follow from day to day, and would I be content to answer for that choice on that Day?"
+    ],
+    "pointsBn": [
+      "ওরা যে অল্প সময় চাইবে, তা যদি আমাকে দেওয়া হতো, প্রথমেই কী করতাম? আর আজই সেটা শুরু করতে আমাকে কী আটকে রাখছে?",
+      "আল্লাহর কোন ডাক আমি স্পষ্ট শুনেছি, তবু জীবনের পরের কোনো সময়ের জন্য বারবার ফেলে রাখছি?",
+      "কোন জিনিস নিয়ে আমি এমনভাবে চলি যেন তা কখনো ফুরাবে না: আমার স্বাস্থ্য, টাকাপয়সা, পদমর্যাদা, নাকি চারপাশের মানুষগুলো?",
+      "কঠিন মুহূর্তে আমি কি আল্লাহর কাছে কোনো ওয়াদা করেছিলাম, আর বিপদ কেটে যেতেই তা ভুলে গেছি?",
+      "দিনের পর দিন আমি আসলে কার পথে চলি? সেদিন এই বাছাইয়ের জবাব দিতে হলে কি আমি নিশ্চিন্ত থাকতে পারব?"
+    ],
+    "lessonEn": "The short delay the wrongdoers will beg for on that Day is the time you have now, so answer Allah's call and follow the messengers today.",
+    "lessonBn": "সেদিন যালিমরা যে অল্প সময়ের জন্য মিনতি করবে, সেটাই আজ আপনার হাতে থাকা সময়। তাই আজই আল্লাহর ডাকে সাড়া দিন, রাসূলদের পথে চলুন।"
   }
 };
 

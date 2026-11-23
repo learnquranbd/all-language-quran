@@ -1983,6 +1983,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "14:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Scene Becomes a Warning",
+          "bn": "দৃশ্য থেকে সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "Wa-andhiri an-nasa yawma ya'tihimu al-'adhab: and warn the people of the Day the punishment comes to them. The two verses before it drew that Day as a scene: eyes that stare, heads raised, hearts left empty. This verse turns the scene into a message for whoever hears it. Ibn Kathir makes the link in so many words: because of the severity of what Allah had told about them, He said to His Messenger, warn the people. Ma'arif al-Qur'an reads the order the same way: once the shape of what is coming has been stated, the address turns to the Prophet ﷺ.",
+            "bn": "ওয়া আনযিরিন নাসা ইয়াওমা ইয়া'তীহিমুল আযাব: আর মানুষকে সেই দিনের ব্যাপারে সতর্ক করুন, যেদিন তাদের উপর আযাব আসবে। আগের দুই আয়াতে সেই দিনটা আঁকা হয়েছিল একটা দৃশ্যের মতো: স্থির চোখ, উঁচু মাথা, শূন্য হৃদয়। এ আয়াত সেই দৃশ্যকে শ্রোতার জন্য বার্তায় বদলে দেয়। ইবন কাসীর যোগসূত্রটা স্পষ্ট করে বলেন: তাদের ব্যাপারে আল্লাহ যে ভয়াবহ খবর দিয়েছেন, তার কঠোরতার কারণেই তিনি তাঁর রাসূলকে বললেন, মানুষকে সতর্ক করুন। মাআরিফুল কুরআনও ক্রমটা এভাবেই পড়ে। যা আসছে তার চেহারা বলে দেওয়ার পর সম্বোধন ঘুরে যায় নবী ﷺ-এর দিকে।"
+          },
+          {
+            "en": "Who are the people to be warned? At-Tabari answers broadly: warn, O Muhammad, the people to whom I sent you calling to Islam, of what is coming down on them on the day Allah's punishment reaches them at the Resurrection. Al-Muyassar keeps almost the same wording, the people to whom I sent you. Al-Qurtubi relays from Ibn 'Abbas a narrower reading: the people of Mecca were meant. Ibn 'Abbas names the audience the verse first reached; at-Tabari's wording reaches everyone the call was sent to. The verse itself says only an-nas, the people.",
+            "bn": "কাদের সতর্ক করতে বলা হচ্ছে? তাবারীর উত্তর ব্যাপক। হে মুহাম্মাদ, যাদের কাছে আমি আপনাকে ইসলামের দিকে আহ্বানকারী করে পাঠিয়েছি, সেই মানুষদের সতর্ক করুন, কিয়ামতে যেদিন আল্লাহর আযাব আসবে সেদিন তাদের উপর কী নেমে আসছে সে ব্যাপারে। মুয়াসসার প্রায় একই কথা রাখে: যাদের কাছে আমি আপনাকে পাঠিয়েছি। কুরতুবী ইবন আব্বাস (রাঃ) থেকে একটি সংকীর্ণ পাঠ বর্ণনা করেন: এখানে উদ্দেশ্য মক্কাবাসী। ইবন আব্বাস (রাঃ) সেই শ্রোতাদের নাম বলছেন, যাদের কাছে আয়াতটি প্রথম পৌঁছেছিল। তাবারীর ভাষা পৌঁছে যায় তাদের সবার কাছে, যাদের কাছে দাওয়াত পাঠানো হয়েছে। আয়াত নিজে শুধু বলে আন-নাস, মানুষ।"
+          },
+          {
+            "en": "Qatadah, in at-Tabari, fixes the time of the warning rather than of the Day: warn them in this world, before the punishment comes to them. Al-Qurtubi asks why the Day is named by its punishment when it is also the day of reward, and answers that the sentence comes out as a threat to the one who disobeys. As-Sa'di widens the task: describe that state to them, and warn them away from the deeds that make the punishment due. A warning, on his reading, is more than a picture of the end; it also names the road that leads there.",
+            "bn": "কাতাদা, তাবারীর বর্ণনায়, দিনটার নয়, সতর্ক করার সময়টা ঠিক করে দেন: দুনিয়াতেই তাদের সতর্ক করুন, আযাব আসার আগে। কুরতুবী একটা প্রশ্ন তোলেন। সেদিন তো পুরস্কারেরও দিন, তবু দিনটাকে আযাবের নামে ডাকা হলো কেন? তাঁর উত্তর: কথাটা এসেছে নাফরমানের প্রতি হুমকি হিসেবে। সা'দী কাজটাকে আরও বড় করে দেখেন। তাদের সামনে সেই অবস্থার বর্ণনা দিন, আর যে আমলগুলো আযাব অবধারিত করে, সেগুলো থেকে তাদের সাবধান করুন। তাঁর পাঠে সতর্কবাণী শুধু শেষ পরিণতির ছবি নয়। কোন পথ সেখানে নিয়ে যায়, সেটাও দেখিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Day, or Its Sight",
+          "bn": "কোন দিন, কোন মুহূর্ত"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators fetched here name the Day outright. Mujahid, in at-Tabari's chain through Ibn Jurayj, says: the Day of Resurrection. At-Tabari's own gloss places Allah's punishment at the Resurrection. Al-Qurtubi says it is the Day of Resurrection, meaning, make them fear that day, and al-Baghawi and al-Muyassar say the same. On this reading the plea in the verse is spoken after the world has closed, by people who have already met what they denied, and who now ask to go back to a place that has ended.",
+            "bn": "এখানে যে তাফসীরগুলো দেখা হয়েছে, তার বেশিরভাগই দিনটার নাম সরাসরি বলে দেয়। ইবন জুরাইজ হয়ে তাবারীর সনদে মুজাহিদ বলেন: কিয়ামতের দিন। তাবারীর নিজের ব্যাখ্যাতেও আল্লাহর আযাব আসছে কিয়ামতে। কুরতুবী বলেন, এ হলো কিয়ামতের দিন, মানে সেই দিনের ভয় তাদের মনে ঢুকিয়ে দিন। বাগাভী ও মুয়াসসারও একই কথা বলেন। এই পাঠে আয়াতের মিনতিটা উচ্চারিত হয় দুনিয়ার পাট চুকে যাওয়ার পর। যারা অস্বীকার করেছিল, তারা তখন তার মুখোমুখি হয়ে গেছে, আর চাইছে এমন জায়গায় ফিরে যেতে, যার পালা শেষ।"
+          },
+          {
+            "en": "Ibn Kathir frames the moment by what the speakers see: Allah tells of the words of those who wronged themselves when they behold the punishment with their own eyes. He then sets this plea beside others like it. Two are made at death: 23:99 and 23:100, and 63:10. The next, 32:12, he introduces as Allah telling of them in the state of their gathering; then come 6:27 and 6:28, held over the Fire, and 35:37, crying out within it. He lines them up side by side and does not say which of them this verse belongs with.",
+            "bn": "ইবন কাসীর মুহূর্তটাকে চেনান বক্তারা কী দেখছে তা দিয়ে। যারা নিজেদের উপর যুলম করেছিল, আযাব নিজের চোখে দেখার সময় তারা কী বলবে, আল্লাহ সেই খবর দিচ্ছেন। তারপর তিনি এই মিনতির পাশে এর মতো আরও কয়েকটি রাখেন। দুটি মিনতি মৃত্যুর সময়ের: ২৩:৯৯ ও ২৩:১০০, আর ৬৩:১০। পরেরটি ৩২:১২, যার আগে তিনি বলেন, হাশরের ময়দানে তাদের অবস্থার কথা আল্লাহ জানাচ্ছেন। তারপর আসে ৬:২৭ ও ৬:২৮, যেখানে তাদের জাহান্নামের সামনে দাঁড় করানো হয়েছে, আর ৩৫:৩৭, যেখানে তারা তার ভেতরে আর্তনাদ করছে। সবগুলো তিনি পাশাপাশি সাজিয়ে দেন। এ আয়াত এর কোনটির সঙ্গে যায়, সে কথা আলাদা করে বলেন না।"
+          },
+          {
+            "en": "Al-Qurtubi also relays, from al-Bayhaqi, a report from Muhammad ibn Ka'b al-Qurazi that places this plea among several made by the people of the Fire, and adds that Ibn al-Mubarak gave it at greater length. It is the saying of a Successor, not words of the Prophet ﷺ, and al-Qurtubi attaches no grading to it, so it is only mentioned here and nothing is built on it. None of the tafsirs fetched for this verse attaches a sound hadith to it.",
+            "bn": "কুরতুবী বায়হাকী থেকে মুহাম্মাদ ইবন কা'ব আল-কুরাযীর একটি বর্ণনাও আনেন। তাতে এই মিনতিকে জাহান্নামবাসীদের কয়েকটি মিনতির একটি হিসেবে রাখা হয়েছে। কুরতুবী আরও বলেন, ইবনুল মুবারক এটি আরও দীর্ঘ আকারে এনেছেন। কথাটা একজন তাবেয়ীর, নবী ﷺ-এর বাণী নয়, আর কুরতুবী এর কোনো মান উল্লেখ করেননি। তাই এখানে শুধু উল্লেখটুকু থাকল, এর উপর কিছু দাঁড় করানো হলো না। এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Their Wrong Was",
+          "bn": "তাদের যুলমটা কী ছিল"
+        },
+        "p": [
+          {
+            "en": "Fa-yaqulu alladhina zalamu: then those who did wrong will say. The commentators give the wrong a content. At-Tabari: those who disbelieved in their Lord, and by that wronged their own selves. Al-Baghawi says it with a single word, ashraku, they associated partners with Allah. Al-Muyassar: those who wronged themselves through disbelief. As-Sa'di is the widest: wrong by disbelief, by denial, and by kinds of disobedience, and he adds that they speak in regret for what they did. Ibn Kathir uses the fuller phrase that 14:45 itself has: those who wronged themselves.",
+            "bn": "ফা ইয়াকূলুল্লাযীনা যালামূ: তখন যারা যুলম করেছিল তারা বলবে। তাফসীরকারেরা যুলমটার ভেতরের কথা খুলে বলেন। তাবারী বলেন, এরা নিজেদের রবকে অস্বীকার করেছিল, আর তা করে নিজেদেরই উপর যুলম করেছিল। বাগাভী এক শব্দে বলেন: আশরাকূ, তারা শিরক করেছিল। মুয়াসসার বলে, যারা কুফর করে নিজেদের উপর যুলম করেছিল। সা'দীর ব্যাখ্যা সবচেয়ে বিস্তৃত: কুফর, মিথ্যা প্রতিপন্ন করা আর নানা রকম নাফরমানির যুলম। তিনি যোগ করেন, নিজেদের কাজের জন্য অনুতপ্ত হয়েই তারা এ কথা বলবে। ইবন কাসীর সেই পূর্ণ শব্দবন্ধটা ব্যবহার করেন, যা ১৪:৪৫ আয়াতেই আছে: যারা নিজেদের উপর যুলম করেছিল।"
+          },
+          {
+            "en": "At-Tabari pauses on the grammar of fa-yaqulu. The verb is in the indicative, he says, because it is joined to ya'tihim, the punishment comes to them; it is not the answer to the command, warn. Had it been that answer, both the indicative and the subjunctive would have been allowed, and he cites a line of verse for the second. The point is small, but it keeps the order of the sentence clear. On his parsing, their speaking is tied to the coming of the punishment, not to the warning they were given.",
+            "bn": "ফা ইয়াকূলু শব্দের ব্যাকরণে তাবারী একটু থামেন। তাঁর মতে ক্রিয়াটির শেষে পেশ, কারণ এটি জুড়ে আছে ইয়া'তীহিম শব্দের সঙ্গে, অর্থাৎ আযাব তাদের কাছে আসবে। 'সতর্ক করুন' আদেশের জবাব হিসেবে এটি আসেনি। জবাব হলে পেশ ও যবর দুটোই চলত, আর যবরের পক্ষে তিনি একটি কবিতার চরণ উদ্ধৃত করেন। বিষয়টা ছোট, কিন্তু বাক্যের ক্রমটা এতে পরিষ্কার থাকে। তাঁর বিশ্লেষণে তাদের এই কথা বলাটা বাঁধা আছে আযাব আসার সঙ্গে, তাদের যে সতর্ক করা হয়েছিল তার সঙ্গে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Put Us Off a Little",
+          "bn": "আর একটু সময় দাও"
+        },
+        "p": [
+          {
+            "en": "Rabbana akhkhirna ila ajalin qarib: our Lord, delay us to a near term. Read with 14:42, the verb lands heavily. There Allah said innama yu'akhkhiruhum: He only delays them for a Day when eyes will stare. The same Arabic root, a-kh-r, now returns in their own mouths. The delay they had was given until that Day; on that Day they ask for another. The verse does not comment on the echo. It lets the two verbs stand two verses apart and leaves the listener to hear them together.",
+            "bn": "রাব্বানা আখখিরনা ইলা আজালিন কারীব: হে আমাদের রব, আমাদের একটা কাছের মেয়াদ পর্যন্ত সময় দাও। ১৪:৪২ আয়াতের সঙ্গে মিলিয়ে পড়লে ক্রিয়াটা ভারী হয়ে বাজে। সেখানে আল্লাহ বলেছিলেন, ইন্নামা ইউআখখিরুহুম: তিনি তাদের সময় দিচ্ছেন শুধু সেই দিন পর্যন্ত, যেদিন চোখ স্থির হয়ে যাবে। আরবিতে একই ধাতু, আ-খ-র, এবার ফিরে আসে তাদের নিজেদের মুখে। যে অবকাশ তারা পেয়েছিল, তা ছিল সেই দিন পর্যন্ত। আর সেই দিনে এসে তারা চাইছে আরেকটা অবকাশ। আয়াত এই প্রতিধ্বনি নিয়ে কিছু বলে না। দুই আয়াতের ব্যবধানে দুটি ক্রিয়া রেখে দেয়, শ্রোতা নিজেই মিলিয়ে শুনুক।"
+          },
+          {
+            "en": "The commentators gloss the request in plain terms. At-Tabari: delay Your punishment from us and give us respite. Al-Qurtubi, al-Baghawi and al-Muyassar all render it amhilna, grant us time. But time for what, and where? Mujahid, through at-Tabari, says the near term is a span from the world in which they would act. Al-Baghawi says outright that this is their asking to be returned to the world: send us back to it. Al-Qurtubi: they asked to go back to the world when the truth had appeared in the Hereafter.",
+            "bn": "তাফসীরকারেরা অনুরোধটা সহজ ভাষায় খুলে বলেন। তাবারী: আমাদের থেকে তোমার আযাব পিছিয়ে দাও, আমাদের অবকাশ দাও। কুরতুবী, বাগাভী আর মুয়াসসার সবাই এর অর্থ করেন আমহিলনা, আমাদের সময় দাও। কিন্তু কিসের জন্য সময়, আর কোথায়? তাবারীর বর্ণনায় মুজাহিদ বলেন, কাছের মেয়াদ মানে দুনিয়ার এমন একটা সময়, যাতে তারা আমল করবে। বাগাভী সরাসরি বলেন, এ হলো দুনিয়ায় ফেরত পাঠানোর আবেদন: আমাদের সেখানে ফিরিয়ে দাও। কুরতুবী বলেন, আখিরাতে সত্য প্রকাশ হয়ে যাওয়ার পর তারা দুনিয়ায় ফিরে যাওয়ার আবদার করেছিল।"
+          },
+          {
+            "en": "As-Sa'di reads the plea as a return too: send us back to the world, for we have now seen. Then he adds the phrase that carries the weight of the verse: they are asking for the return at a time that is not its time, fi ghayri waqtiha. Ma'arif al-Qur'an pictures them left with no choice but to call their Lord for more time, to go back to the world they knew and this time say yes to the call of the prophets. The plea is reasonable in its form. It comes at the wrong hour.",
+            "bn": "সা'দীও মিনতিটাকে ফিরে যাওয়ার আবেদন হিসেবেই পড়েন: আমাদের দুনিয়ায় ফিরিয়ে দাও, এখন তো আমরা দেখে নিয়েছি। তারপর তিনি এমন একটি কথা যোগ করেন, যাতে আয়াতের পুরো ভার এসে পড়ে: তারা ফিরে যেতে চাইছে অসময়ে, ফী গাইরি ওয়াকতিহা। মাআরিফুল কুরআনের ছবিতে তাদের হাতে তখন আর কোনো উপায় নেই। রবের কাছে আরও সময় চাওয়া ছাড়া কিছুই করার থাকে না, যাতে চেনা দুনিয়ায় ফিরে গিয়ে এবার নবীদের ডাকে সাড়া দিতে পারে। চাওয়াটা চেহারায় যুক্তিসংগত। শুধু সময়টা ভুল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Pledges Offered at the Gate",
+          "bn": "দরজায় দাঁড়িয়ে দুই ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "Nujib da'wataka wa-nattabi' ar-rusul: we will answer Your call and follow the messengers. At-Tabari unfolds both halves. Answer Your call: the call of truth, so that we believe in You and associate nothing with You. Follow the messengers: we will affirm Your messengers and follow them in what You called us to, obedience to You and following Your command. Al-Muyassar puts it in two short verbs: we will believe in You and affirm Your messengers. Al-Qurtubi names the call in a single phrase: to Islam.",
+            "bn": "নুজিব দা'ওয়াতাকা ওয়া নাত্তাবি'ইর রুসুল: আমরা তোমার ডাকে সাড়া দেব আর রাসূলদের অনুসরণ করব। তাবারী দুটি অংশই খুলে বলেন। তোমার ডাকে সাড়া দেব মানে সত্যের ডাকে সাড়া দেব, তোমার উপর ঈমান আনব, তোমার সঙ্গে কাউকে শরীক করব না। রাসূলদের অনুসরণ করব মানে তোমার রাসূলদের সত্য বলে মানব, আর তুমি যার দিকে ডেকেছ, অর্থাৎ তোমার আনুগত্য আর তোমার হুকুম মেনে চলা, তাতে তাঁদের পেছনে চলব। মুয়াসসার কথাটা দুই ক্রিয়ায় বলে দেয়: আমরা তোমার উপর ঈমান আনব, তোমার রাসূলদের সত্য বলে মানব। কুরতুবী ডাকটার নাম বলেন এক কথায়: ইসলামের দিকে।"
+          },
+          {
+            "en": "As-Sa'di recalls whose call it was: Allah calls to the Abode of Peace, in the wording of 10:25. Then he judges the pledge itself. All of it is said only to escape the painful punishment; otherwise they are liars in this promise. He quotes 6:28 for it: were they sent back, they would return to what they were forbidden. Ibn Kathir cites the same passage, 6:27 and 6:28, among his parallels, though he does not apply it to this pledge in words of his own. The promise is answered in the verse, not accepted.",
+            "bn": "ডাকটা কার ছিল, সা'দী তা মনে করিয়ে দেন: আল্লাহ ডাকেন দারুস সালামের দিকে, ১০:২৫ আয়াতের ভাষায়। তারপর তিনি ওয়াদাটারই বিচার করেন। এসব কথা শুধু যন্ত্রণাদায়ক আযাব থেকে ছাড়া পাওয়ার জন্য। নইলে এই ওয়াদায় তারা মিথ্যাবাদী। এর পক্ষে তিনি ৬:২৮ উদ্ধৃত করেন: তাদের ফিরিয়ে দিলেও যা থেকে নিষেধ করা হয়েছিল, তারা আবার তা-ই করত। ইবন কাসীরও তাঁর তুলনীয় আয়াতগুলোর মধ্যে এই অংশ, ৬:২৭ ও ৬:২৮, এনেছেন। তবে নিজের ভাষায় তিনি একে এই ওয়াদার উপর প্রয়োগ করেননি। আয়াতে ওয়াদাটা গৃহীত হয় না, তার জবাব আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Oath Brought Back",
+          "bn": "ফিরিয়ে আনা কসম"
+        },
+        "p": [
+          {
+            "en": "Awa-lam takunu aqsamtum min qabl: had you not sworn before? The verse does not name who answers. Ibn Kathir does: Allah said, refuting them in this saying of theirs. Ma'arif al-Qur'an likewise has the answer come from Allah Ta'ala. Al-Qurtubi and al-Baghawi keep the verse's reticence with a passive, fa-yujabun, and they are answered. Al-Muyassar and as-Sa'di also use the passive, and both name its tone: it is said to them in rebuke.",
+            "bn": "আওয়া লাম তাকূনূ আকসামতুম মিন কাবল: তোমরা কি আগে কসম খাওনি? জবাবটা কে দিচ্ছেন, আয়াত তা বলে না। ইবন কাসীর বলেন: তাদের এই কথার খণ্ডন করে আল্লাহ বললেন। মাআরিফুল কুরআনও বলে, জবাব আসবে আল্লাহ তাআলার পক্ষ থেকে। কুরতুবী আর বাগাভী আয়াতের এই নীরবতাটুকু রেখে দেন কর্মবাচ্যে: ফা ইউজাবূন, তখন তাদের জবাব দেওয়া হবে। মুয়াসসার আর সা'দীও কর্মবাচ্য রাখেন, তবে সুরটা চিনিয়ে দেন: ভর্ৎসনা করে তাদের বলা হবে।"
+          },
+          {
+            "en": "Min qabl, before: in the abode of the world, say al-Qurtubi and al-Baghawi; before this state, says Ibn Kathir. Which oath? Al-Qurtubi gives two attributions. Mujahid: the oath of Quraysh that they would not be raised. Ibn Jurayj: what Allah relates of them in 16:38, that they swore by Allah their strongest oaths that Allah will not raise anyone who dies. Al-Baghawi and Ibn Kathir quote 16:38 here too. Ibn Kathir then closes the reply in his own words: so taste this for that. As-Sa'di adds: your breaking of your oaths has now become clear, and your lying in what you claim.",
+            "bn": "মিন কাবল, আগে: কুরতুবী আর বাগাভী বলেন, দুনিয়ার জীবনে। ইবন কাসীর বলেন, এই অবস্থায় আসার আগে। কোন কসম? কুরতুবী দুজনের কথা আনেন। মুজাহিদ বলেন, এ হলো কুরাইশের কসম যে তাদের আর ওঠানো হবে না। ইবন জুরাইজ বলেন, এ সেই কসম যার কথা আল্লাহ ১৬:৩৮ আয়াতে জানিয়েছেন: তারা আল্লাহর নামে কঠিনতম কসম খেয়ে বলেছিল, যে মারা যায় আল্লাহ তাকে আর জীবিত করবেন না। বাগাভী আর ইবন কাসীরও এখানে ১৬:৩৮ উদ্ধৃত করেন। ইবন কাসীর জবাবটা শেষ করেন নিজের ভাষায়: তবে এর বদলে এবার এটার স্বাদ নাও। সা'দী যোগ করেন: কসম ভাঙার কথা এখন তোমাদের সামনে স্পষ্ট, আর তোমাদের দাবির মিথ্যাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Oath Denied",
+          "bn": "কসমে কী অস্বীকার ছিল"
+        },
+        "p": [
+          {
+            "en": "Ma lakum min zawal: there would be no zawal for you. What did the oath deny? Mujahid's reading, relayed by both Ibn Kathir and al-Qurtubi, glosses zawal as intiqal, moving: no moving from the world to the Hereafter, which al-Qurtubi explains as, you will not be raised or gathered. Al-Baghawi: no passing from it, the world, meaning you will not be raised. Al-Muyassar and as-Sa'di give the same sense, a denial of the move from this life to the next.",
+            "bn": "মা লাকুম মিন যাওয়াল: তোমাদের কোনো যাওয়াল নেই। কসমে আসলে কী অস্বীকার করা হয়েছিল? মুজাহিদের পাঠ ইবন কাসীর ও কুরতুবী দুজনেই আনেন। তিনি যাওয়ালের অর্থ করেন ইনতিকাল, স্থানান্তর: দুনিয়া থেকে আখিরাতে কোনো যাত্রা নেই। কুরতুবী এর ব্যাখ্যা দেন এভাবে: তোমাদের আর ওঠানো হবে না, একত্র করাও হবে না। বাগাভী বলেন, দুনিয়া থেকে কোনো বিদায় নেই, অর্থাৎ তোমাদের পুনরুত্থান হবে না। মুয়াসসার আর সা'দীও একই অর্থ দেন। এই জীবন থেকে পরের জীবনে যাওয়ার কথাটাই তারা অস্বীকার করেছিল।"
+          },
+          {
+            "en": "Ibn Kathir's own gloss is broader: you used to swear, before this state, that there was no passing for you from what you were in, and that there was no return and no recompense. On this gloss the oath denies change itself, and the denial of the Resurrection comes with it. Ma'arif al-Qur'an takes that line further: you swore that your wealth and power would never part from you, that you would go on living in the world in comfort forever, and you rejected the idea of living again.",
+            "bn": "ইবন কাসীরের নিজের ব্যাখ্যা আরও ব্যাপক। এই অবস্থার আগে তোমরা কসম খেয়ে বলতে, যে অবস্থায় আছ তা থেকে তোমাদের কোনো সরে যাওয়া নেই, কোনো ফিরে আসা নেই, কোনো প্রতিদানও নেই। এই ব্যাখ্যায় কসমটা অস্বীকার করে পরিবর্তনকেই, আর তার সঙ্গে আসে পুনরুত্থানের অস্বীকার। মাআরিফুল কুরআন কথাটা আরও এগিয়ে নেয়। তোমরা কসম খেয়েছিলে, তোমাদের ধনসম্পদ আর ক্ষমতা কখনো হাতছাড়া হবে না, দুনিয়ায় আরামে চিরকাল এভাবেই থাকবে। আর আবার জীবিত হওয়ার কথাটাই তোমরা নাকচ করেছিলে।"
+          },
+          {
+            "en": "Al-Qurtubi, after Mujahid's reading, records a second interpretation without naming who held it: no zawal, that is, from the punishment. He does not expand it. These readings are kept here as each commentator gives them, without choosing between them. Most of them share one thread: the oath denied that the life they knew would ever end, and the Day of the verse is where that denial is answered.",
+            "bn": "মুজাহিদের পাঠের পর কুরতুবী দ্বিতীয় একটি ব্যাখ্যা লেখেন, কার মত তা না বলে: কোনো যাওয়াল নেই, অর্থাৎ আযাব থেকে। এর বেশি তিনি খোলেন না। প্রত্যেক তাফসীরকার যেভাবে বলেছেন, পাঠগুলো এখানে সেভাবেই রাখা হলো, কোনোটিকে বেছে নেওয়া হলো না। তবে বেশিরভাগ পাঠে একটা সুতো মিলে যায়। তাদের কসম অস্বীকার করেছিল যে চেনা জীবনটার কখনো শেষ আছে। আর আয়াতের সেই দিনেই সেই অস্বীকারের জবাব আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While the Delay Is Ours",
+          "bn": "অবকাশ যখন হাতে"
+        },
+        "p": [
+          {
+            "en": "The reply does not end with the oath. In the translation used here it runs on through 14:45: you lived in the dwellings of those who wronged themselves, and it became clear to you how We dealt with them. Then 14:46 turns to their plotting. Those verses carry their own discussion. This verse describes what it describes, deniers on the Day of punishment, and licenses nothing against any living person or community, nor does it place anyone in this world beyond the call.",
+            "bn": "কসমের কথায় জবাব শেষ হয় না। এখানে ব্যবহৃত অনুবাদে তা ১৪:৪৫ পর্যন্ত গড়ায়: তোমরা তো তাদের বাসভূমিতেই বাস করেছিলে, যারা নিজেদের উপর যুলম করেছিল, আর তোমাদের কাছে স্পষ্ট হয়ে গিয়েছিল তাদের সঙ্গে আমি কী করেছি। তারপর ১৪:৪৬ আয়াত ফেরে তাদের চক্রান্তের দিকে। সেসব আয়াতের আলোচনা আলাদা। এ আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে: আযাবের দিনে অস্বীকারকারীদের অবস্থা। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। দুনিয়ার কাউকে দাওয়াতের নাগালের বাইরে বলেও ঘোষণা করে না।"
+          },
+          {
+            "en": "Qatadah's gloss is the one that turns the verse toward the reader: warn them in this world, before the punishment comes. Mujahid described what they would beg for as a span of the world in which to act. That span is the life of whoever reads the verse now. The two pledges they would make, to answer the call and to follow the messengers, can still be kept today, in prayer and obedience, while the delay is a gift and not yet a plea.",
+            "bn": "কাতাদার ব্যাখ্যাই আয়াতটাকে পাঠকের দিকে ফিরিয়ে দেয়: দুনিয়াতেই তাদের সতর্ক করুন, আযাব আসার আগে। মুজাহিদ বলেছিলেন, তারা মিনতি করবে দুনিয়ার এমন একটা সময়ের জন্য, যাতে আমল করা যায়। সেই সময়টাই তো আজ যে আয়াতটা পড়ছে তার জীবন। তারা যে দুটি ওয়াদা করবে, ডাকে সাড়া দেওয়া আর রাসূলদের অনুসরণ, আজও তা রক্ষা করা যায়, নামাযে আর আনুগত্যে। অবকাশটা এখনো একটা দান, মিনতি হয়ে ওঠেনি।"
+          }
+        ]
+      }
+    ]
+  },
   "14:48": {
     "sections": [
       {
