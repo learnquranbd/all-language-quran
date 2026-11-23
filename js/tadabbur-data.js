@@ -31003,6 +31003,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not answer a wrong with the same wrong; every hand carries its own deed back to Allah, and a warning given in time may still turn someone back.",
     "lessonBn": "অন্যায়ের জবাব একই অন্যায় দিয়ে দেবেন না। প্রত্যেক হাত নিজের আমল নিয়েই আল্লাহর কাছে ফেরে, আর সময়মতো দেওয়া সতর্কবাণী হয়তো কাউকে এখনো ফেরাতে পারে।"
+  },
+  "5:55": {
+    "reflectionEn": "The verses just before have told the believers whom not to lean on. Now the passage turns and names who remains: your wali is none but Allah, His Messenger and those who believe. The word holds help, protection and nearness together. And the believers are not left as a vague crowd. They are known by what they do: they keep up the prayer, they give the zakah, and they bow. One act faces Allah, one faces the people in need, and the last is the whole self lowered before Him. So the verse gives me a test for my own circle. The people I run to when I am afraid, whose approval I want most: do they pray, give and bow? And would they say the same of me?",
+    "reflectionBn": "ঠিক আগের আয়াতগুলো মুমিনদের বলে দিয়েছে কার উপর ভর দেওয়া চলবে না। এবার আয়াতটি ঘুরে দাঁড়িয়ে জানায়, তাহলে বাকি রইল কারা: তোমাদের ওয়ালি কেবল আল্লাহ, তাঁর রাসূল আর মুমিনরা। ওয়ালি শব্দে সাহায্য, আশ্রয় আর ঘনিষ্ঠতা একসঙ্গে মিশে আছে। মুমিনদেরও এখানে অস্পষ্ট ভিড় হিসেবে রাখা হয়নি। তাদের চেনা যায় কাজ দেখে: তারা নামায কায়েম করে, যাকাত দেয়, আর রুকু করে। একটি কাজ আল্লাহর দিকে, একটি অভাবী মানুষের দিকে, আর শেষটা গোটা নিজেকে তাঁর সামনে নুইয়ে দেওয়া। তাই আয়াতটি আমার হাতে নিজের চারপাশ মাপার একটা কষ্টিপাথর তুলে দেয়। ভয় পেলে যাদের কাছে ছুটে যাই, যাদের সম্মতি আমি সবচেয়ে বেশি চাই, তারা কি নামায পড়ে, দান করে, মাথা নোয়ায়? আর তারা কি আমার সম্পর্কেও একই কথা বলতে পারবে?",
+    "pointsEn": [
+      "When I am frightened or in need, whose help do I reach for first, and where does Allah come in that order?",
+      "If I listed the people closest to me, how many did I choose because they pray and give, and how many for other reasons?",
+      "Does my giving to people in need stand beside my prayer, as the verse places them, or does my prayer stand alone?",
+      "Where has my worship left me pleased with myself rather than bowed before my Lord?",
+      "Would someone looking for a believer to lean on find in me a person who prays, gives and bows?"
+    ],
+    "pointsBn": [
+      "ভয়ে বা বিপদে পড়লে প্রথমে কার সাহায্যের দিকে হাত বাড়াই? সেই তালিকায় আল্লাহ কোথায় থাকেন?",
+      "আমার সবচেয়ে কাছের মানুষদের নাম লিখলে কজনকে বেছেছি তারা নামায পড়ে আর দান করে বলে, আর কজনকে অন্য কারণে?",
+      "আয়াতটি যেভাবে পাশাপাশি রেখেছে, আমার নামাযের পাশে কি অভাবীকে দেওয়াটাও দাঁড়িয়ে আছে, নাকি নামায একাই দাঁড়িয়ে?",
+      "কোথায় আমার ইবাদত আমাকে রবের সামনে নত না করে উল্টো নিজের উপর খুশি করে রেখেছে?",
+      "ভরসা করার মতো একজন মুমিন খুঁজতে এসে কেউ কি আমার মধ্যে এমন মানুষ পাবে, যে নামায পড়ে, দান করে আর মাথা নোয়ায়?"
+    ],
+    "lessonEn": "Take Allah, His Messenger and the believers as your allies, and know the believers by their prayer, their giving and their humility before Allah.",
+    "lessonBn": "আল্লাহ, তাঁর রাসূল আর মুমিনদেরকেই নিজের অভিভাবক ও সহায় করুন, আর মুমিনদের চিনুন তাদের নামায, তাদের দান আর আল্লাহর সামনে তাদের বিনয় দেখে।"
   }
 };
 

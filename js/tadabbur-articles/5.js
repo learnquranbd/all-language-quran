@@ -2487,6 +2487,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Closed Doors, an Address",
+          "bn": "বন্ধ দরজার পরে খোলা ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "Innama waliyyukumu Allahu wa rasuluhu wa-lladhina amanu: your wali is none but Allah, His Messenger and those who believe. The verse answers a passage that opened at 5:51 with a prohibition, do not take the Jews and the Christians as awliya'. Between the two stand the people with disease in their hearts who hurried toward the other side out of fear (5:52 and 5:53), and the warning that whoever turns back will be replaced by a people Allah loves (5:54).",
+            "bn": "ইন্নামা ওয়ালিয়্যুকুমুল্লাহু ওয়া রাসূলুহু ওয়াল্লাযীনা আমানূ: তোমাদের ওয়ালি কেবল আল্লাহ, তাঁর রাসূল আর যারা ঈমান এনেছে। এ আয়াত যে অংশের জবাব, তার শুরু ৫:৫১-এ একটি নিষেধ দিয়ে: ইয়াহূদি ও নাসারাদের আওলিয়া বানিয়ো না। এ দুইয়ের মাঝখানে আছে অন্তরে রোগওয়ালা সেই লোকেরা, যারা ভয়ে অন্য পক্ষের দিকে ছুটে গিয়েছিল (৫:৫২ ও ৫:৫৩)। আর আছে সতর্কবাণী: যে ফিরে যাবে, আল্লাহ তার জায়গায় এমন এক কওম আনবেন যাদের তিনি ভালোবাসেন (৫:৫৪)।"
+          },
+          {
+            "en": "As-Sa'di names the turn in one sentence. Having forbidden the wilayah of the disbelievers and told where taking them as allies ends, in clear loss, Allah now tells whom it is obligatory to take as wali, and what good that brings. Ibn Kathir reads the opening the same way: the Jews are not your awliya'; rather, your wilayah goes back to Allah, His Messenger and the believers. After a run of closed doors, the verse gives the believers an address.",
+            "bn": "মোড়টা সা'দী একটি বাক্যেই ধরিয়ে দেন। কাফিরদের বন্ধুত্ব নিষেধ করার পর, আর সেই বন্ধুত্বের শেষ পরিণতি যে স্পষ্ট ক্ষতি তা জানিয়ে দেওয়ার পর, আল্লাহ এবার বলছেন কাকে ওয়ালি বানানো ফরজ, আর তাতে কী কল্যাণ। ইবন কাসীরও শুরুটা একইভাবে পড়েন: ইয়াহূদিরা তোমাদের আওলিয়া নয়, তোমাদের ওয়ালায়াত ফিরে যায় আল্লাহ, তাঁর রাসূল আর মুমিনদের দিকে। একের পর এক দরজা বন্ধ হওয়ার পর আয়াতটি মুমিনদের হাতে একটা ঠিকানা তুলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wali Means Whose Backing",
+          "bn": "ওয়ালি মানে কার পাশে দাঁড়ানো"
+        },
+        "p": [
+          {
+            "en": "What kind of wali is meant? At-Tabari answers with one word, nasir, a helper: you have, believers, no helper but Allah, His Messenger and the believers whose description Allah gives. As for the Jews and Christians whose wilayah you were told to disown, they are not your awliya' or helpers; they are awliya' of one another. The Muyassar uses the same word: your helper, believers, is Allah, His Messenger and the believers. In both, the question is whose backing a believer counts on.",
+            "bn": "এখানে কেমন ওয়ালির কথা? তাবারী উত্তর দেন একটি শব্দে: নাসির, সাহায্যকারী। হে মুমিনরা, তোমাদের সাহায্যকারী কেবল আল্লাহ, তাঁর রাসূল আর সেই মুমিনরা যাদের গুণ আল্লাহ বলে দিয়েছেন। আর যে ইয়াহূদি ও নাসারাদের ওয়ালায়াত ছাড়তে তোমাদের বলা হয়েছে, তারা তোমাদের আওলিয়াও নয়, সাহায্যকারীও নয়। তারা একে অপরের আওলিয়া। মুয়াসসারও একই শব্দ নেয়: হে মুমিনরা, তোমাদের সাহায্যকারী আল্লাহ, তাঁর রাসূল আর মুমিনরা। দুজনের কাছেই প্রশ্নটা হলো, মুমিন কার সমর্থনের উপর ভরসা রাখে।"
+          },
+          {
+            "en": "As-Sa'di explains how the three are linked. The wilayah of Allah is reached through faith and taqwa, so every believer who fears Allah is a wali of Allah; whoever is a wali of Allah is a wali of His Messenger; and the completion of that is to take as wali those whom He takes. Then he reads innama as restriction: wilayah must be confined to those named, with a clean break from the wilayah of anyone else. The verse does not merely add allies; it fixes where loyalty belongs.",
+            "bn": "তিনটি নাম কীভাবে এক সুতোয় গাঁথা, সা'দী তা খুলে বলেন। আল্লাহর ওয়ালায়াত পাওয়া যায় ঈমান আর তাকওয়ার পথে। তাই যে মুমিন আল্লাহকে ভয় করে, সে আল্লাহর ওলি। যে আল্লাহর ওলি, সে তাঁর রাসূলেরও ওলি। আর এর পূর্ণতা হলো, আল্লাহ যাদের আপন করে নেন তাদেরও আপন করে নেওয়া। তারপর তিনি ইন্নামা শব্দকে পড়েন সীমা টানার শব্দ হিসেবে: ওয়ালায়াত শুধু এই কজনের মধ্যেই আটকে রাখতে হবে, অন্য সবার ওয়ালায়াত থেকে নিজেকে মুক্ত রেখে। আয়াতটি তাই নতুন মিত্র যোগ করছে না, আনুগত্যের ঠিকানা স্থির করে দিচ্ছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an keeps the same order. Allah alone can be the real friend, guardian and guide of a believer, at all times and in every condition, and every other relationship perishes. The bond with the Prophet ﷺ, it adds, is in reality connected with Allah, not separate from Him. The believers come third, and the verse will not leave them as a name: it says at once who they are.",
+            "bn": "মাআরিফুল কুরআনও একই ক্রম ধরে রাখে। সব সময়, সব অবস্থায় মুমিনের আসল বন্ধু, অভিভাবক আর পথপ্রদর্শক হতে পারেন কেবল আল্লাহ। এর বাইরে সব সম্পর্ক একদিন ফুরিয়ে যায়। নবী ﷺ-এর সঙ্গে বন্ধনও, সে বলে, আসলে আল্লাহর সঙ্গেই জোড়া, তাঁর থেকে আলাদা কিছু নয়। মুমিনরা আসে তৃতীয় স্থানে। আর আয়াতটি তাদের শুধু একটা নাম হিসেবে ফেলে রাখে না, সঙ্গে সঙ্গে বলে দেয় তারা কারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prayer Upward, Zakah Outward",
+          "bn": "নামায রবের দিকে, যাকাত মানুষের দিকে"
+        },
+        "p": [
+          {
+            "en": "Alladhina yuqimuna as-salata wa yu'tuna az-zakata: those who establish the prayer and give the zakah. Ibn Kathir divides the two acts by whom they face. The prayer is the greatest of the pillars of Islam, and it is for Allah alone, without partner. The zakah is the right of created beings, a help for the needy among the weak and the poor. On his reading the believer worth taking as an ally has one face turned to his Lord and the other to the people around him.",
+            "bn": "আল্লাযীনা ইউকীমূনাস সালাতা ওয়া ইউ'তূনায যাকাতা: যারা নামায কায়েম করে আর যাকাত দেয়। ইবন কাসীর দুটি আমলকে ভাগ করেন, কোনটি কার দিকে মুখ করে আছে তা দেখে। নামায ইসলামের স্তম্ভগুলোর মধ্যে সবচেয়ে বড়, আর তা কেবল আল্লাহর জন্য, তাঁর কোনো শরিক নেই। যাকাত সৃষ্টির হক, দুর্বল আর মিসকিনদের মধ্যে যারা অভাবী তাদের জন্য সাহায্য। তাঁর পাঠে, যে মুমিনকে মিত্র বানানো যায়, তার একটি মুখ রবের দিকে, আরেক মুখ চারপাশের মানুষের দিকে।"
+          },
+          {
+            "en": "As-Sa'di draws the same two lines. These believers have stood by faith outwardly and inwardly, made their worship sincere to the One they worship by keeping the prayer with its conditions, obligations and completing acts, and done good to creation by giving zakah from their wealth to those entitled to it. The Muyassar adds the heart to each act: they guard the obligatory prayer, and they pay the zakah 'an rida nafs, from a willing self. Ma'arif al-Qur'an calls these the marks of true Muslims, \"not simply Muslims in name\".",
+            "bn": "সা'দীও একই দুটি রেখা টানেন। এই মুমিনরা ভেতরে-বাইরে ঈমানের উপর দাঁড়িয়েছে। শর্ত, ফরজ আর পূর্ণতার আমলসহ নামায কায়েম করে তারা ইবাদতকে খাঁটি করেছে তাঁর জন্য, যাঁর তারা ইবাদত করে। আর নিজেদের সম্পদ থেকে হকদারদের যাকাত দিয়ে সৃষ্টির প্রতি সদাচরণ করেছে। মুয়াসসার প্রতিটি আমলের সঙ্গে অন্তরের কথাও জুড়ে দেয়: তারা ফরজ নামায হেফাজত করে, আর যাকাত দেয় 'আন রিদা নাফস, খুশি মনে। মাআরিফুল কুরআন এগুলোকে বলে খাঁটি মুসলমানের চিহ্ন, যারা কেবল নামে মুসলমান নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bowing: A Moment or a Trait",
+          "bn": "রুকু: এক মুহূর্ত, না স্বভাব"
+        },
+        "p": [
+          {
+            "en": "Then wa hum raki'un, and they are bowing. The clause can be read two ways. As a hal, a circumstantial clause hung on yu'tuna az-zakah, it would mean they give the zakah while in the bowing of prayer. As a further description, it says what kind of people they are. Ibn Kathir rejects the first. If it were so, he argues, giving zakah while bowing would be better than giving it at any other time, since the verse praises it; and no scholar of fatwa that he knows of holds that.",
+            "bn": "তারপর ওয়া হুম রাকি'ঊন: আর তারা রুকুকারী। বাক্যাংশটি দুইভাবে পড়া যায়। একে যদি হাল ধরা হয়, অর্থাৎ ইউ'তূনায যাকাতের সঙ্গে জোড়া অবস্থাবাচক অংশ, তাহলে মানে দাঁড়ায়: তারা নামাযের রুকুতে থাকা অবস্থায় যাকাত দেয়। আর যদি একে বাড়তি গুণ ধরা হয়, তাহলে তা বলে দেয় তারা কেমন মানুষ। ইবন কাসীর প্রথম পাঠটি নাকচ করেন। তাঁর যুক্তি: তা-ই যদি হতো, তবে রুকুতে যাকাত দেওয়া অন্য যেকোনো সময়ের চেয়ে উত্তম হতো, কারণ আয়াত এর প্রশংসা করছে। অথচ ফতোয়া দেন এমন কোনো আলিমকে তিনি জানেন না যিনি এ কথা বলেছেন।"
+          },
+          {
+            "en": "Several commentators take raki'un in its root sense. As-Sa'di: khadi'una lillahi dhalilun, submissive to Allah and lowly before Him. The Muyassar: and they are humble before Allah. Ma'arif al-Qur'an reports this as the view of the majority: bowing here means modesty, so that they never grow proud of their good deeds. It also records a smaller view, taken from Tafsir Mazhari, that the actual bowing of the prayer is meant, mentioned to mark out the prayer of the Muslims.",
+            "bn": "কয়েকজন মুফাসসির রাকি'ঊন শব্দকে তার মূল অর্থে নেন। সা'দী বলেন: খাদি'ঊনা লিল্লাহি যালীলূন, আল্লাহর সামনে বিনীত, তাঁর কাছে নত। মুয়াসসার বলে: তারা আল্লাহর প্রতি বিনয়ী। মাআরিফুল কুরআন এটিকে অধিকাংশ মুফাসসিরের মত বলে জানায়: এখানে রুকু মানে বিনয়, যাতে নিজের নেক আমল নিয়ে তারা কখনো অহংকার না করে। সে আরেকটি কম প্রচলিত মতও উল্লেখ করে, যা তাফসীরে মাযহারী থেকে নেওয়া। সে মতে এখানে নামাযের আসল রুকুই উদ্দেশ্য, আর তার উল্লেখ মুসলমানদের নামাযকে আলাদা করে চেনাতে।"
+          },
+          {
+            "en": "Al-Qurtubi lists further readings. One says raki'un points to voluntary prayer, after the obligatory prayer named first. Another says bowing is singled out to honour it. A third says that when the verse came down the believers were some completing their prayer and some bowing. Al-Baghawi, on the reading that ties the verse to Companions who gave up their old alliances, reports Ibn 'Abbas taking it as voluntary prayer by night and day. None of these readings makes the bowing the moment of a gift.",
+            "bn": "কুরতুবী আরও কয়েকটি পাঠ তুলে ধরেন। একটি মতে রাকি'ঊন বোঝায় নফল নামায, কারণ শুরুতে যে নামাযের কথা, তা ফরজ। আরেক মতে রুকুকে আলাদা করে বলা হয়েছে তার মর্যাদা বোঝাতে। তৃতীয় মতে আয়াত নাযিলের সময় মুমিনদের কেউ নামায শেষ করছিল, কেউ ছিল রুকুতে। বাগাভী সেই পাঠের প্রসঙ্গে, যা আয়াতটিকে পুরোনো মৈত্রী ছেড়ে আসা সাহাবিদের সঙ্গে জোড়ে, ইবন আব্বাস (রাঃ)-এর মত আনেন: এখানে উদ্দেশ্য দিনরাতের নফল নামায। এর কোনো পাঠেই রুকু দান করার মুহূর্ত হয়ে ওঠে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports of What Prompted It",
+          "bn": "নাযিলের প্রেক্ষাপট নিয়ে বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The commentators carry several reports about what prompted the verse, and none of them is graded sound in the texts fetched. At-Tabari, introducing it with qila, it is said, gives the account of 'Ubadah ibn as-Samit: when Banu Qaynuqa' went to war with the Prophet ﷺ, 'Ubadah renounced his alliance with them and said, I take Allah, His Messenger and the believers as allies and disown the alliance of the disbelievers. The report links the verse to his own words. The longer story belongs to 5:51.",
+            "bn": "আয়াতটি কী উপলক্ষে নাযিল হলো, সে বিষয়ে মুফাসসিররা কয়েকটি বর্ণনা আনেন। যে লেখাগুলো সংগ্রহ করা হয়েছে, তার কোথাও এর একটিকেও সহীহ বলা হয়নি। তাবারী কীলা, অর্থাৎ বলা হয়, শব্দ দিয়ে শুরু করে উবাদা ইবনুস সামিত (রাঃ)-এর ঘটনা আনেন। বনু কায়নুকা যখন নবী ﷺ-এর বিরুদ্ধে যুদ্ধে নামল, উবাদা (রাঃ) তাদের সঙ্গে মৈত্রী ছিন্ন করে বললেন: আমি আল্লাহ, তাঁর রাসূল আর মুমিনদের মিত্র বানাই, আর কাফিরদের মৈত্রী থেকে মুক্ত হই। বর্ণনাটি আয়াতকে তাঁর নিজের এই কথার সঙ্গে জুড়ে দেয়। বিস্তারিত কাহিনি ৫:৫১-এর আলোচনার অংশ।"
+          },
+          {
+            "en": "A second report, from Jabir ibn 'Abdullah, is carried by al-Qurtubi and al-Baghawi. 'Abdullah ibn Salam came to the Prophet ﷺ and said that their own people of Qurayzah and an-Nadir had cut them off and sworn not to sit with them, while the Companions' homes were too far away to sit with them. The verse came down, and he said: we are content with Allah, His Messenger and the believers as allies. Neither commentator gives it a grading.",
+            "bn": "জাবির ইবন আবদুল্লাহ (রাঃ) থেকে দ্বিতীয় একটি বর্ণনা আনেন কুরতুবী ও বাগাভী। আবদুল্লাহ ইবন সালাম (রাঃ) নবী ﷺ-এর কাছে এসে জানালেন, কুরাইযা আর নাদীরের লোকেরা, যারা তাঁদেরই কওম, তাঁদের বয়কট করেছে, কসম খেয়েছে যে তাঁদের সঙ্গে আর বসবে না। আর সাহাবিদের বাড়ি এত দূরে যে তাঁদের কাছে গিয়ে বসাও সম্ভব হয় না। তখন আয়াতটি নাযিল হলো, আর তিনি বললেন: আল্লাহ, তাঁর রাসূল আর মুমিনদের অভিভাবক হিসেবে পেয়ে আমরা সন্তুষ্ট। দুই মুফাসসিরের কেউই বর্ণনাটির মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "A third set of reports links the verse to 'Ali ibn Abi Talib giving his ring to a beggar while bowing in prayer. Ibn Kathir gathers their routes and then judges them: none of them is sound at all, because of the weakness of their chains and the unknown state of their narrators. Along the way he names defects: one narrator not relied on, one link who never met Ibn 'Abbas, one transmitter who was abandoned. Ma'arif al-Qur'an calls its chain a debated issue. No commentary fetched for this verse attaches a sound hadith to it.",
+            "bn": "তৃতীয় এক গুচ্ছ বর্ণনা আয়াতটিকে জুড়ে দেয় আলী ইবন আবী তালিব (রাঃ)-এর সঙ্গে: তিনি নামাযে রুকু অবস্থায় এক ভিক্ষুককে নিজের আংটি দিয়েছিলেন। ইবন কাসীর এগুলোর সনদ একত্র করে তারপর রায় দেন: সনদের দুর্বলতা আর বর্ণনাকারীদের অজ্ঞাত পরিচয়ের কারণে এর কোনোটিই মোটেও সহীহ নয়। পথে তিনি নির্দিষ্ট ত্রুটিও দেখান: একজন বর্ণনাকারীকে দলিল হিসেবে নেওয়া হয় না, একজন কখনো ইবন আব্বাস (রাঃ)-এর দেখা পাননি, আরেকজন পরিত্যক্ত। মাআরিফুল কুরআনও এর সনদকে বিতর্কিত বলে। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস জোড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "'Ali Among Those Who Believe",
+          "bn": "যারা ঈমান এনেছে, আলী তাদেরই একজন"
+        },
+        "p": [
+          {
+            "en": "Who, then, are alladhina amanu? At-Tabari reports that the people of interpretation differed. Some said 'Ali ibn Abi Talib was meant. Others said all the believers were meant, and he cites as-Suddi for this: these are all the believers, with the ring report added as an aside. At-Tabari sets out both groups and, in the text fetched here, states no preference between them. He also carries Ibn 'Abbas: whoever accepts Islam has taken Allah and His Messenger as allies.",
+            "bn": "তাহলে আল্লাযীনা আমানূ, যারা ঈমান এনেছে, তারা কারা? তাবারী জানান, তাফসীরকারদের মধ্যে এ নিয়ে মতভেদ হয়েছে। কেউ বলেছেন, উদ্দেশ্য আলী ইবন আবী তালিব (রাঃ)। আবার কেউ বলেছেন, উদ্দেশ্য সব মুমিন। এ মতের পক্ষে তিনি সুদ্দীর কথা আনেন: এরা সব মুমিন। আংটির বর্ণনাটি সেখানে আসে পার্শ্বকথা হিসেবে। তাবারী দুই দলের কথাই সাজিয়ে রাখেন, আর এখানে সংগৃহীত লেখায় কোনোটিকে প্রাধান্য দেন না। তিনি ইবন আব্বাস (রাঃ)-এর কথাও আনেন: যে ইসলাম গ্রহণ করল, সে আল্লাহ ও তাঁর রাসূলকে ওয়ালি বানাল।"
+          },
+          {
+            "en": "The most repeated answer comes from Abu Ja'far, Muhammad ibn 'Ali, whose lineage al-Qurtubi traces through al-Husayn to 'Ali ibn Abi Talib himself. Asked whether alladhina amanu meant 'Ali, he said: those who believe. Told that people said it came down about 'Ali, he replied: 'Ali is among those who believe. At-Tabari, Ibn Kathir, al-Baghawi and al-Qurtubi all carry it. Al-Qurtubi takes it to mean the verse is for all the believers, and quotes an-Nahhas: a clear statement, since alladhina is for a group.",
+            "bn": "সবচেয়ে বেশি উদ্ধৃত জবাবটি আবু জাফর মুহাম্মাদ ইবন আলীর। কুরতুবী তাঁর বংশধারা হুসাইন (রাঃ)-এর মাধ্যমে খোদ আলী ইবন আবী তালিব (রাঃ) পর্যন্ত টেনে দেখান। তাঁকে জিজ্ঞেস করা হলো, আল্লাযীনা আমানূ বলে কি আলী (রাঃ)-কে বোঝানো হয়েছে? তিনি বললেন: যারা ঈমান এনেছে। বলা হলো, লোকে বলে আয়াতটি আলী (রাঃ)-কে নিয়ে নাযিল হয়েছে। তিনি জবাব দিলেন: আলী যারা ঈমান এনেছে তাদেরই একজন। তাবারী, ইবন কাসীর, বাগাভী ও কুরতুবী সবাই কথাটি এনেছেন। কুরতুবী এ থেকে বোঝেন, আয়াতটি সব মুমিনের জন্য। সঙ্গে নাহহাসের কথা উদ্ধৃত করেন: কথাটি স্পষ্ট, কারণ আল্লাযীনা শব্দটি দলের জন্য।"
+          },
+          {
+            "en": "Al-Qurtubi also reports from Ibn 'Abbas one narration that the verse came down about Abu Bakr and another that it came down about 'Ali. He weighs the word zakah too: carrying it over to a ring given in charity is far-fetched, he says, because zakah comes in its own term, the obligatory alms, and yuqimuna as-salah before it means the obligatory prayer. Ma'arif al-Qur'an concludes that even if the verse is tied to an event, its wording is general and includes all the Companions and all Muslims.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন যে আয়াতটি নাযিল হয়েছে আবু বকর (রাঃ)-কে নিয়ে, আরেকটি বর্ণনায় আলী (রাঃ)-কে নিয়ে। যাকাত শব্দটিও তিনি ওজন করে দেখেন। তাঁর মতে আংটি দান করাকে যাকাত বলে ধরা দূরের ব্যাখ্যা, কারণ যাকাত আসে নিজের নির্দিষ্ট পরিভাষায়, অর্থাৎ ফরজ যাকাত। আর তার আগের ইউকীমূনাস সালাহ বলতে ফরজ নামাযই বোঝায়। মাআরিফুল কুরআনের উপসংহার: আয়াতটি কোনো ঘটনার সঙ্গে যুক্ত হলেও এর শব্দ সাধারণ, তাতে সব সাহাবি আর সব মুসলমান শামিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bricks Holding Each Other Up",
+          "bn": "একে অপরকে ধরে রাখা ইট"
+        },
+        "p": [
+          {
+            "en": "The next verse finishes the thought: whoever takes Allah, His Messenger and those who believe as allies, the party of Allah, they are the ones who prevail (5:56). Ibn Kathir sets beside it 58:21 and 58:22, where Allah has written that He and His messengers will prevail, and where those who will not love the opponents of Allah and His Messenger, even kin, are called the party of Allah. The circle in 5:55 is given a name and a promise.",
+            "bn": "পরের আয়াত কথাটা শেষ করে: যে আল্লাহ, তাঁর রাসূল আর মুমিনদের ওয়ালি বানায়, সে জেনে রাখুক, আল্লাহর দলই বিজয়ী (৫:৫৬)। ইবন কাসীর এর পাশে রাখেন ৫৮:২১ ও ৫৮:২২। সেখানে আল্লাহ লিখে দিয়েছেন যে তিনি ও তাঁর রাসূলরাই বিজয়ী হবেন। আর যারা আল্লাহ ও তাঁর রাসূলের বিরোধীদের ভালোবাসে না, তারা নিজের আত্মীয় হলেও, তাদের বলা হয়েছে আল্লাহর দল। ৫:৫৫-এর বৃত্তটি এভাবে একটা নাম পায়, সঙ্গে একটা প্রতিশ্রুতিও।"
+          },
+          {
+            "en": "A narration that no commentary fetched here attaches to this verse shows the same believers from the inside. Abu Musa reported, in Sahih al-Bukhari (481): The Prophet (ﷺ) said, \"A faithful believer to a faithful believer is like the bricks of a wall, enforcing each other.\" While (saying that) the Prophet (ﷺ) clasped his hands, by interlacing his fingers. The verse names the believers as allies of one another; the hadith shows that alliance, each holding the next in place.",
+            "bn": "এখানে সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে জোড়েনি, এমন একটি বর্ণনা একই মুমিনদের ভেতর থেকে দেখায়। সহীহ বুখারীতে (৪৮১) আবু মূসা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"এক মুমিন অপর মুমিনের জন্য ইমারতের মতো, যার এক অংশ আরেক অংশকে মজবুত করে ধরে রাখে।\" এ কথা বলার সময় তিনি এক হাতের আঙুল আরেক হাতের আঙুলের ভেতর ঢুকিয়ে দেখালেন। আয়াতটি মুমিনদের একে অপরের ওয়ালি বলে পরিচয় দেয়। হাদীসটি দেখায় সেই বন্ধন দেখতে কেমন: প্রত্যেকে পাশের জনকে জায়গামতো ধরে রাখে।"
+          },
+          {
+            "en": "One thing needs saying plainly. The verse names where a believer's loyalty belongs; it licenses nothing against any living person or community, and it removes no one's right to justice and kindness. The same surah commands justice even toward a people one dislikes (5:8), and 60:8 keeps righteousness and fairness open toward all who do not fight the believers over their faith. The verse draws a believer toward his own; it does not push anyone else away.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি জানায় মুমিনের আনুগত্যের জায়গা কোথায়। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না, কারও ন্যায়বিচার আর সদাচরণ পাওয়ার হকও কেড়ে নেয় না। এই সূরাই হুকুম দেয়, যে কওমকে অপছন্দ করেন তাদের প্রতিও ইনসাফ করতে (৫:৮)। আর ৬০:৮ যারা দ্বীনের কারণে মুমিনদের সঙ্গে লড়াই করে না, তাদের সবার প্রতি সদাচরণ ও ইনসাফের পথ খোলা রাখে। আয়াতটি মুমিনকে আপনজনের দিকে টানে, অন্য কাউকে দূরে ঠেলে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Choosing the Circle I Lean On",
+          "bn": "যাদের উপর ভর দিই, তাদের বাছাই"
+        },
+        "p": [
+          {
+            "en": "For a reader today, the verse turns a question of loyalty into a question of company. When I am afraid, whose backing do I count on first? Allah stands first in the verse, His Messenger next, and then people, and those people are described by acts anyone can see: they pray, they give, and they are lowly before their Lord. A circle chosen by that description will pull me toward the prayer and the giving. A circle chosen for status or advantage will pull somewhere else.",
+            "bn": "আজকের পাঠকের জন্য আয়াতটি আনুগত্যের প্রশ্নকে সঙ্গীর প্রশ্নে বদলে দেয়। ভয় পেলে প্রথমে কার সমর্থনের উপর ভরসা করি? আয়াতে প্রথমে আল্লাহ, তারপর তাঁর রাসূল, তারপর মানুষ। আর সেই মানুষদের পরিচয় দেওয়া হয়েছে এমন আমল দিয়ে, যা যে কেউ চোখে দেখতে পায়: তারা নামায পড়ে, দান করে, রবের সামনে নত থাকে। এই পরিচয় দেখে যে বৃত্ত বেছে নেব, তা আমাকে নামায আর দানের দিকে টানবে। আর মর্যাদা বা সুবিধা দেখে বাছাই করা বৃত্ত টানবে অন্য কোথাও।"
+          },
+          {
+            "en": "So the questions turn back on me. Do I choose friends for their prayer and their generosity, or for what they can do for me? Do I keep the zakah as faithfully as the prayer, as the verse joins them? When my worship goes well, does it leave me bowed or pleased with myself, given that, as Ma'arif al-Qur'an reports, most commentators read the bowing as humility? And if someone came looking for a believer to lean on, would they find in me a brick that holds the next one, or one that slips?",
+            "bn": "তাই প্রশ্নগুলো ফিরে আসে আমার দিকেই। বন্ধু বাছাই করি কি তাদের নামায আর উদারতা দেখে, নাকি তারা আমার কী কাজে আসবে তা দেখে? আয়াত যখন দুটিকে একসঙ্গে বেঁধেছে, আমি কি নামাযের মতোই নিষ্ঠার সঙ্গে যাকাত দিই? ইবাদত ভালো হলে তা কি আমাকে নত করে, নাকি নিজের উপর খুশি করে, যখন মাআরিফুল কুরআনের ভাষ্যমতে অধিকাংশ মুফাসসির রুকুকে বিনয় অর্থেই পড়েছেন? আর কেউ যদি ভরসা করার মতো একজন মুমিন খুঁজতে আসে, আমার মধ্যে কি এমন ইট পাবে, যা পাশের ইটকে ধরে রাখে, নাকি এমন ইট, যা খসে পড়ে?"
+          }
+        ]
+      }
+    ]
+  },
   "5:60": {
     "sections": [
       {
