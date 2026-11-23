@@ -3759,6 +3759,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:73": {
+    "sections": [
+      {
+        "h": {
+          "en": "Sworn Before the Search",
+          "bn": "তল্লাশির আগেই শপথ"
+        },
+        "p": [
+          {
+            "en": "The verse answers a cry. In 12:70 Yusuf (AS) has furnished his brothers with their supplies and placed the drinking cup in his full brother's baggage, and a caller has announced: O caravan, you are thieves. In 12:71 and 12:72 they turn, ask what is missing, and are told: the king's measure. Now comes their reply: qalu tallahi laqad 'alimtum ma ji'na li-nufsida fi al-ardi wa ma kunna sariqin. By Allah, you know well that we did not come to cause corruption in the land, and we have not been thieves.",
+            "bn": "আয়াতটি এক চিৎকারের জবাব। ১২:৭০ আয়াতে ইউসুফ (আঃ) ভাইদের রসদ বুঝিয়ে দিয়েছেন, আর পানপাত্রটি রেখে দিয়েছেন সহোদর ভাইয়ের মালপত্রের ভেতরে। তারপর এক ঘোষক হাঁক দিয়েছে: হে কাফেলা, তোমরা চোর। ১২:৭১ ও ১২:৭২ আয়াতে তারা ঘুরে দাঁড়িয়ে জানতে চায় কী হারিয়েছে, আর শোনে: রাজার মাপের পাত্র। এবার তাদের উত্তর: কালূ তাল্লাহি লাকাদ আলিমতুম মা জি'না লিনুফসিদা ফিল আরদি ওয়ামা কুন্না সারিকীন। আল্লাহর কসম, তোমরা ভালো করেই জানো, আমরা এ দেশে ফাসাদ করতে আসিনি, আর আমরা চোরও ছিলাম না।"
+          },
+          {
+            "en": "At-Tabari and al-Baghawi both name the speakers as Yusuf's brothers, and Ibn Kathir sets the scene in one clause: when those young men accused them of theft, the brothers of Yusuf said this. The reply holds two denials under a single oath. The first denies a purpose, that they came to cause corruption; the second denies a description, that they were thieves at all. Both are addressed to the accusers' own knowledge, laqad 'alimtum, you certainly know. That appeal to what the other side has seen is where most of the commentary on this verse gathers.",
+            "bn": "তাবারী ও বাগাভী দুজনেই বলেন, কথাগুলো ইউসুফের ভাইদের। ইবন কাসীর এক বাক্যে দৃশ্যটা এঁকে দেন: ওই যুবকেরা যখন তাদের বিরুদ্ধে চুরির অভিযোগ আনল, তখন ইউসুফের ভাইয়েরা এ কথা বলল। একটিমাত্র শপথের নিচে দুটি অস্বীকার। প্রথমটি উদ্দেশ্যের অস্বীকার: আমরা ফাসাদ করতে আসিনি। দ্বিতীয়টি পরিচয়ের অস্বীকার: আমরা আদৌ চোর নই। দুটিই তারা দাঁড় করায় অভিযোগকারীদের নিজের জানার উপর, লাকাদ আলিমতুম, তোমরা তো নিশ্চিত জানো। অপর পক্ষ নিজের চোখে যা দেখেছে তার দোহাই, এ আয়াতের তাফসীরের বেশির ভাগ আলোচনা জমেছে এখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Letter Kept for One Name",
+          "bn": "একটি নামের জন্য রাখা হরফ"
+        },
+        "p": [
+          {
+            "en": "Tallahi means wallahi, by Allah; at-Tabari and al-Baghawi both gloss it so. At-Tabari then explains the letter. The ta' here is a waw turned into ta', as happened in tawrat, from warraytu, in turath, from waritha, and in tukhama, from wakhama. But in those words the waw belongs to the noun itself, while in tallahi it is the waw of the oath. It became ta', he says, because the Arabs used wallahi so often in their oaths that this word alone was singled out for the change.",
+            "bn": "তাল্লাহি মানে ওয়াল্লাহি, আল্লাহর কসম। তাবারী ও বাগাভী দুজনেই এভাবে অর্থ করেন। তাবারী এরপর হরফটির ব্যাখ্যা দেন। এখানকার তা আসলে ওয়াও, বদলে তা হয়ে গেছে। যেমন তাওরাত এসেছে ওয়াররাইতু থেকে, তুরাস এসেছে ওয়ারিসা থেকে, তুখামা এসেছে ওয়াখামা থেকে। তবে ওই শব্দগুলোতে ওয়াও শব্দেরই অংশ। তাল্লাহিতে সেটা কসমের ওয়াও। তাবারীর ব্যাখ্যায়, আরবরা কসম খেতে গিয়ে ওয়াল্লাহি এত বেশি বলত যে কেবল এই শব্দটিতেই বদলটা ঘটেছে।"
+          },
+          {
+            "en": "He adds a limit. Whoever swears this way says tallahi, but never tal-Rahman or tal-Rahim, nor uses it with any other name of Allah or anything else one swears by; it is said with tallahi alone. Al-Baghawi says the same more briefly. Within this surah the same opening, qalu tallahi, returns in 12:85, 12:91 and 12:95, and in 12:91 it is again the brothers, now standing before Yusuf (AS), who begin tallahi laqad.",
+            "bn": "সঙ্গে তিনি একটা সীমাও বেঁধে দেন। এভাবে যে কসম খায় সে তাল্লাহি বলে, কিন্তু তাররাহমান বা তাররাহীম কখনো বলে না। আল্লাহর অন্য কোনো নামের সঙ্গে, কিংবা যার নামে কসম খাওয়া হয় এমন কিছুর সঙ্গেও এই তা বসে না। এটা কেবল তাল্লাহিতেই। বাগাভী একই কথা বলেন আরও সংক্ষেপে। এই সূরাতেই কালূ তাল্লাহি দিয়ে শুরু আরও তিনবার ফিরে আসে, ১২:৮৫, ১২:৯১ ও ১২:৯৫ আয়াতে। ১২:৯১ আয়াতে আবারও সেই ভাইয়েরা, এবার ইউসুফ (আঃ)-এর সামনে দাঁড়িয়ে, শুরু করে তাল্লাহি লাকাদ বলে।"
+          },
+          {
+            "en": "A general narration on oaths, not attached to this verse by any commentary consulted here, sits close to its first word. Sahih al-Bukhari records, as hadith 2679, from Abdullah that the Prophet ﷺ said: whoever has to take an oath should swear by Allah or remain silent. The narration concerns whom one swears by, and says nothing about this scene; it is placed here only because the verse opens with an oath by Allah, the one name that the ta' of tallahi is used with.",
+            "bn": "কসম নিয়ে একটি সাধারণ হাদীস আছে, যা এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে জুড়ে দেয়নি। তবু আয়াতের প্রথম শব্দের সঙ্গে এর নৈকট্য আছে। সহীহ বুখারীতে ২৬৭৯ নম্বর হাদীসে আবদুল্লাহ (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: যে কসম খেতে চায়, সে যেন আল্লাহর নামে কসম খায়, নইলে চুপ থাকে। হাদীসটি কার নামে কসম খাওয়া যায় সে বিষয়ে, এই ঘটনা নিয়ে কিছু বলে না। এখানে এটা আনা হয়েছে কেবল এ কারণে যে আয়াতটি শুরু হয়েছে আল্লাহর নামে কসম দিয়ে, আর তাল্লাহির তা কেবল এই নামের সঙ্গেই বসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Would Egypt Know Them?",
+          "bn": "মিসর তাদের চিনল কীভাবে?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari stops on the oath's next words and raises the obvious objection himself. What knowledge could the people addressed have had that the brothers had not come for corruption, so that the brothers felt entitled to say you know? Al-Baghawi poses it the same way: how could they say you certainly know, and from where did the Egyptians know it? Their answers differ in kind. One looks back to an earlier visit; the others look at how the brothers had travelled.",
+            "bn": "শপথের পরের কথাগুলোতে থেমে তাবারী নিজেই স্বাভাবিক আপত্তিটা তোলেন। যাদের উদ্দেশে কথাটা বলা, তারা কী করে জানবে যে ভাইয়েরা ফাসাদ করতে আসেনি? কোন জ্ঞানের ভরসায় ভাইয়েরা বলতে পারল, তোমরা তো জানো? বাগাভীও প্রশ্নটা একইভাবে রাখেন: তারা কীভাবে বলল তোমরা নিশ্চিত জানো, আর মিসরের লোকেরা এটা জানল কোথা থেকে? তাঁদের উত্তরগুলো ভিন্ন ধরনের। একটি তাকায় আগের সফরের দিকে, বাকিগুলো তাকায় পথে ভাইদের চালচলনের দিকে।"
+          },
+          {
+            "en": "The first answer, which at-Tabari gives as what is mentioned, fima dhukira, is that the brothers had returned the goods they found in their saddlebags. In 12:62 Yusuf (AS) had told his servants to put them there, and in 12:65 the brothers found them and said, this is our merchandise returned to us. The Qur'an does not narrate a return; the commentators relate it. Had we been thieves, they say in at-Tabari's report, we would not have brought back what we found in our bags. Al-Baghawi has the same under wa qila, it is said.",
+            "bn": "প্রথম উত্তরটি তাবারী আনেন ফীমা যুকিরা, অর্থাৎ যা উল্লেখ করা হয়, এই কথা দিয়ে। ভাইয়েরা নিজেদের বস্তায় যে পণ্য পেয়েছিল, তা ফেরত দিয়েছিল। ১২:৬২ আয়াতে ইউসুফ (আঃ) তাঁর কর্মচারীদের বলেছিলেন পণ্যগুলো তাদের বস্তায় রেখে দিতে। ১২:৬৫ আয়াতে ভাইয়েরা সেগুলো পেয়ে বলেছিল, এই তো আমাদের পণ্য, আমাদের ফিরিয়ে দেওয়া হয়েছে। ফেরত দেওয়ার কথা কুরআন নিজে বর্ণনা করেনি, তাফসীরকারেরা তা বর্ণনা করেন। তাবারীর বর্ণনায় তারা বলে: আমরা চোর হলে বস্তায় পাওয়া জিনিস ফিরিয়ে দিতাম না। বাগাভীও একই কথা আনেন ওয়া কীলা, অর্থাৎ বলা হয়, এই শব্দে।"
+          },
+          {
+            "en": "Al-Qurtubi relates it too, with yurwa, it is narrated, and draws out its force: whoever returns what he found, how can he be a thief? The second line of answer concerns the road. At-Tabari reports, with wa qila, that they had become known along their route for wronging no one and taking nothing that was not theirs. Al-Baghawi gives them words: since we set out on this road we have deprived no one of anything, so ask those we passed whether we harmed anybody.",
+            "bn": "কুরতুবীও ইউরওয়া, অর্থাৎ বর্ণিত আছে, বলে এটা আনেন এবং এর মর্মটা খুলে দেন: যে পাওয়া জিনিস ফিরিয়ে দেয়, সে চোর হয় কী করে? উত্তরের দ্বিতীয় ধারাটি পথ নিয়ে। তাবারী ওয়া কীলা বলে বর্ণনা করেন, পথে চলতে চলতে তারা পরিচিত হয়ে গিয়েছিল এমন মানুষ হিসেবে, যারা কারও উপর জুলুম করে না, অন্যের জিনিসে হাত দেয় না। বাগাভী তাদের মুখে কথাও তুলে দেন: এ পথে রওনা হওয়ার পর থেকে আমরা কারও কিছু কেড়ে নিইনি। যাদের পাশ দিয়ে এসেছি তাদের জিজ্ঞেস করে দেখো, আমরা কারও ক্ষতি করেছি কি না।"
+          },
+          {
+            "en": "He adds, again with wa qila, that when they entered Egypt they muzzled their animals so that the beasts would not eat from people's fields. Al-Qurtubi relates, under yurwa, that they never lodged with anyone unjustly, never grazed anyone's crops, and bound muzzles over their camels' mouths lest the animals ravage people's harvests. These are reports, introduced as such by each commentator, and the article gives them that status. What they agree on is the picture: men whose care on the road was visible to the people they passed.",
+            "bn": "তিনি আবারও ওয়া কীলা বলে যোগ করেন, মিসরে ঢোকার সময় তারা নিজেদের পশুর মুখ বেঁধে দিত, যাতে জন্তুগুলো মানুষের খেতের কিছু মুখে না দেয়। কুরতুবী ইউরওয়া বলে বর্ণনা করেন, তারা কখনো জুলুম করে কারও বাড়িতে ওঠেনি, কারও ফসলে পশু চরায়নি, আর উটের মুখে জালতি বেঁধে রাখত, যাতে মানুষের শস্য নষ্ট না হয়। প্রত্যেক তাফসীরকার এগুলোকে বর্ণনা হিসেবেই এনেছেন, এই প্রবন্ধও সেভাবেই রাখছে। তবে ছবিটা সবার কাছে এক: এমন কিছু মানুষ, পথের লোকেরাও যাদের সাবধানতা নিজের চোখে দেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge Drawn From Conduct",
+          "bn": "আচরণ দেখেই জানা"
+        },
+        "p": [
+          {
+            "en": "Other commentators answer the same question without the reports, pointing simply to what the Egyptians had observed. Ibn Kathir glosses laqad 'alimtum as you have verified and known since you came to know us, and gives the reason in a parenthesis: because they had seen good conduct from them, sira hasana. The Muyassar says: you have verified, from what you witnessed of us, that we did not come to the land of Egypt to spread corruption there. Ma'arif al-Qur'an puts it in terms of the state: its responsible people knew them, and knew they had come to make no disorder.",
+            "bn": "অন্য তাফসীরকারেরা বর্ণনাগুলো না এনে একই প্রশ্নের জবাব দেন সোজা পথে: মিসরের লোকেরা নিজের চোখে কী দেখেছিল। ইবন কাসীর লাকাদ আলিমতুমের অর্থ করেন এভাবে: আমাদের চেনার পর থেকেই তোমরা যাচাই করে জেনেছ। কারণটাও তিনি বন্ধনীর ভেতরে বলে দেন: তারা তাদের কাছ থেকে ভালো আচরণ, সীরাহ হাসানাহ, দেখেছিল। মুয়াসসার বলে: আমাদের কাছ থেকে যা দেখেছ তা থেকেই তোমরা নিশ্চিত হয়েছ, আমরা মিসরে ফাসাদ ছড়াতে আসিনি। মাআরিফুল কুরআন কথাটা রাখে রাষ্ট্রের ভাষায়: সেখানকার দায়িত্বশীল লোকেরা তাদের চিনত, আর জানত যে তারা কোনো বিশৃঙ্খলা করতে আসেনি।"
+          },
+          {
+            "en": "As-Sa'di asks why the oath is framed this way. They swore on the accusers' knowledge, he says, because they knew the Egyptians had examined their conditions closely enough to see their chastity and scrupulousness, 'iffatahum wa wara'ahum, and to know that such a thing would not come from them. Then he weighs the wording itself: this is more forceful in rejecting the charge than if they had said, by Allah, we did not cause corruption and did not steal.",
+            "bn": "শপথটা এভাবে সাজানো কেন, সা'দী সেই প্রশ্নে যান। তাঁর মতে, তারা অভিযোগকারীদের জানার উপর কসম খেয়েছিল, কারণ তারা জানত মিসরীয়রা তাদের অবস্থা ভালো করে পরখ করে দেখেছে। তাতে তাদের পাকপবিত্রতা আর পরহেজগারি, ইফফাতাহুম ওয়া ওয়ারা'আহুম, চোখে পড়েছে, আর বোঝা গেছে যে এমন কাজ তাদের দিয়ে হয় না। এরপর তিনি শব্দের গাঁথুনিটা মেপে দেখেন: অভিযোগ খণ্ডনে এটা বেশি জোরালো, তারা যদি বলত আল্লাহর কসম, আমরা ফাসাদ করিনি, চুরি করিনি, তার চেয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Corruption, Wide and Narrow",
+          "bn": "ফাসাদ: বড় অর্থে, ছোট অর্থে"
+        },
+        "p": [
+          {
+            "en": "What did they mean by li-nufsida fi al-ard, to cause corruption in the land? The commentators give the phrase different widths. At-Tabari reads it as to disobey Allah in your land, and says a group of the people of interpretation held this; he cites ar-Rabi' ibn Anas: we did not come to commit disobedience in the land. As-Sa'di likewise reads it broadly, as corruption by every kind of sin. Al-Baghawi narrows it to the charge in hand: to steal in the land of Egypt.",
+            "bn": "লিনুফসিদা ফিল আরদ, দেশে ফাসাদ করতে, এ কথায় তারা কী বোঝাতে চেয়েছিল? তাফসীরকারেরা শব্দটিকে ভিন্ন ভিন্ন পরিসরে পড়েন। তাবারীর মতে এর অর্থ তোমাদের দেশে আল্লাহর নাফরমানি করা। তিনি বলেন, তাফসীরবিদদের একটি দল এ কথাই বলতেন, আর রাবী ইবন আনাস থেকে উদ্ধৃত করেন: আমরা এ দেশে নাফরমানি করতে আসিনি। সা'দীও শব্দটিকে বড় অর্থে নেন, সব ধরনের গুনাহ দিয়ে ফাসাদ। বাগাভী অর্থটিকে নামিয়ে আনেন সামনের অভিযোগে: মিসরের মাটিতে চুরি করতে।"
+          },
+          {
+            "en": "The difference is one of width, and the article leaves it as the commentators give it. As-Sa'di himself links the two clauses: theft, he says, is among the greatest kinds of corruption in the land. On his reading, then, the broad denial comes first and the second clause, wa ma kunna sariqin, names the particular charge outright. On al-Baghawi's, both clauses speak of theft, first as a purpose they deny and then as a description they reject.",
+            "bn": "তফাতটা পরিসরের, আর এই প্রবন্ধ তাফসীরকারদের কথা যেভাবে আছে সেভাবেই রাখছে। সা'দী নিজেই দুই অংশকে জুড়ে দেন: তাঁর ভাষায়, চুরি দেশে ফাসাদের সবচেয়ে বড় ধরনগুলোর একটি। তাঁর পাঠে তাই আগে আসে বড় অস্বীকার, তারপর ওয়ামা কুন্না সারিকীন অংশটি নির্দিষ্ট অভিযোগটির নাম ধরে খণ্ডন করে। বাগাভীর পাঠে দুই অংশই চুরির কথা বলে। প্রথমটিতে তারা চুরির উদ্দেশ্য অস্বীকার করে, দ্বিতীয়টিতে চোর পরিচয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not in Our Nature",
+          "bn": "এ আমাদের স্বভাবে নেই"
+        },
+        "p": [
+          {
+            "en": "The verb in wa ma kunna sariqin is kunna, we have been, and the commentators read the clause as a claim about character. Ibn Kathir explains it: our natures, sajayana, do not call for this trait. The Muyassar says: it is not among our attributes to be thieves. The English abridgement of Ibn Kathir, which treats 12:73 to 12:76 together, renders it: theft is not in our character, as you came to know. The denial reaches beyond this cup to the kind of men they say they are.",
+            "bn": "ওয়ামা কুন্না সারিকীন অংশে ক্রিয়াটি কুন্না, আমরা ছিলাম। তাফসীরকারেরা বাক্যটিকে চরিত্রের দাবি হিসেবে পড়েন। ইবন কাসীর ব্যাখ্যা করেন: আমাদের স্বভাব, সাজায়ানা, এমন দোষের দিকে টানে না। মুয়াসসার বলে: চোর হওয়া আমাদের বৈশিষ্ট্যের মধ্যে পড়ে না। ইংরেজি সংক্ষিপ্ত ইবন কাসীর ১২:৭৩ থেকে ১২:৭৬ একসঙ্গে আলোচনা করে, আর বাক্যটির অর্থ দেয় এভাবে: চুরি আমাদের চরিত্রে নেই, তোমরা তো তা জেনেছ। অস্বীকারটা তাই এই পানপাত্র ছাড়িয়ে যায়। তারা বলছে, আমরা আসলে কেমন মানুষ।"
+          },
+          {
+            "en": "The reader hears more in this than the Egyptians could. The Qur'an has told what these brothers did to Yusuf (AS) in 12:8 to 12:18, and in 12:91 they will say of themselves, wa in kunna la-khati'in, we have been sinners. Here, though, the charge is theft of the king's measure, and of that they are innocent. The next verses press on. In 12:74 the accusers ask what the penalty should be if they are lying, and in 12:75 the brothers name it themselves: he in whose bag it is found, he himself.",
+            "bn": "পাঠক এখানে মিসরীয়দের চেয়ে বেশি কিছু শোনেন। এই ভাইয়েরা ইউসুফ (আঃ)-এর সঙ্গে কী করেছিল, কুরআন তা বলেছে ১২:৮ থেকে ১২:১৮ আয়াতে। আর ১২:৯১ আয়াতে তারা নিজেরাই বলবে, ওয়া ইন কুন্না লাখাতিঈন, আমরা অপরাধী ছিলাম। কিন্তু এখানে অভিযোগ রাজার মাপের পাত্র চুরির, আর সেই অভিযোগে তারা নির্দোষ। পরের আয়াতগুলো কাহিনিকে এগিয়ে নেয়। ১২:৭৪ আয়াতে অভিযোগকারীরা জানতে চায়, তারা মিথ্যাবাদী হলে শাস্তি কী হবে। ১২:৭৫ আয়াতে ভাইয়েরা নিজেরাই শাস্তি ঠিক করে দেয়: যার বস্তায় পাওয়া যাবে, সে নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Design the Cup Served",
+          "bn": "পানপাত্রের পেছনে কার পরিকল্পনা"
+        },
+        "p": [
+          {
+            "en": "If the brothers are innocent of this theft, how is the cry against them to be understood? That question belongs to 12:70, and the planning behind the cup belongs to 12:76, where Allah says kadhalika kidna li-Yusuf, thus did We plan for Yusuf. Of the commentaries fetched for this verse, only the English abridgement of Ibn Kathir reaches that far. In its passage on 12:73 to 12:76 it calls this a good plan that Allah likes and prefers, because it seeks a certain benefit with wisdom and for the good of all.",
+            "bn": "ভাইয়েরা যদি এই চুরিতে নির্দোষ হয়, তবে তাদের বিরুদ্ধে ওই চিৎকারকে কীভাবে বুঝব? সে প্রশ্নের জায়গা ১২:৭০ আয়াত। আর পানপাত্রের পেছনের পরিকল্পনার জায়গা ১২:৭৬ আয়াত, যেখানে আল্লাহ বলেন, কাযালিকা কিদনা লিইউসুফ, এভাবে আমি ইউসুফের জন্য পরিকল্পনা করেছিলাম। এ আয়াতের জন্য দেখা তাফসীরগুলোর মধ্যে কেবল ইংরেজি সংক্ষিপ্ত ইবন কাসীর এতদূর যায়। ১২:৭৩ থেকে ১২:৭৬ নিয়ে তার আলোচনায় একে বলা হয়েছে উত্তম কৌশল, যা আল্লাহ পছন্দ করেন। কারণ এর লক্ষ্য প্রজ্ঞার পথে নির্দিষ্ট এক কল্যাণ, আর সবার মঙ্গল।"
+          },
+          {
+            "en": "The same passage adds that Allah allowed Yusuf (AS) to hold his brother only after the brothers had agreed to that judgement beforehand, knowing it was their own law, which it describes as the law of Ibrahim (AS): the thief is given over to the one he robbed. The verse itself tells the reader enough. The brothers swear truthfully, and they cannot see a design that Allah, in 12:76, names as His. Their innocence here and the rightness of that design are not set against each other; the Qur'an presents both.",
+            "bn": "একই আলোচনায় আরও আছে, আল্লাহ ইউসুফ (আঃ)-কে ভাইকে আটকে রাখার সুযোগ দিয়েছিলেন কেবল তখন, যখন ভাইয়েরা আগেই সেই বিধানে রাজি হয়েছিল। তিনি জানতেন এটা তাদের নিজেদের আইন। আলোচনাটি একে বলেছে ইবরাহীম (আঃ)-এর শরীয়ত: চোরকে তুলে দেওয়া হবে যার জিনিস চুরি হয়েছে তার হাতে। আয়াতটি নিজেই পাঠককে যথেষ্ট বলে দেয়। ভাইয়েরা সত্য কসম খাচ্ছে, অথচ এমন এক পরিকল্পনা তারা দেখতে পাচ্ছে না, যাকে আল্লাহ ১২:৭৬ আয়াতে নিজের বলে ঘোষণা করেছেন। এখানে তাদের নির্দোষ হওয়া আর ওই পরিকল্পনার যথার্থতা পরস্পরবিরোধী নয়। কুরআন দুটোই সামনে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read as Description Only",
+          "bn": "শুধু বর্ণনা হিসেবেই পড়া"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes particular brothers, accused in one story through a plan that 12:76 calls Allah's, and it licenses nothing against any living person or community. It permits no trap, no planted evidence, no charge made to see how someone will react, whether by an employer, an official or a relative. No one now plans by revelation. None of the commentaries consulted attaches a hadith to this verse or gives an occasion of revelation for it; the narration on oaths above is general.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনির নির্দিষ্ট কয়েকজন ভাইয়ের বর্ণনা দেয়, যাদের অভিযুক্ত করা হয়েছিল এমন এক পরিকল্পনায়, যাকে ১২:৭৬ আয়াত আল্লাহর বলে জানায়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। ফাঁদ পাতা, কারও জিনিসে প্রমাণ গুঁজে দেওয়া, কে কেমন সাড়া দেয় দেখতে মিথ্যা অভিযোগ তোলা, মালিক, কর্মকর্তা বা আত্মীয় কারও জন্যই এর কোনোটির অনুমতি নেই। আজ কেউ ওহীর ভিত্তিতে পরিকল্পনা করে না। এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি, শানে নুযূলও বলেনি। ওপরের কসমের হাদীসটি সাধারণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Record Strangers Could Vouch For",
+          "bn": "অচেনা মানুষও যার সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Set the reports aside and the verse still shows something simple. Accused without warning, far from home, the brothers have nothing to point to but how they have behaved, and they point to it. The muzzled camels and the returned goods, if the reports are right, are small things: a few mouthfuls from someone's field, a payment that could have been quietly kept. Yet it is on such things that strangers form a judgement, and on such a judgement that a traveller can say, you know us.",
+            "bn": "বর্ণনাগুলো একপাশে সরিয়ে রাখলেও আয়াতটি একটা সহজ কথা দেখায়। বাড়ি থেকে অনেক দূরে, হঠাৎ অভিযোগের মুখে, ভাইদের দেখানোর মতো আছে কেবল নিজেদের আচরণ, আর তারা সেটাই দেখায়। বর্ণনাগুলো ঠিক হলে, মুখ বাঁধা উট আর ফেরত দেওয়া পণ্য খুব ছোট ব্যাপার। কারও খেতের কয়েক মুঠো ফসল, চুপচাপ রেখে দেওয়া যেত এমন কিছু দাম। অথচ এমন ছোট ব্যাপার দেখেই অচেনা মানুষ রায় দেয়। আর সেই রায়ের ভরসাতেই একজন মুসাফির বলতে পারে, তোমরা তো আমাদের চেনো।"
+          },
+          {
+            "en": "So the question turns to the reader. If a charge fell on you tomorrow, in an office, a market or a neighbourhood, whom could you face with laqad 'alimtum, you know me? What have they actually seen: a debt paid on time, change handed back, a borrowed thing returned unasked? The brothers swore by Allah, and the commentators show that the oath rested on something visible. Keep oaths few, and let the life behind them do most of the speaking.",
+            "bn": "প্রশ্নটা তাই পাঠকের দিকে ফেরে। কাল যদি অফিসে, বাজারে বা পাড়ায় আপনার বিরুদ্ধে কোনো অভিযোগ ওঠে, কার সামনে দাঁড়িয়ে আপনি বলতে পারবেন, লাকাদ আলিমতুম, আপনারা তো আমাকে চেনেন? তারা আসলে কী দেখেছে? সময়মতো শোধ করা ঋণ, ফিরিয়ে দেওয়া খুচরা টাকা, না চাইতেই ফেরত দেওয়া ধার করা জিনিস? ভাইয়েরা আল্লাহর নামে কসম খেয়েছিল, আর তাফসীরকারেরা দেখান, সেই কসমের পেছনে চোখে দেখা কিছু ছিল। কসম কম খান, আর কসমের পেছনের জীবনকেই বেশির ভাগ কথা বলতে দিন।"
+          }
+        ]
+      }
+    ]
+  },
   "12:76": {
     "sections": [
       {

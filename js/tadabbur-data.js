@@ -32963,6 +32963,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give counsel and help freely, seeking Allah's pleasure rather than any return, and hear the Qur'an's reminder as addressed to you as well.",
     "lessonBn": "বিনিময়ের আশা না করে আল্লাহর সন্তুষ্টির জন্য খোলা হাতে পরামর্শ ও সাহায্য দিন, আর কুরআনের উপদেশকে নিজের প্রতিও বলা কথা হিসেবে শুনুন।"
+  },
+  "12:73": {
+    "reflectionEn": "A caller has just shouted after the caravan: you are thieves. The brothers turn; their answer is more than a protest. It is an oath by Allah, and it rests on what the accusers themselves have seen: you know we did not come to cause corruption in the land, and we have never been thieves. They are appealing to a record. On this journey, at least, they had behaved in a way that strangers could vouch for. The reader knows more than they do: the cup is in their brother's bag by a plan they cannot see. So the verse leaves two questions. What could the people who have watched me swear to? And when I am wrongly charged, do I answer with my conduct, or only with my voice?",
+    "reflectionBn": "কাফেলার পেছন থেকে এক ঘোষক চিৎকার করে উঠেছে: তোমরা চোর। ভাইয়েরা ফিরে দাঁড়ায়। তাদের জবাব নিছক প্রতিবাদ নয়, আল্লাহর নামে শপথ। আর সেই শপথের ভিত্তি অভিযোগকারীদের নিজের চোখে দেখা জিনিস: তোমরা তো জানো, আমরা এ দেশে ফাসাদ করতে আসিনি, আর আমরা কখনো চোর ছিলাম না। তারা সাক্ষী মানছে নিজেদের আচরণকে। অন্তত এই সফরে তারা এমনভাবে চলেছে যে অচেনা লোকেরাও তাদের হয়ে কথা বলতে পারে। পাঠক অবশ্য তাদের চেয়ে বেশি জানেন। পানপাত্রটি তাদের ভাইয়ের বোঝায় আছে এমন এক পরিকল্পনায়, যা তারা দেখতে পাচ্ছে না। তাই আয়াতটি দুটি প্রশ্ন রেখে যায়। যারা আমাকে কাছ থেকে দেখেছে, তারা আমার ব্যাপারে কোন কথায় শপথ করতে পারবে? আর অন্যায়ভাবে অভিযুক্ত হলে আমি কি নিজের চালচলন দিয়ে জবাব দিই, নাকি শুধু গলার জোরে?",
+    "pointsEn": [
+      "If the people who see me every day were asked to vouch for me, what could they honestly say?",
+      "When I am accused of something I did not do, do I reach first for an oath, or for the record of how I have lived?",
+      "Which small scruples do I keep, or let slip, when I am a stranger in someone else's town?",
+      "How readily do I swear by Allah, and do I keep that oath for moments when the truth really needs it?",
+      "When a charge seems to fit nobody, do I wait for the rest of the story before I settle on a verdict?"
+    ],
+    "pointsBn": [
+      "যারা আমাকে রোজ দেখে, তাদের যদি আমার পক্ষে সাক্ষ্য দিতে বলা হয়, তারা সৎভাবে কী বলতে পারবে?",
+      "যে কাজ আমি করিনি তার অভিযোগ উঠলে আমি কি আগে শপথের আশ্রয় নিই, নাকি নিজের জীবনযাপনের খতিয়ান সামনে আনি?",
+      "অন্যের শহরে যখন আমি অচেনা মানুষ, তখন ছোটখাটো কোন সাবধানতাগুলো ধরে রাখি, আর কোনগুলো ঢিলে হয়ে যায়?",
+      "কত সহজে আমি আল্লাহর নামে কসম খাই? সত্যের যখন সত্যিই দরকার, সেই মুহূর্তের জন্য কি কসমটা তুলে রাখি?",
+      "কোনো অভিযোগ যখন কারও সঙ্গেই মেলে না, রায় ঠিক করার আগে আমি কি কাহিনির বাকিটুকুর অপেক্ষা করি?"
+    ],
+    "lessonEn": "Build a record of honest dealing that others can witness, so your word holds when you are wrongly accused, and keep the oath by Allah for the truth.",
+    "lessonBn": "এমনভাবে সৎ লেনদেন করুন যাতে অন্যরা তার সাক্ষী থাকে। তাহলে অন্যায় অভিযোগের সময়ও আপনার কথার ওজন থাকবে। আর আল্লাহর নামে শপথ রাখুন কেবল সত্যের জন্য।"
   }
 };
 
