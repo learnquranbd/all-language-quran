@@ -3427,6 +3427,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:57": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Call to the Rain",
+          "bn": "দোয়ার কথা থেকে বৃষ্টির কথায়"
+        },
+        "p": [
+          {
+            "en": "Just before this, 7:54 named your Lord as the Creator of the heavens and the earth, with sun, moon and stars subject to His command. Then 7:55 and 7:56 told the listener to call on Him humbly, in fear and in hope, and closed on a promise: the mercy of Allah is near to those who do good. This verse takes up that word in its first line: wa huwa alladhi, and it is He who, sends the winds as good news before His mercy.",
+            "bn": "ঠিক আগে ৭:৫৪ জানিয়েছে, আপনার রব আসমান ও জমিনের স্রষ্টা, আর সূর্য, চাঁদ ও তারা তাঁর হুকুমের অধীন। এরপর ৭:৫৫ ও ৭:৫৬ বলেছে, তাঁকে ডাকুন বিনয়ের সঙ্গে, ভয় আর আশা নিয়ে। শেষে এসেছে এক প্রতিশ্রুতি: আল্লাহর রহমত সৎকর্মশীলদের কাছেই। এ আয়াত প্রথম লাইনেই ওই রহমত শব্দটি তুলে নেয়: ওয়া হুওয়াল্লাযী, আর তিনিই সেই সত্তা, যিনি তাঁর রহমতের আগে সুসংবাদ হিসেবে বাতাস পাঠান।"
+          },
+          {
+            "en": "Ibn Kathir explains the order: having said that He created the heavens and the earth and governs them, and having guided people to call on Him because He is able to do what He wills, Allah now shows that He is the Provider and will return the dead to life on the Day of Resurrection. Al-Qurtubi joins the verse to yughshi al-layla al-nahar in 7:54, a further favour proving His oneness. Ma'arif al-Qur'an, citing al-Bahr al-Muhit, says the earlier verses named blessings of the upper world, and these of the lower.",
+            "bn": "এই ক্রমের ব্যাখ্যা দেন ইবন কাসীর। আল্লাহ আগে জানিয়েছেন, আসমান-জমিন তাঁরই সৃষ্টি, সবকিছু তিনিই চালান ও পরিচালনা করেন। তিনি যা চান তা করতে সক্ষম, তাই মানুষকে তাঁর কাছেই দোয়া করার পথ দেখিয়েছেন। এবার জানিয়ে দিচ্ছেন, রিযিক দেন তিনিই, আর কিয়ামতের দিন মৃতদের আবার জীবিত করবেন তিনিই। কুরতুবীর মতে আয়াতটি ৭:৫৪ আয়াতের ইউগশিল লাইলান নাহার অংশের সঙ্গে যুক্ত, তাঁর আরও এক নিয়ামত, যা তাঁর একত্বের প্রমাণ। মাআরিফুল কুরআন আল-বাহরুল মুহীতের বরাতে বলে: আগের আয়াতগুলোতে ছিল ঊর্ধ্বজগতের নিয়ামত, আর এখানে নিচের জগতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bushran, Nashran, Nushuran",
+          "bn": "বুশরান, নাশরান, নুশুরান"
+        },
+        "p": [
+          {
+            "en": "The word for the winds is read in several ways, and al-Baghawi sets out who reads which. Asim reads bushran, with ba, here and in al-Furqan and an-Naml, and the text printed here follows his reading. Hamza and al-Kisa'i read nashran, with an open nun; Ibn Amir reads nushran; the rest read nushuran. Al-Qurtubi counts seven readings, giving nushuran to the people of Makkah and Madinah and Abu Amr, nashran to al-A'mash and Hamza, and nushran also to al-Hasan and Qatada.",
+            "bn": "বাতাসের বিশেষণ হিসেবে যে শব্দটি এসেছে, তা কয়েকভাবে পড়া হয়। কে কোনটি পড়েন, বাগাভী তা গুছিয়ে বলেছেন। আসিম পড়েন বুশরান, বা অক্ষর দিয়ে, এখানে এবং সূরা আল-ফুরকান ও সূরা আন-নামলেও। এখানে ছাপা পাঠটি তাঁর কিরাআত অনুসারেই। হামযা ও কিসাঈ পড়েন নাশরান, নূনে যবর দিয়ে। ইবন আমির পড়েন নুশরান, আর বাকিরা নুশুরান। কুরতুবী সব মিলিয়ে সাতটি কিরাআত গুনেছেন। তাঁর হিসাবে মক্কা-মদীনার অধিবাসীরা ও আবু আমর পড়েন নুশুরান, আ'মাশ ও হামযা নাশরান, আর হাসান ও কাতাদাও পড়েন নুশরান।"
+          },
+          {
+            "en": "Each reading carries its own picture. Bushran makes the winds bearers of good news, the plural of bashir; at-Tabari says Asim read it in the light of 30:46, where the winds are sent mubashshirat, and al-Baghawi and al-Qurtubi cite the same verse. Nashran, at-Tabari explains, is the Arabs' word for a gentle, fragrant wind that raises clouds. Nushuran, al-Baghawi says, means winds scattered, blowing from every side. Al-Qurtubi adds that nashran may picture winds unfolded after lying still as if folded, or winds that give life, from the verb used of Allah raising the dead.",
+            "bn": "প্রতিটি পাঠের সঙ্গে আলাদা এক ছবি আসে। বুশরান মানে সুসংবাদবাহী, বাশীর শব্দের বহুবচন। তাবারী বলেন, আসিম এ পাঠ বুঝতেন ৩০:৪৬ আয়াতের আলোয়, যেখানে বাতাসকে বলা হয়েছে মুবাশশিরাত। বাগাভী ও কুরতুবীও সেই আয়াতই উদ্ধৃত করেন। তাবারী জানান, নাশর আরবদের ভাষায় সেই কোমল, সুগন্ধি বাতাস, যা মেঘ তৈরি করে। বাগাভীর মতে নুশুরান মানে চারদিক থেকে ছড়িয়ে বয়ে আসা বাতাস। কুরতুবী যোগ করেন, নাশরানের ছবি হতে পারে ভাঁজ করা জিনিসের মতো থেমে থাকা বাতাস, যা বইতে শুরু করলে খুলে মেলে যায়। কিংবা জীবনদায়ী বাতাস, সেই ক্রিয়া থেকে, যা দিয়ে বলা হয় আল্লাহ মৃতকে জীবিত করেন।"
+          },
+          {
+            "en": "The commentators do not all lead with the same reading. At-Tabari explains the verse by nashran and calls nashran and nushuran the two well-known readings of the cities; Ibn Kathir's text reads it with nun and adds that some read bushran. Al-Baghawi and as-Sa'di comment on bushran. The meanings do not cancel each other: the winds are gentle, they come from every side, and they announce what follows them.",
+            "bn": "সব তাফসীরকার একই পাঠ ধরে শুরু করেননি। তাবারী আয়াতের ব্যাখ্যা দেন নাশরান ধরে, আর নাশরান ও নুশুরানকে বলেন বিভিন্ন শহরের দুটি প্রসিদ্ধ কিরাআত। ইবন কাসীরের পাঠে শব্দটি নূন দিয়ে, সঙ্গে তিনি বলেন, কেউ কেউ বুশরান পড়েছেন। বাগাভী ও সা'দী ব্যাখ্যা করেন বুশরান ধরে। অর্থগুলো একে অন্যকে বাতিল করে না। বাতাস কোমল, চারদিক থেকে আসে, আর পেছনে যা আসছে তার খবর দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walking Ahead of the Rain",
+          "bn": "বৃষ্টির আগে আগে"
+        },
+        "p": [
+          {
+            "en": "Bayna yaday rahmatihi, literally between the two hands of His mercy. At-Tabari explains it as in front of it and ahead of it: the Arabs say of anything that comes before another that it came between its hands, a phrase first used of people and then, through constant use, of things that have no hands. The mercy, he says, is the rain, and he relays the same from as-Suddi. Ibn Kathir and al-Baghawi agree, and Ibn Kathir sets beside it 42:28, where He sends down rain after people have despaired.",
+            "bn": "বাইনা ইয়াদাই রাহমাতিহী, শব্দে শব্দে: তাঁর রহমতের দুই হাতের মাঝখানে। তাবারী এর অর্থ করেন রহমতের সামনে, তার আগে আগে। তিনি বলেন, কোনো কিছুর আগে যা ঘটে, আরবরা সেটাকে বলে তার দুই হাতের মাঝখানে এসেছে। কথাটার শুরু মানুষের বেলায়, পরে বহুল ব্যবহারে হাত নেই এমন জিনিসের বেলায়ও চলতে লাগল। আর এখানে রহমত মানে বৃষ্টি, বলেন তাবারী, সুদ্দী থেকেও তিনি একই কথা বর্ণনা করেন। ইবন কাসীর ও বাগাভীও তা-ই বলেন। ইবন কাসীর পাশে রাখেন ৪২:২৮ আয়াত, যেখানে মানুষ নিরাশ হয়ে পড়ার পর তিনি বৃষ্টি নামান।"
+          },
+          {
+            "en": "So the wind is a messenger before the message. As-Sa'di says people take glad tidings from Allah's mercy and their hearts are at ease before it falls; al-Muyassar says the same of all creatures. Ma'arif al-Qur'an calls these winds two blessings at once: cool and bracing in themselves, and an early notice of the rain, so that people can prepare themselves and protect their belongings. The relief arrives before the rain does, and the verse counts it as part of the gift.",
+            "bn": "বাতাস তাই খবরের আগে আসা এক দূত। সা'দী বলেন, মানুষ আল্লাহর রহমতের খবরে খুশি হয়, আর বৃষ্টি পড়ার আগেই তাদের মন শান্ত হয়ে যায়। মুয়াসসার পুরো সৃষ্টিজগৎ সম্পর্কে একই কথা বলে। মাআরিফুল কুরআনের মতে এ বাতাসে একসঙ্গে দুটি নিয়ামত। বাতাস নিজেই শীতল আর প্রাণ জুড়ানো, আবার বৃষ্টির আগাম খবরও দেয়, যাতে মানুষ নিজেকে প্রস্তুত করতে আর জিনিসপত্র বাঁচাতে পারে। স্বস্তি পৌঁছে যায় বৃষ্টির আগেই, আর আয়াত সেই স্বস্তিকেও দানের অংশ হিসেবে গুনেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clouds Heavy With Water",
+          "bn": "পানিভরা ভারী মেঘ"
+        },
+        "p": [
+          {
+            "en": "Hatta idha aqallat sahaban thiqalan: until, when they have carried heavy clouds. At-Tabari explains iqlal as carrying, as the Arabs say a camel rose with its load. Ibn Kathir says the clouds are heavy with the water they hold, so they hang low, near the earth, and dark, and he quotes Zayd ibn Amr ibn Nufayl: I have submitted my face to the One to whom the rain-clouds submit, carrying water sweet and clear. As-Sa'di shows the winds at work: one stirs the cloud up, another gathers it, another joins more to it.",
+            "bn": "হাত্তা ইযা আকাল্লাত সাহাবান সিকালান: শেষে যখন তারা ভারী মেঘ বয়ে নেয়। তাবারী ইকলালের অর্থ করেন বহন করা, আরবরা যেমন বলে, উট তার বোঝা নিয়ে উঠে দাঁড়াল। ইবন কাসীর বলেন, মেঘগুলো ভারী কারণ তাতে প্রচুর পানি। তাই সেগুলো নিচু হয়ে মাটির কাছাকাছি ঝুলে থাকে, রঙ হয় গাঢ়। তিনি যায়দ ইবন আমর ইবন নুফাইলের পঙক্তি উদ্ধৃত করেন: আমি আমার মুখ সমর্পণ করেছি তাঁর কাছে, যাঁর কাছে সমর্পিত বৃষ্টির মেঘ, যা বয়ে চলে মিঠা স্বচ্ছ পানি। সা'দী দেখান, বাতাসেরা মিলে কাজ করে। একটি মেঘকে জাগিয়ে তোলে, আরেকটি তাকে জড়ো করে, আরেকটি তার সঙ্গে আরও মেঘ জুড়ে দেয়।"
+          },
+          {
+            "en": "Then the speaker changes: He sends the winds; We drive the cloud. Suqnahu li-baladin mayyit, We drive it to a dead land; al-Baghawi says the pronoun refers to the cloud, and al-Qurtubi says the lam may mean to that land or for its sake. Ma'arif al-Qur'an draws a lesson from the verb: where a cloud goes and where it rains is His command, so a town may sit under heavy clouds and receive nothing. His command, it adds, works from behind the curtain of physical causes.",
+            "bn": "এরপর বক্তার রূপ বদলে যায়। বাতাস পাঠান তিনি, আর মেঘ হাঁকিয়ে নিই আমি। সুকনাহু লি-বালাদিম মাইয়িত: আমি তাকে নিয়ে যাই এক মৃত ভূমির দিকে। বাগাভী বলেন, সর্বনামটি মেঘকে বোঝায়। কুরতুবী জানান, লাম অক্ষরটির অর্থ হতে পারে সেই ভূমির দিকে, কিংবা সেই ভূমির জন্য। মাআরিফুল কুরআন এ ক্রিয়া থেকে শিক্ষা টানে। মেঘ কোথায় যাবে আর কোথায় বর্ষাবে, তা তাঁর হুকুম। তাই কোনো জনপদের মাথার উপর ঘন মেঘ জমেও এক ফোঁটা পড়ে না। সঙ্গে বলে, তাঁর হুকুম কাজ করে বাহ্যিক কারণের পর্দার আড়াল থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Land Given Up for Dead",
+          "bn": "যে ভূমিকে মৃত ধরে নেওয়া হয়েছিল"
+        },
+        "p": [
+          {
+            "en": "The commentators describe the dead land from different sides. Ibn Kathir calls it barren ground with nothing growing, citing 36:33, where the dead earth is a sign that He revives. At-Tabari pictures fields effaced, watering places worn away and people in drought. As-Sa'di sees animals close to perishing and people close to despairing of Allah's mercy. Balad itself is read two ways: al-Qurtubi defines it as any place on earth, inhabited or empty; Ma'arif al-Qur'an takes it as a town, since the rain is sent to provide for people.",
+            "bn": "মৃত ভূমির বর্ণনা তাফসীরকারেরা দেন ভিন্ন ভিন্ন দিক থেকে। ইবন কাসীর বলেন, খরায় পোড়া জমি, যাতে কিছুই জন্মায় না। পাশে রাখেন ৩৬:৩৩ আয়াত, যেখানে মৃত জমিকে তিনি জীবিত করেন আর তা হয় এক নিদর্শন। তাবারীর ছবিতে খেত মুছে গেছে, পানির ঘাট শুকিয়ে গেছে, মানুষ খরায় দিন কাটাচ্ছে। সা'দী তাকান সেখানকার বাসিন্দাদের দিকে। পশুগুলো মরতে বসেছিল, মানুষ আল্লাহর রহমত থেকে প্রায় নিরাশ। বালাদ শব্দটি নিয়েও দুই রকম পাঠ আছে। কুরতুবীর সংজ্ঞায় বালাদ মানে পৃথিবীর যেকোনো জায়গা, তাতে বসতি থাকুক বা না থাকুক। মাআরিফুল কুরআন এর অর্থ নেয় মানুষের বসতি, কারণ বৃষ্টি পাঠানোই হয় তাদের রিযিকের জন্য।"
+          },
+          {
+            "en": "Fa-anzalna bihi al-ma'a: and We send down the water by it. Al-Qurtubi first takes bihi as in the land, then as by means of the cloud, the instrument of rain; al-Baghawi gives the cloud first and the land as a second view; as-Sa'di takes it as the land. Then fa-akhrajna bihi min kulli al-thamarat: We bring out by it fruits of every kind. Al-Muyassar names pasture, trees and crops, the trees laden again with fruit, and as-Sa'di says the people woke rejoicing in Allah's mercy.",
+            "bn": "ফা-আনযালনা বিহিল মা-আ: অতঃপর তার দ্বারা আমি পানি নামাই। কুরতুবী প্রথমে বিহী-র অর্থ নেন সেই ভূমিতে, পরে মেঘের মাধ্যমে, কারণ পানি নামার উপায় তো মেঘ। বাগাভী আগে মেঘের কথা বলেন, ভূমির কথা আনেন দ্বিতীয় মত হিসেবে। সা'দী একে ভূমি বলেই ধরেন। তারপর ফা-আখরাজনা বিহী মিন কুল্লিস সামারাত: আর তা দিয়ে আমি সব রকম ফল বের করে আনি। মুয়াসসার গুনে দেখায় তৃণভূমি, গাছ আর ফসল, আর গাছগুলো আবার ফলে ভরে ওঠে। সা'দী বলেন, সেখানকার মানুষ আল্লাহর রহমতে আনন্দ নিয়ে জেগে ওঠে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "So Shall the Dead Come Out",
+          "bn": "এভাবেই বের হবে মৃতরা"
+        },
+        "p": [
+          {
+            "en": "Kadhalika nukhriju al-mawta: just so We bring out the dead. At-Tabari paraphrases: as We revive this dead land with water after its barrenness, so We bring the dead out of their graves alive after they have perished and their traces have worn away. The words, he says, address idol-worshippers who denied the raising: this likeness is struck so that you take heed and know that reviving the dead is easy for Him who can do this. He relays as-Suddi: thus you will be brought out, as We bring out crops with water.",
+            "bn": "কাযালিকা নুখরিজুল মাওতা: ঠিক এভাবেই আমি মৃতদের বের করে আনি। তাবারীর ব্যাখ্যা: খরার পর পানি দিয়ে যেভাবে আমি এই মৃত ভূমিকে জীবিত করি, সেভাবেই মৃতদের কবর থেকে জীবিত বের করে আনব, যদিও ততদিনে তারা নিঃশেষ হয়ে গেছে, চিহ্নও মুছে গেছে। তিনি বলেন, কথাটা মূর্তিপূজারীদের উদ্দেশে, যারা পুনরুত্থান অস্বীকার করত। এ উপমা দেওয়া হলো, যাতে তোমরা শিক্ষা নাও আর জানো, যিনি এ কাজ পারেন, মৃতকে জীবিত করা তাঁর জন্য সহজ। সুদ্দী থেকে তিনি বর্ণনা করেন: এভাবেই তোমাদের বের করা হবে, যেভাবে আমি পানি দিয়ে ফসল বের করি।"
+          },
+          {
+            "en": "As-Sa'di calls it a clear proof, since the two matters do not differ; whoever dismisses the resurrection while seeing its like every season does so out of stubbornness and a refusal of what the senses show. Ibn Kathir notes how often the Qur'an makes the earth's revival a parable for the Day of Rising, citing 30:50: look at the traces of Allah's mercy, how He gives life to the earth after its death; He will surely give life to the dead. The argument answers a denial, and licenses nothing against any person or community living today.",
+            "bn": "সা'দী একে বলেন স্পষ্ট প্রমাণ, কারণ দুটি ব্যাপারের মধ্যে কোনো পার্থক্য নেই। প্রতি মৌসুমে যে এর নমুনা চোখের সামনে দেখে, সে যদি পুনরুত্থানকে উড়িয়ে দেয়, তবে তা জেদ আর চোখে দেখা জিনিস অস্বীকারের ফল। ইবন কাসীর বলেন, কুরআন বারবার জমিনের পুনর্জীবনকে কিয়ামতের উপমা বানিয়েছে। তিনি উদ্ধৃত করেন ৩০:৫০ আয়াত: আল্লাহর রহমতের চিহ্নগুলো দেখো, মৃত্যুর পর তিনি কীভাবে জমিনকে জীবিত করেন। নিশ্চয়ই তিনি মৃতদেরও জীবিত করবেন। যুক্তিটা এক অস্বীকারের জবাব। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই।"
+          },
+          {
+            "en": "Some asked how the likeness will unfold. Al-Qurtubi reports a view that the raising will itself come by a rain sent on the graves, and at-Tabari relays Mujahid: when Allah wills to bring out the dead, He sends rain until the earth splits open from them, then each soul returns to its body. At-Tabari and al-Baghawi also relay a fuller report from Abu Hurayra, not attributed to the Prophet ﷺ, which at-Tabari gives without a chain; his version speaks of forty years where Ibn Kathir has forty days.",
+            "bn": "কেউ কেউ জানতে চেয়েছেন, উপমাটি বাস্তবে কীভাবে ঘটবে। কুরতুবী একটি মত উল্লেখ করেন যে, পুনরুত্থান ঘটবেই এক বৃষ্টির মাধ্যমে, যা কবরগুলোর উপর পাঠানো হবে। তাবারী মুজাহিদ থেকে বর্ণনা করেন: আল্লাহ যখন মৃতদের বের করতে চাইবেন, তখন বৃষ্টি পাঠাবেন, এমনকি জমিন ফেটে তারা বেরিয়ে আসবে। এরপর প্রতিটি রূহ নিজের দেহে ফিরে যাবে। তাবারী ও বাগাভী আবু হুরায়রা (রাঃ) থেকে আরও বিস্তারিত একটি বর্ণনা আনেন। এটি নবী ﷺ-এর কথা হিসেবে বর্ণিত নয়, আর তাবারী এর কোনো সনদ দেননি। তাবারীর বর্ণনায় আছে চল্লিশ বছরের কথা, অথচ ইবন কাসীরে চল্লিশ দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain Between the Two Blasts",
+          "bn": "দুই ফুৎকারের মাঝের বৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets beside the verse part of a long hadith of Abdullah ibn Amr in Sahih Muslim (2940). After the first blast of the trumpet and the swoon of all people, the Prophet ﷺ said: then Allah will send, or he said send down, a rain like dew, or like shade, an-Nu'man being unsure, and from it the bodies of people will grow; then it will be blown again, and at once they are standing, looking. The narration is in Muslim's Sahih, and al-Qurtubi is the one who links it to this verse.",
+            "bn": "কুরতুবী আয়াতের পাশে রাখেন সহীহ মুসলিমের (২৯৪০) একটি দীর্ঘ হাদীসের অংশ, যার বর্ণনাকারী আবদুল্লাহ ইবন আমর (রাঃ)। শিঙ্গায় প্রথম ফুঁ আর সব মানুষের বেহুঁশ হয়ে পড়ার কথা বলার পর নবী ﷺ বলেন: এরপর আল্লাহ পাঠাবেন, কিংবা বলেছেন নামাবেন, এক বৃষ্টি, যেন শিশির, কিংবা ছায়া। এ সন্দেহটা বর্ণনাকারী নু'মানের। তা থেকে মানুষের দেহ গজিয়ে উঠবে। তারপর আবার ফুঁ দেওয়া হবে, আর সঙ্গে সঙ্গে তারা দাঁড়িয়ে তাকাতে থাকবে। বর্ণনাটি মুসলিমের সহীহ গ্রন্থে আছে। এ আয়াতের সঙ্গে একে যুক্ত করেছেন কুরতুবী।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an points to Abu Hurayra's report in al-Bukhari and Muslim. Al-Bukhari's wording (4935): Abu Hurayra said that the Messenger of Allah ﷺ said, between the two blasts there are forty. Someone asked, forty days? He said, I decline to say. Forty months? I decline. Forty years? I decline. Then Allah sends down water from the sky, and they grow as green herbs grow. There is nothing of a human being that does not decay except one bone, the base of the spine, and from it the creation is assembled on the Day of Resurrection. It is about the raising in general, not narrated on this verse.",
+            "bn": "মাআরিফুল কুরআন বুখারী ও মুসলিমে আসা আবু হুরায়রা (রাঃ)-এর বর্ণনার দিকে ইঙ্গিত করে। বুখারীর ভাষ্য (৪৯৩৫): আবু হুরায়রা (রাঃ) বলেন, রাসূলুল্লাহ ﷺ বলেছেন, দুই ফুৎকারের মাঝে চল্লিশ। কেউ জিজ্ঞেস করল, চল্লিশ দিন? তিনি বললেন, আমি বলতে অস্বীকার করছি। চল্লিশ মাস? আমি অস্বীকার করছি। চল্লিশ বছর? আমি অস্বীকার করছি। তারপর আল্লাহ আকাশ থেকে পানি নামাবেন, আর তারা গজিয়ে উঠবে, যেমন শাক গজায়। মানুষের দেহের সবকিছুই পচে যায়, কেবল একটি হাড় ছাড়া, মেরুদণ্ডের গোড়ার হাড়। কিয়ামতের দিন তা থেকেই সৃষ্টিকে আবার জোড়া লাগানো হবে। হাদীসটি সাধারণভাবে পুনরুত্থান নিয়ে, এ আয়াত প্রসঙ্গে বর্ণিত নয়।"
+          },
+          {
+            "en": "On the winds, al-Baghawi brings a report that Abu Dawud records (5097), from Abu Hurayra: I heard the Messenger of Allah ﷺ say, the wind is from the rawh of Allah. In the version of Salamah, one of Abu Dawud's teachers, it continues: it brings mercy and it brings punishment, so when you see it, do not revile it; ask Allah for its good and seek refuge with Allah from its evil. Abu Dawud gives no grading. A narration of Abu Razin that al-Qurtubi relays from al-Bayhaqi is ungraded and unconfirmed; nothing here rests on it.",
+            "bn": "বাতাস প্রসঙ্গে বাগাভী একটি বর্ণনা আনেন, যা আবু দাউদও (৫০৯৭) সংকলন করেছেন। আবু হুরায়রা (রাঃ) বলেন, আমি রাসূলুল্লাহ ﷺ-কে বলতে শুনেছি, বাতাস আল্লাহর রাওহ থেকে। আবু দাউদের উস্তাদদের একজন, সালামার বর্ণনায় এরপর আছে: তা রহমত নিয়েও আসে, আযাব নিয়েও আসে। তাই যখন তা দেখবে, গালি দিয়ো না। আল্লাহর কাছে এর কল্যাণ চাও, আর এর অনিষ্ট থেকে আল্লাহর আশ্রয় চাও। আবু দাউদ এর কোনো মান উল্লেখ করেননি। কুরতুবী বাইহাকীর বরাতে আবু রাযীন (রাঃ)-এর যে বর্ণনা আনেন, তার মান বলা হয়নি, তা নিশ্চিতও হয়নি। এখানে এর উপর কিছুই দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembering When It Rains",
+          "bn": "বৃষ্টি নামলে মনে রাখা"
+        },
+        "p": [
+          {
+            "en": "The verse ends la'allakum tadhakkarun, so that you may remember; at-Tabari reads it as so that you take the lesson and know. As-Sa'di draws out the habit it asks for: to look at Allah's favours with the eye of consideration and reasoning, not with the eye of heedlessness and neglect. Rain is not rare, and that is the point. A reminder that comes every season can be missed every season, unless the ordinary sight of wet ground and new shoots is read as a sign each time.",
+            "bn": "আয়াতের শেষ কথা লা'আল্লাকুম তাযাক্কারূন, যাতে তোমরা উপদেশ গ্রহণ কর। তাবারীর ব্যাখ্যায়: যাতে তোমরা শিক্ষা নাও আর বুঝতে পারো। সা'দী এখান থেকে একটি অভ্যাস বের করেন। আল্লাহর নিয়ামতের দিকে তাকানো শিক্ষা ও যুক্তির চোখে, গাফিলতি আর অবহেলার চোখে নয়। বৃষ্টি দুর্লভ কিছু নয়, আসল কথা সেখানেই। যে উপদেশ প্রতি মৌসুমে আসে, তা প্রতি মৌসুমে চোখ এড়িয়েও যেতে পারে, যদি না ভেজা মাটি আর নতুন অঙ্কুরের চেনা দৃশ্য প্রতিবার নিদর্শন হিসেবে পড়া হয়।"
+          },
+          {
+            "en": "A few practices follow from what the sources give. When strong wind rises, the narration in Abu Dawud gives words in place of complaint: ask Allah for its good and seek His refuge from its harm. When rain ends a dry spell, remember the grave as well as the harvest. And when part of a life looks like that land, as-Sa'di's picture of a people near despair who woke rejoicing is reason not to give up on His mercy, which 7:56 has just called near to those who do good.",
+            "bn": "উৎসগুলো থেকে কয়েকটি ছোট আমল বেরিয়ে আসে। জোরে বাতাস উঠলে অভিযোগের বদলে আবু দাউদের বর্ণনা কিছু কথা শিখিয়ে দেয়: আল্লাহর কাছে এর কল্যাণ চাওয়া, আর এর ক্ষতি থেকে তাঁর আশ্রয় চাওয়া। খরার পর বৃষ্টি নামলে ফসলের সঙ্গে কবরের কথাও মনে করুন। আর জীবনের কোনো অংশ যদি ওই ভূমির মতো দেখায়, তবে সা'দীর আঁকা ছবিটা মনে রাখুন: প্রায় নিরাশ এক জনপদ সকালে জেগে উঠেছিল আনন্দ নিয়ে। তাই তাঁর রহমত থেকে নিরাশ হওয়ার কারণ নেই। ৭:৫৬ আয়াত তো এইমাত্র বলেছে, সে রহমত সৎকর্মশীলদের কাছেই।"
+          },
+          {
+            "en": "The next verse, 7:58, takes the same rain further: the good land brings out its growth by its Lord's permission, and the bad yields only scantily. Ma'arif al-Qur'an reads the pair as covering human origin and return, the second verse likening guidance to rain that falls on everyone; that lesson belongs to 7:58. This verse stops at the raising, and leaves a question for each rainfall: if He can do this to dead ground, what will He do with me?",
+            "bn": "পরের আয়াত ৭:৫৮ একই বৃষ্টিকে আরও এগিয়ে নেয়। ভালো জমি রবের অনুমতিতে ফসল ফলায়, আর খারাপ জমি দেয় সামান্যই, তাও কষ্টে। মাআরিফুল কুরআন আয়াত দুটিকে একসঙ্গে পড়ে, মানুষের শুরু আর ফিরে যাওয়ার বিষয় হিসেবে। দ্বিতীয়টিতে হিদায়াতকে তুলনা করা হয়েছে বৃষ্টির সঙ্গে, যা সবার উপর নামে। সে শিক্ষা ৭:৫৮ আয়াতের আলোচ্য। এ আয়াত থেমে যায় পুনরুত্থানে এসে, আর প্রতিবার বৃষ্টির জন্য রেখে যায় একটি প্রশ্ন: মরা মাটির সঙ্গে তিনি যদি এ কাজ করতে পারেন, আমাকে নিয়ে কী করবেন?"
+          }
+        ]
+      }
+    ]
+  },
   "7:61": {
     "sections": [
       {

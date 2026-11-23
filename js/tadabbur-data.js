@@ -31683,6 +31683,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the only charge against someone is their restraint, the charge exposes the accusers; answer a reminder with reasons, never with a plan to remove the person who gave it.",
     "lessonBn": "কারও বিরুদ্ধে একমাত্র অভিযোগ যদি হয় তার সংযম, তবে সেই অভিযোগ অভিযোগকারীদেরই চিনিয়ে দেয়। উপদেশের জবাব দিন যুক্তি দিয়ে, উপদেশদাতাকে সরিয়ে দেওয়ার ফন্দি দিয়ে নয়।"
+  },
+  "7:57": {
+    "reflectionEn": "Before the rain comes, the wind comes. Cool air moves in, people look up, and something in them eases before a single drop has fallen. The verse calls those winds good news running ahead of His mercy. They lift clouds heavy with water, and He drives them to a land that looked finished, sends the rain down there, and brings out every kind of fruit. Then one short line turns the whole scene toward me: thus We bring out the dead. I have watched dry ground turn green more times than I can count. The verse asks whether I ever let that sight remind me of my own grave, and of the morning I will be brought out of it.",
+    "reflectionBn": "বৃষ্টির আগে আসে বাতাস। ঠান্ডা হাওয়া বইতে থাকে, মানুষ আকাশের দিকে তাকায়, আর এক ফোঁটা পড়ার আগেই মনের ভেতর কিছু একটা হালকা হয়ে যায়। আয়াত এ বাতাসকে বলছে তাঁর রহমতের আগে আগে ছুটে আসা সুসংবাদ। বাতাস পানিভরা ভারী মেঘ তুলে নেয়। তিনি সেই মেঘ হাঁকিয়ে নেন এমন এক ভূমির দিকে, যাকে দেখে মনে হতো সব শেষ। সেখানে বৃষ্টি নামান, আর সব রকম ফল বের করে আনেন। তারপর ছোট্ট একটি বাক্য পুরো দৃশ্যটাকে আমার দিকে ঘুরিয়ে দেয়: এভাবেই আমি মৃতদের বের করে আনি। শুকনো মাটি সবুজ হয়ে উঠতে আমি কতবার দেখেছি, গুনে শেষ করা যাবে না। আয়াতটি জানতে চায়, সে দৃশ্য কি কখনো আমাকে আমার কবরের কথা মনে করিয়ে দিয়েছে? মনে করিয়েছে সেই সকালের কথা, যেদিন আমাকে সেখান থেকে বের করে আনা হবে?",
+    "pointsEn": [
+      "The last time the rain came after a long dry spell, did I thank the One who sent it, or only talk about the weather?",
+      "Where in my life does something look as dead as that land, and do I still believe He can drive rain to it?",
+      "What reminds me most often of my own death, and does that reminder lead me to anything I actually do?",
+      "When strong wind rises, do I complain about it, or ask Allah for its good and seek refuge with Him from its harm?",
+      "If I truly expected to be brought out of the ground the way a seed is, what would I change in how I spend this week?"
+    ],
+    "pointsBn": [
+      "লম্বা খরার পর শেষবার যখন বৃষ্টি এল, আমি কি যিনি পাঠালেন তাঁর শোকর আদায় করেছি, নাকি শুধু আবহাওয়া নিয়ে গল্প করেছি?",
+      "আমার জীবনের কোন জায়গাটা ওই ভূমির মতো মরা দেখায়? আমি কি এখনো বিশ্বাস করি, তিনি সেখানেও বৃষ্টি পৌঁছে দিতে পারেন?",
+      "কোন জিনিস আমাকে সবচেয়ে বেশি মৃত্যুর কথা মনে করিয়ে দেয়? আর সেই মনে পড়া কি আমাকে দিয়ে আসলে কোনো আমল করায়?",
+      "জোরে বাতাস উঠলে আমি কি বিরক্ত হয়ে গালমন্দ করি, নাকি আল্লাহর কাছে এর কল্যাণ চাই আর এর অনিষ্ট থেকে তাঁর আশ্রয় চাই?",
+      "বীজ যেভাবে মাটি ফুঁড়ে বের হয়, সেভাবে আমাকেও বের করে আনা হবে, এ কথা সত্যিই বিশ্বাস করলে এ সপ্তাহের সময় কাটানোয় আমি কী বদলাতাম?"
+    ],
+    "lessonEn": "Every rain on dead ground is a rehearsal of the resurrection; let each one bring your Lord's mercy and your own return to mind.",
+    "lessonBn": "মরা মাটিতে নামা প্রতিটি বৃষ্টি পুনরুত্থানের এক মহড়া। প্রতিবার তা যেন আপনাকে রবের রহমত আর নিজের ফিরে যাওয়ার কথা মনে করিয়ে দেয়।"
   }
 };
 
