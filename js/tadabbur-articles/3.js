@@ -8339,6 +8339,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:179": {
+    "sections": [
+      {
+        "h": {
+          "en": "Respite for Them, Trial for Us",
+          "bn": "ওদের জন্য অবকাশ, আমাদের পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "The verses just before it speak about the other side. 3:176 tells the Prophet ﷺ not to grieve over those who hasten into disbelief, 3:177 says those who bought disbelief for faith will not harm Allah at all, and 3:178 warns the disbelievers that the time they are granted is not good for them. Then 3:179 turns to the believers in thirty-six Arabic words, and 3:180 turns again, to those who withhold what Allah has given them.",
+            "bn": "এর আগের আয়াতগুলোর কথা অন্য পক্ষকে নিয়ে। ৩:১৭৬ নবী ﷺ-কে বলে, যারা কুফরির দিকে ছুটে যায় তাদের জন্য দুঃখ করবেন না। ৩:১৭৭ জানায়, ঈমানের বদলে যারা কুফরি কিনেছে, তারা আল্লাহর কোনো ক্ষতিই করতে পারবে না। ৩:১৭৮ কাফিরদের সাবধান করে: যে অবকাশ তারা পাচ্ছে, তা তাদের জন্য ভালো নয়। এরপর ৩:১৭৯ ছত্রিশটি আরবি শব্দে মুমিনদের দিকে ফেরে। আর ৩:১৮০ আবার মুখ ফেরায় তাদের দিকে, আল্লাহর দেওয়া সম্পদ যারা আটকে রাখে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the pair as question and answer. The previous verse, it says, answered why the disbelievers, detested in Allah's sight, hold wealth and every means of comfort. This verse removes the opposite doubt: why true believers, the favoured servants of Allah, are tested with every kind of hardship. Ibn Kathir names the hardship in view. The verse, he says, refers to the day of Uhud, when Allah tested the believers and their faith, patience and obedience came into the open.",
+            "bn": "মাআরিফুল কুরআন দুই আয়াতকে দেখে প্রশ্ন আর উত্তরের মতো। আগের আয়াত জবাব দিয়েছে, আল্লাহর কাছে অপছন্দের হয়েও কাফিররা কেন ধনসম্পদ আর আরামের সব উপকরণ পায়। এ আয়াত দূর করে উল্টো সংশয়টা: সত্যিকারের মুমিনরা আল্লাহর প্রিয় বান্দা হয়েও কেন নানা রকম কষ্টে পরীক্ষিত হয়। কোন কষ্টের কথা হচ্ছে, ইবন কাসীর তা স্পষ্ট করেন। তাঁর মতে আয়াতটি উহুদের দিনের দিকে ইঙ্গিত করে। সেদিন আল্লাহ মুমিনদের পরীক্ষা নিয়েছিলেন, আর তাদের ঈমান, সবর ও আনুগত্য প্রকাশ্যে এসে গিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tell Us Who Will Believe",
+          "bn": "বলে দিন, কে ঈমান আনবে"
+        },
+        "p": [
+          {
+            "en": "Several accounts of the occasion are relayed. Al-Qurtubi gives Abu al-'Aliya's: the believers asked for a sign by which to tell the believer from the hypocrite. Al-Qurtubi and al-Baghawi both give al-Kalbi's: Quraysh said that he claims a man of theirs is in the Fire, yet if he follows him he is of Paradise, so let him tell them who will come to him and who will not. At-Tabari relays from as-Suddi that they said: if Muhammad is truthful, let him tell us who believes and who disbelieves.",
+            "bn": "আয়াতটি কী উপলক্ষে নাযিল হলো, তাফসীরকারেরা এ নিয়ে কয়েকটি বর্ণনা আনেন। কুরতুবী আনেন আবুল আলিয়ার বর্ণনা: মুমিনরা এমন এক আলামত চেয়েছিলেন, যা দিয়ে মুমিন আর মুনাফিককে আলাদা করে চেনা যায়। কুরতুবী ও বাগাভী দুজনেই আনেন কালবীর বর্ণনা। কুরাইশরা বলেছিল, তিনি দাবি করেন তাদের অমুক লোক জাহান্নামি, আবার সে তাঁর অনুসারী হলে জান্নাতি। তাহলে তিনি বলে দিন, কে তাঁর কাছে আসবে আর কে আসবে না। তাবারী সুদ্দী থেকে আনেন: তারা বলেছিল, মুহাম্মাদ সত্যবাদী হলে আমাদের বলে দিক, কে ঈমান আনে আর কে কুফরি করে।"
+          },
+          {
+            "en": "Al-Baghawi also carries a longer report from as-Suddi, set in a sermon from the pulpit, which raises words to the Prophet ﷺ about his knowledge of who would believe. He gives it as as-Suddi's saying, with no chain back to the Prophet ﷺ and no grading, so it is only mentioned here. None of the fetched commentaries attaches a sound hadith to this verse. What the accounts share is a demand: name them for us. The verse does not grant it.",
+            "bn": "বাগাভী সুদ্দী থেকে আরেকটি লম্বা বর্ণনাও এনেছেন। তার পটভূমি মিম্বারের এক খুতবা, আর তাতে কে ঈমান আনবে সে বিষয়ে নবী ﷺ-এর জ্ঞান নিয়ে কিছু কথা তাঁর দিকে সম্পৃক্ত করা হয়েছে। তিনি এটি এনেছেন সুদ্দীর কথা হিসেবে, নবী ﷺ পর্যন্ত কোনো সনদ বা মান উল্লেখ না করে। তাই এখানে শুধু তার উল্লেখটুকুই থাকল। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। বর্ণনাগুলোর মধ্যে মিল একটাই দাবিতে: ওদের নাম বলে দাও। আয়াত সে দাবি পূরণ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The State You Are In",
+          "bn": "তোমরা যে অবস্থায় আছ"
+        },
+        "p": [
+          {
+            "en": "The verse names the believers and then says to someone, the state you are in. Who is that you? Al-Qurtubi and al-Baghawi report that Ibn Abbas, ad-Dahhak, Muqatil, al-Kalbi and most of the commentators took it as addressed to the disbelievers and the hypocrites: Allah would not leave the believers in the disbelief and hypocrisy you are in, al-Qurtubi adding your hostility to the Prophet ﷺ. Al-Baghawi adds from ad-Dahhak a reading that the believers meant are those still in the loins of men and the wombs of women.",
+            "bn": "আয়াতটি মুমিনদের নাম নেয়, তারপর কাউকে উদ্দেশ করে বলে: তোমরা যে অবস্থায় আছ। এই তোমরা কারা? কুরতুবী ও বাগাভী জানান, ইবন আব্বাস (রাঃ), দাহহাক, মুকাতিল, কালবী এবং অধিকাংশ মুফাসসিরের মতে সম্বোধন কাফির ও মুনাফিকদের প্রতি। অর্থাৎ তোমরা যে কুফরি আর নিফাকে আছ, আল্লাহ মুমিনদের তাতে ফেলে রাখবেন না। কুরতুবী সঙ্গে যোগ করেন নবী ﷺ-এর প্রতি তাদের শত্রুতার কথাও। বাগাভী দাহহাক থেকে আরেকটি ব্যাখ্যা আনেন: এখানে মুমিন বলতে তারা, যারা এখনো পুরুষদের পিঠে আর নারীদের গর্ভে আছে।"
+          },
+          {
+            "en": "On that reading Allah would separate the idolaters and hypocrites from the believing offspring still to come from them. The other view makes the believers themselves the you. Al-Baghawi notes that the verse turns from speaking about them to speaking to them, and al-Qurtubi calls this the view of most scholars of meanings. At-Tabari, al-Muyassar and as-Sa'di all read it this way, at-Tabari glossing the state as the believer among you confused with the hypocrite. Neither al-Qurtubi nor al-Baghawi settles the dispute.",
+            "bn": "সে ব্যাখ্যায় অর্থ দাঁড়ায়: মুশরিক আর মুনাফিকদের থেকে আল্লাহ আলাদা করে নেবেন তাদেরই ঔরস থেকে আসা ভবিষ্যতের মুমিন সন্তানদের। অন্য মতে তোমরা বলতে মুমিনরাই। বাগাভী দেখিয়ে দেন, আয়াত তাদের সম্পর্কে খবর দেওয়া থেকে সরে এসে সরাসরি তাদের সম্বোধন করেছে। কুরতুবী একে বলেন অর্থবিদ আলেমদের অধিকাংশের মত। তাবারী, মুয়াসসার ও সা'দী সবাই এভাবেই পড়েন। তাবারীর ব্যাখ্যায় সেই অবস্থা হলো, তোমাদের মধ্যে মুমিন আর মুনাফিক মিশে আছে, কাউকে আলাদা করে চেনা যায় না। কুরতুবী বা বাগাভী কেউই এ মতভেদের মীমাংসা করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Corrupt and Wholesome, Told Apart",
+          "bn": "খবীস আর তাইয়্যিব, আলাদা হলো"
+        },
+        "p": [
+          {
+            "en": "Hatta yamiza al-khabitha mina at-tayyib: until He separates the corrupt from the wholesome. At-Tabari defines both words. The khabith is the hypocrite who keeps his disbelief hidden; the tayyib is the sincere believer, true in faith. The separating is done by trials and testing, as He separated them on the day of Uhud. He supports this with Mujahid: He separated between them on the day of Uhud, the hypocrite from the believer. Ibn Jurayj puts it as making plain who is true in his faith and who is lying.",
+            "bn": "হাত্তা ইয়ামীযাল খাবীসা মিনাত তাইয়্যিব: যতক্ষণ না তিনি খবীসকে তাইয়্যিব থেকে আলাদা করেন। তাবারী দুটি শব্দেরই সংজ্ঞা দেন। খবীস হলো সেই মুনাফিক, যে নিজের কুফরি লুকিয়ে রাখে। তাইয়্যিব হলো খাঁটি মুমিন, যার ঈমান সত্য। আলাদা করার মাধ্যম পরীক্ষা আর যাচাই, যেমন উহুদের দিন তিনি তাদের আলাদা করেছিলেন। এর সমর্থনে তিনি আনেন মুজাহিদের কথা: উহুদের দিন তিনি তাদের মধ্যে পার্থক্য করে দিলেন, মুনাফিককে মুমিন থেকে। ইবন জুরাইজ বলেন, ঈমানে সত্যবাদীকে মিথ্যাবাদী থেকে স্পষ্ট করে দেওয়া।"
+          },
+          {
+            "en": "A second reading comes from Qatada, who took the you as the disbelievers and said the separating is by emigration and striving: the believer from the disbeliever, or in another of his wordings, the wicked from the believer. As-Suddi's version also has the believer brought out from the disbeliever. At-Tabari weighs both and prefers the first, for a reason drawn from the page: the verses before it are about the hypocrites, and this verse comes in their sequence, so it is likelier to concern them than anyone else.",
+            "bn": "দ্বিতীয় ব্যাখ্যা কাতাদার। তিনি তোমরা বলতে কাফিরদের বুঝেছেন, আর বলেছেন আলাদা করা হবে হিজরত ও জিহাদের মাধ্যমে: মুমিনকে কাফির থেকে। তাঁর আরেক বর্ণনায়, পাপাচারীকে মুমিন থেকে। সুদ্দীর বর্ণনাতেও আছে কাফিরের ভেতর থেকে মুমিনকে বের করে আনার কথা। তাবারী দুটো মত মেপে দেখে প্রথমটিকে অগ্রাধিকার দেন। কারণটা তিনি নেন আয়াতের অবস্থান থেকে। এর আগের আয়াতগুলো মুনাফিকদের নিয়ে, আর এ আয়াত সেই ধারাবাহিকতায় এসেছে। তাই অন্য কারও চেয়ে তাদের নিয়ে হওয়ার সম্ভাবনাই বেশি।"
+          },
+          {
+            "en": "Ibn Kathir describes the mechanism. Allah must bring about some occasion of trial in which His ally appears and His enemy is disgraced, the patient believer and the wicked hypocrite each recognised. At Uhud, he says, the believers' faith, endurance, firmness and obedience showed, and the veil over the hypocrites was torn, exposing their holding back from the fight. Al-Baghawi adds, under it is said, a gentler reading: the khabith is whoever sins, and the believer's burdens are taken off him by the hardship and misfortune that reach him.",
+            "bn": "ইবন কাসীর প্রক্রিয়াটা বর্ণনা করেন। আল্লাহ পরীক্ষার কোনো না কোনো উপলক্ষ তৈরি করবেনই। তাতে তাঁর বন্ধু প্রকাশ পায়, তাঁর শত্রু লাঞ্ছিত হয়। ধৈর্যশীল মুমিন আর পাপাচারী মুনাফিক দুজনকেই চেনা যায়। তিনি বলেন, উহুদে মুমিনদের ঈমান, সহনশীলতা, দৃঢ়তা আর আনুগত্য সামনে এসেছিল। আর মুনাফিকদের পর্দা ছিঁড়ে গিয়ে বেরিয়ে পড়েছিল যুদ্ধ থেকে তাদের পিছিয়ে যাওয়া। বাগাভী 'বলা হয়' দিয়ে আরও কোমল এক ব্যাখ্যা যোগ করেন। খবীস হলো গুনাহগার, আর মুমিনের উপর যে বিপদ ও কষ্ট আসে, তা দিয়ে তার গুনাহের বোঝা নামিয়ে দেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Exposed by Events, Not Named",
+          "bn": "নাম ধরে নয়, ঘটনায় প্রকাশ"
+        },
+        "p": [
+          {
+            "en": "Why sort people through hardship when a revelation could simply have named them? Ma'arif al-Qur'an raises the question and first says that the whole of the wisdom behind what Allah does is known to Him alone. It then offers one consideration. Had the hypocrites been named by revelation, the Muslims could have dealt with them carefully, but the hypocrites would still have insisted: you are wrong, we are true Muslims. Instead hardship came, they failed it and ran, and after that they no longer had the face to make the claim.",
+            "bn": "ওহী দিয়ে নাম বলে দিলেই তো হতো, তাহলে কষ্টের ভেতর দিয়ে মানুষ বাছাই কেন? মাআরিফুল কুরআন প্রশ্নটা তোলে, আর প্রথমেই বলে, আল্লাহর কাজের পেছনের পুরো হিকমত কেবল তিনিই জানেন। তারপর একটা দিক দেখায়। ওহী দিয়ে মুনাফিকদের নাম জানিয়ে দেওয়া হলে মুসলমানরা তাদের সঙ্গে সাবধানে চলতে পারত ঠিকই। কিন্তু মুনাফিকরা তখনো জোর দিয়ে বলত, তোমরা ভুল করছ, আমরাই খাঁটি মুসলমান। তার বদলে কষ্ট এল, তারা পরীক্ষায় ফেল করল, পালিয়ে গেল। এরপর ও দাবি মুখে আনার সাহস তাদের আর রইল না।"
+          },
+          {
+            "en": "As-Sa'di frames it as wisdom. It was not in Allah's wisdom to leave the believers mixed and undistinguished, nor to show His servants the unseen. So His wisdom required that He test them with kinds of trial by which the corrupt is told from the wholesome. He sent His messengers, commanded obedience to them, and promised a great reward for faith and taqwa. People then divided by how they followed the messengers: obedient and disobedient, believers and hypocrites, so that His justice, favour and wisdom would appear.",
+            "bn": "সা'দী বিষয়টি দেখেন হিকমতের আলোয়। মুমিনদের মিশ্র আর অচিহ্নিত অবস্থায় ফেলে রাখা আল্লাহর হিকমতের মধ্যে ছিল না। বান্দাদের গায়েব জানিয়ে দেওয়াও ছিল না। তাই তাঁর হিকমতের দাবি হলো, এমন নানা পরীক্ষায় তাদের যাচাই করা, যাতে খবীস তাইয়্যিব থেকে আলাদা হয়ে যায়। তিনি রাসূলদের পাঠালেন, তাঁদের আনুগত্যের হুকুম দিলেন, আর ঈমান ও তাকওয়ার জন্য বড় প্রতিদানের ওয়াদা দিলেন। রাসূলদের অনুসরণ অনুযায়ী মানুষ ভাগ হয়ে গেল: অনুগত আর নাফরমান, মুমিন আর মুনাফিক। এতে প্রকাশ পায় তাঁর ইনসাফ, অনুগ্রহ আর হিকমত।"
+          },
+          {
+            "en": "The verse describes what the commentators describe: hypocrites in Madinah who hid their disbelief, exposed by Allah through the events of Uhud and, for some of them, by revelation to His Messenger ﷺ. It licenses nothing against any living person or community. The same verse says the unseen is not opened to you, and the only exception it names is the messengers. No reader may sort another believer's heart, call anyone a hypocrite on a guess, or treat a hard day in someone's life as proof against them.",
+            "bn": "তাফসীরকারেরা যা বর্ণনা করেন, আয়াতটিও তা-ই বর্ণনা করে: মদীনার সেই মুনাফিকরা, যারা নিজেদের কুফরি লুকিয়ে রাখত, আর আল্লাহ যাদের প্রকাশ করে দিয়েছিলেন উহুদের ঘটনা দিয়ে, কারও কারও বেলায় তাঁর রাসূল ﷺ-এর কাছে ওহী পাঠিয়ে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এই আয়াতই বলছে, গায়েব তোমাদের সামনে খোলা হয় না, আর এর একমাত্র ব্যতিক্রম হিসেবে নাম নেয় রাসূলদের। তাই কোনো পাঠক অন্য মুমিনের অন্তর বাছাই করতে পারেন না। অনুমানের উপর কাউকে মুনাফিক বলতে পারেন না। কারও জীবনের কঠিন দিনকে তার বিরুদ্ধে প্রমাণ বানাতেও পারেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Unseen Is Withheld",
+          "bn": "কোন গায়েব আড়ালে রাখা"
+        },
+        "p": [
+          {
+            "en": "Wa ma kana Allahu li-yutli'akum 'ala al-ghayb: nor would Allah show you the unseen. At-Tabari records a difference over what this unseen is. As-Suddi read it as: Allah would not show Muhammad the unseen, but He chose him and made him a messenger. Ibn Ishaq read it as concerning what Allah intends to test you with, so that you might guard against what comes upon you in it; and He chooses of His messengers whom He wills, to teach him.",
+            "bn": "ওয়া মা কানাল্লাহু লিইউতলি'আকুম আলাল গাইব: আর আল্লাহ তোমাদের গায়েব জানাবেন না। এ গায়েব কী, তা নিয়ে তাবারী মতভেদ উল্লেখ করেন। সুদ্দীর ব্যাখ্যা: আল্লাহ মুহাম্মাদ ﷺ-কে গায়েব জানাবেন না, তবে তাঁকে বেছে নিয়ে রাসূল বানিয়েছেন। ইবন ইসহাকের ব্যাখ্যা: আল্লাহ তোমাদের যা দিয়ে পরীক্ষা করতে চান, সে বিষয়ে তিনি আগে জানাবেন না, যাতে তোমরা তার ভেতরে আসা বিপদ থেকে বেঁচে চলতে পারো। আর রাসূলদের মধ্যে যাকে চান বেছে নেন, তাকে জানানোর জন্য।"
+          },
+          {
+            "en": "At-Tabari's own preference is narrower. Allah would not show you what lies in the hearts of His servants, so that you could tell believer from hypocrite; He separates them by trials instead, as He did by the hardship of Uhud. But He chooses of His messengers whom He wills and acquaints him with some of what is in the hearts of some of them, by revealing it to him. His reason is the flow of the verse: it opened with exposing the hypocrite, so the unseen that follows is the hidden inner state.",
+            "bn": "তাবারীর নিজের পছন্দের ব্যাখ্যা আরও নির্দিষ্ট। আল্লাহ তোমাদের তাঁর বান্দাদের অন্তরের গোপন কথা জানাবেন না, যাতে তোমরা মুমিন আর মুনাফিক চিনে ফেলো। তার বদলে তিনি পরীক্ষা দিয়ে তাদের আলাদা করেন, যেমন করেছিলেন উহুদের কষ্টের দিনে। তবে রাসূলদের মধ্যে যাকে চান বেছে নেন, আর ওহীর মাধ্যমে তাকে জানিয়ে দেন তাদের কারও কারও অন্তরের কিছু কথা। তাঁর যুক্তি আয়াতের ধারা। আয়াত শুরু হয়েছে মুনাফিককে প্রকাশ করার কথা দিয়ে, তাই পরে যে গায়েবের কথা, তা মানুষের ভেতরের লুকানো অবস্থা।"
+          },
+          {
+            "en": "Al-Qurtubi, reading the address as to the believers, glosses it: Allah would not single out the hypocrites for you so that you knew them, but makes it appear through obligation and trial. That happened at Uhud, he says, when the hypocrites stayed behind and showed their glee. You did not know this unseen before; now Allah has made Muhammad and his Companions aware of it. He records a further view: when the disbelievers asked why revelation did not come to them, the unseen meant is who deserves prophethood.",
+            "bn": "কুরতুবী সম্বোধনকে মুমিনদের প্রতি ধরে ব্যাখ্যা করেন: আল্লাহ মুনাফিকদের আলাদা করে চিহ্নিত করে তোমাদের চিনিয়ে দেবেন না, বরং দায়িত্ব আর পরীক্ষার মধ্য দিয়ে তা প্রকাশ করবেন। তিনি বলেন, উহুদে ঠিক তাই হয়েছিল। মুনাফিকরা পেছনে রয়ে গেল আর বিপদ দেখে খুশি প্রকাশ করল। এই গায়েব আগে তোমাদের জানা ছিল না, এখন আল্লাহ মুহাম্মাদ ﷺ ও তাঁর সাহাবীদের তা জানিয়ে দিয়েছেন। আরেকটি মতও তিনি আনেন। কাফিররা যখন জানতে চাইল, ওহী তাদের কাছে কেন এল না, তখন এখানে গায়েব মানে কে নবুওয়াতের যোগ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Some of It, by Revelation",
+          "bn": "তার কিছু অংশ, ওহীর মাধ্যমে"
+        },
+        "p": [
+          {
+            "en": "Wa lakinna Allaha yajtabi min rusulihi man yasha': but Allah chooses of His messengers whom He wills. Mujahid, in at-Tabari, glosses the verb as He makes them purely His own. Ibn Kathir and al-Baghawi both set the clause beside 72:26 and 72:27: Knower of the unseen, He does not disclose His unseen to anyone, except a messenger He has approved. Al-Baghawi gives the reason for the denial, that no one knows the unseen but Him, and says the chosen messenger is shown some of the knowledge of the unseen. Al-Muyassar says the same: some of it, by revelation.",
+            "bn": "ওয়া লাকিন্নাল্লাহা ইয়াজতাবী মিন রুসুলিহী মাই ইয়াশা: তবে আল্লাহ তাঁর রাসূলদের মধ্যে যাকে চান বেছে নেন। তাবারীর বর্ণনায় মুজাহিদ ক্রিয়াটির অর্থ করেন: তিনি তাদের একান্ত নিজের জন্য খাঁটি করে নেন। ইবন কাসীর ও বাগাভী দুজনেই এ অংশের পাশে রাখেন ৭২:২৬ ও ৭২:২৭: তিনি গায়েবের জ্ঞানী, নিজের গায়েব কারও কাছে প্রকাশ করেন না, তবে যে রাসূলকে তিনি পছন্দ করেন তার কথা আলাদা। বাগাভী অস্বীকারের কারণও বলেন: তিনি ছাড়া কেউ গায়েব জানে না। আর বাছাই করা রাসূলকে দেখানো হয় গায়েবের জ্ঞানের কিছু অংশ। মুয়াসসারও একই কথা বলে: তার কিছু অংশ, ওহীর মাধ্যমে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the line with care. Allah does not inform everyone of the unseen through revelation, but He does inform His chosen prophets. Let no one conclude from this, it says, that prophets share in the knowledge of the unseen that belongs to Allah alone, for that knowledge has two marks: it is His own and not given by anyone, and it takes in everything, past and future, down to the smallest particle. What prophets receive by revelation the Qur'an calls anba' al-ghayb, news of the unseen, as in 11:49.",
+            "bn": "মাআরিফুল কুরআন সীমারেখাটা সাবধানে টানে। আল্লাহ ওহীর মাধ্যমে সবাইকে গায়েবের খবর দেন না, তবে তাঁর বাছাই করা নবীদের দেন। এ থেকে কেউ যেন তাড়াহুড়ো করে না ভাবে যে নবীরাও সেই গায়েবের জ্ঞানে শরিক, যা কেবল আল্লাহর। কারণ সে জ্ঞানের দুটি বৈশিষ্ট্য। তা তাঁর নিজের, কারও দেওয়া নয়। আর তা সবকিছু বেষ্টন করে, অতীত ও ভবিষ্যৎ, ক্ষুদ্রতম কণা পর্যন্ত। নবীরা ওহীর মাধ্যমে যা পান, কুরআন তাকে বলে আম্বাউল গাইব, গায়েবের খবর, যেমন ১১:৪৯ আয়াতে।"
+          },
+          {
+            "en": "The fetched commentaries thus hold two things together: messengers receive what Allah wills of the unseen, by revelation and in part, while the knowledge of the unseen itself remains His. Al-Bukhari records, in a narration no commentary here attaches to this verse, from 'Abdullah ibn 'Umar that the Messenger of Allah ﷺ said: The keys of the unseen are five: Allah has knowledge of the Hour, He sends down the rain, He knows what is in the wombs, no soul knows what it will earn tomorrow, and no soul knows in what land it will die; Allah is All-Knowing, All-Aware (Bukhari 4627).",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, সেগুলো তাই দুটি কথা একসঙ্গে ধরে রাখে। আল্লাহ গায়েবের যতটুকু চান, রাসূলরা ততটুকু পান, ওহীর মাধ্যমে, আংশিকভাবে। আর গায়েবের জ্ঞান নিজে থাকে কেবল তাঁরই। বুখারী আবদুল্লাহ ইবন উমার (রাঃ) থেকে একটি বর্ণনা এনেছেন, যা এখানকার কোনো তাফসীর এ আয়াতের সঙ্গে যুক্ত করেনি। রাসূলুল্লাহ ﷺ বলেছেন: গায়েবের চাবি পাঁচটি। কিয়ামতের জ্ঞান আল্লাহর কাছে, তিনিই বৃষ্টি নামান, তিনি জানেন গর্ভে কী আছে, কেউ জানে না আগামীকাল সে কী উপার্জন করবে, আর কেউ জানে না কোন মাটিতে তার মৃত্যু হবে। নিশ্চয়ই আল্লাহ সর্বজ্ঞ, সব খবর রাখেন (বুখারী ৪৬২৭)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Assent Instead of Peering",
+          "bn": "উঁকি নয়, বিশ্বাস"
+        },
+        "p": [
+          {
+            "en": "Fa-aminu billahi wa rusulih: so believe in Allah and His messengers. Al-Qurtubi hears in the so a redirection. Do not busy yourselves with what does not concern you, he paraphrases; busy yourselves with what does, which is faith. Your duty is to assent, not to crane after a view of the unseen. Ibn Kathir gives the command its practical form: obey Allah and His Messenger and follow him in what he has laid down for you. At-Tabari, on the next clause, names whom: the messengers I chose and informed about the hypocrites among you.",
+            "bn": "ফাআমিনূ বিল্লাহি ওয়া রুসুলিহ: কাজেই আল্লাহ ও তাঁর রাসূলদের প্রতি ঈমান আনো। কুরতুবী এই 'কাজেই' শব্দে দিক বদলের ইঙ্গিত শোনেন। তাঁর ভাষ্যে কথাটা এমন: যা তোমাদের কাজের নয়, তাতে ব্যস্ত হয়ো না। যা কাজের, তাতে ব্যস্ত হও, আর সেটা হলো ঈমান। তোমাদের দায়িত্ব সত্য বলে মেনে নেওয়া, গায়েবের দিকে গলা বাড়িয়ে উঁকি দেওয়া নয়। ইবন কাসীর হুকুমটিকে বাস্তব রূপ দেন: আল্লাহ ও তাঁর রাসূলের আনুগত্য করো, তিনি যে বিধান দিয়েছেন তাতে তাঁকে অনুসরণ করো। পরের অংশের ব্যাখ্যায় তাবারী বলে দেন কাদের মানতে হবে: যে রাসূলদের আমি বেছে নিয়েছি আর তোমাদের মধ্যকার মুনাফিকদের খবর জানিয়েছি, তাঁদের।"
+          },
+          {
+            "en": "Then wa in tu'minu wa tattaqu fa-lakum ajrun 'azim: if you believe and keep your duty, yours is a great reward. At-Tabari reads the taqwa as obeying your Lord in what your Prophet Muhammad ﷺ commanded and forbade. Ibn Ishaq, in at-Tabari, glosses it as returning and repenting, a gloss that speaks to anyone who has something to return from. Al-Qurtubi names the great reward plainly: Paradise. The verse that began with exposure ends with an offer.",
+            "bn": "তারপর ওয়া ইন তু'মিনূ ওয়া তাত্তাকূ ফালাকুম আজরুন আযীম: যদি ঈমান আনো আর তাকওয়া অবলম্বন করো, তোমাদের জন্য আছে বড় প্রতিদান। তাবারীর কাছে তাকওয়া মানে তোমাদের নবী মুহাম্মাদ ﷺ যা আদেশ করেছেন আর যা নিষেধ করেছেন, তাতে রবের আনুগত্য করা। তাবারীর বর্ণনায় ইবন ইসহাক এর অর্থ করেন ফিরে আসা ও তওবা করা। এ ব্যাখ্যা কথা বলে তাদের সবার সঙ্গে, যাদের কোথাও থেকে ফিরে আসার আছে। কুরতুবী বড় প্রতিদানের নাম সোজাসুজি বলে দেন: জান্নাত। যে আয়াত শুরু হয়েছিল মুখোশ খুলে দেওয়া দিয়ে, তা শেষ হয় এক আমন্ত্রণে।"
+          }
+        ]
+      }
+    ]
+  },
   "3:180": {
     "sections": [
       {

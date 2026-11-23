@@ -30763,6 +30763,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give every heir, spouse and sibling alike, the share Allah fixed, settle your debts, and let your last will help others without harming those who inherit.",
     "lessonBn": "স্বামী-স্ত্রী থেকে ভাইবোন পর্যন্ত প্রত্যেক ওয়ারিশকে আল্লাহর ঠিক করা অংশ দিন, ঋণ শোধ করুন, আর আপনার শেষ ওসিয়ত যেন অন্যের উপকার করে, ওয়ারিশদের ক্ষতি না করে।"
+  },
+  "3:179": {
+    "reflectionEn": "The verse opens with something Allah will not do: leave the believers as they are, the sincere and the pretender standing in one row, neither known from the other. A hard day comes, and it sorts them. Then a second refusal: He will not open the unseen to you, so no one reads hearts by looking at faces. Of His messengers He chooses whom He wills. What is left for the rest of us is plain: believe in Allah and His messengers, keep your duty to Him, and a great reward is waiting. I cannot sort anyone else's heart, and I am not asked to. But when a hard day comes to me, it is sorting mine.",
+    "reflectionBn": "আয়াতটি শুরু হয় এমন এক কাজ দিয়ে, যা আল্লাহ করবেন না। মুমিনদের তিনি আজকের অবস্থায় ফেলে রাখবেন না, যেখানে খাঁটি মানুষ আর ভানকারী একই কাতারে দাঁড়িয়ে, কাউকে আলাদা করে চেনা যায় না। একটা কঠিন দিন আসে, আর সে দিনই তাদের আলাদা করে দেয়। তারপর দ্বিতীয় অস্বীকার: গায়েবের পর্দা তিনি তোমাদের সামনে খুলবেন না। কাজেই মুখ দেখে কেউ মনের খবর পড়তে পারে না। রাসূলদের মধ্য থেকে তিনি যাকে চান বেছে নেন। বাকি আমাদের কাজ সোজা: আল্লাহ ও তাঁর রাসূলদের প্রতি ঈমান আনা, তাঁকে ভয় করে চলা। তাহলে বড় প্রতিদান অপেক্ষা করছে। অন্যের অন্তর বাছাই করার সাধ্য আমার নেই, সে দায়িত্বও আমাকে দেওয়া হয়নি। কিন্তু কঠিন দিন যখন আমার দরজায় আসে, তখন বাছাই হয় আমারই অন্তর।",
+    "pointsEn": [
+      "When the last hard thing happened to me, what did it show about where my heart actually stands?",
+      "Do I treat difficulty as a sign that Allah has turned away from me, or as a day that shows what was already there?",
+      "Have I ever claimed to know what was in someone's heart, when the verse says the unseen is not opened to me?",
+      "Is my curiosity about what is hidden pulling me away from what I have been asked to do: believe and keep my duty?",
+      "What would a sincere believer do in my place this week that a pretender would quietly avoid?"
+    ],
+    "pointsBn": [
+      "শেষ যে কষ্টটা আমার উপর এসেছিল, তাতে আমার অন্তর আসলে কোথায় দাঁড়িয়ে, সেটা কী ধরা পড়ল?",
+      "কষ্টকে কি আমি ধরে নিই আল্লাহ আমার দিক থেকে মুখ ফিরিয়েছেন বলে, নাকি এমন এক দিন হিসেবে দেখি যা ভেতরে আগে থেকেই যা ছিল তা সামনে আনে?",
+      "আয়াত বলছে গায়েব আমার সামনে খোলা হয় না। তবু কি আমি কখনো দাবি করেছি যে অমুকের মনে কী আছে তা আমি জানি?",
+      "যা লুকানো, তা জানার কৌতূহল কি আমাকে আসল কাজ থেকে সরিয়ে নিচ্ছে? সে কাজ তো ঈমান আনা আর তাকওয়া নিয়ে চলা।",
+      "এ সপ্তাহে আমার জায়গায় একজন খাঁটি মুমিন কী করত, যা একজন ভানকারী চুপচাপ এড়িয়ে যেত?"
+    ],
+    "lessonEn": "Take each hardship as Allah showing what is in your own heart, leave the hidden hearts of others to Him, and hold to belief and duty.",
+    "lessonBn": "প্রতিটি কষ্টকে দেখুন আপনার নিজের অন্তরে কী আছে তা আল্লাহর দেখিয়ে দেওয়া হিসেবে। অন্যের লুকানো অন্তর তাঁর হাতে ছেড়ে দিন, আর ঈমান ও তাকওয়া আঁকড়ে থাকুন।"
   }
 };
 
