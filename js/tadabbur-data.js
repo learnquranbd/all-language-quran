@@ -30863,6 +30863,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Pretending to faith ends lower than open refusal. Let your outside match your inside, leave other people's hearts to Allah, and keep the door of repentance in view.",
     "lessonBn": "ঈমানের ভান শেষ হয় খোলাখুলি অস্বীকারেরও নিচে। আপনার বাইরেটা ভেতরের সঙ্গে মিলিয়ে নিন, অন্যের অন্তরের বিচার আল্লাহর হাতে ছেড়ে দিন, আর তওবার দরজার কথা মনে রাখুন।"
+  },
+  "4:134": {
+    "reflectionEn": "The verse begins where many of us actually are: wanting the reward of this world. It does not scold the wish or pretend it is absent. It answers it, and the answer is larger than the wish: with Allah is the reward of this world and the Hereafter. Whoever aims only at the nearer good has knocked at the right door and asked for too little. The same hand holds both, so the question is not whether to want, but how far the wanting reaches and to whom it is brought. Then come two names, Hearing and Seeing. He hears what I ask for, and He sees what I am really after when I work, give or pray.",
+    "reflectionBn": "আয়াতটি শুরু হয় ঠিক সেখান থেকে, যেখানে আমরা অনেকেই দাঁড়িয়ে আছি: দুনিয়ার প্রতিদান পাওয়ার ইচ্ছা। এ ইচ্ছার জন্য আয়াত ধমক দেয় না, আবার ইচ্ছাটা নেই বলে ভানও করে না। সে এর জবাব দেয়, আর জবাবটা চাওয়ার চেয়ে বড়: দুনিয়া আর আখিরাত, দুইয়েরই প্রতিদান আল্লাহর কাছে। যে কেবল কাছের কল্যাণটুকু চায়, সে দরজা ঠিকই চিনেছে, কিন্তু চেয়েছে খুব কম। দুটোই একই হাতে। তাই প্রশ্ন এটা নয় যে চাইব কি না। প্রশ্ন হলো, চাওয়াটা কত দূর পৌঁছায়, আর কার কাছে গিয়ে চাই। তারপর আসে দুটি নাম: সর্বশ্রোতা, সর্বদ্রষ্টা। আমি কী চাই, তিনি শোনেন। কাজ, দান বা নামাজের সময় আসলে আমি কী খুঁজি, তাও তিনি দেখেন।",
+    "pointsEn": [
+      "When I picture success this year, does anything in that picture outlast this world?",
+      "Which of my good deeds would I quietly drop if no one noticed them or paid for them?",
+      "Do I bring my worldly needs to Allah in prayer, or only to people and plans?",
+      "When I make du'a, do I ask for both worlds, or has one half of my asking gone silent?",
+      "What would change in tomorrow's work if I remembered that He sees what I am after, not only what I do?"
+    ],
+    "pointsBn": [
+      "এ বছরের সাফল্যের যে ছবি আমি মনে আঁকি, তার কোনো অংশ কি দুনিয়া পেরিয়েও টিকে থাকবে?",
+      "কেউ না দেখলে বা কিছু না দিলে আমার কোন নেক আমলগুলো আমি চুপচাপ ছেড়ে দিতাম?",
+      "দুনিয়ার প্রয়োজনগুলো কি আমি দোয়ায় আল্লাহর কাছে নিয়ে যাই, নাকি শুধু মানুষ আর পরিকল্পনার কাছে?",
+      "দোয়া করার সময় আমি কি দুই জাহানই চাই, নাকি আমার চাওয়ার একটা দিক একেবারে চুপ হয়ে গেছে?",
+      "আমি কী করি শুধু তা নয়, আসলে কী খুঁজি সেটাও তিনি দেখেন, এ কথা মনে থাকলে কালকের কাজে কী বদলাত?"
+    ],
+    "lessonEn": "Do not stop at wanting this world: the One who holds it holds the Hereafter too, so ask Him for both and aim at what lasts.",
+    "lessonBn": "শুধু দুনিয়া চেয়ে থেমে যাবেন না। যিনি দুনিয়ার মালিক, আখিরাতও তাঁরই হাতে। তাই তাঁর কাছে দুটোই চান, আর লক্ষ্য রাখুন যা টিকে থাকে তার দিকে।"
   }
 };
 

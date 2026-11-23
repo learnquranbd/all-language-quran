@@ -5359,6 +5359,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:134": {
+    "sections": [
+      {
+        "h": {
+          "en": "Owned Three Times Over",
+          "bn": "তিনবার মালিকানার ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "The verse closes a short run of declarations. In 4:131 and 4:132 the same sentence comes three times: to Allah belongs whatever is in the heavens and whatever is on the earth. Between the repetitions stands a charge, that those given the Scripture before and the believers now were both instructed to fear Allah, and a reminder that if you disbelieve, He is free of need and praiseworthy. Then 4:133 turns to all people: if He wills, He can take you away and bring others.",
+            "bn": "আয়াতটি এসেছে কয়েকটি ঘোষণার শেষে। ৪:১৩১ ও ৪:১৩২ আয়াতে একই বাক্য তিনবার ফিরে আসে: আসমানে যা আছে আর জমিনে যা আছে, সবই আল্লাহর। এর মাঝখানে আছে একটি নির্দেশ। আগের কিতাবধারীদের যেমন আল্লাহকে ভয় করতে বলা হয়েছিল, এখনকার মুমিনদেরও তেমনি বলা হয়েছে। সঙ্গে স্মরণ করিয়ে দেওয়া হয়েছে, তোমরা কুফরি করলেও তিনি অভাবমুক্ত, প্রশংসিত। তারপর ৪:১৩৩ আয়াত সব মানুষকে ডেকে বলে: তিনি চাইলে তোমাদের সরিয়ে দিয়ে অন্যদের নিয়ে আসতে পারেন।"
+          },
+          {
+            "en": "After ownership and replaceability, 4:134 speaks to a motive rather than setting a rule. The passage before it dealt with marriage, settlement and the soul's grasping in 4:128 to 4:130, and 4:135 will move on to standing firm for justice. Between them, this verse of fourteen Arabic words asks the reader what he is reaching for. The order matters: the Owner of everything has just been described, so the reply that follows is not a promise from someone who might run short.",
+            "bn": "মালিকানা আর বদলে দেওয়ার কথার পর ৪:১৩৪ আয়াত কোনো বিধান দেয় না, কথা বলে মানুষের উদ্দেশ্য নিয়ে। এর আগে ৪:১২৮ থেকে ৪:১৩০ আয়াতে ছিল দাম্পত্য, আপোস আর মনের কৃপণতার আলোচনা। পরে ৪:১৩৫ আয়াত যাবে ন্যায়ের উপর অটল থাকার কথায়। এ দুইয়ের মাঝে আরবিতে মাত্র চৌদ্দ শব্দের এই আয়াত পাঠককে জিজ্ঞেস করে, সে আসলে কী ধরতে চায়। ক্রমটাও খেয়াল করার মতো। যিনি সবকিছুর মালিক, তাঁর পরিচয় এইমাত্র দেওয়া হলো। তাই পরের উত্তরটা এমন কারও প্রতিশ্রুতি নয়, যাঁর ভান্ডারে টান পড়তে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reply Wider Than the Wish",
+          "bn": "চাওয়ার চেয়ে বড় উত্তর"
+        },
+        "p": [
+          {
+            "en": "Man kana yuridu thawaba ad-dunya: whoever desires the reward of this world. The sentence is built as a condition, and a reader expects its second half to say what such a person will get. Instead it says where the reward is kept: fa-'inda Allahi thawabu ad-dunya wa-l-akhirah, then with Allah is the reward of this world and the Hereafter. The reply widens the frame. The person asked for one thing, and he is told that the store which holds it holds a second thing as well.",
+            "bn": "মান কানা ইউরীদু সাওয়াবাদ দুনইয়া: যে দুনিয়ার প্রতিদান চায়। বাক্যটি শর্তের গড়নে। পাঠক তাই আশা করে, পরের অংশে বলা হবে এমন লোক কী পাবে। কিন্তু আয়াত বলে দেয়, প্রতিদান কোথায় রাখা আছে: ফা-ইনদাল্লাহি সাওয়াবুদ দুনইয়া ওয়াল আখিরাহ, তবে দুনিয়া ও আখিরাতের প্রতিদান আল্লাহর কাছে। উত্তরটা ছবির পরিসর বাড়িয়ে দেয়। লোকটি চেয়েছিল একটা জিনিস। তাকে জানানো হলো, যে ভান্ডারে সেটা আছে, সেখানে আরেকটা জিনিসও আছে।"
+          },
+          {
+            "en": "The Muyassar draws out where the reply points. It reads the address as being to you, O people, and glosses the wish as desiring this world's reward while turning away from the Hereafter. Then it adds one word to the verse's phrase: with Allah alone is the reward of both, so let him seek the good of both worlds from Allah alone, since He is the One who owns them. On this reading the verse corrects two things at once: how narrow the aim is, and to whom the asking goes.",
+            "bn": "উত্তরটা কোন দিকে ইশারা করছে, মুয়াসসার তা খুলে দেখায়। তার পাঠে সম্বোধনটা হে মানুষ, তোমাদের প্রতি। আর ইচ্ছাটার ব্যাখ্যা: আখিরাত থেকে মুখ ফিরিয়ে দুনিয়ার প্রতিদান চাওয়া। তারপর আয়াতের কথার সঙ্গে সে একটি শব্দ জুড়ে দেয়: দুইয়েরই প্রতিদান কেবল আল্লাহর কাছে। কাজেই দুই জাহানের কল্যাণ সে যেন শুধু আল্লাহর কাছেই চায়, কারণ দুটোর মালিক তিনিই। এ পাঠে আয়াতটি একসঙ্গে দুটো জিনিস শুধরে দেয়। লক্ষ্যটা কত সরু, আর চাওয়াটা কার কাছে যাচ্ছে।"
+          },
+          {
+            "en": "Ibn Kathir hears the same breadth and turns it into a direct address: you whose only concern is this world, know that with Allah is the reward of this world and the Hereafter, and if you ask Him for this and that, He will give to you, enrich you and grant you sufficiency. On his reading the verse does not strip the worldly wish away. It sets that wish inside a larger asking, brought to the One who has both in His hand.",
+            "bn": "ইবন কাসীরও একই বিস্তার শুনতে পান, আর কথাটাকে সরাসরি সম্বোধনে রূপ দেন। হে সেই মানুষ, দুনিয়া ছাড়া যার আর কোনো চিন্তা নেই, জেনে রাখো, দুনিয়া ও আখিরাতের প্রতিদান আল্লাহর কাছে। তুমি যদি তাঁর কাছে এটাও চাও, ওটাও চাও, তিনি তোমাকে দেবেন, অভাবমুক্ত করবেন, যথেষ্ট পরিমাণে দেবেন। তাঁর পাঠে আয়াতটি দুনিয়ার ইচ্ছাকে কেড়ে নেয় না। বরং সে ইচ্ছাকে বসিয়ে দেয় আরও বড় এক চাওয়ার ভেতরে, যা পেশ করা হয় তাঁর কাছে, যাঁর হাতে দুটোই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Wanting Is Meant",
+          "bn": "কার চাওয়ার কথা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the verse far more narrowly. For him, whoever desires refers to the hypocrites who made a show of faith in Muhammad ﷺ while concealing disbelief, and the reward of this world is its passing goods, gained by what they professed with their tongues. Their worldly reward, he says, is the share of spoils such a man obtained when he was present with the Prophet ﷺ at a battle, together with safety for himself, his children and his wealth. Their reward in the Hereafter, he says, is the Fire.",
+            "bn": "তাবারী আয়াতটিকে অনেক সংকীর্ণ অর্থে পড়েন। তাঁর মতে এখানে চাওয়া লোকেরা হলো মুনাফিকরা। ভেতরে কুফরি লুকিয়ে রেখে তারা মুহাম্মাদ ﷺ-এর প্রতি ঈমানের ভান করত। আর দুনিয়ার প্রতিদান মানে দুনিয়ার ক্ষণস্থায়ী সামগ্রী, যা তারা পেত মুখে ঈমান প্রকাশ করার বিনিময়ে। তাবারী বলেন, এমন লোক নবী ﷺ-এর সঙ্গে কোনো যুদ্ধে হাজির থাকলে গনিমতের যে অংশ পেত, সেটাই তার দুনিয়ার প্রতিদান। সঙ্গে নিজের, সন্তানদের আর সম্পদের নিরাপত্তা। আর আখিরাতে তার প্রতিদান, তাবারীর ভাষায়, জাহান্নামের আগুন।"
+          },
+          {
+            "en": "He narrows it further. At-Tabari says Allah meant those who threw themselves into the affair of Banu Ubayriq, the people described in 4:107 and 4:108 as betraying themselves and hiding from people but not from Allah, and anyone like them in their deeds and hypocrisy. He then sets 11:15 and 11:16 beside the verse: whoever desires the life of this world and its adornment is paid in full for his deeds in it, and has nothing in the Hereafter but the Fire.",
+            "bn": "তিনি পরিধিটা আরও ছোট করেন। তাবারী বলেন, আল্লাহ এখানে বুঝিয়েছেন তাদের, যারা বনু উবাইরিকের ঘটনায় ঝাঁপিয়ে পড়েছিল। ৪:১০৭ ও ৪:১০৮ আয়াতে তাদের কথাই আছে: তারা নিজেদের সঙ্গে খিয়ানত করে, মানুষের কাছ থেকে লুকায়, কিন্তু আল্লাহর কাছ থেকে লুকাতে পারে না। আমলে আর নিফাকে যারা তাদের মতো, তারাও এর মধ্যে পড়ে। তারপর তিনি পাশে রাখেন ১১:১৫ ও ১১:১৬ আয়াত: যে দুনিয়ার জীবন আর তার চাকচিক্য চায়, দুনিয়াতেই তার আমলের পুরো বদলা দেওয়া হয়, আর আখিরাতে আগুন ছাড়া তার কিছু নেই।"
+          },
+          {
+            "en": "Al-Qurtubi notes that reading the verse about the hypocrites and the disbelievers is at-Tabari's choice. He then adds a report introduced only with it is narrated, with no name or chain: that the idolaters did not believe in the Resurrection and sought nearness to Allah only so that He would widen their worldly provision and lift its hardships, and that the verse came down about this. It is not an established occasion of revelation, and nothing here is built on it. It shows only that commentators heard more than one audience in the verse.",
+            "bn": "কুরতুবী উল্লেখ করেন, আয়াতটিকে মুনাফিক ও কাফিরদের সম্পর্কে পড়া তাবারীর পছন্দ। এরপর তিনি একটি বর্ণনা আনেন শুধু 'বর্ণিত আছে' বলে, কোনো নাম বা সনদ ছাড়া। তাতে আছে, মুশরিকরা কিয়ামতে বিশ্বাস করত না। তারা আল্লাহর নৈকট্য চাইত কেবল এজন্য যে তিনি দুনিয়ায় তাদের রিজিক বাড়িয়ে দেবেন আর কষ্ট সরিয়ে দেবেন, আর আয়াতটি এ নিয়েই নাজিল হয়েছিল। এটি প্রতিষ্ঠিত শানে নুজুল নয়, তাই এখানে এর উপর কিছুই দাঁড় করানো হয়নি। এটুকুই দেখা যায় যে তাফসীরকারেরা আয়াতে একাধিক শ্রোতার কথা শুনেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reward, or Its Opposite",
+          "bn": "পুরস্কার, নাকি তার উল্টো"
+        },
+        "p": [
+          {
+            "en": "The two readings part over one phrase. On at-Tabari's reading, the reward of the Hereafter that is with Allah for such a person is punishment and exemplary penalty: the Fire is what he has earned there. Ibn Kathir reports this view under Ibn Jarir's name and says there is a difficulty in it. In his reading, with Allah is the reward of this world and the Hereafter plainly speaks of good present in both worlds, both of them in His hand. He grants that 11:15 and 11:16 carry the harsher meaning, but not that 4:134 is their twin.",
+            "bn": "একটি বাক্যাংশে এসে দুই পাঠ আলাদা হয়ে যায়। তাবারীর পাঠে এমন লোকের জন্য আল্লাহর কাছে আখিরাতের যে প্রতিদান, তা হলো শাস্তি আর দৃষ্টান্তমূলক সাজা। সেখানে তার প্রাপ্য আগুন। ইবন কাসীর মতটি ইবন জারীরের নামে উল্লেখ করেন, তারপর বলেন, এতে আপত্তির জায়গা আছে। তাঁর পাঠে 'দুনিয়া ও আখিরাতের প্রতিদান আল্লাহর কাছে' কথাটির সোজা অর্থ হলো দুই জাহানেই কল্যাণ আছে, আর দুটোই তাঁর হাতে। ১১:১৫ ও ১১:১৬ আয়াতের কঠোর অর্থ তিনি মেনে নেন। কিন্তু ৪:১৩৪ যে ওই আয়াতেরই জোড়া, তা মানেন না।"
+          },
+          {
+            "en": "From there Ibn Kathir draws a counsel: let no one of short aspiration confine his effort to this world alone. Let his aim rise to the highest goals in this world and the next, for all of it returns to the One in whose hand are harm and benefit. Each reading rests on something real. At-Tabari reads the verse alongside the hypocrites named in the passage before it; Ibn Kathir reads it by its plain wording and the verses he places beside it. Both are kept here, and neither is chosen.",
+            "bn": "এখান থেকে ইবন কাসীর একটি উপদেশ টানেন। যার হিম্মত ছোট, সে যেন শুধু দুনিয়ার জন্য চেষ্টা করে থেমে না যায়। তার লক্ষ্য উঠুক দুনিয়া ও আখিরাতের সবচেয়ে উঁচু অর্জনের দিকে। কারণ সবকিছু ফিরে যায় তাঁর কাছে, ক্ষতি আর উপকার যাঁর হাতে। দুই পাঠেরই শক্ত ভিত্তি আছে। তাবারী আয়াতটি পড়েন আগের অংশে বর্ণিত মুনাফিকদের পাশে রেখে। ইবন কাসীর পড়েন এর সোজা শব্দ আর পাশে রাখা আয়াতগুলোর আলোয়। এখানে দুটোই রাখা হলো, কোনোটিকে বেছে নেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Aims, Two Harvests",
+          "bn": "দুই লক্ষ্য, দুই ফসল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi read the verse as a statement about deeds and what drives them. In al-Qurtubi's words, whoever does what Allah has made obligatory, seeking the Hereafter, is given that in the Hereafter; whoever works seeking this world is given what was written for him in it, and has no reward in the Hereafter, because he worked for other than Allah. He supports it with the close of 42:20, and he will have no share in the Hereafter, and with 11:16.",
+            "bn": "কুরতুবী ও বাগাভী আয়াতটি পড়েন আমল আর তার পেছনের উদ্দেশ্য নিয়ে একটি কথা হিসেবে। কুরতুবীর ভাষায়, আল্লাহ যা ফরজ করেছেন, যে তা আখিরাতের আশায় পালন করে, আল্লাহ তাকে আখিরাতে তা দেন। আর যে দুনিয়ার আশায় আমল করে, দুনিয়ায় তার জন্য যা লেখা আছে তা সে পায়, আখিরাতে তার কোনো প্রতিদান নেই। কারণ সে আমল করেছে আল্লাহ ছাড়া অন্যের জন্য। এর সমর্থনে তিনি আনেন ৪২:২০ আয়াতের শেষাংশ, আখিরাতে তার কোনো অংশ নেই, আর ১১:১৬ আয়াত।"
+          },
+          {
+            "en": "Al-Baghawi's wording adds the other side. Whoever wants some worldly gain by his deed, and does not want Allah by it, is given of that gain, or has turned away from him in this world what Allah wills, and has no reward in the Hereafter. Whoever wants the reward of the Hereafter by his deed is given of this world ma ahabba, what is loved, and is repaid with Paradise in the Hereafter. On this reading whoever aims higher does not forfeit the lower; it reaches him along the way.",
+            "bn": "বাগাভীর কথায় অন্য দিকটাও আসে। যে নিজের আমল দিয়ে দুনিয়ার কোনো লাভ চায়, আল্লাহকে চায় না, তাকে সেই লাভের কিছু দেওয়া হয়। অথবা দুনিয়ায় আল্লাহ যা চান, তা থেকে তাকে রক্ষা করা হয়। আখিরাতে তার কোনো প্রতিদান নেই। আর যে নিজের আমল দিয়ে আখিরাতের প্রতিদান চায়, তাকে দুনিয়া থেকে দেওয়া হয় 'মা আহাব্বা', যা প্রিয়। আর আখিরাতে তার বদলা জান্নাত। এ পাঠে যে উঁচু লক্ষ্য রাখে, নিচেরটা সে হারায় না। পথ চলতে চলতেই তা তার কাছে পৌঁছে যায়।"
+          },
+          {
+            "en": "As-Sa'di adds a sober note. The one whose aim stops at this world's reward, with no will toward the Hereafter, has shortened his effort and his sight, and even so receives of this world only what Allah has written for him. Ibn Kathir sets the verse beside others that divide people by their aim: 2:200 to 2:202, where some ask only for this world and others for good in both; 42:20, where the harvest of the Hereafter is increased; and 17:18 to 17:21, where Allah extends His giving to both groups.",
+            "bn": "সা'দী একটি সংযত কথা যোগ করেন। যার লক্ষ্য দুনিয়ার প্রতিদানে গিয়েই থেমে যায়, আখিরাতের কোনো ইচ্ছা যার নেই, সে নিজের চেষ্টা আর দৃষ্টি দুটোই ছোট করে ফেলেছে। তারপরও দুনিয়া থেকে সে ততটুকুই পায়, যতটুকু আল্লাহ তার জন্য লিখে রেখেছেন। লক্ষ্য অনুযায়ী মানুষকে ভাগ করে এমন আরও কিছু আয়াত ইবন কাসীর পাশে রাখেন। ২:২০০ থেকে ২:২০২ আয়াতে কেউ চায় শুধু দুনিয়া, কেউ চায় দুই জাহানের কল্যাণ। ৪২:২০ আয়াতে আখিরাতের ফসল বাড়িয়ে দেওয়ার কথা। আর ১৭:১৮ থেকে ১৭:২১ আয়াতে আল্লাহ দুই দলকেই নিজের দান থেকে দিতে থাকেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Gets What He Intended",
+          "bn": "যার যা নিয়ত, তার তা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith to it. A well-known narration, not spoken about this verse, states the same principle in general terms. Al-Bukhari places it first in his Sahih (Bukhari 1), from 'Umar ibn al-Khattab, who said he heard Allah's Messenger ﷺ say: The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সুপরিচিত বর্ণনা, যা এ আয়াত সম্পর্কে বলা হয়নি, একই মূলনীতি সাধারণভাবে বলে দেয়। বুখারী তাঁর সহীহ গ্রন্থ শুরু করেছেন এটি দিয়ে (বুখারী ১)। উমর ইবনুল খাত্তাব (রাঃ) বলেন, তিনি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছেন: আমলের প্রতিদান নিয়তের উপর নির্ভর করে, আর প্রত্যেকে তা-ই পাবে যার নিয়ত সে করেছে। কাজেই যে দুনিয়ার কোনো লাভের জন্য কিংবা কোনো নারীকে বিয়ে করার জন্য হিজরত করল, তার হিজরত সেদিকেই, যার জন্য সে হিজরত করেছে।"
+          },
+          {
+            "en": "The narration and the verse meet at one point. In both, a deed carries the aim behind it: a migration made for a worldly gain is counted as a migration for that gain. The narration does not call the gain unlawful, and the verse does not deny that a worldly reward is real. What both refuse is the idea that the outward act alone settles its worth. Two people can do the same thing and come away with different returns, because each was reaching for something different.",
+            "bn": "বর্ণনাটি আর আয়াতটি এক জায়গায় এসে মেলে। দুটোতেই আমলের সঙ্গে জুড়ে থাকে তার পেছনের উদ্দেশ্য। দুনিয়ার লাভের জন্য করা হিজরত সেই লাভের হিজরত হিসেবেই গণ্য হয়। বর্ণনাটি সে লাভকে হারাম বলে না, আর আয়াতও দুনিয়ার প্রতিদানকে অস্বীকার করে না। দুটোই যা মানে না, তা হলো এই ধারণা যে বাইরের কাজটুকুই তার মূল্য ঠিক করে দেয়। দুজন মানুষ একই কাজ করেও আলাদা ফল নিয়ে ফিরতে পারে, কারণ দুজন হাত বাড়িয়েছিল আলাদা জিনিসের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard, Seen, and Weighed",
+          "bn": "তিনি শোনেন, তিনি দেখেন"
+        },
+        "p": [
+          {
+            "en": "The verse ends wa-kana Allahu sami'an basira: and ever is Allah Hearing and Seeing. Each commentator reads the pair through his reading of the verse. For at-Tabari, He hears what these hypocrites say when they meet the believers, we believe, and He sees what they keep folded inside, the deceit and rancour in their chests that they do not show. For al-Qurtubi, He hears what they say and sees what they conceal. The Muyassar widens it: He hears His servants' words and sees their deeds and intentions, and will repay them.",
+            "bn": "আয়াত শেষ হয় ওয়া কানাল্লাহু সামীআন বাসীরা দিয়ে: আর আল্লাহ সর্বশ্রোতা, সর্বদ্রষ্টা। প্রত্যেক তাফসীরকার এ দুটি নাম পড়েন আয়াতের নিজস্ব পাঠের আলোয়। তাবারীর মতে, মুমিনদের সঙ্গে দেখা হলে এই মুনাফিকরা যে বলে 'আমরা ঈমান এনেছি', তিনি তা শোনেন। আর তাদের বুকের ভেতরে ভাঁজ করে রাখা যে প্রতারণা আর বিদ্বেষ তারা প্রকাশ করে না, তিনি তা দেখেন। কুরতুবীর মতে, তারা যা বলে তিনি শোনেন, যা গোপন রাখে তা দেখেন। মুয়াসসার পরিধি বাড়ায়: তিনি বান্দাদের কথা শোনেন, তাদের আমল আর নিয়ত দেখেন, আর এর বদলা দেবেন।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di tie the ending to the way Allah gives. Ibn Kathir says He has divided happiness and misery in both worlds among people, and was just among them according to what He knew of them, who deserves this and who deserves that; that, he says, is why the verse closes as it does. As-Sa'di places His wisdom in granting success to whom He grants it and leaving whom He leaves, and in His giving and His withholding. On both readings the two names explain why the portions fall as they do.",
+            "bn": "ইবন কাসীর ও সা'দী শেষ অংশটিকে জুড়ে দেন আল্লাহর দেওয়ার ধরনের সঙ্গে। ইবন কাসীর বলেন, দুই জাহানের সৌভাগ্য আর দুর্ভাগ্য তিনি মানুষের মধ্যে ভাগ করে দিয়েছেন। কে কোনটার যোগ্য, তাদের সম্পর্কে নিজের জ্ঞান অনুযায়ী তিনি ইনসাফ করেছেন। তাঁর মতে এজন্যই আয়াত এভাবে শেষ হয়েছে। সা'দীর মতে তাঁর হিকমত আছে কাউকে তাওফিক দেওয়ায়, কাউকে নিজের অবস্থায় ছেড়ে দেওয়ায়, তাঁর দেওয়ায় আর না দেওয়ায়। দুই পাঠেই নাম দুটি বুঝিয়ে দেয়, প্রত্যেকের ভাগ যেভাবে পড়ে, কেন সেভাবে পড়ে।"
+          },
+          {
+            "en": "One caution follows from at-Tabari's reading. It describes hypocrites of the Prophet's ﷺ own time, whose hidden state Allah knew. It licenses nothing against any living person or community, and gives no one the right to call another a hypocrite or to pronounce on what someone else was really after. The verse closes on the very reason that judgement is not ours to make: the One who hears and sees is Allah. The mirror it holds up is for the reader's own aim.",
+            "bn": "তাবারীর পাঠ থেকে একটি সতর্কতা আসে। আয়াতটি বর্ণনা করে নবী ﷺ-এর নিজের সময়ের মুনাফিকদের কথা, যাদের গোপন অবস্থা আল্লাহ জানতেন। আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কাউকে মুনাফিক বলার, কিংবা অন্য কেউ আসলে কী চাইছিল তা নিয়ে রায় দেওয়ার অধিকারও কাউকে দেয় না। আয়াত শেষই হয় সেই কারণ দিয়ে, যে কারণে এ রায় আমাদের দেওয়ার নয়: শোনেন আর দেখেন আল্লাহ। আয়াতের আয়না ধরা আছে পাঠকের নিজের লক্ষ্যের সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for Both Worlds",
+          "bn": "দুই জাহানই চেয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di turns the verse into a practice. Since He owns everything and both rewards are with Him, let both be sought from Him, and His help sought for both. What is with Him, he says, is reached only through obeying Him, and neither religious nor worldly matters are attained except by asking His help and by constant need of Him. The worldly wish is not condemned in this. It is redirected: brought to Allah, asked of Him, and pursued in obedience, rather than chased as though no one owned it.",
+            "bn": "সা'দী আয়াতটিকে আমলে রূপ দেন। সবকিছুর মালিক যেহেতু তিনি, আর দুই প্রতিদানই তাঁর কাছে, তাই দুটোই তাঁর কাছে চাওয়া হোক, আর দুটোর জন্যই তাঁর সাহায্য চাওয়া হোক। তিনি বলেন, তাঁর কাছে যা আছে তা পাওয়া যায় কেবল তাঁর আনুগত্যের পথে। দ্বীনের কাজ হোক বা দুনিয়ার, তাঁর সাহায্য চাওয়া আর সবসময় তাঁর মুখাপেক্ষী থাকা ছাড়া কিছুই হাসিল হয় না। এতে দুনিয়ার ইচ্ছাকে দোষ দেওয়া হয়নি, শুধু তার দিক বদলে দেওয়া হয়েছে। সে ইচ্ছা যায় আল্লাহর কাছে, তাঁর কাছেই চাওয়া হয়, তাঁর আনুগত্যের পথে খোঁজা হয়। যেন মালিকহীন কোনো জিনিসের পেছনে ছোটা নয়।"
+          },
+          {
+            "en": "Ibn Kathir's first parallel supplies the words for that asking. In 2:200 some say only: our Lord, give us in this world, and they have no share in the Hereafter. In 2:201 others say: our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire. The difference between the two prayers is the difference this verse draws. A reader can test his own prayers against it, and notice whether the second half ever gets said, or only the first.",
+            "bn": "ইবন কাসীরের আনা প্রথম সমান্তরাল আয়াতেই সে চাওয়ার ভাষা পাওয়া যায়। ২:২০০ আয়াতে কেউ কেউ শুধু বলে: হে আমাদের রব, আমাদের দুনিয়াতেই দাও। আখিরাতে তাদের কোনো অংশ নেই। ২:২০১ আয়াতে অন্যরা বলে: হে আমাদের রব, আমাদের দুনিয়াতে কল্যাণ দাও, আখিরাতেও কল্যাণ দাও, আর আগুনের আজাব থেকে বাঁচাও। দুই দোয়ার মধ্যে যে ফারাক, এ আয়াতও সেই ফারাকটাই টানে। পাঠক নিজের দোয়াগুলো এর সঙ্গে মিলিয়ে দেখতে পারেন। দ্বিতীয় অংশটা কখনো মুখে আসে, নাকি শুধু প্রথমটাই?"
+          }
+        ]
+      }
+    ]
+  },
   "4:135": {
     "sections": [
       {
