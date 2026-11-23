@@ -315,6 +315,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "13:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "Shaped Before They Doubted",
+          "bn": "সন্দেহের আগেই গড়া হয়েছিল"
+        },
+        "p": [
+          {
+            "en": "Earlier in the surah, the deniers asked in disbelief whether, once they had become dust, they would really be brought into a new creation (13:5). At-Tabari reads this verse against that disbelief. They denied, he says, that Allah could bring them back as a new creation after they had perished and decayed, yet they did not deny His power to begin them, to shape them in the wombs, and to manage and turn them there from state to state. So the speech begins afresh with that knowledge.",
+            "bn": "সূরার আগের দিকে অস্বীকারকারীরা অবিশ্বাস নিয়ে প্রশ্ন তুলেছিল: মাটি হয়ে যাওয়ার পর সত্যিই কি আমাদের নতুন করে সৃষ্টি করা হবে (১৩:৫)? তাবারী এ আয়াতকে পড়েন ওই অবিশ্বাসের পাশে রেখে। তাঁর ব্যাখ্যায়, মরে পচে যাওয়ার পর আল্লাহ তাদের আবার নতুন সৃষ্টিতে ফিরিয়ে আনতে পারেন, এ কথা তারা মানত না। অথচ শুরুতে তাদের সৃষ্টি করা, গর্ভে তাদের আকৃতি দেওয়া, সেখানে এক অবস্থা থেকে আরেক অবস্থায় তাদের পরিচালনা করা, আল্লাহর এই ক্ষমতা তারা অস্বীকার করত না। তাই কথাটা নতুন করে শুরু হয় ঠিক সেই জ্ঞান দিয়ে।"
+          },
+          {
+            "en": "The verse also follows 13:7, where those who disbelieved asked why no sign had been sent down to him from his Lord, and the Prophet ﷺ was told that he was only a warner. Then 13:9 names Him Knower of the unseen and the witnessed. As-Sa'di frames the verse as Allah telling of the reach of His knowledge, the breadth of His awareness and His encompassing of all things. Ibn Kathir opens in the same way: His knowledge is complete, and nothing is hidden from it.",
+            "bn": "আয়াতটি আসে ১৩:৭-এর পরে। সেখানে কাফিররা প্রশ্ন তুলেছিল, তার রবের পক্ষ থেকে তার কাছে কোনো নিদর্শন নামানো হয় না কেন? আর নবী ﷺ-কে বলা হয়েছিল, আপনি তো শুধু একজন সতর্ককারী। এরপর ১৩:৯ আয়াত তাঁকে বলে গায়েব ও প্রকাশ্যের জ্ঞানী। সা'দীর মতে, আল্লাহ এখানে জানাচ্ছেন তাঁর জ্ঞান কত ব্যাপক, তাঁর অবগতি কত বিস্তৃত, আর সবকিছু কীভাবে তাঁর বেষ্টনীর ভেতরে। ইবন কাসীরও শুরু করেন একইভাবে: তাঁর জ্ঞান পূর্ণ, কোনো কিছুই তাঁর কাছে গোপন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whatever Each Female Bears",
+          "bn": "প্রতিটি গর্ভ যা বহন করে"
+        },
+        "p": [
+          {
+            "en": "Kullu untha, every female, is not confined to women. As-Sa'di says: of the children of Adam and others. Ibn Kathir speaks of what the pregnant ones carry among all female creatures, and at-Tabari relays ad-Dahhak: every female of Allah's creation. What is carried has its hidden sides. Al-Baghawi: male or female, sound in form or lacking, one, two or more. Ibn Kathir: male or female, fair or ugly, wretched or happy, long of life or short. Al-Qurtubi: righteous or corrupt. The Muyassar asks the two questions plainly: is it male or female, wretched or happy?",
+            "bn": "কুল্লু উনসা, প্রতিটি স্ত্রীজাতি। কথাটা শুধু মানুষের মধ্যে সীমাবদ্ধ নয়। সা'দী বলেন, আদমসন্তান ও অন্যরাও এর ভেতরে। ইবন কাসীর বলেন সব স্ত্রীজাতীয় প্রাণীর গর্ভে যা থাকে তার কথা। তাবারী দাহহাকের উক্তি আনেন: আল্লাহর সৃষ্টির প্রতিটি স্ত্রীজাতি। গর্ভে যা থাকে, তারও আছে নানা গোপন দিক। বাগাভী বলেন: ছেলে না মেয়ে, গঠন পূর্ণ না অপূর্ণ, একটি, দুটি না আরও বেশি। ইবন কাসীর বলেন: ছেলে না মেয়ে, সুন্দর না কুৎসিত, হতভাগা না সৌভাগ্যবান, দীর্ঘায়ু না স্বল্পায়ু। কুরতুবী যোগ করেন: সৎ না অসৎ। মুয়াসসার সোজাসুজি দুটি প্রশ্ন রাখে: সে ছেলে না মেয়ে, হতভাগা না সৌভাগ্যবান?"
+          },
+          {
+            "en": "Ibn Kathir then lets other verses speak. Luqman 31:34 says that He knows what is in the wombs. 53:32 says He knew people when they were still hidden in their mothers' bellies, so they should not claim purity for themselves. 39:6 speaks of creation after creation within three darknesses, which Ibn Kathir explains as stage after stage, and 23:12 to 23:14 trace those stages from an extract of clay to another creation. This verse gathers all of that under one verb: He knows.",
+            "bn": "এরপর ইবন কাসীর অন্য আয়াতগুলোকে কথা বলতে দেন। সূরা লুকমানের ৩১:৩৪ বলে, গর্ভে যা আছে তিনি তা জানেন। ৫৩:৩২ বলে, তোমরা যখন মায়ের পেটে লুকানো ভ্রূণ ছিলে, তখনও তিনি তোমাদের জানতেন। তাই নিজেদের পবিত্র বলে দাবি কোরো না। ৩৯:৬ বলে তিনটি অন্ধকারের ভেতরে সৃষ্টির পর সৃষ্টির কথা, ইবন কাসীর যার ব্যাখ্যা দেন ধাপের পর ধাপ বলে। ২৩:১২ থেকে ২৩:১৪ সেই ধাপগুলো দেখায়, মাটির নির্যাস থেকে শুরু করে এক ভিন্ন সৃষ্টি পর্যন্ত। আর এ আয়াত সবকিছু একটি ক্রিয়ার নিচে জড়ো করে: তিনি জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Things Written in the Womb",
+          "bn": "গর্ভেই লেখা চারটি কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir cites Ibn Mas'ud's narration from both Sahihs. In al-Bukhari's wording (3208), Allah's Messenger ﷺ, the true and truly inspired, said: \"(The matter of the Creation of) a human being is put together in the womb of the mother in forty days, and then he becomes a clot of thick blood for a similar period, and then a piece of flesh for a similar period. Then Allah sends an angel who is ordered to write four things. He is ordered to write down his deeds, his livelihood, his (date of) death, and whether he will be blessed or wretched.\" It is general, not tied to this verse.",
+            "bn": "ইবন কাসীর এখানে দুই সহীহ গ্রন্থ থেকে ইবন মাসউদ (রাঃ)-এর বর্ণনা আনেন। বুখারীর ভাষ্যে (৩২০৮), সত্যবাদী ও সত্যায়িত রাসূলুল্লাহ ﷺ বলেছেন: \"তোমাদের প্রত্যেকের সৃষ্টি মায়ের পেটে চল্লিশ দিন ধরে জমা করা হয়। তারপর একই সময় ধরে সে হয় জমাট রক্ত, তারপর একই সময় ধরে হয় এক টুকরো মাংস। তারপর আল্লাহ একজন ফেরেশতা পাঠান, তাঁকে চারটি কথা লেখার হুকুম দেওয়া হয়। তাঁকে বলা হয়: লেখো তার আমল, তার রিজিক, তার আয়ু, আর সে হতভাগা না সৌভাগ্যবান।\" এটি সাধারণ হাদীস, এ আয়াতের সঙ্গে নির্দিষ্টভাবে যুক্ত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Term or Beyond",
+          "bn": "মেয়াদের আগে, না মেয়াদ পেরিয়ে"
+        },
+        "p": [
+          {
+            "en": "Wa-ma taghidu al-arhamu wa-ma tazdad: and what the wombs fall short of, and what they exceed. Ma'arif al-Qur'an notes that the verb taghidu is used for becoming less or drying up, and that set against tazdad, increase, it clearly means decrease here. What lessens and what grows is where the commentators part. The first group reads it as the term. Al-'Awfi reports from Ibn 'Abbas, in at-Tabari and Ibn Kathir, that the falling short is miscarriage, and the exceeding is the womb carrying on until it delivers the child complete.",
+            "bn": "ওয়া মা তাগীদুল আরহামু ওয়া মা তাযদাদ: আর গর্ভ যা কমায় এবং যা বাড়ায়। মাআরিফুল কুরআন বলে, তাগীদু ক্রিয়াটি কমে যাওয়া বা শুকিয়ে যাওয়ার অর্থে আসে। তাযদাদ, অর্থাৎ বাড়া, তার বিপরীতে বসায় এখানে এর অর্থ স্পষ্টতই কমা। কী কমে আর কী বাড়ে, এ প্রশ্নেই তাফসীরকারদের পথ আলাদা হয়ে যায়। প্রথম দল একে মেয়াদের কথা বলে পড়েন। তাবারী ও ইবন কাসীরে আওফী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: কমে যাওয়া মানে গর্ভপাত, আর বেড়ে যাওয়া মানে গর্ভ সন্তানকে পূর্ণ অবস্থায় প্রসব করা পর্যন্ত বহন করে যাওয়া।"
+          },
+          {
+            "en": "He adds the reason: some women carry ten months, some nine, some longer and some shorter, and that is the lessening and the increase Allah mentioned, all of it within His knowledge. Ad-Dahhak's report from Ibn 'Abbas in Ibn Kathir is shorter: what falls short of nine months and what goes beyond them. Qatada, in at-Tabari, has miscarriage for the first and beyond nine months for the second. Al-Hasan al-Basri, as Qatada relays him, called the lessening a woman delivering at six or seven months, or below the usual limit.",
+            "bn": "কারণটাও তিনি বলে দেন: কোনো নারী গর্ভ বহন করেন ১০ মাস, কেউ ৯ মাস, কেউ তার বেশি, কেউ কম। আল্লাহ যে কমা ও বাড়ার কথা বলেছেন, তা এটাই, আর এর সবই তাঁর জ্ঞানের ভেতরে। ইবন কাসীরে দাহহাকের সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনা আরও সংক্ষিপ্ত: ৯ মাসের চেয়ে যা কম আর ৯ মাস ছাড়িয়ে যা বেশি। তাবারীতে কাতাদার মতে প্রথমটি গর্ভপাত, দ্বিতীয়টি ৯ মাসের বেশি। কাতাদা হাসান বসরীর মত উদ্ধৃত করেন: কমে যাওয়া মানে ৬ বা ৭ মাসে প্রসব, কিংবা স্বাভাবিক সীমার আগেই।"
+          },
+          {
+            "en": "Ad-Dahhak gives the widest frame, in at-Tabari: women do not all deliver after one count, for a child may be born at six months and live, or at two years and live, or anywhere between. He said of himself, in the same report, that he was born after two years with his front teeth already grown. The verse itself names no number of months; its point is the knowledge, not the count.",
+            "bn": "সবচেয়ে বড় পরিসর টানেন দাহহাক, তাবারীর বর্ণনায়। নারীরা সবাই একই হিসাবে প্রসব করেন না। কোনো শিশু ৬ মাসে জন্মে বেঁচে থাকে, কেউ দুই বছরে জন্মে বেঁচে থাকে, আবার কেউ এর মাঝামাঝি কোনো সময়ে। একই বর্ণনায় তিনি নিজের সম্পর্কে বলেন, তিনি জন্মেছিলেন দুই বছর পরে, তখনই তাঁর সামনের দাঁত উঠে গিয়েছিল। আয়াত নিজে কোনো মাসের সংখ্যা বলে না। তার জোর জ্ঞানের উপর, গণনার উপর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bleeding in the Months of Carrying",
+          "bn": "গর্ভের মাসগুলোতে রক্ত দেখা"
+        },
+        "p": [
+          {
+            "en": "A second group reads the verse as speaking of bleeding during pregnancy. Mujahid, through several chains in at-Tabari, says the ghayd is the blood a pregnant woman sees, a lessening for the child, and the increase is whatever goes past nine months, which completes what was lost. 'Ikrima says that for every day the womb lessens with blood, a day is added to the carrying, until she completes it pure. Sa'id bin Jubayr says the same, and in one report calls it a lessening in the child's nourishment and an increase in the length of the carrying.",
+            "bn": "আরেক দল আয়াতটিকে পড়েন গর্ভাবস্থায় রক্তস্রাবের কথা হিসেবে। তাবারীতে কয়েকটি সূত্রে মুজাহিদ বলেন, গাইদ হলো গর্ভবতী নারী যে রক্ত দেখেন তা, এতে সন্তানের ঘাটতি হয়। আর বৃদ্ধি হলো ৯ মাস ছাড়িয়ে যাওয়া সময়টুকু, যা ওই ঘাটতি পূরণ করে। ইকরিমা বলেন, রক্তের কারণে গর্ভ যতদিন কমে, ততদিন বহনের মেয়াদে যোগ হয়, যতক্ষণ না পবিত্র অবস্থায় তিনি পুরো মেয়াদ শেষ করেন। সাঈদ ইবন জুবাইরও একই কথা বলেন। এক বর্ণনায় তিনি একে বলেছেন সন্তানের খাদ্যে ঘাটতি আর বহনের মেয়াদে বৃদ্ধি।"
+          },
+          {
+            "en": "This is the reading at-Tabari himself gives first: what the wombs reduce of their carrying within the nine months by releasing the blood of menstruation, and what they add beyond the nine months to make up what was reduced. Ibn Zayd describes how it was reckoned: while the bleeding continues it is not counted towards the term, and once it stops she begins a fresh count of nine months. Al-Baghawi reports the same as the view of the people of tafsir, with a variant in which the lessening is in nourishment and the increase is in duration.",
+            "bn": "তাবারী নিজে প্রথমে এই অর্থটাই দেন: হায়েযের রক্ত বের করে দিয়ে ৯ মাসের ভেতরে গর্ভ তার বহন থেকে যা কমিয়ে ফেলে, আর সেই ঘাটতি পূরণ করতে ৯ মাসের পরে যা বাড়িয়ে নেয়। হিসাবটা কীভাবে হতো, ইবন যাইদ তা খুলে বলেন। রক্ত যতদিন চলে, ততদিন মেয়াদে গোনা হয় না। রক্ত বন্ধ হলে নতুন করে ৯ মাসের গণনা শুরু হয়। বাগাভী একে তাফসীরবিদদের মত হিসেবে উল্লেখ করেন। সঙ্গে আরেকটি মতও আনেন, যেখানে কমতি খাদ্যে আর বাড়তি মেয়াদে।"
+          },
+          {
+            "en": "Al-Qurtubi records a reading in which the lessening and the increase concern the child's own body, a finger missing or a finger extra, and another in which the lessening is the stopping of menstrual blood and the increase is the bleeding after birth. As-Sa'di reads it as the pregnancy perishing, shrinking or fading, against the wombs growing and the fetuses in them growing larger. Ma'arif al-Qur'an adds the number of children, one or more, and the timing of delivery, and concludes that the words cover every kind of decrease, so the readings do not contradict one another.",
+            "bn": "কুরতুবী একটি মত উল্লেখ করেন, যেখানে কমা ও বাড়া সন্তানের নিজের দেহের ব্যাপার, যেমন একটা আঙুল কম বা একটা আঙুল বেশি। আরেকটি মতে কমা মানে হায়েযের রক্ত বন্ধ হওয়া, আর বাড়া মানে প্রসবের পরের রক্তস্রাব। সা'দীর ব্যাখ্যায় কমা মানে গর্ভ নষ্ট হয়ে যাওয়া, ছোট হয়ে আসা বা মিলিয়ে যাওয়া। আর বাড়া মানে গর্ভ বড় হওয়া, ভেতরের ভ্রূণ বেড়ে ওঠা। মাআরিফুল কুরআন যোগ করে সন্তানের সংখ্যা, একটি না একাধিক, আর প্রসবের সময়। তার উপসংহার: শব্দগুলো সব রকমের কমতিকেই ধরে, তাই এসব ব্যাখ্যায় কোনো বিরোধ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Jurists Parted Ways",
+          "bn": "ফকীহদের মতের ভিন্নতা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws rulings from the verse and keeps the disagreement open. He says it shows that a pregnant woman can menstruate, which is the position of Malik and one of ash-Shafi'i's two views, and reports that 'A'isha (RA) used to tell pregnant women who bled to leave the prayer. 'Ata', ash-Sha'bi and others said that she does not menstruate, and Abu Hanifa held the same. That side argued that if a pregnant woman could menstruate, a period could not serve as proof that a womb is empty, which they took to be agreed.",
+            "bn": "কুরতুবী আয়াত থেকে কিছু বিধান বের করেন, আর মতভেদটা খোলাই রাখেন। তাঁর মতে আয়াত দেখায়, গর্ভবতী নারীরও হায়েয হতে পারে। এটি ইমাম মালিকের মত, আর শাফিঈর দুই মতের একটি। তিনি জানান, আয়েশা (রাঃ) রক্ত দেখা গর্ভবতী নারীদের নামাজ ছেড়ে দিতে বলতেন। অন্যদিকে আতা, শা'বী ও আরও কেউ কেউ বলেছেন, গর্ভবতীর হায়েয হয় না। আবু হানীফারও একই মত। তাঁদের যুক্তি: গর্ভবতীর যদি হায়েয হতে পারত, তবে একবারের হায়েয দিয়ে প্রমাণ হতো না যে গর্ভ খালি। আর এ বিষয়টিকে তাঁরা সর্বসম্মত বলে ধরেছেন।"
+          },
+          {
+            "en": "On the shortest term, al-Qurtubi reports that the scholars agreed it is six months, and al-Baghawi gives six months as the least after which a child may be born and live. On the longest, at-Tabari relays from 'A'isha (RA) that a pregnancy does not go beyond two years, not even by the moment it takes a spindle's shadow to shift. Al-Baghawi says Abu Hanifa took that view and ash-Shafi'i held four years. Al-Qurtubi adds five years as Malik's best-known position, with reports from him of four and of no limit, nine months from Dawud, and a single year from Muhammad bin 'Abd al-Hakam.",
+            "bn": "সবচেয়ে কম মেয়াদ নিয়ে কুরতুবী জানান, আলিমরা একমত যে তা ৬ মাস। বাগাভীও বলেন, ৬ মাসে জন্মানো শিশু বেঁচে থাকতে পারে, এটাই সর্বনিম্ন সীমা। সবচেয়ে বেশি মেয়াদ নিয়ে তাবারী আয়েশা (রাঃ) থেকে বর্ণনা করেন, গর্ভ দুই বছরের বেশি হয় না, চরকার ছায়া ঘুরে যেতে যতটুকু সময় লাগে ততটুকুও না। বাগাভী বলেন, আবু হানীফা এই মত নিয়েছেন, আর শাফিঈর মত ৪ বছর। কুরতুবী যোগ করেন, ইমাম মালিকের প্রসিদ্ধ মত পাঁচ বছর, তাঁর কাছ থেকে ৪ বছর ও কোনো সীমা না থাকার বর্ণনাও আছে। দাউদের মতে ৯ মাস, আর মুহাম্মাদ ইবন আবদুল হাকামের মতে মাত্র এক বছর।"
+          },
+          {
+            "en": "Abu 'Umar, as al-Qurtubi quotes him, called this a question with no root except ijtihad and a return to what is known of women's affairs. Ibn Khuwayz Mandad says the least and the most of menstruation, of bleeding after birth and of pregnancy are all taken by ijtihad, because Allah has kept that knowledge for Himself, so a ruling may follow only what He has made apparent in women, whether rare or usual. This article takes no side among these figures and makes no medical claim; it reports what the jurists said and why.",
+            "bn": "কুরতুবী আবু উমারের কথা উদ্ধৃত করেন: এ মাসআলার ইজতিহাদ ছাড়া কোনো মূল ভিত্তি নেই, আছে শুধু নারীদের বিষয়ে যা জানা গেছে তার দিকে ফিরে যাওয়া। ইবন খুওয়াইয মিনদাদ বলেন, হায়েয, নিফাস আর গর্ভের সর্বনিম্ন ও সর্বোচ্চ মেয়াদ সবই ইজতিহাদ থেকে নেওয়া। কারণ এর জ্ঞান আল্লাহ নিজের কাছেই রেখেছেন। তাই কোনো রায় দেওয়া যায় কেবল ততটুকু পর্যন্ত, যতটুকু তিনি নারীদের মধ্যে প্রকাশ করেছেন, তা বিরল হোক বা স্বাভাবিক। এই প্রবন্ধ এসব সংখ্যার কোনোটির পক্ষ নেয় না, কোনো চিকিৎসাবিষয়ক দাবিও করে না। ফকীহরা কী বলেছেন আর কেন বলেছেন, শুধু তা-ই জানায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Key That Only He Holds",
+          "bn": "যে চাবি শুধু তাঁরই হাতে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir quotes, under this very clause, a narration al-Bukhari records (4697) from Ibn 'Umar. Allah's Messenger ﷺ said: \"The keys of the unseen are five, which none knows but Allah: none knows what will be tomorrow but Allah; none knows what the wombs fall short of but Allah; none knows when the rain will come but Allah; no soul knows in which land it will die; and none knows when the Hour will be established but Allah.\" The Arabic of the second key is this verse's own phrase, ma taghidu al-arham. It is in al-Bukhari's Sahih.",
+            "bn": "ঠিক এই অংশের ব্যাখ্যায় ইবন কাসীর ইবন উমার (রাঃ) থেকে বুখারীর একটি বর্ণনা (৪৬৯৭) উদ্ধৃত করেন। রাসূলুল্লাহ ﷺ বলেছেন: \"গায়েবের চাবি পাঁচটি, আল্লাহ ছাড়া কেউ তা জানে না। আগামীকাল কী হবে, আল্লাহ ছাড়া কেউ জানে না। গর্ভ কী কমায়, আল্লাহ ছাড়া কেউ জানে না। বৃষ্টি কখন আসবে, আল্লাহ ছাড়া কেউ জানে না। কোন ভূমিতে সে মারা যাবে, কোনো প্রাণ তা জানে না। আর কিয়ামত কখন হবে, আল্লাহ ছাড়া কেউ জানে না।\" দ্বিতীয় চাবির আরবি শব্দগুলো হুবহু এ আয়াতের: মা তাগীদুল আরহাম। হাদীসটি সহীহ বুখারীতে আছে।"
+          },
+          {
+            "en": "Al-Qurtubi also relays Ibn al-'Arabi's rebuke of a group who claimed that the seven planets manage the fetus month by month, and that it stirs in the fourth month because that month belongs to the sun. Ibn al-'Arabi puts the question to them, \"Did Allah tell you this, or do you invent lies against Allah?\", and calls it a ruling by false conjecture over hidden things. Al-Qurtubi sets it under a verse whose claim is that the womb's hidden course is known to Allah.",
+            "bn": "কুরতুবী ইবনুল আরাবীর একটি কড়া জবাবও উল্লেখ করেন। একদল লোক দাবি করত, সাতটি গ্রহ মাসে মাসে ভ্রূণকে পরিচালনা করে, আর চতুর্থ মাসটি সূর্যের বলে ভ্রূণ সে মাসে নড়েচড়ে ওঠে। ইবনুল আরাবী তাদের সামনে প্রশ্ন রাখেন: \"আল্লাহ কি তোমাদের এ খবর দিয়েছেন, নাকি তোমরা আল্লাহর নামে মিথ্যা রটাচ্ছ?\" তাঁর মতে এটা গোপন বিষয়ে ভিত্তিহীন অনুমান দিয়ে রায় দেওয়া। কুরতুবী কথাটা রেখেছেন এমন এক আয়াতের অধীনে, যার দাবিই হলো গর্ভের গোপন গতিপথ আল্লাহর জানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Past Its Measure",
+          "bn": "মাপের বাইরে কিছু নেই"
+        },
+        "p": [
+          {
+            "en": "Wa-kullu shay'in 'indahu bi-miqdar: and everything with Him is by measure. At-Tabari notes that miqdar is a mif'al form from qadr, and explains: nothing of what He has measured passes beyond His measuring, and nothing He willed and arranged falls short of His arranging, just as a woman's pregnancy does not run past what was measured for it nor stop short of the limit set for it. As-Sa'di: it comes neither earlier nor later, neither more nor less, except as His wisdom and knowledge require.",
+            "bn": "ওয়া কুল্লু শাইয়িন ইনদাহু বিমিকদার: আর তাঁর কাছে প্রতিটি জিনিস নির্দিষ্ট মাপে। তাবারী বলেন, মিকদার শব্দটি কদর থেকে মিফআল ওজনে গঠিত। তাঁর ব্যাখ্যা: আল্লাহ যা মেপে দিয়েছেন, তার কিছুই সেই মাপ ছাড়িয়ে যায় না। আর তিনি যা চেয়েছেন ও সাজিয়েছেন, তার কিছুই তাঁর ব্যবস্থার চেয়ে কম পড়ে না। ঠিক যেমন কোনো নারীর গর্ভ তার জন্য মাপা মেয়াদ ছাড়িয়ে যায় না, বেঁধে দেওয়া সীমার আগেও থামে না। সা'দী বলেন: তাঁর হিকমত ও জ্ঞান যা দাবি করে, তার বাইরে কিছুই আগে বা পরে হয় না, বাড়েও না, কমেও না।"
+          },
+          {
+            "en": "Qatada widens it: by a term, for Allah has kept safe the provision and the terms of His creatures and set for them an appointed term. Al-Qurtubi notes the narrower sense too, the measure of the child's stay in the womb and of its leaving, and says the verse's generality covers all of it. Ibn Kathir then cites a sound narration that shares the verse's words, though it is not about this verse. Al-Bukhari records it from Usama bin Zayd (1284): a daughter of the Prophet ﷺ sent for him because her child was dying.",
+            "bn": "কাতাদা অর্থটা আরও বড় করে দেখেন: নির্দিষ্ট মেয়াদে। কারণ আল্লাহ তাঁর সৃষ্টির রিজিক আর আয়ু হেফাজত করে রেখেছেন, আর সেগুলোর জন্য বেঁধে দিয়েছেন এক নির্ধারিত সময়। কুরতুবী সংকীর্ণ অর্থটাও উল্লেখ করেন: গর্ভে সন্তানের থাকার আর বেরিয়ে আসার মাপ। তারপর বলেন, আয়াতের ব্যাপকতা এর সবকিছুকেই ধরে। এরপর ইবন কাসীর একটি সহীহ বর্ণনা আনেন, যার শব্দ এ আয়াতের মতো, যদিও বর্ণনাটি এ আয়াত নিয়ে নয়। বুখারী তা উসামা ইবন যাইদ (রাঃ) থেকে বর্ণনা করেছেন (১২৮৪): নবী ﷺ-এর এক কন্যা তাঁকে খবর পাঠালেন, কারণ তাঁর শিশুটি মৃত্যুশয্যায় ছিল।"
+          },
+          {
+            "en": "He sent back his greeting and said: \"Whatever Allah takes is for Him and whatever He gives, is for Him, and everything with Him has a limited fixed term (in this world) and so she should be patient and hope for Allah's reward.\" Ibn Kathir also relays a reflection from Makhul. The child in its mother's womb does not search, grieve or fret; its provision simply comes to it. Grown, it says: it is death or killing, so where will my provision come from? Makhul answers: woe to you, He fed you in the womb and as a small child. Then he recited this verse.",
+            "bn": "তিনি সালাম পাঠিয়ে বলে দিলেন: \"আল্লাহ যা নেন তা তাঁরই, আর যা দেন তাও তাঁরই। তাঁর কাছে প্রত্যেক জিনিসের এক নির্ধারিত মেয়াদ আছে। তাই সে যেন ধৈর্য ধরে আর আল্লাহর কাছে সওয়াবের আশা রাখে।\" ইবন কাসীর মাকহূলের একটি চিন্তাও উদ্ধৃত করেন। মায়ের পেটের শিশু কিছু খোঁজে না, দুঃখ করে না, দুশ্চিন্তাও করে না। তার রিজিক আপনা থেকেই তার কাছে চলে আসে। বড় হয়ে সে বলে: মৃত্যু হবে নয়তো খুন, আমার রিজিক আসবে কোথা থেকে? মাকহূল জবাব দেন: আফসোস তোমার জন্য! তিনিই তো তোমাকে মায়ের পেটে আর ছোট্ট শিশু অবস্থায় খাইয়েছেন। তারপর তিনি এ আয়াত পাঠ করেন।"
+          }
+        ]
+      }
+    ]
+  },
   "13:11": {
     "sections": [
       {

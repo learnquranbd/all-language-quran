@@ -33103,6 +33103,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Say only what you know, admit plainly what you could not see, and never pass on a suspicion as if it were a fact.",
     "lessonBn": "যা জানেন শুধু তা-ই বলুন, যা দেখেননি তা খোলাখুলি স্বীকার করুন, আর সন্দেহকে কখনো সত্য বলে অন্যের কাছে পৌঁছে দেবেন না।"
+  },
+  "13:8": {
+    "reflectionEn": "Before anyone else knew you existed, you were already known. This verse comes soon after people who scoffed at being raised from dust, and it answers them by pointing to the womb: Allah knows what every female carries, every loss the womb suffers and every day it adds, and everything with Him is set to a measure. Nothing in that hidden place was guessed. The term was fixed, the provision measured, and the One who fed you there has not forgotten how. So the worry about tomorrow's livelihood, the grief over a pregnancy that ended early, the waiting that runs past its due date: none of it lies outside His knowing. What am I carrying now that I have not yet handed over to Him?",
+    "reflectionBn": "আপনার অস্তিত্বের খবর আর কেউ জানার আগেই আপনি জানা ছিলেন। মাটি হয়ে যাওয়ার পর আবার জীবিত হওয়ার কথা শুনে যারা ঠাট্টা করেছিল, তাদের কথার অল্প পরেই এ আয়াত। জবাবে সে আঙুল তোলে মায়ের গর্ভের দিকে। প্রতিটি নারী যা বহন করে, আল্লাহ তা জানেন। গর্ভ যা হারায় আর যে দিনগুলো বাড়িয়ে নেয়, তাও জানেন। তাঁর কাছে প্রতিটি জিনিসের একটা মাপ আছে। ওই গোপন জায়গায় কিছুই আন্দাজে হয়নি। মেয়াদ ঠিক করা ছিল, রিজিক মাপা ছিল। যিনি সেখানে আপনাকে খাইয়েছেন, তিনি খাওয়ানোর কথা ভুলে যাননি। তাই কালকের রুজির দুশ্চিন্তা, সময়ের আগে শেষ হয়ে যাওয়া গর্ভের কষ্ট, নির্ধারিত দিন পেরিয়ে যাওয়া অপেক্ষা, কোনোটাই তাঁর জানার বাইরে নয়। আমি এখন কোন বোঝা বয়ে বেড়াচ্ছি, যা এখনো তাঁর হাতে তুলে দিইনি?",
+    "pointsEn": [
+      "When I worry about provision, do I remember that I was fed for months in a place where I could do nothing for myself?",
+      "Is there a loss, a pregnancy that ended, a delay or a plan that fell short, that I still carry as if it had escaped Allah's knowledge?",
+      "Do I speak about what is hidden, in other people's lives or in the future, with more certainty than I have any right to?",
+      "If everything with Him is by measure, where am I demanding more or less than what has been measured for me, and with what kind of heart?",
+      "How could I show more care this week to a woman who is carrying a child, knowing that Allah knows every stage of what she bears?"
+    ],
+    "pointsBn": [
+      "রিজিক নিয়ে যখন দুশ্চিন্তা করি, তখন কি মনে পড়ে, মাসের পর মাস আমাকে এমন জায়গায় খাওয়ানো হয়েছে যেখানে নিজের জন্য আমি কিছুই করতে পারতাম না?",
+      "কোনো ক্ষতি, শেষ হয়ে যাওয়া কোনো গর্ভ, কোনো দেরি বা অপূর্ণ থেকে যাওয়া কোনো পরিকল্পনা কি আমি এমনভাবে বয়ে বেড়াচ্ছি, যেন তা আল্লাহর জ্ঞানের বাইরে থেকে গেছে?",
+      "অন্যের জীবনের বা ভবিষ্যতের গোপন বিষয় নিয়ে আমি কি যতটা জানার অধিকার আমার আছে, তার চেয়ে বেশি নিশ্চয়তা নিয়ে কথা বলি?",
+      "তাঁর কাছে সবকিছুই যদি মাপমতো হয়, তবে আমার জন্য যা মাপা আছে তার চেয়ে বেশি বা কম আমি কোথায় দাবি করছি, আর কেমন মন নিয়ে?",
+      "যে নারী গর্ভে সন্তান বহন করছেন, আল্লাহ তাঁর বহনের প্রতিটি ধাপ জানেন। এ কথা মনে রেখে এ সপ্তাহে আমি তাঁর প্রতি আরও কীভাবে যত্নশীল হতে পারি?"
+    ],
+    "lessonEn": "Trust the One who knew you and fed you in the womb with what you cannot see now, and take each gain and loss as falling within a measure He has set.",
+    "lessonBn": "যিনি গর্ভে আপনাকে জানতেন আর খাইয়েছেন, এখন যা দেখতে পাচ্ছেন না তা নিয়ে তাঁর উপর ভরসা রাখুন। প্রতিটি পাওয়া আর হারানোকে তাঁর বেঁধে দেওয়া মাপের ভেতরেই দেখুন।"
   }
 };
 
