@@ -1983,6 +1983,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:43": {
+    "sections": [
+      {
+        "h": {
+          "en": "Honour First, Then a Command",
+          "bn": "আগে সম্মান, তারপর আদেশ"
+        },
+        "p": [
+          {
+            "en": "Ya Maryamu uqnuti li-rabbiki wa-sjudi wa-rka'i ma'a ar-raki'in: O Maryam, be devout to your Lord, and prostrate, and bow with those who bow. Seven Arabic words, and the second time in this passage that the angels call her by name. The first call, in 3:42, told her what Allah had done for her: He chose her, purified her, and chose her above the women of the worlds. This verse tells her what to do with it. Then 3:44 turns to the Prophet ﷺ and calls the whole account news of the unseen, and 3:45 brings the third call.",
+            "bn": "ইয়া মারইয়ামুকনুতী লিরাব্বিকি ওয়াসজুদী ওয়ারকাঈ মাআর রাকিঈন: হে মারইয়াম, তোমার রবের অনুগত হও, সিজদা করো, আর রুকুকারীদের সঙ্গে রুকু করো। আরবিতে মাত্র সাতটি শব্দ। এই অংশে ফেরেশতারা দ্বিতীয়বার তাঁকে নাম ধরে ডাকছেন। প্রথম ডাক এসেছিল ৩:৪২ আয়াতে, সেখানে বলা হয়েছিল আল্লাহ তাঁর জন্য কী করেছেন: তাঁকে বেছে নিয়েছেন, পবিত্র করেছেন, জগতের নারীদের উপর মনোনীত করেছেন। এ আয়াত বলছে, সেই নিয়ামত পেয়ে এখন তাঁর কী করণীয়। এরপর ৩:৪৪ আয়াত নবী ﷺ-এর দিকে ফিরে পুরো ঘটনাকে গায়েবের সংবাদ বলে, আর ৩:৪৫ আয়াতে আসে তৃতীয় ডাক।"
+          },
+          {
+            "en": "The commentators read the sequence as gift and response. At-Tabari closes his comment with a paraphrase of the whole verse: make your worship of your Lord purely His, and humble yourself in His obedience together with those of His creation who humble themselves, in thanks for what He honoured you with, the choosing, the cleansing from impurities, and the preference over the women of your own age. The Muyassar ends on the same note, thanks to Allah for the favours He gave her, and as-Sa'di says Maryam did what she was commanded, in thanks and obedience.",
+            "bn": "তাফসীরকারেরা এই ধারাবাহিকতাকে দেখেন দান আর তার জবাব হিসেবে। তাবারী তাঁর আলোচনা শেষ করেন পুরো আয়াতের এক ব্যাখ্যামূলক পাঠ দিয়ে: হে মারইয়াম, তোমার রবের ইবাদত খাঁটিভাবে কেবল তাঁর জন্য করো। তাঁর সৃষ্টির মধ্যে যারা তাঁর সামনে বিনীত, তাদের সঙ্গে তুমিও তাঁর আনুগত্যে বিনীত হও। এ হবে তোমার শুকরিয়া, কারণ তিনি তোমাকে বেছে নিয়েছেন, অপবিত্রতা থেকে পবিত্র করেছেন, আর তোমার যুগের নারীদের উপর মর্যাদা দিয়েছেন। মুয়াসসারও শেষ করে একই কথায়: আল্লাহ যে নিয়ামত দিয়েছেন, তার কৃতজ্ঞতা। আর সা'দী বলেন, মারইয়াম আদেশ পালন করেছিলেন আল্লাহর শুকরিয়া আর আনুগত্য হিসেবে।"
+          },
+          {
+            "en": "The abridged English Ibn Kathir adds another angle. The angels, he writes, commanded her to increase her worship, humility, submission, prostration and bowing so that she would attain what Allah had decreed for her, as a test for her; and that test also earned her a higher rank in this life and the next, since Allah would show His power by creating a son within her without a man. So the command looks back to the honour named in 3:42 and forward to the trial that the following verses announce.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ আরেকটি দিক যোগ করে। সেখানে বলা হয়েছে, ফেরেশতারা তাঁকে আদেশ দিয়েছিলেন ইবাদত, বিনয়, আত্মসমর্পণ, সিজদা আর রুকু বাড়িয়ে দিতে, যাতে আল্লাহ তাঁর জন্য যা নির্ধারণ করে রেখেছেন তা তিনি লাভ করেন। এটা ছিল তাঁর জন্য এক পরীক্ষা। আবার এই পরীক্ষাই দুনিয়া ও আখিরাতে তাঁর মর্যাদা বাড়িয়ে দিয়েছিল, কারণ কোনো পুরুষের স্পর্শ ছাড়াই তাঁর গর্ভে সন্তান সৃষ্টি করে আল্লাহ নিজের কুদরত দেখাবেন। আদেশটি তাই পেছনে তাকায় ৩:৪২ আয়াতের সম্মানের দিকে, আর সামনে তাকায় পরের আয়াতগুলোতে ঘোষিত পরীক্ষার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qunut: Obedience or Long Standing",
+          "bn": "কুনূত: আনুগত্য, না দীর্ঘ দাঁড়ানো"
+        },
+        "p": [
+          {
+            "en": "The first verb, uqnuti, is the command form of qunut, and at-Tabari notes that the commentators differ over it here just as they did where the word came before. His own gloss is: make your obedience to your Lord sincere, for Him alone. Then he lists the views. Mujahid, through several chains, said it means lengthen the rukud, the standing still, in prayer. Ar-Rabi' said qunut is that stillness: stand for your Lord in prayer, upright before Him. Another report in his list says it means be sincere to your Lord.",
+            "bn": "প্রথম ক্রিয়াটি উকনুতী, কুনূত শব্দের আদেশসূচক রূপ। তাবারী জানান, আগে যেখানে শব্দটি এসেছে সেখানে তাফসীরকারদের যে মতভেদ ছিল, এখানেও ঠিক তাই। তাঁর নিজের ব্যাখ্যা: তোমার রবের আনুগত্য খাঁটি করো, কেবল তাঁর জন্য। এরপর তিনি মতগুলো সাজিয়ে দেন। মুজাহিদ কয়েকটি সনদে বলেছেন, এর অর্থ সালাতে রুকূদ দীর্ঘ করো, অর্থাৎ স্থির হয়ে দাঁড়িয়ে থাকা। রাবী বলেছেন, কুনূত মানে এই স্থিরতা: সালাতে তোমার রবের জন্য দাঁড়াও, তাঁর সামনে সোজা হয়ে। তাঁর তালিকার আরেকটি বর্ণনায় অর্থ: তোমার রবের জন্য একনিষ্ঠ হও।"
+          },
+          {
+            "en": "Another group took it as plain obedience. Qatada and as-Suddi both said: obey your Lord. Al-Hasan said: worship your Lord. Al-Qurtubi gives Mujahid's reading as lengthening the standing in prayer, and Qatada's as keep up obedience. Ibn Kathir defines qunut as obedience with humility, and cites 2:116, where everything in the heavens and the earth is qanit to Him. As-Sa'di joins the two halves together: qunut is obedience kept up without a break, with submission and humility.",
+            "bn": "আরেক দল এর অর্থ নিয়েছেন সরাসরি আনুগত্য। কাতাদা ও সুদ্দী দুজনেই বলেছেন: তোমার রবের আনুগত্য করো। হাসান বলেছেন: তোমার রবের ইবাদত করো। কুরতুবী মুজাহিদের মত উল্লেখ করেন সালাতে দাঁড়ানো দীর্ঘ করা হিসেবে, আর কাতাদার মত, আনুগত্যে অবিচল থাকো। ইবন কাসীর কুনূতের সংজ্ঞা দেন বিনয়ের সঙ্গে আনুগত্য, আর প্রমাণ হিসেবে আনেন ২:১১৬ আয়াত, যেখানে আসমান ও জমিনের সবকিছুকে বলা হয়েছে তাঁর প্রতি কানিত। সা'দী দুই দিককে মিলিয়ে দেন: কুনূত হলো বিনয় ও নম্রতার সঙ্গে বিরামহীন আনুগত্য।"
+          },
+          {
+            "en": "So the word holds a range, and its readings sit together more than they collide. Some hear its content: obedience, sincerity, worship. Others hear its posture: a body held still and upright in prayer for a long time. Al-Baghawi keeps both, opening with obey your Lord and then giving Mujahid's long standing; he also notes that the angels said this to her face to face. As for sujud and ruku', at-Tabari says both carry the sense of humility and lowliness before Allah in obedience and servanthood.",
+            "bn": "শব্দটির অর্থের পরিসর তাই বিস্তৃত, আর মতগুলো পরস্পরকে বাতিল করে না, বরং পাশাপাশি থাকে। কেউ শোনেন ভেতরের কথা: আনুগত্য, ইখলাস, ইবাদত। কেউ শোনেন দেহের অবস্থা: সালাতে দীর্ঘক্ষণ স্থির হয়ে সোজা দাঁড়িয়ে থাকা। বাগাভী দুটোই রাখেন। তিনি শুরু করেন তোমার রবের আনুগত্য করো দিয়ে, তারপর আনেন মুজাহিদের দীর্ঘ দাঁড়ানোর মত। তিনি এটাও উল্লেখ করেন যে ফেরেশতারা কথাটি তাঁকে সামনাসামনি বলেছিলেন। আর সিজদা ও রুকু সম্পর্কে তাবারী বলেন, দুটোরই অর্থ আনুগত্য ও দাসত্বে আল্লাহর সামনে বিনয় আর নত হওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prostration Named Before Bowing",
+          "bn": "রুকুর আগে সিজদার নাম"
+        },
+        "p": [
+          {
+            "en": "In the prayer as Muslims know it, one bows before one prostrates, yet the verse names prostration first. Al-Qurtubi answers from grammar: the conjunction wa does not require sequence. If you say Zayd and 'Amr stood, 'Amr may have stood first; so the sense here may be bow and prostrate. He points back to the disagreement on this point that he set out in al-Baqarah, at the verse on Safa and Marwa, 2:158. Then he adds a second view, introduced with it is said: in their law, prostration came before bowing.",
+            "bn": "মুসলমানদের পরিচিত সালাতে রুকু আগে, সিজদা পরে। অথচ আয়াতে সিজদার নাম এসেছে আগে। কুরতুবী এর জবাব দেন ব্যাকরণ থেকে: ওয়া অব্যয়টি ক্রম বাধ্য করে না। কেউ যদি বলে, যায়দ ও আমর দাঁড়াল, তাহলে আমর আগে দাঁড়িয়ে থাকতে পারে। সে হিসেবে এখানে অর্থ হতে পারে, রুকু করো ও সিজদা করো। তিনি মনে করিয়ে দেন, এ বিষয়ের মতভেদ তিনি সূরা বাকারায় সাফা-মারওয়ার আয়াত ২:১৫৮-এ আলোচনা করেছেন। তারপর 'বলা হয়' বলে দ্বিতীয় একটি মত আনেন: তাদের শরিয়তে সিজদা ছিল রুকুর আগে।"
+          },
+          {
+            "en": "Al-Baghawi gives the same two answers in the opposite order, and lets the clash between them show. It is said, he writes, that prostration was put first because that was how it stood in their law; and it is said instead that bowing came before prostration in all the laws, and that wa here gathers without ordering, as a man may say I saw Zayd and 'Amr when he saw 'Amr first. Neither commentator settles the question, and the reader can leave it where they left it.",
+            "bn": "বাগাভী একই দুটি জবাব দেন উল্টো ক্রমে, আর দুটোর বিরোধও স্পষ্ট রেখে দেন। তিনি লেখেন, বলা হয় সিজদাকে আগে আনা হয়েছে কারণ তাদের শরিয়তে এমনই ছিল। আবার বলা হয়, বরং সব শরিয়তেই রুকু ছিল সিজদার আগে, আর এখানে ওয়া কেবল একত্র করে, ক্রম বোঝায় না। যেমন কেউ বলতে পারে, আমি যায়দ ও আমরকে দেখেছি, অথচ আমরকে দেখেছে আগে। দুই তাফসীরকারের কেউই প্রশ্নটির নিষ্পত্তি করেননি। পাঠকও তা সেখানেই রেখে দিতে পারেন, যেখানে তাঁরা রেখেছেন।"
+          },
+          {
+            "en": "As-Sa'di asks a different question: not why this order, but why these two acts. He says prostration and bowing were singled out for their merit, and because they show the utmost humility before Allah. Ma'arif al-Qur'an notices something else in the wording. Only the bowing is qualified, with those who bow; the prostration is not. It suggests this hints that people often neglect the bow, bending a little and rising again as if in a hurry, and that the phrase sets before her the model of those who bow fully, as is due.",
+            "bn": "সা'দী প্রশ্ন করেন অন্য দিক থেকে: এই ক্রম কেন, তা নয়, বরং এই দুটি কাজই কেন। তিনি বলেন, সিজদা আর রুকুকে আলাদা করে বলা হয়েছে এদের ফজিলতের কারণে, আর এজন্য যে এ দুটি আল্লাহর সামনে চূড়ান্ত বিনয়ের প্রকাশ। মাআরিফুল কুরআন শব্দচয়নে আরেকটি জিনিস লক্ষ করে। শর্ত জুড়ে দেওয়া হয়েছে কেবল রুকুর সঙ্গে, রুকুকারীদের সঙ্গে, সিজদার সঙ্গে নয়। তাদের মতে এতে ইঙ্গিত আছে যে মানুষ প্রায়ই রুকুতে অবহেলা করে, একটু ঝুঁকেই তাড়াহুড়া করে উঠে পড়ে। তাই এ শব্দগুচ্ছ সামনে রাখে তাদের আদর্শ, যারা হক আদায় করে পূর্ণ রুকু করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Among the People Who Bow",
+          "bn": "রুকুকারীদের কাতারে"
+        },
+        "p": [
+          {
+            "en": "Ma'a ar-raki'in, with those who bow. Al-Qurtubi records two readings and chooses neither. Some said it means do as they do, even if you do not pray with them. Others said it means the prayer in congregation. He refers back to his fuller treatment in al-Baqarah, where the same phrase is addressed to the Children of Israel in 2:43. Ibn Kathir reads it the first way, in two words: kuni minhum, be one of them. At-Tabari, as quoted above, reads it as humbling herself together with all of creation that humbles itself before Allah.",
+            "bn": "মাআর রাকিঈন, রুকুকারীদের সঙ্গে। কুরতুবী দুটি মত উল্লেখ করেন, কোনোটিকে বেছে নেন না। কেউ বলেছেন, এর অর্থ তাদের মতো করে করো, তাদের সঙ্গে সালাত না পড়লেও। কেউ বলেছেন, এর অর্থ জামাআতের সালাত। তিনি পাঠককে পাঠিয়ে দেন সূরা বাকারায় তাঁর বিস্তারিত আলোচনার দিকে, যেখানে ২:৪৩ আয়াতে বনী ইসরাঈলকে একই শব্দগুচ্ছে সম্বোধন করা হয়েছে। ইবন কাসীর প্রথম অর্থটি নেন, মাত্র দুই শব্দে: কূনী মিনহুম, তাদের একজন হও। আর তাবারীর পাঠ আগেই এসেছে: আল্লাহর সামনে বিনীত সমগ্র সৃষ্টির সঙ্গে নিজেও বিনীত হওয়া।"
+          },
+          {
+            "en": "Al-Baghawi notices the grammar. The verse does not say ma'a ar-raki'at, with the feminine plural, but ma'a ar-raki'in, a form that takes in men and women together, and he says it was chosen to be more general and more inclusive. Then he records the other reading as well: it is said that it means with those who pray in congregation. The same inclusive form describes Maryam in 66:12, where she is counted min al-qanitin, among the devoutly obedient, the very word this verse began with.",
+            "bn": "বাগাভী ব্যাকরণের দিকে নজর দেন। আয়াতে স্ত্রীলিঙ্গ বহুবচনে মাআর রাকিআত বলা হয়নি, বলা হয়েছে মাআর রাকিঈন। এই রূপে নারী-পুরুষ দুজনেই শামিল হয়। তাঁর মতে এটা বেছে নেওয়া হয়েছে অর্থকে আরও ব্যাপক ও সর্বব্যাপী করতে। এরপর তিনি অন্য মতটিও উল্লেখ করেন: বলা হয়, এর অর্থ যারা জামাআতে সালাত আদায় করে তাদের সঙ্গে। মারইয়ামের বর্ণনায় এই ব্যাপক রূপটি আবার আসে ৬৬:১২ আয়াতে। সেখানে তাঁকে গণ্য করা হয়েছে মিনাল কানিতীন, অনুগতদের একজন হিসেবে। এ আয়াত যে শব্দ দিয়ে শুরু হয়েছিল, সেই শব্দই।"
+          },
+          {
+            "en": "What the commentaries fetched here do not do matters as much. None of them says where she prayed or with whom, and none draws from this verse a ruling on women's attendance at congregational prayer in later times. Some read a company, some a manner of worship, and the congregation reading is reported, not argued. This article stops where they stop. What every reading shares is belonging: the woman chosen above the women of the worlds is placed among the worshippers, not above them.",
+            "bn": "এখানে সংগৃহীত তাফসীরগুলো যা করে না, তা-ও সমান গুরুত্বপূর্ণ। তিনি কোথায় সালাত পড়তেন বা কাদের সঙ্গে, তা তাঁদের কেউ বলেননি। পরবর্তী যুগে নারীদের জামাআতে উপস্থিতি নিয়ে কোনো বিধানও তাঁরা এ আয়াত থেকে বের করেননি। কেউ পড়েছেন সঙ্গের অর্থে, কেউ ইবাদতের ধরনের অর্থে। আর জামাআতের মতটি কেবল উল্লেখ করা হয়েছে, তা নিয়ে যুক্তি সাজানো হয়নি। এই লেখাও সেখানেই থামছে, যেখানে তাঁরা থেমেছেন। সব মতের অভিন্ন কথা হলো একাত্মতা: জগতের নারীদের উপর মনোনীত মানুষটিকে রাখা হয়েছে ইবাদতকারীদের মাঝে, তাদের উপরে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing Until Her Feet Swelled",
+          "bn": "পা ফুলে যাওয়া পর্যন্ত দাঁড়ানো"
+        },
+        "p": [
+          {
+            "en": "The commentators also preserve how Maryam is said to have answered the command. At-Tabari has Mujahid report, through Layth, that when she was told be devout to your Lord, she stood until her ankles swelled, and in another wording until her feet swelled; a third report says she prayed until her feet swelled. From al-Awza'i he records that she stood until pus ran from her feet. Al-Qurtubi and al-Baghawi give al-Awza'i's report as feet that swelled and ran with blood and pus.",
+            "bn": "মারইয়াম কীভাবে এ আদেশে সাড়া দিয়েছিলেন বলে বর্ণিত, তাফসীরকারেরা তা-ও সংরক্ষণ করেছেন। তাবারী লায়সের সূত্রে মুজাহিদের বর্ণনা আনেন: যখন তাঁকে বলা হলো, তোমার রবের অনুগত হও, তিনি এত দাঁড়ালেন যে তাঁর গোড়ালি ফুলে গেল। আরেক বর্ণনায় আছে, পা ফুলে গেল। তৃতীয় এক বর্ণনায়, তিনি সালাত পড়তেন যতক্ষণ না পা ফুলে যেত। আওযাঈ থেকে তিনি উল্লেখ করেন, তিনি এত দাঁড়াতেন যে পা থেকে পুঁজ গড়িয়ে পড়ত। কুরতুবী ও বাগাভী আওযাঈর বর্ণনাটি আনেন এভাবে: পা ফুলে গিয়ে রক্ত আর পুঁজ ঝরেছিল।"
+          },
+          {
+            "en": "Ibn Kathir gives al-Awza'i's words differently: she stayed still in her mihrab, bowing, prostrating and standing, until yellow fluid came down into her feet. He also mentions a report from Yahya ibn Abi Kathir, carried by Ibn 'Asakir, that she prostrated until such fluid came down into her eyes, but he flags its chain as containing a narrator who is criticised. These are reports from the generation after the Companions and later, not words of the Prophet ﷺ, and the commentators pass them on as such.",
+            "bn": "ইবন কাসীর আওযাঈর কথা আনেন একটু ভিন্নভাবে: তিনি নিজের মিহরাবে স্থির হয়ে রুকু, সিজদা আর কিয়ামে কাটাতেন, শেষে পায়ে হলদে পানি নেমে আসে। ইবন আসাকিরের সূত্রে তিনি ইয়াহইয়া ইবন আবী কাসীরের একটি বর্ণনাও উল্লেখ করেন, তিনি এত সিজদা করতেন যে চোখে এমন পানি নেমে আসে। তবে তিনি সতর্ক করে দেন, এর সনদে এমন একজন বর্ণনাকারী আছেন যাঁকে নিয়ে আপত্তি আছে। এগুলো সাহাবিদের পরের প্রজন্ম ও তার পরের লোকদের বর্ণনা, নবী ﷺ-এর বাণী নয়। তাফসীরকারেরাও সেভাবেই এগুলো বর্ণনা করেছেন।"
+          },
+          {
+            "en": "What these reports show is how the early commentators heard the word uqnuti: as a call to stand, and to keep standing. As-Sa'di's summary is enough on its own: Maryam did what she was commanded, in thanks to Allah and in obedience. The reports describe one woman's devotion in her own setting; they do not set a measure of hours that every reader must match. What carries over is the direction of her answer. She did not take the honour of the previous verse as a place to rest.",
+            "bn": "এসব বর্ণনা দেখায়, প্রথম যুগের তাফসীরকারেরা উকনুতী শব্দটি কীভাবে শুনেছিলেন: দাঁড়ানোর ডাক হিসেবে, আর দাঁড়িয়ে থাকার ডাক হিসেবে। সা'দীর সারকথাই যথেষ্ট: মারইয়াম আল্লাহর শুকরিয়া আর আনুগত্য হিসেবে আদেশ পালন করেছিলেন। বর্ণনাগুলো নিজের পরিবেশে একজন নারীর ইবাদতের ছবি আঁকে। প্রত্যেক পাঠককে এত ঘণ্টা দাঁড়াতেই হবে, এমন কোনো মাপকাঠি এগুলো বেঁধে দেয় না। আমাদের কাছে যা পৌঁছায় তা তাঁর সাড়ার দিক। আগের আয়াতের সম্মানকে তিনি বিশ্রামের জায়গা বানাননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Long Qunut in the Sunnah",
+          "bn": "সুন্নাহে দীর্ঘ কুনূত"
+        },
+        "p": [
+          {
+            "en": "No sound hadith is attached to this verse in the commentaries fetched for it. Ibn Kathir and at-Tabari both relay, through Darraj from Abu Sa'id, a saying raised to the Prophet ﷺ about the meaning of qunut across the Qur'an. Ibn Kathir himself says it contains something objectionable, so it is only mentioned here, and nothing is built on it. The swollen-feet reports of the previous section are not hadith either.",
+            "bn": "এখানে সংগৃহীত তাফসীরগুলোতে এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত নেই। ইবন কাসীর ও তাবারী দুজনেই দাররাজের সূত্রে আবূ সাঈদ (রাঃ) থেকে একটি বর্ণনা আনেন, যা নবী ﷺ-এর দিকে সম্পৃক্ত এবং কুরআনজুড়ে কুনূত শব্দের অর্থ নিয়ে। ইবন কাসীর নিজেই বলেন, এতে আপত্তিকর কিছু আছে। তাই এখানে কেবল এর উল্লেখ রইল, এর উপর কিছু দাঁড় করানো হচ্ছে না। আগের অংশে পা ফুলে যাওয়ার বর্ণনাগুলোও হাদীস নয়।"
+          },
+          {
+            "en": "A general narration, which these commentators do not attach to the verse, uses the same word in Mujahid's sense. Muslim records in his Sahih from Jabir (756) that the Messenger of Allah ﷺ said: The most excellent prayer is that in which the duration of standing is longer. The Arabic is tul al-qunut, the length of the qunut. There the word plainly means standing in prayer, so reading uqnuti as long standing matches a usage the Sunnah itself knows.",
+            "bn": "একটি সাধারণ হাদীস, যা এই তাফসীরকারেরা আয়াতের সঙ্গে যুক্ত করেননি, একই শব্দ ব্যবহার করে মুজাহিদের অর্থে। মুসলিম তাঁর সহীহ গ্রন্থে জাবির (রাঃ) থেকে বর্ণনা করেন (৭৫৬), রাসূলুল্লাহ ﷺ বলেছেন: সর্বোত্তম সালাত সেটি, যাতে দাঁড়িয়ে থাকার সময় দীর্ঘতর। আরবিতে শব্দটি তূলুল কুনূত, কুনূতের দৈর্ঘ্য। সেখানে কুনূত মানে স্পষ্টতই সালাতে দাঁড়ানো। তাই উকনুতীকে দীর্ঘ দাঁড়ানো অর্থে পড়া সুন্নাহরই এক পরিচিত ব্যবহারের সঙ্গে মেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Qunut Returns",
+          "bn": "কুনূত যেখানে ফিরে আসে"
+        },
+        "p": [
+          {
+            "en": "2:116 is the verse Ibn Kathir cites: all that is in the heavens and the earth is qanit to Him, so Maryam is asked to give, in worship, the obedience the whole creation already owes. 2:238 tells the believers to stand for Allah qanitin, devoutly obedient, inside the very prayers they are told to guard. 2:43 uses this verse's closing words, bow with those who bow, addressed to the Children of Israel alongside prayer and zakah.",
+            "bn": "ইবন কাসীর যে আয়াত উদ্ধৃত করেন তা ২:১১৬: আসমান ও জমিনে যা কিছু আছে, সবই তাঁর প্রতি কানিত। মারইয়ামের কাছে তাই চাওয়া হচ্ছে সেই আনুগত্য, যা গোটা সৃষ্টি এমনিতেই তাঁর কাছে ঋণী, তবে ইবাদতের রূপে। ২:২৩৮ আয়াত মুমিনদের বলে, আল্লাহর জন্য দাঁড়াও কানিতীন হয়ে, বিনীত অনুগত হয়ে, ঠিক সেই সালাতের ভেতরে যার হেফাজত করতে বলা হয়েছে। ২:৪৩ আয়াতে আসে এ আয়াতের শেষ শব্দগুলো, রুকুকারীদের সঙ্গে রুকু করো, বনী ইসরাঈলকে সম্বোধন করে, সালাত ও যাকাতের পাশাপাশি।"
+          },
+          {
+            "en": "33:31 addresses the wives of the Prophet ﷺ with the same verb: whoever of you is devout to Allah and His Messenger and does good, We will give her reward twice. And 66:12 closes on Maryam herself: she believed in the words of her Lord and His books, and was among the devoutly obedient. The command spoken to her in this verse finds its answer there, in the Qur'an's own record of who she became.",
+            "bn": "৩৩:৩১ আয়াত নবী ﷺ-এর স্ত্রীদের সম্বোধন করে একই ক্রিয়া দিয়ে: তোমাদের মধ্যে যে আল্লাহ ও তাঁর রাসূলের অনুগত থাকবে আর সৎকাজ করবে, তাকে আমি দ্বিগুণ প্রতিদান দেব। আর ৬৬:১২ আয়াত শেষ হয় মারইয়ামকে দিয়েই: তিনি তাঁর রবের বাণী ও কিতাবসমূহে বিশ্বাস করেছিলেন, আর ছিলেন অনুগতদের একজন। এ আয়াতে তাঁকে যে আদেশ দেওয়া হয়েছিল, তার জবাব মেলে সেখানে, তিনি কেমন মানুষ হয়ে উঠেছিলেন তার কুরআনি সাক্ষ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answering a Gift With Worship",
+          "bn": "নিয়ামতের জবাবে ইবাদত"
+        },
+        "p": [
+          {
+            "en": "The verse gives a pattern for any season of blessing: when something good arrives, answer it with worship. In practice that can mean lengthening the standing of one night prayer this week, letting each bow settle until the back is still, as Ma'arif urges, and joining the people of prayer wherever one can. Muslim also records (482): The nearest a servant comes to his Lord is when he is prostrating himself, so make supplication (in this state). It is general, not tied to this verse.",
+            "bn": "যেকোনো নিয়ামতের সময়ের জন্য এ আয়াত একটি ধারা দেখিয়ে দেয়: ভালো কিছু এলে তার জবাব দিন ইবাদত দিয়ে। বাস্তবে তার মানে হতে পারে এ সপ্তাহে রাতের কোনো এক সালাতে দাঁড়ানো একটু দীর্ঘ করা। প্রতিটি রুকুতে পিঠ স্থির না হওয়া পর্যন্ত থেমে থাকা, যেমনটা মাআরিফুল কুরআন তাগিদ দেয়। আর যেখানে সম্ভব, সালাত আদায়কারীদের সঙ্গে শামিল হওয়া। মুসলিম আরও বর্ণনা করেন (৪৮২): বান্দা তার রবের সবচেয়ে কাছে থাকে যখন সে সিজদায় থাকে, সুতরাং তখন বেশি বেশি দুআ করো। হাদীসটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "A du'a in the verse's own vocabulary, not a narrated one: O Allah, make me devout to You, among those who prostrate and those who bow, and let me answer Your favours with obedience. Then three questions to carry. What has Allah honoured me with lately, and what worship did I give back? When did I last stand before Him without hurrying? And is my bow a full bow, among those who bow?",
+            "bn": "আয়াতের নিজের শব্দে একটি দুআ, কোনো বর্ণিত দুআ নয়: হে আল্লাহ, আমাকে তোমার অনুগত বানাও, সিজদাকারী ও রুকুকারীদের একজন বানাও, আর তোমার নিয়ামতের জবাব আনুগত্য দিয়ে দেওয়ার তাওফীক দাও। তারপর সঙ্গে রাখার মতো তিনটি প্রশ্ন। সম্প্রতি আল্লাহ আমাকে কী দিয়ে সম্মানিত করেছেন, আর বিনিময়ে আমি কোন ইবাদত ফিরিয়ে দিয়েছি? শেষ কবে তাড়াহুড়া ছাড়া তাঁর সামনে দাঁড়িয়েছি? আর আমার রুকু কি সত্যিই পূর্ণ রুকু, রুকুকারীদের মতো?"
+          }
+        ]
+      }
+    ]
+  },
   "3:45": {
     "sections": [
       {

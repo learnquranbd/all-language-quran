@@ -30263,6 +30263,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A claim on the Hereafter is tested by how one faces the thought of death; let deeds, not belonging, carry your hope.",
     "lessonBn": "আখিরাতের দাবি যাচাই হয় মৃত্যুর ভাবনার সামনে মানুষ কেমন দাঁড়ায় তা দিয়ে। আপনার আশা বহন করুক আমল, দলের পরিচয় নয়।"
+  },
+  "3:43": {
+    "reflectionEn": "The angels have just told Maryam that Allah chose her, purified her, and chose her above the women of the worlds. What follows is not a reward to rest on but a command: be devout to your Lord, prostrate, and bow with those who bow. In this verse, honour is answered with worship. Qunut means obedience kept up with humility, and some understood it as standing long in prayer. Either way, the gift asks for more devotion, not less. She is told to bow alongside others, so even one chosen above the women of the worlds has her place among the people of prayer. When Allah has given me something, do I treat it as a place to stop, or as a reason to stand longer before Him?",
+    "reflectionBn": "ফেরেশতারা সবেমাত্র মারইয়ামকে জানিয়েছেন: আল্লাহ তাঁকে বেছে নিয়েছেন, পবিত্র করেছেন, আর জগতের নারীদের উপর মনোনীত করেছেন। এর পরে যা আসে তা বিশ্রামের পুরস্কার নয়, একটি আদেশ: তোমার রবের অনুগত হও, সিজদা করো, আর রুকুকারীদের সঙ্গে রুকু করো। এখানে সম্মানের জবাব হলো ইবাদত। কুনূত মানে বিনয়ের সঙ্গে টানা আনুগত্য, আর কেউ কেউ এর অর্থ বুঝেছেন সালাতে দীর্ঘ সময় দাঁড়িয়ে থাকা। যে অর্থই নিই, নিয়ামত আরও বেশি ইবাদত চায়, কম নয়। তাঁকে বলা হয়েছে অন্যদের সঙ্গে রুকু করতে। জগতের নারীদের উপর মনোনীত মানুষটিরও জায়গা তাই সালাত আদায়কারীদের কাতারে। আল্লাহ যখন আমাকে কিছু দেন, আমি কি সেখানেই থেমে যাই, নাকি সেটাকে তাঁর সামনে আরও দীর্ঘ সময় দাঁড়ানোর কারণ বানাই?",
+    "pointsEn": [
+      "What has Allah honoured me with lately, and has my worship changed at all since?",
+      "When did I last stand in prayer long enough to feel unhurried before my Lord?",
+      "Is my bowing a full bow, or a quick dip on the way back up?",
+      "Who are the people of prayer I stand among, and how often do I actually join them?",
+      "Is my obedience steady through the week, or only in the hours when I feel close?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি আল্লাহ আমাকে কোন নিয়ামত দিয়ে সম্মানিত করেছেন, আর তারপর থেকে আমার ইবাদতে কি আদৌ কোনো পরিবর্তন এসেছে?",
+      "শেষ কবে সালাতে এতক্ষণ দাঁড়িয়েছি যে রবের সামনে কোনো তাড়াহুড়া টের পাইনি?",
+      "আমার রুকু কি পুরো রুকু, নাকি সোজা হয়ে ওঠার পথে একটু ঝুঁকে পড়া মাত্র?",
+      "কোন সালাত আদায়কারীদের মাঝে আমি দাঁড়াই, আর আসলে কত ঘন ঘন তাদের সঙ্গে শামিল হই?",
+      "আমার আনুগত্য কি পুরো সপ্তাহ জুড়ে টিকে থাকে, নাকি কেবল সেই সময়টুকুতে, যখন নিজেকে রবের কাছে মনে হয়?"
+    ],
+    "lessonEn": "Answer every honour from Allah with deeper worship: steady obedience, humble prostration, and a place among those who bow.",
+    "lessonBn": "আল্লাহর দেওয়া প্রতিটি সম্মানের জবাব দিন আরও গভীর ইবাদত দিয়ে: টানা আনুগত্য, বিনীত সিজদা, আর রুকুকারীদের কাতারে নিজের জায়গা।"
   }
 };
 
