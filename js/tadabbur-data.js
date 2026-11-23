@@ -32923,6 +32923,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Show your understanding in what you keep: hold to what Allah commanded and keep every promise you make, to Him and to people.",
     "lessonBn": "বুদ্ধির প্রমাণ দিন যা রক্ষা করেন তা দিয়ে: আল্লাহর আদেশ আঁকড়ে থাকুন, আর তাঁকে ও মানুষকে দেওয়া প্রতিটি কথা রক্ষা করুন।"
+  },
+  "12:46": {
+    "reflectionEn": "A man who forgot him for years now stands at his cell, and the first thing he says is a title: Yusuf, O truthful one. There is no apology in the verse. A king is troubled and only one person can help. Yet before the request comes the testimony. He had watched this prisoner's words to him come true, and that memory speaks first. Yusuf, for his part, does not ask where he has been all this time. He listens, and he answers. Two people meet here: one whose truthfulness was known before anyone needed it, and one who gave without settling old accounts. If people had to name me by one word, what would it be? And when someone who let me down comes asking, do I help first?",
+    "reflectionBn": "যে লোকটি বছরের পর বছর তাঁকে ভুলে ছিল, সে এখন জেলখানায় তাঁর সামনে দাঁড়িয়ে। মুখ খুলেই সে একটা উপাধি দিয়ে ডাকে: হে সত্যবাদী ইউসুফ! আয়াতে কোনো ক্ষমা চাওয়ার কথা নেই। রাজা দুশ্চিন্তায় আছেন, আর সাহায্য করতে পারেন কেবল একজন। তবু অনুরোধের আগে আসে সাক্ষ্য। এই বন্দীর বলা কথা নিজের জীবনে সত্য হতে দেখেছে সে, সেই স্মৃতিই আগে কথা বলে। ইউসুফ (আঃ)-ও জানতে চান না, এতদিন সে কোথায় ছিল। তিনি শোনেন, তারপর উত্তর দেন। এখানে দুজন মানুষের দেখা হয়। একজনের সত্যবাদিতা সবার জানা ছিল প্রয়োজন পড়ার অনেক আগেই। আরেকজন দিয়েছেন পুরোনো হিসাব মেটানোর আগেই। মানুষকে যদি এক শব্দে আমার পরিচয় দিতে হয়, সেই শব্দটা কী হবে? আর যে একদিন আমাকে নিরাশ করেছিল, সে যখন কিছু চাইতে আসে, আমি কি আগে তার সাহায্য করি?",
+    "pointsEn": [
+      "If the people around me had to name me by one quality, would it be truthfulness, and what in my record would back it up?",
+      "Is there someone who once let me down whom I would still help today without first listing what they owe me?",
+      "When I go to someone for help, do I begin by honouring them, or only with what I need?",
+      "When I pass on another person's words or request, do I carry them as they were given, without adding or trimming?",
+      "Whose good name have I seen proved true over the years, and have I said so where it could help them?"
+    ],
+    "pointsBn": [
+      "আশপাশের মানুষকে যদি একটি গুণ দিয়ে আমার পরিচয় দিতে হয়, সেটা কি সত্যবাদিতা হবে? আমার অতীতের কোন কাজ সে দাবির পক্ষে সাক্ষ্য দেবে?",
+      "এমন কেউ কি আছে, যে একদিন আমাকে নিরাশ করেছিল, অথচ আজ তার পাওনা-দেনার ফর্দ না খুলেই আমি তাকে সাহায্য করব?",
+      "কারও কাছে সাহায্য চাইতে গেলে আমি কি আগে তাকে সম্মান দিয়ে কথা শুরু করি, নাকি শুধু নিজের দরকারটুকুই বলি?",
+      "অন্যের কথা বা অনুরোধ যখন পৌঁছে দিই, তখন কি যেমন পেয়েছি তেমনই পৌঁছাই, কিছু না বাড়িয়ে, কিছু না কমিয়ে?",
+      "বছরের পর বছর কার সুনাম আমি সত্য প্রমাণিত হতে দেখেছি? যেখানে বললে তার উপকার হতো, সেখানে কি আমি সে কথা বলেছি?"
+    ],
+    "lessonEn": "Be truthful long before anyone needs to rely on you, and when someone who failed you comes asking, help first and leave the reproach unsaid.",
+    "lessonBn": "কেউ আপনার উপর ভরসা করার প্রয়োজন পড়ার অনেক আগে থেকেই সত্যবাদী হোন। আর যে আপনাকে নিরাশ করেছিল, সে কিছু চাইতে এলে আগে সাহায্য করুন, তিরস্কারের কথা মুখে আনবেন না।"
   }
 };
 

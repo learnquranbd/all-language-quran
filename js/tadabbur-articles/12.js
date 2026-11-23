@@ -2571,6 +2571,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:46": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Palace Floor to Cell",
+          "bn": "রাজদরবার থেকে কারাকক্ষে"
+        },
+        "p": [
+          {
+            "en": "Verse 12:45 ended on a request: fa-arsiluni, so send me. Verse 12:46 opens with the man already speaking to Yusuf (AS) in prison. Everything in between, the king's consent, the road and the arrival, is passed over. At-Tabari names the device. There is an omission in the speech, he says, left unmentioned because what is stated makes it plain. He then supplies it in three steps: so they sent him, and he came to Yusuf, and said to him: O Yusuf, O you truthful one.",
+            "bn": "১২:৪৫ আয়াত শেষ হয়েছিল একটি অনুরোধে: ফাআরসিলূন, আমাকে পাঠিয়ে দিন। ১২:৪৬ আয়াত শুরু হয় এমন জায়গা থেকে, যেখানে লোকটি জেলখানায় ইউসুফ (আঃ)-এর সঙ্গে কথা বলছে। মাঝখানের সবকিছু, রাজার অনুমতি, পথ চলা, পৌঁছানো, কুরআন বাদ দিয়ে গেছে। তাবারী এ রীতির নাম বলে দেন। তাঁর ভাষায়, এখানে কথার একটি অংশ ঊহ্য, উল্লেখ করা হয়নি কারণ যা বলা হয়েছে তা থেকেই বাকিটা বোঝা যায়। তারপর তিনি তিনটি ধাপে সেটি পূরণ করেন: তারা তাকে পাঠাল, সে ইউসুফের কাছে এল, আর বলল: হে ইউসুফ, হে সত্যবাদী।"
+          },
+          {
+            "en": "The other commentators close the same gap in almost the same words. Al-Qurtubi writes: so they sent him, and he came to Yusuf and said, O truthful one, and asked him about the king's dream. As-Sa'di: so they sent him, and he came to him. The Muyassar: when the man reached Yusuf, he said to him. Ibn Kathir's Arabic begins straight at the address and adds only that the man related the king's dream. The Qur'an trusts its listener to walk the road from palace to prison alone.",
+            "bn": "অন্য তাফসীরকারেরাও প্রায় একই কথায় এই ফাঁক পূরণ করেন। কুরতুবী লেখেন: তারা তাকে পাঠাল, সে ইউসুফের কাছে এসে বলল, হে সত্যবাদী, আর তাঁকে রাজার স্বপ্ন সম্পর্কে জিজ্ঞেস করল। সা'দী বলেন: তারা তাকে পাঠাল, সে তাঁর কাছে এল। মুয়াসসার বলে: লোকটি ইউসুফের কাছে পৌঁছে তাঁকে বলল। ইবন কাসীরের আরবি তাফসীর সরাসরি সম্বোধন থেকে শুরু হয়, শুধু যোগ করে যে লোকটি রাজার স্বপ্নের কথা শোনাল। রাজপ্রাসাদ থেকে কারাগার পর্যন্ত পথটুকু শ্রোতা নিজেই পাড়ি দেবে, কুরআন তার উপর সেই ভরসা রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nabu Carries the Question",
+          "bn": "প্রশ্ন নিয়ে নাবূ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari brings a report from Ibn Ishaq that tells the scene as a story. The king put his dream to the council around him, and they answered as they answered. Nabu, as this report names the freed man, heard all of it, and heard the king ask for its meaning. He remembered Yusuf (AS), what Yusuf had interpreted for him and his companion, and how it had come about exactly as he said. Then he spoke: I will tell you its interpretation, so send me.",
+            "bn": "তাবারী ইবন ইসহাকের একটি বর্ণনা আনেন, যা দৃশ্যটি গল্পের মতো করে বলে। রাজা চারপাশের সভাসদদের সামনে তাঁর স্বপ্নের কথা তুললেন, তারা যা বলার বলল। মুক্তি পাওয়া লোকটির নাম এ বর্ণনায় নাবূ। সে সবই শুনল, শুনল রাজা স্বপ্নের অর্থ জানতে চাইছেন। তখন তার মনে পড়ল ইউসুফ (আঃ)-এর কথা। মনে পড়ল, তিনি তার আর তার সঙ্গীর স্বপ্নের কী ব্যাখ্যা দিয়েছিলেন, আর সব ঠিক যেমন বলেছিলেন তেমনই ঘটেছিল। তখন সে বলল: আমি আপনাদের এর ব্যাখ্যা জানিয়ে দেব, আমাকে পাঠিয়ে দিন।"
+          },
+          {
+            "en": "The report goes on. He came to Yusuf and said: O Yusuf, the king has seen such and such, and he told him the dream. Yusuf said of it what Allah has told us in the Book, and its meaning came to them mithla falaq as-subh, like the breaking of the dawn. Nabu left with the ruling Yusuf had given and told the king what he had said. The name is this report's, from Ibn Ishaq. The Qur'an calls him only the one of the two who was saved.",
+            "bn": "বর্ণনা আরও এগোয়। সে ইউসুফের কাছে এসে বলল: হে ইউসুফ, রাজা এমন এমন স্বপ্ন দেখেছেন। তারপর সে স্বপ্নটি শোনাল। ইউসুফ তার যে ব্যাখ্যা দিলেন, আল্লাহ কিতাবে আমাদের তা জানিয়েছেন। আর সেই ব্যাখ্যা তাদের কাছে এল মিসলা ফালাকিস সুবহ, ভোরের আলো ফোটার মতো স্পষ্ট হয়ে। ইউসুফের দেওয়া উত্তর নিয়ে নাবূ ফিরে গেল, আর রাজাকে তাঁর কথা জানাল। নামটি এসেছে ইবন ইসহাকের এই বর্ণনা থেকে। কুরআন তাকে শুধু বলে: দুজনের মধ্যে যে একজন মুক্তি পেয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called by Name, Then Title",
+          "bn": "আগে নাম, তারপর উপাধি"
+        },
+        "p": [
+          {
+            "en": "Yusufu ayyuha as-siddiq. The address opens with the bare name and no ya, the particle of calling. Al-Qurtubi classes it as a nida' mufrad, a single-name vocative, and al-Baghawi restores the particle in his gloss: meaning, ya Yusuf, O Yusuf. Then comes the title. Siddiq is built on the root s-d-q, truth, and al-Qurtubi and al-Baghawi both define it in the same two words: al-kathir as-sidq, the one of abundant truthfulness. It names a person in whom truth is constant, not one who told the truth once.",
+            "bn": "ইউসুফু আইয়ুহাস সিদ্দীক। সম্বোধনটি শুরু হয়েছে শুধু নাম দিয়ে, ডাকার অব্যয় ইয়া ছাড়াই। কুরতুবী একে বলেন নিদা মুফরাদ, অর্থাৎ শুধু নাম ধরে ডাকা। বাগাভী তাঁর ব্যাখ্যায় অব্যয়টি ফিরিয়ে আনেন: মানে ইয়া ইউসুফ, হে ইউসুফ। তারপর আসে উপাধি। সিদ্দীক শব্দটি এসেছে স-দ-ক ধাতু থেকে, যার অর্থ সত্য। কুরতুবী ও বাগাভী দুজনেই একই দুই শব্দে এর অর্থ বলেন: আল-কাসীরুস সিদক, যার মধ্যে সত্যবাদিতা প্রচুর। একবার সত্য বলেছে এমন কেউ নয়, বরং সত্য যার স্থায়ী স্বভাব।"
+          },
+          {
+            "en": "As-Sa'di widens the definition by one phrase: abundantly truthful fi aqwalihi wa af'alihi, in his words and his deeds. Ma'arif al-Qur'an reads the man's opening in the same light. He first confessed the truthfulness of Yusuf (AS) in word and deed, it says, and only then asked for an interpretation. On this reading the title is not flattery offered to win a favour. It is a man's testimony about what he had seen with his own eyes, given before he asked for anything at all.",
+            "bn": "সা'দী সংজ্ঞাটিতে একটি কথা জুড়ে দেন: ফী আকওয়ালিহী ওয়া আফআলিহী, কথায় ও কাজে, দুই জায়গাতেই প্রচুর সত্যবাদী। মাআরিফুল কুরআনও লোকটির কথার শুরুটা এভাবেই দেখে। তার ভাষায়, সে আগে কথায় ও কাজে ইউসুফ (আঃ)-এর সত্যবাদিতা স্বীকার করেছে, তারপর স্বপ্নের ব্যাখ্যা চেয়েছে। এ পাঠে উপাধিটি কোনো সুবিধা আদায়ের জন্য তোষামোদ নয়। নিজের চোখে যা দেখেছে, তারই সাক্ষ্য দিচ্ছে সে, কিছু চাওয়ার আগেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Witness to His Words",
+          "bn": "তাঁর কথার সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Why this title, of all those he might have chosen? The verse gives no reason, but the story around it does. In 12:41 Yusuf (AS) told his two cellmates that one would pour wine for his master and the other would be crucified. Ibn Ishaq's report in at-Tabari says the freed man remembered what Yusuf had interpreted for him and his companion, and how it came about just as he said. He was himself the proof that this prisoner's words come true, and his siddiq is a witness's verdict.",
+            "bn": "এত উপাধি থাকতে এটিই কেন? আয়াত কারণ বলে না, তবে চারপাশের কাহিনি বলে। ১২:৪১ আয়াতে ইউসুফ (আঃ) জেলের দুই সঙ্গীকে বলেছিলেন, একজন আবার তার মনিবকে মদ পান করাবে, অন্যজনকে শূলে চড়ানো হবে। তাবারীর আনা ইবন ইসহাকের বর্ণনা বলে, মুক্তি পাওয়া লোকটির মনে পড়েছিল ইউসুফ তার আর তার সঙ্গীর স্বপ্নের কী ব্যাখ্যা দিয়েছিলেন, আর তা ঠিক যেমন বলেছিলেন তেমনই ঘটেছিল। এই বন্দীর কথা যে সত্য হয়, তার জীবন্ত প্রমাণ সে নিজেই। তাই তার মুখের সিদ্দীক শব্দটি এক সাক্ষীর রায়।"
+          },
+          {
+            "en": "The word carries weight in the Qur'an. Ibrahim (AS) is called siddiqan nabiyya, a man of truth and a prophet, in 19:41, and Idris (AS) in the same words in 19:56. The mother of 'Isa (AS) is siddiqa in 5:75. In 4:69 the siddiqin stand in the company of those Allah has favoured, named after the prophets and before the martyrs and the righteous. Here it comes from a former cellmate to a man still behind prison walls.",
+            "bn": "কুরআনে শব্দটির ওজন অনেক। ১৯:৪১ আয়াতে ইবরাহীম (আঃ)-কে বলা হয়েছে সিদ্দীকান নাবিয়্যা, সত্যনিষ্ঠ ও নবী। ১৯:৫৬ আয়াতে ইদরীস (আঃ)-কেও একই কথায়। ৫:৭৫ আয়াতে ঈসা (আঃ)-এর মা সিদ্দীকা। ৪:৬৯ আয়াতে আল্লাহ যাঁদের অনুগ্রহ করেছেন তাঁদের দলে সিদ্দীকদের নাম এসেছে নবীদের পরে, শহীদ ও সৎকর্মশীলদের আগে। আর এখানে উপাধিটি আসছে জেলের এক পুরোনো সঙ্গীর মুখ থেকে, এমন একজনের জন্য যিনি তখনও কারাগারের দেয়ালের ভেতরে।"
+          },
+          {
+            "en": "Within Surah Yusuf the root returns at a later turn. In 12:51 the wife of al-'Aziz, confessing before the king, ends with wa-innahu la-mina as-sadiqin, and he is indeed of the truthful. The cupbearer's word comes first, from the man who knew Yusuf (AS) in prison. The confession comes later, from the woman who knew him in the house where his trial began. Two witnesses from the two places of his testing reach for the same root.",
+            "bn": "সূরা ইউসুফে এই ধাতু পরে আবার ফিরে আসে। ১২:৫১ আয়াতে আযীযের স্ত্রী রাজার সামনে দোষ স্বীকার করে শেষে বলে: ওয়া ইন্নাহু লামিনাস সাদিকীন, আর সে অবশ্যই সত্যবাদীদের একজন। রাজার পানপাত্রবাহকের কথা আসে আগে, সেই লোকের মুখ থেকে যে ইউসুফ (আঃ)-কে চিনেছিল কারাগারে। স্বীকারোক্তি আসে পরে, সেই নারীর মুখ থেকে যে তাঁকে চিনেছিল সেই ঘরে, যেখানে তাঁর পরীক্ষা শুরু হয়েছিল। তাঁর পরীক্ষার দুই জায়গার দুই সাক্ষী একই ধাতুর শব্দে পৌঁছায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Dream Carried Unaltered",
+          "bn": "স্বপ্ন পৌঁছাল অবিকল"
+        },
+        "p": [
+          {
+            "en": "Then the request: aftina, give us a ruling. The king had said aftuni, give me a ruling, in 12:43. The messenger turns it into the plural, speaking now for the court that sent him. The Muyassar glosses the verb as fassir lana, interpret for us, and Ibn Kathir's Arabic says only that he mentioned the dream the king had seen. Al-Baghawi adds a clause so that no reader mistakes whose dream it is: fa-inna al-malika ra'a hadhihi ar-ru'ya, for it was the king who had seen this dream.",
+            "bn": "তারপর অনুরোধ: আফতিনা, আমাদের ব্যাখ্যা দিন। ১২:৪৩ আয়াতে রাজা বলেছিলেন আফতূনী, আমাকে ব্যাখ্যা দাও। বার্তাবাহক সেটিকে বহুবচন করে নেয়, কারণ এখন সে কথা বলছে তাকে পাঠানো দরবারের হয়ে। মুয়াসসার ক্রিয়াটির অর্থ করে ফাসসির লানা, আমাদের জন্য ব্যাখ্যা করুন। ইবন কাসীরের আরবি তাফসীর শুধু বলে, রাজা যে স্বপ্ন দেখেছিলেন সে তা উল্লেখ করল। স্বপ্নটি কার, তা নিয়ে পাঠকের যেন ভুল না হয়, তাই বাগাভী একটি বাক্য জুড়ে দেন: ফাইন্নাল মালিকা রাআ হাযিহির রু'য়া, কারণ এই স্বপ্ন দেখেছিলেন রাজা।"
+          },
+          {
+            "en": "Set this verse beside 12:43 and the dream crosses from palace to prison in the king's own words and in the king's own order. Only the grammar moves: the words now follow fi, about, and so pass from the accusative into the genitive, sab'a becoming sab'i. The messenger adds nothing and drops nothing. He offers no guess of his own, though the court had just offered a verdict of its own in 12:44. He carries the question exactly as it was put, and leaves the answer to the one who has it.",
+            "bn": "এ আয়াতকে ১২:৪৩ আয়াতের পাশে রাখুন। দেখবেন, রাজার নিজের শব্দে, রাজার নিজের ক্রমেই স্বপ্নটি প্রাসাদ থেকে কারাগারে পৌঁছেছে। বদলেছে শুধু ব্যাকরণ। শব্দগুলো এখন ফী অব্যয়ের পরে এসেছে, তাই আরবিতে কর্মকারকের রূপ ছেড়ে সম্বন্ধের রূপ নিয়েছে: সাব'আ হয়ে গেছে সাব'ই। বার্তাবাহক কিছু যোগ করেনি, কিছু বাদও দেয়নি। ১২:৪৪ আয়াতে দরবার নিজেদের একটা রায় দিয়ে দিয়েছিল, কিন্তু সে নিজের কোনো অনুমান দেয়নি। প্রশ্নটি যেভাবে করা হয়েছিল, ঠিক সেভাবেই সে বয়ে এনেছে, আর উত্তরের ভার ছেড়ে দিয়েছে যাঁর কাছে উত্তর আছে তাঁর উপর।"
+          },
+          {
+            "en": "At-Tabari reads the phrase with the words it leaves understood: about seven fat cows seen in sleep, which seven of them, lean, were eating, and about seven green ears, seen too, and seven others of them dry. He explains 'ijaf as the plural of 'ajif, the emaciated, and records from Qatada, on this verse, that the fat cows are fertile years and the lean ones barren years that grow nothing. What those years would bring, and what Egypt should do about them, Yusuf (AS) explains in 12:47 to 12:49.",
+            "bn": "তাবারী বাক্যটি পড়েন ঊহ্য শব্দগুলো জুড়ে দিয়ে: স্বপ্নে দেখা সাতটি মোটাতাজা গাভী, যাদের খাচ্ছে তাদেরই মধ্য থেকে সাতটি রোগা গাভী। আর স্বপ্নে দেখা সাতটি সবুজ শীষ, আর তাদের মধ্য থেকে অন্য সাতটি শুকনো। তিনি বলেন, ইজাফ হলো আজিফের বহুবচন, মানে হাড্ডিসার। আর এ আয়াতের আলোচনায় কাতাদা থেকে বর্ণনা করেন, মোটা গাভীগুলো ফসলভরা বছর, আর রোগাগুলো এমন খরার বছর যাতে কিছুই জন্মায় না। সেই বছরগুলো কী নিয়ে আসবে আর মিসরের কী করা উচিত, ইউসুফ (আঃ) তা ব্যাখ্যা করেন ১২:৪৭ থেকে ১২:৪৯ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Back to Which People?",
+          "bn": "কোন মানুষের কাছে ফেরা?"
+        },
+        "p": [
+          {
+            "en": "La'alli arji'u ila an-nas: that I may return to the people. Who are these people? The commentators give three answers. Al-Qurtubi and the Muyassar say the king and his companions, the court that had just failed to read the dream. Al-Baghawi says ahl Misr, the people of Egypt, a far wider circle. Al-Qurtubi then adds a third possibility: that by an-nas the man meant the king alone, using the word for many people in order to honour him.",
+            "bn": "লা'আল্লী আরজি'উ ইলান নাস: যাতে আমি মানুষের কাছে ফিরে যেতে পারি। কারা এই মানুষ? তাফসীরকারেরা তিনটি উত্তর দেন। কুরতুবী ও মুয়াসসার বলেন, রাজা আর তাঁর সঙ্গীরা, অর্থাৎ সেই দরবার, যারা একটু আগেই স্বপ্নের অর্থ বের করতে ব্যর্থ হয়েছে। বাগাভী বলেন আহলু মিসর, মিসরের মানুষ, যা অনেক বড় পরিসর। কুরতুবী এরপর তৃতীয় একটি সম্ভাবনাও দেখান: হয়তো আন-নাস বলে লোকটি শুধু রাজাকেই বুঝিয়েছে, সম্মান দেখাতে বহু মানুষের শব্দ ব্যবহার করেছে।"
+          },
+          {
+            "en": "The readings point in different directions. If the people are the court, the man is promising to carry an answer back to the room he left. If they are the people of Egypt, the dream is already a public matter, and what Yusuf (AS) says will reach far beyond the palace. If it is the king alone, the plural is a courtier's courtesy. As-Sa'di describes the mood behind the request: they were eager for its interpretation, and it had worried them. This article records the three readings and does not choose among them.",
+            "bn": "পাঠগুলো ভিন্ন ভিন্ন দিকে ইঙ্গিত করে। মানুষ বলতে দরবার বোঝালে লোকটি কথা দিচ্ছে, যে ঘর থেকে এসেছে সেখানেই উত্তর ফিরিয়ে নেবে। মিসরের মানুষ বোঝালে স্বপ্নটি আগেই সবার বিষয় হয়ে গেছে, আর ইউসুফ (আঃ) যা বলবেন তা প্রাসাদ ছাড়িয়ে বহুদূর যাবে। আর শুধু রাজা বোঝালে বহুবচনটি দরবারি আদব। এই অনুরোধের পেছনের মনের অবস্থা সা'দী বর্ণনা করেন: তারা এর ব্যাখ্যা জানতে উদগ্রীব ছিল, আর স্বপ্নটি তাদের দুশ্চিন্তায় ফেলেছিল। এ লেখা তিনটি পাঠই তুলে রাখে, কোনোটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Meaning, or the Man?",
+          "bn": "অর্থ জানা, নাকি মানুষটিকে?"
+        },
+        "p": [
+          {
+            "en": "The second la'alla closes the verse: la'allahum ya'lamun, perhaps they will know. Know what? At-Tabari reads both clauses as purpose, glossing the first la'alli as kay, so that: so that I return to the people and tell them, so that they know the interpretation of the dream I asked you about. For him the knowledge in question is the meaning of the dream. Al-Baghawi gives the same answer first: they will know the interpretation of the dream.",
+            "bn": "আয়াতের শেষে আসে দ্বিতীয় লা'আল্লা: লা'আল্লাহুম ইয়া'লামূন, হয়তো তারা জানতে পারবে। কী জানবে? তাবারী দুটি বাক্যাংশকেই উদ্দেশ্য অর্থে পড়েন। প্রথম লা'আল্লীর অর্থ করেন কাই, যাতে। অর্থাৎ যাতে আমি মানুষের কাছে ফিরে গিয়ে তাদের জানাতে পারি, যাতে তারা জানতে পারে আপনাকে যে স্বপ্নের কথা জিজ্ঞেস করলাম তার ব্যাখ্যা। তাঁর কাছে এখানে জানার বিষয় স্বপ্নের অর্থ। বাগাভীও প্রথমে একই উত্তর দেন: তারা স্বপ্নের ব্যাখ্যা জানবে।"
+          },
+          {
+            "en": "Others look past the dream to the man. Al-Baghawi goes on to a second view, marked wa-qila, it is said: that they would know your rank in knowledge. Al-Qurtubi gives both as alternatives: they will know the interpretation, or they will know your place in merit and knowledge, fa-takhruj, and so you will be brought out. Ma'arif al-Qur'an takes the second line: once the people hear the interpretation, they may come to know Yusuf's (AS) excellence and his expertise.",
+            "bn": "অন্যরা স্বপ্ন ছাড়িয়ে মানুষটির দিকে তাকান। বাগাভী এরপর ওয়া কীলা, বলা হয়, বলে দ্বিতীয় একটি মত আনেন: তারা জ্ঞানে আপনার মর্যাদা জানতে পারবে। কুরতুবী দুটিকেই বিকল্প হিসেবে রাখেন: তারা ব্যাখ্যা জানবে, অথবা জানবে মর্যাদা ও জ্ঞানে আপনার স্থান কোথায়, ফাতাখরুজ, ফলে আপনি বেরিয়ে আসবেন। মাআরিফুল কুরআন দ্বিতীয় পথটি ধরে: মানুষ ব্যাখ্যা শুনলে হয়তো ইউসুফ (আঃ)-এর শ্রেষ্ঠত্ব আর দক্ষতার কথা জানতে পারবে।"
+          },
+          {
+            "en": "The Muyassar holds the two together in one sentence: so that they know the interpretation of what I asked you, and so that they know your standing and your merit. Al-Qurtubi's fa-takhruj ties the second reading to what follows, the summons of 12:50, which Yusuf (AS) would not answer until his name was cleared. The commentators keep both senses in view, and the verse itself commits to neither. It says only la'alla, perhaps, twice over, and leaves the outcome of the errand open.",
+            "bn": "মুয়াসসার দুটিকে একটি বাক্যে একসঙ্গে ধরে রাখে: যাতে তারা আপনাকে জিজ্ঞেস করা বিষয়ের ব্যাখ্যা জানে, আর যাতে আপনার মর্যাদা ও গুণের কথা জানে। কুরতুবীর ফাতাখরুজ কথাটি দ্বিতীয় পাঠকে জুড়ে দেয় পরের ঘটনার সঙ্গে, ১২:৫০ আয়াতের সেই ডাক, যাতে ইউসুফ (আঃ) সাড়া দেননি নিজের নাম পরিষ্কার হওয়ার আগে। তাফসীরকারেরা দুটি অর্থই চোখের সামনে রাখেন, আর আয়াত নিজে কোনোটিতেই বাঁধা পড়ে না। সে শুধু দুবার লা'আল্লা, হয়তো, বলে, আর এই যাত্রার ফল খোলা রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Answer With No Reproach",
+          "bn": "তিরস্কারহীন উত্তর"
+        },
+        "p": [
+          {
+            "en": "What did Yusuf (AS) say to the man who had forgotten him for so long? Nothing about the forgetting. As-Sa'di puts it plainly: Yusuf did not rebuke him for his forgetting; rather he listened to what he asked him about, and answered it. Ibn Kathir's Arabic says the same and adds a second point. Yusuf gave its interpretation without reproaching that young man for forgetting what he had charged him with, and without first making his release from prison a condition.",
+            "bn": "যে লোকটি এতদিন তাঁকে ভুলে ছিল, তাকে ইউসুফ (আঃ) কী বললেন? ভুলে যাওয়া নিয়ে একটি কথাও না। সা'দী সোজা কথায় বলেন: ইউসুফ তার ভুলের জন্য তাকে তিরস্কার করেননি। বরং সে যা জিজ্ঞেস করেছে তা মন দিয়ে শুনেছেন, তারপর উত্তর দিয়েছেন। ইবন কাসীরের আরবি তাফসীরও একই কথা বলে, সঙ্গে যোগ করে আরেকটি বিষয়। ইউসুফ স্বপ্নের ব্যাখ্যা দিয়েছেন সেই যুবককে কোনো ভর্ৎসনা না করে, যদিও তাঁর দেওয়া দায়িত্ব সে ভুলে গিয়েছিল। আর ব্যাখ্যা দেওয়ার আগে কারাগার থেকে মুক্তির কোনো শর্তও জুড়ে দেননি।"
+          },
+          {
+            "en": "That second point deserves weighing. A prisoner who holds the one answer a king needs has something to bargain with, and Ibn Kathir notes that Yusuf (AS) did not use it. He gave what was asked before asking anything for himself. How he then met the king's summons is the business of 12:50. On 12:46 itself, none of the commentaries consulted attaches a sound hadith, and none of them gives an occasion of revelation.",
+            "bn": "দ্বিতীয় কথাটা একটু ভেবে দেখার মতো। রাজার দরকারি একমাত্র উত্তরটি যে বন্দীর কাছে আছে, তার হাতে দর-কষাকষির সুযোগ থাকে। ইবন কাসীর লক্ষ করেন, ইউসুফ (আঃ) সে সুযোগ নেননি। নিজের জন্য কিছু চাওয়ার আগেই তিনি যা চাওয়া হয়েছিল তা দিয়ে দিয়েছেন। এরপর রাজার ডাকে তিনি কীভাবে সাড়া দিলেন, সে আলোচনা ১২:৫০ আয়াতের। ১২:৪৬ আয়াতের ব্যাপারে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, আর কোনোটিই আয়াতটির শানে নুযূল উল্লেখ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truth Known Before Need",
+          "bn": "প্রয়োজনের আগেই চেনা সত্য"
+        },
+        "p": [
+          {
+            "en": "The cupbearer could have reached for any title. He might have called Yusuf (AS) the dream-reader, or the wise man of the prison. He chose the word for a man whose words prove true. Years in a cell had taken Yusuf's freedom and his standing, and a man he had helped had let his name slip. What remained, and what opened the door, was a reputation for truth that even a forgetful man had kept.",
+            "bn": "রাজার পানপাত্রবাহক যেকোনো উপাধি বেছে নিতে পারত। ইউসুফ (আঃ)-কে সে ডাকতে পারত স্বপ্নের ব্যাখ্যাকার, কিংবা জেলখানার জ্ঞানী মানুষ বলে। সে বেছে নিল সেই শব্দ, যা বলা হয় এমন মানুষকে যার কথা সত্য প্রমাণিত হয়। জেলের বছরগুলো ইউসুফের স্বাধীনতা কেড়ে নিয়েছিল, কেড়ে নিয়েছিল তাঁর সামাজিক অবস্থান। যাকে তিনি উপকার করেছিলেন, সে-ও তাঁর নাম ভুলে গিয়েছিল। তবু যা রয়ে গেল, আর যা শেষে দরজা খুলে দিল, তা হলো সত্যবাদিতার সুনাম। ভুলো মনের মানুষটিও সেটি ভোলেনি।"
+          },
+          {
+            "en": "Two habits follow from the verse. The first is to be truthful now, in word and in deed, as as-Sa'di defines the siddiq, because you cannot know when someone will need to vouch for you. The second belongs to the moment the man arrives. When a person who once failed you comes back needing you, the verse shows a way: hear the request out, answer it fully, and leave the reproach unsaid. Yusuf's (AS) silence about the lost years was itself a gift.",
+            "bn": "এ আয়াত থেকে দুটি অভ্যাসের শিক্ষা মেলে। প্রথমটি হলো এখন থেকেই সত্যবাদী থাকা, কথায় ও কাজে, যেভাবে সা'দী সিদ্দীকের সংজ্ঞা দিয়েছেন। কারণ কবে কাউকে আপনার হয়ে সাক্ষ্য দিতে হবে, আপনি জানেন না। দ্বিতীয়টি সেই মুহূর্তের, যখন লোকটি এসে পৌঁছায়। যে একদিন আপনাকে নিরাশ করেছিল, সে যদি আপনার প্রয়োজনে ফিরে আসে, আয়াত একটি পথ দেখায়: পুরো অনুরোধটা শুনুন, পুরোপুরি উত্তর দিন, আর তিরস্কারের কথা মুখে আনবেন না। হারানো বছরগুলো নিয়ে ইউসুফ (আঃ)-এর নীরবতাও ছিল এক ধরনের দান।"
+          }
+        ]
+      }
+    ]
+  },
   "12:50": {
     "sections": [
       {
