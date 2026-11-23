@@ -30403,6 +30403,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not claim the righteous by a label; follow their way, and speak the truth you hold from Allah even when it costs you the argument.",
     "lessonBn": "লেবেলের জোরে নেককারদের নিজের বলে দাবি করবেন না; তাঁদের পথ ধরুন, আর আল্লাহর কাছ থেকে পাওয়া সত্য বলুন, তাতে তর্কে হারতে হলেও।"
+  },
+  "2:145": {
+    "reflectionEn": "The direction of prayer has just changed, and the verse tells the Prophet ﷺ something hard: bring them every sign there is and they still will not follow your qiblah. Proof was never what they lacked. Then it settles his own side: nor will you follow theirs. Then it adds that they do not even follow each other's. Finally it raises the stakes with a condition: to follow their wishes after knowledge has come would be wrongdoing. Spoken to the best of people, the warning falls with full weight on everyone after him. When I already know what is right, do I keep asking for one more argument, or do I quietly trade it for the approval of the people around me?",
+    "reflectionBn": "সালাতের কিবলা সবে বদলেছে। এমন সময় আয়াতটি নবী ﷺ-কে একটি কঠিন কথা জানায়: সব নিদর্শন এনে দিলেও তারা আপনার কিবলা মানবে না। প্রমাণের অভাব কখনো আসল বাধা ছিল না। তারপর তাঁর নিজের অবস্থান স্থির করে দেয়: আপনিও তাদের কিবলা মানবেন না। এরপর জানায়, তারা নিজেরাও একে অপরের কিবলা মানে না। শেষে একটি শর্ত দিয়ে বিষয়টির গুরুত্ব বাড়ায়: জ্ঞান আসার পর তাদের খেয়ালখুশির অনুসরণ জুলুম হবে। কথাটা বলা হয়েছে মানুষের মধ্যে শ্রেষ্ঠজনকে, তাই সতর্কবাণীর পুরো ভার এসে পড়ে তাঁর পরের সবার উপর। যা সঠিক তা যখন আমি জেনেই গেছি, তখনো কি আরেকটা যুক্তির অপেক্ষায় থাকি? নাকি চারপাশের মানুষের সন্তুষ্টির বিনিময়ে চুপচাপ সেটা ছেড়ে দিই?",
+    "pointsEn": [
+      "Is there a truth I keep postponing by asking for one more proof, when the real obstacle is something I do not want to give up?",
+      "Whose approval am I most tempted to buy by bending what I know to be right?",
+      "When people pull me in opposite directions, do I try to please every side, or hold to what Allah has asked of me?",
+      "Do I treat knowing something as a privilege, or as a weight that makes my own failure heavier?",
+      "Can I stand firm on my practice without contempt for those who do not share it?"
+    ],
+    "pointsBn": [
+      "এমন কোনো সত্য কি আছে, যা আমি আরেকটা প্রমাণ চেয়ে চেয়ে পিছিয়ে দিচ্ছি, অথচ আসল বাধা এমন কিছু যা আমি ছাড়তে চাই না?",
+      "কার সন্তুষ্টি পেতে আমি সবচেয়ে বেশি প্রলুব্ধ হই, যার জন্য জানা সত্যকে একটু বাঁকিয়ে নিতে ইচ্ছে করে?",
+      "মানুষ যখন আমাকে দুই বিপরীত দিকে টানে, আমি কি সব পক্ষকে খুশি রাখতে চাই, নাকি আল্লাহ যা চেয়েছেন তা আঁকড়ে থাকি?",
+      "কোনো কিছু জানাকে আমি কি শুধু সম্মান ভাবি, নাকি এমন এক বোঝা, যা আমার নিজের গাফিলতিকে আরও ভারী করে?",
+      "যারা আমার আমলে শরিক নয়, তাদের প্রতি অবজ্ঞা না রেখেই কি আমি নিজের আমলে অটল থাকতে পারি?"
+    ],
+    "lessonEn": "Once the truth is clear, no argument is owed to endless demands; hold to it, and never trade knowledge for anyone's approval.",
+    "lessonBn": "সত্য স্পষ্ট হয়ে গেলে অন্তহীন দাবির জবাব দেওয়ার দায় থাকে না। সত্যে অটল থাকুন, আর কারও সন্তুষ্টির বিনিময়ে জ্ঞানকে বিকিয়ে দেবেন না।"
   }
 };
 

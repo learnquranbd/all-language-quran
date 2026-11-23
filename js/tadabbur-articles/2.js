@@ -5655,6 +5655,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:145": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Turning, the Holdouts",
+          "bn": "কিবলা বদলের পর যারা অনড়"
+        },
+        "p": [
+          {
+            "en": "2:144 closed by saying that those given the Scripture know the new direction is the truth from their Lord. 2:145 draws the blunt consequence: knowing it, they still will not follow. The verse does not retell the change. It begins after it, with the Prophet ﷺ already facing the Sacred Mosque, and asks who will turn with him. The Muyassar reads every sign as every argument and proof that facing the Ka'bah in prayer is the truth from Allah.",
+            "bn": "২:১৪৪ আয়াত শেষ হয়েছে এই কথায়: কিতাবপ্রাপ্তরা জানে, নতুন কিবলা তাদের রবের পক্ষ থেকে আসা সত্য। ২:১৪৫ এর স্পষ্ট ফলটা জানিয়ে দেয়: জেনেও তারা মানবে না। কিবলা বদলের ঘটনা আয়াতটি নতুন করে বলে না। নবী ﷺ ততক্ষণে মাসজিদুল হারামের দিকে মুখ ফিরিয়েছেন। প্রশ্ন এখন, তাঁর সঙ্গে কারা ফিরবে? মুয়াসসারের ব্যাখ্যায় সব নিদর্শন মানে এমন সব যুক্তি ও প্রমাণ, যা দেখায় যে সালাতে কাবার দিকে মুখ করাই আল্লাহর পক্ষ থেকে আসা সত্য।"
+          },
+          {
+            "en": "The verse moves in four clauses: they will not follow your qiblah, you will not follow theirs, their factions do not follow each other's, and a closing condition: following their desires after knowledge would be wrongdoing. At-Tabari and al-Baghawi take those given the Book as the Jews and the Christians; the Muyassar says those given the Torah and the Injil. Ibn Kathir opens on the Jews in particular and their stubbornness against what they knew about the Messenger ﷺ. 2:146 says what that was.",
+            "bn": "আয়াতটি চারটি বাক্যে এগোয়। তারা আপনার কিবলা মানবে না। আপনিও তাদের কিবলা মানবেন না। তাদের দলগুলোও একে অপরের কিবলা মানে না। শেষে একটি শর্ত: জ্ঞান আসার পর তাদের খেয়ালখুশি মানা হবে জুলুম। তাবারী ও বাগাভীর মতে কিতাবপ্রাপ্তরা হলো ইহুদি ও খ্রিস্টানরা। মুয়াসসার বলে, যাদের তাওরাত ও ইঞ্জীল দেওয়া হয়েছিল। ইবন কাসীর শুরু করেন বিশেষভাবে ইহুদিদের কথা দিয়ে, রাসূল ﷺ সম্পর্কে যা তারা জানত তার বিরুদ্ধে তাদের জেদের কথা। তারা কী জানত, তা বলে ২:১৪৬ আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proof Was Never Their Lack",
+          "bn": "ঘাটতি কখনো প্রমাণের ছিল না"
+        },
+        "p": [
+          {
+            "en": "What is meant by every ayah? At-Tabari reads it as every proof and argument that the truth is what the Prophet ﷺ brought, namely the obligation to turn from Bayt al-Maqdis to the Sacred Mosque; though the argument stood against them, they would neither believe it nor follow his qiblah. Al-Baghawi reads ayah as a miracle, and gives a setting: the Jews and Christians had said, bring us a sign for what you claim. Al-Qurtubi glosses it as marks.",
+            "bn": "বিকুল্লি আয়াহ, সব নিদর্শন, বলতে কী বোঝানো হয়েছে? তাবারীর মতে এর অর্থ এমন সব প্রমাণ ও যুক্তি, যা দেখায় যে নবী ﷺ যা এনেছেন সেটাই সত্য, অর্থাৎ বায়তুল মাকদিসের কিবলা ছেড়ে মাসজিদুল হারামের দিকে ফেরার ফরজ বিধান। যুক্তি তাদের বিরুদ্ধে দাঁড়িয়ে গেলেও তারা তা বিশ্বাস করত না, তাঁর কিবলাও মানত না। বাগাভী আয়াহ শব্দকে মুজিযা অর্থে নেন। প্রেক্ষাপটও দেন: ইহুদি ও খ্রিস্টানরা বলেছিল, তুমি যা বলছ তার পক্ষে আমাদের একটা নিদর্শন এনে দাও। কুরতুবী শব্দটির অর্থ করেন আলামত।"
+          },
+          {
+            "en": "Al-Qurtubi gives the reason the signs fail: they disbelieved after the truth had become clear to them. Ibn Kathir sets the verse beside 10:96 and 10:97: those against whom the word of your Lord has come due will not believe, even if every sign comes to them, until they see the painful punishment. Ma'arif al-Qur'an says they are not asking for convincing arguments in order to accept the new ruling; it is sheer stubbornness, and no proof will satisfy them.",
+            "bn": "নিদর্শন কেন কাজে আসে না, কুরতুবী তার কারণ বলেন: সত্য স্পষ্ট হওয়ার পরও তারা কুফরি করেছে। ইবন কাসীর আয়াতটি রাখেন ১০:৯৬ ও ১০:৯৭ আয়াতের পাশে: যাদের উপর তোমার রবের বাণী সাব্যস্ত হয়ে গেছে, তারা ঈমান আনবে না, সব নিদর্শন তাদের কাছে এলেও, যতক্ষণ না যন্ত্রণাদায়ক শাস্তি দেখে। মাআরিফুল কুরআন বলে, নতুন বিধান মানার জন্য তারা বিশ্বাসযোগ্য যুক্তি চাইছে, ব্যাপারটা তা নয়। এ নিছক জেদ, কোনো প্রমাণই তাদের সন্তুষ্ট করবে না।"
+          },
+          {
+            "en": "As-Sa'di explains the mechanism. Signs help whoever is looking for the truth while it is still unclear to him; clear proofs then make it plain. For someone already resolved not to follow, there is no remedy. He also notes why the verse says they would not follow your qiblah rather than they would not follow you: following the qiblah is itself evidence of following the Prophet ﷺ, and the qiblah was the matter in dispute. Refusing the direction meant refusing him.",
+            "bn": "ব্যাপারটা কীভাবে ঘটে, সাদী তা খুলে বলেন। নিদর্শন কাজে আসে তার, যে সত্য খুঁজছে অথচ সত্যটা তার কাছে এখনো অস্পষ্ট। স্পষ্ট দলিল তখন বিষয়টা খুলে দেয়। কিন্তু যে আগেই ঠিক করে রেখেছে মানবে না, তার জন্য কোনো উপায় নেই। আয়াত কেন বলল তারা আপনার কিবলা মানবে না, কেন বলল না আপনাকে মানবে না, সাদী তারও কারণ দেখান। কিবলা মানাটাই নবী ﷺ-কে মানার প্রমাণ, আর বিরোধটা ছিল কিবলা নিয়েই। তাই দিকটি প্রত্যাখ্যান মানে তাঁকেই প্রত্যাখ্যান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "La'in Answered as Law",
+          "bn": "লাইন, যার জবাব লাও-এর মতো"
+        },
+        "p": [
+          {
+            "en": "The verse opens with wa la'in, and if indeed, a conditional sharpened by an oath-like lam that normally looks to the future. Yet its answer is in the past tense: ma tabi'u, they would not have followed. At-Tabari explains: la'in has been answered as law is answered, law being the if of what is not the case, because their meanings are close. So the sense is: were you to bring those given the Book every sign, they would not follow your qiblah.",
+            "bn": "আয়াতের শুরু ওয়া লাইন দিয়ে, অর্থাৎ আর যদি সত্যিই। এটি শর্তবাচক শব্দ, সঙ্গে শপথের মতো জোর আনা একটি লাম, আর এ গঠন সাধারণত ভবিষ্যতের দিকে তাকায়। অথচ জবাব এসেছে অতীত কালে: মা তাবিউ, তারা মানত না। তাবারী এই ব্যতিক্রমের ব্যাখ্যা দেন। লাও শব্দ ব্যবহৃত হয় এমন যদি অর্থে, যা বাস্তবে ঘটেনি। দুটির অর্থ কাছাকাছি বলে লাইনের জবাব দেওয়া হয়েছে লাও-এর জবাবের মতো করে। তাই বাক্যের মর্ম দাঁড়ায়: কিতাবপ্রাপ্তদের কাছে আপনি সব নিদর্শন আনলেও তারা আপনার কিবলা মানত না।"
+          },
+          {
+            "en": "Al-Qurtubi records that the grammarians differed. Al-Farra' and al-Akhfash held that la'in takes the answer of law because the meaning is if you were to bring, comparing 30:51, where la'in is again followed by a past verb. Sibawayh disagreed: the two words differ in meaning and neither stands in for the other, so the sense is they will not follow your qiblah, a firm statement about the future. Al-Qurtubi leaves both standing. Either way the door is shut.",
+            "bn": "কুরতুবী জানান, ব্যাকরণবিদেরা এখানে ভিন্নমত করেছেন। ফাররা ও আখফাশের মতে লাইন লাও-এর জবাব নিয়েছে, কারণ অর্থ হলো যদি আপনি আনতেন। তুলনা হিসেবে তাঁরা ৩০:৫১ আয়াত দেখান, সেখানেও লাইনের পরে অতীত কালের ক্রিয়া এসেছে। সীবাওয়াইহ এ মত মানেননি। তাঁর মতে দুটি শব্দের অর্থ আলাদা, একটি আরেকটির জায়গা নেয় না। তাই অর্থ হবে: তারা আপনার কিবলা মানবে না, ভবিষ্যৎ সম্পর্কে এক দৃঢ় ঘোষণা। কুরতুবী দুটি মতই রেখে দেন। যেভাবেই পড়ুন, দরজা বন্ধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report That Carries Command",
+          "bn": "সংবাদের ভেতরে আদেশ"
+        },
+        "p": [
+          {
+            "en": "Wa ma anta bi-tabi'in qiblatahum: nor are you a follower of their qiblah. Al-Qurtubi notes that the wording is a report but contains a command: do not lean toward any of that. As-Sa'di finds the report stronger than a plain do not follow. A prohibition leaves the act conceivable; this sentence describes the Prophet ﷺ as already marked by differing from them, so following their qiblah could not happen from him at all.",
+            "bn": "ওয়া মা আনতা বিতাবিইন কিবলাতাহুম: আর আপনিও তাদের কিবলার অনুসারী নন। কুরতুবী বলেন, বাক্যটি দেখতে সংবাদ, কিন্তু ভেতরে আদেশ আছে: এসবের কোনো কিছুর দিকে ঝুঁকবেন না। সাদীর মতে এই সংবাদরূপী বাক্য সরাসরি মানবেন না বলার চেয়ে জোরালো। নিষেধ শুনলে মনে হয় কাজটা ঘটতেও পারে। এখানে বরং নবী ﷺ-এর পরিচয়ই দেওয়া হয়েছে তাদের থেকে আলাদা হিসেবে। তাই তাদের কিবলা মানা তাঁর থেকে ঘটারই নয়।"
+          },
+          {
+            "en": "At-Tabari reads it practically: you have no way, O Muhammad, to follow their qiblah. The Jews face Bayt al-Maqdis in prayer and the Christians face the east, so how could you follow a qiblah whose directions differ? Keep to the qiblah you were commanded, he says, and leave what the Jews and Christians call you to. Ibn Kathir reads the clause as telling how firmly the Messenger ﷺ followed Allah's command: as they hold to their opinions and desires, he holds to that command.",
+            "bn": "তাবারী এর একটি বাস্তব পাঠ দেন: হে মুহাম্মাদ, তাদের কিবলা মানার কোনো পথ আপনার নেই। ইহুদিরা সালাতে বায়তুল মাকদিসের দিকে মুখ করে, খ্রিস্টানরা পূর্ব দিকে। দিকগুলোই যখন আলাদা, তখন তাদের কিবলা আপনি মানবেন কীভাবে? তিনি বলেন, যে কিবলার আদেশ আপনাকে দেওয়া হয়েছে তা আঁকড়ে থাকুন, ইহুদি ও খ্রিস্টানরা যেদিকে ডাকে তা ছেড়ে দিন। ইবন কাসীরের পাঠে বাক্যটি জানায়, আল্লাহর আদেশ রাসূল ﷺ কত দৃঢ়ভাবে মানতেন। তারা যেমন নিজেদের মত ও খেয়াল আঁকড়ে আছে, তিনি তেমনি আঁকড়ে আছেন সেই আদেশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Directions, Neither Shared",
+          "bn": "দুই দিক, কেউ কারও নয়"
+        },
+        "p": [
+          {
+            "en": "Wa ma ba'duhum bi-tabi'in qiblata ba'd: nor do some of them follow the qiblah of others. At-Tabari relays from as-Suddi that the Jews do not follow the qiblah of the Christians, nor the Christians that of the Jews, and the same from Ibn Zayd. Al-Baghawi gives the directions: the Jews face Bayt al-Maqdis, which he calls the west, the Christians face the east, and the Muslims the Ka'bah. Ma'arif al-Qur'an adds that each group rejects the other's qiblah.",
+            "bn": "ওয়া মা বাদুহুম বিতাবিইন কিবলাতা বাদ: আর তাদের একদল অন্য দলের কিবলার অনুসারী নয়। তাবারী সুদ্দী থেকে বর্ণনা করেন, ইহুদিরা খ্রিস্টানদের কিবলা মানে না, খ্রিস্টানরাও ইহুদিদের কিবলা মানে না। ইবন যাইদ থেকেও একই কথা আনেন। দিকগুলো বাগাভী নির্দিষ্ট করে বলেন। ইহুদিরা মুখ করে বায়তুল মাকদিসের দিকে, তাঁর বর্ণনায় সেটা পশ্চিম দিক। খ্রিস্টানরা মুখ করে পূর্ব দিকে। আর মুসলিমদের কিবলা কাবা। মাআরিফুল কুরআন যোগ করে, প্রতিটি দলই অন্য দলের কিবলা প্রত্যাখ্যান করে।"
+          },
+          {
+            "en": "Al-Qurtubi, also citing as-Suddi and Ibn Zayd, reads the clause as notice of their disagreement, their turning their backs on each other, and their straying. He records a second view: those of them who followed the Prophet ﷺ and became Muslim do not follow the qiblah of those who did not, nor the reverse. He judges the first reading more evident, adding, Allah knows best. As-Sa'di draws the consequence: since they are already divided among themselves, their refusal of your qiblah is no surprise.",
+            "bn": "কুরতুবীও সুদ্দী ও ইবন যাইদের বরাত দেন। তাঁর পাঠে বাক্যটি তাদের মতভেদ, পরস্পরের প্রতি পিঠ ফিরিয়ে থাকা আর পথভ্রষ্টতার খবর দেয়। আরেকটি মতও তিনি উল্লেখ করেন: তাদের মধ্যে যারা নবী ﷺ-এর অনুসরণ করে মুসলিম হয়েছে, তারা বাকিদের কিবলা মানে না, বাকিরাও তাদেরটা মানে না। কুরতুবী প্রথম পাঠকে বেশি স্পষ্ট মনে করেন, সঙ্গে বলেন, আল্লাহই ভালো জানেন। সাদী এর ফল টানেন। নিজেদের মধ্যে বিভেদ তো আগে থেকেই আছে, কাজেই আপনার কিবলা তারা না মানলে অবাক হওয়ার কিছু নেই।"
+          },
+          {
+            "en": "At-Tabari draws the lesson for the Prophet ﷺ. Do not set your heart on the approval of these Jews and Christians; there is no way to it, since following the qiblah of either party would anger the other. Leave what cannot be reached, and call them to what can: gathering on your hanif way and your qiblah, the qiblah of Ibrahim (AS) and the prophets after him. At-Tabari also relays as-Suddi's account of what the Jews said after the change; it carries no grading.",
+            "bn": "নবী ﷺ-এর জন্য তাবারী এর শিক্ষাটা বের করে আনেন। এই ইহুদি ও খ্রিস্টানদের সন্তুষ্টির আশায় মন বেঁধে রাখবেন না, সেখানে পৌঁছানোর পথ নেই। কোনো এক দলের কিবলা মানলে অন্য দল নাখোশ হবে। যা পাওয়ার নয় তা ছেড়ে দিন, আর তাদের ডাকুন যা পাওয়া সম্ভব তার দিকে: আপনার একনিষ্ঠ দীনে আর আপনার কিবলায় একত্র হওয়া, যে কিবলা ইবরাহীম (আঃ) ও তাঁর পরের নবীদের। কিবলা বদলের পর ইহুদিরা কী বলেছিল, সে বিষয়ে সুদ্দীর একটি বর্ণনাও তাবারী আনেন। তার কোনো মান নির্ধারণ করা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Desires Rather Than a Religion",
+          "bn": "দীন নয়, খেয়ালখুশি"
+        },
+        "p": [
+          {
+            "en": "The last clause turns from qiblahs to ahwa', desires. As-Sa'di asks why the verse says their desires and not their religion. What they hold to here, he answers, is only the desire of the self, and in their hearts they know it is not religion; whoever leaves the religion follows desire, inevitably. He cites 45:23: have you seen him who takes his own desire as his god? What the Prophet ﷺ is told to refuse is not a rival revelation but a preference.",
+            "bn": "শেষ বাক্যে আলোচনা কিবলা থেকে আহওয়া, অর্থাৎ খেয়ালখুশির দিকে ঘোরে। সাদী প্রশ্ন তোলেন, আয়াত কেন তাদের খেয়ালখুশি বলল, তাদের দীন বলল না? তাঁর জবাব: এখানে তারা যা আঁকড়ে আছে তা কেবল মনের খেয়াল, আর তারা নিজেরাও মনে মনে জানে যে এটা দীন নয়। যে দীন ছাড়ে, সে খেয়ালখুশির পেছনে চলবেই। তিনি ৪৫:২৩ আয়াত উদ্ধৃত করেন: আপনি কি তাকে দেখেছেন, যে নিজের খেয়ালকে নিজের ইলাহ বানিয়ে নিয়েছে? নবী ﷺ-কে যা প্রত্যাখ্যান করতে বলা হচ্ছে, তা প্রতিদ্বন্দ্বী কোনো ওহি নয়, নিছক পছন্দ।"
+          },
+          {
+            "en": "At-Tabari gives the clause concrete content. Following their desires means seeking the approval of these Jews and Christians, who had said, be Jews or Christians and you will be guided, the words of 2:135, and so returning to their qiblah. The knowledge that has come is Allah's informing him that they were upon falsehood and obstinacy, and that his qiblah was the qiblah made obligatory on his father Ibrahim (AS) and the messengers among his descendants.",
+            "bn": "তাবারী বাক্যটিকে বাস্তব রূপ দেন। তাদের খেয়ালখুশি মানা মানে এই ইহুদি ও খ্রিস্টানদের সন্তুষ্টি খোঁজা, যারা বলেছিল, ইহুদি বা খ্রিস্টান হয়ে যাও, হিদায়াত পাবে, যে কথা ২:১৩৫ আয়াতে আছে। আর সে সন্তুষ্টি খোঁজার মানে তাদের কিবলায় ফিরে যাওয়া। যে জ্ঞান এসেছে তা হলো আল্লাহর জানিয়ে দেওয়া যে তারা বাতিল আর জেদের উপর আছে, আর তাঁর কিবলাই সেই কিবলা, যা তাঁর পিতা ইবরাহীম (আঃ) ও তাঁর বংশের রাসূলদের উপর ফরজ করা হয়েছিল।"
+          },
+          {
+            "en": "Then the wrongdoers. At-Tabari: you would be among My servants who wrong themselves, go against My command and leave obedience to Me. The Muyassar likewise reads wrongdoers against themselves, and widens the desires to the qiblah and other matters. As-Sa'di asks what wrong is greater than knowing truth and falsehood and preferring the falsehood. Ibn Kathir names the principle: the proof against those who know stands firmer than against others.",
+            "bn": "এরপর জালিমদের কথা। তাবারী বলেন: তখন আপনি আমার সেই বান্দাদের অন্তর্ভুক্ত হতেন, যারা নিজেদের উপর জুলুম করে, আমার আদেশের বিরোধিতা করে আর আমার আনুগত্য ছেড়ে দেয়। মুয়াসসারও জালিম মানে করে নিজেদের উপর জুলুমকারী, আর খেয়ালখুশির পরিধি বাড়িয়ে নেয় কিবলা ও অন্যান্য বিষয় পর্যন্ত। সাদীর প্রশ্ন, সত্য আর বাতিল দুটোই চিনে বাতিলকে বেছে নেওয়ার চেয়ে বড় জুলুম আর কী? ইবন কাসীর নীতিটা বলে দেন: যারা জানে, তাদের বিরুদ্ধে দলিল অন্যদের চেয়ে বেশি পোক্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Him, Meant for Us",
+          "bn": "তাঁকে বলা, আমাদের জন্য"
+        },
+        "p": [
+          {
+            "en": "Who is this warning for? Al-Qurtubi answers carefully. The address is to the Prophet ﷺ, and those meant are his community, among whom someone may follow desire and become a wrongdoer by it. It is not possible for the Prophet ﷺ to do what would make him a wrongdoer, given his protection from sin and our certainty that this would not come from him. He was addressed, al-Qurtubi adds, to show the gravity of the matter, and because the revelation came down to him.",
+            "bn": "সতর্কবাণীটা কার জন্য? কুরতুবী সাবধানে জবাব দেন। সম্বোধন নবী ﷺ-কে, কিন্তু উদ্দেশ্য তাঁর উম্মত, যাদের মধ্যে কেউ খেয়ালখুশির পেছনে চলে জালিম হয়ে যেতে পারে। নবী ﷺ এমন কিছু করবেন যাতে তিনি জালিম হন, তা সম্ভব নয়, কারণ তিনি গুনাহ থেকে সুরক্ষিত, আর আমরা নিশ্চিত যে এমন কিছু তাঁর থেকে ঘটবে না। কুরতুবী আরও বলেন, তাঁকে সম্বোধন করা হয়েছে বিষয়টির গুরুত্ব বোঝাতে, আর এজন্য যে ওহি তাঁর উপরই নাজিল হয়।"
+          },
+          {
+            "en": "The others agree. Al-Baghawi: the address is to the Prophet ﷺ and the community is meant. Ibn Kathir: Allah spoke to the Messenger with the community intended. The Muyassar calls it an address to the whole community and a threat to whoever follows the desires of those opposing the law of Islam. Ma'arif al-Qur'an calls it a supposition for the sake of supposing, a situation that can never arise, since a prophet is protected from sin.",
+            "bn": "অন্যরাও একমত। বাগাভী বলেন, সম্বোধন নবী ﷺ-কে, উদ্দেশ্য উম্মত। ইবন কাসীর বলেন, আল্লাহ কথা বলেছেন রাসূলকে, লক্ষ্য তাঁর উম্মত। মুয়াসসার বাক্যটিকে বলে গোটা উম্মতের প্রতি সম্বোধন, আর ইসলামের শরিয়তবিরোধীদের খেয়ালখুশি যে মানে তার জন্য হুমকি। মাআরিফুল কুরআনের ভাষায় এ শুধু অনুমানের খাতিরে অনুমান, এমন অবস্থা কখনো আসতে পারে না, কারণ নবী গুনাহ থেকে সুরক্ষিত।"
+          },
+          {
+            "en": "As-Sa'di joins the two halves. The address is to him, and his community is included. Then he argues from greater to lesser: if he ﷺ, far be it from him, were to do this, he would become a wrongdoer despite his high rank and many good deeds, so anyone else all the more. 2:120 carries a similar condition ending in no protector and no helper; here it ends among the wrongdoers. The sentence describes no step he took. Its weight lands on the reader.",
+            "bn": "সাদী দুটি দিক এক করেন। সম্বোধন তাঁকে, আর তাঁর উম্মতও এর ভেতরে শামিল। তারপর তিনি বড় থেকে ছোটর দিকে যুক্তি দেন: তিনি ﷺ যদি এমনটা করতেন, আর তিনি এর বহু ঊর্ধ্বে, তবে এত উঁচু মর্যাদা আর এত নেক আমল সত্ত্বেও জালিম হয়ে যেতেন। তাহলে অন্যরা তো আরও বেশি। ২:১২০ আয়াতেও একই রকম শর্ত আছে, তার শেষ কোনো অভিভাবক বা সাহায্যকারী না থাকায়। এখানে শেষ জালিমদের দলে। বাক্যটি তাঁর নেওয়া কোনো পদক্ষেপের বর্ণনা দেয় না। এর ভার এসে পড়ে পাঠকের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whatever Lies Between East and West",
+          "bn": "পূর্ব আর পশ্চিমের মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted attaches a sound hadith to this verse itself. Al-Baghawi brings through his own chain a general narration on the direction of prayer, which at-Tirmidhi records in his Jami' (344) from Abu Hurayrah (RA): Allah's Messenger ﷺ said, \"What is between the east and the west is Qiblah.\" At-Tirmidhi grades it hasan sahih, and adds that it is also reported from several Companions. The narration speaks of the qiblah in general and is not tied to this verse.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদীস জোড়েনি। বাগাভী এখানে নিজের সনদে কিবলা বিষয়ে একটি সাধারণ বর্ণনা আনেন। তিরমিযী তাঁর জামে গ্রন্থে (৩৪৪) আবূ হুরায়রা (রাঃ) থেকে এটি বর্ণনা করেন: আল্লাহর রাসূল ﷺ বলেছেন, \"পূর্ব ও পশ্চিমের মাঝখানে যা আছে, তা-ই কিবলা।\" তিরমিযী একে হাসান সহীহ বলেছেন, আর জানিয়েছেন যে একাধিক সাহাবি থেকেও কথাটি বর্ণিত। বর্ণনাটি কিবলা সম্পর্কে সাধারণ কথা বলে, এ আয়াতের সঙ্গে এর কোনো বাঁধন নেই।"
+          },
+          {
+            "en": "Al-Baghawi explains it as meant for the people of the east, as at-Tirmidhi also reports from Ibn al-Mubarak. By east al-Baghawi means sunrise on the shortest day of winter, and by west sunset on the longest day of summer; whoever puts the summer sunset on his right and the winter sunrise on his left faces the qiblah. Read beside this verse, it shows a law that would not bend to desire about which qiblah, yet leaves room in how a distant worshipper finds it.",
+            "bn": "বাগাভী ব্যাখ্যা দেন, কথাটি পূর্বাঞ্চলের মানুষদের জন্য। তিরমিযীও ইবনুল মুবারক থেকে একই কথা জানান। বাগাভীর মতে পূর্ব মানে শীতের সবচেয়ে ছোট দিনের সূর্যোদয়ের দিক, আর পশ্চিম মানে গ্রীষ্মের সবচেয়ে বড় দিনের সূর্যাস্তের দিক। যে গ্রীষ্মের সূর্যাস্তের দিক ডানে আর শীতের সূর্যোদয়ের দিক বাঁয়ে রাখে, সে কিবলামুখী। এ আয়াতের পাশে রেখে পড়লে দেখা যায়, কোন কিবলা, সে প্রশ্নে বিধান কারও খেয়ালের দিকে ঝোঁকেনি। অথচ দূরের নামাজি দিকটা কীভাবে খুঁজবে, সেখানে ছাড় রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Firm Ground Without Contempt",
+          "bn": "অবজ্ঞা ছাড়াই অটল থাকা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes those who refused the new qiblah in the Prophet's ﷺ time, as the commentators read them, and it licenses nothing against any living person or community, Jewish, Christian or other. It tells believers to hold their own direction, not to scorn their neighbours. Ibn Kathir even guards the earlier qiblah: the Prophet ﷺ had faced Bayt al-Maqdis not because it was the qiblah of the Jews, but by Allah's command.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। নবী ﷺ-এর সময়ে যারা নতুন কিবলা প্রত্যাখ্যান করেছিল, তাফসীরকারদের পাঠ অনুযায়ী আয়াতটি তাদের বর্ণনা দেয়। ইহুদি, খ্রিস্টান বা অন্য কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এ আয়াত মুমিনদের নিজেদের দিক আঁকড়ে থাকতে বলে, প্রতিবেশীকে অবজ্ঞা করতে বলে না। ইবন কাসীর তো আগের কিবলারও মর্যাদা রক্ষা করেন: নবী ﷺ বায়তুল মাকদিসের দিকে মুখ করেছিলেন ইহুদিদের কিবলা বলে নয়, আল্লাহর আদেশে।"
+          },
+          {
+            "en": "As-Sa'di draws a further lesson from the verse's shape. It never says even if they brought every sign, because they have no proof for their position. And once the truth is clear by certain proofs, there is no duty to answer every doubt raised against it, since doubts have no limit; answering them is a voluntary kindness. So before the twentieth objection, ask whether proof is really what is missing. And remember the last clause: knowledge raises the cost of drifting.",
+            "bn": "আয়াতের গঠন থেকে সাদী আরও একটি শিক্ষা বের করেন। আয়াত কোথাও বলেনি, তারা সব নিদর্শন আনলেও, কারণ নিজেদের দাবির পক্ষে তাদের কোনো দলিল নেই। আর নিশ্চিত দলিলে সত্য স্পষ্ট হয়ে গেলে তার বিরুদ্ধে তোলা প্রতিটি সংশয়ের জবাব দেওয়া জরুরি নয়, কারণ সংশয়ের কোনো সীমা নেই। জবাব দিলে সেটা স্বেচ্ছায় করা অনুগ্রহ। তাই বিশতম আপত্তির জবাব দেওয়ার আগে নিজেকে জিজ্ঞেস করুন, সত্যিই কি প্রমাণের অভাব? আর শেষ বাক্যটি মনে রাখুন: জ্ঞান যত বাড়ে, তা থেকে সরে যাওয়ার দামও তত বাড়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "2:150-151": {
     "sections": [
       {
