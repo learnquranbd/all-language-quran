@@ -31803,6 +31803,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whatever cannot speak to you with truth or guide you on a road has no claim on your worship, however much it glitters or however loudly it sounds.",
     "lessonBn": "যা আপনাকে সত্য কথা বলতে পারে না, পথও দেখাতে পারে না, তা যত চকচকেই হোক আর যত জোরেই আওয়াজ করুক, আপনার ইবাদতের উপর তার কোনো দাবি নেই।"
+  },
+  "7:163": {
+    "reflectionEn": "The fish came on the one day they were forbidden to take them, crowding the surface, and stayed away on every other day. That was the test. The people of the town by the sea did not openly break the rule at first. The commentators describe pits dug and nets set before the Sabbath and the catch collected the day after, so that the letter stood while its purpose drained away. The verse names the cause plainly: We tested them because they were defiantly disobedient. It is easy to read this about other people. It is harder to notice where I have dug my own pit beside a limit, keeping the rule's shape while taking exactly what it was meant to stop.",
+    "reflectionBn": "যেদিন মাছ ধরা নিষেধ, ঠিক সেদিনই মাছ ঝাঁকে ঝাঁকে পানির উপরে ভেসে আসত। বাকি দিনগুলোতে একটাও দেখা যেত না। পরীক্ষাটা ছিল এখানেই। সাগরপাড়ের সেই জনপদের লোকেরা শুরুতে প্রকাশ্যে নিয়ম ভাঙেনি। তাফসীরে আছে, শনিবারের আগেই তারা গর্ত খুঁড়ে রাখত, জাল পেতে রাখত, আর মাছ তুলত পরদিন। নিয়মের অক্ষর দাঁড়িয়ে রইল, ভেতরের উদ্দেশ্যটা চুইয়ে বেরিয়ে গেল। আয়াত কারণটাও সোজা বলে দেয়: তাদের নাফরমানির কারণেই আমি তাদের এভাবে পরীক্ষা করেছি। অন্যদের নিয়ে এ কাহিনি পড়া সহজ। কঠিন হলো নিজের দিকে তাকানো। কোনো সীমার পাশে আমিও কি নিজের গর্ত খুঁড়ে রেখেছি, নিয়মের চেহারা ঠিক রেখে ঠিক সেই জিনিসটাই তুলে নিচ্ছি যা ঠেকাতে নিয়মটা এসেছিল?",
+    "pointsEn": [
+      "Which limit in my life do I keep in form while quietly arranging to get the very thing it forbids?",
+      "When the forbidden comes easily and in plenty while the permitted is scarce, what do I tell myself it means?",
+      "Have I ever taken a test for a sign that the rule had loosened, the way the people of this town did?",
+      "Is there a settled habit of disobedience in me that could be making my trials heavier than they need to be?",
+      "Which story of a ruined people do I read as a warning for others, when it was told so that I would check myself?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন সীমাটা আমি বাইরে থেকে মেনে চলি, অথচ ভেতরে ভেতরে ঠিক সেই নিষিদ্ধ জিনিসটা পাওয়ার ব্যবস্থা করে রাখি?",
+      "হারাম যখন সহজে আর প্রচুর আসে, আর হালাল আসে মেপে মেপে, তখন আমি নিজেকে কী বোঝাই?",
+      "এই জনপদের লোকদের মতো আমিও কি কখনো পরীক্ষাকে ভেবে বসেছি যে নিয়মটা বুঝি ঢিলে হয়ে গেছে?",
+      "আমার ভেতরে কি এমন কোনো নাফরমানি অভ্যাস হয়ে বসে আছে, যা আমার পরীক্ষাগুলোকে প্রয়োজনের চেয়ে ভারী করে তুলছে?",
+      "ধ্বংস হওয়া কোনো জাতির কাহিনি আমি কি অন্যদের জন্য সতর্কবার্তা হিসেবে পড়ি, অথচ কাহিনিটা এসেছিল আমাকেই নিজের হিসাব নিতে?"
+    ],
+    "lessonEn": "Keep a limit in its purpose as well as its form; when the forbidden comes easily, that ease is the test, not a loophole.",
+    "lessonBn": "সীমা মানুন তার উদ্দেশ্যসহ, শুধু চেহারায় নয়। হারাম যখন সহজে হাতের কাছে আসে, সেই সহজতাই পরীক্ষা, ফাঁকফোকর নয়।"
   }
 };
 

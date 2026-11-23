@@ -8655,6 +8655,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:163": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Put to Neighbours",
+          "bn": "প্রতিবেশীদের কাছে এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Al-A'raf has been telling the Children of Israel's story: the twelve springs in 7:160, the town entered with a changed word in 7:161 and 7:162. Here the telling turns into an instruction to the Prophet ﷺ: wa-s'alhum, and ask them. Ibn Kathir reads the passage as the unfolding of 2:65, where those who transgressed in the matter of the Sabbath are mentioned in a single sentence. Ask the Jews who are present with you, he explains, about their forebears who defied Allah's command, until His punishment overtook them for their trickery.",
+            "bn": "সূরা আ'রাফ বনী ইসরাঈলের কাহিনি বলে আসছে। ৭:১৬০ আয়াতে বারোটি ঝর্ণা, ৭:১৬১ ও ৭:১৬২ আয়াতে সেই জনপদ, যেখানে তারা বলার কথাটা বদলে ঢুকেছিল। এবার বর্ণনা থেমে নবী ﷺ-এর প্রতি নির্দেশ আসে: ওয়াস'আলহুম, তাদের জিজ্ঞেস করুন। ইবন কাসীরের মতে এ অংশটি ২:৬৫ আয়াতের বিস্তার। সেখানে শনিবারে সীমালঙ্ঘনকারীদের কথা এসেছে মাত্র এক বাক্যে। তিনি ব্যাখ্যা করেন, আপনার কাছে উপস্থিত ইহুদিদের জিজ্ঞেস করুন তাদের পূর্বপুরুষদের কথা। তারা আল্লাহর হুকুম অমান্য করেছিল, শেষে কৌশল আর সীমালঙ্ঘনের দায়ে হঠাৎ তাঁর শাস্তি তাদের ধরে ফেলে।"
+          },
+          {
+            "en": "Ibn Kathir adds a second purpose: warn them against hiding your description, which they find in their books, so that what befell their predecessors does not befall them. Al-Qurtubi notes that asking about the town means asking about its people, as Yusuf's brothers said ask the town we were in, in 12:82. He calls it a question of confirmation and rebuke rather than inquiry, and a sign of the Prophet's truthfulness, since Allah informed him of these events without his having studied them. They used to conceal this story, he says, because of the shame in it.",
+            "bn": "ইবন কাসীর আরেকটি উদ্দেশ্যের কথাও বলেন। আপনার যে পরিচয় তারা নিজেদের কিতাবে লেখা পায়, তা গোপন করার ব্যাপারে তাদের সাবধান করুন, যাতে পূর্বসূরিদের যে পরিণতি হয়েছিল তা তাদের না হয়। কুরতুবী খেয়াল করান, জনপদকে জিজ্ঞেস করা মানে তার অধিবাসীদের জিজ্ঞেস করা। ১২:৮২ আয়াতে ইউসুফ (আঃ)-এর ভাইয়েরাও বলেছিল, যে জনপদে আমরা ছিলাম তাকে জিজ্ঞেস করুন। তাঁর মতে প্রশ্নটা কিছু জানার জন্য নয়, স্বীকার করানো আর ভর্ৎসনার জন্য। এটা নবী ﷺ-এর সত্যতারও প্রমাণ, কারণ কারও কাছে না শিখেই আল্লাহ তাঁকে এসব জানিয়েছেন। কুরতুবী আরও বলেন, লজ্জার কারণে তারা এ কাহিনি লুকিয়ে রাখত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aylah, Madyan or Maqna",
+          "bn": "আইলা, মাদইয়ান নাকি মাকনা"
+        },
+        "p": [
+          {
+            "en": "Which town was it? Most of the reports at-Tabari gathers say Aylah. Ikrimah relays from Ibn Abbas (RA) a town called Aylah between Madyan and at-Tur; Ali ibn Abi Talhah relays from him a town on the seashore between Egypt and Madinah called Aylah. As-Suddi and Mujahid say the same, and Abdullah ibn Kathir, the Qur'an reciter, said only: we heard that it was Aylah. Ibn Kathir accepts this and places Aylah on the shore of the sea of al-Qulzum.",
+            "bn": "জনপদটা কোনটি? তাবারী যত বর্ণনা জড়ো করেছেন, তার বেশিরভাগ বলে আইলা। ইকরিমা ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, মাদইয়ান আর তূরের মাঝখানে আইলা নামে এক জনপদ। আলী ইবন আবী তালহা তাঁর থেকেই বর্ণনা করেন, মিসর আর মদীনার মাঝখানে সাগরতীরে আইলা নামের জনপদ। সুদ্দী আর মুজাহিদেরও একই কথা। কারী আবদুল্লাহ ইবন কাসীর শুধু এটুকু বলেছেন: আমরা শুনেছি সেটা আইলা। ইবন কাসীর এ মতই নেন এবং আইলাকে কুলযুম সাগরের তীরে বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "A further report from Ibn Abbas (RA), through the same chain from Ikrimah, makes it Madyan, a town between Aylah and at-Tur. Ibn Zayd named Maqna, between Madyan and 'Aynuna. Al-Baghawi and al-Qurtubi record az-Zuhri's view that it was Tiberias. Even one name can carry two attributions: al-Qurtubi gives Maqna from Qatadah and Zayd ibn Aslam, while the report from Qatadah in at-Tabari, and Ibn Kathir's list, put Qatadah among those who said Aylah.",
+            "bn": "ইকরিমার একই সূত্রে ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনা বলে, সেটা মাদইয়ান, আইলা আর তূরের মাঝখানের এক জনপদ। ইবন যায়দ নাম নিয়েছেন মাকনার, যা মাদইয়ান আর আইনূনার মাঝে। বাগাভী ও কুরতুবী যুহরীর মত উল্লেখ করেন যে জায়গাটা তাবারিয়া। একই ব্যক্তির নামেও দুই রকম কথা পাওয়া যায়। কুরতুবী কাতাদা আর যায়দ ইবন আসলামের নামে মাকনার কথা আনেন। অথচ তাবারীতে কাতাদার বর্ণনা, আর ইবন কাসীরের তালিকাও, কাতাদাকে আইলার পক্ষে রাখে।"
+          },
+          {
+            "en": "At-Tabari settles nothing he cannot settle. The right thing to say, he writes, is that it was a town by the sea; it may have been Aylah, Madyan or Maqna, since each lies by the sea, and no report from the Messenger ﷺ decides between them. What has passed and was not witnessed is known only through a report that yields certainty, and there is none here. He also preserves Ikrimah finding Ibn Abbas (RA) weeping with the mushaf in his lap. Asked why, he said: do you know the town that was by the sea? Ikrimah answered: that is Aylah.",
+            "bn": "যা নিশ্চিত করা যায় না, তাবারী তা নিশ্চিত করতে যান না। তিনি লেখেন, সঠিক কথা হলো, সেটা সাগরতীরের এক জনপদ। আইলা হতে পারে, মাদইয়ান হতে পারে, মাকনাও হতে পারে, কারণ সবগুলোই সাগরের কাছে। রাসূলুল্লাহ ﷺ থেকে এমন কোনো বর্ণনা নেই যা এর মীমাংসা করে দেয়। যা চোখের আড়ালে ঘটে গেছে, তা জানা যায় কেবল নিশ্চিত জ্ঞান দেয় এমন বর্ণনা দিয়ে, আর এখানে তেমন কিছু নেই। তাবারী আরেকটি ঘটনাও রেখেছেন। ইকরিমা গিয়ে দেখেন, ইবন আব্বাস (রাঃ) কোলে মুসহাফ নিয়ে কাঁদছেন। কারণ জানতে চাইলে তিনি বলেন, সাগরতীরের সেই জনপদটা চেনো? ইকরিমা বলেন, সেটা তো আইলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Overstepping a Day of Rest",
+          "bn": "বিশ্রামের দিনে সীমা ডিঙানো"
+        },
+        "p": [
+          {
+            "en": "Idh ya'duna fi as-sabt: when they transgressed in the matter of the Sabbath. At-Tabari glosses it as overstepping Allah's command on that day and passing beyond it to what He had forbidden them; the Arabs say 'ada fulanun amri when someone goes past an instruction. Their transgression, he says, was that Allah had made the Sabbath forbidden to them for work, and they fished on it. Al-Muyassar and as-Sa'di state the command the same way: honour the day, and take no fish in it.",
+            "bn": "ইয ইয়া'দূনা ফিস-সাবত: যখন তারা শনিবারের ব্যাপারে সীমা ছাড়িয়ে যেত। তাবারীর ব্যাখ্যায়, সেদিন তারা আল্লাহর হুকুম ডিঙিয়ে যেত, চলে যেত তিনি যা হারাম করেছেন সেদিকে। আরবরা বলে, আদা ফুলানুন আমরী, অমুক আমার নির্দেশের সীমা পেরিয়ে গেছে। তাবারী বলেন, আল্লাহ তাদের জন্য শনিবারে কাজ নিষিদ্ধ করেছিলেন, আর তারা সেদিন মাছ ধরত। এটাই ছিল তাদের সীমালঙ্ঘন। মুয়াসসার আর সা'দীও নির্দেশটা একইভাবে বলেন: দিনটিকে সম্মান করো, সেদিন কোনো মাছ শিকার করো না।"
+          },
+          {
+            "en": "Al-Qurtubi opens up the word sabt itself. The Jews sabatu, he says, when they left off work on their Sabbath, and the root carries the sense of rest and of cutting off. He also records a variant reading attributed to Abu Nahik, yu'iddun, with a doubled dal, from preparing rather than from overstepping: they made ready the gear to take the fish. The common reading names the transgression; the variant names the work that went before it, and the story the commentators tell needs both.",
+            "bn": "কুরতুবী 'সাবত' শব্দটাই খুলে দেখান। তিনি বলেন, ইহুদিরা শনিবারে কাজ ছেড়ে দিলে আরবিতে বলা হয় সাবাতা। শব্দমূলে আছে বিশ্রাম আর ছেদ পড়ার অর্থ। তিনি আবু নাহীকের নামে একটি ভিন্ন কিরাআতও উল্লেখ করেন: ইউ'ইদ্দূন, দালে তাশদীদসহ। এর অর্থ সীমা ছাড়ানো নয়, প্রস্তুত করা। অর্থাৎ মাছ ধরার সরঞ্জাম তারা আগেই তৈরি করে রাখত। প্রচলিত কিরাআত বলে দেয় অপরাধটা কী। ভিন্ন কিরাআতটি বলে, তার আগে কী প্রস্তুতি চলেছিল। মুফাসসিররা যে কাহিনি শোনান, তাতে দুটোই লাগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fish Breaking the Surface",
+          "bn": "পানির উপর ভেসে ওঠা মাছ"
+        },
+        "p": [
+          {
+            "en": "Then shurra'an. Ibn Abbas (RA), in ad-Dahhak's report, says showing on the surface of the water; in al-'Awfi's report, from every place. At-Tabari joins the two: showing on the water from every path and side, like the openings of streets, the shawari'. Al-Qurtubi adds that they were many, and gives al-Layth's gloss, fish with their heads raised. Al-Baghawi has ad-Dahhak say following one another, and adds, as something found in the story, that they came on the Sabbath like fat white rams.",
+            "bn": "এরপর শুররা'আন শব্দটি। দাহহাকের বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, পানির উপরে দৃশ্যমান হয়ে। আওফীর বর্ণনায়, সব দিক থেকে। তাবারী দুই অর্থ মিলিয়ে দেন: প্রতিটি পথ আর প্রতিটি দিক থেকে পানির উপর ভেসে ওঠা, ঠিক যেমন রাস্তার মুখগুলো চারদিকে খুলে থাকে। আরবিতে রাস্তার মুখকে বলে শাওয়ারি'। কুরতুবী যোগ করেন, মাছ আসত প্রচুর, আর লাইসের ব্যাখ্যা আনেন: মাথা উঁচু করে থাকা মাছ। বাগাভী দাহহাকের কথা আনেন, একটার পর একটা। সঙ্গে কাহিনিতে পাওয়া যায় বলে উল্লেখ করেন, শনিবারে মাছগুলো আসত মোটাতাজা সাদা মেষের মতো।"
+          },
+          {
+            "en": "Wa-yawma la yasbituna la ta'tihim: and on the day they kept no Sabbath, they did not come. At-Tabari explains it as the days they did not honour as they honoured the Sabbath, which is every other day of the week. He and al-Qurtubi both record al-Hasan al-Basri's reading yusbituna, with the first letter given a damma: the day they did not enter a Sabbath, as one says ajma'na for passing into a Friday. Either way the pattern is the same: plenty on the one forbidden day, nothing on the permitted ones.",
+            "bn": "ওয়া ইয়াওমা লা ইয়াসবিতূনা লা তা'তীহিম: আর যেদিন তারা শনিবার পালন করত না, সেদিন মাছ আসত না। তাবারী বলেন, এ হলো সেই দিনগুলো যেগুলোকে তারা শনিবারের মতো সম্মান করত না, অর্থাৎ সপ্তাহের বাকি সব দিন। তিনি আর কুরতুবী দুজনেই হাসান বসরীর কিরাআত উল্লেখ করেন: ইউসবিতূনা, প্রথম অক্ষরে পেশ দিয়ে। এর অর্থ, যেদিন তারা শনিবারে প্রবেশ করত না, যেমন জুমার দিনে পৌঁছালে আরবিতে বলা হয় আজমা'না। কিরাআত যেটাই হোক, ছবিটা এক। নিষিদ্ধ একটি দিনে মাছ উপচে পড়ে, আর হালাল দিনগুলোতে একটাও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Trial Shaped by Defiance",
+          "bn": "নাফরমানির মাপে গড়া পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "Kadhalika nablubum bima kanu yafsuqun: thus did We test them, because they were defiantly disobedient. At-Tabari explains the thus: by showing them the fish on the surface on the day its catch was forbidden, and hiding it from them on the day its catch was allowed. Bima kanu yafsuqun, he says, means because of their fisq, their stepping out of obedience to Allah. Al-Muyassar keeps almost his exact words, and Ibn Kathir quotes him. Al-Qurtubi glosses nablubum as: We make worship hard upon them, and We test them.",
+            "bn": "কাযালিকা নাবলূহুম বিমা কানূ ইয়াফসুকূন: এভাবেই আমি তাদের পরীক্ষা করেছি, কারণ তারা নাফরমানি করত। তাবারী 'এভাবে' কথাটার ব্যাখ্যা দেন। যেদিন মাছ ধরা হারাম, সেদিন পানির উপরে মাছ দেখিয়ে, আর যেদিন হালাল, সেদিন মাছ আড়াল করে। আর বিমা কানূ ইয়াফসুকূন মানে তাদের ফিসকের কারণে, অর্থাৎ আল্লাহর আনুগত্য থেকে বেরিয়ে যাওয়ার কারণে। মুয়াসসার প্রায় তাঁর কথাগুলোই রাখে, আর ইবন কাসীর তাঁকেই উদ্ধৃত করেন। কুরতুবীর ব্যাখ্যায় নাবলূহুম মানে, আমি তাদের উপর ইবাদত কঠিন করে দিই এবং তাদের যাচাই করি।"
+          },
+          {
+            "en": "As-Sa'di draws out the causal ba. Their defiance, he says, is what made the trial necessary and brought this ordeal upon them; had they not been defiant, Allah would have kept them in well-being and not exposed them to trial and harm. So the test is not arbitrary. The order matters. The disobedience was there first, and the test took its shape from it, pressing on the very place where the people were already weak.",
+            "bn": "সা'দী এখানে কারণবাচক 'বা' অক্ষরের অর্থ খুলে দেখান। তাঁর মতে, তাদের নাফরমানিই পরীক্ষাটাকে অনিবার্য করেছিল, এই কষ্ট তাদের উপর টেনে এনেছিল। তারা নাফরমানি না করলে আল্লাহ তাদের নিরাপদে রাখতেন, বিপদ আর অনিষ্টের মুখে ফেলতেন না। তাই পরীক্ষাটা খামখেয়ালি নয়। ক্রমটা গুরুত্বপূর্ণ। নাফরমানি আগে থেকেই ছিল। পরীক্ষাটা এসেছে তার মাপে, চাপ দিয়েছে ঠিক সেই জায়গায় যেখানে লোকগুলো আগে থেকেই দুর্বল ছিল।"
+          },
+          {
+            "en": "Al-Qurtubi preserves a question once put to al-Husayn ibn al-Fadl: do you find in the Book of Allah that the lawful comes to you only as a bare sufficiency, while the unlawful comes to you in heaps? He said yes, in the story of Dawud and Aylah, and recited this verse. It is not offered as a rule about every livelihood. It names a familiar shape of temptation: the forbidden arriving at the door in plenty, the permitted measured out. In 7:168 the same people are tested with good things and with bad.",
+            "bn": "কুরতুবী একটি প্রশ্ন সংরক্ষণ করেছেন, যা হুসাইন ইবনুল ফাদলকে করা হয়েছিল। আল্লাহর কিতাবে কি এমন কিছু পান যে হালাল আসে শুধু টেনেটুনে চলার মতো, আর হারাম আসে স্তূপে স্তূপে? তিনি বললেন, হ্যাঁ, দাউদ (আঃ) আর আইলার কাহিনিতে। তারপর এই আয়াতটি পড়লেন। কথাটা প্রত্যেক মানুষের রিযিকের নিয়ম হিসেবে আসেনি। এতে প্রলোভনের এক চেনা চেহারা ধরা পড়ে। হারাম দরজায় এসে দাঁড়ায় অঢেল হয়ে, হালাল আসে মেপে মেপে। ৭:১৬৮ আয়াতে এই একই লোকদের পরীক্ষা করা হয় ভালো আর মন্দ দুই অবস্থা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pits Dug, Nets Left Waiting",
+          "bn": "খোঁড়া গর্ত, পেতে রাখা জাল"
+        },
+        "p": [
+          {
+            "en": "The verse says that they transgressed; the commentators describe how. As-Sa'di writes that they schemed over the catch: they dug pits for the fish and set nets, and when the Sabbath came and the fish fell into them, they left them that day and took them on Sunday. The practice spread among them, he says, and they split into three groups. Al-Muyassar has the same in brief: they contrived to hold the fish in pits on the Sabbath and caught them after it. Those three groups are the business of 7:164 and 7:165.",
+            "bn": "আয়াত বলে, তারা সীমা ছাড়িয়েছিল। কীভাবে, সেটা বলেন মুফাসসিররা। সা'দী লেখেন, মাছ ধরা নিয়ে তারা ফন্দি আঁটে। মাছের জন্য গর্ত খোঁড়ে, জাল পাতে। শনিবার এলে মাছ সেসব গর্ত আর জালে আটকে যেত। সেদিন তারা হাত দিত না, তুলত রবিবারে। তিনি বলেন, এ কাজ তাদের মধ্যে ছড়িয়ে পড়ে, আর তারা তিনটি দলে ভাগ হয়ে যায়। মুয়াসসারও সংক্ষেপে একই কথা বলে: শনিবারে গর্তে মাছ আটকে রাখার ফন্দি করত, তারপর ধরত পরে। সেই তিন দলের আলোচনা ৭:১৬৪ ও ৭:১৬৫ আয়াতের।"
+          },
+          {
+            "en": "Al-Baghawi tells it as a sequence, without a chain. Satan whispered to them that Allah had forbidden them eating the fish, not catching it; or, in another version, that only taking it was forbidden, so they should make basins on the shore, drive the fish into them on the Sabbath and take them on Sunday. They did this for a time, then grew bold and said: we see that the Sabbath has been made lawful for us. They took, ate and sold. He puts the townspeople at about seventy thousand.",
+            "bn": "বাগাভী ঘটনাটা ধাপে ধাপে বলেন, কোনো সনদ ছাড়া। শয়তান তাদের কানে কুমন্ত্রণা দেয় যে আল্লাহ মাছ খেতে নিষেধ করেছেন, ধরতে নয়। আরেক বর্ণনায় কুমন্ত্রণাটা ছিল এই যে, নিষেধ শুধু তুলে নেওয়ায়। তাই সাগরপাড়ে হাউজ বানাও, শনিবারে মাছ তাতে তাড়িয়ে ঢোকাও, আর রবিবারে তুলে নাও। কিছুকাল তারা এমনই করল। তারপর সাহস বেড়ে গেল, বলতে লাগল, মনে হচ্ছে শনিবার তো আমাদের জন্য হালালই হয়ে গেছে। তখন তারা মাছ ধরল, খেল, বিক্রিও করল। বাগাভীর হিসাবে জনপদে লোক ছিল প্রায় সত্তর হাজার।"
+          },
+          {
+            "en": "Al-Qurtubi relays the basin account, set in the time of Dawud (AS), with the fish driven in on Friday. Through Ashhab from Malik he gives Ibn Ruman's claim that a man tied a noose to a fish's tail and pegged the line's other end until Sunday; seeing him unharmed, others followed, until fish were carried through the markets. He notes al-Hasan's view that they took them on the Sabbath itself, and calls Sunday the sounder view. None of these details is the verse's own; the verse confirms only the transgression and the test.",
+            "bn": "কুরতুবীও হাউজের বর্ণনা আনেন। তাতে ঘটনার সময় দাউদ (আঃ)-এর যুগ, আর মাছ তাড়িয়ে ঢোকানো হতো শুক্রবারে। আশহাবের সূত্রে ইমাম মালিক থেকে তিনি ইবন রূমানের দাবি উল্লেখ করেন। এক লোক মাছের লেজে ফাঁস বাঁধত, সুতার অন্য মাথা খুঁটিতে গেঁথে রবিবার পর্যন্ত রেখে দিত। তার কিছু হলো না দেখে অন্যরাও তা-ই শুরু করল, শেষে বাজারে বাজারে মাছ ঘুরতে লাগল। কুরতুবী হাসানের মতও উল্লেখ করেন যে তারা শনিবারেই মাছ তুলত। তবে তাঁর মতে রবিবারের কথাটাই বেশি সঠিক। এসব খুঁটিনাটির কোনোটাই আয়াতের নিজের কথা নয়। আয়াত নিশ্চিত করে কেবল সীমালঙ্ঘন আর পরীক্ষা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Rule Kept, the Aim Lost",
+          "bn": "নিয়ম রইল, উদ্দেশ্য হারাল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names what they did: a people who used a ruse to violate what Allah had made sacred, through outward means whose inner meaning was committing the forbidden. No fish was lifted on the Sabbath, and the prohibition was emptied anyway. He then relays, through Ibn Battah, a narration from Abu Hurayrah (RA) raised to the Prophet ﷺ on this very theme of tricks; he judges its chain good, but it is not in a collection we could confirm, so its wording is left aside. None of the commentaries read here attaches a hadith from the canonical collections to this verse.",
+            "bn": "ইবন কাসীর তাদের কাজটার নাম দেন। এরা এমন লোক, যারা কৌশল খাটিয়ে আল্লাহর নিষিদ্ধ সীমা লঙ্ঘন করেছে। বাইরে থেকে উপায়গুলো ছিল নির্দোষ, ভেতরে আসলে হারামেই লিপ্ত হওয়া। শনিবারে একটা মাছও তোলা হয়নি, অথচ নিষেধটা ফাঁপা হয়ে গেল। এরপর তিনি ইবন বাত্তার সূত্রে আবু হুরায়রা (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন, বিষয় ঠিক এই কৌশল। তিনি এর সনদকে ভালো বলেছেন। তবে আমাদের যাচাই করা কোনো সংকলনে এটি পাইনি, তাই এর ভাষা এখানে আনা হলো না। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে প্রসিদ্ধ হাদীসগ্রন্থের কোনো হাদীস জুড়ে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read as a Mirror Only",
+          "bn": "শুধু আয়না হিসেবে পড়ুন"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what one town did at one time, and the trial its own people brought on themselves. It licenses nothing against any Jewish person or community today. Two verses earlier, 7:159 says that among the people of Musa (AS) is a community that guides by the truth and does justice by it. Whoever reads this verse to sneer at others has missed what it exposes: a human habit of honouring a rule's shape while defeating its purpose.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি জনপদের এক সময়ের কাজের বর্ণনা দেয়, আর সেই পরীক্ষার কথা বলে যা সেখানকার লোকেরা নিজেরাই নিজেদের উপর টেনে এনেছিল। আজকের কোনো ইহুদি মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। মাত্র দুই আয়াত আগে ৭:১৫৯ আয়াত বলছে, মূসা (আঃ)-এর সম্প্রদায়ে এমন এক দল আছে যারা সত্য দিয়ে পথ দেখায় আর সত্য দিয়েই ইনসাফ করে। যে এ আয়াত পড়ে অন্যদের বিদ্রূপ করে, সে আসল কথাটাই হারিয়ে ফেলে। আয়াত যা ধরিয়ে দেয় তা মানুষের এক চেনা স্বভাব: নিয়মের চেহারা মানা, আর তার উদ্দেশ্যকে ব্যর্থ করা।"
+          },
+          {
+            "en": "The story does not stop here. In 7:164 and 7:165 a group asks why anyone should warn a people Allah will destroy, and the warners answer; what became of those who kept silent is a question that belongs to those verses. The end of the transgressors is told in 7:166, and in brief at 2:65. This verse holds the reader at the moment before: the fish on the surface, the pits already dug, the rule still standing in form. It asks where your own pit is.",
+            "bn": "কাহিনি এখানেই শেষ নয়। ৭:১৬৪ ও ৭:১৬৫ আয়াতে একদল জানতে চায়, যাদের আল্লাহ ধ্বংস করবেন তাদের উপদেশ দিয়ে লাভ কী, আর উপদেশদাতারা তার জবাব দেন। যারা চুপ ছিল তাদের কী হয়েছিল, সে প্রশ্ন ওই আয়াতগুলোর আলোচনার বিষয়। সীমালঙ্ঘনকারীদের পরিণতির কথা ৭:১৬৬ আয়াতে, আর সংক্ষেপে ২:৬৫ আয়াতে। এ আয়াত পাঠককে থামিয়ে রাখে তার ঠিক আগের মুহূর্তে। মাছ পানির উপরে ভাসছে, গর্ত আগেই খোঁড়া, নিয়মটা বাইরে থেকে এখনো দাঁড়িয়ে আছে। আয়াতের প্রশ্ন, আপনার নিজের গর্তটা কোথায়?"
+          }
+        ]
+      }
+    ]
+  },
   "7:166": {
     "sections": [
       {
