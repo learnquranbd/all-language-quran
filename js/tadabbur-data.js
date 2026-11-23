@@ -32563,6 +32563,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Doubt is warned against, and denial is worse. Meet the Qur'an with full assent and a settled heart, and act on it, or every other gain ends in loss.",
     "lessonBn": "সন্দেহ থেকে সাবধান করা হয়েছে, আর অস্বীকার তার চেয়েও ভয়ংকর। পূর্ণ বিশ্বাস ও স্থির অন্তর নিয়ে কুরআনকে গ্রহণ করুন, সে অনুযায়ী আমল করুন। নইলে বাকি সব লাভই শেষে ক্ষতি।"
+  },
+  "11:59": {
+    "reflectionEn": "The rescue of Hud and the believers is told, and then the verse turns to the others and points: that was Aad. Three verbs sum up a whole nation. They rejected the signs of their Lord, they disobeyed His messengers, and they followed the order of every proud and stubborn man. Two refusals and one obedience. They were not people who followed nothing. They followed readily, only the wrong voice. One warner stood among them asking nothing in return, and they chose the powerful instead. The verse describes a people long gone and licenses nothing against anyone living. Its question is for me. Whose orders do I actually carry out, and did I choose that voice, or drift into it?",
+    "reflectionBn": "হূদ (আঃ) আর মুমিনদের বেঁচে যাওয়ার কথা বলা শেষ। এবার আয়াত বাকিদের দিকে আঙুল তোলে: ওরাই ছিল আদ। গোটা এক জাতির হিসাব তিনটি ক্রিয়ায় গুটিয়ে আনা হয়েছে। তারা রবের নিদর্শন অস্বীকার করেছে, তাঁর রসূলদের নাফরমানি করেছে, আর প্রত্যেক অহংকারী, একগুঁয়ে লোকের হুকুম মেনে চলেছে। দুটো প্রত্যাখ্যান, একটা আনুগত্য। তারা কারও কথা মানত না, ব্যাপারটা এমন নয়। মানত ঠিকই, আগ্রহ নিয়েই মানত, শুধু ভুল লোকের কথা। তাদের মাঝে একজন সতর্ককারী দাঁড়িয়ে ছিলেন, বিনিময়ে কিছুই চাননি। তারা বেছে নিল ক্ষমতাবানদের। আয়াতটি বহু আগে বিলীন এক জাতির কথা বলে, আজকের কোনো মানুষের বিরুদ্ধে কিছুরই অনুমতি দেয় না। প্রশ্নটা তাই আমার নিজের জন্য। আসলে আমি কার হুকুম পালন করি? সেই কণ্ঠ কি আমি বেছে নিয়েছি, নাকি স্রোতে ভেসে তার কাছে পৌঁছে গেছি?",
+    "pointsEn": [
+      "When I say a truth was never made clear to me, is that really so, or have I already decided whose word I will obey?",
+      "Whose voice weighs most in my decisions: the one who advises me sincerely and wants nothing, or the one who is strongest and loudest?",
+      "Do I accept one reminder and set aside another that asks the same of me, only because of who brought it?",
+      "Is there a habit I keep mainly because people with standing around me keep it?",
+      "If my last year were summed up in three verbs, as Aad's life is here, what would they be?"
+    ],
+    "pointsBn": [
+      "যখন বলি, সত্যটা আমার কাছে কখনো পরিষ্কার করা হয়নি, তা কি আসলেই তাই, নাকি কার কথা মানব তা আমি আগেই ঠিক করে রেখেছি?",
+      "আমার সিদ্ধান্তে কার কণ্ঠ সবচেয়ে ভারী: যে আন্তরিকভাবে উপদেশ দেয় আর কিছুই চায় না তার, নাকি যে সবচেয়ে শক্তিশালী আর সবচেয়ে উঁচু গলার তার?",
+      "একই কথা মনে করিয়ে দেওয়া দুটো উপদেশের একটা মেনে নিয়ে অন্যটা কি আমি সরিয়ে রাখি, শুধু কে এনেছে তা দেখে?",
+      "এমন কোনো অভ্যাস কি আছে, যা আমি ধরে রেখেছি মূলত এজন্য যে আমার আশপাশের প্রভাবশালী লোকেরা তা ধরে রেখেছে?",
+      "এখানে যেমন আদের জীবন তিনটি ক্রিয়ায় গুটিয়ে আনা হয়েছে, আমার গত বছরটা তিনটি ক্রিয়ায় বললে সেগুলো কী হত?"
+    ],
+    "lessonEn": "Refusing the truth never leaves a person following no one. Obedience withheld from the sincere warner goes to the proud and stubborn, and the follower is not excused for it.",
+    "lessonBn": "সত্যকে ফিরিয়ে দিলে মানুষ কারও অনুসারী না হয়ে থাকে না। আন্তরিক সতর্ককারীকে যে আনুগত্য দেওয়া হয়নি, তা চলে যায় অহংকারী আর একগুঁয়েদের হাতে, আর অনুসারী এতে দায়মুক্ত হয় না।"
   }
 };
 

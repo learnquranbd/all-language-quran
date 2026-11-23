@@ -2535,6 +2535,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:59": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Finger Turns to Aad",
+          "bn": "আঙুল এবার আদের দিকে"
+        },
+        "p": [
+          {
+            "en": "The preceding verse closes on a rescue: Hud (AS) and those who believed with him were saved, by mercy, from a harsh punishment (11:58). Ibn Kathir, in the passage covering 11:57 to 11:60, reads Our command there as the barren wind that destroyed them to the last of them. Then the verse turns to the others. Wa-tilka Aad: and that was Aad. The pointing word carries the reader from the saved few to the many who were not, and their record follows in twelve Arabic words.",
+            "bn": "আগের আয়াত শেষ হয় উদ্ধারের কথায়। হূদ (আঃ) আর তাঁর সঙ্গে যারা ঈমান এনেছিল, রহমতের গুণে তারা কঠিন আযাব থেকে রক্ষা পেয়েছিল (১১:৫৮)। ইবন কাসীর ১১:৫৭ থেকে ১১:৬০ পর্যন্ত একসঙ্গে আলোচনা করেছেন। সেখানে তিনি 'আমাদের নির্দেশ' বলতে বোঝেন সেই বন্ধ্যা বাতাস, যা তাদের শেষ মানুষটি পর্যন্ত ধ্বংস করে দিয়েছিল। এরপর আয়াত বাকিদের দিকে ফেরে। ওয়া তিলকা আদ: ওরাই ছিল আদ। ইঙ্গিতের শব্দটি পাঠককে বেঁচে যাওয়া অল্প কয়েকজনের কাছ থেকে নিয়ে যায় সেই বহুজনের কাছে, যারা বাঁচেনি। তারপর বারোটি আরবি শব্দে তাদের আমলনামা।"
+          },
+          {
+            "en": "Al-Qurtubi parses the opening as a subject and its predicate, a complete statement, and reports from al-Kisa'i that some Arabs read Aad without nunation, taking it as the name of the tribe. Al-Baghawi says only that the phrase refers the name back to the tribe. At-Tabari paraphrases the pointing: these, on whom We brought down Our vengeance and Our punishment, are Aad. As-Sa'di adds the cause in a phrase. Allah did to them what He did through a wrong of their own, and the rest of the verse names that wrong.",
+            "bn": "কুরতুবী শুরুর অংশটিকে উদ্দেশ্য ও বিধেয় মিলিয়ে একটি পূর্ণ বাক্য ধরেন। কিসাঈ থেকে তিনি বর্ণনা করেন, কিছু আরব আদ শব্দটি তানবীন ছাড়া পড়ে, গোত্রের নাম হিসেবে ধরে। বাগাভী শুধু এটুকু বলেন যে, কথাটি নামটিকে গোত্রের দিকে ফিরিয়ে দেয়। তাবারী ইঙ্গিতটা খুলে বলেন এভাবে: যাদের উপর আমি প্রতিশোধ আর আযাব নামিয়েছিলাম, এরাই সেই আদ। সা'দী এক কথায় কারণটা জুড়ে দেন। আল্লাহ তাদের সঙ্গে যা করার করেছেন তাদেরই জুলুমের কারণে। আয়াতের বাকি অংশ সেই জুলুমের নাম বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Refusals, One Obedience",
+          "bn": "দুই প্রত্যাখ্যান, এক আনুগত্য"
+        },
+        "p": [
+          {
+            "en": "After the name come three verbs, each with its object. Jahadu bi-ayati rabbihim: they rejected the signs of their Lord. Wa-asaw rusulahu: and disobeyed His messengers. Wa-ttaba'u amra kulli jabbarin anid: and followed the command of every obstinate tyrant. The first two are refusals; the third is an obedience. The verse does not describe a people who followed nobody. It describes a people who gave the proud the obedience they withheld from the messenger. The Muyassar keeps the same three steps, and for the third writes: they obeyed the command of everyone arrogant towards Allah.",
+            "bn": "নামের পরে আসে তিনটি ক্রিয়া, প্রত্যেকটির সঙ্গে তার কর্ম। জাহাদূ বিআয়াতি রাব্বিহিম: তারা তাদের রবের নিদর্শন অস্বীকার করেছিল। ওয়া আসাও রুসুলাহূ: আর তাঁর রসূলদের নাফরমানি করেছিল। ওয়াত্তাবাঊ আমরা কুল্লি জাব্বারিন আনীদ: আর প্রত্যেক উদ্ধত, একগুঁয়ে স্বৈরাচারীর হুকুম মেনে চলেছিল। প্রথম দুটি প্রত্যাখ্যান, তৃতীয়টা আনুগত্য। আয়াত এমন কোনো জাতির ছবি আঁকে না, যারা কারও কথাই মানত না। যে আনুগত্য তারা রসূলকে দেয়নি, তা-ই তুলে দিয়েছিল অহংকারীদের হাতে। মুয়াসসারও এই তিন ধাপ ধরে রাখে, আর তৃতীয়টা লেখে এভাবে: আল্লাহর বিরুদ্ধে অহংকার করে এমন প্রত্যেকের হুকুম তারা মেনেছিল।"
+          },
+          {
+            "en": "One word ties this verse to the one before it. In 11:58 Allah says lamma ja'a amruna, when Our command came. Here Aad follow amra kulli jabbar, the command of every tyrant. Two commands stand a verse apart: the one they obeyed, and the one that arrived. The same phrase returns later in the surah, where Pharaoh's chiefs followed amra Fir'awn, and the verse adds that Pharaoh's command was not rashid, rightly guided (11:97). Ibn Kathir's gloss on our verse uses that very adjective: they left off following their rashid messenger.",
+            "bn": "একটি শব্দ এ আয়াতকে আগের আয়াতের সঙ্গে বেঁধে রাখে। ১১:৫৮ আয়াতে আল্লাহ বলেন, লাম্মা জাআ আমরুনা, যখন আমার নির্দেশ এল। আর এখানে আদ মেনে চলে আমরা কুল্লি জাব্বার, প্রত্যেক স্বৈরাচারীর হুকুম। এক আয়াতের ব্যবধানে দুটি হুকুম: একটা তারা মেনেছিল, অন্যটা এসে পৌঁছেছিল। একই শব্দবন্ধ সূরার পরের দিকে আবার ফেরে। ফিরআউনের সভাসদরা মেনে চলল আমরা ফিরআউন, আর আয়াত জুড়ে দেয়, ফিরআউনের হুকুম রাশীদ ছিল না, সঠিক পথের ছিল না (১১:৯৭)। ইবন কাসীর আমাদের আয়াতের ব্যাখ্যায় ঠিক এই বিশেষণটিই ব্যবহার করেন: তারা তাদের রাশীদ রসূলের অনুসরণ ছেড়ে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rejecting What Was Known",
+          "bn": "জেনেশুনে অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "Jahadu bi-ayati rabbihim is glossed in several ways. Al-Qurtubi: they belied the miracles and disowned them. At-Tabari takes the signs as Allah's proofs and arguments, adillat Allah wa-hujajuh. Ibn Kathir writes kafaru biha, they disbelieved in them, and the Muyassar uses the same verb. What the signs were, the verse does not list, and none of the commentaries fetched for it lists them either, so this article leaves them as the verse leaves them: the signs of their Lord, which reached them and were turned away.",
+            "bn": "জাহাদূ বিআয়াতি রাব্বিহিম কথাটির ব্যাখ্যা কয়েক রকম। কুরতুবী বলেন, তারা মুজিযাগুলোকে মিথ্যা বলেছিল আর মানতে অস্বীকার করেছিল। তাবারী নিদর্শন বলতে বোঝেন আল্লাহর দলিল ও যুক্তিপ্রমাণ, আদিল্লাতুল্লাহি ওয়া হুজাজুহ। ইবন কাসীর লেখেন কাফারূ বিহা, তারা সেগুলো অস্বীকার করেছিল। মুয়াসসারও একই ক্রিয়া ব্যবহার করে। নিদর্শনগুলো কী ছিল, আয়াত তার তালিকা দেয় না। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীরও তা গুনে দেয় না। তাই এ লেখাও সেগুলোকে আয়াতের ভাষাতেই রেখে দিচ্ছে: তাদের রবের নিদর্শন, যা তাদের কাছে পৌঁছেছিল আর তারা ফিরিয়ে দিয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di draws a sharper point from the story itself. They rejected the signs, he says, and that is why they told Hud, you have brought us no clear proof (11:53). By this, he writes, it became plain that they were certain of his call, and that they only resisted and denied. Read this way, their complaint of no evidence says more about the speakers than about the evidence. Al-Baghawi gives the same pattern as a definition when he explains anid: a man is said to have anada when he refuses to accept a thing even though he knows it.",
+            "bn": "সা'দী কাহিনির ভেতর থেকেই একটা তীক্ষ্ণ কথা বের করে আনেন। তাঁর মতে তারা নিদর্শন অস্বীকার করেছিল, আর সে কারণেই হূদ (আঃ)-কে বলেছিল, তুমি আমাদের কাছে কোনো সুস্পষ্ট প্রমাণ আনোনি (১১:৫৩)। সা'দী লেখেন, এ থেকেই পরিষ্কার হয়ে যায় যে তাঁর দাওয়াত সম্পর্কে তারা নিশ্চিত ছিল। তারা শুধু জেদ ধরেছিল আর অস্বীকার করেছিল। এভাবে পড়লে 'প্রমাণ নেই' অভিযোগটা প্রমাণের চেয়ে বক্তাদের সম্পর্কেই বেশি কিছু বলে। আনীদ শব্দের ব্যাখ্যায় বাগাভী একই ধরন সংজ্ঞা আকারে দেন: কেউ কোনো কিছু জেনেও তা মেনে নিতে অস্বীকার করলে বলা হয়, সে আনাদা করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Messenger, a Plural Word",
+          "bn": "রসূল একজন, শব্দ বহুবচন"
+        },
+        "p": [
+          {
+            "en": "The verse says they disobeyed rusulahu, His messengers, in the plural. Yet in the whole account from 11:50, one messenger is sent to Aad: their brother Hud. Al-Qurtubi meets the question directly. Rusulahu means Hud alone, he says, because no messenger besides him was sent to them. He compares 23:51, O messengers, eat of the good things, which he reads as meaning the Prophet ﷺ alone, since there was no other messenger in his time. The plural is used here, he explains, because whoever belies one messenger has disbelieved in all the messengers.",
+            "bn": "আয়াত বলছে, তারা রুসুলাহূ, তাঁর রসূলদের নাফরমানি করেছিল, বহুবচনে। অথচ ১১:৫০ থেকে শুরু হওয়া গোটা বিবরণে আদের কাছে রসূল এসেছেন একজনই, তাদের ভাই হূদ (আঃ)। কুরতুবী প্রশ্নটার মুখোমুখি হন সরাসরি। তিনি বলেন, রুসুলাহূ মানে কেবল হূদ (আঃ), কারণ তাঁকে ছাড়া আর কোনো রসূল তাদের কাছে পাঠানো হয়নি। তুলনা হিসেবে তিনি আনেন ২৩:৫১, হে রসূলগণ, পবিত্র জিনিস থেকে খাও। তাঁর মতে সেখানে উদ্দেশ্য কেবল নবী ﷺ, কারণ তাঁর যুগে আর কোনো রসূল ছিলেন না। কুরতুবী ব্যাখ্যা করেন, এখানে বহুবচন এসেছে এ জন্য যে, যে একজন রসূলকে মিথ্যা বলে, সে সব রসূলকেই অস্বীকার করে।"
+          },
+          {
+            "en": "Ibn Kathir gives the same answer and adds the reason. Whoever disbelieves in a prophet has disbelieved in all the prophets, because there is no difference between any of them in the duty of believing in him. So Aad disbelieved in Hud, and their disbelief was treated as disbelief in all the messengers. Al-Baghawi says Hud alone is meant, named with a plural word because whoever belies one messenger is like one who belies them all. As-Sa'di gives a reason of his own: whoever disobeys one messenger has disobeyed all of them, because their call is one.",
+            "bn": "ইবন কাসীরের জবাবও একই, সঙ্গে কারণটাও দেন। যে একজন নবীকে অস্বীকার করে, সে সব নবীকেই অস্বীকার করে। কারণ তাঁদের প্রত্যেকের উপর ঈমান আনা ফরজ, এ ব্যাপারে তাঁদের কারও মধ্যে কোনো পার্থক্য নেই। তাই আদ হূদ (আঃ)-কে অস্বীকার করেছিল, আর তাদের সেই কুফরকে সব রসূলকে অস্বীকার করার সমান ধরা হয়েছে। বাগাভী বলেন, উদ্দেশ্য কেবল হূদ (আঃ), বহুবচনে বলা হয়েছে এ জন্য যে, একজন রসূলকে মিথ্যা বলা সব রসূলকে মিথ্যা বলার মতোই। সা'দী নিজের একটা কারণ দেন: যে একজন রসূলের নাফরমানি করে, সে সবারই নাফরমানি করে, কারণ তাঁদের দাওয়াত একটাই।"
+          },
+          {
+            "en": "The Qur'an states the principle elsewhere in its own words. The believers say la nufarriqu bayna ahadin min rusulihi, we make no distinction between any of His messengers (2:285). Of those who say we believe in some and disbelieve in others, it says they are the disbelievers in truth (4:150 and 4:151). Surah ash-Shu'ara opens this same story with the same plural, kadhdhabat Aadun al-mursalin, Aad denied the messengers (26:123), and in the next verse it is their brother Hud who speaks. The commentaries fetched here cite none of these; they are set beside the verse by this article.",
+            "bn": "মূলনীতিটা কুরআন অন্য জায়গায় নিজের ভাষায় বলে দিয়েছে। মুমিনরা বলে, লা নুফাররিকু বাইনা আহাদিম মির রুসুলিহ, আমরা তাঁর রসূলদের কারও মধ্যে পার্থক্য করি না (২:২৮৫)। আর যারা বলে, কিছুকে মানি আর কিছুকে মানি না, তাদের সম্পর্কে কুরআন বলে, এরাই প্রকৃত কাফির (৪:১৫০ ও ৪:১৫১)। সূরা আশ-শুআরা এই কাহিনিই শুরু করে ঠিক এই বহুবচন দিয়ে, কাযযাবাত আদুনিল মুরসালীন, আদ রসূলদের মিথ্যা বলেছিল (২৬:১২৩)। আর পরের আয়াতেই কথা বলেন তাদের ভাই হূদ (আঃ)। এখানে সংগ্রহ করা তাফসীরগুলো এর কোনোটিই উল্লেখ করেনি। আয়াতগুলো এ লেখাই পাশে এনে রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hud and Those Before Him",
+          "bn": "হূদ ও তাঁর আগের রসূলেরা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a second reading, introduced with qila, it is said. They disobeyed Hud and the messengers before him, and they were such that had a thousand messengers been sent to them, they would have rejected them all. On this view the plural is meant as it stands: the messengers include those who came earlier. The first reading makes the plural a judgement on what rejecting Hud amounted to. The second makes it a description of a disposition that no number of messengers would have changed. Al-Qurtubi states the first in his own voice and records the second without a verdict.",
+            "bn": "কুরতুবী একটি দ্বিতীয় পাঠও লিখে রাখেন, কীলা, বলা হয়, শব্দ দিয়ে শুরু করে। তারা হূদ (আঃ) আর তাঁর আগের রসূলদের নাফরমানি করেছিল। আর তারা এমন লোক ছিল যে, তাদের কাছে হাজার রসূল পাঠানো হলেও সবাইকে অস্বীকার করত। এ মত অনুযায়ী বহুবচন তার আক্ষরিক অর্থেই আছে, আগে যাঁরা এসেছিলেন তাঁরাও এর ভেতরে পড়েন। প্রথম পাঠে বহুবচনটা এক রায়: হূদ (আঃ)-কে প্রত্যাখ্যান করার আসল ওজন কতখানি। দ্বিতীয় পাঠে এটা এক মানসিকতার বর্ণনা, রসূলের সংখ্যা যত বাড়ুক যা বদলাত না। কুরতুবী প্রথমটা বলেন নিজের কথা হিসেবে, দ্বিতীয়টা উল্লেখ করেন কোনো রায় না দিয়ে।"
+          },
+          {
+            "en": "At-Tabari does not stop on the question. He paraphrases the clause as they disobeyed His messengers whom He sent to them, to call them to His oneness and to following His command, and moves on. The Qur'an itself mentions warners around Hud: in 46:21 the brother of Aad warned his people when warners had already passed before him and after him. That verse is placed here as context only. None of the commentaries fetched for 11:59 cites it, and this article takes no side between the two readings al-Qurtubi records.",
+            "bn": "তাবারী প্রশ্নটায় থামেন না। তিনি অংশটির ব্যাখ্যা দেন এভাবে: তারা তাঁর সেই রসূলদের নাফরমানি করেছিল, যাঁদের তিনি তাদের কাছে পাঠিয়েছিলেন তাঁর তাওহীদ আর তাঁর হুকুম মানার দিকে ডাকতে। তারপর সামনে এগিয়ে যান। হূদ (আঃ)-এর আগে-পরে সতর্ককারীদের কথা কুরআন নিজেই বলে। ৪৬:২১ আয়াতে আদের ভাই তাঁর সম্প্রদায়কে সতর্ক করেছিলেন, আর তাঁর আগে ও পরে সতর্ককারীরা গত হয়েছিলেন। আয়াতটি এখানে শুধু প্রসঙ্গ হিসেবে রাখা হল। ১১:৫৯ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এটি উল্লেখ করেনি। কুরতুবীর বর্ণিত দুই পাঠের মধ্যে এ লেখা কোনো পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proud, and Swerving From Truth",
+          "bn": "অহংকারী, সত্য থেকে সরে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "Two words describe the one Aad followed. Al-Qurtubi and al-Baghawi gloss jabbar the same way, al-mutakabbir, the arrogant. At-Tabari reads the phrase as everyone arrogant towards Allah, turning away from the truth, neither yielding to it nor accepting it, and gives with its chain a report from Qatada that says simply: the mushrik. As-Sa'di separates the two words. The jabbar is one who lords it over Allah's servants by force; the anid is one who stubbornly resists Allah's signs. One word looks at how he treats people, the other at how he treats the truth.",
+            "bn": "আদ যাদের পেছনে চলেছিল, তাদের বর্ণনা দুই শব্দে। কুরতুবী আর বাগাভী জাব্বার শব্দের একই ব্যাখ্যা দেন, আল-মুতাকাব্বির, অহংকারী। তাবারী গোটা কথাটা পড়েন এভাবে: আল্লাহর বিরুদ্ধে অহংকার করে, সত্য থেকে সরে থাকে, সত্যের সামনে নত হয় না, তা গ্রহণও করে না, এমন প্রত্যেকে। সনদসহ তিনি কাতাদার একটি বর্ণনা আনেন, যাতে শুধু বলা আছে: মুশরিক। সা'দী শব্দ দুটিকে আলাদা করেন। জাব্বার সে, যে জোর খাটিয়ে আল্লাহর বান্দাদের উপর চেপে বসে। আনীদ সে, যে জেদ ধরে আল্লাহর নিদর্শনের বিরোধিতা করে। একটি শব্দ দেখায় সে মানুষের সঙ্গে কেমন আচরণ করে, অন্যটি দেখায় সত্যের সঙ্গে।"
+          },
+          {
+            "en": "At-Tabari gives the verb behind anid: anada an al-haqq, he swerved from the truth, so the man is aanid or anud. A vein that bursts and will not stop bleeding, he notes, is called irq aanid, and al-Qurtubi says the same of a vein that bursts with blood. Both quote a rajaz half-line, inni kabirun la utiqu al-unnada, I am old, I cannot cope with the ones that veer away. Al-Qurtubi cites Abu Ubayd, and al-Baghawi Abu Ubayda, for one definition: the anid is the one who sets himself against you in opposition.",
+            "bn": "আনীদ শব্দের পেছনের ক্রিয়াটি তাবারী দেখিয়ে দেন: আনাদা আনিল হাক্ক, সে সত্য থেকে সরে গেল। তাই এমন লোককে বলা হয় আনিদ বা আনূদ। তিনি জানান, যে শিরা ফেটে যায় আর রক্ত থামে না, তাকে বলা হয় ইরকুন আনিদ। রক্ত নিয়ে ফেটে যাওয়া শিরা সম্পর্কে কুরতুবীও একই কথা বলেন। দুজনেই রাজায ছন্দের একটি চরণ উদ্ধৃত করেন, ইন্নী কাবীরুন লা উতীকুল উন্নাদা, আমি বুড়ো হয়ে গেছি, পথ ছেড়ে সরে যাওয়াদের সামলাতে পারি না। কুরতুবী আবু উবাইদের নামে, আর বাগাভী আবু উবাইদার নামে, একটিই সংজ্ঞা দেন: আনীদ সে, যে বিরোধিতা নিয়ে তোমার সামনে দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Followed Whom",
+          "bn": "কে কার পেছনে চলল"
+        },
+        "p": [
+          {
+            "en": "The blame in the verse falls on the followers, not only on those followed. Al-Qurtubi explains the clause as the lowly among them following their chiefs, and al-Baghawi says it in nearly the same words: the base and the low followed the people of arrogance and obstinacy. The word kull, every, leaves the number of such men open. And in another surah Hud (AS) uses the same word of his people themselves: wa-idha batashtum batashtum jabbarin, when you strike, you strike as tyrants (26:130).",
+            "bn": "আয়াতের দোষারোপ পড়ে অনুসারীদের উপর, শুধু যাদের অনুসরণ করা হয়েছে তাদের উপর নয়। কুরতুবী অংশটির ব্যাখ্যা দেন, তাদের নিচুতলার লোকেরা নেতাদের পেছনে চলেছিল। বাগাভী প্রায় একই ভাষায় বলেন: হীন আর নিচু লোকেরা অহংকার ও জেদের লোকদের অনুসরণ করেছিল। কুল্ল, প্রত্যেক, শব্দটি এমন লোকের সংখ্যা খোলা রেখে দেয়। আর অন্য এক সূরায় হূদ (আঃ) ঠিক এই শব্দটাই খোদ তাঁর সম্প্রদায় সম্পর্কে বলেন: ওয়া ইযা বাতাশতুম বাতাশতুম জাব্বারীন, আর যখন তোমরা আঘাত হানো, আঘাত হানো স্বৈরাচারীর মতো (২৬:১৩০)।"
+          },
+          {
+            "en": "As-Sa'di sets the two halves of the verse against each other. They disobeyed every sincere adviser who was concerned for them, and followed everyone who was deceiving them and wanted their destruction, and so, he concludes, Allah destroyed them. Ibn Kathir frames it as an exchange: they left off following their rightly guided messenger and followed the command of every obstinate tyrant. Hud (AS) had told them he asked no reward of them (11:51). The messenger who wanted nothing from them was refused, and those who deceived them were obeyed.",
+            "bn": "সা'দী আয়াতের দুই অংশকে মুখোমুখি দাঁড় করান। তাদের জন্য যারা আন্তরিক কল্যাণকামী আর দরদি ছিল, তারা তাদের প্রত্যেকের নাফরমানি করেছিল। আর যারা তাদের ধোঁকা দিচ্ছিল, তাদের ধ্বংস চাইছিল, তাদের প্রত্যেকের পেছনে চলেছিল। তাই, সা'দীর উপসংহার, আল্লাহ তাদের ধ্বংস করে দিলেন। ইবন কাসীর বিষয়টা দেখান এক অদলবদল হিসেবে: সঠিক পথের রসূলের অনুসরণ তারা ছেড়ে দিল, আর প্রত্যেক উদ্ধত স্বৈরাচারীর হুকুম মেনে নিল। হূদ (আঃ) তাদের বলেছিলেন, তিনি তাদের কাছে কোনো বিনিময় চান না (১১:৫১)। যিনি তাদের কাছে কিছুই চাননি, তাঁকে ফিরিয়ে দেওয়া হল। আর যারা ধোঁকা দিচ্ছিল, তাদের কথা মানা হল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Followed by a Curse",
+          "bn": "পিছু নিল লানত"
+        },
+        "p": [
+          {
+            "en": "The next verse answers this one in its own vocabulary. They followed, ittaba'u, the command of every tyrant. In 11:60 they are made to be followed, utbi'u, by a curse in this world and on the Day of Resurrection, a verb from the same root, now in the passive. Ibn Kathir, in the passage that runs on into 11:60, explains the curse in this world as one from Allah and His believing servants whenever they are mentioned, and on the Day a call against them before witnesses. Then 11:60 closes: away with Aad, the people of Hud.",
+            "bn": "পরের আয়াত এ আয়াতের জবাব দেয় এরই শব্দভাণ্ডার থেকে। তারা অনুসরণ করেছিল, ইত্তাবাঊ, প্রত্যেক স্বৈরাচারীর হুকুম। আর ১১:৬০ আয়াতে তাদের পেছনে লাগিয়ে দেওয়া হয়, উতবিঊ, লানত, এই দুনিয়ায় আর কিয়ামতের দিনে। ক্রিয়াটি একই ধাতুর, এবার কর্মবাচ্যে। ইবন কাসীর ১১:৬০ পর্যন্ত গড়ানো আলোচনায় ব্যাখ্যা দেন, দুনিয়ার লানত আসে আল্লাহ আর তাঁর মুমিন বান্দাদের পক্ষ থেকে, যখনই তাদের কথা ওঠে। আর কিয়ামতের দিন সাক্ষীদের সামনে তাদের বিরুদ্ধে ঘোষণা দেওয়া হবে। তারপর ১১:৬০ শেষ হয় এই কথায়: দূর হোক আদ, হূদের সম্প্রদায়।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes a people of the past as the text describes them, and their end as the text records it. It licenses nothing against any living person or community, and the curse in 11:60 belongs to Aad as the Qur'an names them, not to anyone a reader might liken to them. The verse sets no place on a map, and this article adds none. None of the commentaries fetched for 11:59 attaches a hadith or a cause of revelation to it, and none is quoted here.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত অতীতের এক জাতিকে ঠিক ততটুকুই বর্ণনা করে, যতটুকু পাঠ বলে, আর তাদের পরিণতিও ততটুকু, যতটুকু পাঠে লেখা আছে। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। ১১:৬০ আয়াতের লানত সেই আদের, কুরআন যাদের নাম নিয়েছে। পাঠক কাউকে তাদের সঙ্গে মিলিয়ে দেখলে সে লানত তার উপর বর্তায় না। আয়াত মানচিত্রে কোনো জায়গা চিহ্নিত করে না, এ লেখাও করছে না। ১১:৫৯ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি, তাই এখানে কিছুই উদ্ধৃত হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Command I Carry Out",
+          "bn": "আমি কার হুকুম পালন করি"
+        },
+        "p": [
+          {
+            "en": "The verse closes a story, but its three verbs are not bound to one age. A person can turn a reminder away while saying it was never clear enough, as Aad told Hud in 11:53. A person can accept one messenger and set aside another, a division the Qur'an refuses in 2:285. And a person who will not follow the sincere voice does not end up following no one. In this verse, the obedience withheld from the messenger went to the proud and the stubborn.",
+            "bn": "আয়াতটি একটা কাহিনি শেষ করে, কিন্তু এর তিনটি ক্রিয়া একটিমাত্র যুগে বাঁধা নয়। মানুষ উপদেশ ফিরিয়ে দিতে পারে এই বলে যে, কথাটা কখনো যথেষ্ট পরিষ্কার ছিল না, যেমন আদ হূদ (আঃ)-কে বলেছিল ১১:৫৩ আয়াতে। মানুষ একজন রসূলকে মেনে আরেকজনকে সরিয়ে রাখতে পারে, অথচ ২:২৮৫ আয়াতে কুরআন এই ভাগাভাগি মানে না। আর যে আন্তরিক কণ্ঠের অনুসরণ করবে না, সে শেষে কারও অনুসারী না হয়ে থাকে না। এ আয়াতে রসূলকে যে আনুগত্য দেওয়া হয়নি, তা গিয়েছিল অহংকারী আর একগুঁয়েদের কাছে।"
+          },
+          {
+            "en": "A practical question follows from as-Sa'di's contrast. Among the voices that shape my choices, which want good for me and ask nothing back, and which want something from me? The verse's test is not how powerful a voice is, or how many follow it; Aad's tyrants had power and followers. The test is whether it yields to the truth. The words a reader can take from this are the believers' own in 2:285: we hear and we obey; Your forgiveness, our Lord, and to You is the return.",
+            "bn": "সা'দীর তুলনা থেকে একটা বাস্তব প্রশ্ন উঠে আসে। যে কণ্ঠগুলো আমার সিদ্ধান্ত গড়ে দেয়, তাদের কোনগুলো আমার ভালো চায় আর বদলে কিছু চায় না, আর কোনগুলো আমার কাছ থেকে কিছু আদায় করতে চায়? আয়াতের মাপকাঠি এটা নয় যে কণ্ঠটা কত শক্তিশালী, বা কতজন তার পেছনে চলে। আদের স্বৈরাচারীদের ক্ষমতাও ছিল, অনুসারীও ছিল। মাপকাঠি হল, সে সত্যের সামনে নত হয় কি না। পাঠক এখান থেকে যে কথাগুলো নিয়ে যেতে পারেন, তা ২:২৮৫ আয়াতে মুমিনদেরই কথা: আমরা শুনলাম আর মানলাম। হে আমাদের রব, তোমার মাগফিরাত চাই, আর তোমার দিকেই ফিরে যাওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "11:61": {
     "sections": [
       {
