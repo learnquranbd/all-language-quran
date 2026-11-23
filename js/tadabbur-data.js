@@ -30983,6 +30983,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Nearness to Allah is sought, not assumed: keep away from what He forbids, draw close through what pleases Him, and strive in His way, hoping for success rather than claiming it.",
     "lessonBn": "আল্লাহর নৈকট্য ধরে নেওয়ার জিনিস নয়, খুঁজে নেওয়ার জিনিস। তিনি যা নিষেধ করেছেন তা থেকে দূরে থাকুন, তাঁর পছন্দের কাজ দিয়ে কাছে যান, আর তাঁর পথে চেষ্টা করুন। সফলতা দাবি করবেন না, আশা করুন।"
+  },
+  "5:29": {
+    "reflectionEn": "A brother has just sworn to kill him, and he answers without raising a hand. Then come these words: I want you to go back carrying my sin and your sin, and so be among the companions of the Fire. They sound hard until you see what they refuse. He will not become a killer to stay alive. If blood is to be shed, the wrong of it will belong to the one who chose it. The words are also a warning, held out while there is still time to stop. His brother heard them and went on anyway. When I am wronged, do I keep my hand back and leave the reckoning to Allah? And do I still try to turn the other person back before he falls?",
+    "reflectionBn": "ভাই সবে কসম খেয়েছে তাকে মেরে ফেলবে। তিনি হাত না তুলেই জবাব দেন। তারপর এই কথা: আমি চাই তুমি আমার গুনাহ আর তোমার গুনাহ কাঁধে নিয়ে ফিরে যাও, আর আগুনের বাসিন্দাদের একজন হও। শুনতে কঠিন লাগে, যতক্ষণ না বোঝা যায় কথাটা কী প্রত্যাখ্যান করছে। বেঁচে থাকার জন্য তিনি খুনি হবেন না। রক্ত যদি ঝরতেই হয়, তার দায় থাকবে তার ঘাড়ে, যে নিজে সেটা বেছে নিয়েছে। কথাগুলো একটা সতর্কবাণীও, থামার সময় থাকতে থাকতেই বলা। ভাই শুনল, তবু এগিয়ে গেল। আমার উপর অন্যায় হলে আমি কি হাত সংযত রাখি আর হিসাবটা আল্লাহর হাতে ছেড়ে দিই? আর যে অন্যায় করছে, পড়ে যাওয়ার আগে তাকে ফেরানোর চেষ্টা কি তখনো করি?",
+    "pointsEn": [
+      "When someone wrongs me, what do I reach for first: my hand, my tongue, or restraint for the sake of Allah?",
+      "Have I ever warned someone where their road was leading while there was still time to turn, or did I only wait to be proved right?",
+      "Which wrong am I carrying today that no one else will carry for me on that Day?",
+      "Whose rights over me, in words, money or harm, would I rather settle now than have weighed out of my good deeds later?",
+      "When I am the angry one, what words would stop me, and do I let them reach me?"
+    ],
+    "pointsBn": [
+      "কেউ আমার উপর অন্যায় করলে আমি প্রথমে কী আঁকড়ে ধরি: হাত, জিভ, নাকি আল্লাহর জন্য সংযম?",
+      "কারও পথ কোথায় গিয়ে ঠেকছে, ফেরার সময় থাকতে থাকতে কি কখনো তাকে সাবধান করেছি? নাকি শুধু অপেক্ষা করেছি কবে আমার কথা সত্যি প্রমাণ হয়?",
+      "আজ কোন গুনাহর বোঝা আমি বয়ে বেড়াচ্ছি, যা সেদিন আর কেউ আমার হয়ে বইবে না?",
+      "কথায়, টাকায় বা আঘাতে কার কোন হক আমার উপর রয়ে গেছে, যা পরে নেকি কেটে শোধ হওয়ার চেয়ে এখনই মিটিয়ে দেওয়া ভালো?",
+      "রাগ যখন আমার, তখন কোন কথা আমাকে থামাতে পারত? সে কথা কি আমি কানে ঢুকতে দিই?"
+    ],
+    "lessonEn": "Do not answer a wrong with the same wrong; every hand carries its own deed back to Allah, and a warning given in time may still turn someone back.",
+    "lessonBn": "অন্যায়ের জবাব একই অন্যায় দিয়ে দেবেন না। প্রত্যেক হাত নিজের আমল নিয়েই আল্লাহর কাছে ফেরে, আর সময়মতো দেওয়া সতর্কবাণী হয়তো কাউকে এখনো ফেরাতে পারে।"
   }
 };
 

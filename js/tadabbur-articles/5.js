@@ -1183,6 +1183,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Spoken With the Hand Held Back",
+          "bn": "হাত গুটিয়ে রেখে বলা কথা"
+        },
+        "p": [
+          {
+            "en": "Inni uridu an tabu'a bi-ithmi wa-ithmik: I want you to go back carrying my sin and your sin. These are still the words of the son of Adam whose offering was accepted, spoken to the brother who has just sworn, in 5:27, I will surely kill you. In 5:28 he has said he will not stretch out his hand to kill in return, for he fears Allah, Lord of the worlds. This verse completes his answer, and 5:30 follows at once: the killer's soul made the murder easy for him, and he killed him.",
+            "bn": "ইন্নী উরীদু আন তাবূআ বি-ইসমী ওয়া ইসমিক: আমি চাই তুমি আমার গুনাহ আর তোমার গুনাহ নিয়ে ফিরে যাও। কথাগুলো এখনো আদম (আঃ)-এর সেই পুত্রের, যার কুরবানি কবুল হয়েছিল। শুনছে তার ভাই, যে ৫:২৭ আয়াতে সবে কসম খেয়েছে, আমি তোমাকে অবশ্যই হত্যা করব। ৫:২৮ আয়াতে তিনি আগেই বলে দিয়েছেন, পাল্টা হত্যার জন্য তিনি হাত বাড়াবেন না, কারণ তিনি বিশ্বজগতের রব আল্লাহকে ভয় করেন। এ আয়াতে তাঁর জবাব শেষ হয়। তার পরপরই ৫:৩০: হত্যাকারীর মন তার কাছে খুনটা সহজ করে দিল, আর সে ভাইকে মেরে ফেলল।"
+          },
+          {
+            "en": "Al-Qurtubi traces tabu'a to ba'a, to return to the maba'ah, the dwelling place, and cites ba'u bi-ghadabin min Allah, they returned with anger from Allah. Al-Baghawi gives return and adds, under 'it was said', to carry. The Muyassar joins the two: that you go back bearing the sin of killing me. The Qur'an names neither brother; Habil and Qabil are the names the commentators' reports give them, and Ma'arif al-Qur'an, on 5:27, says most commentators take the pair to be Adam's own sons.",
+            "bn": "কুরতুবী তাবূআ শব্দটিকে নিয়ে যান বাআ ধাতুতে। এর মানে মাবাআহ, অর্থাৎ নিজের ঠিকানায় ফিরে যাওয়া। প্রমাণ হিসেবে আনেন বাঊ বি-গাদাবিম মিনাল্লাহ: তারা আল্লাহর গজব নিয়ে ফিরল। বাগাভী অর্থ দেন ফিরে যাওয়া, আর 'বলা হয়' বলে যোগ করেন বহন করা। মুয়াসসার দুটোকে মিলিয়ে বলে: তুমি আমাকে হত্যার গুনাহ বয়ে নিয়ে ফিরে যাও। কুরআন দুই ভাইয়ের কারও নাম বলেনি। হাবীল আর কাবীল নাম দুটো এসেছে তাফসীরকারদের উদ্ধৃত বর্ণনা থেকে। মাআরিফুল কুরআন ৫:২৭ আয়াতের আলোচনায় বলে, অধিকাংশ মুফাসসির এ দুজনকে আদম (আঃ)-এর নিজের সন্তান মনে করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Can the Wronged Want This?",
+          "bn": "মজলুম এটা চায় কীভাবে?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari puts the objection in a questioner's mouth. Was not the killing a sin against Allah? Yes, he answers, and how great a sin. Then how could the man about to be killed want it, and say I want you to bear the sin of killing me? His reply: the meaning is, I want you to bear the sin of killing me if you kill me, because I will not kill you. If he does kill him, he returns with that sin in Allah's judgment in any case, so wanting it does not draw the speaker into wrong.",
+            "bn": "তাবারী আপত্তিটা এক প্রশ্নকারীর মুখে তুলে দেন। হত্যা কি আল্লাহর নাফরমানি ছিল না? ছিল, তিনি বলেন, আর কত বড় নাফরমানি! তাহলে যাকে হত্যা করা হবে, সে এটা চায় কী করে? কী করে বলে, আমি চাই তুমি আমাকে হত্যার গুনাহ বহন করো? তাবারীর জবাব: অর্থটা হলো, তুমি যদি আমাকে হত্যা করো, তবে আমি চাই সে গুনাহ তুমিই বহন করো, কারণ আমি তোমাকে হত্যা করব না। আর সে যদি হত্যা করেই, আল্লাহর বিধানে সে গুনাহ নিয়ে সে ফিরবেই। তাই এই চাওয়া বক্তাকে কোনো অন্যায়ে জড়ায় না।"
+          },
+          {
+            "en": "Al-Baghawi raises the same question, since wanting a killing or a sin is not allowed, and records two answers. In the first it is not true wanting: knowing his brother would kill him no matter what, he settled himself on surrender, seeking reward, and so became, figuratively, one who wants it. In the second it is real wanting, but of the punishment that killing earns, not of the killing itself; and such a wish is sound, because it agrees with Allah's own ruling.",
+            "bn": "বাগাভীও একই প্রশ্ন তোলেন, কারণ হত্যা বা গুনাহ চাওয়া জায়েজ নয়। তিনি দুটি জবাব লিখে রাখেন। প্রথমটি বলে, এটা আসল চাওয়া নয়। তিনি জানতেন ভাই তাঁকে মারবেই। তাই সওয়াবের আশায় নিজেকে সঁপে দেওয়ার জন্য মন বেঁধে নিলেন। এভাবে রূপক অর্থে তিনি যেন চাওয়ার লোক হয়ে গেলেন। দ্বিতীয়টি বলে, চাওয়াটা আসলই, তবে হত্যার নয়, হত্যার কারণে যে শাস্তি প্রাপ্য, তার। আর এমন চাওয়া ঠিক আছে, কারণ তা আল্লাহর নিজের বিধানের সঙ্গে মেলে।"
+          },
+          {
+            "en": "Al-Qurtubi records that Abu al-Hasan ibn Kaysan was asked how a believer could want his brother to sin and enter the Fire. The wanting, he answered, came only after the hand had been stretched out to kill: if you reach for me to kill me, I will hold back, wanting the reward. As-Sa'di frames it as a choice with no third door. If the matter turns between my being a killer and your killing me, I prefer that you kill me, and you go back with both burdens.",
+            "bn": "কুরতুবী লিখেছেন, আবুল হাসান ইবন কায়সানকে জিজ্ঞেস করা হয়েছিল: একজন মুমিন কী করে চাইবে যে তার ভাই গুনাহ করুক আর জাহান্নামে যাক? তিনি বলেন, এই চাওয়া এসেছে হত্যার জন্য হাত বাড়ানোর পরে। অর্থাৎ তুমি আমাকে মারতে হাত বাড়ালে আমি বিরত থাকব, সওয়াবের আশায়। সা'দী বিষয়টাকে দেখেন এমন এক বাছাই হিসেবে, যার তৃতীয় কোনো দরজা নেই। ব্যাপারটা যদি এই দাঁড়ায় যে হয় আমি খুনি হব, নয় তুমি আমাকে খুন করবে, তবে আমি দ্বিতীয়টাই বেছে নিই। তখন দুই বোঝা নিয়ে ফিরবে তুমি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sin of Killing Me",
+          "bn": "আমাকে হত্যার গুনাহ"
+        },
+        "p": [
+          {
+            "en": "What, then, are the two sins? Ibn Kathir names Ibn Abbas, Mujahid, ad-Dahhak, Qatadah and as-Suddi for one answer: my sin is the sin of killing me, and your sin is what was already on you before it. At-Tabari carries their reports with chains. Qatadah's is the shortest: by your killing me, and your sin before that. As-Suddi's, from Ibn Abbas, Ibn Mas'ud and others among the Companions, reads: the sin of killing me, added to the sin already on your neck.",
+            "bn": "তাহলে দুই গুনাহ কী কী? ইবন কাসীর একটি জবাবের পক্ষে নাম দেন ইবন আব্বাস (রাঃ), মুজাহিদ, দাহহাক, কাতাদা আর সুদ্দীর। আমার গুনাহ মানে আমাকে হত্যার গুনাহ, আর তোমার গুনাহ মানে যা আগে থেকেই তোমার ঘাড়ে ছিল। তাবারী সনদসহ তাঁদের বর্ণনাগুলো এনেছেন। কাতাদার বর্ণনাটি সবচেয়ে ছোট: আমাকে তোমার হত্যা, আর তার আগের তোমার গুনাহ। সুদ্দীর বর্ণনা এসেছে ইবন আব্বাস (রাঃ), ইবন মাসঊদ (রাঃ) ও আরও কয়েকজন সাহাবি থেকে: আমাকে হত্যার গুনাহ, তোমার ঘাড়ে আগে থেকে থাকা গুনাহর সঙ্গে যোগ হয়ে।"
+          },
+          {
+            "en": "At-Tabari explains the grammar behind it: on this reading my sin means the sin of killing me, the word killing left out because the hearers understood it. The Muyassar takes the same line, and al-Baghawi calls it the view of most commentators, as ath-Tha'labi does in al-Qurtubi's report. At-Tabari judges it correct for two reasons. The people of interpretation agree on it, he says, and Allah has told us that every doer's recompense is for him or against him; so the killer is held for his unlawful killing and his own other sins, not for what his victim did.",
+            "bn": "এর পেছনের ব্যাকরণটা তাবারী ব্যাখ্যা করেন। এই পাঠে 'আমার গুনাহ' মানে আমাকে হত্যার গুনাহ। 'হত্যা' শব্দটা বাদ পড়েছে, কারণ শ্রোতারা তা এমনিতেই বুঝত। মুয়াসসারও এই পথেই যায়। বাগাভী একে অধিকাংশ মুফাসসিরের মত বলেন, আর কুরতুবীর বর্ণনায় সা'লাবীও তা-ই বলেন। তাবারী দুই কারণে একে সঠিক মনে করেন। প্রথমত, তাফসীরবিদরা এতে একমত। দ্বিতীয়ত, আল্লাহ জানিয়েছেন, প্রত্যেক আমলকারীর আমলের ফল তার পক্ষে বা বিপক্ষে তারই। তাই হত্যাকারী ধরা পড়বে তার অবৈধ হত্যা আর নিজের অন্য গুনাহর জন্য, নিহতের করা কাজের জন্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Readings Kept on the Record",
+          "bn": "নথিতে রাখা আরও কিছু ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's first reading rests on a saying of the Prophet ﷺ. Al-Bukhari records it (no. 31) from Abu Bakrah: 'When two Muslims meet with their swords, the killer and the killed are in the Fire.' I said, 'O Messenger of Allah, this is the killer, but what of the one killed?' He said, 'He was eager to kill his companion.' On this reading Habil meant: I am not eager to kill you, so the sin I would have carried had I been eager, I want you to carry, with your sin of killing me.",
+            "bn": "কুরতুবীর প্রথম ব্যাখ্যাটি নবী ﷺ-এর একটি বাণীর উপর দাঁড়িয়ে। বুখারী (নং ৩১) আবু বাকরা (রাঃ) থেকে বর্ণনা করেছেন: 'দুই মুসলিম যখন তলোয়ার নিয়ে মুখোমুখি হয়, তখন হত্যাকারী ও নিহত দুজনই জাহান্নামে।' আমি বললাম, 'হে আল্লাহর রাসূল, এ তো হত্যাকারী, কিন্তু নিহতের কী দোষ?' তিনি বললেন, 'সে-ও তার সঙ্গীকে হত্যা করতে উদগ্রীব ছিল।' এই পাঠে হাবীলের কথার মানে দাঁড়ায়: আমি তোমাকে হত্যা করতে উদগ্রীব নই। উদগ্রীব হলে যে গুনাহ আমার হতো, আমি চাই সেটাও তুমি বহন করো, আমাকে হত্যার গুনাহর সঙ্গে।"
+          },
+          {
+            "en": "Two readings work on the grammar. One supplies a missing 'not': I want you not to go back with my sin and yours, as an tamida bikum in 16:15 is understood as lest it shake with you, and an tadillu in 4:176 as lest you go astray. Al-Qurtubi calls this weak, because of the Prophet's ﷺ saying that a share of every unjust killing falls on the first son of Adam: the sin of the killing is real. Another, reported by al-Qushayri, takes the sentence as a disapproving question: would I want that? Al-Qurtubi relays it without a verdict.",
+            "bn": "দুটি ব্যাখ্যা ব্যাকরণ নিয়ে কাজ করে। একটি মাঝখানে একটা 'না' ধরে নেয়: আমি চাই তুমি আমার ও তোমার গুনাহ নিয়ে না ফেরো। যেমন ১৬:১৫ আয়াতের আন তামীদা বিকুম বোঝা হয় 'যাতে তা তোমাদের নিয়ে না দোলে', আর ৪:১৭৬ আয়াতের আন তাদিল্লূ 'যাতে তোমরা পথ না হারাও'। কুরতুবী একে দুর্বল বলেন। কারণ নবী ﷺ বলেছেন, প্রতিটি অন্যায় হত্যার একটা ভাগ আদমের প্রথম পুত্রের উপর পড়ে। অর্থাৎ হত্যার গুনাহ সত্যিই হয়। আরেকটি ব্যাখ্যা কুশাইরী বর্ণনা করেছেন: বাক্যটা আসলে অস্বীকৃতির প্রশ্ন, আমি কি তা চাইতে পারি? কুরতুবী এটা কোনো রায় ছাড়াই উল্লেখ করেন।"
+          },
+          {
+            "en": "One report from Mujahid, through Shibl, reads: I want my own sins and my blood to be on you. At-Tabari records it and fears it is a mistake, since the sound report from Mujahid gives the majority reading; Ibn Kathir relays the caution. Ibn Kaysan, pressed on what sin the victim could mean, gave three answers in al-Qurtubi's record: the fault for which your offering was refused, a view related from Mujahid; your aggression against me, a sin even without a killing; or 'our' sin, the one I would have earned by fighting back. Al-Baghawi adds the sin of envy.",
+            "bn": "শিবলের সূত্রে মুজাহিদের একটি বর্ণনা বলে: আমি চাই আমার নিজের গুনাহ আর আমার রক্ত দুটোই তোমার ঘাড়ে পড়ুক। তাবারী এটা উল্লেখ করে আশঙ্কা করেন যে এটা ভুল। কারণ মুজাহিদ থেকে সহীহ বর্ণনাটি অধিকাংশের মতই দেয়। ইবন কাসীরও সেই সতর্কবাণী উদ্ধৃত করেন। নিহতের গুনাহ বলতে কী বোঝানো হতে পারে, এ প্রশ্নে ইবন কায়সান কুরতুবীর বর্ণনায় তিনটি জবাব দেন। এক, যে দোষের কারণে তোমার কুরবানি কবুল হয়নি, মুজাহিদ থেকেও এমন বর্ণনা আছে। দুই, আমার উপর তোমার আগ্রাসন, হত্যা না করলেও যা গুনাহ। তিন, 'আমাদের' গুনাহ, অর্থাৎ পাল্টা লড়লে যা আমার হতো। বাগাভী যোগ করেন হিংসার গুনাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Deeds Cross Over",
+          "bn": "কার আমল কার খাতায়"
+        },
+        "p": [
+          {
+            "en": "A popular belief sits close to this verse: that a killer takes on every sin of the one he kills. Ibn Kathir says many people imagine it and cite for it a saying attributed to the Prophet ﷺ which, he says, has no basis; a report in al-Bazzar's collection resembles it, and he says it is not sound. Neither is quoted here. Yet he does not stop at refusal. Something like it happens to many, he says: on the Day the slain claims his right, good deeds are taken from the killer, and if they run out, sins of the slain are thrown onto him.",
+            "bn": "এ আয়াতের পাশেই একটা প্রচলিত ধারণা ঘোরে: খুনি নাকি নিহতের সব গুনাহ নিজের ঘাড়ে নেয়। ইবন কাসীর বলেন, অনেকে এমন ভাবে, আর এর পক্ষে নবী ﷺ-এর নামে একটা কথা বলে, যার তাঁর মতে কোনো ভিত্তি নেই। বাযযারের সংকলনে এর কাছাকাছি একটি বর্ণনা আছে, সেটাকেও তিনি সহীহ নয় বলেন। এ লেখায় কোনোটিই উদ্ধৃত করা হলো না। তবে তিনি শুধু নাকচ করেই থামেন না। তাঁর মতে অনেকের ক্ষেত্রে এর মতো কিছু ঘটেই যায়। কিয়ামতের দিন নিহত তার হক দাবি করবে। খুনির নেকি থেকে নেওয়া হবে, নেকি ফুরিয়ে গেলে নিহতের গুনাহ এনে খুনির উপর চাপানো হবে।"
+          },
+          {
+            "en": "Ibn Kathir calls the hadith on this sound for every kind of wrong, killing among the gravest. Al-Qurtubi makes it his second reading of my sin: some of my sins are taken and thrown upon you because you wronged me. He supports it with 29:13, they will surely carry their burdens and burdens beside their burdens, and with a hadith he says Muslim records in meaning; Muslim has it from Abu Hurayrah (no. 2581). He calls the reading clear, with no difficulty in it. The hadith is about every wrong; he brings it as support, not as a report about this verse.",
+            "bn": "ইবন কাসীর বলেন, সব ধরনের জুলুমের ক্ষেত্রেই এ বিষয়ে হাদীস সহীহ, আর হত্যা তার মধ্যে সবচেয়ে গুরুতরগুলোর একটি। কুরতুবী একে 'আমার গুনাহ'-র দ্বিতীয় ব্যাখ্যা বানান: তুমি আমার উপর জুলুম করেছ বলে আমার কিছু গুনাহ নিয়ে তোমার উপর চাপানো হবে। সমর্থনে আনেন ২৯:১৩, তারা অবশ্যই নিজেদের বোঝা বইবে, আর নিজেদের বোঝার সঙ্গে আরও বোঝা। আর আনেন এমন এক হাদীস, যা তাঁর ভাষায় মুসলিম অর্থগতভাবে বর্ণনা করেছেন। মুসলিমে (নং ২৫৮১) হাদীসটি আবু হুরায়রা (রাঃ) থেকে বর্ণিত। ব্যাখ্যাটাকে তিনি বলেন স্পষ্ট, এতে কোনো জটিলতা নেই। হাদীসটি সব ধরনের জুলুম নিয়ে। তিনি এটা আনেন সমর্থন হিসেবে, এ আয়াত সম্পর্কে কোনো বর্ণনা হিসেবে নয়।"
+          },
+          {
+            "en": "He asked, 'Do you know who the bankrupt is?' They said, 'The bankrupt among us is he who has no dirham and no goods.' He said, 'The bankrupt of my community comes on the Day of Resurrection with prayer, fasting and zakah, but comes having abused this man, slandered this man, consumed this man's wealth, shed this man's blood and struck this man. So this man is given from his good deeds, and this man from his good deeds; and if his good deeds run out before what he owes is settled, some of their sins are taken and thrown upon him, then he is thrown into the Fire.'",
+            "bn": "নবী ﷺ জিজ্ঞেস করলেন, 'তোমরা কি জানো দেউলিয়া কে?' তাঁরা বললেন, 'আমাদের মধ্যে দেউলিয়া সে, যার না আছে দিরহাম, না কোনো সম্পদ।' তিনি বললেন, 'আমার উম্মতের দেউলিয়া সে, যে কিয়ামতের দিন সালাত, সিয়াম আর যাকাত নিয়ে আসবে, কিন্তু আসবে এমন অবস্থায় যে কাউকে গালি দিয়েছে, কারও নামে অপবাদ দিয়েছে, কারও সম্পদ খেয়েছে, কারও রক্ত ঝরিয়েছে, কাউকে মেরেছে। তখন এ পাবে তার নেকি থেকে, ও পাবে তার নেকি থেকে। আর পাওনা মেটার আগেই যদি তার নেকি ফুরিয়ে যায়, তবে তাদের গুনাহ থেকে নিয়ে তার উপর চাপানো হবে, তারপর তাকে জাহান্নামে নিক্ষেপ করা হবে।'"
+          },
+          {
+            "en": "The commentators lean two ways here. At-Tabari reads the verse with the rule that each doer's deed is for him or against him, and keeps the victim's sins off the killer's account. Al-Qurtubi and Ibn Kathir read it beside the settling of wrongs on that Day, through which the victim's sins can end up on whoever wronged him. Both are on record, each with its evidence; this article leaves them side by side.",
+            "bn": "এখানে তাফসীরকারেরা দুই দিকে ঝোঁকেন। তাবারী আয়াতটা পড়েন এই নীতির আলোয় যে প্রত্যেকের আমল তার পক্ষে বা বিপক্ষে তারই। তাই নিহতের গুনাহ তিনি খুনির খাতায় তোলেন না। কুরতুবী আর ইবন কাসীর পড়েন সেদিনের হক মেটানোর পাশাপাশি রেখে। সেই হিসাবে নিহতের গুনাহ গিয়ে পড়তে পারে জুলুমকারীর ঘাড়ে। দুটো মতই নথিতে আছে, যার যার দলিলসহ। এ লেখা দুটোকে পাশাপাশিই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Companions of the Fire, How Long",
+          "bn": "আগুনের সঙ্গী, কত দিনের জন্য"
+        },
+        "p": [
+          {
+            "en": "Fa-takuna min ashab an-nar: and so be among the companions of the Fire. At-Tabari reads it as dwellers of Hell through your killing of me, abiding in it; and the wrongdoers as those who leave the path of truth and overstep what was set for them. He and al-Qurtubi draw the same point from the sentence: these first people were already under Allah's command and prohibition, His promise and His threat, or the slain brother could not have said it.",
+            "bn": "ফাতাকূনা মিন আসহাবিন নার: আর তুমি আগুনের বাসিন্দাদের একজন হয়ে যাও। তাবারী এর অর্থ করেন: আমাকে হত্যার কারণে জাহান্নামের বাসিন্দা, সেখানে চিরকাল থাকা লোক। আর জালিম বলতে তিনি বোঝান তাদের, যারা সত্যের পথ ছেড়ে দেয় এবং তাদের জন্য যা ঠিক করা হয়েছে তার সীমা পেরিয়ে যায়। তাবারী আর কুরতুবী এ বাক্য থেকে একই কথা বের করেন: প্রথম যুগের এই মানুষেরাও তখন আল্লাহর আদেশ-নিষেধ আর তাঁর প্রতিশ্রুতি ও সতর্কবাণীর অধীনে ছিল। তা না হলে নিহত ভাই এ কথা বলতেই পারতেন না।"
+          },
+          {
+            "en": "Some took the phrase as proof that the killer was a disbeliever, since the Qur'an uses companions of the Fire for disbelievers wherever it occurs. Al-Qurtubi rejects that here, on the strength of the readings above, and takes it to mean for the time you are in it. At-Tabari's gloss speaks of abiding in it. Both stand as written. As-Sa'di draws a firm lesson for every reader: killing is among the major sins, and it brings entry into the Fire.",
+            "bn": "কেউ কেউ এই শব্দবন্ধ থেকে প্রমাণ টেনেছেন যে খুনি কাফির ছিল, কারণ কুরআনে যেখানেই আসহাবুন নার এসেছে, এসেছে কাফিরদের বেলায়। কুরতুবী এখানে তা নাকচ করেন ওপরের ব্যাখ্যাগুলোর জোরে। তাঁর মতে এর মানে, যতদিন তুমি সেখানে থাকবে। অন্যদিকে তাবারীর ব্যাখ্যায় আছে সেখানে চিরকাল থাকার কথা। দুটো কথাই যেমন লেখা, তেমনই রইল। সা'দী প্রত্যেক পাঠকের জন্য একটা দৃঢ় শিক্ষা টানেন: হত্যা কবীরা গুনাহগুলোর একটি, আর তা জাহান্নামে প্রবেশের কারণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "First to Make It a Practice",
+          "bn": "যে প্রথম খুনের রীতি চালু করল"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records from Abdullah ibn Mas'ud (no. 3335) that the Messenger of Allah ﷺ said: 'No soul is killed unjustly but a share of its blood falls on the first son of Adam, because he was the first to make killing a practice.' At-Tabari draws a conclusion from it. Al-Hasan was reported as saying the two were men of the Children of Israel, not Adam's own sons; at-Tabari calls that a mistake, since killing existed long before Israel, let alone his descendants.",
+            "bn": "বুখারী (নং ৩৩৩৫) আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেছেন, আল্লাহর রাসূল ﷺ বলেছেন: 'যখনই কোনো প্রাণ অন্যায়ভাবে নিহত হয়, তার রক্তের একটা ভাগ আদমের প্রথম পুত্রের উপর পড়ে, কারণ সে-ই প্রথম হত্যাকে রীতি বানিয়েছিল।' তাবারী এ থেকে একটা সিদ্ধান্ত টানেন। হাসান থেকে বর্ণিত আছে, এ দুজন আদমের নিজের সন্তান নয়, বনী ইসরাঈলের দুই ব্যক্তি। তাবারী একে ভুল বলেন, কারণ হত্যা তো ইসরাঈলের বহু আগেই ছিল, তাঁর বংশধরদের কথা বলাই বাহুল্য।"
+          },
+          {
+            "en": "At-Tirmidhi (no. 2194) records that Sa'd ibn Abi Waqqas, during the strife in the time of Uthman, testified that the Messenger of Allah ﷺ said: 'There will be a fitnah in which he who sits is better than he who stands, he who stands better than he who walks, and he who walks better than he who runs.' Sa'd asked: what if a man enters my house and stretches out his hand to kill me? He said: 'Be like the son of Adam.' At-Tirmidhi grades it hasan.",
+            "bn": "তিরমিযী (নং ২১৯৪) বর্ণনা করেছেন, উসমান (রাঃ)-এর সময়ের ফিতনার দিনে সা'দ ইবন আবী ওয়াক্কাস (রাঃ) সাক্ষ্য দিয়েছিলেন যে আল্লাহর রাসূল ﷺ বলেছেন: 'এমন এক ফিতনা আসবে, যাতে বসে থাকা লোক দাঁড়িয়ে থাকা লোকের চেয়ে ভালো, দাঁড়িয়ে থাকা লোক হেঁটে চলা লোকের চেয়ে ভালো, আর হেঁটে চলা লোক দৌড়ানো লোকের চেয়ে ভালো।' সা'দ জিজ্ঞেস করলেন: কেউ যদি আমার ঘরে ঢুকে আমাকে হত্যা করতে হাত বাড়ায়? তিনি বললেন: 'আদমের পুত্রের মতো হও।' তিরমিযী হাদীসটিকে হাসান বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hand Stops, the Warning Stays",
+          "bn": "হাত থামে, সতর্কবাণী থামে না"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what a brother said to his brother before a murder, and what the killer earned. It licenses nothing against any living person or community, and gives no one a right to wish the Fire on whoever wrongs him. The hadith above belongs to strife among Muslims; the commentaries fetched here draw no general law of self-defence from it or from this verse, and this article states none.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায়, একটি খুনের আগে এক ভাই আরেক ভাইকে কী বলেছিল, আর খুনি কী অর্জন করল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। যে কেউ অন্যায় করলে তার জন্য জাহান্নাম কামনা করার অধিকারও কাউকে দেয় না। ওপরের হাদীসটি মুসলিমদের পারস্পরিক ফিতনার প্রসঙ্গে। এখানে দেখা তাফসীরগুলো সেটা থেকে বা এ আয়াত থেকে আত্মরক্ষার কোনো সাধারণ বিধান বের করেনি, এ লেখাও করছে না।"
+          },
+          {
+            "en": "Ibn Kathir hears in these words an admonition, had the brother taken it, and a rebuke, had he let it check him. Ibn Abbas, in his report, says Habil made him fear the Fire, yet he neither stopped nor held back. The lesson remains: a wrong done to me does not make the same wrong lawful for me. And a warning spoken in time is still worth speaking, even when it goes unheeded.",
+            "bn": "ইবন কাসীর এ কথাগুলোর মধ্যে শোনেন এক উপদেশ, ভাই যদি তা গ্রহণ করত, আর এক ধমক, যদি সে তাতে থামত। ইবন আব্বাস (রাঃ)-এর বর্ণনায় আছে, হাবীল তাকে জাহান্নামের ভয় দেখিয়েছিলেন, তবু সে থামেনি, বিরতও হয়নি। শিক্ষাটা কিন্তু থেকে যায়: আমার উপর অন্যায় হলেই সেই অন্যায় আমার জন্য হালাল হয়ে যায় না। আর সময় থাকতে বলা সতর্কবাণী বলার মতোই, কেউ কানে না তুললেও।"
+          }
+        ]
+      }
+    ]
+  },
   "5:32": {
     "sections": [
       {
