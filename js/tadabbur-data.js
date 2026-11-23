@@ -31663,6 +31663,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A single deed can decide where you stand, so add the good you can today and let your hope in Allah move you to act.",
     "lessonBn": "একটিমাত্র আমলই ঠিক করে দিতে পারে আপনি কোথায় দাঁড়াবেন। তাই আজই যতটুকু নেক কাজ পারেন যোগ করুন, আর আল্লাহর ওপর আশাকে কাজের প্রেরণা বানান।"
+  },
+  "7:82": {
+    "reflectionEn": "Lut (AS) has just named his people's deed and asked how they could do it. The verse gives their whole answer, and there is no argument in it. Put them out of your town, they tell one another; these are people who keep themselves pure. The only charge they can find is the very thing he called them to. An early commentator put it in one line: they faulted them where there was no fault. The verse describes one people's reply to one prophet and licenses nothing against anyone living. The mirror is mine. When someone near me declines what everyone else has made normal, do I answer what they say, or do I look for a way to move them out of the room?",
+    "reflectionBn": "লূত (আঃ) এইমাত্র তাঁর জাতির কাজটির নাম ধরে বলেছেন, জিজ্ঞেস করেছেন তারা এমন কাজ কীভাবে করে। আয়াতটি তাদের পুরো জবাব তুলে দেয়, আর সেই জবাবে কোনো যুক্তি নেই। তারা একে অন্যকে বলে, এদের তোমাদের জনপদ থেকে বের করে দাও, এরা তো পবিত্র থাকতে চায়। অভিযোগ বলতে তাদের হাতে আছে কেবল সেই জিনিসটাই, যার দিকে তিনি তাদের ডেকেছিলেন। প্রথম যুগের এক তাফসীরকার এক লাইনে বলে দিয়েছেন: যেখানে দোষ নেই, সেখানেই তারা দোষ ধরেছে। আয়াতটি এক নবীর প্রতি এক জাতির জবাবের বর্ণনা, আজকের কোনো মানুষের বিরুদ্ধে কিছুরই অনুমতি দেয় না। আয়নাটা আমার নিজের জন্য। আশপাশের সবাই যা স্বাভাবিক বানিয়ে নিয়েছে, কেউ তা থেকে বিরত থাকলে আমি কি তার কথার জবাব দিই, নাকি তাকে আসর থেকে সরিয়ে দেওয়ার পথ খুঁজি?",
+    "pointsEn": [
+      "When someone's refusal made me uncomfortable, did I answer their reason, or did I start talking about their character?",
+      "Have I ever called a person self-righteous only because they would not join in?",
+      "Is there a habit in my circle so ordinary now that the one who avoids it looks strange to us?",
+      "Whom have I wanted out of the conversation because their presence reminded me of what I was doing?",
+      "If keeping clear of something cost me a place or a welcome, would I hold to it, or begin to count my restraint as a fault?"
+    ],
+    "pointsBn": [
+      "কারও অস্বীকৃতি যখন আমাকে অস্বস্তিতে ফেলেছে, আমি কি তার যুক্তির জবাব দিয়েছি, নাকি তার স্বভাব নিয়ে কথা শুরু করেছি?",
+      "কেউ শুধু আমাদের সঙ্গে যোগ দেয়নি বলে কি আমি কখনো তাকে 'নিজেকে খুব ভালো মনে করে' বলে খোঁটা দিয়েছি?",
+      "আমার চারপাশে এমন কোনো অভ্যাস কি আছে, যা এত সাধারণ হয়ে গেছে যে কেউ তা এড়িয়ে চললে তাকেই অদ্ভুত লাগে?",
+      "কার উপস্থিতি আমাকে আমার নিজের কাজের কথা মনে করিয়ে দিত বলে আমি চেয়েছি সে আলাপ থেকে সরে যাক?",
+      "কোনো কিছু থেকে দূরে থাকার দাম যদি হয় নিজের জায়গা বা কদর হারানো, আমি কি তাতে অটল থাকব, নাকি নিজের সংযমকেই দোষ ভাবতে শুরু করব?"
+    ],
+    "lessonEn": "When the only charge against someone is their restraint, the charge exposes the accusers; answer a reminder with reasons, never with a plan to remove the person who gave it.",
+    "lessonBn": "কারও বিরুদ্ধে একমাত্র অভিযোগ যদি হয় তার সংযম, তবে সেই অভিযোগ অভিযোগকারীদেরই চিনিয়ে দেয়। উপদেশের জবাব দিন যুক্তি দিয়ে, উপদেশদাতাকে সরিয়ে দেওয়ার ফন্দি দিয়ে নয়।"
   }
 };
 
