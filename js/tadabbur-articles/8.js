@@ -1547,6 +1547,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:39": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After the Offer",
+          "bn": "প্রস্তাবের ঠিক পরেই"
+        },
+        "p": [
+          {
+            "en": "Wa-qatiluhum hatta la takuna fitnatun wa-yakuna ad-dinu kulluhu lillah: and fight them until there is no fitnah and the religion, all of it, is for Allah; and if they cease, Allah sees what they do. The verse follows directly on 8:38, where the Prophet ﷺ is told to say to those who disbelieved that if they cease, what is past will be forgiven them, and if they return, the way of the former peoples has already gone before. The offer of forgiveness comes first; the command comes after it.",
+            "bn": "ওয়া কাতিলূহুম হাত্তা লা তাকূনা ফিতনাতুন ওয়া ইয়াকূনাদ দ্বীনু কুল্লুহূ লিল্লাহ: তাদের সঙ্গে লড়ো, যতক্ষণ না ফিতনা থাকে আর দ্বীন পুরোটাই আল্লাহর হয়; তারা থেমে গেলে তারা যা করে আল্লাহ তা দেখেন। আয়াতটি এসেছে ঠিক ৮:৩৮-এর পরে। সেখানে নবী ﷺ-কে বলা হয়েছে কাফিরদের জানিয়ে দিতে: তারা থেমে গেলে অতীতে যা করেছে তা মাফ করা হবে, আর আবার ফিরে এলে আগের জাতিগুলোর বেলায় আল্লাহর নিয়ম তো আগেই ঘটে গেছে। আগে আসে ক্ষমার প্রস্তাব, আদেশ আসে তার পরে।"
+          },
+          {
+            "en": "At-Tabari reads the two verses as one movement. Allah tells the believers in His Messenger: if these people return to war against you, you have already seen My way with those of them who fought you at Badr, and I will do the like again to whoever of them fights you; so fight them until there is no shirk. As-Sa'di introduces the verse as Allah's address to the believers when He told them how to deal with the disbelievers, turning from what the verse before says to the disbelievers themselves.",
+            "bn": "তাবারী আয়াত দুটিকে একটানা কথা হিসেবে পড়েন। আল্লাহ মুমিনদের বলছেন: এরা যদি আবার তোমাদের বিরুদ্ধে যুদ্ধে নামে, বদরের দিনে তাদের মধ্যে যারা তোমাদের সঙ্গে লড়েছিল তাদের বেলায় আমার নিয়ম তোমরা দেখেছ। যারা তোমাদের সঙ্গে লড়বে, তাদের বেলায়ও আমি তা-ই করব। কাজেই শিরক না থাকা পর্যন্ত তাদের সঙ্গে লড়ো। সা'দী আয়াতটির ভূমিকা টানেন এভাবে: আগের আয়াতে কথা ছিল কাফিরদের প্রতি, এবার কাফিরদের সঙ্গে আচরণের ব্যাপারে আল্লাহ সম্বোধন করছেন মুমিনদের।"
+          },
+          {
+            "en": "Almost the same words stand in 2:193, and al-Qurtubi, reaching this verse, says only that its meaning and the explanation of its words came earlier in al-Baqarah. Ibn Kathir sets 2:193 beside it. The wording itself shows two differences. Here the religion is for Allah kulluhu, all of it, and the verse closes on Allah seeing what they do. There the word all is absent, and the close is that there is no hostility except against the wrongdoers. The passage 2:190 to 2:193 has its own article; this one stays with al-Anfal.",
+            "bn": "প্রায় একই শব্দ আছে ২:১৯৩ আয়াতে। কুরতুবী এ আয়াতে পৌঁছে শুধু এটুকু বলেন যে এর অর্থ আর শব্দের ব্যাখ্যা সূরা বাকারায় আগেই এসে গেছে। ইবন কাসীরও ২:১৯৩ পাশে রাখেন। তবু শব্দেই দুটি পার্থক্য চোখে পড়ে। এখানে দ্বীন আল্লাহর জন্য 'কুল্লুহূ', অর্থাৎ পুরোটাই, আর আয়াত শেষ হয় এ কথায় যে তারা যা করে আল্লাহ তা দেখেন। সেখানে 'পুরোটা' শব্দটি নেই, আর শেষ কথা হলো, জালিমদের ছাড়া আর কারও বিরুদ্ধে কোনো আক্রমণ নয়। ২:১৯০ থেকে ২:১৯৩ পর্যন্ত অংশের আলাদা প্রবন্ধ আছে। এ প্রবন্ধ সূরা আনফালের ভেতরেই থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fitnah Read as Shirk",
+          "bn": "ফিতনা মানে শিরক"
+        },
+        "p": [
+          {
+            "en": "The commentators give two readings of fitnah here, and most early voices take the first. At-Tabari reports through 'Ali ibn Abi Talhah from Ibn 'Abbas: until there is no shirk. He gives the same from al-Hasan, Qatadah and as-Suddi. Ibn Kathir reports it from Ibn 'Abbas through ad-Dahhak, and lists with him Abu al-'Aliyah, Mujahid, al-Hasan, Qatadah, ar-Rabi' ibn Anas, as-Suddi, Muqatil ibn Hayyan and Zayd ibn Aslam. Ibn Zayd, in at-Tabari, says kufr, and so does al-Qurtubi; al-Baghawi says shirk.",
+            "bn": "এখানে ফিতনার দুটি ব্যাখ্যা পাওয়া যায়, আর প্রথম যুগের বেশির ভাগ কণ্ঠ প্রথমটির পক্ষে। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: যতক্ষণ না শিরক থাকে। একই কথা তিনি আনেন হাসান, কাতাদা ও সুদ্দী থেকে। ইবন কাসীর কথাটি আনেন দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে, আর তাঁর সঙ্গে নাম দেন আবুল আলিয়া, মুজাহিদ, হাসান, কাতাদা, রাবী' ইবন আনাস, সুদ্দী, মুকাতিল ইবন হাইয়ান ও যায়দ ইবন আসলামের। তাবারীর বর্ণনায় ইবন যায়দ বলেন কুফর, কুরতুবীও তা-ই বলেন। বাগাভী বলেন শিরক।"
+          },
+          {
+            "en": "At-Tabari's own paraphrase joins the gloss to its effect: fight them until there is no shirk and none is worshipped but Allah alone, without partner, so that the trial is lifted from Allah's servants on the earth, and that, he says, is the fitnah. One report he gives from al-Hasan has a different single word, bala', affliction, in place of shirk. Mujahid, in another of his reports, gives the names of two idols that used to be worshipped, Isaf and Na'ilah.",
+            "bn": "তাবারী নিজের ভাষায় অর্থটার সঙ্গে তার ফলও জুড়ে দেন। তাদের সঙ্গে লড়ো, যতক্ষণ না শিরক থাকে আর আল্লাহ ছাড়া, তাঁর কোনো শরিক ছাড়া, কারও ইবাদত না হয়। তাতে পৃথিবীতে আল্লাহর বান্দাদের উপর থেকে বিপদ উঠে যাবে। তিনি বলেন, এটাই সেই ফিতনা। হাসান থেকে তাঁর আনা একটি বর্ণনায় শিরকের জায়গায় অন্য একটি শব্দ আছে: বালা, অর্থাৎ বিপদ। তাবারীর আরেক বর্ণনায় মুজাহিদ দুটি মূর্তির নাম বলেন, যাদের পূজা হতো: ইসাফ ও নাইলা।"
+          },
+          {
+            "en": "The second clause follows the first. At-Tabari: until obedience and worship, all of it, belongs to Allah purely, and to no one else. Ibn 'Abbas, through ad-Dahhak in Ibn Kathir: that tawhid be made sincere for Allah. Al-Hasan, Qatadah and Ibn Jurayj: that it be said, la ilaha illa Allah, and Qatadah adds, in at-Tabari, that on this the Prophet ﷺ fought and to this he called. Ibn Ishaq: tawhid sincere for Allah with no shirk in it, and every rival besides Him cast off.",
+            "bn": "দ্বিতীয় অংশ আসে প্রথমটির পিছু পিছু। তাবারী বলেন: যতক্ষণ না আনুগত্য আর ইবাদত পুরোটাই খাঁটিভাবে আল্লাহর হয়, অন্য কারও নয়। ইবন কাসীরে দাহহাকের সূত্রে ইবন আব্বাস (রাঃ): তাওহীদ যেন আল্লাহর জন্য খাঁটি হয়। হাসান, কাতাদা ও ইবন জুরাইজ বলেন: যতক্ষণ না বলা হয় লা ইলাহা ইল্লাল্লাহ। তাবারীর বর্ণনায় কাতাদা যোগ করেন, এরই উপর নবী ﷺ লড়েছেন, এরই দিকে ডেকেছেন। ইবন ইসহাক বলেন: তাওহীদ হবে আল্লাহর জন্য খাঁটি, তাতে শিরকের লেশ থাকবে না, আর তিনি ছাড়া যত প্রতিদ্বন্দ্বী দাঁড় করানো হয়েছে সব ছুড়ে ফেলা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Believer Tried in His Faith",
+          "bn": "দ্বীনের কারণে নিপীড়িত মুমিন"
+        },
+        "p": [
+          {
+            "en": "The second reading takes fitnah as what was being done to the believers. Ibn Kathir reports that Muhammad ibn Ishaq was told, from az-Zuhri, from 'Urwah ibn az-Zubayr and other scholars: until no Muslim is tried away from his religion. At-Tabari has the same from Ibn Jurayj, and al-Baghawi gives it from ar-Rabi'. Ma'arif al-Qur'an sets the readings side by side, the first from Ibn 'Abbas, the second from Ibn 'Umar and others: the long chain of pain the disbelievers of Makkah inflicted on the Muslims.",
+            "bn": "দ্বিতীয় ব্যাখ্যায় ফিতনা হলো মুমিনদের উপর যা চালানো হচ্ছিল। ইবন কাসীর জানান, মুহাম্মাদ ইবন ইসহাকের কাছে যুহরী থেকে, উরওয়া ইবনুয যুবাইর ও অন্য আলিমদের সূত্রে কথাটি পৌঁছেছে: যতক্ষণ না কোনো মুসলিমকে তার দ্বীন থেকে ফেরানোর জন্য নিপীড়ন করা হয়। তাবারী একই কথা আনেন ইবন জুরাইজ থেকে, বাগাভী আনেন রাবী' থেকে। মাআরিফুল কুরআন দুই ব্যাখ্যা পাশাপাশি রাখে। প্রথমটি ইবন আব্বাস (রাঃ) থেকে, দ্বিতীয়টি ইবন উমার (রাঃ) ও অন্যদের থেকে: মক্কার কাফিররা মুসলিমদের উপর যে দীর্ঘ নির্যাতন চালিয়ে আসছিল।"
+          },
+          {
+            "en": "At-Tabari carries the fullest witness to this sense: a letter 'Urwah ibn az-Zubayr wrote to 'Abd al-Malik ibn Marwan about the Prophet's ﷺ departure from Makkah. 'Urwah counts two fitnahs. The first drove most of the Companions to Abyssinia, to a righteous king called an-Najashi in whose land no one was wronged. The second came after the men of Madinah pledged themselves at al-'Aqabah, when Quraysh pressed hard on the believers; the Prophet ﷺ then sent his Companions out to Madinah and left himself.",
+            "bn": "এ অর্থের সবচেয়ে বিস্তারিত সাক্ষ্য তাবারীর কাছে: উরওয়া ইবনুয যুবাইর আবদুল মালিক ইবন মারওয়ানকে একটি চিঠি লিখেছিলেন, মক্কা থেকে নবী ﷺ-এর বেরিয়ে আসার কাহিনি নিয়ে। উরওয়া দুটি ফিতনার কথা গোনেন। প্রথমটি বেশির ভাগ সাহাবিকে ঠেলে দেয় হাবশায়, নাজাশী নামে এক নেককার রাজার দেশে, যেখানে কারও উপর জুলুম হতো না। দ্বিতীয়টি আসে আকাবায় মদীনার লোকেরা বাইয়াত দেওয়ার পর। কুরাইশ তখন মুমিনদের উপর কঠোর চাপ চালায়। নবী ﷺ সাহাবিদের মদীনায় পাঠিয়ে দেন, পরে নিজেও বেরিয়ে যান।"
+          },
+          {
+            "en": "'Urwah closes: that is the fitnah about which Allah sent down, fight them until there is no fitnah and the religion, all of it, is for Allah. This is 'Urwah's own account, and it is best read as his, not as an established occasion of revelation. Some readers do not choose between the two senses at all. Al-Muyassar glosses fitnah as shirk and barring people from Allah's way, and reads if they cease as ceasing from persecuting the believers and from shirk. As-Sa'di also has shirk and barring from Allah's way.",
+            "bn": "উরওয়া শেষ করেন এ কথায়: এটাই সেই ফিতনা, যার ব্যাপারে আল্লাহ নাজিল করেছেন, তাদের সঙ্গে লড়ো যতক্ষণ না ফিতনা থাকে আর দ্বীন পুরোটাই আল্লাহর হয়। এটা উরওয়ার নিজের বিবরণ। একে তাঁর কথা হিসেবেই পড়া ভালো, প্রতিষ্ঠিত শানে নুযূল হিসেবে নয়। কেউ কেউ আবার দুই অর্থের মধ্যে বাছাই-ই করেন না। মুয়াসসার ফিতনার অর্থ করে শিরক আর আল্লাহর পথ থেকে মানুষকে আটকানো। 'তারা থেমে গেলে' কথাটিও সেখানে পড়া হয় মুমিনদের নিপীড়ন আর শিরক, দুটো থেকেই থামা হিসেবে। সা'দীর ব্যাখ্যাতেও আছে শিরক আর আল্লাহর পথে বাধা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Quoted at Ibn 'Umar",
+          "bn": "ইবন উমারকে শোনানো আয়াত"
+        },
+        "p": [
+          {
+            "en": "The plainest light on the verse comes from later years, when men quoted it to draw Companions into fighting among Muslims. Ibn Kathir brings under this verse a report in Sahih al-Bukhari (4650), from Nafi' from Ibn 'Umar. A man came to him and said: Abu 'Abd ar-Rahman, do you not hear what Allah mentions in His Book, if two parties of the believers fight (49:9)? What keeps you from fighting as Allah mentioned? Ibn 'Umar said he would rather be blamed through that verse for not fighting than be blamed through whoever kills a believer deliberately (4:93).",
+            "bn": "আয়াতটির উপর সবচেয়ে স্পষ্ট আলো পড়ে পরের বছরগুলোতে, যখন লোকেরা এটি শুনিয়ে সাহাবিদের মুসলিমদের পারস্পরিক লড়াইয়ে টেনে নামাতে চাইত। ইবন কাসীর এ আয়াতের আলোচনায় সহীহ বুখারীর একটি বর্ণনা আনেন (৪৬৫০), নাফি'র সূত্রে ইবন উমার (রাঃ) থেকে। এক লোক এসে বলল: হে আবু আবদির রহমান, আল্লাহ তাঁর কিতাবে যা বলেছেন তা কি শোনেননি, মুমিনদের দুই দল যদি লড়াইয়ে জড়ায় (৪৯:৯)? আল্লাহ যেমন বলেছেন, সেভাবে লড়তে আপনাকে কীসে আটকায়? ইবন উমার (রাঃ) বললেন, ওই আয়াতের কারণে না লড়ার দোষ মাথায় নেওয়া তাঁর কাছে বেশি পছন্দের, 'যে ইচ্ছাকৃতভাবে কোনো মুমিনকে হত্যা করে' (৪:৯৩) আয়াতের দোষ মাথায় নেওয়ার চেয়ে।"
+          },
+          {
+            "en": "The man pressed: Allah says, and fight them until there is no fitnah. Ibn 'Umar replied, in the collection's English: 'We did this during the lifetime of Allah's Messenger ﷺ when the number of Muslims was small, and a man was put to trial because of his religion, the pagans would either kill or chain him; but when the Muslims increased (and Islam spread), there was no persecution.' For him the fitnah of the verse was a believer killed or bound for his faith, and that fitnah had ended. A near-identical answer stands in Sahih al-Bukhari 4513, quoted with 2:190 to 2:193.",
+            "bn": "লোকটি তবু ছাড়ল না: আল্লাহ তো বলেন, ফিতনা না থাকা পর্যন্ত তাদের সঙ্গে লড়ো। ইবন উমার (রাঃ) জবাব দিলেন: 'রাসূলুল্লাহ ﷺ-এর জীবদ্দশায় আমরা তা করেছি, যখন মুসলিম ছিল অল্প। দ্বীনের কারণে মানুষকে পরীক্ষায় ফেলা হতো: মুশরিকরা হয় তাকে হত্যা করত, নয়তো বেঁধে রাখত। তারপর মুসলিমের সংখ্যা বাড়ল, ইসলাম ছড়িয়ে পড়ল, নিপীড়ন আর রইল না।' তাঁর কাছে আয়াতের ফিতনা মানে ঈমানের কারণে মুমিনকে হত্যা করা বা বেঁধে রাখা, আর সেই ফিতনা শেষ হয়ে গিয়েছিল। প্রায় একই জবাব আছে সহীহ বুখারী ৪৫১৩-এ, যা ২:১৯০ থেকে ২:১৯৩-এর প্রবন্ধে উদ্ধৃত।"
+          },
+          {
+            "en": "Al-Bukhari follows it with a second report (4651), from Sa'id ibn Jubayr. A man asked Ibn 'Umar what he thought of fighting in times of fitnah. In al-Bukhari's Arabic, Ibn 'Umar said: do you even know what the fitnah is? Muhammad ﷺ used to fight the polytheists, and entering among them was a fitnah; it was not like your fighting over kingship. Both reports sit in al-Bukhari's Sahih. Ibn 'Umar did not set the verse aside. He refused to let it be pointed at the wrong war.",
+            "bn": "এরপর বুখারী সাঈদ ইবন জুবাইর থেকে দ্বিতীয় একটি বর্ণনা আনেন (৪৬৫১)। এক লোক ইবন উমার (রাঃ)-কে জিজ্ঞেস করল, ফিতনার সময়ের লড়াই নিয়ে তাঁর মত কী। বুখারীর আরবি পাঠে ইবন উমার (রাঃ) বললেন: ফিতনা কী, তা কি তুমি জানো? মুহাম্মাদ ﷺ মুশরিকদের সঙ্গে লড়তেন, আর তাদের মাঝে গিয়ে পড়াটাই ছিল ফিতনা। তোমাদের মতো রাজত্বের জন্য লড়াই সেটা ছিল না। দুটি বর্ণনাই বুখারীর সহীহ গ্রন্থে আছে। ইবন উমার (রাঃ) আয়াতটিকে সরিয়ে রাখেননি। তিনি শুধু ভুল যুদ্ধের দিকে একে তাক করতে দেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Heart No Spear Opens",
+          "bn": "বর্শা যে হৃদয় খোলে না"
+        },
+        "p": [
+          {
+            "en": "A second Companion makes the same refusal in Sahih Muslim (96), in a story Ibn Kathir also brings here. Usamah ibn Zayd tells that the Prophet ﷺ sent them on a raid against al-Huraqat of Juhaynah. Usamah overtook a man who said la ilaha illa Allah, and struck him with his spear. It weighed on him, and he told the Prophet ﷺ, who said: 'Did he profess \"There is no god but Allah,\" and even then you killed him?' Usamah said the man had professed it out of fear of the weapon.",
+            "bn": "আরেকজন সাহাবির একই অস্বীকৃতি আছে সহীহ মুসলিমে (৯৬), আর ইবন কাসীরও এখানে ঘটনাটির উল্লেখ করেন। উসামা ইবন যায়দ (রাঃ) বলেন, নবী ﷺ তাঁদের জুহাইনা গোত্রের হুরাকাতে এক অভিযানে পাঠিয়েছিলেন। উসামা (রাঃ) এক লোককে ধরে ফেললেন। লোকটি বলল লা ইলাহা ইল্লাল্লাহ, তবু তিনি তাকে বর্শা দিয়ে আঘাত করলেন। পরে ব্যাপারটা তাঁর মনে খচখচ করতে লাগল। তিনি নবী ﷺ-কে জানালেন। নবী ﷺ বললেন: 'সে লা ইলাহা ইল্লাল্লাহ বলল, তবু তুমি তাকে মেরে ফেললে?' উসামা (রাঃ) বললেন, অস্ত্রের ভয়ে লোকটি কথাটা বলেছিল।"
+          },
+          {
+            "en": "The Prophet ﷺ said: 'Did you tear his heart in order to find out whether it had professed or not?' He kept repeating it, Usamah says, until he wished he had embraced Islam only that day. In the same report Sa'd swears he will never kill a Muslim until Usamah, the heavy-bellied one, does. A man said: did Allah not say, and fight them until there is no fitnah and the religion, all of it, is for Allah? Sa'd said: 'We fought so that there should be no mischief, but you and your companions wish to fight so that there should be mischief.' Muslim places it in his Sahih.",
+            "bn": "নবী ﷺ বললেন: 'তুমি কি তার হৃদয় চিরে দেখেছিলে, সে মন থেকে বলেছে কি না?' উসামা (রাঃ) বলেন, তিনি কথাটা বারবার বলতে থাকলেন, শেষে আমার মনে হলো, হায়, যদি সেদিনই ইসলাম গ্রহণ করতাম! একই বর্ণনায় সা'দ (রাঃ) কসম করে বলেন, উসামা যতক্ষণ কোনো মুসলিমকে হত্যা না করেন, তিনিও করবেন না। তখন এক লোক বলল: আল্লাহ কি বলেননি, ফিতনা না থাকা পর্যন্ত তাদের সঙ্গে লড়ো, আর দ্বীন পুরোটাই আল্লাহর হোক? সা'দ (রাঃ) বললেন: 'আমরা লড়েছিলাম যাতে ফিতনা না থাকে। আর তুমি ও তোমার সঙ্গীরা লড়তে চাও, যাতে ফিতনা হয়।' মুসলিম বর্ণনাটি তাঁর সহীহ গ্রন্থে রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ceasing From What, Exactly",
+          "bn": "থামা, কিন্তু কীসে থেকে"
+        },
+        "p": [
+          {
+            "en": "Fa-in intahaw: and if they cease. From what, the commentators ask, and here they differ. At-Tabari: from the fitnah, which is shirk, coming over to the true religion with you. Some, he reports, said it means ceasing from fighting, and he rejects that, reasoning that even if the polytheists stopped fighting, fighting them still remained an obligation on the believers until they became Muslim. Ma'arif al-Qur'an counts two ways of desisting: entering Islam, or keeping their own religion while they stop harming the Muslims and enter a treaty.",
+            "bn": "ফা ইনিনতাহাও: তারা যদি থেমে যায়। কীসে থেকে থামা? তাফসীরকারেরা প্রশ্নটা তোলেন, আর এখানে তাঁদের মত ভিন্ন। তাবারী বলেন: ফিতনা থেকে, যা শিরক, আর তোমাদের সঙ্গে সত্য দ্বীনে চলে আসা। তিনি জানান, কেউ কেউ বলেছেন এর মানে লড়াই থেকে থামা। তিনি তা মানেননি। তাঁর যুক্তি, মুশরিকরা লড়াই থামালেও তারা মুসলিম না হওয়া পর্যন্ত তাদের সঙ্গে লড়াই মুমিনদের উপর ফরজ ছিল। মাআরিফুল কুরআন থামার দুটি পথ গোনে: ইসলাম গ্রহণ, অথবা নিজেদের ধর্মে থেকেও মুসলিমদের কষ্ট দেওয়া বন্ধ করে চুক্তিতে আসা।"
+          },
+          {
+            "en": "On what follows from ceasing, the readings sit closer. Ibn Kathir: if they cease from disbelief through your fighting, hold back from them even though you do not know their inner selves, for Allah sees what they do; he sets beside it 9:5 and 9:11, and then tells Usamah's story. Ma'arif al-Qur'an draws the same line: believers deal with what they see, and hearts belong to Allah. As-Sa'di: nothing of theirs is hidden from Him. Al-Baghawi notes that Ya'qub read ta'maluna, what you do; and at-Tabari, on the common reading, still says Allah sees you and your deeds.",
+            "bn": "থামার পর কী হবে, সে প্রশ্নে ব্যাখ্যাগুলো অনেক কাছাকাছি। ইবন কাসীর বলেন: তোমাদের লড়াইয়ের ফলে তারা কুফর থেকে থেমে গেলে তাদের থেকে হাত গুটিয়ে নাও, তাদের ভেতরের খবর না জানলেও। কারণ তারা যা করে আল্লাহ তা দেখেন। পাশে তিনি রাখেন ৯:৫ ও ৯:১১, তারপর শোনান উসামা (রাঃ)-এর ঘটনা। মাআরিফুল কুরআনও একই রেখা টানে: মুমিনরা চলবে বাইরে যা দেখে তার উপর, হৃদয়ের ভার আল্লাহর। সা'দী বলেন: তাদের কোনো কিছুই তাঁর কাছে গোপন থাকে না। বাগাভী জানান, ইয়াকূব পড়েছেন 'তা'মালূন', অর্থাৎ তোমরা যা করো। আর তাবারী প্রচলিত পাঠেও বলেন, আল্লাহ তোমাদের আর তোমাদের আমল দেখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One War, Not a Warrant",
+          "bn": "এক যুদ্ধের কথা, ছাড়পত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. The verse addresses the believers of the Prophet's ﷺ own time about one enemy: in at-Tabari's reading, the Makkan polytheists who had fought them at Badr and might return to fight again; in 'Urwah's account, the people who had driven believers to Abyssinia and then to Madinah. It describes that war. It licenses no violence by anyone today, against any person or community, and this article gives no present-day ruling of any kind.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি নবী ﷺ-এর নিজের যুগের মুমিনদের সম্বোধন করছে, একটি নির্দিষ্ট শত্রুর ব্যাপারে। তাবারীর পাঠে তারা মক্কার সেই মুশরিকরা, যারা বদরে তাঁদের সঙ্গে লড়েছিল আর আবার লড়তে ফিরে আসতে পারত। উরওয়ার বিবরণে তারা সেই লোকেরা, যারা মুমিনদের প্রথমে হাবশায়, পরে মদীনায় ঠেলে পাঠিয়েছিল। আয়াত সেই যুদ্ধের বর্ণনা দেয়। আজ কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কারও কোনো সহিংসতার অনুমতি এ আয়াত দেয় না। আর এ প্রবন্ধ আজকের জন্য কোনো ধরনের বিধান দিচ্ছে না।"
+          },
+          {
+            "en": "The first people to misuse it were men who quoted it at Companions, and the Companions refused. Ibn 'Umar told his questioner that the fitnah of the verse had already ended; Sa'd answered that his questioners wanted to fight so that fitnah would come. Ibn 'Umar weighed the verse against 4:93 and chose blame over blood. Whoever reaches for this verse to justify harm stands with the questioners, not with the Companions who answered them.",
+            "bn": "এ আয়াতের অপব্যবহার প্রথম করেছিল সেই লোকেরা, যারা সাহাবিদের সামনে এটি আওড়াত, আর সাহাবিরা তা মানেননি। ইবন উমার (রাঃ) প্রশ্নকারীকে বলেছিলেন, আয়াতের ফিতনা আগেই শেষ হয়ে গেছে। সা'দ (রাঃ) জবাব দিয়েছিলেন, প্রশ্নকারীরা লড়তে চায় যাতে ফিতনা আসে। ইবন উমার (রাঃ) আয়াতটিকে ৪:৯৩-এর পাশে ওজন করে রক্তের বদলে দোষারোপকেই বেছে নিয়েছিলেন। কেউ যদি কারও ক্ষতির পক্ষে যুক্তি হিসেবে এ আয়াত টেনে আনে, সে দাঁড়াল প্রশ্নকারীদের পাশে, জবাব দেওয়া সাহাবিদের পাশে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "All of It, Not a Share",
+          "bn": "পুরোটাই, ভাগ নয়"
+        },
+        "p": [
+          {
+            "en": "What remains for an ordinary believer is the word kulluhu, all of it. At-Tabari explains the religion as obedience and worship, for Allah purely and for no one else, and Ibn Ishaq speaks of casting off every rival besides Him. A rival need not be carved from stone. Fear of people, love of standing, or one habit kept against His command can each claim a corner of obedience. The verse asks that no corner be held back.",
+            "bn": "সাধারণ একজন মুমিনের জন্য যা থেকে যায়, তা 'কুল্লুহূ' শব্দটি: পুরোটাই। তাবারী দ্বীনের ব্যাখ্যা করেন আনুগত্য আর ইবাদত দিয়ে, যা খাঁটিভাবে শুধু আল্লাহর, আর কারও নয়। ইবন ইসহাক বলেন তিনি ছাড়া সব প্রতিদ্বন্দ্বী ছুড়ে ফেলার কথা। প্রতিদ্বন্দ্বী পাথরে খোদাই করা মূর্তিই হতে হবে, এমন নয়। মানুষের ভয়, পদমর্যাদার মোহ, কিংবা তাঁর হুকুমের বিপরীতে আঁকড়ে রাখা একটি অভ্যাস, এর প্রতিটিই আনুগত্যের একেকটা কোণ দখল করে নিতে পারে। আয়াত চায়, কোনো কোণই যেন সরিয়ে রাখা না হয়।"
+          },
+          {
+            "en": "The last clause teaches the other half. Ibn Kathir also cites here the hadith of Abu Musa, which al-Bukhari gives (2810): asked about men who fight for booty, for fame or to be seen, the Prophet ﷺ said, 'He who fights that Allah's Word should be superior, fights in Allah's Cause.' In quarrels at home or at work the questions carry over: am I contending for the truth or for my standing, and when the other side stops, do I stop too, leaving hearts to Him who sees them?",
+            "bn": "শেষ অংশ শেখায় বাকি অর্ধেক। ইবন কাসীর এখানে আবু মূসা (রাঃ)-এর হাদীসও আনেন, যা বুখারী বর্ণনা করেছেন (২৮১০)। কেউ গনিমতের জন্য লড়ে, কেউ নামের জন্য, কেউ লোককে দেখানোর জন্য, এদের কে আল্লাহর পথে? প্রশ্নের জবাবে নবী ﷺ বলেন: 'যে লড়ে আল্লাহর কালিমা সমুন্নত রাখার জন্য, সে-ই আল্লাহর পথে।' ঘরে বা কর্মস্থলের বিবাদেও প্রশ্নগুলো থেকে যায়। আমি কি সত্যের জন্য লড়ছি, নাকি নিজের অবস্থানের জন্য? আর অন্য পক্ষ থেমে গেলে আমিও কি থামি, হৃদয়ের ভার তাঁর হাতে ছেড়ে, যিনি সব দেখেন?"
+          }
+        ]
+      }
+    ]
+  },
   "8:41": {
     "sections": [
       {

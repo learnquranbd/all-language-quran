@@ -31963,6 +31963,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When something is too heavy for you, cry to your Lord for help as one who truly needs Him, and count His answer, in whatever form it comes, as His help.",
     "lessonBn": "কোনো কিছু যখন আপনার পক্ষে খুব ভারী হয়ে যায়, তখন সত্যিকারের অভাবী মানুষের মতো আপনার রবের কাছে ফরিয়াদ করুন। আর তাঁর জবাব যে রূপেই আসুক, তাকে তাঁরই সাহায্য বলে গণ্য করুন।"
+  },
+  "8:39": {
+    "reflectionEn": "This command comes straight after an offer. The verse before it tells those who fought the believers that if they stop, their past will be forgiven. Only then: fight them until there is no fitnah and the religion, all of it, is Allah's; and if they stop, Allah sees what they do. The verse speaks of one war, with people who had tortured believers for their faith and driven them from their homes, and it licenses nothing against anyone today. What it leaves me is a question about the word all. Is my obedience wholly His, or have I kept back corners for other masters? And when someone stops, do I stop too, leaving his heart to the One who sees it?",
+    "reflectionBn": "আদেশটা আসে একটা প্রস্তাবের ঠিক পরে। আগের আয়াত বলে, যারা মুমিনদের সঙ্গে লড়েছে তারা থেমে গেলে তাদের অতীত মাফ হয়ে যাবে। তারপরই এ আয়াত: তাদের সঙ্গে লড়ো, যতক্ষণ না ফিতনা থাকে আর দ্বীন পুরোটাই আল্লাহর হয়; তারা থেমে গেলে তারা যা করে আল্লাহ তা দেখেন। কথাটা একটি নির্দিষ্ট যুদ্ধের, এমন লোকদের সঙ্গে যারা ঈমানের কারণে মুমিনদের নির্যাতন করেছিল, ঘরছাড়া করেছিল। আজ কারও বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আমার জন্য যে প্রশ্নটা থেকে যায়, তা 'পুরোটা' শব্দটাকে ঘিরে। আমার আনুগত্য কি পুরোটাই তাঁর, নাকি কিছু কোণ অন্য মনিবদের জন্য সরিয়ে রেখেছি? আর কেউ থেমে গেলে আমিও কি থামি, তার মনের খবর তাঁর হাতে ছেড়ে দিয়ে, যিনি সব দেখেন?",
+    "pointsEn": [
+      "Which part of my life have I kept back from Allah, as if the word all in this verse did not reach it?",
+      "When someone who wronged me stops, do I stop too, or do I keep the quarrel alive?",
+      "Have I ever judged what was in another person's heart, when only his outward conduct was mine to see?",
+      "Have I ever borrowed a verse to win an argument it was never about?",
+      "When I fight for something, is it for the truth, or for my standing among people?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন অংশটা আমি আল্লাহর কাছ থেকে আড়াল করে রেখেছি, যেন এ আয়াতের 'পুরোটা' শব্দ সেখানে পৌঁছায় না?",
+      "যে আমার উপর অন্যায় করেছিল, সে থেমে গেলে আমিও কি থামি, নাকি ঝগড়াটা জিইয়ে রাখি?",
+      "অন্যের মনে কী আছে, তা নিয়ে কি কখনো রায় দিয়েছি, অথচ আমার দেখার মতো ছিল শুধু তার বাইরের আচরণ?",
+      "যে তর্কের সঙ্গে কোনো আয়াতের সম্পর্কই নেই, সেই তর্ক জিততে কি কখনো আয়াতটা ধার করেছি?",
+      "কোনো কিছুর জন্য যখন লড়ি, সেটা কি সত্যের জন্য, নাকি মানুষের মাঝে নিজের অবস্থানের জন্য?"
+    ],
+    "lessonEn": "Give Allah the whole of your obedience, not a share of it; and when others stop, stop with them, leaving their hearts to the One who sees.",
+    "lessonBn": "আল্লাহকে আনুগত্যের একটা ভাগ নয়, পুরোটাই দিন। আর অন্যরা থেমে গেলে আপনিও থামুন, তাদের মনের খবর ছেড়ে দিন তাঁর হাতে, যিনি সব দেখেন।"
   }
 };
 
