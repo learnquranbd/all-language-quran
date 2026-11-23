@@ -1423,6 +1423,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Arguing Stopped",
+          "bn": "তর্ক থামার পরে"
+        },
+        "p": [
+          {
+            "en": "The debate has run its course. In 11:32 Nuh's people told him he had argued with them, and argued too much, and dared him to bring what he threatened. In 11:33 and 11:34 he answered that only Allah brings it, if He wills. Verse 11:35 then breaks in with the charge that the message was invented, and its answer. When the story resumes, nobody in it speaks. A sentence arrives from above, in the passive voice, and closes the matter.",
+            "bn": "এ অংশের তর্ক শেষ সীমায় পৌঁছে গেছে। ১১:৩২ আয়াতে নূহ (আঃ)-এর জাতি তাঁকে বলেছিল, তুমি আমাদের সঙ্গে ঝগড়া করেছ, বড্ড বেশি ঝগড়া করেছ। এবার যার ভয় দেখাও তা এনে দেখাও। ১১:৩৩ ও ১১:৩৪ আয়াতে তিনি জবাব দেন, আল্লাহ চাইলে তিনিই তা আনবেন। ১১:৩৫ আয়াত তখন মাঝখানে তোলে বার্তাটি বানিয়ে বলার অভিযোগ, সঙ্গে তার জবাব। কাহিনিতে ফিরে এলে দেখা যায়, কেউ আর মুখ খুলছে না। উপর থেকে একটি বাক্য নেমে আসে, কর্তার নাম না নিয়ে, আর বিষয়টার ইতি টেনে দেয়।"
+          },
+          {
+            "en": "The verse makes two moves. First a report about the future: none of your people will believe except those who already have. Then a command about the present: do not be distressed by what they have been doing. Then 11:37 brings the order to build, and 11:40 the boarding. This verse is the hinge between calling and building, the moment a prophet learns that the calling has done all it was going to do, and is told how to carry that knowledge.",
+            "bn": "আয়াতটি দুটি কাজ করে। প্রথমে ভবিষ্যতের খবর: তোমার জাতির যারা ঈমান এনেছে, তারা ছাড়া আর কেউ ঈমান আনবে না। তারপর বর্তমানের জন্য নির্দেশ: তারা যা করে চলেছে, তা নিয়ে দুঃখ করো না। এর পরে ১১:৩৭ আয়াতে আসে নৌকা বানানোর আদেশ, আর ১১:৪০ আয়াতে নৌকায় ওঠা। দাওয়াত আর নির্মাণের মাঝখানের জোড়াটা এই আয়াত। এখানেই একজন নবী জানতে পারেন, তাঁর ডাক যতটুকু ফল দেওয়ার তা দিয়ে ফেলেছে। আর সেই জানা কীভাবে বইতে হবে, তাও তাঁকে বলে দেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Passive Verb, a Closed Door",
+          "bn": "কর্তাহীন ক্রিয়া, বন্ধ দরজা"
+        },
+        "p": [
+          {
+            "en": "Wa-uhiya ila Nuhin: and it was revealed to Nuh. The verb is passive, and al-Qurtubi pauses on what stands as its subject. The clause annahu lan yu'mina, that none will believe, takes the nominative place, he says, as the subject of a verb whose doer is not named. He allows a second parsing, in which the clause is in the accusative with a preposition understood: it was revealed to him with the news that. Either way, the revelation's whole content is one fact about the future.",
+            "bn": "ওয়া উহিয়া ইলা নূহ: আর নূহের কাছে ওহী পাঠানো হল। ক্রিয়াটি কর্মবাচ্যে, কর্তার নাম নেই। কুরতুবী থামেন এ প্রশ্নে যে এখানে কর্তার জায়গায় কী বসে আছে। তাঁর মতে আন্নাহু লান ইউমিনা, অর্থাৎ কেউ ঈমান আনবে না, এই বাক্যাংশটিই কর্তার জায়গা নিয়েছে, তাই তা পেশযুক্ত অবস্থানে। তিনি দ্বিতীয় একটি বিশ্লেষণও মেনে নেন। সেখানে বাক্যাংশটি যবরযুক্ত অবস্থানে, আগে একটি অব্যয় উহ্য: তাঁর কাছে এই খবরসহ ওহী এল যে। যেভাবেই পড়া হোক, ওহীর পুরো বিষয়বস্তু ভবিষ্যৎ নিয়ে একটিমাত্র খবর।"
+          },
+          {
+            "en": "Lan yu'mina min qawmika: none of your people will believe. Illa man qad amana: except whoever has already believed. The past verb with qad marks that believing as done, and al-Muyassar spells it out: except whoever had believed before. The exception adds nobody new. It names the ones already standing with Nuh (AS) and shuts the door behind them. Then comes fa-la tabta'is, opened by a fa that draws the consequence: since this is so, do not be distressed.",
+            "bn": "লান ইউমিনা মিন কাওমিকা: তোমার জাতির কেউ ঈমান আনবে না। ইল্লা মান কাদ আমানা: তবে যে আগেই ঈমান এনেছে। অতীতকালের ক্রিয়ার আগে কাদ বসায় ঈমান আনাটা সম্পন্ন কাজ হিসেবে চিহ্নিত হয়। মুয়াসসার কথাটা খুলে বলে: যে আগে থেকেই ঈমান এনেছিল, সে ছাড়া। এই ব্যতিক্রম নতুন কাউকে যোগ করে না। যারা ইতিমধ্যে নূহ (আঃ)-এর পাশে দাঁড়িয়েছে, শুধু তাদের কথা বলে, তারপর দরজা বন্ধ করে দেয়। এরপর ফালা তাবতাইস। শুরুর ফা পরিণতি টানে: ব্যাপার যখন এই, তখন দুঃখে ভেঙে পড়ো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Hope Was Withdrawn",
+          "bn": "যখন আশা তুলে নেওয়া হল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi names the meaning in a phrase: al-iyas min imanihim, despair of their believing, and the persistence of their disbelief, so that the threat against them would be confirmed. At-Tabari places the moment: Allah revealed this when the word had become due upon his people and His command had cast its shadow over them. Al-Muyassar says nearly the same, when the punishment had become due upon them. What is withdrawn is not a prophet's hope in Allah. It is his hope for these particular hearers.",
+            "bn": "কুরতুবী অর্থটা এক কথায় বলে দেন: আল ইয়াস মিন ঈমানিহিম, তাদের ঈমান আনার ব্যাপারে নিরাশা। সঙ্গে তাদের কুফর স্থায়ী থাকার খবর, যাতে তাদের উপর সতর্কবাণী সত্য হয়ে নেমে আসে। তাবারী সময়টা চিহ্নিত করেন। আল্লাহ এ ওহী পাঠান তখন, যখন তাঁর জাতির উপর ফয়সালার কথা অবধারিত হয়ে গেছে আর আল্লাহর আদেশ তাদের মাথার উপর ছায়া ফেলেছে। মুয়াসসারের কথাও প্রায় একই: যখন তাদের উপর আযাব অবধারিত হয়ে গেল। এখানে যে আশা তুলে নেওয়া হচ্ছে, তা আল্লাহর প্রতি নবীর আশা নয়। তা এই নির্দিষ্ট শ্রোতাদের নিয়ে তাঁর আশা।"
+          },
+          {
+            "en": "As-Sa'di gives the reason in two words, qad qasaw: they had grown hard. Ma'arif al-Qur'an expands it: their hearts were sealed by their own obstinacy. It then makes a gentler observation about the command that follows. One feels the pinch of sorrow, it says, only while one still expects something good from someone; disappointment has its own relief. So the news is a release as much as a verdict. Nuh (AS) is no longer asked to wait for an answer that will not come.",
+            "bn": "সাদী কারণটা দুই শব্দে বলেন, কাদ কাসাও: তারা কঠিন হয়ে গেছে। মাআরিফুল কুরআন একটু বিস্তার করে বলে, নিজেদের জেদ আর হঠকারিতায় তাদের অন্তরে মোহর পড়ে গিয়েছিল। এরপর পরের নির্দেশ নিয়ে কোমল একটি পর্যবেক্ষণ দেয়। দুঃখের খোঁচা লাগে ততক্ষণই, যতক্ষণ কারও কাছ থেকে ভালো কিছু আশা করা হয়। নিরাশারও নিজস্ব একটা স্বস্তি আছে। এভাবে পড়লে খবরটা যতটা রায়, ততটাই মুক্তি। যে জবাব আর আসবে না, তার জন্য নূহ (আঃ)-কে আর অপেক্ষায় থাকতে হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibti'as, Grief That Bows",
+          "bn": "ইবতিআস: যে দুঃখ নুইয়ে দেয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses fa-la tabta'is as do not be abased and do not grieve: la tastakin wa la tahzan. He traces the verb to al-bu's, distress, and gives the usage, ibta'asa fulan bil-amr, someone was distressed by a matter. For a witness from the language he quotes a line of Labid ibn Rabi'ah on women in mourning, likened to wild does: yabta'isna bima laqina, distressed at what we met. In his chains Mujahid and Ibn Abbas (RA) say do not grieve; Qatadah says do not sorrow and do not grieve.",
+            "bn": "তাবারী ফালা তাবতাইসের ব্যাখ্যা দেন দুই নিষেধে: লা তাসতাকিন ওয়ালা তাহযান, হীন হয়ে নুয়ে পড়ো না, দুঃখ করো না। ক্রিয়াটিকে তিনি নিয়ে যান আল বুস শব্দে, যার মানে কষ্ট ও দুর্দশা। ব্যবহারও দেখান: ইবতাআসা ফুলানুন বিল আমর, অমুক বিষয়টায় কষ্ট পেল। ভাষার সাক্ষী হিসেবে তিনি লাবীদ ইবন রাবীআর একটি পঙক্তি আনেন। সেখানে শোকসভার নারীদের তুলনা বুনো হরিণীর সঙ্গে: ইয়াবতাইসনা বিমা লাকীনা, আমাদের যা ঘটেছে তাতে তারা কাতর। তাঁর সনদে মুজাহিদ ও ইবন আব্বাস (রাঃ) বলেন, দুঃখ করো না। কাতাদা বলেন, আফসোস করো না, দুঃখ করো না।"
+          },
+          {
+            "en": "Al-Qurtubi sharpens the definition. Ibta'asa is said of a man when something he dislikes reaches him, and al-ibti'as, he writes, is huzn fi istikanah, grief with a lowering of oneself. He quotes a poet who lost friend and kin and did not give way to distress, though the loss was heavy. So the command does not ask Nuh (AS) to stop feeling. It forbids the grief that bows a person down and holds him there. The word itself draws the line between sorrow and collapse.",
+            "bn": "কুরতুবী সংজ্ঞাটা আরও ধারালো করেন। কারও কাছে অপছন্দের কিছু পৌঁছালে বলা হয় ইবতাআসা। আর আল ইবতিআস, তিনি লেখেন, হুযন ফী ইসতিকানা: এমন দুঃখ, যাতে মানুষ নিজেকে নিচু করে ফেলে। তিনি এক কবির পঙক্তি আনেন, যিনি বন্ধু ও আপনজন হারিয়েও কাতর হয়ে ভেঙে পড়েননি, যদিও ক্ষতিটা ছিল ভারী। তাই নির্দেশটা নূহ (আঃ)-কে অনুভূতি বন্ধ করতে বলছে না। যে দুঃখ মানুষকে নুইয়ে দেয় আর সেখানেই আটকে রাখে, নিষেধ সেটার। শব্দটা নিজেই শোক আর ভেঙে পড়ার মাঝে রেখা টেনে দেয়।"
+          },
+          {
+            "en": "On the object of the grief the commentators lean different ways. At-Tabari, al-Baghawi and al-Muyassar keep to the verse's wording, what they were doing, and the first two add the reason in Allah's voice: for I am destroying them and rescuing you from them, and those who followed you. Al-Qurtubi turns it to their end: do not be pained by their destruction. As-Sa'di adds, pay them and their deeds no mind, for Allah has come to detest them. Ibn Kathir: do not grieve over them, and let their affair not trouble you.",
+            "bn": "দুঃখটা কী নিয়ে, সে প্রশ্নে তাফসীরকারেরা ভিন্ন দিকে ঝোঁকেন। তাবারী, বাগাভী ও মুয়াসসার আয়াতের শব্দেই থাকেন: তারা যা করত। প্রথম দুজন আল্লাহর জবানিতে কারণটাও জুড়ে দেন: কারণ আমি তাদের ধ্বংস করব, আর তোমাকে ও তোমার অনুসারীদের তাদের হাত থেকে উদ্ধার করব। কুরতুবী কথাটা ঘুরিয়ে নেন তাদের পরিণতির দিকে: তাদের ধ্বংস নিয়ে মনঃকষ্ট পেয়ো না। সাদী যোগ করেন, তাদের আর তাদের কাজের পরোয়া করো না, কারণ আল্লাহ তাদের ঘৃণা করেছেন। ইবন কাসীর বলেন, তাদের জন্য দুঃখ করো না, তাদের ব্যাপার যেন তোমাকে ভাবিয়ে না তোলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Prayer Before or After",
+          "bn": "দোয়া আগে, না পরে"
+        },
+        "p": [
+          {
+            "en": "Most of the commentaries consulted here link this verse to the prayer of Nuh (AS) in 71:26, my Lord, do not leave upon the earth a single dweller from the disbelievers. They do not agree on the order. Ibn Kathir says his people had hastened Allah's vengeance upon themselves, so Nuh (AS) prayed against them, citing 71:26 and also 54:10, I am overcome, so help. At that point, he writes, Allah revealed to him this verse. At-Tabari says the same: Allah revealed it after Nuh had prayed for their destruction.",
+            "bn": "এখানে দেখা তাফসীরগুলোর বেশিরভাগই এ আয়াতকে ৭১:২৬ আয়াতে নূহ (আঃ)-এর দোয়ার সঙ্গে যুক্ত করে: হে আমার রব, পৃথিবীতে কাফিরদের একজন বাসিন্দাকেও রেখো না। কিন্তু কোনটা আগে, সে ব্যাপারে তারা একমত নন। ইবন কাসীর বলেন, তাঁর জাতি নিজেরাই আল্লাহর শাস্তি তাড়াতাড়ি চেয়ে বসেছিল। তখন নূহ (আঃ) তাদের বিরুদ্ধে দোয়া করেন। তিনি ৭১:২৬ আয়াতের সঙ্গে ৫৪:১০ আয়াতও আনেন: আমি পরাজিত, তুমি সাহায্য করো। আর ঠিক তখনই, তিনি লেখেন, আল্লাহ তাঁর কাছে এ আয়াত পাঠান। তাবারীও একই কথা বলেন: নূহ (আঃ) তাদের ধ্বংসের দোয়া করার পরে আল্লাহ এ ওহী পাঠান।"
+          },
+          {
+            "en": "At-Tabari's report from Qatadah agrees: that was when he prayed against them. But in the same list at-Tabari quotes ad-Dahhak the other way round: at that point he prayed against his people, once Allah had made clear to him that none would believe except those who had. Al-Qurtubi relays ad-Dahhak's version, and al-Baghawi tells it in that order: the revelation, then the prayer. Ma'arif al-Qur'an follows the same sequence, saying that under these conditions came the prayer of Surah Nuh.",
+            "bn": "তাবারীর আনা কাতাদার বক্তব্যও একই রকম: এটা তখনকার কথা, যখন তিনি তাদের বিরুদ্ধে দোয়া করেছিলেন। কিন্তু একই তালিকায় তাবারী দাহহাকের কথা আনেন উল্টো ক্রমে। দাহহাক বলেন, আল্লাহ যখন তাঁকে স্পষ্ট জানিয়ে দিলেন যে যারা ঈমান এনেছে তারা ছাড়া আর কেউ ঈমান আনবে না, তখনই তিনি জাতির বিরুদ্ধে দোয়া করলেন। কুরতুবী দাহহাকের এই বর্ণনাই উদ্ধৃত করেন। বাগাভীও এই ক্রমে বলেন: আগে ওহী, তারপর দোয়া। মাআরিফুল কুরআনও একই ধারা মেনে বলে, এমন অবস্থাতেই সূরা নূহের দোয়াটি তাঁর মুখে এসেছিল।"
+          },
+          {
+            "en": "So the order stays open: Ibn Kathir, at-Tabari and Qatadah on one side, ad-Dahhak, al-Baghawi and Ma'arif al-Qur'an on the other, and this article does not choose between them. What both orders share matters more. In one, the verse answers a prophet's plea; in the other, his prayer follows what his Lord had told him. None of the commentaries consulted here treats that prayer as a fault, and nothing in the verse suggests one.",
+            "bn": "তাই ক্রমের প্রশ্নটা খোলাই থাকে। একদিকে ইবন কাসীর, তাবারী ও কাতাদা, অন্যদিকে দাহহাক, বাগাভী ও মাআরিফুল কুরআন। এ প্রবন্ধ কোনো পক্ষ বেছে নেয় না। দুই ক্রমে যেটা মিলে যায়, সেটাই বেশি জরুরি। এক বর্ণনায় আয়াতটি একজন নবীর আকুতির জবাব। অন্য বর্ণনায় তাঁর দোয়া এসেছে রবের জানিয়ে দেওয়া খবরের পরে। এখানে দেখা কোনো তাফসীরই ওই দোয়াকে দোষ হিসেবে দেখে না, আর আয়াতেও এমন কোনো ইঙ্গিত নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Beaten, Then Calling Again",
+          "bn": "মার খেয়ে আবার দাওয়াত"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi relays from ad-Dahhak, from Ibn Abbas (RA), that Nuh's people would beat him until he fell, wrap him in felt and leave him in a corner of a house, thinking him dead; the next day he would come out and call them to Allah again. He adds, under it is narrated, an old man whose son took his father's staff and wounded Nuh (AS) badly. Al-Qurtubi has, under it was said, a boy on his father's shoulders who threw a stone and drew blood.",
+            "bn": "বাগাভী দাহহাকের মাধ্যমে ইবন আব্বাস (রাঃ) থেকে বর্ণনা আনেন: নূহ (আঃ)-এর জাতি তাঁকে এমন মারত যে তিনি পড়ে যেতেন। তারপর তাঁকে কম্বলে মুড়ে ঘরের এক কোণে ফেলে রাখত, ভাবত তিনি মারা গেছেন। পরদিন তিনি বেরিয়ে এসে আবার তাদের আল্লাহর দিকে ডাকতেন। 'বর্ণিত আছে' বলে তিনি আরও আনেন এক বৃদ্ধ আর তার ছেলের কথা। ছেলেটি বাবার লাঠি নিয়ে নূহ (আঃ)-কে মেরে গুরুতর জখম করে। কুরতুবী 'বলা হয়' কথাটি দিয়ে আনেন বাবার কাঁধে চড়া এক শিশুর কথা, যে পাথর ছুড়ে তাঁকে রক্তাক্ত করেছিল।"
+          },
+          {
+            "en": "In both books the revelation of this verse follows the wound. Al-Baghawi also relays from Muhammad ibn Ishaq a report that reached Ubayd ibn Umayr: they would seize and choke Nuh (AS) until he fainted, and on waking he would ask forgiveness for his people, saying they did not know. Generation followed generation, each worse than the last. None of these reports carries a chain that can be checked here, so they are carried as reports, with their tellers named, and not as established fact.",
+            "bn": "দুই কিতাবেই এ আয়াত নাযিল হয় জখমের পরে। বাগাভী মুহাম্মদ ইবন ইসহাকের সূত্রে আরেকটি বর্ণনা আনেন, যা উবায়দ ইবন উমায়রের কাছে পৌঁছেছিল। লোকেরা নূহ (আঃ)-কে ধরে গলা চেপে ধরত, তিনি অজ্ঞান হয়ে পড়তেন। জ্ঞান ফিরলে তিনি জাতির জন্য মাগফিরাত চাইতেন, বলতেন তারা জানে না। এক প্রজন্মের পর আরেক প্রজন্ম এল, প্রত্যেকটা আগেরটার চেয়ে খারাপ। এসব বর্ণনার কোনোটির সনদ এখানে যাচাই করার উপায় নেই। তাই এগুলো বর্ণনাকারীর নামসহ বর্ণনা হিসেবেই রাখা হল, প্রতিষ্ঠিত সত্য হিসেবে নয়।"
+          },
+          {
+            "en": "What the Qur'an itself gives is firmer. In 71:5 and 71:6 Nuh (AS) says he called his people night and day, and his call increased them only in flight. In 29:14 his stay among them is given as 950 years. Ma'arif al-Qur'an, drawing on al-Baghawi and al-Mazhari, describes the beatings and his prayers for his people's forgiveness across those generations. Whichever report is read, this verse comes at the far end of that patience.",
+            "bn": "কুরআন নিজে যা দেয়, তা আরও মজবুত। ৭১:৫ ও ৭১:৬ আয়াতে নূহ (আঃ) বলেন, তিনি জাতিকে রাতদিন ডেকেছেন, কিন্তু তাঁর ডাক তাদের পালানোই শুধু বাড়িয়েছে। ২৯:১৪ আয়াতে তাদের মাঝে তাঁর অবস্থানের মেয়াদ বলা হয়েছে ৯৫০ বছর। মাআরিফুল কুরআন বাগাভী ও মাযহারীর উপর ভর করে সেই মারধর আর প্রজন্মের পর প্রজন্ম ধরে জাতির জন্য তাঁর মাগফিরাতের দোয়ার কথা বলে। যে বর্ণনাই পড়া হোক, এ আয়াত আসে সেই দীর্ঘ সবরের একেবারে শেষ প্রান্তে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Narration That Names No One",
+          "bn": "যে হাদীসে কারও নাম নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted on this verse attaches a saying of the Prophet ﷺ to it. They bring glosses and reports of Nuh's suffering, and a gloss is not a hadith. One sound narration is offered here as a general principle, not as a comment on this verse. Sahih al-Bukhari 3477 reports from Abdullah (RA): as if I am looking at the Prophet ﷺ telling of one of the prophets whose people beat him and made him bleed, while he wiped the blood from his face and said: O Allah, forgive my people, for they do not know.",
+            "bn": "এখানে দেখা কোনো তাফসীরই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো বাণী যুক্ত করে না। তারা আনে বিভিন্ন জনের ব্যাখ্যা আর নূহ (আঃ)-এর কষ্টের বর্ণনা। কিন্তু ব্যাখ্যা তো হাদীস নয়। তাই একটি সহীহ বর্ণনা এখানে আনা হল সাধারণ মূলনীতি হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়। সহীহ বুখারী ৩৪৭৭-এ আবদুল্লাহ (রাঃ) বলেন: আমি যেন এখনো নবী ﷺ-কে দেখছি, তিনি নবীদের একজনের কথা বলছেন, যাঁকে তাঁর জাতি মেরে রক্তাক্ত করেছিল। তিনি মুখ থেকে রক্ত মুছছিলেন আর বলছিলেন: হে আল্লাহ, আমার জাতিকে ক্ষমা করো, কারণ তারা জানে না।"
+          },
+          {
+            "en": "Al-Bukhari placed it in his Sahih and gave no separate grading. The narration does not name the prophet, and the resemblance to the report of Ibn Ishaq above does not settle who he was, so nothing here identifies him with Nuh (AS). What it shows is a prophet's mercy while he is still bleeding. Set beside this verse, it is a reminder that bearing injury and praying for one's people is the prophetic way, and that the verdict on Nuh's people came from his Lord's word alone.",
+            "bn": "বুখারী হাদীসটি তাঁর সহীহ গ্রন্থে রেখেছেন, আলাদা কোনো মান উল্লেখ করেননি। হাদীসে নবীর নাম নেই। উপরে ইবন ইসহাকের বর্ণনার সঙ্গে মিল থাকলেও তাতে প্রমাণ হয় না তিনি কে ছিলেন। তাই এখানে তাঁকে নূহ (আঃ) বলে চিহ্নিত করা হচ্ছে না। হাদীসটি দেখায়, রক্ত ঝরতে থাকা অবস্থাতেও একজন নবীর দয়া কেমন। এ আয়াতের পাশে রাখলে মনে পড়ে, আঘাত সয়ে জাতির জন্য দোয়া করাই নবীদের পথ। আর নূহ (আঃ)-এর জাতির ব্যাপারে চূড়ান্ত কথা এসেছে কেবল তাঁর রবের কাছ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known by Revelation Only",
+          "bn": "এ জ্ঞান শুধু ওহীর"
+        },
+        "p": [
+          {
+            "en": "Nuh (AS) did not reach this conclusion by himself. He kept calling until he was told, and the telling came by wahy. Nobody guessing at another person's heart has knowledge of that kind, and nobody may borrow it. The verse describes what happened to one people long gone, whose fate the Qur'an itself reports, and it licenses nothing against any living person or community. Neighbouring 11:31 has already warned against judging those the eyes look down on: Allah knows best what is in their souls.",
+            "bn": "এ সিদ্ধান্তে নূহ (আঃ) নিজে নিজে পৌঁছাননি। যতক্ষণ না জানানো হয়েছে, তিনি ডেকেই গেছেন, আর জানানোটা এসেছে ওহীর মাধ্যমে। অন্যের মনের ব্যাপারে অনুমান করে কেউ এমন জ্ঞান পায় না। এ খবর ধার করে নিজের রায় বানানোর অধিকারও কারও নেই। আয়াতটি বহু আগে বিলীন হয়ে যাওয়া একটি জাতির কথা বলে, যাদের পরিণতি কুরআন নিজেই জানিয়েছে। এ আয়াত আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। পাশের ১১:৩১ আয়াত আগেই সাবধান করেছে, চোখ যাদের তুচ্ছ ভাবে তাদের বিচার করো না। তাদের মনে কী আছে, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "The verse also leaves a count unspoken: those who had believed would be the only believers, but how many it does not say. The commentaries fetched on this verse give none either. Verse 11:40 says only that those who believed with him were few, and the counts reported under that verse differ from one another. What this verse fixes is not a number but a line: the believers were already known, and the rest had made their choice.",
+            "bn": "আয়াতটি একটা সংখ্যাও অনুচ্চারিত রাখে। এটুকুই বলে যে যারা ঈমান এনেছিল, তারাই হবে একমাত্র ঈমানদার, কিন্তু কতজন তা বলে না। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, সেগুলোও কোনো সংখ্যা দেয় না। ১১:৪০ আয়াত শুধু বলে, তাঁর সঙ্গে খুব অল্প কয়েকজনই ঈমান এনেছিল। আর ওই আয়াতের আলোচনায় যে সংখ্যাগুলো বর্ণিত আছে, সেগুলো একটা আরেকটার থেকে আলাদা। এ আয়াত কোনো সংখ্যা স্থির করে না, স্থির করে একটা সীমারেখা। ঈমানদারেরা আগেই চিহ্নিত হয়ে গেছে, বাকিরা নিজেদের পথ বেছে নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Setting the Grief Down",
+          "bn": "দুঃখের ভার নামিয়ে রাখা"
+        },
+        "p": [
+          {
+            "en": "The story of Nuh (AS) in this surah closes at 11:49, where the Prophet ﷺ is told to be patient, for the outcome belongs to the mindful. Its listeners are meant to stand where Nuh (AS) stood. A believer today is given no verdict on anyone, but knows the pull this verse addresses: work done sincerely that seems to land nowhere. The grief is human. What the word tabta'is forbids, on al-Qurtubi's definition, is the kind that bends a person low and keeps him there.",
+            "bn": "এই সূরায় নূহ (আঃ)-এর কাহিনি শেষ হয় ১১:৪৯ আয়াতে। সেখানে নবী ﷺ-কে সবর করতে বলা হয়, কারণ শেষ পরিণাম মুত্তাকীদের। এর শ্রোতাদের তাই দাঁড় করানো হয় নূহ (আঃ)-এর জায়গায়। আজকের একজন মুমিনকে কারও ব্যাপারে কোনো রায় জানানো হয়নি। তবু এ আয়াত যে টানের কথা বলে, তা তার চেনা। আন্তরিকভাবে করা কাজ, অথচ মনে হয় কোথাও গিয়ে পৌঁছাল না। এরপর যে দুঃখ আসে, তা মানুষের স্বভাবের অংশ। কুরতুবীর সংজ্ঞা অনুযায়ী তাবতাইস শব্দটি যা নিষেধ করে, তা সেই দুঃখ, যা মানুষকে নুইয়ে দেয় আর সেখানেই আটকে রাখে।"
+          },
+          {
+            "en": "The verse does not leave Nuh (AS) with an empty space where his hope had been. The very next words give him a task. Read that way, the command not to be distressed is a kindness: the outcome was never his to carry, and now he is told so plainly. Whoever has called someone for years and seen no change can take from this verse permission to grieve without collapsing, to leave the verdict with Allah, and to turn to the next thing asked of them.",
+            "bn": "নূহ (আঃ)-এর আশার জায়গাটা আয়াত ফাঁকা রেখে যায় না। ঠিক পরের কথাতেই তাঁকে একটা কাজ দেওয়া হয়। এভাবে দেখলে দুঃখ না করার নির্দেশটা আসলে দয়া। ফলাফলের ভার কখনো তাঁর বইবার ছিল না, এখন সে কথাটা তাঁকে স্পষ্ট করে জানিয়ে দেওয়া হল। কেউ যদি বছরের পর বছর কাউকে ডেকেও কোনো বদল না দেখে থাকেন, এ আয়াত থেকে তিনি তিনটি জিনিস নিতে পারেন। ভেঙে না পড়ে দুঃখ পাওয়ার অনুমতি, ফয়সালা আল্লাহর হাতে ছেড়ে দেওয়া, আর তাঁর কাছে চাওয়া পরের কাজটির দিকে ফেরা।"
+          }
+        ]
+      }
+    ]
+  },
   "11:37": {
     "sections": [
       {

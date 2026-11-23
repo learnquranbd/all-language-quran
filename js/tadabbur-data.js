@@ -32623,6 +32623,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give the full measure, and with justice: no one is to be shortchanged in anything that is theirs. A shortfall kept quietly is still counted among the ways the earth is spoiled.",
     "lessonBn": "মাপ পুরো দিন, ইনসাফের সঙ্গে দিন। কারও কোনো পাওনায় কম দেওয়া চলবে না। চুপচাপ রেখে দেওয়া ঘাটতিও জমিন নষ্ট করার পথগুলোর একটি।"
+  },
+  "11:36": {
+    "reflectionEn": "For centuries Nuh (AS) had called his people, by night and by day, and now the arguing was over. Then word came from his Lord: no more of them will believe beyond those who already have. The same message carries a second command, do not be distressed by what they have been doing. Knowing the outcome did not mean carrying it as a wound. The verdict belonged to Allah, and so did the grief over it. I am not told who will never believe; that knowledge came to a prophet by revelation, never by guessing. What I can take is smaller and closer to home. When work I did with sincerity seems to bear no fruit, I may grieve, but I must not let the grief bend me low.",
+    "reflectionBn": "শত শত বছর ধরে নূহ (আঃ) তাঁর জাতিকে ডেকেছেন, রাতে ও দিনে। এখন তর্কও থেমে গেছে। তখন রবের কাছ থেকে কথা এল: যারা ঈমান এনেছে, তাদের বাইরে এদের আর কেউ ঈমান আনবে না। একই বার্তায় আরেকটা নির্দেশ: তারা যা করে চলেছে, তা নিয়ে দুঃখে ভেঙে পড়ো না। শেষটা জেনে যাওয়া মানে সেটাকে বুকের ক্ষত বানিয়ে বয়ে বেড়ানো নয়। ফয়সালা আল্লাহর, তার ভারও তাঁরই হাতে। কে কখনো ঈমান আনবে না, আমাকে তা জানানো হয়নি। এ জ্ঞান একজন নবীর কাছে এসেছিল ওহীর মাধ্যমে, অনুমানে নয়। আমার জন্য শিক্ষাটা ছোট, তবে কাছের। আন্তরিকভাবে করা কোনো কাজের যখন কোনো ফল দেখি না, তখন দুঃখ পাওয়া চলে। কিন্তু সেই দুঃখ যেন আমাকে নুইয়ে না দেয়।",
+    "pointsEn": [
+      "Whose rejection am I still carrying as a wound, long after I did what I was asked to do for them?",
+      "Have I ever decided that someone will never change, when no revelation told me so?",
+      "What is the difference, in my own heart this week, between sadness and being bent low by it?",
+      "Which outcome have I been treating as my responsibility when it was always Allah's to decide?",
+      "When I am told to stop grieving, what task is waiting for me on the other side of the grief?"
+    ],
+    "pointsBn": [
+      "কারও প্রত্যাখ্যান কি এখনো বুকের ক্ষত হয়ে আছে, অথচ তার জন্য আমার যা করার ছিল তা অনেক আগেই করেছি?",
+      "ওহী তো দূরের কথা, কোনো জানা ছাড়াই আমি কি কখনো ধরে নিয়েছি যে অমুক আর কখনো বদলাবে না?",
+      "এ সপ্তাহে আমার নিজের মনে দুঃখ পাওয়া আর দুঃখে নুয়ে পড়ার মধ্যে তফাত কোথায়?",
+      "কোন ফলাফলকে আমি নিজের দায় ভেবে বসে আছি, অথচ তার ফয়সালা সবসময় আল্লাহরই ছিল?",
+      "দুঃখ থামাতে বলা হলে, দুঃখের ওপারে আমার জন্য কোন কাজ অপেক্ষা করছে?"
+    ],
+    "lessonEn": "The outcome was Allah's to decide and to announce. Do the work sincerely, grieve if you must, but do not let the grief bend you low or turn you from the next task.",
+    "lessonBn": "ফলাফলের ফয়সালা ও ঘোষণা আল্লাহর হাতে। আন্তরিকভাবে কাজ করুন, দুঃখ পেলে পান, কিন্তু সেই দুঃখ যেন আপনাকে নুইয়ে না দেয়, পরের কাজ থেকেও সরিয়ে না নেয়।"
   }
 };
 
