@@ -33483,6 +33483,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "No journey, trade or busy hour puts anyone beyond Allah's reach. Keep Him in mind in the middle of the day, and use His respite to turn back to Him.",
     "lessonBn": "কোনো সফর, ব্যবসা বা ব্যস্ত সময় কাউকে আল্লাহর নাগালের বাইরে নিয়ে যায় না। দিনের ব্যস্ততার মাঝেও তাঁকে মনে রাখুন, আর তাঁর দেওয়া অবকাশ কাজে লাগিয়ে তাঁর দিকে ফিরে আসুন।"
+  },
+  "16:55": {
+    "reflectionEn": "The storm passes, the fever breaks, the debt is somehow settled. A moment ago there was only one name on the tongue. Now the relief is explained by luck, by a clever plan, by some patron's influence, by anything except the One who was called. The verse names where that drift ends: denying what was given. Then it turns and speaks to them directly in one word, enjoy, and the words after it show this is a warning, not a permission: you are going to know. The ease is real, and it is lent for a while. So the verse asks me what my relief is doing. Does it carry me back to the One who answered, or does it quietly hand the credit to someone else?",
+    "reflectionBn": "ঝড় থেমে যায়, জ্বর নেমে যায়, ঋণটাও কোনোভাবে শোধ হয়ে যায়। একটু আগেও মুখে ছিল কেবল একটি নাম। এখন স্বস্তির ব্যাখ্যা আসে কপাল থেকে, বুদ্ধির জোর থেকে, কোনো প্রভাবশালী লোকের সুপারিশ থেকে। যাঁকে ডাকা হয়েছিল, শুধু তাঁর কথাটাই আর আসে না। আয়াতটি বলে দেয় এই সরে যাওয়া কোথায় গিয়ে থামে: যা দেওয়া হয়েছিল, তা অস্বীকারে। তারপর আয়াত সরাসরি তাদের দিকে ফিরে একটি শব্দ বলে: ভোগ করে নাও। পরের কথাগুলো জানিয়ে দেয়, এ অনুমতি নয়, সতর্কবাণী: শীঘ্রই তোমরা জানবে। স্বস্তিটা সত্যি, তবে তা কিছুদিনের জন্য ধার দেওয়া। তাই আয়াতটি আমাকে জিজ্ঞেস করে, আমার স্বস্তি আমাকে কোন দিকে নিয়ে যাচ্ছে? যিনি সাড়া দিয়েছেন, তাঁর কাছে ফিরিয়ে আনছে, নাকি চুপচাপ কৃতিত্বটা অন্য কারও হাতে তুলে দিচ্ছে?",
+    "pointsEn": [
+      "When a hardship of mine was lifted, how long did my du'a keep the urgency it had while I was still inside it?",
+      "When something I feared does not happen, whom or what do I give the credit to first?",
+      "Which of my comforts am I enjoying as if it had no end and no owner?",
+      "Is there a blessing in my life that I have quietly turned into a reason to need Allah less?",
+      "If I knew today what 'you are going to know' will one day show me, what would I change before this evening?"
+    ],
+    "pointsBn": [
+      "আমার কোনো বিপদ যখন কেটে গেছে, বিপদের ভেতরে থাকার সময় দোয়ায় যে আকুলতা ছিল, তা কতদিন টিকেছিল?",
+      "যে বিপদের ভয় করছিলাম তা না ঘটলে, আমি প্রথমে কাকে বা কীসের কৃতিত্ব দিই?",
+      "আমার কোন আরামটা আমি এমনভাবে ভোগ করছি, যেন তার কোনো শেষ নেই, কোনো মালিকও নেই?",
+      "আমার জীবনে এমন কোনো নিয়ামত কি আছে, যাকে আমি নিজের অজান্তে আল্লাহর মুখাপেক্ষিতা কমানোর উপায় বানিয়ে ফেলেছি?",
+      "'শীঘ্রই তোমরা জানবে' একদিন যা দেখাবে, তা যদি আজই জানতাম, তাহলে আজ সন্ধ্যার আগেই আমি কী বদলাতাম?"
+    ],
+    "lessonEn": "When Allah lifts a hardship from you, return the thanks to Him alone, and treat the ease that follows as a trust lent for a while, not a licence to forget.",
+    "lessonBn": "আল্লাহ যখন আপনার কষ্ট দূর করেন, কৃতজ্ঞতা কেবল তাঁকেই ফিরিয়ে দিন। এরপরের স্বস্তিকে ভুলে যাওয়ার ছাড়পত্র নয়, কিছুদিনের জন্য দেওয়া আমানত মনে করুন।"
   }
 };
 
