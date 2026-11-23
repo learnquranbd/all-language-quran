@@ -3307,6 +3307,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:64": {
+    "sections": [
+      {
+        "h": {
+          "en": "Pointing Instead of Arguing",
+          "bn": "তর্ক থামিয়ে দেখিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Salih (AS) addresses Thamud with ya qawmi, O my people, three times in this passage of Hud. In 11:61 he calls them to worship Allah alone, who raised them from the earth, and to seek His forgiveness. In 11:62 they answer that he had once been their hope, and that they are in disquieting doubt about his call. In 11:63 he asks them to consider: if he stands on clear evidence from his Lord, who would protect him from Allah were he to disobey? This verse opens with the third wa-ya qawmi, and here he stops reasoning and points.",
+            "bn": "সূরা হূদের এই অংশে সালিহ (আঃ) সামূদকে তিনবার ডাকেন ইয়া কাওমি, হে আমার সম্প্রদায় বলে। ১১:৬১ আয়াতে তিনি তাদের ডাকেন এক আল্লাহর ‘ইবাদাতের দিকে, যিনি তাদের মাটি থেকে সৃষ্টি করেছেন, আর বলেন তাঁর কাছে ক্ষমা চাইতে। ১১:৬২ আয়াতে তারা জবাব দেয়: একসময় তুমিই ছিলে আমাদের আশার মানুষ, আর তোমার দাওয়াত নিয়ে আমরা অস্থির সংশয়ে আছি। ১১:৬৩ আয়াতে তিনি তাদের ভেবে দেখতে বলেন: আমি যদি রবের পক্ষ থেকে সুস্পষ্ট প্রমাণের উপর থাকি, তারপর তাঁর অবাধ্য হই, আল্লাহর হাত থেকে কে আমাকে বাঁচাবে? এই আয়াত শুরু হয় তৃতীয় ওয়া ইয়া কাওমি দিয়ে। এখানে এসে তিনি যুক্তি থামান, আর আঙুল তুলে দেখান।"
+          },
+          {
+            "en": "At-Tabari places the verse exactly there. Salih is speaking to his people of Thamud after they had said, we are in disquieting doubt about what you call us to, and after they had asked him for a sign of what he was calling them to. The verse is a reply to that demand. Its seventeen Arabic words hold a presentation, this is the she-camel of Allah, a sign for you; two instructions, leave her and do not touch her; and a consequence, a punishment near at hand.",
+            "bn": "তাবারী আয়াতটিকে ঠিক এই জায়গায় বসান। সামূদ বলেছিল, তুমি আমাদের যেদিকে ডাকছ তা নিয়ে আমরা অস্থির সংশয়ে আছি। তারা তাঁর কাছে তাঁর দাওয়াতের পক্ষে একটা নিদর্শনও চেয়েছিল। সালিহ এখানে তাদের সেই দাবিরই জবাব দিচ্ছেন। আয়াতের সতেরোটি আরবি শব্দে তিনটি অংশ। প্রথমে উপস্থাপন: এ আল্লাহর উষ্ট্রী, তোমাদের জন্য নিদর্শন। তারপর দুটি নির্দেশ: তাকে ছেড়ে দাও, আর তাকে স্পর্শ কোরো না। শেষে পরিণাম: কাছেই অপেক্ষমাণ এক ‘আযাব।"
+          },
+          {
+            "en": "In 11:63 Salih had spoken of bayyina, clear evidence from his Lord, inside a condition: if I am upon it. In 11:64 the evidence is standing in front of them. The parallel telling at 7:73 says so outright before the same words: qad ja'atkum bayyinatun min rabbikum, a clear proof has come to you from your Lord. Hud lets the single word hadhihi, this, do that work.",
+            "bn": "১১:৬৩ আয়াতে সালিহ বাইয়্যিনা, অর্থাৎ রবের দেওয়া সুস্পষ্ট প্রমাণের কথা বলেছিলেন একটা শর্তের ভেতরে: যদি আমি তার উপর থাকি। ১১:৬৪ আয়াতে সেই প্রমাণ তাদের সামনে দাঁড়িয়ে আছে। ৭:৭৩ আয়াতে একই কাহিনিতে এই শব্দগুলোর আগে কথাটা খোলাখুলি বলা আছে: কাদ জা‘আতকুম বাইয়্যিনাতুম মির রাব্বিকুম, তোমাদের রবের কাছ থেকে তোমাদের কাছে সুস্পষ্ট প্রমাণ এসে গেছে। সূরা হূদ সে কাজটা করিয়ে নেয় একটিমাত্র শব্দ দিয়ে: হাযিহি, এই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held Up as a Sign",
+          "bn": "চোখের সামনে তুলে ধরা নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi parses the opening plainly. Hadhihi naqatu llah is a subject and its predicate: this is the she-camel of Allah. Lakum ayatan, for you a sign, is in the accusative as a hal, a circumstantial state, and what governs it, he says, is the sense of pointing or of drawing attention carried by hadhihi itself. Al-Baghawi also reads ayatan as accusative, and names the construction both hal and qat'. The sentence does not only name her; it holds her up as a sign.",
+            "bn": "কুরতুবী শুরুর অংশের ব্যাকরণ সোজাসুজি খুলে বলেন। হাযিহি নাকাতুল্লাহ হল উদ্দেশ্য আর বিধেয়: এ আল্লাহর উষ্ট্রী। লাকুম আয়াতান, তোমাদের জন্য নিদর্শন, এখানে নসব অবস্থায় আছে হাল হিসেবে, মানে অবস্থা বোঝাতে। তিনি বলেন, একে চালাচ্ছে হাযিহি শব্দের ভেতরের ইশারা বা দৃষ্টি আকর্ষণের অর্থ। বাগাভীও আয়াতান শব্দকে নসব ধরেন, আর গঠনটির নাম দেন হাল ও কাত‘ দুটোই। ফলে বাক্যটা কেবল উষ্ট্রীর নাম বলে থামে না। তাকে নিদর্শন হিসেবে সবার সামনে তুলে ধরে।"
+          },
+          {
+            "en": "What kind of sign? At-Tabari glosses ayah with three nouns: hujja, an argument; 'alama, a mark; and dalala, an indication of the truth of what I call you to. The Muyassar keeps the first two and says whose truth is at stake: Allah made her a proof and a mark showing my truthfulness in what I call you to. In both readings the sign is evidence in a dispute that Thamud themselves had opened when they declared their doubt. It answers the doubt of 11:62 in kind.",
+            "bn": "নিদর্শনটা কেমন? তাবারী আয়াহ শব্দের ব্যাখ্যা দেন তিনটি শব্দে: হুজ্জাহ, অর্থাৎ যুক্তি; ‘আলামাহ, অর্থাৎ চিহ্ন; আর দালালাহ, অর্থাৎ আমি যেদিকে ডাকছি তার সত্যতার ইঙ্গিত। মুয়াসসার প্রথম দুটি শব্দ রাখে, আর বলে দেয় কার সত্যতা প্রশ্নের মুখে: আল্লাহ তাকে বানিয়েছেন প্রমাণ ও চিহ্ন, যা দেখায় আমি যেদিকে ডাকছি তাতে আমি সত্যবাদী। দুই ব্যাখ্যাতেই নিদর্শনটা এক বিবাদের সাক্ষ্য। সে বিবাদ সামূদ নিজেরাই শুরু করেছিল সংশয়ের কথা ঘোষণা করে। ১১:৬২ আয়াতের সংশয়ের জবাব তাই এসেছে সেই সংশয়ের ভাষাতেই, প্রমাণ দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose She-Camel She Is",
+          "bn": "উষ্ট্রীটি কার"
+        },
+        "p": [
+          {
+            "en": "Why is she called naqatu llah, the she-camel of Allah, when every camel is His? Al-Qurtubi, on this verse, gives the reason through her origin: she is called so because He brought her out for them from a mountain, as they had asked, on the understanding that they would believe. On the identical words at 7:73 he adds that she is attributed to Allah as a created thing is to its Creator, and that the attribution carries a sense of honour and of being singled out, tashrif and takhsis.",
+            "bn": "সব উট তো আল্লাহরই, তবু একে কেন নাকাতুল্লাহ, আল্লাহর উষ্ট্রী বলা হল? এই আয়াতের আলোচনায় কুরতুবী কারণটা দেখান তার উৎপত্তি দিয়ে: তাকে এ নামে ডাকা হয়েছে, কারণ তারা যেমন চেয়েছিল, আল্লাহ তেমনি তাকে পাহাড় থেকে বের করে এনেছিলেন, এই শর্তে যে তারা ঈমান আনবে। ৭:৭৩ আয়াতে হুবহু একই শব্দের আলোচনায় তিনি আরও বলেন, সৃষ্টিকে যেভাবে স্রষ্টার দিকে সম্পর্কিত করা হয়, উষ্ট্রীকেও সেভাবে আল্লাহর দিকে সম্পর্কিত করা হয়েছে। আর এ সম্পর্কের ভেতরে আছে মর্যাদা দান ও বিশেষভাবে চিহ্নিত করার অর্থ, তাশরীফ ও তাখসীস।"
+          },
+          {
+            "en": "The others read the same words at 7:73 in the same direction. Al-Baghawi says He attached her to Himself by way of preference and singling out, just as one says the House of Allah. As-Sa'di calls her an honoured and excellent she-camel because she is joined to Allah in a genitive of honour, idafat tashrif, and adds that in her lies a great sign for them. The honour sits in the attachment: she is named by whose she is.",
+            "bn": "৭:৭৩ আয়াতে একই শব্দকে অন্যরাও একই দিকে পড়েন। বাগাভী বলেন, আল্লাহ তাকে নিজের সঙ্গে যুক্ত করেছেন শ্রেষ্ঠত্ব দিতে আর আলাদা করে চিহ্নিত করতে, যেমন বলা হয় বাইতুল্লাহ, আল্লাহর ঘর। সা’দী তাকে বলেন মর্যাদাপূর্ণ, শ্রেষ্ঠ এক উষ্ট্রী, কারণ সম্মানসূচক সম্বন্ধে, ইদাফাতু তাশরীফে, তাকে আল্লাহর সঙ্গে জুড়ে দেওয়া হয়েছে। তিনি আরও বলেন, তার মধ্যে তাদের জন্য আছে বিরাট নিদর্শন। মর্যাদাটা তাই এই সম্বন্ধের ভেতরেই। উষ্ট্রীর পরিচয় দেওয়া হয়েছে সে কার, তা দিয়ে।"
+          },
+          {
+            "en": "The verse then uses the same genitive a second time: leave her to eat fi ardi llah, in Allah's earth. The she-camel of Allah grazes in the earth of Allah, so the animal and her pasture are placed under the same Owner. Other tellings name her differently. In 26:155 Salih says only hadhihi naqatun, this is a she-camel, and in 91:13 the messenger says naqata llahi wa suqyaha, the she-camel of Allah and her drink.",
+            "bn": "এরপর আয়াতটি একই সম্বন্ধ আরেকবার ব্যবহার করে: তাকে খেতে দাও ফী আরদিল্লাহ, আল্লাহর যমীনে। আল্লাহর উষ্ট্রী চরছে আল্লাহর যমীনে। প্রাণীটি আর তার চারণভূমি, দুটোকেই রাখা হল একই মালিকের অধীনে। অন্য বর্ণনায় তার নাম এসেছে অন্যভাবে। ২৬:১৫৫ আয়াতে সালিহ শুধু বলেন হাযিহি নাকাতুন, এ একটি উষ্ট্রী। আর ৯১:১৩ আয়াতে রাসূল বলেন নাকাতাল্লাহি ওয়া সুকইয়াহা, আল্লাহর উষ্ট্রী আর তার পানি পান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Reports Tell Her Coming",
+          "bn": "আবির্ভাবের কথা যেভাবে বর্ণিত"
+        },
+        "p": [
+          {
+            "en": "How she appeared is told in reports, not in the verse. Al-Qurtubi gives two: that Allah brought her out of a mountain at their request, and, introduced with it is said, that He brought her out of a solid rock standing alone at the edge of al-Hijr, called al-Kathiba. Al-Baghawi says they asked Salih for a she-camel ten months pregnant, 'ushara', from a rock they pointed to; he prayed, she came out of it, and at once gave birth to a young one like herself.",
+            "bn": "উষ্ট্রী কীভাবে এল, তা আয়াতে নেই, আছে বিভিন্ন বর্ণনায়। কুরতুবী দুটি কথা আনেন। একটি হল, তাদের দাবি অনুযায়ী আল্লাহ তাকে পাহাড় থেকে বের করেছিলেন। অন্যটি তিনি আনেন 'বলা হয়' কথাটি দিয়ে: হিজরের এক প্রান্তে একা দাঁড়ানো এক নিরেট পাথর থেকে, যার নাম কাসিবা। বাগাভী বলেন, তারা একটা পাথরের দিকে ইশারা করে সালিহের কাছে ১০ মাসের গর্ভবতী উষ্ট্রী চেয়েছিল, আরবিতে ‘উশারা। তিনি দু‘আ করলেন, পাথর থেকে উষ্ট্রী বেরিয়ে এল, আর সঙ্গে সঙ্গে নিজের মতোই একটি বাচ্চা প্রসব করল।"
+          },
+          {
+            "en": "The Ibn Kathir text that the quran.com API files under this verse is his commentary on 7:73, where the same words occur. It tells the story at more length: they named the rock themselves, Salih took pledges from them that they would believe, he stood to pray, and the rock stirred and split, her unborn young moving inside her. Their chief Jundu' ibn 'Amr believed, with those who followed him, while other notables were held back. None of these details is raised to the Prophet ﷺ in the texts consulted; they are the commentators' narrative, and they differ. 26:155 treats her origin at more length.",
+            "bn": "quran.com API এই আয়াতের ঘরে ইবন কাসীরের যে লেখা রেখেছে, তা আসলে ৭:৭৩ আয়াতের উপর তাঁর ব্যাখ্যা, যেখানে হুবহু একই শব্দ আছে। সেখানে কাহিনিটা আরও বিস্তারিত। পাথরটা তারা নিজেরাই বেছে দিয়েছিল। সালিহ তাদের কাছ থেকে অঙ্গীকার নিলেন যে দাবি পূরণ হলে তারা ঈমান আনবে। তারপর তিনি নামাযে দাঁড়ালেন, পাথর নড়ে উঠে ফেটে গেল, উষ্ট্রীর পেটে তখন বাচ্চা নড়ছে। তাদের সর্দার জুনদা‘ ইবন ‘আমর অনুসারীদের নিয়ে ঈমান আনল, অন্য নেতাদের আটকে দেওয়া হল। দেখা গ্রন্থগুলোতে এসব খুঁটিনাটির কোনোটিই নবী ﷺ পর্যন্ত পৌঁছানো নয়। এগুলো তাফসীরকারদের বর্ণনা, আর একটার সঙ্গে আরেকটা মেলে না। তার উৎপত্তির আরও বিস্তারিত আলোচনা আছে ২৬:১৫৫ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leave Her to Graze",
+          "bn": "চরে খেতে দাও"
+        },
+        "p": [
+          {
+            "en": "Fa-dharuha ta'kul: leave her, let her eat. Al-Qurtubi classes it as a command with its answer, so ta'kul is jussive, as if to say, leave her and she will eat. He reports from az-Zajjaj that ta'kul may also be read in the indicative, either as a state, leave her eating, or as a fresh clause. He adds that the past tense wadhara and the participle wadhir are hardly used; Sibawayh said the Arabs made do with taraka in their place.",
+            "bn": "ফাযারূহা তা'কুল: তাকে ছেড়ে দাও, সে খাক। কুরতুবী একে ধরেন আদেশ আর তার জবাব হিসেবে, তাই তা'কুল জযম অবস্থায়, যেন বলা হচ্ছে: ছেড়ে দাও, সে খেয়ে নেবে। যাজ্জাজের সূত্রে তিনি জানান, তা'কুল শব্দকে রফ‘ অবস্থাতেও পড়া যায়। তখন এর মানে হয় হাল, অর্থাৎ খাওয়া অবস্থায় তাকে ছেড়ে দাও, কিংবা একেবারে নতুন বাক্য। তিনি আরও বলেন, এই ক্রিয়ার অতীত রূপ ওয়াযারা আর কর্তৃবাচক রূপ ওয়াযির প্রায় ব্যবহারই হয় না। সীবাওয়াইহের মতে আরবরা এর জায়গায় তারাকা দিয়েই কাজ চালিয়েছে।"
+          },
+          {
+            "en": "What does letting her eat ask of them? At-Tabari: her provision and her upkeep are not on you. The Muyassar says the same, and as-Sa'di: nothing of her upkeep or fodder falls on you. Al-Baghawi names the food, grass and plants. As-Sa'di also gives the shape of the arrangement: she had her drink from the well one day, then they all drank from her udder, while they had their own appointed day. The sign cost them nothing.",
+            "bn": "তাকে খেতে দেওয়ার মানে তাদের কাছে কী চাওয়া? তাবারী বলেন, তার রিযিক আর ভরণপোষণের দায় তোমাদের উপর নেই। মুয়াসসারও একই কথা বলে। সা’দী বলেন, তার খরচ বা খাবারের কিছুই তোমাদের ঘাড়ে পড়বে না। বাগাভী খাবারের নামও বলেন: ঘাস আর গাছপালা। সা’দী ব্যবস্থাটার চেহারাও দেখান। একদিন উষ্ট্রী কূপ থেকে পানি পান করত, তারপর সবাই তার ওলান থেকে দুধ পান করত, আর তাদের জন্যও ছিল পানি নেওয়ার নির্দিষ্ট দিন। নিদর্শনটির জন্য তাদের কিছুই খরচ হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Even a Touch",
+          "bn": "স্পর্শটুকুও নয়"
+        },
+        "p": [
+          {
+            "en": "Wa la tamassuha bi-su': and do not touch her with harm. Al-Qurtubi notes the verb is jussive under the prohibition and reports al-Farra' glossing bi-su' as bi-'aqr, by hamstringing. At-Tabari: do not kill her and do not get at her by hamstringing. Al-Baghawi: do not strike her with a hamstring wound. The Muyassar and as-Sa'di give the same one word, 'aqr. On this verse every commentator consulted names the same deed, and at-Tabari's pair covers both the end and the means.",
+            "bn": "ওয়ালা তামাসসূহা বিসূ': আর মন্দ উদ্দেশ্যে তাকে স্পর্শ কোরো না। কুরতুবী বলেন, নিষেধের কারণে ক্রিয়াটি জযম অবস্থায় আছে। ফাররার সূত্রে তিনি আনেন, বিসূ' মানে বি‘আকর, পায়ের রগ কেটে। তাবারী বলেন: তাকে হত্যা কোরো না, পায়ের রগ কেটে তার ক্ষতি কোরো না। বাগাভী বলেন: রগ কাটার আঘাত তাকে দিয়ো না। মুয়াসসার আর সা’দী একটি শব্দই দেন, ‘আকর। এই আয়াতে যাঁদের ব্যাখ্যা দেখা হয়েছে, তাঁরা সবাই একই কাজের নাম করেন। তাবারীর জোড়া শব্দে পরিণতি আর উপায়, দুটোই ধরা পড়ে।"
+          },
+          {
+            "en": "The wording of the verse is wider than the gloss. Massa is to touch and su' is any harm. The commentators name the act that was coming, but the prohibition as spoken begins with the first hand raised against her. The next verse opens with that very deed: fa-'aqaruha, but they hamstrung her (11:65). Who struck, and how the tribe came to agree to it, is treated at 7:77 and is not retold here.",
+            "bn": "তবে আয়াতের শব্দ ব্যাখ্যার চেয়ে প্রশস্ত। মাসসা মানে ছোঁয়া, আর সূ' মানে যেকোনো ক্ষতি। তাফসীরকারেরা সেই কাজের নাম করেন, যা সামনে ঘটতে যাচ্ছিল। কিন্তু যেভাবে নিষেধটা উচ্চারিত, তা শুরু হয় তার দিকে ওঠা প্রথম হাত থেকেই। পরের আয়াত শুরুই হয় ঠিক সেই কাজ দিয়ে: ফা‘আকারূহা, কিন্তু তারা তার পায়ের রগ কেটে ফেলল (১১:৬৫)। কে আঘাত করেছিল, আর গোটা গোত্র কীভাবে তাতে সায় দিল, সে আলোচনা আছে ৭:৭৭ আয়াতে, এখানে আর বলা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Near, in This Telling",
+          "bn": "এই বর্ণনায়, নিকটবর্তী"
+        },
+        "p": [
+          {
+            "en": "Fa-ya'khudhakum 'adhabun qarib: or a punishment near at hand will seize you. Al-Qurtubi notes that fa-ya'khudhakum is the answer to the prohibition. At-Tabari: if you touch her with harm, a punishment from Allah not far off will take you and destroy you. Al-Qurtubi and the Muyassar both fix the point the nearness is measured from: near to her hamstringing. The clock starts at the deed, not at the moment Salih spoke. The verse does not say how near; the next verse shows it.",
+            "bn": "ফাইয়া'খুযাকুম ‘আযাবুন কারীব: নইলে কাছেই অপেক্ষমাণ এক ‘আযাব তোমাদের পাকড়াও করবে। কুরতুবী বলেন, ফাইয়া'খুযাকুম হল নিষেধের জবাব। তাবারীর ব্যাখ্যা: মন্দ উদ্দেশ্যে তাকে ছুঁলে আল্লাহর এমন ‘আযাব তোমাদের ধরবে, যা দূরে নয়, আর তা তোমাদের ধ্বংস করে দেবে। কুরতুবী আর মুয়াসসার দুজনেই বলে দেন নিকটত্বটা মাপা হচ্ছে কোথা থেকে: রগ কাটার কাছাকাছি সময়ে। অর্থাৎ ঘড়ি চলতে শুরু করে কাজটা ঘটার মুহূর্ত থেকে, সালিহের কথা বলার মুহূর্ত থেকে নয়। কতটা কাছে, আয়াত তা বলে না। পরের আয়াত তা দেখিয়ে দেয়।"
+          },
+          {
+            "en": "The three tellings give the same punishment three different words. In 7:73, after the identical command, it is 'adhabun alim, a painful punishment. In 26:156 it is 'adhabu yawmin 'azim, the punishment of a tremendous day. Here it is qarib, near. Hud then shows the nearness kept: in 11:65 they are given three days in their homes, a promise not to be belied, and in 11:67 a single cry ends them.",
+            "bn": "তিন জায়গার বর্ণনায় একই শাস্তির জন্য তিনটি আলাদা বিশেষণ। ৭:৭৩ আয়াতে হুবহু একই নির্দেশের পর আছে ‘আযাবুন আলীম, যন্ত্রণাদায়ক শাস্তি। ২৬:১৫৬ আয়াতে আছে ‘আযাবু ইয়াওমিন ‘আযীম, এক মহাদিবসের শাস্তি। আর এখানে কারীব, নিকটবর্তী। তারপর সূরা হূদ দেখায়, সেই নিকটত্বের কথা রক্ষা হয়েছে। ১১:৬৫ আয়াতে তাদের ঘরে থাকার জন্য তিন দিন সময় দেওয়া হয়, এমন ও‘য়াদা যা মিথ্যা হবার নয়। আর ১১:৬৭ আয়াতে এক প্রচণ্ড শব্দ তাদের শেষ করে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Narrations, and a Limit",
+          "bn": "বর্ণনা, আর একটি সীমারেখা"
+        },
+        "p": [
+          {
+            "en": "No commentator consulted attaches a sound hadith to this verse. The narrations Ibn Kathir gathers in the text filed here come from the march to Tabuk past the dwellings of Thamud at al-Hijr; they concern that place and that people in general, not these words, and al-Bukhari's versions are discussed at 11:67. He also relays from Imam Ahmad a narration through Jabir on the topic of asking for signs. It is in none of the six books and the collector gives it no grading, so it is only mentioned here.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এই আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। এখানে রাখা লেখায় ইবন কাসীর যে বর্ণনাগুলো জড়ো করেন, সেগুলো তাবুক অভিযানের পথে হিজরে সামূদের বাসস্থানের পাশ দিয়ে যাওয়ার ঘটনা নিয়ে। সেগুলো ওই জায়গা আর ওই জাতি সম্পর্কে সাধারণভাবে, এই আয়াতের শব্দগুলো নিয়ে নয়। বুখারীর বর্ণনাগুলোর আলোচনা আছে ১১:৬৭ আয়াতে। ইমাম আহমাদ থেকে জাবির (রাঃ)-এর সূত্রে নিদর্শন চাওয়ার বিষয়ে একটি বর্ণনাও তিনি আনেন। সেটি ছয়টি গ্রন্থের কোনোটিতে নেই, সংকলক তার কোনো মান নির্ধারণ করেননি। তাই এখানে শুধু তার উল্লেখ রইল।"
+          },
+          {
+            "en": "The verse describes what it describes: a people of the past, a sign they asked for, a warning they heard, and in the verses after it the deed and its end. It licenses nothing against any living person or community, neither those who live today where Thamud lived nor anyone else. Its warning reaches through Thamud to whoever hears it, and the reader is the first person it speaks to.",
+            "bn": "আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: অতীতের এক জাতি, তাদের চেয়ে নেওয়া এক নিদর্শন, তাদের শোনা এক সতর্কবাণী। আর পরের আয়াতগুলোতে সেই কাজ ও তার পরিণাম। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। সামূদ যেখানে থাকত, আজ সেখানে যারা থাকে, তাদের বিরুদ্ধেও নয়, অন্য কারও বিরুদ্ধেও নয়। এর সতর্কবাণী সামূদের ভেতর দিয়ে পৌঁছায় যে-ই শোনে তার কাছে। আর যিনি পড়ছেন, আয়াতটি প্রথমে কথা বলছে তাঁর সঙ্গেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keeping Your Hands Off",
+          "bn": "হাত গুটিয়ে রাখা"
+        },
+        "p": [
+          {
+            "en": "The duty in this verse is strikingly small. Thamud were not told to build, feed or give up anything. They were told to step aside and keep their hands off. The proof they demanded came with that one condition, and it was the condition they did not keep. A reader can find the pattern at home. I ask Allah for clarity, and when it comes, the question is no longer whether I see it but how I treat it.",
+            "bn": "এই আয়াতের দায়িত্বটা আশ্চর্য রকম ছোট। সামূদকে কিছু বানাতে, কাউকে খাওয়াতে বা কিছু ছেড়ে দিতে বলা হয়নি। বলা হয়েছিল শুধু সরে দাঁড়াতে, হাত গুটিয়ে রাখতে। তারা যে প্রমাণ দাবি করেছিল, তার সঙ্গে এই একটিই শর্ত এসেছিল, আর ঠিক সেই শর্তটাই তারা রাখেনি। পাঠক নিজের জীবনেও এই ছক খুঁজে পাবেন। আমি আল্লাহর কাছে স্পষ্টতা চাই। স্পষ্টতা এলে প্রশ্নটা আর এই থাকে না যে আমি দেখছি কি না, প্রশ্ন হয়ে দাঁড়ায় আমি তার সঙ্গে কেমন আচরণ করছি।"
+          },
+          {
+            "en": "Some things are attached to Allah by the revelation itself: the House of Allah, the bounds of Allah, the signs of Allah. Often what they ask of me is only that I do not lay a harmful hand on them, that I leave them their place and their due. That is a modest test, and it is still a test: easy to keep on the day it is given, and easy to forget after. And when a warning starts to sound far away, this verse calls it near.",
+            "bn": "কিছু জিনিসকে ওহী নিজেই আল্লাহর সঙ্গে জুড়ে দিয়েছে: আল্লাহর ঘর, আল্লাহর সীমারেখা, আল্লাহর নিদর্শন। প্রায়ই এগুলো আমার কাছে শুধু এটুকু চায়: মন্দ উদ্দেশ্যে এদের গায়ে হাত দেব না, এদের জায়গা আর এদের হক এদের থাকতে দেব। পরীক্ষাটা ছোট, তবু পরীক্ষাই। যেদিন দায়িত্ব হাতে আসে, সেদিন রক্ষা করা সহজ। পরে ভুলে যাওয়াও তেমনি সহজ। আর কোনো সতর্কবাণী যখন দূরের মনে হতে থাকে, এই আয়াত তাকে বলে নিকটবর্তী।"
+          }
+        ]
+      }
+    ]
+  },
   "11:67": {
     "sections": [
       {

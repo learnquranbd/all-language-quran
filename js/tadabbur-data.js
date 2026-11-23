@@ -32723,6 +32723,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give your counsel without a price, and never buy anyone's approval by pushing away the believers they look down on. Everyone is heading to the same meeting with their Lord.",
     "lessonBn": "বিনিময় না চেয়ে উপদেশ দিন। যে মুমিনদের কেউ তুচ্ছ ভাবে, তাদের সরিয়ে দিয়ে তার মন জয়ের চেষ্টা কখনো করবেন না। সবাই চলেছে একই রবের সঙ্গে সাক্ষাতের দিকে।"
+  },
+  "11:64": {
+    "reflectionEn": "They had asked for a sign, and now it stood in front of them. Salih (AS) stops arguing and points: this is the she-camel of Allah, a sign for you. What he asks next is almost nothing. She will graze on Allah's earth, so they need not feed her. They only have to leave her alone and lay no harmful hand on her. The proof they demanded came with one small duty, and the duty was restraint. It is often like that with me. I ask Allah for clarity, and when it comes, the test is no longer whether I see it but how I treat it. What has He already made plain to me that I am handling carelessly?",
+    "reflectionBn": "তারা নিদর্শন চেয়েছিল, আর এখন সেটা তাদের চোখের সামনে দাঁড়িয়ে। সালিহ (আঃ) তর্ক থামিয়ে আঙুল তুলে দেখান: এ আল্লাহর উষ্ট্রী, তোমাদের জন্য নিদর্শন। এরপর তিনি যা চান, তা প্রায় কিছুই না। উষ্ট্রী আল্লাহর যমীনে চরে খাবে, তাকে খাওয়ানোর দায় তাদের নেই। শুধু তাকে তার মতো থাকতে দিতে হবে, মন্দ উদ্দেশ্যে তার গায়ে হাত তোলা চলবে না। যে প্রমাণ তারা দাবি করেছিল, তার সঙ্গে এল ছোট্ট একটা দায়িত্ব, আর সে দায়িত্ব হল নিজেকে সংযত রাখা। আমার বেলাতেও প্রায়ই এমন হয়। আল্লাহর কাছে স্পষ্টতা চাই। স্পষ্টতা আসার পর প্রশ্নটা আর এই থাকে না যে আমি তা দেখছি কি না। প্রশ্ন হয়, আমি তার সঙ্গে কেমন আচরণ করছি। আল্লাহ যা আমার কাছে আগেই পরিষ্কার করে দিয়েছেন, তার কোনটাকে আমি অবহেলায় নাড়াচাড়া করছি?",
+    "pointsEn": [
+      "When I last asked Allah for a sign or an answer and it came, how did I treat it in the weeks that followed?",
+      "What trust have I been given that asks nothing of me except that I leave it unharmed, and am I keeping even that?",
+      "Do I treat what belongs to Allah, His House, His Book, His bounds, as if it were mine to use as I please?",
+      "Is there a warning I have heard so many times that it no longer sounds near?",
+      "Where today would simply holding back, doing no harm at all, be the whole of my obedience?"
+    ],
+    "pointsBn": [
+      "শেষবার আল্লাহর কাছে কোনো নিদর্শন বা জবাব চেয়ে যখন পেয়েছি, পরের সপ্তাহগুলোতে তার সঙ্গে আমি কেমন আচরণ করেছি?",
+      "আমার হাতে এমন কোন আমানত আছে, যা শুধু চায় আমি তার ক্ষতি না করি? আমি কি অন্তত সেটুকু রক্ষা করছি?",
+      "যা আল্লাহর, তাঁর ঘর, তাঁর কিতাব, তাঁর বেঁধে দেওয়া সীমা, সেগুলোকে কি আমি নিজের জিনিসের মতো যেমন খুশি ব্যবহার করি?",
+      "এমন কোনো সতর্কবাণী কি আছে, যা এত বার শুনেছি যে এখন আর সেটাকে কাছের মনে হয় না?",
+      "আজ কোথায় শুধু নিজেকে সামলে রাখা, কোনো ক্ষতি না করাটাই আমার পুরো আনুগত্য হতে পারে?"
+    ],
+    "lessonEn": "A sign that answers your demand brings a duty with it. Sometimes the whole duty is restraint: leave what is Allah's unharmed, and do not treat a near warning as far.",
+    "lessonBn": "যে নিদর্শন আপনার দাবির জবাবে আসে, তার সঙ্গে দায়িত্বও আসে। কখনো পুরো দায়িত্বটাই সংযম: যা আল্লাহর, তার ক্ষতি করবেন না, আর কাছের সতর্কবাণীকে দূরের ভাববেন না।"
   }
 };
 
