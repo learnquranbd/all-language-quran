@@ -7759,6 +7759,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:138": {
+    "sections": [
+      {
+        "h": {
+          "en": "Dry Land, Then a Demand",
+          "bn": "শুকনো মাটিতে উঠেই আবদার"
+        },
+        "p": [
+          {
+            "en": "Wa-jawazna bi-bani Isra'ila al-bahr: and We took the Children of Israel across the sea. The verses just before it close the account of Pharaoh, his people drowned in 7:136 and his works destroyed in 7:137. The story then turns straight to the people who were saved. They come upon a people devoted to idols of their own and say to Musa (AS): make for us a god just as they have gods. His reply opens with three words, innakum qawmun tajhalun, you are a people behaving ignorantly, and runs on through 7:139 and 7:140.",
+            "bn": "ওয়া জাওয়াযনা বিবানী ইসরাঈলাল বাহর: আর আমি বনী ইসরাঈলকে সমুদ্র পার করিয়ে দিলাম। এর আগের আয়াতগুলোতে ফেরাউনের অধ্যায় শেষ হয়েছে। ৭:১৩৬ আয়াতে তার লোকেরা ডুবে মরেছে, ৭:১৩৭ আয়াতে ধ্বংস হয়েছে তার কীর্তি। এরপর কাহিনি সোজা চলে আসে বেঁচে যাওয়া মানুষগুলোর কাছে। তারা এমন এক জাতির দেখা পায়, যারা নিজেদের প্রতিমা আঁকড়ে পড়ে আছে। অমনি তারা মূসা (আঃ)-কে বলে: ওদের যেমন দেবতা আছে, আমাদের জন্যও তেমন এক ইলাহ বানিয়ে দিন। তাঁর জবাব শুরু হয় তিনটি শব্দে, ইন্নাকুম কাওমুন তাজহালূন: তোমরা মূর্খের মতো আচরণ করছ। সে জবাব চলতে থাকে ৭:১৩৯ ও ৭:১৪০ আয়াত পর্যন্ত।"
+          },
+          {
+            "en": "At-Tabari reads the verse through its timing. Allah took them across the sea, he says, after the signs He had shown them and the lessons they had witnessed at the hands of Musa, and still those signs did not restrain them and those lessons did not admonish them. They spoke as they did after seeing proofs which, in his words, ought to be remembered even by beasts. As-Sa'di makes the same point: this came after Allah had saved them from Pharaoh and his people and destroyed their enemy while they looked on.",
+            "bn": "তাবারী আয়াতটি পড়েন এর সময়ের আলোয়। তিনি বলেন, আল্লাহ তাদের সমুদ্র পার করালেন অনেক নিদর্শন দেখানোর পরে, মূসার হাতে অনেক শিক্ষা নিজের চোখে দেখার পরে। তবু সেসব নিদর্শন তাদের থামাতে পারেনি, সেসব শিক্ষা তাদের উপদেশ দিতে পারেনি। তাঁর ভাষায়, তারা যে প্রমাণ দেখেছিল তা দেখলে চতুষ্পদ জন্তুরও মনে থাকার কথা, তবু তারা এ কথা বলল। সা'দীও একই কথা বলেন: আল্লাহ তাদের ফেরাউন ও তার লোকদের হাত থেকে বাঁচিয়েছেন, শত্রুকে ধ্বংস করেছেন তাদের চোখের সামনে, আর এরপরই এল এ আবদার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Sat by Those Idols",
+          "bn": "প্রতিমার পাশে কারা ছিল"
+        },
+        "p": [
+          {
+            "en": "The Qur'an does not name the people they came upon, and the commentators pass on reports rather than a settled answer. At-Tabari relays from Qatada that they were from Lakhm, and al-Qurtubi and al-Baghawi carry Qatada's report with an addition: they were encamped at ar-Raqqa. At-Tabari records a second view, introduced with 'it was said', that they were among the Canaanites whom Musa (AS) was commanded to fight. Ibn Kathir names both, the Canaanites from some of the commentators and Lakhm as a further 'it was said'.",
+            "bn": "যাদের দেখা তারা পেল, কুরআন তাদের নাম বলে না। তাফসীরকারেরাও কোনো স্থির উত্তর দেন না, কেবল বর্ণনা পৌঁছে দেন। তাবারী কাতাদা থেকে বর্ণনা করেন, তারা ছিল লাখম গোত্রের। কুরতুবী ও বাগাভী কাতাদার বর্ণনাটি আনেন একটু বাড়িয়ে: তারা তাঁবু ফেলে ছিল রাক্কায়। তাবারী 'বলা হয়' দিয়ে আরেকটি মত লিখে রাখেন: তারা ছিল সেই কানআনীদের অংশ, যাদের বিরুদ্ধে লড়তে মূসা (আঃ)-কে আদেশ দেওয়া হয়েছিল। ইবন কাসীর দুটি মতই আনেন। কানআনীদের কথা কিছু তাফসীরকারের বরাতে, আর লাখমের কথা আরেকটি 'বলা হয়' হিসেবে।"
+          },
+          {
+            "en": "A more striking report concerns the idols themselves. Ibn Jurayj, as at-Tabari relays him, said they were statues of cows, and when as-Samiri's calf appeared it seemed to them one of those cows: that was the first beginning of the calf. Ibn Kathir carries it in a form that says this raised a doubt in them that surfaced later in their worship of the calf. Al-Qurtubi gives the cow-shaped idols only as 'it was said', and adds that this is why as-Samiri brought out a calf for them. None of it is stated in the verse itself, which needs none of it.",
+            "bn": "প্রতিমাগুলো নিয়ে আরও চোখে পড়ার মতো একটি বর্ণনা আছে। তাবারীর বর্ণনায় ইবন জুরাইজ বলেন, সেগুলো ছিল গরুর মূর্তি। পরে যখন সামিরীর বাছুর সামনে এল, তাদের মনে হলো এটাও বুঝি সেই গরুগুলোরই একটি। বাছুরের ঘটনার সূচনা সেখান থেকেই। ইবন কাসীরও বর্ণনাটি আনেন, আর তাঁর বর্ণনায় আছে, এ থেকে তাদের মনে এক সংশয় জন্মেছিল, যা পরে বাছুরপূজায় প্রকাশ পায়। কুরতুবী গরু-আকৃতির প্রতিমার কথা আনেন কেবল 'বলা হয়' হিসেবে, আর যোগ করেন, এ কারণেই সামিরী তাদের জন্য বাছুর বের করে এনেছিল। এর কিছুই আয়াতে বলা নেই, আর আয়াতের এর কোনোটির প্রয়োজনও নেই।"
+          },
+          {
+            "en": "What the verse gives is enough by itself: a people staying at their idols, and a people newly rescued who looked at them and wanted the same. If the reports about the cow statues are right, a later sin first took root on that shore, and 7:148 tells how the calf was made from their ornaments. If the reports are not right, the request still stands exactly as the verse records it, and so does the answer Musa (AS) gave to it.",
+            "bn": "আয়াত যা দেয়, তা নিজেই যথেষ্ট: এক জাতি প্রতিমার কাছে পড়ে আছে, আর সদ্য উদ্ধার পাওয়া আরেক জাতি তা দেখে নিজেরাও একই জিনিস চেয়ে বসেছে। গরুর মূর্তির বর্ণনা সঠিক হলে, পরের এক গুনাহর বীজ পোঁতা হয়েছিল ওই তীরেই। তাদের অলংকার থেকে বাছুর কীভাবে বানানো হলো, তা আছে ৭:১৪৮ আয়াতে। আর বর্ণনা সঠিক না হলেও আবদারটি আয়াতে যেমন আছে তেমনই থাকে, মূসা (আঃ)-এর দেওয়া জবাবও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lingering Beside a Statue",
+          "bn": "মূর্তির পাশে পড়ে থাকা"
+        },
+        "p": [
+          {
+            "en": "Ya'kufuna 'ala asnamin lahum: devoted to idols of theirs. Al-Qurtubi explains the verb: 'akafa means to stay at a thing and keep to it. He and al-Baghawi both record two readings, Hamza and al-Kisa'i with ya'kifuna and the other readers with ya'kufuna, and al-Baghawi calls them two dialect forms of one word. Al-Muyassar renders the clause as people who stay at and persist in the worship of their idols, and at-Tabari as people standing over images of theirs that they worship besides Allah.",
+            "bn": "ইয়া'কুফূনা 'আলা আসনামিল লাহুম: নিজেদের প্রতিমার প্রতি নিবেদিত। কুরতুবী ক্রিয়াটির অর্থ বলেন: 'আকাফা মানে কোনো কিছুর কাছে অবস্থান করা আর তা আঁকড়ে থাকা। তিনি ও বাগাভী দুজনেই দুটি কিরাআত উল্লেখ করেন। হামযা ও কিসাঈ পড়েন ইয়া'কিফূন, বাকিরা পড়েন ইয়া'কুফূন। বাগাভীর মতে এ দুটি একই শব্দের দুই আঞ্চলিক রূপ। মুয়াসসার বাক্যাংশটির অর্থ করে: যারা প্রতিমার কাছে অবস্থান করে আর নিয়মিত তাদের ইবাদতে লেগে থাকে। তাবারীর ব্যাখ্যায় তারা আল্লাহকে ছেড়ে নিজেদের মূর্তির সামনে দাঁড়িয়ে থাকত আর সেগুলোর উপাসনা করত।"
+          },
+          {
+            "en": "As-Sa'di breaks the devotion into three acts: they stayed by the idols, they sought blessing from them, and they worshipped them. He gives the three as one description. The first two can look harmless from outside, and someone who only lingers near an object and hopes for good from it may not think of himself as a worshipper at all. The gloss sets the lingering and the hoped-for blessing inside the same picture as the worship.",
+            "bn": "সা'দী এই নিবেদনকে ভাগ করেন তিনটি কাজে: তারা প্রতিমার কাছে অবস্থান করত, সেগুলো থেকে বরকত খুঁজত, আর সেগুলোর ইবাদত করত। তিনটিকে তিনি রাখেন একটিই বর্ণনার ভেতরে। প্রথম দুটি বাইরে থেকে নিরীহ মনে হতে পারে। যে কেবল কোনো জিনিসের আশপাশে ঘোরাফেরা করে আর তা থেকে ভালো কিছুর আশা রাখে, সে হয়তো নিজেকে উপাসক বলে ভাবেই না। অথচ সা'দীর ব্যাখ্যায় কাছে পড়ে থাকা আর বরকতের আশা, দুটোই ইবাদতের একই ছবির ভেতরে।"
+          },
+          {
+            "en": "The same verb returns elsewhere in the Qur'an. In 20:91, while Musa (AS) is away, his people say of the calf that they will not cease to be devoted to it until he returns. In 21:52 Ibrahim (AS) asks his people what these statues are to which they are devoted, and in 26:71 they answer that they worship idols and remain devoted to them. In 2:187 the same word describes believers staying in the mosques. The word itself is neutral. What decides it is what a person stays beside, and for whom.",
+            "bn": "একই ক্রিয়া কুরআনের অন্য জায়গাতেও ফিরে আসে। ২০:৯১ আয়াতে মূসা (আঃ) তখন দূরে, আর তাঁর লোকেরা বাছুর সম্পর্কে বলে, তিনি ফিরে না আসা পর্যন্ত তারা এর কাছ থেকে নড়বে না। ২১:৫২ আয়াতে ইবরাহীম (আঃ) নিজের জাতিকে জিজ্ঞেস করেন, এই মূর্তিগুলো কী, যাদের কাছে তোমরা পড়ে আছ? ২৬:৭১ আয়াতে তারা জবাব দেয়, আমরা প্রতিমার ইবাদত করি আর সারাক্ষণ সেগুলোর কাছেই লেগে থাকি। আবার ২:১৮৭ আয়াতে একই শব্দ এসেছে মসজিদে ই'তিকাফকারী মুমিনদের বেলায়। শব্দটা নিজে নিরপেক্ষ। আসল প্রশ্ন হলো, মানুষ কীসের পাশে পড়ে থাকে, আর কার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A God Within Sight",
+          "bn": "চোখের সামনে এক ইলাহ"
+        },
+        "p": [
+          {
+            "en": "What exactly did they ask for? At-Tabari's paraphrase is blunt: make for us an image that we worship and an idol that we take as a god, as these people have idols they worship, and he adds that worship befits nothing besides Allah, the One, the Subduer. Al-Muyassar says nearly the same. As-Sa'di reads the words as a request that Musa (AS) make it lawful for them to take idols as gods. Ma'arif al-Qur'an calls it the first impertinent request they made after the victory over Pharaoh.",
+            "bn": "ঠিক কী চেয়েছিল তারা? তাবারীর ব্যাখ্যা একেবারে সোজা: আমাদের জন্য এমন এক মূর্তি বানিয়ে দিন যার ইবাদত করব, এমন এক প্রতিমা যাকে ইলাহ বানিয়ে নেব, যেমন এই লোকদের প্রতিমা আছে আর তারা সেগুলোর ইবাদত করে। সঙ্গে তিনি যোগ করেন, এক ও প্রবল পরাক্রমশালী আল্লাহ ছাড়া আর কিছুই ইবাদতের যোগ্য নয়। মুয়াসসারও প্রায় একই কথা বলে। সা'দীর পাঠে এটি ছিল মূসা (আঃ)-এর কাছে অনুমতির আবদার: প্রতিমাকে ইলাহ বানানো আমাদের জন্য বৈধ করে দিন। মাআরিফুল কুরআন একে বলে ফেরাউনের উপর বিজয়ের পর তাদের প্রথম ধৃষ্ট আবদার।"
+          },
+          {
+            "en": "Al-Baghawi reads it differently. The request, he says, was not doubt on the part of the Children of Israel about the oneness of Allah. Its meaning was: make for us something we can venerate, and through venerating it draw near to Allah. They supposed this would not harm their religion, and it came, he says, from the severity of their ignorance. So the commentators part on the motive: open idolatry for at-Tabari, al-Muyassar and as-Sa'di, a visible means of nearness for al-Baghawi. Neither reading excuses them, and both meet the same reply.",
+            "bn": "বাগাভী পড়েন অন্যভাবে। তাঁর মতে এ আবদার আল্লাহর একত্ব নিয়ে বনী ইসরাঈলের কোনো সন্দেহ থেকে আসেনি। এর অর্থ ছিল: আমাদের এমন কিছু দিন যাকে আমরা সম্মান করব, আর সেই সম্মানের মাধ্যমে আল্লাহর নৈকট্য খুঁজব। তারা ভেবেছিল এতে দ্বীনের কোনো ক্ষতি হবে না। বাগাভী বলেন, এমন ভাবনা এসেছিল তাদের চরম অজ্ঞতা থেকে। কাজেই উদ্দেশ্য নিয়ে তাফসীরকারদের পথ আলাদা হয়ে যায়। তাবারী, মুয়াসসার ও সা'দীর কাছে এটি খোলাখুলি মূর্তিপূজা, আর বাগাভীর কাছে নৈকট্যের জন্য চোখে দেখা যায় এমন এক মাধ্যমের খোঁজ। কোনো পাঠই তাদের দায়মুক্ত করে না, আর দুই পাঠই একই জবাবের মুখোমুখি হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ignorant of His Greatness",
+          "bn": "তাঁর মহত্ত্ব না চেনা"
+        },
+        "p": [
+          {
+            "en": "Qala innakum qawmun tajhalun. The commentators agree on what the ignorance concerned, and their phrasings build on one another. Al-Baghawi and al-Muyassar say they were ignorant of the greatness of Allah. At-Tabari adds the right He is owed by them, and that they did not know worship is permitted to nothing besides Allah, to whom belongs the dominion of the heavens and the earth. Ibn Kathir adds His majesty and what He must be declared free of: any partner and any likeness.",
+            "bn": "কালা ইন্নাকুম কাওমুন তাজহালূন। অজ্ঞতাটা কী নিয়ে, সে ব্যাপারে তাফসীরকারেরা একমত, আর তাঁদের কথা একটার উপর আরেকটা গেঁথে ওঠে। বাগাভী ও মুয়াসসার বলেন, তারা আল্লাহর মহত্ত্ব সম্পর্কে অজ্ঞ ছিল। তাবারী যোগ করেন, তাদের উপর আল্লাহর যে হক, সেটাও তারা বুঝত না। তারা জানত না, আসমান ও যমীনের রাজত্ব যাঁর, সেই আল্লাহ ছাড়া আর কারও ইবাদত জায়েজ নয়। ইবন কাসীর যোগ করেন তাঁর জালাল, আর যা থেকে তাঁকে পবিত্র ঘোষণা করা জরুরি: যেকোনো শরীক আর যেকোনো সদৃশ।"
+          },
+          {
+            "en": "As-Sa'di turns the reply into a question. What ignorance, he asks, is greater than that of someone ignorant of his Lord and Creator, who wants to set beside Him something that owns no benefit and no harm, no death, no life and no raising? His list echoes 25:3, where the gods taken besides Allah own for themselves neither harm nor benefit, neither death nor life nor resurrection. On this reading the ignorance was not a lack of information. They had watched the sea open. It was a failure to know who Allah is.",
+            "bn": "সা'দী জবাবটিকে একটি প্রশ্নে রূপ দেন। যে নিজের রব ও স্রষ্টাকে চেনে না, আর তাঁর পাশে সমান করে দাঁড় করাতে চায় এমন কিছুকে, যার উপকার বা ক্ষতি করার, মৃত্যু, জীবন বা পুনরুত্থান ঘটানোর কোনো ক্ষমতা নেই, তার অজ্ঞতার চেয়ে বড় অজ্ঞতা আর কী? তাঁর এই তালিকা মনে করিয়ে দেয় ২৫:৩ আয়াত। সেখানে আল্লাহকে ছেড়ে ধরা ইলাহদের সম্পর্কে বলা হয়েছে, নিজেদের ক্ষতি বা উপকার, মৃত্যু, জীবন বা পুনরুত্থান, কিছুরই মালিক তারা নয়। এ পাঠে অজ্ঞতা মানে তথ্যের অভাব নয়। সমুদ্র ফাঁক হয়ে যেতে তারা নিজ চোখে দেখেছিল। অজ্ঞতা ছিল আল্লাহকে না চেনায়।"
+          },
+          {
+            "en": "Ibn Kathir opens his comment with a careful phrase: Allah tells of what the ignorant ones among the Children of Israel said to Musa (AS). He does not lay the request on every one of them. The verse reports it in the plural, qalu, they said, and records a request and a refusal. It does not count how many shared the request, and a reader has no need to count them either.",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শুরু করেন সতর্ক এক বাক্যে: বনী ইসরাঈলের মধ্যে যারা অজ্ঞ ছিল, তারা মূসা (আঃ)-কে যা বলেছিল, আল্লাহ তা জানাচ্ছেন। আবদারের দায় তিনি সবার ঘাড়ে চাপান না। আয়াত কথাটি এনেছে বহুবচনে, কালূ, তারা বলল। আয়াতে আছে একটি আবদার আর একটি প্রত্যাখ্যান। কতজন সেই আবদারে শরিক ছিল, তার হিসাব আয়াত দেয় না, আর পাঠকেরও সে হিসাব কষার দরকার নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Tree Called Dhat Anwat",
+          "bn": "যাতু আনওয়াত নামের গাছ"
+        },
+        "p": [
+          {
+            "en": "At-Tirmidhi links this verse to the Prophet's ﷺ life through Abu Waqid al-Laythi, whose report reads in the page's English: 'when the Messenger of Allah (s.a.w) went out to Hunain he passed a tree that the idolaters called Dhat Anwat upon which they hung their weapons. They (the Companions) said: \"O Messenger of Allah! Make a Dhat Anwat for us as they have a Dhat Anwat.\" The Prophet (s.a.w) said: \"Subhan Allah! This is like what Musa's people said: Make for us a god like their gods. By the One in Whose is my soul! You shall follow the way of those who were before you.\"'",
+            "bn": "একটি হাদীস এ আয়াতকে নবী ﷺ-এর জীবনের একটি দিনের সঙ্গে জুড়ে দেয়। তিরমিযী এটি বর্ণনা করেছেন আবূ ওয়াকিদ লাইসী (রাঃ) থেকে। পাতার ইংরেজি পাঠ অনুযায়ী: রাসূলুল্লাহ ﷺ যখন হুনাইনের দিকে বের হলেন, তখন এমন একটি গাছের পাশ দিয়ে গেলেন, মুশরিকরা যাকে বলত যাতু আনওয়াত, আর তাতে তারা নিজেদের অস্ত্র ঝুলিয়ে রাখত। সাহাবীরা বললেন: হে আল্লাহর রাসূল! ওদের যেমন যাতু আনওয়াত আছে, আমাদের জন্যও একটা যাতু আনওয়াত ঠিক করে দিন। নবী ﷺ বললেন: সুবহানাল্লাহ! এ তো মূসার জাতির সেই কথার মতো: ওদের যেমন ইলাহ আছে, আমাদের জন্যও তেমন ইলাহ বানিয়ে দিন। যাঁর হাতে আমার প্রাণ, তাঁর কসম! তোমরা অবশ্যই তোমাদের পূর্ববর্তীদের পথ অনুসরণ করবে।"
+          },
+          {
+            "en": "At-Tirmidhi grades it hasan sahih and gives Abu Waqid's name as al-Harith ibn 'Awf. One detail on the page should be noted: the English names the journey as the one to Hunain, while the Arabic on the same page reads Khaybar. At-Tabari gives the report through four chains, all from az-Zuhri as at-Tirmidhi's is, and those that name the destination give Hunayn; al-Qurtubi places it there too. In at-Tabari's wording the disbelievers stayed around their lote tree and hung their weapons on it, with ya'kufun, the very verb of our verse.",
+            "bn": "তিরমিযী হাদীসটিকে হাসান সহীহ বলেছেন, আর জানিয়েছেন আবূ ওয়াকিদের নাম হারিস ইবন আওফ। পাতার একটি বিষয় উল্লেখ করা দরকার: ইংরেজি অনুবাদে সফরটি হুনাইনের, অথচ একই পাতার আরবি পাঠে আছে খাইবার। তাবারী বর্ণনাটি এনেছেন চারটি সনদে, তিরমিযীর সনদের মতো সবগুলোই যুহরী থেকে। এর মধ্যে যেগুলোতে গন্তব্যের নাম আছে, সেগুলো বলে হুনাইন। কুরতুবীও ঘটনাটি হুনাইনের পথেই রাখেন। তাবারীর বর্ণনায় কাফেররা তাদের কুলগাছের চারপাশে পড়ে থাকত আর তাতে অস্ত্র ঝুলিয়ে রাখত। সেখানে ক্রিয়াটি ইয়া'কুফূন, ঠিক আমাদের আয়াতের ক্রিয়া।"
+          },
+          {
+            "en": "The force of the hadith lies in what the Prophet ﷺ heard in the request. The Companions asked for a tree like the idolaters' tree, a place to hang weapons, and he answered with this verse. The shape of the request was the same: make for us one, as they have one. Then the wording turns from that day to what lay ahead, with an oath that they would follow the way of those before them. The hadith carries the verse far beyond the shore of the sea.",
+            "bn": "হাদীসটির জোর এখানে: আবদারের ভেতরে নবী ﷺ কী শুনতে পেলেন। সাহাবীরা চেয়েছিলেন মুশরিকদের গাছের মতো একটা গাছ, অস্ত্র ঝুলিয়ে রাখার জায়গা। আর তিনি জবাব দিলেন এই আয়াত দিয়ে। কারণ আবদারের গড়ন ছিল একই: ওদের যেমন আছে, আমাদের জন্যও তেমন একটা করে দিন। এরপর বর্ণনাটি সেই দিন থেকে সরে যায় সামনের দিনগুলোর দিকে, কসম খেয়ে বলা এক কথায়: তারা অবশ্যই পূর্ববর্তীদের পথ অনুসরণ করবে। এভাবে হাদীসটি আয়াতকে নিয়ে যায় সাগরতীর ছাড়িয়ে অনেক দূরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Charge Against Anyone Living",
+          "bn": "জীবিত কারও বিরুদ্ধে রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes one people sitting at their idols and one request made to Musa (AS) by people who had just come out of the sea. It describes what the text describes, and it licenses nothing against any living person or community: not against Jews today, and not against any people whose worship differs from ours. The reader is handed no verdict to carry out on anyone. The passage's own judgement on the idol-worship comes in 7:139, from Musa (AS) himself.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এক জাতির বর্ণনা দেয়, যারা প্রতিমার কাছে বসে থাকত, আর সদ্য সমুদ্র পেরিয়ে আসা মানুষদের একটি আবদারের কথা বলে, যা তারা মূসা (আঃ)-এর কাছে করেছিল। আয়াত যা বর্ণনা করে, ততটুকুই বর্ণনা করে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। আজকের ইহুদিদের বিরুদ্ধে নয়, যাদের ইবাদতের ধরন আমাদের থেকে আলাদা তাদের বিরুদ্ধেও নয়। পাঠকের হাতে কারও উপর রায় কার্যকর করার ভার দেওয়া হয়নি। প্রতিমাপূজা নিয়ে এ অংশের নিজের রায় এসেছে ৭:১৩৯ আয়াতে, মূসা (আঃ)-এর নিজের মুখে।"
+          },
+          {
+            "en": "The hadith points the same way, inward. When the Prophet ﷺ cited this verse, it was to correct his own Companions on the road to a battle, and then to speak of what would come after them. Read in that light, the verse is a mirror held up to the Muslim reader. The danger it shows is not a shortage of signs, since these people had seen the sea split. It is the pull of what the people nearby are doing.",
+            "bn": "হাদীসটিও আঙুল তোলে একই দিকে, নিজের ভেতরের দিকে। নবী ﷺ যখন এ আয়াত উদ্ধৃত করলেন, তা ছিল যুদ্ধযাত্রার পথে নিজের সাহাবীদের শুধরে দিতে, তারপর তাদের পরে যা আসবে সে কথা বলতে। এ আলোয় পড়লে আয়াতটি মুসলিম পাঠকের সামনে ধরা এক আয়না। এখানে যে বিপদ দেখা যায়, তা নিদর্শনের অভাব নয়। এই মানুষেরা তো সমুদ্র দুভাগ হতে দেখেছিল। বিপদটা হলো আশপাশের মানুষ যা করে, তার টান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions on the Far Shore",
+          "bn": "ওপারে পৌঁছে কিছু প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Begin with the timing. Think of a mercy in your own life that you could never have arranged: a recovery, an escape, a burden lifted. How long afterwards did your eyes turn to what others had? The verse places the request directly after the crossing, and at-Tabari's hard phrase about proofs that even beasts would remember is spoken of them. The lesson is for us: a great rescue does not, by itself, keep a heart from copying.",
+            "bn": "শুরু করুন সময় দিয়ে। নিজের জীবনের এমন একটা রহমতের কথা ভাবুন, যা আপনি কখনো নিজে ঘটাতে পারতেন না: রোগ থেকে সেরে ওঠা, বিপদ থেকে বেঁচে যাওয়া, কোনো বোঝা নেমে যাওয়া। তারপর কতদিন পরে আপনার চোখ গিয়ে পড়ল অন্যের হাতে যা আছে তার উপর? আয়াত আবদারটিকে রেখেছে সমুদ্র পার হওয়ার ঠিক পরে। চতুষ্পদ জন্তুরও মনে থাকার মতো প্রমাণ নিয়ে তাবারীর কঠিন কথাটি বলা হয়েছিল তাদের সম্পর্কে। শিক্ষাটা অবশ্য আমাদের জন্য: বড় উদ্ধারও নিজে থেকে অন্তরকে নকলের টান থেকে বাঁচায় না।"
+          },
+          {
+            "en": "Then look at what you stay beside. As-Sa'di's three verbs, staying near, seeking blessing and worshipping, give a way to test it. Is there an object, a place, a custom or a person I return to and lean on, hoping it will bring me good in a way that belongs to Allah alone? Which practices have I taken on only because the people around me keep them? And when someone names my ignorance as plainly as Musa (AS) named theirs, do I hear the correction, or argue for the thing I wanted?",
+            "bn": "তারপর দেখুন, আপনি কীসের পাশে পড়ে থাকেন। সা'দীর তিনটি ক্রিয়া, কাছে অবস্থান করা, বরকত খোঁজা আর ইবাদত করা, তা যাচাইয়ের একটা উপায় দেয়। এমন কোনো জিনিস, জায়গা, রীতি বা মানুষ কি আছে, যার কাছে আমি বারবার ফিরে যাই আর ভরসা রাখি এমন কল্যাণের আশায়, যা দেওয়ার মালিক কেবল আল্লাহ? কোন আমলগুলো আমি ধরেছি শুধু এ কারণে যে আশপাশের লোকেরা তা করে? আর কেউ যখন মূসা (আঃ)-এর মতো এত সোজাসুজি আমার অজ্ঞতা ধরিয়ে দেয়, আমি কি সংশোধনটা শুনি, নাকি যা চেয়েছিলাম তার পক্ষে তর্ক জুড়ে দিই?"
+          }
+        ]
+      }
+    ]
+  },
   "7:141": {
     "sections": [
       {

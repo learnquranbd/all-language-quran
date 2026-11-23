@@ -31903,6 +31903,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Before you lean on anything for protection, ask whether it can protect itself; take the means as means, and turn first to the One who helps and needs no help.",
     "lessonBn": "নিরাপত্তার জন্য কোনো কিছুর উপর ভর দেওয়ার আগে দেখুন, সে নিজেকে রক্ষা করতে পারে কি না; উপায়কে উপায় হিসেবেই নিন, আর প্রথমে ফিরুন তাঁর দিকে, যিনি সাহায্য করেন অথচ নিজে সাহায্যের মুখাপেক্ষী নন।"
+  },
+  "7:138": {
+    "reflectionEn": "The sea has just closed over Pharaoh's army, and the people it spared walk out onto dry land. Almost at once they pass a people sitting by their idols, and they turn to Musa: make for us a god, just as they have gods. The rescue is still fresh, yet the pull of the neighbours is stronger. They want something they can see and stay beside, the way others have. His answer is short and softens nothing: you are a people behaving ignorantly. A great mercy does not by itself cure a heart of copying. What do I still borrow from the people around me, even in my worship? And how soon after Allah rescues me do I start asking for the wrong thing?",
+    "reflectionBn": "ফেরাউনের বাহিনীর উপর সবে সাগর বন্ধ হয়েছে, আর যাদের বাঁচানো হলো তারা উঠে এল শুকনো মাটিতে। প্রায় সঙ্গে সঙ্গে তারা এমন এক জাতির পাশ দিয়ে গেল, যারা নিজেদের প্রতিমার কাছে বসে থাকত। অমনি তারা মূসা (আঃ)-কে বলল: ওদের যেমন দেবতা আছে, আমাদের জন্যও তেমন এক ইলাহ বানিয়ে দিন। উদ্ধারের স্মৃতি তখনো তাজা, তবু প্রতিবেশীর টান ছিল বেশি জোরালো। তারা চাইছিল চোখে দেখা যায় এমন কিছু, যার পাশে বসে থাকা যায়, অন্যদের যেমন আছে। তাঁর জবাব ছোট, একটুও নরম নয়: তোমরা তো মূর্খের মতো আচরণ করছ। বড় রহমত পেলেই অন্তর অন্যকে নকল করার রোগ থেকে সেরে ওঠে না। ইবাদতেও আমি আশপাশের মানুষের কাছ থেকে কী ধার করে চলেছি? আর আল্লাহ আমাকে কোনো বিপদ থেকে বাঁচানোর কত পরে আমি আবার ভুল জিনিস চাইতে শুরু করি?",
+    "pointsEn": [
+      "What have I wanted lately mainly because the people around me already had it?",
+      "Think of the last time Allah got me out of something I could not fix. How long did the memory hold before my attention drifted elsewhere?",
+      "Is there an object, a place or a person I keep returning to and leaning on for good, in a way that belongs to Allah alone?",
+      "Which customs of my surroundings have quietly entered the way I worship, without my ever asking where they came from?",
+      "When someone names my ignorance as plainly as this, do I listen to the correction or start defending the thing I asked for?"
+    ],
+    "pointsBn": [
+      "ইদানীং এমন কী চেয়েছি, যা চাওয়ার আসল কারণ ছিল আশপাশের মানুষের হাতে সেটা আগে থেকেই আছে?",
+      "শেষবার আল্লাহ আমাকে এমন কিছু থেকে বের করে এনেছেন যা আমি নিজে সামলাতে পারতাম না, সেটা মনে করুন। সেই স্মৃতি কতদিন টিকেছিল, তারপর মন অন্যদিকে সরে গেল?",
+      "এমন কোনো জিনিস, জায়গা বা মানুষ কি আছে, কল্যাণের আশায় যার কাছে বারবার ফিরে যাই আর ভরসা রাখি এমনভাবে, যা শুধু আল্লাহর হক?",
+      "আশপাশের কোন রীতিগুলো চুপিচুপি আমার ইবাদতের ভেতরে ঢুকে পড়েছে, অথচ কোথা থেকে এল তা কখনো জিজ্ঞেস করিনি?",
+      "কেউ যখন এত সোজাসুজি আমার অজ্ঞতা ধরিয়ে দেয়, আমি কি সংশোধনটা শুনি, নাকি যা চেয়েছিলাম তার পক্ষে সাফাই গাইতে শুরু করি?"
+    ],
+    "lessonEn": "Having seen Allah rescue you is no guard against wanting what others worship; know Him well enough that nothing your neighbours hold looks like a god.",
+    "lessonBn": "আল্লাহর উদ্ধার নিজ চোখে দেখলেই অন্যরা যার উপাসনা করে তার প্রতি লোভ থেকে রক্ষা মেলে না। তাঁকে এমনভাবে চিনুন, যাতে প্রতিবেশীর হাতের কোনো কিছুই আপনার কাছে ইলাহ বলে মনে না হয়।"
   }
 };
 
