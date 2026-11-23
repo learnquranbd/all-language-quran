@@ -303,6 +303,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "Kayfa Without an Answer",
+          "bn": "উত্তর চায় না যে কাইফা"
+        },
+        "p": [
+          {
+            "en": "Kayfa yakunu lil-mushrikina 'ahdun 'inda Allahi wa-'inda rasulihi: how can there be, for the idolaters, a treaty in the sight of Allah and with His Messenger? The sentence is shaped as a question, and the commentators agree it is not asking for information. Al-Qurtubi says kayfa here expresses astonishment, and gives an everyday parallel: how could so-and-so get ahead of me, meaning he ought not to. Al-Baghawi says it comes in the manner of wonder and its meaning is denial: they will have no covenant with Allah or with His Messenger while they betray and break covenants.",
+            "bn": "কাইফা ইয়াকূনু লিল-মুশরিকীনা আহদুন ইনদাল্লাহি ওয়া ইনদা রসূলিহি: আল্লাহর কাছে ও তাঁর রসূলের কাছে মুশরিকদের চুক্তি থাকবে কী করে? বাক্যটা প্রশ্নের আকারে, তবে তাফসীরকারেরা একমত যে এখানে কিছু জানতে চাওয়া হচ্ছে না। কুরতুবী বলেন, এখানে কাইফা বিস্ময় প্রকাশ করছে। উদাহরণও দেন রোজকার কথা থেকে: অমুক আমাকে টপকে যাবে কী করে? মানে, তার টপকে যাওয়া উচিত নয়। বাগাভীর ব্যাখ্যাও তাই। বিস্ময়ের ঢঙে বলা, কিন্তু অর্থ অস্বীকার। তারা যখন বিশ্বাসঘাতকতা করে আর চুক্তি ভাঙে, তখন আল্লাহ বা তাঁর রসূলের কাছে তাদের কোনো চুক্তি থাকবে না।"
+          },
+          {
+            "en": "At-Tabari opens the question out. In what way, and in what sense, could people who associate partners with their Lord have a covenant and a pledge of protection with Allah and with His Messenger, honoured for them, under which they are left to move about the land in safety? The Muyassar compresses it to one line: it is not fitting that the idolaters should have a covenant with Allah and His Messenger. In all four the question is a way of saying no, and the rest of the verse is about whom that no does not reach.",
+            "bn": "তাবারী প্রশ্নটাকে খুলে বলেন। যারা নিজেদের রবের সঙ্গে শরিক করে, তাদের জন্য আল্লাহ ও তাঁর রসূলের কাছে এমন চুক্তি ও নিরাপত্তার অঙ্গীকার কীভাবে, কোন অর্থে থাকতে পারে, যা তাদের জন্য পালন করা হবে আর যার জোরে তারা নিশ্চিন্তে দেশময় চলাফেরা করবে? মুয়াসসার পুরো কথাটা এক লাইনে বলে: আল্লাহ ও তাঁর রসূলের কাছে মুশরিকদের চুক্তি থাকা সমীচীন নয়। চারজনের কাছেই প্রশ্নটা আসলে না বলার একটা ধরন। আর আয়াতের বাকি অংশ জানায়, এই না কাদের পর্যন্ত পৌঁছায় না।"
+          },
+          {
+            "en": "Al-Qurtubi adds two more ways of hearing it. From az-Zajjaj he takes an ellipsis: how can they have a covenant while keeping treachery hidden, the clause left unsaid and understood. And, as something that was said: how could they have a covenant with Allah that keeps them safe from His punishment tomorrow, or one with His Messenger that keeps them safe from punishment in this world?",
+            "bn": "কুরতুবী আরও দুইভাবে কথাটা বোঝার উল্লেখ করেন। যাজ্জাজ থেকে নেন একটা উহ্য অংশের কথা: মনে বিশ্বাসঘাতকতা লুকিয়ে রেখে তারা চুক্তি পায় কী করে? অংশটা মুখে বলা হয়নি, বুঝে নিতে হয়। আর 'বলা হয়েছে' কথাটি দিয়ে আনেন আরেকটা পাঠ। আল্লাহর কাছে তাদের এমন চুক্তি থাকবে কী করে, যা তাদের কাল তাঁর শাস্তি থেকে বাঁচাবে? আর রসূলের কাছেই বা এমন চুক্তি থাকবে কী করে, যা দুনিয়ার শাস্তি থেকে বাঁচাবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reason Behind the Severance",
+          "bn": "সম্পর্কচ্ছেদের পেছনের যুক্তি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di and Ibn Kathir both read the verse as the explanation of what came before it. As-Sa'di calls it a statement of the wisdom that required Allah and His Messenger to disown the idolaters, and he answers the question with questions of his own. Did they fulfil the duty of faith, or leave the Messenger and the believers free of their harm? Did they not fight the truth and support falsehood? Did they not strive in the land to spread corruption? So, he concludes, it is their due that Allah should disown them.",
+            "bn": "সা'দী ও ইবন কাসীর দুজনেই আয়াতটাকে আগের আয়াতগুলোর ব্যাখ্যা হিসেবে পড়েন। সা'দীর ভাষায়, আল্লাহ ও তাঁর রসূল কেন মুশরিকদের সঙ্গে সম্পর্ক ছিন্ন করলেন, এখানে তারই হিকমত বলা হচ্ছে। প্রশ্নের জবাব তিনি দেন পাল্টা প্রশ্ন দিয়ে। তারা কি ঈমানের দাবি পূরণ করেছে? নাকি রসূল আর মুমিনদের কষ্ট দেওয়া ছেড়েছে? তারা কি সত্যের বিরুদ্ধে লড়েনি, মিথ্যার পক্ষ নেয়নি? দুনিয়ায় ফাসাদ ছড়াতে ছোটাছুটি করেনি? তাঁর সিদ্ধান্ত: কাজেই আল্লাহ তাদের সঙ্গে সম্পর্ক ছিন্ন করবেন, এটাই তাদের প্রাপ্য।"
+          },
+          {
+            "en": "Ibn Kathir frames it the same way: Allah here makes clear His wisdom in the disavowal and in granting them four months of respite. Read like this, 9:7 is a hinge. Verses 9:1 to 9:6 announced the severance and its terms; this one gives the reason in the form of a question, and 9:8 continues with a second kayfa about what such people do once they gain the upper hand.",
+            "bn": "ইবন কাসীরও একইভাবে দেখেন। তাঁর মতে আল্লাহ এখানে সম্পর্কচ্ছেদের হিকমত আর ৪ মাস অবকাশ দেওয়ার কারণ পরিষ্কার করছেন। এভাবে পড়লে ৯:৭ যেন দরজার কব্জা। ৯:১ থেকে ৯:৬ আয়াতে সম্পর্কচ্ছেদ আর তার শর্তগুলো ঘোষিত হয়েছে। এই আয়াত প্রশ্নের আকারে তার কারণ জানায়। আর ৯:৮ আরেকটা কাইফা দিয়ে কথা এগিয়ে নেয়: এরা হাতে ক্ষমতা পেলে কী করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Were the Excepted?",
+          "bn": "ব্যতিক্রম পেল কারা"
+        },
+        "p": [
+          {
+            "en": "Who were those with whom you made a treaty at al-Masjid al-Haram? At-Tabari says the people of interpretation differed. As-Suddi said they were Banu Jadhima ibn ad-Du'il, and Muhammad ibn 'Abbad ibn Ja'far said Jadhima of Bakr of Kinanah. Ibn Ishaq gave the fullest account: they were the tribes of Banu Bakr who had entered into the pact of Quraysh on the day of al-Hudaybiyah, for the term agreed between the Messenger of Allah ﷺ and Quraysh. Only this clan of Quraysh and Banu ad-Du'il of Bakr broke it, so the order was to complete the term for the Bakr clans who had not.",
+            "bn": "মসজিদুল হারামের কাছে যাদের সঙ্গে চুক্তি হয়েছিল, তারা কারা? তাবারী জানান, তাফসীরকারদের মধ্যে এ নিয়ে মতভেদ আছে। সুদ্দীর মতে তারা বনু জাযীমা ইবনুদ দুআইল। মুহাম্মাদ ইবন আব্বাদ ইবন জাফর বলেছেন, কিনানার বকর গোত্রের জাযীমা। সবচেয়ে পূর্ণ বিবরণ দেন ইবন ইসহাক। হুদায়বিয়ার দিন রসূলুল্লাহ ﷺ আর কুরাইশের মধ্যে যে মেয়াদি চুক্তি হয়, বনু বকরের কয়েকটা গোত্র কুরাইশের পক্ষ হয়ে তাতে ঢুকেছিল। চুক্তি ভেঙেছিল কেবল কুরাইশের এই গোষ্ঠী আর বকরের বনুদ দুআইল। তাই বকরের যে গোত্রগুলো ভাঙেনি, তাদের সঙ্গে মেয়াদ পূর্ণ করার হুকুম হলো।"
+          },
+          {
+            "en": "Others said they were Quraysh. At-Tabari gives this from Ibn 'Abbas (RA) through Ibn Jurayj, and through another chain from him as the people of Makkah. Ibn Zayd said these were Quraysh, and that the months set for them superseded this. After the conquest, he says, they were given four months to choose: accept Islam or go to whatever land they wished, and they accepted Islam before the four months were out. Qatadah tied the phrase to the day of al-Hudaybiyah and said they broke the pact by helping Banu Bakr, allies of Quraysh, against Khuza'ah, allies of the Prophet ﷺ.",
+            "bn": "আরেক দল বলেছেন, তারা কুরাইশ। তাবারী এ মত আনেন ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ) থেকে। আরেক সূত্রে ইবন আব্বাস (রাঃ) থেকে আসে: মক্কাবাসী। ইবন যায়দ বলেছেন, এরা কুরাইশ। তাদের জন্য যে মাসগুলো বেঁধে দেওয়া হয়েছিল, সেগুলো এই হুকুমকে রহিত করেছে। তাঁর বর্ণনায়, মক্কা বিজয়ের পর তাদের ৪ মাস সময় দেওয়া হয়: হয় ইসলাম গ্রহণ, নয়তো যে দেশে খুশি চলে যাওয়া। সেই সময় ফুরানোর আগেই তারা মুসলমান হয়ে যায়। কাতাদা কথাটা হুদায়বিয়ার দিনের সঙ্গে জোড়েন। তাঁর মতে তারা চুক্তি ভেঙেছিল কুরাইশের মিত্র বনু বকরকে নবী ﷺ-এর মিত্র খুযাআর বিরুদ্ধে সাহায্য করে।"
+          },
+          {
+            "en": "A third view named Khuza'ah: at-Tabari relays from Mujahid, through Ibn Jurayj, that they were the people of the pact from Khuza'ah. So the excepted party is identified as clans of Bakr of Kinanah, as Quraysh or the people of Makkah, and as Khuza'ah. These cannot all be right at once, and the commentators did not leave the question there.",
+            "bn": "তৃতীয় মত খুযাআর নাম নেয়। তাবারী ইবন জুরাইজের সূত্রে মুজাহিদ থেকে বর্ণনা করেন, এরা খুযাআর চুক্তিবদ্ধ লোকেরা। তাহলে ব্যতিক্রম পাওয়া পক্ষের পরিচয় মিলছে তিন রকম: কিনানার বকর গোত্রের কয়েকটা শাখা, কুরাইশ বা মক্কাবাসী, আর খুযাআ। সবগুলো একসঙ্গে ঠিক হতে পারে না, আর তাফসীরকারেরাও প্রশ্নটা এখানে ফেলে রাখেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighing It by the Year",
+          "bn": "সাল দেখে মীমাংসা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own preference is that they were some of Banu Bakr of Kinanah who stayed by their pact and had no part in breaking the Hudaybiyah agreement, when Quraysh broke it by helping their allies of Banu ad-Du'il against the allies of the Messenger ﷺ from Khuza'ah. His reason is a date. 'Ali (RA) proclaimed these verses in the ninth year of the Hijrah, a year after the conquest, and on that day no unbeliever of Quraysh or Khuza'ah in Makkah held a pact that could be ordered kept. Whoever of them lived there had broken it and been fought before these verses came down.",
+            "bn": "তাবারী নিজের পছন্দের মত জানান। তাঁর বিচারে সবচেয়ে সঠিক কথা হলো, এরা কিনানার বনু বকরের কিছু লোক, যারা নিজেদের চুক্তিতে অটল ছিল। কুরাইশ যখন নিজেদের মিত্র বনুদ দুআইলকে রসূল ﷺ-এর মিত্র খুযাআর বিরুদ্ধে সাহায্য করে হুদায়বিয়ার চুক্তি ভাঙল, এরা সেই ভাঙায় শরিক হয়নি। তাঁর যুক্তি একটা তারিখ। এ আয়াতগুলো আলী (রাঃ) ঘোষণা করেছিলেন হিজরতের নবম বছরে, মক্কা বিজয়ের এক বছর পর। সেদিন মক্কায় কুরাইশ বা খুযাআর এমন কোনো কাফির ছিল না, যার চুক্তি তখনো বহাল আর যা রক্ষার হুকুম দেওয়া যায়। মক্কার বাসিন্দাদের মধ্যে যারা চুক্তিতে ছিল, তারা এ আয়াত নাজিলের আগেই তা ভেঙেছিল, আর তাদের সঙ্গে লড়াইও হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "Al-Baghawi reaches the same place. After reporting Ibn 'Abbas (RA) for Quraysh and Qatadah for the Makkans of al-Hudaybiyah, he gives the view of as-Suddi, al-Kalbi and Ibn Ishaq: clans of Bakr, namely Banu Khuzaymah, Banu Mudlij, Banu Damrah and Banu ad-Du'il, who had entered Quraysh's pact. Only Quraysh and Banu ad-Du'il broke it, so the order was for those who had not, Banu Damrah. He calls this nearer the truth: the verses came after the breach and the conquest, so how would they say of something already past, as long as they are upright toward you?",
+            "bn": "বাগাভীও একই জায়গায় পৌঁছান। কুরাইশের পক্ষে ইবন আব্বাস (রাঃ) আর হুদায়বিয়ার মক্কাবাসীর পক্ষে কাতাদার মত উল্লেখ করে তিনি আনেন সুদ্দী, কালবী ও ইবন ইসহাকের মত। এরা বকরের কয়েকটা গোত্র: বনু খুযাইমা, বনু মুদলিজ, বনু দামরা আর বনুদ দুআইল, যারা কুরাইশের চুক্তিতে ঢুকেছিল। ভেঙেছিল কেবল কুরাইশ আর বনুদ দুআইল। তাই হুকুম তাদের জন্য, যারা ভাঙেনি, অর্থাৎ বনু দামরা। তাঁর মতে এটাই সঠিকের বেশি কাছাকাছি। আয়াতগুলো তো এসেছে চুক্তিভঙ্গ আর মক্কা বিজয়ের পরে। তাহলে যা আগেই চুকে গেছে, তার ব্যাপারে কেন বলা হবে, যতদিন তারা তোমাদের সঙ্গে সোজা থাকে?"
+          },
+          {
+            "en": "He then ties the exception to 9:4. These are the ones who did not fall short toward you, as Quraysh did, and did not back anyone against you, as Quraysh backed Banu Bakr against Khuza'ah, the allies of the Messenger ﷺ. On this reading the two verses describe one group twice, once by what they did not do and once by where the pact was made.",
+            "bn": "এরপর তিনি এই ব্যতিক্রমকে ৯:৪-এর সঙ্গে জুড়ে দেন। এরাই তারা, যারা তোমাদের প্রতি কোনো ত্রুটি করেনি, যেমন কুরাইশ করেছিল। তোমাদের বিরুদ্ধে কাউকে মদদও দেয়নি, যেমন কুরাইশ রসূল ﷺ-এর মিত্র খুযাআর বিরুদ্ধে বনু বকরকে মদদ দিয়েছিল। এই পাঠে দুই আয়াত একই দলকে দুবার চেনায়: একবার তারা কী করেনি তা দিয়ে, আরেকবার চুক্তিটা কোথায় হয়েছিল তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibn Kathir Reads al-Hudaybiyah",
+          "bn": "ইবন কাসীরের চোখে হুদায়বিয়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the phrase differently. Those with whom you made a treaty at al-Masjid al-Haram, he says, means the day of al-Hudaybiyah, and he cites 48:25, which describes those who disbelieved and barred the believers from al-Masjid al-Haram. As long as they are upright toward you means, for him, as long as they hold to what you agreed with them, the abandonment of war between you for ten years. The Messenger of Allah ﷺ and the Muslims did exactly that, he says. The truce with the people of Makkah held from Dhu al-Qa'dah of the sixth year until Quraysh broke it.",
+            "bn": "ইবন কাসীর কথাটা অন্যভাবে পড়েন। তাঁর মতে মসজিদুল হারামের কাছে চুক্তির মানে হুদায়বিয়ার দিন। প্রমাণ হিসেবে আনেন ৪৮:২৫, যেখানে বলা হয়েছে, এরাই কুফরি করেছিল আর মুমিনদের মসজিদুল হারাম থেকে আটকে দিয়েছিল। যতদিন তারা সোজা থাকে, এর অর্থ তাঁর কাছে: তোমাদের সঙ্গে যে কথা হয়েছিল, ১০ বছর পরস্পর যুদ্ধ না করার সেই শর্ত তারা যতদিন ধরে রাখে। তিনি বলেন, রসূলুল্লাহ ﷺ আর মুসলমানরা ঠিক তা-ই করেছিলেন। ষষ্ঠ হিজরির জিলকদ মাস থেকে মক্কাবাসীর সঙ্গে সন্ধি বহাল ছিল, যতদিন না কুরাইশ নিজেই তা ভাঙল।"
+          },
+          {
+            "en": "Quraysh, he writes, joined with their allies Banu Bakr against Khuza'ah, the allies of the Messenger ﷺ, and killed them with them, inside the Haram as well. The Messenger ﷺ marched on them in Ramadan of the eighth year and Allah opened the Sacred City to him. Those who accepted Islam after being overcome were set free and were called the tulaqa', close to two thousand. Those who stayed in disbelief and fled were sent a guarantee of safety and leave to travel the land for four months, among them Safwan ibn Umayyah and 'Ikrimah ibn Abi Jahl, and Allah later guided them to Islam.",
+            "bn": "তাঁর বর্ণনায়, কুরাইশ নিজেদের মিত্র বনু বকরের সঙ্গে মিলে রসূল ﷺ-এর মিত্র খুযাআর বিরুদ্ধে দাঁড়ায়, আর তাদের সঙ্গে মিলে খুযাআর লোকদের হত্যা করে, এমনকি হারামের ভেতরেও। অষ্টম হিজরির রমজানে রসূল ﷺ তাদের বিরুদ্ধে অভিযানে বের হন, আর আল্লাহ পবিত্র নগরী তাঁর জন্য খুলে দেন। পরাজয়ের পর যারা ইসলাম গ্রহণ করল, তাদের ছেড়ে দেওয়া হলো। তাদের বলা হতো তুলাকা, সংখ্যায় প্রায় দুই হাজার। আর যারা কুফরিতে থেকে পালিয়ে গেল, তাদের কাছে নিরাপত্তার নিশ্চয়তা পাঠানো হলো, সঙ্গে ৪ মাস দেশময় চলাফেরার অনুমতি। তাদের মধ্যে ছিলেন সাফওয়ান ইবন উমাইয়া আর ইকরিমা ইবন আবী জাহল। পরে আল্লাহ তাঁদের ইসলামের পথ দেখান।"
+          },
+          {
+            "en": "So the difference is real, and it is stated here as such. Ibn Kathir reads the verse as an order about the Hudaybiyah truce with Makkah, kept by the Muslims until Quraysh broke it. At-Tabari and al-Baghawi hold that the truce was over by the time the verses were proclaimed, so the order concerns the Bakr clans still keeping faith. Al-Qurtubi relays Ibn Ishaq's Banu Bakr and Ibn Zayd's Quraysh without choosing between them.",
+            "bn": "কাজেই মতভেদটা সত্যিকারের, আর এখানে সেটাকে মতভেদ হিসেবেই রাখা হলো। ইবন কাসীর আয়াতটাকে পড়েন মক্কাবাসীর সঙ্গে হুদায়বিয়ার সন্ধি নিয়ে হুকুম হিসেবে, যা মুসলমানরা মেনেছিলেন কুরাইশ ভাঙার আগ পর্যন্ত। তাবারী ও বাগাভীর মতে আয়াতগুলো ঘোষণার সময় সেই সন্ধি আর ছিল না। তাই হুকুমটা বকরের সেই গোত্রগুলোর জন্য, যারা তখনো কথা রাখছিল। কুরতুবী ইবন ইসহাকের বনু বকর আর ইবন যায়দের কুরাইশ, দুটো মতই আনেন, কোনোটা বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As Long as They Stay True",
+          "bn": "যতদিন তারা সোজা থাকে"
+        },
+        "p": [
+          {
+            "en": "Fa-ma staqamu lakum fa-staqimu lahum: so as long as they are upright toward you, be upright toward them. Al-Qurtubi and the Muyassar gloss it in the same words: as long as they remain faithful to your pact, remain for them on the like of it. At-Tabari says Allah commanded the believers to fulfil the pact and keep straight with them on it for as long as they kept straight with the believers. The verse uses one verb for both sides, so the believers are measured with the same word as the other party.",
+            "bn": "ফামাসতাকামূ লাকুম ফাসতাকীমূ লাহুম: যতদিন তারা তোমাদের সঙ্গে সোজা থাকে, তোমরাও তাদের সঙ্গে সোজা থাকো। কুরতুবী আর মুয়াসসার একই ভাষায় ব্যাখ্যা দেন: তারা যতদিন তোমাদের চুক্তি পালনে অটল থাকে, তোমরাও তাদের জন্য তেমনই অটল থাকো। তাবারী বলেন, আল্লাহ মুমিনদের হুকুম দিয়েছেন চুক্তি পূর্ণ করতে আর তাতে সোজা থাকতে, যতদিন ওরা মুমিনদের সঙ্গে সোজা থাকে। দুই পক্ষের জন্য আয়াত একই ক্রিয়া ব্যবহার করেছে। মুমিনদের মাপা হচ্ছে সেই শব্দেই, যে শব্দে মাপা হচ্ছে অন্য পক্ষকে।"
+          },
+          {
+            "en": "As-Sa'di adds weight from the place: those who made a pact with you at al-Masjid al-Haram hold, in the pact and especially in that excellent place, a sanctity that must be observed. Ma'arif al-Qur'an draws the wider lesson. Most of the Makkans had broken their pledge, it notes, and in such a setting people tend to accuse everyone alike. The Qur'an exempted those who had not, and others' breach of trust should in no case lead Muslims to break the pledge given to these.",
+            "bn": "সা'দী জায়গার কথা তুলে গুরুত্ব আরও বাড়ান। মসজিদুল হারামের কাছে যারা তোমাদের সঙ্গে চুক্তি করেছে, সেই চুক্তির একটা মর্যাদা আছে, বিশেষ করে এমন ফজিলতের জায়গায় হওয়ায়। সেই মর্যাদা রক্ষা করা জরুরি। মাআরিফুল কুরআন এখান থেকে বড় শিক্ষা টানে। মক্কাবাসীর বেশির ভাগই কথা ভেঙেছিল। এমন অবস্থায় মানুষ সবাইকে এক পাল্লায় তুলে দোষ দিতে চায়। কুরআন কিন্তু যারা ভাঙেনি তাদের আলাদা করে রেখেছে। অন্যদের বিশ্বাসভঙ্গ যেন কোনোভাবেই মুসলমানদের এদের দেওয়া কথা ভাঙার দিকে না ঠেলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loved for Keeping One's Word",
+          "bn": "কথা রাখলে আল্লাহর ভালোবাসা"
+        },
+        "p": [
+          {
+            "en": "Inna Allaha yuhibbu al-muttaqin: indeed Allah loves those who fear Him. The same words close 9:4, the other exception. At-Tabari explains them here: Allah loves whoever fears Him and keeps Him in view in performing what He made obligatory, in fulfilling his pact to whomever he made it with, in avoiding disobedience, and in abandoning treachery toward those he has a pact with. The Muyassar names the muttaqin of this verse simply as those who fulfil their covenants.",
+            "bn": "ইন্নাল্লাহা ইউহিব্বুল মুত্তাকীন: নিশ্চয়ই আল্লাহ মুত্তাকীদের ভালোবাসেন। হুবহু এই কথা দিয়েই শেষ হয়েছে ৯:৪, যেখানে প্রথম ব্যতিক্রমটা এসেছে। তাবারী এখানে এর ব্যাখ্যা দেন। আল্লাহ তাকে ভালোবাসেন, যে তাঁকে ভয় করে, ফরজ আদায়ে তাঁকে চোখের সামনে রাখে, যার সঙ্গে চুক্তি করেছে তার সঙ্গে চুক্তি পূর্ণ করে, গুনাহ থেকে দূরে থাকে, আর চুক্তিবদ্ধ পক্ষের সঙ্গে বিশ্বাসঘাতকতা ছেড়ে দেয়। মুয়াসসার আরও সংক্ষেপে বলে: এ আয়াতের মুত্তাকী তারা, যারা নিজেদের অঙ্গীকার পূর্ণ করে।"
+          },
+          {
+            "en": "None of the tafsirs read for this verse attaches a hadith to it. A narration on the subject, not tied to this verse, is in at-Tirmidhi (1580). Mu'awiyah had a treaty with the Byzantines and was moving into their lands to raid them once it expired, when 'Amr ibn 'Abasah (RA) called out, faithfulness, not treachery, and said he heard the Messenger of Allah ﷺ say: Whoever has a treaty between himself and a people, let him not untie a pact nor tighten it until its term has passed, or he throws it back to them on equal terms. Mu'awiyah turned back. At-Tirmidhi grades it hasan sahih.",
+            "bn": "এ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস জোড়েনি। একই বিষয়ে একটা বর্ণনা আছে তিরমিযীতে (১৫৮০), তবে তা এ আয়াতের সঙ্গে যুক্ত নয়। রোমানদের সঙ্গে মুআবিয়ার চুক্তি ছিল। মেয়াদ ফুরালেই হামলা করবেন, এই ভেবে তিনি তাদের এলাকার দিকে এগোচ্ছিলেন। তখন আমর ইবন আবাসা (রাঃ) আওয়াজ দিলেন: কথা রাখতে হবে, বিশ্বাসঘাতকতা নয়। তিনি জানালেন, রসূলুল্লাহ ﷺ-কে বলতে শুনেছেন: যার সঙ্গে কোনো সম্প্রদায়ের চুক্তি আছে, সে যেন মেয়াদ শেষ না হওয়া পর্যন্ত চুক্তির গিঁট না খোলে, শক্তও না করে, অথবা সমান সমানভাবে জানিয়ে দিয়ে চুক্তি তাদের দিকে ফিরিয়ে দেয়। মুআবিয়া ফিরে গেলেন। তিরমিযী হাদীসটিকে হাসান সহীহ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bound to One Year and Place",
+          "bn": "এক সময়, এক জায়গার কথা"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. The verse belongs to one declaration in one year, about particular parties to particular pacts, and every commentator read here ties it to al-Hudaybiyah, to the clans of Bakr, to Quraysh or to Khuza'ah. It describes what the text describes. It licenses nothing against any living person or community, and this article draws from it no present-day ruling on war, treaties or anything else.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটা একটা নির্দিষ্ট বছরের একটা ঘোষণার অংশ, নির্দিষ্ট কিছু চুক্তির নির্দিষ্ট পক্ষদের নিয়ে। এখানে যাঁদের তাফসীর পড়া হলো, তাঁরা প্রত্যেকে একে বেঁধেছেন হুদায়বিয়া, বকরের গোত্রগুলো, কুরাইশ বা খুযাআর সঙ্গে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। যুদ্ধ, চুক্তি বা অন্য কোনো বিষয়ে আজকের দিনের কোনো বিধানও এই লেখা এখান থেকে টানছে না।"
+          },
+          {
+            "en": "What a reader can carry from it is smaller and closer to home. Even in the middle of a severance, the verse does not let the breach of the many dissolve the pledge to the few who kept theirs. A contract with a colleague you distrust, a promise to a relative whose family has wronged you, a deal with someone from a group that has let you down: keep the terms while they keep theirs, and if it must end, end it openly.",
+            "bn": "পাঠক এখান থেকে যা নিতে পারেন, তা ছোট আর নিজের জীবনের কাছের। সম্পর্কচ্ছেদের ঘোষণার মাঝখানেও আয়াত অনেকের চুক্তিভঙ্গের দায়ে সেই অল্প কয়জনের সঙ্গে দেওয়া কথা বাতিল হতে দেয়নি, যারা নিজেদের কথা রেখেছিল। অফিসের যে সহকর্মীকে আপনি বিশ্বাস করেন না, তার সঙ্গে চুক্তি। এমন আত্মীয়কে দেওয়া কথা, যার পরিবার আপনার সঙ্গে অন্যায় করেছে। এমন দলের কারও সঙ্গে লেনদেন, যারা আগে আপনাকে ঠকিয়েছে। ওরা যতদিন শর্ত মানে, আপনিও মানুন। শেষ করতেই হলে খোলাখুলি জানিয়ে শেষ করুন।"
+          }
+        ]
+      }
+    ]
+  },
   "9:11-12": {
     "sections": [
       {

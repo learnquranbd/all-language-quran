@@ -32183,6 +32183,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Watch what you add to the people you stand with, and refuse to be the ear through which a rumour or a discouraging word spreads among them.",
     "lessonBn": "যাদের পাশে দাঁড়ান, তাদের মধ্যে আপনি কী যোগ করছেন খেয়াল রাখুন। গুজব বা মন ভাঙানো কথা যে কান দিয়ে ছড়ায়, সেই কান হতে রাজি হবেন না।"
+  },
+  "9:7": {
+    "reflectionEn": "A declaration of severance has just been made, and in the middle of it comes a question: how could the idolaters hold a treaty with Allah and with His Messenger? Then, at once, an exception. Some of them made a pact with you at the Sacred Mosque, and the order about them is short: as long as they stay straight with you, stay straight with them. The breach of others does not cancel the word given to these. The verse closes by naming whom Allah loves, those who fear Him, and keeping a promise is part of that fear. Keeping faith with people I trust is easy. The real test is the person I dislike who has kept every term. Do I keep mine?",
+    "reflectionBn": "সম্পর্কচ্ছেদের ঘোষণা সবে দেওয়া হয়েছে। তার মাঝখানে একটা প্রশ্ন: আল্লাহ ও তাঁর রসূলের কাছে মুশরিকদের চুক্তি টিকে থাকবে কী করে? পরক্ষণেই একটা ব্যতিক্রম। তাদের কিছু লোক মসজিদুল হারামের কাছে আপনাদের সঙ্গে চুক্তি করেছিল, আর তাদের ব্যাপারে হুকুম ছোট্ট: যতদিন তারা আপনাদের সঙ্গে সোজা থাকে, আপনারাও তাদের সঙ্গে সোজা থাকুন। অন্যরা চুক্তি ভেঙেছে বলে এদের দেওয়া কথা বাতিল হয়ে যায় না। আয়াতের শেষে বলা হয়েছে আল্লাহ কাদের ভালোবাসেন: যারা তাঁকে ভয় করে। কথা রাখা সেই ভয়েরই অংশ। যাকে বিশ্বাস করি, তার সঙ্গে কথা রাখা সহজ। আসল পরীক্ষা সেই মানুষটা, যাকে আমি পছন্দ করি না, অথচ সে প্রতিটা শর্ত মেনে চলেছে। আমি কি আমারটা মানি?",
+    "pointsEn": [
+      "Is there someone I dislike who has kept every promise made to me, and have I kept mine to them just as carefully?",
+      "When one person from a group wrongs me, do I end up holding the whole group to account for it?",
+      "Which of my agreements have I been quietly loosening, hoping the other side will not notice?",
+      "Does my honesty in a deal depend on how I feel about the other person, or on what we agreed?",
+      "If I need to end an arrangement, do I tell the other side openly, or simply stop keeping it?"
+    ],
+    "pointsBn": [
+      "এমন কেউ কি আছে, যাকে আমি পছন্দ করি না, অথচ সে আমাকে দেওয়া প্রতিটা কথা রেখেছে? আমিও কি তার সঙ্গে ততটাই যত্ন করে কথা রেখেছি?",
+      "কোনো দলের একজন আমার সঙ্গে অন্যায় করলে আমি কি গোটা দলটাকেই তার জন্য দায়ী করে বসি?",
+      "আমার কোন চুক্তিগুলো আমি চুপচাপ ঢিলে করে চলেছি, এই আশায় যে অন্য পক্ষ টের পাবে না?",
+      "লেনদেনে আমার সততা কি নির্ভর করে লোকটাকে আমার কেমন লাগে তার উপর, নাকি আমরা কী ঠিক করেছিলাম তার উপর?",
+      "কোনো বন্দোবস্ত শেষ করার দরকার হলে আমি কি অন্য পক্ষকে খোলাখুলি জানাই, নাকি শুধু মানা বন্ধ করে দিই?"
+    ],
+    "lessonEn": "Keep your word to anyone who keeps theirs, even someone you dislike; another person's breach is no excuse for breaking a promise given to someone who kept faith.",
+    "lessonBn": "যে কথা রাখে, তার সঙ্গে আপনিও কথা রাখুন, তাকে অপছন্দ করলেও। অন্য কেউ চুক্তি ভেঙেছে বলে যে কথা রেখেছে তার সঙ্গে প্রতিশ্রুতি ভাঙার অজুহাত মেলে না।"
   }
 };
 
