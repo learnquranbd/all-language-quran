@@ -32303,6 +32303,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A promise to give once you have more is tested the day more arrives; give from what you have now, and keep the pledges made when your hands were empty.",
     "lessonBn": "বেশি পেলে দান করব, এই ওয়াদার পরীক্ষা হয় যেদিন বেশি আসে। যা আছে তা থেকেই এখন দিন, আর খালি হাতে থাকার দিনগুলোতে করা অঙ্গীকার রক্ষা করুন।"
+  },
+  "9:100": {
+    "reflectionEn": "Allah names three groups here and then gives them one reward. The forerunners among the Muhajirun, who left homes and kin; the forerunners among the Ansar, who sheltered and supported; and those who followed them with excellence. The first two doors are closed now. Nobody today can pray towards both qiblahs or stand at Hudaybiyah. The third door is open, and it has a condition written on it: ihsan. Admiring them is not enough, and claiming them is not enough. Following means taking their faith, their words and their deeds, not their slips. Then the reward runs in both directions: Allah is pleased with them, and they are pleased with Him. Whose path am I actually walking, and would the first believers recognise it as theirs?",
+    "reflectionBn": "আল্লাহ এখানে তিনটি দলের নাম নেন, তারপর তিন দলকেই একই পুরস্কারের কথা শোনান। মুহাজিরদের মধ্যে অগ্রণীরা, যারা ঘরবাড়ি আর আত্মীয়স্বজন ছেড়ে এসেছিলেন। আনসারদের মধ্যে অগ্রণীরা, যারা আশ্রয় দিয়েছিলেন, পাশে দাঁড়িয়েছিলেন। আর যারা ইহসানের সাথে তাদের অনুসরণ করেছে। প্রথম দুটি দরজা এখন বন্ধ। আজ আর কেউ দুই কিবলার দিকে নামায পড়তে পারবে না, হুদায়বিয়ায় গিয়ে দাঁড়াতেও পারবে না। তৃতীয় দরজাটা খোলা, তবে তার গায়ে একটা শর্ত লেখা: ইহসান। তাদের প্রশংসা করলেই চলবে না, নিজেকে তাদের লোক দাবি করলেও না। অনুসরণ মানে তাদের ঈমান, তাদের কথা আর তাদের আমল নেওয়া, তাদের পদস্খলন নয়। তারপর পুরস্কারটা দুই দিক থেকেই আসে: আল্লাহ তাদের প্রতি সন্তুষ্ট, তারাও তাঁর প্রতি সন্তুষ্ট। আমি আসলে কার পথে হাঁটছি? প্রথম মুমিনেরা কি এ পথকে নিজেদের পথ বলে চিনতে পারতেন?",
+    "pointsEn": [
+      "If someone traced my daily habits back to their source, whose way would they find I am really following?",
+      "From the people I admire, do I take only their best deeds, or do I copy their slips along with their strengths?",
+      "When the first believers are mentioned in front of me, does my tongue carry a prayer for them, a criticism, or nothing at all?",
+      "Am I pleased with what Allah has given and decreed for me, or only with what I would have chosen myself?",
+      "What would following with excellence look like for me this week, in belief, in speech and in one concrete deed?"
+    ],
+    "pointsBn": [
+      "কেউ যদি আমার রোজকার অভ্যাসগুলোর উৎস খুঁজে বের করে, সে কার পথ দেখতে পাবে যা আমি আসলে মেনে চলছি?",
+      "যাদের আমি শ্রদ্ধা করি, তাদের কাছ থেকে কি শুধু ভালো আমলগুলো নিই, নাকি গুণের সাথে তাদের ভুলগুলোও নকল করে ফেলি?",
+      "আমার সামনে প্রথম যুগের মুসলিমদের কথা উঠলে আমার মুখে কী আসে: তাদের জন্য দোয়া, সমালোচনা, নাকি কিছুই না?",
+      "আল্লাহ আমাকে যা দিয়েছেন আর আমার জন্য যা ফায়সালা করেছেন, তাতে কি আমি সন্তুষ্ট? নাকি শুধু সেটুকুতেই খুশি, যা আমি নিজে বেছে নিতাম?",
+      "এ সপ্তাহে ইহসানের সাথে অনুসরণ আমার জীবনে কেমন দেখাবে: বিশ্বাসে, কথায়, আর অন্তত একটা নির্দিষ্ট আমলে?"
+    ],
+    "lessonEn": "The first generation's door is shut, but following them with excellence stays open: take their faith and good deeds, not their slips, pray for them, and seek Allah's pleasure.",
+    "lessonBn": "প্রথম প্রজন্মের দরজা বন্ধ, কিন্তু ইহসানের সাথে তাদের অনুসরণের পথ খোলা: তাদের ঈমান আর নেক আমল নিন, পদস্খলন নয়, তাদের জন্য দোয়া করুন, আর আল্লাহর সন্তুষ্টি খুঁজুন।"
   }
 };
 

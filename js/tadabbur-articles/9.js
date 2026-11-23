@@ -5179,6 +5179,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:100": {
+    "sections": [
+      {
+        "h": {
+          "en": "Named Right After the Bedouins",
+          "bn": "বেদুঈনদের পরেই যাদের নাম"
+        },
+        "p": [
+          {
+            "en": "The passage has been sorting the Bedouin Arabs: those harder in disbelief and hypocrisy, those who count their spending a fine, and, in 9:99, those who count it a means of nearness to Allah. Al-Qurtubi marks the turn: having named the kinds of Bedouins, Allah names the Muhajirun and the Ansar, forerunners and followers, and praises them. Ma'arif al-Qur'an sees the same step, from the sincere Bedouins to all sincere believers, by degrees of excellence.",
+            "bn": "এ অংশটি বেদুঈন আরবদের আলাদা আলাদা দলে ভাগ করে দেখাচ্ছিল। কেউ কুফর আর মুনাফিকিতে বেশি কঠোর, কেউ নিজের খরচকে জরিমানা মনে করে, আর ৯:৯৯ আয়াতে এমন লোকও আছে যারা সেই খরচকে আল্লাহর নৈকট্যের উপায় মনে করে। কুরতুবী এখানে মোড়টা ধরিয়ে দেন। বেদুঈনদের রকমফের বলার পর আল্লাহ মুহাজির ও আনসারদের কথা তোলেন, আর তাদের অগ্রণী ও অনুসারী সবার প্রশংসা করেন। মাআরিফুল কুরআনও একই ধাপ দেখে: খাঁটি বেদুঈনদের পর এবার সব খাঁটি মুমিনের কথা, মর্যাদার স্তরভেদসহ।"
+          },
+          {
+            "en": "At-Tabari and the Muyassar define the two names almost alike. The Muhajirun left their people and kin and parted from their homes and lands. The Ansar supported the Messenger ﷺ against his enemies. Al-Qurtubi adds that Ansar is an Islamic name: asked whether people had called them that before Islam, Anas ibn Malik answered that it was a name Allah gave them in the Qur'an. The very next verse, 9:101, turns back to hypocrites around Madinah whom the Prophet ﷺ did not know.",
+            "bn": "নাম দুটির সংজ্ঞা তাবারী আর মুয়াসসার প্রায় একইভাবে দেন। মুহাজিররা নিজের গোত্র ও আত্মীয়দের ছেড়ে এসেছিলেন, ঘরবাড়ি আর জন্মভূমি থেকে বিচ্ছিন্ন হয়েছিলেন। আনসাররা শত্রুর বিরুদ্ধে রসূল ﷺ-এর পাশে দাঁড়িয়েছিলেন। কুরতুবী জানান, আনসার নামটা ইসলামেরই দেওয়া। আনাস ইবন মালিক (রাঃ)-কে জিজ্ঞেস করা হয়েছিল, জাহিলি যুগেও কি লোকে তাদের এ নামে ডাকত? তিনি বলেন, না, এ নাম আল্লাহ কুরআনে আমাদের দিয়েছেন। ঠিক পরের আয়াত ৯:১০১ আবার ফিরে যায় মদীনার আশপাশের সেই মুনাফিকদের দিকে, যাদের নবী ﷺ চিনতেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the First Ones End",
+          "bn": "অগ্রণীদের সীমারেখা কোথায়"
+        },
+        "p": [
+          {
+            "en": "Who exactly are the first forerunners? At-Tabari says the people of interpretation differed, and gives two answers with their chains. Ash-Sha'bi said they are those who took the Pledge of Ridwan, or lived to reach it. In another of his reports, whoever came before the pledge, up to the pledge itself, is among the first Muhajirun, and whoever came after it is not. Ash-Sha'bi also called that pledge, the pledge of Hudaybiyah, the dividing line between the two hijrahs.",
+            "bn": "প্রথম অগ্রণী বলতে ঠিক কারা? তাবারী বলেন, ব্যাখ্যাকারেরা এ নিয়ে একমত হননি। তিনি সনদসহ দুই রকম জবাব আনেন। শা'বী বলেছেন, তারা হলেন যারা বাইয়াতুর রিদওয়ানে শরিক হয়েছেন, কিংবা অন্তত সে সময় পর্যন্ত পৌঁছেছেন। শা'বীর আরেক বর্ণনায় আছে: বাইয়াতের আগে থেকে বাইয়াত পর্যন্ত যারা এসেছেন, তারা প্রথম মুহাজির। বাইয়াতের পরে যারা এসেছেন, তারা এর মধ্যে পড়েন না। শা'বী এ-ও বলেছেন যে হুদায়বিয়ার এই বাইয়াতই দুই হিজরতের মাঝখানের সীমারেখা।"
+          },
+          {
+            "en": "The second answer is those who prayed towards both qiblahs with the Prophet ﷺ. At-Tabari gives it from Abu Musa al-Ash'ari, Sa'id ibn al-Musayyib, Muhammad ibn Sirin and Qatadah; Ibn Kathir adds al-Hasan to the same list. Al-Baghawi and Ma'arif al-Qur'an bring a third: the people of Badr. Al-Baghawi gives that view to 'Ata' ibn Abi Rabah, while al-Qurtubi gives it to Muhammad ibn Ka'b and 'Ata' ibn Yasar. Al-Qurtubi also credits the Hudaybiyah view to the companions of ash-Shafi'i.",
+            "bn": "দ্বিতীয় জবাব: যারা নবী ﷺ-এর সাথে দুই কিবলার দিকেই নামায পড়েছেন। তাবারী এ মত আনেন আবু মূসা আশআরী (রাঃ), সাঈদ ইবনুল মুসাইয়্যিব, মুহাম্মাদ ইবন সীরীন ও কাতাদা থেকে। ইবন কাসীর একই তালিকায় হাসানের নামও যোগ করেন। বাগাভী আর মাআরিফুল কুরআন আনে তৃতীয় এক মত: তারা বদরের যোদ্ধারা। বাগাভী এ মত দেন আতা ইবন আবী রাবাহের নামে, আর কুরতুবী দেন মুহাম্মাদ ইবন কা'ব ও আতা ইবন ইয়াসারের নামে। কুরতুবী হুদায়বিয়ার মতটি শাফেয়ীর অনুসারী আলেমদের নামেও উল্লেখ করেন।"
+          },
+          {
+            "en": "The views share more ground than they seem to. Al-Qurtubi records an agreement beneath the difference: whoever emigrated before the qiblah was changed is among the first Muhajirun, with no disagreement among them. The difference is over how far the line runs after that, to Badr or to Hudaybiyah. He also relays from Abu Mansur al-Baghdadi an order of merit among the Companions: the four caliphs, then the rest of the ten, then the people of Badr, then of Uhud, then of the Pledge of Ridwan.",
+            "bn": "মতগুলোর মধ্যে যতটা দূরত্ব মনে হয়, আসলে ততটা নেই। কুরতুবী এই মতভেদের নিচে একটা ঐকমত্যের কথা লেখেন: কিবলা বদলের আগে যিনি হিজরত করেছেন, তিনি প্রথম মুহাজিরদের একজন, এতে তাদের কারও দ্বিমত নেই। দ্বিমত শুধু এর পরে রেখাটা কতদূর টানা হবে, বদর পর্যন্ত নাকি হুদায়বিয়া পর্যন্ত। আবু মানসূর বাগদাদী থেকে তিনি সাহাবীদের মর্যাদার একটা ক্রমও তুলে দেন: প্রথমে চারজন খলীফা, তারপর ১০ জনের বাকিরা, তারপর বদরের যোদ্ধারা, তারপর উহুদের, তারপর বাইয়াতুর রিদওয়ানের সাহাবীরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Some of Them, or All",
+          "bn": "তাদের একাংশ, নাকি সবাই"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an notes that most commentators take min here as partitive: out of the Muhajirun and Ansar, the first forerunners. That makes two tiers of Companions, and the difference above concerns only where the first tier ends. At-Tabari reads it this way too: the forerunners came from both parties, and the statement concerns them, not all of the two. Ma'arif then reports from Tafsir Mazhari a reading in which min explains rather than divides, making every Muhajir and every Ansari is a forerunner beside the rest of the ummah.",
+            "bn": "মাআরিফুল কুরআন জানায়, বেশির ভাগ তাফসীরকার এখানে মিন অব্যয়কে অংশ বোঝাতে নিয়েছেন: মুহাজির ও আনসারদের মধ্য থেকে যারা প্রথম অগ্রণী। এতে সাহাবীরা দুই স্তরে ভাগ হন, আর আগের মতভেদ কেবল প্রথম স্তরটা কোথায় শেষ, তা নিয়ে। তাবারীও এভাবেই পড়েন। তাঁর ভাষায়, অগ্রণীরা দুই দল থেকেই এসেছিলেন, আর কথাটা দুই দলের অগ্রণীদের নিয়ে, সবাইকে নিয়ে নয়। এরপর মাআরিফ তাফসীরে মাযহারী থেকে আরেকটা পাঠ আনে। সেখানে মিন ভাগ করে না, ব্যাখ্যা করে। তাহলে উম্মতের বাকিদের তুলনায় প্রত্যেক মুহাজির আর প্রত্যেক আনসারই অগ্রণী।"
+          },
+          {
+            "en": "Al-Baghawi turns to who believed first. All agree that Khadijah was first; they differed over who came next. Some said 'Ali ibn Abi Talib, the view of Jabir, Mujahid and Ibn Ishaq; some said Abu Bakr, the view of Ibn 'Abbas, an-Nakha'i and ash-Sha'bi; some said Zayd ibn Harithah, from az-Zuhri and 'Urwah. Ishaq ibn Rahwayh joined them: among men Abu Bakr, among women Khadijah, among boys 'Ali, among slaves Zayd. Of the Ansar, al-Baghawi names those who pledged at 'Aqabah, six at the first pledge and seventy at the second.",
+            "bn": "বাগাভী এরপর প্রশ্ন তোলেন, সবার আগে কে ঈমান এনেছিলেন। খাদীজা (রাঃ) যে প্রথম, এ নিয়ে সবাই একমত। তাঁর পরে কে, তা নিয়েই দ্বিমত। কেউ বলেন আলী ইবন আবী তালিব (রাঃ), এটা জাবির, মুজাহিদ ও ইবন ইসহাকের মত। কেউ বলেন আবু বকর (রাঃ), এটা ইবন আব্বাস, নাখাঈ ও শা'বীর মত। কেউ বলেন যায়দ ইবন হারিসা (রাঃ), যুহরী ও উরওয়া থেকে। ইসহাক ইবন রাহুয়াহ সব মত মিলিয়ে দেন: পুরুষদের মধ্যে আবু বকর, নারীদের মধ্যে খাদীজা, বালকদের মধ্যে আলী, দাসদের মধ্যে যায়দ। আনসারদের অগ্রণী হিসেবে বাগাভী আকাবার বাইয়াতকারীদের নাম নেন: প্রথম বাইয়াতে ৬ জন, দ্বিতীয়টিতে ৭০ জন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Waw 'Umar Asked About",
+          "bn": "যে ওয়াও নিয়ে উমরের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports from Muhammad ibn Ka'b al-Qurazi that 'Umar ibn al-Khattab passed a man reciting this verse, took him by the hand and asked who had taught it to him. Ubayy ibn Ka'b, the man said. 'Umar would not let him go until they reached Ubayy, then asked whether he had taught it so, and whether he had heard it from the Messenger ﷺ. Ubayy said yes. 'Umar said: I used to think we had been raised to a rank that no one after us would reach.",
+            "bn": "তাবারী মুহাম্মাদ ইবন কা'ব কুরাযী থেকে বর্ণনা করেন: উমর ইবনুল খাত্তাব (রাঃ) এক লোকের পাশ দিয়ে যাচ্ছিলেন, লোকটি এই আয়াত তিলাওয়াত করছিল। উমর তার হাত ধরে জিজ্ঞেস করলেন, তোমাকে এটা কে পড়িয়েছে? সে বলল, উবাই ইবন কা'ব (রাঃ)। উমর বললেন, তাঁর কাছে না নিয়ে যাওয়া পর্যন্ত তুমি আমাকে ছেড়ে যাবে না। উবাইয়ের কাছে পৌঁছে তিনি জানতে চাইলেন, আপনি কি এভাবে পড়িয়েছেন? রসূল ﷺ-এর কাছে কি এভাবেই শুনেছেন? উবাই বললেন, হ্যাঁ। উমর বললেন, আমি ভাবতাম, আমাদের এমন উচ্চতায় তোলা হয়েছে যেখানে আমাদের পরে আর কেউ পৌঁছাতে পারবে না।"
+          },
+          {
+            "en": "Ubayy answered from the Qur'an itself. The confirmation is at the opening of al-Jumu'ah, and others of them who have not yet joined them (62:3); in al-Hashr, those who came after them saying, our Lord, forgive us and our brothers who preceded us in faith (59:10); and at the end of al-Anfal, those who believed afterwards, emigrated and strove with you, they are of you (8:75). At-Tabari's next report shows the issue: 'Umar had read al-Ansaru in the nominative, with no waw before alladhina, making the followers a description of the Ansar.",
+            "bn": "উবাই জবাব দিলেন কুরআন থেকেই। তিনি বললেন, এর সমর্থন আছে সূরা জুমুআর শুরুতে: আর তাদের মধ্যে আরও কিছু লোক, যারা এখনো তাদের সাথে মিলিত হয়নি (৬২:৩)। আছে সূরা হাশরে: যারা তাদের পরে এসেছে, তারা বলে, হে আমাদের রব, আমাদের এবং ঈমানে আমাদের অগ্রবর্তী ভাইদের ক্ষমা করুন (৫৯:১০)। আর আছে সূরা আনফালের শেষে: যারা পরে ঈমান এনেছে, হিজরত করেছে আর তোমাদের সাথে জিহাদ করেছে, তারা তোমাদেরই অন্তর্ভুক্ত (৮:৭৫)। তাবারীর পরের বর্ণনায় বোঝা যায় আসল প্রশ্নটা কী ছিল। উমর পড়েছিলেন আল-আনসারু, পেশ দিয়ে, আর আল্লাযীনা-র আগে ওয়াও ছাড়া। তাতে অনুসারীরা হয়ে যায় আনসারদেরই বিশেষণ।"
+          },
+          {
+            "en": "In that report Zayd ibn Thabit corrected him, 'Umar sent for Ubayy, Ubayy recited it with the waw, and 'Umar said: then we follow Ubayy. At-Tabari allows no reading but the genitive al-Ansari with the waw, because the authoritative reciters agree on it and it stands so in every copy the Muslims hold. The followers are therefore a group other than the Muhajirun and the Ansar. At-Tabari and Ibn Kathir mention that al-Hasan al-Basri read the nominative; al-Baghawi attributes that reading to Ya'qub.",
+            "bn": "সেই বর্ণনায় যায়দ ইবন সাবিত (রাঃ) তাঁকে শুধরে দেন। উমর উবাইকে ডেকে পাঠান, উবাই ওয়াওসহ পড়ে শোনান, আর উমর বলেন, তাহলে আমরা উবাইকেই অনুসরণ করব। তাবারী আল-আনসারি, যের দিয়ে ও ওয়াওসহ পড়া ছাড়া অন্য কোনো পাঠ গ্রহণযোগ্য মনে করেন না। কারণ নির্ভরযোগ্য কারীগণ এতে একমত, আর মুসলিমদের সব মুসহাফে এভাবেই লেখা। ফলে অনুসারীরা মুহাজির ও আনসার থেকে আলাদা একটা দল। তাবারী ও ইবন কাসীর জানান, হাসান বসরী পেশ দিয়ে পড়তেন। বাগাভী এ পাঠ ইয়াকূবের নামে উল্লেখ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Condition on the Followers",
+          "bn": "অনুসারীদের জন্য শর্ত"
+        },
+        "p": [
+          {
+            "en": "Who are the followers? For at-Tabari, those who took the forerunners' path in faith, in emigrating to the abode of Islam seeking Allah's pleasure, and in support and good works. Al-Baghawi lists three views: the remaining Muhajirun and Ansar other than the first forerunners; those who take their path in faith, hijrah or support until the Day of Resurrection; and, from 'Ata', those who remember the Muhajirun and Ansar with prayers for mercy.",
+            "bn": "অনুসারী কারা? তাবারীর মতে, যারা ঈমানে, আল্লাহর সন্তুষ্টির খোঁজে ইসলামের ভূমিতে হিজরতে, আর সাহায্য ও নেক আমলে অগ্রণীদের পথ ধরেছে। বাগাভী তিনটি মত আনেন। প্রথম অগ্রণীরা ছাড়া বাকি মুহাজির ও আনসাররা। কিয়ামত পর্যন্ত যারা ঈমান, হিজরত বা সাহায্যে তাদের পথে চলবে। আর আতার মত: যারা মুহাজির ও আনসারদের কথা রহমতের দোয়াসহ স্মরণ করে।"
+          },
+          {
+            "en": "Bi-ihsan is what sets the limit. As-Sa'di and the Muyassar spell it out as following them in beliefs, words and deeds. Al-Qurtubi says it marks what they are followed in, their deeds and their words, and not the lapses and slips that came from them, since they were not protected from error. Al-Baghawi tells of Abu Sakhr Humayd ibn Ziyad, who asked Muhammad ibn Ka'b al-Qurazi about the Companions. All of them are in Paradise, he answered, the doers of good among them and the wrongdoers alike, and he pointed Abu Sakhr to this verse.",
+            "bn": "বি-ইহসান শব্দটাই সীমা টেনে দেয়। সা'দী আর মুয়াসসার এর ব্যাখ্যা দেন: বিশ্বাসে, কথায় ও কাজে তাদের অনুসরণ। কুরতুবী বলেন, শব্দটা জানিয়ে দেয় কোন জিনিসে তাদের অনুসরণ হবে। তাদের কাজ আর কথায়, তাদের থেকে যে ভুলত্রুটি আর পদস্খলন ঘটেছে তাতে নয়, কারণ তারা নিষ্পাপ ছিলেন না। বাগাভী আবু সাখর হুমাইদ ইবন যিয়াদের ঘটনা শোনান। তিনি মুহাম্মাদ ইবন কা'ব কুরাযীকে সাহাবীদের ব্যাপারে জিজ্ঞেস করেছিলেন। জবাব এল, তাদের সবাই জান্নাতে, যিনি ভালো করেছেন তিনিও, যিনি ভুল করেছেন তিনিও। তারপর তিনি আবু সাখরকে এই আয়াতটি দেখিয়ে দেন।"
+          },
+          {
+            "en": "His reasoning was that the pleasure is stated for the forerunners without a condition, while the followers carry one: that they follow them in their good deeds and not in their bad ones. Abu Sakhr said it was as if he had never read the verse before. Ma'arif al-Qur'an relays the same exchange, then places the Tabi'in, the generation after the Companions, first among the followers, and after them every Muslim until the Last Day who follows the Companions in purity of faith and in righteous deeds.",
+            "bn": "তাঁর যুক্তি ছিল এই: অগ্রণীদের জন্য সন্তুষ্টির কথা বলা হয়েছে কোনো শর্ত ছাড়া, কিন্তু অনুসারীদের বেলায় শর্ত আছে। তাদের অনুসরণ করতে হবে তাদের ভালো কাজে, মন্দ কাজে নয়। আবু সাখর বলেন, মনে হলো এ আয়াত আমি আগে কখনো পড়িনি। মাআরিফুল কুরআনও একই কথোপকথন উদ্ধৃত করে। তারপর অনুসারীদের প্রথম সারিতে রাখে তাবেয়ীদের, অর্থাৎ সাহাবীদের পরের প্রজন্মকে। তাদের পরে কিয়ামত পর্যন্ত সেই প্রত্যেক মুসলিম, যে ঈমানের বিশুদ্ধতায় আর নেক আমলে সাহাবীদের অনুসরণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pleased, and Pleased With Him",
+          "bn": "তিনি সন্তুষ্ট, তারাও সন্তুষ্ট"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes the two halves of the pleasure separately. Allah is pleased with all of them because they obeyed Him and answered His Prophet in what he called them to, of command and prohibition. They are pleased with Him because of the abundant reward He gave them for their obedience and their faith. As-Sa'di adds a weighing of his own: Allah's pleasure is greater than the bliss of the Garden.",
+            "bn": "সন্তুষ্টির দুই দিক তাবারী আলাদা করে ব্যাখ্যা করেন। আল্লাহ তাদের সবার প্রতি সন্তুষ্ট, কারণ তারা তাঁর আনুগত্য করেছে, আর তাঁর নবী যে আদেশ-নিষেধের দিকে ডেকেছেন তাতে সাড়া দিয়েছে। তারাও তাঁর প্রতি সন্তুষ্ট, কারণ আনুগত্য আর ঈমানের বিনিময়ে তিনি তাদের অঢেল প্রতিদান দিয়েছেন। সা'দী এখানে নিজের একটা তুলনা যোগ করেন: আল্লাহর সন্তুষ্টি জান্নাতের নিয়ামতের চেয়েও বড়।"
+          },
+          {
+            "en": "The Garden is described in the familiar words, with a difference of reading: al-Baghawi notes that the Qur'an reader Ibn Kathir read min tahtiha, from beneath it, as in the copies of the people of Makkah. On khalidina fiha abadan, at-Tabari says they will neither die there nor leave it; as-Sa'di says they want no move from it and seek nothing in its place, because whatever they wish for they reach. The great attainment, in his words, gathers everything the soul loves and removes everything it fears.",
+            "bn": "জান্নাতের বর্ণনা পরিচিত শব্দেই, তবে এক জায়গায় পাঠের পার্থক্য আছে। বাগাভী জানান, কারী ইবন কাসীর পড়তেন মিন তাহতিহা, অর্থাৎ তার নিচ থেকে, আর মক্কাবাসীদের মুসহাফেও এভাবে লেখা। খালিদীনা ফীহা আবাদা সম্পর্কে তাবারী বলেন, সেখানে তারা মরবেও না, বেরও হবে না। সা'দী বলেন, তারা সেখান থেকে কোথাও যেতে চাইবে না, বদলে অন্য কিছুও চাইবে না, কারণ যা চাইবে তা-ই পাবে। আর মহাসাফল্য তাঁর ভাষায় এমন জিনিস, যাতে মনের প্রিয় সবকিছু মেলে আর ভয়ের সবকিছু দূর হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Standing It Gives Them",
+          "bn": "আয়াত তাদের যে মর্যাদা দেয়"
+        },
+        "p": [
+          {
+            "en": "For the Muyassar the verse is a commendation of the Companions, a declaration of their integrity and a praise of them, and for that reason honouring them belongs to the foundations of faith. Ibn Kathir draws a warning from it. Since Allah has told us He is pleased with them, woe to whoever hates or reviles them, or any of them, above all Abu Bakr, whom he calls the best of them after the Messenger ﷺ. The people of the Sunnah, he says, are pleased with those whom Allah is pleased with.",
+            "bn": "মুয়াসসারের মতে আয়াতটি সাহাবীদের পরিশুদ্ধতার সাক্ষ্য, তাদের ন্যায়পরায়ণতার ঘোষণা আর তাদের প্রশংসা। এ কারণেই তাদের সম্মান করা ঈমানের মূলনীতির অংশ। ইবন কাসীর আয়াত থেকে একটা সতর্কবাণী বের করেন। আল্লাহ যখন জানিয়েই দিয়েছেন যে তিনি তাদের প্রতি সন্তুষ্ট, তখন যে তাদের বা তাদের কাউকে ঘৃণা করে বা গালি দেয়, তার জন্য দুর্ভোগ। বিশেষ করে আবু বকর (রাঃ)-এর ব্যাপারে, রসূল ﷺ-এর পরে যাঁকে তিনি তাদের মধ্যে শ্রেষ্ঠ বলেন। তাঁর ভাষায়, আহলুস সুন্নাহ তাদের প্রতি সন্তুষ্ট, যাদের প্রতি আল্লাহ সন্তুষ্ট।"
+          },
+          {
+            "en": "No tafsir fetched here gives a cause of revelation for this verse, and the hadiths the commentators cite are general ones. Al-Baghawi cites this one, in Sahih al-Bukhari (3673), from Abu Sa'id al-Khudri: \"Do not revile my Companions, for if any of you spent gold the like of Uhud, it would not reach the mudd of one of them, nor half of it.\" Also in al-Bukhari (2652), from 'Abdullah: \"The best of people are my generation, then those who follow them, then those who follow them; then there will come peoples whose testimony runs ahead of their oath, and their oath ahead of their testimony.\"",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর নাযিলের কোনো কারণ উল্লেখ করেনি। তাফসীরকারেরা যে হাদীসগুলো আনেন, সেগুলো সাধারণ, এ আয়াতের সাথে যুক্ত নয়। বাগাভী এটি আনেন, যা সহীহ বুখারীতে আছে (৩৬৭৩), আবু সাঈদ খুদরী (রাঃ) থেকে: \"আমার সাহাবীদের গালি দিয়ো না। তোমাদের কেউ যদি উহুদ পাহাড় পরিমাণ সোনাও খরচ করে, তবু তা তাদের একজনের এক মুদ, এমনকি তার অর্ধেকের সমানও হবে না।\" বুখারীতে আরও আছে (২৬৫২), আবদুল্লাহ (রাঃ) থেকে: \"সর্বোত্তম মানুষ আমার যুগের মানুষ, তারপর যারা তাদের পরে আসবে, তারপর যারা তাদের পরে আসবে। এরপর এমন সব লোক আসবে, যাদের সাক্ষ্য তাদের কসমের আগে চলে যাবে, আর কসম চলে যাবে সাক্ষ্যের আগে।\""
+          },
+          {
+            "en": "Precedence also carried practical weight. Al-Qurtubi relays from Ibn Khuwayzmandad that the verse implies preferring those first to every merit of the religion, and records that Abu Bakr and 'Umar differed over whether precedence should raise a stipend. Abu Bakr preferred no one for it: they had worked for Allah, and their reward was with Him. 'Umar asked whether he would treat a person with precedence like one without, and preferred them in his caliphate; near his death he said that if he lived another day he would raise the lowest to the highest.",
+            "bn": "অগ্রগামিতার একটা ব্যবহারিক ওজনও ছিল। কুরতুবী ইবন খুওয়াইযমিনদাদ থেকে উদ্ধৃত করেন যে আয়াতটি দ্বীনের প্রতিটি মর্যাদায় যারা আগে এসেছেন, তাদের অগ্রাধিকারের ইঙ্গিত দেয়। তিনি আবু বকর ও উমর (রাঃ)-এর একটি মতপার্থক্যও উল্লেখ করেন: আগে আসার কারণে কারও ভাতা বাড়বে কি না। আবু বকর এ কারণে কাউকে বেশি দিতেন না। তাঁর কথা ছিল, তারা কাজ করেছেন আল্লাহর জন্য, প্রতিদানও তাঁরই কাছে। উমর প্রশ্ন করতেন, যিনি আগে এসেছেন তাঁকে কি পরে আসা লোকের সমান ধরবেন? নিজের খিলাফতে তিনি অগ্রগামীদের বেশি দিতেন। মৃত্যুর আগে তিনি বলেন, আর একটা দিন বাঁচলে আমি সবচেয়ে নিচের জনকে সবচেয়ে উপরের জনের সমান করে দেব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brothers Who Had Not Yet Come",
+          "bn": "যে ভাইয়েরা তখনো আসেনি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi closes his long discussion on a narration that widens the circle, though it too is not attached to this verse. In Sahih Muslim (249), from Abu Hurayrah, the Messenger ﷺ came to the graveyard and said: \"Peace be upon you, abode of a believing people; and we, if Allah wills, will be joining you. I wished that we had seen our brothers.\" They said: Are we not your brothers, O Messenger of Allah? He said: \"You are my Companions; our brothers are those who have not yet come.\" The narration continues beyond these lines.",
+            "bn": "কুরতুবী তাঁর দীর্ঘ আলোচনা শেষ করেন একটি বর্ণনা দিয়ে, যা বৃত্তটাকে আরও বড় করে দেয়, যদিও এটিও এই আয়াতের সাথে যুক্ত নয়। সহীহ মুসলিমে (২৪৯) আবু হুরায়রা (রাঃ) থেকে আছে: রসূল ﷺ কবরস্থানে এসে বললেন, \"তোমাদের উপর সালাম, হে মুমিনদের আবাস। ইনশাআল্লাহ আমরাও তোমাদের সাথে মিলিত হব। আমার মন চায়, আমরা যদি আমাদের ভাইদের দেখতে পেতাম!\" সাহাবীরা বললেন, হে আল্লাহর রসূল, আমরা কি আপনার ভাই নই? তিনি বললেন, \"তোমরা আমার সাহাবী। আমাদের ভাই তারা, যারা এখনো আসেনি।\" বর্ণনাটি এর পরেও চলেছে।"
+          },
+          {
+            "en": "So the verse leaves a place for later readers, with its condition attached. Ubayy pointed to 59:10, where those who came after pray for the brothers who preceded them in faith, and 'Ata', in al-Baghawi, counted remembering the first believers with prayers for mercy as part of following them. That is where following starts: a prayer for those who went first, a steady effort to take their faith and good deeds, and no appetite for their slips. The pleasure the verse promises runs in both directions, and the side that belongs to us can begin in this life.",
+            "bn": "তাহলে আয়াতটি পরের পাঠকদের জন্যও জায়গা রেখে দেয়, শর্তসহ। উবাই দেখিয়েছিলেন ৫৯:১০ আয়াত, যেখানে পরে আসা লোকেরা ঈমানে অগ্রবর্তী ভাইদের জন্য দোয়া করে। আর বাগাভীর বর্ণনায় আতা প্রথম মুমিনদের রহমতের দোয়াসহ স্মরণ করাকে অনুসরণেরই অংশ ধরেছেন। অনুসরণ শুরু হয় এখান থেকেই। যারা আগে গেছেন তাদের জন্য দোয়া, তাদের ঈমান আর নেক আমল নেওয়ার নিরন্তর চেষ্টা, আর তাদের পদস্খলন খুঁজে বেড়ানোর কোনো আগ্রহ না রাখা। আয়াতের প্রতিশ্রুত সন্তুষ্টি দুই দিকেই চলে। যে দিকটা আমাদের হাতে, তা এই দুনিয়াতেই শুরু হতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "9:103": {
     "sections": [
       {
