@@ -443,6 +443,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "From One Insult to Many",
+          "bn": "এক গালি থেকে বহু যুগ"
+        },
+        "p": [
+          {
+            "en": "The passage opens with an insult. In 15:6 the deniers address the Prophet ﷺ with a sneer: O you upon whom the reminder has been sent down, you are surely mad. In 15:7 they ask why he does not bring them the angels. Allah answers in 15:8 that the angels come down only with the truth, and in 15:9 that He sent down the reminder and will guard it. Then the address turns to the Prophet ﷺ himself. Verse 15:10 says that messengers were sent before him among the shiya' of the earlier peoples, and 15:11 completes the thought.",
+            "bn": "অংশটি শুরু হয় একটা গালি দিয়ে। ১৫:৬ আয়াতে অস্বীকারকারীরা নবী ﷺ-কে বিদ্রূপ করে ডাকে: ওহে, যার উপর উপদেশবাণী নাযিল হয়েছে, তুমি তো নিশ্চয়ই পাগল। ১৫:৭ আয়াতে তারা জানতে চায়, তিনি ফেরেশতাদের এনে দেখাচ্ছেন না কেন। আল্লাহ ১৫:৮ আয়াতে জবাব দেন, ফেরেশতা নামে কেবল সত্য নিয়ে। ১৫:৯ আয়াতে বলেন, উপদেশবাণী তিনিই নাযিল করেছেন এবং তিনিই তার হেফাজত করবেন। এরপর কথা ঘুরে যায় সরাসরি নবী ﷺ-এর দিকে। ১৫:১০ আয়াত বলে, তাঁর আগেও পূর্ববর্তী লোকদের শিয়া', অর্থাৎ দলগুলোর মধ্যে রসূল পাঠানো হয়েছিল। ১৫:১১ আয়াত সেই কথাটাই শেষ করে।"
+          },
+          {
+            "en": "Wa-ma ya'tihim min rasulin illa kanu bihi yastahzi'un: and no messenger came to them but they mocked him. Ibn Kathir's comment, which the quran.com edition files under 15:10, says Allah is consoling His Messenger over the denial by those of the disbelievers of Quraysh who denied him: He had sent messengers before him among the past nations, and no messenger came to a nation but they denied him and mocked him. As-Sa'di frames 15:10 the same way. When the idolaters denied the Prophet ﷺ, Allah told him this had always been the way of the nations long gone.",
+            "bn": "ওয়া মা ইয়া'তীহিম মিন রসূলিন ইল্লা কানূ বিহী ইয়াসতাহযিঊন: তাদের কাছে যে রসূলই এসেছেন, তাঁকে নিয়েই তারা ঠাট্টা করেছে। ইবন কাসীরের এই ব্যাখ্যা quran.com-এর সংস্করণে রাখা হয়েছে ১৫:১০ আয়াতের ঘরে। তিনি বলেন, কুরাইশের কাফিরদের মধ্যে যারা রসূলকে মিথ্যা বলেছিল, তাদের সেই অস্বীকারের মুখে আল্লাহ এখানে তাঁকে সান্ত্বনা দিচ্ছেন। তাঁর আগেও অতীতের জাতিগুলোর কাছে রসূল পাঠানো হয়েছিল, আর যে জাতির কাছেই রসূল গেছেন, তারা তাঁকে মিথ্যা বলেছে, তাঁকে নিয়ে উপহাস করেছে। সা'দী ১৫:১০ আয়াতকেও একইভাবে দেখেন। মুশরিকরা যখন নবী ﷺ-কে অস্বীকার করল, আল্লাহ তাঁকে জানালেন, বিগত জাতিগুলোর চিরকালের ধারা এটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bands Agreed in Their Word",
+          "bn": "এক কথায় একজোট দলগুলো"
+        },
+        "p": [
+          {
+            "en": "Who are the shiya'? At-Tabari answers with one word, nations, and explains that its singular is shi'a, a word also used for a man's supporters. He relays the same gloss from Ibn 'Abbas and from Qatada: among the nations of the earlier peoples. Al-Qurtubi records that reading from the same two and sets two others beside it. Al-Hasan said among their sects, and al-Kalbi said the shiya' here are the towns. At-Tabari's gloss on 15:11 then names the them of our verse: the shiya' of the earlier peoples.",
+            "bn": "শিয়া' কারা? তাবারী এক শব্দে উত্তর দেন: জাতিসমূহ। তিনি জানান, এর একবচন শী'আ, আর কোনো মানুষের সমর্থকদেরও তার শী'আ বলা হয়। একই ব্যাখ্যা তিনি ইবন আব্বাস ও কাতাদা থেকে বর্ণনা করেন: পূর্ববর্তী লোকদের জাতিগুলোর মধ্যে। কুরতুবীও এই দুজন থেকে এ মত উল্লেখ করেন, তারপর পাশে রাখেন আরও দুটি মত। হাসান বলেছেন, তাদের দল-উপদলের মধ্যে। কালবী বলেছেন, এখানে শিয়া' মানে জনপদ। এরপর ১৫:১১ আয়াতের ব্যাখ্যায় তাবারী বলে দেন, আমাদের আয়াতের 'তাদের' বলতে কারা: পূর্ববর্তী লোকদের দলগুলো।"
+          },
+          {
+            "en": "The word itself carries a picture. Al-Qurtubi defines a shi'a as a party or band of people who are bound together and agreed in their word, and he traces it to shiya', the small kindling with which larger logs are set alight. Al-Baghawi gives the short form: a people gathered together whose word is agreed. Read that way, the verse is not describing scattered individuals who happened to sneer. It describes communities with a shared outlook, each of which met its own messenger with the same laughter.",
+            "bn": "শব্দটার ভেতরেই একটা ছবি আছে। কুরতুবীর সংজ্ঞায় শী'আ হলো মানুষের এমন দল, যারা পরস্পর জুড়ে আছে আর যাদের কথা এক। শব্দটির মূল তিনি খুঁজে পান শিয়া'-তে, অর্থাৎ ছোট ছোট খড়কুটো, যা দিয়ে বড় কাঠে আগুন ধরানো হয়। বাগাভী সংক্ষেপে বলেন: এমন লোকজন, যারা একত্র হয়েছে আর যাদের কথা এক। এভাবে পড়লে আয়াতটি বিচ্ছিন্ন কিছু মানুষের কথা বলছে না, যারা হঠাৎ বিদ্রূপ করে বসেছিল। বলছে এমন সব সমাজের কথা, যাদের দৃষ্টিভঙ্গি এক, আর যারা প্রত্যেকে নিজের রসূলকে একই হাসি দিয়ে বরণ করেছিল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, in its lexical note on 15:10, adds a point about one small word. The verse says fi shiya', among the groups, rather than ila, to them. Its author takes this as a hint that the messenger to each group was raised from within that group, so that people would find it easy to trust him, and so that he, knowing their taste and temperament, could plan well for their reform. On that reading, the mockery in 15:11 was aimed at one of their own, a man whose life they knew, and not at a stranger.",
+            "bn": "মাআরিফুল কুরআন ১৫:১০ আয়াতের শব্দ-আলোচনায় ছোট্ট একটি অব্যয়ের দিকে নজর দেয়। আয়াতে বলা হয়েছে ফী শিয়া', অর্থাৎ দলগুলোর মধ্যে। ইলা, অর্থাৎ তাদের প্রতি, বলা হয়নি। লেখকের মতে এতে ইঙ্গিত আছে যে প্রত্যেক দলের রসূলকে সেই দলের ভেতর থেকেই পাঠানো হয়েছিল। এতে মানুষ সহজে তাঁর উপর ভরসা করতে পারত, আর তিনিও তাদের রুচি ও মেজাজ জেনে তাদের সংশোধনের জন্য ঠিকঠাক পরিকল্পনা করতে পারতেন। এভাবে পড়লে ১৫:১১ আয়াতের ঠাট্টা কোনো অচেনা মানুষের দিকে ছোড়া হয়নি। ছোড়া হয়েছিল নিজেদেরই একজনের দিকে, যাঁর জীবন তাদের চোখের সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not One Messenger Left Out",
+          "bn": "একজন রসূলও বাদ পড়েননি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari spells out what kind of messenger is meant and why he was mocked. No messenger from Allah came to those groups, sent to call them to His tawhid and to submission in obedience to Him, but they mocked him. Yastahzi'un, he explains, means they ridiculed the messenger Allah sent them. Then he names the motive in two words: 'utuwwan wa-tamarrudan, out of insolence and rebellion against their Lord. As-Sa'di puts the content of the call into his short gloss: a messenger who calls them to the truth and to guidance.",
+            "bn": "কেমন রসূলের কথা বলা হচ্ছে আর কেন তাঁকে নিয়ে ঠাট্টা হলো, তাবারী তা খুলে বলেন। আল্লাহর পক্ষ থেকে যে রসূলই সেই দলগুলোর কাছে এসেছেন, তাঁকে পাঠানো হয়েছিল তাওহীদের দিকে আর আল্লাহর আনুগত্যে মাথা নোয়ানোর দিকে ডাকতে। তবু তারা তাঁকে নিয়ে ঠাট্টা করেছে। তাবারী বলেন, ইয়াসতাহযিঊন মানে আল্লাহর পাঠানো রসূলকে নিয়ে তারা উপহাস করত। তারপর দুই শব্দে কারণটাও বলে দেন: উতুওয়্যান ওয়া তামাররুদান, রবের বিরুদ্ধে ঔদ্ধত্য আর বিদ্রোহের কারণে। সা'দী তাঁর ছোট ব্যাখ্যায় দাওয়াতের বিষয়টা জুড়ে দেন: এমন রসূল, যিনি তাদের সত্য ও হেদায়াতের দিকে ডাকেন।"
+          },
+          {
+            "en": "The sentence is built as a denial followed by an exception: wa-ma ya'tihim min rasulin, and there does not come to them any messenger, then illa, except. Nothing is left outside it. The Qur'an uses the same sentence in two other places. In 36:30, after the cry alas for the servants, it says no messenger comes to them but they mock him. In 43:7 the word is nabiyy, prophet, and the rest is identical. Here in al-Hijr it comes only a few verses after the jeer of 15:6, so the general rule arrives while the particular insult is still fresh.",
+            "bn": "বাক্যটি গড়া হয়েছে আগে না-বোধক কথা, তারপর ব্যতিক্রম দিয়ে: ওয়া মা ইয়া'তীহিম মিন রসূলিন, তাদের কাছে কোনো রসূল আসেন না, তারপর ইল্লা, তবে। ফলে কেউ এর বাইরে থাকেন না। কুরআনে হুবহু এই বাক্য আরও দুই জায়গায় আছে। ৩৬:৩০ আয়াতে 'হায় আফসোস বান্দাদের জন্য' বলার পর বলা হয়েছে, তাদের কাছে যে রসূলই আসেন, তাঁকে নিয়ে তারা ঠাট্টা করে। ৪৩:৭ আয়াতে রসূলের জায়গায় শব্দটি নবী, বাকিটা একই। আর আল-হিজরে বাক্যটি আসে ১৫:৬ আয়াতের বিদ্রূপের মাত্র কয়েক আয়াত পরে। তাই নির্দিষ্ট গালিটা তখনো টাটকা, এর মধ্যেই সাধারণ নিয়মটা সামনে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comfort Said Outright",
+          "bn": "সান্ত্বনা, সোজাসুজি বলা"
+        },
+        "p": [
+          {
+            "en": "On the purpose of the verse, the commentators fetched here speak with one voice, and several use the same term, tasliya, consolation. Al-Qurtubi opens his comment with it: a consolation for the Prophet ﷺ, meaning that just as these idolaters have done to you, so it was done to the messengers before you. Al-Baghawi glosses the verse with as they did to you, and says it was mentioned to console the Prophet ﷺ. The Muyassar gives al-Qurtubi's sentence almost word for word. Al-Jalalayn says they mocked in the same way your people have mocked you, and that the verse is meant to comfort.",
+            "bn": "আয়াতের উদ্দেশ্য নিয়ে এখানে যেসব তাফসীর দেখা হয়েছে, সেগুলো এক সুরে কথা বলে। কয়েকটিতে একই শব্দও আছে: তাসলিয়া, অর্থাৎ সান্ত্বনা। কুরতুবী ব্যাখ্যা শুরুই করেন এ দিয়ে: নবী ﷺ-এর জন্য সান্ত্বনা। অর্থাৎ এই মুশরিকরা তোমার সঙ্গে যা করছে, তোমার আগের রসূলদের সঙ্গেও তা-ই করা হয়েছে। বাগাভী আয়াতের পাশে লেখেন, যেমন তারা তোমার সঙ্গে করেছে, আর বলেন, নবী ﷺ-কে সান্ত্বনা দিতেই এ কথা বলা হয়েছে। মুয়াসসার প্রায় হুবহু কুরতুবীর বাক্যটিই দেয়। জালালাইন বলে, তোমার কওম যেভাবে তোমাকে নিয়ে ঠাট্টা করেছে, তারাও সেভাবেই করেছিল, আর আয়াতের উদ্দেশ্য সান্ত্বনা দেওয়া।"
+          },
+          {
+            "en": "None of them reads the verse as a threat to the mockers or as a lesson in debate. It is spoken to the man being mocked. The comfort does not promise that the laughter will stop, and the verses that follow suggest it will not. It places him. Being called mad in Makkah was the old reaction to every messenger, not a sign that something was wrong with him or with his message. The Qur'an says something close in 6:10 and 21:41: messengers before you were ridiculed, and those who mocked them were enveloped by what they used to ridicule.",
+            "bn": "তাঁদের কেউই আয়াতটিকে ঠাট্টাকারীদের প্রতি হুমকি হিসেবে পড়েন না, তর্ক শেখানোর পাঠ হিসেবেও না। কথাটা বলা হচ্ছে যাঁকে নিয়ে ঠাট্টা হচ্ছে, তাঁকে। এ সান্ত্বনা কথা দেয় না যে হাসাহাসি থেমে যাবে। পরের আয়াতগুলো বরং বলে, থামবে না। সান্ত্বনাটা তাঁকে ঠিক জায়গায় দাঁড় করায়। মক্কায় তাঁকে পাগল বলা ছিল প্রত্যেক রসূলের প্রতি সেই পুরোনো প্রতিক্রিয়া। তাঁর মধ্যে বা তাঁর বার্তায় কোনো গলদ আছে, এটা তার প্রমাণ নয়। ৬:১০ ও ২১:৪১ আয়াতে কুরআন কাছাকাছি কথা বলে: তোমার আগেও রসূলদের নিয়ে উপহাস করা হয়েছে, আর যা নিয়ে তারা উপহাস করত, শেষে তা-ই তাদের ঘিরে ফেলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like Thread Through a Needle",
+          "bn": "সুইয়ের ফোঁড়ে সুতোর মতো"
+        },
+        "p": [
+          {
+            "en": "The next verse turns from the mockers' behaviour to what lies under it: kadhalika naslukuhu fi qulubi l-mujrimin, thus do We make it enter the hearts of the criminals. Al-Qurtubi explains salk as inserting one thing into another, like passing a thread through the eye of a needle. At-Tabari reads 15:12 as a comparison with 15:11: as We made disbelief enter the hearts of the earlier groups through their mockery of the messengers, so We do in the hearts of the idolaters of your people, who committed the crime of disbelief. The pronoun, he says, refers to the mockery of the messengers and the denial of them.",
+            "bn": "পরের আয়াত ঠাট্টাকারীদের আচরণ থেকে চোখ ফেরায় তার নিচে কী আছে, সেদিকে: কাযালিকা নাসলুকুহূ ফী কুলূবিল মুজরিমীন, এভাবেই আমি তা অপরাধীদের অন্তরে ঢুকিয়ে দিই। কুরতুবী বলেন, সালক মানে একটা জিনিসের ভেতর আরেকটা জিনিস ঢোকানো, যেমন সুইয়ের ফোঁড়ে সুতো পরানো। তাবারী ১৫:১২ আয়াতকে পড়েন ১৫:১১ আয়াতের সঙ্গে তুলনা হিসেবে। পূর্ববর্তী দলগুলো রসূলদের নিয়ে উপহাস করেছিল, আর সেই পথে আমি তাদের অন্তরে কুফর ঢুকিয়েছিলাম। তোমার কওমের যে মুশরিকরা কুফরির অপরাধ করেছে, তাদের অন্তরেও আমি তা-ই করি। তাবারীর মতে সর্বনামটি ফিরেছে রসূলদের নিয়ে উপহাস আর তাঁদের মিথ্যা বলার দিকে।"
+          },
+          {
+            "en": "Others name the it differently. At-Tabari relays from Ibn Jurayj that it is the denial, and from al-Hasan that it is shirk; Ibn Kathir gives shirk from Anas and al-Hasan al-Basri. Al-Qurtubi lists misguidance, disbelief, mockery and shirk, then adds a reading introduced with it is said: We make the Qur'an enter their hearts, and they deny it. Maududi's Tafhim al-Qur'an takes up that second line. He grants that most commentators refer the pronoun to the mockery, and that the grammar allows it, but prefers the Admonition of 15:9, which gives believing hearts peace and burns in the hearts of the criminals.",
+            "bn": "'তা' বলতে কী, সে ব্যাপারে অন্যরা ভিন্ন নাম দেন। তাবারী ইবন জুরাইজ থেকে বর্ণনা করেন, তা হলো মিথ্যা বলা, আর হাসান থেকে বর্ণনা করেন, তা হলো শিরক। ইবন কাসীর আনাস (রাঃ) ও হাসান বসরী থেকে শিরকের কথাই আনেন। কুরতুবী গুনে দেন গোমরাহি, কুফর, উপহাস ও শিরক। তারপর 'বলা হয়' বলে আরেকটি মত জোড়েন: আমি কুরআনকে তাদের অন্তরে প্রবেশ করাই, আর তারা তা মিথ্যা বলে। মওদূদীর তাফহীমুল কুরআন এই দ্বিতীয় পথটাই ধরে। তিনি মেনে নেন, বেশির ভাগ তাফসীরকার সর্বনামটিকে উপহাসের দিকে ফেরান, আর ব্যাকরণে তাতে দোষ নেই। তবু তিনি বেছে নেন ১৫:৯ আয়াতের উপদেশবাণীকে, যা মুমিনের অন্তরে শান্তি আনে, আর অপরাধীর অন্তরে জ্বালা ধরায়।"
+          },
+          {
+            "en": "The commentators also set the verse in order with what the people themselves did. Qatada, in at-Tabari, says: when they denied, Allah made it enter their hearts that they would not believe. As-Sa'di also speaks of a consequence: We punished them, since their hearts had grown alike in disbelief and denial, and so their treatment of their prophets grew alike in mockery, ridicule and refusing faith. Ibn Zayd, in at-Tabari, says He led them astray and kept faith from them. Al-Qurtubi and al-Baghawi each note that the verse answers a group of theologians, a debate this article does not enter.",
+            "bn": "তাফসীরকারেরা আয়াতটিকে মানুষের নিজের কাজের সঙ্গে ক্রম মিলিয়েও দেখেন। তাবারীর বর্ণনায় কাতাদা বলেন: যখন তারা মিথ্যা বলল, আল্লাহ তাদের অন্তরে ঢুকিয়ে দিলেন যে তারা ঈমান আনবে না। সা'দীও পরিণামের কথা বলেন: আমি তাদের শাস্তি দিয়েছি, কারণ কুফর ও মিথ্যা বলায় তাদের অন্তর একরকম হয়ে গিয়েছিল। ফলে নবী-রসূলদের সঙ্গে তাদের আচরণও একরকম হয়ে গেল: উপহাস, বিদ্রূপ আর ঈমান না আনা। তাবারীর বর্ণনায় ইবন যায়দ বলেন, তিনিই তাদের পথভ্রষ্ট করেছেন এবং ঈমান থেকে তাদের ফিরিয়ে রেখেছেন। কুরতুবী ও বাগাভী দুজনেই বলেন, আয়াতটি একদল কালামশাস্ত্রবিদের জবাব। সেই বিতর্কে এ লেখা ঢুকছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Way That Has Passed",
+          "bn": "যে রীতি আগেই গত হয়েছে"
+        },
+        "p": [
+          {
+            "en": "Verse 15:13 closes the thought: la yu'minuna bihi wa-qad khalat sunnatu l-awwalin, they will not believe in it, and the way of the earlier peoples has already passed. At-Tabari reads it as a forecast about the Prophet's own people, into whose hearts denial had entered. They would not believe in this Qur'an until they saw the painful punishment, taking up the way of their idolatrous forebears, 'Ad, Thamud and nations like them, who did not believe in what came from Allah until His displeasure fell on them and they perished. Qatada, in at-Tabari, calls the sunna Allah's dealings with the nations who went before.",
+            "bn": "১৫:১৩ আয়াত কথাটা শেষ করে: লা ইউ'মিনূনা বিহী ওয়া কাদ খালাত সুন্নাতুল আওয়ালীন, তারা এতে ঈমান আনবে না, আর পূর্ববর্তীদের রীতি তো আগেই গত হয়েছে। তাবারী একে পড়েন নবী ﷺ-এর নিজের কওম সম্পর্কে আগাম খবর হিসেবে, যাদের অন্তরে মিথ্যা বলার প্রবণতা ঢুকে গিয়েছিল। যন্ত্রণাদায়ক শাস্তি চোখে না দেখা পর্যন্ত তারা এই কুরআনে ঈমান আনবে না। তারা চলবে তাদের মুশরিক পূর্বপুরুষদের পথে, আদ, সামূদ ও তাদের মতো জাতিগুলোর পথে। আল্লাহর কাছ থেকে যা এসেছিল, তারা তাতে ঈমান আনেনি, শেষে আল্লাহর অসন্তোষ নেমে এল আর তারা ধ্বংস হলো। তাবারীর বর্ণনায় কাতাদা সুন্নাহ বলতে বোঝান আগের জাতিগুলোর সঙ্গে আল্লাহর আচরণ।"
+          },
+          {
+            "en": "Two readings of sunna stand side by side. Al-Qurtubi's first is that Allah's way of destroying the disbelievers has passed, so how near these are to destruction. As-Sa'di and al-Baghawi agree, al-Baghawi adding that it is meant to frighten the people of Makkah. Al-Qurtubi's second, introduced with it is said, makes the sunna the earlier peoples' own habit of denial and disbelief, which these now imitate. Ibn Kathir widens the first reading: what is known is both what Allah did to those who denied His messengers, the destruction, and how He saved the prophets and their followers in this world and the next.",
+            "bn": "সুন্নাহ শব্দের দুটি ব্যাখ্যা পাশাপাশি দাঁড়িয়ে আছে। কুরতুবীর প্রথম ব্যাখ্যা: কাফিরদের ধ্বংস করার ব্যাপারে আল্লাহর রীতি আগেই কার্যকর হয়ে গেছে, তাহলে এরা ধ্বংসের কত কাছে! সা'দী ও বাগাভীও এভাবেই পড়েন। বাগাভী যোগ করেন, এর উদ্দেশ্য মক্কাবাসীকে ভয় দেখানো। কুরতুবীর দ্বিতীয় ব্যাখ্যা আসে 'বলা হয়' দিয়ে। সেখানে সুন্নাহ মানে পূর্ববর্তীদের নিজেদের অভ্যাস, মিথ্যা বলা ও কুফরি, যা এরা এখন অনুকরণ করছে। ইবন কাসীর প্রথম ব্যাখ্যাটাকে আরও প্রশস্ত করেন। সবার জানা আছে দুটোই: রসূলদের যারা মিথ্যা বলেছিল, তাদের আল্লাহ কীভাবে ধ্বংস করেছেন, আর নবীদের ও তাঁদের অনুসারীদের দুনিয়া ও আখিরাতে কীভাবে রক্ষা করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Naming No One Today",
+          "bn": "আজকের কারও নাম নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: earlier groups who mocked the messengers sent to them, and, in at-Tabari and al-Baghawi, the idolaters of Makkah who mocked the Prophet ﷺ. It licenses nothing against any living person or community. It does not entitle anyone to call a critic a criminal, to treat a neighbour of another faith as someone whose heart is closed for good, or to read 15:13 as a ruling on who will never believe. Who comes to faith is with Allah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা এর ভাষা বর্ণনা করে: আগের দলগুলো, যারা তাদের কাছে পাঠানো রসূলদের নিয়ে উপহাস করেছিল। আর তাবারী ও বাগাভীর ব্যাখ্যায়, মক্কার সেই মুশরিকরা, যারা নবী ﷺ-কে নিয়ে উপহাস করেছিল। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো সমালোচককে অপরাধী বলার অধিকার এতে নেই। ভিন্ন ধর্মের প্রতিবেশীকে এমন কেউ ভাবার অধিকারও নেই, যার অন্তর চিরতরে বন্ধ। ১৫:১৩ আয়াতকে কে কখনো ঈমান আনবে না তার রায় হিসেবে পড়ারও সুযোগ নেই। কে ঈমান আনবে, তা আল্লাহর হাতে।"
+          },
+          {
+            "en": "Nor do the sources hang more on the verse than it carries. None of the commentaries fetched for 15:11 attaches a hadith to it, so this article quotes none, and the fetched pages give no report of a particular occasion for its revelation. Its setting is its placement: the answer to 15:6 to 15:9 and the lead-in to 15:12 and 15:13. One more caution follows from that setting. The comfort is given to the one who was mocked. It is not a permission to mock back, and it is no shield for someone who was laughed at because he was in fact wrong.",
+            "bn": "উৎসগুলোও আয়াতের উপর তার ধারণক্ষমতার বেশি কিছু চাপায় না। ১৫:১১ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এ লেখাতেও কোনো হাদীস উদ্ধৃত হয়নি। নাযিলের কোনো নির্দিষ্ট উপলক্ষের বর্ণনাও দেখা পাতাগুলোতে নেই। আয়াতের প্রেক্ষাপট তাই তার অবস্থান: ১৫:৬ থেকে ১৫:৯ আয়াতের জবাব, আর ১৫:১২ ও ১৫:১৩ আয়াতের ভূমিকা। এই প্রেক্ষাপট থেকে আরও একটা সতর্কতা আসে। সান্ত্বনাটা দেওয়া হয়েছে যাঁকে নিয়ে ঠাট্টা হয়েছে, তাঁকে। পাল্টা ঠাট্টা করার অনুমতি এতে নেই। আর যে আসলেই ভুল করেছিল বলে লোকে তাকে নিয়ে হেসেছে, তার জন্য এ আয়াত কোনো ঢাল নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Laughter Is Mine",
+          "bn": "হাসিটা যখন আমার"
+        },
+        "p": [
+          {
+            "en": "There are two places to stand in this verse. The first is beside the one who is mocked. A believer is laughed at for a prayer kept at work, for a debt honestly repaid, for refusing a deal everyone else takes. The verse does not tell him the laughter will end. It tells him he is in old company. If not one messenger escaped the jeer, then the jeer cannot be the measure of what is true. Being mocked does not make a person right, but it does not make him wrong either.",
+            "bn": "এ আয়াতে দাঁড়ানোর দুটি জায়গা আছে। প্রথমটা, যাকে নিয়ে ঠাট্টা হচ্ছে তার পাশে। কর্মস্থলে নামাজ আদায়ের জন্য, ঋণ সততার সঙ্গে শোধ করার জন্য, সবাই যে লেনদেন নেয় তা ফিরিয়ে দেওয়ার জন্য কোনো মুমিনকে নিয়ে লোকে হাসে। আয়াত তাকে বলে না যে হাসি থেমে যাবে। বলে, সে পুরোনো এক কাফেলার সঙ্গী। একজন রসূলও যখন বিদ্রূপ থেকে রেহাই পাননি, তখন বিদ্রূপ সত্য মাপার দাঁড়িপাল্লা হতে পারে না। ঠাট্টার শিকার হলেই কেউ সঠিক হয়ে যায় না, আবার ভুলও হয়ে যায় না।"
+          },
+          {
+            "en": "The second place is harder to look at: among those laughing. At-Tabari names what drove the mockery, insolence and rebellion against their Lord, and as-Sa'di describes hearts grown alike until conduct grew alike. Mockery spreads that way, by shared habit, and it lets a group dismiss a call without ever answering it. So the verse turns on me. When something true reaches me through a person I find easy to laugh at, do I answer the message, or the messenger's accent, age or clothes? A joke can shut a door that an honest argument would have left open.",
+            "bn": "দ্বিতীয় জায়গাটার দিকে তাকানো কঠিন: যারা হাসছে, তাদের ভিড়ে। তাবারী ঠাট্টার পেছনের চালিকাশক্তির নাম বলেছেন: রবের বিরুদ্ধে ঔদ্ধত্য আর বিদ্রোহ। আর সা'দী বলেছেন এমন অন্তরের কথা, যেগুলো একরকম হতে হতে আচরণও একরকম হয়ে গেছে। ঠাট্টা এভাবেই ছড়ায়, দল বেঁধে অভ্যাসে। এতে একটা দল কোনো ডাকের জবাব না দিয়েই তাকে উড়িয়ে দিতে পারে। তাই আয়াতটা ঘুরে আমার দিকেই তাকায়। সহজে হাসা যায় এমন কারও মুখে কোনো সত্য আমার কাছে এলে আমি কি বার্তার জবাব দিই, নাকি বার্তাবাহকের উচ্চারণ, বয়স বা পোশাকের? খোলা মনের তর্ক যে দরজা খোলা রাখত, একটা রসিকতা তা বন্ধ করে দিতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "15:15": {
     "sections": [
       {

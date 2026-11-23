@@ -33223,6 +33223,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you pray for your family, ask first that they keep the prayer, then for their provision, and ask for that provision so that they may be grateful.",
     "lessonBn": "পরিবারের জন্য দোয়া করলে আগে চান তারা যেন নামায ধরে রাখে, তারপর চান তাদের রিযিক, আর সেই রিযিকও চান যাতে তারা শুকরিয়া আদায় করে।"
+  },
+  "15:11": {
+    "reflectionEn": "They called him mad, and asked why he did not bring down the angels. Then this verse widens the frame: no messenger ever came to any people without being laughed at. The insult that stung in Makkah was not new. It had been thrown at every messenger before him, and it said more about those who threw it than about the one it hit. Mockery is the cheapest reply there is. It costs no thought and answers nothing. So two questions sit in this verse for me. When I am laughed at for doing what is right, do I take the laughter as proof that I am wrong? And when a truth I dislike reaches me, do I weigh it, or reach for a joke?",
+    "reflectionBn": "লোকেরা তাঁকে পাগল বলেছিল, জিজ্ঞেস করেছিল ফেরেশতা নামিয়ে আনছ না কেন। তারপর এই আয়াত ছবিটা বড় করে দেখায়: কোনো জাতির কাছে এমন কোনো রসূল আসেননি, যাঁকে নিয়ে তারা হাসাহাসি করেনি। মক্কায় যে গালি তাঁর গায়ে লেগেছিল, তা নতুন কিছু ছিল না। তাঁর আগের প্রত্যেক রসূলের দিকেই তা ছোড়া হয়েছে। আর সেই গালি যাঁর গায়ে লেগেছে তাঁর চেয়ে যারা ছুড়েছে তাদের সম্পর্কেই বেশি বলে দেয়। ঠাট্টা সবচেয়ে সস্তা জবাব। এতে কোনো চিন্তা খরচ হয় না, কোনো প্রশ্নের উত্তরও মেলে না। তাই এ আয়াতে আমার জন্য দুটি প্রশ্ন রয়ে যায়। ঠিক কাজ করার জন্য কেউ আমাকে নিয়ে হাসলে আমি কি সেই হাসিকেই ধরে নিই যে আমি ভুল? আর অপছন্দের কোনো সত্য আমার কাছে পৌঁছালে আমি কি তা ভেবে দেখি, নাকি একটা রসিকতা খুঁজে নিই?",
+    "pointsEn": [
+      "When someone laughs at me for praying, giving or speaking honestly, does the laughter change what I do the next day?",
+      "Is there a truth I have answered with a joke because taking it seriously would cost me something?",
+      "Do I know the stories of the mocked messengers well enough to find company in them on a hard day?",
+      "Who near me is being ridiculed for doing good, and did I stand beside them or laugh along?",
+      "When I joke about religion, am I laughing at people's mistakes, or at what Allah sent?"
+    ],
+    "pointsBn": [
+      "নামাজ পড়া, দান করা বা সত্য বলার জন্য কেউ আমাকে নিয়ে হাসলে পরদিন কি আমার আমল বদলে যায়?",
+      "এমন কোনো সত্য কি আছে, যার জবাব আমি রসিকতা দিয়ে দিয়েছি, কারণ গুরুত্ব দিলে আমার কিছু ছাড়তে হতো?",
+      "যেসব রসূলকে নিয়ে ঠাট্টা করা হয়েছিল, তাঁদের কাহিনি কি আমি এতটা জানি যে কঠিন দিনে তাঁদের মধ্যে সঙ্গ খুঁজে পাই?",
+      "আমার আশপাশে ভালো কাজের জন্য কাকে নিয়ে বিদ্রূপ চলছে? আমি কি তার পাশে দাঁড়িয়েছি, নাকি সবার সঙ্গে হেসেছি?",
+      "ধর্ম নিয়ে রসিকতা করলে আমি কি মানুষের ভুল নিয়ে হাসি, নাকি আল্লাহ যা পাঠিয়েছেন তা নিয়ে?"
+    ],
+    "lessonEn": "When you are mocked for the truth, remember that every messenger was mocked before you, and never answer a truth you dislike with ridicule instead of thought.",
+    "lessonBn": "সত্যের জন্য আপনাকে নিয়ে ঠাট্টা হলে মনে রাখুন, আপনার আগে প্রত্যেক রসূলকেই ঠাট্টা সইতে হয়েছে। আর অপছন্দের সত্যের জবাব কখনো চিন্তার বদলে বিদ্রূপ দিয়ে দেবেন না।"
   }
 };
 
