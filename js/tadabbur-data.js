@@ -31923,6 +31923,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Having seen Allah rescue you is no guard against wanting what others worship; know Him well enough that nothing your neighbours hold looks like a god.",
     "lessonBn": "আল্লাহর উদ্ধার নিজ চোখে দেখলেই অন্যরা যার উপাসনা করে তার প্রতি লোভ থেকে রক্ষা মেলে না। তাঁকে এমনভাবে চিনুন, যাতে প্রতিবেশীর হাতের কোনো কিছুই আপনার কাছে ইলাহ বলে মনে না হয়।"
+  },
+  "7:200": {
+    "reflectionEn": "The verse before this one asks for something hard: take what is given freely, enjoin the good, and turn away from those who act in ignorance. Anyone who has tried it knows the moment it gets tested. A word lands, the face grows hot, and a reply is already forming. This verse names that moment before it comes. If a prod from Satan stirs you, seek refuge in Allah. It does not tell me to win the argument inside my head first, or to wrestle the urge alone. It tells me to turn to the One who heard what was said to me and knows what is stirring in me. The refuge is one sentence. Do I say it, or do I let the heat speak?",
+    "reflectionBn": "এর আগের আয়াত একটা কঠিন কাজ দিয়েছে: সহজে যা মেলে তা নাও, ভালো কাজের আদেশ দাও, আর যারা মূর্খের মতো আচরণ করে তাদের এড়িয়ে চলো। যে কখনো চেষ্টা করেছে, সে জানে পরীক্ষাটা কোন মুহূর্তে আসে। একটা কথা গায়ে লাগে, মুখ গরম হয়ে ওঠে, জবাবটা ভেতরে তৈরি হতে থাকে। এ আয়াত সেই মুহূর্ত আসার আগেই তার নাম বলে দেয়। শয়তানের দিক থেকে কোনো খোঁচা যদি তোমাকে উসকে দেয়, আল্লাহর আশ্রয় চাও। আগে মনের ভেতরের তর্কে জিতে আসতে বলা হয়নি, একা একা তাড়নার সঙ্গে লড়তেও বলা হয়নি। বলা হয়েছে তাঁর দিকে ফিরতে, যিনি আমাকে বলা কথাটা শুনেছেন আর আমার ভেতরে কী জাগছে তা জানেন। আশ্রয় চাওয়া মাত্র একটি বাক্য। আমি কি সেটা মুখে আনি, নাকি রাগকেই কথা বলতে দিই?",
+    "pointsEn": [
+      "When did I last feel anger rising, and what did I do in the first few seconds?",
+      "Is there a person or a subject that reliably provokes me, and have I readied the words of refuge before I meet it again?",
+      "Do I keep seeking refuge for emergencies, or do I say it at the first small stir?",
+      "When I am wronged, do I remember that Allah heard what was said to me, so the reply does not rest on me alone?",
+      "Whom have I answered in anger this month, and what would turning away have looked like?"
+    ],
+    "pointsBn": [
+      "শেষবার কখন টের পেয়েছি রাগ চড়ছে, আর প্রথম কয়েক সেকেন্ডে আমি কী করেছি?",
+      "এমন কোনো মানুষ বা প্রসঙ্গ কি আছে যা প্রায় প্রতিবারই আমাকে খেপিয়ে তোলে? আবার মুখোমুখি হওয়ার আগে আশ্রয়ের কথাগুলো কি তৈরি রেখেছি?",
+      "আশ্রয় চাওয়াকে কি আমি বিপদের দিনের জন্য তুলে রাখি, নাকি প্রথম ছোট্ট খোঁচাতেই তা বলি?",
+      "আমার উপর অন্যায় হলে কি মনে রাখি যে আমাকে বলা কথাটা আল্লাহ শুনেছেন, তাই জবাবের ভার একা আমার নয়?",
+      "এ মাসে রাগের মাথায় কাকে জবাব দিয়েছি? এড়িয়ে গেলে ব্যাপারটা দেখতে কেমন হতো?"
+    ],
+    "lessonEn": "When anger or a whisper pushes you to repay ignorance in kind, turn to Allah at once and seek refuge in Him; He hears and He knows.",
+    "lessonBn": "রাগ বা কুমন্ত্রণা যখন মূর্খতার জবাব মূর্খতা দিয়ে দিতে ঠেলে দেয়, তখনই আল্লাহর দিকে ফিরে তাঁর আশ্রয় চান; তিনি শোনেন, তিনি জানেন।"
   }
 };
 

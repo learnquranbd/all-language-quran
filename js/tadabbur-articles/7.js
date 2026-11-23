@@ -10895,6 +10895,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:200": {
+    "sections": [
+      {
+        "h": {
+          "en": "Pardon First, Then the Prod",
+          "bn": "আগে ক্ষমা, তারপর খোঁচা"
+        },
+        "p": [
+          {
+            "en": "Al-A'raf is close to its end. In 7:199 the Prophet ﷺ is told to take what is given freely, to enjoin what is good, and to turn away from the ignorant. The next verse, in ten Arabic words, names what will test that command: wa-imma yanzaghannaka mina sh-shaytani nazghun fa-sta'idh billah, innahu sami'un 'alim. And if an incitement from the Shaytan prods you, seek refuge in Allah; He is Hearing, Knowing. The instruction is to turn away; this verse is the help for the moment when that is hardest.",
+            "bn": "সূরা আল-আ'রাফ শেষের কাছাকাছি। ৭:১৯৯ আয়াতে নবী ﷺ-কে বলা হয়েছে, সহজে যা মেলে তা নিতে, ভালো কাজের আদেশ দিতে আর মূর্খদের এড়িয়ে চলতে। পরের আয়াতটি আরবিতে দশটি শব্দের। সেই আদেশ কোথায় পরীক্ষায় পড়বে, এ আয়াত তার নাম বলে দেয়: ওয়া ইম্মা ইয়ানযাগান্নাকা মিনাশ শাইতানি নাযগুন ফাসতা'ইয বিল্লাহ, ইন্নাহু সামী'উন 'আলীম। শয়তানের পক্ষ থেকে কোনো উসকানি যদি তোমাকে খোঁচা দেয়, তবে আল্লাহর আশ্রয় চাও; তিনি সব শোনেন, সব জানেন। নির্দেশ হলো এড়িয়ে চলা। আর যে মুহূর্তে তা সবচেয়ে কঠিন, তখনকার সাহায্য এই আয়াত।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside two others and says there is no fourth like them: this passage, 23:96 to 23:98, and 41:34 to 41:36. In all three, he says, Allah directs the believer to treat the human wrongdoer with what is good and what is better, because that restrains him from his defiance, by Allah's leave. Then He directs him to seek refuge from the Shaytan among the jinn, whom kindness does not restrain: he wants your complete ruin, an open enemy to you as he was to your father before you.",
+            "bn": "ইবন কাসীর আয়াতটিকে আরও দুটি আয়াতের পাশে রাখেন এবং বলেন, এমন চতুর্থটি আর নেই: এই অংশ, ২৩:৯৬ থেকে ২৩:৯৮, আর ৪১:৩৪ থেকে ৪১:৩৬। তাঁর কথায়, তিনটিতেই আল্লাহ মুমিনকে শেখান অন্যায়কারী মানুষের সঙ্গে ভালো আর উত্তম আচরণ করতে। কারণ আল্লাহর ইচ্ছায় সেই আচরণই তাকে বাড়াবাড়ি থেকে থামায়। তারপর শেখান জিনদের শয়তান থেকে আশ্রয় চাইতে। ভালো ব্যবহারে সে থামে না। সে চায় আপনার পুরোপুরি সর্বনাশ, সে আপনার প্রকাশ্য শত্রু, যেমন শত্রু ছিল আপনার আদি পিতার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Condition, Not a Report",
+          "bn": "শর্তের কথা, ঘটনার খবর নয়"
+        },
+        "p": [
+          {
+            "en": "The 'you' in yanzaghannaka is singular, and the Muyassar makes the addressee explicit: whatever reaches you, O Prophet, of anger from the Shaytan, or whatever whispering you sense from him. The sentence is built as a condition. It says if, and what to do then; it does not report that anything of the kind took place. At-Tabari's paraphrase keeps that shape: should anger from the Shaytan provoke you, an anger that would turn you from turning away from the ignorant and push you to repay them, then seek Allah's protection.",
+            "bn": "ইয়ানযাগান্নাকা শব্দের 'তোমাকে' একবচন। মুয়াসসার সম্বোধিত ব্যক্তিকে স্পষ্ট করে দেয়: হে নবী, শয়তানের পক্ষ থেকে যে রাগই আপনাকে পেয়ে বসুক, বা তার যে কুমন্ত্রণাই টের পান। বাক্যটি শর্তের গঠনে বাঁধা। এতে বলা আছে, যদি এমন হয় তবে কী করতে হবে। এমন কিছু ঘটেছিল, সে খবর এতে নেই। তাবারীর ব্যাখ্যাও সেই গঠন ধরে রাখে: শয়তানের দিক থেকে রাগ যদি আপনাকে উসকায়, এমন রাগ যা আপনাকে মূর্খদের এড়িয়ে চলা থেকে ফিরিয়ে দিতে চায় আর তাদের পাল্টা জবাব দিতে ঠেলে দেয়, তবে আল্লাহর আশ্রয় নিন।"
+          },
+          {
+            "en": "As-Sa'di widens the address. He introduces the verse as Allah's teaching on how the servant should deal with the devils among humans and jinn, and glosses the condition as at whatever time and in whatever state. The command reached the Prophet ﷺ first, and every believer through him. At-Tabari, Ibn Kathir and al-Baghawi also relay from Ibn Zayd a report linking the verse to a question about anger after 7:199 came down. At-Tabari's chain stops at Ibn Zayd, no fetched source grades it, and nothing here rests on it.",
+            "bn": "সা'দী সম্বোধনকে আরও বড় পরিসরে নিয়ে যান। তিনি আয়াতটির পরিচয় দেন এভাবে: মানুষ ও জিনের মধ্যকার শয়তানদের সঙ্গে বান্দা কেমন আচরণ করবে, এ তারই শিক্ষা। আর শর্তটির ব্যাখ্যা দেন, যে সময়েই হোক, যে অবস্থাতেই হোক। আদেশটা প্রথমে এসেছে নবী ﷺ-এর কাছে, তাঁর মাধ্যমে প্রত্যেক মুমিনের কাছে। তাবারী, ইবন কাসীর ও বাগাভী ইবন যায়দ থেকে একটি বর্ণনাও আনেন, যা ৭:১৯৯ নাযিলের পর রাগ নিয়ে এক প্রশ্নের সঙ্গে এ আয়াতকে জোড়ে। তাবারীর সনদ ইবন যায়দে গিয়েই থেমে যায়, সংগৃহীত কোনো সূত্র এর মান নির্ণয় করেনি, আর এখানে এর উপর কিছুই দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nazgh, a Jab That Divides",
+          "bn": "নাযগ: যে খোঁচা ফাটল ধরায়"
+        },
+        "p": [
+          {
+            "en": "What is a nazgh? Al-Baghawi gives the physical picture first: it strikes you and comes over you as a nakhsa, a jab, and from the Shaytan the nazgh is whispering. He quotes the grammarian az-Zajjaj: in a human being the nazgh is the slightest movement, and from the Shaytan the slightest whisper; al-Qurtubi gives the same line. Al-Qurtubi adds that the word has two forms, nazgh and naghz, and cites an Arab saying that warns against those who jab and those who stir people up.",
+            "bn": "নাযগ কী? বাগাভী আগে শরীরী ছবিটা দেন: যা আপনাকে আঘাত করে, পেয়ে বসে, নাখসা হিসেবে, মানে খোঁচা। আর শয়তানের দিক থেকে নাযগ হলো কুমন্ত্রণা। তিনি ব্যাকরণবিদ যাজ্জাজের কথা আনেন: মানুষের বেলায় নাযগ মানে সামান্যতম নড়াচড়া, আর শয়তানের বেলায় সামান্যতম কুমন্ত্রণা। কুরতুবীও একই কথা আনেন। সঙ্গে জানান, শব্দটির দুটি রূপ আছে, নাযগ আর নাগয। আরবদের একটি প্রবাদও তিনি উদ্ধৃত করেন, যাতে যারা খোঁচায় আর যারা মানুষকে উসকে দেয়, তাদের থেকে সাবধান থাকতে বলা হয়েছে।"
+          },
+          {
+            "en": "At-Tabari and Ibn Kathir go to the root: the basic sense of nazgh is corruption, fasad. Nazagha the Shaytan between people, at-Tabari explains, means he spoiled things between them and set some against others. Ibn Kathir cites 17:53 on the Shaytan sowing discord among Allah's servants, and al-Qurtubi cites 12:100, where Yusuf (AS) says the Shaytan had come between him and his brothers. Al-Qurtubi then treats nazgh, naghz, hamz and waswasa as one, citing 23:97 and 114:4. A small prod, then, whose work is division.",
+            "bn": "তাবারী আর ইবন কাসীর যান শব্দের মূলে: নাযগের আসল অর্থ ফাসাদ, বিগড়ে দেওয়া। তাবারী বুঝিয়ে বলেন, শয়তান লোকদের মধ্যে নাযগ করল মানে তাদের সম্পর্ক বিগড়ে দিল, একদলকে আরেক দলের বিরুদ্ধে খেপিয়ে দিল। ইবন কাসীর আনেন ১৭:৫৩, যেখানে শয়তান আল্লাহর বান্দাদের মধ্যে বিভেদ বাধায়। কুরতুবী আনেন ১২:১০০, যেখানে ইউসুফ (আঃ) বলেন, শয়তান তাঁর আর তাঁর ভাইদের মাঝে বিভেদ ঢুকিয়েছিল। এরপর কুরতুবী নাযগ, নাগয, হাময আর ওয়াসওয়াসাকে একই অর্থের শব্দ ধরেন, দলিল হিসেবে আনেন ২৩:৯৭ ও ১১৪:৪। ছোট্ট একটা খোঁচা, কিন্তু তার কাজ ভাঙন ধরানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anger Only, or Any Whisper",
+          "bn": "শুধু রাগ, নাকি সব কুমন্ত্রণা"
+        },
+        "p": [
+          {
+            "en": "The commentators do not draw the verse's reach in the same place. At-Tabari reads the nazgh as anger, tied tightly to 7:199: the anger that would turn you from ignoring the ignorant and carry you into repaying them. Al-Qurtubi is close to him; for him the verb means that a whisper toward what is not lawful strikes you and presents itself at the moment of anger. On this reading the verse is about one particular test, the insult that invites an insult back.",
+            "bn": "আয়াতের পরিসর তাফসীরকারেরা এক জায়গায় টানেন না। তাবারী নাযগকে পড়েন রাগ হিসেবে, ৭:১৯৯-এর সঙ্গে শক্ত করে বাঁধা অবস্থায়। এ সেই রাগ, যা আপনাকে মূর্খদের উপেক্ষা করা থেকে ফিরিয়ে এনে তাদের পাল্টা জবাব দেওয়ার দিকে নিয়ে যায়। কুরতুবী তাঁর কাছাকাছি। তাঁর মতে ক্রিয়াটির অর্থ, রাগের মুহূর্তে অবৈধ কিছুর দিকে কোনো কুমন্ত্রণা আপনাকে পেয়ে বসে, সামনে এসে দাঁড়ায়। এ পাঠে আয়াতটি একটি নির্দিষ্ট পরীক্ষার কথা বলে: গালির জবাবে গালি দেওয়ার টান।"
+          },
+          {
+            "en": "As-Sa'di draws the line wider: the nazgh is any whispering you sense from the Shaytan, holding you back from good or urging and nudging you toward evil, at any time and in any state. The Muyassar holds both together: anger from the Shaytan, or whispering that holds you back from good or urges you to evil. The two readings stand side by side. One keeps the verse inside its setting after 7:199; the other lets the same remedy cover every prod.",
+            "bn": "সা'দী রেখাটা আরও চওড়া করে টানেন: নাযগ হলো শয়তানের দিক থেকে টের পাওয়া যেকোনো কুমন্ত্রণা, যা ভালো কাজ থেকে আটকে রাখে বা মন্দের দিকে তাগাদা দেয়, ঠেলে দেয়, যে সময়েই হোক, যে অবস্থাতেই হোক। মুয়াসসার দুটোকেই একসঙ্গে ধরে: শয়তানের দিক থেকে রাগ, অথবা এমন কুমন্ত্রণা যা ভালো থেকে আটকায় বা মন্দে উসকায়। দুটি পাঠ এখানে পাশাপাশি রইল। একটি আয়াতকে ৭:১৯৯-এর পরের প্রেক্ষাপটের ভেতরে রাখে। অন্যটি একই প্রতিকারকে ছড়িয়ে দেয় প্রতিটি খোঁচার উপর।"
+          },
+          {
+            "en": "Al-Qurtubi also relates from Sa'id ibn al-Musayyib, without a chain, a nazgh between two believers. Sa'id says he was present when there was a nazgh from the Shaytan between Uthman and Ali (RA), and neither held back anything from the other; then they did not leave their place until each had asked forgiveness for the other. It is al-Qurtubi's illustration of the word, not an occasion for the verse, and it shows the prod and the return to Allah in the same sitting.",
+            "bn": "কুরতুবী সাঈদ ইবনুল মুসাইয়িব থেকে, সনদ ছাড়া, একটি দৃশ্যও বর্ণনা করেন, যাতে দুই মুমিনের মধ্যে নাযগের ছবি ফুটে ওঠে। সাঈদ বলেন, তিনি উপস্থিত ছিলেন যখন উসমান (রাঃ) ও আলী (রাঃ)-এর মধ্যে শয়তানের দিক থেকে নাযগ হয়েছিল, আর কেউই অপরকে কিছু বলতে বাকি রাখেননি। তারপর, তিনি বলেন, দুজনের কেউই জায়গা ছেড়ে ওঠেননি, যতক্ষণ না প্রত্যেকে অপরের জন্য ইস্তিগফার করেছেন। এটি শব্দটির উদাহরণ হিসেবে কুরতুবীর আনা বর্ণনা, আয়াত নাযিলের উপলক্ষ নয়। এতে একই বৈঠকে খোঁচা আর আল্লাহর দিকে ফেরা, দুটোই দেখা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Call the Owner of the Flock",
+          "bn": "পালের মালিককে ডাকুন"
+        },
+        "p": [
+          {
+            "en": "Fa-sta'idh billah. At-Tabari and al-Baghawi both gloss it as istajir billah: seek Allah's protection; at-Tabari adds, from the Shaytan's prodding. Ibn Kathir defines al-'iyadh as taking refuge, leaning on someone and asking his protection against harm, and sets it beside al-maladh, which is resorting to someone for a good you hope for. He cites two lines from al-Mutanabbi that join them: you to whom I resort for what I hope, and with whom I seek refuge from what I fear.",
+            "bn": "ফাসতা'ইয বিল্লাহ। তাবারী ও বাগাভী দুজনেই এর ব্যাখ্যা দেন ইসতাজির বিল্লাহ বলে: আল্লাহর কাছে নিরাপত্তা চাও। তাবারী যোগ করেন, শয়তানের খোঁচা থেকে। ইবন কাসীর আল-ইয়ায-এর সংজ্ঞা দেন: অনিষ্ট থেকে বাঁচতে কারও কাছে আশ্রয় নেওয়া, তার উপর ভর দেওয়া, তার হেফাজত চাওয়া। এর পাশে রাখেন আল-মালায, মানে আশা করা কোনো কল্যাণের জন্য কারও শরণ নেওয়া। দুটোকে এক করে, এমন দুটি পঙক্তি তিনি মুতানাব্বী থেকে উদ্ধৃত করেন: হে তুমি, যা আশা করি তার জন্য যার শরণ নিই, আর যা ভয় করি তা থেকে যার আশ্রয় চাই।"
+          },
+          {
+            "en": "Al-Qurtubi explains the command: Allah ordered that whispering be repelled by turning to Him and seeking His refuge. With the reminder that the highest likeness belongs to Allah, he offers a homely comparison: one seeks refuge from dogs only with the master of the dogs. He then relates from one of the early generation a talk with a student. What will you do with the Shaytan when he makes sins look fair to you? I will struggle against him. And if he returns? I will struggle against him. And if he returns again? The same.",
+            "bn": "আদেশটির যুক্তি কুরতুবী বুঝিয়ে দেন: আল্লাহ আদেশ দিয়েছেন, কুমন্ত্রণা ঠেকাতে হবে তাঁর দিকে ফিরে আর তাঁর আশ্রয় চেয়ে। সর্বোচ্চ দৃষ্টান্ত যে আল্লাহরই, সে কথা মনে করিয়ে দিয়ে তিনি ঘরোয়া একটা তুলনা দেন: কুকুর থেকে আশ্রয় চাইতে হয় কুকুরের মালিকের কাছেই। এরপর পূর্বসূরিদের একজনের সঙ্গে তাঁর ছাত্রের কথোপকথন বর্ণনা করেন। শয়তান যখন গুনাহকে তোমার চোখে সুন্দর করে দেখাবে, কী করবে? তার বিরুদ্ধে লড়ব। যদি আবার আসে? লড়ব। যদি আবারও আসে? একই জবাব।"
+          },
+          {
+            "en": "The teacher answers: this will take long. If you passed a flock of sheep and its dog barked at you and blocked your way, what would you do? I would fight it off as hard as I could. That will take you long, the teacher says; call instead on the owner of the flock to hold it back from you. As-Sa'di gives the counsel in three verbs: take shelter in Allah, hold fast to Him, and keep within His protected ground. The refuge is not a technique added to the struggle; it is a turning to the Owner of the outcome.",
+            "bn": "উস্তাদ বলেন, এভাবে তো অনেক সময় লেগে যাবে। ধরো, তুমি ভেড়ার পালের পাশ দিয়ে যাচ্ছ, আর পালের কুকুর ঘেউ ঘেউ করে তোমার পথ আটকে দিল। তখন কী করবে? যতটা পারি লড়ে তাকে সরাব। উস্তাদ বলেন, এতে তোমার অনেক সময় লাগবে। তার চেয়ে পালের মালিককে ডাকো, সে কুকুরটাকে তোমার কাছ থেকে সরিয়ে নেবে। সা'দী একই পরামর্শ দেন তিনটি ক্রিয়ায়: আল্লাহর আশ্রয় নাও, তাঁকে আঁকড়ে ধরো, তাঁর সংরক্ষিত সীমানার ভেতরে থাকো। আশ্রয় চাওয়া লড়াইয়ের সঙ্গে জুড়ে দেওয়া কোনো কৌশল নয়। এ হলো ফলাফলের মালিকের দিকে ফেরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Heard the Insult Too",
+          "bn": "গালিটাও তিনি শুনেছেন"
+        },
+        "p": [
+          {
+            "en": "Innahu sami'un 'alim: He is Hearing, Knowing. At-Tabari spells out what is heard. Allah, with whom you seek refuge, hears the ignorance of the ignorant directed at you, hears your seeking refuge with Him from the Shaytan's prodding, and hears every other word of His creation; none of it is hidden from Him. And He knows what removes the Shaytan's prodding from you, along with everything else in the affairs of His creatures. The insult that started the heat has already been heard by Him to whom you are turning.",
+            "bn": "ইন্নাহু সামী'উন 'আলীম: তিনি সব শোনেন, সব জানেন। কী শোনা হয়, তাবারী তা খুলে বলেন। যে আল্লাহর আশ্রয় আপনি চাইছেন, তিনি আপনার প্রতি মূর্খের মূর্খতা শোনেন। শয়তানের খোঁচা থেকে তাঁর কাছে আপনার আশ্রয় চাওয়াও শোনেন। তাঁর সৃষ্টির অন্য সব কথাও শোনেন, কিছুই তাঁর কাছে গোপন নয়। আর তিনি জানেন কিসে আপনার উপর থেকে শয়তানের খোঁচা দূর হবে, জানেন তাঁর সৃষ্টির বাকি সব বিষয়ও। যে গালিতে রাগ জ্বলে উঠেছিল, যাঁর দিকে আপনি ফিরছেন তিনি সেটা আগেই শুনে ফেলেছেন।"
+          },
+          {
+            "en": "As-Sa'di turns the two names toward the person praying. He hears what you say and knows your intention, your weakness and the strength of your turning to Him, so He will shield you from the Shaytan's trial and his whispering; as-Sa'di closes with surah an-Nas. The Muyassar is brief: Hearing every word, Knowing every deed. Qatada, in at-Tabari, reads the verse from the enemy's side: Allah knew that this enemy is formidable and defiant. The command to seek refuge fits the size of the opponent.",
+            "bn": "সা'দী নাম দুটিকে ঘুরিয়ে দেন প্রার্থনাকারীর দিকে। আপনি যা বলেন তিনি শোনেন। আপনার নিয়ত, আপনার দুর্বলতা আর তাঁর দিকে আপনার ফেরার জোর, সবই তিনি জানেন। তাই তিনি আপনাকে শয়তানের ফিতনা আর কুমন্ত্রণা থেকে রক্ষা করবেন। সা'দী শেষ করেন সূরা আন-নাস দিয়ে। মুয়াসসার সংক্ষেপে বলে: প্রতিটি কথা তিনি শোনেন, প্রতিটি কাজ তিনি জানেন। তাবারীর বর্ণনায় কাতাদা আয়াতটি পড়েন শত্রুর দিক থেকে: আল্লাহ জানতেন, এই শত্রু দুর্ভেদ্য আর অবাধ্য। প্রতিপক্ষ যত বড়, আশ্রয় চাওয়ার আদেশও ঠিক তার মাপে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word He Knew",
+          "bn": "যে বাক্যটি তিনি জানতেন"
+        },
+        "p": [
+          {
+            "en": "No fetched commentary attaches a sound hadith to this verse as the occasion of its revelation. Ibn Kathir, though, points back on this verse to a hadith he gave earlier on seeking refuge, about two men who abused each other in the Prophet's ﷺ presence. Ma'arif al-Qur'an also mentions it here. Al-Bukhari records it from Sulayman ibn Surad (RA) in more than one place; the wording below is from 3282, and it is a separate event from the verse, which it does not mention.",
+            "bn": "সংগৃহীত কোনো তাফসীর এ আয়াতের নাযিলের উপলক্ষ হিসেবে কোনো সহীহ হাদীস জোড়েনি। তবে ইবন কাসীর এ আয়াতের আলোচনায় আশ্রয় চাওয়া প্রসঙ্গে আগে আনা একটি হাদীসের দিকে ইঙ্গিত করেন। নবী ﷺ-এর সামনে দুজন লোক একে অপরকে গালি দিয়েছিল, হাদীসটি সেই ঘটনার। মাআরিফুল কুরআনও এখানে এর উল্লেখ করে। বুখারী সুলাইমান ইবন সুরাদ (রাঃ) থেকে হাদীসটি একাধিক জায়গায় এনেছেন। নিচের ভাষ্য ৩২৮২ নম্বর থেকে। ঘটনাটি আয়াত থেকে আলাদা, আর হাদীসে আয়াতের কোনো উল্লেখ নেই।"
+          },
+          {
+            "en": "Sulayman ibn Surad (RA) narrated: \"While I was sitting in the company of the Prophet ﷺ, two men abused each other and the face of one of them became red with anger, and his jugular veins swelled (i.e. he became furious). On that the Prophet ﷺ said, 'I know a word, the saying of which will cause him to relax, if he does say it. If he says: \"I seek Refuge with Allah from Satan,\" then all [his] anger will go away.' Some body said to him, 'The Prophet ﷺ has said, \"Seek refuge with Allah from Satan.\"' The angry man said, 'Am I mad?'\" (al-Bukhari 3282)",
+            "bn": "সুলাইমান ইবন সুরাদ (রাঃ) বর্ণনা করেন: \"আমি নবী ﷺ-এর কাছে বসে ছিলাম। এমন সময় দুজন লোক একে অপরকে গালি দিচ্ছিল। তাদের একজনের মুখ রাগে লাল হয়ে গেল, ঘাড়ের রগ ফুলে উঠল। তখন নবী ﷺ বললেন, 'আমি এমন একটি বাক্য জানি, সে যদি তা বলে তবে তার এ অবস্থা কেটে যাবে। যদি সে বলে, আ'ঊযু বিল্লাহি মিনাশ শাইতান, আমি শয়তান থেকে আল্লাহর আশ্রয় চাই, তবে তার সব রাগ চলে যাবে।' লোকেরা তাকে বলল, 'নবী ﷺ বলেছেন, শয়তান থেকে আল্লাহর আশ্রয় চাও।' সে বলল, 'আমি কি পাগল?'\" (বুখারী ৩২৮২)"
+          },
+          {
+            "en": "In this wording the phrase is a'udhu billahi mina sh-shaytan; al-Bukhari's other version, 6115, adds ar-rajim, the outcast, and that is how Ibn Kathir recalls it. The Prophet ﷺ did not lecture the angry man or argue the quarrel. He named a word. The verse gives the instruction in general form; the hadith shows it in a living scene, rage met by a sentence that hands the matter to Allah.",
+            "bn": "এই ভাষ্যে বাক্যটি আ'ঊযু বিল্লাহি মিনাশ শাইতান। বুখারীর অন্য ভাষ্যে, ৬১১৫ নম্বরে, শেষে আছে আর-রাজীম, অর্থাৎ বিতাড়িত। ইবন কাসীরও হাদীসটি এভাবেই স্মরণ করেন। নবী ﷺ রাগান্বিত লোকটিকে উপদেশ শোনাননি, ঝগড়ার দোষ-গুণ নিয়ে তর্কও করেননি। তিনি একটি বাক্যের নাম বলেছেন। আয়াত নির্দেশটা দেয় সাধারণভাবে। হাদীস তা দেখায় জীবন্ত এক দৃশ্যে: রাগের মুহূর্তের জবাব এমন এক বাক্য, যা বিষয়টিকে আল্লাহর হাতে তুলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seek Refuge, Then Stop",
+          "bn": "আশ্রয় চান, তারপর থামুন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi names a hadith in Sahih Muslim as this verse's counterpart, though it is general and not attached to the verse. Abu Hurayra (RA) reports that the Messenger of Allah ﷺ said: \"The Satan comes to everyone of you and says: Who created this and that? till he questions: Who created your Lord? When he comes to that, one should seek refuge in Allah and keep away (from such idle thoughts).\" (Muslim 134) Al-Qurtubi explains: refuge, because such whispers are the Shaytan's traces; stopping, so as not to lean on them or turn toward them.",
+            "bn": "কুরতুবী সহীহ মুসলিমের একটি হাদীসকে এ আয়াতের সমতুল্য বলে উল্লেখ করেন, যদিও হাদীসটি সাধারণ, আয়াতের সঙ্গে জোড়া নয়। আবূ হুরাইরা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"শয়তান তোমাদের প্রত্যেকের কাছে আসে আর বলে, এটা কে সৃষ্টি করেছে, ওটা কে সৃষ্টি করেছে? শেষে বলে, তোমার রবকে কে সৃষ্টি করেছে? যখন সে সেখানে পৌঁছায়, তখন যেন সে আল্লাহর আশ্রয় চায় আর থেমে যায়।\" (মুসলিম ১৩৪) কুরতুবী দুটি আদেশের ব্যাখ্যা দেন। আশ্রয় চাইতে হবে কারণ এসব কুমন্ত্রণা শয়তানের ছাপ। আর থামতে হবে যাতে মন সেগুলোর উপর ভর না দেয়, সেদিকে না তাকায়।"
+          },
+          {
+            "en": "He then brings a second report from Muslim. Abu Hurayra (RA) narrated: \"Some people from amongst the Companions of the Apostle ﷺ came to him and said: Verily we perceive in our minds that which every one of us considers it too grave to express. He (the Holy Prophet) said: Do you really perceive it? They said: Yes. Upon this he remarked: That is the faith manifest.\" (Muslim 132) The whisper itself cannot be faith, al-Qurtubi says; what is meant is their fear of Allah over what crossed their minds, their alarm, and their refusal to accept it.",
+            "bn": "এরপর তিনি মুসলিম থেকে দ্বিতীয় একটি বর্ণনা আনেন। আবূ হুরাইরা (রাঃ) বর্ণনা করেন: \"নবী ﷺ-এর কিছু সাহাবী তাঁর কাছে এসে বললেন, আমরা মনের ভেতর এমন কিছু টের পাই, যা মুখে আনা আমাদের প্রত্যেকের কাছে ভয়ানক গুরুতর মনে হয়। তিনি বললেন, তোমরা কি সত্যিই তা টের পাও? তাঁরা বললেন, হ্যাঁ। তিনি বললেন, এটাই তো স্পষ্ট ঈমান।\" (মুসলিম ১৩২) কুরতুবী বলেন, কুমন্ত্রণা নিজে ঈমান হতে পারে না। উদ্দেশ্য হলো, মনে যা উঁকি দিয়েছিল তার জন্য তাঁদের আল্লাহভীতি, তাঁদের অস্থিরতা আর তা গ্রহণ না করার জেদ।"
+          },
+          {
+            "en": "Al-Qurtubi's closing line draws the boundary: passing thoughts that have not settled, and that no real doubt has brought in, are repelled by turning away from them, and it is these that are called whispering. On his reading, what must be refused is leaning on such a thought, not its arrival. Turning to Allah when it comes is what this verse asks; 7:201 then describes the mindful doing exactly that, and is left to its own article.",
+            "bn": "কুরতুবীর শেষ কথাটি সীমারেখা টেনে দেয়। যে ভাবনা মনে স্থির হয়নি, আর কোনো সত্যিকার সংশয়ও যাকে টেনে আনেনি, তা ঠেকাতে হয় তার দিক থেকে মুখ ফিরিয়ে। ওয়াসওয়াসা বা কুমন্ত্রণা বলা হয় এমন ভাবনাকেই। তাঁর পাঠে, যা প্রত্যাখ্যান করতে হবে তা হলো এমন ভাবনার উপর ভর দেওয়া, ভাবনাটা আসা নয়। ভাবনা এলে আল্লাহর দিকে ফেরা, এটুকুই এ আয়াত চায়। এরপর ৭:২০১ আয়াত দেখায়, আল্লাহকে যারা ভয় করে তারা ঠিক এমনটাই করে। সে আলোচনা তার নিজের প্রবন্ধের জন্য রইল।"
+          }
+        ]
+      }
+    ]
+  },
   "7:201": {
     "sections": [
       {
