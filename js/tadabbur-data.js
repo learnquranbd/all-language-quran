@@ -30963,6 +30963,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Fear Allah more than the obstacle, step through the door He has shown you while relying on Him, and speak for what is right even when the crowd refuses.",
     "lessonBn": "বাধার চেয়ে আল্লাহকে বেশি ভয় করুন, তাঁর উপর ভরসা রেখে তাঁর দেখানো দরজা দিয়ে পা বাড়ান, আর ভিড় মুখ ফিরিয়ে নিলেও ন্যায্য কথাটা বলুন।"
+  },
+  "5:35": {
+    "reflectionEn": "The verses just before this one set out the penalty for those who wage war on Allah's order and spread terror in the land, then leave a door open for anyone who turns back before being caught. Now the address turns to the believers, with three commands: be mindful of Allah, seek the means of nearness to Him, and strive in His way. Nearness here is no password and no secret route. The commentators read it as obedience and doing what pleases Him, the ordinary deeds of a day done for His sake. The verse ends with a hope rather than a guarantee: so that you may succeed. What, in my own week, is actually bringing me closer?",
+    "reflectionBn": "এর ঠিক আগের আয়াতগুলোতে আছে তাদের শাস্তির কথা, যারা আল্লাহর বিধানের বিরুদ্ধে যুদ্ধে নামে আর দেশে আতঙ্ক ছড়ায়। সঙ্গে খোলা রাখা হয়েছে ফেরার দরজা, ধরা পড়ার আগে যে ফিরে আসে তার জন্য। এবার কথা ঘুরে যায় মুমিনদের দিকে, আর তাতে তিনটি আদেশ: আল্লাহকে ভয় করে চলো, তাঁর নৈকট্যের উপায় খোঁজো, আর তাঁর পথে প্রাণপণ চেষ্টা করো। এখানে নৈকট্য মানে কোনো গোপন সংকেত বা চোরা পথ নয়। মুফাসসিররা এর অর্থ করেছেন আনুগত্য আর তাঁর পছন্দের কাজ করা। দিনের সাধারণ আমলগুলোই, যদি তাঁর জন্য হয়। আয়াত শেষ হয় নিশ্চয়তা দিয়ে নয়, আশা দিয়ে: যাতে তোমরা সফল হতে পার। আমার এ সপ্তাহে কোন জিনিসটা সত্যিই আমাকে তাঁর কাছে নিয়ে যাচ্ছে?",
+    "pointsEn": [
+      "If nearness to Allah is built from obedience, which deed this week did I do mainly to come closer to Him?",
+      "What do I keep away from only because Allah sees me, and what have I quietly stopped keeping away from?",
+      "Do I treat closeness to Allah as a feeling I wait for, or as deeds I can begin today?",
+      "Where is my effort really going: towards His way, or towards my own gain wearing His name?",
+      "When the call to prayer reaches me, do I answer it, or let it pass like background noise?"
+    ],
+    "pointsBn": [
+      "আল্লাহর নৈকট্য যদি আনুগত্য দিয়েই গড়ে ওঠে, তবে এ সপ্তাহে কোন আমলটা আমি মূলত তাঁর কাছে যাওয়ার জন্যই করেছি?",
+      "কোন জিনিস থেকে আমি দূরে থাকি শুধু এজন্য যে আল্লাহ আমাকে দেখছেন? আর কোনটা থেকে দূরে থাকা চুপচাপ ছেড়ে দিয়েছি?",
+      "আল্লাহর নৈকট্যকে আমি কি এমন এক অনুভূতি মনে করি যার জন্য বসে থাকতে হয়, নাকি এমন আমল যা আজই শুরু করা যায়?",
+      "আমার চেষ্টা আসলে কোন দিকে যাচ্ছে: তাঁর পথে, নাকি তাঁর নাম গায়ে জড়ানো আমার নিজের লাভের দিকে?",
+      "আজান যখন কানে আসে, আমি কি তাতে সাড়া দিই, নাকি পেছনের কোনো আওয়াজের মতো পার হয়ে যেতে দিই?"
+    ],
+    "lessonEn": "Nearness to Allah is sought, not assumed: keep away from what He forbids, draw close through what pleases Him, and strive in His way, hoping for success rather than claiming it.",
+    "lessonBn": "আল্লাহর নৈকট্য ধরে নেওয়ার জিনিস নয়, খুঁজে নেওয়ার জিনিস। তিনি যা নিষেধ করেছেন তা থেকে দূরে থাকুন, তাঁর পছন্দের কাজ দিয়ে কাছে যান, আর তাঁর পথে চেষ্টা করুন। সফলতা দাবি করবেন না, আশা করুন।"
   }
 };
 

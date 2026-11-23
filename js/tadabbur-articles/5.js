@@ -1471,6 +1471,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:35": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Verses Between Two Penalties",
+          "bn": "দুই দণ্ডবিধির মাঝে তিন আয়াত"
+        },
+        "p": [
+          {
+            "en": "This verse stands inside a run of law. Verses 5:33 and 5:34 set the penalty for those who wage war against Allah and His Messenger and spread corruption in the land, with an exception for those who repent before they are overpowered. Verse 5:38 will set the penalty for theft. Between them come three verses, and this call to the believers is the first. Ma'arif al-Qur'an reads the placement as deliberate: the Qur'an does not leave a penalty standing as a cold command, but turns at once to the heart that has to keep it.",
+            "bn": "আয়াতটি বসেছে একের পর এক বিধানের মাঝখানে। ৫:৩৩ ও ৫:৩৪ আয়াতে আছে তাদের শাস্তি, যারা আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধ করে আর দেশে ফাসাদ ছড়ায়। ধরা পড়ার আগে যারা তওবা করে, তাদের জন্য সেখানে ছাড়ও আছে। সামনে ৫:৩৮ আয়াতে আসবে চুরির শাস্তি। এ দুইয়ের মাঝে তিনটি আয়াত, আর মুমিনদের প্রতি এই ডাক তার প্রথমটি। মাআরিফুল কুরআনের মতে এই বিন্যাস ইচ্ছাকৃত। কুরআন শাস্তির বিধান শুকনো হুকুমের মতো ফেলে রেখে চলে যায় না। সঙ্গে সঙ্গে সে ফিরে তাকায় সেই অন্তরের দিকে, যাকে বিধানটা মেনে চলতে হবে।"
+          },
+          {
+            "en": "Its reason is plain. A penalty can stop a crime done in the open; only the fear of Allah reaches what is done in secret. That, says Ma'arif, is why words like fear Allah recur after laws of crime and punishment, and why the Hereafter is set before the reader ahead of the next ruling. The verse itself is short, thirteen Arabic words, and it does not mention criminals at all. It speaks to people who already believe, and asks them for more than staying clear of a court.",
+            "bn": "কারণটা সোজা। শাস্তির ভয় প্রকাশ্য অপরাধ ঠেকাতে পারে, কিন্তু গোপনে যা ঘটে সেখানে পৌঁছায় কেবল আল্লাহর ভয়। মাআরিফ বলে, এজন্যই অপরাধ ও শাস্তির বিধানের পরে বারবার আসে 'আল্লাহকে ভয় করো' জাতীয় কথা। পরের বিধানে যাওয়ার আগে পাঠকের সামনে তুলে ধরা হয় আখিরাত। আয়াতটি ছোট, আরবিতে মাত্র ১৩টি শব্দ। এতে অপরাধীদের কোনো উল্লেখই নেই। কথা বলা হচ্ছে তাদের সঙ্গে, যারা আগে থেকেই ঈমান এনেছে। আর তাদের কাছে চাওয়া হচ্ছে আদালত এড়িয়ে চলার চেয়ে অনেক বেশি কিছু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Joined to Obedience",
+          "bn": "আনুগত্যের সঙ্গে জোড়া তাকওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with the address itself. O you who have believed means those who believed Allah and His Messenger in what He told them, in the reward He promised and the punishment He warned of. Then ittaqu Allah: answer Allah, he says, in what He commanded and forbade, by obeying Him in it, and make your faith and your belief in your Lord and your Prophet real through righteous deeds. Taqwa here is not a mood. It is a reply, given in conduct, to orders already received.",
+            "bn": "তাবারী শুরু করেন সম্বোধনটি দিয়েই। 'হে ঈমানদারগণ' মানে যারা আল্লাহ ও তাঁর রাসূলকে বিশ্বাস করেছে তাঁর দেওয়া খবরে, তাঁর প্রতিশ্রুত সওয়াবে আর তাঁর সতর্ক করা শাস্তিতে। তারপর ইত্তাকুল্লাহ। তাবারী বলেন, আল্লাহ যা আদেশ করেছেন আর যা নিষেধ করেছেন, তাতে তাঁর আনুগত্য করে তাঁর ডাকে সাড়া দাও। নেক আমল দিয়ে নিজেদের ঈমানকে, রব ও নবীর প্রতি বিশ্বাসকে সত্য করে তোলো। এখানে তাকওয়া কোনো মনের অবস্থা নয়। আগে পাওয়া হুকুমের জবাব, যা দিতে হয় আচরণ দিয়ে।"
+          },
+          {
+            "en": "Ibn Kathir draws a finer line. When taqwa is paired with obedience, he says, it means holding back from what is forbidden and leaving what is prohibited, and the obedience follows in the next clause. As-Sa'di describes the holding back as work: the servant strives and spends all he can to avoid what angers Allah, the sins of the heart, the tongue and the limbs, outward and inward, and asks Allah's help in leaving them. So the verse opens with a pair: first leaving, then seeking.",
+            "bn": "ইবন কাসীর এখানে একটা সূক্ষ্ম পার্থক্য দেখান। তাঁর কথায়, তাকওয়া যখন আনুগত্যের সঙ্গে জোড়া হয়ে আসে, তখন এর অর্থ হারাম থেকে বিরত থাকা আর নিষিদ্ধ কাজ ছেড়ে দেওয়া। আনুগত্যের কথা আসে পরের বাক্যে। সা'দী এই বিরত থাকাকেও খাটুনি হিসেবে দেখান। বান্দা সাধ্যের সবটুকু দিয়ে চেষ্টা করে আল্লাহর অসন্তুষ্টির কাজ এড়াতে। অন্তরের, জিভের আর অঙ্গপ্রত্যঙ্গের গুনাহ, প্রকাশ্য ও গোপন সবই। আর সেগুলো ছাড়তে সে আল্লাহর সাহায্য চায়। তাই আয়াতের শুরুতেই এক জোড়া কাজ: আগে ছাড়া, তারপর খোঁজা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Built on Seeking",
+          "bn": "খোঁজা থেকে গড়া শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa-btaghu ilayhi al-wasilah. Al-Baghawi glosses ibtaghu simply as seek, and al-wasilah as al-qurbah, nearness. The word, he says, is on the pattern fa'ilah, from tawassala ila fulan bi-kadha, to draw near to someone by means of something, and its plural is wasa'il. At-Tabari gives the same derivation and supports it from poetry, including a line of Antarah, and another in which, once the slanderers grow heedless, the lovers' bond returns, and with it clear friendship and the wasa'il between them.",
+            "bn": "ওয়াবতাগূ ইলাইহিল ওয়াসীলাহ। বাগাভী ইবতাগূ শব্দের অর্থ করেন সোজা 'খোঁজো', আর আল-ওয়াসীলার অর্থ আল-কুরবাহ, অর্থাৎ নৈকট্য। তাঁর কথায় শব্দটি ফাঈলাহ ওজনের। এসেছে 'তাওয়াসসালা ইলা ফুলানিন বিকাযা' থেকে, মানে কোনো কিছুর মাধ্যমে কারও কাছাকাছি হওয়া। বহুবচন ওয়াসাইল। তাবারীও একই উৎস দেখান, আর প্রমাণ আনেন কবিতা থেকে। তার মধ্যে আছে আনতারার একটি পঙক্তি। আরেকটি পঙক্তিতে কবি বলেন, নিন্দুকেরা অমনোযোগী হলেই আবার মিলন ফিরে আসে, ফিরে আসে নির্মল বন্ধুত্ব আর পরস্পরের মাঝে ওয়াসাইল।"
+          },
+          {
+            "en": "Al-Qurtubi takes the root back further. Salta as'alu means I sought, he says, and two people yatasawalan when each seeks something from the other; so the origin of the word is seeking, and al-wasilah is the nearness through which a person ought to seek. Ma'arif al-Qur'an, citing al-Jawhari's Sihah and ar-Raghib's Mufradat, adds a shade of feeling: the form with sin denotes seeking nearness with longing and love. The verse joins a verb of seeking to a noun that already means seeking.",
+            "bn": "কুরতুবী শব্দের মূলকে আরও পেছনে নিয়ে যান। তাঁর ব্যাখ্যায় 'সালতু আসআলু' মানে আমি চাইলাম। আর দুজন মানুষ 'ইয়াতাসাওয়ালান' বলা হয় তখন, যখন প্রত্যেকে অন্যের কাছে কিছু চায়। কাজেই শব্দটির মূলে আছে চাওয়া বা খোঁজা। আল-ওয়াসীলাহ সেই নৈকট্য, যার মাধ্যমে কিছু চাওয়া উচিত। মাআরিফুল কুরআন জাওহারীর সিহাহ আর রাগিবের মুফরাদাতের বরাত দিয়ে এতে একটা অনুভূতির রং যোগ করে। 'সীন' দিয়ে লেখা রূপটি বোঝায় আকুলতা আর ভালোবাসা নিয়ে কাছে যেতে চাওয়া। আয়াতটি খোঁজার একটি ক্রিয়ার সঙ্গে জুড়ে দিয়েছে এমন এক বিশেষ্য, যার নিজের অর্থেই খোঁজা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qurbah, in Many Voices",
+          "bn": "বহু কণ্ঠে একই অর্থ"
+        },
+        "p": [
+          {
+            "en": "On what the command asks for, the early voices speak together. Ibn Kathir reports through Sufyan ath-Thawri, from Talhah, from Ata, that Ibn Abbas said: al-qurbah, nearness. The same, he says, was said by Mujahid, Ata, Abu Wa'il, al-Hasan, Qatadah, Abdullah ibn Kathir, as-Suddi and Ibn Zayd. Qatadah put it as an instruction: draw near to Him by obeying Him and acting on what pleases Him. Ibn Kathir then closes the question: on what these imams said, there is no disagreement among the commentators.",
+            "bn": "আদেশটি আসলে কী চায়, সে প্রশ্নে পূর্বসূরিদের কণ্ঠ এক। ইবন কাসীর সুফইয়ান সাওরী থেকে, তিনি তালহা থেকে, তিনি আতা থেকে বর্ণনা করেন যে ইবন আব্বাস (রাঃ) বলেছেন: আল-কুরবাহ, অর্থাৎ নৈকট্য। ইবন কাসীর জানান, একই কথা বলেছেন মুজাহিদ, আতা, আবু ওয়াইল, হাসান বসরী, কাতাদা, আবদুল্লাহ ইবন কাসীর, সুদ্দী ও ইবন যায়দ। কাতাদা কথাটা বলেছেন নির্দেশের ভাষায়: তাঁর আনুগত্য করে আর তাঁর পছন্দের কাজ করে তাঁর কাছাকাছি হও। তারপর ইবন কাসীর প্রশ্নের ইতি টানেন। এই ইমামরা যা বলেছেন, তাতে মুফাসসিরদের মধ্যে কোনো মতভেদ নেই।"
+          },
+          {
+            "en": "At-Tabari's own reports keep small differences of shading. His chain through Talhah stops at Ata, who says: al-qurbah. Abu Wa'il says: nearness in deeds. As-Suddi says: it is the asking and the nearness. Ibn Zayd says: love; make yourselves beloved to Allah, and he recited 17:57, where those whom others call upon are themselves seeking the wasilah to their Lord. At-Tabari's own paraphrase gathers them: seek nearness to Him by doing what pleases Him.",
+            "bn": "তাবারীর নিজের বর্ণনাগুলোতে অর্থের সূক্ষ্ম রঙের তফাত টিকে আছে। তালহার সূত্রে তাঁর সনদ থেমেছে আতা পর্যন্ত, আর আতা বলেন: আল-কুরবাহ। আবু ওয়াইল বলেন: আমলের মাধ্যমে নৈকট্য। সুদ্দী বলেন: এ হলো চাওয়া আর নৈকট্য। ইবন যায়দ বলেন: ভালোবাসা, আল্লাহর প্রিয় হয়ে ওঠো। তারপর তিনি পড়েন ১৭:৫৭ আয়াত। সেখানে বলা হয়েছে, লোকেরা যাদের ডাকে, তারা নিজেরাই তাদের রবের কাছে ওয়াসীলা খুঁজে বেড়ায়। তাবারীর নিজের ব্যাখ্যা সবগুলোকে এক জায়গায় আনে: তাঁর পছন্দের কাজ করে তাঁর নৈকট্য খোঁজো।"
+          },
+          {
+            "en": "The shorter commentaries say the same. Al-Muyassar renders the clause: draw near to Him by obeying Him and doing what pleases Him. As-Sa'di widens it to three things: nearness to Him, standing in His favour, and love for Him. Al-Qurtubi lists Abu Wa'il, al-Hasan, Mujahid, Qatadah, Ata, as-Suddi, Ibn Zayd and Abdullah ibn Kathir for al-qurbah. Across every commentary fetched for this verse, the command means one thing: come near to Allah through what He has asked of you.",
+            "bn": "সংক্ষিপ্ত তাফসীরগুলোও একই কথা বলে। মুয়াসসার বাক্যাংশটির অর্থ করে: তাঁর আনুগত্য করে আর তাঁর পছন্দের কাজ করে তাঁর কাছাকাছি হও। সা'দী একে তিনটি জিনিসে ছড়িয়ে দেন: তাঁর নৈকট্য, তাঁর কাছে বিশেষ মর্যাদা, আর তাঁর প্রতি ভালোবাসা। কুরতুবী আল-কুরবাহ অর্থের পক্ষে নাম গুনে যান আবু ওয়াইল, হাসান বসরী, মুজাহিদ, কাতাদা, আতা, সুদ্দী, ইবন যায়দ ও আবদুল্লাহ ইবন কাসীরের। এ আয়াতের জন্য সংগ্রহ করা প্রতিটি তাফসীরে আদেশটির অর্থ একটাই: আল্লাহ আপনার কাছে যা চেয়েছেন, তা দিয়েই তাঁর কাছে যান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Station That Shares the Name",
+          "bn": "একই নামের এক মর্যাদা"
+        },
+        "p": [
+          {
+            "en": "The same word has a second use. Ibn Kathir says al-wasilah is also the name of the highest station in Paradise, the station and home there of the Messenger of Allah ﷺ, the place in Paradise nearest to the Throne. He cites al-Bukhari, and the wording there, from Jabir ibn Abdullah, is: Whoever says on hearing the call, O Allah, Lord of this complete call and of the prayer about to be established, give Muhammad al-wasilah and al-fadilah, and raise him to the praised station that You promised him, my intercession becomes due for him on the Day of Resurrection (Sahih al-Bukhari 614).",
+            "bn": "একই শব্দের আরেকটি ব্যবহার আছে। ইবন কাসীর বলেন, আল-ওয়াসীলাহ জান্নাতের সর্বোচ্চ মর্যাদারও নাম। সেটি আল্লাহর রাসূল ﷺ-এর মর্যাদা ও জান্নাতে তাঁর আবাস, আরশের সবচেয়ে কাছের জায়গা। তিনি বুখারীর বরাত দেন। সেখানে জাবির ইবন আবদুল্লাহ (রাঃ)-এর সূত্রে শব্দগুলো এই: যে ব্যক্তি আজান শুনে বলে, হে আল্লাহ, এই পরিপূর্ণ আহ্বান আর প্রতিষ্ঠিত হতে যাওয়া নামাজের রব, মুহাম্মাদকে আল-ওয়াসীলাহ ও আল-ফাদীলাহ দান করুন, আর তাঁকে সেই প্রশংসিত মাকামে পৌঁছে দিন যার ওয়াদা আপনি তাঁকে দিয়েছেন, কিয়ামতের দিন তার জন্য আমার শাফাআত অবধারিত হয়ে যায় (সহীহ বুখারী ৬১৪)।"
+          },
+          {
+            "en": "He follows it with Muslim, from Abdullah ibn Amr ibn al-As, who heard the Prophet ﷺ say: When you hear the mu'adhdhin, say what he says. Then send blessing upon me, for whoever sends a blessing upon me, Allah blesses him ten times for it. Then ask Allah for al-wasilah for me, for it is a station in Paradise fitting for only one of Allah's servants, and I hope that I am he. Whoever asks for al-wasilah for me, intercession becomes due for him (Sahih Muslim 384).",
+            "bn": "এরপর তিনি আনেন মুসলিমের বর্ণনা। আবদুল্লাহ ইবন আমর ইবনুল আস (রাঃ) নবী ﷺ-কে বলতে শুনেছেন: তোমরা যখন মুয়াজ্জিনকে শুনবে, সে যা বলে তোমরাও তা-ই বলবে। তারপর আমার উপর দরুদ পাঠাবে। কারণ যে আমার উপর একবার দরুদ পাঠায়, বিনিময়ে আল্লাহ তার উপর দশটি রহমত পাঠান। তারপর আল্লাহর কাছে আমার জন্য আল-ওয়াসীলাহ চাইবে। এটি জান্নাতের এমন এক মর্যাদা, যা আল্লাহর বান্দাদের মধ্যে কেবল একজনের জন্যই শোভা পায়। আর আমি আশা করি, সেই একজন আমিই। যে আমার জন্য আল-ওয়াসীলাহ চাইবে, তার জন্য শাফাআত অবধারিত হয়ে যাবে (সহীহ মুসলিম ৩৮৪)।"
+          },
+          {
+            "en": "Al-Qurtubi likewise calls al-wasilah a rank in Paradise, the one the sound hadith names. Ibn Kathir goes on to relay further reports about the station through Ahmad, at-Tirmidhi, Ibn Mardawayh and at-Tabarani, and himself marks some of them gharib; this article does not quote them. The two uses do not compete. Every commentary fetched reads the command as nearness open to every believer, while the hadith name a single station for one servant. Ma'arif al-Qur'an puts it so: the highest rank is his alone, and the ranks below it are open to all believers through their love for him.",
+            "bn": "কুরতুবীও আল-ওয়াসীলাকে জান্নাতের একটি মর্যাদা বলেছেন, সহীহ হাদীসে যার কথা এসেছে। ইবন কাসীর এরপর আহমাদ, তিরমিযী, ইবন মারদুওয়াইহ ও তাবারানীর সূত্রে এই মর্যাদা নিয়ে আরও কিছু বর্ণনা আনেন, আর নিজেই তার কয়েকটিকে গরীব বলে চিহ্নিত করেন। এই লেখায় সেগুলো উদ্ধৃত করা হয়নি। শব্দের দুই ব্যবহারের মধ্যে কোনো টানাপোড়েন নেই। সংগ্রহ করা প্রতিটি তাফসীর আদেশটিকে পড়েছে সব মুমিনের জন্য খোলা নৈকট্য হিসেবে। আর হাদীস দুটি বলছে একজন বান্দার জন্য নির্দিষ্ট একটিমাত্র মর্যাদার কথা। মাআরিফুল কুরআন বিষয়টা এভাবে মেলায়: সর্বোচ্চ মর্যাদা কেবল তাঁরই, তার নিচের স্তরগুলো তাঁর প্রতি ভালোবাসার সূত্রে সব মুমিনের জন্য খোলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heart, Body and Open Hand",
+          "bn": "অন্তর, দেহ আর খোলা হাত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives nearness a working inventory. It comes, he says, by performing Allah's obligations: those of the heart, such as love for Him and for His sake, fear and hope, turning to Him and reliance on Him; those of the body, such as zakah and hajj; and those that combine both, such as the prayer. To these he adds recitation and remembrance, and kindness to people with wealth, knowledge, standing and bodily help, along with sincere counsel to Allah's servants. All of these, he says, bring a servant near to Allah.",
+            "bn": "সা'দী নৈকট্যের একটা কাজের তালিকা দেন। তাঁর কথায় নৈকট্য আসে আল্লাহর ফরজগুলো আদায় করে। কিছু ফরজ অন্তরের: তাঁকে ভালোবাসা ও তাঁর জন্য ভালোবাসা, ভয় ও আশা, তাঁর দিকে ফেরা আর তাঁর উপর ভরসা। কিছু দেহের, যেমন যাকাত ও হজ। আর কিছুতে দুটোই মেশানো, যেমন নামাজ। এর সঙ্গে তিনি যোগ করেন তিলাওয়াত আর জিকির। মানুষের প্রতি সদাচারও আছে, সম্পদ দিয়ে, জ্ঞান দিয়ে, প্রভাব দিয়ে, শরীর খাটিয়ে। আছে আল্লাহর বান্দাদের প্রতি আন্তরিক কল্যাণকামনা। তিনি বলেন, এর সবই বান্দাকে আল্লাহর কাছে নিয়ে যায়।"
+          },
+          {
+            "en": "He continues without naming a source: the servant keeps drawing near through these until Allah loves him. The words echo a narration in al-Bukhari from Abu Hurayrah, in which the Prophet ﷺ reports that Allah said: My servant does not draw near to Me with anything more beloved to Me than what I have made obligatory upon him, and My servant keeps drawing near to Me with voluntary deeds until I love him (Sahih al-Bukhari 6502). No report attaches it to this verse, but its order is worth keeping: obligations first.",
+            "bn": "সূত্রের নাম না নিয়েই সা'দী বলে চলেন: এসব আমলের মাধ্যমে বান্দা কাছে আসতেই থাকে, শেষে আল্লাহ তাকে ভালোবাসেন। কথাগুলোতে বুখারীর একটি বর্ণনার প্রতিধ্বনি আছে। আবু হুরায়রা (রাঃ)-এর সূত্রে নবী ﷺ জানান, আল্লাহ বলেছেন: আমার বান্দা যা কিছু দিয়ে আমার নৈকট্য খোঁজে, তার মধ্যে আমার কাছে সবচেয়ে প্রিয় হলো সেই আমল, যা আমি তার উপর ফরজ করেছি। আর আমার বান্দা নফল আমল দিয়ে আমার কাছে আসতেই থাকে, শেষে আমি তাকে ভালোবাসি (সহীহ বুখারী ৬৫০২)। কোনো বর্ণনা একে এ আয়াতের সঙ্গে জোড়েনি। তবু এর ক্রমটা মনে রাখার মতো: আগে ফরজ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an ties the love in the word to following: citing 3:31, it says nearness grows as a person follows the Sunnah in worship, dealings and manners. It also goes further than the other commentaries here, counting love and company of the prophets and the righteous among the means, and citing Umar's prayer for rain through al-Abbas. None of the other commentaries fetched for this verse takes the word in that direction, and this article leaves that wider question to the works that treat it at length.",
+            "bn": "মাআরিফুল কুরআন শব্দের ভেতরের ভালোবাসাকে অনুসরণের সঙ্গে জুড়ে দেয়। ৩:৩১ আয়াতের বরাত দিয়ে বলে, ইবাদত, লেনদেন আর আচার-আচরণে মানুষ যত বেশি সুন্নাহ মেনে চলে, তার নৈকট্য তত বাড়ে। মাআরিফ এখানে অন্য তাফসীরগুলোর চেয়ে আরও এগিয়ে যায়। নবী ও নেককারদের প্রতি ভালোবাসা আর তাঁদের সাহচর্যকেও সে উপায়ের মধ্যে গোনে। এর পক্ষে আনে উমর (রাঃ)-এর সেই ঘটনা, যখন তিনি আব্বাস (রাঃ)-কে সামনে রেখে বৃষ্টির জন্য দোয়া করেছিলেন। এ আয়াতের জন্য সংগ্রহ করা অন্য কোনো তাফসীর শব্দটিকে সেদিকে নেয়নি। সেই বড় প্রশ্নটি এই লেখা ছেড়ে দিচ্ছে সেসব গ্রন্থের হাতে, যেগুলো বিষয়টি বিস্তারিত আলোচনা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In His Way, Not Fasad",
+          "bn": "তাঁর পথে, ফাসাদের পথে নয়"
+        },
+        "p": [
+          {
+            "en": "Wa-jahidu fi sabilihi. At-Tabari reads it as Allah's address to the believers: strive against My enemies and yours, in My way, meaning in His religion and the law He laid down for His servants, which is Islam; exhaust yourselves in fighting them and in bringing them into the upright faith. Ibn Kathir sets it in sequence: having commanded them to leave what is forbidden and to do acts of obedience, Allah commanded them to fight the enemies who had left the straight path.",
+            "bn": "ওয়া জাহিদূ ফী সাবীলিহী। তাবারী একে পড়েন মুমিনদের প্রতি আল্লাহর সম্বোধন হিসেবে: আমার আর তোমাদের শত্রুদের বিরুদ্ধে জিহাদ করো আমার পথে। পথ মানে তাঁর দ্বীন, বান্দাদের জন্য তিনি যে শরীয়ত দিয়েছেন, অর্থাৎ ইসলাম। তাদের সঙ্গে লড়াইয়ে আর তাদেরকে সরল দ্বীনে নিয়ে আসার কাজে নিজেদের ক্লান্ত করে ফেলো। ইবন কাসীর বিষয়টা সাজান ক্রম ধরে। হারাম ছাড়তে আর আনুগত্যের কাজ করতে বলার পর আল্লাহ তাদের আদেশ দিলেন সেই শত্রুদের বিরুদ্ধে লড়তে, যারা সরল পথ ছেড়ে গেছে।"
+          },
+          {
+            "en": "As-Sa'di explains why jihad is named on its own after the general call to nearness. It is exerting every effort in fighting the disbelievers with wealth, self, counsel and tongue, and striving to support Allah's religion with whatever a servant can. He calls it among the greatest acts of obedience, and adds that whoever undertakes it is the more likely to undertake the rest. In his reading the striving is itself a form of nearness, singled out because it costs the most.",
+            "bn": "সাধারণভাবে নৈকট্য খোঁজার কথা বলার পর জিহাদের নাম আলাদা করে কেন এল, সা'দী তা ব্যাখ্যা করেন। জিহাদ হলো সম্পদ, জীবন, পরামর্শ আর জবান দিয়ে কাফিরদের বিরুদ্ধে লড়াইয়ে সর্বশক্তি ব্যয় করা। বান্দা যা পারে তা দিয়ে আল্লাহর দ্বীনের সাহায্যে চেষ্টা চালানোও এর অংশ। তাঁর মতে এটি সবচেয়ে বড় আনুগত্যগুলোর একটি। তিনি আরও বলেন, যে এই কাজে দাঁড়ায়, বাকি কাজগুলোতে দাঁড়ানো তার পক্ষে আরও সহজ। তাঁর পাঠে এই চেষ্টা নিজেই নৈকট্যের একটি রূপ, আলাদা করে বলা হয়েছে কারণ এর মূল্য সবচেয়ে বেশি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sees a further reason in the placement. Verse 5:33 has just condemned those who spread corruption in the land, and a careless reader might mistake fighting for fasad; the words fi sabilihi, in His way, draw the line. Robbery and rebellion seek gain for the self, while striving in His way seeks to raise Allah's word and end oppression. Read in its place, then, the verse gives no cover to anyone who terrorises people: 5:33 names that very thing as war against Allah.",
+            "bn": "মাআরিফুল কুরআন এই বিন্যাসে আরেকটি কারণ দেখে। ঠিক আগে ৫:৩৩ আয়াত দেশে ফাসাদ ছড়ানো লোকদের নিন্দা করেছে। অসতর্ক পাঠক লড়াই আর ফাসাদকে গুলিয়ে ফেলতে পারে। 'ফী সাবীলিহী', তাঁর পথে, এই কথাটুকুই সীমারেখা টেনে দেয়। ডাকাতি আর বিদ্রোহের লক্ষ্য নিজের লাভ। আর তাঁর পথে চেষ্টার লক্ষ্য আল্লাহর কালিমা উঁচু করা আর জুলুম দূর করা। তাই নিজের জায়গায় রেখে পড়লে আয়াতটি মানুষকে আতঙ্কিত করে এমন কাউকে কোনো আড়াল দেয় না। ৫:৩৩ আয়াত তো ঠিক সেই কাজকেই আল্লাহর বিরুদ্ধে যুদ্ধ বলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Falah, and the Daily Call",
+          "bn": "ফালাহ আর প্রতিদিনের আজান"
+        },
+        "p": [
+          {
+            "en": "La'allakum tuflihun closes the verse with a hope. At-Tabari explains it: so that you succeed, and attain lasting life and abiding in His gardens. Al-Muyassar says: so that you win His gardens. As-Sa'di defines falah as attaining everything hoped for and being saved from everything feared, and calls its reality everlasting happiness and bliss that does not end. The very next verses, 5:36 and 5:37, show the other side: those who disbelieve could offer all that is in the earth and as much again, and it would not be accepted from them.",
+            "bn": "লাআল্লাকুম তুফলিহূন, আয়াতের শেষটা একটা আশা। তাবারী ব্যাখ্যা করেন: যাতে তোমরা সফল হও, আর পাও স্থায়ী জীবন ও তাঁর জান্নাতে চিরকালের বাস। মুয়াসসার বলে: যাতে তোমরা তাঁর জান্নাত লাভ করো। সা'দীর সংজ্ঞায় ফালাহ মানে কাঙ্ক্ষিত সবকিছু পাওয়া আর ভয়ের সবকিছু থেকে বেঁচে যাওয়া। এর আসল রূপ, তাঁর কথায়, চিরস্থায়ী সৌভাগ্য আর অফুরন্ত নিয়ামত। ঠিক পরের ৫:৩৬ ও ৫:৩৭ আয়াত দেখায় উল্টো দিক। যারা কুফরী করেছে, তারা পৃথিবীর সবকিছু আর তার সমপরিমাণ আরও দিয়ে দিতে চাইলেও তাদের কাছ থেকে তা কবুল করা হবে না।"
+          },
+          {
+            "en": "The three commands can be checked against an ordinary day. Something forbidden left alone because Allah sees; something He loves done, beginning with what He made obligatory; some effort for His religion, with whatever is in reach of wealth, counsel or tongue. And five times a day the call to prayer gives a fixed moment for the narrations above: repeat the words, send blessing on the Prophet ﷺ, and ask for al-wasilah for him. A believer seeking nearness is taught to ask that the highest nearness be given to someone else.",
+            "bn": "তিনটি আদেশ একটা সাধারণ দিনের সঙ্গে মিলিয়ে দেখা যায়। আল্লাহ দেখছেন বলে কোনো হারাম কাজ ছেড়ে দেওয়া। তাঁর পছন্দের কোনো কাজ করা, শুরু করে ফরজ দিয়ে। আর সম্পদ, পরামর্শ বা জবানের মধ্যে যা হাতের নাগালে আছে, তা দিয়ে তাঁর দ্বীনের জন্য কিছু চেষ্টা। দিনে পাঁচ বার আজান এসে উপরের বর্ণনাগুলোর জন্য একটা নির্দিষ্ট মুহূর্ত বেঁধে দেয়। মুয়াজ্জিনের কথাগুলো দোহরানো, নবী ﷺ-এর উপর দরুদ পাঠানো, আর তাঁর জন্য আল-ওয়াসীলাহ চাওয়া। নৈকট্য খুঁজছে যে মুমিন, তাকে শেখানো হচ্ছে সর্বোচ্চ নৈকট্যটা অন্য একজনের জন্য চাইতে।"
+          }
+        ]
+      }
+    ]
+  },
   "5:38": {
     "sections": [
       {
