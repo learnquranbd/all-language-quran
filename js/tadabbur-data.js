@@ -31203,6 +31203,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Count being spared on that Day as the real win, and ask for it as a mercy rather than claim it as a wage.",
     "lessonBn": "সেদিন রক্ষা পাওয়াকেই আসল জয় বলে গণ্য করুন, আর তা পারিশ্রমিক হিসেবে দাবি না করে রহমত হিসেবে চেয়ে নিন।"
+  },
+  "6:40": {
+    "reflectionEn": "Picture the worst day you can imagine: a punishment from Allah arrives, or the Hour itself. In that moment, whose name is in your mouth? The verse does not argue the point. It asks, and the very next verse answers on the listener's behalf: it is Him alone you would call, and the partners you had set beside Him would slip from your mind. Those first addressed kept other gods in easy times and dropped them the moment things turned serious. The question reaches past stone idols. Whatever I quietly lean on when life is calm, the savings, the contacts, the plan, shows its true weight in a crisis. If I would call on Him alone then, why do I call on so much else now?",
+    "reflectionBn": "সবচেয়ে খারাপ যে দিনটা কল্পনা করা যায়, সেটা ভাবুন। আল্লাহর শাস্তি নেমে এসেছে, কিংবা স্বয়ং কিয়ামত এসে গেছে। সেই মুহূর্তে আপনার মুখে কার নাম থাকবে? আয়াতটি তর্কে যায় না, শুধু প্রশ্ন করে। আর পরের আয়াতেই শ্রোতার হয়ে জবাবটা দিয়ে দেওয়া হয়েছে: তখন তোমরা কেবল তাঁকেই ডাকবে, আর যাদের তাঁর শরীক বানিয়েছিলে তাদের কথা মনেই থাকবে না। প্রথম যাদের এ প্রশ্ন করা হয়েছিল, সুখের দিনে তারা অন্য উপাস্য ধরে রাখত, আর বিপদ গুরুতর হলেই সেগুলো ছেড়ে দিত। প্রশ্নটা পাথরের মূর্তি ছাড়িয়ে আরও দূরে যায়। শান্ত দিনে চুপচাপ আমি যার উপর ভর দিই, জমানো টাকা, চেনাজানা লোক, নিজের পরিকল্পনা, বিপদের দিনে তার আসল ওজন ধরা পড়ে। তখন যদি একমাত্র তাঁকেই ডাকি, তাহলে এখন এত কিছুকে ডাকি কেন?",
+    "pointsEn": [
+      "When bad news reaches me, what do I reach for first: a phone call, a plan, or a du'a?",
+      "What do I lean on in calm weeks that I already know could not help me on a truly hard day?",
+      "Do I call on Allah only when I am cornered, or have I learned to call on Him when nothing is wrong?",
+      "If a crisis once made my du'a sincere, what did I do with that sincerity after the crisis passed?",
+      "If the Hour came today, is the way I am living now the way I would want to be found?"
+    ],
+    "pointsBn": [
+      "খারাপ খবর এলে আমি প্রথমে কী আঁকড়ে ধরি: কাউকে ফোন, নিজের কোনো পরিকল্পনা, নাকি দু'আ?",
+      "শান্ত সপ্তাহগুলোতে আমি এমন কিসের উপর ভর দিই, যা সত্যিকারের কঠিন দিনে কোনো কাজে আসবে না বলে আমি নিজেই জানি?",
+      "আল্লাহকে কি কেবল কোণঠাসা হলেই ডাকি, নাকি কোনো বিপদ না থাকলেও তাঁকে ডাকার অভ্যাস গড়েছি?",
+      "কোনো বিপদ যদি কখনো আমার দু'আকে খাঁটি করে থাকে, বিপদ কেটে যাওয়ার পর সেই খাঁটি ভাবটুকুর কী হলো?",
+      "আজই যদি কিয়ামত আসে, এখন যেভাবে চলছি সেভাবেই কি আমি ধরা দিতে চাইব?"
+    ],
+    "lessonEn": "Call on Allah alone in ease as you would in a crisis, for whatever would vanish from your mind on the hardest day was never worth leaning on.",
+    "lessonBn": "বিপদের দিনে যেমন একমাত্র আল্লাহকেই ডাকতেন, সুখের দিনেও তেমনি তাঁকেই ডাকুন। কঠিনতম দিনে যা মন থেকে হারিয়ে যাবে, তার উপর ভর দেওয়ার কোনো মানে ছিল না।"
   }
 };
 

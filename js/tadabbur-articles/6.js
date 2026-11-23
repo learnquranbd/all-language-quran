@@ -1911,6 +1911,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:40": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Instead of a Sign",
+          "bn": "নিদর্শনের বদলে একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The passage around this verse is an argument about signs. In 6:37 the deniers ask why no sign has been sent down to the Prophet ﷺ, and they are told that Allah is able to send one, but most of them do not know. 6:38 points to the creatures of the earth and the birds of the sky as communities like us, and 6:39 describes those who deny the verses as deaf and dumb in darknesses. Then the method changes. Instead of a new sign, the Prophet ﷺ is told to put a question: qul ara'aytakum, say, have you considered.",
+            "bn": "এ আয়াতের চারপাশের অংশটা নিদর্শন নিয়ে এক বিতর্ক। ৬:৩৭ আয়াতে অস্বীকারকারীরা জানতে চায়, নবী ﷺ-এর উপর কোনো নিদর্শন নাযিল হয় না কেন। জবাব আসে: আল্লাহ নিদর্শন নাযিল করতে সক্ষম, কিন্তু তাদের বেশির ভাগই জানে না। ৬:৩৮ আয়াত দেখায়, মাটির প্রাণী আর আকাশের পাখি সবাই আমাদের মতোই একেকটি উম্মত। ৬:৩৯ আয়াত বলে, যারা আয়াতকে মিথ্যা বলে তারা অন্ধকারে পড়ে থাকা বধির আর বোবা। এরপর পদ্ধতিটাই বদলে যায়। নতুন কোনো নিদর্শন নয়, নবী ﷺ-কে বলা হলো একটি প্রশ্ন রাখতে: কুল আরাআইতাকুম, বলো, তোমরা কি ভেবে দেখেছ?"
+          },
+          {
+            "en": "The question is not left hanging. 6:41 answers it on the listeners' behalf: no, it is Him alone you would call, and He would remove what you called Him for if He willed, and you would forget what you associate with Him. Then 6:42 to 6:45 turn from the hypothetical to history, to nations before who were seized with poverty and hardship and did not humble themselves; 6:43 has its own article. None of the commentaries consulted gives an occasion of revelation for this verse, so it is read here in its place within the argument.",
+            "bn": "প্রশ্নটা ঝুলিয়ে রাখা হয়নি। ৬:৪১ আয়াত শ্রোতাদের হয়ে নিজেই জবাব দেয়: না, তখন তোমরা কেবল তাঁকেই ডাকবে। তিনি চাইলে সেই বিপদ দূর করবেন যার জন্য তাঁকে ডেকেছিলে, আর যাদের শরীক বানিয়েছিলে তাদের কথা তোমরা ভুলে যাবে। এরপর ৬:৪২ থেকে ৬:৪৫ আয়াত কল্পনা ছেড়ে ইতিহাসে যায়। আগের জাতিগুলোকে অভাব আর দুঃখ-কষ্ট দিয়ে পাকড়াও করা হয়েছিল, তবু তারা বিনীত হয়নি। ৬:৪৩ আয়াত নিয়ে আলাদা প্রবন্ধ আছে। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের নাযিলের কোনো উপলক্ষ উল্লেখ করেনি। তাই আয়াতটিকে এখানে পড়া হচ্ছে বিতর্কের ভেতরে তার নিজের জায়গা থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tell Me, or See Yourselves",
+          "bn": "বলো তো, নাকি নিজেকে দেখো"
+        },
+        "p": [
+          {
+            "en": "Ara'aytakum looks unusual at first: a verb of seeing, ra'aytum, with a second pronoun, kum, joined after it. The grammarians disagreed about that kum, and at-Tabari lays out the dispute before giving his own reading. Some Basran grammarians held that the kaf after the ta' is there only for address and carries no grammatical case at all, like the kaf of dhaka. Others among them said it is added for address together with emphasis, while the ta' alone is the real pronoun.",
+            "bn": "আরাআইতাকুম শব্দটা প্রথম দেখায় একটু অদ্ভুত লাগে। দেখার ক্রিয়া রাআইতুম, তার পেছনে আরেকটা সর্বনাম কুম জোড়া। এই কুম নিয়ে ব্যাকরণবিদদের মধ্যে মতভেদ আছে। তাবারী নিজের ব্যাখ্যা দেওয়ার আগে পুরো বিতর্কটা সাজিয়ে দেন। বসরার কিছু ব্যাকরণবিদের মতে তা-এর পরের কাফ কেবল সম্বোধনের জন্য, বাক্যে তার কোনো কারক নেই, ঠিক যেমন যাকা-র কাফ। তাঁদেরই আরেক দল বলেছেন, কাফটা এসেছে সম্বোধন আর জোর দুটোর জন্য। আসল সর্বনাম কেবল তা।"
+          },
+          {
+            "en": "Some Kufan grammarians, as at-Tabari reports them, took the kaf as an object: the original was as if one said, have you seen yourself in some state other than this one? Speech then used the form so often that the ta' was frozen in one shape while the kaf carried the number and gender. Al-Qurtubi gives the same split with names attached. The Basrans hold that the kaf and mim are only for address, and this is the choice of az-Zajjaj; al-Kisa'i, al-Farra' and others hold them to be objects, so that the meaning is, have you seen yourselves.",
+            "bn": "তাবারীর বর্ণনায় কুফার কিছু ব্যাকরণবিদ কাফকে কর্ম ধরেছেন। মূল কথাটা যেন ছিল: তুমি কি নিজেকে এ অবস্থা ছাড়া অন্য কোনো অবস্থায় দেখেছ? পরে কথায় এত বেশি ব্যবহার হলো যে তা এক রূপে স্থির হয়ে গেল, আর সংখ্যা ও লিঙ্গের ভার নিল কাফ। কুরতুবী একই বিভাজন দেন নাম ধরে। বসরার আলেমদের মতে কাফ আর মীম কেবল সম্বোধনের জন্য, আর যাজ্জাজ এ মতটাই বেছে নিয়েছেন। কিসাঈ, ফাররা ও অন্যদের মতে এ দুটো কর্ম। তখন অর্থ দাঁড়ায়: তোমরা কি নিজেদের দেখেছ?"
+          },
+          {
+            "en": "However the pronoun is parsed, the phrase works the same way in use. At-Tabari paraphrases it akhbiruni, tell me. Al-Baghawi glosses it hal ra'aytum, have you seen, says the kaf is for emphasis, and quotes al-Farra': the Arabs say ara'aytaka when they mean tell us, as in, tell me, if you did such a thing, what would you do? The Kufan parsing has a quiet force for a reflective reader. Before the listeners are asked about their gods, they are asked to look at themselves.",
+            "bn": "সর্বনামটা যেভাবেই বিশ্লেষণ করা হোক, ব্যবহারে বাক্যাংশটার কাজ একই। তাবারী এর অর্থ করেন আখবিরূনী, আমাকে বলো। বাগাভী ব্যাখ্যা দেন হাল রাআইতুম, তোমরা কি দেখেছ। তাঁর মতে কাফ এসেছে জোর দিতে। সঙ্গে তিনি ফাররার কথা আনেন: আরবরা আরাআইতাকা বলে বোঝায় আমাদের বলো, যেমন কেউ বলে, বলো তো, তুমি যদি এমন করতে তাহলে কী করতে? যিনি থেমে ভাবতে চান, তাঁর কাছে কুফার বিশ্লেষণটির আলাদা একটা ধার আছে। উপাস্যদের নিয়ে প্রশ্ন করার আগে শ্রোতাদের বলা হচ্ছে নিজেদের দিকে তাকাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Hamzas, Three Ways",
+          "bn": "দুই হামযা, তিন উচ্চারণ"
+        },
+        "p": [
+          {
+            "en": "The word is voiced in several ways, and al-Qurtubi records the readings. Nafi' lightened both hamzas, moving the vowel of the first onto the letter before it and voicing the second halfway between a hamza and an alif. Abu 'Ubayd reported that he dropped the hamza and put an alif in its place; an-Nahhas called that, in the view of the Arabic scholars, a mistake ascribed to him, since it joins two silent letters. Makki replied that a substitution with alif is in fact narrated from Warsh, who lengthens the second, and lengthening is only possible with the substitution.",
+            "bn": "শব্দটা একাধিকভাবে পড়া হয়, আর কুরতুবী পাঠগুলো লিখে রেখেছেন। নাফি' দুটো হামযাই হালকা করে পড়তেন। প্রথমটার স্বর আগের বর্ণে সরিয়ে দিতেন, আর দ্বিতীয়টা উচ্চারণ করতেন হামযা ও আলিফের মাঝামাঝি। আবু উবাইদ তাঁর থেকে বর্ণনা করেন যে তিনি হামযা ফেলে দিয়ে তার জায়গায় আলিফ বসাতেন। নাহহাস বলেন, আরবি ভাষার আলেমদের দৃষ্টিতে এটা তাঁর নামে চাপানো ভুল, কারণ এতে দুটি সাকিন বর্ণ পাশাপাশি এসে যায়। মাক্কী জবাব দেন, ওয়ারশ থেকে আলিফ দিয়ে বদলের বর্ণনা সত্যিই আছে। তিনি দ্বিতীয়টাকে টেনে পড়েন, আর বদল ছাড়া সে টান সম্ভব নয়।"
+          },
+          {
+            "en": "Abu 'Amr, 'Asim and Hamza voiced both hamzas fully, keeping the word in its original form: the hamza of the question entered on ra'aytu, so the second hamza is the verb's own root letter. 'Isa ibn 'Umar and al-Kisa'i read araytakum, dropping the second hamza; an-Nahhas, as al-Qurtubi relays him, thought that remote in Arabic and fit only for poetry. Al-Baghawi lists the readings briefly and without that judgement: the people of Madinah soften the second hamza, and al-Kisa'i drops it. In every voicing the question is the same.",
+            "bn": "আবু আমর, আসিম ও হামযা দুটো হামযাই পূর্ণভাবে উচ্চারণ করতেন। এতে শব্দটা তার মূল রূপেই থাকে। প্রশ্নের হামযা রাআইতু-র উপর বসেছে, তাই দ্বিতীয় হামযাটা ক্রিয়ার নিজের মূল বর্ণ। ঈসা ইবন উমার ও কিসাঈ দ্বিতীয় হামযা ফেলে দিয়ে পড়তেন আরাইতাকুম। কুরতুবীর উদ্ধৃতিতে নাহহাস একে আরবি ভাষায় দূরবর্তী এবং কেবল কবিতায় চলনসই মনে করতেন। বাগাভী সংক্ষেপে পাঠগুলো উল্লেখ করেন, ওই মন্তব্য ছাড়াই: মদীনার কারীরা দ্বিতীয় হামযা নরম করে পড়েন, আর কিসাঈ তা বাদ দেন। যেভাবেই পড়া হোক, প্রশ্নটা একই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Calamity, or the Hour",
+          "bn": "দুনিয়ার আজাব, নাকি কিয়ামত"
+        },
+        "p": [
+          {
+            "en": "The verse imagines two arrivals: in atakum 'adhabu Allahi aw atatkumu as-sa'ah, if the punishment of Allah came to you, or the Hour came to you. At-Tabari fills in the first from history: a punishment like the one that came to the nations before you, some destroyed by the quake and some by the thunderbolt. The second he explains as the Hour in which you are raised from your graves and sent to the standing of the Day of Resurrection. The Muyassar draws the same line: punishment in this world, or the Hour in which you are resurrected.",
+            "bn": "আয়াতটি দুটি আগমনের কথা কল্পনা করে: ইন আতাকুম আযাবুল্লাহি আও আতাতকুমুস সাআহ, যদি তোমাদের উপর আল্লাহর আজাব আসে, কিংবা কিয়ামত এসে যায়। প্রথমটার ছবি তাবারী আঁকেন ইতিহাস থেকে। তোমাদের আগের জাতিগুলোর উপর যেমন আজাব এসেছিল, তেমন কিছু। তাদের কেউ ধ্বংস হয়েছিল ভূকম্পনে, কেউ বজ্রাঘাতে। দ্বিতীয়টা তাঁর ব্যাখ্যায় সেই মুহূর্ত, যখন তোমাদের কবর থেকে তুলে কিয়ামতের ময়দানে দাঁড় করানো হবে। মুয়াসসারও একই রেখা টানে: দুনিয়ার আজাব, অথবা সেই কিয়ামত যেদিন তোমাদের পুনরুত্থান হবে।"
+          },
+          {
+            "en": "Al-Baghawi, under a report from Ibn 'Abbas (RA), gives two short glosses: the punishment of Allah, before death; the Hour, meaning the Resurrection. Al-Qurtubi likewise takes the Hour as the one in which you will be raised. Ibn Kathir does not separate the two at all, saying only that this came to you or that. So the commentaries fetched agree about the Hour, and none of them reads it as a person's own death. What divides the two scenarios is that one is a calamity inside this life and the other is the end of it.",
+            "bn": "বাগাভী ইবন আব্বাস (রাঃ)-এর বর্ণনার অধীনে ছোট দুটি টীকা দেন: আল্লাহর আজাব মানে মৃত্যুর আগের আজাব, আর সাআহ মানে কিয়ামত। কুরতুবীও সাআহ বলতে বোঝেন সেই সময়, যখন তোমাদের পুনরুত্থান হবে। ইবন কাসীর দুটোকে আলাদাই করেন না, শুধু বলেন: এটা এলো, কিংবা ওটা। অর্থাৎ যেসব তাফসীর দেখা হয়েছে, সাআহ নিয়ে সেগুলো একমত। কেউই একে মানুষের নিজের মৃত্যু অর্থে নেয়নি। দুটো অবস্থার পার্থক্য এখানে: একটা এই জীবনের ভেতরের বিপদ, অন্যটা জীবনেরই সমাপ্তি।"
+          },
+          {
+            "en": "Those first questioned were the idolaters the Prophet ﷺ was sent to, and the nations at-Tabari mentions are ones whose end the Qur'an itself reports. The verse describes what it describes. It licenses nothing against any living person or community, and it gives no warrant for calling a present-day disaster the punishment of some particular people. Its question is put to the reader before it is put to anyone else, and only the reader can answer it.",
+            "bn": "প্রথম যাদের এ প্রশ্ন করা হয়েছিল, তারা ছিল সেই মূর্তিপূজারীরা, যাদের কাছে নবী ﷺ প্রেরিত হয়েছিলেন। আর তাবারী যে জাতিগুলোর কথা বলেন, তাদের পরিণতির খবর কুরআন নিজেই দিয়েছে। আয়াতটি যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আজকের কোনো দুর্যোগকে নির্দিষ্ট কোনো গোষ্ঠীর উপর আল্লাহর আজাব বলে ঘোষণা করারও কোনো ভিত্তি এখানে নেই। প্রশ্নটা অন্য কারও আগে পাঠকের সামনেই রাখা, আর জবাবও দিতে হবে পাঠককেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom Would You Call Then",
+          "bn": "তখন কাকে ডাকবে"
+        },
+        "p": [
+          {
+            "en": "Then the question itself: a-ghayra Allahi tad'un, is it other than Allah you would call? In the Arabic the object, other than Allah, comes before the verb, and the question is about whom they would call, not whether they would call at all. At-Tabari spells it out: is it other than Allah that you would call there, to lift the affliction that has come down on you, or is it to your other gods that you would run in fear, so that they might rescue you from the great affliction that has struck you?",
+            "bn": "এরপর আসল প্রশ্ন: আগাইরাল্লাহি তাদ'ঊন, তোমরা কি আল্লাহ ছাড়া অন্য কাউকে ডাকবে? আরবিতে কর্মটা, অর্থাৎ আল্লাহ ছাড়া অন্য কেউ, ক্রিয়ার আগে বসেছে। প্রশ্নটা তাই ডাকবে কি না তা নিয়ে নয়, কাকে ডাকবে তা নিয়ে। তাবারী কথাটা খুলে বলেন। সেখানে, তোমাদের উপর নেমে আসা বিপদ সরাতে, তোমরা কি আল্লাহ ছাড়া অন্য কাউকে ডাকবে? নাকি ভয়ে ছুটে যাবে তোমাদের অন্য উপাস্যদের কাছে, যাতে তারা এই ভয়াবহ বিপদ থেকে তোমাদের উদ্ধার করে?"
+          },
+          {
+            "en": "Ibn Kathir opens with the ground of the whole argument: Allah does what He wills with His creation, no one can turn His decree away from them, and He alone, without partner, is the one who answers when He is asked, for whom He wills. Then he gives the expected reply for the listeners: you would not call on anyone but Him, because you know that no one except Him can repel it. As-Sa'di frames it the same way: when these hardships and distresses come, which a person is driven by necessity to repel, will you call your gods and idols, or your Lord, the True and Manifest King?",
+            "bn": "ইবন কাসীর শুরু করেন পুরো যুক্তির ভিত্তি দিয়ে। আল্লাহ তাঁর সৃষ্টির সঙ্গে যা চান তা-ই করেন। তাঁর ফয়সালা কেউ তাদের থেকে ফেরাতে পারে না। তিনি একা, তাঁর কোনো শরীক নেই, তাঁর কাছে চাওয়া হলে তিনি যাকে চান তার ডাকে সাড়া দেন। তারপর তিনি শ্রোতাদের হয়ে প্রত্যাশিত জবাবটা দিয়ে দেন: তোমরা তাঁকে ছাড়া কাউকে ডাকবে না, কারণ তোমরা জানো, তিনি ছাড়া কেউ এ বিপদ ঠেকাতে পারে না। সা'দীও একইভাবে বলেন: যখন এমন কষ্ট আর সংকট আসে, যা ঠেকানোর জন্য মানুষ নিরুপায় হয়ে পড়ে, তখন কি তোমরা তোমাদের উপাস্য আর মূর্তিগুলোকে ডাকবে, নাকি তোমাদের রবকে, যিনি সত্য ও সুস্পষ্ট অধিপতি?"
+          },
+          {
+            "en": "6:41 then says it out loud: bal iyyahu tad'un, no, it is Him you would call. The answer carries two details worth noticing. He would remove what you called Him for, in sha'a, if He willed; the reply to even a desperate du'a remains His choice, which matches Ibn Kathir's phrase, for whom He wills. And wa tansawna ma tushrikun: you would forget what you associate with Him. In that hour the partners are not argued away. They are simply forgotten, because, in Ibn Kathir's words, the listeners already knew that no one else could repel it.",
+            "bn": "৬:৪১ আয়াত তারপর কথাটা স্পষ্ট করে বলে দেয়: বাল ইয়্যাহু তাদ'ঊন, না, তখন তোমরা কেবল তাঁকেই ডাকবে। এ জবাবে দুটি জিনিস খেয়াল করার মতো। তিনি দূর করবেন যার জন্য তাঁকে ডেকেছিলে, ইন শা-আ, যদি তিনি চান। চরম অসহায় অবস্থার দু'আতেও সাড়া দেওয়া না-দেওয়া তাঁরই এখতিয়ার। ইবন কাসীরের কথা, যাকে চান তার ডাকে সাড়া দেন, এর সঙ্গে মিলে যায়। আর ওয়া তানসাওনা মা তুশরিকূন: যাদের তাঁর শরীক বানাতে, তাদের তোমরা ভুলে যাবে। সেই মুহূর্তে শরীকদের যুক্তি দিয়ে সরাতে হয় না। মন থেকে তারা এমনিতেই মুছে যায়। ইবন কাসীরের ভাষায়, শ্রোতারা আগে থেকেই জানত, তিনি ছাড়া আর কেউ এ বিপদ ঠেকাতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truthful About What",
+          "bn": "সত্যবাদী কোন দাবিতে"
+        },
+        "p": [
+          {
+            "en": "The verse closes on a condition: in kuntum sadiqin, if you are truthful. Truthful about what? At-Tabari answers: if you are right in your claim and assertion that the gods you call on besides Allah can bring benefit or harm. The Muyassar repeats his wording almost exactly. Ibn Kathir puts it more briefly: truthful in your taking gods alongside Him. The two are close. One names the claim about the gods' power, the other the practice built on that claim, and the verse tests both against what the listeners would actually do.",
+            "bn": "আয়াতটি শেষ হয় একটি শর্তে: ইন কুনতুম সাদিকীন, যদি তোমরা সত্যবাদী হও। কোন ব্যাপারে সত্যবাদী? তাবারীর জবাব: আল্লাহকে ছাড়া যেসব উপাস্যকে তোমরা ডাকো, তারা উপকার বা ক্ষতি করতে পারে বলে তোমাদের যে দাবি, সে দাবিতে যদি তোমরা সঠিক হও। মুয়াসসার প্রায় হুবহু তাঁর কথাই বলে। ইবন কাসীর আরও সংক্ষেপে বলেন: তাঁর সঙ্গে অন্য উপাস্য গ্রহণ করার ব্যাপারে সত্যবাদী হলে। দুটি কথা কাছাকাছি। একটায় উপাস্যদের ক্ষমতা নিয়ে দাবির কথা, অন্যটায় সেই দাবির উপর দাঁড়ানো আমলের কথা। আয়াতটি দুটোকেই যাচাই করে শ্রোতারা বাস্তবে কী করবে তা দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi names the kind of opponent the argument works on. The verse, he says, is an argument against those idolaters who acknowledged that they had a Maker: in hardships you go back to Allah, and you will go back to Him on the Day of Resurrection as well, so why do you persist in shirk in times of ease? They used to worship idols, he adds, and call on Allah to turn punishment away. Al-Baghawi makes the same point: the disbelievers call on Allah in states of necessity, and he cites 31:32 as Allah's own report of it.",
+            "bn": "যুক্তিটা কোন ধরনের প্রতিপক্ষের উপর খাটে, কুরতুবী তা চিহ্নিত করেন। তাঁর মতে আয়াতটি সেই মুশরিকদের বিরুদ্ধে যুক্তি, যারা মানত যে তাদের একজন সৃষ্টিকর্তা আছেন। কঠিন সময়ে তোমরা আল্লাহর কাছেই ফিরে যাও, কিয়ামতের দিনও তাঁর কাছেই ফিরবে। তাহলে সুখের দিনে শিরকে অটল থাকো কেন? তিনি যোগ করেন, তারা মূর্তির ইবাদত করত, আর আজাব সরানোর জন্য ডাকত আল্লাহকে। বাগাভীর কথাও একই: কাফিররা নিরুপায় অবস্থায় আল্লাহকে ডাকে। প্রমাণ হিসেবে তিনি ৩১:৩২ আয়াত আনেন, যেখানে আল্লাহ নিজেই তাদের এ অবস্থার খবর দিয়েছেন।"
+          },
+          {
+            "en": "The same pattern returns elsewhere in the Qur'an: see 10:22, 29:65 and 31:32, and 17:67, which Ibn Kathir sets beside the answer in 6:41. Within this surah, 6:63 to 6:64 has its own article. None of the commentaries fetched for 6:40 attaches a hadith to it. As-Sa'di and al-Baghawi both lean on one word, necessity, idtirar. The verse does not rest its case on a proof the listeners must be taught. It rests it on what they themselves would do when driven to the wall.",
+            "bn": "কুরআনের অন্য জায়গায়ও একই ছবি ফিরে আসে: দেখুন ১০:২২, ২৯:৬৫ ও ৩১:৩২। আর ১৭:৬৭, যা ইবন কাসীর ৬:৪১ আয়াতের জবাবের পাশে রেখেছেন। এই সূরাতেই ৬:৬৩ ও ৬:৬৪ আয়াত নিয়ে আলাদা প্রবন্ধ আছে। ৬:৪০ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। সা'দী ও বাগাভী দুজনেই একটি শব্দের উপর ভর দেন: নিরুপায় অবস্থা, ইদতিরার। আয়াতটি এমন কোনো প্রমাণের উপর দাঁড়ায় না, যা শ্রোতাদের শিখিয়ে দিতে হবে। দাঁড়ায় তাদের নিজেদের আচরণের উপর, দেয়ালে পিঠ ঠেকলে তারা কী করবে তার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What a Hard Day Uncovers",
+          "bn": "কঠিন দিন যা খুলে দেখায়"
+        },
+        "p": [
+          {
+            "en": "A crisis strips away what a person only half believes. In comfort, someone can keep many supports at once, an idol, a powerful patron, a store of wealth, and each seems to share the weight. The verse asks the listener to run the test in imagination before life runs it in earnest. If on the worst day each support would fall silent and only Allah be called, the partnership was never real.",
+            "bn": "বিপদ মানুষের আধা-বিশ্বাসগুলো খুলে ফেলে দেয়। সুখের দিনে মানুষ একসঙ্গে অনেক কিছুর উপর ভর রাখতে পারে: কোনো মূর্তি, প্রভাবশালী কোনো পৃষ্ঠপোষক, জমানো সম্পদ। মনে হয় প্রত্যেকেই বোঝার কিছুটা বইছে। জীবন সত্যি সত্যি পরীক্ষা নেওয়ার আগেই আয়াতটি শ্রোতাকে কল্পনায় সেই পরীক্ষা দিয়ে নিতে বলে। সবচেয়ে খারাপ দিনে যদি সব অবলম্বন চুপ হয়ে যায় আর কেবল আল্লাহকেই ডাকা হয়, তাহলে ওই অংশীদারি কখনো সত্যি ছিল না।"
+          },
+          {
+            "en": "Al-Qurtubi's question can be turned toward a believing reader. A Muslim keeps no idols, yet he can keep a habit of turning to Allah only at the edge. The du'a made in a hospital corridor is sincere; the harder question is what his du'a sounds like in an ordinary week. And 6:41 attaches if He willed even to the call made in extremity.",
+            "bn": "কুরতুবীর প্রশ্নটা ঈমানদার পাঠকের দিকেও ঘোরানো যায়। মুসলিম মূর্তি রাখে না, কিন্তু কেবল কিনারায় পৌঁছে আল্লাহর দিকে ফেরার অভ্যাস তার থাকতে পারে। হাসপাতালের বারান্দায় দাঁড়িয়ে করা দু'আ খাঁটি। কঠিন প্রশ্নটা হলো, সাধারণ কোনো সপ্তাহে তার দু'আ কেমন শোনায়। আর ৬:৪১ আয়াত চরম বিপদের ডাকের সঙ্গেও শর্ত জুড়ে দিয়েছে: যদি তিনি চান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Arrival With No After",
+          "bn": "যে আগমনের পরে কিছু নেই"
+        },
+        "p": [
+          {
+            "en": "The two arrivals differ in a way the verse leaves the listener to notice. A calamity in this life can pass, and 6:41 says He may lift it. At the Hour there is nothing to lift and no shore to be carried back to. Al-Qurtubi's remark that they will return to Him on the Day of Resurrection as well turns the hypothetical into a certainty.",
+            "bn": "দুটি আগমনের মধ্যে একটা পার্থক্য আছে, যা আয়াতটি শ্রোতার নিজের চোখে পড়ার জন্য রেখে দেয়। এই জীবনের বিপদ কেটে যেতে পারে, আর ৬:৪১ আয়াত বলে, তিনি চাইলে তা সরিয়ে দেবেন। কিয়ামতে সরানোর মতো কিছু থাকে না, ফিরে যাওয়ার মতো কোনো তীরও থাকে না। কুরতুবীর কথা, কিয়ামতের দিনও তোমরা তাঁর কাছেই ফিরবে, এই কল্পিত প্রশ্নকে নিশ্চিত সত্যে পরিণত করে।"
+          },
+          {
+            "en": "So the verse hands the reader an exercise for a calm week. Ask its question: if the worst came today, whom would I call? Then let the answer govern ordinary days, calling on Him when nothing is wrong and refusing to let money, contacts or cleverness hold the place in the heart that only He would fill on the hardest day. The aim is to live now by an answer already known.",
+            "bn": "তাই আয়াতটি পাঠকের হাতে শান্ত সপ্তাহের জন্য একটা অনুশীলন তুলে দেয়। এর প্রশ্নটাই নিজেকে করুন: সবচেয়ে খারাপটা যদি আজই আসে, আমি কাকে ডাকব? তারপর সেই জবাব দিয়ে সাধারণ দিনগুলো চালান। কোনো বিপদ না থাকলেও তাঁকে ডাকুন। টাকা, চেনাজানা বা নিজের চালাকিকে অন্তরের সেই জায়গা দখল করতে দেবেন না, কঠিনতম দিনে যে জায়গা কেবল তিনিই পূরণ করবেন। লক্ষ্য একটাই: যে জবাব আগে থেকেই জানা, এখনই সে অনুযায়ী বাঁচা।"
+          }
+        ]
+      }
+    ]
+  },
   "6:43": {
     "sections": [
       {
