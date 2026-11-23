@@ -32523,6 +32523,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The right words at the wrong moment did not save Pharaoh. Submit to Allah while it is still a choice, not when the water has already reached you.",
     "lessonBn": "ঠিক কথা ভুল সময়ে বলায় ফিরআউন বাঁচেনি। আল্লাহর কাছে আত্মসমর্পণ করুন যখন তা এখনো আপনার বেছে নেওয়ার বিষয়, পানি গলা পর্যন্ত উঠে আসার পরে নয়।"
+  },
+  "10:102": {
+    "reflectionEn": "Signs had been shown and warnings delivered, and still a people would not believe. So the surah asks: what are they waiting for, then, except days like the days of those who passed on before them? The word for days carries the memory of events, the turning points when nations who denied their messengers met what they had been warned of. Then the Prophet ﷺ is told to answer them in kind: wait, then; I am with you among those who wait. Both sides wait, but not for the same thing, and not with the same hope. The verse is a warning, and it is also a mirror. What am I putting off until something forces my hand?",
+    "reflectionBn": "নিদর্শন দেখানো হয়েছে, সতর্কবার্তাও পৌঁছে গেছে, তবু একদল মানুষ ঈমান আনবে না। তাই সূরাটি প্রশ্ন করে: তাহলে তারা কিসের অপেক্ষায় আছে? তাদের আগে যারা গত হয়ে গেছে, তাদের দিনগুলোর মতো কিছুর? 'দিন' শব্দটার ভেতরে ঘটনার স্মৃতি জমা থাকে। যে জাতিগুলো নিজেদের রসূলদের মিথ্যা বলেছিল, এ সেই মোড় ঘোরানো সময়, যখন সতর্কবার্তা সত্যি হয়ে তাদের ওপর নেমে এসেছিল। তারপর নবী ﷺ-কে একই সুরে জবাব দিতে বলা হয়: তাহলে অপেক্ষা করো, আমিও তোমাদের সঙ্গে অপেক্ষায় আছি। দুই পক্ষই অপেক্ষা করে, কিন্তু একই জিনিসের জন্য নয়, একই আশা নিয়েও নয়। আয়াতটি সতর্কবাণী, আবার আয়নাও। কোনো ধাক্কা এসে বাধ্য না করা পর্যন্ত আমি কোন কাজটা ফেলে রাখছি?",
+    "pointsEn": [
+      "What am I waiting for before I act on something I already know is right?",
+      "When I read about the ruin of earlier peoples, do I look for myself in the story, or only for other people?",
+      "Which days of my own life, easy or hard, still hold a lesson I have not taken?",
+      "When someone mocks what I hold, can I answer briefly and calmly, and leave the end with Allah?",
+      "Do I hurry to call a disaster in someone else's land a punishment, when this verse gives me no such licence?"
+    ],
+    "pointsBn": [
+      "যে কাজটা ঠিক বলে আমি আগেই জানি, সেটা করার আগে আমি আসলে কিসের অপেক্ষা করছি?",
+      "আগের জাতিগুলোর ধ্বংসের কথা পড়ার সময় আমি কি গল্পের ভেতরে নিজেকে খুঁজি, নাকি কেবল অন্যদের?",
+      "আমার নিজের জীবনের কোন দিনগুলো, সহজ হোক বা কঠিন, এমন শিক্ষা ধরে রেখেছে যা আমি এখনো নিইনি?",
+      "আমার বিশ্বাস নিয়ে কেউ ঠাট্টা করলে আমি কি অল্প কথায়, শান্তভাবে জবাব দিয়ে পরিণামটা আল্লাহর হাতে ছেড়ে দিতে পারি?",
+      "অন্য কোনো দেশের বিপর্যয়কে আমি কি তাড়াহুড়ো করে শাস্তি বলে দিই, অথচ এ আয়াত আমাকে তেমন কোনো অনুমতি দেয় না?"
+    ],
+    "lessonEn": "The days of earlier peoples are a warning to read about yourself. Do not wait for a crisis before you respond; answer now, and leave every outcome with Allah.",
+    "lessonBn": "আগের জাতিগুলোর দিনগুলো এমন সতর্কবাণী, যা নিজের দিকে তাকিয়ে পড়তে হয়। সাড়া দেওয়ার জন্য কোনো বিপদের অপেক্ষা করবেন না; এখনই সাড়া দিন, আর সব পরিণাম আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 

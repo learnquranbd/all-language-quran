@@ -4915,6 +4915,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:102": {
+    "sections": [
+      {
+        "h": {
+          "en": "When Signs Avail Nothing",
+          "bn": "নিদর্শন যখন কাজে আসে না"
+        },
+        "p": [
+          {
+            "en": "The verse comes at the close of a long argument in surah Yunus. 10:101 has just told the Prophet ﷺ to say, look at what is in the heavens and the earth, and added that signs and warners avail nothing for a people who do not believe. 10:102 follows with fa, so: if the signs will not move them, what is left? Fa-hal yantazirun illa mithla ayyami lladhina khalaw min qablihim: so do they wait for anything except the like of the days of those who passed on before them?",
+            "bn": "সূরা ইউনুসে দীর্ঘ এক তর্কের শেষ প্রান্তে আয়াতটি এসেছে। ঠিক আগে ১০:১০১ নবী ﷺ-কে বলতে বলেছে, আসমান ও যমীনে কী আছে চেয়ে দেখো। তারপর জানিয়ে দিয়েছে, যারা ঈমান আনে না, নিদর্শন আর সতর্ককারী তাদের কোনো কাজে আসে না। ১০:১০২ শুরু হয় 'ফা' দিয়ে, মানে 'তাহলে'। নিদর্শনেও যদি তারা না নড়ে, বাকি থাকে কী? ফাহাল ইয়ানতাযিরূনা ইল্লা মিসলা আইয়ামিল্লাযীনা খালাও মিন কাবলিহিম: তাহলে কি তারা তাদের আগে যারা গত হয়ে গেছে, তাদের দিনগুলোর মতো কিছু ছাড়া আর কিছুর অপেক্ষা করছে?"
+          },
+          {
+            "en": "The verse runs to 15 Arabic words, and a single pause mark divides it cleanly: a question of nine words, then a reply of six. Who is being asked about? Al-Baghawi names them directly: the polytheists of Makkah. At-Tabari frames the whole verse as Allah speaking to His Prophet ﷺ while warning the polytheists of his people against His vengeance coming down swiftly in their own courtyard. Ibn Kathir calls them these who deny you, O Muhammad. As-Sa'di describes them by what they refused: those who do not believe in Allah's signs after these had become clear.",
+            "bn": "আয়াতটিতে আরবি শব্দ ১৫টি। মাঝখানে একটিমাত্র বিরতি-চিহ্ন একে পরিষ্কার দুই ভাগে ভাগ করেছে: ৯ শব্দের একটি প্রশ্ন, তারপর ৬ শব্দের জবাব। প্রশ্নটা কাদের নিয়ে? বাগাভী সরাসরি নাম বলেন: মক্কার মুশরিকরা। তাবারীর ব্যাখ্যায় পুরো আয়াতটি নবী ﷺ-এর প্রতি আল্লাহর সম্বোধন। এর ভেতর দিয়ে আল্লাহ তাঁর কওমের মুশরিকদের সাবধান করছেন, তাঁর শাস্তি দ্রুতই তাদের আঙিনায় এসে নামতে পারে। ইবন কাসীরের ভাষায় তারা হলো, হে মুহাম্মাদ, যারা তোমাকে মিথ্যাবাদী বলে। আর সা'দী তাদের চেনান তারা যা ফিরিয়ে দিয়েছে তা দিয়ে: আল্লাহর আয়াত স্পষ্ট হয়ে যাওয়ার পরও যারা ঈমান আনে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Days That Name Events",
+          "bn": "দিন মানে ঘটে যাওয়া ঘটনা"
+        },
+        "p": [
+          {
+            "en": "The key word is ayyam, days, and the commentators agree it does not mean dates on a calendar. Al-Qurtubi says that the days here carry the sense of al-waqa'i', momentous events, and he supports it with an idiom: fulan 'alim bi-ayyam al-'Arab, so-and-so knows the days of the Arabs, meaning he knows their battles and great happenings. A people's days, in that usage, are the events that marked them. When the verse speaks of the days of those who passed on, it means what happened to them.",
+            "bn": "মূল শব্দটি আইয়াম, অর্থাৎ দিনসমূহ। তাফসীরকারেরা একমত যে এখানে ক্যালেন্ডারের তারিখ বোঝানো হয়নি। কুরতুবী বলেন, এখানে দিন মানে আল-ওয়াকাই', অর্থাৎ বড় বড় ঘটনা। প্রমাণ হিসেবে তিনি একটি আরবি প্রবাদ আনেন: অমুক আরবদের দিনগুলো জানে। এর মানে, সে তাদের যুদ্ধবিগ্রহ আর বড় ঘটনাগুলোর খবর রাখে। এই ব্যবহারে কোনো জাতির 'দিন' হলো সেই ঘটনাগুলো, যা তাদের ইতিহাসে দাগ কেটে গেছে। তাই আয়াত যখন গত হয়ে যাওয়া লোকদের দিনের কথা বলে, তখন বোঝায় তাদের ওপর যা ঘটেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both add a note that keeps the word from being read too narrowly. The Arabs, they say, call punishment days and call blessings days, and whatever has passed over you of good or of ill is days. Both cite 14:5, where Musa (AS) is told, wa dhakkirhum bi-ayyami llah: remind them of the days of Allah. It is the setting, the refusal described in 10:101 and the threat that follows in this verse, that tells the reader which kind is meant here.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই একটি কথা যোগ করেন, যাতে শব্দটাকে সংকীর্ণ অর্থে পড়া না হয়। তাঁরা বলেন, আরবরা শাস্তিকেও 'দিন' বলে, নিয়ামতকেও 'দিন' বলে। ভালো হোক বা মন্দ, যা কিছু আপনার ওপর দিয়ে বয়ে গেছে, সবই 'দিন'। দুজনেই ১৪:৫ আয়াতের উল্লেখ করেন, যেখানে মূসা (আঃ)-কে বলা হয়েছে: ওয়া যাক্কিরহুম বিআইয়ামিল্লাহ, তাদের আল্লাহর দিনগুলোর কথা স্মরণ করিয়ে দাও। কোনটা বোঝানো হচ্ছে, তা বলে দেয় প্রসঙ্গ: ১০:১০১ আয়াতে বর্ণিত প্রত্যাখ্যান, আর এ আয়াতের পরের অংশের হুমকি।"
+          },
+          {
+            "en": "Here the commentators read the hard side of the word. Ibn Kathir glosses the question as: are these who deny you waiting for anything of vengeance and punishment except the like of the days of Allah among the nations before them who denied their messengers? As-Sa'di names the content in two words, al-halak wa-l-'iqab, destruction and penalty. The Muyassar and at-Tabari both render the question as asking whether they await anything but a day on which they would see Allah's punishment with their own eyes, like the days of their forebears.",
+            "bn": "এখানে তাফসীরকারেরা শব্দটার কঠিন দিকটাই পড়েন। ইবন কাসীর প্রশ্নটির ব্যাখ্যা দেন এভাবে: যারা তোমাকে মিথ্যা বলে, তারা কি প্রতিশোধ আর শাস্তির ব্যাপারে আগের সেই জাতিগুলোর ওপর নেমে আসা আল্লাহর দিনগুলোর মতো কিছু ছাড়া অন্য কিছুর অপেক্ষা করছে, যারা নিজেদের রসূলদের মিথ্যা বলেছিল? সা'দী বিষয়টা ২টি শব্দে বলে দেন: আল-হালাক ওয়াল-ইকাব, ধ্বংস আর শাস্তি। মুয়াসসার ও তাবারী দুজনেই প্রশ্নটিকে পড়েন এভাবে: তারা কি এমন এক দিনেরই অপেক্ষা করছে, যেদিন পূর্বপুরুষদের দিনগুলোর মতো আল্লাহর শাস্তি তারা নিজের চোখে দেখবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Passed On",
+          "bn": "যারা আগেই গত হয়েছে"
+        },
+        "p": [
+          {
+            "en": "Who were those who passed on? The verb khalaw says they went by and are gone. Al-Baghawi glosses it as madaw, they passed, and adds min mukadhdhibi al-umam, from among the denying nations. At-Tabari, with his chain, reports Qatada naming them: the waqa'i' of Allah among those who passed before them, the people of Nuh (AS), 'Ad and Thamud. Al-Baghawi relays the same words from Qatada. Al-Qurtubi relays them as well, but his wording ends with wa ghayrihim, and others, so in his version the list stays open.",
+            "bn": "যারা গত হয়ে গেছে, তারা কারা? খালাও ক্রিয়াটি বলে, তারা চলে গেছে, আর নেই। বাগাভী এর অর্থ করেন মাদাও, অর্থাৎ বিদায় নিয়েছে, আর যোগ করেন: মিথ্যা প্রতিপন্নকারী জাতিগুলোর মধ্য থেকে। তাবারী নিজের সনদে কাতাদার বক্তব্য আনেন, যেখানে তিনি নাম ধরে বলেন: আগে যারা গত হয়েছে তাদের মধ্যে আল্লাহর ঘটানো ঘটনাগুলো, নূহ (আঃ)-এর কওম, আদ ও সামূদ। বাগাভীও কাতাদা থেকে একই কথা উদ্ধৃত করেন। কুরতুবীও উদ্ধৃত করেন, তবে তাঁর ভাষ্যের শেষে আছে ওয়া গাইরিহিম, অর্থাৎ 'এবং অন্যরা'। ফলে তাঁর বর্ণনায় তালিকাটা খোলা থেকে যায়।"
+          },
+          {
+            "en": "At-Tabari is careful about where the likeness lies. The earlier nations, he says, were on the like of what these people were on, of shirk and denial, and they had walked the same road of belying Allah's messengers and rejecting the oneness of their Lord. As-Sa'di says it more briefly: fa-innahum sana'u ka-sani'ihim, for they did as those did. The comparison in the verse is therefore a comparison of conduct before it is a comparison of fate. On their reading, the days will be alike because the deeds were alike.",
+            "bn": "সাদৃশ্যটা ঠিক কোথায়, তাবারী তা খেয়াল করে বলেন। তাঁর কথায়, আগের জাতিগুলো ছিল এদের মতোই শিরক আর মিথ্যা প্রতিপন্ন করার পথে। আল্লাহর রসূলদের অস্বীকার করা আর নিজেদের রবের তাওহীদ অমান্য করার সেই একই পথ ধরে তারা হেঁটেছিল। সা'দী আরও সংক্ষেপে বলেন: কারণ তারাও তাদের মতোই কাজ করেছে। তাই আয়াতের তুলনাটা পরিণামের তুলনা হওয়ার আগে কাজের তুলনা। তাঁদের ব্যাখ্যায় দিনগুলো একরকম হবে, কারণ কাজগুলো একরকম ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Way That Keeps Running",
+          "bn": "যে রীতি থামে না"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di then adds the principle that keeps the question from being a threat to one generation only: wa sunnatu llahi jariyatun fi l-awwalina wa-l-akhirin, and the way of Allah runs on among the earlier and the later alike. What befell the first deniers is not, on this reading, a closed chapter of history but a pattern that holds. That is why a question first put to Makkah can still be read with care today, provided it is read as a question about conduct and where conduct leads, and not as a key for decoding the news.",
+            "bn": "এরপর সা'দী একটি মূলনীতি যোগ করেন, যার ফলে প্রশ্নটা কেবল এক প্রজন্মের প্রতি হুমকি হয়ে থাকে না: আল্লাহর রীতি আগের ও পরের সবার মধ্যে একইভাবে চলে আসছে। এই পাঠে প্রথম যুগের অস্বীকারকারীদের যা ঘটেছিল, তা ইতিহাসের বন্ধ কোনো অধ্যায় নয়। এ এক চলমান নিয়ম। এ কারণেই মক্কাকে প্রথম যে প্রশ্ন করা হয়েছিল, আজও তা যত্ন নিয়ে পড়া যায়। শর্ত একটাই: পড়তে হবে মানুষের আচরণ আর সেই আচরণের পরিণতি নিয়ে প্রশ্ন হিসেবে, খবরের ব্যাখ্যা খোঁজার চাবি হিসেবে নয়।"
+          },
+          {
+            "en": "The Qur'an uses close wording elsewhere, a link this article draws itself rather than one taken from the commentators consulted here. 35:43 asks, fa-hal yanzuruna illa sunnata l-awwalin: so do they await anything but the way of the former peoples? It then adds that no change and no alteration will be found in the way of Allah. 40:85 speaks of sunnata llahi llati qad khalat fi 'ibadihi, the way of Allah that has passed among His servants, using the same verb khalat that 10:102 uses for the peoples who passed on.",
+            "bn": "কুরআনের অন্য জায়গাতেও কাছাকাছি ভাষা আছে। এ যোগসূত্র এই লেখার নিজের, এখানে দেখা তাফসীরগুলো থেকে নেওয়া নয়। ৩৫:৪৩ আয়াত প্রশ্ন করে: তাহলে কি তারা পূর্ববর্তীদের ক্ষেত্রে প্রযুক্ত রীতি ছাড়া আর কিছুর অপেক্ষা করছে? তারপর বলে, আল্লাহর রীতিতে কোনো পরিবর্তন বা ব্যতিক্রম পাওয়া যাবে না। ৪০:৮৫ আয়াত বলে আল্লাহর সেই রীতির কথা, যা তাঁর বান্দাদের মধ্যে আগেও চলে গেছে। সেখানে 'খালাত' ক্রিয়াটি এসেছে, আর ১০:১০২ আয়াতেও গত হয়ে যাওয়া জাতিগুলোর জন্য একই ক্রিয়া ব্যবহার হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wait, Spoken as Warning",
+          "bn": "অপেক্ষার আদেশে হুঁশিয়ারি"
+        },
+        "p": [
+          {
+            "en": "The reply is an imperative, qul fa-ntaziru: say, then wait. Read alone it could sound like permission. The commentators do not read it that way. Al-Qurtubi glosses it as tarabbasu, wait and watch, and then names its force: wa hadha tahdidun wa wa'id, this is a threat and a warning. At-Tabari spells out the condition and the object together: say to them, if that is what they are waiting for, then wait for Allah's punishment of you and the descent of His displeasure upon you. The Muyassar shortens it: wait for Allah's punishment.",
+            "bn": "জবাবটা আদেশসূচক: কুল ফানতাযিরূ, বলো, তাহলে অপেক্ষা করো। আলাদা করে পড়লে একে অনুমতি মনে হতে পারে। তাফসীরকারেরা কিন্তু এভাবে পড়েন না। কুরতুবী এর অর্থ করেন তারাব্বাসূ, অর্থাৎ অপেক্ষা করো আর লক্ষ রাখো। তারপর এর আসল সুরটা বলে দেন: এ হলো হুমকি ও শাস্তির সতর্কবাণী। তাবারী শর্ত আর অপেক্ষার বিষয় দুটোই খুলে বলেন: তাদের বলো, যদি এরই অপেক্ষায় থাকো, তাহলে তোমাদের ওপর আল্লাহর শাস্তি আর তাঁর ক্রোধ নেমে আসার অপেক্ষা করো। মুয়াসসার আরও ছোট করে বলে: আল্লাহর শাস্তির অপেক্ষা করো।"
+          },
+          {
+            "en": "The same reply, word for word, appears twice more in the Qur'an. Earlier in this surah, 10:20 answers the demand for a sign with: the unseen belongs only to Allah, so wait; I am with you among those who wait. And in 7:71 Hud (AS) says the identical words to his own people, 'Ad, one of the three nations Qatada names here. That repetition is this article's own observation, not a commentator's. The phrase with you is weighed more fully in the article on 52:31, where the verb is tarabbasu.",
+            "bn": "হুবহু এই জবাব কুরআনে আরও দুবার এসেছে। এই সূরাতেই আগে ১০:২০ আয়াতে নিদর্শনের দাবির জবাবে বলা হয়েছে: অদৃশ্যের মালিক কেবল আল্লাহ, কাজেই অপেক্ষা করো, আমিও তোমাদের সঙ্গে অপেক্ষায় আছি। আর ৭:৭১ আয়াতে হূদ (আঃ) নিজের কওম আদকে ঠিক এই কথাগুলোই বলেছিলেন। কাতাদা এখানে যে তিনটি জাতির নাম বলেছেন, আদ তাদের একটি। এই পুনরাবৃত্তি এ লেখার নিজের পর্যবেক্ষণ, কোনো তাফসীরকারের নয়। 'তোমাদের সঙ্গে' কথাটির গভীর আলোচনা আছে ৫২:৩১ আয়াতের লেখায়, যেখানে ক্রিয়াটি তারাব্বাসূ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Prophet Awaited",
+          "bn": "নবী ﷺ কিসের অপেক্ষায় ছিলেন"
+        },
+        "p": [
+          {
+            "en": "On the Prophet's side, inni ma'akum mina l-muntazirin, I am with you among those who wait, the commentators name the object of his waiting in different ways. At-Tabari has him say: I am among those awaiting your destruction and your ruin, halakakum wa-bawarakum, by the punishment that comes down on you from Allah. The Muyassar says: among those awaiting your punishment. Al-Qurtubi points the waiting elsewhere: al-mutarabbisin li-maw'id rabbi, those who wait for the appointment of my Lord. The first two name what will fall on the deniers; al-Qurtubi names the promise the Prophet ﷺ was holding.",
+            "bn": "নবী ﷺ-এর দিক থেকে কথাটি হলো: ইন্নী মাআকুম মিনাল মুনতাযিরীন, আমিও তোমাদের সঙ্গে অপেক্ষমাণদের একজন। তিনি কিসের অপেক্ষা করছিলেন, তাফসীরকারেরা তা ভিন্ন ভিন্নভাবে বলেন। তাবারীর ভাষ্যে তিনি বলছেন: আমি তোমাদের ধ্বংস আর বিনাশের অপেক্ষায় আছি, যা আল্লাহর পক্ষ থেকে শাস্তি হয়ে তোমাদের ওপর নামবে। মুয়াসসার বলে: তোমাদের শাস্তির অপেক্ষায় যারা আছে, আমি তাদের একজন। কুরতুবী অপেক্ষাটাকে অন্য দিকে ফেরান: যারা আমার রবের প্রতিশ্রুত সময়ের অপেক্ষায় আছে। প্রথম দুজন বলেন অস্বীকারকারীদের ওপর কী নামবে। কুরতুবী বলেন নবী ﷺ কোন প্রতিশ্রুতি আঁকড়ে ছিলেন।"
+          },
+          {
+            "en": "As-Sa'di turns the waiting toward its outcome. Fa-sata'lamuna, he writes: you will come to know who will have the good end, al-'aqiba al-hasana, and rescue in this world and the next, and that these belong only to the messengers and those who follow them. These readings are not set against each other, and none of them is ranked here. Taken together they show that the Prophet ﷺ was not told to wait in suspense. He waited holding a promise, while those he addressed were waiting, in the verse's own question, for days like the days of the nations before them.",
+            "bn": "সা'দী অপেক্ষাটাকে তার পরিণামের দিকে ফেরান। তিনি লেখেন: শিগগিরই তোমরা জানবে, উত্তম পরিণাম কার, আর দুনিয়া ও আখিরাতে মুক্তি কার ভাগে। আর তা কেবল রসূলদের ও তাঁদের অনুসারীদেরই প্রাপ্য। এ ব্যাখ্যাগুলো পরস্পরের বিরোধী নয়, আর এখানে কোনোটিকে অন্যটির ওপর প্রাধান্যও দেওয়া হচ্ছে না। সব মিলিয়ে বোঝা যায়, নবী ﷺ-কে অনিশ্চয়তার মধ্যে অপেক্ষা করতে বলা হয়নি। তিনি অপেক্ষা করেছেন হাতে একটি প্রতিশ্রুতি নিয়ে। আর যাদের তিনি সম্বোধন করছিলেন, আয়াতের প্রশ্ন অনুযায়ী তারা অপেক্ষা করছিল আগের জাতিগুলোর দিনের মতো দিনের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rescue in the Next Verse",
+          "bn": "পরের আয়াতে উদ্ধারের কথা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes his comment with a report from ar-Rabi' ibn Anas that ties this verse to the one after it. Allah, he said, made them fear His punishment, His vengeance and His penalty, then told them that when any of that befalls, Allah rescues His messengers and those who believed with them; and he recited 10:103: then We save Our messengers and those who believe; thus it is binding on Us to save the believers. The abridged English Ibn Kathir also takes 10:101 to 10:103 together, and calls the rescue as a right Allah has obligated upon Himself.",
+            "bn": "তাবারী তাঁর আলোচনা শেষ করেন রবী' ইবন আনাসের একটি বক্তব্য দিয়ে, যা এ আয়াতকে পরের আয়াতের সঙ্গে জুড়ে দেয়। তিনি বলেন, আল্লাহ তাদের নিজের শাস্তি, প্রতিশোধ আর সাজার ভয় দেখালেন। তারপর জানালেন, এর কিছু যখন ঘটে, আল্লাহ তাঁর রসূলদের আর তাঁদের সঙ্গে যারা ঈমান এনেছে তাদের রক্ষা করেন। এরপর তিনি ১০:১০৩ আয়াত পাঠ করেন: তারপর আমি আমার রসূলদের আর মুমিনদের রক্ষা করি, এভাবে মুমিনদের রক্ষা করা আমার দায়িত্ব। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও ১০:১০১ থেকে ১০:১০৩ পর্যন্ত আয়াতগুলো একসঙ্গে পড়ে। সেখানে এই উদ্ধারকে বলা হয়েছে এমন এক হক, যা আল্লাহ নিজের ওপর অবধারিত করে নিয়েছেন।"
+          },
+          {
+            "en": "No commentary consulted for this verse attaches a hadith of the Prophet ﷺ to it. What at-Tabari brings are the words of Qatada and of ar-Rabi' ibn Anas explaining the verse; they are interpretation, valuable as such, and they are not prophetic narration. Ma'arif al-Qur'an, whose grouped comment is filed for 10:98 to 10:107, spends it on the people of Yunus (AS) in 10:98 and does not take up this verse, so it is not cited here for it.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। তাবারী যা আনেন, তা কাতাদা ও রবী' ইবন আনাসের নিজেদের কথা, আয়াতের ব্যাখ্যা হিসেবে। ব্যাখ্যা হিসেবে এর মূল্য আছে, কিন্তু এগুলো নবীর বাণী নয়। মাআরিফুল কুরআনের সম্মিলিত আলোচনা ১০:৯৮ থেকে ১০:১০৭ আয়াতের জন্য রাখা। কিন্তু সেটি ১০:৯৮ আয়াতে ইউনুস (আঃ)-এর কওমের কাহিনিতেই ব্যয় হয়েছে, এ আয়াত নিয়ে কিছু বলেনি। তাই এখানে এ আয়াতের জন্য সেটির উদ্ধৃতি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict on the News",
+          "bn": "খবর দেখে রায় নয়"
+        },
+        "p": [
+          {
+            "en": "One limit needs saying plainly. The verse speaks of what its text describes: Makkan deniers who had turned away from clear signs, and earlier nations whose end the Qur'an itself reports. It reads no present-day flood, earthquake, epidemic or war as the punishment of any people, and it licenses nothing against any living person or community. To name a stricken town or nation as one of the condemned is to claim a knowledge that this verse does not give. The question it asks points the reader toward his own conduct, not toward a verdict on his neighbours.",
+            "bn": "একটি সীমা সোজাসুজি বলে রাখা দরকার। আয়াতটি কেবল সেটুকুই বলে, যা এর ভাষায় আছে: মক্কার সেই অস্বীকারকারীরা, যারা স্পষ্ট নিদর্শন থেকে মুখ ফিরিয়ে নিয়েছিল, আর আগের সেই জাতিগুলো, যাদের পরিণতির খবর কুরআন নিজেই দিয়েছে। আজকের কোনো বন্যা, ভূমিকম্প, মহামারি বা যুদ্ধকে এ আয়াত কোনো জাতির শাস্তি বলে না। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতিও দেয় না। বিপদে পড়া কোনো শহর বা জাতিকে অভিশপ্তদের একজন বলে ঘোষণা করা মানে এমন জ্ঞানের দাবি করা, যা এ আয়াত দেয়নি। এর প্রশ্নটা পাঠককে নিজের আমলের দিকে তাকাতে বলে, প্রতিবেশীর ওপর রায় দিতে নয়।"
+          },
+          {
+            "en": "The note from al-Qurtubi and al-Baghawi that the Arabs call blessings days as well as punishments points the same way. The word alone settles nothing about any event. The Qur'an itself named which past days were punishment, for Nuh's people, for 'Ad and for Thamud; where it has not named them, no reader can do it in its place. A hard day in someone else's life may be a trial, or something else that no onlooker can see, and the verse does not ask anyone to decide which. It asks what the listener is waiting for.",
+            "bn": "কুরতুবী ও বাগাভীর সেই কথাও একই দিকে ইঙ্গিত করে যে আরবরা শাস্তির মতো নিয়ামতকেও 'দিন' বলে। শুধু শব্দটা দেখে কোনো ঘটনার ব্যাপারে কিছুই স্থির হয় না। অতীতের কোন দিনগুলো শাস্তি ছিল, কুরআন নিজেই তা বলে দিয়েছে: নূহ (আঃ)-এর কওম, আদ আর সামূদের বেলায়। যেখানে কুরআন নাম বলেনি, সেখানে কোনো পাঠক তার জায়গা নিতে পারে না। অন্যের জীবনের কঠিন দিনটা হতে পারে পরীক্ষা, কিংবা এমন কিছু যা বাইরে থেকে কেউ দেখতে পায় না। কোনটা, সে সিদ্ধান্ত দিতে আয়াত কাউকে বলে না। আয়াত জানতে চায়, শ্রোতা নিজে কিসের অপেক্ষায় আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking It of Oneself",
+          "bn": "প্রশ্নটা নিজেকেই করা"
+        },
+        "p": [
+          {
+            "en": "What the verse does give is a way of reading history. As-Sa'di's line, that the way of Allah runs among the earlier and the later, places the reader inside the pattern rather than above it. The question fa-hal yantazirun can be put to oneself: what am I waiting for before I answer what I already know? A prayer postponed until some crisis, a wrong left standing until it is exposed, a return to Allah planned for a later that keeps moving: each is a kind of waiting, and the verse asks what such waiting expects to find at its end.",
+            "bn": "আয়াতটি যা দেয়, তা হলো ইতিহাস পড়ার একটি ধরন। সা'দীর কথা, আল্লাহর রীতি আগের ও পরের সবার মধ্যে চলে, পাঠককে এই নিয়মের বাইরে নয়, ভেতরে দাঁড় করায়। ফাহাল ইয়ানতাযিরূন প্রশ্নটা নিজেকেও করা যায়: যা আমি আগেই জানি, তাতে সাড়া দেওয়ার আগে আমি কিসের অপেক্ষা করছি? কোনো বিপদ আসা পর্যন্ত ফেলে রাখা নামাজ, ধরা না পড়া পর্যন্ত চালিয়ে যাওয়া কোনো অন্যায়, 'পরে' করব বলে রেখে দেওয়া তওবা, অথচ সেই 'পরে' কেবল পিছিয়েই যায়। এর প্রতিটিই একরকম অপেক্ষা। আয়াত জানতে চায়, এই অপেক্ষার শেষে আসলে কী পাওয়ার আশা।"
+          },
+          {
+            "en": "The verse also shows how a believer can answer mockery: a reply of six words, without insult, with the end left to Allah. Words built from its vocabulary can serve as a supplication, offered as that and not as a transmitted du'a: O Allah, let me take the lesson of the days of those who passed on before me, and do not make me one of those who wait until the warning arrives. Count me among those You rescue, and let my waiting be for Your promise, held with trust in You.",
+            "bn": "ঠাট্টার জবাব কীভাবে দিতে হয়, আয়াতটি তাও দেখায়: ৬ শব্দের একটি জবাব, কোনো গালমন্দ নেই, পরিণাম আল্লাহর হাতে ছেড়ে দেওয়া। আয়াতের শব্দ দিয়ে একটি দোয়া গড়ে নেওয়া যায়। এটি বর্ণিত কোনো দোয়া নয়, কেবল দোয়া হিসেবেই পেশ করা হলো: হে আল্লাহ, আমার আগে যারা গত হয়ে গেছে, তাদের দিনগুলো থেকে আমাকে শিক্ষা নিতে দিন। সতর্কবাণী এসে পড়া পর্যন্ত যারা অপেক্ষা করে, আমাকে তাদের একজন বানাবেন না। যাদের আপনি রক্ষা করেন, আমাকে তাদের মধ্যে গণ্য করুন। আমার অপেক্ষা যেন হয় আপনার প্রতিশ্রুতির জন্য, আপনার ওপর ভরসা রেখে।"
+          }
+        ]
+      }
+    ]
+  },
   "10:104": {
     "sections": [
       {
