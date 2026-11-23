@@ -6831,6 +6831,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:157": {
+    "sections": [
+      {
+        "h": {
+          "en": "What the Stayers Said",
+          "bn": "ঘরে বসে থাকাদের কথা"
+        },
+        "p": [
+          {
+            "en": "The verse is an answer, and the question sits in 3:156. The believers are told not to be like those who disbelieved and said of their brothers, when they travelled through the land or went out raiding: had they been with us, they would not have died and would not have been killed. Al-Baghawi names the speakers as the hypocrites, 'Abdullah ibn Ubayy and his companions. Al-Qurtubi also says the hypocrites, takes brothers to mean brothers in hypocrisy or in lineage, and places the remark at the raiding parties the Prophet ﷺ sent out to Bi'r Ma'unah.",
+            "bn": "আয়াতটি একটি জবাব, আর প্রশ্নটা রয়েছে ৩:১৫৬ আয়াতে। সেখানে মু'মিনদের বলা হয়েছে, তোমরা তাদের মতো হয়ো না, যারা কুফরী করেছে আর নিজেদের ভাইদের সম্পর্কে বলেছে, যখন তারা দেশে দেশে সফরে বেরোল বা যুদ্ধে গেল: আমাদের কাছে থাকলে তারা মরত না, নিহতও হত না। বাগাভী বক্তাদের পরিচয় দেন মুনাফিক হিসেবে, আবদুল্লাহ ইবন উবাই ও তার সঙ্গীরা। কুরতুবীও বলেন মুনাফিকদের কথা। তাঁর মতে ভাই মানে নিফাকের ভাই বা বংশের ভাই। আর কথাটা তিনি জুড়ে দেন বি'রে মা'উনার দিকে নবী ﷺ-এর পাঠানো অভিযানগুলোর সঙ্গে।"
+          },
+          {
+            "en": "Ibn Kathir pairs the two halves of the complaint: they would not have died on the journey, nor been killed in the raid. As-Sa'di reads the sentence as an argument against the decree and calls it a lie, citing the answer already given in 3:154: had you been in your houses, those on whom killing was written would have gone out to where they would fall. Ma'arif al-Qur'an treats the remark as an extension of that earlier saying, and sees the danger in its effect on sincere Muslims who heard it. Verse 156 then closes: it is Allah who gives life and causes death.",
+            "bn": "অভিযোগের দুই অংশকে ইবন কাসীর জোড়ায় জোড়ায় মেলান: সফরে গিয়ে তারা মরত না, যুদ্ধে গিয়ে নিহতও হত না। সা'দী কথাটাকে দেখেন তাকদীরের বিরুদ্ধে আপত্তি হিসেবে, আর একে মিথ্যা বলেন। প্রমাণ হিসেবে আনেন ৩:১৫৪ আয়াতে আগেই দেওয়া জবাব: তোমরা ঘরে থাকলেও যাদের জন্য নিহত হওয়া লেখা ছিল, তারা নিজেরাই বেরিয়ে যেত যেখানে তাদের পড়ে থাকার কথা। মাআরিফুল কুরআন এ কথাকে আগের সেই উক্তিরই বিস্তার মনে করে। বিপদটা সে দেখে অন্যখানে: খাঁটি মুসলিমরা এমন কথা শুনে প্রভাবিত হতে পারত। ১৫৬ আয়াত শেষ হয় এ কথায়: আল্লাহই জীবন দেন, আল্লাহই মৃত্যু দেন।"
+          },
+          {
+            "en": "Verse 157 takes the two words of that complaint, died and killed, and turns them toward the believers. At-Tabari spells out the address: do not be in doubt, believers, that all matters are in Allah's hand and that giving life and causing death belong to Him, as the hypocrites doubted. Strive in His way, certain that no one is killed in war or dies on a journey except the person whose term has come. Then, he says, Allah promised them forgiveness and mercy for their striving in His way.",
+            "bn": "অভিযোগের দুটি শব্দ, মরা আর নিহত হওয়া, ১৫৭ আয়াত তুলে নিয়ে মু'মিনদের দিকে ফিরিয়ে দেয়। তাবারী সম্বোধনটা খুলে বলেন। হে মু'মিনগণ, সব বিষয় আল্লাহর হাতে, জীবন দেওয়া আর মৃত্যু দেওয়া তাঁরই কাজ, এ নিয়ে তোমরা সন্দেহে পোড়ো না, যেমন মুনাফিকরা সন্দেহ করেছে। বরং আল্লাহর পথে জিহাদ করো এই দৃঢ় বিশ্বাস নিয়ে যে, যার আয়ু ফুরিয়েছে আর মৃত্যুর সময় হয়েছে, সে ছাড়া কেউ যুদ্ধে নিহত হয় না, সফরে মারাও যায় না। তাবারী বলেন, এরপর আল্লাহ তাঁর পথে জিহাদের বিনিময়ে তাদের মাগফিরাত আর রহমতের ওয়াদা দিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Killed, or Simply Died",
+          "bn": "নিহত হওয়া, নাকি স্বাভাবিক মৃত্যু"
+        },
+        "p": [
+          {
+            "en": "The verse names two endings: qutiltum, you are killed, and muttum, you die. The commentators differ on how far the phrase in Allah's way reaches into the second word. At-Tabari's paraphrase matches killing with war and dying with the journey, as Ibn Kathir does on the verse before. The Muyassar reads the second word more narrowly: killed while you strive in Allah's way, or dying during the fighting. Ibn Kathir and as-Sa'di, on this verse, speak of killing in Allah's way and of death too, without saying where the death happens. The fetched texts leave that difference standing, and so does this article.",
+            "bn": "আয়াতে দুই রকম পরিণতির কথা আছে: কুতিলতুম, তোমরা নিহত হও, আর মুত্তুম, তোমরা মারা যাও। আল্লাহর পথে কথাটা দ্বিতীয় শব্দটির কতদূর পর্যন্ত গিয়ে পৌঁছায়, এ নিয়ে তাফসীরকারদের মধ্যে পার্থক্য আছে। তাবারীর ব্যাখ্যায় নিহত হওয়া যুদ্ধের সঙ্গে আর মারা যাওয়া সফরের সঙ্গে মেলে, ঠিক যেমন ইবন কাসীর আগের আয়াতে মিলিয়েছেন। মুয়াসসার দ্বিতীয় শব্দটিকে আরও সংকীর্ণ অর্থে নেয়: আল্লাহর পথে জিহাদরত অবস্থায় নিহত হওয়া, কিংবা লড়াই চলাকালে মারা যাওয়া। ইবন কাসীর আর সা'দী এ আয়াতে আল্লাহর পথে নিহত হওয়া আর মৃত্যু দুটোর কথাই বলেন, মৃত্যু কোথায় আসে তা নির্দিষ্ট করেন না। সংগৃহীত তাফসীরগুলো এই পার্থক্য মীমাংসা না করেই রেখে দিয়েছে, এ লেখাও তাই করছে।"
+          },
+          {
+            "en": "The word muttum itself has two pronunciations. Al-Baghawi reports that Nafi', Hamzah and al-Kisa'i read mittum, with a kasrah, and the others muttum, with a dammah: the first from mata yamatu, like khiftum from khafa yakhafu, the second from mata yamutu, like qultum from qala yaqulu. Al-Qurtubi gives the same pair as a difference of dialect: the people of the Hijaz say mittum, and lower Mudar say muttum. He reports this as the view of the Kufans and calls it good. The meaning does not move with the vowel; it is the same death either way.",
+            "bn": "মুত্তুম শব্দটিরই দুই রকম উচ্চারণ আছে। বাগাভী জানান, নাফি', হামযা ও কিসাঈ পড়েছেন মিত্তুম, যের দিয়ে। বাকিরা পড়েছেন মুত্তুম, পেশ দিয়ে। প্রথমটি এসেছে মাতা ইয়ামাতু থেকে, যেমন খাফা ইয়াখাফু থেকে খিফতুম। দ্বিতীয়টি মাতা ইয়ামুতু থেকে, যেমন কালা ইয়াকুলু থেকে কুলতুম। কুরতুবী একই জোড়াকে আঞ্চলিক ভাষার পার্থক্য হিসেবে দেখান: হিজাযের লোকেরা বলে মিত্তুম, আর নিম্ন মুদারের লোকেরা বলে মুত্তুম। তিনি এটিকে কূফার ব্যাকরণবিদদের মত হিসেবে উল্লেখ করেন এবং ভালো মত বলে মন্তব্য করেন। স্বরচিহ্ন বদলালেও অর্থ বদলায় না, দুই পাঠেই মৃত্যু একই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Oath Carrying a Promise",
+          "bn": "শপথের ভেতরে ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "The sentence is built as an oath. Wa-la'in: and if, with a lam that, as the Jalalayn explains, marks an oath. A conditional normally needs an answer, the then that follows the if, and here that answer is not stated. Al-Qurtubi says the answer to the condition is omitted, and the answer to the oath, la-maghfiratun, does its work in its place; the oath takes precedence because it stands at the head of the speech. Its meaning, he says, is: He will surely forgive you.",
+            "bn": "বাক্যটি গড়া হয়েছে শপথের ধাঁচে। ওয়া লা-ইন: আর যদি। জালালাইন ব্যাখ্যা করেন, এখানকার লাম শপথের লাম। শর্তবাক্যে সাধারণত 'যদি'-র পর একটা 'তবে' থাকে, অর্থাৎ শর্তের জবাব। এখানে সেই জবাব উচ্চারিত হয়নি। কুরতুবী বলেন, শর্তের জবাব উহ্য রাখা হয়েছে, আর তার জায়গার কাজটা করছে শপথের জবাব, লা-মাগফিরাতুন। শপথকে অগ্রাধিকার দেওয়া হয়েছে, কারণ কথার শুরুতে সে-ই দাঁড়িয়ে আছে। কুরতুবীর ভাষায় এর অর্থ: তিনি অবশ্যই তোমাদের ক্ষমা করবেন।"
+          },
+          {
+            "en": "At-Tabari reaches the same place by another road. The words forgiveness from Allah and mercy are better carry the meaning of an answer, he says, because they are a promise that came out in the form of a report. So the sense is: if you are killed in Allah's way or die, Allah will surely forgive you and will surely have mercy on you. The verse points to that promise and, in the same words, tells them how far it outweighs the world they prefer. The lam on la-maghfiratun, he adds, comes because of the lam in la'in, as in 59:12.",
+            "bn": "তাবারী একই জায়গায় পৌঁছান অন্য পথে। তাঁর মতে, আল্লাহর মাগফিরাত ও রহমত উত্তম, এই কথাটির মধ্যেই জবাবের অর্থ রয়েছে। কারণ এটা এমন এক ওয়াদা, যা এসেছে সংবাদের রূপ ধরে। তাই কথার মর্ম দাঁড়ায়: তোমরা আল্লাহর পথে নিহত হলে বা মারা গেলে আল্লাহ অবশ্যই তোমাদের ক্ষমা করবেন, অবশ্যই তোমাদের প্রতি রহম করবেন। আয়াত এই ওয়াদার দিকে ইঙ্গিত করে, আর একই শব্দে জানিয়ে দেয়, তারা যে দুনিয়াকে প্রাধান্য দেয়, তার চেয়ে এ ওয়াদা কত বেশি ভারী। তাবারী আরও বলেন, লা-মাগফিরাতুন শব্দের লাম এসেছে লা-ইন শব্দের লামের কারণে, যেমনটা দেখা যায় ৫৯:১২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgiveness Placed Before Mercy",
+          "bn": "আগে মাগফিরাত, তারপর রহমত"
+        },
+        "p": [
+          {
+            "en": "Two gifts are named, maghfirah and rahmah. The Muyassar unpacks them: Allah will forgive you your sins and will have mercy on you with a mercy from Himself, so that you win the gardens of bliss. Al-Baghawi adds two words after forgiveness from Allah: fi al-'aqibah, in the outcome, placing the gain at the end of the road rather than in the moment of loss. Ibn Kathir names three things: killing in Allah's way, and death as well, are a means to attaining His mercy, His pardon and His good pleasure.",
+            "bn": "দুটি দানের নাম এসেছে: মাগফিরাত আর রহমত। মুয়াসসার এগুলো খুলে বলে: আল্লাহ তোমাদের গুনাহ মাফ করবেন, নিজের পক্ষ থেকে তোমাদের প্রতি রহম করবেন, আর তোমরা নিয়ামতে ভরা জান্নাত লাভ করবে। বাগাভী 'আল্লাহর মাগফিরাত' কথাটির পরে দুটি শব্দ যোগ করেন: ফিল আকিবাহ, পরিণামে। অর্থাৎ লাভটা হারানোর মুহূর্তে নয়, পথের শেষে। ইবন কাসীর তিনটি জিনিসের নাম নেন। আল্লাহর পথে নিহত হওয়া, আর মৃত্যুও, তাঁর রহমত, ক্ষমা ও সন্তুষ্টি লাভের মাধ্যম।"
+          },
+          {
+            "en": "As-Sa'di takes the dread out of the two words killed and die. There is in them, he says, no loss and nothing to be feared. They are among the things over which those who compete should compete, because they are a cause that leads to the forgiveness and mercy of Allah and delivers a person there. None of this asks a believer to go looking for death. The commentators speak of what the end becomes in Allah's sight, not of hastening it, and the verse sits inside the passage on the day the two armies met (3:155), among people counting their losses.",
+            "bn": "নিহত হওয়া আর মারা যাওয়া, এ দুটি শব্দ থেকে সা'দী ভয়টা সরিয়ে দেন। তিনি বলেন, এতে কোনো ক্ষতি নেই, ভয়ের কিছুও নেই। বরং প্রতিযোগীদের এটা নিয়েই প্রতিযোগিতা করা উচিত, কারণ এটা এমন এক উপায়, যা মানুষকে আল্লাহর মাগফিরাত ও রহমত পর্যন্ত পৌঁছে দেয়। এর কোথাও মু'মিনকে মৃত্যু খুঁজে বেড়াতে বলা হয়নি। তাফসীরকারেরা বলছেন আল্লাহর কাছে পরিণামটা কী দাঁড়ায় সেই কথা, মৃত্যুকে এগিয়ে আনার কথা নয়। আয়াতটির অবস্থানও দুই বাহিনীর মুখোমুখি হওয়ার দিনের আলোচনার ভেতরে (৩:১৫৫), এমন মানুষদের মাঝে, যারা তখন নিজেদের ক্ষয়ক্ষতি গুনছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoils, Debris, and the World's Bloom",
+          "bn": "গনীমত, খড়কুটো আর দুনিয়ার চাকচিক্য"
+        },
+        "p": [
+          {
+            "en": "Then the comparison: better than ma yajma'un, what they gather. Al-Baghawi records two readings. The general reading, he says, is tajma'un, what you gather, matching the you of killed and die; Hafs from 'Asim reads yajma'un, what they gather, meaning what people gather. The Jalalayn notes both. Al-Baghawi glosses the object in a single phrase: of the spoils. Five verses earlier, 3:152 had spoken of some at that battle who wanted this world, so the gloss lands close to home, though al-Baghawi himself draws no such line.",
+            "bn": "তারপর তুলনা: মিম্মা ইয়াজমাউন, তারা যা জমায় তার চেয়ে উত্তম। বাগাভী দুটি পাঠ উল্লেখ করেন। তাঁর ভাষায় সাধারণ পাঠ হলো তাজমাউন, তোমরা যা জমাও, যা 'তোমরা নিহত হলে বা মারা গেলে' কথাটির সঙ্গে মেলে। আসিম থেকে হাফস পড়েছেন ইয়াজমাউন, তারা যা জমায়, অর্থাৎ মানুষ যা জমায়। জালালাইনও দুটি পাঠের কথা বলেন। জমানো জিনিসটা কী, বাগাভী এক কথায় বলে দেন: গনীমতের মাল। পাঁচ আয়াত আগে ৩:১৫২ আয়াতে বলা হয়েছিল, সেই যুদ্ধে কেউ কেউ দুনিয়া চেয়েছিল। তাই ব্যাখ্যাটা খুব কাছের মনে হয়, যদিও বাগাভী নিজে এ দুটিকে মেলাননি।"
+          },
+          {
+            "en": "At-Tabari takes the gathering wider: the huttam of the world, its debris, and the ease of its living, for whose sake they grow heavy about striving and hang back from the enemy. He then quotes Ibn Ishaq: death is coming and cannot be avoided, so a death or a killing in Allah's way is better, if they knew and were certain, than what they gather in the world, for which they hold back from striving, afraid of death and killing because of the bloom of the world they had gathered, and with little desire for the Hereafter.",
+            "bn": "তাবারী জমানোর পরিধি আরও বড় করে দেখেন: দুনিয়ার হুতাম, অর্থাৎ তার খড়কুটো, আর আরামের জীবন। এর জন্যই তারা আল্লাহর পথে জিহাদে ভারী হয়ে পড়ে, শত্রুর মুখোমুখি হতে পিছিয়ে থাকে। তারপর তিনি ইবন ইসহাকের কথা উদ্ধৃত করেন। মৃত্যু আসবেই, তা এড়ানোর উপায় নেই। তাই আল্লাহর পথে মৃত্যু বা নিহত হওয়া, তারা যদি জানত আর নিশ্চিত হত, দুনিয়ায় তারা যা জমায় তার চেয়ে উত্তম। এই দুনিয়ার জন্যই তারা জিহাদ থেকে পিছিয়ে থাকে, জমানো চাকচিক্য হারানোর ভয়ে মৃত্যু আর নিহত হওয়াকে ডরায়, আর আখিরাতের প্রতি তাদের আগ্রহ সামান্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Order Turns",
+          "bn": "ক্রম যখন উল্টে যায়"
+        },
+        "p": [
+          {
+            "en": "The next verse repeats the pair with the order reversed: wa-la'in muttum aw qutiltum, and if you die or are killed, it is to Allah that you will be gathered. Here dying comes first. None of the commentaries fetched for these two verses explains why the order changes, and this article will not supply its own. What they do explain is how the second promise differs from the first.",
+            "bn": "পরের আয়াত একই জোড়া আবার আনে, তবে ক্রম উল্টে দিয়ে: ওয়া লা-ইন মুত্তুম আও কুতিলতুম, তোমরা মারা গেলে বা নিহত হলে আল্লাহর কাছেই তোমাদের একত্র করা হবে। এখানে মৃত্যুর কথা আগে। ক্রম কেন বদলাল, এ দুই আয়াতের জন্য সংগৃহীত কোনো তাফসীর তা ব্যাখ্যা করেনি। তাঁরা যে কারণ বলেননি, এ লেখাও তা আন্দাজ করে বলবে না। তাঁরা যা ব্যাখ্যা করেছেন তা হলো, দ্বিতীয় ওয়াদাটি প্রথমটি থেকে কোথায় আলাদা।"
+          },
+          {
+            "en": "As-Sa'di reads 3:157 as about those killed or dying in Allah's way, and 3:158 as about creation in general: whenever people die or are killed, in whatever state, their return is to Allah, and He repays each for his deed. Ibn Kathir says the same: everyone who dies or is killed ends with Allah, who repays good with good and evil with evil. At-Tabari draws the practical conclusion: since your return is to Allah, prefer what brings you near to Him and to His Garden over leaning on the world and its passing debris. Al-Qurtubi calls the verse an admonition: do not flee from the fighting; flee from His punishment.",
+            "bn": "সা'দীর পাঠে ৩:১৫৭ আয়াত আল্লাহর পথে নিহত বা মৃতদের কথা বলে, আর ৩:১৫৮ আয়াত বলে গোটা সৃষ্টির কথা। মানুষ যে অবস্থাতেই মারা যাক বা নিহত হোক, তাদের ফিরে যাওয়া আল্লাহর কাছেই, আর তিনি প্রত্যেককে তার আমলের প্রতিদান দেবেন। ইবন কাসীরও একই কথা বলেন: যে-ই মারা যায় বা নিহত হয়, তার শেষ গন্তব্য আল্লাহ। ভালোর প্রতিদান তিনি ভালো দিয়ে দেন, মন্দের প্রতিদান মন্দ দিয়ে। তাবারী এখান থেকে বাস্তব শিক্ষাটা টানেন: ফেরা যখন আল্লাহর কাছেই, তখন দুনিয়া আর তার ক্ষণস্থায়ী খড়কুটোর উপর ভর না করে বেছে নাও সেই কাজ, যা তাঁর আর তাঁর জান্নাতের কাছে নিয়ে যায়। কুরতুবী আয়াতটিকে উপদেশ বলেছেন: লড়াই থেকে পালিয়ো না, পালাও তাঁর শাস্তি থেকে।"
+          },
+          {
+            "en": "As-Sa'di closes with a question that holds both verses together: where is there to flee, except to Allah, and what protection has creation, except holding fast to the rope of Allah? Al-Qushayri, who writes on the inner meaning of the verses, says of the pair: returning to God is better, for whoever knows God, than staying behind with anything other than God.",
+            "bn": "সা'দী শেষ করেন এমন এক প্রশ্ন দিয়ে, যা দুই আয়াতকে একসঙ্গে বেঁধে রাখে: আল্লাহর দিকে ছাড়া পালানোর আর কোন জায়গা আছে? আর আল্লাহর রশি আঁকড়ে ধরা ছাড়া সৃষ্টির আর কোন রক্ষাকবচ আছে? আয়াতের ভেতরের অর্থ নিয়ে লেখা তাফসীরকার কুশাইরী এই জোড়া আয়াত সম্পর্কে বলেন: যে আল্লাহকে চেনে, তার কাছে আল্লাহ ছাড়া অন্য কিছুর সঙ্গে পেছনে পড়ে থাকার চেয়ে আল্লাহর কাছে ফিরে যাওয়াই উত্তম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Martyrs Beyond the Battlefield",
+          "bn": "রণক্ষেত্রের বাইরের শহীদ"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to it, and none gives an occasion of revelation beyond its place after 3:156. Two narrations in Muslim's Sahih, which none of them links to the verse, use its very words. Abu Hurayrah (RA) reports that the Messenger of Allah ﷺ asked: 'Whom do you count as a martyr among you?' They said: 'Messenger of Allah, whoever is killed in the way of Allah is a martyr.' He said: 'Then the martyrs of my Ummah would be few.' They asked: 'Who are they, Messenger of Allah?'",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, আর ৩:১৫৬ আয়াতের পরে এর অবস্থান ছাড়া আলাদা কোনো শানে নুযূলও উল্লেখ করেনি। সহীহ মুসলিমে দুটি বর্ণনা আছে, যেগুলোকে কোনো তাফসীরকার এ আয়াতের সঙ্গে যুক্ত করেননি, তবু সেগুলোতে আয়াতের শব্দগুলোই এসেছে। আবূ হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ জিজ্ঞেস করলেন: 'তোমরা নিজেদের মধ্যে কাকে শহীদ গণ্য করো?' তাঁরা বললেন: 'হে আল্লাহর রাসূল, যে আল্লাহর পথে নিহত হয়, সে-ই শহীদ।' তিনি বললেন: 'তাহলে তো আমার উম্মতের শহীদ খুব কম হবে।' তাঁরা জিজ্ঞেস করলেন: 'তাহলে তারা কারা, হে আল্লাহর রাসূল?'"
+          },
+          {
+            "en": "He said: 'Whoever is killed in the way of Allah is a martyr, whoever dies in the way of Allah is a martyr, whoever dies of the plague is a martyr, and whoever dies of a disease of the belly is a martyr' (Muslim 1915), with a narrator's addition that the drowned is a martyr too. The verse's second word, dying, stands beside killing. In another report in Muslim (1909), from Sahl ibn Abi Umamah through his father from his grandfather, the Prophet ﷺ said: 'Whoever asks Allah for martyrdom truthfully, Allah will bring him to the stations of the martyrs, even if he dies on his bed.'",
+            "bn": "তিনি বললেন: 'যে আল্লাহর পথে নিহত হয় সে শহীদ, যে আল্লাহর পথে মারা যায় সে শহীদ, যে প্লেগে মারা যায় সে শহীদ, আর যে পেটের রোগে মারা যায় সে-ও শহীদ' (মুসলিম ১৯১৫)। সঙ্গে এক বর্ণনাকারীর সংযোজন আছে যে পানিতে ডুবে মরা মানুষও শহীদ। আয়াতের দ্বিতীয় শব্দ, মৃত্যু, এখানে নিহত হওয়ার পাশেই জায়গা পেয়েছে। মুসলিমের আরেক বর্ণনায় (১৯০৯) সাহল ইবন আবী উমামা তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: 'যে সত্য মনে আল্লাহর কাছে শাহাদাত চায়, আল্লাহ তাকে শহীদদের মর্যাদায় পৌঁছে দেন, যদিও সে নিজের বিছানায় মারা যায়।'"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Regret Given Somewhere to Go",
+          "bn": "আফসোসের জন্য ভালো ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse speaks to the believers of the Uhud passage about the dead they had lost and the deaths still ahead of them. It promises forgiveness to those killed or dying in Allah's way. It gives no one a licence for violence today, and it makes no one a martyr by his own claim or another's. The speakers of 3:156 are described as the verses describe them, and that description licenses nothing against any living person or community. What the verse asks of a reader is a change in how he speaks about death.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি উহুদের আলোচনায় থাকা মু'মিনদের সঙ্গে কথা বলে, তাদের হারানো মানুষদের নিয়ে আর সামনে অপেক্ষমাণ মৃত্যু নিয়ে। আল্লাহর পথে নিহত বা মৃতদের জন্য এতে মাগফিরাতের ওয়াদা আছে। আজকের দিনে সহিংসতার কোনো অনুমতি এ আয়াত কাউকে দেয় না। নিজের দাবিতে বা অন্যের দাবিতে কাউকে শহীদ বানিয়েও দেয় না। ৩:১৫৬ আয়াতের বক্তাদের যেভাবে বর্ণনা করা হয়েছে, আয়াত শুধু সেটুকুই বলে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি সে বর্ণনায় নেই। পাঠকের কাছে আয়াতের দাবি একটাই: মৃত্যু নিয়ে কথা বলার ধরন বদলানো।"
+          },
+          {
+            "en": "As-Sa'di, on 3:156, names the difference between two ways of grieving. Those who argue with the decree gain nothing by it, except that Allah turns their saying into regret in their hearts, and their calamity grows. The believers know that what happened was by Allah's decree, so they believe and submit, and Allah guides their hearts, makes them firm, and lightens the calamity for them. Al-Qurtubi defines hasrah, regret, as anxious concern over something missed that a person could not reach. The if only of 3:156 is exactly that: a door that will not open, pushed at again and again.",
+            "bn": "৩:১৫৬ আয়াতের আলোচনায় সা'দী শোক করার দুটি ধরনের পার্থক্য দেখান। যারা তাকদীরের সঙ্গে তর্ক করে, তাদের এতে কোনো লাভ হয় না। লাভ শুধু এটুকু যে আল্লাহ তাদের কথাটাকে তাদের অন্তরের আফসোসে পরিণত করেন, আর তাদের বিপদ আরও বাড়ে। মু'মিনরা জানে, যা ঘটেছে তা আল্লাহর তাকদীরেই ঘটেছে। তাই তারা ঈমান রাখে, মেনে নেয়। আল্লাহ তাদের অন্তরকে পথ দেখান, দৃঢ় করেন, আর বিপদের ভার হালকা করে দেন। কুরতুবী হাসরাত, অর্থাৎ আফসোসের সংজ্ঞা দেন এভাবে: হাতছাড়া হয়ে যাওয়া এমন কিছুর জন্য দুশ্চিন্তা, যার নাগাল পাওয়া যায়নি। ৩:১৫৬ আয়াতের 'যদি' ঠিক তাই: এমন দরজা, যা খোলে না, তবু মানুষ বারবার ধাক্কা দেয়।"
+          },
+          {
+            "en": "Verse 157 opens another door. A traveller dies far from home, or a relative is lost to illness. The sentence of 3:156 comes readily: had he only stayed. The verse answers with a scale: forgiveness from Allah and mercy in this pan, all that anyone gathers in that. Grief is not forbidden here, but regret is given somewhere better to go.",
+            "bn": "১৫৭ আয়াত খুলে দেয় অন্য এক দরজা। কোনো মুসাফির ঘর থেকে দূরে মারা যান, কোনো আত্মীয় অসুখে চলে যান। ৩:১৫৬ আয়াতের সেই বাক্য তখন সহজেই মুখে চলে আসে: শুধু থেকে গেলেই বাঁচত। আয়াতটি জবাব দেয় দাঁড়িপাল্লা দিয়ে: এ পাল্লায় আল্লাহর মাগফিরাত আর রহমত, ও পাল্লায় মানুষের জমানো সবকিছু। শোক করতে এখানে নিষেধ নেই। তবে আফসোসকে পাঠানো হয়েছে আরও ভালো এক ঠিকানায়।"
+          }
+        ]
+      }
+    ]
+  },
   "3:159": {
     "sections": [
       {

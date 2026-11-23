@@ -30683,6 +30683,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When fear of people pulls you away from what Allah commands, recognise whose voice it is, and let your fear of Him decide what you do.",
     "lessonBn": "মানুষের ভয় যখন আল্লাহর হুকুম থেকে আপনাকে টেনে সরাতে চায়, চিনে নিন কণ্ঠটা কার, আর কী করবেন তা ঠিক করুক কেবল তাঁর ভয়।"
+  },
+  "3:157": {
+    "reflectionEn": "Some people, when a brother dies on a journey or falls in battle, have only one sentence left: had he stayed with us, he would still be alive. The verse before this one forbids the believers to talk like that, and this one gives them something better to hold. Killed in Allah's way, or simply dead: either way, what waits is forgiveness and mercy from Him, and that outweighs everything people spend their lives gathering. The verse does not make death small. It sets it on a scale beside what we collect, and the collection loses. When a loss comes, does my mind run to if only? And what am I gathering that I would not trade for His forgiveness?",
+    "reflectionBn": "ভাই সফরে গিয়ে মারা গেল বা যুদ্ধে নিহত হল, এমন খবরে কারও মুখে একটাই কথা থাকে: আমাদের কাছে থাকলে সে আজও বেঁচে থাকত। আগের আয়াত মু'মিনদের এভাবে কথা বলতে নিষেধ করেছে, আর এ আয়াত তাদের হাতে এর চেয়ে ভালো কিছু তুলে দেয়। আল্লাহর পথে নিহত হোক বা এমনিই মৃত্যু আসুক, দুই অবস্থাতেই সামনে অপেক্ষা করছে তাঁর মাগফিরাত আর রহমত। মানুষ সারা জীবন যা জমায়, তার সবকিছুর চেয়ে সেটা ভারী। আয়াতটি মৃত্যুকে তুচ্ছ করে না। মৃত্যুকে সে দাঁড়িপাল্লায় তোলে আমাদের জমানো সবকিছুর পাশে, আর জমানো জিনিসের পাল্লাই হালকা হয়ে যায়। বিপদ এলে আমার মন কি 'যদি' খুঁজতে ছোটে? আর কী জমাচ্ছি আমি, যা তাঁর মাগফিরাতের বদলেও ছাড়তে রাজি নই?",
+    "pointsEn": [
+      "When I lost someone, how much of my grief was spent on if only, and how much on asking forgiveness and mercy for them?",
+      "What am I gathering right now that quietly holds me back from something Allah asks of me?",
+      "If my death came on an ordinary day, in an ordinary bed, would the direction of my life still count as in Allah's way?",
+      "Do I comfort the bereaved with the decree and with hope, or do my words add to their regret?",
+      "Which of my plans would I drop tomorrow if I truly weighed it against forgiveness from Allah?"
+    ],
+    "pointsBn": [
+      "কাউকে হারানোর পর আমার শোকের কতটা গেছে 'যদি এমন হত' ভাবনায়, আর কতটা গেছে তার জন্য মাগফিরাত আর রহমত চাওয়ায়?",
+      "এ মুহূর্তে কী জমাচ্ছি আমি, যা চুপিচুপি আমাকে আল্লাহর কোনো হুকুম থেকে পিছিয়ে রাখছে?",
+      "সাধারণ কোনো দিনে, নিজের বিছানায় যদি মৃত্যু আসে, তখনও কি আমার জীবনের গতিপথকে আল্লাহর পথ বলা যাবে?",
+      "শোকার্ত মানুষকে আমি কি তাকদীর আর আশার কথা বলে সান্ত্বনা দিই, নাকি আমার কথায় তার আফসোস আরও বাড়ে?",
+      "আল্লাহর মাগফিরাতের পাশে সত্যিই ওজন করলে আমার কোন পরিকল্পনাটা কালই বাদ দিতাম?"
+    ],
+    "lessonEn": "Meet loss with trust in Allah's decree instead of if only, and weigh everything you gather against His forgiveness and mercy.",
+    "lessonBn": "বিপদে 'যদি' না খুঁজে আল্লাহর তাকদীরে ভরসা রাখুন, আর যা কিছু জমাচ্ছেন, তাঁর মাগফিরাত ও রহমতের পাশে রেখে তার ওজন করুন।"
   }
 };
 
