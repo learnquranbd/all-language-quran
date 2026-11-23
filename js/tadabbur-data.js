@@ -31123,6 +31123,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Proof does not open a heart that has decided to refuse, so ask yourself whether you want evidence or an excuse, and act on what you already know.",
     "lessonBn": "যে মন অস্বীকার করবে বলে ঠিক করে রেখেছে, প্রমাণ তা খোলে না। তাই নিজেকে জিজ্ঞেস করুন, আপনি প্রমাণ চান নাকি অজুহাত, আর যা জানেন তার উপর আমল করুন।"
+  },
+  "6:22": {
+    "reflectionEn": "The verse before this one closes on a verdict: the wrongdoers will not succeed. This one shows where that verdict is carried out. Everyone is gathered, and then a single question is put to those who set partners beside Allah: where are your partners, the ones you used to claim? He does not ask because He needs to learn where they are. The question is asked so that the emptiness of the claim can be seen by the one who made it. All that was hoped from those partners, intercession, nearness, help in a hard hour, is called for, and nothing comes. The question waits for that Day, but it reaches me today. What am I leaning on that would not come if it were called?",
+    "reflectionBn": "আগের আয়াত শেষ হয়েছে একটি রায়ে: জালিমরা সফল হবে না। এ আয়াত দেখায়, সেই রায় কোথায় গিয়ে কার্যকর হবে। সবাইকে একত্র করা হবে। তারপর যারা আল্লাহর সঙ্গে শরিক বানিয়েছিল, তাদের সামনে একটিমাত্র প্রশ্ন রাখা হবে: কোথায় তোমাদের সেই শরিকেরা, যাদের তোমরা দাবি করতে? কোথায় আছে তা জানার জন্য আল্লাহ জিজ্ঞেস করছেন না। প্রশ্নটা আসে যেন দাবিদার নিজের চোখে দেখে নেয়, তার দাবি কতটা ফাঁপা। ওদের কাছে যা আশা করা হয়েছিল, সুপারিশ, নৈকট্য, বিপদের দিনে সাহায্য, সবকিছুর ডাক পড়বে, অথচ কিছুই আসবে না। প্রশ্নটা সেদিনের জন্য তোলা আছে, কিন্তু আমার কাছে পৌঁছে গেছে আজই। আমি এমন কিসের উপর ভর দিয়ে আছি, যাকে ডাকলে সে আসবে না?",
+    "pointsEn": [
+      "If I were asked today where the things I rely on will be on that Day, which of them could I name without hesitation?",
+      "When fear or need comes suddenly, where does my heart turn first, and is that turning toward Allah or toward something I have made a support beside Him?",
+      "Is there anything I count on to bring me nearer to Allah that He never gave me as a means?",
+      "The question on that Day exposes rather than asks for information: what would be exposed if my own claims about my faith were put to me plainly?",
+      "What one habit of reliance can I change this week, so that my answer is ready before the question is asked?"
+    ],
+    "pointsBn": [
+      "আজ যদি আমাকে জিজ্ঞেস করা হয়, যাদের উপর আমি ভরসা করি তারা সেদিন কোথায় থাকবে, তাহলে কাদের নাম আমি দ্বিধা ছাড়া বলতে পারব?",
+      "হঠাৎ ভয় বা প্রয়োজন এলে আমার মন প্রথমে কোন দিকে ছোটে? আল্লাহর দিকে, নাকি এমন কিছুর দিকে যাকে আমি তাঁর পাশে খুঁটি বানিয়ে রেখেছি?",
+      "আল্লাহর কাছে পৌঁছানোর জন্য আমি কি এমন কিছুর উপর ভরসা করি, যাকে তিনি কখনো মাধ্যম বানিয়ে দেননি?",
+      "সেদিনের প্রশ্ন কিছু জানার জন্য নয়, মুখোশ খুলে দেওয়ার জন্য। আমার ঈমান নিয়ে আমার নিজের দাবিগুলো যদি সোজাসুজি আমার সামনে রাখা হয়, কী বেরিয়ে পড়বে?",
+      "ভরসার কোন একটি অভ্যাস আমি এ সপ্তাহে বদলাতে পারি, যাতে প্রশ্ন আসার আগেই আমার উত্তর তৈরি থাকে?"
+    ],
+    "lessonEn": "Rely on Allah alone now, because on the Day of gathering every partner people claimed beside Him will be called for, and none will come.",
+    "lessonBn": "এখনই কেবল আল্লাহর উপর ভরসা করুন, কারণ একত্র হওয়ার দিনে তাঁর পাশে দাবি করা প্রতিটি শরিকের ডাক পড়বে, আর কেউই আসবে না।"
   }
 };
 

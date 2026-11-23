@@ -1007,6 +1007,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Verdict Is Kept",
+          "bn": "রায় যেখানে কার্যকর হয়"
+        },
+        "p": [
+          {
+            "en": "Wa-yawma nahshuruhum jami'an thumma naqulu li-lladhina ashraku ayna shuraka'ukumu alladhina kuntum taz'umun: and the Day We gather them all, then We say to those who associated, where are your partners whom you used to claim? The verse follows directly on 6:21, which ends with a verdict: the wrongdoers will not succeed. It opens with wa-yawma, and the Day, without a verb in front of it, so the commentators ask what the Day is joined to.",
+            "bn": "ওয়া ইয়াওমা নাহশুরুহুম জামীআন, সুম্মা নাকূলু লিল্লাযীনা আশরাকূ আইনা শুরাকাউকুমুল্লাযীনা কুনতুম তাযউমূন: আর যেদিন আমি তাদের সবাইকে একত্র করব, তারপর যারা শিরক করেছিল তাদের বলব, কোথায় তোমাদের সেই শরিকেরা, যাদের তোমরা দাবি করতে? আয়াতটি এসেছে ৬:২১-এর ঠিক পরে। সে আয়াত শেষ হয়েছে একটি রায়ে: জালিমরা সফল হবে না। এ আয়াতের শুরু ওয়া ইয়াওমা দিয়ে, মানে 'আর সেদিন', অথচ তার আগে কোনো ক্রিয়া নেই। তাই তাফসীরকারেরা প্রশ্ন তোলেন, দিনটি কিসের সঙ্গে যুক্ত।"
+          },
+          {
+            "en": "At-Tabari supplies the missing half from the verse before: the wrongdoers do not succeed today in this world, nor on the Day We gather them, that is, nor in the Hereafter. The words were left out, he says, because the hearers knew the meaning. Al-Qurtubi lists three ways of joining it: a fresh start meaning remember the Day; a link to la yuflihu, so the reciter does not pause after al-zalimun; or a link forward to unzur, look, in 6:24. Al-Muyassar reads it as a warning: let these associators beware the Day.",
+            "bn": "তাবারী আগের আয়াত থেকে না-বলা অংশটুকু পূরণ করেন। তাঁর মতে কথাটা এমন: জালিমরা আজ দুনিয়ায় সফল হয় না, আর যেদিন আমি তাদের একত্র করব সেদিনও না, মানে আখিরাতেও না। শ্রোতারা অর্থ জানত বলে শব্দগুলো উহ্য রাখা হয়েছে, তিনি বলেন। কুরতুবী জোড়ার তিনটি পথ দেখান। এক, নতুন করে শুরু, অর্থাৎ সেদিনের কথা স্মরণ করো। দুই, লা ইউফলিহু-র সঙ্গে যুক্ত, তাহলে পাঠক আয-যালিমূন-এর পরে থামবেন না। তিন, সামনে ৬:২৪-এর উনযুর, দেখো, শব্দের সঙ্গে যুক্ত। মুয়াসসার একে পড়ে সতর্কবাণী হিসেবে: এই মুশরিকেরা যেন সেদিনকে ভয় করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worshippers and the Worshipped",
+          "bn": "উপাসক আর উপাস্য একসঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Who are they, gathered all together? Al-Baghawi answers in two words: al-'abidin wa-l-ma'budin, those who worshipped and those who were worshipped. Ma'arif al-Qur'an says the same in English: all the disbelievers and their self-made objects of worship, gathered together. At-Tabari names the people from the verse before. They are those who forged a lie against Allah by claiming for Him a partner in His dominion, and who denied His signs and His messengers, all of them brought together on the Day of Resurrection.",
+            "bn": "সবাইকে একত্র করা হবে, কিন্তু এই 'সবাই' কারা? বাগাভী দুই শব্দে উত্তর দেন: আল-আবিদীন ওয়াল-মা'বূদীন, যারা উপাসনা করত আর যাদের উপাসনা করা হতো। মাআরিফুল কুরআনও একই কথা বলে: সব কাফির আর তাদের নিজেদের বানানো উপাস্য, একসঙ্গে জড়ো করা হবে। তাবারী লোকগুলোকে চিনিয়ে দেন আগের আয়াত থেকে। এরা সেই লোক, যারা আল্লাহর রাজত্বে তাঁর শরিক আছে দাবি করে তাঁর নামে মিথ্যা রচনা করেছিল, আর তাঁর নিদর্শন ও রাসূলদের অস্বীকার করেছিল। কিয়ামতের দিন এদের সবাইকে একসঙ্গে আনা হবে।"
+          },
+          {
+            "en": "The Quran itself confirms al-Baghawi's pairing in other places. 37:22 and 37:23 give the command: gather those who did wrong, their kinds, and what they used to worship besides Allah. 25:17 speaks of the Day He gathers them and what they worship besides Allah. 10:28 opens with the very words of this verse, wa-yawma nahshuruhum jami'an thumma naqulu li-lladhina ashraku, and then the command changes: stay in your place, you and your partners. In that scene the partners are present. In 6:22 the question is where they are.",
+            "bn": "বাগাভীর এই জোড়া কুরআন নিজেই অন্য জায়গায় নিশ্চিত করে। ৩৭:২২ ও ৩৭:২৩ আয়াতে নির্দেশ আছে: যারা জুলুম করেছে তাদের, তাদের সমগোত্রীয়দের, আর আল্লাহকে ছেড়ে তারা যাদের ইবাদত করত তাদের একত্র করো। ২৫:১৭ বলে সেদিনের কথা, যেদিন তিনি তাদের আর আল্লাহকে ছেড়ে তারা যাদের ইবাদত করে তাদের জড়ো করবেন। ১০:২৮ শুরু হয় হুবহু এ আয়াতের শব্দে, তারপর নির্দেশটা বদলে যায়: নিজ নিজ জায়গায় দাঁড়াও, তোমরা আর তোমাদের শরিকেরা। সেখানে শরিকেরা হাজির। আর ৬:২২-এ প্রশ্নই হলো, তারা কোথায়?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "We Gather, Then We Speak",
+          "bn": "একত্র করা, তারপর কথা"
+        },
+        "p": [
+          {
+            "en": "Both verbs in the verse are in the first person plural: nahshuru, We gather, and naqulu, We say. Al-Baghawi records a difference in the reading of the first. Ya'qub read yahshuruhum, He gathers them, with the letter ya, here and in Surah Saba; Hafs agreed with him in Saba; the rest read nahshuruhum with nun, which is the Hafs text given here. Either way the speaker is Allah. The difference is only whether He speaks of Himself as We or is spoken of as He.",
+            "bn": "আয়াতের দুটি ক্রিয়াতেই আল্লাহ নিজের কথা বলছেন 'আমরা' রূপে: নাহশুরু, আমি একত্র করব, আর নাকূলু, আমি বলব। প্রথম ক্রিয়াটির পাঠে একটি ভিন্নতার কথা বাগাভী জানান। ইয়াকুব এখানে আর সূরা সাবায় পড়েছেন ইয়াহশুরুহুম, ইয়া অক্ষর দিয়ে, মানে তিনি তাদের একত্র করবেন। সাবায় হাফসও তাঁর সঙ্গে একমত। বাকিরা পড়েছেন নাহশুরুহুম, নূন দিয়ে, আর এখানে দেওয়া হাফসের পাঠেও তা-ই আছে। যেভাবেই পড়া হোক, বক্তা আল্লাহ। পার্থক্য শুধু এটুকু: তিনি নিজের কথা 'আমি' বলে বলছেন, নাকি তাঁর কথা 'তিনি' বলে বলা হচ্ছে।"
+          },
+          {
+            "en": "The Saba verse is 34:40, and the Hafs reading there is yahshuruhum. It opens the same way, the Day He gathers them all, then He says, but the question goes elsewhere: to the angels, asking whether these people used to worship them. Between the gathering and the speaking stands thumma, then. Ma'arif al-Qur'an reads it as a word of delay. The questioning does not begin as soon as people are gathered; they stand for a long time in wonder and perplexity before the reckoning starts.",
+            "bn": "সাবার আয়াতটি ৩৪:৪০, আর হাফসের পাঠে সেখানে আছে ইয়াহশুরুহুম। শুরুটা একই রকম: যেদিন তিনি তাদের সবাইকে একত্র করবেন, তারপর বলবেন। কিন্তু প্রশ্নটা যায় অন্যদিকে, ফেরেশতাদের কাছে: এরা কি তোমাদের ইবাদত করত? একত্র করা আর কথা বলার মাঝখানে আছে সুম্মা, তারপর। মাআরিফুল কুরআন শব্দটিকে দেরির ইঙ্গিত হিসেবে পড়ে। জড়ো হওয়ার সঙ্গে সঙ্গে জিজ্ঞাসাবাদ শুরু হবে না। হিসাব শুরুর আগে মানুষ দীর্ঘ সময় হতবাক আর দিশেহারা অবস্থায় দাঁড়িয়ে থাকবে।"
+          },
+          {
+            "en": "To support that reading, Ma'arif al-Qur'an relays narrations attributed to the Prophet ﷺ about how long that standing will last, citing al-Hakim's al-Mustadrak and al-Bayhaqi. It gives no grading for them, and they are not confirmed here on a collection page, so this article mentions only their topic and builds nothing on them. The other commentators fetched for this verse say nothing particular about thumma. The word itself is enough to show that the question does not come at once.",
+            "bn": "এ পাঠের পক্ষে মাআরিফুল কুরআন নবী ﷺ-এর নামে বর্ণিত কয়েকটি রিওয়ায়াত আনে, সেই দাঁড়িয়ে থাকা কত দীর্ঘ হবে তা নিয়ে। সূত্র হিসেবে নাম দেয় হাকিমের আল-মুস্তাদরাক আর বাইহাকীর। সেগুলোর কোনো মান সে উল্লেখ করেনি, আর কোনো হাদীস-সংকলনের পাতায় সেগুলো এখানে যাচাই করা যায়নি। তাই এ প্রবন্ধ শুধু বিষয়টির উল্লেখ করছে, এর উপর কিছু দাঁড় করাচ্ছে না। এ আয়াতের জন্য দেখা অন্য তাফসীরগুলো সুম্মা নিয়ে আলাদা কিছু বলেনি। প্রশ্ন যে সঙ্গে সঙ্গে আসে না, শব্দটি নিজেই তা দেখানোর জন্য যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Not Seeking News",
+          "bn": "জানার জন্য নয় যে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Allah knows where every partner is, and what each one was. So what is the question for? Al-Qurtubi gives a compact answer: su'al ifdah la ifsah, a question that exposes, not one that asks to be told. He adds that it is a rebuke to them. As-Sa'di describes the same scene in two verbs: they are asked, and they are rebuked. Ibn Kathir says only that He asks them about the idols and the rivals they used to worship besides Him.",
+            "bn": "প্রতিটি শরিক কোথায় আছে, আর সে আসলে কী ছিল, আল্লাহ তা জানেন। তাহলে প্রশ্নটা কেন? কুরতুবী ছোট্ট একটি উত্তর দেন: সুআলু ইফদাহ, লা ইফসাহ। এটা লজ্জায় ফেলার প্রশ্ন, কিছু জানতে চাওয়ার প্রশ্ন নয়। তিনি যোগ করেন, এটা তাদের প্রতি তিরস্কার। সা'দী একই দৃশ্য বর্ণনা করেন দুটি ক্রিয়ায়: তাদের জিজ্ঞেস করা হবে, আর তিরস্কার করা হবে। ইবন কাসীর শুধু এটুকু বলেন যে, আল্লাহকে ছেড়ে তারা যেসব মূর্তি আর প্রতিদ্বন্দ্বীর ইবাদত করত, তিনি সেগুলো সম্পর্কে তাদের জিজ্ঞেস করবেন।"
+          },
+          {
+            "en": "At-Tabari lets the question run on into a challenge. Where are those you claimed were gods for you besides Allah, out of forgery and lies, and whom you called on as lords instead of Him? Then bring them, if you are truthful. The challenge cannot be met, and that is its point. Ma'arif al-Qur'an puts it in terms of need: they are asked about the partners they took as solvers of their problems, and why those partners do not come to help them in their hour of trial.",
+            "bn": "তাবারীর ব্যাখ্যায় প্রশ্নটা গড়িয়ে চ্যালেঞ্জে পরিণত হয়। কোথায় তারা, মিথ্যা আর বানোয়াট কথায় যাদের তোমরা আল্লাহ ছাড়া নিজেদের ইলাহ বলে দাবি করতে, আর তাঁকে ছেড়ে রব বলে ডাকতে? সত্যবাদী হলে তাদের নিয়ে এসো। এ চ্যালেঞ্জের জবাব দেওয়া অসম্ভব, আর সেটাই এর উদ্দেশ্য। মাআরিফুল কুরআন বিষয়টা দেখে প্রয়োজনের দিক থেকে। যাদের তারা নিজেদের সমস্যার সমাধানকারী বানিয়েছিল, তাদের সম্পর্কেই প্রশ্ন হবে, আর জানতে চাওয়া হবে, বিপদের এই মুহূর্তে তারা সাহায্য করতে আসছে না কেন।"
+          },
+          {
+            "en": "Later in the same surah, 6:94 shows the scene from the other side. You have come to Us alone, as We created you the first time, and left behind you what We had bestowed on you. And We do not see with you your intercessors, whom you claimed were partners in you. The ties between you have been cut, and what you used to claim has left you. The question of 6:22 has its answer there in a single clause: they are not with you.",
+            "bn": "একই সূরার পরের দিকে ৬:৯৪ দৃশ্যটা দেখায় অন্য দিক থেকে। তোমরা আমার কাছে এসেছ একা একা, যেমন প্রথমবার তোমাদের সৃষ্টি করেছিলাম। যা কিছু তোমাদের দিয়েছিলাম, সব পেছনে ফেলে এসেছ। আর যাদের তোমরা নিজেদের ব্যাপারে আল্লাহর শরিক বলে দাবি করতে, তোমাদের সেই সুপারিশকারীদের তো তোমাদের সঙ্গে দেখছি না। তোমাদের মাঝের সব বন্ধন ছিন্ন হয়ে গেছে, আর যা তোমরা দাবি করতে তা হারিয়ে গেছে। ৬:২২-এর প্রশ্নের উত্তর সেখানে একটি বাক্যাংশেই: তারা তোমাদের সঙ্গে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Their Claim Contained",
+          "bn": "দাবির ভেতরে কী ছিল"
+        },
+        "p": [
+          {
+            "en": "The verse ends on kuntum taz'umun, you used to claim, and leaves the claim's content unsaid. The commentators fill it in, and each fills it differently. At-Tabari: that they were gods for you besides Allah. Al-Qurtubi: that they were intercessors for you with Allah, as you claimed, and that they would bring you near to Him, zulfa. Al-Baghawi: that they would intercede for you with your Lord. Al-Muyassar combines both readings: gods you claimed were partners with Allah, to intercede for you.",
+            "bn": "আয়াত শেষ হয়েছে কুনতুম তাযউমূন দিয়ে, তোমরা দাবি করতে। কিন্তু দাবিটা কী ছিল, আয়াত তা বলেনি। তাফসীরকারেরা সেই শূন্যস্থান পূরণ করেন, প্রত্যেকে একটু ভিন্নভাবে। তাবারী বলেন, দাবিটা ছিল যে তারা আল্লাহ ছাড়া তোমাদের ইলাহ। কুরতুবী বলেন, তোমাদের দাবি অনুযায়ী তারা আল্লাহর কাছে তোমাদের সুপারিশকারী, আর তাঁর নৈকট্যে পৌঁছে দেবে, যুলফা। বাগাভী বলেন, তারা তোমাদের রবের কাছে তোমাদের জন্য সুপারিশ করবে। মুয়াসসার দুটোকে মিলিয়ে বলে: সেই ইলাহরা, যাদের তোমরা আল্লাহর শরিক দাবি করতে, যেন তারা তোমাদের জন্য সুপারিশ করে।"
+          },
+          {
+            "en": "Al-Qurtubi's word zulfa is the very word the Quran puts in their own mouths in 39:3: we only worship them so that they may bring us nearer to Allah. In 10:18 they say of what they worship: these are our intercessors with Allah. On their own words in these verses, the claim was about mediation. The partners were thought to stand between the worshipper and Allah, so that a request made through them would travel further than a request made to Him alone. That is the claim the question of 6:22 calls in.",
+            "bn": "কুরতুবীর ব্যবহৃত যুলফা শব্দটি কুরআন ৩৯:৩ আয়াতে তাদের নিজেদের মুখেই বসিয়েছে: আমরা তো এদের ইবাদত করি শুধু এজন্য যে এরা আমাদের আল্লাহর আরও কাছে পৌঁছে দেবে। ১০:১৮ আয়াতে তারা নিজেদের উপাস্যদের সম্পর্কে বলে: এরা আল্লাহর কাছে আমাদের সুপারিশকারী। এ দুই আয়াতে তাদের নিজেদের কথা থেকেই বোঝা যায়, দাবিটা ছিল মধ্যস্থতার। ধারণা ছিল, শরিকেরা উপাসক আর আল্লাহর মাঝখানে দাঁড়িয়ে আছে। সরাসরি তাঁর কাছে চাওয়ার চেয়ে ওদের মাধ্যমে চাইলে আবেদন আরও দূর পৌঁছায়। ৬:২২-এর প্রশ্ন ঠিক এই দাবিরই হিসাব চায়।"
+          },
+          {
+            "en": "As-Sa'di states the verdict behind the question. Allah has no partner; the partnership existed only as their claim and their fabrication. Al-Qurtubi records from Ibn 'Abbas that every za'm in the Quran is a lie. The choice of verb matters. The verse does not say the partners you had, or the partners you worshipped. It says the partners you claimed, and a claim with nothing behind it is exactly what a question can empty.",
+            "bn": "প্রশ্নের পেছনের রায়টি সা'দী সরাসরি বলে দেন। আল্লাহর কোনো শরিক নেই। শরিকানা ছিল শুধু তাদের দাবি আর বানোয়াট কথায়। কুরতুবী ইবন আব্বাস (রাঃ) থেকে উদ্ধৃত করেন: কুরআনে যেখানেই যা'ম, দাবি, শব্দ এসেছে, তা মিথ্যা। ক্রিয়াটির দিকে খেয়াল করার মতো। আয়াত বলেনি, তোমাদের যে শরিক ছিল, বা যাদের তোমরা ইবাদত করতে। বলেছে, যাদের তোমরা শরিক বলে দাবি করতে। আর যে দাবির পেছনে কিছু নেই, একটি প্রশ্নই তাকে ফাঁকা করে দিতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked Again in Other Surahs",
+          "bn": "অন্য সূরায় একই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets beside this verse 28:62, where He calls them and says: where are My partners whom you used to claim? The wording returns in 28:74. In 28:63 and 28:64 the scene goes further. Those who led others astray disown them, and when the people are told to call their partners, they call and receive no answer. 16:27 asks where are My partners over whom you used to quarrel, and 18:52 has them call the partners they claimed, and none responds.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে রাখেন ২৮:৬২, যেখানে তিনি তাদের ডেকে বলবেন: কোথায় আমার সেই শরিকেরা, যাদের তোমরা দাবি করতে? একই শব্দ আবার আসে ২৮:৭৪ আয়াতে। ২৮:৬৩ ও ২৮:৬৪ আয়াতে দৃশ্যটি আরও এগোয়। যারা অন্যদের বিপথে নিয়েছিল তারা তাদের সঙ্গ অস্বীকার করে। আর লোকদের যখন বলা হয় নিজেদের শরিকদের ডাকো, তারা ডাকে, কিন্তু কোনো সাড়া পায় না। ১৬:২৭ জিজ্ঞেস করে, কোথায় আমার সেই শরিকেরা, যাদের নিয়ে তোমরা বিবাদ করতে? আর ১৮:৫২-তে তারা দাবি করা শরিকদের ডাকে, কেউ সাড়া দেয় না।"
+          },
+          {
+            "en": "In his comment on the passage that follows, at 6:24, Ibn Kathir adds 40:73 and 40:74: where is what you used to associate besides Allah? They will say: they have gone from us; rather, we were not calling on anything before. In 10:28 the partners themselves answer: it was not us you were worshipping, and in 46:6 the invoked become enemies of those who invoked them. The partners either fail to appear or appear only to disown. Neither gives the claimant what he hoped for.",
+            "bn": "পরের অংশে, ৬:২৪-এর ব্যাখ্যায়, ইবন কাসীর আরও আনেন ৪০:৭৩ ও ৪০:৭৪: আল্লাহকে ছেড়ে যাদের তোমরা শরিক করতে, তারা কোথায়? তারা বলবে, ওরা আমাদের কাছ থেকে হারিয়ে গেছে। বরং আগে আমরা কিছুকেই ডাকতাম না। ১০:২৮-এ শরিকেরা নিজেরাই জবাব দেয়: তোমরা তো আমাদের ইবাদত করতে না। আর ৪৬:৬ আয়াতে যাদের ডাকা হতো, তারা ডাকনেওয়ালাদের শত্রু হয়ে দাঁড়ায়। শরিকেরা হয় হাজিরই হয় না, নয়তো হাজির হয় শুধু সম্পর্ক অস্বীকার করতে। দাবিদার যা আশা করেছিল, দুই পথের কোনোটিতেই তা মেলে না।"
+          },
+          {
+            "en": "The reply of the people asked comes in the next verse, 6:23: by Allah, our Lord, we were not associators. How that oath sits with other verses, and what fitnah means there, belong to that verse and are left to it. What 6:22 contributes is the shape of the moment before it. A question is asked to which the true answer is shameful, and the people asked reach for denial rather than admission.",
+            "bn": "যাদের প্রশ্ন করা হলো, তাদের জবাব আসে পরের আয়াতে, ৬:২৩-এ: আমাদের রব আল্লাহর কসম, আমরা মুশরিক ছিলাম না। সেই কসম অন্য আয়াতের সঙ্গে কীভাবে মেলে, আর সেখানে ফিতনা শব্দের অর্থ কী, সে আলোচনা ওই আয়াতের, তাই সেখানেই থাকল। ৬:২২ যা দেয় তা হলো তার ঠিক আগের মুহূর্তটির চেহারা। এমন একটি প্রশ্ন করা হচ্ছে, যার সত্য উত্তর লজ্জার। আর যাদের প্রশ্ন করা হচ্ছে, তারা স্বীকার না করে অস্বীকারের দিকে হাত বাড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Following What Was Worshipped",
+          "bn": "যার ইবাদত, তার পেছনে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. The narrations Ma'arif al-Qur'an relays about the length of the standing were noted above and are left ungraded. One sound narration, not tied by the Prophet ﷺ to this verse, describes a related moment on the same Day. Sahih al-Bukhari (no. 806) records it from Abu Hurayrah (RA) within a long hadith, so it is described here rather than quoted.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীরই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। দাঁড়িয়ে থাকার দৈর্ঘ্য নিয়ে মাআরিফুল কুরআন যে রিওয়ায়াতগুলো আনে, সেগুলোর কথা আগেই বলা হয়েছে, আর সেগুলোর মান অনির্ণীত রইল। তবে একটি সহীহ বর্ণনা একই দিনের কাছাকাছি একটি মুহূর্তের কথা বলে, যদিও নবী ﷺ তা এ আয়াতের সঙ্গে জুড়ে দেননি। সহীহ বুখারী (নং ৮০৬) আবু হুরায়রা (রাঃ) থেকে এটি এনেছে একটি দীর্ঘ হাদীসের ভেতরে, তাই এখানে উদ্ধৃতি না দিয়ে বর্ণনা দেওয়া হলো।"
+          },
+          {
+            "en": "In it the Prophet ﷺ says that people will be gathered on the Day of Resurrection and told that whoever used to worship something should follow it. Some follow the sun, some the moon, some the tawaghit, and this community remains, its hypocrites among it. The general narration and the verse agree on one thing. On that Day what a person worshipped is called up and set before him, and the bond he made with it is brought into the open.",
+            "bn": "সেখানে নবী ﷺ বলেন, কিয়ামতের দিন মানুষকে একত্র করা হবে, আর বলা হবে, যে যার ইবাদত করত সে যেন তার অনুসরণ করে। কেউ সূর্যের পেছনে যাবে, কেউ চাঁদের, কেউ তাগুতদের। আর এ উম্মত থেকে যাবে, তার মুনাফিকরাও তার ভেতরে থাকবে। সাধারণ এই বর্ণনা আর আয়াত একটি বিষয়ে মিলে যায়। সেদিন মানুষ যার ইবাদত করত, তাকে তার সামনে হাজির করা হবে, আর তার সঙ্গে গড়া সম্পর্কটি প্রকাশ্যে চলে আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaning on the Absent",
+          "bn": "অনুপস্থিতের উপর ভর"
+        },
+        "p": [
+          {
+            "en": "The verse describes the associators of that Day as the text describes them. It licenses nothing against any living person or community, and no one may take its question and throw it at a neighbour. Its use is as a question put to oneself. The commentators listed what the partners were hoped to give: intercession, nearness to Allah, help with problems, rescue in a hard hour. Those hopes did not end with idols of stone.",
+            "bn": "আয়াতটি সেদিনের মুশরিকদের ঠিক ততটুকুই বর্ণনা করে, যতটুকু পাঠ্যে আছে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। এর প্রশ্ন তুলে নিয়ে প্রতিবেশীর দিকে ছুড়ে মারার অধিকার কারও নেই। এর কাজ হলো প্রশ্নটা নিজের দিকে ফেরানো। তাফসীরকারেরা শরিকদের কাছে কী কী আশা করা হতো তার তালিকা দিয়েছেন: সুপারিশ, আল্লাহর নৈকট্য, সমস্যার সমাধান, বিপদের দিনে উদ্ধার। এসব আশা পাথরের মূর্তির সঙ্গেই শেষ হয়ে যায়নি।"
+          },
+          {
+            "en": "A believer can pray and fast and still, in a frightening hour, turn first to a person of influence, to wealth or to a useful connection, before turning to Allah. The verse speaks of something graver, and no reader should give such a person its name. But it is a leaning, and the verse shows what becomes of every support that was relied on instead of Him. On the Day it is called for, it will not come.",
+            "bn": "একজন মুমিন নামাজ পড়েন, রোজা রাখেন, তবু ভয়ের মুহূর্তে আল্লাহর দিকে ফেরার আগে হয়তো প্রথমে ছোটেন প্রভাবশালী কারও কাছে, টাকার দিকে, বা কাজে লাগার মতো কোনো পরিচিতের দিকে। আয়াত এর চেয়ে অনেক গুরুতর বিষয়ের কথা বলছে, আর কোনো পাঠক যেন এমন মানুষকে আয়াতের সেই নামে না ডাকেন। তবু এটা এক ধরনের ভর দেওয়া। আর আয়াত দেখিয়ে দেয়, তাঁর বদলে যেসব খুঁটির উপর ভরসা করা হয়েছিল, তাদের শেষ পরিণতি কী। সেদিন ডাক পড়লে তারা আসবে না।"
+          },
+          {
+            "en": "The question waits for that Day, but its answer is formed now. Each time need is brought to Allah first, the answer to where are your partners grows simpler. Each time it is brought elsewhere first, the claim grows, even if it is never spoken. The verse lets a reader check the answer while there is still time to change it: when nothing else is within reach, what do I find myself calling on?",
+            "bn": "প্রশ্নটা সেদিনের জন্য তোলা আছে, কিন্তু উত্তর তৈরি হচ্ছে এখনই। যতবার প্রয়োজন প্রথমে আল্লাহর কাছে নেওয়া হয়, 'তোমাদের শরিকেরা কোথায়' প্রশ্নের উত্তর ততই সহজ হয়ে আসে। আর যতবার তা প্রথমে অন্য কোথাও নেওয়া হয়, দাবিটা ততই বাড়ে, মুখে কখনো উচ্চারিত না হলেও। আয়াত পাঠককে সুযোগ দেয় উত্তরটা মিলিয়ে দেখার, যখন তা বদলানোর সময় এখনো আছে। আশপাশে আর কিছু না থাকলে আমি কাকে ডাকি?"
+          }
+        ]
+      }
+    ]
+  },
   "6:25": {
     "sections": [
       {
