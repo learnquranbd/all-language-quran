@@ -463,6 +463,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Livelihood Back to Origin",
+          "bn": "জীবিকা থেকে সূচনার দিকে"
+        },
+        "p": [
+          {
+            "en": "7:10 ended with a complaint: We established you on the earth and gave you means of living there, yet little are you grateful. 7:11 does not add another favour of that kind. It goes back to the beginning, a move al-Qurtubi names: having mentioned His favours, He mentions the start of His creation. The verse opens with the same emphatic wa-laqad as 7:10 and moves step by step: We created you, then shaped you, then said to the angels, prostrate to Adam. They prostrated, except Iblis; he was not among those who prostrated.",
+            "bn": "৭:১০ শেষ হয়েছিল এক আক্ষেপে: আমি তোমাদের পৃথিবীতে প্রতিষ্ঠিত করেছি, সেখানে জীবিকার ব্যবস্থা করেছি, অথচ তোমরা খুব কমই শোকর করো। ৭:১১ সে ধরনের আরেকটি নিয়ামত যোগ করে না। আয়াতটি ফিরে যায় একেবারে শুরুতে। কুরতুবী এই ফেরাটার নাম দেন এভাবে: নিজের নিয়ামতগুলো উল্লেখ করার পর আল্লাহ তাঁর সৃষ্টির সূচনার কথা বললেন। ৭:১০-এর মতোই আয়াতটি শুরু হয় জোরালো 'ওয়া লাকাদ' দিয়ে, তারপর এগোয় ধাপে ধাপে: আমি তোমাদের সৃষ্টি করেছি, তারপর আকৃতি দিয়েছি, তারপর ফেরেশতাদের বলেছি, আদমকে সিজদা করো। তারা সিজদা করল, ইবলীস ছাড়া। সে সিজদাকারীদের অন্তর্ভুক্ত হলো না।"
+          },
+          {
+            "en": "Ibn Kathir reads the purpose from the placement. Here, he says, Allah alerts the children of Adam to their father's honour and to the enmity of their enemy Iblis, with the envy he carries towards them and towards their father, so that they beware of him and do not follow his ways. That double aim governs what follows: the exchange in 7:12 and 7:13, then the reprieve and the threat in 7:14 to 7:17, several of which have their own pages here.",
+            "bn": "আয়াতটি কোথায় বসানো, তা থেকেই ইবন কাসীর এর উদ্দেশ্য বের করেন। তাঁর ভাষায়, এখানে আল্লাহ আদম সন্তানদের সজাগ করছেন তাদের পিতার মর্যাদা সম্পর্কে, আর তাদের শত্রু ইবলীসের শত্রুতা সম্পর্কে। তাদের ও তাদের পিতার প্রতি সে মনে হিংসা পুষে রাখে। উদ্দেশ্য, তারা যেন তার ব্যাপারে সাবধান থাকে এবং তার পথ না ধরে। পরের অংশটা এই দ্বিমুখী লক্ষ্যেই চলে: ৭:১২ ও ৭:১৩-এর কথোপকথন, তারপর ৭:১৪ থেকে ৭:১৭ পর্যন্ত অবকাশ চাওয়া আর হুমকি। এর কয়েকটির জন্য এখানে আলাদা পাতা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Creation, Whose Shape",
+          "bn": "কার সৃষ্টি, কার আকৃতি"
+        },
+        "p": [
+          {
+            "en": "Who is the you? At-Tabari opens by saying that the people of interpretation differed, and he files their answers under four headings. The first: We created you means Adam, and We shaped you means his offspring. He gives it from Ibn Abbas through two chains, and from ar-Rabi' ibn Anas, as-Suddi, Qatada and ad-Dahhak. Qatada spells out the shaping as stage after stage in your mothers' wombs: a clinging clot, then a lump of flesh, then bones, then the bones clothed with flesh.",
+            "bn": "এই 'তোমরা' কারা? তাবারী শুরুতেই জানান, তাফসীরের আলেমরা এ নিয়ে মতভেদ করেছেন। তিনি তাঁদের জবাবগুলো চারটি ভাগে সাজান। প্রথম মত: 'তোমাদের সৃষ্টি করেছি' মানে আদম, আর 'আকৃতি দিয়েছি' মানে তাঁর সন্তানেরা। এ মত তিনি ইবন আব্বাস (রাঃ) থেকে দুটি সনদে আনেন, সঙ্গে রাবী' ইবন আনাস, সুদ্দী, কাতাদা ও দাহহাক থেকে। কাতাদা আকৃতি দেওয়াকে ব্যাখ্যা করেন মায়ের গর্ভে ধাপে ধাপে গড়ে ওঠা হিসেবে: জমাট রক্তপিণ্ড, তারপর মাংসপিণ্ড, তারপর হাড়, তারপর হাড়ের উপর মাংসের আবরণ।"
+          },
+          {
+            "en": "The second heading puts both verbs inside the line of descent: created in your fathers' loins, shaped in your mothers' wombs, from Ikrima and from al-A'mash. The third keeps both with Adam. Mujahid, by several chains, says that created means Adam and shaped means in Adam's back. The fourth, from an unnamed source through Ma'mar, places both in the womb: Allah creates the human being there, then shapes him, opening his hearing, his sight and his fingers.",
+            "bn": "দ্বিতীয় মত দুটি ক্রিয়াকেই বংশধারার ভেতরে রাখে: পিতাদের পৃষ্ঠদেশে সৃষ্টি, মায়েদের গর্ভে আকৃতি। তাবারী এটি আনেন ইকরিমা ও আ'মাশ থেকে। তৃতীয় মত দুটোকেই আদমের সঙ্গে রাখে। মুজাহিদ কয়েকটি সনদে বলেন, সৃষ্টি মানে আদম, আর আকৃতি মানে আদমের পিঠের ভেতরে। চতুর্থ মতটি মা'মারের সূত্রে এক অনামা ব্যক্তি থেকে এসেছে, আর তা দুটোকেই গর্ভে রাখে। আল্লাহ মানুষকে সেখানেই সৃষ্টি করেন, তারপর আকৃতি দেন, তার কান, চোখ আর আঙুল আলাদা করে খুলে দেন।"
+          },
+          {
+            "en": "Al-Qurtubi widens the list. He reports from al-Hasan that the meaning is Adam and Hawwa, Adam from earth and Hawwa from one of his ribs, with the shaping after; and from Mujahid that you were created in Adam's back and shaped when the covenant was taken from you, which an-Nahhas, he records, called the best of the views. Al-Baghawi gives Ibn Abbas another wording: your forefathers, then shaped in your mothers' wombs.",
+            "bn": "কুরতুবী তালিকাটা আরও বড় করেন। তিনি হাসান থেকে বর্ণনা করেন, এর মানে আদম ও হাওয়া। আদম মাটি থেকে, হাওয়া তাঁর একটি পাঁজর থেকে, আর আকৃতি দেওয়া হয়েছে তার পরে। মুজাহিদ থেকে তিনি আনেন, তোমাদের সৃষ্টি করা হয়েছে আদমের পিঠে, আর আকৃতি দেওয়া হয়েছে যখন তোমাদের কাছ থেকে অঙ্গীকার নেওয়া হলো। তিনি জানান, নাহহাস এটিকেই সবচেয়ে উত্তম মত বলেছেন। বাগাভী ইবন আব্বাস (রাঃ)-এর আরেকটি ভাষ্য দেন: তোমাদের পূর্বপুরুষদের সৃষ্টি, তারপর মায়েদের গর্ভে তোমাদের আকৃতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Trouble With Thumma",
+          "bn": "'সুম্মা' শব্দের জট"
+        },
+        "p": [
+          {
+            "en": "Here the commentators meet a problem that the wording itself raises. Thumma, then, ordinarily marks what comes after, and after an interval. Yet the order to the angels came before any child of Adam existed. Al-Baghawi states the objection in so many words: if the command to prostrate came before the creation of Adam's children, what is the sense of then We said? On the view that refers the creating and the shaping to Adam alone, he answers, the sentence runs straight. The difficulty belongs to those who read the offspring into it.",
+            "bn": "এখানে তাফসীরকারেরা এমন এক প্রশ্নের মুখে পড়েন, যা আয়াতের শব্দ থেকেই ওঠে। 'সুম্মা' অর্থাৎ 'তারপর' সাধারণত বোঝায়, পরের কাজটা আগেরটার পরে এবং কিছু সময় পরে ঘটেছে। অথচ ফেরেশতাদের প্রতি হুকুম এসেছিল আদমের কোনো সন্তান জন্মানোর আগেই। বাগাভী আপত্তিটা সরাসরি তোলেন: সিজদার হুকুম যদি আদম সন্তানদের সৃষ্টির আগেই হয়ে থাকে, তবে 'তারপর আমি বললাম' কথার মানে কী? তাঁর জবাব, যারা সৃষ্টি আর আকৃতি দুটোকেই শুধু আদমের দিকে ফেরান, তাদের মতে বাক্যটা সোজা চলে। জট শুধু তাদের, যারা এখানে সন্তানদের টেনে আনেন।"
+          },
+          {
+            "en": "For them al-Baghawi lists three replies. Thumma here means wa, and, so it fixes no order. Or the then belongs to the telling, as if to say: then I inform you that We said to the angels. Or the clause has been moved, and the sense is: We created Adam, then said to the angels prostrate, then shaped you. Al-Qurtubi carries the same three, naming al-Akhfash for the first, and also gives from Ibn Abbas the reading on which all of it is Adam, with nothing moved.",
+            "bn": "তাদের পক্ষে বাগাভী তিনটি জবাব সাজান। এখানে 'সুম্মা' আসলে 'ওয়া' অর্থাৎ 'এবং'-এর অর্থে, ফলে এটি কোনো ক্রম ঠিক করে না। অথবা 'তারপর'টা বর্ণনার ক্রম, ঘটনার নয়, যেন বলা হচ্ছে: তারপর আমি তোমাদের জানাচ্ছি যে আমি ফেরেশতাদের বলেছিলাম। অথবা বাক্যাংশটা নিজের জায়গা থেকে সরানো, আসল অর্থ: আমি আদমকে সৃষ্টি করেছি, তারপর ফেরেশতাদের সিজদা করতে বলেছি, তারপর তোমাদের আকৃতি দিয়েছি। কুরতুবীও এই তিনটিই আনেন, প্রথমটির জন্য আখফাশের নাম নেন। ইবন আব্বাস (রাঃ) থেকে তিনি সেই মতটিও আনেন, যাতে পুরোটাই আদমের কথা আর কিছুই সরানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sons Addressed, a Father Meant",
+          "bn": "সম্বোধন সন্তানকে, উদ্দেশ্য পিতা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes a side and argues for it. The soundest reading, he says, is that We created you means We created Adam, and We shaped you means Our shaping of Adam. The Arabs address a man with deeds they attach to him while meaning his forebears, and the Qur'an does the same: it said to the Jews living among the believers in the Prophet's ﷺ time, and when We took your covenant and raised the mount above you (2:63), meaning their ancestors. So the sense is: We created your father Adam, then shaped him.",
+            "bn": "তাবারী একটি পক্ষ নেন এবং তার পক্ষে যুক্তি দেন। তাঁর মতে সবচেয়ে সঠিক ব্যাখ্যা হলো, 'তোমাদের সৃষ্টি করেছি' মানে আদমকে সৃষ্টি করেছি, আর 'তোমাদের আকৃতি দিয়েছি' মানে আদমকে আকৃতি দিয়েছি। আরবরা কোনো লোককে এমন কাজের কথা বলে সম্বোধন করে, যা আসলে তার পূর্বপুরুষদের। কুরআনও তাই করেছে। নবী ﷺ-এর যুগে মুমিনদের মাঝে বসবাসকারী ইহুদিদের বলা হয়েছে, স্মরণ করো যখন আমি তোমাদের অঙ্গীকার নিয়েছিলাম আর তোমাদের উপর তূর পাহাড় তুলে ধরেছিলাম (২:৬৩)। উদ্দেশ্য ছিল তাদের পূর্বপুরুষ। তাই অর্থ দাঁড়ায়: আমি তোমাদের পিতা আদমকে সৃষ্টি করেছি, তারপর তাঁকে আকৃতি দিয়েছি।"
+          },
+          {
+            "en": "His proof is the next clause. It is known, he says, that the angels were commanded to prostrate to Adam before his offspring were shaped in their mothers' bellies, indeed before their mothers were created. And thumma, in the speech of the Arabs, always signals that what follows came after what precedes it; joined with wa the order is open, joined with thumma it is not. Thumma for wa, he says, occurs only under the strain of verse, and the Qur'an came down in the most eloquent Arabic. The reordering he dismisses outright.",
+            "bn": "তাঁর দলিল পরের বাক্যাংশ। তিনি বলেন, এ কথা জানা যে আদমের সন্তানদের মায়ের পেটে আকৃতি দেওয়ার আগেই, বরং তাদের মায়েদের সৃষ্টিরও আগে, ফেরেশতাদের আদমকে সিজদা করতে বলা হয়েছিল। আর আরবদের ভাষায় 'সুম্মা' সবসময় জানিয়ে দেয়, পরের কথাটা ঘটেছে আগেরটার পরে। 'ওয়া' দিয়ে জুড়লে কোনটা আগে তা খোলা থাকে, 'সুম্মা' দিয়ে জুড়লে থাকে না। তাঁর মতে 'সুম্মা' 'ওয়া'-র অর্থে আসে কেবল কবিতার ছন্দের ঠেকায়, আর কুরআন নাজিল হয়েছে সবচেয়ে বিশুদ্ধ আরবিতে। আগে-পরে সরানোর মত তিনি সরাসরি নাকচ করেন।"
+          },
+          {
+            "en": "Ibn Kathir calls this Ibn Jarir's choice and follows it. He questions the reading of Adam created and the offspring shaped, since the verse goes straight on to prostrate to Adam. The plural is used because Adam is the father of mankind, as the Israelites of the Prophet's ﷺ day were reminded of the cloud and the manna given to their fathers in Musa's (AS) time (2:57). A favour to the root, he says, counts as a favour to the branches.",
+            "bn": "ইবন কাসীর বলেন, এটি ইবন জারীরের বাছাই করা মত, আর তিনি নিজেও এটিই নেন। 'আদমকে সৃষ্টি, সন্তানদের আকৃতি' মতের ব্যাপারে তিনি আপত্তি তোলেন, কারণ আয়াত সঙ্গে সঙ্গেই বলে, আদমকে সিজদা করো। বহুবচন এসেছে কারণ আদম মানবজাতির পিতা। যেমন নবী ﷺ-এর যুগের বনী ইসরাঈলকে মেঘের ছায়া আর মান্না-সালওয়ার কথা মনে করিয়ে দেওয়া হয়েছে (২:৫৭), যা আসলে দেওয়া হয়েছিল মূসা (আঃ)-এর যুগে তাদের পূর্বপুরুষদের। তাঁর কথায়, মূলের উপর অনুগ্রহ শাখার উপর অনুগ্রহ হিসেবেই গণ্য হয়।"
+          },
+          {
+            "en": "Al-Qurtubi lands elsewhere. All these views are possible, he says, and the sound view is whatever revelation supports. Reading 23:12 and 23:13, he concludes that Adam was created from clay, then shaped and honoured with the prostration, while his offspring were shaped in their mothers' wombs after being created there and in their fathers' loins. Ibn Kathir sets 23:12 apart instead: man there means the human kind, so Adam and his line can both be meant, unlike here. The disagreement stands.",
+            "bn": "কুরতুবী পৌঁছান অন্য জায়গায়। তাঁর মতে এসব মতের প্রতিটিরই সম্ভাবনা আছে, আর সঠিক সেটি, যার পক্ষে কুরআন নিজে সাক্ষ্য দেয়। ২৩:১২ ও ২৩:১৩ পড়ে তাঁর সিদ্ধান্ত: আদম মাটি থেকে সৃষ্ট, তারপর আকৃতিপ্রাপ্ত, তারপর সিজদা দিয়ে সম্মানিত। আর তাঁর সন্তানেরা পিতাদের পৃষ্ঠদেশে ও মায়েদের গর্ভে সৃষ্ট হওয়ার পর গর্ভেই আকৃতি পেয়েছে। ইবন কাসীর বরং ২৩:১২-কে আলাদা করে রাখেন। তাঁর মতে সেখানে 'মানুষ' মানে গোটা মানবজাতি, তাই সেখানে আদম ও তাঁর বংশধর দুজনকেই বোঝানো যায়, এখানে যায় না। মতভেদটা তাই রয়েই যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour Given, Obedience Owed",
+          "bn": "সম্মান আদমের, আনুগত্য রবের"
+        },
+        "p": [
+          {
+            "en": "Then the command: prostrate to Adam. What kind of prostration was it? Al-Muyassar says it was ordered as honour and respect, and to make Adam's excellence plain. As-Sa'di uses the same three terms, after describing the shaping in the finest form and adding that Allah taught Adam the names of all things, completing his inner form as the shaping had completed the outer. Ibn Kathir says the order was given in reverence for the station and majesty of the Lord, and that the angels all heard and obeyed.",
+            "bn": "তারপর হুকুম: আদমকে সিজদা করো। এটা কেমন সিজদা ছিল? মুয়াসসার বলে, এ হুকুম এসেছিল সম্মান ও শ্রদ্ধা জানাতে, আর আদমের মর্যাদা প্রকাশ করতে। সা'দী ঠিক এই তিনটি কথাই বলেন। তার আগে তিনি আনেন সবচেয়ে সুন্দর আকৃতির কথা, এবং যোগ করেন যে আল্লাহ আদমকে সব কিছুর নাম শিখিয়েছিলেন। আকৃতি দিয়ে যেমন বাইরের গড়ন পূর্ণ হয়েছিল, নামের জ্ঞান দিয়ে তেমনি পূর্ণ হলো ভেতরের গড়ন। ইবন কাসীর বলেন, হুকুমটা এসেছিল রবের মর্যাদা ও মহিমার প্রতি সম্মান জানিয়ে, আর ফেরেশতারা সবাই শুনেছেন এবং মেনেছেন।"
+          },
+          {
+            "en": "At-Tabari adds the angels' side of it. Once Adam had been fashioned whole and the spirit breathed into him, the command came as a trial for them, so that the obedient among them would be known from the disobedient. None of the commentators on this verse calls the act worship; they call it honour, respect, and a test of obedience to Allah. Ibn Kathir sets 15:28 to 15:31 beside this verse, and 2:34 tells the scene again. The honour was Adam's; the obedience was owed to the One who gave the order.",
+            "bn": "তাবারী ফেরেশতাদের দিকটা যোগ করেন। আদমকে পূর্ণাঙ্গ গড়ে তাঁর মধ্যে রূহ ফুঁকে দেওয়ার পর হুকুমটা এল তাঁদের জন্য পরীক্ষা হিসেবে, যেন তাঁদের মধ্যে কে অনুগত আর কে অবাধ্য তা প্রকাশ পায়। এ আয়াতের কোনো তাফসীরকার এই কাজকে ইবাদত বলেননি। তাঁরা একে বলেছেন সম্মান, শ্রদ্ধা আর আল্লাহর আনুগত্যের পরীক্ষা। ইবন কাসীর ১৫:২৮ থেকে ১৫:৩১ এ আয়াতের পাশে রাখেন, আর ২:৩৪-এও একই দৃশ্য আবার এসেছে। সম্মান ছিল আদমের, আর আনুগত্য ছিল তাঁর প্রাপ্য, যিনি হুকুম দিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "All of Them, Except One",
+          "bn": "সবাই, শুধু একজন বাদে"
+        },
+        "p": [
+          {
+            "en": "Fa-sajadu illa Iblis: so they prostrated, except Iblis. Al-Qurtubi notes that the exception is read two ways: as setting apart one who was never of the angels' kind, or, it was said, one of their own kind. The scholars differed, he adds, over whether Iblis was an angel, and he refers to his discussion at al-Baqarah. The commentaries fetched on this verse do not name the parties. 18:50 states that he was of the jinn, and the page on that verse here sets out who held which view.",
+            "bn": "ফাসাজাদূ ইল্লা ইবলীস: তারা সিজদা করল, ইবলীস ছাড়া। কুরতুবী জানান, এই ব্যতিক্রম দুইভাবে পড়া হয়। এক পাঠে তাকে বাদ দেওয়া হয়েছে এমন একজন হিসেবে, যে কখনো ফেরেশতাদের জাতের ছিল না। আরেক পাঠে, যা 'বলা হয়' বলে আসে, সে তাঁদেরই জাতের একজন। তিনি যোগ করেন, ইবলীস ফেরেশতাদের একজন ছিল কি না, তা নিয়ে আলেমরা মতভেদ করেছেন, আর সে আলোচনা তিনি সূরা বাকারায় করেছেন। এ আয়াতে আমরা যে তাফসীরগুলো পড়েছি, সেগুলো দুই পক্ষের নাম বলে না। ১৮:৫০ জানায়, সে ছিল জিনদের একজন। কে কোন মত নিয়েছিলেন, তা সে আয়াতের পাতায় সাজানো আছে।"
+          },
+          {
+            "en": "What the commentators here do give is the motive. Al-Muyassar says Iblis, who had been among them, did not prostrate out of envy at so great an honour; as-Sa'di says he refused out of arrogance towards Adam and admiration of himself. This verse records only the refusal; his own reasoning comes in 7:12, which has its own page. And it should be said plainly: the verse describes one creature's refusal in the unseen, as the text describes it, and licenses nothing against any living person or community.",
+            "bn": "এখানকার তাফসীরকারেরা যা দেন, তা হলো কারণ। মুয়াসসার বলে, ইবলীস ফেরেশতাদের সঙ্গেই ছিল, কিন্তু এত বড় সম্মানের প্রতি হিংসায় সে সিজদা করেনি। সা'দী বলেন, আদমের উপর অহংকার আর নিজের প্রতি মুগ্ধতা থেকে সে অস্বীকার করেছিল। এ আয়াত শুধু অস্বীকারটুকু লিখে রাখে। তার নিজের যুক্তি আসে ৭:১২-তে, যার আলাদা পাতা আছে। আর একটি কথা সোজাসুজি বলা দরকার। আয়াতটি অদৃশ্য জগতে এক সৃষ্টির অস্বীকারের বর্ণনা দেয়, ঠিক যতটুকু কুরআন বলেছে। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ থেকে মেলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Reports Beside the Verse",
+          "bn": "আয়াতের পাশে দুটি হাদীস"
+        },
+        "p": [
+          {
+            "en": "No commentator fetched on this verse attaches a sound hadith to it. Al-Qurtubi alludes, with no source and no grading on this page, to a report about the covenant taken from Adam's offspring; it is only mentioned here, and nothing is built on it. Two reports in Sahih Muslim, which none of these commentators ties to the verse, are given below as general narrations. They touch the verse's two halves, the shaping and the command.",
+            "bn": "এ আয়াতে আমরা যে তাফসীরগুলো পড়েছি, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। কুরতুবী আদম সন্তানদের কাছ থেকে নেওয়া অঙ্গীকার বিষয়ে একটি বর্ণনার দিকে ইঙ্গিত করেন, কিন্তু এ পাতায় তার কোনো সূত্র বা মান উল্লেখ নেই। তাই এখানে শুধু তার উল্লেখটুকু থাকল, এর উপর কিছু দাঁড় করানো হলো না। সহীহ মুসলিমের দুটি বর্ণনা এই তাফসীরকারদের কেউ এ আয়াতের সঙ্গে জোড়েননি, তাই নিচে সেগুলো সাধারণ বর্ণনা হিসেবেই এল। তবে এগুলো আয়াতের দুই অংশকে ছুঁয়ে যায়, আকৃতি আর হুকুম।"
+          },
+          {
+            "en": "Anas reports that the Messenger of Allah ﷺ said: When Allah shaped Adam in Paradise, He left him for as long as Allah willed to leave him. Then Iblis began to circle around him, looking at what he was, and when he saw that he was hollow, he knew that he had been created a creature that cannot keep control of itself. Muslim records it in his Sahih (2611). It is a general narration, not attached to this verse, and in it Iblis is already watching from the hour of the shaping.",
+            "bn": "আনাস (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: আল্লাহ যখন জান্নাতে আদমের আকৃতি গড়লেন, যতদিন চাইলেন তাঁকে সেভাবেই রেখে দিলেন। তখন ইবলীস তাঁর চারপাশে ঘুরে ঘুরে দেখতে লাগল, এটা কী। যখন দেখল ভেতরটা ফাঁপা, সে বুঝে গেল, এমন এক সৃষ্টি তৈরি হয়েছে যে নিজেকে সামলে রাখতে পারে না। মুসলিম তাঁর সহীহ গ্রন্থে এটি এনেছেন (২৬১১)। এটি সাধারণ বর্ণনা, এ আয়াতের সঙ্গে যুক্ত নয়। এতে দেখা যায়, আকৃতি গড়ার সময় থেকেই ইবলীস নজর রাখছিল।"
+          },
+          {
+            "en": "Abu Hurayrah reports that the Messenger of Allah ﷺ said: When the son of Adam recites a verse of prostration and prostrates, Satan withdraws, weeping, and says: Woe to him! The son of Adam was commanded to prostrate, and he prostrated, so Paradise is his; and I was commanded to prostrate, and I refused, so the Fire is mine. Muslim records it in his Sahih (81), and it too is not attached to this verse.",
+            "bn": "আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: আদম সন্তান যখন সিজদার আয়াত পড়ে সিজদা করে, শয়তান কাঁদতে কাঁদতে সরে যায় আর বলে: হায় তার দুর্ভোগ! আদম সন্তানকে সিজদার হুকুম দেওয়া হলো, সে সিজদা করল, তাই জান্নাত তার। আর আমাকে সিজদার হুকুম দেওয়া হলো, আমি অস্বীকার করলাম, তাই জাহান্নাম আমার। মুসলিম তাঁর সহীহ গ্রন্থে এটি এনেছেন (৮১), আর এটিও এ আয়াতের সঙ্গে যুক্ত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honoured Before You Knew It",
+          "bn": "জানার আগেই সম্মানিত"
+        },
+        "p": [
+          {
+            "en": "Read with the disagreement in view, the verse still holds steady on one point. Whether the you is Adam alone, Adam and his line, or the offspring drawn from his back, it is spoken to us; a favour done to a forebear, at-Tabari says, is addressed to his descendants as their own. Before any reader had done anything at all, that reader was created, shaped and honoured in the person of his father, and the verse asks that this be counted among what we owe.",
+            "bn": "মতভেদ মাথায় রেখে পড়লেও একটি জায়গায় আয়াতটি অটল। 'তোমরা' মানে শুধু আদম হোক, আদম ও তাঁর বংশধর হোক, কিংবা তাঁর পিঠ থেকে বের করে আনা সন্তানেরা, কথাটা বলা হচ্ছে আমাদের। তাবারী বলেন, পূর্বপুরুষের প্রতি অনুগ্রহের কথা তাঁর বংশধরদের এমনভাবে বলা হয়, যেন তা তাদেরই। কোনো পাঠক কিছু করার আগেই তাকে সৃষ্টি করা হয়েছে, আকৃতি দেওয়া হয়েছে, তার পিতার মধ্য দিয়ে সম্মানিত করা হয়েছে। আয়াতটি চায়, আমাদের ঋণের হিসাবে এ কথাও যেন আসে।"
+          },
+          {
+            "en": "That is why it sits after the complaint of 7:10. Gratitude stays thin when it looks only at livelihood, the food and the work and the ground underfoot. Here the reader is given something older to be grateful for: being made at all, being given a shape, and having one's father honoured before the angels. Ibn Kathir's double aim applies to us as well. The scene that shows the honour also shows the envy, and an honour remembered is harder to be robbed of.",
+            "bn": "এ কারণেই আয়াতটি বসেছে ৭:১০-এর আক্ষেপের পরে। শোকর যদি শুধু জীবিকার দিকে তাকায়, খাবার, কাজ, পায়ের নিচের মাটি, তবে তা পাতলাই থেকে যায়। এখানে পাঠকের সামনে রাখা হলো আরও পুরোনো কিছু, যার জন্য শোকর করা যায়: আদৌ সৃষ্টি হওয়া, একটা আকৃতি পাওয়া, আর ফেরেশতাদের সামনে নিজের পিতার সম্মানিত হওয়া। ইবন কাসীরের সেই দ্বিমুখী লক্ষ্য আমাদের বেলায়ও খাটে। যে দৃশ্য সম্মান দেখায়, সেই দৃশ্যই হিংসা দেখায়। আর যে সম্মান মনে থাকে, তা কেড়ে নেওয়া কঠিন।"
+          },
+          {
+            "en": "There is something practical in it too. The act refused that day is the act a believer repeats many times between dawn and night, and the angels' readiness, obeying at once and without argument, is what the verse sets before us, more than any feeling. Each prostration answers the first command again. And everyone given dignity by the same Creator, the stranger and the difficult relative included, shares in the honour this verse describes.",
+            "bn": "এর একটা বাস্তব দিকও আছে। সেদিন যে কাজটি অস্বীকার করা হয়েছিল, একজন মুমিন ভোর থেকে রাত পর্যন্ত সেটাই বারবার করে। ফেরেশতারা সঙ্গে সঙ্গে, কোনো তর্ক ছাড়াই মেনে নিয়েছিলেন। কোনো অনুভূতির চেয়ে বেশি, এই তৎপরতাই আয়াতটি আমাদের সামনে রাখে। প্রতিটি সিজদা সেই প্রথম হুকুমের নতুন জবাব। আর একই স্রষ্টা যাদের মর্যাদা দিয়েছেন, অচেনা মানুষ থেকে কঠিন স্বভাবের আত্মীয় পর্যন্ত, সবাই এ আয়াতে বর্ণিত সম্মানের ভাগীদার।"
+          }
+        ]
+      }
+    ]
+  },
   "7:12-13": {
     "sections": [
       {

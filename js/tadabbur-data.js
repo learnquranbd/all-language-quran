@@ -31523,6 +31523,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not use Allah's will as cover for what you choose; before claiming He is pleased with something, ask what knowledge you have, and leave assumption behind.",
     "lessonBn": "নিজের বেছে নেওয়া পথ ঢাকতে আল্লাহর ইচ্ছাকে ঢাল বানাবেন না। কোনো কিছুতে তিনি সন্তুষ্ট, এ কথা বলার আগে নিজেকে জিজ্ঞেস করুন আপনার কাছে কী জ্ঞান আছে, আর আন্দাজ ছেড়ে দিন।"
+  },
+  "7:11": {
+    "reflectionEn": "The verse reaches back before anyone reading it was born. We created you, then shaped you, then told the angels to prostrate to Adam. It speaks to you, though the scene is your father's, and the honour paid to him is handed to his children as their own. The angels bowed at once. One stood apart, and the verses after him show his envy turning towards us. So two things were set down on that first day: how much you were honoured, and who has resented it ever since. The verse before this one complained that little are you grateful. Here is what there is to be grateful for, and here is the one who would rather you forgot it.",
+    "reflectionBn": "আয়াতটি আমাদের নিয়ে যায় সেই সময়ে, যখন এর কোনো পাঠকের জন্মই হয়নি। আমি তোমাদের সৃষ্টি করেছি, তারপর আকৃতি দিয়েছি, তারপর ফেরেশতাদের বলেছি আদমকে সিজদা করো। দৃশ্যটা আমাদের পিতার, অথচ কথা বলা হচ্ছে আমাদের সঙ্গে। তাঁকে যে সম্মান দেওয়া হয়েছিল, তা তাঁর সন্তানদের হাতেও তুলে দেওয়া হলো, যেন তাদেরই সম্মান। ফেরেশতারা সঙ্গে সঙ্গে সিজদায় গেলেন। একজন সরে দাঁড়াল, আর পরের আয়াতগুলো দেখায় তার হিংসা কীভাবে আমাদের দিকে ঘুরে গেল। প্রথম দিনেই তাই দুটো জিনিস লেখা হয়ে গেল: আপনাকে কতটা সম্মান দেওয়া হয়েছে, আর সেদিন থেকে কে তা সহ্য করতে পারছে না। আগের আয়াত আক্ষেপ করেছিল, তোমরা খুব কমই শোকর করো। এখানে দেখানো হলো কিসের জন্য শোকর, আর কে চায় আপনি তা ভুলে যান।",
+    "pointsEn": [
+      "When did I last think of my own creation and shaping as a gift spoken to me, rather than a fact about the distant past?",
+      "The angels obeyed the moment the command came. Which command of Allah am I still holding at arm's length, waiting for a reason I like?",
+      "If envy of the honour given to us began on the first day, where in my week does that old enemy find me easiest to reach?",
+      "When I put my forehead on the ground, do I remember that this is the very act one creature refused, or is it a habit I barely notice?",
+      "Whose dignity, given by the same Creator who shaped me, do I quietly decline to honour?"
+    ],
+    "pointsBn": [
+      "নিজের সৃষ্টি আর আকৃতিকে শেষ কবে আমাকে উদ্দেশ করে দেওয়া একটা দান হিসেবে ভেবেছি, দূর অতীতের নিছক কোনো ঘটনা হিসেবে নয়?",
+      "হুকুম আসামাত্র ফেরেশতারা মেনে নিয়েছিলেন। আল্লাহর কোন হুকুমকে আমি এখনো দূরে ঠেলে রেখেছি, মনের মতো একটা কারণের অপেক্ষায়?",
+      "আমাদের দেওয়া সম্মানের প্রতি হিংসা যদি প্রথম দিনেই শুরু হয়ে থাকে, তবে সপ্তাহের কোন জায়গায় সেই পুরোনো শত্রু আমাকে সবচেয়ে সহজে নাগালে পায়?",
+      "মাটিতে কপাল রাখার সময় কি মনে পড়ে, ঠিক এই কাজটাই একজন অস্বীকার করেছিল? নাকি এটা এমন অভ্যাস, যা আমি প্রায় টেরই পাই না?",
+      "যে স্রষ্টা আমাকে আকৃতি দিয়েছেন, তিনিই যাকে মর্যাদা দিয়েছেন, এমন কার মর্যাদা আমি চুপচাপ এড়িয়ে যাই?"
+    ],
+    "lessonEn": "You were created, shaped and honoured before you could earn any of it; answer that honour with gratitude and ready obedience, and remember who has envied it from the first day.",
+    "lessonBn": "কোনো কিছু অর্জনের আগেই আপনাকে সৃষ্টি করা হয়েছে, আকৃতি দেওয়া হয়েছে, সম্মানিত করা হয়েছে। সেই সম্মানের জবাব দিন শোকর আর তৎপর আনুগত্য দিয়ে, আর মনে রাখুন প্রথম দিন থেকে কে তাকে হিংসা করে আসছে।"
   }
 };
 
