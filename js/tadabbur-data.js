@@ -31303,6 +31303,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read each dawn, each night's rest and each new month as the measuring of the Mighty, the Knowing, and keep your own days inside the limits He set.",
     "lessonBn": "প্রতিটি ভোর, প্রতিটি রাতের বিশ্রাম আর প্রতিটি নতুন মাসকে মহাপরাক্রমশালী, সর্বজ্ঞের নির্ধারণ হিসেবে পড়ুন, আর নিজের দিনগুলো তাঁর বেঁধে দেওয়া সীমার ভেতরে রাখুন।"
+  },
+  "6:101": {
+    "reflectionEn": "The verse before records what people said: the jinn are His partners, and He has sons and daughters. This verse does not shout back. It asks a question. He originated the heavens and the earth with no model to copy, so how could He have a son when He has no consort, and when He created every single thing? A child shares its parent's kind and comes from a pair. Nothing shares His kind, and anything that might be named as His partner or child is something He made and knows completely. I would never say He has a son. Yet I can still picture Him too small, as if He needed something, or could miss what I keep hidden. The verse corrects that picture too.",
+    "reflectionBn": "আগের আয়াতে মানুষের কথাগুলো তুলে ধরা হয়েছে: জিন তাঁর শরিক, আর তাঁর আছে পুত্র ও কন্যা। এ আয়াত চিৎকার করে জবাব দেয় না, একটা প্রশ্ন রাখে। আসমান ও জমিন তিনি বানিয়েছেন কোনো নমুনা ছাড়াই। তাঁর কোনো সঙ্গিনীই নেই, আর সবকিছু তো তিনিই সৃষ্টি করেছেন। তাহলে তাঁর সন্তান হবে কোথা থেকে? সন্তান হয় বাবার জাতের, আর জন্ম নেয় জোড়া থেকে। তাঁর জাতের কিছুই নেই। যাকেই তাঁর শরিক বা সন্তান বলা হোক, সে তাঁরই বানানো, আর তাকে তিনি পুরোপুরি জানেন। আল্লাহর সন্তান আছে, এ কথা আমি কখনো বলব না। তবু মনের ভেতর তাঁর ছবিটা ছোট করে ফেলতে পারি, যেন তাঁর কোনো কিছুর দরকার আছে, কিংবা আমার লুকানো কথা তাঁর চোখ এড়িয়ে যেতে পারে। আয়াতটি সেই ছবিও শুধরে দেয়।",
+    "pointsEn": [
+      "When I look at something I could never have designed, do I let it lead me to the One who made it with no model before Him?",
+      "What picture of Allah do I carry that quietly makes Him need something, whether my help, my praise or anyone's?",
+      "If He created all things and knows all things, what am I still hiding as though it might escape Him?",
+      "When I hear something said about Allah that does not befit Him, do I answer with the verse's calm question, or with anger?",
+      "Which of my own habits of speech about Allah should I check against this verse before I use them again?"
+    ],
+    "pointsBn": [
+      "যা আমি কখনো নকশা করতে পারতাম না, এমন কিছুর দিকে তাকালে কি তা আমাকে সেই সত্তার কাছে নিয়ে যায়, যিনি আগের কোনো নমুনা ছাড়াই তা বানিয়েছেন?",
+      "আল্লাহকে নিয়ে মনে কোন ছবি বয়ে বেড়াই, যা চুপিসারে তাঁকে কোনো কিছুর মুখাপেক্ষী বানিয়ে ফেলে, আমার সাহায্য, আমার প্রশংসা বা অন্য কারও?",
+      "তিনি যদি সবকিছু সৃষ্টি করে থাকেন আর সবকিছু জানেন, তবে কোন জিনিস এখনো এমনভাবে লুকিয়ে রাখছি, যেন তা তাঁর অজানা থেকে যাবে?",
+      "আল্লাহর শানে মানায় না এমন কথা শুনলে আমি কি আয়াতের মতো শান্ত প্রশ্ন দিয়ে জবাব দিই, নাকি রাগ দিয়ে?",
+      "আল্লাহকে নিয়ে আমার মুখে লেগে থাকা কোন কথাগুলো আবার বলার আগে এ আয়াতের সঙ্গে মিলিয়ে দেখা দরকার?"
+    ],
+    "lessonEn": "Speak of Allah only as the One who made everything without a model, needs neither consort nor child, and knows all that He made.",
+    "lessonBn": "আল্লাহর কথা বলুন কেবল এভাবে: তিনি কোনো নমুনা ছাড়াই সবকিছু বানিয়েছেন, সঙ্গিনী বা সন্তানের কোনো দরকার তাঁর নেই, আর যা বানিয়েছেন তার সবই তিনি জানেন।"
   }
 };
 

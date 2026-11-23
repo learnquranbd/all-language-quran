@@ -4667,6 +4667,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:101": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Reply to Sons and Daughters",
+          "bn": "পুত্র-কন্যার দাবির জবাব"
+        },
+        "p": [
+          {
+            "en": "From 6:95 to 6:99 the surah lays out a run of signs: the seed and the date stone split open, daybreak, the stars for finding the way, mankind from one soul, rain and the fruit it raises. Then 6:100 records what some made of it all: they gave Allah the jinn as partners, though He created them, and invented sons and daughters for Him without knowledge. This verse is the answer, and 6:102 draws the conclusion: that is Allah, your Lord, so worship Him.",
+            "bn": "৬:৯৫ থেকে ৬:৯৯ পর্যন্ত সূরাটি একের পর এক নিদর্শন সাজিয়েছে: বীজ আর খেজুরের আঁটি ফেটে চারা বের হওয়া, ভোরের আলো, পথ চেনার জন্য তারা, একটি প্রাণ থেকে গোটা মানবজাতি, বৃষ্টি আর তাতে জন্মানো ফল। তারপর ৬:১০০ জানায়, কিছু মানুষ এসব দেখে কী বানিয়ে নিল। তারা জিনকে আল্লাহর শরিক করল, অথচ জিনকে তিনিই সৃষ্টি করেছেন। না জেনে তাঁর জন্য পুত্র ও কন্যা বানিয়ে নিল। এ আয়াত সেই দাবির জবাব। আর ৬:১০২ উপসংহার টানে: তিনিই আল্লাহ, তোমাদের রব, কাজেই তাঁরই ইবাদত করো।"
+          },
+          {
+            "en": "At-Tabari reads the verse as continuing that sentence: Allah, to whom these disbelievers assigned the jinn as partners and for whom they fabricated sons and daughters, is the Originator of the heavens and the earth. Who made the claim is spelled out in the comments on 6:100. Ibn Kathir names those among the Jews who said it of 'Uzayr, those among the Christians who said it of the Messiah, and the Arab polytheists who called the angels daughters of Allah. At-Tabari relays the same picture from as-Suddi and from Ibn Zayd. The verse itself names no one; it answers a claim.",
+            "bn": "তাবারী আয়াতটিকে আগের বাক্যেরই ধারাবাহিকতা হিসেবে পড়েন। এই অবিশ্বাসীরা যে আল্লাহর জন্য জিনকে শরিক বানিয়েছে, পুত্র-কন্যা গড়ে নিয়েছে, তিনিই আসমান ও জমিনের উদ্ভাবক। দাবিটা কারা করেছিল, তা খুলে বলা হয়েছে ৬:১০০ আয়াতের ব্যাখ্যায়। ইবন কাসীর তিন দলের কথা বলেন: ইহুদিদের মধ্যে যারা উযাইরকে নিয়ে এ কথা বলেছে, খ্রিস্টানদের মধ্যে যারা মাসীহকে নিয়ে বলেছে, আর আরবের মুশরিকরা, যারা ফেরেশতাদের আল্লাহর কন্যা বলত। তাবারী সুদ্দী ও ইবন যায়দ থেকে একই চিত্র তুলে আনেন। তবে আয়াত নিজে কারও নাম নেয় না। সে জবাব দেয় একটি দাবির।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made When Nothing Was",
+          "bn": "যখন কিছুই ছিল না"
+        },
+        "p": [
+          {
+            "en": "Badi'u as-samawati wal-ard: Originator of the heavens and the earth. Ibn Kathir glosses badi' as the one who originated, created, produced and brought them into being on no model that went before, and credits the explanation to Mujahid and as-Suddi. From the same root, he adds, bid'ah takes its name, because it has no counterpart in what came earlier. Al-Baghawi's gloss is the same in brief: their originator, not on a prior model. Al-Muyassar includes everything within them: He brought it all into being without a previous pattern.",
+            "bn": "বাদীউস সামাওয়াতি ওয়াল আরদ: আসমান ও জমিনের উদ্ভাবক। ইবন কাসীর বাদী শব্দের ব্যাখ্যা দেন এভাবে: যিনি এগুলো উদ্ভাবন করেছেন, সৃষ্টি করেছেন, গড়ে তুলেছেন, অস্তিত্বে এনেছেন, আগের কোনো নমুনা ছাড়া। এ ব্যাখ্যা তিনি মুজাহিদ ও সুদ্দীর বলে উল্লেখ করেন। তিনি আরও বলেন, একই ধাতু থেকে বিদআত শব্দের নাম এসেছে, কারণ আগের যুগে তার কোনো জুড়ি ছিল না। বাগাভীর ব্যাখ্যাও সংক্ষেপে একই: এ দুইয়ের উদ্ভাবক, আগের কোনো নমুনার উপর নয়। মুয়াসসার এর মধ্যে ভেতরের সবকিছুও ধরেছে: আসমান, জমিন আর তাদের মধ্যকার সবকিছু তিনি অস্তিত্বে এনেছেন পূর্বের কোনো ছাঁচ ছাড়াই।"
+          },
+          {
+            "en": "At-Tabari lays the stress elsewhere. Badi', for him, means the one who began them, brought them about and gave them existence after they had not been. He supports it with Ibn Zayd: He is the one who originated their creation, and He created them when they had been nothing before. The other glosses look at the missing model; at-Tabari looks at the missing existence. These are two accents on one word, not a dispute, and together they leave nothing beside Allah that could have served as His material or His pattern.",
+            "bn": "তাবারী জোর দেন অন্য জায়গায়। তাঁর কাছে বাদী মানে, যিনি এগুলোর সূচনা করেছেন, ঘটিয়েছেন, আর অস্তিত্বহীন অবস্থা থেকে অস্তিত্ব দিয়েছেন। এর সমর্থনে তিনি ইবন যায়দের কথা আনেন: তিনিই এ দুইয়ের সৃষ্টি উদ্ভাবন করেছেন, আর সেগুলো সৃষ্টি করেছেন যখন আগে তারা কিছুই ছিল না। অন্যদের ব্যাখ্যা তাকায় নমুনার অনুপস্থিতির দিকে, আর তাবারী তাকান অস্তিত্বের অনুপস্থিতির দিকে। এটা মতভেদ নয়, একই শব্দের দুই দিকের উপর জোর। দুটো মিলে দাঁড়ায় এই: আল্লাহ ছাড়া এমন কিছুই ছিল না, যা থেকে তিনি উপাদান নেবেন বা নকশা ধার করবেন।"
+          },
+          {
+            "en": "As-Sa'di adds the quality of the work: their Creator who perfected their making on no earlier pattern, in the finest form, order and splendour, such that the minds of the thoughtful could not propose its like, and with no partner in creating them. Al-Qurtubi notes the grammar: badi' is the predicate of an unstated subject, He is the Originator. Al-Kisa'i allowed other case endings for it, and al-Qurtubi reports that the grammarians of Basra count that an error. The same name opens 2:117.",
+            "bn": "সা'দী যোগ করেন কাজের মানের কথা। তিনি এ দুইয়ের স্রষ্টা, যিনি কোনো পূর্ব-নমুনা ছাড়াই এদের গঠন নিখুঁত করেছেন। সবচেয়ে সুন্দর গড়ন, শৃঙ্খলা আর সৌন্দর্যে, এমনভাবে যে বিবেকবান মানুষের বুদ্ধি এর মতো কিছু প্রস্তাবও করতে পারে না। আর এদের সৃষ্টিতে তাঁর কোনো অংশীদার নেই। কুরতুবী ব্যাকরণের দিকটা দেখান: বাদী এখানে একটি উহ্য কর্তার বিধেয়, অর্থাৎ তিনিই উদ্ভাবক। কিসাঈ এর অন্য বিভক্তিও জায়েয বলেছেন, আর কুরতুবী জানান, বসরার ব্যাকরণবিদরা সেটাকে ভুল মনে করেন। একই নাম দিয়ে শুরু হয়েছে ২:১১৭।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How, and From Where",
+          "bn": "কীভাবে, আর কোথা থেকে"
+        },
+        "p": [
+          {
+            "en": "Anna yakunu lahu waladun: how could He have a child? Ibn Kathir, al-Baghawi and al-Muyassar all gloss anna as kayfa, how. Al-Qurtubi gives min ayna, from where, so the question asks both how such a thing could be and where it could come from. Then wa-lam takun lahu sahibah: when He has no consort. Al-Baghawi, al-Qurtubi and as-Sa'di gloss sahibah plainly as wife. The verse does not state the denial bare; it puts it as a question and leaves the listener to answer it.",
+            "bn": "আন্না ইয়াকূনু লাহু ওয়ালাদ: তাঁর সন্তান হবে কীভাবে? ইবন কাসীর, বাগাভী আর মুয়াসসার আন্না শব্দের অর্থ করেন কাইফা, অর্থাৎ কীভাবে। কুরতুবী অর্থ করেন মিন আইনা, অর্থাৎ কোথা থেকে। ফলে প্রশ্নটা দুটোই জানতে চায়: এমন হওয়া সম্ভব কীভাবে, আর তা আসবেই বা কোথা থেকে। তারপর ওয়া লাম তাকুন লাহু সাহিবাহ: অথচ তাঁর কোনো সঙ্গিনী নেই। বাগাভী, কুরতুবী আর সা'দী সাহিবাহ শব্দের সোজা অর্থ করেন স্ত্রী। আয়াত অস্বীকারটা খালি ঘোষণা করে না। প্রশ্নের আকারে রাখে, আর উত্তরটা শ্রোতার উপর ছেড়ে দেয়।"
+          },
+          {
+            "en": "The commentators then supply the reasoning the question invites. At-Tabari: a child comes only from a male and a female, and it is not fitting that Allah should have a consort so as to have a child by her. Since nothing exists that Allah did not create, from where would He have a child when He has no consort by whom to have it? Ibn Kathir puts it as fit: a child is born of two things suited to each other, and nothing is suited to Allah or resembles Him, because He created everything.",
+            "bn": "প্রশ্নটা যে যুক্তির দিকে ডাকে, তাফসীরকারেরা তা খুলে দেন। তাবারী বলেন, সন্তান হয় কেবল নর ও নারী থেকে। আর আল্লাহর জন্য সঙ্গিনী থাকা, যার মাধ্যমে তাঁর সন্তান হবে, তাঁর শানে মানায় না। যেহেতু আল্লাহর সৃষ্টি নয় এমন কিছুই নেই, তাই যাঁর কোনো সঙ্গিনী নেই, তাঁর সন্তান আসবে কোথা থেকে? ইবন কাসীর কথাটা বলেন মিলের ভাষায়। সন্তান জন্মায় পরস্পরের সঙ্গে মানানসই দুটি জিনিস থেকে। আর কোনো কিছুই আল্লাহর সঙ্গে মানানসই নয়, তাঁর সদৃশও নয়, কারণ সবকিছু তিনিই সৃষ্টি করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi shortens it to one line: the child of anything is its likeness, and He has no likeness. As-Sa'di frames it through kind and need. A child must be of its parent's kind, and nothing created resembles Allah in any respect. He is al-Ilah, as-Sayyid, as-Samad, with no wife; He is free of need of His creatures, and all of them are poor before Him, in want of Him in every state. Four routes, then, and one conclusion: the claim breaks on the nature of the One it is made about.",
+            "bn": "কুরতুবী এক বাক্যে সেরে দেন: যে কোনো কিছুর সন্তান তার সদৃশ হয়, আর তাঁর কোনো সদৃশ নেই। সা'দী বিষয়টি দেখেন জাত আর প্রয়োজনের দিক থেকে। সন্তানকে অবশ্যই বাবার জাতের হতে হয়, আর সৃষ্টির কোনো কিছুই কোনো দিক থেকে আল্লাহর মতো নয়। তিনি ইলাহ, সাইয়িদ, সামাদ, তাঁর কোনো স্ত্রী নেই। সৃষ্টির কাছে তাঁর কোনো প্রয়োজন নেই, অথচ সব সৃষ্টিই তাঁর মুখাপেক্ষী, প্রতিটি অবস্থায় তাঁর কাছে নিরুপায়। পথ তাহলে চারটি, সিদ্ধান্ত একটাই: দাবিটা ভেঙে পড়ে তাঁর সত্তার সামনে, যাঁর সম্পর্কে দাবিটা করা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Claim That Assigns Need",
+          "bn": "দাবির ভেতরে লুকানো অভাব"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, on the verse before, explains why sons, daughters and a consort cannot describe Allah. They belong to the description of His creatures, among whom there is the union from which children come, and whom weakness drives through desire to take a consort. Allah is not incapable, so that anything could force Him to anything, nor weak and needy, so that a need could call Him to take a consort. They said it, he adds, without knowledge of what they were saying, out of ignorance of Allah and His greatness.",
+            "bn": "আগের আয়াতের ব্যাখ্যায় তাবারী বুঝিয়ে বলেন, পুত্র, কন্যা বা সঙ্গিনী কেন আল্লাহর গুণ হতে পারে না। এগুলো তাঁর সৃষ্টির বৈশিষ্ট্য। তাদের মধ্যে মিলন হয়, তা থেকে সন্তান আসে। দুর্বলতার কারণে কামনা তাদের সঙ্গিনী নিতে বাধ্য করে। আল্লাহ অক্ষম নন যে কোনো কিছু তাঁকে কোনো কিছুতে বাধ্য করবে। তিনি দুর্বল বা অভাবীও নন যে প্রয়োজন তাঁকে সঙ্গিনী নিতে ডাকবে। তাবারী আরও বলেন, তারা কথাটা বলেছে নিজেদের কথার বাস্তবতা না জেনে, আল্লাহ ও তাঁর মহত্ত্ব সম্পর্কে অজ্ঞতা থেকে।"
+          },
+          {
+            "en": "Seen this way, the claim is no honour paid to Allah. It lends Him the needs of the creatures He made. Ibn Kathir closes on the same note: how could He have a consort from His creation suited to Him, when nothing is His equal, and how then a child? He sets beside it 19:88 to 19:95: they say the Most Merciful has taken a son; you have brought something monstrous; the heavens almost burst from it; and each of them will come to Him alone on the Day of Resurrection.",
+            "bn": "এভাবে দেখলে দাবিটা আল্লাহর প্রতি কোনো সম্মান নয়। বরং যে সৃষ্টিকে তিনি বানিয়েছেন, তাদের অভাবগুলো তাঁর উপর চাপিয়ে দেওয়া। ইবন কাসীর এ সুরেই শেষ করেন: যাঁর সমকক্ষ কিছুই নেই, তাঁর সৃষ্টির ভেতর থেকে তাঁর উপযুক্ত সঙ্গিনী আসবে কোথা থেকে? আর সন্তানই বা হবে কীভাবে? এর পাশে তিনি রাখেন ১৯:৮৮ থেকে ১৯:৯৫ আয়াত। তারা বলে, দয়াময় সন্তান গ্রহণ করেছেন। তোমরা এক ভয়ংকর কথা নিয়ে এসেছ। এতে আসমান প্রায় ফেটে পড়ে। আর কিয়ামতের দিন তাদের প্রত্যেকে তাঁর কাছে আসবে একা একা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Thing, Read With Care",
+          "bn": "সবকিছু, তবে সতর্ক পাঠে"
+        },
+        "p": [
+          {
+            "en": "Wa-khalaqa kulla shay'in wa-huwa bi-kulli shay'in 'alim: He created all things, and He knows all things. At-Tabari: Allah created everything, and there is no creator besides Him. Everything set up beside Him is His creation, His servant and His possession, whether it is whoever they call lord and claim as His child, or a jinn, or a human. Nothing He created is hidden from Him, not an atom's weight in earth or sky. He counts their deeds, and the deeds of those they called upon, until He repays each for what it did.",
+            "bn": "ওয়া খালাকা কুল্লা শাইইন ওয়া হুয়া বিকুল্লি শাইইন আলীম: তিনি সবকিছু সৃষ্টি করেছেন, আর তিনি সবকিছু জানেন। তাবারী বলেন, আল্লাহই সবকিছু সৃষ্টি করেছেন, তিনি ছাড়া কোনো স্রষ্টা নেই। তাঁর পাশে যাকেই দাঁড় করানো হোক, সে তাঁর সৃষ্টি, তাঁর বান্দা, তাঁর মালিকানাধীন। হোক সে এমন কেউ, যাকে তারা রব ডাকে আর তাঁর সন্তান বলে দাবি করে, কিংবা কোনো জিন বা মানুষ। তাঁর সৃষ্টির কিছুই তাঁর কাছে গোপন নেই, জমিনে বা আসমানে অণু পরিমাণও না। তিনি তাদের আমল গুনে রাখেন, আর যাদের তারা ডেকেছে তাদের আমলও, যতক্ষণ না প্রত্যেককে তার কাজের প্রতিদান দেন।"
+          },
+          {
+            "en": "As-Sa'di notices the order. Having named the reach of His creating, the verse names the reach of His knowing, and knowledge placed after creation points to a proof the mind can follow: the created world, with its complete order and dazzling making, shows how wide the Creator's knowledge is and how perfect His wisdom. He cites 67:14, does He not know, He who created, and He is the Subtle, the Aware; and 36:81, He is the Creator, the Knowing. A design this exact cannot come from a maker who does not know.",
+            "bn": "সা'দী লক্ষ করেন ক্রমটা। সৃষ্টির ব্যাপ্তির কথা বলার পর আয়াত বলে জ্ঞানের ব্যাপ্তির কথা। সৃষ্টির পরে জ্ঞানের উল্লেখ এমন এক প্রমাণের দিকে ইঙ্গিত করে, যা বুদ্ধি দিয়ে বোঝা যায়। এই সৃষ্টিজগৎ, তার পূর্ণ শৃঙ্খলা আর চোখ ধাঁধানো গঠন নিয়ে, দেখিয়ে দেয় স্রষ্টার জ্ঞান কত বিস্তৃত, তাঁর হিকমত কত পূর্ণ। তিনি উদ্ধৃত করেন ৬৭:১৪: যিনি সৃষ্টি করেছেন তিনি কি জানবেন না? তিনি সূক্ষ্মদর্শী, সব খবর রাখেন। আর ৩৬:৮১: তিনিই মহাস্রষ্টা, সর্বজ্ঞ। এত নিখুঁত নকশা যে জানে না, তার হাত থেকে আসতে পারে না।"
+          },
+          {
+            "en": "Al-Qurtubi adds a caution on reading every. Kulli shay' here is general in wording and specific in meaning: He created the world, and His speech and the other attributes of His essence do not enter it. He compares 7:156, My mercy encompasses every thing, which, he says, did not take in Iblis or whoever died a disbeliever; and 46:25, the wind destroying every thing, which did not destroy the heavens and the earth. The word every in the Qur'an is read against what the sentence is about.",
+            "bn": "কুরতুবী 'সবকিছু' শব্দটা পড়ার ব্যাপারে একটা সতর্কতা যোগ করেন। এখানে কুল্লি শাই শব্দে সাধারণ, অর্থে নির্দিষ্ট। অর্থাৎ তিনি জগৎ সৃষ্টি করেছেন। তাঁর কালাম আর তাঁর সত্তার অন্য গুণাবলি এর মধ্যে পড়ে না। তিনি তুলনা টানেন ৭:১৫৬ আয়াতের সঙ্গে: আমার রহমত সবকিছুকে ঘিরে আছে। তাঁর মতে তা ইবলিসকে বা কাফির অবস্থায় মৃত ব্যক্তিকে ঘিরে নেয়নি। আর ৪৬:২৫ আয়াতের সঙ্গে, যেখানে বাতাস সবকিছু ধ্বংস করে, অথচ আসমান-জমিন ধ্বংস হয়নি। কুরআনে 'সবকিছু' পড়তে হয় বাক্যটা কী নিয়ে, সেটা মাথায় রেখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Consort Nor Offspring",
+          "bn": "না সঙ্গিনী, না সন্তান"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith to it. Two narrations in al-Bukhari's Sahih speak to the same claim; both are general and not tied to this verse. The first is a saying the Prophet ﷺ relays from his Lord, and its closing words in Arabic, sahibatan aw waladan, are the very pair this verse names: consort and child. The second speaks of how Allah treats the people who make the claim.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। বুখারীর সহীহ গ্রন্থে দুটি বর্ণনা একই দাবির কথা বলে। দুটিই সাধারণ বর্ণনা, এ আয়াতের সঙ্গে বাঁধা নয়। প্রথমটিতে নবী ﷺ তাঁর রবের কথা বর্ণনা করেছেন। তার শেষ আরবি শব্দ দুটি, সাহিবাতান আও ওয়ালাদান, ঠিক সেই জোড়া, যার কথা এ আয়াত বলে: সঙ্গিনী আর সন্তান। দ্বিতীয়টি জানায়, যারা এ দাবি করে, আল্লাহ তাদের সঙ্গে কেমন আচরণ করেন।"
+          },
+          {
+            "en": "Al-Bukhari 4482, from Ibn 'Abbas (RA): The Prophet ﷺ said, Allah said, The son of Adam tells a lie against me though he has no right to do so, and he abuses Me though he has no right to do so. As for his telling a lie against Me, it is that he claims that I cannot recreate him as I created him before; and as for his abusing Me, it is his statement that I have offspring. No! Glorified be Me! I am far from taking a wife or offspring.",
+            "bn": "বুখারী ৪৪৮২, ইবন আব্বাস (রাঃ) থেকে: নবী ﷺ বলেছেন, আল্লাহ বলেন: আদম সন্তান আমাকে মিথ্যাবাদী বলে, অথচ এর অধিকার তার নেই। সে আমাকে গালি দেয়, অথচ এর অধিকারও তার নেই। আমাকে মিথ্যাবাদী বলা হলো তার এই দাবি যে, আমি তাকে আগের মতো আবার সৃষ্টি করতে পারব না। আর আমাকে গালি দেওয়া হলো তার এই কথা যে, আমার সন্তান আছে। না! আমি পবিত্র! স্ত্রী বা সন্তান গ্রহণ করা থেকে আমি বহু ঊর্ধ্বে।"
+          },
+          {
+            "en": "Al-Bukhari 6099, from Abu Musa (RA): The Prophet ﷺ said: None is more patient than Allah against the harmful saying. He hears from the people they ascribe children to Him, yet He gives them health and (supplies them with) provision. The first hadith calls the claim abuse. The verse meets it with a question put to reason, and the Lord it describes goes on keeping well and feeding the very people who make it.",
+            "bn": "বুখারী ৬০৯৯, আবু মূসা (রাঃ) থেকে: নবী ﷺ বলেছেন, কষ্টদায়ক কথা শুনে আল্লাহর চেয়ে বেশি ধৈর্যশীল আর কেউ নেই। তিনি মানুষের কাছ থেকে শোনেন, তারা তাঁর সন্তান আছে বলে দাবি করে, তবুও তিনি তাদের সুস্থ রাখেন আর রিযিক দেন। প্রথম হাদীস দাবিটাকে বলেছে গালি। আয়াত তার মোকাবিলা করে বুদ্ধির কাছে রাখা এক প্রশ্ন দিয়ে। আর আয়াত যে রবের পরিচয় দেয়, তিনি সেই দাবিদারদেরও সুস্থ রাখেন, খাওয়ান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Belief Answered, Not People",
+          "bn": "জবাব বিশ্বাসের, মানুষের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse answers a claim as the text describes it, and the groups named above come from the commentaries on 6:100, as part of the verse's history. It licenses nothing against any living person or community, Christian, Jewish or any other: no insult, no contempt and no harm. A few verses later, 6:108 forbids reviling what others call upon besides Allah, lest they revile Allah in ignorance. The verse's own method is the one to follow: a reasoned question, stated calmly.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি দাবির জবাব দেয়, যেমনটা পাঠে বর্ণিত। উপরে যে দলগুলোর নাম এসেছে, তা এসেছে ৬:১০০ আয়াতের তাফসীর থেকে, আয়াতের ইতিহাসের অংশ হিসেবে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে, খ্রিস্টান, ইহুদি বা অন্য যে কেউ হোক, এ আয়াত কোনো কিছুর অনুমতি দেয় না। না গালির, না অবজ্ঞার, না ক্ষতির। কয়েক আয়াত পরেই ৬:১০৮ নিষেধ করে, আল্লাহ ছাড়া যাদের তারা ডাকে তাদের গালি দিতে, পাছে তারা না জেনে আল্লাহকে গালি দেয়। অনুসরণ করার পথ আয়াতের নিজের পথ: শান্তভাবে রাখা যুক্তির প্রশ্ন।"
+          },
+          {
+            "en": "The passage keeps the Prophet's role in view as well. In 6:104 the speaker says, I am not a guardian over you, and 6:107 adds that Allah did not make him a keeper over them. The truth about Allah is stated in full here, with no softening: He has no consort and no child. Stating it is the believer's part. What a listener does with it belongs to that listener and to his Lord, who knows every thing, as this verse closes by saying.",
+            "bn": "অংশটি নবী ﷺ-এর দায়িত্বের সীমাও মনে করিয়ে দেয়। ৬:১০৪ আয়াতে বক্তা বলেন, আমি তোমাদের পাহারাদার নই। আর ৬:১০৭ যোগ করে, আল্লাহ তাঁকে তাদের উপর তত্ত্বাবধায়ক বানাননি। আল্লাহ সম্পর্কে সত্যটা এখানে পুরোপুরি বলা হয়েছে, একটুও নরম না করে: তাঁর কোনো সঙ্গিনী নেই, কোনো সন্তান নেই। কথাটা স্পষ্ট করে বলা মুমিনের দায়িত্ব। শ্রোতা তা নিয়ে কী করবে, সেটা শ্রোতা আর তার রবের ব্যাপার। আর এ আয়াত শেষই হয় এ কথায় যে, তিনি সবকিছু জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keeping the Picture Whole",
+          "bn": "ছবিটা পূর্ণ রাখা"
+        },
+        "p": [
+          {
+            "en": "Few readers of this verse would say Allah has a son. The subtler risk is a smaller picture of Him: a Lord who needs my worship, can be bargained with, or might miss what happens in private. As-Sa'di's words answer it: He is free of need of His creatures, and they are in want of Him in every state. And the jinn, whom 6:100 says were made His partners, say of Him in 72:3 that He has taken neither consort nor child; 112:3 says He neither begets nor was born.",
+            "bn": "এ আয়াতের পাঠকদের খুব কম জনই বলবেন, আল্লাহর সন্তান আছে। সূক্ষ্ম বিপদটা হলো তাঁর ছবি মনের ভেতর ছোট হয়ে যাওয়া। যেন এমন রব, যাঁর আমার ইবাদতের দরকার, যাঁর সঙ্গে দরকষাকষি চলে, কিংবা গোপনে যা ঘটে তা যাঁর চোখ এড়িয়ে যেতে পারে। সা'দীর কথাই এর জবাব: সৃষ্টির কাছে তাঁর কোনো প্রয়োজন নেই, আর প্রতিটি অবস্থায় সৃষ্টি তাঁর মুখাপেক্ষী। ৬:১০০ বলে, জিনকে তাঁর শরিক বানানো হয়েছিল। অথচ ৭২:৩ আয়াতে সেই জিনেরাই বলে, তিনি কোনো সঙ্গিনী বা সন্তান গ্রহণ করেননি। আর ১১২:৩ বলে, তিনি কাউকে জন্ম দেননি, কারও থেকে জন্মও নেননি।"
+          },
+          {
+            "en": "The verse also gives the reader two habits. Badi' asks for wonder: 6:99 has just commanded a look at fruit as it forms and ripens, and nothing in it had a model before Him. 'Alim asks for honesty: at-Tabari reads it as knowledge that counts every deed until each is repaid. So look at what grows and remember who began it with nothing to copy, and live in private as someone known completely by the Lord who made him.",
+            "bn": "আয়াতটি পাঠককে দুটি অভ্যাসও দেয়। বাদী নামটি ডাকে বিস্ময়ের দিকে। ৬:৯৯ এইমাত্র আদেশ দিয়েছে, ফল ধরা আর পাকার সময় তার দিকে তাকাও। এর কোনো কিছুরই তাঁর আগে কোনো নমুনা ছিল না। আলীম নামটি ডাকে সততার দিকে। তাবারী এর অর্থ করেন এমন জ্ঞান, যা প্রতিটি আমল গুনে রাখে, যতক্ষণ না প্রত্যেককে প্রতিদান দেওয়া হয়। তাই যা জন্মায় তার দিকে তাকান, আর মনে রাখুন, কোনো নমুনা ছাড়াই কে এর সূচনা করেছেন। আর একান্তে এমনভাবে চলুন, যেন আপনাকে যিনি বানিয়েছেন, তিনি আপনাকে পুরোপুরি জানেন।"
+          }
+        ]
+      }
+    ]
+  },
   "6:103": {
     "sections": [
       {
