@@ -3127,6 +3127,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:64": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Hope Whispered in Private",
+          "bn": "গোপনে বলা এক আশা"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan, and this verse sits inside a run of portraits of the hypocrites, several of them opening with and of them: some found fault with the Prophet ﷺ over the charities (9:58), some harmed him and called him an ear (9:61), and some swore by Allah to please the believers (9:62). Verse 9:63 then asks whether they do not know that whoever opposes Allah and His Messenger has the Fire. Verse 9:64 follows, and it describes not something they did but something they feared.",
+            "bn": "সূরা তাওবা মাদানী। এ আয়াত দাঁড়িয়ে আছে মুনাফিকদের নিয়ে একটানা কয়েকটি চিত্রের মাঝখানে, যার কয়েকটি শুরু হয় 'আর তাদের মধ্যে' কথাটি দিয়ে। কেউ সদাকা বণ্টন নিয়ে নবী ﷺ-এর দোষ ধরত (৯:৫৮), কেউ তাঁকে কষ্ট দিত আর বলত তিনি তো কান-সর্বস্ব (৯:৬১), কেউ মুমিনদের খুশি করতে আল্লাহর নামে কসম খেত (৯:৬২)। তারপর ৯:৬৩ আয়াত প্রশ্ন তোলে: তারা কি জানে না, আল্লাহ ও তাঁর রাসূলের বিরোধিতা যে করে তার জন্য আছে জাহান্নাম? এরপরই ৯:৬৪। এখানে তাদের কোনো কাজের কথা নেই, আছে তাদের একটা ভয়ের কথা।"
+          },
+          {
+            "en": "What they feared is recorded by at-Tabari, with his chain, from Mujahid: they would say something among themselves, and then say, perhaps Allah will not let this secret of ours out. Ibn Kathir relays the same words from Mujahid. At-Tabari also gives an account of the circumstance, introduced with it is said: whenever the hypocrites found fault with the Messenger ﷺ, or spoke of his affairs and those of the Muslims, they would add, perhaps Allah will not disclose our secret. On that account, the verse was sent down as the answer to that hope.",
+            "bn": "ভয়টা কী ছিল, তাবারী নিজের সনদে মুজাহিদ থেকে তা বর্ণনা করেছেন। তারা নিজেদের মধ্যে কোনো কথা বলত, তারপর বলত: আল্লাহ হয়তো আমাদের এই গোপন কথা ফাঁস করবেন না। ইবন কাসীরও মুজাহিদ থেকে একই কথা এনেছেন। তাবারী 'বলা হয়' কথাটি দিয়ে আরেকটি বিবরণও দেন। মুনাফিকরা যখনই রাসূল ﷺ-এর দোষ ধরত, কিংবা তাঁর আর মুসলিমদের কোনো ব্যাপার নিয়ে কথা বলত, শেষে জুড়ে দিত: আল্লাহ হয়তো আমাদের গোপন কথা প্রকাশ করবেন না। এই বিবরণ অনুযায়ী আয়াতটি নাযিল হয়েছিল ঠিক ওই আশার জবাব হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Reported, or Commanded",
+          "bn": "খবর, নাকি হুকুম"
+        },
+        "p": [
+          {
+            "en": "Yahdharu al-munafiqun: the hypocrites are wary. Al-Qurtubi glosses the verb as yataharraz, to keep on guard, and states that it is a report, not a command. His evidence is the clause that follows, Allah will bring out what you are wary of, which only fits people who really were afraid; they disbelieved, he says, out of obstinacy. He then records the other view, from the grammarian az-Zajjaj: its meaning is let them beware, so it is a command, phrased in the form of a report, as Arabic sometimes does.",
+            "bn": "ইয়াহযারুল মুনাফিকূন: মুনাফিকরা সতর্ক থাকে, ভয় পায়। কুরতুবী ক্রিয়াটির অর্থ করেন ইয়াতাহাররায, অর্থাৎ নিজেকে সামলে চলা। তাঁর মতে এটি খবর, আদেশ নয়। প্রমাণ হিসেবে তিনি পরের অংশটি দেখান: তোমরা যা ভয় করো, আল্লাহ তা বের করে আনবেন। কথাটা কেবল তাদের বেলায় খাটে, যারা সত্যিই ভয় পেত। তিনি বলেন, তাদের কুফর ছিল জেদ থেকে। এরপর তিনি অন্য মতটিও আনেন, ব্যাকরণবিদ যাজ্জাজের মত। তাঁর মতে এর অর্থ 'তারা যেন সাবধান হয়', অর্থাৎ এটি আদেশ, তবে আরবিতে যেমন মাঝে মাঝে হয়, খবরের আকারে বলা।"
+          },
+          {
+            "en": "A second question sits in the word alayhim, upon them. A surah comes down upon a prophet, not upon hypocrites, so on whom? Al-Qurtubi and al-Baghawi both answer that the pronoun points to the believers: a surah sent down to the believers concerning the hypocrites. At-Tabari paraphrases the phrase as tunazzal fihim, sent down about them, and reaches the same sense by another route. Al-Qurtubi also records a grammarians' discussion of how the clause is governed, Sibawayh allowing a construction that al-Mubarrad would not, but nothing in it changes the meaning.",
+            "bn": "দ্বিতীয় প্রশ্নটা 'আলাইহিম' শব্দে, অর্থাৎ তাদের উপর। সূরা তো নাযিল হয় নবীর উপর, মুনাফিকদের উপর নয়। তাহলে কার উপর? কুরতুবী আর বাগাভী দুজনেই বলেন, সর্বনামটি মুমিনদের দিকে ইঙ্গিত করছে। অর্থাৎ মুনাফিকদের ব্যাপারে মুমিনদের উপর নাযিল হওয়া সূরা। তাবারী বাক্যাংশটির ব্যাখ্যা করেন 'তুনাযযালু ফীহিম' দিয়ে, মানে তাদের সম্পর্কে নাযিল হওয়া। ভিন্ন পথে তিনিও একই অর্থে পৌঁছান। কুরতুবী বাক্যটির গঠন নিয়ে ব্যাকরণবিদদের একটি আলোচনাও উল্লেখ করেন। সিবাওয়াইহ যে গঠন বৈধ বলেছেন, মুবাররিদ তা মানেননি। তবে এতে অর্থে কোনো পরিবর্তন আসে না।"
+          },
+          {
+            "en": "The commentators also differ on who is being told in tunabbi'uhum, informing them. Al-Muyassar reads it plainly: a surah informing the hypocrites of the disbelief they conceal in their hearts. As-Sa'di reads it as informing and exposing them, laying their secrets open until they are public to Allah's servants and a lesson to whoever takes heed. At-Tabari glosses it differently: it makes the believers aware of what is in the hypocrites' hearts. On his reading the news is for the community, not for the hypocrites, who already knew what they were hiding.",
+            "bn": "'তুনাব্বিউহুম', অর্থাৎ তাদের জানিয়ে দেবে। কিন্তু জানানো হচ্ছে কাকে, এ নিয়েও তাফসীরকারদের মধ্যে পার্থক্য আছে। মুয়াসসার সোজা অর্থ করে: এমন সূরা, যা মুনাফিকদের জানিয়ে দেবে তারা মনে কোন কুফর লুকিয়ে রেখেছে। সা'দীর ব্যাখ্যায় সূরাটি তাদের জানায় এবং লাঞ্ছিতও করে। তাদের গোপন কথা খুলে দেয়, যাতে আল্লাহর বান্দাদের সামনে তা প্রকাশ্য হয়ে যায় আর শিক্ষা নিতে চাওয়া মানুষের জন্য তারা দৃষ্টান্ত হয়। তাবারীর ব্যাখ্যা ভিন্ন। তাঁর মতে সূরাটি মুমিনদের জানিয়ে দেয় মুনাফিকদের অন্তরে কী আছে। এ পাঠে খবরটা উম্মাহর জন্য। মুনাফিকরা তো আগে থেকেই জানত তারা কী লুকাচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Deniers Feared Revelation",
+          "bn": "অস্বীকারকারীর ওহির ভয়"
+        },
+        "p": [
+          {
+            "en": "The verse raises an obvious puzzle. If the hypocrites did not believe the Prophet ﷺ was receiving revelation, why fear what a surah might say? Al-Qurtubi's short answer, given while arguing that the verb is a report, is that they disbelieved out of obstinacy, which leaves room for a fear their words denied. At the end of his discussion he sorts them more finely: some of the hypocrites wavered, settling neither on calling Muhammad ﷺ a liar nor on believing him, and some among them knew he was truthful and resisted him anyway.",
+            "bn": "আয়াতটি একটা স্পষ্ট ধাঁধা তৈরি করে। মুনাফিকরা যদি বিশ্বাসই না করত যে নবী ﷺ-এর কাছে ওহি আসে, তবে কোনো সূরা কী বলবে তা নিয়ে ভয় কেন? ক্রিয়াটিকে খবর প্রমাণ করতে গিয়ে কুরতুবী সংক্ষেপে উত্তর দেন: তাদের কুফর ছিল জেদ থেকে। তাহলে মুখে যা অস্বীকার করত, মনে তারই ভয় থাকার সুযোগ থেকে যায়। আলোচনার শেষে তিনি তাদের আরও সূক্ষ্মভাবে ভাগ করেন। কিছু মুনাফিক দোদুল্যমান ছিল। মুহাম্মাদ ﷺ-কে মিথ্যাবাদী বলেও নিশ্চিত হয়নি, সত্যবাদী বলেও মানেনি। আর তাদের কেউ কেউ জানত তিনি সত্যবাদী, তবুও বিরোধিতা করত।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside 58:8, which describes people who greet the Prophet ﷺ with a greeting Allah never gave him and say within themselves, why does Allah not punish us for what we say? Ibn Kathir calls the two verses similar, and the likeness is in the habit they share. In 58:8 the speakers took Allah's delay as proof that nothing would follow; in 9:64 they lived in the hope that their talk would stay private. Both wagers rested on silence from heaven, and in both cases a verse came down naming the wager.",
+            "bn": "ইবন কাসীর আয়াতটিকে রাখেন ৫৮:৮ আয়াতের পাশে। সেখানে এমন লোকদের কথা আছে, যারা নবী ﷺ-কে এমন সালাম দেয় যা আল্লাহ তাঁকে দেননি, আর মনে মনে বলে: আমরা যা বলি তার জন্য আল্লাহ আমাদের শাস্তি দেন না কেন? ইবন কাসীর দুটি আয়াতকে একই রকম বলেছেন, আর মিলটা তাদের অভ্যাসে। ৫৮:৮ আয়াতে বক্তারা আল্লাহর দেরিকে ধরে নিয়েছিল প্রমাণ হিসেবে যে কিছুই ঘটবে না। ৯:৬৪ আয়াতে তারা আশায় বেঁচে ছিল, তাদের কথা গোপনেই থেকে যাবে। দুটো বাজিই ধরা হয়েছিল আসমানের নীরবতার উপর। আর দুই ক্ষেত্রেই আয়াত নাযিল হয়ে সেই বাজির কথা খুলে বলে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mock On, Then",
+          "bn": "তবে ঠাট্টা করতে থাকো"
+        },
+        "p": [
+          {
+            "en": "Qul istahzi'u: say, mock. The form is a command, but none of the commentators reads it as permission. Al-Qurtubi calls it a command of warning and threat. At-Tabari says Allah told His Prophet ﷺ to say it to them as one threatening them and warning them of what was coming. Al-Muyassar and as-Sa'di gloss it in nearly the same words: carry on with the mockery and ridicule you are already in. On every reading the mockery does not protect them, and the next clause tells them what it will meet.",
+            "bn": "কুল ইসতাহযিঊ: বলো, ঠাট্টা করো। গঠনে এটি আদেশ, কিন্তু কোনো তাফসীরকারই একে অনুমতি হিসেবে পড়েননি। কুরতুবী একে বলেন সতর্কবাণী আর হুমকির আদেশ। তাবারী বলেন, আল্লাহ তাঁর নবী ﷺ-কে কথাটা তাদের বলতে বলেছেন হুমকি আর আগাম সতর্কতা হিসেবে। মুয়াসসার আর সা'দী প্রায় একই ভাষায় এর ব্যাখ্যা করেন: যে ঠাট্টা-বিদ্রূপে আছ, তাতেই লেগে থাকো। যেভাবেই পড়া হোক, ঠাট্টা তাদের রক্ষা করবে না। আর পরের অংশই জানিয়ে দেয়, সেই ঠাট্টার পরিণতি কী।"
+          },
+          {
+            "en": "Inna Allaha mukhrijun ma tahdharun: Allah will bring out what you are wary of. Al-Qurtubi and al-Baghawi both gloss mukhrij as muzhir, one who makes manifest, and at-Tabari spells it out as Allah disclosing against them what they were wary of having disclosed. Ibn Kathir quotes 47:29 here, where those with sickness in their hearts reckon Allah will never bring out their hidden rancour, and the verb there is from the same root. The next verse, 9:65, records their excuse when questioned, that they were only talking and playing; it has its own setting.",
+            "bn": "ইন্নাল্লাহা মুখরিজুম মা তাহযারূন: তোমরা যা ভয় করো, আল্লাহ তা বের করে আনবেন। কুরতুবী আর বাগাভী দুজনেই 'মুখরিজ' শব্দের অর্থ করেন 'মুযহির', অর্থাৎ যিনি প্রকাশ করে দেন। তাবারী খুলে বলেন: যা প্রকাশ হয়ে যাওয়ার ভয় তারা করত, আল্লাহ তাদের বিরুদ্ধে সেটাই প্রকাশ করে দেবেন। ইবন কাসীর এখানে ৪৭:২৯ আয়াত উদ্ধৃত করেন। সেখানে যাদের অন্তরে রোগ, তারা ভাবে আল্লাহ কখনো তাদের লুকানো বিদ্বেষ বের করে আনবেন না। সেখানকার ক্রিয়াটিও একই ধাতু থেকে। পরের আয়াত ৯:৬৫ জানায়, জিজ্ঞেস করা হলে তারা অজুহাত দেবে যে তারা শুধু গল্পগুজব আর খেলাধুলা করছিল। সে আয়াতের প্রেক্ষাপট আলাদা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Surah Called the Exposer",
+          "bn": "যে সূরার নাম ফাদিহা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes his comment by saying that Allah did disclose it and exposed them, so that this surah used to be called al-Fadihah, the Exposer. He gives the report with his chain from Qatadah: this surah used to be called al-Fadihah, the exposer of the hypocrites. Ibn Kathir relays the same from Qatadah. Al-Baghawi, also from Qatadah, adds two more names, al-Mub'athirah and al-Muthirah, the one that turns things over and the one that stirs them up, because it stirred up their disgraces and failings. Al-Qurtubi lists all three.",
+            "bn": "তাবারী তাঁর ব্যাখ্যা শেষ করেন এই কথায়: আল্লাহ সত্যিই তা প্রকাশ করে দিয়েছেন এবং তাদের লাঞ্ছিত করেছেন, ফলে এ সূরাকে বলা হতো আল-ফাদিহা, অর্থাৎ যে মুখোশ খুলে দেয়। নিজের সনদে তিনি কাতাদা থেকে বর্ণনা করেন: এ সূরাকে বলা হতো আল-ফাদিহা, মুনাফিকদের মুখোশ খুলে দেওয়া সূরা। ইবন কাসীরও কাতাদা থেকে একই কথা এনেছেন। বাগাভী কাতাদা থেকেই আরও দুটি নাম যোগ করেন: আল-মুবা'সিরা আর আল-মুসীরা। প্রথমটির অর্থ যা সব উল্টেপাল্টে দেয়, দ্বিতীয়টির অর্থ যা নাড়া দিয়ে তুলে আনে। কারণ সূরাটি তাদের লজ্জার কাজ আর দোষগুলো নাড়া দিয়ে বের করে এনেছিল। কুরতুবী তিনটি নামই উল্লেখ করেন।"
+          },
+          {
+            "en": "Al-Qurtubi adds one more name from al-Hasan: the Muslims used to call this surah al-Haffarah, the Digger, because it dug out what was in the hypocrites' hearts and brought it into view. None of these names is a formal title. Each is a description of how the surah felt to the people who first heard it recited, and each catches the same experience from a different side: being shamed, being turned over, being stirred up, being dug out.",
+            "bn": "কুরতুবী হাসান থেকে আরও একটি নাম আনেন। মুসলিমরা এ সূরাকে বলত আল-হাফফারা, অর্থাৎ খননকারী। কারণ মুনাফিকদের অন্তরে যা ছিল, সূরাটি তা খুঁড়ে বের করে সবার সামনে এনে দিয়েছিল। এই নামগুলোর কোনোটিই আনুষ্ঠানিক উপাধি নয়। প্রথম যারা সূরাটির তিলাওয়াত শুনেছিল, তাদের কাছে এটি কেমন লেগেছিল, প্রতিটি নাম তারই বর্ণনা। একই অভিজ্ঞতাকে প্রতিটি নাম ধরেছে ভিন্ন দিক থেকে: লাঞ্ছিত হওয়া, উল্টে যাওয়া, নাড়া খাওয়া, খুঁড়ে বের হওয়া।"
+          },
+          {
+            "en": "The best attested of these descriptions is in Sahih al-Bukhari (4882). Sa'id ibn Jubayr asked Ibn Abbas about Surat at-Tawbah, and he replied: 'At-Tawbah is al-Fadihah. It kept coming down, and of them, and of them, until they thought it would leave none of them unmentioned in it.' These are Ibn Abbas's words about the surah, not words of the Prophet ﷺ. As-Sa'di says the same in his own voice: Allah kept saying and of them, and of them, describing their traits, and so He kept the promise made in this verse.",
+            "bn": "এই বর্ণনাগুলোর মধ্যে সবচেয়ে মজবুত সূত্রেরটি সহীহ বুখারীতে (৪৮৮২)। সাঈদ ইবন জুবাইর ইবন আব্বাস (রাঃ)-কে সূরা তাওবা সম্পর্কে জিজ্ঞেস করেছিলেন। তিনি বলেন: 'তাওবা হলো আল-ফাদিহা। এটি নাযিল হতেই থাকল, আর তাদের মধ্যে, আর তাদের মধ্যে, শেষে তারা ভাবতে লাগল, তাদের কাউকেই এতে উল্লেখ না করে ছাড়বে না।' এটি সূরাটি সম্পর্কে ইবন আব্বাস (রাঃ)-এর নিজের কথা, নবী ﷺ-এর বাণী নয়। সা'দীও নিজের ভাষায় একই কথা বলেন। আল্লাহ বারবার বলেছেন, আর তাদের মধ্যে, আর তাদের মধ্যে, আর তাদের স্বভাবের বর্ণনা দিয়ে গেছেন। এভাবেই তিনি এ আয়াতে দেওয়া প্রতিশ্রুতি পূরণ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Promise Was Kept",
+          "bn": "প্রতিশ্রুতি পূরণ হলো কীভাবে"
+        },
+        "p": [
+          {
+            "en": "How exactly was the promise kept? Al-Qurtubi and al-Baghawi both relay from Ibn Abbas, without a chain, a report that the names of some seventy hypocrites were once sent down and later removed, out of mercy, so that their Muslim children would not be taunted. Neither commentator grades it, and nothing in this article rests on it. Ma'arif al-Qur'an, citing al-Mazhari, gives a different version from Ibn Abbas: that Allah told the Prophet ﷺ the names of seventy hypocrites, and he did not disclose them to his people.",
+            "bn": "প্রতিশ্রুতিটি ঠিক কীভাবে পূরণ হলো? কুরতুবী আর বাগাভী দুজনেই সনদ ছাড়া ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন। তাতে আছে, প্রায় সত্তরজন মুনাফিকের নাম একসময় নাযিল হয়েছিল, পরে দয়াবশত তা তুলে নেওয়া হয়, যাতে তাদের মুসলিম সন্তানদের খোঁটা শুনতে না হয়। দুজনের কেউই বর্ণনাটির মান যাচাই করেননি, আর এ প্রবন্ধের কোনো কথা এর উপর দাঁড়িয়ে নেই। মাআরিফুল কুরআন মাযহারীর বরাতে ইবন আব্বাস (রাঃ) থেকে ভিন্ন একটি রূপ আনে: আল্লাহ নবী ﷺ-কে সত্তরজন মুনাফিকের নাম জানিয়েছিলেন, কিন্তু তিনি তা নিজের লোকদের কাছে প্রকাশ করেননি।"
+          },
+          {
+            "en": "Al-Qurtubi then records a second view, introduced with it is said: that the bringing out meant Allah made the hypocrites' states and names known to His Prophet ﷺ, without their being revealed in the Qur'an. He cites 47:30, you will surely know them by the tone of their speech, and calls this a kind of inspiration. As-Sa'di takes a third line: the surah exposed them by describing them again and again, as the next section sets out. These are different accounts of the same fulfilment, and this article does not choose between them.",
+            "bn": "কুরতুবী এরপর 'বলা হয়' দিয়ে দ্বিতীয় একটি মত আনেন। এ মতে বের করে আনার অর্থ হলো, আল্লাহ তাঁর নবী ﷺ-কে মুনাফিকদের অবস্থা আর নাম জানিয়ে দিয়েছিলেন, কুরআনে তা নাযিল না করেই। তিনি ৪৭:৩০ আয়াত উদ্ধৃত করেন: কথার ভঙ্গিতেই তুমি অবশ্যই তাদের চিনে নেবে। একে তিনি বলেন এক ধরনের ইলহাম। সা'দী তৃতীয় পথ ধরেন। তাঁর মতে সূরাটি বারবার তাদের বর্ণনা দিয়েই তাদের মুখোশ খুলে দিয়েছে, পরের অংশে যার বিস্তারিত আছে। একই প্রতিশ্রুতি পূরণের এগুলো ভিন্ন ভিন্ন বিবরণ। এ প্রবন্ধ এদের কোনোটিকে বেছে নেয় না।"
+          },
+          {
+            "en": "Two occasion reports appear in the fetched commentaries, and neither is established. Al-Qurtubi relays from as-Suddi that a hypocrite said he would rather be flogged a hundred lashes than have something revealed about them that would expose them, and that the verse then came down. Al-Baghawi relays from Ibn Kisan that it concerned the men who lay in wait for the Prophet ﷺ at a mountain pass on the return from Tabuk, a plot Ma'arif al-Qur'an also mentions. Neither is graded, and nothing here is built on either; the pass at al-Aqabah comes up under 9:74.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তাতে নাযিলের প্রেক্ষাপট নিয়ে দুটি বর্ণনা আছে, কিন্তু কোনোটিই প্রতিষ্ঠিত নয়। কুরতুবী সুদ্দী থেকে আনেন, এক মুনাফিক বলেছিল, তাদের লাঞ্ছিত করার মতো কিছু নাযিল হওয়ার চেয়ে একশো বেত্রাঘাত খাওয়াও তার কাছে ভালো। এরপরই নাকি আয়াতটি নাযিল হয়। বাগাভী ইবন কাইসান থেকে আনেন, তাবুক থেকে ফেরার পথে যারা এক গিরিপথে নবী ﷺ-এর জন্য ওত পেতে ছিল, আয়াতটি তাদের নিয়ে। মাআরিফুল কুরআনও সেই ষড়যন্ত্রের কথা বলে। কোনোটির মান যাচাই হয়নি, আর এখানে কোনোটির উপর কিছু দাঁড় করানো হয়নি। আকাবার গিরিপথের প্রসঙ্গ এসেছে ৯:৭৪ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Traits Described, Names Withheld",
+          "bn": "স্বভাবের ছবি, নাম অনুচ্চারিত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di makes an observation about the whole surah that governs how this verse is read. The surah described the hypocrites' traits again and again, and yet it did not single out individuals, for two benefits. The first is that Allah is sittir, the One who covers, and loves to cover His servants. The second is that the blame then falls on whoever bears that description, among the hypocrites addressed at the time and others after them until the Day of Resurrection, so naming the trait was more general and more fitting than naming the men.",
+            "bn": "সা'দী গোটা সূরা সম্পর্কে একটি কথা বলেন, যা এ আয়াত পড়ার ধরন ঠিক করে দেয়। সূরাটি বারবার মুনাফিকদের স্বভাবের বর্ণনা দিয়েছে, তবু কোনো ব্যক্তিকে নির্দিষ্ট করে চিহ্নিত করেনি। এর পেছনে তিনি দুটি উপকার দেখান। প্রথমত, আল্লাহ সিত্তীর, যিনি ঢেকে রাখেন, আর বান্দাদের দোষ ঢেকে রাখতে তিনি ভালোবাসেন। দ্বিতীয়ত, এতে নিন্দাটা পড়ে তাদের সবার উপর, যাদের মধ্যে ওই স্বভাব আছে। সেকালে যেসব মুনাফিককে সম্বোধন করা হয়েছিল তারা, আর কিয়ামত পর্যন্ত তাদের পরে আসা অন্যরাও। তাই মানুষের নাম নেওয়ার চেয়ে স্বভাবের নাম নেওয়াই ছিল ব্যাপক এবং বেশি মানানসই।"
+          },
+          {
+            "en": "That is also the limit on any reader. The verse describes what the text describes: people in Madinah whose hearts held what their tongues concealed, and whose secret Allah promised to bring out. It licenses nothing against any living person or community, and this article labels no living person a hypocrite. Who was a hypocrite was known through revelation, and revelation has ended. What remains for a reader is the description, and the one heart a reader is in a position to search with it is their own.",
+            "bn": "পাঠকের সীমাও এখানেই। আয়াতটি তা-ই বর্ণনা করে, যা এর ভাষ্যে আছে: মদিনার এমন কিছু মানুষ, যাদের অন্তরে ছিল এমন কথা যা তাদের জিহ্বা লুকিয়ে রাখত, আর যাদের গোপন কথা বের করে আনার প্রতিশ্রুতি আল্লাহ দিয়েছিলেন। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। এ প্রবন্ধও কোনো জীবিত মানুষকে মুনাফিক বলে চিহ্নিত করে না। কে মুনাফিক ছিল, তা জানা যেত ওহির মাধ্যমে, আর ওহি শেষ হয়ে গেছে। পাঠকের হাতে থাকে শুধু বর্ণনাটুকু। আর সেই বর্ণনা দিয়ে খোঁজার অধিকার তার আছে কেবল একটি অন্তরে, নিজের অন্তরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before Anything Is Brought Out",
+          "bn": "কিছু প্রকাশ পাওয়ার আগেই"
+        },
+        "p": [
+          {
+            "en": "Read from the inside, the verse names a particular kind of fear: the dread of being found out, held alongside no intention of changing. The speakers in Mujahid's report did not stop the conversation; they finished it and then hoped heaven would stay quiet. Their fear looked toward people, the believers who might learn, while the One who already knew was treated as a risk to be managed. A believer can slip into that posture without sharing their unbelief, whenever the worry about a sin is only about who might see it.",
+            "bn": "ভেতর থেকে পড়লে আয়াতটি এক বিশেষ ধরনের ভয়ের নাম বলে দেয়: ধরা পড়ার আতঙ্ক, অথচ বদলানোর কোনো ইচ্ছা নেই। মুজাহিদের বর্ণনার লোকেরা কথা থামায়নি। কথা শেষ করেছে, তারপর আশা করেছে আসমান চুপ থাকবে। তাদের ভয়ের মুখ ছিল মানুষের দিকে, যে মুমিনরা জেনে ফেলতে পারে তাদের দিকে। আর যিনি আগে থেকেই জানতেন, তাঁকে তারা গণ্য করেছে সামলে নেওয়ার মতো এক ঝুঁকি হিসেবে। তাদের কুফর ছাড়াও একজন মুমিন এই ভঙ্গিতে ঢুকে পড়তে পারেন। যখনই কোনো গুনাহ নিয়ে দুশ্চিন্তা শুধু এটুকু হয় যে কে দেখে ফেলবে।"
+          },
+          {
+            "en": "As-Sa'di's word sittir points the other way. If Allah loves to cover His servants, then a fault still hidden is not safety won by cleverness but a covering given, and time in which to put it right. A few questions follow from that. What do I say in private that I would not want recited back to me? When I worry about a fault, is the worry about Allah or about my name? And is there a joke about faith I make only because I am sure no surah is coming?",
+            "bn": "সা'দীর 'সিত্তীর' শব্দটি উল্টো দিকে ইশারা করে। আল্লাহ যদি বান্দাদের ঢেকে রাখতে ভালোবাসেন, তবে যে দোষ এখনো লুকানো, তা চালাকির জোরে পাওয়া নিরাপত্তা নয়। তা দেওয়া একটা আবরণ, শুধরে নেওয়ার জন্য পাওয়া সময়। এখান থেকে কয়েকটি প্রশ্ন আসে। গোপনে আমি এমন কী বলি, যা আমাকে পড়ে শোনানো হোক তা চাই না? কোনো দোষ নিয়ে যখন দুশ্চিন্তা করি, তা কি আল্লাহকে নিয়ে, নাকি আমার সুনাম নিয়ে? আর দ্বীন নিয়ে এমন কোনো ঠাট্টা কি করি, যা করি শুধু এই ভরসায় যে কোনো সূরা তো আর নাযিল হবে না?"
+          }
+        ]
+      }
+    ]
+  },
   "9:68": {
     "sections": [
       {

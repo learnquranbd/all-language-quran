@@ -32223,6 +32223,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Calm and help are sent down by Allah, not produced by numbers; when panic takes you, turn back to Him and ask for His stillness.",
     "lessonBn": "স্থিরতা আর সাহায্য সংখ্যা থেকে আসে না, আল্লাহ তা নাজিল করেন। আতঙ্ক যখন আপনাকে চেপে ধরে, তাঁর দিকে ফিরে যান আর তাঁর কাছে প্রশান্তি চান।"
+  },
+  "9:64": {
+    "reflectionEn": "They said things to one another in private, then added a hope: perhaps Allah will not let this secret of ours out. The verse answers with a command that is really a warning: go on mocking, Allah will bring out what you fear. What they dreaded was not the wrong itself but its exposure, and they counted on silence from the One who hears everything. Their fear looked toward people; the verse turns it toward the One who already sees. I ask what I would least want a page to say about me. Am I sorry for it, or only careful that nobody finds out? And while it stays covered, do I take that as safety, or as time given to put it right?",
+    "reflectionBn": "নিজেদের মধ্যে গোপনে ওরা নানা কথা বলত, তারপর একটা আশা জুড়ে দিত: আল্লাহ হয়তো আমাদের এই গোপন কথা ফাঁস করবেন না। আয়াতটি জবাব দেয় এমন এক আদেশে, যা আসলে সতর্কবাণী: ঠাট্টা চালিয়ে যাও, তোমরা যা ভয় পাও আল্লাহ তা বের করে আনবেন। ওদের ভয় অন্যায়টা নিয়ে ছিল না, ছিল ধরা পড়া নিয়ে। আর যিনি সব শোনেন, তাঁর নীরবতার উপরই ওরা ভরসা করেছিল। ওদের ভয়ের মুখ ছিল মানুষের দিকে। আয়াত সেই ভয়কে ঘুরিয়ে দেয় তাঁর দিকে, যিনি আগে থেকেই দেখছেন। নিজেকে জিজ্ঞেস করি, আমার সম্পর্কে কোন কথাটা কোনো পাতায় লেখা হোক, তা আমি সবচেয়ে কম চাই? সেটার জন্য কি আমি অনুতপ্ত, নাকি শুধু সাবধান যেন কেউ টের না পায়? আর যতদিন তা ঢাকা আছে, ততদিন কি একে নিরাপত্তা ভাবি, নাকি শুধরে নেওয়ার জন্য দেওয়া সময়?",
+    "pointsEn": [
+      "What do I say about others in private that I would never want read aloud in front of them?",
+      "When I fear a fault of mine being found out, is the fear about Allah, or only about people?",
+      "Do I treat a fault that is still hidden as something I got away with, or as time I have been given to repent?",
+      "Is there a joke I make about faith that I would not make if this verse were being recited in the room?",
+      "Whom have I quietly filed away as a hypocrite, when the verse describes a trait and leaves the names with Allah?"
+    ],
+    "pointsBn": [
+      "অন্যদের নিয়ে গোপনে আমি এমন কী বলি, যা তাদের সামনে জোরে পড়ে শোনানো হোক, তা কখনোই চাইব না?",
+      "নিজের কোনো দোষ ফাঁস হয়ে যাওয়ার ভয় যখন পাই, সেই ভয় কি আল্লাহকে নিয়ে, নাকি শুধু মানুষকে নিয়ে?",
+      "যে দোষ এখনো লুকানো আছে, তাকে কি আমি পার পেয়ে যাওয়া ভাবি, নাকি তওবার জন্য পাওয়া সময়?",
+      "দ্বীন নিয়ে এমন কোনো ঠাট্টা কি আমি করি, যা ঘরে এই আয়াত তিলাওয়াত হতে থাকলে কখনো করতাম না?",
+      "আয়াতটি একটা স্বভাবের বর্ণনা দিয়ে নামগুলো আল্লাহর হাতে রেখে দিয়েছে। অথচ মনে মনে আমি কাকে মুনাফিকের তালিকায় তুলে রেখেছি?"
+    ],
+    "lessonEn": "Fear the gap between your private words and your public face more than you fear exposure, and close it while Allah is still covering you.",
+    "lessonBn": "ধরা পড়ার চেয়ে বেশি ভয় করুন গোপনের কথা আর প্রকাশ্য চেহারার মাঝের ফাঁকটাকে, আর আল্লাহ যতক্ষণ ঢেকে রেখেছেন, তার মধ্যেই সেই ফাঁক বন্ধ করুন।"
   }
 };
 
