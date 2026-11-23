@@ -1675,6 +1675,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eight Words After the Calf",
+          "bn": "বাছুরের পরে আট শব্দ"
+        },
+        "p": [
+          {
+            "en": "Thumma 'afawna 'ankum min ba'di dhalika la'allakum tashkurun: then We forgave you after that, so that you might be grateful. The verse is eight words long, and it answers 2:51, where Allah recalls the forty nights appointed for Musa (AS) and the calf his people took for worship after he had gone, while they were wrongdoers. As-Sa'di reads that last phrase as knowing their wrong, with the proof already established against them, which made the crime greater. Then comes a single verb: We forgave.",
+            "bn": "ছুম্মা আফাওনা আনকুম মিম বা'দি যালিকা লাআল্লাকুম তাশকুরূন: এরপরও আমি তোমাদের ক্ষমা করলাম, যাতে তোমরা কৃতজ্ঞ হও। আয়াতটি আটটি শব্দের, আর এটি ২:৫১-এর জবাব। সেখানে আল্লাহ মনে করিয়ে দেন মূসা (আঃ)-এর জন্য নির্ধারিত চল্লিশ রাতের কথা। তিনি চলে যাওয়ার পর তাঁর কওম বাছুরকে উপাস্য বানিয়েছিল, আর তারা ছিল যালিম। সা'দী এই শেষ কথাটার ব্যাখ্যা দেন এভাবে: নিজেদের অন্যায় তারা জানত, তাদের বিরুদ্ধে প্রমাণ আগেই দাঁড়িয়ে গিয়েছিল। তাই অপরাধটা আরও বড়। তারপরই আসে একটা ক্রিয়া: আমি ক্ষমা করলাম।"
+          },
+          {
+            "en": "Ibn Kathir frames the verse as a favour to be remembered. Allah says, in his paraphrase: remember My favour upon you in My pardon of you, when you worshipped the calf after Musa (AS) went to the appointment with his Lord, at the end of the forty days. Those, he says, are the days of 7:142, thirty nights completed with ten more. He adds, under the words it was said, that they were the whole of Dhu al-Qa'dah and ten days of Dhu al-Hijjah.",
+            "bn": "ইবন কাসীর আয়াতটিকে দেখেন মনে রাখার মতো এক অনুগ্রহ হিসেবে। তাঁর ভাষায় আল্লাহ যেন বলছেন: আমার সেই অনুগ্রহ স্মরণ কর, যখন আমি তোমাদের ক্ষমা করেছিলাম। মূসা (আঃ) রবের সঙ্গে নির্ধারিত সাক্ষাতে গিয়েছিলেন, চল্লিশ দিনের মেয়াদ শেষ হচ্ছিল, আর সেই ফাঁকে তোমরা বাছুরের পূজা করেছিলে। তিনি বলেন, এই চল্লিশ দিনের কথাই ৭:১৪২ আয়াতে আছে: ত্রিশ রাত, তার সঙ্গে আরও দশটি। 'বলা হয়' কথাটি জুড়ে তিনি আরও আনেন, দিনগুলো ছিল পুরো যুলকা'দা আর যুলহিজ্জার দশটি দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wind Wiping Out a Track",
+          "bn": "বাতাস যেভাবে পায়ের ছাপ মোছে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi begins with the word. 'Afw is Allah's pardon of His creation, and it may come after a punishment or before it, unlike ghufran, forgiveness, which has no punishment with it at all. Whoever deserved a punishment and had it left for him has been pardoned. 'Afw, then, is wiping out the sin: We wiped out your sins and passed over you. He takes it from 'afat ar-rihu al-athar, the wind wiped out the track, and notes that 'afa can also mean to grow abundant, as in hatta 'afaw in 7:95.",
+            "bn": "কুরতুবী শুরু করেন শব্দ দিয়ে। আফওয় হলো সৃষ্টির প্রতি আল্লাহর মাফ। তা শাস্তির পরেও আসতে পারে, আগেও আসতে পারে। গুফরান বা মাগফিরাত এমন নয়, তার সঙ্গে কোনো শাস্তিই থাকে না। যে শাস্তির যোগ্য হয়েছিল অথচ তাকে ছেড়ে দেওয়া হলো, তাকেই মাফ করা হলো। তাই আফওয় মানে গুনাহ মুছে দেওয়া: আমি তোমাদের গুনাহ মুছে দিলাম, তোমাদের পার করে দিলাম। শব্দটা তিনি আনেন আরবদের এক কথা থেকে: আফাতির রীহুল আসার, বাতাস পায়ের ছাপ মুছে দিল। তিনি এটাও বলেন, আফা মানে বেড়ে যাওয়াও হয়, যেমন ৭:৯৫ আয়াতে হাত্তা আফাও।"
+          },
+          {
+            "en": "Al-Baghawi says it in two words: mahawna dhunubakum, We erased your sins. At-Tabari's gloss leans elsewhere: tarakna mu'ajalatakum bil-'uqubah, We left off hastening the punishment upon you. His reading puts the stress on time, on a deserved penalty that was not rushed. Al-Muyassar joins two sides: We passed over this repugnant deed and accepted your repentance. Each gloss fits the root. They differ in which part of the pardon they bring forward: the sin erased, the penalty held back, or the repentance received.",
+            "bn": "বাগাভী একই কথা বলেন দুই শব্দে: মাহাওনা যুনূবাকুম, আমি তোমাদের গুনাহ মুছে দিলাম। তাবারীর ব্যাখ্যা একটু অন্য দিকে ঝোঁকে: তারাকনা মুআজালাতাকুম বিল-উকূবাহ, তোমাদের উপর শাস্তি তাড়াতাড়ি নামানো থেকে আমি বিরত থাকলাম। তাঁর পাঠে জোরটা সময়ের উপর। প্রাপ্য শাস্তি ছিল, কিন্তু তা দ্রুত আনা হয়নি। মুয়াসসার দুই দিক একসঙ্গে রাখে: এই জঘন্য কাজটা আমি এড়িয়ে গেলাম, তোমাদের তওবা কবুল করলাম। প্রতিটি ব্যাখ্যাই ধাতুর সঙ্গে মেলে। পার্থক্য শুধু এখানে যে ক্ষমার কোন দিকটা তাঁরা সামনে আনছেন: গুনাহ মুছে যাওয়া, শাস্তি থেমে থাকা, নাকি তওবা কবুল হওয়া।"
+          },
+          {
+            "en": "Min ba'di dhalika, after that. At-Tabari explains: after your taking the calf as a god, and he gives the same from Abu al-'Aliyah through ar-Rabi'. Al-Qurtubi and al-Baghawi say: after your worship of the calf. Al-Qurtubi adds that the calf, al-'ijl, may have been given that name because they hurried, ista'jalu, to worship it, and he closes the remark with wallahu a'lam, Allah knows best. He offers it as a possibility and no more, and the reader should hold it the same way.",
+            "bn": "মিম বা'দি যালিকা, এর পরে। তাবারী ব্যাখ্যা দেন: বাছুরকে ইলাহ বানানোর পরে। আবুল আলিয়া থেকে রবী'র সূত্রে তিনি একই কথা আনেন। কুরতুবী আর বাগাভী বলেন: তোমাদের বাছুর-পূজার পরে। কুরতুবী আরও যোগ করেন, বাছুরকে আরবিতে ইজল বলা হয়তো এ কারণে যে তারা তার পূজায় তাড়াহুড়া করেছিল, ইসতা'জালূ। কথাটা তিনি শেষ করেন ওয়াল্লাহু আ'লাম বলে, আল্লাহই ভালো জানেন। তিনি এটাকে সম্ভাবনা হিসেবেই রাখেন, এর বেশি কিছু নয়। পাঠকেরও উচিত কথাটা সেভাবেই ধরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Command, or After",
+          "bn": "আদেশের আগে, নাকি পরে"
+        },
+        "p": [
+          {
+            "en": "In 2:54 Musa (AS) tells his people to repent to their Creator and kill yourselves, and the verse ends: then He accepted your repentance. How does the pardon of 2:52 stand to that command? The commentaries fetched for this verse do not give a single answer, and the difference is worth keeping as it is. Ma'arif al-Qur'an is direct: the Israelites were forgiven only when they had offered their repentance, as verse 54 recounts. Al-Muyassar's gloss is close to it: Allah accepted their repentance after Musa (AS) returned.",
+            "bn": "২:৫৪ আয়াতে মূসা (আঃ) তাঁর কওমকে বলেন, তোমাদের স্রষ্টার কাছে তওবা কর আর নিজেদের হত্যা কর। আয়াতটি শেষ হয় এ কথায়: অতঃপর তিনি তোমাদের তওবা কবুল করলেন। তাহলে ২:৫২-এর ক্ষমার সঙ্গে সেই আদেশের সম্পর্ক কী? এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, সেগুলো একটিমাত্র উত্তর দেয় না। পার্থক্যটা যেমন আছে তেমনই রাখা ভালো। মাআরিফুল কুরআন সোজাসুজি বলে: বানী ইসরাঈল ক্ষমা পেয়েছিল কেবল তখনই, যখন তারা ৫৪ নম্বর আয়াতে বর্ণিত তওবা করেছিল। মুয়াসসারের কথাও কাছাকাছি: মূসা (আঃ) ফিরে আসার পর আল্লাহ তাদের তওবা কবুল করেন।"
+          },
+          {
+            "en": "As-Sa'di, writing on 2:54, ties the pardon to the command itself: He ordered you to repent, on the tongue of His prophet Musa (AS), by some of you killing others, and Allah pardoned you because of that. At-Tabari, on 2:52, reads 'afw as the punishment not being hastened, and al-Qurtubi defines it as a pardon that may come before a punishment or after it. Neither says, in the text fetched for this verse, which came first, the pardon or the killing.",
+            "bn": "সা'দী ২:৫৪ আয়াতের আলোচনায় ক্ষমাকে সরাসরি সেই আদেশের সঙ্গে জুড়ে দেন। তাঁর কথায়: আল্লাহ তাঁর নবী মূসা (আঃ)-এর মুখে তোমাদের তওবার আদেশ দিলেন, তোমাদের একদল আরেকদলকে হত্যা করবে। আর এ কারণেই আল্লাহ তোমাদের মাফ করলেন। তাবারী ২:৫২ আয়াতে আফওয়ের অর্থ করেন শাস্তি তাড়াতাড়ি না আনা। কুরতুবীর সংজ্ঞায় আফওয় এমন মাফ, যা শাস্তির আগেও আসতে পারে, পরেও আসতে পারে। এ আয়াতের যে লেখা আনা হয়েছে, তাতে এ দুজনের কেউই স্পষ্ট করে বলেন না কোনটা আগে ঘটেছিল, ক্ষমা নাকি হত্যা।"
+          },
+          {
+            "en": "4:153 recounts the calf with the same verb: then they took the calf after clear proofs had come to them, and We pardoned that. Across the commentaries the events around the calf are not always set in the same order, and this article adds no order of its own; it leaves the question where the sources leave it. What all of them share is that the pardon was real, that it came from Allah, and that it came after a wrong of the gravest kind.",
+            "bn": "৪:১৫৩ আয়াত বাছুরের ঘটনা বলে একই ক্রিয়া দিয়ে: স্পষ্ট প্রমাণ আসার পরেও তারা বাছুরকে উপাস্য বানিয়েছিল, আর আমি তাও মাফ করে দিয়েছিলাম। বাছুর ঘিরে ঘটনাগুলোর ক্রম সব তাফসীরে এক রকম নয়। এ লেখা নিজের পক্ষ থেকে কোনো ক্রম জুড়ে দিচ্ছে না। উৎসগুলো প্রশ্নটা যেখানে রেখেছে, এখানেও সেখানেই থাকল। তবে একটা কথায় সবাই এক: ক্ষমাটা সত্যি ছিল, তা এসেছিল আল্লাহর কাছ থেকে, আর এসেছিল সবচেয়ে গুরুতর এক অন্যায়ের পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hope, Purpose, or Exposure",
+          "bn": "আশা, উদ্দেশ্য, নাকি এগিয়ে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "La'allakum tashkurun. In everyday Arabic la'alla expresses hope or expectation: perhaps. At-Tabari says plainly that here it carries the sense of kay, so that: so that you would thank Me for My pardon, since pardon obliges thanks from people of understanding and sense. He refers the reader back to his discussion at 2:21, where he meets the obvious objection head on. Did Allah not know what they would come to, that He should phrase the outcome as doubt? His answer there is that la'alla in such a place carries no doubt at all.",
+            "bn": "লাআল্লাকুম তাশকুরূন। সাধারণ আরবিতে লাআল্লা আশা বা প্রত্যাশা বোঝায়: হয়তো। তাবারী সোজাসুজি বলেন, এখানে শব্দটা কাই অর্থে, অর্থাৎ যাতে: যাতে তোমরা আমার ক্ষমার জন্য আমার শোকর কর। কারণ ক্ষমা পেলে বুঝদার, বিবেকবান মানুষের উপর শোকর ওয়াজিব হয়ে যায়। পাঠককে তিনি ফিরিয়ে দেন ২:২১ আয়াতে তাঁর আগের আলোচনায়। সেখানে তিনি সরাসরি একটা আপত্তির জবাব দেন। আল্লাহ কি জানতেন না তাদের পরিণতি কী হবে? তাহলে ফলাফলটা সন্দেহের ভঙ্গিতে বললেন কেন? তাঁর জবাব: এমন জায়গায় লাআল্লার মধ্যে কোনো সন্দেহ নেই।"
+          },
+          {
+            "en": "Al-Qurtubi, on this verse, also points back to his treatment at 2:21, where he names la'allakum tashkurun among the phrases he explains, and gives three readings. In the first, la'alla keeps its sense of hope and expectation, but the hope sits on the human side: do this hoping and eager to be grateful. He gives this as the view of Sibawayh and the leading authorities of the language, chosen by Abu al-Ma'ali. In the second, the Arabs used la'alla stripped of doubt, meaning so that; he names Qutrub and at-Tabari.",
+            "bn": "কুরতুবীও এ আয়াতে পাঠককে ২:২১-এ তাঁর আলোচনার কথা মনে করিয়ে দেন। সেখানে তিনি যে বাক্যাংশগুলোর ব্যাখ্যা দেন, তার মধ্যে লাআল্লাকুম তাশকুরূন নাম ধরেই আছে। তিনি তিনটি ব্যাখ্যা দেন। প্রথমটিতে লাআল্লা তার আসল অর্থেই থাকে, আশা ও প্রত্যাশা। তবে আশাটা মানুষের দিকের: কাজটা কর এই আশা আর আগ্রহ নিয়ে যে তোমরা কৃতজ্ঞ হবে। এটিকে তিনি বলেন সিবাওয়াইহ ও ভাষার শীর্ষ আলেমদের মত, আর জানান আবুল মাআলী এটিকেই বেছে নিয়েছেন। দ্বিতীয়টিতে আরবরা লাআল্লাকে সন্দেহমুক্ত করে 'যাতে' অর্থে ব্যবহার করেছে। এর পক্ষে তিনি কুতরুব ও তাবারীর নাম নেন।"
+          },
+          {
+            "en": "In the third, la'alla means putting oneself in the way of a thing: act, exposing yourselves to becoming grateful. Ma'arif al-Qur'an takes a line near the first. La'alla indicates expectation, it says, which does not mean that Allah has any doubt about this or any matter; the point is that when someone receives a pardon, those watching may expect him to feel grateful. Al-Muyassar writes raja'a an tashkuru, in hope that you would give thanks. The article keeps these readings as the commentators give them, without choosing among them.",
+            "bn": "তৃতীয় ব্যাখ্যায় লাআল্লা মানে কোনো কিছুর দিকে নিজেকে এগিয়ে দেওয়া: কাজটা কর, কৃতজ্ঞ হওয়ার পথে নিজেদের দাঁড় করিয়ে দাও। মাআরিফুল কুরআন প্রথম ব্যাখ্যার কাছাকাছি থাকে। তার কথায় লাআল্লা প্রত্যাশা বোঝায়, কিন্তু এর মানে এই নয় যে এ বা অন্য কোনো বিষয়ে আল্লাহর কোনো সন্দেহ আছে। কথাটা হলো, কেউ মাফ পেলে যারা দেখছে তারা আশা করে সে কৃতজ্ঞ হবে। মুয়াসসার লেখে রাজাআ আন তাশকুরূ, এই আশায় যে তোমরা শোকর করবে। তাফসীরকারেরা যেভাবে দিয়েছেন, ব্যাখ্যাগুলো এখানে সেভাবেই রইল। কোনোটিকে বেছে নেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Shows on the Outside",
+          "bn": "ভেতরের জিনিস যখন বাইরে দেখা দেয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi starts again from the word. In the language, shukr is showing, appearing: a dabbah shakur is an animal that shows more flesh than the fodder it is given would explain. Its reality is praising a person for a kindness he has done you, and he quotes al-Jawhari: shukr is praise of the benefactor for the good he has bestowed. Shukran is the opposite of kufran. The root image is worth holding on to. Gratitude is what a favour looks like after it has gone in and begun to show on the outside.",
+            "bn": "কুরতুবী আবার শব্দ থেকেই শুরু করেন। ভাষায় শোকর মানে প্রকাশ পাওয়া, ফুটে ওঠা। দাব্বাতুন শাকূর বলা হয় সেই পশুকে, যাকে যতটুকু খাবার দেওয়া হয় তার চেয়ে বেশি স্বাস্থ্য তার গায়ে দেখা যায়। শোকরের আসল অর্থ, কেউ আপনার প্রতি কোনো উপকার করলে সে জন্য তার প্রশংসা করা। জাওহারীর কথা তিনি উদ্ধৃত করেন: শোকর হলো উপকারকারী যে ভালো করেছে, তার জন্য তার প্রশংসা। শুকরানের বিপরীত কুফরান। ধাতুর এই ছবিটা মনে রাখার মতো। অনুগ্রহ ভেতরে গিয়ে যখন বাইরে দেখা দিতে শুরু করে, তখন তার চেহারাটাই শোকর।"
+          },
+          {
+            "en": "Then come the definitions. Al-Baghawi gives, under it is said, obedience with all the limbs in private and in public. Close to it is Sahl ibn 'Abdullah's, in al-Qurtubi: striving to give obedience while keeping away from disobedience, in secret and openly. Al-Hasan, in al-Baghawi, says the thanks for a favour is to speak of it, and cites 93:11: as for the favour of your Lord, report it. Al-Fudayl, also in al-Baghawi, says the thanks for every favour is that one does not disobey Allah after it.",
+            "bn": "এরপর আসে সংজ্ঞাগুলো। বাগাভী 'বলা হয়' বলে একটা সংজ্ঞা আনেন: গোপনে ও প্রকাশ্যে সব অঙ্গ দিয়ে আনুগত্য। এর কাছাকাছি সাহল ইবন আবদুল্লাহর সংজ্ঞা, যা কুরতুবী এনেছেন: গোপনে ও প্রকাশ্যে নাফরমানি থেকে দূরে থেকে আনুগত্যে নিজেকে উজাড় করে দেওয়া। বাগাভী হাসানের কথা আনেন: নিয়ামতের শোকর হলো তার কথা বলা। প্রমাণ হিসেবে তিনি ৯৩:১১ আয়াত আনেন: আর তোমার রবের নিয়ামতের কথা বলে বেড়াও। বাগাভীতেই আছে ফুদাইলের কথা: প্রতিটি নিয়ামতের শোকর হলো, সেটি পাওয়ার পর আল্লাহর নাফরমানি না করা।"
+          },
+          {
+            "en": "Others look inward. Al-Qurtubi relays from a group that shukr is admitting one's falling short in it, citing 34:13, work, O family of Dawud, in gratitude. Al-Junayd says its reality is inability to give thanks; al-Baghawi has the same line under it is said. Both also relay exchanges in which Dawud (AS) and Musa (AS) ask how to thank their Lord; these come without chain or grading, so they are only mentioned here. Dhu an-Nun al-Misri gives a map: thanks upward by obedience, to an equal by repaying, downward by kindness.",
+            "bn": "কেউ কেউ তাকান ভেতরের দিকে। কুরতুবী একদলের মত আনেন: শোকর হলো শোকরে নিজের ঘাটতি স্বীকার করা। প্রমাণ দেন ৩৪:১৩ আয়াত দিয়ে: হে দাউদের পরিবার, কৃতজ্ঞচিত্তে কাজ করে যাও। জুনাইদ বলেন, শোকরের আসল রূপ হলো শোকর আদায়ে নিজের অক্ষমতা। বাগাভীও একই কথা আনেন 'বলা হয়' বলে। দুই তাফসীরেই দাউদ (আঃ) ও মূসা (আঃ)-এর কিছু কথোপকথন আছে, যেখানে তাঁরা জানতে চান কীভাবে রবের শোকর করবেন। এগুলোর কোনো সনদ বা মান উল্লেখ নেই, তাই এখানে শুধু উল্লেখটুকুই থাকল। যুন-নূন মিসরী একটা নকশা দেন: উপরের জনের শোকর আনুগত্যে, সমানের জনের শোকর প্রতিদানে, নিচের জনের শোকর দয়া ও অনুগ্রহে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanking People, Thanking Allah",
+          "bn": "মানুষের শোকর, আল্লাহর শোকর"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to the pardon itself. Al-Qurtubi does bring one on gratitude in general, under this verse's last word, and it is not tied to the calf. Jami' at-Tirmidhi 1954 records from Abu Hurayrah (RA) that the Messenger of Allah ﷺ said: \"Whoever does not thank people does not thank Allah.\" At-Tirmidhi says of it: this hadith is hasan sahih. Sunan Abi Dawud 4811 has the same saying from Abu Hurayrah (RA), with the two halves in the other order.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর এই ক্ষমার ঘটনার সঙ্গে কোনো হাদীস জোড়েনি। তবে কুরতুবী আয়াতের শেষ শব্দটির আলোচনায় সাধারণভাবে শোকর নিয়ে একটা হাদীস আনেন। বাছুরের ঘটনার সঙ্গে এর কোনো সম্পর্ক নেই। জামি' তিরমিযী ১৯৫৪ নম্বরে আবু হুরাইরা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: \"যে মানুষের শোকর করে না, সে আল্লাহর শোকর করে না।\" তিরমিযী এ সম্পর্কে বলেন: হাদীসটি হাসান সহীহ। সুনান আবু দাউদ ৪৮১১ নম্বরেও আবু হুরাইরা (রাঃ) থেকে একই কথা আছে, শুধু দুই অংশের ক্রম উল্টো।"
+          },
+          {
+            "en": "Al-Qurtubi gives al-Khattabi's two readings of it. In one, a person whose nature is to deny people's favours and leave their kindness unthanked will, by the same habit, deny Allah's favour and leave Him unthanked. In the other, Allah does not accept a servant's thanks for His kindness while that servant will not thank people for theirs and covers it over, because the two are bound together. The first reading is about character, what a habit trains in a person; the second is about acceptance, what the thanks is worth before Allah.",
+            "bn": "কুরতুবী এ হাদীসের দুটি ব্যাখ্যা আনেন খাত্তাবী থেকে। এক, যার স্বভাবই হলো মানুষের অনুগ্রহ অস্বীকার করা আর তাদের উপকারের জন্য ধন্যবাদ না দেওয়া, সেই একই অভ্যাসে সে আল্লাহর নিয়ামতও অস্বীকার করবে, তাঁর শোকরও করবে না। দুই, বান্দা যদি মানুষের উপকারের শোকর না করে, তা চেপে যায়, তাহলে আল্লাহর অনুগ্রহের জন্য তার শোকর আল্লাহ কবুল করেন না। কারণ দুটো একটার সঙ্গে আরেকটা বাঁধা। প্রথম ব্যাখ্যা চরিত্রের কথা বলে, অভ্যাস মানুষকে কী বানায়। দ্বিতীয়টি কবুলের কথা বলে, আল্লাহর কাছে সেই শোকরের মূল্য কতটুকু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A People's History, Not a Charge",
+          "bn": "এক জাতির ইতিহাস, অভিযোগ নয়"
+        },
+        "p": [
+          {
+            "en": "One thing needs saying plainly. The verse speaks of the Children of Israel in the time of Musa (AS), a people in the verse's own history, and it describes what the text describes: a grave wrong and a pardon from Allah. It licenses nothing against any living person or community. It speaks in the second person, you took, We forgave you, as the passage from 2:40 onward does, addressing a later generation through its forebears' story.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি মূসা (আঃ)-এর যুগের বানী ইসরাঈলের কথা বলে, আয়াতের নিজের ইতিহাসের এক জাতির কথা। আর তা কেবল সেটুকুই বর্ণনা করে, যা কুরআনের লেখায় আছে: এক গুরুতর অন্যায়, আর আল্লাহর পক্ষ থেকে ক্ষমা। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। ২:৪০ থেকে পুরো অংশটার মতো এ আয়াতও কথা বলে 'তোমরা' বলে: তোমরা বানিয়েছিলে, আমি তোমাদের মাফ করলাম। পরের প্রজন্মকে সম্বোধন করা হচ্ছে তাদের পূর্বপুরুষদের কাহিনি দিয়ে।"
+          },
+          {
+            "en": "Notice also how the verse pair is built. Whoever reads 2:51 and stops has read only half of it. The other half is that Allah pardoned the wrong and named gratitude as the pardon's purpose. A reader who carries away only the wrong, to hold against others, has dropped the part the text itself puts last. The more useful reading for a Muslim is the mirror: the verse asks what a pardon has produced, and that question can be put to anyone who has been forgiven anything, beginning with the reader.",
+            "bn": "আয়াত দুটির গড়নটাও খেয়াল করার মতো। যে ২:৫১ পড়ে থেমে যায়, সে অর্ধেকটাই পড়ল। বাকি অর্ধেক হলো, আল্লাহ অন্যায়টা মাফ করেছেন, আর বলে দিয়েছেন সেই ক্ষমার উদ্দেশ্য শোকর। যে পাঠক শুধু অন্যায়টুকু তুলে নিয়ে অন্যের বিরুদ্ধে ধরে রাখে, সে কুরআন যে অংশটা শেষে রেখেছে সেটাই ফেলে দিল। একজন মুসলিমের জন্য বেশি কাজের পাঠ হলো আয়নার মতো করে পড়া। আয়াত জানতে চায়, ক্ষমা কী ফল দিল। যে কেউ কোনো কিছুর জন্য মাফ পেয়েছে, প্রশ্নটা তার কাছেই রাখা যায়। আর শুরুটা হোক পাঠকের নিজেকে দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks You Can See",
+          "bn": "যে শোকর চোখে দেখা যায়"
+        },
+        "p": [
+          {
+            "en": "The definitions gathered above turn into a practical test. Al-Fudayl's measure is the simplest: after a favour, did I return to the sin? Al-Hasan's asks you to speak of it, so name, aloud or in du'a, one particular thing Allah forgave or passed over, rather than offering thanks in general. Sahl's covers the whole of obedience, secret and open, so the test reaches what no one else sees. None of these is a feeling. Each is something done or left undone, which fits al-Qurtubi's root image of what shows.",
+            "bn": "উপরের সংজ্ঞাগুলো মিলে একটা হাতে-কলমে পরীক্ষা হয়ে দাঁড়ায়। ফুদাইলের মাপকাঠি সবচেয়ে সহজ: নিয়ামত পাওয়ার পর আমি কি আবার সেই গুনাহে ফিরে গেছি? হাসানের কথা হলো নিয়ামতের কথা বলা। তাই সাধারণভাবে শোকর না করে, মুখে বা দোয়ায় নাম ধরে বলুন, আল্লাহ আপনার কোন নির্দিষ্ট গুনাহ মাফ করেছেন বা এড়িয়ে গেছেন। সাহলের সংজ্ঞা গোপন-প্রকাশ্য সব আনুগত্য জুড়ে, ফলে পরীক্ষাটা সেখানেও পৌঁছায় যেখানে আর কেউ দেখে না। এর কোনোটাই শুধু অনুভূতি নয়। প্রতিটিই কিছু করা বা না করা, কুরতুবীর সেই ফুটে ওঠার ছবির সঙ্গে যা মিলে যায়।"
+          },
+          {
+            "en": "Dhu an-Nun's map turns the test outward: obedience upward, repaying an equal, kindness to those below. The hadith in at-Tirmidhi joins the human direction to the divine one. This week, thank by name someone who overlooked a fault of yours, and in the same sitting thank Allah by name for one fault He let pass. And if the pardon includes a punishment held back, as at-Tabari reads 'afw, then the days after a wrong are themselves a favour, and thanks is what they are for.",
+            "bn": "যুন-নূনের নকশা পরীক্ষাটাকে বাইরের দিকে ঘুরিয়ে দেয়: উপরের জনের প্রতি আনুগত্য, সমানের জনকে প্রতিদান, নিচের জনের প্রতি দয়া। তিরমিযীর হাদীস মানুষের দিকের শোকরকে আল্লাহর দিকের শোকরের সঙ্গে জুড়ে দেয়। এ সপ্তাহে এমন একজনকে নাম ধরে ধন্যবাদ দিন, যিনি আপনার কোনো দোষ দেখেও এড়িয়ে গেছেন। একই বৈঠকে আল্লাহরও শোকর করুন এমন একটা গুনাহর জন্য, যা তিনি পার করে দিয়েছেন। আর তাবারী যেমন পড়েন, ক্ষমার মধ্যে যদি থেমে থাকা শাস্তিও থাকে, তাহলে অন্যায়ের পরের দিনগুলোও এক নিয়ামত। সেই দিনগুলোর কাজই হলো শোকর।"
+          }
+        ]
+      }
+    ]
+  },
   "2:55-56": {
     "sections": [
       {

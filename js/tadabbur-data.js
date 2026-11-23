@@ -30363,6 +30363,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah removes nothing from His law without bringing something better or equal; meet what replaces your plans with trust, and never set a text aside on your own say-so.",
     "lessonBn": "আল্লাহ তাঁর বিধান থেকে কিছু সরালে তার চেয়ে ভালো বা তার সমান কিছু এনে দেন। আপনার পরিকল্পনার জায়গায় যা আসে, তাকে ভরসা নিয়ে গ্রহণ করুন, আর নিজের মর্জিতে কখনো কোনো দলিল বাদ দেবেন না।"
+  },
+  "2:52": {
+    "reflectionEn": "While Musa (AS) was away for the forty nights, his people took a calf and worshipped it, and they were wrongdoers in doing so. The verse that follows is eight words long: then We forgave you after that, so that you might be grateful. It does not say the pardon was a reward for thanks already given. It gives the pardon first and names gratitude as what the pardon was meant to grow. I have been pardoned too, more often than I know, for things no one else saw, and my days kept coming. What has that pardon grown in me? Thanks that shows in what I do and what I leave, or only relief that the matter seems closed?",
+    "reflectionBn": "চল্লিশ রাতের জন্য মূসা (আঃ) যখন দূরে, তাঁর কওম তখন একটা বাছুর বানিয়ে তার পূজা শুরু করল। কাজটা করে তারা যালিম হয়ে গেল। পরের আয়াতটি মাত্র আট শব্দের: এরপরও আমি তোমাদের ক্ষমা করে দিলাম, যাতে তোমরা কৃতজ্ঞ হও। আয়াত বলছে না যে আগে শোকর করেছিল বলে ক্ষমা পেয়েছে। ক্ষমা আগে এসেছে, আর শোকরকে বলা হয়েছে সেই ক্ষমার ফসল। আমাকেও ক্ষমা করা হয়েছে, যত বার জানি তার চেয়ে অনেক বেশি বার। এমন সব গুনাহের জন্য, যা আর কেউ দেখেনি। তবু দিনগুলো একে একে আসতেই থাকল। সেই ক্ষমা আমার মধ্যে কী জন্মাল? এমন শোকর, যা আমার করা আর ছাড়ার মধ্যে চোখে পড়ে? নাকি শুধু এই স্বস্তি যে ব্যাপারটা মিটে গেছে বলে মনে হচ্ছে?",
+    "pointsEn": [
+      "Which wrong of mine did Allah cover and let pass, and have I ever thanked Him for that one by name?",
+      "After the last time I was forgiven, did anything in my conduct change, or did I only feel lighter?",
+      "Do I take Allah's not punishing me at once as approval, rather than as time given to set things right?",
+      "Who has been patient with me or overlooked a fault of mine, and have I thanked them for it?",
+      "What one act this week would show my gratitude in what I do, and not only on my tongue?"
+    ],
+    "pointsBn": [
+      "আমার কোন গুনাহ আল্লাহ ঢেকে দিয়ে পার করে দিয়েছেন? সেই নির্দিষ্ট গুনাহটার কথা তুলে কি কখনো তাঁর শোকর করেছি?",
+      "শেষবার ক্ষমা পাওয়ার পর আমার আচরণে কি কিছু বদলেছে, নাকি শুধু মনটা হালকা লেগেছে?",
+      "আল্লাহ সঙ্গে সঙ্গে শাস্তি দেন না বলে আমি কি একে তাঁর সম্মতি ধরে নিই? নাকি বুঝি, এ সময় দেওয়া হয়েছে সব ঠিক করে নেওয়ার জন্য?",
+      "কে আমার সঙ্গে ধৈর্য ধরেছে, কে আমার কোনো দোষ দেখেও এড়িয়ে গেছে? তাকে কি ধন্যবাদ দিয়েছি?",
+      "এ সপ্তাহে কোন একটা কাজ দিয়ে আমার শোকর শুধু মুখে নয়, আমলেও দেখা যাবে?"
+    ],
+    "lessonEn": "Every pardon from Allah is given for a purpose: let the forgiveness you have received show itself as thanks in what you do and what you leave.",
+    "lessonBn": "আল্লাহর প্রতিটি ক্ষমার পেছনে একটা উদ্দেশ্য থাকে। যে ক্ষমা আপনি পেয়েছেন, তা শোকর হয়ে ফুটে উঠুক আপনার করা আর ছাড়ার মধ্যে।"
   }
 };
 
