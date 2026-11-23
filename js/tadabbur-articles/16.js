@@ -471,6 +471,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "Water That Comes Back Green",
+          "bn": "যে পানি সবুজ হয়ে ফেরে"
+        },
+        "p": [
+          {
+            "en": "Yunbitu lakum bihi al-zar'a wa al-zaytuna wa al-nakhila wa al-a'naba wa min kulli al-thamarat: He causes to grow for you by it crops, olives, date palms, grapevines and of every kind of fruit. The verse names no subject of its own. It leans on 16:10, it is He who sent down water from the sky, and the pronoun in bihi, by it, reaches back to that water, as al-Baghawi and at-Tabari both spell out.",
+            "bn": "ইউমবিতু লাকুম বিহিয যারআ ওয়ায যাইতূনা ওয়ান নাখীলা ওয়াল আ'নাবা ওয়া মিন কুল্লিস সামারাত: তিনি তা দিয়ে তোমাদের জন্য জন্মান শস্য, যায়তুন, খেজুর গাছ, আঙুর আর সব রকমের ফল। আয়াতটিতে নিজের কোনো কর্তার উল্লেখ নেই, কর্তা আগের আয়াতে। ১৬:১০ বলেছে: তিনিই আকাশ থেকে পানি নামিয়েছেন। বিহি, অর্থাৎ তা দিয়ে, কথাটির সর্বনাম ফিরে যায় সেই পানির দিকে। বাগাভী আর তাবারী দুজনেই তা খুলে বলেছেন।"
+          },
+          {
+            "en": "The run of gifts is deliberate. Verses 16:5 to 16:8 counted livestock and mounts. Ibn Kathir opens his comment on 16:10 by naming the turn: having mentioned the cattle and beasts He favoured them with, Allah began to mention the favour of rain sent down from on high, with sustenance and enjoyment in it for them and their livestock. At-Tabari reads 16:10 the same way: that water is drink for you, drink for your trees and life for your plantings.",
+            "bn": "দানের এই ধারাবাহিকতা পরিকল্পিত। ১৬:৫ থেকে ১৬:৮ পর্যন্ত গোনা হয়েছে পশু আর বাহনের কথা। ইবন কাসীর ১৬:১০-এর ব্যাখ্যা শুরু করেন এই মোড়টির কথা বলে। চতুষ্পদ জন্তু আর বাহনের নিয়ামতের কথা বলার পর আল্লাহ উপর থেকে বৃষ্টি নামানোর নিয়ামত বলতে শুরু করলেন, যাতে মানুষ আর তাদের পশুর জীবনধারণ ও ভোগের উপকরণ আছে। তাবারীও ১৬:১০ পড়েন একইভাবে: সেই পানি তোমাদের পানীয়, তোমাদের গাছের পানীয়, আর তোমাদের রোপণ করা চারার জীবন।"
+          },
+          {
+            "en": "As-Sa'di does not separate the two verses at all. He explains 16:10 and 16:11 together, and reads in them the perfection of Allah's power, who sent this water down from the thin, fine cloud, and His mercy in placing plentiful water in it. From it they drink, their livestock drink, and they water their tilled fields, so that many fruits and abundant blessings come out for them. In his reading, the drink of 16:10 and the harvest of 16:11 are one gift, seen at two moments.",
+            "bn": "সা'দী দুটি আয়াতকে আলাদাই করেননি। ১৬:১০ ও ১৬:১১ তিনি ব্যাখ্যা করেছেন একসঙ্গে। তাঁর মতে এখানে আছে আল্লাহর পূর্ণ কুদরতের প্রমাণ, যিনি হালকা, সূক্ষ্ম মেঘ থেকে এই পানি নামিয়েছেন। আর আছে তাঁর রহমতের প্রমাণ, কারণ সেই মেঘে তিনি রেখেছেন প্রচুর পানি। তা থেকে মানুষ পান করে, তাদের পশু পান করে, তা দিয়ে তারা খেতে সেচ দেয়, আর তাতে তাদের জন্য বেরিয়ে আসে অনেক ফল আর অঢেল নিয়ামত। তাঁর পাঠে ১৬:১০-এর পানীয় আর ১৬:১১-এর ফসল একই দান, শুধু দুই মুহূর্তে দেখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Grows, or We Grow",
+          "bn": "তিনি জন্মান, নাকি আমি জন্মাই"
+        },
+        "p": [
+          {
+            "en": "The verb is yunbitu, from the root n-b-t, to sprout. In the reading most reciters follow, its opening ya makes Allah the doer of the growth, and al-Baghawi glosses it so. Al-Baghawi and al-Qurtubi both record that Abu Bakr, transmitting from 'Asim, read nunbitu, with a nun: We cause to grow. Al-Qurtubi calls that nun a nun of majesty, 'ala al-ta'zim, and says the general body of reciters read it with ya.",
+            "bn": "ক্রিয়াটি ইউমবিতু, এসেছে ন-ব-ত ধাতু থেকে, যার অর্থ অঙ্কুর গজানো। অধিকাংশ কারী যে কিরাআত পড়েন, তাতে শুরুর ইয়া অক্ষরটি জানিয়ে দেয় যে জন্মানোর কাজটি আল্লাহর। বাগাভীর ব্যাখ্যাও তাই। বাগাভী ও কুরতুবী দুজনেই উল্লেখ করেছেন, আবু বকর আসিম থেকে বর্ণনা করে পড়েছেন নুমবিতু, নূন দিয়ে, অর্থাৎ আমি জন্মাই। কুরতুবী বলেন, এই নূন মহিমা প্রকাশের, আলাত তা'যীম, আর সাধারণ কারীগণ পড়েছেন ইয়া দিয়ে।"
+          },
+          {
+            "en": "The two readings tell the same act in the third person and in the first. Al-Qurtubi then pauses on the word itself. Nabatat al-ardu and anbatat, he says, mean the same, the earth sprouted, and he cites a line recited by al-Farra' in which anbata simply means sprouted. What Allah causes to grow is called manbut, he adds, a form that breaks the usual pattern.",
+            "bn": "দুই কিরাআত একই কাজের কথা বলে, একবার তিনি বলে, একবার আমি বলে। কুরতুবী এরপর শব্দটির উপর একটু থামেন। তাঁর কথায়, নাবাতাতিল আরদু আর আমবাতাত একই অর্থ দেয়: মাটিতে উদ্ভিদ গজাল। এর পক্ষে তিনি ফাররার আবৃত্তি করা এক পঙক্তি আনেন, যেখানে আমবাতা মানে কেবল গজানো। তিনি আরও বলেন, আল্লাহ যা জন্মান তাকে বলা হয় মানবূত, যদিও রূপটি সাধারণ নিয়মের বাইরে।"
+          },
+          {
+            "en": "Then lakum, for you, placed before the list. The crops are not set out as a fact of botany. They are addressed to someone. At-Tabari carries this into his paraphrase by giving each item a possessive: your Lord causes to grow for you, with the water He sent down for you from the sky, your crops, your olives, your palms and your grapes. The soil is everyone's soil, yet the harvest comes described as provision with a name on it.",
+            "bn": "তারপর লাকুম, তোমাদের জন্য, শব্দটি বসেছে তালিকার আগেই। ফসলের কথা এখানে উদ্ভিদবিদ্যার তথ্য হিসেবে আসেনি, এসেছে কাউকে সম্বোধন করে। তাবারী তাঁর ব্যাখ্যায় প্রতিটি জিনিসের সঙ্গে জুড়ে দেন তোমাদের শব্দটি: তোমাদের রব আকাশ থেকে তোমাদের জন্য যে পানি নামিয়েছেন, তা দিয়ে তোমাদের জন্য জন্মান তোমাদের শস্য, তোমাদের যায়তুন, তোমাদের খেজুর গাছ, তোমাদের আঙুর। মাটি সবার, তবু ফসলের বর্ণনা আসে এমনভাবে, যেন প্রতিটি রিজিকের গায়ে কারও নাম লেখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Names, Then Every Fruit",
+          "bn": "চারটি নাম, তারপর সব ফল"
+        },
+        "p": [
+          {
+            "en": "The list has five members, and the fifth is of a different kind. Al-zar', the sown crop; al-zaytun, the olive; al-nakhil, date palms; al-a'nab, grapes; then wa min kulli al-thamarat, and of all fruits. The first four are named singly. The fifth throws the list open. At-Tabari explains it as every other fruit besides those, so the four named stand at the head of a much longer line rather than making up the whole of the gift.",
+            "bn": "তালিকায় পাঁচটি জিনিস, আর পঞ্চমটি একেবারে অন্য রকম। আয-যারআ, বোনা ফসল। আয-যাইতূন, যায়তুন। আন-নাখীল, খেজুর গাছ। আল-আ'নাব, আঙুর। তারপর ওয়া মিন কুল্লিস সামারাত, আর সব ধরনের ফল থেকে। প্রথম চারটির নাম আলাদা আলাদা করে নেওয়া হয়েছে। পঞ্চমটি তালিকাটাকে খুলে দেয় সব দিকে। তাবারী এর ব্যাখ্যা করেন: এগুলো ছাড়া বাকি সব ফল। তাহলে নাম নেওয়া চারটি পুরো দান নয়। তারা দাঁড়িয়ে আছে অনেক লম্বা এক সারির একেবারে সামনে।"
+          },
+          {
+            "en": "At-Tabari then says what the whole yield is for: arzaqan lakum wa aqwatan wa idaman wa fakihah, provision for you, staple foods, condiment and fruit, a grace from Him upon you and a favour, and a proof against those of you who disbelieve in Him. He does not pin each of those words to a single plant, and this article will not do it for him. What his list does show is range: what keeps a body alive, what makes food pleasant, and what is eaten for delight.",
+            "bn": "এরপর তাবারী বলেন, এই পুরো ফসল কিসের জন্য: আরযাকান লাকুম ওয়া আকওয়াতান ওয়া ইদামান ওয়া ফাকিহাহ। তোমাদের রিজিক, প্রধান খাদ্য, তরকারি আর ফল। এ তাঁর পক্ষ থেকে তোমাদের উপর নিয়ামত ও অনুগ্রহ, আর তোমাদের মধ্যে যারা তাঁকে অস্বীকার করে তাদের বিরুদ্ধে দলিল। কোন শব্দ কোন গাছের, তা তিনি আলাদা করে বলেননি। এই লেখাও তাঁর হয়ে সে কাজ করবে না। তবে তাঁর তালিকা থেকে বিস্তারটা বোঝা যায়: যা দিয়ে শরীর বাঁচে, যা খাবারকে মুখরোচক করে, আর যা খাওয়া হয় শুধু আনন্দের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why This Order, Unanswered",
+          "bn": "এই ক্রম কেন, উত্তর মেলেনি"
+        },
+        "p": [
+          {
+            "en": "A reader naturally asks why the verse runs crops, olives, palms, grapes, in that order. None of the commentaries fetched for this verse answers the question. At-Tabari, Ibn Kathir, al-Qurtubi, al-Baghawi, as-Sa'di, the Muyassar and Ma'arif al-Qur'an all pass along the list without a word on its sequence. So this article offers no ranking of the four, and no theory about which of them matters most. Silence in the sources is reported here as silence.",
+            "bn": "পাঠকের মনে স্বাভাবিকভাবেই প্রশ্ন জাগে, আয়াতটি শস্য, যায়তুন, খেজুর, আঙুর, ঠিক এই ক্রমে কেন বলল? এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ প্রশ্নের উত্তর দেয় না। তাবারী, ইবন কাসীর, কুরতুবী, বাগাভী, সা'দী, মুয়াসসার, মাআরিফুল কুরআন, সবাই তালিকাটি পেরিয়ে গেছেন ক্রম নিয়ে একটি কথাও না বলে। তাই এই লেখা চারটির মধ্যে কোনো মর্যাদাক্রম দাঁড় করাবে না, কোনটি বেশি গুরুত্বপূর্ণ সে বিষয়ে কোনো তত্ত্বও দেবে না। উৎস যেখানে নীরব, এখানে সেটাকে নীরবতা বলেই জানানো হলো।"
+          },
+          {
+            "en": "What can be said is what the Qur'an itself shows. The same plants gather in other verses, in other orders. In 6:99 grain comes first, then the palm with its low-hanging clusters, then gardens of grapes, olives and pomegranates. In 6:141 gardens come first, then palms and crops, then olives and pomegranates. In 13:4 grapes lead, then crops, then palms, all watered with one water. In 80:27 to 80:31, grain, grapes and herbage come before olive and palm. Read side by side, the plants stay while the arrangement changes. That is an observation from the verses, not a reason any commentator gave.",
+            "bn": "বলা যায় কেবল ততটুকু, যা কুরআন নিজে দেখায়। এই গাছগুলো অন্য আয়াতেও একসঙ্গে এসেছে, তবে অন্য ক্রমে। ৬:৯৯ আয়াতে প্রথমে শস্যদানা, তারপর ঝুলন্ত কাঁদিসহ খেজুর গাছ, তারপর আঙুরের বাগান, যায়তুন আর ডালিম। ৬:১৪১ আয়াতে আগে বাগান, তারপর খেজুর ও শস্য, তারপর যায়তুন ও ডালিম। ১৩:৪ আয়াতে সবার আগে আঙুর, তারপর শস্য, তারপর খেজুর, আর সবই সিক্ত একই পানিতে। ৮০:২৭ থেকে ৮০:৩১ আয়াতে শস্য, আঙুর আর শাকসবজি আসে যায়তুন ও খেজুরের আগে। পাশাপাশি রেখে পড়লে দেখা যায়, গাছগুলো একই থাকে, বদলায় শুধু সাজানোর ধরন। তবে এটা আয়াতগুলো থেকে পাওয়া পর্যবেক্ষণ মাত্র, কোনো মুফাসসিরের দেওয়া কারণ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Same Rain, Different Tastes",
+          "bn": "একই বৃষ্টি, ভিন্ন ভিন্ন স্বাদ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir finds the sign in a single contrast. Allah brings these out of the earth bi-hadha al-ma'i al-wahid, with this one water, for all their difference in kinds, tastes, colours, scents and shapes, and the English abridgement of his commentary says the same. For this reason, he says, the verse closes as it does, with a sign for people who give thought.",
+            "bn": "ইবন কাসীর নিদর্শনটি খুঁজে পান একটিমাত্র বৈপরীত্যে। আল্লাহ এসব মাটি থেকে বের করে আনেন বিহাযাল মায়িল ওয়াহিদ, এই একই পানি দিয়ে, অথচ এদের জাত, স্বাদ, রং, ঘ্রাণ আর আকারে কত ভিন্নতা। তাঁর তাফসীরের ইংরেজি সংক্ষিপ্ত রূপেও একই কথা। তিনি বলেন, এ কারণেই আয়াতটির সমাপ্তি এমন: চিন্তাশীলদের জন্য এতে নিদর্শন আছে।"
+          },
+          {
+            "en": "The Muyassar builds its whole gloss on the same phrase. He brings out for you from the earth, with this one water, the various crops; with it He brings out the olives, the palms and the grapes; and with it every kind of fruit and produce. Three times in one sentence it ties the harvest back to the water, so that while the crops multiply on the page, the reader's eye stays on their single source.",
+            "bn": "মুয়াসসার তার পুরো ব্যাখ্যাই গড়েছে এই কথাটির উপর। তিনি এই একই পানি দিয়ে মাটি থেকে তোমাদের জন্য বের করেন নানা রকম ফসল। তা দিয়েই বের করেন যায়তুন, খেজুর আর আঙুর। আর তা দিয়েই বের করেন সব ধরনের ফল ও মেওয়া। এক বাক্যে তিনবার সে ফসলকে ফিরিয়ে নিয়ে গেছে পানির কাছে। পাতায় ফসলের তালিকা বাড়তে থাকে, কিন্তু পাঠকের চোখ আটকে থাকে তাদের একমাত্র উৎসে।"
+          },
+          {
+            "en": "The Qur'an says as much outright in 13:4: yusqa bi-ma'in wahid, watered with one water, wa nufaddilu ba'daha 'ala ba'din fi al-ukul, and We make some excel others in what they yield to eat. Neither Ibn Kathir nor the Muyassar cites 13:4 on this verse; the link here comes from setting the two verses side by side. Together they turn a grower's everyday experience into a question: if the water is one, where does the difference come from?",
+            "bn": "কুরআন ১৩:৪ আয়াতে কথাটি সরাসরিই বলেছে: ইউসকা বিমায়িন ওয়াহিদ, একই পানিতে সিক্ত, ওয়া নুফাদ্দিলু বা'দাহা আলা বা'দিন ফিল উকুল, আর খাওয়ার স্বাদে আমি কতককে কতকের উপর শ্রেষ্ঠত্ব দিই। ইবন কাসীর বা মুয়াসসার এই আয়াতের আলোচনায় ১৩:৪ উল্লেখ করেননি। দুটি আয়াতকে পাশাপাশি রেখে এই যোগসূত্রটা এখানে টানা হলো। দুটো মিলে কৃষকের প্রতিদিনের অভিজ্ঞতাকে একটা প্রশ্ন বানিয়ে দেয়: পানি যদি একই হয়, তবে এই ভিন্নতা আসে কোথা থেকে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thinking Harder About the Field",
+          "bn": "খেত নিয়ে বেশি ভাবনা"
+        },
+        "p": [
+          {
+            "en": "Inna fi dhalika la-ayatan li-qawmin yatafakkarun: in that is a sign for a people who give thought. Al-Qurtubi fixes what dhalika points to: al-inzal wa al-inbat, the sending down and the making grow. At-Tabari calls the sign a clear indication and a plain mark, and the people those who take a lesson from Allah's admonitions and think on His proofs, and so remember and turn back to Him. The Muyassar says: people who reflect carefully, yata'ammalun, and so take a lesson. In these readings thought leads beyond itself.",
+            "bn": "ইন্না ফী যালিকা লাআয়াতাল লিকাওমিই ইয়াতাফাক্কারূন: এতে নিদর্শন আছে এমন লোকদের জন্য, যারা চিন্তা করে। যালিকা, অর্থাৎ ওই, শব্দটি কোন দিকে ইশারা করছে, কুরতুবী তা ঠিক করে দেন: আল-ইনযাল ওয়াল ইমবাত, নামানো আর জন্মানো। তাবারী নিদর্শনের অর্থ করেন স্পষ্ট প্রমাণ ও পরিষ্কার চিহ্ন। আর সেই লোকেরা হলো যারা আল্লাহর উপদেশ থেকে শিক্ষা নেয়, তাঁর দলিল-প্রমাণ নিয়ে ভাবে, তারপর স্মরণ করে আর তাঁর দিকে ফিরে আসে। মুয়াসসারের ভাষায়, যারা মনোযোগ দিয়ে ভাবে, ইয়াতাআম্মালূন, আর তা থেকে শিক্ষা নেয়। এসব ব্যাখ্যায় চিন্তা নিজেই শেষ কথা নয়, তা মানুষকে নিয়ে যায় আরও সামনে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an asks why this verse ends with yatafakkarun while 16:12, on the night, the day, the sun, the moon and the stars, ends with ya'qilun, who reason. Its answer: linking crops, trees and their fruits to Allah's creativity and wisdom needs some reflection, because there is obviously some human input in the growth of vegetation. The sky has none. Its subjection to Allah's command is an open fact that anyone with some reason will grasp.",
+            "bn": "মাআরিফুল কুরআন প্রশ্ন তোলে: এই আয়াত কেন ইয়াতাফাক্কারূন দিয়ে শেষ হলো, অথচ রাত, দিন, সূর্য, চাঁদ আর তারার কথা বলা ১৬:১২ শেষ হয়েছে ইয়া'কিলূন দিয়ে, যারা বিবেক খাটায়? তার উত্তর: ফসল, গাছপালা আর তাদের ফলকে আল্লাহর সৃষ্টিকুশলতা ও প্রজ্ঞার সঙ্গে মেলাতে কিছুটা চিন্তা লাগে, কারণ গাছপালা বেড়ে ওঠায় বাহ্যত মানুষের কিছু শ্রম থাকে। আকাশে তা নেই। আকাশ যে আল্লাহর আদেশের অধীন, তা খোলা সত্য, সামান্য বিবেক থাকলেই বোঝা যায়।"
+          },
+          {
+            "en": "So the field needs more thought than the sky precisely because people labour in it. Ma'arif presses the point with a single grain or pit: put it in the ground and water it, and that alone cannot make it a great tree covered in flowers of many colours. No tiller, farmer or landowner has made this happen; their role in it, it says, is nil. All of it is tied to the creativity and wisdom of the Absolute Master.",
+            "bn": "এই ব্যাখ্যায় তাহলে আকাশের চেয়ে খেতের জন্য বেশি চিন্তা দরকার, ঠিক এই কারণে যে খেতে মানুষ খাটে। মাআরিফুল কুরআন কথাটা বোঝায় একটা দানা বা আঁটি দিয়ে। মাটিতে পুঁতে পানি দিলেই তা নিজে নিজে বিশাল গাছ হয়ে ওঠে না, যার সারা গায়ে ফোটে নানা রঙের ফুল। কোনো চাষি, কৃষক বা জমির মালিক এটা ঘটাননি। তার ভাষায়, এই প্রক্রিয়ায় তাদের ভূমিকা শূন্য। সবকিছু বাঁধা পরম মালিকের সৃষ্টিকুশলতা আর প্রজ্ঞার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Planted by Us, Grown by Him",
+          "bn": "বুনি আমরা, জন্মান তিনি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the sign as dalala wa hujja, an indication and a proof that there is no god but Allah, and he sets 27:60 beside it. Is it not He who created the heavens and the earth and sent down for you water from the sky, by which We caused to grow gardens full of delight whose trees you could never have grown? Is there a god with Allah? Rather, they are a people who make equals to Him.",
+            "bn": "ইবন কাসীর নিদর্শনটি পড়েন দালালা ওয়া হুজ্জা হিসেবে: আল্লাহ ছাড়া কোনো ইলাহ নেই, তার ইঙ্গিত ও দলিল। পাশে তিনি রাখেন ২৭:৬০। আসমান ও যমীন কে সৃষ্টি করেছেন, আর কে তোমাদের জন্য আকাশ থেকে পানি নামিয়েছেন, যা দিয়ে আমি মনোরম বাগান জন্মিয়েছি? সেসব বাগানের গাছ জন্মানোর সাধ্য তোমাদের ছিল না। আল্লাহর সঙ্গে কি আর কোনো ইলাহ আছে? বরং তারা এমন লোক, যারা অন্যকে তাঁর সমকক্ষ বানায়।"
+          },
+          {
+            "en": "That verse draws the same line Ma'arif drew. The gardens are real gardens, tended by real people, and yet ma kana lakum an tunbitu shajaraha, it was not for you to make their trees grow. The work of the field stays human; the growing does not. This is how one harvest can be, in at-Tabari's words, a grace and a favour to you and at once a proof against whoever among you disbelieves. The produce is the same in every hand. What differs is whether the one who eats it traces it back.",
+            "bn": "মাআরিফুল কুরআন যে সীমারেখা টেনেছে, এই আয়াতও সেটাই টানে। বাগানগুলো সত্যিকারের বাগান, সত্যিকারের মানুষই সেগুলোর যত্ন নেয়। তবু মা কানা লাকুম আন তুমবিতূ শাজারাহা: সেসবের গাছ জন্মানো তোমাদের কাজ ছিল না। খেতের খাটুনি মানুষের, কিন্তু জন্মানোটা নয়। এ কারণেই একই ফসল তাবারীর ভাষায় তোমাদের উপর নিয়ামত ও অনুগ্রহ, আবার একই সঙ্গে তোমাদের মধ্যে যে অস্বীকার করে তার বিরুদ্ধে দলিল। ফসল সবার হাতে একই। পার্থক্য শুধু এখানে, যে খায় সে তার উৎস পর্যন্ত খুঁজে যায় কি না।"
+          },
+          {
+            "en": "None of this belittles the person who farms. Ma'arif's nil concerns the growing itself; its own example still has someone sowing the seed and watering it. And the verse says lakum, for you, to the people who work the land and eat from it. What the sign removes is not effort but the claim that effort is the whole story: I grew this, when the honest sentence is, I planted this, and it was made to grow.",
+            "bn": "এতে চাষির কাজকে মোটেই ছোট করা হয় না। মাআরিফুল কুরআন যে শূন্যের কথা বলেছে, তা জন্মানোর ব্যাপারে। তার নিজের উদাহরণেই কেউ একজন দানা মাটিতে পুঁতছে, পানি দিচ্ছে। আর আয়াত বলছে লাকুম, তোমাদের জন্য, অর্থাৎ যারা জমিতে খাটে আর তা থেকে খায় তাদের জন্য। নিদর্শনটি পরিশ্রম মুছে দেয় না, মুছে দেয় এই দাবি যে পরিশ্রমই সব। মুখে চলে আসে, আমি এটা ফলিয়েছি। অথচ সত্যি কথা হলো, আমি বুনেছি, আর তা জন্মানো হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Plate Back to Cloud",
+          "bn": "থালা থেকে মেঘ পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it, and none is offered here; nor do they give it an occasion of revelation. It sits in the surah's long count of favours, between the rain of 16:10 and the sky of 16:12. Al-Qurtubi touches one legal thread and leaves it where he treated it: the ruling on zakat from these fruits has already passed in Surat al-An'am, he says, so there is no point repeating it.",
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তাই এখানেও কোনো হাদীস আনা হলো না। নাযিলের কোনো উপলক্ষও তারা উল্লেখ করেনি। আয়াতটি সূরার নিয়ামত গোনার দীর্ঘ তালিকায় নিজের জায়গায় বসে আছে, ১৬:১০-এর বৃষ্টি আর ১৬:১২-এর আকাশের মাঝখানে। কুরতুবী শুধু একটি ফিকহি প্রসঙ্গ ছুঁয়ে যান, আর সেটাকে রেখে দেন যেখানে তিনি আগেই আলোচনা করেছেন। তিনি বলেন, এসব ফলের যাকাতের বিধান সূরা আনআমে আগেই বলা হয়েছে, তাই আবার বলার দরকার নেই।"
+          },
+          {
+            "en": "The passage in al-An'am that names these plants with a command about the harvest is 6:141: eat of its fruit when it bears, wa atu haqqahu yawma hasadihi, and give its due on the day of its harvest, and do not be excessive. The details of that due belong to that verse, not to this page. What carries over is the shape of the response: a harvest received as a gift has a share in it for others.",
+            "bn": "সূরা আনআমে যে আয়াত এই গাছগুলোর নাম নিয়ে ফসল সম্পর্কে আদেশ দেয়, তা ৬:১৪১: ফল ধরলে তা থেকে খাও, ওয়া আতূ হাক্কাহু ইয়াওমা হাসাদিহি, আর ফসল তোলার দিন তার হক আদায় করো, এবং অপচয় করো না। সেই হকের খুঁটিনাটি ওই আয়াতের আলোচনার বিষয়, এই লেখার নয়। এখান থেকে যা নিয়ে যাওয়ার, তা সাড়া দেওয়ার ধরনটা। যে ফসলকে দান হিসেবে গ্রহণ করা হয়, তাতে অন্যদেরও একটা ভাগ থাকে।"
+          },
+          {
+            "en": "The practice this verse asks for is small and daily. Before eating, name one thing on the plate and follow it back: the shop, the market, the field, the hands that worked it, the rain, and the One who sent the rain. That is yatafakkur in at-Tabari's sense, thought that becomes remembering and then a turning back. Three verses on, 16:14 ends la'allakum tashkurun, perhaps you will be grateful, and 16:18 says Allah's favours cannot be counted. This verse hands over the first few to count.",
+            "bn": "এই আয়াত যে অভ্যাস চায়, তা ছোট আর প্রতিদিনের। খাওয়ার আগে থালার একটা জিনিসের নাম নিন, তারপর তার পেছনের পথ ধরে হাঁটুন: দোকান, বাজার, খেত, যে হাত খেটেছে, বৃষ্টি, আর যিনি বৃষ্টি পাঠিয়েছেন। তাবারীর অর্থে এটাই তাফাক্কুর, এমন চিন্তা যা স্মরণে গড়ায়, তারপর ফিরে আসায়। তিনটি আয়াত পরে ১৬:১৪ শেষ হয় লাআল্লাকুম তাশকুরূন দিয়ে, যাতে তোমরা শোকর করো। আর ১৬:১৮ বলে, আল্লাহর নিয়ামত গুনে শেষ করা যায় না। গোনার প্রথম কয়েকটা এই আয়াতই হাতে তুলে দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "16:12": {
     "sections": [
       {

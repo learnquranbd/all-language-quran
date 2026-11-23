@@ -33443,6 +33443,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not make Allah's will an excuse for what His word forbids. The message has reached you, so act on it, and when you pass it on, make it clear.",
     "lessonBn": "আল্লাহর বাণী যা নিষেধ করেছে, তাঁর ইচ্ছাকে তার অজুহাত বানাবেন না। বার্তা আপনার কাছে পৌঁছে গেছে, তাই সে অনুযায়ী আমল করুন, আর অন্যকে পৌঁছানোর সময় স্পষ্ট করে পৌঁছান।"
+  },
+  "16:11": {
+    "reflectionEn": "Rain falls on the land, and the same water comes up as grain in one field, olives on one slope, date palms and grapevines beside them, and fruit of every kind. One water, and a table set with different colours, tastes and scents. The verse names what grows, says it grows for you, and then pauses to say that in this is a sign for people who think. Thinking here is no lecture. It is tracing my bread back past the shop, past the farmer's labour, to the cloud, and to the One who sent it. Most days I eat without making that journey. What would change if one meal a day were eaten slowly enough to follow it home?",
+    "reflectionBn": "বৃষ্টি নামে মাটিতে। সেই একই পানি কোনো খেতে উঠে আসে শস্য হয়ে, কোনো ঢালে যায়তুন হয়ে, পাশেই খেজুর গাছ আর আঙুরলতা, সঙ্গে নানা জাতের ফল। পানি একটাই, অথচ দস্তরখানে রং, স্বাদ আর ঘ্রাণের কত না ভিন্নতা। আয়াতটি কী কী জন্মায় তার নাম নেয়, জানায় এসব জন্মায় তোমাদেরই জন্য, তারপর একটু থেমে বলে: যারা চিন্তা করে, তাদের জন্য এতে নিদর্শন আছে। এই চিন্তা কোনো বক্তৃতা নয়। নিজের রুটির খোঁজ নিতে নিতে দোকান পেরিয়ে, কৃষকের ঘাম পেরিয়ে মেঘ পর্যন্ত পৌঁছানো, তারপর সেই সত্তা পর্যন্ত, যিনি মেঘ পাঠান। বেশির ভাগ দিন আমি এ পথটুকু না হেঁটেই খেয়ে উঠি। দিনে অন্তত এক বেলা যদি এমন ধীরে খাই যে খাবারটাকে তার উৎস পর্যন্ত অনুসরণ করা যায়, তাহলে কী বদলাবে?",
+    "pointsEn": [
+      "Which food on my table today could I trace back to the rain, and when did I last thank Allah for it by name?",
+      "Do I treat what I grow, earn or buy as mine by right, or as something made to grow for me?",
+      "Where do I see one gift reaching people in many different forms, and do I see the one Giver behind them all?",
+      "When did I last stay with an ordinary thing long enough for it to become a sign to me?",
+      "Is there a due on what I have been given that I have been slow to pay?"
+    ],
+    "pointsBn": [
+      "আজ আমার দস্তরখানের কোন খাবারটিকে আমি বৃষ্টি পর্যন্ত খুঁজে নিতে পারি? শেষ কবে নাম ধরে সেটার জন্য আল্লাহর শোকর আদায় করেছি?",
+      "যা ফলাই, যা উপার্জন করি বা কিনি, তা কি আমি নিজের হক বলে ধরে নিই, নাকি মনে রাখি যে এসব আমার জন্যই জন্মানো হয়েছে?",
+      "একই দান নানা রূপে নানা মানুষের কাছে পৌঁছাচ্ছে, এমন কোথায় দেখি? আর সবকিছুর পেছনে যে একজনই দাতা, তা কি চোখে পড়ে?",
+      "শেষ কবে কোনো সাধারণ জিনিসের সামনে এতক্ষণ থেমেছি যে সেটা আমার কাছে নিদর্শন হয়ে উঠেছে?",
+      "আমাকে যা দেওয়া হয়েছে তার উপর এমন কোনো হক কি আছে, যা আদায় করতে আমি গড়িমসি করছি?"
+    ],
+    "lessonEn": "Trace your food back to the rain and to the One who sends it, and let ordinary meals become signs that move you to think and to give thanks.",
+    "lessonBn": "নিজের খাবারকে বৃষ্টি পর্যন্ত, আর যিনি বৃষ্টি পাঠান তাঁর পর্যন্ত খুঁজে দেখুন। প্রতিদিনের সাধারণ খাবারও যেন নিদর্শন হয়ে আপনাকে চিন্তা আর শোকরের দিকে টানে।"
   }
 };
 
