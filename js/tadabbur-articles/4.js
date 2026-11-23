@@ -1191,6 +1191,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:35": {
+    "sections": [
+      {
+        "h": {
+          "en": "When Both Sides Pull Away",
+          "bn": "দুজনেই যখন দূরে সরে"
+        },
+        "p": [
+          {
+            "en": "The verse before, 4:34, speaks of a household where estrangement is feared from one side; that verse is left to its own place here. Ibn Kathir names the step from there to here: Allah first mentioned the case where the aversion comes from the wife, then a second case, where the aversion comes from both spouses. That second case is 4:35. Right after it, 4:36 turns to worshipping Allah alone and doing good to parents, kin and neighbours, so the troubled home sits inside a wider circle of rights.",
+            "bn": "এর আগের আয়াত ৪:৩৪ এমন এক সংসারের কথা বলে, যেখানে আশঙ্কা কেবল একটা পক্ষের দিক থেকে দূরত্বের। সে আয়াতের আলোচনা তার নিজের জায়গায়, এ লেখায় নয়। ইবন কাসীর সেখান থেকে এখানে আসার ধাপটা চিহ্নিত করেন। আল্লাহ প্রথমে বলেছেন সেই অবস্থার কথা, যখন বিরাগ আসে স্ত্রীর দিক থেকে। তারপর দ্বিতীয় অবস্থা, যখন বিরাগ দুজনের দিক থেকেই। এই দ্বিতীয় অবস্থাই ৪:৩৫। ঠিক পরেই ৪:৩৬ ফিরে যায় এক আল্লাহর ইবাদতে, আর বাবা-মা, আত্মীয় ও প্রতিবেশীর সঙ্গে সদ্ব্যবহারে। ফলে অশান্ত ঘরটা দাঁড়িয়ে থাকে হকের এক বড় বৃত্তের ভেতরে।"
+          },
+          {
+            "en": "Shiqaq comes from shiqq, a side. As-Sa'di describes the distance and avoidance between the spouses until each of them stands in a side of his own, and al-Qurtubi gives the same picture: each takes a direction other than the other's. At-Tabari makes the word mutual, each doing to the other what is hard to bear. From the wife, he says, it is leaving the right Allah made binding on her toward her husband; from the husband, it is failing either to keep her honourably or to release her with kindness, the wording of 2:229.",
+            "bn": "শিকাক শব্দের মূল শিক্ক, মানে এক পাশ। সা'দী বর্ণনা করেন স্বামী-স্ত্রীর মধ্যকার দূরত্ব আর এড়িয়ে চলার কথা, যতক্ষণ না দুজনে দুই পাশে গিয়ে দাঁড়ায়। কুরতুবীও একই ছবি আঁকেন: প্রত্যেকে অন্যজনের দিক ছেড়ে নিজের আলাদা দিক ধরে। তাবারী শব্দটাকে দুই দিক থেকে দেখেন। প্রত্যেকে অন্যজনের সঙ্গে এমন আচরণ করে যা তার পক্ষে সহ্য করা কঠিন। স্ত্রীর দিক থেকে তা হলো স্বামীর প্রতি আল্লাহ তার উপর যে হক অবধারিত করেছেন, তা ছেড়ে দেওয়া। স্বামীর দিক থেকে তা হলো তাকে ভালোভাবে রাখা কিংবা সদ্ভাবে বিদায় দেওয়া, কোনোটাই না করা। কথাটা ২:২২৯ আয়াতের ভাষা।"
+          },
+          {
+            "en": "Then the opening words, wa-in khiftum, and if you fear. Al-Baghawi records two senses: fear here means certainty, or it means supposition, if you suppose there is a breach between them. At-Tabari glosses it as if you know, O people, and al-Muyassar, addressing the guardians of the two spouses, likewise reads it as if you know of a breach that leads towards parting. Either way, the verse acts as soon as the split is seen, while something can still be done.",
+            "bn": "তারপর আয়াতের শুরুর কথা, ওয়া ইন খিফতুম: যদি তোমরা আশঙ্কা কর। বাগাভী দুটি অর্থ উল্লেখ করেন। এখানে ভয় মানে নিশ্চিত জানা, অথবা মানে ধারণা করা, অর্থাৎ যদি তোমরা মনে কর যে তাদের মধ্যে ফাটল ধরেছে। তাবারী এর ব্যাখ্যা দেন, হে লোকেরা, যদি তোমরা জানতে পার। মুয়াসসার স্বামী-স্ত্রীর অভিভাবকদের সম্বোধন করে একইভাবে পড়ে: যদি তোমরা জানো যে তাদের মধ্যে এমন বিরোধ, যা বিচ্ছেদের দিকে নিয়ে যাচ্ছে। যেভাবেই পড়া হোক, আয়াত কাজ শুরু করে ফাটল চোখে পড়ার মুহূর্তেই। তখনো কিছু করার সুযোগ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Told to Send Them",
+          "bn": "সালিস পাঠানোর দায় কার"
+        },
+        "p": [
+          {
+            "en": "Fa-b'athu, then send, is a plural command, and at-Tabari records a real difference over whom it addresses. Sa'id ibn Jubayr and ad-Dahhak said the ruler to whom the case is raised. As-Suddi said the man and the woman themselves, each sending one. At-Tabari's own judgement is that Allah addressed the Muslims and singled out none of them. All agree, he says, that the sending belongs only to the spouses or the ruler; nothing in the verse, and no report from the Prophet ﷺ, restricts it to either, so both fall under the command.",
+            "bn": "ফাবআসূ, অর্থাৎ পাঠাও, বহুবচনের আদেশ। কাকে উদ্দেশ করে এ আদেশ, তা নিয়ে তাবারী সত্যিকারের এক মতভেদ তুলে ধরেন। সাঈদ ইবন জুবাইর ও দাহহাকের মতে, যে শাসকের কাছে বিষয়টা পৌঁছায় তিনি। সুদ্দীর মতে, স্বামী-স্ত্রী নিজেরাই, প্রত্যেকে একজন করে পাঠাবে। তাবারীর নিজের সিদ্ধান্ত হলো, আল্লাহ মুসলিমদের সম্বোধন করেছেন, কাউকে আলাদা করেননি। তিনি বলেন, সবাই একমত যে পাঠানোর দায় হয় স্বামী-স্ত্রীর, নয়তো শাসকের। আয়াতে কিংবা নবী ﷺ থেকে আসা কোনো বর্ণনায় একে কোনো একজনের মধ্যে সীমিত করা হয়নি। তাই দুই পক্ষই এ আদেশের আওতায়।"
+          },
+          {
+            "en": "Al-Qurtubi reports that the majority of scholars take the address to be to judges and governors, and records the other view that it is to the guardians. Al-Muyassar speaks straight to the guardians of the two spouses. Ma'arif al-Qur'an reads it widely: the authorities, the families of both parties, and the general body of Muslims who have integrity and standing. A quarrel that can no longer stay inside one house can at least be settled inside the two families, instead of going to a court and becoming public knowledge.",
+            "bn": "কুরতুবী জানান, অধিকাংশ আলিমের মতে এ সম্বোধন বিচারক ও শাসকদের প্রতি। অন্য মতটিও তিনি উল্লেখ করেন, যে সম্বোধন অভিভাবকদের প্রতি। মুয়াসসার সরাসরি স্বামী-স্ত্রীর অভিভাবকদেরই সম্বোধন করে। মাআরিফুল কুরআন একে বড় পরিসরে পড়ে: কর্তৃপক্ষ, দুই পক্ষের পরিবার, আর সমাজের সেই মুসলিমরা যাদের সততা ও প্রভাব আছে। ঝগড়া যখন আর একটা ঘরের চার দেয়ালে আটকে থাকে না, তখনো অন্তত দুই পরিবারের ভেতরে তার নিষ্পত্তি হতে পারে। আদালতে গিয়ে পাঁচজনের মুখের কথা হওয়ার দরকার পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One From His, One From Hers",
+          "bn": "স্বামীর ঘরের একজন, স্ত্রীর ঘরের একজন"
+        },
+        "p": [
+          {
+            "en": "Why from the families? Al-Qurtubi answers that relatives know the couple's circumstances best, and adds that the two must be people of integrity, sound judgement and insight in the law; if no one suitable is found among the relatives, two just and knowledgeable outsiders are sent. As-Sa'di draws the qualities from the word hakam itself: two men, accountable, Muslim, upright and of sound mind, who know what lies between the spouses and know both how to join and how to separate.",
+            "bn": "পরিবার থেকে কেন? কুরতুবীর জবাব, আত্মীয়রাই দম্পতির অবস্থা সবচেয়ে ভালো জানে। সঙ্গে তিনি শর্ত জুড়ে দেন: দুজনকে হতে হবে ন্যায়পরায়ণ, বিবেচক, শরীয়তের বিধানে অন্তর্দৃষ্টিসম্পন্ন। আত্মীয়দের মধ্যে যোগ্য কেউ না মিললে বাইরের দুজন ন্যায়পরায়ণ, জ্ঞানী মানুষ পাঠানো হবে। সা'দী এই গুণগুলো বের করেন হাকাম শব্দটা থেকেই। দুজন পুরুষ, দায়িত্বপ্রাপ্ত, মুসলিম, ন্যায়নিষ্ঠ ও সুস্থবুদ্ধির। স্বামী-স্ত্রীর মধ্যে কী চলছে তা তারা জানেন, আর জানেন কীভাবে জোড়া লাগাতে হয়, কীভাবে আলাদা করতে হয়।"
+          },
+          {
+            "en": "When are they sent? Al-Qurtubi says when the case is unclear and no one knows which side causes the harm; if the wrongdoer is known, the right is simply taken from him and he is made to stop the harm. At-Tabari agrees: the ruler sends arbiters only when each spouse complains and it is unclear who is in the right. Ibn Kathir relays the jurists' order: first the couple are placed near a trusted person who watches and restrains the wrongdoer, and only if the quarrel worsens and drags on are the arbiters sent.",
+            "bn": "কখন পাঠানো হবে? কুরতুবী বলেন, যখন বিষয়টা অস্পষ্ট, কার দিক থেকে ক্ষতি আসছে কেউ জানে না। জালিম কে, তা জানা থাকলে তার কাছ থেকে সোজা পাওনা আদায় করা হবে, আর ক্ষতি বন্ধ করতে তাকে বাধ্য করা হবে। তাবারীও একমত: শাসক সালিস পাঠান তখনই, যখন দুজনেই একে অন্যের বিরুদ্ধে নালিশ করে, আর কে হকের উপর আছে তা বোঝা যায় না। ইবন কাসীর ফকীহদের বর্ণিত ধাপটা তুলে ধরেন। প্রথমে দম্পতিকে এক আস্থাভাজন লোকের পাশে রাখা হয়, যিনি নজর রাখবেন আর জালিমকে থামাবেন। ঝগড়া যদি তবু বাড়ে, দীর্ঘ হয়, তখন সালিস পাঠানো হয়।"
+          },
+          {
+            "en": "How do they work? Al-Qurtubi describes each arbiter going privately to his own party: tell me what is in your heart, do you still want her or not? At-Tabari's report from Qays ibn Sa'd is similar. Each arbiter says to his party, tell me truthfully what is in you; then the two meet and each takes a pledge from the other to report honestly what he was told. That, the report says, is when they want reconciliation and Allah brings about agreement. Only then do they know who is in the wrong.",
+            "bn": "তারা কাজ করবেন কীভাবে? কুরতুবী বর্ণনা করেন, প্রত্যেক সালিস নিজের পক্ষের মানুষটির সঙ্গে একান্তে বসবেন: তোমার মনে যা আছে বলো, তুমি কি এখনো তাকে চাও, নাকি চাও না? তাবারী কায়স ইবন সা'দ থেকে একই ধাঁচের এক বর্ণনা আনেন। প্রত্যেক সালিস নিজের পক্ষকে বলেন, মনে যা আছে আমাকে সত্যি করে বলো। তারপর দুই সালিস একসঙ্গে বসেন, একে অন্যের কাছ থেকে অঙ্গীকার নেন যে যা শুনেছেন তা হুবহু জানাবেন। বর্ণনাটি বলে, তখনই তারা মীমাংসা চেয়েছেন, আর আল্লাহ মিল ঘটিয়ে দেন। কেবল তখনই বোঝা যায় দোষ কার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Judges, or Only Agents?",
+          "bn": "বিচারক, নাকি কেবল প্রতিনিধি?"
+        },
+        "p": [
+          {
+            "en": "The commentators divide over a real question: may the two arbiters separate the couple without the spouses' consent? One side says yes. At-Tabari gives Ibn Abbas (RA), through Ali ibn Abi Talhah, saying that if the two agree to separate or to join, their decision stands, and adds Ibn Sirin, ash-Sha'bi, Ibrahim an-Nakha'i and the judge Shurayh. Al-Qurtubi names Malik, al-Awza'i and Ishaq, with reports from Uthman, Ali and Ibn Abbas. His reason: Allah called them hakam, and that is a judge, not an agent or a witness.",
+            "bn": "তাফসীরকারেরা এক সত্যিকারের প্রশ্নে ভাগ হয়ে যান: স্বামী-স্ত্রীর সম্মতি ছাড়া কি দুই সালিস তাদের আলাদা করে দিতে পারেন? একটি পক্ষ বলে, পারেন। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: দুজনে মিলে আলাদা করা বা জোড়া রাখার সিদ্ধান্তে একমত হলে সেটাই কার্যকর। সঙ্গে আনেন ইবন সীরীন, শা'বী, ইবরাহীম নাখঈ আর কাজী শুরাইহকে। কুরতুবী নাম নেন মালিক, আওযাঈ ও ইসহাকের, আর উসমান, আলী ও ইবন আব্বাস থেকে বর্ণনার। তাঁর যুক্তি, আল্লাহ তাদের বলেছেন হাকাম, আর হাকাম মানে বিচারক, প্রতিনিধি বা সাক্ষী নয়।"
+          },
+          {
+            "en": "As-Sa'di stands on the same side: the husband's consent is not required, because a hakam rules even when the one ruled against is unwilling. Ibn Kathir calls this the majority view and the plain sense of the verse. The other side says no. At-Tabari gives al-Hasan and Qatada: the arbiters are sent to reconcile and to testify against the wrongdoer, and separation is not in their hands. Ibn Kathir adds Zayd ibn Aslam, and names Ahmad ibn Hanbal, Abu Thawr and Dawud with them, because the verse mentions reconciliation and not separation.",
+            "bn": "সা'দী একই পক্ষে। স্বামীর সম্মতি শর্ত নয়, কারণ হাকাম রায় দেন, যার বিরুদ্ধে রায় সে রাজি না হলেও। ইবন কাসীর এটাকে অধিকাংশের মত বলেন, আর বলেন এটাই আয়াতের বাহ্যিক অর্থ। অন্য পক্ষ বলে, পারেন না। তাবারী হাসান বসরী ও কাতাদার মত আনেন: সালিস পাঠানো হয় মীমাংসা করাতে, আর জালিমের জুলুমের সাক্ষ্য দিতে। বিচ্ছেদ তাদের হাতে নেই। ইবন কাসীর এ পক্ষে যোগ করেন যায়দ ইবন আসলামকে, আর আহমাদ ইবন হাম্বল, আবু সাওর ও দাউদের নাম নেন। তাদের যুক্তি, আয়াত মীমাংসার কথা বলেছে, বিচ্ছেদের কথা বলেনি।"
+          },
+          {
+            "en": "Al-Qurtubi and Ma'arif al-Qur'an place Abu Hanifah on this second side (the Arabic Ibn Kathir places him on the first), and al-Baghawi calls it the sounder of two views: the husband's arbiter may not pronounce divorce without his consent, nor the wife's arbiter agree a release for her property without her permission. At-Tabari reaches the same conclusion on his own reasoning, that no one may separate a couple without the husband's consent, or take a wife's property without hers. Ash-Shafi'i appears on both sides: al-Qurtubi counts agency as one of his two views, and Ibn Kathir calls the judge view his later position.",
+            "bn": "কুরতুবী ও মাআরিফুল কুরআন আবু হানীফাকে রাখেন এই দ্বিতীয় পক্ষে, যদিও আরবি ইবন কাসীর তাঁকে প্রথম পক্ষে রাখেন। বাগাভী একে দুই মতের মধ্যে অধিক সঠিক বলেন। স্বামীর সালিস তার সম্মতি ছাড়া তালাক দিতে পারেন না। স্ত্রীর সালিসও তার অনুমতি ছাড়া তার সম্পদের বিনিময়ে বিচ্ছেদে রাজি হতে পারেন না। তাবারী নিজের যুক্তিতে একই সিদ্ধান্তে পৌঁছান: স্বামীর সম্মতি ছাড়া কেউ দম্পতিকে আলাদা করতে পারে না, আর স্ত্রীর সম্মতি ছাড়া তার সম্পদও নিতে পারে না। শাফিঈকে দুই পক্ষেই পাওয়া যায়। কুরতুবী বলেন, প্রতিনিধিত্বের মতটি তাঁর দুই মতের একটি। আর ইবন কাসীর বলেন, বিচারকের মতটিই তাঁর পরবর্তী অবস্থান।"
+          },
+          {
+            "en": "Beneath the dispute there is common ground, which Ibn Kathir relays from Ibn Abd al-Barr. The scholars agree that if the two arbiters differ, neither one's word takes effect alone. They agree that their word takes effect in keeping the couple together even without being appointed as agents. And if the spouses do appoint them as agents, Ibn Kathir adds, their ruling binds in joining and in separating without any disagreement. The difference is only over separation imposed without consent.",
+            "bn": "মতভেদের নিচে একটা অভিন্ন জমিও আছে, ইবন কাসীর তা ইবন আবদুল বার থেকে তুলে ধরেন। আলিমরা একমত, দুই সালিসের মত আলাদা হলে একজনের কথা একা কার্যকর হয় না। তারা এ বিষয়েও একমত যে দম্পতিকে একসঙ্গে রাখার সিদ্ধান্ত কার্যকর, প্রতিনিধি নিযুক্ত না হলেও। ইবন কাসীর যোগ করেন, স্বামী-স্ত্রী নিজেরাই যদি তাদের প্রতিনিধি বানায়, তবে জোড়া রাখা ও আলাদা করা দুটোতেই তাদের রায় কার্যকর, এতে কোনো মতভেদ নেই। মতভেদ কেবল সম্মতি ছাড়া চাপিয়ে দেওয়া বিচ্ছেদ নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ali and the Two Crowds",
+          "bn": "আলী (রাঃ) ও দুই দল মানুষ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives, through Ubaydah, the account behind the dispute. A man and his wife came to Ali (RA), each with a crowd, and he had an arbiter sent from each family. He told the arbiters: 'Do you know what is upon you? If you see fit to join them, join them, and if you see fit to separate them, separate them.' The woman said: 'I accept the Book of Allah, in what it holds for me and against me.' The man said: 'As for separation, no.' Ali said: 'You have lied, by Allah. You will not turn away until you affirm the like of what she affirmed.'",
+            "bn": "তাবারী উবাইদার সূত্রে সেই ঘটনাটি আনেন, পুরো মতভেদ যাকে ঘিরে। এক লোক তার স্ত্রীকে নিয়ে আলী (রাঃ)-এর কাছে এল, দুজনের সঙ্গেই একদল করে মানুষ। তিনি তাদের দিয়ে দুই পরিবার থেকে একজন করে সালিস পাঠালেন। তারপর দুই সালিসকে বললেন: 'তোমরা কি জানো তোমাদের দায়িত্ব কী? যদি মনে কর জোড়া রাখবে, জোড়া রাখো। আর যদি মনে কর আলাদা করবে, আলাদা করো।' মহিলা বলল: 'আমি আল্লাহর কিতাবে রাজি, তাতে আমার পক্ষে যা আছে তাতেও, বিপক্ষে যা আছে তাতেও।' লোকটি বলল: 'বিচ্ছেদ? না, ওটা নয়।' আলী বললেন: 'আল্লাহর কসম, তুমি মিথ্যা বলেছ। সে যা মেনে নিয়েছে, তুমিও তা মেনে না নেওয়া পর্যন্ত ফিরতে পারবে না।'"
+          },
+          {
+            "en": "Both sides read the same scene. For Abu Hanifah, as al-Qurtubi reports him, Ali needed the husband's assent, so the arbiters cannot separate on their own. Those who hold the opposite, al-Baghawi explains, say Ali called the man a liar because he denied that separation is in the Book of Allah. Al-Qurtubi adds that had the arbiters been mere agents, Ali would have asked them what they had been delegated to do, not what was upon them.",
+            "bn": "একই দৃশ্য দুই পক্ষই নিজের মতো করে পড়ে। কুরতুবীর বর্ণনায় আবু হানীফার মত হলো, আলী (রাঃ)-কে স্বামীর সম্মতি নিতে হয়েছিল। তাই সালিসরা নিজে থেকে আলাদা করতে পারেন না। বাগাভী ব্যাখ্যা করেন, বিপরীত মতের লোকেরা বলেন, লোকটা অস্বীকার করেছিল যে বিচ্ছেদও আল্লাহর কিতাবে আছে, তাই আলী তাকে মিথ্যাবাদী বলেছিলেন। কুরতুবী আরও বলেন, সালিসরা নিছক প্রতিনিধি হলে আলী জিজ্ঞেস করতেন, তোমাদের কিসের দায়িত্ব দেওয়া হয়েছে। তোমাদের উপর কী দায়, এ প্রশ্ন তিনি করতেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Wish to Set Right?",
+          "bn": "মীমাংসা চায় কারা?"
+        },
+        "p": [
+          {
+            "en": "In yurida islahan: if the two want reconciliation. Al-Qurtubi gives the arbiters as the two, in the view of Ibn Abbas (RA) and Mujahid, and records another view that it is the spouses, if they want peace and are truthful with the arbiters. At-Tabari and al-Baghawi take the arbiters. The promise, yuwaffiqi Allahu baynahuma, divides too: al-Baghawi says between the spouses, or, it is said, between the arbiters. At-Tabari takes the second: Allah brings the two arbiters into agreement, when each has been truthful about what he was told.",
+            "bn": "ইন ইউরীদা ইসলাহান: যদি তারা দুজন মীমাংসা চায়। কুরতুবী বলেন, ইবন আব্বাস (রাঃ) ও মুজাহিদের মতে এই দুজন হলেন সালিস। আরেকটা মতও তিনি উল্লেখ করেন: দুজন মানে স্বামী-স্ত্রী, যদি তারা মিল চায় আর সালিসদের কাছে সত্য বলে। তাবারী ও বাগাভী সালিসদেরই বোঝেন। প্রতিশ্রুতির অংশ, ইউওয়াফফিকিল্লাহু বাইনাহুমা, তাতেও দুই মত। বাগাভী বলেন, এর মানে স্বামী-স্ত্রীর মধ্যে মিল, আর কেউ কেউ বলেন দুই সালিসের মধ্যে। তাবারী দ্বিতীয়টা নেন। প্রত্যেক সালিস তাকে যা বলা হয়েছে সে বিষয়ে সত্যবাদী থাকলে আল্লাহ দুই সালিসকে একমত করে দেন।"
+          },
+          {
+            "en": "Al-Muyassar joins the two readings: because the arbiters want repair and go about it kindly, Allah reconciles the spouses. As-Sa'di holds that while joining is possible the arbiters must not turn from it, but if the pair can stay together only in enmity and disobedience to Allah, and separation seems better, they separate them. Al-Baghawi records that those who allow this read tawfiq itself as release from wrong, which sometimes comes through parting. Ibn Kathir still notes that the Lawgiver looks towards reconciliation, which is why the verse names it.",
+            "bn": "মুয়াসসার দুই পাঠ মিলিয়ে দেয়। সালিসরা মিল চান, আর সুন্দর পন্থায় চেষ্টা করেন, সে কারণেই আল্লাহ স্বামী-স্ত্রীর মধ্যে মিল ঘটান। সা'দীর মতে, জোড়া রাখা যতক্ষণ সম্ভব, সালিসরা তা থেকে সরবেন না। কিন্তু দুজনের একসঙ্গে থাকা যদি কেবল শত্রুতা আর আল্লাহর নাফরমানির মধ্য দিয়েই সম্ভব হয়, আর বিচ্ছেদই ভালো মনে হয়, তবে তারা আলাদা করে দেবেন। বাগাভী জানান, যারা এর অনুমতি দেন তারা তাওফীক শব্দটাকেই পড়েন গুনাহ থেকে মুক্তি হিসেবে, যা কখনো আসে বিচ্ছেদের পথে। তবু ইবন কাসীর মনে করিয়ে দেন, শরীয়তের ঝোঁক মিলনের দিকে, তাই আয়াত সেটারই নাম নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Sees What Is Meant",
+          "bn": "নিয়ত দেখেন তিনিই"
+        },
+        "p": [
+          {
+            "en": "The verse closes: inna Allaha kana 'aliman khabira. At-Tabari reads it as knowing what the arbiters intended, aware of that and of everything else about them, so that each is repaid. As-Sa'di says He knows the outward and the inward, and that from this knowledge He gave these rulings. Ma'arif al-Qur'an hears a warning to the arbiters: no injustice or crookedness of theirs will go unnoticed. The arbiters hear what is said; Allah sees what is meant.",
+            "bn": "আয়াত শেষ হয়: ইন্নাল্লাহা কানা আলীমান খাবীরা। তাবারীর ব্যাখ্যায়, সালিসরা কী চেয়েছেন আল্লাহ তা জানেন। তাদের এবং তাদের সব বিষয়ের খবর রাখেন, যাতে প্রত্যেককে প্রতিদান দেন। সা'দী বলেন, তিনি প্রকাশ্য ও গোপন সবই জানেন, আর সেই জ্ঞান থেকেই এই বিধানগুলো দিয়েছেন। মাআরিফুল কুরআন এখানে সালিসদের জন্য একটা সতর্কবাণী শোনে: তাদের কোনো অবিচার বা বাঁকা চাল নজর এড়াবে না। সালিস শোনেন মুখের কথা, আর আল্লাহ দেখেন মনের উদ্দেশ্য।"
+          },
+          {
+            "en": "The method reaches beyond marriage. Ma'arif al-Qur'an says jurists apply it to other disputes, especially between relatives, and cites from a manual for judges an instruction attributed to Umar (RA): send disputes between relatives back so that they make peace, for a court's ruling leaves rancour behind. Al-Qurtubi finds in the verse proof that arbitration is valid, against a group who said that no one but Allah may judge: a true word, he says, by which falsehood is meant.",
+            "bn": "এ পদ্ধতি দাম্পত্যের গণ্ডি ছাড়িয়ে যায়। মাআরিফুল কুরআন বলে, ফকীহরা অন্য বিবাদেও এটা প্রয়োগ করেন, বিশেষ করে আত্মীয়দের মধ্যে। বিচারকদের এক নির্দেশিকা থেকে সে উমর (রাঃ)-এর নামে বর্ণিত একটা নির্দেশ উদ্ধৃত করে: আত্মীয়দের বিবাদ তাদের কাছেই ফেরত পাঠাও, যাতে তারা নিজেরা মিটিয়ে নেয়, কারণ আদালতের রায় মনে বিদ্বেষ রেখে যায়। কুরতুবী এ আয়াতে সালিসি বৈধ হওয়ার প্রমাণ পান। এক দল বলেছিল, আল্লাহ ছাড়া কেউ ফয়সালা করতে পারে না। তাঁর মতে কথাটা সত্য, কিন্তু উদ্দেশ্যটা বাতিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent to Mend, Not to Win",
+          "bn": "জেতাতে নয়, জোড়া লাগাতে"
+        },
+        "p": [
+          {
+            "en": "None of the commentators fetched for this verse attaches a hadith of the Prophet ﷺ to it; what they bring are reports from the Companions and those after them. A general hadith, not tied to this verse, names the work the arbiters are sent to do. At-Tirmidhi records from Abu ad-Darda' that the Messenger of Allah ﷺ said: 'Shall I not inform you of what is more virtuous than the rank of fasting, prayer and charity?' They said: 'Certainly.' He said: 'Setting right what is between people, for the ruin of what is between people is the shaver.' At-Tirmidhi grades it sahih.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। তারা আনেন সাহাবী ও তাদের পরবর্তীদের বর্ণনা। একটা সাধারণ হাদীস আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, কিন্তু সালিসদের কাজটার নাম বলে দেয়। তিরমিযী আবুদ দারদা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: 'আমি কি তোমাদের এমন জিনিসের কথা বলব না, যার মর্যাদা রোজা, নামাজ ও সদকার চেয়েও বেশি?' তারা বললেন: 'অবশ্যই।' তিনি বললেন: 'মানুষের পারস্পরিক সম্পর্ক ঠিক করে দেওয়া। কারণ পারস্পরিক সম্পর্কের বিনাশই হলো মুণ্ডনকারী।' তিরমিযী একে সহীহ বলেছেন।"
+          },
+          {
+            "en": "This verse describes a household in conflict and a remedy for it, and it licenses nothing against any living person. It gives no warrant to blame either spouse before the facts are known, to suspect women or men as a class, or to hold anyone in harm in the name of reconciliation; the commentators' whole effort is to find who wronged whom and stop it. What it asks of a family is quieter: choose arbiters for fairness rather than loyalty, tell your own arbiter the truth, keep the matter close, and want the mending.",
+            "bn": "আয়াতটি বিবাদে জড়ানো এক সংসার আর তার প্রতিকারের কথা বলে। কোনো জীবিত মানুষের বিরুদ্ধে কিছু করার অনুমতি এটি দেয় না। ঘটনা জানার আগে স্বামী বা স্ত্রী কাউকে দোষী ধরার অধিকার এখানে নেই। নারী বা পুরুষকে গোটা জাত হিসেবে সন্দেহ করারও নয়। মিলনের নাম করে কাউকে ক্ষতির মধ্যে আটকে রাখারও নয়। তাফসীরকারদের সব চেষ্টা এটুকু খুঁজে বের করতে, কে কার উপর জুলুম করেছে, আর সেটা থামাতে। পরিবারের কাছে আয়াতের চাওয়া আরও নীরব। আনুগত্য দেখে নয়, ন্যায়পরায়ণতা দেখে সালিস বাছুন। নিজের সালিসকে সত্য বলুন। বিষয়টা ঘনিষ্ঠদের মধ্যেই রাখুন। আর আন্তরিকভাবে জোড়া লাগাতে চান।"
+          }
+        ]
+      }
+    ]
+  },
   "4:36": {
     "sections": [
       {

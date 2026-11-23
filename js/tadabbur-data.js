@@ -30783,6 +30783,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take each hardship as Allah showing what is in your own heart, leave the hidden hearts of others to Him, and hold to belief and duty.",
     "lessonBn": "প্রতিটি কষ্টকে দেখুন আপনার নিজের অন্তরে কী আছে তা আল্লাহর দেখিয়ে দেওয়া হিসেবে। অন্যের লুকানো অন্তর তাঁর হাতে ছেড়ে দিন, আর ঈমান ও তাকওয়া আঁকড়ে থাকুন।"
+  },
+  "4:35": {
+    "reflectionEn": "A marriage rarely breaks in one night. It pulls apart a little at a time, until each of the two is standing on a different side. This verse does not wait for the break. Before anyone speaks of divorce, it sends two people in, one from his family and one from hers, trusted and fair, who know the house from the inside. Their task is to listen, to find where the wrong lies, and to want repair. Then a promise: if they want to set things right, Allah will bring about agreement. People are asked to seek the mending, and He is the One who grants it. When a home near me starts to divide, is my voice one that widens the split or one that wants it healed?",
+    "reflectionBn": "একটা সংসার সাধারণত এক রাতে ভাঙে না। একটু একটু করে দূরত্ব বাড়ে, শেষে দুজন দাঁড়িয়ে যায় দুই ভিন্ন পাশে। এ আয়াত ভাঙন পর্যন্ত অপেক্ষা করে না। তালাকের কথা ওঠার আগেই সে দুজন মানুষকে পাঠায়: একজন স্বামীর পরিবার থেকে, একজন স্ত্রীর পরিবার থেকে। দুজনেই আস্থাভাজন, ন্যায়পরায়ণ, ঘরের ভেতরের খবর জানেন। তাদের কাজ মন দিয়ে শোনা, দোষটা কোথায় তা খুঁজে বের করা, আর আন্তরিকভাবে মিলন চাওয়া। তারপর আসে একটা প্রতিশ্রুতি: তারা যদি মীমাংসা চায়, আল্লাহ মিল ঘটিয়ে দেবেন। জোড়া লাগানোর চেষ্টা মানুষের দায়িত্ব, আর জোড়া লাগিয়ে দেন তিনি। আমার চেনা কোনো ঘর যখন ভাঙতে শুরু করে, তখন আমার কথা কি ফাটলটা আরও চওড়া করে, নাকি সেটা সারাতে চায়?",
+    "pointsEn": [
+      "When two people I love are pulling apart, do I take a side before I have heard both of them?",
+      "If I were sent as the arbiter from one family, could I be trusted to tell the truth even when it does not favour my own relative?",
+      "In my own marriage or closest bond, what have I stopped saying honestly that a fair listener would need to hear?",
+      "Do I keep a quarrel inside the circle that can heal it, or carry it to people who will only spread it?",
+      "When repair truly fails, can I still part without wronging anyone, trusting the One who knows and is aware?"
+    ],
+    "pointsBn": [
+      "প্রিয় দুজন মানুষের মধ্যে যখন দূরত্ব বাড়ে, দুজনের কথা শোনার আগেই কি আমি একজনের পক্ষ নিয়ে ফেলি?",
+      "এক পরিবারের পক্ষ থেকে সালিস হয়ে গেলে আমি কি সত্য কথা বলব, যখন সেই সত্য আমার নিজের আত্মীয়ের বিপক্ষে যায়?",
+      "আমার নিজের দাম্পত্যে বা সবচেয়ে কাছের সম্পর্কে কোন কথাটা আমি আর খোলাখুলি বলি না, অথচ ন্যায্য একজন শ্রোতার সেটা জানা দরকার?",
+      "ঝগড়াটা কি আমি সেই গণ্ডির ভেতরে রাখি যেখানে তা মিটতে পারে, নাকি এমন লোকের কাছে নিয়ে যাই যারা কেবল তা ছড়াবে?",
+      "সত্যিই যদি মিল আর সম্ভব না হয়, তবু কি আমি কারও উপর জুলুম না করে আলাদা হতে পারব, সেই সত্তার উপর ভরসা রেখে যিনি সব জানেন, সব খবর রাখেন?"
+    ],
+    "lessonEn": "When a marriage begins to split, send fair and trusted people from both families who truly want repair; the agreement itself is Allah's to grant.",
+    "lessonBn": "দাম্পত্যে ফাটল ধরতে শুরু করলে দুই পরিবার থেকে এমন ন্যায়পরায়ণ, আস্থাভাজন মানুষ পাঠান যারা আন্তরিকভাবে মিলন চায়। আর মিল ঘটিয়ে দেওয়া আল্লাহরই কাজ।"
   }
 };
 
