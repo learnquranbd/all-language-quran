@@ -32903,6 +32903,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Remember the hardships Allah brought you through by naming the rescue as well as the wound, and meet both ease and hardship as a test of thanks and patience.",
     "lessonBn": "যে কষ্ট থেকে আল্লাহ আপনাকে পার করে এনেছেন, তা মনে করুন ক্ষতের সঙ্গে উদ্ধারের কথাও বলে, আর সুখ ও কষ্ট দুটোকেই শোকর আর সবরের পরীক্ষা হিসেবে গ্রহণ করুন।"
+  },
+  "13:20": {
+    "reflectionEn": "The previous verse asked a question: is the one who knows the revelation is true like one who is blind? Only people of understanding take heed. Now the Qur'an says who they are, and the first thing it names is not cleverness. They keep the covenant of Allah, and they do not break the pledge. Understanding, on this account, shows in what a person keeps. Allah's covenant reaches every command He gave, and the pledge reaches every promise a person makes, to Him and to other people. Breaking a word rarely feels like breaking anything at the time. It feels like a small change of plan. So the verse asks something plain: what have I promised, and is it still being kept?",
+    "reflectionBn": "আগের আয়াত একটি প্রশ্ন রেখেছিল: যে জানে নাজিল হওয়া বাণী সত্য, সে কি অন্ধের মতো? উপদেশ নেয় কেবল বুদ্ধিমানেরা। এবার কুরআন জানিয়ে দিচ্ছে তারা কারা। আর প্রথমেই যে গুণের নাম আসে, তা চালাকি নয়। তারা আল্লাহর সঙ্গে করা অঙ্গীকার পূরণ করে, প্রতিশ্রুতি ভাঙে না। এ হিসাবে বুদ্ধির পরিচয় মেলে মানুষ কী রক্ষা করে তাতে। আল্লাহর অঙ্গীকার ছড়িয়ে আছে তাঁর প্রতিটি আদেশে। আর প্রতিশ্রুতি বলতে আসে মানুষের দেওয়া সব কথা, আল্লাহকে দেওয়া হোক বা মানুষকে। কথা ভাঙার মুহূর্তে সাধারণত মনে হয় না যে কিছু ভাঙছি। মনে হয়, পরিকল্পনা একটু বদলালাম মাত্র। তাই আয়াতটির প্রশ্ন সোজা: আমি কী কী কথা দিয়েছি, আর তার কোনটা এখনো রক্ষা হচ্ছে?",
+    "pointsEn": [
+      "If understanding is measured by what I keep rather than what I know, how would my own understanding be measured this week?",
+      "Which command of Allah have I quietly moved from the list of things I keep to the list of things I mean to keep one day?",
+      "What promise to another person did I last call a change of plan, when the honest word for it was breaking it?",
+      "Do I give my word easily because keeping it seems light, or carefully because I know it is a pledge?",
+      "Which of my small, private commitments to Allah do I actually keep when no one but He is watching?"
+    ],
+    "pointsBn": [
+      "বুদ্ধির মাপ যদি হয় আমি কী জানি তা দিয়ে নয়, কী রক্ষা করি তা দিয়ে, তবে এ সপ্তাহে আমার বুদ্ধি কতটুকু মাপা যাবে?",
+      "আল্লাহর কোন আদেশটা আমি চুপচাপ 'মেনে চলি' তালিকা থেকে সরিয়ে 'একদিন মানব' তালিকায় তুলে রেখেছি?",
+      "কাউকে দেওয়া কোন কথাকে শেষবার আমি 'পরিকল্পনা বদল' বলেছি, অথচ সৎ নামটা ছিল কথা ভাঙা?",
+      "আমি কি সহজে কথা দিই, কারণ রক্ষা করাটা হালকা মনে হয়? নাকি সাবধানে দিই, কারণ জানি এটা একটা অঙ্গীকার?",
+      "আল্লাহর সঙ্গে আমার যে ছোট ছোট গোপন অঙ্গীকার, তিনি ছাড়া কেউ না দেখলে তার কোনগুলো আমি সত্যিই রক্ষা করি?"
+    ],
+    "lessonEn": "Show your understanding in what you keep: hold to what Allah commanded and keep every promise you make, to Him and to people.",
+    "lessonBn": "বুদ্ধির প্রমাণ দিন যা রক্ষা করেন তা দিয়ে: আল্লাহর আদেশ আঁকড়ে থাকুন, আর তাঁকে ও মানুষকে দেওয়া প্রতিটি কথা রক্ষা করুন।"
   }
 };
 

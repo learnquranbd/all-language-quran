@@ -775,6 +775,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "13:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Who Takes Heed, Named",
+          "bn": "যারা উপদেশ নেয়, তাদের পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Verse 13:19 set the one who knows that the revelation is the truth beside one who is blind, and closed: innama yatadhakkaru ulu al-albab, only people of understanding take heed. Verse 13:20 opens with alladhina, those who, and so begins to describe them. Al-Qurtubi states the link directly: this is from the description of the people of understanding, meaning that only those of understanding who fulfil Allah's covenant take heed. At-Tabari reads it the same way, and al-Muyassar runs the two verses together as one sentence.",
+            "bn": "১৩:১৯ আয়াত দুজনকে পাশাপাশি দাঁড় করিয়েছিল: একজন জানে নাজিল হওয়া বাণী সত্য, আরেকজন অন্ধ। তারপর আয়াতটি শেষ হয়েছিল এ কথায়: ইন্নামা ইয়াতাযাক্কারু উলুল আলবাব, উপদেশ নেয় কেবল বুদ্ধিমানেরা। ১৩:২০ আয়াত শুরু হয় আল্লাযীনা দিয়ে, অর্থাৎ যারা। এখান থেকেই তাদের বর্ণনা শুরু। কুরতুবী সংযোগটা সরাসরি বলে দেন: এটা বুদ্ধিমানদেরই গুণের বর্ণনা, মানে উপদেশ নেয় সেই বুদ্ধিমানেরা যারা আল্লাহর অঙ্গীকার পূরণ করে। তাবারীও একইভাবে পড়েন, আর মুয়াসসার দুটি আয়াতকে এক বাক্যে গেঁথে দেয়।"
+          },
+          {
+            "en": "Qatada, in the report at-Tabari gives with its chain, puts the connection in a phrase: Allah said that only people of understanding take heed, then He made clear who they are. As-Sa'di frames it as an answer to a reader's question: if you ask what they are like, you will find no better description than Allah's own. Ibn Kathir's abridged commentary reads 13:20 to 13:24 as one passage, the qualities that lead to the good final home. The list continues through 13:21 and 13:22; this page stays with its first two traits.",
+            "bn": "তাবারী সনদসহ কাতাদার যে বর্ণনা আনেন, তাতে সংযোগটা এক কথায় ধরা আছে: আল্লাহ বললেন উপদেশ নেয় কেবল বুদ্ধিমানেরা, তারপর স্পষ্ট করে দিলেন তারা কারা। সা'দী বিষয়টা সাজান পাঠকের প্রশ্নের জবাব হিসেবে। আপনি যদি জানতে চান তারা কেমন, তবে আল্লাহর নিজের বর্ণনার চেয়ে সুন্দর বর্ণনা আর পাবেন না। ইবন কাসীরের সংক্ষিপ্ত তাফসীর ১৩:২০ থেকে ১৩:২৪ পর্যন্ত একটি টানা অংশ হিসেবে পড়ে, যেখানে সেসব গুণের কথা আছে যা উত্তম শেষ ঠিকানায় পৌঁছে দেয়। তালিকাটা ১৩:২১ ও ১৩:২২ পর্যন্ত চলে গেছে। এ লেখা থাকবে তার প্রথম দুটি গুণ নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Command Counted as Covenant",
+          "bn": "প্রতিটি আদেশই অঙ্গীকার"
+        },
+        "p": [
+          {
+            "en": "Yufuna bi-'ahdi Allah: they fulfil the covenant of Allah. Al-Qurtubi calls al-'ahd here a generic noun, so it means all of Allah's covenants, and he says what they are: His commands and prohibitions, which He enjoined on His servants. The phrase therefore takes in holding to every obligation and keeping away from every sin. Al-Baghawi reads it as what Allah commanded and made binding on them, which they do not go against. Al-Muyassar has the covenant He commanded them with, and at-Tabari glosses the covenant as Allah's charge, the wasiyya He laid on them.",
+            "bn": "ইউফূনা বি-আহদিল্লাহ: তারা আল্লাহর অঙ্গীকার পূরণ করে। কুরতুবীর মতে এখানে আহদ শব্দটি জাতিবাচক, তাই এর অর্থ আল্লাহর সব অঙ্গীকার। সেগুলো কী, তাও তিনি বলে দেন: তাঁর আদেশ ও নিষেধ, যা তিনি বান্দাদের উপর ন্যস্ত করেছেন। তাই কথাটার ভেতরে চলে আসে সব ফরজ আঁকড়ে থাকা আর সব গুনাহ থেকে দূরে থাকা। বাগাভী পড়েন এভাবে: আল্লাহ যা আদেশ করেছেন ও তাদের উপর ফরজ করেছেন, তারা তার বিরোধিতা করে না। মুয়াসসারের ভাষায়, সেই অঙ্গীকার যার আদেশ তিনি তাদের দিয়েছেন। আর তাবারী অঙ্গীকারের ব্যাখ্যা দেন ওসিয়ত শব্দে, অর্থাৎ আল্লাহ তাদের যে দায়িত্ব বুঝিয়ে দিয়েছেন।"
+          },
+          {
+            "en": "As-Sa'di finds two directions in the one phrase: the covenant Allah entrusted to them, and the one He made them pledge, namely to carry out His rights complete and unstinted. Then he defines the verb. To fulfil those rights is to give them their full due, bringing them to completion and putting sincerity, nush, into them. Fulfilment on his reading is not a minimum met but a task finished well. He ends with the stakes: a servant is not counted among the people of understanding, who have the great reward, except by discharging these in full, without breaking them or cutting them short.",
+            "bn": "সা'দী একই কথার ভেতরে দুটি দিক দেখেন। এক, আল্লাহ তাদের হাতে যে অঙ্গীকার সঁপে দিয়েছেন। দুই, যে অঙ্গীকার তিনি তাদের কাছ থেকে নিয়েছেন: তাঁর হকগুলো পুরোপুরি, কোনো কমতি ছাড়া আদায় করা। তারপর তিনি ক্রিয়াটির সংজ্ঞা দেন। হক পূরণ করা মানে তার পূর্ণ প্রাপ্য বুঝিয়ে দেওয়া, কাজটা শেষ পর্যন্ত পৌঁছে দেওয়া, আর তাতে আন্তরিকতা বা নুসহ ঢেলে দেওয়া। তাঁর পাঠে পূরণ করা মানে কোনোমতে ন্যূনতম সারা নয়, বরং কাজটা যত্ন করে সম্পন্ন করা। শেষে তিনি ঝুঁকিটাও বলে দেন: এগুলো পুরোপুরি আদায় না করলে, না ভেঙে আর কম না করে, কোনো বান্দা সেই বুদ্ধিমানদের দলে গণ্য হয় না যাদের জন্য আছে মহা প্রতিদান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Pledge: Every One, or One",
+          "bn": "মীসাক: সব প্রতিশ্রুতি, নাকি একটি"
+        },
+        "p": [
+          {
+            "en": "Wa-la yanqudūna al-mithaq: and they do not break the pledge. Al-Qurtubi gives two possibilities. The word may mean pledges as a kind, so that whenever they bind themselves to a covenant in obedience to Allah, they do not undo it. Or it may point to one pledge in particular, the one Allah took from His servants when He brought them out from the loins of their father Adam. Al-Baghawi records that second reading as a further view, introduced with qila, it is said: the covenant He took from the offspring of Adam (AS) when He drew them from his loins.",
+            "bn": "ওয়া লা ইয়ানকুদূনাল মীসাক: আর তারা প্রতিশ্রুতি ভঙ্গ করে না। কুরতুবী দুটি সম্ভাবনার কথা বলেন। শব্দটি প্রতিশ্রুতির পুরো জাতকে বোঝাতে পারে। তখন অর্থ হবে, আল্লাহর আনুগত্যে তারা যখনই কোনো অঙ্গীকারে নিজেদের বাঁধে, তা আর খুলে ফেলে না। আবার শব্দটি নির্দিষ্ট একটি প্রতিশ্রুতির দিকেও ইঙ্গিত করতে পারে: যে প্রতিশ্রুতি আল্লাহ বান্দাদের কাছ থেকে নিয়েছিলেন, যখন তাদের পিতা আদম (আঃ)-এর পিঠ থেকে তাদের বের করে এনেছিলেন। বাগাভী দ্বিতীয় পাঠটিকে আরেকটি মত হিসেবে আনেন, 'বলা হয়' শব্দে শুরু করে: আদম (আঃ)-এর বংশধরদের তাঁর পিঠ থেকে বের করার সময় নেওয়া অঙ্গীকার।"
+          },
+          {
+            "en": "Al-Qurtubi also cites al-Qaffal, for whom the pledge is what was set in human minds of the proofs of tawhid and of prophethood. That makes three readings: every pledge a person makes, the pledge of that first gathering, and the evidence built into reason itself. At-Tabari keeps to the plain sense: they do not go against the covenant they made with Allah by acting other than He commanded and turning to what He forbade. Al-Muyassar calls the mithaq al-'ahd al-mu'akkad, the pledge made firm, which they made with Allah and do not break.",
+            "bn": "কুরতুবী কাফফালের মতও আনেন। তাঁর কাছে মীসাক হলো তাওহীদ ও নবুওয়তের প্রমাণ, যা মানুষের বুদ্ধির ভেতরে গেঁথে দেওয়া হয়েছে। তাহলে পাঠ দাঁড়াল তিনটি। মানুষের দেওয়া প্রতিটি প্রতিশ্রুতি, সেই প্রথম সমাবেশের প্রতিশ্রুতি, আর বুদ্ধির ভেতরে বসানো প্রমাণ। তাবারী থাকেন সরল অর্থে: আল্লাহর সঙ্গে তারা যে অঙ্গীকার করেছে, তার উল্টো পথে তারা যায় না। মানে আল্লাহ যা আদেশ করেছেন তার বাইরে কিছু করে না, আর যা নিষেধ করেছেন তার দিকে ঝোঁকে না। মুয়াসসার মীসাককে বলে আল-আহদুল মুআক্কাদ, অর্থাৎ পাকা করা অঙ্গীকার, যা তারা আল্লাহর সঙ্গে করেছে এবং ভাঙে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Clause Holds Alast",
+          "bn": "আলাসতুর অঙ্গীকার কোন অংশে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an files that first covenant under the other clause. On 'ahd Allah it says the phrase covers all the promises Allah took from His servants, and the very first was the covenant taken before an assembly of all spirits: alastu bi-rabbikum, Am I not your Lord? to which everyone answered bala, yes. The words are in 7:172. It then adds the pledges about obeying Allah's injunctions, doing assigned duties and keeping away from what He forbade, which are mentioned in different verses of the Qur'an.",
+            "bn": "মাআরিফুল কুরআন সেই প্রথম অঙ্গীকারকে রাখে অন্য অংশে। আহদুল্লাহর আলোচনায় সে বলে, আল্লাহ বান্দাদের কাছ থেকে যত প্রতিশ্রুতি নিয়েছেন সবই এর মধ্যে পড়ে। আর তার প্রথমটি নেওয়া হয়েছিল সব রূহের এক সমাবেশে: আলাসতু বিরাব্বিকুম, আমি কি তোমাদের রব নই? সবাই জবাব দিয়েছিল বালা, অবশ্যই। কথাগুলো আছে ৭:১৭২ আয়াতে। এরপর সে যোগ করে আরও কিছু অঙ্গীকারের কথা: আল্লাহর বিধান মানা, নির্ধারিত দায়িত্ব পালন করা, আর তিনি যা নিষেধ করেছেন তা থেকে বিরত থাকা। কুরআনের বিভিন্ন আয়াতে এসবের উল্লেখ আছে।"
+          },
+          {
+            "en": "For the second clause Ma'arif widens the circle. It includes all covenants: the pledges between Allah and His servants already named, the pledges a religious community gives its prophet, and the contracts and pacts one person makes with another. As-Sa'di goes the same way, calling not breaking the pledge part of fulfilling the covenant in full: into it enter every pledge, covenant, oath and vow that people contract. So the commentators file 7:172 in different places, al-Qurtubi and al-Baghawi as one possible sense of al-mithaq, Ma'arif as the first item of Allah's covenant. Both keep it within the verse.",
+            "bn": "দ্বিতীয় অংশে মাআরিফুল কুরআন পরিধিটা বাড়িয়ে দেয়। এর মধ্যে আসে সব অঙ্গীকার: আল্লাহ ও বান্দার মধ্যকার যে অঙ্গীকারের কথা আগেই এসেছে, কোনো উম্মত তার নবীকে যে প্রতিশ্রুতি দেয়, আর একজন মানুষ আরেকজনের সঙ্গে যে চুক্তি ও সন্ধি করে। সা'দীও একই পথে যান। তাঁর মতে প্রতিশ্রুতি না ভাঙা অঙ্গীকার পুরোপুরি পূরণেরই অংশ, আর এর ভেতরে ঢোকে মানুষের করা সব প্রতিশ্রুতি, চুক্তি, কসম ও মানত। তাহলে ৭:১৭২ আয়াতের অঙ্গীকারকে তাফসীরকারেরা রাখেন ভিন্ন ভিন্ন জায়গায়। কুরতুবী ও বাগাভীর কাছে এটা মীসাকের একটি সম্ভাব্য অর্থ, মাআরিফুল কুরআনের কাছে আল্লাহর অঙ্গীকারের প্রথম দফা। দুই পক্ষই অবশ্য একে এ আয়াতের ভেতরেই রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Warned in Twenty-Odd Places",
+          "bn": "বিশের বেশি জায়গায় সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "Qatada, in at-Tabari's report, draws a charge straight from the verse: keep the covenant and do not break this pledge, for Allah has forbidden it and warned against it in the strongest terms, mentioning it in some twenty-odd places, as counsel to you, a warning given in advance, and a proof against you. Al-Qurtubi relays the same count from Qatada, some twenty-odd verses. Qatada then closes: a matter becomes great through what Allah made great in it, among people of understanding and reason, so treat as great what Allah has made great.",
+            "bn": "তাবারীর বর্ণনায় কাতাদা আয়াত থেকে সরাসরি একটি নির্দেশ বের করেন: অঙ্গীকার পূরণ করো, এই প্রতিশ্রুতি ভেঙো না। আল্লাহ এটা নিষেধ করেছেন, কঠোরতম ভাষায় আগেভাগে সাবধান করেছেন, বিশের বেশি জায়গায় এর উল্লেখ করেছেন। এটা তোমাদের জন্য নসিহত, আগাম সতর্কবাণী, আর তোমাদের বিরুদ্ধে দলিল। কুরতুবীও কাতাদা থেকে একই সংখ্যা আনেন: বিশের বেশি আয়াত। তারপর কাতাদা শেষ করেন এভাবে: বোঝার ও বুদ্ধির অধিকারীদের কাছে কোনো বিষয় বড় হয় সেটুকু দিয়েই, যেটুকু দিয়ে আল্লাহ তাকে বড় করেছেন। কাজেই আল্লাহ যাকে বড় করেছেন, তোমরাও তাকে বড় জানো।"
+          },
+          {
+            "en": "At-Tabari's report then adds a saying on trust and covenant that Qatada says the Prophet ﷺ used in his sermons. Qatada introduces it with \"it was mentioned to us\", naming no one, so the report gives it no connected chain, and it is not confirmed here from a collection; it is noted and nothing is built on it. The surah itself supplies the contrast a few verses on. Verse 13:25 describes those who break Allah's covenant after its pledge, sever what He ordered joined and spread corruption, and 2:27 says the same of the fasiqin.",
+            "bn": "তাবারীর বর্ণনায় এরপর আমানত ও অঙ্গীকার বিষয়ে একটি বাণী আসে, যা কাতাদার ভাষ্যমতে নবী ﷺ তাঁর খুতবায় বলতেন। কাতাদা কথাটা শুরু করেন 'আমাদের কাছে উল্লেখ করা হয়েছে' বলে, কারও নাম নেন না। ফলে বর্ণনাটির কোনো অবিচ্ছিন্ন সনদ এখানে নেই, আর কোনো হাদীস সংকলন থেকেও এটা যাচাই করা যায়নি। তাই শুধু উল্লেখ করা হলো, এর উপর কিছু দাঁড় করানো হচ্ছে না। বিপরীত ছবিটা সূরা নিজেই কয়েক আয়াত পরে দেখায়। ১৩:২৫ আয়াত বলে তাদের কথা, যারা পাকা প্রতিশ্রুতির পর আল্লাহর অঙ্গীকার ভাঙে, আল্লাহ যা জুড়ে রাখতে বলেছেন তা ছিন্ন করে, আর পৃথিবীতে বিপর্যয় ছড়ায়। ২:২৭ আয়াত ফাসিকদের সম্পর্কে একই কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hypocrite's Four Marks",
+          "bn": "মুনাফিকের চার চিহ্ন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir defines the people of this verse by their opposite. They are nothing like the hypocrites, he says, one of whom, when he makes a covenant, betrays it; when he disputes, he goes beyond all bounds; when he speaks, he lies; and when he is entrusted, he betrays the trust. He gives no reference there, but his four clauses match a hadith in Sahih al-Bukhari, number 34, narrated by 'Abdullah ibn 'Amr. It is a general narration about character and is not attached to this verse.",
+            "bn": "ইবন কাসীর এ আয়াতের মানুষদের চেনান তাদের বিপরীত দিয়ে। তিনি বলেন, তারা মুনাফিকদের মতো নয়। মুনাফিক অঙ্গীকার করলে তা ভাঙে, বিবাদ করলে সীমা ছাড়িয়ে যায়, কথা বললে মিথ্যা বলে, আর আমানত পেলে খেয়ানত করে। সেখানে তিনি কোনো সূত্র দেন না, তবে তাঁর চারটি বাক্য সহীহ বুখারীর ৩৪ নম্বর হাদীসের সঙ্গে মিলে যায়, যা আবদুল্লাহ ইবন আমর (রাঃ) বর্ণনা করেছেন। হাদীসটি চরিত্র নিয়ে একটি সাধারণ বর্ণনা, এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়।"
+          },
+          {
+            "en": "In al-Bukhari's wording the Prophet ﷺ said: \"Whoever has the following four (characteristics) will be a pure hypocrite and whoever has one of the following four characteristics will have one characteristic of hypocrisy unless and until he gives it up. Whenever he is entrusted, he betrays. Whenever he speaks, he tells a lie. Whenever he makes a covenant, he proves treacherous. Whenever he quarrels, he behaves in a very imprudent, evil and insulting manner.\" It is a mirror to hold up to oneself. Neither it nor 13:25 licenses labelling any living person or community.",
+            "bn": "বুখারীর ভাষায় নবী ﷺ বলেছেন: \"চারটি স্বভাব যার মধ্যে থাকে, সে খাঁটি মুনাফিক। আর যার মধ্যে এর একটি থাকে, তার মধ্যে নিফাকের একটি স্বভাব থেকে যায়, যতক্ষণ না সে তা ছেড়ে দেয়। আমানত রাখা হলে খেয়ানত করে, কথা বললে মিথ্যা বলে, অঙ্গীকার করলে ভঙ্গ করে, আর ঝগড়া করলে অশ্লীল আচরণ করে।\" হাদীসটি নিজের সামনে ধরার আয়না। এটা কিংবা ১৩:২৫ আয়াত, কোনোটাই আজকের কোনো জীবিত মানুষ বা সম্প্রদায়কে মুনাফিক তকমা দেওয়ার অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hands Stretched Out Three Times",
+          "bn": "তিনবারের ডাকে বাড়ানো হাত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's second issue on this verse is a pledge given in person. He cites it from Abu Dawud and others, and Ma'arif cites it from Abu Dawud; it is also in Sahih Muslim, number 1043, and the wording here is Muslim's. 'Awf ibn Malik al-Ashja'i says a small group of them were with the Prophet ﷺ, who asked three times why they did not pledge allegiance to him, though they had recently done so. They stretched out their hands and asked on what they should pledge. It is a general narration, not attached to this verse.",
+            "bn": "এ আয়াতের আলোচনায় কুরতুবীর দ্বিতীয় বিষয়টি সামনাসামনি দেওয়া এক বাইআত। তিনি এটা আনেন আবূ দাউদ ও অন্যদের সূত্রে, মাআরিফুল কুরআনও আনে আবূ দাউদ থেকে। সহীহ মুসলিমেও এটা আছে, ১০৪৩ নম্বরে, আর এখানের ভাষা মুসলিমের। আওফ ইবন মালিক আল-আশজাঈ (রাঃ) বলেন, তাঁদের ছোট একটি দল নবী ﷺ-এর কাছে ছিলেন। তিনি তিনবার জিজ্ঞেস করলেন, তোমরা কি আল্লাহর রাসূলের কাছে বাইআত করবে না? অথচ কিছুদিন আগেই তাঁরা বাইআত করেছিলেন। তাঁরা হাত বাড়িয়ে দিয়ে জানতে চাইলেন, কীসের উপর বাইআত করব? এটা একটি সাধারণ বর্ণনা, এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়।"
+          },
+          {
+            "en": "He answered, in Muslim's wording: \"that you would worship Allah only and would not associate with Him anything, (and observe) five prayers, and obey- (and he said one thing in an undertone) -that you would not beg people of anything.\" 'Awf adds: \"I saw that some of these people did not ask anyone to pick up the whip for them if it fell down.\" Ma'arif reads the whip as love and eagerness to obey, since, it says, he had plainly never meant to forbid so small a request. Ibn al-'Arabi, quoted by al-Qurtubi, counts not asking anyone but Allah among the greatest pledges.",
+            "bn": "মুসলিমের ভাষায় তিনি জবাব দিলেন: \"তোমরা কেবল আল্লাহর ইবাদত করবে, তাঁর সঙ্গে কিছুই শরিক করবে না, পাঁচ ওয়াক্ত নামায পড়বে, আর আনুগত্য করবে।\" তারপর একটি কথা তিনি নিচু স্বরে বললেন: \"আর মানুষের কাছে কিছুই চাইবে না।\" আওফ (রাঃ) যোগ করেন: \"আমি দেখেছি, সেই দলের কারও কারও হাত থেকে চাবুক পড়ে গেলেও তিনি কাউকে তা তুলে দিতে বলতেন না।\" মাআরিফুল কুরআনের মতে এর পেছনে ছিল ভালোবাসা আর আনুগত্যের তীব্র আকাঙ্ক্ষা। কারণ এমন ছোট অনুরোধ নিষেধ করা যে তাঁর উদ্দেশ্য ছিল না, তা স্পষ্ট। কুরতুবী ইবনুল আরাবীর কথা আনেন: আল্লাহ ছাড়া কারও কাছে না চাওয়া শ্রেষ্ঠ অঙ্গীকারগুলোর একটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Vow Kept in a Well",
+          "bn": "কুয়ার তলায় রাখা মানত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays, through Ibn al-'Arabi, the story of Abu Hamza al-Khurasani, a great worshipper. Hearing that some had pledged to the Prophet ﷺ to ask no one for anything, he made the same pledge to Allah. Travelling from Syria to Makkah for Hajj, he fell into a roadside well at night and resolved not to say a word to any human. Passers-by covered its mouth, and he kept silent. Then, the story says, earth fell on him, the timbers were lifted away, a voice said give me your hand, and he was drawn out. Ibn al-'Arabi calls him a man who found fulfilment complete, and says: follow him.",
+            "bn": "এরপর কুরতুবী ইবনুল আরাবীর সূত্রে আবূ হামযা আল-খুরাসানীর ঘটনা আনেন, যিনি ছিলেন বড় ইবাদতগুজারদের একজন। তিনি শুনেছিলেন, কিছু লোক নবী ﷺ-এর কাছে বাইআত করেছিল যে কারও কাছে কিছু চাইবে না। তিনিও আল্লাহর কাছে একই অঙ্গীকার করলেন। শাম থেকে হজে মক্কা যাওয়ার পথে রাতে তিনি রাস্তার পাশের এক কুয়ায় পড়ে যান। ঠিক করেন, কোনো মানুষকে একটি শব্দও বলবেন না। পথচারীরা কুয়ার মুখ ঢেকে দিল, তিনি চুপ রইলেন। ঘটনার বর্ণনামতে এরপর তাঁর গায়ে মাটি ঝরে পড়তে লাগল, কাঠগুলো সরে গেল, কেউ বলল হাতটা দাও, আর তাঁকে টেনে তোলা হলো। ইবনুল আরাবী বলেন, এই লোক অঙ্গীকার করে পরিপূর্ণ পূরণ পেয়েছেন, তোমরা তাঁর অনুসরণ করো।"
+          },
+          {
+            "en": "Abu al-Faraj Ibn al-Jawzi, also quoted by al-Qurtubi, judged the silence unlawful: it was helping toward one's own death. Tawakkul, he says, is the heart's reliance on Allah and does not require cutting off means. He points to the Prophet ﷺ concealing his departure from Makkah, hiring a guide and hiding in the cave, and cites Sufyan ath-Thawri and others: whoever starves without asking until he dies enters the Fire. He sets aside a version in which a lion pulled Abu Hamza out; such a rescue, if true, may be Allah's kindness to an ignorant servant. Al-Qurtubi records both views.",
+            "bn": "কুরতুবী আবুল ফারাজ ইবনুল জাওযীর মতও আনেন। তাঁর বিচারে এই নীরবতা হালাল ছিল না, কারণ এতে নিজের মৃত্যুতেই সাহায্য করা হয়। তিনি বলেন, তাওয়াক্কুল হলো আল্লাহর উপর অন্তরের ভরসা, এর জন্য উপায়-উপকরণ ছেড়ে দেওয়া জরুরি নয়। তিনি দেখান, নবী ﷺ মক্কা ছাড়ার কথা গোপন রেখেছিলেন, পথ দেখানোর লোক ভাড়া করেছিলেন, গুহায় লুকিয়েছিলেন। সুফিয়ান সাওরী ও অন্যদের কথাও আনেন: ক্ষুধার্ত মানুষ না চেয়ে মারা গেলে জাহান্নামে যাবে। একটি বর্ণনায় আছে, এক সিংহ আবূ হামযাকে তুলে এনেছিল। ইবনুল জাওযী সেটাকে গুরুত্ব দেন না। তাঁর মতে এমন উদ্ধার সত্য হলেও তা হতে পারে এক অজ্ঞ বান্দার প্রতি আল্লাহর দয়া। কুরতুবী দুটি মতই লিপিবদ্ধ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Understanding Measured by Keeping",
+          "bn": "বুদ্ধির মাপ রক্ষা করায়"
+        },
+        "p": [
+          {
+            "en": "Put together, the commentators give the verse two widening circles. Allah's covenant is every command and prohibition, carried out, in as-Sa'di's words, completely and with sincerity. The pledge reaches, at its widest in Ma'arif and as-Sa'di, every oath, vow and contract between people. And the frame of 13:19 decides what all this proves. Understanding here is not shown in argument or learning alone. Whoever knows that the revelation is the truth shows it by what he keeps, and the first thing the Qur'an names in such a person is a word not broken.",
+            "bn": "সব মিলিয়ে তাফসীরকারেরা আয়াতটিকে দুটি ক্রমে বড় হওয়া বৃত্তে পড়েন। আল্লাহর অঙ্গীকার মানে তাঁর প্রতিটি আদেশ ও নিষেধ, যা সা'দীর ভাষায় পুরোপুরি আর আন্তরিকতার সঙ্গে আদায় করতে হয়। আর প্রতিশ্রুতি, মাআরিফুল কুরআন ও সা'দীর সবচেয়ে প্রশস্ত পাঠে, মানুষে মানুষে হওয়া প্রতিটি কসম, মানত ও চুক্তি পর্যন্ত পৌঁছে যায়। এসব কী প্রমাণ করে, তা ঠিক করে দেয় ১৩:১৯ আয়াতের কাঠামো। বুদ্ধির পরিচয় এখানে শুধু তর্কে বা জ্ঞানে নয়। যে জানে নাজিল হওয়া বাণী সত্য, সে তা দেখায় যা রক্ষা করে তা দিয়ে। আর এমন মানুষের প্রথম যে গুণ কুরআন বলে, তা হলো না-ভাঙা কথা।"
+          },
+          {
+            "en": "That gives a reader a way to take stock. First the duties Allah enjoined, kept fully rather than nearly. Then the promises made to people: a date to repay, a confidence held, the terms of a marriage or a job, an hour agreed. Ibn Kathir's four marks of the hypocrite are a list to run on oneself, never on others. Where a promise has already been broken, the hadith's own words, until he gives it up, leave the way open: give the habit up, put right what can be put right, and keep the next promise made.",
+            "bn": "এখান থেকে পাঠক নিজের হিসাব নিতে পারেন। প্রথমে আল্লাহর দেওয়া দায়িত্বগুলো, যা রক্ষা করতে হবে পুরোপুরি, প্রায়-পুরোপুরি নয়। তারপর মানুষকে দেওয়া কথা: ধার শোধের তারিখ, কারও গোপন কথা আগলে রাখা, বিয়ে বা চাকরির শর্ত, কথা দেওয়া সময়। ইবন কাসীরের বলা মুনাফিকের চারটি চিহ্ন মিলিয়ে দেখতে হবে নিজের সঙ্গে, অন্যের সঙ্গে কখনো নয়। কোনো কথা যদি আগেই ভেঙে থাকে, হাদীসের নিজের কথা, যতক্ষণ না সে তা ছেড়ে দেয়, পথটা খোলা রাখে। অভ্যাসটা ছেড়ে দিন, যা শোধরানো যায় শুধরে নিন, আর পরের কথাটা রক্ষা করুন।"
+          }
+        ]
+      }
+    ]
+  },
   "13:22": {
     "sections": [
       {
