@@ -31143,6 +31143,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Rely on Allah alone now, because on the Day of gathering every partner people claimed beside Him will be called for, and none will come.",
     "lessonBn": "এখনই কেবল আল্লাহর উপর ভরসা করুন, কারণ একত্র হওয়ার দিনে তাঁর পাশে দাবি করা প্রতিটি শরিকের ডাক পড়বে, আর কেউই আসবে না।"
+  },
+  "5:116": {
+    "reflectionEn": "On the Day, with the people who took him and his mother as gods looking on, Allah will ask Isa (AS) whether he told them to do it. Allah already knows the answer. The question is asked so that everyone present hears the reply. Isa (AS) does not open with a defence of himself. He opens with Allah: Glory be to You. Then he says it was never his to claim what was not his by right, and he hands the whole matter to the One who knows what is inside him. People had said in his name what he never said. Is anything being said in my name that I would not answer for? And when I am questioned, is my first word for Allah or for myself?",
+    "reflectionBn": "সেদিন, যারা তাঁকে আর তাঁর মাকে ইলাহ বানিয়েছিল তাদের চোখের সামনে, আল্লাহ ঈসা (আঃ)-কে জিজ্ঞেস করবেন: তুমি কি তাদের এমন করতে বলেছিলে? উত্তর আল্লাহ আগে থেকেই জানেন। প্রশ্নটা করা হবে যেন উপস্থিত সবাই জবাবটা নিজের কানে শোনে। ঈসা (আঃ) নিজের পক্ষে সাফাই দিয়ে শুরু করেন না। শুরু করেন আল্লাহকে দিয়ে: পবিত্র আপনি। তারপর বলেন, যা আমার হক নয় তা দাবি করা আমার কাজ কখনো ছিল না। আর পুরো বিষয়টা তুলে দেন তাঁর হাতে, যিনি তাঁর অন্তরের খবর জানেন। লোকে তাঁর নামে এমন কথা বলেছিল যা তিনি কখনো বলেননি। আমার নামে কি এমন কিছু চলছে, যার দায় আমি নিতে পারব না? আর আমাকে যখন প্রশ্ন করা হয়, আমার প্রথম কথাটা কি আল্লাহর জন্য, নাকি নিজেকে বাঁচানোর জন্য?",
+    "pointsEn": [
+      "What do I claim, even quietly, that is not mine by right: a title, a credit, a certainty?",
+      "When I am questioned or accused, is my first instinct to defend myself, or to remember before Whom I stand?",
+      "Are words being said in my name, by people who follow me or quote me, that I would have to disown on that Day?",
+      "How often do I speak as though I knew what only Allah knows: someone's intention, someone's end, what tomorrow holds?",
+      "Whom do I honour so highly that I have begun to give them something that belongs to Allah alone?"
+    ],
+    "pointsBn": [
+      "চুপিচুপি হলেও আমি কী দাবি করে বসি, যা আমার হক নয়: কোনো পদবি, কোনো কৃতিত্ব, কিংবা কোনো নিশ্চয়তা?",
+      "কেউ প্রশ্ন তুললে বা অভিযোগ করলে আমার প্রথম ঝোঁক কোন দিকে যায়: নিজের সাফাইয়ের দিকে, নাকি এটা মনে করার দিকে যে আমি কার সামনে দাঁড়িয়ে আছি?",
+      "যারা আমাকে মানে বা আমার কথা উদ্ধৃত করে, তারা কি আমার নামে এমন কিছু বলছে যা সেদিন আমাকে অস্বীকার করতে হবে?",
+      "যা শুধু আল্লাহ জানেন, তা নিয়ে আমি কতবার এমনভাবে কথা বলি যেন আমি জানি: কারও নিয়ত, কারও শেষ পরিণতি, কিংবা আগামীকাল কী হবে?",
+      "কাকে আমি এত উঁচুতে তুলেছি যে, যা কেবল আল্লাহর প্রাপ্য, তার কিছুটা তাকে দিতে শুরু করেছি?"
+    ],
+    "lessonEn": "No created being has a right to worship. Even an honoured prophet answers with Allah's praise, disowns what was said of him, and returns all knowledge to Him.",
+    "lessonBn": "কোনো সৃষ্টির ইবাদত পাওয়ার হক নেই। সম্মানিত একজন নবীও জবাব শুরু করেন আল্লাহর পবিত্রতা ঘোষণা দিয়ে, তাঁর নামে বলা কথা থেকে নিজেকে মুক্ত করেন, আর সব জ্ঞান ফিরিয়ে দেন আল্লাহর কাছে।"
   }
 };
 

@@ -5403,6 +5403,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:116": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Before the Assembly",
+          "bn": "সমবেত সবার সামনে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "This verse sits inside the scene that closes Surah al-Ma'idah. 5:109 opens it: the Day Allah gathers the messengers and asks what response they received. 5:110 turns to Isa (AS) and counts the favours given to him and to his mother, and 5:112 to 5:115 recall the table from heaven. Now comes the question itself: O Isa son of Maryam, did you say to the people, take me and my mother as two gods besides Allah? His answer begins at once, in the same verse.",
+            "bn": "সূরা মায়িদা যে দৃশ্য দিয়ে শেষ হয়, এ আয়াত তারই ভেতরে। দৃশ্যের শুরু ৫:১০৯ আয়াতে: যেদিন আল্লাহ রাসূলদের একত্র করবেন আর জিজ্ঞেস করবেন, তোমরা কী জবাব পেয়েছিলে। ৫:১১০ আয়াতে কথা ফেরে ঈসা (আঃ)-এর দিকে, তাঁকে আর তাঁর মাকে দেওয়া নিয়ামতগুলো একে একে গোনা হয়। ৫:১১২ থেকে ৫:১১৫ আয়াতে আসে আসমানি খাঞ্চার কথা। এবার আসে মূল প্রশ্ন: হে মারইয়ামের পুত্র ঈসা, তুমি কি লোকদের বলেছিলে, আল্লাহকে ছেড়ে আমাকে আর আমার মাকে দুই ইলাহ বানিয়ে নাও? তাঁর জবাব শুরু হয় সঙ্গে সঙ্গে, এই আয়াতেই।"
+          },
+          {
+            "en": "Ibn Kathir reads it as Allah addressing His servant and messenger on the Day of Resurrection, in the presence of those who took him and his mother as gods besides Allah. He calls it a threat to the Christians and a rebuke delivered ala ru'us al-ashhad, before the heads of all the witnesses, and says Qatada and others held this. As-Sa'di calls it a rebuke to those who said that Allah is the third of three, the very words 5:73 condemns, and says that Isa (AS) then declares himself free of it.",
+            "bn": "ইবন কাসীরের পাঠে, কিয়ামতের দিন আল্লাহ তাঁর বান্দা ও রাসূলকে এ কথা বলবেন তাদের সামনে, যারা তাঁকে আর তাঁর মাকে আল্লাহকে ছেড়ে ইলাহ বানিয়েছিল। তিনি একে বলেন নাসারাদের প্রতি হুমকি, আর 'আলা রুউসিল আশহাদ', অর্থাৎ সব সাক্ষীর চোখের সামনে ভর্ৎসনা। তিনি জানান, কাতাদা ও অন্যরা এ মত দিয়েছেন। সা'দী একে বলেন তাদের প্রতি ভর্ৎসনা, যারা বলেছিল আল্লাহ তিনজনের তৃতীয়জন। ঠিক এই কথাটাকেই ৫:৭৩ আয়াত কুফরি বলেছে। সা'দীর ভাষায়, এরপর ঈসা (আঃ) এ কথা থেকে নিজেকে মুক্ত ঘোষণা করেন।"
+          },
+          {
+            "en": "Notice how the verse ends. Isa (AS) closes his reply with innaka anta allamu l-ghuyub, it is You who are the Knower of the unseen. Those are the exact words the gathered messengers speak in 5:109, after saying they have no knowledge. None of the commentaries consulted for this verse reports an occasion of revelation for it; its force comes from where it stands in the scene.",
+            "bn": "আয়াতের শেষটা খেয়াল করুন। ঈসা (আঃ) জবাব শেষ করেন 'ইন্নাকা আনতা আল্লামুল গুয়ূব' বলে: নিশ্চয়ই আপনিই অদৃশ্যের সব খবর জানেন। ৫:১০৯ আয়াতে সমবেত রাসূলরাও 'আমাদের কোনো জ্ঞান নেই' বলার পর হুবহু এই কথাগুলোই বলেন। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতে শানে নুযূলের উল্লেখ নেই। আয়াতের শক্তি আসে দৃশ্যের ভেতরে তার অবস্থান থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Question Is Put",
+          "bn": "প্রশ্নটা কখন করা হবে"
+        },
+        "p": [
+          {
+            "en": "The commentators differ over when this is said. Al-Qurtubi reports that Qatada, Ibn Jurayj and most commentators place it on the Day of Resurrection, while as-Suddi and Qutrub say Allah said it when He raised Isa (AS) to heaven and the Christians said what they said. At-Tabari records as-Suddi's report in full: when Allah raised him, they made their claim and said Isa had commanded it, so Allah asked him. He also records Qatada answering the question of when with 5:119: do you not see He says, this is the Day the truthful benefit?",
+            "bn": "এ কথা কখন বলা হবে, তা নিয়ে মুফাসসিরদের মতভেদ আছে। কুরতুবী জানান, কাতাদা, ইবন জুরাইজ আর অধিকাংশ মুফাসসির একে কিয়ামতের দিনের ঘটনা বলেন। অন্যদিকে সুদ্দী ও কুতরুবের মতে আল্লাহ এ কথা বলেছিলেন ঈসা (আঃ)-কে আসমানে তুলে নেওয়ার সময়, যখন নাসারারা তাঁর সম্পর্কে যা বলার বলেছিল। তাবারী সুদ্দীর বর্ণনাটি পুরো এনেছেন: আল্লাহ তাঁকে তুলে নিলে তারা ওই দাবি করল আর বলল, ঈসাই তাদের এ আদেশ দিয়েছেন। তাই আল্লাহ তাঁকে জিজ্ঞেস করলেন। কখন, এ প্রশ্নের জবাবে কাতাদা ৫:১১৯ আয়াত টেনেছেন, সেটাও তাবারী এনেছেন: দেখছ না, তিনি বলছেন, এটা সেই দিন যেদিন সত্যবাদীদের সত্য কাজে আসবে?"
+          },
+          {
+            "en": "At-Tabari judged as-Suddi's view the more correct, for two reasons. In common Arab usage, idh goes with the past. And neither Isa (AS) nor any prophet doubted that Allah does not forgive anyone who dies in shirk, so it is hard to picture him saying in the Hereafter, if You forgive them, as 5:118 has it. Ibn Kathir answers that both proofs are open to question: much of the Day is told in the past tense to show that it is certain, and if You punish them is a disavowal that leaves the matter to Allah's will. A condition, he says, does not require that it happen.",
+            "bn": "তাবারী নিজে সুদ্দীর মতকেই বেশি সঠিক মনে করেছেন, দুটি কারণে। প্রথমত, আরবদের প্রচলিত ভাষায় 'ইয' সাধারণত অতীতের সঙ্গেই আসে। দ্বিতীয়ত, শিরক নিয়ে মারা যাওয়া মানুষকে আল্লাহ ক্ষমা করেন না, এ ব্যাপারে ঈসা (আঃ) বা অন্য কোনো নবীর মনে সন্দেহ ছিল না। তাই আখিরাতে তিনি বলবেন 'আপনি যদি তাদের ক্ষমা করেন', যেমনটা ৫:১১৮ আয়াতে আছে, তা ভাবা কঠিন। ইবন কাসীর জবাব দেন, দুটি যুক্তিই প্রশ্নসাপেক্ষ। কিয়ামতের অনেক বিষয়ই অতীত কালে বলা হয়েছে, যেন বোঝা যায় তা নিশ্চিত ঘটবে। আর 'আপনি যদি তাদের শাস্তি দেন' কথাটা আসলে তাদের থেকে দায়মুক্তি, বিষয়টা আল্লাহর ইচ্ছার কাছে সোপর্দ করা। তাঁর মতে শর্ত জুড়ে দিলেই সেটা ঘটা জরুরি হয় না।"
+          },
+          {
+            "en": "Ibn Kathir calls Qatada's view the more apparent. Al-Qurtubi calls it the more correct, pointing to 5:109 before the verse and 5:119 after it, and al-Baghawi gives the majority the same two verses as evidence. Both read idh here as idha, a when that looks ahead, as in 34:51, wa law tara idh fazi'u, if you could see when they are terrified. Al-Qurtubi adds 7:50, where the people of the Fire call out in the past tense. Al-Baghawi explains that the Resurrection, though it has not yet come, is as though it had, because it is coming without doubt.",
+            "bn": "ইবন কাসীর কাতাদার মতকেই বেশি স্পষ্ট বলেছেন। কুরতুবী একে বলেছেন বেশি সঠিক, প্রমাণ হিসেবে দেখিয়েছেন আগের ৫:১০৯ আর পরের ৫:১১৯ আয়াত। বাগাভীও অধিকাংশের পক্ষে এই দুটি আয়াতকেই প্রমাণ হিসেবে আনেন। দুজনেই এখানে 'ইয'-কে পড়েন 'ইযা' অর্থে, অর্থাৎ সামনের দিকে তাকানো 'যখন'। যেমন ৩৪:৫১ আয়াতে: ওয়া লাও তারা ইয ফাযিউ, আপনি যদি দেখতেন যখন তারা আতঙ্কিত হবে। কুরতুবী সঙ্গে আনেন ৭:৫০ আয়াত, যেখানে জাহান্নামবাসীদের ডাক অতীত কালে বলা। বাগাভী ব্যাখ্যা করেন, কিয়ামত এখনো না এলেও তা যেন এসেই গেছে, কারণ তার আসা নিশ্চিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked by the One Who Knows",
+          "bn": "যিনি জানেন, তিনিই জিজ্ঞেস করেন"
+        },
+        "p": [
+          {
+            "en": "The sentence has the shape of a question, but al-Qurtubi says it is not a request for information. Allah knew Isa (AS) had never said it. Al-Qurtubi gives two explanations. In the first, it is a rebuke to those who claimed this of him, so that his denial, coming after the question, refutes them more eloquently and shames them more sharply. In the second, it is meant to let him know that his people changed after him and claimed of him what he never said.",
+            "bn": "বাক্যটার চেহারা প্রশ্নের, কিন্তু কুরতুবী বলেন, এ প্রশ্ন কিছু জানতে চাওয়ার জন্য নয়। ঈসা (আঃ) যে এমন কথা কখনো বলেননি, আল্লাহ তা জানতেন। কুরতুবী এর দুটি ব্যাখ্যা দেন। প্রথম ব্যাখ্যায়, যারা তাঁর নামে এ দাবি করেছে, এটা তাদের প্রতি ভর্ৎসনা। প্রশ্নের পরে তাঁর অস্বীকার এলে তাদের মিথ্যা আরও জোরালোভাবে ধরা পড়ে, ভর্ৎসনাও হয় আরও কঠিন। দ্বিতীয় ব্যাখ্যায়, প্রশ্নের উদ্দেশ্য তাঁকে জানানো যে তাঁর পরে তাঁর কওম বদলে গেছে, আর তাঁর নামে এমন কথা চালিয়েছে যা তিনি বলেননি।"
+          },
+          {
+            "en": "Al-Baghawi puts the first explanation in an everyday image: a man asks another, did you do such-and-such, about something he knows the other never did, to announce how grave it is, not to find out. He adds that Allah willed for Isa (AS) to affirm his own servanthood so that his people would hear it and their lie against him would be laid bare. At-Tabari records Ibn Jurayj in the same spirit: the people are listening, Isa answers and affirms his servanthood, and those who said things about him learn that they spoke falsehood.",
+            "bn": "প্রথম ব্যাখ্যাটা বাগাভী বোঝান রোজকার এক ছবি দিয়ে। কেউ আরেকজনকে জিজ্ঞেস করে, তুমি কি অমুক কাজটা করেছ? অথচ সে জানে লোকটা কাজটা করেনি। উদ্দেশ্য জানা নয়, কাজটা কত গুরুতর তা ঘোষণা করা। বাগাভী আরও বলেন, আল্লাহ চেয়েছেন ঈসা (আঃ) নিজের মুখে নিজের বান্দা হওয়ার স্বীকৃতি দিন, যেন তাঁর কওম তা শোনে আর তাঁর নামে তাদের মিথ্যা প্রকাশ হয়ে যায়। তাবারী একই সুরে ইবন জুরাইজের কথা এনেছেন: লোকেরা শুনছে, ঈসা জবাব দিচ্ছেন আর নিজের বান্দা হওয়া স্বীকার করছেন। ফলে যারা তাঁর সম্পর্কে নানা কথা বলত, তারা বুঝে যায় তাদের কথা ছিল বাতিল।"
+          },
+          {
+            "en": "At-Tabari, holding the earlier timing, offers two readings of the purpose. It may be a warning to Isa (AS) against such a saying, in the way a person asks did you do this of a deed he regards as enormous. Or it may inform Isa (AS) that the people he left had broken his covenant and changed their religion after him. Ma'arif al-Qur'an, citing Ibn Kathir, puts the point plainly: He who asks knows everything, and the aim is to admonish those who take him as god, by letting them hear him confess his servanthood.",
+            "bn": "তাবারী যেহেতু আগের সময়টার পক্ষে, তিনি প্রশ্নের উদ্দেশ্যের দুটি সম্ভাব্য পাঠ দেন। হতে পারে এটা ঈসা (আঃ)-কে এমন কথা বলা থেকে সতর্ক করা, যেমন কোনো কাজকে ভয়ানক মনে করলে মানুষ জিজ্ঞেস করে, তুমি কি এটা করেছ? আবার হতে পারে ঈসা (আঃ)-কে জানানো যে, যে কওমকে তিনি রেখে গিয়েছিলেন তারা তাঁর অঙ্গীকার ভেঙেছে, তাঁর পরে নিজেদের দ্বীন বদলে ফেলেছে। মাআরিফুল কুরআন ইবন কাসীরের বরাতে কথাটা সোজা করে বলে: যিনি জিজ্ঞেস করছেন তিনি সবই জানেন। উদ্দেশ্য হলো, যারা তাঁকে ইলাহ বানিয়েছে তাদের সতর্ক করা, তাদের নিজের কানে তাঁর বান্দা হওয়ার স্বীকারোক্তি শুনিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Him and His Mother",
+          "bn": "তিনি আর তাঁর মা"
+        },
+        "p": [
+          {
+            "en": "Ilahayn is a dual: two gods. At-Tabari glosses it as two objects of worship, whom you worship besides Allah, and the Muyassar uses the same word, ma'budayn. Al-Qurtubi raises the obvious objection himself: the Christians did not take Maryam as a god, so how can this be said of them? The answer he records is that they said she did not give birth to a human being but to a god. It followed from their own words that she stood, through being part of him, where her son stood, and so they became like those who say it.",
+            "bn": "'ইলাহাইন' দ্বিবচন: দুই ইলাহ। তাবারী এর ব্যাখ্যা করেন দুই মাবুদ হিসেবে, আল্লাহকে ছেড়ে যাদের ইবাদত করা হয়। মুয়াসসারও একই শব্দ ব্যবহার করে: 'মাবুদাইন'। কুরতুবী নিজেই আপত্তিটা তোলেন: নাসারারা তো মারইয়ামকে ইলাহ বানায়নি, তাহলে তাদের সম্পর্কে এ কথা কেন? যে জবাব তিনি আনেন তা এই: তারা বলত, তিনি কোনো মানুষ জন্ম দেননি, জন্ম দিয়েছেন এক ইলাহ। নিজেদের এই কথা থেকেই তাদের ওপর এসে পড়ে যে, ছেলের অংশ বহন করার কারণে মাও ছেলের জায়গায় দাঁড়ান। এভাবে তারা হয়ে যায় সেই কথা বলনেওয়ালাদের মতো।"
+          },
+          {
+            "en": "The Qur'an's own words about Maryam stand beside this. 5:110 names a favour given to Isa and to his mother together, and 5:75 calls her a woman of truth and adds that the two of them used to eat food. The honour is real, and it is the honour of a servant. At-Tabari puts it into Isa's reply: I am a created servant, and my mother is Your bondwoman, so how could a servant and a bondwoman lay claim to lordship? The commentators cited here go no further than this, and neither will this article.",
+            "bn": "মারইয়াম সম্পর্কে কুরআনের নিজের কথাগুলোও এখানে পাশে রাখা দরকার। ৫:১১০ আয়াতে ঈসা ও তাঁর মা দুজনকে একসঙ্গে দেওয়া নিয়ামতের কথা আছে। ৫:৭৫ আয়াত তাঁকে বলেছে সত্যনিষ্ঠ নারী, আর যোগ করেছে, তাঁরা দুজনেই খাবার খেতেন। সম্মান সত্যিই আছে, তবে তা বান্দার সম্মান। তাবারী কথাটা ঈসা (আঃ)-এর জবাবের ভেতরে রাখেন: আমি সৃষ্ট এক বান্দা, আমার মা আপনার এক বাঁদি। বান্দা আর বাঁদি কী করে রব হওয়ার দাবি তুলবে? এখানে উল্লিখিত মুফাসসিররা এর বেশি দূর যান না, এই লেখাও যাবে না।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes a question Allah puts on the Day to one prophet about a claim made in his name, and it ends with his own answer. It teaches the reader what to hold about Allah and about Isa (AS). It licenses no contempt, hostility or harm toward any living person or community, and it hands no one the verdict that belongs to Allah alone. In 5:118 Isa (AS) himself leaves the outcome with Allah: if You punish them they are Your servants, and if You forgive them, You are the Mighty, the Wise.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে, সেদিন আল্লাহ একজন নবীকে তাঁর নামে চালানো এক দাবি নিয়ে প্রশ্ন করবেন, আর আয়াত শেষ হয় নবীর নিজের জবাবে। পাঠক এখান থেকে শেখেন আল্লাহ সম্পর্কে আর ঈসা (আঃ) সম্পর্কে কী বিশ্বাস রাখতে হবে। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের প্রতি অবজ্ঞা, শত্রুতা বা ক্ষতির কোনো অনুমতি এ আয়াত দেয় না। যে রায় কেবল আল্লাহর, তা কারও হাতে তুলেও দেয় না। ৫:১১৮ আয়াতে ঈসা (আঃ) নিজেই ফয়সালা আল্লাহর কাছে রেখে দেন: আপনি যদি তাদের শাস্তি দেন, তারা তো আপনারই বান্দা, আর যদি ক্ষমা করেন, আপনিই মহাপরাক্রমশালী, প্রজ্ঞাময়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise Before the Reply",
+          "bn": "জবাবের আগে পবিত্রতার ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Before answering, Isa (AS) says subhanak, glory be to You. Al-Qurtubi gives two reasons for that order: to declare Allah free of what had been ascribed to Him, and out of humility before His might and fear of His power. Then ma yakunu li an aqula ma laysa li bi-haqq. Al-Qurtubi reads it as, it is not for me to claim for myself what is not my right: I have a Lord and am no Lord; I worship and am not worshipped. As-Sa'di widens it: no created being, not the angels brought near nor the messengers, has any right to divinity.",
+            "bn": "জবাব দেওয়ার আগে ঈসা (আঃ) বলেন 'সুবহানাকা', পবিত্র আপনি। কুরতুবী এই ক্রমের দুটি কারণ বলেন: যা আল্লাহর দিকে আরোপ করা হয়েছে তা থেকে তাঁর পবিত্রতা ঘোষণা, আর তাঁর ইজ্জতের সামনে বিনয় ও তাঁর পরাক্রমের ভয়। তারপর: মা ইয়াকূনু লী আন আকূলা মা লাইসা লী বিহাক্ক। কুরতুবীর পাঠে এর অর্থ, যা আমার হক নয় তা নিজের জন্য দাবি করা আমার কাজ নয়। আমি প্রতিপালিত, রব নই। আমি ইবাদতকারী, মাবুদ নই। সা'দী পরিধিটা বাড়িয়ে দেন: কোনো সৃষ্টির, না নৈকট্যপ্রাপ্ত ফেরেশতার, না প্রেরিত রাসূলের, ইলাহ হওয়ার কোনো হক নেই।"
+          },
+          {
+            "en": "At-Tirmidhi records from Abu Hurayrah: \"Isa was taught his argument, Allah taught him regarding His saying: And when Allah will say: O Isa, son of Maryam! Did you say unto men, worship me and my mother as two gods besides Allah?\" Abu Hurayrah narrated from the Messenger of Allah ﷺ: \"So Allah taught him: Glory be to You! It was not for me to say what I had no right to say. The entire verse.\" At-Tirmidhi (3062) grades it hasan sahih. Ibn Kathir calls the reply a divine enabling toward courtesy in the complete answer.",
+            "bn": "তিরমিযী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন: \"ঈসাকে তাঁর যুক্তি শিখিয়ে দেওয়া হয়েছে, আল্লাহ তাঁকে শিখিয়েছেন তাঁর এই বাণীর ব্যাপারে: আর যখন আল্লাহ বলবেন, হে মারইয়ামের পুত্র ঈসা! তুমি কি লোকদের বলেছিলে, আল্লাহকে ছেড়ে আমাকে আর আমার মাকে দুই ইলাহ বানিয়ে নাও?\" আবু হুরাইরা (রাঃ) রাসূলুল্লাহ ﷺ থেকে বর্ণনা করেছেন: \"তখন আল্লাহ তাঁকে শিখিয়ে দিলেন: পবিত্র আপনি! যা বলার হক আমার নেই, তা বলা আমার কাজ নয়। পুরো আয়াতটি।\" তিরমিযী (৩০৬২) একে হাসান সহীহ বলেছেন। ইবন কাসীর এ জবাবকে বলেন আল্লাহর দেওয়া তাওফীক, যেন জবাবটা হয় পূর্ণ আদবের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge Handed Back",
+          "bn": "জ্ঞান ফিরিয়ে দেওয়া হলো তাঁর কাছে"
+        },
+        "p": [
+          {
+            "en": "In kuntu qultuhu fa-qad alimtah: if I had said it, You would have known it. As-Sa'di sees in this the perfection of his courtesy. He did not say, I said nothing of the kind. He spoke words that rule out of himself any saying at odds with his noble station and show it to be impossible, then declared his Lord wholly free of it and returned the knowledge to the Knower of the unseen and the seen. At-Tabari paraphrases: nothing is hidden from You, and You know I neither said it nor commanded it.",
+            "bn": "ইন কুনতু কুলতুহু ফাকাদ আলিমতাহ: যদি আমি তা বলে থাকতাম, আপনি তো জানতেনই। সা'দী এখানে দেখেন তাঁর আদবের পূর্ণতা। তিনি বলেননি, আমি এমন কিছুই বলিনি। বরং এমন কথা বলেছেন যা তাঁর মর্যাদার সঙ্গে বেমানান যেকোনো উক্তিকে নিজের থেকে দূরে সরিয়ে দেয়, আর দেখিয়ে দেয় যে তা অসম্ভব। তারপর রবের পূর্ণ পবিত্রতা ঘোষণা করেছেন, আর জ্ঞান ফিরিয়ে দিয়েছেন তাঁর কাছে, যিনি গোপন ও প্রকাশ্য সব জানেন। তাবারীর ভাষ্যে: আপনার কাছে কিছুই গোপন নয়, আপনি জানেন আমি এ কথা বলিনি, তাদের আদেশও দিইনি।"
+          },
+          {
+            "en": "Then ta'lamu ma fi nafsi wa la a'lamu ma fi nafsik. At-Tabari explains: You know what my self concealed and never voiced or showed in my limbs, so how much more what I did voice; and I do not know what You have kept from me, for I know only what You have taught me. Al-Baghawi relays from Ibn Abbas, You know my unseen and I do not know Yours, and from az-Zajjaj that nafs here means the whole reality of a thing. Al-Qurtubi lists several such readings and judges them close in meaning.",
+            "bn": "তারপর: তা'লামু মা ফী নাফসী ওয়ালা আ'লামু মা ফী নাফসিক। তাবারী বুঝিয়ে বলেন: আমার মন যা লুকিয়ে রেখেছে, মুখে আনেনি, অঙ্গপ্রত্যঙ্গেও প্রকাশ করেনি, তাও আপনি জানেন। তাহলে যা মুখে বলেছি তা তো আরও ভালো জানবেন। আর আপনি যা আমার কাছ থেকে আড়াল রেখেছেন, তা আমি জানি না। আমি তো ততটুকুই জানি, যতটুকু আপনি শিখিয়েছেন। বাগাভী ইবন আব্বাস (রাঃ) থেকে আনেন: আপনি আমার অদৃশ্য জানেন, আমি আপনার অদৃশ্য জানি না। আর যাজ্জাজ থেকে আনেন, এখানে 'নাফস' মানে কোনো কিছুর পুরো হাকীকত। কুরতুবী এমন কয়েকটি পাঠ তুলে ধরে বলেন, এগুলোর অর্থ কাছাকাছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reply Runs On",
+          "bn": "জবাব এখানেই থামে না"
+        },
+        "p": [
+          {
+            "en": "His reply does not stop at this verse. In 5:117 he says he told them only what he was commanded, worship Allah, my Lord and your Lord, and that he was a witness over them while he was among them. 5:118 leaves them to Allah's punishment or forgiveness, and 5:119 gives Allah's word on the Day. Earlier in the surah, 5:72 has already put the same sentence in his mouth: O Children of Israel, worship Allah, my Lord and your Lord. What he will say then is what he said before.",
+            "bn": "তাঁর জবাব এ আয়াতে থেমে যায় না। ৫:১১৭ আয়াতে তিনি বলেন, আপনি যা আদেশ করেছিলেন তার বাইরে আমি তাদের কিছুই বলিনি: আল্লাহর ইবাদত করো, যিনি আমার রব, তোমাদেরও রব। আর যতদিন তাদের মাঝে ছিলাম, তাদের ওপর সাক্ষী ছিলাম। ৫:১১৮ আয়াতে তিনি তাদের ছেড়ে দেন আল্লাহর শাস্তি বা ক্ষমার কাছে, আর ৫:১১৯ আয়াতে আসে সেদিন আল্লাহর কথা। সূরার আগের দিকে ৫:৭২ আয়াতও তাঁর মুখে ঠিক এই বাক্য রেখেছে: হে বনী ইসরাঈল, আল্লাহর ইবাদত করো, যিনি আমার রব, তোমাদেরও রব। সেদিন তিনি যা বলবেন, তা আগেই বলে গেছেন।"
+          },
+          {
+            "en": "Al-Bukhari (4625) records a sermon in which the Prophet ﷺ says he will answer on the Day as the righteous servant answered, and recites 5:117; that hadith belongs with the next verse. Ibn Kathir also relays, through Ibn Asakir, a longer narration raised to the Prophet ﷺ about this scene, and he himself calls it gharib. Nothing in this article rests on it.",
+            "bn": "বুখারী (৪৬২৫) একটি খুতবা বর্ণনা করেন, যেখানে নবী ﷺ বলেন, সেদিন তিনি জবাব দেবেন যেভাবে সেই নেক বান্দা জবাব দিয়েছিলেন, তারপর তিনি ৫:১১৭ আয়াত পাঠ করেন। এ হাদীসের আসল জায়গা পরের আয়াতে। ইবন কাসীর ইবন আসাকিরের সূত্রে এ দৃশ্য নিয়ে নবী ﷺ পর্যন্ত পৌঁছানো আরও লম্বা একটি বর্ণনাও আনেন, আর নিজেই সেটিকে গরীব বলেন। এই লেখার কোনো কথা এর ওপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Claimed Beyond Right",
+          "bn": "হকের বাইরে কোনো দাবি নয়"
+        },
+        "p": [
+          {
+            "en": "What the verse leaves with a reader is a manner of answering. Isa (AS) is questioned about something said in his name, and he does not argue his own record first. He glorifies Allah, names the limit of his own right, and hands knowledge back to the One who holds it. Every honour he had was a favour given, as 5:110 has just recounted.",
+            "bn": "আয়াতটি পাঠকের হাতে তুলে দেয় জবাব দেওয়ার একটা ধরন। ঈসা (আঃ)-কে প্রশ্ন করা হয় তাঁর নামে চালানো একটা কথা নিয়ে। তিনি আগে নিজের আমলনামার পক্ষে যুক্তি সাজান না। প্রথমে আল্লাহর পবিত্রতা ঘোষণা করেন, তারপর নিজের হকের সীমাটা বলে দেন, আর জ্ঞান ফিরিয়ে দেন তাঁর কাছে, জ্ঞান যাঁর হাতে। তাঁর প্রতিটি সম্মানই ছিল দেওয়া নিয়ামত, ঠিক যেমনটা ৫:১১০ আয়াত একটু আগেই গুনে দেখিয়েছে।"
+          },
+          {
+            "en": "Two questions follow. Is anything being said in my name, by people who quote or follow me, that I would have to disown on that Day? And whom do I hold so high that I have begun to give them what is Allah's alone, unquestioned obedience or a certainty about the unseen? An honoured messenger said, I do not know what is within Yourself.",
+            "bn": "এখান থেকে দুটি প্রশ্ন আসে। যারা আমার কথা উদ্ধৃত করে বা আমাকে মানে, তারা কি আমার নামে এমন কিছু বলছে, যা সেদিন আমাকে অস্বীকার করতে হবে? আর কাকে আমি এত উঁচুতে তুলেছি যে, যা কেবল আল্লাহর প্রাপ্য তা তাকে দিতে শুরু করেছি, যেমন প্রশ্নহীন আনুগত্য, কিংবা অদৃশ্য নিয়ে নিশ্চিত দাবি? সম্মানিত একজন রাসূলও বলেছিলেন, আপনার অন্তরে কী আছে তা আমি জানি না।"
+          }
+        ]
+      }
+    ]
+  },
   "5:119": {
     "sections": [
       {
