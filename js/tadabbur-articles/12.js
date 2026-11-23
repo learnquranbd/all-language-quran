@@ -4211,6 +4211,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:81": {
+    "sections": [
+      {
+        "h": {
+          "en": "Go Back and Tell Him",
+          "bn": "ফিরে গিয়ে তাঁকে বলো"
+        },
+        "p": [
+          {
+            "en": "Irji'u ila abikum: go back to your father. The verse is an instruction, and the commentators agree it comes from the brother who stayed. Al-Qurtubi says it was spoken by the one who had just said, in 12:80, I will never leave the land. Al-Baghawi calls him the brother held back in Egypt, addressing the rest. At-Tabari names him: this is Rubil speaking to his brothers, when Yusuf had taken his brother on account of the cup drawn from his bag.",
+            "bn": "ইরজিঊ ইলা আবীকুম: তোমরা তোমাদের পিতার কাছে ফিরে যাও। আয়াতটি একটা নির্দেশ, আর তাফসীরকারেরা একমত যে নির্দেশটা আসছে পেছনে থেকে যাওয়া ভাইয়ের কাছ থেকে। কুরতুবী বলেন, কথাটা তারই, যে ঠিক আগে ১২:৮০ আয়াতে বলেছিল, আমি এ ভূখণ্ড ছেড়ে কিছুতেই যাব না। বাগাভীর ভাষায় সে হলো মিসরে আটকে থাকা ভাই, বাকিদের উদ্দেশে কথা বলছে। তাবারী নামটাও বলেন: এ রূবীলের কথা, তার ভাইদের প্রতি। তখন পেয়ালা বের হয়েছে বিনয়ামীনের বস্তা থেকে, আর সে কারণে ইউসুফ (আঃ) তাঁর ভাইকে রেখে দিয়েছেন।"
+          },
+          {
+            "en": "Ibn Kathir says he ordered them to tell their father what had happened as it happened, so that it would stand as their excuse before him, and so that they could clear themselves of the affair by what they said. As-Sa'di reads the first clause as a report of failure: your son stole, he was taken for his theft, and we could not bring him back to you, for all the effort we spent. The Muyassar adds the name: your son Binyamin has stolen.",
+            "bn": "ইবন কাসীর বলেন, সে তাদের আদেশ দিল, যা ঘটেছে ঠিক সেভাবেই যেন পিতাকে জানায়। তাতে পিতার কাছে এটাই হবে তাদের ওজর, আর নিজেদের কথার মাধ্যমেই তারা ঘটনার দায় থেকে নিজেদের মুক্ত করতে পারবে। সা'দী প্রথম বাক্যটিকে পড়েন ব্যর্থতার খবর হিসেবে: আপনার ছেলে চুরি করেছে, চুরির দায়ে তাকে ধরে রাখা হয়েছে। আমরা অনেক চেষ্টা করেছি, তবু তাকে আপনার কাছে ফিরিয়ে আনতে পারিনি। মুয়াসসার নামটাও জুড়ে দেয়: আপনার ছেলে বিনয়ামীন চুরি করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Brother Stayed Behind",
+          "bn": "কোন ভাই রয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "Which brother was kabiruhum, their eldest? The commentaries on 12:80 differ. At-Tabari gives two views. Mujahid said it was Sham'un, the eldest in understanding and knowledge, not in age, while Rubil was older by birth. Qatadah said it was Rubil, the eldest in age, the one who had advised them against killing Yusuf. At-Tabari prefers Rubil, because all agree he was eldest in years, and an Arab hearing the eldest of the people, unqualified, understands either leadership or age.",
+            "bn": "কাবীরুহুম, তাদের বড়জন, কোন ভাই? ১২:৮০ আয়াতের তাফসীরে এ নিয়ে মতভেদ আছে। তাবারী দুটি মত আনেন। মুজাহিদের মতে সে শামঊন, যে বয়সে নয়, বুদ্ধি আর জ্ঞানে বড় ছিল। জন্মের হিসাবে রূবীল তার চেয়ে বড়। কাতাদার মতে সে রূবীল, বয়সে সবার বড়, যে ইউসুফকে হত্যা না করার পরামর্শ দিয়েছিল। তাবারী রূবীলকেই অগ্রাধিকার দেন। কারণ, রূবীল যে বয়সে সবার বড়, এ ব্যাপারে সবাই একমত। আর আরবরা শর্ত ছাড়া কাউকে কওমের বড় বললে বোঝে দুটোর একটা: নেতৃত্ব, নয়তো বয়স।"
+          },
+          {
+            "en": "Al-Baghawi widens the list. He opens with understanding and knowledge rather than age, then gives three names: Yahudha, from Ibn Abbas and al-Kalbi, the most intelligent of them; Sham'un, from Mujahid, who held leadership over his brothers; and Rubil, from Qatadah, as-Suddi and ad-Dahhak, the eldest in age. Al-Qurtubi adds a fourth, Lawi, which he reports from Muhammad ibn Ka'b and Ibn Ishaq, though at-Tabari's own chain from Ibn Ishaq has Rubil speak. The verse names no one; at-Tabari states a preference, and the others set the names side by side.",
+            "bn": "বাগাভী তালিকাটা আরও বড় করেন। তিনি শুরু করেন বয়স দিয়ে নয়, বুদ্ধি আর জ্ঞান দিয়ে। তারপর তিনটি নাম দেন। ইবন আব্বাস (রাঃ) ও কালবীর বর্ণনায় ইয়াহূদা, ভাইদের মধ্যে সবচেয়ে বুদ্ধিমান। মুজাহিদের বর্ণনায় শামঊন, ভাইদের উপর যার নেতৃত্ব ছিল। কাতাদা, সুদ্দী ও দাহহাকের বর্ণনায় রূবীল, বয়সে সবার বড়। কুরতুবী চতুর্থ একটি নাম যোগ করেন, লাবী। এটি তিনি আনেন মুহাম্মাদ ইবন কা'ব ও ইবন ইসহাক থেকে। অথচ ইবন ইসহাক থেকে তাবারীর নিজের সনদে কথাটা বলছে রূবীল। আয়াত নিজে কারও নাম নেয় না। তাবারী একটা মত বেছে নেন, অন্যরা নামগুলো পাশাপাশি রেখে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saraqa, or Surriqa",
+          "bn": "সারাকা, নাকি সুররিকা"
+        },
+        "p": [
+          {
+            "en": "Inna ibnaka saraqa: your son has stolen. At-Tabari records that the reciters read saraqa, active, with the r light. He then reports from Ibn Abbas a different reading, surriqa, with the s voweled with u and the r doubled, in the passive voice. Al-Baghawi gives the same reading from Ibn Abbas and ad-Dahhak, and explains it as nusiba ila as-sariqa: he was ascribed to theft, as in khawwantuhu, I ascribed treachery to him.",
+            "bn": "ইন্না ইবনাকা সারাকা: আপনার ছেলে চুরি করেছে। তাবারী জানান, কারীগণ পড়েন সারাকা, কর্তৃবাচ্যে, র-তে তাশদীদ ছাড়া। তারপর তিনি ইবন আব্বাস (রাঃ) থেকে আরেকটি পাঠ আনেন: সুররিকা, স-তে পেশ আর র-তে তাশদীদ, কর্মবাচ্যে। বাগাভীও এ পাঠ আনেন ইবন আব্বাস (রাঃ) ও দাহহাক থেকে। তাঁর ব্যাখ্যা: নুসিবা ইলাস সারিকা, তাকে চুরির সঙ্গে জুড়ে দেওয়া হয়েছে। যেমন আরবরা বলে খাওয়ানতুহু, অর্থাৎ আমি তাকে খেয়ানতের দায়ে দায়ী করলাম।"
+          },
+          {
+            "en": "Al-Qurtubi adds Abu Razin to those who read it so, and relays through an-Nahhas that al-Kisa'i recited surriqa: he was ascribed to theft and charged with it. He also gives az-Zajjaj's remark that even saraqa can carry two meanings: that theft was known of him, or that he was accused of it. On the second reading the brothers report a charge, not a verdict, which fits the words that follow.",
+            "bn": "কুরতুবী এ পাঠের লোকদের মধ্যে আবূ রাযীনকেও গোনেন। নাহহাসের মাধ্যমে তিনি জানান, কিসাঈ সুররিকা পড়তেন। অর্থ: তাকে চুরির সঙ্গে জুড়ে দেওয়া হয়েছে, চুরির অপবাদ দেওয়া হয়েছে। যাজ্জাজের একটি মন্তব্যও তিনি আনেন: সারাকা শব্দটাও দুই অর্থ বহন করতে পারে। হয় তার থেকে চুরি জানা গেছে, নয়তো তাকে চুরির দায়ে অভিযুক্ত করা হয়েছে। দ্বিতীয় পাঠে ভাইয়েরা জানাচ্ছে একটা অভিযোগের কথা, কোনো রায়ের কথা নয়। আর এ অর্থ পরের শব্দগুলোর সঙ্গেও মেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only What We Saw",
+          "bn": "যা দেখেছি, শুধু ততটুকু"
+        },
+        "p": [
+          {
+            "en": "Wa ma shahidna illa bima 'alimna: and we testify only to what we know. At-Tabari reports that the people of interpretation differed. Some took it as: we said he stole only by the outward knowledge we have, since the king's measure was found in his bag and not in anyone else's. Ibn Ishaq, in his report, gives the brothers' words as: the stolen thing was found in his saddlebag while we looked on, and we have no knowledge of the unseen.",
+            "bn": "ওয়া মা শাহিদনা ইল্লা বিমা আলিমনা: আমরা যা জানি, শুধু তারই সাক্ষ্য দিচ্ছি। তাবারী জানান, ব্যাখ্যাকারদের মধ্যে এখানে মতভেদ হয়েছে। কারও কারও মতে অর্থ এই: আমরা যে বলছি সে চুরি করেছে, তা শুধু আমাদের বাহ্যিক জ্ঞানের ভিত্তিতে। কারণ রাজার মাপার পাত্র পাওয়া গেছে তার বস্তায়, অন্য কারও বস্তায় নয়। ইবন ইসহাকের বর্ণনায় ভাইদের কথা এমন: চুরির মাল পাওয়া গেছে তার মালপত্রের ভেতর, আমরা নিজেরা তাকিয়ে দেখছিলাম। অদৃশ্যের কোনো জ্ঞান আমাদের নেই।"
+          },
+          {
+            "en": "Others, through Ibn Zayd, heard the clause as a reply to a reproach. Ya'qub (AS) said to them: how would this man know that a thief is taken for his theft, except by your telling him? They answered: we testified only to what we knew. Ibn Zayd adds that the ruling among the prophets, Ya'qub and his sons, was that a thief be taken as a slave. At-Tabari prefers the first reading, because the clause follows your son stole directly, and so it more fittingly reports their testimony to that.",
+            "bn": "অন্যরা, ইবন যায়দের সূত্রে, বাক্যটিকে শুনেছেন এক ভর্ৎসনার জবাব হিসেবে। ইয়াকুব (আঃ) তাদের বললেন, চোরকে যে তার চুরির দায়ে ধরে রাখা হয়, এ লোক তা জানল কী করে, তোমরা না বললে? তারা জবাব দিল, আমরা যা জানতাম, শুধু তারই সাক্ষ্য দিয়েছি। ইবন যায়দ যোগ করেন, নবীদের মধ্যে, ইয়াকুব (আঃ) ও তাঁর ছেলেদের মধ্যে, বিধান ছিল চোরকে দাস করে রেখে দেওয়া। তাবারী প্রথম ব্যাখ্যাটিকেই অগ্রাধিকার দেন। কারণ বাক্যটা আসছে ঠিক আপনার ছেলে চুরি করেছে কথাটার পরেই। তাই একে সেই কথার সাক্ষ্য হিসেবে পড়াই বেশি সংগত।"
+          },
+          {
+            "en": "Al-Baghawi records a third sense: we have never in our lives testified to anything except what we knew, and this is no testimony from us; it is only a report of what your son did, as they supposed. Al-Qurtubi relays a related reading, attributing its meaning to Ibn Ishaq: we never testified except to what we knew, and now we testify to the outward, not knowing the unseen. A doubt, he explains, had entered them from Binyamin's words: the one who slipped your goods into your bags slipped this into mine.",
+            "bn": "বাগাভী তৃতীয় একটি অর্থের কথা লেখেন: জীবনে আমরা যা জানি না, তার সাক্ষ্য কখনো দিইনি। আর এটা আমাদের পক্ষ থেকে সাক্ষ্যও নয়, আপনার ছেলে যা করেছে বলে তাদের ধারণা, এটা শুধু তারই খবর। কুরতুবী কাছাকাছি আরেকটি ব্যাখ্যা আনেন, যার অর্থ তিনি ইবন ইসহাকের বলে উল্লেখ করেন: আমরা জানা বিষয় ছাড়া কখনো সাক্ষ্য দিইনি, আর এখন সাক্ষ্য দিচ্ছি বাহ্যিক অবস্থার, অদৃশ্য আমরা জানি না। তিনি ব্যাখ্যা করেন, বিনয়ামীনের এক কথায় তাদের মনে খটকা লেগেছিল: যে তোমাদের পণ্য তোমাদের বস্তায় গুঁজে দিয়েছিল, সে-ই এটা আমার বস্তায় গুঁজে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Keepers of the Unseen",
+          "bn": "অদৃশ্যের পাহারাদার নই"
+        },
+        "p": [
+          {
+            "en": "Wa ma kunna lil-ghaybi hafizin: and we were not keepers of the unseen. The most common gloss is simple: we did not know he would steal. At-Tabari gives it through several chains. From Ikrimah: we did not know that your son steals. From Mujahid, by three routes: we did not perceive that he would steal. From Qatadah: we neither thought nor perceived that he would steal. Ibn Kathir relays the same from Ikrimah and Qatadah.",
+            "bn": "ওয়া মা কুন্না লিল গাইবি হাফিযীন: আর আমরা অদৃশ্যের পাহারাদার ছিলাম না। সবচেয়ে প্রচলিত ব্যাখ্যাটা সাদামাটা: আমরা জানতাম না যে সে চুরি করবে। তাবারী এটি আনেন কয়েকটি সনদে। ইকরিমা থেকে: আমরা জানতাম না যে আপনার ছেলে চুরি করে। মুজাহিদ থেকে, তিনটি সূত্রে: আমরা টেরই পাইনি যে সে চুরি করবে। কাতাদা থেকে: আমরা ভাবিওনি, টেরও পাইনি যে সে চুরি করবে। ইবন কাসীরও ইকরিমা ও কাতাদা থেকে একই কথা আনেন।"
+          },
+          {
+            "en": "Several commentators tie the clause to the pledge. Al-Qurtubi: we did not know, when we took him from you, that he would steal, or we would not have taken him. The Muyassar: we had no knowledge of the unseen, that he would steal, when we promised you to bring him back. As-Sa'di is the fullest: had we known the unseen, we would not have been so eager for him to come with us, nor given you our covenants and pledges; we never thought the matter would reach where it has.",
+            "bn": "কয়েকজন তাফসীরকার বাক্যটিকে প্রতিশ্রুতির সঙ্গে জুড়ে দেন। কুরতুবী: আপনার কাছ থেকে তাকে নেওয়ার সময় আমরা জানতাম না যে সে চুরি করবে, জানলে তাকে নিতাম না। মুয়াসসার: তাকে ফিরিয়ে আনার অঙ্গীকার যখন আপনাকে দিয়েছিলাম, তখন অদৃশ্যের এমন কোনো জ্ঞান আমাদের ছিল না যে সে চুরি করবে। সা'দী সবচেয়ে বিস্তারিত বলেন: অদৃশ্য জানলে তাকে সঙ্গে নেওয়ার জন্য আমরা এত আগ্রহ দেখাতাম না, এত চেষ্টা করতাম না। আপনাকে আমাদের অঙ্গীকার আর প্রতিশ্রুতিও দিতাম না। ব্যাপারটা যে এ পর্যন্ত গড়াবে, আমরা ভাবতেও পারিনি।"
+          },
+          {
+            "en": "At-Tabari's own gloss reaches back to what the brothers said when they asked their father for Binyamin. We did not see that your son would steal and our affair come to this, he paraphrases; we only said, and we will guard our brother, meaning as far as we had a way to guard him. That promise stands in 12:65. Mujahid and Qatadah in al-Baghawi say the same, and add: had we known, we would not have gone that way. Ma'arif al-Qur'an puts it as a pledge given within outwardly visible circumstances.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা ফিরে যায় সেই কথায়, যা ভাইয়েরা বলেছিল পিতার কাছে বিনয়ামীনকে চাওয়ার সময়। তাঁর ভাষায় অর্থ এই: আমরা ভাবিনি যে আপনার ছেলে চুরি করবে আর আমাদের অবস্থা এমন দাঁড়াবে। আমরা তো শুধু বলেছিলাম, আমরা আমাদের ভাইকে দেখে রাখব। মানে, যতটুকু দেখে রাখার পথ আমাদের হাতে ছিল। সেই প্রতিশ্রুতি আছে ১২:৬৫ আয়াতে। বাগাভীতে মুজাহিদ ও কাতাদাও একই কথা বলেন, সঙ্গে যোগ করেন: জানলে আমরা ও পথে পা-ই বাড়াতাম না। মাআরিফুল কুরআন বিষয়টিকে বলে বাহ্যিক অবস্থার সীমার মধ্যে দেওয়া প্রতিশ্রুতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Night, Distance and Other Hands",
+          "bn": "রাত, দূরত্ব আর অন্যের হাত"
+        },
+        "p": [
+          {
+            "en": "Other glosses give al-ghayb a narrower sense. Al-Qurtubi reports from Ibn Abbas that they meant he stole at night while they slept, and that al-ghayb is the night in the dialect of Himyar. At-Tabari also mentions that in Himyar's speech al-ghayb is the night itself. A second report from Ibn Abbas, in al-Qurtubi and al-Baghawi, is wider: we were not keepers of his night and his day, his going and his coming.",
+            "bn": "কিছু ব্যাখ্যায় আল-গাইব শব্দের অর্থ আরও সংকীর্ণ। কুরতুবী ইবন আব্বাস (রাঃ) থেকে জানান, তারা বোঝাতে চেয়েছিল, সে রাতে চুরি করেছে, যখন তারা ঘুমিয়ে ছিল। আর হিময়ার গোত্রের ভাষায় আল-গাইব মানে রাত। তাবারীও উল্লেখ করেন, হিময়ারের ভাষায় আল-গাইব হলো খোদ রাত। ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনা, কুরতুবী ও বাগাভী দুজনেই যা আনেন, আরও বিস্তৃত: তার রাত আর দিন, তার যাওয়া আর আসা, কোনোটারই পাহারাদার আমরা ছিলাম না।"
+          },
+          {
+            "en": "Two further readings leave room for his innocence. Ikrimah, in al-Baghawi: we were not keepers of the unseen, for perhaps it was slipped into his bag at night. Al-Qurtubi gives, under it is said: as long as he was in our sight nothing went wrong, and once he was out of it his doings were hidden from us. And another: the stolen thing came out of his bag, we drew it out and are looking at it, but we have no knowledge of the unseen; perhaps it was others' doing, and he did not steal.",
+            "bn": "আরও দুটি ব্যাখ্যা তার নির্দোষ হওয়ার সম্ভাবনা খোলা রাখে। বাগাভীতে ইকরিমা: আমরা অদৃশ্যের পাহারাদার নই, হয়তো রাতে কেউ এটা তার বস্তায় গুঁজে দিয়েছে। কুরতুবী 'বলা হয়' কথাটি দিয়ে একটি মত আনেন: যতক্ষণ সে আমাদের চোখের সামনে ছিল, কোনো গোলমাল হয়নি। চোখের আড়াল হতেই তার কাজকর্ম আমাদের কাছে অজানা হয়ে গেছে। আরেকটি মত: চুরির মাল তার বস্তা থেকেই বের হয়েছে, আমরা নিজেরা বের করেছি, চোখের সামনে দেখছি। তবু অদৃশ্যের জ্ঞান আমাদের নেই। হয়তো এটা অন্যদের কাজ, আর সে চুরি করেনি।"
+          },
+          {
+            "en": "The reader knows what the brothers did not. In 12:70 the cup was placed in Binyamin's bag, and 12:76 says, thus did We plan for Yusuf. Ma'arif al-Qur'an, asking why Yusuf (AS) held his brother and sent no word to his father, cites Tafsir Mazhari: he did so by the command of Allah, so that the trial of Ya'qub (AS) might reach its completion. Here it is enough that the brothers, without knowing any of this, refused to claim more than they had seen, and the limit they set left room for a truth they could not see.",
+            "bn": "ভাইয়েরা যা জানত না, পাঠক তা জানেন। ১২:৭০ আয়াতে পেয়ালাটা রাখা হয়েছিল বিনয়ামীনের বস্তায়, আর ১২:৭৬ আয়াত বলে, এভাবেই আমি ইউসুফের জন্য কৌশল করেছিলাম। ইউসুফ (আঃ) কেন ভাইকে রেখে দিলেন, পিতাকে কোনো খবর পাঠালেন না, মাআরিফুল কুরআন এ প্রশ্ন তুলে তাফসীরে মাযহারীর জবাব আনে: তিনি তা করেছিলেন আল্লাহর আদেশে, যাতে ইয়াকুব (আঃ)-এর পরীক্ষা পূর্ণতায় পৌঁছায়। এখানে এটুকুই যথেষ্ট: ভাইয়েরা এর কিছুই জানত না, তবু যা দেখেছে তার বেশি দাবি করেনি। তাদের টানা সেই সীমাটুকু এমন এক সত্যের জন্য জায়গা রেখে দিল, যা তারা দেখতে পায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Testimony Tied to Knowledge",
+          "bn": "সাক্ষ্যের ভিত্তি জ্ঞান"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws four questions of law from the clause. The first is its plain sense. The second is a principle: the verse shows that testimony is valid however the knowledge behind it was obtained, because testimony is bound to knowledge both by reason and by the Law. It is heard and accepted only from those who know; this, he says, is the root of the law of witnessing. He cites 43:86 in support: except those who testify to the truth while they know.",
+            "bn": "কুরতুবী এই বাক্য থেকে ফিকহের চারটি মাসআলা বের করেন। প্রথমটি এর সরল অর্থ। দ্বিতীয়টি একটি মূলনীতি: যেভাবেই জ্ঞান অর্জিত হোক, সে জ্ঞানের ভিত্তিতে সাক্ষ্য দেওয়া বৈধ, আয়াত তা-ই দেখায়। কারণ বুদ্ধির বিচারেও, শরীয়তের বিচারেও, সাক্ষ্য বাঁধা জ্ঞানের সঙ্গে। যে জানে, সাক্ষ্য শোনা হবে শুধু তার কাছ থেকে, কবুলও হবে শুধু তাদের কাছ থেকে। তাঁর মতে সাক্ষ্যের বিধানের মূল এটাই। সমর্থনে তিনি ৪৩:৮৬ আয়াত আনেন: তবে তারা ছাড়া, যারা জেনেশুনে সত্যের সাক্ষ্য দেয়।"
+          },
+          {
+            "en": "From this principle his school's scholars, he says, accepted the testimony of a blind man, of a listener who did not see, of a mute whose sign is understood, and testimony on handwriting when certain whose hand it is. His third question concerns a passer-by who overhears a statement: Malik held two positions on whether he may testify to it. Al-Qurtubi calls it sound that he testifies once he heard the whole statement, the view of the body of scholars.",
+            "bn": "এই মূলনীতি থেকেই, তিনি বলেন, তাঁর মাযহাবের আলেমরা অন্ধের সাক্ষ্য গ্রহণ করেছেন। যে না দেখে শুধু শুনেছে, তার সাক্ষ্যও। যে বোবা মানুষের ইশারা বোঝা যায়, তার সাক্ষ্যও। আর হাতের লেখা কার, তা নিশ্চিত জানা থাকলে লেখার উপর সাক্ষ্যও। তৃতীয় মাসআলা এমন লোককে নিয়ে, যে পথ চলতে গিয়ে কারও কোনো কথা কানে শুনে ফেলেছে। সে এর সাক্ষ্য দিতে পারবে কি না, এ নিয়ে ইমাম মালিকের দুটি মত আছে। কুরতুবীর মতে সঠিক হলো, পুরো কথাটা শুনে থাকলে সে সাক্ষ্য দেবে। অধিকাংশ আলেমের মতও এটাই।"
+          },
+          {
+            "en": "His fourth question is brief: a man who claims to have witnessed what his age could not have allowed is rejected, because plain fact gives him the lie. Ma'arif al-Qur'an draws a related rule for dealings between people. Agreements rest on what is apparently known and do not extend to what no one knows. The brothers' pledge to protect Binyamin covered what lay within their control; that he was accused of theft and held was another matter, which does not touch the pledge as such.",
+            "bn": "চতুর্থ মাসআলা সংক্ষিপ্ত: কেউ যদি এমন ঘটনার সাক্ষী বলে দাবি করে, যা তার বয়সে দেখা সম্ভবই ছিল না, তার সাক্ষ্য প্রত্যাখ্যাত। কারণ প্রত্যক্ষ বাস্তবতাই তাকে মিথ্যাবাদী প্রমাণ করে। মাআরিফুল কুরআন মানুষের লেনদেন নিয়ে কাছাকাছি একটা নীতি বের করে। চুক্তি দাঁড়ায় বাহ্যত জানা বিষয়ের উপর, যা কেউ জানে না তা পর্যন্ত গড়ায় না। বিনয়ামীনকে রক্ষার যে অঙ্গীকার ভাইয়েরা দিয়েছিল, তা ছিল তাদের সাধ্যের ভেতরের বিষয় নিয়ে। চুরির অভিযোগে সে আটকা পড়েছে, সেটা আলাদা ব্যাপার। তাতে অঙ্গীকারের উপর কোনো প্রভাব পড়ে না।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it. Discussing testimony, al-Qurtubi cites a narration that Muslim records (1719) from Zayd ibn Khalid al-Juhani: \"Should I not tell you of the best witnesses? He is the one who produces his evidence before he is asked for it.\" It is in Muslim's Sahih, speaks of witnessing in general and does not mention this verse. Set beside each other, the two divide the work: the hadith asks a witness not to hold back what he knows, and the brothers' words ask him not to go beyond it.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস জুড়ে দেয় না। সাক্ষ্যের আলোচনায় কুরতুবী একটি বর্ণনা আনেন, যা ইমাম মুসলিম (১৭১৯) যায়দ ইবন খালিদ আল-জুহানী (রাঃ) থেকে বর্ণনা করেছেন: \"আমি কি তোমাদের সবচেয়ে উত্তম সাক্ষীদের কথা বলব না? সে-ই, যে তার কাছে সাক্ষ্য চাওয়ার আগেই সাক্ষ্য নিয়ে হাজির হয়।\" হাদীসটি সহীহ মুসলিমে আছে। এতে সাধারণভাবে সাক্ষ্যের কথা বলা হয়েছে, এ আয়াতের কোনো উল্লেখ নেই। দুটোকে পাশাপাশি রাখলে দুটো দুই দিক সামলায়। হাদীস বলে, যা জানেন তা চেপে রাখবেন না। আর ভাইদের কথা শেখায়, যা জানেন তার সীমা পার হবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Further Than the Eyes",
+          "bn": "চোখ যতদূর, কথা ততদূর"
+        },
+        "p": [
+          {
+            "en": "The message has three parts, each a boundary: what happened, how we know it, and what we cannot know. The next verse, 12:82, adds their witnesses, the town and the caravan, and their father's answer in 12:83 has its own article. This verse holds only the sentence the eldest gave them to carry: the cup in the bag, their own sight as the source, and a plain admission that the hours out of view, and the future when they gave their pledge, had never been in their keeping.",
+            "bn": "বার্তাটার তিনটি অংশ, আর প্রতিটি অংশ একটা সীমা টেনে দেয়: কী ঘটেছে, আমরা কীভাবে জানলাম, আর কী আমাদের জানার বাইরে। পরের আয়াত ১২:৮২ তাদের সাক্ষী যোগ করে, জনপদ আর কাফেলা। আর পিতার জবাব আসে ১২:৮৩ আয়াতে, যার আলাদা প্রবন্ধ আছে। এ আয়াত ধরে রাখে শুধু সেই কথাটুকু, যা বড় ভাই তাদের হাতে তুলে দিয়েছিল। এতে আছে বস্তায় পেয়ালা পাওয়ার খবর, সে খবরের উৎস হিসেবে নিজেদের চোখ। আর সোজাসুজি স্বীকার: চোখের আড়ালের সময়টুকু, কিংবা অঙ্গীকারের দিনে ভবিষ্যৎ, কখনো তাদের হাতে ছিল না।"
+          },
+          {
+            "en": "The verse describes what these brothers said in one story, under a plan they could not see, and it licenses nothing against any living person or community. Its lesson is for the one who speaks. Before reporting another person's fault, I can ask the brothers' three questions of myself: what did I actually see, how do I know it, and what lay beyond my sight? A report that stops where knowledge stops may still be doubted, but it leaves room for the truth to come out.",
+            "bn": "আয়াতটি একটি কাহিনিতে এই ভাইদের কথার বর্ণনা দেয়, এমন এক পরিকল্পনার ভেতরে, যা তারা দেখতে পায়নি। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। এর শিক্ষা বক্তার জন্য। অন্যের দোষের খবর দেওয়ার আগে নিজেকে ভাইদের সেই তিনটি প্রশ্ন করা যায়: আমি আসলে কী দেখেছি? কীভাবে জানলাম? আর আমার চোখের বাইরে কী ছিল? যে খবর জ্ঞানের সীমায় এসে থেমে যায়, তাকে কেউ সন্দেহ করতেই পারে। তবু সত্য বেরিয়ে আসার জায়গা সে খোলা রাখে।"
+          }
+        ]
+      }
+    ]
+  },
   "12:83": {
     "sections": [
       {

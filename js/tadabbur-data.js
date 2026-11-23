@@ -33083,6 +33083,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Receive the whole Qur'an with gladness instead of keeping only the parts that suit you, and keep your own call simple: worship Allah alone, knowing you return to Him.",
     "lessonBn": "নিজের সুবিধামতো অংশটুকু বেছে না নিয়ে পুরো কুরআনকে আনন্দের সঙ্গে গ্রহণ করুন, আর নিজের দাওয়াত রাখুন সরল: শুধু আল্লাহর ইবাদত, এই জেনে যে ফিরতে হবে তাঁরই কাছে।"
+  },
+  "12:81": {
+    "reflectionEn": "Years earlier, these same brothers came home with a shirt and a story they had made up. Now they are sent home with news that is true, and the eldest tells them what to say: your son stole; we testify only to what we knew; we were not keepers of the unseen. They saw the cup drawn from his bag, and they claim no more than that. They do not swear to what was in his heart, to what happened while they slept, or to what they could have known when they gave their pledge. A small discipline, and a hard one: to tell what I saw and stop there. When I pass on news about someone, do I keep to what I know, or add what I suspect?",
+    "reflectionBn": "বহু বছর আগে এই ভাইয়েরাই একটা জামা আর বানানো গল্প নিয়ে বাড়ি ফিরেছিল। এবার তাদের পাঠানো হচ্ছে সত্য খবর দিয়ে, আর বড় ভাই শিখিয়ে দিচ্ছে কীভাবে বলতে হবে: আপনার ছেলে চুরি করেছে। আমরা যা জানি, শুধু তারই সাক্ষ্য দিচ্ছি। অদৃশ্যের পাহারাদার আমরা ছিলাম না। তারা দেখেছে, পেয়ালাটা তার বস্তা থেকে বের হয়েছে। এর বেশি তারা দাবি করে না। তার মনে কী ছিল, তারা ঘুমিয়ে থাকার সময় কী ঘটেছে, কিংবা কথা দেওয়ার দিন তারা কী জানতে পারত, এসবের কসম তারা খায় না। ছোট্ট এক শৃঙ্খলা, কিন্তু কঠিন: যা দেখেছি তা বলা, আর সেখানেই থেমে যাওয়া। কারও খবর অন্যকে দেওয়ার সময় আমি কি যা জানি তাতেই থাকি, নাকি নিজের সন্দেহটাও জুড়ে দিই?",
+    "pointsEn": [
+      "The last time I reported something about another person, how much of it had I actually seen, and how much did I fill in?",
+      "Do I say plainly that I do not know the parts I could not see, or do I let a guess pass as fact?",
+      "What promise have I made that rested on things outside my control, and have I been honest about that limit?",
+      "Is there someone whose guilt I have repeated only because of how things looked, without knowing what happened out of sight?",
+      "Before I speak for or against anyone, do I first ask myself how I know?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন কারও ব্যাপারে কিছু বলেছি, তার কতটুকু আমি নিজের চোখে দেখেছিলাম, আর কতটুকু নিজে থেকে বসিয়ে দিয়েছিলাম?",
+      "যে অংশ আমি দেখিনি, সেখানে কি সোজাসুজি বলি যে জানি না? নাকি আন্দাজকেই সত্য বলে চালিয়ে দিই?",
+      "এমন কোন কথা আমি দিয়েছি, যা নির্ভর করত আমার হাতের বাইরের বিষয়ের উপর? সেই সীমার কথা কি আমি খোলাখুলি বলেছি?",
+      "এমন কেউ কি আছে, যার দোষের কথা আমি ছড়িয়েছি শুধু বাইরের চেহারা দেখে, আড়ালে কী ঘটেছিল তা না জেনেই?",
+      "কারও পক্ষে বা বিপক্ষে মুখ খোলার আগে আমি কি নিজেকে জিজ্ঞেস করি, আমি কীভাবে জানলাম?"
+    ],
+    "lessonEn": "Say only what you know, admit plainly what you could not see, and never pass on a suspicion as if it were a fact.",
+    "lessonBn": "যা জানেন শুধু তা-ই বলুন, যা দেখেননি তা খোলাখুলি স্বীকার করুন, আর সন্দেহকে কখনো সত্য বলে অন্যের কাছে পৌঁছে দেবেন না।"
   }
 };
 
