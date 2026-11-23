@@ -33383,6 +33383,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Settle grudges and wrongs now and ask Allah to clean your heart, for the people of the Garden sit as brothers, facing one another, without rancour.",
     "lessonBn": "ক্ষোভ আর অন্যায়ের হিসাব আজই মিটিয়ে নিন, আর অন্তর পরিষ্কার করে দিতে আল্লাহর কাছে চান। জান্নাতবাসীরা বিদ্বেষমুক্ত হয়ে ভাই ভাই মুখোমুখি বসবে।"
+  },
+  "16:15": {
+    "reflectionEn": "You walk on ground that holds still, drink water that rose somewhere you have never been, and follow roads that other feet found first. None of it feels like a gift, because none of it moves. This verse names that stillness as a favour: mountains set down so the earth would not sway with you, rivers carried from one land to the people of another, and roads opened through the ridges so that you would find your way. He could have steadied the earth without a single mountain, yet He worked through means, and I am meant to use the means He placed. Every road arrives somewhere. Do I know where mine is going, and have I thanked the One who laid it?",
+    "reflectionBn": "আপনি যে মাটির উপর হাঁটেন তা স্থির থাকে। যে পানি পান করেন, তার উৎস হয়তো এমন জায়গায় যেখানে আপনি কখনো যাননি। যে পথ ধরে চলেন, সেটা প্রথম খুঁজে পেয়েছিল অন্য কারও পা। এর কোনোটাকেই উপহার মনে হয় না, কারণ এগুলো নড়ে না, চোখেও পড়ে না। এ আয়াত সেই স্থিরতাকেই নিয়ামত বলে চিনিয়ে দেয়। যমীন যেন আপনাকে নিয়ে দুলে না ওঠে, তাই পাহাড় গেড়ে দেওয়া হয়েছে। নদী এক দেশ থেকে বয়ে আনা হয়েছে আরেক দেশের মানুষের কাছে। পাহাড়ের সারির ফাঁকে পথ খুলে দেওয়া হয়েছে, যাতে আপনি গন্তব্য খুঁজে পান। পাহাড় ছাড়াই তিনি যমীনকে থামিয়ে দিতে পারতেন, তবু কাজ করেছেন উপকরণের ভেতর দিয়ে। আমারও তাই তাঁর রাখা উপকরণ কাজে লাগানোর কথা। প্রতিটি পথ কোথাও না কোথাও গিয়ে থামে। আমার পথটা কোন দিকে যাচ্ছে, আমি কি জানি? আর যিনি পথটা বিছিয়ে দিয়েছেন, তাঁর শোকর কি কখনো আদায় করেছি?",
+    "pointsEn": [
+      "What steady thing in my ordinary day, the ground, the water or the road to work, have I never once thanked Allah for?",
+      "Which means that Allah placed in front of me am I neglecting while I say that I trust Him?",
+      "And which means am I leaning on as though it could hold me up without Him?",
+      "Water from a distant source reaches me without my effort; what good that came to me from far away am I passing on to someone who needs it?",
+      "The roads were made so that people would find their way; where is the road of my life heading, and would I notice if I had lost it?"
+    ],
+    "pointsBn": [
+      "আমার সাধারণ দিনের কোন স্থির জিনিসটার জন্য, মাটি, পানি কিংবা কাজে যাওয়ার রাস্তা, আমি একবারও আল্লাহর শোকর আদায় করিনি?",
+      "আল্লাহ আমার সামনে যে উপকরণ রেখেছেন, তার কোনটাকে আমি অবহেলা করছি, অথচ মুখে বলছি তাঁর উপর ভরসা রাখি?",
+      "আর কোন উপকরণের উপর এমনভাবে ভর দিয়ে আছি, যেন তাঁকে ছাড়াই সেটা আমাকে ধরে রাখতে পারবে?",
+      "দূরের কোনো উৎসের পানি আমার কোনো চেষ্টা ছাড়াই আমার কাছে পৌঁছায়। দূর থেকে যে কল্যাণ আমার কাছে এসেছে, তা কি আমি এমন কারও কাছে পৌঁছে দিচ্ছি যার সেটা দরকার?",
+      "পথ বানানো হয়েছে যাতে মানুষ গন্তব্য খুঁজে পায়। আমার জীবনের পথটা কোন দিকে যাচ্ছে? পথ হারিয়ে ফেললে আমি কি টেরও পেতাম?"
+    ],
+    "lessonEn": "Thank Allah for the steady ground, the water and the roads you take for granted, use the means He placed, and let every road you walk lead you back to Him.",
+    "lessonBn": "যে স্থির মাটি, পানি আর পথকে আপনি স্বাভাবিক ধরে নেন, তার জন্য আল্লাহর শোকর আদায় করুন। তাঁর রাখা উপকরণ কাজে লাগান, আর আপনার চলা প্রতিটি পথ যেন আপনাকে তাঁর দিকেই ফিরিয়ে নেয়।"
   }
 };
 

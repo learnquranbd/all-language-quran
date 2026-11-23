@@ -763,6 +763,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Shore to the Ridges",
+          "bn": "সাগরতীর থেকে পাহাড়ের সারিতে"
+        },
+        "p": [
+          {
+            "en": "Wa-alqa fi al-ardi rawasiya: and He cast into the earth firm mountains. The passage has been counting favours since 16:10: rain and pasture, crops and fruit, night and day, the colours of what is spread on the earth, and in 16:14 the sea with its fish, its ornaments and its ships. Now it comes back to land. Ibn Kathir marks the turn: then Allah mentions the earth and the lofty, firmly anchored mountains He placed in it. At-Tabari joins the verse to the chain: and among His favours to you, O people, is also that He cast firm mountains into the earth.",
+            "bn": "ওয়া আলকা ফিল আরদি রাওয়াসিয়া: আর তিনি যমীনে গেড়ে দিয়েছেন সুদৃঢ় পাহাড়। ১৬:১০ আয়াত থেকে সূরাটি একের পর এক নিয়ামত গুনে চলেছে। বৃষ্টি আর চারণভূমি, শস্য আর ফল, রাত আর দিন, যমীনে ছড়ানো নানা রঙের জিনিস। ১৬:১৪ আয়াতে এসেছে সমুদ্র, তার মাছ, অলংকার আর জাহাজ। এবার কথা ফিরে আসে স্থলে। ইবন কাসীর মোড়টা দেখিয়ে দেন: এরপর আল্লাহ যমীনের কথা বলেন, আর তাতে স্থাপিত সুউচ্চ, মজবুতভাবে গাঁথা পাহাড়ের কথা। তাবারী আয়াতটিকে আগের শিকলের সঙ্গে জুড়ে দেন: হে মানুষ, তোমাদের প্রতি তাঁর নিয়ামতের মধ্যে এটিও যে তিনি যমীনে সুদৃঢ় পাহাড় গেড়ে দিয়েছেন।"
+          },
+          {
+            "en": "The word rawasi carries the meaning of the verse in its root. At-Tabari explains it as the plural of rasiya: the mountains that stand fixed in the earth. Al-Qurtubi defines the verb: rasa, yarsu, said of a thing when it becomes firm and stays in place, and he quotes a line of poetry about a soul that stays firm when the coward's soul leaps up in fright. As-Sa'di calls them the great mountains and adds who they were for: Allah cast them for the sake of His servants. Ma'arif al-Qur'an renders rasiya as a huge mountain.",
+            "bn": "রাওয়াসি শব্দের ধাতুর ভেতরেই আয়াতের অর্থ লুকিয়ে আছে। তাবারী বলেন, এটি রাসিয়ার বহুবচন, অর্থাৎ যে পাহাড়গুলো যমীনে অনড় হয়ে দাঁড়িয়ে থাকে। কুরতুবী ক্রিয়াটির সংজ্ঞা দেন: রাসা, ইয়ারসূ, কোনো জিনিস যখন মজবুত হয়ে নিজের জায়গায় স্থির থাকে তখন এ কথা বলা হয়। প্রমাণ হিসেবে তিনি একটি কবিতার চরণ আনেন। সেখানে এমন এক প্রাণের কথা আছে, যা ভীরুর প্রাণ আতঙ্কে লাফিয়ে উঠলেও অটল থাকে। সা'দী এগুলোকে বলেন বিশাল পাহাড়, আর জুড়ে দেন এগুলো কার জন্য: আল্লাহ এগুলো গেড়েছেন তাঁর বান্দাদের খাতিরে। মাআরিফুল কুরআন রাসিয়ার অর্থ করে বিশাল পর্বত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lest It Tip With You",
+          "bn": "যাতে তোমাদের নিয়ে হেলে না পড়ে"
+        },
+        "p": [
+          {
+            "en": "An tamida bikum: literally, that it sway with you. At-Tabari reads it as an la tamida, that it not sway, and compares 4:176, yubayyinu Allahu lakum an tadillu, whose sense is that you not go astray. Al-Qurtubi names the two grammatical accounts behind that reading. The Kufans take a la to be understood, giving lest it sway; the Basrans supply a noun, karahiyata an tamida, out of aversion to its swaying. He gives both without choosing, and the meaning arrives at the same place: the mountains are there so that the earth does not move with its people.",
+            "bn": "আন তামীদা বিকুম: শব্দে শব্দে, যে তা তোমাদের নিয়ে দুলবে। তাবারী একে পড়েন আন লা তামীদা, অর্থাৎ যেন না দোলে। তুলনা হিসেবে তিনি আনেন ৪:১৭৬ আয়াতের ইউবাইয়িনুল্লাহু লাকুম আন তাদিল্লূ, যার মর্ম হলো যেন তোমরা পথ না হারাও। কুরতুবী এ পাঠের পেছনের দুটি ব্যাকরণগত ব্যাখ্যার নাম বলেন। কূফার ব্যাকরণবিদেরা ধরে নেন একটি লা উহ্য আছে, তাতে অর্থ দাঁড়ায় যাতে না দোলে। বসরার ব্যাকরণবিদেরা একটি বিশেষ্য যোগ করেন, কারাহিয়াতা আন তামীদা, অর্থাৎ দুলে ওঠা অপছন্দ বলে। কুরতুবী দুটোই উল্লেখ করেন, কোনোটিকে বেছে নেন না। অর্থ অবশ্য একই জায়গায় পৌঁছায়: পাহাড় আছে, যাতে যমীন তার বাসিন্দাদের নিয়ে নড়ে না ওঠে।"
+          },
+          {
+            "en": "At-Tabari defines al-mayd as agitation and tipping over. One says madat as-safina when a ship tips with its people aboard and leans, and from the same word comes the mayd that seizes a rider of the sea, which is dizziness. Al-Baghawi gives the same definition and the same seasickness. Al-Qurtubi describes movement to the right and the left: branches madat when they swayed, and a man madat when he swaggered. At-Tabari relays Mujahid's gloss, lest it overturn with you, and Ma'arif al-Qur'an speaks of swinging from side to side through loss of balance.",
+            "bn": "তাবারীর সংজ্ঞায় আল-মাইদ মানে অস্থিরতা আর উল্টে পড়ার মতো হেলে যাওয়া। আরোহীসহ জাহাজ যখন কাত হয়ে হেলে পড়ে, তখন বলা হয় মাদাতিস সাফীনা। সাগরযাত্রীকে যে মাথা ঘোরা পেয়ে বসে, তাকেও এ শব্দ থেকেই বলা হয় মাইদ। বাগাভী একই সংজ্ঞা দেন, সমুদ্রপীড়ার একই উদাহরণসহ। কুরতুবী বর্ণনা করেন ডানে-বাঁয়ে নড়াচড়ার কথা: ডালপালা দুলে উঠলে বলা হয় মাদাত, কেউ দম্ভে দুলে দুলে হাঁটলেও তাই। তাবারী মুজাহিদের ব্যাখ্যাও আনেন: যাতে তোমাদের নিয়ে উল্টে না যায়। মাআরিফুল কুরআন বলে, ভারসাম্য হারিয়ে এদিক-ওদিক দোলার কথা।"
+          },
+          {
+            "en": "Bikum, with you, measures the favour by the people standing on the ground. Ibn Kathir says the mountains let the earth settle, so that it does not shake with the living creatures on it, for then their life would give them no ease. As-Sa'di draws the practical line: because the earth does not sway with them, people are able to till it, build on it and travel across it. At-Tabari's example comes right after the ships of 16:14. The swaying he describes is a deck that tips, and the favour is a floor that never does.",
+            "bn": "বিকুম, তোমাদের নিয়ে: এ শব্দ নিয়ামতটাকে মাপে মাটির উপর দাঁড়ানো মানুষ দিয়ে। ইবন কাসীর বলেন, পাহাড়ের কারণে যমীন স্থির থাকে, তার উপরের প্রাণীদের নিয়ে কাঁপে না। কাঁপলে তাদের জীবনে কোনো স্বস্তি থাকত না। সা'দী কাজের দিকটা দেখান: যমীন মানুষকে নিয়ে দোলে না বলেই তারা চাষ করতে পারে, ঘর তুলতে পারে, এর উপর দিয়ে চলাফেরা করতে পারে। তাবারীর উদাহরণটা আসে ১৬:১৪ আয়াতের জাহাজের ঠিক পরেই। তিনি যে দোলার কথা বলেন, তা জাহাজের কাত হয়ে যাওয়া পাটাতনের দোলা। আর নিয়ামত হলো এমন মেঝে, যা কখনো কাত হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports of an Unsettled Earth",
+          "bn": "অস্থির যমীনের বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari goes a step further: Allah anchored the earth with mountains so that His creatures on its back would not sway, and in fact it had been swaying before it was anchored. He supports this with reports, not with words of the Prophet ﷺ. Through Qatada and al-Hasan he relays Qays ibn Ubad, whom Ibn Kathir's text spells Qays ibn Ubada: when Allah created the earth it began to heave, and the angels said that it would not keep anyone steady on its back. Then at daybreak it had its mountains in it.",
+            "bn": "তাবারী আরেক ধাপ এগিয়ে বলেন: আল্লাহ পাহাড় দিয়ে যমীনকে গেঁথে দিয়েছেন, যাতে এর পিঠে থাকা সৃষ্টি না দোলে। আর বাস্তবে গেঁথে দেওয়ার আগে যমীন দুলছিলই। এর পক্ষে তিনি কিছু বর্ণনা আনেন, নবী ﷺ-এর কোনো বাণী নয়। কাতাদা ও হাসানের সূত্রে তিনি বর্ণনা করেন কায়স ইবন উবাদ থেকে। ইবন কাসীরের পাঠে তাঁর নাম কায়স ইবন উবাদা। বর্ণনাটি এই: আল্লাহ যখন যমীন সৃষ্টি করলেন, তা থরথর করে কাঁপতে লাগল। ফেরেশতারা বললেন, এ তো এর পিঠে কাউকে স্থির থাকতে দেবে না। তারপর ভোর হতেই দেখা গেল, তাতে পাহাড়গুলো গাঁথা হয়ে গেছে।"
+          },
+          {
+            "en": "Al-Hasan's own words come through Abd ar-Razzaq, from Ma'mar, from Qatada, who said he heard him. Here the two texts differ by one word. At-Tabari's printed text has kadat tamid, the earth almost swayed; Ibn Kathir, quoting the same chain, has kanat tamid, it was swaying. In both, they said it would not keep anyone steady, and by morning the mountains had been created, and the angels did not know what the mountains were created from. Al-Qurtubi and al-Baghawi give the same picture from Wahb ibn Munabbih.",
+            "bn": "হাসানের নিজের কথা এসেছে আবদুর রাযযাক থেকে, তিনি মা'মার থেকে, তিনি কাতাদা থেকে। কাতাদা বলেন, তিনি নিজ কানে হাসানকে বলতে শুনেছেন। এখানে দুই পাঠে একটি শব্দের তফাত। তাবারীর মুদ্রিত পাঠে আছে কাদাত তামীদ, অর্থাৎ যমীন দুলে ওঠার উপক্রম হয়েছিল। ইবন কাসীর একই সনদে উদ্ধৃত করেন কানাত তামীদ, অর্থাৎ যমীন দুলছিল। দুই পাঠেই বাকিটা এক: তারা বলল, এ কাউকে স্থির থাকতে দেবে না। সকাল হতেই পাহাড় সৃষ্টি হয়ে গেল, আর ফেরেশতারা জানতেন না পাহাড় কী থেকে বানানো। কুরতুবী আর বাগাভী একই ছবি আনেন ওয়াহব ইবন মুনাব্বিহ থেকে।"
+          },
+          {
+            "en": "A third report comes from Ali ibn Abi Talib (RA). At-Tabari gives it with its chain, Ibn Kathir quotes it from him, and al-Qurtubi has it without a chain. In it the earth bucked when it was created and complained to its Lord about the children of Adam who would commit sins upon it, and Allah anchored on it mountains, those you see and those you do not see. None of the commentators fetched grades these reports, and none raises them to the Prophet ﷺ. They record what earlier generations said, and this article builds nothing on them beyond the verse's own point.",
+            "bn": "তৃতীয় বর্ণনাটি আলী ইবন আবী তালিব (রাঃ) থেকে। তাবারী এটি সনদসহ আনেন, ইবন কাসীর তাঁর থেকে উদ্ধৃত করেন, আর কুরতুবী আনেন সনদ ছাড়া। এতে আছে, সৃষ্টির সময় যমীন লাফিয়ে উঠেছিল এবং আদমসন্তানদের নিয়ে রবের কাছে অভিযোগ করেছিল, যারা এর উপর গুনাহ করবে। তখন আল্লাহ এর উপর পাহাড় গেঁথে দেন, যেগুলো তোমরা দেখো এবং যেগুলো দেখো না। যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এ বর্ণনাগুলোর মান নির্ণয় করে না, আর কোনোটিই এগুলোকে নবী ﷺ পর্যন্ত পৌঁছায় না। এগুলো আগের প্রজন্মের কথার রেকর্ড মাত্র। এ লেখা আয়াতের নিজের বক্তব্যের বাইরে এগুলোর উপর কিছুই দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rare Route, a Modest Claim",
+          "bn": "বিরল সূত্র, সংযত দাবি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi also cites a narration raised to the Prophet ﷺ, which he takes from at-Tirmidhi near the end of the book of tafsir, on the earth's swaying and the creation of the mountains. At-Tirmidhi himself grades it gharib, rare, and says he knows it as raised only through this one route. For that reason this article neither quotes it nor builds on it. None of the commentators fetched attaches a sound hadith to this verse, and none gives an occasion of revelation for it.",
+            "bn": "কুরতুবী নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনাও আনেন। তিনি সেটি নিয়েছেন তিরমিযীর তাফসীর অধ্যায়ের শেষ দিক থেকে। বিষয় যমীনের দোলা আর পাহাড়ের সৃষ্টি। তিরমিযী নিজেই একে গরীব, অর্থাৎ বিরল, বলেছেন। তিনি জানান, নবী ﷺ পর্যন্ত পৌঁছানো অবস্থায় এটি তিনি কেবল এই একটি সূত্রেই চেনেন। এ কারণে এ লেখা বর্ণনাটি উদ্ধৃত করে না, এর উপর কিছু দাঁড়ও করায় না। যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না, আর কোনোটিই এর নাযিলের কোনো প্রেক্ষাপটও বলে না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an takes up a question its own age raised. Its reading is that the earth was not made of uniform, balanced material, being heavier on one side and lighter on another, and that the weight of the mountains was placed on it to stop the turbulence this would cause. On whether the earth moves in an orbit, it says the Qur'an neither affirms nor rejects it, and closes: Allah knows best. That view is Ma'arif's. This article adds no geology of its own; the verse names a favour and asks for thought.",
+            "bn": "মাআরিফুল কুরআন নিজের যুগের তোলা একটি প্রশ্নে হাত দেয়। তার ব্যাখ্যা হলো, যমীন সমান ও ভারসাম্যপূর্ণ উপাদানে তৈরি নয়। এক দিকে ভারী, অন্য দিকে হালকা। এতে যে অস্থিরতা দেখা দিত, তা থামাতে পাহাড়ের ভার এর উপর রাখা হয়েছে। যমীন কক্ষপথে ঘোরে কি না, সে বিষয়ে মাআরিফ বলে, কুরআন এটা স্বীকারও করে না, অস্বীকারও করে না। শেষে বলে: আল্লাহই ভালো জানেন। এ মত মাআরিফের নিজের। এ লেখা নিজের পক্ষ থেকে ভূতত্ত্বের কোনো দাবি জোড়ে না। আয়াত একটি নিয়ামতের নাম বলে, আর ভেবে দেখতে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Means He Did Not Need",
+          "bn": "যে উপকরণের তাঁর প্রয়োজন ছিল না"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws one ruling from the verse, and states it strongly: in this verse is the clearest evidence for making use of means, for He was able to make the earth still without the mountains. He notes that the point has already come up earlier in his commentary. The argument is short. Allah needed nothing to hold the earth in place, yet He chose to hold it through a cause that people can see and stand on, and He tells them He did so.",
+            "bn": "কুরতুবী আয়াত থেকে একটি শিক্ষা বের করেন এবং জোর দিয়েই বলেন: উপকরণ কাজে লাগানোর পক্ষে এ আয়াত সবচেয়ে স্পষ্ট প্রমাণ। কারণ পাহাড় ছাড়াই যমীনকে স্থির রাখার ক্ষমতা তাঁর ছিল। তিনি জানান, এ কথা তাঁর তাফসীরে আগেও এসেছে। যুক্তিটা ছোট। যমীনকে ধরে রাখতে আল্লাহর কিছুরই দরকার ছিল না। তবু তিনি তা ধরে রেখেছেন এমন এক উপকরণ দিয়ে, যা মানুষ চোখে দেখে, যার উপর পা রেখে দাঁড়ায়। আর তিনি নিজেই মানুষকে সে কথা জানিয়ে দিয়েছেন।"
+          },
+          {
+            "en": "The verb keeps the order straight. It is Allah who cast the mountains; they hold because He set them, not by their own power. So the lesson cuts both ways. Neglecting the means He placed is not trust, and leaning on a means as if it worked without Him is not trust either. As-Sa'di's list of what the steadied ground allows, tilling, building and travelling, is a list of human work done on a floor that human work did not lay.",
+            "bn": "ক্রিয়াপদটাই ক্রম ঠিক রাখে। পাহাড় গেড়েছেন আল্লাহ। পাহাড় যমীনকে ধরে রাখে কারণ তিনি সেগুলো বসিয়েছেন, নিজের ক্ষমতায় নয়। তাই শিক্ষাটা দুই দিকেই কাটে। তাঁর রাখা উপকরণ অবহেলা করা তাওয়াক্কুল নয়। আবার কোনো উপকরণের উপর এমনভাবে ভর দেওয়া, যেন তা তাঁকে ছাড়াই কাজ করে, সেটাও তাওয়াক্কুল নয়। স্থির মাটি যা সম্ভব করে, সা'দী তার যে তালিকা দেন, চাষ, ঘর তোলা আর পথচলা, তা আসলে মানুষের পরিশ্রমেরই তালিকা। কিন্তু সে পরিশ্রম চলে এমন এক মেঝের উপর, যা মানুষের পরিশ্রমে বিছানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water Meant for Another Land",
+          "bn": "অন্য দেশের জন্য পাঠানো পানি"
+        },
+        "p": [
+          {
+            "en": "Wa-anharan, and rivers, arrives with no verb of its own. At-Tabari explains it as and He made rivers in it: the rivers are joined to the mountains, and the verb that governs the mountains is made to govern them, since the sense is plain. He compares a line of rajaz: you hear a sound in their insides, and in the two hands dryness. Dryness is not heard, he says, so the sense is and you see dryness in the hands. Al-Qurtubi gives both options: He made rivers in it, or He cast rivers in it.",
+            "bn": "ওয়া আনহারান, আর নদী: শব্দটির নিজের কোনো ক্রিয়া নেই। তাবারী এর ব্যাখ্যা দেন, আর তিনি তাতে নদী বানিয়েছেন। নদীকে পাহাড়ের সঙ্গে জুড়ে দেওয়া হয়েছে, আর পাহাড়ের উপর যে ক্রিয়া কাজ করে, অর্থ স্পষ্ট বলে তা নদীর উপরেও খাটানো হয়েছে। তুলনা হিসেবে তিনি রজয ছন্দের একটি চরণ আনেন। তাতে বলা হয়েছে, তুমি তাদের পেটের ভেতর শব্দ শোনো, আর দুই হাতে শুষ্কতা। তাবারী বলেন, শুষ্কতা তো কানে শোনার জিনিস নয়, তাই অর্থ দাঁড়ায়: আর তুমি দুই হাতে শুষ্কতা দেখো। কুরতুবী দুটো সম্ভাবনাই রাখেন: তিনি তাতে নদী বানিয়েছেন, অথবা তাতে নদী স্থাপন করেছেন।"
+          },
+          {
+            "en": "Ibn Kathir dwells on where the water goes. The rivers run from place to place as provision for His servants: a spring rises in a certain spot and is provision for the people of somewhere else. It cuts across tracts of land, wilderness and desert, pierces mountains and hills, and reaches the land whose people it was made to serve. Some are small and some great, some valleys run for a while and then stop, some flow strongly and some slowly, all as He willed and measured. Then he closes: there is no god but Him.",
+            "bn": "পানি কোথায় যায়, ইবন কাসীর সে কথায় সময় নেন। নদী এক জায়গা থেকে আরেক জায়গায় বয়ে যায়, বান্দাদের রিযিক হয়ে। ঝরনা ফোটে এক জায়গায়, আর রিযিক হয় অন্য জায়গার মানুষের। পানি পাড়ি দেয় নানা ভূখণ্ড, বিরান প্রান্তর আর মরুভূমি, ভেদ করে পাহাড় আর টিলা, তারপর পৌঁছায় সেই দেশে, যার বাসিন্দাদের কাজে লাগার জন্য তাকে বশ করা হয়েছে। কোনোটা ছোট, কোনোটা বড়। কোনো উপত্যকায় কিছুদিন পানি বয়, তারপর থেমে যায়। কোনোটা খরস্রোতা, কোনোটা ধীর। সবই তাঁর ইচ্ছা আর পরিমাপ অনুযায়ী। শেষে তিনি বলেন: তিনি ছাড়া কোনো ইলাহ নেই।"
+          },
+          {
+            "en": "As-Sa'di counts the rivers among His mercies and follows them further. Allah drives them from a distant land to a land in need of them, to water people, their livestock and their crops. Some run on the face of the earth; others lie in its belly, and people reach them by digging and draw them up with water-wheels and other devices that Allah made available to them. Al-Muyassar keeps it to one purpose: rivers so that you may drink from them.",
+            "bn": "সা'দী নদীকে তাঁর রহমতের মধ্যে গোনেন, আর পানির পিছু পিছু আরও দূর যান। আল্লাহ নদীকে বহু দূরের দেশ থেকে হাঁকিয়ে আনেন এমন দেশে, যার তা খুব দরকার। তাতে মানুষ, তাদের পশু আর তাদের ফসল পানি পায়। কিছু নদী বয় মাটির উপর দিয়ে। আর কিছু থাকে মাটির পেটে, মানুষ খুঁড়ে খুঁড়ে সেখানে পৌঁছায়, তারপর রাহাট আর নানা যন্ত্র দিয়ে তা তুলে আনে। এই যন্ত্রগুলোও আল্লাহই তাদের হাতের নাগালে এনে দিয়েছেন। মুয়াসসার একটি উদ্দেশ্যেই থামে: নদী, যাতে তোমরা তা থেকে পান করতে পার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Passes Through the Hills",
+          "bn": "পাহাড়ের ফাঁকে গিরিপথ"
+        },
+        "p": [
+          {
+            "en": "Wa-subulan, and roads. At-Tabari calls it the plural of sabil, as turuq is the plural of tariq, and relays Qatada by two chains: roads. The sense he gives is that He made for you, O people, roads and passes in the earth that you travel on your errands and in seeking your livelihood, as a mercy to you and a favour from Him. Had He hidden them from you, he adds, you would have perished in straying and bewilderment. Al-Baghawi notes that the roads are of many kinds.",
+            "bn": "ওয়া সুবুলান, আর পথ। তাবারী বলেন, এটি সাবীলের বহুবচন, যেমন তুরুক তারীকের বহুবচন। কাতাদা থেকে দুই সনদে তিনি একই অর্থ আনেন: রাস্তা। তাঁর ব্যাখ্যায় মর্ম দাঁড়ায় এই: হে মানুষ, তিনি যমীনে তোমাদের জন্য রাস্তা আর গিরিপথ বানিয়েছেন। তোমরা তাতে চলাফেরা করো নিজেদের প্রয়োজনে, জীবিকার খোঁজে। এ তোমাদের প্রতি তাঁর রহমত, তাঁর পক্ষ থেকে নিয়ামত। তাবারী যোগ করেন, তিনি যদি পথগুলো তোমাদের চোখের আড়ালে রাখতেন, তবে দিশা হারিয়ে, হতবুদ্ধি হয়ে তোমরা ধ্বংস হয়ে যেতে। বাগাভী জানান, পথগুলো নানা রকমের।"
+          },
+          {
+            "en": "Ibn Kathir notices where the roads run: Allah even cuts through a mountain so that there is a passage and a route between its parts, as He says in 21:31, wa-ja'alna fiha fijajan subulan, and We made broad passes in it as roads. As-Sa'di describes the same sight from the traveller's side. You find a land tangled with mountains, chained one to another, and Allah has made openings and passages between them for those who travel. The firm mountains set lest the earth sway return in 31:10 as well.",
+            "bn": "পথগুলো কোথা দিয়ে গেছে, ইবন কাসীর সেদিকে চোখ রাখেন। আল্লাহ পাহাড় পর্যন্ত কেটে দেন, যাতে তার দুই অংশের মাঝখানে চলার পথ তৈরি হয়। যেমন তিনি ২১:৩১ আয়াতে বলেন, ওয়া জাআলনা ফীহা ফিজাজান সুবুলা: আর আমি তাতে প্রশস্ত গিরিপথ বানিয়েছি চলার রাস্তা হিসেবে। সা'দী একই দৃশ্য দেখান পথিকের চোখ দিয়ে। আপনি এমন ভূমি পাবেন, যা পাহাড়ে জড়ানো, পাহাড়ের পর পাহাড় শিকলের মতো গাঁথা। অথচ তার ফাঁকে ফাঁকে আল্লাহ পথিকদের জন্য ফোকর আর চলার রাস্তা রেখে দিয়েছেন। যমীন যাতে না দোলে সে জন্য গাঁথা সুদৃঢ় পাহাড়ের কথা ৩১:১০ আয়াতেও আবার আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arriving Where You Set Out For",
+          "bn": "যেখানে যেতে চেয়েছিলেন, সেখানে পৌঁছানো"
+        },
+        "p": [
+          {
+            "en": "La'allakum tahtadun, so that you may find the way. At-Tabari: so that you are guided by these roads to the places you intend and the spots you want, and do not stray and become bewildered. Al-Qurtubi and al-Baghawi say the same in fewer words, al-Muyassar speaks of reaching the places you aim for, and as-Sa'di of being guided to the way to distant homes. Every commentator fetched reads the guidance here as finding one's way across the earth. The next verse, 16:16, carries the same verb on to landmarks and the stars.",
+            "bn": "লাআল্লাকুম তাহতাদূন, যাতে তোমরা পথ খুঁজে পাও। তাবারীর ব্যাখ্যা: যাতে এই পথগুলো ধরে তোমরা সেসব জায়গায় পৌঁছাতে পার, যেখানে যেতে চাও, যেখানে তোমাদের প্রয়োজন। আর যাতে দিশা হারিয়ে হতবুদ্ধি হয়ে না পড়। কুরতুবী আর বাগাভী অল্প কথায় একই কথা বলেন। মুয়াসসার বলে, লক্ষ্যের জায়গায় পৌঁছানোর কথা, আর সা'দী বলেন, দূর-দূরান্তের বসতির পথ খুঁজে পাওয়ার কথা। যে তাফসীরগুলো পড়া হয়েছে, সবগুলোই এখানে হেদায়েত বলতে বোঝায় যমীনের উপর দিয়ে পথ চিনে চলা। পরের আয়াত ১৬:১৬ একই ক্রিয়া টেনে নিয়ে যায় পথের নিশানা আর তারকার দিকে।"
+          },
+          {
+            "en": "This article keeps to that reading. Still, a reader may notice that 16:9 placed the direction of the right way upon Allah, and that this verse gives roads with a similar hope attached, that you find the way. That is a reader's connection, not a commentator's. A traveller who reaches the town he set out for has received two favours at once, a road and arrival along it. Then 16:17 asks the question these gifts were leading to: is He who creates like one who does not create?",
+            "bn": "এ লেখাও সে ব্যাখ্যার মধ্যেই থাকে। তবু পাঠকের চোখে একটা জিনিস পড়তে পারে। ১৬:৯ আয়াত সঠিক পথের দিশা দেওয়ার দায় আল্লাহর উপর রেখেছে, আর এ আয়াত পথ দেওয়ার সঙ্গে জুড়ে দিয়েছে প্রায় একই আশা: যাতে তোমরা পথ খুঁজে পাও। এ সংযোগ পাঠকের নিজের, কোনো মুফাসসিরের নয়। যে পথিক যে শহরের উদ্দেশে বেরিয়েছিল, সেখানে পৌঁছে গেলে সে একসঙ্গে দুটি নিয়ামত পায়: পথ, আর সে পথ ধরে গন্তব্যে পৌঁছানো। তারপর ১৬:১৭ আয়াত সেই প্রশ্ন তোলে, যার দিকে এ উপহারগুলো এতক্ষণ নিয়ে যাচ্ছিল: যিনি সৃষ্টি করেন, তিনি কি তার মতো, যে সৃষ্টি করে না?"
+          }
+        ]
+      }
+    ]
+  },
   "16:18": {
     "sections": [
       {
