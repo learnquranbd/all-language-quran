@@ -30743,6 +30743,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you fall, turn back to Allah quickly and do not settle into the sin; forgiveness and a lasting reward are promised to those who return.",
     "lessonBn": "পা পিছলে গেলে দেরি না করে আল্লাহর দিকে ফিরুন, গুনাহর উপর থিতু হবেন না। যারা ফিরে আসে, তাদের জন্যই মাগফিরাত আর চিরস্থায়ী প্রতিদানের ওয়াদা।"
+  },
+  "4:12": {
+    "reflectionEn": "A death in the family brings two silences. One is grief. The other is the quiet in which people begin to count. This verse speaks into that second silence. It gives the husband his portion and the wife hers, and it remembers the one who leaves neither child nor father, whose estate passes to brothers and sisters through the mother. Three times it says: after any bequest or debt. Once it adds: without causing harm. A last will is a person's final act among the living. It can pay what is owed and leave some good behind, or it can quietly tilt what Allah has already fixed. The verse closes on a Lord who knows, and who is forbearing. What will my last act be?",
+    "reflectionBn": "পরিবারে কেউ মারা গেলে দুই রকম নীরবতা নামে। একটা শোকের। অন্যটা সেই চুপচাপ সময়, যখন মানুষ মনে মনে হিসাব কষতে শুরু করে। এ আয়াত কথা বলে দ্বিতীয় নীরবতার ভেতরে। স্বামীকে দেয় তার অংশ, স্ত্রীকে দেয় তার অংশ। আর মনে রাখে সেই মানুষটিকেও, যার সন্তান নেই, বাবাও নেই, যার সম্পদ যায় মায়ের দিকের ভাইবোনের কাছে। তিনবার আয়াতটি বলে: ওসিয়ত বা ঋণ মেটানোর পর। একবার যোগ করে: কারও ক্ষতি না করে। শেষ ওসিয়ত জীবিতদের মাঝে মানুষের শেষ কাজ। তা দিয়ে পাওনা শোধ করা যায়, কিছু ভালো রেখে যাওয়া যায়। আবার আল্লাহ যা ঠিক করে দিয়েছেন, চুপিসারে তা একদিকে হেলিয়েও দেওয়া যায়। আয়াত শেষ হয় এমন রবের নামে, যিনি সব জানেন এবং সহনশীল। আমার শেষ কাজটা কেমন হবে?",
+    "pointsEn": [
+      "If I died tonight, would my family know what I owe and to whom, or would they be left to guess?",
+      "Is there anyone, a spouse, a sibling through my mother, a quiet relative, whose share I have half decided they will not really need?",
+      "Have I ever thought of using a will, a gift or a convenient debt to move wealth toward the heir I prefer?",
+      "When I hold a share that belongs to someone weaker than me, do I treat it as theirs or as mine to manage as I like?",
+      "Allah is forbearing and does not hurry to punish. Have I mistaken His patience for His not noticing?"
+    ],
+    "pointsBn": [
+      "আজ রাতে মারা গেলে আমার পরিবার কি জানবে আমি কার কাছে কত ঋণী, নাকি তাদের আন্দাজ করে চলতে হবে?",
+      "এমন কেউ কি আছে, স্ত্রী বা স্বামী, মায়ের দিকের ভাইবোন, কিংবা চুপচাপ থাকা কোনো আত্মীয়, যার অংশ নিয়ে মনে মনে ভেবে রেখেছি যে আসলে তার তেমন দরকার নেই?",
+      "পছন্দের ওয়ারিশের দিকে সম্পদ সরিয়ে দিতে ওসিয়ত, উপহার বা সুবিধামতো কোনো ঋণের কথা কি কখনো মাথায় এসেছে?",
+      "আমার চেয়ে দুর্বল কারও অংশ যখন আমার হাতে থাকে, আমি কি সেটাকে তারই জিনিস মনে করি, নাকি নিজের ইচ্ছেমতো চালানোর জিনিস?",
+      "আল্লাহ সহনশীল, শাস্তি দিতে তাড়াহুড়া করেন না। তাঁর এই ধৈর্যকে কি আমি ভেবে বসেছি যে তিনি দেখছেন না?"
+    ],
+    "lessonEn": "Give every heir, spouse and sibling alike, the share Allah fixed, settle your debts, and let your last will help others without harming those who inherit.",
+    "lessonBn": "স্বামী-স্ত্রী থেকে ভাইবোন পর্যন্ত প্রত্যেক ওয়ারিশকে আল্লাহর ঠিক করা অংশ দিন, ঋণ শোধ করুন, আর আপনার শেষ ওসিয়ত যেন অন্যের উপকার করে, ওয়ারিশদের ক্ষতি না করে।"
   }
 };
 

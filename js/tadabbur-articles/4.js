@@ -467,6 +467,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "When Marriage Makes an Heir",
+          "bn": "বিয়ে যখন ওয়ারিশ বানায়"
+        },
+        "p": [
+          {
+            "en": "4:11 set out what children and parents receive, kin joined by birth. This verse turns to a bond made by contract. Ma'arif al-Qur'an opens it by noting that the earlier text gave the shares of those related by lineage, while this verse names others who are equally entitled, related not by blood but by marriage. Then the verse adds a third heir: the person who leaves neither child nor father and is inherited by a brother or sister. Three groups, one verse, and the same condition repeated after each.",
+            "bn": "৪:১১ আয়াত জানিয়েছে সন্তান আর বাবা-মা কী পাবে, অর্থাৎ জন্মের বাঁধনে জুড়ে থাকা আত্মীয়দের কথা। এ আয়াত ফেরে এমন এক বাঁধনের দিকে, যা গড়ে ওঠে চুক্তিতে। মাআরিফুল কুরআন শুরুতেই বলে, আগের আয়াতে এসেছে বংশের সূত্রে যুক্তদের অংশ। আর এ আয়াতে এসেছে এমন লোকেদের কথা, যাদের হকও সমান, তবে রক্তের সম্পর্কে নয়, বিয়ের সম্পর্কে। এরপর আয়াতটি যোগ করে তৃতীয় এক ওয়ারিশ: যে মানুষ সন্তান বা বাবা কাউকে রেখে যায়নি, তার সম্পদ পায় ভাই বা বোন। একটি আয়াতেই তিনটি দল, আর প্রত্যেক দলের পরে একই শর্ত।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an also asks why the husband's share is named first, and offers its answer as a possibility. After a wife dies, her husband becomes in a sense part of another family, and if she dies in her parents' home with her property there, her people may avoid giving him his due. Naming his right first may be a rebuke to that practice. As-Sa'di relays a remark of Ibn al-Qayyim: the verse says azwaj, spouses, rather than simply women, a sign that this inheritance runs through the bond of marriage itself.",
+            "bn": "স্বামীর অংশ আগে কেন এল, মাআরিফুল কুরআন সে প্রশ্নও তোলে, আর উত্তরটা দেয় সম্ভাবনা হিসেবে। স্ত্রী মারা গেলে স্বামী একরকম অন্য পরিবারের মানুষ হয়ে যান। স্ত্রী যদি বাবার বাড়িতে মারা যান আর তাঁর সম্পদও সেখানে থাকে, তবে তাঁর লোকজন স্বামীর পাওনা দিতে গড়িমসি করতে পারে। স্বামীর হক আগে উল্লেখ করা হয়তো সেই রীতিরই নিন্দা। সা'দী ইবনুল কাইয়্যিমের একটি পর্যবেক্ষণ উদ্ধৃত করেন: আয়াতে শুধু 'নারী' বলা হয়নি, বলা হয়েছে আযওয়াজ, অর্থাৎ জীবনসঙ্গী। এতে বোঝা যায়, এই উত্তরাধিকার চলে বিয়ের বাঁধনের সূত্র ধরেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Several Wives, One Portion",
+          "bn": "একাধিক স্ত্রী, একটিই অংশ"
+        },
+        "p": [
+          {
+            "en": "The shares are stated plainly. A husband takes half of his wife's estate if she leaves no child, and a quarter if she does. A wife takes a quarter of her husband's estate if he leaves no child, and an eighth if he does. What counts as a child? Al-Qurtubi says the word covers a person's own children and their sons' children however far down, male or female, one or more, and reports consensus on it. As-Sa'di adds that the child may be from this spouse or another, while a daughter's children are excluded by consensus.",
+            "bn": "অংশগুলো আয়াতে সোজাসুজি বলা আছে। স্ত্রী সন্তান রেখে না গেলে স্বামী পান তাঁর সম্পদের অর্ধেক, সন্তান থাকলে এক চতুর্থাংশ। স্বামী সন্তান রেখে না গেলে স্ত্রী পান তাঁর সম্পদের এক চতুর্থাংশ, সন্তান থাকলে এক অষ্টমাংশ। সন্তান বলতে কাদের বোঝায়? কুরতুবী বলেন, নিজের ঔরসের সন্তান আর ছেলের দিকের সন্তান, যত নিচেই যাক, ছেলে হোক বা মেয়ে, একজন হোক বা একাধিক। এ বিষয়ে তিনি ইজমা উল্লেখ করেন। সা'দী যোগ করেন, সন্তান এই স্বামী বা স্ত্রীর ঘরের হতে পারে, আবার অন্য ঘরেরও হতে পারে। তবে মেয়ের সন্তান ইজমার ভিত্তিতে এর বাইরে।"
+          },
+          {
+            "en": "A man may leave more than one wife. Al-Baghawi and al-Qurtubi both say the wives share the single quarter or eighth between them, and al-Qurtubi gives the reason from the text: Allah drew no distinction here between one wife and several, as He did between one daughter and several, or one sister and several. Ma'arif al-Qur'an adds a ruling that protects her: if a husband dies with his wife's dower unpaid, the mahr is a debt on the estate, settled before anything is divided, and she then takes her share as an heir besides.",
+            "bn": "কোনো পুরুষ একাধিক স্ত্রী রেখে যেতে পারেন। বাগাভী ও কুরতুবী দুজনেই বলেন, সেই এক চতুর্থাংশ বা এক অষ্টমাংশ স্ত্রীরা নিজেদের মধ্যে ভাগ করে নেবেন। কুরতুবী কারণটা দেখান আয়াতের ভাষা থেকেই: এখানে আল্লাহ একজন স্ত্রী আর একাধিক স্ত্রীর মধ্যে কোনো পার্থক্য করেননি। অথচ এক মেয়ে আর একাধিক মেয়ের বেলায়, কিংবা এক বোন আর একাধিক বোনের বেলায় পার্থক্য করেছেন। মাআরিফুল কুরআন স্ত্রীর পক্ষে আরেকটি বিধান যোগ করে। স্বামী মোহর না দিয়ে মারা গেলে সেই মোহর সম্পদের উপর ঋণ, ভাগের আগেই তা শোধ করতে হবে। তারপর ওয়ারিশ হিসেবে স্ত্রী তাঁর অংশও পাবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Debt and Bequest, Thrice Repeated",
+          "bn": "তিনবার ঋণ আর ওসিয়ত"
+        },
+        "p": [
+          {
+            "en": "Each group's share comes after any bequest or debt. Ibn Kathir gives the order of payment, debt, then bequest, then inheritance, as agreed among scholars. Why then is the bequest named first? At-Tabari answers that the sentence is not setting an order: the shares come after whichever of the two exists in the estate, so either could be named first. Ma'arif al-Qur'an, citing al-Alusi, sees emphasis instead. A creditor will press his claim, but no one presses for a bequest, and heirs may resent wealth leaving the family, so the bequest is named first.",
+            "bn": "প্রত্যেক দলের অংশ আসে ওসিয়ত বা ঋণ মেটানোর পর। ইবন কাসীর পরিশোধের ক্রম বলে দেন: আগে ঋণ, তারপর ওসিয়ত, তারপর মীরাস। এ নিয়ে আলেমদের মধ্যে ঐকমত্য আছে বলেও জানান। তাহলে আয়াতে ওসিয়তের নাম আগে কেন? তাবারীর জবাব, বাক্যটি কোনো ক্রম ঠিক করছে না। কথাটা হলো, সম্পদে এ দুটির যেটাই থাকুক, তা বের করার পরেই অংশ। তাই যেকোনোটার নাম আগে আসতে পারে। মাআরিফুল কুরআন আলূসীর বরাতে এতে জোর দেওয়ার দিক দেখে। পাওনাদার নিজেই এসে দাবি করবে, কিন্তু ওসিয়তের জন্য কেউ চাপ দেয় না। পরিবারের সম্পদ বাইরে যাচ্ছে দেখে ওয়ারিশদের মনও খুঁতখুঁত করতে পারে। তাই ওসিয়তের নাম আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Inherited From the Sides",
+          "bn": "পাশ থেকে আসা উত্তরাধিকার"
+        },
+        "p": [
+          {
+            "en": "Then the verse turns: if a man or a woman is inherited kalalatan. The page for 4:176 sets out the word's link to iklil, the crown, and the debate over whether a parent must also be absent. Two further threads belong here. Al-Qurtubi gives a second derivation, from kalal, weariness, as though the estate reaches the heir from far off and with effort; Ma'arif al-Qur'an relays al-Alusi's form of it, a tie weaker than the tie of father and son. And the commentators ask whether kalalah names the dead person or the heirs.",
+            "bn": "এরপর আয়াত মোড় নেয়: যদি কোনো পুরুষ বা নারীর উত্তরাধিকার হয় কালালা হিসেবে। ইকলীল বা মুকুটের সঙ্গে শব্দটির যোগ, আর বাবা-মায়ের অনুপস্থিতিও শর্ত কি না, সে বিতর্ক ৪:১৭৬ আয়াতের পাতায় আছে। এখানে আরও দুটি দিক দেখার মতো। কুরতুবী শব্দটির আরেকটি উৎস দেন: কালাল, অর্থাৎ ক্লান্তি। যেন সম্পদ ওয়ারিশের হাতে পৌঁছায় দূর থেকে, অনেক কষ্টে। মাআরিফুল কুরআন আলূসীর ভাষ্যে এটাকে বলে বাবা-ছেলের সম্পর্কের চেয়ে দুর্বল এক সম্পর্ক। আর তাফসীরকারেরা প্রশ্ন তোলেন, কালালা কি মৃত ব্যক্তির নাম, নাকি ওয়ারিশদের?"
+          },
+          {
+            "en": "Al-Baghawi gives the first view to Ali and Ibn Mas'ud (RA): the dead man is the kalalah, having lost both ends of his line. Sa'id ibn Jubayr held the second: the heirs are the kalalah, ringing the deceased from the sides while his line of descent stands empty, like a crown around a bare head. At-Tabari takes the heirs' side, resting on a report from Jabir that he calls sound, in which Jabir said only kalalah would inherit from him, and on a report that Sa'd, ill in Makkah, said he had no heir but kalalah.",
+            "bn": "বাগাভী প্রথম মতটি আলী ও ইবন মাসউদ (রাঃ)-এর বলে উল্লেখ করেন: মৃত ব্যক্তিই কালালা, কারণ তার বংশধারার দুই প্রান্তই হারিয়ে গেছে। সাঈদ ইবন জুবাইরের মত দ্বিতীয়টি: ওয়ারিশরাই কালালা। তারা মৃতকে চারপাশ থেকে ঘিরে আছে, অথচ তার বংশের সোজা রেখা ফাঁকা, ঠিক যেমন মুকুট ঘিরে থাকে মাথা, মাঝখানটা খালি। তাবারী ওয়ারিশদের পক্ষ নেন। তাঁর ভিত্তি জাবিরের একটি বর্ণনা, যাকে তিনি সহীহ বলেন: জাবির বলেছিলেন, আমার ওয়ারিশ হবে কেবল কালালা। আরেকটি ভিত্তি সা'দের বর্ণনা: মক্কায় অসুস্থ অবস্থায় তিনি বলেছিলেন, কালালা ছাড়া তাঁর কোনো ওয়ারিশ নেই।"
+          },
+          {
+            "en": "The most quoted definition also teaches how to speak about what one is unsure of. At-Tabari reports through ash-Sha'bi that Abu Bakr (RA) said: I have formed an opinion on kalalah; if it is right, it is from Allah alone, and if it is wrong, it is from me and from Satan, and Allah is free of it: kalalah is everyone apart from the child and the father. When Umar (RA) became caliph, he said he would be ashamed before Allah to differ from Abu Bakr in an opinion he had held. Sulaym ibn Abd, in at-Tabari, says he found them all agreed on it.",
+            "bn": "সবচেয়ে বেশি উদ্ধৃত সংজ্ঞাটি একটা আদবও শেখায়: নিশ্চিত না হলে কীভাবে কথা বলতে হয়। তাবারী শা'বীর সূত্রে বর্ণনা করেন, আবু বকর (রাঃ) বলেছিলেন: কালালা নিয়ে আমি একটা মত দাঁড় করিয়েছি। ঠিক হলে তা একমাত্র আল্লাহর পক্ষ থেকে, আর ভুল হলে তা আমার আর শয়তানের পক্ষ থেকে, আল্লাহ তা থেকে মুক্ত। কালালা হলো সন্তান আর বাবা ছাড়া বাকি সবাই। পরে উমর (রাঃ) খলিফা হয়ে বলেছিলেন, আবু বকরের কোনো মতের বিরোধিতা করতে আল্লাহর সামনে তাঁর লজ্জা হয়। তাবারীতেই সুলাইম ইবন আবদ বলেন, তিনি তাঁদের সবাইকে এ মতে একমত পেয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This Is the Winter Verse",
+          "bn": "এটিই শীতের আয়াত"
+        },
+        "p": [
+          {
+            "en": "An-Nisa holds two kalalah verses, and al-Baghawi names them by season. Allah revealed one in winter, this verse near the surah's opening, and one in summer, 4:176 at its close, which carries clarification this one lacks. He says so to explain a report, recorded by Muslim (1617) and told in full on the page for 4:176, in which Umar (RA) went back to the Prophet ﷺ about kalalah more often than about anything else, until he was asked: is the verse of summer at the end of Surah an-Nisa not enough for you?",
+            "bn": "সূরা নিসায় কালালা নিয়ে দুটি আয়াত, আর বাগাভী সেগুলোকে চেনান ঋতু দিয়ে। একটি আল্লাহ নাযিল করেছেন শীতে, সূরার শুরুর দিকের এই আয়াত। অন্যটি গ্রীষ্মে, সূরার শেষে ৪:১৭৬, যাতে এমন ব্যাখ্যা আছে যা এ আয়াতে নেই। কথাটা তিনি বলেন একটি বর্ণনা বোঝাতে, যা মুসলিম (১৬১৭) এনেছেন এবং ৪:১৭৬ আয়াতের পাতায় পুরোটা আছে। সেখানে উমর (রাঃ) কালালা নিয়ে নবী ﷺ-এর কাছে অন্য যেকোনো বিষয়ের চেয়ে বেশিবার ফিরে গিয়েছিলেন। শেষে তাঁকে বলা হয়: সূরা নিসার শেষে গ্রীষ্মের আয়াতটি কি তোমার জন্য যথেষ্ট নয়?"
+          },
+          {
+            "en": "So this verse was not the last word on kalalah, and the Companions knew it. Al-Baghawi reports through Abu al-Khayr that a man asked Uqba about kalalah, and Uqba said nothing perplexed the Companions of the Prophet ﷺ as kalalah did. At-Tabari reports through as-Sumayt that Umar came out one day turning his hand and saying a time had passed over him when he did not know what kalalah was. The leading men of that generation said I do not know, and this is my opinion. That honesty is part of what the verse hands down.",
+            "bn": "অর্থাৎ কালালা নিয়ে এ আয়াতই শেষ কথা ছিল না, আর সাহাবিরা তা জানতেন। বাগাভী আবুল খাইরের সূত্রে বর্ণনা করেন, একজন লোক উকবাকে কালালা সম্পর্কে জিজ্ঞেস করলে তিনি বললেন, নবী ﷺ-এর সাহাবিদের কালালার মতো আর কিছু এত বিপাকে ফেলেনি। তাবারী সুমাইতের সূত্রে আনেন, একদিন উমর হাত ঘোরাতে ঘোরাতে বেরিয়ে এসে বলছিলেন, আমার জীবনে এমন সময় গেছে যখন আমি জানতাম না কালালা কী। সে প্রজন্মের শ্রেষ্ঠ মানুষেরা বলতেন, আমি জানি না, কিংবা এটা আমার মত। এই সততাও আয়াতটির রেখে যাওয়া সম্পদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Siblings by the Mother's Side",
+          "bn": "মায়ের দিকের ভাইবোন"
+        },
+        "p": [
+          {
+            "en": "And he has a brother or a sister. The verse does not say through whom, yet the commentators agree that it means through the mother; al-Baghawi calls this agreed. The support is a reading of Sa'd ibn Abi Waqqas (RA). At-Tabari gives it by several chains from al-Qasim ibn Rabi'ah, who recited the verse to Sa'd, and Sa'd added: through his mother. In one chain Sa'd himself recites: and he has a brother or a sister from his mother. Ma'arif al-Qur'an notes that this reading did not reach us by mass transmission, but the community's consensus makes it a basis for practice.",
+            "bn": "আর তার একজন ভাই বা একজন বোন আছে। কোন দিকের ভাইবোন, আয়াত তা বলে না। তবু তাফসীরকারেরা একমত যে এখানে মায়ের দিকের ভাইবোন বোঝানো হয়েছে, বাগাভী একে সর্বসম্মত বলেন। এর ভিত্তি সা'দ ইবন আবী ওয়াক্কাস (রাঃ)-এর একটি কিরাআত। তাবারী কয়েকটি সনদে কাসিম ইবন রবীআর বর্ণনা আনেন: তিনি সা'দকে আয়াতটি পড়ে শোনালে সা'দ যোগ করলেন, তার মায়ের দিক থেকে। এক সনদে সা'দ নিজেই পড়েছেন: আর তার মায়ের দিক থেকে একজন ভাই বা বোন আছে। মাআরিফুল কুরআন বলে, এই কিরাআত মুতাওয়াতির সূত্রে আসেনি, তবে উম্মাহর ইজমার কারণে এর উপর আমল করা যায়।"
+          },
+          {
+            "en": "Al-Qurtubi adds a proof from the Quran itself. 4:176 also speaks of siblings inheriting a kalalah, but there the male takes twice the female, while here they share a third. Since the scholars agree that full and paternal siblings do not inherit as this verse describes, the siblings here are those through the mother. He observes that nowhere else in the law of inheritance are male and female equal. Ibn Kathir lists four ways these heirs differ: they inherit alongside the mother through whom they are related, male and female are equal, they inherit only in kalalah, and never beyond a third.",
+            "bn": "কুরতুবী কুরআন থেকেই আরেকটি দলিল দেন। ৪:১৭৬ আয়াতেও কালালার সম্পদ ভাইবোনের পাওয়ার কথা আছে, কিন্তু সেখানে ছেলে পায় মেয়ের দ্বিগুণ। আর এখানে তারা এক তৃতীয়াংশে সমান শরিক। আলেমরা একমত যে আপন ও বৈমাত্রেয় ভাইবোন এ আয়াতের নিয়মে মীরাস পায় না। তাই এখানকার ভাইবোন মায়ের দিকের। কুরতুবী আরও বলেন, মীরাসের বিধানে আর কোথাও নারী-পুরুষ সমান পায় না, কেবল এখানেই। ইবন কাসীর এই ওয়ারিশদের চারটি বিশেষত্ব গুনে দেন। যে মায়ের সূত্রে তারা আত্মীয়, তাঁর সঙ্গে থেকেও তারা পায়। নারী-পুরুষ সমান। তারা পায় কেবল কালালার ক্ষেত্রে। আর সংখ্যায় যত বেশিই হোক, এক তৃতীয়াংশের বেশি পায় না।"
+          },
+          {
+            "en": "The commentators also record a case from Umar's time where the fixed shares of a husband, a mother and the siblings through the mother used up the whole estate, leaving nothing for full brothers. Ibn Kathir reports that Umar gave the third to the mother's children alone, and the full brothers said: Commander of the Faithful, suppose our father was a donkey, are we not from one mother? He then let them share. Ibn Kathir names those who shared, Uthman among them, and those who did not, with Ali first. As-Sa'di holds that the full brothers fall out. The difference stands.",
+            "bn": "তাফসীরকারেরা উমর (রাঃ)-এর সময়ের একটি ঘটনাও উল্লেখ করেন। সেখানে স্বামী, মা আর মায়ের দিকের ভাইবোনের নির্ধারিত অংশেই পুরো সম্পদ শেষ হয়ে যায়, আপন ভাইদের জন্য কিছুই থাকে না। ইবন কাসীর জানান, উমর এক তৃতীয়াংশ কেবল মায়ের দিকের সন্তানদের দিলেন। তখন আপন ভাইয়েরা বলল, আমীরুল মুমিনীন, ধরে নিন আমাদের বাবা ছিল একটা গাধা, আমরা কি একই মায়ের সন্তান নই? তখন তিনি তাদেরও শরিক করলেন। যাঁরা শরিক করতেন, ইবন কাসীর তাঁদের নাম দেন, উসমান (রাঃ) তাঁদের একজন। যাঁরা করতেন না, তাঁদের মধ্যে প্রথমে আলী (রাঃ)। সা'দীর মতে আপন ভাইয়েরা বাদ পড়ে। মতভেদটি রয়েই গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Will That Wounds No Heir",
+          "bn": "যে ওসিয়ত ওয়ারিশকে আঘাত করে না"
+        },
+        "p": [
+          {
+            "en": "Only here, after the kalalah, does the verse add ghayra mudarr, without causing harm. At-Tabari reads it as not harming his heirs in their inheritance, and gives Mujahid's gloss: in the inheritance of his family. Qatada, in at-Tabari and al-Baghawi, says Allah disliked harm in life and at death, forbade it and warned against it. Ma'arif al-Qur'an argues that although the words come only with kalalah, the rule is general, and is understood in the verse's two earlier mentions of bequest and debt as well.",
+            "bn": "কেবল এখানে, কালালার বিধানের পরে, আয়াতে যোগ হয়েছে গাইরা মুদার্রিন: কারও ক্ষতি না করে। তাবারী এর অর্থ করেন, ওয়ারিশদের মীরাসে ক্ষতি না করে। মুজাহিদের ব্যাখ্যাও তিনি আনেন: তার পরিবারের মীরাসে। তাবারী ও বাগাভী দুজনেই কাতাদার কথা উদ্ধৃত করেন: জীবনে হোক বা মৃত্যুর সময়, ক্ষতি করাকে আল্লাহ অপছন্দ করেছেন, নিষেধ করেছেন, আগেই সতর্ক করেছেন। মাআরিফুল কুরআনের যুক্তি, শব্দ দুটি কালালার সঙ্গে এলেও বিধানটি সবার জন্য। আয়াতের আগের দুই জায়গায় ওসিয়ত আর ঋণের যে উল্লেখ, সেখানেও এটি বোঝা যায়।"
+          },
+          {
+            "en": "What does such harm look like? Al-Baghawi says it is going beyond a third in a bequest, and reports from al-Hasan that it is bequeathing a debt one does not owe. Al-Qurtubi adds a bequest to an heir, and acknowledging a debt to an heir in a final illness. Ibn Kathir says a will should be just, not depriving an heir, cutting his share, or adding to what Allah fixed. He calls authentic the hadith that at-Tirmidhi (2120) records from the Farewell Pilgrimage sermon and grades hasan sahih: Allah has given everyone with a right his right, so there is no bequest for an heir.",
+            "bn": "এমন ক্ষতির চেহারা কেমন? বাগাভী বলেন, ওসিয়তে এক তৃতীয়াংশের সীমা ছাড়িয়ে যাওয়া। হাসান বসরী থেকে তিনি আনেন, যে ঋণ নেই তার ওসিয়ত করে যাওয়া। কুরতুবী যোগ করেন, কোনো ওয়ারিশের জন্য ওসিয়ত, আর মৃত্যুশয্যায় কোনো ওয়ারিশের নামে ঋণ স্বীকার করা। ইবন কাসীরের কথা, ওসিয়ত হবে ন্যায়ের উপর। তাতে কোনো ওয়ারিশকে বঞ্চিত করা যাবে না, কারও অংশ কমানো যাবে না, আল্লাহর ঠিক করা অংশে কিছু বাড়ানোও যাবে না। তিনি একটি হাদীসকে সহীহ বলেন, যা তিরমিযী (২১২০) বিদায় হজের খুতবা থেকে এনেছেন এবং হাসান সহীহ বলেছেন: আল্লাহ প্রত্যেক হকদারকে তার হক দিয়ে দিয়েছেন, তাই ওয়ারিশের জন্য কোনো ওসিয়ত নেই।"
+          },
+          {
+            "en": "Where the third comes from is told by al-Bukhari (2742), from Sa'd ibn Abi Waqqas (RA). The Prophet ﷺ visited him when he was ill in Makkah. Sa'd asked: may I bequeath all my wealth? He said: no. Half? No. A third? He said: a third, and a third is much. It is better for you to leave your heirs rich than to leave them dependent, begging from people. Al-Bukhari does not tie it to this verse. At-Tabari reports Ibn Abbas: harm in a bequest is among the major sins, and in Ibn Kathir's account the sound form is Ibn Abbas's own word.",
+            "bn": "এক তৃতীয়াংশের সীমা কোথা থেকে, তা জানা যায় বুখারীর (২৭৪২) বর্ণনায়, সা'দ ইবন আবী ওয়াক্কাস (রাঃ) থেকে। মক্কায় তিনি অসুস্থ হলে নবী ﷺ তাঁকে দেখতে আসেন। সা'দ জিজ্ঞেস করলেন, আমি কি আমার সব সম্পদ ওসিয়ত করে দিতে পারি? তিনি বললেন, না। অর্ধেক? না। এক তৃতীয়াংশ? তিনি বললেন, এক তৃতীয়াংশ, আর এক তৃতীয়াংশও অনেক। ওয়ারিশদের অভাবী রেখে যাওয়ার চেয়ে সচ্ছল রেখে যাওয়া তোমার জন্য উত্তম, যাতে তাদের মানুষের কাছে হাত পাততে না হয়। বুখারী একে এ আয়াতের সঙ্গে জোড়েননি। তাবারী ইবন আব্বাসের কথা আনেন: ওসিয়তে ক্ষতি করা কবীরা গুনাহের একটি। ইবন কাসীরের বিবরণে সহীহ রূপটি ইবন আব্বাসের নিজের কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forbearing, Yet Fully Aware",
+          "bn": "সহনশীল, তবু সব জানেন"
+        },
+        "p": [
+          {
+            "en": "The verse ends: a wasiyyah from Allah, and Allah is Knowing, Forbearing. At-Tabari reads wasiyyah as answering the yusikumullah that opened 4:11, so the whole division across the two verses is Allah's own charge to His servants, and the dying person's bequest sits inside it. Knowing, he says, of what benefits and harms His creatures and who deserves what. Forbearing, in not hastening to punish them for wronging each other, by giving inheritance to the strong and grown among a dead man's children and not to the weak, the young and the females.",
+            "bn": "আয়াত শেষ হয় এভাবে: এ আল্লাহর পক্ষ থেকে ওসিয়ত, আর আল্লাহ সর্বজ্ঞ, সহনশীল। তাবারীর মতে এই ওসিয়ত শব্দটি ৪:১১ আয়াতের শুরুর ইউসীকুমুল্লাহর জবাব। অর্থাৎ দুই আয়াত জুড়ে পুরো বণ্টনটাই বান্দাদের প্রতি আল্লাহর নিজের নির্দেশ, আর মৃত্যুপথযাত্রীর ওসিয়ত তার ভেতরেই। সর্বজ্ঞ, তিনি বলেন, কারণ সৃষ্টির ভালো-মন্দ আর কে কী পাওয়ার যোগ্য, সব তিনি জানেন। সহনশীল, কারণ তারা একে অন্যের উপর জুলুম করলেও তিনি শাস্তিতে তাড়াহুড়া করেন না। সে জুলুম হলো মৃতের সন্তানদের মধ্যে সবল আর বড়দের মীরাস দেওয়া, অথচ দুর্বল, ছোট আর মেয়েদের বঞ্চিত করা।"
+          },
+          {
+            "en": "So the verse licenses nothing against a widow or a sister. Its differing figures are Allah's allotment, not a ranking of worth, and they give no one the right to treat a wife's share as a favour or to press a sister to give hers up. In practice: write down your debts, including any unpaid dower; keep a bequest within the third and away from heirs; and take a real estate, especially a kalalah, to a qualified scholar. At-Tabari reports that Masruq, visiting a sick man who was making his will, told him: be just, do not go astray.",
+            "bn": "তাই বিধবা বা বোনের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। অংশের অঙ্ক ভিন্ন হওয়া আল্লাহর বণ্টন, কারও মর্যাদা মাপার মাপকাঠি নয়। স্ত্রীর অংশকে দয়া বলে দেখানোর বা বোনকে তার অংশ ছেড়ে দিতে চাপ দেওয়ার অধিকার এ থেকে কেউ পায় না। কাজের কথা: নিজের ঋণ লিখে রাখুন, স্ত্রীর বাকি মোহরও। ওসিয়ত রাখুন এক তৃতীয়াংশের মধ্যে, আর ওয়ারিশদের নামে নয়। বাস্তব কোনো সম্পদ বণ্টনের সময়, বিশেষ করে কালালার ক্ষেত্রে, যোগ্য আলেমের কাছে যান। তাবারী জানান, মাসরূক এক অসুস্থ লোককে দেখতে গিয়ে দেখলেন সে ওসিয়ত করছে। তিনি তাকে বললেন: ইনসাফ করো, পথ হারিয়ো না।"
+          }
+        ]
+      }
+    ]
+  },
   "4:15-16": {
     "sections": [
       {
