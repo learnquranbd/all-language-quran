@@ -32823,6 +32823,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Count your faith as Allah's favour, not your own achievement. Give thanks for it, and when people trust you, point them to Him.",
     "lessonBn": "নিজের ঈমানকে নিজের কৃতিত্ব নয়, আল্লাহর অনুগ্রহ বলে জানুন। এর জন্য শোকর আদায় করুন, আর মানুষ যখন আপনাকে ভরসা করে, তাদের তাঁর দিকে দেখিয়ে দিন।"
+  },
+  "12:23": {
+    "reflectionEn": "He was a young man living in the house that had taken him in, under the authority of the woman who now asked him for herself. The doors were shut one after another, and her words were an open invitation. Nobody outside would ever have known. His first answer was not an argument but a plea for shelter: I seek refuge with Allah. Only after that did he give reasons: this household has treated me well, and those who do wrong do not succeed. His refusal was a choice made with every door closed and every excuse at hand. When I am alone and the way to wrong lies open, whose refuge do I reach for first, and whose trust do I remember?",
+    "reflectionBn": "তিনি তখন এক তরুণ। যে ঘর তাঁকে আশ্রয় দিয়েছিল, সে ঘরেই থাকেন, আর যে নারী এখন তাঁকে নিজের দিকে ডাকছে, তার কর্তৃত্বের অধীনে। একটার পর একটা দরজা বন্ধ হলো। মুখে খোলাখুলি আহ্বান। বাইরের কেউ কোনোদিন জানতেও পারত না। তাঁর প্রথম জবাব কোনো যুক্তি ছিল না, ছিল আশ্রয় চাওয়া: আমি আল্লাহর আশ্রয় চাই। যুক্তি এসেছে তার পরে: এই ঘর আমার সঙ্গে ভালো ব্যবহার করেছে, আর যালিমরা সফল হয় না। সব দরজা বন্ধ, সব অজুহাত হাতের কাছে, তবু তিনি না বলেছেন, আর সেটা ছিল তাঁর নিজের বেছে নেওয়া পথ। যখন আমি একা, আর অন্যায়ের পথ খোলা, তখন সবার আগে কার আশ্রয় খুঁজি? আর কার আমানতের কথা মনে রাখি?",
+    "pointsEn": [
+      "When temptation finds me alone, do I first ask Allah for refuge, or do I lean on my own willpower and hope it holds?",
+      "Whose kindness and trust would the wrong I am drawn to quietly betray?",
+      "What do I allow myself only because I think nobody will ever find out?",
+      "Where do I hold power over another person, and have I ever used it to push them toward something they should refuse?",
+      "Do I really believe that wrongdoing never succeeds, even when it looks easy, hidden and safe?"
+    ],
+    "pointsBn": [
+      "একা অবস্থায় প্রলোভন এলে আমি কি আগে আল্লাহর আশ্রয় চাই, নাকি নিজের মনের জোরের উপর ভর করে আশা করি, সামলে নিতে পারব?",
+      "যে অন্যায়ের দিকে মন টানছে, তা করলে কার দয়া আর কার আস্থার সঙ্গে নীরবে খেয়ানত হবে?",
+      "কোন কাজ আমি নিজেকে করতে দিই শুধু এই ভেবে যে কেউ কোনোদিন জানবে না?",
+      "কার উপর আমার ক্ষমতা আছে? সেই ক্ষমতা দিয়ে কখনো কি কাউকে এমন কিছুর দিকে ঠেলেছি, যা তার প্রত্যাখ্যান করা উচিত ছিল?",
+      "অন্যায় যখন সহজ, গোপন আর নিরাপদ মনে হয়, তখনও কি আমি সত্যিই বিশ্বাস করি যে যালিমরা সফল হয় না?"
+    ],
+    "lessonEn": "When wrong is made easy and no one would know, seek Allah's refuge first, remember the trust others have placed in you, and refuse it.",
+    "lessonBn": "অন্যায় যখন সহজ হয়ে সামনে আসে আর কেউ জানার উপায় নেই, তখন সবার আগে আল্লাহর আশ্রয় চান, অন্যের রাখা আস্থার কথা মনে রাখুন, আর তা ফিরিয়ে দিন।"
   }
 };
 

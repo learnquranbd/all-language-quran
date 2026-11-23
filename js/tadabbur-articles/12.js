@@ -1039,6 +1039,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "In the House That Kept Him",
+          "bn": "যে ঘরে তাঁর ঠাঁই হয়েছিল"
+        },
+        "p": [
+          {
+            "en": "Surah Yusuf has brought the boy from the well to a house in Egypt. In 12:21 the man who bought him told his wife, akrimi mathwahu, make his stay honourable, and in 12:22 Yusuf (AS) reached full strength and was given judgement and knowledge. Now the verse turns: wa-rawadathu allati huwa fi baytiha 'an nafsihi, and she in whose house he was sought him for himself. At-Tabari, Ibn Kathir, al-Baghawi and al-Qurtubi all identify her plainly as the wife of al-'Aziz.",
+            "bn": "সূরা ইউসুফ বালকটিকে কূপ থেকে তুলে এনে পৌঁছে দিয়েছে মিসরের এক ঘরে। ১২:২১ আয়াতে ক্রেতা তার স্ত্রীকে বলেছিল, আকরিমী মাসওয়াহু: তার থাকার জায়গাটা সম্মানজনক করো। ১২:২২ আয়াতে ইউসুফ (আঃ) পূর্ণ যৌবনে পৌঁছান, আল্লাহ তাঁকে বিচারবুদ্ধি ও জ্ঞান দান করেন। এবার আয়াতটি মোড় নেয়: ওয়া রাওয়াদাতহুল্লাতী হুওয়া ফী বাইতিহা আন নাফসিহী, আর যে নারীর ঘরে তিনি থাকতেন, সে তাঁকে নিজের দিকে ফুসলাতে চাইল। তাবারী, ইবন কাসীর, বাগাভী ও কুরতুবী সবাই সোজাসুজি বলেন, এই নারী আযীযের স্ত্রী।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notices the choice of words. The verse could have called her the wife of al-'Aziz; instead it says the woman in whose house he was. The hint, it explains, is that his effort to keep clear of sin was made harder because he lived in her very house, under her protection, so turning her away was no easy matter. As-Sa'di draws the same picture: he was her servant, under her management, in a single dwelling, where the thing could happen without anyone knowing.",
+            "bn": "শব্দ বাছাইয়ের দিকে মাআরিফুল কুরআন দৃষ্টি আকর্ষণ করে। আয়াতটি তাকে আযীযের স্ত্রী বলতে পারত। তা না বলে বলেছে, যার ঘরে তিনি থাকতেন। মাআরিফের ব্যাখ্যায় এর ইঙ্গিত হলো, গুনাহ থেকে বাঁচার চেষ্টা তাঁর জন্য আরও কঠিন হয়ে গিয়েছিল, কারণ তিনি থাকতেন এই নারীরই ঘরে, তারই আশ্রয়ে। তাকে ফিরিয়ে দেওয়া তাই সহজ ছিল না। সা'দীর বর্ণনাতেও একই ছবি: তিনি তার গোলাম, তার তত্ত্বাবধানে, একই ছাদের নিচে। সেখানে কেউ টের না পেয়েও কাজটা ঘটে যেতে পারত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked Softly, Locked Firmly",
+          "bn": "নরম ডাক, শক্ত খিল"
+        },
+        "p": [
+          {
+            "en": "Rawadathu is a verb of coaxing. Al-Qurtubi traces murawada to wanting and asking done with gentleness and ease, and links it to ruwaydan, walking slowly; al-Baghawi defines it simply as asking for the deed. The Muyassar keeps both sides in view: she called him to herself gently and softly, out of her intense love for him. Ibn Kathir says she loved him strongly for his beauty and grace, and that this led her to adorn herself for him.",
+            "bn": "রাওয়াদাতহু ক্রিয়াটিতে আছে ভুলিয়ে-ভালিয়ে রাজি করানোর অর্থ। কুরতুবী মুরাওয়াদার মূল খুঁজে পান চাওয়া ও অনুরোধে, যা করা হয় নরমভাবে, ধীরে সুস্থে। শব্দটিকে তিনি রুওয়াইদান, অর্থাৎ আস্তে হাঁটা, এর সঙ্গেও মেলান। বাগাভীর সংজ্ঞা আরও সাদামাটা: কাজটা করতে বলা। মুয়াসসার দুটো দিকই রাখে। তাঁর প্রতি তীব্র ভালোবাসা থেকে সে নরম সুরে, কোমলভাবে তাঁকে নিজের দিকে ডেকেছিল। ইবন কাসীর বলেন, তাঁর রূপ ও সৌন্দর্যের কারণে সে তাঁকে গভীরভাবে ভালোবেসে ফেলেছিল, আর সেই ভালোবাসাই তাকে তাঁর জন্য সাজগোজ করতে প্ররোচিত করে।"
+          },
+          {
+            "en": "Then wa-ghallaqat al-abwab, and she shut the doors. Al-Qurtubi notes that the doubled form ghallaqa is used for many, whereas aghlaqa covers few or many, so the verb itself speaks of more than one door. At-Tabari pictures her shutting the doors of the rooms upon herself and Yusuf, door after door. Al-Baghawi says there were seven; al-Qurtubi gives the same number under the words it is said. As-Sa'di adds that the place was now empty and the two of them safe from anyone coming in.",
+            "bn": "তারপর ওয়া গাল্লাকাতিল আবওয়াব: সে দরজাগুলো বন্ধ করে দিল। কুরতুবী লক্ষ করেন, গাল্লাকা রূপটি ব্যবহৃত হয় অনেকগুলোর বেলায়, আর আগলাকা চলে কম-বেশি দুই ক্ষেত্রেই। তাই ক্রিয়াটিই জানিয়ে দেয়, দরজা একটা ছিল না। তাবারীর ছবিতে সে নিজের ও ইউসুফের উপর ঘরগুলোর দরজা একটার পর একটা বন্ধ করে চলেছে। বাগাভী বলেন, দরজা ছিল সাতটি। কুরতুবীও একই সংখ্যা দেন, তবে 'বলা হয়' কথাটি জুড়ে দিয়ে। সা'দী যোগ করেন, জায়গাটা তখন ফাঁকা, কেউ ঢুকে পড়ার ভয় তাদের আর নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hayta Lak, in Several Voices",
+          "bn": "হাইতা লাকা, নানা কণ্ঠে"
+        },
+        "p": [
+          {
+            "en": "Then she said, hayta lak. At-Tabari, al-Qurtubi and al-Baghawi agree that the common reading, hayta with fatha on both the ha and the ta, means come here, come close. At-Tabari assigns it to the general readers of Kufa and Basra and cites a poet's line addressed to Ali ibn Abi Talib, fa-hayta hayta, meaning come and draw near. Through his chains, Ibn Abbas, Zirr ibn Hubaysh and al-Hasan gloss it as halumma laka, come on.",
+            "bn": "তারপর সে বলল, হাইতা লাকা। তাবারী, কুরতুবী ও বাগাভী একমত, প্রচলিত পাঠ হাইতা, হা ও তা দুটোতেই যবর, আর এর অর্থ: এদিকে এসো, কাছে এসো। তাবারী পাঠটিকে কুফা ও বসরার সাধারণ কারিদের বলে উল্লেখ করেন, আর প্রমাণ হিসেবে আনেন আলী ইবন আবী তালিব (রাঃ)-কে উদ্দেশ করে লেখা এক কবির পঙক্তি, ফাহাইতা হাইতা, মানে এসো, কাছে এসো। তাঁর সনদে ইবন আব্বাস (রাঃ), যির ইবন হুবাইশ ও হাসান এর অর্থ করেন হালুম্মা লাকা, চলে এসো।"
+          },
+          {
+            "en": "Other readings are reported. At-Tabari and al-Qurtubi give the Medinan readers hita, with kasra on the ha; al-Baghawi lists the Syrians with them, while al-Qurtubi gives Ibn Amir and the Syrians a hamzated hi'ta. Some Meccans read haytu. Early readers including Ibn Abbas and Abu Abd ar-Rahman as-Sulami read hi'tu laka, I have made myself ready for you. At-Tabari records that Abu Amr ibn al-Ala and al-Kisa'i rejected that reading; Abu Amr called it false and asked who among the Arabs, as far as Yemen, ever said it.",
+            "bn": "আরও কয়েকটি পাঠ বর্ণিত আছে। তাবারী ও কুরতুবী মদিনার কারিদের পাঠ বলেন হীতা, হা-তে যের দিয়ে। বাগাভী শামের লোকদেরও তাদের সঙ্গে রাখেন, অথচ কুরতুবী ইবন আমির ও শামবাসীর পাঠ দেন হামযাসহ হি'তা। মক্কার কিছু কারি পড়েছেন হাইতু। ইবন আব্বাস (রাঃ) ও আবু আবদুর রহমান সুলামীসহ আগের যুগের কয়েকজন কারি পড়েছেন হি'তু লাকা: আমি তোমার জন্য প্রস্তুত হয়েছি। তাবারী জানান, আবু আমর ইবনুল আলা ও কিসাঈ এই পাঠ মানেননি। আবু আমর একে বাতিল বলেছেন। তাঁর প্রশ্ন ছিল, ইয়েমেন পর্যন্ত আরবদের মধ্যে কে কবে এভাবে বলেছে?"
+          },
+          {
+            "en": "Where did the word come from? The early authorities differ, and the commentators keep the difference. Mujahid said it is Arabic. Ikrimah said it was Hawrani; Ibn Kathir notes that al-Bukhari cites this from him without a chain, while at-Tabari gives it one. As-Suddi said Coptic, and al-Hasan, in a single report, Syriac. Al-Kisa'i held it was the speech of Hawran that had reached the Hijaz, and Ibn Kathir and al-Qurtubi relay from Abu Ubayd that a learned elder of Hawran knew it as his people's word.",
+            "bn": "শব্দটি এল কোথা থেকে? আগের যুগের আলেমরা এখানে ভিন্নমত পোষণ করেছেন, আর তাফসীরকারেরা সেই মতভেদ ধরে রেখেছেন। মুজাহিদের মতে এটি আরবি শব্দ। ইকরিমার মতে হাওরানের ভাষা। ইবন কাসীর জানান, বুখারী ইকরিমার এ কথা সনদ ছাড়া উল্লেখ করেছেন, আর তাবারী তা এনেছেন সনদসহ। সুদ্দীর মতে শব্দটি কিবতি, আর একটি বর্ণনায় হাসানের মতে সুরইয়ানি। কিসাঈর মত, এটি হাওরানের ভাষা, যা হিজাযে এসে পৌঁছেছিল। ইবন কাসীর ও কুরতুবী আবু উবাইদের সূত্রে জানান, হাওরানের এক বিজ্ঞ প্রবীণ শব্দটিকে নিজের লোকদের ভাষা বলে চিনেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recite It as You Were Taught",
+          "bn": "যেভাবে শিখেছেন, সেভাবে পড়ুন"
+        },
+        "p": [
+          {
+            "en": "This one word drew out one of the clearest early statements on recitation. Al-Bukhari records it in the commentary chapters of his Sahih: Abu Wa'il narrated that Abdullah ibn Mas'ud recited \"Haita laka (Come you),\" and added, \"We recite it as we were taught it.\" In the longer form at-Tabari relays through Abd ar-Razzaq, Ibn Mas'ud says he had listened to the reciters and found them close to one another: recite as you were taught, and beware of hair-splitting and quarrelling, for it is like saying halumma or ta'al.",
+            "bn": "এই একটি শব্দ থেকেই বেরিয়ে এসেছে কিরাআত নিয়ে প্রথম যুগের সবচেয়ে পরিষ্কার এক উক্তি। বুখারী তাঁর সহীহ গ্রন্থের তাফসীর অধ্যায়ে এনেছেন: আবু ওয়াইল বর্ণনা করেন, আবদুল্লাহ ইবন মাসউদ (রাঃ) পড়লেন \"হাইতা লাকা (এসো তুমি)\", আর বললেন, \"আমাদের যেভাবে শেখানো হয়েছে, আমরা সেভাবেই পড়ি।\" তাবারী আবদুর রাযযাকের সূত্রে এর দীর্ঘ রূপটি আনেন। সেখানে ইবন মাসউদ (রাঃ) বলেন, তিনি কারিদের পাঠ শুনেছেন, সবগুলো কাছাকাছি। তাই যেভাবে শিখেছ সেভাবে পড়ো, চুলচেরা বাড়াবাড়ি আর বিবাদ থেকে দূরে থাকো। এ তো 'হালুম্মা' বলা আর 'তাআল' বলার মতোই।"
+          },
+          {
+            "en": "When he was told that some people read it haytu, he answered, in at-Tabari's report, that he would rather read it as he had been taught. At-Tabari himself prefers hayta, because it is the form the Arabs know. The point is less which vowel wins than how the difference is held: Ibn Mas'ud treats the accepted readings as close kin, two ways of saying come here, and asks for faithfulness to what was received instead of quarrelling.",
+            "bn": "তাঁকে যখন বলা হলো, কেউ কেউ পড়ে হাইতু, তাবারীর বর্ণনায় তিনি জবাব দেন, যেভাবে শিখেছেন সেভাবে পড়াটাই তাঁর কাছে বেশি প্রিয়। তাবারী নিজে হাইতা পাঠকে অগ্রাধিকার দেন, কারণ আরবরা এ রূপটিই চেনে। আসল কথা কোন স্বরচিহ্ন জিতল তা নয়, মতভেদটা কীভাবে সামলানো হলো সেটা। ইবন মাসউদ (রাঃ) স্বীকৃত পাঠগুলোকে দেখেন নিকটাত্মীয়ের মতো, 'এদিকে এসো' বলার দুটি ধরন হিসেবে। তিনি চান, যা পাওয়া গেছে তার প্রতি বিশ্বস্ততা, ঝগড়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Refuge Before Any Reason",
+          "bn": "যুক্তির আগে আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "Yusuf (AS) answered, qala ma'adha Allah. Al-Qurtubi explains ma'adh as a verbal noun standing in for a dropped verb: I seek refuge with Allah, the noun doing the work of the verb. At-Tabari paraphrases: I hold fast to Allah against what you call me to, and ask Him to protect me from it. Al-Baghawi and the Muyassar say much the same. The reply opens with Allah's name before it mentions any human claim.",
+            "bn": "ইউসুফ (আঃ) জবাব দিলেন, কালা মাআযাল্লাহ। কুরতুবী বুঝিয়ে বলেন, মাআয এখানে মাসদার, তার ক্রিয়াটি উহ্য: আমি আল্লাহর আশ্রয় চাই। বিশেষ্যটিই এখানে ক্রিয়ার কাজ করছে। তাবারী অর্থটা এভাবে খুলে বলেন: তুমি আমাকে যেদিকে ডাকছ, তার বিপরীতে আমি আল্লাহকে আঁকড়ে ধরছি, তাঁর কাছেই এ থেকে বাঁচার আশ্রয় চাইছি। বাগাভী আর মুয়াসসারও প্রায় একই কথা বলেন। কোনো মানুষের হকের কথা ওঠার আগেই জবাবটা শুরু হয় আল্লাহর নাম দিয়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an calls this the strongest defence against sin. Surrounded on every side, it says, he did not rest his whole trust on his own determination and resolve to hold out; he sought the refuge of Allah first, and only after that turned to her with wisdom and earnest counsel. The order is itself the lesson: the plea for shelter comes before the reasoning, not after the reasoning has failed.",
+            "bn": "মাআরিফুল কুরআন একে বলে গুনাহর বিরুদ্ধে সবচেয়ে মজবুত ঢাল। চারদিক থেকে ঘেরাও হয়েও তিনি পুরো ভরসা নিজের দৃঢ়তা আর টিকে থাকার সংকল্পের উপর রাখেননি। আগে চেয়েছেন আল্লাহর আশ্রয়, তারপর প্রজ্ঞা আর আন্তরিক নসিহত নিয়ে তার দিকে ফিরেছেন। এই ক্রমটাই শিক্ষা। আশ্রয় চাওয়া আসে যুক্তির আগে, যুক্তি ব্যর্থ হওয়ার পরে নয়।"
+          },
+          {
+            "en": "Some commentators add a conversation from inside the room. Al-Qurtubi gives it as in the report, and Ma'arif names as-Suddi, Ibn Ishaq and others: she praised his face, his hair and his eyes, and he turned each compliment toward the grave or toward his Lord. No chain is given and the versions differ, so it is best held lightly. Ma'arif draws only this from it: concern for the Hereafter, set in him in his youth, turned the charms of this life to dust.",
+            "bn": "কোনো কোনো তাফসীরকার ঘরের ভেতরের একটি কথোপকথনও আনেন। কুরতুবী একে আনেন 'বর্ণনায় আছে' বলে, আর মাআরিফ সুদ্দী, ইবন ইসহাক ও অন্যদের নাম নেয়। সে তাঁর চেহারা, চুল আর চোখের প্রশংসা করছিল, আর তিনি প্রতিটি প্রশংসাকে ঘুরিয়ে দিচ্ছিলেন কবরের দিকে, নয়তো নিজের রবের দিকে। এর কোনো সনদ দেওয়া হয়নি, বিবরণগুলোও আলাদা। তাই একে হালকাভাবেই ধরা ভালো। মাআরিফ এ থেকে শুধু এটুকু নেয়: যৌবনেই তাঁর মনে বসানো আখিরাতের চিন্তা দুনিয়ার সব আকর্ষণকে তাঁর চোখে ধুলো করে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Master of the House, or Lord?",
+          "bn": "গৃহকর্তা, নাকি রব?"
+        },
+        "p": [
+          {
+            "en": "Then innahu rabbi ahsana mathwaya. To whom does the pronoun point? Most of the commentators fetched read it as the husband. At-Tabari: your companion and husband is my master. Mujahid and as-Suddi gloss rabbi as sayyidi, my master, and Ibn Ishaq, through at-Tabari, names the husband Itfir; al-Baghawi spells it Qitfir and calls this the view of most commentators. Ibn Kathir explains that people then used rabb for a master and a senior man: he has made good my stay, so I will not repay him with indecency in his household.",
+            "bn": "তারপর ইন্নাহূ রাব্বী আহসানা মাসওয়ায়। সর্বনামটি কার দিকে ফেরে? যেসব তাফসীর দেখা হয়েছে, তার বেশিরভাগই একে স্বামীর দিকে ফেরান। তাবারীর ভাষায়: তোমার সঙ্গী, তোমার স্বামী, আমার মনিব। মুজাহিদ ও সুদ্দী রাব্বীর অর্থ করেন সাইয়িদী, আমার মনিব। তাবারীর সূত্রে ইবন ইসহাক স্বামীর নাম বলেন ইতফীর, আর বাগাভী লেখেন কিতফীর এবং একে বলেন অধিকাংশ মুফাসসিরের মত। ইবন কাসীর ব্যাখ্যা করেন, তখনকার লোকেরা মনিব ও মুরব্বিকে রব বলত। অর্থাৎ তিনি আমার থাকার জায়গা উত্তম করেছেন, আমি তাঁর পরিবারে অশ্লীলতা দিয়ে তাঁর প্রতিদান দেব না।"
+          },
+          {
+            "en": "Others take the pronoun back to Allah. Al-Baghawi reports it under it is said: Allah is my Lord, who gave me shelter and kept me safe from the ordeal of the well. Al-Qurtubi relays az-Zajjaj: Allah is my Lord, who took me into His kindness, so I will not commit what He has forbidden. Ma'arif al-Qur'an mentions both and allows either. The word mathwa also looks back to 12:21, where the husband had told his wife, akrimi mathwahu, honour his stay.",
+            "bn": "অন্যরা সর্বনামটিকে আল্লাহর দিকে ফেরান। বাগাভী এ মত আনেন 'বলা হয়' দিয়ে: আল্লাহ আমার রব, যিনি আমাকে আশ্রয় দিয়েছেন, কূপের বিপদ থেকে নিরাপদ রেখেছেন। কুরতুবী যাজ্জাজের কথা আনেন: আল্লাহ আমার রব, যিনি তাঁর অনুগ্রহে আমার দেখভাল করেছেন, তাই তিনি যা হারাম করেছেন তা আমি করব না। মাআরিফুল কুরআন দুটো মতই উল্লেখ করে, দুটোকেই সম্ভব বলে। মাসওয়া শব্দটি আবার ১২:২১ আয়াতের দিকেও ফিরে তাকায়, যেখানে স্বামী তার স্ত্রীকে বলেছিল, আকরিমী মাসওয়াহু, তার থাকার জায়গা সম্মানজনক করো।"
+          },
+          {
+            "en": "Ma'arif adds a note on the word itself. Calling a human master rabb was correct in its place for Yusuf (AS), it says; the Shari'ah of Islam later closed even the words that might open a path to shirk. A general narration, not attached to this verse, carries that ruling. Al-Bukhari records from Abu Hurayra that the Prophet ﷺ said: None of you should say, feed your lord, help your lord with ablution, give your lord water; let him say, my master, my patron. And none of you should say, my slave, my slave-girl; let him say, my lad, my lass, my boy.",
+            "bn": "মাআরিফ শব্দটি নিয়েও একটি টীকা যোগ করে। তার কথায়, মানুষ মনিবকে রব বলা ইউসুফ (আঃ)-এর বেলায় যথাস্থানে সঠিক ছিল। ইসলামের শরিয়ত পরে এমন শব্দের দরজাও বন্ধ করে দিয়েছে, যা শিরকের পথ খুলে দিতে পারে। সেই বিধান বহন করে একটি সাধারণ হাদীস, যা এ আয়াতের সঙ্গে যুক্ত নয়। বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: তোমাদের কেউ যেন না বলে, তোমার রবকে খাওয়াও, তোমার রবকে অজু করাও, তোমার রবকে পানি দাও। বরং বলুক, আমার সাইয়িদ, আমার মাওলা। আর কেউ যেন না বলে, আমার আবদ, আমার আমাহ। বরং বলুক, আমার যুবক, আমার যুবতী, আমার ছেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wrong That Never Prospers",
+          "bn": "যে অন্যায় সফল হয় না"
+        },
+        "p": [
+          {
+            "en": "He closes with innahu la yuflihu az-zalimun, wrongdoers do not prosper. At-Tabari explains that whoever does wrong, doing what is not his to do, neither endures nor succeeds, and that what she called him to was wrong and a betrayal of the master who had trusted him with his home. Ibn Ishaq, in at-Tabari's report, glosses it: this that you call me to is wrong, and whoever does it does not prosper. Al-Baghawi adds, under it is said: those who commit zina find no happiness.",
+            "bn": "শেষ কথা: ইন্নাহূ লা ইউফলিহুয যালিমূন, যালিমরা সফল হয় না। তাবারীর ব্যাখ্যায়, যে যুলুম করে, যা করার অধিকার তার নেই তা-ই করে বসে, সে টিকে থাকে না, সফলও হয় না। আর সে তাঁকে যেদিকে ডাকছিল, তা ছিল যুলুম, সেই মনিবের সঙ্গে খেয়ানত, যিনি তাঁর ঘরের ভার তাঁর উপর ছেড়ে দিয়েছিলেন। তাবারীর বর্ণনায় ইবন ইসহাক এর ব্যাখ্যা দেন: তুমি আমাকে যেদিকে ডাকছ, তা যুলুম, আর যে তা করে সে সফল হয় না। বাগাভী 'বলা হয়' দিয়ে যোগ করেন: যিনাকারীরা সৌভাগ্য পায় না।"
+          },
+          {
+            "en": "As-Sa'di gathers the verse into the barriers that held him back: fear of Allah, regard for the right of the master who had honoured him, and guarding himself from a wrong by which no one prospers. Ma'arif hears counsel to her in the same words. If he, in that house for only a short while, knew the husband's rights over him, then she, his wife of many years, should know her husband's rights over her far better.",
+            "bn": "সা'দী আয়াতটিকে গুছিয়ে আনেন কয়েকটি বাধার কথায়, যা তাঁকে আটকে রেখেছিল: আল্লাহর তাকওয়া, যে মনিব তাঁকে সম্মান দিয়েছেন তাঁর হকের খেয়াল, আর এমন যুলুম থেকে নিজেকে রক্ষা করা, যা করে কেউ সফল হয় না। মাআরিফ একই কথার ভেতরে মহিলার জন্যও নসিহত শুনতে পায়। অল্প কিছুদিন ওই ঘরে থেকেই তিনি যদি নিজের উপর স্বামীর হক বুঝে থাকেন, তবে বহু বছরের স্ত্রী হিসেবে তার উপর স্বামীর হক তো সে আরও ভালো বোঝার কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience Nobody Forced on Him",
+          "bn": "যে সবর কেউ চাপিয়ে দেয়নি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di opens his comment on this verse with a comparison. This trial, he says, was greater for Yusuf (AS) than the trial of his brothers, and his patience in it carries a greater reward, because it was the patience of choice, held while many motives pressed toward the deed. What his brothers did to him called only for the patience of compulsion, like the illnesses and hardships that strike a servant without his choosing, where there is no refuge but to endure them, willing or unwilling.",
+            "bn": "সা'দী এ আয়াতের আলোচনা শুরু করেন একটি তুলনা দিয়ে। তাঁর মতে, ইউসুফ (আঃ)-এর জন্য এই পরীক্ষা ভাইদের দেওয়া পরীক্ষার চেয়েও বড় ছিল, আর এতে তাঁর সবরের প্রতিদানও বড়। কারণ এ সবর ছিল ইচ্ছায় বেছে নেওয়া সবর, যখন কাজটির দিকে টানার মতো বহু কারণ হাজির। ভাইদের হাতে যা ঘটেছিল, তাতে ছিল নিরুপায় সবর। যেমন রোগব্যাধি আর বিপদ, যা বান্দার ইচ্ছা ছাড়াই আসে। তখন সবর করা ছাড়া কোনো আশ্রয় থাকে না, মন চাক বা না চাক।"
+          },
+          {
+            "en": "As-Sa'di then lists what made the choice hard. He was a stranger, far from his homeland and from the people whose eyes might have held him back; he was a captive under her hand, and she was his mistress; and he was a young, unmarried man. Against all of it he put the love of Allah first. Avoiding a wrong that is out of reach takes little strength; avoiding it when it is easy, hidden and invited is what this verse holds up.",
+            "bn": "এরপর সা'দী গুনে দেখান, বেছে নেওয়াটা কেন কঠিন ছিল। তিনি ছিলেন পরদেশি, নিজের দেশ আর চেনা মানুষদের থেকে দূরে, যাদের চোখের লজ্জা হয়তো তাঁকে আটকে রাখত। তিনি ছিলেন তার হাতে বন্দি, আর সে ছিল তাঁর মনিবপত্নী। তিনি ছিলেন অবিবাহিত তরুণ। এত কিছুর বিপরীতে তিনি আল্লাহর ভালোবাসাকেই আগে রেখেছেন। যে অন্যায় নাগালের বাইরে, তা থেকে বাঁচতে তেমন জোর লাগে না। কিন্তু অন্যায় যখন সহজ, গোপন, আর ডেকে আনা হচ্ছে, তখন তা থেকে সরে আসা, এ আয়াত সেটাকেই সামনে তুলে ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What This Verse Leaves Aside",
+          "bn": "এ আয়াত যা পাশে রেখে দেয়"
+        },
+        "p": [
+          {
+            "en": "Three things need saying plainly. The verse describes what one woman did in one household in one story; it licenses nothing against women as a class, and nothing against any living person or community. The Qur'an does not name her; Ma'arif al-Qur'an calls her Zulaikha, a name carried by reports, not by the verse. And what passed next, the two clauses of hamm in 12:24 and the proof of his Lord, is a long discussion of its own, which this article leaves to that verse.",
+            "bn": "তিনটি কথা সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনিতে এক ঘরের একজন নারীর কাজের বর্ণনা দেয়। নারীদের গোটা জাতের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না, আর আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধেও নয়। কুরআন তার নাম বলেনি। মাআরিফুল কুরআন তাকে যুলাইখা বলে, তবে এ নাম এসেছে বর্ণনা থেকে, আয়াত থেকে নয়। আর এরপর যা ঘটেছিল, ১২:২৪ আয়াতের হাম্ম-এর দুই বাক্যাংশ আর রবের প্রমাণ, তা নিজেই এক দীর্ঘ আলোচনা। এ লেখা সেটা ওই আয়াতের জন্যই রেখে দেয়।"
+          },
+          {
+            "en": "What remains in 12:23 is enough. A young man, alone, with every door shut and every pressure arranged around him, answers first with Allah's name, then with loyalty to the man who had housed him, then with a verdict on wrongdoing itself. Refuge, faithfulness, and a clear sight of where wrong leads: in that order he refuses the call, and in that order the verse offers them to anyone who finds the doors closing around them and no one watching.",
+            "bn": "১২:২৩ আয়াতে যা থাকে, সেটুকুই যথেষ্ট। এক তরুণ একা, সব দরজা বন্ধ, সব চাপ তাঁকে ঘিরে সাজানো। তিনি প্রথমে জবাব দেন আল্লাহর নাম নিয়ে, তারপর যিনি তাঁকে ঘরে ঠাঁই দিয়েছেন তাঁর প্রতি বিশ্বস্ততা দিয়ে, তারপর খোদ যুলুমের পরিণতির রায় দিয়ে। আশ্রয়, বিশ্বস্ততা, আর অন্যায় কোথায় নিয়ে যায় তার পরিষ্কার দৃষ্টি। এই ক্রমেই তিনি ডাক ফিরিয়ে দেন। আর যার চারপাশে দরজা বন্ধ হয়ে আসছে, দেখার কেউ নেই, এ আয়াত তাকে এই তিনটি জিনিস দেয় ঠিক এই ক্রমে।"
+          }
+        ]
+      }
+    ]
+  },
   "12:25": {
     "sections": [
       {
