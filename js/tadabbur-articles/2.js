@@ -9879,6 +9879,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:236": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Marriage Ended at the Threshold",
+          "bn": "দোরগোড়ায় থেমে যাওয়া বিয়ে"
+        },
+        "p": [
+          {
+            "en": "Just before, 2:234 and 2:235 dealt with the widow's waiting term and the hinted proposal she may receive during it. Now the surah turns to a marriage that ends almost as soon as it is made. Al-Qurtubi counts four kinds of divorced women: the first consummated with a dower named, the second with neither, the third with a dower named but no consummation, the fourth consummated without a dower named. This verse, he says, is about the second. The next verse, 2:237, takes up the third.",
+            "bn": "ঠিক আগে ২:২৩৪ ও ২:২৩৫ আয়াতে এসেছে বিধবার ইদ্দত, আর ইদ্দত চলাকালে তাকে ইশারায় বিয়ের প্রস্তাব দেওয়ার কথা। এবার সূরা ফিরে তাকায় এমন এক বিয়ের দিকে, যা হতে না হতেই ভেঙে যায়। কুরতুবী তালাকপ্রাপ্তা নারীদের চারটি ভাগে ভাগ করেন। প্রথমজনের বিয়েতে মহর ধার্য হয়েছে এবং মিলনও হয়েছে। দ্বিতীয়জনের বেলায় দুটোর কোনোটিই হয়নি। তৃতীয়জনের মহর ধার্য হয়েছে, কিন্তু মিলন হয়নি। চতুর্থজনের মিলন হয়েছে, কিন্তু মহর ধার্য হয়নি। তাঁর মতে এ আয়াত দ্বিতীয়জনকে নিয়ে। তৃতীয়জনের কথা আসে পরের আয়াত ২:২৩৭-এ।"
+          },
+          {
+            "en": "The word that carries the verse comes from its command, wa-matti'uhunna: give them provision. The gift it names is the mut'ah of divorce, something a man gives a woman when he divorces her, and here the word means nothing else; it has no connection with the temporary marriage that is sometimes called by the same name. Al-Baghawi, and al-Qurtubi citing ath-Tha'labi, relay a report that the verse came down about a man of the Ansar who did exactly this, together with words attributed to the Prophet ﷺ. Neither gives a chain or a grading, so this article builds nothing on it.",
+            "bn": "আয়াতের মূল শব্দটি এসেছে তার আদেশ থেকে: ওয়া মাত্তিঊহুন্না, তাদের কিছু সামগ্রী দাও। এখানে যে উপহারের কথা, তার নাম তালাকের মুত'আ। তালাক দেওয়ার সময় স্বামী স্ত্রীকে যা দেয়, শব্দটি এখানে কেবল সেটাই বোঝায়। একই নামে যে সাময়িক বিয়ের কথা কখনো শোনা যায়, তার সঙ্গে এর কোনো সম্পর্ক নেই। বাগাভী, আর সা'লাবীর বরাতে কুরতুবী, একটি বর্ণনা আনেন যে আয়াতটি এক আনসারী ব্যক্তিকে নিয়ে নাযিল হয়েছিল, যিনি ঠিক এ কাজটিই করেছিলেন। সঙ্গে নবী ﷺ-এর নামে কিছু কথাও আছে। কিন্তু তাঁরা কেউ সনদ বা মান উল্লেখ করেননি, তাই এ লেখায় সে বর্ণনার উপর কিছু দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Was the Blame?",
+          "bn": "গুনাহটা ছিল কোথায়?"
+        },
+        "p": [
+          {
+            "en": "La junaha 'alaykum: there is no blame upon you. At-Tabari glosses junah as haraj, a fault or a constraint. But why would anyone suppose there was blame in such a divorce? Al-Qurtubi answers from the purpose of marriage. It is meant for chastity, for the reward of Allah and for lasting companionship, not for passing desire, so believers feared that a man who divorced before consummation had come near to something disliked. The verse lifted that fear, he says, provided the marriage had been entered with a good aim.",
+            "bn": "লা জুনাহা আলাইকুম: তোমাদের কোনো গুনাহ নেই। তাবারী জুনাহের অর্থ করেন হারাজ, অর্থাৎ দোষ বা সংকীর্ণতা। কিন্তু এমন তালাকে দোষ আছে, এ কথা কেউ ভাববে কেন? কুরতুবী উত্তর দেন বিয়ের উদ্দেশ্য থেকে। বিয়ে হয় চরিত্র রক্ষা, আল্লাহর সওয়াব আর স্থায়ী সঙ্গের জন্য, ক্ষণিকের বাসনা মেটাতে নয়। তাই মুমিনদের মনে আশঙ্কা জেগেছিল, মিলনের আগেই যে তালাক দিল, সে হয়তো অপছন্দনীয় কিছুর কাছাকাছি চলে গেছে। কুরতুবী বলেন, বিয়ের নিয়ত ভালো থাকলে আয়াত সেই আশঙ্কা দূর করে দিয়েছে।"
+          },
+          {
+            "en": "At-Tabari answers by pointing to divorce taken lightly; one report he brings is in Ibn Majah (2017), who gives it no grading. It is a general narration, not about this verse: \"What is wrong with people who play with the limits imposed by Allah, and one of them says: 'I divorce you, I take you back, I divorce you?'\" Al-Baghawi and at-Tabari add two readings: the lifted blame may mean that no claim to a dower or maintenance can be pressed, or that such a wife may be divorced at any time, even during her period, since she has no waiting term.",
+            "bn": "তাবারী জবাবে হালকাভাবে তালাক দেওয়ার প্রসঙ্গ টানেন। তাঁর আনা একটি বর্ণনা ইবন মাজাহতে (২০১৭) আছে, আর ইবন মাজাহ এর কোনো মান উল্লেখ করেননি। বর্ণনাটি সাধারণ, এ আয়াত সম্পর্কে নয়: \"লোকদের কী হলো যে তারা আল্লাহর নির্ধারিত সীমা নিয়ে খেলা করে? তাদের একজন বলে, তোমাকে তালাক দিলাম, তোমাকে ফিরিয়ে নিলাম, তোমাকে তালাক দিলাম!\" বাগাভী ও তাবারীতে আরও দুটি ব্যাখ্যা পাওয়া যায়। একটি হলো, এ অবস্থায় স্ত্রী মহর বা খোরপোশের দাবি তুলতে পারবে না। অন্যটি হলো, এমন স্ত্রীকে যেকোনো সময় তালাক দেওয়া যায়, এমনকি ঋতুকালেও, কারণ তার কোনো ইদ্দত নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Touching, and a Sum Named",
+          "bn": "স্পর্শ আর নির্ধারিত অঙ্ক"
+        },
+        "p": [
+          {
+            "en": "Ma lam tamassuhunna: as long as you have not touched them. At-Tabari reports Ibn Abbas (RA): touching here is intercourse, but Allah alludes to what He wills by what He wills. Hamza and al-Kisa'i read the verb as tumassuhunna, a form for an act shared by both; the others read tamassuhunna. At-Tabari holds both readings sound and their ruling the same. Faridah is the dower, Ibn Abbas (RA) says, and at-Tabari traces the root f-r-d to what is made binding. Al-Qurtubi adds that a marriage contracted without naming a dower is valid.",
+            "bn": "মা লাম তামাসসূহুন্না: যতক্ষণ তোমরা তাদের স্পর্শ করোনি। তাবারী ইবন আব্বাস (রাঃ)-এর কথা আনেন: এখানে স্পর্শ মানে সহবাস, তবে আল্লাহ যা চান, যে শব্দে চান, ইঙ্গিতে বলেন। হামযা ও কিসাঈ ক্রিয়াটি পড়েন তুমাসসূহুন্না, যা দুজনের যৌথ কাজ বোঝায়। বাকিরা পড়েন তামাসসূহুন্না। তাবারীর মতে দুই কিরাআতই সঠিক, বিধানও এক। ইবন আব্বাস (রাঃ) বলেন, ফারীদা মানে মহর। তাবারী দেখান, ফ-র-দ ধাতুর মূল অর্থ যা অবশ্যপালনীয় করা হয়। কুরতুবী যোগ করেন, মহরের উল্লেখ ছাড়া বিয়ের আকদ হলেও তা বৈধ।"
+          },
+          {
+            "en": "Then a small word divides them: aw tafridu, or you have named. Al-Qurtubi takes aw here to mean and. The woman in view has been neither touched nor given a named dower, and he points to 2:237, which treats the named case separately; had this verse already covered it, the next would only repeat it. At-Tabari reads the phrase as two kinds of women: one divorced untouched with a dower named, and one divorced before any dower was named. The command to give a gift, in his reading, then reaches both of them.",
+            "bn": "এরপর একটি ছোট শব্দ তাঁদের আলাদা করে দেয়: আও তাফরিদূ, অথবা তোমরা ধার্য করেছ। কুরতুবীর মতে এখানে আও মানে এবং। অর্থাৎ যে নারীর কথা হচ্ছে, তাকে স্পর্শও করা হয়নি, তার মহরও ধার্য হয়নি। প্রমাণ হিসেবে তিনি ২:২৩৭ দেখান, যেখানে মহর ধার্য হওয়া নারীর কথা আলাদা করে এসেছে। এ আয়াতেই যদি সে থাকত, তবে পরের আয়াত শুধু একই কথা দ্বিতীয়বার বলত। তাবারী বাক্যাংশটিকে দুই শ্রেণির নারী হিসেবে পড়েন। একজনকে স্পর্শের আগে তালাক দেওয়া হয়েছে, অথচ মহর ধার্য ছিল। আরেকজনকে তালাক দেওয়া হয়েছে মহর ধার্য হওয়ার আগেই। তাঁর পাঠে উপহারের আদেশ দুজনের জন্যই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owed, or Only Urged?",
+          "bn": "পাওনা, নাকি শুধু উৎসাহ?"
+        },
+        "p": [
+          {
+            "en": "Is the gift a debt or a recommendation? Al-Qurtubi sets the disagreement out with names. Ali ibn Abi Talib, al-Hasan al-Basri, Sa'id ibn Jubayr, az-Zuhri, Qatadah and ad-Dahhak read the command as binding; Abu 'Ubayd, Malik ibn Anas and his companions, and the judge Shurayh read it as recommendation. For this woman in particular, divorced untouched and with no dower named, he lists Ibn Abbas, Ibn Umar, Ata, ash-Shafi'i, Ahmad, Ishaq and the jurists he calls ashab al-ra'y as holding the gift obligatory. Malik and his companions hold it recommended for every divorced woman.",
+            "bn": "উপহারটি কি ঋণের মতো পাওনা, নাকি শুধু উৎসাহ? কুরতুবী নাম ধরে মতভেদটা তুলে ধরেন। আলী ইবন আবী তালিব (রাঃ), হাসান বসরী, সাঈদ ইবন জুবাইর, যুহরী, কাতাদা ও দাহহাক আদেশটিকে বাধ্যতামূলক ধরেন। আবু উবাইদ, মালিক ইবন আনাস ও তাঁর অনুসারীরা এবং কাযী শুরাইহ একে মুস্তাহাব বলেন। বিশেষ করে এই নারীর ব্যাপারে, যাকে স্পর্শ ছাড়া এবং মহর ধার্য ছাড়া তালাক দেওয়া হয়েছে, কুরতুবী একটি তালিকা দেন। ইবন আব্বাস ও ইবন উমর (রাঃ), আতা, শাফিঈ, আহমাদ, ইসহাক এবং যাঁদের তিনি আসহাবুর রায় বলেন, তাঁরা সবাই এখানে উপহার ওয়াজিব মনে করেন। মালিক ও তাঁর অনুসারীদের মতে প্রত্যেক তালাকপ্রাপ্তার জন্যই তা মুস্তাহাব।"
+          },
+          {
+            "en": "The first side holds to the plain imperative, give them. The second points to the verse's close, haqqan 'ala al-muhsinin, a duty upon the doers of good: had the gift been binding, they argue, it would have been laid on everyone. Al-Qurtubi prefers obligation and answers that no one may say he is not a muhsin, since all are commanded to be one. At-Tabari gives the same answer: what is due from people of goodness is all the more due from others. He goes furthest: the gift is a debt like her dower, and a husband who refuses it may be detained for it.",
+            "bn": "প্রথম পক্ষ আদেশসূচক শব্দটি আঁকড়ে ধরেন: তাদের দাও। দ্বিতীয় পক্ষ দেখান আয়াতের শেষাংশ, হাক্কান আলাল মুহসিনীন, সৎকর্মশীলদের উপর দায়িত্ব। তাঁদের যুক্তি, বাধ্যতামূলক হলে দায়টা সবার উপর দেওয়া হতো, শুধু সৎকর্মশীলদের উপর নয়। কুরতুবী ওয়াজিব হওয়ার মতটিকে অগ্রাধিকার দেন। তাঁর জবাব, কেউ বলতে পারে না যে সে মুহসিন নয়, কারণ সবাইকেই মুহসিন হতে বলা হয়েছে। তাবারীর জবাবও একই: সৎকর্মশীলদের উপর যা পাওনা, অন্যদের উপর তা আরও বেশি পাওনা। তিনি সবচেয়ে দূর পর্যন্ত যান। তাঁর মতে এ উপহার মহরের মতোই ঋণ, আর যে স্বামী তা দিতে অস্বীকার করে, তাকে এজন্য আটক রাখা যায়।"
+          },
+          {
+            "en": "Shurayh, when a woman married and divorced after consummation took her husband to him over the gift, told the man not to refuse to be among the doers of good and the God-fearing, and did not compel him. Ibn Kathir relays ash-Sha'bi's oath that he had never seen anyone detained over it, and that judges would have done so were it obligatory. Az-Zuhri divides the two verses: a ruler enforces the gift here, while that of 2:241 is left between a man and his Lord. Al-Baghawi calls the gift in this case obligatory by agreement; al-Qurtubi records Malik's school otherwise.",
+            "bn": "মিলনের পর তালাকপ্রাপ্তা এক নারী স্বামীকে নিয়ে কাযী শুরাইহের কাছে এই উপহারের দাবি নিয়ে গেলে তিনি লোকটিকে বললেন, সৎকর্মশীল ও মুত্তাকীদের দলে থাকতে অস্বীকার করো না। কিন্তু তাকে বাধ্য করেননি। ইবন কাসীর শা'বীর শপথ উদ্ধৃত করেন: এজন্য কাউকে আটক হতে তিনি কখনো দেখেননি, আর ওয়াজিব হলে কাযীরা অবশ্যই আটক করতেন। যুহরী দুই আয়াতকে আলাদা করেন। এখানকার উপহার শাসক আদায় করে দেবেন, আর ২:২৪১-এর উপহার মানুষ ও তার রবের মাঝের বিষয়। বাগাভী বলেন, এই ক্ষেত্রে উপহার সর্বসম্মতভাবে ওয়াজিব। কুরতুবী অবশ্য মালিকী মাযহাবের ভিন্ন মত লিপিবদ্ধ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measured by His Means",
+          "bn": "স্বামীর সামর্থ্যে মাপা"
+        },
+        "p": [
+          {
+            "en": "'Ala al-musi'i qadaruhu wa-'ala al-muqtiri qadaruhu: upon the man of ample means his measure, and upon the man in straits his. At-Tabari defines the musi' as one whose living has come to ease and wealth, and the muqtir as one with little. The word is read both qadar and qadr, and at-Tabari, al-Qurtubi and al-Baghawi agree the two carry one meaning. Al-Qurtubi reports Malik saying the gift has no known limit, small or large, and calls this what the Qur'an itself requires, since Allah set no figure. As-Sa'di says the measure returns to custom and changes with circumstance.",
+            "bn": "আলাল মূসিই কাদারুহু ওয়া আলাল মুকতিরি কাদারুহু: সচ্ছলের উপর তার সাধ্যমতো, অসচ্ছলের উপর তার সাধ্যমতো। তাবারীর সংজ্ঞায় মূসি' সেই ব্যক্তি, যার জীবনযাত্রা স্বচ্ছলতা ও প্রাচুর্যে পৌঁছেছে। আর মুকতির হলো যার সম্পদ অল্প। শব্দটি কাদার ও কাদর দুইভাবেই পড়া হয়। তাবারী, কুরতুবী ও বাগাভী একমত যে দুই পাঠের অর্থ একই। কুরতুবী জানান, ইমাম মালিকের মতে এ উপহারের কম-বেশির কোনো নির্দিষ্ট সীমা নেই। কুরতুবী বলেন, কুরআনের দাবিও এটাই, কারণ আল্লাহ কোনো অঙ্ক বেঁধে দেননি। সা'দীর মতে পরিমাণটা নির্ভর করে প্রচলিত রীতির উপর, আর অবস্থাভেদে তা বদলায়।"
+          },
+          {
+            "en": "The early authorities still gave a sense of scale. Through Ikrimah, Ibn Abbas (RA) put a servant at the top, silver coin below it and clothing below that; through Ali ibn Abi Talhah, he said a man of means gives a servant or the like, and a man in hardship three garments. Asked what lay in the middle, ash-Sha'bi named a woman's clothes at home: her shift, head-covering, wrap and outer cloak. Shurayh gave five hundred dirhams. Al-Hasan ibn Ali (RA) gave ten thousand in Ibn Kathir and al-Baghawi; one line in al-Qurtubi has twenty thousand, with skins of honey.",
+            "bn": "তবু প্রথম যুগের আলিমরা পরিমাণের একটা ধারণা দিয়েছেন। ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) সবার উপরে রেখেছেন একজন খাদেম, তার নিচে রুপার মুদ্রা, তারও নিচে পোশাক। আলী ইবন আবী তালহার সূত্রে তিনি বলেন, সচ্ছল ব্যক্তি একজন খাদেম বা সে রকম কিছু দেবে, আর অভাবী দেবে তিনটি কাপড়। মাঝামাঝি পরিমাণ কী, জানতে চাইলে শা'বী ঘরে পরার কাপড়ের কথা বলেন: কামিস, ওড়না, চাদর আর বাইরের আবরণ। কাযী শুরাইহ দিয়েছিলেন পাঁচশো দিরহাম। ইবন কাসীর ও বাগাভীর বর্ণনায় হাসান ইবন আলী (রাঃ) দিয়েছিলেন ১০,০০০। কুরতুবীর এক বর্ণনায় অঙ্কটি ২০,০০০, সঙ্গে কয়েক মশক মধু।"
+          },
+          {
+            "en": "Ash-Shafi'i, as Ibn Kathir reports, held in his later view that no amount binds the husband beyond the least that bears the name, preferring at minimum something one could pray in; in his earlier view he favoured thirty dirhams, after Ibn Umar (RA). Abu Hanifah held that if the couple dispute the amount, she is owed half the dower of women like her. At-Tabari rejects that: the verse ties the gift to the man's ease or hardship, not to her standing. His measure runs from a servant or its value for the wealthy to about three garments for the poor, and below that whatever he can.",
+            "bn": "ইবন কাসীর জানান, শাফিঈর পরবর্তী মত হলো, যে সর্বনিম্ন জিনিসকে মুত'আ বলা যায়, তার বেশি কোনো অঙ্কে স্বামীকে বাধ্য করা হবে না। তবে তাঁর পছন্দ, অন্তত এমন কিছু দেওয়া, যা পরে সালাত আদায় করা যায়। আগের মতে তিনি ইবন উমর (রাঃ)-এর অনুসরণে তিরিশ দিরহাম ভালো মনে করতেন। আবু হানীফার মত, পরিমাণ নিয়ে দুজনের বিরোধ হলে স্ত্রী পাবে তার সমমর্যাদার নারীদের মহরের অর্ধেক। তাবারী এ মত গ্রহণ করেন না। তাঁর যুক্তি, আয়াত উপহারকে বেঁধেছে স্বামীর সচ্ছলতা বা অভাবের সঙ্গে, স্ত্রীর মর্যাদার সঙ্গে নয়। তাঁর মাপ: ধনীর জন্য একজন খাদেম বা তার মূল্য, গরিবের জন্য মোটামুটি তিনটি কাপড়, আর তারও নিচে যার যতটুকু সামর্থ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Reports on Unfinished Marriages",
+          "bn": "অসমাপ্ত বিয়ের দুটি বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it. Ibn Kathir cites al-Bukhari for the view that any woman divorced before consummation is owed a gift. Al-Bukhari gives this wording without its chain (5256) and connects it in the next entry: \"The Prophet (ﷺ) married Umaima bint Sharahil, and when she was brought to him, he stretched his hand towards her. It seemed that she disliked that, whereupon the Prophet (ﷺ) ordered Abu Usaid to prepare her and to provide her with two white linen dresses.\" It does not say whether a dower was named, so it settles nothing about which women the verse covers.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। ইবন কাসীর বুখারী থেকে একটি বর্ণনা আনেন সেই মতের পক্ষে, যাতে মিলনের আগে তালাকপ্রাপ্তা প্রত্যেক নারীর জন্য উপহার পাওনা। বুখারী এ ভাষ্যটি সনদ ছাড়া এনেছেন (৫২৫৬), আর পরের বর্ণনায় সনদ জুড়ে দিয়েছেন: \"নবী ﷺ উমাইমা বিনতে শারাহীলকে বিয়ে করলেন। তাকে যখন তাঁর কাছে আনা হলো, তিনি তার দিকে হাত বাড়ালেন। মনে হলো, সে তা অপছন্দ করছে। তখন নবী ﷺ আবু উসাইদকে আদেশ দিলেন, তার যাত্রার ব্যবস্থা করতে এবং তাকে সাদা লিনেনের দুটি পোশাক দিতে।\" মহর ধার্য হয়েছিল কি না, বর্ণনায় তা বলা নেই। তাই আয়াত কোন নারীদের নিয়ে, সে প্রশ্নের মীমাংসা এ থেকে হয় না।"
+          },
+          {
+            "en": "The commentators then ask what follows if the husband dies before a dower is named or the marriage consummated. At-Tirmidhi (1145) records, and grades hasan sahih, that Ibn Mas'ud (RA) was asked about such a case and said: \"She gets the same dowry as other women, no less and no more, she has to observe the Iddah, and she gets inheritance.\" Then: \"So Ma'qil bin Sinan Al-Ashja'I stood and said: 'The Messenger of Allah judged the same as you have judged regarding Birwa bint Washiq, a woman of ours.' So Ibn Mas'ud was happy about that.\"",
+            "bn": "তাফসীরকারেরা এরপর প্রশ্ন তোলেন, মহর ধার্য হওয়ার বা মিলনের আগেই স্বামী মারা গেলে কী হবে? তিরমিযী (১১৪৫) বর্ণনা করেন এবং একে হাসান সহীহ বলেন: ইবন মাসউদ (রাঃ)-কে এমন এক ঘটনার কথা জিজ্ঞেস করা হলে তিনি বললেন, \"সে অন্য নারীদের সমান মহর পাবে, কমও নয়, বেশিও নয়। তাকে ইদ্দত পালন করতে হবে, আর সে মীরাস পাবে।\" তারপর: \"তখন মা'কিল ইবন সিনান আল-আশজাঈ দাঁড়িয়ে বললেন, আমাদের গোত্রের এক নারী বিরওয়া বিনতে ওয়াশিকের ব্যাপারে আল্লাহর রাসূল ঠিক এই ফয়সালাই দিয়েছিলেন, যা আপনি দিলেন। এতে ইবন মাসউদ খুশি হলেন।\""
+          },
+          {
+            "en": "At-Tirmidhi himself records that the question stayed open. Some Companions and others acted on the report, and ath-Thawri, Ahmad and Ishaq held it. Ali ibn Abi Talib, Zayd ibn Thabit, Ibn Abbas and Ibn Umar (RA) said she inherits and keeps the waiting term but has no dower, and this was ash-Shafi'i's view. Ash-Shafi'i said that if the report of Birwa' were established, the proof would lie in it, and he is reported to have later held by it in Egypt. Death is not divorce, but the question is the same: what is owed when a marriage closes before its terms were set.",
+            "bn": "তিরমিযী নিজেই লিখে রাখেন যে প্রশ্নটির মীমাংসা এক রকম হয়নি। কিছু সাহাবী ও অন্যরা এ বর্ণনা অনুযায়ী আমল করেছেন, আর সাওরী, আহমাদ ও ইসহাকের মতও এটি। আলী ইবন আবী তালিব, যায়দ ইবন সাবিত, ইবন আব্বাস ও ইবন উমর (রাঃ) বলেছেন, সে মীরাস পাবে, ইদ্দত পালন করবে, কিন্তু মহর পাবে না। শাফিঈর মতও তা-ই ছিল। তিনি বলেছিলেন, বিরওয়ার হাদীস প্রমাণিত হলে দলিল সেটাই। বর্ণিত আছে, পরে মিসরে গিয়ে তিনি সেই হাদীস অনুযায়ী মত দেন। মৃত্যু আর তালাক এক নয়। তবু প্রশ্ন একই: শর্ত ঠিক হওয়ার আগেই বিয়ে শেষ হয়ে গেলে কার কী পাওনা থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mending a Disappointed Heart",
+          "bn": "আশাহত মনের জন্য উপহার"
+        },
+        "p": [
+          {
+            "en": "Why a gift, when no dower is owed? Ibn Kathir answers that such a divorce is permitted even though it breaks her heart, and that is why Allah commanded the gift: compensation for what she missed. As-Sa'di sees the same wound. The husband raised her hopes and her longing, her heart became attached, and then she did not receive what she hoped for; the gift answers that. Al-Muyassar names its aims: to mend her, to ease the desolation of divorce and to remove resentment. Ibn Kathir relays what a woman al-Hasan ibn Ali (RA) divorced is reported to have said: a small provision from a departing beloved.",
+            "bn": "মহরই যখন পাওনা নয়, তখন উপহার কেন? ইবন কাসীরের উত্তর, এমন তালাক বৈধ, যদিও এতে মেয়েটির মন ভেঙে যায়। আর সে কারণেই আল্লাহ উপহারের আদেশ দিয়েছেন, যা সে হারিয়েছে তার কিছুটা পূরণ হিসেবে। সা'দীও একই ক্ষত দেখেন। স্বামী তার মনে আশা আর আকাঙ্ক্ষা জাগিয়েছিল, তার হৃদয় জড়িয়ে গিয়েছিল, তারপর যা সে চেয়েছিল তা আর পায়নি। উপহার তারই জবাব। মুয়াসসার উপহারের উদ্দেশ্যগুলো বলে দেয়: তার মন জোড়া লাগানো, তালাকের নিঃসঙ্গতা হালকা করা আর মনের তিক্ততা দূর করা। ইবন কাসীর বর্ণনা হিসেবে আনেন, হাসান ইবন আলী (রাঃ)-এর তালাক দেওয়া এক নারী বলেছিলেন: বিদায়ী প্রিয়জনের কাছ থেকে সামান্য সামগ্রী।"
+          },
+          {
+            "en": "At-Tabari takes the muhsinin as those who do good to themselves by hastening to obey Allah; al-Muyassar, as those who do good to divorced women and to themselves. The verse speaks of what a husband owes when he ends a marriage this early. It licenses nothing against any woman or man whose marriage ended so, casts no shadow on a woman sent home before her married life began, and gives no husband room to treat the gift as a formality. 2:241 extends a provision to divorced women in general, and 2:237 turns to the woman whose dower was named.",
+            "bn": "তাবারীর মতে মুহসিনীন তারা, যারা আল্লাহর আনুগত্যে দ্রুত এগিয়ে গিয়ে নিজেদের প্রতি কল্যাণ করে। মুয়াসসারের মতে তারা, যারা তালাকপ্রাপ্তা নারীদের প্রতি এবং নিজেদের প্রতি সদাচরণ করে। আয়াতটি বলছে, এত তাড়াতাড়ি বিয়ে শেষ করলে স্বামীর উপর কী দায় আসে। যে নারী বা পুরুষের বিয়ে এভাবে শেষ হয়েছে, তাঁদের কারও বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। সংসার শুরুর আগেই যে নারীকে বাড়ি ফিরতে হয়েছে, তার গায়ে কোনো দাগ লাগায় না। আর কোনো স্বামীকে উপহারটা নিছক নিয়মরক্ষা ভাবারও সুযোগ দেয় না। ২:২৪১ আয়াত সব তালাকপ্রাপ্তা নারীর জন্য সামগ্রীর কথা বলে, আর ২:২৩৭ আয়াত আসে সেই নারীর কথা নিয়ে, যার মহর ধার্য হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaving With Something in Hand",
+          "bn": "হাতে কিছু দিয়ে বিদায়"
+        },
+        "p": [
+          {
+            "en": "In many families today a nikah is signed well before the couple live together, and sometimes it ends in between. The verse asks three things of that moment. Do not treat the ending as a crime, since Allah lifted the blame. Do not send her away with nothing, since the gift is owed or, on the other view, urged on every doer of good. And size it to what you really have, not to the least you can defend.",
+            "bn": "আজ অনেক পরিবারে স্বামী-স্ত্রী একসঙ্গে থাকা শুরুর অনেক আগেই আকদ হয়ে যায়। কখনো কখনো মাঝখানেই সম্পর্কটা ভেঙে যায়। সেই মুহূর্তের জন্য আয়াতের তিনটি দাবি। এক, বিচ্ছেদকে অপরাধ ভাববেন না, কারণ আল্লাহ গুনাহের ভার তুলে নিয়েছেন। দুই, মেয়েটিকে খালি হাতে বিদায় দেবেন না, কারণ উপহারটি পাওনা, অন্য মতে অন্তত প্রত্যেক সৎকর্মশীলের প্রতি জোর তাগিদ। তিন, উপহারের মাপ ঠিক করুন আপনার আসল সামর্থ্য দেখে, সবচেয়ে কম কতটুকু দিয়ে পার পাওয়া যায় তা দেখে নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "2:238": {
     "sections": [
       {

@@ -30423,6 +30423,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Once the truth is clear, no argument is owed to endless demands; hold to it, and never trade knowledge for anyone's approval.",
     "lessonBn": "সত্য স্পষ্ট হয়ে গেলে অন্তহীন দাবির জবাব দেওয়ার দায় থাকে না। সত্যে অটল থাকুন, আর কারও সন্তুষ্টির বিনিময়ে জ্ঞানকে বিকিয়ে দেবেন না।"
+  },
+  "2:236": {
+    "reflectionEn": "A marriage is contracted, and before the two have come together, before a dowry has even been named, it ends. The verse first lifts the blame: there is no sin in parting at this point. Then it turns at once to the woman. She was promised a household and goes home with nothing written in her favour, so the husband is told to send her off with a gift, the wealthy according to his means and the man of little according to his. The verse calls it a duty upon those who do good. Its question is less what the law can force from me than how I leave. When something I began ends early, does the other person walk away with empty hands, or with something from mine?",
+    "reflectionBn": "বিয়ের আকদ হয়ে গেছে। স্বামী-স্ত্রী এখনো একসঙ্গে হননি, মহরের অঙ্কও ঠিক হয়নি, এমন সময় সম্পর্কটা ভেঙে গেল। আয়াত প্রথমে বলে, এই অবস্থায় আলাদা হয়ে গেলে গুনাহ নেই। তারপরই নজর ঘুরে যায় মেয়েটির দিকে। তাকে একটা সংসারের আশা দেওয়া হয়েছিল, অথচ সে বাড়ি ফিরছে খালি হাতে, তার নামে কিছুই লেখা হয়নি। তাই স্বামীকে বলা হলো, তাকে একটা উপহার দিয়ে বিদায় করো। সচ্ছল তার সামর্থ্য অনুযায়ী দেবে, অসচ্ছল তার সামর্থ্য অনুযায়ী। আয়াত একে বলছে সৎকর্মশীলদের উপর দায়িত্ব। প্রশ্নটা তাই এ নয় যে আইন আমার কাছ থেকে কতটুকু আদায় করতে পারে। প্রশ্ন হলো, আমি কীভাবে বিদায় নিই। আমার শুরু করা কিছু যখন মাঝপথে থেমে যায়, অন্য মানুষটি কি খালি হাতে ফেরে, নাকি আমার হাত থেকে কিছু নিয়ে যায়?",
+    "pointsEn": [
+      "When a plan I made with someone fell through before it began, did I leave them anything that eased the disappointment?",
+      "Do I measure what I give by what I can really afford, or by the least I can get away with?",
+      "Have I ever called a kindness optional and then used that word as my reason to skip it?",
+      "Whose hopes have I raised and then let down, and what do I still owe them, in words or in kind?",
+      "When I end something, do I think first of my own relief, or of how the other person walks out of the door?"
+    ],
+    "pointsBn": [
+      "কারও সঙ্গে করা কোনো পরিকল্পনা শুরুর আগেই ভেস্তে গেলে, আমি কি তার হতাশা একটু হালকা করার মতো কিছু দিয়েছি?",
+      "যা দিই তা কি আমার আসল সামর্থ্য দিয়ে মাপি, নাকি সবচেয়ে কম কতটুকু দিলে পার পাওয়া যায় তা দিয়ে?",
+      "কোনো সদাচরণকে 'ঐচ্ছিক' বলে কি কখনো সেটাকেই এড়িয়ে যাওয়ার অজুহাত বানিয়েছি?",
+      "কার মনে আমি আশা জাগিয়ে তারপর ভেঙে দিয়েছি? কথায় বা জিনিসে তার কাছে আমার এখনো কী পাওনা রয়ে গেছে?",
+      "কিছু শেষ করার সময় আমি কি আগে নিজের স্বস্তির কথা ভাবি, নাকি অন্যজন কোন অবস্থায় দরজা পেরিয়ে যাচ্ছে সেটা?"
+    ],
+    "lessonEn": "When something you began ends early, part generously: give according to your means, and let the one who loses most leave with something in hand.",
+    "lessonBn": "নিজের শুরু করা কিছু মাঝপথে থেমে গেলে উদার হয়ে বিদায় নিন: সামর্থ্য অনুযায়ী দিন, আর যার ক্ষতি সবচেয়ে বেশি, সে যেন হাতে কিছু নিয়ে ফেরে।"
   }
 };
 
