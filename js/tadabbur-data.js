@@ -32403,6 +32403,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hearing is not yet listening for benefit. Bring your mind with your ears to the Qur'an, and leave the hearts you cannot open to Allah.",
     "lessonBn": "কানে শোনা আর উপকারের জন্য শোনা এক জিনিস নয়। কুরআনের কাছে কানের সঙ্গে মনটাও নিয়ে আসুন, আর যে অন্তর আপনি খুলতে পারেন না, তার ভার আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "10:8": {
+    "reflectionEn": "Six words finish a sentence that began one verse earlier. That sentence described people who do not look forward to meeting their Lord, who are content with this world and settle into it as if they would never leave, and who walk past His signs without stopping. Then comes the verdict: their refuge is the Fire, because of what they used to earn. The word for refuge names a place one comes home to. They made a home of a road, and the home they reach is the one their own earning built. The verse is not a list for sorting other people. It asks where my own heart has settled, and what I have been earning while I felt secure.",
+    "reflectionBn": "আগের আয়াতে একটি বাক্য শুরু হয়েছিল, ছয়টি শব্দে এখানে তা শেষ হলো। সেই বাক্যে ছিল এমন মানুষের কথা, যারা রবের সঙ্গে সাক্ষাতের আশা রাখে না। দুনিয়া নিয়েই তারা খুশি, এমনভাবে তাতে থিতু হয়েছে যেন কোনোদিন ছেড়ে যেতে হবে না। আল্লাহর নিদর্শনের পাশ দিয়ে তারা হেঁটে যায়, একবারও থামে না। তারপর আসে রায়: তাদের কৃতকর্মের কারণে তাদের ঠিকানা আগুন। এখানে ঠিকানার জন্য যে শব্দ, তা এমন জায়গার নাম যেখানে মানুষ ফিরে এসে আশ্রয় নেয়। তারা পথকেই ঘর বানিয়ে নিয়েছিল। আর যে ঘরে তারা পৌঁছায়, তা তাদের নিজেদের উপার্জনেই গড়া। অন্যদের ভাগ করে চিহ্নিত করার তালিকা এ আয়াত নয়। এ আয়াত আমাকেই জিজ্ঞেস করে: আমার মন কোথায় থিতু হয়েছে, আর নিশ্চিন্তে থাকার দিনগুলোতে আমি কী উপার্জন করে চলেছি?",
+    "pointsEn": [
+      "If my week were read back to me, would it sound like someone expecting to meet Allah, or like someone who has settled in for good?",
+      "What in this world am I so content with that losing it would feel like losing everything?",
+      "Which of His signs, in the sky, in the Qur'an or in myself, did I walk past today without stopping?",
+      "What am I earning by habit, small things repeated daily, that I would never want to become my refuge?",
+      "Where does my heart actually find rest: in remembering Allah, or in what I own and control?"
+    ],
+    "pointsBn": [
+      "আমার এ সপ্তাহটা যদি আমাকে পড়ে শোনানো হয়, তা কি আল্লাহর সাক্ষাতের অপেক্ষায় থাকা কারও মতো শোনাবে, নাকি এমন কারও মতো, যে এখানেই চিরকালের জন্য থিতু হয়ে গেছে?",
+      "দুনিয়ার কোন জিনিস নিয়ে আমি এতটা সন্তুষ্ট যে সেটা হারালে মনে হবে সবকিছুই হারিয়ে গেল?",
+      "আকাশে, কুরআনে বা আমার নিজের ভেতরে তাঁর কোন নিদর্শনের পাশ দিয়ে আজ আমি না থেমে চলে গেছি?",
+      "অভ্যাসের বশে প্রতিদিন ছোট ছোট কী আমি উপার্জন করে চলেছি, যা কোনোদিন আমার ঠিকানা হোক তা আমি চাই না?",
+      "আমার মন আসলে কোথায় স্বস্তি পায়: আল্লাহর জিকিরে, নাকি যা আমার দখলে আর নিয়ন্ত্রণে আছে তাতে?"
+    ],
+    "lessonEn": "Do not make a home of a road. Keep the meeting with Allah in view, stop at His signs, and watch what you earn, for the final refuge is built from it.",
+    "lessonBn": "পথকে ঘর বানাবেন না। আল্লাহর সাক্ষাতের কথা চোখের সামনে রাখুন, তাঁর নিদর্শনে থামুন, আর কী উপার্জন করছেন সেদিকে খেয়াল রাখুন, কারণ শেষ ঠিকানা তা দিয়েই গড়া হয়।"
   }
 };
 

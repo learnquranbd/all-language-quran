@@ -319,6 +319,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "Finishing What 10:7 Began",
+          "bn": "১০:৭ যা শুরু করেছিল"
+        },
+        "p": [
+          {
+            "en": "Ula'ika ma'wahumu an-naru bima kanu yaksibun: those, their refuge is the Fire, because of what they used to earn. Six Arabic words, and none says who 'those' are; the answer lies one verse back. Verse 10:7 opens with inna, indeed, and lays out a description in four clauses: those who do not hope for meeting Us, who are content with the life of this world, who are at rest in it, and who are heedless of Our signs. Then it stops, without saying what becomes of them.",
+            "bn": "উলা-ইকা মা'ওয়াহুমুন নারু বিমা কানূ ইয়াকসিবূন: ওরাই তারা, যাদের ঠিকানা আগুন, তাদের কৃতকর্মের কারণে। আরবিতে মাত্র ছয়টি শব্দ, অথচ 'ওরা' কারা, তার উল্লেখ এতে নেই। উত্তরটা আছে এক আয়াত পেছনে। ১০:৭ আয়াত শুরু হয় ইন্না দিয়ে, অর্থাৎ নিশ্চয়ই। তারপর চারটি অংশে একটি পরিচয় সাজানো হয়: যারা আমার সাক্ষাতের আশা রাখে না, দুনিয়ার জীবন নিয়ে সন্তুষ্ট, তাতেই নিশ্চিন্ত, আর আমার নিদর্শনগুলো থেকে উদাসীন। এরপর আয়াত থেমে যায়। তাদের কী হবে, সে কথা সেখানে বলা হয় না।"
+          },
+          {
+            "en": "Verse 10:8 supplies the missing half. At-Tabari glosses ula'ika as these people whose description this is, and as-Sa'di uses almost the same words: those who have this description. Neither reads the verse apart from the one before it, and neither will this article. The pair follows a run of signs. Verses 10:3 to 10:6 have just set out the creation of the heavens and the earth, the sun's radiance, the moon's stations and the alternation of night and day. The people of 10:7 are the ones who walk past all of it.",
+            "bn": "বাকি অর্ধেকটা আসে ১০:৮ আয়াতে। তাবারী উলা-ইকার ব্যাখ্যা দেন এভাবে: এই হলো সেই লোকেরা, যাদের পরিচয় এমন। সা'দীর ভাষাও প্রায় এক: যাদের বৈশিষ্ট্য এই। দুজনের কেউই আয়াতটিকে আগের আয়াত থেকে আলাদা করে পড়েন না, এই প্রবন্ধও পড়বে না। আয়াত দুটির আগে আছে নিদর্শনের একটি ধারা। ১০:৩ থেকে ১০:৬ আয়াতে এইমাত্র এসেছে আকাশ ও পৃথিবীর সৃষ্টি, সূর্যের দীপ্তি, চাঁদের মানযিল, আর রাত-দিনের পালাবদল। ১০:৭ আয়াতের মানুষেরা এর সবকিছুর পাশ দিয়ে হেঁটে চলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hope, Fear, or Both",
+          "bn": "আশা, ভয়, নাকি দুটোই"
+        },
+        "p": [
+          {
+            "en": "The first clause turns on one verb. La yarjuna liqa'ana is usually rendered 'do not hope for' the meeting with Us, but at-Tabari reads it as fear: those who do not fear meeting Us on the Day of Resurrection, and who therefore deny the reward and the punishment. He grounds this in Arab usage, where a man does not yarju another when he does not fear him, citing 71:13, ma lakum la tarjuna lillahi waqara, and a line by the poet Abu Dhu'ayb about a man stung by bees who does not fear their sting.",
+            "bn": "প্রথম অংশটি একটি ক্রিয়ার উপর দাঁড়িয়ে। লা ইয়ারজূনা লিকা-আনা সাধারণত অনুবাদ হয় 'আমার সাক্ষাতের আশা রাখে না'। তাবারী কিন্তু এখানে ভয়ের অর্থ পড়েন: যারা কিয়ামতের দিন আমার সাক্ষাৎকে ভয় করে না, আর সে কারণে সওয়াব ও শাস্তিকে অস্বীকার করে। এর ভিত্তি তিনি দেখান আরবদের ব্যবহারে। কেউ কাউকে ভয় না করলে আরবরা বলে, অমুক অমুককে 'ইয়ারজূ' করে না। প্রমাণ হিসেবে তিনি আনেন ৭১:১৩ আয়াত, মা লাকুম লা তারজূনা লিল্লাহি ওয়াকারা। সঙ্গে আনেন কবি আবু যুআইবের একটি পঙক্তি, যেখানে মৌমাছির কামড় খেয়েও এক লোক সেই কামড়কে ভয় পায় না।"
+          },
+          {
+            "en": "Al-Qurtubi gives both senses. Yarjuna can mean fear or hope, each backed by a line of poetry, so that raja' holds fear and hope together: they neither fear a punishment nor hope for a reward. He adds that meeting the reward and the punishment was called meeting Allah to magnify them, and records a further view that takes the meeting at face value, as seeing: they do not hope to see Us. Al-Baghawi keeps the double sense: they neither fear Our punishment nor hope for Our reward.",
+            "bn": "কুরতুবী দুটো অর্থই দেন। ইয়ারজূনা মানে হতে পারে ভয় করা, আবার আশা করাও, আর দুটোর পক্ষেই তিনি কবিতার পঙক্তি আনেন। ফলে রাজা শব্দে ভয় আর আশা একসঙ্গে থাকে: তারা শাস্তির ভয়ও করে না, সওয়াবের আশাও রাখে না। তিনি আরও বলেন, সওয়াব আর শাস্তির মুখোমুখি হওয়াকে আল্লাহর সাক্ষাৎ বলা হয়েছে এ দুটোর গুরুত্ব বোঝাতে। আরেকটি মতও তিনি উল্লেখ করেন, যেখানে সাক্ষাৎ মানে সরাসরি দেখা: তারা আমাকে দেখার আশা রাখে না। বাগাভীও দুটো অর্থ একসঙ্গে রাখেন: তারা আমার শাস্তিকে ভয় করে না, আমার সওয়াবের আশাও রাখে না।"
+          },
+          {
+            "en": "Al-Qurtubi then reports a real disagreement among scholars. Some hold that raja' carries the sense of fear only when it is negated, as in 71:13; others say it can carry that sense wherever the context points to it. He leaves the question there, and so does this article. As-Sa'di takes the plain sense of hope and gives it weight: the meeting with Allah is the greatest thing any hoper hopes for and the highest thing anyone longs for, and these people turned away from it, and perhaps denied it outright.",
+            "bn": "এরপর কুরতুবী আলেমদের মধ্যে একটি সত্যিকারের মতভেদের কথা জানান। কারও মতে রাজা শব্দ ভয়ের অর্থ দেয় কেবল না-বাচক বাক্যে, যেমন ৭১:১৩ আয়াতে। অন্যদের মতে প্রসঙ্গ যেখানে এ অর্থের দিকে ইঙ্গিত করে, সেখানেই তা ভয় বোঝাতে পারে। কুরতুবী প্রশ্নটা সেখানেই রেখে দেন, এই প্রবন্ধও তাই করছে। সা'দী সরল অর্থে আশাটাকেই ধরেন এবং তাকে বড় করে দেখান। আল্লাহর সাক্ষাৎ হলো আশাবাদীদের সবচেয়ে বড় আশা, আকাঙ্ক্ষীদের সবচেয়ে উঁচু আকাঙ্ক্ষা। অথচ এরা তা থেকে মুখ ফিরিয়ে নিয়েছে, হয়তো সরাসরি অস্বীকারও করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Content, Then Settled In",
+          "bn": "খুশি, তারপর থিতু"
+        },
+        "p": [
+          {
+            "en": "Radu bil-hayati d-dunya: they are content with the life of this world. At-Tabari, al-Qurtubi and as-Sa'di all add the same qualifier: content with it in exchange for the Hereafter, as its substitute. The fault is not enjoying the world but taking it as the whole bargain. Al-Qurtubi and al-Baghawi say they worked for it, and al-Baghawi that they chose it. Mujahid, in reports at-Tabari carries, likens the clause to 11:15: whoever desires the life of this world and its adornment, We repay them in full for their deeds therein.",
+            "bn": "রাদূ বিল হায়াতিদ দুনইয়া: তারা দুনিয়ার জীবন নিয়ে সন্তুষ্ট। তাবারী, কুরতুবী আর সা'দী তিনজনই এখানে একই শর্ত জুড়ে দেন: আখিরাতের বদলে, আখিরাতের বিকল্প হিসেবে তারা এতে খুশি। তাহলে দোষটা দুনিয়া উপভোগ করায় নয়। দোষ হলো দুনিয়াকেই পুরো লেনদেন বলে মেনে নেওয়া। কুরতুবী ও বাগাভী বলেন, তারা এর জন্যই খেটেছে, আর বাগাভী যোগ করেন, তারা এটাকেই বেছে নিয়েছে। তাবারীর আনা বর্ণনায় মুজাহিদ অংশটিকে ১১:১৫ আয়াতের সঙ্গে মেলান: যে দুনিয়ার জীবন ও তার শোভা চায়, আমি দুনিয়াতেই তাদের কাজের পুরো প্রতিদান দিয়ে দিই।"
+          },
+          {
+            "en": "Qatada, also in at-Tabari, draws the portrait in one breath: if you wish, you will see a man of this world; for it he rejoices, for it he grieves, for it he is angry and for it he is pleased. Ibn Kathir relays a sworn remark from al-Hasan about how they came to be content, which his English abridgement renders: they adorned it and praised it until they were well pleased with it. In that rendering, the contentment was something they worked themselves into.",
+            "bn": "তাবারীতেই কাতাদার একটি বর্ণনা আছে, যেখানে এক নিঃশ্বাসে পুরো ছবিটা আঁকা: চাইলেই তুমি দুনিয়াদার মানুষ দেখতে পাবে। দুনিয়ার জন্যই সে খুশি হয়, দুনিয়ার জন্যই দুঃখ পায়। দুনিয়ার জন্যই রাগ করে, দুনিয়ার জন্যই সন্তুষ্ট হয়। ইবন কাসীর হাসান থেকে কসম খেয়ে বলা একটি কথা আনেন, তারা কীভাবে সন্তুষ্ট হলো সে বিষয়ে। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে কথাটির অনুবাদ: তারা দুনিয়াকে সাজিয়েছে, তার প্রশংসা করেছে, শেষে তাতেই পুরোপুরি খুশি হয়ে গেছে। এই অনুবাদ অনুযায়ী সন্তুষ্টিটা এমনি আসেনি, তারা নিজেরাই খেটেখুটে সেখানে পৌঁছেছে।"
+          },
+          {
+            "en": "Wa-tma'annu biha: and they are at rest in it. At-Tabari says they are at ease in it and settled. Al-Qurtubi says they rejoiced in it and settled into it. As-Sa'di draws the sharpest picture. They leaned on it and made it the limit of their aim, seizing its pleasures by whatever road they came, as if they had been created to stay in it, and as if it were not a house of passage, where travellers take provision for the lasting home towards which the first and the last are all journeying.",
+            "bn": "ওয়াতমাআন্নূ বিহা: আর তারা তাতেই নিশ্চিন্ত। তাবারী বলেন, তারা এতে স্বস্তিতে আছে, থিতু হয়ে বসেছে। কুরতুবীর ভাষায়, তারা এ নিয়ে আনন্দে মেতেছে, এর মধ্যেই স্থির হয়েছে। সবচেয়ে স্পষ্ট ছবি আঁকেন সা'দী। তারা দুনিয়ার উপর ভর দিয়েছে, একেই বানিয়েছে চাওয়া-পাওয়ার শেষ সীমা। যে পথেই এর ভোগ হাতে আসুক, তারা তা লুফে নিয়েছে। যেন এখানে থেকে যাওয়ার জন্যই তাদের সৃষ্টি। যেন এটা পার হয়ে যাওয়ার ঘর নয়, যেখান থেকে মুসাফিররা স্থায়ী ঘরের পাথেয় সংগ্রহ করে। অথচ আগের ও পরের সবাই সেই স্থায়ী ঘরের দিকেই যাত্রা করছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heedless of Which Signs",
+          "bn": "কোন নিদর্শন থেকে উদাসীন"
+        },
+        "p": [
+          {
+            "en": "The fourth clause is wal-ladhina hum 'an ayatina ghafilun: and those who are heedless of Our signs. At-Tabari defines the signs as Allah's proofs of His oneness and His arguments to His servants for worshipping Him sincerely, and the heedlessness as turning away and being distracted. They do not consider the signs the way someone would who wishes himself well, which would have shown them the truth the signs point to and the falsehood of what they persist in. Al-Qurtubi says simply: they take no lesson and do not reflect.",
+            "bn": "চতুর্থ অংশ হলো ওয়াল্লাযীনা হুম আন আয়াতিনা গাফিলূন: আর যারা আমার নিদর্শনগুলো থেকে উদাসীন। তাবারীর মতে নিদর্শন মানে আল্লাহর একত্বের প্রমাণ, আর খাঁটিভাবে তাঁর ইবাদত করার পক্ষে বান্দাদের সামনে রাখা তাঁর যুক্তি। আর উদাসীনতা মানে মুখ ফিরিয়ে নেওয়া, অন্য কিছুতে মজে থাকা। নিজের ভালো চায় এমন মানুষ যেভাবে ভেবে দেখে, তারা নিদর্শনগুলো সেভাবে ভেবে দেখে না। দেখলে নিদর্শন যে সত্যের দিকে ইশারা করে তা তারা জানত, যে ভুলের উপর তারা অটল তার অসারতাও বুঝত। কুরতুবীর কথা সংক্ষিপ্ত: তারা শিক্ষা নেয় না, চিন্তাও করে না।"
+          },
+          {
+            "en": "Others widen the word signs. Ibn Kathir names the signs in creation, on which these people do not reflect, and the signs of revealed law, which they do not obey. Al-Muyassar uses the same pair. As-Sa'di names the verses of the Qur'an, the signs on the horizons and the signs within the self, and adds that turning away from a proof carries with it turning away from what the proof points to. Al-Baghawi reports Ibn Abbas (RA) as saying that 'Our signs' here means Muhammad ﷺ and the Qur'an.",
+            "bn": "অন্যরা নিদর্শন শব্দটিকে আরও বিস্তৃত করেন। ইবন কাসীর উল্লেখ করেন সৃষ্টিজগতের নিদর্শন, যা নিয়ে এরা চিন্তা করে না, আর শরীয়তের নিদর্শন, যা এরা মানে না। মুয়াসসারও এ দুটোর কথাই বলে। সা'দী উল্লেখ করেন কুরআনের আয়াত, দিগন্তের নিদর্শন, আর মানুষের নিজের ভেতরের নিদর্শন। সঙ্গে তিনি বলেন, প্রমাণ থেকে মুখ ফেরালে প্রমাণ যার দিকে ইশারা করে, তা থেকেও মুখ ফেরানো হয়ে যায়। বাগাভী ইবন আব্বাস (রাঃ)-এর উক্তি আনেন: এখানে 'আমার নিদর্শন' মানে মুহাম্মাদ ﷺ ও কুরআন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Dwelling They Never Leave",
+          "bn": "যে ঘর আর ছাড়া যায় না"
+        },
+        "p": [
+          {
+            "en": "Ma'wa, rendered refuge, is explained by every commentator here with words of settling. At-Tabari calls it their destination: the Fire of Jahannam in the Hereafter. Al-Qurtubi calls it their lodging and their place of staying. Al-Muyassar calls it their settled place. As-Sa'di calls it their settled place and their dwelling, which they do not leave, and Ibn Kathir places it on the Day of their Return. In every gloss it names where a person finally comes to rest.",
+            "bn": "মা'ওয়া শব্দের অনুবাদ ঠিকানা বা আশ্রয়। এখানকার প্রত্যেক তাফসীরকার শব্দটি বোঝান থিতু হওয়ার শব্দ দিয়ে। তাবারীর কাছে এটা তাদের গন্তব্য, আখিরাতে জাহান্নামের আগুন। কুরতুবী বলেন, তাদের অবস্থানস্থল, থাকার জায়গা। মুয়াসসার বলে, তাদের স্থায়ী জায়গা। সা'দী বলেন, তাদের স্থায়ী জায়গা ও বাসস্থান, যেখান থেকে তারা আর সরবে না। আর ইবন কাসীর এর সময় বলে দেন, তাদের ফিরে যাওয়ার দিন। প্রতিটি ব্যাখ্যায় এটি সেই জায়গা, যেখানে মানুষ শেষ পর্যন্ত গিয়ে থামে।"
+          },
+          {
+            "en": "Read beside 10:7, the glosses are pointed. At-Tabari described these people as at ease in the world and settled in it; as-Sa'di said they lived as though created to stay, in a house that was only a passage. Verse 10:8 answers with a ma'wa that as-Sa'di calls a dwelling they will not leave. They expected to stay, and stay they will, only not where they expected. That contrast is this article's own reading; no commentator here states it in these words.",
+            "bn": "১০:৭ আয়াতের পাশে রেখে পড়লে ব্যাখ্যাগুলো আরও ধারালো হয়ে ওঠে। তাবারী এদের বর্ণনা দিয়েছিলেন দুনিয়ায় স্বস্তিতে থিতু হয়ে বসা মানুষ হিসেবে। সা'দী বলেছিলেন, তারা এমনভাবে বেঁচেছে যেন এখানে থেকে যাওয়ার জন্যই তাদের সৃষ্টি, অথচ ঘরটা ছিল কেবল পার হওয়ার। এর জবাবে ১০:৮ আয়াত দেয় এমন এক মা'ওয়া, যাকে সা'দী বলেন এমন বাসস্থান যা তারা আর ছাড়বে না। তারা থেকে যেতে চেয়েছিল। থেকে তারা যাবেই, তবে যেখানে ভেবেছিল সেখানে নয়। এই বৈপরীত্য এই প্রবন্ধের নিজের পাঠ। এখানকার কোনো তাফসীরকার কথাটা এভাবে বলেননি।"
+          },
+          {
+            "en": "The same phrase, ma'wahumu an-nar, closes clauses in 3:151 and 24:57. In the second person, ma'wakumu an-nar, it is spoken to people in 45:34: today We forget you as you forgot the meeting of this Day of yours, and your refuge is the Fire. That verse joins the same two ideas as 10:7 and 10:8, a meeting put out of mind and a refuge in the Fire. Surah an-Nazi'at uses al-ma'wa for both ends: the Blaze is the refuge in 79:39, and the Garden is the refuge in 79:41.",
+            "bn": "মা'ওয়াহুমুন নার, এই একই বাক্যাংশ ৩:১৫১ আর ২৪:৫৭ আয়াতেও এসেছে। আবার সরাসরি সম্বোধনে, মা'ওয়াকুমুন নার রূপে, তা বলা হয়েছে ৪৫:৩৪ আয়াতে: আজ আমি তোমাদের ভুলে যাব, যেমন তোমরা এই দিনের সাক্ষাৎ ভুলে গিয়েছিলে, আর তোমাদের ঠিকানা আগুন। ১০:৭ ও ১০:৮ আয়াতের দুটো কথাই সেখানে একসঙ্গে আছে: মন থেকে সরিয়ে রাখা সাক্ষাৎ, আর আগুনে ঠিকানা। সূরা নাযিআত আল-মা'ওয়া শব্দটি দুই পরিণতির জন্যই ব্যবহার করে। ৭৯:৩৯ আয়াতে জাহীম হলো ঠিকানা, আর ৭৯:৪১ আয়াতে জান্নাত হলো ঠিকানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Earning Held",
+          "bn": "উপার্জনের ঝুলিতে কী ছিল"
+        },
+        "p": [
+          {
+            "en": "Bima kanu yaksibun: because of what they used to earn. The commentators differ over what they place inside that earning. Al-Qurtubi and al-Baghawi name it as disbelief and denial. At-Tabari names the sins, crimes and evil deeds they committed in this world, and al-Muyassar names sins and errors. Ibn Kathir combines them: the sins, errors and crimes they earned in their worldly life, together with their disbelief in Allah, His Messenger and the Last Day. As-Sa'di lists disbelief, associating partners with Allah, and kinds of disobedience.",
+            "bn": "বিমা কানূ ইয়াকসিবূন: তারা যা উপার্জন করত, তার কারণে। এই উপার্জনের ভেতরে কী আছে, তা নিয়ে তাফসীরকারদের মধ্যে পার্থক্য আছে। কুরতুবী আর বাগাভীর মতে তা কুফর আর মিথ্যা প্রতিপন্ন করা। তাবারীর মতে দুনিয়ায় করা গুনাহ, অপরাধ আর মন্দ কাজ। মুয়াসসার বলে গুনাহ আর ভুলত্রুটি। ইবন কাসীর সবগুলোকে একসঙ্গে আনেন: দুনিয়ার জীবনে তারা যে গুনাহ, ভুল আর অপরাধ কামিয়েছে, তার সঙ্গে আল্লাহ, তাঁর রসূল ও আখিরাতের প্রতি তাদের কুফর। সা'দীর তালিকায় আছে কুফর, শিরক আর নানা রকম নাফরমানি।"
+          },
+          {
+            "en": "Two things follow from the wording itself. The cause is stated with bi, because of, so the refuge is given as recompense; Ibn Kathir and al-Muyassar both use the word jaza', recompense. Ma'arif al-Qur'an says the same in plain terms: this punishment is nothing but the outcome of their own deeds. And the verb is kanu yaksibun, what they used to earn, a past habit rather than a single slip. The four marks of 10:7 describe a way of living, and the earning grew out of it day by day.",
+            "bn": "শব্দগুলো থেকেই দুটি কথা বেরিয়ে আসে। কারণটা বলা হয়েছে বি দিয়ে, অর্থাৎ এর কারণে। তাই ঠিকানাটা আসে প্রতিদান হিসেবে। ইবন কাসীর আর মুয়াসসার দুটোতেই জাযা শব্দটি আছে, যার অর্থ প্রতিফল। মাআরিফুল কুরআনও সোজা কথায় একই কথা বলে: এই শাস্তি তাদের নিজেদের কাজেরই ফল, এর বেশি কিছু নয়। দ্বিতীয় কথা, ক্রিয়াটি কানূ ইয়াকসিবূন, অর্থাৎ যা তারা উপার্জন করে চলত। এটা অতীতের অভ্যাস, একবারের পদস্খলন নয়। ১০:৭ আয়াতের চারটি চিহ্ন একটি জীবনধারার ছবি, আর উপার্জনটা দিনে দিনে সেখান থেকেই জমেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Kinds of Rest",
+          "bn": "দুই রকম স্বস্তি"
+        },
+        "p": [
+          {
+            "en": "Verse 10:9 opens with the same inna and turns the picture over: those who believed and did righteous deeds, their Lord guides them by their faith, with rivers flowing beneath them in the Gardens of Bliss. The causes sit side by side in the same grammar. In 10:8 the Fire comes bima kanu yaksibun, because of what they earned; in 10:9 the guidance comes bi-imanihim, by their faith. Ma'arif al-Qur'an reads the passage this way, as people splitting into two groups in front of the same open signs.",
+            "bn": "১০:৯ আয়াতও শুরু হয় সেই ইন্না দিয়ে, কিন্তু ছবিটা উল্টে দেয়: যারা ঈমান এনেছে ও সৎকাজ করেছে, তাদের রব তাদের ঈমানের কারণে তাদের পথ দেখান। নিয়ামতে ভরা জান্নাতে তাদের নিচ দিয়ে নহর বয়ে যায়। দুই আয়াতে কারণ বলার ধরনটা একই। ১০:৮ আয়াতে আগুন আসে বিমা কানূ ইয়াকসিবূন, তাদের উপার্জনের কারণে। ১০:৯ আয়াতে হিদায়াত আসে বি-ঈমানিহিম, তাদের ঈমানের কারণে। মাআরিফুল কুরআনও অংশটিকে এভাবেই পড়ে: একই খোলা নিদর্শনের সামনে দাঁড়িয়ে মানুষ দুই দলে ভাগ হয়ে যায়।"
+          },
+          {
+            "en": "The verb of 10:7 has a counterpart elsewhere. These people itma'annu, were at rest, in the life of this world. In 13:28 the believers are those whose hearts find rest, tatma'innu, in the remembrance of Allah, and the verse adds that it is by the remembrance of Allah that hearts find rest. The Qur'an does not fault the need for rest; it asks where the heart has put its weight. Verse 10:10 then shows the other group at rest, glorifying and praising Allah in the Garden.",
+            "bn": "১০:৭ আয়াতের ক্রিয়াটির একটি জোড়া কুরআনের অন্য জায়গায় আছে। এরা দুনিয়ার জীবনে ইতমাআন্নূ করেছে, অর্থাৎ নিশ্চিন্ত হয়েছে। আর ১৩:২৮ আয়াতে মুমিন তারা, যাদের অন্তর আল্লাহর জিকিরে তাতমাইন্নু করে, অর্থাৎ প্রশান্তি পায়। সেই আয়াতই যোগ করে, জেনে রাখো, আল্লাহর জিকিরেই অন্তর প্রশান্তি পায়। স্বস্তির প্রয়োজনকে কুরআন দোষ দেয় না। সে জানতে চায়, অন্তর তার ভার কোথায় রেখেছে। এরপর ১০:১০ আয়াত দেখায় অন্য দলের স্বস্তি: জান্নাতে তারা আল্লাহর পবিত্রতা ঘোষণা করে, তাঁর প্রশংসা করে।"
+          },
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a sound hadith to it. A general narration, not tied to the verse, speaks to its theme. In Sahih al-Bukhari (6416), Abdullah ibn Umar (RA) said that the Messenger of Allah ﷺ took hold of his shoulder and said: 'Be in this world as if you were a stranger or a traveler.' Ibn Umar used to add his own advice: take from your health for your sickness, and from your life for your death.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে আয়াতের সঙ্গে সরাসরি যুক্ত নয়, এমন একটি সাধারণ বর্ণনা এর বিষয়ের সঙ্গে মেলে। সহীহ বুখারীতে (৬৪১৬) আবদুল্লাহ ইবন উমার (রাঃ) বলেন, আল্লাহর রসূল ﷺ তাঁর কাঁধ ধরে বললেন: 'দুনিয়াতে এমনভাবে থাকো, যেন তুমি এক অচেনা মানুষ, কিংবা পথ পাড়ি দেওয়া এক পথিক।' ইবন উমার (রাঃ) নিজের পক্ষ থেকে উপদেশ যোগ করতেন: সুস্থতা থেকে অসুস্থতার জন্য, আর জীবন থেকে মৃত্যুর জন্য সঞ্চয় করে নাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mirror, Not a Sentence",
+          "bn": "রায় নয়, নিজের আয়না"
+        },
+        "p": [
+          {
+            "en": "Ibn Zayd, in a report at-Tabari carries, says of 10:7: these are the people of disbelief, and then recites 10:8. The verse describes what its text describes: those who deny the meeting with Allah and live for this world alone. This article declares no person destined for the Fire, and the verse licenses no one to pass that sentence on any living person or community. The verdict belongs to Allah, who alone knows the full truth of every heart and every ending. Using it to sort neighbours into groups misses its purpose.",
+            "bn": "তাবারীর আনা এক বর্ণনায় ইবন যায়দ ১০:৭ আয়াত সম্পর্কে বলেন: এরা কুফরের লোক। তারপর তিনি ১০:৮ আয়াত পড়েন। আয়াতটির পাঠ যা বর্ণনা করে, আয়াত কেবল তা-ই বর্ণনা করে: যারা আল্লাহর সাক্ষাৎ অস্বীকার করে আর শুধু দুনিয়ার জন্যই বাঁচে। এই প্রবন্ধ কোনো মানুষকে জাহান্নামী ঘোষণা করে না। আর জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের উপর এমন রায় দেওয়ার অনুমতিও এ আয়াত কাউকে দেয় না। রায় আল্লাহর হাতে। প্রতিটি অন্তর আর প্রতিটি পরিণতির পুরো সত্য কেবল তিনিই জানেন। প্রতিবেশীদের ভাগ করে চিহ্নিত করতে আয়াতটি ব্যবহার করলে তার আসল উদ্দেশ্যই হারিয়ে যায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an turns the verse inward. It says, with regret, that the marks the Qur'an gives here for deniers are not far from the present condition of Muslims: lives with no visible concern beyond this world, while we sit comfortably sure of our faith. This article does not take that to mean such Muslims share the verdict of 10:8. It takes the marks of 10:7 as a mirror, since they can take root in any heart. So ask: do I look forward to meeting Allah? Where has my heart come to rest? Which of His signs did I pass today?",
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে ভেতরের দিকে ঘুরিয়ে দেয়। আক্ষেপ নিয়ে সেখানে বলা হয়, অস্বীকারকারীদের যে চিহ্ন কুরআন এখানে দিয়েছে, মুসলমানদের বর্তমান অবস্থা তা থেকে খুব দূরে নয়। জীবনযাপন দেখে মনে হয় চোখের সামনের দুনিয়া ছাড়া আর কোনো চিন্তা নেই, অথচ নিজের ঈমান নিয়ে আমরা দিব্যি নিশ্চিন্তে বসে আছি। এর মানে এই প্রবন্ধ এটা ধরে না যে এমন মুসলমানরা ১০:৮ আয়াতের রায়ের ভাগীদার। বরং ১০:৭ আয়াতের চিহ্নগুলোকে সে আয়না হিসেবে নেয়, কারণ যেকোনো অন্তরেই এগুলো শিকড় গাড়তে পারে। তাই নিজেকে জিজ্ঞেস করুন: আমি কি আল্লাহর সাক্ষাতের অপেক্ষায় থাকি? আমার অন্তর কোথায় থিতু হয়েছে? আজ তাঁর কোন নিদর্শনের পাশ দিয়ে আমি চলে গেছি?"
+          }
+        ]
+      }
+    ]
+  },
   "10:11": {
     "sections": [
       {
