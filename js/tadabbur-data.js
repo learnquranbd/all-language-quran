@@ -31043,6 +31043,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "No one can hold back anything of Allah's decree, not even the noblest of His messengers; honour them as servants and give worship to Him alone.",
     "lessonBn": "আল্লাহর ফয়সালার এতটুকুও কেউ ঠেকাতে পারে না, তাঁর শ্রেষ্ঠ রসূলরাও নন; তাঁদের সম্মান করুন বান্দা হিসেবে, আর ইবাদত দিন একমাত্র আল্লাহকে।"
+  },
+  "5:61": {
+    "reflectionEn": "They walk in and say the right words: we believe. They sit where the teaching is given, hear the reminders, and walk out. The verse does not describe the room or the speech. It describes what they carried: they came in with disbelief and went out with it, and nothing in between touched them. Then it ends without naming anyone: Allah knows best what they were hiding. That last sentence keeps the verdict with Him and turns the verse back on the reader. I walk into rooms like that every week, a sermon, a study circle, a page of the Qur'an. The question is not whether anyone notices what I bring in, but whether I carry anything different out.",
+    "reflectionBn": "তারা ভেতরে আসে, মুখে ঠিক কথাটাই বলে: আমরা ঈমান এনেছি। যেখানে দ্বীনের কথা হয় সেখানে বসে, নসিহত শোনে, তারপর বেরিয়ে যায়। আয়াতটি ঘরের বর্ণনা দেয় না, আলোচনারও না। বর্ণনা দেয় তারা সঙ্গে কী নিয়ে এসেছিল আর কী নিয়ে গেল। ঢুকেছিল কুফরি নিয়ে, বেরিয়েছে সেই কুফরি নিয়েই। মাঝখানের কোনো কথা তাদের ছুঁতে পারেনি। শেষে আয়াত কারও নাম নেয় না, শুধু বলে: তারা যা লুকাত, আল্লাহ তা ভালো জানেন। এই শেষ বাক্য রায়টা আল্লাহর হাতেই রেখে দেয়, আর প্রশ্নটা ফিরিয়ে দেয় পাঠকের দিকে। এমন জায়গায় আমিও প্রতি সপ্তাহে যাই: জুমার খুতবায়, দ্বীনি মজলিসে, কুরআনের পাতায়। আসল প্রশ্ন এটা নয় যে আমি কী নিয়ে ঢুকলাম তা কেউ টের পায় কি না। প্রশ্ন হলো, বেরোনোর সময় আমি নতুন কিছু সঙ্গে নিয়ে বেরোই কি না।",
+    "pointsEn": [
+      "What did I hear at the last sermon or lesson I attended, and has anything in my week changed because of it?",
+      "Are there words I say about my faith that my heart has not yet caught up with, and am I working to close that gap?",
+      "When I doubt someone's sincerity, do I remember that only Allah knows what a heart conceals?",
+      "Before I open the Qur'an, do I ask to be changed by it, or only to finish my portion?",
+      "What am I keeping hidden as though Allah did not already know it?"
+    ],
+    "pointsBn": [
+      "শেষ যে খুতবা বা দারসে বসেছিলাম, সেখানে কী শুনেছিলাম? তার কারণে আমার এই সপ্তাহে কিছু কি বদলেছে?",
+      "ঈমান নিয়ে মুখে এমন কোনো কথা কি বলি, যেখানে আমার অন্তর এখনো পৌঁছায়নি? সেই ফাঁক পূরণের চেষ্টা কি করছি?",
+      "কারও আন্তরিকতা নিয়ে সন্দেহ জাগলে কি মনে রাখি যে অন্তরে কী লুকানো আছে, তা কেবল আল্লাহই জানেন?",
+      "কুরআন খোলার আগে কি দোয়া করি যেন এটা আমাকে বদলে দেয়, নাকি শুধু নিজের অংশটুকু শেষ করতে চাই?",
+      "এমন কী আমি লুকিয়ে রাখছি, যেন আল্লাহ তা আগে থেকেই জানেন না?"
+    ],
+    "lessonEn": "Hearing the truth changes nothing unless you let it in: leave every reminder carrying more than you brought, and leave hidden hearts to Allah.",
+    "lessonBn": "সত্য শুনলেই কিছু বদলায় না, যতক্ষণ না তাকে ভেতরে ঢুকতে দেন। প্রতিটি নসিহত থেকে যা নিয়ে এসেছিলেন তার চেয়ে বেশি নিয়ে ফিরুন, আর মানুষের গোপন অন্তরের বিচার আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 

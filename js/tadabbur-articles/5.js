@@ -2939,6 +2939,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:61": {
+    "sections": [
+      {
+        "h": {
+          "en": "Mockers First, Then Visitors",
+          "bn": "আগে ঠাট্টাকারী, পরে অতিথি"
+        },
+        "p": [
+          {
+            "en": "The passage opens at 5:57 by forbidding the believers to take as allies those among the People of the Book, and the disbelievers, who treat their religion as mockery and play, and 5:58 adds that when the call to prayer is made, such people take it as a joke. Then 5:59 and 5:60 answer their resentment. Here the passage turns from the open mocker to a quieter figure, who comes to the believers in person and says, We believe.",
+            "bn": "অংশটি শুরু হয় ৫:৫৭ আয়াতে। আহলে কিতাবের যারা এবং যে কাফিররা মুমিনদের দ্বীনকে ঠাট্টা আর খেলার বস্তু বানায়, তাদের বন্ধু বানাতে সেখানে নিষেধ করা হয়েছে। ৫:৫৮ আয়াত যোগ করে, নামাজের আজান হলে এরা সেটাকেও তামাশা বানায়। এরপর ৫:৫৯ ও ৫:৬০ আয়াত তাদের বিদ্বেষের জবাব দেয়। এখানে এসে প্রসঙ্গ বদলায়। প্রকাশ্য ঠাট্টাকারীর জায়গায় সামনে আসে আরও নিচু গলার এক চরিত্র। সে নিজে মুমিনদের কাছে আসে আর বলে: আমরা ঈমান এনেছি।"
+          },
+          {
+            "en": "The verse moves in three steps and closes with a sentence about knowledge. They come and speak; they entered with disbelief; they left with it. Then: wallahu a'lamu bima kanu yaktumun, and Allah knows best what they were concealing. Nothing dramatic happens in it. There is no attack and no open insult like the ridicule of the adhan three verses earlier. The whole charge is that a meeting took place, the right words were said, and the people who said them walked away exactly as they had arrived.",
+            "bn": "আয়াতটি তিনটি ধাপে এগোয়, তারপর জ্ঞানের কথা দিয়ে শেষ হয়। তারা আসে আর কথা বলে। তারা কুফরি নিয়ে ঢুকেছিল। সেই কুফরি নিয়েই বেরিয়ে গেছে। তারপর: ওয়াল্লাহু আ'লামু বিমা কানূ ইয়াকতুমূন, তারা যা গোপন করত আল্লাহ তা ভালো জানেন। এখানে নাটকীয় কিছু ঘটে না। হামলা নেই, তিন আয়াত আগের আজান নিয়ে বিদ্রূপের মতো প্রকাশ্য অপমানও নেই। পুরো অভিযোগ এটুকুই: দেখা হয়েছিল, মুখে ঠিক কথা বলা হয়েছিল, আর যারা বলেছিল তারা যেমন এসেছিল ঠিক তেমনই ফিরে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bringing It In, Carrying It Out",
+          "bn": "যা নিয়ে ঢোকা, তা নিয়েই বেরোনো"
+        },
+        "p": [
+          {
+            "en": "Ja'ukum, they come to you, addresses the believers in the plural. At-Tabari takes the you as the believers, while Ibn Kathir glosses the entry as 'indaka ya Muhammad, into your presence, O Muhammad. Both readings place the scene where the Prophet ﷺ and his companions were. The visitors' word is amanna, we believe, a whole confession in a single word. At-Tabari spells out what it claimed from their mouths: we have affirmed what your Prophet Muhammad ﷺ brought, and followed him in his religion.",
+            "bn": "জা-ঊকুম, তারা তোমাদের কাছে আসে। সম্বোধনটা বহুবচনে, মুমিনদের উদ্দেশে। তাবারী এই তোমাদের বলতে মুমিনদেরই বোঝেন। ইবন কাসীর আবার প্রবেশের ব্যাখ্যা দেন 'ইনদাকা ইয়া মুহাম্মাদ, হে মুহাম্মাদ, তোমার কাছে। দুই ব্যাখ্যাই দৃশ্যটাকে সেখানে রাখে, যেখানে নবী ﷺ ও তাঁর সাহাবিরা থাকতেন। আগন্তুকদের কথাটি আমান্না, আমরা ঈমান এনেছি। এক শব্দেই পুরো স্বীকারোক্তি। তাদের মুখে এর দাবি কী ছিল, তাবারী খুলে বলেন: তোমাদের নবী মুহাম্মাদ ﷺ যা এনেছেন আমরা তা সত্য বলে মেনেছি, আর তাঁর দ্বীনে তাঁকে অনুসরণ করেছি।"
+          },
+          {
+            "en": "The key is the small preposition bi in dakhalu bil-kufr. They did not enter into disbelief; they entered with it, the way a man walks in with a bag in his hand. Ibn Kathir's gloss is mustashibina al-kufra fi qulubihim, keeping disbelief as their companion in their hearts. As-Sa'di says they entered mushtamilina 'ala al-kufr, wrapped around it. Then the same bi returns: kharaju bihi, they went out with it. Ibn Kathir adds that they left while it lay hidden there, kamin. What walked in is what walked out.",
+            "bn": "চাবিটা ছোট্ট এক অব্যয়ে: দাখালূ বিল-কুফর, এর বি। তারা কুফরির ভেতরে ঢোকেনি, কুফরি সঙ্গে নিয়ে ঢুকেছে। যেমন কেউ হাতে থলে নিয়ে ঘরে ঢোকে। ইবন কাসীরের ব্যাখ্যা: মুসতাসহিবীনাল কুফরা ফী কুলূবিহিম, অন্তরে কুফরিকে সঙ্গী করে রেখে। সা'দী বলেন, তারা ঢুকেছিল মুশতামিলীনা 'আলাল কুফর, কুফরিকে জড়িয়ে ধরে। তারপর সেই বি আবার ফিরে আসে: খারাজূ বিহী, তারা তা নিয়েই বেরিয়ে গেল। ইবন কাসীর যোগ করেন, বেরোনোর সময়ও তা অন্তরে লুকিয়ে ছিল, কামিন হয়ে। যা ঢুকেছিল, তা-ই বেরিয়ে গেল।"
+          },
+          {
+            "en": "Two more details are visible in the Arabic itself. The particle qad stands before both verbs, so that each is stated as something that has truly taken place. And the second clause carries a pronoun the first does not: wa hum qad kharaju bihi, and they, they went out with it. Ibn Kathir comments on that clause that Allah singled them out with it, to the exclusion of others. The English abridgment of his tafsir puts the point in two words: they alone.",
+            "bn": "আরবি শব্দগুলোতেই আরও দুটি জিনিস চোখে পড়ে। দুই ক্রিয়ার আগেই বসেছে কাদ অব্যয়, ফলে দুটো কাজই বলা হয়েছে সত্যিই ঘটে যাওয়া ঘটনা হিসেবে। আর দ্বিতীয় বাক্যে এমন এক সর্বনাম আছে, যা প্রথমটিতে নেই: ওয়া হুম কাদ খারাজূ বিহী, আর তারা, তারাই তা নিয়ে বেরিয়ে গেল। এই অংশ নিয়ে ইবন কাসীর মন্তব্য করেন, আল্লাহ এখানে অন্যদের বাদ দিয়ে কেবল তাদেরকেই এর সঙ্গে জুড়ে দিয়েছেন। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কথাটা দুই শব্দে বলে: শুধু তারাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hypocrites From Among Them",
+          "bn": "তাদেরই ভেতরের মুনাফিকরা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari names the speakers directly: these are the hypocrites from among the Jews, who told the believers, We believe, while remaining on their disbelief and error. He supports it with early reports. From Qatada: people from the Jews who used to enter upon the Prophet ﷺ and tell him they were believers, content with what he had brought, while holding fast to their error and disbelief; they entered with that and left with it. From as-Suddi: these were people among the hypocrites who were Jews; they entered as disbelievers and left as disbelievers.",
+            "bn": "তাবারী সরাসরি বলে দেন এরা কারা: ইয়াহুদিদের মধ্যকার মুনাফিকরা। তারা মুমিনদের বলত, আমরা ঈমান এনেছি, অথচ নিজেদের কুফরি আর গোমরাহির উপরই অটল থাকত। নিজের কথার পক্ষে তিনি প্রথম যুগের বর্ণনা আনেন। কাতাদা বলেন, ইয়াহুদিদের কিছু লোক নবী ﷺ-এর কাছে আসত আর জানাত যে তারা মুমিন, তিনি যা এনেছেন তাতে তারা সন্তুষ্ট। অথচ নিজেদের গোমরাহি আর কুফরি তারা আঁকড়ে ধরে থাকত। তা নিয়েই ঢুকত, তা নিয়েই বেরোত। সুদ্দী বলেন, এরা ছিল মুনাফিকদের একদল, যারা ইয়াহুদি ছিল। কাফির হয়ে ঢুকেছে, কাফির হয়েই বেরিয়েছে।"
+          },
+          {
+            "en": "Through a chain reaching back to Ibn Abbas (RA), at-Tabari reports that they entered speaking the truth while their hearts kept disbelief secret. Al-Muyassar gives the same reading in plain words: the hypocrites of the Jews, who said they believed while persisting in their disbelief, and whose secrets Allah knows even when they show the opposite. Ibn Kathir calls the verse a description of the hypocrites from among them, pointing back to the People of the Book addressed in the verses before. Al-Qurtubi and al-Baghawi open simply with the hypocrites.",
+            "bn": "ইবন আব্বাস (রাঃ) পর্যন্ত পৌঁছানো এক সনদে তাবারী বর্ণনা করেন: তারা মুখে সত্য কথা বলতে বলতে ঢুকত, আর অন্তরে কুফরি গোপন রাখত। মুয়াসসার একই ব্যাখ্যা দেয় সহজ ভাষায়। এরা ইয়াহুদিদের মুনাফিক, যারা বলত আমরা ঈমান এনেছি, অথচ কুফরিতেই অটল ছিল। তারা বাইরে উল্টোটা দেখালেও তাদের গোপন কথা আল্লাহ জানেন। ইবন কাসীর আয়াতটিকে বলেন তাদের মধ্যকার মুনাফিকদের বর্ণনা। এখানে তাদের বলতে আগের আয়াতগুলোতে সম্বোধিত আহলে কিতাবকেই বোঝানো হয়েছে। কুরতুবী আর বাগাভী শুরুই করেন শুধু মুনাফিকদের কথা দিয়ে।"
+          },
+          {
+            "en": "A second reading stands beside the first. Al-Qurtubi and al-Baghawi both record, under the words it was said, that the verse means the faction of the People of the Book quoted in 3:72, who told one another to believe in what was revealed to the believers at the start of the day and reject it at its end. Al-Qurtubi gives the detail: believe when you enter Madinah, disbelieve when you return home, and says the surrounding verses support it. At-Tabari carries the same link from Ibn Zayd, and lists it among the reports that agree with his own reading, so for him the two describe one group.",
+            "bn": "প্রথম ব্যাখ্যার পাশে আরেকটি ব্যাখ্যাও আছে। কুরতুবী ও বাগাভী দুজনেই 'বলা হয়েছে' কথাটি দিয়ে উল্লেখ করেন, আয়াতটি আহলে কিতাবের সেই দলকে বোঝায় যাদের কথা ৩:৭২ আয়াতে এসেছে। তারা একে অপরকে বলত, মুমিনদের উপর যা নাজিল হয়েছে দিনের শুরুতে তাতে ঈমান আনো আর দিনের শেষে অস্বীকার করো। কুরতুবী খুঁটিনাটিও দেন: মদিনায় ঢোকার সময় ঈমান আনো, ঘরে ফিরে গিয়ে কুফরি করো। তাঁর মতে আগে-পরের আয়াতগুলো এ ব্যাখ্যার পক্ষে। তাবারীও ইবন যায়দ থেকে একই যোগসূত্র আনেন, আর সেটিকে রাখেন নিজের ব্যাখ্যার সমর্থক বর্ণনাগুলোর তালিকায়। অর্থাৎ তাঁর কাছে দুটো ব্যাখ্যা একই দলের কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard Everything, Kept Nothing",
+          "bn": "সবই শুনল, কিছুই রাখল না"
+        },
+        "p": [
+          {
+            "en": "What sharpens the image is where they had been sitting. Ibn Kathir says they came into the Prophet's presence ﷺ and went out with disbelief still lying hidden in their hearts: they did not benefit from the knowledge they had heard from him, and neither the exhortations nor the warnings took effect in them. Al-Qurtubi says it in one line: the meaning is that they gained nothing from anything they heard. They had sat where revelation was explained by the one to whom it came, and walked out untouched.",
+            "bn": "ছবিটা আরও তীক্ষ্ণ হয় যখন মনে পড়ে তারা কোথায় বসে ছিল। ইবন কাসীর বলেন, তারা নবী ﷺ-এর কাছে আসত, আর বেরিয়ে যেত অন্তরে কুফরি লুকিয়ে রেখেই। তাঁর কাছ থেকে যে ইলম শুনত তা তাদের কোনো কাজে আসেনি। নসিহত বা সতর্কবাণী, কোনোটাই তাদের উপর প্রভাব ফেলেনি। কুরতুবী একটিমাত্র বাক্যে বলেন: অর্থ হলো, যা কিছু শুনেছে তার কিছুই তাদের উপকারে আসেনি। যাঁর উপর ওহি নাজিল হচ্ছিল, তিনি নিজে ওহির ব্যাখ্যা দিচ্ছিলেন, আর তারা সেখানে বসে থেকেও অস্পৃষ্ট অবস্থায় বেরিয়ে গেল।"
+          },
+          {
+            "en": "At-Tabari adds what lay behind the posture. Their coming to the believers did not turn them back from their disbelief and error, and they supposed that what they were doing was hidden from Allah, out of ignorance of Allah. The concealment, in his reading, was aimed higher than the believers. As-Sa'di measures how low the state was: their \"we believe\" was said in hypocrisy and scheming, their entry and their exit were both with disbelief while they claimed to be believers, and he asks whether anyone is worse than these or in an uglier state.",
+            "bn": "এই আচরণের পেছনে কী ছিল, তাবারী তা যোগ করেন। মুমিনদের কাছে আসা তাদের কুফরি আর গোমরাহি থেকে ফেরাতে পারেনি। তারা ভাবত, তাদের এ কাজ আল্লাহর কাছে গোপন থাকবে। আর এই ভাবনা আসত আল্লাহ সম্পর্কে তাদের অজ্ঞতা থেকে। তাবারীর পাঠে তাই লুকোচুরিটা কেবল মুমিনদের থেকে ছিল না, তারা আল্লাহর থেকেও লুকাতে চাইত। সা'দী মাপেন অবস্থাটা কত নিচে নেমেছিল। তাদের 'আমরা ঈমান এনেছি' কথাটা ছিল নিফাক আর চক্রান্ত। ঢোকাও কুফরি নিয়ে, বেরোনোও কুফরি নিয়ে, অথচ দাবি করে তারা মুমিন। তিনি প্রশ্ন রাখেন, এদের চেয়ে খারাপ আর এদের চেয়ে কুৎসিত অবস্থার কেউ কি আছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Better Known Than Self-Known",
+          "bn": "নিজেকে যতটা জানে, তার চেয়েও বেশি"
+        },
+        "p": [
+          {
+            "en": "The verse closes on a'lam, most knowing, a comparative form. Ibn Kathir unpacks it: Allah knows their secrets and what their consciences enfold, even if they show His creatures the opposite and adorn themselves with what is not in them, for the Knower of the unseen and the seen knows them better than they know themselves, and He will repay them for it in full. As-Sa'di draws the same consequence more briefly: He will recompense them for their deeds, the good of them and the bad.",
+            "bn": "আয়াতটি শেষ হয় আ'লাম শব্দে, সবচেয়ে ভালো জানেন। শব্দটা তুলনামূলক রূপের। ইবন কাসীর এর ব্যাখ্যা দেন এভাবে: তাদের গোপন কথা আর অন্তরে যা ভাঁজ করে রাখা আছে, আল্লাহ সবই জানেন। সৃষ্টির সামনে তারা উল্টোটা দেখালেও, নিজেদের এমন গুণে সাজালেও যা তাদের মধ্যে নেই। কারণ দৃশ্য-অদৃশ্যের জ্ঞানী তাদেরকে তাদের নিজেদের চেয়েও ভালো জানেন, আর এর পূর্ণ প্রতিফল তিনি তাদের দেবেন। সা'দী সংক্ষেপে একই পরিণতির কথা বলেন: তিনি তাদের আমলের প্রতিদান দেবেন, ভালো হোক বা মন্দ।"
+          },
+          {
+            "en": "The Qur'an draws this figure more than once, and each time the last word belongs to Allah's knowledge. In 2:14 those who meet the believers say, We believe, and when alone with their evil ones say they were only mocking. In 3:119 they say, We believe, and in private bite their fingertips in rage, and the verse ends: Allah is Knowing of that within the breasts. In 63:1 the hypocrites testify that the Prophet ﷺ is the Messenger of Allah, and Allah, who knows he is His Messenger, testifies that they are liars.",
+            "bn": "এই চরিত্র কুরআনে একাধিকবার এসেছে, আর প্রতিবারই শেষ কথাটা আল্লাহর জ্ঞানের। ২:১৪ আয়াতে তারা মুমিনদের সঙ্গে দেখা হলে বলে, আমরা ঈমান এনেছি। আর নিজেদের শয়তানদের সঙ্গে একান্তে মিলিত হলে বলে, আমরা তো কেবল ঠাট্টা করছিলাম। ৩:১১৯ আয়াতে তারা বলে, আমরা ঈমান এনেছি, অথচ আড়ালে গিয়ে রাগে আঙুল কামড়ায়। আয়াত শেষ হয় এই কথায়: অন্তরে যা আছে আল্লাহ তা জানেন। ৬৩:১ আয়াতে মুনাফিকরা সাক্ষ্য দেয় যে নবী ﷺ আল্লাহর রাসূল। আর আল্লাহ, যিনি জানেন তিনি তাঁরই রাসূল, সাক্ষ্য দেন যে মুনাফিকরা মিথ্যাবাদী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Ordered to Search Hearts",
+          "bn": "অন্তর খুঁড়ে দেখার হুকুম নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a sound hadith to it, and none cites an occasion of revelation beyond the descriptions from Qatada and as-Suddi given above. Two narrations from the Sahih collections, not attached to this verse, show how the Prophet ﷺ himself treated the distance between the tongue and the heart, which is exactly the distance this verse describes. They are background to the verse, not commentary on its words.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। ওপরে কাতাদা ও সুদ্দীর বর্ণনার বাইরে কোনো শানে নুযূলও কেউ উল্লেখ করেননি। তবে সহীহ গ্রন্থের দুটি বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়। মুখের কথা আর অন্তরের মধ্যে যে দূরত্ব, নবী ﷺ নিজে তার সঙ্গে কেমন আচরণ করতেন, এ দুটি তা দেখায়। আর এ আয়াত ঠিক সেই দূরত্বেরই বর্ণনা। তাই এগুলো এখানে আয়াতের পটভূমি হিসেবে আসছে, এর শব্দের ব্যাখ্যা হিসেবে নয়।"
+          },
+          {
+            "en": "Al-Bukhari (4351) narrates from Abu Sa'id al-Khudri (RA) that after a man rebuked the Prophet ﷺ over a distribution of gold, Khalid ibn al-Walid (RA) asked leave to strike his neck. The Prophet ﷺ said, \"No, for he may offer prayers.\" Khalid said, \"Numerous are those who offer prayers and say by their tongues what is not in their hearts.\" Allah's Messenger ﷺ said, \"I have not been ordered (by Allah) to search the hearts of the people or cut open their bellies.\"",
+            "bn": "বুখারী (৪৩৫১) আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন: সোনা বণ্টন নিয়ে এক লোক নবী ﷺ-কে কটু কথা বলল। খালিদ ইবন ওয়ালীদ (রাঃ) তার গর্দান উড়িয়ে দেওয়ার অনুমতি চাইলেন। নবী ﷺ বললেন, \"না, হয়তো সে নামাজ পড়ে।\" খালিদ বললেন, \"কত নামাজি আছে, যারা মুখে এমন কথা বলে যা তাদের অন্তরে নেই।\" আল্লাহর রাসূল ﷺ বললেন, \"মানুষের অন্তর খুঁড়ে দেখতে বা তাদের পেট চিরে দেখতে আমাকে (আল্লাহর পক্ষ থেকে) আদেশ দেওয়া হয়নি।\""
+          },
+          {
+            "en": "Muslim (2564) narrates from Abu Hurayrah (RA) that the Messenger of Allah ﷺ said: \"Verily Allah does not look to your faces and your wealth but He looks to your heart and to your deeds.\" Read beside 5:61, the two narrations divide the work. People deal with what is said and done in the open; what a heart conceals is seen by Allah. The verse itself keeps that order: it reports what the visitors said at the door, and leaves what they hid to His knowledge.",
+            "bn": "মুসলিম (২৫৬৪) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"নিশ্চয়ই আল্লাহ তোমাদের চেহারা ও সম্পদের দিকে তাকান না, বরং তিনি তাকান তোমাদের অন্তর ও আমলের দিকে।\" ৫:৬১ আয়াতের পাশে রেখে পড়লে বর্ণনা দুটি দায়িত্ব ভাগ করে দেয়। মানুষ লেনদেন করে প্রকাশ্যে যা বলা হয় আর করা হয় তা নিয়ে। অন্তরে কী লুকানো, তা দেখেন আল্লাহ। আয়াতটিও এই ক্রম মেনে চলে। আগন্তুকরা দরজায় কী বলেছিল তা জানায়, আর তারা যা লুকিয়েছিল তা ছেড়ে দেয় আল্লাহর জ্ঞানের হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Warrant for Suspicion",
+          "bn": "সন্দেহের কোনো ছাড়পত্র নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a particular group in Madinah, in the Prophet's lifetime ﷺ, whose hidden disbelief was known to Allah and disclosed by revelation. It licenses nothing against any living person or community. It gives no one the right to declare that a Jewish neighbour, colleague or convert is lying about what is in his heart, and no right to treat a Muslim who says I believe as a suspect. The knowledge the verse rests on is Allah's, and its last words say so.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। নবী ﷺ-এর জীবদ্দশায় মদিনার একটি নির্দিষ্ট দল, যাদের গোপন কুফরি আল্লাহ জানতেন এবং ওহির মাধ্যমে প্রকাশ করে দিয়েছিলেন। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো ইয়াহুদি প্রতিবেশী, সহকর্মী বা নওমুসলিম অন্তরের ব্যাপারে মিথ্যা বলছে, এমন রায় দেওয়ার অধিকার এটি কাউকে দেয় না। যে মুসলিম বলে আমি ঈমান এনেছি, তাকে সন্দেহভাজন ভাবার অধিকারও দেয় না। আয়াতের ভিত্তি আল্লাহর জ্ঞান, আর এর শেষ বাক্যই সে কথা বলে দেয়।"
+          },
+          {
+            "en": "The commentators drew their identification from early reports about that time and place, and even they set them down with care, as at-Tabari's chains of narrators and al-Qurtubi's it was said both show. A reader today has no revelation about anyone's heart. What remains to him is the rule in the narration above: the Prophet ﷺ was not ordered to search hearts. Whoever picks up this verse as a tool for suspecting others is holding something the verse never handed him.",
+            "bn": "তাফসীরকারেরা এই দলকে চিনেছেন সেই সময় ও স্থানের প্রথম যুগের বর্ণনা থেকে। তাঁরাও সেগুলো লিখেছেন সাবধানে। তাবারী প্রতিটি বর্ণনার সনদ উল্লেখ করেছেন, কুরতুবী লিখেছেন 'বলা হয়েছে'। আজকের পাঠকের কাছে কারও অন্তর সম্পর্কে কোনো ওহি আসে না। তার জন্য থাকে ওপরের বর্ণনার নিয়মটুকু: নবী ﷺ-কে মানুষের অন্তর খুঁড়ে দেখার আদেশ দেওয়া হয়নি। যে এ আয়াতকে অন্যকে সন্দেহ করার হাতিয়ার বানায়, সে এমন জিনিস হাতে তুলে নিয়েছে যা আয়াত তাকে কখনো দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaving the Way I Came",
+          "bn": "যেমন ঢুকি, তেমনই কি বেরোই"
+        },
+        "p": [
+          {
+            "en": "The verse is kinder to its reader than it looks: the failure it describes can be checked in oneself without accusing anyone. The people in it heard the best speech from the best speaker and kept nothing. A Muslim today walks into a Friday sermon, a study circle or a page of the Qur'an, says the right words, and can walk out with whatever he brought in: the same grudge, the same habit, the same plan for the evening. That is not the disbelief the verse describes, but its pattern is close enough to fear.",
+            "bn": "প্রথম দেখায় যতটা কঠোর মনে হয়, পাঠকের প্রতি আয়াতটি তার চেয়ে কোমল। কারণ এখানে বর্ণিত ব্যর্থতা অন্য কাউকে দোষ না দিয়েও নিজের মধ্যে যাচাই করা যায়। আয়াতের লোকেরা শ্রেষ্ঠ বক্তার মুখে শ্রেষ্ঠ কথা শুনেছিল, কিন্তু কিছুই সঙ্গে রাখেনি। আজকের একজন মুসলিম জুমার খুতবায়, দ্বীনি মজলিসে বা কুরআনের পাতায় ঢোকেন, মুখে ঠিক কথাগুলো বলেন। তারপর যা নিয়ে ঢুকেছিলেন তা নিয়েই বেরিয়ে যেতে পারেন: সেই একই ক্ষোভ, সেই একই অভ্যাস, সন্ধ্যার সেই একই পরিকল্পনা। এটা আয়াতে বর্ণিত কুফরি নয়। কিন্তু ধরনটা এত কাছাকাছি যে ভয় পাওয়ার মতো।"
+          },
+          {
+            "en": "What these people lacked, in Ibn Kathir's words, was benefit from what they heard; the exhortations did not take effect in them. So the practical question is small. What did I take out of the last reminder I heard, and what has it changed? And because Allah knows best what is concealed, the honest answer is the answer given to Him, not to the people at the door.",
+            "bn": "ইবন কাসীরের ভাষায়, এই লোকদের যা ছিল না তা হলো শোনা কথা থেকে উপকার নেওয়া। নসিহত তাদের উপর কাজ করেনি। তাই বাস্তব প্রশ্নটা ছোট। শেষ যে নসিহত শুনেছি, সেখান থেকে কী নিয়ে বেরিয়েছি, আর তা কী বদলেছে? আর যেহেতু গোপন কথা আল্লাহই সবচেয়ে ভালো জানেন, তাই সৎ উত্তরটা সেটাই যা তাঁকে দেওয়া হয়, দরজার মানুষদের দেওয়া উত্তর নয়।"
+          },
+          {
+            "en": "A supplication from the Qur'an fits the moment of leaving any such gathering: Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower (3:8). It asks for the opposite of what this verse describes. The visitors came in closed and went out closed. The one who makes this du'a asks to come in open, to go out still guided, and to carry home a little more than he brought.",
+            "bn": "এমন যেকোনো মজলিস থেকে বেরোনোর মুহূর্তে কুরআনের একটি দোয়া খুব মানায়: হে আমাদের রব, হিদায়াত দেওয়ার পর আমাদের অন্তরকে বাঁকা করে দিয়ো না, আর তোমার কাছ থেকে আমাদের রহমত দান করো। নিশ্চয়ই তুমিই মহান দাতা (৩:৮)। এ আয়াত যা বর্ণনা করে, দোয়াটি চায় ঠিক তার উল্টো। আগন্তুকরা বন্ধ মন নিয়ে ঢুকেছিল, বন্ধ মন নিয়েই বেরিয়েছিল। যে এই দোয়া করে, সে চায় খোলা মন নিয়ে ঢুকতে, হিদায়াতের উপর থেকেই বেরোতে, আর যা নিয়ে এসেছিল তার চেয়ে একটু বেশি নিয়ে ঘরে ফিরতে।"
+          }
+        ]
+      }
+    ]
+  },
   "5:64": {
     "sections": [
       {
