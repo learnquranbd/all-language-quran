@@ -6682,5 +6682,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "9:128": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Surah Turns Its Face",
+          "bn": "সূরা যেখানে মুখ ফেরায়"
+        },
+        "p": [
+          {
+            "en": "The verses just before this belong to the hypocrites. Whenever a surah comes down, some of them ask whose faith it has increased (9:124); others glance at each other, ask whether anyone can see them, and slip away, and Allah has turned their hearts aside (9:127). Then the verse opens with laqad, there has certainly come to you, and the address changes. Those verses describe people of that time and license no charge against anyone living today. Now the surah describes the Messenger who brought the message.",
+            "bn": "এর ঠিক আগের আয়াতগুলো মুনাফিকদের নিয়ে। কোনো সূরা নাযিল হলে তাদের কেউ জিজ্ঞেস করে, এতে কার ঈমান বাড়ল (৯:১২৪)। কেউ আবার একে অপরের দিকে তাকায়, দেখে নেয় কেউ দেখছে কি না, তারপর সরে পড়ে। আল্লাহ তাদের অন্তর ফিরিয়ে দিয়েছেন (৯:১২৭)। এরপর আয়াত শুরু হয় লাকাদ দিয়ে: নিশ্চয়ই তোমাদের কাছে এসেছেন। সঙ্গে সঙ্গে সম্বোধনের সুর বদলে যায়। ওই আয়াতগুলো সে সময়ের কিছু মানুষের বর্ণনা। আজকের কোনো জীবিত মানুষের বিরুদ্ধে অভিযোগ তোলার অনুমতি তা দেয় না। এবার সূরা কথা বলে বাণীর বাহক রাসূলকে নিয়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an finds the placement fitting. The surah, it notes, has been full of the declaration of withdrawal from the disbelievers, the final severance of ties with them and fighting against them, which it calls the last resort of the call to Allah. The basic function of the prophets, it continues, is to invite people to Allah's way with love, affection, sympathy and an earnest desire for their well-being. The next verse, 9:129, completes the close: if they turn away, say, Allah suffices me.",
+            "bn": "মাআরিফুল কুরআনের মতে এ জায়গায় আয়াতটি খুব মানানসই। এ সূরায় এসেছে কাফিরদের সঙ্গে সম্পর্কচ্ছেদের ঘোষণা, তাদের সঙ্গে চূড়ান্ত বিচ্ছেদ, তারপর তাদের বিরুদ্ধে যুদ্ধ। মাআরিফ এটাকে বলে আল্লাহর পথে দাওয়াতের শেষ উপায়। নবীদের আসল কাজ, মাআরিফ বলে, মানুষকে আল্লাহর পথে ডাকা ভালোবাসা, স্নেহ আর সহানুভূতি দিয়ে, তাদের কল্যাণের আন্তরিক কামনা নিয়ে। পরের আয়াত ৯:১২৯ সমাপ্তিটা পূর্ণ করে: তারা মুখ ফিরিয়ে নিলে বলো, আল্লাহই আমার জন্য যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Man Whose Life You Knew",
+          "bn": "যাঁর জীবন তোমাদের চেনা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari hears Allah speaking to the Arabs: there has come to you, O people, Allah's Messenger, min anfusikum, one you know and not one from outside, whom you might suspect in his sincere counsel to you. He cites Qatada for a second reason: Allah made him one of them so that they would not envy him the prophethood and honour Allah gave him. As-Sa'di draws out what such nearness allows: they know his condition, can take knowledge from him, and do not disdain to follow him.",
+            "bn": "তাবারী এখানে শোনেন আরবদের প্রতি আল্লাহর সম্বোধন: হে লোকসকল, তোমাদের কাছে আল্লাহর রাসূল এসেছেন মিন আনফুসিকুম, তোমাদেরই একজন। তাঁকে তোমরা চেনো, তিনি বাইরের কেউ নন যে তোমাদের প্রতি তাঁর আন্তরিক উপদেশে তোমরা সন্দেহ করবে। কাতাদা থেকে তিনি আরেকটি কারণ আনেন। আল্লাহ তাঁকে তাদেরই একজন বানিয়েছেন, যাতে নবুওয়াত আর সম্মান নিয়ে তারা তাঁকে হিংসা না করে। সা'দী দেখান এই নৈকট্যের ফল। তারা তাঁর অবস্থা জানে, তাঁর কাছ থেকে শিখতে পারে, তাঁকে মানতে তাদের অহংকারে বাধে না।"
+          },
+          {
+            "en": "Al-Qurtubi records a difference over who is addressed. Most, he says, take it as the Arabs, the verse counting out a favour to them: he came in their tongue and with what they understood, and they were honoured by him for all time. Az-Zajjaj took it as addressed to the whole world, meaning a messenger from among human beings. Al-Qurtubi calls the first more correct, yet says the second makes the argument firmer: he is a human like you, so that you may understand from him and follow him.",
+            "bn": "কাকে সম্বোধন করা হয়েছে, এ নিয়ে কুরতুবী মতভেদ উল্লেখ করেন। অধিকাংশের মতে সম্বোধন আরবদের প্রতি। আয়াতটি তাদের উপর একটি অনুগ্রহের কথা মনে করিয়ে দেয়: তিনি এসেছেন তাদের ভাষায়, তারা যা বোঝে তা নিয়ে, আর তাঁর কারণে তারা চিরকালের মর্যাদা পেয়েছে। যাজ্জাজের মতে সম্বোধন গোটা জগতের প্রতি, অর্থাৎ মানুষের মধ্য থেকেই একজন রাসূল। কুরতুবী প্রথম মতকে বেশি সঠিক বলেন। তবু তিনি মানেন, দ্বিতীয় মতে যুক্তিটা আরও মজবুত হয়: তিনি তোমাদের মতোই মানুষ, যাতে তাঁর কথা তোমরা বুঝতে পারো আর তাঁকে অনুসরণ করতে পারো।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse as a favour Allah reminds the believers of: a messenger of their own kind and language. He sets beside it the prayer of Ibrahim (AS) in 2:129, send among them a messenger from among them, and 3:164, Allah conferred a favour on the believers when He sent among them a messenger from themselves. He adds that Ja'far ibn Abi Talib said as much to the Negus, and al-Mughira ibn Shu'ba to the envoy of Chosroes: Allah sent among us a messenger from us whose lineage, truthfulness and trustworthiness we knew.",
+            "bn": "ইবন কাসীর আয়াতটিকে পড়েন মু'মিনদের প্রতি আল্লাহর অনুগ্রহের স্মরণ হিসেবে: তাদেরই জাতির, তাদেরই ভাষার একজন রাসূল। এর পাশে তিনি রাখেন ২:১২৯ আয়াতে ইবরাহীম (আঃ)-এর দোয়া, তাদের মধ্যে তাদেরই একজনকে রাসূল করে পাঠাও। আরও রাখেন ৩:১৬৪: আল্লাহ মু'মিনদের উপর অনুগ্রহ করেছেন, যখন তাদের মধ্যে তাদেরই একজনকে রাসূল করে পাঠিয়েছেন। তিনি জানান, জা'ফর ইবন আবী তালিব (রাঃ) নাজাশীর সামনে আর মুগীরা ইবন শু'বা (রাঃ) কিসরার দূতের সামনে একই কথা বলেছিলেন। আল্লাহ আমাদের মধ্যে আমাদেরই একজনকে রাসূল করে পাঠিয়েছেন, যাঁর বংশ, সততা আর আমানতদারি আমাদের জানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lineage and a Fatha Reading",
+          "bn": "বংশধারা আর যবরের কিরাআত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi finds in min anfusikum praise of the Prophet's lineage: he came from the very core of the Arabs. In support he cites Sahih Muslim (2276), from Wathila ibn al-Asqa', who heard the Messenger ﷺ say: \"Allah chose Kinana from the descendants of Isma'il, chose Quraysh from Kinana, chose Banu Hashim from Quraysh, and chose me from Banu Hashim.\" Muslim includes it in his Sahih. It speaks of his descent in general; al-Qurtubi brings it here, but it is not a report about this verse.",
+            "bn": "মিন আনফুসিকুম কথাটিতে কুরতুবী নবী ﷺ-এর বংশের প্রশংসা দেখেন: তিনি আরবদের একেবারে খাঁটি মূল থেকে এসেছেন। প্রমাণ হিসেবে তিনি আনেন সহীহ মুসলিমের (২২৭৬) বর্ণনা। ওয়াসিলা ইবনুল আসকা' (রাঃ) রাসূলুল্লাহ ﷺ-কে বলতে শুনেছেন: \"আল্লাহ ইসমাঈলের বংশধরদের মধ্য থেকে কিনানাকে বেছে নিয়েছেন, কিনানা থেকে কুরাইশকে, কুরাইশ থেকে বনু হাশিমকে, আর বনু হাশিম থেকে আমাকে।\" মুসলিম এটি তাঁর সহীহ গ্রন্থে এনেছেন। হাদীসটি তাঁর বংশ নিয়ে সাধারণ কথা। কুরতুবী একে এখানে এনেছেন, তবে এটি এ আয়াত সম্পর্কিত কোনো বর্ণনা নয়।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both relay from Ibn 'Abbas that there is no tribe of the Arabs which did not bear the Prophet ﷺ, so that he has kinship in every one. At-Tabari and al-Baghawi relay from Ja'far ibn Muhammad that nothing of the births of the Jahiliyya touched him. Under this clause at-Tabari, Ibn Kathir, al-Qurtubi and al-Baghawi also bring a saying attributed to the Prophet ﷺ on the marriages in his ancestry. None of them grades it, it is not in a collection fetched for this verse, and it is not quoted here.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: আরবের এমন কোনো গোত্র নেই যারা নবী ﷺ-এর জন্মে অংশ নেয়নি। ফলে প্রতিটি গোত্রে তাঁর আত্মীয়তা আছে। তাবারী ও বাগাভী জা'ফর ইবন মুহাম্মাদ থেকে বর্ণনা করেন, জাহিলিয়াতের জন্মের কোনো কিছু তাঁকে স্পর্শ করেনি। এ অংশের আলোচনায় তাবারী, ইবন কাসীর, কুরতুবী ও বাগাভী নবী ﷺ-এর নামে প্রচলিত একটি কথাও আনেন, তাঁর পূর্বপুরুষদের বিবাহ নিয়ে। তাঁদের কেউ এর মান নির্ণয় করেননি। এ আয়াতের জন্য যে হাদীসগ্রন্থগুলো দেখা হয়েছে তাতেও এটি নেই। তাই এখানে কথাটি উদ্ধৃত করা হলো না।"
+          },
+          {
+            "en": "A second reading changes one vowel. Al-Baghawi reports that Ibn 'Abbas, az-Zuhri and Ibn Muhaysin read min anfasikum, with fatha on the fa', meaning from the noblest and best of you. Al-Qurtubi gives the same reading from 'Abdullah ibn Qusayt al-Makki and explains it from nafasa, preciousness: a thing is called nafis when it is sought after. He adds a further gloss, introduced with it is said: the most obedient of you. The received text reads anfusikum, from yourselves; the other reading is reported beside it.",
+            "bn": "আরেকটি কিরাআতে বদলে যায় শুধু একটি হরকত। বাগাভী জানান, ইবন আব্বাস (রাঃ), যুহরী ও ইবন মুহাইসিন পড়েছেন মিন আনফাসিকুম, ফা অক্ষরে যবর দিয়ে। অর্থ দাঁড়ায়: তোমাদের মধ্যে যিনি সবচেয়ে সম্ভ্রান্ত ও শ্রেষ্ঠ। কুরতুবী একই কিরাআত আনেন আবদুল্লাহ ইবন কুসাইত আল-মাক্কী থেকে, আর ব্যাখ্যা করেন নাফাসাহ শব্দ দিয়ে, যার মানে মূল্যবান হওয়া। কোনো জিনিসকে নাফীস বলা হয় যখন মানুষ তা পেতে চায়। 'বলা হয়' বলে তিনি আরেকটি অর্থও আনেন: তোমাদের মধ্যে সবচেয়ে অনুগত। প্রচলিত পাঠ আনফুসিকুম, তোমাদের নিজেদের মধ্য থেকে। অন্য কিরাআতটি তার পাশে বর্ণিত হয়েছে মাত্র।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Hardship, Heavy on Him",
+          "bn": "তোমাদের কষ্ট, তাঁর কাছে ভারী"
+        },
+        "p": [
+          {
+            "en": "'Azizun 'alayhi ma 'anittum. Al-Qurtubi glosses it as: your hardship is heavy on him. 'Anat is hardship, from the Arabs' name for a hill that is hard and ruinous to climb. He quotes Ibn al-Anbari that the root of the word is pressing hard: one who does this to another holds him to what is difficult for him to carry out. The ma, he says, turns the verb into a noun, your suffering. At-Tabari reads it the same way and defines 'anat as hardship, harm and what is hateful coming upon them.",
+            "bn": "আযীযুন আলাইহি মা আনিত্তুম। কুরতুবী এর অর্থ করেন: তোমাদের কষ্ট তাঁর কাছে ভারী। আনাত মানে কষ্ট। আরবরা যে টিলায় চড়া কঠিন আর প্রাণঘাতী, তাকে এই শব্দমূল থেকে নাম দেয়। ইবনুল আম্বারী থেকে তিনি উদ্ধৃত করেন, শব্দটির মূল অর্থ কড়াকড়ি করা। কেউ কারও সঙ্গে এমন করলে তাকে এমন কাজে বাধ্য করে, যা পালন করা তার পক্ষে কঠিন। কুরতুবীর মতে এখানে মা ক্রিয়াটিকে বিশেষ্যে পরিণত করে: তোমাদের কষ্ট পাওয়া। তাবারীও একইভাবে পড়েন। তাঁর ব্যাখ্যায় আনাত হলো তাদের উপর নেমে আসা কষ্ট, অপছন্দনীয় বিষয় আর যন্ত্রণা।"
+          },
+          {
+            "en": "Whose hardship is meant? At-Tabari cites Ibn 'Abbas: ma dalaltum, your going astray. He cites Qatada: the hardship of their believers. At-Tabari prefers Ibn 'Abbas, because Allah made the statement general and did not confine it to the believers. He then raises an objection: how could the hardship of all of them grieve him, when he fought those who disbelieved? His answer: their Islam, had they accepted it, was dearer to him than their remaining in denial. What weighed on him was that they should go astray and so bring hardship on themselves.",
+            "bn": "কার কষ্টের কথা বলা হচ্ছে? তাবারী ইবন আব্বাস (রাঃ)-এর কথা আনেন: মা দালালতুম, তোমাদের পথভ্রষ্ট হওয়া। কাতাদার কথাও আনেন: তাদের মু'মিনদের কষ্ট। তাবারী ইবন আব্বাসের মতকেই অগ্রাধিকার দেন। কারণ আল্লাহ কথাটি সবার জন্য সাধারণভাবে বলেছেন, শুধু মু'মিনদের সঙ্গে বেঁধে দেননি। এরপর তিনি নিজেই একটা আপত্তি তোলেন। তিনি তো কাফিরদের বিরুদ্ধে যুদ্ধ করেছেন, তাহলে সবার কষ্ট তাঁকে ব্যথা দেয় কীভাবে? তাবারীর জবাব: তারা ইসলাম গ্রহণ করলে সেটাই তাঁর কাছে বেশি প্রিয় হতো, অস্বীকারে অটল থাকার চেয়ে। তাঁর কাছে ভারী ছিল এটাই যে তারা পথ হারাবে, আর নিজেরাই নিজেদের উপর কষ্ট ডেকে আনবে।"
+          },
+          {
+            "en": "Ibn Kathir turns the clause toward the law: whatever burdens his community and weighs on it is hard on him, which is why the whole of his sharia is easy and lenient. He points to the Sahih for the saying that the religion is ease. Al-Bukhari's wording (39), from Abu Hurayra, is general and not tied to this verse: \"The religion is ease, and no one makes the religion hard for himself but it overpowers him. So keep to what is right, come close to it, receive glad tidings, and seek help in the morning, the evening and part of the night.\"",
+            "bn": "ইবন কাসীর অংশটিকে শরীআতের দিকে ঘোরান। উম্মতের উপর যা বোঝা হয়ে চাপে, তা তাঁর কাছে কঠিন। এ কারণেই তাঁর গোটা শরীআত সহজ ও উদার। দ্বীন সহজ, এ কথার জন্য তিনি সহীহের উল্লেখ করেন। বুখারীর বর্ণনা (৩৯), আবূ হুরায়রা (রাঃ) থেকে, সাধারণ কথা, এ আয়াতের সঙ্গে বাঁধা নয়: \"দ্বীন সহজ। যে কেউ দ্বীনকে নিজের উপর কঠিন করে তুলবে, দ্বীন তাকে হারিয়ে দেবে। তাই সঠিক পথে থাকো, তার কাছাকাছি থাকো, সুসংবাদ গ্রহণ করো, আর সকালে, বিকেলে ও রাতের কিছু অংশে সাহায্য নাও।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loath to See You Lost",
+          "bn": "হারিয়ে যেতে দিতে নারাজ"
+        },
+        "p": [
+          {
+            "en": "Harisun 'alaykum: eager over you. At-Tabari: eager for the guidance of those of you who are astray, for their repentance and their return to the truth. He quotes Qatada twice: eager that Allah should guide whoever has strayed, and eager that whoever has not yet accepted Islam should accept it. Ibn Kathir widens the object: eager for your guidance and for benefit to reach you in this world and the next. The Muyassar: eager for your faith and for your affairs to be set right.",
+            "bn": "হারীসুন আলাইকুম: তোমাদের জন্য ব্যাকুল। তাবারীর ব্যাখ্যায়, তোমাদের মধ্যে যারা পথ হারিয়েছে তাদের হিদায়াত, তাদের তওবা আর সত্যে ফিরে আসার জন্য তিনি ব্যাকুল। কাতাদা থেকে তিনি দুটি কথা আনেন। এক, যে পথ হারিয়েছে আল্লাহ যেন তাকে হিদায়াত দেন, এর জন্য তিনি ব্যাকুল। দুই, যে এখনো ইসলাম গ্রহণ করেনি সে যেন গ্রহণ করে। ইবন কাসীর পরিসর আরও বাড়ান: তোমাদের হিদায়াতের জন্য, আর দুনিয়া ও আখিরাতের কল্যাণ তোমাদের কাছে পৌঁছানোর জন্য ব্যাকুল। মুয়াসসার বলে: তোমাদের ঈমান আর তোমাদের অবস্থা ঠিক হয়ে যাওয়ার জন্য ব্যাকুল।"
+          },
+          {
+            "en": "As-Sa'di describes the eagerness as two movements. He loves good for you and strives with all his effort to bring it to you, keen to guide you to faith; and he hates evil for you and strives with all his effort to turn you away from it. Al-Qurtubi gives the sense of the word through al-Farra': hirs over a thing is to be loath to let it be lost and ruined. So al-Farra' glosses the phrase with shahih, a word for holding on tight: he is unwilling to let you go into the Fire.",
+            "bn": "সা'দী এই ব্যাকুলতাকে দুই দিকের চেষ্টা হিসেবে দেখান। তিনি তোমাদের জন্য কল্যাণ ভালোবাসেন, সর্বশক্তি দিয়ে তা তোমাদের কাছে পৌঁছাতে চেষ্টা করেন, তোমাদের ঈমানের পথে আনতে উদগ্রীব থাকেন। আবার তোমাদের জন্য অকল্যাণ অপছন্দ করেন, সর্বশক্তি দিয়ে তোমাদের তা থেকে দূরে সরাতে চেষ্টা করেন। কুরতুবী শব্দটির অর্থ দেন ফাররার সূত্রে: কোনো জিনিসের প্রতি হিরস মানে তা নষ্ট হয়ে হারিয়ে যেতে দিতে মন না চাওয়া। তাই ফাররা কথাটির ব্যাখ্যায় আনেন শাহীহ শব্দ, যে শক্ত করে আঁকড়ে রাখে। তোমাদের জাহান্নামে যেতে দিতে তিনি নারাজ।"
+          },
+          {
+            "en": "Al-Qurtubi also quotes an-Nahhas, who calls this the best that has been said in keeping with Arabic usage: 'Abdullah ibn Dawud al-Khuraybi read the two clauses as a pair. Grievous to him is that you should enter the Fire; eager for you is that you should enter the Garden. Ibn Kathir illustrates the eagerness with narrations he relays from Ahmad and at-Tabarani on the Prophet's ﷺ warnings and parables; he gives them no grading here, and they are not used.",
+            "bn": "কুরতুবী নাহহাসের কথাও উদ্ধৃত করেন। নাহহাসের মতে আরবি ভাষার রীতির সঙ্গে সবচেয়ে মানানসই ব্যাখ্যা আবদুল্লাহ ইবন দাউদ আল-খুরাইবীর। তিনি দুটি অংশকে জোড়া হিসেবে পড়েছেন। তোমরা জাহান্নামে যাবে, এটা তাঁর কাছে অসহ্য। তোমরা জান্নাতে যাবে, এর জন্য তিনি ব্যাকুল। ইবন কাসীর এই ব্যাকুলতা বোঝাতে আহমাদ ও তাবারানী থেকে কিছু বর্ণনা আনেন, নবী ﷺ-এর সতর্কবাণী আর উপমা নিয়ে। সেগুলোর মান তিনি এখানে উল্লেখ করেননি, তাই এ লেখায় সেগুলো নেওয়া হয়নি।"
+          },
+          {
+            "en": "A narration with a related image stands in al-Bukhari's Sahih (6483), from Abu Hurayra; it is general and not tied to this verse. The Messenger ﷺ said: \"My example and the example of people is that of a man who kindled a fire, and when it lit up what was around it, moths and these creatures that fall into fire began falling into it. He began pulling them out, and they overpowered him and plunged into it. So I take hold of your waist-knots to keep you from the Fire, and you plunge into it.\"",
+            "bn": "কাছাকাছি একটি ছবি আছে বুখারীর সহীহ গ্রন্থের এক বর্ণনায় (৬৪৮৩), আবূ হুরায়রা (রাঃ) থেকে। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে বাঁধা নয়। রাসূলুল্লাহ ﷺ বলেছেন: \"আমার আর মানুষের দৃষ্টান্ত সেই লোকের মতো, যে আগুন জ্বালাল। আগুন যখন চারপাশ আলোকিত করল, তখন পতঙ্গ আর আগুনে ঝাঁপ দেওয়া এসব প্রাণী তাতে পড়তে লাগল। সে তাদের টেনে সরাতে লাগল, কিন্তু তারা তাকে হারিয়ে দিয়ে আগুনে ঝাঁপিয়ে পড়তে থাকল। আমিও তোমাদের কোমর ধরে আগুন থেকে টেনে রাখছি, আর তোমরা তাতে ঝাঁপিয়ে পড়ছ।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gentle and Merciful to Believers",
+          "bn": "মু'মিনদের প্রতি কোমল ও দয়ালু"
+        },
+        "p": [
+          {
+            "en": "Bil-mu'minina ra'ufun rahim: to the believers, gentle and merciful. At-Tabari glosses ra'uf with a single word, rafiq, gentle. Al-Qurtubi: one who goes to the utmost in tenderness and compassion. As-Sa'di: intense in tenderness and mercy toward them, more merciful to them than their own parents, which is why his right comes before the rights of all other creatures. Al-Baghawi records a distinction, introduced with it is said: gentle with the obedient, merciful with the sinners.",
+            "bn": "বিল মু'মিনীনা রাঊফুর রাহীম: মু'মিনদের প্রতি তিনি কোমল, দয়ালু। তাবারী রাঊফের অর্থ দেন একটিমাত্র শব্দে: রাফীক, নরম মনের। কুরতুবীর মতে রাঊফ সেই, যার মমতা আর স্নেহ শেষ সীমায় পৌঁছায়। সা'দী বলেন, তাদের প্রতি তাঁর মমতা আর দয়া গভীর, তাদের নিজেদের মা-বাবার চেয়েও তিনি তাদের প্রতি বেশি দয়ালু। এ কারণেই অন্য সব সৃষ্টির হকের আগে তাঁর হক। বাগাভী 'বলা হয়' বলে একটি পার্থক্য উল্লেখ করেন: অনুগতদের প্রতি কোমল, গুনাহগারদের প্রতি দয়ালু।"
+          },
+          {
+            "en": "Al-Qurtubi quotes al-Husayn ibn al-Fadl: Allah did not join two of His own names for any of the prophets except the Prophet Muhammad ﷺ. Of him He said, to the believers gentle and merciful; and of Himself, Allah is, to the people, gentle and merciful (2:143). Ibn Kathir sets the phrase beside 26:215 to 26:217: lower your wing to the believers who follow you; if they disobey you, say, I am free of what you do; and rely on the Mighty, the Merciful. So, he says, Allah commanded him.",
+            "bn": "কুরতুবী হুসাইন ইবনুল ফাদলের কথা উদ্ধৃত করেন: নবীদের মধ্যে আল্লাহ নিজের দুটি নাম একসঙ্গে আর কাউকে দেননি, শুধু নবী মুহাম্মাদ ﷺ-কে দিয়েছেন। তাঁর সম্পর্কে বলেছেন, মু'মিনদের প্রতি কোমল ও দয়ালু। আর নিজের সম্পর্কে বলেছেন, আল্লাহ মানুষের প্রতি কোমল ও দয়ালু (২:১৪৩)। ইবন কাসীর এর পাশে রাখেন ২৬:২১৫ থেকে ২৬:২১৭: যে মু'মিনরা তোমার অনুসরণ করে তাদের প্রতি তোমার ডানা নামিয়ে দাও। তারা অবাধ্য হলে বলো, তোমরা যা করো তার দায় থেকে আমি মুক্ত। আর ভরসা করো মহাপরাক্রমশালী, পরম দয়ালুর উপর। ইবন কাসীর বলেন, আল্লাহ তাঁকে এভাবেই নির্দেশ দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Verses With Abu Khuzayma",
+          "bn": "আবূ খুযাইমার কাছে দুটি আয়াত"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari names this verse in the account of the Qur'an's collection under Abu Bakr. In the longer report (4679), Zayd ibn Thabit, who used to write down the revelation, gathers the Qur'an from parchments, shoulder blades, palm stalks and the memories of men, until he finds two verses of Surat at-Tawba with Khuzayma al-Ansari that he had not found with anyone else: this verse, to the end of the pair. Al-Bukhari himself notes that some transmitters name him Abu Khuzayma, and another says Khuzayma or Abu Khuzayma.",
+            "bn": "আবূ বকর (রাঃ)-এর সময়ে কুরআন সংকলনের বিবরণে বুখারী এ আয়াতের উল্লেখ করেন। দীর্ঘ বর্ণনায় (৪৬৭৯) যায়দ ইবন সাবিত (রাঃ), যিনি ওহী লিখতেন, কুরআন জড়ো করেন চামড়ার টুকরা, কাঁধের হাড়, খেজুরের ডাল আর মানুষের স্মৃতি থেকে। শেষে সূরা তাওবার দুটি আয়াত তিনি পান খুযাইমা আল-আনসারীর কাছে, যা আর কারও কাছে পাননি: এই আয়াত থেকে জোড়ার শেষ পর্যন্ত। বুখারী নিজেই উল্লেখ করেন, কোনো কোনো বর্ণনাকারী নামটি বলেছেন আবূ খুযাইমা, আর একজন বলেছেন খুযাইমা অথবা আবূ খুযাইমা।"
+          },
+          {
+            "en": "In the shorter report (4989) Zayd says: \"Abu Bakr sent for me and said, You used to write the revelation for the Messenger of Allah ﷺ, so search out the Qur'an. I searched until I found the last two verses of Surat at-Tawba with Abu Khuzayma al-Ansari; I did not find them with anyone other than him: There has certainly come to you a Messenger from among yourselves, grievous to him is what you suffer, to its end.\" Al-Qurtubi relays Ubayy ibn Ka'b's view that these two were the last revealed, and Sa'id ibn Jubayr's that 2:281 was.",
+            "bn": "সংক্ষিপ্ত বর্ণনায় (৪৯৮৯) যায়দ বলেন: \"আবূ বকর আমাকে ডেকে পাঠালেন। বললেন, তুমি তো রাসূলুল্লাহ ﷺ-এর জন্য ওহী লিখতে, এবার কুরআন খুঁজে বের করো। আমি খুঁজতে থাকলাম, শেষে সূরা তাওবার শেষ দুটি আয়াত পেলাম আবূ খুযাইমা আল-আনসারীর কাছে। তাঁকে ছাড়া আর কারও কাছে সে দুটি পাইনি: নিশ্চয়ই তোমাদের কাছে তোমাদের মধ্য থেকেই একজন রাসূল এসেছেন, তোমাদের কষ্ট তাঁর কাছে ভারী, শেষ পর্যন্ত।\" কুরতুবী উবাই ইবন কা'ব (রাঃ)-এর মত জানান, এ দুটিই সবশেষে নাযিল হয়েছে। আর সাঈদ ইবন জুবাইরের মত, সবশেষে নাযিল হয়েছে ২:২৮১।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answering a Care Already Given",
+          "bn": "আগে পাওয়া দরদের জবাব"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi ends with 'Abd al-'Aziz ibn Yahya's reading of the verse: grievous to him is what distresses you, and nothing concerns him but your affairs; he it is who will stand to intercede for you, so do not be anxious over what distresses you while you keep to his Sunnah, for nothing pleases him but your entering the Garden. Read so, following him is an answer to care already given. And for those who turn away, the next verse gives him his reply: Allah suffices me.",
+            "bn": "কুরতুবী শেষ করেন আবদুল আযীয ইবন ইয়াহইয়ার ব্যাখ্যা দিয়ে। তোমাদের যা কষ্ট দেয় তা তাঁর কাছে ভারী, তোমাদের বিষয় ছাড়া আর কিছু তাঁকে ভাবায় না। তিনিই তোমাদের জন্য সুপারিশে দাঁড়াবেন। তাই যতক্ষণ তাঁর সুন্নাহর উপর আছ, কষ্ট নিয়ে দুশ্চিন্তা কোরো না। তোমরা জান্নাতে যাবে, এ ছাড়া আর কিছুতে তিনি খুশি হন না। এভাবে পড়লে তাঁকে অনুসরণ করা হয়ে যায় আগে থেকে পাওয়া দরদের জবাব। আর যারা মুখ ফিরিয়ে নেয়, তাদের জন্য পরের আয়াত তাঁকে জবাব শিখিয়ে দেয়: আল্লাহই আমার জন্য যথেষ্ট।"
+          }
+        ]
+      }
+    ]
   }
 });

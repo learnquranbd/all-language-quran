@@ -32343,6 +32343,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Not every believer serves in the same place. Make sure someone, perhaps you, gains real understanding of the religion and carries it back to others with care.",
     "lessonBn": "সব মু'মিন একই জায়গায় থেকে খেদমত করেন না। খেয়াল রাখুন, কেউ না কেউ, হয়তো আপনি নিজেই, দ্বীনের সত্যিকার বুঝ অর্জন করছেন আর মমতা নিয়ে তা অন্যদের কাছে ফিরিয়ে নিয়ে যাচ্ছেন।"
+  },
+  "9:128": {
+    "reflectionEn": "For long pages the surah has described the hypocrites, who glance at each other and slip away whenever a surah comes down. Then, near its close, it turns to the Messenger himself. He came to you from among yourselves, a man whose life you knew. What burdens you weighs heavily on him. He is eager for you, for your guidance and your good, and to the believers he is gentle and merciful. Before asking what he requires of me, the verse asks me to notice what I cost him: my hardship grieves him, my straying troubles him. Then it leaves a question. His concern for me is not in doubt. Does it find any answer in me, or do I follow him only as one who gives orders?",
+    "reflectionBn": "সূরাটি অনেক দূর পর্যন্ত মুনাফিকদের কথা বলেছে। নতুন সূরা নাযিল হলে তারা একে অপরের দিকে তাকায়, তারপর চুপিসারে সরে পড়ে। শেষের কাছে এসে সূরা মুখ ফেরায় রাসূলের দিকে। তিনি এসেছেন তোমাদেরই মধ্য থেকে, এমন একজন মানুষ যাঁর জীবন তোমাদের চেনা। তোমাদের যা কষ্ট দেয়, তা তাঁর কাছে খুব ভারী। তিনি তোমাদের জন্য ব্যাকুল, তোমাদের হিদায়াত আর কল্যাণের জন্য। আর মু'মিনদের প্রতি তিনি কোমল, দয়ালু। তিনি আমার কাছে কী চান, সে প্রশ্নের আগে আয়াতটি দেখায় আমি তাঁর কাছে কতটা দামি। আমার কষ্ট তাঁকে ব্যথা দেয়, আমার পথ হারানো তাঁকে অস্থির করে। তারপর একটা প্রশ্ন রেখে যায়। আমার জন্য তাঁর দরদে কোনো সন্দেহ নেই। আমার ভেতরে কি তার কোনো সাড়া আছে, নাকি আমি তাঁকে মানি শুধু হুকুমদাতা হিসেবে?",
+    "pointsEn": [
+      "When I think of the Prophet ﷺ, what comes to mind first: his commands, or his concern for me?",
+      "Which hardship in my life would have grieved him most, and how much of it have I brought on myself?",
+      "Who in my care should be able to say that I am eager for their good, and would they say it today?",
+      "Is my gentleness kept for those who already agree with me, or does it reach those who are still far off?",
+      "If his care for me was this great, what does the way I follow his Sunnah say back to him?"
+    ],
+    "pointsBn": [
+      "নবী ﷺ-এর কথা ভাবলে আমার মনে আগে কী আসে: তাঁর হুকুম, নাকি আমার জন্য তাঁর দরদ?",
+      "আমার জীবনের কোন কষ্টটা তাঁকে সবচেয়ে বেশি ব্যথা দিত? তার কতটা আমি নিজের হাতে ডেকে এনেছি?",
+      "আমার দায়িত্বে যারা আছে, তারা কি বলতে পারবে যে আমি তাদের ভালোর জন্য ব্যাকুল? আজ জিজ্ঞেস করলে তারা কী বলবে?",
+      "আমার কোমলতা কি শুধু তাদের জন্য, যারা আগে থেকেই আমার সঙ্গে একমত? নাকি দূরে থাকা মানুষের কাছেও তা পৌঁছায়?",
+      "আমার জন্য তাঁর দরদ যদি এত গভীর হয়, তবে তাঁর সুন্নাহ মানার ধরনে আমি তাঁকে কী জবাব দিচ্ছি?"
+    ],
+    "lessonEn": "The Messenger ﷺ was grieved by what burdens you and eager for your good. Answer that care by following him with love, and carry the same care to others.",
+    "lessonBn": "আপনার কষ্ট রাসূল ﷺ-কে ব্যথা দিত, আপনার কল্যাণের জন্য তিনি ছিলেন ব্যাকুল। ভালোবাসা নিয়ে তাঁকে অনুসরণ করে সেই দরদের জবাব দিন, আর একই দরদ পৌঁছে দিন অন্যদের কাছে।"
   }
 };
 
