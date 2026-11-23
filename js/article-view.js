@@ -196,10 +196,10 @@
       ? tPlural('article_minutes', mins, lang, { n: minsDigits })
       : mins + ' min';
 
-    /* Tadabbur and Seerah-conduct articles exist only in English and Bengali (plus the languages
-     * listed here); say so instead of silently showing English to the other readers. */
-    const EN_BN_ONLY = { tadabbur: 1, conduct: 1 };
-    const TRANSLATED = { conduct: ['ur', 'ar', 'hi', 'id'] };
+    /* Tadabbur articles exist only in English and Bengali (plus any languages listed in
+     * TRANSLATED); say so instead of silently showing English to the other readers. */
+    const EN_BN_ONLY = { tadabbur: 1 };
+    const TRANSLATED = {};
     const enOnly = (EN_BN_ONLY[module] && lang !== 'en' && lang !== 'bn' && !(TRANSLATED[module] || []).includes(lang) && typeof t === 'function')
       ? `<p class="mb-3 text-xs text-amber-700 dark:text-amber-300" dir="auto">${esc(t('article_en_only', lang))}</p>` : '';
 
