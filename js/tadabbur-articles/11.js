@@ -627,6 +627,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Challenge to the Motive",
+          "bn": "চ্যালেঞ্জের পর নিয়তের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Surah Hud has just issued its challenge. In 11:13 the deniers are told to bring ten surahs like the Qur'an, and in 11:14 that if nobody answers, they should know it was sent down with Allah's knowledge. Then the surah turns from what people say about revelation to what people want from their own lives: man kana yuridu al-hayata al-dunya wa-zinataha, whoever desires the life of this world and its adornment. The answer follows at once: We pay them their deeds in full there, and there they are not shortchanged.",
+            "bn": "সূরা হূদ এইমাত্র তার চ্যালেঞ্জ দিয়েছে। ১১:১৩ আয়াতে অস্বীকারকারীদের বলা হয়েছে, কুরআনের মতো দশটি সূরা বানিয়ে আনো। ১১:১৪ আয়াতে বলা হয়েছে, কেউ সাড়া না দিলে জেনে রাখো, এ কালাম নেমেছে আল্লাহর জ্ঞান নিয়ে। এরপর সূরাটি ওহী নিয়ে মানুষের কথা থেকে সরে আসে মানুষের নিজের জীবনের চাওয়ার দিকে: মান কানা ইউরীদুল হায়াতাদ দুনইয়া ওয়া যীনাতাহা, যে দুনিয়ার জীবন আর তার সাজসজ্জা চায়। জবাব আসে সঙ্গে সঙ্গে: আমি তাদের কাজের পুরো ফল সেখানেই দিয়ে দিই, আর সেখানে তাদের প্রতি কোনো কমতি করা হয় না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets the verse against an objection that, it says, the opponents of Islam raised when warned of punishment: they pointed to their charity and their public works and asked why they should be punished. Its answer from this verse is that a deed counts toward salvation only when it is done for Allah, while good done for other ends is not lost but paid in the coin its doers sought. What remains after that is the subject of 11:16.",
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে একটি আপত্তির জবাব হিসেবে পড়ে। তার বর্ণনায়, শাস্তির সতর্কবাণী শুনে ইসলামের বিরোধীরা নিজেদের দান-খয়রাত আর জনকল্যাণের কাজের কথা তুলত, আর জিজ্ঞেস করত, তাহলে শাস্তি কেন? এ আয়াত থেকে তার জবাব: আখিরাতে মুক্তির হিসাবে আমল গণ্য হয় তখনই, যখন তা আল্লাহর জন্য করা হয়। অন্য উদ্দেশ্যে করা ভালো কাজও নষ্ট হয় না, তবে তার দাম মেটানো হয় সেই মুদ্রায়, যা কর্তা চেয়েছিল। এরপর কী বাকি থাকে, সে কথা ১১:১৬ আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wanting That Keeps On",
+          "bn": "যে চাওয়া থামে না"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens with the grammar of the condition. Al-Farra' takes kana as an added word, which is why the answer nuwaffi stands in the jussive. Az-Zajjaj instead reads man kana as itself in the jussive of the condition, the first verb past in form and the second future. Ma'arif draws meaning from the same shape: the Qur'an says man kana yuridu, not man arada, and the phrasing carries continuity, someone who kept on wanting. A passing wish is not what it describes.",
+            "bn": "কুরতুবী শুরু করেন শর্তবাক্যের ব্যাকরণ দিয়ে। ফাররার মতে এখানে কানা শব্দটি বাড়তি, তাই জবাবের ক্রিয়া নুওয়াফফি জাযমের রূপে এসেছে। যাজ্জাজ পড়েন অন্যভাবে: মান কানা পুরোটাই শর্তের কারণে জাযমের অবস্থানে, প্রথম ক্রিয়াটি রূপে অতীত আর দ্বিতীয়টি ভবিষ্যৎ। মাআরিফুল কুরআন এই গড়ন থেকেই অর্থ বের করে। কুরআন মান আরাদা (যে চাইল) বলেনি, বলেছে মান কানা ইউরীদু, আর এই বলার ভঙ্গিতে আছে ধারাবাহিকতা: যে চেয়েই চলেছে। দুনিয়ার কোনো জিনিসের জন্য ক্ষণিকের ইচ্ছা এ আয়াতের বিষয় নয়।"
+          },
+          {
+            "en": "As-Sa'di reads the wanting as total. All of the person's will is confined to this life and its adornment, which he lists as women and sons, heaped-up gold and silver, branded horses, cattle and tilled land, the very goods named in 3:14. Such a person has spent his desire, effort and work on these things and given the lasting home no share of his will. Ma'arif marks the boundary from the other side: someone concerned for the Hereafter who also plans for his share of this world is outside the verse.",
+            "bn": "সা'দীর কাছে এ চাওয়া পুরোপুরি। মানুষটির সব ইচ্ছা দুনিয়ার জীবন আর তার সাজসজ্জাতেই সীমাবদ্ধ। সাজসজ্জার তালিকাও তিনি দেন: নারী ও সন্তান, স্তূপ করা সোনা-রুপা, চিহ্নিত ঘোড়া, গবাদি পশু আর ফসলের খেত। ৩:১৪ আয়াতে ঠিক এই জিনিসগুলোরই নাম আছে। এমন মানুষ তার আগ্রহ, চেষ্টা আর আমল সবই এসবে ঢেলে দিয়েছে, স্থায়ী ঘরের জন্য নিজের চাওয়ার কোনো ভাগ রাখেনি। মাআরিফ সীমারেখাটা টানে অন্য দিক থেকে। যে আখিরাতের চিন্তা করে, আবার দুনিয়ায় নিজের প্রাপ্য অংশের পরিকল্পনাও করে, সে এ আয়াতের আওতায় পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Full Payment Looks Like",
+          "bn": "পুরো পাওনার চেহারা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the verse plainly: whoever wants this life and its adornment by his deed, We pay them the wages and reward of their deeds in it, and there they are not docked that wage. Ad-Dahhak, in a report at-Tabari carries, describes what it looks like: a person of shirk who joins ties of kinship, gives to a beggar or shows mercy to someone desperate. Allah hastens his reward in this world, widens his livelihood, cools his eye with what He gave him and turns hardships away, and he has no share in the Hereafter.",
+            "bn": "তাবারীর ব্যাখ্যা সোজা: যে তার আমল দিয়ে দুনিয়ার জীবন আর তার সাজসজ্জা চায়, আমি তাকে সেখানেই তার আমলের মজুরি ও সওয়াব পুরো দিয়ে দিই, সেখানে তার পাওনা থেকে কিছুই কাটা হয় না। তাবারীর আনা এক বর্ণনায় দাহহাক এর চেহারাও এঁকে দেন। শিরকে লিপ্ত কোনো মানুষ আত্মীয়তার বন্ধন রক্ষা করে, ভিক্ষুককে দেয়, বিপদগ্রস্তের প্রতি দয়া দেখায়। আল্লাহ দুনিয়াতেই তার প্রতিদান তাড়াতাড়ি দিয়ে দেন: রিযিক প্রশস্ত করেন, যা দিয়েছেন তাতে তার চোখ জুড়িয়ে দেন, বিপদ-আপদ সরিয়ে দেন। কিন্তু আখিরাতে তার কোনো ভাগ থাকে না।"
+          },
+          {
+            "en": "Al-Baghawi says it in fewer words: ample provision and the warding off of harm. Al-Hasan, in at-Tabari, says simply: their good things. Sa'id ibn Jubayr likens the verse to 30:39, on wealth given out to grow in other people's property, which does not grow with Allah. On the closing clause, at-Tabari and al-Baghawi take fiha as this world. Al-Muyassar and as-Sa'di add that they receive what was apportioned for them, and as-Sa'di closes: nothing decreed for them is held back, but this is the furthest their bliss will go.",
+            "bn": "বাগাভী একই কথা বলেন আরও কম শব্দে: প্রশস্ত রিযিক আর অপছন্দের জিনিস দূরে রাখা। তাবারীর বর্ণনায় হাসান শুধু বলেন: তাদের ভালো ভালো জিনিস। সাঈদ ইবন জুবাইর আয়াতটিকে মিলিয়ে দেখেন ৩০:৩৯ আয়াতের সঙ্গে, যেখানে মানুষের সম্পদে বাড়ার আশায় দেওয়া সম্পদের কথা আছে, যা আল্লাহর কাছে বাড়ে না। শেষ বাক্যের ফীহা (সেখানে) শব্দটি তাবারী আর বাগাভী দুজনেই দুনিয়া অর্থে নেন। মুয়াসসার আর সা'দী যোগ করেন, তারা পায় ততটুকুই, যা তাদের জন্য বণ্টন করা আছে। সা'দীর শেষ কথাটা ভাবার মতো: তাদের জন্য যা নির্ধারিত, তার কিছুই আটকানো হয় না, কিন্তু তাদের সুখের শেষ সীমা এটুকুই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who the Wanter Is",
+          "bn": "এই চাওয়ার মানুষটি কে"
+        },
+        "p": [
+          {
+            "en": "The commentators disagree on whom the verse means; al-Qurtubi sets out the range. One view, ad-Dahhak's, which an-Nahhas preferred, is that it concerns the disbelievers, on the evidence of 11:16, which leaves them nothing in the Hereafter but the Fire. As-Sa'di reaches the same place by another road: a person whose whole will is for this world can only be a disbeliever, since even a little faith would stop all of it going there. Anas, in at-Tabari and Ibn Kathir, and al-Hasan, in Ibn Kathir, say it came down about the Jews and the Christians.",
+            "bn": "আয়াতটি কাদের কথা বলছে, এ নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে, আর কুরতুবী পুরো পরিসরটা সাজিয়ে দেন। একটি মত দাহহাকের, নাহহাস যেটি গ্রহণ করেছেন: আয়াতটি কাফিরদের নিয়ে। দলিল ১১:১৬, যেখানে আখিরাতে তাদের জন্য আগুন ছাড়া কিছু রাখা হয়নি। সা'দী অন্য পথ ধরে একই জায়গায় পৌঁছান। যার সব ইচ্ছা দুনিয়ার জন্য, সে কাফির ছাড়া আর কিছু হতে পারে না, কারণ সামান্য ঈমানও তাকে সব চাওয়া দুনিয়ায় ঢেলে দিতে দিত না। তাবারী ও ইবন কাসীরে আনাস (রাঃ), আর ইবন কাসীরে হাসান বলেন, আয়াতটি নেমেছে ইহুদি ও খ্রিস্টানদের ব্যাপারে।"
+          },
+          {
+            "en": "A second line points at those who show off. Mujahid, in a report at-Tabari carries, said it twice: they are the people of showing off. Ibn Abbas, through al-Awfi, describes a person who fasts, prays or stands at night only to obtain the world: Allah gives him the worldly return he sought, his deed comes to nothing, and in the Hereafter he is among the losers. Al-Qurtubi also records a view that the verse means believers who want this world's reward by their deeds, and another that limits it to those who joined the Prophet's ﷺ campaigns for gain.",
+            "bn": "দ্বিতীয় ধারার ইঙ্গিত লোক দেখানো মানুষদের দিকে। তাবারীর আনা এক বর্ণনায় মুজাহিদ কথাটা দুবার বলেছেন: এরা রিয়াকারী, এরা রিয়াকারী। আওফীর সূত্রে ইবন আব্বাস (রাঃ) এমন একজনের কথা বলেন, যে রোযা রাখে, নামায পড়ে বা রাতে তাহাজ্জুদে দাঁড়ায় শুধু দুনিয়া পাওয়ার জন্য। আল্লাহ তাকে দুনিয়ার সেই প্রতিদান দিয়ে দেন, যা সে খুঁজেছিল, তার আমল নিষ্ফল হয়ে যায়, আর আখিরাতে সে ক্ষতিগ্রস্তদের দলে। কুরতুবী আরও দুটি মত উল্লেখ করেন। একটি মতে আয়াতটি সেই মুমিনদের নিয়ে, যারা আমল দিয়ে দুনিয়ার সওয়াব চায়। আরেকটি মত একে সীমিত করে তাদের মধ্যে, যারা গনীমতের আশায় নবী ﷺ-এর সঙ্গে যুদ্ধে গিয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi calls that last view too narrow and the general reading correct: the verse covers anyone who intends other than Allah by his deed, whether or not he has a root of faith. He gives it to Mujahid and Maymun ibn Mihran, and says Mu'awiyah (RA) held it. Al-Baghawi agrees, and Ma'arif calls it the weightier view. Either way, the verse describes a kind of wanting and its wage. It licenses nothing against any living person or community, Jewish, Christian or otherwise, and gives nobody leave to rule on another's intention.",
+            "bn": "শেষ মতটিকে কুরতুবী সংকীর্ণ বলেন, আর সঠিক বলেন ব্যাপক মতটিকে। তা হলো, যে-ই আমল দিয়ে আল্লাহ ছাড়া অন্য কিছু চায়, আয়াত তাকেই ধরে, তার ভেতরে ঈমানের মূলটুকু থাকুক বা না থাকুক। মতটি তিনি মুজাহিদ ও মায়মূন ইবন মিহরানের বলে উল্লেখ করেন, আর বলেন মুআবিয়া (রাঃ)-ও এ মত পোষণ করতেন। বাগাভীও এ মতের, আর মাআরিফুল কুরআন একে বেশি ওজনদার বলে। যেভাবেই পড়া হোক, আয়াত বর্ণনা করছে এক ধরনের চাওয়া আর তার মজুরি। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, ইহুদি, খ্রিস্টান বা অন্য কেউ হোক, এ আয়াত কোনো কিছুর অনুমতি দেয় না। অন্যের নিয়তের ব্যাপারে রায় দেওয়ার অধিকারও কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The First Three Brought Forward",
+          "bn": "সবার আগে ডাকা তিনজন"
+        },
+        "p": [
+          {
+            "en": "Under the reading about those who show off, al-Qurtubi ties a hadith of Abu Hurayrah (RA) to this verse, and says Muslim records it in meaning, and at-Tirmidhi too. Sahih Muslim (1905) gives it through Sulayman ibn Yasar. As the people dispersed from around Abu Hurayrah, Natil of Syria said to him: Shaykh, tell us a hadith you heard from the Messenger of Allah ﷺ. He said: Yes. I heard the Messenger of Allah ﷺ say what follows.",
+            "bn": "লোক দেখানো মানুষদের নিয়ে যে মত, তার অধীনে কুরতুবী আবু হুরায়রা (রাঃ)-এর একটি হাদীসকে এ আয়াতের সঙ্গে যুক্ত করেন। তিনি বলেন, মুসলিম এটি অর্থগতভাবে বর্ণনা করেছেন, তিরমিযীও করেছেন। সহীহ মুসলিমে (১৯০৫) হাদীসটি এসেছে সুলাইমান ইবন ইয়াসারের সূত্রে। আবু হুরায়রা (রাঃ)-এর চারপাশ থেকে লোকজন সরে যাচ্ছিল, তখন শামের নাতিল তাঁকে বলল: শায়খ, আল্লাহর রাসূল ﷺ-এর কাছ থেকে শোনা একটা হাদীস আমাদের বলুন। তিনি বললেন: হ্যাঁ। আমি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছি, যা নিচে আসছে।"
+          },
+          {
+            "en": "'The first of the people to be judged on the Day of Resurrection will be a man who was martyred. He will be brought, and He will make him recognise His favours, and he will recognise them. He will say: What did you do with them? He will say: I fought for You until I was martyred. He will say: You have lied. Rather, you fought so that it would be said: he is bold. And it was said. Then the order will be given, and he will be dragged on his face until he is thrown into the Fire.",
+            "bn": "'কিয়ামতের দিন সবার আগে যার বিচার হবে, সে এমন এক লোক যে শহীদ হয়েছিল। তাকে আনা হবে, আল্লাহ তাকে তাঁর নিয়ামতগুলো চিনিয়ে দেবেন, আর সে সেগুলো চিনবে। তিনি বলবেন: এগুলো দিয়ে তুমি কী করেছ? সে বলবে: আমি আপনার পথে লড়াই করেছি, শেষে শহীদ হয়েছি। তিনি বলবেন: তুমি মিথ্যা বলেছ। তুমি লড়েছ যাতে বলা হয়, লোকটা সাহসী। আর তা বলা হয়েও গেছে। তারপর তার ব্যাপারে হুকুম হবে, তাকে উপুড় করে টেনে নিয়ে আগুনে ফেলে দেওয়া হবে।"
+          },
+          {
+            "en": "And a man who learned knowledge and taught it, and recited the Qur'an. He will be brought, and He will make him recognise His favours, and he will recognise them. He will say: What did you do with them? He will say: I learned knowledge and taught it, and recited the Qur'an for You. He will say: You have lied. Rather, you learned so that it would be said: he is a scholar, and recited so that it would be said: he is a reciter. And it was said. Then the order will be given, and he will be dragged on his face until he is thrown into the Fire.",
+            "bn": "আরেক লোক, যে ইলম শিখেছিল, অন্যকে শিখিয়েছিল আর কুরআন পড়েছিল। তাকে আনা হবে, আল্লাহ তাকে তাঁর নিয়ামতগুলো চিনিয়ে দেবেন, আর সে সেগুলো চিনবে। তিনি বলবেন: এগুলো দিয়ে তুমি কী করেছ? সে বলবে: আমি ইলম শিখেছি, শিখিয়েছি, আর আপনার জন্য কুরআন পড়েছি। তিনি বলবেন: তুমি মিথ্যা বলেছ। তুমি ইলম শিখেছ যাতে বলা হয়, লোকটা আলেম। কুরআন পড়েছ যাতে বলা হয়, লোকটা কারী। আর তা বলা হয়েও গেছে। তারপর তার ব্যাপারে হুকুম হবে, তাকে উপুড় করে টেনে নিয়ে আগুনে ফেলে দেওয়া হবে।"
+          },
+          {
+            "en": "And a man to whom Allah gave plenty, and granted every kind of wealth. He will be brought, and He will make him recognise His favours, and he will recognise them. He will say: What did you do with them? He will say: I left no path in which You love wealth to be spent without spending in it for You. He will say: You have lied. Rather, you did it so that it would be said: he is generous. And it was said. Then the order will be given, and he will be dragged on his face, then thrown into the Fire.'",
+            "bn": "আরেক লোক, যাকে আল্লাহ সচ্ছলতা দিয়েছিলেন, সব রকমের সম্পদ দিয়েছিলেন। তাকে আনা হবে, আল্লাহ তাকে তাঁর নিয়ামতগুলো চিনিয়ে দেবেন, আর সে সেগুলো চিনবে। তিনি বলবেন: এগুলো দিয়ে তুমি কী করেছ? সে বলবে: যে পথে খরচ করা আপনি ভালোবাসেন, এমন কোনো পথ আমি বাদ রাখিনি, আপনার জন্য সেখানে খরচ করেছি। তিনি বলবেন: তুমি মিথ্যা বলেছ। তুমি এসব করেছ যাতে বলা হয়, লোকটা দানশীল। আর তা বলা হয়েও গেছে। তারপর তার ব্যাপারে হুকুম হবে, তাকে উপুড় করে টেনে নিয়ে আগুনে ফেলে দেওয়া হবে।'"
+          },
+          {
+            "en": "At-Tirmidhi's longer version (2382), also in at-Tabari, ends with Mu'awiyah (RA). On hearing the report he wept until those present feared for him, then said that Allah and His Messenger had spoken the truth, and recited 11:15 and 11:16. At-Tirmidhi grades that version hasan gharib, so its extra wording is only mentioned here. Al-Qurtubi's summary, which Ma'arif follows, reads as if Abu Hurayrah recited the verse; in the text at-Tabari and at-Tirmidhi give, it is Mu'awiyah.",
+            "bn": "তিরমিযীর দীর্ঘতর বর্ণনা (২৩৮২), যা তাবারীতেও আছে, শেষ হয় মুআবিয়া (রাঃ)-এর কথায়। খবরটি শুনে তিনি এত কাঁদলেন যে উপস্থিত লোকেরা তাঁর প্রাণের আশঙ্কা করল। তারপর বললেন, আল্লাহ ও তাঁর রাসূল সত্য বলেছেন, আর ১১:১৫ ও ১১:১৬ আয়াত তিলাওয়াত করলেন। তিরমিযী এ বর্ণনাকে হাসান গরীব বলেছেন, তাই এর বাড়তি অংশ এখানে শুধু উল্লেখ করা হলো। কুরতুবীর সংক্ষিপ্ত বর্ণনা, মাআরিফ যা অনুসরণ করেছে, পড়লে মনে হয় আয়াতটি পড়েছিলেন আবু হুরায়রা (রাঃ)। অথচ তাবারী ও তিরমিযীর পাঠে তিনি মুআবিয়া (রাঃ)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fed Here for What They Did",
+          "bn": "এখানেই খাইয়ে দেওয়া প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "Qatadah, in at-Tabari and Ibn Kathir, draws the line: whoever makes this world his concern and intention is repaid for his good deeds here and reaches the Hereafter with none left; the believer is rewarded in both. Ma'arif cites the matching hadith in Sahih Muslim (2808), from Anas (RA): 'Allah does not wrong a believer a good deed. He is given for it in this world and rewarded for it in the Hereafter. As for the disbeliever, he is fed for the good deeds he did for Allah in this world, until, when he reaches the Hereafter, he has no good deed for which to be rewarded.'",
+            "bn": "তাবারী ও ইবন কাসীরে কাতাদা সীমারেখাটা টেনে দেন। যে দুনিয়াকেই নিজের চিন্তা আর নিয়ত বানিয়েছে, তার নেক আমলের প্রতিদান এখানেই মিটিয়ে দেওয়া হয়, আর সে আখিরাতে পৌঁছে দেখে কিছুই বাকি নেই। আর মুমিন প্রতিদান পায় দুই জায়গাতেই। মাআরিফুল কুরআন এর সঙ্গে মেলে এমন হাদীস উল্লেখ করে, সহীহ মুসলিমে (২৮০৮) আনাস (রাঃ) থেকে: 'আল্লাহ কোনো মুমিনের একটি নেকির ব্যাপারেও জুলুম করেন না। এর বিনিময়ে তাকে দুনিয়াতে দেওয়া হয়, আর আখিরাতে এর প্রতিদান দেওয়া হয়। আর কাফির, সে আল্লাহর জন্য দুনিয়াতে যে নেক কাজ করেছে, তার বিনিময়ে তাকে খাওয়ানো হয়। শেষে যখন সে আখিরাতে পৌঁছায়, তখন তার এমন কোনো নেকি থাকে না, যার প্রতিদান দেওয়া হবে।'"
+          },
+          {
+            "en": "Al-Qurtubi ties the wider reading to the hadith al-Bukhari places first in his Sahih (1), from Umar (RA): 'Deeds are only by intentions, and each person has only what he intended. So whoever's emigration was for a world he would gain, or a woman he would marry, his emigration is for what he emigrated for.' From the verse he then draws two rulings: a fast kept in Ramadan without intending Ramadan does not count for it, and ablution done only to cool off or get clean does not count as worship toward prayer.",
+            "bn": "ব্যাপক মতটিকে কুরতুবী যুক্ত করেন নিয়তের হাদীসের সঙ্গে, যা বুখারী তাঁর সহীহ গ্রন্থের একেবারে শুরুতে (১) রেখেছেন, উমর (রাঃ) থেকে: 'আমল তো নিয়ত অনুযায়ীই, আর প্রত্যেকে তা-ই পায়, যার নিয়ত সে করেছে। কাজেই যার হিজরত ছিল দুনিয়ার কিছু পাওয়ার জন্য, কিংবা কোনো নারীকে বিয়ে করার জন্য, তার হিজরত সেদিকেই, যেদিকে সে হিজরত করেছে।' এরপর কুরতুবী আয়াত থেকে দুটি মাসআলা বের করেন। রমযানে রমযানের নিয়ত ছাড়া রোযা রাখলে তা রমযানের রোযা হিসেবে গণ্য হয় না। আর শুধু শরীর ঠান্ডা করতে বা পরিষ্কার হতে ওযু করলে তা নামাযের জন্য ইবাদত হিসেবে গণ্য হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abrogated, or Narrowed by Al-Isra",
+          "bn": "রহিত, নাকি সীমিত"
+        },
+        "p": [
+          {
+            "en": "If the promise is full payment, why do many who chase the world get little of it? Ma'arif raises the question and answers from 17:18: whoever wants the fleeting life, We hasten for him in it what We will, for whom We intend. The giving has two limits: as much as Allah wills, not as much as the seeker wishes, and only to whom His wisdom sees fit. Ibn Kathir, in the abridged English, sets 17:18 to 17:21 and 42:20 beside the verse.",
+            "bn": "প্রতিশ্রুতি যদি পুরো পাওনার হয়, তবে দুনিয়ার পেছনে ছোটা অনেকে কেন সামান্যই পায়? মাআরিফুল কুরআন প্রশ্নটা তুলে জবাব দেয় ১৭:১৮ আয়াত দিয়ে: যে তাড়াতাড়ি পাওয়ার জিনিস চায়, আমি যাকে চাই, যতটুকু চাই, এখানেই তাড়াতাড়ি দিয়ে দিই। মাআরিফের ভাষায়, এই দেওয়ার দুটি সীমা আছে। এক, দেওয়া হয় আল্লাহ যতটুকু চান, প্রার্থী যতটুকু চায় ততটুকু নয়। দুই, দেওয়া হয় শুধু তাকে, যাকে দেওয়া তাঁর হিকমতে সংগত। সংক্ষিপ্ত ইংরেজি ইবন কাসীর এ আয়াতের পাশে রাখেন ১৭:১৮ থেকে ১৭:২১ আর ৪২:২০।"
+          },
+          {
+            "en": "Ad-Dahhak relays from Ibn Abbas (RA) that this verse is abrogated by 17:18. Al-Qurtubi rejects that: most scholars, he says, take it as an absolute statement that the verse in al-Isra restricts, and a report from Allah cannot be abrogated, since that would make it untrue. His parallel is 2:186, which on its face promises an answer to every caller, read with 6:41, which adds: if He wills. The two positions stand side by side as al-Qurtubi records them.",
+            "bn": "দাহহাক ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এ আয়াত ১৭:১৮ দিয়ে রহিত হয়ে গেছে। কুরতুবী তা মানেন না। তাঁর ভাষায়, অধিকাংশ আলেম একে শর্তহীন বক্তব্য ধরেন, যাকে সূরা ইসরার আয়াতটি সীমিত করে দিয়েছে। আর আল্লাহর দেওয়া কোনো খবর রহিত হতে পারে না, কারণ তাতে খবরটি অসত্য হয়ে যায়। তাঁর দৃষ্টান্ত ২:১৮৬, যা বাহ্যত প্রত্যেক আহ্বানকারীর ডাকে সাড়া দেওয়ার কথা বলে। এর সঙ্গে পড়তে হয় ৬:৪১, যেখানে যুক্ত আছে: তিনি চাইলে। কুরতুবী দুটি অবস্থানই লিখে রেখেছেন, এখানেও দুটি পাশাপাশি থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "And It Was Said",
+          "bn": "আর তা বলা হয়েও গেছে"
+        },
+        "p": [
+          {
+            "en": "The three men in Muslim's hadith did nothing wrong in form. They fought, taught, recited and spent. What undid them was what they were after, and they received it, which is the weight of the line said to each: and it was said. The verse asks every reader: when I pray, give or teach, what do I hope will come of it, and has it perhaps come already?",
+            "bn": "মুসলিমের হাদীসের তিনজনের কাজে বাইরের চেহারায় কোনো ত্রুটি ছিল না। তারা লড়েছে, শিখিয়েছে, কুরআন পড়েছে, খরচ করেছে। তাদের সর্বনাশ করেছে তারা যা চাইছিল সেটাই, আর তা তারা পেয়েও গেছে। প্রত্যেককে বলা বাক্যটির ভার এখানেই: আর তা বলা হয়েও গেছে। আয়াতটি প্রত্যেক পাঠকের কাছে একই প্রশ্ন রাখে। আমি যখন নামায পড়ি, দান করি বা কাউকে শেখাই, তখন এর বিনিময়ে কী আশা করি? আর সেটা কি হয়তো এর মধ্যেই এসে গেছে?"
+          },
+          {
+            "en": "The verse is a measure for the reader's own heart, not a tool for reading anyone else's. The verdicts in the hadith are Allah's, given on the day hidden things are laid open, and nobody holds that knowledge about another person now. Nor does the verse ask anyone to stop wanting a decent life in this world. What it warns against is a wanting that leaves the Hereafter no share at all.",
+            "bn": "এ আয়াত নিজের অন্তর মাপার মাপকাঠি, অন্যের অন্তর পড়ার যন্ত্র নয়। হাদীসের রায়গুলো আল্লাহর, দেওয়া হবে সেদিন, যেদিন গোপন সব কিছু খুলে যাবে। আজ অন্য কারও ব্যাপারে সেই জ্ঞান কারও কাছে নেই। আয়াতটি দুনিয়ায় ভদ্রস্থ জীবন চাওয়া ছেড়ে দিতেও বলে না। তার সতর্কবাণী এমন চাওয়ার বিরুদ্ধে, যা আখিরাতের জন্য কোনো ভাগই রাখে না।"
+          }
+        ]
+      }
+    ]
+  },
   "11:18": {
     "sections": [
       {

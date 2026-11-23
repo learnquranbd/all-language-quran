@@ -32763,6 +32763,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Rejection of the truth is an old pattern, and Allah's delay in judging is decreed, not neglect. Keep doing what you were asked, and leave the verdict to Him.",
     "lessonBn": "সত্যকে প্রত্যাখ্যান করা পুরোনো রীতি, আর ফায়সালায় আল্লাহর দেরি তাঁরই নির্ধারণ, অবহেলা নয়। যা করতে বলা হয়েছে করে যান, রায় তাঁর হাতে ছেড়ে দিন।"
+  },
+  "11:15": {
+    "reflectionEn": "Some people get exactly what they worked for. The verse speaks of someone whose wanting never reaches past this life and its adornment, and it promises that he will be paid in full, here, with nothing held back. That sounds generous until you notice the word here. A name for generosity, a reputation for learning, a comfortable life: all of it can arrive on time and complete, and still be the whole of the wage. The very next verse says what is left after that. So the real question is not whether my good deeds will be noticed. It is who I am doing them for. If the praise I hoped for has already come, what am I still expecting to collect?",
+    "reflectionBn": "কিছু মানুষ যা চেয়ে কাজ করে, ঠিক তা-ই পায়। আয়াতটি এমন একজনের কথা বলছে, যার চাওয়া এই দুনিয়া আর তার সাজসজ্জা পেরিয়ে আর কোথাও যায় না। আল্লাহ বলছেন, তাকে পুরো পাওনা দেওয়া হবে, এখানেই, একটুও কম না করে। শুনতে উদার মনে হয়, যতক্ষণ না 'এখানেই' শব্দটার দিকে চোখ পড়ে। দানশীল বলে নাম, আলেম বলে খ্যাতি, আরামের জীবন, সবই সময়মতো আর পুরোপুরি আসতে পারে। আর সেটুকুই হতে পারে পুরো মজুরি। ঠিক পরের আয়াত বলে দেয়, এরপর আর কী বাকি থাকে। তাই আসল প্রশ্ন এটা নয় যে আমার ভালো কাজ কেউ দেখবে কি না। প্রশ্ন হলো, কাজটা আমি কার জন্য করছি। যে প্রশংসার আশা ছিল, তা যদি এসেই গিয়ে থাকে, তবে আর কী পাওয়ার অপেক্ষায় আছি?",
+    "pointsEn": [
+      "Which good deed of mine would I quietly stop doing if nobody ever saw it or heard about it?",
+      "When people praise something I did, does the praise feel like a wage already received, or like a reminder of the One I did it for?",
+      "Is there a part of my life where everything I want sits inside this world, with nothing set aside for what comes after it?",
+      "When I see someone else's good work, do I examine my own intention, or start guessing at theirs?",
+      "Which act of worship or giving could I do this week where only Allah would know of it?"
+    ],
+    "pointsBn": [
+      "কেউ কোনোদিন দেখবে না বা শুনবে না জানলে আমার কোন ভালো কাজটা আমি চুপচাপ ছেড়ে দিতাম?",
+      "লোকে যখন আমার কোনো কাজের প্রশংসা করে, তখন কি মনে হয় মজুরিটা হাতে পেয়ে গেলাম? নাকি মনে পড়ে, কাজটা কার জন্য করেছিলাম?",
+      "আমার জীবনের এমন কোনো দিক কি আছে, যেখানে সব চাওয়া এই দুনিয়ার ভেতরেই আটকে আছে, পরের জীবনের জন্য কিছুই তোলা নেই?",
+      "অন্যের ভালো কাজ দেখলে আমি কি নিজের নিয়ত যাচাই করি, নাকি তার নিয়ত নিয়ে আন্দাজ শুরু করি?",
+      "এ সপ্তাহে কোন ইবাদত বা দান আমি এমনভাবে করতে পারি, যার খবর শুধু আল্লাহ জানবেন?"
+    ],
+    "lessonEn": "Whatever you seek through a good deed is what you are paid. Do it for Allah, and do not settle for a wage that ends with this world.",
+    "lessonBn": "ভালো কাজের মাধ্যমে যা চাইবেন, পাওনা হিসেবে তা-ই পাবেন। কাজটা আল্লাহর জন্য করুন, আর এমন মজুরিতে সন্তুষ্ট হবেন না, যা এই দুনিয়াতেই ফুরিয়ে যায়।"
   }
 };
 
